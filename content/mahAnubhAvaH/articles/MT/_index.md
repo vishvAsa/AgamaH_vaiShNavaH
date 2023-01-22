@@ -1,0 +1,4 @@
++++
+title = "+मानसतरङ्गिणीकृल्लेखाः"
+unicode_script = "devanagari"
++++
