@@ -14,8 +14,6 @@ title = "सर्व-प्रस्तुतिः"
 </details>
 
 
-
-
 <details><summary>FX Clooney - Notes</summary>
 
 I. The Purpose of the Nityam: The Daily Practice of the Person Who Has Already Taken Refuge 
@@ -52,26 +50,89 @@ I will now set forth (the performance of) the adoration of the Lord by the perso
     - Vaiṣṇavottamas (the highest devotees of Viṣṇu who single-mindedly obey the commands of the Lord and do what is required).
 </details>
 
-<details><summary>FX Clooney - Notes</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Part One: Routine Preparations, Recollection of the Act of Taking Refuge, and Interior Preparations 
+तत्र प्रथमम् अधिकारि-विशेषे वृत्त-वर्त्तिष्यमाणयोः सङ्गतिं दर्शयन्,  
+
+> कर्मारम्भेण मन्त्रेण  
+> प्राप्तं कालम् अनुस्मरेत् ।  
+> इज्याम् एवाऽभिसन्दध्यात्  
+> सा योनिः सर्वकर्मणाम्॥
+
+इति प्रशंसितं चिकीर्षित-ग्रन्थ-विषयी-भूतम्  
+अहो-रात्र-कृत्ये प्रधानांशे दर्शयति- "अथ परमैकान्तिनो भगवदाराधनं वक्ष्ये"।  
+
+**परमैकान्ती** -
+
+> प्रीत्य्-अर्थं वासुदेवस्य  
+> कर्म-ज्ञानादिकं नरः ।  
+> स विप्रः परमैकान्ती  
+> महाभागवतः स्मृतः ॥  
+> प्र.ध. स - परि. प्रकरणे - १० 
+
+इति ।  
+
+**अथ**-शब्दस्य प्रसिद्धि-प्रकर्ष-सिद्धे आनन्तर्ये सम्भवति,  
+अर्थान्तर-परिग्रहः अनुपपन्नः इति,  
+भाष्यादिषु स्थापितम् ।  
+अथ गद्यैः यथावत् प्रपत्ति-प्रतिपादनानन्तरं  
+तत एव तन्-निष्ठाधिकारि-विशेष-सिद्धि-समनन्तरं (वा)  
+यथावस्थित-स्वरूप-रूप-गुण-विभूति-लीलोपकरण-विस्तारम् अनुसन्धाय,  
+तम् एव शरणम् उपगच्छेत्,  
+अखिलेत्यादिना इति वक्ष्यमाणानुसाराच् च,  
+अत्र तथाविध-शरणागति-विषय-गद्य-ग्रन्थस्य पूर्व-वृत्तत्वं विवक्षितम् इति ज्ञायते ।
+
+न च तत्र अखिलजगदाधार इत्यादि-मन्त्र-पङ्क्तिर् विवक्षिता;  
+तस्याः प्रपत्ति-करणत्वादर्शनात् ।  
+यथावस्थित-स्वरूप-रूप-गुण-विभूतीनां च गद्य एव प्रपञ्चनात् ।  
+अनन्य-शरणस् त्वत्-पादारविन्द-युगलं शरणम् अहं प्रपद्ये  
+इति च तत्र कण्ठोक्तेः ।  
+तस्मात् यथोक्त एवाऽत्र **अथ** शब्दार्थः ।
+
+> 'परमश्चाऽसौ एकान्तश्चेति परमैकान्तः ।  
+> सः अस्याऽस्तीति परमैकान्ती' । 
+
+एकत्र अन्तः - निश्चयः प्राप्यतया प्रापकतया च ।  
+तद् उभयं सम्भूय परमैकान्तः ।  
+'परमश् चाऽसौ एकान्ती च' इति वा समासः ।  
+तत्राऽपि अनन्योपायत्वानन्यप्रयोजनत्वयोः समुच्चयात् पारम्यम् ।  
+अनन्योपायत्वं च अनन्य-देवताकत्व-पर्यन्तम् ।
+
+यथोक्तम् -
+
+> चतुर्विधा मम जनाः  
+> भक्ता एव हि ते श्रुताः ।  
+> तेषामेकान्तिनः श्रेष्ठाः  
+> ते चैवाऽनन्यदेवताः । ।  
+> इति । (म.भा.शां.प. ३२८-३०) 
+
+अनन्यप्रयोजनत्वं च - आत्मानन्दानुभव-नैरपेक्ष्य-पर्यन्तम् । तदप्य् उक्तम् -
+
+> ये तु शिष्टास् त्रयो भक्ताः  
+फलकामा हि ते मताः ।  
+सर्वे च्यवन-धर्माणः  
+प्रतिबुद्धस्तु मोक्षभाक् ॥ 
+
+इति ।
 </details>
+
 
 <details><summary>मूलम्</summary>
 
 अथ परमैकान्तिनो भगवदाराधनप्रयोगं वक्ष्ये ।
 </details>
 
-<details><summary>FX Clooney</summary>
+<details><summary>FX Clooney - Notes</summary>
 
+Part One: Routine Preparations, Recollection of the Act of Taking Refuge, and Interior Preparations  
 II. Routine Preparations 
 </details>
 
-भगवत्कैङ्कर्यैकरतिः,
 
 ## स्नानम् 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+भगवत्कैङ्कर्यैकरतिः,  
 परमैकान्ती भूत्वा
 </details>
 
@@ -82,6 +143,7 @@ After he has become a person whose sole pleasure lies in service of the Lord and
 
 <details><summary>मूलम्</summary>
 
+भगवत्कैङ्कर्यैकरतिः,  
 परमैकान्ती भूत्वा
 </details>
 
@@ -262,6 +324,12 @@ with the third, let him make his seat at the holy stream.
 [^11]: The astra-mantra: oṃ vīryāyāstrāya phaṭ, “Oṁ phaṭ, [obeisance to] the mighty weapon” (Esnoul 1972: 59n4; my translation). The binding of the directions may be marked by the showing of the appropriate mudrā.
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१४. अस्त्रमन्त्रः 'वीर्याय अस्त्राय फट्' |
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 एकेन दिग्बन्धनम् अस्त्रमन्त्रेण कुर्यात्,  
@@ -274,8 +342,8 @@ with the third, let him make his seat at the holy stream.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः पाणी प्रक्षाल्य,  
-उदकाञ्जलिम् आदाय तीर्थस्य,  
-अर्घ्यार्थम् उत्क्षिप्य,  
+उदकाञ्जलिम् आदाय  
+तीर्थस्य +अर्घ्यार्थम् उत्क्षिप्य,  
 भगवद्-वाम-पादांगुष्ठ-विनिस्सृत-गङ्गाजलं  
 तीर्थे सङ्कल्पितपीठे आवाह्य,  
 (अर्घ्यं दत्त्वा)  
@@ -290,6 +358,16 @@ and scatters guest-water taken from a holy stream.
 He invokes onto the prepared seat some Gaṇgā-water sprung from the Lord’s left big toe.  
 After giving guest-water and blessing it with the root mantra,
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१८. **उदकाञ्जलिः** - उदकपूरितोऽञ्जलिः, तौ युतौ अञ्जलिः ।  
+१९. तीर्थमुद्दिश्य अञ्जलिगतं तीर्थम् ऊर्ध्वं उत्क्षेपणतः समर्प्य ।  
+२०. **आवाह्य**  गङ्गे आयाहि ! इति ।  
+२१. अर्ध्यार्थमुदकं दत्वा ।  
+२२. नारायणाष्टाक्षरेण पुरतः स्थितं जलम् ।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -317,6 +395,13 @@ After giving guest-water and blessing it with the root mantra,
 he takes a handful of water, sprinkles it on his head. He recites the mantra seven times; or, he may do this three or five or seven times. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+२३. अञ्जलिस्थं जलं सप्तवारम् अष्टाक्षरेण अभिमन्त्र्य स्वमूर्ध्नि ।  
+२४. उदकाञ्जलेः स्वमूर्ध्नि क्षेपः त्रिवारं पञ्चवारं, सप्तवारं वा ।  
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 उदकाञ्जलिम् आदाय,  
@@ -340,6 +425,13 @@ Then he takes water in his right hand, blesses it with the mantra, and drinks it
 Then he sprinkles himself (scattering it around). 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+२५. पीत्वेति - बाह्यक्रिया, आचम्येति ।  
+२६. पुनरुद्धृतेन तीर्थेन स्वदेहं प्रोक्ष्य, शास्तीयता+++(=??)+++ तस्याः परितः सिक्तं कृत्वा । 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 दक्षिणेन पाणिना जलम् आदाय, अभिमन्त्र्य, पीत्वा,  
@@ -358,6 +450,14 @@ Then he sprinkles himself (scattering it around).
 
 He plunges into the holy stream, and while there, with his head placed at the lotus feet of the Lord, he recites the root mantra as many times as he can. 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+२७. मानसं चिन्तनमिदम् ।  
+२८. मग्न एव सन् श्वासधारणशक्तिमनुसृत्य अष्टाक्षरं जपेत् । मूलमन्त्रम् - ओं नमो नारायणाय इति । शक्त्यनुगुणसंख्यामवलम्ब्य ।
+२९. जलात् उच्चतः भूमिं प्राप्य । 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -379,6 +479,70 @@ Then he gets out and puts on a white lower garment and an upper garment.
 He sips water again and applies the vertical forehead marks with their respective mantras.  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नीलरक्तादिवस्त्रमधारयन् ।  
+
+> ब्राह्मणस्य सितं वस्त्रं  
+नृपते रक्तम् उल्बणम् ।  
+पीतं वैश्यस्य शूद्रस्य  
+नीलम् मलवद् इष्यते ॥ 
+
+इति । (प्र.ध. स. अभि. प्र. ८२) 
+
+धृतोत्तरीयः -
+
+> नोत्तरीयमधः कुर्यात्  
+नोपर्याधःस्थम् अम्बरम् ।
+नान्तर् वासो विना जातु  
+निवसेद् वसनं बुधः ॥  
+
+(प्र.ध. स. अभि. प्र. ८२) 
+
+३०. (केशवाद्यैः वासुदेवान्तैः त्रयोदशनामभिः) प्रणवादिभिः नमोन्तैः पुण्ड्रान् धारयेत् । अन्ते वासुदेवद्वादशाक्षरेण मूर्ध्नि विन्यसेत् ।
+
+> योगो दानं तपो होमः  
+स्वाध्यायः पितृतर्पणम् ।
+भस्मीभवति तत्सर्वम्  
+ऊर्ध्वपुण्ड्रं विनाकृतम् ॥  
+(प्र.ध. स. अभि. प्र. ८६)  
+> 
+> ललाटे केशवं ध्यायेत्  
+नारायणमथोदरे ।
+वक्षःस्थले माधवं तु  
+गोविन्दं कण्ठकूवरे+++(=सन्धौ)+++ ॥  
+विष्णुं च दक्षिणे कुक्षौ  
+बाहुके मधुसूदनम् ।  
+त्रिविक्रमं स्कन्धदेशे  
+वामनं वामपार्श्वके ॥  
+श्रीधरं बाहुमध्ये तु  
+हृषीकेशं तु तद्-भुजे ।  
+पृष्ठे तु पद्मनाभं च  
+त्रिके दामोदरं न्यसेत् ॥  
+तत्-प्रक्षालन-तोयेन  
+वासुदेवं च मूर्धनि ।  
+(प्र.ध. स. अभि. प्र. ८८)
+
+> शक्तयः केशवादीनां  
+> संप्रोक्ताः परमे पदे ॥  
+श्रीदेवी प्रथमं नाम  
+> द्वितीयम् अमृतोद्भवा ।  
+तृतीयं कमला प्रोक्ता  
+चतुर्थं चन्द्र-(शान्त)-शोभिनी ॥  
+पञ्चमं विष्णुपत्नी च  
+षष्ठं स्याद् वैष्णवी तथा ।  
+सप्तमं तु वरारोहा  
+अष्टमं हरिवल्लभा ॥  
+नवमं शार्ङ्गिणी प्रोक्तं  
+दशमं देवदेवकी ।  
+एकादशं महालक्ष्मीः  
+द्वादशं सुरसुन्दरी ॥  
+
+इति । (प्र.ध.स. अभि. प्र. ८९)
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 शुक्ल-वस्त्र-धरः धृतोत्तरीयश् च,  
@@ -389,13 +553,19 @@ He sips water again and applies the vertical forehead marks with their respectiv
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भगवन्तम् अनुस्मृत्य तत्-तन्-मन्त्रेण भगवत्-पर्यन्ताभिधायिना+++(=??)+++,  
+भगवन्तम् अनुस्मृत्य +++(=चतुश्चक्रं नमस्यामीत्यादिभिः)+++ तत्-तन्-मन्त्रेण भगवत्-पर्यन्ताभिधायिना,  
 </details>
 
 <details><summary>FX Clooney</summary>
 
 He recollects the Lord by the specific mantras with respective names of the Lord in those forms, 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+३१. चतुश्चक्रं नमस्यामीत्यादिभिः ध्यात्वा ।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -417,6 +587,14 @@ After scattering the water,
 he pours a handful of water on the Lord’s feet. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+३२. अच्युतानन्तगोविन्द - इति मन्त्रैः नारायणाष्टाक्षरेण च पीत्वा, आचम्य ।  
+३३. पुनरुदकाञ्जलिमादाय, ध्यानयोर्भगवत्पादयोः तीर्थे एव निक्षिप्य ।  
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 मूलमन्त्रेण जलं पीत्वा, आचम्य, प्रोक्ष्य, परिषिच्य,  
@@ -436,6 +614,14 @@ He controls his breaths, meditates on the Lord, and recites the root mantra one 
 He turns himself around, offers obeisance, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+३४. प्राणायामतः ध्यात्वा । "प्राणायामेन पुरुषं ध्यायमाना जनार्दनम् ।" (श्री. रा. अ.का. ४-३३)  
+३५. अष्टसंख्योत्तरशतवारं अष्टाक्षरमावर्त्य ।   
+३६. प्रदक्षिणीकृत्य, तत्रैव अञ्जलिबद्धेन । (अन्यत्र लिखितमास्ते)
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 प्राणानायम्य, भगवन्तं ध्यात्वा,  
@@ -448,8 +634,8 @@ He turns himself around, offers obeisance,
 ## तर्पणानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आधारशक्त्यादि पृथिव्यन्तं तर्पयित्वा,  
-श्रीवैकुण्ठादिपार्षदान्तं तर्पयित्वा,  
+आधार-शक्त्य्-आदि पृथिव्यन्तं तर्पयित्वा,  
+श्रीवैकुण्ठादि-पार्षदान्तं तर्पयित्वा,  
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -477,6 +663,16 @@ He propitiates with water, beginning (above) with the Śrīvaikuṇṭha Heaven 
 He meditates on and propitiates with water the gods, seers, and ancestors, all of whom have the Lord as their self. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+३८. भगवदात्मकान् - भगवान् आत्मा व्यापको नियन्ता येषां तान् । 
+
+> ब्रह्मादयो ये देवाः, तान् देवान् भगवदात्मकान् तर्पयामि 
+
+इत्यादि ।
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 देवान् ऋषीन् पितॄन् भगवद्-आत्मकान् ध्यात्वा, सन्तर्प्य,
@@ -495,6 +691,13 @@ After wringing out his cloth on a clean spot, he sips water.
 With the root mantra, he draws into his own self the water already invoked from the holy stream. Then let him go to the place of sacrifice.[^13] 
 
 [^13]: The place of sacrifice (yāgabhūmi) is not further defined by Rāmānuja. It can be wherever the paramaikānti wishes to worship. Esnoul: “This is the first process of interiorization of worship. The sacred ford previously invoked as exterior to the devotee is now integrated within him” (1972: 61n19; my translation).
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+३९. वस्त्रं - स्नानकाले धृतं वस्त्रं सम्पीड्य ।  
+४०. आवाहिततीर्थं - गङ्गादि पुण्यतीर्थम् प्रक्षेपतः समाहृत्य ।  
+४१. यागभूमिम् - देवाराधनं भूमिं प्राप्नुयात् ।
 </details>
 
 
