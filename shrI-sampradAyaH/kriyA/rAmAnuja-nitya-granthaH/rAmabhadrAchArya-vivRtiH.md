@@ -2,7 +2,7 @@
 title = "रामभद्राचार्य-विवृतिः"
 +++
 
-Source: [TW](https://archive.org/details/SriBhashyaOfRamanujaASRVolume4/NityaGranthaAsr/page/n13/mode/1up)
+Source: [TW](https://archive.org/details/ŚrīBhashyaOfRamanujaASRVolume4/NityaGranthaAsr/page/n13/mode/1up)
 
 ## 0
 भगवद्रामानुजाचार्यविरचितः  
@@ -26,61 +26,68 @@ Melkote
 Director & Joint Secretary
 
 ### Intro
-Hindu Philosophy mainly believes in Iconic worship of Almighty. Bhagawad Sri Ramanujacarya, the saint philosopher is the profounder of the Vi^istadvaita Philosophy, which is a way of life of the followers of Srivaisnavism. 
+Hindu Philosophy mainly believes in Iconic worship of Almighty. Bhagawad Śrī RamanujĀcārya, the saint philosopher is the profounder of the Vi^istadvaita Philosophy, which is a way of life of the followers of Śrīvaiṣṇavism. 
 
-By the Divine grace our venerable divines, whom the follower of Vishistadvaita Philosophy, call as ALWARS in their sojourn of the 108 holy places of worship have beautifully sung 4000 hymns (which is popularly known as Alwars' Divya Prabhandams) of VEDA in Dravidian language in the praise ofeach ofthe iconic divines in a very simplified way. This is a perfect treasure trove ofpious and philosophic thoughts and of household hints on moral conduct and purity of life. 
+By the Divine grace our venerable divines, whom the follower of Vishistadvaita Philosophy, call as ĀlwārS in their sojourn of the 108 holy places of worship have beautifully sung 4000 hymns (which is popularly known as Ālwārs' Divya Prabhandams) of VEDA in Dravidian language in the praise ofeach ofthe iconic divines in a very simplified way. This is a perfect treasure trove of pious and philosophic thoughts and of household hints on moral conduct and purity of life. 
 
-If Swamy Vivekananda could impress upon the westerners about our Indian Advaitic Philosophy, Bhagawad Sri Ramanujacarya, has, through his 9 great works (which are also known as 9 gems) beautifully written his commentaries on Visistadvaitic Philosophy (which is a way of life) for the benefit ofthe followers ofthe way of life. 
+If Swamy Vivekananda could impress upon the westerners about our Indian Advaitic Philosophy, Bhagawad Śrī RamanujĀcārya, has, through his 9 great works (which are also known as 9 gems) beautifully written his commentaries on Visistadvaitic Philosophy (which is a way of life) for the benefit ofthe followers ofthe way of life. 
 
 These are : 
 
-i Vedartha Sangraha; - a concise statement of the philosophical doctrines of the Vedas with special reference to important passages in the Upanisads;
-ii. Gita Bhāṣya - a commentary on the Bhagavad Gita; 
-iii. Śribhāṣya - the beautiful commentary - a fairly comprehensive commentary on the Vedanta Sutras which systematically refutes all scholls of thought, heterodox as well as orthodox, other than Viiisfadvaita and forms the locus classicus on this particular branch of Vedanta;   
-iv. Vedantadlpa - 'lamp ofVedanta' - a longer commentary but still briefon Vedantasutras; 
-v. Vedantasära - a very brief commentary on Vedanta sUtras; 
-vi. Śaraṇāgātigadya - a prayer in poetic prose, based on unbounded faith in the Lord's grace and describing complete surrender to His Will; 
-vii. Śrirangagadya - another prayer in poetic prose describing the famous shrine at Srirangam and the gracious presence ofthe Lord there as an icon known as Lord Sriranganatha in sleeping posture. 
-viii. Śrivaikunthagadya - yet another prose poem, describing the glories of Heven and the beatitude of salvation; AND 
-ix. Nityagrantha - a manual of every day worship and devotion. 
+- i. Vedartha Sangraha; - a concise statement of the philosophical doctrines of the Vedas with special reference to important passages in the Upanisads;
+- ii. Gita Bhāṣya - a commentary on the Bhagavad Gita; 
+- iii. Śribhāṣya - the beautiful commentary - a fairly comprehensive commentary on the Vedanta Sutras which systematically refutes all schools of thought, heterodox as well as orthodox, other than Viiisfadvaita and forms the locus classicus on this particular branch of Vedanta;   
+- iv. Vedantadlpa - 'lamp ofVedanta' - a longer commentary but still briefon Vedantasutras; 
+- v. Vedantasāra - a very brief commentary on Vedanta sUtras; 
+- vi. Śaraṇāgātigadya - a prayer in poetic prose, based on unbounded faith in the Lord's grace and describing complete surrender to His Will; 
+- vii. Śrirangagadya - another prayer in poetic prose describing the famous shrine at Śrīrangam and the gracious presence ofthe Lord there as an icon known as Lord Śrīranganatha in sleeping posture. 
+- viii. Śrivaikunthagadya - yet another prose poem, describing the glories of Heven and the beatitude of salvation; AND 
+- ix. Nityagrantha - a manual of every day worship and devotion. 
 
-While Sri Ramanuja, elaborates his traits in the other 8 gems he has made this 9th one - Nitya Grantha as a hand book in the form of a manual of every day worship and devotion with a view to enable every devout Srivaisnava is to prepare himself for commencing his daily rituals and routine. 
+While Śrī Ramanuja, elaborates his traits in the other 8 gems he has made this 9th one - Nitya Grantha as a hand book in the form of a manual of every day worship and devotion with a view to enable every devout Śrīvaiṣṇava is to prepare himself for commencing his daily rituals and routine. 
 
-As already said the main path of divine worship by a true follower ofSrivaisnivism is Iconic worship for seeking salvation. Such being the case he has to follow a chronological and systematic procedures involved in such worship. 
+As already said the main path of divine worship by a true follower of Śrīvaiṣṇivism is Iconic worship for seeking salvation. Such being the case he has to follow a chronological and systematic procedures involved in such worship. 
 
-While every performer ofworship has to get initiation from a chosen Acarya (Guru) he also needs an authenticated manual to refer. In this direction there can be no other manual than Bhagawad Sri Ramanujacarya’s Nitya Grantha, which comes as a handy and authoritative manual. This manual is specific and elaborative in so for as enabling the worshiper to follow step by step right from the Suprabhatam - time ofwake up till the daily divine worship Bhagawad Aradhana comes to an end 9 including the procedural aspects ofsanctifying the place and utensils used for worship. 
+While every performer ofworship has to get initiation from a chosen Ācārya (Guru) he also needs an authenticated manual to refer. In this direction there can be no other manual than Bhagawad Śrī RamanujĀcārya’s Nitya Grantha, which comes as a handy and authoritative manual. This manual is specific and elaborative in so for as enabling the worshiper to follow step by step right from the Suprabhatam - time of wake up till the daily divine worship Bhagawad Aradhana comes to an en; including the procedural aspects of sanctifying the place and utensils used for worship. 
 
-By following the manual there can be no doubt in the minds of a true devotee aboutthe divine experiences towards seeking salvation and also the amount ofPEACE he derives in his passage of life more than the Mok$a one seeks after his attaining the lotus feet ofBhagawad Acarya. 
+By following the manual there can be no doubt in the minds of a true devotee about the divine experiences towards seeking salvation and also the amount of PEACE he derives in his passage of life more than the Mokṣa one seeks after his attaining the lotus feet of Bhagawad Ācārya. 
 
 \- Prof. Bhashyam Swamy  
 Director & Joint Secretary
 
 ### ForeWord 
-Srivaisnavism, one of the earliest cults found in Hindu Pantheon, has to its legacy the tradition ofAcaryas and Alwars. Acaryas have written commentaries on various Sanskrit texts right from Srutis, Upanisads, Bhagavadgita, and Vedantasutras. Alwars hailing from South have composed “Divyaprabandhams” as these are their heart¬ felt devotional outpourings for the Lord. Hence Srivaisnavism has held its special position in terms of its long history but as well as its popularity. 
+Śrīvaiṣṇavism, one of the earliest cults found in Hindu Pantheon, has to its legacy the tradition of Ācāryas and Ālwārs. Ācāryas have written commentaries on various Sanskrit texts right from Śrutis, Upaniṣads, Bhagavadgīta, and Vedāntasūtras. Ālwārs hailing from South have composed “Divyaprabandhams” as these are their heart felt devotional outpourings for the Lord. Hence Śrīvaiṣṇavism has held its special position in terms of its long history but as well as its popularity. 
 
-Bhagavad Ramanuja who propounded the school of Vis'istadvaita, develops his trait by taking cues from preceding Acaryas and Alwars. He has not only produced profound scholastic works, at the same time laid down specific daily routines for a devout Srivaisnava. This being the topic of “Nitya Grantha” there are regimens ought to be followed by a devotee ofVi$nu. 
+Bhagavad Ramanuja who propounded the school of Viśiṣṭādvaita, develops his trait by taking cues from preceding Ācāryas and Āḷwārs. He has not only produced profound scholastic works, at the same time laid down specific daily routines for a devout Śrīvaiṣṇava. This being the topic of “Nitya Grantha” there are regimens ought to be followed by a devotee of Viṣṇu. 
 
-This work containing many dictums, begins with a dictum of appropriate time of wake up for Srivaisnava to taking sacred ablution to cleansing of articles of worship, eventually closing on the completion of worship. In between there is a detail account of procedural ways of worship, offerings to be made at the worship and so on. 
+This work containing many dictums, begins with a dictum of appropriate time of wake up for Śrīvaiṣṇava to taking sacred ablution to cleansing of articles of worship, eventually closing on the completion of worship. In between there is a detail account of procedural ways of worship, offerings to be made at the worship and so on. 
 
-This hand-book of Acarya Ramanuja hand-holds every devotee of Visnu in his daily worship of the Lord, that which gives every joy not only here but also here after. 
+This hand-book of Ācārya Ramanuja hand-holds every devotee of Visnu in his daily worship of the Lord, that which gives every joy not only here but also here after. 
 
 The Academy is delighted in presenting this needy book to the readers. 
 
-Thanks are due to Late Vidwan Mahamahopadhyaya N.S. Ramabhadracharya for his splendid editing and offering invaluable footnotes to this work. 
+Thanks are due to Late Vidwān Mahāmahopādhyāya N.S. Rāmabhadrāchārya for his splendid editing and offering invaluable footnotes to this work. 
 
-I wish to express my sincere thanks to Vidwan S.Narayana; the Research Officer, Vidwan S.N. Anandlwar, Junior Research Assistant, and Vidwan K.N. Rangapriya Junior Research Assistant for their rich contribution by bringing this critical edition in a record time. 
+I wish to express my sincere thanks to Vidwan S.Nārāyana; the Research Officer, Vidwan S.N. Anandāḷwar, Junior Research Assistant, and Vidwan K.N. Rangapriya Junior Research Assistant for their rich contribution by bringing this critical edition in a record time. 
 
-I would like to thank the team of Mr. Lokesh - the Artist designer including Vid H.S. Hanumantha Rao, the Granthapala ofthe Academy for having brought out unique and effective cover page designs for this edition. Appreciations are also due to the team ofDTP & in-house print division consisting of M/s Javare Gowda, Smt. D.N. Sowbhagya, K.S. Betta Swamy Gowda & G.N. Betta Gowda. 
+I would like to thank the team of Mr. Lokesh - the Artist designer including Vid H.S. Hanumantha Rao, the Granthapala ofthe Academy for having brought out unique and effective cover page designs for this edition. Appreciations are also due to the team of DTP & in-house print division consisting of M/s Javare Gowda, Smt. D.N. Sowbhagya, K.S. Betta Swamy Gowda & G.N. Betta Gowda. 
 
-I will be failing in my duty if I don’t thank our President, Sri G. Kumar Naik, I.A.S., the formar Secretary cum Treasurer, Sri Chakravarthi Mohan, I.A.S., and Present Secretary cum Treasurer Sri P. Maheswar Rao I.A.S., for their source of inspiration and support and also to my beloved colleagues - the Registrar Sri B.S. Krishna Prasad & the Asst. Registrar Sri S. Kumar and all the staff who have directly or indirectly contributed in this endeavor. 
+I will be failing in my duty if I don’t thank our President, Śrī G. Kumar Naik, I.A.S., the formar Secretary cum Treasurer, Śrī Chakravarthi Mohan, I.A.S., and Present Secretary cum Treasurer Śrī P. Maheswar Rao I.A.S., for their source of inspiration and support and also to my beloved colleagues - the Registrar Śrī B.S. Krishna Prasad & the Asst. Registrar Śrī S. Kumar and all the staff who have directly or indirectly contributed in this endeavor. 
 
 Thanks are also due to the Binder - Mr. Prasanna of Mysore.
 
 
 ### प्रस्तावना
-मोक्षप्रदश्च ।
-
-नित्यं भगवतः आराधननिरूपकोऽयं ग्रन्थः नित्यग्रन्थः । भगवदाराधनप्रयोगापरपर्यायोऽयं नित्यग्रन्थः प्रतिनित्यं श्रीवैष्णवैः भगवदाराधनं कथं कर्तव्यम् ? इति निरूपयति । 'आराधनानां सर्वेषां विष्णोराराधनं परम्' इति अभियुक्तोक्तेश्च विष्णोः आराधनं प्रतिदिनं कर्तव्यम् । विष्णुरेव परं तत्वम् । स एव उपेयः, उपायः, इतीमे विषयाः भगवद्रामानुजाचार्यैः श्रीभाष्यादिग्रन्थेषु विस्तरतया प्रतिपादिताः । श्रीवैष्णवैः प्रपन्नैः आराधनं कथं कर्तव्यम् ? नियमाः के? इत्यादि विषयाः समीचिनतया अहिर्बुध्य-पाञ्चरात्रादिसंहिताग्रन्थेभ्यः प्रमाणानि आधारीकृत्य भगवद्रामानुजाचार्याः सम्यक् प्रतिपादिताः ।
+नित्यं भगवतः आराधननिरूपकोऽयं ग्रन्थः नित्यग्रन्थः ।  
+भगवद्-आराधन-प्रयोगापर-पर्यायो ऽयं नित्यग्रन्थः  
+प्रतिनित्यं श्रीवैष्णवैः भगवद्-आराधनं कथं कर्तव्यम् ? इति निरूपयति ।  
+'आराधनानां सर्वेषां विष्णोर् आराधनं परम्' इति अभियुक्तोक्तेश् च  
+विष्णोः आराधनं प्रतिदिनं कर्तव्यम् ।  
+विष्णुर् एव परं तत्वम् ।  
+स एव उपेयः, उपायः, इतीमे विषयाः  
+भगवद् रामानुजाचार्यैः श्रीभाष्यादि-ग्रन्थेषु विस्तरतया प्रतिपादिताः ।  
+श्रीवैष्णवैः प्रपन्नैः आराधनं कथं कर्तव्यम् ? नियमाः के?  
+इत्यादि विषयाः समीचिनतया अहिर्बुध्न्य-पाञ्चरात्रादि-संहिता-ग्रन्थेभ्यः प्रमाणानि आधारीकृत्य भगवद्रामानुजाचार्याः सम्यक् प्रतिपादिताः ।
 
 एतदतिरिच्य भगवदाराधनविषयकाः अनेके ग्रन्थाः अनैकैराचार्यैः विरचिताः वर्तन्ते । ते -
 
@@ -270,10 +277,7 @@ Foreword
 
 ५१. 'भगवानेव स्वनियाम्यस्वरूपस्थितिप्रवृत्तिस्वशेषतैकरसेन अनेनाऽऽत्मना, स्वकीयैश्च दे हे न्द्रियान्तःकरणैः, स्वकीयकल्याणतमद्रव्यमयान्, औपचारिकसांस्पर्शिकाभ्य- वहारिकादिसमस्त भोगान्, अतिप्रभूतान्, अतिसमग्रान्, अतिप्रियतमान्, अत्यन्तभक्तिकृतान्, अखिलपरिजन - परिच्छदान्विताय स्वस्मै स्वप्रीतये स्वयमेव प्रतिपादयितुम् उपक्रमते' इत्यनुसन्धाय ।
 
-
-
-
-9
+[[9]]
 
 ५२. स्वदेहे पञ्चोपनिषन्मन्त्रान् संहारक्रमेण न्यस्य,
 
@@ -281,19 +285,7 @@ Foreword
 ५४. मन्त्रोद्भूतचण्डवाय्वाप्यायितनाभिदेशस्थवायुना शरीरम् अन्तर् बहिश् च सर्व-तत्त्वमयं तत्त्व-क्रमेण विशोष्य,
 
 
-
-
-५३. प्राणायामो विवृतः । नाभिदेशः स्पष्टः । मूलमन्त्रः - ओं नमो नारायणाय इति । न्यस्य - दक्षिणं हस्तं स्पर्शयित्वा मन्त्रमुच्चरन् मन्त्रेति । शरीरस्य समग्रस्य शोषणदाहनप्लावनानि कार्याणीत्याह ।
-
-५४. अत्र वङ्गीशकारिका
-
-
-
-ततो दक्षिणपाण्यन्तः न्यस्य मन्त्रं धियात्मनः । तं निदध्यात् स्वनाभ्यन्तः पाणिना प्राणसंयमः । तन्मन्त्रतः समुद्भूतैः (यं) शोषणैश्चण्डमारुतैः ।
-
-संशोषयेत् स्वकं देहं प्राचीनैः कर्मभिः सह ॥ (वं. का. १११ - ११२ ) तत्वक्रमेण विशोध्येति भूतशुद्धिक्रमः । वायुबीजमन्त्रः ।
-
-10
+[[10]]
 
 ५५. पुनः प्राणायामेनैकेन हृद्देशे मूलमन्त्रं न्यस्य,
 

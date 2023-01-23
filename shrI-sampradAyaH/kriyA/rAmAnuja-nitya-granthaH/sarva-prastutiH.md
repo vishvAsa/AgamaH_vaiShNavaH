@@ -50,7 +50,7 @@ I will now set forth (the performance of) the adoration of the Lord by the perso
     - Vaiṣṇavottamas (the highest devotees of Viṣṇu who single-mindedly obey the commands of the Lord and do what is required).
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 १. अथ परमैकान्तिनो भगवदाराधनं वक्ष्ये ॥ १ ॥
 
@@ -326,7 +326,7 @@ with the third, let him make his seat at the holy stream.
 [^11]: The astra-mantra: oṃ vīryāyāstrāya phaṭ, “Oṁ phaṭ, [obeisance to] the mighty weapon” (Esnoul 1972: 59n4; my translation). The binding of the directions may be marked by the showing of the appropriate mudrā.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 १४. एकेन दिग्बन्धनम् अस्त्रमन्त्रेण कुर्यात् ॥ २ ॥  
 
@@ -363,7 +363,7 @@ He invokes onto the prepared seat some Gaṇgā-water sprung from the Lord’s l
 After giving guest-water and blessing it with the root mantra,
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 १८. उदकाञ्जलिमादाय,  
 १९. तीर्थस्य अर्घ्यमुत्क्षिप्य,  
@@ -405,7 +405,7 @@ After giving guest-water and blessing it with the root mantra,
 he takes a handful of water, sprinkles it on his head. He recites the mantra seven times; or, he may do this three or five or seven times. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 २३. सप्तकृत्वः अभिमन्त्र्य, स्वमूर्ध्नि सिञ्चेत् ॥ ५ ॥  
 २४. एवं त्रिः, पञ्चकृत्वः, सप्तकृत्वो वा ॥ ६ ॥
@@ -438,7 +438,7 @@ Then he takes water in his right hand, blesses it with the mantra, and drinks it
 Then he sprinkles himself (scattering it around). 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 २५. दक्षिणेन पाणिना जलमादाय, अभिमन्त्र्य, पीत्वाऽऽचम्य,  
 २६. स्वात्मानं प्रोक्ष्य, परिषिच्य,  
@@ -467,7 +467,7 @@ Then he sprinkles himself (scattering it around).
 He plunges into the holy stream, and while there, with his head placed at the lotus feet of the Lord, he recites the root mantra as many times as he can. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 २७. तीर्थे निमग्नः भगवत्पादारविन्दविन्यस्तशिरस्कः,  
 २८. यावच्छक्ति मूलमन्त्रं जपित्वा,  
@@ -499,7 +499,7 @@ Then he gets out and puts on a white lower garment and an upper garment.
 He sips water again and applies the vertical forehead marks with their respective mantras.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 (शुक्लवस्त्रधरः, धृतोत्तरीयः, आचम्य,)   
 
@@ -585,7 +585,7 @@ He sips water again and applies the vertical forehead marks with their respectiv
 He recollects the Lord by the specific mantras with respective names of the Lord in those forms, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ३१. भगवन्तम् अनुस्मृत्य,  
 
@@ -613,7 +613,7 @@ After scattering the water,
 he pours a handful of water on the Lord’s feet. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ३२. तत्तन्मन्त्रेण, भगवत्पर्यन्ताभिधायिना, मूलमन्त्रेण च जलं पीत्वा,  
 ३३. आचम्य, प्रोक्ष्य, परिषिच्य, उदकाञ्जलिं भगवत्पादयोर्निक्षिप्य,  
@@ -642,7 +642,7 @@ He controls his breaths, meditates on the Lord, and recites the root mantra one 
 He turns himself around, offers obeisance, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ३४. प्राणान् आयम्य, भगवन्तं ध्यात्वा,  
 ३५. अष्टोत्तरशतं मूलमन्त्रमावर्त्य,  
@@ -695,7 +695,7 @@ He propitiates with water, beginning (above) with the Śrīvaikuṇṭha Heaven 
 He meditates on and propitiates with water the gods, seers, and ancestors, all of whom have the Lord as their self. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ३८. देवान् ऋषीन् पितॄन् भगवदात्मकान् ध्यात्वा, सन्तर्प्य,  
 
@@ -727,7 +727,7 @@ With the root mantra, he draws into his own self the water already invoked from 
 [^13]: The place of sacrifice (yāgabhūmi) is not further defined by Rāmānuja. It can be wherever the paramaikānti wishes to worship. Esnoul: “This is the first process of interiorization of worship. The sacred ford previously invoked as exterior to the devotee is now integrated within him” (1972: 61n19; my translation).
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ३९. शुचौ देशे वस्त्रं सम्पीड्य, आचम्य,  
 ४०. आवाहिततीर्थं मूलमन्त्रेण आत्मनि समाहृत्य,  
@@ -770,7 +770,7 @@ He thoroughly purifies it by acts of drying,[^16] etc.
 [^16]: See Esnoul 1972: 61n22: “drying” (śoṣana) pertains to drying the vessel or removing water from the site; “burning” (dahana), to the presenting of a flame; and “moistening” (plavana), to wetting it anew. According to Chinna Jeeyar Swamiji, “drying” is a symbolic act shown by an appropriate mudrā. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ४२. सुप्रक्षालितपाणिपादः, स्वाचान्तः,  
 ४३. शुचौ देशे अतिमनोहरे निश्शब्दे भुवं सङ्गृह्य, तां शोषणादिभिर्विशोध्य,  
@@ -815,7 +815,7 @@ He meditates on the expanse of the Lord’s proper form, forms, qualities, power
 [^15]: Krishnaswami (2014: 45): “Having returned to one’s house after bath”; but there is no mention in the Nityam of the devotee’s home, nor indeed of any places but the riverbank and the “place of sacrifice.”
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ४४. गुरुपरम्परया परमगुरुं भगवन्तमुपगम्य,  
 ४५. तमेव प्राप्यत्वेन, प्रापकत्वेन, अनिष्टनिवारकत्वेन, इष्टप्रापकत्वेन च यथावस्थितस्वरूपरूपगुणविभूतिलीलोपकरणविस्तारम् अनुसन्धाय,
@@ -849,7 +849,7 @@ Then let him approach the Lord alone as refuge, with the words, “All that is t
 See this entire passage at the end of this translation in the Appendix.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ४६. तमेव शरणमुपगच्छेत् 'अखिले'त्यादिना ॥ ८ ॥  
 
@@ -883,7 +883,7 @@ he meditates on that Lord alone, the Lord of all lords, as the Lord of his own s
 Let him sit meditating with a meditation like in form to perception, most clear, uninterrupted, and exceedingly pleasing. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ४८. तमेव भगवन्तं सर्वेश्वरेश्वरम्, आत्मनः स्वामित्वेनाऽनुसन्धाय,  
 ४९. अत्यर्थप्रिय-अविरत-विशदतम--प्रत्यक्ष-रूप+अनुध्यानेन ध्यायन्नासीत ॥ ९ ॥
@@ -921,7 +921,7 @@ Then let him undertake the worship[^19] that has the form of utterly complete se
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ५०. ततः तदनुभवजनितातिमात्रप्रीतिकारितपरिपूर्णकैङ्कर्यरूप-पूजाम् आरभेत ॥ १० ॥
 
@@ -940,7 +940,7 @@ Then let him undertake the worship[^19] that has the form of utterly complete se
 
 > **भगवान्** एव  
 स्व--नियाम्य--स्वरूप-स्थिति-प्रवृत्ति--स्व-शेषतैकरसेन  
-+++(स्वीयैर् नियाम्यैः स्वरूप-स्थिति-प्रवृत्तिभिः स्वशेषता, सैव +एकरसो यस्य सः [आत्मा])+++
++++(स्वीयैर् नियाम्यैः स्वरूप-स्थिति-प्रवृत्तिभिः स्वशेषता = स्वनियाम्यता, सैव +एकरसो यस्य सः [आत्मा])+++
 +_अनेनात्मना_  
 स्वकीयैश् च _देहेन्द्रियान्तःकरणैः_  
 स्वकीय-कल्याणतम-द्रव्यमयान्  
@@ -969,7 +969,7 @@ All these are for His own pleasure, for Himself along with all His retinue and i
 [^20]: Compare the meditation in Section XVIII.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ५१. करिष्यमाणं पूजाकर्म अलिप्तं यथा भगवति समर्पितं स्यात्,  
 तद्-अर्थं सात्त्विक-त्यागाख्यं आदौ करोति-  **भगवान् एव प्रतिपादयितुम् उपक्रमते** इत्यन्वयः ।  
@@ -1039,14 +1039,14 @@ He places on his body the five Upaniṣad mantras[^21] according to the order of
 [^21]: The five “Upaniṣadic mantras” appear below, oṃ ṣāṃ namaḥ parāya parameṣṭhyātmane namaḥ, etc. They appear in other texts, such as the Paramasaṃhitā 3.20. Ramabhadracharya (2009: 53) cites here the Parāśara-bhaṭṭārakīya-kriyā-dīpaḥ, pañcopaniṣadāṃ nyāsāt jāyate śaktimān naraḥ, “from the placing of the five Upaniṣadic mantras, is born a man with power.”
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>रामभद्राचार्यः</summary>
 
 ५२. स्वदेहे - आराधकस्य देहे,  
 संहारक्रमेण - सृष्टिक्रमवैपरीत्येन, 'लां नमः, वां नमः, रां नमः, यां नमः, षौं नमः' इति पञ्चोपनिषन्मन्त्राणां संहारक्रमतो न्यासः । स्वदेहे इति। 
 
 (अयं सृष्टिक्रमः)
 
-ओं षौं नमः परायेति  
+> ओं षौं नमः परायेति  
 परमेष्ठ्यात्मने नमः ।  
 ओं यां नमः परायेति  
 नमोन्तः पुरुषात्मने ।  
@@ -1084,6 +1084,15 @@ Then, with his right hand, he places the root mantra in the area of his navel fo
 [^22]: Touching each of the mentioned body parts in turn, beginning here with the navel and continuing below with the heart, head, nose, heart (again), private parts, and feet.
 </details>
 
+<details><summary>रामभद्राचार्यः</summary>
+
+५३. **प्राणायामो** विवृतः । **नाभिदेशः** स्पष्टः ।  
+**मूलमन्त्रः** - ओं नमो नारायणाय इति ।  
+**न्यस्य** - दक्षिणं हस्तं स्पर्शयित्वा मन्त्रम् उच्चरन् मन्त्रेति ।  
+शरीरस्य समग्रस्य शोषण-दाहन-प्लावनानि कार्याणीत्य् आह ।
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 प्राणायामेनैकेन दक्षिणपाणिना नाभिदेशे मूलमन्त्रं न्यस्य,
@@ -1101,6 +1110,24 @@ Then, with his right hand, he places the root mantra in the area of his navel fo
 
 According to the order of the elements, he thoroughly dries inside and outside his body that is made of all the elements.  
 He does this by means of the wind that resides in the area of the navel, intensified because of the hot wind arising from the mantra.
+</details>
+
+
+<details><summary>रामभद्राचार्यः</summary>
+
+५४. अत्र वङ्गीशकारिका
+
+> ततो दक्षिण-पाण्य्-अन्तर्  
+न्यस्य मन्त्रं धियाऽऽत्मनः ।  
+तं निदध्यात् स्वनाभ्य्-अन्तः  
+पाणिना प्राणसंयमः ।  
+तन्मन्त्रतस् समुद्भूतैः (यं)  
+शोषणैश् चण्डमारुतैः।  
+संशोषयेत् स्वकं देहं  
+प्राचीनैः कर्मभिस् सह॥  
+(वं. का. १११ - ११२ )  
+
+**तत्त्व-क्रमेण विशोध्ये**ति भूत-शुद्धि-क्रमः । वायुबीजमन्त्रः+++(=??)+++ ।
 </details>
 
 
