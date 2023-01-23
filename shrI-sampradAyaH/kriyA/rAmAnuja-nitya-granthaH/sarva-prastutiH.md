@@ -732,6 +732,13 @@ He thoroughly purifies it by acts of drying,[^16] etc.
 [^16]: See Esnoul 1972: 61n22: “drying” (śoṣana) pertains to drying the vessel or removing water from the site; “burning” (dahana), to the presenting of a flame; and “moistening” (plavana), to wetting it anew. According to Chinna Jeeyar Swamiji, “drying” is a symbolic act shown by an appropriate mudrā. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+४२. पाणी पादौ च बहिरागत्य प्रक्षाल्य, द्विराचम्य ।  
+४३. सङ्गृह्य - मनसा निश्चित्य ।  
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 सुप्रक्षालित-पाणिपादः स्वाचान्तः  
@@ -767,6 +774,12 @@ He meditates on the expanse of the Lord’s proper form, forms, qualities, power
 [^15]: Krishnaswami (2014: 45): “Having returned to one’s house after bath”; but there is no mention in the Nityam of the devotee’s home, nor indeed of any places but the riverbank and the “place of sacrifice.”
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+४४. स्वाचार्यप्रभृति श्रियः पतिपर्यन्तं अनुसन्धाय ।  
+४५. अनुसन्धाय - गम्यत्वेन गमकत्वेन भगवत्-प्राप्ति-विरोधि-निरसनं तद्-अनुकूल-घटनं च तस्यैव कार्यम् इति तद्-वैभव-चिन्तनतः विचिन्त्य ।
+</details>
+
 <details><summary>मूलम्</summary>
 
 गुरु-परम्परया परम-गुरुं भगवन्तम् उपगम्य,  
@@ -791,6 +804,12 @@ Then let him approach the Lord alone as refuge, with the words, “All that is t
 
 See this entire passage at the end of this translation in the Appendix.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+४६. शरणमुपगच्छेत् - मद्यारम्भोक्तवचनेन शरणमुपगच्छेत् । 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
