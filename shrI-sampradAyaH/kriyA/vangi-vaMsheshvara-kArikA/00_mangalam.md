@@ -1,5 +1,5 @@
 +++
-title = "०० मङ्गलम्"
+title = "० मङ्गलम्"
 
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

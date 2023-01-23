@@ -1,5 +1,5 @@
 +++
-title = "०७ द्राविडटीका"
+title = "७ द्राविडटीका"
 
 +++
 मूलम् [अत्र](https://archive.org/details/Vaishvadeva/vangi-vaMsheshvara-kArikA) ।

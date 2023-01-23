@@ -1,5 +1,5 @@
 +++
-title = "०२ अधिकारनिर्णयः"
+title = "२ अधिकारनिर्णयः"
 
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
