@@ -1101,9 +1101,9 @@ Then, with his right hand, he places the root mantra in the area of his navel fo
 #### शोषणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन्त्रोद्भूत चण्ड-वाय्व्-आप्यायित-नाभि-देशस्थ--वायुना  
+मन्त्रोद्भूत चण्ड-वाय्व्-आप्यायित-नाभि-देशस्थ--वायुना +++("यं"-बीजसहितेन)+++   
 शरीरम् अन्तर् बहिश् च सर्व-तत्त्व-मयं  
-तत्त्व-क्रमेण+++(=??)+++ विशोष्य,  
+तत्त्व-क्रमेण+++(→भूतशुद्धि-क्रमेण)+++ विशोष्य,  
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -1127,7 +1127,7 @@ He does this by means of the wind that resides in the area of the navel, intensi
 प्राचीनैः कर्मभिस् सह॥  
 (वं. का. १११ - ११२ )  
 
-**तत्त्व-क्रमेण विशोध्ये**ति भूत-शुद्धि-क्रमः । वायुबीजमन्त्रः+++(=??)+++ ।
+**तत्त्व-क्रमेण विशोध्ये**ति भूत-शुद्धि-क्रमः । वायुबीजमन्त्रः +++(यम्)+++ ।
 </details>
 
 
@@ -1140,10 +1140,10 @@ He does this by means of the wind that resides in the area of the navel, intensi
 #### दाहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुनः प्राणायामेनैकेन हृद्-देशे मूल-मन्त्रं न्यस्य,  
-मन्त्रोद्भूत-चक्राग्नि-ज्वालोपबृंहित-जाठराग्निना दग्ध्वा,  
-तत्-तत्-समष्टि-प्रलीन--  
-सर्व-तत्त्व---सर्व-किल्बिष--सर्वाज्ञान--+++(प्रलीन-)+++तद्+++(←किल्बिषाज्ञानादि)+++-वासनो भूत्वा 
+पुनः प्राणायामेनैकेन हृद्-देशे **मूल-मन्त्रं न्यस्य**,  
+मन्त्रोद्भूत-+++(सुदर्शन-)+++चक्राग्नि-ज्वालोपबृंहित-जाठराग्निना +++("रम्"-बीजेन)+++ **दग्ध्वा**,  
+तत्-तत्-समष्टि-**प्रलीन**--  
+सर्व-तत्त्व---सर्व-किल्बिष--सर्वाज्ञान--+++(प्रलीन-)+++तद्+++(←किल्बिषाज्ञानादि)+++-**वासनो भूत्वा** 
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -1151,6 +1151,23 @@ He does this by means of the wind that resides in the area of the navel, intensi
 Next, he places the root mantra in the area of his heart for the length of a single breath-control.  
 In this way, he becomes a person in whom all the base elements, all faults, all ignorances, and their residues are dissolved into their respective aggregates, burned up by the stomach fire heated by the flame of the fire of the cakras arising due to the mantra. 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+५५. हृद्धेशे - नाभिदेशाद् उपरितने द्वादशाङ्गुलप्रदेशे, मूलमन्त्रम् - नारायणाष्टाक्षरम् विन्यस्य, प्राणायामेनैकेन प्राणायामम् एकं कृत्वा,
+
+५६. मन्त्रोद्भूतेति । रं - इति अग्निबीजमन्त्रः । उपबृंहितः - वर्धितः ।
+
+**चक्राग्निज्वाला** सुदर्शन-चक्राग्नि-ज्वाला ।
+
+> अथ विन्यस्य हृदये  
+> पूर्ववत् पाणिना मनुम् ।
+> तत उद्भूतचक्राग्नि-  
+> ज्वालया दाहयेत्तनुम् ॥ (वं. का. ११३) 
+
+५६. समष्टौ प्रलीनानि सर्वतत्वानि, सर्वकिल्बिषाणि, सर्वाज्ञानानि सर्वा वासनाश् च **दग्धानि** कृत्वेति चिन्तनम् ।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1170,6 +1187,12 @@ In this way, he becomes a person in whom all the base elements, all faults, all 
 Then, with the root mantra, let him make his own self enter beneath the big toe of the Lord’s right foot.
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+५७. स्वात्मानम् - जीवम् प्रविष्टमनुचिन्तयेत् ।
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 भगवद्दक्षिणपादाङ्गुष्ठे मन्त्रेण स्वात्मानं प्रवेशयेत् ॥
@@ -1187,6 +1210,11 @@ Then, with the root mantra, let him make his own self enter beneath the big toe 
 By another breath-control, by the Lord’s grace, he achieves fitness for service of the Lord. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+५८. प्राणायामे कैङ्कर्ययोग्यतापादकत्वम् अनुसन्धाय ।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1202,6 +1230,12 @@ By another breath-control, by the Lord’s grace, he achieves fitness for servic
 
 On that basis, by the root mantra he sets his self under the Lord’s left big toe.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+५९. विन्यस्तम् - विचिन्त्य ।
+</details>
+
 
 <details><summary>FX Clooney - Notes</summary>
 
@@ -1226,6 +1260,12 @@ Rastelli (2005: 121) notes that the purification of the elements (bhūtaśuddhi)
 Let him sprinkle his self with the essence of the divine amṛta flowing from the white moon-maṇḍala (half-moon) of the nail of the big toe of that left foot. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+६०. अभिषिक्तम् - विचिन्त्य ।
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 देववामपादाङ्गुष्ठनखशीतांशुमण्डलात् गलद्दिव्यामृतरसैरात्मानमभिषिञ्चेत् ।
@@ -1246,6 +1286,19 @@ Having thus sprinkled himself, by the Lord’s grace he gains a body made of tha
 It is captivating in all service and fit for all service.  
 Let him then set on that body the five Upaniṣad mantras according to the order of creation:
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+६१. 
+
+> तज्जलं दिव्यममृतं  
+प्रसादात् परमात्मनः ।  
+अनघं घनतां गत्वा  
+वपुर् अस्योपजायते ॥ (वं. का. १२५ )
+
+६२. आत्मन आकाशः, आकाशाद्वायुः, वायोरग्निः, अग्रेरापः, अद्भ्यः पृथिवी ।  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
