@@ -1588,6 +1588,11 @@ He places in the bowl for washing the white mustard, etc., including two pieces 
 [^30]: Krishnaswami (2014: 55): These items are required, subject to availability.
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+७९. कुशाग्रम् दर्भाग्रम् । अक्षताः - तण्डुलाः ।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1601,7 +1606,7 @@ He places in the bowl for washing the white mustard, etc., including two pieces 
 #### तोय-परिकल्पनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्यस्मिन् पात्रे सर्वार्थ-तोयं परिकल्प्य,  
+अन्यस्मिन् पात्रे +++(→सर्वार्थतोयपात्रे)+++ सर्वार्थ-तोयं परिकल्प्य,  
 ततः अर्घ्य-पात्रं पाणिना स्पृष्ट्वा,  
 मूल-मन्त्रेण अभिमन्त्र्य,  
 </details>
@@ -1613,6 +1618,12 @@ He then touches the guest-water bowl with his hand
 and blesses it with the root mantra. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+८३. "अन्यस्मिन् पात्रे" - सर्वार्थतोयपात्रं - शुद्धोदकपात्रं नान्यत् ।
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अन्यस्मिन् पात्रे सर्वार्थ-तोयं परिकल्प्य,  
@@ -1622,11 +1633,11 @@ and blesses it with the root mantra.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ओं नमो भगवते अर्घ्यं परिकल्पयामि" इति अर्घ्यं परिकल्पयेत्,  
-एवमेव पाद्यं परिकल्पयामीति पाद्यं,  
-आचमनीयं परिकल्पयामीति आचमनीयं,  
-स्नानीयं परिकल्पयामीति स्नानीयं,  
-शुद्धोदकं परिकल्पयामीति शुद्धोदकम्,
+"ओं नमो भगवते अर्घ्यं परिकल्पयामि" +इति अर्घ्यं परिकल्पयेत्,  
+एवमेव "पाद्यं परिकल्पयामी"ति पाद्यं,  
+"आचमनीयं परिकल्पयामी"ति आचमनीयं,  
+"स्नानीयं परिकल्पयामी"ति स्नानीयं,  
+"शुद्धोदकं परिकल्पयामी"ति शुद्धोदकम्,
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -1645,7 +1656,7 @@ The purified water,
 
 <details><summary>मूलम्</summary>
 
-"ओं नमो भगवते अर्घ्यं परिकल्पयामि" इति अर्घ्यं परिकल्पयेत्,  
+ओं नमो भगवते अर्घ्यं परिकल्पयामीति अर्घ्यं परिकल्पयेत्,  
 एवमेव पाद्यं परिकल्पयामीति पाद्यं,  
 आचमनीयं परिकल्पयामीति आचमनीयं,  
 स्नानीयं परिकल्पयामीति स्नानीयं,  
@@ -1654,8 +1665,8 @@ The purified water,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो ऽर्घ्यजलात् जलं अन्येन पात्रेण आदाय,  
-यागभूमिं सर्वाणि च यागद्रव्याणि आत्मानं च प्रत्येकं सम्प्रोक्ष्य,  
+ततो ऽर्घ्यजलात् जलम् अन्येन पात्रेण आदाय,  
+याग-भूमिं सर्वाणि च यागद्रव्याणि आत्मानं च प्रत्येकं सम्प्रोक्ष्य,  
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -1663,9 +1674,15 @@ The purified water,
  Then he takes some water from the guest-water bowl with another bowl, and he sprinkles the place of sacrifice, all the sacrificial implements, and himself one by one. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+९०. अन्येन पात्रेण - उद्धरण्यादिना । मन्त्रासनं समर्पयामि इति तुलसीपुष्पादि समर्पयेत् ।
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-ततो ऽर्घ्यजलात् जलं अन्येन पात्रेण आदाय,  
+ततो ऽर्घ्यजलात् जलम् अन्येन पात्रेण आदाय,  
 यागभूमिं सर्वाणि च यागद्रव्याणि आत्मानं च प्रत्येकं सम्प्रोक्ष्य,  
 </details>
 
@@ -1698,12 +1715,13 @@ Let him thus prepare the seat.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ओम् आधारशक्त्यै नमः 1,  
+> ओम् आधारशक्त्यै नमः 1,  
 ओं मूलप्रकृत्यै नमः 2,  
 ओम् अखिलजगदाधाराय कूर्मरूपिणे नारायणाय नमः 3,  
 ओं भगवते ऽनन्ताय नागराजाय नमः 4,  
 ओं [भूं] भूम्यै नमः 5,  
-इति यथास्थानमुपर्युपरि ध्यात्वा प्रणम्य,   
+
+इति यथास्थानम् उपर्युपरि ध्यात्वा प्रणम्य,   
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -1741,7 +1759,7 @@ He meditates on each in its place, moving upward, and offers obeisance, saying,
 "ओं श्रीवैकुण्ठाय दिव्यनगराय नमः 8" इति दिव्यनगरं प्रणम्य,  
 "ओं श्रीवैकुण्ठाय दिव्यविमानाय नमः 9" इति दिव्यविमानं प्रणम्य,  
 "ओम् आनन्दमयाय दिव्यमण्टपरत्नाय नमः 10" इति मण्टपरत्नं प्रणम्य,  
-तस्मिन् - "अनन्ताय नागराजाय नमः 11" इति, आस्तरणं प्रणम्य,  
+तस्मिन् - "ओम् अनन्ताय नागराजाय नमः 11" इति, आस्तरणं प्रणम्य,  
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -1771,7 +1789,7 @@ And in that place he offers obeisance to the cushion of herbs, “Oṁ, obeisanc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदुपरि - "ओं धर्माय नमः 12" इति आग्नेय्यां पादं विन्यस्य,  
+तद्-उपरि - "ओं धर्माय नमः 12" इति आग्नेय्यां पादं विन्यस्य,  
 "ओं ज्ञानाय नमः 13" इति नैर्ऋत्याम्,  
 "ओं वैराग्याय नमः 14" इति वायव्याम्,  
 "ओम् ऐश्वर्याय नमः 15" इति ऐशान्याम्,   
@@ -1780,7 +1798,7 @@ And in that place he offers obeisance to the cushion of herbs, “Oṁ, obeisanc
 "ओम् अवैराग्याय नमः 18" इति पश्चिमायां,  
 "ओम् अनैश्वर्याय नमः 19" इति उत्तरस्याम्,  
 एभिः परिच्छिन्न-तनुं पीठ-भूतं सद्-आत्मकम् अनन्तं विन्यसेत्,  
-पश्चात् सर्वकार्योन्मुखं विभुम् अनन्तम्  
+पश्चात् सर्वकार्योन्मुखं विभुम् अनन्तम् +++(4)+++  
 "ओम् अनन्ताय नमः 20" इति,   
 </details>
 
@@ -1807,6 +1825,11 @@ He sets it in the north,
 
 He sets there Ananta whose body is defined by the preceding and who has become a seat, made of being.  
 He sets it behind Ananta who anticipates all that must be done and is pervasive, “Oṁ, obeisance to Ananta,” 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१०१. अनन्तम् - शेषम् ।
 </details>
 
 
@@ -1864,6 +1887,12 @@ Having begun that way, turning about, he sets the seven powers[^33] with fans in
 
 
 He sets Favor with the fan in her hand in the eastern part of the lotus’s pericarp, “Oṁ, obeisance to Favor with the fan in her hand,”
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१०४. विमलाद्याः - चामरहस्तानां नामानि ।
 </details>
 
 
@@ -1974,6 +2003,15 @@ He prostrates himself. With their permission, let him undertake the Lord’s sac
 </details>
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ११६. गुरवस् तदीयगुरवो  
+दिशन्तु मम साध्व् अनुग्रहम् ।  
+युष्मद्-उपजनित-शक्ति-मतिर्  
+हरिम् अर्चयामि गतभीः प्रसीदत ॥ (प्र.ध.स.इ.प्र. २१२ )
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 योगपीठस्य पश्चिमोत्तरदिग्भागे  
@@ -2047,8 +2085,9 @@ as holding the conch and wheel with His two upper hands;
 
 सर्वेषां सृष्टिस्थितिप्रलयहेतुभूतम्,  
 अञ्जनाभं, कौस्तुभेन विराजमानं चकासतं  
-उदग्र-प्रबुद्ध-स्फुरदपूर्वाचिन्त्य-परमसत्त्व-पञ्चशक्तिमयविग्रहं  
-पञ्चोपनिषदैः ध्यात्वा  
+उदग्र-प्रबुद्ध-स्फुरद्-अपूर्वाचिन्त्य--परम-सत्त्व--  
++++(परमेष्ठ्यादि-)+++पञ्च-शक्ति-मयविग्रहं  
+पञ्चोपनिषदैः +++("ओं क्ष्रौं पराय …" इत्यादिभिः)+++ ध्यात्वा  
 </details>
 
 <details><summary>FX Clooney</summary>
