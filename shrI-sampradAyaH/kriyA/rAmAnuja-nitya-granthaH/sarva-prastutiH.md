@@ -1717,6 +1717,12 @@ He meditates on each in its place, moving upward, and offers obeisance, saying,
 </details>
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+९१. आसनपरिकल्पनप्रकार एवायम् ।
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 ओम् आधारशक्त्यै नमः 1,  
