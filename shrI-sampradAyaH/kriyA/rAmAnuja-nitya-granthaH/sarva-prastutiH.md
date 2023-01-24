@@ -1344,15 +1344,34 @@ This is the sṛṣṭikrama of the five Upaniṣadic mantras: Mannargudi Swamig
 </details>
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+६३-६७. 
+
+> व्योम नासा-शिरो-मध्यम्  
+> वायुर् नासा-हृदन्तरम् ।  
+> हृत्-कट्योर् अन्तरं तेजः  
+> जानु-कट्यन्तरं जलम् ।  
+> पद-जान्व्-अन्तरं भूमिः  
+> एवं देहे व्यवस्थितिः ॥
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं न्यासं कुर्यात् ।  
-तत्-तच्-छक्तिमयम् उद्भूतं देहं ध्यायेत् ।+++(कथम्??)+++
++++(परमेष्ठि-शक्तिः (=चिच्छक्तिः), पुरुष-शक्तिः, विश्व-शक्तिः, निवृत्ति-शक्तिः, सर्वशक्तिः इति)+++  
+तत्-तच्-छक्तिमयम् उद्भूतं देहं ध्यायेत् ।
 </details>
 
 <details><summary>FX Clooney</summary>
 
 Doing these placements in this way, let him meditate on the body made of those several powers, now manifested. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+६८. तच्छक्तिमयम् - पञ्चशक्तिमयम् । उद्भूतम् - प्रासरूपम् ।
 </details>
 
 
@@ -1365,7 +1384,7 @@ Doing these placements in this way, let him meditate on the body made of those s
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुनरपि प्राणायामेनैकेन  
+पुनर् अपि प्राणायामेनैकेन  
 देव-वाम-पादाङ्गुष्ठ-विनिस्सृतामृत-धारया ऽऽत्मानम् अभिषिच्य,  
 कृत-लाञ्छनो धृतोर्ध्वपुण्ड्रः  
 भगवद्-यागम् आरभेत ॥
@@ -1377,6 +1396,22 @@ Then, for the length of one breath-control,
 he sprinkles his self with the flow of ambrosia streaming from the big toe of the left foot of the Lord.  
 His marks thus complete, and wearing the upward forehead mark,  
 let him now undertake the Lord’s sacrifice. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+६९. एकेन - एकं प्राणायामं कृत्वा । अभिषिक्तं विचिन्त्य ।
+
+७०. पुण्ड्र-धारण-स्थानाङ्कनं कृत्वा, पुण्ड्रधारणं च कृत्वा, भगवत्-पूजोपक्रमं कुर्यात् ।
+
+भगवद्-यागम् आरभेत -
+
+> घण्ठां निनाद्य देवानाम्  
+> आगमार्थं च, रक्षसाम् ।  
+> उत्सारणार्थं, भक्तानां  
+> सान्निध्याय विशेषतः ॥
+>
+> ( एम्बार स्वामिनां नित्यग्रन्थे - ११)
 </details>
 
 
@@ -1405,6 +1440,11 @@ He meditates as before,[^26] “The Lord alone makes it all be done,” performi
 [^26]: Regarding this meditation, see Section II.
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+७१. "भगवान् एव स्व नियाम्येत्यादि" । मानसपूजां कृत्वा ।  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1417,13 +1457,14 @@ He meditates as before,[^26] “The Lord alone makes it all be done,” performi
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संभारान् संभृत्य,  
-आत्मनो **वामपार्श्वे जल-भाजने** तोयम् उत्पूर्य,  
-गन्धपुष्पयुतं कृत्वा,  
-सप्तकृत्वः अभिमन्त्र्य,  
-विशोष्य, दग्ध्वा,  
-दिव्यामृतमयं तोयम् उत्पाद्य,  
-अस्त्रमन्त्रेण रक्षां कृत्वा,  
-सुरभिमुद्रां प्रदर्श्य,  
+आत्मनो **वाम-पार्श्वे जल-भाजने** तोयम् उत्पूर्य,  
+गन्ध-पुष्प-युतं कृत्वा,  
+सप्त-कृत्वः अभिमन्त्र्य,  
++++("यं वायवे नमः - शोषयामि")+++ विशोष्य,  
++++("रम् अग्नये नमः - दाहयामि")+++ दग्ध्वा,  
++++("वीं विरजाम् आवाहयामि")+++ दिव्यामृतमयं तोयम् उत्पाद्य,  
++++("अस्त्राय फट्")+++ अस्त्रमन्त्रेण रक्षां कृत्वा,  
+सुरभि-+++(चतुस्तन-)+++मुद्रां +++(तीर्थे)+++ प्रदर्श्य,  
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -1443,6 +1484,18 @@ and presents the cow-mudrā.[^29]
 </details>
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+७२. पूजोपकरणानि योजयित्वा । कुम्भं तीर्थ-पूरितं कृत्वा ।  
+७३. निघृष्टं चन्दनं तीर्थे निक्षिप्य,  
+पुष्पाणि च यथोचितं प्रक्षिप्य,  
+अष्टाक्षरेण मन्त्रेणाऽभिमन्त्र्य,  
+यं इति वायु-बीजेन मन्त्रेण विशोष्य,  
+रं इति अग्नि-बीजेन दग्ध्वा ।  
+७४. "वीं विरजाम् आवाहयामि" इति विरजा-नद्य्-आवाहनतः दिव्यामृत-तोयम् उत्पाद्य, "अस्त्राय फट्" इति तीर्थरक्षां कृत्वा, वाम-दक्षिणाङ्गुल्योः सक्रमं योजनतः सुरभेः धेनोः चतुस्तनमुद्रां तीर्थे प्रदर्श्य ।  
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 संभारान् संभृत्य,  
@@ -1455,15 +1508,15 @@ and presents the cow-mudrā.[^29]
 सुरभिमुद्रां प्रदर्श्य,  
 </details>
 
+
 #### अर्घ्य-पाद्य-आचमनीय-स्नानीय-पात्राणि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्यानि पूजा द्रव्याणि दक्षिण पार्श्वे निधाय,  
 आत्मनः पुरस्तात् स्वास्तीर्णे पीठे  
 क्रमेण आग्नेयादिषु कोणेषु अर्घ्य-पाद्य-आचमनीय-स्नानीय-पात्राणि निधाय,  
-अस्त्रमन्त्रेण प्रक्षाल्य,  
-शोषणादिना पात्राणि विशोध्य,  
-संस्कृत-तोयेन तानि पूरयित्वा,   
++++("अस्त्राय फट्")+++ अस्त्रमन्त्रेण प्रक्षाल्य,  
++++("यं … शोषयामि", "रं  … दाहयामि", "वं … प्लावयामि")+++ शोषणादिना पात्राणि विशोध्य,  
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -1471,8 +1524,17 @@ and presents the cow-mudrā.[^29]
 He places on his right side the other worship materials. On a well-spread seat in front of him, at the southeast corner, etc., he places the bowls of guest-water, foot-washing-water, water for sipping, and bathing-water.  
 He washes them with the protection mantra,  
 and then thoroughly purifies the bowls with acts of drying, etc. 
- 
-He fills them with the prepared water.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+७५. तुलसी पुष्पादीनि आराधकस्य स्वस्य दक्षिणे पार्श्वे स्थापयित्वा ।  
+७६. स्वस्य पुरतः त्रिपदे चतुष्पदे वा सम्यक् स्थापिते पीठे,  
+आग्नेय-नैर्ऋत-वायव्य-ऐशान-कोणेषु  
+अर्घ्यं, पाद्यं, आचमनीयं, स्नानीयं च पात्र-चतुष्टयं निधाय ।  
+७७. अस्त्राय फट् - इति ।  
+यं वायवे नमः - शोषणं, रं- अग्नये नमः - दाहनं, वं अमृताय नमः - प्लावनम् ।  
+अपूरितानि **पात्राणि** यं रं वं इति दक्षिणहस्ते, वामहस्ते, दक्षिणहस्ते च ।
 </details>
 
 
@@ -1483,8 +1545,29 @@ He fills them with the prepared water.
 क्रमेण आग्नेयादिषु कोणेषु अर्घ्य-पाद्य-आचमनीय-स्नानीय-पात्राणि निधाय,  
 अस्त्रमन्त्रेण प्रक्षाल्य,  
 शोषणादिना पात्राणि विशोध्य,  
-संस्कृततोयेन तानि पूरयित्वा,
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(विरजावाहनतः)+++ संस्कृत-तोयेन तानि पूरयित्वा,
+</details>
+
+<details><summary>FX Clooney</summary>
+
+He fills them with the prepared water.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+७८. संस्कृतेन तोयेन - विरजावाहनतः । कोणगतानि पात्राणि पूरयित्वा ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+संस्कृत-तोयेन तानि पूरयित्वा,
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
