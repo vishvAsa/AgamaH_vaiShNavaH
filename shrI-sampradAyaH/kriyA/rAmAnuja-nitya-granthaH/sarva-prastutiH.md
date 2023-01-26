@@ -2758,7 +2758,6 @@ and Śrīraṇgam or others,[^43] as desired[^42].
 <details><summary>मूलम्</summary>
 
 अन्यत्र बाह्यपूजायाम् +++(अन्यत्रावाह्य पूजायाम् इति पाठान्तरम्)+++ आवाहनस्थानानि परमव्योमक्षीरार्णवादित्यमण्डलहृदयानि मधुराद्वारकायोध्यादीनि दिव्यावतारस्थानानि च, अन्यानि पौराणिकानि श्रीरङ्गादिनि च, यथारुचि ।
-
 </details>
 
 ### आत्मनिवेदनम्
@@ -2810,6 +2809,11 @@ After offering obeisance and asking permission,
 let him undertake the Lord’s worship.
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१६८. मूलमन्त्रेण नारायणाष्टाक्षरेण ।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2837,17 +2841,21 @@ XIV. The Lord’s Bath
 Then in a bowl he takes guest-water from the bowl of guest-water previously set there. With his two hands he holds it up before His mouth for smelling. Thinking, “Lord, accept this,” he shows it before the Lord’s mouth, he puts some in the Lord’s right hand. Let him then discard that guest-water into the bowl for remainders. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१७२. **प्रतिग्रहपात्रम्** - पात्रमिदम् ।  
+**षट्पात्राणि** - अर्घ्य-पाद्य-आचमनीय-स्नानीय-सर्वार्थतोय-प्रतिग्रहपात्रेति षट्-पात्राणि ।
+</details>
 
 <details><summary>मूलम्</summary>
 
 पात्रेण (उद्धरिण्या) पूर्वस्थितादर्घ्यपात्रात् अर्घ्यजलमादाय, पाणिभ्यां घ्राणसममुद्धृत्य, "भगवन्निदं प्रतिगृह्णीष्व" +इति चिन्तयन् भगवन्मुखे दर्शयित्वा भगवद्दक्षिणहस्ते किञ्चित्प्रदाय, अर्घ्यं पतद्ग्रहपात्रे प्रक्षिपेत् ।
-
 </details>
 
 ### पाद्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हस्तौ प्रक्षाल्य, पादयोः पुष्पाणि समर्प्य, पाद्यपात्रात् पाद्यजलमादाय, पादयोः किञ्चित् समर्प्य, मनसा पादौ प्रक्षालयन् पाद्यं पतद्ग्रहपात्रे प्रक्षिपेत् ।
++++(स्व-)+++हस्तौ प्रक्षाल्य, पादयोः पुष्पाणि समर्प्य, पाद्यपात्रात् पाद्यजलमादाय, पादयोः किञ्चित् समर्प्य, मनसा पादौ प्रक्षालयन् पाद्यं पतद्ग्रहपात्रे प्रक्षिपेत् ।
 </details>
 
 <details><summary>FX Clooney</summary>
@@ -2857,6 +2865,10 @@ He takes water for the feet from the foot-washing-bowl and puts some of it on Hi
 Let him then discard that water for the feet into the bowl for remainders. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१७३. **हस्तौ** - स्व-हस्तौ । **पादयोः** - भगवच्चरणयोः ।
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -2887,6 +2899,13 @@ He contemplates mentally how the water for sipping is received into the Lord’s
 Let him then discard the remaining water for sipping into the bowl for remainders. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१७५. वस्त्रेण - शोधकेन वस्त्रेण ।  
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 हस्तौ प्रक्षाल्य, पादौ वस्त्रेण संमृज्य, गन्धपुष्पाणि दत्वा, आचमनीयपात्रात् आचमनीयमादाय भगवद्दक्षिणहस्ते किंचित् समर्प्य, भगवद्वदने आचमनीयं समर्पितमिति मनसा भावयन् शेषमाचमनीयं पतद्ग्रहपात्रे प्रक्षिपेत् । 
@@ -2899,7 +2918,7 @@ Let him then discard the remaining water for sipping into the bowl for remainder
 ततो गन्ध-पुष्प-धूप-दीपाचमन--मुख-वास--ताम्बूलादि-निवेदनं कृत्वा  
 प्रणम्य,  
 आत्मानं आत्मीयं च सर्वं  
-"भगवन्, नित्यकिङ्करतया स्वीकुरु"  
+"भगवन्, नित्य-किङ्करतया स्वीकुरु"  
 इति भगवते निवेदयेत् ।
 </details>
 
@@ -2908,6 +2927,17 @@ Let him then discard the remaining water for sipping into the bowl for remainder
 Then he makes offerings of scents, flowers, incense, flame, water for sipping, mouth-wash, betel nut, etc. He offers obeisance.  
 Then let him making the offering to the Lord,  
 “Lord, accept all this, my self and what is mine, as permanently in Your service.” 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१७८. निवेदनम् - 
+
+> मां मदीयं च निखिलं  
+चेतनाचेतनात्मकम् ।
+स्व कैंकर्योपकरणं  
+वरद ! स्वीकुरु स्वयम् ॥  
+(न्यास.द. ७)
 </details>
 
 
