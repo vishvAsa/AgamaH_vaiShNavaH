@@ -3160,6 +3160,11 @@ flag, umbrella, fan, vehicle, conch,
 mark, musical instruments and drums, etc., all the dance, song, instrumental music, etc. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१९२. चिह्नकाहल - भगवच्चिन्हभूतं काहलम् ।  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3196,6 +3201,13 @@ and with other mantras of the Lord.
 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१९३. मन्त्रासनम् ।  
+१९४. अर्चनम् ।
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -3209,7 +3221,7 @@ and with other mantras of the Lord.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव्य्-आदि-पारिषदान्तं तत्-तन्-मन्त्रेण पुष्पं दत्वा  
+देव्य्-आदि-(दिव्य-)पारिषदान्तं तत्-तन्-मन्त्रेण पुष्पं दत्वा  
 प्रणम्य  
 </details>
 
@@ -3268,6 +3280,20 @@ After meditating in just this way,
 he recites the root mantra as many times as he is able  
 and he gives whatever measure more completes all enjoyments.  
 He presents mouth-freshener and betel,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+१९८.
+ध्यात्वा -
+
+> त्वच्छेषत्वे स्थिर-धियं  
+त्वत्प्राप्त्येक-प्रयोजनम् ।  
+निषिद्ध-काम्य-रहितं  
+कुरु मां नित्यकिङ्करम् ॥ (न्यास. द. ५)
+
+
+१९९. मूलमन्त्रम् - अष्टाक्षरमन्त्रम् ।
 </details>
 
 
@@ -3426,7 +3452,7 @@ XVII. Ensuring Lord’s Satisfaction
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततश्च अनुपानतर्पणे प्रदाय, हस्तप्रक्षालन +आचमन हस्तसंमार्जन-चन्दन-मुखवासताम्बूलादीनि दत्वा,  
+ततश्च अनुपान-तर्पणे प्रदाय, हस्तप्रक्षालन +आचमन हस्तसंमार्जन-चन्दन-मुखवासताम्बूलादीनि दत्वा,  
 प्रणम्य पुनर् मन्त्रासनं कूर्चेन मार्जयित्वा  
 अभ्यर्च्य अनुज्ञाप्य,  
 पादुके प्रदाय,  
@@ -3436,6 +3462,13 @@ XVII. Ensuring Lord’s Satisfaction
 
 He presents a final drink and refreshment and gives water for hand-washing and for sipping. He wipes the hands and gives scent, mouth-wash, betel, etc. After offering obeisance, he again wipes the mantra-seat with a handful of grass. He offers veneration, asks permission, and then places the sandals before (the Lord) seated there +++(sic)+++.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+२१५. अनुपानम् - मधुर-शीतल-नारिकेलोदक-पानकादि ।  
+तर्पणम् - तृप्तिकरं तीर्थ-प्रदानम् (देवस्य दक्षिणे हस्ते ) ।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3461,6 +3494,13 @@ He gives water for foot-washing, for sipping, scent, flowers, incense, flame, ri
 After venerating him with (water for sipping), mouth-wash, betel, dance, song, instrumental music, etc.,  
 he does a circumambulation and offers an obeisance (falling prostrate) like a stick. 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+२२२. प्रदक्षिणीकृत्य, दण्डवत् प्रणम्य,  
+२२२. प्रदक्षिणीकृत्य- प्रदक्षिणद्वयं कृत्वा ।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3518,6 +3558,12 @@ He praises Him with songs of praise pleasing to hear.
 
 [^49]: As in note [^47], tradition suggests that Tamil verses are recited here.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+२२९. अभिष्टूय - स्तुत्वा ।
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3622,6 +3668,16 @@ He worships Viṣvaksena with materials, water, etc., not distinguished +++(sic)
 <details><summary>FX Clooney</summary>
 
 After finishing that worship, he offers obeisance to the Lord with an eight-limbed obeisance. Let him then take refuge. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+२३६. अष्टाङ्गप्रणामः -  
+
+> उरसा शिरसा चैव  
+वपुषा मनसा गिरः ।  
+पद्भ्यां कराभ्यां जानुभ्यां  
+प्रणामोऽष्टाङ्ग उच्यते ॥
 </details>
 
 
