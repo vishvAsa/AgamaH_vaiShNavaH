@@ -191,9 +191,12 @@ The Lord is said to be in the form of an Antaryamin for purposes of meditation b
 
 61
 
-not be the thinghood (padartatva) of a thing - sentient or non-sentient - without this inner principle. When he is immanent in every entity thus - as the inner-self - what is the significance in positing the Harda form of the Lord? Though the supreme being is 'Sarvantaryamin' he shows himself to the yogins that are engaged in meditation upon him as residing in their heart in his most auspicious form. This unique form of the Lord is known as the Harda aspect. The yogins mcditate upon this auspicious divine nature of the Supreme Paramatman residing in their heart. Such yogins are engaged in Astanga Yoga and they are intent upon Hrdyaga or Manasa puja. They are qualified to meditate upon the Divyatma Swarupa of the 'Sarvantaryamin' as residing in their heart.
+not be the thinghood (padartatva) of a thing - sentient or non-sentient - without this inner principle. When he is immanent in every entity thus - as the inner-self - what is the significance in positing the Harda form of the Lord? Though the supreme being is 'Sarvantaryamin' he shows himself to the yogins that are engaged in meditation upon him as residing in their heart in his most auspicious form. This unique form of the Lord is known as the Harda aspect. The yogins meditate upon this auspicious divine nature of the Supreme Paramatman residing in their heart. Such yogins are engaged in Astanga Yoga and they are intent upon Hrdyaga or Manasa puja. They are qualified to meditate upon the Divyatma Swarupa of the 'Sarvantaryamin' as residing in their heart.
 
-अष्टाङ्गयोगसिद्धानां हृद्यागनिरतात्मनाम् । योगिनां अधिकारस्स्यात् एकस्मिन् हृदयेशये ॥
+> अष्टाङ्गयोगसिद्धानां  
+हृद्यागनिरतात्मनाम् ।  
+योगिनाम् अधिकारस्स्याद्  
+एकस्मिन् हृदयेशये ॥
 
 In all these forms of incarnations, the Supreme Paramatman is never tainted with any kind of karma or results of the karma. His Divya-Mangala-Vigraha or Divine Auspicious form is formed of 'Shudha-Satva' Dravya or Aparakruta Dravya and so it is called 'Shudha-Srishti'.
 
