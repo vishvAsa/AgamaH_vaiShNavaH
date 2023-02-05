@@ -184,85 +184,115 @@ This achetana or non-sentient principle is of three kinds viz., Prakriti, Kala a
 Matter and Time are inert and not self-luminous.  
 Shudda-satrva is self-luminous, though not a conscious entity according to the views of the Agamas. It is not self-revealing to those who are bound by karma and who are associated with matter. But, it is self-revealing to the eternals and the liberated and the Supreme Ishvara.
 
-These three non-sentient entities are functioning according to the will of the Lord and they undergo modification to form different entities. Matter or Substance that is characterised by the three gunas is undergoing change incessantly. Matter is an ashraya to the three gunas, and it is further classified into the twenty four categories such as Mula-Prakriti, Mahat, Ahankara, eleven indriyas, five tanmatras and the five elements. When all these three qualities are in the state of equilibrium (HR) then ensures Maha-Pralaya. When these three qualities are existing in different proportions, creation and sustenance happen. The primordial matter or Mula-Prakriti is infinite in proportion except in the place where the supreme eternal paramapada or abode of the Lord exists. The primordial matter will be undergoing change incessantly to result in the form of Mahat, Ahankara and others. In such areas where there happens to be a variation in respect of the qualities viz. Satva, Rajas and Tamas, all such wonderful transformations happen only according to the will of Ishvara and it is to be known that matter is also Brahmatmaka and that it is incapable of functioning independently. The several categories under matter are described differently according to the fact of laying emphasis on certain aspects. This trigunam or Prakriti which is a non-sentient substance, which is not self-aware, is spoken of as Akshara, Mula Prakriti, Avidya or Maya.
+These three non-sentient entities are functioning according to the will of the Lord and they undergo modification to form different entities. 
 
-Iso is an eternal entity just like the Jivatman, but ever changing in its nature. This matter is the substance that marvellously transforms itself into the form of wonderful objects of this universe. This happens to be an inseparable attribute of the Supreme Paramatman both in its causal state and effected state. All these twenty-four entities are different from one another on account of their respective
+### Matter
+Matter or Substance that is characterised by the three gunas is undergoing change incessantly.  
+Matter is an ashraya to the three gunas, and it is further classified into the twenty four categories such as Mula-Prakriti, Mahat, Ahankara, eleven indriyas, five tanmatras and the five elements.  
+When all these three qualities are in the state of equilibrium (HR) then ensures Maha-Pralaya.  
+When these three qualities are existing in different proportions, creation and sustenance happen.  
 
-characteristics.
+The primordial matter or Mula-Prakriti is infinite in proportion except in the place where the supreme eternal paramapada or abode of the Lord exists.  
+The primordial matter will be undergoing change incessantly to result in the form of Mahat, Ahankara and others.  
+In such areas where there happens to be a variation in respect of the qualities viz. Satva, Rajas and Tamas, all such wonderful transformations happen only according to the will of Ishvara and it is to be known that matter is also Brahmatmaka and that it is incapable of functioning independently. The several categories under matter are described differently according to the fact of laying emphasis on certain aspects.  
+This trigunam or Prakriti which is a non-sentient substance, which is not self-aware, is spoken of as Akshara, Mula Prakriti, Avidya or Maya.
 
-Essence of Srimad Rahasyatraya Sarain
+It is an eternal entity just like the Jivatman, but ever changing in its nature. This matter is the substance that marvellously transforms itself into the form of wonderful objects of this universe. This happens to be an inseparable attribute of the Supreme Paramatman both in its causal state and effected state. All these twenty-four entities are different from one another on account of their respective characteristics.
 
-The 'Asthrabhushanaadhyaya' describes in a metaphorical way that all these twenty-four categorics along with the order of jivatman, are represented in the form of weapons and ornaments of the Lord. This metaphorical description is to point out that both the sentient and the non-sentient principles are ever subordinated to the will of the Lord and that they function only according to His will.
 
-This triguna-dravya or Matter forms the body of the bound-jivatmans in different forms and the external world forming different aspects such as the mountains, rivers and trees and innumerable other forms. When a person gets rid of his beginningless karma duc to the grace of the Lord, his contact with Matter' comes to an end, and he will escape from the clutches of Matter'.
+The 'Astrabhushanaadhyaya' describes in a metaphorical way that all these twenty-four categories along with the order of jivatman, are represented in the form of weapons and ornaments of the Lord. This metaphorical description is to point out that both the sentient and the non-sentient principles are ever subordinated to the will of the Lord and that they function only according to His will.
 
-Matter is thus responsible for the functioning of the baddha-chetanas for gaining the experience of the world as well as gaining liberation. Through the qualities of Rajas and Tamas, Matter becomes the cause of Viparita-Jnana or perverse knowledge about the entities by covering the reality. It is then called Maya' as it hides the true nature of the jivatman as well as paramatman and it causes the idea of enjoyership in the experience of the sense objects. The same matter, when there is enhancement of the quality of satva, helps a chetana by illumining the reality as it is, and causes him to gain liberation. All these activities of matter are according to the will of the Lord and for the Leclarasa or Joy of the Lord. The Lord is ever compassionate and helpful but he waits for an inclination from the Jivatman to be saved. The jivatman will win the grace of the Lord on account of some good done knowingly or unknowingly and liberate himself from the bondage of matter. It is impossible
+This triguna-dravya or Matter forms the body of the bound-jivatmans in different forms and the external world forming different aspects such as the mountains, rivers and trees and innumerable other forms. When a person gets rid of his beginningless karma due to the grace of the Lord, his contact with Matter comes to an end, and he will escape from the clutches of Matter.
 
-Tatvatrayadhikara
+Matter is thus responsible for the functioning of the baddha-chetanas for gaining the experience of the world as well as gaining liberation. Through the qualities of Rajas and Tamas, Matter becomes the cause of Viparita-Jnana or perverse knowledge about the entities by covering the reality. It is then called 'Maya' as it hides the true nature of the jivatman as well as paramatman and it causes the idea of enjoyership in the experience of the sense objects. 
 
-to get rid of the clutches of matter by one's own effort without the grace of the Lord. Shuddha Satva
+The same matter, when there is enhancement of the quality of satva, helps a chetana by illumining the reality as it is, and causes him to gain liberation. All these activities of matter are according to the will of the Lord and for the ???? or Joy of the Lord. The Lord is ever compassionate and helpful but he waits for an inclination from the Jivatman to be saved. The jivatman will win the grace of the Lord on account of some good done knowingly or unknowingly and liberate himself from the bondage of matter. It is impossible to get rid of the clutches of matter by one's own effort without the grace of the Lord. 
 
-Shuddha satva is the achetana dravya which is the asraya of pure satvaguna, unmixed with rajas or thamas. This takes the form of the eternal objects such as mantapa, gopura and other objects and the bodies of Isvara, nityas and muktas according to the will of Paramatman. They will be eternal if the Lord wills that they be eternal or non-eternal if they are willed to be sq. All these different effects will be the
+### Shuddha Satva
 
-14h (U to the sarvasheshin. This is useful to the shesha bhutas such as nityas and muktas as an instrument for divine service. As this shudhha satva is unmixed with rajas or tamas it will never obstruct origination of true knowledge and it illumines the nature of the Supreme Paramatman eminently. Though this is not a pratyak principle it is self - luminous just like Dharma bhuta jnanam. Kala (or Time)
+Shuddha satva is the achetana dravya which is the asraya of pure satvaguna, unmixed with rajas or thamas. This takes the form of the eternal objects such as mantapa, gopura and other objects and the bodies of Isvara, nityas and muktas according to the will of Paramatman. They will be eternal if the Lord wills that they be eternal or non-eternal if they are willed to be so. All these different effects will be the ???? to the sarvasheshin. This is useful to the shesha bhutas such as nityas and muktas as an instrument for divine service. As this shudhha satva is unmixed with rajas or tamas it will never obstruct origination of true knowledge and it illumines the nature of the Supreme Paramatman eminently. Though this is not a pratyak principle it is self - luminous just like Dharma bhuta jnanam. 
 
-Kala or Time is also a Jada' dravya or inert substance. This is perceived by all organs at the time of perceiving several objects. Kala can be known only as associated with the several objects. It cannot be known apart from the objects. It is eternal. The Upanishad says Agre' as related to creation. Kala exists before creation and even after pralaya. It is necessarily related to the world here and it is found also in Nitya Vibhuti. It is Jada and all - pervasive. There is the division of Kala inco Khanda-Kala and Mahakala. Mahakala qualifies all objects of all the worlds and is all - pervasive. Similarly, Khanda-kala is in the form of Kshana (moment), Lava (as aspect), Day, Night, Month, etc., and it is subject to modification. But the modification here is not a change in the nature of the entity. This modification is not in form of clay that undergoes change in its essential nature, but it is in the aspect of attaining a different state. The change in Kala is in the aspect of change in the number of 'Kshanas' or Muhurthas etc. So many kshanas or moments make one muhurtha and so many muhurthas make one day, so many days make one month, so many months make one year. In this way, time - though one and all - pervasive - attains, different states on account of various duration's that are counted in relation to the several objects; and the objects qualified by such states are called 'Anitya' or non-eternal. This Time or Kala is found even in Paramapada, and it does not limit the objects there, but is subordinated to the will of the Lord. Doctrine of Ishvara
+### Kala (or Time)
+
+Kala or Time is also a 'Jada' dravya or inert substance. This is perceived by all organs at the time of perceiving several objects. Kala can be known only as associated with the several objects. It cannot be known apart from the objects. It is eternal. The Upanishad says ???? as related to creation. Kala exists before creation and even after pralaya. It is necessarily related to the world here and it is found also in Nitya Vibhuti. It is Jada and all - pervasive. 
+
+There is the division of Kala into Khanda-Kala and Mahakala. Mahakala qualifies all objects of all the worlds and is all - pervasive. Similarly, Khanda-kala is in the form of Kshana (moment), Lava (as aspect), Day, Night, Month, etc., and it is subject to modification. But the modification here is not a change in the nature of the entity. This modification is not in form of clay that undergoes change in its essential nature, but it is in the aspect of attaining a different state. The change in Kala is in the aspect of change in the number of 'Kshanas' or Muhurthas etc. So many kshanas or moments make one muhurtha and so many muhurthas make one day, so many days make one month, so many months make one year. 
+
+In this way, time - though one and all - pervasive - attains, different states on account of various duration's that are counted in relation to the several objects; and the objects qualified by such states are called 'Anitya' or non-eternal. 
+
+This Time or Kala is found even in Paramapada, and it does not limit the objects there, but is subordinated to the will of the Lord. 
+
+## Doctrine of Ishvara
 
 The essential nature, the continuance of nature and the functioning of all entities enumerated above are dependent upon the essential nature and will of the Supreme Paramatman. All these entities are existing is their essential nature only on account of the existence of Ishvara. This is known as Swarupashrita. Likewise, the functioning of all these entities is dependent upon the sankalpa or the will of Paramatman. So, they are sankalpashrita.
 
-Ishvara or the Supreme Paramatman is the prime doctrine or all scriptures. All philosophers except the charuvakas, the sankhyas, admit Ishvara and assign him a place in their doctrines. It is only Ramajuna's school that propounds Ishvara faithfully according to the scriptures and assign him the highest place. The schools of Yoga, Nyaya
+Ishvara or the Supreme Paramatman is the prime doctrine or all scriptures. All philosophers except the charuvakas, the sankhyas, admit Ishvara and assign him a place in their doctrines. It is only Ramajuna's school that propounds Ishvara faithfully according to the scriptures and assign him the highest place. 
 
-Tatvatrayadhikara
+The schools of Yoga, Nyaya and Mimamsa - though admit Ishvara - have not assigned the proper place for him. They give a lower status to Ishvara. 
 
-and Mimamsa - though admit Ishvara - have not assigned the proper place for him. They give a lower status to Ishvara. Even amongst Vedantic Schools, it is Vishistadvaita that gives him proper importance and assigns the due status as ordained in the scriptures. The school of Advaita designates Ishvara as Aparabrahma by ranking him lower than the higher Brahman which they call undifferentiated consciousness. Even in the school of Madhva, Ishvara is admitted only as an instrumental cause of this universe and not as the material cause. They posit non-difference between
+Even amongst Vedantic Schools, it is Vishistadvaita that gives him proper importance and assigns the due status as ordained in the scriptures. 
 
-Ishvara and his qualities.
+The school of Advaita designates Ishvara as Aparabrahma by ranking him lower than the higher Brahman which they call undifferentiated consciousness. 
 
-Ishvara is the one supreme doctrine, who is expounded in all scriptures, Agamas and the Divyaprabhandams. The school of Vishistadvaita establishes Ishvara as the most supreme being who is the support, the ruler and the sheshin of all other entities. Ishvara is necessarily 'Saguna' and never nirguna. The essential nature of Ishvara is described as follows: 1. He is inseparably qualified by the essential qualities of
+Even in the school of Madhva, Ishvara is admitted only as an instrumental cause of this universe and not as the material cause. They posit non-difference between Ishvara and his qualities.
 
-Satya, Jnana, Ananta, Ananda and Amala. These qualities determine his essential nature. These are called Swarupa-Nirupaka-Dharmas. It is ordained in the scriptures that while meditating upon Ishvara, one should do so as qualified by all these Swarupa
+Ishvara is the one supreme doctrine, who is expounded in all scriptures, Agamas and the Divyaprabhandams. The school of Vishistadvaita establishes Ishvara as the most supreme being who is the support, the ruler and the sheshin of all other entities. Ishvara is necessarily 'Saguna' and never nirguna. The essential nature of Ishvara is described as follows: 
 
-Nirupaka-Dharmas. 2. All other auspicious qualities such as Bala, Virya, Tejas,
+1. He is inseparably qualified by the essential qualities of Satya, Jnana, Ananta, Ananda and Amala. These qualities determine his essential nature. These are called Swarupa-Nirupaka-Dharmas. It is ordained in the scriptures that while meditating upon Ishvara, one should do so as qualified by all these Swarupa Nirupaka-Dharmas. 
+2. All other auspicious qualities such as Bala, Virya, Tejas, Sousheelya, Vathsalya, Mardva and others and various Vibhutis and the divine auspicious forms are all derived from the essential nature described above. They are called Nirupita-Swarupa-Visheshanas or particular qualities derived from the essential nature. 
+   - Of these auspicious qualities the six qualities (or shadgunas) known as Jnana, Bala, Aishvarya, Virya, Shakti and Tejas are qualities that point out his supremacy. 
+   - Qualities such as Soushcelya, Vathsalya, Mardava, Arjava and a host of others are establishing the accessibility of the supreme. 
 
-Sousheelya, Vathsalya, Mardva and others and various Vibhutis and the divine auspicious forms are all derived from the essential nature described above. They are called Nirupita-Swarupa-Visheshanas or particular qualities derived from the essential nature. Of these
+All these infinite qualities are at all times dependent upon His essential nature. Of these six prime qualities, it is said that in the incarnation of "Vyuha" (such as Vasudeva, Sankarshana, Pradyumna and Aniruddha) two - two qualities are prominently noticed and the other qualities are unmanifested. This is expounded in the Agamas. 
 
-Essence of Srimad Rahasyattaya Saram
-
-auspicious qualities the six qualities (or shadgunas) known as Jnana, Bala, Aishvarya, Virya, Shakti and Tejas are qualities that point out his supremacy. Qualities such as Soushcelya, Vathsalya, Mardava, Arjava and a host of others are establishing the accessibility of the supreme. All these infinite qualities arc at all times dependent upon His essential nature. Of these six prime qualities, it is said that in the incarnation of "Vyuha' (such as Vasudeva, Sankarshana, Pradyumna and Aniruddha) two - two qualities are prominently noticed and the other qualities are unmanifested. This is expounded in the Agamas. It is said that all these six qualities are manifested in the vyuha Vasudeva and the two qualities such as Bala and Jnanam are manifested in the incarnation of Sankarshana by means of which he actuates 'Pralaya' and 'Shastra-Prayartana'. Two qualities viz., Aishvarya and Virya are manifested in the incamation of Pradhyumna and are useful in creation of this universe and also promulgation of Dharma. Two qualities of Shakthi and Tejas are manifested in the vyuha incarnation of Aniruddha and these qualities are helpful in rendering protection and tacva-jnana-pradana. षाशुण्यात् वासुदेवः परइति स भवान् मुक्तभोग्यो बलाढ्यात्
+- It is said that all these six qualities are manifested in the vyuha Vasudeva 
+- and the two qualities such as Bala and Jnanam are manifested in the incarnation of Sankarshana by means of which he actuates 'Pralaya' and 'Shastra-Prayartana??'. 
+- Two qualities viz., Aishvarya and Virya are manifested in the incarnation of Pradyumna and are useful in creation of this universe and also promulgation of Dharma. 
+- Two qualities of Shakthi and Tejas are manifested in the vyuha incarnation of Aniruddha and these qualities are helpful in rendering protection and tacva-jnana-pradana. 
+  
+षाशुण्यात् वासुदेवः परइति स भवान् मुक्तभोग्यो बलाढ्यात्
 
 बोधात्संकर्षणस्त्वं हरसि वितनेषु शास्त्रमैश्वर्य वीर्यात् । प्रद्युम्नाधर्मो नयसि च भगवान् शक्तितेजोनिरद्धः बिभ्राणः पासि तत्त्वं गमयसि च तथा व्यूह्य रंगाधिराज ॥
 
-(Teka: splexi ste - ) All the vyuhas have always these six qualities, but in the respective vyuhas the respective two qualities are made
+(???? ) 
 
-Tarvatrayadhikara
+All the vyuhas have always these six qualities, but in the respective vyuhas the respective two qualities are made patent while others are latent. 
 
-patent while others are latent. The five forms of the supreme are Para, Vyuha, Vibhava, Harda and Archa. The 'Para' is the form of the supreme residing in the highest abode of Paramapada. The "Vyuha' incarnation is described as comprising four vyuhas, when the Vasudeva-Vyuha is counted separately. As the Vasudeva-Vyuha is the same as Para-Vasudeva or the Para-Roopa, it is sometimes described as having three forms only. These different forms of the one Supreme Lord, characterised by all infinite auspicious qualities, are meditated upon by different kinds of upasakas. From these four main vyuhas, the twelve sub-vyuhas such as Keshava, Narayana and others are derived,
+The five forms of the supreme are Para, Vyuha, Vibhava, Harda and Archa. 
+
+The 'Para' is the form of the supreme residing in the highest abode of Paramapada.  
+The "Vyuha" incarnation is described as comprising four vyuhas, when the Vasudeva-Vyuha is counted separately. As the Vasudeva-Vyuha is the same as Para-Vasudeva or the Para-Roopa, it is sometimes described as having three forms only. 
+
+These different forms of the one Supreme Lord, characterised by all infinite auspicious qualities, are meditated upon by different kinds of upasakas.  
+
+From these four main vyuhas, the twelve sub-vyuhas such as Keshava, Narayana and others are derived,
 
 The Vibhava-Avataras are historical incarnations related to particular places and times, and causes. In these incarnations, the Lord manifests himself with the desired qualities and hides certain qualities. The ten incarnations are most prominent (such as the divine fish and others) among these historical incarnations.
 
-Lord Krishna has taught the secret of the Divine incarnations in the Gita. The divine incarnations are (1) real; (2) there is no diminution of knowledge or essential nature of the Lord in the incarnations; (3) the bodies of the Lord in incarnations will be of 'Shuddha-Satva' or pure satva and never material comprising of the three gunas; (4) the cause of Divine incarnation is His own will or sankalpa and not karma as in the case of others; (5) the time of incarnation is thc time when He has to protect Dharma; (6) the purpose of Divine incarnation is Sadhu-paritraga or protecting the Godly ones by granting his communion. The Lord declares in the Gita that one who has realised this secret knowledge of the incarnation (Avatara Rahasya Jnanam) would gain
+Lord Krishna has taught the secret of the Divine incarnations in the Gita. The divine incarnations are 
 
-60
-
-Essence of Srimad Rahasyattaya Saram
-
-liberation at the end of that birth alone and that he would not be born again.
+1) real; 
+2) there is no diminution of knowledge or essential nature of the Lord in the incarnations; 
+3) the bodies of the Lord in incarnations will be of 'Shuddha-Satva' or pure satva and never material comprising of the three gunas; 
+4) the cause of Divine incarnation is His own will or sankalpa and not karma as in the case of others; 
+5) the time of incarnation is the time when He has to protect Dharma; 
+6) the purpose of Divine incarnation is Sadhu-paritrana or protecting the Godly ones by granting his communion. 
+   
+The Lord declares in the Gita that one who has realised this secret knowledge of the incarnation (Avatara Rahasya Jnanam) would gain [[60]] liberation at the end of that birth alone and that he would not be born again.
 
 Similarly the Archavatara is of great significance. One who devotes himself to the worship of the Archa incarnation, would gain liberation without heavy strain. This form of the Lord is easily accessible to all at all times unlike other forms of the Lord. Shounaka ordains thus -
 
-सुंरूपां प्रतिमा विष्णोः प्रसन्नवदनेक्षणाम् । कृत्वात्मनः प्रीतिकरी सुवर्णरजतादिभिः ॥ तामर्चयेत्तां प्रणमेत् तां यजेत्तां विचिन्तयेत् । विशत्यपास्तदोषस्तु तामेव ब्रह्मरूपिणीम् ।।
-
-"Making a beautiful idol of Sri Mahavishnu having beautiful features as eyes, face and graceful looks, out of gold or silver or others, one should worship the Lord, bow down to Him, surrender unto Him, meditate upon Him; such a one freed from all blemishes is sure to attain that Supreme Paramatman."
+> सुंरूपां प्रतिमा विष्णोः प्रसन्नवदनेक्षणाम् । कृत्वात्मनः प्रीतिकरी सुवर्णरजतादिभिः ॥ तामर्चयेत्तां प्रणमेत् तां यजेत्तां विचिन्तयेत् । विशत्यपास्तदोषस्तु तामेव ब्रह्मरूपिणीम् ।।
+> 
+> "Making a beautiful idol of Sri Mahavishnu having beautiful features as eyes, face and graceful looks, out of gold or silver or others, one should worship the Lord, bow down to Him, surrender unto Him, meditate upon Him; such a one freed from all blemishes is sure to attain that Supreme Paramatman."
 
 Of all forms of the Lord, the Archa is most easily accessible and most significant. The great Alwars have realised the 'Avatara-Rahasya-Jnanam' and 'Archavatara Vailakshanyam' and have sought refuge with the Lord in this form alonc.
 
-The Lord is said to be in the form of an Antaryamin for purposes of meditation by yogins as residing in their hearts. The antaryamitva of the Lord is two-fold. As declared by the scriptures, he entered into all entities – sentient and non-sentient - having the jivatman as his body, and articulated differentiations of names and forms. There will
+The Lord is said to be in the form of an Antaryamin for purposes of meditation by yogins as residing in their hearts. The antaryamitva of the Lord is two-fold. As declared by the scriptures, he entered into all entities – sentient and non-sentient - having the jivatman as his body, and articulated differentiations of names and forms. There will [[61]] not be the thinghood (padartatva) of a thing - sentient or non-sentient - without this inner principle. 
 
-126Tatvatrayadhikara
+> When he is immanent in every entity thus - as the inner-self - what is the significance in positing the Harda form of the Lord? 
 
-61
-
-not be the thinghood (padartatva) of a thing - sentient or non-sentient - without this inner principle. When he is immanent in every entity thus - as the inner-self - what is the significance in positing the Harda form of the Lord? Though the supreme being is 'Sarvantaryamin' he shows himself to the yogins that are engaged in meditation upon him as residing in their heart in his most auspicious form. This unique form of the Lord is known as the Harda aspect. The yogins meditate upon this auspicious divine nature of the Supreme Paramatman residing in their heart. Such yogins are engaged in Astanga Yoga and they are intent upon Hrdyaga or Manasa puja. They are qualified to meditate upon the Divyatma Swarupa of the 'Sarvantaryamin' as residing in their heart.
+Though the supreme being is 'Sarvantaryamin' he shows himself to the yogins that are engaged in meditation upon him as residing in their heart in his most auspicious form. This unique form of the Lord is known as the Harda aspect. The yogins meditate upon this auspicious divine nature of the Supreme Paramatman residing in their heart. Such yogins are engaged in Astanga Yoga and they are intent upon Hrdyaga or Manasa puja. They are qualified to meditate upon the Divyatma Swarupa of the 'Sarvantaryamin' as residing in their heart.
 
 > अष्टाङ्गयोगसिद्धानां  
 हृद्यागनिरतात्मनाम् ।  
@@ -271,52 +301,43 @@ not be the thinghood (padartatva) of a thing - sentient or non-sentient - withou
 
 In all these forms of incarnations, the Supreme Paramatman is never tainted with any kind of karma or results of the karma. His Divya-Mangala-Vigraha or Divine Auspicious form is formed of 'Shudha-Satva' Dravya or Aparakruta Dravya and so it is called 'Shudha-Srishti'.
 
-These forms of the Lord will cause the attainment of the realisation of the auspicious qualities of the Lord to a wifefs and strengthen his Maha-Vishvas or great faith in the Lord at the time of performance of Prapatti.
+These forms of the Lord will cause the attainment of the realisation of the auspicious qualities of the Lord to a ???? and strengthen his Maha-Vishvasa or great faith in the Lord at the time of performance of Prapatti.
 
-The functions of the Supreme Paramatman who is a home of all-knowledge, power, compassion, and a host of other auspicious qualities, are creation of the entire universe, protection and destruction of the same, granting of S10
+The functions of the Supreme Paramatman who is a home of all-knowledge, power, compassion, and a host of other auspicious qualities, are creation of the entire universe, protection and destruction of the same, granting of liberation to the deserving souls that pray for liberation and maintaining this universe by residing in all entities as their inmost-self. All these functions are undertaken by the Lord for the fulfilment of His own ananda or delight. They are all natural to Him and He is not functioning under any other compulsion. 
 
-I el
+This is leela (or sport). Leela (or sport) is explained by masters as compassion for the souls that are bound from beginningiess time to samsara. Desika describes in his Dayashataka that creation and destruction of the universe are the acts of compassion for erring humanity.
 
-liberation to the deserving souls that pray for liberation and maintaining this universe by residing in all entities as their inmost-self. All these functions are undertaken by the Lord for the fulfilment of His own ananda or delight. They are all natural to Him and He is not functioning under any other compulsion. This is leela (or sport). Lecla (or sport) is explained by mastecs as compassion for the souls that are bound from beginningiess time to samsara, Desika describes in his Dayashataka that creation and destruction of the universe are the acts of compassion for erring humanity.
-
-According to the infallible authorities of the scriptures, it is understood that the Lord is inseparably associated in all states with Goddess Mahalakshmi who is the Mother of this universe. The Purushasuktha declares that the Supreme Divinity is ever associated with Mahalakshmi. Sriman Narayana and Mahalakshmi together form the 'Paratatva' or the supreme reality. All acts of the Lord are performed along with Sri Mahalakshmi, Both of them are the sheshins for the hosts of sentient and non-sentient objects 3418Hach शेषित्वम्
+According to the infallible authorities of the scriptures, it is understood that the Lord is inseparably associated in all states with Goddess Mahalakshmi who is the Mother of this universe. The Purushasuktha declares that the Supreme Divinity is ever associated with Mahalakshmi. Sriman Narayana and Mahalakshmi together form the 'Paratatva' or the supreme reality. All acts of the Lord are performed along with Sri Mahalakshmi, Both of them are the sheshins for the hosts of sentient and non-sentient objects ???? शेषित्वम्.
 
 The great masters of the yore as well as the Alwars have realised this truth of the Supreme Divinity being two-in one and one-in-two.
 
-Parasharabhattar and others have taught that the greatness of both is infinite and they have by mutual consent divided their functions. 'Sugu ' or punishing according to the sins committed, is the unique function of the Lord whereas 'purushakaratva' or appealing to the Lord on behalf of erring humanity is the unique function of Goddess Mahalakshmi.
+Parasharabhattar and others have taught that the greatness of both is infinite and they have by mutual consent divided their functions. '????' or punishing according to the sins committed, is the unique function of the Lord whereas 'purusha-karatva' or appealing to the Lord on behalf of erring humanity is the unique function of Goddess Mahalakshmi.
 
-Tatvatrayadhikara
-
-Mahalakshmi has never known Nigraha' or causing punishment. She is ever associated with the Lord and is full of compassion and so, argues in favour of those that surrender unto the Lord and gets protection of those from the Lord. So, anyone can confidently approach the Lord at any time praying for forgiveness for the wrongs done and secking protection of the Lord. Mahalakshmi thus is the saviour of humanity in the form of mediatrix, who always lends her cars to the wocs of humanity.
+Mahalakshmi has never known 'Nigraha' or causing punishment. She is ever associated with the Lord and is full of compassion and so, argues in favour of those that surrender unto the Lord and gets protection of those from the Lord. So, anyone can confidently approach the Lord at any time praying for forgiveness for the wrongs done and secking protection of the Lord. Mahalakshmi thus is the saviour of humanity in the form of mediatrix, who always lends her cars to the wocs of humanity.
 
 Desika points out that an awareness of the nature of the Supreme Principle, Sriman Narayana along with Goddess Mahalakshmi and the nature of the jivatman and the nature of the matter broadly as described here, is absolutely necessary for undertaking the spiritual disciplines for one's redemption. This much is absolutely necessary. All elaborations in innumerable works are only strengthening this knowledge firmly.
 
-The three entities are explained thus. It may be thought of as one Supreme Reality, as qualified by all others, or it may be understood as the 'ruler' and the 'ruled', 'the Arman and the Antaman', 'the protector and the objects to be protected'. In whatever way it is explained, the knowledge of these will be helpful for working out one's upward evolution.
+## Conclusion
+The three entities are explained thus. It may be thought of as one Supreme Reality, as qualified by all others, or it may be understood as the 'ruler' and the 'ruled', 'the Atman and the Antaman', 'the protector and the objects to be protected'. In whatever way it is explained, the knowledge of these will be helpful for working out one's upward evolution.
 
 One should know that gaining the knowledge of the shastras is very difficult, as there are different views supporting and refuting the several doctrines. It may disturb the peace of one's mind. So, one should listen to that which is of supreme good viz. The Supreme Paramatman, and then practise the discipline of Prapati or Bhakti Yoga without going further again into the study of the shastras consisting of objections and confusions. The idea is that once when he knows the truth from the instruction of the Acharya, he should hurry to save himself without unnecessary further investigations.
 
-शास्त्रज्ञानं बहुक्लेशं बुद्धेः चलनकारणम् । उपदेशात् हरि बुध्वा विरमेत्सर्वकर्मसु ।
+शास्त्रज्ञानं बहुक्लेशं  
+बुद्धेः चलनकारणम् ।  
+उपदेशात् हरिं बुद्ध्वा  
+विरमेत्सर्वकर्मसु ।
 
 The abandonment of all karmas mentioned here relates to the study of the shastra which is of the form of objections and answers based on logic. When he has known the ultimate truth from the Acharya, he need not further indulge in futile discussions that are comprising of various arguments for and against.
 
 Desika concludes this chapter with one very meaningful verse, which is to be remembered always .
 
-उपयुक्तेषु वैशद्यं त्रिवर्गनिरपेक्षता । करणत्रयसारूप्यं इति सौख्य रसायनम् ॥
+उपयुक्तेषु वैशद्यं  
+त्रिवर्गनिरपेक्षता ।  
+करण-त्रय-सारूप्यम्  
+इति सौख्य-रसायनम् ॥
 
-There are three most important factors mentioned in this verse - 1. The truths regarding the essential knowledge to be
+There are three most important factors mentioned in this verse - 
 
-gained and the various modes of actions to be undertaken, are mentioned here as 'Upayukthesu'. One should have clarity and steadfastness in them. This is 'Vaishadya'. This is gained from 'Manana' and 'Chintana' of the truths taught by the acharyas. When one reflects
-
-on these truths, all doubts and contradictions disappear.
-
-2. The second factor is that one should get himself rid of
-
-desire for the attainment of benefits related to Dharma, Artha and Kama, after reflecting over their defects such
-
-Tacvatrayadhikara
-
-3.
-
-as 'alpatva', 'asthiratva', 'duhka-mulatva', 'Duhka mishratva' and others.
-
-The third factor is Karanatraya-sarupyam. This means uniformity of the functions of the mind, speech and actions. 'Sarupyam' means 'Anurupatva' - of similar form - and non-difference between one another. And the attainment of these three is said to be 'soukhya Rasayanam'. 'Soukhya' incans 'mahanandam'. 'Rasayanam' is 'Sadhanam'. That means these are ever realised means of attainment of great delight. Thus, in this chapter of Tatvatrayadhikara, Desika has expounded the essential nature of the three entities, the knowledge of which is absolutely necessary for undertaking any spiritual discipline clearly and concisely.
+1. The truths regarding the essential knowledge to be gained and the various modes of actions to be undertaken, are mentioned here as 'Upayukthesu'. One should have clarity and steadfastness in them. This is 'Vaishadya'. This is gained from 'Manana' and 'Chintana' of the truths taught by the acharyas. When one reflects on these truths, all doubts and contradictions disappear.
+2. The second factor is that one should get himself rid of desire for the attainment of benefits related to Dharma, Artha and Kama, after reflecting over their defects such as 'alpatva', 'asthiratva', 'duhka-mulatva', 'Duhka mishratva' and others.
+3. The third factor is Karanatraya-sarupyam. This means uniformity of the functions of the mind, speech and actions. 'Sarupyam' means 'Anurupatva' - of similar form - and non-difference between one another. And the attainment of these three is said to be 'soukhya Rasayanam'. 'Soukhya' means 'mahanandam'. 'Rasayanam' is 'Sadhanam'. That means these are ever realised means of attainment of great delight. Thus, in this chapter of Tatvatrayadhikara, Desika has expounded the essential nature of the three entities, the knowledge of which is absolutely necessary for undertaking any spiritual discipline clearly and concisely.
