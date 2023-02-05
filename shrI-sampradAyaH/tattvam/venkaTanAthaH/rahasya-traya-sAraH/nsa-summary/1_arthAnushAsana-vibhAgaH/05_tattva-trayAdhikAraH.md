@@ -11,109 +11,180 @@ CHAPTER - V
 
 Tatvatrayadhikara
 
-Our Masters of yore have classified the categories in various ways, for making the disciples understand the truth clearly without any confusion. The different kinds of categorisation are not contradicting one another. The oneness of Paramatman characterised by the orders of the chetana and the achetana i.e. fagfefelleng e' is admitted by all. The difference and distinction between Brahman and the other two orders, is also admitted by all. To make the student understand the unique characteristics of the 'Prakara' or the attributes, tatva is classified into six sub-divisions such as the Arthapanchaka' and the unique relationship of the 'Body-Soul. Likewise, tatva can be classified into two categories such as 'Isvara' and 'Ishithavya', or it may be classified into three categories as declared by the scriptures viz., Bhoktha, Bhogyam and Preritha'. It may be classified into twenty-six divisions, twenty-four divisions of matter such as Prakriti, Mahath, etc., twenty-fifth category being the Jivatman, and the twenty-six being Paramatman. In every kind of categorisation, an aspirant will realise the true nature of the matter, Jivatman and the Supreme Paramatman.
+Our Masters of yore have classified the categories in various ways, for making the disciples understand the truth clearly without any confusion. The different kinds of categorisation are not contradicting one another. 
+
+## Categories
+The oneness of Paramatman characterised by the orders of the chetana and the achetana i.e. ????? is admitted by all. The difference and distinction between Brahman and the other two orders, is also admitted by all. To make the student understand the unique characteristics of the 'Prakara' or the attributes, tatva is classified into six sub-divisions such as the Arthapanchaka' and the unique relationship of the 'Body-Soul'. Likewise, tatva can be classified into two categories such as 'Isvara' and 'Ishitavya', or it may be classified into three categories as declared by the scriptures viz., Bhoktha, Bhogyam and Preritha'. It may be classified into twenty-six divisions, twenty-four divisions of matter such as Prakriti, Mahath, etc., twenty-fifth category being the Jivatman, and the twenty-six being Paramatman. In every kind of categorisation, an aspirant will realise the true nature of the matter, Jivatman and the Supreme Paramatman.
 
 It is to be known that all entities other than Paramatman are real and subordinated to Him as His inseparable attribute. Paramatman is one supreme Reality, who is all independent and the one supreme ruler over all other entities. The existence, the essential nature and functioning of all sentient and non-sentient entities, other than Paramatman, are subordinated to that one Supreme Paramatman. This fact is admitted by all thinkers who have described the nature and number of categories differently.
 
-In the previous section, the five factors such as the nature of the Prapya and others and the unique relationship between Paramatman and others were taught expressly. Then, where is the need for introducing this section dealing with the three tatvas viz., Prakriti, Jivatman and Paramatman? This verily forms a part of Arthapanchaka. The answer to this question is given by Vedantha Desika in the preliminary verse and further explanation of the meaning of the verse. Every aspirant has to get rid of three powerful illusions - 1. The illusion that the body itself is the Atman. This is
+## Prayojana
+In the previous section, the five factors such as the nature of the Prapya and others and the unique relationship between Paramatman and others were taught expressly. Then, where is the need for introducing this section dealing with the three tatvas viz., Prakriti, Jivatman and Paramatman? This verily forms a part of Arthapanchaka. The answer to this question is given by Vedantha Desika in the preliminary verse and further explanation of the meaning of the verse. Every aspirant has to get rid of three powerful illusions - 
 
-known as '616494:' || 2. The illusion that the Jivatman is all independent and
+1. The illusion that the body itself is the Atman. This is known as '????' || 
+2. The illusion that the Jivatman is all independent and not subordinated to anyone. This is known as '????'!
+3. The illusion, Most Harmful, that there is no Isvara at all, who is the creator, protector and destructor, and that all the activities of the universe are going on according to their nature. This is known as ????.
 
-not subordinated to anyone. This is known as 'FACH MIA:'!
+These three illusions should be cleared and every aspirant has to realise that they are the most formidable impediments, obstructing the path of spiritual sadhana. So, Desika has devoted a chapter here before coming to the subject of the main topic viz., Prapatti, so that one may be well aware of the nature of these three entities. 
 
-The illusion, Most Harmful, that there is no Isvara at all, who is the creator, protector and destructor, and that all the activities of the universe are going on according to their nature. This is known as 36itur als:'
+Only when one is equipped with the correct understanding of these three entities, one will be a genuine aspirant after liberation. He will be an adhikarin for practising spiritual discipline.
 
-These three illusions should be cleared and every aspirant has to realise that they are the most formidable impediments, obstructing the path of spiritual sadhana. So, Desika has devoted a chapter here before coming to the subject of the main topic viz., Prapatti, so that one may be well aware of the nature of these three entities. Only when one is equipped with the correct understanding of these
+So Desika introduces this chapter with this preliminary verse. 
 
-Tacvatrayadhikara
-
-three entities, one will be a genuine aspirant after liberation. He will be an adhikarin for practising spiritual discipline.
-
-So Desika introduces this chapter with this preliminary verse. प्रकृत्यात्मभ्रान्तिर्गलति चिदचिल्लक्षणधिया तथा जीवेशैक्यप्रभृतिकलहः तद्विभजनात् । अतो भोक्ता भोग्यं तदुभयनियन्तेति निगमैः विभक्तं नः तत्त्वत्रयमुपदिशन्त्यक्षतधियः"।
+> प्रकृत्यात्मभ्रान्तिर्गलति चिदचिल्लक्षणधिया तथा जीवेशैक्यप्रभृतिकलहः तद्विभजनात् ।  
+अतो भोक्ता भोग्यं तदुभयनियन्तेति निगमैः विभक्तं नः तत्त्वत्रयमुपदिशन्त्यक्षतधियः"।
 
 The gist of this verse is as follows: -
 
-"By understanding the distinct features of the sentient and the non-sentient entities properly, the illusion of the Atman as the body will vanish. Similarly, by understanding properly the difference and distinction between Isvara and Jivatman, the confusion of the oneness of Jivatman and Paramatman will disappear. The Masters of yore, therefore, teach the three realities as classified by the scriptures as the ‘Bhoktha', or the enjoyer, 'the Bhogya', or the object of enjoyment, and the 'Preritha' or the ruler over both these entities."
+> "By understanding the distinct features of the sentient and the non-sentient entities properly,  
+> the illusion of the Atman as the body will vanish.  
+> Similarly, by understanding properly the difference and distinction between Isvara and Jivatman,  
+> the confusion of the oneness of Jivatman and Paramatman will disappear.  
+> The Masters of yore, therefore, teach the three realities as classified by the scriptures as the ‘Bhoktha', or the enjoyer, 'the Bhogya', or the object of enjoyment, and the 'Preritha' or the ruler over both these entities."
 
-In this chapter, Desika has dealt with the nature and characteristics and functioning of these entities both sentient and non-sentient, along with the nature and functioning of Isvara in a remarkably brief manner. The nature, definition and characteristics of these three entities, have been dealt with elaborately supported by dialectrical discussions in great works like Nyaya-Siddanjanam, Tarvamuktakalapam, Nyaya Parisuddhi and other works. The summaries of conclusions arrived at in those monumental works, are given here in a brief manner to serve the general purposes of an aspirant. The aim of this section is not to deal with all these entities exhaustively in all their aspects, but to point out the most essential truths that are inevitable for having a firm understanding of these truths to enable one to take up to the path of spiritual perfection.
+In this chapter, Desika has dealt with the nature and characteristics and functioning of these entities both sentient and non-sentient,  
+along with the nature and functioning of Isvara in a remarkably brief manner. 
 
-Desika mentions the scatement of Yamuna, quoted by Ramanuja viz., Feta fifa
+The nature, definition and characteristics of these three entities, have been dealt with elaborately supported by dialectrical discussions in great works like Nyaya-Siddanjanam, Tarvamuktakalapam, Nyaya Parisuddhi and other works. The summaries of conclusions arrived at in those monumental works, are given here in a brief manner to serve the general purposes of an aspirant. The aim of this section is not to deal with all these entities exhaustively in all their aspects, but to point out the most essential truths that are inevitable for having a firm understanding of these truths to enable one to take up to the path of spiritual perfection.
 
-feefangera? and endeavours to explain in detail the meanings and implications of this statement. This statement of Yamuna is mentioned by Ramanuja also. This expounds the nature of the three entities in a nutshell. The three kinds of sentients are the 'Bound', 'Liberated' and the 'Eternal'. The three achetanas are 'Triguna Dravya' (Matter having three qualities), 'Time' and 'Shuddha-Satva’. Swarupa means the essential nature of the 'Dharmi' that is qualified by its unique characteristics. 'Sthithi' means continuance in time. This is of two kinds. Eternal entities last for eternal time. The non eternal entities continue to exist subject to the will of the Lord, for such period. 'Pravritthi' means functioning. This is of two forms - Positive (Pravritthi) and Negative (Nivritthi). All these entities are established according to the relevant pramanas. The prime subject of this chapter is briefly expounded in this significant statement. The Svarupa, Sthiti and Pravrithi of all the three kinds of sentients and non-sentients and their differences are subordinated to the supreme Paramatman.
+Desika mentions the statement of Yamuna, quoted by Ramanuja viz., ???? and endeavours to explain in detail the meanings and implications of this statement. This statement of Yamuna is mentioned by Ramanuja also. This expounds the nature of the three entities in a nutshell. 
 
-It is to be noted that the "Pramanas' show always the essential nature of the several entities along with their characteristics (Dharma). There is absolutely no room for an undifferentiated object. The qualities determining the cssential nature of the entities are called 'Swarupa-Nirupaka
+## Terms
+The three kinds of sentients are the 'Bound', 'Liberated' and the 'Eternal'.  
 
--
+The three achetanas are 'Triguna Dravya' (Matter having three qualities), 'Time' and 'Shuddha-Satva’.  
 
-Tacvatrayadhikara
+Swarupa means the essential nature of the 'Dharmi' that is qualified by its unique characteristics.  
 
-Dharmas'. The host of qualities that are dorived from the 'Swarupa-Nirupaka-Dharmas are called 'Nirupita-Swarupa Visheshanas'. This chapter is a clear exposition of this significant statement. Nature of Jipatman
+'Sthithi' means continuance in time.  
+This is of two kinds.  
+Eternal entities last for eternal time.  
+The non eternal entities continue to exist subject to the will of the Lord, for such period.  
 
-Jivatman has the essential characteristics of Jnanatva, Anandatva, Amalatva, Anutva and Shesharya or subservience to the Lord. It is not subservient to any other person than Isvara. This Sheshatva' is a Swarupa-Nirupaka-Dharma'. The Jivarman can be defined as शेषत्वेसति चेतनत्वम् ।
+'Pravritthi' means functioning. This is of two forms - Positive (Pravritthi) and Negative (Nivritthi). 
 
-The Jivatman is self - revealing. He can know himself by his essential nature. He can know other things through his ‘Dharma Bhuta Jnana'. His subservience to the Lord is signified in the first letter of 'Pranava' and by the term Narayana' in the dative case. This subservience of the Jivatman to the Lord, culminates in his subscrvience to the Bhagavatas also.
+All these entities are established according to the relevant pramanas. The prime subject of this chapter is briefly expounded in this significant statement. The Svarupa, Sthiti and Pravrithi of all the three kinds of sentients and non-sentients and their differences are subordinated to the supreme Paramatman.
 
-The 'Pravritthi' of Jivatman is dependent upon the Lord i.e. Paradhina. The enjoyership and the doorship of the Jivatman are dependent upon the Lord, and have been granted to the Jivatman for subserving the purposes of the Lord himself.
+It is to be noted that the "Pramanas" show always the essential nature of the several entities along with their characteristics (Dharma). 
 
-The 'Bound-Soul is associated with matter on account of his beginningless past karma of the form of transgression of the divine command. He is bound to Avidya, Karma: Vasana and Prakriti-Sambandha. There are infinite number of jivas. There is difference between one Jiva and another Jiva in the experience of their knowledge and happiness. The very many chetanas or Jivatmans are ranging from the four faced-Brahma to the tiny worm. Though their essential
+There is absolutely no room for an undifferentiated object. The qualities determining the essential nature of the entities are called 'Swarupa-Nirupaka Dharmas'. The host of qualities that are derived from the 'Swarupa-Nirupaka-Dharmas are called 'Nirupita-Swarupa Visheshanas'. This chapter is a clear exposition of this significant statement. 
 
-Essence of Srimad Rahasyatraya Sarım
+## Nature of Jivatman
 
-nature of jnanatva, anandatva and anutva, is equal to one another, their Dharma Bhuta Jnana differs from Atman to Atman. All these Jivatmans are endowed with bodies according to their Karma and the Jivatman supports its body through his essential nature and also through Dharma Bhuta Jnanam. During the 'walking state, the chetanas support their body and function through it for adoption of spiritual practices and for attainment of objects of life. At the time of 'sushupthi', the Jivatman supports the body through the essential nature or Dharmi-Swarupa. When they are 'liberated', their Dharma Bhuta Jnana will be helpful for rendering loving service to the Lord and for experiencing the bliss of divine communion.
+Jivatman has the essential characteristics of Jnanatva, Anandatva, Amalatva, Anutva and Sheshatva or subservience to the Lord. It is not subservient to any other person than Isvara. This 'Sheshatva' is a 'Swarupa-Nirupaka-Dharma'. The Jivarman can be defined as शेषत्वे सति चेतनत्वम् ।
 
-The 'Bound-Jivas' are 'Baddhas', migrating in this universe from birth to birth till they are 'liberated'. They will be functioning virtuously or viciously, or in a way which is neither good nor bad. The 'liberated' souls manifest in their real nature and they will by serving the Lord according to their desire for all times to come, enjoying the bliss of divine communion.
+The Jivatman is self - revealing.  
+He can know himself by his essential nature.  
+He can know other things through his ‘Dharma Bhuta Jnana'.  
 
+His subservience to the Lord is signified in the first letter of 'Pranava' and by the term 'Narayana' in the dative case.  
+This subservience of the Jivatman to the Lord,  
+culminates in his subscrvience to the Bhagavatas also.
+
+The 'Pravritthi' of Jivatman is dependent upon the Lord i.e. Paradhina.  
+
+The enjoyership and the doorship of the Jivatman are dependent upon the Lord,  
+and have been granted to the Jivatman for subserving the purposes of the Lord himself.
+
+### Bound-Soul
+The 'Bound-Soul' is associated with matter on account of his beginningless past karma of the form of transgression of the divine command.  
+He is bound to Avidya, Karma, Vasana and Prakriti-Sambandha.  
+There are infinite number of jivas.  
+
+There is difference between one Jiva and another Jiva in the experience of their knowledge and happiness.  
+
+The very many chetanas or Jivatmans are ranging from the four faced-Brahma to the tiny worm.  
+
+Though their essential nature of jnanatva, anandatva and anutva, is equal to one another, their Dharma Bhuta Jnana differs from Atman to Atman. 
+
+All these Jivatmans are endowed with bodies according to their Karma and  
+the Jivatman supports its body through his essential nature and also through Dharma Bhuta Jnanam.  
+
+During the 'waking state', the chetanas support their body and function through it for adoption of spiritual practices and for attainment of objects of life.  
+At the time of 'sushupthi', the Jivatman supports the body through the essential nature or Dharmi-Swarupa.  
+When they are 'liberated', their Dharma Bhuta Jnana will be helpful for rendering loving service to the Lord and for experiencing the bliss of divine communion.
+
+The 'Bound-Jivas' are 'Baddhas', migrating in this universe from birth to birth till they are 'liberated'. They will be functioning virtuously or viciously, or in a way which is neither good nor bad. 
+
+### Liberated
+The 'liberated' souls manifest in their real nature and they will by serving the Lord according to their desire for all times to come, enjoying the bliss of divine communion.
+
+### Eternals
 The 'eternals' are distinguished from the other two categories of bound-selves and liberated-selves in the aspect of never contacting with 'matter' at any time. From beginningless time, their true nature is ever manifested and their subservience to the Lord, their dependence upon the Lord and their experience of the Lord for all times to come, are experienced without any limitation. Their 'Pravritthi vishesha' is to render all kinds of services to the Lord from beginningless time for all times to come.
 
-The 'Nityas' are rendering distinguished and particular services to the Lord. They are Anantha, Garuda,
+The 'Nityas' are rendering distinguished and particular services to the Lord. They are Anantha, Garuda, Vishwaksena and others. Each one serves the Lord in a particular way and the rest of them experience the same delight without any difference.
 
-Tarvatrayadhikara
+The nature of the chetanas or the Jivatmans is thus explained in such a way, as it becomes useful to a sadhaka, to evolve his spiritual discipline.
 
-Vishwaksena and others. Each one serves the Lord in a particular way and the rest of them experience the same delight without any difference.
+### Attributive Consciousness (or Dharma-Bhuta Jnanam)
+This is not mentioned separately as this happens to be included in the essential nature of the chetana or the atman. This is a unique doctrine which is admitted according to the authority of the scriptures. The scriptures declare that the atman is a Kartha, Bhoktha, Vijnatha. This knowership or doership signifies this attributive consciousness. 
 
-The nature of the chetanas or the Jivatmans is thus explained in such a way, as it becomes useful to a sadhaka, to evolve his spiritual discipline. Attributive Consciousness (or Dharma-Biruta Jnanam)
+#### Inseparableness, reflexivity
+As other philosophers have not admitted this entity of attributive consciousness, they find it difficult to explain the fact of knowledge. The 'Sankhyas' and 'Advaitins' attribute knowledge to the mind or Anthahkarana' which is inert. They say knowledge is superimposed on the inert Anthahkarana. For them, the atman is pure consciousness without the fact of knowership. 
 
-This is not mentioned separately as this happens to be included in the essential nature of the chetana or the atman. This is a unique doctrine which is admitted according to the authority of the scriptures. The scriptures declare that the atman is a Kartha, Bhoktha, Vijnatha. This knowership or doership signifies this attributive consciousness. As other philosophers have not admitted this entity of attributive consciousness, they find it difficult to explain the fact of knowledge. The 'Sankhyas' and 'Advaitins' attribute knowledge to the mind or Anthahkarana' which is inert. They say knowledge is superimposed on the inert Anthahkarana. For them, the atman is pure consciousness without the fact of knowership. In the school of
+In the school of 'Vishistadvaita' the atman is of the essential nature of Jnanam or Jnana-Swarupa and it has the inseparable attribute of Jnanam or Dharma-Bhuta Jnanam.  
 
-Vishistadvaita' the atman is of the essential nature of Jnanam or Jnana-Swarupa and it has the inseparable attribute of Jnanam or Dharma-Bhuta Jnanam. The atman is a ‘Prathyak' principle i.e., a self revealing entity. The atman knows itself as an Anukula', and as one and of the nature of bliss. Swarupa-Jnana can know itself; but, it cannot show other things. Dharma-Bhuta Jnanam is an inseparable attribute of the atman. It shows itself and other objects also to its Ashraya' or the self at the time of showing the objects (Vishaya-Prakashana-Kala). This Dharma-Bhuta Jnanam also is 'Swayam-Prakasha' and does not require any other thing to make itself known. It is 'Ubhaya-Nirvahaka'.
+The atman is a ‘Prathyak' principle i.e., a self revealing entity. 
 
+The atman knows itself as an 'Anukula', and as one and of the nature of bliss. +++(5)+++
+
+Swarupa-Jnana can know itself; but, it cannot show other things. 
+
+Dharma-Bhuta Jnanam is an inseparable attribute of the atman. It shows itself and other objects also to its 'Ashraya' or the self at the time of showing the objects (Vishaya-Prakashana-Kala).  
+This Dharma-Bhuta Jnanam also is 'Swayam-Prakasha' and does not require any other thing to make itself known. It is 'Ubhaya-Nirvahaka'.
+
+##### Extant
 All atmans including Paramatman are qualified by this Dharma-Bhuta Jnanam. This attributive consciousness is subject to contraction and expansion during the state of 'samsara' for the bound-souls.
 
-When the bound-self liberates himself from the bondage (of samsara) by the grace of the Lord, his Dharma Bhuta Jnanam assumes its proper proportions and is not subjected to contraction at any time. The Dharma-Bhuta Jnanam of Nityas or the eternal ones and Paramatman is, from beginningless time, all pervasive and never subjected to any contraction whatsoever. This Dharma-Bhuta Jnanam illumines all objects to its source, the ashraya and will be helpful for supporting the body, when he is in the waking and the dream state. The 'Sutraka' declares that the atman has knowership in the sutra 3: 37747' (V.S.2-3-19) and
+When the bound-self liberates himself from the bondage (of samsara) by the grace of the Lord, his Dharma Bhuta Jnanam assumes its proper proportions and is not subjected to contraction at any time. 
 
-Guerrara, 14.44.4:' (V.S.2-3-29).
+The Dharma-Bhuta Jnanam of Nityas or the eternal ones and Paramatman is, from beginningless time, all pervasive and never subjected to any contraction whatsoever. 
 
+#### Utility
+This Dharma-Bhuta Jnanam illumines all objects to its source, the ashraya and will be helpful for supporting the body, when he is in the waking and the dream state. 
+
+The 'Sutrakara' declares that the atman has knowership in the sutra 3: ?????' (V.S.2-3-19) and ?????, 14.44.4:' (V.S.2-3-29).
+
+#### A substance
 This Dharma-Bhuta Jnanam is a substance as it is subjected to contraction or expansion. But it is an inseparable and eternal attribute of the atman, and it is existing even in the state of 'sushupti'.
 
-All atmans will be undergoing the experience of several objects either as agreeable or disagreeable, according to their karma. All objects in the world are the glory or vibhuti of the Lord and are agreeable always to the eternals, the liberated and Ishwara. All things are always agreeable to them. But, for the bound-selves, these objects of the world, will be agreeable to some extent or disagreeable, or neitherTatvatrayadhikara
+### Objects and agreeableness
+All atmans will be undergoing the experience of several objects either as agreeable or disagreeable, according to their karma. 
 
-51
+All objects in the world are the glory or vibhuti of the Lord and are agreeable always to the eternals, the liberated and Ishwara. All things are always agreeable to them. 
 
-agreeable nor disagrecable according to their respective karmas and also according to the differences of times or persons or places. This kind of disagreeability is entirely due to the fact that the Supreme Paramatman is apportioning the results according to the respective karmas of those people. This is the mode of awarding the results of karmas by the Supreme Lord who is Satya-Sankalpa. The bound souls are experiencing the results of their karma and for that they are having Swarupa-Yogyata and Sahakari-Yogyata. All Jivatmans are subordinated to the Lord and therefore, they have Swarupa-Yogyata for experiencing the phala given by the Lord. As they have transgressed the command of the Lord and have committed an offence that way, they have Sahakari-yogyata also. For the eternals and the liberated, though they havc Swarupa-Yogyata, they are not having Sahakari-Yogyata because of the absence of transgression of the divine command. The Lord is the ruler over all others and he is not answerable to any other person and so he has neither Swarupa-Yogyata nor Sahakari-Yogyata. It can be noted from this, that there is nothing like disagreeable and evil really, but certain things appear disagreeable to us on account of our own past karma.
+But, for the bound-selves, these objects of the world, will be agreeable to some extent or disagreeable, or neither [[51]] agreeable nor disagrecable according to their respective karmas and also according to the differences of times or persons or places.  
+This kind of disagreeability is entirely due to the fact that the Supreme Paramatman is apportioning the results according to the respective karmas of those people.  
+This is the mode of awarding the results of karmas by the Supreme Lord who is Satya-Sankalpa.  
 
+The bound souls are experiencing the results of their karma and for that they are having Swarupa-Yogyata and Sahakari-Yogyata.  
+All Jivatmans are subordinated to the Lord and therefore, they have Swarupa-Yogyata for experiencing the phala given by the Lord.  
+As they have transgressed the command of the Lord and have committed an offence that way, they have Sahakari-yogyata also.
+
+For the eternals and the liberated, though they have Swarupa-Yogyata, they are not having Sahakari-Yogyata because of the absence of transgression of the divine command.
+
+The Lord is the ruler over all others and he is not answerable to any other person and so he has neither Swarupa-Yogyata nor Sahakari-Yogyata. It can be noted from this, that there is nothing like disagreeable and evil really, but certain things appear disagreeable to us on account of our own past karma.
+
+### Self-luminosity
 The essential nature or Swarupa of all atmans including Ishvara, is self-luminous to the respective atmans. The Dharmi-Swarupa never undergoes contraction even while one is bound by samsara. It is ever pure. It is of the nature of consciousness and bliss whereas the Dharma-Bhuta Jnanam or the attributive consciousness is self-luminous only at the time of illumining the objects to its source.
 
-Jnanatva and Swayam-Prakashatva are common to substantive consciousness and attributive consciousness. The
+Jnanatva and Swayam-Prakashatva are common to substantive consciousness and attributive consciousness. The Dharma-Bhura Jnanam cannot know itself - but it can show itself and other things – to its ashraya. 
 
-L
+The Dharmi-Jnanam or Swarupa-Jnanam cannot show anything but it can know itself. 
 
-US
+Therefore, they +++(=Atmans)+++ become objects of knowledge along with their attributes like Nityatva, Vibhutva or Anutva through the extension of different knowledges gained from the shastra and others.  
 
-Essence of Srimad Rahasyarraya Saram
+As this school has admitted both these kinds of knowledge, the fact of generation of knowledge can be explained according to experience and the shastras.
 
-Dharma-Bhura Jnanam cannot know itself - but it can show itself and other things – to its ashraya. The Dharmi-Jnanam or Swarupa-Jnanam cannot show anything but it can know itself. Therefore, they become objects of knowledge along with their attributes like Nityaeva, Vibhutva or Anurva through the extension of different knowledges gained from the shastra and others. As this school has admitted both these kinds of knowledge, the fact of generation of knowledge can be explaincd according to experience and the shastras.
+## Achetana Tattva (or Non-sentient substance)
 
-Achetana Tatra (or Non-sentient substance)
+The achetana or non-sentient substance is not conscious of itself. It is not a substratum or locus of knowledge. It reveals itself only to others. This is known as 'Parak-Tatva' or an entity that shows itself only to others. These two characteristics of (1) not knowing itself and (2) revealing itself only to others, are common to all the non-sentient principles and Dharma-Bhuta Jnanam. Dharma-Bhuta Jnanam is considered as Swayam-Prakasha or self-luminous, though non-sentient, as it does not require any other thing for showing itself. 
 
-The achetana or non-sentient substance is not conscious of itself. It is not a substratum or locus of knowledge. It reveals itself only to others. This is known as 'Parak-Tatva' or an entity that shows itself only to others. These two characteristics of (1) not knowing itself and (2) revealing itself only to others, are common to all the non-sentient principles and Dharma-Bhuta Jnanam. Dharma-Bhuta Jnanam is considered as Swayam-Prakasha or self-luminous, though non-sentient, as it does not require any other thing for showing itself. This achetana or non-sentient principle is of three kinds viz., Prakriti, Kala and Shuddha-sarva. Matter and Time are inert and not self-luminous. Shudda-satva is self-luminous, though not a conscious entity according to the views of the Agamas. It is not self-revealing to those who are bound by karma and who are associated with matter. But, it is self-revealing to the eternals and the liberated and the Supreme Ishvara.
+This achetana or non-sentient principle is of three kinds viz., Prakriti, Kala and Shuddha-sattva.  
+Matter and Time are inert and not self-luminous.  
+Shudda-satrva is self-luminous, though not a conscious entity according to the views of the Agamas. It is not self-revealing to those who are bound by karma and who are associated with matter. But, it is self-revealing to the eternals and the liberated and the Supreme Ishvara.
 
-These three non-sentient entities are functioning according to the will of the Lord and they undergo modification to form different entities. Matter or Substance
-
-Tatvatrayadhikara
-
-es
-
-that is characterised by the three gunas is undergoing change incessantly. Matter is an ashraya to the three gunas, and it is further classified into the twenty four categories such as Mula-Prakriti, Mahat, Ahankara, eleven indriyas, five tanmatras and the five elements. When all these three qualities are in the state of equilibrium (HR) then ensures Maha-Pralaya. When these three qualities are existing in different proportions, creation and sustenance happen. The primordial matter or Mula-Prakriti is infinite in proportion except in the place where the supreme eternal paramapada or abode of the Lord exists. The primordial matter will be undergoing change incessantly to result in the form of Mahat, Ahankara and others. In such areas where there happens to be a variation in respect of the qualities viz. Satva, Rajas and Tamas, all such wonderful transformations happen only according to the will of Ishvara and it is to be known that matter is also Brahmatmaka and that it is incapable of functioning independently. The several categories under matter are described differently according to the fact of laying emphasis on certain aspects. This trigunam or Prakriti which is a non-sentient substance, which is not self-aware, is spoken of as Akshara, Mula Prakriti, Avidya or Maya.
+These three non-sentient entities are functioning according to the will of the Lord and they undergo modification to form different entities. Matter or Substance that is characterised by the three gunas is undergoing change incessantly. Matter is an ashraya to the three gunas, and it is further classified into the twenty four categories such as Mula-Prakriti, Mahat, Ahankara, eleven indriyas, five tanmatras and the five elements. When all these three qualities are in the state of equilibrium (HR) then ensures Maha-Pralaya. When these three qualities are existing in different proportions, creation and sustenance happen. The primordial matter or Mula-Prakriti is infinite in proportion except in the place where the supreme eternal paramapada or abode of the Lord exists. The primordial matter will be undergoing change incessantly to result in the form of Mahat, Ahankara and others. In such areas where there happens to be a variation in respect of the qualities viz. Satva, Rajas and Tamas, all such wonderful transformations happen only according to the will of Ishvara and it is to be known that matter is also Brahmatmaka and that it is incapable of functioning independently. The several categories under matter are described differently according to the fact of laying emphasis on certain aspects. This trigunam or Prakriti which is a non-sentient substance, which is not self-aware, is spoken of as Akshara, Mula Prakriti, Avidya or Maya.
 
 Iso is an eternal entity just like the Jivatman, but ever changing in its nature. This matter is the substance that marvellously transforms itself into the form of wonderful objects of this universe. This happens to be an inseparable attribute of the Supreme Paramatman both in its causal state and effected state. All these twenty-four entities are different from one another on account of their respective
 
