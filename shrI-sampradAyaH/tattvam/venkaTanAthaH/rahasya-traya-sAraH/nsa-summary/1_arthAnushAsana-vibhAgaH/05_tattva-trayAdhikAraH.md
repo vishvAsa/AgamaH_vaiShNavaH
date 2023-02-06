@@ -331,7 +331,7 @@ The abandonment of all karmas mentioned here relates to the study of the shastra
 
 Desika concludes this chapter with one very meaningful verse, which is to be remembered always .
 
-उपयुक्तेषु वैशद्यं  
+उपयुक्तेषु वैशद्यं,  
 त्रिवर्गनिरपेक्षता ।  
 करण-त्रय-सारूप्यम्  
 इति सौख्य-रसायनम् ॥
