@@ -18,6 +18,8 @@ title = "समाश्रयण-भरन्यासौ"
 >
 > - vijayaH
 
+- Met देशिकाचार्यदीक्षित, a vAdyAr, (whose great-grandfather was an AhitAgni in shAntigrAma, KA), who comes from a family which has been doing samAshrayaNa for nearby folks, as a representative of the ANDavan, since olden days.
+
 ### आचार्य-चिति-प्रकारः
 - पितुर् आचार्य एवोपसर्पणीय इति केचित्। नैवम् इत्यपरे। पिता न समाश्रितवान् चेत् स्वातन्त्र्यम् इति केचिद् अपि।
 
