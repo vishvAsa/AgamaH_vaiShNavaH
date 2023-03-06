@@ -34,7 +34,7 @@ title = "समाश्रयण-भरन्यासौ"
 ### उपसर्पणम्
 ANDavan Ashrama makes you recite:
 
-<div class="js_include" url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ### नामहोमः
 > The Parasara-visista-parama-dharma-sastra which is largely the basis for the panchasamskara performed today explicitly allows for the skipping of the nAma-samskara if the individual has been given a Srivaishnava nAma at birth, cauLa or upanayana.
