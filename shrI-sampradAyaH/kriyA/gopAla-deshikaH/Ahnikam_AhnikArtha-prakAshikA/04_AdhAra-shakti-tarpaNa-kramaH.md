@@ -1,9 +1,7 @@
 +++
 title = "०४ आधारशक्त्यादि"
 +++
-
-<details open><summary>मूलम्</summary> 
-
+ 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आधारशक्तितर्पणक्रमः॥  
