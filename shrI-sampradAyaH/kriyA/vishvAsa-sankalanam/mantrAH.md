@@ -57,3 +57,7 @@ title = "मन्त्राः"
 > Interestingly there is a later upanishad called dvayopanishad. (Later based on absence in a list in muktikopaniShat.) But it does not give the mantra. It only mentions abt the mantra and it's characteristics. 
 > 
 </details>
+
+## त्रिनामा
+अच्युताय नमोऽनन्ताय नमो गोविन्दाय नमः इति त्रिनामा ।
+
