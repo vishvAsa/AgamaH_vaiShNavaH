@@ -71,3 +71,5 @@ title = "प्रकीर्णाः"
 परमं पवित्रं,  
 भगवान् वासुदेवः पुनातु 
 
+## पञ्चोपनिषन्मत्राः
+- [अत्रोक्ताः](/AgamaH/AryaH/hinduism/AchAraH/kriyAH/angAni/bhUta-shuddhiH) । 
