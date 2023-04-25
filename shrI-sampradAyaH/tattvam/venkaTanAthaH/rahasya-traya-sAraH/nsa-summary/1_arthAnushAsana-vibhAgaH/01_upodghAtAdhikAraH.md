@@ -31,7 +31,7 @@ This invocation suggests that the acharyas that are 'Anaghas' (34427:) are simil
 
 After this Mangalacharanam, Desika offers obeisance at the feet of his preceptor - Sri Appullar - and seeks his grace for a successful completion of the work undertaken. In one Sanskrit verse 'Horak sa sitt:' the subject matter of this section that is Upodghathadikara, is expounded briefly -
 
-मणिवर इव शौरेः नित्यहृद्योऽपि जीव: कलुषमतिरविन्दन् किंकरत्वाधिराज्यम् । विधिपरिणतिभेदाद्वीक्षितस्तेन काले
+मणिवर इव शौरेः नित्यहृद्योऽपि जीवः कलुषमतिरविन्दन् किंकरत्वाधिराज्यम् । विधिपरिणतिभेदाद्वीक्षितस्तेन काले
 
 गुरुपरिषदुपज्ञं प्राप्य गोपायते स्वम् ।। The gist of the verse is as follows
 

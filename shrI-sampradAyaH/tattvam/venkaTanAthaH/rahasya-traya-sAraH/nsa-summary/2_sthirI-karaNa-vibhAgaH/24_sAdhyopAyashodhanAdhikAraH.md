@@ -65,7 +65,7 @@ Sadhyopaya Shodhanadhikara
 
 245.
 
-Paramatman, if one wants to uplift himself, and fulfil the purpose of his existence. "स्वोजीवनेच्छा यदि ते स्वसत्तायां स्पृहा यदि । आत्मदास्यं हरे: स्वाम्यं स्वभावं च सदा स्मर" ॥
+Paramatman, if one wants to uplift himself, and fulfil the purpose of his existence. "स्वोजीवनेच्छा यदि ते स्वसत्तायां स्पृहा यदि । आत्मदास्यं हरेः स्वाम्यं स्वभावं च सदा स्मर" ॥
 
 Knowing this reality of the Lord being the Master and the jivatman being subservient to Him, one is asked to behave in accordance with this understanding. Is there a different factor that is to be enjoined as surrender of the self, apart from this ? Desika points out that this objection is not tenable just like the view of some that say moksha is possible on account of mere understanding of the meaning of the 'mahavakyas' (i.e. Vakyajanya Jnanamatram) or the significant statements like That Thou art'.
 

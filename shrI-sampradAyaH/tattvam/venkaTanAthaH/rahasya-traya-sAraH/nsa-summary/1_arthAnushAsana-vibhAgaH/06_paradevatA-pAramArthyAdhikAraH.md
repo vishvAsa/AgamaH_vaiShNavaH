@@ -105,7 +105,7 @@ It is decidedly declared in the scriptures that gods like Brahma, Rudra and othe
 
 Essence of Srimad Rahasyattaya Saram
 
-'ब्रह्माद्यास्सकला देवाः मनुष्याः पशवस्तथा । विष्णुमायामहावर्तमोहान्धतमसा वृता:' ।।
+'ब्रह्माद्यास्सकला देवाः मनुष्याः पशवस्तथा । विष्णुमायामहावर्तमोहान्धतमसा वृताः' ।।
 
 These gods are subordinated to the delusion of matter or prakruthi and are dominated by the interplay of the threc 'gunas' viz. Satva, Rajas and Tamas and their knowledge is subjected to expansion and contraction and they serve the Lord, their antaryamin, in accordance with their understanding of the Supreme Lord.
 
