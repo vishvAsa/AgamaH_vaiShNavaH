@@ -1,34 +1,13 @@
 +++
 title = "काम-बीज-काम-गायत्री-व्याख्या"
 +++
-<!-- Output copied to clipboard! -->
-
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.516 seconds.
 
 
-Using this Markdown file:
+श्री-काम-बीज-काम-गायत्री-व्याख्यान-द्वयम्
 
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
+श्री-प्रबोधानन्द-सरस्वती-विरचितम्
 
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Fri Apr 28 2023 04:28:50 GMT-0700 (PDT)
-* Source doc: kama-bija-kama-gayatri-vyakhya_-_prabodhananda_sarasvati
------>
-
-
-
-## śrī-kāma-bīja-kāma-gāyatrī-vyākhyāna-dvayam
-
-śrī-prabodhānanda-sarasvatī-viracitam
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Taken from the appendix to Haridas Das’s edition of _Gīta-govinda, _with commentary attributed to Prabodhananda Saraswati. This text is given with critical apparatus, which is reproduced here in footnotes, as the text is short.
 
@@ -44,170 +23,153 @@ Entered : Jan Brzezinski (2005-09-03)
 
  --o)0(o--
 
+</details>
 
-## śrī-kāma-bīja-vyākhyānam
+श्री-काम-बीज-व्याख्यानम्
 
-śrī-śrī-rādhā-kṛṣṇābhyāṁ namaḥ
+श्री-श्री-राधा-कृष्णाभ्यां नमः
 
 
-    padmajaṁ tan-mukhopetaṁ śatru-sopari-saṁsthitam |
+> पद्मजं तन्-मुखोपेतं शत्रु-सोपरि-संस्थितम् ।  
+> सेन्दु-बिन्दु-शिखोपेतं प्रथमं सर्व-कामदम् ॥
 
+॥ क्लीं ॥
 
-    sendu-bindu-śikhopetaṁ prathamaṁ sarva-kāmadam ||
+अथ बीजस्यार्थो गौतमीय-तन्त्रे—
 
-|| klīṁ ||
 
-atha bījasyārtho gautamīya-tantre—
+> ल-कारात् पृथिवी-बीजं क-काराज् जल-सम्भवः ।  
+> ई-काराद् वह्निर् उत्पन्नो नादाद् वायुर् अजायत ।  
+> बिन्दोर् आकाश-सम्भूतिर् इति भावात्मको मनुः ॥ 
 
+इति पञ्च-भूतो मूर्तिमान् पुरुषः ।
 
-    la-kārāt pṛthivī-bījaṁ ka-kārāj jala-sambhavaḥ |
+काद् आपो लात् पृथिवी ईतो वह्निर् नादाद् वायुर् बिन्दोर् आकाश-भूत इति । जल-रूप-पुरुषः कामः क-कारः[^१] । वायु-स्पर्श-जीवो नादः । आकाश-शब्दः अहङ्कारो बिन्दुः गोपाल-तथापिई-वेदे । 
 
+रत्न-प्रिया रति-कला सुभगा भद्र-सौभगा[^२] क-कारः । सुमुखी कल-हंसी ल-कारः । मन्मथ-मोदा[^३] च ई-कारः । कलापिनी नाद-बिन्दुः ।
 
-    ī-kārād vahnir utpanno nādād vāyur ajāyata |
 
+> क-कारः कथ्यते कामो ल-कारो मूर्तिर् उच्यते ।  
+> ई-कारः शक्ति-रूपा च नादो लिङ्गनम् उच्यते ॥[^४]
 
-    bindor ākāśa-sambhūtir iti bhāvātmako manuḥ || 
+बिन्दुश् चुम्बनम् उच्यते इति मुनयः । 
 
-iti pañca-bhūto mūrtimān puruṣaḥ |
 
-kād āpo lāt pṛthivī īto vahnir nādād vāyur bindor ākāśa-bhūta iti | jala-rūpa-puruṣaḥ kāmaḥ ka-kāraḥ[^1] | vāyu-sparśa-jīvo nādaḥ | ākāśa-śabdaḥ ahaṅkāro binduḥ gopāla-tathāpiī-vede | 
+> ई-कारान् नायिका-मुख्या ल-काराल् ललिता तथा[^५] ।  
+> क-कारान् नायको मुख्यो[^६] नादालिङ्गनम् उक्तवत् ।  
+> बिन्दुश् चुम्बनम् आकृतः इति आगमस्य ।
 
-ratna-priyā rati-kalā subhagā bhadra-saubhagā[^2] ka-kāraḥ | sumukhī kala-haṁsī la-kāraḥ | manmatha-modā[^3] ca ī-kāraḥ | kalāpinī nāda-binduḥ |
+अत्र स्व-मतं—
 
 
-    ka-kāraḥ kathyate kāmo la-kāro mūrtir ucyate |
+> क-कारान् नायक-श्रेष्ठ ई-कारान् नायिका वरा ।  
+> ल-कारो ह्लाद-रूपा च नादालिङ्गनम् उच्यते ।  
+> बिन्दुस् तु चुम्बनं तथा ॥
 
+कैश्चित् तु एवं व्याख्याअते—गल-शिर-आस्यं च क-कारः । चक्षुः-कर्ण-बाहु ल-कारः । वक्षः-पृष्ठ-कटि-जङ्घा नादः । जानु-पादौ च बिन्दुः ।
 
-    ī-kāraḥ śakti-rūpā ca nādo liṅganam ucyate ||[^4]
+इति प्रबोधानन्द-सरस्वती-कृत-काम-बीज-व्याख्यानम् ।
 
-binduś cumbanam ucyate iti munayaḥ | 
+> --ओ)०(ओ--
 
 
-    ī-kārān nāyikā-mukhyā la-kārāl lalitā tathā[^5] |
+## मन्त्रार्थः
 
+क-कारः पुरुषः कृष्णः सच्-चिद्-आनन्द-विग्रहः ।
 
-    ka-kārān nāyako mukhyo[^6] nādāliṅganam uktavat |
+ई-कारः प्रयोजई राधा नित्य-वृन्दावनेश्वरी ॥
 
+लश् चानन्दात्मकं प्रेम-सुखं च परिकीर्तितम् ।
 
-    binduś cumbanam ākṛtaḥ iti āgamasya |
+चुम्बनाश्लेष-माधुर्यं बिन्दु-नाद-समीरितम् ॥
 
-atra sva-mataṁ—
+गोपीति गोपनाद् राधा जनस् तस्य सखी-जनः ।
 
+अनयोर् वल्लभः कृष्णो नायकः काम-शेखरः ॥
 
-    ka-kārān nāyaka-śreṣṭha ī-kārān nāyikā varā |
+स्वाहा-शब्देनात्म-समर्पणम् ।
 
+> --ओ)०(ओ--
 
-    la-kāro hlāda-rūpā ca nādāliṅganam ucyate |
 
+## श्री-काम-गायत्री-व्याख्यानम् 
 
-    bindus tu cumbanaṁ tathā ||
+कामेन अभिलाषेण स्व-विषय-प्रीति-दार्ढ्येन दीव्यति क्रीडति दिवु क्रीडायां[^७], तस्मै काम-देवाय विद्महे, विदॢ लाभे विद् ज्ञाने वा । धीमहि ध्यायेम । काम-देवाय कथम्-भूताय ? पुष्प-बाणाय । पुष्पं कमलं तद् एव बाणः यस्य तस्मै[^८] । तन् नोऽनङ्गः[^९] कन्दर्पः नोऽस्मान् प्रचोदयात् प्रकर्षेण प्रकृष्ट-रूपेण उदयात् उदयं करोत्व् इत्य् अर्थः । च-कारः समुच्चये ।
 
-kaiścit tu evaṁ vyākhyāate—gala-śira-āsyaṁ ca ka-kāraḥ | cakṣuḥ-karṇa-bāhu la-kāraḥ | vakṣaḥ-pṛṣṭha-kaṭi-jaṅghā nādaḥ | jānu-pādau ca binduḥ |
+अत्र क्लीम् इति पदेन मूर्तिमान् पुरुषः । काम-पदेन गण्ड-द्वयम् । देव-पदेनात्र आस्य-भाल उच्यते । अभिलाषेण स्व-विषय-प्रीति-दार्ढ्येन चन्द्र-मण्डलेन दीव्यति क्रीडति । ष-कारेणार्ध-चन्द्रः भाले तिलक-चन्द्रः, अर्ध-चन्द्र-चतुष्टयम् इति । अङ्घ्रि-शिरोऽवधि-क्रमात्[^१०] क्रम-रूपेण विंशत्य्-अक्षरेण (?) विंशतिश् चन्द्रा उच्यन्ते ।
 
-iti prabodhānanda-sarasvatī-kṛta-kāma-bīja-vyākhyānam |
+कामो गण्ड-द्वये स्नेहे विलासे छवि-तृष्टयोर् इति भास्वदिः । क-कारश् चन्द्रिमा चन्द्रे विलासान् अवसानयोर् इति[^११] काम-पालः । म-कारो मधुरे हास्य-विकाशे[^१२] छवि-तृष्णयोर् इति ऋषभः । दे इति दा दाने औणादिकत्वात् ए-कारः दा-मा-स्मा-घ्रोः स्नायाम् इति ए-प्रत्ययः । देश् चन्द्र-विलासेऽभ्रेऽप्य् अर्हणे मण्डलेऽपि च इति देवद्युतिः । देश् चन्द्र-मण्डलेऽप्य् आस्ये हविर् दान-विलासयोर् इति व्याघ्र-भूतिः । व इति वन-षण सम्भक्तौ वन-धातोर् औणादिकत्वात् पञ्चम्य् अन्ताद् भावे ड-प्रत्ययः । व-कारो लास्य-लावण्ये इन्द्र-युगे शशधरे इति भास्वदिः। वि-कारान्त-ष-कारेण अर्ध-चन्द्रः प्रकीर्तितः, लक्षणानुरोधात् सं चन्द्रार्धं वैभवं च विलासो दारुणं भयम् इति व्याढिः । 
 
- --o)0(o--
+वि-शब्दादि-पञ्चाक्षरेण दक्षिणावर्त-क्रमेण पञ्च चन्द्रा उच्यन्ते । तद् यथा विद्महे पुष्प इत्य् आदि । बाणादि-पञ्चाक्षरेएण वामावर्तादि-क्रमेण पञ्च चन्द्रा उच्यन्ते । तद् यथा बाणाय धीमहि इत्य् आदि । तत्र कौस्तुभस्य मणेर् अधस्ताद् वाम-दक्षिण-रूपेण दशाक्षरेण दश चन्द्रा उच्यन्ते । तत्र दक्षिणादि-क्रमेण हि-शब्दादि-पञ्चाक्षरेण पञ्च-चन्द्रा उच्यन्ते । तद् यथा—प्रचोदयात् इति । 
 
+वि-शब्दो विविधे प्राज्ञे अङ्गने[^१३] च शशधरे इति विश्वः । डुधाञ् डुभृञ् धारण-पोषणयोः इति धा-धातोर् औणादिको म-प्रत्ययान्तो निपातः । धा-धातोर् म इति निपातश् च इति द्मः । द्म-कारो विविधे नृत्ये तेजो-राशौ शशधरे इति भास्वदिः । हे-शब्दो हेतुके विज्ञे इन्दौ पूर्ण-रसालये इति काम-तन्त्रे । पु-शब्दो रसना-ज्योत्स्ना-नृत्य-चन्द्राङ्कुशाम्बुजे इति देव-द्युतिः । ष्प-कारो विकले प्राज्ञे विधु-मुक्तोदयेषु[^१४] च इति रत्न-हासः । वा-शब्दो विषमाधारे चन्द्र-ज्योत्स्नाववृद्धयोः[^१५] इति वामन-पुराणे । ण-कारो विषमाविष्टे[^१६] नृत्य-चन्द्र-रसायने इति स्व-भूतिः । य-कारश् चन्द्र-बिम्बे च विशालाक्षे रसाकरे इति व्याघ्र-भूतिः । धी-शब्दो बुद्धौ प्राज्ञे च विधौ चन्द्राभिवादयोः इति चन्द्र-गोमी[^१७] । म-कारो मारुते व्रध्ने[^१८] प्रभाकर-निशाकरे इति स्व-भूतिः । हि-शब्दो हि रसावेशे हिङ्गुले चन्द्र-मण्डले इति व्याघ्र-भूतिः । नो-शब्दो नौ स्त्रियां ना वा न-कारश् चन्द्र-मण्डले इति देव-द्यूतिः । अनङ्गो मदने विश्वेऽनङ्गश् चन्द्र-विभावने इति चन्द्र-गोमी[^१९] । प्र-शब्दो विविधे नृत्ये प्रकृष्टे चन्द्र-मण्डले इति व्याघ्र-भूतिः । च-कारश् चालने चन्द्रे ज्योतिश् चन्द्रे विभावने इति स्वभूतिः[^२०] । द-कारो विविधे नृत्ये चन्द्रे बिम्बाधरेऽपि च इति भास्वदिः । आसने च विधायां तु य-कारश् चन्द्र उच्यते[^२१] इति चन्द्र-गोमी । स्तव-स्तोत्र-विकाशेषु त-कारश् चन्द्र उच्यते इति देवद्युतिः । 
 
-## mantrārthaḥ
+इति श्री-प्रबोधानन्द-गोस्वामिना विरचितः काम-गायत्र्य्-अर्थः ।[^२२]
 
-ka-kāraḥ puruṣaḥ kṛṣṇaḥ sac-cid-ānanda-vigrahaḥ |
 
-ī-kāraḥ prayojaī rādhā nitya-vṛndāvaneśvarī ||
 
-laś cānandātmakaṁ prema-sukhaṁ ca parikīrtitam |
+[^१]:
+    क-पुस्तके अतिरिक्तः पाठः—पृथिवी-गन्ध-प्रकृति-मूर्तिर् ल-कारः । तेजो-रूप-महद्-आधार ई-कारः ॥
 
-cumbanāśleṣa-mādhuryaṁ bindu-nāda-samīritam ||
+[^२]:
+    रति-कला भद्रा सौरभा (क)
 
-gopīti gopanād rādhā janas tasya sakhī-janaḥ |
+[^३]:
+    मदोन्मदा चन्द्रा (क)
 
-anayor vallabhaḥ kṛṣṇo nāyakaḥ kāma-śekharaḥ ||
+[^४]:
+    नादो बिन्दुर् उदीरिता (क)
 
-svāhā-śabdenātma-samarpaṇam |
+[^५]:
+    परा (क)
 
- --o)0(o--
+[^६]:
+    इतः परं क-पुस्तके—बिन्दुश् चुम्बनम् उच्यते । आश्लेषोऽप्य् अर्ध-चन्द्रश् च बीजार्थः परमाद्भुतम् । इति श्री-प्रबोधानन्द-सरस्वती-विरचितं काम-गायत्री-व्याख्या-पटलं समाप्तम् ॥
 
+[^७]:
+    अत्र ख-पुस्तकेऽधिकः पाठः—नित्य-विषयत्वात् ।
 
-## śrī-kāma-gāyatrī-vyākhyānam 
+[^८]:
+    पुष्पम् एक-रमणं स एव बाणो यस्य तस्मै (ख)
 
-kāmena abhilāṣeṇa sva-viṣaya-prīti-dārḍhyena dīvyati krīḍati divu krīḍāyāṁ[^7], tasmai kāma-devāya vidmahe, vidḷ lābhe vid jñāne vā | dhīmahi dhyāyema | kāma-devāya katham-bhūtāya ? puṣpa-bāṇāya | puṣpaṁ kamalaṁ tad eva bāṇaḥ yasya tasmai[^8] | tan no’naṅgaḥ[^9] kandarpaḥ no’smān pracodayāt prakarṣeṇa prakṛṣṭa-rūpeṇa udayāt udayaṁ karotv ity arthaḥ |  ca-kāraḥ samuccaye |
+[^९]:
+    अत्र ख-पुस्तकेऽधिकः—सोऽनङ्गः ।
 
-atra klīm iti padena mūrtimān puruṣaḥ | kāma-padena gaṇḍa-dvayam | deva-padenātra āsya-bhāla ucyate | abhilāṣeṇa sva-viṣaya-prīti-dārḍhyena candra-maṇḍalena dīvyati krīḍati | ṣa-kāreṇārdha-candraḥ bhāle tilaka-candraḥ, ardha-candra-catuṣṭayam iti | aṅghri-śiro’vadhi-kramāt[^10] krama-rūpeṇa viṁśaty-akṣareṇa (?) viṁśatiś candrā ucyante |
+[^१०]:
+    इत्य् अपि शिरोऽधिपः (क)
 
-kāmo gaṇḍa-dvaye snehe vilāse chavi-tṛṣṭayor iti bhāsvadiḥ | ka-kāraś candrimā candre vilāsān avasānayor iti[^11] kāma-pālaḥ | ma-kāro madhure hāsya-vikāśe[^12] chavi-tṛṣṇayor iti ṛṣabhaḥ | de iti dā dāne auṇādikatvāt e-kāraḥ dā-mā-smā-ghroḥ snāyām iti e-pratyayaḥ | deś candra-vilāse’bhre’py arhaṇe maṇḍale’pi ca iti devadyutiḥ | deś candra-maṇḍale’py āsye havir dāna-vilāsayor iti vyāghra-bhūtiḥ | va iti vana-ṣaṇa sambhaktau vana-dhātor auṇādikatvāt pañcamy antād bhāve ḍa-pratyayaḥ | va-kāro lāsya-lāvaṇye indra-yuge śaśadhare iti bhāsvadiḥ | vi-kārānta-ṣa-kāreṇa ardha-candraḥ prakīrtitaḥ, lakṣaṇānurodhāt saṁ candrārdhaṁ vaibhavaṁ ca vilāso dāruṇaṁ bhayam iti vyāḍhiḥ | 
+[^११]:
+    विलासासुकरसालयोर् इति (क)
 
-vi-śabdādi-pañcākṣareṇa dakṣiṇāvarta-krameṇa pañca candrā ucyante | tad yathā vidmahe puṣpa ity ādi | bāṇādi-pañcākṣareeṇa vāmāvartādi-krameṇa  pañca candrā ucyante | tad yathā bāṇāya dhīmahi ity ādi | tatra kaustubhasya maṇer adhastād vāma-dakṣiṇa-rūpeṇa daśākṣareṇa daśa candrā ucyante | tatra dakṣiṇādi-krameṇa hi-śabdādi-pañcākṣareṇa pañca-candrā ucyante | tad yathā—pracodayāt iti | 
+[^१२]:
+    हास्ये विकाशे (ख)
 
-vi-śabdo vividhe prājñe aṅgane[^13] ca śaśadhare iti viśvaḥ | ḍudhāñ ḍubhṛñ dhāraṇa-poṣaṇayoḥ iti dhā-dhātor auṇādiko ma-pratyayānto nipātaḥ | dhā-dhātor ma iti nipātaś ca iti dmaḥ | dma-kāro vividhe nṛtye tejo-rāśau śaśadhare iti bhāsvadiḥ | he-śabdo hetuke vijñe indau pūrṇa-rasālaye iti kāma-tantre | pu-śabdo rasanā-jyotsnā-nṛtya-candrāṅkuśāmbuje iti deva-dyutiḥ | ṣpa-kāro vikale prājñe vidhu-muktodayeṣu[^14] ca iti ratna-hāsaḥ | vā-śabdo viṣamādhāre candra-jyotsnāvavṛddhayoḥ[^15] iti vāmana-purāṇe | ṇa-kāro viṣamāviṣṭe[^16] nṛtya-candra-rasāyane iti sva-bhūtiḥ | ya-kāraś candra-bimbe ca viśālākṣe rasākare iti vyāghra-bhūtiḥ | dhī-śabdo buddhau prājñe ca vidhau candrābhivādayoḥ iti candra-gomī[^17] | ma-kāro mārute vradhne[^18] prabhākara-niśākare iti sva-bhūtiḥ | hi-śabdo hi rasāveśe hiṅgule candra-maṇḍale iti vyāghra-bhūtiḥ | no-śabdo nau striyāṁ nā vā na-kāraś candra-maṇḍale iti deva-dyūtiḥ | anaṅgo madane viśve’naṅgaś candra-vibhāvane iti candra-gomī[^19] | pra-śabdo vividhe nṛtye prakṛṣṭe candra-maṇḍale iti vyāghra-bhūtiḥ | ca-kāraś cālane candre jyotiś candre vibhāvane iti svabhūtiḥ[^20] | da-kāro vividhe nṛtye candre bimbādhare’pi ca iti bhāsvadiḥ | āsane ca vidhāyāṁ tu ya-kāraś candra ucyate[^21] iti candra-gomī | stava-stotra-vikāśeṣu ta-kāraś candra ucyate iti devadyutiḥ | 
+[^१३]:
+    हिङ्गुले (ख)
 
-iti śrī-prabodhānanda-gosvāminā viracitaḥ kāma-gāyatry-arthaḥ |[^22]
+[^१४]:
+    मुक्तादामसु (ग), मुक्ताद्दमषु (क)
 
+[^१५]:
+    बुद्धौ प्राज्ञे च चन्द्राभिवादयोर् इति गौतमिः (ग)
 
-<!-- Footnotes themselves at the bottom. -->
-## Notes
+[^१६]:
+    विषयाविष्टे (ग)
 
-[^1]:
-     ka-pustake atiriktaḥ pāṭhaḥ—pṛthivī-gandha-prakṛti-mūrtir la-kāraḥ | tejo-rūpa-mahad-ādhāra ī-kāraḥ ||
+[^१७]:
+    गौतमिः (ग)
 
-[^2]:
-     rati-kalā bhadrā saurabhā (ka)
+[^१८]:
+    बुद्धौ (ख)
 
-[^3]:
-     madonmadā candrā (ka)
+[^१९]:
+    गौतमिः (ग)
 
-[^4]:
-     nādo bindur udīritā (ka)
+[^२०]:
+    चश् चण्डेशः कच्छपश् च चन्द्र-चोरयोः इति मेदिनी (ग); सुरभिः (क)
 
-[^5]:
-     parā (ka)
+[^२१]:
+    य आसन-विधाने च य-कारश् चन्द्र-मण्डले (ख)
 
-[^6]:
-     itaḥ paraṁ ka-pustake—binduś cumbanam ucyate | āśleṣo’py ardha-candraś ca bījārthaḥ paramādbhutam | iti śrī-prabodhānanda-sarasvatī-viracitaṁ kāma-gāyatrī-vyākhyā-paṭalaṁ samāptam ||
-
-[^7]:
-     atra kha-pustake’dhikaḥ pāṭhaḥ—nitya-viṣayatvāt |
-
-[^8]:
-     puṣpam eka-ramaṇaṁ sa eva bāṇo yasya tasmai (kha)
-
-[^9]:
-     atra kha-pustake’dhikaḥ—so’naṅgaḥ |
-
-[^10]:
-     ity api śiro’dhipaḥ (ka)
-
-[^11]:
-     vilāsāsukarasālayor iti (ka)
-
-[^12]:
-     hāsye vikāśe (kha)
-
-[^13]:
-     hiṅgule (kha)
-
-[^14]:
-     muktādāmasu (ga), muktāddamaṣu (ka)
-
-[^15]:
-     buddhau prājñe ca candrābhivādayor iti gautamiḥ (ga)
-
-[^16]:
-     viṣayāviṣṭe (ga)
-
-[^17]:
-     gautamiḥ (ga)
-
-[^18]:
-     buddhau (kha)
-
-[^19]:
-     gautamiḥ (ga)
-
-[^20]:
-     caś caṇḍeśaḥ kacchapaś ca candra-corayoḥ iti medinī (ga); surabhiḥ (ka)
-
-[^21]:
-     ya āsana-vidhāne ca ya-kāraś candra-maṇḍale (kha)
-
-[^22]:
-     kāma-bījārthaḥ (ka)
+[^२२]:
+    काम-बीजार्थः (क)
