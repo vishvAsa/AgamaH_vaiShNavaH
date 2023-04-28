@@ -32,4 +32,3 @@ Finally, I wish to thank my godfather, esteemed linguist Christer Hummelstedt, w
 
 In Åbo, September 2022
 
-

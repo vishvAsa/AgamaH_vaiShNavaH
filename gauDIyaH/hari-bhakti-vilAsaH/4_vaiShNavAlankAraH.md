@@ -3,7 +3,6 @@ title = "४ वैष्णवालङ्कारः"
 
 +++
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्नात्वा श्रीकृष्णचैतन्यनामतीर्थोत्तमे सकृत् \।
@@ -14,13 +13,9 @@ title = "४ वैष्णवालङ्कारः"
 
     sva\] V1 R2 sad- : V2 R1 R3 Pa Va B3 sa-
 
-
-
 [^FNA003135]:
 
     arhati\] R3 arhasi
-
-
 
 एतादृशस्नानाद् अपि श्री[^FNA003136]भगवन्नामसेवनम्[^FNA003137] एव परमशोधनम् इत्य् अभिप्रेत्य[^FNA003138] तेन चानधिकारिणो ऽप्य् आत्मनो भगवद्धर्मलिखने योग्यतां[^FNA003139] सम्भावयन् लिखति स्नात्वेति \। श्रीकृष्णचैतन्येति नामैव तीर्थोत्तमं, तस्मिन् सकृद् अपि स्नात्वा कदाचित् तत्[^FNA003140]सेवित्वेत्य् अर्थः \। नित्याशुचिः जात्यादिना परमापवित्रो ऽपि[^FNA003141] जनः शुचिगण[^FNA003142]श्रेष्ठः सन् वक्तुम् अर्हति प्रवचनयोग्यो भवतीत्य् अर्थः \।\।१\।\।
 
@@ -28,51 +23,35 @@ title = "४ वैष्णवालङ्कारः"
 
     śrī\] V1 V2 *deest*
 
-
-
 [^FNA003137]:
 
     sevanam\] B1 -śravaṇam
-
-
 
 [^FNA003138]:
 
     abhipretya\] B1 *ins*. āha
 
-
-
 [^FNA003139]:
 
     yogyatāṃ\] B1 ayogyatāṃ
-
-
 
 [^FNA003140]:
 
     tat\] B1 *deest*
 
-
-
 [^FNA003141]:
 
     pi\] V2 *deest*
 
-
-
 [^FNA003142]:
 
     gaṇa\] V1 -gaṇaḥ : B2 -gaṇāḥ
-
-
 
 अथ[^FNA003143] स्वगृहम् आगच्छेद् आदौ नत्वेष्टदेवताम् \।
 
 [^FNA003143]:
 
     atha\] B2 ataḥ
-
-
 
 गुरून् ज्येष्ठांश् च पुष्पैधःकुशाम्भोधारकेतरान् \।\।२\।\।
 
@@ -82,13 +61,9 @@ title = "४ वैष्णवालङ्कारः"
 
     edhaḥ\] B2 evaṃ
 
-
-
 [^FNA003145]:
 
     puṣpadharaṃ\] V1 -puṣpāharaṃ
-
-
 
 तथा च[^FNA003146] नृसिंह[^FNA003147]पुराणे—
 
@@ -96,13 +71,9 @@ title = "४ वैष्णवालङ्कारः"
 
     ca\] Pa B2 *deest*
 
-
-
 [^FNA003147]:
 
     nṛsiṃha\] R3 B3 Edd śrī-
-
-
 
 जले देवं नमस्कृत्य ततो गच्छेद् गृहं पुमान् \।
 
@@ -111,8 +82,6 @@ title = "४ वैष्णवालङ्कारः"
 [^FNA003148]:
 
     viṣṇuṃ\] V1 *ins*. ca
-
-
 
 *अथ श्रीभगवन्मन्दिरसंस्कारः*
 
@@ -124,13 +93,9 @@ title = "४ वैष्णवालङ्कारः"
 
     kṛṣṇaṃ\] Va² *i.m*.
 
-
-
 [^FNA003150]:
 
     arpayet\] R1 B2 arpayan
-
-
 
 शुद्धं गोमयम् आदाय ततो मृत्स्नां जलं तथा \।
 
@@ -168,13 +133,9 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     sva\] V1 R2 sad- : V2 R1 R3 Pa Va B3 sa-
 
-
-
 [^FNA003135]:
 
     arhati\] R3 arhasi
-
-
 
 एतादृशस्नानाद् अपि श्री[^FNA003136]भगवन्नामसेवनम्[^FNA003137] एव परमशोधनम् इत्य् अभिप्रेत्य[^FNA003138] तेन चानधिकारिणो ऽप्य् आत्मनो भगवद्धर्मलिखने योग्यतां[^FNA003139] सम्भावयन् लिखति स्नात्वेति \। श्रीकृष्णचैतन्येति नामैव तीर्थोत्तमं, तस्मिन् सकृद् अपि स्नात्वा कदाचित् तत्[^FNA003140]सेवित्वेत्य् अर्थः \। नित्याशुचिः जात्यादिना परमापवित्रो ऽपि[^FNA003141] जनः शुचिगण[^FNA003142]श्रेष्ठः सन् वक्तुम् अर्हति प्रवचनयोग्यो भवतीत्य् अर्थः \।\।१\।\।
 
@@ -182,51 +143,35 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     śrī\] V1 V2 *deest*
 
-
-
 [^FNA003137]:
 
     sevanam\] B1 -śravaṇam
-
-
 
 [^FNA003138]:
 
     abhipretya\] B1 *ins*. āha
 
-
-
 [^FNA003139]:
 
     yogyatāṃ\] B1 ayogyatāṃ
-
-
 
 [^FNA003140]:
 
     tat\] B1 *deest*
 
-
-
 [^FNA003141]:
 
     pi\] V2 *deest*
 
-
-
 [^FNA003142]:
 
     gaṇa\] V1 -gaṇaḥ : B2 -gaṇāḥ
-
-
 
 अथ[^FNA003143] स्वगृहम् आगच्छेद् आदौ नत्वेष्टदेवताम् \।
 
 [^FNA003143]:
 
     atha\] B2 ataḥ
-
-
 
 गुरून् ज्येष्ठांश् च पुष्पैधःकुशाम्भोधारकेतरान् \।\।२\।\।
 
@@ -236,13 +181,9 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     edhaḥ\] B2 evaṃ
 
-
-
 [^FNA003145]:
 
     puṣpadharaṃ\] V1 -puṣpāharaṃ
-
-
 
 तथा च[^FNA003146] नृसिंह[^FNA003147]पुराणे—
 
@@ -250,13 +191,9 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     ca\] Pa B2 *deest*
 
-
-
 [^FNA003147]:
 
     nṛsiṃha\] R3 B3 Edd śrī-
-
-
 
 जले देवं नमस्कृत्य ततो गच्छेद् गृहं पुमान् \।
 
@@ -265,8 +202,6 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 [^FNA003148]:
 
     viṣṇuṃ\] V1 *ins*. ca
-
-
 
 *अथ श्रीभगवन्मन्दिरसंस्कारः*
 
@@ -278,13 +213,9 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     kṛṣṇaṃ\] Va² *i.m*.
 
-
-
 [^FNA003150]:
 
     arpayet\] R1 B2 arpayan
-
-
 
 शुद्धं गोमयम् आदाय ततो मृत्स्नां जलं तथा \।
 
@@ -313,13 +244,9 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     ca\] R2 Va *deest*
 
-
-
 [^FNA003152]:
 
     bhagavad\] B2 *ante* śrī-
-
-
 
 सम्मार्जनोपलेपाभ्यां सेकमण्डलवर्तनैः \।
 
@@ -329,15 +256,11 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     dāsavad … amāyayā\] R1 vāsanam aghadamāyayā
 
-
-
 सम्मार्जनं रजसो ऽपाकरणम् \। उपलेपः गोमयोदकादिभिर् आलेपनम् \। सेकः तैर्[^FNA003154] एव प्रोक्षणं \। मण्डलवर्तनं सर्वतोभद्रादिरचनम् \। मह्यं मम गृहशुश्रूषणम् आलयसंस्कारः \।\।७\।\।
 
 [^FNA003154]:
 
     tair\] B3 *gl*. (gomayodakādibhiḥ)
-
-
 
 *अथ तत्र[^FNA003155] सम्मार्जनमाहात्म्यम्*
 
@@ -345,15 +268,11 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     atha tatra\] R1 tatha atra
 
-
-
 नृसिंह[^FNA003156]पुराणे—
 
 [^FNA003156]:
 
     nṛsiṃha\] Edd *ante* śrī-
-
-
 
 नरसिंहगृहे नित्यं यः सम्मार्जनम् आचरेत् \।
 
@@ -363,15 +282,11 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     sa modate\] B1 mahīyate
 
-
-
 श्री[^FNA003158]विष्णुधर्मोत्तरे—
 
 [^FNA003158]:
 
     śrī\] B1 *deest*
-
-
 
 सम्मार्जनं तु यः कुर्यात् पुरुषः केशवालये \।
 
@@ -383,14 +298,11 @@ As also in the Nṛsiṃha Purāṇa (58.92cd–93ab):\[^FNB000407\]
 
     yāvatāṃ\] V2 yāvatī
 
-
-
 तावन्त्य् अब्दानि स सुखी नाकम् आसाद्य मोदते[^FNA003160] \।\।१०\।\।
 
 [^FNA003160]:
 
     śrī … modate\] R2 *om*.
-
 
 </details>
 
@@ -449,13 +361,9 @@ In the Viṣṇudharmottara Purāṇa (–):
 
     ca\] R2 Va *deest*
 
-
-
 [^FNA003152]:
 
     bhagavad\] B2 *ante* śrī-
-
-
 
 सम्मार्जनोपलेपाभ्यां सेकमण्डलवर्तनैः \।
 
@@ -465,15 +373,11 @@ In the Viṣṇudharmottara Purāṇa (–):
 
     dāsavad … amāyayā\] R1 vāsanam aghadamāyayā
 
-
-
 सम्मार्जनं रजसो ऽपाकरणम् \। उपलेपः गोमयोदकादिभिर् आलेपनम् \। सेकः तैर्[^FNA003154] एव प्रोक्षणं \। मण्डलवर्तनं सर्वतोभद्रादिरचनम् \। मह्यं मम गृहशुश्रूषणम् आलयसंस्कारः \।\।७\।\।
 
 [^FNA003154]:
 
     tair\] B3 *gl*. (gomayodakādibhiḥ)
-
-
 
 *अथ तत्र[^FNA003155] सम्मार्जनमाहात्म्यम्*
 
@@ -481,15 +385,11 @@ In the Viṣṇudharmottara Purāṇa (–):
 
     atha tatra\] R1 tatha atra
 
-
-
 नृसिंह[^FNA003156]पुराणे—
 
 [^FNA003156]:
 
     nṛsiṃha\] Edd *ante* śrī-
-
-
 
 नरसिंहगृहे नित्यं यः सम्मार्जनम् आचरेत् \।
 
@@ -499,15 +399,11 @@ In the Viṣṇudharmottara Purāṇa (–):
 
     sa modate\] B1 mahīyate
 
-
-
 श्री[^FNA003158]विष्णुधर्मोत्तरे—
 
 [^FNA003158]:
 
     śrī\] B1 *deest*
-
-
 
 सम्मार्जनं तु यः कुर्यात् पुरुषः केशवालये \।
 
@@ -519,14 +415,11 @@ In the Viṣṇudharmottara Purāṇa (–):
 
     yāvatāṃ\] V2 yāvatī
 
-
-
 तावन्त्य् अब्दानि स सुखी नाकम् आसाद्य मोदते[^FNA003160] \।\।१०\।\।
 
 [^FNA003160]:
 
     śrī … modate\] R2 *om*.
-
 
 </details>
 
@@ -540,8 +433,6 @@ In the Viṣṇudharmottara Purāṇa (–):
 
     vārāhe\] B3 *deest* : Edd śrī-
 
-
-
 तावद्वर्षसहस्राणि शाकद्वीपे महीयते \।\।११\।\।
 
 यावत्कानि प्रहाराणि नपुंसकत्वम् आर्षम् \। यावतः सम्मार्जन्या प्रहारान्, भूमेः सम्मार्जने, हे भूमीति पृथक् पदं वा[^FNA003162] \।\।११\।\।
@@ -549,8 +440,6 @@ In the Viṣṇudharmottara Purāṇa (–):
 [^FNA003162]:
 
     vā\] V2 *deest*
-
-
 
 जायते मम भक्तश् च सर्वधर्मसमन्वितः \।
 
@@ -564,27 +453,19 @@ In the Viṣṇudharmottara Purāṇa (–):
 
     sa\] R3 ca
 
-
-
 नन्दनं वनम् आश्रित्य[^FNA003164] मोदते चाप्सरैः[^FNA003165] सह[^FNA003166] \।
 
 [^FNA003164]:
 
     āśritya\] B2 āgatya
 
-
-
 [^FNA003165]:
 
     cāpsaraiḥ\] R1 vāpsaraiḥ
 
-
-
 [^FNA003166]:
 
     saha\] B3 samam
-
-
 
 नन्दनाच् च[^FNA003167] परिभ्रष्टो मम कर्मव्यवस्थितः \।
 
@@ -592,15 +473,11 @@ In the Viṣṇudharmottara Purāṇa (–):
 
     nandanāc ca\] B2 nandanādi
 
-
-
 सर्वसङ्गान् परित्यज्य मम लोकं तु[^FNA003168] गच्छति \।\।१४\।\।
 
 [^FNA003168]:
 
     tu\] B3 sa
-
-
 
 मम कर्मव्यवस्थितः मद्भक्तिनिष्ठः सन्न् इत्य् अर्थः \।\।१४\।\।
 
@@ -614,8 +491,6 @@ In the Viṣṇudharmottara Purāṇa (–):
 
     bhūmiṃ\] R2 bhūme : B3 *p.c*. bhuvi
 
-
-
 यावतस् तु पदांस् तत्र समन्ताद् उपलेपयेत् \।
 
 तावद् वर्षसहस्राणि मद्भक्तो जायते तथा \।\।१५\।\।
@@ -625,8 +500,6 @@ In the Viṣṇudharmottara Purāṇa (–):
 [^FNA003170]:
 
     padān iti\] B1 padānīti
-
-
 
 समीपे यदि वा दूरे यश् चालयति गोमयम् \।
 
@@ -666,8 +539,6 @@ In the same book:\[^FNB000415\]
 
     vārāhe\] B3 *deest* : Edd śrī-
 
-
-
 तावद्वर्षसहस्राणि शाकद्वीपे महीयते \।\।११\।\।
 
 यावत्कानि प्रहाराणि नपुंसकत्वम् आर्षम् \। यावतः सम्मार्जन्या प्रहारान्, भूमेः सम्मार्जने, हे भूमीति पृथक् पदं वा[^FNA003162] \।\।११\।\।
@@ -675,8 +546,6 @@ In the same book:\[^FNB000415\]
 [^FNA003162]:
 
     vā\] V2 *deest*
-
-
 
 जायते मम भक्तश् च सर्वधर्मसमन्वितः \।
 
@@ -690,27 +559,19 @@ In the same book:\[^FNB000415\]
 
     sa\] R3 ca
 
-
-
 नन्दनं वनम् आश्रित्य[^FNA003164] मोदते चाप्सरैः[^FNA003165] सह[^FNA003166] \।
 
 [^FNA003164]:
 
     āśritya\] B2 āgatya
 
-
-
 [^FNA003165]:
 
     cāpsaraiḥ\] R1 vāpsaraiḥ
 
-
-
 [^FNA003166]:
 
     saha\] B3 samam
-
-
 
 नन्दनाच् च[^FNA003167] परिभ्रष्टो मम कर्मव्यवस्थितः \।
 
@@ -718,15 +579,11 @@ In the same book:\[^FNB000415\]
 
     nandanāc ca\] B2 nandanādi
 
-
-
 सर्वसङ्गान् परित्यज्य मम लोकं तु[^FNA003168] गच्छति \।\।१४\।\।
 
 [^FNA003168]:
 
     tu\] B3 sa
-
-
 
 मम कर्मव्यवस्थितः मद्भक्तिनिष्ठः सन्न् इत्य् अर्थः \।\।१४\।\।
 
@@ -740,8 +597,6 @@ In the same book:\[^FNB000415\]
 
     bhūmiṃ\] R2 bhūme : B3 *p.c*. bhuvi
 
-
-
 यावतस् तु पदांस् तत्र समन्ताद् उपलेपयेत् \।
 
 तावद् वर्षसहस्राणि मद्भक्तो जायते तथा \।\।१५\।\।
@@ -751,8 +606,6 @@ In the same book:\[^FNB000415\]
 [^FNA003170]:
 
     padān iti\] B1 padānīti
-
-
 
 समीपे यदि वा दूरे यश् चालयति गोमयम् \।
 
@@ -767,8 +620,6 @@ In the same book:\[^FNB000415\]
 
     bhavati\] V2 parama-
 
-
-
 मद्भक्तश् चैव जायेत सर्वशास्त्रविशारदः \।\।१७\।\।
 
 तस्मात् स्वर्गात् परिभ्रष्टः सन् \।\।१७\।\।
@@ -779,21 +630,15 @@ In the same book:\[^FNB000415\]
 
     cālepayate\] V2 cālepayed : B2 ca lepayate
 
-
-
 [^FNA003173]:
 
     bhūmau\] R1 Pa Edd bhūmiṃ : R3 bhūme
-
-
 
 तस्य दृष्ट्वानुलेपं तु मम[^FNA003174] तुष्टिः प्रजायते \।\।१८\।\।
 
 [^FNA003174]:
 
     mama\] R1 saṃvaṃ
-
-
 
 गोश् च यस्याः पुरीषेण क्रियते भूमिलेपनम् \।
 
@@ -803,13 +648,9 @@ In the same book:\[^FNB000415\]
 
     goyonyā\] R2 goyonyāṃ
 
-
-
 [^FNA003176]:
 
     goyonyā vipramucyate\] R1 goyonyātipramucyate : R3 yogonyās tu vimucyate
-
-
 
 सा गौर् विशेषेण[^FNA003177] प्रकर्षेण च[^FNA003178] मुच्यते गोलोकं[^FNA003179] यातीत्य् अर्थः \।\।१९\।\।
 
@@ -817,27 +658,19 @@ In the same book:\[^FNB000415\]
 
     viśeṣeṇa\] V1² *i.m*.
 
-
-
 [^FNA003178]:
 
     ca\] V1² *i.m*. : B1 *deest*
 
-
-
 [^FNA003179]:
 
     golokaṃ\] V1 V2 B1 B3 *ante* śrī-
-
-
 
 स्थानोपलेपने भूमेः[^FNA003180] सलिलं यो ददाति मे \।
 
 [^FNA003180]:
 
     bhūmeḥ\] R2 Edd bhūme
-
-
 
 तस्य पुण्यं महाभागे शृणु तत्त्वेन निष्कलम् \।\।२०\।\।
 
@@ -849,8 +682,6 @@ In the same book:\[^FNB000415\]
 
     lipyamānasya\] Od *gl*. (sthānasya) : Od *ins*. he
 
-
-
 तावद् वर्षसहस्राणि स्वर्गलोके महीयते \।\।२१\।\।
 
 यावन्तो बिन्दवः केचित्[^FNA003182] पानीयस्य वसुन्धरे \।
@@ -858,8 +689,6 @@ In the same book:\[^FNB000415\]
 [^FNA003182]:
 
     kecit\] Va kiñcit
-
-
 
 तावद् वर्षसहस्राणि क्रौञ्चद्वीपे महीयते \।\।२२\।\।
 
@@ -891,8 +720,6 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     bhavati\] V2 parama-
 
-
-
 मद्भक्तश् चैव जायेत सर्वशास्त्रविशारदः \।\।१७\।\।
 
 तस्मात् स्वर्गात् परिभ्रष्टः सन् \।\।१७\।\।
@@ -903,21 +730,15 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     cālepayate\] V2 cālepayed : B2 ca lepayate
 
-
-
 [^FNA003173]:
 
     bhūmau\] R1 Pa Edd bhūmiṃ : R3 bhūme
-
-
 
 तस्य दृष्ट्वानुलेपं तु मम[^FNA003174] तुष्टिः प्रजायते \।\।१८\।\।
 
 [^FNA003174]:
 
     mama\] R1 saṃvaṃ
-
-
 
 गोश् च यस्याः पुरीषेण क्रियते भूमिलेपनम् \।
 
@@ -927,13 +748,9 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     goyonyā\] R2 goyonyāṃ
 
-
-
 [^FNA003176]:
 
     goyonyā vipramucyate\] R1 goyonyātipramucyate : R3 yogonyās tu vimucyate
-
-
 
 सा गौर् विशेषेण[^FNA003177] प्रकर्षेण च[^FNA003178] मुच्यते गोलोकं[^FNA003179] यातीत्य् अर्थः \।\।१९\।\।
 
@@ -941,27 +758,19 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     viśeṣeṇa\] V1² *i.m*.
 
-
-
 [^FNA003178]:
 
     ca\] V1² *i.m*. : B1 *deest*
 
-
-
 [^FNA003179]:
 
     golokaṃ\] V1 V2 B1 B3 *ante* śrī-
-
-
 
 स्थानोपलेपने भूमेः[^FNA003180] सलिलं यो ददाति मे \।
 
 [^FNA003180]:
 
     bhūmeḥ\] R2 Edd bhūme
-
-
 
 तस्य पुण्यं महाभागे शृणु तत्त्वेन निष्कलम् \।\।२०\।\।
 
@@ -973,8 +782,6 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     lipyamānasya\] Od *gl*. (sthānasya) : Od *ins*. he
 
-
-
 तावद् वर्षसहस्राणि स्वर्गलोके महीयते \।\।२१\।\।
 
 यावन्तो बिन्दवः केचित्[^FNA003182] पानीयस्य वसुन्धरे \।
@@ -982,8 +789,6 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 [^FNA003182]:
 
     kecit\] Va kiñcit
-
-
 
 तावद् वर्षसहस्राणि क्रौञ्चद्वीपे महीयते \।\।२२\।\।
 
@@ -1004,27 +809,19 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     śrī\] B1 B2 *deest*
 
-
-
 कृत्वोपलेपनं विष्णोर् नरस् त्व् आयतने[^FNA003185][^FNA003186] सदा \।
 
 [^FNA003184]:
 
     śrī … dharmottare\] Od *deest*
 
-
-
 [^FNA003185]:
 
     naras … āyatane\] B2 mandīras tv āyane
 
-
-
 [^FNA003186]:
 
     āyatane\] Pa ādadate
-
-
 
 गोमयेन शुभाऌ लोकान् अयत्नाद्[^FNA003187][^FNA003188] एव[^FNA003189] गच्छति[^FNA003190] \।\।२४\।\।
 
@@ -1032,25 +829,17 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     lokān ayatnād\] Pa lokād yatnād
 
-
-
 [^FNA003188]:
 
     ayatnād\] B2 prayatnād : Va² B3 Od yatnād
-
-
 
 [^FNA003189]:
 
     eva\] Pa *ins*. sa : B3 *ins*. ca
 
-
-
 [^FNA003190]:
 
     śrī … gacchati\] Va *deest* : Va² *i.m*.
-
-
 
 हस्तप्रमाणं भूभागम् उपलिप्य नराधिप[^FNA003191] \।
 
@@ -1058,33 +847,23 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     narādhipa\] B2 narādhipaḥ
 
-
-
 देवरामाशतं[^FNA003192] नाके[^FNA003193] लभते[^FNA003194] सततं नरः[^FNA003195] \।\।२५\।\।
 
 [^FNA003192]:
 
     devarāmāśataṃ\] Od *gl*. (devāṅganāśatam)
 
-
-
 [^FNA003193]:
 
     nāke\] Pa tena : Od *gl*. (svargaloke)
-
-
 
 [^FNA003194]:
 
     labhate\] B2 na labhet
 
-
-
 [^FNA003195]:
 
     śrī … naraḥ\] R2 *deest*
-
-
 
 नारसिंहे—[^FNA003196]
 
@@ -1094,8 +873,6 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     nārasiṃhe\] R3 *deest*
 
-
-
 चान्द्रायणफलं प्राप्य विष्णुलोके महीयते \।\।२६\।\।
 
 तत्रैव श्रीधर्मराजस्य[^FNA003197] दूतानुशासने—
@@ -1104,15 +881,11 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     rājasya\] R1 -rāja-
 
-
-
 सम्मार्जनं यः कुरुते गोमयेनोपलेपनम्[^FNA003198] \।
 
 [^FNA003198]:
 
     cāndrā … opalepanam\] B1 *om*.
-
-
 
 करोति भवने विष्णोस् त्याज्यं तेषां कुलत्रयम् \।\।२७\।\।
 
@@ -1122,8 +895,6 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     kulatrayaṃ\] B3 kulatrayam iti kulatrayaṃ
 
-
-
 *अथाभ्युक्षणमाहात्म्यम्*
 
 विष्णु[^FNA003200]धर्मोत्तरे—
@@ -1131,8 +902,6 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 [^FNA003200]:
 
     viṣṇu\] Edd *ante* śrī-
-
-
 
 अभ्युक्षणं तु यः कुर्यात् पानीयेन सुरालये \।
 
@@ -1142,19 +911,13 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     śāntatāpo\] Od *gl*. (sa śāntaḥ tāpo yasya)
 
-
-
 [^FNA003202]:
 
     abhyukṣaṇaṃ … vicāraṇā\] R2 *om*.
 
-
-
 [^FNA003203]:
 
     vicāraṇā\] R3 vicāraṇam
-
-
 
 अभ्युक्षणं तु यः कुर्याद् देव[^FNA003204]देवाजिरे[^FNA003205] नरः \।
 
@@ -1162,21 +925,15 @@ lidvīpa,\[^FNB000416\] he will become a virtuous king and then be born as my de
 
     deva\] R1 *om*.
 
-
-
 [^FNA003205]:
 
     devadevājire\] Od *gl*. (devadevājire aṅgane)
-
-
 
 सर्वपापविनिर्मुक्तो वारुणं लोकम् अश्नुते[^FNA003206] \।\। इति \।\।२९\।\।
 
 [^FNA003206]:
 
     vāruṇaṃ … aśnute\] Od *gl*. (varuṇalokaṃ bhunakti)
-
-
 
 देवदेवस्य अजिरे अङ्गने \।\।२९\।\।
 </details>
@@ -1214,27 +971,19 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     śrī\] B1 B2 *deest*
 
-
-
 कृत्वोपलेपनं विष्णोर् नरस् त्व् आयतने[^FNA003185][^FNA003186] सदा \।
 
 [^FNA003184]:
 
     śrī … dharmottare\] Od *deest*
 
-
-
 [^FNA003185]:
 
     naras … āyatane\] B2 mandīras tv āyane
 
-
-
 [^FNA003186]:
 
     āyatane\] Pa ādadate
-
-
 
 गोमयेन शुभाऌ लोकान् अयत्नाद्[^FNA003187][^FNA003188] एव[^FNA003189] गच्छति[^FNA003190] \।\।२४\।\।
 
@@ -1242,25 +991,17 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     lokān ayatnād\] Pa lokād yatnād
 
-
-
 [^FNA003188]:
 
     ayatnād\] B2 prayatnād : Va² B3 Od yatnād
-
-
 
 [^FNA003189]:
 
     eva\] Pa *ins*. sa : B3 *ins*. ca
 
-
-
 [^FNA003190]:
 
     śrī … gacchati\] Va *deest* : Va² *i.m*.
-
-
 
 हस्तप्रमाणं भूभागम् उपलिप्य नराधिप[^FNA003191] \।
 
@@ -1268,33 +1009,23 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     narādhipa\] B2 narādhipaḥ
 
-
-
 देवरामाशतं[^FNA003192] नाके[^FNA003193] लभते[^FNA003194] सततं नरः[^FNA003195] \।\।२५\।\।
 
 [^FNA003192]:
 
     devarāmāśataṃ\] Od *gl*. (devāṅganāśatam)
 
-
-
 [^FNA003193]:
 
     nāke\] Pa tena : Od *gl*. (svargaloke)
-
-
 
 [^FNA003194]:
 
     labhate\] B2 na labhet
 
-
-
 [^FNA003195]:
 
     śrī … naraḥ\] R2 *deest*
-
-
 
 नारसिंहे—[^FNA003196]
 
@@ -1304,8 +1035,6 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     nārasiṃhe\] R3 *deest*
 
-
-
 चान्द्रायणफलं प्राप्य विष्णुलोके महीयते \।\।२६\।\।
 
 तत्रैव श्रीधर्मराजस्य[^FNA003197] दूतानुशासने—
@@ -1314,15 +1043,11 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     rājasya\] R1 -rāja-
 
-
-
 सम्मार्जनं यः कुरुते गोमयेनोपलेपनम्[^FNA003198] \।
 
 [^FNA003198]:
 
     cāndrā … opalepanam\] B1 *om*.
-
-
 
 करोति भवने विष्णोस् त्याज्यं तेषां कुलत्रयम् \।\।२७\।\।
 
@@ -1332,8 +1057,6 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     kulatrayaṃ\] B3 kulatrayam iti kulatrayaṃ
 
-
-
 *अथाभ्युक्षणमाहात्म्यम्*
 
 विष्णु[^FNA003200]धर्मोत्तरे—
@@ -1341,8 +1064,6 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 [^FNA003200]:
 
     viṣṇu\] Edd *ante* śrī-
-
-
 
 अभ्युक्षणं तु यः कुर्यात् पानीयेन सुरालये \।
 
@@ -1352,19 +1073,13 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     śāntatāpo\] Od *gl*. (sa śāntaḥ tāpo yasya)
 
-
-
 [^FNA003202]:
 
     abhyukṣaṇaṃ … vicāraṇā\] R2 *om*.
 
-
-
 [^FNA003203]:
 
     vicāraṇā\] R3 vicāraṇam
-
-
 
 अभ्युक्षणं तु यः कुर्याद् देव[^FNA003204]देवाजिरे[^FNA003205] नरः \।
 
@@ -1372,21 +1087,15 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     deva\] R1 *om*.
 
-
-
 [^FNA003205]:
 
     devadevājire\] Od *gl*. (devadevājire aṅgane)
-
-
 
 सर्वपापविनिर्मुक्तो वारुणं लोकम् अश्नुते[^FNA003206] \।\। इति \।\।२९\।\।
 
 [^FNA003206]:
 
     vāruṇaṃ … aśnute\] Od *gl*. (varuṇalokaṃ bhunakti)
-
-
 
 देवदेवस्य अजिरे अङ्गने \।\।२९\।\।
 </details>
@@ -1399,13 +1108,9 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     padmādīny\] Va B3 Edd padmādīn
 
-
-
 [^FNA003208]:
 
     abhijñaḥ\] Od *gl*. (abhijñaṃ punaḥ punaḥ)
-
-
 
 विरचय्य विचित्राणि मण्डयेद् धरिमन्दिरम् \।\।३०\।\।
 
@@ -1417,15 +1122,11 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     śobhanam\] R1 R2 R3 Pa B2 B3 -śobhitam
 
-
-
 कुर्यात् स्थानं महाविष्णोः सोज्ज्वलाङ्गं मुदान्वितः[^FNA003210] \।\।३१\।\।
 
 [^FNA003210]:
 
     mudānvitaḥ\] B2 mudāyutam : Od mudāyutaḥ
-
-
 
 रङ्गं विविधवर्णचित्रं पद्मादि च \। यद् वा, रङ्गैर् विचित्रवर्णचूर्णैर् यत् पद्मादि तेन शोभितम् \। आदिशब्देन स्वस्तिकादि \। उज्ज्वलानि शोभनानि अङ्गानि[^FNA003211] भित्तिप्राकारादीनि तत्सहितं च कुर्यात् \। आङ्गान्य् अपि वि[^FNA003212]भूषयेद् इत्य् अर्थः \। क्रियाविशेषणं वा, तथापि स एवार्थः \।\।३१\।\।
 
@@ -1433,13 +1134,9 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     śobhanāni aṅgāni\] B2 *transp*.
 
-
-
 [^FNA003212]:
 
     vi\] V2 B1 B3 *deest*
-
-
 
 *अथ मण्डलमाहात्म्यम्*
 
@@ -1449,21 +1146,15 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     skandapurāṇe\] R2 skānde
 
-
-
 अगम्यगमने[^FNA003215] पापम् अभक्ष्यस्य च भक्षणे \।
 
 [^FNA003214]:
 
     prasaṅge\] R1 -māhātmye
 
-
-
 [^FNA003215]:
 
     agamane\] B2 -āgamane
-
-
 
 सर्वं तन् नाशम्[^FNA003216] आप्नोति मण्डयित्वा हरेर् गृहम् \।\।३२\।\।
 
@@ -1471,15 +1162,11 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     sarvaṃ … nāśam\] B2 sarvato gamam
 
-
-
 अणुमात्रं तु यः कुर्यान् मण्डलं केशवाग्रतः[^FNA003217] \।
 
 [^FNA003217]:
 
     sarvaṃ … keśavāgrataḥ\] R2 *deest*
-
-
 
 मृदा धातुविकारैश् च दिवि कल्पशतं वसेत् \।\।३३\।\।
 
@@ -1491,8 +1178,6 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     āsaptamaṃ\] B3 saptamaṃ
 
-
-
 मण्डलं कुरुते नित्यं या नारी केशवाग्रतः \।
 
 सप्तजन्मानि वैधव्यं न प्राप्नोति कदाचन[^FNA003219] \।\।३५\।\।
@@ -1500,8 +1185,6 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 [^FNA003219]:
 
     sapta … kadācana\] V1² *i.m*.
-
-
 
 मण्डलं सर्वतोभद्रादि \। केशवाग्रतो मण्डलं करोतीति शेषः \। कुरुत इति पूर्वेणैवानुषङ्गः \।\।३३–३५\।\।
 
@@ -1511,19 +1194,13 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 
     gomayaṃ\] B2 maṇḍalaṃ
 
-
-
 [^FNA003221]:
 
     maṇḍalaṃ\] B2 gomayaṃ
 
-
-
 [^FNA003222]:
 
     gṛhītvā … keśavāgrataḥ\] V1² *i.m*.
-
-
 
 भर्तुर् वियोगं नाप्नोति सन्ततेश् च धनस्य च \।\।३६\।\।
 
@@ -1534,7 +1211,6 @@ In the Viṣṇudharmottara Purāṇa (–):\[^FNB000420\]
 [^FNA003223]:
 
     devadevasya kurute\] V2 B2 B3 Edd devasya kurute yā (B3 Edd yas) tu
-
 
 </details>
 
@@ -1567,13 +1243,9 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     padmādīny\] Va B3 Edd padmādīn
 
-
-
 [^FNA003208]:
 
     abhijñaḥ\] Od *gl*. (abhijñaṃ punaḥ punaḥ)
-
-
 
 विरचय्य विचित्राणि मण्डयेद् धरिमन्दिरम् \।\।३०\।\।
 
@@ -1585,15 +1257,11 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     śobhanam\] R1 R2 R3 Pa B2 B3 -śobhitam
 
-
-
 कुर्यात् स्थानं महाविष्णोः सोज्ज्वलाङ्गं मुदान्वितः[^FNA003210] \।\।३१\।\।
 
 [^FNA003210]:
 
     mudānvitaḥ\] B2 mudāyutam : Od mudāyutaḥ
-
-
 
 रङ्गं विविधवर्णचित्रं पद्मादि च \। यद् वा, रङ्गैर् विचित्रवर्णचूर्णैर् यत् पद्मादि तेन शोभितम् \। आदिशब्देन स्वस्तिकादि \। उज्ज्वलानि शोभनानि अङ्गानि[^FNA003211] भित्तिप्राकारादीनि तत्सहितं च कुर्यात् \। आङ्गान्य् अपि वि[^FNA003212]भूषयेद् इत्य् अर्थः \। क्रियाविशेषणं वा, तथापि स एवार्थः \।\।३१\।\।
 
@@ -1601,13 +1269,9 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     śobhanāni aṅgāni\] B2 *transp*.
 
-
-
 [^FNA003212]:
 
     vi\] V2 B1 B3 *deest*
-
-
 
 *अथ मण्डलमाहात्म्यम्*
 
@@ -1617,21 +1281,15 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     skandapurāṇe\] R2 skānde
 
-
-
 अगम्यगमने[^FNA003215] पापम् अभक्ष्यस्य च भक्षणे \।
 
 [^FNA003214]:
 
     prasaṅge\] R1 -māhātmye
 
-
-
 [^FNA003215]:
 
     agamane\] B2 -āgamane
-
-
 
 सर्वं तन् नाशम्[^FNA003216] आप्नोति मण्डयित्वा हरेर् गृहम् \।\।३२\।\।
 
@@ -1639,15 +1297,11 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     sarvaṃ … nāśam\] B2 sarvato gamam
 
-
-
 अणुमात्रं तु यः कुर्यान् मण्डलं केशवाग्रतः[^FNA003217] \।
 
 [^FNA003217]:
 
     sarvaṃ … keśavāgrataḥ\] R2 *deest*
-
-
 
 मृदा धातुविकारैश् च दिवि कल्पशतं वसेत् \।\।३३\।\।
 
@@ -1659,8 +1313,6 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     āsaptamaṃ\] B3 saptamaṃ
 
-
-
 मण्डलं कुरुते नित्यं या नारी केशवाग्रतः \।
 
 सप्तजन्मानि वैधव्यं न प्राप्नोति कदाचन[^FNA003219] \।\।३५\।\।
@@ -1668,8 +1320,6 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 [^FNA003219]:
 
     sapta … kadācana\] V1² *i.m*.
-
-
 
 मण्डलं सर्वतोभद्रादि \। केशवाग्रतो मण्डलं करोतीति शेषः \। कुरुत इति पूर्वेणैवानुषङ्गः \।\।३३–३५\।\।
 
@@ -1679,19 +1329,13 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     gomayaṃ\] B2 maṇḍalaṃ
 
-
-
 [^FNA003221]:
 
     maṇḍalaṃ\] B2 gomayaṃ
 
-
-
 [^FNA003222]:
 
     gṛhītvā … keśavāgrataḥ\] V1² *i.m*.
-
-
 
 भर्तुर् वियोगं नाप्नोति सन्ततेश् च धनस्य च \।\।३६\।\।
 
@@ -1702,7 +1346,6 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 [^FNA003223]:
 
     devadevasya kurute\] V2 B2 B3 Edd devasya kurute yā (B3 Edd yas) tu
-
 
 </details>
 
@@ -1716,13 +1359,9 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     vā\] R2 Va ca
 
-
-
 [^FNA003225]:
 
     vā\] R1 Pa ca
-
-
 
 उपलेपनकृद् यस् तु नरो वैमानिको भवेत् \।\।३८\।\।
 
@@ -1736,13 +1375,9 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     ca\] Od *deest*
 
-
-
 [^FNA003227]:
 
     varṇakaiḥ\] V1 karṇakaiḥ
-
-
 
 विष्णुलोके तु[^FNA003228] तत्रस्थैः[^FNA003229] सस्पृहं वीक्ष्यते सुखी[^FNA003230] \।\।३९\।\।
 
@@ -1750,19 +1385,13 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     tu\] Edd ’tha
 
-
-
 [^FNA003229]:
 
     viṣṇuloke … tatrasthaiḥ\] Od *gl*. (viṣṇulokasthaiḥ janaiḥ)
 
-
-
 [^FNA003230]:
 
     sukhī\] B3 *a.c*. sudhīḥ
-
-
 
 *अथ स्वस्तिकलक्षणम्*
 
@@ -1776,21 +1405,15 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     mārjayet\] R2 maṇḍayet
 
-
-
 [^FNA003232]:
 
     pītā\] V2 -dvīpā-
-
-
 
 तत्र च पञ्चरात्र[^FNA003233]वचनम्—
 
 [^FNA003233]:
 
     rātra\] V1 -śatra-
-
-
 
 रजांसि पञ्चवर्णानि मण्डलार्थं हि कारयेत् \।
 
@@ -1804,58 +1427,41 @@ In connection with the month of Kārttika in the Skanda Purāṇa (–):\[^FNB00
 
     rajanīsambhavaṃ\] Od *gl*. (haridrā iti)
 
-
-
 कृष्णं[^FNA003235] दग्धैर्[^FNA003236] हरि[^FNA003237]यवैर्[^FNA003238] हरि[^FNA003239]पीतैर्[^FNA003240] विमिश्रितैः[^FNA003241] \।\।४२\।\।
 
 [^FNA003235]:
 
     kṛṣṇaṃ\] Od *gl*. (kṛṣṇavarṇam)
 
-
-
 [^FNA003236]:
 
     dagdhair\] R1 dharadhair
-
-
 
 [^FNA003237]:
 
     hari\] Edd harid-
 
-
-
 [^FNA003238]:
 
     yavair\] B1 B2 -parair
-
-
 
 [^FNA003239]:
 
     hari\] R2 R3 B1 B3 Edd harit-
 
-
-
 [^FNA003240]:
 
     haripītair\] Od *gl*. (nīlavarṇavimiśritam)
 
-
-
 [^FNA003241]:
 
     vimiśritaiḥ\] Edd vimiśritam : Od *gl*. (haridvarṇaṃ bhavati)
-
-
 
 श्वेतादिवर्णैश् चूर्णैः हरि[^FNA003242]यवैः हरिद्वर्णयवैर् दग्धैः कृष्णवर्णं स्यात्, तच् च पीतैर् विमिश्रितं हरिद्वर्णं स्याद् इत्य् अर्थः \। एवं वर्णपञ्चकम् उक्तम् \।\।४०–४२\।\।
 
 [^FNA003242]:
 
     hari\] Edd harid-
-
 
 </details>
 
@@ -1894,13 +1500,9 @@ One gets white and the other colours from powders and the blue colour from burne
 
     vā\] R2 Va ca
 
-
-
 [^FNA003225]:
 
     vā\] R1 Pa ca
-
-
 
 उपलेपनकृद् यस् तु नरो वैमानिको भवेत् \।\।३८\।\।
 
@@ -1914,13 +1516,9 @@ One gets white and the other colours from powders and the blue colour from burne
 
     ca\] Od *deest*
 
-
-
 [^FNA003227]:
 
     varṇakaiḥ\] V1 karṇakaiḥ
-
-
 
 विष्णुलोके तु[^FNA003228] तत्रस्थैः[^FNA003229] सस्पृहं वीक्ष्यते सुखी[^FNA003230] \।\।३९\।\।
 
@@ -1928,19 +1526,13 @@ One gets white and the other colours from powders and the blue colour from burne
 
     tu\] Edd ’tha
 
-
-
 [^FNA003229]:
 
     viṣṇuloke … tatrasthaiḥ\] Od *gl*. (viṣṇulokasthaiḥ janaiḥ)
 
-
-
 [^FNA003230]:
 
     sukhī\] B3 *a.c*. sudhīḥ
-
-
 
 *अथ स्वस्तिकलक्षणम्*
 
@@ -1954,21 +1546,15 @@ One gets white and the other colours from powders and the blue colour from burne
 
     mārjayet\] R2 maṇḍayet
 
-
-
 [^FNA003232]:
 
     pītā\] V2 -dvīpā-
-
-
 
 तत्र च पञ्चरात्र[^FNA003233]वचनम्—
 
 [^FNA003233]:
 
     rātra\] V1 -śatra-
-
-
 
 रजांसि पञ्चवर्णानि मण्डलार्थं हि कारयेत् \।
 
@@ -1982,58 +1568,41 @@ One gets white and the other colours from powders and the blue colour from burne
 
     rajanīsambhavaṃ\] Od *gl*. (haridrā iti)
 
-
-
 कृष्णं[^FNA003235] दग्धैर्[^FNA003236] हरि[^FNA003237]यवैर्[^FNA003238] हरि[^FNA003239]पीतैर्[^FNA003240] विमिश्रितैः[^FNA003241] \।\।४२\।\।
 
 [^FNA003235]:
 
     kṛṣṇaṃ\] Od *gl*. (kṛṣṇavarṇam)
 
-
-
 [^FNA003236]:
 
     dagdhair\] R1 dharadhair
-
-
 
 [^FNA003237]:
 
     hari\] Edd harid-
 
-
-
 [^FNA003238]:
 
     yavair\] B1 B2 -parair
-
-
 
 [^FNA003239]:
 
     hari\] R2 R3 B1 B3 Edd harit-
 
-
-
 [^FNA003240]:
 
     haripītair\] Od *gl*. (nīlavarṇavimiśritam)
 
-
-
 [^FNA003241]:
 
     vimiśritaiḥ\] Edd vimiśritam : Od *gl*. (haridvarṇaṃ bhavati)
-
-
 
 श्वेतादिवर्णैश् चूर्णैः हरि[^FNA003242]यवैः हरिद्वर्णयवैर् दग्धैः कृष्णवर्णं स्यात्, तच् च पीतैर् विमिश्रितं हरिद्वर्णं स्याद् इत्य् अर्थः \। एवं वर्णपञ्चकम् उक्तम् \।\।४०–४२\।\।
 
 [^FNA003242]:
 
     hari\] Edd harid-
-
 
 </details>
 
@@ -2045,8 +1614,6 @@ One gets white and the other colours from powders and the blue colour from burne
 
     āropaṇam\] R1 -āropaṇavidhiḥ
 
-
-
 ततो ध्वजपताकादि विन्यस्य हरिमन्दिरे \।
 
 विचित्रं भूषयेत् तच् च[^FNA003244] भगवद्भक्तिमान् नरः[^FNA003245] \।\।४३\।\।
@@ -2055,13 +1622,9 @@ One gets white and the other colours from powders and the blue colour from burne
 
     tac ca\] Pa tatra
 
-
-
 [^FNA003245]:
 
     atha … naraḥ\] Od *om*.
-
-
 
 तत् हरिमन्दिरं च विचित्रं यथा स्यात् तथा भूषयेत्[^FNA003246] \।\।४३\।\।
 
@@ -2069,15 +1632,11 @@ One gets white and the other colours from powders and the blue colour from burne
 
     bhūṣayet\] B1 *add*. ity arthaḥ
 
-
-
 *अथ[^FNA003247] ध्वजारोपणमाहात्म्यम्*
 
 [^FNA003247]:
 
     atha\] R2 anya-
-
-
 
 स्कन्दपुराणे[^FNA003248] द्वारकामाहात्म्ये[^FNA003249][^FNA003250] श्री[^FNA003251]मार्कण्डेयेन्द्रद्युम्न[^FNA003252]संवादे—
 
@@ -2085,31 +1644,21 @@ One gets white and the other colours from powders and the blue colour from burne
 
     skandapurāṇe\] R2 skānde
 
-
-
 [^FNA003249]:
 
     skanda … māhātmye\] Od *om*.
-
-
 
 [^FNA003250]:
 
     māhātmye\] R2 *ins*. ca
 
-
-
 [^FNA003251]:
 
     śrī\] B1 *deest*
 
-
-
 [^FNA003252]:
 
     dyumna\] R1 *ins*. -māhā-
-
-
 
 ध्वजम् आरोपयेद् यस् तु प्रासादोपरि भक्तितः \।
 
@@ -2123,15 +1672,11 @@ One gets white and the other colours from powders and the blue colour from burne
 
     bhavane\] V1 R2 -bhuvane
 
-
-
 सम्पूज्यते विरिञ्च्याद्यैः[^FNA003254] किम् अन्यैर् बहुभाषितैः \।\।४५\।\।
 
 [^FNA003254]:
 
     viriñcyādyaiḥ\] Od *gl*. (brahmādyaiḥ)
-
-
 
 तत्रैवाग्रे च—[^FNA003255]
 
@@ -2140,8 +1685,6 @@ One gets white and the other colours from powders and the blue colour from burne
 [^FNA003255]:
 
     tatraivāgre ca\] Od tatraiva
-
-
 
 तावन्ति पापजालानि नश्यन्त्य् एव न संशयः \।\।४६\।\।
 
@@ -2157,19 +1700,13 @@ One gets white and the other colours from powders and the blue colour from burne
 
     hy\] R2 *deest*
 
-
-
 [^FNA003257]:
 
     hy upa\] Edd mahā-
 
-
-
 [^FNA003258]:
 
     iti\] B1 B2 *deest*
-
-
 
 एवं[^FNA003259] बृहन्नारदीये ख्यातं यच् चान्यद् अद्भुतम् \।
 
@@ -2177,14 +1714,11 @@ One gets white and the other colours from powders and the blue colour from burne
 
     evaṃ\] B1 B2 dhvajaṃ
 
-
-
 ध्वजारोपणमाहात्म्यं तद् द्रष्टव्यम् इहाखिलम्[^FNA003260] \।\।४९\।\।
 
 [^FNA003260]:
 
     ihākhilam\] B2 Od mahāphalam
-
 
 </details>
 
@@ -2221,8 +1755,6 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     āropaṇam\] R1 -āropaṇavidhiḥ
 
-
-
 ततो ध्वजपताकादि विन्यस्य हरिमन्दिरे \।
 
 विचित्रं भूषयेत् तच् च[^FNA003244] भगवद्भक्तिमान् नरः[^FNA003245] \।\।४३\।\।
@@ -2231,13 +1763,9 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     tac ca\] Pa tatra
 
-
-
 [^FNA003245]:
 
     atha … naraḥ\] Od *om*.
-
-
 
 तत् हरिमन्दिरं च विचित्रं यथा स्यात् तथा भूषयेत्[^FNA003246] \।\।४३\।\।
 
@@ -2245,15 +1773,11 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     bhūṣayet\] B1 *add*. ity arthaḥ
 
-
-
 *अथ[^FNA003247] ध्वजारोपणमाहात्म्यम्*
 
 [^FNA003247]:
 
     atha\] R2 anya-
-
-
 
 स्कन्दपुराणे[^FNA003248] द्वारकामाहात्म्ये[^FNA003249][^FNA003250] श्री[^FNA003251]मार्कण्डेयेन्द्रद्युम्न[^FNA003252]संवादे—
 
@@ -2261,31 +1785,21 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     skandapurāṇe\] R2 skānde
 
-
-
 [^FNA003249]:
 
     skanda … māhātmye\] Od *om*.
-
-
 
 [^FNA003250]:
 
     māhātmye\] R2 *ins*. ca
 
-
-
 [^FNA003251]:
 
     śrī\] B1 *deest*
 
-
-
 [^FNA003252]:
 
     dyumna\] R1 *ins*. -māhā-
-
-
 
 ध्वजम् आरोपयेद् यस् तु प्रासादोपरि भक्तितः \।
 
@@ -2299,15 +1813,11 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     bhavane\] V1 R2 -bhuvane
 
-
-
 सम्पूज्यते विरिञ्च्याद्यैः[^FNA003254] किम् अन्यैर् बहुभाषितैः \।\।४५\।\।
 
 [^FNA003254]:
 
     viriñcyādyaiḥ\] Od *gl*. (brahmādyaiḥ)
-
-
 
 तत्रैवाग्रे च—[^FNA003255]
 
@@ -2316,8 +1826,6 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 [^FNA003255]:
 
     tatraivāgre ca\] Od tatraiva
-
-
 
 तावन्ति पापजालानि नश्यन्त्य् एव न संशयः \।\।४६\।\।
 
@@ -2333,19 +1841,13 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     hy\] R2 *deest*
 
-
-
 [^FNA003257]:
 
     hy upa\] Edd mahā-
 
-
-
 [^FNA003258]:
 
     iti\] B1 B2 *deest*
-
-
 
 एवं[^FNA003259] बृहन्नारदीये ख्यातं यच् चान्यद् अद्भुतम् \।
 
@@ -2353,14 +1855,11 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     evaṃ\] B1 B2 dhvajaṃ
 
-
-
 ध्वजारोपणमाहात्म्यं तद् द्रष्टव्यम् इहाखिलम्[^FNA003260] \।\।४९\।\।
 
 [^FNA003260]:
 
     ihākhilam\] B2 Od mahāphalam
-
 
 </details>
 
@@ -2376,13 +1875,9 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     yaḥ kurute\] R2 prakurute
 
-
-
 [^FNA003262]:
 
     ca śobhitam\] B1 *a.c*. alaṅkṛtam
-
-
 
 सदैव तस्य लोके तु वासस्[^FNA003263] तस्य न चान्यतः[^FNA003264] \।\।५०\।\।
 
@@ -2390,13 +1885,9 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     tasya … vāsas\] Od *gl*. (kṛṣṇasya loke vāsaḥ syāt)
 
-
-
 [^FNA003264]:
 
     cānyataḥ\] R1 vānyataḥ
-
-
 
 विष्णुधर्मोत्तरे—
 
@@ -2408,21 +1899,15 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     dvijaḥ\] B1 B3 Od dvijāḥ
 
-
-
 दोधूयते यथा[^FNA003266] सा तु[^FNA003267] वायुना केशवालये \।
 
 [^FNA003266]:
 
     yathā\] R1 tathā
 
-
-
 [^FNA003267]:
 
     tu\] V1² *i.m*.
-
-
 
 तथा तस्यापि सकलं देहात् पापं विधूयते \।\।५२\।\।
 
@@ -2432,13 +1917,9 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     vandana\] R1 candana-
 
-
-
 [^FNA003269]:
 
     kadalīstambhā\] Od -rambhā-
-
-
 
 द्वारकामाहात्म्ये तत्रैव—
 
@@ -2448,13 +1929,9 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     vandana\] R1 candana-
 
-
-
 [^FNA003271]:
 
     veśmani\] R1 R2 R3 Pa Od -sadmani
-
-
 
 देवकन्यावृतैर्[^FNA003272] लक्षैः सेव्यते सुरनायकैः[^FNA003273] \।\।५३\।\।
 
@@ -2462,13 +1939,9 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     vṛtair\] Od -yutair
 
-
-
 [^FNA003273]:
 
     suranāyakaiḥ\] Od *gl*. (suraḥśreṣthaiḥ)
-
-
 
 यः कुर्यात् कृष्णभवनं[^FNA003274] कदलीस्तम्भशोभितम् \।
 
@@ -2476,21 +1949,15 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     bhavanaṃ\] R1 -bhuvanaṃ
 
-
-
 नन्दते चाप्सरो[^FNA003275]युक्तः स्वागतं तस्य देवराट्[^FNA003276] \।\।५४\।\।
 
 [^FNA003275]:
 
     cāpsaro\] V1 Va vāpsaro- : R1 vātmano
 
-
-
 [^FNA003276]:
 
     devarāṭ\] Od *gl*. (indraḥ)
-
-
 
 ध्वजपताकादिविन्यसेद् इत्यादिशब्देन गृहीतस्य वन्दनमालादेर् अपि विन्यासमाहात्म्यं लिखति भूपेति द्वाभ्याम् \। तस्य स्वागतं यथा स्यात् तथा नन्दते तम्[^FNA003277] अभिनन्दति हृष्टो भवतीति वा[^FNA003278] \। यद् वा, तस्य शुभागमनम् अभिनन्दति[^FNA003279] \। वन्दत[^FNA003280] इति वा पाठः \।\।५३–५४\।\।
 
@@ -2498,25 +1965,17 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     tam\] V2 *deest*
 
-
-
 [^FNA003278]:
 
     vā\] B2 B3 *deest*
-
-
 
 [^FNA003279]:
 
     hṛṣṭo … abhinandati\] B1 *om*.
 
-
-
 [^FNA003280]:
 
     vandata\] V1 vindata
-
-
 
 *अथ पीठ[^FNA003281]पात्रवस्त्रादि[^FNA003282]संस्कारः*
 
@@ -2524,13 +1983,9 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     pīṭha\] V1 V2 Va *deest*
 
-
-
 [^FNA003282]:
 
     vastrādi\] R2 -vastrādika-
-
-
 
 तत्र ताम्रादिपात्रं यत् प्रभोर् वस्त्रादिकं च यत् \।
 
@@ -2540,12 +1995,9 @@ And also later in the same book (18.46–47, 49):\[^FNB000428\]
 
     yat\] B3 Edd tat
 
-
-
 [^FNA003284]:
 
     yathoktavidhi śodhayet\] V2 Edd yathoktaṃ ca viśodhayet
-
 
 </details>
 
@@ -2586,13 +2038,9 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     yaḥ kurute\] R2 prakurute
 
-
-
 [^FNA003262]:
 
     ca śobhitam\] B1 *a.c*. alaṅkṛtam
-
-
 
 सदैव तस्य लोके तु वासस्[^FNA003263] तस्य न चान्यतः[^FNA003264] \।\।५०\।\।
 
@@ -2600,13 +2048,9 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     tasya … vāsas\] Od *gl*. (kṛṣṇasya loke vāsaḥ syāt)
 
-
-
 [^FNA003264]:
 
     cānyataḥ\] R1 vānyataḥ
-
-
 
 विष्णुधर्मोत्तरे—
 
@@ -2618,21 +2062,15 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     dvijaḥ\] B1 B3 Od dvijāḥ
 
-
-
 दोधूयते यथा[^FNA003266] सा तु[^FNA003267] वायुना केशवालये \।
 
 [^FNA003266]:
 
     yathā\] R1 tathā
 
-
-
 [^FNA003267]:
 
     tu\] V1² *i.m*.
-
-
 
 तथा तस्यापि सकलं देहात् पापं विधूयते \।\।५२\।\।
 
@@ -2642,13 +2080,9 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     vandana\] R1 candana-
 
-
-
 [^FNA003269]:
 
     kadalīstambhā\] Od -rambhā-
-
-
 
 द्वारकामाहात्म्ये तत्रैव—
 
@@ -2658,13 +2092,9 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     vandana\] R1 candana-
 
-
-
 [^FNA003271]:
 
     veśmani\] R1 R2 R3 Pa Od -sadmani
-
-
 
 देवकन्यावृतैर्[^FNA003272] लक्षैः सेव्यते सुरनायकैः[^FNA003273] \।\।५३\।\।
 
@@ -2672,13 +2102,9 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     vṛtair\] Od -yutair
 
-
-
 [^FNA003273]:
 
     suranāyakaiḥ\] Od *gl*. (suraḥśreṣthaiḥ)
-
-
 
 यः कुर्यात् कृष्णभवनं[^FNA003274] कदलीस्तम्भशोभितम् \।
 
@@ -2686,21 +2112,15 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     bhavanaṃ\] R1 -bhuvanaṃ
 
-
-
 नन्दते चाप्सरो[^FNA003275]युक्तः स्वागतं तस्य देवराट्[^FNA003276] \।\।५४\।\।
 
 [^FNA003275]:
 
     cāpsaro\] V1 Va vāpsaro- : R1 vātmano
 
-
-
 [^FNA003276]:
 
     devarāṭ\] Od *gl*. (indraḥ)
-
-
 
 ध्वजपताकादिविन्यसेद् इत्यादिशब्देन गृहीतस्य वन्दनमालादेर् अपि विन्यासमाहात्म्यं लिखति भूपेति द्वाभ्याम् \। तस्य स्वागतं यथा स्यात् तथा नन्दते तम्[^FNA003277] अभिनन्दति हृष्टो भवतीति वा[^FNA003278] \। यद् वा, तस्य शुभागमनम् अभिनन्दति[^FNA003279] \। वन्दत[^FNA003280] इति वा पाठः \।\।५३–५४\।\।
 
@@ -2708,25 +2128,17 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     tam\] V2 *deest*
 
-
-
 [^FNA003278]:
 
     vā\] B2 B3 *deest*
-
-
 
 [^FNA003279]:
 
     hṛṣṭo … abhinandati\] B1 *om*.
 
-
-
 [^FNA003280]:
 
     vandata\] V1 vindata
-
-
 
 *अथ पीठ[^FNA003281]पात्रवस्त्रादि[^FNA003282]संस्कारः*
 
@@ -2734,13 +2146,9 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     pīṭha\] V1 V2 Va *deest*
 
-
-
 [^FNA003282]:
 
     vastrādi\] R2 -vastrādika-
-
-
 
 तत्र ताम्रादिपात्रं यत् प्रभोर् वस्त्रादिकं च यत् \।
 
@@ -2750,12 +2158,9 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     yat\] B3 Edd tat
 
-
-
 [^FNA003284]:
 
     yathoktavidhi śodhayet\] V2 Edd yathoktaṃ ca viśodhayet
-
 
 </details>
 
@@ -2767,8 +2172,6 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     pīṭhasya\] Edd *add*. saṃskāraḥ
 
-
-
 नारसिंहे—
 
 पादपीठं च[^FNA003286] कृष्णस्य बिल्वपत्रेण धर्षयेत्[^FNA003287] \।
@@ -2777,13 +2180,9 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     ca\] R2 Od tu
 
-
-
 [^FNA003287]:
 
     dharṣayet\] R1 varṣayet : B3 gharṣayet
-
-
 
 उष्णाम्बुना च प्रक्षाल्य सर्वपापैः प्रमुच्यते \।\।५६\।\।
 
@@ -2793,13 +2192,9 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     taijasādi\] B2 *ins*. -pāna-
 
-
-
 [^FNA003289]:
 
     pātrāṇām\] B1 *add*. śuddhiḥ : Edd *add*. saṃskāraḥ
-
-
 
 मार्कण्डेयपुराणे—
 
@@ -2809,27 +2204,19 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     uḍumbarāṇām\] Od *gl*. (tāmrapātrāṇām)
 
-
-
 भस्माम्बुभिश् च कांस्यानां शुद्धिः[^FNA003291] प्लावो[^FNA003292] द्रवस्य[^FNA003293] च \।\।५७\।\।
 
 [^FNA003291]:
 
     śuddhiḥ\] R1 śuciḥ : Od śūktiḥ
 
-
-
 [^FNA003292]:
 
     plāvo\] Pa plāvā
 
-
-
 [^FNA003293]:
 
     dravasya\] Od travasya
-
-
 
 उक्तविधिं[^FNA003294] लिखति उडुम्बराणाम् इत्यादिना शुचिताम् इयाद् इत्य् अन्तेन \। उडुम्बराणां ताम्राणां तन्मयपात्राणाम् इत्य् अर्थः \। त्रपुर् अङ्गं भस्मयुक्तैर् अम्बुभिः \। द्रवस्य गोरसादेः प्लावः प्लावनम्[^FNA003295] \। तथा चोक्तं वशिष्ठेन द्रवाणां प्लावनेनैव इति[^FNA003296] \। तद्[^FNA003297]विशेषो ऽग्रे व्यक्तो भावी \।\।५७\।\।
 
@@ -2837,25 +2224,17 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     vidhiṃ\] B1 B3 *ins*. eva
 
-
-
 [^FNA003295]:
 
     plāvanam\] B2 plāvam
-
-
 
 [^FNA003296]:
 
     iti\] B1 *add*. ādi
 
-
-
 [^FNA003297]:
 
     tad\] B1 *deest*
-
-
 
 वायुपुराणे—[^FNA003298]
 
@@ -2865,19 +2244,13 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     vāyupurāṇe\] V2 *deest* : Edd *add*. ca
 
-
-
 [^FNA003299]:
 
     maṇivajrapravālānāṃ\] Od *gl*. (hiyā iti)
 
-
-
 [^FNA003300]:
 
     muktāśaṅkhopalasya\] Od *gl*. (pākhara iti)
-
-
 
 सिद्धार्थकानां कल्केन तिलकल्केन वा पुनः[^FNA003301] \।\।५८\।\।
 
@@ -2885,21 +2258,15 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     vā punaḥ\] R1 vāyunā
 
-
-
 मुक्तायाः शङ्खस्य उपलस्य च पाषाणस्य[^FNA003302] द्वन्द्वैक्यम् \। सिद्धार्थकानां सर्षपाणाम्,[^FNA003303] शुद्धिर् इति शेषः प्रकरणबलात् \।\।५८\।\।
 
 [^FNA003302]:
 
     pāṣāṇasya\] B2 *ins*. ca
 
-
-
 [^FNA003303]:
 
     sarṣapāṇām\] B2 *deest*
-
-
 
 ब्राह्मे—[^FNA003304]
 
@@ -2909,20 +2276,15 @@ Above (4.43) the author wrote that one should offer flags, banners and so on. In
 
     brāhme\] R1 brahma : Pa pādme : B1 *deest* : B2 brāhmye
 
-
-
 [^FNA003305]:
 
     śukti\] B3 *a.c*. -śuddhi-
-
-
 
 कांस्यायस्ताम्ररैत्यानि त्रपुसी[^FNA003306]समयानि च \।\।५९\।\।
 
 [^FNA003306]:
 
     trapusī\] Od *gl*. (raddi iti)
-
 
 </details>
 
@@ -2961,8 +2323,6 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     pīṭhasya\] Edd *add*. saṃskāraḥ
 
-
-
 नारसिंहे—
 
 पादपीठं च[^FNA003286] कृष्णस्य बिल्वपत्रेण धर्षयेत्[^FNA003287] \।
@@ -2971,13 +2331,9 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     ca\] R2 Od tu
 
-
-
 [^FNA003287]:
 
     dharṣayet\] R1 varṣayet : B3 gharṣayet
-
-
 
 उष्णाम्बुना च प्रक्षाल्य सर्वपापैः प्रमुच्यते \।\।५६\।\।
 
@@ -2987,13 +2343,9 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     taijasādi\] B2 *ins*. -pāna-
 
-
-
 [^FNA003289]:
 
     pātrāṇām\] B1 *add*. śuddhiḥ : Edd *add*. saṃskāraḥ
-
-
 
 मार्कण्डेयपुराणे—
 
@@ -3003,27 +2355,19 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     uḍumbarāṇām\] Od *gl*. (tāmrapātrāṇām)
 
-
-
 भस्माम्बुभिश् च कांस्यानां शुद्धिः[^FNA003291] प्लावो[^FNA003292] द्रवस्य[^FNA003293] च \।\।५७\।\।
 
 [^FNA003291]:
 
     śuddhiḥ\] R1 śuciḥ : Od śūktiḥ
 
-
-
 [^FNA003292]:
 
     plāvo\] Pa plāvā
 
-
-
 [^FNA003293]:
 
     dravasya\] Od travasya
-
-
 
 उक्तविधिं[^FNA003294] लिखति उडुम्बराणाम् इत्यादिना शुचिताम् इयाद् इत्य् अन्तेन \। उडुम्बराणां ताम्राणां तन्मयपात्राणाम् इत्य् अर्थः \। त्रपुर् अङ्गं भस्मयुक्तैर् अम्बुभिः \। द्रवस्य गोरसादेः प्लावः प्लावनम्[^FNA003295] \। तथा चोक्तं वशिष्ठेन द्रवाणां प्लावनेनैव इति[^FNA003296] \। तद्[^FNA003297]विशेषो ऽग्रे व्यक्तो भावी \।\।५७\।\।
 
@@ -3031,25 +2375,17 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     vidhiṃ\] B1 B3 *ins*. eva
 
-
-
 [^FNA003295]:
 
     plāvanam\] B2 plāvam
-
-
 
 [^FNA003296]:
 
     iti\] B1 *add*. ādi
 
-
-
 [^FNA003297]:
 
     tad\] B1 *deest*
-
-
 
 वायुपुराणे—[^FNA003298]
 
@@ -3059,19 +2395,13 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     vāyupurāṇe\] V2 *deest* : Edd *add*. ca
 
-
-
 [^FNA003299]:
 
     maṇivajrapravālānāṃ\] Od *gl*. (hiyā iti)
 
-
-
 [^FNA003300]:
 
     muktāśaṅkhopalasya\] Od *gl*. (pākhara iti)
-
-
 
 सिद्धार्थकानां कल्केन तिलकल्केन वा पुनः[^FNA003301] \।\।५८\।\।
 
@@ -3079,21 +2409,15 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     vā punaḥ\] R1 vāyunā
 
-
-
 मुक्तायाः शङ्खस्य उपलस्य च पाषाणस्य[^FNA003302] द्वन्द्वैक्यम् \। सिद्धार्थकानां सर्षपाणाम्,[^FNA003303] शुद्धिर् इति शेषः प्रकरणबलात् \।\।५८\।\।
 
 [^FNA003302]:
 
     pāṣāṇasya\] B2 *ins*. ca
 
-
-
 [^FNA003303]:
 
     sarṣapāṇām\] B2 *deest*
-
-
 
 ब्राह्मे—[^FNA003304]
 
@@ -3103,20 +2427,15 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     brāhme\] R1 brahma : Pa pādme : B1 *deest* : B2 brāhmye
 
-
-
 [^FNA003305]:
 
     śukti\] B3 *a.c*. -śuddhi-
-
-
 
 कांस्यायस्ताम्ररैत्यानि त्रपुसी[^FNA003306]समयानि च \।\।५९\।\।
 
 [^FNA003306]:
 
     trapusī\] Od *gl*. (raddi iti)
-
 
 </details>
 
@@ -3128,29 +2447,21 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     tu\] B1 ca
 
-
-
 शूद्रोच्छिष्टानि शोध्यानि[^FNA003308] त्रिधा[^FNA003309] क्षाराम्लवारिभिः \।\। इति \।\।६०\।\।
 
 [^FNA003308]:
 
     śodhyāni\] B2 suśodhyā : Od śudhyanti
 
-
-
 [^FNA003309]:
 
     tridhā\] Pa vividhā
-
-
 
 रत्नमयानि स्फटिकादिघटितानि पात्राणीति शेषः \। रैत्यानि पित्तलरचितानि \। निर्लेपाण्य् अन्नादिलेपरहितानि \। शूद्रोच्छिष्टानि शूद्रोच्छिष्ट[^FNA003310]स्पृष्टानीत्य् अर्थः \। यद्य् अपि श्रीभगवत्पात्रेषु शूद्रोछिष्टस्पर्शो ऽपि न सम्भवेत्, तथापि कथञ्चिद् भ्रमप्रमादतः स्याद् इति तच्छुद्धिर् उक्ता \। एवम् अग्रे ऽपि सर्वत्रोह्यम् \। त्रिधा वारत्रयम् इत्य् अर्थः \। क्षारो भस्म \।\।५९–६०\।\।
 
 [^FNA003310]:
 
     śūdrocchiṣṭa\] B3 śūdrocchiṣṭāni
-
-
 
 अतिदुष्टं तु पात्रादि विशोध्य हरये पुनः \।
 
@@ -3160,27 +2471,19 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     atiduṣṭaṃ … niḥkṣipet\] R3 Va B2 Od Edd *deest*
 
-
-
 अतिदुष्टं तु पात्रादि[^FNA003312][^FNA003313] विशोध्यातिथ्यकर्मणे[^FNA003314] \।
 
 [^FNA003312]:
 
     viśodhya … pātrādi\] B1 *om*.
 
-
-
 [^FNA003313]:
 
     pātrādi\] B3 *a.c*. pātrāni
 
-
-
 [^FNA003314]:
 
     karmaṇe\] B2 Od -karmaṇā
-
-
 
 युञ्ज्यात् तत्परिवर्ताय प्रभुकर्मान्तराय वा[^FNA003315] \।\।६२\।\।
 
@@ -3188,15 +2491,11 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     atiduṣṭaṃ … vā\] R1 R2 Pa *deest*
 
-
-
 एतस्य[^FNA003316] परिवर्तेन प्रभवे ऽन्यत् समर्पयेत् \।
 
 [^FNA003316]:
 
     etasya\] Od *gl*. (etasya duṣṭasya pātrasya)
-
-
 
 इत्य् अयं सर्वतो लोके सदाचारो विराजते \।\।६३\।\।
 
@@ -3208,8 +2507,6 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     ca\] R1 vā
 
-
-
 शौचं यथार्हं कर्तव्यं क्षाराम्लोदकवारिभिः \।\।६४\।\।
 
 यथार्हं मलापगमा[^FNA003318]नुसारेणेत्य् अर्थः \। अम्लोदकं जम्बीरादिरसः \। तत्राम्लोदकेन ताम्रस्य \। क्षारेणेतरेषां वारिणा तु तत्तत्समुदितेनो[^FNA003319]भयेषाम् एवेति ज्ञेयम् \। यथार्हम् इत्य् उक्तेः \।\।६४\।\।
@@ -3218,13 +2515,9 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     malāpagamā\] B3 malāpaṇayanā-
 
-
-
 [^FNA003319]:
 
     samuditeno\] B1 -samaciteno- : B3 -samucciteno-
-
-
 
 शङ्खः—
 
@@ -3234,13 +2527,9 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     sīsasya trapuṇas\] Od trapuṣīṣasya vai
 
-
-
 [^FNA003321]:
 
     trapuṇas\] R1 tripuṇas
-
-
 
 क्षारेण शुद्धिं[^FNA003322] कांस्यस्य लौहस्य[^FNA003323] च विनिर्दिशेत्[^FNA003324] \।\।६५\।\।
 
@@ -3248,18 +2537,13 @@ In the Brahma Purāṇa (–):\[^FNB000432\]
 
     śuddhiṃ\] V2 śuddhiḥ
 
-
-
 [^FNA003323]:
 
     lauhasya\] R1 Pa lohasya
 
-
-
 [^FNA003324]:
 
     kṣāreṇa … vinirdiśet\] R2 *deest* : R2² *i.m*.
-
 
 </details>
 
@@ -3290,29 +2574,21 @@ Manu (5.114):\[^FNB000434\]
 
     tu\] B1 ca
 
-
-
 शूद्रोच्छिष्टानि शोध्यानि[^FNA003308] त्रिधा[^FNA003309] क्षाराम्लवारिभिः \।\। इति \।\।६०\।\।
 
 [^FNA003308]:
 
     śodhyāni\] B2 suśodhyā : Od śudhyanti
 
-
-
 [^FNA003309]:
 
     tridhā\] Pa vividhā
-
-
 
 रत्नमयानि स्फटिकादिघटितानि पात्राणीति शेषः \। रैत्यानि पित्तलरचितानि \। निर्लेपाण्य् अन्नादिलेपरहितानि \। शूद्रोच्छिष्टानि शूद्रोच्छिष्ट[^FNA003310]स्पृष्टानीत्य् अर्थः \। यद्य् अपि श्रीभगवत्पात्रेषु शूद्रोछिष्टस्पर्शो ऽपि न सम्भवेत्, तथापि कथञ्चिद् भ्रमप्रमादतः स्याद् इति तच्छुद्धिर् उक्ता \। एवम् अग्रे ऽपि सर्वत्रोह्यम् \। त्रिधा वारत्रयम् इत्य् अर्थः \। क्षारो भस्म \।\।५९–६०\।\।
 
 [^FNA003310]:
 
     śūdrocchiṣṭa\] B3 śūdrocchiṣṭāni
-
-
 
 अतिदुष्टं तु पात्रादि विशोध्य हरये पुनः \।
 
@@ -3322,27 +2598,19 @@ Manu (5.114):\[^FNB000434\]
 
     atiduṣṭaṃ … niḥkṣipet\] R3 Va B2 Od Edd *deest*
 
-
-
 अतिदुष्टं तु पात्रादि[^FNA003312][^FNA003313] विशोध्यातिथ्यकर्मणे[^FNA003314] \।
 
 [^FNA003312]:
 
     viśodhya … pātrādi\] B1 *om*.
 
-
-
 [^FNA003313]:
 
     pātrādi\] B3 *a.c*. pātrāni
 
-
-
 [^FNA003314]:
 
     karmaṇe\] B2 Od -karmaṇā
-
-
 
 युञ्ज्यात् तत्परिवर्ताय प्रभुकर्मान्तराय वा[^FNA003315] \।\।६२\।\।
 
@@ -3350,15 +2618,11 @@ Manu (5.114):\[^FNB000434\]
 
     atiduṣṭaṃ … vā\] R1 R2 Pa *deest*
 
-
-
 एतस्य[^FNA003316] परिवर्तेन प्रभवे ऽन्यत् समर्पयेत् \।
 
 [^FNA003316]:
 
     etasya\] Od *gl*. (etasya duṣṭasya pātrasya)
-
-
 
 इत्य् अयं सर्वतो लोके सदाचारो विराजते \।\।६३\।\।
 
@@ -3370,8 +2634,6 @@ Manu (5.114):\[^FNB000434\]
 
     ca\] R1 vā
 
-
-
 शौचं यथार्हं कर्तव्यं क्षाराम्लोदकवारिभिः \।\।६४\।\।
 
 यथार्हं मलापगमा[^FNA003318]नुसारेणेत्य् अर्थः \। अम्लोदकं जम्बीरादिरसः \। तत्राम्लोदकेन ताम्रस्य \। क्षारेणेतरेषां वारिणा तु तत्तत्समुदितेनो[^FNA003319]भयेषाम् एवेति ज्ञेयम् \। यथार्हम् इत्य् उक्तेः \।\।६४\।\।
@@ -3380,13 +2642,9 @@ Manu (5.114):\[^FNB000434\]
 
     malāpagamā\] B3 malāpaṇayanā-
 
-
-
 [^FNA003319]:
 
     samuditeno\] B1 -samaciteno- : B3 -samucciteno-
-
-
 
 शङ्खः—
 
@@ -3396,13 +2654,9 @@ Manu (5.114):\[^FNB000434\]
 
     sīsasya trapuṇas\] Od trapuṣīṣasya vai
 
-
-
 [^FNA003321]:
 
     trapuṇas\] R1 tripuṇas
-
-
 
 क्षारेण शुद्धिं[^FNA003322] कांस्यस्य लौहस्य[^FNA003323] च विनिर्दिशेत्[^FNA003324] \।\।६५\।\।
 
@@ -3410,18 +2664,13 @@ Manu (5.114):\[^FNB000434\]
 
     śuddhiṃ\] V2 śuddhiḥ
 
-
-
 [^FNA003323]:
 
     lauhasya\] R1 Pa lohasya
 
-
-
 [^FNA003324]:
 
     kṣāreṇa … vinirdiśet\] R2 *deest* : R2² *i.m*.
-
 
 </details>
 
@@ -3437,21 +2686,15 @@ Manu (5.114):\[^FNB000434\]
 
     kiṃ … ca\] R2 *deest* : R2² *i.m*.
 
-
-
 त्रिःसप्तमार्जनाच् छुद्धिर् न तु[^FNA003326] कांस्यस्य तापनम्[^FNA003327] \।\।६६\।\।
 
 [^FNA003326]:
 
     tu\] Od ca
 
-
-
 [^FNA003327]:
 
     tāpanam\] R2 lājane
-
-
 
 एतच्[^FNA003328] च सर्वं स्वल्पोपहतिविषयकम् \। अत्यन्तोपहतौ शुद्धिं लिखति सूतिकेति त्रिभिः \। सूतिका नवप्रसूता अजातशौचा \। यद् वा, प्रसवकारयित्री, तदुच्छिष्टस्य तदुच्छिष्टस्पृष्टस्य, तया वा यत्र भुक्तं तस्य भाण्डस्य तैजसपात्रस्य, तत्प्रकरणात् \। आदिशब्दात् शोणितादि \। त्रिःसप्त एकविंशतिवारान् मार्जनाद् इत्य् अर्थः \। केचिद् आहुः सप्तभिर्[^FNA003329] यवगोधूमकलायामाषादिचूर्णैः प्रत्येकं त्रिर् मार्जनाच् छुद्धिर् इति \। कांस्यपात्रस्य तु न तथा शुद्धिः \। किं तु तस्य तापनं दहनम् एव \। भाजन इति पाठः सुगमः \।\।६६\।\।
 
@@ -3459,13 +2702,9 @@ Manu (5.114):\[^FNB000434\]
 
     etac\] B2 tataś
 
-
-
 [^FNA003329]:
 
     saptabhir\] V1 V2 *deest*
-
-
 
 अन्यत्र च—
 
@@ -3481,14 +2720,11 @@ Manu (5.114):\[^FNB000434\]
 
     brāhme\] V2 Va *deest*
 
-
-
 प्रक्षेप्तव्यानि[^FNA003331] तान्य् अग्नौ यच् च यावत् सहेद् अपि \।\।६८\।\।
 
 [^FNA003331]:
 
     prakṣeptavyāni\] B2 prakṣiptavyāni : Od prakṣiptāni ca
-
 
 </details>
 
@@ -3523,21 +2759,15 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     kiṃ … ca\] R2 *deest* : R2² *i.m*.
 
-
-
 त्रिःसप्तमार्जनाच् छुद्धिर् न तु[^FNA003326] कांस्यस्य तापनम्[^FNA003327] \।\।६६\।\।
 
 [^FNA003326]:
 
     tu\] Od ca
 
-
-
 [^FNA003327]:
 
     tāpanam\] R2 lājane
-
-
 
 एतच्[^FNA003328] च सर्वं स्वल्पोपहतिविषयकम् \। अत्यन्तोपहतौ शुद्धिं लिखति सूतिकेति त्रिभिः \। सूतिका नवप्रसूता अजातशौचा \। यद् वा, प्रसवकारयित्री, तदुच्छिष्टस्य तदुच्छिष्टस्पृष्टस्य, तया वा यत्र भुक्तं तस्य भाण्डस्य तैजसपात्रस्य, तत्प्रकरणात् \। आदिशब्दात् शोणितादि \। त्रिःसप्त एकविंशतिवारान् मार्जनाद् इत्य् अर्थः \। केचिद् आहुः सप्तभिर्[^FNA003329] यवगोधूमकलायामाषादिचूर्णैः प्रत्येकं त्रिर् मार्जनाच् छुद्धिर् इति \। कांस्यपात्रस्य तु न तथा शुद्धिः \। किं तु तस्य तापनं दहनम् एव \। भाजन इति पाठः सुगमः \।\।६६\।\।
 
@@ -3545,13 +2775,9 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     etac\] B2 tataś
 
-
-
 [^FNA003329]:
 
     saptabhir\] V1 V2 *deest*
-
-
 
 अन्यत्र च—
 
@@ -3567,14 +2793,11 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     brāhme\] V2 Va *deest*
 
-
-
 प्रक्षेप्तव्यानि[^FNA003331] तान्य् अग्नौ यच् च यावत् सहेद् अपि \।\।६८\।\।
 
 [^FNA003331]:
 
     prakṣeptavyāni\] B2 prakṣiptavyāni : Od prakṣiptāni ca
-
 
 </details>
 
@@ -3586,13 +2809,9 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     upahatāni\] V1 *deest*
 
-
-
 [^FNA003333]:
 
     prakṣeptavyam\] B1 B2 prakṣiptavyam
-
-
 
 अत एव देवलः—[^FNA003334]
 
@@ -3602,13 +2821,9 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     ata … devalaḥ\] B2 *deest*
 
-
-
 [^FNA003335]:
 
     vā\] R3 ca
-
-
 
 दहनात् खननाद्[^FNA003336] वापि शैलानाम्[^FNA003337] अम्भसापि वा \।\।६९\।\।
 
@@ -3616,13 +2831,9 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     khananād\] V1 vananād
 
-
-
 [^FNA003337]:
 
     śailānām\] Od *gl*. (pramtharapātrāṇām)
-
-
 
 काष्ठानां तक्षणाच् छुद्धिर् मृद्गोमयजलैर् अपि \।
 
@@ -3632,33 +2843,23 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     iṣyate\] B1 *a.c*. ucyate
 
-
-
 न्यूनाधिकतया लिखितं तत् तत् सर्वं देवलोक्त्या संवादयति लौहानाम् इति \। सुवर्णादीनां धातूनां तन्मयपात्राणाम् इत्य् अर्थः \। अत्यन्तोपहतौ[^FNA003339] दहनात् \। अन्यथा च भस्मादिनेत्य् अर्थः \। एवम् अग्रे ऽपि ज्ञेयम् \। खननं भूमिम् खात्वा दोषानुसारेण सप्ताहादिकालं तस्यां[^FNA003340] निक्षेपणं तस्मात् \। शैलानां शैलादि[^FNA003341]निर्मितानां, दहनात् पुनः पाकात् \। तथा[^FNA003342] च याज्ञवल्क्यः \। पुनः पाकान् महीमयम् इति \।\।६९\।\।
 
 [^FNA003339]:
 
     pahatau\] B2 *ins*. dahatau
 
-
-
 [^FNA003340]:
 
     tasyāṃ\] B1 *deest*
-
-
 
 [^FNA003341]:
 
     śailādi\] B1 B3 śilā-
 
-
-
 [^FNA003342]:
 
     tathā\] B2 yathā
-
-
 
 मनुः—[^FNA003343]
 
@@ -3668,25 +2869,17 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     manuḥ\] B1 *deest*
 
-
-
 [^FNA003344]:
 
     vā\] R1 *om*.
-
-
 
 [^FNA003345]:
 
     pūyā\] Od *gl*. (pūsa iti)
 
-
-
 [^FNA003346]:
 
     ṣṭhīvanaiḥ\] R2 -śonitaiḥ : Od *gl*. (khutkuḍi iti)
-
-
 
 संस्पृष्टं[^FNA003347] नैव शुध्येत पुनःपाकेन मृन्मयम्[^FNA003348] \।\।७१\।\।
 
@@ -3694,13 +2887,9 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     saṃspṛṣṭaṃ\] B2 saṃspṛśya
 
-
-
 [^FNA003348]:
 
     mayam\] B1 *add*. śrīrāmaḥ
-
-
 
 एतच्[^FNA003349] चाल्पोपहतौ अत्यन्तोपहतौ[^FNA003350] च मृन्मयं त्याज्यम् एवेति लिखति मद्यैर् इति \। ष्ठीवनैः लालाप्रक्षेपैः \। पाठान्तरं स्पष्टम् \।\।७१\।\।
 
@@ -3708,12 +2897,9 @@ In the Brahma Purāṇa (–):\[^FNB000438\]
 
     etac\] B2 Edd tatra
 
-
-
 [^FNA003350]:
 
     atyantopahatau\] V2 *deest*
-
 
 </details>
 
@@ -3742,13 +2928,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     upahatāni\] V1 *deest*
 
-
-
 [^FNA003333]:
 
     prakṣeptavyam\] B1 B2 prakṣiptavyam
-
-
 
 अत एव देवलः—[^FNA003334]
 
@@ -3758,13 +2940,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     ata … devalaḥ\] B2 *deest*
 
-
-
 [^FNA003335]:
 
     vā\] R3 ca
-
-
 
 दहनात् खननाद्[^FNA003336] वापि शैलानाम्[^FNA003337] अम्भसापि वा \।\।६९\।\।
 
@@ -3772,13 +2950,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     khananād\] V1 vananād
 
-
-
 [^FNA003337]:
 
     śailānām\] Od *gl*. (pramtharapātrāṇām)
-
-
 
 काष्ठानां तक्षणाच् छुद्धिर् मृद्गोमयजलैर् अपि \।
 
@@ -3788,33 +2962,23 @@ The author gives this verse to show that the above case refers to insignificant 
 
     iṣyate\] B1 *a.c*. ucyate
 
-
-
 न्यूनाधिकतया लिखितं तत् तत् सर्वं देवलोक्त्या संवादयति लौहानाम् इति \। सुवर्णादीनां धातूनां तन्मयपात्राणाम् इत्य् अर्थः \। अत्यन्तोपहतौ[^FNA003339] दहनात् \। अन्यथा च भस्मादिनेत्य् अर्थः \। एवम् अग्रे ऽपि ज्ञेयम् \। खननं भूमिम् खात्वा दोषानुसारेण सप्ताहादिकालं तस्यां[^FNA003340] निक्षेपणं तस्मात् \। शैलानां शैलादि[^FNA003341]निर्मितानां, दहनात् पुनः पाकात् \। तथा[^FNA003342] च याज्ञवल्क्यः \। पुनः पाकान् महीमयम् इति \।\।६९\।\।
 
 [^FNA003339]:
 
     pahatau\] B2 *ins*. dahatau
 
-
-
 [^FNA003340]:
 
     tasyāṃ\] B1 *deest*
-
-
 
 [^FNA003341]:
 
     śailādi\] B1 B3 śilā-
 
-
-
 [^FNA003342]:
 
     tathā\] B2 yathā
-
-
 
 मनुः—[^FNA003343]
 
@@ -3824,25 +2988,17 @@ The author gives this verse to show that the above case refers to insignificant 
 
     manuḥ\] B1 *deest*
 
-
-
 [^FNA003344]:
 
     vā\] R1 *om*.
-
-
 
 [^FNA003345]:
 
     pūyā\] Od *gl*. (pūsa iti)
 
-
-
 [^FNA003346]:
 
     ṣṭhīvanaiḥ\] R2 -śonitaiḥ : Od *gl*. (khutkuḍi iti)
-
-
 
 संस्पृष्टं[^FNA003347] नैव शुध्येत पुनःपाकेन मृन्मयम्[^FNA003348] \।\।७१\।\।
 
@@ -3850,13 +3006,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     saṃspṛṣṭaṃ\] B2 saṃspṛśya
 
-
-
 [^FNA003348]:
 
     mayam\] B1 *add*. śrīrāmaḥ
-
-
 
 एतच्[^FNA003349] चाल्पोपहतौ अत्यन्तोपहतौ[^FNA003350] च मृन्मयं त्याज्यम् एवेति लिखति मद्यैर् इति \। ष्ठीवनैः लालाप्रक्षेपैः \। पाठान्तरं स्पष्टम् \।\।७१\।\।
 
@@ -3864,12 +3016,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     etac\] B2 Edd tatra
 
-
-
 [^FNA003350]:
 
     atyantopahatau\] V2 *deest*
-
 
 </details>
 
@@ -3881,8 +3030,6 @@ The author gives this verse to show that the above case refers to insignificant 
 
     vṛddha\] B2 *deest*
 
-
-
 संहतानां तु पात्राणां यद् एकम् उपहन्यते \।
 
 तस्यैवं शोधनं प्रोक्तं सामान्यं द्रव्यशुद्धिकृत् \।\।७२\।\।
@@ -3893,15 +3040,11 @@ The author gives this verse to show that the above case refers to insignificant 
 
     dravyeṣv\] V1 B3 -dravye ’py
 
-
-
 *अथ वस्त्रादीनाम्[^FNA003353]*
 
 [^FNA003353]:
 
     vastrādīnām\] Edd *add*. saṃskāraḥ
-
-
 
 तत्र शङ्खः—[^FNA003354]
 
@@ -3911,19 +3054,13 @@ The author gives this verse to show that the above case refers to insignificant 
 
     tatra śaṅkhaḥ\] Od *deest*
 
-
-
 [^FNA003355]:
 
     tāntavaṃ\] Od *gl*. (kārpāsasūtranirmitaṃ vastrādi)
 
-
-
 [^FNA003356]:
 
     pūrvam\] Od *gl*. (prathamataḥ)
-
-
 
 अंशुभिः शोषयित्वा[^FNA003357] वा वायुना वा समाहरेत् \।\।७३\।\।
 
@@ -3931,21 +3068,15 @@ The author gives this verse to show that the above case refers to insignificant 
 
     śoṣayitvā\] V2 R1 R3 Va Pa B1 B3 Od śodhayitvā
 
-
-
 ऊर्णापट्टांशुकक्षौम[^FNA003358]दुकूलाविक[^FNA003359]चर्मणाम् \।
 
 [^FNA003358]:
 
     kṣauma\] Od *gl*. (kauśeyavastra)
 
-
-
 [^FNA003359]:
 
     āvika\] Od *gl*. (mesānāṃ romavastram)
-
-
 
 अल्पाशौचे[^FNA003360] भवेच् छुद्धिः शोषणप्रोक्षणादिभिः[^FNA003361] \।\।७४\।\।
 
@@ -3953,13 +3084,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     alpāśauce\] B3 alpe ’śauce
 
-
-
 [^FNA003361]:
 
     prokṣaṇādibhiḥ\] B3 -plavanādibhiḥ
-
-
 
 तान्य् एवामेध्यलिप्तानि नेनिज्याद् गौरसर्षपैः \।
 
@@ -3969,13 +3096,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     dhānyakalkaiḥ\] Od *gl*. (kumbhā iti)
 
-
-
 [^FNA003363]:
 
     kalkaiḥ\] B1 -balkaiḥ
-
-
 
 तुलिकाद्युपधानानि[^FNA003364] पुष्परत्नाम्बराणि[^FNA003365] च[^FNA003366][^FNA003367] \।
 
@@ -3983,25 +3106,17 @@ The author gives this verse to show that the above case refers to insignificant 
 
     upadhānāni\] Od *gl*. (nihāni vānisa iti)
 
-
-
 [^FNA003365]:
 
     puṣparatnāmbarāṇi\] Od *gl*. ratnayukta ambarāni ca
-
-
 
 [^FNA003366]:
 
     rāṇi ca\] R1 -vāriṇā
 
-
-
 [^FNA003367]:
 
     ca\] Od *add*. śaṅkhaḥ \|
-
-
 
 शोधयित्वातपे[^FNA003368] किञ्चित् करैर् उन्मार्जयेन् मुहुः[^FNA003369] \।\।७६\।\।
 
@@ -4009,13 +3124,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     śodhayitvātape\] V2 R2 R3 Pa Va śoṣayitvātape : Od *gl*. (nijiraśuddho śodhayet)
 
-
-
 [^FNA003369]:
 
     muhuḥ\] Od *gl*. (vāraṃ vāram)
-
-
 
 पश्चाच् च वारिणा प्रोक्ष्य शुचीत्य्[^FNA003370] एवम् उदाहरेत्[^FNA003371] \।
 
@@ -4023,13 +3134,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     śucīty\] R1 śucāny
 
-
-
 [^FNA003371]:
 
     udāharet\] Od upāharet
-
-
 
 तान्य् अप्य् अतिमलाक्तानि[^FNA003372] यथावत् परिशोधयेत्[^FNA003373] \।\।७७\।\।
 
@@ -4037,13 +3144,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     apy atimalāktāni\] B3 pratimaloktāni
 
-
-
 [^FNA003373]:
 
     pariśodhayet\] Od ca viśodhayet
-
-
 
 तान्तवं कार्पासिकसूत्रनिर्मितं वस्त्राद्य् अंशुभिः सूर्यरश्मिभिः वायुना वा[^FNA003374] शोषयित्वा शुष्कं कृत्वा, ऊर्णांशुकाविकयोः पशुरोम[^FNA003375]भेदेन द्रव्यभेदेन वा
 
@@ -4051,12 +3154,9 @@ The author gives this verse to show that the above case refers to insignificant 
 
     vā\] B1 *deest*
 
-
-
 [^FNA003375]:
 
     roma\] V1 *deest*
-
 
 </details>
 
@@ -4085,8 +3185,6 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     vṛddha\] B2 *deest*
 
-
-
 संहतानां तु पात्राणां यद् एकम् उपहन्यते \।
 
 तस्यैवं शोधनं प्रोक्तं सामान्यं द्रव्यशुद्धिकृत् \।\।७२\।\।
@@ -4097,15 +3195,11 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     dravyeṣv\] V1 B3 -dravye ’py
 
-
-
 *अथ वस्त्रादीनाम्[^FNA003353]*
 
 [^FNA003353]:
 
     vastrādīnām\] Edd *add*. saṃskāraḥ
-
-
 
 तत्र शङ्खः—[^FNA003354]
 
@@ -4115,19 +3209,13 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     tatra śaṅkhaḥ\] Od *deest*
 
-
-
 [^FNA003355]:
 
     tāntavaṃ\] Od *gl*. (kārpāsasūtranirmitaṃ vastrādi)
 
-
-
 [^FNA003356]:
 
     pūrvam\] Od *gl*. (prathamataḥ)
-
-
 
 अंशुभिः शोषयित्वा[^FNA003357] वा वायुना वा समाहरेत् \।\।७३\।\।
 
@@ -4135,21 +3223,15 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     śoṣayitvā\] V2 R1 R3 Va Pa B1 B3 Od śodhayitvā
 
-
-
 ऊर्णापट्टांशुकक्षौम[^FNA003358]दुकूलाविक[^FNA003359]चर्मणाम् \।
 
 [^FNA003358]:
 
     kṣauma\] Od *gl*. (kauśeyavastra)
 
-
-
 [^FNA003359]:
 
     āvika\] Od *gl*. (mesānāṃ romavastram)
-
-
 
 अल्पाशौचे[^FNA003360] भवेच् छुद्धिः शोषणप्रोक्षणादिभिः[^FNA003361] \।\।७४\।\।
 
@@ -4157,13 +3239,9 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     alpāśauce\] B3 alpe ’śauce
 
-
-
 [^FNA003361]:
 
     prokṣaṇādibhiḥ\] B3 -plavanādibhiḥ
-
-
 
 तान्य् एवामेध्यलिप्तानि नेनिज्याद् गौरसर्षपैः \।
 
@@ -4173,13 +3251,9 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     dhānyakalkaiḥ\] Od *gl*. (kumbhā iti)
 
-
-
 [^FNA003363]:
 
     kalkaiḥ\] B1 -balkaiḥ
-
-
 
 तुलिकाद्युपधानानि[^FNA003364] पुष्परत्नाम्बराणि[^FNA003365] च[^FNA003366][^FNA003367] \।
 
@@ -4187,25 +3261,17 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     upadhānāni\] Od *gl*. (nihāni vānisa iti)
 
-
-
 [^FNA003365]:
 
     puṣparatnāmbarāṇi\] Od *gl*. ratnayukta ambarāni ca
-
-
 
 [^FNA003366]:
 
     rāṇi ca\] R1 -vāriṇā
 
-
-
 [^FNA003367]:
 
     ca\] Od *add*. śaṅkhaḥ \|
-
-
 
 शोधयित्वातपे[^FNA003368] किञ्चित् करैर् उन्मार्जयेन् मुहुः[^FNA003369] \।\।७६\।\।
 
@@ -4213,13 +3279,9 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     śodhayitvātape\] V2 R2 R3 Pa Va śoṣayitvātape : Od *gl*. (nijiraśuddho śodhayet)
 
-
-
 [^FNA003369]:
 
     muhuḥ\] Od *gl*. (vāraṃ vāram)
-
-
 
 पश्चाच् च वारिणा प्रोक्ष्य शुचीत्य्[^FNA003370] एवम् उदाहरेत्[^FNA003371] \।
 
@@ -4227,13 +3289,9 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     śucīty\] R1 śucāny
 
-
-
 [^FNA003371]:
 
     udāharet\] Od upāharet
-
-
 
 तान्य् अप्य् अतिमलाक्तानि[^FNA003372] यथावत् परिशोधयेत्[^FNA003373] \।\।७७\।\।
 
@@ -4241,13 +3299,9 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     apy atimalāktāni\] B3 pratimaloktāni
 
-
-
 [^FNA003373]:
 
     pariśodhayet\] Od ca viśodhayet
-
-
 
 तान्तवं कार्पासिकसूत्रनिर्मितं वस्त्राद्य् अंशुभिः सूर्यरश्मिभिः वायुना वा[^FNA003374] शोषयित्वा शुष्कं कृत्वा, ऊर्णांशुकाविकयोः पशुरोम[^FNA003375]भेदेन द्रव्यभेदेन वा
 
@@ -4255,12 +3309,9 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     vā\] B1 *deest*
 
-
-
 [^FNA003375]:
 
     roma\] V1 *deest*
-
 
 </details>
 
@@ -4272,13 +3323,9 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     rasa\] Edd *deest*
 
-
-
 [^FNA003377]:
 
     cety\] B3 ity
-
-
 
 शातातपः—
 
@@ -4288,8 +3335,6 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     lākṣārasena\] Od *gl*. (gāratā?)
 
-
-
 प्रक्षालनेन शुध्यन्ति चण्डालस्पर्शने तथा \।\।७८\।\।
 
 कुसुम्भेन[^FNA003379] कुंकुमेन वा आरक्ता रञ्जिता लाक्षारसेन वा रक्ताः[^FNA003380] पटाः \। चण्डालेनान्येनाप्य्[^FNA003381] अस्पृश्या उपलक्ष्यास् तत्स्पर्शे सति प्रक्षालनेन शुध्यन्ति \।\।७८\।\।
@@ -4298,19 +3343,13 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     kusumbhena\] B2 sukumbhena
 
-
-
 [^FNA003380]:
 
     vā … raktāḥ\] V2 B2 B3 cāraktāḥ
 
-
-
 [^FNA003381]:
 
     caṇḍālenānyenāpy\] V1 V2 cāṇḍālenānye ’py
-
-
 
 यमः—
 
@@ -4320,8 +3359,6 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     vālānāṃ\] Od *gl*. (vālānāṃ kambalānāṃ)
 
-
-
 गोमूत्रेणास्थिदन्तानां क्षौमाणां गौरसर्षपैः \।\।७९\।\।
 
 वालानां चामराणाम् \। अस्थि शङ्खादि \। दन्तः[^FNA003383] हस्त्यादेः \।\।७९\।\।
@@ -4329,8 +3366,6 @@ The elder Śātātapa (–):\[^FNB000443\]
 [^FNA003383]:
 
     dantaḥ\] B3 dantaṃ
-
-
 
 शङ्खः—
 
@@ -4342,21 +3377,15 @@ The elder Śātātapa (–):\[^FNB000443\]
 
     govālaiḥ\] Od gorasaiḥ
 
-
-
 फलपात्राणां नारिकेलादि[^FNA003385]पात्राणां,[^FNA003386] अस्थ्नां शङ्खादीनाम् \। शृङ्गवद् इति सर्षपाणां कल्केनेत्य् अर्थः \।\।८०\।\।
 
 [^FNA003385]:
 
     kelādi\] B1 *ins*. -phala-
 
-
-
 [^FNA003386]:
 
     nāri … pātrāṇāṃ\] B3 *deest*
-
-
 
 किं च—
 
@@ -4365,8 +3394,6 @@ The elder Śātātapa (–):\[^FNB000443\]
 [^FNA003387]:
 
     niryāsānāṃ\] Od *gl*. (āṭhā iti)
-
-
 
 कुसुम्भकुसुमानां च ऊर्णाकार्पासयोस् तथा \।
 
@@ -4412,13 +3439,9 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     rasa\] Edd *deest*
 
-
-
 [^FNA003377]:
 
     cety\] B3 ity
-
-
 
 शातातपः—
 
@@ -4428,8 +3451,6 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     lākṣārasena\] Od *gl*. (gāratā?)
 
-
-
 प्रक्षालनेन शुध्यन्ति चण्डालस्पर्शने तथा \।\।७८\।\।
 
 कुसुम्भेन[^FNA003379] कुंकुमेन वा आरक्ता रञ्जिता लाक्षारसेन वा रक्ताः[^FNA003380] पटाः \। चण्डालेनान्येनाप्य्[^FNA003381] अस्पृश्या उपलक्ष्यास् तत्स्पर्शे सति प्रक्षालनेन शुध्यन्ति \।\।७८\।\।
@@ -4438,19 +3459,13 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     kusumbhena\] B2 sukumbhena
 
-
-
 [^FNA003380]:
 
     vā … raktāḥ\] V2 B2 B3 cāraktāḥ
 
-
-
 [^FNA003381]:
 
     caṇḍālenānyenāpy\] V1 V2 cāṇḍālenānye ’py
-
-
 
 यमः—
 
@@ -4460,8 +3475,6 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     vālānāṃ\] Od *gl*. (vālānāṃ kambalānāṃ)
 
-
-
 गोमूत्रेणास्थिदन्तानां क्षौमाणां गौरसर्षपैः \।\।७९\।\।
 
 वालानां चामराणाम् \। अस्थि शङ्खादि \। दन्तः[^FNA003383] हस्त्यादेः \।\।७९\।\।
@@ -4469,8 +3482,6 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 [^FNA003383]:
 
     dantaḥ\] B3 dantaṃ
-
-
 
 शङ्खः—
 
@@ -4482,21 +3493,15 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     govālaiḥ\] Od gorasaiḥ
 
-
-
 फलपात्राणां नारिकेलादि[^FNA003385]पात्राणां,[^FNA003386] अस्थ्नां शङ्खादीनाम् \। शृङ्गवद् इति सर्षपाणां कल्केनेत्य् अर्थः \।\।८०\।\।
 
 [^FNA003385]:
 
     kelādi\] B1 *ins*. -phala-
 
-
-
 [^FNA003386]:
 
     nāri … pātrāṇāṃ\] B3 *deest*
-
-
 
 किं च—
 
@@ -4505,8 +3510,6 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 [^FNA003387]:
 
     niryāsānāṃ\] Od *gl*. (āṭhā iti)
-
-
 
 कुसुम्भकुसुमानां च ऊर्णाकार्पासयोस् तथा \।
 
@@ -4527,8 +3530,6 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     eva\] Od evaṃ
 
-
-
 चैलवच् चर्मणां शुद्धिर् वैदलानां तथैव च \।
 
 शाकमूलफलानां च धान्यवच् छुद्धिर् इष्यते \।\।८३\।\।
@@ -4539,8 +3540,6 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     caiva śudhyati\] V2 R1 R2 R3 Pa B3 ca viśudhyati
 
-
-
 मार्जनोपाञ्जनैर् वेश्म पुनःपाकेन मृन्मयम् \।\।८४\।\।
 
 वैदलानां विदारित[^FNA003390]वेणुवेत्रदलनिर्मितानाम् \। मार्जनैः रजःशोधनैः \। उपाञ्जनैः लेपनैश् च \।\।८२–८३\।\।
@@ -4548,8 +3547,6 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 [^FNA003390]:
 
     vidārita\] V1 V2 vidālita-
-
-
 
 किं च—[^FNA003391]
 
@@ -4559,25 +3556,17 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     kiṃ ca\] B1 B2 *deest*
 
-
-
 [^FNA003392]:
 
     āktād\] Pa -oktād
-
-
 
 [^FNA003393]:
 
     lepaś ca\] R2 lampasva-
 
-
-
 [^FNA003394]:
 
     tadgataḥ\] Edd tatkṛtaḥ
-
-
 
 तावन् मृद् वारि चादेयं[^FNA003395][^FNA003396] सर्वासु द्रव्यशुद्धिषु \।\।८५\।\।
 
@@ -4585,13 +3574,9 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     vāri cādeyaṃ\] Od mṛdvārinā deyaṃ
 
-
-
 [^FNA003396]:
 
     cādeyaṃ\] R1 Pa vādeyaṃ
-
-
 
 बृहस्पतिः—
 
@@ -4601,21 +3586,15 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 
     vaidala\] Od *gl*. (mudaṃvastra dravyāt) (vaidala iti bhagupātra)
 
-
-
 [^FNA003398]:
 
     carmādeḥ\] R2 -carmādyaiḥ
-
-
 
 अतिदुष्टस्य तन्मात्रं त्यजेच् छित्त्वा तु शुद्धये[^FNA003399] \।\।८६\।\।
 
 [^FNA003399]:
 
     śuddhaye\] Od *gl*. (śuddhinimittaye)
-
-
 
 तन्मात्रम् इति \। यावद् अत्यन्तदुष्टं तावन्मात्रम् एव \। न त्व् अन्यद् इत्य् अर्थः \।\।८६\।\।
 
@@ -4626,8 +3605,6 @@ And further (Śaṅkha 16.11–12ab):\[^FNB000451\]
 [^FNA003400]:
 
     viṣṇuḥ\] R1 viṣṇupurāṇe
-
-
 
 स्पर्शने विहितं शौचं सोमसूर्यांशुमारुतैः \।\।८७\।\।
 </details>
@@ -4667,8 +3644,6 @@ Viṣṇu (–):
 
     eva\] Od evaṃ
 
-
-
 चैलवच् चर्मणां शुद्धिर् वैदलानां तथैव च \।
 
 शाकमूलफलानां च धान्यवच् छुद्धिर् इष्यते \।\।८३\।\।
@@ -4679,8 +3654,6 @@ Viṣṇu (–):
 
     caiva śudhyati\] V2 R1 R2 R3 Pa B3 ca viśudhyati
 
-
-
 मार्जनोपाञ्जनैर् वेश्म पुनःपाकेन मृन्मयम् \।\।८४\।\।
 
 वैदलानां विदारित[^FNA003390]वेणुवेत्रदलनिर्मितानाम् \। मार्जनैः रजःशोधनैः \। उपाञ्जनैः लेपनैश् च \।\।८२–८३\।\।
@@ -4688,8 +3661,6 @@ Viṣṇu (–):
 [^FNA003390]:
 
     vidārita\] V1 V2 vidālita-
-
-
 
 किं च—[^FNA003391]
 
@@ -4699,25 +3670,17 @@ Viṣṇu (–):
 
     kiṃ ca\] B1 B2 *deest*
 
-
-
 [^FNA003392]:
 
     āktād\] Pa -oktād
-
-
 
 [^FNA003393]:
 
     lepaś ca\] R2 lampasva-
 
-
-
 [^FNA003394]:
 
     tadgataḥ\] Edd tatkṛtaḥ
-
-
 
 तावन् मृद् वारि चादेयं[^FNA003395][^FNA003396] सर्वासु द्रव्यशुद्धिषु \।\।८५\।\।
 
@@ -4725,13 +3688,9 @@ Viṣṇu (–):
 
     vāri cādeyaṃ\] Od mṛdvārinā deyaṃ
 
-
-
 [^FNA003396]:
 
     cādeyaṃ\] R1 Pa vādeyaṃ
-
-
 
 बृहस्पतिः—
 
@@ -4741,21 +3700,15 @@ Viṣṇu (–):
 
     vaidala\] Od *gl*. (mudaṃvastra dravyāt) (vaidala iti bhagupātra)
 
-
-
 [^FNA003398]:
 
     carmādeḥ\] R2 -carmādyaiḥ
-
-
 
 अतिदुष्टस्य तन्मात्रं त्यजेच् छित्त्वा तु शुद्धये[^FNA003399] \।\।८६\।\।
 
 [^FNA003399]:
 
     śuddhaye\] Od *gl*. (śuddhinimittaye)
-
-
 
 तन्मात्रम् इति \। यावद् अत्यन्तदुष्टं तावन्मात्रम् एव \। न त्व् अन्यद् इत्य् अर्थः \।\।८६\।\।
 
@@ -4766,8 +3719,6 @@ Viṣṇu (–):
 [^FNA003400]:
 
     viṣṇuḥ\] R1 viṣṇupurāṇe
-
-
 
 स्पर्शने विहितं शौचं सोमसूर्यांशुमारुतैः \।\।८७\।\।
 </details>
@@ -4782,15 +3733,11 @@ Viṣṇu (–):
 
     baudhāyanaḥ\] Pa baudhāya
 
-
-
 मारुतार्केण शुध्यन्ति पक्वेष्टकचितानि[^FNA003402] च \।\।८८\।\।
 
 [^FNA003402]:
 
     kacitāni\] Edd -racitāni
-
-
 
 मारुतयुक्तेन अर्केण तदंशुना \। पाठान्तरं स्पष्टम् \।\।८८\।\।
 
@@ -4800,15 +3747,11 @@ Viṣṇu (–):
 
     dhānyādīnām\] Edd *add*. saṃskāraḥ
 
-
-
 तत्र[^FNA003404] बौधायनः—[^FNA003405]
 
 [^FNA003404]:
 
     tatra\] V2 Od tatraiva
-
-
 
 व्रीहयः प्रोक्षणाद् अद्भिः शाकमूलफलानि च \।
 
@@ -4816,15 +3759,11 @@ Viṣṇu (–):
 
     baudhāyanaḥ\] Va *add*. ca
 
-
-
 तन्मात्रस्यापहाराद्[^FNA003406] वा निस्तुषीकरणेन च \।\।८९\।\।
 
 [^FNA003406]:
 
     āpahārād\] Od *gl*. (tyāgāt)
-
-
 
 शङ्खः—
 
@@ -4834,8 +3773,6 @@ Viṣṇu (–):
 
     śrapaṇaṃ\] R1 śravaṇaṃ
 
-
-
 भाण्डानि प्लावयेद् अद्भिः शाकमूलफलानि च \।\।९०\।\।
 
 श्रपणं[^FNA003408] पचनं[^FNA003409] \। प्लावनम् एव विवृणोत्य् अद्भिस् तत्तद्भाण्डानि प्लावयेताप्सु[^FNA003410] निमज्जयेद् इत्य् अर्थः \। घृतादीनाम् अपि श्रपणासम्भवे सजातीयद्रव्यप्लावनेन शुद्धिर् बोद्धव्या \।\।९०\।\।
@@ -4844,18 +3781,13 @@ Viṣṇu (–):
 
     śrapaṇaṃ\] B2 śravaṇaṃ
 
-
-
 [^FNA003409]:
 
     pacanaṃ\] B2 paṭhanaṃ : Edd *deest*
 
-
-
 [^FNA003410]:
 
     plāvayetāpsu\] Edd pacayet \| apsu
-
 
 </details>
 
@@ -4890,15 +3822,11 @@ Baudhāyana (–):
 
     baudhāyanaḥ\] Pa baudhāya
 
-
-
 मारुतार्केण शुध्यन्ति पक्वेष्टकचितानि[^FNA003402] च \।\।८८\।\।
 
 [^FNA003402]:
 
     kacitāni\] Edd -racitāni
-
-
 
 मारुतयुक्तेन अर्केण तदंशुना \। पाठान्तरं स्पष्टम् \।\।८८\।\।
 
@@ -4908,15 +3836,11 @@ Baudhāyana (–):
 
     dhānyādīnām\] Edd *add*. saṃskāraḥ
 
-
-
 तत्र[^FNA003404] बौधायनः—[^FNA003405]
 
 [^FNA003404]:
 
     tatra\] V2 Od tatraiva
-
-
 
 व्रीहयः प्रोक्षणाद् अद्भिः शाकमूलफलानि च \।
 
@@ -4924,15 +3848,11 @@ Baudhāyana (–):
 
     baudhāyanaḥ\] Va *add*. ca
 
-
-
 तन्मात्रस्यापहाराद्[^FNA003406] वा निस्तुषीकरणेन च \।\।८९\।\।
 
 [^FNA003406]:
 
     āpahārād\] Od *gl*. (tyāgāt)
-
-
 
 शङ्खः—
 
@@ -4942,8 +3862,6 @@ Baudhāyana (–):
 
     śrapaṇaṃ\] R1 śravaṇaṃ
 
-
-
 भाण्डानि प्लावयेद् अद्भिः शाकमूलफलानि च \।\।९०\।\।
 
 श्रपणं[^FNA003408] पचनं[^FNA003409] \। प्लावनम् एव विवृणोत्य् अद्भिस् तत्तद्भाण्डानि प्लावयेताप्सु[^FNA003410] निमज्जयेद् इत्य् अर्थः \। घृतादीनाम् अपि श्रपणासम्भवे सजातीयद्रव्यप्लावनेन शुद्धिर् बोद्धव्या \।\।९०\।\।
@@ -4952,18 +3870,13 @@ Baudhāyana (–):
 
     śrapaṇaṃ\] B2 śravaṇaṃ
 
-
-
 [^FNA003409]:
 
     pacanaṃ\] B2 paṭhanaṃ : Edd *deest*
 
-
-
 [^FNA003410]:
 
     plāvayetāpsu\] Edd pacayet \| apsu
-
 
 </details>
 
@@ -4977,21 +3890,15 @@ Baudhāyana (–):
 
     brāhme\] V2 *deest*
 
-
-
 [^FNA003412]:
 
     bhūrīṇi\] Od *gl*. (bahutarāni)
-
-
 
 शस्यानि[^FNA003413] व्रीहयश् चैव शाकमूलफलानि च \।
 
 [^FNA003413]:
 
     śasyāni\] B2 śālyādi
-
-
 
 त्यक्त्वा तु दूषितं भागं प्लाव्यान्य् अथ जलेन तु \।\।९१\।\।
 
@@ -5009,13 +3916,9 @@ Baudhāyana (–):
 
     avilīnaṃ\] B2 avilītaṃ : Od *gl*. (nīḍaśleṣane)
 
-
-
 [^FNA003415]:
 
     śrapaṇena\] R1 śravaṇena : R2 sarpanena: B2 drapaṇena : Od plāvanena
-
-
 
 तन्मात्रं यावद् उपहतं तावन्मात्रम् इत्य् अर्थः \। एतच् चानाकरविषयम् \।\।९२\।\।
 
@@ -5025,33 +3928,23 @@ Baudhāyana (–):
 
     anyatra ca\] V2 Va Edd *deest*
 
-
-
 आधारदोषे[^FNA003418] तु[^FNA003419] नयेत्[^FNA003420] पात्रात् पात्रान्तरं द्रवम् \।\।९३\।\।
 
 [^FNA003417]:
 
     ca\] B2 Od *deest*
 
-
-
 [^FNA003418]:
 
     doṣe\] R2 -doṣeṇa
-
-
 
 [^FNA003419]:
 
     doṣe tu\] V1 -doṣeṇa
 
-
-
 [^FNA003420]:
 
     tu nayet\] B1 duṣṭaṃ yat
-
-
 
 घृतं च पायसं क्षीरं तथैवेक्षु[^FNA003421]रसो गुडः \।
 
@@ -5059,15 +3952,11 @@ Baudhāyana (–):
 
     tathaivekṣu\] Edd tathaikṣava-
 
-
-
 शूद्रभाण्डस्थितं तक्रं[^FNA003422] तथा मधु न दुष्यति \।\।९४\।\।
 
 [^FNA003422]:
 
     takraṃ\] V1 -viṣayaḥ
-
-
 
 आकरभाण्डे च विशेषं[^FNA003423] लिखत्य् आधारेति[^FNA003424] \। आधार आकरभाण्डं तद्दोषेण \। पायसं पयोनिर्वृत्तं दधि शूद्रभाण्डस्थितम् अपि पात्रान्तरं नीतं सन् न दुष्यतीत्य् अर्थः \। तथा च यमः \। आममांसं घृतं क्षौद्रं स्नेहाश् च फलसम्भवाः \। म्लेच्छभाण्डस्थिता दुष्या[^FNA003425] निष्क्रान्ताः शुचयः स्मृताः \।\। इति[^FNA003426] \। अन्यत्र च[^FNA003427] आकराः शुचयः[^FNA003428] सर्वे इति \।\।९३–९४\।\।
 
@@ -5075,37 +3964,25 @@ Baudhāyana (–):
 
     viśeṣaṃ\] B2 viśeṣaṇaṃ
 
-
-
 [^FNA003424]:
 
     ādhāreti\] V1 *deest*
-
-
 
 [^FNA003425]:
 
     duṣyā\] B3 duṣṭā
 
-
-
 [^FNA003426]:
 
     iti\] B1 *deest*
-
-
 
 [^FNA003427]:
 
     ca\] B1 *deest*
 
-
-
 [^FNA003428]:
 
     śucayaḥ\] B3 *deest*
-
-
 
 किं च मनुः—
 
@@ -5117,24 +3994,17 @@ Baudhāyana (–):
 
     anidhāyaiva\] Pa abhidhāyaiva
 
-
-
 [^FNA003430]:
 
     śucitām\] Od śuddhitām
-
-
 
 [^FNA003431]:
 
     iyāt\] Od *gl*. (tatkṣaṇāt)
 
-
-
 [^FNA003432]:
 
     iti\] R3 B3 *deest*
-
 
 </details>
 
@@ -5173,21 +4043,15 @@ Furthermore, Manu (5.143):
 
     brāhme\] V2 *deest*
 
-
-
 [^FNA003412]:
 
     bhūrīṇi\] Od *gl*. (bahutarāni)
-
-
 
 शस्यानि[^FNA003413] व्रीहयश् चैव शाकमूलफलानि च \।
 
 [^FNA003413]:
 
     śasyāni\] B2 śālyādi
-
-
 
 त्यक्त्वा तु दूषितं भागं प्लाव्यान्य् अथ जलेन तु \।\।९१\।\।
 
@@ -5205,13 +4069,9 @@ Furthermore, Manu (5.143):
 
     avilīnaṃ\] B2 avilītaṃ : Od *gl*. (nīḍaśleṣane)
 
-
-
 [^FNA003415]:
 
     śrapaṇena\] R1 śravaṇena : R2 sarpanena: B2 drapaṇena : Od plāvanena
-
-
 
 तन्मात्रं यावद् उपहतं तावन्मात्रम् इत्य् अर्थः \। एतच् चानाकरविषयम् \।\।९२\।\।
 
@@ -5221,33 +4081,23 @@ Furthermore, Manu (5.143):
 
     anyatra ca\] V2 Va Edd *deest*
 
-
-
 आधारदोषे[^FNA003418] तु[^FNA003419] नयेत्[^FNA003420] पात्रात् पात्रान्तरं द्रवम् \।\।९३\।\।
 
 [^FNA003417]:
 
     ca\] B2 Od *deest*
 
-
-
 [^FNA003418]:
 
     doṣe\] R2 -doṣeṇa
-
-
 
 [^FNA003419]:
 
     doṣe tu\] V1 -doṣeṇa
 
-
-
 [^FNA003420]:
 
     tu nayet\] B1 duṣṭaṃ yat
-
-
 
 घृतं च पायसं क्षीरं तथैवेक्षु[^FNA003421]रसो गुडः \।
 
@@ -5255,15 +4105,11 @@ Furthermore, Manu (5.143):
 
     tathaivekṣu\] Edd tathaikṣava-
 
-
-
 शूद्रभाण्डस्थितं तक्रं[^FNA003422] तथा मधु न दुष्यति \।\।९४\।\।
 
 [^FNA003422]:
 
     takraṃ\] V1 -viṣayaḥ
-
-
 
 आकरभाण्डे च विशेषं[^FNA003423] लिखत्य् आधारेति[^FNA003424] \। आधार आकरभाण्डं तद्दोषेण \। पायसं पयोनिर्वृत्तं दधि शूद्रभाण्डस्थितम् अपि पात्रान्तरं नीतं सन् न दुष्यतीत्य् अर्थः \। तथा च यमः \। आममांसं घृतं क्षौद्रं स्नेहाश् च फलसम्भवाः \। म्लेच्छभाण्डस्थिता दुष्या[^FNA003425] निष्क्रान्ताः शुचयः स्मृताः \।\। इति[^FNA003426] \। अन्यत्र च[^FNA003427] आकराः शुचयः[^FNA003428] सर्वे इति \।\।९३–९४\।\।
 
@@ -5271,37 +4117,25 @@ Furthermore, Manu (5.143):
 
     viśeṣaṃ\] B2 viśeṣaṇaṃ
 
-
-
 [^FNA003424]:
 
     ādhāreti\] V1 *deest*
-
-
 
 [^FNA003425]:
 
     duṣyā\] B3 duṣṭā
 
-
-
 [^FNA003426]:
 
     iti\] B1 *deest*
-
-
 
 [^FNA003427]:
 
     ca\] B1 *deest*
 
-
-
 [^FNA003428]:
 
     śucayaḥ\] B3 *deest*
-
-
 
 किं च मनुः—
 
@@ -5313,24 +4147,17 @@ Furthermore, Manu (5.143):
 
     anidhāyaiva\] Pa abhidhāyaiva
 
-
-
 [^FNA003430]:
 
     śucitām\] Od śuddhitām
-
-
 
 [^FNA003431]:
 
     iyāt\] Od *gl*. (tatkṣaṇāt)
 
-
-
 [^FNA003432]:
 
     iti\] R3 B3 *deest*
-
 
 </details>
 
@@ -5342,13 +4169,9 @@ Furthermore, Manu (5.143):
 
     pi\] Od tu
 
-
-
 [^FNA003434]:
 
     vidhayo dravyāṇāṃ\] B2 *transp*.
-
-
 
 अपेक्ष्या वैष्णवैर् ज्ञेयास् तत्तद्विस्तारणैर् अलम्[^FNA003435][^FNA003436] \।\।९६\।\।
 
@@ -5356,13 +4179,9 @@ Furthermore, Manu (5.143):
 
     anye … alam\] Pa² *i.m*.
 
-
-
 [^FNA003436]:
 
     alam\] Od *gl*. (vyartham)
-
-
 
 शुचिताम् इयात् द्रव्यं चात्रान्न[^FNA003437]व्यतिरिक्तं ज्ञेयं, सदाचारात् \। अन्नविषये चोक्तम् आपस्तम्बेन \। कृत्वा मूत्रं पुरीषां च द्रव्यहस्तः कथञ्चन \। भूमाव् अन्नं प्रतिष्ठाप्य कृत्वा स्नानं यथाविधि \।\। तत्संयोगात् तु पक्वान्नम् उपस्पृश्य ततः शुचि[^FNA003438] \।\। इति \। बृहस्पतिना च \। शौचं तु कुर्यात् प्रथमं पादौ प्रक्षालयेत् ततः \। उपस्पृश्य तद् अभ्युक्ष्य गृहीतं शुचिताम् इयात् \।\। इति \। यद्य् अपि भगवद्द्रव्येषु तत्तदुपघातो न घटते, तथापि भगवदर्थतत्तद्द्रव्यार्पणापेक्षया, किं वा भ्रमप्रमादादिना तत्तदुपघातसम्भावनया तत्तच्छुद्धिर् लिखितेति दिक् \। वैष्णवैर् अपेक्षाश्[^FNA003439] चेत्, तर्हि स्मृतिशास्त्रेभ्यो ज्ञेयाः \। तीर्थे विवाहे यात्रायां सङ्ग्रामे देशविप्लवे \। नगर[^FNA003440]ग्रामदाहे च स्पृष्टास्पृष्टिर् न दुष्यति \।\। गोकुले कन्दु[^FNA003441]शालायां तैलयन्त्रेक्षुयन्त्रयोः \। अमीमांस्यानि शौचानि स्त्रीषु बालातुरेषु च \।\। इत्याद्य् उक्तेः \। तत् तस्मात् तेषां विस्तारणैर् विस्तरेण लिखनैर् अलम् \। तत्र[^FNA003442] प्रयोजनं नास्ति, ग्रन्थविस्तारभयाद् इत्य् अर्थः \।\।९५–९६\।\।
 
@@ -5370,37 +4189,25 @@ Furthermore, Manu (5.143):
 
     cātrānna\] B3 cātrānnādi- : Edd cāṇḍālānna-
 
-
-
 [^FNA003438]:
 
     śuci\] Edd śuciḥ
-
-
 
 [^FNA003439]:
 
     apekṣāś\] B3 apekṣyaś
 
-
-
 [^FNA003440]:
 
     nagara\] B1 nagare
-
-
 
 [^FNA003441]:
 
     kandu\] V1 B3 kuṇḍa-
 
-
-
 [^FNA003442]:
 
     tatra\] V2 atra
-
-
 
 *अथ पूजार्थतुलसीपुष्पाद्याहरणम्[^FNA003443]*
 
@@ -5408,21 +4215,15 @@ Furthermore, Manu (5.143):
 
     āharaṇam\] B2 *add*. 3
 
-
-
 प्रणम्याथ महा[^FNA003444]विष्णुं प्रार्थ्यानुज्ञां तु[^FNA003445] वैष्णवः \।
 
 [^FNA003444]:
 
     mahā\] V1² *i.m*.
 
-
-
 [^FNA003445]:
 
     tu\] R1 B2 ca
-
-
 
 समाहरेच् छ्रीतुलसीं पुष्पादि च यथोदितम्[^FNA003446] \।\।९७\।\।
 
@@ -5430,22 +4231,17 @@ Furthermore, Manu (5.143):
 
     yathoditam\] R1 B3 yathocitam
 
-
-
 पुष्पम् आदिशब्देन पत्राङ्कुरादि \। यथोदितं तत्र निषिद्धवर्जनाद्यनुसारेणेत्य् अर्थः[^FNA003447] \।\।९७\।\।
 
 [^FNA003447]:
 
     arthaḥ\] B2 *add*. śrīśrīrādhākṛṣṇaśaraṇam
 
-
-
 यच्[^FNA003448] च हारीतवचनम्—
 
 [^FNA003448]:
 
     yac\] Od tac
-
 
 </details>
 
@@ -5474,13 +4270,9 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     pi\] Od tu
 
-
-
 [^FNA003434]:
 
     vidhayo dravyāṇāṃ\] B2 *transp*.
-
-
 
 अपेक्ष्या वैष्णवैर् ज्ञेयास् तत्तद्विस्तारणैर् अलम्[^FNA003435][^FNA003436] \।\।९६\।\।
 
@@ -5488,13 +4280,9 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     anye … alam\] Pa² *i.m*.
 
-
-
 [^FNA003436]:
 
     alam\] Od *gl*. (vyartham)
-
-
 
 शुचिताम् इयात् द्रव्यं चात्रान्न[^FNA003437]व्यतिरिक्तं ज्ञेयं, सदाचारात् \। अन्नविषये चोक्तम् आपस्तम्बेन \। कृत्वा मूत्रं पुरीषां च द्रव्यहस्तः कथञ्चन \। भूमाव् अन्नं प्रतिष्ठाप्य कृत्वा स्नानं यथाविधि \।\। तत्संयोगात् तु पक्वान्नम् उपस्पृश्य ततः शुचि[^FNA003438] \।\। इति \। बृहस्पतिना च \। शौचं तु कुर्यात् प्रथमं पादौ प्रक्षालयेत् ततः \। उपस्पृश्य तद् अभ्युक्ष्य गृहीतं शुचिताम् इयात् \।\। इति \। यद्य् अपि भगवद्द्रव्येषु तत्तदुपघातो न घटते, तथापि भगवदर्थतत्तद्द्रव्यार्पणापेक्षया, किं वा भ्रमप्रमादादिना तत्तदुपघातसम्भावनया तत्तच्छुद्धिर् लिखितेति दिक् \। वैष्णवैर् अपेक्षाश्[^FNA003439] चेत्, तर्हि स्मृतिशास्त्रेभ्यो ज्ञेयाः \। तीर्थे विवाहे यात्रायां सङ्ग्रामे देशविप्लवे \। नगर[^FNA003440]ग्रामदाहे च स्पृष्टास्पृष्टिर् न दुष्यति \।\। गोकुले कन्दु[^FNA003441]शालायां तैलयन्त्रेक्षुयन्त्रयोः \। अमीमांस्यानि शौचानि स्त्रीषु बालातुरेषु च \।\। इत्याद्य् उक्तेः \। तत् तस्मात् तेषां विस्तारणैर् विस्तरेण लिखनैर् अलम् \। तत्र[^FNA003442] प्रयोजनं नास्ति, ग्रन्थविस्तारभयाद् इत्य् अर्थः \।\।९५–९६\।\।
 
@@ -5502,37 +4290,25 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     cātrānna\] B3 cātrānnādi- : Edd cāṇḍālānna-
 
-
-
 [^FNA003438]:
 
     śuci\] Edd śuciḥ
-
-
 
 [^FNA003439]:
 
     apekṣāś\] B3 apekṣyaś
 
-
-
 [^FNA003440]:
 
     nagara\] B1 nagare
-
-
 
 [^FNA003441]:
 
     kandu\] V1 B3 kuṇḍa-
 
-
-
 [^FNA003442]:
 
     tatra\] V2 atra
-
-
 
 *अथ पूजार्थतुलसीपुष्पाद्याहरणम्[^FNA003443]*
 
@@ -5540,21 +4316,15 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     āharaṇam\] B2 *add*. 3
 
-
-
 प्रणम्याथ महा[^FNA003444]विष्णुं प्रार्थ्यानुज्ञां तु[^FNA003445] वैष्णवः \।
 
 [^FNA003444]:
 
     mahā\] V1² *i.m*.
 
-
-
 [^FNA003445]:
 
     tu\] R1 B2 ca
-
-
 
 समाहरेच् छ्रीतुलसीं पुष्पादि च यथोदितम्[^FNA003446] \।\।९७\।\।
 
@@ -5562,22 +4332,17 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     yathoditam\] R1 B3 yathocitam
 
-
-
 पुष्पम् आदिशब्देन पत्राङ्कुरादि \। यथोदितं तत्र निषिद्धवर्जनाद्यनुसारेणेत्य् अर्थः[^FNA003447] \।\।९७\।\।
 
 [^FNA003447]:
 
     arthaḥ\] B2 *add*. śrīśrīrādhākṛṣṇaśaraṇam
 
-
-
 यच्[^FNA003448] च हारीतवचनम्—
 
 [^FNA003448]:
 
     yac\] Od tac
-
 
 </details>
 
@@ -5589,15 +4354,11 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     kecit\] Va kiṃ tu
 
-
-
 देवतास् तन् न गृह्णन्ति भस्मीभवति[^FNA003450] काष्ठवत् \।\। इति \।\।९८\।\।
 
 [^FNA003450]:
 
     bhavati\] Od bhavatu
-
-
 
 तच् च मध्याह्नस्नान[^FNA003451]विषयं, यत[^FNA003452] उक्तं[^FNA003453] पाद्मे वैशाखमाहात्म्ये—[^FNA003454]
 
@@ -5605,27 +4366,19 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     snāna\] R1 R2 Pa Od *deest* : Od² *i.m*.
 
-
-
 [^FNA003452]:
 
     yata\] V2 tata
 
-
-
 [^FNA003453]:
 
     yata uktaṃ\] B2 yathoktaṃ
-
-
 
 अस्नात्वा तुलसीं छित्त्वा देवार्थे पितृकर्मणि \।
 
 [^FNA003454]:
 
     māhātmye\] B3 *add*. svagūḍhācaraṇam
-
-
 
 तत् सर्वं निष्फलं याति पञ्चगव्येन शुध्यति \।\।९९\।\।
 
@@ -5635,13 +4388,9 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     vākyāntaraṃ\] Od dhārāntaraṃ
 
-
-
 [^FNA003456]:
 
     kiṃ … mṛgyam\] R2 R3 *deest*
-
-
 
 *अथ गृहस्नानविधिः[^FNA003457]*
 
@@ -5649,29 +4398,21 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     vidhiḥ\] R3 *add*. 4
 
-
-
 स्वगृहे वाचरन्[^FNA003458] स्नानं[^FNA003459] प्रक्षाल्याङ्घ्री करौ तथा \।
 
 [^FNA003458]:
 
     vācaran\] R2 Od cācaran : B3 cārcanaṃ
 
-
-
 [^FNA003459]:
 
     snānaṃ\] B1 *om*.
-
-
 
 आचम्यायम्य[^FNA003460] च प्राणान् कृतन्यासो हरिं स्मरेत् \।\।१००\।\।
 
 [^FNA003460]:
 
     āyamya\] Od *gl*. (prāṇāyāmaṃ kṛtvā)
-
-
 
 प्राणान् आयम्य प्राणायामं कृत्वा \।\।१००\।\।
 
@@ -5680,8 +4421,6 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 [^FNA003461]:
 
     smṛtvā\] B1 gatvā
-
-
 
 पूर्णे पात्रे समस्तानि तीर्थान्य् आवाहयेत् कृती \।\।१०१\।\।
 
@@ -5693,21 +4432,15 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     cāyam\] R2 tv ayam
 
-
-
 नर्मदे सिन्धो कावेरि जले[^FNA003463] ऽस्मिन् सन्निधिं कुरु \।\। इति[^FNA003464] \।\।१०२\।\।
 
 [^FNA003463]:
 
     jale\] R1 yajñe
 
-
-
 [^FNA003464]:
 
     iti\] R3 *deest*
-
-
 
 अथवा जाह्नवीम् एव सर्वतीर्थमयीं बुधः \।
 
@@ -5717,8 +4450,6 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 
     jalabhājane\] Od *gl*. (pātre)
 
-
-
 तानि चोक्तानि—[^FNA003466]
 
 नलिनी नन्दिनी सीता मालिनी च महापगा \।
@@ -5726,7 +4457,6 @@ But if one advances the statement of Hārita (–):\[^FNB000465\]
 [^FNA003466]:
 
     tāni coktāni\] Edd dvādaśanāmāni
-
 
 </details>
 
@@ -5767,15 +4497,11 @@ And they are said to be:\[^FNB000469\]
 
     kecit\] Va kiṃ tu
 
-
-
 देवतास् तन् न गृह्णन्ति भस्मीभवति[^FNA003450] काष्ठवत् \।\। इति \।\।९८\।\।
 
 [^FNA003450]:
 
     bhavati\] Od bhavatu
-
-
 
 तच् च मध्याह्नस्नान[^FNA003451]विषयं, यत[^FNA003452] उक्तं[^FNA003453] पाद्मे वैशाखमाहात्म्ये—[^FNA003454]
 
@@ -5783,27 +4509,19 @@ And they are said to be:\[^FNB000469\]
 
     snāna\] R1 R2 Pa Od *deest* : Od² *i.m*.
 
-
-
 [^FNA003452]:
 
     yata\] V2 tata
 
-
-
 [^FNA003453]:
 
     yata uktaṃ\] B2 yathoktaṃ
-
-
 
 अस्नात्वा तुलसीं छित्त्वा देवार्थे पितृकर्मणि \।
 
 [^FNA003454]:
 
     māhātmye\] B3 *add*. svagūḍhācaraṇam
-
-
 
 तत् सर्वं निष्फलं याति पञ्चगव्येन शुध्यति \।\।९९\।\।
 
@@ -5813,13 +4531,9 @@ And they are said to be:\[^FNB000469\]
 
     vākyāntaraṃ\] Od dhārāntaraṃ
 
-
-
 [^FNA003456]:
 
     kiṃ … mṛgyam\] R2 R3 *deest*
-
-
 
 *अथ गृहस्नानविधिः[^FNA003457]*
 
@@ -5827,29 +4541,21 @@ And they are said to be:\[^FNB000469\]
 
     vidhiḥ\] R3 *add*. 4
 
-
-
 स्वगृहे वाचरन्[^FNA003458] स्नानं[^FNA003459] प्रक्षाल्याङ्घ्री करौ तथा \।
 
 [^FNA003458]:
 
     vācaran\] R2 Od cācaran : B3 cārcanaṃ
 
-
-
 [^FNA003459]:
 
     snānaṃ\] B1 *om*.
-
-
 
 आचम्यायम्य[^FNA003460] च प्राणान् कृतन्यासो हरिं स्मरेत् \।\।१००\।\।
 
 [^FNA003460]:
 
     āyamya\] Od *gl*. (prāṇāyāmaṃ kṛtvā)
-
-
 
 प्राणान् आयम्य प्राणायामं कृत्वा \।\।१००\।\।
 
@@ -5858,8 +4564,6 @@ And they are said to be:\[^FNB000469\]
 [^FNA003461]:
 
     smṛtvā\] B1 gatvā
-
-
 
 पूर्णे पात्रे समस्तानि तीर्थान्य् आवाहयेत् कृती \।\।१०१\।\।
 
@@ -5871,21 +4575,15 @@ And they are said to be:\[^FNB000469\]
 
     cāyam\] R2 tv ayam
 
-
-
 नर्मदे सिन्धो कावेरि जले[^FNA003463] ऽस्मिन् सन्निधिं कुरु \।\। इति[^FNA003464] \।\।१०२\।\।
 
 [^FNA003463]:
 
     jale\] R1 yajñe
 
-
-
 [^FNA003464]:
 
     iti\] R3 *deest*
-
-
 
 अथवा जाह्नवीम् एव सर्वतीर्थमयीं बुधः \।
 
@@ -5895,8 +4593,6 @@ And they are said to be:\[^FNB000469\]
 
     jalabhājane\] Od *gl*. (pātre)
 
-
-
 तानि चोक्तानि—[^FNA003466]
 
 नलिनी नन्दिनी सीता मालिनी च महापगा \।
@@ -5904,7 +4600,6 @@ And they are said to be:\[^FNB000469\]
 [^FNA003466]:
 
     tāni coktāni\] Edd dvādaśanāmāni
-
 
 </details>
 
@@ -5916,13 +4611,9 @@ And they are said to be:\[^FNB000469\]
 
     ārghya\] B3 *a.c*. -ābja-
 
-
-
 [^FNA003468]:
 
     gāminī\] Od *add*. tato gaṅgādikam \|
-
-
 
 भागीरथी भोगवती जाह्नवी त्रिदशेश्वरी \।\।१०४\।\।
 
@@ -5932,13 +4623,9 @@ And they are said to be:\[^FNB000469\]
 
     padmapurāṇe\] R2 pādme
 
-
-
 [^FNA003470]:
 
     ca\] R2 B2 Od *deest*
-
-
 
 नन्दिनीत्य् एव ते नाम वेदेषु[^FNA003471] नलिनीति च \।
 
@@ -5946,33 +4633,23 @@ And they are said to be:\[^FNB000469\]
 
     vedeṣu\] Va B3 *p.c*. Od deveṣu
 
-
-
 दक्षा[^FNA003472] पृथ्वी च विहगा[^FNA003473] विश्वनाथा[^FNA003474][^FNA003475] शिवामृता \।\।१०५\।\।
 
 [^FNA003472]:
 
     dakṣā\] B2 vṛkṣā : Od² *i.m*. buddhā
 
-
-
 [^FNA003473]:
 
     vihagā\] B2 subhagā
-
-
 
 [^FNA003474]:
 
     viśvanāthā\] Od² *i.m*. viśvakāyā
 
-
-
 [^FNA003475]:
 
     nāthā\] B2 -kāyā
-
-
 
 विद्याधरी महादेवी तथा लोकप्रसादनी[^FNA003476] \।
 
@@ -5980,33 +4657,23 @@ And they are said to be:\[^FNB000469\]
 
     prasādanī\] B2 -prasādinī
 
-
-
 क्षेमावती[^FNA003477] जाह्नवी च[^FNA003478][^FNA003479] शान्ता शान्तिप्रदायिनी \।\। इति[^FNA003480] \।\।१०६\।\।
 
 [^FNA003477]:
 
     kṣemāvatī\] B3 kṣamāvatī
 
-
-
 [^FNA003478]:
 
     kṣemāvatī … ca\] B2 kṣamā ca jāhnavī caiva
-
-
 
 [^FNA003479]:
 
     ca\] B1 vā
 
-
-
 [^FNA003480]:
 
     iti\] R1 B3 *deest* : B2 Od *add*. ca
-
-
 
 अथाचम्य गुरुं स्मृत्वानुज्ञां प्रार्थ्य च पूर्ववत् \।
 
@@ -6016,21 +4683,15 @@ And they are said to be:\[^FNB000469\]
 
     kṛṣṇa\] Od viṣṇu-
 
-
-
 पूर्ववद् इति देवदेव जगन्नाथेत्य् अनुज्ञां प्रार्थ्येत्य्[^FNA003482] अर्थः[^FNA003483] \।\।१०७\।\।
 
 [^FNA003482]:
 
     prārthyety\] B1 prārthya
 
-
-
 [^FNA003483]:
 
     arthaḥ\] B1 *deest*
-
-
 
 तथा चोक्तं श्री[^FNA003484]नारदपञ्चरात्रे—[^FNA003485]
 
@@ -6038,21 +4699,15 @@ And they are said to be:\[^FNB000469\]
 
     śrī\] B2 *deest*
 
-
-
 स्वस्थितं पुण्डरीकाक्षं मन्त्र[^FNA003486]मूर्तिं प्रभुं स्मरेत् \।
 
 [^FNA003485]:
 
     pañcarātre\] R3 B1 B3 *add*. gautamīye ca
 
-
-
 [^FNA003486]:
 
     mantra\] B2 mantraṃ
-
-
 
 अनन्तादित्यसङ्काशं वासुदेवं चतुर्भुजम् \।\।१०८\।\।
 
@@ -6064,13 +4719,9 @@ And they are said to be:\[^FNB000469\]
 
     prasannaṃ\] Pa B3 Od prasanna-
 
-
-
 [^FNA003488]:
 
     varadekṣaṇam\] R3 vadanekṣaṇam
-
-
 
 दिव्यचन्दनलिप्ताङ्गं चारुहासमुखाम्बुजम् \।
 
@@ -6080,15 +4731,11 @@ And they are said to be:\[^FNB000469\]
 
     sañchinna\] V2 -sañchinnaṃ
 
-
-
 वनमालापरि[^FNA003490]वृतं नारदादिभिर् अर्चितम् \।
 
 [^FNA003490]:
 
     pari\] V1² *i.m*.
-
-
 
 केयूरवलयोपेतं सुवर्णमुकुटोज्ज्वलम् \।
 
@@ -6100,14 +4747,11 @@ And they are said to be:\[^FNB000469\]
 
     paṅkajād\] R1 Pa -paṅkajā-
 
-
-
 चिन्तयेद् ब्रह्मरन्ध्रेण प्रविशन्तीं स्वकां[^FNA003492] तनुम् \।
 
 [^FNA003492]:
 
     svakāṃ\] B2 svakīṃ
-
 
 </details>
 
@@ -6136,13 +4780,9 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     ārghya\] B3 *a.c*. -ābja-
 
-
-
 [^FNA003468]:
 
     gāminī\] Od *add*. tato gaṅgādikam \|
-
-
 
 भागीरथी भोगवती जाह्नवी त्रिदशेश्वरी \।\।१०४\।\।
 
@@ -6152,13 +4792,9 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     padmapurāṇe\] R2 pādme
 
-
-
 [^FNA003470]:
 
     ca\] R2 B2 Od *deest*
-
-
 
 नन्दिनीत्य् एव ते नाम वेदेषु[^FNA003471] नलिनीति च \।
 
@@ -6166,33 +4802,23 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     vedeṣu\] Va B3 *p.c*. Od deveṣu
 
-
-
 दक्षा[^FNA003472] पृथ्वी च विहगा[^FNA003473] विश्वनाथा[^FNA003474][^FNA003475] शिवामृता \।\।१०५\।\।
 
 [^FNA003472]:
 
     dakṣā\] B2 vṛkṣā : Od² *i.m*. buddhā
 
-
-
 [^FNA003473]:
 
     vihagā\] B2 subhagā
-
-
 
 [^FNA003474]:
 
     viśvanāthā\] Od² *i.m*. viśvakāyā
 
-
-
 [^FNA003475]:
 
     nāthā\] B2 -kāyā
-
-
 
 विद्याधरी महादेवी तथा लोकप्रसादनी[^FNA003476] \।
 
@@ -6200,33 +4826,23 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     prasādanī\] B2 -prasādinī
 
-
-
 क्षेमावती[^FNA003477] जाह्नवी च[^FNA003478][^FNA003479] शान्ता शान्तिप्रदायिनी \।\। इति[^FNA003480] \।\।१०६\।\।
 
 [^FNA003477]:
 
     kṣemāvatī\] B3 kṣamāvatī
 
-
-
 [^FNA003478]:
 
     kṣemāvatī … ca\] B2 kṣamā ca jāhnavī caiva
-
-
 
 [^FNA003479]:
 
     ca\] B1 vā
 
-
-
 [^FNA003480]:
 
     iti\] R1 B3 *deest* : B2 Od *add*. ca
-
-
 
 अथाचम्य गुरुं स्मृत्वानुज्ञां प्रार्थ्य च पूर्ववत् \।
 
@@ -6236,21 +4852,15 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     kṛṣṇa\] Od viṣṇu-
 
-
-
 पूर्ववद् इति देवदेव जगन्नाथेत्य् अनुज्ञां प्रार्थ्येत्य्[^FNA003482] अर्थः[^FNA003483] \।\।१०७\।\।
 
 [^FNA003482]:
 
     prārthyety\] B1 prārthya
 
-
-
 [^FNA003483]:
 
     arthaḥ\] B1 *deest*
-
-
 
 तथा चोक्तं श्री[^FNA003484]नारदपञ्चरात्रे—[^FNA003485]
 
@@ -6258,21 +4868,15 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     śrī\] B2 *deest*
 
-
-
 स्वस्थितं पुण्डरीकाक्षं मन्त्र[^FNA003486]मूर्तिं प्रभुं स्मरेत् \।
 
 [^FNA003485]:
 
     pañcarātre\] R3 B1 B3 *add*. gautamīye ca
 
-
-
 [^FNA003486]:
 
     mantra\] B2 mantraṃ
-
-
 
 अनन्तादित्यसङ्काशं वासुदेवं चतुर्भुजम् \।\।१०८\।\।
 
@@ -6284,13 +4888,9 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     prasannaṃ\] Pa B3 Od prasanna-
 
-
-
 [^FNA003488]:
 
     varadekṣaṇam\] R3 vadanekṣaṇam
-
-
 
 दिव्यचन्दनलिप्ताङ्गं चारुहासमुखाम्बुजम् \।
 
@@ -6300,15 +4900,11 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     sañchinna\] V2 -sañchinnaṃ
 
-
-
 वनमालापरि[^FNA003490]वृतं नारदादिभिर् अर्चितम् \।
 
 [^FNA003490]:
 
     pari\] V1² *i.m*.
-
-
 
 केयूरवलयोपेतं सुवर्णमुकुटोज्ज्वलम् \।
 
@@ -6320,14 +4916,11 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     paṅkajād\] R1 Pa -paṅkajā-
 
-
-
 चिन्तयेद् ब्रह्मरन्ध्रेण प्रविशन्तीं स्वकां[^FNA003492] तनुम् \।
 
 [^FNA003492]:
 
     svakāṃ\] B2 svakīṃ
-
 
 </details>
 
@@ -6341,29 +4934,21 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     virajā\] Od *gl*. (vigatarajo jāyate arthāt rajoguṇarahitā)
 
-
-
 इदं स्नानवरं[^FNA003494] मान्त्रात्[^FNA003495] सहस्रम् अधिकं स्मृतम् \।\। इति \।\।११३\।\।
 
 [^FNA003494]:
 
     varaṃ\] B2 Od -karaṃ
 
-
-
 [^FNA003495]:
 
     māntrāt\] R1 mantrān : B2 Od mantraṃ
-
-
 
 सकृन् नारायणेत्यादि वचनात्[^FNA003496] तत्र कीर्तयेत् \।
 
 [^FNA003496]:
 
     vacanāt\] Pa B2 Od Edd vacanaṃ
-
-
 
 स्नानकाले तु तन्नाम संस्मरेच् च महाप्रभुम् \।\।११४\।\।
 
@@ -6373,13 +4958,9 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     uktveti\] Edd ādy uktvā
 
-
-
 [^FNA003498]:
 
     nāma\] B2 *om*.
-
-
 
 तथा च कूर्म[^FNA003499]पुराणे—[^FNA003500]
 
@@ -6387,27 +4968,19 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     kūrma\] Va kaurma-
 
-
-
 आपो नारायणोद्भूतास् ता एवास्यायनं यतः[^FNA003501][^FNA003502] \।
 
 [^FNA003500]:
 
     tathā … purāṇe\] B1 *deest*
 
-
-
 [^FNA003501]:
 
     āpo … yataḥ\] Od *gl*. (āpaḥ tasya nārāyaṇasya ’yanam āśrayanaḥ)
 
-
-
 [^FNA003502]:
 
     tā … yataḥ\] B2 tatra vāsyālayaṃ yataḥ
-
-
 
 तस्मान् नारायणं देवं स्नानकाले स्मरेद् बुधः \।\। इति[^FNA003503] \।\।११५\।\।
 
@@ -6415,21 +4988,15 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     iti\] B2 B3 Od *deest*
 
-
-
 स्नायाद् उष्णोदकेनापि शक्तो ऽप्य् आमलकैस्[^FNA003504][^FNA003505] तथा \।
 
 [^FNA003504]:
 
     śakto … āmalakais\] B2 yukto ’thāmalakais
 
-
-
 [^FNA003505]:
 
     py āmalakais\] R1 R3 ’thāmalakais
-
-
 
 तिलैस् तैलैश् च संवर्ज्य प्रतिषिद्धदिनानि तु \।\।११६\।\।
 
@@ -6439,25 +5006,17 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     śakto\] B2 *deest*
 
-
-
 [^FNA003507]:
 
     hīno\] B1 -rahito
-
-
 
 [^FNA003508]:
 
     asnātam\] V2 āsnātam
 
-
-
 [^FNA003509]:
 
     lekhyāni\] B2 *add*. śrīśrīhariḥ
-
-
 
 *अथोष्णोदकस्नानम्*
 
@@ -6469,13 +5028,9 @@ This is also said in the Nārada Pañcarātra:\[^FNB000472\]
 
     ṣaṭtriṃśanmate\] B2 ṣaṭṭriṃśate
 
-
-
 [^FNA003511]:
 
     medhyā\] Od *gl*. (pavitrā)
-
-
 
 तेन सन्तः प्रशंसन्ति स्नानम् उष्णेन वारिणा \।\।११७\।\।
 </details>
@@ -6513,29 +5068,21 @@ In the Ṣaṭtriṃśanmata:
 
     virajā\] Od *gl*. (vigatarajo jāyate arthāt rajoguṇarahitā)
 
-
-
 इदं स्नानवरं[^FNA003494] मान्त्रात्[^FNA003495] सहस्रम् अधिकं स्मृतम् \।\। इति \।\।११३\।\।
 
 [^FNA003494]:
 
     varaṃ\] B2 Od -karaṃ
 
-
-
 [^FNA003495]:
 
     māntrāt\] R1 mantrān : B2 Od mantraṃ
-
-
 
 सकृन् नारायणेत्यादि वचनात्[^FNA003496] तत्र कीर्तयेत् \।
 
 [^FNA003496]:
 
     vacanāt\] Pa B2 Od Edd vacanaṃ
-
-
 
 स्नानकाले तु तन्नाम संस्मरेच् च महाप्रभुम् \।\।११४\।\।
 
@@ -6545,13 +5092,9 @@ In the Ṣaṭtriṃśanmata:
 
     uktveti\] Edd ādy uktvā
 
-
-
 [^FNA003498]:
 
     nāma\] B2 *om*.
-
-
 
 तथा च कूर्म[^FNA003499]पुराणे—[^FNA003500]
 
@@ -6559,27 +5102,19 @@ In the Ṣaṭtriṃśanmata:
 
     kūrma\] Va kaurma-
 
-
-
 आपो नारायणोद्भूतास् ता एवास्यायनं यतः[^FNA003501][^FNA003502] \।
 
 [^FNA003500]:
 
     tathā … purāṇe\] B1 *deest*
 
-
-
 [^FNA003501]:
 
     āpo … yataḥ\] Od *gl*. (āpaḥ tasya nārāyaṇasya ’yanam āśrayanaḥ)
 
-
-
 [^FNA003502]:
 
     tā … yataḥ\] B2 tatra vāsyālayaṃ yataḥ
-
-
 
 तस्मान् नारायणं देवं स्नानकाले स्मरेद् बुधः \।\। इति[^FNA003503] \।\।११५\।\।
 
@@ -6587,21 +5122,15 @@ In the Ṣaṭtriṃśanmata:
 
     iti\] B2 B3 Od *deest*
 
-
-
 स्नायाद् उष्णोदकेनापि शक्तो ऽप्य् आमलकैस्[^FNA003504][^FNA003505] तथा \।
 
 [^FNA003504]:
 
     śakto … āmalakais\] B2 yukto ’thāmalakais
 
-
-
 [^FNA003505]:
 
     py āmalakais\] R1 R3 ’thāmalakais
-
-
 
 तिलैस् तैलैश् च संवर्ज्य प्रतिषिद्धदिनानि तु \।\।११६\।\।
 
@@ -6611,25 +5140,17 @@ In the Ṣaṭtriṃśanmata:
 
     śakto\] B2 *deest*
 
-
-
 [^FNA003507]:
 
     hīno\] B1 -rahito
-
-
 
 [^FNA003508]:
 
     asnātam\] V2 āsnātam
 
-
-
 [^FNA003509]:
 
     lekhyāni\] B2 *add*. śrīśrīhariḥ
-
-
 
 *अथोष्णोदकस्नानम्*
 
@@ -6641,13 +5162,9 @@ In the Ṣaṭtriṃśanmata:
 
     ṣaṭtriṃśanmate\] B2 ṣaṭṭriṃśate
 
-
-
 [^FNA003511]:
 
     medhyā\] Od *gl*. (pavitrā)
-
-
 
 तेन सन्तः प्रशंसन्ति स्नानम् उष्णेन वारिणा \।\।११७\।\।
 </details>
@@ -6662,8 +5179,6 @@ In the Ṣaṭtriṃśanmata:
 
     ca\] B1 B2 Od *deest*
 
-
-
 तस्मात् सर्वेषु कालेषु उष्णाम्भः पावनं स्मृतम् \।\।११८\।\।
 
 यच्[^FNA003513] चोक्तं[^FNA003514] शङ्खेन—
@@ -6672,13 +5187,9 @@ In the Ṣaṭtriṃśanmata:
 
     yac\] B1 B3 tac
 
-
-
 [^FNA003514]:
 
     yac coktaṃ\] B2 yathoktaṃ
-
-
 
 स्नातस्य वह्नितप्तेन तथैवातपवारिणा[^FNA003515] \।
 
@@ -6686,15 +5197,11 @@ In the Ṣaṭtriṃśanmata:
 
     ātapavāriṇā\] Od *gl*. (sūryakiraṇavāriṇā)
 
-
-
 शरीरशुद्धिर् विज्ञेया न तु स्नानफलं भवेत् \।\। इति[^FNA003516] \।\।११९\।\।
 
 [^FNA003516]:
 
     iti\] Va B3 *deest*
-
-
 
 तत् तु काम्यनैमित्तिकविषयम् \। अत एवोक्तं गर्गेण—
 
@@ -6704,13 +5211,9 @@ In the Ṣaṭtriṃśanmata:
 
     śītādbhiḥ\] Od *gl*. (śītalajalaiḥ)
 
-
-
 [^FNA003518]:
 
     kāmyam\] B2 kāmya
-
-
 
 नित्यं यादृच्छिकं चैव यथारुचि समाचरेत्[^FNA003519] \।\।१२०\।\।
 
@@ -6718,21 +5221,15 @@ In the Ṣaṭtriṃśanmata:
 
     yathāruci samācaret\] B1 snāyād uṣṇavāriṇā
 
-
-
 नित्य[^FNA003520]स्नानं च यादृच्छिकम् अनियतम् \। अतो निजरुच्यनुसारेण शीताभिर् उष्णाभिर् वाद्भिस् तत् कुर्याद् इत्य् अर्थः \। यादृच्छिकं सुखार्थस्नानम् इति वा[^FNA003521] \।\।१२०\।\।
 
 [^FNA003520]:
 
     nitya\] V2 B2 B3 nityaṃ
 
-
-
 [^FNA003521]:
 
     vā\] B3 *deest*
-
-
 
 *अथ तत्र निषिद्धदिनानि*
 
@@ -6745,8 +5242,6 @@ In the Ṣaṭtriṃśanmata:
 [^FNA003522]:
 
     caiva\] B2 naiva
-
-
 
 वृद्धमनुः—
 
@@ -6792,8 +5287,6 @@ The elder Manu:
 
     ca\] B1 B2 Od *deest*
 
-
-
 तस्मात् सर्वेषु कालेषु उष्णाम्भः पावनं स्मृतम् \।\।११८\।\।
 
 यच्[^FNA003513] चोक्तं[^FNA003514] शङ्खेन—
@@ -6802,13 +5295,9 @@ The elder Manu:
 
     yac\] B1 B3 tac
 
-
-
 [^FNA003514]:
 
     yac coktaṃ\] B2 yathoktaṃ
-
-
 
 स्नातस्य वह्नितप्तेन तथैवातपवारिणा[^FNA003515] \।
 
@@ -6816,15 +5305,11 @@ The elder Manu:
 
     ātapavāriṇā\] Od *gl*. (sūryakiraṇavāriṇā)
 
-
-
 शरीरशुद्धिर् विज्ञेया न तु स्नानफलं भवेत् \।\। इति[^FNA003516] \।\।११९\।\।
 
 [^FNA003516]:
 
     iti\] Va B3 *deest*
-
-
 
 तत् तु काम्यनैमित्तिकविषयम् \। अत एवोक्तं गर्गेण—
 
@@ -6834,13 +5319,9 @@ The elder Manu:
 
     śītādbhiḥ\] Od *gl*. (śītalajalaiḥ)
 
-
-
 [^FNA003518]:
 
     kāmyam\] B2 kāmya
-
-
 
 नित्यं यादृच्छिकं चैव यथारुचि समाचरेत्[^FNA003519] \।\।१२०\।\।
 
@@ -6848,21 +5329,15 @@ The elder Manu:
 
     yathāruci samācaret\] B1 snāyād uṣṇavāriṇā
 
-
-
 नित्य[^FNA003520]स्नानं च यादृच्छिकम् अनियतम् \। अतो निजरुच्यनुसारेण शीताभिर् उष्णाभिर् वाद्भिस् तत् कुर्याद् इत्य् अर्थः \। यादृच्छिकं सुखार्थस्नानम् इति वा[^FNA003521] \।\।१२०\।\।
 
 [^FNA003520]:
 
     nitya\] V2 B2 B3 nityaṃ
 
-
-
 [^FNA003521]:
 
     vā\] B3 *deest*
-
-
 
 *अथ तत्र निषिद्धदिनानि*
 
@@ -6875,8 +5350,6 @@ The elder Manu:
 [^FNA003522]:
 
     caiva\] B2 naiva
-
-
 
 वृद्धमनुः—
 
@@ -6893,15 +5366,11 @@ The elder Manu:
 
     athāmalaka\] B2 athāmalakaiḥ
 
-
-
 तत्र श्री[^FNA003524]मार्कण्डेयः—[^FNA003525]
 
 [^FNA003524]:
 
     śrī\] V2 B2 B3 Edd *deest*
-
-
 
 तुष्यत्य्[^FNA003526] आमलकैर् विष्णुर् एकादश्यां विशेषतः \।
 
@@ -6909,13 +5378,9 @@ The elder Manu:
 
     mārkaṇḍeyaḥ\] B3 mārkaṇḍeyapurāṇe
 
-
-
 [^FNA003526]:
 
     tuṣyaty\] B2 tulasy-
-
-
 
 श्रीकामः सर्वदा स्नानं कुर्वीतामलकैर्[^FNA003527] नरः \।\।१२३\।\।
 
@@ -6923,15 +5388,11 @@ The elder Manu:
 
     kurvītāmalakair\] V2 karoty āmalakair
 
-
-
 सप्तम्यां न स्पृशेत् तैलं नीली[^FNA003528]वस्त्रं न धारयेत् \।
 
 [^FNA003528]:
 
     nīlī\] R1 R3 Va B1 B3 Od nīla-
-
-
 
 न चाप्य् आमलकैः स्नायान् न कुर्यात् कलहं नरः \।\।१२४\।\।
 
@@ -6945,13 +5406,9 @@ The elder Manu:
 
     ravivāre ca\] R1 ravivāreṇa
 
-
-
 [^FNA003530]:
 
     āmalakais tyajet\] V1 *om*.
-
-
 
 याज्ञवल्क्यः—[^FNA003531]
 
@@ -6961,21 +5418,15 @@ The elder Manu:
 
     yājñavalkyaḥ\] V1 R1 R2 Pa B3 *add*. ca
 
-
-
 यः स्नायात् तस्य हीयन्ते[^FNA003532] तेजश् चायुर् धनं सुताः[^FNA003533] \।\।१२६\।\।
 
 [^FNA003532]:
 
     hīyante\] B2 hīyate na
 
-
-
 [^FNA003533]:
 
     sutāḥ\] B2 sutān
-
-
 
 *अथ तिलस्नानम्*
 
@@ -6992,7 +5443,6 @@ The elder Manu:
 [^FNA003534]:
 
     spṛṣṭaṃ\] R3 -piṣṭaṃ : Od *gl*. (jalam)
-
 
 </details>
 
@@ -7031,15 +5481,11 @@ In the Ṣaṭtriṃśanmata:
 
     athāmalaka\] B2 athāmalakaiḥ
 
-
-
 तत्र श्री[^FNA003524]मार्कण्डेयः—[^FNA003525]
 
 [^FNA003524]:
 
     śrī\] V2 B2 B3 Edd *deest*
-
-
 
 तुष्यत्य्[^FNA003526] आमलकैर् विष्णुर् एकादश्यां विशेषतः \।
 
@@ -7047,13 +5493,9 @@ In the Ṣaṭtriṃśanmata:
 
     mārkaṇḍeyaḥ\] B3 mārkaṇḍeyapurāṇe
 
-
-
 [^FNA003526]:
 
     tuṣyaty\] B2 tulasy-
-
-
 
 श्रीकामः सर्वदा स्नानं कुर्वीतामलकैर्[^FNA003527] नरः \।\।१२३\।\।
 
@@ -7061,15 +5503,11 @@ In the Ṣaṭtriṃśanmata:
 
     kurvītāmalakair\] V2 karoty āmalakair
 
-
-
 सप्तम्यां न स्पृशेत् तैलं नीली[^FNA003528]वस्त्रं न धारयेत् \।
 
 [^FNA003528]:
 
     nīlī\] R1 R3 Va B1 B3 Od nīla-
-
-
 
 न चाप्य् आमलकैः स्नायान् न कुर्यात् कलहं नरः \।\।१२४\।\।
 
@@ -7083,13 +5521,9 @@ In the Ṣaṭtriṃśanmata:
 
     ravivāre ca\] R1 ravivāreṇa
 
-
-
 [^FNA003530]:
 
     āmalakais tyajet\] V1 *om*.
-
-
 
 याज्ञवल्क्यः—[^FNA003531]
 
@@ -7099,21 +5533,15 @@ In the Ṣaṭtriṃśanmata:
 
     yājñavalkyaḥ\] V1 R1 R2 Pa B3 *add*. ca
 
-
-
 यः स्नायात् तस्य हीयन्ते[^FNA003532] तेजश् चायुर् धनं सुताः[^FNA003533] \।\।१२६\।\।
 
 [^FNA003532]:
 
     hīyante\] B2 hīyate na
 
-
-
 [^FNA003533]:
 
     sutāḥ\] B2 sutān
-
-
 
 *अथ तिलस्नानम्*
 
@@ -7131,7 +5559,6 @@ In the Ṣaṭtriṃśanmata:
 
     spṛṣṭaṃ\] R3 -piṣṭaṃ : Od *gl*. (jalam)
 
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -7146,23 +5573,17 @@ In the Ṣaṭtriṃśanmata:
 
     ṣaṣṭhyāṃ\] B2 ṣaṣṭhī
 
-
-
 योगि[^FNA003536]याज्ञवल्क्यः—
 
 [^FNA003536]:
 
     yogi\] V1 R2 R3 Pa Va B3 yoga- : V2 R1 B2 yogī-
 
-
-
 दशम्यां तैलम् अस्पृष्ट्वा यः स्नायाद् अविचक्षणः[^FNA003537] \।
 
 [^FNA003537]:
 
     avicakṣaṇaḥ\] B2 api vicakṣaṇaḥ
-
-
 
 चत्वारि तस्य नश्यन्ति आयुः प्रज्ञा यशो धनम् \।\।१३०\।\।
 
@@ -7172,15 +5593,11 @@ In the Ṣaṭtriṃśanmata:
 
     ṃ tailasnānasyā\] B2 *deest*
 
-
-
 मोहात् प्रतिपदं षष्ठीं कुहूं रिक्तां[^FNA003539] तिथिं तथा \।
 
 [^FNA003539]:
 
     riktāṃ\] V2 Edd riktā-
-
-
 
 तैलेनाभ्यञ्जयेद् यस् तु चतुर्भिः परिहीयते \।\।१३१\।\।
 
@@ -7190,13 +5607,9 @@ In the Ṣaṭtriṃśanmata:
 
     āyur\] B2 vāyur-
 
-
-
 [^FNA003541]:
 
     caturbhiḥ … ādibhiḥ\] B1 *deest*
-
-
 
 पञ्चदश्यां चतुर्दश्यां सप्तम्यां[^FNA003542] रविसंक्रमे \।
 
@@ -7204,15 +5617,11 @@ In the Ṣaṭtriṃśanmata:
 
     saptamyāṃ\] Pa navamyāṃ
 
-
-
 द्वादश्यां सप्तमीं षष्ठीं[^FNA003543] तैलस्पर्शं विवर्जयेत् \।\।१३२\।\।
 
 [^FNA003543]:
 
     ṣaṣṭhīṃ\] Pa tailaṣaṣṭhīṃ
-
-
 
 अन्यच् च—
 
@@ -7223,8 +5632,6 @@ In the Ṣaṭtriṃśanmata:
 [^FNA003544]:
 
     amāvasyāṃ\] R1 āvāsyāṃ ca
-
-
 
 विशेषत इत्य् अनेन सप्तम्यादौ तैलत्यागावश्यकताभिप्रेता \।\।१३३\।\।
 
@@ -7272,23 +5679,17 @@ Moreover:
 
     ṣaṣṭhyāṃ\] B2 ṣaṣṭhī
 
-
-
 योगि[^FNA003536]याज्ञवल्क्यः—
 
 [^FNA003536]:
 
     yogi\] V1 R2 R3 Pa Va B3 yoga- : V2 R1 B2 yogī-
 
-
-
 दशम्यां तैलम् अस्पृष्ट्वा यः स्नायाद् अविचक्षणः[^FNA003537] \।
 
 [^FNA003537]:
 
     avicakṣaṇaḥ\] B2 api vicakṣaṇaḥ
-
-
 
 चत्वारि तस्य नश्यन्ति आयुः प्रज्ञा यशो धनम् \।\।१३०\।\।
 
@@ -7298,15 +5699,11 @@ Moreover:
 
     ṃ tailasnānasyā\] B2 *deest*
 
-
-
 मोहात् प्रतिपदं षष्ठीं कुहूं रिक्तां[^FNA003539] तिथिं तथा \।
 
 [^FNA003539]:
 
     riktāṃ\] V2 Edd riktā-
-
-
 
 तैलेनाभ्यञ्जयेद् यस् तु चतुर्भिः परिहीयते \।\।१३१\।\।
 
@@ -7316,13 +5713,9 @@ Moreover:
 
     āyur\] B2 vāyur-
 
-
-
 [^FNA003541]:
 
     caturbhiḥ … ādibhiḥ\] B1 *deest*
-
-
 
 पञ्चदश्यां चतुर्दश्यां सप्तम्यां[^FNA003542] रविसंक्रमे \।
 
@@ -7330,15 +5723,11 @@ Moreover:
 
     saptamyāṃ\] Pa navamyāṃ
 
-
-
 द्वादश्यां सप्तमीं षष्ठीं[^FNA003543] तैलस्पर्शं विवर्जयेत् \।\।१३२\।\।
 
 [^FNA003543]:
 
     ṣaṣṭhīṃ\] Pa tailaṣaṣṭhīṃ
-
-
 
 अन्यच् च—
 
@@ -7349,8 +5738,6 @@ Moreover:
 [^FNA003544]:
 
     amāvasyāṃ\] R1 āvāsyāṃ ca
-
-
 
 विशेषत इत्य् अनेन सप्तम्यादौ तैलत्यागावश्यकताभिप्रेता \।\।१३३\।\।
 
@@ -7367,13 +5754,9 @@ Moreover:
 
     pakva\] V1 pāka- : V2 B2 pākaṃ
 
-
-
 [^FNA003546]:
 
     ca\] V1 *deest*
-
-
 
 किं च अत्रिस्मृतौ—
 
@@ -7383,13 +5766,9 @@ Moreover:
 
     tailābhyakto\] B2 *a.c*. tailābhyaṅge
 
-
-
 [^FNA003548]:
 
     ghṛtābhyakto\] B2 *a.c*. ghṛtābhyaṅge
-
-
 
 अहोरात्रोषितो[^FNA003549] भूत्वा पञ्चगव्येन शुध्यति \।\। इति[^FNA003550] \।\।१३५\।\।
 
@@ -7397,13 +5776,9 @@ Moreover:
 
     oṣito\] Od *gl*. (upoṣita)
 
-
-
 [^FNA003550]:
 
     iti\] V1 Edd *deest*
-
-
 
 कृततैलाभ्यङ्गस् तु[^FNA003551] विण्मूत्रोत्सर्गं न कुर्याद् इति प्रसङ्गाल् लिखति तैलेति \। अहोरात्रम् उषित उपोषितो भूत्वा पञ्चगव्यपानेन शुद्धो भवेत् \। पाठान्तरे तु अन्त्यजस्पर्शं तदानीं यत्नेन वर्जयेद् इति भावः[^FNA003552] \।\।१३५\।\।
 
@@ -7411,13 +5786,9 @@ Moreover:
 
     tu\] B2 *deest*
 
-
-
 [^FNA003552]:
 
     bhāvaḥ\] B2 *add*. śrśrī govinda gopāla jayati \| śrīśrī hariḥ \|
-
-
 
 अथाङ्गम् अलम् उत्तार्य[^FNA003553] स्नात्वा विधिवद् आचरेत् \।
 
@@ -7425,29 +5796,21 @@ Moreover:
 
     uttārya\] B2 utsṛjya
 
-
-
 नासालग्नेन चुलुकोदकेनैवाघ[^FNA003554][^FNA003555]मर्षणम् \।\।१३६\।\।
 
 [^FNA003554]:
 
     nāsālagnena culukodakenaivāgha\] B2 nāsālagnenodakena ghrātvā vaivāgha-
 
-
-
 [^FNA003555]:
 
     culukodakenaivāgha\] Pa culukodevo naivāgha-
-
-
 
 ततो गुर्वादिपादोदैः[^FNA003556] प्राग्वत् कृत्वाभिषेचनम् \।
 
 [^FNA003556]:
 
     gurv … pādodaiḥ\] Od *gl*. (gurvādipādodakaiḥ karaṇaiḥ)
-
-
 
 कार्यो ऽभिषेकः शङ्खेन तुलसीमिश्रितैर् जलैः \।\।१३७\।\।
 
@@ -7457,8 +5820,6 @@ Moreover:
 
     tulasī\] V1 R1 R3 Pa Va *ante* śrī-
 
-
-
 गारुडे—
 
 मार्जयत्य् अभिषेके तु[^FNA003558] तुलस्या वैष्णवो नरः[^FNA003559] \।
@@ -7467,13 +5828,9 @@ Moreover:
 
     abhiṣeke tu\] B2 abhiṣekena
 
-
-
 [^FNA003559]:
 
     naraḥ\] B1 janaḥ
-
-
 
 सर्वतीर्थमयं देहं तत्क्षणाद्[^FNA003560] द्विज जायते \।\।१३८\।\।
 
@@ -7481,15 +5838,11 @@ Moreover:
 
     tatkṣaṇād\] Od bhakṣaṇād
 
-
-
 तुलसीदलज[^FNA003561]स्नाने एकादश्यां विशेषतः \।
 
 [^FNA003561]:
 
     ja\] R1 Pa -jala- : Od -je
-
-
 
 मुच्यते सर्वपापेभ्यो यद्य् अपि ब्रह्महा भवेत् \।\।१३९\।\।
 
@@ -7503,13 +5856,9 @@ Moreover:
 
     dala\] R1 Od -jala-
 
-
-
 [^FNA003563]:
 
     samaṃ\] B3 -mayaṃ
-
-
 
 यो वहेच् छिरसा नित्यं धृता[^FNA003564] भवति जाह्नवी[^FNA003565] \।\।१४१\।\।
 
@@ -7517,12 +5866,9 @@ Moreover:
 
     dhṛtā\] R3 dhṛtvā
 
-
-
 [^FNA003565]:
 
     tulasī … jāhnavī\] V2 B2 *deest* : V2² *i.m*.
-
 
 </details>
 
@@ -7557,13 +5903,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     pakva\] V1 pāka- : V2 B2 pākaṃ
 
-
-
 [^FNA003546]:
 
     ca\] V1 *deest*
-
-
 
 किं च अत्रिस्मृतौ—
 
@@ -7573,13 +5915,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     tailābhyakto\] B2 *a.c*. tailābhyaṅge
 
-
-
 [^FNA003548]:
 
     ghṛtābhyakto\] B2 *a.c*. ghṛtābhyaṅge
-
-
 
 अहोरात्रोषितो[^FNA003549] भूत्वा पञ्चगव्येन शुध्यति \।\। इति[^FNA003550] \।\।१३५\।\।
 
@@ -7587,13 +5925,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     oṣito\] Od *gl*. (upoṣita)
 
-
-
 [^FNA003550]:
 
     iti\] V1 Edd *deest*
-
-
 
 कृततैलाभ्यङ्गस् तु[^FNA003551] विण्मूत्रोत्सर्गं न कुर्याद् इति प्रसङ्गाल् लिखति तैलेति \। अहोरात्रम् उषित उपोषितो भूत्वा पञ्चगव्यपानेन शुद्धो भवेत् \। पाठान्तरे तु अन्त्यजस्पर्शं तदानीं यत्नेन वर्जयेद् इति भावः[^FNA003552] \।\।१३५\।\।
 
@@ -7601,13 +5935,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     tu\] B2 *deest*
 
-
-
 [^FNA003552]:
 
     bhāvaḥ\] B2 *add*. śrśrī govinda gopāla jayati \| śrīśrī hariḥ \|
-
-
 
 अथाङ्गम् अलम् उत्तार्य[^FNA003553] स्नात्वा विधिवद् आचरेत् \।
 
@@ -7615,29 +5945,21 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     uttārya\] B2 utsṛjya
 
-
-
 नासालग्नेन चुलुकोदकेनैवाघ[^FNA003554][^FNA003555]मर्षणम् \।\।१३६\।\।
 
 [^FNA003554]:
 
     nāsālagnena culukodakenaivāgha\] B2 nāsālagnenodakena ghrātvā vaivāgha-
 
-
-
 [^FNA003555]:
 
     culukodakenaivāgha\] Pa culukodevo naivāgha-
-
-
 
 ततो गुर्वादिपादोदैः[^FNA003556] प्राग्वत् कृत्वाभिषेचनम् \।
 
 [^FNA003556]:
 
     gurv … pādodaiḥ\] Od *gl*. (gurvādipādodakaiḥ karaṇaiḥ)
-
-
 
 कार्यो ऽभिषेकः शङ्खेन तुलसीमिश्रितैर् जलैः \।\।१३७\।\।
 
@@ -7647,8 +5969,6 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     tulasī\] V1 R1 R3 Pa Va *ante* śrī-
 
-
-
 गारुडे—
 
 मार्जयत्य् अभिषेके तु[^FNA003558] तुलस्या वैष्णवो नरः[^FNA003559] \।
@@ -7657,13 +5977,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     abhiṣeke tu\] B2 abhiṣekena
 
-
-
 [^FNA003559]:
 
     naraḥ\] B1 janaḥ
-
-
 
 सर्वतीर्थमयं देहं तत्क्षणाद्[^FNA003560] द्विज जायते \।\।१३८\।\।
 
@@ -7671,15 +5987,11 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     tatkṣaṇād\] Od bhakṣaṇād
 
-
-
 तुलसीदलज[^FNA003561]स्नाने एकादश्यां विशेषतः \।
 
 [^FNA003561]:
 
     ja\] R1 Pa -jala- : Od -je
-
-
 
 मुच्यते सर्वपापेभ्यो यद्य् अपि ब्रह्महा भवेत् \।\।१३९\।\।
 
@@ -7693,13 +6005,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     dala\] R1 Od -jala-
 
-
-
 [^FNA003563]:
 
     samaṃ\] B3 -mayaṃ
-
-
 
 यो वहेच् छिरसा नित्यं धृता[^FNA003564] भवति जाह्नवी[^FNA003565] \।\।१४१\।\।
 
@@ -7707,12 +6015,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     dhṛtā\] R3 dhṛtvā
 
-
-
 [^FNA003565]:
 
     tulasī … jāhnavī\] V2 B2 *deest* : V2² *i.m*.
-
 
 </details>
 
@@ -7724,13 +6029,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     dala\] Od -jala-
 
-
-
 [^FNA003567]:
 
     yas toyaṃ\] Od *transp*.
-
-
 
 सर्वतीर्थाभिषेकस् तु तेन प्राप्तो न संशयः \।\। इति[^FNA003568][^FNA003569] \।\।१४२\।\।
 
@@ -7738,13 +6039,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     tulasī … iti\] Edd *deest*
 
-
-
 [^FNA003569]:
 
     iti\] V2 B1 B3 *deest*
-
-
 
 पादोदकं ताम्रपात्रे[^FNA003570] कृत्वा स[^FNA003571]तुलसीदलम् \।
 
@@ -7752,13 +6049,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     pādodakaṃ tāmrapātre\] R3 Pa pādodaṃ tāmrapātre ’tha
 
-
-
 [^FNA003571]:
 
     sa\] R1 *om*.
-
-
 
 शङ्खे कृत्वा[^FNA003572]भिषिञ्चेत मूलेनैव[^FNA003573] स्वमूर्धनि \।\।१४३\।\।
 
@@ -7766,13 +6059,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     kṛtvā\] R1 R3 Pa bhṛtvā-
 
-
-
 [^FNA003573]:
 
     mūlenaiva\] Od *gl*. (mūlamantreṇa)
-
-
 
 तन्माहात्म्यं चोक्तं पाद्मे[^FNA003574] कार्त्तिकमाहात्म्ये—
 
@@ -7780,15 +6069,11 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     pādme\] R1 Pa B2 Od padmapurāṇe
 
-
-
 द्वारकाचक्रसंयुक्त[^FNA003575]शालग्रामशिलाजलम् \।
 
 [^FNA003575]:
 
     saṃyukta\] R1 -saṃyuktaṃ : Od -saṃyuktāṃ
-
-
 
 शङ्खे कृत्वा तु[^FNA003576] निक्षिप्तं स्नानार्थं ताम्रभाजने[^FNA003577][^FNA003578] \।
 
@@ -7796,19 +6081,13 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     tu\] V2 R1 B2 ca
 
-
-
 [^FNA003577]:
 
     tāmrabhājane\] Od *gl*. (tāmrapātre)
 
-
-
 [^FNA003578]:
 
     bhājane\] B2 bhājanam
-
-
 
 तुलसीदल[^FNA003579]संयुक्तं ब्रह्महत्याविनाशनम् \।\। इति[^FNA003580] \।\।१४४\।\।
 
@@ -7816,13 +6095,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     dala\] B3 *a.c*. -jala-
 
-
-
 [^FNA003580]:
 
     iti\] B1 *deest*
-
-
 
 स्नानशाटीतरेणैव वाससा[^FNA003581]म्भांसि गात्रतः[^FNA003582] \।
 
@@ -7830,13 +6105,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     vāsasā\] Od *gl*. (vastreṇa)
 
-
-
 [^FNA003582]:
 
     gātrataḥ\] B3 *a.c*. pātrataḥ
-
-
 
 सम्मार्ज्य वाससी दद्यात्[^FNA003583] परिधानोत्तरीयके[^FNA003584] \।\।१४५\।\।
 
@@ -7844,13 +6115,9 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     dadyāt\] Od jahyāt : Od *gl*. (tyājyāt)
 
-
-
 [^FNA003584]:
 
     paridhānottarīyake\] Od *gl*. (vastre yugmaṃ paridhāya)
-
-
 
 स्नानशाट्या इतरेण अन्येन \।\।१४५\।\।
 
@@ -7860,8 +6127,6 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     vidhiḥ\] R3 *add*. 6
 
-
-
 तत्रात्रिः—[^FNA003586]
 
 अधौतं कारु[^FNA003587]धौतं[^FNA003588] वा परेद्युधौतम् एव वा[^FNA003589] \।
@@ -7870,33 +6135,23 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     tatrātriḥ\] R1 tata śatriḥ
 
-
-
 [^FNA003587]:
 
     kāru\] B2 kaci-
-
-
 
 [^FNA003588]:
 
     kārudhautaṃ\] Od *gl*. (rajakadhautam)
 
-
-
 [^FNA003589]:
 
     vā\] V1 R1 Va ca
-
-
 
 काषायं[^FNA003590] मलिनं वस्त्रं कौपीनं च परित्यजेत् \।\।१४६\।\।
 
 [^FNA003590]:
 
     kāṣāyaṃ\] Od *gl*. (raktavastra iti)
-
-
 
 न चार्द्रम् एव वसनं परिदध्यात् कदाचन \।
 
@@ -7908,26 +6163,19 @@ In the Garuḍa Purāṇa (–):\[^FNB000483\]
 
     bhṛguḥ\] Od Edd *deest*
 
-
-
 [^FNA003592]:
 
     malinavastraḥ\] B2 vastamalīnaḥ
 
-
-
 [^FNA003593]:
 
     smṛtaḥ\] Edd tathā
-
-
 
 नग्नो द्विगुणवस्त्रः स्यान्[^FNA003594] नग्नो रक्तपटस् तथा \।\।१४७\।\।
 
 [^FNA003594]:
 
     nagnaś … syān\] V1² *i.m*.
-
 
 </details>
 
@@ -7964,13 +6212,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     dala\] Od -jala-
 
-
-
 [^FNA003567]:
 
     yas toyaṃ\] Od *transp*.
-
-
 
 सर्वतीर्थाभिषेकस् तु तेन प्राप्तो न संशयः \।\। इति[^FNA003568][^FNA003569] \।\।१४२\।\।
 
@@ -7978,13 +6222,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     tulasī … iti\] Edd *deest*
 
-
-
 [^FNA003569]:
 
     iti\] V2 B1 B3 *deest*
-
-
 
 पादोदकं ताम्रपात्रे[^FNA003570] कृत्वा स[^FNA003571]तुलसीदलम् \।
 
@@ -7992,13 +6232,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     pādodakaṃ tāmrapātre\] R3 Pa pādodaṃ tāmrapātre ’tha
 
-
-
 [^FNA003571]:
 
     sa\] R1 *om*.
-
-
 
 शङ्खे कृत्वा[^FNA003572]भिषिञ्चेत मूलेनैव[^FNA003573] स्वमूर्धनि \।\।१४३\।\।
 
@@ -8006,13 +6242,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     kṛtvā\] R1 R3 Pa bhṛtvā-
 
-
-
 [^FNA003573]:
 
     mūlenaiva\] Od *gl*. (mūlamantreṇa)
-
-
 
 तन्माहात्म्यं चोक्तं पाद्मे[^FNA003574] कार्त्तिकमाहात्म्ये—
 
@@ -8020,15 +6252,11 @@ Bhṛgu (–):\[^FNB000485\]
 
     pādme\] R1 Pa B2 Od padmapurāṇe
 
-
-
 द्वारकाचक्रसंयुक्त[^FNA003575]शालग्रामशिलाजलम् \।
 
 [^FNA003575]:
 
     saṃyukta\] R1 -saṃyuktaṃ : Od -saṃyuktāṃ
-
-
 
 शङ्खे कृत्वा तु[^FNA003576] निक्षिप्तं स्नानार्थं ताम्रभाजने[^FNA003577][^FNA003578] \।
 
@@ -8036,19 +6264,13 @@ Bhṛgu (–):\[^FNB000485\]
 
     tu\] V2 R1 B2 ca
 
-
-
 [^FNA003577]:
 
     tāmrabhājane\] Od *gl*. (tāmrapātre)
 
-
-
 [^FNA003578]:
 
     bhājane\] B2 bhājanam
-
-
 
 तुलसीदल[^FNA003579]संयुक्तं ब्रह्महत्याविनाशनम् \।\। इति[^FNA003580] \।\।१४४\।\।
 
@@ -8056,13 +6278,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     dala\] B3 *a.c*. -jala-
 
-
-
 [^FNA003580]:
 
     iti\] B1 *deest*
-
-
 
 स्नानशाटीतरेणैव वाससा[^FNA003581]म्भांसि गात्रतः[^FNA003582] \।
 
@@ -8070,13 +6288,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     vāsasā\] Od *gl*. (vastreṇa)
 
-
-
 [^FNA003582]:
 
     gātrataḥ\] B3 *a.c*. pātrataḥ
-
-
 
 सम्मार्ज्य वाससी दद्यात्[^FNA003583] परिधानोत्तरीयके[^FNA003584] \।\।१४५\।\।
 
@@ -8084,13 +6298,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     dadyāt\] Od jahyāt : Od *gl*. (tyājyāt)
 
-
-
 [^FNA003584]:
 
     paridhānottarīyake\] Od *gl*. (vastre yugmaṃ paridhāya)
-
-
 
 स्नानशाट्या इतरेण अन्येन \।\।१४५\।\।
 
@@ -8100,8 +6310,6 @@ Bhṛgu (–):\[^FNB000485\]
 
     vidhiḥ\] R3 *add*. 6
 
-
-
 तत्रात्रिः—[^FNA003586]
 
 अधौतं कारु[^FNA003587]धौतं[^FNA003588] वा परेद्युधौतम् एव वा[^FNA003589] \।
@@ -8110,33 +6318,23 @@ Bhṛgu (–):\[^FNB000485\]
 
     tatrātriḥ\] R1 tata śatriḥ
 
-
-
 [^FNA003587]:
 
     kāru\] B2 kaci-
-
-
 
 [^FNA003588]:
 
     kārudhautaṃ\] Od *gl*. (rajakadhautam)
 
-
-
 [^FNA003589]:
 
     vā\] V1 R1 Va ca
-
-
 
 काषायं[^FNA003590] मलिनं वस्त्रं कौपीनं च परित्यजेत् \।\।१४६\।\।
 
 [^FNA003590]:
 
     kāṣāyaṃ\] Od *gl*. (raktavastra iti)
-
-
 
 न चार्द्रम् एव वसनं परिदध्यात् कदाचन \।
 
@@ -8148,26 +6346,19 @@ Bhṛgu (–):\[^FNB000485\]
 
     bhṛguḥ\] Od Edd *deest*
 
-
-
 [^FNA003592]:
 
     malinavastraḥ\] B2 vastamalīnaḥ
 
-
-
 [^FNA003593]:
 
     smṛtaḥ\] Edd tathā
-
-
 
 नग्नो द्विगुणवस्त्रः स्यान्[^FNA003594] नग्नो रक्तपटस् तथा \।\।१४७\।\।
 
 [^FNA003594]:
 
     nagnaś … syān\] V1² *i.m*.
-
 
 </details>
 
@@ -8181,13 +6372,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     syūta\] Pa sūta- : Od *gl*. (miṃtryāvastra iti)
 
-
-
 [^FNA003596]:
 
     nagnaś … tathā\] V2 B3 *deest*
-
-
 
 द्विकच्छो ऽनुत्तरीयश् च नग्नश् चावस्त्र एव च \।\।१४८\।\।
 
@@ -8198,8 +6385,6 @@ Bhṛgu (–):\[^FNB000485\]
 [^FNA003597]:
 
     kṛtam\] Edd smṛtam
-
-
 
 जपहोमोपवासेषु धौतवस्त्रधरो भवेत् \।
 
@@ -8223,13 +6408,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     śava\] B2 nava-
 
-
-
 [^FNA003599]:
 
     duṣyati\] Od *add*. sahasraromāṇāṃ kambalānām \|
-
-
 
 सहस्राणि असंख्येयानि रोमाणि येषु तेषाम् ऊर्णादिर्[^FNA003600] निर्मितानां कम्बलादीनाम्[^FNA003601] इत्य् अर्थः \। आविकं मेषरोमनिर्मितं कम्बलादि \।\।१५३\।\।
 
@@ -8237,13 +6418,9 @@ Bhṛgu (–):\[^FNB000485\]
 
     ūrṇādir\] B3 ūrṇādi-
 
-
-
 [^FNA003601]:
 
     kambalādīnām\] V2 Edd kambalānām
-
-
 
 अन्यत्र च—
 
@@ -8253,14 +6430,11 @@ Bhṛgu (–):\[^FNB000485\]
 
     sandhitaṃ\] Od *gl*. (sūtragrathitaṃ śīñjā iti)
 
-
-
 आविकेन तु वस्त्रेण मानवः श्राद्धम् आचरेत्[^FNA003603] \।
 
 [^FNA003603]:
 
     mānavaḥ … ācaret\] Od devakarmaṇi bhūmipa
-
 
 </details>
 
@@ -8299,13 +6473,9 @@ And elsewhere:\[^FNB000490\]
 
     syūta\] Pa sūta- : Od *gl*. (miṃtryāvastra iti)
 
-
-
 [^FNA003596]:
 
     nagnaś … tathā\] V2 B3 *deest*
-
-
 
 द्विकच्छो ऽनुत्तरीयश् च नग्नश् चावस्त्र एव च \।\।१४८\।\।
 
@@ -8316,8 +6486,6 @@ And elsewhere:\[^FNB000490\]
 [^FNA003597]:
 
     kṛtam\] Edd smṛtam
-
-
 
 जपहोमोपवासेषु धौतवस्त्रधरो भवेत् \।
 
@@ -8341,13 +6509,9 @@ And elsewhere:\[^FNB000490\]
 
     śava\] B2 nava-
 
-
-
 [^FNA003599]:
 
     duṣyati\] Od *add*. sahasraromāṇāṃ kambalānām \|
-
-
 
 सहस्राणि असंख्येयानि रोमाणि येषु तेषाम् ऊर्णादिर्[^FNA003600] निर्मितानां कम्बलादीनाम्[^FNA003601] इत्य् अर्थः \। आविकं मेषरोमनिर्मितं कम्बलादि \।\।१५३\।\।
 
@@ -8355,13 +6519,9 @@ And elsewhere:\[^FNB000490\]
 
     ūrṇādir\] B3 ūrṇādi-
 
-
-
 [^FNA003601]:
 
     kambalādīnām\] V2 Edd kambalānām
-
-
 
 अन्यत्र च—
 
@@ -8371,14 +6531,11 @@ And elsewhere:\[^FNB000490\]
 
     sandhitaṃ\] Od *gl*. (sūtragrathitaṃ śīñjā iti)
 
-
-
 आविकेन तु वस्त्रेण मानवः श्राद्धम् आचरेत्[^FNA003603] \।
 
 [^FNA003603]:
 
     mānavaḥ … ācaret\] Od devakarmaṇi bhūmipa
-
 
 </details>
 
@@ -8392,35 +6549,25 @@ And elsewhere:\[^FNB000490\]
 
     gayā … bhūmipa\] Od *om*.
 
-
-
 न दग्धं न च[^FNA003605] वै छिन्नं पारक्यं न तु[^FNA003606] धारयेत्[^FNA003607] \।\।१५५\।\।
 
 [^FNA003605]:
 
     ca\] V1 Pa Va tu
 
-
-
 [^FNA003606]:
 
     na tu\] Od naiva
 
-
-
 [^FNA003607]:
 
     dhārayet\] Od *gl*. (duṣyati)
-
-
 
 काकविष्ठासमं ह्य् उक्तम् अविधौतं[^FNA003608] च यद् भवेत् \।
 
 [^FNA003608]:
 
     avidhautaṃ\] Pa savidhautaṃ
-
-
 
 रजकाद् आहृतं यच् च न तद् वस्त्रं भवेच् छुचि \।\।१५६\।\।
 
@@ -8430,13 +6577,9 @@ And elsewhere:\[^FNB000490\]
 
     kaṭi\] V1 V2 B2 Edd kīṭa-
 
-
-
 [^FNA003610]:
 
     kāritam\] R3 kārayet
-
-
 
 मूत्रं वा मैथुनं वापि तद् वस्त्रं परिवर्जयेत् \।\।१५७\।\।
 
@@ -8452,8 +6595,6 @@ And elsewhere:\[^FNB000490\]
 
     śuci\] Od *add*. syāt
 
-
-
 अग्निर् आविकवस्त्रं च ब्राह्मणाश् च तथा कुशाः \।
 
 चतुर्णां न कृतो दोषो ब्रह्मणा परमेष्ठिना \।\।१६०\।\।
@@ -8466,19 +6607,13 @@ And elsewhere:\[^FNB000490\]
 
     cānyatra\] R3 B1 B3 ca gautamīye
 
-
-
 [^FNA003613]:
 
     śuddhe\] B3 śukle
 
-
-
 [^FNA003614]:
 
     ottarīyake\] Od *gl*. (uttarīyake yugmavastram ity arthaḥ \| liṅgasamavāyanyāyāt dvivacanam iti)
-
-
 
 अच्छिन्नसुदशे[^FNA003615] शुक्ले[^FNA003616] आचामेत् पीठसंस्थितः[^FNA003617] \।\।१६१\।\।
 
@@ -8486,19 +6621,13 @@ And elsewhere:\[^FNB000490\]
 
     sudaśe\] Pa B3 -sadaśe
 
-
-
 [^FNA003616]:
 
     śukle\] B3 śuddhe
 
-
-
 [^FNA003617]:
 
     saṃsthitaḥ\] B3 -saṃsthitam
-
-
 
 अच्छिन्ना सुशोभना[^FNA003618][^FNA003619] दशा ययोस् ते[^FNA003620] \।\।१६१\।\।
 
@@ -8506,19 +6635,13 @@ And elsewhere:\[^FNB000490\]
 
     acchinnā suśobhanā\] V1 achinnās tu śobhanā
 
-
-
 [^FNA003619]:
 
     suśobhanā\] B3 Edd *ins*. ca
 
-
-
 [^FNA003620]:
 
     te\] B2 *add*. śrīśrīrādhākṛṣṇaśaraṇam \| śrīśrīgopālaśaraṇam \| śrīśrīgovindaśaraṇam \| śrīśrīharekṛṣṇaśaraṇam \| śrīśrīhariḥ śrīśrīrāmaḥ \|
-
-
 
 *अथ पीठम्[^FNA003621]*
 
@@ -8526,15 +6649,11 @@ And elsewhere:\[^FNB000490\]
 
     pīṭham\] R1 R3 B1 *add*. gautamīye \| prāṅmukhaḥ saṃyatātmā ca saṃviśed vihitāsane \| tathā mṛdvāsane mantrī paṭājinakuśottare \|\| kāṣṭhāsane bhaved rogī (B1 rogo) vaṃśe vaṃśakṣayo bhavet \| śailāsane ca vāgrodhaḥ pallave mativibhramaḥ \| dharaṇyāṃ duḥkhasambhūtiḥ pīḍanaṃ rājate bhavet \|\|
 
-
-
 बह्वृच[^FNA003622]परिशिष्टे—
 
 [^FNA003622]:
 
     bahvṛca\] B3 bṛhat-
-
-
 
 यतीनाम् आसनं[^FNA003623] शुक्लं कूर्माकारं तु कारयेत् \।
 
@@ -8542,14 +6661,11 @@ And elsewhere:\[^FNB000490\]
 
     āsanaṃ\] R1 vāsanaṃ
 
-
-
 अन्येषां तु चतुष्पादं चतुरस्रं[^FNA003624] तु कारयेत् \।\।१६२\।\।
 
 [^FNA003624]:
 
     asraṃ\] B3 -vastraṃ
-
 
 </details>
 
@@ -8578,35 +6694,25 @@ In the Bahvṛcapariśiṣṭa:\[^FNB000493\]
 
     gayā … bhūmipa\] Od *om*.
 
-
-
 न दग्धं न च[^FNA003605] वै छिन्नं पारक्यं न तु[^FNA003606] धारयेत्[^FNA003607] \।\।१५५\।\।
 
 [^FNA003605]:
 
     ca\] V1 Pa Va tu
 
-
-
 [^FNA003606]:
 
     na tu\] Od naiva
 
-
-
 [^FNA003607]:
 
     dhārayet\] Od *gl*. (duṣyati)
-
-
 
 काकविष्ठासमं ह्य् उक्तम् अविधौतं[^FNA003608] च यद् भवेत् \।
 
 [^FNA003608]:
 
     avidhautaṃ\] Pa savidhautaṃ
-
-
 
 रजकाद् आहृतं यच् च न तद् वस्त्रं भवेच् छुचि \।\।१५६\।\।
 
@@ -8616,13 +6722,9 @@ In the Bahvṛcapariśiṣṭa:\[^FNB000493\]
 
     kaṭi\] V1 V2 B2 Edd kīṭa-
 
-
-
 [^FNA003610]:
 
     kāritam\] R3 kārayet
-
-
 
 मूत्रं वा मैथुनं वापि तद् वस्त्रं परिवर्जयेत् \।\।१५७\।\।
 
@@ -8638,8 +6740,6 @@ In the Bahvṛcapariśiṣṭa:\[^FNB000493\]
 
     śuci\] Od *add*. syāt
 
-
-
 अग्निर् आविकवस्त्रं च ब्राह्मणाश् च तथा कुशाः \।
 
 चतुर्णां न कृतो दोषो ब्रह्मणा परमेष्ठिना \।\।१६०\।\।
@@ -8652,19 +6752,13 @@ In the Bahvṛcapariśiṣṭa:\[^FNB000493\]
 
     cānyatra\] R3 B1 B3 ca gautamīye
 
-
-
 [^FNA003613]:
 
     śuddhe\] B3 śukle
 
-
-
 [^FNA003614]:
 
     ottarīyake\] Od *gl*. (uttarīyake yugmavastram ity arthaḥ \| liṅgasamavāyanyāyāt dvivacanam iti)
-
-
 
 अच्छिन्नसुदशे[^FNA003615] शुक्ले[^FNA003616] आचामेत् पीठसंस्थितः[^FNA003617] \।\।१६१\।\।
 
@@ -8672,19 +6766,13 @@ In the Bahvṛcapariśiṣṭa:\[^FNB000493\]
 
     sudaśe\] Pa B3 -sadaśe
 
-
-
 [^FNA003616]:
 
     śukle\] B3 śuddhe
 
-
-
 [^FNA003617]:
 
     saṃsthitaḥ\] B3 -saṃsthitam
-
-
 
 अच्छिन्ना सुशोभना[^FNA003618][^FNA003619] दशा ययोस् ते[^FNA003620] \।\।१६१\।\।
 
@@ -8692,19 +6780,13 @@ In the Bahvṛcapariśiṣṭa:\[^FNB000493\]
 
     acchinnā suśobhanā\] V1 achinnās tu śobhanā
 
-
-
 [^FNA003619]:
 
     suśobhanā\] B3 Edd *ins*. ca
 
-
-
 [^FNA003620]:
 
     te\] B2 *add*. śrīśrīrādhākṛṣṇaśaraṇam \| śrīśrīgopālaśaraṇam \| śrīśrīgovindaśaraṇam \| śrīśrīharekṛṣṇaśaraṇam \| śrīśrīhariḥ śrīśrīrāmaḥ \|
-
-
 
 *अथ पीठम्[^FNA003621]*
 
@@ -8712,15 +6794,11 @@ In the Bahvṛcapariśiṣṭa:\[^FNB000493\]
 
     pīṭham\] R1 R3 B1 *add*. gautamīye \| prāṅmukhaḥ saṃyatātmā ca saṃviśed vihitāsane \| tathā mṛdvāsane mantrī paṭājinakuśottare \|\| kāṣṭhāsane bhaved rogī (B1 rogo) vaṃśe vaṃśakṣayo bhavet \| śailāsane ca vāgrodhaḥ pallave mativibhramaḥ \| dharaṇyāṃ duḥkhasambhūtiḥ pīḍanaṃ rājate bhavet \|\|
 
-
-
 बह्वृच[^FNA003622]परिशिष्टे—
 
 [^FNA003622]:
 
     bahvṛca\] B3 bṛhat-
-
-
 
 यतीनाम् आसनं[^FNA003623] शुक्लं कूर्माकारं तु कारयेत् \।
 
@@ -8728,14 +6806,11 @@ In the Bahvṛcapariśiṣṭa:\[^FNB000493\]
 
     āsanaṃ\] R1 vāsanaṃ
 
-
-
 अन्येषां तु चतुष्पादं चतुरस्रं[^FNA003624] तु कारयेत् \।\।१६२\।\।
 
 [^FNA003624]:
 
     asraṃ\] B3 -vastraṃ
-
 
 </details>
 
@@ -8764,8 +6839,6 @@ In the Bahvṛcapariśiṣṭa:\[^FNB000493\]
 [^FNA003625]:
 
     darbhabhṛt\] B3 *add*. gautamīye \| prāṅmukhaḥ saṃyatātmā ca sa viśed vihitāsane \| tathā mṛdvāsane mantrī paṭājinakuśodare \| kāṣṭāsane bhaved rogaḥ vaṃśe vaṃśakṣayo bhavet \| śailāsane ca vāgrodhaḥ pallave mativibhramaḥ \|\|
-
-
 
 ऊर्ध्वपुण्ड्रादिकं कुर्याच् छ्रीगोपीचन्दनादिना \।\।१६६\।\।
 
@@ -8829,8 +6902,6 @@ This has been said by the blessed Lord in the Brahma Purāṇa (–):\[^FNB00049
 
     darbhabhṛt\] B3 *add*. gautamīye \| prāṅmukhaḥ saṃyatātmā ca sa viśed vihitāsane \| tathā mṛdvāsane mantrī paṭājinakuśodare \| kāṣṭāsane bhaved rogaḥ vaṃśe vaṃśakṣayo bhavet \| śailāsane ca vāgrodhaḥ pallave mativibhramaḥ \|\|
 
-
-
 ऊर्ध्वपुण्ड्रादिकं कुर्याच् छ्रीगोपीचन्दनादिना \।\।१६६\।\।
 
 दर्भभृत् कुशपाणिः सन् \। यद्य् अप्य् ऊर्ध्वपुण्ड्रनिर्माणानन्तरम् एवाचमनं युक्तम्, तथाप्य् अत्र पूजार्थतिलकविशेषादिनिमित्तम् आदाव् आचमनं सत्सम्प्रदायानुसारेण लिखितम् \। तिलकानन्तरम् आचमनं च पूर्वं बहिःस्नाने लिखितम् एवास्ति \।\।१६६\।\।
@@ -8852,15 +6923,11 @@ This has been said by the blessed Lord in the Brahma Purāṇa (–):\[^FNB00049
 
     lagnaṃ\] Od -lagna-
 
-
-
 सर्वाङ्गेषु महाशुद्धिसिद्धये कमलासन[^FNA003627] \।\। इति \।\।१६८\।\।
 
 [^FNA003627]:
 
     kamalāsana\] R3 B1 *add*. gautamīye \| yatra puṣpādikaṃ yac ca kṛṣṇapādayugārpitam \| tad ekaṃ pāvanaṃ loke tad dhi sarvaṃ viśodhayet \|\|
-
-
 
 ततो द्वादशभिः कुर्यान् नामभिः केशवादिभिः \।
 
@@ -8872,36 +6939,25 @@ This has been said by the blessed Lord in the Brahma Purāṇa (–):\[^FNB00049
 
     nāmabhiḥ\] B2 *deest*
 
-
-
 [^FNA003629]:
 
     keśavādīn\] V2 keśavādi-
-
-
 
 [^FNA003630]:
 
     tatra\] V1 V2 atra ca
 
-
-
 [^FNA003631]:
 
     oṃ\] B1 *deest*
-
-
 
 [^FNA003632]:
 
     mālikādikam\] V2 -mānādikam
 
-
-
 [^FNA003633]:
 
     puṇḍraṃ\] B3 *deest*
-
 
 </details>
 
@@ -8930,15 +6986,11 @@ Furthermore, the various shapes of the vertical mark on the forehead, such as th
 
     lagnaṃ\] Od -lagna-
 
-
-
 सर्वाङ्गेषु महाशुद्धिसिद्धये कमलासन[^FNA003627] \।\। इति \।\।१६८\।\।
 
 [^FNA003627]:
 
     kamalāsana\] R3 B1 *add*. gautamīye \| yatra puṣpādikaṃ yac ca kṛṣṇapādayugārpitam \| tad ekaṃ pāvanaṃ loke tad dhi sarvaṃ viśodhayet \|\|
-
-
 
 ततो द्वादशभिः कुर्यान् नामभिः केशवादिभिः \।
 
@@ -8950,36 +7002,25 @@ Furthermore, the various shapes of the vertical mark on the forehead, such as th
 
     nāmabhiḥ\] B2 *deest*
 
-
-
 [^FNA003629]:
 
     keśavādīn\] V2 keśavādi-
-
-
 
 [^FNA003630]:
 
     tatra\] V1 V2 atra ca
 
-
-
 [^FNA003631]:
 
     oṃ\] B1 *deest*
-
-
 
 [^FNA003632]:
 
     mālikādikam\] V2 -mānādikam
 
-
-
 [^FNA003633]:
 
     puṇḍraṃ\] B3 *deest*
-
 
 </details>
 
@@ -8991,23 +7032,17 @@ Furthermore, the various shapes of the vertical mark on the forehead, such as th
 
     atra\] B2 Edd tatra
 
-
-
 *अथ द्वादशतिलकविधिः[^FNA003635]*
 
 [^FNA003635]:
 
     vidhiḥ\] R3 *add*. 8
 
-
-
 पद्मपुराणे उत्तर[^FNA003636]खण्डे—
 
 [^FNA003636]:
 
     uttara\] Od cottara-
-
-
 
 ललाटे केशवं ध्यायेन् नारायणम् अथोदरे \।
 
@@ -9027,13 +7062,9 @@ Furthermore, the various shapes of the vertical mark on the forehead, such as th
 
     toyaṃ tu\] Od -toyena
 
-
-
 [^FNA003638]:
 
     vāsudeveti mūrdhani\] B1 vāsudevaḥ svamūrdhani
-
-
 
 तत्तन्नामान्य् अङ्गानि च विभज्य दर्शयति ललाटे इति त्रिभिः \। ध्यायेत् न्यस्येत् \। त्रिविक्रमं दक्षिणे कन्धरे \। हृषीकेशं वामे कन्धरे \। एवं केशवाद्यानां दामोदरान्तानां द्वादशानां[^FNA003639] न्यासम् उक्त्वा मस्तके श्रीवासुदेवस्य न्यासम् आह तद् इति वासुदेवेति[^FNA003640] वासुदेवाय नमः इति \। एतच् च समस्तस्वरैः सह न्यस्येद् इति ज्ञेयम् \। केचिच् च द्वादशाक्षरमन्त्रं मूर्धनि विन्यस्यन्ति \। अत्रापि[^FNA003641] सत्सम्प्रदायाचार एव गतिर् इति दिक् \।\।१७०–१७३\।\।
 
@@ -9041,19 +7072,13 @@ Furthermore, the various shapes of the vertical mark on the forehead, such as th
 
     dvādaśānāṃ\] V1 *deest*
 
-
-
 [^FNA003640]:
 
     vāsudeveti\] B2 *deest*
 
-
-
 [^FNA003641]:
 
     atrāpi\] B1 tatrāpi
-
-
 
 किं च—[^FNA003642]
 
@@ -9063,21 +7088,15 @@ Furthermore, the various shapes of the vertical mark on the forehead, such as th
 
     kiṃ ca\] B3 *deest*
 
-
-
 ललाटादिक्रमेणैव धारणं[^FNA003643] तु विधीयते \।\। इति[^FNA003644] \।\।१७४\।\।
 
 [^FNA003643]:
 
     dhāraṇaṃ\] B2 dhārayan
 
-
-
 [^FNA003644]:
 
     iti\] Od *deest*
-
-
 
 एवं न्यासं समाचर्य सम्प्रदायानुसारतः \।
 
@@ -9113,23 +7132,17 @@ And further (6.225.54):
 
     atra\] B2 Edd tatra
 
-
-
 *अथ द्वादशतिलकविधिः[^FNA003635]*
 
 [^FNA003635]:
 
     vidhiḥ\] R3 *add*. 8
 
-
-
 पद्मपुराणे उत्तर[^FNA003636]खण्डे—
 
 [^FNA003636]:
 
     uttara\] Od cottara-
-
-
 
 ललाटे केशवं ध्यायेन् नारायणम् अथोदरे \।
 
@@ -9149,13 +7162,9 @@ And further (6.225.54):
 
     toyaṃ tu\] Od -toyena
 
-
-
 [^FNA003638]:
 
     vāsudeveti mūrdhani\] B1 vāsudevaḥ svamūrdhani
-
-
 
 तत्तन्नामान्य् अङ्गानि च विभज्य दर्शयति ललाटे इति त्रिभिः \। ध्यायेत् न्यस्येत् \। त्रिविक्रमं दक्षिणे कन्धरे \। हृषीकेशं वामे कन्धरे \। एवं केशवाद्यानां दामोदरान्तानां द्वादशानां[^FNA003639] न्यासम् उक्त्वा मस्तके श्रीवासुदेवस्य न्यासम् आह तद् इति वासुदेवेति[^FNA003640] वासुदेवाय नमः इति \। एतच् च समस्तस्वरैः सह न्यस्येद् इति ज्ञेयम् \। केचिच् च द्वादशाक्षरमन्त्रं मूर्धनि विन्यस्यन्ति \। अत्रापि[^FNA003641] सत्सम्प्रदायाचार एव गतिर् इति दिक् \।\।१७०–१७३\।\।
 
@@ -9163,19 +7172,13 @@ And further (6.225.54):
 
     dvādaśānāṃ\] V1 *deest*
 
-
-
 [^FNA003640]:
 
     vāsudeveti\] B2 *deest*
 
-
-
 [^FNA003641]:
 
     atrāpi\] B1 tatrāpi
-
-
 
 किं च—[^FNA003642]
 
@@ -9185,21 +7188,15 @@ And further (6.225.54):
 
     kiṃ ca\] B3 *deest*
 
-
-
 ललाटादिक्रमेणैव धारणं[^FNA003643] तु विधीयते \।\। इति[^FNA003644] \।\।१७४\।\।
 
 [^FNA003643]:
 
     dhāraṇaṃ\] B2 dhārayan
 
-
-
 [^FNA003644]:
 
     iti\] Od *deest*
-
-
 
 एवं न्यासं समाचर्य सम्प्रदायानुसारतः \।
 
@@ -9214,8 +7211,6 @@ And further (6.225.54):
 
     iti\] V1 V2 *add*. etac ca
 
-
-
 *अथ किरीटमन्त्रः*
 
 ॐ श्रीकिरीटकेयूरहारमकरकुण्डलचक्रशङ्ख[^FNA003646]गदापद्महस्तपीताम्बरधरश्रीवत्साङ्कितवक्षःस्थलश्रीभूमिसहित[^FNA003647]स्वात्मज्योतिर्[^FNA003648]दीप्तिकराय सहस्रादित्यतेजसे[^FNA003649] नमः \।\। इति \।\।१७६\।\।
@@ -9224,33 +7219,23 @@ And further (6.225.54):
 
     cakraśaṅkha\] R1 R3 Od *transp*.
 
-
-
 [^FNA003647]:
 
     śrī … sahita\] V1² *gl*. śrībhūmibhyāṃ śaktibhyāṃ sahita
-
-
 
 [^FNA003648]:
 
     jyotir\] B2 *ins*. -dvayā-
 
-
-
 [^FNA003649]:
 
     tejase\] B1 B3 Edd *ins*. namo
-
-
 
 *अथोर्ध्वपुण्ड्रनित्यता[^FNA003650]*
 
 [^FNA003650]:
 
     nityatā\] R3 *add*. 9
-
-
 
 पाद्मे श्रीभगवदुक्तौ—
 
@@ -9260,15 +7245,11 @@ And further (6.225.54):
 
     mat\] B2 yat-
 
-
-
 मत्[^FNA003652]पूजाहोमकाले च सायं प्रातः समाहितः \।
 
 [^FNA003652]:
 
     mat\] B2 yat-
-
-
 
 मद्भक्तो धारयेन् नित्यम् ऊर्ध्वपुण्ड्रं भयापहम् \।\।१७७\।\।
 
@@ -9279,8 +7260,6 @@ And further (6.225.54):
 [^FNA003653]:
 
     śrī\] B1 *deest*
-
-
 
 यज्ञो दानं तपो होमः स्वाध्यायः पितृतर्पणम् \।
 
@@ -9294,21 +7273,15 @@ And further (6.225.54):
 
     puṇḍrair\] B3 -puṇḍra-
 
-
-
 इष्टा[^FNA003655]पूर्तादिकं[^FNA003656] सर्वं निष्फलं स्यान् न संशयः \।\।१७९\।\।
 
 [^FNA003655]:
 
     iṣṭā\] V1 iṣṭa-
 
-
-
 [^FNA003656]:
 
     iṣṭāpūrtādikaṃ\] Od *gl*. (iṣṭā yajñādi pūrtā kūpavṛkṣāropanādi)
-
-
 
 ऊर्ध्वपुण्ड्रैर्[^FNA003657] विहीनस् तु सन्ध्याकर्मादिकं चरेत्[^FNA003658][^FNA003659] \।
 
@@ -9316,19 +7289,13 @@ And further (6.225.54):
 
     puṇḍrair\] R1 R3 Pa B3 -puṇḍra-
 
-
-
 [^FNA003658]:
 
     sandhyā … caret\] R3 kiñcit karma karoti yaḥ
 
-
-
 [^FNA003659]:
 
     caret\] B1 B3 ca yat
-
-
 
 तत् सर्वं राक्षसं नित्यं नरकं चाधिगच्छति \।\।१८०\।\।
 
@@ -9372,8 +7339,6 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     iti\] V1 V2 *add*. etac ca
 
-
-
 *अथ किरीटमन्त्रः*
 
 ॐ श्रीकिरीटकेयूरहारमकरकुण्डलचक्रशङ्ख[^FNA003646]गदापद्महस्तपीताम्बरधरश्रीवत्साङ्कितवक्षःस्थलश्रीभूमिसहित[^FNA003647]स्वात्मज्योतिर्[^FNA003648]दीप्तिकराय सहस्रादित्यतेजसे[^FNA003649] नमः \।\। इति \।\।१७६\।\।
@@ -9382,33 +7347,23 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     cakraśaṅkha\] R1 R3 Od *transp*.
 
-
-
 [^FNA003647]:
 
     śrī … sahita\] V1² *gl*. śrībhūmibhyāṃ śaktibhyāṃ sahita
-
-
 
 [^FNA003648]:
 
     jyotir\] B2 *ins*. -dvayā-
 
-
-
 [^FNA003649]:
 
     tejase\] B1 B3 Edd *ins*. namo
-
-
 
 *अथोर्ध्वपुण्ड्रनित्यता[^FNA003650]*
 
 [^FNA003650]:
 
     nityatā\] R3 *add*. 9
-
-
 
 पाद्मे श्रीभगवदुक्तौ—
 
@@ -9418,15 +7373,11 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     mat\] B2 yat-
 
-
-
 मत्[^FNA003652]पूजाहोमकाले च सायं प्रातः समाहितः \।
 
 [^FNA003652]:
 
     mat\] B2 yat-
-
-
 
 मद्भक्तो धारयेन् नित्यम् ऊर्ध्वपुण्ड्रं भयापहम् \।\।१७७\।\।
 
@@ -9437,8 +7388,6 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 [^FNA003653]:
 
     śrī\] B1 *deest*
-
-
 
 यज्ञो दानं तपो होमः स्वाध्यायः पितृतर्पणम् \।
 
@@ -9452,21 +7401,15 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     puṇḍrair\] B3 -puṇḍra-
 
-
-
 इष्टा[^FNA003655]पूर्तादिकं[^FNA003656] सर्वं निष्फलं स्यान् न संशयः \।\।१७९\।\।
 
 [^FNA003655]:
 
     iṣṭā\] V1 iṣṭa-
 
-
-
 [^FNA003656]:
 
     iṣṭāpūrtādikaṃ\] Od *gl*. (iṣṭā yajñādi pūrtā kūpavṛkṣāropanādi)
-
-
 
 ऊर्ध्वपुण्ड्रैर्[^FNA003657] विहीनस् तु सन्ध्याकर्मादिकं चरेत्[^FNA003658][^FNA003659] \।
 
@@ -9474,19 +7417,13 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     puṇḍrair\] R1 R3 Pa B3 -puṇḍra-
 
-
-
 [^FNA003658]:
 
     sandhyā … caret\] R3 kiñcit karma karoti yaḥ
 
-
-
 [^FNA003659]:
 
     caret\] B1 B3 ca yat
-
-
 
 तत् सर्वं राक्षसं नित्यं नरकं चाधिगच्छति \।\।१८०\।\।
 
@@ -9501,27 +7438,19 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     anyac\] V1 V2 Pa anyatra : R1 R3 atra : B2 Od tatra
 
-
-
 ऊर्ध्वपुण्ड्रे[^FNA003662] त्रिपुण्ड्रं यः कुरुते स[^FNA003663] नराधमः \।
 
 [^FNA003661]:
 
     anyac ca\] B1 *deest*
 
-
-
 [^FNA003662]:
 
     puṇḍre\] Od -puṇḍraṃ
 
-
-
 [^FNA003663]:
 
     sa\] B2 ca
-
-
 
 भङ्क्त्वा[^FNA003664] विष्णुगृहं पुण्ड्रं[^FNA003665] स याति नरकं ध्रुवम् \।\।१८१\।\।
 
@@ -9529,13 +7458,9 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     bhaṅktvā\] B2 Od tyaktvā
 
-
-
 [^FNA003665]:
 
     puṇḍraṃ\] R1 R3 Pa Od puṇyaṃ
-
-
 
 विष्णुगृहं हरिमन्दिरम् \।\।१८१\।\।
 
@@ -9544,8 +7469,6 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 [^FNA003666]:
 
     śrī\] B1 *deest*
-
-
 
 यच् छरीरं मनुष्याणाम् ऊर्ध्वपुण्ड्रं विना कृतम् \।
 
@@ -9561,13 +7484,9 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     dhārayed\] Od kārayed
 
-
-
 [^FNA003668]:
 
     vidvān\] B2 dhīmān
-
-
 
 धरेद् धारयेत् \।\।१८३\।\।
 
@@ -9579,29 +7498,21 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     skānde\] B1 *deest*
 
-
-
 नैवान्यन्[^FNA003670] नाम च ब्रूयात् पुमान् नारारायणाद् ऋते[^FNA003671] \।\।१८४\।\।
 
 [^FNA003670]:
 
     naivānyan\] B3 naivānyanāma : Od devānyān
 
-
-
 [^FNA003671]:
 
     nārārāyaṇād ṛte\] Od *gl*. (nārāyaṇaṃ vinā)
-
-
 
 धारयेद् विष्णुनिर्माल्यं धूपशेषं[^FNA003672] विलेपनम् \।
 
 [^FNA003672]:
 
     śeṣaṃ\] Od -śeṣa-
-
-
 
 वैष्णवं कारयेत् पुण्ड्रं गोपीचन्दनसम्भवम् \।\।१८५\।\।
 
@@ -9613,13 +7524,9 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 
     prasaṅge\] B2 -māhātmye
 
-
-
 [^FNA003674]:
 
     no narasya\] B1 noturasya : B3 nottaraḥ sa
-
-
 
 तद्दर्शनं न कर्तव्यं दृष्ट्वा सूर्यं निरीक्षयेत् \।\।१८६\।\।
 
@@ -9628,7 +7535,6 @@ Now, in these verses, the author shows the heaps of offences caused by their neg
 [^FNA003675]:
 
     prādhānyāt\] Edd vihitatvāt
-
 
 </details>
 
@@ -9671,27 +7577,19 @@ In the context of the month of Kārttika in the same book (–):
 
     anyac\] V1 V2 Pa anyatra : R1 R3 atra : B2 Od tatra
 
-
-
 ऊर्ध्वपुण्ड्रे[^FNA003662] त्रिपुण्ड्रं यः कुरुते स[^FNA003663] नराधमः \।
 
 [^FNA003661]:
 
     anyac ca\] B1 *deest*
 
-
-
 [^FNA003662]:
 
     puṇḍre\] Od -puṇḍraṃ
 
-
-
 [^FNA003663]:
 
     sa\] B2 ca
-
-
 
 भङ्क्त्वा[^FNA003664] विष्णुगृहं पुण्ड्रं[^FNA003665] स याति नरकं ध्रुवम् \।\।१८१\।\।
 
@@ -9699,13 +7597,9 @@ In the context of the month of Kārttika in the same book (–):
 
     bhaṅktvā\] B2 Od tyaktvā
 
-
-
 [^FNA003665]:
 
     puṇḍraṃ\] R1 R3 Pa Od puṇyaṃ
-
-
 
 विष्णुगृहं हरिमन्दिरम् \।\।१८१\।\।
 
@@ -9714,8 +7608,6 @@ In the context of the month of Kārttika in the same book (–):
 [^FNA003666]:
 
     śrī\] B1 *deest*
-
-
 
 यच् छरीरं मनुष्याणाम् ऊर्ध्वपुण्ड्रं विना कृतम् \।
 
@@ -9731,13 +7623,9 @@ In the context of the month of Kārttika in the same book (–):
 
     dhārayed\] Od kārayed
 
-
-
 [^FNA003668]:
 
     vidvān\] B2 dhīmān
-
-
 
 धरेद् धारयेत् \।\।१८३\।\।
 
@@ -9749,29 +7637,21 @@ In the context of the month of Kārttika in the same book (–):
 
     skānde\] B1 *deest*
 
-
-
 नैवान्यन्[^FNA003670] नाम च ब्रूयात् पुमान् नारारायणाद् ऋते[^FNA003671] \।\।१८४\।\।
 
 [^FNA003670]:
 
     naivānyan\] B3 naivānyanāma : Od devānyān
 
-
-
 [^FNA003671]:
 
     nārārāyaṇād ṛte\] Od *gl*. (nārāyaṇaṃ vinā)
-
-
 
 धारयेद् विष्णुनिर्माल्यं धूपशेषं[^FNA003672] विलेपनम् \।
 
 [^FNA003672]:
 
     śeṣaṃ\] Od -śeṣa-
-
-
 
 वैष्णवं कारयेत् पुण्ड्रं गोपीचन्दनसम्भवम् \।\।१८५\।\।
 
@@ -9783,13 +7663,9 @@ In the context of the month of Kārttika in the same book (–):
 
     prasaṅge\] B2 -māhātmye
 
-
-
 [^FNA003674]:
 
     no narasya\] B1 noturasya : B3 nottaraḥ sa
-
-
 
 तद्दर्शनं न कर्तव्यं दृष्ट्वा सूर्यं निरीक्षयेत् \।\।१८६\।\।
 
@@ -9798,7 +7674,6 @@ In the context of the month of Kārttika in the same book (–):
 [^FNA003675]:
 
     prādhānyāt\] Edd vihitatvāt
-
 
 </details>
 
@@ -9812,15 +7687,11 @@ In the context of the month of Kārttika in the same book (–):
 
     anyatrāpi\] R3 *add*. ca
 
-
-
 अन्येषां तु त्रि[^FNA003677]पुण्ड्रं स्याद् इति ब्रह्मविदो विदुः \।\।१८७\।\।
 
 [^FNA003677]:
 
     tri\] R1 *om*.
-
-
 
 ब्राह्मणानां च अन्येषाम् अवैष्णवशूद्राणाम् \।\।१८७\।\।
 
@@ -9832,15 +7703,11 @@ In the context of the month of Kārttika in the same book (–):
 
     celaṃ\] V1 R1 Va -cailaṃ
 
-
-
 ऊर्ध्वपुण्ड्रे[^FNA003679] न कुर्वीत वैष्णवानां त्रिपुण्ड्रकम् \।
 
 [^FNA003679]:
 
     puṇḍre\] R1 B3 Od -puṇḍraṃ
-
-
 
 कृतत्रिपुण्ड्र[^FNA003680]मर्त्यस्य[^FNA003681] क्रिया न प्रीतये[^FNA003682] हरेः \।\।१८९\।\।
 
@@ -9848,19 +7715,13 @@ In the context of the month of Kārttika in the same book (–):
 
     tripuṇḍra\] B1 -niṣpuṇḍra-
 
-
-
 [^FNA003681]:
 
     kṛta … martyasya\] B2 Od kṛtaṃ tripuṇḍram anyasya
 
-
-
 [^FNA003682]:
 
     na prītaye\] Od prīti na me
-
-
 
 अत एवोत्तरखण्डे—
 
@@ -9872,21 +7733,15 @@ In the context of the month of Kārttika in the same book (–):
 
     padmakuṭmala\] Od *gl*. (padmakuṭmala padmakaṭi iti)
 
-
-
 [^FNA003684]:
 
     mohanaṃ\] Pa modanaṃ
-
-
 
 एवम् अत्रोर्ध्वपुण्ड्रधारणस्य विहितत्वाद् अग्रे च वक्षोबाहुमूलादौ खड्गचक्रादिमुद्राधारणस्य विहितत्वाद् अवैष्णवस्मार्तसम्मतम् अश्वत्थपत्राकारादिकं वक्षःस्थलादौ न[^FNA003685] विधेयम् इति लिखति अश्वत्थेति \। मोहनम् असुरानुसारि शुक्रादिमायाविहितम् इत्य् अर्थः \।\।१९०\।\।
 
 [^FNA003685]:
 
     na\] B1 *deest*
-
-
 
 *अथोर्ध्वपुण्ड्रमाहात्म्यम्*
 
@@ -9898,13 +7753,9 @@ In the context of the month of Kārttika in the same book (–):
 
     prasaṅge\] R3 *a.c*. B2 -māhātmye
 
-
-
 [^FNA003687]:
 
     śubhro\] B2 suśrī
-
-
 
 चण्डालो ऽपि विशुद्धात्मा याति ब्रह्म सनातनम् \।\।१९१\।\।
 
@@ -9913,7 +7764,6 @@ In the context of the month of Kārttika in the same book (–):
 [^FNA003688]:
 
     ārṣam\] B2 *add*. śrīśrīgovindāya namaḥ \| śrīśrīrādhāvinodāya namaḥ \| śrīśrīgopālaśaraṇam \| śrīśrīhariḥ \| śrīśrīrādhākṛṣṇaśaraṇam \|
-
 
 </details>
 
@@ -9952,15 +7802,11 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     anyatrāpi\] R3 *add*. ca
 
-
-
 अन्येषां तु त्रि[^FNA003677]पुण्ड्रं स्याद् इति ब्रह्मविदो विदुः \।\।१८७\।\।
 
 [^FNA003677]:
 
     tri\] R1 *om*.
-
-
 
 ब्राह्मणानां च अन्येषाम् अवैष्णवशूद्राणाम् \।\।१८७\।\।
 
@@ -9972,15 +7818,11 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     celaṃ\] V1 R1 Va -cailaṃ
 
-
-
 ऊर्ध्वपुण्ड्रे[^FNA003679] न कुर्वीत वैष्णवानां त्रिपुण्ड्रकम् \।
 
 [^FNA003679]:
 
     puṇḍre\] R1 B3 Od -puṇḍraṃ
-
-
 
 कृतत्रिपुण्ड्र[^FNA003680]मर्त्यस्य[^FNA003681] क्रिया न प्रीतये[^FNA003682] हरेः \।\।१८९\।\।
 
@@ -9988,19 +7830,13 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     tripuṇḍra\] B1 -niṣpuṇḍra-
 
-
-
 [^FNA003681]:
 
     kṛta … martyasya\] B2 Od kṛtaṃ tripuṇḍram anyasya
 
-
-
 [^FNA003682]:
 
     na prītaye\] Od prīti na me
-
-
 
 अत एवोत्तरखण्डे—
 
@@ -10012,21 +7848,15 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     padmakuṭmala\] Od *gl*. (padmakuṭmala padmakaṭi iti)
 
-
-
 [^FNA003684]:
 
     mohanaṃ\] Pa modanaṃ
-
-
 
 एवम् अत्रोर्ध्वपुण्ड्रधारणस्य विहितत्वाद् अग्रे च वक्षोबाहुमूलादौ खड्गचक्रादिमुद्राधारणस्य विहितत्वाद् अवैष्णवस्मार्तसम्मतम् अश्वत्थपत्राकारादिकं वक्षःस्थलादौ न[^FNA003685] विधेयम् इति लिखति अश्वत्थेति \। मोहनम् असुरानुसारि शुक्रादिमायाविहितम् इत्य् अर्थः \।\।१९०\।\।
 
 [^FNA003685]:
 
     na\] B1 *deest*
-
-
 
 *अथोर्ध्वपुण्ड्रमाहात्म्यम्*
 
@@ -10038,13 +7868,9 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     prasaṅge\] R3 *a.c*. B2 -māhātmye
 
-
-
 [^FNA003687]:
 
     śubhro\] B2 suśrī
-
-
 
 चण्डालो ऽपि विशुद्धात्मा याति ब्रह्म सनातनम् \।\।१९१\।\।
 
@@ -10053,7 +7879,6 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 [^FNA003688]:
 
     ārṣam\] B2 *add*. śrīśrīgovindāya namaḥ \| śrīśrīrādhāvinodāya namaḥ \| śrīśrīgopālaśaraṇam \| śrīśrīhariḥ \| śrīśrīrādhākṛṣṇaśaraṇam \|
-
 
 </details>
 
@@ -10071,8 +7896,6 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     saumyaṃ\] Pa saumya
 
-
-
 स चाण्डालो ऽपि शुद्धात्मा पूज्य एव न संशयः \।\।१९३\।\।
 
 तत्रैवोत्तरखण्डे श्री[^FNA003690]शिवपार्वती[^FNA003691]संवादे—
@@ -10081,13 +7904,9 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     śrī\] V1 V2 Va Edd *deest*
 
-
-
 [^FNA003691]:
 
     śivapārvatī\] Va B1 B3 Edd śivomā-
-
-
 
 ऊर्ध्वपुण्ड्रस्य मध्ये तु विशाले सुमनोहरे[^FNA003692] \।
 
@@ -10095,27 +7914,19 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     sumanohare\] Od tu manohare
 
-
-
 लक्ष्म्या सार्धं[^FNA003693] समासीनो देव[^FNA003694]देवो[^FNA003695] जनार्दनः \।\।१९४\।\।
 
 [^FNA003693]:
 
     sārdhaṃ\] B3 saha
 
-
-
 [^FNA003694]:
 
     deva\] B2 Od para-
 
-
-
 [^FNA003695]:
 
     devo\] B3 -deva-
-
-
 
 समासीनो ऽस्ति[^FNA003696] \।\।१९४\।\।
 
@@ -10123,15 +7934,11 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     sti\] B1 *add*. śrīrāmacandro jayati
 
-
-
 तस्माद् यस्य शरीरे[^FNA003697] तु ऊर्ध्वपुण्ड्रं धृतं भवेत् \।
 
 [^FNA003697]:
 
     śarīre\] R1 śarīraṃ
-
-
 
 तस्य देहं[^FNA003698] भगवतो[^FNA003699] विमलं[^FNA003700] मन्दिरं स्मृतम् \।\।१९५\।\।
 
@@ -10139,19 +7946,13 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     dehaṃ\] B1 deho
 
-
-
 [^FNA003699]:
 
     bhagavato\] Od *gl*. (śrīkṛṣṇasya)
 
-
-
 [^FNA003700]:
 
     vimalaṃ\] B2 vilayaṃ
-
-
 
 ऊर्ध्वपुण्ड्रधरो विप्रः सर्वलोकेषु पूजितः \।
 
@@ -10171,8 +7972,6 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 
     dharo\] Od *a.c*. -vidhā
 
-
-
 कल्पकोटिसहस्राणि वैकुण्ठे वासम् आप्नुयात् \।\।१९९\।\।
 
 यज्ञदानतपश्चर्याजपहोमादिकं च यत् \।
@@ -10184,8 +7983,6 @@ The masculine form of the word ūrdhvapuṇḍra is an archaic irregularity.
 [^FNA003702]:
 
     brahmāṇḍa\] Edd *ante* śrī-
-
-
 
 अशुचिर् वाप्य् अनाचारो मनसा पापम् आचरन् \।
 
@@ -10229,8 +8026,6 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     saumyaṃ\] Pa saumya
 
-
-
 स चाण्डालो ऽपि शुद्धात्मा पूज्य एव न संशयः \।\।१९३\।\।
 
 तत्रैवोत्तरखण्डे श्री[^FNA003690]शिवपार्वती[^FNA003691]संवादे—
@@ -10239,13 +8034,9 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     śrī\] V1 V2 Va Edd *deest*
 
-
-
 [^FNA003691]:
 
     śivapārvatī\] Va B1 B3 Edd śivomā-
-
-
 
 ऊर्ध्वपुण्ड्रस्य मध्ये तु विशाले सुमनोहरे[^FNA003692] \।
 
@@ -10253,27 +8044,19 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     sumanohare\] Od tu manohare
 
-
-
 लक्ष्म्या सार्धं[^FNA003693] समासीनो देव[^FNA003694]देवो[^FNA003695] जनार्दनः \।\।१९४\।\।
 
 [^FNA003693]:
 
     sārdhaṃ\] B3 saha
 
-
-
 [^FNA003694]:
 
     deva\] B2 Od para-
 
-
-
 [^FNA003695]:
 
     devo\] B3 -deva-
-
-
 
 समासीनो ऽस्ति[^FNA003696] \।\।१९४\।\।
 
@@ -10281,15 +8064,11 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     sti\] B1 *add*. śrīrāmacandro jayati
 
-
-
 तस्माद् यस्य शरीरे[^FNA003697] तु ऊर्ध्वपुण्ड्रं धृतं भवेत् \।
 
 [^FNA003697]:
 
     śarīre\] R1 śarīraṃ
-
-
 
 तस्य देहं[^FNA003698] भगवतो[^FNA003699] विमलं[^FNA003700] मन्दिरं स्मृतम् \।\।१९५\।\।
 
@@ -10297,19 +8076,13 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     dehaṃ\] B1 deho
 
-
-
 [^FNA003699]:
 
     bhagavato\] Od *gl*. (śrīkṛṣṇasya)
 
-
-
 [^FNA003700]:
 
     vimalaṃ\] B2 vilayaṃ
-
-
 
 ऊर्ध्वपुण्ड्रधरो विप्रः सर्वलोकेषु पूजितः \।
 
@@ -10329,8 +8102,6 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     dharo\] Od *a.c*. -vidhā
 
-
-
 कल्पकोटिसहस्राणि वैकुण्ठे वासम् आप्नुयात् \।\।१९९\।\।
 
 यज्ञदानतपश्चर्याजपहोमादिकं च यत् \।
@@ -10342,8 +8113,6 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 [^FNA003702]:
 
     brahmāṇḍa\] Edd *ante* śrī-
-
-
 
 अशुचिर् वाप्य् अनाचारो मनसा पापम् आचरन् \।
 
@@ -10362,25 +8131,17 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     śvapāko\] B2 śvapāco
 
-
-
 [^FNA003704]:
 
     śvapāko pi\] Od *gl*. (cāṇḍālo ’pi)
-
-
 
 [^FNA003705]:
 
     pi\] V1 *deest*
 
-
-
 [^FNA003706]:
 
     vimānastho\] R1 vimāne stho
-
-
 
 ऊर्ध्वपुण्ड्रधरो मर्त्यो गृहे यस्यान्नम् अश्नुते \।
 
@@ -10389,8 +8150,6 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 [^FNA003707]:
 
     uddharāmy ahaṃ\] R1 uddhṛto mayā
-
-
 
 विंशत् कुलं विंशतिकुलानि \।\।२०३\।\।
 
@@ -10402,21 +8161,15 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     brahmāṇḍa\] Edd *ante* śrī-
 
-
-
 वीक्ष्यादर्शे[^FNA003710] जले वापि यो विदध्यात् प्रयत्नतः \।
 
 [^FNA003709]:
 
     brahmāṇḍapurāṇe\] B2 brahmāṇḍe
 
-
-
 [^FNA003710]:
 
     ādarśe\] Od *gl*. (darpaṇe)
-
-
 
 ऊर्ध्वपुण्ड्रं महाभाग स याति परमां गतिम् \।\।२०४\।\।
 
@@ -10430,8 +8183,6 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     tu\] Od ca
 
-
-
 ऊर्ध्वपुण्ड्रस्य ललाटे मुख्यत्वात् तत्रत्योर्ध्वपुण्ड्रनिर्माणप्रकारं लिखति वीक्ष्येत्यादिना \। अतः परं कनिष्ठम् इत्य् अर्थः \।\।२०४–२०६\।\।
 
 पद्मपुराणे उत्तरखण्डे तत्रैव—[^FNA003712]
@@ -10442,15 +8193,11 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     uttarakhaṇḍe tatraiva\] B2 *transp*.
 
-
-
 सान्तरालं प्रकुर्वन्ति पुण्ड्रं हरिपदाकृतिम्[^FNA003713] \।\।२०७\।\।
 
 [^FNA003713]:
 
     ākṛtim\] Pa -ākṛtiḥ
-
-
 
 श्यामं शान्तिकरं प्रोक्तं रक्तं[^FNA003714] वश्यकरं तथा \।
 
@@ -10458,15 +8205,11 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     raktaṃ\] B2 sarva-
 
-
-
 श्रीकरं पीतम् इत्य् आहुः श्वेतं मोक्षकरं[^FNA003715] शुभम् \।\।२०८\।\।
 
 [^FNA003715]:
 
     karaṃ\] R1 Pa Va B2 -pradaṃ
-
-
 
 वर्तुलं तिर्यग् अच्छिद्रं ह्रस्वं दीर्घतरं तनु[^FNA003716] \।
 
@@ -10474,21 +8217,15 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     tanu\] B3 tanum : Od *gl*. (kṣīnaṃ vā)
 
-
-
 वक्रं विरूपं बद्धाग्रं[^FNA003717] भिन्नमूलं पदच्युतम्[^FNA003718] \।\।२०९\।\।
 
 [^FNA003717]:
 
     baddhāgraṃ\] B2 jihvāgraṃ (?)
 
-
-
 [^FNA003718]:
 
     padacyutam\] Od *gl*. (padāt sthānāt cyutam)
-
-
 
 अशुभ्रं रूक्षम् आसक्तं[^FNA003719] तथा नाङ्गुलिकल्पितम् \।
 
@@ -10496,14 +8233,11 @@ The statement of the Lord in the same book (–):\[^FNB000508\]
 
     āsaktaṃ\] Pa B3 Od āraktaṃ
 
-
-
 विगन्धम् अपसव्यं च पुण्ड्रम्[^FNA003720] आहुर् अनर्थकम् \।\।२१०\।\।
 
 [^FNA003720]:
 
     puṇḍram\] B2 putram
-
 
 </details>
 
@@ -10536,25 +8270,17 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     śvapāko\] B2 śvapāco
 
-
-
 [^FNA003704]:
 
     śvapāko pi\] Od *gl*. (cāṇḍālo ’pi)
-
-
 
 [^FNA003705]:
 
     pi\] V1 *deest*
 
-
-
 [^FNA003706]:
 
     vimānastho\] R1 vimāne stho
-
-
 
 ऊर्ध्वपुण्ड्रधरो मर्त्यो गृहे यस्यान्नम् अश्नुते \।
 
@@ -10563,8 +8289,6 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 [^FNA003707]:
 
     uddharāmy ahaṃ\] R1 uddhṛto mayā
-
-
 
 विंशत् कुलं विंशतिकुलानि \।\।२०३\।\।
 
@@ -10576,21 +8300,15 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     brahmāṇḍa\] Edd *ante* śrī-
 
-
-
 वीक्ष्यादर्शे[^FNA003710] जले वापि यो विदध्यात् प्रयत्नतः \।
 
 [^FNA003709]:
 
     brahmāṇḍapurāṇe\] B2 brahmāṇḍe
 
-
-
 [^FNA003710]:
 
     ādarśe\] Od *gl*. (darpaṇe)
-
-
 
 ऊर्ध्वपुण्ड्रं महाभाग स याति परमां गतिम् \।\।२०४\।\।
 
@@ -10604,8 +8322,6 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     tu\] Od ca
 
-
-
 ऊर्ध्वपुण्ड्रस्य ललाटे मुख्यत्वात् तत्रत्योर्ध्वपुण्ड्रनिर्माणप्रकारं लिखति वीक्ष्येत्यादिना \। अतः परं कनिष्ठम् इत्य् अर्थः \।\।२०४–२०६\।\।
 
 पद्मपुराणे उत्तरखण्डे तत्रैव—[^FNA003712]
@@ -10616,15 +8332,11 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     uttarakhaṇḍe tatraiva\] B2 *transp*.
 
-
-
 सान्तरालं प्रकुर्वन्ति पुण्ड्रं हरिपदाकृतिम्[^FNA003713] \।\।२०७\।\।
 
 [^FNA003713]:
 
     ākṛtim\] Pa -ākṛtiḥ
-
-
 
 श्यामं शान्तिकरं प्रोक्तं रक्तं[^FNA003714] वश्यकरं तथा \।
 
@@ -10632,15 +8344,11 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     raktaṃ\] B2 sarva-
 
-
-
 श्रीकरं पीतम् इत्य् आहुः श्वेतं मोक्षकरं[^FNA003715] शुभम् \।\।२०८\।\।
 
 [^FNA003715]:
 
     karaṃ\] R1 Pa Va B2 -pradaṃ
-
-
 
 वर्तुलं तिर्यग् अच्छिद्रं ह्रस्वं दीर्घतरं तनु[^FNA003716] \।
 
@@ -10648,21 +8356,15 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     tanu\] B3 tanum : Od *gl*. (kṣīnaṃ vā)
 
-
-
 वक्रं विरूपं बद्धाग्रं[^FNA003717] भिन्नमूलं पदच्युतम्[^FNA003718] \।\।२०९\।\।
 
 [^FNA003717]:
 
     baddhāgraṃ\] B2 jihvāgraṃ (?)
 
-
-
 [^FNA003718]:
 
     padacyutam\] Od *gl*. (padāt sthānāt cyutam)
-
-
 
 अशुभ्रं रूक्षम् आसक्तं[^FNA003719] तथा नाङ्गुलिकल्पितम् \।
 
@@ -10670,14 +8372,11 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     āsaktaṃ\] Pa B3 Od āraktaṃ
 
-
-
 विगन्धम् अपसव्यं च पुण्ड्रम्[^FNA003720] आहुर् अनर्थकम् \।\।२१०\।\।
 
 [^FNA003720]:
 
     puṇḍram\] B2 putram
-
 
 </details>
 
@@ -10691,15 +8390,11 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     pracakṣyate\] R1 B3 pracakṣate : Pa pracakṣati : B2 pramucyate
 
-
-
 समारभ्य भ्रुवोर् मध्यम् अन्तरालं[^FNA003722] प्रकल्पयेत् \।\।२१२\।\।
 
 [^FNA003722]:
 
     antarālaṃ\] B1 sāntarālaṃ
-
-
 
 सान्तरालं मध्ये छिद्रान्वितं,[^FNA003723] तद् एवाह हरिपदाकृतीति \। ततम् इति पाठे विस्तृतम्[^FNA003724] \। पदच्युतं स्थानभ्रष्टम् \। अशुभ्रं मलिनम् \। आसक्तम् अन्योन्यसंलग्नम् \। पाठान्तरं सुगमम् \। विगन्धं दुर्गन्धि \। अपसव्यं वामहस्तकल्पितम् \। त्रयोभागास् तृतीयो विभाग[^FNA003725] इत्य् अर्थः \। तथा सदाचारदर्शनात् \।\।२०७–२१२\।\।
 
@@ -10707,27 +8402,19 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     chidrānvitaṃ\] B3 *ins*. nirgatam antarālaṃ madhyachidraṃ yasmāt
 
-
-
 [^FNA003724]:
 
     vistṛtam\] B3 vismṛtam
 
-
-
 [^FNA003725]:
 
     vibhāga\] B1 bhāga
-
-
 
 *अथोर्ध्वपुण्ड्रस्य मध्यच्छिद्र[^FNA003726]नित्यता*
 
 [^FNA003726]:
 
     cchidra\] B2 -cchidrasya
-
-
 
 तत्रैव—
 
@@ -10736,8 +8423,6 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 [^FNA003727]:
 
     nirantarālaṃ\] Od *gl*. (chidrarahitam)
-
-
 
 स हि तत्र स्थितं विष्णुं लक्ष्मीं चैव व्यपोहति \।\।२१३\।\।
 
@@ -10753,8 +8438,6 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     darśane\] Pa -darśanam
 
-
-
 व्यपोहेति निरस्यतीति महादोषोक्त्या नित्यता बोधिता \। एवम् अग्रे ऽप्य् ऊह्यम् \।\।२१५\।\।
 
 *अत एवोक्तं[^FNA003729] हरिमन्दिरलक्षणम्*
@@ -10763,15 +8446,11 @@ In the Uttarakhaṇḍa of the Padma Purāṇa (6.225.21, 40–43):\[^FNB000511\
 
     ata evoktaṃ\] Edd *deest*
 
-
-
 नासादिकेशपर्यन्तम् ऊर्ध्वपुण्ड्रं सुशोभनम्[^FNA003730] \।
 
 [^FNA003730]:
 
     viprāṇāṃ … suśobhanam\] B1 *om*.
-
-
 
 मध्ये छिद्रसमायुक्तं तद् विद्याद् धरिमन्दिरम् \।\।२१६\।\।
 </details>
@@ -10805,15 +8484,11 @@ In the same book (6.255.26–27, 24cd):
 
     pracakṣyate\] R1 B3 pracakṣate : Pa pracakṣati : B2 pramucyate
 
-
-
 समारभ्य भ्रुवोर् मध्यम् अन्तरालं[^FNA003722] प्रकल्पयेत् \।\।२१२\।\।
 
 [^FNA003722]:
 
     antarālaṃ\] B1 sāntarālaṃ
-
-
 
 सान्तरालं मध्ये छिद्रान्वितं,[^FNA003723] तद् एवाह हरिपदाकृतीति \। ततम् इति पाठे विस्तृतम्[^FNA003724] \। पदच्युतं स्थानभ्रष्टम् \। अशुभ्रं मलिनम् \। आसक्तम् अन्योन्यसंलग्नम् \। पाठान्तरं सुगमम् \। विगन्धं दुर्गन्धि \। अपसव्यं वामहस्तकल्पितम् \। त्रयोभागास् तृतीयो विभाग[^FNA003725] इत्य् अर्थः \। तथा सदाचारदर्शनात् \।\।२०७–२१२\।\।
 
@@ -10821,27 +8496,19 @@ In the same book (6.255.26–27, 24cd):
 
     chidrānvitaṃ\] B3 *ins*. nirgatam antarālaṃ madhyachidraṃ yasmāt
 
-
-
 [^FNA003724]:
 
     vistṛtam\] B3 vismṛtam
 
-
-
 [^FNA003725]:
 
     vibhāga\] B1 bhāga
-
-
 
 *अथोर्ध्वपुण्ड्रस्य मध्यच्छिद्र[^FNA003726]नित्यता*
 
 [^FNA003726]:
 
     cchidra\] B2 -cchidrasya
-
-
 
 तत्रैव—
 
@@ -10850,8 +8517,6 @@ In the same book (6.255.26–27, 24cd):
 [^FNA003727]:
 
     nirantarālaṃ\] Od *gl*. (chidrarahitam)
-
-
 
 स हि तत्र स्थितं विष्णुं लक्ष्मीं चैव व्यपोहति \।\।२१३\।\।
 
@@ -10867,8 +8532,6 @@ In the same book (6.255.26–27, 24cd):
 
     darśane\] Pa -darśanam
 
-
-
 व्यपोहेति निरस्यतीति महादोषोक्त्या नित्यता बोधिता \। एवम् अग्रे ऽप्य् ऊह्यम् \।\।२१५\।\।
 
 *अत एवोक्तं[^FNA003729] हरिमन्दिरलक्षणम्*
@@ -10877,15 +8540,11 @@ In the same book (6.255.26–27, 24cd):
 
     ata evoktaṃ\] Edd *deest*
 
-
-
 नासादिकेशपर्यन्तम् ऊर्ध्वपुण्ड्रं सुशोभनम्[^FNA003730] \।
 
 [^FNA003730]:
 
     viprāṇāṃ … suśobhanam\] B1 *om*.
-
-
 
 मध्ये छिद्रसमायुक्तं तद् विद्याद् धरिमन्दिरम् \।\।२१६\।\।
 </details>
@@ -10898,19 +8557,13 @@ In the same book (6.255.26–27, 24cd):
 
     pārśve\] V1 Pa B2 Od -bhāge
 
-
-
 [^FNA003732]:
 
     sthito\] B2 vased
 
-
-
 [^FNA003733]:
 
     ca\] V2 tu
-
-
 
 मध्ये विष्णुं[^FNA003734] विजानीयात् तस्मान् मध्यं न लेपयेत्[^FNA003735] \।\।२१७\।\।
 
@@ -10918,13 +8571,9 @@ In the same book (6.255.26–27, 24cd):
 
     viṣṇuṃ\] B2 *add*. śrīśrīhariḥ \|
 
-
-
 [^FNA003735]:
 
     lepayet\] R1 lepanam : B1 B2 B3 Od² Edd *add*. atha (B1 Edd *deest*) vāyupurāṇe sevāparādhe \| adhṛtvā cordhvapuṇḍraṃ ca hareḥ pūjāṃ karoti yaḥ \| tiryagpuṇḍradharo yas tu yajed devaṃ janārdanam \|\| acchidreṇordhvapuṇḍreṇa bhasmanā tiryagaṅginā \| adhṛtvā śaṅkhacakre ca (B1 B3 *deest* : Od² *ins*. sa yāti narakaṃ mahat) ity ādi (Edd cety ādinā) doṣa uktaḥ \|\|
-
-
 
 श्रुतिश् च,[^FNA003736] यजुर्वेदस्य हिरण्यकेशीय[^FNA003737]शखायाम्—
 
@@ -10932,13 +8581,9 @@ In the same book (6.255.26–27, 24cd):
 
     śrutiś ca\] B2 *deest*
 
-
-
 [^FNA003737]:
 
     keśīya\] V1 Pa Va B3 -keśī-
-
-
 
 हरेः पदाक्रान्तिम् आत्मनो[^FNA003738] निधाराय[^FNA003739][^FNA003740] मध्ये[^FNA003741] छिद्रम् ऊर्ध्वपुण्ड्रं यो धारयति स परस्य प्रियो भवति स पुण्यवान्[^FNA003742] स मुक्तिभाग् भवति \।\। इति \।\।२१८\।\।
 
@@ -10946,39 +8591,27 @@ In the same book (6.255.26–27, 24cd):
 
     ātmano\] B2 Od ātmani
 
-
-
 [^FNA003739]:
 
     ātmano nidhārāya\] Edd ātmani dhārayati yaḥ sa parasya priyo bhavati sa puṇyavān
-
-
 
 [^FNA003740]:
 
     nidhārāya\] B2 Od dhārayan : B1 vidhāya
 
-
-
 [^FNA003741]:
 
     madhye\] Od madhya-
 
-
-
 [^FNA003742]:
 
     sa … puṇyavān\] Edd *deest*
-
-
 
 *तिलकरचनाङ्गुलिनियमे[^FNA003743]*
 
 [^FNA003743]:
 
     niyame\] Edd niyamaḥ
-
-
 
 स्मृतिः—
 
@@ -10990,15 +8623,11 @@ In the same book (6.255.26–27, 24cd):
 
     sādhanī\] B2 -dāyinī
 
-
-
 *अथोर्ध्वपुण्ड्र[^FNA003745]मृत्तिकाः*
 
 [^FNA003745]:
 
     puṇḍra\] V1 R1 Pa -puṇḍrārtha- : B2 Od -puṇḍrārthe
-
-
 
 पद्मपुराणे तत्रैव—
 
@@ -11014,15 +8643,11 @@ In the same book (6.255.26–27, 24cd):
 
     tatra mṛttikām\] Pa tattanmūrtikām
 
-
-
 श्रीरङ्गे वेङ्कटाद्रौ[^FNA003747] च श्रीकूर्मे द्वारके शुभे \।
 
 [^FNA003747]:
 
     veṅkaṭādrau\] Od *gl*. (parvataviśeṣaḥ) (veṅkaṭaparvate)
-
-
 
 प्रयागे नारसिंहाद्रौ वाराहे तुलसीवने \।\।२२२\।\।
 
@@ -11064,19 +8689,13 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     pārśve\] V1 Pa B2 Od -bhāge
 
-
-
 [^FNA003732]:
 
     sthito\] B2 vased
 
-
-
 [^FNA003733]:
 
     ca\] V2 tu
-
-
 
 मध्ये विष्णुं[^FNA003734] विजानीयात् तस्मान् मध्यं न लेपयेत्[^FNA003735] \।\।२१७\।\।
 
@@ -11084,13 +8703,9 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     viṣṇuṃ\] B2 *add*. śrīśrīhariḥ \|
 
-
-
 [^FNA003735]:
 
     lepayet\] R1 lepanam : B1 B2 B3 Od² Edd *add*. atha (B1 Edd *deest*) vāyupurāṇe sevāparādhe \| adhṛtvā cordhvapuṇḍraṃ ca hareḥ pūjāṃ karoti yaḥ \| tiryagpuṇḍradharo yas tu yajed devaṃ janārdanam \|\| acchidreṇordhvapuṇḍreṇa bhasmanā tiryagaṅginā \| adhṛtvā śaṅkhacakre ca (B1 B3 *deest* : Od² *ins*. sa yāti narakaṃ mahat) ity ādi (Edd cety ādinā) doṣa uktaḥ \|\|
-
-
 
 श्रुतिश् च,[^FNA003736] यजुर्वेदस्य हिरण्यकेशीय[^FNA003737]शखायाम्—
 
@@ -11098,13 +8713,9 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     śrutiś ca\] B2 *deest*
 
-
-
 [^FNA003737]:
 
     keśīya\] V1 Pa Va B3 -keśī-
-
-
 
 हरेः पदाक्रान्तिम् आत्मनो[^FNA003738] निधाराय[^FNA003739][^FNA003740] मध्ये[^FNA003741] छिद्रम् ऊर्ध्वपुण्ड्रं यो धारयति स परस्य प्रियो भवति स पुण्यवान्[^FNA003742] स मुक्तिभाग् भवति \।\। इति \।\।२१८\।\।
 
@@ -11112,39 +8723,27 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     ātmano\] B2 Od ātmani
 
-
-
 [^FNA003739]:
 
     ātmano nidhārāya\] Edd ātmani dhārayati yaḥ sa parasya priyo bhavati sa puṇyavān
-
-
 
 [^FNA003740]:
 
     nidhārāya\] B2 Od dhārayan : B1 vidhāya
 
-
-
 [^FNA003741]:
 
     madhye\] Od madhya-
 
-
-
 [^FNA003742]:
 
     sa … puṇyavān\] Edd *deest*
-
-
 
 *तिलकरचनाङ्गुलिनियमे[^FNA003743]*
 
 [^FNA003743]:
 
     niyame\] Edd niyamaḥ
-
-
 
 स्मृतिः—
 
@@ -11156,15 +8755,11 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     sādhanī\] B2 -dāyinī
 
-
-
 *अथोर्ध्वपुण्ड्र[^FNA003745]मृत्तिकाः*
 
 [^FNA003745]:
 
     puṇḍra\] V1 R1 Pa -puṇḍrārtha- : B2 Od -puṇḍrārthe
-
-
 
 पद्मपुराणे तत्रैव—
 
@@ -11180,15 +8775,11 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     tatra mṛttikām\] Pa tattanmūrtikām
 
-
-
 श्रीरङ्गे वेङ्कटाद्रौ[^FNA003747] च श्रीकूर्मे द्वारके शुभे \।
 
 [^FNA003747]:
 
     veṅkaṭādrau\] Od *gl*. (parvataviśeṣaḥ) (veṅkaṭaparvate)
-
-
 
 प्रयागे नारसिंहाद्रौ वाराहे तुलसीवने \।\।२२२\।\।
 
@@ -11209,21 +8800,15 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     divyaṃ\] B2 dravyaṃ
 
-
-
 *तत्र[^FNA003749] श्री[^FNA003750]गोपीचन्दनमाहात्म्यम्*
 
 [^FNA003749]:
 
     tatra\] Pa *deest*
 
-
-
 [^FNA003750]:
 
     śrī\] B1 *deest*
-
-
 
 उक्तं[^FNA003751] च पाद्मे श्री[^FNA003752]नारदेन—[^FNA003753]
 
@@ -11231,13 +8816,9 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     uktaṃ\] Od uktaś
 
-
-
 [^FNA003752]:
 
     śrī\] B2 *deest*
-
-
 
 ब्रह्मघ्नो वाथ गोघ्नो वा हैतुकः[^FNA003754] सर्वपापकृत् \।
 
@@ -11245,13 +8826,9 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     pādme … nāradena\] R1 Pa Od padmapurāṇe nāradena (Pa *add*. uktam)
 
-
-
 [^FNA003754]:
 
     haitukaḥ\] Va hetukaḥ
-
-
 
 गोपीचन्दनसम्पर्कात् पूतो भवति तत्क्षणात् \।\।२२५\।\।
 
@@ -11261,15 +8838,11 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     khaṇḍaṃ\] B1 B3 -puṇḍraṃ
 
-
-
 कुलम् एकोत्तरं तेन सम्भवेत्[^FNA003756] तारितं शतम् \।\।२२६\।\।
 
 [^FNA003756]:
 
     sambhavet\] Pa svāṃ bhavet : B1 svaṃ taret : B2 santaret : B3 svabhavet
-
-
 
 स्कन्दपुराणे श्रीध्रुवेण—
 
@@ -11278,8 +8851,6 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 [^FNA003757]:
 
     gopī … dharaḥ\] Od *deest*
-
-
 
 गोपीचन्दनलिप्ताङ्गो दृष्टश् चेत् तद् अघं कुतः \।\।२२७\।\।
 
@@ -11291,15 +8862,11 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     gopī … kutaḥ\] V2 *om*.
 
-
-
 शालग्रामः शालग्रामशिला सचक्रकः द्वारका[^FNA003759]चक्राङ्कसहितः \।\।२२८\।\।
 
 [^FNA003759]:
 
     dvārakā\] V1² *i.m*.
-
-
 
 काशीखण्डे च श्री[^FNA003760]यमेन—[^FNA003761]
 
@@ -11307,27 +8874,19 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     ca śrī\] B1 *deest*
 
-
-
 श्रीखण्डे[^FNA003762] क्व स आमोदः स्वर्णे[^FNA003763] वर्णः क्व तादृशः \।
 
 [^FNA003761]:
 
     ca … yamena\] B2 tatraiva yamena
 
-
-
 [^FNA003762]:
 
     śrīkhaṇḍe\] Od *gl*. (malayaparvate)
 
-
-
 [^FNA003763]:
 
     svarṇe\] Edd svaro
-
-
 
 तत् पावित्र्यं क्व वै तीर्थे श्रीगोपीचन्दने यथा[^FNA003764] \।\।२२९\।\।
 
@@ -11335,15 +8894,11 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     yathā\] Va B3 tathā
 
-
-
 *अथ गोपी[^FNA003765]चन्दनोर्ध्वपुण्ड्रमाहात्म्यम्*
 
 [^FNA003765]:
 
     gopī\] V1 R1 *ante* śrī-
-
-
 
 उक्तं च[^FNA003766] गरुडपुराणे श्री[^FNA003767]नारदेन—
 
@@ -11351,13 +8906,9 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 
     ca\] B2 Od *deest*
 
-
-
 [^FNA003767]:
 
     śrī\] B3 Edd *deest*
-
-
 
 यो मृत्तिकां द्वारवतीसमुद्भवां
 
@@ -11366,7 +8917,6 @@ In the same place of the Padma Purāṇa (6.225.35–38):
 [^FNA003768]:
 
     paṭṭake\] V1 R1 Pa Va B3 -paṭṭe : B2 Od -ke budhaḥ
-
 
 </details>
 
@@ -11411,21 +8961,15 @@ In his hand and on the board of his forehead
 
     divyaṃ\] B2 dravyaṃ
 
-
-
 *तत्र[^FNA003749] श्री[^FNA003750]गोपीचन्दनमाहात्म्यम्*
 
 [^FNA003749]:
 
     tatra\] Pa *deest*
 
-
-
 [^FNA003750]:
 
     śrī\] B1 *deest*
-
-
 
 उक्तं[^FNA003751] च पाद्मे श्री[^FNA003752]नारदेन—[^FNA003753]
 
@@ -11433,13 +8977,9 @@ In his hand and on the board of his forehead
 
     uktaṃ\] Od uktaś
 
-
-
 [^FNA003752]:
 
     śrī\] B2 *deest*
-
-
 
 ब्रह्मघ्नो वाथ गोघ्नो वा हैतुकः[^FNA003754] सर्वपापकृत् \।
 
@@ -11447,13 +8987,9 @@ In his hand and on the board of his forehead
 
     pādme … nāradena\] R1 Pa Od padmapurāṇe nāradena (Pa *add*. uktam)
 
-
-
 [^FNA003754]:
 
     haitukaḥ\] Va hetukaḥ
-
-
 
 गोपीचन्दनसम्पर्कात् पूतो भवति तत्क्षणात् \।\।२२५\।\।
 
@@ -11463,15 +8999,11 @@ In his hand and on the board of his forehead
 
     khaṇḍaṃ\] B1 B3 -puṇḍraṃ
 
-
-
 कुलम् एकोत्तरं तेन सम्भवेत्[^FNA003756] तारितं शतम् \।\।२२६\।\।
 
 [^FNA003756]:
 
     sambhavet\] Pa svāṃ bhavet : B1 svaṃ taret : B2 santaret : B3 svabhavet
-
-
 
 स्कन्दपुराणे श्रीध्रुवेण—
 
@@ -11480,8 +9012,6 @@ In his hand and on the board of his forehead
 [^FNA003757]:
 
     gopī … dharaḥ\] Od *deest*
-
-
 
 गोपीचन्दनलिप्ताङ्गो दृष्टश् चेत् तद् अघं कुतः \।\।२२७\।\।
 
@@ -11493,15 +9023,11 @@ In his hand and on the board of his forehead
 
     gopī … kutaḥ\] V2 *om*.
 
-
-
 शालग्रामः शालग्रामशिला सचक्रकः द्वारका[^FNA003759]चक्राङ्कसहितः \।\।२२८\।\।
 
 [^FNA003759]:
 
     dvārakā\] V1² *i.m*.
-
-
 
 काशीखण्डे च श्री[^FNA003760]यमेन—[^FNA003761]
 
@@ -11509,27 +9035,19 @@ In his hand and on the board of his forehead
 
     ca śrī\] B1 *deest*
 
-
-
 श्रीखण्डे[^FNA003762] क्व स आमोदः स्वर्णे[^FNA003763] वर्णः क्व तादृशः \।
 
 [^FNA003761]:
 
     ca … yamena\] B2 tatraiva yamena
 
-
-
 [^FNA003762]:
 
     śrīkhaṇḍe\] Od *gl*. (malayaparvate)
 
-
-
 [^FNA003763]:
 
     svarṇe\] Edd svaro
-
-
 
 तत् पावित्र्यं क्व वै तीर्थे श्रीगोपीचन्दने यथा[^FNA003764] \।\।२२९\।\।
 
@@ -11537,15 +9055,11 @@ In his hand and on the board of his forehead
 
     yathā\] Va B3 tathā
 
-
-
 *अथ गोपी[^FNA003765]चन्दनोर्ध्वपुण्ड्रमाहात्म्यम्*
 
 [^FNA003765]:
 
     gopī\] V1 R1 *ante* śrī-
-
-
 
 उक्तं च[^FNA003766] गरुडपुराणे श्री[^FNA003767]नारदेन—
 
@@ -11553,13 +9067,9 @@ In his hand and on the board of his forehead
 
     ca\] B2 Od *deest*
 
-
-
 [^FNA003767]:
 
     śrī\] B3 Edd *deest*
-
-
 
 यो मृत्तिकां द्वारवतीसमुद्भवां
 
@@ -11568,7 +9078,6 @@ In his hand and on the board of his forehead
 [^FNA003768]:
 
     paṭṭake\] V1 R1 Pa Va B3 -paṭṭe : B2 Od -ke budhaḥ
-
 
 </details>
 
@@ -11580,8 +9089,6 @@ In his hand and on the board of his forehead
 
     tv\] B2 *deest*
 
-
-
 क्रियाफलं कोटिगुणं सदा भवेत् \।\।२३०\।\।
 
 क्रियावि[^FNA003770]हीनं यदि मन्त्रहीनं
@@ -11589,8 +9096,6 @@ In his hand and on the board of his forehead
 [^FNA003770]:
 
     vi\] Pa *deest*
-
-
 
 श्रद्धाविहीनं यदि कालवर्जितम् \।
 
@@ -11602,15 +9107,11 @@ In his hand and on the board of his forehead
 
     karma\] B1 *om*.
 
-
-
 गोपिचन्दनम् इति ह्रस्वत्वम् आर्षम् \। यदीत्य् अस्य पूर्वार्धेनैव सम्बन्धः \। यद्य् अपि क्रियादिहीनं कर्म स्यात् तथापि गोपीचन्दनं ललाटे कृत्वा तेनोर्ध्वपुण्ड्रं निर्माय तत्फलम् अक्षयं प्राप्नोतीत्य् अर्थः[^FNA003772] \।\।२३१\।\।
 
 [^FNA003772]:
 
     arthaḥ\] B2 *add*. śrīśrīhariḥ \| śrīśrīrādhākṛṣṇaśaraṇam \| śrīśrīgopāla jayati \| śrīśrīgovinda jayati \| śrīśrīkṛṣṇaśaraṇam \|
-
-
 
 गोपीचन्दनसम्भवं सुरुचिरं पुण्ड्रं ललाटे द्विजो
 
@@ -11620,21 +9121,15 @@ In his hand and on the board of his forehead
 
     dvijapate\] R1 dvijāyate
 
-
-
 यत् पुण्यं कुरुजाङ्गले[^FNA003774] रविग्रहे माघ्यां[^FNA003775] प्रयागे तथा
 
 [^FNA003774]:
 
     kurujāṅgale\] Od *gl*. (deśe)
 
-
-
 [^FNA003775]:
 
     māghyāṃ\] B2 mādhya- : B3 māgha-
-
-
 
 तत् प्राप्नोति खगेन्द्र विष्णुसदने सन्तिष्ठते देववत् \।\।२३२\।\।
 
@@ -11643,8 +9138,6 @@ In his hand and on the board of his forehead
 [^FNA003776]:
 
     garuḍa\] V1 B2 *ante* śrī-
-
-
 
 यस्मिन् गृहे तिष्ठति गोपिचन्दनं
 
@@ -11656,21 +9149,15 @@ In his hand and on the board of his forehead
 
     gṛhe\] B1 *om*.
 
-
-
 श्रद्धान्वितः कंसनिहा विहङ्गम[^FNA003778][^FNA003779] \।\।२३३\।\।
 
 [^FNA003778]:
 
     nihā vihaṅgama\] R1 -nikṛntano hariḥ
 
-
-
 [^FNA003779]:
 
     vihaṅgama\] B2 vihaṅgamaḥ
-
-
 
 यो धारयेत् कृष्णपुरीसमुद्भवां
 
@@ -11684,15 +9171,11 @@ In his hand and on the board of his forehead
 
     saṃvṛtaḥ\] V1 R1 Pa Va B1 B3 Od -saṃyutaḥ
 
-
-
 कृष्णपुरी श्रीद्वारका \। तत्समुद्भवां[^FNA003781] मृदम् इति शेषः \।\।२३४\।\।
 
 [^FNA003781]:
 
     samudbhavāṃ\] B3 -samudbhavāṃ
-
-
 
 यस्यान्तकाले खग गोपिचन्दनं
 
@@ -11703,8 +9186,6 @@ In his hand and on the board of his forehead
 [^FNA003782]:
 
     kamalālayaṃ\] V1 Pa Od kamalālayā : R1 kamalāpate layā : Od *gl*. (kamlalālayā prabhoḥ śrīkṛṣṇasya lokaṃ vaikuṇṭham)
-
-
 
 गोबालघाती यदि ब्रह्महा भवेत् \।\।२३५\।\।
 </details>
@@ -11770,8 +9251,6 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     tv\] B2 *deest*
 
-
-
 क्रियाफलं कोटिगुणं सदा भवेत् \।\।२३०\।\।
 
 क्रियावि[^FNA003770]हीनं यदि मन्त्रहीनं
@@ -11779,8 +9258,6 @@ even were he a killer of a calf or of a Brāhmaṇa.
 [^FNA003770]:
 
     vi\] Pa *deest*
-
-
 
 श्रद्धाविहीनं यदि कालवर्जितम् \।
 
@@ -11792,15 +9269,11 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     karma\] B1 *om*.
 
-
-
 गोपिचन्दनम् इति ह्रस्वत्वम् आर्षम् \। यदीत्य् अस्य पूर्वार्धेनैव सम्बन्धः \। यद्य् अपि क्रियादिहीनं कर्म स्यात् तथापि गोपीचन्दनं ललाटे कृत्वा तेनोर्ध्वपुण्ड्रं निर्माय तत्फलम् अक्षयं प्राप्नोतीत्य् अर्थः[^FNA003772] \।\।२३१\।\।
 
 [^FNA003772]:
 
     arthaḥ\] B2 *add*. śrīśrīhariḥ \| śrīśrīrādhākṛṣṇaśaraṇam \| śrīśrīgopāla jayati \| śrīśrīgovinda jayati \| śrīśrīkṛṣṇaśaraṇam \|
-
-
 
 गोपीचन्दनसम्भवं सुरुचिरं पुण्ड्रं ललाटे द्विजो
 
@@ -11810,21 +9283,15 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     dvijapate\] R1 dvijāyate
 
-
-
 यत् पुण्यं कुरुजाङ्गले[^FNA003774] रविग्रहे माघ्यां[^FNA003775] प्रयागे तथा
 
 [^FNA003774]:
 
     kurujāṅgale\] Od *gl*. (deśe)
 
-
-
 [^FNA003775]:
 
     māghyāṃ\] B2 mādhya- : B3 māgha-
-
-
 
 तत् प्राप्नोति खगेन्द्र विष्णुसदने सन्तिष्ठते देववत् \।\।२३२\।\।
 
@@ -11833,8 +9300,6 @@ even were he a killer of a calf or of a Brāhmaṇa.
 [^FNA003776]:
 
     garuḍa\] V1 B2 *ante* śrī-
-
-
 
 यस्मिन् गृहे तिष्ठति गोपिचन्दनं
 
@@ -11846,21 +9311,15 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     gṛhe\] B1 *om*.
 
-
-
 श्रद्धान्वितः कंसनिहा विहङ्गम[^FNA003778][^FNA003779] \।\।२३३\।\।
 
 [^FNA003778]:
 
     nihā vihaṅgama\] R1 -nikṛntano hariḥ
 
-
-
 [^FNA003779]:
 
     vihaṅgama\] B2 vihaṅgamaḥ
-
-
 
 यो धारयेत् कृष्णपुरीसमुद्भवां
 
@@ -11874,15 +9333,11 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     saṃvṛtaḥ\] V1 R1 Pa Va B1 B3 Od -saṃyutaḥ
 
-
-
 कृष्णपुरी श्रीद्वारका \। तत्समुद्भवां[^FNA003781] मृदम् इति शेषः \।\।२३४\।\।
 
 [^FNA003781]:
 
     samudbhavāṃ\] B3 -samudbhavāṃ
-
-
 
 यस्यान्तकाले खग गोपिचन्दनं
 
@@ -11893,8 +9348,6 @@ even were he a killer of a calf or of a Brāhmaṇa.
 [^FNA003782]:
 
     kamalālayaṃ\] V1 Pa Od kamalālayā : R1 kamalāpate layā : Od *gl*. (kamlalālayā prabhoḥ śrīkṛṣṇasya lokaṃ vaikuṇṭham)
-
-
 
 गोबालघाती यदि ब्रह्महा भवेत् \।\।२३५\।\।
 </details>
@@ -11913,8 +9366,6 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     yasyā … prasādataḥ\] Va *deest*
 
-
-
 न पीडन्ति न पीडयन्ति \।\।२३६\।\।
 
 पद्मपुराणे श्रीगौतमेन—[^FNA003784]
@@ -11925,15 +9376,11 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     gautamena\] Edd gotamena
 
-
-
 ललाटे यैः कृतं नित्यं गोपीचन्दनपुण्ड्रकम्[^FNA003785] \।\।२३७\।\।
 
 [^FNA003785]:
 
     puṇḍrakam\] Va *add*. yasyāntakāle khaga gopīcandanaṃ bāhvor lalāṭe hṛdimastake ca \| prayāti lokaṃ kamalālayā prabhor gobālaghātī yadi brahmahā bhavet \|\| grahā na pīḍanti na rakṣasāṃ gaṇāḥ yakṣāḥ piśācoragabhūtadānavāḥ \| lalāṭapaṭṭe khaga gopīcandanaṃ santiṣṭhate yasya dūreḥ prasādataḥ \|\|
-
-
 
 काशीखण्डे च[^FNA003786] श्रीयमेन—
 
@@ -11941,15 +9388,11 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     ca\] B3 *deest*
 
-
-
 दूताः शृणुत यद्भालं गोपीचन्दनलाञ्छितम्[^FNA003787] \।
 
 [^FNA003787]:
 
     lāñchitam\] Od *gl*. (cihnitaṃ bhavati)
-
-
 
 ज्वलदिङ्गलवत्[^FNA003788] सो ऽपि दूरे त्याज्यः[^FNA003789][^FNA003790] प्रयत्नतः \।\। इति[^FNA003791] \।\।२३८\।\।
 
@@ -11957,25 +9400,17 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     iṅgalavat\] B2 Od Edd -indhanavat
 
-
-
 [^FNA003789]:
 
     dūre tyājyaḥ\] B1 B3 Edd *transp*.
-
-
 
 [^FNA003790]:
 
     tyājyaḥ\] Od *gl*. (yuṣmābhiḥ)
 
-
-
 [^FNA003791]:
 
     iti\] B3 *deest*
-
-
 
 इङ्गलम्[^FNA003792] अङ्गारः \।\।२३८\।\।
 
@@ -11983,15 +9418,11 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     iṅgalam\] Edd indhanam
 
-
-
 अथ[^FNA003793] तस्योपरि श्रीमत्तुलसीमूलमृत्स्नया \।
 
 [^FNA003793]:
 
     atha\] Od *gl*. (athānantaraṃ śrīgopīcandanapuṇḍrānantaraṃ tasyopari lalāṭopari)
-
-
 
 तत्रैव[^FNA003794] वैष्णवैः कार्यम् ऊर्ध्वपुण्ड्रं मनोरमम्[^FNA003795][^FNA003796] \।\।२३९\।\।
 
@@ -11999,19 +9430,13 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     tatraiva\] V2 R1 Od tathaiva
 
-
-
 [^FNA003795]:
 
     atha … ramam\] Pa² *i.m*.
 
-
-
 [^FNA003796]:
 
     ramam\] Edd -haram
-
-
 
 *अथ श्रीतुलसीमूल[^FNA003797]मृत्[^FNA003798]पुण्ड्रमाहात्म्यम्*
 
@@ -12019,13 +9444,9 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     mūla\] Va Od *deest*
 
-
-
 [^FNA003798]:
 
     mṛt\] Edd -mṛttikā-
-
-
 
 स्कान्दे[^FNA003799] श्री[^FNA003800]तुलसीमूलमृत्तिकाप्रसङ्गे—[^FNA003801]
 
@@ -12033,13 +9454,9 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     skānde\] B3 *ins*. atha
 
-
-
 [^FNA003800]:
 
     śrī\] B2 *deest*
-
-
 
 तन्मृदं गृह्य यैः पुण्ड्रं ललाटे धारितं[^FNA003802] नरैः \।
 
@@ -12047,21 +9464,15 @@ even were he a killer of a calf or of a Brāhmaṇa.
 
     skānde … prasaṅge\] Edd *deest*
 
-
-
 [^FNA003802]:
 
     lalāṭe dhāritaṃ\] R1 manoraritaṃ
-
-
 
 प्रमाणकं[^FNA003803] कृतं तैस् तु मोक्षाय गमनं प्रति \।\।२४०\।\।
 
 [^FNA003803]:
 
     pramāṇakaṃ\] V2 Va B1 prayāṇakaṃ : Pa prayāṇekaṃ
-
-
 
 तन्मृदं श्रीतुलसीमूलमृत्तिकां, तत्प्रसङ्गात् \। गृह्य गृहीत्वा \।\।२४०\।\।
 </details>
@@ -12113,8 +9524,6 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     yasyā … prasādataḥ\] Va *deest*
 
-
-
 न पीडन्ति न पीडयन्ति \।\।२३६\।\।
 
 पद्मपुराणे श्रीगौतमेन—[^FNA003784]
@@ -12125,15 +9534,11 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     gautamena\] Edd gotamena
 
-
-
 ललाटे यैः कृतं नित्यं गोपीचन्दनपुण्ड्रकम्[^FNA003785] \।\।२३७\।\।
 
 [^FNA003785]:
 
     puṇḍrakam\] Va *add*. yasyāntakāle khaga gopīcandanaṃ bāhvor lalāṭe hṛdimastake ca \| prayāti lokaṃ kamalālayā prabhor gobālaghātī yadi brahmahā bhavet \|\| grahā na pīḍanti na rakṣasāṃ gaṇāḥ yakṣāḥ piśācoragabhūtadānavāḥ \| lalāṭapaṭṭe khaga gopīcandanaṃ santiṣṭhate yasya dūreḥ prasādataḥ \|\|
-
-
 
 काशीखण्डे च[^FNA003786] श्रीयमेन—
 
@@ -12141,15 +9546,11 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     ca\] B3 *deest*
 
-
-
 दूताः शृणुत यद्भालं गोपीचन्दनलाञ्छितम्[^FNA003787] \।
 
 [^FNA003787]:
 
     lāñchitam\] Od *gl*. (cihnitaṃ bhavati)
-
-
 
 ज्वलदिङ्गलवत्[^FNA003788] सो ऽपि दूरे त्याज्यः[^FNA003789][^FNA003790] प्रयत्नतः \।\। इति[^FNA003791] \।\।२३८\।\।
 
@@ -12157,25 +9558,17 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     iṅgalavat\] B2 Od Edd -indhanavat
 
-
-
 [^FNA003789]:
 
     dūre tyājyaḥ\] B1 B3 Edd *transp*.
-
-
 
 [^FNA003790]:
 
     tyājyaḥ\] Od *gl*. (yuṣmābhiḥ)
 
-
-
 [^FNA003791]:
 
     iti\] B3 *deest*
-
-
 
 इङ्गलम्[^FNA003792] अङ्गारः \।\।२३८\।\।
 
@@ -12183,15 +9576,11 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     iṅgalam\] Edd indhanam
 
-
-
 अथ[^FNA003793] तस्योपरि श्रीमत्तुलसीमूलमृत्स्नया \।
 
 [^FNA003793]:
 
     atha\] Od *gl*. (athānantaraṃ śrīgopīcandanapuṇḍrānantaraṃ tasyopari lalāṭopari)
-
-
 
 तत्रैव[^FNA003794] वैष्णवैः कार्यम् ऊर्ध्वपुण्ड्रं मनोरमम्[^FNA003795][^FNA003796] \।\।२३९\।\।
 
@@ -12199,19 +9588,13 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     tatraiva\] V2 R1 Od tathaiva
 
-
-
 [^FNA003795]:
 
     atha … ramam\] Pa² *i.m*.
 
-
-
 [^FNA003796]:
 
     ramam\] Edd -haram
-
-
 
 *अथ श्रीतुलसीमूल[^FNA003797]मृत्[^FNA003798]पुण्ड्रमाहात्म्यम्*
 
@@ -12219,13 +9602,9 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     mūla\] Va Od *deest*
 
-
-
 [^FNA003798]:
 
     mṛt\] Edd -mṛttikā-
-
-
 
 स्कान्दे[^FNA003799] श्री[^FNA003800]तुलसीमूलमृत्तिकाप्रसङ्गे—[^FNA003801]
 
@@ -12233,13 +9612,9 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     skānde\] B3 *ins*. atha
 
-
-
 [^FNA003800]:
 
     śrī\] B2 *deest*
-
-
 
 तन्मृदं गृह्य यैः पुण्ड्रं ललाटे धारितं[^FNA003802] नरैः \।
 
@@ -12247,21 +9622,15 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     skānde … prasaṅge\] Edd *deest*
 
-
-
 [^FNA003802]:
 
     lalāṭe dhāritaṃ\] R1 manoraritaṃ
-
-
 
 प्रमाणकं[^FNA003803] कृतं तैस् तु मोक्षाय गमनं प्रति \।\।२४०\।\।
 
 [^FNA003803]:
 
     pramāṇakaṃ\] V2 Va B1 prayāṇakaṃ : Pa prayāṇekaṃ
-
-
 
 तन्मृदं श्रीतुलसीमूलमृत्तिकां, तत्प्रसङ्गात् \। गृह्य गृहीत्वा \।\।२४०\।\।
 </details>
@@ -12274,19 +9643,13 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     tatraiva\] V1 Edd *ins*. ca
 
-
-
 [^FNA003805]:
 
     śrī\] Edd *deest*
 
-
-
 [^FNA003806]:
 
     brahma\] B1 -kṛṣṇa-
-
-
 
 तुलसीमृत्तिकापुण्ड्रं ललाटे यस्य दृश्यते \।
 
@@ -12296,27 +9659,19 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     kārttikamāhātmye … nārada\] V2² *i.m*.
 
-
-
 अप्यर्थे तुशब्दः \। क्रियमाणम् अपि पापं[^FNA003808] कर्तृ[^FNA003809]देहम् अपि न स्पृशति, कुतो मन[^FNA003810]आदीत्य् अर्थः \।\।२४१\।\।
 
 [^FNA003808]:
 
     pāpaṃ\] B3 *a.c* pākaṃ
 
-
-
 [^FNA003809]:
 
     kartṛ\] B3 kartur
 
-
-
 [^FNA003810]:
 
     mana\] B2 yena
-
-
 
 गरुडपुराणे च—[^FNA003811][^FNA003812]
 
@@ -12324,15 +9679,11 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     garuḍa … ca\] V2² *i.m*.
 
-
-
 तुलसीमृत्तिकापुण्ड्रं यः करोति दिने दिने \।
 
 [^FNA003812]:
 
     ca\] B2 Edd *deest*
-
-
 
 तस्यावलोकनात् पापं याति वर्षकृतं नृणाम् \।\। इति \।\।२४२\।\।
 
@@ -12342,13 +9693,9 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 
     tasyo\] B1 yasyo-
 
-
-
 [^FNA003814]:
 
     tasyopariṣṭād\] R1 tasyopari śrī- : Od *gl*. (tasyā tulasyā mṛttikā upariṣṭhād anantaram tilakād antaram)
-
-
 
 तथैव धार्यम् एवं हि त्रिविधं तिलकं स्मृतम् \।\।२४३\।\।
 
@@ -12357,8 +9704,6 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 [^FNA003815]:
 
     mudrāṃ\] Od *gl*. (chāpā iti)
-
-
 
 मत्स्यकूर्मादिचिह्नानि चक्रादीन्य् आयुधानि च \।\।२४४\।\।
 
@@ -12379,7 +9724,6 @@ From the context, *this clay* means the clay from the roots of Tulasī. \[…\]
 [^FNA003816]:
 
     rāṣṭrāt pravāsayet\] B2 *lac*.
-
 
 </details>
 
@@ -12416,19 +9760,13 @@ In the Āditya Purāṇa:
 
     tatraiva\] V1 Edd *ins*. ca
 
-
-
 [^FNA003805]:
 
     śrī\] Edd *deest*
 
-
-
 [^FNA003806]:
 
     brahma\] B1 -kṛṣṇa-
-
-
 
 तुलसीमृत्तिकापुण्ड्रं ललाटे यस्य दृश्यते \।
 
@@ -12438,27 +9776,19 @@ In the Āditya Purāṇa:
 
     kārttikamāhātmye … nārada\] V2² *i.m*.
 
-
-
 अप्यर्थे तुशब्दः \। क्रियमाणम् अपि पापं[^FNA003808] कर्तृ[^FNA003809]देहम् अपि न स्पृशति, कुतो मन[^FNA003810]आदीत्य् अर्थः \।\।२४१\।\।
 
 [^FNA003808]:
 
     pāpaṃ\] B3 *a.c* pākaṃ
 
-
-
 [^FNA003809]:
 
     kartṛ\] B3 kartur
 
-
-
 [^FNA003810]:
 
     mana\] B2 yena
-
-
 
 गरुडपुराणे च—[^FNA003811][^FNA003812]
 
@@ -12466,15 +9796,11 @@ In the Āditya Purāṇa:
 
     garuḍa … ca\] V2² *i.m*.
 
-
-
 तुलसीमृत्तिकापुण्ड्रं यः करोति दिने दिने \।
 
 [^FNA003812]:
 
     ca\] B2 Edd *deest*
-
-
 
 तस्यावलोकनात् पापं याति वर्षकृतं नृणाम् \।\। इति \।\।२४२\।\।
 
@@ -12484,13 +9810,9 @@ In the Āditya Purāṇa:
 
     tasyo\] B1 yasyo-
 
-
-
 [^FNA003814]:
 
     tasyopariṣṭād\] R1 tasyopari śrī- : Od *gl*. (tasyā tulasyā mṛttikā upariṣṭhād anantaram tilakād antaram)
-
-
 
 तथैव धार्यम् एवं हि त्रिविधं तिलकं स्मृतम् \।\।२४३\।\।
 
@@ -12499,8 +9821,6 @@ In the Āditya Purāṇa:
 [^FNA003815]:
 
     mudrāṃ\] Od *gl*. (chāpā iti)
-
-
 
 मत्स्यकूर्मादिचिह्नानि चक्रादीन्य् आयुधानि च \।\।२४४\।\।
 
@@ -12522,7 +9842,6 @@ In the Āditya Purāṇa:
 
     rāṣṭrāt pravāsayet\] B2 *lac*.
 
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -12541,8 +9860,6 @@ In the Āditya Purāṇa:
 
     cakrādibhiś\] B1 -cakrādikaiś
 
-
-
 रहितः सर्वधर्मेभ्यः प्रच्युतो नरकं व्रजेत् \।\।२४८\।\।
 
 श्रुतौ च[^FNA003818] यजुःकठ[^FNA003819]शाखायाम्—
@@ -12551,13 +9868,9 @@ In the Āditya Purāṇa:
 
     ca\] B3 *deest*
 
-
-
 [^FNA003819]:
 
     kaṭha\] B2 *deest*
-
-
 
 धृतोर्ध्वपुण्ड्रः कृतचक्रधारी
 
@@ -12567,15 +9880,11 @@ In the Āditya Purāṇa:
 
     dhyāyati\] Od *gl*. (dhāvyātiśuddho pūjayatīty arthaḥ)
 
-
-
 स्वरेण[^FNA003821] मन्त्रेण सदा हृदि स्थितं
 
 [^FNA003821]:
 
     svareṇa\] Od smareṇa
-
-
 
 परात्परं यन् महतो महान्तम् \।\।२४९\।\।
 
@@ -12589,21 +9898,15 @@ In the Āditya Purāṇa:
 
     bhavema\] Pa bhavet
 
-
-
 [^FNA003823]:
 
     ma\] B2 *lac*.
-
-
 
 तद् विष्णोः परमं[^FNA003824] पदं
 
 [^FNA003824]:
 
     paramaṃ\] V2 paraṃ
-
-
 
 ये गच्छन्ति लाञ्छिताः \।\। इत्यादि \।\।२५०\।\।
 
@@ -12615,21 +9918,15 @@ In the Āditya Purāṇa:
 
     dṛṣṭvā\] B2 dṛṣṭaṃ
 
-
-
 द्वादशा[^FNA003826]ब्दार्जितं पुण्यं बाष्कलायोप[^FNA003827]गच्छति \।\।२५१\।\।
 
 [^FNA003826]:
 
     dvādaśā\] Va ādaśā-
 
-
-
 [^FNA003827]:
 
     bāṣkalāyopa\] Od niṣphalāyopa- : B1 Edd cāphalayopa-
-
-
 
 कृतं गोपीचन्दनादिना निर्मितम् अङ्कितं चक्रम्[^FNA003828] धर्तुं शीलम् अस्येति तथा सः[^FNA003829] \। किं वक्तव्यं मुद्राधारणस्य माहात्म्यं[^FNA003830] \। तद्धारकसम्मानस्यापि[^FNA003831] नित्यता ब्राह्मवचनेन गम्यत इति लिखति कृष्णेति \।\।२४९–२५१\।\।
 
@@ -12637,24 +9934,17 @@ In the Āditya Purāṇa:
 
     cakram\] B3 *a.c*. cakṣuṃ
 
-
-
 [^FNA003829]:
 
     saḥ\] B2 *add*. śrīśrīrādhāgovinda jayati śrīśrīgopīvallabha jayati \|
-
-
 
 [^FNA003830]:
 
     māhātmyaṃ\] B1 B3 Edd nityatvam
 
-
-
 [^FNA003831]:
 
     sammānasyāpi\] V1 V2 -sammānanasyāpi
-
 
 </details>
 
@@ -12713,8 +10003,6 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     cakrādibhiś\] B1 -cakrādikaiś
 
-
-
 रहितः सर्वधर्मेभ्यः प्रच्युतो नरकं व्रजेत् \।\।२४८\।\।
 
 श्रुतौ च[^FNA003818] यजुःकठ[^FNA003819]शाखायाम्—
@@ -12723,13 +10011,9 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     ca\] B3 *deest*
 
-
-
 [^FNA003819]:
 
     kaṭha\] B2 *deest*
-
-
 
 धृतोर्ध्वपुण्ड्रः कृतचक्रधारी
 
@@ -12739,15 +10023,11 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     dhyāyati\] Od *gl*. (dhāvyātiśuddho pūjayatīty arthaḥ)
 
-
-
 स्वरेण[^FNA003821] मन्त्रेण सदा हृदि स्थितं
 
 [^FNA003821]:
 
     svareṇa\] Od smareṇa
-
-
 
 परात्परं यन् महतो महान्तम् \।\।२४९\।\।
 
@@ -12761,21 +10041,15 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     bhavema\] Pa bhavet
 
-
-
 [^FNA003823]:
 
     ma\] B2 *lac*.
-
-
 
 तद् विष्णोः परमं[^FNA003824] पदं
 
 [^FNA003824]:
 
     paramaṃ\] V2 paraṃ
-
-
 
 ये गच्छन्ति लाञ्छिताः \।\। इत्यादि \।\।२५०\।\।
 
@@ -12787,21 +10061,15 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     dṛṣṭvā\] B2 dṛṣṭaṃ
 
-
-
 द्वादशा[^FNA003826]ब्दार्जितं पुण्यं बाष्कलायोप[^FNA003827]गच्छति \।\।२५१\।\।
 
 [^FNA003826]:
 
     dvādaśā\] Va ādaśā-
 
-
-
 [^FNA003827]:
 
     bāṣkalāyopa\] Od niṣphalāyopa- : B1 Edd cāphalayopa-
-
-
 
 कृतं गोपीचन्दनादिना निर्मितम् अङ्कितं चक्रम्[^FNA003828] धर्तुं शीलम् अस्येति तथा सः[^FNA003829] \। किं वक्तव्यं मुद्राधारणस्य माहात्म्यं[^FNA003830] \। तद्धारकसम्मानस्यापि[^FNA003831] नित्यता ब्राह्मवचनेन गम्यत इति लिखति कृष्णेति \।\।२४९–२५१\।\।
 
@@ -12809,24 +10077,17 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     cakram\] B3 *a.c*. cakṣuṃ
 
-
-
 [^FNA003829]:
 
     saḥ\] B2 *add*. śrīśrīrādhāgovinda jayati śrīśrīgopīvallabha jayati \|
-
-
 
 [^FNA003830]:
 
     māhātmyaṃ\] B1 B3 Edd nityatvam
 
-
-
 [^FNA003831]:
 
     sammānasyāpi\] V1 V2 -sammānanasyāpi
-
 
 </details>
 
@@ -12842,15 +10103,11 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     viprendra\] Od viprendraḥ
 
-
-
 स याति विष्णुलोकं वै[^FNA003833] दाहप्रलयवर्जितम् \।\।२५२\।\।
 
 [^FNA003833]:
 
     vai\] Od hi
-
-
 
 तत्रैवान्यत्र—[^FNA003834]
 
@@ -12860,23 +10117,17 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     tatraivānyatra\] Edd tatra vānyatra ca
 
-
-
 पापकोटिप्रयुक्तस्य तस्य किं[^FNA003835] कुरुते यमः \।\।२५३\।\।
 
 [^FNA003835]:
 
     tasya kiṃ\] B3 *transp*.
 
-
-
 शङ्खोद्धारे तु यत् प्रोक्तं वसतां[^FNA003836] वर्षकोटिभिः \।
 
 [^FNA003836]:
 
     vasatāṃ\] Od satāṃ ca
-
-
 
 तत् फलं लिखिते शङ्खे प्रत्यहं दक्षिणे भुजे \।\।२५४\।\।
 
@@ -12890,15 +10141,11 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     vāme\] B3 vāma-
 
-
-
 गदाधरो गयापुण्यं प्रत्यहं तस्य[^FNA003838] यच्छति \।\।२५६\।\।
 
 [^FNA003838]:
 
     tasya\] R1 yasya
-
-
 
 यच् चानन्दपुरे प्रोक्तं चक्रस्वामिसमीपतः \।
 
@@ -12912,13 +10159,9 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     uktau\] R1 Pa B2 Od *add*. ca
 
-
-
 [^FNA003840]:
 
     mṛdam\] Va Od mṛdām
-
-
 
 मत्स्यकूर्मादिकं चिह्नं गृहीत्वा[^FNA003841] कुरुते नरः \।\।२५८\।\।
 
@@ -12926,15 +10169,11 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     gṛhītvā\] B2 gṛhī yaḥ
 
-
-
 देहे तस्य प्रविष्टो ऽहं[^FNA003842] जानन्तु त्रिदशोत्तमाः \।
 
 [^FNA003842]:
 
     haṃ\] B3 ’yaṃ
-
-
 
 तस्य मे नान्तरं[^FNA003843] किञ्चित् कर्तव्यं श्रेय इच्छता[^FNA003844][^FNA003845] \।\।२५९\।\।
 
@@ -12942,19 +10181,13 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     tasya … nāntaraṃ\] B2 tasyām anantaraṃ
 
-
-
 [^FNA003844]:
 
     tasya … icchatā\] B1 *deest*
 
-
-
 [^FNA003845]:
 
     icchatā\] Od *gl*. (janena)
-
-
 
 ममावतारचिह्नानि[^FNA003846] दृश्यन्ते यस्य विग्रहे[^FNA003847] \।
 
@@ -12962,20 +10195,15 @@ And so on. Therefore, in the Brahma Purāṇa (–):
 
     mamāvatāracihnāni\] B2 samavetāni cihnāni
 
-
-
 [^FNA003847]:
 
     vigrahe\] B1 *add*. tasya me nāntaraṃ kiñcit kartyaṃ śreya icchatā
-
-
 
 मर्त्यैर् मर्त्यो न विज्ञेयः स नूनं मामकी[^FNA003848] तनुः \।\।२६०\।\।
 
 [^FNA003848]:
 
     māmakī\] Pa māmakaṃ
-
 
 </details>
 
@@ -13008,15 +10236,11 @@ In the words of the Lord:\[^FNB000531\]
 
     viprendra\] Od viprendraḥ
 
-
-
 स याति विष्णुलोकं वै[^FNA003833] दाहप्रलयवर्जितम् \।\।२५२\।\।
 
 [^FNA003833]:
 
     vai\] Od hi
-
-
 
 तत्रैवान्यत्र—[^FNA003834]
 
@@ -13026,23 +10250,17 @@ In the words of the Lord:\[^FNB000531\]
 
     tatraivānyatra\] Edd tatra vānyatra ca
 
-
-
 पापकोटिप्रयुक्तस्य तस्य किं[^FNA003835] कुरुते यमः \।\।२५३\।\।
 
 [^FNA003835]:
 
     tasya kiṃ\] B3 *transp*.
 
-
-
 शङ्खोद्धारे तु यत् प्रोक्तं वसतां[^FNA003836] वर्षकोटिभिः \।
 
 [^FNA003836]:
 
     vasatāṃ\] Od satāṃ ca
-
-
 
 तत् फलं लिखिते शङ्खे प्रत्यहं दक्षिणे भुजे \।\।२५४\।\।
 
@@ -13056,15 +10274,11 @@ In the words of the Lord:\[^FNB000531\]
 
     vāme\] B3 vāma-
 
-
-
 गदाधरो गयापुण्यं प्रत्यहं तस्य[^FNA003838] यच्छति \।\।२५६\।\।
 
 [^FNA003838]:
 
     tasya\] R1 yasya
-
-
 
 यच् चानन्दपुरे प्रोक्तं चक्रस्वामिसमीपतः \।
 
@@ -13078,13 +10292,9 @@ In the words of the Lord:\[^FNB000531\]
 
     uktau\] R1 Pa B2 Od *add*. ca
 
-
-
 [^FNA003840]:
 
     mṛdam\] Va Od mṛdām
-
-
 
 मत्स्यकूर्मादिकं चिह्नं गृहीत्वा[^FNA003841] कुरुते नरः \।\।२५८\।\।
 
@@ -13092,15 +10302,11 @@ In the words of the Lord:\[^FNB000531\]
 
     gṛhītvā\] B2 gṛhī yaḥ
 
-
-
 देहे तस्य प्रविष्टो ऽहं[^FNA003842] जानन्तु त्रिदशोत्तमाः \।
 
 [^FNA003842]:
 
     haṃ\] B3 ’yaṃ
-
-
 
 तस्य मे नान्तरं[^FNA003843] किञ्चित् कर्तव्यं श्रेय इच्छता[^FNA003844][^FNA003845] \।\।२५९\।\।
 
@@ -13108,19 +10314,13 @@ In the words of the Lord:\[^FNB000531\]
 
     tasya … nāntaraṃ\] B2 tasyām anantaraṃ
 
-
-
 [^FNA003844]:
 
     tasya … icchatā\] B1 *deest*
 
-
-
 [^FNA003845]:
 
     icchatā\] Od *gl*. (janena)
-
-
 
 ममावतारचिह्नानि[^FNA003846] दृश्यन्ते यस्य विग्रहे[^FNA003847] \।
 
@@ -13128,20 +10328,15 @@ In the words of the Lord:\[^FNB000531\]
 
     mamāvatāracihnāni\] B2 samavetāni cihnāni
 
-
-
 [^FNA003847]:
 
     vigrahe\] B1 *add*. tasya me nāntaraṃ kiñcit kartyaṃ śreya icchatā
-
-
 
 मर्त्यैर् मर्त्यो न विज्ञेयः स नूनं मामकी[^FNA003848] तनुः \।\।२६०\।\।
 
 [^FNA003848]:
 
     māmakī\] Pa māmakaṃ
-
 
 </details>
 
@@ -13161,15 +10356,11 @@ In the words of the Lord:\[^FNB000531\]
 
     kūrmayāpi … tasya\] B2 kūrmatejo vinikṣiptaṃ dhanaṃ tasya ca : Od kūrmeṇa tejo nikṣiptaṃ cihnena tasya : Od *gl*. (bhagavatā tejo nikṣiptaṃ bhavati)
 
-
-
 शङ्खं च पद्मं च गदां रथाङ्गं[^FNA003850][^FNA003851]
 
 [^FNA003850]:
 
     gadāṃ rathāṅgaṃ\] B2 gadādhvāṅgam
-
-
 
 मत्स्यं च कूर्मं रचितं[^FNA003852] स्वदेहे \।
 
@@ -13177,13 +10368,9 @@ In the words of the Lord:\[^FNB000531\]
 
     rathāṅgaṃ\] Od *gl*. (cakram)
 
-
-
 [^FNA003852]:
 
     racitaṃ\] B2 pūritaṃ
-
-
 
 करोति नित्यं सुकृतस्य[^FNA003853] वृद्धिं
 
@@ -13191,15 +10378,11 @@ In the words of the Lord:\[^FNB000531\]
 
     sukṛtasya\] B3 *ins*. dehe
 
-
-
 पापक्षयं जन्मशतार्जितस्य[^FNA003854] \।\।२६३\।\।
 
 [^FNA003854]:
 
     janmaśatārjitasya\] Od *gl*. (saviśeṣane hi vidhiniśedhau viśeṣaṇam upasaṃkrāmataḥ sati viśeṣo hi bādhe)
-
-
 
 निक्षिप्तं मया \। यः स्वदेहे रचितं करोति, स सुकृतवृद्ध्यादि[^FNA003855] करोतीत्य् अर्थः \। समासस्थस्यापि पापशब्दस्य[^FNA003856] जन्मशतार्जितस्येति[^FNA003857] विशेषणम् आर्षम् \।\।२६२–२६३\।\।
 
@@ -13207,19 +10390,13 @@ In the words of the Lord:\[^FNB000531\]
 
     vṛddhyādi\] V1 B2 B3 *ins*. ca
 
-
-
 [^FNA003856]:
 
     śabdasya\] B2 -saṃvadasya : B3 -śabda-
 
-
-
 [^FNA003857]:
 
     ārjitasyeti\] B1 B3 -ārjitasyāpi
-
-
 
 तत्रैव श्रीब्रह्मनारदसंवादे—
 
@@ -13229,13 +10406,9 @@ In the words of the Lord:\[^FNB000531\]
 
     śastrā\] B2 Od -śaṅkhā- : Od *gl*. (śaṅkhasya aṅkaḥ kṛṣṇasya śaṅkhāṅka eva kavacam)
 
-
-
 [^FNA003859]:
 
     durbhedyaṃ\] B2 durlabhaṃ : Od *ins*. bhavati
-
-
 
 अदृश्यं[^FNA003860] सर्वभूतानां शत्रूणां रक्षसाम् अपि \।\।२६४\।\।
 
@@ -13243,29 +10416,21 @@ In the words of the Lord:\[^FNB000531\]
 
     adṛśyaṃ\] Pa ādhṛṣṭāṃ : B2 adṛśyaḥ
 
-
-
 लक्ष्मीः सरस्वती दुर्गा सावित्री हरि[^FNA003861]वल्लभा[^FNA003862] \।
 
 [^FNA003861]:
 
     hari\] R1 Va hara-
 
-
-
 [^FNA003862]:
 
     vallabhā\] R1 -vallabha : B2 -vallabhāḥ
-
-
 
 नित्यं तस्य वसेद् देहे[^FNA003863] यस्य शङ्खाङ्किता तनुः \।\।२६५\।\।
 
 [^FNA003863]:
 
     dehe\] B2 gehe
-
-
 
 गङ्गा गया कुरुक्षेत्रं प्रयागं पुष्करादि च \।
 
@@ -13277,13 +10442,9 @@ In the words of the Lord:\[^FNB000531\]
 
     kalipriya\] Od *gl*. (he nārada)
 
-
-
 [^FNA003865]:
 
     priya\] Pa -priyā
-
-
 
 प्रत्यहं तत्र द्रष्टव्यो गङ्गासागरसङ्गमः \।\।२६७\।\।
 
@@ -13293,15 +10454,11 @@ In the words of the Lord:\[^FNB000531\]
 
     savye\] R1 Va madhye
 
-
-
 कृष्णेन सहितं तत्र[^FNA003867] त्रैलोक्यं सचराचरम् \।\।२६८\।\।
 
 [^FNA003867]:
 
     sahitaṃ tatra\] R1 sahitarahas tā
-
-
 
 त्रयो ऽग्नयस्[^FNA003868] त्रयो देवा[^FNA003869] विष्णोस् त्रीणि[^FNA003870] पदानि च \।
 
@@ -13309,26 +10466,19 @@ In the words of the Lord:\[^FNB000531\]
 
     trayo gnayas\] V1² *gl*. dakṣiṇāgnir garhapatyāhavanīyau trayo ’gnaya ity amaraḥ \| : Od² *gl*. gl. (dakṣināgnir garhapatya āhavāgni)
 
-
-
 [^FNA003869]:
 
     devā\] Pa vedā
 
-
-
 [^FNA003870]:
 
     trīṇi\] B2 citra-
-
-
 
 निवसन्ति सदा तस्य[^FNA003871] यस्य देहे सुदर्शनम् \।\।२६९\।\।
 
 [^FNA003871]:
 
     tasya\] B2 tatra
-
 
 </details>
 
@@ -13369,15 +10519,11 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     kūrmayāpi … tasya\] B2 kūrmatejo vinikṣiptaṃ dhanaṃ tasya ca : Od kūrmeṇa tejo nikṣiptaṃ cihnena tasya : Od *gl*. (bhagavatā tejo nikṣiptaṃ bhavati)
 
-
-
 शङ्खं च पद्मं च गदां रथाङ्गं[^FNA003850][^FNA003851]
 
 [^FNA003850]:
 
     gadāṃ rathāṅgaṃ\] B2 gadādhvāṅgam
-
-
 
 मत्स्यं च कूर्मं रचितं[^FNA003852] स्वदेहे \।
 
@@ -13385,13 +10531,9 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     rathāṅgaṃ\] Od *gl*. (cakram)
 
-
-
 [^FNA003852]:
 
     racitaṃ\] B2 pūritaṃ
-
-
 
 करोति नित्यं सुकृतस्य[^FNA003853] वृद्धिं
 
@@ -13399,15 +10541,11 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     sukṛtasya\] B3 *ins*. dehe
 
-
-
 पापक्षयं जन्मशतार्जितस्य[^FNA003854] \।\।२६३\।\।
 
 [^FNA003854]:
 
     janmaśatārjitasya\] Od *gl*. (saviśeṣane hi vidhiniśedhau viśeṣaṇam upasaṃkrāmataḥ sati viśeṣo hi bādhe)
-
-
 
 निक्षिप्तं मया \। यः स्वदेहे रचितं करोति, स सुकृतवृद्ध्यादि[^FNA003855] करोतीत्य् अर्थः \। समासस्थस्यापि पापशब्दस्य[^FNA003856] जन्मशतार्जितस्येति[^FNA003857] विशेषणम् आर्षम् \।\।२६२–२६३\।\।
 
@@ -13415,19 +10553,13 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     vṛddhyādi\] V1 B2 B3 *ins*. ca
 
-
-
 [^FNA003856]:
 
     śabdasya\] B2 -saṃvadasya : B3 -śabda-
 
-
-
 [^FNA003857]:
 
     ārjitasyeti\] B1 B3 -ārjitasyāpi
-
-
 
 तत्रैव श्रीब्रह्मनारदसंवादे—
 
@@ -13437,13 +10569,9 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     śastrā\] B2 Od -śaṅkhā- : Od *gl*. (śaṅkhasya aṅkaḥ kṛṣṇasya śaṅkhāṅka eva kavacam)
 
-
-
 [^FNA003859]:
 
     durbhedyaṃ\] B2 durlabhaṃ : Od *ins*. bhavati
-
-
 
 अदृश्यं[^FNA003860] सर्वभूतानां शत्रूणां रक्षसाम् अपि \।\।२६४\।\।
 
@@ -13451,29 +10579,21 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     adṛśyaṃ\] Pa ādhṛṣṭāṃ : B2 adṛśyaḥ
 
-
-
 लक्ष्मीः सरस्वती दुर्गा सावित्री हरि[^FNA003861]वल्लभा[^FNA003862] \।
 
 [^FNA003861]:
 
     hari\] R1 Va hara-
 
-
-
 [^FNA003862]:
 
     vallabhā\] R1 -vallabha : B2 -vallabhāḥ
-
-
 
 नित्यं तस्य वसेद् देहे[^FNA003863] यस्य शङ्खाङ्किता तनुः \।\।२६५\।\।
 
 [^FNA003863]:
 
     dehe\] B2 gehe
-
-
 
 गङ्गा गया कुरुक्षेत्रं प्रयागं पुष्करादि च \।
 
@@ -13485,13 +10605,9 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     kalipriya\] Od *gl*. (he nārada)
 
-
-
 [^FNA003865]:
 
     priya\] Pa -priyā
-
-
 
 प्रत्यहं तत्र द्रष्टव्यो गङ्गासागरसङ्गमः \।\।२६७\।\।
 
@@ -13501,15 +10617,11 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     savye\] R1 Va madhye
 
-
-
 कृष्णेन सहितं तत्र[^FNA003867] त्रैलोक्यं सचराचरम् \।\।२६८\।\।
 
 [^FNA003867]:
 
     sahitaṃ tatra\] R1 sahitarahas tā
-
-
 
 त्रयो ऽग्नयस्[^FNA003868] त्रयो देवा[^FNA003869] विष्णोस् त्रीणि[^FNA003870] पदानि च \।
 
@@ -13517,26 +10629,19 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     trayo gnayas\] V1² *gl*. dakṣiṇāgnir garhapatyāhavanīyau trayo ’gnaya ity amaraḥ \| : Od² *gl*. gl. (dakṣināgnir garhapatya āhavāgni)
 
-
-
 [^FNA003869]:
 
     devā\] Pa vedā
 
-
-
 [^FNA003870]:
 
     trīṇi\] B2 citra-
-
-
 
 निवसन्ति सदा तस्य[^FNA003871] यस्य देहे सुदर्शनम् \।\।२६९\।\।
 
 [^FNA003871]:
 
     tasya\] B2 tatra
-
 
 </details>
 
@@ -13552,27 +10657,19 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     ūrdhvalokā\] Od *gl*. (ūrdhvalokaṃ divaṃ nabha iti)
 
-
-
 कृष्णमुद्राप्रयुक्तस् तु[^FNA003873] दैवं[^FNA003874] पित्र्यं[^FNA003875] करोति यः \।
 
 [^FNA003873]:
 
     tu\] B1 ca
 
-
-
 [^FNA003874]:
 
     daivaṃ\] Va daivīṃ
 
-
-
 [^FNA003875]:
 
     pitryaṃ\] B2 paitraṃ
-
-
 
 नित्यं नैमित्तिकं काम्यं प्रत्यहं चाक्षयं[^FNA003876] भवेत् \।\।२७१\।\।
 
@@ -13580,15 +10677,11 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     cākṣayaṃ\] Pa vākṣayaṃ
 
-
-
 पीडयन्ति न तत्रैव ग्रहा ऋक्षाणि[^FNA003877] राशयः \।
 
 [^FNA003877]:
 
     grahā ṛkṣāṇi\] Pa grahāt saṁkṣāni
-
-
 
 अष्टाक्षराङ्किता मुद्रा यस्य धातुमयी करे \।\।२७२\।\।
 
@@ -13602,8 +10695,6 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     snayā\] Od *gl*. (karaṇayā)
 
-
-
 प्रयागादिषु तीर्थेषु स गत्वा किं करिष्यति \।\।२७३\।\।
 
 यदा यस्य प्रपश्येत देहं शङ्खादिचिह्नितम् \।
@@ -13614,13 +10705,9 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     tadā\] Edd tasya
 
-
-
 [^FNA003880]:
 
     jagatsvāmī\] Od *gl*. (prabhu)
-
-
 
 भवते यस्य देहे तु अहोरात्रं दिने दिने \।
 
@@ -13632,13 +10719,9 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     prapaśyetety\] B1 *ins*. patiḥ
 
-
-
 [^FNA003882]:
 
     padatvam\] Edd -padam
-
-
 
 नारायणायुधैर् युक्तं कृत्वात्मानं कलौ युगे \।
 
@@ -13648,21 +10731,15 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     kurute … tulyāni\] Od *gl*. (atisumerutulyāni kurute)
 
-
-
 शङ्खादिनाङ्कितो[^FNA003884] भक्त्या श्राद्धं यः कुरुते द्विज[^FNA003885] \।
 
 [^FNA003884]:
 
     āṅkito\] B2 -āṅkitaiḥ
 
-
-
 [^FNA003885]:
 
     dvija\] Od dvijaḥ
-
-
 
 विधिहीनं तु सम्पूर्णं पितॄणां तु गयासमम् \।\।२७७\।\।
 
@@ -13672,13 +10749,9 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 
     yathāgnir\] B2 athāgnir
 
-
-
 [^FNA003887]:
 
     kakṣaṃ\] B3 Od Edd kāṣṭhaṃ
-
-
 
 तथा दह्यन्ति पापानि दृष्ट्वा कृष्णायुधानि वै \।\।२७८\।\।
 
@@ -13687,7 +10760,6 @@ In the same book, in a discussion between Brahmā and Nārada:\[^FNB000532\]
 [^FNA003888]:
 
     athavā\] Edd *deest*
-
 
 </details>
 
@@ -13720,27 +10792,19 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     ūrdhvalokā\] Od *gl*. (ūrdhvalokaṃ divaṃ nabha iti)
 
-
-
 कृष्णमुद्राप्रयुक्तस् तु[^FNA003873] दैवं[^FNA003874] पित्र्यं[^FNA003875] करोति यः \।
 
 [^FNA003873]:
 
     tu\] B1 ca
 
-
-
 [^FNA003874]:
 
     daivaṃ\] Va daivīṃ
 
-
-
 [^FNA003875]:
 
     pitryaṃ\] B2 paitraṃ
-
-
 
 नित्यं नैमित्तिकं काम्यं प्रत्यहं चाक्षयं[^FNA003876] भवेत् \।\।२७१\।\।
 
@@ -13748,15 +10812,11 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     cākṣayaṃ\] Pa vākṣayaṃ
 
-
-
 पीडयन्ति न तत्रैव ग्रहा ऋक्षाणि[^FNA003877] राशयः \।
 
 [^FNA003877]:
 
     grahā ṛkṣāṇi\] Pa grahāt saṁkṣāni
-
-
 
 अष्टाक्षराङ्किता मुद्रा यस्य धातुमयी करे \।\।२७२\।\।
 
@@ -13770,8 +10830,6 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     snayā\] Od *gl*. (karaṇayā)
 
-
-
 प्रयागादिषु तीर्थेषु स गत्वा किं करिष्यति \।\।२७३\।\।
 
 यदा यस्य प्रपश्येत देहं शङ्खादिचिह्नितम् \।
@@ -13782,13 +10840,9 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     tadā\] Edd tasya
 
-
-
 [^FNA003880]:
 
     jagatsvāmī\] Od *gl*. (prabhu)
-
-
 
 भवते यस्य देहे तु अहोरात्रं दिने दिने \।
 
@@ -13800,13 +10854,9 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     prapaśyetety\] B1 *ins*. patiḥ
 
-
-
 [^FNA003882]:
 
     padatvam\] Edd -padam
-
-
 
 नारायणायुधैर् युक्तं कृत्वात्मानं कलौ युगे \।
 
@@ -13816,21 +10866,15 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     kurute … tulyāni\] Od *gl*. (atisumerutulyāni kurute)
 
-
-
 शङ्खादिनाङ्कितो[^FNA003884] भक्त्या श्राद्धं यः कुरुते द्विज[^FNA003885] \।
 
 [^FNA003884]:
 
     āṅkito\] B2 -āṅkitaiḥ
 
-
-
 [^FNA003885]:
 
     dvija\] Od dvijaḥ
-
-
 
 विधिहीनं तु सम्पूर्णं पितॄणां तु गयासमम् \।\।२७७\।\।
 
@@ -13840,13 +10884,9 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     yathāgnir\] B2 athāgnir
 
-
-
 [^FNA003887]:
 
     kakṣaṃ\] B3 Od Edd kāṣṭhaṃ
-
-
 
 तथा दह्यन्ति पापानि दृष्ट्वा कृष्णायुधानि वै \।\।२७८\।\।
 
@@ -13855,7 +10895,6 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 [^FNA003888]:
 
     athavā\] Edd *deest*
-
 
 </details>
 
@@ -13867,13 +10906,9 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     śrī\] B1 *deest*
 
-
-
 [^FNA003890]:
 
     brahma\] B2 *deest*
-
-
 
 विष्णुनामाङ्कितां मुद्राम् अष्टाक्षरसमन्विताम्[^FNA003891] \।
 
@@ -13881,33 +10916,23 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     samanvitām\] Pa -samanvitam
 
-
-
 शङ्खादिका[^FNA003892]युधैर् युक्तां[^FNA003893] स्वर्णरूप्य[^FNA003894]मयीम् अपि[^FNA003895] \।\।२७९\।\।
 
 [^FNA003892]:
 
     śaṅkhādikā\] B2 Od śaṅkhādinā-
 
-
-
 [^FNA003893]:
 
     yuktāṃ\] B2 yuktaih
-
-
 
 [^FNA003894]:
 
     rūpya\] B1 B2 -raupya-
 
-
-
 [^FNA003895]:
 
     api\] R1 *om*.
-
-
 
 धत्ते भागवतो यस् तु कलिकाले विशेषतः \।
 
@@ -13917,13 +10942,9 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     kalivallabha\] Od *gl*. (nārada)
 
-
-
 [^FNA003897]:
 
     vallabha\] Pa B1 B2 -vallabhaḥ
-
-
 
 किं च—
 
@@ -13932,8 +10953,6 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 [^FNA003898]:
 
     bhuṅkte\] B2 bhuktaṃ
-
-
 
 तदन्नं स्वयम् अश्नाति पितृभिः सह केशवः \।\।२८१\।\।
 
@@ -13945,8 +10964,6 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     yā\] R1 *om*.
 
-
-
 कृष्णायुधैः कलौ नित्यं मण्डितं यस्य विग्रहम् \।
 
 तत्राश्रयं प्रकुर्वन्ति विबुधा[^FNA003900] वासवादयः \।\।२८३\।\।
@@ -13955,29 +10972,21 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     vibudhā\] Va vivādhā
 
-
-
 यदीति न श्मशाने[^FNA003901][^FNA003902] म्रियत एव, यदि कदाचिन् म्रियत इत्य् अर्थः \। विग्रहम् इति नपुंसकत्वम् आर्षम् \।\।२८२–२८३\।\।
 
 [^FNA003901]:
 
     na śmaśāne\] V1 V2 B3 *transp*.
 
-
-
 [^FNA003902]:
 
     śmaśāne\] B1 *ins*. na
-
-
 
 यः करोति हरेः पूजां कृष्णशस्त्राङ्कितो नरः[^FNA003903] \।
 
 [^FNA003903]:
 
     naraḥ\] Od niśam
-
-
 
 अपराधसहस्राणि नित्यं हरति केशवः \।\।२८४\।\।
 
@@ -13987,19 +10996,13 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     kāṣṭha\] B2 viṣṇu-
 
-
-
 [^FNA003905]:
 
     śastrais\] R1 *om*. : B2 -śabdais
 
-
-
 [^FNA003906]:
 
     tu\] R1 su-
-
-
 
 यो[^FNA003907] ह्य् अङ्कयति चात्मानं तत्समो नास्ति वैष्णवः \।\।२८५\।\।
 
@@ -14007,21 +11010,15 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 
     yo\] R1 tatho
 
-
-
 पाषण्ड[^FNA003908]पतितव्रात्यैर्[^FNA003909] नास्तिकालापपातकैः \।
 
 [^FNA003908]:
 
     pāṣaṇḍa\] V1 pāṣaṇḍi-
 
-
-
 [^FNA003909]:
 
     vrātyair\] V1² *gl*. vrātyaḥ saṃskārahīnaḥ syād asvādhyāyo nirākṛtir ity amaraḥ \|
-
-
 
 न लिप्यते कलिकृतैः कृष्णशस्त्राङ्कितो नरः \।\।२८६\।\।
 
@@ -14034,7 +11031,6 @@ To use the middle voice for *seen* (prapaśyeta) and *is* (bhavate) are archaic 
 [^FNA003910]:
 
     śaṅkhapadmā\] B1 *transp*.
-
 
 </details>
 
@@ -14065,13 +11061,9 @@ And also:\[^FNB000538\]
 
     śrī\] B1 *deest*
 
-
-
 [^FNA003890]:
 
     brahma\] B2 *deest*
-
-
 
 विष्णुनामाङ्कितां मुद्राम् अष्टाक्षरसमन्विताम्[^FNA003891] \।
 
@@ -14079,33 +11071,23 @@ And also:\[^FNB000538\]
 
     samanvitām\] Pa -samanvitam
 
-
-
 शङ्खादिका[^FNA003892]युधैर् युक्तां[^FNA003893] स्वर्णरूप्य[^FNA003894]मयीम् अपि[^FNA003895] \।\।२७९\।\।
 
 [^FNA003892]:
 
     śaṅkhādikā\] B2 Od śaṅkhādinā-
 
-
-
 [^FNA003893]:
 
     yuktāṃ\] B2 yuktaih
-
-
 
 [^FNA003894]:
 
     rūpya\] B1 B2 -raupya-
 
-
-
 [^FNA003895]:
 
     api\] R1 *om*.
-
-
 
 धत्ते भागवतो यस् तु कलिकाले विशेषतः \।
 
@@ -14115,13 +11097,9 @@ And also:\[^FNB000538\]
 
     kalivallabha\] Od *gl*. (nārada)
 
-
-
 [^FNA003897]:
 
     vallabha\] Pa B1 B2 -vallabhaḥ
-
-
 
 किं च—
 
@@ -14130,8 +11108,6 @@ And also:\[^FNB000538\]
 [^FNA003898]:
 
     bhuṅkte\] B2 bhuktaṃ
-
-
 
 तदन्नं स्वयम् अश्नाति पितृभिः सह केशवः \।\।२८१\।\।
 
@@ -14143,8 +11119,6 @@ And also:\[^FNB000538\]
 
     yā\] R1 *om*.
 
-
-
 कृष्णायुधैः कलौ नित्यं मण्डितं यस्य विग्रहम् \।
 
 तत्राश्रयं प्रकुर्वन्ति विबुधा[^FNA003900] वासवादयः \।\।२८३\।\।
@@ -14153,29 +11127,21 @@ And also:\[^FNB000538\]
 
     vibudhā\] Va vivādhā
 
-
-
 यदीति न श्मशाने[^FNA003901][^FNA003902] म्रियत एव, यदि कदाचिन् म्रियत इत्य् अर्थः \। विग्रहम् इति नपुंसकत्वम् आर्षम् \।\।२८२–२८३\।\।
 
 [^FNA003901]:
 
     na śmaśāne\] V1 V2 B3 *transp*.
 
-
-
 [^FNA003902]:
 
     śmaśāne\] B1 *ins*. na
-
-
 
 यः करोति हरेः पूजां कृष्णशस्त्राङ्कितो नरः[^FNA003903] \।
 
 [^FNA003903]:
 
     naraḥ\] Od niśam
-
-
 
 अपराधसहस्राणि नित्यं हरति केशवः \।\।२८४\।\।
 
@@ -14185,19 +11151,13 @@ And also:\[^FNB000538\]
 
     kāṣṭha\] B2 viṣṇu-
 
-
-
 [^FNA003905]:
 
     śastrais\] R1 *om*. : B2 -śabdais
 
-
-
 [^FNA003906]:
 
     tu\] R1 su-
-
-
 
 यो[^FNA003907] ह्य् अङ्कयति चात्मानं तत्समो नास्ति वैष्णवः \।\।२८५\।\।
 
@@ -14205,21 +11165,15 @@ And also:\[^FNB000538\]
 
     yo\] R1 tatho
 
-
-
 पाषण्ड[^FNA003908]पतितव्रात्यैर्[^FNA003909] नास्तिकालापपातकैः \।
 
 [^FNA003908]:
 
     pāṣaṇḍa\] V1 pāṣaṇḍi-
 
-
-
 [^FNA003909]:
 
     vrātyair\] V1² *gl*. vrātyaḥ saṃskārahīnaḥ syād asvādhyāyo nirākṛtir ity amaraḥ \|
-
-
 
 न लिप्यते कलिकृतैः कृष्णशस्त्राङ्कितो नरः \।\।२८६\।\।
 
@@ -14233,7 +11187,6 @@ And also:\[^FNB000538\]
 
     śaṅkhapadmā\] B1 *transp*.
 
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -14244,27 +11197,19 @@ And also:\[^FNB000538\]
 
     rūpya\] B1 -raupya-
 
-
-
 [^FNA003912]:
 
     mayīm apītyādinā\] B3 mayīty
 
-
-
 [^FNA003913]:
 
     vacanena\] V1 V2 ca na : B2 B3 *deest*
-
-
 
 धृता नारायणी मुद्रा प्रह्लादेन पुरा कृते[^FNA003914] \।
 
 [^FNA003914]:
 
     kṛte\] Od kṛtā
-
-
 
 विभीषणेन बलिना ध्रुवेण च शुकेन च \।\।२८८\।\।
 
@@ -14274,15 +11219,11 @@ And also:\[^FNB000538\]
 
     māndhātṛṇāmbarīṣeṇa\] Od mandhātā āmbarīṣenā
 
-
-
 शङ्खादिचिह्नितैः शस्त्रैर् देहे[^FNA003916] कृत्वा कलिप्रिय \।
 
 [^FNA003916]:
 
     dehe\] Od dehaiḥ
-
-
 
 आराध्य केशवात् प्राप्तं समीहितफलं महत् \।\।२८९\।\।
 
@@ -14298,8 +11239,6 @@ And also:\[^FNB000538\]
 
     padmādi … vā\] R1 Pa Od -padmādikaṃ cakraṃ : B2 -cakrādikaṃ padmaṃ
 
-
-
 तत्रैव श्रीसनत्कुमारोक्तौ—
 
 यस्य नारायणी मुद्रा देहं[^FNA003918] शङ्खादिचिह्नितम् \।
@@ -14308,8 +11247,6 @@ And also:\[^FNB000538\]
 
     dehaṃ\] V1 B2 dehe
 
-
-
 धात्रीफलकृता माला तुलसीकाष्ठसम्भवा \।\।२९१\।\।
 
 द्वादशाक्षरमन्त्रैस् तु नियुक्तानि कलेवरे[^FNA003919] \।
@@ -14317,8 +11254,6 @@ And also:\[^FNB000538\]
 [^FNA003919]:
 
     kalevare\] V2 kalavare
-
-
 
 आयुधानि च विप्रस्य मत्समः स च वैष्णवः \।\।२९२\।\।
 </details>
@@ -14348,27 +11283,19 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     rūpya\] B1 -raupya-
 
-
-
 [^FNA003912]:
 
     mayīm apītyādinā\] B3 mayīty
 
-
-
 [^FNA003913]:
 
     vacanena\] V1 V2 ca na : B2 B3 *deest*
-
-
 
 धृता नारायणी मुद्रा प्रह्लादेन पुरा कृते[^FNA003914] \।
 
 [^FNA003914]:
 
     kṛte\] Od kṛtā
-
-
 
 विभीषणेन बलिना ध्रुवेण च शुकेन च \।\।२८८\।\।
 
@@ -14378,15 +11305,11 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     māndhātṛṇāmbarīṣeṇa\] Od mandhātā āmbarīṣenā
 
-
-
 शङ्खादिचिह्नितैः शस्त्रैर् देहे[^FNA003916] कृत्वा कलिप्रिय \।
 
 [^FNA003916]:
 
     dehe\] Od dehaiḥ
-
-
 
 आराध्य केशवात् प्राप्तं समीहितफलं महत् \।\।२८९\।\।
 
@@ -14402,8 +11325,6 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     padmādi … vā\] R1 Pa Od -padmādikaṃ cakraṃ : B2 -cakrādikaṃ padmaṃ
 
-
-
 तत्रैव श्रीसनत्कुमारोक्तौ—
 
 यस्य नारायणी मुद्रा देहं[^FNA003918] शङ्खादिचिह्नितम् \।
@@ -14412,8 +11333,6 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     dehaṃ\] V1 B2 dehe
 
-
-
 धात्रीफलकृता माला तुलसीकाष्ठसम्भवा \।\।२९१\।\।
 
 द्वादशाक्षरमन्त्रैस् तु नियुक्तानि कलेवरे[^FNA003919] \।
@@ -14421,8 +11340,6 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 [^FNA003919]:
 
     kalevare\] V2 kalavare
-
-
 
 आयुधानि च विप्रस्य मत्समः स च वैष्णवः \।\।२९२\।\।
 </details>
@@ -14437,23 +11354,17 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     cihnitam … śaṅkhādicihnitā\] B2 *om*.
 
-
-
 सर्वाङ्गं चिह्नितं यस्य शस्त्रैर्[^FNA003921] नारायणोद्भवैः \।
 
 [^FNA003921]:
 
     śastrair\] B2 sarvair
 
-
-
 प्रवेशो नास्ति पापस्य कवचं तस्य वैष्णवम्[^FNA003922] \।\।२९३\।\।
 
 [^FNA003922]:
 
     tasya vaiṣṇavam\] B2 vaiṣṇavaṃ smṛtam
-
-
 
 अन्यत्र च—[^FNA003923]
 
@@ -14463,13 +11374,9 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     ca\] R1 Od *deest*
 
-
-
 [^FNA003924]:
 
     dvijātayaḥ\] B2 dvijottamaḥ
-
-
 
 भवन्ति मर्त्य[^FNA003925][^FNA003926]लोके ते शापानुग्रहकारकाः \।\।२९४\।\।
 
@@ -14477,13 +11384,9 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     bhavanti martya\] Od bhavantīha mahī-
 
-
-
 [^FNA003926]:
 
     martya\] B2 mahatī-
-
-
 
 *अथ मुद्राधारणविधिः[^FNA003927]*
 
@@ -14491,15 +11394,11 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     vidhiḥ\] B1 B2 B3 Edd *add*. gautamīye \| : B1 *add*. lalāṭe ca gadā kāryā mūrdhni cāpaṃ śaras tathā \| nandakaṃ caiva hṛnmadhye śaṅkacakraṃ bhujadvaye \|\| śaṅkhacakrānvito vipraḥ śmaśāne mriyate yadi \| prayāge yā gatiḥ proktā sā gatis tasya gautama \|
 
-
-
 चक्रं च[^FNA003928] दक्षिणे बाहौ शङ्खं वामे ऽपि दक्षिणे \।
 
 [^FNA003928]:
 
     ca\] R1 *om*.
-
-
 
 गदां वामे गदाधस्तात् पुनश् चक्रं च[^FNA003929] धारयेत् \।\।२९५\।\।
 
@@ -14507,15 +11406,11 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     ca\] Pa *om*.
 
-
-
 शङ्खोपरि तथा पद्मं पुनः पद्मं च दक्षिणे[^FNA003930] \।
 
 [^FNA003930]:
 
     ca dakṣiṇe\] B2 punaḥ punaḥ
-
-
 
 खड्गं वक्षसि चापं च सशरं शीर्ष्णि[^FNA003931] धारयेत्[^FNA003932] \।\।२९६\।\।
 
@@ -14523,21 +11418,15 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     śīrṣṇi\] B1 B3 *p.c*. śirasi
 
-
-
 [^FNA003932]:
 
     khaḍgaṃ … dhārayet\] B2 padmaṃ ca dakṣiṇe khaḍgaṃ cāpaṃ saśara vakṣasi
-
-
 
 इति पञ्चायुधान्य् आदौ धारयेद् वैष्णवो जनः[^FNA003933] \।
 
 [^FNA003933]:
 
     janaḥ\] B2 naraḥ
-
-
 
 मत्स्यं च दक्षिणे हस्ते कूर्मं वामकरे तथा \।\।२९७\।\।
 
@@ -14547,42 +11436,29 @@ Furthermore, in the statement of Sanatkumāra in the same book:\[^FNB000541\]
 
     śaṅkhadhāraṇādhikaṃ\] B3 śaṅkhādidhāraṇaṃ
 
-
-
 [^FNA003935]:
 
     ca\] Edd *deest*
-
-
 
 [^FNA003936]:
 
     cāpaśaraṃ\] B2 B3 cāpaṃ śaraṃ
 
-
-
 [^FNA003937]:
 
     nandakaś\] V2 nandakaṃ
-
-
 
 [^FNA003938]:
 
     dhāraṇe … lekhya\] Edd -dhāraṇaṃ
 
-
-
 [^FNA003939]:
 
     dik\] B3 *add*. śrīrāmaḥ śaraṇam
 
-
-
 [^FNA003940]:
 
     cakraṃ śaṅkho\] Edd śaṅkhacakre
-
 
 </details>
 
@@ -14613,23 +11489,17 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     cihnitam … śaṅkhādicihnitā\] B2 *om*.
 
-
-
 सर्वाङ्गं चिह्नितं यस्य शस्त्रैर्[^FNA003921] नारायणोद्भवैः \।
 
 [^FNA003921]:
 
     śastrair\] B2 sarvair
 
-
-
 प्रवेशो नास्ति पापस्य कवचं तस्य वैष्णवम्[^FNA003922] \।\।२९३\।\।
 
 [^FNA003922]:
 
     tasya vaiṣṇavam\] B2 vaiṣṇavaṃ smṛtam
-
-
 
 अन्यत्र च—[^FNA003923]
 
@@ -14639,13 +11509,9 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     ca\] R1 Od *deest*
 
-
-
 [^FNA003924]:
 
     dvijātayaḥ\] B2 dvijottamaḥ
-
-
 
 भवन्ति मर्त्य[^FNA003925][^FNA003926]लोके ते शापानुग्रहकारकाः \।\।२९४\।\।
 
@@ -14653,13 +11519,9 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     bhavanti martya\] Od bhavantīha mahī-
 
-
-
 [^FNA003926]:
 
     martya\] B2 mahatī-
-
-
 
 *अथ मुद्राधारणविधिः[^FNA003927]*
 
@@ -14667,15 +11529,11 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     vidhiḥ\] B1 B2 B3 Edd *add*. gautamīye \| : B1 *add*. lalāṭe ca gadā kāryā mūrdhni cāpaṃ śaras tathā \| nandakaṃ caiva hṛnmadhye śaṅkacakraṃ bhujadvaye \|\| śaṅkhacakrānvito vipraḥ śmaśāne mriyate yadi \| prayāge yā gatiḥ proktā sā gatis tasya gautama \|
 
-
-
 चक्रं च[^FNA003928] दक्षिणे बाहौ शङ्खं वामे ऽपि दक्षिणे \।
 
 [^FNA003928]:
 
     ca\] R1 *om*.
-
-
 
 गदां वामे गदाधस्तात् पुनश् चक्रं च[^FNA003929] धारयेत् \।\।२९५\।\।
 
@@ -14683,15 +11541,11 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     ca\] Pa *om*.
 
-
-
 शङ्खोपरि तथा पद्मं पुनः पद्मं च दक्षिणे[^FNA003930] \।
 
 [^FNA003930]:
 
     ca dakṣiṇe\] B2 punaḥ punaḥ
-
-
 
 खड्गं वक्षसि चापं च सशरं शीर्ष्णि[^FNA003931] धारयेत्[^FNA003932] \।\।२९६\।\।
 
@@ -14699,21 +11553,15 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     śīrṣṇi\] B1 B3 *p.c*. śirasi
 
-
-
 [^FNA003932]:
 
     khaḍgaṃ … dhārayet\] B2 padmaṃ ca dakṣiṇe khaḍgaṃ cāpaṃ saśara vakṣasi
-
-
 
 इति पञ्चायुधान्य् आदौ धारयेद् वैष्णवो जनः[^FNA003933] \।
 
 [^FNA003933]:
 
     janaḥ\] B2 naraḥ
-
-
 
 मत्स्यं च दक्षिणे हस्ते कूर्मं वामकरे तथा \।\।२९७\।\।
 
@@ -14723,42 +11571,29 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     śaṅkhadhāraṇādhikaṃ\] B3 śaṅkhādidhāraṇaṃ
 
-
-
 [^FNA003935]:
 
     ca\] Edd *deest*
-
-
 
 [^FNA003936]:
 
     cāpaśaraṃ\] B2 B3 cāpaṃ śaraṃ
 
-
-
 [^FNA003937]:
 
     nandakaś\] V2 nandakaṃ
-
-
 
 [^FNA003938]:
 
     dhāraṇe … lekhya\] Edd -dhāraṇaṃ
 
-
-
 [^FNA003939]:
 
     dik\] B3 *add*. śrīrāmaḥ śaraṇam
 
-
-
 [^FNA003940]:
 
     cakraṃ śaṅkho\] Edd śaṅkhacakre
-
 
 </details>
 
@@ -14774,19 +11609,13 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     cāpare\] Od vāpare
 
-
-
 [^FNA003942]:
 
     padmaṃ\] V1 Pa Va B2 B3 Od kūrmaṃ
 
-
-
 [^FNA003943]:
 
     gadāṃ tathā\] B2 gadāyudham
-
-
 
 मत्स्यं पद्मं च दक्षिणे अथा[^FNA003944]नन्तरम् अपरे वामे पाणौ[^FNA003945] शङ्खादिकं विभृयात् \।\।२९८\।\।
 
@@ -14794,13 +11623,9 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     athā\] B2 tathā-
 
-
-
 [^FNA003945]:
 
     pāṇau\] V1 B2 B3 *deest*
-
-
 
 साम्प्रदायिकशिष्टानाम् आचाराच् च यथारुचि \।
 
@@ -14812,19 +11637,13 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     dāhayed\] B1 dhārayed
 
-
-
 [^FNA003947]:
 
     harer … api\] B2 *deest*
 
-
-
 [^FNA003948]:
 
     mudrā\] V1 Edd ins. -di-
-
-
 
 भक्त्या[^FNA003949] निजेष्टदेवस्य धारयेल् लक्षणान्य् अपि \।
 
@@ -14832,27 +11651,19 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     bhaktyā\] Pa śaktyā
 
-
-
 चक्रशङ्खौ[^FNA003950] च धार्येते सम्मिश्राव् एव[^FNA003951] कैश्चन[^FNA003952] \।\।३००\।\।
 
 [^FNA003950]:
 
     cakraśaṅkhau\] R1 Pa Od *transp*.
 
-
-
 [^FNA003951]:
 
     sammiśrāv eva\] R1 sammiśraṃ caiva
 
-
-
 [^FNA003952]:
 
     kaiścana\] B1 B2 kaścana : B1 B3 *add*. ata (B3 yad) uktaṃ brahmavaivarte \| kevalaṃ nodvahec chaṅkham ādau cāsuravigraham \| ataś cakravimiśraṃ taṃ vibhṛyād vaiṣṇavaḥ sadā \|\| iti (B3 *deest*)\|
-
-
 
 यद्य् अपि नित्यपार्षदस्य भागवतप्रवरस्य[^FNA003953] श्रीशङ्खस्य मुद्राधारणे कथञ्चिद् अपि दोषो न घटेत, तथापि तन्नादस्रस्तपत्नीगर्भस्य कस्यचिद् ब्राह्मणस्य शापसत्यतार्थम् असुरयोनौ पाञ्चजन्यसंज्ञयावतीर्णस्य शङ्खस्य तस्यासुरत्वम् उद्भाव्य कैश्चिद् वैष्णवैस् तच्चिह्नं केवलं पृथक् न धार्यत इति तन्मतं लिखति चक्रशङ्खौ चेति \।\।३००\।\।
 
@@ -14860,21 +11671,15 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     pravarasya\] B2 -pūrvasya
 
-
-
 श्रीगोपीचन्दनेनैवं चक्रादीनि बुधो ऽन्वहम्[^FNA003954][^FNA003955] \।
 
 [^FNA003954]:
 
     budho nvaham\] B2 budhārthadam
 
-
-
 [^FNA003955]:
 
     nvaham\] Od *gl*. (anvaham anavaratam)
-
-
 
 धारयेच् छयनादौ तु[^FNA003956] तप्तानि किल तानि[^FNA003957] हि[^FNA003958] \।\।३०१\।\।
 
@@ -14882,18 +11687,13 @@ One should wear the conch on the right arm. Even though statements such as the o
 
     chayanādau tu\] Pa Od *transp*.
 
-
-
 [^FNA003957]:
 
     dhārayec … tāni\] Od *gl*. (lohamayasaptachāpā śayanādau kila niścitaṃ dhārayet)
 
-
-
 [^FNA003958]:
 
     hi\] B2 Od ca
-
 
 </details>
 
@@ -14926,19 +11726,13 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     cāpare\] Od vāpare
 
-
-
 [^FNA003942]:
 
     padmaṃ\] V1 Pa Va B2 B3 Od kūrmaṃ
 
-
-
 [^FNA003943]:
 
     gadāṃ tathā\] B2 gadāyudham
-
-
 
 मत्स्यं पद्मं च दक्षिणे अथा[^FNA003944]नन्तरम् अपरे वामे पाणौ[^FNA003945] शङ्खादिकं विभृयात् \।\।२९८\।\।
 
@@ -14946,13 +11740,9 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     athā\] B2 tathā-
 
-
-
 [^FNA003945]:
 
     pāṇau\] V1 B2 B3 *deest*
-
-
 
 साम्प्रदायिकशिष्टानाम् आचाराच् च यथारुचि \।
 
@@ -14964,19 +11754,13 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     dāhayed\] B1 dhārayed
 
-
-
 [^FNA003947]:
 
     harer … api\] B2 *deest*
 
-
-
 [^FNA003948]:
 
     mudrā\] V1 Edd ins. -di-
-
-
 
 भक्त्या[^FNA003949] निजेष्टदेवस्य धारयेल् लक्षणान्य् अपि \।
 
@@ -14984,27 +11768,19 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     bhaktyā\] Pa śaktyā
 
-
-
 चक्रशङ्खौ[^FNA003950] च धार्येते सम्मिश्राव् एव[^FNA003951] कैश्चन[^FNA003952] \।\।३००\।\।
 
 [^FNA003950]:
 
     cakraśaṅkhau\] R1 Pa Od *transp*.
 
-
-
 [^FNA003951]:
 
     sammiśrāv eva\] R1 sammiśraṃ caiva
 
-
-
 [^FNA003952]:
 
     kaiścana\] B1 B2 kaścana : B1 B3 *add*. ata (B3 yad) uktaṃ brahmavaivarte \| kevalaṃ nodvahec chaṅkham ādau cāsuravigraham \| ataś cakravimiśraṃ taṃ vibhṛyād vaiṣṇavaḥ sadā \|\| iti (B3 *deest*)\|
-
-
 
 यद्य् अपि नित्यपार्षदस्य भागवतप्रवरस्य[^FNA003953] श्रीशङ्खस्य मुद्राधारणे कथञ्चिद् अपि दोषो न घटेत, तथापि तन्नादस्रस्तपत्नीगर्भस्य कस्यचिद् ब्राह्मणस्य शापसत्यतार्थम् असुरयोनौ पाञ्चजन्यसंज्ञयावतीर्णस्य शङ्खस्य तस्यासुरत्वम् उद्भाव्य कैश्चिद् वैष्णवैस् तच्चिह्नं केवलं पृथक् न धार्यत इति तन्मतं लिखति चक्रशङ्खौ चेति \।\।३००\।\।
 
@@ -15012,21 +11788,15 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     pravarasya\] B2 -pūrvasya
 
-
-
 श्रीगोपीचन्दनेनैवं चक्रादीनि बुधो ऽन्वहम्[^FNA003954][^FNA003955] \।
 
 [^FNA003954]:
 
     budho nvaham\] B2 budhārthadam
 
-
-
 [^FNA003955]:
 
     nvaham\] Od *gl*. (anvaham anavaratam)
-
-
 
 धारयेच् छयनादौ तु[^FNA003956] तप्तानि किल तानि[^FNA003957] हि[^FNA003958] \।\।३०१\।\।
 
@@ -15034,18 +11804,13 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     chayanādau tu\] Pa Od *transp*.
 
-
-
 [^FNA003957]:
 
     dhārayec … tāni\] Od *gl*. (lohamayasaptachāpā śayanādau kila niścitaṃ dhārayet)
 
-
-
 [^FNA003958]:
 
     hi\] B2 Od ca
-
 
 </details>
 
@@ -15057,8 +11822,6 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     smṛti\] V2 B2 -smṛtyādi-
 
-
-
 *अथ चक्रादीनां लक्षणानि*
 
 द्वादशारं तु[^FNA003960] षट्कोणं वलयत्रयसंयुतम् \।
@@ -15067,21 +11830,15 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     dvādaśāraṃ tu\] B2 Od dvādaśāvarta-
 
-
-
 चक्रं स्याद् दक्षिणावर्तः[^FNA003961] शङ्खश् च श्रीहरेः[^FNA003962] स्मृतः \।\।३०२\।\।
 
 [^FNA003961]:
 
     āvartaḥ\] Od Edd -āvartaṃ
 
-
-
 [^FNA003962]:
 
     śaṅkhaś … śrīhareḥ\] B2 śaṅkho harividhi-
-
-
 
 गदापद्मादिकं लोकसिद्धम् एव मतं बुधैः \।
 
@@ -15091,19 +11848,13 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     ca\] Edd vā
 
-
-
 [^FNA003964]:
 
     nāmāṅkitā\] B3 nāmnā kṛtā
 
-
-
 [^FNA003965]:
 
     vāṣṭā\] R1 B2 Od cāṣṭā- : B1 yāṣṭā-
-
-
 
 लोकसिद्धम् एव \। यथा लोके दृश्यते तदाकारम् एवेत्य् अर्थः \। भगवन्नाम्ना कृष्णरामेत्यादिना अष्टाक्षरमन्त्रादिभिर् वाङ्किता[^FNA003966] \। आदिशब्देन पञ्चाक्षरादि \।\।३०३\।\।
 
@@ -15111,15 +11862,11 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     vāṅkitā\] B1 vā
 
-
-
 *अथ मालादि[^FNA003967]धारणम्*
 
 [^FNA003967]:
 
     di\] B2 *deest*
-
-
 
 ततः कृष्णार्पिता माला धारयेत् तुलसीदलैः[^FNA003968] \।
 
@@ -15127,21 +11874,15 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     dalaiḥ\] B2 -dale
 
-
-
 पद्माक्षैस् तुलसीकाष्ठैः फलैर्[^FNA003969] धात्र्याश् च निर्मिताः[^FNA003970] \।\।३०४\।\।
 
 [^FNA003969]:
 
     phalair\] B2 karṇe
 
-
-
 [^FNA003970]:
 
     nirmitāḥ\] Pa nirmalām
-
-
 
 तुलसीदलादिभिर् निर्मिता मालाः कृष्णार्पिताः सतीर् धारयेत् \।\।३०४\।\।
 
@@ -15153,13 +11894,9 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 
     karṇayor bāhvoḥ\] B2 Od karṇabāhvoś ca
 
-
-
 [^FNA003972]:
 
     ruci\] B1 *a.c*. -vidhi
-
-
 
 *अथ मालाधारणविधिः*
 
@@ -15170,8 +11907,6 @@ Even though there can be no fault in wearing the Mudrā of the blessed conch, wh
 [^FNA003973]:
 
     sannivedyaiva haraye\] B2 nivedya haraye yas yu
-
-
 
 मालां पश्चात् स्वयं धत्ते स वै भागवतोत्तमः \।\।३०६\।\।
 
@@ -15211,8 +11946,6 @@ In the Skanda Purāṇa (–):
 
     smṛti\] V2 B2 -smṛtyādi-
 
-
-
 *अथ चक्रादीनां लक्षणानि*
 
 द्वादशारं तु[^FNA003960] षट्कोणं वलयत्रयसंयुतम् \।
@@ -15221,21 +11954,15 @@ In the Skanda Purāṇa (–):
 
     dvādaśāraṃ tu\] B2 Od dvādaśāvarta-
 
-
-
 चक्रं स्याद् दक्षिणावर्तः[^FNA003961] शङ्खश् च श्रीहरेः[^FNA003962] स्मृतः \।\।३०२\।\।
 
 [^FNA003961]:
 
     āvartaḥ\] Od Edd -āvartaṃ
 
-
-
 [^FNA003962]:
 
     śaṅkhaś … śrīhareḥ\] B2 śaṅkho harividhi-
-
-
 
 गदापद्मादिकं लोकसिद्धम् एव मतं बुधैः \।
 
@@ -15245,19 +11972,13 @@ In the Skanda Purāṇa (–):
 
     ca\] Edd vā
 
-
-
 [^FNA003964]:
 
     nāmāṅkitā\] B3 nāmnā kṛtā
 
-
-
 [^FNA003965]:
 
     vāṣṭā\] R1 B2 Od cāṣṭā- : B1 yāṣṭā-
-
-
 
 लोकसिद्धम् एव \। यथा लोके दृश्यते तदाकारम् एवेत्य् अर्थः \। भगवन्नाम्ना कृष्णरामेत्यादिना अष्टाक्षरमन्त्रादिभिर् वाङ्किता[^FNA003966] \। आदिशब्देन पञ्चाक्षरादि \।\।३०३\।\।
 
@@ -15265,15 +11986,11 @@ In the Skanda Purāṇa (–):
 
     vāṅkitā\] B1 vā
 
-
-
 *अथ मालादि[^FNA003967]धारणम्*
 
 [^FNA003967]:
 
     di\] B2 *deest*
-
-
 
 ततः कृष्णार्पिता माला धारयेत् तुलसीदलैः[^FNA003968] \।
 
@@ -15281,21 +11998,15 @@ In the Skanda Purāṇa (–):
 
     dalaiḥ\] B2 -dale
 
-
-
 पद्माक्षैस् तुलसीकाष्ठैः फलैर्[^FNA003969] धात्र्याश् च निर्मिताः[^FNA003970] \।\।३०४\।\।
 
 [^FNA003969]:
 
     phalair\] B2 karṇe
 
-
-
 [^FNA003970]:
 
     nirmitāḥ\] Pa nirmalām
-
-
 
 तुलसीदलादिभिर् निर्मिता मालाः कृष्णार्पिताः सतीर् धारयेत् \।\।३०४\।\।
 
@@ -15307,13 +12018,9 @@ In the Skanda Purāṇa (–):
 
     karṇayor bāhvoḥ\] B2 Od karṇabāhvoś ca
 
-
-
 [^FNA003972]:
 
     ruci\] B1 *a.c*. -vidhi
-
-
 
 *अथ मालाधारणविधिः*
 
@@ -15324,8 +12031,6 @@ In the Skanda Purāṇa (–):
 [^FNA003973]:
 
     sannivedyaiva haraye\] B2 nivedya haraye yas yu
-
-
 
 मालां पश्चात् स्वयं धत्ते स वै भागवतोत्तमः \।\।३०६\।\।
 
@@ -15344,13 +12049,9 @@ In the Skanda Purāṇa (–):
 
     dhūpayec\] B2 dhārayet
 
-
-
 [^FNA003975]:
 
     ca\] B2 tu
-
-
 
 विधिवत् परया भक्त्या सद्योजातेन पूजयेत् \।\।३०८\।\।
 
@@ -15362,8 +12063,6 @@ In the Skanda Purāṇa (–):
 
     bibharmi … kaṇṭhe\] B2 vindāś cin nāma vaikuṇṭhe
 
-
-
 यथा त्वं वल्लभा विष्णोर् नित्यं विष्णुजनप्रिया \।
 
 तथा मां कुरु[^FNA003977] देवेशि नित्यं विष्णुजनप्रियम्[^FNA003978] \।\।३१०\।\।
@@ -15372,13 +12071,9 @@ In the Skanda Purāṇa (–):
 
     kuru\] R1 kurute
 
-
-
 [^FNA003978]:
 
     priyam\] Pa -priyām
-
-
 
 दाने ला[^FNA003979]धातुर् उद्दिष्टो लासि मां हरिवल्लभे \।
 
@@ -15386,21 +12081,15 @@ In the Skanda Purāṇa (–):
 
     lā\] Od la-
 
-
-
 भक्तेभ्यश्[^FNA003980] च समस्तेभ्यस् तेन माला निगद्यसे[^FNA003981] \।\।३११\।\।
 
 [^FNA003980]:
 
     bhaktebhyaś\] Va uktebhyaś
 
-
-
 [^FNA003981]:
 
     nigadyase\] B2 nigadyate
-
-
 
 एवं सम्प्रार्थ्य विधिवन् मालां कृष्णगले ऽर्पिताम् \।
 
@@ -15412,15 +12101,11 @@ In the Skanda Purāṇa (–):
 
     atha\] Edd *deest*
 
-
-
 तत्रैव[^FNA003983] कार्त्तिकप्रसङ्गे—
 
 [^FNA003983]:
 
     tatraiva\] V1 Pa B2 Od skānde : B1 tatraiva skānde
-
-
 
 धात्रीफलकृतां मालां[^FNA003984] कण्ठस्थां यो वहेन् न हि \।
 
@@ -15428,21 +12113,15 @@ In the Skanda Purāṇa (–):
 
     mālāṃ\] R1 *om*.
 
-
-
 वैष्णवो न स[^FNA003985] विज्ञेयो[^FNA003986] विष्णुपूजारतो यदि \।\।३१३\।\।
 
 [^FNA003985]:
 
     na sa\] Va *transp*.
 
-
-
 [^FNA003986]:
 
     na … vijñeyo\] V2 sa nivijñeyo
-
-
 
 यदि यद्य् अपि \।\।३१३\।\।
 
@@ -15456,13 +12135,9 @@ In the Skanda Purāṇa (–):
 
     dagdhāḥ\] Pa dahyāt
 
-
-
 [^FNA003988]:
 
     hareḥ\] R1 haraiḥ : B2 hare
-
-
 
 हैतुका हेतुवादनिष्ठाः \।\।३१४\।\।
 
@@ -15474,26 +12149,19 @@ In the Skanda Purāṇa (–):
 
     tatraiva\] Edd *deest*
 
-
-
 [^FNA003990]:
 
     na\] R1 *om*.
 
-
-
 [^FNA003991]:
 
     jahyāt\] Pa grāhyāt
-
-
 
 महापातकसंहन्त्रीं[^FNA003992] धर्मकामार्थदायिनीम् \।\।३१५\।\।
 
 [^FNA003992]:
 
     saṃhantrīṃ\] R1 B2 -saṃharttā
-
 
 </details>
 
@@ -15534,13 +12202,9 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     dhūpayec\] B2 dhārayet
 
-
-
 [^FNA003975]:
 
     ca\] B2 tu
-
-
 
 विधिवत् परया भक्त्या सद्योजातेन पूजयेत् \।\।३०८\।\।
 
@@ -15552,8 +12216,6 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     bibharmi … kaṇṭhe\] B2 vindāś cin nāma vaikuṇṭhe
 
-
-
 यथा त्वं वल्लभा विष्णोर् नित्यं विष्णुजनप्रिया \।
 
 तथा मां कुरु[^FNA003977] देवेशि नित्यं विष्णुजनप्रियम्[^FNA003978] \।\।३१०\।\।
@@ -15562,13 +12224,9 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     kuru\] R1 kurute
 
-
-
 [^FNA003978]:
 
     priyam\] Pa -priyām
-
-
 
 दाने ला[^FNA003979]धातुर् उद्दिष्टो लासि मां हरिवल्लभे \।
 
@@ -15576,21 +12234,15 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     lā\] Od la-
 
-
-
 भक्तेभ्यश्[^FNA003980] च समस्तेभ्यस् तेन माला निगद्यसे[^FNA003981] \।\।३११\।\।
 
 [^FNA003980]:
 
     bhaktebhyaś\] Va uktebhyaś
 
-
-
 [^FNA003981]:
 
     nigadyase\] B2 nigadyate
-
-
 
 एवं सम्प्रार्थ्य विधिवन् मालां कृष्णगले ऽर्पिताम् \।
 
@@ -15602,15 +12254,11 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     atha\] Edd *deest*
 
-
-
 तत्रैव[^FNA003983] कार्त्तिकप्रसङ्गे—
 
 [^FNA003983]:
 
     tatraiva\] V1 Pa B2 Od skānde : B1 tatraiva skānde
-
-
 
 धात्रीफलकृतां मालां[^FNA003984] कण्ठस्थां यो वहेन् न हि \।
 
@@ -15618,21 +12266,15 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     mālāṃ\] R1 *om*.
 
-
-
 वैष्णवो न स[^FNA003985] विज्ञेयो[^FNA003986] विष्णुपूजारतो यदि \।\।३१३\।\।
 
 [^FNA003985]:
 
     na sa\] Va *transp*.
 
-
-
 [^FNA003986]:
 
     na … vijñeyo\] V2 sa nivijñeyo
-
-
 
 यदि यद्य् अपि \।\।३१३\।\।
 
@@ -15646,13 +12288,9 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     dagdhāḥ\] Pa dahyāt
 
-
-
 [^FNA003988]:
 
     hareḥ\] R1 haraiḥ : B2 hare
-
-
 
 हैतुका हेतुवादनिष्ठाः \।\।३१४\।\।
 
@@ -15664,26 +12302,19 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     tatraiva\] Edd *deest*
 
-
-
 [^FNA003990]:
 
     na\] R1 *om*.
 
-
-
 [^FNA003991]:
 
     jahyāt\] Pa grāhyāt
-
-
 
 महापातकसंहन्त्रीं[^FNA003992] धर्मकामार्थदायिनीम् \।\।३१५\।\।
 
 [^FNA003992]:
 
     saṃhantrīṃ\] R1 B2 -saṃharttā
-
 
 </details>
 
@@ -15695,21 +12326,15 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     darśayati\] B3 *ins*. ca tulasīnityatve ’pi phalaṃ darśayati
 
-
-
 [^FNA003994]:
 
     viśeṣata ityādinā\] Edd *deest*
-
-
 
 *अथ माला[^FNA003995]माहात्म्यम्*
 
 [^FNA003995]:
 
     mālā\] Edd *ins*. -dhāraṇa-
-
-
 
 अगस्त्यसंहितायाम्—[^FNA003996]
 
@@ -15719,13 +12344,9 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     saṃhitāyām\] B1 B2 *add*. tulasīkaṣṭhaghaṭatai rudrākṣākārakāritaiḥ \| śaṅkhacakragadāpadmapādukākārakāritaiḥ \|\| nirmitāḥ mālikāṃ kaṇţhe nidhāyārcanam ācaret \|\| tathāmalakamālāṃ ca samyak puṣkaramālikām \| nirmālyatulasīmālāṃ śirasy api nidhāya ca \|\| nirmālyacandanenāṅgam akṣaye tasya nāmabhiḥ \| tasyāyudhāni bāhvoś ca tenaiva dvijasattama \|\| pāpīṣṭho vāpy apāpiṣṭhaḥ sarvajño ’py ajña eva ca \| bhavaty evādhikāry atra pūjākarmaṇy asaṁśayaḥ \|\| sauparṇe dvārakāmāhātmye candraśarmaṇaḥ pratijñāyām \| adya yan mayā prati kartavyaṃ tan me kṛṣṇa tac chṛṇu ity ādi \|\| bhagavaddharmakathane \| tulasīkāṣṭhasambhūtā mālā dhāryā sadā mayā \|\| iti \|
 
-
-
 [^FNA003997]:
 
     mālā\] B2 -mālāṃ
-
-
 
 यद् यत् करोति तत् सर्वम् अनन्तफलदं भवेत् \।\।३१६\।\।
 
@@ -15735,8 +12356,6 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     cheṣā\] Edd -cheṣaḥ
 
-
-
 नारदीये—[^FNA003999]
 
 ये कण्ठलग्न[^FNA004000]तुलसीनलिनाक्षमाला
@@ -15745,21 +12364,15 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     nāradīye\] B1 *deest*
 
-
-
 [^FNA004000]:
 
     lagna\] Od² *i.m*.
-
-
 
 ये वा ललाटफलके लसदूर्ध्वपुण्ड्राः[^FNA004001] \।
 
 [^FNA004001]:
 
     ye … puṇḍrāḥ\] B2 B3 Od *deest*
-
-
 
 ये बाहुमूलपरिचिह्नितशङ्खचक्रास्[^FNA004002]
 
@@ -15768,8 +12381,6 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 [^FNA004002]:
 
     cakrās\] B2 B3 Od *add*. ye vā lalāṭaphalake lasadūrdhvapuṇḍrās
-
-
 
 लसत् श्रीहरिमन्दिरतया शोभमानम् ऊर्ध्वपुण्ड्रं येषां ते \।\।३१७\।\।
 
@@ -15783,15 +12394,11 @@ And also, in the same place of the Skanda Purāṇa (2.4.12.131\[^FNB000554\]):
 
     vāci\] Od *gl*. (tiṣṭhati)
 
-
-
 ऋजुतरम् अपि[^FNA004004] पुण्ड्रं मस्तके यस्य कण्ठे
 
 [^FNA004004]:
 
     ṛjutaram api\] B2 vidhṛtam api ca
-
-
 
 सरसिजमणिमाला यस्य तस्यास्मि दासः \।\।३१८\।\।
 </details>
@@ -15839,21 +12446,15 @@ and who wears the very straight vertical mark on his forehead.
 
     darśayati\] B3 *ins*. ca tulasīnityatve ’pi phalaṃ darśayati
 
-
-
 [^FNA003994]:
 
     viśeṣata ityādinā\] Edd *deest*
-
-
 
 *अथ माला[^FNA003995]माहात्म्यम्*
 
 [^FNA003995]:
 
     mālā\] Edd *ins*. -dhāraṇa-
-
-
 
 अगस्त्यसंहितायाम्—[^FNA003996]
 
@@ -15863,13 +12464,9 @@ and who wears the very straight vertical mark on his forehead.
 
     saṃhitāyām\] B1 B2 *add*. tulasīkaṣṭhaghaṭatai rudrākṣākārakāritaiḥ \| śaṅkhacakragadāpadmapādukākārakāritaiḥ \|\| nirmitāḥ mālikāṃ kaṇţhe nidhāyārcanam ācaret \|\| tathāmalakamālāṃ ca samyak puṣkaramālikām \| nirmālyatulasīmālāṃ śirasy api nidhāya ca \|\| nirmālyacandanenāṅgam akṣaye tasya nāmabhiḥ \| tasyāyudhāni bāhvoś ca tenaiva dvijasattama \|\| pāpīṣṭho vāpy apāpiṣṭhaḥ sarvajño ’py ajña eva ca \| bhavaty evādhikāry atra pūjākarmaṇy asaṁśayaḥ \|\| sauparṇe dvārakāmāhātmye candraśarmaṇaḥ pratijñāyām \| adya yan mayā prati kartavyaṃ tan me kṛṣṇa tac chṛṇu ity ādi \|\| bhagavaddharmakathane \| tulasīkāṣṭhasambhūtā mālā dhāryā sadā mayā \|\| iti \|
 
-
-
 [^FNA003997]:
 
     mālā\] B2 -mālāṃ
-
-
 
 यद् यत् करोति तत् सर्वम् अनन्तफलदं भवेत् \।\।३१६\।\।
 
@@ -15879,8 +12476,6 @@ and who wears the very straight vertical mark on his forehead.
 
     cheṣā\] Edd -cheṣaḥ
 
-
-
 नारदीये—[^FNA003999]
 
 ये कण्ठलग्न[^FNA004000]तुलसीनलिनाक्षमाला
@@ -15889,21 +12484,15 @@ and who wears the very straight vertical mark on his forehead.
 
     nāradīye\] B1 *deest*
 
-
-
 [^FNA004000]:
 
     lagna\] Od² *i.m*.
-
-
 
 ये वा ललाटफलके लसदूर्ध्वपुण्ड्राः[^FNA004001] \।
 
 [^FNA004001]:
 
     ye … puṇḍrāḥ\] B2 B3 Od *deest*
-
-
 
 ये बाहुमूलपरिचिह्नितशङ्खचक्रास्[^FNA004002]
 
@@ -15912,8 +12501,6 @@ and who wears the very straight vertical mark on his forehead.
 [^FNA004002]:
 
     cakrās\] B2 B3 Od *add*. ye vā lalāṭaphalake lasadūrdhvapuṇḍrās
-
-
 
 लसत् श्रीहरिमन्दिरतया शोभमानम् ऊर्ध्वपुण्ड्रं येषां ते \।\।३१७\।\।
 
@@ -15927,15 +12514,11 @@ and who wears the very straight vertical mark on his forehead.
 
     vāci\] Od *gl*. (tiṣṭhati)
 
-
-
 ऋजुतरम् अपि[^FNA004004] पुण्ड्रं मस्तके यस्य कण्ठे
 
 [^FNA004004]:
 
     ṛjutaram api\] B2 vidhṛtam api ca
-
-
 
 सरसिजमणिमाला यस्य तस्यास्मि दासः \।\।३१८\।\।
 </details>
@@ -15954,8 +12537,6 @@ and who wears the very straight vertical mark on his forehead.
 
     evaiti\] Pa eti : Od *gl*. (prāpnoti)
 
-
-
 स्कान्दे—[^FNA004006]
 
 धात्रीफलकृता[^FNA004007] माला तुलसीकाष्ठसम्भवा \।
@@ -15964,13 +12545,9 @@ and who wears the very straight vertical mark on his forehead.
 
     skānde\] R1 Pa Od skandapurāṇe
 
-
-
 [^FNA004007]:
 
     phalakṛtā\] B2 -phalāśritā
-
-
 
 दृश्यते यस्य देहे तु स वै[^FNA004008] भागवतोत्तमः[^FNA004009] \।\।३२०\।\।
 
@@ -15978,21 +12555,15 @@ and who wears the very straight vertical mark on his forehead.
 
     vai\] V1² *i.m*.
 
-
-
 [^FNA004009]:
 
     bhāgavatottamaḥ\] R1 Pa Od *a.c*. bhāgavato naraḥ
-
-
 
 तुलसीकाष्ठसम्भवा[^FNA004010] च \।\।३२०\।\।
 
 [^FNA004010]:
 
     sambhavā\] B3 -sambhavāṃ
-
-
 
 तुलसीदलजां मालां कण्ठस्थां वहते तु यः \।
 
@@ -16004,13 +12575,9 @@ and who wears the very straight vertical mark on his forehead.
 
     phala\] B1 B2 -mālā-
 
-
-
 [^FNA004012]:
 
     vā\] R2 R3 Pa Edd ca
-
-
 
 ददाति पापिनां मुक्तिं किं पुनर् विष्णुसेविनाम् \।\।३२२\।\।
 
@@ -16034,13 +12601,9 @@ and who wears the very straight vertical mark on his forehead.
 
     spṛśec … naraḥ\] B1 *deest*
 
-
-
 [^FNA004014]:
 
     tāvadvarṣa … naraḥ\] Od *om*.
-
-
 
 तावद्युगसहस्राणि वैकुण्ठे वसतिर् भवेत् \।\।३२६\।\।
 
@@ -16052,12 +12615,9 @@ and who wears the very straight vertical mark on his forehead.
 
     deśe\] B2 -dehe
 
-
-
 [^FNA004016]:
 
     ca\] B1 yaḥ
-
 
 </details>
 
@@ -16094,8 +12654,6 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     evaiti\] Pa eti : Od *gl*. (prāpnoti)
 
-
-
 स्कान्दे—[^FNA004006]
 
 धात्रीफलकृता[^FNA004007] माला तुलसीकाष्ठसम्भवा \।
@@ -16104,13 +12662,9 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     skānde\] R1 Pa Od skandapurāṇe
 
-
-
 [^FNA004007]:
 
     phalakṛtā\] B2 -phalāśritā
-
-
 
 दृश्यते यस्य देहे तु स वै[^FNA004008] भागवतोत्तमः[^FNA004009] \।\।३२०\।\।
 
@@ -16118,21 +12672,15 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     vai\] V1² *i.m*.
 
-
-
 [^FNA004009]:
 
     bhāgavatottamaḥ\] R1 Pa Od *a.c*. bhāgavato naraḥ
-
-
 
 तुलसीकाष्ठसम्भवा[^FNA004010] च \।\।३२०\।\।
 
 [^FNA004010]:
 
     sambhavā\] B3 -sambhavāṃ
-
-
 
 तुलसीदलजां मालां कण्ठस्थां वहते तु यः \।
 
@@ -16144,13 +12692,9 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     phala\] B1 B2 -mālā-
 
-
-
 [^FNA004012]:
 
     vā\] R2 R3 Pa Edd ca
-
-
 
 ददाति पापिनां मुक्तिं किं पुनर् विष्णुसेविनाम् \।\।३२२\।\।
 
@@ -16174,13 +12718,9 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     spṛśec … naraḥ\] B1 *deest*
 
-
-
 [^FNA004014]:
 
     tāvadvarṣa … naraḥ\] Od *om*.
-
-
 
 तावद्युगसहस्राणि वैकुण्ठे वसतिर् भवेत् \।\।३२६\।\।
 
@@ -16192,12 +12732,9 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     deśe\] B2 -dehe
 
-
-
 [^FNA004016]:
 
     ca\] B1 yaḥ
-
 
 </details>
 
@@ -16209,13 +12746,9 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     arthaḥ\] B2 *add*. śrīśrīrādhāgovindaśaraṇam \|
 
-
-
 [^FNA004018]:
 
     hrasvatvam\] V2 hrasvam
-
-
 
 गारुडे च[^FNA004019] मार्कण्डेयोक्तौ—[^FNA004020]
 
@@ -16223,21 +12756,15 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     ca\] B2 *deest*
 
-
-
 तुलसीदलजां मालां कृष्णोत्तीर्णां वहेत्[^FNA004021] तु यः \।
 
 [^FNA004020]:
 
     mārkaṇḍeyoktau\] V1 Pa Va B2 *ante* śrī-
 
-
-
 [^FNA004021]:
 
     vahet\] Pa *om*. : Pa3 *i.m*. vayet
-
-
 
 पत्रे पत्रे ऽश्वमेधानां दशानां लभते फलम् \।\।३२८\।\।
 
@@ -16253,15 +12780,11 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     keśave\] Edd viṣṇave
 
-
-
 वहते यो नरो भक्त्या तस्य[^FNA004023] वै नास्ति पातकम् \।\।३३०\।\।
 
 [^FNA004023]:
 
     tasya\] B1 *om*.
-
-
 
 सदा प्रीतमनास् तस्य कृष्णो देवकिनन्दनः \।
 
@@ -16275,13 +12798,9 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     yasya\] R1 Pa Va B2 bahu-
 
-
-
 [^FNA004025]:
 
     śiraso … bhūṣaṇam\] B1 Od yo mālāṃ vahate naraḥ : B1 Od *add*. tulāsīkāṣṭhasambhūtāṃ (Od rādhākṛṣṇasya nirmālyaṃ) śiraso bāhubhūṣaṇam \|
-
-
 
 बाह्वोः करे च मर्त्यस्य देहे तस्य सदा हरिः \।\।३३२\।\।
 
@@ -16297,19 +12816,13 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     naśyanti\] Od *gl*. (adṛṣṭā bhavanti)
 
-
-
 [^FNA004027]:
 
     vātoddhūtaṃ\] B2 vātodṛtaṃ
 
-
-
 [^FNA004028]:
 
     dalam\] B2 jalam
-
-
 
 तुलसीकाष्ठमालाभिर् भूषितो भ्रमते[^FNA004029] यदि \।
 
@@ -16317,15 +12830,11 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     bhramate\] B2 bhramayed
 
-
-
 दुःस्वप्नं दुर्निमित्तं च न भयं शस्त्रजं क्वचित्[^FNA004030] \।\।३३५\।\।
 
 [^FNA004030]:
 
     kvacit\] B1 B2 *add*. gautamīye puraścaraṇaprasaṅge \| tathāmalakasambhūtais tulasīkāṣṭhanirmitair \| ity ādi \|\| tatraiva \| puṇḍarīkabharā mālā gopālamanusiddhidā \| āmalakībhavā mālā sarvasiddhipradā matā \| tulasīsambhavā yā tu mokṣaṃ vitanute cirāt \|\| iti \|
-
-
 
 पुण्यं पुण्यकर्म \। पितॄणां देवतानां च तत्सम्बन्धि कर्म कृतं कोटिगुणं भवेत् विशेषतः कलौ[^FNA004031] \। नश्यन्त्य् अदृष्टा[^FNA004032] भवन्ति \। पलायन्त इत्य् अर्थः \।\।३३३–३३५\।\।
 
@@ -16333,12 +12842,9 @@ In connection with Kārttika in the same book (2.4.12.78, 80–81\[^FNB000560\])
 
     kalau\] B2 *add*. śrīśrīhariḥ \|
 
-
-
 [^FNA004032]:
 
     adṛṣṭā\] Edd adṛśyā
-
 
 </details>
 
@@ -16365,13 +12871,9 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     arthaḥ\] B2 *add*. śrīśrīrādhāgovindaśaraṇam \|
 
-
-
 [^FNA004018]:
 
     hrasvatvam\] V2 hrasvam
-
-
 
 गारुडे च[^FNA004019] मार्कण्डेयोक्तौ—[^FNA004020]
 
@@ -16379,21 +12881,15 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     ca\] B2 *deest*
 
-
-
 तुलसीदलजां मालां कृष्णोत्तीर्णां वहेत्[^FNA004021] तु यः \।
 
 [^FNA004020]:
 
     mārkaṇḍeyoktau\] V1 Pa Va B2 *ante* śrī-
 
-
-
 [^FNA004021]:
 
     vahet\] Pa *om*. : Pa3 *i.m*. vayet
-
-
 
 पत्रे पत्रे ऽश्वमेधानां दशानां लभते फलम् \।\।३२८\।\।
 
@@ -16409,15 +12905,11 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     keśave\] Edd viṣṇave
 
-
-
 वहते यो नरो भक्त्या तस्य[^FNA004023] वै नास्ति पातकम् \।\।३३०\।\।
 
 [^FNA004023]:
 
     tasya\] B1 *om*.
-
-
 
 सदा प्रीतमनास् तस्य कृष्णो देवकिनन्दनः \।
 
@@ -16431,13 +12923,9 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     yasya\] R1 Pa Va B2 bahu-
 
-
-
 [^FNA004025]:
 
     śiraso … bhūṣaṇam\] B1 Od yo mālāṃ vahate naraḥ : B1 Od *add*. tulāsīkāṣṭhasambhūtāṃ (Od rādhākṛṣṇasya nirmālyaṃ) śiraso bāhubhūṣaṇam \|
-
-
 
 बाह्वोः करे च मर्त्यस्य देहे तस्य सदा हरिः \।\।३३२\।\।
 
@@ -16453,19 +12941,13 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     naśyanti\] Od *gl*. (adṛṣṭā bhavanti)
 
-
-
 [^FNA004027]:
 
     vātoddhūtaṃ\] B2 vātodṛtaṃ
 
-
-
 [^FNA004028]:
 
     dalam\] B2 jalam
-
-
 
 तुलसीकाष्ठमालाभिर् भूषितो भ्रमते[^FNA004029] यदि \।
 
@@ -16473,15 +12955,11 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     bhramate\] B2 bhramayed
 
-
-
 दुःस्वप्नं दुर्निमित्तं च न भयं शस्त्रजं क्वचित्[^FNA004030] \।\।३३५\।\।
 
 [^FNA004030]:
 
     kvacit\] B1 B2 *add*. gautamīye puraścaraṇaprasaṅge \| tathāmalakasambhūtais tulasīkāṣṭhanirmitair \| ity ādi \|\| tatraiva \| puṇḍarīkabharā mālā gopālamanusiddhidā \| āmalakībhavā mālā sarvasiddhipradā matā \| tulasīsambhavā yā tu mokṣaṃ vitanute cirāt \|\| iti \|
-
-
 
 पुण्यं पुण्यकर्म \। पितॄणां देवतानां च तत्सम्बन्धि कर्म कृतं कोटिगुणं भवेत् विशेषतः कलौ[^FNA004031] \। नश्यन्त्य् अदृष्टा[^FNA004032] भवन्ति \। पलायन्त इत्य् अर्थः \।\।३३३–३३५\।\।
 
@@ -16489,12 +12967,9 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     kalau\] B2 *add*. śrīśrīhariḥ \|
 
-
-
 [^FNA004032]:
 
     adṛṣṭā\] Edd adṛśyā
-
 
 </details>
 
@@ -16514,13 +12989,9 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     tathā … skānde\] Edd *deest*
 
-
-
 [^FNA004034]:
 
     viṣṇunirmālyaṃ\] Od *gl*. (dhāryam)
-
-
 
 पितॄणां देवतानां च वैष्णवैस् तु समं[^FNA004035] मतम् \।\।३३७\।\।
 
@@ -16528,27 +12999,19 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     vaiṣṇavais … samaṃ\] Od vaiṣṇavānāṃ sasaṃ-
 
-
-
 पूर्वं[^FNA004036] बहिस् तीर्थस्नाने सन्ध्योपासनादिकं लिखितम् \। इदानीं गृहविषयकं तल् लिखति सन्ध्येति \। तत्र तस्मिन् कर्मणि[^FNA004037] \। विष्णुनिर्माल्यं तद्वहनम् इत्य् अर्थः \। तद्द्वयं[^FNA004038] समं तुल्यं मतम् \।\।३३६–३३७\।\।
 
 [^FNA004036]:
 
     pūrvaṃ\] B1 sarvaṃ
 
-
-
 [^FNA004037]:
 
     karmaṇi\] B1 *add*. śrīḥ \| śrīrāmaḥ śaraṇam \|
 
-
-
 [^FNA004038]:
 
     taddvayaṃ\] B2 *deest*
-
-
 
 सन्ध्योपास्तौ च[^FNA004039] श्री[^FNA004040]वशिष्ठवचनम्—
 
@@ -16556,21 +13019,15 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     ca\] B2 *deest*
 
-
-
 [^FNA004040]:
 
     śrī\] B1 Edd *deest*
-
-
 
 गृहे त्व् एक[^FNA004041]गुणा सन्ध्या गोष्ठे दशगुणा स्मृता \।
 
 [^FNA004041]:
 
     eka\] B2 tri-
-
-
 
 शतसाहस्रिका नद्याम् अनन्ता विष्णुसन्निधौ \।\।३३८\।\।
 
@@ -16580,21 +13037,15 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     śrī\] V2 B1 *deest*
 
-
-
 [^FNA004043]:
 
     pūjā\] B2 Od -sevā
-
-
 
 पूजयिष्यंस्[^FNA004044] ततः कृष्णम् आदौ सन्निहितं गुरुम् \।
 
 [^FNA004044]:
 
     pūjayiṣyaṃs\] B2 pūjayitvā
-
-
 
 प्रणम्य पूजयेद् भक्त्या दत्त्वा किञ्चिद् उपायनम् \।\।३३९\।\।
 
@@ -16604,15 +13055,11 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     tathā ca\] B3 atha : Edd *deest*
 
-
-
 रिक्तपाणिर् न पश्येत राजानं भिषजं[^FNA004046] गुरुम् \।
 
 [^FNA004046]:
 
     bhiṣajaṃ\] R1 bheṣeva
-
-
 
 नो[^FNA004047]पायनकरः पुत्रं शिष्यं भृत्यं[^FNA004048] निरीक्षयेत् \।\।३४०\।\।
 
@@ -16620,12 +13067,9 @@ And in the words of Mārkaṇḍeya in the Garuḍa Purāṇa (–):\[^FNB000561
 
     no\] Od so-
 
-
-
 [^FNA004048]:
 
     bhṛtyaṃ\] R1 *ins*. na
-
 
 </details>
 
@@ -16672,13 +13116,9 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 
     tathā … skānde\] Edd *deest*
 
-
-
 [^FNA004034]:
 
     viṣṇunirmālyaṃ\] Od *gl*. (dhāryam)
-
-
 
 पितॄणां देवतानां च वैष्णवैस् तु समं[^FNA004035] मतम् \।\।३३७\।\।
 
@@ -16686,27 +13126,19 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 
     vaiṣṇavais … samaṃ\] Od vaiṣṇavānāṃ sasaṃ-
 
-
-
 पूर्वं[^FNA004036] बहिस् तीर्थस्नाने सन्ध्योपासनादिकं लिखितम् \। इदानीं गृहविषयकं तल् लिखति सन्ध्येति \। तत्र तस्मिन् कर्मणि[^FNA004037] \। विष्णुनिर्माल्यं तद्वहनम् इत्य् अर्थः \। तद्द्वयं[^FNA004038] समं तुल्यं मतम् \।\।३३६–३३७\।\।
 
 [^FNA004036]:
 
     pūrvaṃ\] B1 sarvaṃ
 
-
-
 [^FNA004037]:
 
     karmaṇi\] B1 *add*. śrīḥ \| śrīrāmaḥ śaraṇam \|
 
-
-
 [^FNA004038]:
 
     taddvayaṃ\] B2 *deest*
-
-
 
 सन्ध्योपास्तौ च[^FNA004039] श्री[^FNA004040]वशिष्ठवचनम्—
 
@@ -16714,21 +13146,15 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 
     ca\] B2 *deest*
 
-
-
 [^FNA004040]:
 
     śrī\] B1 Edd *deest*
-
-
 
 गृहे त्व् एक[^FNA004041]गुणा सन्ध्या गोष्ठे दशगुणा स्मृता \।
 
 [^FNA004041]:
 
     eka\] B2 tri-
-
-
 
 शतसाहस्रिका नद्याम् अनन्ता विष्णुसन्निधौ \।\।३३८\।\।
 
@@ -16738,21 +13164,15 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 
     śrī\] V2 B1 *deest*
 
-
-
 [^FNA004043]:
 
     pūjā\] B2 Od -sevā
-
-
 
 पूजयिष्यंस्[^FNA004044] ततः कृष्णम् आदौ सन्निहितं गुरुम् \।
 
 [^FNA004044]:
 
     pūjayiṣyaṃs\] B2 pūjayitvā
-
-
 
 प्रणम्य पूजयेद् भक्त्या दत्त्वा किञ्चिद् उपायनम् \।\।३३९\।\।
 
@@ -16762,15 +13182,11 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 
     tathā ca\] B3 atha : Edd *deest*
 
-
-
 रिक्तपाणिर् न पश्येत राजानं भिषजं[^FNA004046] गुरुम् \।
 
 [^FNA004046]:
 
     bhiṣajaṃ\] R1 bheṣeva
-
-
 
 नो[^FNA004047]पायनकरः पुत्रं शिष्यं भृत्यं[^FNA004048] निरीक्षयेत् \।\।३४०\।\।
 
@@ -16778,12 +13194,9 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 
     no\] Od so-
 
-
-
 [^FNA004048]:
 
     bhṛtyaṃ\] R1 *ins*. na
-
 
 </details>
 
@@ -16797,21 +13210,15 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 
     kiṃ ca\] B3 atha
 
-
-
 [^FNA004050]:
 
     śrī\] B1 *deest*
-
-
 
 प्रथमं तु गुरुं पूज्य[^FNA004051] ततश् चैव ममार्चनम् \।
 
 [^FNA004051]:
 
     pūjya\] B2 pūjyaṃ
-
-
 
 कुर्वन् सिद्धिम् अवाप्नोति ह्य् अन्यथा निष्फलं भवेत् \।\।३४१\।\।
 
@@ -16823,13 +13230,9 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 
     śrī\] B2 Od *deest*
 
-
-
 [^FNA004053]:
 
     nāradoktau\] B3 Edd nāradena
-
-
 
 गुरौ सन्निहिते यस् तु पूजयेद् अन्यम् अग्रतः \।
 
@@ -16840,8 +13243,6 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 [^FNA004054]:
 
     śrī\] V2 B3 *deest*
-
-
 
 श्रुतिषु—
 
@@ -16856,8 +13257,6 @@ As it is said in the Smṛtimahārṇava:\[^FNB000564\]
 [^FNA004055]:
 
     ekādaśaskandhe\] B1 anyatrāpi tasyaiva ekādaśaskandhe : B2 ekādaśe
-
-
 
 आचार्यं मां विजानीयान् नावमन्येत कर्हिचित् \।
 
@@ -16905,21 +13304,15 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 
     kiṃ ca\] B3 atha
 
-
-
 [^FNA004050]:
 
     śrī\] B1 *deest*
-
-
 
 प्रथमं तु गुरुं पूज्य[^FNA004051] ततश् चैव ममार्चनम् \।
 
 [^FNA004051]:
 
     pūjya\] B2 pūjyaṃ
-
-
 
 कुर्वन् सिद्धिम् अवाप्नोति ह्य् अन्यथा निष्फलं भवेत् \।\।३४१\।\।
 
@@ -16931,13 +13324,9 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 
     śrī\] B2 Od *deest*
 
-
-
 [^FNA004053]:
 
     nāradoktau\] B3 Edd nāradena
-
-
 
 गुरौ सन्निहिते यस् तु पूजयेद् अन्यम् अग्रतः \।
 
@@ -16948,8 +13337,6 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 [^FNA004054]:
 
     śrī\] V2 B3 *deest*
-
-
 
 श्रुतिषु—
 
@@ -16964,8 +13351,6 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 [^FNA004055]:
 
     ekādaśaskandhe\] B1 anyatrāpi tasyaiva ekādaśaskandhe : B2 ekādaśe
-
-
 
 आचार्यं मां विजानीयान् नावमन्येत कर्हिचित् \।
 
@@ -16982,15 +13367,11 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 
     daśama\] V1 V2 Va *ante* śrī-
 
-
-
 नाहम् इज्याप्रजातिभ्यां तपसोपशमेन[^FNA004057] च \।
 
 [^FNA004057]:
 
     opaśamena\] Od *gl*. (upaśame śāntye)
-
-
 
 तुष्येयं सर्वभूतात्मा गुरुशुश्रूषया यथा \।\।३४५\।\।
 
@@ -17000,25 +13381,17 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 
     gṛhastha\] Edd gārhastya-
 
-
-
 [^FNA004059]:
 
     gṛhasthadharmaḥ\] B1 *deest*
-
-
 
 [^FNA004060]:
 
     upaśamena\] B3 *ins*. dharmeṇa
 
-
-
 [^FNA004061]:
 
     tathā\] B1 tathāhaṃ
-
-
 
 सप्तमस्कन्धे[^FNA004062] श्री[^FNA004063]नारदोक्तौ—[^FNA004064]
 
@@ -17026,13 +13399,9 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 
     saptamaskandhe\] B2 saptame
 
-
-
 [^FNA004063]:
 
     śrī\] B1 *deest*
-
-
 
 यस्य साक्षाद् भगवति ज्ञानदीपप्रदे गुरौ \।
 
@@ -17040,21 +13409,15 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 
     nāradoktau\] R1 Pa Od śrīnāradasyoktau
 
-
-
 मर्त्यासद्धीः[^FNA004065] श्रुतं[^FNA004066] तस्य सर्वं कुञ्जरशौचवत् \।\।३४६\।\।
 
 [^FNA004065]:
 
     martyāsaddhīḥ\] Od *gl*. (martya iti asaddhīḥ)
 
-
-
 [^FNA004066]:
 
     śrutaṃ\] Od smṛtaṃ
-
-
 
 गुर्वभक्त्या परमानर्थोक्त्या गुरुभक्तिम् एव द्रढयति यस्येति \। साक्षाद्भूते मर्त्यासद्धीः मर्त्य इति असद्बुद्धिः \। श्रुतं शास्त्राभ्यासः \। कुञ्जरशौचवत् व्यर्थ एवेत्य्[^FNA004067][^FNA004068] अर्थः \।\।३४६\।\।
 
@@ -17062,13 +13425,9 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 
     vyartha evety\] B2 vyartham ity
 
-
-
 [^FNA004068]:
 
     evety\] V2 ity
-
-
 
 अन्यत्रापि तस्यैव—[^FNA004069]
 
@@ -17078,13 +13437,9 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 
     tasyaiva\] Edd *deest*
 
-
-
 [^FNA004070]:
 
     mandīkurvanti\] Od *gl*. (amandāṃ mandīkurvanti)
-
-
 
 यन् नो ऽतीत्य व्रजेद् विष्णुं शिष्यो भक्त्या गुरौ ध्रुवम् \।\।३४७\।\।
 
@@ -17097,7 +13452,6 @@ In the words of the blessed Lord in the Eleventh Book (BhP11.17.27):\[^FNB000567
 [^FNA004071]:
 
     daḥ\] Edd -dam : V2 *add*. ajño hi bālam ity āhuḥ pitety eva tu mantradaḥ \|
-
 
 </details>
 
@@ -17132,15 +13486,11 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     daśama\] V1 V2 Va *ante* śrī-
 
-
-
 नाहम् इज्याप्रजातिभ्यां तपसोपशमेन[^FNA004057] च \।
 
 [^FNA004057]:
 
     opaśamena\] Od *gl*. (upaśame śāntye)
-
-
 
 तुष्येयं सर्वभूतात्मा गुरुशुश्रूषया यथा \।\।३४५\।\।
 
@@ -17150,25 +13500,17 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     gṛhastha\] Edd gārhastya-
 
-
-
 [^FNA004059]:
 
     gṛhasthadharmaḥ\] B1 *deest*
-
-
 
 [^FNA004060]:
 
     upaśamena\] B3 *ins*. dharmeṇa
 
-
-
 [^FNA004061]:
 
     tathā\] B1 tathāhaṃ
-
-
 
 सप्तमस्कन्धे[^FNA004062] श्री[^FNA004063]नारदोक्तौ—[^FNA004064]
 
@@ -17176,13 +13518,9 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     saptamaskandhe\] B2 saptame
 
-
-
 [^FNA004063]:
 
     śrī\] B1 *deest*
-
-
 
 यस्य साक्षाद् भगवति ज्ञानदीपप्रदे गुरौ \।
 
@@ -17190,21 +13528,15 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     nāradoktau\] R1 Pa Od śrīnāradasyoktau
 
-
-
 मर्त्यासद्धीः[^FNA004065] श्रुतं[^FNA004066] तस्य सर्वं कुञ्जरशौचवत् \।\।३४६\।\।
 
 [^FNA004065]:
 
     martyāsaddhīḥ\] Od *gl*. (martya iti asaddhīḥ)
 
-
-
 [^FNA004066]:
 
     śrutaṃ\] Od smṛtaṃ
-
-
 
 गुर्वभक्त्या परमानर्थोक्त्या गुरुभक्तिम् एव द्रढयति यस्येति \। साक्षाद्भूते मर्त्यासद्धीः मर्त्य इति असद्बुद्धिः \। श्रुतं शास्त्राभ्यासः \। कुञ्जरशौचवत् व्यर्थ एवेत्य्[^FNA004067][^FNA004068] अर्थः \।\।३४६\।\।
 
@@ -17212,13 +13544,9 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     vyartha evety\] B2 vyartham ity
 
-
-
 [^FNA004068]:
 
     evety\] V2 ity
-
-
 
 अन्यत्रापि तस्यैव—[^FNA004069]
 
@@ -17228,13 +13556,9 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     tasyaiva\] Edd *deest*
 
-
-
 [^FNA004070]:
 
     mandīkurvanti\] Od *gl*. (amandāṃ mandīkurvanti)
-
-
 
 यन् नो ऽतीत्य व्रजेद् विष्णुं शिष्यो भक्त्या गुरौ ध्रुवम् \।\।३४७\।\।
 
@@ -17247,7 +13571,6 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 [^FNA004071]:
 
     daḥ\] Edd -dam : V2 *add*. ajño hi bālam ity āhuḥ pitety eva tu mantradaḥ \|
-
 
 </details>
 
@@ -17267,13 +13590,9 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     śrī\] Edd *deest*
 
-
-
 [^FNA004073]:
 
     brahmaṇo\] B2 -rāmaṇo
-
-
 
 यो मन्त्रः स गुरुः साक्षात् यो गुरुः स हरिः स्मृतः \।
 
@@ -17283,15 +13602,11 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     hariḥ svayam\] Od *transp*.
 
-
-
 गुरोः समासने नैव न चैवोच्चासने वसेत्[^FNA004075] \।\।३५०\।\।
 
 [^FNA004075]:
 
     vaset\] Pa B2 bhavet
-
-
 
 विष्णुरहस्ये च[^FNA004076] तस्यैव—[^FNA004077][^FNA004078]
 
@@ -17299,13 +13614,9 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     ca\] V2 B3 *deest*
 
-
-
 [^FNA004077]:
 
     ca tasyaiva\] Edd *deest*
-
-
 
 तस्मात् सर्वप्रयत्नेन यथा विष्णुं[^FNA004079] तथा गुरुम् \।
 
@@ -17313,13 +13624,9 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     tasyaiva\] V1 tatraiva
 
-
-
 [^FNA004079]:
 
     yathā viṣṇuṃ\] Edd yathāvidhi
-
-
 
 अभेदेनार्चयेद् यस् तु स मुक्तिफलम् आप्नुयात् \।\।३५१\।\।
 
@@ -17329,31 +13636,21 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     bhagavato\] Va -bhāgavate
 
-
-
 [^FNA004081]:
 
     bhagavato bhārate\] B1 B3 Edd bhāgavate
-
-
 
 [^FNA004082]:
 
     bhārate\] B2 bhāgavate
 
-
-
 [^FNA004083]:
 
     ca\] B3 *deest*
 
-
-
 [^FNA004084]:
 
     hariś\] V2 Va B2 B3 Od *ante* śrī-
-
-
 
 गुरुसुश्रूषणं नाम सर्वधर्मोत्तमोत्तमम् \।
 
@@ -17365,21 +13662,15 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     niṣṭa\] Pa -bhīṣṭa-
 
-
-
 [^FNA004086]:
 
     sādhanam\] Va Edd -kāraṇam : B3 -kārakam
-
-
 
 एतत् सर्वं गुरौ भक्त्या पुरुषो ह्य् अञ्जसा जयेत्[^FNA004087] \।\।३५३\।\।
 
 [^FNA004087]:
 
     jayet\] Va japet : Od tyajet
-
-
 
 पाद्मे—
 
@@ -17391,14 +13682,11 @@ In the Manu Smṛti (2.153):\[^FNB000573\]
 
     atithayo\] B3 atiśayo
 
-
-
 तत्रैव देवद्युति[^FNA004089]स्तुतौ—
 
 [^FNA004089]:
 
     dyuti\] B3 Od Edd -hūti-
-
 
 </details>
 
@@ -17445,13 +13733,9 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     śrī\] Edd *deest*
 
-
-
 [^FNA004073]:
 
     brahmaṇo\] B2 -rāmaṇo
-
-
 
 यो मन्त्रः स गुरुः साक्षात् यो गुरुः स हरिः स्मृतः \।
 
@@ -17461,15 +13745,11 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     hariḥ svayam\] Od *transp*.
 
-
-
 गुरोः समासने नैव न चैवोच्चासने वसेत्[^FNA004075] \।\।३५०\।\।
 
 [^FNA004075]:
 
     vaset\] Pa B2 bhavet
-
-
 
 विष्णुरहस्ये च[^FNA004076] तस्यैव—[^FNA004077][^FNA004078]
 
@@ -17477,13 +13757,9 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     ca\] V2 B3 *deest*
 
-
-
 [^FNA004077]:
 
     ca tasyaiva\] Edd *deest*
-
-
 
 तस्मात् सर्वप्रयत्नेन यथा विष्णुं[^FNA004079] तथा गुरुम् \।
 
@@ -17491,13 +13767,9 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     tasyaiva\] V1 tatraiva
 
-
-
 [^FNA004079]:
 
     yathā viṣṇuṃ\] Edd yathāvidhi
-
-
 
 अभेदेनार्चयेद् यस् तु स मुक्तिफलम् आप्नुयात् \।\।३५१\।\।
 
@@ -17507,31 +13779,21 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     bhagavato\] Va -bhāgavate
 
-
-
 [^FNA004081]:
 
     bhagavato bhārate\] B1 B3 Edd bhāgavate
-
-
 
 [^FNA004082]:
 
     bhārate\] B2 bhāgavate
 
-
-
 [^FNA004083]:
 
     ca\] B3 *deest*
 
-
-
 [^FNA004084]:
 
     hariś\] V2 Va B2 B3 Od *ante* śrī-
-
-
 
 गुरुसुश्रूषणं नाम सर्वधर्मोत्तमोत्तमम् \।
 
@@ -17543,21 +13805,15 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     niṣṭa\] Pa -bhīṣṭa-
 
-
-
 [^FNA004086]:
 
     sādhanam\] Va Edd -kāraṇam : B3 -kārakam
-
-
 
 एतत् सर्वं गुरौ भक्त्या पुरुषो ह्य् अञ्जसा जयेत्[^FNA004087] \।\।३५३\।\।
 
 [^FNA004087]:
 
     jayet\] Va japet : Od tyajet
-
-
 
 पाद्मे—
 
@@ -17569,14 +13825,11 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     atithayo\] B3 atiśayo
 
-
-
 तत्रैव देवद्युति[^FNA004089]स्तुतौ—
 
 [^FNA004089]:
 
     dyuti\] B3 Od Edd -hūti-
-
 
 </details>
 
@@ -17588,27 +13841,19 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     harau\] B2 gurau
 
-
-
 [^FNA004091]:
 
     tadvan niṣṭhā\] R1 Pa tadvariṣṭa
 
-
-
 [^FNA004092]:
 
     niṣṭhā\] B2 Od vipre
-
-
 
 ममास्ति तेन सत्येन स्वं[^FNA004093] दर्शयतु मे हरिः \।\।३५५\।\।
 
 [^FNA004093]:
 
     svaṃ\] B3 sa
-
-
 
 आदित्यपुराणे—
 
@@ -17620,8 +13865,6 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     vāpy\] V1 cāpy
 
-
-
 अन्यत्र च—
 
 हरौ[^FNA004095] रुष्टे गुरुस् त्राता गुरौ रुष्टे न कश्चन \।
@@ -17629,8 +13872,6 @@ In the hymn of Devadyuti in the same book (6.128.269):
 [^FNA004095]:
 
     harau\] B2 śive
-
-
 
 तस्मात् सर्वप्रयत्नेन गुरुम् एव प्रसादयेत् \।\।३५७\।\।
 
@@ -17642,19 +13883,13 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     brahmavaivarte\] R1 brahma
 
-
-
 [^FNA004097]:
 
     ghnantaḥ … vā\] Od *gl*. (guruḥ śiṣyaṃ ghnanto vā śapanto vā śāpo vā)
 
-
-
 [^FNA004098]:
 
     krudhāḥ\] B3 krurāḥ
-
-
 
 गुरवः पूजनीयास् ते गृहं नत्वा नयेत तान् \।\।३५८\।\।
 
@@ -17664,25 +13899,17 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     jyeṣṭha\] V1 V2 jyeṣṭho
 
-
-
 [^FNA004100]:
 
     mātā\] V1 Edd sūto
-
-
 
 [^FNA004101]:
 
     supūjitā\] B1 ca pūjitā
 
-
-
 [^FNA004102]:
 
     iti\] V1 V2 *deest*
-
-
 
 तच्[^FNA004103] छ्लाघ्यं जन्म धन्यं तद् दिनं पुण्याथ नाडिका \।
 
@@ -17690,20 +13917,15 @@ In the hymn of Devadyuti in the same book (6.128.269):
 
     tac\] R1 *om*.
 
-
-
 यस्यां गुरुं प्रणमते[^FNA004104] समुपासृत्य[^FNA004105] भक्तितः \।\।३५९\।\।
 
 [^FNA004104]:
 
     praṇamate\] B2 praṇamati
 
-
-
 [^FNA004105]:
 
     samupāsṛtya\] B3 samupāvṛtya : Edd samupāsya tu
-
 
 </details>
 
@@ -17736,27 +13958,19 @@ In the Brahmavaivarta Purāṇa (–):
 
     harau\] B2 gurau
 
-
-
 [^FNA004091]:
 
     tadvan niṣṭhā\] R1 Pa tadvariṣṭa
 
-
-
 [^FNA004092]:
 
     niṣṭhā\] B2 Od vipre
-
-
 
 ममास्ति तेन सत्येन स्वं[^FNA004093] दर्शयतु मे हरिः \।\।३५५\।\।
 
 [^FNA004093]:
 
     svaṃ\] B3 sa
-
-
 
 आदित्यपुराणे—
 
@@ -17768,8 +13982,6 @@ In the Brahmavaivarta Purāṇa (–):
 
     vāpy\] V1 cāpy
 
-
-
 अन्यत्र च—
 
 हरौ[^FNA004095] रुष्टे गुरुस् त्राता गुरौ रुष्टे न कश्चन \।
@@ -17777,8 +13989,6 @@ In the Brahmavaivarta Purāṇa (–):
 [^FNA004095]:
 
     harau\] B2 śive
-
-
 
 तस्मात् सर्वप्रयत्नेन गुरुम् एव प्रसादयेत् \।\।३५७\।\।
 
@@ -17790,19 +14000,13 @@ In the Brahmavaivarta Purāṇa (–):
 
     brahmavaivarte\] R1 brahma
 
-
-
 [^FNA004097]:
 
     ghnantaḥ … vā\] Od *gl*. (guruḥ śiṣyaṃ ghnanto vā śapanto vā śāpo vā)
 
-
-
 [^FNA004098]:
 
     krudhāḥ\] B3 krurāḥ
-
-
 
 गुरवः पूजनीयास् ते गृहं नत्वा नयेत तान् \।\।३५८\।\।
 
@@ -17812,25 +14016,17 @@ In the Brahmavaivarta Purāṇa (–):
 
     jyeṣṭha\] V1 V2 jyeṣṭho
 
-
-
 [^FNA004100]:
 
     mātā\] V1 Edd sūto
-
-
 
 [^FNA004101]:
 
     supūjitā\] B1 ca pūjitā
 
-
-
 [^FNA004102]:
 
     iti\] V1 V2 *deest*
-
-
 
 तच्[^FNA004103] छ्लाघ्यं जन्म धन्यं तद् दिनं पुण्याथ नाडिका \।
 
@@ -17838,20 +14034,15 @@ In the Brahmavaivarta Purāṇa (–):
 
     tac\] R1 *om*.
 
-
-
 यस्यां गुरुं प्रणमते[^FNA004104] समुपासृत्य[^FNA004105] भक्तितः \।\।३५९\।\।
 
 [^FNA004104]:
 
     praṇamate\] B2 praṇamati
 
-
-
 [^FNA004105]:
 
     samupāsṛtya\] B3 samupāvṛtya : Edd samupāsya tu
-
 
 </details>
 
@@ -17865,13 +14056,9 @@ In the Brahmavaivarta Purāṇa (–):
 
     kiṃ ca\] Edd *deest*
 
-
-
 [^FNA004107]:
 
     pariharanti ye\] Od *gl*. (ye tyajanti)
-
-
 
 तान् मृतान् अपि क्रव्यादाः कृतघ्नान् नोपभुञ्जते \।\।३६०\।\।
 
@@ -17881,19 +14068,13 @@ In the Brahmavaivarta Purāṇa (–):
 
     bodhaḥ\] Od rodhaḥ
 
-
-
 [^FNA004109]:
 
     bodhaḥ kaluṣitas\] Od *gl*. (tena guṇāyaḥ rodhaḥ kaluṣitaḥ baddhitaḥ)
 
-
-
 [^FNA004110]:
 
     prakaṭīkṛtam\] Od *gl*. (durātmatā prakāśakṛtam)
-
-
 
 गुरुर् येन परित्यक्तस् तेन त्यक्तः पुरा[^FNA004111] हरिः \।\।३६१\।\।
 
@@ -17901,21 +14082,15 @@ In the Brahmavaivarta Purāṇa (–):
 
     purā\] Od punaḥ
 
-
-
 गुरुत्यागेन परमानर्थं दर्शयन् गुरुमाहात्म्यम् एव द्रढयति उपदेष्टारम् इति त्रिभिः \। आम्नायागतं कुलक्रम्[^FNA004112]आयातं[^FNA004113] वेदविहितं वा \। बोधः ज्ञानं विद्या वा \।\।३६०–३६१\।\।
 
 [^FNA004112]:
 
     kulakram\] B1 kulakramād
 
-
-
 [^FNA004113]:
 
     āyātaṃ\] B2 Edd -āgataṃ
-
-
 
 अन्यत्र च—
 
@@ -17931,8 +14106,6 @@ In the Brahmavaivarta Purāṇa (–):
 
     tatrāpavādaḥ\] Va Pa B3 atrāpavādaḥ
 
-
-
 पञ्चरात्रे—
 
 अवैष्णवोपदिष्टेन[^FNA004115] मन्त्रेण निरयं व्रजेत् \।
@@ -17940,8 +14113,6 @@ In the Brahmavaivarta Purāṇa (–):
 [^FNA004115]:
 
     opadiṣṭena\] B3 -opadṛṣṭena
-
-
 
 पुनश् च विधिना सम्यग् ग्राहयेद् वैष्णवाद् गुरोः \।\।३६३\।\।
 
@@ -17951,12 +14122,9 @@ In the Brahmavaivarta Purāṇa (–):
 
     avaiṣṇaveti\] B1 *deest* : V2² *i.m*.
 
-
-
 [^FNA004117]:
 
     kṛpayā\] B1 *deest*
-
 
 </details>
 
@@ -17991,13 +14159,9 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     kiṃ ca\] Edd *deest*
 
-
-
 [^FNA004107]:
 
     pariharanti ye\] Od *gl*. (ye tyajanti)
-
-
 
 तान् मृतान् अपि क्रव्यादाः कृतघ्नान् नोपभुञ्जते \।\।३६०\।\।
 
@@ -18007,19 +14171,13 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     bodhaḥ\] Od rodhaḥ
 
-
-
 [^FNA004109]:
 
     bodhaḥ kaluṣitas\] Od *gl*. (tena guṇāyaḥ rodhaḥ kaluṣitaḥ baddhitaḥ)
 
-
-
 [^FNA004110]:
 
     prakaṭīkṛtam\] Od *gl*. (durātmatā prakāśakṛtam)
-
-
 
 गुरुर् येन परित्यक्तस् तेन त्यक्तः पुरा[^FNA004111] हरिः \।\।३६१\।\।
 
@@ -18027,21 +14185,15 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     purā\] Od punaḥ
 
-
-
 गुरुत्यागेन परमानर्थं दर्शयन् गुरुमाहात्म्यम् एव द्रढयति उपदेष्टारम् इति त्रिभिः \। आम्नायागतं कुलक्रम्[^FNA004112]आयातं[^FNA004113] वेदविहितं वा \। बोधः ज्ञानं विद्या वा \।\।३६०–३६१\।\।
 
 [^FNA004112]:
 
     kulakram\] B1 kulakramād
 
-
-
 [^FNA004113]:
 
     āyātaṃ\] B2 Edd -āgataṃ
-
-
 
 अन्यत्र च—
 
@@ -18057,8 +14209,6 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     tatrāpavādaḥ\] Va Pa B3 atrāpavādaḥ
 
-
-
 पञ्चरात्रे—
 
 अवैष्णवोपदिष्टेन[^FNA004115] मन्त्रेण निरयं व्रजेत् \।
@@ -18066,8 +14216,6 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 [^FNA004115]:
 
     opadiṣṭena\] B3 -opadṛṣṭena
-
-
 
 पुनश् च विधिना सम्यग् ग्राहयेद् वैष्णवाद् गुरोः \।\।३६३\।\।
 
@@ -18077,12 +14225,9 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     avaiṣṇaveti\] B1 *deest* : V2² *i.m*.
 
-
-
 [^FNA004117]:
 
     kṛpayā\] B1 *deest*
-
 
 </details>
 
@@ -18094,19 +14239,13 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     śrī\] B2 *deest*
 
-
-
 [^FNA004119]:
 
     gurvabhakta\] Edd -gurubhakti-
 
-
-
 [^FNA004120]:
 
     phalam\] B1 -lakṣaṇam
-
-
 
 अगस्त्यसंहितायाम्—
 
@@ -18118,8 +14257,6 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     narakakleśa\] B2 Od narakakleśān
 
-
-
 यैः शिष्यैः शश्वद् आराध्या गुरवो ह्य् अवमानिताः \।
 
 पुत्रमित्रकलत्रादिसम्पद्भ्यः प्रच्युता हि ते \।\।३६५\।\।
@@ -18130,21 +14267,15 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     paruṣaṃ\] Va Pa B2 puruṣaṃ : Od *gl*. (niṣṭhuram)
 
-
-
 [^FNA004123]:
 
     pravadanti\] B2 prabhavanti
-
-
 
 शूकरत्वं भवत्य् एव[^FNA004124] तेषां जन्मशतेष्व् अपि \।\।३६६\।\।
 
 [^FNA004124]:
 
     eva\] B2 evaṃ
-
-
 
 ये गुरुद्रोहिणो मूढाः सततं पापकारिणः \।
 
@@ -18153,8 +14284,6 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 [^FNA004125]:
 
     iti\] V1 V2 R2 R3 Pa B2 B3 Edd *deest*
-
-
 
 श्रीगुरुभक्तेर् दार्ढ्यायैव तदभक्तानां दुर्गतिदोषान् लिखति ये गुर्वाज्ञाम् इत्यादिना \। अत एव सततं पापकारिणो भवन्ति \।\।३६४–३६७\।\।
 
@@ -18166,21 +14295,15 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     tryavarān\] V2 R1 Va Pa avarān
 
-
-
 तत्र[^FNA004127][^FNA004128] कौर्मे श्रीव्यासवचनम्—
 
 [^FNA004127]:
 
     tatra\] B1 *deest*
 
-
-
 [^FNA004128]:
 
     tatra\] Edd ata eva
-
-
 
 व्यत्यस्तपाणिना[^FNA004129] कार्यम् उपसङ्ग्रहणं गुरोः[^FNA004130] \।
 
@@ -18188,13 +14311,9 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     vyatyastapāṇinā\] Od *gl*. (vyatastau nikṣiptau pānī yasya tena)
 
-
-
 [^FNA004130]:
 
     guroḥ\] R1 guruḥ : B2 gurau
-
-
 
 सव्येन[^FNA004131] सव्यः स्प्रष्टव्यो दक्षिणेन तु दक्षिणः[^FNA004132] \।\। इति \।\।३६९\।\।
 
@@ -18202,21 +14321,15 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 
     savyena\] Od *gl*. (vāmena pāninā)
 
-
-
 [^FNA004132]:
 
     dakṣiṇaḥ\] B2 dakṣiṇe
-
-
 
 त्रयो ऽवरा अन्त्या येषु \। तान् त्रिभ्यो ऽन्यूनान् इत्य् अर्थः \। असमान् अयुग्मान् \। उपसंग्रहणं श्रीपदद्वयधारणम् \। तत्प्रकारम् एवाह सव्येनेति \। निजसव्यपाणिना[^FNA004133] गुरोः सव्यपाद इत्य् अर्थः \। एवम् अग्रे ऽपि \।\।३६८–३६९\।\।
 
 [^FNA004133]:
 
     nijasavyapāṇinā\] V1 V2 B1 savyena nijapāṇinā
-
-
 
 अथ श्रीगुरुपादानां प्राप्यानुज्ञां च साधकः \।
 
@@ -18225,7 +14338,6 @@ By giving verses such as “Ignorant or learned …” (4.356) or “Even vultur
 [^FNA004134]:
 
     pravekṣyan\] B2 Od praviśya
-
 
 </details>
 
@@ -18258,19 +14370,13 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     śrī\] B2 *deest*
 
-
-
 [^FNA004119]:
 
     gurvabhakta\] Edd -gurubhakti-
 
-
-
 [^FNA004120]:
 
     phalam\] B1 -lakṣaṇam
-
-
 
 अगस्त्यसंहितायाम्—
 
@@ -18282,8 +14388,6 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     narakakleśa\] B2 Od narakakleśān
 
-
-
 यैः शिष्यैः शश्वद् आराध्या गुरवो ह्य् अवमानिताः \।
 
 पुत्रमित्रकलत्रादिसम्पद्भ्यः प्रच्युता हि ते \।\।३६५\।\।
@@ -18294,21 +14398,15 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     paruṣaṃ\] Va Pa B2 puruṣaṃ : Od *gl*. (niṣṭhuram)
 
-
-
 [^FNA004123]:
 
     pravadanti\] B2 prabhavanti
-
-
 
 शूकरत्वं भवत्य् एव[^FNA004124] तेषां जन्मशतेष्व् अपि \।\।३६६\।\।
 
 [^FNA004124]:
 
     eva\] B2 evaṃ
-
-
 
 ये गुरुद्रोहिणो मूढाः सततं पापकारिणः \।
 
@@ -18317,8 +14415,6 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 [^FNA004125]:
 
     iti\] V1 V2 R2 R3 Pa B2 B3 Edd *deest*
-
-
 
 श्रीगुरुभक्तेर् दार्ढ्यायैव तदभक्तानां दुर्गतिदोषान् लिखति ये गुर्वाज्ञाम् इत्यादिना \। अत एव सततं पापकारिणो भवन्ति \।\।३६४–३६७\।\।
 
@@ -18330,21 +14426,15 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     tryavarān\] V2 R1 Va Pa avarān
 
-
-
 तत्र[^FNA004127][^FNA004128] कौर्मे श्रीव्यासवचनम्—
 
 [^FNA004127]:
 
     tatra\] B1 *deest*
 
-
-
 [^FNA004128]:
 
     tatra\] Edd ata eva
-
-
 
 व्यत्यस्तपाणिना[^FNA004129] कार्यम् उपसङ्ग्रहणं गुरोः[^FNA004130] \।
 
@@ -18352,13 +14442,9 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     vyatyastapāṇinā\] Od *gl*. (vyatastau nikṣiptau pānī yasya tena)
 
-
-
 [^FNA004130]:
 
     guroḥ\] R1 guruḥ : B2 gurau
-
-
 
 सव्येन[^FNA004131] सव्यः स्प्रष्टव्यो दक्षिणेन तु दक्षिणः[^FNA004132] \।\। इति \।\।३६९\।\।
 
@@ -18366,21 +14452,15 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     savyena\] Od *gl*. (vāmena pāninā)
 
-
-
 [^FNA004132]:
 
     dakṣiṇaḥ\] B2 dakṣiṇe
-
-
 
 त्रयो ऽवरा अन्त्या येषु \। तान् त्रिभ्यो ऽन्यूनान् इत्य् अर्थः \। असमान् अयुग्मान् \। उपसंग्रहणं श्रीपदद्वयधारणम् \। तत्प्रकारम् एवाह सव्येनेति \। निजसव्यपाणिना[^FNA004133] गुरोः सव्यपाद इत्य् अर्थः \। एवम् अग्रे ऽपि \।\।३६८–३६९\।\।
 
 [^FNA004133]:
 
     nijasavyapāṇinā\] V1 V2 B1 savyena nijapāṇinā
-
-
 
 अथ श्रीगुरुपादानां प्राप्यानुज्ञां च साधकः \।
 
@@ -18389,7 +14469,6 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 [^FNA004134]:
 
     pravekṣyan\] B2 Od praviśya
-
 
 </details>
 
@@ -18405,23 +14484,17 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     tathā cāpastambaḥ\] B3 *deest*
 
-
-
 जपे भोजनकाले च पादुके परिवर्जयेत् \।\। इति[^FNA004136] \।\।३७१\।\।
 
 [^FNA004136]:
 
     iti\] B2 *deest*
 
-
-
 ततः[^FNA004137] श्रीभगवत्पूजामन्दिरस्याङ्गनं गतः \।
 
 [^FNA004137]:
 
     tataḥ\] V1 R1 Pa Va tatra
-
-
 
 प्रक्षाल्य हस्तौ पादौ च द्विराचमनम् आचरेत् \।\।३७२\।\।
 
@@ -18431,15 +14504,11 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     tathā ca\] B3 atha
 
-
-
 देवार्चनादिकार्याणि तथा गुर्वभिवादनम् \।
 
 [^FNA004139]:
 
     mārkaṇḍeye\] V1 R1 Va B2 B3 Od mārkaṇḍeyapurāṇe
-
-
 
 कुर्वीत[^FNA004140] सम्यग् आचम्य तद्वद् एव भुजिक्रियाम्[^FNA004141] \।\। इति \।\।३७३\।\।
 
@@ -18447,13 +14516,9 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     kurvīta\] B2 Od kurvate
 
-
-
 [^FNA004141]:
 
     bhujikriyām\] Od *gl*. (bhojanakriyām ity arthaḥ)
-
-
 
 सम्यग् आचम्येति द्विर् आचमनं बोधयति \। तथैव सम्यक्त्वात्[^FNA004142] \।\।३७३\।\।
 
@@ -18461,32 +14526,23 @@ About this, there is the statement of Vyāsa in the Kūrma Purāṇa (–):
 
     samyaktvāt\] V1 *add*. iti caturthavilāsaḥ : V2 B1 *add*. iti caturthaḥ
 
-
-
 इति श्री[^FNA004143]गोपालभट्टविलिखिते[^FNA004144] भगवद्[^FNA004145]भक्तिविलासे श्रीवैष्णवालङ्कारो नाम चतुर्थो विलासः[^FNA004146] \।\।४\।\।
 
 [^FNA004143]:
 
     śrī\] B2 *deest*
 
-
-
 [^FNA004144]:
 
     vilikhite\] R1 Pa B1 -viracite
-
-
 
 [^FNA004145]:
 
     bhagavad\] B3 Edd *ante* śrī-
 
-
-
 [^FNA004146]:
 
     vilāsaḥ\] Va *add*. śrī oṃ
-
 
 </details>
 
@@ -18521,23 +14577,17 @@ Thus ends the fourth chapter of the Bhagavadbhaktivilāsa of Śrī Gopāla Bha�
 
     tathā cāpastambaḥ\] B3 *deest*
 
-
-
 जपे भोजनकाले च पादुके परिवर्जयेत् \।\। इति[^FNA004136] \।\।३७१\।\।
 
 [^FNA004136]:
 
     iti\] B2 *deest*
 
-
-
 ततः[^FNA004137] श्रीभगवत्पूजामन्दिरस्याङ्गनं गतः \।
 
 [^FNA004137]:
 
     tataḥ\] V1 R1 Pa Va tatra
-
-
 
 प्रक्षाल्य हस्तौ पादौ च द्विराचमनम् आचरेत् \।\।३७२\।\।
 
@@ -18547,15 +14597,11 @@ Thus ends the fourth chapter of the Bhagavadbhaktivilāsa of Śrī Gopāla Bha�
 
     tathā ca\] B3 atha
 
-
-
 देवार्चनादिकार्याणि तथा गुर्वभिवादनम् \।
 
 [^FNA004139]:
 
     mārkaṇḍeye\] V1 R1 Va B2 B3 Od mārkaṇḍeyapurāṇe
-
-
 
 कुर्वीत[^FNA004140] सम्यग् आचम्य तद्वद् एव भुजिक्रियाम्[^FNA004141] \।\। इति \।\।३७३\।\।
 
@@ -18563,13 +14609,9 @@ Thus ends the fourth chapter of the Bhagavadbhaktivilāsa of Śrī Gopāla Bha�
 
     kurvīta\] B2 Od kurvate
 
-
-
 [^FNA004141]:
 
     bhujikriyām\] Od *gl*. (bhojanakriyām ity arthaḥ)
-
-
 
 सम्यग् आचम्येति द्विर् आचमनं बोधयति \। तथैव सम्यक्त्वात्[^FNA004142] \।\।३७३\।\।
 
@@ -18577,31 +14619,22 @@ Thus ends the fourth chapter of the Bhagavadbhaktivilāsa of Śrī Gopāla Bha�
 
     samyaktvāt\] V1 *add*. iti caturthavilāsaḥ : V2 B1 *add*. iti caturthaḥ
 
-
-
 इति श्री[^FNA004143]गोपालभट्टविलिखिते[^FNA004144] भगवद्[^FNA004145]भक्तिविलासे श्रीवैष्णवालङ्कारो नाम चतुर्थो विलासः[^FNA004146] \।\।४\।\।
 
 [^FNA004143]:
 
     śrī\] B2 *deest*
 
-
-
 [^FNA004144]:
 
     vilikhite\] R1 Pa B1 -viracite
-
-
 
 [^FNA004145]:
 
     bhagavad\] B3 Edd *ante* śrī-
 
-
-
 [^FNA004146]:
 
     vilāsaḥ\] Va *add*. śrī oṃ
-
 
 </details>
