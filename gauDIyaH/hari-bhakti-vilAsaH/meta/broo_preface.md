@@ -1,0 +1,35 @@
++++
+title = "Broo Preface"
+
++++
+I have been attracted to religious ritual since my childhood and an initiated Gauḍīya Vaiṣṇava since my youth, so it is perhaps natural that I began reading and translating from the Haribhaktivilāsa already as a Sanskrit student in Uppsala, Sweden, in the late 1990s. My first book was a translation of the chapters dealing with Ekādaśī (Dāsa 2001), and since then, I have through the years kept returning to various topics of the Haribhaktivilāsa. I once applied for funding for translating the whole text as part of a research group, but that funding never came through. Another time Dr. Kenneth Valpey (Krishna Kshetra Swami) and I planned to translate the text together, but for various reasons, that also did not come to fruition. In hindsight, I am happy these attempts failed, for if they had not, they would have led to a book very different from this one.
+
+I began my work with this translation shortly after completing my book on the Rādhā Tantra (Broo 2017a), as working with that text had made me realize that I should create a critical edition of the Haribhaktivilāsa as well. A critical edition aims to get as close to the original text as possible, but as Patrick Olivelle (2020: 38–39) has pointed out, it also shows the changes the text has undergone since then. Working further with the intertextualities of the work, I hoped to find answers to some of the questions that have puzzled earlier scholarship. The reader will have to judge how well I have succeeded.
+
+Text critical work is time-consuming and often tedious but searching for manuscripts of ancient texts can be very exciting. In this work, I was fortunate to have the help of many persons. In Vrindavan, India, I was at the Vrindavan Research Institute at various times assisted by Dr. Brajbhushan Chaturvedi, Archana Pandey and Dr. Pragati Śarma. I am in Vrindavan also indebted to Dr. Satyanarayana Dasa who allowed me to take copies of manuscripts in the library of the Jiva Institute, Sri Dinesh Chandra Sharma, who showed me the manuscripts in his private library, and Sri Srimad Gopananda Bon Maharaj of the Bhajan Kutir for his hospitality and unwavering support.
+
+In beautiful Kolkata, Dr. Bibekananda Banerjee was of great assistance at the Asiatic Society, where I spent many pleasant hours. Dr. Sumanta Rudra, Dr. Ferdinando Sardella, Angelo Pugliese, Shubham Biyani and Balarama Lila Dasa helped me at different times at the Bhaktivedanta Research Center. I was assisted at the Sanskrit College and University by Palas Biswas, Sutapa Datta and K.K.Ghosh Mondal. Sri Monotosh Krishna Das of the Bhajan Ashram, Shil Para, helped me with innumerable practical matters, as did also Dr. Baijaeek Sain.
+
+In Jaipur, Dr. Rima Hooja and Dr. Giles Tillotson showed me the manuscripts at the City Palace Library. Suchismita Mantry helped me at the Odisa State Museum, Bhubaneshwar, and at the Bhandarkar Oriental Research Institute, Pune, I was assisted by Amruta Natu. Most importantly, Dr. Demian Martins, who travels all over India on behalf of his Baladeva Vidyabhusana Project, helped me obtain copies of many manuscripts all over India and in Bangladesh as well. I cannot thank him enough for his help.
+
+Outside of India, Hamid Ali and Kashif Khurshid helped me obtain manuscript copies at the Punjab University Library, Lahore, Pakistan. Nicole Domka helped me at the University of Tübingen, Germany, while Maria Cristina Pirvu assisted me at the Bibliothèque nationale de France. In the United Kingdom, Pasquale Manzo helped me several times at the British Library, London, and Dr. Camillo A.Formigatti at the Bodleian Library, Oxford. In the United States, I was assisted by Susan McElrath at the Berkeley Library, University of California, and by Dr. James F.Pierce at the University of Pennsylvania.
+
+Apart from help with manuscripts, I have been assisted by numerous experts around the world, such as Prof. Mandakranta Bose, Dr. David Buchta, Prof. Arlo Griffiths, Dr. Toke Lindegaard Knudsen, Prof. Patrick Olivelle, Prof. Sheldon Pollock, Dr. Marion Rastelli, Dr. Lubomir Ondračka and Dr. Mikko Viitamäki. My colleagues and friends at the Oxford Centre for Hindu Studies, in particular Shaunaka Rishi Dasa, Dr. Rembert Lutjeharms, Dr. Kiyokazu Okita, Dr. Sunit Patel and Dr. Lucian Wong have been of particularly great help. The months I spent at the Centre in the spring of 2018 were not only academically fruitful but eminently pleasant as well.
+
+Apart from those mentioned above, many other Vaiṣṇavas have helped me in various ways. I have had much use of the transcribed texts at the Gauḍīya Grantha Mandira developed by Jagadānanda Dāsa and others (www.grantha.jiva.org). Devavān Dāsa, Nityānanda Dāsa and Rādhāgovinda Dāsa helped me locate rare texts. Prema Goet was a great support in London. Nāmarasa Dāsa’s kind invitation to his Late Morning Program podcast gave me a chance to speak about my project to a large Vaiṣṇava audience, which was very inspiring. I also wish to thank my teacher Śrī Śrīmad B. V. Tripurāri Mahārāja for his constant support.
+
+Dr. Martin Gansten in Lund, Sweden, has been of material assistance throughout the translation part of the project. He also proofread both the Sanskrit and English before publication, rescuing me from innumerable mistakes and inconsistencies. Dr. Gansten is not only one of the most talented Sanskritists that I know, he is also an extremely generous friend, to whom I will remain eternally grateful. For any mistakes that remain I am of course alone responsible.
+
+At Brill, I would like to thank my editor Patricia Radder for her faith in this enormous project and Noralyne Alabdullah-Maranus for her very careful work with the challenging typesetting of the text.
+
+At my alma mater, Åbo Akademi University, in Åbo, Finland, I have enjoyed the unstinting support of both the previous and present deans of the Faculty of Arts, Psychology and Theology, Prof. Pekka Santtila and Prof. Peter Nynäs, and by the head of my own subject, Prof. Marcus Moberg, who have not only seen the value of my project but also actively supported it. I extend to you my heartfelt gratitude. I am also very thankful to Dr. Yrsa Neuman and the Åbo Akademi University Library for providing the funds for making this book open access and to the Waldemar von Frenckell Foundation for funding its proofreading.
+
+Most importantly, I offer my thanks to my wonderful family and especially to my wife, Saragrahi Broo, who has not only has made it possible for me to leave my ordinary duties for extended stays in Oxford and elsewhere, but who also drew the *stemma codicum* and Maṇḍalas in Appendix Three.
+
+Finally, I wish to thank my godfather, esteemed linguist Christer Hummelstedt, who since my early youth has always supported me in my academic pursuits. I dedicate this volume to him.
+
+*Måns Broo*
+
+In Åbo, September 2022
+
+
