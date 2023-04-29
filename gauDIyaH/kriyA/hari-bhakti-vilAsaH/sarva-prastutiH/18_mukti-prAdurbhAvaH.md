@@ -1,3447 +1,1708 @@
 +++
 title = "१८ मुक्ति-प्रादुर्भावः"
+
 +++
-aṣṭādaśa-vilāsaḥ
+अष्टादश-विलासः
 
-**śrīmūrtiprādurbhāvaḥ**
+**श्रीमूर्तिप्रादुर्भावः  
+यस्य प्रसादादज्ञोऽपि सद्यः सर्वज्ञतां व्रजेत् ।  
+स श्रीचैतन्यदेवो मे भगवान् सम्प्रसीदतु ॥१॥**
+> ****श्री-गुरु-मुखैक-गम्यं श्री-मूर्ति-प्रादुर्भावण-विधिं लिखन् परम-दुर्ज्ञेयो ऽपि भगवत्-प्रसादात् सुज्ञेयो भवतीति तत्-प्रसादं प्रार्थयते—यस्येति ॥१॥
 
-**yasya prasādādajño'pi sadyaḥ sarvajñatāṁ vrajet |**
+**अपेक्ष्यन्तेऽर्चनेऽवश्यमधिष्ठानानि वैष्णवः ।  
+श्रीमूर्तयश्च तत्रापि साक्षात्कारसुखप्रदाः ॥२॥**
 
-**sa śrīcaitanyadevo me bhagavān samprasīdatu ||1||**
+अर्चने निमित्तानि अविष्ठानानि पूजा-स्थानानि । तत्र अधिष्ठानेष्व् अपि मध्ये श्री-मूर्तयो भगवत्-प्रति-कृतयो ऽवश्यम् अपेक्ष्यन्ते । कुतः ? भगवत्-साक्षात्-कारे यत् सुखं, तत् प्रकर्षेण ददतीति तथा ताः ॥२॥
 
-** **śrī-guru-mukhaika-gamyaṁ śrī-mūrti-prādurbhāvaṇa-vidhiṁ likhan parama-durjñeyo 'pi bhagavat-prasādāt sujñeyo bhavatīti tat-prasādaṁ prārthayate—yasyeti ||1||
+**श्रीमूर्तीनां लक्षणानि लिखितान्येव कानिचित् ।  
+प्रादुर्भूतेर्विधिस्तासां प्रतिष्ठायाश्च लिख्यते ॥३॥**
 
-**apekṣyante'rcane'vaśyamadhiṣṭhānāni vaiṣṇavaḥ |**
+लिखितानि पूर्वं बहिः पूजायां चतुर्-विंशति-मूर्त्य्-आदि-लिखने कानिचिद् इति, अधुना तान्य् अपि लेख्यानीति भावः । तासां श्री-मूर्तीनां प्रादुर्भूतेः प्रादुर्भावस्य प्रतिष्ठायाश् च विधिं लिख्यते ॥३॥
 
-**śrīmūrtayaśca tatrāpi sākṣātkārasukhapradāḥ ||2||**
+**अथ श्रीमूर्तिप्रादुर्भावणम्  
+भक्त्यैव भगवन्मूर्तिप्रादुर्भावोऽपि चेद्भवेत् ।  
+कर्तव्योऽथाप्युपायोऽत्र पूर्वः सद्भिः प्रदर्शितः ॥४॥**
 
-arcane nimittāni aviṣṭhānāni pūjā-sthānāni | tatra adhiṣṭhāneṣv api madhye śrī-mūrtayo bhagavat-prati-kṛtayo 'vaśyam apekṣyante | kutaḥ ? bhagavat-sākṣāt-kāre yat sukhaṁ, tat prakarṣeṇa dadatīti tathā tāḥ ||2||
+निज-भक्तैक-साध्ये ऽपि श्री-मूर्ति-प्रादुर्भावणे शिष्टाचारानुसारेण यत्नः कार्य इति लिखति—भक्त्यैवेति । अपि चेत् यद्य् अपि भक्त्यैव, न च शिल्पादि-शक्त्या भवेत्, तथापि अत्र भगवन्-मूर्ति-प्रादुर्भावे उपायः साधनम् अनुष्ठेयः, स च न स्वकल्पितः, किन्तु शास्त्र-द्वारा साधु-परम्परयाभिव्यञ्जित इति लिखति—पूवैर् इति ॥४॥
 
-**śrīmūrtīnāṁ lakṣaṇāni likhitānyeva kānicit |**
+**अथ तत्रादौ श्रीमूर्त्याविर्भावणमाहात्म्यम् विष्णुधर्मोत्तरे—  
+प्रतिमां कारयित्वा तु देवदेवस्य चक्रिणः ।  
+न दुर्गतिमवाप्नोति विष्णुलोकं स गच्छति ॥५॥  
+देवस्य प्रतिमायान्तु यावन्तः परमाणवः ।  
+तावद्वर्षसहस्राणि विष्णुलोके महीयते ॥६॥  
+किञ्च—  
+प्रासादव तथा तस्याः फलं सम्यगुदाहृतम् ।  
+उत्तरोत्तरतो द्रव्यैर्विना पक्वेष्टकां द्विजाः ॥७॥**
 
-**prādurbhūtervidhistāsāṁ pratiṣṭhāyāśca likhyate ||3||**
+प्रासादवत् प्रासाद-निर्माणे यथा फलम् उक्तं, तथा तस्याः प्रतिमाया निमाणे ऽपीत्य् अर्थः । एतच् चाग्रे मन्दिर-निर्माणे लेख्यम् । तथा हि—
+> सुर-वेश्मनि यावन्तो द्विजेन्द्राः परमाणवः । 
+> तावद् वर्ष-सहस्राणि स्वर्ग-लोके महीयते ॥ 
+> प्रासादे मृण्मये पुण्यं मयैतत् कथितं द्विजाः । 
+> तस्माद् दश-गुणं पुण्यं कृते शैलमये भवेत् ॥ 
+> ततो दश-गुणं लौहे ताम्रे शत-गुणं ततः । 
+> सहस्र-गुणितं रौप्ये तस्मात् फलम् उपाश्नुते ॥ 
+> ततः शत-सहस्रं वै सौवर्णे द्विज-सत्तमाः । 
+> अनन्तं फलम् आप्नोति रत्न-चित्रे मनोहरे ॥ इति । 
 
-likhitāni pūrvaṁ bahiḥ pūjāyāṁ catur-viṁśati-mūrty-ādi-likhane kānicid iti, adhunā tāny api lekhyānīti bhāvaḥ | tāsāṁ śrī-mūrtīnāṁ prādurbhūteḥ prādurbhāvasya pratiṣṭhāyāś ca vidhiṁ likhyate ||3||
+सम्यग् इति प्रासादतो ऽप्य् अत्र विशिष्टं फलम् इत्य् अर्थः ॥७॥
 
-**atha śrīmūrtiprādurbhāvaṇam**
+**नारसिंहे—  
+प्रतिमां लक्षणोपेतां नरसिंहस्य कारयेत् ।  
+सर्वपापानि सन्त्यज्य स तु विष्णुपुरे वसेत् ॥८॥**
 
-**bhaktyaiva bhagavanmūrtiprādurbhāvo'pi cedbhavet |**
+लक्षणैर् अग्रे लेख्यैर् युक्ताम् ॥८॥
 
-**kartavyo'thāpyupāyo'tra pūrvaḥ sadbhiḥ pradarśitaḥ ||4||**
+**श्रीमूर्त्याविर्भावणविधिः मात्स्ये—  
+विष्णोस्तावत् प्रवक्ष्यामि यादृक रूपं प्रशस्यते ।  
+शङ्खचक्रधरं शान्तं पद्महस्तं गदाधरम् ॥९॥  
+छत्राकारं शिरस्तस्य कम्बुग्रीवं शुभेक्षणम् ।  
+तुङ्गनासं शूर्पकर्णं प्रशान्तोरुभुजद्वयम् ॥१०॥  
+क्वचिदष्टभुजं विद्याच्चतुर्भुजमथापि वा ।  
+द्विभुजश्चापि कर्तव्यो भवने स पुरोधसा ॥११॥**
 
-nija-bhaktaika-sādhye 'pi śrī-mūrti-prādurbhāvaṇe śiṣṭācārānusāreṇa yatnaḥ kārya iti likhati—bhaktyaiveti | api cet yady api bhaktyaiva, na ca śilpādi-śaktyā bhavet, tathāpi atra bhagavan-mūrti-prādurbhāve upāyaḥ sādhanam anuṣṭheyaḥ, sa ca na svakalpitaḥ, kintu śāstra-dvārā sādhu-paramparayābhivyañjita iti likhati—pūvair iti ||4||
+भवने गृह-पूजायाम् इत्य् अर्थः । स विष्णुः द्वि-भुजो ऽपि आचार्येण कार्यः ॥११॥
 
-**atha tatrādau śrīmūrtyāvirbhāvaṇamāhātmyam viṣṇudharmottare—**
+**देयमष्टभुजस्यास्य यथास्थानं निबोधत ।  
+खड्गो गदा शरः पद्म देयं दक्षिणतो हरेः ॥  
+धनुश्च खेटकञ्चैव शङ्खचक्रञ्च वामतः ॥१२॥**
 
-**pratimāṁ kārayitvā tu devadevasya cakriṇaḥ |**
+खेटकं—चर्म ॥१२॥
 
-**na durgatimavāpnoti viṣṇulokaṁ sa gacchati ||5||**
+**चतुर्भुजस्य वक्ष्यामि यथैवायुधसंस्थितिः ।  
+दक्षिणे च गदां पद्मं वासुदेवस्य कारयेत् ।  
+वामतः शङ्खचक्रे च कर्तव्ये भूतिमिच्छता ॥१३॥  
+कृष्णावतारे तु गदा वामहस्ते प्रशस्यते ।  
+यथेच्छया शङ्खचक्रे उपरिष्टात् प्रकल्पयेत् ॥१४॥  
+अधस्तात् पृथिवी देवी कर्तव्या पदमध्यतः ।  
+दक्षिणे प्रणतं तद्वद्गरुत्मन्तं निवेशयत् ॥  
+वामतस्तु भवेल्लक्ष्मीः पद्महस्ता सुशोभना ॥१५॥  
+गरुत्मानग्रतो वापि संस्थाप्यो भूतिमिच्छता ।  
+श्रीश्च पुष्टिश्च कर्तव्ये पार्श्वयोः पद्मसंयुते ॥१६॥**
 
-**devasya pratimāyāntu yāvantaḥ paramāṇavaḥ |**
+सर्वेषां परिवार-परिच्छद-सन्निवेशम् आह—अधस्ताद् इति सार्धैश् चतुर्भिः । श्रीः, सर्व-सम्पद्-अधिष्ठात्री महालक्ष्म्य्-अंश-भूता ॥१५-१६॥
 
-**tāvadvarṣasahasrāṇi viṣṇuloke mahīyate ||6||**
+**तोरणञ्चोपरिष्टाच्च विद्याधरसमन्वितम् ।  
+तथा कल्पलतोपेतं स्तुवद्भिरमरेश्वरैः ॥१७॥**
 
-**kiñca—**
+अमरेश्वरैर् ब्रह्म-रुद्रादिभिर् उपेतम् । प्रणाम-स्तवन-मुद्रा च शिल्पिषु प्रसिद्धैव ॥१७॥
 
-**prāsādava tathā tasyāḥ phalaṁ samyagudāhṛtam |**
+**श्रीमूर्तिपरिमाणम् तत्रैव—  
+अङ्गुष्ठपर्वादारभ्य वितस्तिं यावदेव तु ।  
+गृहे वै प्रतिमा कार्या नाधिका शस्यते बुधैः ॥१८॥**
 
-**uttarottarato dravyairvinā pakveṣṭakāṁ dvijāḥ ||7||**
+गृहे स्वगृहान्तर्-अर्चने ॥१८॥
 
-prāsādavat prāsāda-nirmāṇe yathā phalam uktaṁ, tathā tasyāḥ pratimāyā nimāṇe 'pīty arthaḥ | etac cāgre mandira-nirmāṇe lekhyam | tathā hi—
+**आषोडशात्तु प्रासादे कर्तव्या नाधिका ततः ।  
+मध्योत्तमकनिष्ठा तु कार्या वित्तानुसारतः ॥१९॥**
 
+आषोडशात् एक-हस्तम् आरभ्य षोडश-हस्त-पर्यन्तम् इत्यर्थः । अत्र च मध्यतोत्तमत्वादिकं पूर्वपूर्वोपेक्षयोत्तरोत्तरस्या उत्तमत्वेन, तत्रैव मध्यमत्वस्यापि कल्पनया ज्ञेयम् ॥१९॥
 
-    sura-veśmani yāvanto dvijendrāḥ paramāṇavaḥ | 
+**वाराह्याञ्च—  
+सौम्या तु हस्तमात्रा वसुदा हस्तद्वयोच्छ्रिता ।  
+प्रतिमा क्षेमसुभिक्षाय भवेत्त्रिचतुर्हस्तप्रमाणा च ॥२०॥**
 
+क्षेमाय त्रिहस्ता, सुभिक्षाय चतुर्-हस्तेति यथासङ्ख्यं ज्ञेयम् ॥२०॥
 
-    tāvad varṣa-sahasrāṇi svarga-loke mahīyate || 
+**अथारम्भे कृत्यम् श्रीहयशीर्षपञ्चरात्रे—  
+प्रासादस्योत्तरे भागे शिलां नीत्वा च देशिकः ।  
+कृत्वा कर्मकूटीं रम्यां प्रतिमाकर्म कारयेत् ॥२१॥**
 
+प्रतिमायाः कर्म निर्माण-कृत्यम् ॥२१॥
 
-    prāsāde mṛṇmaye puṇyaṁ mayaitat kathitaṁ dvijāḥ | 
+**चतुरस्रायतां कृत्वा शिलां संस्थाप्य चार्चयेत् ।  
+शिरो मुखञ्च पृष्ठे च अङ्कयित्वा तु बुद्धिमान् ॥२२॥  
+यजमानानुकूल्येन गुरुः कर्म समारभेत् ।  
+शिलां पूर्वाननां कृत्वा अथवा उत्तराननाम् ।  
+तोयेन ब्रह्मघोषाइः स्नाप्य पश्चालिं हरेत् ॥२३॥**
 
+स्नाप्य स्नापयित्वा ॥२३॥
 
-    tasmād daśa-guṇaṁ puṇyaṁ kṛte śailamaye bhavet || 
+**दधि-दूर्वाक्षतैः पूजां नवारम्भे समाचरेत् ।  
+शुक्लैर्गन्धैश्च माल्यैश्च मन्त्रेणानेन देशिकः ॥२४॥  
+अथ तत्र मन्त्रः  
+ओं तत् सत् नमः ।  
+योऽसौ भगवान् सर्वजगतः प्रवीरः सङ्कर्षणो वासुदेवः प्रवरवराह जय सुप्रतिष्ठित कीर्तिं प्रवर्द्धयस्व ओं ओं फट् फट् नमः ॥२५॥  
+स्वस्ति वाच्य द्विजान् सम्यग्गुरुभक्त्या समर्चये ।  
+वस्त्रपुष्पादिदानेन अशाठ्येन तु पूजयेत् ॥२६॥**
 
+वाच्य वाचयित्वा ॥२६॥
 
-    tato daśa-guṇaṁ lauhe tāmre śata-guṇaṁ tataḥ | 
+**मङ्गलैर्ब्रह्मघोषाधैः प्रतिमा संविभाजयेत् ।  
+मध्यसूत्रं समास्फाल्य तीक्ष्णशस्त्रेण चोत्किरेत् ॥२७॥**
 
+समास्फाल्य पातयित्वा, उत्किरेत् अङ्कयेत् ॥२७॥
 
-    sahasra-guṇitaṁ raupye tasmāt phalam upāśnute || 
+**अथाङ्गपरिमाणविशेषः मात्स्ये—  
+स्वकीयाङ्गुलिमानेन मुखं स्याद्द्वादशाङ्गुलम् ।  
+मुख-मानेन कर्तव्या सर्वावयवकल्पना ॥२८॥**
 
+स्वकीयं श्री-मूर्तेर् एव यद् अङ्ग्लं, तस्य मानेन । अङ्गुलिर् इति वक्तव्ये अङ्गुलम् इत्य् आर्षम् । एवम् अग्रेऽपि ॥२८॥
 
-    tataḥ śata-sahasraṁ vai sauvarṇe dvija-sattamāḥ | 
+**अथ अङ्गुलिपरिमाणम् श्रीहयशीर्षपञ्चरात्रे—  
+अभिप्रेतप्रमाणन्तु नवधा प्रविभाजयेत् ।  
+नवमे भास्करैर्भक्तै भागः स्वाङ्गुलमुच्यते ॥२९॥**
 
+स्वकीयाङ्गुलि-मानमेव लिखति—अभिप्रेतेत्यादि-स-पाद-द्वयेन । अभिप्रेतं निजाभीष्ट-प्रमाणं श्री-मूर्ति-परिमाणम्, भास्करैर् द्वादशभिर् भागैर् भक्ते विभक्ते सति तद्-एक-भागः स्वस्याः श्रीमूर्तेर् अङ्गुलम् ॥२९॥
 
-    anantaṁ phalam āpnoti ratna-citre manohare || iti | 
+**श्रीनारदीये च—  
+विम्बमानन्तु नवधा प्रोच्छ्रयात् संविभज्य वै ।  
+भागं भागं ततो भूयो भवेद्द्वादशधा द्विज ॥३०॥**
 
-samyag iti prāsādato 'py atra viśiṣṭaṁ phalam ity arthaḥ ||7||
+बिम्बं—प्रतिमा ॥३०॥
 
-**nārasiṁhe—**
+**तदङ्गुलं स्याद्विम्बस्य ॥ इति ।  
+एवं पुराणतन्त्रादि दृष्ट्वात्रेदं विलिख्यते ।  
+ललाटच्चिवुकान्त स्यात् श्रीमुखं द्वादशाङ्गुलम् ॥३१॥**
 
-**pratimāṁ lakṣaṇopetāṁ narasiṁhasya kārayet |**
+अधुना अवयव-मानं लिखति—एवम् इत्यादि । आदि-शब्दात् सङ्ग्रह-पुस्तकादि, इदम् अग्रे लेख्यं ललाटात् श्रीमल्-ललाटोपरिभागाद् आरभ्य । तथा च श्री-नारदीय-पञ्चरात्रे—चिबुकाच् च ललाटान्तम् इत्यादि । एतदादिकम् अग्रे सर्व्वं तत्र तत्र व्यक्तं भावीति सम्पूर्ण-वचनम् अत्र न सङ्ग्राह्यम् ॥३१॥
 
-**sarvapāpāni santyajya sa tu viṣṇupure vaset ||8||**
+**तत्राननं भाग एकस्तत्रैव चतुरङ्गुलम् ।  
+ललाटं नासिका तद्वद्गुल्फमर्द्धाङ्गुलं भवेत् ॥३२॥**
 
-lakṣaṇair agre lekhyair yuktām ||8|| 
+तत्र तस्मिन्न् आनन एव ललाटं चतुरङ्गुलं, तद्वत् चतुर्-अङ्गुलेत्यर्थः ॥३२॥
 
-**śrīmūrtyāvirbhāvaṇavidhiḥ mātsye—**
+**अर्द्धाङ्गुलोऽधरस्तूद्ध्वोऽपरश्चैकाङ्गुलो मतः ।  
+द्व्यङ्गुलं चिबुकं चाथ ग्रीवा स्याच्चतुरङ्गुला ॥३३॥**
 
-**viṣṇostāvat pravakṣyāmi yādṛka rūpaṁ praśasyate |**
+अपरः अधस्तनः, श्री-मुख-निज-विभागं लिखित्वा तद्-अधः श्मश्र्वादि-लिखनेन भिन्नोपक्रमाद् अथ-शब्दः । एवम् अग्रेऽपि ज्ञेयम् ॥३३॥
 
-**śaṅkhacakradharaṁ śāntaṁ padmahastaṁ gadādharam ||9||**
+**वक्षोभागो भवेदन्यस्तस्मान्नाभ्यवधिः परः ।  
+ततोऽपरश्च मेढान्तस्तस्मादुरुविभागकौ ॥३४॥**
 
-**chatrākāraṁ śirastasya kambugrīvaṁ śubhekṣaṇam |**
+अन्यः श्री-मुख-विभागाद् भिन्नः, तस्माद् वक्षसः ॥३४॥
 
-**tuṅganāsaṁ śūrpakarṇaṁ praśāntorubhujadvayam ||10||**
+**तथा द्विभागिके जङ्घे जानुनी चतुरङ्गुले ।  
+पादौ च तत्समावित्थं दैर्घ्यभागा नवोदिताः ॥३५॥**
 
-**kvacidaṣṭabhujaṁ vidyāccaturbhujamathāpi vā |**
+तथेति समुच्चये, तत्-समौ चतुर्-अङ्गुलौ, तौ च गुल्फात् पार्ष्णिपर्यन्तौ ज्ञेयौ, दैर्घ्यस्य लिखनात् ॥३५॥
 
-**dvibhujaścāpi kartavyo bhavane sa purodhasā ||11||**
+**कुत्राप्युच्चात् ललाटस्योपरिष्ठात्त्र्यङ्गुलं शिरः ।  
+तद्वद्ग्रीवा जानुपावास्तथापि स्युर्नवैव ते ॥३६॥**
 
-bhavane gṛha-pūjāyām ity arthaḥ | sa viṣṇuḥ dvi-bhujo 'pi ācāryeṇa kāryaḥ ||11|| 
+तथेति समुच्चये, तत्-समौ चतुर्-अङ्गुलौ, तौ च गुल्फात् पार्ष्णिपर्यन्तौ ज्ञेयौ, दैर्घ्यस्य लिखनात् ॥३५॥
 
-**deyamaṣṭabhujasyāsya yathāsthānaṁ nibodhata |**
+**इति स्यात् सर्वतो दैर्घ्ये साष्टोत्तरशताङ्गुलाः ।  
+चतुर्दशाङ्गुलो मौलिः क्वचिच्च द्वादशाङ्गुलः ॥३७॥**
 
-**khaḍgo gadā śaraḥ padma deyaṁ dakṣiṇato hareḥ ||**
+तद्-दार्ढ्यार्थमेव लिखति- इतीति । सा श्री-मूर्तिः, मौलिस् तु ललाटोपरि श्री-मस्तके ज्ञेयः । क्वचित् श्री-हय-शीर्षीये, तथापि द्वादशाङ्गुलत्वं द्व्यङ्गुलालक-स्थल-त्यागाद् अविरुद्धम् एव । तथा च तत्रैव—परेण द्व्यङ्गुलौ शङ्खौ इत्यादि । अस्यार्थः—परेणेति ललाटात् परतः तदुपरीत्यर्थः । तत्-पार्श्वयोर् आधिक्यात् तथालकान्विताव् इत्य् उक्तेश् च ॥३७॥
 
-**dhanuśca kheṭakañcaiva śaṅkhacakrañca vāmataḥ ||12||**
+**अथ स्तिरः  
+विस्तारेऽष्टाङ्गुलं यस्या ललाटं त्वर्द्धचन्द्रवत् ।  
+ध्रुवौ नेत्रान्तपर्यन्ते प्रत्येकं चतुरङ्गुले ॥३८॥**
 
-kheṭakaṁ—carma ||12||
+एवं दैर्घ्यं लिखित्वाङ्गानां विस्तारं लिखति—विस्तार इत्यादिना । तस्याः श्री-मूर्तेः ॥३८॥
 
-**caturbhujasya vakṣyāmi yathaivāyudhasaṁsthitiḥ |**
+**तयोर्मध्ये द्व्यङ्गुलं स्यात् क्वचिच्चैकाङ्गुलं मतम् ।  
+भ्रूलेखार्द्धाङ्गुला सा च मध्ये स्थूलाग्रतः कृशा ॥३९॥**
 
-**dakṣiṇe ca gadāṁ padmaṁ vāsudevasya kārayet |**
+क्वचित् श्री-नारदीये । उभयथाप्य् अलिखिते एव ते ॥३९॥
 
-**vāmataḥ śaṅkhacakre ca kartavye bhūtimicchatā ||13||**
+**तीक्ष्णा नतधनुस्तुल्या कर्णौ तु चतुरङ्गुलौ ।  
+षडङ्गुलौ वा तावुच्चौ विद्धौ चेच्चिबुकावधि ॥४०॥**
 
-**kṛṣṇāvatāre tu gadā vāmahaste praśasyate |**
+वा-शब्दो मत-भेदात् । स चात्र विद्धत्वापेक्षया घटत एव । उच्चैः दैर्घ्य इत्यर्थः । एवम् अग्रेऽपि, चिबुकावधीति विद्धयोर् अष्टाङ्गुलत्वेन तावत् प्रवेश-प्राप्तेः ॥४०॥
 
-**yathecchayā śaṅkhacakre upariṣṭāt prakalpayet ||14||**
+**विततौ द्व्यङ्गुलौ प्रान्तेऽर्द्धाङ्गुलौ वैककाङ्गलौ ।  
+कर्णच्छिद्रन्तु नेत्रान्तसममेकाङ्गुलं भवेत् ॥४१॥**
 
-**adhastāt pṛthivī devī kartavyā padamadhyataḥ |**
+प्रान्ते अधस्तनान्त्यभागे, एककम् एकम्, एकाङ्गुलौ वा । ईदृक् मत-भेदः, स्व-स्व-रुच्य्-अनुसारेण सौन्दर्यस्य तत्-तत्-कालीन-श्रीमद्-अङ्गेषद्-भेदस्य वापेक्षया । नेत्रान्ताभ्यां समं, न ताभ्याम् उच्चं, न च नीच सम-रेखयोर् वर्तमानम् इत्यर्थः । यच् चोक्तं श्री-हयशीर्ष-देवेन—भ्रू-समा इत्यादि । तच् च भ्रुवोः प्रान्त-भागस्य प्रायो नेत्रान्त-व्यापकताभिप्रायेण ॥४१॥
 
-**dakṣiṇe praṇataṁ tadvadgarutmantaṁ niveśayat ||**
+**कर्णोपरिष्टात् श्रीमरतमुच्चत्वे द्वादशाङ्गुलम् ।  
+त्रिगुणः परिधिस्तस्य द्विचत्वारिंषदङ्गुलः ॥४२॥**
 
-**vāmatastu bhavellakṣmīḥ padmahastā suśobhanā ||15||**
+द्वादशाङ्गुलम् इति किरीटस्य द्व्यङ्गुलोच्चत्वात् मौलेर् द्वादशाङ्गुलता, पक्षं किरीटस्येव श्री-मस्तकस्य तावद् उच्चत्वात् । यजमानेच्छया मौल्यभावे च स्वत एव तावज् ज्ञेयम् । तस्य श्री-मस्तकस्य परिधिः परिणाहः, त्रिगुणः षट्-त्रिंशद्-अङ्गुल इत्यर्थ । एवम् अग्रेऽन्यत्रापि ॥४२॥
 
-**garutmānagrato vāpi saṁsthāpyo bhūtimicchatā |**
+**सकेशस्याथ नयने दैर्घ्ये तु द्व्यङ्गुले मते ।  
+कुत्रापि त्र्यङ्गुले ते हि विस्तारे चैकलाङ्गुले ॥४३॥**
 
-**śrīśca puṣṭiśca kartavye pārśvayoḥ padmasaṁyute ||16||**
+स-केशस्य च तस्य परिधिश् चत्वारिंशद्-अङ्गुल इत्यर्थः । केशपाशस् तु दीर्घः स्कन्धोपरि विन्यस्य । कुत्रापि श्री-नारदीये, एकलम् एकम् ॥४३॥
 
-sarveṣāṁ parivāra-paricchada-sanniveśam āha—adhastād iti sārdhaiś caturbhiḥ | śrīḥ, sarva-sampad-adhiṣṭhātrī mahālakṣmy-aṁśa-bhūtā ||15-16||
+**तारकात्र तृतीयांशा दृष्टिः स्यात् पञ्चमांशिका ।  
+क्वचित् तृतीयभार्गैव दृङ्मध्यं चतुरङ्गुलम् ॥४४॥**
 
-**toraṇañcopariṣṭācca vidyādharasamanvitam |**
+क्वचित् तत्रैव, तत्-प्रान्तौ चार्धाङ्गुलौ ज्ञेयौ, द्रोणी चार्धाङ्गुला मता इति श्री-हयशीर्ष-देवोक्तेः । दृशोर् द्वयोर् मध्यम् ॥४४॥
 
-**tathā kalpalatopetaṁ stuvadbhiramareśvaraiḥ ||17||**
+**कुत्रचित् त्र्यङ्गुलं कर्णदृङ्मध्यं चतुरङ्गुलम् ।  
+सृक्कणीकर्णयोर्मूलात् षडङ्गुलविदूरतः ॥४५॥**
 
-amareśvarair brahma-rudrādibhir upetam | praṇāma-stavana-mudrā ca śilpiṣu prasiddhaiva ||17|| 
+कुत्रचित् श्री-नारदीय एव । कर्ण-दृशोर् मध्यम् । सृक्-कणी ओष्ठ-प्रान्त-भागौ, अत एव श्री-मुख-विवरस्याप्य् अन्तभागौ स्याताम् । तथा च श्री-दशम-स्कन्धे (१६.२५)—तं जिह्वया द्विशिखया परिलेलिहानं, द्वे सृक्कणी इति । किञ्च—प्रतिस्पर्द्धेते सृक्कभ्यां सव्यासव्ये नगोदरे इति । षड्-अङ्गुलैर् विदूरतो वर्तेते । यच्च श्री-नारदीये—सृक्कणी चतुर्-अङ्गुले इति । तत्र सृक्क-शब्देन सृक्क-द्वय-पर्यन्तं श्री-मुख-विवर-भाग एवाभिप्रेतः ॥४५॥
 
-**śrīmūrtiparimāṇam tatraiva—**
+**हनुके द्व्यङ्गुले स्यातां निर्गते कर्णमूलतः ।  
+कपोलौ दर्पणाकारौ हन्वग्रे चतुरङ्गुलौ ॥४६॥**
 
-**aṅguṣṭhaparvādārabhya vitastiṁ yāvadeva tu |**
+कुत्रचित् श्री-नारदीय एव । कर्ण-दृशोर् मध्यम् । सृक्-कणी ओष्ठ-प्रान्त-भागौ, अत एव श्री-मुख-विवरस्याप्य् अन्तभागौ स्याताम् । तथा च श्री-दशम-स्कन्धे (१६.२५)—तं जिह्वया द्विशिखया परिलेलिहानं, द्वे सृक्कणी इति । किञ्च—प्रतिस्पर्द्धेते सृक्कभ्यां सव्यासव्ये नगोदरे इति । षड्-अङ्गुलैर् विदूरतो वर्तेते । यच्च श्री-नारदीये—सृक्कणी चतुर्-अङ्गुले इति । तत्र सृक्क-शब्देन सृक्क-द्वय-पर्यन्तं श्री-मुख-विवर-भाग एवाभिप्रेतः ॥४५॥
 
-**gṛhe vai pratimā kāryā nādhikā śasyate budhaiḥ ||18||**
+**नासोच्चैकाङ्गुला मूले द्व्यङ्गुला चाग्रतो भवेत् ।  
+एकाङ्गुले पुटे तस्यास्तयोस्त्वर्द्धाङ्गुलं बिलम् ॥४७॥**
 
-gṛhe svagṛhāntar-arcane ||18||
+पुटे च सर्वत एकाङ्गुले ज्ञेये, करवीर-सादृश्योक्तेः, क्वचित् तिल-पुष्प-तुल्यतोक्तेश् च । त्रयोः पुटयोर् विलं छिद्रम् ॥४७॥
 
-**āṣoḍaśāttu prāsāde kartavyā nādhikā tataḥ |**
+**दलञ्च निष्पावसमं सा ह्येवं करवीरवत् ।  
+विदारभागस्तृण्डस्य विस्तारे चतुरङ्गुलः ॥४८॥**
 
-**madhyottamakaniṣṭhā tu kāryā vittānusārataḥ ||19||**
+दलं च तयोर् एव स्थौल्यं, निष्पावं द्वि-दलान्नविशेषः । एवम् अनेनोक्त-प्रकारेण सा नासा करवीर-पुष्प-सदृशी ॥४८॥
 
-āṣoḍaśāt eka-hastam ārabhya ṣoḍaśa-hasta-paryantam ityarthaḥ | atra ca madhyatottamatvādikaṁ pūrvapūrvopekṣayottarottarasyā uttamatvena, tatraiva madhyamatvasyāpi kalpanayā jñeyam ||19||
+**चिबुकं त्र्यङ्गुलं तारे ग्रीवा त्वष्टाङ्गुला भवेत् ।  
+परिधिस्त्रिगुणस्तस्याः स्कन्धावुच्चौ षडङ्गुलौ ॥४९॥**
 
-**vārāhyāñca—**
+तारे विस्तारे, उच्चौ बाहु-मूलात् । अत एवोक्तं मात्स्ये—कक्षयोर् उपरिष्टाच् च इत्यादि ॥४९॥
 
-**saumyā tu hastamātrā vasudā hastadvayocchritā |**
+**विस्तारेऽष्टाङ्गुलौ पीनौ वृषस्कन्धोपमौ मतौ ।  
+भुजौ सुवृत्तौ तत्रोर्द्ध्वो बाहुः स्यात् षोडशाङ्गुलः ॥५०॥**
+> ****
 
-**pratimā kṣemasubhikṣāya bhavettricaturhastapramāṇā ca ||20||**
+विस्तारश् च तयोर् बाहुमूलाद् ग्रीवान्तम् । पीनाव् इत्य् अनेन तद्-उपरि-भाग-विस्तारश् चतुरङ्गुलो ज्ञेयः, वृष-स्कन्धोपमत्वात् । तत्र तयोर् भुजयोर् ऊर्ध्वो भागः, बाहुः बाहु-सञ्ज्ञः ॥५०॥
 
-kṣemāya trihastā, subhikṣāya catur-hasteti yathāsaṅkhyaṁ jñeyam ||20||
+**अष्टादशाङ्गुलोऽधस्तात् प्रबाहुः क्वचिदन्यथा ।  
+बाहोस्तु मध्ये परिधिर्भवेदष्टादशाङ्गुलः ॥५१॥**
 
-**athārambhe kṛtyam śrīhayaśīrṣapañcarātre—**
+तद्-अधस्ताद् वर्तमानश् च प्रबाहु-सञ्ज्ञः । क्वचित् हय-शीर्षीयादौ त्व् अन्यथा तद्-विपरीतः । बाहुर् अष्टा-दशाङ्गुलः प्रबाहुः षोडशाङ्गुलः इति तच् च चिन्त्यम्; अधस्तात् स्कन्ध-शिखराबाहुः स्यात् षोडशाङ्गुलः इति श्री-नारदीयोक्तः, लोके तद्-दर्शनाच् च, किञ्च—
+> क्वचित् प्रबाहुः कृष्णस्य सप्त-दशाङ्गुलो मतः । 
+> अथ वाङ्गुलहीनस् तु द्वितीयं सर्वम् उच्यते ॥ इति मात्स्योक्तेः ॥५१॥
 
-**prāsādasyottare bhāge śilāṁ nītvā ca deśikaḥ |**
+**षोडशाङ्गुलकोऽन्यस्य तदग्रे द्वादशाङ्गुलः ।  
+दीर्घं पाणितलं सप्ताङ्गुलं पृथु षडङ्गुलम् ॥५२॥**
 
-**kṛtvā karmakūṭīṁ ramyāṁ pratimākarma kārayet ||21||**
+अन्यस्य प्रबाहोः तस्य, प्रबाहोर् अग्रे, पृथु विस्तीर्णम् ॥५२॥
 
-pratimāyāḥ karma nirmāṇa-kṛtyam ||21|| 
+**क्वापि पञ्चाङ्गुलं निम्नमध्यं सल्लक्षणान्वितम् ।  
+पञ्चाङ्गुला मध्यमान्ये सार्द्ध च चतुरङ्गुले ॥५३॥**
 
-**caturasrāyatāṁ kṛtvā śilāṁ saṁsthāpya cārcayet |**
+क्वापि श्री-नारदीये, सल्-लक्षणः रेखात्मकैर् ध्वज-वज्रादिभिर् आरण्यादिभिश् चान्वितम् । मध्यम् आङ्गुलिः, अन्ये तर्जन्य-नामिके द्व ॥५३॥
 
-**śiro mukhañca pṛṣṭhe ca aṅkayitvā tu buddhimān ||22||**
+**कनिष्ठाङ्गुलिरङ्गुष्ठोऽप्युक्तौ द्वौ चतुरङ्गुलौ ।  
+सार्द्धत्र्यङ्गुलकोऽङ्गुष्ठः क्वाप्ययन्तु द्विपर्वकः ॥५४॥**
 
-**yajamānānukūlyena guruḥ karma samārabhet |**
+क्वापि तत्रैव, अङ्गुष्ठः सार्ध-त्र्यङ्गुलः, अयम् अङ्गुष्ठस् तु ॥५४॥
 
-**śilāṁ pūrvānanāṁ kṛtvā athavā uttarānanām |**
+**अन्यस्त्रिपर्विकाः सर्वाः गोपुच्छाकृतिशोभनाः ।  
+समानि सर्वपर्वाणि स्वस्वमानानुरूपतः ॥५५॥**
 
-**toyena brahmaghoṣāiḥ snāpya paścāliṁ haret ||23||**
+गो-पुच्छेति मूले स्थूलत्वात् क्रमशोऽग्रे कृशत्वाच् च । शोभना इत्य् अनेन ततोऽधिकं सौन्दर्यं बोधितम् एव । स्व-स्व-मानानुरूपत इति स्वकीयं यत् दैर्घ्य-परिमाणं, तत्-तृतीय-भागेनैकं पर्वेत्य् एवं सर्वासां पर्वाणीत्यर्थः ॥५५॥
 
-snāpya snāpayitvā ||23|| 
+**क्वचिच्च मध्यमामध्यपर्वद्व्यङ्गुलकं मतम् ।  
+अन्यानि सर्वपर्वाणि न्यूनानि यवशः क्रमात् ॥५६॥**
 
-**dadhi-dūrvākṣataiḥ pūjāṁ navārambhe samācaret |**
+क्वचिन् मात्स्ये, सर्व-पर्वाणि पञ्चानाम् अपि सर्वाणि पर्वाणि, तथा च तत्रैव—यवो यवस् तु सर्वस्याः इत्यादि । क्रमाद् इति यस्या यावत् प्रमाणं पर्व, तद्-अनुसारेण न्यूनम् इत्यर्थः । एवम् अग्रेऽपि ज्ञेयम् ॥५६॥
 
-**śuklairgandhaiśca mālyaiśca mantreṇānena deśikaḥ ||24||**
+**अङ्गुष्ठस्योर्द्ध्वपर्वस्थः परिधिश्चतुरङ्गुलः ।  
+क्रमशः किञ्चिदूनाश्च सर्वे परिधयोऽपरे ॥५७॥**
 
-**atha tatra mantraḥ**
+पर्वस्थः पर्ववर्ती, अपरे सर्व इति अङ्गुष्ठस्याधोवर्ती, तथैव पराणां च सर्वेषां सर्वे परिधयः ॥५७॥
 
-**oṁ tat sat namaḥ |**
+**कूर्मपृष्ठसमाः स्वस्वपर्वार्द्धप्रतिमा नखाः ।  
+चतुर्विंशत्यङ्गुलोऽथ विस्तारो वक्षसो भवेत् ॥५८॥  
+स्तनयोस्तु द्वयोर्मध्ये विस्तारो द्वादशाङ्गुलः ।  
+द्व्यङ्लः स्वस्वविस्तारे चुचुकौ यवमात्रकौ ॥५९॥**
 
-**yo'sau bhagavān sarvajagataḥ pravīraḥ saṅkarṣaṇo vāsudevaḥ pravaravarāha jaya supratiṣṭhita kīrtiṁ pravarddhayasva oṁ  oṁ phaṭ phaṭ namaḥ ||25||**
+स्वस्य स्वस्य तस्य विस्तारः ॥५९॥
 
-**svasti vācya dvijān samyaggurubhaktyā samarcaye |**
+**कक्षे षडङ्गुले तद्वद्बाहुमूलस्तनान्तरे ।  
+चतुर्दशाङ्गुलं चारु विस्तारे जठरं भवेत् ॥६०॥**
 
-**vastrapuṣpādidānena aśāṭhyena tu pūjayet ||26||**
+अतः षड्-अङ्गुलस् तयोः परिणाहो ज्ञेयः, बाहु-मूल-स्तनयोर् अन्तरे मध्य-द्वयम् । चारु अश्वत्थ-पत्राकारात् तथा त्रिबलि-सूक्ष्म-रेखा-त्रयादिना च सुन्दरम् ॥६०॥
 
-vācya vācayitvā ||26|| 
+**मध्ये चैकाङ्गुला नाभिर्निम्ना च वितता तथा ।  
+नाभिमध्ये तु परिधिर्द्विचत्वारिंशदङ्गुला ॥६१॥  
+विस्तारे पुरुषस्योक्ता कटिरष्टादशाङ्गुला ।  
+परिणाहो भवेत्तस्याश्चतुःपञ्चाशदङ्गुलः ॥६२॥**
 
-**maṅgalairbrahmaghoṣādhaiḥ pratimā saṁvibhājayet |**
+पुरुषस्येति स्त्रीणां तद्-आधिक्यात्, तच्चाग्रे व्यक्तं भावि ॥६२॥
 
-**madhyasūtraṁ samāsphālya tīkṣṇaśastreṇa cotkiret ||27||**
+**ऊर्वोर्मूले तु विस्तारो द्वादशाङ्गुलो भवेत् ।  
+मध्येऽधिकः क्रमादूनः परिधिस्त्रिगुणोऽखिलः ॥६३॥**
 
-samāsphālya pātayitvā, utkiret aṅkayet ||27||
+अधिको विस्तारस् तद्-अग्रे च क्रमेणोनः, हस्ति-हस्तक-दली-वृक्षाद्याकार-सादृश्यात् । अखिल इति मूल-मध्याग्रवर्ती सर्वोऽपि परिधिः स्व-स्व-मानानुसारेण त्रिगुणः ॥६३॥
 
-**athāṅgaparimāṇaviśeṣaḥ mātsye—**
+**चतुर्दशाङ्गुलः क्वापि परिणाहस्तु तादृशः ।  
+उच्चमेकाङ्गुलं जानुद्वयं त्र्यङ्गुलकं ततम् ॥६४॥**
 
-**svakīyāṅgulimānena mukhaṁ syāddvādaśāṅgulam |**
+क्वापि वाराह्याम्, तादृशस् तु त्रिगुणः, ततं विस्तीर्णम् ॥६४॥
 
-**mukha-mānena kartavyā sarvāvayavakalpanā ||28||**
+**तन्मध्ये परिधिस्त्वेकविंशत्यङ्गुलको भवेत् ।  
+क्वाप्यष्टाङ्गुलविस्तारः परिधौ त्रिगुणं हि तत् ॥६५॥**
 
-svakīyaṁ śrī-mūrter eva yad aṅglaṁ, tasya mānena | aṅgulir iti vaktavye aṅgulam ity ārṣam | evam agre'pi ||28||
+क्वापि श्री-हयशीर्षीये, तत् जानु ॥६५॥
 
-**atha aṅguliparimāṇam śrīhayaśīrṣapañcarātre—**
+**विस्तारो जङ्घयोः सप्ताङ्गुलो मध्येऽपि तादृशः ।  
+परिधिः क्वापि तन्मूले विस्तारस्तु षडङ्गुलः ॥६६॥**
 
-**abhipretapramāṇantu navadhā pravibhājayet |**
+अपि-शब्दात् मध्य इत्य् अस्योभयतोऽप्य् अन्वयः, परिधिस् तादृशस् त्रिगुणः । क्वापि श्री-नारदीये ॥६६॥
 
-**navame bhāskarairbhaktai bhāgaḥ svāṅgulamucyate ||29||**
+**परिधिस्त्रिगुणोऽग्रे तु चतुर्युक्तदशाङ्गुलः ।  
+क्वचित्त्वेकाधिकः सोऽङ्घ्री द्वौ च चतुर्दशाङ्गुलौ ॥६७॥**
 
-svakīyāṅguli-mānameva likhati—abhipretetyādi-sa-pāda-dvayena | abhipretaṁ nijābhīṣṭa-pramāṇaṁ śrī-mūrti-parimāṇam, bhāskarair dvādaśabhir bhāgair bhakte vibhakte sati tad-eka-bhāgaḥ svasyāḥ śrīmūrter aṅgulam ||29||
+क्वचित् तत्रैव, सः अग्रयः परिधिः एकाधिकः पञ्च-दशाङ्गुल इत्यर्थः । अतस् तन्-मते तयोर् अग्रे विस्तारः पञ्चाङ्गुलो ज्ञेयः । तथा च तत्रैव—जङ्घावसान इत्यादि चतुर्दशाङ्गुलौ ज्ञेयौ दैर्घ्ये। तच्च पार्ष्णि-पृष्ठतोऽङ्गुष्ठाग्रान्तम् । तथा च तत्रैव—पार्ष्ण्योश् च पृष्ठतः इत्यादि ॥६७॥
 
-**śrīnāradīye ca—**
+**द्वादशाङ्गुलकौ क्वापि विस्तारे तौ षडङ्गुलौ ।  
+कूर्मपृष्ठोन्नतौ गुल्फद्वयं द्व्यङ्गुलकं तयोः ॥६८॥**
 
-**vimbamānantu navadhā procchrayāt saṁvibhajya vai |**
+क्वापि श्री-हयशीर्षीये, दैर्घ्य द्वादशाङ्गुलौ, द्व्यङ्गूलकं दैर्घ्य विस्तारे च ज्ञेयं, तयोः पादयोः ॥६८॥
 
-**bhāgaṁ bhāgaṁ tato bhūyo bhaveddvādaśadhā dvija ||30||**
+**दैर्घ्य त्र्यङ्गुलकोऽङ्गुष्ठः क्वचिच्च चतुरङ्गुलः ।  
+प्रदेशिनी तु तत्तुल्या षोडशांशोनमध्यमा ॥६९॥**
 
-bimbaṁ—pratimā ||30||
+तच् चतुर्-अङ्गुलं वर्तुलं ज्ञेयम्, क्वचिच् च श्री-नारदीये प्रदेशिनी-षोडशांशेनोना मध्यमाङ्गुलिः ॥६९॥
 
-**tadaṅgulaṁ syādvimbasya || iti |**
+**अन्ये द्वे चाष्टमांशोने तादृश्यो वाखिलाः क्रमात् ।  
+क्वाप्यन्ये द्वे पादहीने उच्चश्चैकाङ्गुलेन सः ॥७०॥**
 
-**evaṁ purāṇatantrādi dṛṣṭvātredaṁ vilikhyate |**
+अन्ये अनामिका-कनिष्ठे, क्रमाद् इति अनामिकाया अष्टमांशेनोना कनिष्ठा ज्ञेया । अखिला अङ्गुलयस् तादृश्यः अङ्गुष्ठाष्टमाष्टमांशोनाः । क्रमाद् इति पूर्वपूर्वत्र उत्तरोत्तरा अपि सर्वाः क्रमेणाष्टमांशोना इत्यर्थः । तथा च श्री-हयशीर्षीये—अष्टमांशाष्टमांशोना इत्यादि । मात्स्ये तु अङ्गुष्ठस्य समा तद्वत् इत्यादि । क्वापि श्री-नारदीये, अन्ये अनामिका-कनिष्ठे मध्यमातः पाद-हीने । अत्रापि क्रमाद् इत्य् अस्यानुवर्तनाद् अनामिका पादोना कनिष्ठा ज्ञेया । सः—अङ्गुष्ठः ॥७०॥
 
-**lalāṭaccivukānta syāt śrīmukhaṁ dvādaśāṅgulam ||31||**
+**सपादाङ्गुलतः क्वापि पराः सर्वास्तदर्द्धतः ।  
+पञ्चाङ्गुलोऽस्य परिधिर्देशिन्यास्त्र्यङ्गुलो भवेत् ॥७१॥**
 
-adhunā avayava-mānaṁ likhati—evam ityādi | ādi-śabdāt saṁgraha-pustakādi, idam agre lekhyaṁ lalāṭāt śrīmal-lalāṭoparibhāgād ārabhya | tathā ca śrī-nāradīya-pañcarātre—cibukāc ca lalāṭāntam ityādi | etadādikam agre sarvvaṁ tatra tatra vyaktaṁ bhāvīti sampūrṇa-vacanam atra na saṁgrāhyam ||31|| 
+क्वापि श्री-हयशीर्षीये, स-पादाङ्गुलेनोच्चं, पराः प्रदेशिन्याद्यास् तस्याङ्गुष्ठस्यार्धनोच्चास् तत्र च तत्-तत्-परिणाहानुसारेणैव ज्ञेयाः । अस्य अगुष्ठस्य देशिन्याः प्रदेशिन्याः ॥७१॥
 
-**tatrānanaṁ bhāga ekastatraiva caturaṅgulam |**
+**अन्यासां त्वष्टमांशोनः परिधिः स्यात् क्रमेन हि ।  
+द्विपर्वको मतोऽङ्गुष्ठः पराः सर्वास्त्रिपर्विकाः ॥७२॥**
 
-**lalāṭaṁ nāsikā tadvadgulphamarddhāṅgulaṁ bhavet ||32||**
+हि एव, क्रमेणैव ॥७२॥
 
-tatra tasminn ānana eva lalāṭaṁ caturaṅgulaṁ, tadvat catur-aṅguletyarthaḥ ||32||
+**स्वस्वर्दैर्घ्ये तृतीयांशः पर्व तामाममुष्य च ।  
+अङ्गुष्ठस्य नखः पादोनाङ्गुलोऽर्द्धाङ्गुलोऽन्यतः ।७३॥**
 
-**arddhāṅgulo'dharastūddhvo'paraścaikāṅgulo mataḥ |**
+अमुष्य अङ्गुष्ठस्य च, अन्यतः सर्वासाम् अन्यासाम् इत्यर्थः ॥७३॥
 
-**dvyaṅgulaṁ cibukaṁ cātha grīvā syāccaturaṅgulā ||33||**
+**क्रमेण किञ्चिहूनश्च कूर्मपृष्ठसमो हि सः ।  
+नितम्बौ करिकुम्भाभौ विस्तारे षोडशाङ्गु लौ ॥७४॥**
 
-aparaḥ adhastanaḥ, śrī-mukha-nija-vibhāgaṁ likhitvā tad-adhaḥ śmaśrvādi-likhanena bhinnopakramād atha-śabdaḥ | evam agre'pi jñeyam ||33||
+स नखः, करिकुम्भाभाव् इत्य् अनेन सु-वर्तुलौ सु-विभक्तौ च ज्ञेयौ । षोडशाङ्गुल-विस्तारत्वेन तयोः परिधिस् तत्-त्रिगुणो ज्ञेय एवं ॥७४॥
 
-**vakṣobhāgo bhavedanyastasmānnābhyavadhiḥ paraḥ |**
+**षट्त्रिंशदङ्गुलं स्कन्धात् पृष्ठं निम्नं क्रमेण तत् ।  
+विंशत्यङ्गुलपर्यन्तं नातवंशञ्च तन्मतम् ॥७५॥**
 
-**tato'paraśca meḍhāntastasmāduruvibhāgakau ||34||**
+तत् पृष्ठं विंशत्य् अङ्गुल-पर्यन्तं क्रमेण निम्नं नत-पृष्ठ-वंशम् । यद्यप्य् अवष्टम्भाच्छादनादिना श्री-मूर्तेर् नितम्ब-पृष्ठे न दृश्येते, अत एवान्यत्र ते द्व नाक्ते, केवलं श्री-नारदीय एवोक्ते, तथापि क्वचिद् अवष्टम्भराहित्यादिना तद्-अपेक्षयात्र ते लिखिते ॥७५॥
 
-anyaḥ śrī-mukha-vibhāgād bhinnaḥ, tasmād vakṣasaḥ ||34|| 
+**मध्यदेशाच्च विततं मिलितं मत्स्ययुग्मवत् ।  
+अन्यच्चालिखितं कार्यं लोकदृष्ट्याऽखिलं बुधैः ॥७६॥**
 
-**tathā dvibhāgike jaṅghe jānunī caturaṅgule |**
+एवं प्रसिद्ध-प्रधान-प्रकट-सर्वाङ्ग-परिमाणं लिखित्वा अत्रालिखितान्य-विज्ञान-प्रकारं लिखति—अन्यच् चेति । लिङ्गादिकं कर्ण-च्छिद्र पार्श्व-द्वय-निम्नत्वं नखाग्रार्ध-चन्द्राकृतित्वं पार्श्व-द्वयादिकं च लोक-दृष्टया लोकेषु तत्-तद्-अङ्गसौष्ठवादि-दृष्टया, बुधैर् इति तत्र तत्रैव स्व-बुद्धया विचार्य । तत्रापि शास्त्रोक्त-ध्यान-ध्येय-श्री-भगवद्-अङ्ग-सौन्दर्याद्य्-अनुसारेणैव सर्वं कार्यम् इत्यर्थः ॥७६॥
 
-**pādau ca tatsamāvitthaṁ dairghyabhāgā navoditāḥ ||35||**
+**हयशीर्षये—  
+एतत्ते लक्षणं प्रोक्तमुद्देशेन मयानघ ।  
+अनयैव दिशा कार्यं स्वयमप्यूह्य देशिकैः ॥७७॥**
 
-tatheti samuccaye, tat-samau catur-aṅgulau, tau ca gulphāt pārṣṇiparyantau jñeyau, dairghyasya likhanāt ||35||
+उद्देशेन सङ्क्षेपेणैव, न तु साकल्येनेत्यर्थः । दिशा उद्दिष्टैकांशेनेत्यर्थः । तत्राप्य् ऊह्य विचार्यैवेत्यर्थः, लिखितार्थम् एवैतत् ॥७७॥
 
-**kutrāpyuccāt lalāṭasyopariṣṭhāttryaṅgulaṁ śiraḥ |**
+**लोकेषु लक्षणं दृष्ट्वा हसितादिनिरीक्षणम् ।  
+तथा तथैव कर्तव्यमूह्यंया नेन देशिकैः ॥७८॥**
 
-**tadvadgrīvā jānupāvāstathāpi syurnavaiva te ||36||**
+लक्षणम्—अङ्ग-सौष्ठव-प्रकारम्; यथा, श्री-मुखस्य पूर्ण-चन्द्राद्य्-आकारेण श्री-नेत्रयोश् च पद्म-पत्रेण सादृश्यम् इत्यादि । तत्-तद्-अङ्गं वा । किञ्च, निरीक्षणम् अवलोकनं, हसितादि च दृष्ट्वा, तथा तेन लोकोत्तर-विषयक-दृष्ट-लक्षण-प्रकारेण वीप्सा तद्-दार्ढ्यार्था, तत्-तल्-लक्षणं च सामुद्रकादाव् उक्तम् । साक्षात् कस्मिश्चित् सु-पुरुषे दृश्यमानं च ज्ञेयम् ॥७८॥
 
-tatheti samuccaye, tat-samau catur-aṅgulau, tau ca gulphāt pārṣṇiparyantau jñeyau, dairghyasya likhanāt ||35||
+**श्रीनारदीये—  
+मनोहराङ्गावयवाः सर्वे कार्याः सुलक्षणाः ।  
+केशैरलकजातं च ललाटोपरि शोभनम् ॥७९॥**
+> ****
 
-**iti syāt sarvato dairghye sāṣṭottaraśatāṅgulāḥ |**
+मनोहराः अङ्गस्य श्री-मूर्तेर् अवयवाः, किंवा अङ्गं श्री-मूर्त्याद्याकारादिकम् अवयवाश् च, सु-शोभनं लक्षणं शास्त्रोक्तं महापुरुष-लक्षणं येषु ते । केशैः सह शोभनं भ्रमराकार-सादृश्यादिना विराजमानं, केशैः शोभनम् इति वा मौल्यधः किञ्चित् केश-पाश-मूल-दर्शनात् ॥७९॥
 
-**caturdaśāṅgulo mauliḥ kvacicca dvādaśāṅgulaḥ ||37||**
+**हारनूपुरकेयूरमेखलामौलिभूषितम् ।  
+शिष्टं ध्यानोदितं सर्वं मयानुक्तं प्रकल्पयेत् ॥८०॥**
 
-tad-dārḍhyārthameva likhati- itīti | sā śrī-mūrtiḥ, maulis tu lalāṭopari śrī-mastake jñeyaḥ | kvacit śrī-haya-śīrṣīye, tathāpi dvādaśāṅgulatvaṁ dvyaṅgulālaka-sthala-tyāgād aviruddham eva | tathā ca tatraiva—pareṇa dvyaṅgulau śaṅkhau ityādi | asyārthaḥ—pareṇeti lalāṭāt parataḥ taduparītyarthaḥ | tat-pārśvayor ādhikyāt tathālakānvitāv ity ukteś ca ||37||
+हारादिभिः सहजैर् भूषितम्, उपलक्षणम् एतत् वनमाला-कुण्डलादिभिर् अपि । यच् चात्रानुक्तं शिष्टम् अवशिष्टम् अङ्ग-सौष्ठवादिकं तत् ध्याने उदितम् अत्रान्यत्राप्य् उक्तं, प्रकर्षेण ततोऽप्य् उत्कृष्टतया कल्पयेत् रचयेत् ॥८०॥
 
-**atha stiraḥ**
+**वाराहे—  
+देशानुरूपभूषणवेशालङ्कारमूर्तिभिः कार्या ।  
+प्रतिमा लक्षणयुक्ता संविहिता बुद्धिदा भवति ॥८१॥**
 
-**vistāre'ṣṭāṅgulaṁ yasyā lalāṭaṁ tvarddhacandravat |**
+देशानुरूपं विभूषणं यथोढ्र-देशे चूडागर्-भकादि, मध्य-देशादौ चात्र कञ्चुकोष्णीषादि । वेशश् च केश-बन्ध-वस्त्रादि-परिधान-परिपाट्यादिना सज्जा, अलङ्कारः कुण्डलाङ्गदादिः, मूर्तिश् च सकेशादिः पार्षदादि-प्रतिमा वा, ताभिः, लक्षणैर् अत्रान्यत्राप्य् उक्तैर् अङ्ग-सौष्ठवादिभिर् युक्ता, एवं सम्यग् विहिता निर्मिता सती भक्तादेर् बुद्धिदा ॥८१॥
 
-**dhruvau netrāntaparyante pratyekaṁ caturaṅgule ||38||**
+**किञ्च हयशीर्षाये—  
+वासुदेवं प्रकुर्वीत चतुर्बाहुं सुरेश्वरम् ।  
+दक्षिणोपरि चक्रं तु पद्म चाधः प्रकल्पयेत् ॥८२॥  
+वामोपरि गदा कार्या शङ्खं चाधः सुशोभनम् ।  
+एतल्लक्षणसंयुक्ता प्रतिमा शुभदा भवेत् ॥८३॥  
+श्री-पूष्टी चापि कर्तव्ये पद्मवीणाकरान्विते ।  
+ऊरुमात्रोच्छ्रितायामे किञ्चिदावर्जिते तथा ॥८४॥  
+नानाविद्याधरौ कार्यौ प्रभामण्डलसंस्थितौ ।  
+प्रभां विभूषयेद्यत्नाद्गजव्यालादिभिर्बुधः ॥८५॥  
+पादाभ-पादपीठञ्च तथा शोभासमन्वितम् ।  
+देशवेशानुरूपेण कर्तव्यं देशकोत्तमैः ॥८६॥  
+अथ श्रीगोपालदेवस्य कश्चिद्विशेषः विष्णुधर्मोत्तरे—  
+गोपालप्रतिमां कुर्याद्वेणुवादनतत्पराम् ।  
+वर्हापीडां घनश्यामां द्विभुजामूर्ध्वसंस्थिताम् ॥८७॥**
 
-evaṁ dairghyaṁ likhitvāṅgānāṁ vistāraṁ likhati—vistāra ityādinā | tasyāḥ śrī-mūrteḥ ||38||
+वेणुवादन-तत्-पराम् इति—श्रीमद्-अधर-न्यस्त-वेणुवादन-मन्द्र-शोभिताम् । श्री-हस्त-द्वय-धृत-सहज-संलग्नैव वंशी विधेयेत्यर्थः । ऊर्ध्व-संस्थितामिति त्रिभङ्ग-ललितत्वात् ॥८७॥
 
-**tayormadhye dvyaṅgulaṁ syāt kvaciccaikāṅgulaṁ matam |**
+**गौतमीयतन्त्रे—  
+प्रतिमां कृष्णदेवस्य यत्नतः कारयेत् सुधीः ।  
+शिल्पिना कृष्णभक्तेन विश्वकर्मोक्तजानता ॥८८॥  
+दशपञ्चाङ्गुला मुख्या मध्यमा द्वावशाङ्गुला ।  
+अष्टाङ्गुलाधमा सा तु न्यूनाधिक्यं न कारयेत् ॥८९॥  
+अज्ञानेनापि मोहेन यदि कुर्यान्नराधमः ।  
+प्रतिमा विफला तस्य पूजनान्न फलं लभेत् ॥९०॥  
+मानाङ्गुलिविहीना च प्रतिमा यत्र तिष्ठति ।  
+राजा निपीडयात्येव गृहस्थो नरकं व्रजेत् ॥९१॥  
+मानाङ्गुलेन सा कार्या नान्यथा मुनिसत्तम ।  
+काश्मीरी ज्ञानदा प्रोक्ता स्वर्णजापि न मुक्तिदा ॥९२॥  
+सम्पत्तिदा शिलाजा तु राजती बहुभक्तिदा ।  
+तेजोदा दारुजा या तु रैत्तिकी शत्रुनाशिनी ॥९३॥  
+ताम्री धनविवृद्धिञ्च करोति बहुसौख्यदा ।  
+सदैव मृण्मयी प्रोक्ता प्रतिमा शुभलक्षणा ॥९४॥  
+भोगवा मोक्षदा सा तु प्रतिमा कथिता तव ।  
+लेप्या लेख्या द्विधा चैव प्रतिमा परिकीर्तिता ॥९५॥  
+पवनाग्रे नदीतीरे चत्वरे गोष्ठभूमिषु ।  
+समुद्रकूलेऽरण्ये वा मानहीना न दूषणी ॥९६॥  
+कृष्णप्रतिकृतिं कुर्याद्दिव्यां केशसुचिह्निताम् ।  
+तान्तु संस्थापयेन्मन्त्री गृहे वा गोष्ठमध्यतः ॥९७॥  
+अथ स्त्रीप्रतिमाङ्गानि  
+चतुर्दशाङ्गुलं दैर्घ्ये जठरं वितता कटिः ।  
+द्वाविंशत्यङ्गुला स्त्रीणां स्तनौ च द्वादशाङ्गुलौ ॥९८॥**
 
-**bhrūlekhārddhāṅgulā sā ca madhye sthūlāgrataḥ kṛśā ||39||**
+द्वाविंशत्य् अङ्गुला वितता, स्तनौ च विततौ ॥९८॥
 
-kvacit śrī-nāradīye | ubhayathāpy alikhite eva te ||39||
+**किञ्चिद्ध्रस्वी भुजौ तासां किञ्चिद्दीर्घं मुख भवेत् ।  
+नासाग्रीवाललाटानि सार्द्धद्व्यङ्गुलकानि च ॥९९॥**
 
-**tīkṣṇā natadhanustulyā karṇau tu caturaṅgulau |**
+किञ्चित् पुरुषाद् ईषत् ॥९९॥
 
-**ṣaḍaṅgulau vā tāvuccau viddhau ceccibukāvadhi ||40||**
+**विस्तारे किञ्चिदधिकार्द्धाङ्गुयोऽधरपल्लवः ।  
+नेत्रे चतुर्थभागोने परं श्रीवच्च पूर्ववत् ॥१००॥**
 
-vā-śabdo mata-bhedāt | sa cātra viddhatvāpekṣayā ghaṭata eva | uccaiḥ dairghya ityarthaḥ | evam agre'pi, cibukāvadhīti viddhayor aṣṭāṅgulatvena tāvat praveśa-prāpteḥ ||40||
+पुरुष-नेत्राच् चतुर्थभागेनोने । श्रीवदिति अग्रे लेख्य-लक्ष्मीमूर्तिवत् । अत एवोक्त श्री-हयशीर्ष-देवेन—
+> सर्वेषाम् एव देवानां विष्णूक्तं मानम् उच्यते । 
+> देवीनाम् अपि सर्वासां लक्ष्म्य् उक्तं मानम् उच्यते ॥ इति । 
 
-**vitatau dvyaṅgulau prānte'rddhāṅgulau vaikakāṅgalau |**
+पूर्ववच् चेति पूर्वोक्त-पुरुषाङ्गमानादि-सदृशम् अपीति लक्ष्मी-मूर्तेः सवाङ्गमानानुक्तेर् इति ॥१००॥
 
-**karṇacchidrantu netrāntasamamekāṅgulaṁ bhavet ||41||**
+**तथा च मात्स्ये—  
+स्त्रियः कार्याश्च विद्वद्भिस्तनोरुजघनाधिकाः ।  
+नानाभरणसंयुक्ताः किञ्चिद्ध्रस्वभुजाः शुभाः ॥१०१॥**
 
-prānte adhastanāntyabhāge, ekakam ekam, ekāṅgulau vā | īdṛk mata-bhedaḥ, sva-sva-rucy-anusāreṇa saundaryasya tat-tat-kālīna-śrīmad-aṅgeṣad-bhedasya vāpekṣayā | netrāntābhyāṁ samaṁ, na tābhyām uccaṁ, na ca nīca sama-rekhayor vartamānam ityarthaḥ | yac coktaṁ śrī-hayaśīrṣa-devena—bhrū-samā ityādi | tac ca bhruvoḥ prānta-bhāgasya prāyo netrānta-vyāpakatābhiprāyeṇa ||41||
-
-**karṇopariṣṭāt śrīmaratamuccatve dvādaśāṅgulam |**
-
-**triguṇaḥ paridhistasya dvicatvāriṁṣadaṅgulaḥ ||42||**
-
-dvādaśāṅgulam iti kirīṭasya dvyaṅguloccatvāt mauler dvādaśāṅgulatā, pakṣaṁ kirīṭasyeva śrī-mastakasya tāvad uccatvāt | yajamānecchayā maulyabhāve ca svata eva tāvaj jñeyam | tasya śrī-mastakasya paridhiḥ pariṇāhaḥ, triguṇaḥ ṣaṭ-triṁśad-aṅgula ityartha | evam agre'nyatrāpi ||42||
-
-**sakeśasyātha nayane dairghye tu dvyaṅgule mate |**
-
-**kutrāpi tryaṅgule te hi vistāre caikalāṅgule ||43||**
-
-sa-keśasya ca tasya paridhiś catvāriṁśad-aṅgula ityarthaḥ | keśapāśas tu dīrghaḥ skandhopari vinyasya | kutrāpi śrī-nāradīye, ekalam ekam ||43||
-
-**tārakātra tṛtīyāṁśā dṛṣṭiḥ syāt pañcamāṁśikā |**
-
-**kvacit tṛtīyabhārgaiva dṛṅmadhyaṁ caturaṅgulam ||44||**
-
-kvacit tatraiva, tat-prāntau cārdhāṅgulau jñeyau, droṇī cārdhāṅgulā matā iti śrī-hayaśīrṣa-devokteḥ | dṛśor dvayor madhyam ||44||
-
-**kutracit tryaṅgulaṁ karṇadṛṅmadhyaṁ caturaṅgulam |**
-
-**sṛkkaṇīkarṇayormūlāt ṣaḍaṅgulavidūrataḥ ||45||**
-
-kutracit śrī-nāradīya eva | karṇa-dṛśor madhyam | sṛk-kaṇī oṣṭha-prānta-bhāgau, ata eva śrī-mukha-vivarasyāpy antabhāgau syātām | tathā ca śrī-daśama-skandhe (16|25)—taṁ jihvayā dviśikhayā parilelihānaṁ, dve sṛkkaṇī iti | kiñca—pratisparddhete sṛkkabhyāṁ savyāsavye nagodare iti | ṣaḍ-aṅgulair vidūrato vartete | yacca śrī-nāradīye—sṛkkaṇī catur-aṅgule iti | tatra sṛkka-śabdena sṛkka-dvaya-paryantaṁ śrī-mukha-vivara-bhāga evābhipretaḥ ||45||
-
-**hanuke dvyaṅgule syātāṁ nirgate karṇamūlataḥ |**
-
-**kapolau darpaṇākārau hanvagre caturaṅgulau ||46||**
-
-kutracit śrī-nāradīya eva | karṇa-dṛśor madhyam | sṛk-kaṇī oṣṭha-prānta-bhāgau, ata eva śrī-mukha-vivarasyāpy antabhāgau syātām | tathā ca śrī-daśama-skandhe (16|25)—taṁ jihvayā dviśikhayā parilelihānaṁ, dve sṛkkaṇī iti | kiñca—pratisparddhete sṛkkabhyāṁ savyāsavye nagodare iti | ṣaḍ-aṅgulair vidūrato vartete | yacca śrī-nāradīye—sṛkkaṇī catur-aṅgule iti | tatra sṛkka-śabdena sṛkka-dvaya-paryantaṁ śrī-mukha-vivara-bhāga evābhipretaḥ ||45||
-
-**nāsoccaikāṅgulā mūle dvyaṅgulā cāgrato bhavet |**
-
-**ekāṅgule puṭe tasyāstayostvarddhāṅgulaṁ bilam ||47||**
-
-puṭe ca sarvata ekāṅgule jñeye, karavīra-sādṛśyokteḥ, kvacit tila-puṣpa-tulyatokteś ca | trayoḥ puṭayor vilaṁ chidram ||47||
-
-**dalañca niṣpāvasamaṁ sā hyevaṁ karavīravat |**
-
-**vidārabhāgastṛṇḍasya vistāre caturaṅgulaḥ ||48||**
-
-dalaṁ ca tayor eva sthaulyaṁ, niṣpāvaṁ dvi-dalānnaviśeṣaḥ | evam anenokta-prakāreṇa sā nāsā karavīra-puṣpa-sadṛśī ||48|| 
-
-**cibukaṁ tryaṅgulaṁ tāre grīvā tvaṣṭāṅgulā bhavet |**
-
-**paridhistriguṇastasyāḥ skandhāvuccau ṣaḍaṅgulau ||49||**
-
-tāre vistāre, uccau bāhu-mūlāt | ata evoktaṁ mātsye—kakṣayor upariṣṭāc ca ityādi ||49|| 
-
-**vistāre'ṣṭāṅgulau pīnau vṛṣaskandhopamau matau |**
-
-**bhujau suvṛttau tatrorddhvo bāhuḥ syāt ṣoḍaśāṅgulaḥ ||50||**
-
-** **
-
-vistāraś ca tayor bāhumūlād grīvāntam | pīnāv ity anena tad-upari-bhāga-vistāraś caturaṅgulo jñeyaḥ, vṛṣa-skandhopamatvāt | tatra tayor bhujayor ūrdhvo bhāgaḥ, bāhuḥ bāhu-saṁjñaḥ ||50||
-
-**aṣṭādaśāṅgulo'dhastāt prabāhuḥ kvacidanyathā |**
-
-**bāhostu madhye paridhirbhavedaṣṭādaśāṅgulaḥ ||51||**
-
-tad-adhastād vartamānaś ca prabāhu-saṁjñaḥ | kvacit haya-śīrṣīyādau tv anyathā tad-viparītaḥ | bāhur aṣṭā-daśāṅgulaḥ prabāhuḥ ṣoḍaśāṅgulaḥ iti tac ca cintyam; adhastāt skandha-śikharābāhuḥ syāt ṣoḍaśāṅgulaḥ iti śrī-nāradīyoktaḥ, loke tad-darśanāc ca, kiñca—
-
-
-    kvacit prabāhuḥ kṛṣṇasya sapta-daśāṅgulo mataḥ | 
-
-
-    atha vāṅgulahīnas tu dvitīyaṁ sarvam ucyate || iti mātsyokteḥ ||51||
-
-**ṣoḍaśāṅgulako'nyasya tadagre dvādaśāṅgulaḥ |**
-
-**dīrghaṁ pāṇitalaṁ saptāṅgulaṁ pṛthu ṣaḍaṅgulam ||52||**
-
-anyasya prabāhoḥ tasya, prabāhor agre, pṛthu vistīrṇam ||52||
-
-**kvāpi pañcāṅgulaṁ nimnamadhyaṁ sallakṣaṇānvitam |**
-
-**pañcāṅgulā madhyamānye sārddha ca caturaṅgule ||53||**
-
-kvāpi śrī-nāradīye, sal-lakṣaṇaḥ rekhātmakair dhvaja-vajrādibhir āraṇyādibhiś cānvitam | madhyam āṅguliḥ, anye tarjanya-nāmike dva ||53||
-
-**kaniṣṭhāṅguliraṅguṣṭho'pyuktau dvau caturaṅgulau |**
-
-**sārddhatryaṅgulako'ṅguṣṭhaḥ kvāpyayantu dviparvakaḥ ||54||**
-
-kvāpi tatraiva, aṅguṣṭhaḥ sārdha-tryaṅgulaḥ, ayam aṅguṣṭhas tu ||54||
-
-**anyastriparvikāḥ sarvāḥ gopucchākṛtiśobhanāḥ |**
-
-**samāni sarvaparvāṇi svasvamānānurūpataḥ ||55||**
-
-go-puccheti mūle sthūlatvāt kramaśo'gre kṛśatvāc ca | śobhanā ity anena tato'dhikaṁ saundaryaṁ bodhitam eva | sva-sva-mānānurūpata iti svakīyaṁ yat dairghya-parimāṇaṁ, tat-tṛtīya-bhāgenaikaṁ parvety evaṁ sarvāsāṁ parvāṇītyarthaḥ ||55||
-
-**kvacicca madhyamāmadhyaparvadvyaṅgulakaṁ matam |**
-
-**anyāni sarvaparvāṇi nyūnāni yavaśaḥ kramāt ||56||**
-
-kvacin mātsye, sarva-parvāṇi pañcānām api sarvāṇi parvāṇi, tathā ca tatraiva—yavo yavas tu sarvasyāḥ ityādi | kramād iti yasyā yāvat pramāṇaṁ parva, tad-anusāreṇa nyūnam ityarthaḥ | evam agre'pi jñeyam ||56||
-
-**aṅguṣṭhasyorddhvaparvasthaḥ paridhiścaturaṅgulaḥ |**
-
-**kramaśaḥ kiñcidūnāśca sarve paridhayo'pare ||57||**
-
-parvasthaḥ parvavartī, apare sarva iti aṅguṣṭhasyādhovartī, tathaiva parāṇāṁ ca sarveṣāṁ sarve paridhayaḥ ||57||
-
-**kūrmapṛṣṭhasamāḥ svasvaparvārddhapratimā nakhāḥ |**
-
-**caturviṁśatyaṅgulo'tha vistāro vakṣaso bhavet ||58||**
-
-**stanayostu dvayormadhye vistāro dvādaśāṅgulaḥ |**
-
-**dvyaṅlaḥ svasvavistāre cucukau yavamātrakau ||59||**
-
-svasya svasya tasya vistāraḥ ||59||
-
-**kakṣe ṣaḍaṅgule tadvadbāhumūlastanāntare |**
-
-**caturdaśāṅgulaṁ cāru vistāre jaṭharaṁ bhavet ||60||**
-
-ataḥ ṣaḍ-aṅgulas tayoḥ pariṇāho jñeyaḥ, bāhu-mūla-stanayor antare madhya-dvayam | cāru aśvattha-patrākārāt tathā tribali-sūkṣma-rekhā-trayādinā ca sundaram ||60||
-
-**madhye caikāṅgulā nābhirnimnā ca vitatā tathā |**
-
-**nābhimadhye tu paridhirdvicatvāriṁśadaṅgulā ||61||**
-
-**vistāre puruṣasyoktā kaṭiraṣṭādaśāṅgulā |**
-
-**pariṇāho bhavettasyāścatuḥpañcāśadaṅgulaḥ ||62||**
-
-puruṣasyeti strīṇāṁ tad-ādhikyāt, taccāgre vyaktaṁ bhāvi ||62|| 
-
-**ūrvormūle tu vistāro dvādaśāṅgulo bhavet |**
-
-**madhye'dhikaḥ kramādūnaḥ paridhistriguṇo'khilaḥ ||63||**
-
-adhiko vistāras tad-agre ca krameṇonaḥ, hasti-hastaka-dalī-vṛkṣādyākāra-sādṛśyāt | akhila iti mūla-madhyāgravartī sarvo'pi paridhiḥ sva-sva-mānānusāreṇa triguṇaḥ ||63||
-
-**caturdaśāṅgulaḥ kvāpi pariṇāhastu tādṛśaḥ |**
-
-**uccamekāṅgulaṁ jānudvayaṁ tryaṅgulakaṁ tatam ||64||**
-
-kvāpi vārāhyām, tādṛśas tu triguṇaḥ, tataṁ vistīrṇam ||64|| 
-
-**tanmadhye paridhistvekaviṁśatyaṅgulako bhavet |**
-
-**kvāpyaṣṭāṅgulavistāraḥ paridhau triguṇaṁ hi tat ||65||**
-
-kvāpi śrī-hayaśīrṣīye, tat jānu ||65|| 
-
-**vistāro jaṅghayoḥ saptāṅgulo madhye'pi tādṛśaḥ |**
-
-**paridhiḥ kvāpi tanmūle vistārastu ṣaḍaṅgulaḥ ||66||**
-
-api-śabdāt madhya ity asyobhayato'py anvayaḥ, paridhis tādṛśas triguṇaḥ | kvāpi śrī-nāradīye ||66||
-
-**paridhistriguṇo'gre tu caturyuktadaśāṅgulaḥ |**
-
-**kvacittvekādhikaḥ so'ṅghrī dvau ca caturdaśāṅgulau ||67||**
-
-kvacit tatraiva, saḥ agrayaḥ paridhiḥ ekādhikaḥ pañca-daśāṅgula ityarthaḥ | atas tan-mate tayor agre vistāraḥ pañcāṅgulo jñeyaḥ | tathā ca tatraiva—jaṅghāvasāna ityādi caturdaśāṅgulau jñeyau dairghye| tacca pārṣṇi-pṛṣṭhato'ṅguṣṭhāgrāntam | tathā ca tatraiva—pārṣṇyoś ca pṛṣṭhataḥ ityādi ||67|| 
-
-**dvādaśāṅgulakau kvāpi vistāre tau ṣaḍaṅgulau |**
-
-**kūrmapṛṣṭhonnatau gulphadvayaṁ dvyaṅgulakaṁ tayoḥ ||68||**
-
-kvāpi śrī-hayaśīrṣīye, dairghya dvādaśāṅgulau, dvyaṅgūlakaṁ dairghya vistāre ca jñeyaṁ, tayoḥ pādayoḥ ||68|| 
-
-**dairghya tryaṅgulako'ṅguṣṭhaḥ kvacicca caturaṅgulaḥ |**
-
-**pradeśinī tu tattulyā ṣoḍaśāṁśonamadhyamā ||69||**
-
-tac catur-aṅgulaṁ vartulaṁ jñeyam, kvacic ca śrī-nāradīye pradeśinī-ṣoḍaśāṁśenonā madhyamāṅguliḥ ||69|| 
-
-**anye dve cāṣṭamāṁśone tādṛśyo vākhilāḥ kramāt |**
-
-**kvāpyanye dve pādahīne uccaścaikāṅgulena saḥ ||70||**
-
-anye anāmikā-kaniṣṭhe, kramād iti anāmikāyā aṣṭamāṁśenonā kaniṣṭhā jñeyā | akhilā aṅgulayas tādṛśyaḥ aṅguṣṭhāṣṭamāṣṭamāṁśonāḥ | kramād iti pūrvapūrvatra uttarottarā api sarvāḥ krameṇāṣṭamāṁśonā ityarthaḥ | tathā ca śrī-hayaśīrṣīye—aṣṭamāṁśāṣṭamāṁśonā ityādi | mātsye tu aṅguṣṭhasya samā tadvat ityādi | kvāpi śrī-nāradīye, anye anāmikā-kaniṣṭhe madhyamātaḥ pāda-hīne | atrāpi kramād ity asyānuvartanād anāmikā pādonā kaniṣṭhā jñeyā | saḥ—aṅguṣṭhaḥ ||70||
-
-**sapādāṅgulataḥ kvāpi parāḥ sarvāstadarddhataḥ |**
-
-**pañcāṅgulo'sya paridhirdeśinyāstryaṅgulo bhavet ||71||**
-
-kvāpi śrī-hayaśīrṣīye, sa-pādāṅgulenoccaṁ, parāḥ pradeśinyādyās tasyāṅguṣṭhasyārdhanoccās tatra ca tat-tat-pariṇāhānusāreṇaiva jñeyāḥ | asya aguṣṭhasya deśinyāḥ pradeśinyāḥ ||71||
-
-**anyāsāṁ tvaṣṭamāṁśonaḥ paridhiḥ syāt kramena hi |**
-
-**dviparvako mato'ṅguṣṭhaḥ parāḥ sarvāstriparvikāḥ ||72||**
-
-hi eva, krameṇaiva ||72||
-
-**svasvardairghye tṛtīyāṁśaḥ parva tāmāmamuṣya ca |**
-
-**aṅguṣṭhasya nakhaḥ pādonāṅgulo'rddhāṅgulo'nyataḥ |73||**
-
-amuṣya aṅguṣṭhasya ca, anyataḥ sarvāsām anyāsām ityarthaḥ ||73|| 
-
-**krameṇa kiñcihūnaśca kūrmapṛṣṭhasamo hi saḥ |**
-
-**nitambau karikumbhābhau vistāre ṣoḍaśāṅgu lau ||74||**
-
-sa nakhaḥ, karikumbhābhāv ity anena su-vartulau su-vibhaktau ca jñeyau | ṣoḍaśāṅgula-vistāratvena tayoḥ paridhis tat-triguṇo jñeya evaṁ ||74||
-
-**ṣaṭtriṁśadaṅgulaṁ skandhāt pṛṣṭhaṁ nimnaṁ krameṇa tat |**
-
-**viṁśatyaṅgulaparyantaṁ nātavaṁśañca tanmatam ||75||**
-
-tat pṛṣṭhaṁ viṁśaty aṅgula-paryantaṁ krameṇa nimnaṁ nata-pṛṣṭha-vaṁśam | yadyapy avaṣṭambhācchādanādinā śrī-mūrter nitamba-pṛṣṭhe na dṛśyete, ata evānyatra te dva nākte, kevalaṁ śrī-nāradīya evokte, tathāpi kvacid avaṣṭambharāhityādinā tad-apekṣayātra te likhite ||75||
-
-**madhyadeśācca vitataṁ militaṁ matsyayugmavat |**
-
-**anyaccālikhitaṁ kāryaṁ lokadṛṣṭyā'khilaṁ budhaiḥ ||76||**
-
-evaṁ prasiddha-pradhāna-prakaṭa-sarvāṅga-parimāṇaṁ likhitvā atrālikhitānya-vijñāna-prakāraṁ likhati—anyac ceti | liṅgādikaṁ karṇa-cchidra pārśva-dvaya-nimnatvaṁ nakhāgrārdha-candrākṛtitvaṁ pārśva-dvayādikaṁ ca loka-dṛṣṭayā lokeṣu tat-tad-aṅgasauṣṭhavādi-dṛṣṭayā, budhair iti tatra tatraiva sva-buddhayā vicārya | tatrāpi śāstrokta-dhyāna-dhyeya-śrī-bhagavad-aṅga-saundaryādy-anusāreṇaiva sarvaṁ kāryam ityarthaḥ ||76||
-
-**hayaśīrṣaye—**
-
-**etatte lakṣaṇaṁ proktamuddeśena mayānagha |**
-
-**anayaiva diśā kāryaṁ svayamapyūhya deśikaiḥ ||77||**
-
-uddeśena saṁkṣepeṇaiva, na tu sākalyenetyarthaḥ | diśā uddiṣṭaikāṁśenetyarthaḥ | tatrāpy ūhya vicāryaivetyarthaḥ, likhitārtham evaitat ||77||
-
-**lokeṣu lakṣaṇaṁ dṛṣṭvā hasitādinirīkṣaṇam |**
-
-**tathā tathaiva kartavyamūhyaṁyā nena deśikaiḥ ||78||**
-
-lakṣaṇam—aṅga-sauṣṭhava-prakāram; yathā, śrī-mukhasya pūrṇa-candrādy-ākāreṇa śrī-netrayoś ca padma-patreṇa sādṛśyam ityādi | tat-tad-aṅgaṁ vā | kiñca, nirīkṣaṇam avalokanaṁ, hasitādi ca dṛṣṭvā, tathā tena lokottara-viṣayaka-dṛṣṭa-lakṣaṇa-prakāreṇa vīpsā tad-dārḍhyārthā, tat-tal-lakṣaṇaṁ ca sāmudrakādāv uktam | sākṣāt kasmiścit su-puruṣe dṛśyamānaṁ ca jñeyam ||78||
-
-**śrīnāradīye—**
-
-**manoharāṅgāvayavāḥ sarve kāryāḥ sulakṣaṇāḥ |**
-
-**keśairalakajātaṁ ca lalāṭopari śobhanam ||79||**
-
-** **
-
-manoharāḥ aṅgasya śrī-mūrter avayavāḥ, kiṁvā aṅgaṁ śrī-mūrtyādyākārādikam avayavāś ca, su-śobhanaṁ lakṣaṇaṁ śāstroktaṁ mahāpuruṣa-lakṣaṇaṁ yeṣu te | keśaiḥ saha śobhanaṁ bhramarākāra-sādṛśyādinā virājamānaṁ, keśaiḥ śobhanam iti vā maulyadhaḥ kiñcit keśa-pāśa-mūla-darśanāt ||79||
-
-**hāranūpurakeyūramekhalāmaulibhūṣitam |**
-
-**śiṣṭaṁ dhyānoditaṁ sarvaṁ mayānuktaṁ prakalpayet ||80||**
-
-hārādibhiḥ sahajair bhūṣitam, upalakṣaṇam etat vanamālā-kuṇḍalādibhir api | yac cātrānuktaṁ śiṣṭam avaśiṣṭam aṅga-sauṣṭhavādikaṁ tat dhyāne uditam atrānyatrāpy uktaṁ, prakarṣeṇa tato'py utkṛṣṭatayā kalpayet racayet ||80||
-
-**vārāhe—**
-
-**deśānurūpabhūṣaṇaveśālaṅkāramūrtibhiḥ kāryā |**
-
-**pratimā lakṣaṇayuktā saṁvihitā buddhidā bhavati ||81||**
-
-deśānurūpaṁ vibhūṣaṇaṁ yathoḍhra-deśe cūḍāgar-bhakādi, madhya-deśādau cātra kañcukoṣṇīṣādi | veśaś ca keśa-bandha-vastrādi-paridhāna-paripāṭyādinā sajjā, alaṅkāraḥ kuṇḍalāṅgadādiḥ, mūrtiś ca sakeśādiḥ pārṣadādi-pratimā vā, tābhiḥ, lakṣaṇair atrānyatrāpy uktair aṅga-sauṣṭhavādibhir yuktā, evaṁ samyag vihitā nirmitā satī bhaktāder buddhidā ||81||
-
-**kiñca hayaśīrṣāye—**
-
-**vāsudevaṁ prakurvīta caturbāhuṁ sureśvaram |**
-
-**dakṣiṇopari cakraṁ tu padma cādhaḥ prakalpayet ||82||**
-
-**vāmopari gadā kāryā śaṅkhaṁ cādhaḥ suśobhanam |**
-
-**etallakṣaṇasaṁyuktā pratimā śubhadā bhavet ||83||**
-
-**śrī-pūṣṭī cāpi kartavye padmavīṇākarānvite |**
-
-**ūrumātrocchritāyāme kiñcidāvarjite tathā ||84||**
-
-**nānāvidyādharau kāryau prabhāmaṇḍalasaṁsthitau |**
-
-**prabhāṁ vibhūṣayedyatnādgajavyālādibhirbudhaḥ ||85||**
-
-**pādābha-pādapīṭhañca tathā śobhāsamanvitam |**
-
-**deśaveśānurūpeṇa kartavyaṁ deśakottamaiḥ ||86||**
-
-**atha śrīgopāladevasya kaścidviśeṣaḥ viṣṇudharmottare—**
-
-**gopālapratimāṁ kuryādveṇuvādanatatparām |**
-
-**varhāpīḍāṁ ghanaśyāmāṁ dvibhujāmūrdhvasaṁsthitām ||87||**
-
-veṇuvādana-tat-parām iti—śrīmad-adhara-nyasta-veṇuvādana-mandra-śobhitām | śrī-hasta-dvaya-dhṛta-sahaja-saṁlagnaiva vaṁśī vidheyetyarthaḥ | ūrdhva-saṁsthitāmiti tribhaṅga-lalitatvāt ||87||
-
-**gautamīyatantre—**
-
-**pratimāṁ kṛṣṇadevasya yatnataḥ kārayet sudhīḥ |**
-
-**śilpinā kṛṣṇabhaktena viśvakarmoktajānatā ||88||**
-
-**daśapañcāṅgulā mukhyā madhyamā dvāvaśāṅgulā |**
-
-**aṣṭāṅgulādhamā sā tu nyūnādhikyaṁ na kārayet ||89||**
-
-**ajñānenāpi mohena yadi kuryānnarādhamaḥ |**
-
-**pratimā viphalā tasya pūjanānna phalaṁ labhet ||90||**
-
-**mānāṅgulivihīnā ca pratimā yatra tiṣṭhati |**
-
-**rājā nipīḍayātyeva gṛhastho narakaṁ vrajet ||91||**
-
-**mānāṅgulena sā kāryā nānyathā munisattama |**
-
-**kāśmīrī jñānadā proktā svarṇajāpi na muktidā ||92||**
-
-**sampattidā śilājā tu rājatī bahubhaktidā |**
-
-**tejodā dārujā yā tu raittikī śatrunāśinī ||93||**
-
-**tāmrī dhanavivṛddhiñca karoti bahusaukhyadā |**
-
-**sadaiva mṛṇmayī proktā pratimā śubhalakṣaṇā ||94||**
-
-**bhogavā mokṣadā sā tu pratimā kathitā tava |**
-
-**lepyā lekhyā dvidhā caiva pratimā parikīrtitā ||95||**
-
-**pavanāgre nadītīre catvare goṣṭhabhūmiṣu |**
-
-**samudrakūle'raṇye vā mānahīnā na dūṣaṇī ||96||**
-
-**kṛṣṇapratikṛtiṁ kuryāddivyāṁ keśasucihnitām |**
-
-**tāntu saṁsthāpayenmantrī gṛhe vā goṣṭhamadhyataḥ ||97||**
-
-**atha strīpratimāṅgāni**
-
-**caturdaśāṅgulaṁ dairghye jaṭharaṁ vitatā kaṭiḥ |**
-
-**dvāviṁśatyaṅgulā strīṇāṁ stanau ca dvādaśāṅgulau ||98||**
-
-dvāviṁśaty aṅgulā vitatā, stanau ca vitatau ||98||
-
-**kiñciddhrasvī bhujau tāsāṁ kiñciddīrghaṁ mukha bhavet |**
-
-**nāsāgrīvālalāṭāni sārddhadvyaṅgulakāni ca ||99||**
-
-kiñcit puruṣād īṣat ||99||
-
-**vistāre kiñcidadhikārddhāṅguyo'dharapallavaḥ |**
-
-**netre caturthabhāgone paraṁ śrīvacca pūrvavat ||100||**
-
-puruṣa-netrāc caturthabhāgenone | śrīvaditi agre lekhya-lakṣmīmūrtivat | ata evokta śrī-hayaśīrṣa-devena—
-
-
-    sarveṣām eva devānāṁ viṣṇūktaṁ mānam ucyate | 
-
-
-    devīnām api sarvāsāṁ lakṣmy uktaṁ mānam ucyate || iti | 
-
-pūrvavac ceti pūrvokta-puruṣāṅgamānādi-sadṛśam apīti lakṣmī-mūrteḥ savāṅgamānānukter iti ||100||
-
-**tathā ca mātsye—**
-
-**striyaḥ kāryāśca vidvadbhistanorujaghanādhikāḥ |**
-
-**nānābharaṇasaṁyuktāḥ kiñciddhrasvabhujāḥ śubhāḥ ||101||**
-
-tathā ca śrī-matsya-purāṇe—
-
-
-    svakīyāṅgula-mānena mukhaṁ syād dvādaśāṅgulam | 
-
-
-    pratibhā-mukha-mānena sama-bhāgān prakalpayet || 
-
-
-    caturaṅgulā bhaved grīvā bhāgena hṛdayaṁ punaḥ | 
-
-
-    nābhis tasmād adhaḥ kalpyā bhāgenaikena śobhanā || 
-
-
-    nimnatve vistaratve ca aṅgulatvaṁ prakīrtitam | 
-
-
-    nābher adhas tān meḍhraṁ tu bhāgenaikena kalpayet || 
-
-
-    tribhāgenāyatāv ūrū jānunī caturaṅgule | 
-
-
-    jaṅghe dvibhāge vikhyāte pādau ca caturaṅgulau || 
-
-
-    caturdaśāṅgulas tadvan maulir asya prakīrtitaḥ | 
-
-
-    ūrdhva mānam idaṁ proktaṁ pṛthūtvaṁ ca nibodhata || 
-
-
-    sarvāvayavamāneṣu vistāraṁ śṛṇuta dvijāḥ | 
-
-
-    catur-aṅgulaṁ lalāṭaṁ syād  urdhvaṁ nāsā tathaiva ca || 
-
-
-    dvyaṅgulaṁ tu hanu jñeyam oṣṭhaś cāṅgula-sammitaḥ | 
-
-
-    aṣṭāṅgulaṁ lalāṭaṁ tu tāvan-mātre bhruvau mate | 
-
-
-    ardhāṅgulā bhruvor lekhā madhye dhanur ivonnatā | 
-
-
-    unnatāgrā bhavet pārśve ślakṣṇā tīkṣṇā praśasyate || 
-
-
-    akṣiṇī dvyaṅgulāyāme tad-ardhaṁ caiva vistare | 
-
-
-    unnatodara-madhye tu raktānte śubha-lakṣaṇe || 
-
-
-    tārakā tat-tribhāgena dṛṣṭiḥ syāt pañca-bhāgikā | 
-
-
-    dvyaṅgūlaṁ tū bhruvor madhyaṁ nāsāmūla-mathāṅgūlam || 
-
-
-    nāsāgra-vistaraṁ tadvat su-puṭa-dvayam uttamam | 
-
-
-    nāsāpuṭavilaṁ tadvad ardhāṅgulam udāhṛtam || 
-
-
-    kapole dvyaṅgule tadvat karṇamūlād viniḥsṛte | 
-
-
-    hanv-agra-maṇḍalaṁ tadvad vistārāt dvyaṅgulaṁ bhavet || 
-
-
-    ardhāṅgulā bhruvo rājī mṛṇāla-sadṛśī matā | 
-
-
-    ardhāṅgūla-samas tadvad uttarauṣṭhas tu vistare || 
-
-
-    niṣpāva-sadṛśaṁ tadvan nāsāpuṭadalaṁ bhavet | 
-
-
-    sṛkkaṇī yoni-tūlye tū karṇa-mūlāt ṣaḍ-aṅgule | 
-
-
-    karṇau tu bhrū-samau jñeyāv ūrdhvaṁ ca caturaṅgulam || 
-
-
-    dvyaṅgule karṇa-pārśve tu mātrām ekāntu vistare | 
-
-
-    karṇayor upariṣṭācca mastakaṁ dvādaśāṅgulam || 
-
-
-    lalāṭaṁ pṛṣṭhato'rdhena proktam aṣṭādaśāṅgulam | 
-
-
-    ṣaṭ-triṁśad-aṅgulaś cāpi pariṇāhaḥ śirogataḥ || 
-
-
-    sa-keśa-nicayasyāsya dvicatvāriṁśad-aṅgulaḥ | 
-
-
-    keśāntād dhanukāt tadvadaṅgulāni tu ṣoḍaśa || 
-
-
-    grīvā-madhye pariṇāhaś caturviṁśatir aṅgulaḥ | 
-
-
-    aṣṭāṅgulā bhaved grīvā pṛthutvena viśiṣyate || 
-
-
-    stana-grīvāntaraṁ proktam ekatālaṁ svayambhuvā | 
-
-
-    stanayor antaraṁ tadvad dvādaśāṅgulam iṣyate || 
-
-
-    stanayor maṇḍalaṁ tadvad dvyaṅgulaṁ parikīrtitam | 
-
-
-    cucukau maṇḍalasyāntaryavamātrāv ubhau smṛtau || 
-
-
-    dvitālaṁ cāpi vistāre vakṣaḥsthalam udāhṛtam | 
-
-
-    kakṣe ṣaḍaṅgule prokte bāhu-mūla-stanāntare || 
-
-
-    caturdaśāṅgulau pādāv aṅguṣṭhas tat-trir aṅgulaḥ || 
-
-
-    pañcāṅgula-parīṇāhamaṅguṣṭhāgraṁ tathonnatam || 
-
-
-    aṅguṣṭhasya samā tadvad āyāme syāt pradeśinī | 
-
-
-    tasyāḥ ṣoḍaśa-bhāgena hīyate madhyamāṅgulī || 
-
-
-    anāmikāṣṭa-bhāgena kaniṣṭhā cāpi hīyate | 
-
-
-    parva-trayeṇa cāṅgulyor gulphau tu dvyaṅgulau smṛtau | 
-
-
-    pārṣṇi-dvyaṅgulamātrā tu kalayoccā prakīrtitā | 
-
-
-    dviparvāṅguṣṭhakaḥ proktaḥ parīṇāhaś ca dvyaṅgulaḥ || 
-
-
-    pradeśinī-parīṇāhas tryaṅgulaḥ samudāhṛtaḥ | 
-
-
-    anyāsām aṣṭa-bhāgena hīyate kramaśo dvijāḥ | 
-
-
-    aṅgulenocchrayaḥ kāryo hy aṅguṣṭhasya viśeṣataḥ | 
-
-
-    tad ardhena tu śeṣāṇām aṅgulīnāṁ samucchrayaḥ || 
-
-
-    jaṅghāgre pariṇāhastu aṅgulāni caturdaśa | 
-
-
-    jaṅghāmadhye parīṇāhas tathaivāṣṭādaśāṅgulaḥ || 
-
-
-    jānu-madhye parīṇāha ekaviṁśatir aṅgulaḥ | 
-
-
-    jānūcchrayo'ṅgulaḥ prokto maṇḍalaṁ tu triaṅgulam || 
-
-
-    ūru-madhye pariṇāhaḥ aṣṭāviṁśatikāṅgulaḥ | 
-
-
-    eka-viṁśopariṣṭāc ca vṛṣaṇau tu triraṅgulau || 
-
-
-    tryaṅgulaṁ ca tathā meḍhraṁ pariṇāhe ṣaḍaṅgulam | 
-
-
-    maṇivedhāt samāṁ vidyāt kośarekhāṁ tathaiva ca || 
-
-
-    maṇikośa-parīṇāhaś caturaṅgula iṣyate | 
-
-
-    vistāreṇa bhavet tadvat va kaṭir aṣṭādaśāṅgulā || 
-
-
-    dvāviṁśatis tathā strīṇāṁ stanau ca dvādaśāṅgulau | 
-
-
-    nābhi-madhye parīṇāho dvicatvāriṁśad-aṅgulaḥ || 
-
-
-    purataḥ pañcapañcāśat kaṭyāś caiva tu veṣṭanam | 
-
-
-    kakṣayor upariṣṭācca skandhau proktau ṣaḍ-aṅgulau || 
-
-
-    aṣṭāṅgulāṁ ca vistāre grīvāñcaiva tu nirdiśet | 
-
-
-    pariṇāhe tathā grīvā kalā dvādaśa nirdiśet || 
-
-
-    āyāmo bhūjayos tadvad dvicatvāriṁśad-aṅgūlaḥ | 
-
-
-    kāryaṁ tu bāhu-śikharaṁ pramāṇe ṣoḍaśāṅgulam || 
-
-
-    ūrdhvaṁ yad bāhu-parvaṁ tu vidyād aṣṭādaśāṅgulam | 
-
-
-    tathaivāṅgulahīnaṁ tu dvitīyaṁ parvam ucyate | 
-
-
-    bāhu-madhye parīṇāho bhaved aṣṭādaśāṅagulaḥ | 
-
-
-    ṣoḍaśokta-prabāhus tu ṣaṭkalo'grakaro mataḥ || 
-
-
-    saptāṅgulaṁ karatalaṁ madhyam āṅgula-pañcakā | 
-
-
-    anāmika madhyamāyāḥ sapta-bhāgena hīyate || 
-
-
-    tasyās tu pañca-bhāgena kaniṣṭhā parihīyate | 
-
-
-    madhyamāyās tu hīnā vai pañca-bhāgena tarjanī | 
-
-
-    aṅguṣṭhas tarjanī-mūlād adhaḥ proktas tu tat-samaḥ || 
-
-
-    aṅguṣṭha-pariṇāhas tu vijñeyaś caturaṅgulaḥ | 
-
-
-    śeṣāṇām aṅgulīnāṁ tu bhāgo bhāgena hīyate || 
-
-
-    madhyamāmadhyaparvaṁ tu aṅgula-dvayam āyatam | 
-
-
-    yavo yavas tu sarvāsāṁ tasyāṁ tasyāṁ prahīyate | 
-
-
-    aṅguṣṭha-madhya-parvaṁ tu tarjanyā sadṛśaṁ bhavet | 
-
-
-    yava-dvayādhikaṁ tadvad agraparvam udāhṛtam || 
-
-
-    parvārdhena nakhān vidyād aṅgulīṣu samaṁ tataḥ | 
-
-
-    snigdhaṁ ślakṣṇa prakurvīta īṣad raktaṁ nakha-vrajam || 
-
-
-    nimna-pṛṣṭhaṁ bhaven madhye pārśvataḥ kalayocchritam | 
-
-
-    caturdaśāṅgulāyāmam udaraṁ tāsu nirdiśet | 
-
-
-    tathaiva keśavallaryaḥ skandhopari daśāṅgulāḥ || 
-
-
-    striyaḥ kāryāś ca vidvadbhiḥ stanor ujaghanādhikāḥ | 
-
-
-    nānābharaṇa-sampannāḥ kiñcid dhrasva bhūjāḥ śubhāḥ || 
-
-
-    kiñcid dīrgha bhaved vaktram alakāvalir uttamā | 
-
-
-    nāsā grīvā lalāṭaṁ ca sārdhamāsān trayaṅgulam | 
-
-
-    adhyardhāṁ aṅgula-vistāraḥ śasyate'dhara-pallavaḥ | 
-
-
-    adharāt netra-yugmaṁ tu catur-bhāgena nirdiśet ||101||
-
-**kiñca—**
-
-**grīvāvaliśca kartavyā kiñcidūrddhāṅgulocchrayā ||102||**
-
-grīvāvaliś ca kartavyā kiñcid ardhāṅgulocchrayā ||102||
-
-**evaṁ nārīṣu sarvāsu devānāṁ pratimāsu ca |**
-
-**navatālamidaṁ proktaṁ lakṣaṇaṁ pāpanāśanam ||103||**
-
-
-    evaṁ nārīṣu sārvāsu devānāṁ pratimāsu ca | 
-
-
-    navatālam idaṁ proktaṁ lakṣaṇaṁ pāpanāśanam || 
-
-śrī-hayaśīrṣa-pañcarātre śrī-bhagavad-brahma-saṁvāde—
-
-
-    ataḥ paraṁ pravakṣyāmi pratimā-lakṣaṇaṁ param |
-
-
-    yan na kasyacid ākhyātaṁ guhyād guhyataraṁ padam ||
-
-
-    abhipreta-pramāṇaṁ tu navadhā pravibhājayet |
-
-
-    navame bhāskarair bhakte bhāgaṁ svāṅgulam ucyate ||
-
-
-    dvyaṅgulaṁ golokaṁ nāmnā kalā netrāntam ucyate |
-
-
-    bhāgam ekaṁ tridhā bhaktvā pārṣṇibhāgaṁ prakalpayet ||
-
-
-    bhāgam ekaṁ tathā jānau grīvāyāṁ bhāgam eva ca |
-
-
-    mukuṭaṁ tāla-mātraṁ syāt tāla-mātraṁ tathā mukham ||
-
-
-    tāla-mātreṇa kaṇṭhaṁ tu tālena hṛdayaṁ tathā |
-
-
-    nābhi-meḍhrāntaraṁ tālaṁ dvitālāv ūrukau tathā ||
-
-
-    tāla-dvayena jaṅghā tu sūtrāṇi śṛṇu sāmpratam |
-
-
-    kāryaṁ sūtra-dvayaṁ pāde jaṅghā-madhye tathā param ||
-
-
-    jānau sūtra-dvayaṁ kāryam ūru-madhye tathā param |
-
-
-    meḍhre tathā paraṁ kāryaṁ kaṭyāṁ sūtraṁ tathā param ||
-
-
-    mekhalā-bandha-siddhyarthaṁ nābhyāṁ caiva paraṁ tathā |
-
-
-    hṛdaye ca tathā kāryaṁ kaṇṭhe sūtra-dvayaṁ tathā ||
-
-
-    lalāṭe cāparaṁ kāryaṁ mastake ca tathā param |
-
-
-    mukuṭopari kartavyaṁ sūtram ekaṁ vicakṣaṇaiḥ ||
-
-
-    sūtrāṇy ardhaṁ pradeyāni saptaiva surasattama |
-
-
-    kakṣāt trikāntareṇaiva kaṇṭha-sūtrāṇi dāpayet ||
-
-
-    madhya-sūtrāṇi santyajya sūtrāṇy evaṁ niveśayet |
-
-
-    lalāṭa-nāsivāvaktraṁ kartavyaṁ caturaṅgulam ||
-
-
-    grīvā-karṇaṁ tu kartavyam āyāmāc caturaṅgulam |
-
-
-    dvyaṅgule hanuke kārye vistārāc cibukaṁ tathā ||
-
-
-    aṣṭāṅgulaṁ lalāṭaṁ tu vistāreṇa prakīrtitam |
-
-
-    pareṇa dvyaṅgulau śaṅkhau kartavyāvalakānvitau ||
-
-
-    caturaṅgulam ākhyātam antaraṁ karṇa-netrayoḥ |
-
-
-    dvyaṅgulau pṛthukau karṇau karṇārdhārdhaṁ ca pañcame ||
-
-
-    bhrū-samena tu sūtreṇa varṇa-sūtraṁ prakīrtitam |
-
-
-    viddhaṁ ṣaḍ-aṅgulaṁ karṇam aviddhaṁ caturaṅgulam ||
-
-
-    cibukena samaṁ viddham aviddhaṁ vā ṣaḍ-aṅgulam |
-
-
-    khaḍga-pātraṁ tathā raktaṁ śaṣkulīṁ kalpayet tathā ||
-
-
-    aṅgulenādharaḥ kāryas tasyārdhenottarādharaḥ |
-
-
-    ardhāṅgulaṁ tathā gulphaṁ vaktraṁ tu caturaṅgulam ||
-
-
-    āyāmena tu vaipulyaṁ sārdham aṅgulam ucyate ||
-
-
-    avyāttam eva syād vaktraṁ vyāttaṁ dvyaṅgulam ucyate ||
-
-
-    nāsāvaṁśa-samucchrāyaṁ mūle tv ekāṅgulaṁ matam |
-
-
-    ucchritā dvyaṅgulaṁ cāgre karavīropamā smṛtā ||
-
-
-    antaraṁ cakṣuṣoḥ kāryaṁ caturaṅgulamānataḥ |
-
-
-    dvyaṅgulaṁ cākṣikoṣaṁ taddvyaṅgulaṁ cāntarantayoḥ ||
-
-
-    tārā netra-tribhāgena dṛktārā pañcamāṁśikā |
-
-
-    aṅgulaṁ netravistāraṁ droṇī cārdhāṅgulā matā |
-
-
-    tat-pramāṇā bhruvor lekhā bhruvau netra-same mate ||
-
-
-    bhrū-madhyaṁ dvyaṅgulaṁ kāryaṁ bhrū-dairghyaṁ caturaṅgulam ||
-
-
-    ṣaṭ-triṁśad-aṅgulāyāmaṁ mastakasya tu veṣṭanam |
-
-
-    mūrtīnāṁ keśavādīnāṁ dvātriṁśad-veṣṭanaṁ bhavet ||
-
-
-    pañca-netrād adhogrīvād vistārād veṣṭanaṁ punaḥ |
-
-
-    triguṇaṁ tu bhaved ūrdhvaṁ vistṛtāṣṭāṅgulaṁ punaḥ ||
-
-
-    grīvā triguṇamāyāmaṁ grīvāvakṣo'ntaraṁ bhavet |
-
-
-    skandhāv aṣṭāṅgulau kāryau trikalā-vaṁśakau śubhau ||
-
-
-    sapta-netrau smṛtau bāhū prabāhū ṣoḍaśāṅgulau |
-
-
-    trikalaṁ vistṛtau bāhū prabāhū cāpi tat-samau ||
-
-
-    bāhu-daṇḍārdhato jñeyaḥ parīṇāhaḥ kalā nava |
-
-
-    sapta-daśāṅgulā madhye  kūrparordhve ca ṣoḍaśī ||
-
-
-    kūrparasya bhaven nāhas triguṇaḥ surasattama |
-
-
-    nāhaḥ prabāhu-madhye tu ṣoḍaśāṅgula ucyate |
-
-
-    agra-haste parīṇāho dvādaśāṅgula ucyate ||
-
-
-    vistāreṇa karatalaṁ kīrtitaṁ tu ṣaḍ-aṅgulam |
-
-
-    dairghyāt sāṅgulaṁ kāryaṁ madhye pañcāṅgulā matā |
-
-
-    tarjany-anāmikā cāpi tasmād ardhāṅgulaṁ vinā ||
-
-
-    kaniṣṭhāṅguṣṭhakau kāryau caturaṅgula-saṁmitau |
-
-
-    dviparvāṅguṣṭhakaḥ kāryaḥ śeṣāṅgulyas triparvikāḥ ||
-
-
-    sarvāsāṁ parvaṇo'rdhena nakha-mānaṁ vidhīyate |
-
-
-    vakṣaso yat pramāṇaṁ ca jaṭharaṁ tat-pramāṇakam ||
-
-
-    aṅgulaikaṁ bhaven nābhī vedhena ca pramāṇataḥ |
-
-
-    nābhī-madhye parīṇāho dvicatvāriṁśadaṅgulaiḥ ||
-
-
-    antaraṁ stanayoḥ kāryaṁ tāla-mātraṁ pramāṇataḥ |
-
-
-    cucukau yavamānau tu dviyavaṁ maṇḍalaṁ bhavet ||
-
-
-    catuḥṣaṣṭy-aṅgulaṁ kāryaṁ veṣṭanaṁ vakṣasaḥ sphuṭam |
-
-
-    catur-mukhaṁ tu tad-adhāveṣṭanaṁ parikīrtitam ||
-
-
-    parīṇāhas tathā kaṭyāṁ catuḥ-pañcāśad-aṅgulaiḥ |
-
-
-    vistāraś corumūle tu procyate dvādaśāṅgulaḥ ||
-
-
-    tasmād abhyadhikaṁ madhye tato nimnataraṁ kramāt |
-
-
-    vistṛto'ṣṭāṅgulaṁ jānu triguṇaṁ pariṇāhataḥ ||
-
-
-    jaṅghā-madhye tu vistāraḥ saptāṅgula udāhṛtaḥ |
-
-
-    triguṇaḥ paridhiś cāsya jaṅghāgraṁ pañca-vistarāt ||
-
-
-    triguṇaḥ paridhiś cāsya pādau tāla-pramāṇakau |
-
-
-    āyāmād ucchritau pādau caturaṅgulam eva ca ||
-
-
-    gulpha-parvaṁ tu kartavyaṁ pramāṇāc caturaṅgulam |
-
-
-    trikalaṁ vistṛtau pādau dvyaṅgulo'ṅguṣṭhakaḥ smṛtaḥ ||
-
-
-    pañcāṅgulaṁ tu nāho'sya dīrghatvaṁ tu pradeśinī |
-
-
-    aṣṭamāṁśāṣṭamāṁśonāḥ śeṣāṅgulyaḥ krameṇa tu ||
-
-
-    sapādāṅgulam utsedham aṅguṣṭhasya prakīrtitam |
-
-
-    pādonam aṅgulaṁ kāryam aṅguṣṭhasya nakhaṁ sadā ||
-
-
-    ardhāṅgulaṁ tathānyāsāṁ kramād ūnaṁ tu kārayet |
-
-
-    dvyaṅgulau vṛṣaṇau kāryau  meḍhraṁ tu caturaṅgulam ||
-
-
-    pariṇāhena koṣāgraṁ kartavyaṁ caturaṅgulam |
-
-
-    ṣaḍ-aṅgula-parīṇāhau vṛṣaṇau parikīrtitau ||
-
-
-    vṛṣaṇālaṅkṛtā kāryā prasanna-vadanekṣaṇā |
-
-
-    pratimā vāsudevasya mānena surasattama ||
-
- 
-
-śrī-nārada-pañcarātre śrī-bhagavan-nārada-saṁvāde—
-
-
-    cibukāc ca lalāṭāntaṁ syād vaktraṁ dvādaśāṅgulam |
-
-
-    lalāṭād ūrdhvato vipra tryaṅugulaṁ connataṁ śiraḥ ||
-
-
-    dvādaśāṅgula-vistīrṇaṁ triguṇaṁ pariṇāhataḥ |
-
-
-    vistārād dvyaṅgulau karṇau tan-mātrāt triguṇocchritau ||
-
-
-    kanyakāgra-samaṁ viddhi randhraṁ śrotrasya cāntaram |
-
-
-     karṇa-baṭāvadhaś cordhvau mānenārdhāṅgulau smṛtau ||
-
-
-    karṇa-cchidrād atho bāhye karṇa-madhye'ṅgulo vaṭaḥ |
-
-
-    aṅgulāḥ karṇa-pāṇyośca pārśve syād vā yadṛcchayā |
-
-
-    bhrū-late śaśirekheva āyāmāc caturaṅgulā |
-
-
-    ardhāṅgulena vai kāryā madhya-sthūlāgrataḥ kṛśā ||
-
-
-    bhrū-madhyam aṅgula-samaṁ nāsā tu caturaṅgulā |
-
-
-    asthūlā cāgrataḥ kāryā tila-puṣpākṛtis tathā ||
-
-
-    netrayor antaraṁ jñeyaṁ tryaṅgulaṁ netratas tathā |
-
-
-    dairghyeṇa tryaṅgulaṁ netraṁ tad-āyāmena cāṅgulam |
-
-
-    tryaṁśena tārakaṁ madhye jyotis tu tryaṁśa-bhāgataḥ ||
-
-
-    ghrāṇādhaś cāṅgulenaiva pādahīnena godhikā |
-
-
-    kalpyate muni-śārdūla ekāṁśena tato'dharaḥ |
-
-
-    uttarākhyo'py adhaḥsthaś ca pramāṇe nāṅgulaṁ smṛtam ||
-
-
-    dvyaṅgulaṁ cibukaṁ vipra ucchrāyeṇa prakīrtitam |
-
-
-    vistāras tryaṅgulo jñeyaḥ sṛkkaṇī caturaṅgule ||
-
-
-    īṣad vihasitaṁ tena karṇapāṇyoḥ parasparam |
-
-
-    kapolam ardhaśaśivat tan-madhye caturaṅgulau ||
-
-
-    tau ca gaṇḍau samau kuryāt tryaṁśa-pūrṇau manoramau |
-
-
-    karṇocchrāyas tryaṅgulaḥ syād vistāreṇa tu nārada ||
-
-
-    aṣṭāṅgulo'tha paridhis triguṇaḥ parikīrtitaḥ |
-
-
-    kaṇṭhāvadhi sthitaṁ vakṣo yāvat syād avadhir mune |
-
-
-    unnatatvena vihitaṁ sadaiva dvādaśāṅgulam |
-
-
-    dviguṇaṁ tacca vistārād dvyaṅgulaṁ stana-maṇḍalam ||
-
-
-    etayoś cucukaṁ kāryam aṣṭamāṁśaṁ svakāṅgulam |
-
-
-    parasparaṁ syāt stanayor antaraṁ dvādaśāṅgulam ||
-
-
-    aṣṭāṅgulau smṛtāvaṁsau vistāreṇa mahāmate |
-
-
-    pronnatatvena kuryāc ca hasta-mūlāt ṣaḍ-aṅgulam ||
-
-
-    ucchrāyeṇa tu nābhyantaṁ kuryād vai dvādaśāṅgulam |
-
-
-    kuryāt pradakṣiṇāvartanābhiṁ meḍhrāvadhi dvija ||
-
-
-    ucchrāyeṇa ca sampādyaṁ susamaṁ dvādaśāṅgulam |
-
-
-    nābher adhastād udaraṁ sampādyaṁ caturaṅgulam ||
-
-
-    śeṣa syāt kaṭi-bhūbhāgo vistāreṇodaraṁ mune |
-
-
-    dvisaptāṅgulamānaṁ syāt paridhis triguṇaḥ smṛtaḥ ||
-
-
-    kuryāt prajananaṁ vipra ucchrāyeṇa ṣaḍ-aṅgulam |
-
-
-    triguṇaḥ parimāṇena paridhis tu kaṭeḥ smṛtaḥ |
-
-
-    triṣaḍaṅgula-vistīrṇaṁ kaṭimānam udāhṛtam ||
-
-
-    ṣaḍ-viṁśad-aṅgulā vipra paridhes tu kaṭiḥ smṛtā |
-
-
-    ūrvoś ca jaghanaṁ vipra ucchrāyeṇa ṣaḍ-aṅgulam ||
-
-
-    dvyaṅgulena ca vistīrṇaṁ vṛṣaṇau caturaṅgulau |
-
-
-    tricatuṣkala-sampūrṇau ūru-daṇḍau tato dvija ||
-
-
-    ucchrāyeṇa ca kartavyaṁ caturviṁśāṅgulaṁ mune |
-
-
-    pṛthu-mūlau krama-kṣāmau saṁlagnau gajapāṇivat |
-
-
-    vistāreṇa tu kurvīta ūrumūlaṁ ṣaḍaṅgulam ||
-
-
-    ṣaṭ-triṁśad-aṅgulaṁ nābhāv ūru-madhyaṁ navāṅgulam |
-
-
-    ūor apy avasāne tu veṣṭanaṁ tv ekaviṁśatiḥ ||
-
-
-    tryaṅgulaṁ muniśārdūla parito jānu-maṇḍalam |
-
-
-    vistāram unnatiṁ cāpi jānor apy adhunā śṛṇu ||
-
-
-    dvir dvādaśenāṅgulena jānor vistāra ucyate |
-
-
-    ṣaḍaṅgulena vistīrṇaṁ jaṅgāmūlaṁ prakīrtitam ||
-
-
-    jaṅgāmadhye tathā nābhāvaṣṭāv apy atha viṁśatiḥ |
-
-
-    jaṅghāvasāne vistāro jñeyaḥ pañcāṅgulo mune ||
-
-
-    tam eva triguṇī-kṛtya tasyaiva paridhir bhavet |
-
-
-    gulphād adhas tryaṅgulaḥ syāt pādocchrāyas tū nārada |
-
-
-    pārṣṇyoś ca pṛṣṭhato yāvad aṅguṣṭhāgraṁ dvijottama ||
-
-
-    pādasya tāvad dairghyaṁ syād aṅgulānāṁ dvisaptakam |
-
-
-    ṣaḍ-aṅgulena vitataṁ kūrma-pṛṣṭhonnataṁ kramāt ||
-
-
-    catubhir aṅgulair dīrgham aṅguṣṭhaṁ parikīrtitam |
-
-
-    triguṇaṁ veṣṭanaṁ tasya dairghyāt tasya daśādhikā ||
-
-
-    pāda-pradeśinī kāryā tat-samīpa-sthitāṅguliḥ |
-
-
-    aṅguṣṭhasya samā kāryā pāda-nyūnā tv anāmikā |
-
-
-    anāmikāyāḥ pādena hīnā pādakanīyasī |
-
-
-    tryaṁśena viddhi sarvāsāṁ parvamānaṁ tu nārada ||
-
-
-    parvārdhena nakhāḥ kāryā ardhendu-sadṛśāḥ śubhāḥ |
-
-
-    ṣaṭ-triṁśad-aṅgulaṁ vipra skandhāt pṛṣṭha-samāvadhau ||
-
-
-    gomukhaṁ vā kramān nimnaṁ yāvad aṅgula-viṁśatiḥ |
-
-
-    madhya-pradeśād vitataṁ pṛṣṭha-vaṁśonnata-kramāt ||
-
-
-    suśubhaṁ pravibhaktaṁ ca vibhaktaṁ ca tathā mune |
-
-
-    sumīlitaṁ matsya-yugmaṁ kṣāmaṁ pañcāṅgulaṁ matam ||
-
-
-    suvartulau sphītau kāyyau vistārāt ṣoḍaśāṅgalau |
-
-
-    suvibhaktau ca pīnau ca karikumbhopamau smṛtau ||
-
-
-    adhastāt skandha-śikharād bāhuḥ syāt ṣoḍaśāṅgulaḥ |
-
-
-    atho viṁśāṅgulaṁ viddhi upabāhuṁ dvijottama ||
-
-
-    maṇibandha-pradeśas tu tatra tryaṅgula ucyate |
-
-
-    madhyamāṅguli-paryantaṁ maṇibandhāvasānataḥ ||
-
-
-    dvādaśāṅgulamānas tu skandhaḥ syāt parivartulaḥ |
-
-
-    caturaṅgula-vistīrṇaḥ paridhis triguṇo mataḥ ||
-
-
-    mūlataś copabāhur vai pañcāṅgula udāhṛtaḥ |
-
-
-    triguṇaś ca tad unnāhastaṁ kramāt kṣāmayecchanaiḥ ||
-
-
-    go-puccha-sadṛśaṁ kṛtvā yathā syāt kalayā mune |
-
-
-    maṇibandha-pradeśād dhi vistāreṇātha veṣṭanāt |
-
-
-    tathāṅgula-pramāṇena pāṇer mānamataḥ śṛṇu ||
-
-
-    mune aṅgulamānāt taṁ viddhi saptāṅgulaṁ sadā |
-
-
-    pañcāṅgula-pramāṇena trikād vistāra ucyate ||
-
-
-    nimnaṁ karatalaṁ kuryāt śubha-rekhā-vibhūṣitam |
-
-
-    tatra madhyāṅguliṁ vipra viddhi pañcāṅgulaṁ sadā ||
-
-
-    tasyā apy aṅguliḥ pāśrve ūnā ardhāṅgulena vai |
-
-
-    tat pañcamāṁśa-hīnā ca nityaṁ kāryā kanīyasī |
-
-
-    sārdha-dvayaṅgulam aṅguṣṭhaṁ dviparva parikīrtitam ||
-
-
-    triparvaṇyāś cāṅgulayaḥ parvārdhena nakhāḥ smṛtāḥ ||
-
-
-    go-puccha-sadṛśī kāryā aṅgulyo'ṅgula-dhīmatā |
-
-
-    pāda-hīnāḥ kanīyasyāḥ sapādāś cāṅgulau kramāt ||
-
-
-    sva-pramāṇasya vistārāt triguṇaṁ viddhi veṣṭanam |
-
-
-    kūrma-pṛṣṭha-nakhāḥ sarve agrataś cārdha-candravat ||
-
-
-    keśair alakajātaṁ tu lalāṭopariśobhanam |
-
-
-    lalāṭordhvāṅgulicchādi kuryāt trivalisaṁyutam ||
-
-vārāhyāṁ ca—
-
-
-    svair aṅgula-parīmāṇair dvādaśa-vistīrṇam āyataṁ ca mukham |
-
-
-    nagnajitā tu caturdaśāṅgula-dairghyeṇa vistāritaṁ kathitam ||
-
-
-    nāsā-lalāṭa-cibuka-grīvāś caturaṅgulās tathā karṇau |
-
-
-    dve dve'ṅgule ca hanuke cibukaṁ ca dvyaṅgulaṁ prasṛtam ||
-
-
-    aṣṭāṅgulaṁ lalāṭaṁ ca vistārād dvyaṅgalau parau |
-
-
-    saṁkhyau caturaṅgalau ca śaṅkhau karṇau ca dvyaṅgulaṁ pṛthulau ||
-
-
-    karṇopāntaḥ kāryo'rdha-pañcame bhrū-samena sūtreṇa |
-
-
-    karṇa-srotaḥ sukumārakaṁ ca nayana-prabandha-samam ||
-
-
-    caturaṅgulāvaśiṣṭaṁ kathayati netrānta-karṇayor vivaram |
-
-
-    adharo'ṅgula-pramāṇas tasyārdhenottarauṣṭhaś ca ||
-
-
-    ardhāṅgulā tu gulphā vaktraṁ ca caturaṅgulāyataṁ kāryam |
-
-
-    vipulaṁ tu sārdham aṅgulam adhyāttaṁ dvyaṅgulaṁ vyāptam ||
-
-
-    tryaṅgula-tuṅgau nāsāpuṭau nāsāpuṭāgrato jñeyau |
-
-
-    sā dvyaṅgulam ucchrāyā caturaṅ gulam antaraṁ cākṣṇoḥ |
-
-
-    dvyaṅgulamito'kṣikośo dve netre tat tribhāgikā tārā |
-
-
-    dṛatārā pañcāṁśo netra-vikāśo'ṅgulaṁ bhavati ||
-
-
-    paryantāt paryantā daśa bhruvo'rdhāṅgulā bhruvor lekhā |
-
-
-    bhrū-madhye dvyaṅgulakaṁ bhrū-dairghyeṇāṅgula-catuṣkaṁ ca ||
-
-
-    kāryo tu keśa-rekhā bhrū-madhya-bandha-samāṅgulārdha-vistīrṇā ||
-
-
-    netrānte karavīrakam upanyased aṅgula-pramitam ||
-
-
-    dvātriṁśat pariṇāhāc caturdaśāyāmato'ṅgulāni śiraḥ |
-
-
-    dvādaśa tu citra-karmaṇi dṛśyante viṁśatir adṛśyā ||
-
-
-    āsyāṁsa-keśa-nicayaṁ ṣoḍaśa dairghyeṇa nagnajit proktāḥ |
-
-
-    grīvā daśa vistīrṇā pariṇāhād viṁśatiḥ saikā ||
-
-
-    kaṇṭhād dvādaśa hṛdayaṁ hṛdayān nābhiśca tat-pramāṇena |
-
-
-    nābher madhyān meḍhrāntaraṁ ca tat-tulyam evoktam ||
-
-
-    ūrū cāṅgulamānaiś caturyuktā viṁśatis tathā jaṅghe |
-
-
-    jānukapitthe caturaṅgule ca pādau tat-tulyau ||
-
-
-    dvādaśa dīrghauṣṭhā pṛthutayā ca pādau trikalāyatāṅguṣṭhau |
-
-
-    pañcāṅgula-parīṇāhau pradeśinī tryaṅgulaṁ dairghya̍m ||
-
-
-    aṣṭāṁśāṣṭāṁśonāḥ śeṣāṅgulyaḥ krameṇa kartavyāḥ |
-
-
-    syād dvyaṅgula-samucchrāyaṁ caturtha-bhāgam aṅgulam utsedho'ṅguṣṭha-kasyoktaḥ ||
-
-
-    aṅguṣṭha-nakhaḥ kathitaś caturbhāgonamaṅgulas taj-jñaiḥ |
-
-
-    śeṣa-nakhānāmardhāṅgula-kramāt kiñcid ūnaṁ ca ||
-
-
-    jaṅghāgre parīṇāhaś caturdaśoktas tu vistārāt pañca |
-
-
-    madhye ca sapta-vipulāḥ pariṇāhāt triguṇitāḥ sapta ||
-
-
-    aṣṭau tu jānu-madhye vaipulyaṁ tryaṣṭakaṁ tu pariṇāhaḥ |
-
-
-    vipulā caturdaśoru-madhye dviguṇas tu tat-paridhiḥ ||
-
-
-    koṭir aṣṭādaśa vipulā catvāriṁśac caturyutā paridhau |
-
-
-    aṅgulam ekaṁ nābhir vedhena tathā pramāṇena ||
-
-
-    catvāriṁśad dviyutā nābhī-madhyena madhya-pariṇāhaḥ |
-
-
-    stanayoḥ ṣoḍaśa cāntaram ūrdhvaṁ kakṣe ṣaḍaṅgulake ||
-
-
-    aṣṭāvaṁsau dvādaśa bāhu kāryau tathā prabāhū ca ||
-
-
-    bāhū ṣaḍ-vistīrṇau pratibāhū dvyaṅgula-catuṣkau ||
-
-
-    ṣoḍaśa bāhu-mūle pariṇāho dvādaśāgrahaste ca |
-
-
-    vistāreṇa karatalaṁ ṣaḍ-aṅgulaṁ sapta dairghyeṇa ||
-
-
-    pañcāṅgulāni madhya-pradeśinī madhya-parvadalahīnā |
-
-
-    anayā tulyā cānāmikā kaniṣṭhā tu parvonā ||
-
-
-    parva-dvayam aṅguṣṭhaḥ śeṣāṅgulyas triparvikā jñeyāḥ |
-
-
-    nakha-parimāṇaṁ kāryaṁ sarvāsāṁ parvaṇo'rdhena |
-
-
-    deśānurūpa-bhūṣaṇa-veśālaṅkāra-mūrtibhiḥ kāryā |
-
-
-    pratimā lakṣaṇa-yuktā saṁvihitā buddhidā bhavati || iti |
-
-ataḥ paraṁ sugamam ||103||
-
-ityaṣṭādaśo vilāsaḥ |
-
-**atha mṛṇmayenāṁ śrīmūrtināṁ viśeṣaḥ śrīhayaśīrṣīye pratimāprasaṅge—**
-
-**mṛttikā varṇa-pūrveṇa gṛhṇīyuḥ sarvarṇinaḥ |**
-
-**nadītīre'thavā kṣetre puṇyasthāne'thavā punaḥ ||104||**
-
-** pāṣāṇakarkarālohacūrṇāni samabhāgataḥ |**
-
-**mṛttikāyāṁ prayojyātha kaṣāyeṇa prapīḍayet ||105||**
-
-**khādireṇārjunenātha sarjaśrīveṣṭakuṅkumaiḥ |**
-
-**koṭajairāyasaiḥ snehairdadhikṣīraghṛttādibhiḥ ||106||**
-
-**āloḍya mṛttikā taistaiḥ sthāne sthāpya punaḥ punaḥ |**
-
-**māsaṁ paryuṣitaṁ kṛtvā pratimāṁ parikalpayet ||107||**
-
-**sthāpayet pratimāśūlaṁ ratnaṇyāsasya copari |**
-
-**śūlañca khādirādīnāṁ yajñīyānāṁ prakalpayet ||108||**
-
-**viṁśottaraśataṁ śūlaṁ kuryādvā pañcaviṁśatiḥ |**
-
-**pratimāṅgulamānena kṛtvā saṁsthāpayedbudhaḥ ||109||**
-
-**caturdaśāṅgulaṁ proktaṁ sapādaṁ dalameva vā |**
-
-**saptaviṁśati cādhastānnābhyurddhvo'rddhāṅgulaṁ mukham ||110||**
-
-** pañcaviṁśāṅgulau corū sārddhatrikalamastakam |**
-
-**ūrū smṛte same jaṅghepādocchrāyaṁ susammitam ||111||**
-
-**netradvayaṁ samuddiṣṭamarddhāṅgulasamanvitam |**
-
-**dvigolokā bhavedgrīvā cārddhāṅgula samanvitā ||112||**
-
-**bhāgasya vṛddhiṁ vakṣyāmi pañcaviṁśāṁśake tathā |**
-
-**arddhārddhamaṅgulaṁ dadyāt hṛdayādiṣu bhāgaśaḥ ||113||**
-
-**pañcaviṁśāṅgulaṁ vakṣo vistāreṇa prakīrtitam |**
-
-**kaṭirvistārataḥ kāryā ṣoḍaśāṣṭadaśāṅgulā ||114||**
-
-**pañcaviṁśāṅgulau bāhū āyāmena prakīrtitau |**
-
-**tathā saptadaśa proktā vāyāmena prabāhukau | 115||**
-
-**maṇibandhaḥ kalāyāmastasmāttaṁ pratimastakam |**
-
-**āyāmo madhyamāyāstu ṣaḍaṅgula iti smṛtaḥ ||116||**
-
-**etat saṁkṣepataḥ proktaṁ daśatālasya lakṣaṇam |**
-
-**pratimāyāścaturthena kūrmārcā parikīrtitā |**
-
-**tattribhāgena tatpīṭhaṁ kuryāt siddhyarthamuttamam ||117||**
-
-**atha śrīmurtiviśeṣeṇa parimāṇaviśeṣādiḥ mātsye—**
-
-**ataḥparaṁ pravakṣyāmi devākārān viśeṣataḥ |**
-
-**daśatālaḥ smṛto rāmo balirvairocanistathā ||118||**
-
-**varāho narasiṁhaśca saptatālastu vāmanaḥ |**
-
-**matsyakūrmau tu nirdiṣṭau yathāśobha svayambhuvā ||119||**
-
-**atha varāhamūrtiḥ**
-
-**kiñca—**
-
-**mahāvarāhaṁ vakṣyāmi padmahastaṁ gadādharam | tīkṣṇadaṁṣṭrāgraghorāsyaṁ medinīṁ vāmakūrpare ||120||**
-
-**daṁṣṭrāgreṇoddhṛtāṁ dīptāṁ dharaṇīmutpalānvitām |**
-
-**vismayotphullanayanāmupariṣṭāt prakalpayet ||121||**
-
-**dakṣiṇaṁ kaṭisaṁsthañca karaṁ tasya prakalpayet |**
-
-**kūrmopari tathā pādamekaṁ nāgendramūrddhani |**
-
-**saṁstūyamānaṁ lokeśaiḥ samantāt parikalpayet ||122||**
-
-**atha narasiṁhamūrtiḥ**
-
-**nārasiṁhantu kurvīta bhujāṣṭakasamanvitam |**
-
-**raudraṁ siṁhānanaṁ tadvadvidāritamukhekṣaṇam ||123||**
-
-**stabdhapānasaṭākīrṇaṁ dārayantaṁ diteḥ sutam |**
-
-**vinirgatāntrajālañca dānavaṁ parikalpayet ||124||**
-
-**vamantaṁ rudhirodgāraṁ bhrūkuṭivadanekṣaṇam |**
-
-**yudhyamānaṁ ca kurvīta kvacit karaṇabandhanaiḥ ||125||**
-
-**pariśrāntena daityena tarjyamānaṁ muhurmuhuḥ |**
-
-**daityān pradarśayettatra khaḍgakheṭakadhāriṇaḥ |**
-
-**stūyamānaṁ tathā viṣṇuṁ darśayedamarādhipaiḥ ||126||**
-
-**atha trivikramamūrtiḥ**
-
-**tathā trivikramaṁ vakṣye brahmāṇḍākramaṇolvaṇam |**
-
-**pādapārśve tathā bāhumupariṣṭāt prakalpayet ||127||**
-
-**adhastādvāmanaṁ tadvat kalpayet sakamaṇḍalum |**
-
-**dakṣiṇe chatrikāṁ dadyānmukhaṁ dīnaṁ pradarśayet ||128||**
-
-**bhṛṅgāra-dhāriṇaṁ tadvadbaliṁ tasya ca pārśvataḥ |**
-
-**bandhanaṁ cāsya kurvantaṁ garuḍaṁ tasya darśayet ||129||**
-
-**atha mātsyamūrtiḥ kūrmamūrtiśca**
-
-**matsyarūpaṁ tathā mātsyaṁ kaurmaṁ kūmākṛtiṁ nyaset |**
-
-**evaṁrūpaḥ sa bhagavān kāryo nārāyaṇo hariḥ ||130||**
-
-**atha mahāviṣṇamūrtiḥ**
-
-**viṣṇudharmottare—**
-
-**devadevaṁ tathā viṣṇuṁ kārayedgaruḍasthitam |**
-
-**kaustubhodbhāsitauraskaṁ sarvābharaṇadhāriṇam ||131||**
-
-**sajalāmbuda-sacchāyaṁ pītadicyāmbaraṁ tathā |**
-
-**mukhāśca kāryāścatvāro bāhavo dviguṇāstathā ||132||**
-
-**saumyenduvadanaṁ pūrvaṁ nārasiṁhantu dakṣiṇam |**
-
-**kapilaṁ paścimaṁ vaktraṁ tathā vārāhamuttaram ||133||**
-
-**tasya dakṣiṇahasteṣu vāṇārkamuṣalādayaḥ |**
-
-**carmaśaṅkhadharāvinducāpe ca vanamālinaḥ |**
-
-**kāryāṇi viṣṇudharmoktyā vāmahasteṣvanukramāt ||134||**
-
-** iti |**
-
-**atha lokapālaviṣṇamūrtiḥ**
-
-**kiñca—**
-
-**ekavaktro dvibāhuśca gadācakradharaḥ prabhuḥ ||135||**
-
-**atha vāsudevamūrtiḥ**
-
-**kiñca—**
-
-**ekavaktraścaturbāhuḥ saumyarūpī sudarśanaḥ |**
-
-**salilādhnātameghābhaḥ sarvābharaṇabhūṣitaḥ ||136||**
-
-**kaṇṭhena śubhadeśena kambutulyena rājatā |**
-
-**varābharaṇayuktena kuṇḍalottamabhūṣitaḥ ||137||**
-
-**aṅgadī baddhakeyūro vanamālāvibhūṣitaḥ |**
-
-**urasā kaustubhaṁ vibhrat kirīṭaṁ śirasā tathā ||138||**
-
-**śiraḥpadmastathaivāsya kartavyaśvārukarṇikaḥ | puṣṭāśliṣṭāyatabhujaratanutāmranakhāṅguliḥ ||139||**
-
-**madhyena tribalībhaṅgaśobhitena sucāruṇā |**
-
-**strīrūpadhāriṇī kāryā kṣauṇī tatpadamadhyagā ||140||**
-
-**tatkarasthāṅghriyugalo devaḥ kāryo janārdanaḥ |**
-
-**sucārupadavinyāsaḥ kiñcinniṣkrāntadakṣiṇaḥ ||141||**
-
-**anudṛśyā mahī kāryā devadarśanavismitā |**
-
-**devaśca kaṭivāsena kāryo jānvavalambinā ||142||**
-
-**vanamālā ca kartavyā devajānvavalambinī |**
-
-**yajñopavītaṁ vartavyaṁ nābhideśamupāgatam ||143||**
-
-**utphullakamalaṁ pāṇau kuryāddevasya dakṣiṇe |**
-
-**vāmapāṇigataṁ śeṣaṁ śaṅkhākāraṁ tu kārayet ||144||**
-
-**dakṣiṇe tu gadā devī tanumadhyā sulocanā |**
-
-**strīrūpadhāriṇī mugdhā sarvābharaṇabhūṣitā ||145||**
-
-**paśyantī devadeveśaṁ kāryā cāmaradhāriṇī |**
-
-**kāryaṁ tanmūrdhina vinyastaṁ devahastaṁ tu dakṣiṇam ||146||**
-
-** vāmabhāgagataścakraḥ kāryo lambodarastathā |**
-
-**sarvābharaṇasaṁyukto vṛttavisphāritekṣaṇaḥ ||147||**
-
-**kartavyaścāmarakaro devacīkṣaṇatatparaḥ |**
-
-**kāryo devakaro vāmo vinyastastasya mūrdhani ||148||**
-
-**atha saṅkarṣaṇamūrtiḥ**
-
-**vāsudevasvarūpeṇa kāryaḥ saṅkarṣaṇaḥ prabhuḥ |**
-
-**sa tu śuklavapuḥ kāryo nīlavāsā yadūttamaḥ ||149||**
-
-**gadāsthāne tu muṣalaṁ cakrasthāne tu lāṅgalam |**
-
-**kartavyau tanumadhyau tau nṛrūpau rūpasaṁsthitau ||150||**
-
-**atha pradyumnamūrtiḥ**
-
-**vāsudevasvarūpeṇa pradyumnaśca tathā bhavet |**
-
-**sa tu dūrvāṅkuraśyāmaḥ śvetavāsā vidhīyate ||151||**
-
-**cakrasthāne bhaveccāyaṁ gadāsthāne tathā śaraḥ |**
-
-**tathāvidhau tu kartavyau yathā muṣala-lāṅgalau ||152||**
-
-**athāniruddhamūrtiḥ**
-
-**etadeva tathā rūpamaniruddhasya kārayet |**
-
-**padmapatrābha-vapuṣo raktāmbaradharasya tu ||153||**
-
-**cakrasthāne bhaveccarma yadāsthāne'sireva ca |**
-
-**carma syāccakrarūpeṇa prāṁśuḥ khaḍgo vidhīyate ||154||**
-
-**atha cakrādīnāṁ vividhamūrtīnāñca svarūpanirṇayaḥ**
-
-**cakrādīnāṁ svarūpāṇi kiñcita pūrvaṁ pradarśayet |**
-
-**ramyāṇyāyudharūpāṇi cakrādīnyeva yādava ||155||**
-
-**vāmapārśvagatāḥ kāryā devānāṁ pravarā dhvajāḥ |**
-
-**supatākāyutā rājan yaṣṭisthāste yathocitam ||156||**
-
-**kiñca—**
-
-**haṁso matsyastathā kūrmaḥ kāryāstadrūpadhāriṇaḥ |**
-
-**śṛṅgī matsyastu kartavyo devadevo janārdanaḥ ||157||**
-
-**aiśvaryamaniruddhastu varāho bhagavān hariḥ |**
-
-**aiśvaryaśaktyā daṁṣṭrāgrasamuddhṛtavasundharaḥ ||158||**
-
-**nṛvarāho'thavā kāryaḥ śeṣopari gataḥ prabhuḥ |**
-
-**śeṣaścaturbhujaḥ kāryaścāruratnaphaṇānvitaḥ ||159||**
-
-**āścaryotphullanayano devavīkṣaṇatatparaḥ |**
-
-**kartavyo sīramuṣalo karayostasya yādava ||160||**
-
-**sarpabhogaśca kartavyastathaiva racitāṅguliḥ |**
-
-**ālīḍhasthānasaṁsthānastatpṛṣṭhe bhagavān bhavet ||161||**
-
-** mūrtimantamanaiśvaryaṁ hiraṇyākṣaṁ vidurbudhāḥ |**
-
-**aiśvaryeṇāviśeṣeṇa sa nirasto'rimardanaḥ ||162||**
-
-**nṛvarāho'thavā kāryo dhyāne kapilavat sthitaḥ |**
-
-**dvibhujastvathavā kāryaḥ piṇḍanirvapaṇodyataḥ ||163||**
-
-**samagrakroḍarūpo vā bahudānavamadhyagaḥ |**
-
-**nṛvarāho varāho vā kartavyaḥ kṣmāvidāraṇaḥ ||164||**
-
-**jñānavadbhiḥ sa evokto jñānaṁ paramavarddhanaḥ |**
-
-**pīnaskandhakaṭigrīvaḥ kṛśamadhyaḥ kṛśodaraḥ ||165||**
-
-**siṁhānano nṛvehaśca nīlavāsāḥ prabhānvitaḥ |**
-
-**ālīḍhasthānasaṁsthānaḥ sarvābharaṇabhūṣitaḥ ||166||**
-
-**jvālāmālākulamukho jvalatkeśaramaṇḍalaḥ |**
-
-**hiraṇyakaśiporvakṣaḥ pāṭayannakharaiḥ kharaiḥ ||167||**
-
-**nīlotpalābhaḥ kartavyo devajānugatastathā | hiraṇyakaśipurdaityastamajñānaṁ vidurbudhāḥ ||165||**
-
-**atha vāmanamūrtiḥ**
-
-**kartavyo vāmano devaḥ saṅkaṭe bhaktibhāvitaiḥ |**
-
-**pīnagātraśca kartavyo daṇḍī cādhyayanodyataḥ |**
-
-**dūrvāśyāmastu kartavyaḥ kṛṣṇājinadharastathā ||169||**
-
-**atha trivikramamūrtiḥ**
-
-**sajalāmbudasaṅkāśastathā kāryastrivikramaḥ |**
-
-**daṇḍapāśadharaḥ kāryaḥ śaṅkhacakragadādharaḥ ||170||**
-
-** śaṅkhacakragadāpadmāḥ kāryāstasya svarūpiṇaḥ |**
-
-**nirdahārate na kartavyāḥ śeṣaḥ kāryaśca pūrvavat |**
-
-**ekorddhvadanaḥ kāryo devo visphāritekṣaṇaḥ ||171||**
-
-**atha bhṛgurāmamūrtiḥ**
-
-**kāryastu bhārgavo rāmo jaṭāmaṇḍaladurdṛśaḥ |**
-
-**haste'sya paraśuḥ kāryaḥ kṛṣṇājinadharasya tu ||172||**
-
-**atha dāśarathimūrtiḥ**
-
-**rāmo dāśarathiḥ kāryo rājalakṣaṇalakṣitaḥ |**
-
-**bharato lakṣmaṇaścaiva śatrughnaśca mahāśayaḥ |**
-
-**tathaiva sarve kartavyāḥ kintu maulivivarjitāḥ ||173||**
-
-**atha kṛṣṇamūrtiḥ**
-
-**kṛṣṇaścakradharaḥ kāryo nīlotpaladalacchaviḥ |**
-
-**indīvaradharā kāryā tasya sākṣācca rukmiṇī ||174||**
-
-**atha baladevamūrtiḥ**
-
-**sīra-pāṇirbalaḥ kāryo muṣalī caikakuṇḍalī |**
-
-**śveto'tinīlavasano madādhūrṇitalocanaḥ ||175||**
-
-**atha pradyumnamūrtiḥ**
-
-**cāpavāṇadharaḥ kāryaḥ pradyumnaśca sudarśanaḥ |**
-
-**rājan dūrvādalaśyāmaḥ śvetavāsā madotkaṭaḥ ||176||**
-
-**atha kāmadevamūrtiḥ**
-
-**kāmadevastu kartavyo rūpeṇāpratimo bhuvi |**
-
-**aṣṭabāhuḥ sa kartavyaḥ śaṅkhapadmavibhūṣaṇaḥ ||177||**
-
-** **
-
-**cāpavāṇadharaścaiva madākuñcitalocanaḥ |**
-
-**ratiḥ prītistathā śaktirmandaśaktistathojjvalā ||178||**
-
-**catastrastasya kartavyāḥ patnyo rūpamanoharāḥ |**
-
-**catvāraśca karāstasya kāryo bhāryāstanopagāḥ |**
-
-**ketuśca makaraḥ kāryaḥ pañcavāṇamukho mahān ||179||**
-
-**atha aniruddhamūrtiḥ sāmbamūrtiśca**
-
-**kartavyaścāniruddho'pi khaḍgacarmadharaḥ prabhuḥ |**
-
-**sāmbaḥ kāryo mahāhastasvarūpo'sāvaśeṣataḥ |**
-
-**sambāniruddhau kartavyau padmābhau raktavāsasau ||180||**
-
-**atha gopālamūrtiḥ**
-
-**gopālapratimāṁ kuryādveṇuvādanatatparām |**
-
-**varhāpīḍāṁ ghanaśyāmāṁ dvibhujāmūrddhvasaṁsthitām ||181||**
-
-**atha buddhamūrtiḥ**
-
-**kāṣāravastrasaṁvītaḥ skandhasaṁsaktacīvaraḥ |**
-
-**padmāsanastho dvibhujo dhyāyī buddhaḥ prakīrtitaḥ ||182||**
-
-**atha naranārāyaṇa-mūrtiḥ**
-
-**dūrvāśyāmo naraḥ kāryo dvibhujaśca mahābhujaḥ | nārāyaṇaścaturbāhurnīlotpaladalacchaviḥ ||183||**
-
-**tayormadhye tu vadarī kāryā phalavibhūṣaṇā |**
-
-**naranārāyaṇau devāvakṣamālādharāvubhau ||184||**
-
-**aṣṭacakre sthitau jāle bhūtayukte manorame |**
-
-**kṛṣṇājinadharau dāntau jaṭāmaṇḍaladhāriṇau ||185||**
-
-**atha vividharmūrtibhedāḥ**
-
-**pādena cakrena rathasthitena pādena caikena ca jānugena |**
-
-**kāryo hariścātra nareṇa tulyaḥ kṛṣṇo'pi nārāyaṇatulyamūrtiḥ ||186||**
-
-** mūrtimatpṛthivīhastanyastapādaḥ sitacchaviḥ |**
-
-**nīlāmbaradharaḥ kāryo devo hayaśirodharaḥ ||187||**
-
-**viddhi saṅkarṣaṇāṁśena devaṁ hayaśirodharam |**
-
-**kartavyo'ṣṭabhujo devastatkareṣu caturṣu ca ||188||**
-
-**śaṅkhacakragadāpadmān sakārān darśayedbudhaḥ |**
-
-**catvāraśca karāḥ kāryā devānāṁ dehadhāriṇām |**
-
-**devena mūrdhni vinyastāḥ sarvābharaṇabhūṣitāḥ ||189||**
-
-**pradyumnaṁ viddhi vairāgyaṁ kāpilīṁ tanumāśritam |**
-
-**madhye ūrukaraḥ kāryastasyotsaṅgataḥ paraḥ |**
-
-**doryugaṁ cāparaṁ tasya śaṅkhacakradharaṁ bhavet ||190||**
-
-** padmāsanopaviṣṭaśca dhyānasanmīlitekṣaṇaḥ |**
-
-**karmaṇyaḥ kapilo devo jaṭāmaṇḍaladurdṛśaḥ ||191||**
-
-**vāyusaṁrodhapīnāṅgaḥ padmāṅkacaraṇadvayaḥ |**
-
-**mṛgājinadharo rājan śubhayajñopavītavān |**
-
-**vibhurmantramahāpadmakarṇikāmadhyamāsthitaḥ ||192||**
-
-**vairāgyabhāvena mahānubhāvo dhyāne sthitaḥ svaṁ parama padaṁ tat |**
-
-**dhyāyaṁstathā vai bhuvanasya goptā sāṅkhyapravaktā puruṣaḥ purāṇaḥ ||193||**
-
-**śyāmavarṇastanūvāsā piṅgalākṣo jaṭādharaḥ |**
-
-**sumanturjaiminiḥ pailo vaiśampāyana eva ca |**
-
-**tasya śiṣyāśca kartavyāścatvāraḥ pāripārśvikāḥ ||194||**
-
-**gaurastu kāryo vālmīkijaṭāmaṭāmaṇḍaladurdṛśaḥ |**
-
-**tapasyabhirataḥ śānto na kṛśo na ca pībaraḥ ||195||**
-
-**vālmīkirūpaṁ sakalaṁ dattātreyasya kārayet |**
-
-**jalamadhyagataḥ kāryaḥ śeṣaḥ pānnagadarśanaḥ |**
-
-**phaṇāpuñjamahāratnadurnirīkṣyaśirodharaḥ ||196||**
-
-**devadevastu kartavyaḥ śeṣabhogāṅkasaṁsthitaḥ |**
-
-**eko bhujo'sya kartavyastatra jānau prasārittaḥ ||197||**
-
-**kartavyo nābhideśe tu tadā tasya paraḥ karaḥ |**
-
-**tathaivānyakaraḥ kāryo devasya suśirodharaḥ ||198||**
-
-**sa tānamañjarīdhārī tathaivāsya paro bhavet |**
-
-**nābhīsarasi sambhūte kamale tasya yādava ||199||**
-
-**sarvapṛthvīmaye devaḥ prāgvat kāryaḥ pitāmahaḥ |**
-
-**nālalagnau ca kartavyau padmasya madhukaiṭabhau ||200||**
-
-**nṛrūpadhārīṇi bhujaṅgamadhye kāryāṇyathāstrāṇi tathā samīpe ||201||**
-
-**tākṣyormarakataprakhyaḥ kauśikākāranāsikaḥ |**
-
-**caturbhujaśca kartavyo vṛttanetramukhastathā ||202||**
-
-**grīvorujānucaraṇapakṣadvayavibhūṣitaḥ |**
-
-**prabhāsaṁsthānasauvarṇakalāyena virājitaḥ ||203||**
-
-**chatrañca pūrṇakumbhañca karayostasya kārayet |**
-
-**karadvayañca kartavyaṁ tathā viracitāñjali ||204||**
-
-**yadāsya bhagavān pṛṣṭhe chatrakumbhadharau karau |**
-
-**na kartavyau tu kartavyau devapādadharāvubhau ||205||**
-
-**kiñcillambodaraḥ kāryaḥ sarvābharaṇabhūṣitaḥ ||206||**
-
-**atha lakṣmīnārāyaṇamūrtiḥ**
-
-**viśvakarmaśāstre ca—**
-
-**lakṣmīnārāyaṇau kāryau saṁyutau divyarūpiṇau |**
-
-**dakṣiṇasthā vibhormūrtirlakṣmīrmūrtistu vāmagā ||207||**
-
-**dakṣiṇaḥ kaṇṭhalagno'sya vāmahastasarojadhṛk |**
-
-**vibhorvāmakaro lakṣmyāḥ kūkṣibhāge sthitaḥ sadā ||208||**
-
-**sarvāvayavasampūrṇā sarvālaṅkārabhūṣitā |**
-
-**suṣṭhunetrakapolāsya-rūpayauvanasaṁyutā ||209||**
-
-**siddhiḥ kāryā samīpasthā cāmaragrāhiṇo śubhā |**
-
-**kartavyaṁ vāmanaṁ sarvaṁ devādhobhāgagaṁ sadā ||210||**
-
-** śaṅkhacakradharau tasya dvau kāryau puruṣau pūraḥ |**
-
-**vāmanau hārakeyūrakirīṭamaṇibhūṣitau ||211||**
-
-**upāsakau samīpasthau prabhorbrahmaśivātmakau |**
-
-**rasanāṁ yogapaṭṭañca śikhāñjalimāsthitau ||212||**
-
-**atha yogasvāmimūrtiḥ**
-
-**padmāsana-samāsīnaḥ kiñcinmīlitalocanaḥ |**
-
-**ghrāṇāgre dattadṛṣṭiśca śvetapadmopari sthitaḥ ||213||**
-
-**vāmadakṣiṇagau hastāvubhāvutsaṅgabhāgagau |**
-
-**tatkaradvayapārśvasthe paṅkeruha-mahāgade ||214||**
-
-**ūrddhva karadvaye cāsya śaṅkhaścāpi sūdarśanam |**
-
-**yogasvāmī sa vijñeyaḥ pūjyo modārthayogibhiḥ ||215||**
-
-**atha daśāvatārāṇāṁ mūrtaya tatra matsyāvatāramūrtiḥ**
-
-**śrīhayaśīrṣapañcarātre—**
-
-**ataḥparaṁ pravakṣyāmi matsyādīnāntu lakṣaṇam |**
-
-**ṣaṭtriṁśadaṅgulāyāmaṁ tadarddhena tu vistṛtam ||216||**
-
-** dairghyāṣṭamāṁśasaṁyuktaṁ pucchavaktraṁ tu kārayat |**
-
-**rohitaṁ vivṛtāsyantu dvādaśāṅgulamānataḥ |**
-
-**kalaikaṁ pṛṣṭharomantu tucchārddhaṁ kroḍagaṁ tathā ||217||**
-
-**kṛtasyaivaṁvidhasyeha rohitasya mukhodgatam |**
-
-**nārāyaṇantu kurvīta āgulphaṁ tānmukhodgatam ||218||**
-
-**evaṁ nṛmatsyaṁ matsyaṁ vā sthāpayedyastu mānavaḥ |**
-
-**sarvajñatvaṁ bhavettasya sarvopanmuktireva ca ||219||**
-
-**atha kūrmamūrtilakṣaṇam**
-
-**dairghyātritālasaṁyuktaṁ tadarddhaṁ parimaṇḍalam | **
-
-**catuścaraṇasaṁśliṣṭaṁ caturaṅgulamātrayā ||220||**
-
-**kapāladvayamadhye tu govindaṁ tu samṛdgatam |**
-
-**kṛtvā vā gulphaparyantamudgacchantaṁ surottamā ||221||**
-
-**nukūrmaṁ kārayitvainaṁ kūrma vā sthāpayīta yaḥ |**
-
-**svavaṁśoddharaṇaṁ tasya jāyate muktireva ca ||222||**
-
-**atha varāhamūrtilakṣaṇam**
-
-**vaktraṁ kalāṣṭakāyāmaṁ śrotramasya dvigolakam |**
-
-**hanū saptāṅgule tasya sṛkkaṇī dvyaṅgule mate ||223||**
-
-**saptāṅgulaṁ mukhaṁ proktaṁ radau sārddhakalo dvija |**
-
-**nāsārandhra bhavennetraṁ yavahīne'kṣiṇī mate ||224||**
-
-**kiñcidvaktre smite śrotre dvigolakasamāyate |**
-
-**catuṣkalaṁ karṇamadhyaṁ tadarddhena taducchritam ||225||**
-
-**vasvaṅgulā bhavedgrīvā netraikaṁ connatā tu sā |**
-
-**śeṣa nṛsiṁhavat kāryaṁ varāhasya tu vigraham ||226||**
-
-**śeṣāhi-vidhṛtaṁ pādaṁ bāhunā dhārayan dharām |**
-
-**śaṅkhaṁ vāme tathā padmaṁ padācakre tu dakṣiṇe ||227||**
-
-**evaṁ naravarāhañca kṛtvā yaḥ sthāpayennaraḥ |**
-
-**bhavodadhisamuttāraṁ rājyañca hatakaṇṭakam |**
-
-**prāpnuyānnātra sandeho hyamutrehaiva vā bhuvi ||228||**
-
-**atha nṛsiṁhamūrtilakṣaṇam**
-
-**tiryaṅnṛsiṁhadevasya tathā vipulamānanam |**
-
-**vartule'sya tathā netre skandhau tālamitau śubhau ||229||**
-
-**vyākuñcite bhruvau vaktraṁ vivṛtaṁ cogradaṁṣṭrakam |**
-
-**lelihānā tathā jihvā samudgataśaṭaṁ śiraḥ ||230||**
-
-**daṁṣṭre dvyaṅgulaniryāte vakrāgre tu site tathā |**
-
-**trikalābhyadhikaṁ vakṣaḥ pañcanetrādhikā kaṭiḥ ||231||**
-
-**dvikalābhyadhikau corū jānū cāpi kalādhikau |**
-
-**jaṅghe sārddhakale madhye vistṛtāgre vibhāgataḥ ||232||**
-
-**urddhvau kiñcit smṛtau pādau bāhumūle kalādhike |**
-
-**kiñcit kiñcit tathā hīnau paryante copabāhukau |**
-
-**vapuristhaṁ nṛsiṁhasya kuryāddeśikasattamaḥ ||233||**
-
-**jānvaṁśe tasya saṁsthāpya vidāritamahāsuram |**
-
-**bhūṣitaṁ vaijayantyā tu mālayā śrīsamanvitam ||234||**
-
-**khaḍgacakradharaṁ devaṁ nṛsiṁhaṁ kārayedbudhaḥ |**
-
-**sthāpayet pāpanāśāya jayāya narakeśarīm ||235||**
-
-**atha vāmanamūrtilakṣaṇam**
-
-**bhujaṁ trigolakāyāmaṁ vakṣovistāraśobhitam |**
-
-**pāṇīpādaṁ turīyāṁśa pravṛddhaśirasaṁ tathā ||236||**
-
-** ūrvaṅghridvitayāyāmavihīnamukhayugmakam |**
-
-**kaṭisphikpārśvanābhīṣu tadvṛddhaṁ vāmanaṁ budhaḥ |**
-
-**kṛtvā saṁsthāpayeddevaṁ mohanārthāya sarvathā ||237||**
-
-**atha jāmadagnyamūrtilakṣaṇam**
-
-**jāmadagnyantu kurvīta jaṭāmukuṭamaṇḍitam |**
-
-**caturbāhuṁ mahābhāgaṁ sarvakṣatrāntakaṁ vibhūm ||238||**
-
-**dakṣiṇe paraśuṁ haste vāme dadyāttathā dhanuḥ |**
-
-**khaḍgaṁ dakṣiṇaharate tu vāmahaste tu kheṭakam ||239||**
-
-**kuṭhārahasta dvibhujaṁ kuryādvā reṇukāsutam |**
-
-**kṛtvaivaṁ jāmadagnyantu sthāpayedyastu mānavaḥ |**
-
-**sa vittaṁ prāpnuyāt śīghraṁ kāmāṁśca manasepsitān ||240||**
-
-**atha rāmamūrtilakṣaṇam**
-
-**kuryāddāśarathiṁ rāmaṁ saptatālaṁ caturbhujam |**
-
-**śarakārmukahastaṁ tu śaṅkhacakradharaṁ śubham ||241||**
-
-**dakṣiṇorddhvaṁ bhaveccakraṁ vāmorddhvaṁ śaṅkhameva ca |**
-
-**dakṣiṇādho bhavedvāṇo vāmādho dhanureva ca |**
-
-**dvibhuja śarahastaṁ vā rāma kuryāt sakārmukam ||242||**
-
-**kṛtvaivaṁ rāghavaṁ rāmaṁ sarvalakṣaṇasaṁyutam |**
-
-**krūraśatruvināśāya sthāpayet sarvakāmadam ||243||**
-
-**atha balarāmamūrtilakṣaṇam**
-
-**tṛtīyaṁ tu yathā rāmaṁ caturbāhuṁ śṛṇuṣva me |**
-
-**vāmorddhvaṁ lāṅgalaṁ dadyādadhaḥ śaṅkhaṁ suśobhanam |**
-
-**gadāṁ kṛpāṇaṁ vā dadyāt saṁsthāne śakticakrayoḥ ||244||**
-
-**kṛtvaivaṁ baladevaṁ tu yo naraḥ sthāpayet prabhun |**
-
-**putraṁ dadāti tasyātha vipakṣāṁśca jayatyasau ||245||**
-
-**atha buddhalakṣaṇam**
-
-**vaśatālaṁ tathā buddhaṁ padmāsanagataṁ harim |**
-
-**pralambaśravaṇaṁ kuryāccīvarālaṅkṛtaṁ tathā ||246||**
-
-**maṇinābhaṁ samādhisthaṁ padmāsyaṁ padmalocanam | samādhisthottānapāṇiṁ yogadṛṣṭiṁ samanvitam |**
-
-**sthāpayedrūpakāmastu piteva jagataḥ sthitam ||247||**
-
-**atha kalkilakṣaṇam**
-
-**kalkinaṁ tu caturbāhuṁ baddhatūṇaṁ dhanurddharam |**
-
-**śaṅkhacakradharaṁ kuryāttathā khaḍgadharaṁ prabhum ||248||**
-
-**dvibhujaṁ vā hayārūḍhaṁ khaḍgapāṇiṁ sureśvaram |**
-
-**kalkinaṁ sthāpayitvaivaṁ śatrusthānaṁ labhennaraḥ ||249||**
-
-**atha navavyūhapratimālakṣaṇam**
-
-**kiñca—**
-
-**ādimūrtirvāsudevaḥ pūrvamevoditto mayā |**
-
-**dakṣiṇorddhve gadā yasya vāmorddhve cakramulvaṇam |**
-
-**brahmeśau pārśvago nityaṁ śeṣamanyacca pūrvavat ||250||**
-
-**dvitīyo vāsudevo'yaṁ dvāparādau sa ucyate |**
-
-**dvibhujo vātha kartavyo vāme śaṅkhadharaḥ prabhuḥ ||**
-
-**varado dakṣiṇenātha vāsudevo dvidhoditaḥ ||251||**
-
-**baladevaścaturbāhuḥ kuṇḍalaikavibhūṣitaḥ |**
-
-**lāṅgalī muṣalī devo gadāpadmadharo vibhuḥ |**
-
-**śaṅkhacakragadāpāṇiḥ kartavyo varado'thavā ||252||**
-
-**prādyumnastu caturbāhuḥ śaṅkhacakradharaḥ śubhaḥ |**
-
-**cakraṁ dakṣiṇahaste ca vāmaharate dhanustathā ||253||**
-
-**śaṅkhaśca dakṣiṇe dadyādgadāṁ vāme pradarśayet |**
-
-**pradyumnaṁ kārayeddeva sarvalakṣaṇasaṁyutam ||254||**
-
-**striyau caivāsya kartavye khaḍgacarmadhare śubhe |**
-
-**ratiprītyormadhyagata kambugrīvaṁ sakārmukam |**
-
-**dvibhujaṁ śarahastaṁ vā pradyumnaṁ kārayedbudhaḥ ||255||**
-
-**aniruddhaḥ kambugrīvaścaturbāhuḥ prabhūṣitaḥ |**
-
-**dakṣiṇe'sya gadā deyā cakraśaṅkhau tu vāmataḥ |**
-
-**dakṣiṇe ca tathā padmaniruddhasya dāpayet ||256||**
-
-**nārāyaṇaścaturbāhuḥ kāryastallakṣaṇaṁ mayā |**
-
-**mūrtidvādaśake sarvaṁ kīrtitaṁ brahmaṇaḥ śṛṇu ||257||**
-
-**caturmukhaścaturbāhubṛhajjaṭharamaṇḍalaḥ |**
-
-**ūrdhvamūrdhvaṁ jaṭājūṭaḥ sadhūmasamamekhalaḥ ||258||**
-
-**śobhanaṁ dakṣiṇe haste dadyādasyākṣasūtrakam |**
-
-**sruvañca dakṣiṇe dadyādvāmahaste tu kuṇḍikām ||256||**
-
-**ājyasthālśṁ kuśopetāṁ vāmahaste niyojayet |**
-
-**śaṅkhacakragadāpāṇiḥ kāryo vātha caturmukhaḥ || 260||**
-
-**sarasvatī ca sāvitrī vāmadakṣiṇasaṁsthite |**
-
-**kartavyā munayo vātha parivārya vyavasthitāḥ || 261||**
-
-**viniviṣṭaḥ sadā brahmā kāryo hyanyastato'nyathā |**
-
-**nṛsiṁhavat svamātrā tu kiñcidabhyadhikaḥ smṛtaḥ ||262||**
-
-**viṣṇuraṣṭabhujaḥ kāryaścaturbāhurathāpi vā |**
-
-**vainateyagataḥ saumyaḥ saṁdaṣṭoṣṭapuṭo'pi vā ||263||**
-
-**khaḍgaṁ gadāṁ śaraṁ dadyādṛkṣiṇe varado'paraḥ |**
-
-**kārmakaṁ kheṭakaṁ cakraṁ vāme'sya dāpayet ||264||**
-
-**caturbhuje gadā deyā dakṣiṇe varado'varaḥ |**
-
-**vāme śaṅkhañca cakrañca viṣṇurevaṁvidho mataḥ ||265||**
-
-**narasiṁhaścaturbāhuḥ śaṅkhacakragadādharaḥ |**
-
-**śaṅkhacaknadharo vāpi vidāritamahāsuraḥ || 266||**
-
-**caturbāhurvarāhastu śeṣaḥ pāṇipade dhṛtaḥ |**
-
-**dhārayan bāhunā pṛthvīṁ va mena kamalāmatha ||267||**
-
-**pādalagnā dharā kāryā yadā lakṣmīrbhujasthitā |**
-
-**varāha kāmayeddevaṁ śaṅkhacakragadādharam ||268||**
-
-**saptālau praśasyete varāha narakeśarī |**
-
-**navatālāvabhyadhikau purastāt kathitau tava ||269||**
-
-**atha puruṣottamamūrtilakṣaṇam**
-
-**kiñca—**
-
-**aṣṭabāhuṁ budhaḥ kuryaddeva trailokyamohanam |**
-
-**garuḍāsanagaṁ devaṁ prathame vayasi sthitam || 270||**
-
-**cakraṁ khaḍgañca musalaṁ sāṅkuśaṁ dakṣiṇe nyaset |**
-
-**śaṅkhaṁ śārṅgaṁ gadāṁ pāśaṁ vāmahasteṣu vinyaset |**
-
-**lakṣmīsarasvatī kārye padmavīṇāsamanvite ||271||**
-
-**kiñca pratiṣṭhāprasaṅge—**
-
-**aṣṭabāhuḥ pūrvameva kathitaḥ puruṣottamaḥ |**
-
-**caturbāhuṁ dvibāhuñca saṁkṣepāt kathayāmi te || 272||**
-
-**dakṣiṇaṁ śāntidaṁ hasta kuryādayaṁ dayānvitam |**
-
-**vāmorddhvaṁ kārayeccakraṁ pāñcajanyaṁ tathā hyadhaḥ ||273||**
-
-** śrīpuṣṭisahitaṁ kuryāccaturbāhuṁ surottamam |**
-
-**prasāde sthāpayennityaṁ gṛhe vā maṇḍape'pi vā ||274||**
-
-**atha dvibāhuṁ taṁ devaṁ kuryādbhedadvayena tu |**
-
-**ekaṁ śāntikaraṁ hastamaparaṁ cakrabhūṣitam |**
-
-**śrīsarasvatīsaṁyutamekamāyatane nyaset ||275||**
-
-**gadācakradharaṁ vāpi dvibhujaṁ puruṣottamam | sīrapāṇisamopetamekānaṁśānvitaṁ vibhum |**
-
-**caturasrāyate dhāmni sthāpayet sarvakāmadam ||276||**
-
-**atasīpuṣpasaṅkāśaṁ pīnavakṣaḥsthalorasam |**
-
-**lāvaṇyāmbujatoyena siñcantamiva sarvataḥ ||277||**
-
-**trailokye yasya rūpeṇa na bhūto na bhaviṣyati |**
-
-**taṁ devaṁ kārayet saumyaṁ puruṣottamamuttamam ||278||**
-
-**baladevaṁ dvidordaṇḍaṁ madavibhrāntalocanam |**
-
-**lāṅgalāsaktapāṇinta muṣalodyatadakṣiṇam ||279||**
-
-**kuryādvā tasya bāhvostu śaṅkhacakrau suśobhanau |**
-
-**śaracāpadharau vāpi varaśāntipradau tathā ||280||**
-
-**kāryau bhujau mahābhāga baladevasya sattama |**
-
-**bhogān pañcāyavā sapta kuryādasya tvanantavat ||281||**
-
-**ekānaṁśāntayormadhye kārayet saumyarūpiṇīm |**
-
-**varadāṁ padmahastāṁ vā dakṣiṇena bhujena tu ||282||**
-
-**śroṇistha-vāmahastāṁ tu kuryādbhadrāṁ sureśvarīm |**
-
-**evaṁ te dvibhujo viṣṇuḥ kathitaḥ sarvakāmadaḥ ||283||**
-
-**baladevena sahito bhadrayā ca samanvitaḥ |**
-
-**devasya dakṣiṇe pārśva subhadrāṁ viniveśayet |**
-
-**tataḥ pare madākrāntalocanaṁ sthāpayedbalam ||284||**
-
-**atha viśvarūpalakṣaṇam**
-
-**kiñca—**
-
-**viṁśadbāhuṁ viśvarūpaṁ kuryāttallakṣaṇaṁ śṛṇu |**
-
-**cakraṁ khaḍgañca muṣalamaṅkuśaṁ paṭṭiśaṁ tathā ||285||**
-
-**mudgarañca tathā pāśaṁ śaktiṁ śūlaṁ śaraṁ tathā |**
-
-**dakṣiṇeṣu pradadyādvai vāmeṣu śṛṇu sāmpratam ||286||**
-
-**śaṅkha śārṅgaṁ gadāṁ pāśaṁ tāmara lāṅgalaṁ tathā |**
-
-**paraśuṁ churikāṁ daṇḍaṁ carmaprakṣepaṇaṁ tathā ||287||**
-
-**nṛsiṁhoktaṁ paraṁ mānaṁ viśvarūpasya kīrtitam |**
-
-**caturmukhaṁ dakṣiṇe'sya trinetraṁ vāmato nyaset |**
-
-**stuvanto munayaḥ kāryā vidravanto niśācarāḥ ||288||**
-
-**atha jalaśāyimūrtilakṣaṇam**
-
-**vāmapārśvena śayitaṁ kārayejjalaśāyinam |**
-
-**śeṣaparyaṅkagaṁ devaṁ caturbāhuṁ janārdanam ||289||**
-
-**śriyā dhṛtaikacaraṇaṁ sarvālaṅkārabhūṣitam |**
-
-**devībhirvimalādyabhiḥ sevyamānamiyastataḥ |**
-
-**nābhyutthapaṅkajārūḍhapitāmahasamanvitam ||290||**
-
-**atha lakṣmīmūrtilakṣaṇam**
-
-**kiñca—**
-
-**aṣṭatālā tu kartavyā devī lakṣmīḥ sureśvarī |**
-
-**tatkramaṁ saurakāṇḍe tu kathayiṣye tavānagha ||291||**
-
-**navatālikakṣetrāṁ tu kathyamānāmitaḥ śṛṇu |**
-
-**bhruvau yavādhike kārya yavahīnā tu nāsikā ||292||**
-
-**golokenādhikaṁ vaktramūrddhvatiryagvivarjitam |**
-
-**āyate nayane kārya tribhāgonairyavaistribhiḥ ||293||**
-
-**tadarddhena tu vaipulyaṁ netrayoḥ parikalpayet |**
-
-**karṇapāśo'dhikaḥ kāryaḥ sṛkkaṇyā samasūtrataḥ ||294||**
-
-**namraṁ kalāvihīnaṁ tu kuryādaṁsadvayaṁ sadā |**
-
-**grīvā sārddhakalā kāryā tadvistāropaśobhitā ||295||**
-
-**netra vinā tu vistāre ūrū jānū ca piṇḍike |**
-
-**aṅghripṛṣṭhe sphice kaṭyāṁ yathāyogyaṁ prakalpayet ||296||**
-
-** saptāṁśonāstathāṅgulyo dairghyaṁ viṣkambhanāhatam |**
-
-**netraikarvarjitāyāmā jaṅghorū ca tathā kaṭiḥ ||297||**
-
-**madhyaṁ pārśvaṁ na tadvṛttaṁ ghanapīnaṁ kucadvayam |**
-
-**tālamātrau stanau kāryo kaṭiḥ sārddhakalādhikā |**
-
-**śeṣamanyadyathoddiṣṭaṁ lakṣmīśceyaṁ prakīrtitā ||298||**
-
-** sarvābharaṇasampannā madhye kṣāmā stanonnatā |**
-
-**śroṇītaṭasuviratīrṇā kāryā devī sureśvarī ||299||**
-
-**dvibhujā kambugrīvā ca viśālākṣī sulakṣaṇā |**
-
-**stanau samunnatī kāryo kañcukenāvaguṇṭhitau ||300||**
-
-**nāgahastopamau bāhu ūrū rambhāsamau śubhau |**
-
-**nānāratnojjvalaṁ paṭṭaṁ devyāḥ śirasi dāpayet ||301||**
-
-**nānāratnojjvalā devyā mekhalā śroṇīsaṁyutā |**
-
-**yuktā divyena hāreṇa keyūramukuṭojjvalā ||302||**
-
-**padmāsanā prakartavyā padmaśrīphalapāṇikā |**
-
-**dakṣiṇe puṇḍarīkantu vāmahaste tu śrīphalam ||303||**
-
-**sthitā vā tribalībhaṅgaśobhitā ca praśasyate |**
-
-**striyau pārśvadvaye kārya same cāmarahastike ||304||**
-
-**bhṛṅgārahastau dvau nāgau snapayantau śriyaṁ sthitau |**
-
-**śrīriyaṁ lakṣaṇopetā sthāpitā sarvakāmadā ||305||**
-
-**atha śrīgaruddhamūrtilakṣaṇam**
-
-**khageśasya pravakṣyāmi tava rūpaṁ suśobhanan |**
-
-**naratulyaṁ bhavedgātraṁ nāsikā kañcukānvitā ||306||**
-
-**ṣaḍaṅgulocchrayā samyak cañcurūpeṇa kalpitā |**
-
-**mastake sundaraṁ keśaṁ netre caivāsya vartule ||307||**
-
-**āpatau dvibhujau cāsya pakṣau kāryau suśobhanau |**
-
-**skandhapradeśasaṁlagna-jaladagni-samaprabhau ||308||**
-
-**pādayornakharāḥ kāryo sarpamaṇḍalamaṇḍitāḥ |**
-
-**nūpurau tasya dvau nāgau keyūrau padmakambalau ||309||**
-
-**kaṭideśe'sya kulikaḥ paridhānasya veṣṭhanaḥ |**
-
-**vṛścikaiḥ karṇikā kāryā garuḍasya mahātmanaḥ ||310||**
-
-**devasya purataḥ syāpyo yaṣṭyāṁ vā maṇḍape'thavā |**
-
-**prāsādasya pramāṇena kāryo garuḍamaṇḍapaḥ |**
-
-**yaṣṭyāḥ samucchrayaḥ kāryaḥ prāsādāyāmato'ddhataḥ ||311||**
-
-**kiñca—**
-
-**sarveṣāmeva devānāṁ viṣṇuktaṁ mānamucyate |**
-
-**devīnāmapi sarvāsāṁ lakṣmyuktaṁ mānamucyate |**
-
-**kiṅkarādyāśca kartavyāḥ saptasaṁsthānasaṁyutāḥ ||312||**
-
-**atha śrīmūrtyaṅgādhikyādidoṣāḥ**
-
-**matsye—**
-
-**nādhikāṅgī na hīnāṅgī kartavyā devatā kvacit |**
-
-**svāminaṁ ghātayatyunā karālavadanā tathā ||313||**
-
-**adhikā śilpinaṁ hanyāt kṛśā caivārthanāśinī |**
-
-**kṛśodarī tu durbhikṣaṁ nirmāṁsā dhananāśinī ||314||**
-
-**vakranāsā tu duḥkhāya saṁkṣiptānī bhayaṅkarī**
-
-**cipiṭā duḥkhaśokāya anetrā netranāśinī ||315||**
-
-**duḥkhadā hīnavaktrā tu pāṇipādakṛśā tathā |**
-
-**hīnāṁśā hīnajaṅghā ca bhramonmādakarī nṛṇām ||316||**
-
-**śuṣkavaktrā tu rājānaṁ kaṭihīnā ca yā bhavet |**
-
-**pāṇipādavihīnāghāṁ jāyate narako mahān ||317||**
-
-**jaṅghāhīnā tu yā tvarcā śatrukalyāṇakāriṇī |**
-
-**putramitravināśāya hīnā vakṣaḥsthale tu yā |**
-
-**sampūrṇāvayavā yā tu āyarlakṣmīpradā sadā ||318||**
-
-**vārāhyām—**
-
-**nṛpabhayamatyaṅgāyāṁ hīnāṅgāyāmalpakatā kartuḥ |**
-
-**śātodaryāṁ kṣudbhayamarthavināśaḥ kṛśāṅgāyām |**
-
-**maraṇaṁ tu kṣatāyāṁ śastra-nipātena nirdiśet kartuḥ ||319||**
-
-**vāme vinatā patnīṁ dakṣiṇavinatā hinastyāyuḥ |**
-
-**andhatvamūrddhvadṛṣṭyāṁ karoti cintāmadhomukha dṛṣṭiḥ ||320||**
-
-**kiñca śrīprahlādokte purāṇodvāre'pi—**
-
-**surārcāṁ lakṣaṇairhīnāṁ yastu pūjayate naraḥ |**
-
-**tasyānnaṁ nābhigṛhṇanti tasmāttāṁ parivarjayet ||321||**
-
-**atha dravyamedena śrīmūrtibhavaḥ**
-
-**mātsye—**
-
-**citrajā caiva lepyā ca śastrotkīrṇā ca pākajā |**
-
-**paṭe kuḍye ca pātre ca citrajā pratimā smṛtā ||322||**
-
-**lepyā tu pārthivī jñeyā lohajā pākajā matā |**
-
-**śailajā vṛkṣajā caiva śastrotkīrṇā ca kīrtitā ||323||**
-
-**caturddhā dravyabhedena pratimā parikīrtitā ||324||**
-
-**śrīhayaśīrṣapañcarātre—**
-
-**mṛnmayī dārughaṭitā lohajā ratnajā tathā |**
-
-**śailajā gandhajā caiva kausumī saptamī smṛtā ||325||**
-
-**kausumī ratnajā caiva mṛnmayī pratimā hitā |**
-
-**tatkālapūjitāścaitāḥ sarvakāmaphalapradāḥ ||326||**
-
-**kiñca—**
-
-**bhāgyadā śailajā syācca svarṇajā puṣṭidā bhavet |**
-
-**sukhapradā syānmaṇijā rājatī kīrtidā bhavet ||327||**
-
-**tāmrajā dhanadā proktā śrīpradā vṛkṣajā matā |**
-
-**kausumī sukhadā proktā gandhajā bhogadā matā ||328||**
-
-**pratyagrasthāpitā vāpi mṛnmayī sarvasiddhidā ||329||**
-
-**kiñca tatraiva citrajā-pratiṣṭhā-prasaṅge—**
-
-**yāvanti viṣṇurūpāṇi surūpāṇīha lekhayet |**
-
-**tāvadyugasahasrāṇi viṣṇuloke mahīyate ||330||**
-
-**lepye citre harirnityaṁ sannidhānamupaiti hi |**
-
-**tasmāt sarvaprayatnena lepyacitragataṁ yajet ||331||**
-
-** kāntibhūṣaṇabhāvādyāścitre yasmāt sphūṭaṁ sthitāḥ |**
-
-**ataḥ sānnidhyamāyāti citrajāsu janārdanaḥ |**
-
-**tasmāccitrārcane puṇyaṁ smṛtaṁ śataguṇaṁ budhaiḥ ||332||**
-
-**citrasthaṁ puṇḍarīkākṣaṁ savilāsaṁ savibhramam |**
-
-**dṛṣṭvā vimucyate pāparjanmakoṭisusañcitaiḥ ||333||**
-
-** tasmācchubhārthibhirdhorairmahāpūṇyajigīṣayā |**
-
-**paṭasthaḥ pūjanīyastu vo nārāyaṇaḥ prabhuḥ ||334||**
-
-** iti |**
-
-**atha śilāgrahaṇam**
-
-**trikūṭādriṣu gṛhṇīyāt kiṁvā śrīparvatādiṣu |**
-
-**śilāṁ bhūmigatāṁ vātha jñātvā tallakṣaṇaṁ budhaḥ ||335||**
-
-**tathā ca tatraiva—**
-
-**suvāre sutithau yoge svarke sukaraṇānvite |**
-
-**āpūryamāṇapakṣo tu sugrahe cottarāyaṇe ||336||**
-
-**yajamānānukūle tu pratimārthaṁ vrajedguruḥ |**
-
-**śvetavastraparīdhānaḥ śvetacandanacarcitaḥ ||337||**
-
-**śvetapuṣpakṛtāpīḍaḥ śilpibhiḥ sahito guruḥ |**
-
-**nipuṇaiḥ śilpibhiḥ sarddhaṁ sahāyairbalavattaraiḥ ||338||**
-
-**nṛsiṁhaṁ pūjya vijñāpya pūjya ṭaṅkādikaṁ tataḥ |**
-
-**dhyātvā hariṁ haviḥ prāśya mantrāṅganyastavigrahaḥ ||339||**
-
-**brāhmaṇān vācayitvā tu bhaktyā maṅgaladarśanam |**
-
-**dadhidūrvā rocanāṁ vā ādarśaṁ kusumaṁ sitam ||340||**
-
-**phala;ca pūrṇakumbhañca vandayitvā vanaṁ vrajet |**
-
-**vidhyāntarīkṣabhaumāni nimittānyupalakṣayet ||341||**
-
-**yāyācchubhanimitteṣu viparīte nivartayet |**
-
-**trirācamya tataḥ prāṇān dhyāyet siṁhatanuṁ harim ||342||**
-
-**punaścāṣṭottaraṁ japtvā pātālamuṣalaṁ japet |**
-
-**gītavādyāravodghuṣṭā yātrā syāt siddhidā nṛṇām ||343||**
-
-**lakṣmīṁ dhyāyan vanaṁ yāyāt sahāyaiḥ śilpibhiḥ saha | śaṅkhakāhalaśabdaiśca puṇyāhajayamiśritaiḥ ||344||**
-
-**ṛgyajuḥsāmasaṅghaiśca dhyāyan siṁhaṁ vanaṁ vrajet |**
-
-**prācīṁ diśamathodīcīmaiśānīṁ vā vrajedguruḥ ||345||**
-
-**bhūdharādyāstu ye pūrvaṁ saṁsthānā kathitā mayā |**
-
-**tatra gatvā samīpe ta kṛtarakṣo vanaṁ viśet ||346||**
-
-**praviśettatra yatnena śilpibhiḥ sahito guruḥ |**
-
-**nirūpayet samantāttu vṛkṣa vāpyathavā śilām ||347||**
-
-**lakṣaṇena tu mantrajño yat pūrvaṁ kathita mayā |**
-
-**ekavarṇāṁ śilāṁ dṛṣṭvā vāhyadoṣavivarjitām ||348||**
-
-**caturdikṣu samaṁ kṛtvā bhūmibhāgaṁ viśodhayet |**
-
-**plāvya toyena pūtena gomayena vilepayet ||349||**
-
-**tatraiva maṇḍapaṁ kṛtvā vāsudevaṁ tato japet | patākaistoraṇaiścitrarmaṇḍapaṁ ta vibhūṣayet ||350||**
-
-**pūjayedatha digdevān bhūtakrūrarbāliṁ haret |**
-
-**māṣaṁ haridrācūrṇañca dadhiśaktusamanvitam ||351||**
-
-**salājamāṣabhaktañca dadyāt krūrabaliṁ budhaḥ |**
-
-**viṣṇuṁ pūjya vidhānena kramaśastān prapūjayet ||352||**
-
-** vāyavyāmastramantreṇa gandhapuṣpaiḥ prapūjayet |**
-
-**vahniṁ prajvālya vidhinā mantrān santarpya pūjayet ||353||**
-
-**hutvā yathoktavidhinā śāntitoyaṁ samārabhet |**
-
-**śāntitoyaṁ tato gṛhya astreṇa prokṣayecchilām ||354||**
-
-**darbhairullekhayet paścādastramantreṇa tāṁ śilām |**
-
-**mantrairālabhya tāṁ yatnāt śuklavastreṇa veṣṭayet ||355||**
-
-**rakṣāṁ kṛtvā nṛsiṁhena darbhairācchādya pūjayet |**
-
-**gandhaiḥ puṣpaiśca naivedyairdhūpaiḥ sampūjya tāṁ śilām ||356||**
-
-**tatastu mūlamantreṇa ājyamaṣṭottaraṁ hunet |**
-
-**tataḥ pūrṇāhutiṁ dadyānmantrarājena vai guruḥ ||357||**
-
-**evaṁ santarpya sampūjya vijñāpya ca baliṁ haret |**
-
-**gandhaiḥ puṣpaistathā dhūpairdadyādbhūtabaliṁ budhaḥ ||358||**
-
-**atra ye'vasthitāḥ sattvā yātudhānāśca guhyakāḥ |**
-
-**siddhādayo vā ye cānye tān sampūjya kṣamāpayet ||359||**
-
-**atha kṣamāpaṇam**
-
-**viṣṇuvimvārthamasmākaṁ yātraiṣā keśavājñayā |**
-
-**viṣṇvarthaṁ yadbhavet kāryaṁ yuṣmākamapi tadbhavet ||360||**
-
-**anena balidānena prītā bhavatha sarvathā |**
-
-**kṣemeṇa gacchatānyatra muktvā sthānamidaṁ punaḥ ||361||**
-
-**evaṁ prabodhitāḥ sattvāḥ parituṣṭā yathāsukham |**
-
-**ācamya saṁvisva tataḥ kṛtarakṣāpuraḥsaraḥ ||362||**
-
-**caruṁ prāśya nirāhāraḥ śilpibhiḥ saha deśikaḥ |**
-
-**hariṁ vijñāpya vidhivaddevīñca kamalodbhavām ||363||**
-
-**paścime darbhaśayāyāṁ vasettāṁ rajanīṁ guruḥ |**
-
-**nirāhāraḥ sthito bhūtvā prāṇāyāmārambhakaṁ japan ||364||**
-
-**atha tatra mantraḥ**
-
-**oṁ namaḥ parvalokapitre viṣṇave prabhaviṣṇave |**
-
-**viśvāya viśvarūpāya svargādhipataye namaḥ ||365||**
-
-**āgaccha devadeveśa prapanno'smi tavāntikam |**
-
-**svapne sarvāṇi kāryāṇi hṛdisthitāni yāni me |**
-
-**oṁ hrīṁ phaṭ viṣṇave svāhā ||366||**
-
-**yadā sa paśyate vṛkṣaṁ jvalantaṁ dhūmavarjitam |**
-
-**phalitaṁ puṣpitaṁ caiva tadā siddhirna dūrataḥ ||367||**
-
-**prajvalantī śilāṁ paśyecchrayā vādhiṣṭhitāṁ śilām |**
-
-**brahmaṇādhiṣṭhitāṁ vāpi sā tadā sarvakāmadā ||368||**
-
-**śriyā juṣṭaṁ prajvayantamatha paśyati parvatam |**
-
-**tataḥ pravṛddhaśikharaṁ kāñcanadrumamaṇḍitam ||369||**
-
-**yutaṁ sarvodbhavaivṛkṣaiḥ phalapuṣpasamanvitaḥ |**
-
-**evambhūteṣa dṛṣṭeṣa svapne arcā suśobhanā ||370||**
-
-**apare'hani samprāpte kṛtarakṣaḥ kṛtāhnika |**
-
-**śastrādi vidhivat pūjya śilāṁ pūjya vidhānataḥ ||371||**
-
-**arghyaṁ dattvā śilāyāntu śastramantreṇa pūjayet |**
-
-**mantrayitvā svamantreṇa prajvalantaṁ vibhāvayet ||372||**
-
-**madhvājyāktamukhaṁ kṛtvā ātmānaṁ cintayeddharim |**
-
-**śilpinaṁ viśvakarmāṇaṁ dhyātvodavaprāṅmukho'pi vā ||373||**
-
-**śastraṁ viṣṇvātmakaṁ dhyātvā pradadyācchilpane guruḥ |**
-
-**mukhaṁ pṛṣṭhaṁ salāṅgulaṁ śilpine darśayedguruḥ ||374||**
-
-** śuklagandhānuliptāṅgaḥ śuklapuṣpādyalaṅkṛtaḥ |**
-
-**udaṅmukhaḥ prāṅmukho vā sthapatiḥ saṁyataḥ śuciḥ ||375||**
-
-**dhyātvātmadevatāṁ śilpī ṭaṅkahasto jitendriyaḥ |**
-
-**yatheṣṭaṁ śātayet paścādyacchilāntacchṛṇuṣva me ||376||**
-
-**udakśirāṁ prākśirāṁ vā tathaiveśānadiggatām |**
-
-**ūrddhvabhāgaṁ bhavet pṛṣṭhamadhobhāgaṁ bhavenmukham ||377||**
-
-** kiñcinmānādhikāṁ kṛtvā kalpayet pratimāśilām |**
-
-**kiñcinmānādhikā tyājyā vividhā yā ca piṇḍikā |**
-
-**chedayitvā samuddhṛtya caturasrāṁ tu kārayet ||378||**
-
-**anenaiva vidhānena parokṣya guṇadoṣataḥ |**
-
-**vṛkṣaṁ yatnena gṛhṇīyādvidhijño deśikottamaḥ ||379||**
-
-**samānīya rathaṁ śreṣṭhaṁ suśīlairvṛṣabhairyutam |**
-
-**rathe sthāpya śilāṁ yatnācchādayitvā tu vāsasā |**
-
-**hariṁ dhyātvā smarammantramadhyaṁ dadyāttato guruḥ ||380||**
-
-**ānīyamāne tu rathe rathāṅgaparicārakaiḥ |**
-
-**vṛṣabhe vā samutpanne animitte ca sādhakaḥ ||381||**
-
-**vaiṣṇavāgnau nṛsiṁhena tilairghṛtavimiśritaiḥ |**
-
-**hutvā cāṣṭaśataṁ samyak taddoṣeṇa vimucyate ||382||**
-
-**ānīya śaṅkhanirghoṣargītamaṅgala-nisvanaiḥ |**
-
-**prāsādasyottare bhāge kṛtvā karmakuṭīṁ guruḥ ||383||**
-
-**śilāṁ saṁsthāpya tasmiṁstu arcayitvā baliṁ haret |**
-
-**tataḥ pravartayet karma vidvān vijñaistu śilpibhiḥ ||384||**
-
-**kiñca—**
-
-**yathoktāyāṁ diśāyāṁ tu na labhyeta yadā śilā |**
-
-**tadā vidiksthitā grāhyā vidhinā yena tacchṛṇu ||385||**
-
-**samānīya śilāṁ samyak pūrvoktalakṣaṇairyutām |**
-
-**prāsādasyottare bhāge khātvā bhūmiṁ vidhānavit ||386||**
-
-**śilāṁ saṁsthāpya tatkhāte mṛdā sampūrayedguruḥ |**
-
-**samīkṛtyātha tāṁ bhūmiṁ maṇḍapaṁ tatra kārayet ||387||**
-
-**patākādhvajapatra dyairbhūṣayīta samantataḥ |**
-
-**toraṇaiḥ kadalīstambhairvitānena ca bhūṣayet ||388||**
-
-**prācyāṁ tu bhadrakaṁ likhya tatra viṣṇuṁ yajedguruḥ |**
-
-**prabālamuktāphalakairhemapuṣpaiḥ samujjvalaiḥ ||389||**
-
-**pūrvoktaṁ sakalaṁ vāpi vidhānaṁ samupācaret |**
-
-**bhūtakrūrabaliṁ dadyāt pūrvoktavidhinaiva tu ||390||**
-
-**pratīcyāṁ pūrvavidhinā homaṁ kuryādyathoditam |**
-
-**digdoṣapariśuddhyarthaṁ viśeṣāddhomamācaret ||391||**
-
-**pātālanarasiṁhena sahasraṁ vaiṣṇavānale |**
-
-**digdevānāmathāṅgānāṁ hutvā pūrṇāṁ yajedguruḥ ||392||**
-
-**tarpite mantrarāje tu digdoṣairmucyate śilā |**
-
-**tataḥ pūrvoktavidhinā kṛtvā puṣpādikaṁ guruḥ ||393||**
-
-**pūrvoktena vidhānena śiraḥpṛṣṭhādi kalpayet |**
-
-**mantrodakena saṁprokṣya śilāṁ tāṁ prokṣayedguruḥ ||394||**
-
-** digdoṣapraśamanārthaṁ gṛṣṭiṁ bhavyāṁ svalaṅkṛtām |**
-
-**suvarṇaśṛṅgasaṁyuktāṁ kāṁsyadohāṁ payasvinīm |**
-
-**tāmrapṛṣṭhīṁ sopavītāṁ dadyādraupyakharāṁ guroḥ ||395||**
-
-**toṣayīta guruṁ yatnādvastrālaṅkāraṇādibhiḥ |**
-
-**śilpinaṁ toṣayedyatnādvastrālaṅkāracandanaiḥ ||396||**
-
-**ācārye toṣite viṣṇustoṣitaḥ syānna saśayaḥ ||397||**
-
-**śilpinaṁ toṣayedevaṁ viśvakamātha pūjitaḥ |**
-
-**tataḥ karmāṇi yuñjīta sarvakāmaprado bhavet ||398||**
-
-**atha śilālakṣaṇam**
-
-**tatraiva—**
-
-**kṣārāmlasevitā yā ca nadītorasamudbhavā |**
-
-**puramadhye sthitā yā ca tathā pitṛvane sthitā ||399||**
-
-**catuṣpathe sthitā yā ca mṛcchilā pakvaṇe ca yā |**
-
-**ūṣare ca tathā madhye valmīke vāpi yā sthitā ||400||**
-
-**sūryaraśmiprataptā yā yā ca dagdhā davāgninā |**
-
-**anyakarmopayuktā yā anyadevārthanirmitā ||401||**
-
-**kravyādādyairupahatā vajyo yatnena vai śilā |**
-
-**yena kenacidānītā varjanīyā tathā śilā ||402||**
-
-**puṇyasetudbhavā grāhyā puṇyatīrthodbhavā tu yā |**
-
-**nadīparvatasaṁlagnā vṛkṣacchāyādyanāvṛtā ||403||**
-
-**nimagnā bhūtale yā ca yā'spṛṣṭā sūryaraśmibhiḥ |**
-
-**antarjaloṣitā nadyāmekavarṇā manoramā ||404||**
-
-**pāṇḍurā cāruṇā pītā kṛṣṇā śastā ca varṇinām |**
-
-**na yadā labhyate samyagvarṇināṁ varṇataḥ śilā ||405||**
-
-**varṇasyāpādane tatra juhuyāt siṁhavidyayā |**
-
-**kṛte varṇasya janane tasya varṇasya sā śubhā ||406||**
-
-**śreṣṭhavarṇā suvarṇā ca rekhā sarvasya śasyate |**
-
-**aparasya tu varṇasya śreṣṭhasya na praśasyate ||407||**
-
-**vaṇināmiha sarveṣāṁ kṛṣṇarekhā vidhīyate |**
-
-**śilānāmiha sarvāsāṁ śuklarekhā praśasyate ||408||**
-
-**rekhāṇāmiha sarvāsāṁ vyatyaye homamācaret |**
-
-**pātālanarasiṁhena sahasraṁ deśikottamaḥ ||409||**
-
-**tāpate mantrarāje tu tataḥ sā śubhadā nṛṇām |**
-
-**viparīte tu vimale vinduke hīrake tathā ||410||**
-
-**imameva vidhiṁ kuryādanyasminnāpi garhite |**
-
-**yuvā madhyā bhavedgrāhyā bālā vṛddhā ca garhitā ||411||**
-
-**sugandhā niviḍā snigdhā tathā gambhīranisvanā |**
-
-**śītalā yā ca tejāḍhyā yuveti procyate śilā ||412||**
-
-**tadrūpā śocyate madhyā kintu sā kaṭhinā bhavet |**
-
-**atimṛdvī bhavedvālā vṛddhātikaṭhinā matā ||413||**
-
-**ṭaṅkāghātā matā bālā vṛddhā lokakṣayaṅkarī |**
-
-**strīpuṁnapuṁsakañcaiva lakṣaṇenaiva lakṣayet ||414||**
-
-**utpāṭyamāne dṛśyeta tindukālātavat jvalan |**
-
-**sphuliṅgaḥ śrūyate nādaḥ kāṁsyaghaṇṭāninādavat ||415||**
-
-**mule madhye tathāgre ca puṁliṅgeti tu sā smṛtā |**
-
-**tadeva lakṣaṇaṁ yadvanmandaṁ mandaṁ pratīyate ||416||**
-
-**strīliṅgeti tadā sā ca bhinnakāṁsyadhvanistu yā |**
-
-**napuṁsaketi sā jñeyā na yatraitadvayaṁ bhavet ||417||**
-
-**puṁliṅgaiḥ pratimā kāryā strīliṅgaiḥ pādapīṭhikā |**
-
-**piṇḍikārthaṁ tu sā grāhyā dṛṣṭā yā ṣaṇḍalakṣaṇā ||418||**
-
-**liṅgānāṁ tu viparyāse pūrvoktaṁ homamācaret |**
-
-**chedane bhedane vāpi śilāgarbhaḥ samīkṣyate ||419||**
-
-**dṛśyate maṇḍalaṁ yasyāṁ sagarbhāṁ tāṁ vinirdiśet |**
-
-**maṇḍūko maṇḍale tasyā lohite nātra saṁśayaḥ ||420||**
-
-**haridrābhe bhavedgodhā kṛṣṇasarpastathā site |**
-
-**nistriṁśasadṛśe toyaṁ gṛhagodhā tu karkaśe ||421||**
-
-**ākhurharidrāvarṇe syādaruṇe saraṭastathā |**
-
-**piṅgavarṇe tu pāṣāṇaḥ padmābhe sikatā bhavet ||422||**
-
-**vṛścikaḥ sthādvicitre tu potanīle pataṅgakaḥ |**
-
-**pārāvatābhe khadyotaṁ maṇḍale tu vinirdiśet ||423||**
-
-**akalpanā tu maṇḍūke daurbhāgyaṁ godhayā bhavet |**
-
-**sarpa viṣeṇa maraṇamativṛṣṭistathā jale ||424||**
-
-**dhanahānistu godhāyāma khunāniṣṭhamudbhavet |**
-
-**alpāyuṣṭvaṁ tu saraṭe pāṣāṇe vidyuto badhaḥ ||425||**
-
-**bālukāyāmanāvṛṣṭiḥ kalaho vṛścike bhavet |**
-
-**raṣṭrocchittistu śalabhe khadyote gātrasaṁkṣayaḥ ||426||**
-
-**tasmāt parīkṣya yatnena śilāṁ gṛhṇīta deśikaḥ |**
-
-**sagarbhayā tu śilayā rūpakaḥ kriyate yadi ||427||**
-
-**taddeśe mriyate rājā yajamāno'tha deśikaḥ |**
-
-**śilāyāmapi vṛkṣeṣu yatnādgarbhaṁ samīkṣayet ||428||**
-
-**atha śilpi-kṛtyam**
-
-**matsye—**
-
-**vivikte saṁvṛte sthāne sthapatiḥ saṁyatendriyaḥ |**
-
-**pūrvavat kāladeśajñaḥ śāstrajñaḥ śuklabhūṣaṇaḥ ||429||**
-
-**prayato niyatāhāro devatādhyānatatparaḥ |**
-
-**yajamānānukūlyena vidvān karma samācaret ||330||**
-
-**dhṛtvā pūrvamukhaṁ dravyamathavā cottarāmukham |**
-
-**dadhidūrvākṣataiḥ pūjya tadārambhe baliṁ haret ||431||**
-
-**pūrvavadbrahmaghoṣādyaiḥ sthāpayeddravyamācaret ||432||**
-
-** śuklairgandhaiśca puṣpaiśca dravyaṁ sampūjya bhaktitaḥ |**
-
-**svastivācanakaṁ kṛtvā pratimāṁ saṁvibhājayet ||433||**
-
-**atha piṇḍikālakṣaṇam**
-
-**hayaśīrṣapañcarātre—**
-
-**ataḥparaṁ pravakṣyāmi piṇḍikālakṣaṇaṁ tava ||434||**
-
-**ucchrāya pratimārddhañca dairghyeṇa pratimā samā |**
-
-**catuḥṣaṣṭiṁ puṭān kṛtvā piṇḍikāṁ tantra kalpayet ||435||**
-
-**tyaktvā paṅktidvaya cādhastadūrddhvaṁ yattu koṣṭhakam |**
-
-**samastamubhayoḥ pārśvaṁ antasthaṁ parimārjayet ||436||**
-
-** ūrddhvapaṅktidvayaṁ kṛtvā avastādvarṇakoṣṭakam |**
-
-**antaḥ thaṁ mārjayedyatnāt pārśvayaṁ rubhayoḥ samam |**
-
-**tayormadhyagatau tatra catuṣkau mārjayettataḥ ||437||**
-
-**caturdhā bhājayitvā tu ūrddhvapaṅktidvayaṁ budhaḥ |**
-
-**mekhalābhāgamātraṁ syāt khātaṁ tasyārddhamānataḥ ||438||**
-
-**bhāgaṁ bhāgaṁ parityajya pārśvayorubhayoḥ samam |**
-
-**dattvā caikaṁ padaṁ bāhye pramāṇaṁ kārayedbudhaḥ ||439||**
-
-**tribhāgena ca bhāgaḥ syādagre syāttoyadigagataḥ |**
-
-**nānāprakārabhedena bhadreyaṁ piṇḍikā śubhā ||440||**
-
-**kiñca tatraivāgre—**
-
-**dairghyeṇa pratimā tulyā tadarddhena tu vistṛtā |**
-
-**ucchritāyāmato'rddhena suvistarārddhabhāgataḥ ||441||**
-
-**tribhāgena tu bāhulyaṁ tastribhāgena mekhalā |**
-
-**khātaṁ ca tat pramāṇaṁ tu kiñciduttaratonnatam ||442||**
-
-**vistārasya caturthena pramāṇasya vinirṇayaḥ |**
-
-**samaṁ mūlasya vistāramagre kuryāttadarddhataḥ ||443||**
-
-**vistārasya tṛtīyena toyamārgantu kārayet |**
-
-**piṇḍikārddhena vā tulyaṁ dairghyaṁ kuśasya kīrtitam ||444||**
-
-** kuśabāhulyadairghyeṇa jñātvā sūtra prakalpayet |**
-
-**ucchrāyaṁ pūrvavat kuryādbhāgaśeṣeṇa saṁkhyayā ||445||**
-
-**adhastasya dvibhāgantu kaṇṭhaṁ kuryāttribhāgakam |**
-
-**śeṣā hyekaikaśaḥ kāryāḥpratiṣṭhā nirgatāstathā ||446||**
-
-**ṣaṣṭikā piṇḍikā ceyaṁ sāmānyapratimāsu ca |**
-
-**prāsāda-dvāramānena pratimā-dravyamucyate ||447||**
-
-**gajabālakasayuktā prabhā syāt pratimāsu ca |**
-
-**piṇḍikāsu yathāśobhaṁ kartavyā satataṁ hareḥ ||448||**
-
-**mātsye—**
-
-**piṇḍikālakṣaṇaṁ vakṣye yathāvadanupūrvaśaḥ |**
-
-**pīṭhocchrāyaṁ yathāvacca bhāgān ṣoḍaśakārayet ||449||**
-
-**bhūmāvekaḥ pratiṣṭhaḥ syāccaturbhijaṁgatī matā |**
-
-**vṛtto bhāgastathaikaḥ syādvṛttapaṭṭastu bhāgataḥ ||450||**
-
-**bhāgaistribhistathā kaṇṭhaḥ kaṇṭhapaṭṭastribhāgataḥ | bhāgābhyāmūrddhvapaṭṭastu śeṣabhāgena paṭṭikā ||451||**
-
-**praviṣṭaṁ bhāgamekaika jagatī yāvadeva tu |**
-
-**nirgamastu punastasmādyāvadvai śeṣapaṭṭikāḥ ||452||**
-
-**vārinirgamanārthantu tatra kāryaḥ praṇālakaḥ |**
-
-**poṭhikānāṁ tu sarvāsāmetat sāmānyalakṣaṇam ||453||**
-
-**viśeṣāddevatābhedāt śṛṇudhvaṁ dvijasattamāḥ |**
-
-**sthaṇḍilā vātha vāpī ca yakṣī vedī ca maṇḍalā ||454||**
-
-**pūrṇacandrā ca vajrā ca padmā cārddhaśaśīstathā |**
-
-**trikoṇā daśamī tāsāṁ saṁsthānañca nibodhata ||455||**
-
-**sthaṇḍilā caturastrā tu varjitā mekhalādibhiḥ |**
-
-**vāpī dvimekhalā jñeyā yakṣī caiva trimekhalā ||456||**
-
-**caturasrāyatā vedī na tāṁ liṅgeṣu yojayet |**
-
-**maṇḍalā vartulā yā tu mekhalā triguṇā priyā ||457||**
-
-**raktā dvimekhalā madhye pūrṇacandrā prakīrtitā |**
-
-**mekhalātrayasaṁyuktā ṣaḍasrā vajrikā bhavet ||458||**
-
-**ṣoḍaśāstrā bhavet padmā kiñcit hrasvā ca mūlataḥ |**
-
-**tathaiva dhanurākārā sārddhacandrā praśasyate ||459||**
-
-**triśūlasadṛśo tadvat trikoṇā ūrddhvato matā |**
-
-**prāgudakpravaṇā tadvat praśastā lakṣaṇānvitā ||460||**
-
-**pariveṣāstribhāgena nirdeśaṁ tatra kārayet |**
-
-**vistāra tatpramāṇaṁ tu mūle cāgre tathorddhvataḥ ||461||**
-
-**jalamārgastu kartavyastribhāgena suśobhanaḥ |**
-
-**liṅgasyārddhatribhāgena sthaulyena samadhiṣṭhitaḥ ||462||**
-
-**mekhalā tu tribhāgena khātaṁ vai tatpramāṇataḥ |**
-
-**athavā pādahīnaṁ tu śobhanaṁ kārayet sadā ||463||**
-
-**uttarasthaṁ pramāṇantu pramāṇādadhikaṁ bhavet | **
-
-**sthaṇḍilāyāmathārogyaṁ dhana-dhānyañca puṣkalam ||464||**
-
-**gopradā tu bhavedyakṣī vedī sampatpradā bhavet |**
-
-**maṇḍalāyāṁ bhavet kīrtirvaradā pūrṇacandrikā ||465||**
-
-**ayupradā bhavedvajrī padmā saubhāgyadāyinī |**
-
-**putradā tvarddhacandrā syāttrikoṇā śatrunāśinī ||466||**
-
-**devasya yajanārthaṁ tu piṇḍikā daśa kīrtitāḥ |**
-
-**śaile śailamayīṁ piṇḍīṁ pārthive pārthivīṁ tathā ||467||**
-
-**dāruje dārujāṁ kuryānmiśre miśrāṁ tathaiva ca |**
-
-**nānyayonistu kāryā vai sadā śubhaphalepsubhiḥ ||468||**
-
-**arcāyāma-samaṁ dairghyaṁ liṅgāyāma-samaṁ tathā |**
-
-**yasya devasya yā patnī tāṁ pīṭhe parikalpayet |**
-
-**evameva samārakhyātaṁ samāsāt pīṭhalakṣaṇam ||469||**
-
-**kiñca—**
-
-**dvārocchrāyasya yanmānamaṣṭadhā tattu kārayet |**
-
-**bhāgadvayena pratimāṁ tribhāgīkṛtya tat punaḥ |**
-
-**piṇḍikā bhāgataḥ kāryā nātinīcā na cocchuritā ||470||**
-
-**śrīnāradapañcarātre ca—**
-
-**vimbamānādyathā pīṭhaṁ kuryāddevasya tacchṛṇu |**
-
-**caturastrañca tadviddhi caturasrāyataṁ tu vā ||471||**
-
-**vimbocchrāya-samaṁ pīṭhaṁ paritaścaiva vistṛtam |**
-
-**tadarddhanonnataṁ kurya detat sāmānyalakṣaṇam ||472||**
-
-**caturasrasya pīṭhasya kathitaṁ tu mahāmune |**
-
-**caturasra yatasyātha pramāṇamavadhāraya ||473||**
-
-**vimbāddhīnantu vistīrṇaṁ tatpramāṇena connatam |**
-
-**samaṁ devasya dairghyaṁ vā caturasrāyataṁ tu tat ||474||**
-
-**kārya tuṅgālayasthānāṁ devatānāṁ mahāmune |**
-
-**calānāṁ veśmasaṁsthānāṁ vimbānāṁ pīṭhamanyathā ||475||**
-
-** kuryādvimbasamaṁ dairghyaṁ svena mānena vā punaḥ |**
-
-**āpādajānuhuryanta vistāreṇocchrayeṇa ca ||476||**
-
-**ūrvarddhenāthavā kuryāt savistāra dvijonnatim |**
-
-**vakṣo'ntare vā vimbasya tasyārddhena ca vistṛtam ||477||**
-
-**taccaturbhāgahīnaṁ tu tribhāgaṁ cārddhameva vā |**
-
-**aṅga tvaṁ viddhi tat pīṭhaṁ calavimbasya sarvadā ||478||**
-
-**dhātudravyasya cābhāvāt sthirāṇāmekameva ca |**
-
-**kṛtvā tu tadadhaḥ kuryādupapīṭha pramānataḥ ||479||**
-
-**tribhāgenātha pīṭhasya pramāṇaṁ madhyato bhavet |**
-
-**tanmānena tato dairghya svamānāgrataḥ punaḥ ||480||**
-
-**tryaṁśamānena vistīrṇaṁ tasyāpi tryaṁśamantarā |**
-
-**nikhanedagrato mūlāt tat kuryānmakarānanam ||481||**
-
-** ityādi |**
-
-**iti śrīgopālabhaṭṭa-vilikhite śrībhagavadbhaktivilāse śrīmūrtiprādurbhāvo nāmāṣṭādaśo vilāsaḥ |**
+तथा च श्री-मत्स्य-पुराणे—
+> स्वकीयाङ्गुल-मानेन मुखं स्याद् द्वादशाङ्गुलम् । 
+> प्रतिभा-मुख-मानेन सम-भागान् प्रकल्पयेत् ॥ 
+> चतुरङ्गुला भवेद् ग्रीवा भागेन हृदयं पुनः । 
+> नाभिस् तस्माद् अधः कल्प्या भागेनैकेन शोभना ॥ 
+> निम्नत्वे विस्तरत्वे च अङ्गुलत्वं प्रकीर्तितम् । 
+> नाभेर् अधस् तान् मेढ्रं तु भागेनैकेन कल्पयेत् ॥ 
+> त्रिभागेनायताव् ऊरू जानुनी चतुरङ्गुले । 
+> जङ्घे द्विभागे विख्याते पादौ च चतुरङ्गुलौ ॥ 
+> चतुर्दशाङ्गुलस् तद्वन् मौलिर् अस्य प्रकीर्तितः । 
+> ऊर्ध्व मानम् इदं प्रोक्तं पृथूत्वं च निबोधत ॥ 
+> सर्वावयवमानेषु विस्तारं शृणुत द्विजाः । 
+> चतुर्-अङ्गुलं ललाटं स्याद् उर्ध्वं नासा तथैव च ॥ 
+> द्व्यङ्गुलं तु हनु ज्ञेयम् ओष्ठश् चाङ्गुल-सम्मितः । 
+> अष्टाङ्गुलं ललाटं तु तावन्-मात्रे भ्रुवौ मते । 
+> अर्धाङ्गुला भ्रुवोर् लेखा मध्ये धनुर् इवोन्नता । 
+> उन्नताग्रा भवेत् पार्श्वे श्लक्ष्णा तीक्ष्णा प्रशस्यते ॥ 
+> अक्षिणी द्व्यङ्गुलायामे तद्-अर्धं चैव विस्तरे । 
+> उन्नतोदर-मध्ये तु रक्तान्ते शुभ-लक्षणे ॥ 
+> तारका तत्-त्रिभागेन दृष्टिः स्यात् पञ्च-भागिका । 
+> द्व्यङ्गूलं तू भ्रुवोर् मध्यं नासामूल-मथाङ्गूलम् ॥ 
+> नासाग्र-विस्तरं तद्वत् सु-पुट-द्वयम् उत्तमम् । 
+> नासापुटविलं तद्वद् अर्धाङ्गुलम् उदाहृतम् ॥ 
+> कपोले द्व्यङ्गुले तद्वत् कर्णमूलाद् विनिःसृते । 
+> हन्व्-अग्र-मण्डलं तद्वद् विस्तारात् द्व्यङ्गुलं भवेत् ॥ 
+> अर्धाङ्गुला भ्रुवो राजी मृणाल-सदृशी मता । 
+> अर्धाङ्गूल-समस् तद्वद् उत्तरौष्ठस् तु विस्तरे ॥ 
+> निष्पाव-सदृशं तद्वन् नासापुटदलं भवेत् । 
+> सृक्कणी योनि-तूल्ये तू कर्ण-मूलात् षड्-अङ्गुले । 
+> कर्णौ तु भ्रू-समौ ज्ञेयाव् ऊर्ध्वं च चतुरङ्गुलम् ॥ 
+> द्व्यङ्गुले कर्ण-पार्श्वे तु मात्राम् एकान्तु विस्तरे । 
+> कर्णयोर् उपरिष्टाच्च मस्तकं द्वादशाङ्गुलम् ॥ 
+> ललाटं पृष्ठतोऽर्धेन प्रोक्तम् अष्टादशाङ्गुलम् । 
+> षट्-त्रिंशद्-अङ्गुलश् चापि परिणाहः शिरोगतः ॥ 
+> स-केश-निचयस्यास्य द्विचत्वारिंशद्-अङ्गुलः । 
+> केशान्ताद् धनुकात् तद्वदङ्गुलानि तु षोडश ॥ 
+> ग्रीवा-मध्ये परिणाहश् चतुर्विंशतिर् अङ्गुलः । 
+> अष्टाङ्गुला भवेद् ग्रीवा पृथुत्वेन विशिष्यते ॥ 
+> स्तन-ग्रीवान्तरं प्रोक्तम् एकतालं स्वयम्भुवा । 
+> स्तनयोर् अन्तरं तद्वद् द्वादशाङ्गुलम् इष्यते ॥ 
+> स्तनयोर् मण्डलं तद्वद् द्व्यङ्गुलं परिकीर्तितम् । 
+> चुचुकौ मण्डलस्यान्तर्यवमात्राव् उभौ स्मृतौ ॥ 
+> द्वितालं चापि विस्तारे वक्षःस्थलम् उदाहृतम् । 
+> कक्षे षडङ्गुले प्रोक्ते बाहु-मूल-स्तनान्तरे ॥ 
+> चतुर्दशाङ्गुलौ पादाव् अङ्गुष्ठस् तत्-त्रिर् अङ्गुलः ॥ 
+> पञ्चाङ्गुल-परीणाहमङ्गुष्ठाग्रं तथोन्नतम् ॥ 
+> अङ्गुष्ठस्य समा तद्वद् आयामे स्यात् प्रदेशिनी । 
+> तस्याः षोडश-भागेन हीयते मध्यमाङ्गुली ॥ 
+> अनामिकाष्ट-भागेन कनिष्ठा चापि हीयते । 
+> पर्व-त्रयेण चाङ्गुल्योर् गुल्फौ तु द्व्यङ्गुलौ स्मृतौ । 
+> पार्ष्णि-द्व्यङ्गुलमात्रा तु कलयोच्चा प्रकीर्तिता । 
+> द्विपर्वाङ्गुष्ठकः प्रोक्तः परीणाहश् च द्व्यङ्गुलः ॥ 
+> प्रदेशिनी-परीणाहस् त्र्यङ्गुलः समुदाहृतः । 
+> अन्यासाम् अष्ट-भागेन हीयते क्रमशो द्विजाः । 
+> अङ्गुलेनोच्छ्रयः कार्यो ह्य् अङ्गुष्ठस्य विशेषतः । 
+> तद् अर्धेन तु शेषाणाम् अङ्गुलीनां समुच्छ्रयः ॥ 
+> जङ्घाग्रे परिणाहस्तु अङ्गुलानि चतुर्दश । 
+> जङ्घामध्ये परीणाहस् तथैवाष्टादशाङ्गुलः ॥ 
+> जानु-मध्ये परीणाह एकविंशतिर् अङ्गुलः । 
+> जानूच्छ्रयोऽङ्गुलः प्रोक्तो मण्डलं तु त्रिअङ्गुलम् ॥ 
+> ऊरु-मध्ये परिणाहः अष्टाविंशतिकाङ्गुलः । 
+> एक-विंशोपरिष्टाच् च वृषणौ तु त्रिरङ्गुलौ ॥ 
+> त्र्यङ्गुलं च तथा मेढ्रं परिणाहे षडङ्गुलम् । 
+> मणिवेधात् समां विद्यात् कोशरेखां तथैव च ॥ 
+> मणिकोश-परीणाहश् चतुरङ्गुल इष्यते । 
+> विस्तारेण भवेत् तद्वत् व कटिर् अष्टादशाङ्गुला ॥ 
+> द्वाविंशतिस् तथा स्त्रीणां स्तनौ च द्वादशाङ्गुलौ । 
+> नाभि-मध्ये परीणाहो द्विचत्वारिंशद्-अङ्गुलः ॥ 
+> पुरतः पञ्चपञ्चाशत् कट्याश् चैव तु वेष्टनम् । 
+> कक्षयोर् उपरिष्टाच्च स्कन्धौ प्रोक्तौ षड्-अङ्गुलौ ॥ 
+> अष्टाङ्गुलां च विस्तारे ग्रीवाञ्चैव तु निर्दिशेत् । 
+> परिणाहे तथा ग्रीवा कला द्वादश निर्दिशेत् ॥ 
+> आयामो भूजयोस् तद्वद् द्विचत्वारिंशद्-अङ्गूलः । 
+> कार्यं तु बाहु-शिखरं प्रमाणे षोडशाङ्गुलम् ॥ 
+> ऊर्ध्वं यद् बाहु-पर्वं तु विद्याद् अष्टादशाङ्गुलम् । 
+> तथैवाङ्गुलहीनं तु द्वितीयं पर्वम् उच्यते । 
+> बाहु-मध्ये परीणाहो भवेद् अष्टादशाङगुलः । 
+> षोडशोक्त-प्रबाहुस् तु षट्कलोऽग्रकरो मतः ॥ 
+> सप्ताङ्गुलं करतलं मध्यम् आङ्गुल-पञ्चका । 
+> अनामिक मध्यमायाः सप्त-भागेन हीयते ॥ 
+> तस्यास् तु पञ्च-भागेन कनिष्ठा परिहीयते । 
+> मध्यमायास् तु हीना वै पञ्च-भागेन तर्जनी । 
+> अङ्गुष्ठस् तर्जनी-मूलाद् अधः प्रोक्तस् तु तत्-समः ॥ 
+> अङ्गुष्ठ-परिणाहस् तु विज्ञेयश् चतुरङ्गुलः । 
+> शेषाणाम् अङ्गुलीनां तु भागो भागेन हीयते ॥ 
+> मध्यमामध्यपर्वं तु अङ्गुल-द्वयम् आयतम् । 
+> यवो यवस् तु सर्वासां तस्यां तस्यां प्रहीयते । 
+> अङ्गुष्ठ-मध्य-पर्वं तु तर्जन्या सदृशं भवेत् । 
+> यव-द्वयाधिकं तद्वद् अग्रपर्वम् उदाहृतम् ॥ 
+> पर्वार्धेन नखान् विद्याद् अङ्गुलीषु समं ततः । 
+> स्निग्धं श्लक्ष्ण प्रकुर्वीत ईषद् रक्तं नख-व्रजम् ॥ 
+> निम्न-पृष्ठं भवेन् मध्ये पार्श्वतः कलयोच्छ्रितम् । 
+> चतुर्दशाङ्गुलायामम् उदरं तासु निर्दिशेत् । 
+> तथैव केशवल्लर्यः स्कन्धोपरि दशाङ्गुलाः ॥ 
+> स्त्रियः कार्याश् च विद्वद्भिः स्तनोर् उजघनाधिकाः । 
+> नानाभरण-सम्पन्नाः किञ्चिद् ध्रस्व भूजाः शुभाः ॥ 
+> किञ्चिद् दीर्घ भवेद् वक्त्रम् अलकावलिर् उत्तमा । 
+> नासा ग्रीवा ललाटं च सार्धमासान् त्रयङ्गुलम् । 
+> अध्यर्धां अङ्गुल-विस्तारः शस्यतेऽधर-पल्लवः । 
+> अधरात् नेत्र-युग्मं तु चतुर्-भागेन निर्दिशेत् ॥१०१॥
+
+**किञ्च—  
+ग्रीवावलिश्च कर्तव्या किञ्चिदूर्द्धाङ्गुलोच्छ्रया ॥१०२॥**
+
+ग्रीवावलिश् च कर्तव्या किञ्चिद् अर्धाङ्गुलोच्छ्रया ॥१०२॥
+
+**एवं नारीषु सर्वासु देवानां प्रतिमासु च ।  
+नवतालमिदं प्रोक्तं लक्षणं पापनाशनम् ॥१०३॥**
+> एवं नारीषु सार्वासु देवानां प्रतिमासु च । 
+> नवतालम् इदं प्रोक्तं लक्षणं पापनाशनम् ॥ 
+
+श्री-हयशीर्ष-पञ्चरात्रे श्री-भगवद्-ब्रह्म-संवादे—
+> अतः परं प्रवक्ष्यामि प्रतिमा-लक्षणं परम् ।
+> यन् न कस्यचिद् आख्यातं गुह्याद् गुह्यतरं पदम् ॥
+> अभिप्रेत-प्रमाणं तु नवधा प्रविभाजयेत् ।
+> नवमे भास्करैर् भक्ते भागं स्वाङ्गुलम् उच्यते ॥
+> द्व्यङ्गुलं गोलोकं नाम्ना कला नेत्रान्तम् उच्यते ।
+> भागम् एकं त्रिधा भक्त्वा पार्ष्णिभागं प्रकल्पयेत् ॥
+> भागम् एकं तथा जानौ ग्रीवायां भागम् एव च ।
+> मुकुटं ताल-मात्रं स्यात् ताल-मात्रं तथा मुखम् ॥
+> ताल-मात्रेण कण्ठं तु तालेन हृदयं तथा ।
+> नाभि-मेढ्रान्तरं तालं द्वितालाव् ऊरुकौ तथा ॥
+> ताल-द्वयेन जङ्घा तु सूत्राणि शृणु साम्प्रतम् ।
+> कार्यं सूत्र-द्वयं पादे जङ्घा-मध्ये तथा परम् ॥
+> जानौ सूत्र-द्वयं कार्यम् ऊरु-मध्ये तथा परम् ।
+> मेढ्रे तथा परं कार्यं कट्यां सूत्रं तथा परम् ॥
+> मेखला-बन्ध-सिद्ध्यर्थं नाभ्यां चैव परं तथा ।
+> हृदये च तथा कार्यं कण्ठे सूत्र-द्वयं तथा ॥
+> ललाटे चापरं कार्यं मस्तके च तथा परम् ।
+> मुकुटोपरि कर्तव्यं सूत्रम् एकं विचक्षणैः ॥
+> सूत्राण्य् अर्धं प्रदेयानि सप्तैव सुरसत्तम ।
+> कक्षात् त्रिकान्तरेणैव कण्ठ-सूत्राणि दापयेत् ॥
+> मध्य-सूत्राणि सन्त्यज्य सूत्राण्य् एवं निवेशयेत् ।
+> ललाट-नासिवावक्त्रं कर्तव्यं चतुरङ्गुलम् ॥
+> ग्रीवा-कर्णं तु कर्तव्यम् आयामाच् चतुरङ्गुलम् ।
+> द्व्यङ्गुले हनुके कार्ये विस्ताराच् चिबुकं तथा ॥
+> अष्टाङ्गुलं ललाटं तु विस्तारेण प्रकीर्तितम् ।
+> परेण द्व्यङ्गुलौ शङ्खौ कर्तव्यावलकान्वितौ ॥
+> चतुरङ्गुलम् आख्यातम् अन्तरं कर्ण-नेत्रयोः ।
+> द्व्यङ्गुलौ पृथुकौ कर्णौ कर्णार्धार्धं च पञ्चमे ॥
+> भ्रू-समेन तु सूत्रेण वर्ण-सूत्रं प्रकीर्तितम् ।
+> विद्धं षड्-अङ्गुलं कर्णम् अविद्धं चतुरङ्गुलम् ॥
+> चिबुकेन समं विद्धम् अविद्धं वा षड्-अङ्गुलम् ।
+> खड्ग-पात्रं तथा रक्तं शष्कुलीं कल्पयेत् तथा ॥
+> अङ्गुलेनाधरः कार्यस् तस्यार्धेनोत्तराधरः ।
+> अर्धाङ्गुलं तथा गुल्फं वक्त्रं तु चतुरङ्गुलम् ॥
+> आयामेन तु वैपुल्यं सार्धम् अङ्गुलम् उच्यते ॥
+> अव्यात्तम् एव स्याद् वक्त्रं व्यात्तं द्व्यङ्गुलम् उच्यते ॥
+> नासावंश-समुच्छ्रायं मूले त्व् एकाङ्गुलं मतम् ।
+> उच्छ्रिता द्व्यङ्गुलं चाग्रे करवीरोपमा स्मृता ॥
+> अन्तरं चक्षुषोः कार्यं चतुरङ्गुलमानतः ।
+> द्व्यङ्गुलं चाक्षिकोषं तद्द्व्यङ्गुलं चान्तरन्तयोः ॥
+> तारा नेत्र-त्रिभागेन दृक्तारा पञ्चमांशिका ।
+> अङ्गुलं नेत्रविस्तारं द्रोणी चार्धाङ्गुला मता ।
+> तत्-प्रमाणा भ्रुवोर् लेखा भ्रुवौ नेत्र-समे मते ॥
+> भ्रू-मध्यं द्व्यङ्गुलं कार्यं भ्रू-दैर्घ्यं चतुरङ्गुलम् ॥
+> षट्-त्रिंशद्-अङ्गुलायामं मस्तकस्य तु वेष्टनम् ।
+> मूर्तीनां केशवादीनां द्वात्रिंशद्-वेष्टनं भवेत् ॥
+> पञ्च-नेत्राद् अधोग्रीवाद् विस्ताराद् वेष्टनं पुनः ।
+> त्रिगुणं तु भवेद् ऊर्ध्वं विस्तृताष्टाङ्गुलं पुनः ॥
+> ग्रीवा त्रिगुणमायामं ग्रीवावक्षोऽन्तरं भवेत् ।
+> स्कन्धाव् अष्टाङ्गुलौ कार्यौ त्रिकला-वंशकौ शुभौ ॥
+> सप्त-नेत्रौ स्मृतौ बाहू प्रबाहू षोडशाङ्गुलौ ।
+> त्रिकलं विस्तृतौ बाहू प्रबाहू चापि तत्-समौ ॥
+> बाहु-दण्डार्धतो ज्ञेयः परीणाहः कला नव ।
+> सप्त-दशाङ्गुला मध्ये कूर्परोर्ध्वे च षोडशी ॥
+> कूर्परस्य भवेन् नाहस् त्रिगुणः सुरसत्तम ।
+> नाहः प्रबाहु-मध्ये तु षोडशाङ्गुल उच्यते ।
+> अग्र-हस्ते परीणाहो द्वादशाङ्गुल उच्यते ॥
+> विस्तारेण करतलं कीर्तितं तु षड्-अङ्गुलम् ।
+> दैर्घ्यात् साङ्गुलं कार्यं मध्ये पञ्चाङ्गुला मता ।
+> तर्जन्य्-अनामिका चापि तस्माद् अर्धाङ्गुलं विना ॥
+> कनिष्ठाङ्गुष्ठकौ कार्यौ चतुरङ्गुल-सम्मितौ ।
+> द्विपर्वाङ्गुष्ठकः कार्यः शेषाङ्गुल्यस् त्रिपर्विकाः ॥
+> सर्वासां पर्वणोऽर्धेन नख-मानं विधीयते ।
+> वक्षसो यत् प्रमाणं च जठरं तत्-प्रमाणकम् ॥
+> अङ्गुलैकं भवेन् नाभी वेधेन च प्रमाणतः ।
+> नाभी-मध्ये परीणाहो द्विचत्वारिंशदङ्गुलैः ॥
+> अन्तरं स्तनयोः कार्यं ताल-मात्रं प्रमाणतः ।
+> चुचुकौ यवमानौ तु द्वियवं मण्डलं भवेत् ॥
+> चतुःषष्ट्य्-अङ्गुलं कार्यं वेष्टनं वक्षसः स्फुटम् ।
+> चतुर्-मुखं तु तद्-अधावेष्टनं परिकीर्तितम् ॥
+> परीणाहस् तथा कट्यां चतुः-पञ्चाशद्-अङ्गुलैः ।
+> विस्तारश् चोरुमूले तु प्रोच्यते द्वादशाङ्गुलः ॥
+> तस्माद् अभ्यधिकं मध्ये ततो निम्नतरं क्रमात् ।
+> विस्तृतोऽष्टाङ्गुलं जानु त्रिगुणं परिणाहतः ॥
+> जङ्घा-मध्ये तु विस्तारः सप्ताङ्गुल उदाहृतः ।
+> त्रिगुणः परिधिश् चास्य जङ्घाग्रं पञ्च-विस्तरात् ॥
+> त्रिगुणः परिधिश् चास्य पादौ ताल-प्रमाणकौ ।
+> आयामाद् उच्छ्रितौ पादौ चतुरङ्गुलम् एव च ॥
+> गुल्फ-पर्वं तु कर्तव्यं प्रमाणाच् चतुरङ्गुलम् ।
+> त्रिकलं विस्तृतौ पादौ द्व्यङ्गुलोऽङ्गुष्ठकः स्मृतः ॥
+> पञ्चाङ्गुलं तु नाहोऽस्य दीर्घत्वं तु प्रदेशिनी ।
+> अष्टमांशाष्टमांशोनाः शेषाङ्गुल्यः क्रमेण तु ॥
+> सपादाङ्गुलम् उत्सेधम् अङ्गुष्ठस्य प्रकीर्तितम् ।
+> पादोनम् अङ्गुलं कार्यम् अङ्गुष्ठस्य नखं सदा ॥
+> अर्धाङ्गुलं तथान्यासां क्रमाद् ऊनं तु कारयेत् ।
+> द्व्यङ्गुलौ वृषणौ कार्यौ मेढ्रं तु चतुरङ्गुलम् ॥
+> परिणाहेन कोषाग्रं कर्तव्यं चतुरङ्गुलम् ।
+> षड्-अङ्गुल-परीणाहौ वृषणौ परिकीर्तितौ ॥
+> वृषणालङ्कृता कार्या प्रसन्न-वदनेक्षणा ।
+> प्रतिमा वासुदेवस्य मानेन सुरसत्तम ॥
+
+
+
+श्री-नारद-पञ्चरात्रे श्री-भगवन्-नारद-संवादे—
+> चिबुकाच् च ललाटान्तं स्याद् वक्त्रं द्वादशाङ्गुलम् ।
+> ललाटाद् ऊर्ध्वतो विप्र त्र्यङुगुलं चोन्नतं शिरः ॥
+> द्वादशाङ्गुल-विस्तीर्णं त्रिगुणं परिणाहतः ।
+> विस्ताराद् द्व्यङ्गुलौ कर्णौ तन्-मात्रात् त्रिगुणोच्छ्रितौ ॥
+> कन्यकाग्र-समं विद्धि रन्ध्रं श्रोत्रस्य चान्तरम् ।
+> कर्ण-बटावधश् चोर्ध्वौ मानेनार्धाङ्गुलौ स्मृतौ ॥
+> कर्ण-च्छिद्राद् अथो बाह्ये कर्ण-मध्येऽङ्गुलो वटः ।
+> अङ्गुलाः कर्ण-पाण्योश्च पार्श्वे स्याद् वा यदृच्छया ।
+> भ्रू-लते शशिरेखेव आयामाच् चतुरङ्गुला ।
+> अर्धाङ्गुलेन वै कार्या मध्य-स्थूलाग्रतः कृशा ॥
+> भ्रू-मध्यम् अङ्गुल-समं नासा तु चतुरङ्गुला ।
+> अस्थूला चाग्रतः कार्या तिल-पुष्पाकृतिस् तथा ॥
+> नेत्रयोर् अन्तरं ज्ञेयं त्र्यङ्गुलं नेत्रतस् तथा ।
+> दैर्घ्येण त्र्यङ्गुलं नेत्रं तद्-आयामेन चाङ्गुलम् ।
+> त्र्यंशेन तारकं मध्ये ज्योतिस् तु त्र्यंश-भागतः ॥
+> घ्राणाधश् चाङ्गुलेनैव पादहीनेन गोधिका ।
+> कल्प्यते मुनि-शार्दूल एकांशेन ततोऽधरः ।
+> उत्तराख्योऽप्य् अधःस्थश् च प्रमाणे नाङ्गुलं स्मृतम् ॥
+> द्व्यङ्गुलं चिबुकं विप्र उच्छ्रायेण प्रकीर्तितम् ।
+> विस्तारस् त्र्यङ्गुलो ज्ञेयः सृक्कणी चतुरङ्गुले ॥
+> ईषद् विहसितं तेन कर्णपाण्योः परस्परम् ।
+> कपोलम् अर्धशशिवत् तन्-मध्ये चतुरङ्गुलौ ॥
+> तौ च गण्डौ समौ कुर्यात् त्र्यंश-पूर्णौ मनोरमौ ।
+> कर्णोच्छ्रायस् त्र्यङ्गुलः स्याद् विस्तारेण तु नारद ॥
+> अष्टाङ्गुलोऽथ परिधिस् त्रिगुणः परिकीर्तितः ।
+> कण्ठावधि स्थितं वक्षो यावत् स्याद् अवधिर् मुने ।
+> उन्नतत्वेन विहितं सदैव द्वादशाङ्गुलम् ।
+> द्विगुणं तच्च विस्ताराद् द्व्यङ्गुलं स्तन-मण्डलम् ॥
+> एतयोश् चुचुकं कार्यम् अष्टमांशं स्वकाङ्गुलम् ।
+> परस्परं स्यात् स्तनयोर् अन्तरं द्वादशाङ्गुलम् ॥
+> अष्टाङ्गुलौ स्मृतावंसौ विस्तारेण महामते ।
+> प्रोन्नतत्वेन कुर्याच् च हस्त-मूलात् षड्-अङ्गुलम् ॥
+> उच्छ्रायेण तु नाभ्यन्तं कुर्याद् वै द्वादशाङ्गुलम् ।
+> कुर्यात् प्रदक्षिणावर्तनाभिं मेढ्रावधि द्विज ॥
+> उच्छ्रायेण च सम्पाद्यं सुसमं द्वादशाङ्गुलम् ।
+> नाभेर् अधस्ताद् उदरं सम्पाद्यं चतुरङ्गुलम् ॥
+> शेष स्यात् कटि-भूभागो विस्तारेणोदरं मुने ।
+> द्विसप्ताङ्गुलमानं स्यात् परिधिस् त्रिगुणः स्मृतः ॥
+> कुर्यात् प्रजननं विप्र उच्छ्रायेण षड्-अङ्गुलम् ।
+> त्रिगुणः परिमाणेन परिधिस् तु कटेः स्मृतः ।
+> त्रिषडङ्गुल-विस्तीर्णं कटिमानम् उदाहृतम् ॥
+> षड्-विंशद्-अङ्गुला विप्र परिधेस् तु कटिः स्मृता ।
+> ऊर्वोश् च जघनं विप्र उच्छ्रायेण षड्-अङ्गुलम् ॥
+> द्व्यङ्गुलेन च विस्तीर्णं वृषणौ चतुरङ्गुलौ ।
+> त्रिचतुष्कल-सम्पूर्णौ ऊरु-दण्डौ ततो द्विज ॥
+> उच्छ्रायेण च कर्तव्यं चतुर्विंशाङ्गुलं मुने ।
+> पृथु-मूलौ क्रम-क्षामौ संलग्नौ गजपाणिवत् ।
+> विस्तारेण तु कुर्वीत ऊरुमूलं षडङ्गुलम् ॥
+> षट्-त्रिंशद्-अङ्गुलं नाभाव् ऊरु-मध्यं नवाङ्गुलम् ।
+> ऊओर् अप्य् अवसाने तु वेष्टनं त्व् एकविंशतिः ॥
+> त्र्यङ्गुलं मुनिशार्दूल परितो जानु-मण्डलम् ।
+> विस्तारम् उन्नतिं चापि जानोर् अप्य् अधुना शृणु ॥
+> द्विर् द्वादशेनाङ्गुलेन जानोर् विस्तार उच्यते ।
+> षडङ्गुलेन विस्तीर्णं जङ्गामूलं प्रकीर्तितम् ॥
+> जङ्गामध्ये तथा नाभावष्टाव् अप्य् अथ विंशतिः ।
+> जङ्घावसाने विस्तारो ज्ञेयः पञ्चाङ्गुलो मुने ॥
+> तम् एव त्रिगुणी-कृत्य तस्यैव परिधिर् भवेत् ।
+> गुल्फाद् अधस् त्र्यङ्गुलः स्यात् पादोच्छ्रायस् तू नारद ।
+> पार्ष्ण्योश् च पृष्ठतो यावद् अङ्गुष्ठाग्रं द्विजोत्तम ॥
+> पादस्य तावद् दैर्घ्यं स्याद् अङ्गुलानां द्विसप्तकम् ।
+> षड्-अङ्गुलेन विततं कूर्म-पृष्ठोन्नतं क्रमात् ॥
+> चतुभिर् अङ्गुलैर् दीर्घम् अङ्गुष्ठं परिकीर्तितम् ।
+> त्रिगुणं वेष्टनं तस्य दैर्घ्यात् तस्य दशाधिका ॥
+> पाद-प्रदेशिनी कार्या तत्-समीप-स्थिताङ्गुलिः ।
+> अङ्गुष्ठस्य समा कार्या पाद-न्यूना त्व् अनामिका ।
+> अनामिकायाः पादेन हीना पादकनीयसी ।
+> त्र्यंशेन विद्धि सर्वासां पर्वमानं तु नारद ॥
+> पर्वार्धेन नखाः कार्या अर्धेन्दु-सदृशाः शुभाः ।
+> षट्-त्रिंशद्-अङ्गुलं विप्र स्कन्धात् पृष्ठ-समावधौ ॥
+> गोमुखं वा क्रमान् निम्नं यावद् अङ्गुल-विंशतिः ।
+> मध्य-प्रदेशाद् विततं पृष्ठ-वंशोन्नत-क्रमात् ॥
+> सुशुभं प्रविभक्तं च विभक्तं च तथा मुने ।
+> सुमीलितं मत्स्य-युग्मं क्षामं पञ्चाङ्गुलं मतम् ॥
+> सुवर्तुलौ स्फीतौ काय्यौ विस्तारात् षोडशाङ्गलौ ।
+> सुविभक्तौ च पीनौ च करिकुम्भोपमौ स्मृतौ ॥
+> अधस्तात् स्कन्ध-शिखराद् बाहुः स्यात् षोडशाङ्गुलः ।
+> अथो विंशाङ्गुलं विद्धि उपबाहुं द्विजोत्तम ॥
+> मणिबन्ध-प्रदेशस् तु तत्र त्र्यङ्गुल उच्यते ।
+> मध्यमाङ्गुलि-पर्यन्तं मणिबन्धावसानतः ॥
+> द्वादशाङ्गुलमानस् तु स्कन्धः स्यात् परिवर्तुलः ।
+> चतुरङ्गुल-विस्तीर्णः परिधिस् त्रिगुणो मतः ॥
+> मूलतश् चोपबाहुर् वै पञ्चाङ्गुल उदाहृतः ।
+> त्रिगुणश् च तद् उन्नाहस्तं क्रमात् क्षामयेच्छनैः ॥
+> गो-पुच्छ-सदृशं कृत्वा यथा स्यात् कलया मुने ।
+> मणिबन्ध-प्रदेशाद् धि विस्तारेणाथ वेष्टनात् ।
+> तथाङ्गुल-प्रमाणेन पाणेर् मानमतः शृणु ॥
+> मुने अङ्गुलमानात् तं विद्धि सप्ताङ्गुलं सदा ।
+> पञ्चाङ्गुल-प्रमाणेन त्रिकाद् विस्तार उच्यते ॥
+> निम्नं करतलं कुर्यात् शुभ-रेखा-विभूषितम् ।
+> तत्र मध्याङ्गुलिं विप्र विद्धि पञ्चाङ्गुलं सदा ॥
+> तस्या अप्य् अङ्गुलिः पाश्र्वे ऊना अर्धाङ्गुलेन वै ।
+> तत् पञ्चमांश-हीना च नित्यं कार्या कनीयसी ।
+> सार्ध-द्वयङ्गुलम् अङ्गुष्ठं द्विपर्व परिकीर्तितम् ॥
+> त्रिपर्वण्याश् चाङ्गुलयः पर्वार्धेन नखाः स्मृताः ॥
+> गो-पुच्छ-सदृशी कार्या अङ्गुल्योऽङ्गुल-धीमता ।
+> पाद-हीनाः कनीयस्याः सपादाश् चाङ्गुलौ क्रमात् ॥
+> स्व-प्रमाणस्य विस्तारात् त्रिगुणं विद्धि वेष्टनम् ।
+> कूर्म-पृष्ठ-नखाः सर्वे अग्रतश् चार्ध-चन्द्रवत् ॥
+> केशैर् अलकजातं तु ललाटोपरिशोभनम् ।
+> ललाटोर्ध्वाङ्गुलिच्छादि कुर्यात् त्रिवलिसंयुतम् ॥
+
+वाराह्यां च—
+> स्वैर् अङ्गुल-परीमाणैर् द्वादश-विस्तीर्णम् आयतं च मुखम् ।
+> नग्नजिता तु चतुर्दशाङ्गुल-दैर्घ्येण विस्तारितं कथितम् ॥
+> नासा-ललाट-चिबुक-ग्रीवाश् चतुरङ्गुलास् तथा कर्णौ ।
+> द्वे द्वेऽङ्गुले च हनुके चिबुकं च द्व्यङ्गुलं प्रसृतम् ॥
+> अष्टाङ्गुलं ललाटं च विस्ताराद् द्व्यङ्गलौ परौ ।
+> सङ्ख्यौ चतुरङ्गलौ च शङ्खौ कर्णौ च द्व्यङ्गुलं पृथुलौ ॥
+> कर्णोपान्तः कार्योऽर्ध-पञ्चमे भ्रू-समेन सूत्रेण ।
+> कर्ण-स्रोतः सुकुमारकं च नयन-प्रबन्ध-समम् ॥
+> चतुरङ्गुलावशिष्टं कथयति नेत्रान्त-कर्णयोर् विवरम् ।
+> अधरोऽङ्गुल-प्रमाणस् तस्यार्धेनोत्तरौष्ठश् च ॥
+> अर्धाङ्गुला तु गुल्फा वक्त्रं च चतुरङ्गुलायतं कार्यम् ।
+> विपुलं तु सार्धम् अङ्गुलम् अध्यात्तं द्व्यङ्गुलं व्याप्तम् ॥
+> त्र्यङ्गुल-तुङ्गौ नासापुटौ नासापुटाग्रतो ज्ञेयौ ।
+> सा द्व्यङ्गुलम् उच्छ्राया चतुरङ् गुलम् अन्तरं चाक्ष्णोः ।
+> द्व्यङ्गुलमितोऽक्षिकोशो द्वे नेत्रे तत् त्रिभागिका तारा ।
+> दृअतारा पञ्चांशो नेत्र-विकाशोऽङ्गुलं भवति ॥
+> पर्यन्तात् पर्यन्ता दश भ्रुवोऽर्धाङ्गुला भ्रुवोर् लेखा ।
+> भ्रू-मध्ये द्व्यङ्गुलकं भ्रू-दैर्घ्येणाङ्गुल-चतुष्कं च ॥
+> कार्यो तु केश-रेखा भ्रू-मध्य-बन्ध-समाङ्गुलार्ध-विस्तीर्णा ॥
+> नेत्रान्ते करवीरकम् उपन्यसेद् अङ्गुल-प्रमितम् ॥
+> द्वात्रिंशत् परिणाहाच् चतुर्दशायामतोऽङ्गुलानि शिरः ।
+> द्वादश तु चित्र-कर्मणि दृश्यन्ते विंशतिर् अदृश्या ॥
+> आस्यांस-केश-निचयं षोडश दैर्घ्येण नग्नजित् प्रोक्ताः ।
+> ग्रीवा दश विस्तीर्णा परिणाहाद् विंशतिः सैका ॥
+> कण्ठाद् द्वादश हृदयं हृदयान् नाभिश्च तत्-प्रमाणेन ।
+> नाभेर् मध्यान् मेढ्रान्तरं च तत्-तुल्यम् एवोक्तम् ॥
+> ऊरू चाङ्गुलमानैश् चतुर्युक्ता विंशतिस् तथा जङ्घे ।
+> जानुकपित्थे चतुरङ्गुले च पादौ तत्-तुल्यौ ॥
+> द्वादश दीर्घौष्ठा पृथुतया च पादौ त्रिकलायताङ्गुष्ठौ ।
+> पञ्चाङ्गुल-परीणाहौ प्रदेशिनी त्र्यङ्गुलं दैर्घ्य̍म् ॥
+> अष्टांशाष्टांशोनाः शेषाङ्गुल्यः क्रमेण कर्तव्याः ।
+> स्याद् द्व्यङ्गुल-समुच्छ्रायं चतुर्थ-भागम् अङ्गुलम् उत्सेधोऽङ्गुष्ठ-कस्योक्तः ॥
+> अङ्गुष्ठ-नखः कथितश् चतुर्भागोनमङ्गुलस् तज्-ज्ञैः ।
+> शेष-नखानामर्धाङ्गुल-क्रमात् किञ्चिद् ऊनं च ॥
+> जङ्घाग्रे परीणाहश् चतुर्दशोक्तस् तु विस्तारात् पञ्च ।
+> मध्ये च सप्त-विपुलाः परिणाहात् त्रिगुणिताः सप्त ॥
+> अष्टौ तु जानु-मध्ये वैपुल्यं त्र्यष्टकं तु परिणाहः ।
+> विपुला चतुर्दशोरु-मध्ये द्विगुणस् तु तत्-परिधिः ॥
+> कोटिर् अष्टादश विपुला चत्वारिंशच् चतुर्युता परिधौ ।
+> अङ्गुलम् एकं नाभिर् वेधेन तथा प्रमाणेन ॥
+> चत्वारिंशद् द्वियुता नाभी-मध्येन मध्य-परिणाहः ।
+> स्तनयोः षोडश चान्तरम् ऊर्ध्वं कक्षे षडङ्गुलके ॥
+> अष्टावंसौ द्वादश बाहु कार्यौ तथा प्रबाहू च ॥
+> बाहू षड्-विस्तीर्णौ प्रतिबाहू द्व्यङ्गुल-चतुष्कौ ॥
+> षोडश बाहु-मूले परिणाहो द्वादशाग्रहस्ते च ।
+> विस्तारेण करतलं षड्-अङ्गुलं सप्त दैर्घ्येण ॥
+> पञ्चाङ्गुलानि मध्य-प्रदेशिनी मध्य-पर्वदलहीना ।
+> अनया तुल्या चानामिका कनिष्ठा तु पर्वोना ॥
+> पर्व-द्वयम् अङ्गुष्ठः शेषाङ्गुल्यस् त्रिपर्विका ज्ञेयाः ।
+> नख-परिमाणं कार्यं सर्वासां पर्वणोऽर्धेन ।
+> देशानुरूप-भूषण-वेशालङ्कार-मूर्तिभिः कार्या ।
+> प्रतिमा लक्षण-युक्ता संविहिता बुद्धिदा भवति ॥ इति ।
+
+अतः परं सुगमम् ॥१०३॥
+
+इत्यष्टादशो विलासः ।
+
+**अथ मृण्मयेनां श्रीमूर्तिनां विशेषः श्रीहयशीर्षीये प्रतिमाप्रसङ्गे—  
+मृत्तिका वर्ण-पूर्वेण गृह्णीयुः सर्वर्णिनः ।  
+नदीतीरेऽथवा क्षेत्रे पुण्यस्थानेऽथवा पुनः ॥१०४॥**
+> **पाषाणकर्करालोहचूर्णानि समभागतः ।  
+मृत्तिकायां प्रयोज्याथ कषायेण प्रपीडयेत् ॥१०५॥  
+खादिरेणार्जुनेनाथ सर्जश्रीवेष्टकुङ्कुमैः ।  
+कोटजैरायसैः स्नेहैर्दधिक्षीरघृत्तादिभिः ॥१०६॥  
+आलोड्य मृत्तिका तैस्तैः स्थाने स्थाप्य पुनः पुनः ।  
+मासं पर्युषितं कृत्वा प्रतिमां परिकल्पयेत् ॥१०७॥  
+स्थापयेत् प्रतिमाशूलं रत्नण्यासस्य चोपरि ।  
+शूलञ्च खादिरादीनां यज्ञीयानां प्रकल्पयेत् ॥१०८॥  
+विंशोत्तरशतं शूलं कुर्याद्वा पञ्चविंशतिः ।  
+प्रतिमाङ्गुलमानेन कृत्वा संस्थापयेद्बुधः ॥१०९॥  
+चतुर्दशाङ्गुलं प्रोक्तं सपादं दलमेव वा ।  
+सप्तविंशति चाधस्तान्नाभ्युर्द्ध्वोऽर्द्धाङ्गुलं मुखम् ॥११०॥**
+> **पञ्चविंशाङ्गुलौ चोरू सार्द्धत्रिकलमस्तकम् ।  
+ऊरू स्मृते समे जङ्घेपादोच्छ्रायं सुसम्मितम् ॥१११॥  
+नेत्रद्वयं समुद्दिष्टमर्द्धाङ्गुलसमन्वितम् ।  
+द्विगोलोका भवेद्ग्रीवा चार्द्धाङ्गुल समन्विता ॥११२॥  
+भागस्य वृद्धिं वक्ष्यामि पञ्चविंशांशके तथा ।  
+अर्द्धार्द्धमङ्गुलं दद्यात् हृदयादिषु भागशः ॥११३॥  
+पञ्चविंशाङ्गुलं वक्षो विस्तारेण प्रकीर्तितम् ।  
+कटिर्विस्तारतः कार्या षोडशाष्टदशाङ्गुला ॥११४॥  
+पञ्चविंशाङ्गुलौ बाहू आयामेन प्रकीर्तितौ ।  
+तथा सप्तदश प्रोक्ता वायामेन प्रबाहुकौ । ११५॥  
+मणिबन्धः कलायामस्तस्मात्तं प्रतिमस्तकम् ।  
+आयामो मध्यमायास्तु षडङ्गुल इति स्मृतः ॥११६॥  
+एतत् सङ्क्षेपतः प्रोक्तं दशतालस्य लक्षणम् ।  
+प्रतिमायाश्चतुर्थेन कूर्मार्चा परिकीर्तिता ।  
+तत्त्रिभागेन तत्पीठं कुर्यात् सिद्ध्यर्थमुत्तमम् ॥११७॥  
+अथ श्रीमुर्तिविशेषेण परिमाणविशेषादिः मात्स्ये—  
+अतःपरं प्रवक्ष्यामि देवाकारान् विशेषतः ।  
+दशतालः स्मृतो रामो बलिर्वैरोचनिस्तथा ॥११८॥  
+वराहो नरसिंहश्च सप्ततालस्तु वामनः ।  
+मत्स्यकूर्मौ तु निर्दिष्टौ यथाशोभ स्वयम्भुवा ॥११९॥  
+अथ वराहमूर्तिः  
+किञ्च—  
+महावराहं वक्ष्यामि पद्महस्तं गदाधरम् । तीक्ष्णदंष्ट्राग्रघोरास्यं मेदिनीं वामकूर्परे ॥१२०॥  
+दंष्ट्राग्रेणोद्धृतां दीप्तां धरणीमुत्पलान्विताम् ।  
+विस्मयोत्फुल्लनयनामुपरिष्टात् प्रकल्पयेत् ॥१२१॥  
+दक्षिणं कटिसंस्थञ्च करं तस्य प्रकल्पयेत् ।  
+कूर्मोपरि तथा पादमेकं नागेन्द्रमूर्द्धनि ।  
+संस्तूयमानं लोकेशैः समन्तात् परिकल्पयेत् ॥१२२॥  
+अथ नरसिंहमूर्तिः  
+नारसिंहन्तु कुर्वीत भुजाष्टकसमन्वितम् ।  
+रौद्रं सिंहाननं तद्वद्विदारितमुखेक्षणम् ॥१२३॥  
+स्तब्धपानसटाकीर्णं दारयन्तं दितेः सुतम् ।  
+विनिर्गतान्त्रजालञ्च दानवं परिकल्पयेत् ॥१२४॥  
+वमन्तं रुधिरोद्गारं भ्रूकुटिवदनेक्षणम् ।  
+युध्यमानं च कुर्वीत क्वचित् करणबन्धनैः ॥१२५॥  
+परिश्रान्तेन दैत्येन तर्ज्यमानं मुहुर्मुहुः ।  
+दैत्यान् प्रदर्शयेत्तत्र खड्गखेटकधारिणः ।  
+स्तूयमानं तथा विष्णुं दर्शयेदमराधिपैः ॥१२६॥  
+अथ त्रिविक्रममूर्तिः  
+तथा त्रिविक्रमं वक्ष्ये ब्रह्माण्डाक्रमणोल्वणम् ।  
+पादपार्श्वे तथा बाहुमुपरिष्टात् प्रकल्पयेत् ॥१२७॥  
+अधस्ताद्वामनं तद्वत् कल्पयेत् सकमण्डलुम् ।  
+दक्षिणे छत्रिकां दद्यान्मुखं दीनं प्रदर्शयेत् ॥१२८॥  
+भृङ्गार-धारिणं तद्वद्बलिं तस्य च पार्श्वतः ।  
+बन्धनं चास्य कुर्वन्तं गरुडं तस्य दर्शयेत् ॥१२९॥  
+अथ मात्स्यमूर्तिः कूर्ममूर्तिश्च  
+मत्स्यरूपं तथा मात्स्यं कौर्मं कूमाकृतिं न्यसेत् ।  
+एवंरूपः स भगवान् कार्यो नारायणो हरिः ॥१३०॥  
+अथ महाविष्णमूर्तिः  
+विष्णुधर्मोत्तरे—  
+देवदेवं तथा विष्णुं कारयेद्गरुडस्थितम् ।  
+कौस्तुभोद्भासितौरस्कं सर्वाभरणधारिणम् ॥१३१॥  
+सजलाम्बुद-सच्छायं पीतदिच्याम्बरं तथा ।  
+मुखाश्च कार्याश्चत्वारो बाहवो द्विगुणास्तथा ॥१३२॥  
+सौम्येन्दुवदनं पूर्वं नारसिंहन्तु दक्षिणम् ।  
+कपिलं पश्चिमं वक्त्रं तथा वाराहमुत्तरम् ॥१३३॥  
+तस्य दक्षिणहस्तेषु वाणार्कमुषलादयः ।  
+चर्मशङ्खधराविन्दुचापे च वनमालिनः ।  
+कार्याणि विष्णुधर्मोक्त्या वामहस्तेष्वनुक्रमात् ॥१३४॥**
+> **इति ।  
+अथ लोकपालविष्णमूर्तिः  
+किञ्च—  
+एकवक्त्रो द्विबाहुश्च गदाचक्रधरः प्रभुः ॥१३५॥  
+अथ वासुदेवमूर्तिः  
+किञ्च—  
+एकवक्त्रश्चतुर्बाहुः सौम्यरूपी सुदर्शनः ।  
+सलिलाध्नातमेघाभः सर्वाभरणभूषितः ॥१३६॥  
+कण्ठेन शुभदेशेन कम्बुतुल्येन राजता ।  
+वराभरणयुक्तेन कुण्डलोत्तमभूषितः ॥१३७॥  
+अङ्गदी बद्धकेयूरो वनमालाविभूषितः ।  
+उरसा कौस्तुभं विभ्रत् किरीटं शिरसा तथा ॥१३८॥  
+शिरःपद्मस्तथैवास्य कर्तव्यश्वारुकर्णिकः । पुष्टाश्लिष्टायतभुजरतनुताम्रनखाङ्गुलिः ॥१३९॥  
+मध्येन त्रिबलीभङ्गशोभितेन सुचारुणा ।  
+स्त्रीरूपधारिणी कार्या क्षौणी तत्पदमध्यगा ॥१४०॥  
+तत्करस्थाङ्घ्रियुगलो देवः कार्यो जनार्दनः ।  
+सुचारुपदविन्यासः किञ्चिन्निष्क्रान्तदक्षिणः ॥१४१॥  
+अनुदृश्या मही कार्या देवदर्शनविस्मिता ।  
+देवश्च कटिवासेन कार्यो जान्ववलम्बिना ॥१४२॥  
+वनमाला च कर्तव्या देवजान्ववलम्बिनी ।  
+यज्ञोपवीतं वर्तव्यं नाभिदेशमुपागतम् ॥१४३॥  
+उत्फुल्लकमलं पाणौ कुर्याद्देवस्य दक्षिणे ।  
+वामपाणिगतं शेषं शङ्खाकारं तु कारयेत् ॥१४४॥  
+दक्षिणे तु गदा देवी तनुमध्या सुलोचना ।  
+स्त्रीरूपधारिणी मुग्धा सर्वाभरणभूषिता ॥१४५॥  
+पश्यन्ती देवदेवेशं कार्या चामरधारिणी ।  
+कार्यं तन्मूर्धिन विन्यस्तं देवहस्तं तु दक्षिणम् ॥१४६॥**
+> **वामभागगतश्चक्रः कार्यो लम्बोदरस्तथा ।  
+सर्वाभरणसंयुक्तो वृत्तविस्फारितेक्षणः ॥१४७॥  
+कर्तव्यश्चामरकरो देवचीक्षणतत्परः ।  
+कार्यो देवकरो वामो विन्यस्तस्तस्य मूर्धनि ॥१४८॥  
+अथ सङ्कर्षणमूर्तिः  
+वासुदेवस्वरूपेण कार्यः सङ्कर्षणः प्रभुः ।  
+स तु शुक्लवपुः कार्यो नीलवासा यदूत्तमः ॥१४९॥  
+गदास्थाने तु मुषलं चक्रस्थाने तु लाङ्गलम् ।  
+कर्तव्यौ तनुमध्यौ तौ नृरूपौ रूपसंस्थितौ ॥१५०॥  
+अथ प्रद्युम्नमूर्तिः  
+वासुदेवस्वरूपेण प्रद्युम्नश्च तथा भवेत् ।  
+स तु दूर्वाङ्कुरश्यामः श्वेतवासा विधीयते ॥१५१॥  
+चक्रस्थाने भवेच्चायं गदास्थाने तथा शरः ।  
+तथाविधौ तु कर्तव्यौ यथा मुषल-लाङ्गलौ ॥१५२॥  
+अथानिरुद्धमूर्तिः  
+एतदेव तथा रूपमनिरुद्धस्य कारयेत् ।  
+पद्मपत्राभ-वपुषो रक्ताम्बरधरस्य तु ॥१५३॥  
+चक्रस्थाने भवेच्चर्म यदास्थानेऽसिरेव च ।  
+चर्म स्याच्चक्ररूपेण प्रांशुः खड्गो विधीयते ॥१५४॥  
+अथ चक्रादीनां विविधमूर्तीनाञ्च स्वरूपनिर्णयः  
+चक्रादीनां स्वरूपाणि किञ्चित पूर्वं प्रदर्शयेत् ।  
+रम्याण्यायुधरूपाणि चक्रादीन्येव यादव ॥१५५॥  
+वामपार्श्वगताः कार्या देवानां प्रवरा ध्वजाः ।  
+सुपताकायुता राजन् यष्टिस्थास्ते यथोचितम् ॥१५६॥  
+किञ्च—  
+हंसो मत्स्यस्तथा कूर्मः कार्यास्तद्रूपधारिणः ।  
+शृङ्गी मत्स्यस्तु कर्तव्यो देवदेवो जनार्दनः ॥१५७॥  
+ऐश्वर्यमनिरुद्धस्तु वराहो भगवान् हरिः ।  
+ऐश्वर्यशक्त्या दंष्ट्राग्रसमुद्धृतवसुन्धरः ॥१५८॥  
+नृवराहोऽथवा कार्यः शेषोपरि गतः प्रभुः ।  
+शेषश्चतुर्भुजः कार्यश्चारुरत्नफणान्वितः ॥१५९॥  
+आश्चर्योत्फुल्लनयनो देववीक्षणतत्परः ।  
+कर्तव्यो सीरमुषलो करयोस्तस्य यादव ॥१६०॥  
+सर्पभोगश्च कर्तव्यस्तथैव रचिताङ्गुलिः ।  
+आलीढस्थानसंस्थानस्तत्पृष्ठे भगवान् भवेत् ॥१६१॥**
+> **मूर्तिमन्तमनैश्वर्यं हिरण्याक्षं विदुर्बुधाः ।  
+ऐश्वर्येणाविशेषेण स निरस्तोऽरिमर्दनः ॥१६२॥  
+नृवराहोऽथवा कार्यो ध्याने कपिलवत् स्थितः ।  
+द्विभुजस्त्वथवा कार्यः पिण्डनिर्वपणोद्यतः ॥१६३॥  
+समग्रक्रोडरूपो वा बहुदानवमध्यगः ।  
+नृवराहो वराहो वा कर्तव्यः क्ष्माविदारणः ॥१६४॥  
+ज्ञानवद्भिः स एवोक्तो ज्ञानं परमवर्द्धनः ।  
+पीनस्कन्धकटिग्रीवः कृशमध्यः कृशोदरः ॥१६५॥  
+सिंहाननो नृवेहश्च नीलवासाः प्रभान्वितः ।  
+आलीढस्थानसंस्थानः सर्वाभरणभूषितः ॥१६६॥  
+ज्वालामालाकुलमुखो ज्वलत्केशरमण्डलः ।  
+हिरण्यकशिपोर्वक्षः पाटयन्नखरैः खरैः ॥१६७॥  
+नीलोत्पलाभः कर्तव्यो देवजानुगतस्तथा । हिरण्यकशिपुर्दैत्यस्तमज्ञानं विदुर्बुधाः ॥१६५॥  
+अथ वामनमूर्तिः  
+कर्तव्यो वामनो देवः सङ्कटे भक्तिभावितैः ।  
+पीनगात्रश्च कर्तव्यो दण्डी चाध्ययनोद्यतः ।  
+दूर्वाश्यामस्तु कर्तव्यः कृष्णाजिनधरस्तथा ॥१६९॥  
+अथ त्रिविक्रममूर्तिः  
+सजलाम्बुदसङ्काशस्तथा कार्यस्त्रिविक्रमः ।  
+दण्डपाशधरः कार्यः शङ्खचक्रगदाधरः ॥१७०॥**
+> **शङ्खचक्रगदापद्माः कार्यास्तस्य स्वरूपिणः ।  
+निर्दहारते न कर्तव्याः शेषः कार्यश्च पूर्ववत् ।  
+एकोर्द्ध्वदनः कार्यो देवो विस्फारितेक्षणः ॥१७१॥  
+अथ भृगुराममूर्तिः  
+कार्यस्तु भार्गवो रामो जटामण्डलदुर्दृशः ।  
+हस्तेऽस्य परशुः कार्यः कृष्णाजिनधरस्य तु ॥१७२॥  
+अथ दाशरथिमूर्तिः  
+रामो दाशरथिः कार्यो राजलक्षणलक्षितः ।  
+भरतो लक्ष्मणश्चैव शत्रुघ्नश्च महाशयः ।  
+तथैव सर्वे कर्तव्याः किन्तु मौलिविवर्जिताः ॥१७३॥  
+अथ कृष्णमूर्तिः  
+कृष्णश्चक्रधरः कार्यो नीलोत्पलदलच्छविः ।  
+इन्दीवरधरा कार्या तस्य साक्षाच्च रुक्मिणी ॥१७४॥  
+अथ बलदेवमूर्तिः  
+सीर-पाणिर्बलः कार्यो मुषली चैककुण्डली ।  
+श्वेतोऽतिनीलवसनो मदाधूर्णितलोचनः ॥१७५॥  
+अथ प्रद्युम्नमूर्तिः  
+चापवाणधरः कार्यः प्रद्युम्नश्च सुदर्शनः ।  
+राजन् दूर्वादलश्यामः श्वेतवासा मदोत्कटः ॥१७६॥  
+अथ कामदेवमूर्तिः  
+कामदेवस्तु कर्तव्यो रूपेणाप्रतिमो भुवि ।  
+अष्टबाहुः स कर्तव्यः शङ्खपद्मविभूषणः ॥१७७॥**
+> **  
+चापवाणधरश्चैव मदाकुञ्चितलोचनः ।  
+रतिः प्रीतिस्तथा शक्तिर्मन्दशक्तिस्तथोज्ज्वला ॥१७८॥  
+चतस्त्रस्तस्य कर्तव्याः पत्न्यो रूपमनोहराः ।  
+चत्वारश्च करास्तस्य कार्यो भार्यास्तनोपगाः ।  
+केतुश्च मकरः कार्यः पञ्चवाणमुखो महान् ॥१७९॥  
+अथ अनिरुद्धमूर्तिः साम्बमूर्तिश्च  
+कर्तव्यश्चानिरुद्धोऽपि खड्गचर्मधरः प्रभुः ।  
+साम्बः कार्यो महाहस्तस्वरूपोऽसावशेषतः ।  
+सम्बानिरुद्धौ कर्तव्यौ पद्माभौ रक्तवाससौ ॥१८०॥  
+अथ गोपालमूर्तिः  
+गोपालप्रतिमां कुर्याद्वेणुवादनतत्पराम् ।  
+वर्हापीडां घनश्यामां द्विभुजामूर्द्ध्वसंस्थिताम् ॥१८१॥  
+अथ बुद्धमूर्तिः  
+काषारवस्त्रसंवीतः स्कन्धसंसक्तचीवरः ।  
+पद्मासनस्थो द्विभुजो ध्यायी बुद्धः प्रकीर्तितः ॥१८२॥  
+अथ नरनारायण-मूर्तिः  
+दूर्वाश्यामो नरः कार्यो द्विभुजश्च महाभुजः । नारायणश्चतुर्बाहुर्नीलोत्पलदलच्छविः ॥१८३॥  
+तयोर्मध्ये तु वदरी कार्या फलविभूषणा ।  
+नरनारायणौ देवावक्षमालाधरावुभौ ॥१८४॥  
+अष्टचक्रे स्थितौ जाले भूतयुक्ते मनोरमे ।  
+कृष्णाजिनधरौ दान्तौ जटामण्डलधारिणौ ॥१८५॥  
+अथ विविधर्मूर्तिभेदाः  
+पादेन चक्रेन रथस्थितेन पादेन चैकेन च जानुगेन ।  
+कार्यो हरिश्चात्र नरेण तुल्यः कृष्णोऽपि नारायणतुल्यमूर्तिः ॥१८६॥**
+> **मूर्तिमत्पृथिवीहस्तन्यस्तपादः सितच्छविः ।  
+नीलाम्बरधरः कार्यो देवो हयशिरोधरः ॥१८७॥  
+विद्धि सङ्कर्षणांशेन देवं हयशिरोधरम् ।  
+कर्तव्योऽष्टभुजो देवस्तत्करेषु चतुर्षु च ॥१८८॥  
+शङ्खचक्रगदापद्मान् सकारान् दर्शयेद्बुधः ।  
+चत्वारश्च कराः कार्या देवानां देहधारिणाम् ।  
+देवेन मूर्ध्नि विन्यस्ताः सर्वाभरणभूषिताः ॥१८९॥  
+प्रद्युम्नं विद्धि वैराग्यं कापिलीं तनुमाश्रितम् ।  
+मध्ये ऊरुकरः कार्यस्तस्योत्सङ्गतः परः ।  
+दोर्युगं चापरं तस्य शङ्खचक्रधरं भवेत् ॥१९०॥**
+> **पद्मासनोपविष्टश्च ध्यानसन्मीलितेक्षणः ।  
+कर्मण्यः कपिलो देवो जटामण्डलदुर्दृशः ॥१९१॥  
+वायुसंरोधपीनाङ्गः पद्माङ्कचरणद्वयः ।  
+मृगाजिनधरो राजन् शुभयज्ञोपवीतवान् ।  
+विभुर्मन्त्रमहापद्मकर्णिकामध्यमास्थितः ॥१९२॥  
+वैराग्यभावेन महानुभावो ध्याने स्थितः स्वं परम पदं तत् ।  
+ध्यायंस्तथा वै भुवनस्य गोप्ता साङ्ख्यप्रवक्ता पुरुषः पुराणः ॥१९३॥  
+श्यामवर्णस्तनूवासा पिङ्गलाक्षो जटाधरः ।  
+सुमन्तुर्जैमिनिः पैलो वैशम्पायन एव च ।  
+तस्य शिष्याश्च कर्तव्याश्चत्वारः पारिपार्श्विकाः ॥१९४॥  
+गौरस्तु कार्यो वाल्मीकिजटामटामण्डलदुर्दृशः ।  
+तपस्यभिरतः शान्तो न कृशो न च पीबरः ॥१९५॥  
+वाल्मीकिरूपं सकलं दत्तात्रेयस्य कारयेत् ।  
+जलमध्यगतः कार्यः शेषः पान्नगदर्शनः ।  
+फणापुञ्जमहारत्नदुर्निरीक्ष्यशिरोधरः ॥१९६॥  
+देवदेवस्तु कर्तव्यः शेषभोगाङ्कसंस्थितः ।  
+एको भुजोऽस्य कर्तव्यस्तत्र जानौ प्रसारित्तः ॥१९७॥  
+कर्तव्यो नाभिदेशे तु तदा तस्य परः करः ।  
+तथैवान्यकरः कार्यो देवस्य सुशिरोधरः ॥१९८॥  
+स तानमञ्जरीधारी तथैवास्य परो भवेत् ।  
+नाभीसरसि सम्भूते कमले तस्य यादव ॥१९९॥  
+सर्वपृथ्वीमये देवः प्राग्वत् कार्यः पितामहः ।  
+नाललग्नौ च कर्तव्यौ पद्मस्य मधुकैटभौ ॥२००॥  
+नृरूपधारीणि भुजङ्गमध्ये कार्याण्यथास्त्राणि तथा समीपे ॥२०१॥  
+ताक्ष्योर्मरकतप्रख्यः कौशिकाकारनासिकः ।  
+चतुर्भुजश्च कर्तव्यो वृत्तनेत्रमुखस्तथा ॥२०२॥  
+ग्रीवोरुजानुचरणपक्षद्वयविभूषितः ।  
+प्रभासंस्थानसौवर्णकलायेन विराजितः ॥२०३॥  
+छत्रञ्च पूर्णकुम्भञ्च करयोस्तस्य कारयेत् ।  
+करद्वयञ्च कर्तव्यं तथा विरचिताञ्जलि ॥२०४॥  
+यदास्य भगवान् पृष्ठे छत्रकुम्भधरौ करौ ।  
+न कर्तव्यौ तु कर्तव्यौ देवपादधरावुभौ ॥२०५॥  
+किञ्चिल्लम्बोदरः कार्यः सर्वाभरणभूषितः ॥२०६॥  
+अथ लक्ष्मीनारायणमूर्तिः  
+विश्वकर्मशास्त्रे च—  
+लक्ष्मीनारायणौ कार्यौ संयुतौ दिव्यरूपिणौ ।  
+दक्षिणस्था विभोर्मूर्तिर्लक्ष्मीर्मूर्तिस्तु वामगा ॥२०७॥  
+दक्षिणः कण्ठलग्नोऽस्य वामहस्तसरोजधृक् ।  
+विभोर्वामकरो लक्ष्म्याः कूक्षिभागे स्थितः सदा ॥२०८॥  
+सर्वावयवसम्पूर्णा सर्वालङ्कारभूषिता ।  
+सुष्ठुनेत्रकपोलास्य-रूपयौवनसंयुता ॥२०९॥  
+सिद्धिः कार्या समीपस्था चामरग्राहिणो शुभा ।  
+कर्तव्यं वामनं सर्वं देवाधोभागगं सदा ॥२१०॥**
+> **शङ्खचक्रधरौ तस्य द्वौ कार्यौ पुरुषौ पूरः ।  
+वामनौ हारकेयूरकिरीटमणिभूषितौ ॥२११॥  
+उपासकौ समीपस्थौ प्रभोर्ब्रह्मशिवात्मकौ ।  
+रसनां योगपट्टञ्च शिखाञ्जलिमास्थितौ ॥२१२॥  
+अथ योगस्वामिमूर्तिः  
+पद्मासन-समासीनः किञ्चिन्मीलितलोचनः ।  
+घ्राणाग्रे दत्तदृष्टिश्च श्वेतपद्मोपरि स्थितः ॥२१३॥  
+वामदक्षिणगौ हस्तावुभावुत्सङ्गभागगौ ।  
+तत्करद्वयपार्श्वस्थे पङ्केरुह-महागदे ॥२१४॥  
+ऊर्द्ध्व करद्वये चास्य शङ्खश्चापि सूदर्शनम् ।  
+योगस्वामी स विज्ञेयः पूज्यो मोदार्थयोगिभिः ॥२१५॥  
+अथ दशावताराणां मूर्तय तत्र मत्स्यावतारमूर्तिः  
+श्रीहयशीर्षपञ्चरात्रे—  
+अतःपरं प्रवक्ष्यामि मत्स्यादीनान्तु लक्षणम् ।  
+षट्त्रिंशदङ्गुलायामं तदर्द्धेन तु विस्तृतम् ॥२१६॥**
+> **दैर्घ्याष्टमांशसंयुक्तं पुच्छवक्त्रं तु कारयत् ।  
+रोहितं विवृतास्यन्तु द्वादशाङ्गुलमानतः ।  
+कलैकं पृष्ठरोमन्तु तुच्छार्द्धं क्रोडगं तथा ॥२१७॥  
+कृतस्यैवंविधस्येह रोहितस्य मुखोद्गतम् ।  
+नारायणन्तु कुर्वीत आगुल्फं तान्मुखोद्गतम् ॥२१८॥  
+एवं नृमत्स्यं मत्स्यं वा स्थापयेद्यस्तु मानवः ।  
+सर्वज्ञत्वं भवेत्तस्य सर्वोपन्मुक्तिरेव च ॥२१९॥  
+अथ कूर्ममूर्तिलक्षणम्  
+दैर्घ्यात्रितालसंयुक्तं तदर्द्धं परिमण्डलम् ।   
+चतुश्चरणसंश्लिष्टं चतुरङ्गुलमात्रया ॥२२०॥  
+कपालद्वयमध्ये तु गोविन्दं तु समृद्गतम् ।  
+कृत्वा वा गुल्फपर्यन्तमुद्गच्छन्तं सुरोत्तमा ॥२२१॥  
+नुकूर्मं कारयित्वैनं कूर्म वा स्थापयीत यः ।  
+स्ववंशोद्धरणं तस्य जायते मुक्तिरेव च ॥२२२॥  
+अथ वराहमूर्तिलक्षणम्  
+वक्त्रं कलाष्टकायामं श्रोत्रमस्य द्विगोलकम् ।  
+हनू सप्ताङ्गुले तस्य सृक्कणी द्व्यङ्गुले मते ॥२२३॥  
+सप्ताङ्गुलं मुखं प्रोक्तं रदौ सार्द्धकलो द्विज ।  
+नासारन्ध्र भवेन्नेत्रं यवहीनेऽक्षिणी मते ॥२२४॥  
+किञ्चिद्वक्त्रे स्मिते श्रोत्रे द्विगोलकसमायते ।  
+चतुष्कलं कर्णमध्यं तदर्द्धेन तदुच्छ्रितम् ॥२२५॥  
+वस्वङ्गुला भवेद्ग्रीवा नेत्रैकं चोन्नता तु सा ।  
+शेष नृसिंहवत् कार्यं वराहस्य तु विग्रहम् ॥२२६॥  
+शेषाहि-विधृतं पादं बाहुना धारयन् धराम् ।  
+शङ्खं वामे तथा पद्मं पदाचक्रे तु दक्षिणे ॥२२७॥  
+एवं नरवराहञ्च कृत्वा यः स्थापयेन्नरः ।  
+भवोदधिसमुत्तारं राज्यञ्च हतकण्टकम् ।  
+प्राप्नुयान्नात्र सन्देहो ह्यमुत्रेहैव वा भुवि ॥२२८॥  
+अथ नृसिंहमूर्तिलक्षणम्  
+तिर्यङ्नृसिंहदेवस्य तथा विपुलमाननम् ।  
+वर्तुलेऽस्य तथा नेत्रे स्कन्धौ तालमितौ शुभौ ॥२२९॥  
+व्याकुञ्चिते भ्रुवौ वक्त्रं विवृतं चोग्रदंष्ट्रकम् ।  
+लेलिहाना तथा जिह्वा समुद्गतशटं शिरः ॥२३०॥  
+दंष्ट्रे द्व्यङ्गुलनिर्याते वक्राग्रे तु सिते तथा ।  
+त्रिकलाभ्यधिकं वक्षः पञ्चनेत्राधिका कटिः ॥२३१॥  
+द्विकलाभ्यधिकौ चोरू जानू चापि कलाधिकौ ।  
+जङ्घे सार्द्धकले मध्ये विस्तृताग्रे विभागतः ॥२३२॥  
+उर्द्ध्वौ किञ्चित् स्मृतौ पादौ बाहुमूले कलाधिके ।  
+किञ्चित् किञ्चित् तथा हीनौ पर्यन्ते चोपबाहुकौ ।  
+वपुरिस्थं नृसिंहस्य कुर्याद्देशिकसत्तमः ॥२३३॥  
+जान्वंशे तस्य संस्थाप्य विदारितमहासुरम् ।  
+भूषितं वैजयन्त्या तु मालया श्रीसमन्वितम् ॥२३४॥  
+खड्गचक्रधरं देवं नृसिंहं कारयेद्बुधः ।  
+स्थापयेत् पापनाशाय जयाय नरकेशरीम् ॥२३५॥  
+अथ वामनमूर्तिलक्षणम्  
+भुजं त्रिगोलकायामं वक्षोविस्तारशोभितम् ।  
+पाणीपादं तुरीयांश प्रवृद्धशिरसं तथा ॥२३६॥**
+> **ऊर्वङ्घ्रिद्वितयायामविहीनमुखयुग्मकम् ।  
+कटिस्फिक्पार्श्वनाभीषु तद्वृद्धं वामनं बुधः ।  
+कृत्वा संस्थापयेद्देवं मोहनार्थाय सर्वथा ॥२३७॥  
+अथ जामदग्न्यमूर्तिलक्षणम्  
+जामदग्न्यन्तु कुर्वीत जटामुकुटमण्डितम् ।  
+चतुर्बाहुं महाभागं सर्वक्षत्रान्तकं विभूम् ॥२३८॥  
+दक्षिणे परशुं हस्ते वामे दद्यात्तथा धनुः ।  
+खड्गं दक्षिणहरते तु वामहस्ते तु खेटकम् ॥२३९॥  
+कुठारहस्त द्विभुजं कुर्याद्वा रेणुकासुतम् ।  
+कृत्वैवं जामदग्न्यन्तु स्थापयेद्यस्तु मानवः ।  
+स वित्तं प्राप्नुयात् शीघ्रं कामांश्च मनसेप्सितान् ॥२४०॥  
+अथ राममूर्तिलक्षणम्  
+कुर्याद्दाशरथिं रामं सप्ततालं चतुर्भुजम् ।  
+शरकार्मुकहस्तं तु शङ्खचक्रधरं शुभम् ॥२४१॥  
+दक्षिणोर्द्ध्वं भवेच्चक्रं वामोर्द्ध्वं शङ्खमेव च ।  
+दक्षिणाधो भवेद्वाणो वामाधो धनुरेव च ।  
+द्विभुज शरहस्तं वा राम कुर्यात् सकार्मुकम् ॥२४२॥  
+कृत्वैवं राघवं रामं सर्वलक्षणसंयुतम् ।  
+क्रूरशत्रुविनाशाय स्थापयेत् सर्वकामदम् ॥२४३॥  
+अथ बलराममूर्तिलक्षणम्  
+तृतीयं तु यथा रामं चतुर्बाहुं शृणुष्व मे ।  
+वामोर्द्ध्वं लाङ्गलं दद्यादधः शङ्खं सुशोभनम् ।  
+गदां कृपाणं वा दद्यात् संस्थाने शक्तिचक्रयोः ॥२४४॥  
+कृत्वैवं बलदेवं तु यो नरः स्थापयेत् प्रभुन् ।  
+पुत्रं ददाति तस्याथ विपक्षांश्च जयत्यसौ ॥२४५॥  
+अथ बुद्धलक्षणम्  
+वशतालं तथा बुद्धं पद्मासनगतं हरिम् ।  
+प्रलम्बश्रवणं कुर्याच्चीवरालङ्कृतं तथा ॥२४६॥  
+मणिनाभं समाधिस्थं पद्मास्यं पद्मलोचनम् । समाधिस्थोत्तानपाणिं योगदृष्टिं समन्वितम् ।  
+स्थापयेद्रूपकामस्तु पितेव जगतः स्थितम् ॥२४७॥  
+अथ कल्किलक्षणम्  
+कल्किनं तु चतुर्बाहुं बद्धतूणं धनुर्द्धरम् ।  
+शङ्खचक्रधरं कुर्यात्तथा खड्गधरं प्रभुम् ॥२४८॥  
+द्विभुजं वा हयारूढं खड्गपाणिं सुरेश्वरम् ।  
+कल्किनं स्थापयित्वैवं शत्रुस्थानं लभेन्नरः ॥२४९॥  
+अथ नवव्यूहप्रतिमालक्षणम्  
+किञ्च—  
+आदिमूर्तिर्वासुदेवः पूर्वमेवोदित्तो मया ।  
+दक्षिणोर्द्ध्वे गदा यस्य वामोर्द्ध्वे चक्रमुल्वणम् ।  
+ब्रह्मेशौ पार्श्वगो नित्यं शेषमन्यच्च पूर्ववत् ॥२५०॥  
+द्वितीयो वासुदेवोऽयं द्वापरादौ स उच्यते ।  
+द्विभुजो वाथ कर्तव्यो वामे शङ्खधरः प्रभुः ॥  
+वरदो दक्षिणेनाथ वासुदेवो द्विधोदितः ॥२५१॥  
+बलदेवश्चतुर्बाहुः कुण्डलैकविभूषितः ।  
+लाङ्गली मुषली देवो गदापद्मधरो विभुः ।  
+शङ्खचक्रगदापाणिः कर्तव्यो वरदोऽथवा ॥२५२॥  
+प्राद्युम्नस्तु चतुर्बाहुः शङ्खचक्रधरः शुभः ।  
+चक्रं दक्षिणहस्ते च वामहरते धनुस्तथा ॥२५३॥  
+शङ्खश्च दक्षिणे दद्याद्गदां वामे प्रदर्शयेत् ।  
+प्रद्युम्नं कारयेद्देव सर्वलक्षणसंयुतम् ॥२५४॥  
+स्त्रियौ चैवास्य कर्तव्ये खड्गचर्मधरे शुभे ।  
+रतिप्रीत्योर्मध्यगत कम्बुग्रीवं सकार्मुकम् ।  
+द्विभुजं शरहस्तं वा प्रद्युम्नं कारयेद्बुधः ॥२५५॥  
+अनिरुद्धः कम्बुग्रीवश्चतुर्बाहुः प्रभूषितः ।  
+दक्षिणेऽस्य गदा देया चक्रशङ्खौ तु वामतः ।  
+दक्षिणे च तथा पद्मनिरुद्धस्य दापयेत् ॥२५६॥  
+नारायणश्चतुर्बाहुः कार्यस्तल्लक्षणं मया ।  
+मूर्तिद्वादशके सर्वं कीर्तितं ब्रह्मणः शृणु ॥२५७॥  
+चतुर्मुखश्चतुर्बाहुबृहज्जठरमण्डलः ।  
+ऊर्ध्वमूर्ध्वं जटाजूटः सधूमसममेखलः ॥२५८॥  
+शोभनं दक्षिणे हस्ते दद्यादस्याक्षसूत्रकम् ।  
+स्रुवञ्च दक्षिणे दद्याद्वामहस्ते तु कुण्डिकाम् ॥२५६॥  
+आज्यस्थाल्श्ं कुशोपेतां वामहस्ते नियोजयेत् ।  
+शङ्खचक्रगदापाणिः कार्यो वाथ चतुर्मुखः ॥ २६०॥  
+सरस्वती च सावित्री वामदक्षिणसंस्थिते ।  
+कर्तव्या मुनयो वाथ परिवार्य व्यवस्थिताः ॥ २६१॥  
+विनिविष्टः सदा ब्रह्मा कार्यो ह्यन्यस्ततोऽन्यथा ।  
+नृसिंहवत् स्वमात्रा तु किञ्चिदभ्यधिकः स्मृतः ॥२६२॥  
+विष्णुरष्टभुजः कार्यश्चतुर्बाहुरथापि वा ।  
+वैनतेयगतः सौम्यः सन्दष्टोष्टपुटोऽपि वा ॥२६३॥  
+खड्गं गदां शरं दद्यादृक्षिणे वरदोऽपरः ।  
+कार्मकं खेटकं चक्रं वामेऽस्य दापयेत् ॥२६४॥  
+चतुर्भुजे गदा देया दक्षिणे वरदोऽवरः ।  
+वामे शङ्खञ्च चक्रञ्च विष्णुरेवंविधो मतः ॥२६५॥  
+नरसिंहश्चतुर्बाहुः शङ्खचक्रगदाधरः ।  
+शङ्खचक्नधरो वापि विदारितमहासुरः ॥ २६६॥  
+चतुर्बाहुर्वराहस्तु शेषः पाणिपदे धृतः ।  
+धारयन् बाहुना पृथ्वीं व मेन कमलामथ ॥२६७॥  
+पादलग्ना धरा कार्या यदा लक्ष्मीर्भुजस्थिता ।  
+वराह कामयेद्देवं शङ्खचक्रगदाधरम् ॥२६८॥  
+सप्तालौ प्रशस्येते वराह नरकेशरी ।  
+नवतालावभ्यधिकौ पुरस्तात् कथितौ तव ॥२६९॥  
+अथ पुरुषोत्तममूर्तिलक्षणम्  
+किञ्च—  
+अष्टबाहुं बुधः कुर्यद्देव त्रैलोक्यमोहनम् ।  
+गरुडासनगं देवं प्रथमे वयसि स्थितम् ॥ २७०॥  
+चक्रं खड्गञ्च मुसलं साङ्कुशं दक्षिणे न्यसेत् ।  
+शङ्खं शार्ङ्गं गदां पाशं वामहस्तेषु विन्यसेत् ।  
+लक्ष्मीसरस्वती कार्ये पद्मवीणासमन्विते ॥२७१॥  
+किञ्च प्रतिष्ठाप्रसङ्गे—  
+अष्टबाहुः पूर्वमेव कथितः पुरुषोत्तमः ।  
+चतुर्बाहुं द्विबाहुञ्च सङ्क्षेपात् कथयामि ते ॥ २७२॥  
+दक्षिणं शान्तिदं हस्त कुर्यादयं दयान्वितम् ।  
+वामोर्द्ध्वं कारयेच्चक्रं पाञ्चजन्यं तथा ह्यधः ॥२७३॥**
+> **श्रीपुष्टिसहितं कुर्याच्चतुर्बाहुं सुरोत्तमम् ।  
+प्रसादे स्थापयेन्नित्यं गृहे वा मण्डपेऽपि वा ॥२७४॥  
+अथ द्विबाहुं तं देवं कुर्याद्भेदद्वयेन तु ।  
+एकं शान्तिकरं हस्तमपरं चक्रभूषितम् ।  
+श्रीसरस्वतीसंयुतमेकमायतने न्यसेत् ॥२७५॥  
+गदाचक्रधरं वापि द्विभुजं पुरुषोत्तमम् । सीरपाणिसमोपेतमेकानंशान्वितं विभुम् ।  
+चतुरस्रायते धाम्नि स्थापयेत् सर्वकामदम् ॥२७६॥  
+अतसीपुष्पसङ्काशं पीनवक्षःस्थलोरसम् ।  
+लावण्याम्बुजतोयेन सिञ्चन्तमिव सर्वतः ॥२७७॥  
+त्रैलोक्ये यस्य रूपेण न भूतो न भविष्यति ।  
+तं देवं कारयेत् सौम्यं पुरुषोत्तममुत्तमम् ॥२७८॥  
+बलदेवं द्विदोर्दण्डं मदविभ्रान्तलोचनम् ।  
+लाङ्गलासक्तपाणिन्त मुषलोद्यतदक्षिणम् ॥२७९॥  
+कुर्याद्वा तस्य बाह्वोस्तु शङ्खचक्रौ सुशोभनौ ।  
+शरचापधरौ वापि वरशान्तिप्रदौ तथा ॥२८०॥  
+कार्यौ भुजौ महाभाग बलदेवस्य सत्तम ।  
+भोगान् पञ्चायवा सप्त कुर्यादस्य त्वनन्तवत् ॥२८१॥  
+एकानंशान्तयोर्मध्ये कारयेत् सौम्यरूपिणीम् ।  
+वरदां पद्महस्तां वा दक्षिणेन भुजेन तु ॥२८२॥  
+श्रोणिस्थ-वामहस्तां तु कुर्याद्भद्रां सुरेश्वरीम् ।  
+एवं ते द्विभुजो विष्णुः कथितः सर्वकामदः ॥२८३॥  
+बलदेवेन सहितो भद्रया च समन्वितः ।  
+देवस्य दक्षिणे पार्श्व सुभद्रां विनिवेशयेत् ।  
+ततः परे मदाक्रान्तलोचनं स्थापयेद्बलम् ॥२८४॥  
+अथ विश्वरूपलक्षणम्  
+किञ्च—  
+विंशद्बाहुं विश्वरूपं कुर्यात्तल्लक्षणं शृणु ।  
+चक्रं खड्गञ्च मुषलमङ्कुशं पट्टिशं तथा ॥२८५॥  
+मुद्गरञ्च तथा पाशं शक्तिं शूलं शरं तथा ।  
+दक्षिणेषु प्रदद्याद्वै वामेषु शृणु साम्प्रतम् ॥२८६॥  
+शङ्ख शार्ङ्गं गदां पाशं तामर लाङ्गलं तथा ।  
+परशुं छुरिकां दण्डं चर्मप्रक्षेपणं तथा ॥२८७॥  
+नृसिंहोक्तं परं मानं विश्वरूपस्य कीर्तितम् ।  
+चतुर्मुखं दक्षिणेऽस्य त्रिनेत्रं वामतो न्यसेत् ।  
+स्तुवन्तो मुनयः कार्या विद्रवन्तो निशाचराः ॥२८८॥  
+अथ जलशायिमूर्तिलक्षणम्  
+वामपार्श्वेन शयितं कारयेज्जलशायिनम् ।  
+शेषपर्यङ्कगं देवं चतुर्बाहुं जनार्दनम् ॥२८९॥  
+श्रिया धृतैकचरणं सर्वालङ्कारभूषितम् ।  
+देवीभिर्विमलाद्यभिः सेव्यमानमियस्ततः ।  
+नाभ्युत्थपङ्कजारूढपितामहसमन्वितम् ॥२९०॥  
+अथ लक्ष्मीमूर्तिलक्षणम्  
+किञ्च—  
+अष्टताला तु कर्तव्या देवी लक्ष्मीः सुरेश्वरी ।  
+तत्क्रमं सौरकाण्डे तु कथयिष्ये तवानघ ॥२९१॥  
+नवतालिकक्षेत्रां तु कथ्यमानामितः शृणु ।  
+भ्रुवौ यवाधिके कार्य यवहीना तु नासिका ॥२९२॥  
+गोलोकेनाधिकं वक्त्रमूर्द्ध्वतिर्यग्विवर्जितम् ।  
+आयते नयने कार्य त्रिभागोनैर्यवैस्त्रिभिः ॥२९३॥  
+तदर्द्धेन तु वैपुल्यं नेत्रयोः परिकल्पयेत् ।  
+कर्णपाशोऽधिकः कार्यः सृक्कण्या समसूत्रतः ॥२९४॥  
+नम्रं कलाविहीनं तु कुर्यादंसद्वयं सदा ।  
+ग्रीवा सार्द्धकला कार्या तद्विस्तारोपशोभिता ॥२९५॥  
+नेत्र विना तु विस्तारे ऊरू जानू च पिण्डिके ।  
+अङ्घ्रिपृष्ठे स्फिचे कट्यां यथायोग्यं प्रकल्पयेत् ॥२९६॥**
+> **सप्तांशोनास्तथाङ्गुल्यो दैर्घ्यं विष्कम्भनाहतम् ।  
+नेत्रैकर्वर्जितायामा जङ्घोरू च तथा कटिः ॥२९७॥  
+मध्यं पार्श्वं न तद्वृत्तं घनपीनं कुचद्वयम् ।  
+तालमात्रौ स्तनौ कार्यो कटिः सार्द्धकलाधिका ।  
+शेषमन्यद्यथोद्दिष्टं लक्ष्मीश्चेयं प्रकीर्तिता ॥२९८॥**
+> **सर्वाभरणसम्पन्ना मध्ये क्षामा स्तनोन्नता ।  
+श्रोणीतटसुविरतीर्णा कार्या देवी सुरेश्वरी ॥२९९॥  
+द्विभुजा कम्बुग्रीवा च विशालाक्षी सुलक्षणा ।  
+स्तनौ समुन्नती कार्यो कञ्चुकेनावगुण्ठितौ ॥३००॥  
+नागहस्तोपमौ बाहु ऊरू रम्भासमौ शुभौ ।  
+नानारत्नोज्ज्वलं पट्टं देव्याः शिरसि दापयेत् ॥३०१॥  
+नानारत्नोज्ज्वला देव्या मेखला श्रोणीसंयुता ।  
+युक्ता दिव्येन हारेण केयूरमुकुटोज्ज्वला ॥३०२॥  
+पद्मासना प्रकर्तव्या पद्मश्रीफलपाणिका ।  
+दक्षिणे पुण्डरीकन्तु वामहस्ते तु श्रीफलम् ॥३०३॥  
+स्थिता वा त्रिबलीभङ्गशोभिता च प्रशस्यते ।  
+स्त्रियौ पार्श्वद्वये कार्य समे चामरहस्तिके ॥३०४॥  
+भृङ्गारहस्तौ द्वौ नागौ स्नपयन्तौ श्रियं स्थितौ ।  
+श्रीरियं लक्षणोपेता स्थापिता सर्वकामदा ॥३०५॥  
+अथ श्रीगरुद्धमूर्तिलक्षणम्  
+खगेशस्य प्रवक्ष्यामि तव रूपं सुशोभनन् ।  
+नरतुल्यं भवेद्गात्रं नासिका कञ्चुकान्विता ॥३०६॥  
+षडङ्गुलोच्छ्रया सम्यक् चञ्चुरूपेण कल्पिता ।  
+मस्तके सुन्दरं केशं नेत्रे चैवास्य वर्तुले ॥३०७॥  
+आपतौ द्विभुजौ चास्य पक्षौ कार्यौ सुशोभनौ ।  
+स्कन्धप्रदेशसंलग्न-जलदग्नि-समप्रभौ ॥३०८॥  
+पादयोर्नखराः कार्यो सर्पमण्डलमण्डिताः ।  
+नूपुरौ तस्य द्वौ नागौ केयूरौ पद्मकम्बलौ ॥३०९॥  
+कटिदेशेऽस्य कुलिकः परिधानस्य वेष्ठनः ।  
+वृश्चिकैः कर्णिका कार्या गरुडस्य महात्मनः ॥३१०॥  
+देवस्य पुरतः स्याप्यो यष्ट्यां वा मण्डपेऽथवा ।  
+प्रासादस्य प्रमाणेन कार्यो गरुडमण्डपः ।  
+यष्ट्याः समुच्छ्रयः कार्यः प्रासादायामतोऽद्धतः ॥३११॥  
+किञ्च—  
+सर्वेषामेव देवानां विष्णुक्तं मानमुच्यते ।  
+देवीनामपि सर्वासां लक्ष्म्युक्तं मानमुच्यते ।  
+किङ्कराद्याश्च कर्तव्याः सप्तसंस्थानसंयुताः ॥३१२॥  
+अथ श्रीमूर्त्यङ्गाधिक्यादिदोषाः  
+मत्स्ये—  
+नाधिकाङ्गी न हीनाङ्गी कर्तव्या देवता क्वचित् ।  
+स्वामिनं घातयत्युना करालवदना तथा ॥३१३॥  
+अधिका शिल्पिनं हन्यात् कृशा चैवार्थनाशिनी ।  
+कृशोदरी तु दुर्भिक्षं निर्मांसा धननाशिनी ॥३१४॥  
+वक्रनासा तु दुःखाय सङ्क्षिप्तानी भयङ्करी  
+चिपिटा दुःखशोकाय अनेत्रा नेत्रनाशिनी ॥३१५॥  
+दुःखदा हीनवक्त्रा तु पाणिपादकृशा तथा ।  
+हीनांशा हीनजङ्घा च भ्रमोन्मादकरी नृणाम् ॥३१६॥  
+शुष्कवक्त्रा तु राजानं कटिहीना च या भवेत् ।  
+पाणिपादविहीनाघां जायते नरको महान् ॥३१७॥  
+जङ्घाहीना तु या त्वर्चा शत्रुकल्याणकारिणी ।  
+पुत्रमित्रविनाशाय हीना वक्षःस्थले तु या ।  
+सम्पूर्णावयवा या तु आयर्लक्ष्मीप्रदा सदा ॥३१८॥  
+वाराह्याम्—  
+नृपभयमत्यङ्गायां हीनाङ्गायामल्पकता कर्तुः ।  
+शातोदर्यां क्षुद्भयमर्थविनाशः कृशाङ्गायाम् ।  
+मरणं तु क्षतायां शस्त्र-निपातेन निर्दिशेत् कर्तुः ॥३१९॥  
+वामे विनता पत्नीं दक्षिणविनता हिनस्त्यायुः ।  
+अन्धत्वमूर्द्ध्वदृष्ट्यां करोति चिन्तामधोमुख दृष्टिः ॥३२०॥  
+किञ्च श्रीप्रह्लादोक्ते पुराणोद्वारेऽपि—  
+सुरार्चां लक्षणैर्हीनां यस्तु पूजयते नरः ।  
+तस्यान्नं नाभिगृह्णन्ति तस्मात्तां परिवर्जयेत् ॥३२१॥  
+अथ द्रव्यमेदेन श्रीमूर्तिभवः  
+मात्स्ये—  
+चित्रजा चैव लेप्या च शस्त्रोत्कीर्णा च पाकजा ।  
+पटे कुड्ये च पात्रे च चित्रजा प्रतिमा स्मृता ॥३२२॥  
+लेप्या तु पार्थिवी ज्ञेया लोहजा पाकजा मता ।  
+शैलजा वृक्षजा चैव शस्त्रोत्कीर्णा च कीर्तिता ॥३२३॥  
+चतुर्द्धा द्रव्यभेदेन प्रतिमा परिकीर्तिता ॥३२४॥  
+श्रीहयशीर्षपञ्चरात्रे—  
+मृन्मयी दारुघटिता लोहजा रत्नजा तथा ।  
+शैलजा गन्धजा चैव कौसुमी सप्तमी स्मृता ॥३२५॥  
+कौसुमी रत्नजा चैव मृन्मयी प्रतिमा हिता ।  
+तत्कालपूजिताश्चैताः सर्वकामफलप्रदाः ॥३२६॥  
+किञ्च—  
+भाग्यदा शैलजा स्याच्च स्वर्णजा पुष्टिदा भवेत् ।  
+सुखप्रदा स्यान्मणिजा राजती कीर्तिदा भवेत् ॥३२७॥  
+ताम्रजा धनदा प्रोक्ता श्रीप्रदा वृक्षजा मता ।  
+कौसुमी सुखदा प्रोक्ता गन्धजा भोगदा मता ॥३२८॥  
+प्रत्यग्रस्थापिता वापि मृन्मयी सर्वसिद्धिदा ॥३२९॥  
+किञ्च तत्रैव चित्रजा-प्रतिष्ठा-प्रसङ्गे—  
+यावन्ति विष्णुरूपाणि सुरूपाणीह लेखयेत् ।  
+तावद्युगसहस्राणि विष्णुलोके महीयते ॥३३०॥  
+लेप्ये चित्रे हरिर्नित्यं सन्निधानमुपैति हि ।  
+तस्मात् सर्वप्रयत्नेन लेप्यचित्रगतं यजेत् ॥३३१॥**
+> **कान्तिभूषणभावाद्याश्चित्रे यस्मात् स्फूटं स्थिताः ।  
+अतः सान्निध्यमायाति चित्रजासु जनार्दनः ।  
+तस्माच्चित्रार्चने पुण्यं स्मृतं शतगुणं बुधैः ॥३३२॥  
+चित्रस्थं पुण्डरीकाक्षं सविलासं सविभ्रमम् ।  
+दृष्ट्वा विमुच्यते पापर्जन्मकोटिसुसञ्चितैः ॥३३३॥**
+> **तस्माच्छुभार्थिभिर्धोरैर्महापूण्यजिगीषया ।  
+पटस्थः पूजनीयस्तु वो नारायणः प्रभुः ॥३३४॥**
+> **इति ।  
+अथ शिलाग्रहणम्  
+त्रिकूटाद्रिषु गृह्णीयात् किंवा श्रीपर्वतादिषु ।  
+शिलां भूमिगतां वाथ ज्ञात्वा तल्लक्षणं बुधः ॥३३५॥  
+तथा च तत्रैव—  
+सुवारे सुतिथौ योगे स्वर्के सुकरणान्विते ।  
+आपूर्यमाणपक्षो तु सुग्रहे चोत्तरायणे ॥३३६॥  
+यजमानानुकूले तु प्रतिमार्थं व्रजेद्गुरुः ।  
+श्वेतवस्त्रपरीधानः श्वेतचन्दनचर्चितः ॥३३७॥  
+श्वेतपुष्पकृतापीडः शिल्पिभिः सहितो गुरुः ।  
+निपुणैः शिल्पिभिः सर्द्धं सहायैर्बलवत्तरैः ॥३३८॥  
+नृसिंहं पूज्य विज्ञाप्य पूज्य टङ्कादिकं ततः ।  
+ध्यात्वा हरिं हविः प्राश्य मन्त्राङ्गन्यस्तविग्रहः ॥३३९॥  
+ब्राह्मणान् वाचयित्वा तु भक्त्या मङ्गलदर्शनम् ।  
+दधिदूर्वा रोचनां वा आदर्शं कुसुमं सितम् ॥३४०॥  
+फल;च पूर्णकुम्भञ्च वन्दयित्वा वनं व्रजेत् ।  
+विध्यान्तरीक्षभौमानि निमित्तान्युपलक्षयेत् ॥३४१॥  
+यायाच्छुभनिमित्तेषु विपरीते निवर्तयेत् ।  
+त्रिराचम्य ततः प्राणान् ध्यायेत् सिंहतनुं हरिम् ॥३४२॥  
+पुनश्चाष्टोत्तरं जप्त्वा पातालमुषलं जपेत् ।  
+गीतवाद्यारवोद्घुष्टा यात्रा स्यात् सिद्धिदा नृणाम् ॥३४३॥  
+लक्ष्मीं ध्यायन् वनं यायात् सहायैः शिल्पिभिः सह । शङ्खकाहलशब्दैश्च पुण्याहजयमिश्रितैः ॥३४४॥  
+ऋग्यजुःसामसङ्घैश्च ध्यायन् सिंहं वनं व्रजेत् ।  
+प्राचीं दिशमथोदीचीमैशानीं वा व्रजेद्गुरुः ॥३४५॥  
+भूधराद्यास्तु ये पूर्वं संस्थाना कथिता मया ।  
+तत्र गत्वा समीपे त कृतरक्षो वनं विशेत् ॥३४६॥  
+प्रविशेत्तत्र यत्नेन शिल्पिभिः सहितो गुरुः ।  
+निरूपयेत् समन्तात्तु वृक्ष वाप्यथवा शिलाम् ॥३४७॥  
+लक्षणेन तु मन्त्रज्ञो यत् पूर्वं कथित मया ।  
+एकवर्णां शिलां दृष्ट्वा वाह्यदोषविवर्जिताम् ॥३४८॥  
+चतुर्दिक्षु समं कृत्वा भूमिभागं विशोधयेत् ।  
+प्लाव्य तोयेन पूतेन गोमयेन विलेपयेत् ॥३४९॥  
+तत्रैव मण्डपं कृत्वा वासुदेवं ततो जपेत् । पताकैस्तोरणैश्चित्रर्मण्डपं त विभूषयेत् ॥३५०॥  
+पूजयेदथ दिग्देवान् भूतक्रूरर्बालिं हरेत् ।  
+माषं हरिद्राचूर्णञ्च दधिशक्तुसमन्वितम् ॥३५१॥  
+सलाजमाषभक्तञ्च दद्यात् क्रूरबलिं बुधः ।  
+विष्णुं पूज्य विधानेन क्रमशस्तान् प्रपूजयेत् ॥३५२॥**
+> **वायव्यामस्त्रमन्त्रेण गन्धपुष्पैः प्रपूजयेत् ।  
+वह्निं प्रज्वाल्य विधिना मन्त्रान् सन्तर्प्य पूजयेत् ॥३५३॥  
+हुत्वा यथोक्तविधिना शान्तितोयं समारभेत् ।  
+शान्तितोयं ततो गृह्य अस्त्रेण प्रोक्षयेच्छिलाम् ॥३५४॥  
+दर्भैरुल्लेखयेत् पश्चादस्त्रमन्त्रेण तां शिलाम् ।  
+मन्त्रैरालभ्य तां यत्नात् शुक्लवस्त्रेण वेष्टयेत् ॥३५५॥  
+रक्षां कृत्वा नृसिंहेन दर्भैराच्छाद्य पूजयेत् ।  
+गन्धैः पुष्पैश्च नैवेद्यैर्धूपैः सम्पूज्य तां शिलाम् ॥३५६॥  
+ततस्तु मूलमन्त्रेण आज्यमष्टोत्तरं हुनेत् ।  
+ततः पूर्णाहुतिं दद्यान्मन्त्रराजेन वै गुरुः ॥३५७॥  
+एवं सन्तर्प्य सम्पूज्य विज्ञाप्य च बलिं हरेत् ।  
+गन्धैः पुष्पैस्तथा धूपैर्दद्याद्भूतबलिं बुधः ॥३५८॥  
+अत्र येऽवस्थिताः सत्त्वा यातुधानाश्च गुह्यकाः ।  
+सिद्धादयो वा ये चान्ये तान् सम्पूज्य क्षमापयेत् ॥३५९॥  
+अथ क्षमापणम्  
+विष्णुविम्वार्थमस्माकं यात्रैषा केशवाज्ञया ।  
+विष्ण्वर्थं यद्भवेत् कार्यं युष्माकमपि तद्भवेत् ॥३६०॥  
+अनेन बलिदानेन प्रीता भवथ सर्वथा ।  
+क्षेमेण गच्छतान्यत्र मुक्त्वा स्थानमिदं पुनः ॥३६१॥  
+एवं प्रबोधिताः सत्त्वाः परितुष्टा यथासुखम् ।  
+आचम्य संविस्व ततः कृतरक्षापुरःसरः ॥३६२॥  
+चरुं प्राश्य निराहारः शिल्पिभिः सह देशिकः ।  
+हरिं विज्ञाप्य विधिवद्देवीञ्च कमलोद्भवाम् ॥३६३॥  
+पश्चिमे दर्भशयायां वसेत्तां रजनीं गुरुः ।  
+निराहारः स्थितो भूत्वा प्राणायामारम्भकं जपन् ॥३६४॥  
+अथ तत्र मन्त्रः  
+ओं नमः पर्वलोकपित्रे विष्णवे प्रभविष्णवे ।  
+विश्वाय विश्वरूपाय स्वर्गाधिपतये नमः ॥३६५॥  
+आगच्छ देवदेवेश प्रपन्नोऽस्मि तवान्तिकम् ।  
+स्वप्ने सर्वाणि कार्याणि हृदिस्थितानि यानि मे ।  
+ओं ह्रीं फट् विष्णवे स्वाहा ॥३६६॥  
+यदा स पश्यते वृक्षं ज्वलन्तं धूमवर्जितम् ।  
+फलितं पुष्पितं चैव तदा सिद्धिर्न दूरतः ॥३६७॥  
+प्रज्वलन्ती शिलां पश्येच्छ्रया वाधिष्ठितां शिलाम् ।  
+ब्रह्मणाधिष्ठितां वापि सा तदा सर्वकामदा ॥३६८॥  
+श्रिया जुष्टं प्रज्वयन्तमथ पश्यति पर्वतम् ।  
+ततः प्रवृद्धशिखरं काञ्चनद्रुममण्डितम् ॥३६९॥  
+युतं सर्वोद्भवैवृक्षैः फलपुष्पसमन्वितः ।  
+एवम्भूतेष दृष्टेष स्वप्ने अर्चा सुशोभना ॥३७०॥  
+अपरेऽहनि सम्प्राप्ते कृतरक्षः कृताह्निक ।  
+शस्त्रादि विधिवत् पूज्य शिलां पूज्य विधानतः ॥३७१॥  
+अर्घ्यं दत्त्वा शिलायान्तु शस्त्रमन्त्रेण पूजयेत् ।  
+मन्त्रयित्वा स्वमन्त्रेण प्रज्वलन्तं विभावयेत् ॥३७२॥  
+मध्वाज्याक्तमुखं कृत्वा आत्मानं चिन्तयेद्धरिम् ।  
+शिल्पिनं विश्वकर्माणं ध्यात्वोदवप्राङ्मुखोऽपि वा ॥३७३॥  
+शस्त्रं विष्ण्वात्मकं ध्यात्वा प्रदद्याच्छिल्पने गुरुः ।  
+मुखं पृष्ठं सलाङ्गुलं शिल्पिने दर्शयेद्गुरुः ॥३७४॥**
+> **शुक्लगन्धानुलिप्ताङ्गः शुक्लपुष्पाद्यलङ्कृतः ।  
+उदङ्मुखः प्राङ्मुखो वा स्थपतिः संयतः शुचिः ॥३७५॥  
+ध्यात्वात्मदेवतां शिल्पी टङ्कहस्तो जितेन्द्रियः ।  
+यथेष्टं शातयेत् पश्चाद्यच्छिलान्तच्छृणुष्व मे ॥३७६॥  
+उदक्शिरां प्राक्शिरां वा तथैवेशानदिग्गताम् ।  
+ऊर्द्ध्वभागं भवेत् पृष्ठमधोभागं भवेन्मुखम् ॥३७७॥**
+> **किञ्चिन्मानाधिकां कृत्वा कल्पयेत् प्रतिमाशिलाम् ।  
+किञ्चिन्मानाधिका त्याज्या विविधा या च पिण्डिका ।  
+छेदयित्वा समुद्धृत्य चतुरस्रां तु कारयेत् ॥३७८॥  
+अनेनैव विधानेन परोक्ष्य गुणदोषतः ।  
+वृक्षं यत्नेन गृह्णीयाद्विधिज्ञो देशिकोत्तमः ॥३७९॥  
+समानीय रथं श्रेष्ठं सुशीलैर्वृषभैर्युतम् ।  
+रथे स्थाप्य शिलां यत्नाच्छादयित्वा तु वाससा ।  
+हरिं ध्यात्वा स्मरम्मन्त्रमध्यं दद्यात्ततो गुरुः ॥३८०॥  
+आनीयमाने तु रथे रथाङ्गपरिचारकैः ।  
+वृषभे वा समुत्पन्ने अनिमित्ते च साधकः ॥३८१॥  
+वैष्णवाग्नौ नृसिंहेन तिलैर्घृतविमिश्रितैः ।  
+हुत्वा चाष्टशतं सम्यक् तद्दोषेण विमुच्यते ॥३८२॥  
+आनीय शङ्खनिर्घोषर्गीतमङ्गल-निस्वनैः ।  
+प्रासादस्योत्तरे भागे कृत्वा कर्मकुटीं गुरुः ॥३८३॥  
+शिलां संस्थाप्य तस्मिंस्तु अर्चयित्वा बलिं हरेत् ।  
+ततः प्रवर्तयेत् कर्म विद्वान् विज्ञैस्तु शिल्पिभिः ॥३८४॥  
+किञ्च—  
+यथोक्तायां दिशायां तु न लभ्येत यदा शिला ।  
+तदा विदिक्स्थिता ग्राह्या विधिना येन तच्छृणु ॥३८५॥  
+समानीय शिलां सम्यक् पूर्वोक्तलक्षणैर्युताम् ।  
+प्रासादस्योत्तरे भागे खात्वा भूमिं विधानवित् ॥३८६॥  
+शिलां संस्थाप्य तत्खाते मृदा सम्पूरयेद्गुरुः ।  
+समीकृत्याथ तां भूमिं मण्डपं तत्र कारयेत् ॥३८७॥  
+पताकाध्वजपत्र द्यैर्भूषयीत समन्ततः ।  
+तोरणैः कदलीस्तम्भैर्वितानेन च भूषयेत् ॥३८८॥  
+प्राच्यां तु भद्रकं लिख्य तत्र विष्णुं यजेद्गुरुः ।  
+प्रबालमुक्ताफलकैर्हेमपुष्पैः समुज्ज्वलैः ॥३८९॥  
+पूर्वोक्तं सकलं वापि विधानं समुपाचरेत् ।  
+भूतक्रूरबलिं दद्यात् पूर्वोक्तविधिनैव तु ॥३९०॥  
+प्रतीच्यां पूर्वविधिना होमं कुर्याद्यथोदितम् ।  
+दिग्दोषपरिशुद्ध्यर्थं विशेषाद्धोममाचरेत् ॥३९१॥  
+पातालनरसिंहेन सहस्रं वैष्णवानले ।  
+दिग्देवानामथाङ्गानां हुत्वा पूर्णां यजेद्गुरुः ॥३९२॥  
+तर्पिते मन्त्रराजे तु दिग्दोषैर्मुच्यते शिला ।  
+ततः पूर्वोक्तविधिना कृत्वा पुष्पादिकं गुरुः ॥३९३॥  
+पूर्वोक्तेन विधानेन शिरःपृष्ठादि कल्पयेत् ।  
+मन्त्रोदकेन सम्प्रोक्ष्य शिलां तां प्रोक्षयेद्गुरुः ॥३९४॥**
+> **दिग्दोषप्रशमनार्थं गृष्टिं भव्यां स्वलङ्कृताम् ।  
+सुवर्णशृङ्गसंयुक्तां कांस्यदोहां पयस्विनीम् ।  
+ताम्रपृष्ठीं सोपवीतां दद्याद्रौप्यखरां गुरोः ॥३९५॥  
+तोषयीत गुरुं यत्नाद्वस्त्रालङ्कारणादिभिः ।  
+शिल्पिनं तोषयेद्यत्नाद्वस्त्रालङ्कारचन्दनैः ॥३९६॥  
+आचार्ये तोषिते विष्णुस्तोषितः स्यान्न सशयः ॥३९७॥  
+शिल्पिनं तोषयेदेवं विश्वकमाथ पूजितः ।  
+ततः कर्माणि युञ्जीत सर्वकामप्रदो भवेत् ॥३९८॥  
+अथ शिलालक्षणम्  
+तत्रैव—  
+क्षाराम्लसेविता या च नदीतोरसमुद्भवा ।  
+पुरमध्ये स्थिता या च तथा पितृवने स्थिता ॥३९९॥  
+चतुष्पथे स्थिता या च मृच्छिला पक्वणे च या ।  
+ऊषरे च तथा मध्ये वल्मीके वापि या स्थिता ॥४००॥  
+सूर्यरश्मिप्रतप्ता या या च दग्धा दवाग्निना ।  
+अन्यकर्मोपयुक्ता या अन्यदेवार्थनिर्मिता ॥४०१॥  
+क्रव्यादाद्यैरुपहता वज्यो यत्नेन वै शिला ।  
+येन केनचिदानीता वर्जनीया तथा शिला ॥४०२॥  
+पुण्यसेतुद्भवा ग्राह्या पुण्यतीर्थोद्भवा तु या ।  
+नदीपर्वतसंलग्ना वृक्षच्छायाद्यनावृता ॥४०३॥  
+निमग्ना भूतले या च याऽस्पृष्टा सूर्यरश्मिभिः ।  
+अन्तर्जलोषिता नद्यामेकवर्णा मनोरमा ॥४०४॥  
+पाण्डुरा चारुणा पीता कृष्णा शस्ता च वर्णिनाम् ।  
+न यदा लभ्यते सम्यग्वर्णिनां वर्णतः शिला ॥४०५॥  
+वर्णस्यापादने तत्र जुहुयात् सिंहविद्यया ।  
+कृते वर्णस्य जनने तस्य वर्णस्य सा शुभा ॥४०६॥  
+श्रेष्ठवर्णा सुवर्णा च रेखा सर्वस्य शस्यते ।  
+अपरस्य तु वर्णस्य श्रेष्ठस्य न प्रशस्यते ॥४०७॥  
+वणिनामिह सर्वेषां कृष्णरेखा विधीयते ।  
+शिलानामिह सर्वासां शुक्लरेखा प्रशस्यते ॥४०८॥  
+रेखाणामिह सर्वासां व्यत्यये होममाचरेत् ।  
+पातालनरसिंहेन सहस्रं देशिकोत्तमः ॥४०९॥  
+तापते मन्त्रराजे तु ततः सा शुभदा नृणाम् ।  
+विपरीते तु विमले विन्दुके हीरके तथा ॥४१०॥  
+इममेव विधिं कुर्यादन्यस्मिन्नापि गर्हिते ।  
+युवा मध्या भवेद्ग्राह्या बाला वृद्धा च गर्हिता ॥४११॥  
+सुगन्धा निविडा स्निग्धा तथा गम्भीरनिस्वना ।  
+शीतला या च तेजाढ्या युवेति प्रोच्यते शिला ॥४१२॥  
+तद्रूपा शोच्यते मध्या किन्तु सा कठिना भवेत् ।  
+अतिमृद्वी भवेद्वाला वृद्धातिकठिना मता ॥४१३॥  
+टङ्काघाता मता बाला वृद्धा लोकक्षयङ्करी ।  
+स्त्रीपुन्नपुंसकञ्चैव लक्षणेनैव लक्षयेत् ॥४१४॥  
+उत्पाट्यमाने दृश्येत तिन्दुकालातवत् ज्वलन् ।  
+स्फुलिङ्गः श्रूयते नादः कांस्यघण्टानिनादवत् ॥४१५॥  
+मुले मध्ये तथाग्रे च पुंलिङ्गेति तु सा स्मृता ।  
+तदेव लक्षणं यद्वन्मन्दं मन्दं प्रतीयते ॥४१६॥  
+स्त्रीलिङ्गेति तदा सा च भिन्नकांस्यध्वनिस्तु या ।  
+नपुंसकेति सा ज्ञेया न यत्रैतद्वयं भवेत् ॥४१७॥  
+पुंलिङ्गैः प्रतिमा कार्या स्त्रीलिङ्गैः पादपीठिका ।  
+पिण्डिकार्थं तु सा ग्राह्या दृष्टा या षण्डलक्षणा ॥४१८॥  
+लिङ्गानां तु विपर्यासे पूर्वोक्तं होममाचरेत् ।  
+छेदने भेदने वापि शिलागर्भः समीक्ष्यते ॥४१९॥  
+दृश्यते मण्डलं यस्यां सगर्भां तां विनिर्दिशेत् ।  
+मण्डूको मण्डले तस्या लोहिते नात्र संशयः ॥४२०॥  
+हरिद्राभे भवेद्गोधा कृष्णसर्पस्तथा सिते ।  
+निस्त्रिंशसदृशे तोयं गृहगोधा तु कर्कशे ॥४२१॥  
+आखुर्हरिद्रावर्णे स्यादरुणे सरटस्तथा ।  
+पिङ्गवर्णे तु पाषाणः पद्माभे सिकता भवेत् ॥४२२॥  
+वृश्चिकः स्थाद्विचित्रे तु पोतनीले पतङ्गकः ।  
+पारावताभे खद्योतं मण्डले तु विनिर्दिशेत् ॥४२३॥  
+अकल्पना तु मण्डूके दौर्भाग्यं गोधया भवेत् ।  
+सर्प विषेण मरणमतिवृष्टिस्तथा जले ॥४२४॥  
+धनहानिस्तु गोधायाम खुनानिष्ठमुद्भवेत् ।  
+अल्पायुष्ट्वं तु सरटे पाषाणे विद्युतो बधः ॥४२५॥  
+बालुकायामनावृष्टिः कलहो वृश्चिके भवेत् ।  
+रष्ट्रोच्छित्तिस्तु शलभे खद्योते गात्रसङ्क्षयः ॥४२६॥  
+तस्मात् परीक्ष्य यत्नेन शिलां गृह्णीत देशिकः ।  
+सगर्भया तु शिलया रूपकः क्रियते यदि ॥४२७॥  
+तद्देशे म्रियते राजा यजमानोऽथ देशिकः ।  
+शिलायामपि वृक्षेषु यत्नाद्गर्भं समीक्षयेत् ॥४२८॥  
+अथ शिल्पि-कृत्यम्  
+मत्स्ये—  
+विविक्ते संवृते स्थाने स्थपतिः संयतेन्द्रियः ।  
+पूर्ववत् कालदेशज्ञः शास्त्रज्ञः शुक्लभूषणः ॥४२९॥  
+प्रयतो नियताहारो देवताध्यानतत्परः ।  
+यजमानानुकूल्येन विद्वान् कर्म समाचरेत् ॥३३०॥  
+धृत्वा पूर्वमुखं द्रव्यमथवा चोत्तरामुखम् ।  
+दधिदूर्वाक्षतैः पूज्य तदारम्भे बलिं हरेत् ॥४३१॥  
+पूर्ववद्ब्रह्मघोषाद्यैः स्थापयेद्द्रव्यमाचरेत् ॥४३२॥**
+> **शुक्लैर्गन्धैश्च पुष्पैश्च द्रव्यं सम्पूज्य भक्तितः ।  
+स्वस्तिवाचनकं कृत्वा प्रतिमां संविभाजयेत् ॥४३३॥  
+अथ पिण्डिकालक्षणम्  
+हयशीर्षपञ्चरात्रे—  
+अतःपरं प्रवक्ष्यामि पिण्डिकालक्षणं तव ॥४३४॥  
+उच्छ्राय प्रतिमार्द्धञ्च दैर्घ्येण प्रतिमा समा ।  
+चतुःषष्टिं पुटान् कृत्वा पिण्डिकां तन्त्र कल्पयेत् ॥४३५॥  
+त्यक्त्वा पङ्क्तिद्वय चाधस्तदूर्द्ध्वं यत्तु कोष्ठकम् ।  
+समस्तमुभयोः पार्श्वं अन्तस्थं परिमार्जयेत् ॥४३६॥**
+> **ऊर्द्ध्वपङ्क्तिद्वयं कृत्वा अवस्ताद्वर्णकोष्टकम् ।  
+अन्तः थं मार्जयेद्यत्नात् पार्श्वयं रुभयोः समम् ।  
+तयोर्मध्यगतौ तत्र चतुष्कौ मार्जयेत्ततः ॥४३७॥  
+चतुर्धा भाजयित्वा तु ऊर्द्ध्वपङ्क्तिद्वयं बुधः ।  
+मेखलाभागमात्रं स्यात् खातं तस्यार्द्धमानतः ॥४३८॥  
+भागं भागं परित्यज्य पार्श्वयोरुभयोः समम् ।  
+दत्त्वा चैकं पदं बाह्ये प्रमाणं कारयेद्बुधः ॥४३९॥  
+त्रिभागेन च भागः स्यादग्रे स्यात्तोयदिगगतः ।  
+नानाप्रकारभेदेन भद्रेयं पिण्डिका शुभा ॥४४०॥  
+किञ्च तत्रैवाग्रे—  
+दैर्घ्येण प्रतिमा तुल्या तदर्द्धेन तु विस्तृता ।  
+उच्छ्रितायामतोऽर्द्धेन सुविस्तरार्द्धभागतः ॥४४१॥  
+त्रिभागेन तु बाहुल्यं तस्त्रिभागेन मेखला ।  
+खातं च तत् प्रमाणं तु किञ्चिदुत्तरतोन्नतम् ॥४४२॥  
+विस्तारस्य चतुर्थेन प्रमाणस्य विनिर्णयः ।  
+समं मूलस्य विस्तारमग्रे कुर्यात्तदर्द्धतः ॥४४३॥  
+विस्तारस्य तृतीयेन तोयमार्गन्तु कारयेत् ।  
+पिण्डिकार्द्धेन वा तुल्यं दैर्घ्यं कुशस्य कीर्तितम् ॥४४४॥**
+> **कुशबाहुल्यदैर्घ्येण ज्ञात्वा सूत्र प्रकल्पयेत् ।  
+उच्छ्रायं पूर्ववत् कुर्याद्भागशेषेण सङ्ख्यया ॥४४५॥  
+अधस्तस्य द्विभागन्तु कण्ठं कुर्यात्त्रिभागकम् ।  
+शेषा ह्येकैकशः कार्याःप्रतिष्ठा निर्गतास्तथा ॥४४६॥  
+षष्टिका पिण्डिका चेयं सामान्यप्रतिमासु च ।  
+प्रासाद-द्वारमानेन प्रतिमा-द्रव्यमुच्यते ॥४४७॥  
+गजबालकसयुक्ता प्रभा स्यात् प्रतिमासु च ।  
+पिण्डिकासु यथाशोभं कर्तव्या सततं हरेः ॥४४८॥  
+मात्स्ये—  
+पिण्डिकालक्षणं वक्ष्ये यथावदनुपूर्वशः ।  
+पीठोच्छ्रायं यथावच्च भागान् षोडशकारयेत् ॥४४९॥  
+भूमावेकः प्रतिष्ठः स्याच्चतुर्भिजङ्गती मता ।  
+वृत्तो भागस्तथैकः स्याद्वृत्तपट्टस्तु भागतः ॥४५०॥  
+भागैस्त्रिभिस्तथा कण्ठः कण्ठपट्टस्त्रिभागतः । भागाभ्यामूर्द्ध्वपट्टस्तु शेषभागेन पट्टिका ॥४५१॥  
+प्रविष्टं भागमेकैक जगती यावदेव तु ।  
+निर्गमस्तु पुनस्तस्माद्यावद्वै शेषपट्टिकाः ॥४५२॥  
+वारिनिर्गमनार्थन्तु तत्र कार्यः प्रणालकः ।  
+पोठिकानां तु सर्वासामेतत् सामान्यलक्षणम् ॥४५३॥  
+विशेषाद्देवताभेदात् शृणुध्वं द्विजसत्तमाः ।  
+स्थण्डिला वाथ वापी च यक्षी वेदी च मण्डला ॥४५४॥  
+पूर्णचन्द्रा च वज्रा च पद्मा चार्द्धशशीस्तथा ।  
+त्रिकोणा दशमी तासां संस्थानञ्च निबोधत ॥४५५॥  
+स्थण्डिला चतुरस्त्रा तु वर्जिता मेखलादिभिः ।  
+वापी द्विमेखला ज्ञेया यक्षी चैव त्रिमेखला ॥४५६॥  
+चतुरस्रायता वेदी न तां लिङ्गेषु योजयेत् ।  
+मण्डला वर्तुला या तु मेखला त्रिगुणा प्रिया ॥४५७॥  
+रक्ता द्विमेखला मध्ये पूर्णचन्द्रा प्रकीर्तिता ।  
+मेखलात्रयसंयुक्ता षडस्रा वज्रिका भवेत् ॥४५८॥  
+षोडशास्त्रा भवेत् पद्मा किञ्चित् ह्रस्वा च मूलतः ।  
+तथैव धनुराकारा सार्द्धचन्द्रा प्रशस्यते ॥४५९॥  
+त्रिशूलसदृशो तद्वत् त्रिकोणा ऊर्द्ध्वतो मता ।  
+प्रागुदक्प्रवणा तद्वत् प्रशस्ता लक्षणान्विता ॥४६०॥  
+परिवेषास्त्रिभागेन निर्देशं तत्र कारयेत् ।  
+विस्तार तत्प्रमाणं तु मूले चाग्रे तथोर्द्ध्वतः ॥४६१॥  
+जलमार्गस्तु कर्तव्यस्त्रिभागेन सुशोभनः ।  
+लिङ्गस्यार्द्धत्रिभागेन स्थौल्येन समधिष्ठितः ॥४६२॥  
+मेखला तु त्रिभागेन खातं वै तत्प्रमाणतः ।  
+अथवा पादहीनं तु शोभनं कारयेत् सदा ॥४६३॥  
+उत्तरस्थं प्रमाणन्तु प्रमाणादधिकं भवेत् ।   
+स्थण्डिलायामथारोग्यं धन-धान्यञ्च पुष्कलम् ॥४६४॥  
+गोप्रदा तु भवेद्यक्षी वेदी सम्पत्प्रदा भवेत् ।  
+मण्डलायां भवेत् कीर्तिर्वरदा पूर्णचन्द्रिका ॥४६५॥  
+अयुप्रदा भवेद्वज्री पद्मा सौभाग्यदायिनी ।  
+पुत्रदा त्वर्द्धचन्द्रा स्यात्त्रिकोणा शत्रुनाशिनी ॥४६६॥  
+देवस्य यजनार्थं तु पिण्डिका दश कीर्तिताः ।  
+शैले शैलमयीं पिण्डीं पार्थिवे पार्थिवीं तथा ॥४६७॥  
+दारुजे दारुजां कुर्यान्मिश्रे मिश्रां तथैव च ।  
+नान्ययोनिस्तु कार्या वै सदा शुभफलेप्सुभिः ॥४६८॥  
+अर्चायाम-समं दैर्घ्यं लिङ्गायाम-समं तथा ।  
+यस्य देवस्य या पत्नी तां पीठे परिकल्पयेत् ।  
+एवमेव समारख्यातं समासात् पीठलक्षणम् ॥४६९॥  
+किञ्च—  
+द्वारोच्छ्रायस्य यन्मानमष्टधा तत्तु कारयेत् ।  
+भागद्वयेन प्रतिमां त्रिभागीकृत्य तत् पुनः ।  
+पिण्डिका भागतः कार्या नातिनीचा न चोच्छुरिता ॥४७०॥  
+श्रीनारदपञ्चरात्रे च—  
+विम्बमानाद्यथा पीठं कुर्याद्देवस्य तच्छृणु ।  
+चतुरस्त्रञ्च तद्विद्धि चतुरस्रायतं तु वा ॥४७१॥  
+विम्बोच्छ्राय-समं पीठं परितश्चैव विस्तृतम् ।  
+तदर्द्धनोन्नतं कुर्य देतत् सामान्यलक्षणम् ॥४७२॥  
+चतुरस्रस्य पीठस्य कथितं तु महामुने ।  
+चतुरस्र यतस्याथ प्रमाणमवधारय ॥४७३॥  
+विम्बाद्धीनन्तु विस्तीर्णं तत्प्रमाणेन चोन्नतम् ।  
+समं देवस्य दैर्घ्यं वा चतुरस्रायतं तु तत् ॥४७४॥  
+कार्य तुङ्गालयस्थानां देवतानां महामुने ।  
+चलानां वेश्मसंस्थानां विम्बानां पीठमन्यथा ॥४७५॥**
+> **कुर्याद्विम्बसमं दैर्घ्यं स्वेन मानेन वा पुनः ।  
+आपादजानुहुर्यन्त विस्तारेणोच्छ्रयेण च ॥४७६॥  
+ऊर्वर्द्धेनाथवा कुर्यात् सविस्तार द्विजोन्नतिम् ।  
+वक्षोऽन्तरे वा विम्बस्य तस्यार्द्धेन च विस्तृतम् ॥४७७॥  
+तच्चतुर्भागहीनं तु त्रिभागं चार्द्धमेव वा ।  
+अङ्ग त्वं विद्धि तत् पीठं चलविम्बस्य सर्वदा ॥४७८॥  
+धातुद्रव्यस्य चाभावात् स्थिराणामेकमेव च ।  
+कृत्वा तु तदधः कुर्यादुपपीठ प्रमानतः ॥४७९॥  
+त्रिभागेनाथ पीठस्य प्रमाणं मध्यतो भवेत् ।  
+तन्मानेन ततो दैर्घ्य स्वमानाग्रतः पुनः ॥४८०॥  
+त्र्यंशमानेन विस्तीर्णं तस्यापि त्र्यंशमन्तरा ।  
+निखनेदग्रतो मूलात् तत् कुर्यान्मकराननम् ॥४८१॥**
+> **इत्यादि ।  
+इति श्रीगोपालभट्ट-विलिखिते श्रीभगवद्भक्तिविलासे श्रीमूर्तिप्रादुर्भावो नामाष्टादशो विलासः ।**
