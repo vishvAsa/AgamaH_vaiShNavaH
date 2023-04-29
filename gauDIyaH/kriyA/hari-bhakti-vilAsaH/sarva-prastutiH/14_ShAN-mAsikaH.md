@@ -1,5 +1,5 @@
 +++
-title = "14_ShAN-mAsikaH"
+title = "१४ षाण्-मासिकः"
 
 +++
 (१४)

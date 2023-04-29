@@ -1,5 +1,5 @@
 +++
-title = "17_purashcharaNam"
+title = "१७ पुरश्चरणम्"
 
 +++
 सप्तदशो विलासः

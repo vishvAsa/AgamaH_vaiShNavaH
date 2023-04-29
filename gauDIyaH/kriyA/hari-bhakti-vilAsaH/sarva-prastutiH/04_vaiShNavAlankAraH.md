@@ -1,5 +1,5 @@
 +++
-title = "04_vaiShNavAlankAraH"
+title = "०४ वैष्णवालङ्कारः"
 
 +++
 चतुर्थो विलासः

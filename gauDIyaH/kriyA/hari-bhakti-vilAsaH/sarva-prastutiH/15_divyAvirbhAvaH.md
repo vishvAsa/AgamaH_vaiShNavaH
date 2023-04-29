@@ -1,5 +1,5 @@
 +++
-title = "15_divyAvirbhAvaH"
+title = "१५ दिव्याविर्भावः"
 
 +++
 

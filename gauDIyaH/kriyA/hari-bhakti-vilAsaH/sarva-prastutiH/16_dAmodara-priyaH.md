@@ -1,5 +1,5 @@
 +++
-title = "16_dAmodara-priyaH"
+title = "१६ दामोदर-प्रियः"
 
 +++
 
