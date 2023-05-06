@@ -3,7 +3,7 @@ title = "+लघ्वाह्निकम्"
 
 +++
 
-
+Source: [TW](https://archive.org/details/Vaishvadeva/laghvAhnikam/page/91/mode/2up)
 
 श्रीः 
 ॥श्रियै नमः॥  
