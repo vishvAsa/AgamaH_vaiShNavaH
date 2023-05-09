@@ -1,7 +1,9 @@
 ---
-title: रामतापिन्युपनिषत्
+title: राम-तापिन्य्-उपनिषत्
 
 ---
+
+Source: [परिष्कृततरा](http://satsangdhara.net/upa/ramatapini-P.htm)
   
 श्रीरामतापिन्युपनिषत्   
 
@@ -728,7 +730,4 @@ title: रामतापिन्युपनिषत्
 इति रामोत्तरतापिन्युपनिषत्समाप्ता ॥  
   
 इति रामतापिन्युपनिषत्समाप्ता॥  
-  
-  
-Encoded by Sunder Hattangadi (sunderh@hotmail.com)  
-  
+
