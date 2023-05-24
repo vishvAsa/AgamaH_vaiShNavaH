@@ -54,15 +54,14 @@ title = "पञ्चसंस्कारप्रयोगः"
 इति पश्चाद् आरभ्य, मध्ये प्राची सततां लेखां लिखित्वा,  
 तद्दक्षिणतः,  
 
-> ‘ओं नाके॑ सुप॒र्णम् उप॒यत् पत॑न्तँ हृ॒दा वे॑नन्तो अ॒भ्यच॑क्षतत्वा ।  
-हिर॑ण्यपक्षं॒ वरु॑णस्य दू॒तं, य॒मस्य॒ योनौ॑ शकु॒नं भु॑र॒ण्युम् ।।’ 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/06_nAke_suparNamupa.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इति प्रादेशमात्रां तथैव लेखां विलिख्य,  
 तस्या उत्तरतः, 
 
-> “ओं आप्या॑यस्व॒ समे॑तु॒ ते  
-वि॒श्वत॑स् सोम॒ वृष्ण॑यम् ।  
-भव वाज॑स्य सङ्ग॒थे ॥” 
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/12/112_ApyAyasva_sametu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इति तथैव लेखां विलिख्य, 
 
