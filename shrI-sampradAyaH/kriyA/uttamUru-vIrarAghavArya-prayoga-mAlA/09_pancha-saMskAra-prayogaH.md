@@ -49,23 +49,19 @@ title = "पञ्चसंस्कारप्रयोगः"
 इति सङ्कल्प्य, स्थण्डिलं कृत्वा,
 
 ### उल्लेखनम्
-> ‘‘ओं ब्रह्म॑ जज्ञा॒नं प्र॑थ॒मं पु॒रस्ता॑ता॒द्  
-> विसी॑म॒तस्सुरुवो॑ वे॒न आ॑वः ।  
-> स ब॒ध्निया॑ उप॒मा अ॑स्य वि॒ष्ठास्  
-> सतश्च योनिमस॑त॒श्चविर्वः ॥” 
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/13/03_brahma_jajnAnam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 इति पश्चाद् आरभ्य, मध्ये प्राची सततां लेखां लिखित्वा,  
 तद्दक्षिणतः,  
 
-> ‘ओं नाके॑ सुप॒र्णम् उप॒यत् पत॑न्तँ हृ॒दा वे॑नन्तो अ॒भ्यच॑क्षतत्वा ।  
-हिर॑ण्यपक्षं॒ वरु॑णस्य दू॒तं, य॒मस्य॒ योनौ॑ शकु॒नं भु॑र॒ण्युम् ।।’ 
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/123/06_nAke_suparNamupa.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इति प्रादेशमात्रां तथैव लेखां विलिख्य,  
 तस्या उत्तरतः, 
 
-> “ओं आप्या॑यस्व॒ समे॑तु॒ ते  
-वि॒श्वत॑स् सोम॒ वृष्ण॑यम् ।  
-भव वाज॑स्य सङ्ग॒थे ॥” 
+<div class="js_include" url="/vedAH_yajuH/vAjasaneyam/mAdhyandinam/saMhitA/vishvAsa-prastutiH/12/112_ApyAyasva_sametu.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 इति तथैव लेखां विलिख्य, 
 
@@ -147,10 +143,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 
 > ४. पवमानस्सुवर्जनः ( पुटे - ५ ) ....
 
-> ५. विष्णो॒नु॑ कं॑ वी॒र्या॑णि॒ प्र वो॑चं॒ -  
-यः पार्थि॑वानि विम॒मे, रजाँ॑सि॒  
-यो अस्क॑भाय॒द् उत्त॑रँ स॒धस्थे॑  
-विचक्रमा॒णस् त्रे॒धोरु॑गा॒यो  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/154/01_viShNornu_kaM.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 > विष्णो॑ र॒राट॑म् असि॒  
 > विष्णोः॑ पृष्ठम् अ॑सि॒  
