@@ -49,6 +49,7 @@ title = "१३ सुदर्शनपाञ्चजन्यप्रति�
 
 
 ## नीलासूक्तम् ।
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/paddhatiH/shrIvaiShNavaH/mantraH/nIlA-sUktam/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ## पुरुषसूक्तम् 
@@ -58,7 +59,7 @@ title = "१३ सुदर्शनपाञ्चजन्यप्रति�
 
 ॥ ब्रह्मसूक्तम् ॥
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/8_21-26_brahma_jaJNAnam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/8_21-26_brahma_jaJNAnam/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ॥ सुदर्शनपाञ्चजन्यप्रतिष्ठाविधिः समाप्तः ॥
