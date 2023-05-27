@@ -62,6 +62,8 @@ title = "१३ सुदर्शनपाञ्चजन्यप्रति�
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/8_21-26_brahma_jaJNAnam/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
-॥ सुदर्शनपाञ्चजन्यप्रतिष्ठाविधिः समाप्तः ॥
+## श्रीसूक्तम्
+<div class="js_include" url="/vedAH_Rk/shAkalam/khilAni/2/06_shrI-sUktam/"  newLevelForH1="5" includeTitle="false"> </div>  
+
 
 [[73]]
