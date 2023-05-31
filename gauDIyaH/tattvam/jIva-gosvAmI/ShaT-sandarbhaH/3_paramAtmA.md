@@ -1,5 +1,5 @@
 +++
-title = "Jiva Gosvami: Satsamdarbha 3"
+title = "३ परमात्मा"
 
 +++
 
