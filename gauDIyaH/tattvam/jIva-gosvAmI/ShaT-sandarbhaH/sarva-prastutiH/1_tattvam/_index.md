@@ -42,15 +42,6 @@ In order to facilitate the recognition of the different commentaries, the follow
 
 **तत्त्व-सन्दर्भः**
 
-
-
-
-षट्-सन्दर्भ-नामक-
-
-श्री-भागवत-सन्दर्भे प्रथमः
-
-**तत्त्व-सन्दर्भः**
-
 —ओ)०(ओ—
 
 श्री-कृष्णो जयति ।
