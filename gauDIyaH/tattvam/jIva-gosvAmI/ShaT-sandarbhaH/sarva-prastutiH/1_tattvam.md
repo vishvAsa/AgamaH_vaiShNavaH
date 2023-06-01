@@ -2356,5 +2356,3 @@ In order to facilitate the recognition of the different commentaries, the follow
 इति श्रीमद्-बलदेव-विद्या-भूषण-विरचिता तत्त्व-सन्दर्भ-टिप्पणी समाप्ता ॥
 
 
-## नोतेस्
-
