@@ -36,2328 +36,2328 @@ In order to facilitate the recognition of the different commentaries, the follow
 
 
 
-षट्-सन्दर्भ-नामक-
+ṣaṭ-sandarbha-nāmaka-
 
-श्री-भागवत-सन्दर्भे प्रथमः
+śrī-bhāgavata-sandarbhe prathamaḥ
 
-**तत्त्व-सन्दर्भः**
-
-
-
-
-षट्-सन्दर्भ-नामक-
-
-श्री-भागवत-सन्दर्भे प्रथमः
-
-**तत्त्व-सन्दर्भः**
-
-—ओ)०(ओ—
-
-श्री-कृष्णो जयति ।
-
-
-## मङ्गलाचरणम्
-अथ मङ्गलाचरणम्[^१]
-
-[१]
-
-[^१]:
-    अत्र शिरो-वाक्यं कस्मिंश्चित् हस्त-लिप्यां न लभ्यते । तद् एव प्रकरण-लब्धम् इति सम्पादकेनानेन संयोजितम्। अस्य सन्दर्भस्य तिस्रो विभागाः—मङ्गलाचरणं, प्रमाण-प्रकरणं, प्रामेय-प्रकरणं च ।
+**tattva-sandarbhaḥ**
 
 
 
-> **कृष्ण-वर्णं त्विषाकृष्णं साङ्गोपाङ्गास्त्र-पार्षदम् ।**  
-> **यज्ञैः सङ्कीर्तन-प्रायैर् यजन्ति हि सुमेधसः ॥१॥ **[भा।पु। ११.५.३२]
 
-**सर्व-संवादिनी : **श्री-कृष्ण-चैतन्य-चन्द्राय नमः ।
+ṣaṭ-sandarbha-nāmaka-
 
-श्री-कृष्णं नमता नाम सर्व-संवादिनी नाम ।
+śrī-bhāgavata-sandarbhe prathamaḥ
 
-श्री-भागवत-सन्दर्भस्यानुव्याख्या विरच्यते ॥
+**tattva-sandarbhaḥ**
 
-अथ श्री-भागवत-सन्दर्भ-नामानं ग्रन्थम् आरभमाणो महा-भागवत-कोटि-बहिर्-अन्तर्-दृष्टि-निष्टङ्कित-भगवद्-भविष्यत् निजावतार-प्रचार-प्रचारित-स्व-स्वरूप-भगवत्-पद-कमलावलम्बि-दुर्लभ-प्रेम-पीयूष-मय-गङ्गा-प्रवाह-सहस्रं स्व-सम्प्रदाय-सहस्राधिदैवं श्री-कृष्ण-चैतन्य-देव-नामानं श्री-भगवन्तं कलि-युगेऽस्मिन् वैष्णव-जनोपास्यतयावतारस्यार्थ-विशेषालिङ्गितेन श्री-भागवत-पद्य-संवादेन स्तौति—कृष्ण-वर्णम् इति । एकादश-स्कन्धे कलि-युगोपास्य-प्रसङ्गे पद्यम् इदम् । अर्थश् च—त्विषा कान्त्या योऽकृष्णो गौरस् तं कलौ सुमेधसो यजन्ति । गौरत्वं चास्य—
+—o)0(o—
+
+śrī-kṛṣṇo jayati |
+
+
+## maṅgalācaraṇam
+atha maṅgalācaraṇam[^1]
+
+[1]
+
+[^1]:
+    atra śiro-vākyaṁ kasmiṁścit hasta-lipyāṁ na labhyate | tad eva prakaraṇa-labdham iti sampādakenānena saṁyojitam. asya sandarbhasya tisro vibhāgāḥ—maṅgalācaraṇaṁ, pramāṇa-prakaraṇaṁ, prāmeya-prakaraṇaṁ ca |
+
+
+
+> **kṛṣṇa-varṇaṁ tviṣākṛṣṇaṁ sāṅgopāṅgāstra-pārṣadam |**  
+> **yajñaiḥ saṅkīrtana-prāyair yajanti hi sumedhasaḥ ||1|| **[bhā.pu. 11.5.32]
+
+**sarva-saṁvādinī : **śrī-kṛṣṇa-caitanya-candrāya namaḥ |
+
+śrī-kṛṣṇaṁ namatā nāma sarva-saṁvādinī nāma |
+
+śrī-bhāgavata-sandarbhasyānuvyākhyā viracyate ||
+
+atha śrī-bhāgavata-sandarbha-nāmānaṁ grantham ārabhamāṇo mahā-bhāgavata-koṭi-bahir-antar-dṛṣṭi-niṣṭaṅkita-bhagavad-bhaviṣyat nijāvatāra-pracāra-pracārita-sva-svarūpa-bhagavat-pada-kamalāvalambi-durlabha-prema-pīyūṣa-maya-gaṅgā-pravāha-sahasraṁ sva-sampradāya-sahasrādhidaivaṁ śrī-kṛṣṇa-caitanya-deva-nāmānaṁ śrī-bhagavantaṁ kali-yuge’smin vaiṣṇava-janopāsyatayāvatārasyārtha-viśeṣāliṅgitena śrī-bhāgavata-padya-saṁvādena stauti—kṛṣṇa-varṇam iti | ekādaśa-skandhe kali-yugopāsya-prasaṅge padyam idam | arthaś ca—tviṣā kāntyā yo’kṛṣṇo gauras taṁ kalau sumedhaso yajanti | gauratvaṁ cāsya—
 
 > 
 
-आसन् वर्णास् त्रयो ह्य् अस्य गृह्णतोऽनुयुगं तनुः ।
+āsan varṇās trayo hy asya gṛhṇato’nuyugaṁ tanuḥ |
 
-> शुक्लो रक्तस् तथा पीत इदानीं कृष्णतां गतः ॥ [भा।पु। १०.८.१३]
+> śuklo raktas tathā pīta idānīṁ kṛṣṇatāṁ gataḥ || [bhā.pu. 10.8.13]
 
-इत्य् अतः पारिशेष्य-प्रमाण-लब्धम् । इदानीम् एतद् अवतारास्पदत्वेनाभिख्याते द्वापरे कृष्णतां गत इत्य् उक्तेः शुक्ल-रक्तयोः सत्य-त्रेता-गतत्वेनैकादश एव वर्णितत्वाच् च । पीतस्यातीतत्वं प्राचीन-तद्-अवतारापेक्षया । उक्तं चैकादशे द्वापरोपास्यत्वं श्री-कृष्णस्य श्यामत्व-महाराजत्व-वासुदेवादि-चतुर्मूर्तित्व-लक्षण-तल्-लिङ्ग-कथनेन—
+ity ataḥ pāriśeṣya-pramāṇa-labdham | idānīm etad avatārāspadatvenābhikhyāte dvāpare kṛṣṇatāṁ gata ity ukteḥ śukla-raktayoḥ satya-tretā-gatatvenaikādaśa eva varṇitatvāc ca | pītasyātītatvaṁ prācīna-tad-avatārāpekṣayā | uktaṁ caikādaśe dvāparopāsyatvaṁ śrī-kṛṣṇasya śyāmatva-mahārājatva-vāsudevādi-caturmūrtitva-lakṣaṇa-tal-liṅga-kathanena—
 
 
-> द्वापरे भगवाञ् श्यामः पीत-वासा निजायुधः ।  
-> श्रीवत्सादिभिर् अङ्कैश् च लक्षणैर् उपलक्षितः ॥   
-> तं तदा पुरुषं मर्त्या महा-राजोपलक्षणम् ।  
-> यजन्ति वेद-तन्त्राभ्यां परं जिज्ञासवो नृप ॥  
-> नमस् ते वासुदेवाय नमः सङ्कर्षणाय च ।  
-> प्रद्युम्नायानिरुद्धाय तुभ्यं भगवते नमः ॥ [भा।पु। ११.५.२७-२९] इति ।
+> dvāpare bhagavāñ śyāmaḥ pīta-vāsā nijāyudhaḥ |  
+> śrīvatsādibhir aṅkaiś ca lakṣaṇair upalakṣitaḥ ||   
+> taṁ tadā puruṣaṁ martyā mahā-rājopalakṣaṇam |  
+> yajanti veda-tantrābhyāṁ paraṁ jijñāsavo nṛpa ||  
+> namas te vāsudevāya namaḥ saṅkarṣaṇāya ca |  
+> pradyumnāyāniruddhāya tubhyaṁ bhagavate namaḥ || [bhā.pu. 11.5.27-29] iti |
 
-अतो विष्णु-धर्मोत्तरादौ यच् च द्वापरे शुक-पक्ष-वर्णत्वम्, कलौ च नील-घन-वर्णत्वं श्रूयते, तद् अपि यदा श्री-कृष्णावतारो न स्यात्, तद् द्वापर-विषयम् एव मन्तव्यम् । एवं च यद्-द्वापरे श्री-कृष्णोऽवतरति, तद्-अनन्तर-कलाव् एव श्री-गौरोऽप्य् अवतरतीति स्वारस्य-लब्धेः, साक्षात् स्वयं श्री-कृष्णाविर्भाव-विशेष एवायं श्री-गौर इत्य् आयाति, तद्-अव्यभिचारात् । अत एव यद् विष्णु-धर्मोत्तरे निर्णीतम्—
+ato viṣṇu-dharmottarādau yac ca dvāpare śuka-pakṣa-varṇatvam, kalau ca nīla-ghana-varṇatvaṁ śrūyate, tad api yadā śrī-kṛṣṇāvatāro na syāt, tad dvāpara-viṣayam eva mantavyam | evaṁ ca yad-dvāpare śrī-kṛṣṇo’vatarati, tad-anantara-kalāv eva śrī-gauro’py avataratīti svārasya-labdheḥ, sākṣāt svayaṁ śrī-kṛṣṇāvirbhāva-viśeṣa evāyaṁ śrī-gaura ity āyāti, tad-avyabhicārāt | ata eva yad viṣṇu-dharmottare nirṇītam—
 
-> प्रत्यक्ष-रूप-धृग्-देवो दृश्यते न कलौ हरिः ।  
-> कृतादिष्व् एव तेनैव त्रियुगः परिपठ्यते ॥  
-> कलेर् अन्ते च सम्प्राप्ते कल्किनं ब्रह्म-वादिनाम् ।  
-> अनुप्रविश्य कुरुते वासुदेवो जगत्-स्थितिम् ॥ [वि।ध। १०४][^२] इत्य्-आदि ।
+> pratyakṣa-rūpa-dhṛg-devo dṛśyate na kalau hariḥ |  
+> kṛtādiṣv eva tenaiva triyugaḥ paripaṭhyate ||  
+> kaler ante ca samprāpte kalkinaṁ brahma-vādinām |  
+> anupraviśya kurute vāsudevo jagat-sthitim || [vi.dha. 104][^2] ity-ādi |
 
-[^२]:
-    अत्र कैश्चित् “चतुर्युगावस्था” लिख्यते । तत् तु न मम प्रकाशित-विष्णु-धर्मोत्तर-संस्करणे न कुत्रापि लब्धम् ।
+[^2]:
+    atra kaiścit “caturyugāvasthā” likhyate | tat tu na mama prakāśita-viṣṇu-dharmottara-saṁskaraṇe na kutrāpi labdham |
 
 
-तद् अप्य् अमर्यादैश्वर्य-कृष्णत्वेनैवातिक्रान्तम्, तस्य [श्री-गौरस्य] कलि-प्रथम-व्याप्ति-[श्री-कृष्ण-श्रीगौरयोर् अवतरणे मिथोऽव्यभिचरित-सम्बन्ध]-दर्शनात् ।
+tad apy amaryādaiśvarya-kṛṣṇatvenaivātikrāntam, tasya [śrī-gaurasya] kali-prathama-vyāpti-[śrī-kṛṣṇa-śrīgaurayor avataraṇe mitho’vyabhicarita-sambandha]-darśanāt |
 
-तद् एतद्-आविर्भावत्वं तस्य स्वयम् एव विशेषण-द्वारा व्यनक्ति—कृष्ण-वर्णम् । कृष्णेत्य् एतौ वर्णौ यत्र यस्मिन् श्री-कृष्ण-चैतन्य-देव-नाम्नि श्री-कृष्णत्वाभिव्यञ्जकं कृष्णेति वर्ण-युगलं प्रयुक्तम् अस्तीत्य् अर्थः। तृतीये श्रीमद्-उद्धव-वाक्ये—समाहुताह्[^३][भा।पु। ३.३.३] इत्य्-आदि-पद्ये, श्रियः सवर्णेन इत्य् अत्र [श्रीधर-स्वामि-पाद-कृतायां] टीकायाम्, “श्रियो रुक्मिण्याः समानं वर्ण-द्वयं वाचकं यस्य स श्रियः स-वर्णो रुक्मी” इत्य् अपि दृश्यते । 
+tad etad-āvirbhāvatvaṁ tasya svayam eva viśeṣaṇa-dvārā vyanakti—kṛṣṇa-varṇam | kṛṣṇety etau varṇau yatra yasmin śrī-kṛṣṇa-caitanya-deva-nāmni śrī-kṛṣṇatvābhivyañjakaṁ kṛṣṇeti varṇa-yugalaṁ prayuktam astīty arthaḥ| tṛtīye śrīmad-uddhava-vākye—samāhutāh[^3][bhā.pu. 3.3.3] ity-ādi-padye, śriyaḥ savarṇena ity atra [śrīdhara-svāmi-pāda-kṛtāyāṁ] ṭīkāyām, “śriyo rukmiṇyāḥ samānaṁ varṇa-dvayaṁ vācakaṁ yasya sa śriyaḥ sa-varṇo rukmī” ity api dṛśyate | 
 
-[^३]:
-    समाहुता भीष्मक-कन्यया ये
-    श्रियः सवर्णेन बुभूषयैषाम् ।
-    गान्धर्व-वृत्त्या मिषतां स्व-भागं
-    जह्रे पदं मूर्ध्नि दधत् सुपर्णः ॥
+[^3]:
+    samāhutā bhīṣmaka-kanyayā ye
+    śriyaḥ savarṇena bubhūṣayaiṣām |
+    gāndharva-vṛttyā miṣatāṁ sva-bhāgaṁ
+    jahre padaṁ mūrdhni dadhat suparṇaḥ ||
 
 
-यद् वा, कृष्णं वर्णयति तादृश-स्व-परमानन्द-विलास-स्मरणोल्लास-वशतया स्वयं गायति, परम-कारुणिकतया च सर्वेभ्योऽपि लोकेभ्यस् तम् एवोपदिशति यस् तम् । 
+yad vā, kṛṣṇaṁ varṇayati tādṛśa-sva-paramānanda-vilāsa-smaraṇollāsa-vaśatayā svayaṁ gāyati, parama-kāruṇikatayā ca sarvebhyo’pi lokebhyas tam evopadiśati yas tam | 
 
-अथवा स्वयम् अकृष्णं गौरं त्विषा स्व-शोभा-विशेषेणैव कृष्ण-वर्णं कृष्णोपदेष्टारं च । यद्-दर्शनेनैव सर्वेषां श्री-कृष्णः स्फुरतीत्य् अर्थः । 
+athavā svayam akṛṣṇaṁ gauraṁ tviṣā sva-śobhā-viśeṣeṇaiva kṛṣṇa-varṇaṁ kṛṣṇopadeṣṭāraṁ ca | yad-darśanenaiva sarveṣāṁ śrī-kṛṣṇaḥ sphuratīty arthaḥ | 
 
-किं वा, सर्व-लोक-दृष्टाव् अकृष्णं गौरम् अपि भक्त-विशेष-दृष्टौ त्विषा प्रकाश-विशेषेण कृष्ण-वर्णं तादृश-श्यामसुन्दरम् एव सन्तम् इत्य् अर्थः । तस्मात् तस्मिन् सर्वथा श्री-कृष्ण-रूपस्यैव प्रकाशात् तस्यैव साक्षाद् आविर्भावः स्वयं स इति भावः ।
+kiṁ vā, sarva-loka-dṛṣṭāv akṛṣṇaṁ gauram api bhakta-viśeṣa-dṛṣṭau tviṣā prakāśa-viśeṣeṇa kṛṣṇa-varṇaṁ tādṛśa-śyāmasundaram eva santam ity arthaḥ | tasmāt tasmin sarvathā śrī-kṛṣṇa-rūpasyaiva prakāśāt tasyaiva sākṣād āvirbhāvaḥ svayaṁ sa iti bhāvaḥ |
 
-तस्य श्री-भगवत्त्वम् एव स्पष्टयति—साङ्गोपाङ्गास्त्र-पार्षदम्, बहुभिर् महानुभावैर् असकृद् एव तथा दृष्टोऽसाव् इति गौड-वरेन्द्र-बङ्ग-शुह्मोत्कलादि-देशीयानां महा-प्रसिद्धिः[^४] । तथाङ्गानि, परम-मनोहरत्वात्। उपाङ्गानि भूषणादीनि, महा-प्रभाववत्त्वात्, तान्य् एवास्त्राणि सर्वदैकान्त-वासित्वात् । तान्य् एव पार्षदा । यद् वा, अत्यन्त-प्रेमास्पदत्वात् तत्-तुल्या एव पार्षदाः श्रीमद्-अद्वैताचार्य-महानुभाव-चरण-प्रभृतयः, तैः सह वर्तमानम् इति चार्थान्तरेण व्यक्तम् । 
+tasya śrī-bhagavattvam eva spaṣṭayati—sāṅgopāṅgāstra-pārṣadam, bahubhir mahānubhāvair asakṛd eva tathā dṛṣṭo’sāv iti gauḍa-varendra-baṅga-śuhmotkalādi-deśīyānāṁ mahā-prasiddhiḥ[^4] | tathāṅgāni, parama-manoharatvāt| upāṅgāni bhūṣaṇādīni, mahā-prabhāvavattvāt, tāny evāstrāṇi sarvadaikānta-vāsitvāt | tāny eva pārṣadā | yad vā, atyanta-premāspadatvāt tat-tulyā eva pārṣadāḥ śrīmad-advaitācārya-mahānubhāva-caraṇa-prabhṛtayaḥ, taiḥ saha vartamānam iti cārthāntareṇa vyaktam | 
 
-[^४]:
-    प्रसिद्देः इति पाठः।
+[^4]:
+    prasiddeḥ iti pāṭhaḥ.
 
 
-तम् एवं-भूतं कैर् यजन्ति ? यज्ञैः पूजा-सम्भारैः । न यत्र यज्ञेश-मखा महोत्सवाः [भा।पु। ५.१९.२३] इत्य् उक्तेः । तत्र च विशेषणेन तम् एवाभिधेयं व्यनक्ति—सङ्कीर्तनं बहुभिर् मिलित्वा तद्-गान-सुखं श्री-कृष्ण-गानम्, तत्-प्रधानैः । तथा सङ्कीर्तन-प्राधान्यस्य तद्-आश्रितेष्व् असकृद् एव दर्शनात् स एवात्राभिधेय इति स्पष्टम् ॥१॥ 
+tam evaṁ-bhūtaṁ kair yajanti ? yajñaiḥ pūjā-sambhāraiḥ | na yatra yajñeśa-makhā mahotsavāḥ [bhā.pu. 5.19.23] ity ukteḥ | tatra ca viśeṣaṇena tam evābhidheyaṁ vyanakti—saṅkīrtanaṁ bahubhir militvā tad-gāna-sukhaṁ śrī-kṛṣṇa-gānam, tat-pradhānaiḥ | tathā saṅkīrtana-prādhānyasya tad-āśriteṣv asakṛd eva darśanāt sa evātrābhidheya iti spaṣṭam ||1|| 
 
-**बलदेवः :** श्री-कृष्णो जयति । 
+**baladevaḥ :** śrī-kṛṣṇo jayati | 
 
-भक्त्य्-आभासेनापि तोषं दधाने
+bhakty-ābhāsenāpi toṣaṁ dadhāne
 
-धर्माध्यक्षे विश्व-निस्तारि-नाम्नि ।
+dharmādhyakṣe viśva-nistāri-nāmni |
 
-नित्यानन्दाद्वैत-चैतन्य-रूपे
+nityānandādvaita-caitanya-rūpe
 
-तत्त्वे तस्मिन् नित्यम् आस्तां रतिर् नः ॥
+tattve tasmin nityam āstāṁ ratir naḥ ||
 
-मायावादं यस् तमः-स्तोमम्
+māyāvādaṁ yas tamaḥ-stomam
 
-उच्चैर् नाशं निन्ये वेद-वाग्-अंशु-जालैः ।
+uccair nāśaṁ ninye veda-vāg-aṁśu-jālaiḥ |
 
-भक्तिर् विष्णोर् दर्शिता येन लोके
+bhaktir viṣṇor darśitā yena loke
 
-जीयात् सोऽयं भानुर् आनन्द-तीर्थः ॥
+jīyāt so’yaṁ bhānur ānanda-tīrthaḥ ||
 
-गोविन्दाभिधम् इन्दिराश्रित-पदं हस्त-स्थ-रत्नादिवत् ।
+govindābhidham indirāśrita-padaṁ hasta-stha-ratnādivat |
 
-तत्त्वं तत्त्व-विद् उत्तमौ क्षिति-तले यौ दर्शयाञ्चक्रतुः ॥
+tattvaṁ tattva-vid uttamau kṣiti-tale yau darśayāñcakratuḥ ||
 
-मायावाद-महान्धकार-पटली-सत्-पुष्पवन्तौ सदा
+māyāvāda-mahāndhakāra-paṭalī-sat-puṣpavantau sadā
 
-तौ श्री-रूप-सनातनौ विरचिताश्चर्यौ सुवर्यौ स्तुमः ॥
+tau śrī-rūpa-sanātanau viracitāścaryau suvaryau stumaḥ ||
 
-यः साङ्ख्य-पङ्केन कुतर्क-पांशुना
+yaḥ sāṅkhya-paṅkena kutarka-pāṁśunā
 
-विवर्त-गर्तेन च लुप्त-दीधितिम् ।
+vivarta-gartena ca lupta-dīdhitim |
 
-शुद्धं व्यधाद् वाक्-सुधया महेश्वरं
+śuddhaṁ vyadhād vāk-sudhayā maheśvaraṁ
 
-कृष्णं स जीवः प्रभुर् अस्तु नो गतिः ॥
+kṛṣṇaṁ sa jīvaḥ prabhur astu no gatiḥ ||
 
-आलस्या अप्रवृत्तिः स्यात् पुंसां यद् ग्रन्थ-विस्तरे ।
+ālasyā apravṛttiḥ syāt puṁsāṁ yad grantha-vistare |
 
-अतोऽत्र गूढे सन्दर्भे टिप्पन्य् अल्पा प्रकाश्यते ॥
+ato’tra gūḍhe sandarbhe ṭippany alpā prakāśyate ||
 
-श्रीमज्-जीवेन ये पाठाः सन्दर्भेऽस्मिन् परिष्कृताः ।
+śrīmaj-jīvena ye pāṭhāḥ sandarbhe’smin pariṣkṛtāḥ |
 
-व्याख्यायन्ते त एवामी नान्ये ये तेन हेलिताः ॥
+vyākhyāyante ta evāmī nānye ye tena helitāḥ ||
 
-श्री-बादरायणो भगवान् व्यासो ब्रह्म-सूत्राणि प्रकाश्य तद्-भाष्य-भूतं श्री-भागवतम् आविर्भाव्य शुकं तद्-अध्यापितवान् । तद्-अर्थं निर्णेतु-कामः श्री-जीवः प्रत्यूह-कुलाचल-कुलिशं वाञ्छित-पीयूष-बलाहक-स्वेष्ट-वस्तु-निर्देशं मङ्गलम् आचरति कृष्णेति । निमि-नृपतिना पृष्टः करभाजनो योगी सत्यादि-युगावतारानुक्त्वाऽथ कलाव् अपि तथा शृणु [भा।पु। ११.५.३१] इति तम् अवधाप्याह—कृष्ण-वर्णम् इति । सुमेधसो जनाः कलाव् अपि हरिं भजन्ति । कैः ? इत्य् आह सङ्कीर्तन-प्रायैर् यज्ञैः अर्चनैर् इति । कीदृशं तम् ? इत्य् आह—कृष्णो वर्णो रूपं यस्यान्तर् इति शेषः । त्विषा कान्त्या त्व् अकृष्णम् । शुक्लो रक्तस् तथा पीतः इदानीं कृष्णतां गतः [भा।पु। १०.८.१३] इति गर्गोक्ति-पारिशेष्य-विद्युद्-गौरम् इत्य् अर्थः । अङ्गे नित्यानन्दाद्वैतौ । उपाङ्गानि श्रीवासादयः । अस्त्राणि अविद्या-च्छेत्तृत्वाद् भगवन्-नामानि । पार्षदान् गदाधर-गोविन्दायः । तैः सहितम् इति महाबलित्वं व्यज्यते । गर्ग-वाक्ये पीत इति प्राचीन-तद्-अवतारापेक्षया । अयम् अवतारः श्वेत-वराह-कल्प-गताष्टविंश-वैवस्वतम् अन्वन्तरीय-कलौ बोध्यः । तत्रत्ये श्री-चैतन्य एवोक्त-धर्म-दर्शनात् । अन्येषु कलिषु क्वचिच् छ्यामत्वेन क्वचिच् छुक-पत्राभत्वेन व्यक्तेर् उक्तेः । छन्नः कलौ यद् अभवः [भा।पु। ७.९.३८] इति,शुक्लो रक्तस् तथा पीतः [भा।पु। १०.८.१३] इति,कलाव् अपि तथा शृणु [भा।पु। ११.५.३१] इतिच । ये विमृशन्ति ते सुमेधसः । छन्नत्वं च प्रेयसी-त्विषावृतत्वं बोध्यम् । 
+śrī-bādarāyaṇo bhagavān vyāso brahma-sūtrāṇi prakāśya tad-bhāṣya-bhūtaṁ śrī-bhāgavatam āvirbhāvya śukaṁ tad-adhyāpitavān | tad-arthaṁ nirṇetu-kāmaḥ śrī-jīvaḥ pratyūha-kulācala-kuliśaṁ vāñchita-pīyūṣa-balāhaka-sveṣṭa-vastu-nirdeśaṁ maṅgalam ācarati kṛṣṇeti | nimi-nṛpatinā pṛṣṭaḥ karabhājano yogī satyādi-yugāvatārānuktvā’tha kalāv api tathā śṛṇu [bhā.pu. 11.5.31] iti tam avadhāpyāha—kṛṣṇa-varṇam iti | sumedhaso janāḥ kalāv api hariṁ bhajanti | kaiḥ ? ity āha saṅkīrtana-prāyair yajñaiḥ arcanair iti | kīdṛśaṁ tam ? ity āha—kṛṣṇo varṇo rūpaṁ yasyāntar iti śeṣaḥ | tviṣā kāntyā tv akṛṣṇam | śuklo raktas tathā pītaḥ idānīṁ kṛṣṇatāṁ gataḥ [bhā.pu. 10.8.13] iti gargokti-pāriśeṣya-vidyud-gauram ity arthaḥ | aṅge nityānandādvaitau | upāṅgāni śrīvāsādayaḥ | astrāṇi avidyā-cchettṛtvād bhagavan-nāmāni | pārṣadān gadādhara-govindāyaḥ | taiḥ sahitam iti mahābalitvaṁ vyajyate | garga-vākye pīta iti prācīna-tad-avatārāpekṣayā | ayam avatāraḥ śveta-varāha-kalpa-gatāṣṭaviṁśa-vaivasvatam anvantarīya-kalau bodhyaḥ | tatratye śrī-caitanya evokta-dharma-darśanāt | anyeṣu kaliṣu kvacic chyāmatvena kvacic chuka-patrābhatvena vyakter ukteḥ | channaḥ kalau yad abhavaḥ [bhā.pu. 7.9.38] iti,śuklo raktas tathā pītaḥ [bhā.pu. 10.8.13] iti,kalāv api tathā śṛṇu [bhā.pu. 11.5.31] itica | ye vimṛśanti te sumedhasaḥ | channatvaṁ ca preyasī-tviṣāvṛtatvaṁ bodhyam | 
 
-अङ्काःपूर्वाङ्कतोऽत्रान्ये टिप्पनी-क्रम-बोधकाः ।
+aṅkāḥpūrvāṅkato’trānye ṭippanī-krama-bodhakāḥ |
 
-द्वि-बिन्दवस् ते विज्ञेया विषयाङ्कारस् त्व् अबिन्दवः ॥
+dvi-bindavas te vijñeyā viṣayāṅkāras tv abindavaḥ ||
 
-अत्र ग्रन्थे स्कन्धाध्याय-सूचका युग्माङ्का ग्रन्थ-कृतां सन्ति । तेभ्योऽन्ये ये टिप्पनी-क्रम-बोधायास्माभिः कल्पितास् ते द्विबिन्दु-मस्तकाः । विषय-वाक्येभ्यः परे येऽङ्कास् ते त्व् अबिन्दु-मस्तका बोध्याः ॥१॥[^५]
+atra granthe skandhādhyāya-sūcakā yugmāṅkā grantha-kṛtāṁ santi | tebhyo’nye ye ṭippanī-krama-bodhāyāsmābhiḥ kalpitās te dvibindu-mastakāḥ | viṣaya-vākyebhyaḥ pare ye’ṅkās te tv abindu-mastakā bodhyāḥ ||1||[^5]
 
-**राधा-मोहन-गोस्वामी : **
+**rādhā-mohana-gosvāmī : **
 
-[^५]:
-    अङ्का इत्य् आदौ बोध्याः इत्य्-अन्तम् अंशं कानाइ-लाल-पण्डितस्य संस्करणे नास्ति।
+[^5]:
+    aṅkā ity ādau bodhyāḥ ity-antam aṁśaṁ kānāi-lāla-paṇḍitasya saṁskaraṇe nāsti.
 
 
-चैतन्यं परमानन्दम् अद्वैतं द्वैत-कारणम् ।
+caitanyaṁ paramānandam advaitaṁ dvaita-kāraṇam |
 
-श्री-कृष्णं राधया सार्धं प्रणमामि जगद्-गतिम् ॥
+śrī-kṛṣṇaṁ rādhayā sārdhaṁ praṇamāmi jagad-gatim ||
 
-अस्य ग्रन्थस्य मुख्याभिधेय-श्री-कृष्ण-सङ्कीर्तन-रूप-मङ्गलं कुर्वन् तस्य मुख्योपास्यतां प्रमाणयन्न् एकादशस्थ-पद्यं दर्शयति—त्विषाकृष्णम् इति कनकम् इवोज्ज्वलम् । सुमेधस इति श्री-कृष्ण-कीर्तनं कलौ परम-श्रेयस्त्वेन शास्त्राचार्य-विवेचितम् इति सूचयति ॥१॥
+asya granthasya mukhyābhidheya-śrī-kṛṣṇa-saṅkīrtana-rūpa-maṅgalaṁ kurvan tasya mukhyopāsyatāṁ pramāṇayann ekādaśastha-padyaṁ darśayati—tviṣākṛṣṇam iti kanakam ivojjvalam | sumedhasa iti śrī-kṛṣṇa-kīrtanaṁ kalau parama-śreyastvena śāstrācārya-vivecitam iti sūcayati ||1||
 
-**गौर-किशोर-गोस्वामी : **
+**gaura-kiśora-gosvāmī : **
 
-यो गृह्णाति चिरं सेवाम् आत्म-प्रीति-प्रदां ध्रुवाम् ।
+yo gṛhṇāti ciraṁ sevām ātma-prīti-pradāṁ dhruvām |
 
-सुष्ठु-सम्पादितां साध्वीं स्व-भार्या-भ्रातृ-वंशजैः ॥
+suṣṭhu-sampāditāṁ sādhvīṁ sva-bhāryā-bhrātṛ-vaṁśajaiḥ ||
 
-विष्णु-प्रिया-हृदिस्थोऽसौ श्री-गौराङ्गो महाप्रभुः ।
+viṣṇu-priyā-hṛdistho’sau śrī-gaurāṅgo mahāprabhuḥ |
 
-माया-मुग्धान् जनान् पातु प्रेम-भक्ति-प्रदानतः ॥
+māyā-mugdhān janān pātu prema-bhakti-pradānataḥ ||
 
-श्री-कृष्णः परमानन्दो राधयालिङ्गितः सदा ।
+śrī-kṛṣṇaḥ paramānando rādhayāliṅgitaḥ sadā |
 
-विदधातु परं क्षेमं तत्-पादाब्ज-श्रियाय च ॥
+vidadhātu paraṁ kṣemaṁ tat-pādābja-śriyāya ca ||
 
-नत्वा विष्णु-प्रिया-नाथं नाम्ना स्वर्ण-लता मया ।
+natvā viṣṇu-priyā-nāthaṁ nāmnā svarṇa-latā mayā |
 
-विवृतिः क्रियते शुद्धा सन्दर्भार्थ-प्रबोधिनी ॥
+vivṛtiḥ kriyate śuddhā sandarbhārtha-prabodhinī ||
 
-येन संरचितं मूलं स श्री-जीवो दयानिधिः ।
+yena saṁracitaṁ mūlaṁ sa śrī-jīvo dayānidhiḥ |
 
-शक्तिं सञ्चारयत्व् अस्मिन् विवृतेः परिलेखने ॥
+śaktiṁ sañcārayatv asmin vivṛteḥ parilekhane ||
 
-कुतो वा नूतनं वस्तु वयम् उत्प्रेक्षितुं क्षमाः ।
+kuto vā nūtanaṁ vastu vayam utprekṣituṁ kṣamāḥ |
 
-वचो विन्यास-वैचित्र्य-मात्रम् अत्र विचार्यताम् ॥
+vaco vinyāsa-vaicitrya-mātram atra vicāryatām ||
 
-श्री-गौराङ्ग-चरण-कमल-मकरन्द-मधुप-श्री-कृष्ण-चैतन्य-वैष्णव-सम्प्रदायाचार्य-चूडामणिः श्री-जीव-गोस्वामि-पादः चिकीर्षितस्य षट्-सन्दर्भापर-नाम-श्री-भागवत-सन्दर्भ-सिद्धान्त-ग्रन्थस्य निर्विघ्न-परिसमाप्त्य्-अर्थं निर्विघ्न-परिसमाप्ति-कामो मङ्गलम् आचरेद् इत्य् अविगीत-शिष्टाचारानुमित-श्रुत्य्-आदौ तत्त्व-सन्दर्भ-ग्रन्थ-प्रारम्भे कलि-कल्मषाच्छनानां वेद-बोधितोपास्य-निर्घण्ट-व्याजेन मङ्गलम् आचरति—कृष्णेति ।
+śrī-gaurāṅga-caraṇa-kamala-makaranda-madhupa-śrī-kṛṣṇa-caitanya-vaiṣṇava-sampradāyācārya-cūḍāmaṇiḥ śrī-jīva-gosvāmi-pādaḥ cikīrṣitasya ṣaṭ-sandarbhāpara-nāma-śrī-bhāgavata-sandarbha-siddhānta-granthasya nirvighna-parisamāpty-arthaṁ nirvighna-parisamāpti-kāmo maṅgalam ācared ity avigīta-śiṣṭācārānumita-śruty-ādau tattva-sandarbha-grantha-prārambhe kali-kalmaṣācchanānāṁ veda-bodhitopāsya-nirghaṇṭa-vyājena maṅgalam ācarati—kṛṣṇeti |
 
-सर्वोऽप्य् अयं लोक-प्रसिद्धो वेदः प्रत्यक्षानुमानाभ्याम् अनवगतेष्टानिष्ट-प्राप्ति-परिहारोपाय-प्रकाशन-परः, सर्व-पुरुषाणां निसर्गत एव तत्-प्राप्ति-परिहारयोर् इष्टत्वात्, दृश्यते हि खलु सुख-दुःख-प्राप्ति-परिहारयोर् लोक-प्रवृत्तिः—“सुखं मे स्यात्, दुःखं माभूत्” इति स्वभावतः सर्वेषां पुरुषाणाम् अनवच्छिन्न-सुखादि-मात्रम् अभिलाषोपलम्भात् । दृष्ट-विषये च इष्टानिष्ट-प्राप्ति-परिहारोपाय-ज्ञानं प्रत्यक्षानुमानाभ्याम् एव सञ्जायते । अत एव न तत्रागमान्वेषणम् उपासनादि-पारमार्थिकालौकिक-विषये तु प्रत्यक्षादीनाम् अप्रवृत्त्या भवति तत्रागमान्वेषणा । अव्युत्पन्नानां प्रत्यक्षादिकं प्रमाणं माभूत् । 
+sarvo’py ayaṁ loka-prasiddho vedaḥ pratyakṣānumānābhyām anavagateṣṭāniṣṭa-prāpti-parihāropāya-prakāśana-paraḥ, sarva-puruṣāṇāṁ nisargata eva tat-prāpti-parihārayor iṣṭatvāt, dṛśyate hi khalu sukha-duḥkha-prāpti-parihārayor loka-pravṛttiḥ—“sukhaṁ me syāt, duḥkhaṁ mābhūt” iti svabhāvataḥ sarveṣāṁ puruṣāṇām anavacchinna-sukhādi-mātram abhilāṣopalambhāt | dṛṣṭa-viṣaye ca iṣṭāniṣṭa-prāpti-parihāropāya-jñānaṁ pratyakṣānumānābhyām eva sañjāyate | ata eva na tatrāgamānveṣaṇam upāsanādi-pāramārthikālaukika-viṣaye tu pratyakṣādīnām apravṛttyā bhavati tatrāgamānveṣaṇā | avyutpannānāṁ pratyakṣādikaṁ pramāṇaṁ mābhūt | 
 
-व्युत्पन्नस्य तु प्रत्यक्षादिनैव पारमार्थैक-तत्त्व-निश्चयो भवत्य् एवेति चेत्, न, व्युत्पन्नस्यापि भ्रमादि-दोष-चतुष्टय-दर्शनात् । यादृशो हि पशु-शकुन्न्तादीनाम् अविप्रतिपन्न-मुग्ध-भावानां व्यवहारः । तादृशो व्युत्पन्नानाम् अपि पुंसां दृश्यते इति प्रत्यक्षादीनां लौकिक-प्रमाणाभावानाम् अलौकिक-तत्त्व-ज्ञानान् उपायता सिद्धा । अतोऽत्रापौरुषेय-वेद एवास्माकं प्रमाणम् । प्रत्यक्षादीनां तु तद्-अनुसारितया परतः प्रामाण्यं बोध्यम् । 
+vyutpannasya tu pratyakṣādinaiva pāramārthaika-tattva-niścayo bhavaty eveti cet, na, vyutpannasyāpi bhramādi-doṣa-catuṣṭaya-darśanāt | yādṛśo hi paśu-śakunntādīnām avipratipanna-mugdha-bhāvānāṁ vyavahāraḥ | tādṛśo vyutpannānām api puṁsāṁ dṛśyate iti pratyakṣādīnāṁ laukika-pramāṇābhāvānām alaukika-tattva-jñānān upāyatā siddhā | ato’trāpauruṣeya-veda evāsmākaṁ pramāṇam | pratyakṣādīnāṁ tu tad-anusāritayā parataḥ prāmāṇyaṁ bodhyam | 
 
-तथा हि द्वापरे वेदेषु समुत्सन्नेषु सङ्कीर्ण-प्रज्ञैर् ब्रह्मादिभिर् अभ्यर्थितो भगवान् पुरुषोत्तमः कृष्ण-द्वैपायन-रूपेणावतीर्य तान् उद्धृत्य विबभाज । तद्-अर्थ-निर्णेत्रीं चतुर्-लक्षणीं च ब्रह्म-मीमांसाम् आविश्चकार इत्य् अस्ति कथा स्कान्दी । तद्-अनन्तरं श्री-नारद-निर्देशेन ब्रह्म-मीमांसाया अकृतिम् अभाष्य-भूतं श्रीमद्-भागवतम् आव्रिभावयामास । स्मर्यते च गारुडे—अर्थोऽयं ब्रह्म-सूत्राणां भारतार्थ-विनिर्णयः इति । अथाधुना, “स्वल्पं तथायुर् बहवश् च विघ्नाः” इति दृष्ट्वा कलि-युगे अस्मिन् युगोचित-वेद-विहित-देवोपासनां हित्वा अन्यद् एव यजन-याजनेन वृथायुः-क्षपणेनालम् इति निर्णेतुं मङ्गलाचरण-प्रसङ्गात् स्व-पर-पक्ष-मण्डन-खण्डनेनास्मिन् कलौ एकस्यैव श्री-गौराङ्ग-महाप्रभु-कृष्ण-चैतन्य-देवस्य प्राधान्येनोपास्यत्वं सकल-वेद-सार-भूत-श्रीमद्-भागवत-पद्य-संवादेन आदौ घोषयति—कृष्णेति ।
+tathā hi dvāpare vedeṣu samutsanneṣu saṅkīrṇa-prajñair brahmādibhir abhyarthito bhagavān puruṣottamaḥ kṛṣṇa-dvaipāyana-rūpeṇāvatīrya tān uddhṛtya vibabhāja | tad-artha-nirṇetrīṁ catur-lakṣaṇīṁ ca brahma-mīmāṁsām āviścakāra ity asti kathā skāndī | tad-anantaraṁ śrī-nārada-nirdeśena brahma-mīmāṁsāyā akṛtim abhāṣya-bhūtaṁ śrīmad-bhāgavatam āvribhāvayāmāsa | smaryate ca gāruḍe—artho’yaṁ brahma-sūtrāṇāṁ bhāratārtha-vinirṇayaḥ iti | athādhunā, “svalpaṁ tathāyur bahavaś ca vighnāḥ” iti dṛṣṭvā kali-yuge asmin yugocita-veda-vihita-devopāsanāṁ hitvā anyad eva yajana-yājanena vṛthāyuḥ-kṣapaṇenālam iti nirṇetuṁ maṅgalācaraṇa-prasaṅgāt sva-para-pakṣa-maṇḍana-khaṇḍanenāsmin kalau ekasyaiva śrī-gaurāṅga-mahāprabhu-kṛṣṇa-caitanya-devasya prādhānyenopāsyatvaṁ sakala-veda-sāra-bhūta-śrīmad-bhāgavata-padya-saṁvādena ādau ghoṣayati—kṛṣṇeti |
 
-श्री-भागवते एकादश-स्कन्धे कलि-योगोपास्य-निर्णयावसरे पद्यम् इदं—कृष्ण-वर्णम् इति । तत्र महाराजेन निमिना जिज्ञासितः सन् नव-योगीन्द्राणाम् अन्यतमः श्री-करभाजनः सत्य-त्रेता-द्वापर-युगावतारान् उक्त्वा तद्-अनन्तरम् अस्मिन् कलौ “को देवः ? का वा उपासना-पद्धतिः ? इति सन्देह-निराकरणार्थं ज्ञापयति—“कृष्ण-वर्ण” इति । त्विषा कान्त्या अकृष्णम् इति स्वामि-पादेनोक्तम् । यः कान्त्या अकृष्णः तं देवं सुमेधसो विवेकिनो यजन्ति । यजन-प्रणालीम् आह—सङ्कीर्तन-प्रायैः, यज्ञैर् अर्चनैः, न तु अन्य-यज्ञैः इत्य् अनेन इतर-यजन-प्रणाली अपकृता । 
+śrī-bhāgavate ekādaśa-skandhe kali-yogopāsya-nirṇayāvasare padyam idaṁ—kṛṣṇa-varṇam iti | tatra mahārājena niminā jijñāsitaḥ san nava-yogīndrāṇām anyatamaḥ śrī-karabhājanaḥ satya-tretā-dvāpara-yugāvatārān uktvā tad-anantaram asmin kalau “ko devaḥ ? kā vā upāsanā-paddhatiḥ ? iti sandeha-nirākaraṇārthaṁ jñāpayati—“kṛṣṇa-varṇa” iti | tviṣā kāntyā akṛṣṇam iti svāmi-pādenoktam | yaḥ kāntyā akṛṣṇaḥ taṁ devaṁ sumedhaso vivekino yajanti | yajana-praṇālīm āha—saṅkīrtana-prāyaiḥ, yajñair arcanaiḥ, na tu anya-yajñaiḥ ity anena itara-yajana-praṇālī apakṛtā | 
 
-तत्र च यजने सर्वेषाम् एवाधिकार इति कलौ यजन-वैशिष्ट्यम् । तेनैव हि सर्व-पुरुषार्थ-सिद्धिः । यद् उक्तं—“कृष्ण-वर्णं त्विषाकृष्णं साङ्गोपाङ्गास्त्र-पार्षदम्” । अत्र त्विषाकृष्णम् इति विशेष्य-पदम् । कृष्ण-वर्णं साङ्गोपाङ्गास्त्र-पार्षदं त्व् अस्य विशेषणम् । कृष्ण-वर्णं कृष्णः वर्णो रूपं यस्य तम् इत्य् आपाततः अर्थ-बोधेनोपास्य-देवतस्या देह-गत-रूपं कृष्णं चिन्तयतां मतं व्यावर्तयति त्विषाकृष्णम् इति । त्विषा कान्त्या अकृष्णम् इत्य् अकार-प्रश्लेषेण अङ्ग-वर्णस्य कृष्णत्व-कल्पना अपाकृता । 
+tatra ca yajane sarveṣām evādhikāra iti kalau yajana-vaiśiṣṭyam | tenaiva hi sarva-puruṣārtha-siddhiḥ | yad uktaṁ—“kṛṣṇa-varṇaṁ tviṣākṛṣṇaṁ sāṅgopāṅgāstra-pārṣadam” | atra tviṣākṛṣṇam iti viśeṣya-padam | kṛṣṇa-varṇaṁ sāṅgopāṅgāstra-pārṣadaṁ tv asya viśeṣaṇam | kṛṣṇa-varṇaṁ kṛṣṇaḥ varṇo rūpaṁ yasya tam ity āpātataḥ artha-bodhenopāsya-devatasyā deha-gata-rūpaṁ kṛṣṇaṁ cintayatāṁ mataṁ vyāvartayati tviṣākṛṣṇam iti | tviṣā kāntyā akṛṣṇam ity akāra-praśleṣeṇa aṅga-varṇasya kṛṣṇatva-kalpanā apākṛtā | 
 
-अथ कान्त्या यः अकृष्णः स देवः कः, यम् अहं भजानि ? इति सन्देहे सञ्जाते संवादिनी-प्रेरणेन सिद्धान्तम् आह आनन्द-पादः—“त्विषा कान्त्या योऽकृष्णो गौरस् तं कलौ सुमेधसो यजन्ति” । अधुनास्य त्विषा अकृष्णस्य कलि-युग्योचितोपास्य-देवस्य गौरत्वं सकल-वेद-सार-भूत-श्रीमद्-भागवत-पद्य-संवादेन साधयति । गौरत्वं चास्य—
+atha kāntyā yaḥ akṛṣṇaḥ sa devaḥ kaḥ, yam ahaṁ bhajāni ? iti sandehe sañjāte saṁvādinī-preraṇena siddhāntam āha ānanda-pādaḥ—“tviṣā kāntyā yo’kṛṣṇo gauras taṁ kalau sumedhaso yajanti” | adhunāsya tviṣā akṛṣṇasya kali-yugyocitopāsya-devasya gauratvaṁ sakala-veda-sāra-bhūta-śrīmad-bhāgavata-padya-saṁvādena sādhayati | gauratvaṁ cāsya—
 
 
-> आसन् वर्णास् त्रयो ह्य् अस्य गृह्णतोऽनुयुगं तनुः ।  
-> शुक्लो रक्तस् तथा पीत इदानीं कृष्णतां गतः ॥ [भा।पु। १०.८.१३]
+> āsan varṇās trayo hy asya gṛhṇato’nuyugaṁ tanuḥ |  
+> śuklo raktas tathā pīta idānīṁ kṛṣṇatāṁ gataḥ || [bhā.pu. 10.8.13]
 
-“इत्य् अत्र पारिशेस्य-प्रमाण-लब्धं” इति । परिशेषस्य भावः पारिशेष्यम् । “प्रसक्त-प्रतिषेधेऽन्यत्राप्रसङ्गात् शिष्यमाणे सम्प्रत्ययः परिशेषः” इति न्याय-भाष्यम् । प्रसक्तानां सम्भावितानां मध्ये अन्येषां सर्वेषां प्रतिषेधे सति अनन्तरम् अवशिष्टस्य ग्रहणं परिशेषः । यथा धूमान् वह्न्य्-अनुमाने किम् इन्धनो वह्निर् इति विशेष-जिज्ञासायां धूमस्य विअजात्य-परीक्षणेन तृण-पर्ण-काष्ठानां निषेधे यत् करीष-प्रभत्वम् अनुमीयते तद् इदं परिशेषानुमानम् । अप्रसक्तस्य पाषाणादेस् तावत् सम्भावनैव नास्ति इत्य् उक्तम् अन्यत्राप्रसङ्गात् अन्यत्र अप्रसक्तेर् इत्य् अर्थः । दशम-स्कन्धे श्री-कृष्ण-नाम-करण-प्रसङ्गे नन्द-महाराजं सम्भाष्य गर्गेणोक्तं—आसन् वर्णा इति । युगे युगे वारं वारं धर्म-संस्थापनाय भक्त-वाञ्छा-परिपूरणाय च यथोचितावतार-देहान् गृह्णतः अस्यार्भकस्य शुक्लो रक्तस् तथा पीत इति त्रयो-वर्णा आसन् । हि निश्चये । इदानीं द्वापर-युगे कृष्णतां गतः कृष्ण-वर्णत्वं प्राप्तः । सत्य-त्रेतयोः शुक्ल-रक्तावतारौ, इदानीं कृष्णावतारः इति शेषः । उक्तं च श्री-भागवतामृते—“कथ्यन्ते वर्ण-नामाभ्यां शुक्लः सत्य-युगे हरिः” [ल।भा। १.४.२५] । अन्यत्र च, त्रेतायां रक्त-वर्णोऽसौ, द्वापरे भगवान् श्यामः, द्वापरे कृष्णतां गतः इति च ।
+“ity atra pāriśesya-pramāṇa-labdhaṁ” iti | pariśeṣasya bhāvaḥ pāriśeṣyam | “prasakta-pratiṣedhe’nyatrāprasaṅgāt śiṣyamāṇe sampratyayaḥ pariśeṣaḥ” iti nyāya-bhāṣyam | prasaktānāṁ sambhāvitānāṁ madhye anyeṣāṁ sarveṣāṁ pratiṣedhe sati anantaram avaśiṣṭasya grahaṇaṁ pariśeṣaḥ | yathā dhūmān vahny-anumāne kim indhano vahnir iti viśeṣa-jijñāsāyāṁ dhūmasya viajātya-parīkṣaṇena tṛṇa-parṇa-kāṣṭhānāṁ niṣedhe yat karīṣa-prabhatvam anumīyate tad idaṁ pariśeṣānumānam | aprasaktasya pāṣāṇādes tāvat sambhāvanaiva nāsti ity uktam anyatrāprasaṅgāt anyatra aprasakter ity arthaḥ | daśama-skandhe śrī-kṛṣṇa-nāma-karaṇa-prasaṅge nanda-mahārājaṁ sambhāṣya gargeṇoktaṁ—āsan varṇā iti | yuge yuge vāraṁ vāraṁ dharma-saṁsthāpanāya bhakta-vāñchā-paripūraṇāya ca yathocitāvatāra-dehān gṛhṇataḥ asyārbhakasya śuklo raktas tathā pīta iti trayo-varṇā āsan | hi niścaye | idānīṁ dvāpara-yuge kṛṣṇatāṁ gataḥ kṛṣṇa-varṇatvaṁ prāptaḥ | satya-tretayoḥ śukla-raktāvatārau, idānīṁ kṛṣṇāvatāraḥ iti śeṣaḥ | uktaṁ ca śrī-bhāgavatāmṛte—“kathyante varṇa-nāmābhyāṁ śuklaḥ satya-yuge hariḥ” [la.bhā. 1.4.25] | anyatra ca, tretāyāṁ rakta-varṇo’sau, dvāpare bhagavān śyāmaḥ, dvāpare kṛṣṇatāṁ gataḥ iti ca |
 
-इदम् अत्राकूतं तर्हि पीत-पदस्य कुत्र सङ्गतिः ? कस्मिन् युगे वास्य श्री-भगवतः हरेः पीत-वर्णत्वम् ? इति प्राप्ते ब्रूमः—महाभारते दान-धर्मोक्त-सहस्र-नाम-स्तोत्रे—
+idam atrākūtaṁ tarhi pīta-padasya kutra saṅgatiḥ ? kasmin yuge vāsya śrī-bhagavataḥ hareḥ pīta-varṇatvam ? iti prāpte brūmaḥ—mahābhārate dāna-dharmokta-sahasra-nāma-stotre—
 
 
-> सुवर्ण-वर्ण-हेमाङ्गो वराङ्गश् चन्दनाङ्ग-दी ।  
-> सन्न्यास-कृच् छमः शान्तो निष्ठा-शान्ति-परायणः ॥ 
+> suvarṇa-varṇa-hemāṅgo varāṅgaś candanāṅga-dī |  
+> sannyāsa-kṛc chamaḥ śānto niṣṭhā-śānti-parāyaṇaḥ || 
 
-इति यद् उक्तं तद्-वचनेन सह कृष्ण-वर्णम् इति श्लोकस्येक-वाक्यतां कृत्वा भागवत-पद्य-संवादेन सत्य-त्रेता-द्वापर-युगोचितावतार-विभाग-निर्देशं ज्ञात्वा परिशेषानुमान-प्रमाण-बलेन कलौ अवतीर्णस्य श्री-भगवतः पीतत्वं सिद्धम् । न च आसन् इति भूत-काल-निर्देशेन क्रम-प्राप्त्या पीतोऽपि द्वापर-युगावतार इति वाच्यम् । “नाना-तन्त्र-विधानेन कलाव् अपि तथा शृणु” इति पृथग्-निर्देशात् । युगावतार-कथन-प्रसङ्गे द्वापरे भगवतः पीतत्वं न श्रुतम् ।
+iti yad uktaṁ tad-vacanena saha kṛṣṇa-varṇam iti ślokasyeka-vākyatāṁ kṛtvā bhāgavata-padya-saṁvādena satya-tretā-dvāpara-yugocitāvatāra-vibhāga-nirdeśaṁ jñātvā pariśeṣānumāna-pramāṇa-balena kalau avatīrṇasya śrī-bhagavataḥ pītatvaṁ siddham | na ca āsan iti bhūta-kāla-nirdeśena krama-prāptyā pīto’pi dvāpara-yugāvatāra iti vācyam | “nānā-tantra-vidhānena kalāv api tathā śṛṇu” iti pṛthag-nirdeśāt | yugāvatāra-kathana-prasaṅge dvāpare bhagavataḥ pītatvaṁ na śrutam |
 
-“त्विषाकृष्णं” इति पदस्य पीत-वर्णं गौर-वर्णं वेति अर्थं विहाय कृष्ण-रूपो अर्थ-कल्पना न युक्ता प्रकाश्य-कृष्णावतारस्य द्वापरान्तर्-भावित्वेन प्रसिद्धेः । अत आहुः आनन्द-पादाः—कलौ यः कान्त्या अकृष्णः, गौरः, सुमेधसः तं यजन्ति । कलौ अवतीरणं कीदृशं त्विषाकृष्णं गौरं सुमेधसो यजन्ति, इत्य् अपेक्षायां विशेषम् आह—कृष्ण-वर्णं कृष्णो वर्णो रूपं यस्यान्तरम् इति शेषः । । इन्द्रनीलमणिवद् उज्ज्वल-कृष्णत्वं तु अस्य उज्ज्वल-गलित-हेम-गौर-कान्त्या अभिभूतत्वात् न चाक्षुष-प्रत्यक्ष-गोचर इति ।
+“tviṣākṛṣṇaṁ” iti padasya pīta-varṇaṁ gaura-varṇaṁ veti arthaṁ vihāya kṛṣṇa-rūpo artha-kalpanā na yuktā prakāśya-kṛṣṇāvatārasya dvāparāntar-bhāvitvena prasiddheḥ | ata āhuḥ ānanda-pādāḥ—kalau yaḥ kāntyā akṛṣṇaḥ, gauraḥ, sumedhasaḥ taṁ yajanti | kalau avatīraṇaṁ kīdṛśaṁ tviṣākṛṣṇaṁ gauraṁ sumedhaso yajanti, ity apekṣāyāṁ viśeṣam āha—kṛṣṇa-varṇaṁ kṛṣṇo varṇo rūpaṁ yasyāntaram iti śeṣaḥ | | indranīlamaṇivad ujjvala-kṛṣṇatvaṁ tu asya ujjvala-galita-hema-gaura-kāntyā abhibhūtatvāt na cākṣuṣa-pratyakṣa-gocara iti |
 
-अथवा कृष्ण-वर्णं कृष्णेत्य् अतो वर्णो यत्र यस्मिन् श्री-गौराङ्ग-महाप्रभु-कृष्ण-चैतन्य-देव-नाम्नि, श्री-कृष्णत्वाभिव्यञ्जकं कृष्णेति वर्ण-युगलं प्रयुक्तम् इत्य् अस्ति कथा क्रामसन्दर्भी । यथा द्वापरे श्री-कृष्णोऽवतरति तथैव कलौ श्री-गौराङ्गोऽप्य् अवतरति । अन्तः कृष्णो बहिः पीतत्वात् सर्वतः कृष्णत्वाभिव्यञ्जकत्वाच् च श्री-कृष्णस्य प्रच्छन्नाविर्भाव-विशेष एवायम् अवतारः श्री-गौराङ्ग-महाप्रभुर् इत्य् आयाति ।
+athavā kṛṣṇa-varṇaṁ kṛṣṇety ato varṇo yatra yasmin śrī-gaurāṅga-mahāprabhu-kṛṣṇa-caitanya-deva-nāmni, śrī-kṛṣṇatvābhivyañjakaṁ kṛṣṇeti varṇa-yugalaṁ prayuktam ity asti kathā krāmasandarbhī | yathā dvāpare śrī-kṛṣṇo’vatarati tathaiva kalau śrī-gaurāṅgo’py avatarati | antaḥ kṛṣṇo bahiḥ pītatvāt sarvataḥ kṛṣṇatvābhivyañjakatvāc ca śrī-kṛṣṇasya pracchannāvirbhāva-viśeṣa evāyam avatāraḥ śrī-gaurāṅga-mahāprabhur ity āyāti |
 
-श्री-कृष्णस्य कृष्ण-वर्ण-परावृत्त्या गौर-वर्ण-सम्पत्ती चायम् एव हेतुः । श्री-राधाया विष्णु-प्रिया-रूपेणावतीर्णायाः स्व-प्रेयस्यावर्ण-भावाभ्यां स्वीय-कृष्ण-वर्ण-भावाभिभवेन स्व-प्रेयसी-वर्ण-भावाभिभावेन च श्री-कृष्णस्य कलौ प्रच्छन्नावतारत्वम् ।
+śrī-kṛṣṇasya kṛṣṇa-varṇa-parāvṛttyā gaura-varṇa-sampattī cāyam eva hetuḥ | śrī-rādhāyā viṣṇu-priyā-rūpeṇāvatīrṇāyāḥ sva-preyasyāvarṇa-bhāvābhyāṁ svīya-kṛṣṇa-varṇa-bhāvābhibhavena sva-preyasī-varṇa-bhāvābhibhāvena ca śrī-kṛṣṇasya kalau pracchannāvatāratvam |
 
-अथैवम्भूत-श्री-गौराङ्ग-देवस्य परमेश्वरत्वं विज्ञापयति विशेषणान्तरेण “साङ्गोपाङ्गास्त्र-पार्षदम्” इति । अङ्गानि मनोरमावयवादीनि उपाङ्गानि महा-प्रभाव-युक्त-भूषणादीनि एव अस्त्राणि पार्षदो यस्य सः । तं श्री-गौराङ्ग-महाप्रभुं सुमेधसो यजन्तीति निर्देशः । अथवा अङ्गानि हृदयादीनि, उपाङ्गानि कौस्तुभादीनि अस्त्राणि सुदर्शनादीनि, पार्षदाः सुनन्दादयः प्रच्छन्नत्वात् गुप्त-भावेनावतिष्ठन्ते यत्र श्री-गौराङ्गावतारे तम् इत्य् अर्थः । प्रच्छन्नार्थकत्व-रूप-कष्ठ-कल्पनां परित्यज्य श्री-गौराङ्ग-पूर्णावतारोचित-व्याख्याम् आह आनन्द-पादः—“अत्यन्त-प्रेमास्पदत्वात् तत्-तुल्या एव पार्षदाः श्रीमद्-अद्वैताचार्य-महानुभाव-चरण-प्रभृतयस् तैः सह वर्तमानम् इति चार्थान्तरेण वक्तव्यम्” इति । अत्र प्रभृतयः इति पदेन श्री-नित्यानन्दो गदाधरो श्रीवासः तथा श्री-विष्णु-प्रियायाः अनुज-सहोदर-श्री-यादवाचार्यः, तथा तत्-पुत्र श्री-माधवानन्दः नित्य-पार्षदा ज्ञेयाः ।
+athaivambhūta-śrī-gaurāṅga-devasya parameśvaratvaṁ vijñāpayati viśeṣaṇāntareṇa “sāṅgopāṅgāstra-pārṣadam” iti | aṅgāni manoramāvayavādīni upāṅgāni mahā-prabhāva-yukta-bhūṣaṇādīni eva astrāṇi pārṣado yasya saḥ | taṁ śrī-gaurāṅga-mahāprabhuṁ sumedhaso yajantīti nirdeśaḥ | athavā aṅgāni hṛdayādīni, upāṅgāni kaustubhādīni astrāṇi sudarśanādīni, pārṣadāḥ sunandādayaḥ pracchannatvāt gupta-bhāvenāvatiṣṭhante yatra śrī-gaurāṅgāvatāre tam ity arthaḥ | pracchannārthakatva-rūpa-kaṣṭha-kalpanāṁ parityajya śrī-gaurāṅga-pūrṇāvatārocita-vyākhyām āha ānanda-pādaḥ—“atyanta-premāspadatvāt tat-tulyā eva pārṣadāḥ śrīmad-advaitācārya-mahānubhāva-caraṇa-prabhṛtayas taiḥ saha vartamānam iti cārthāntareṇa vaktavyam” iti | atra prabhṛtayaḥ iti padena śrī-nityānando gadādharo śrīvāsaḥ tathā śrī-viṣṇu-priyāyāḥ anuja-sahodara-śrī-yādavācāryaḥ, tathā tat-putra śrī-mādhavānandaḥ nitya-pārṣadā jñeyāḥ |
 
-तम् एवंभूत-कलि-पावनावतारं श्रीमन्-महाप्रभु-गौराङ्ग-देवं यज्ञैः पूजा-सम्भारैः सङ्कीर्तन-प्रायैः सुमेधसः यजन्ति । ये च दुर्मेधसः ते श्री-गौराङ्ग-देवम् अनादृत्य श्री-गौर-नाम-कीर्तनं च परित्यज्य अन्य-देवार्चनेन वृथा-काल-निपातं कुर्वन्ति, अन्ते च नित्यं समाप्नुवन्ति इति ध्वनिः ॥१॥ 
+tam evaṁbhūta-kali-pāvanāvatāraṁ śrīman-mahāprabhu-gaurāṅga-devaṁ yajñaiḥ pūjā-sambhāraiḥ saṅkīrtana-prāyaiḥ sumedhasaḥ yajanti | ye ca durmedhasaḥ te śrī-gaurāṅga-devam anādṛtya śrī-gaura-nāma-kīrtanaṁ ca parityajya anya-devārcanena vṛthā-kāla-nipātaṁ kurvanti, ante ca nityaṁ samāpnuvanti iti dhvaniḥ ||1|| 
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२]
+[2]
 
-**अन्तः कृष्णं बहिर् गौरं दर्शिताङ्गादि-वैभवम् ।**
+**antaḥ kṛṣṇaṁ bahir gauraṁ darśitāṅgādi-vaibhavam |**
 
-**कलौ सङ्कीर्तनाद्यैः स्मः कृष्ण-चैतन्यम् आश्रिताः ॥२॥**
+**kalau saṅkīrtanādyaiḥ smaḥ kṛṣṇa-caitanyam āśritāḥ ||2||**
 
-**सर्व-संवादिनी : **तद् एतत् सर्वम् अवधार्यापि परमोत्कृष्टेनार्थेन तम् एव स्तौति—अन्तः कृष्णम् इत्य्-आदिना । दर्शितं चैतत् परम-विद्वच्-छिरोमणिना श्री-सार्वभौम-भट्टाचार्येण—
+**sarva-saṁvādinī : **tad etat sarvam avadhāryāpi paramotkṛṣṭenārthena tam eva stauti—antaḥ kṛṣṇam ity-ādinā | darśitaṁ caitat parama-vidvac-chiromaṇinā śrī-sārvabhauma-bhaṭṭācāryeṇa—
 
-> कालान् नष्टं भक्ति-योगं निजं यः  
-> प्रादुष्कर्तुं कृष्ण-चैतन्य-नामा ।  
-> आविर्भूतस् तस्य पादारविन्दे  
-> गाढं गाढं लीयतां चित्त-भृङ्गः ॥ इति ॥२॥
+> kālān naṣṭaṁ bhakti-yogaṁ nijaṁ yaḥ  
+> prāduṣkartuṁ kṛṣṇa-caitanya-nāmā |  
+> āvirbhūtas tasya pādāravinde  
+> gāḍhaṁ gāḍhaṁ līyatāṁ citta-bhṛṅgaḥ || iti ||2||
 
-**बलदेवः :** कृष्ण-वर्ण-पद्य-व्याख्या-व्याजेन तद्-अर्थम् आश्रयति अन्तर् इति । स्फुटार्थः ॥२॥
+**baladevaḥ :** kṛṣṇa-varṇa-padya-vyākhyā-vyājena tad-artham āśrayati antar iti | sphuṭārthaḥ ||2||
 
-**राधा-मोहन-गोस्वामी : **स्व-भजनस्य सम्प्रदाय-प्रवर्तनायावतीर्णं गौर-रूपेण श्री-कृष्णं तद्-अनुगत-व्याख्या-सम्पत्तये पुनः प्रणमति—अन्तः-कृष्णम् इति । आश्रिता इति वयम् इति शेषः ॥२-७॥
+**rādhā-mohana-gosvāmī : **sva-bhajanasya sampradāya-pravartanāyāvatīrṇaṁ gaura-rūpeṇa śrī-kṛṣṇaṁ tad-anugata-vyākhyā-sampattaye punaḥ praṇamati—antaḥ-kṛṣṇam iti | āśritā iti vayam iti śeṣaḥ ||2-7||
 
-**गौर-किशोर-गोस्वामी : **अथ प्रथम-श्लोकार्थ-स्पष्टीकरणाय कलौ श्री-गौराङ्ग एव उपास्य इति अभिधा-वृत्त्या विज्ञापनार्थं तत् सिद्धान्त-दार्ढ्याय तस्य परमोत्कर्ष-प्रतिपादयिषुः तम् एव श्री-गौराङ्ग-महाप्रभु-कृष्ण-चैतन्य-देवं स्तौति—अन्तः-कृष्णम् इत्य्-आदिना ।
+**gaura-kiśora-gosvāmī : **atha prathama-ślokārtha-spaṣṭīkaraṇāya kalau śrī-gaurāṅga eva upāsya iti abhidhā-vṛttyā vijñāpanārthaṁ tat siddhānta-dārḍhyāya tasya paramotkarṣa-pratipādayiṣuḥ tam eva śrī-gaurāṅga-mahāprabhu-kṛṣṇa-caitanya-devaṁ stauti—antaḥ-kṛṣṇam ity-ādinā |
 
-न च स्वतः-सिद्धस्य श्री-गौराङ्गावतारस्य पुनः प्रतिपादनं न सङ्गच्छते शास्त्र-वाक्यादिना, प्रतिपादनेऽपि हेयोपादेयता-रहितस्य तस्यापुरुषार्थत्व-प्रसङ्ग इति वाच्यम् । शास्त्र-वाक्यानि श्री-गौराङ्गं प्रतिपादयन्ति । विमूढ-जनानां तथा कुतर्काच्छन्नानां मतिम् आकर्षयितुं बाह्य-कथा लौकिक-रीत्या वा श्री-गौराङ्गम् उपास्यत्वेन ज्ञापयन्ति घोषयन्ति । ततः शास्त्रेण प्रतिपादितत्वेऽपि श्री-गौराङ्गस्य स्वतः-सिद्धत्वं न हीयते । यत् तु पुरुषार्था प्राप्ति-प्रसङ्गः, नैष दोषः । श्री-गौराङ्गं भगवतः पूर्णावतार-भावेन ज्ञात्वा अस्य अर्चनादौ निविष्ट-चित्तानां सर्व-क्लेश-प्रहाणात् परम-पुरुषार्थ-प्राप्तेः ।
+na ca svataḥ-siddhasya śrī-gaurāṅgāvatārasya punaḥ pratipādanaṁ na saṅgacchate śāstra-vākyādinā, pratipādane’pi heyopādeyatā-rahitasya tasyāpuruṣārthatva-prasaṅga iti vācyam | śāstra-vākyāni śrī-gaurāṅgaṁ pratipādayanti | vimūḍha-janānāṁ tathā kutarkācchannānāṁ matim ākarṣayituṁ bāhya-kathā laukika-rītyā vā śrī-gaurāṅgam upāsyatvena jñāpayanti ghoṣayanti | tataḥ śāstreṇa pratipāditatve’pi śrī-gaurāṅgasya svataḥ-siddhatvaṁ na hīyate | yat tu puruṣārthā prāpti-prasaṅgaḥ, naiṣa doṣaḥ | śrī-gaurāṅgaṁ bhagavataḥ pūrṇāvatāra-bhāvena jñātvā asya arcanādau niviṣṭa-cittānāṁ sarva-kleśa-prahāṇāt parama-puruṣārtha-prāpteḥ |
 
-यद्यपीदम् अविरोधेन भक्ति-सिद्धान्तं निरूपयितुं शास्त्रं प्रवृत्तम्, न उच्छृङ्खल-तर्क-शास्त्रवत् शुष्क-तर्काश्रयेण केवलाभिर् युक्तिभिः किञ्चित् मतं साधयितुं खण्डयितुं वा प्रवृत्तम्, तथापि सम्यक्-दर्शन-प्रतिपक्ष-भूतानि आनन्द-देशीयानां दुष्ट-मतानि अवश्यं निराकरणीयानि, अन्यथा कुतर्क-समाच्छादितं तत्त्वं न पुरुषार्थ-सिद्धये पर्याप्तं स्याद् इति तत्-तन्-मतम् उत्थाप्य निराक्रियते ।
+yadyapīdam avirodhena bhakti-siddhāntaṁ nirūpayituṁ śāstraṁ pravṛttam, na ucchṛṅkhala-tarka-śāstravat śuṣka-tarkāśrayeṇa kevalābhir yuktibhiḥ kiñcit mataṁ sādhayituṁ khaṇḍayituṁ vā pravṛttam, tathāpi samyak-darśana-pratipakṣa-bhūtāni ānanda-deśīyānāṁ duṣṭa-matāni avaśyaṁ nirākaraṇīyāni, anyathā kutarka-samācchāditaṁ tattvaṁ na puruṣārtha-siddhaye paryāptaṁ syād iti tat-tan-matam utthāpya nirākriyate |
 
-अत्राशिष्टा मन्यन्ते श्री-कृष्णेन सह भगवतः श्री-गौराङ्गस्य न कश्चित् सम्बन्धः । न चासौ श्री-कृष्णस्य प्रच्छन्नाविर्भाव-विशेषः । अतो नेश्वर-बुद्ध्या सेवितव्य इति । एतन्-मतं निराकरोति—अन्तः-कृष्णेति । कृष्णत्वं यस्यातरम् इति । यतोऽस्य दर्शनेनैव च श्री-कृष्णाविर्भाव-विशेष एवायं श्री-गौराङ्गः । तस्मात् ईश्वरत्वे न कापि शङ्का पदं लभते ।
+atrāśiṣṭā manyante śrī-kṛṣṇena saha bhagavataḥ śrī-gaurāṅgasya na kaścit sambandhaḥ | na cāsau śrī-kṛṣṇasya pracchannāvirbhāva-viśeṣaḥ | ato neśvara-buddhyā sevitavya iti | etan-mataṁ nirākaroti—antaḥ-kṛṣṇeti | kṛṣṇatvaṁ yasyātaram iti | yato’sya darśanenaiva ca śrī-kṛṣṇāvirbhāva-viśeṣa evāyaṁ śrī-gaurāṅgaḥ | tasmāt īśvaratve na kāpi śaṅkā padaṁ labhate |
 
-यद् अपि केचिद् आहुः श्री-कृष्णाविर्भाव-विशेष एवायं श्री-गौराङ्गः । अतः तदीय-पत्नी-तत्-परिकरादिभिः सह अस्य ध्यान-मन्त्रादिना पृथक्-पूजा-पद्धतिर् विद्यते श्री-कृष्ण-ध्यान-मन्त्रादिनैव तत्-सिद्धेः, अपि तु श्री-कृष्णात् ऋते श्री-गौराङ्ग-पूजा समाधेयेति । तन् निरस्यति—बहिर् गौर इति निर्देशात् । अन्तः-कृष्णत्वेऽपि ज़्-कृष्णात् अस्य वैशिष्ट्यम् आह—बहिर् गौरम् इति । अपूर्वोज्ज्वल-हेम-वर्णम् इत्य् अर्थः । द्वापरे अतृप्त-कामः श्री-कृष्णः प्रेयस्या वर्ण-भावाभ्याम् आत्मानम् आच्छाद्य स्वीयाभीष्ट-पूरणाय कलौ श्री-गौराङ्ग-रूपेणाविर्भूतः । 
+yad api kecid āhuḥ śrī-kṛṣṇāvirbhāva-viśeṣa evāyaṁ śrī-gaurāṅgaḥ | ataḥ tadīya-patnī-tat-parikarādibhiḥ saha asya dhyāna-mantrādinā pṛthak-pūjā-paddhatir vidyate śrī-kṛṣṇa-dhyāna-mantrādinaiva tat-siddheḥ, api tu śrī-kṛṣṇāt ṛte śrī-gaurāṅga-pūjā samādheyeti | tan nirasyati—bahir gaura iti nirdeśāt | antaḥ-kṛṣṇatve’pi Z-kṛṣṇāt asya vaiśiṣṭyam āha—bahir gauram iti | apūrvojjvala-hema-varṇam ity arthaḥ | dvāpare atṛpta-kāmaḥ śrī-kṛṣṇaḥ preyasyā varṇa-bhāvābhyām ātmānam ācchādya svīyābhīṣṭa-pūraṇāya kalau śrī-gaurāṅga-rūpeṇāvirbhūtaḥ | 
 
-अतः तत्-कालोचित-ध्यानेन मन्त्रेण च एवम्भूतस्यास्यैतत्-काले कुत्र पूजादि-सम्भवः ? अधिकं तु श्री-कृष्णस्य ध्यान-मन्त्रादौ वर्णिताः ये देह-वर्णवयवाः तैः सह श्री-गौराङ्गस्य देह-वर्णावयवादेर् अत्यन्त-वैलक्षण्यात् तादृश-ध्यानादेस् तु रूपाद्य्-अननुगततया श्री-कृष्णस्य ध्यान-मन्त्रैः श्री-गौराङ्ग-पूजा मत्त-कल्पनैव । अतः श्री-गौराङ्ग-पूजायाः तद्-उचित-मन्त्रादेर् व्यवस्थावश्यं स्वीकार्या, शास्त्र-सङ्गा चेयम् । आनन्द-चरणैर् अपि श्री-विष्णुप्रियया सह श्री-गौराङ्गस्य यथोचित-युगल-मन्त्रेण श्री-गौर-विष्णुप्रिया-युगल-भजन-सेवा-पूजा तथा श्री-नित्यानन्दादिभिः सह पृथक् पृथग् भावेन श्री-गौराङ्गस्य पूजा तद्-उचित-ध्यान-मन्त्रेण समाचरिता । यो व्रजे नन्दनन्दनो राधा-नाथः श्री-कृष्णः स हि अत्र नवद्वीपे शचीसुतः विष्णुप्रिया-नाथः श्री-गौराङ्गः संवृत्तः । या व्रजे वृषभानु-नन्दिनी कृष्ण-प्रिया श्री-राधा, सा हि नवद्वीपे सनातन-सुता गौर-प्रिया श्री-विष्णुप्रिया ।
+ataḥ tat-kālocita-dhyānena mantreṇa ca evambhūtasyāsyaitat-kāle kutra pūjādi-sambhavaḥ ? adhikaṁ tu śrī-kṛṣṇasya dhyāna-mantrādau varṇitāḥ ye deha-varṇavayavāḥ taiḥ saha śrī-gaurāṅgasya deha-varṇāvayavāder atyanta-vailakṣaṇyāt tādṛśa-dhyānādes tu rūpādy-ananugatatayā śrī-kṛṣṇasya dhyāna-mantraiḥ śrī-gaurāṅga-pūjā matta-kalpanaiva | ataḥ śrī-gaurāṅga-pūjāyāḥ tad-ucita-mantrāder vyavasthāvaśyaṁ svīkāryā, śāstra-saṅgā ceyam | ānanda-caraṇair api śrī-viṣṇupriyayā saha śrī-gaurāṅgasya yathocita-yugala-mantreṇa śrī-gaura-viṣṇupriyā-yugala-bhajana-sevā-pūjā tathā śrī-nityānandādibhiḥ saha pṛthak pṛthag bhāvena śrī-gaurāṅgasya pūjā tad-ucita-dhyāna-mantreṇa samācaritā | yo vraje nandanandano rādhā-nāthaḥ śrī-kṛṣṇaḥ sa hi atra navadvīpe śacīsutaḥ viṣṇupriyā-nāthaḥ śrī-gaurāṅgaḥ saṁvṛttaḥ | yā vraje vṛṣabhānu-nandinī kṛṣṇa-priyā śrī-rādhā, sā hi navadvīpe sanātana-sutā gaura-priyā śrī-viṣṇupriyā |
 
-अत्रापरे प्रत्यवतिष्ठते । यद्यपि युगावतार-निर्णय-प्रसङ्गे भागवतादि-शास्त्र-प्रमाणकः श्री-गौराङ्गः, तथापि श्री-कृष्ण-तत्त्वाद् अपकृष्टतया श्री-गौराङ्ग-तत्त्वं शास्त्रेण समर्थ्यते, यथा मत्स्याद्य्-अवतार-तत्त्वानि । कुतः एतत् ? श्री-कृष्णात् श्री-गौराङ्गस्य पृथग्-ध्यान-मन्त्रादीनां स्वीकारेऽपि श्री-गौराङ्गोपासनाया आनर्थक्य-प्रसङ्गः । दृश्यते च शास्त्रे—एते चांश-कलाः पुंसः कृष्णस् तु भगवान् स्वयं [भा।पु। १.३.२८] इति । 
+atrāpare pratyavatiṣṭhate | yadyapi yugāvatāra-nirṇaya-prasaṅge bhāgavatādi-śāstra-pramāṇakaḥ śrī-gaurāṅgaḥ, tathāpi śrī-kṛṣṇa-tattvād apakṛṣṭatayā śrī-gaurāṅga-tattvaṁ śāstreṇa samarthyate, yathā matsyādy-avatāra-tattvāni | kutaḥ etat ? śrī-kṛṣṇāt śrī-gaurāṅgasya pṛthag-dhyāna-mantrādīnāṁ svīkāre’pi śrī-gaurāṅgopāsanāyā ānarthakya-prasaṅgaḥ | dṛśyate ca śāstre—ete cāṁśa-kalāḥ puṁsaḥ kṛṣṇas tu bhagavān svayaṁ [bhā.pu. 1.3.28] iti | 
 
-अत्राभिधीयते—न, एतत् तत्त्वयोर् उत्कृष्टापकृष्ट-परिकल्पनायाः शास्त्र-विगर्हितत्वात् । यः श्री-कृष्णः, स एव श्री-गौराङ्गः । मस्त्यादीनां तु अंशत्वात् अंशिनि कृष्णे पर्यवसानं न विरुद्धम्, किन्तु श्री-गौराङ्गः मत्स्यादिवत् न अंशः, येनास्यावसानं श्री-कृष्णे कल्प्येत, अपि तु श्री-कृष्णस्य पूर्णाविर्भाव-विशेषत्वात् श्री-गौराङ्गो हि षड्-ऐश्वर्यैः पूर्णः स्वयं भगवान्, यद् उक्तं वृद्धानन्दैः—
+atrābhidhīyate—na, etat tattvayor utkṛṣṭāpakṛṣṭa-parikalpanāyāḥ śāstra-vigarhitatvāt | yaḥ śrī-kṛṣṇaḥ, sa eva śrī-gaurāṅgaḥ | mastyādīnāṁ tu aṁśatvāt aṁśini kṛṣṇe paryavasānaṁ na viruddham, kintu śrī-gaurāṅgaḥ matsyādivat na aṁśaḥ, yenāsyāvasānaṁ śrī-kṛṣṇe kalpyeta, api tu śrī-kṛṣṇasya pūrṇāvirbhāva-viśeṣatvāt śrī-gaurāṅgo hi ṣaḍ-aiśvaryaiḥ pūrṇaḥ svayaṁ bhagavān, yad uktaṁ vṛddhānandaiḥ—
 
 
-> षड्-ऐश्वर्यैः पूर्णो य इह भगवान् स स्वयम् अयम् ।  
-> न चैतन्यात् कृष्णात् जगति पर-तत्त्वं परम् इह ॥ इति ।
+> ṣaḍ-aiśvaryaiḥ pūrṇo ya iha bhagavān sa svayam ayam |  
+> na caitanyāt kṛṣṇāt jagati para-tattvaṁ param iha || iti |
 
-श्री-कृष्ण-चैतन्य-शब्दः हि श्री-गौराङ्गस्य सन्न्यास-कालोचित-नाम-विशेषः । निमाइ, विश्वम्भरः, विष्णुप्रिया-नाथः, महाप्रभुः, नवद्वीप-चन्द्रः, नदीया-विहारी, इत्य्-आदीनि अस्य श्री-गौराङ्गस्य अपर-नामानि संस्कृत-प्राकृत-भाषा-प्रसिद्धानि । अतः श्री-गौराङ्ग-तत्त्वम् एव हि पर-तत्त्वम् अधुना कलौ इति निष्कर्षः ।
+śrī-kṛṣṇa-caitanya-śabdaḥ hi śrī-gaurāṅgasya sannyāsa-kālocita-nāma-viśeṣaḥ | nimāi, viśvambharaḥ, viṣṇupriyā-nāthaḥ, mahāprabhuḥ, navadvīpa-candraḥ, nadīyā-vihārī, ity-ādīni asya śrī-gaurāṅgasya apara-nāmāni saṁskṛta-prākṛta-bhāṣā-prasiddhāni | ataḥ śrī-gaurāṅga-tattvam eva hi para-tattvam adhunā kalau iti niṣkarṣaḥ |
 
-शक्त्या सह अभिन्नः पुरुषोत्तमः नित्य-लीला-रसास्वादन-परोऽपि विप्रलम्भादि-युक्तापूर्व-रसास्वादनार्थं ह्लादिनी-शक्त्या सह विभिन्नः सन् यो व्रजे श्री-नन्दनन्दन-रूपेणाविर्भूतः सोऽधुना कलौ पूर्व-सञ्जात-पिपासाया रस-विशेषास्वादन् एन निवारणार्थं पुनः ह्लादिनी-शक्त्या सह एकीभूतः सन् श्री-गौराङ्ग-रूपेणावतीर्णः । आर्षश् चायं—
+śaktyā saha abhinnaḥ puruṣottamaḥ nitya-līlā-rasāsvādana-paro’pi vipralambhādi-yuktāpūrva-rasāsvādanārthaṁ hlādinī-śaktyā saha vibhinnaḥ san yo vraje śrī-nandanandana-rūpeṇāvirbhūtaḥ so’dhunā kalau pūrva-sañjāta-pipāsāyā rasa-viśeṣāsvādan ena nivāraṇārthaṁ punaḥ hlādinī-śaktyā saha ekībhūtaḥ san śrī-gaurāṅga-rūpeṇāvatīrṇaḥ | ārṣaś cāyaṁ—
 
 
-> राधा कृष्ण-प्रणय-विकृतिर् ह्लादिनी शक्तिर् अस्माद्  
-> एकात्मानाव् अपि भुवि पुरा देह-भेदं गतौ तौ ।  
-> चैतन्याख्यं प्रकंअम् अधुना तद्-द्वयं चैक्यम् आप्तं  
-> राधा-भाव-द्युति-सुवलितं नौमि कृष्ण-स्वरूपम् ॥ [चै।च। १.१.५] इति ।
+> rādhā kṛṣṇa-praṇaya-vikṛtir hlādinī śaktir asmād  
+> ekātmānāv api bhuvi purā deha-bhedaṁ gatau tau |  
+> caitanyākhyaṁ prakaṁam adhunā tad-dvayaṁ caikyam āptaṁ  
+> rādhā-bhāva-dyuti-suvalitaṁ naumi kṛṣṇa-svarūpam || [cai.ca. 1.1.5] iti |
 
-श्रीमद्-भागवत-निबद्धं श्री-कृष्णोक्तम्, न पारयेऽहं निरवद्य इत्य्-आदि-श्लोकेन यत् श्री-कृष्ण-तत्त्व-माधुर्यं प्रकाशितं तद् अधुनाभिनव-माधुर्यान्तर-संयुक्तं सत् श्री-गौराङ्ग-तत्त्वाकारेण परिस्फुटम् । यद् वा, श्री-कृष्ण-तत्त्वं हि ह्लादिनी-शक्त्या सह प्रेम-रसेन परिपाकावस्थान्तरं प्राप्य श्री-गौराङ्ग-रूपेण पर्यवसितम् । तेन च श्री-कृष्ण-तत्त्वात् एतस्य श्री-गौराङ्ग-तत्त्वस्यास्वादन-वैशिष्ट्यं च—पर-तत्त्वं परम् इह इति उपासकानाम् अनुभव-बलेन सुष्ठु सङ्गच्छते ।
+śrīmad-bhāgavata-nibaddhaṁ śrī-kṛṣṇoktam, na pāraye’haṁ niravadya ity-ādi-ślokena yat śrī-kṛṣṇa-tattva-mādhuryaṁ prakāśitaṁ tad adhunābhinava-mādhuryāntara-saṁyuktaṁ sat śrī-gaurāṅga-tattvākāreṇa parisphuṭam | yad vā, śrī-kṛṣṇa-tattvaṁ hi hlādinī-śaktyā saha prema-rasena paripākāvasthāntaraṁ prāpya śrī-gaurāṅga-rūpeṇa paryavasitam | tena ca śrī-kṛṣṇa-tattvāt etasya śrī-gaurāṅga-tattvasyāsvādana-vaiśiṣṭyaṁ ca—para-tattvaṁ param iha iti upāsakānām anubhava-balena suṣṭhu saṅgacchate |
 
-श्री-कृष्णाविर्भाव-विशेष एवायं श्री-गौराङ्गः । तथा च तस्य परमेश्वरत्व-ज्ञापक-शास्त्र-वाक्यानि उद्धृतानि । अधुना पुनः त्णय् अप्य् अपराणि वेद-व्यासादिभिः उट्टङ्कितानि उपस्थाप्यन्ते । दृश्यते च पुराणे—
+śrī-kṛṣṇāvirbhāva-viśeṣa evāyaṁ śrī-gaurāṅgaḥ | tathā ca tasya parameśvaratva-jñāpaka-śāstra-vākyāni uddhṛtāni | adhunā punaḥ tṇay apy aparāṇi veda-vyāsādibhiḥ uṭṭaṅkitāni upasthāpyante | dṛśyate ca purāṇe—
 
 
-> अहम् एव क्वचिद् ब्रह्मन् सन्न्यासाश्रमम् आश्रितः ।  
-> हरि-भक्तिं ग्राहयामि कलौ पाप-हतान् नरान् ॥ इति ।
+> aham eva kvacid brahman sannyāsāśramam āśritaḥ |  
+> hari-bhaktiṁ grāhayāmi kalau pāpa-hatān narān || iti |
 
-अन्यत्र तु श्री-महाभारते दान-धर्मे—
+anyatra tu śrī-mahābhārate dāna-dharme—
 
 
-> सुवर्ण-वर्ण-हेमाङ्गो वराङ्गश् चन्दनाङ्ग-दी ।  
-> विरहाविषमः शून्यो धृताशिर-चलश् चलः ।
+> suvarṇa-varṇa-hemāṅgo varāṅgaś candanāṅga-dī |  
+> virahāviṣamaḥ śūnyo dhṛtāśira-calaś calaḥ |
 
-तत्रैव पुनः—
+tatraiva punaḥ—
 
-क्रियामासामगः सामो निर्वाणं भेषजं भिषक् ।
+kriyāmāsāmagaḥ sāmo nirvāṇaṁ bheṣajaṁ bhiṣak |
 
 
-> सन्न्यास-कृच् छमः शान्तो निष्ठा-शान्ति-परायणः ॥ इति ।
+> sannyāsa-kṛc chamaḥ śānto niṣṭhā-śānti-parāyaṇaḥ || iti |
 
-तथा च श्रीमद्-भागवते—
+tathā ca śrīmad-bhāgavate—
 
-आसन् वर्णास् त्रयो ह्य् अस्य गृह्णतोऽनुयुगं तनुः ।
+āsan varṇās trayo hy asya gṛhṇato’nuyugaṁ tanuḥ |
 
-> शुक्लो रक्तस् तथा पीत इदानीं कृष्णतां गतः ॥ [भा।पु। १०.८.१३] इति ।
+> śuklo raktas tathā pīta idānīṁ kṛṣṇatāṁ gataḥ || [bhā.pu. 10.8.13] iti |
 
-पुनः तत्रैव च युगावतार-निर्णय-प्रसङ्गे—
+punaḥ tatraiva ca yugāvatāra-nirṇaya-prasaṅge—
 
 
-> कृष्ण-वर्णं त्विषाकृष्णं साङ्गोपाङ्गास्त्र-पार्षदम् ।  
-> यज्ञैः सङ्कीर्तन-प्रायैर् यजन्ति हि सुमेधसः ॥ [भा।पु। ११.५.३२] इति च ।
+> kṛṣṇa-varṇaṁ tviṣākṛṣṇaṁ sāṅgopāṅgāstra-pārṣadam |  
+> yajñaiḥ saṅkīrtana-prāyair yajanti hi sumedhasaḥ || [bhā.pu. 11.5.32] iti ca |
 
-शास्त्रान्तरे च—
+śāstrāntare ca—
 
 
-> कलेः प्रथम-सन्ध्यायां गौराङ्गोऽहं मही-तले ।  
-> भागीरथी-तटे रम्ये भविष्यामि शची-सुतः ॥  
-> अहम् एव कलौ विप्र नित्यं प्रच्छन्न-विग्रहः ।  
-> भगवद्-भक्त-रूपेण लोकान् रक्षामि सर्वथा ॥  
-> अहं पूर्णो भविष्यामि युग-सन्धौ विशेषतः ।  
-> गङ्गा-तीरे नवद्वीपे वारम् एकं शची-सुतः ॥ इति ।
+> kaleḥ prathama-sandhyāyāṁ gaurāṅgo’haṁ mahī-tale |  
+> bhāgīrathī-taṭe ramye bhaviṣyāmi śacī-sutaḥ ||  
+> aham eva kalau vipra nityaṁ pracchanna-vigrahaḥ |  
+> bhagavad-bhakta-rūpeṇa lokān rakṣāmi sarvathā ||  
+> ahaṁ pūrṇo bhaviṣyāmi yuga-sandhau viśeṣataḥ |  
+> gaṅgā-tīre navadvīpe vāram ekaṁ śacī-sutaḥ || iti |
 
-उक्तं च अनन्त-संहितायां श्री-भगवता—
+uktaṁ ca ananta-saṁhitāyāṁ śrī-bhagavatā—
 
 
-> अवतीर्णो भविष्यामि कलौ निज-जनैः सह ।  
-> शची-गर्भे नवद्वीपे स्वर्धुनी-परिवारिते ॥ इति ।
+> avatīrṇo bhaviṣyāmi kalau nija-janaiḥ saha |  
+> śacī-garbhe navadvīpe svardhunī-parivārite || iti |
 
-अपि तु विश्व-सार-तन्त्रे—
+api tu viśva-sāra-tantre—
 
 
-> गङ्गायां दक्षिणे भागे नवद्वीपे मनोरमे ।  
-> फाल्गुन्यां पौर्णमास्यां वै निशायां गौर-विग्रहः ॥ इति ।
+> gaṅgāyāṁ dakṣiṇe bhāge navadvīpe manorame |  
+> phālgunyāṁ paurṇamāsyāṁ vai niśāyāṁ gaura-vigrahaḥ || iti |
 
-अपि च ऊर्ध्वाम्नाय-संहितायां श्री-भगवद्-वाक्यं—
+api ca ūrdhvāmnāya-saṁhitāyāṁ śrī-bhagavad-vākyaṁ—
 
 
-> कृष्णं वदिष्यन्ति जनाः कंसारातिं सुरास् तथा ।  
-> पौर्णमास्यां फाल्गुनस्य फाल्गुनी-ऋक्ष-योगतः ॥  
-> जनिष्ये गौर-रूपेण शची-गर्भे पुरन्दरात् ।  
-> वैवस्वतेऽन्तरे ब्रह्मन् गङ्गा-तीरे सुपुण्यदे ॥ इति ।
+> kṛṣṇaṁ vadiṣyanti janāḥ kaṁsārātiṁ surās tathā |  
+> paurṇamāsyāṁ phālgunasya phālgunī-ṛkṣa-yogataḥ ||  
+> janiṣye gaura-rūpeṇa śacī-garbhe purandarāt |  
+> vaivasvate’ntare brahman gaṅgā-tīre supuṇyade || iti |
 
-तत्रैव हि—
+tatraiva hi—
 
 
-> कलौ पुरन्दरात् शच्यां गौर-रूपो विभुः स्मृतः ।  
-> महाप्रभुर् इति ख्यातः सर्व-लोकैक-पावनः ॥ इति च ।
+> kalau purandarāt śacyāṁ gaura-rūpo vibhuḥ smṛtaḥ |  
+> mahāprabhur iti khyātaḥ sarva-lokaika-pāvanaḥ || iti ca |
 
-अपि तु दृश्यते तत्र च—
+api tu dṛśyate tatra ca—
 
 
-> श्री-व्यास उवाच—  
-> केन रूपेण भगवान् पूजितः स्यात् सुखावहः ।  
-> घोरे कलि-युगे प्राप्ते तन् मे वद दयानिधे ॥  
-> श्री-नारद उवाच—  
-> कृष्ण-रूपेण भगवान् कलौ पाप-प्रणाश-कृत् ।  
-> गौर-रूपेण भगवान् भावितः पूजितस् तथा ॥  
-> श्री-व्यास उवाच—  
-> केन मन्त्रेण भगवान् गौराङ्गः परिपूजितः ।  
-> सुखावहः स्याल् लोकानां तन् मे ब्रूहि महा-मुने ॥  
-> श्री-नारद उवाच—  
-> अहो गूढतमः प्रश्नो भवता परिकीर्तितः ।  
-> मन्त्रं वक्ष्यामि ते ब्रह्मन् महा-पुण्य-प्रदं शुभम् ॥  
-> ॐ गौराय नमः इत्य् एष मन्त्रो लोकेषु पूजितः ।  
-> माया-रसानङ्ग-बीजैर् वाग्-बीजेन च पूजितः ॥  
-> एवं बहु-विधा ब्रह्मन् मन्त्रास् ते परिकीर्तिताः ।  
-> गङ्गा-तीरे कुरुक्षेत्रे नवद्वीपे विशेषतः ।  
-> वृन्दावने च मन्त्रोऽयं साधितः सिद्धिम् आप्नुयात् ॥
+> śrī-vyāsa uvāca—  
+> kena rūpeṇa bhagavān pūjitaḥ syāt sukhāvahaḥ |  
+> ghore kali-yuge prāpte tan me vada dayānidhe ||  
+> śrī-nārada uvāca—  
+> kṛṣṇa-rūpeṇa bhagavān kalau pāpa-praṇāśa-kṛt |  
+> gaura-rūpeṇa bhagavān bhāvitaḥ pūjitas tathā ||  
+> śrī-vyāsa uvāca—  
+> kena mantreṇa bhagavān gaurāṅgaḥ paripūjitaḥ |  
+> sukhāvahaḥ syāl lokānāṁ tan me brūhi mahā-mune ||  
+> śrī-nārada uvāca—  
+> aho gūḍhatamaḥ praśno bhavatā parikīrtitaḥ |  
+> mantraṁ vakṣyāmi te brahman mahā-puṇya-pradaṁ śubham ||  
+> oṁ gaurāya namaḥ ity eṣa mantro lokeṣu pūjitaḥ |  
+> māyā-rasānaṅga-bījair vāg-bījena ca pūjitaḥ ||  
+> evaṁ bahu-vidhā brahman mantrās te parikīrtitāḥ |  
+> gaṅgā-tīre kurukṣetre navadvīpe viśeṣataḥ |  
+> vṛndāvane ca mantro’yaṁ sādhitaḥ siddhim āpnuyāt ||
 
-इत्य् आदीनि श्री-ऊर्ध्वाम्नाय-संहितायां गौर-मन्त्रोद्धार-नाम तृतीयाध्यायः । अथ ईशान-संहितायां श्री-पार्वतीं प्रति श्री-महादेव-वाक्यम्—
+ity ādīni śrī-ūrdhvāmnāya-saṁhitāyāṁ gaura-mantroddhāra-nāma tṛtīyādhyāyaḥ | atha īśāna-saṁhitāyāṁ śrī-pārvatīṁ prati śrī-mahādeva-vākyam—
 
 
-> अपरं शृणु चार्वङ्गि मन्त्र-राजम् इमं प्रिये ।  
-> आदौ मायां समुच्चार्य गौरचन्द्रं ततो वदेत् ।  
-> भक्ति-योगेन गौराङ्गं पूजयेत् प्रिये ॥ इत्य् आदीनि ।
+> aparaṁ śṛṇu cārvaṅgi mantra-rājam imaṁ priye |  
+> ādau māyāṁ samuccārya gauracandraṁ tato vadet |  
+> bhakti-yogena gaurāṅgaṁ pūjayet priye || ity ādīni |
 
-तथा हि—नमस्यामि शची-पुत्रं गौरचन्द्रम् इत्य्-आदि श्री-गौराङ्ग-देव-स्तोत्रम् । श्रीमन्-मौक्तिक-दाम-बद्ध-चिकुरम् इत्य्-आदि श्री-गौराङ्ग-महाप्रभोर् ध्यानम्—
+tathā hi—namasyāmi śacī-putraṁ gauracandram ity-ādi śrī-gaurāṅga-deva-stotram | śrīman-mauktika-dāma-baddha-cikuram ity-ādi śrī-gaurāṅga-mahāprabhor dhyānam—
 
 
-> नमस् त्रिकाल-सत्याय जगन्नाथ-सुताय च ।  
-> स-भृत्याय स-पुत्राय स-कलत्राय ते नमः ॥ 
+> namas trikāla-satyāya jagannātha-sutāya ca |  
+> sa-bhṛtyāya sa-putrāya sa-kalatrāya te namaḥ || 
 
-इति श्री-गौराङ्ग-महाप्रभोः प्रणाम-मन्त्रः । श्लोके तु “स-पुत्राय” इति पदेन “पुत्रः” श्री-विष्णुप्रियायाः सहोदरानुज-श्री-यादवाचार्यः, तेन सह अवस्थितो यः श्री-गौराङ्ग-महाप्रभुः, तस्मै इति । पुत्रत्वेन श्री-यादवाचार्य-प्रतिपाल्य-स्वीय-सेवाधिकारं श्री-गौराङ्ग-महाप्रभुः तस्मै परम-कृपया ददौ । ततः श्री-यादवाचार्यस्य गौराङ्ग-पुत्रत्वं सिद्धम् । “स-कलत्राय” इति । शचीनन्दनाय विद्महे इत्य्-आदि हि श्री-गौराङ्ग-गायत्री । अधुना सम्प्रवक्ष्यामि कवचं सर्व-सिद्धिदम् इत्य्-आदि श्री-गौराङ्ग-कवचम् । एतानि सर्वाणि हि शास्त्रेभ्यः अवबोधनीयानि ।
+iti śrī-gaurāṅga-mahāprabhoḥ praṇāma-mantraḥ | śloke tu “sa-putrāya” iti padena “putraḥ” śrī-viṣṇupriyāyāḥ sahodarānuja-śrī-yādavācāryaḥ, tena saha avasthito yaḥ śrī-gaurāṅga-mahāprabhuḥ, tasmai iti | putratvena śrī-yādavācārya-pratipālya-svīya-sevādhikāraṁ śrī-gaurāṅga-mahāprabhuḥ tasmai parama-kṛpayā dadau | tataḥ śrī-yādavācāryasya gaurāṅga-putratvaṁ siddham | “sa-kalatrāya” iti | śacīnandanāya vidmahe ity-ādi hi śrī-gaurāṅga-gāyatrī | adhunā sampravakṣyāmi kavacaṁ sarva-siddhidam ity-ādi śrī-gaurāṅga-kavacam | etāni sarvāṇi hi śāstrebhyaḥ avabodhanīyāni |
 
-अतः पूर्वोल्लिखित-शास्त्र-वाक्य-समन्वयात् श्री-गौराङ्गस्य परमेश्वरत्वं श्री-कृष्णाविर्भाव-विशेषत्वं च सिद्धम् । न च एतद्-वाक्य-गतानां पदानां श्री-गौराङ्ग-स्वरूप-विषयत्वे याथार्थ्येन अवगम्यमाने अर्थान्तर-कल्पना । युक्ता श्रुत-हान्य्-अश्रुत-कल्पना-प्रसङ्गात् । द्वापरे यः श्री-कृष्णः कलौ स एव श्री-गौराङ्ग इति शास्त्र-विदां तात्पर्यम् । अतो यथोचित-ध्यान-मन्त्रादिना श्री-गौराङ्गोपासनाया अवश्य-कर्तव्यता प्रापा । अकरणे प्रत्यवेयू पुरुषापसदाः । श्री-गौराङ्गम् अनादृत्य श्री-कृष्ण-भजन-सेवा-रतस्य जरासन्धादिवत् असुरत्वं ज्ञेयम् । तस्मात्—श्री-गौराङ्गोपासनायाः आनर्थक्य-प्रसङ्ग इति वचनं साहस-मात्रम् ।
+ataḥ pūrvollikhita-śāstra-vākya-samanvayāt śrī-gaurāṅgasya parameśvaratvaṁ śrī-kṛṣṇāvirbhāva-viśeṣatvaṁ ca siddham | na ca etad-vākya-gatānāṁ padānāṁ śrī-gaurāṅga-svarūpa-viṣayatve yāthārthyena avagamyamāne arthāntara-kalpanā | yuktā śruta-hāny-aśruta-kalpanā-prasaṅgāt | dvāpare yaḥ śrī-kṛṣṇaḥ kalau sa eva śrī-gaurāṅga iti śāstra-vidāṁ tātparyam | ato yathocita-dhyāna-mantrādinā śrī-gaurāṅgopāsanāyā avaśya-kartavyatā prāpā | akaraṇe pratyaveyū puruṣāpasadāḥ | śrī-gaurāṅgam anādṛtya śrī-kṛṣṇa-bhajana-sevā-ratasya jarāsandhādivat asuratvaṁ jñeyam | tasmāt—śrī-gaurāṅgopāsanāyāḥ ānarthakya-prasaṅga iti vacanaṁ sāhasa-mātram |
 
-ये च कौलटेराः श्री-कृष्ण-भक्ति-व्याजातिशयेन श्री-गौराङ्ग-तत्त्वम् अन्यथा कल्पयन्ति, तथा भाव-सिन्धु-श्री-गौराङ्गस्य विभिन्न-भावोत्थ-वाक्यावलीम् अनुचिन्त्य—असौ गौराङ्गः श्री-कृष्णस्य दासः, न तु परमेश्वरः इत्य् एवं जल्पन्ति च, मृदङ्ग-करताल-वाद्यादिभिः सह सङ्कीर्तनंन धर्माङ्गम् इति स्व-जातीय-सहचर-वाक्य-बलेन सङ्कीर्तन-यज्ञस्यापकृष्टतां साधयन्ति, मत्स्यादिवद् अवतार-रूपेण परम-साधारण-मनुष्य-रूपेण भागवत-रूपेण वा, अमुं श्री-गौराङ्गं चिन्तयन्ति, तेषां गण्डे पञ्च-चपेटिका-स्वरूपं श्री-गौराङ्ग-तत्त्व-माहात्म्य-सिद्धान्त-साहाचार्य-वरेण्यः 
+ye ca kaulaṭerāḥ śrī-kṛṣṇa-bhakti-vyājātiśayena śrī-gaurāṅga-tattvam anyathā kalpayanti, tathā bhāva-sindhu-śrī-gaurāṅgasya vibhinna-bhāvottha-vākyāvalīm anucintya—asau gaurāṅgaḥ śrī-kṛṣṇasya dāsaḥ, na tu parameśvaraḥ ity evaṁ jalpanti ca, mṛdaṅga-karatāla-vādyādibhiḥ saha saṅkīrtanaṁna dharmāṅgam iti sva-jātīya-sahacara-vākya-balena saṅkīrtana-yajñasyāpakṛṣṭatāṁ sādhayanti, matsyādivad avatāra-rūpeṇa parama-sādhāraṇa-manuṣya-rūpeṇa bhāgavata-rūpeṇa vā, amuṁ śrī-gaurāṅgaṁ cintayanti, teṣāṁ gaṇḍe pañca-capeṭikā-svarūpaṁ śrī-gaurāṅga-tattva-māhātmya-siddhānta-sāhācārya-vareṇyaḥ 
 
 
-> यद् अद्वैतं ब्रह्मोपनिषदि तद् अप्य् अस्य तनु-भा  
-> य आत्मान्तर्यामी पुरुष इति सो ऽस्यांश-विभवः ।  
-> षड्-ऐश्वर्यैः पूर्णो य इह भगवान् स स्वयम् अयं  
-> न चैतन्यात् कृष्णाज् जगति पर-तत्त्वं परम् इह ॥ [चै।च। १.१.३] इति ।
+> yad advaitaṁ brahmopaniṣadi tad apy asya tanu-bhā  
+> ya ātmāntaryāmī puruṣa iti so 'syāṁśa-vibhavaḥ |  
+> ṣaḍ-aiśvaryaiḥ pūrṇo ya iha bhagavān sa svayam ayaṁ  
+> na caitanyāt kṛṣṇāj jagati para-tattvaṁ param iha || [cai.ca. 1.1.3] iti |
 
-या अव्यवसिता बुद्धिः निखिल-लोक-पति-श्री-गौराङ्गं त्यक्त्वा अअन्यत्र धावति, सा मतिः कुलटा, तया परिचालितः परिपुष्टः यः जीवः स कौलटेरः । परिपोषणात् अस्या मतेः मातृत्वम्, परिपोष्यत्वात् जीवस्य पुत्रत्वम्, अतः कौलटेरत्वम् एषां साम्प्रतम् एव ।
+yā avyavasitā buddhiḥ nikhila-loka-pati-śrī-gaurāṅgaṁ tyaktvā aanyatra dhāvati, sā matiḥ kulaṭā, tayā paricālitaḥ paripuṣṭaḥ yaḥ jīvaḥ sa kaulaṭeraḥ | paripoṣaṇāt asyā mateḥ mātṛtvam, paripoṣyatvāt jīvasya putratvam, ataḥ kaulaṭeratvam eṣāṁ sāmpratam eva |
 
-कलि-पावनावतार-श्री-गौराङ्गस्य परमेश्वरत्वं ज्ञापयति—“दर्शिताङ्गादि-वैभवम्” इति । ये तावत् सत्त्व-गुण-विवर्जिताः अभक्तास् ते श्री-कृष्ण-चैतन्य-महाप्रभु-श्री-गौराङ्गम् अलौकिक-गुण-गणैश्वर्यादिर् युक्तम् अपि ईश्वरत्वेन न जानन्तीति कौतुकम् । तद् उक्तं यामुनाचार्य-स्तोत्रे—
+kali-pāvanāvatāra-śrī-gaurāṅgasya parameśvaratvaṁ jñāpayati—“darśitāṅgādi-vaibhavam” iti | ye tāvat sattva-guṇa-vivarjitāḥ abhaktās te śrī-kṛṣṇa-caitanya-mahāprabhu-śrī-gaurāṅgam alaukika-guṇa-gaṇaiśvaryādir yuktam api īśvaratvena na jānantīti kautukam | tad uktaṁ yāmunācārya-stotre—
 
 
-> त्वां शील-रूप-चरितैः परम-प्रकृष्टैः  
-> सत्त्वेन सात्त्विकतया प्रबलैश् च शास्त्रैः ।  
-> प्रख्यात-दैव-परमार्थ-विदां मतैश् च  
-> नैवासुर-प्रकृतयः प्रभवन्ति बोद्धुम् ॥ [स्तोत्र-रत्नं १२] इति ।
+> tvāṁ śīla-rūpa-caritaiḥ parama-prakṛṣṭaiḥ  
+> sattvena sāttvikatayā prabalaiś ca śāstraiḥ |  
+> prakhyāta-daiva-paramārtha-vidāṁ mataiś ca  
+> naivāsura-prakṛtayaḥ prabhavanti boddhum || [stotra-ratnaṁ 12] iti |
 
-अथ ग्रन्थ-कारः परमेश्वर-श्री-कृष्ण-चैतन्य-गौराङ्ग-महाप्रभोश् चरण-कमले आत्मानं सम्पूर्ण-रूपेण उत्सर्गी करोति अन्यान् अपि तत् कर्तुम् आह्वयति—“कृष्ण-चैतन्यम् आश्रिताः” इत्य् अनेन ॥२॥
+atha grantha-kāraḥ parameśvara-śrī-kṛṣṇa-caitanya-gaurāṅga-mahāprabhoś caraṇa-kamale ātmānaṁ sampūrṇa-rūpeṇa utsargī karoti anyān api tat kartum āhvayati—“kṛṣṇa-caitanyam āśritāḥ” ity anena ||2||
 
-—ओ)०(ओ—
+—o)0(o—
 
-[३]
+[3]
 
-**जयतां मथुरा-भूमौ श्रील-रूप-सनातनौ ।**
+**jayatāṁ mathurā-bhūmau śrīla-rūpa-sanātanau |**
 
-**यौ विलेखयतस् तत्त्वं ज्ञापकौ पुस्तिकाम् इमाम् ॥३॥**
+**yau vilekhayatas tattvaṁ jñāpakau pustikām imām ||3||**
 
-**सर्व-संवादिनी :** जयताम् इति । ज्ञापकौ ज्ञापयितुम् ॥३॥
+**sarva-saṁvādinī :** jayatām iti | jñāpakau jñāpayitum ||3||
 
-**बलदेवः :** अथाशीर् नमस्कार-रूपं मङ्गलम् आचरति जयताम् इति । श्रीलौ ज्ञान-वैराग्य-तपः-सम्पत्तिमन्तौ रूप-सनातनौ मे गुरु-परम-गुरू जयतः निजोत्कर्षं प्रकटयताम् । मथुरा-भूमाव् इति । तत्र तयोर् अध्यक्षता व्यज्यते । तयोर् जयोऽस्त्व् इत्य् आशास्यते । जयतिर् अत्र तद् इतर-सर्व-सद्-वृन्दोत्कर्ष-वचनः । तद्-उत्कर्षाश्रयत्वात् तयोस् तत्-सर्व-नमस्यत्वम् आक्षिप्यते । तत्-सर्वान्तःपातित्वात् स्वस्य तौ नमयाव् इति च व्यज्यते। तौ कीदृशाव् इत्य् आह । याव् इमां सम्दर्भाख्यां पुस्तिकां विलेखयतस् तस्या लिखने मां प्रवर्तयतः । बुद्धौ सिद्धत्वात् इमाम् इत्य् उक्तिः । तत्त्वं ज्ञापकौ तत्त्वं वाद्य-प्रभेदे स्यात् स्वरूपे परमात्मनि इति विश्व-कोषात् । परेशं सपरिकरं ज्ञापयिष्यन्ताव् इत्य् अर्थः । कर्तरि भविष्यति ण्वुल् षष्ठी-निषेधस् तु अकेनोर् भविष्यद् आधमर्णयोः [पा। २.३.७०] इति सूत्रात् ॥३॥
+**baladevaḥ :** athāśīr namaskāra-rūpaṁ maṅgalam ācarati jayatām iti | śrīlau jñāna-vairāgya-tapaḥ-sampattimantau rūpa-sanātanau me guru-parama-gurū jayataḥ nijotkarṣaṁ prakaṭayatām | mathurā-bhūmāv iti | tatra tayor adhyakṣatā vyajyate | tayor jayo’stv ity āśāsyate | jayatir atra tad itara-sarva-sad-vṛndotkarṣa-vacanaḥ | tad-utkarṣāśrayatvāt tayos tat-sarva-namasyatvam ākṣipyate | tat-sarvāntaḥpātitvāt svasya tau namayāv iti ca vyajyate| tau kīdṛśāv ity āha | yāv imāṁ samdarbhākhyāṁ pustikāṁ vilekhayatas tasyā likhane māṁ pravartayataḥ | buddhau siddhatvāt imām ity uktiḥ | tattvaṁ jñāpakau tattvaṁ vādya-prabhede syāt svarūpe paramātmani iti viśva-koṣāt | pareśaṁ saparikaraṁ jñāpayiṣyantāv ity arthaḥ | kartari bhaviṣyati ṇvul ṣaṣṭhī-niṣedhas tu akenor bhaviṣyad ādhamarṇayoḥ [pā. 2.3.70] iti sūtrāt ||3||
 
-**राधा-मोहन-गोस्वामी : _न व्याख्यातम्।_**
+**rādhā-mohana-gosvāmī : _na vyākhyātam._**
 
-**गौर-किशोर-गोस्वामी : **पुरा किल श्री-रूप-सनातनौ कर्णाट-देश-वासि-प्रसिद्ध-ब्राह्मण-वंशजौ आस्ताम् । अथ कार्य-व्यपदेशेन तौ द्वौ गौडे राज-मन्त्रि-रूपेण अवसताम् । तत्र श्री-गौराङ्गस्यानुगत-जन-चरण-रेणोः स्पर्शेन ज्ञान-विज्ञान-तपः-सम्पत्तिमन्तौ तौ कठोर-वैराग्यम् अवलम्ब्य व्रज-भूमौ वसन् श्री-गौराङ्ग-महाप्रभोः सञ्चारित-शक्ति-बलेन वैष्णव-श्री-ग्रन्थादीन् प्रकटयामासतुः । वर्तमान-ग्रन्थ-कारः तयोर् भ्रातुष्पुत्रः शिष्यं च, ग्रन्थस्य निर्विघ्न-परिसमाप्त्य्-अर्थं तौ द्वौ नमस्करोति । वैराग्यानन्तरं जागतिक-धन-शून्यत्वेऽपि अहैतुक-भक्ति-सम्पत्तेर् अधिकारित्व-हेतोर् अनयोः श्री-युक्तत्वात्—श्रील इति । श्री-रूप-सनातनयोर् निर्देशेन ग्रन्थ-कारस्येयं ग्रन्थ-सङ्कलन-प्रवृत्तिः । धाम्ना सह तयोर् जयम् इच्छति—जयताम् इति ॥३॥
+**gaura-kiśora-gosvāmī : **purā kila śrī-rūpa-sanātanau karṇāṭa-deśa-vāsi-prasiddha-brāhmaṇa-vaṁśajau āstām | atha kārya-vyapadeśena tau dvau gauḍe rāja-mantri-rūpeṇa avasatām | tatra śrī-gaurāṅgasyānugata-jana-caraṇa-reṇoḥ sparśena jñāna-vijñāna-tapaḥ-sampattimantau tau kaṭhora-vairāgyam avalambya vraja-bhūmau vasan śrī-gaurāṅga-mahāprabhoḥ sañcārita-śakti-balena vaiṣṇava-śrī-granthādīn prakaṭayāmāsatuḥ | vartamāna-grantha-kāraḥ tayor bhrātuṣputraḥ śiṣyaṁ ca, granthasya nirvighna-parisamāpty-arthaṁ tau dvau namaskaroti | vairāgyānantaraṁ jāgatika-dhana-śūnyatve’pi ahaituka-bhakti-sampatter adhikāritva-hetor anayoḥ śrī-yuktatvāt—śrīla iti | śrī-rūpa-sanātanayor nirdeśena grantha-kārasyeyaṁ grantha-saṅkalana-pravṛttiḥ | dhāmnā saha tayor jayam icchati—jayatām iti ||3||
 
-—ओ)०(ओ—
+—o)0(o—
 
-[४]
+[4]
 
-**कोऽपि तद्-बान्धवो भट्टो दक्षिण-द्विज-वंशजः ।**
+**ko’pi tad-bāndhavo bhaṭṭo dakṣiṇa-dvija-vaṁśajaḥ |**
 
-**विविच्य व्यलिखद् ग्रन्थं लिखिताद् वृद्ध-वैष्णवैः ॥४॥**
+**vivicya vyalikhad granthaṁ likhitād vṛddha-vaiṣṇavaiḥ ||4||**
 
-**सर्व-संवादिनी : **कोऽपीति । वृद्ध-वैष्णवैः श्री-रामानुज-मध्वाचार्य-श्रीधर-स्वाम्य्-आदिभिर् यल् लिखितम्, तस्माद् उद्धृतस्येत्य् अर्थः । अनेन स्व-कपोल-कल्पितत्वं च निरस्तम् ॥४॥
+**sarva-saṁvādinī : **ko’pīti | vṛddha-vaiṣṇavaiḥ śrī-rāmānuja-madhvācārya-śrīdhara-svāmy-ādibhir yal likhitam, tasmād uddhṛtasyety arthaḥ | anena sva-kapola-kalpitatvaṁ ca nirastam ||4||
 
-**बलदेवः :** ग्रन्थस्य पुरातनत्वं स्व-परिष्कृतत्वं चाह—कोऽपीति । तद्-बान्धवस् तयो रूप-सनातनयोर् बन्धुर् गोपाल-भट्ट इत्य् अर्थः । वृद्ध-वैष्णवैः श्री-मध्व्-आदिभिर् लिखिताद् ग्रन्थात् तं विविच्य विचार्य सारं गृहीत्वा ग्रन्थम् इमं व्यलिखत् ॥४॥
+**baladevaḥ :** granthasya purātanatvaṁ sva-pariṣkṛtatvaṁ cāha—ko’pīti | tad-bāndhavas tayo rūpa-sanātanayor bandhur gopāla-bhaṭṭa ity arthaḥ | vṛddha-vaiṣṇavaiḥ śrī-madhv-ādibhir likhitād granthāt taṁ vivicya vicārya sāraṁ gṛhītvā grantham imaṁ vyalikhat ||4||
 
-**राधा-मोहन-गोस्वामी : _न व्याख्यातम्।_**
+**rādhā-mohana-gosvāmī : _na vyākhyātam._**
 
-**गौर-किशोर-गोस्वामी : **ग्रन्थस्यास्य प्राचीनत्वं तथा महाजन-वर्त्म-चारित्वं दर्शयति—कोऽपीति । भट्टः श्री-गोपाल-भट्ट-पादः । “वृद्ध-वैष्णवैः श्री-रामानुजानन्द-श्रीधर-स्वामि-पादादिभिर् यल् लिखितं तद् दृष्ट्वेत्य् अर्थः । अनेन स्व-कपोल-कल्पितत्वं निरस्तम्” इति संवादिनी ॥३॥
+**gaura-kiśora-gosvāmī : **granthasyāsya prācīnatvaṁ tathā mahājana-vartma-cāritvaṁ darśayati—ko’pīti | bhaṭṭaḥ śrī-gopāla-bhaṭṭa-pādaḥ | “vṛddha-vaiṣṇavaiḥ śrī-rāmānujānanda-śrīdhara-svāmi-pādādibhir yal likhitaṁ tad dṛṣṭvety arthaḥ | anena sva-kapola-kalpitatvaṁ nirastam” iti saṁvādinī ||3||
 
-—ओ)०(ओ—
+—o)0(o—
 
-[५]
+[5]
 
-**तस्याद्यं ग्रन्थनालेखं क्रान्तम् उत्क्रान्त-खण्डितम् ।**
+**tasyādyaṁ granthanālekhaṁ krāntam utkrānta-khaṇḍitam |**
 
-**पर्यालोच्याथ पर्यायं कृत्वा लिखति जीवकः ॥५॥**
+**paryālocyātha paryāyaṁ kṛtvā likhati jīvakaḥ ||5||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** तस्य भट्टस्य आद्यं पुरातनं ग्रन्थनालेखं पर्यालोच्य जीवको मल्-लक्षणः, पर्यायं कृत्वा क्रमं निबध्य लिखति । “ग्रन्थ सन्दर्भे”[धातु १८३९] चौरादिकः । ततो ण्यास-श्रन्थ [पा। ३.३.१०७] इति कर्मणि युच्, ग्रन्थना ग्रन्थः । तस्य लेखं लिखनम्, भावे घञ् । तं लेखं कीदृशम् ?इत्य् आह—क्रान्तम्, क्रमेण स्थितम् । व्युत्क्रान्तं व्युत्क्रमेण स्थितम् । खण्डितं छिन्नम् इति स्व-श्रमस्य सार्थक्यम् ॥५॥
+**baladevaḥ :** tasya bhaṭṭasya ādyaṁ purātanaṁ granthanālekhaṁ paryālocya jīvako mal-lakṣaṇaḥ, paryāyaṁ kṛtvā kramaṁ nibadhya likhati | “grantha sandarbhe”[dhātu 1839] caurādikaḥ | tato ṇyāsa-śrantha [pā. 3.3.107] iti karmaṇi yuc, granthanā granthaḥ | tasya lekhaṁ likhanam, bhāve ghañ | taṁ lekhaṁ kīdṛśam ?ity āha—krāntam, krameṇa sthitam | vyutkrāntaṁ vyutkrameṇa sthitam | khaṇḍitaṁ chinnam iti sva-śramasya sārthakyam ||5||
 
-**राधा-मोहन-गोस्वामी : _न व्याख्यातम्।_**
+**rādhā-mohana-gosvāmī : _na vyākhyātam._**
 
-**गौर-किशोर-गोस्वामी :** अथ ग्रन्थ-कारः निखिल-शास्त्र-निष्णातः महा-दार्शनिक-चूडामणिः श्री-जीव-गोस्वामिइ-पादः वैष्णवोचित-स्वभाव-सुलभ-विनय-गुण-सम्पन्नत्वात् स्वाहङ्कारं परिहरति—तस्याद्यम् इति श्लोकेन ॥५॥
+**gaura-kiśora-gosvāmī :** atha grantha-kāraḥ nikhila-śāstra-niṣṇātaḥ mahā-dārśanika-cūḍāmaṇiḥ śrī-jīva-gosvāmii-pādaḥ vaiṣṇavocita-svabhāva-sulabha-vinaya-guṇa-sampannatvāt svāhaṅkāraṁ pariharati—tasyādyam iti ślokena ||5||
 
-—ओ)०(ओ—
+—o)0(o—
 
-[६]
+[6]
 
-**यः श्री-कृष्ण-पदाम्भोज-भजनैकाभिलाषवान् ।**
+**yaḥ śrī-kṛṣṇa-padāmbhoja-bhajanaikābhilāṣavān |**
 
-**तेनैव दृश्यताम् एतद् अन्यस्मै शपथोऽर्पितः ॥६॥**
+**tenaiva dṛśyatām etad anyasmai śapatho’rpitaḥ ||6||**
 
-**सर्व-संवादिनी : **य इति । एको मुख्यः । एतत् लिखनम् ॥६॥
+**sarva-saṁvādinī : **ya iti | eko mukhyaḥ | etat likhanam ||6||
 
-**बलदेवः :** ग्रन्थस्य रहस्यत्वम् आह यः श्रीति । कृष्ण-पारतम्येऽन्येनानादृते तस्यामङ्गलं स्याद् इति । तन्-मङ्गलायैतत् । न तु ग्रन्थावद्य-भयात् । तस्य सुव्युत्पन्नैर् निरवद्यत्वेन परीक्षितत्वात् ॥६॥
+**baladevaḥ :** granthasya rahasyatvam āha yaḥ śrīti | kṛṣṇa-pāratamye’nyenānādṛte tasyāmaṅgalaṁ syād iti | tan-maṅgalāyaitat | na tu granthāvadya-bhayāt | tasya suvyutpannair niravadyatvena parīkṣitatvāt ||6||
 
-**राधा-मोहन-गोस्वामी : _न व्याख्यातम्।_**
+**rādhā-mohana-gosvāmī : _na vyākhyātam._**
 
-**गौर-किशोर-गोस्वामी :** अस्य ग्रन्थस्य गुरुत्वातिशय्यात् ग्रन्थ-प्रारम्भे शपथ-वाक्यम् आह—यः श्री-कृष्णेति । न च विरुद्ध-मतावलम्बिभिः सह विचार-पराङ्मुखतावशन् स्वीय-साम्प्रदायिकावेष्टन-विशेष एवायं येनान्येषां पठन-पाठनं व्यावर्तितम् । सर्वत्राप्रतिद्वन्द्वित्वेऽपि निरहङ्कार-समदर्शि-वैष्णवे उदारतायाः चिर-प्राचुर्यात् । पुरुषोत्तमे श्री-कृष्णे श्रद्धा-हीनानां तत्-सम्बन्धि-ग्रन्थ-पर्याय-लोचनेन अवज्ञा-बुद्धि-वशात् पर-पक्ष-जिगीषोन्मादनाद् वा अपराधः सञ्जायेत तत् तेषां माभूत्, इति सर्व-जन-कल्याण-काङ्क्षी-ग्रन्थ-कारः स्वार्थी-भूत-विश्व-व्यापी-कारुण्यः श्री-जीव-गोस्वामि-पादः अपरान् निषेधति—अन्यस्मै शपथोऽर्पितः इति ॥६॥
+**gaura-kiśora-gosvāmī :** asya granthasya gurutvātiśayyāt grantha-prārambhe śapatha-vākyam āha—yaḥ śrī-kṛṣṇeti | na ca viruddha-matāvalambibhiḥ saha vicāra-parāṅmukhatāvaśan svīya-sāmpradāyikāveṣṭana-viśeṣa evāyaṁ yenānyeṣāṁ paṭhana-pāṭhanaṁ vyāvartitam | sarvatrāpratidvandvitve’pi nirahaṅkāra-samadarśi-vaiṣṇave udāratāyāḥ cira-prācuryāt | puruṣottame śrī-kṛṣṇe śraddhā-hīnānāṁ tat-sambandhi-grantha-paryāya-locanena avajñā-buddhi-vaśāt para-pakṣa-jigīṣonmādanād vā aparādhaḥ sañjāyeta tat teṣāṁ mābhūt, iti sarva-jana-kalyāṇa-kāṅkṣī-grantha-kāraḥ svārthī-bhūta-viśva-vyāpī-kāruṇyaḥ śrī-jīva-gosvāmi-pādaḥ aparān niṣedhati—anyasmai śapatho’rpitaḥ iti ||6||
 
-—ओ)०(ओ—
+—o)0(o—
 
-[७]
+[7]
 
-**अथ नत्वा मन्त्र-गुरून् गुरून् भागवतार्थदान् ।**
+**atha natvā mantra-gurūn gurūn bhāgavatārthadān |**
 
-**श्री-भागवत-सन्दर्भं सन्दर्भं वश्मि लेखितुम् ॥७॥**
+**śrī-bhāgavata-sandarbhaṁ sandarbhaṁ vaśmi lekhitum ||7||**
 
-**सर्व-संवादिनी : **अथेति । श्री-भागवत-सन्दर्भ-नामानं सन्दर्भ-ग्रन्थम् इत्य् अर्थः । वश्मि कामये ॥७॥
+**sarva-saṁvādinī : **atheti | śrī-bhāgavata-sandarbha-nāmānaṁ sandarbha-grantham ity arthaḥ | vaśmi kāmaye ||7||
 
-**बलदेवः :** अथेति ।
+**baladevaḥ :** atheti |
 
-गूढस्य प्रकाशश् च सारोक्तिः श्रेस्ठा तथा । 
+gūḍhasya prakāśaś ca sāroktiḥ śresṭhā tathā | 
 
-नानार्थवत्त्वं वेद्यत्वं सन्दर्भः कथ्यते बुधैः ॥
+nānārthavattvaṁ vedyatvaṁ sandarbhaḥ kathyate budhaiḥ ||
 
-इत्य् अभियुक्तोक्त-लक्सणं सन्दर्भं लेखितुं वश्मि वाञ्छामि । श्री-भागवतं सन्दृभ्यते ग्रथ्यतेऽत्रेति । हलश् च [पा। ३.३.२१] इत्य् अधिकरणे घञ् ॥७॥
+ity abhiyuktokta-laksaṇaṁ sandarbhaṁ lekhituṁ vaśmi vāñchāmi | śrī-bhāgavataṁ sandṛbhyate grathyate’treti | halaś ca [pā. 3.3.21] ity adhikaraṇe ghañ ||7||
 
-**राधा-मोहन-गोस्वामी : _न व्याख्यातम्।_**
+**rādhā-mohana-gosvāmī : _na vyākhyātam._**
 
-**गौर-किशोर-गोस्वामी :** अनन्तरं ग्रन्थस्य यथोचितं नाम निर्दिशति—नत्वेति । श्री-भागवत-सन्दर्भम् इति। सम्-पूर्व-दृभ-धातोर् घञि निष्पन्नं सन्दर्भ-पदं रचनाम् आहुः—सन्दर्भः प्रबन्धः इति त्रिकाण्ड-शेषः । सन्दर्भो रचना गुम्फः ग्रन्थनं समा इति हेमचन्द्रः । सन्दर्भ-लक्षणम् उक्तं प्राचीनैः, यथा—
+**gaura-kiśora-gosvāmī :** anantaraṁ granthasya yathocitaṁ nāma nirdiśati—natveti | śrī-bhāgavata-sandarbham iti| sam-pūrva-dṛbha-dhātor ghañi niṣpannaṁ sandarbha-padaṁ racanām āhuḥ—sandarbhaḥ prabandhaḥ iti trikāṇḍa-śeṣaḥ | sandarbho racanā gumphaḥ granthanaṁ samā iti hemacandraḥ | sandarbha-lakṣaṇam uktaṁ prācīnaiḥ, yathā—
 
 
-> गूढार्थस्य प्रकाशं च सारोक्तिः श्रेष्ठता तथा ।  
-> नानार्थत्वं वेद्यत्वं सन्दर्भः कथ्यते बुधैः ॥
+> gūḍhārthasya prakāśaṁ ca sāroktiḥ śreṣṭhatā tathā |  
+> nānārthatvaṁ vedyatvaṁ sandarbhaḥ kathyate budhaiḥ ||
 
-वश्मि कामये ॥७॥
+vaśmi kāmaye ||7||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[८]
+[8]
 
-**यस्य ब्रह्मेति संज्ञां क्वचिद् अपि निगमे याति चिन्-मात्र-सत्ताप्य्**
+**yasya brahmeti saṁjñāṁ kvacid api nigame yāti cin-mātra-sattāpy**
 
-**अंशो यस्यांशकैः स्वैर् विभवति वशयन्न् एव मायां पुमांश् च ।**
+**aṁśo yasyāṁśakaiḥ svair vibhavati vaśayann eva māyāṁ pumāṁś ca |**
 
-**एकं यस्यैव रूपं विलसति परम-व्योम्नि नारायणाख्यं**
+**ekaṁ yasyaiva rūpaṁ vilasati parama-vyomni nārāyaṇākhyaṁ**
 
-**स श्री-कृष्णो विधत्तां स्वयम् इह भगवान् प्रेम तत्-पाद-भाजाम् ॥८॥**
+**sa śrī-kṛṣṇo vidhattāṁ svayam iha bhagavān prema tat-pāda-bhājām ||8||**
 
-**सर्व-संवादिनी : **सर्व-ग्रन्थार्थं सङ्क्षेपेण दर्शयन्न् अपि मङ्गलाचरति—यस्य इति । क्वचिद् अपि सत्यं ज्ञानम् अनन्तं ब्रह्म [तै।उ। २.१.२] इत्य् आदाव् अपि-शब्देन तत्रैव ब्रह्मत्वं मुख्यम् इत्य् आनीतम् । अंशकैः लीलावतार-रूपैर् गुणावतार-रूपैश् च । पुमान् पुरुषः सर्वान्तर्यामी परमात्माख्यः । एकं श्री-कृष्णाख्याद् अन्यत् । यस्यैव इति तस्य भगवत्त्व-साम्येऽपि श्री-कृष्णस्यैव स्वयं-भगवत्त्वं दर्शितम् । नारायणाख्यं रूपं पादोत्तर-खण्डादि-प्रतिपाद्यः परम-व्योमाख्य-महा-वैकुण्ठाधिपः श्रीपतिः । “स्वयं भगवान्” इति, कृष्णस् तु भगवान् स्वयं [भा।पु। १.३.२८] इति श्री-भागवत-प्रामाण्यम् इहेति सूचितम् । श्रीर् इति तद्-अव्यभिचारिणी स्वरूप-शक्तिर् अपि दर्शिता । इह जगति । तत्-पाद-भाजां तच्-चरणारविन्दं भजताम् । प्रेम प्रीत्य्-अतिशयम् । विधत्तां कुरुतां प्रादुर्भावयत्व् इत्य् अर्थः ॥८॥
+**sarva-saṁvādinī : **sarva-granthārthaṁ saṅkṣepeṇa darśayann api maṅgalācarati—yasya iti | kvacid api satyaṁ jñānam anantaṁ brahma [tai.u. 2.1.2] ity ādāv api-śabdena tatraiva brahmatvaṁ mukhyam ity ānītam | aṁśakaiḥ līlāvatāra-rūpair guṇāvatāra-rūpaiś ca | pumān puruṣaḥ sarvāntaryāmī paramātmākhyaḥ | ekaṁ śrī-kṛṣṇākhyād anyat | yasyaiva iti tasya bhagavattva-sāmye’pi śrī-kṛṣṇasyaiva svayaṁ-bhagavattvaṁ darśitam | nārāyaṇākhyaṁ rūpaṁ pādottara-khaṇḍādi-pratipādyaḥ parama-vyomākhya-mahā-vaikuṇṭhādhipaḥ śrīpatiḥ | “svayaṁ bhagavān” iti, kṛṣṇas tu bhagavān svayaṁ [bhā.pu. 1.3.28] iti śrī-bhāgavata-prāmāṇyam iheti sūcitam | śrīr iti tad-avyabhicāriṇī svarūpa-śaktir api darśitā | iha jagati | tat-pāda-bhājāṁ tac-caraṇāravindaṁ bhajatām | prema prīty-atiśayam | vidhattāṁ kurutāṁ prādurbhāvayatv ity arthaḥ ||8||
 
-**बलदेवः :** अथ श्रोतृ-रुच्य्-उत्पत्तये ग्रन्थस्य विषयादीन् अनुबन्धान् सङ्क्षेपेण तावद् आह यस्येति । स स्वयं भगवान् श्री-कृष्णः । इह जगति तत्-पाद-भाजां तच्-चरण-पद्म-सेविनां स्व-विषयकं प्रेम विधत्ताम् अर्पयतु । स कः । इत्य् आह यस्य स्वरूपानुबन्ध्याकृतिगुण-विभूति-विशिष्टस्यैव श्री-कृष्णस्य । चिन्मात्र-सत्ता अनभिव्यक्त-तत्-तद्-विशेषा ज्ञान-रूपा विद्यमानता । क्वचिद् अपि निगमे कस्मिंश्चित् सत्यं ज्ञानम् अनन्तं ब्रह्म [तै।उ।२.१.१],अस्तीत्य् एवोपलब्धव्यः [का।उ। २.३.१३] इत्य्-आदि-रूपे श्रुति-खण्डे ब्रह्मेति संज्ञां याति । तादृशतया चिन्तयतां तथा प्रतीतम् आसीद् इत्य् अर्थः । भक्ति-भावित-मनसां तु व्यञ्जित-तत्-तद्-विशेषा सैव पुरुषत्वेन प्रतीता भवतीति बोध्यम् । सत्यं ज्ञानम् इत्य् उपक्रान्तस्यैवानन्दमय-पुरुषत्वेन निरूपणात् । अत एवम् उक्तं जितं ते स्तोत्रे—
+**baladevaḥ :** atha śrotṛ-rucy-utpattaye granthasya viṣayādīn anubandhān saṅkṣepeṇa tāvad āha yasyeti | sa svayaṁ bhagavān śrī-kṛṣṇaḥ | iha jagati tat-pāda-bhājāṁ tac-caraṇa-padma-sevināṁ sva-viṣayakaṁ prema vidhattām arpayatu | sa kaḥ | ity āha yasya svarūpānubandhyākṛtiguṇa-vibhūti-viśiṣṭasyaiva śrī-kṛṣṇasya | cinmātra-sattā anabhivyakta-tat-tad-viśeṣā jñāna-rūpā vidyamānatā | kvacid api nigame kasmiṁścit satyaṁ jñānam anantaṁ brahma [tai.u.2.1.1],astīty evopalabdhavyaḥ [kā.u. 2.3.13] ity-ādi-rūpe śruti-khaṇḍe brahmeti saṁjñāṁ yāti | tādṛśatayā cintayatāṁ tathā pratītam āsīd ity arthaḥ | bhakti-bhāvita-manasāṁ tu vyañjita-tat-tad-viśeṣā saiva puruṣatvena pratītā bhavatīti bodhyam | satyaṁ jñānam ity upakrāntasyaivānandamaya-puruṣatvena nirūpaṇāt | ata evam uktaṁ jitaṁ te stotre—
 
 
-> न ते रूपं न चाकारो नायुधानि न चास्पदम् ।  
-> तथापि पुरुषाकारो भक्तानां त्वं प्रकाशते ॥ इति ।
+> na te rūpaṁ na cākāro nāyudhāni na cāspadam |  
+> tathāpi puruṣākāro bhaktānāṁ tvaṁ prakāśate || iti |
 
-स चैवं प्राचीनाङ्गीकृतम् इति वाच्यम् । उक्तरीत्या तस्याप्य् अनभीष्टत्वाभावात् । यस्य कृष्णस्यांशः पुमान् मायां वशयन्न् एव स्वैर् अंशकैर् विभवति । कारणार्णवशायी सहस्रशीर्षा पुरुषः सङ्कर्षणः कृष्णांशः प्रकृतेर् भर्ता । तां वशे स्थापयन्न् एव स्व-वीक्षण-क्षुब्धया तयाण्डानि सृष्ट्वा, तेषां गर्भेष्व् अम्बुभिर् अर्ध-पूर्णेषु सहस्र-शीर्षा प्रद्युम्नः सन् स्वैर् अंशकैः मत्स्यादिभिः । विभवति विभव-संज्ञकान् लीलावतारान् प्रकटयतीत्य् अर्थः । यस्यैव कृष्णस्य नारायणाख्यम् एकं मुख्यं रूपम् । आवरणाष्टकाद् बहिःष्ठेपरम-व्योम्नि विलसति स नारायणो यय विलास इत्य् अर्थः । अनन्यापेक्षि-रूपः स्वयं भगवान् प्रायस् तत्-सम-गुण-विभूतिर् आकृत्यादिभिर् अन्यादृक् तु विलास इति सर्वम् एतच् चतुर्थ-सन्दर्भे विस्फुटीभविष्यद्-वीक्षणीयम् ॥८॥
+sa caivaṁ prācīnāṅgīkṛtam iti vācyam | uktarītyā tasyāpy anabhīṣṭatvābhāvāt | yasya kṛṣṇasyāṁśaḥ pumān māyāṁ vaśayann eva svair aṁśakair vibhavati | kāraṇārṇavaśāyī sahasraśīrṣā puruṣaḥ saṅkarṣaṇaḥ kṛṣṇāṁśaḥ prakṛter bhartā | tāṁ vaśe sthāpayann eva sva-vīkṣaṇa-kṣubdhayā tayāṇḍāni sṛṣṭvā, teṣāṁ garbheṣv ambubhir ardha-pūrṇeṣu sahasra-śīrṣā pradyumnaḥ san svair aṁśakaiḥ matsyādibhiḥ | vibhavati vibhava-saṁjñakān līlāvatārān prakaṭayatīty arthaḥ | yasyaiva kṛṣṇasya nārāyaṇākhyam ekaṁ mukhyaṁ rūpam | āvaraṇāṣṭakād bahiḥṣṭheparama-vyomni vilasati sa nārāyaṇo yaya vilāsa ity arthaḥ | ananyāpekṣi-rūpaḥ svayaṁ bhagavān prāyas tat-sama-guṇa-vibhūtir ākṛtyādibhir anyādṛk tu vilāsa iti sarvam etac caturtha-sandarbhe visphuṭībhaviṣyad-vīkṣaṇīyam ||8||
 
-**राधा-मोहन-गोस्वामी : **
+**rādhā-mohana-gosvāmī : **
 
 
-> वदन्ति तत् तत्त्व-विदस् तत्त्वं यज् ज्ञानम् अद्वयम् ।  
-> ब्रह्मेति परमात्मेति भगवान् इति शब्द्यते ॥ [भा।पु। १.२.११]
+> vadanti tat tattva-vidas tattvaṁ yaj jñānam advayam |  
+> brahmeti paramātmeti bhagavān iti śabdyate || [bhā.pu. 1.2.11]
 
-इति श्री-भागवतीय-श्लोक-तात्पर्य-पद्येन दर्शयति—यस्येति । क्वचिद् अपि निगमे ब्रह्म-संहितादौ, यस्य चिन्-मात्र-सत्ता ब्रह्मेति संज्ञां याति, नियतम् आश्रयतीत्य् अन्वयः । चित् ज्ञानम् । तन्-मात्रं तन्-मयं स्व-स्वरूप-भूत-ज्ञानवद्-वस्तु-सत्ता । स्व-स्वरूप-भूत-सत्-पद-प्रवृत्ति-निमित्तवद् इत्य् अर्थः । “सत्यं ज्ञानम् अनन्तं ब्रह्मऽ इति श्रुतेः । 
+iti śrī-bhāgavatīya-śloka-tātparya-padyena darśayati—yasyeti | kvacid api nigame brahma-saṁhitādau, yasya cin-mātra-sattā brahmeti saṁjñāṁ yāti, niyatam āśrayatīty anvayaḥ | cit jñānam | tan-mātraṁ tan-mayaṁ sva-svarūpa-bhūta-jñānavad-vastu-sattā | sva-svarūpa-bhūta-sat-pada-pravṛtti-nimittavad ity arthaḥ | “satyaṁ jñānam anantaṁ brahma’ iti śruteḥ | 
 
-तथा च, श्री-कृष्णः स्व-स्वरूप-भूत-श्री-विग्रह-धारि ब्रह्मेति भावः । एवं च ब्रह्म-पदं ज्ञान-परं ज्ञानि-परं च । धर्म-धर्मिणोर् अभेदात् प्रत्येकं तयोर् भेदाच् च । एवं शरीर-शरीरिणोर् अपि भेदाभेदौ। एवं तच्-छरीरावशिष्टस्यापि ब्रह्मत्वम् । विशिष्टस्य विशेष्यानतिरेकात् । यस्यांशः पुमांश् च । परमात्मा प्रथम-पुरुषः । मायां प्रकृतिं वशयन् तद्-गुण-योगेन स्वैर् अंशकैः । स्व-स्वरूप-भूत-जीवात्मअ-रूप-धर्मैः । विभवति विविधो भवति । 
+tathā ca, śrī-kṛṣṇaḥ sva-svarūpa-bhūta-śrī-vigraha-dhāri brahmeti bhāvaḥ | evaṁ ca brahma-padaṁ jñāna-paraṁ jñāni-paraṁ ca | dharma-dharmiṇor abhedāt pratyekaṁ tayor bhedāc ca | evaṁ śarīra-śarīriṇor api bhedābhedau| evaṁ tac-charīrāvaśiṣṭasyāpi brahmatvam | viśiṣṭasya viśeṣyānatirekāt | yasyāṁśaḥ pumāṁś ca | paramātmā prathama-puruṣaḥ | māyāṁ prakṛtiṁ vaśayan tad-guṇa-yogena svair aṁśakaiḥ | sva-svarūpa-bhūta-jīvātmaa-rūpa-dharmaiḥ | vibhavati vividho bhavati | 
 
-श्री-वैकुण्ठ-नाथस्य विलास-रूपत्वं दर्शयति—एकम् इति । रसामृत-सिन्धाव् अप्य् उक्तम्—“सिद्धान्ततस् त्व् अभेदोऽपि श्रीश-कृष्ण-स्वरूपयोः” [भ।र।सि। १.२.५९] इति । श्रीशेति श्री-राधयोर् ऐक्यं सूचयति । स्फुरद्-उर्व् इति । भगवद्-विशेषणं प्रेम-विशेषणं वेति । अत्रायं विवेकः—यदा ज्ञानानन्द-तात्पर्येण ब्रह्म-शब्द-प्रयोगस् तदा धर्मत्वम् । यदा ज्ञानादिमत्-तात्पर्येण ब्रह्म-शब्द-प्रयोगस् तदा अंशत्वम् । यदा शरीरत्वेन ज्ञानादिमत्त्वेन च प्रबोधयितुं प्रयुक्तो ब्रह्म-शब्दस्, तदा सम्पूर्ण-भगवत्-परः । कृष्ण-शरीरादेर् अपि ज्ञानानन्द-स्वरूपतया सच्-चिद्-आनन्द-विग्रह इत्य्-आदि प्रयोग इति ॥८॥
+śrī-vaikuṇṭha-nāthasya vilāsa-rūpatvaṁ darśayati—ekam iti | rasāmṛta-sindhāv apy uktam—“siddhāntatas tv abhedo’pi śrīśa-kṛṣṇa-svarūpayoḥ” [bha.ra.si. 1.2.59] iti | śrīśeti śrī-rādhayor aikyaṁ sūcayati | sphurad-urv iti | bhagavad-viśeṣaṇaṁ prema-viśeṣaṇaṁ veti | atrāyaṁ vivekaḥ—yadā jñānānanda-tātparyeṇa brahma-śabda-prayogas tadā dharmatvam | yadā jñānādimat-tātparyeṇa brahma-śabda-prayogas tadā aṁśatvam | yadā śarīratvena jñānādimattvena ca prabodhayituṁ prayukto brahma-śabdas, tadā sampūrṇa-bhagavat-paraḥ | kṛṣṇa-śarīrāder api jñānānanda-svarūpatayā sac-cid-ānanda-vigraha ity-ādi prayoga iti ||8||
 
-**गौर-किशोर-गोस्वामी :** सर्व-ग्रन्थार्थं संक्षेपेण दर्शयन्न् अपि मङ्गलम् आचरति, तथा विषयादीन् अनुबन्धान् निर्दिशति—यस्येति ग्रन्थेन । अनुबन्धो नाम अधिकारि-विषय-सम्बन्ध-प्रयोजनानि । स्वयं भगवान् स श्री-कृष्णः पुरुषोत्तम इह संसारे तत्-पाद-भाजां तच्-चरण-सेवकानां प्रेमाणं विधत्तां विदधात् । कोऽसौ ? इत्य् आह—यस्य श्री-कृष्णस्यापि चिन्-मात्र-सत्ता क्वचित् निगमे ब्रह्मेति संज्ञां याति । सत्यं ज्ञानम् अनन्तं ब्रह्म [तै।उ।२.१.१] इत्य् आदौ ब्रह्मानुभवोपदेशः श्रुतौ दृश्यते । तद् ब्रह्म श्री-कृष्णस्य चिन्-मात्र-सत्त्वात् नातिरिक्तम् । श्री-कृष्णस्याचिन्त्य-ज्ञान-रूपत्व-विशेष एव ब्रह्म । अपि-शब्देन तत्रैव ब्रह्मत्वं मुख्यम् इत्य् आनीतम् । ज्ञान-मार्गी श्री-कृष्णस्य चिन्-मात्र-सत्तां ब्रह्मेति मत्या प्राप्नोतीति भावः । एतेन चिन्-मात्र-सत्तातिरिक्त-ब्रह्मास्तित्व-कल्पना विशेषेण बाधिता । यस्य स्वरूपतोऽंशः सन्न् अपि पुनः स्वकीयैर् अंशकैर् लीलावतार-रूपैर् गुणावतार-रूपैश् च मायां स्वकीयां प्रकृतिम्, मयाध्यक्षेण प्रकृतिः सूयते स-चराचरं [गीता ९.१०], मम माया दुरत्यया [गीता ७.१४] इत्य्-आदि-गीता-संवादेन सर्व-चराचर-विसर्ग-करीं जीव-विमोहिनीं शक्तिं वर्णयन् वशीकुर्वन्न् एव विभवति विशेषेण प्रभवति । तत्-तद्-अवतार-ग्रहणेनापि नास्य स्वरूपान्यथा-भावो भवतीत्य् आकूतम् । पुमान् पुरुषः सर्वान्तर्यामी परमात्माख्यः । एवं श्री-कृष्णाख्याद् अन्यः यस्येति तस्य भगवत्ता-साम्येऽपि श्री-कृष्णस्यैव स्वयं भगवत्त्वं दर्शितम् । यस्य एकं मुख्यम्, एके मुख्यान्य-केवला इति कोषात् नारायणाख्यं रूपं पाद्मोत्तर-खण्डादि प्रतिपाद्यम्, परम-व्योम्नि महा-वैकुण्ठे विलसति, सर्वातिशायि-महिम्ना विराजते । परम-व्योमाख्य-महा-वैकुण्ठाधिपतिः श्रीपतिः स्वयं भगवानिति[^६] पाद्मोत्तर-खण्डे कथानुसन्धेया । कृष्णस् तु भगवान् [भा।पु। १.३.२८] स्वयम् इति श्री-भागवत-प्रामाण्यम् इहापि सूचितम् । श्रीति तद्-अव्यभिचारिणी-स्वरूप-शक्तिर् अपि दर्शिता । इति संवादिनी-विज्ञप्त्या श्रिया राधिकया युक्तः स श्री-कृष्णः प्रेम विधत्ताम् । प्रेम श्री-कृष्ण-चरणे अहैकुत्क-प्रीत्य्-अतिशयः । स एव पूर्व-पुरुषार्थः । एतेन मुक्त्य्-आदेः परम-पुरुषार्थत्वम् अपाकृतं बोद्धव्यम् ॥८॥
+**gaura-kiśora-gosvāmī :** sarva-granthārthaṁ saṁkṣepeṇa darśayann api maṅgalam ācarati, tathā viṣayādīn anubandhān nirdiśati—yasyeti granthena | anubandho nāma adhikāri-viṣaya-sambandha-prayojanāni | svayaṁ bhagavān sa śrī-kṛṣṇaḥ puruṣottama iha saṁsāre tat-pāda-bhājāṁ tac-caraṇa-sevakānāṁ premāṇaṁ vidhattāṁ vidadhāt | ko’sau ? ity āha—yasya śrī-kṛṣṇasyāpi cin-mātra-sattā kvacit nigame brahmeti saṁjñāṁ yāti | satyaṁ jñānam anantaṁ brahma [tai.u.2.1.1] ity ādau brahmānubhavopadeśaḥ śrutau dṛśyate | tad brahma śrī-kṛṣṇasya cin-mātra-sattvāt nātiriktam | śrī-kṛṣṇasyācintya-jñāna-rūpatva-viśeṣa eva brahma | api-śabdena tatraiva brahmatvaṁ mukhyam ity ānītam | jñāna-mārgī śrī-kṛṣṇasya cin-mātra-sattāṁ brahmeti matyā prāpnotīti bhāvaḥ | etena cin-mātra-sattātirikta-brahmāstitva-kalpanā viśeṣeṇa bādhitā | yasya svarūpato’ṁśaḥ sann api punaḥ svakīyair aṁśakair līlāvatāra-rūpair guṇāvatāra-rūpaiś ca māyāṁ svakīyāṁ prakṛtim, mayādhyakṣeṇa prakṛtiḥ sūyate sa-carācaraṁ [gītā 9.10], mama māyā duratyayā [gītā 7.14] ity-ādi-gītā-saṁvādena sarva-carācara-visarga-karīṁ jīva-vimohinīṁ śaktiṁ varṇayan vaśīkurvann eva vibhavati viśeṣeṇa prabhavati | tat-tad-avatāra-grahaṇenāpi nāsya svarūpānyathā-bhāvo bhavatīty ākūtam | pumān puruṣaḥ sarvāntaryāmī paramātmākhyaḥ | evaṁ śrī-kṛṣṇākhyād anyaḥ yasyeti tasya bhagavattā-sāmye’pi śrī-kṛṣṇasyaiva svayaṁ bhagavattvaṁ darśitam | yasya ekaṁ mukhyam, eke mukhyānya-kevalā iti koṣāt nārāyaṇākhyaṁ rūpaṁ pādmottara-khaṇḍādi pratipādyam, parama-vyomni mahā-vaikuṇṭhe vilasati, sarvātiśāyi-mahimnā virājate | parama-vyomākhya-mahā-vaikuṇṭhādhipatiḥ śrīpatiḥ svayaṁ bhagavāniti[^6] pādmottara-khaṇḍe kathānusandheyā | kṛṣṇas tu bhagavān [bhā.pu. 1.3.28] svayam iti śrī-bhāgavata-prāmāṇyam ihāpi sūcitam | śrīti tad-avyabhicāriṇī-svarūpa-śaktir api darśitā | iti saṁvādinī-vijñaptyā śriyā rādhikayā yuktaḥ sa śrī-kṛṣṇaḥ prema vidhattām | prema śrī-kṛṣṇa-caraṇe ahaikutka-prīty-atiśayaḥ | sa eva pūrva-puruṣārthaḥ | etena mukty-ādeḥ parama-puruṣārthatvam apākṛtaṁ boddhavyam ||8||
 
-[^६]:
-    आकरे न लब्धम्।
+[^6]:
+    ākare na labdham.
 
 
-—ओ)०(ओ—
+—o)0(o—
 
 
-## प्रमाण-प्रकरणम्
-अथ प्रमाण-प्रकरणम्[^७]
+## pramāṇa-prakaraṇam
+atha pramāṇa-prakaraṇam[^7]
 
-[९]
+[9]
 
-[^७]:
-    अत्र शिरो-वाक्यं कस्मिंश्चित् हस्त-लिप्यां न लभ्यते । तद् एव प्रकरण-लब्धम् इति सम्पादकेनानेन संयोजितम्। 
+[^7]:
+    atra śiro-vākyaṁ kasmiṁścit hasta-lipyāṁ na labhyate | tad eva prakaraṇa-labdham iti sampādakenānena saṁyojitam. 
 
 
-**अथैवं सूचितानां श्री-कृष्ण-तद्-वाच्य-वाचकता-लक्षण-सम्बन्ध-तद्-भजन-लक्षण-विधेय-सपर्यायाभिधेय-तत्-प्रेम-लक्षण-प्रयोजनाख्यानाम् अर्थानां निर्णयाय तावत् प्रमाणं निर्णीयते । तत्र पुरुषस्य भ्रमादि-दोष-चतुष्टय-दुष्टत्वात् सुतराम् अलौकिकाचिन्त्य-स्वभाव-वस्तु-स्पर्शायोग्यत्वाच् च तत्-प्रत्यक्षादीन्य् अपि स-दोषाणि ॥९॥**
+**athaivaṁ sūcitānāṁ śrī-kṛṣṇa-tad-vācya-vācakatā-lakṣaṇa-sambandha-tad-bhajana-lakṣaṇa-vidheya-saparyāyābhidheya-tat-prema-lakṣaṇa-prayojanākhyānām arthānāṁ nirṇayāya tāvat pramāṇaṁ nirṇīyate | tatra puruṣasya bhramādi-doṣa-catuṣṭaya-duṣṭatvāt sutarām alaukikācintya-svabhāva-vastu-sparśāyogyatvāc ca tat-pratyakṣādīny api sa-doṣāṇi ||9||**
 
-**सर्व-संवादिनी : **अत्र पुरुषस्य इति । अत्रैतद् उक्तं भवति—यद्यपि प्रत्यक्षानुमान-शब्दार्षोपमाणार्थापत्त्य्-अभाव-सम्भवैतिह्य-चेष्टाख्यानि दश प्रमाणानि विदितानि, तथापि भ्रम-प्रमाद-विप्रलिप्सा-करणापाटव-दोष-रहित-वचनात्मकः शब्द एव मूलं प्रमाणम् । अन्येषां प्रायः पुरुष-भ्रमादि-दोषमयतयान्यथा-प्रतीति-दर्शनेन प्रमाणं वा तद्-आभासं वेति पुरुषैर् निर्णेतुम् अशक्यत्वात्, तस्य तु तद्-अभावात् । अतो राज्ञा भृत्यानाम् इव तेनैवान्येषां बद्ध-मूलत्वात्, तस्य तु नैरपेक्ष्यात्, यथा-शक्ति क्वचिद् एव तस्य तैः साचिव्य-करणात्, स्वाधीनस्य तस्य तु तान्य् उपमर्द्यापि प्रवृत्ति-दर्शनात्, तेन प्रतिपादिते वस्तुनि तैर् विरोद्धुम् अशक्यत्वात्, तेषां शक्तिभिर् अस्पृश्ये वस्तुनि तस्यैव तु साधकतमत्वात् ।
+**sarva-saṁvādinī : **atra puruṣasya iti | atraitad uktaṁ bhavati—yadyapi pratyakṣānumāna-śabdārṣopamāṇārthāpatty-abhāva-sambhavaitihya-ceṣṭākhyāni daśa pramāṇāni viditāni, tathāpi bhrama-pramāda-vipralipsā-karaṇāpāṭava-doṣa-rahita-vacanātmakaḥ śabda eva mūlaṁ pramāṇam | anyeṣāṁ prāyaḥ puruṣa-bhramādi-doṣamayatayānyathā-pratīti-darśanena pramāṇaṁ vā tad-ābhāsaṁ veti puruṣair nirṇetum aśakyatvāt, tasya tu tad-abhāvāt | ato rājñā bhṛtyānām iva tenaivānyeṣāṁ baddha-mūlatvāt, tasya tu nairapekṣyāt, yathā-śakti kvacid eva tasya taiḥ sācivya-karaṇāt, svādhīnasya tasya tu tāny upamardyāpi pravṛtti-darśanāt, tena pratipādite vastuni tair viroddhum aśakyatvāt, teṣāṁ śaktibhir aspṛśye vastuni tasyaiva tu sādhakatamatvāt |
 
-तथा हि, प्रत्यक्षं तावन् मनो-बुद्धीन्द्रिय-पञ्चक-जन्यतया षड्-विधं भवेत् । प्रत्येकं पुनः सविकल्पक-निर्विकल्पक-भेदेन द्वादश-विधं भवति । तद् एव च पुनः वैदुषम् अवैदुषं चेति द्विविधम् । तत्र वैदुषे च विप्रतिपत्ति-भ्रमादि-नृ-दोष-राहित्यात्, शब्दस्यापि तन्-मूलत्वाच् च । अवैदुषे एवं संशयः । तदीयं ज्ञानं हि व्यभिचरति, यथा—“माया-मुण्डावलोकने देवदत्तस्यैव मुण्डम् इदं विलोक्यते” इत्य् आदौ । न तु शब्दः, यथा—“हिमालये हिमम्, रत्नाकरे रत्नम्” इत्य् आदौ तच्-छब्देनैव बद्ध-मूलम् । यथा दृष्ट-चर-माया-मुण्डकेन केनचिद् भ्रमात् सत्येऽप्य् अश्रद्धीयमाने सत्यम् एवेदम् इति नभो-वाण्यादौ जानन्न् अपि वृद्धोपासनं विना न किञ्चिद् अपि तत्त्वेन निर्णेतुं शक्नोतीति हि सर्वेषां न्याय-विदां स्थितिः । 
+tathā hi, pratyakṣaṁ tāvan mano-buddhīndriya-pañcaka-janyatayā ṣaḍ-vidhaṁ bhavet | pratyekaṁ punaḥ savikalpaka-nirvikalpaka-bhedena dvādaśa-vidhaṁ bhavati | tad eva ca punaḥ vaiduṣam avaiduṣaṁ ceti dvividham | tatra vaiduṣe ca vipratipatti-bhramādi-nṛ-doṣa-rāhityāt, śabdasyāpi tan-mūlatvāc ca | avaiduṣe evaṁ saṁśayaḥ | tadīyaṁ jñānaṁ hi vyabhicarati, yathā—“māyā-muṇḍāvalokane devadattasyaiva muṇḍam idaṁ vilokyate” ity ādau | na tu śabdaḥ, yathā—“himālaye himam, ratnākare ratnam” ity ādau tac-chabdenaiva baddha-mūlam | yathā dṛṣṭa-cara-māyā-muṇḍakena kenacid bhramāt satye’py aśraddhīyamāne satyam evedam iti nabho-vāṇyādau jānann api vṛddhopāsanaṁ vinā na kiñcid api tattvena nirṇetuṁ śaknotīti hi sarveṣāṁ nyāya-vidāṁ sthitiḥ | 
 
-शब्दस्य तु नैरपेक्ष्यम्, यथा—“दशमस् त्वम् असि” इत्य् आदौ । स एष शब्दो दशमोऽहम् अस्मीति प्रमायास् तिरस्कारिणं मोहं श्रवण-पथ-प्रवेश-मात्राद् विनिवर्तयत्य् एवेति स्पष्टम् एव नैरपेक्ष्यम् । आत्म-शक्त्य्-अनुरूपम् एव प्रत्यक्षेण शब्दस्य साचिव्य-कृतिः, यथा—“अग्निर् हिमस्य भेषजम्” इत्य् आदाव् एव । न तु भवान् बभूव गर्भे मे मथुरा-नगरे सुतः इत्य् आदौ । 
+śabdasya tu nairapekṣyam, yathā—“daśamas tvam asi” ity ādau | sa eṣa śabdo daśamo’ham asmīti pramāyās tiraskāriṇaṁ mohaṁ śravaṇa-patha-praveśa-mātrād vinivartayaty eveti spaṣṭam eva nairapekṣyam | ātma-śakty-anurūpam eva pratyakṣeṇa śabdasya sācivya-kṛtiḥ, yathā—“agnir himasya bheṣajam” ity ādāv eva | na tu bhavān babhūva garbhe me mathurā-nagare sutaḥ ity ādau | 
 
-शब्दस्य तु तद्-उपमर्दकम्, यथा “सर्प-दष्टे त्वयि विषं नास्ति” इति मन्त्र इत्य् आदौ । तेन [शब्देन] प्रतिपादिते प्रत्यक्षाविरोधित्वम्, यथा “सौवर्णं भसितं स्निग्धं” इत्य् आदौ । तस्यैव तु साधकतमत्वम्, यथा [क्वचिन् नर-देहे] ग्रह-चेष्तादाव् इति । सर्व-प्रत्यक्ष-सिद्धं यत् तत् सत्यम् इत्य् एष पक्षः सर्वस्यैकत्र मिलनासम्भवात् पराहतः । अथ बहूनां प्रत्यक्ष-सिद्ध्म् इत्य् एषोऽपि क्वचिद् देशे पौरुषेय-शास्त्रे वा कस्यापि वस्तुनोऽन्यथा-ज्ञान-दर्शनात् पराहतः ।
+śabdasya tu tad-upamardakam, yathā “sarpa-daṣṭe tvayi viṣaṁ nāsti” iti mantra ity ādau | tena [śabdena] pratipādite pratyakṣāvirodhitvam, yathā “sauvarṇaṁ bhasitaṁ snigdhaṁ” ity ādau | tasyaiva tu sādhakatamatvam, yathā [kvacin nara-dehe] graha-ceṣtādāv iti | sarva-pratyakṣa-siddhaṁ yat tat satyam ity eṣa pakṣaḥ sarvasyaikatra milanāsambhavāt parāhataḥ | atha bahūnāṁ pratyakṣa-siddhm ity eṣo’pi kvacid deśe pauruṣeya-śāstre vā kasyāpi vastuno’nyathā-jñāna-darśanāt parāhataḥ |
 
-अथ प्रतिज्ञा-हेतूदाहरणोपनय-निगमनाभिध-पञ्चाङ्गम् अनुमानं यत् तद् अपि व्यभिचरति । तत्र विषम-व्यापौ यथा वृष्ट्या तत्-काल-निर्वापित-वह्नौ चिर-क्षणम् अधिकोदित्वर-धूमे पर्वते “पर्वतोऽयं वह्निमान्” इत्य् आदौ, वर्षासु धूमायमान-स्वभावे पर्वते वा, न तु शब्दः—“सूर्यकान्तात् योगेनाग्निर् उत्तिष्ठते” इत्य् अत्र ।
+atha pratijñā-hetūdāharaṇopanaya-nigamanābhidha-pañcāṅgam anumānaṁ yat tad api vyabhicarati | tatra viṣama-vyāpau yathā vṛṣṭyā tat-kāla-nirvāpita-vahnau cira-kṣaṇam adhikoditvara-dhūme parvate “parvato’yaṁ vahnimān” ity ādau, varṣāsu dhūmāyamāna-svabhāve parvate vā, na tu śabdaḥ—“sūryakāntāt yogenāgnir uttiṣṭhate” ity atra |
 
 > 
 
-तत् [अनुमानं] शब्देनैव बद्ध-मूलम्, यथा—“अरे शीतातुराः पथिकाः ! मास्मिन् धूमाद् वह्नि-सम्भावनां कृढ्वम्, दृष्टम् अस्माभिर् अत्रासौ वृष्ट्याधुनैव निर्वाणः ।” “किन्त्व् अमुत्रैव धूमोद्गारिणि गिरौ दृश्यते वह्निः,” इत्य् आदौ, “धूमाभास एवायम्, न त्व् अत्र वह्निः, किन्तु अमुत्रैव” इत्य्-आदि वाक्यादौ च । 
+tat [anumānaṁ] śabdenaiva baddha-mūlam, yathā—“are śītāturāḥ pathikāḥ ! māsmin dhūmād vahni-sambhāvanāṁ kṛḍhvam, dṛṣṭam asmābhir atrāsau vṛṣṭyādhunaiva nirvāṇaḥ |” “kintv amutraiva dhūmodgāriṇi girau dṛśyate vahniḥ,” ity ādau, “dhūmābhāsa evāyam, na tv atra vahniḥ, kintu amutraiva” ity-ādi vākyādau ca | 
 
-यदि वक्तव्यं—एवम् आभासत्वेन पूर्वत्र स्वरूपासिद्धो हेतुः, इत्य् अतो न सद्-अनुमान-व्यभिचारितेति, समानाकारत्वात्, विष-पर्वत-बाष्पादिषु नेत्र-ज्वालादीनाम् अपि दर्शनात्, [उच्यते]—अलं धूमादीनाम् असार्वत्रिकत्वात् तद्-बाष्पातीत-काल-गत-धूम-जातत्वादि-सम्भवाच् च, न धूम-धूमाभासयोर् अग्नि-सद्भावासद्भाव-मात्र-प्रतिपत्तेर् अग्नि-ज्ञानाद् एव धूम-ज्ञाने साध्य-साधन-समभिव्याहारात् परस्पराश्रयः प्रसज्येत ।
+yadi vaktavyaṁ—evam ābhāsatvena pūrvatra svarūpāsiddho hetuḥ, ity ato na sad-anumāna-vyabhicāriteti, samānākāratvāt, viṣa-parvata-bāṣpādiṣu netra-jvālādīnām api darśanāt, [ucyate]—alaṁ dhūmādīnām asārvatrikatvāt tad-bāṣpātīta-kāla-gata-dhūma-jātatvādi-sambhavāc ca, na dhūma-dhūmābhāsayor agni-sadbhāvāsadbhāva-mātra-pratipatter agni-jñānād eva dhūma-jñāne sādhya-sādhana-samabhivyāhārāt parasparāśrayaḥ prasajyeta |
 
-तद् एवं तादृश-प्रत्यक्षस्यैव प्रमां प्रति व्यभिचारे सम-व्याप्ताव् अपि तद्-व्यभिचारः । शब्दस्य नैरपेक्ष्यम्, यथा “दशमस् त्वम् असि” इत्य् आदाव् एव । आत्म-शक्त्य्-अनुरूपम् एव च तस्य तेन साचिव्य-करणम्, यथा हीरक-गुण-विशेषम् अदृष्टवद्भिः पार्थिवत्वेन सर्वम् एवाश्मादिकं द्रव्यं लौह-च्छेद्यम् इत्य् अनुमातुं शक्यते, न तु श्रुत-तादृश-गुणकं हीरकं तच्-छेद्यम् इतीत्य् आदौ ।
+tad evaṁ tādṛśa-pratyakṣasyaiva pramāṁ prati vyabhicāre sama-vyāptāv api tad-vyabhicāraḥ | śabdasya nairapekṣyam, yathā “daśamas tvam asi” ity ādāv eva | ātma-śakty-anurūpam eva ca tasya tena sācivya-karaṇam, yathā hīraka-guṇa-viśeṣam adṛṣṭavadbhiḥ pārthivatvena sarvam evāśmādikaṁ dravyaṁ lauha-cchedyam ity anumātuṁ śakyate, na tu śruta-tādṛśa-guṇakaṁ hīrakaṁ tac-chedyam itīty ādau |
 
-शब्दस्य तद्-उपमर्दकत्वम्, यथा—“वह्नि-तप्तम् अङ्गं वह्नि-तापेन शाम्यति । शुण्ठ्य्-आदि-द्रव्यं जाठराग्नि-पाकादौ माधुर्यादि-भाग् भवति” इत्य् आदौ । तेन प्रतिपादितेऽनुमानेनाविरोध्यत्वम्, यथा—“एकेवेयम् ओषधिस् त्रिदोषघ्नी” इत्य् आदौ । तच्-छक्तिभिर् अस्पृश्येऽर्थे शब्दस्यैव साधकतमत्वम्, यथा—ग्रह-चेष्टादाव् एवेति । तद् एवं मुख्ययोर् एव तयो आभासीकृतौ, पराणि तु स्वयम् एवानपेक्ष्याणि भवन्ति, तस्य [शब्दस्य] तयोश् च [प्रत्यक्षानुमानयोश् च] अनुगतत्वात् ।
+śabdasya tad-upamardakatvam, yathā—“vahni-taptam aṅgaṁ vahni-tāpena śāmyati | śuṇṭhy-ādi-dravyaṁ jāṭharāgni-pākādau mādhuryādi-bhāg bhavati” ity ādau | tena pratipādite’numānenāvirodhyatvam, yathā—“ekeveyam oṣadhis tridoṣaghnī” ity ādau | tac-chaktibhir aspṛśye’rthe śabdasyaiva sādhakatamatvam, yathā—graha-ceṣṭādāv eveti | tad evaṁ mukhyayor eva tayo ābhāsīkṛtau, parāṇi tu svayam evānapekṣyāṇi bhavanti, tasya [śabdasya] tayoś ca [pratyakṣānumānayoś ca] anugatatvāt |
 
-अथ तथात्व-ज्ञानार्थं तानि च दर्श्यन्ते । तत्र देवानाम् ऋषीणां च वचनम् आर्षम् । गो-सदृशो गवय इति ज्ञानम् उपमानम् । पीनत्वम् अह्न्य्-अभोजिनि नक्तं भोजित्वं गमयति, तद् अन्यथा न भवतीत्य् अर्थ-गिरोः कल्पनं यस्य फलम् असाव् अर्थापत्तिः । सन्निकर्षं विना नेन्द्रियाणि गृह्णन्ति, तस्मात् घटाभावे प्रमाणं तद्-अनुपलब्धि-रूपोऽभाव एव । सहस्रे शतं सम्भवतीति बुद्धौ सम्भावनं सम्भवः । अज्ञात-वक्तृ-क्र्टागत पारम्पर्य-प्रसिद्धम् ऐतिह्यम् । अङ्गुल्य्-उत्तोलनतो घट-दशकादि-ज्ञान-कृच् चेष्टेति ।
+atha tathātva-jñānārthaṁ tāni ca darśyante | tatra devānām ṛṣīṇāṁ ca vacanam ārṣam | go-sadṛśo gavaya iti jñānam upamānam | pīnatvam ahny-abhojini naktaṁ bhojitvaṁ gamayati, tad anyathā na bhavatīty artha-giroḥ kalpanaṁ yasya phalam asāv arthāpattiḥ | sannikarṣaṁ vinā nendriyāṇi gṛhṇanti, tasmāt ghaṭābhāve pramāṇaṁ tad-anupalabdhi-rūpo’bhāva eva | sahasre śataṁ sambhavatīti buddhau sambhāvanaṁ sambhavaḥ | ajñāta-vaktṛ-krṭāgata pāramparya-prasiddham aitihyam | aṅguly-uttolanato ghaṭa-daśakādi-jñāna-kṛc ceṣṭeti |
 
-किं च, पश्व्-आदिभिश् चाविशेषान् न प्रत्यक्षादिकं ज्ञानं परमार्थ-प्रमापकम् । दृश्येते चामीषाम् इष्टानिष्टयोर् दर्शन-घ्राणादिना प्रवृत्ति-निवृत्ती । न च तेषां काचित् परमार्थ-सिद्धिः । दृश्यते चातिबालानां मातर-पित्र्-आद्य्-आप्त-शब्दाद् एव सर्व-ज्ञान-प्रवृत्तिः, तं विना चैकाकितया रक्षितानां जड-मूकतेति । न च व्यवहार-सिद्धिर् इति ॥९॥
+kiṁ ca, paśv-ādibhiś cāviśeṣān na pratyakṣādikaṁ jñānaṁ paramārtha-pramāpakam | dṛśyete cāmīṣām iṣṭāniṣṭayor darśana-ghrāṇādinā pravṛtti-nivṛttī | na ca teṣāṁ kācit paramārtha-siddhiḥ | dṛśyate cātibālānāṁ mātara-pitr-ādy-āpta-śabdād eva sarva-jñāna-pravṛttiḥ, taṁ vinā caikākitayā rakṣitānāṁ jaḍa-mūkateti | na ca vyavahāra-siddhir iti ||9||
 
-**बलदेवः : **अथैवम् इति । सूचितानां व्यञ्जितानां चतुर्णाम् इत्य् अर्थः । श्री-कृष्णश् च ग्रन्थस्य विषयः । तद्-वाच्य-वाचक-लक्षणश् च सम्बन्धः । तद्-भजनं तच्-छ्रवण-कीर्तनादि-तल्-लक्षणं यद्-विधेयं तत्-सपर्यायां यद् अभिधेयं तच् च । तत्-प्रेम-लक्षणं प्रयोजनं च पुरुषार्थस् तद्-आख्यानाम् । एक-वाच्य-वाचकतवं पर्यायत्वम् । समानः पर्यायोऽस्येति सपर्यायः । समानार्थक-सह-शब्देन समासाद् अस्वपद-विग्रहो बहु-व्रीहिः । वोपसर्जनस्य [पा। ६.३.८२] इति सूत्रात् सहस्य सादेशः । 
+**baladevaḥ : **athaivam iti | sūcitānāṁ vyañjitānāṁ caturṇām ity arthaḥ | śrī-kṛṣṇaś ca granthasya viṣayaḥ | tad-vācya-vācaka-lakṣaṇaś ca sambandhaḥ | tad-bhajanaṁ tac-chravaṇa-kīrtanādi-tal-lakṣaṇaṁ yad-vidheyaṁ tat-saparyāyāṁ yad abhidheyaṁ tac ca | tat-prema-lakṣaṇaṁ prayojanaṁ ca puruṣārthas tad-ākhyānām | eka-vācya-vācakatavaṁ paryāyatvam | samānaḥ paryāyo’syeti saparyāyaḥ | samānārthaka-saha-śabdena samāsād asvapada-vigraho bahu-vrīhiḥ | vopasarjanasya [pā. 6.3.82] iti sūtrāt sahasya sādeśaḥ | 
 
 
-> सह-शब्दस् तु साकल्प-यौगपद्य-समृद्धिषु ।   
-> सादृश्ये विद्यमाने च सम्बन्धे च सह स्मृतम् ॥ इति श्रीधरः ।
+> saha-śabdas tu sākalpa-yaugapadya-samṛddhiṣu |   
+> sādṛśye vidyamāne ca sambandhe ca saha smṛtam || iti śrīdharaḥ |
 
-तत्रेति पुरुषस्य व्यावहारिकस्य व्युत्पन्नस्यापि भ्रमादि-दोष-ग्रस्तत्वात् तादृक्-पारमार्थैक-वस्तु-स्पर्शानर्हत्वाच् चतत्-प्रत्यक्षादीनि च सदोषाणीति योज्यम् । भ्रमः प्रमादो विप्रलिप्सा करणापटवं चेति जीवे चत्वारो दोषाः । तेष्व् अतस्मिंस् तद्-बुद्धिर् भ्रमः । येन स्थाणौ पुरुष-बुद्धिः । अनवधानतान्य-चित्तता-लक्षणः प्रमादः । येनान्तिके गीयमानं गानं न गृह्यते । वञ्चनेच्छा विप्रलिप्सा । ययाऽशिष्ये स्व-ज्ञातोऽप्य् अर्थो न प्रकाश्यते । इन्द्रियम् आन्द्यं करणापटवम् । येन दत्त-मनसापि यथावत् वस्तु न परिचीयते । एते प्रमातृ-जीव-दोषाः । पर्माणेषु सञ्चरन्ति । तेषु भ्रमादि-त्रयं प्रत्यक्षे, तन्-मूलकेऽनुमाने च । विप्रलिप्सा तु शब्द इति बोध्यम् । प्रत्यक्षादीन्य् अष्टौ भवन्ति प्रमाणानि । तत्रार्थ-सन्निकृष्टं चक्षुरादीन्द्रियं प्रत्यक्षम् । अनुमिति-करणम् अनुमानं [तर्क-सङ्ग्रह] अग्न्यादि-ज्ञानम् अनुमितिः, तत्-करणं धूमादि-ज्ञानम् । आप्त-वाक्यं शब्दः [इबिद्।] । उपमिति-करणम् उपमानं [इबिद्।] गो-सदृशो गवय इत्य् आदौ । संज्ञासंज्ञि-सम्बन्ध-ज्ञानम् उपमितिः [इबिद्।] तत्-करणं सादृश्य-ज्ञानम् ।
+tatreti puruṣasya vyāvahārikasya vyutpannasyāpi bhramādi-doṣa-grastatvāt tādṛk-pāramārthaika-vastu-sparśānarhatvāc catat-pratyakṣādīni ca sadoṣāṇīti yojyam | bhramaḥ pramādo vipralipsā karaṇāpaṭavaṁ ceti jīve catvāro doṣāḥ | teṣv atasmiṁs tad-buddhir bhramaḥ | yena sthāṇau puruṣa-buddhiḥ | anavadhānatānya-cittatā-lakṣaṇaḥ pramādaḥ | yenāntike gīyamānaṁ gānaṁ na gṛhyate | vañcanecchā vipralipsā | yayā’śiṣye sva-jñāto’py artho na prakāśyate | indriyam āndyaṁ karaṇāpaṭavam | yena datta-manasāpi yathāvat vastu na paricīyate | ete pramātṛ-jīva-doṣāḥ | parmāṇeṣu sañcaranti | teṣu bhramādi-trayaṁ pratyakṣe, tan-mūlake’numāne ca | vipralipsā tu śabda iti bodhyam | pratyakṣādīny aṣṭau bhavanti pramāṇāni | tatrārtha-sannikṛṣṭaṁ cakṣurādīndriyaṁ pratyakṣam | anumiti-karaṇam anumānaṁ [tarka-saṅgraha] agnyādi-jñānam anumitiḥ, tat-karaṇaṁ dhūmādi-jñānam | āpta-vākyaṁ śabdaḥ [ibid.] | upamiti-karaṇam upamānaṁ [ibid.] go-sadṛśo gavaya ity ādau | saṁjñāsaṁjñi-sambandha-jñānam upamitiḥ [ibid.] tat-karaṇaṁ sādṛśya-jñānam |
 
-असैध्यद्-अर्थ-दृष्ट्या साधकान्यार्थकल्पनम् अर्थापत्तिः । यया दिवाभुञ्जाने पीनत्वं रात्रि-भोजनं कल्पयित्वा साध्यते । अभाव-ग्राहिकानुपलब्धिः । भूतले घटानुपलब्ध्या यथा घटाभावो गृह्यते । सहस्रे शतं सम्भवेद् इति बुद्धौ सम्भावना सम्भवः । अज्ञात-वक्तृकं परम्पराप्रसिद्धम् ऐतिह्यम् । यथेह तरौ यक्षोऽस्ति । इत्य् एवम् अष्टौ ॥९॥
+asaidhyad-artha-dṛṣṭyā sādhakānyārthakalpanam arthāpattiḥ | yayā divābhuñjāne pīnatvaṁ rātri-bhojanaṁ kalpayitvā sādhyate | abhāva-grāhikānupalabdhiḥ | bhūtale ghaṭānupalabdhyā yathā ghaṭābhāvo gṛhyate | sahasre śataṁ sambhaved iti buddhau sambhāvanā sambhavaḥ | ajñāta-vaktṛkaṁ paramparāprasiddham aitihyam | yatheha tarau yakṣo’sti | ity evam aṣṭau ||9||
 
-**राधमोहन-गोस्वामी :** अथेति प्रमाणं विनिर्णीयत इत्य् अनेनास्यान्वयः । किम्-अर्थं प्रमाण-विनिर्णयः ? इत्य् अत आह—एवं सूचितानाम् इति । तत्र श्री-भागवत-सन्दर्भं वच्मीत्य् अनेन श्री-कृष्ण-स्वरूप-तद्-भजनयोर् अभिधेयत्वम् । तयोर् वाच्य-वाचकता-लक्षण-सम्बन्धश् च सूचितः । “प्रेम दद्याद् भजद्भ्यः” इत्य् अनेन भजनस्य विधेयत्वम्, प्रेम्नः फलत्वं सूचितम् । श्री-कृष्णेति तद्-भजनोपलक्षणम् । तेन कृष्ण-तद्-भजनयोर् वाच्यता, ग्रन्थस्य वाचकतेति परस्पर-सम्बन्धो दर्शितः । श्री-कृष्ण-सम्बन्ध-कथनात् तस्याभिधेयता-लाभः । भजनस्य विधेयतयाभिधेयत्वम् इति विशेषाय स्वातन्त्र्येण तत्-कीर्तनम् । विधेय-पर्यायाभिधेयेत्य् अस्य विधेय-लक्षणाभिधेयेत्य् अर्थः । 
+**rādhamohana-gosvāmī :** atheti pramāṇaṁ vinirṇīyata ity anenāsyānvayaḥ | kim-arthaṁ pramāṇa-vinirṇayaḥ ? ity ata āha—evaṁ sūcitānām iti | tatra śrī-bhāgavata-sandarbhaṁ vacmīty anena śrī-kṛṣṇa-svarūpa-tad-bhajanayor abhidheyatvam | tayor vācya-vācakatā-lakṣaṇa-sambandhaś ca sūcitaḥ | “prema dadyād bhajadbhyaḥ” ity anena bhajanasya vidheyatvam, premnaḥ phalatvaṁ sūcitam | śrī-kṛṣṇeti tad-bhajanopalakṣaṇam | tena kṛṣṇa-tad-bhajanayor vācyatā, granthasya vācakateti paraspara-sambandho darśitaḥ | śrī-kṛṣṇa-sambandha-kathanāt tasyābhidheyatā-lābhaḥ | bhajanasya vidheyatayābhidheyatvam iti viśeṣāya svātantryeṇa tat-kīrtanam | vidheya-paryāyābhidheyety asya vidheya-lakṣaṇābhidheyety arthaḥ | 
 
-एवं च भागवत-सन्दर्भम् इत्य् अस्य भगवत इदं श्री-कृष्ण-स्वरूप-तद्-भजनम्, तस्य सन्दर्भम्, काण्डं तत्त्वतो निर्णायक-वाक्य-जातम् इति पर्यवसितोऽर्थः । वच्मीत्य् अस्य कथयामीत्य् अर्थः । वस्तुतस् तु भागवत-सन्दर्भ-भगवद्-भजन-प्रतिपादक-श्री-भागवताख्य-ग्रन्थस्य सन्दर्भम् अर्थ-निर्णायक-वाक्य-जातं वच्मीत्य् अर्थः । एवं च श्री-भागवतस्य प्रयोजनाभिधेय-सम्बन्धा एवास्य ग्रन्थस्य प्रयोजनाभिधेय-सम्बन्धा इति ज्ञेयम् । तत्रेति—प्रमाणेष्व् इत्य् अर्थः । तत्-प्रत्यक्षादीत्य् अत्रास्यान्वयः । तत्-प्रत्यक्षादीनि लौकिक-पुरुष-प्रत्यक्षादीनि । तेनेश्वर-प्रत्यक्षस्य सदोषत्वं व्यावृत्तिः । आदिना—अनुमानोपमानानुपलब्धि-परिग्रहः सदोषाणि भ्रम-जनकतया सम्भावितानि । तेनापुरुष-प्रत्यक्षादेः क्वचिद् वस्तु-साधकत्वे, अनुमानस्येश्वर-साधकत्वेऽपि च न क्षतिः । 
+evaṁ ca bhāgavata-sandarbham ity asya bhagavata idaṁ śrī-kṛṣṇa-svarūpa-tad-bhajanam, tasya sandarbham, kāṇḍaṁ tattvato nirṇāyaka-vākya-jātam iti paryavasito’rthaḥ | vacmīty asya kathayāmīty arthaḥ | vastutas tu bhāgavata-sandarbha-bhagavad-bhajana-pratipādaka-śrī-bhāgavatākhya-granthasya sandarbham artha-nirṇāyaka-vākya-jātaṁ vacmīty arthaḥ | evaṁ ca śrī-bhāgavatasya prayojanābhidheya-sambandhā evāsya granthasya prayojanābhidheya-sambandhā iti jñeyam | tatreti—pramāṇeṣv ity arthaḥ | tat-pratyakṣādīty atrāsyānvayaḥ | tat-pratyakṣādīni laukika-puruṣa-pratyakṣādīni | teneśvara-pratyakṣasya sadoṣatvaṁ vyāvṛttiḥ | ādinā—anumānopamānānupalabdhi-parigrahaḥ sadoṣāṇi bhrama-janakatayā sambhāvitāni | tenāpuruṣa-pratyakṣādeḥ kvacid vastu-sādhakatve, anumānasyeśvara-sādhakatve’pi ca na kṣatiḥ | 
 
-प्रत्यक्षादेः स-दोषत्वे हेतुः—दुष्टत्वाद् इत्य् अन्तम् । भ्रमादीत्य् आदिना—प्रमाद-विप्रलिप्सा-करणापाटव-परिग्रहः ॥९॥
+pratyakṣādeḥ sa-doṣatve hetuḥ—duṣṭatvād ity antam | bhramādīty ādinā—pramāda-vipralipsā-karaṇāpāṭava-parigrahaḥ ||9||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१०]
+[10]
 
-**ततस् तानि न प्रमाणानीत्य् अनादि-सिद्ध-सर्व-पुरुष-परम्परासु सर्व-लौकिकालौकिक-ज्ञान-निदानत्वादप्राकृत-वचन-लक्षणो वेद एवास्माकं सर्वातीत-सर्वाश्रय-सर्वाचिन्त्याश्चर्य-स्वभावं वस्तुविविदिषतां प्रमाणम् ॥१०॥**
+**tatas tāni na pramāṇānīty anādi-siddha-sarva-puruṣa-paramparāsu sarva-laukikālaukika-jñāna-nidānatvādaprākṛta-vacana-lakṣaṇo veda evāsmākaṁ sarvātīta-sarvāśraya-sarvācintyāścarya-svabhāvaṁ vastuvividiṣatāṁ pramāṇam ||10||**
 
-**सर्व-संवादिनी : **अथैवं शब्दस्य प्रमाणत्वे पर्यवसिते कोऽसौ शब्द इति विवेचनीयम् । तत्र “भ्रमादि-रहितं वचः शब्दः” इत्य् अनेनैव पर्याप्तिर् न स्यात् । यथा स्व-मति-गृहीते पक्षे भ्रमादि-रहितोऽयम् अयम् एवेति प्रतिस्वं मत-भेदे निर्णयाभावापत्तेस् तथा तस्यापि शब्दस्य प्रत्यक्षावगम्यत्वेन परानुगतत्वाद् अप्रामाण्यापत्तेः । तस्माद् यो [शब्दः] निज-निज-विद्वत्तायै सर्वैर् एवाभ्यस्यते, यस्याधिगमेन सर्वेषाम् अपि सर्वैव विद्वत्ता भवति, यत् कृतयैव परम-विद्वत्तया प्रत्यक्षादिकम् अपि शुद्धं स्यात्, यश् चानादित्वात् स्वयम् एव सिद्धः, स एव निखिलैतिह्य-मूल-रूपो महा-वाक्य-समुदयः शब्दोऽत्र गृह्यते । स च शास्त्रम् एव । तच् च वेद एव । य एवानादि-सिद्धः सर्व-कारणस्य भगवतोऽनादि-सिद्धं पुनः पुनः सृष्ट्य्-आदौ तस्माद् एवाविर्भूतम् अपौरुषेयं वाक्यम् । तद् एव भ्रमादि-रहितं सम्भावितम् । तच् च सर्व-जनकस्य तस्य च स-दोष-देशायावश्यकं[^८] मन्तव्यम् । तद् एव चाव्यभिचारि प्रमाणम् । तच् च तत्-कृपया कोऽपि कोऽपि गृह्णाति । कुतर्क-कर्कशा मूढा वा तन् न गृह्णन्तु नाम, तेषाम् अप्रमा-पदं कथम् अपयातु ? न चेश्वर-विहित-वैद्यकादि-शास्त्रम् अमतम् । प्रमाणाभावाद् इतरवद् यातीति चेन्, न । परेषां तद्-अनुगतत्वाद् एव शास्त्रत्व-व्यवहारः । न च बुद्धस्यापीश्वरत्वे सति तद्-वाक्यं च प्रमाणं स्याद् इति वाच्यम् । येन शास्त्रेण तस्य ईश्वरत्वं मन्यामहे, तेनैव तस्य दैत्य-मोहन-शास्त्र-कारित्वेनोक्तत्वात् ।
+**sarva-saṁvādinī : **athaivaṁ śabdasya pramāṇatve paryavasite ko’sau śabda iti vivecanīyam | tatra “bhramādi-rahitaṁ vacaḥ śabdaḥ” ity anenaiva paryāptir na syāt | yathā sva-mati-gṛhīte pakṣe bhramādi-rahito’yam ayam eveti pratisvaṁ mata-bhede nirṇayābhāvāpattes tathā tasyāpi śabdasya pratyakṣāvagamyatvena parānugatatvād aprāmāṇyāpatteḥ | tasmād yo [śabdaḥ] nija-nija-vidvattāyai sarvair evābhyasyate, yasyādhigamena sarveṣām api sarvaiva vidvattā bhavati, yat kṛtayaiva parama-vidvattayā pratyakṣādikam api śuddhaṁ syāt, yaś cānāditvāt svayam eva siddhaḥ, sa eva nikhilaitihya-mūla-rūpo mahā-vākya-samudayaḥ śabdo’tra gṛhyate | sa ca śāstram eva | tac ca veda eva | ya evānādi-siddhaḥ sarva-kāraṇasya bhagavato’nādi-siddhaṁ punaḥ punaḥ sṛṣṭy-ādau tasmād evāvirbhūtam apauruṣeyaṁ vākyam | tad eva bhramādi-rahitaṁ sambhāvitam | tac ca sarva-janakasya tasya ca sa-doṣa-deśāyāvaśyakaṁ[^8] mantavyam | tad eva cāvyabhicāri pramāṇam | tac ca tat-kṛpayā ko’pi ko’pi gṛhṇāti | kutarka-karkaśā mūḍhā vā tan na gṛhṇantu nāma, teṣām apramā-padaṁ katham apayātu ? na ceśvara-vihita-vaidyakādi-śāstram amatam | pramāṇābhāvād itaravad yātīti cen, na | pareṣāṁ tad-anugatatvād eva śāstratva-vyavahāraḥ | na ca buddhasyāpīśvaratve sati tad-vākyaṁ ca pramāṇaṁ syād iti vācyam | yena śāstreṇa tasya īśvaratvaṁ manyāmahe, tenaiva tasya daitya-mohana-śāstra-kāritvenoktatvāt |
 
-[^८]:
-    तस्य च सदा उपदेषायावश्यकम् मन्तव्यम् इति आनन्द गोपाल शास्त्रि
+[^8]:
+    tasya ca sadā upadeṣāyāvaśyakam mantavyam iti Ānanda Gopāla Śāstri
 
 
-अत्र [वेदस्य प्रामाण्य-विषये] वाचस्पतिश् चैवम् आह [शङ्कर-भाष्य-भामती-टीकायाम् उपोद्घाते]—“न च ज्येष्ठ-[अग्रजात]-प्रमाण-प्रत्यक्ष-विरोधाद् आम्नायस्यैव तद्-अपेक्षस्याप्रामान्यम् उपचरितार्थत्वं वेति युक्तम् । अस्यापौरुषेयतया निरन्स्त-सम्सन्त-दोषाशङ्कस्य बोधकतया च स्वतः-सिद्ध-प्रमाण-भावस्य स्व-कार्य-प्रमितौ परानपेक्षत्वात् । प्रमिताव् अनपेक्षत्वेऽप्य् उत्पत्तौ प्रत्यक्षापेक्षत्वात् । तद्-विरोधाद् अनुत्पत्ति-लक्षणम् अस्याप्रामाण्यम् इति चेत्, न । उत्पादकाप्रतिद्वन्द्वित्वात् । न ह्य् आगम-ज्ञानं सांव्यवहारिकं प्रत्यक्षस्य प्रामाण्यम् उपहन्ति, येन कारणाभावान् न भवेत्, अपि तु तात्त्विकम् । न च तत् तस्योत्पादकम् अतात्त्विक-प्रमाण-भावेभ्योऽपि सांव्यवहारिकेभ्यः [प्रमाणेभ्यः] तत्त्व-ज्ञानोत्पत्ति-दर्शनात् । यथा वर्णे ह्रस्व-दीर्घत्वादयोऽन्य-धर्मा अपि समारोपितास् तत्त्व-प्रतिपत्ति-हेतवः । न हि लौकिका नाग इति वा, नगः इति वा पदात् कुञ्जरं वा तरुं वा प्रतिपद्यमाना भवन्ति भ्रान्ताः । न चामन्य-परं वाक्यं स्वार्थे उपचरितार्थं कर्तुं युक्तम् । उक्तं हि—न विधौ परः शब्दार्थः [पू।मी। १.२.१९, शङ्कर-भाष्ये] इति । ज्येष्ठत्वं [अग्र-जातत्वं] चानपेक्षितस्य बाध्यत्वे हेतुर् न तु बाधकत्वे, रजत-ज्ञानस्य ज्यायसः शुक्ति-ज्ञानेन कनीयसा बाधक-दर्शनात् । तद्-अनपवाधने यद् अपबाधात्मनस् तस्योत्पत्तेर् अनुपपत्तिः । दर्शितं च तात्त्विक-प्रमाण-भावस्यानपेक्षितत्वम् । तथा च पारमर्शं सूत्रं—पूर्वं दौर्बल्यं प्रकृतिवत् [पू।मी। ६.५.५४] इति । तथा—
+atra [vedasya prāmāṇya-viṣaye] vācaspatiś caivam āha [śaṅkara-bhāṣya-bhāmatī-ṭīkāyām upodghāte]—“na ca jyeṣṭha-[agrajāta]-pramāṇa-pratyakṣa-virodhād āmnāyasyaiva tad-apekṣasyāprāmānyam upacaritārthatvaṁ veti yuktam | asyāpauruṣeyatayā niransta-samsanta-doṣāśaṅkasya bodhakatayā ca svataḥ-siddha-pramāṇa-bhāvasya sva-kārya-pramitau parānapekṣatvāt | pramitāv anapekṣatve’py utpattau pratyakṣāpekṣatvāt | tad-virodhād anutpatti-lakṣaṇam asyāprāmāṇyam iti cet, na | utpādakāpratidvandvitvāt | na hy āgama-jñānaṁ sāṁvyavahārikaṁ pratyakṣasya prāmāṇyam upahanti, yena kāraṇābhāvān na bhavet, api tu tāttvikam | na ca tat tasyotpādakam atāttvika-pramāṇa-bhāvebhyo’pi sāṁvyavahārikebhyaḥ [pramāṇebhyaḥ] tattva-jñānotpatti-darśanāt | yathā varṇe hrasva-dīrghatvādayo’nya-dharmā api samāropitās tattva-pratipatti-hetavaḥ | na hi laukikā nāga iti vā, nagaḥ iti vā padāt kuñjaraṁ vā taruṁ vā pratipadyamānā bhavanti bhrāntāḥ | na cāmanya-paraṁ vākyaṁ svārthe upacaritārthaṁ kartuṁ yuktam | uktaṁ hi—na vidhau paraḥ śabdārthaḥ [pū.mī. 1.2.19, śaṅkara-bhāṣye] iti | jyeṣṭhatvaṁ [agra-jātatvaṁ] cānapekṣitasya bādhyatve hetur na tu bādhakatve, rajata-jñānasya jyāyasaḥ śukti-jñānena kanīyasā bādhaka-darśanāt | tad-anapavādhane yad apabādhātmanas tasyotpatter anupapattiḥ | darśitaṁ ca tāttvika-pramāṇa-bhāvasyānapekṣitatvam | tathā ca pāramarśaṁ sūtraṁ—pūrvaṁ daurbalyaṁ prakṛtivat [pū.mī. 6.5.54] iti | tathā—
 
-> पौर्वापर्य-बलीयस्त्वं तत्र नाम प्रतीयते ।  
-> अन्योन्य-निरपेक्षाणां यत्र जन्म धियां भवेत् ॥ [त।वा। ३.३.२][^९] इति ॥
+> paurvāparya-balīyastvaṁ tatra nāma pratīyate |  
+> anyonya-nirapekṣāṇāṁ yatra janma dhiyāṁ bhavet || [ta.vā. 3.3.2][^9] iti ||
 
-[^९]:
-    कुमारिल-भट्ट-कृत-तन्त्र-वार्तिके।
+[^9]:
+    kumārila-bhaṭṭa-kṛta-tantra-vārtike.
 
 
-अत्र सांव्यवहारिकम् इति सार्वत्रिकम् एव व्यवहारिकम् इति ज्ञेयम् । क्वचिद् उपमर्दस्य [अर्वाचीन-ज्ञानस्य] दर्शितत्वाद् एव शास्त्रत्व-व्यवहारः । दृश्यते चान्यत्र—सूर्यादि-मण्डलस्य सूक्ष्मतस्या प्रत्यक्षीकृतिर् अप्य् अनुमान-शब्दाभ्यां बाधिता भवतीति दूरस्थ-वस्तुनस् तादृशतया [स्थूलस्य सूक्ष्मतया] दृष्टत्वाच् छास्त्र-प्रसिद्धत्वाच् च । तद् एवं स्थिते श्री-वैष्णवास् त्व् एव वदन्ति । वेदस्य न प्राकृत-प्रत्यक्षादिवद् अविद्यावद् विषय-मात्रत्वेन यावद् एवाविद्या तावद् एव तद्-व्यवहारः । सति व्यवहारे प्रामाण्यं चेति मन्तव्यम् । अपौरुषेयत्वान् नित्यत्वात्, सर्व-मुक्त्य्-एक-कालाभावेन [सर्वेषां जीवन्मुक्तानां यावत् सद्यो-विदेह-मुक्तिः प्रपञ्चे अवस्थाने] तद्-अधिकारिणां सततास्तित्वात्, परमेश्वर-प्रसादेन परमेश्वरवद् एवाविद्यातीतानां चिच्-छक्त्य्-एक-विभवानाम् आत्मारामाणां पार्षदानाम् अपि ब्रह्मानन्दोपरिचय-भक्ति-परमानन्देन सामादि-पारायणादेर् दर्शयिष्यमाणत्वात्, श्रीमत्-परमेश्वरस्य स्व-वेद-मर्यादाम् अवलम्ब्यैव मुहुः सृष्ट्य्-आदि-प्रवर्तकत्वाच् च । येषां तु पुरुष-ज्ञान-कल्पितम् एव वेदादिकं सर्वं द्वैतम्, तेषाम् अपौरुषेयत्वाभावात् तत एव भ्रमादि-सम्भवात् स्वप्न-प्रलापवद्-व्यवहार-सिद्धाव् अपि प्रामाण्यं नोपपाद्यत इति तन्-मतम् अवैदिक-विशेष इति । 
+atra sāṁvyavahārikam iti sārvatrikam eva vyavahārikam iti jñeyam | kvacid upamardasya [arvācīna-jñānasya] darśitatvād eva śāstratva-vyavahāraḥ | dṛśyate cānyatra—sūryādi-maṇḍalasya sūkṣmatasyā pratyakṣīkṛtir apy anumāna-śabdābhyāṁ bādhitā bhavatīti dūrastha-vastunas tādṛśatayā [sthūlasya sūkṣmatayā] dṛṣṭatvāc chāstra-prasiddhatvāc ca | tad evaṁ sthite śrī-vaiṣṇavās tv eva vadanti | vedasya na prākṛta-pratyakṣādivad avidyāvad viṣaya-mātratvena yāvad evāvidyā tāvad eva tad-vyavahāraḥ | sati vyavahāre prāmāṇyaṁ ceti mantavyam | apauruṣeyatvān nityatvāt, sarva-mukty-eka-kālābhāvena [sarveṣāṁ jīvanmuktānāṁ yāvat sadyo-videha-muktiḥ prapañce avasthāne] tad-adhikāriṇāṁ satatāstitvāt, parameśvara-prasādena parameśvaravad evāvidyātītānāṁ cic-chakty-eka-vibhavānām ātmārāmāṇāṁ pārṣadānām api brahmānandoparicaya-bhakti-paramānandena sāmādi-pārāyaṇāder darśayiṣyamāṇatvāt, śrīmat-parameśvarasya sva-veda-maryādām avalambyaiva muhuḥ sṛṣṭy-ādi-pravartakatvāc ca | yeṣāṁ tu puruṣa-jñāna-kalpitam eva vedādikaṁ sarvaṁ dvaitam, teṣām apauruṣeyatvābhāvāt tata eva bhramādi-sambhavāt svapna-pralāpavad-vyavahāra-siddhāv api prāmāṇyaṁ nopapādyata iti tan-matam avaidika-viśeṣa iti | 
 
-नन्व् अर्वाग्-जन-संवादादि-दर्शनात् कथं तस्यानादित्वादि ? उच्यते—अत एव च नित्यत्वं [वे।सू। १.३.२९] इत्य् अत्र सूत्रे शाङ्कर-शारीरक-भाष्य-प्रमाणितायां श्रुतौ श्रूयते—यज्ञेन वाचः पदवीयम् आयन् ताम् अन्वविन्द्य् ऋषिषु प्रविष्टां [ऋ।वे। १०.७१.३] इति । स्मृतौ च—
+nanv arvāg-jana-saṁvādādi-darśanāt kathaṁ tasyānāditvādi ? ucyate—ata eva ca nityatvaṁ [ve.sū. 1.3.29] ity atra sūtre śāṅkara-śārīraka-bhāṣya-pramāṇitāyāṁ śrutau śrūyate—yajñena vācaḥ padavīyam āyan tām anvavindy ṛṣiṣu praviṣṭāṁ [ṛ.ve. 10.71.3] iti | smṛtau ca—
 
 
-> युगान्ते ऽन्तर्हितान् वेदान् सेतिहासान् महर्षयः ।  
-> लेभिरे तपसा पूर्वम् अनुज्ञाताः स्वयम्भुवा ॥ [म।भा। १२.२०३.१७] इति ।
+> yugānte 'ntarhitān vedān setihāsān maharṣayaḥ |  
+> lebhire tapasā pūrvam anujñātāḥ svayambhuvā || [ma.bhā. 12.203.17] iti |
 
-तस्मान् नित्य-सिद्धस्यैव वेद-शब्दस्य तत्र तत्र प्रवेश एव, न तु तत्-कर्तृकता । तथा चानादि-सिद्ध-वेदानुरूपैव प्रतिकल्पं तत्-तन्-नामादि-प्रवृत्तिः । तथा हि—समान-नाम-रूपत्वाच् चावृत्ताव् अप्य् अविरोधो दर्शनात् स्मृतेश् च [वे।सू। १.३.३०] इत्य् अत्र तत्त्व-वाद-भाष्य-कृद्भिः श्री-मध्वाचार्यैर् उदाहृता श्रुतिः । सूर्याचन्द्रमसौ धाता यथा-पूर्वम् अकल्पयत् [ऋ।वे। १०.१९०],
+tasmān nitya-siddhasyaiva veda-śabdasya tatra tatra praveśa eva, na tu tat-kartṛkatā | tathā cānādi-siddha-vedānurūpaiva pratikalpaṁ tat-tan-nāmādi-pravṛttiḥ | tathā hi—samāna-nāma-rūpatvāc cāvṛttāv apy avirodho darśanāt smṛteś ca [ve.sū. 1.3.30] ity atra tattva-vāda-bhāṣya-kṛdbhiḥ śrī-madhvācāryair udāhṛtā śrutiḥ | sūryācandramasau dhātā yathā-pūrvam akalpayat [ṛ.ve. 10.190],
 
 
-> तथैव नियमः काले स्वरादि-नियमस् तथा ।  
-> तस्मान् नानीदृशं क्वापि विश्वम् एतद् भविष्यति ॥ इति ।
+> tathaiva niyamaḥ kāle svarādi-niyamas tathā |  
+> tasmān nānīdṛśaṁ kvāpi viśvam etad bhaviṣyati || iti |
 
-स्मृतिश् च—
+smṛtiś ca—
 
 
-> अनादि निधनं चाहुर् अक्षरं परम् एव च ।  
-> आदौ वेद-मयी दिव्या यतः सर्वाः प्रवृत्तयः ॥  
-> ऋषीणां नामधेयानि याश् च वेदेषु सृष्टयः ।  
-> वेद-शब्देभ्य एवादौ निर्ममे स महेश्वरः ॥ [म।भा। १२.२१७.४९]
+> anādi nidhanaṁ cāhur akṣaraṁ param eva ca |  
+> ādau veda-mayī divyā yataḥ sarvāḥ pravṛttayaḥ ||  
+> ṛṣīṇāṁ nāmadheyāni yāś ca vedeṣu sṛṣṭayaḥ |  
+> veda-śabdebhya evādau nirmame sa maheśvaraḥ || [ma.bhā. 12.217.49]
 
-अत्र शब्द-पूर्वक-सृष्टि-प्रक्रमे श्रुतिश् चाद्वैत-शारीरक-भाष्ये दर्शिता—एता इति वै प्रजापतिर् देवानुसृजत, असृग्रान् इति मनुष्यान् इन्दव इति पितॄन् [छा।ब्रा। १.३.२८] इत्य्-आदिका । तथा स भूर् इति व्याहरत् स भूमिम् असृजत[तै।ब्रा। २.२.४.२] इत्य्-आदिका च । तथा श्री-रामानुज-शारीरके (१.३.२७) दर्शिता च—वेदेन नाम-रूपे व्याकरोत् सतासती प्रजापतिः इति । अत एवौत्पत्तिके शब्दस्यार्थेन सम्बन्धे समाश्रिते निरपेक्षम् एव वेदस्य प्रामाण्यं मतम्। शब्द इति चेन् नातः प्रभवात् प्रत्यक्षानुमानाभ्याम् इत्य् अत्र संवादादि-रूप-प्रक्रिया तु श्रोतृ-बोध-सौकर्य-करीति सामञ्जस्यम् एव भजते । तस्माद् वेदाख्यं शास्त्रं प्रमाणं तत्-तल्-लक्षण-हीनत्वात् तद्-विरुद्धत्वाच् चावैदिक तु शास्त्रं न प्रमाणम् ॥१०॥
+atra śabda-pūrvaka-sṛṣṭi-prakrame śrutiś cādvaita-śārīraka-bhāṣye darśitā—etā iti vai prajāpatir devānusṛjata, asṛgrān iti manuṣyān indava iti pitṝn [chā.brā. 1.3.28] ity-ādikā | tathā sa bhūr iti vyāharat sa bhūmim asṛjata[tai.brā. 2.2.4.2] ity-ādikā ca | tathā śrī-rāmānuja-śārīrake (1.3.27) darśitā ca—vedena nāma-rūpe vyākarot satāsatī prajāpatiḥ iti | ata evautpattike śabdasyārthena sambandhe samāśrite nirapekṣam eva vedasya prāmāṇyaṁ matam| śabda iti cen nātaḥ prabhavāt pratyakṣānumānābhyām ity atra saṁvādādi-rūpa-prakriyā tu śrotṛ-bodha-saukarya-karīti sāmañjasyam eva bhajate | tasmād vedākhyaṁ śāstraṁ pramāṇaṁ tat-tal-lakṣaṇa-hīnatvāt tad-viruddhatvāc cāvaidika tu śāstraṁ na pramāṇam ||10||
 
-**बलदेवः :** ततस् तानि न प्रमाणानीति । ततो भ्रमादि-दोष-योगात् । तानि प्रत्यक्षादीनि परमार्थ-प्रमा-करणानि न भवन्ति । माया-मुण्डावलोके तस्यैवेदं मुण्डम् इत्य् अत्र प्रत्यक्षं व्यभिचारि । वृष्ट्या तत्-काल-निर्वापित-वह्नौ चिरं धूम-प्रोद्गारिणि गिरौ वह्मिनान् धूमात् इत्य् अनुमानं च व्यभिचारि दृष्टम् । आप्त-वाक्यं च तथा, एकेनाप्तेन मुनिना समर्थितस्यार्थस्यापरेण तादृशेन दूषितत्वात् । अत उक्तं नासव् ऋषिर् यस्य मतं न भिन्नम् इति । 
+**baladevaḥ :** tatas tāni na pramāṇānīti | tato bhramādi-doṣa-yogāt | tāni pratyakṣādīni paramārtha-pramā-karaṇāni na bhavanti | māyā-muṇḍāvaloke tasyaivedaṁ muṇḍam ity atra pratyakṣaṁ vyabhicāri | vṛṣṭyā tat-kāla-nirvāpita-vahnau ciraṁ dhūma-prodgāriṇi girau vahminān dhūmāt ity anumānaṁ ca vyabhicāri dṛṣṭam | āpta-vākyaṁ ca tathā, ekenāptena muninā samarthitasyārthasyāpareṇa tādṛśena dūṣitatvāt | ata uktaṁ nāsav ṛṣir yasya mataṁ na bhinnam iti | 
 
-एवं मुख्यानाम् एषां सदोषत्वात् तद् उपजीविनाम् उपमानादीनां तथात्वं सुसिद्धम् एव । किंचाप्त-वाक्यं लौकिकार्थ-ग्रहे प्रमाणम् एव, यथा हिमाद्रौ हिमम् इत्य् आदौ । तद्-उभय-निरपेक्षं च तत् दशमस् त्वम् असि इत्य् आदौ । तद्-उभयागम्ये साधकतमं च तत् । ग्रहाणां राशिषु सञ्चारे यथा । किं चाप्त-वाक्येनानुगृहीतं तद्-उभयं प्रमापकम् । दृष्ट-चर-माया-मुण्डकेन पुंसा सत्येऽप्य् अविश्वस्ते तस्यैवेदं मुण्डम् इति नभोवाण्यानुगृहीतं प्रत्यक्षं यथा । अरे शीतार्ताः पन्था मास्मिन्न् अग्निं सम्भावयत, वृष्ट्या निर्वाणोऽत्र स दृष्टः किन्त्व् अमुष्मिन् धूमोद्गारिणि गिरौ सोऽस्ति इत्य् आप्तवाक्येनानुगृहीतम् अनुमानं च यथेति । तद् एवं प्रत्यक्षानुमान-शब्दाः प्रमाणानीत्य् आह मनुः—
+evaṁ mukhyānām eṣāṁ sadoṣatvāt tad upajīvinām upamānādīnāṁ tathātvaṁ susiddham eva | kiṁcāpta-vākyaṁ laukikārtha-grahe pramāṇam eva, yathā himādrau himam ity ādau | tad-ubhaya-nirapekṣaṁ ca tat daśamas tvam asi ity ādau | tad-ubhayāgamye sādhakatamaṁ ca tat | grahāṇāṁ rāśiṣu sañcāre yathā | kiṁ cāpta-vākyenānugṛhītaṁ tad-ubhayaṁ pramāpakam | dṛṣṭa-cara-māyā-muṇḍakena puṁsā satye’py aviśvaste tasyaivedaṁ muṇḍam iti nabhovāṇyānugṛhītaṁ pratyakṣaṁ yathā | are śītārtāḥ panthā māsminn agniṁ sambhāvayata, vṛṣṭyā nirvāṇo’tra sa dṛṣṭaḥ kintv amuṣmin dhūmodgāriṇi girau so’sti ity āptavākyenānugṛhītam anumānaṁ ca yatheti | tad evaṁ pratyakṣānumāna-śabdāḥ pramāṇānīty āha manuḥ—
 
 
-> प्रत्यक्षम् अनुमानं चशास्त्रं च विविधागमम् ।  
-> त्रयं सुविदितं कार्यं धर्म-शुद्धिम् अभीप्सता ॥ [मनु। १२.१०५] इति ।
+> pratyakṣam anumānaṁ caśāstraṁ ca vividhāgamam |  
+> trayaṁ suviditaṁ kāryaṁ dharma-śuddhim abhīpsatā || [manu. 12.105] iti |
 
-एवम् अस्मद्-वृद्धाश् च । सर्व-परम्परासु ब्रह्मोत्पन्नेषु देव-मानवादिषु सर्वेषु वंशेषु । परम्परा परीपाट्यां सन्तानेऽपि वधे क्वचितिति[^१०] विश्वः । लौकिक-ज्ञानं कर्म-विद्या । अलौकिक-ज्ञानं ब्रह्म-विद्या । अप्राकृतेति वाचा विरूप नित्यया इति मन्त्र-वर्णनात् [ऋ।वे। ८.७५.६] । 
+evam asmad-vṛddhāś ca | sarva-paramparāsu brahmotpanneṣu deva-mānavādiṣu sarveṣu vaṁśeṣu | paramparā parīpāṭyāṁ santāne’pi vadhe kvacititi[^10] viśvaḥ | laukika-jñānaṁ karma-vidyā | alaukika-jñānaṁ brahma-vidyā | aprākṛteti vācā virūpa nityayā iti mantra-varṇanāt [ṛ.ve. 8.75.6] | 
 
-[^१०]:
-    शङ्करस्य शारीरके १.३.२८ द्रष्टव्यम्।
+[^10]:
+    śaṅkarasya śārīrake 1.3.28 draṣṭavyam.
 
 
 
-> अनादि-निधना नित्या वाग् उत्सृष्टा स्वयम्भुवा ।  
-> आदौ वेदमयी दिव्या यतः सर्वाः प्रवृत्तयः ॥ 
+> anādi-nidhanā nityā vāg utsṛṣṭā svayambhuvā |  
+> ādau vedamayī divyā yataḥ sarvāḥ pravṛttayaḥ || 
 
-इति स्मरणाच् [म।भा। १२.२३१.५६-५७] च । स्फुटम् अन्यत् ॥१०॥
+iti smaraṇāc [ma.bhā. 12.231.56-57] ca | sphuṭam anyat ||10||
 
-**राधा-मोहन-गोस्वामी : **ततः पुरुष-प्रत्यक्षादेः स-दोषत्वात् । तानि पुरुष-प्रत्यक्षादीनि, न प्रमाणानि, नेश्वर-तद्-भजनयोर् याथार्थ्येन साधन-समर्थानि । अत्रैव हेत्व्-अन्तरं—सुतराम् अचिन्त्यालौकिक-वस्तु-स्पर्शायोग्यत्वाच् चेति । अनुमानस्येश्वर-साधनत्व-सम्भवेपि श्री-कृष्ण-रूप-तद्-भजन-साधन-योग्यत्वम्। 
+**rādhā-mohana-gosvāmī : **tataḥ puruṣa-pratyakṣādeḥ sa-doṣatvāt | tāni puruṣa-pratyakṣādīni, na pramāṇāni, neśvara-tad-bhajanayor yāthārthyena sādhana-samarthāni | atraiva hetv-antaraṁ—sutarām acintyālaukika-vastu-sparśāyogyatvāc ceti | anumānasyeśvara-sādhanatva-sambhavepi śrī-kṛṣṇa-rūpa-tad-bhajana-sādhana-yogyatvam| 
 
-ननु वेद एवेत्य् एव-कारासङ्गतिः ? वेदार्थ-विवेकेऽनुमानापेक्षणात् । आत्मा वा अरे द्रष्टव्यः श्रोतव्यो निदिध्यासितव्यः [बृ।आ।उ। २.४.५] इत्य्-आदि-श्रुतेः । एवं मुख्यानाम् एषां सदोषत्वात् तद्-उपजीविनाम् उपमानादीनां तथात्वं सुसिद्धम् एव । आत्मा वै आत्मैव, “द्रष्टव्यः” साक्षात्-कर्तव्यः । कथम् ? इत्य् अपेक्षायाम् आह—“श्रोतव्य” इत्य्-आदि-त्रयम् । तत्र श्रवणं वेदेतिहास-पुराणादिभ्यः कार्यम् । श्रोतव्यः श्रुति-वाक्येभ्यः इति श्रवणात् । बहु-वचनं—गणार्थम् । तेन पुराणादि-परिग्रहः । वेदार्थ-प्रतीताव् अपि तत्रार्थानर-परत्व-सम्भावनयाप्रामाण्य-शङ्का । तस्या सम्भवेनाह—“मन्तव्यः” इति । मननं बहुभिर् हेतुभिर् अनुमानम् । मन्तव्यश् चोपपत्तिभिः इति श्रवणात् । 
+nanu veda evety eva-kārāsaṅgatiḥ ? vedārtha-viveke’numānāpekṣaṇāt | ātmā vā are draṣṭavyaḥ śrotavyo nididhyāsitavyaḥ [bṛ.ā.u. 2.4.5] ity-ādi-śruteḥ | evaṁ mukhyānām eṣāṁ sadoṣatvāt tad-upajīvinām upamānādīnāṁ tathātvaṁ susiddham eva | ātmā vai ātmaiva, “draṣṭavyaḥ” sākṣāt-kartavyaḥ | katham ? ity apekṣāyām āha—“śrotavya” ity-ādi-trayam | tatra śravaṇaṁ vedetihāsa-purāṇādibhyaḥ kāryam | śrotavyaḥ śruti-vākyebhyaḥ iti śravaṇāt | bahu-vacanaṁ—gaṇārtham | tena purāṇādi-parigrahaḥ | vedārtha-pratītāv api tatrārthānara-paratva-sambhāvanayāprāmāṇya-śaṅkā | tasyā sambhavenāha—“mantavyaḥ” iti | mananaṁ bahubhir hetubhir anumānam | mantavyaś copapattibhiḥ iti śravaṇāt | 
 
-तथा च तर्कानुगृहीतेन मननेन वेदाद् अवगतम् अर्थं सम्यक्तयावधार्ये पुनः पुनर् ध्यान-रूप-निदिध्यासनं कार्यम् । तत आत्म-साक्षात्कार इति पर्यवसितार्थः । आत्म-पदं चात्र परमेश्वर-परम् । तम् एव विदित्वातिमृत्युम् एति नान्यः पन्था विद्यतेऽयनाय [] इत्य्-आदि-श्रुत्य्-एक-वाक्यत्वात् । न च, न वा अरे पत्युः कामाय पतिः प्रियो भवति, आत्मनस् तु कामाय पतिः प्रियो भवति इत्य्-आदि जीवात्मानम् उपक्रम्य आत्मा वा अरे द्रष्टव्यः [बृ।आ।उ। २.४.५] इत्य् उक्तत्वाद् आत्म-पदं जीवात्म-परम् इति वाच्यम् । न वा अरे पत्युः कामाय इत्य्-आदिना स्वात्मोपाधिक-पत्य्-आदि-निष्ठ-प्रियत्वाख्यानेन स्वात्म-सुखस्यैव परम-प्रयोजनत्वम् उक्त्वा, परमात्म-सुखस्य सर्वतोऽतिशयस्य प्राप्तये सर्वथा यतितव्यम् इत्य् आशयेन “आत्मा द्रष्टव्यः” इत्य् उपसंहारात् ॥१०॥
+tathā ca tarkānugṛhītena mananena vedād avagatam arthaṁ samyaktayāvadhārye punaḥ punar dhyāna-rūpa-nididhyāsanaṁ kāryam | tata ātma-sākṣātkāra iti paryavasitārthaḥ | ātma-padaṁ cātra parameśvara-param | tam eva viditvātimṛtyum eti nānyaḥ panthā vidyate’yanāya [] ity-ādi-śruty-eka-vākyatvāt | na ca, na vā are patyuḥ kāmāya patiḥ priyo bhavati, ātmanas tu kāmāya patiḥ priyo bhavati ity-ādi jīvātmānam upakramya ātmā vā are draṣṭavyaḥ [bṛ.ā.u. 2.4.5] ity uktatvād ātma-padaṁ jīvātma-param iti vācyam | na vā are patyuḥ kāmāya ity-ādinā svātmopādhika-paty-ādi-niṣṭha-priyatvākhyānena svātma-sukhasyaiva parama-prayojanatvam uktvā, paramātma-sukhasya sarvato’tiśayasya prāptaye sarvathā yatitavyam ity āśayena “ātmā draṣṭavyaḥ” ity upasaṁhārāt ||10||
 
-—ओ)०(ओ—
+—o)0(o—
 
-[११]
+[11]
 
-**तच् चानुमतं—तर्काप्रतिष्ठानात् [ब्र।सू। २.१.११] इत्य् आदौ, अचिन्त्याः खलु ये भावा न तांस् तर्केण योजयेत् [म।भा। ६.५.१२] इत्य् आदौ, शास्त्र-योनित्वात् [ब्र।सू। १.१.३] इत्य् आदौ,श्रुतेस् तु शब्द-मूलत्वात् [ब्र।सू। २.१.२७] इत्य् आदौ । **
+**tac cānumataṁ—tarkāpratiṣṭhānāt [bra.sū. 2.1.11] ity ādau, acintyāḥ khalu ye bhāvā na tāṁs tarkeṇa yojayet [ma.bhā. 6.5.12] ity ādau, śāstra-yonitvāt [bra.sū. 1.1.3] ity ādau,śrutes tu śabda-mūlatvāt [bra.sū. 2.1.27] ity ādau | **
 
 
-> **पितृ-देव-मनुष्याणां वेदश् चक्षुस् तवेश्वर । **  
-> **श्रेयस् त्व् अनुपलब्धेऽर्थे साध्य-साधनयोर् अपि ॥ [भा। ११.२०.४] इत्य् आदौ ॥११॥**
+> **pitṛ-deva-manuṣyāṇāṁ vedaś cakṣus taveśvara | **  
+> **śreyas tv anupalabdhe’rthe sādhya-sādhanayor api || [bhā. 11.20.4] ity ādau ||11||**
 
-**सर्व-संवादिनी : **येषां वेश्वर-कल्पना नास्ति, तेषाम् अपि शास्त्रस्यात्यर्वाग्-जन-कृतत्वेन प्रसिद्धत्वाद् अनाद्य् अविच्छिन्न-वेद-प्रलोपन-भूयिष्ठ-वृत्तित्वेनानादि-सिद्ध-वर्णाश्रम-लोपि-चारित्येण वर्णं च तं तं निजान्नादिना विलुप्यैव स्व-गोष्ठीषु सम्पादनेन चार्वाचीनत्वेनैवावगतत्वात् तत् [शास्त्रं] केनाप्य् अधुनैवोत्थापितम् इत्य् एव स्फुटम् आयाति ।
+**sarva-saṁvādinī : **yeṣāṁ veśvara-kalpanā nāsti, teṣām api śāstrasyātyarvāg-jana-kṛtatvena prasiddhatvād anādy avicchinna-veda-pralopana-bhūyiṣṭha-vṛttitvenānādi-siddha-varṇāśrama-lopi-cārityeṇa varṇaṁ ca taṁ taṁ nijānnādinā vilupyaiva sva-goṣṭhīṣu sampādanena cārvācīnatvenaivāvagatatvāt tat [śāstraṁ] kenāpy adhunaivotthāpitam ity eva sphuṭam āyāti |
 
-ननु वेदेऽपि ग्रावाणः प्लवन्ते, मृद् अव्रवीद् आपोऽब्रुवन् इत्य्-आदि-दर्शनाद् अनाप्तत्वम् इव [असत्य-वक्तृत्वम् इव] प्रतीयते? उच्यते—कर्म-विशेषाङ्गी-भूतानां ग्राव्णां [कर्म-फल-दाने] वीर्य-वर्धनाय स्तुतिर् इयम् । सा च श्री-राम-कल्पित-सेतु-बन्धादौ प्रसिद्धत्वेन यथावद् एवेति न दोषः । तथा मृद् अव्रवीद् आपोऽब्रुवन् इत्य् आदौ तत्-तद्-अभिमानि-देवतैव व्यपदिश्यत इति ज्ञेयम् ।
+nanu vede'pi grāvāṇaḥ plavante, mṛd avravīd āpo'bruvan ity-ādi-darśanād anāptatvam iva [asatya-vaktṛtvam iva] pratīyate? ucyate—karma-viśeṣāṅgī-bhūtānāṁ grāvṇāṁ [karma-phala-dāne] vīrya-vardhanāya stutir iyam | sā ca śrī-rāma-kalpita-setu-bandhādau prasiddhatvena yathāvad eveti na doṣaḥ | tathā mṛd avravīd āpo'bruvan ity ādau tat-tad-abhimāni-devataiva vyapadiśyata iti jñeyam |
 
-तद् एवं सर्वत्रैव सर्वत्रैवाप्त एव वेदः । किन्तु सर्वज्ञेश्वर-वचनत्वेनासर्वज्ञ-जीवैर् दुरूहत्वात् तत्-प्रभाव-लब्ध-प्रत्यक्ष-विशेषवद्भिर् एव सर्वत्र तद्-अनुभवे शक्यते, न तु तार्किकैः । तद् उक्तं पुरुषोत्तम-तन्त्रे—
+tad evaṁ sarvatraiva sarvatraivāpta eva vedaḥ | kintu sarvajñeśvara-vacanatvenāsarvajña-jīvair durūhatvāt tat-prabhāva-labdha-pratyakṣa-viśeṣavadbhir eva sarvatra tad-anubhave śakyate, na tu tārkikaiḥ | tad uktaṁ puruṣottama-tantre—
 
 
-> शास्त्रार्थ-युक्तोऽनुभवः प्रमाणं तूत्तमं मतम् ।   
-> अनुमाद्या न स्वतन्त्राः प्रमाण-पदवीं ययुः ॥ इति ।
+> śāstrārtha-yukto'nubhavaḥ pramāṇaṁ tūttamaṁ matam |   
+> anumādyā na svatantrāḥ pramāṇa-padavīṁ yayuḥ || iti |
 
-तथैव मतं ब्रह्म-सूत्र-कारैः—तर्काप्रतिष्ठानात् [ब्र।सू। २.१.११], श्रुतेस् तु शब्द-मूलत्वात् [ब्र।सू। २.१.२७] इत्य् आदौ । तथा च श्रुतिः—नैषा तर्केण मतिर् आपनेया प्रोक्ताऽन्येनैव सुज्ञानाय प्रेष्ठ [क।उ। १.२.९], नीहारेण प्रावृता जल्प्याश् च [ऋक् सं १०.८२.७] इत्य् आद्याः । जल्प-प्रवृत्तास् तार्किका इति श्रुति-पदार्थः । अत एव वराह-पुराणे—
+tathaiva mataṁ brahma-sūtra-kāraiḥ—tarkāpratiṣṭhānāt [bra.sū. 2.1.11], śrutes tu śabda-mūlatvāt [bra.sū. 2.1.27] ity ādau | tathā ca śrutiḥ—naiṣā tarkeṇa matir āpaneyā proktā'nyenaiva sujñānāya preṣṭha [ka.u. 1.2.9], nīhāreṇa prāvṛtā jalpyāś ca [ṛk saṁ 10.82.7] ity ādyāḥ | jalpa-pravṛttās tārkikā iti śruti-padārthaḥ | ata eva varāha-purāṇe—
 
 
-> सर्वत्र शक्यते कर्तुम् आगमं हि विनानुमा ।   
-> तस्मान् न सा शक्तिमती विनागमम् उदीक्षितुम् ॥ इति ।
+> sarvatra śakyate kartum āgamaṁ hi vinānumā |   
+> tasmān na sā śaktimatī vināgamam udīkṣitum || iti |
 
-अद्वैत-वादिभिश् चोक्तम्—
+advaita-vādibhiś coktam—
 
 
-> यत्नेनोत्पादितोऽप्य् अर्थः कुशलैर् अनुमातृभिः ।   
-> अभियुक्ततरैर् अन्यैर् अन्यथैवोपपाद्यते ॥ [वा।पु।[^११] १.३४] इति ।
+> yatnenotpādito'py arthaḥ kuśalair anumātṛbhiḥ |   
+> abhiyuktatarair anyair anyathaivopapādyate || [vā.pu.[^11] 1.34] iti |
 
-[^११]:
-    भर्तृहरि-कृत-वाक्यपदीये।
+[^11]:
+    bhartṛhari-kṛta-vākyapadīye.
 
 
-अद्वैत-शारीरकेऽपि—“न च शक्यन्ते अतीतानागत-वर्तमानास् तार्किका एकस्मिन् देशे काले च समाहर्तुं येन तदीयं मतं सम्यग्-ज्ञानम् इति प्रतिपद्येमहि । वेदस्य च नित्यत्वे विज्ञानोत्पत्ति-हेतुत्वे च सति व्यवस्थित-विषयार्थत्वोपपत्तेः । तज्-जनितस्य ज्ञानस्य च सम्यक्त्वम् अतीतान् आगत-वर्तमानैः सर्वैर् अपि तार्किकैर् उपह्नोतुम् अशक्यम्” [ब्र।सू। २.१.११, शा।भा।] इति ।
+advaita-śārīrake'pi—“na ca śakyante atītānāgata-vartamānās tārkikā ekasmin deśe kāle ca samāhartuṁ yena tadīyaṁ mataṁ samyag-jñānam iti pratipadyemahi | vedasya ca nityatve vijñānotpatti-hetutve ca sati vyavasthita-viṣayārthatvopapatteḥ | taj-janitasya jñānasya ca samyaktvam atītān āgata-vartamānaiḥ sarvair api tārkikair upahnotum aśakyam” [bra.sū. 2.1.11, śā.bhā.] iti |
 
-यत् त्व् आगमे क्वचित् तर्केण बोधना दृश्यते, तत् तत्रैव शोभनम्, आगम-रूपत्वात्, बोधन-सौकर्यार्थ-मात्रोद्दिष्ट-तर्कत्वात् । यदि च यत् तर्केण सिध्यति, तद् एव वेद-वचनं प्रमाणम् इति स्यात्, तदा तर्क एवास्ताम्, किं वेदेनेति वैदिकम् अन्या अपि ते बाह्या एवेत्य् अयम् अभिप्रायः सर्वत्र । अत एव तेषां शृगालत्वम् एव गतिर् इत्य् उक्तं भारते [म।भा।[^१२] १२.१८०.४७-४९] । 
+yat tv āgame kvacit tarkeṇa bodhanā dṛśyate, tat tatraiva śobhanam, āgama-rūpatvāt, bodhana-saukaryārtha-mātroddiṣṭa-tarkatvāt | yadi ca yat tarkeṇa sidhyati, tad eva veda-vacanaṁ pramāṇam iti syāt, tadā tarka evāstām, kiṁ vedeneti vaidikam anyā api te bāhyā evety ayam abhiprāyaḥ sarvatra | ata eva teṣāṁ śṛgālatvam eva gatir ity uktaṁ bhārate [ma.bhā.[^12] 12.180.47-49] | 
 
-[^१२]:
-    शान्ति-पर्वणि कश्यप-शृगाल-संवादे।
+[^12]:
+    śānti-parvaṇi kaśyapa-śṛgāla-saṁvāde.
 
 
-यत् तु श्रोतव्यो मन्तव्य [बृ।आ।उ। २.४.५] इत्य्-आदिषु मननं नाम तर्कोऽङ्गीकृतः, तत्रैवम् उक्तं यथा कूर्म-पुराणे—
+yat tu śrotavyo mantavya [bṛ.ā.u. 2.4.5] ity-ādiṣu mananaṁ nāma tarko'ṅgīkṛtaḥ, tatraivam uktaṁ yathā kūrma-purāṇe—
 
 
-> पूर्वापराविरोधेन को न्व् अर्थोऽभिमतो भवेत् ।   
-> इत्य्-आद्यम् ऊहनं तर्कः शुष्क-तर्कं च वर्जयेत् ॥ इति ।  
+> pūrvāparāvirodhena ko nv artho'bhimato bhavet |   
+> ity-ādyam ūhanaṁ tarkaḥ śuṣka-tarkaṁ ca varjayet || iti |  
 > 
 
-अथैवं सर्वेषां वेद-वक्यानां प्रामाण्य एव स्थिते केचिद् एवम् आहुः—कार्य एवार्थे वेदस्य प्रामाण्यम्, न सिद्धे तत्रैव [क्रियान्वित-वेदे] शक्ति-तात्पर्ययोर् अवधारितत्वात् । तत्र शक्तिर् यथा—उत्तम-वृद्धेन मध्यम-वृद्धम् उद्दिश्य गाम् आनय [सा।द। २.७] इत्य् उक्ते तं गवानयन-प्रवृत्तम् उपलभ्य बालोऽस्य वचसः सास्नादिमत्-पिण्डानयनम् अर्थः इति प्रतिपद्यते । अनन्तरं गां चारय, अश्वम् आनय इत्य् आदाव् आवापोद्वापाभ्यां [गोश्चारणानयाभ्याम्] गो-शब्दस्य सास्नादिमान् अर्थः, आनयन-शब्दस्य च आहरणम् अर्थः इति सङ्केतम् अवधारयति । ततः प्रथमत एव कार्यान्वित एव प्रवृत्तेस् तत्रैव शक्ति-ग्रहः । तथा च तात्पर्यम् अपि तत्रैव भवेत् ।
+athaivaṁ sarveṣāṁ veda-vakyānāṁ prāmāṇya eva sthite kecid evam āhuḥ—kārya evārthe vedasya prāmāṇyam, na siddhe tatraiva [kriyānvita-vede] śakti-tātparyayor avadhāritatvāt | tatra śaktir yathā—uttama-vṛddhena madhyama-vṛddham uddiśya gām ānaya [sā.da. 2.7] ity ukte taṁ gavānayana-pravṛttam upalabhya bālo'sya vacasaḥ sāsnādimat-piṇḍānayanam arthaḥ iti pratipadyate | anantaraṁ gāṁ cāraya, aśvam ānaya ity ādāv āvāpodvāpābhyāṁ [goścāraṇānayābhyām] go-śabdasya sāsnādimān arthaḥ, ānayana-śabdasya ca āharaṇam arthaḥ iti saṅketam avadhārayati | tataḥ prathamata eva kāryānvita eva pravṛttes tatraiva śakti-grahaḥ | tathā ca tātparyam api tatraiva bhavet |
 
-अत्रोच्यते—सिद्धे शक्त्य्-अभावः कुतः? किं सङ्गति-ग्राहक-व्यवहारस्य सिद्धेऽभावात्? तत्रापि [अर्थ-सम्बन्धेन] कार्य-संसर्गित्वाद् वा? नाद्यः, “पुत्रस् ते जातः” इत्य्-आदि-वाक्य-जन्यस्य पित्रादि-श्रोतृ-व्यवहार-मुख-विकाशादेर् दर्शनात् । नापि द्वितीयः, कार्य-संसर्गित्वस्य पुत्र-जन्मादाव् अभावात् । न चात्रापि तं [तव जात-पुत्रं] पश्य इत्य्-आदिकं कार्यं कल्प्यम्, तत्-कल्पकाभावात् । प्राथमिक-कार्यान्वित-शक्ति-ग्रहानुपपत्तिर् एव तत्-कल्पिकेति चेत्? न । कार्यान्विते वाक्ये शक्ति-ग्रहासिद्धेः, कार्य-पद एव कार्यान्वितत्वाभावेन व्यभिचारात्, योग्येतरान्वितत्व-मात्रेण सङ्गति-ग्रहोपपत्तौ विशेषण-वैयर्थ्याच् च । न च कार्ये कार्यान्तरान्वितत्वम् अस्तीति वाच्यम्, तद्-अन्वितत्वायोगाद् अनवस्थापत्तेश् च । न च [कार्ये] कार्यान्वितत्व एव प्राथमिक-शक्ति-ग्रह-नियमः । [कार्यान्वित-व्यतिरिक्त]-सिद्ध-[पद]-निर्देशेऽपि बालक-व्युत्पत्तिर् दृश्यते इदं वस्त्रम् इत्य् आदौ । तस्मात् सिद्धे सिद्धायां शक्तौ दृष्टे च श्रोतृ-प्रतीति-विरोधाभावे वक्तुस् तात्पर्यम् अपि तत्र सेत्स्यतीति सिद्धवन्-निर्दिष्टानाम् उपनिषदादीनाम् अपि स्वार्थे प्रामाण्यम् अस्त्य् एव । 
+atrocyate—siddhe śakty-abhāvaḥ kutaḥ? kiṁ saṅgati-grāhaka-vyavahārasya siddhe'bhāvāt? tatrāpi [artha-sambandhena] kārya-saṁsargitvād vā? nādyaḥ, “putras te jātaḥ” ity-ādi-vākya-janyasya pitrādi-śrotṛ-vyavahāra-mukha-vikāśāder darśanāt | nāpi dvitīyaḥ, kārya-saṁsargitvasya putra-janmādāv abhāvāt | na cātrāpi taṁ [tava jāta-putraṁ] paśya ity-ādikaṁ kāryaṁ kalpyam, tat-kalpakābhāvāt | prāthamika-kāryānvita-śakti-grahānupapattir eva tat-kalpiketi cet? na | kāryānvite vākye śakti-grahāsiddheḥ, kārya-pada eva kāryānvitatvābhāvena vyabhicārāt, yogyetarānvitatva-mātreṇa saṅgati-grahopapattau viśeṣaṇa-vaiyarthyāc ca | na ca kārye kāryāntarānvitatvam astīti vācyam, tad-anvitatvāyogād anavasthāpatteś ca | na ca [kārye] kāryānvitatva eva prāthamika-śakti-graha-niyamaḥ | [kāryānvita-vyatirikta]-siddha-[pada]-nirdeśe'pi bālaka-vyutpattir dṛśyate idaṁ vastram ity ādau | tasmāt siddhe siddhāyāṁ śaktau dṛṣṭe ca śrotṛ-pratīti-virodhābhāve vaktus tātparyam api tatra setsyatīti siddhavan-nirdiṣṭānām upaniṣadādīnām api svārthe prāmāṇyam asty eva | 
 
-तद् उक्तम्—“तस्मान् मन्त्रार्थ-वादयोर् अन्य-[कर्म]-परत्वेऽपि स्वार्थे प्रामाण्यं भवत्य् एव । तद् यदि स्व-रसत एव निष्प्रतिबन्धम् अवधारित-रूपम् अनधिगत-विषयं च विज्ञानम् उत्पद्यते शब्दात्, तद्-अन्तरेणापि तात्पर्यं तस्य प्रामाण्यं किं न स्यात्? तत्-सङ्गान-विगानयोः [वन्दन-निन्दनयोः] पुनर् अनुवाद-गुण-वादत्वे, उपनिषदां पुनर्-अनन्य-शेषत्वाद् अपास्त-समस्तानर्थम् अनन्तानन्दैक-रसम् अनधिगतम् आत्म-तत्त्वं गमयन्तीनां प्रमानान्तर-विरोधेऽपि [विरुद्धस्य प्रत्यक्षादि-प्रमाणस्य] तस्यैवाभासी-करणेन च स्वार्थ एव प्रामाण्यम्” [भगवन्-नाम-कौमुदी १.१३] इति ।
+tad uktam—“tasmān mantrārtha-vādayor anya-[karma]-paratve'pi svārthe prāmāṇyaṁ bhavaty eva | tad yadi sva-rasata eva niṣpratibandham avadhārita-rūpam anadhigata-viṣayaṁ ca vijñānam utpadyate śabdāt, tad-antareṇāpi tātparyaṁ tasya prāmāṇyaṁ kiṁ na syāt? tat-saṅgāna-vigānayoḥ [vandana-nindanayoḥ] punar anuvāda-guṇa-vādatve, upaniṣadāṁ punar-ananya-śeṣatvād apāsta-samastānartham anantānandaika-rasam anadhigatam ātma-tattvaṁ gamayantīnāṁ pramānāntara-virodhe'pi [viruddhasya pratyakṣādi-pramāṇasya] tasyaivābhāsī-karaṇena ca svārtha eva prāmāṇyam” [bhagavan-nāma-kaumudī 1.13] iti |
 
-तद् एवं सर्वस्मिन्न् अपि वेदात्मके शब्दे स्वार्थं प्रति प्रामाण्यम् उपलब्धे, स कथम् अर्थं प्रसूत ? इति विव्रियते—तत्र वर्णानाम् आशु विनाशित्वान् नार्थं जनयितुं शक्तिः सम्भवति । ततश् च पूर्व-पूर्वाक्षर-जन्य-संस्कारवद् अन्त्याक्षरस्यैवार्थ-प्रत्यायकत्वं मन्यन्ते । ते च संस्काराः कार्य-मात्र-प्रत्यायिताः, अप्रत्यक्षत्वात् । संस्कार-कार्यस्य स्मरणस्य क्रम-वर्तित्वात् समुदाय-प्रत्ययाभावान् नान्त्य-वर्णस्याप्य् अर्थ-प्रत्यायकत्वम् इत्य् अभिप्रेत्यापरे तु स्फोटम् एव तत्-प्रत्यायकम् आहुः—“स च वर्णानाम् अनेकत्वेनैक-प्रत्ययानुपपत्तेर् एकैक-वर्ण-प्रत्ययाहित-संस्कार-बीजेऽन्त्य-वर्ण-प्रत्यय-जनित-परिपाके प्रत्ययिन्य् एक-प्रत्यय-विषयतया झटिति प्रत्यवभासते ।” [ब्र।सू। १.३.२८, शा।भा।] 
+tad evaṁ sarvasminn api vedātmake śabde svārthaṁ prati prāmāṇyam upalabdhe, sa katham arthaṁ prasūta ? iti vivriyate—tatra varṇānām āśu vināśitvān nārthaṁ janayituṁ śaktiḥ sambhavati | tataś ca pūrva-pūrvākṣara-janya-saṁskāravad antyākṣarasyaivārtha-pratyāyakatvaṁ manyante | te ca saṁskārāḥ kārya-mātra-pratyāyitāḥ, apratyakṣatvāt | saṁskāra-kāryasya smaraṇasya krama-vartitvāt samudāya-pratyayābhāvān nāntya-varṇasyāpy artha-pratyāyakatvam ity abhipretyāpare tu sphoṭam eva tat-pratyāyakam āhuḥ—“sa ca varṇānām anekatvenaika-pratyayānupapatter ekaika-varṇa-pratyayāhita-saṁskāra-bīje'ntya-varṇa-pratyaya-janita-paripāke pratyayiny eka-pratyaya-viṣayatayā jhaṭiti pratyavabhāsate |” [bra.sū. 1.3.28, śā.bhā.] 
 
-अत एव स्फोट-रूपत्वाद् वेदस्य नित्यत्वं “तस्य प्रत्युच्चारणं प्रत्यभिज्ञायमानत्वात्” [ब्र।सू। १.३.२८, शा।भा।] । वेदान्तिनस् तु, “वर्णा एव तु शब्द इति भगवान् उपवर्ष” [जैमिनी-कृतायां द्वादश-लक्षण्यां १.५.५।, शबर-कृत-भाष्ये] इत्य् एतं न्यायम् अनुसृत्य “द्विर्-गो”-शब्दोऽयम् उच्चारितः । न तु द्वौ गो-शब्दाव् इत्य् एकतैव सर्वैः प्रत्यभिज्ञायमानत्वाद् वर्णात्मकानाम् एव शब्दानां नित्यत्वम् अङ्गीकृत्य ते च वर्णाः पिपीलिका-पङ्क्तिवत् क्रमाद्य्-अनुगृहीतार्थ-विशेष-सम्बद्धाः सन्तः स्व-व्यवहारेऽप्य् एकैक-वर्ण-ग्रहणानन्तरं समस्त-वर्ण-प्रत्यय-दर्शिन्यां बुद्धौ तादृशम् एव प्रत्यवभासमानास् तं तम् अर्थम् अव्यभिचारेण प्रत्यायिष्यन्तीत्य् अतो वर्ण-वादिनां लघायसी कल्पना स्यात् । स्फोट-वादिनां तु दृष्ट-हानिर् अदृष्ट-कल्पना च । तथा वर्णाश् चेमे क्रमेण गृह्यमानाः स्फोटं व्यञ्जयन्ति । स स्फोटोऽर्थं व्यनक्तीति गरीयसी कल्पना स्याद् इति मन्यन्ते ।
+ata eva sphoṭa-rūpatvād vedasya nityatvaṁ “tasya pratyuccāraṇaṁ pratyabhijñāyamānatvāt” [bra.sū. 1.3.28, śā.bhā.] | vedāntinas tu, “varṇā eva tu śabda iti bhagavān upavarṣa” [jaiminī-kṛtāyāṁ dvādaśa-lakṣaṇyāṁ 1.5.5., śabara-kṛta-bhāṣye] ity etaṁ nyāyam anusṛtya “dvir-go”-śabdo'yam uccāritaḥ | na tu dvau go-śabdāv ity ekataiva sarvaiḥ pratyabhijñāyamānatvād varṇātmakānām eva śabdānāṁ nityatvam aṅgīkṛtya te ca varṇāḥ pipīlikā-paṅktivat kramādy-anugṛhītārtha-viśeṣa-sambaddhāḥ santaḥ sva-vyavahāre'py ekaika-varṇa-grahaṇānantaraṁ samasta-varṇa-pratyaya-darśinyāṁ buddhau tādṛśam eva pratyavabhāsamānās taṁ tam artham avyabhicāreṇa pratyāyiṣyantīty ato varṇa-vādināṁ laghāyasī kalpanā syāt | sphoṭa-vādināṁ tu dṛṣṭa-hānir adṛṣṭa-kalpanā ca | tathā varṇāś ceme krameṇa gṛhyamānāḥ sphoṭaṁ vyañjayanti | sa sphoṭo'rthaṁ vyanaktīti garīyasī kalpanā syād iti manyante |
 
-तद् एवं वर्ण-रूपाणाम् एव वेद-शब्दानां नित्यत्वम् अर्थ-प्रत्यायकत्वं चाङ्गीकृतम् । तत्र मुख्या-लक्षणा-गुण-भेदेन त्रिधा शब्द-वृत्तिः । मुख्यापि रूढि-योग-भेदेन द्विधा । **रूढिः **स्वरूपेण जात्या गुणेन वा निर्देशार्हे वस्तुनि संज्ञा-संज्ञि-सङ्केतेन प्रवर्तते । यथा—“डित्थः [काष्ठ-मयो हस्ती] गौः शुक्लः” । 
+tad evaṁ varṇa-rūpāṇām eva veda-śabdānāṁ nityatvam artha-pratyāyakatvaṁ cāṅgīkṛtam | tatra mukhyā-lakṣaṇā-guṇa-bhedena tridhā śabda-vṛttiḥ | mukhyāpi rūḍhi-yoga-bhedena dvidhā | **rūḍhiḥ **svarūpeṇa jātyā guṇena vā nirdeśārhe vastuni saṁjñā-saṁjñi-saṅketena pravartate | yathā—“ḍitthaḥ [kāṣṭha-mayo hastī] gauḥ śuklaḥ” | 
 
-**लक्षणा **तेनैव सङ्केतेनाभिहितार्थसम्बन्धिनी । यथा “गङ्गायां घोषः” । इयं पुनस् त्रिधा—अजहत्-स्वार्था, जहत्-स्वार्था, जहद्-अजहत्-स्वार्था च । यथा [क्रमेण] “श्वेतो धावति”, “गङ्गायां घोषः”, “सोऽयं देवदत्तः” इति । श्री-रामानुजादिभिस् त्व् अन्त्या न मन्यते, तत् तु तद्-ग्रन्थेष्व् एवान्वेष्टव्यम् । [सोऽयं देवदत्त इति दृष्टान्ते] स इति पदेन तत्-कालानुभूत उच्यते । अयम् इतीदानीम् अनुभूयमान उच्यते । अत्र द्वयोर् अन्वये विरोध एव नास्ति, कथं लक्षणा स्याद् इति संक्षेपः । 
+**lakṣaṇā **tenaiva saṅketenābhihitārthasambandhinī | yathā “gaṅgāyāṁ ghoṣaḥ” | iyaṁ punas tridhā—ajahat-svārthā, jahat-svārthā, jahad-ajahat-svārthā ca | yathā [krameṇa] “śveto dhāvati”, “gaṅgāyāṁ ghoṣaḥ”, “so'yaṁ devadattaḥ” iti | śrī-rāmānujādibhis tv antyā na manyate, tat tu tad-grantheṣv evānveṣṭavyam | [so'yaṁ devadatta iti dṛṣṭānte] sa iti padena tat-kālānubhūta ucyate | ayam itīdānīm anubhūyamāna ucyate | atra dvayor anvaye virodha eva nāsti, kathaṁ lakṣaṇā syād iti saṁkṣepaḥ | 
 
-**गौणी **चाभिहितार्थ-लक्षित-गुण-युक्ते तत्-सदृशे । यथा “सिंहो देवदत्तः” । 
+**gauṇī **cābhihitārtha-lakṣita-guṇa-yukte tat-sadṛśe | yathā “siṁho devadattaḥ” | 
 
-यथाहुः—
+yathāhuḥ—
 
 
-> अभिधेयाविना-भूत-प्रवृत्तिर् लक्षणेष्यते ।   
-> लक्ष्यमाण-गुणैर् योगाद् वृत्तेर् इष्टा तु गौणता ॥ [त।वा। १.४.२२] इति ।
+> abhidheyāvinā-bhūta-pravṛttir lakṣaṇeṣyate |   
+> lakṣyamāṇa-guṇair yogād vṛtter iṣṭā tu gauṇatā || [ta.vā. 1.4.22] iti |
 
-इह “लक्षणा” च “रूढिं” प्रयोजनं वापेक्ष्यैव भवति । आद्ये यथा “कलिङ्गः साहसिकः” । अन्ते यथा “गङ्गायां घोषः” [घोष-निवासः] । अत्र तटस्य शीतलत्व-पावनत्वादेर् बोधनं प्रयोजनम् । गौण्यां तु प्रयोजनम् एवापेक्ष्यम् । यथा “गौर् वाहीकः”, अज्ञत्वाद्य्-अतिशयबोधनम् अत्र प्रयोजनम् । योगस् तु एतत् त्रिविध-वृत्ति-प्रतिपादित-पदार्थयोः प्रकृति-प्रत्ययार्थयोर् योगेन । यथा “पङ्कजम्”, “औपगवः”, “पाचकः” ।
+iha “lakṣaṇā” ca “rūḍhiṁ” prayojanaṁ vāpekṣyaiva bhavati | ādye yathā “kaliṅgaḥ sāhasikaḥ” | ante yathā “gaṅgāyāṁ ghoṣaḥ” [ghoṣa-nivāsaḥ] | atra taṭasya śītalatva-pāvanatvāder bodhanaṁ prayojanam | gauṇyāṁ tu prayojanam evāpekṣyam | yathā “gaur vāhīkaḥ”, ajñatvādy-atiśayabodhanam atra prayojanam | yogas tu etat trividha-vṛtti-pratipādita-padārthayoḥ prakṛti-pratyayārthayor yogena | yathā “paṅkajam”, “aupagavaḥ”, “pācakaḥ” |
 
-व्यञ्जनाभिधा च वृत्तिर् मन्यते । यथा “गङ्गायां घोषः” इत्य् उक्ते तन्-निवास-भूतस्य तटस्य शीतलत्व-पावनत्वादिकं गम्यम् इत्य्-आदि । तद् उक्तम्—“शब्द-बुद्धि-कर्मणां विरम्य व्यापाराभाव इति नयेनाभिधा-लक्षणा-तात्पर्याख्यासु तिसृषु वृत्तिषु स्वं स्वम् अर्थं बोधयित्वोपक्षीणासु ययान्योऽर्थो बोध्यते, सा शब्दस्यार्थस्य प्रकृति-प्रत्ययादेश् च शक्तिर् व्यञ्जन-निगमन-ध्वनन-प्रत्यायन-भावाभिप्रायादि-व्यपदेश-विषया व्यञ्जना नम” [सा।द। २.१९, वृत्ति] इति ।
+vyañjanābhidhā ca vṛttir manyate | yathā “gaṅgāyāṁ ghoṣaḥ” ity ukte tan-nivāsa-bhūtasya taṭasya śītalatva-pāvanatvādikaṁ gamyam ity-ādi | tad uktam—“śabda-buddhi-karmaṇāṁ viramya vyāpārābhāva iti nayenābhidhā-lakṣaṇā-tātparyākhyāsu tisṛṣu vṛttiṣu svaṁ svam arthaṁ bodhayitvopakṣīṇāsu yayānyo'rtho bodhyate, sā śabdasyārthasya prakṛti-pratyayādeś ca śaktir vyañjana-nigamana-dhvanana-pratyāyana-bhāvābhiprāyādi-vyapadeśa-viṣayā vyañjanā nama” [sā.da. 2.19, vṛtti] iti |
 
-अथैताश् च वृत्तयः पद-वाक्यत्वम् आपन्नेष्व् एव शब्देषु तत्-तद्-अर्थं बोधयितुम् उदयन्ते । तस्य पदत्वं च विभक्त्य्-अर्थालिङ्गनेन जायते । तानि च पुनर्-वाक्यताम् आपद्य विशेषार्थं बोधयन्ति—वाक्यं स्याद् योग्यताकाङ्क्षासत्ति-युक्तः पदोच्चयः [सा।द। २.१] । तत्र, “योग्यता—पदार्थानां परस्पर-सम्बन्धे बाधाभवः । अन्यथा “वह्निना सिञ्चति” इत्य् अपि वाक्यं स्यात्” । प्रजापतिर् आत्मनो वपाम् उपाखिदत् [तै।स। २.५.१] इत्य् आदौ तु तद्-विधानाम् अचिन्त्य-प्रभावत्वाद् योग्यताऽस्त्य् एव । 
+athaitāś ca vṛttayaḥ pada-vākyatvam āpanneṣv eva śabdeṣu tat-tad-arthaṁ bodhayitum udayante | tasya padatvaṁ ca vibhakty-arthāliṅganena jāyate | tāni ca punar-vākyatām āpadya viśeṣārthaṁ bodhayanti—vākyaṁ syād yogyatākāṅkṣāsatti-yuktaḥ padoccayaḥ [sā.da. 2.1] | tatra, “yogyatā—padārthānāṁ paraspara-sambandhe bādhābhavaḥ | anyathā “vahninā siñcati” ity api vākyaṁ syāt” | prajāpatir ātmano vapām upākhidat [tai.sa. 2.5.1] ity ādau tu tad-vidhānām acintya-prabhāvatvād yogyatā'sty eva | 
 
-“आकाङ्क्षा प्रतीति-पर्यवसान-विरहः श्रोतृ-जिज्ञासा-रूपः । अन्यथा ‘गौर् अश्वःऽ, ‘पुरुषो हस्तीऽ इत्य् आदीनाम् अपि वाक्यत्वं स्यात् । [तत्रैव] आसत्तिः—बुद्ध्य्-अविच्छेदः । अन्यथेदानीम् उच्चारितस्य देवदत्त-पदस्य दिनान्तरोच्चारितेन गच्छतीति-पदेन सङ्गतिः स्यात् । अत्राकाङ्क्षा-योग्यतयोर् आत्मार्थ-धर्मत्वेऽपि पदोच्चय-धर्मत्वम् उपचारात्” [सा।द। २.१ वृत्तिः] इति ।
+“ākāṅkṣā pratīti-paryavasāna-virahaḥ śrotṛ-jijñāsā-rūpaḥ | anyathā ‘gaur aśvaḥ’, ‘puruṣo hastī’ ity ādīnām api vākyatvaṁ syāt | [tatraiva] āsattiḥ—buddhy-avicchedaḥ | anyathedānīm uccāritasya devadatta-padasya dināntaroccāritena gacchatīti-padena saṅgatiḥ syāt | atrākāṅkṣā-yogyatayor ātmārtha-dharmatve'pi padoccaya-dharmatvam upacārāt” [sā.da. 2.1 vṛttiḥ] iti |
 
-तच् च वाक्यं महा-वाक्यानुगतम् । महा-वाक्यं च वाक्य-समुदायः । अस्यार्थस् तूपक्रमोपसंहारादिभिर् एवावधार्यते । तथा हि [ब्र।सू। १.१.४७ माध्व-भाष्य-धृत-बृहत्-संहिता-वाक्यम्]—
+tac ca vākyaṁ mahā-vākyānugatam | mahā-vākyaṁ ca vākya-samudāyaḥ | asyārthas tūpakramopasaṁhārādibhir evāvadhāryate | tathā hi [bra.sū. 1.1.47 mādhva-bhāṣya-dhṛta-bṛhat-saṁhitā-vākyam]—
 
 
-> उपक्रमोपसंहाराव् अभ्यासोऽपूर्वता फलम् ।   
-> अर्थवादोपपत्ती च लिङ्गं तात्पर्य-निर्णये ॥ 
+> upakramopasaṁhārāv abhyāso'pūrvatā phalam |   
+> arthavādopapattī ca liṅgaṁ tātparya-nirṇaye || 
 
-(१) उपक्रमोपसंहारयोर् एक-रूपत्वम्, (२) [अभ्यासः] पौनःपुन्यम्, (३) [अपूर्वता] अनधिगतत्वम्, (४) फलं प्रयोजनम्, (५) [अर्थ-वादः] प्रशंसा, (६) [उपपत्तिः] युक्तिमत्त्वं चेति षड्-विधानि तात्पर्य-लिङ्गानि। एवम् अन्वय-व्यतिरेकाभ्यां गति-सामान्येनापि महा-वाक्यार्थोऽवगन्तव्यः । अत्र युक्तिमत्त्वं नाम न शुष्क-तर्कानुगृहीतत्वम्, किन्तु तच्-छास्त्रोदितं कथञ्चित् तत्-सम्भावना-मात्रं लक्षणं शास्त्र-वैयर्थ्य-प्रसङ्गाद् एव ।
+(1) upakramopasaṁhārayor eka-rūpatvam, (2) [abhyāsaḥ] paunaḥpunyam, (3) [apūrvatā] anadhigatatvam, (4) phalaṁ prayojanam, (5) [artha-vādaḥ] praśaṁsā, (6) [upapattiḥ] yuktimattvaṁ ceti ṣaḍ-vidhāni tātparya-liṅgāni| evam anvaya-vyatirekābhyāṁ gati-sāmānyenāpi mahā-vākyārtho'vagantavyaḥ | atra yuktimattvaṁ nāma na śuṣka-tarkānugṛhītatvam, kintu tac-chāstroditaṁ kathañcit tat-sambhāvanā-mātraṁ lakṣaṇaṁ śāstra-vaiyarthya-prasaṅgād eva |
 
-यत्र तु वाक्यान्तरेणैव विरोधः स्यात् तत्र बलाबलत्वं विवेचनीयम् । तच् च (१) शास्त्र-गतम्, (२) वचन-गतं च । (१) पूर्वं [शास्त्र-गतं] यथा, श्रुति-स्मृति-विरोधे तु श्रुतिर् एव बलीयसी इत्य्-आदि । उत्तरं च [वचन-गतं च] यथा, श्रुति-लिङ्ग-वाक्य-प्रकरण-स्थान-समाख्यानां समवाये पार-दौर्बल्यम् अर्थ-विप्रकर्षात् [पू।मी।सू। ३.३.१४] इत्य् अदि । निरुक्तानि चैतानि—
+yatra tu vākyāntareṇaiva virodhaḥ syāt tatra balābalatvaṁ vivecanīyam | tac ca (1) śāstra-gatam, (2) vacana-gataṁ ca | (1) pūrvaṁ [śāstra-gataṁ] yathā, śruti-smṛti-virodhe tu śrutir eva balīyasī ity-ādi | uttaraṁ ca [vacana-gataṁ ca] yathā, śruti-liṅga-vākya-prakaraṇa-sthāna-samākhyānāṁ samavāye pāra-daurbalyam artha-viprakarṣāt [pū.mī.sū. 3.3.14] ity adi | niruktāni caitāni—
 
 
-> श्रुतिश् च शब्दः क्षमता लिङ्गम्  
-> वाक्यं पदान्य् एव तु संहितानि ।   
-> सा प्रक्रिया यत् करणं सक्षाङ्क्षम्,   
-> स्थानं क्रमो योग-बलं समाख्या ॥ इति ।
+> śrutiś ca śabdaḥ kṣamatā liṅgam  
+> vākyaṁ padāny eva tu saṁhitāni |   
+> sā prakriyā yat karaṇaṁ sakṣāṅkṣam,   
+> sthānaṁ kramo yoga-balaṁ samākhyā || iti |
 
-तच् च विरोधित्वं परोक्ष-वादादि-निबन्धनं चिन्तयत्वेतर-वाक्यस्य बलवद्-वाक्यानुगतोऽर्थश् चिन्तनीयः । 
+tac ca virodhitvaṁ parokṣa-vādādi-nibandhanaṁ cintayatvetara-vākyasya balavad-vākyānugato'rthaś cintanīyaḥ | 
 
-इदं प्रतिपाद्यस्याचिन्त्यत्वे एव युक्ति-दूरत्वं व्याख्यातम्—अचिन्त्याः खलु ये भावा न तांस् तर्केण योजयेत् [म।भा। ६.६.११, स्कन्दे च] इत्य्-आदि-दर्शनेन । चिन्त्यत्वे तु युक्तिर् अप्य् अवकाशं लभते, चेल् लभताम्, न तत्रास्माकम् आग्रह इति सर्वथा वेदस्यैव प्रामाण्यम् । तद् उक्तं शङ्कर-शारीरकेऽपि—“आगम-बलेन ब्रह्म-वादी कारणादि-स्वरूपं निरूपयति, नावश्यं तस्य [अनुमानस्य] यथा-दृष्टं सर्वम् अभ्युपगतं मन्तव्यम्” [ब्र।सू। २.२.३८] इति ।
+idaṁ pratipādyasyācintyatve eva yukti-dūratvaṁ vyākhyātam—acintyāḥ khalu ye bhāvā na tāṁs tarkeṇa yojayet [ma.bhā. 6.6.11, skande ca] ity-ādi-darśanena | cintyatve tu yuktir apy avakāśaṁ labhate, cel labhatām, na tatrāsmākam āgraha iti sarvathā vedasyaiva prāmāṇyam | tad uktaṁ śaṅkara-śārīrake'pi—“āgama-balena brahma-vādī kāraṇādi-svarūpaṁ nirūpayati, nāvaśyaṁ tasya [anumānasya] yathā-dṛṣṭaṁ sarvam abhyupagataṁ mantavyam” [bra.sū. 2.2.38] iti |
 
-तद् एवं वेदो नामालौकिकः शब्दस् तस्य परमं प्रतिपद्यं यत् तद् अलौकिकत्वाद् अचिन्त्यम् एव भविष्यति । तस्मिंस् त्व् अन्वेष्टव्ये तद्-उपक्रमादिभिः सर्वेषाम् अप्य् उपरि यद् उपपद्यते, तद् एवोपास्यम् इति ॥११॥
+tad evaṁ vedo nāmālaukikaḥ śabdas tasya paramaṁ pratipadyaṁ yat tad alaukikatvād acintyam eva bhaviṣyati | tasmiṁs tv anveṣṭavye tad-upakramādibhiḥ sarveṣām apy upari yad upapadyate, tad evopāsyam iti ||11||
 
-**बलदेवः :** ननु कोऽयम् आग्रहो वेद एवास्माकं प्रमाणम् इति चेत् तत्राह—**तच् चानुमतम् इ**ति । श्री-व्यासाद्यैर् इति शेषः । तद्-वायान्य् आह तर्केत्यादीनि साध्य-साधनयोर् अपीत्य् अन्तानि । तर्केति ब्रह्म-सूत्र-खण्डः । तस्यार्थः—परमार्थ-निर्णयस् तर्केण न भवति पुरुष-बुद्धि-वैविध्येन तस्य नष्ट-प्रतिष्ठत्वात् । एवम् आह श्रुतिः नैषा तर्केण मतिर् आपनेया प्रोक्तान्येनैव सुज्ञानाय प्रेष्ठ [क।उ। १.२.९] इति । व्याप्यारोपेण व्यापकारोपस् तर्कः [स्थितर्क-सङ्ग्रह], यद्य् अयं निर्वह्निः स्यात् तदा निर्धूमः स्यात् इत्य् एवं रूपः । स च व्याप्ति-शङ्कां निरस्यन्न् अनुमानाङ्गं भवेद् अतस् तर्केणानुमानं ग्राह्यम् इति । अचिन्त्याः इत्य् उद्यम-पर्वणि दृष्टम् । शास्त्रेति ब्रह्म-सूत्रम् । न इत्य् आकृष्यम् । उपास्यो हरिर् अनुमानेनोपनिषदा वा वेद्य इति सन्देहे मन्तव्यः [बृ।आ।उ। ४.५.६] इति श्रुतेर् अनुमानेन स वेद्य इति प्राप्ते नानुमानेन वेद्यो हरिः । कुतः ? शास्त्रम् उपनिषद् योनिर् वेदन-हेतुर् यस्य तत्त्वात् । औपनिषदं पुरुषं पृच्छामि [बृ।आ।उ। ३.९.२६] इत्य् आद्या हि श्रुतिः । श्रुतेस् तु इति ब्रह्म-सूत्रं [२.१.१७] । न इत्य् अनुवर्तते । ब्रह्मणि लोक-दृष्टाः श्रमादयो दोषा न स्युः । कुतः । सोऽकामयत बहु स्यां प्रजायेय [तै।उ।२.६.१] इति सङ्कल्प-मात्रेण निखिल-सृष्टि-श्रवणात् । ननु श्रुतिर् बाधितं कथं ब्रूयाद् इति चेत् तत्राह शब्देति । अविचिन्त्यार्थस्य शब्दैक-प्रमाणकत्वात् । दृष्टं चैतन् मणि-मन्त्रादौ। पितृ-देव इत्य् उद्धवोक्तिर् एकादशे । हे ईश्वर, तव वेदः पित्रादीनां श्रेयः श्रेष्ठं चक्षुः । क्वेत्य् आह अनुपलब्धेऽर्थ इत्य्-आदि । तथा च वेद एवास्माकं प्रमाणम् इति मद्-वाक्यं सर्व-सम्मतिम् इति नापूर्वं मयोक्तम् ॥११॥
+**baladevaḥ :** nanu ko’yam āgraho veda evāsmākaṁ pramāṇam iti cet tatrāha—**tac cānumatam i**ti | śrī-vyāsādyair iti śeṣaḥ | tad-vāyāny āha tarketyādīni sādhya-sādhanayor apīty antāni | tarketi brahma-sūtra-khaṇḍaḥ | tasyārthaḥ—paramārtha-nirṇayas tarkeṇa na bhavati puruṣa-buddhi-vaividhyena tasya naṣṭa-pratiṣṭhatvāt | evam āha śrutiḥ naiṣā tarkeṇa matir āpaneyā proktānyenaiva sujñānāya preṣṭha [ka.u. 1.2.9] iti | vyāpyāropeṇa vyāpakāropas tarkaḥ [sthitarka-saṅgraha], yady ayaṁ nirvahniḥ syāt tadā nirdhūmaḥ syāt ity evaṁ rūpaḥ | sa ca vyāpti-śaṅkāṁ nirasyann anumānāṅgaṁ bhaved atas tarkeṇānumānaṁ grāhyam iti | acintyāḥ ity udyama-parvaṇi dṛṣṭam | śāstreti brahma-sūtram | na ity ākṛṣyam | upāsyo harir anumānenopaniṣadā vā vedya iti sandehe mantavyaḥ [bṛ.ā.u. 4.5.6] iti śruter anumānena sa vedya iti prāpte nānumānena vedyo hariḥ | kutaḥ ? śāstram upaniṣad yonir vedana-hetur yasya tattvāt | aupaniṣadaṁ puruṣaṁ pṛcchāmi [bṛ.ā.u. 3.9.26] ity ādyā hi śrutiḥ | śrutes tu iti brahma-sūtraṁ [2.1.17] | na ity anuvartate | brahmaṇi loka-dṛṣṭāḥ śramādayo doṣā na syuḥ | kutaḥ | so’kāmayata bahu syāṁ prajāyeya [tai.u.2.6.1] iti saṅkalpa-mātreṇa nikhila-sṛṣṭi-śravaṇāt | nanu śrutir bādhitaṁ kathaṁ brūyād iti cet tatrāha śabdeti | avicintyārthasya śabdaika-pramāṇakatvāt | dṛṣṭaṁ caitan maṇi-mantrādau| pitṛ-deva ity uddhavoktir ekādaśe | he īśvara, tava vedaḥ pitrādīnāṁ śreyaḥ śreṣṭhaṁ cakṣuḥ | kvety āha anupalabdhe’rtha ity-ādi | tathā ca veda evāsmākaṁ pramāṇam iti mad-vākyaṁ sarva-sammatim iti nāpūrvaṁ mayoktam ||11||
 
-**राधा-मोहन-गोस्वामी :** ब्रह्म-विद् आप्नोति परम् इत्य्-आदि-श्रुतेश् चेति चेन्, न, वेद-निरपेक्ष्यस्यानुमानस्य लोकातीत-श्री-कृष्ण-तल्-लीला-श्रवणादि भजनासाधनत्वात् । तर्काप्रतिष्ठानात् इति वेदान्त-सूत्रस्य शास्त्र-विना-कृतानुमानस्य वस्त्व् असाधकत्वाद् इत्य् अर्थः । अचिन्त्याः—लोकातीततया दुर्घटत्वेन प्रतीयमानाः । भावाः—ईश्वर-गुण-लीलादि-रूपाः शास्त्र-प्रसिद्धाः । तर्केण—स्व-मति-कल्पितानुमानेन । योजयेत्—मायिकत्वादि-रूपेण कल्पयेद् इति वचनार्थः शास्त्रं योनिः प्रमाणम् अस्येति सूत्रार्थः । यद् वा, शास्त्रस्य योनिः, कारणं तत्त्वात् । तथा च शास्त्रस्य परम-कारुणिक-यथार्थ-सर्वार्थ-दर्शि-प्रतारणादि-दोष-रहित-परमेश्वर-प्रणीतत्वेन शास्त्रम् एव गरीयः प्रमाणम् इति । 
+**rādhā-mohana-gosvāmī :** brahma-vid āpnoti param ity-ādi-śruteś ceti cen, na, veda-nirapekṣyasyānumānasya lokātīta-śrī-kṛṣṇa-tal-līlā-śravaṇādi bhajanāsādhanatvāt | tarkāpratiṣṭhānāt iti vedānta-sūtrasya śāstra-vinā-kṛtānumānasya vastv asādhakatvād ity arthaḥ | acintyāḥ—lokātītatayā durghaṭatvena pratīyamānāḥ | bhāvāḥ—īśvara-guṇa-līlādi-rūpāḥ śāstra-prasiddhāḥ | tarkeṇa—sva-mati-kalpitānumānena | yojayet—māyikatvādi-rūpeṇa kalpayed iti vacanārthaḥ śāstraṁ yoniḥ pramāṇam asyeti sūtrārthaḥ | yad vā, śāstrasya yoniḥ, kāraṇaṁ tattvāt | tathā ca śāstrasya parama-kāruṇika-yathārtha-sarvārtha-darśi-pratāraṇādi-doṣa-rahita-parameśvara-praṇītatvena śāstram eva garīyaḥ pramāṇam iti | 
 
-ननु शास्त्रस्य परमेश्वर-प्रणीतत्वे किं मानः ? इत्य् अतो वेदान्त-सूत्रो दर्शयति—श्रुतेस् तु शब्द-मात्रत्वात् इति । तु-कारः अन्य-प्रमाणतः प्रामान्य-सूचनाय । श्रुतेः—वेदस्य । शब्द-मूलत्वात्—अस्य महतो भूतस्य निश्वसितम् एतद् ऋग्-वेदो जायते [बृ।आ।उ। १.४.१५] इत्य्-आदि, यो ब्रह्माणं विदधाति पूर्वं वेदांश् च तस्मै प्रहिणोति इत्य्-आदि-श्रुति-रूप-शब्दः । मूलं—परमेश्वर-प्रणीतत्वे प्रमाणं यस्याः, तत्त्वात् । 
+nanu śāstrasya parameśvara-praṇītatve kiṁ mānaḥ ? ity ato vedānta-sūtro darśayati—śrutes tu śabda-mātratvāt iti | tu-kāraḥ anya-pramāṇataḥ prāmānya-sūcanāya | śruteḥ—vedasya | śabda-mūlatvāt—asya mahato bhūtasya niśvasitam etad ṛg-vedo jāyate [bṛ.ā.u. 1.4.15] ity-ādi, yo brahmāṇaṁ vidadhāti pūrvaṁ vedāṁś ca tasmai prahiṇoti ity-ādi-śruti-rūpa-śabdaḥ | mūlaṁ—parameśvara-praṇītatve pramāṇaṁ yasyāḥ, tattvāt | 
 
-पितृ-देव इति तव वेद-चक्षुर् इति समन्वयः । चक्षुः ज्ञापकम् । श्रेयः उत्तमम् । अनुपलब्धे प्रत्यक्षाद्य्-अगोचरे । अर्थे त्वत्-स्वरूप-गुण-लीलादि-रूपे । साध्यं—प्रेमादि-रूप-फलम्, साधनं तत्-साधनम्, तयोर् अपीत्य् अर्थः । श्रीमन्-मध्व-भाष्ये त्व् एवं व्याख्या—श्रुतेस् तु शब्द-मूलत्वाद् इति । न चेश्वर-पक्षे अयं विरोधः । योऽसौ विरुद्धोऽविरुद्धोऽनुरागवान् इन्द्रोऽनिन्द्रः प्रवृत्तिर् अप्रवृत्तिः स परः परमात्मा इति पैङ्ग्य्-आदि-श्रुतेर् एव शब्द-मूलत्वाच् च न विरोधः । 
+pitṛ-deva iti tava veda-cakṣur iti samanvayaḥ | cakṣuḥ jñāpakam | śreyaḥ uttamam | anupalabdhe pratyakṣādy-agocare | arthe tvat-svarūpa-guṇa-līlādi-rūpe | sādhyaṁ—premādi-rūpa-phalam, sādhanaṁ tat-sādhanam, tayor apīty arthaḥ | śrīman-madhva-bhāṣye tv evaṁ vyākhyā—śrutes tu śabda-mūlatvād iti | na ceśvara-pakṣe ayaṁ virodhaḥ | yo’sau viruddho’viruddho’nurāgavān indro’nindraḥ pravṛttir apravṛttiḥ sa paraḥ paramātmā iti paiṅgy-ādi-śruter eva śabda-mūlatvāc ca na virodhaḥ | 
 
 
-> यद् वाक्योक्तं न तद्-युक्तिर् विरोद्धुं शक्नुयात् क्वचित् ।   
-> विरोधे वाक्ययोः क्वापि किञ्चित् साहाय्य-कारणम् ॥
+> yad vākyoktaṁ na tad-yuktir viroddhuṁ śaknuyāt kvacit |   
+> virodhe vākyayoḥ kvāpi kiñcit sāhāyya-kāraṇam ||
 
-इति पुरुषोत्तम-तन्त्रे इति । ननु वेदस्य प्रामाण्ये सिद्धे एव वेदावगत-परमेश्वर-प्रणीतत्वक-वेदस्य बलवत्त्वम् अवधार्य, तच् च न सम्भवति, परस्पराश्रयाद् इति चेन्, न । स्थावर-जङ्गम-प्राणिनां सुख-दुःखादि-वैचित्र्येण मन्द-मध्योत्तम-योनि-वैचित्र्येण च तेषां कर्म-वैचित्र्यम् एव तद्-वैचित्र्य-कारणं वाच्यम् । कारणान्तरादर्शनात् । तानि च कर्माणि शास्त्रतोऽवगम्य अनादि-शिष्ट-परम्परया क्रियमाणानि दृश्यन्ते । शास्त्रोक्त-कर्मणां केषांचित् फलानि न दृश्यन्ते । ज्योतिर्-आयुर्-वेदादि-शास्त्राणि दृष्ट-फलानि सुप्रसिद्धानीति वेदस्य प्रामाण्यम् अवधार्यते । एव वेदः पौरुषेयो वाक्यत्वात् इत्य् आद्य् अनुमानेन वेद-प्रामाण्य-सिद्धाव् अपि वेदस्य नित्य-निर्दोष-परमेश्वर-प्रणीतत्वेन तद्-अर्थस्यानुमानादिना बाधस्यायोगात् वेदस्य प्रामाण्यम् । अनुमानस्य नाना-विधत्वेऽपि अनुकूल-तर्क-सह-कृतस्य प्रामाण्यम् अवगन्तव्यम् । तथा वेदार्थ-विचार एव सद्-अनुमानं विधेयम् इत्य् अपि बोध्यम् इति दिक् ॥११॥
+iti puruṣottama-tantre iti | nanu vedasya prāmāṇye siddhe eva vedāvagata-parameśvara-praṇītatvaka-vedasya balavattvam avadhārya, tac ca na sambhavati, parasparāśrayād iti cen, na | sthāvara-jaṅgama-prāṇināṁ sukha-duḥkhādi-vaicitryeṇa manda-madhyottama-yoni-vaicitryeṇa ca teṣāṁ karma-vaicitryam eva tad-vaicitrya-kāraṇaṁ vācyam | kāraṇāntarādarśanāt | tāni ca karmāṇi śāstrato’vagamya anādi-śiṣṭa-paramparayā kriyamāṇāni dṛśyante | śāstrokta-karmaṇāṁ keṣāṁcit phalāni na dṛśyante | jyotir-āyur-vedādi-śāstrāṇi dṛṣṭa-phalāni suprasiddhānīti vedasya prāmāṇyam avadhāryate | eva vedaḥ pauruṣeyo vākyatvāt ity ādy anumānena veda-prāmāṇya-siddhāv api vedasya nitya-nirdoṣa-parameśvara-praṇītatvena tad-arthasyānumānādinā bādhasyāyogāt vedasya prāmāṇyam | anumānasya nānā-vidhatve’pi anukūla-tarka-saha-kṛtasya prāmāṇyam avagantavyam | tathā vedārtha-vicāra eva sad-anumānaṁ vidheyam ity api bodhyam iti dik ||11||
 
-**गौर-किशोर-गोस्वामी :** न केवलम् अस्माभिः व्यसनितया सर्व-श्रेष्ठत्वेन वेदस्य प्रामाण्यं व्यवस्थापितम्, अपि तु श्री-व्यासादिभिः तद् अपि स्वीकृतम् । तद् आहुः—**तच् चानुमतम् इ**ति । यद् उक्तं तर्कस्याप्रतिष्ठितत्वं तद् अपि श्री-व्यास-कृत-ब्रह्म-सूत्रे—तर्काप्रतिष्ठानाद् अप्य् अन्यथानुमेयम् इति चेद् एवम् अप्य् अविमोक्ष-प्रसङ्गःइत्य् अत्र दर्शितम् । तर्कः व्यापकाभावत्वेन निर्णीते व्याप्यारोपे;न व्यापकारोपस् तर्कः इति सारार्थः । अप्राकृत-विषये तर्कस्यानवसरत्व-समर्थक-प्रमाण-श्लोकम् आह—अचिन्त्याः इति । 
+**gaura-kiśora-gosvāmī :** na kevalam asmābhiḥ vyasanitayā sarva-śreṣṭhatvena vedasya prāmāṇyaṁ vyavasthāpitam, api tu śrī-vyāsādibhiḥ tad api svīkṛtam | tad āhuḥ—**tac cānumatam i**ti | yad uktaṁ tarkasyāpratiṣṭhitatvaṁ tad api śrī-vyāsa-kṛta-brahma-sūtre—tarkāpratiṣṭhānād apy anyathānumeyam iti ced evam apy avimokṣa-prasaṅgaḥity atra darśitam | tarkaḥ vyāpakābhāvatvena nirṇīte vyāpyārope;na vyāpakāropas tarkaḥ iti sārārthaḥ | aprākṛta-viṣaye tarkasyānavasaratva-samarthaka-pramāṇa-ślokam āha—acintyāḥ iti | 
 
 
-> अचिन्त्याः खलु ये भावा न तांस् तर्केण साधयेत् ।  
-> प्रकृतिभ्यः परं यत् तु तद् अचिन्त्यस्य लक्षणम् ॥ [म।भा। ६.६.११] इति ।
+> acintyāḥ khalu ye bhāvā na tāṁs tarkeṇa sādhayet |  
+> prakṛtibhyaḥ paraṁ yat tu tad acintyasya lakṣaṇam || [ma.bhā. 6.6.11] iti |
 
-प्रकृतिभ्यः परम्, परम् अप्राकृतं मायातीतम् इति यावत् । तत्रैव श्री-ब्रह्म-सूत्रे, शास्त्र-योनित्वात्, श्रुतेस् तु शब्द-मूलत्वात् इत्य्-आदि-सूत्रे सर्वत्र शास्त्रस्यैव सर्वोपरि प्रामाण्यं स्थापितम् । अतो, “वेद एवास्माकं प्रमाणं” (१०) इति सिद्धान्तः सर्व-वादि-सम्प्रतिपन्नः । “चिन्त्यत्वे तु युक्तिर् अप्य् अवकाशं लभते, चेल् लभताम्, न तत्रास्माकम् आग्रह इति सर्वथा वेदस्यैव प्रामाण्यम्” इति संवादिनी ।
+prakṛtibhyaḥ param, param aprākṛtaṁ māyātītam iti yāvat | tatraiva śrī-brahma-sūtre, śāstra-yonitvāt, śrutes tu śabda-mūlatvāt ity-ādi-sūtre sarvatra śāstrasyaiva sarvopari prāmāṇyaṁ sthāpitam | ato, “veda evāsmākaṁ pramāṇaṁ” (10) iti siddhāntaḥ sarva-vādi-sampratipannaḥ | “cintyatve tu yuktir apy avakāśaṁ labhate, cel labhatām, na tatrāsmākam āgraha iti sarvathā vedasyaiva prāmāṇyam” iti saṁvādinī |
 
-इदम् अत्रानुसन्धेयं सूक्ष्मेक्षिका-परायणैः—तर्कस्य कुत्रापि पार्थगर्थ्येन प्रामाण्यं न सम्भवति । मूल-प्रमाण-विशेषम् उपजीव्य असम्भावना-विपरीत-सम्भावना-निराकरण-द्वारेण प्रमाण-परिगृहीतार्थस्यैव दार्ढ्यम् अनेन सम्पाद्यते । अलौकिके विषये लौकिक-प्रमाणानाम् अप्रवृत्तौ तत्र चालौकिकापौरुषेय-वेदस्यैवाधिकारात् का कथा तर्कस्य ? तद्-उपजीव्य-प्रमाणानाम् अपि तत्रानधिकारः । यदि वेद-परिगृहीतार्थस्य प्रतिबन्धक-शङ्का-निराश-द्वारा तर्कस्योपयोगोऽभ्युपगम्यते, तदा नास्माकं विप्रतिपत्तिः । वेदाविरोधिना तर्केण शास्त्र-तत्त्व-निर्णये तु गुण एव, शुष्क-तर्काश्रयेण धर्म-विघातनं पापम् एव इति शास्त्र-मर्यादा । तथा च तर्काश्रयणं तन्-मीमांसा-परिशोधित-प्रणाल्या एव कर्तव्यं नेतरथा ॥११॥
+idam atrānusandheyaṁ sūkṣmekṣikā-parāyaṇaiḥ—tarkasya kutrāpi pārthagarthyena prāmāṇyaṁ na sambhavati | mūla-pramāṇa-viśeṣam upajīvya asambhāvanā-viparīta-sambhāvanā-nirākaraṇa-dvāreṇa pramāṇa-parigṛhītārthasyaiva dārḍhyam anena sampādyate | alaukike viṣaye laukika-pramāṇānām apravṛttau tatra cālaukikāpauruṣeya-vedasyaivādhikārāt kā kathā tarkasya ? tad-upajīvya-pramāṇānām api tatrānadhikāraḥ | yadi veda-parigṛhītārthasya pratibandhaka-śaṅkā-nirāśa-dvārā tarkasyopayogo’bhyupagamyate, tadā nāsmākaṁ vipratipattiḥ | vedāvirodhinā tarkeṇa śāstra-tattva-nirṇaye tu guṇa eva, śuṣka-tarkāśrayeṇa dharma-vighātanaṁ pāpam eva iti śāstra-maryādā | tathā ca tarkāśrayaṇaṁ tan-mīmāṁsā-pariśodhita-praṇālyā eva kartavyaṁ netarathā ||11||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१२]
+[12]
 
-**तत्र च वेद-शब्दस्य सम्प्रति दुष्पारत्वाद् दुरधिगमार्थत्वाच् च तद्-अर्थ-निर्णायकानां मुनीनाम् अपि परस्पर-विरोधाद् वेद-रूपो वेदार्थ-निर्णायकश् चेतिहास-पुराणात्मकः शब्द एव विचारणीयः । तत्र च यो वा वेद-शब्दो नात्म-विदितः सोऽपि तद्-दृष्ट्यानुमेय एवेति सम्प्रति तस्यैव प्रमोत्पादकत्वं स्थितम् । तथा हिमहाभारते मानवीये****च—इतिहास-पुराणाभ्यां[^१३] वेदं समुपबृंहयेत् [म।भा। १.१.२६७] इति । पूरणात् पुराणम् इति चान्यत्र । न चावेदेन वेदस्य बृंहणं सम्भवति, न ह्य् अपरिपूर्णस्य कनक-वलयस्य त्रपुणा पूरणं युज्यते । **
+**tatra ca veda-śabdasya samprati duṣpāratvād duradhigamārthatvāc ca tad-artha-nirṇāyakānāṁ munīnām api paraspara-virodhād veda-rūpo vedārtha-nirṇāyakaś cetihāsa-purāṇātmakaḥ śabda eva vicāraṇīyaḥ | tatra ca yo vā veda-śabdo nātma-viditaḥ so’pi tad-dṛṣṭyānumeya eveti samprati tasyaiva pramotpādakatvaṁ sthitam | tathā himahābhārate mānavīye****ca—itihāsa-purāṇābhyāṁ[^13] vedaṁ samupabṛṁhayet [ma.bhā. 1.1.267] iti | pūraṇāt purāṇam iti cānyatra | na cāvedena vedasya bṛṁhaṇaṁ sambhavati, na hy aparipūrṇasya kanaka-valayasya trapuṇā pūraṇaṁ yujyate | **
 
-[^१३]:
-    अयं श्लोको मानवीये
+[^13]:
+    ayaṁ śloko mānavīye
 
 
-**ननु, यदि वेद-शब्दः पुराणम् इतिहासं चोपादत्ते, तर्हि पुराणम् अन्यद्****[^१४] अन्वेषणीयम् ? यदि तु न, न तर्हीतिहास-पुराणयोर् अभेदो वेदेन ? उच्यते—विशिष्टैकार्थ-प्रतिपादक-पद-कदम्बस्यापौरुषेयत्वाद् अभेदेऽपि स्वर-क्रम-भेदाद् भेद-निर्देशोऽप्य् उपपद्यते । ऋग्-आदिभिः समम् अनयोर् अपौरुषेयत्वेनाभेदो माध्यन्दिन-श्रुताव् एव व्यज्यते—एवं वा अरेऽस्य महतो भूतस्य निश्वसितम् एतद् यद् ऋग्-वेदो यजुर्-वेदः साम-वेदोऽथर्वाङ्गिरस इतिहासः पुराणं [बृ।आ।उ। २.४.१०] इत्य्-आदिना ॥१२॥**
+**nanu, yadi veda-śabdaḥ purāṇam itihāsaṁ copādatte, tarhi purāṇam anyad****[^14] anveṣaṇīyam ? yadi tu na, na tarhītihāsa-purāṇayor abhedo vedena ? ucyate—viśiṣṭaikārtha-pratipādaka-pada-kadambasyāpauruṣeyatvād abhede’pi svara-krama-bhedād bheda-nirdeśo’py upapadyate | ṛg-ādibhiḥ samam anayor apauruṣeyatvenābhedo mādhyandina-śrutāv eva vyajyate—evaṁ vā are’sya mahato bhūtasya niśvasitam etad yad ṛg-vedo yajur-vedaḥ sāma-vedo’tharvāṅgirasa itihāsaḥ purāṇaṁ [bṛ.ā.u. 2.4.10] ity-ādinā ||12||**
 
-[^१४]:
-    अन्यवद् इति क्वचित् पठ्यते।
+[^14]:
+    anyavad iti kvacit paṭhyate.
 
 
-**सर्व-संवादिनी : **अथैवं प्रमाण-निर्णये स्थितेऽपि पुनर् आशङ्क्योत्तर-पक्षं दर्शयति—“तत्र च वेद-शब्दस्य” इति । “सम्प्रति” कलौ । अप्रचरद्-रूपत्वेन दुर्मेधस्त्वेन च “दुष्पारत्वात्” ॥१२॥
+**sarva-saṁvādinī : **athaivaṁ pramāṇa-nirṇaye sthite'pi punar āśaṅkyottara-pakṣaṁ darśayati—“tatra ca veda-śabdasya” iti | “samprati” kalau | apracarad-rūpatvena durmedhastvena ca “duṣpāratvāt” ||12||
 
-**बलदेवः :** एवं चेद् ऋग्-आदि-वेदेनास्तु परमार्थ-विचारः, तत्राह—तत्र च वेद-शब्दस्येति । तर्हि न्यायादि-शास्त्रैर् वेदार्थ-निर्णेतृभिः सोऽस्तीति चेत् तत्राह—तद्-अर्थ-निर्णायकानाम् इति । तस्यैवेति इतिहास-पुराणात्मकस्य वेद-रूपस्येत्य् अर्थः । समुपबृंहयेद् इति वेदार्थं स्पष्टीकुर्याद् इत्य् अर्थः । पुराणाद् इति वेदार्थस्येति बोध्यम् । त्रपुणा सीसकेन । पुराणेतिहासयोर् वेद-रूपतायां कश्चिच् छङ्कते नन्व् इत्य्-आदिना । तत्र समाधत्ते उच्यत इत्य्-आदिना । निखिल-शक्ति-विशिष्ट-भगवद्-रूपैकार्थ-प्रतिपादकं यत् पदक-दम्ब-मृगादि-पुराणान्तं तस्येति । ऋग्-आदि-भागे स्वर-क्रमोऽस्ति इतिहास-पुराण-भागे तु स नास्तीत्य् एतद्-अंशेन भेदः । एवं वा इति मैत्रेयीं पत्नीं प्रति याज्ञवल्क्य-वचनम् । अरे मैत्रेयि अस्येश्वरस्य महतो विभोः पूज्यस्य वा भूतस्य पूर्व-सिद्धस्य । स्फुटार्थम् अन्यत् ॥१२॥
+**baladevaḥ :** evaṁ ced ṛg-ādi-vedenāstu paramārtha-vicāraḥ, tatrāha—tatra ca veda-śabdasyeti | tarhi nyāyādi-śāstrair vedārtha-nirṇetṛbhiḥ so’stīti cet tatrāha—tad-artha-nirṇāyakānām iti | tasyaiveti itihāsa-purāṇātmakasya veda-rūpasyety arthaḥ | samupabṛṁhayed iti vedārthaṁ spaṣṭīkuryād ity arthaḥ | purāṇād iti vedārthasyeti bodhyam | trapuṇā sīsakena | purāṇetihāsayor veda-rūpatāyāṁ kaścic chaṅkate nanv ity-ādinā | tatra samādhatte ucyata ity-ādinā | nikhila-śakti-viśiṣṭa-bhagavad-rūpaikārtha-pratipādakaṁ yat padaka-damba-mṛgādi-purāṇāntaṁ tasyeti | ṛg-ādi-bhāge svara-kramo’sti itihāsa-purāṇa-bhāge tu sa nāstīty etad-aṁśena bhedaḥ | evaṁ vā iti maitreyīṁ patnīṁ prati yājñavalkya-vacanam | are maitreyi asyeśvarasya mahato vibhoḥ pūjyasya vā bhūtasya pūrva-siddhasya | sphuṭārtham anyat ||12||
 
-**राधा-मोहन-गोस्वामी :** “दुष्पारत्वाद्” इति केषांचिद् वेदानाम् उच्छन्नत्वात् केषांचित् प्रच्छन्नत्वाच् च इति भावः । “तद्-अर्थ-निर्णायकाणां” वेदान्त-सूत्रादि-कारिणां “मुनीनां” व्यास-कणादादीनाम् । “वेद-रूपः”—गौण्या निरूढ-लक्षणया वेद-शब्द-प्रतिपाद्यः । “नात्म-विदितः”, अप्रचरद्-रूपत्वात् । “तद्-दृष्ट्या” इतिहास-पुराण-दृष्ट्या । “समुपबृंहयेत्” इति वेदयति विहित-निषिद्धं पर-तत्त्व-स्वरूपं च ज्ञापयति इति वेदः, तम् अभिधेय-प्रकाशतया पूरयेत् । इतिहास-पुराणयोर् वेद-शास्त्रान्तर्-भूतत्वं जानीयाद् इति यावत् । नाम-व्युत्पत्त्यापि वेद-समुपबृंहणम् आह—“पूरणाद्” इति, वेद-पूरणाद् इत्य् अर्थः । पुराणम् इति ह्रस्वः संज्ञायाम् । “बृंहणं” पूरणम् । 
+**rādhā-mohana-gosvāmī :** “duṣpāratvād” iti keṣāṁcid vedānām ucchannatvāt keṣāṁcit pracchannatvāc ca iti bhāvaḥ | “tad-artha-nirṇāyakāṇāṁ” vedānta-sūtrādi-kāriṇāṁ “munīnāṁ” vyāsa-kaṇādādīnām | “veda-rūpaḥ”—gauṇyā nirūḍha-lakṣaṇayā veda-śabda-pratipādyaḥ | “nātma-viditaḥ”, apracarad-rūpatvāt | “tad-dṛṣṭyā” itihāsa-purāṇa-dṛṣṭyā | “samupabṛṁhayet” iti vedayati vihita-niṣiddhaṁ para-tattva-svarūpaṁ ca jñāpayati iti vedaḥ, tam abhidheya-prakāśatayā pūrayet | itihāsa-purāṇayor veda-śāstrāntar-bhūtatvaṁ jānīyād iti yāvat | nāma-vyutpattyāpi veda-samupabṛṁhaṇam āha—“pūraṇād” iti, veda-pūraṇād ity arthaḥ | purāṇam iti hrasvaḥ saṁjñāyām | “bṛṁhaṇaṁ” pūraṇam | 
 
-पुराणं—वेद-शब्देनोपादीयमानं पुराणम् । अन्यवत् उच्छन्न-प्रच्छन्न-वेदवद् अन्वेषणीयम् इति । इदानीं प्रचरत्-पुराणेतिहासयोर् वेद-व्यवहाराभावाद् इति भावः । पद-कदम्बस्येति वेद-घटकस्य पुराणेतिहास-घटकस्य चेत्य् आदेः । अपौरुषेयत्वात् । जीवाप्रणीतत्वात्, परमेश्वर-प्रणीतत्वाद् इति यावत् । अभेदेऽपि वेद-शब्द-प्रतिपादत्वेऽपि, स्वर-क्रम-भेदात् । स्वर-क्रमयोर् भेदात् । भेद-निर्देशः वेद-पुराणयोर् भेदेन व्यवहारः । स्वरः—दात्तोदातादि-रूपः । तथा च दात्तोदात्तादि-स्वर-भेदेनाध्ययन-विधि-विषयता वेदस्य । पुराणेतिहासयोर् न दात्तादि-स्वर-भेदेनाध्ययन-विधि-विषयता, किन्तु—
+purāṇaṁ—veda-śabdenopādīyamānaṁ purāṇam | anyavat ucchanna-pracchanna-vedavad anveṣaṇīyam iti | idānīṁ pracarat-purāṇetihāsayor veda-vyavahārābhāvād iti bhāvaḥ | pada-kadambasyeti veda-ghaṭakasya purāṇetihāsa-ghaṭakasya cety ādeḥ | apauruṣeyatvāt | jīvāpraṇītatvāt, parameśvara-praṇītatvād iti yāvat | abhede’pi veda-śabda-pratipādatve’pi, svara-krama-bhedāt | svara-kramayor bhedāt | bheda-nirdeśaḥ veda-purāṇayor bhedena vyavahāraḥ | svaraḥ—dāttodātādi-rūpaḥ | tathā ca dāttodāttādi-svara-bhedenādhyayana-vidhi-viṣayatā vedasya | purāṇetihāsayor na dāttādi-svara-bhedenādhyayana-vidhi-viṣayatā, kintu—
 
 
-> इतिहास-पुराणानि श्रुत्वा भक्त्या विशाम्पते ।  
-> मुच्यते सर्व-पापेभ्यो ब्रह्म-हत्यादिभिर् विभो ॥  
-> ब्राह्मणं वाचकं विद्यान् नान्य-वर्णजम् आदरात् ।  
-> श्रुत्वान्य-वर्णजाद् राजन् वाचकान् नरकं व्रजेत् ।  
-> दत्त्वा च वाचकायेह श्रुतस्याप्नोति यत् फलम् ॥
+> itihāsa-purāṇāni śrutvā bhaktyā viśāmpate |  
+> mucyate sarva-pāpebhyo brahma-hatyādibhir vibho ||  
+> brāhmaṇaṁ vācakaṁ vidyān nānya-varṇajam ādarāt |  
+> śrutvānya-varṇajād rājan vācakān narakaṁ vrajet |  
+> dattvā ca vācakāyeha śrutasyāpnoti yat phalam ||
 
-कांस्योपदोहना कांस्य-क्रोडाः । वाचकः पूजितो येन प्रसन्नास् तस्य देवताः । तथा—
+kāṁsyopadohanā kāṁsya-kroḍāḥ | vācakaḥ pūjito yena prasannās tasya devatāḥ | tathā—
 
 
-> ज्ञात्वा पर्व-समाप्तिं च पूजयेद् वाचकं बुधः ।  
-> आत्मानम् अपि विक्रीय स इच्छेत् सफलं क्रतुम् ॥
+> jñātvā parva-samāptiṁ ca pūjayed vācakaṁ budhaḥ |  
+> ātmānam api vikrīya sa icchet saphalaṁ kratum ||
 
-तथा—
+tathā—
 
 
-> विस्पष्टम् अद्रुतं शान्तं स्पष्टाक्षर-पदं तथा ।  
-> कल-स्वर-समायुक्तं रस-भाव-समन्वितम् ।  
-> बुध्यमानः सदा ह्य् अर्थं ग्रन्थार्थं कृत्स्नशो नृप ।  
-> ब्राह्मणादिषु सर्वेषु ग्रन्थार्थं चार्पयेन् नृप ।  
-> य एवं वाचयेद् विद्वान् स विप्रो व्यास उच्यते ॥
+> vispaṣṭam adrutaṁ śāntaṁ spaṣṭākṣara-padaṁ tathā |  
+> kala-svara-samāyuktaṁ rasa-bhāva-samanvitam |  
+> budhyamānaḥ sadā hy arthaṁ granthārthaṁ kṛtsnaśo nṛpa |  
+> brāhmaṇādiṣu sarveṣu granthārthaṁ cārpayen nṛpa |  
+> ya evaṁ vācayed vidvān sa vipro vyāsa ucyate ||
 
-तथा—
+tathā—
 
 
-> सप्त-स्वर-समायुक्तं काले काले विशाम्पते ।  
-> प्रदर्शयन् रसान् सर्वान् वाचयेद् वाचको नृप ॥ इति ।
+> sapta-svara-samāyuktaṁ kāle kāle viśāmpate |  
+> pradarśayan rasān sarvān vācayed vācako nṛpa || iti |
 
-तिथि-तत्त्व-नैयतकालिक-कल्प-तरु-धृत-भविष्यत्-पुराणादि-वचनानुसारेणाध्ययन-विषयतेति विशेषाद् इति भावः । 
+tithi-tattva-naiyatakālika-kalpa-taru-dhṛta-bhaviṣyat-purāṇādi-vacanānusāreṇādhyayana-viṣayateti viśeṣād iti bhāvaḥ | 
 
-क्रम-भेदः—उपक्रमोपसंहार-विशेष-नियमित आनुपूर्वी-विशेषः । ऋग्-आद्य्-आख्यानुपूर्वी-विशेषवत्त्वं वेद-पद-प्रवृत्ति-निमित्तम्, स्वर-विशेषेणाध्ययन-विधि-विषयतावच्छेदकम्, शूद्रस्याध्ययन-श्रवणादि-निषेध-विषयतावच्छेदकं च । पुराणाद्य्-आनुपूर्वीमत्त्वं च, शूद्राध्ययन-निषेध-विषयतावच्छेदकम्, श्रवण-विधि-विषयतावच्छेदकं चेति वेद-पुराणाद्योर् अपौरुषेयत्वाविशेऽपि भेद-निर्देशः । विशिष्टैकार्थ-प्रतिपादक-वाच्य-कदम्बानां केनापि प्रमाणेन लोके प्राग्-अनवगतार्थ-पराणाम् अपौरुषेयाणां वेदत्वम् । पुराणादीनां च परम-दयालुना भगवता स्वयं स्त्री-शूद्र-ब्रह्म-बन्धूनां श्रवणाद्य्-अर्थं वेदाद् अनन्तरोक्तानां वेदाद् अवगतार्थ-बोधकतया न तत्र वेद-शब्दस्य मुख्या वृत्तिः, किन्तु गौणी वृत्तिः । तथा भेदेऽपि मुख्य-गौण-वेद-शब्द-प्रतिपादितानां वेद-पुराणेतिहासानाम् एक-ग्रन्थत्वम्, ब्रह्म-वेदन-रूपैक-प्रतिपत्ति-रूपत्वात् । सर्वे वेदा यत् पदम् आमनन्ति इति श्रुतेः । वेद-पुराणेतिहासानाम् अभेदेऽपि न वेदम् अपेक्ष्य पुराणेतिहासयोर् न्यूनत्वम् । परं तु तुल्य-प्रधान-भावः । अपौरुषेयत्वेन स्वतः प्रमाणता-तौल्यात् । 
+krama-bhedaḥ—upakramopasaṁhāra-viśeṣa-niyamita ānupūrvī-viśeṣaḥ | ṛg-ādy-ākhyānupūrvī-viśeṣavattvaṁ veda-pada-pravṛtti-nimittam, svara-viśeṣeṇādhyayana-vidhi-viṣayatāvacchedakam, śūdrasyādhyayana-śravaṇādi-niṣedha-viṣayatāvacchedakaṁ ca | purāṇādy-ānupūrvīmattvaṁ ca, śūdrādhyayana-niṣedha-viṣayatāvacchedakam, śravaṇa-vidhi-viṣayatāvacchedakaṁ ceti veda-purāṇādyor apauruṣeyatvāviśe’pi bheda-nirdeśaḥ | viśiṣṭaikārtha-pratipādaka-vācya-kadambānāṁ kenāpi pramāṇena loke prāg-anavagatārtha-parāṇām apauruṣeyāṇāṁ vedatvam | purāṇādīnāṁ ca parama-dayālunā bhagavatā svayaṁ strī-śūdra-brahma-bandhūnāṁ śravaṇādy-arthaṁ vedād anantaroktānāṁ vedād avagatārtha-bodhakatayā na tatra veda-śabdasya mukhyā vṛttiḥ, kintu gauṇī vṛttiḥ | tathā bhede’pi mukhya-gauṇa-veda-śabda-pratipāditānāṁ veda-purāṇetihāsānām eka-granthatvam, brahma-vedana-rūpaika-pratipatti-rūpatvāt | sarve vedā yat padam āmananti iti śruteḥ | veda-purāṇetihāsānām abhede’pi na vedam apekṣya purāṇetihāsayor nyūnatvam | paraṁ tu tulya-pradhāna-bhāvaḥ | apauruṣeyatvena svataḥ pramāṇatā-taulyāt | 
 
-यद् वा, वेद-शब्दस्य शक्ति-द्वयी । एका ऋग्-आद्य्-आनुपूर्वी-विशेष-रूपेण, अपरा च अपौरुषेयत्वेन ऋग्-आदि-वेद-चतुष्टय-पुराणेतिहास-साधारणी । इति वृत्ति-द्वय-स्वीकार-फलं चोक्तम् एवावधेयम् । अत्र वेद-पुराणं नाम—वेदोत्थापिताकाङ्क्षा-निवर्तनम् । तद् उक्तं—अर्थैक्याद् एकं वाक्यं साकाङ्ग्क्षं चेद् विभागे स्यात् इति । अर्थैक्यं—तात्पर्य-विषयार्थ-प्रतिपत्तेर् ऐक्यम् । वेद-स्थले तात्पर्य-विषय-प्रतिपत्तिर् ब्रह्म-तत्त्व-निर्णयः । एकं वाक्यं—एको ग्रन्थः । विभागे ग्रन्थयोः पृथग्-उपन्यासेऽपि । अत्राकाङ्क्षा—वेदार्थ-प्रतीतौ सत्यां तत्रासम्भावनादिना कथम् एतद्-अर्थ-सङ्गतिः ? इति शिष्य-जिज्ञासा । तन्-निवृत्तिश् च पुराणेतिहासाभ्यां क्रियते इति वेदम् अपेक्ष्य पुराणेतिहासयोर् उत्कर्ष-प्रतीतिर् इति वेद-पुराणयोर् एक-ग्रन्थत्वे पुराणेतिहासयोर् वेदार्थ-सङ्ग्राहकत्वेन पनुरुक्त्य-दोष इति परास्तम् । वेद-चतुष्टयार्थ-विवरण-रूपत्वात् तयोर् इति ॥१२॥
+yad vā, veda-śabdasya śakti-dvayī | ekā ṛg-ādy-ānupūrvī-viśeṣa-rūpeṇa, aparā ca apauruṣeyatvena ṛg-ādi-veda-catuṣṭaya-purāṇetihāsa-sādhāraṇī | iti vṛtti-dvaya-svīkāra-phalaṁ coktam evāvadheyam | atra veda-purāṇaṁ nāma—vedotthāpitākāṅkṣā-nivartanam | tad uktaṁ—arthaikyād ekaṁ vākyaṁ sākāṅgkṣaṁ ced vibhāge syāt iti | arthaikyaṁ—tātparya-viṣayārtha-pratipatter aikyam | veda-sthale tātparya-viṣaya-pratipattir brahma-tattva-nirṇayaḥ | ekaṁ vākyaṁ—eko granthaḥ | vibhāge granthayoḥ pṛthag-upanyāse’pi | atrākāṅkṣā—vedārtha-pratītau satyāṁ tatrāsambhāvanādinā katham etad-artha-saṅgatiḥ ? iti śiṣya-jijñāsā | tan-nivṛttiś ca purāṇetihāsābhyāṁ kriyate iti vedam apekṣya purāṇetihāsayor utkarṣa-pratītir iti veda-purāṇayor eka-granthatve purāṇetihāsayor vedārtha-saṅgrāhakatvena panuruktya-doṣa iti parāstam | veda-catuṣṭayārtha-vivaraṇa-rūpatvāt tayor iti ||12||
 
-**गौर-किशोर-गोस्वामी**: आदौ शब्दात्मक-वेदस्य प्रामाण्यं व्यवस्थाप्य तद्-अनन्तरं तद्-अर्थ-निर्णाय्क-पुराणस्य प्रामाण्यं सिद्धान्त-मुखेन पूर्वपक्ष-वाक्यानि समाधाय घोषयति—तत्र च इत्य्-आदिना । इदम् अत्राकुतः—भवेद् एतद् एवं पुराण-प्रामाण्यान्वेषणं कार्यं यदि वेदस्याप्राप्त्याशङ्का । पुराणस्य अस्मात् पृथक् शास्त्रत्वं वा स्यात् । वेदस्य वर्तमानत्वे वेदार्थ-व्याख्यातॄणां मुनीनां च प्रसिद्धत्वे वेदार्थ-निर्णायक-पुराणस्य प्रामाण्यावेषणा-प्रवृत्तेः कुतः सम्भावना ? साक्षाद् वेदेनैव सर्व-प्रयोजनानां सिद्धत्वात् । अत्र सिद्धान्तम् आह—“वेद-शास्त्रस्य सम्प्रति” इत्य्-आदिना “वेदार्थ-निर्णायकश् चेतिहास-पुराणात्मकः शब्द एव विचारणीयः” इत्य् अन्तेनेति ।
+**gaura-kiśora-gosvāmī**: ādau śabdātmaka-vedasya prāmāṇyaṁ vyavasthāpya tad-anantaraṁ tad-artha-nirṇāyka-purāṇasya prāmāṇyaṁ siddhānta-mukhena pūrvapakṣa-vākyāni samādhāya ghoṣayati—tatra ca ity-ādinā | idam atrākutaḥ—bhaved etad evaṁ purāṇa-prāmāṇyānveṣaṇaṁ kāryaṁ yadi vedasyāprāptyāśaṅkā | purāṇasya asmāt pṛthak śāstratvaṁ vā syāt | vedasya vartamānatve vedārtha-vyākhyātṝṇāṁ munīnāṁ ca prasiddhatve vedārtha-nirṇāyaka-purāṇasya prāmāṇyāveṣaṇā-pravṛtteḥ kutaḥ sambhāvanā ? sākṣād vedenaiva sarva-prayojanānāṁ siddhatvāt | atra siddhāntam āha—“veda-śāstrasya samprati” ity-ādinā “vedārtha-nirṇāyakaś cetihāsa-purāṇātmakaḥ śabda eva vicāraṇīyaḥ” ity anteneti |
 
-सम्प्रति कलौ युगे जनानाम् अल्पायुष्ट्वात् कलेः प्रभावात् हीन-बुद्धित्वाच् च वेदस्य च दुष्पारत्व्त् दुरधिगमार्थत्वं चेति ज्ञेयम् । तथा चोक्तं—
+samprati kalau yuge janānām alpāyuṣṭvāt kaleḥ prabhāvāt hīna-buddhitvāc ca vedasya ca duṣpāratvt duradhigamārthatvaṁ ceti jñeyam | tathā coktaṁ—
 
 
-> जन्म-संस्कार-विद्यादेः शक्तेः स्वाध्याय-कर्मणोः ।  
-> ह्रास-दर्शनतो ह्रासः सम्प्रदायस्य मीयताम् ॥ इति न्याय-कुसुमाञ्जलौ उदयनाचार्य-पादैः ।
+> janma-saṁskāra-vidyādeḥ śakteḥ svādhyāya-karmaṇoḥ |  
+> hrāsa-darśanato hrāsaḥ sampradāyasya mīyatām || iti nyāya-kusumāñjalau udayanācārya-pādaiḥ |
 
-अतः पुराणस्य प्रयोजनवत्वम् इति भावः । ये के च वेदात् पुराणस्य पृथक्-शास्त्रत्वं परिकल्प्य अस्य प्रामाण्यं निरस्यन्ति, तेषां मत-विमर्दनाय वेदेन सहास्याभिन्नत्वं स्थापयति, तत्र च यो वा वेद शब्दः इति । निगूढार्थत्वेनास्यास्पष्टांशस्य स्पष्टीकरणाय तथा वेदस्य पूरणाय पुराणस्योपयोगः । तद् उक्तं श्री-महाभारते पूरणात् पुराणम् इति । वेदं समुपबृंहयेत् इति । वेदार्तं स्पष्टीकुर्याद् इत्य् अर्थः । अपरिपूर्णांशस्य हि समजातीय-वस्तुना पूरणं लोकानां रीतिः । अन्यथा न च तत् पूरण-पद-वाच्यम् । तद् धि दृश्यते सह समजातीयत्वं सिद्धम् । तद् धीदं वाक्यं न चावेदेनेति त्रपुणा सीसकेन । पुराणस्य वेद-रूपतायाः स्वीकारेऽपि वेदस्य पुराणात् वैशिष्ट्यं न हीयते । उभयोर् अपौरुषेयत्वाद् अभेदेऽपि स्वर-क्रम-भेदो वर्तते । अतो—“वैशिष्ट्यैकार्थ्यैः” इति सन्दर्भः । पुराणस्य वेद-रूपत्वं न केवलम् अनुमानेनैवोपन्यस्तम्, अपि तु श्रुति-बलेनेति, वेदेन सहैकस्मात् पुरुषोत्तमात् समुद्भूतत्वात् वेदवत् पुराणस्यापि अपौरुषेयत्वं ज्ञेयम् । अतः तत्त्वतो वेदात् अभिन्नं पुराणं वेदवत् प्रमाणम् । अस्य वा महतो भूतस्य [बृ।आ।उ। २.४.१०] इति श्रुतेः ॥१२॥
+ataḥ purāṇasya prayojanavatvam iti bhāvaḥ | ye ke ca vedāt purāṇasya pṛthak-śāstratvaṁ parikalpya asya prāmāṇyaṁ nirasyanti, teṣāṁ mata-vimardanāya vedena sahāsyābhinnatvaṁ sthāpayati, tatra ca yo vā veda śabdaḥ iti | nigūḍhārthatvenāsyāspaṣṭāṁśasya spaṣṭīkaraṇāya tathā vedasya pūraṇāya purāṇasyopayogaḥ | tad uktaṁ śrī-mahābhārate pūraṇāt purāṇam iti | vedaṁ samupabṛṁhayet iti | vedārtaṁ spaṣṭīkuryād ity arthaḥ | aparipūrṇāṁśasya hi samajātīya-vastunā pūraṇaṁ lokānāṁ rītiḥ | anyathā na ca tat pūraṇa-pada-vācyam | tad dhi dṛśyate saha samajātīyatvaṁ siddham | tad dhīdaṁ vākyaṁ na cāvedeneti trapuṇā sīsakena | purāṇasya veda-rūpatāyāḥ svīkāre’pi vedasya purāṇāt vaiśiṣṭyaṁ na hīyate | ubhayor apauruṣeyatvād abhede’pi svara-krama-bhedo vartate | ato—“vaiśiṣṭyaikārthyaiḥ” iti sandarbhaḥ | purāṇasya veda-rūpatvaṁ na kevalam anumānenaivopanyastam, api tu śruti-baleneti, vedena sahaikasmāt puruṣottamāt samudbhūtatvāt vedavat purāṇasyāpi apauruṣeyatvaṁ jñeyam | ataḥ tattvato vedāt abhinnaṁ purāṇaṁ vedavat pramāṇam | asya vā mahato bhūtasya [bṛ.ā.u. 2.4.10] iti śruteḥ ||12||
 
-—ओ)०(ओ—
+—o)0(o—
 
-[१३]
+[13]
 
-**अतएवस्कान्द-प्रभास-खण्डे**—
+**ataevaskānda-prabhāsa-khaṇḍe**—
 
 
-> **पुरा तपश् चचारोग्रम् अमराणां पितामहः ।**  
-> **आविर्भूतास् ततो वेदाः स-षड्-अङ्ग-पद-क्रमाः ॥**  
-> **ततः पुराणम् अखिलं सर्व-शास्त्र-मयं ध्रुवम् ।**  
-> **नित्य-शब्द-मयं पुण्यं शत-कोटि-प्रविस्तरम् ॥**  
-> **निर्गतं ब्रह्मणो वक्त्रात् तस्य भेदान् निबोधत ।**  
-> **ब्राह्म्यं पुराणं प्रथमं [स्क।पु। २.३-५]इत्य्-आदि ।**
+> **purā tapaś cacārogram amarāṇāṁ pitāmahaḥ |**  
+> **āvirbhūtās tato vedāḥ sa-ṣaḍ-aṅga-pada-kramāḥ ||**  
+> **tataḥ purāṇam akhilaṁ sarva-śāstra-mayaṁ dhruvam |**  
+> **nitya-śabda-mayaṁ puṇyaṁ śata-koṭi-pravistaram ||**  
+> **nirgataṁ brahmaṇo vaktrāt tasya bhedān nibodhata |**  
+> **brāhmyaṁ purāṇaṁ prathamaṁ [ska.pu. 2.3-5]ity-ādi |**
 
-**अत्र शत-कोटि-सङ्ख्या ब्रह्म-लोके प्रसिद्धेति तथोक्तम् । **तृतीय-स्कन्धे **च—ऋग्-यजुः-सामाथर्वाख्यान् वेदान् पूर्वादिभिर् मुखैः [भा।पु।३.१२.३७] इत्य्-आदि-प्रकरणे, **
+**atra śata-koṭi-saṅkhyā brahma-loke prasiddheti tathoktam | **tṛtīya-skandhe **ca—ṛg-yajuḥ-sāmātharvākhyān vedān pūrvādibhir mukhaiḥ [bhā.pu.3.12.37] ity-ādi-prakaraṇe, **
 
 
-> **इतिहास-पुराणानि पञ्चमं वेदम् ईश्वरः ।**  
-> **सर्वेभ्य एव वक्त्रेभ्यः ससृजे सर्व-दर्शनः ॥ [भा**।पु।** ३.१२.३९] इति ।**
+> **itihāsa-purāṇāni pañcamaṁ vedam īśvaraḥ |**  
+> **sarvebhya eva vaktrebhyaḥ sasṛje sarva-darśanaḥ || [bhā**.pu.** 3.12.39] iti |**
 
-**अपि चात्र साक्षाद् एव वेद-शब्दः प्रयुक्तः पुराणेतिहासयोः । अन्यत्र च—पुराणं पञ्चमो वेदः । इतिहासः पुराणं च पञ्चमो वेद उच्यते [भा**।पु।** १.४.२०] । वेदान् अध्यापयामास महाभारत-पञ्चमान् [म।भा**।** १२.३४०.११] इत्य् आदौ । **
+**api cātra sākṣād eva veda-śabdaḥ prayuktaḥ purāṇetihāsayoḥ | anyatra ca—purāṇaṁ pañcamo vedaḥ | itihāsaḥ purāṇaṁ ca pañcamo veda ucyate [bhā**.pu.** 1.4.20] | vedān adhyāpayāmāsa mahābhārata-pañcamān [ma.bhā**.** 12.340.11] ity ādau | **
 
-**अन्यथा वेदान् इत्यादाव् अपि पञ्चमत्वं नावकल्पेत समान-जातीय-निवेशितत्वात् सङ्ख्यायाः ।भविष्य-पुराणे**—**कार्ष्णं च पञ्चमं वेदं यन् महाभारतं स्मृतम् इति। तथा चसाम-कौथुमीय-शाखायां छान्दोग्योपनिषदिच—ऋग्-वेदं भगवोऽध्येमि यजुर्-वेदं साम-वेदम् आथर्वणं चतुर्थम् इतिहासं पुराणं पञ्चमं वेदानां वेदं [छा।उ। ७.१.२] इत्य्-आदि । अत एव,अस्य महतो भूतस्य [बृ।आ।उ। २.४.१०] इत्य् आदाव् इतिहास-पुराणयोश् चतुर्णाम् एवान्तर्भूतत्व-कल्पनया प्रसिद्ध-प्रत्याख्यानं निरस्तम् । तद् उक्तं—ब्राह्मं पुराणं प्रथमम् इत्य्-आदि ॥१३॥**
+**anyathā vedān ityādāv api pañcamatvaṁ nāvakalpeta samāna-jātīya-niveśitatvāt saṅkhyāyāḥ |bhaviṣya-purāṇe**—**kārṣṇaṁ ca pañcamaṁ vedaṁ yan mahābhārataṁ smṛtam iti| tathā casāma-kauthumīya-śākhāyāṁ chāndogyopaniṣadica—ṛg-vedaṁ bhagavo’dhyemi yajur-vedaṁ sāma-vedam ātharvaṇaṁ caturtham itihāsaṁ purāṇaṁ pañcamaṁ vedānāṁ vedaṁ [chā.u. 7.1.2] ity-ādi | ata eva,asya mahato bhūtasya [bṛ.ā.u. 2.4.10] ity ādāv itihāsa-purāṇayoś caturṇām evāntarbhūtatva-kalpanayā prasiddha-pratyākhyānaṁ nirastam | tad uktaṁ—brāhmaṁ purāṇaṁ prathamam ity-ādi ||13||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** पुरेत्यादौ वेदानां पुराणानां चाविर्भाव उक्तः । ससृजे आविर्भावयामास । समानेति यज्ञ-दत्त-पञ्चमान् विप्रान् आमन्त्रयस्व इतिवत् । कार्ष्णम् इति कृष्णेन व्यासेनोक्तम् इत्य् अर्थः । अतएवेति पञ्चम-वेदत्व-श्रवणाद् एवेत्य् अर्थः । चतुर्णाम् एवान्तर्गते । तेष्व् एव यत् पुरा-वृत्तं यच् च पञ्च-लक्षणम् आख्यानम् । ते एव तद्-भूते ग्राह्ये । न तु ये व्यास-कृत-तत्त्वेन भुवि ख्याते शूद्राणाम् अपि श्रव्ये इति कर्मठैर् यत् कल्पितं, तन्निरस्तम् इत्य् अर्थः ॥१३॥
+**baladevaḥ :** puretyādau vedānāṁ purāṇānāṁ cāvirbhāva uktaḥ | sasṛje āvirbhāvayāmāsa | samāneti yajña-datta-pañcamān viprān āmantrayasva itivat | kārṣṇam iti kṛṣṇena vyāsenoktam ity arthaḥ | ataeveti pañcama-vedatva-śravaṇād evety arthaḥ | caturṇām evāntargate | teṣv eva yat purā-vṛttaṁ yac ca pañca-lakṣaṇam ākhyānam | te eva tad-bhūte grāhye | na tu ye vyāsa-kṛta-tattvena bhuvi khyāte śūdrāṇām api śravye iti karmaṭhair yat kalpitaṁ, tannirastam ity arthaḥ ||13||
 
-**राध-मोहन-गोस्वामी : **समान-जातीय-निवेशितत्वाद् इति । समान-जातीय एव पूरकेऽन्वयात्, स्वान्वयितावच्छेदक-धर्माच्छिन्नेनैव पूरणाद् इति यावत् । वेद-गत-सङ्ख्याया अवेदेन पूरणं न भवतीति पर्यवसितम् । वेदानां वेदम् इति ऋग्-आदि-चतुर्णां वेदानाम् अर्थावेदकं पुराणम् इत्य् अर्थः । अत एव—श्रुति-श्रुतिभिर् इतिहास-पुराणयोः पञ्चमत्व-निरुक्तेर् एव । अन्तर्भूतत्व-कलनयेति—चतुर्णां वेदानाम् अन्तर्भूतत्व-कल्पनं—अस्य महतो भूतस्य [बृ।आ।उ। २.४.१०]—ऋग्-वेदः प्रथमः, ततो यजुर्-वेदः, ततः साम-वेदः, ततोऽथर्वाङ्गिरसः, अथर्व-वेदः । तेष्व् इतिहास-पुराणम् इति श्रुत्य्-अर्थ-कल्पनात् । तत्रायम् अभिप्रायः—तस्मात् तपस् तेपानाच् चत्वारो वेदा अजायन्त, ऋचः सामानि जज्ञिरे इत्य् अत्र सामान्यतो वेद-चतुष्टयत्वम् उक्त्वा तद्-विवरणं—ऋच इत्य्-आदि । तपस् तेपनात् ईश्वरात् । तथा “महतो भूतस्य” इति श्रुताव् अपि वेद-चतुष्टय-कथनानन्तरं तद्-घटकेतिहास-पुराणम् आह—अन्यथा न वा—अस्य महतो भूतस्य इति श्रुतौ इतिहासः पुराणम् इत्य् अनन्तरम्, “विद्या उपनिषद्” इत्य्-आदि-श्रवणात् विद्योपनिषाम् अपि वेद-चतुष्टयानन्तर्गतत्वापत्तिः, प्रसिद्ध-भारतादीतिहास-ब्राह्मादि-पुराणानां वेदार्थ-सङ्ग्राहकत्वेन व्यासादि-कृतत्वेन न प्रसिद्धिर् न तेषाम् अपौरुषेयत्वम्, तथा ऋग्-आदि-वेद-मध्ये, संयुं प्रजापतिं देवा अब्रुवन् इत्य् आद्य् उपक्रम्य, यो ब्राह्मणायावगुरेत् तं शतेन यातयेति इत्य्-आदि-श्रुतेः, अवचनेनैव प्रोवाच इत्य्-आदि श्रुतेश् चेतिहास-रूपत्वात् । यतो वा इमानि भूतानि जायन्त इत्य्-आदि-श्रुतेः, एतस्माद् आत्मन आकाशः सम्भूतः इत्य्-आदि-श्रुतेः । स ब्रह्मणा सृजति रुद्र् विलापयति हरिर् आदिर् अनादिः इत्य्-आदि-श्रुतेश् च सर्ग-विसर्ग-निरोध-भगवद्-अवतारादि-कथन-लक्षण-पुराण-रूपत्वाच् च केषांचिद् उच्छन्न-प्रच्छन्नतयाधुनिकानां जनानाम् अज्ञातत्वात्, प्रचरद्-रूपाणाम् अपि दुरूहत्वात्, व्यासेन तद्-अर्थान् सङ्कलय्य भारतादीतिहास-पुराणानि कृतानीति बोध्यम् । 
+**rādha-mohana-gosvāmī : **samāna-jātīya-niveśitatvād iti | samāna-jātīya eva pūrake’nvayāt, svānvayitāvacchedaka-dharmācchinnenaiva pūraṇād iti yāvat | veda-gata-saṅkhyāyā avedena pūraṇaṁ na bhavatīti paryavasitam | vedānāṁ vedam iti ṛg-ādi-caturṇāṁ vedānām arthāvedakaṁ purāṇam ity arthaḥ | ata eva—śruti-śrutibhir itihāsa-purāṇayoḥ pañcamatva-nirukter eva | antarbhūtatva-kalanayeti—caturṇāṁ vedānām antarbhūtatva-kalpanaṁ—asya mahato bhūtasya [bṛ.ā.u. 2.4.10]—ṛg-vedaḥ prathamaḥ, tato yajur-vedaḥ, tataḥ sāma-vedaḥ, tato’tharvāṅgirasaḥ, atharva-vedaḥ | teṣv itihāsa-purāṇam iti śruty-artha-kalpanāt | tatrāyam abhiprāyaḥ—tasmāt tapas tepānāc catvāro vedā ajāyanta, ṛcaḥ sāmāni jajñire ity atra sāmānyato veda-catuṣṭayatvam uktvā tad-vivaraṇaṁ—ṛca ity-ādi | tapas tepanāt īśvarāt | tathā “mahato bhūtasya” iti śrutāv api veda-catuṣṭaya-kathanānantaraṁ tad-ghaṭaketihāsa-purāṇam āha—anyathā na vā—asya mahato bhūtasya iti śrutau itihāsaḥ purāṇam ity anantaram, “vidyā upaniṣad” ity-ādi-śravaṇāt vidyopaniṣām api veda-catuṣṭayānantargatatvāpattiḥ, prasiddha-bhāratādītihāsa-brāhmādi-purāṇānāṁ vedārtha-saṅgrāhakatvena vyāsādi-kṛtatvena na prasiddhir na teṣām apauruṣeyatvam, tathā ṛg-ādi-veda-madhye, saṁyuṁ prajāpatiṁ devā abruvan ity ādy upakramya, yo brāhmaṇāyāvaguret taṁ śatena yātayeti ity-ādi-śruteḥ, avacanenaiva provāca ity-ādi śruteś cetihāsa-rūpatvāt | yato vā imāni bhūtāni jāyanta ity-ādi-śruteḥ, etasmād ātmana ākāśaḥ sambhūtaḥ ity-ādi-śruteḥ | sa brahmaṇā sṛjati rudr vilāpayati harir ādir anādiḥ ity-ādi-śruteś ca sarga-visarga-nirodha-bhagavad-avatārādi-kathana-lakṣaṇa-purāṇa-rūpatvāc ca keṣāṁcid ucchanna-pracchannatayādhunikānāṁ janānām ajñātatvāt, pracarad-rūpāṇām api durūhatvāt, vyāsena tad-arthān saṅkalayya bhāratādītihāsa-purāṇāni kṛtānīti bodhyam | 
 
-“प्रसिद्ध-प्रत्याख्यानं” प्रसिद्धानां भारत-ब्राह्मादीनां वेदत्व-प्रत्याख्यानं निरस्तम् इति । इतिहास-पुराणयोः श्रुतौ क्रमिक-जातत्वेन कथनाद् इतिहासस्य पञ्चमत्वम्, पुराणस्य षष्ठत्वं यद्यपि वक्तुम् उचितम्, तथापीतिहास-पुराणयोर् वेदार्थ-विवरण-रूपत्वेनैक्यम् आदृत्य प्रथमत्वम् उक्तम्, स्वतन्त्रेच्छत्वाद् भगवतः । श्रुतौ प्राग् इतिहास-निःसरणं ततः पुराणम् इति क्रम-निर्देशात् व्यासेन तत्-क्रमेणैव तयोर् आविर्भावनम् । तेन भारतानन्तरम् एव पुराण-सङ्ग्रहः कृत इति ।
+“prasiddha-pratyākhyānaṁ” prasiddhānāṁ bhārata-brāhmādīnāṁ vedatva-pratyākhyānaṁ nirastam iti | itihāsa-purāṇayoḥ śrutau kramika-jātatvena kathanād itihāsasya pañcamatvam, purāṇasya ṣaṣṭhatvaṁ yadyapi vaktum ucitam, tathāpītihāsa-purāṇayor vedārtha-vivaraṇa-rūpatvenaikyam ādṛtya prathamatvam uktam, svatantrecchatvād bhagavataḥ | śrutau prāg itihāsa-niḥsaraṇaṁ tataḥ purāṇam iti krama-nirdeśāt vyāsena tat-krameṇaiva tayor āvirbhāvanam | tena bhāratānantaram eva purāṇa-saṅgrahaḥ kṛta iti |
 
 
-> अष्टादश-पुराणानि कृत्वा सत्यवती-सुतः ।  
-> भारताख्यानम् अखिलं चक्रे तद्-उपबृंहितम् ॥
+> aṣṭādaśa-purāṇāni kṛtvā satyavatī-sutaḥ |  
+> bhāratākhyānam akhilaṁ cakre tad-upabṛṁhitam ||
 
-इति वचनस्यार्थः—सत्यवती-सुतः अष्टादश-पुराणं कृत्वा भारताख्यानम् अखिलं पूर्णं चक्रे । खिल-शब्दस्यानर्थत्वात् । तद्-उपबृंहितं—वेदार्थैर् युतम् । यद् वा, अखिलं तद् एव लोकादि-गत-सर्वं भारताख्यानम्, तद्-उपबृंहितं तैः पुराणैः । उपबृंहितं पूर्णं चक्रे इत्य् अन्वयः, न तु अष्टादश-पुराणानि कृत्वा भारतं चक्रे इत्य् अन्वयः, श्रुत्य्-आदि-विरोधापत्तेः । अत एव वक्ष्यमाण-गरुड-पुराण-भागवत-लक्षणे—अर्थोऽयं ब्रह्म-सूत्राणां भारतार्थ-विनिर्णयः इत्य् उक्तम् । तथोक्तम् इति—प्रसिद्ध-पुराणस्य वेदत्वम् उक्तम् ॥१३॥
+iti vacanasyārthaḥ—satyavatī-sutaḥ aṣṭādaśa-purāṇaṁ kṛtvā bhāratākhyānam akhilaṁ pūrṇaṁ cakre | khila-śabdasyānarthatvāt | tad-upabṛṁhitaṁ—vedārthair yutam | yad vā, akhilaṁ tad eva lokādi-gata-sarvaṁ bhāratākhyānam, tad-upabṛṁhitaṁ taiḥ purāṇaiḥ | upabṛṁhitaṁ pūrṇaṁ cakre ity anvayaḥ, na tu aṣṭādaśa-purāṇāni kṛtvā bhārataṁ cakre ity anvayaḥ, śruty-ādi-virodhāpatteḥ | ata eva vakṣyamāṇa-garuḍa-purāṇa-bhāgavata-lakṣaṇe—artho’yaṁ brahma-sūtrāṇāṁ bhāratārtha-vinirṇayaḥ ity uktam | tathoktam iti—prasiddha-purāṇasya vedatvam uktam ||13||
 
-**गौर-किशोर-गोस्वामी : **पुराणस्य प्रामाण्य-दृढीकरणाय अस्यैव तु पञ्चम-वेदत्वं निर्दिशति । षड्-अङ्ग-वेद-पुराणानाम् आविर्भाव-कथाम् आह—पुरा इति । अनित्यत्वाशङ्का-निरासाय आह—नित्य-शब्द-मयः इति । ध्वंस-प्राग्-अभाव-रहितत्वं हि नित्यत्वम् । ससृजे आविर्भावयामास । अन्यथा कर्मज-सृष्टि-स्वीकार अनित्यत्व-प्रसङ्गात् स्व-वचन-विरोधः । पुराणस्य पञ्चम-वेदत्व-ज्ञापक-श्लोकाः यथा-क्रमेणोद्धृताः । पुराणं पञ्चमं वेदम् इत्य् आदीनि । कार्ष्णः कृष्ण-द्वैपायण-व्यासेन रचितं सङ्कलितम् । न केवलं पुराण-वचन-बलेन पञ्चम-वेदत्वं व्यवस्थापितम्, अपि तु ऋग्-वेदं भगवोऽध्येमि इत्य्-आदि श्रुत्या पुराणस्य पञ्चम-वेदत्वं निर्दिष्टम् । पुराणादौ शूद्राणाम् अधिकार-दर्शनात् न चैषां वेद-रूपत्वम् इति यः पूर्व-पक्षिणाम् आक्षेपः सोऽप्य् अनेन निरस्तः ॥१३॥
+**gaura-kiśora-gosvāmī : **purāṇasya prāmāṇya-dṛḍhīkaraṇāya asyaiva tu pañcama-vedatvaṁ nirdiśati | ṣaḍ-aṅga-veda-purāṇānām āvirbhāva-kathām āha—purā iti | anityatvāśaṅkā-nirāsāya āha—nitya-śabda-mayaḥ iti | dhvaṁsa-prāg-abhāva-rahitatvaṁ hi nityatvam | sasṛje āvirbhāvayāmāsa | anyathā karmaja-sṛṣṭi-svīkāra anityatva-prasaṅgāt sva-vacana-virodhaḥ | purāṇasya pañcama-vedatva-jñāpaka-ślokāḥ yathā-krameṇoddhṛtāḥ | purāṇaṁ pañcamaṁ vedam ity ādīni | kārṣṇaḥ kṛṣṇa-dvaipāyaṇa-vyāsena racitaṁ saṅkalitam | na kevalaṁ purāṇa-vacana-balena pañcama-vedatvaṁ vyavasthāpitam, api tu ṛg-vedaṁ bhagavo’dhyemi ity-ādi śrutyā purāṇasya pañcama-vedatvaṁ nirdiṣṭam | purāṇādau śūdrāṇām adhikāra-darśanāt na caiṣāṁ veda-rūpatvam iti yaḥ pūrva-pakṣiṇām ākṣepaḥ so’py anena nirastaḥ ||13||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१४]
+[14]
 
-**पञ्चमत्वे कारणं च वायु-पुराणेसूत-वाक्यम्—**
+**pañcamatve kāraṇaṁ ca vāyu-purāṇesūta-vākyam—**
 
 
-> **इतिहास-पुराणानां वक्तारं सम्यग् एव हि ।**  
-> **मां चैव प्रतिजग्राह भगवान् ईश्वरः प्रभुः ॥**  
-> **एक आसीद् यजुर् वेदस् तं चतुर्धा व्यकल्पयत् ।**  
-> **चातुर्होत्रम् अभूत् तस्मिंस् तेनयज्ञम् अकल्पयत् ॥**  
-> **आध्वर्यवं यजुर्भिस् तु ऋग्भिर् होत्रं तथैव च ।**  
-> **औद्गात्रं सामभिश् चैव ब्रह्मत्वं चाप्य् अथर्वभिः ॥ [वा।पु। ६०.१६-१८]**  
-> **आख्यानैश् चाप्य् उपाख्यानैर् गाथाभिर् द्विज-सत्तमाः।**  
-> **पुराण-संहिताश् चक्रे पुराणार्थ-विशारदः ॥**  
-> **यच् छिष्टं तु यजुर्-वेद इति शास्त्रार्थ-निर्णयः । [वा।पु। ६०.२१-२२]**
+> **itihāsa-purāṇānāṁ vaktāraṁ samyag eva hi |**  
+> **māṁ caiva pratijagrāha bhagavān īśvaraḥ prabhuḥ ||**  
+> **eka āsīd yajur vedas taṁ caturdhā vyakalpayat |**  
+> **cāturhotram abhūt tasmiṁs tenayajñam akalpayat ||**  
+> **ādhvaryavaṁ yajurbhis tu ṛgbhir hotraṁ tathaiva ca |**  
+> **audgātraṁ sāmabhiś caiva brahmatvaṁ cāpy atharvabhiḥ || [vā.pu. 60.16-18]**  
+> **ākhyānaiś cāpy upākhyānair gāthābhir dvija-sattamāḥ|**  
+> **purāṇa-saṁhitāś cakre purāṇārtha-viśāradaḥ ||**  
+> **yac chiṣṭaṁ tu yajur-veda iti śāstrārtha-nirṇayaḥ | [vā.pu. 60.21-22]**
 
-**इति ब्रह्म-यज्ञाध्ययने च विनियोगो दृश्यतेऽमीषां यद् ब्राह्मणानीतिहास-पुराणानि इति । सोऽपि नावेदत्वे सम्भवति । अतो यद् आह भगवान्मात्स्ये—**
+**iti brahma-yajñādhyayane ca viniyogo dṛśyate’mīṣāṁ yad brāhmaṇānītihāsa-purāṇāni iti | so’pi nāvedatve sambhavati | ato yad āha bhagavānmātsye—**
 
 
-> **कालेनाग्रहणं मत्वा पुराणस्य द्विजोत्तमाः ।**  
-> **व्यास-रूपम् अहं कृत्वा संहरामि युगे युगे ॥ [म।पु। ५३.८-९]**
+> **kālenāgrahaṇaṁ matvā purāṇasya dvijottamāḥ |**  
+> **vyāsa-rūpam ahaṁ kṛtvā saṁharāmi yuge yuge || [ma.pu. 53.8-9]**
 
-**इतिपूर्व-सिद्धम् एव पुराणं सुख-सङ्ग्रहणाय सङ्कल्पयामीति तत्रार्थः । तद्-अनन्तरं ह्य् उक्तम्—**
+**itipūrva-siddham eva purāṇaṁ sukha-saṅgrahaṇāya saṅkalpayāmīti tatrārthaḥ | tad-anantaraṁ hy uktam—**
 
 
-> **चतुर्-लक्ष-प्रमाणेन द्वापरे द्वापरे सदा ।**  
-> **तद्-अष्टादशधा कृत्वा भूर्-लोकेऽस्मिन् प्रभाष्यते ।**  
-> **अद्याप्य् अमर्त्य-लोके तु शत-कोटि-प्रविस्तरम् ।**  
-> **तद्-अर्थोऽत्र चतुर्-लक्षः सङ्क्षेपेण निवेशितः ॥ [म।पु। ५३.९-११] इति ।**
+> **catur-lakṣa-pramāṇena dvāpare dvāpare sadā |**  
+> **tad-aṣṭādaśadhā kṛtvā bhūr-loke’smin prabhāṣyate |**  
+> **adyāpy amartya-loke tu śata-koṭi-pravistaram |**  
+> **tad-artho’tra catur-lakṣaḥ saṅkṣepeṇa niveśitaḥ || [ma.pu. 53.9-11] iti |**
 
-**अत्र तु “यच् छिष्टं तु यजुर्-वेदे” इत्य् उक्तत्वात् तस्याभिधेय-भागश् “चतुर्लक्षस्” त्व् अत्र मर्त्य-लोके “सङ्क्षेपेण” सार-सङ्ग्रहेण “निवेशितः,” न तु रचनान्तरेण ॥१४॥**
+**atra tu “yac chiṣṭaṁ tu yajur-vede” ity uktatvāt tasyābhidheya-bhāgaś “caturlakṣas” tv atra martya-loke “saṅkṣepeṇa” sāra-saṅgraheṇa “niveśitaḥ,” na tu racanāntareṇa ||14||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** पञ्चमत्वे कारणं चेति । ऋग्-आदिभिश् चतुर्भिश् चातुर्होत्रं चतुर्भिर् ऋत्विग्भिर् निस्पाद्यं कर्म भवति इतिहासादिभ्यां तन् न भवतीति तद्-भागस्य पञ्चमत्वम् इत्य् अर्थः । आख्यानैः पञ्च-लक्षणैः पुराणानि । उपाख्यानैः पुरा-वृत्तैः । गाथाभिश् छन्दो-विशेषैश् च । संहिता भारत-रूपाश् चक्रे। ताश् च यच् छिष्टं तु यजुर् वेदस् तद्-रूपा इत्य् अर्थः । ब्रह्मेति ब्रह्म-यज्ञे वेदाध्ययनेऽमीषाम् इतिहासादीनां विनियोगो दृश्यते । सोऽपि विनियोगस् तेषाम् अवेदत्वे न सम्भवति । कृत्वाऽविर्भाव्य । सङ्कलयामि सङ्क्षिपामि । अभिधेय-भागः सारांशः ॥१४॥
+**baladevaḥ :** pañcamatve kāraṇaṁ ceti | ṛg-ādibhiś caturbhiś cāturhotraṁ caturbhir ṛtvigbhir nispādyaṁ karma bhavati itihāsādibhyāṁ tan na bhavatīti tad-bhāgasya pañcamatvam ity arthaḥ | ākhyānaiḥ pañca-lakṣaṇaiḥ purāṇāni | upākhyānaiḥ purā-vṛttaiḥ | gāthābhiś chando-viśeṣaiś ca | saṁhitā bhārata-rūpāś cakre| tāś ca yac chiṣṭaṁ tu yajur vedas tad-rūpā ity arthaḥ | brahmeti brahma-yajñe vedādhyayane’mīṣām itihāsādīnāṁ viniyogo dṛśyate | so’pi viniyogas teṣām avedatve na sambhavati | kṛtvā’virbhāvya | saṅkalayāmi saṅkṣipāmi | abhidheya-bhāgaḥ sārāṁśaḥ ||14||
 
-**राधा-मोहन-गोस्वामी :** यजुर्-वेदस्य वेद-सामान्य-रूपत्व-कथनम् ऋक्-सामाथर्व-वेदातिरिक्तस्य यजुर्-वेदत्व-लाभाय । अत एवोक्तं—यजुः सर्वत्र गीयत इति चतुर्धा विभाग-निमित्तम् अध्वर्युत्वादि कार्य-भेद इति भावः । यच् छिष्टं तु यजुर्-वेदः इति । अध्वर्युत्व-लक्षण-वेदेभ्यः कांश्चिद् वेदान् आदाय यजुर्-आदि-नाम-भेदेन विभागे कृते यद् अवशिष्टम्, तद् अपि यजुर्-वेद-नामकम् इत्य् अर्थः । न च—अस्य महतो भूतस्य इति श्रुतौ ऋग्-आदि-क्रमेणैव जातत्वात्, कथम् एकस्य यजुर्-वेदस्य ऋग्-आदि-भेदेन विभागो व्यास-कृत इति वाच्यम् । ऋग्-आदि-क्रमेण वेद उद्भूतः । तत्र यजुर्वेदस्य प्रचुरत्वेन समुदितस्य यजुर्-वेदत्वेनैकत्वेन च व्यवहारात् तथोक्तेः, आधिक्येन व्यपदेशा भवन्ति इति न्यायात् । ऋग्-आदि-भेदेन वेदस्य चतुर्धा-व्यवहारस्य प्राक् सत्त्वेऽपि तद्-अधिकारि-भेद-कार्य-भेद-व्यवस्थया व्यासेन व्यवस्थापनात् तस्य विभाग-कृत्त्व-व्यपदेश इति भावः । आख्यानैर् इति प्रश्नोत्तर-वचन-निबन्धैः सूत-शौनक-संवाद-रूपैर् इत्य् अर्थः । उपाख्यानैः—प्राथमिक-ग्रन्थाभिधेय-प्रकाशकैः शुक-परीक्षित्-संवादादि-रूपैः । गाथाभिः—पुरा-वृत्तेतिहास-संवादाख्याभिर् इति । पुराण-संहितां—पुराण-सङ्ग्रहं चक्रे इति । तथा चाख्यानादिभिः सुसज्जीकृत्य पुराणानि प्रादुश्चकार । यथोक्तं गीता-व्याख्यायां स्वामि-चरणैः—“प्रायेण भगवन्-मुख्-निःसृतान् एव श्लोकान् व्यलिखत् । कांश्चित् तत्-सङ्गतये स्वयं च व्यरचयत्”[१.१] इति ।
+**rādhā-mohana-gosvāmī :** yajur-vedasya veda-sāmānya-rūpatva-kathanam ṛk-sāmātharva-vedātiriktasya yajur-vedatva-lābhāya | ata evoktaṁ—yajuḥ sarvatra gīyata iti caturdhā vibhāga-nimittam adhvaryutvādi kārya-bheda iti bhāvaḥ | yac chiṣṭaṁ tu yajur-vedaḥ iti | adhvaryutva-lakṣaṇa-vedebhyaḥ kāṁścid vedān ādāya yajur-ādi-nāma-bhedena vibhāge kṛte yad avaśiṣṭam, tad api yajur-veda-nāmakam ity arthaḥ | na ca—asya mahato bhūtasya iti śrutau ṛg-ādi-krameṇaiva jātatvāt, katham ekasya yajur-vedasya ṛg-ādi-bhedena vibhāgo vyāsa-kṛta iti vācyam | ṛg-ādi-krameṇa veda udbhūtaḥ | tatra yajurvedasya pracuratvena samuditasya yajur-vedatvenaikatvena ca vyavahārāt tathokteḥ, ādhikyena vyapadeśā bhavanti iti nyāyāt | ṛg-ādi-bhedena vedasya caturdhā-vyavahārasya prāk sattve’pi tad-adhikāri-bheda-kārya-bheda-vyavasthayā vyāsena vyavasthāpanāt tasya vibhāga-kṛttva-vyapadeśa iti bhāvaḥ | ākhyānair iti praśnottara-vacana-nibandhaiḥ sūta-śaunaka-saṁvāda-rūpair ity arthaḥ | upākhyānaiḥ—prāthamika-granthābhidheya-prakāśakaiḥ śuka-parīkṣit-saṁvādādi-rūpaiḥ | gāthābhiḥ—purā-vṛttetihāsa-saṁvādākhyābhir iti | purāṇa-saṁhitāṁ—purāṇa-saṅgrahaṁ cakre iti | tathā cākhyānādibhiḥ susajjīkṛtya purāṇāni prāduścakāra | yathoktaṁ gītā-vyākhyāyāṁ svāmi-caraṇaiḥ—“prāyeṇa bhagavan-mukh-niḥsṛtān eva ślokān vyalikhat | kāṁścit tat-saṅgataye svayaṁ ca vyaracayat”[1.1] iti |
 
-व्यक्तं प्रथम-स्कन्धे—
+vyaktaṁ prathama-skandhe—
 
 
-> स संहितां भागवतीं कृत्वानुक्रम्य चात्म-जम् ।  
-> शुकम् अध्यापयाम् आस निवृत्ति-निरतं मुनिः ॥ [भा।पु। १.७.८] इति ।
+> sa saṁhitāṁ bhāgavatīṁ kṛtvānukramya cātma-jam |  
+> śukam adhyāpayām āsa nivṛtti-nirataṁ muniḥ || [bhā.pu. 1.7.8] iti |
 
-इति व्याख्यातं च प्रथम-स्कन्ध-सन्दर्भे—“प्रथमतः सामान्यतया कृत्वा श्री-नारदोपदेशानन्तरम् अनुक्रम्य तत्-सम्मत्य्-अनुक्रमेण विशेषतः कृत्वा” इति । विनियोगः—अध्ययन-विषयत्वम् । नावेदत्वे सम्भवति—ब्रह्म-पदस्य वेद एव शक्तेर् इति भावः । तद्-अर्थ इति । तस्य शतकोटि-प्रविस्तरस्य अर्थः । तात्पर्य-विषयार्थोपसंहारो यत्र सः, चतुर्लक्ष इत्य् अर्थः । तद्-अर्थः इत्य् अस्य प्रकारान्तरेण स्वयम् आह—अत्र च इत्य्-आदि । पुराणेतिहासयोर् अपि यच् छिष्टम् इत्य् अनेन ग्रहणम्, तस्यापि यजुर्वेदान्तर्गतत्वाद् इति भावः । तस्य यजुर्वेद-भागस्याभिधेय-भागो यत्र सः । अत्र इत्य् अस्यार्थम् आह-मर्त्य-लोक इति । न तु वचनान्तरेणेति यजुर्वेदाभिधेय-भाग-विशेषात्मके पुराण-विशिष्टस्य चतुर्लक्षत्वाश्रयस्य स्वरूपेणैवाभिहितः, न तु वचनान्तर-रूपेणेति भावः । वस्तुतः अभिधेय-भागः—पुराण-तात्पर्य-विषयीभूतोऽर्थ इत्य् अर्थः , न तु बहु-व्रीहिणा ग्रन्थ इत्य् अर्थः । चतुर्लक्षः—चतुर्थ-श्लोकात्मक-ग्रन्थ-प्रतिपाद्यः, सङ्क्षेपेण सार-सङ्ग्रहेण, यजुर्वेदात् शतकोटि-प्रविस्तरात्मक-यजुर्वेद-भागात् सारार्थ-सङ्ग्रहक-तद्-घटक-वाक्येनेति यावत् निवेशितः कृतः । अपौरुषेय-पुराण-वचन-घटितश् चतुर्लक्षः पुराणम् इति पर्यवसितम् । अम्बरीष शुक-प्रोक्तं नित्यं भागवतं शृणु इत्य् अनेनांश-विशेषस्यैव भागवतत्वेन निर्देशः । तद्-युक्तत्वेनाष्टादश-साहस्रात्मकं भागवतम् इति गीयत इति । एवं च भागवत-शब्दोऽपौरुषेय-पुराण-भाग-विशेष-परः । जन्माद्य् अस्य इत्य्-आदि विष्णुरातम् अमूमुचत् इत्य् अन्त-ग्रन्थ-परश् च । यथा वेद-शब्दोऽपौरुषेयत्वेन ऋग्-वेदादि-पुराणान्त-परश् चतुर्वेद-परश् चेति । एवं भारत-ब्राह्म-पाद्मादि-पदम्, पुराणेतिहास-पदं च बोध्यम् ॥१४॥
+iti vyākhyātaṁ ca prathama-skandha-sandarbhe—“prathamataḥ sāmānyatayā kṛtvā śrī-nāradopadeśānantaram anukramya tat-sammaty-anukrameṇa viśeṣataḥ kṛtvā” iti | viniyogaḥ—adhyayana-viṣayatvam | nāvedatve sambhavati—brahma-padasya veda eva śakter iti bhāvaḥ | tad-artha iti | tasya śatakoṭi-pravistarasya arthaḥ | tātparya-viṣayārthopasaṁhāro yatra saḥ, caturlakṣa ity arthaḥ | tad-arthaḥ ity asya prakārāntareṇa svayam āha—atra ca ity-ādi | purāṇetihāsayor api yac chiṣṭam ity anena grahaṇam, tasyāpi yajurvedāntargatatvād iti bhāvaḥ | tasya yajurveda-bhāgasyābhidheya-bhāgo yatra saḥ | atra ity asyārtham āha-martya-loka iti | na tu vacanāntareṇeti yajurvedābhidheya-bhāga-viśeṣātmake purāṇa-viśiṣṭasya caturlakṣatvāśrayasya svarūpeṇaivābhihitaḥ, na tu vacanāntara-rūpeṇeti bhāvaḥ | vastutaḥ abhidheya-bhāgaḥ—purāṇa-tātparya-viṣayībhūto’rtha ity arthaḥ , na tu bahu-vrīhiṇā grantha ity arthaḥ | caturlakṣaḥ—caturtha-ślokātmaka-grantha-pratipādyaḥ, saṅkṣepeṇa sāra-saṅgraheṇa, yajurvedāt śatakoṭi-pravistarātmaka-yajurveda-bhāgāt sārārtha-saṅgrahaka-tad-ghaṭaka-vākyeneti yāvat niveśitaḥ kṛtaḥ | apauruṣeya-purāṇa-vacana-ghaṭitaś caturlakṣaḥ purāṇam iti paryavasitam | ambarīṣa śuka-proktaṁ nityaṁ bhāgavataṁ śṛṇu ity anenāṁśa-viśeṣasyaiva bhāgavatatvena nirdeśaḥ | tad-yuktatvenāṣṭādaśa-sāhasrātmakaṁ bhāgavatam iti gīyata iti | evaṁ ca bhāgavata-śabdo’pauruṣeya-purāṇa-bhāga-viśeṣa-paraḥ | janmādy asya ity-ādi viṣṇurātam amūmucat ity anta-grantha-paraś ca | yathā veda-śabdo’pauruṣeyatvena ṛg-vedādi-purāṇānta-paraś caturveda-paraś ceti | evaṁ bhārata-brāhma-pādmādi-padam, purāṇetihāsa-padaṁ ca bodhyam ||14||
 
-**गौर-किशोर-गोस्वामी :** यद् धि पुराणस्य वेदत्वं साधितम्, न च तत् लक्षणया वा गौण्या । तत्र मुख्या-लक्षणा-गौणी-भेदेन त्रिधा शब्द-वृत्तिः । मुख्यापि रूढि-योग-भेदेन द्विधा । रूढिः स्वरूपे जात्या गुणेन वानिर्देशार्हे वस्तुनि संज्ञा-संज्ञि-सङ्केतेन प्रवर्तते, डित्थः, गौः शुक्लः इति । लक्षणा तु तेनैव सङ्केतेनाभिहितार्थ-सम्बन्धोयथा गङ्गायां घोषः । इयं पुनस् त्रिधा, अजहत्-स्वार्था, जहत्-स्वार्था, जहद्-अजहत्-स्वार्था च यथा खेतो धावति, गङ्गायां घोषः, सोऽयं देवदत्तः । गौणी चाभिहित-लक्षित-गुण-युक्ते तत्-सदृशे यथा सिंहो देवदत्तः । यद् उक्तं वाचस्पति-मिश्रेण—“पर-शब्दः परत्र-लक्षमाण-गुण-योगेन वर्तते इति यत्र प्रयोक्तृ-प्रतिपत्त्रोः सम्प्रतिपत्तिः स गौणः” । 
+**gaura-kiśora-gosvāmī :** yad dhi purāṇasya vedatvaṁ sādhitam, na ca tat lakṣaṇayā vā gauṇyā | tatra mukhyā-lakṣaṇā-gauṇī-bhedena tridhā śabda-vṛttiḥ | mukhyāpi rūḍhi-yoga-bhedena dvidhā | rūḍhiḥ svarūpe jātyā guṇena vānirdeśārhe vastuni saṁjñā-saṁjñi-saṅketena pravartate, ḍitthaḥ, gauḥ śuklaḥ iti | lakṣaṇā tu tenaiva saṅketenābhihitārtha-sambandhoyathā gaṅgāyāṁ ghoṣaḥ | iyaṁ punas tridhā, ajahat-svārthā, jahat-svārthā, jahad-ajahat-svārthā ca yathā kheto dhāvati, gaṅgāyāṁ ghoṣaḥ, so’yaṁ devadattaḥ | gauṇī cābhihita-lakṣita-guṇa-yukte tat-sadṛśe yathā siṁho devadattaḥ | yad uktaṁ vācaspati-miśreṇa—“para-śabdaḥ paratra-lakṣamāṇa-guṇa-yogena vartate iti yatra prayoktṛ-pratipattroḥ sampratipattiḥ sa gauṇaḥ” | 
 
-अत्र तु लक्षणादीनां नावकाशः, पुराणस्य वेदत्वं मुख्य-वृत्त्यैव तु भवति । यद्य् एवं तथाप्य् अत्र भवान् प्रष्टव्यः, चतुर्णां वेदानां प्रसिद्धत्वे पञ्चमस्य किं प्रयोजनम् ? कुत्र वास्योपयोगः ? वेदत्व-पुरस्कारेनाभिन्नत्वे कथं न वास्य चतुर्षु अन्तर्भावः इति अपेक्षायां सिद्धान्त-सन्दर्भम् आह गोस्वामि-पादः—“पञ्चमत्वे” इति । यजुर्-ऋक्-सामाथर्व-पुराणानि इति भाग-पञ्चकेन वेदो विभक्तः । तत्र यजुर्-ऋक्-सामार्थर्वभिः आध्वर्यव-होत्रौद्गात्र-ब्रह्मत्वादि-चतुर्भिः ऋत्विग्भिः यथा-क्रमेण सम्पाद्यं कर्म भवति । पुराणेन तत्र साध्यम्, अतस् तद्-भागस्य पञ्चमत्वम् । अस्मिन् पुराणे सर्वेषाम् एव अधिकारः । अन्यत्र तु केवल-द्विजातीनाम् इत्य् अस्य वैशिष्ट्यम् ।
+atra tu lakṣaṇādīnāṁ nāvakāśaḥ, purāṇasya vedatvaṁ mukhya-vṛttyaiva tu bhavati | yady evaṁ tathāpy atra bhavān praṣṭavyaḥ, caturṇāṁ vedānāṁ prasiddhatve pañcamasya kiṁ prayojanam ? kutra vāsyopayogaḥ ? vedatva-puraskārenābhinnatve kathaṁ na vāsya caturṣu antarbhāvaḥ iti apekṣāyāṁ siddhānta-sandarbham āha gosvāmi-pādaḥ—“pañcamatve” iti | yajur-ṛk-sāmātharva-purāṇāni iti bhāga-pañcakena vedo vibhaktaḥ | tatra yajur-ṛk-sāmārtharvabhiḥ ādhvaryava-hotraudgātra-brahmatvādi-caturbhiḥ ṛtvigbhiḥ yathā-krameṇa sampādyaṁ karma bhavati | purāṇena tatra sādhyam, atas tad-bhāgasya pañcamatvam | asmin purāṇe sarveṣām eva adhikāraḥ | anyatra tu kevala-dvijātīnām ity asya vaiśiṣṭyam |
 
-आदौ लौकिक-रीत्य्-अनुसारेण—अस्य महतो भूतस्य निःश्वसितम् एतत्, ऋग्-वेदो भगवो इत्य्-आदि-श्रुत्या च पुराणस्य पञ्चम-वेदत्वं प्रतिपाद्य अधुना तद्-विशेषम् आह—“आख्यानैः- इति । अनन्तरं पुराणस्य वेदवत् व्यवहार-रूपं प्रामाण्यं दर्शयन्न् आह—“ब्रह्म-यज्ञाध्ययने” इति । ब्रह्म-यज्ञे वेदाध्ययने अमीषां पुराणानां विनियोगः अस्ति । एतेनास्यापि वेदत्वं समर्थितम् । पुराणस्य सङ्कल्पन-कथाम् आह—यद् आह भगवान् मात्स्य इति । स्फुटम् अन्यद् इति ॥१४॥
+ādau laukika-rīty-anusāreṇa—asya mahato bhūtasya niḥśvasitam etat, ṛg-vedo bhagavo ity-ādi-śrutyā ca purāṇasya pañcama-vedatvaṁ pratipādya adhunā tad-viśeṣam āha—“ākhyānaiḥ: iti | anantaraṁ purāṇasya vedavat vyavahāra-rūpaṁ prāmāṇyaṁ darśayann āha—“brahma-yajñādhyayane” iti | brahma-yajñe vedādhyayane amīṣāṁ purāṇānāṁ viniyogaḥ asti | etenāsyāpi vedatvaṁ samarthitam | purāṇasya saṅkalpana-kathām āha—yad āha bhagavān mātsya iti | sphuṭam anyad iti ||14||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१५]
+[15]
 
-**तथैव दर्शितं वेद-सह-भावेनशिव-पुराणस्य वायवीय-संहितायाम्—**
+**tathaiva darśitaṁ veda-saha-bhāvenaśiva-purāṇasya vāyavīya-saṁhitāyām—**
 
 
-> **सङ्क्षिप्य चतुरो वेदांश् चतुर्धा व्यभजत् प्रभुः ।**  
-> **व्यस्त-वेदतया ख्यातो वेद-व्यास इति स्मृतः ॥**  
-> **पुराणम् अपि सङ्क्षिप्तं चतुर्लक्ष-प्रमाणतः ।**  
-> **अद्याप्य् अमर्त्य-लोके तु शत-कोटि-प्रविस्तरम् ॥ [शि।पु। १.३३-३४]**
+> **saṅkṣipya caturo vedāṁś caturdhā vyabhajat prabhuḥ |**  
+> **vyasta-vedatayā khyāto veda-vyāsa iti smṛtaḥ ||**  
+> **purāṇam api saṅkṣiptaṁ caturlakṣa-pramāṇataḥ |**  
+> **adyāpy amartya-loke tu śata-koṭi-pravistaram || [śi.pu. 1.33-34]**
 
-**सङ्क्षिप्तम् इत्य् अत्र तेनेति शेषः । स्कान्दम् आग्नेयम् इत्य्-आदि समाख्यास् तु प्रवचन-निबन्धनाः काठकादिवत् । आनुपूर्वीर् निर्माण-निबन्धना वा । तस्मात् क्वचिद् अनित्यत्व-श्रवणं त्व् आविर्भाव-तिरोभावापेक्षया । तद् एवम् इतिहास-पुराणयोर् वेदत्वं सिद्धम् । तथापि सूतादीनाम् अधिकारः । सकल-निगम-वल्ली-सत्-फल-श्री-कृष्ण-नामवत् । यथोक्तंप्रभास-खण्डे**—
+**saṅkṣiptam ity atra teneti śeṣaḥ | skāndam āgneyam ity-ādi samākhyās tu pravacana-nibandhanāḥ kāṭhakādivat | ānupūrvīr nirmāṇa-nibandhanā vā | tasmāt kvacid anityatva-śravaṇaṁ tv āvirbhāva-tirobhāvāpekṣayā | tad evam itihāsa-purāṇayor vedatvaṁ siddham | tathāpi sūtādīnām adhikāraḥ | sakala-nigama-vallī-sat-phala-śrī-kṛṣṇa-nāmavat | yathoktaṁprabhāsa-khaṇḍe**—
 
 
-> **मधुर-मधुरम् एतन् मङ्गलं मङ्गलानां**  
-> **सकल-निगम-वल्ली-सत्-फलं चित्-स्वरूपम् ।**  
-> **सकृद् अपि परिगीतं श्रद्धया हेलया वा **  
-> **भृगु-वर नर-मात्रं तारयेत् कृष्ण-नाम ॥ इति ॥**
+> **madhura-madhuram etan maṅgalaṁ maṅgalānāṁ**  
+> **sakala-nigama-vallī-sat-phalaṁ cit-svarūpam |**  
+> **sakṛd api parigītaṁ śraddhayā helayā vā **  
+> **bhṛgu-vara nara-mātraṁ tārayet kṛṣṇa-nāma || iti ||**
 
-**यथा चोक्तंविष्णु-धर्मे**—
+**yathā coktaṁviṣṇu-dharme**—
 
 
-> **ऋग्-वेदोऽथ यजुर्-वेदः साम-वेदोऽप्य् अथर्वणः ।**  
-> **अधीतास् तेन येनोक्तं हरिर् इत्य् अक्षर-द्वयम् ॥ इति ।**
+> **ṛg-vedo’tha yajur-vedaḥ sāma-vedo’py atharvaṇaḥ |**  
+> **adhītās tena yenoktaṁ harir ity akṣara-dvayam || iti |**
 
-**अथ वेदार्थ-निर्णायकत्वं चवैष्णवे—**
+**atha vedārtha-nirṇāyakatvaṁ cavaiṣṇave—**
 
 
-> **भारत-व्यपदेशेन ह्य् आम्नायार्थः प्रदर्शितः ।**  
-> **वेदाः प्रतिष्ठिताः सर्वे पुराणे नात्र संशयः ॥ इत्य् आदौ ।**
+> **bhārata-vyapadeśena hy āmnāyārthaḥ pradarśitaḥ |**  
+> **vedāḥ pratiṣṭhitāḥ sarve purāṇe nātra saṁśayaḥ || ity ādau |**
 
-**किं च, वेदार्थ-दीपकानां शास्त्राणां मध्य-पातिताभ्युपगमेऽप्य् आविर्भावक-वैशिष्ट्यात् तयोर् एव वैशिष्ट्यम् । यथापाद्मे**—
+**kiṁ ca, vedārtha-dīpakānāṁ śāstrāṇāṁ madhya-pātitābhyupagame’py āvirbhāvaka-vaiśiṣṭyāt tayor eva vaiśiṣṭyam | yathāpādme**—
 
 
-> **द्वैपायनेन यद् बुद्धं **  
-> **ब्रह्माद्यैस् तन् न बुध्यते ।**  
-> **सर्व-बुद्धं स वै वेद **  
-> **तद् बुद्धं नान्य-गोचरः ॥१५॥**
+> **dvaipāyanena yad buddhaṁ **  
+> **brahmādyais tan na budhyate |**  
+> **sarva-buddhaṁ sa vai veda **  
+> **tad buddhaṁ nānya-gocaraḥ ||15||**
 
-**सर्व-संवादिनी : **उपसंहरति—तद् एवं वेदत्वं सिद्धम् इति । अत एव स्मृत्य्-अनवकाश-दोष-प्रसङ्ग इति चेन् नान्य-स्मृत्य्-अनवकाश-दोष-प्रसङ्गात् [ब्र।सू। २.१.१] इत्य् अनेन न्यायेनाप्य् अन्यत्र स्मृतिवत् स्मृत्य्-अन्तर-विरोध-दृष्टत्वं च नात्रापतति ।
+**sarva-saṁvādinī : **upasaṁharati—tad evaṁ vedatvaṁ siddham iti | ata eva smṛty-anavakāśa-doṣa-prasaṅga iti cen nānya-smṛty-anavakāśa-doṣa-prasaṅgāt [bra.sū. 2.1.1] ity anena nyāyenāpy anyatra smṛtivat smṛty-antara-virodha-dṛṣṭatvaṁ ca nātrāpatati |
 
-ननु, न च स्मार्तम् अतद्-धर्माभिलापात् [ब्र।सू। १.२.२०] इत्य् अत्र प्रधानं स्मृत्य्-उक्तम् एव। न च श्रौतम् इति प्रतिपादयता श्री-बादरायणेन पुराणानाम् अपि प्राधानिक-प्रक्रियत्वात् स्मृतित्वं बोध्यते? न । तत्र स्वतन्त्रं यत् प्रधानम्, तद् एव निषेधयता तेन प्रधान-स्वातन्त्र्य-प्रतिपादकं सांख्य-दर्शनम् एव स्मृतित्वेन मन्यते । तद्-अधीनत्वाद् अर्थवद् [ब्र।सू। १.४.३] इति सूत्रान्तरेण हि परमेश्वराधीनतया विश्रुतम् अव्याकृताद्य्-अपर-पर्यायं-मन्यतयेव प्रधानम् । तथा च पुराणे दृष्टम् इति न स्मृति-साधारण्यं तस्येति वेदत्वम् एव स्थितम् ॥१५॥
+nanu, na ca smārtam atad-dharmābhilāpāt [bra.sū. 1.2.20] ity atra pradhānaṁ smṛty-uktam eva| na ca śrautam iti pratipādayatā śrī-bādarāyaṇena purāṇānām api prādhānika-prakriyatvāt smṛtitvaṁ bodhyate? na | tatra svatantraṁ yat pradhānam, tad eva niṣedhayatā tena pradhāna-svātantrya-pratipādakaṁ sāṁkhya-darśanam eva smṛtitvena manyate | tad-adhīnatvād arthavad [bra.sū. 1.4.3] iti sūtrāntareṇa hi parameśvarādhīnatayā viśrutam avyākṛtādy-apara-paryāyaṁ-manyatayeva pradhānam | tathā ca purāṇe dṛṣṭam iti na smṛti-sādhāraṇyaṁ tasyeti vedatvam eva sthitam ||15||
 
-**बलदेवः :** व्यस्तेति । व्यस्ता विभक्ता वेदा येन ततयावेद-व्यासः स्मृतः । स्कान्दम् इत्य्-आदि । स्कन्देन प्रोक्तं न तु कृतम् इति वक्तृ-हेतुका स्कान्दादि-संज्ञा । कठेनाधीतं काठकम् इत्य्-आदि संज्ञावत्। कठानां वेदः काठकः। गोत्र-वरणाद् वुञ् [पा। ४.३.१२६], चरणाद् धर्माम्नाययोर् इति वक्तव्यम् इति सूत्र-वार्तिकाभ्याम् । ततश् च कञ्हेनाधीतम् इति सुष्ठूक्तम् । अन्यथा जनत्वेनानित्यतापत्तिः। आनुपूर्वी क्रमः । ब्राह्यम् इत्य्-आदिकरमनिर्माण-हेतुका वा सा सा सऽज्ञेत्य् अर्थः । ब्राह्म्यादिक्रमेêअ पुराण-भागो बोध्यः । तथापि सूतादीनाम् इति । इतिहासादेर् वेदत्वेऽपि तत्र शूद्राधिकारः स्त्री-शूद्र-द्विज-बन्धूनाम् इत्य्-आदि-वाक्य-बलाद् बोध्यः । भारत-व्यपदेशेनेति । दुरूह-भागस्य व्याख्यानात्, छिन्न-भागार्थ-पूरणाच् चपुराणे वेदाः प्रतिष्ठिताः नैश्चल्येन स्थिता इत्य् अर्थः । किं चेति । वेदार्थ-दीपकानां मानवीयादीनां मध्ये यद्यपीतिहास-पुराणयोः स्मृतित्वेनाभ्युपगमस् तथापि व्यासयेश्वरस्य तद्-आविर्भावकत्वात् तद्-उत्कर्ष इत्य् अर्थः । तत्र प्रमाणं द्वैपायनेनेत्य् आदि॥१५॥
+**baladevaḥ :** vyasteti | vyastā vibhaktā vedā yena tatayāveda-vyāsaḥ smṛtaḥ | skāndam ity-ādi | skandena proktaṁ na tu kṛtam iti vaktṛ-hetukā skāndādi-saṁjñā | kaṭhenādhītaṁ kāṭhakam ity-ādi saṁjñāvat| kaṭhānāṁ vedaḥ kāṭhakaḥ| gotra-varaṇād vuñ [pā. 4.3.126], caraṇād dharmāmnāyayor iti vaktavyam iti sūtra-vārtikābhyām | tataś ca kañhenādhītam iti suṣṭhūktam | anyathā janatvenānityatāpattiḥ| ānupūrvī kramaḥ | brāhyam ity-ādikaramanirmāṇa-hetukā vā sā sā sa`jñety arthaḥ | brāhmyādikrameêa purāṇa-bhāgo bodhyaḥ | tathāpi sūtādīnām iti | itihāsāder vedatve’pi tatra śūdrādhikāraḥ strī-śūdra-dvija-bandhūnām ity-ādi-vākya-balād bodhyaḥ | bhārata-vyapadeśeneti | durūha-bhāgasya vyākhyānāt, chinna-bhāgārtha-pūraṇāc capurāṇe vedāḥ pratiṣṭhitāḥ naiścalyena sthitā ity arthaḥ | kiṁ ceti | vedārtha-dīpakānāṁ mānavīyādīnāṁ madhye yadyapītihāsa-purāṇayoḥ smṛtitvenābhyupagamas tathāpi vyāsayeśvarasya tad-āvirbhāvakatvāt tad-utkarṣa ity arthaḥ | tatra pramāṇaṁ dvaipāyanenety ādi||15||
 
-**राधा-मोहन-गोस्वामी :** तेनेति शेष इति । तेन व्यासेन । समाख्याः संज्ञा-विशेषाः । प्रवचन-निबन्धनाः सर्गादौ प्रथमाध्यापक-नाम-निबन्धनाः । आनुपूर्वीति—उपक्रमोपसंहार-पर्यन्तानुपूर्वी-विशेष-निर्माणेन निबन्धनाः निबन्धाः । स्वतन्त्रेच्छेन भगवतैव कृता इति यावत् । एवं चेतिहास-मध्ये पुराण-लक्षण-सर्ग-प्रतिसरादि-वर्णन-सत्त्वेऽपि, पुराण-मध्ये पौराणिक-संवादादि-सत्त्वेऽपि, तयोर् नाम-भेद स्वेच्छामय-भगवत्-कृतत्वाद् उपपन्न इति । यद्यपि चतुर्लक्ष-समुदित-वाक्यस्यापौरुषेयत्वं यथा-श्रुतैतद्-ग्रन्थतो लभ्यते, तथापि नारदोपदेश-तद्-अधीन-वेद-व्यास-ग्रन्थ-करण-प्रस्तावादेः परमेश्वर-निःश्वसितत्वं न घटते, व्यास-प्रणय-पूर्वं प्रतीत-पुराणादेः प्रच्छन्नत्वेनादर्शनात् नारदोपदेशानन्तरं व्यासेन पुनः प्रणयनाद् इत्य्-आदि विवेचनेन प्रचरद्-रूप-पुराणादिकं व्यासन् सज्जीकृतम्, तत्राभिधेयार्थ-सङ्ग्रहोऽपौरुषेण वाक्य-जातेन कृतः । तत्-सङ्गत्य्-अर्थ-प्रसङ्गतश् च वाक्यान्तराण्य् उक्तानीति तथा व्याख्यातम् । अनित्यत्व-श्रवणं—व्यास-कृतत्व-श्रवण-निबन्धनम् । वेदत्वं सिद्धम् इति—अपौरुषेयत्व-रूप-वेदत्वं सिद्धम् इत्य् अर्थः । “व्यास-रूपम् अहं कृत्वा” इत्य् अनेन व्यासस्य भगवद्-अवतारत्व-कथनाद् व्यास-कृत-वेद-पुराणादि-सङ्ग्रहस्य स्वतः प्रमाणत्वम् अपि बोध्यम् । तथापि पुराणादौ वेदत्वेऽपि, “सूतादीनां” इति सूतादेर्विशेष-ग्रहणान् न शूद्र-सामान्यस्याधिकारः ।
+**rādhā-mohana-gosvāmī :** teneti śeṣa iti | tena vyāsena | samākhyāḥ saṁjñā-viśeṣāḥ | pravacana-nibandhanāḥ sargādau prathamādhyāpaka-nāma-nibandhanāḥ | ānupūrvīti—upakramopasaṁhāra-paryantānupūrvī-viśeṣa-nirmāṇena nibandhanāḥ nibandhāḥ | svatantrecchena bhagavataiva kṛtā iti yāvat | evaṁ cetihāsa-madhye purāṇa-lakṣaṇa-sarga-pratisarādi-varṇana-sattve’pi, purāṇa-madhye paurāṇika-saṁvādādi-sattve’pi, tayor nāma-bheda svecchāmaya-bhagavat-kṛtatvād upapanna iti | yadyapi caturlakṣa-samudita-vākyasyāpauruṣeyatvaṁ yathā-śrutaitad-granthato labhyate, tathāpi nāradopadeśa-tad-adhīna-veda-vyāsa-grantha-karaṇa-prastāvādeḥ parameśvara-niḥśvasitatvaṁ na ghaṭate, vyāsa-praṇaya-pūrvaṁ pratīta-purāṇādeḥ pracchannatvenādarśanāt nāradopadeśānantaraṁ vyāsena punaḥ praṇayanād ity-ādi vivecanena pracarad-rūpa-purāṇādikaṁ vyāsan sajjīkṛtam, tatrābhidheyārtha-saṅgraho’pauruṣeṇa vākya-jātena kṛtaḥ | tat-saṅgaty-artha-prasaṅgataś ca vākyāntarāṇy uktānīti tathā vyākhyātam | anityatva-śravaṇaṁ—vyāsa-kṛtatva-śravaṇa-nibandhanam | vedatvaṁ siddham iti—apauruṣeyatva-rūpa-vedatvaṁ siddham ity arthaḥ | “vyāsa-rūpam ahaṁ kṛtvā” ity anena vyāsasya bhagavad-avatāratva-kathanād vyāsa-kṛta-veda-purāṇādi-saṅgrahasya svataḥ pramāṇatvam api bodhyam | tathāpi purāṇādau vedatve’pi, “sūtādīnāṁ” iti sūtāderviśeṣa-grahaṇān na śūdra-sāmānyasyādhikāraḥ |
 
-> अध्येतव्यं न चान्येन ब्राह्मणं क्षत्रियं विना ।
+> adhyetavyaṁ na cānyena brāhmaṇaṁ kṣatriyaṁ vinā |
 
-श्रोतव्यम् इह शूद्रेण नाध्येतव्यं कदाचन ॥
+śrotavyam iha śūdreṇa nādhyetavyaṁ kadācana ||
 
-इति पुराणम् अधिकृत्य भविष्य-पुराण-वचनात् सूतस्य च ब्राह्मणानुग्रहाद् अधिकारः । तथा हि प्रायश्चित्त-विवेक-धृत-पद्म-पुराणे सूत-वाक्यम्—
+iti purāṇam adhikṛtya bhaviṣya-purāṇa-vacanāt sūtasya ca brāhmaṇānugrahād adhikāraḥ | tathā hi prāyaścitta-viveka-dhṛta-padma-purāṇe sūta-vākyam—
 
-> न हि वेदेष्व् अधिकारः कश्चिच् छूद्रस्य जायते ।  
-> पुराणेष्व् अधिकारो मे दर्शितो ब्राह्मणैर् इह ॥ इति ।
+> na hi vedeṣv adhikāraḥ kaścic chūdrasya jāyate |  
+> purāṇeṣv adhikāro me darśito brāhmaṇair iha || iti |
 
-वेदेषु इत्य् अत्र वेद-पदम् ऋग्-आदि-चतुर्वेद-परम्—स्त्री-शूद्र-द्विज-बन्धूनां त्रयी न श्रुति-गोचरः [भा।पु। १.४.२५] इति प्रथमात् । तत्र त्रयीति—चतुर्वेदोपलक्षणम् । यथा शुक्राचार्याज्ञया तत्-कन्याया देवयान्या विवाहः क्षत्रियेणापि ययातिना कृतो न दोषाय जातः, तत् सन्तान-यदु-प्रभृतीनाम् उत्तमत्वं च—समयश् चापि साधूनां प्रमाणं वेदवद् भवेत् इत्य्-आदि-वचनात् । समयः प्रतिज्ञा, अत एव ब्राह्मण-वचनेन परशुराम-भयाद् ब्राह्मण-सभायां गूढ-स्थितस्य कस्यचित् क्षत्रियस्य ब्राह्मणत्वं जातम् इत्य् उक्तं महाभारते—
+vedeṣu ity atra veda-padam ṛg-ādi-caturveda-param—strī-śūdra-dvija-bandhūnāṁ trayī na śruti-gocaraḥ [bhā.pu. 1.4.25] iti prathamāt | tatra trayīti—caturvedopalakṣaṇam | yathā śukrācāryājñayā tat-kanyāyā devayānyā vivāhaḥ kṣatriyeṇāpi yayātinā kṛto na doṣāya jātaḥ, tat santāna-yadu-prabhṛtīnām uttamatvaṁ ca—samayaś cāpi sādhūnāṁ pramāṇaṁ vedavad bhavet ity-ādi-vacanāt | samayaḥ pratijñā, ata eva brāhmaṇa-vacanena paraśurāma-bhayād brāhmaṇa-sabhāyāṁ gūḍha-sthitasya kasyacit kṣatriyasya brāhmaṇatvaṁ jātam ity uktaṁ mahābhārate—
 
 
-> तत्र कीर्तयतो विप्रा विप्रर्षेर् भूरि-तेजसा ।  
-> अहं चाध्यगमं तत्र निविष्टस् तद्-अनुग्रहात् ॥ [भा।पु। १.३.४४]
+> tatra kīrtayato viprā viprarṣer bhūri-tejasā |  
+> ahaṁ cādhyagamaṁ tatra niviṣṭas tad-anugrahāt || [bhā.pu. 1.3.44]
 
-इति प्रथमात् चतुर्-वेद-पाठस् तु सूतादीनाम् अप्य् अनधिकृतस् तत्र द्विजानाम् एवाधिकारात् । अत एव प्रथमे सूतं प्रति शौनक-वाक्यात्—मन्ये त्वां विषये वाचां स्नातम् अन्यत्र छान्दसात् [भा।पु। १.४.१३] इति । छान्दसात् वेदात् । तत्र हेतु-वचनम् उक्तं स्वामि-चरणैः—अत्रैवर्नीकत्वात् इति ।
+iti prathamāt catur-veda-pāṭhas tu sūtādīnām apy anadhikṛtas tatra dvijānām evādhikārāt | ata eva prathame sūtaṁ prati śaunaka-vākyāt—manye tvāṁ viṣaye vācāṁ snātam anyatra chāndasāt [bhā.pu. 1.4.13] iti | chāndasāt vedāt | tatra hetu-vacanam uktaṁ svāmi-caraṇaiḥ—atraivarnīkatvāt iti |
 
 
-> अहो वयं जन्म-भृतोऽद्य हास्म  
-> वृद्धानुवृत्त्यापि विलोम-जाताः ।  
-> दौष्कुल्यम् आधिं विधुनोति शीघ्रं \
-महत्तमानाम् अभिधान-योगः ॥
+> aho vayaṁ janma-bhṛto’dya hāsma  
+> vṛddhānuvṛttyāpi viloma-jātāḥ |  
+> dauṣkulyam ādhiṁ vidhunoti śīghraṁ \
+mahattamānām abhidhāna-yogaḥ ||
 
 
-> कुतः पुनर् गृणतो नाम तस्य  
-> महत्तमैकान्त-परायणस्य ।  
-> योऽनन्त-शक्तिर् भगवान् अनन्तो
+> kutaḥ punar gṛṇato nāma tasya  
+> mahattamaikānta-parāyaṇasya |  
+> yo’nanta-śaktir bhagavān ananto
 
-महद्-गुणत्वाद् यम् अनन्तम् आहुः ॥ [भा।पु। १.१८.१८-१९]
+mahad-guṇatvād yam anantam āhuḥ || [bhā.pu. 1.18.18-19]
 
-टीका च—
+ṭīkā ca—
 
 
-> भागवत-व्याख्याने लब्ध-प्रसङ्गं महताम् आदर-पात्रम् आत्मानं श्लाघते द्वाभ्याम् । अहो इत्य् आश्चर्यम् । ह इति हर्षे । वयम् इति बहु-वचनं श्लाघायाम् । प्रतिलोम-जा अप्य् अद्य जन्म-भृतः स-फल-जन्मान आस्म जाताः । वृद्धानाम् अनुवृत्त्या आदरेण । ज्ञान-वृद्धः शुकस् तस्य सेवयेति वा । यतो दुष्कुलत्वं तन्-निमित्तम् आधिं च मनः-पीडां महत्तमानाम् अभिधान-योगो योगो लौकिकोऽपि संभाषण-लक्षणः संबन्धो विधुनोत्य् अपनयति ।  
-> कुतः पुनः किं पुनर् वक्तव्यं तस्याननतस्य नाम गृणतः पुंसो महत्तानाआन-योगो दौष्कुल्यं विधुनोतीति । यद्वा नाम गृणतः पुनः कुतो दौष्कुल्यम् इति। यद् वा, गृणतः पुंसस् तस्य नाम दौष्कुल्यं विधुनोतीति किं वक्तव्यम् इति कैमुत्य-न्यायम् एवाह । अनन्ताः शक्तयो यस्य । स्वतोऽप्य् अनन्तः । किंच महत्सु गुणा यस्य स महद्-गुणः तस्य भावस् तस्मात् । यं गुणतोऽप्य् अनन्तम् आहुः ॥इति ।
+> bhāgavata-vyākhyāne labdha-prasaṅgaṁ mahatām ādara-pātram ātmānaṁ ślāghate dvābhyām | aho ity āścaryam | ha iti harṣe | vayam iti bahu-vacanaṁ ślāghāyām | pratiloma-jā apy adya janma-bhṛtaḥ sa-phala-janmāna āsma jātāḥ | vṛddhānām anuvṛttyā ādareṇa | jñāna-vṛddhaḥ śukas tasya sevayeti vā | yato duṣkulatvaṁ tan-nimittam ādhiṁ ca manaḥ-pīḍāṁ mahattamānām abhidhāna-yogo yogo laukiko’pi saṁbhāṣaṇa-lakṣaṇaḥ saṁbandho vidhunoty apanayati |  
+> kutaḥ punaḥ kiṁ punar vaktavyaṁ tasyānanatasya nāma gṛṇataḥ puṁso mahattānāāna-yogo dauṣkulyaṁ vidhunotīti | yadvā nāma gṛṇataḥ punaḥ kuto dauṣkulyam iti| yad vā, gṛṇataḥ puṁsas tasya nāma dauṣkulyaṁ vidhunotīti kiṁ vaktavyam iti kaimutya-nyāyam evāha | anantāḥ śaktayo yasya | svato’py anantaḥ | kiṁca mahatsu guṇā yasya sa mahad-guṇaḥ tasya bhāvas tasmāt | yaṁ guṇato’py anantam āhuḥ ||iti |
 
-विलोम-जातत्वं ब्राह्मण्यां क्षत्रियात् सूतः इत्य् उक्त-लक्षणम् । अत एव भगवन्-नाम-कथनादिनाप्य् अधिकारी ज्ञापितः । एवं च सूतादीनाम् इति आदि-पदेन भगवद्-भक्ति-योगादि-लक्षण-गुणवताम् अन्येषां परिग्रहः । तथा इनां भारते नहुषं प्रति युधिष्ठिर-वाक्यम्—
+viloma-jātatvaṁ brāhmaṇyāṁ kṣatriyāt sūtaḥ ity ukta-lakṣaṇam | ata eva bhagavan-nāma-kathanādināpy adhikārī jñāpitaḥ | evaṁ ca sūtādīnām iti ādi-padena bhagavad-bhakti-yogādi-lakṣaṇa-guṇavatām anyeṣāṁ parigrahaḥ | tathā ināṁ bhārate nahuṣaṁ prati yudhiṣṭhira-vākyam—
 
 
-> सत्यं दानं क्षमा शीलम् आनृशांस्यं तपो घृणा ।  
-> दृश्यते यत्र नागेन्द्र स ब्राह्मण इति स्मृतः ॥  
-> यत्रैतन् न भवेत् सर्प तं शूद्रम् इति निर्दिशेत् ॥ इति ।
+> satyaṁ dānaṁ kṣamā śīlam ānṛśāṁsyaṁ tapo ghṛṇā |  
+> dṛśyate yatra nāgendra sa brāhmaṇa iti smṛtaḥ ||  
+> yatraitan na bhavet sarpa taṁ śūdram iti nirdiśet || iti |
 
-तेषां पूर्वेषाम् । अवरजः अर्वाचीनाः । एवम् अत्र वक्ष्यमाणानि न शूद्रा भगवद्-भक्ताः इत्य्-आदि-बहु-वचनानि तथाधिकारे द्रष्टव्यानीति । यत् तु—
+teṣāṁ pūrveṣām | avarajaḥ arvācīnāḥ | evam atra vakṣyamāṇāni na śūdrā bhagavad-bhaktāḥ ity-ādi-bahu-vacanāni tathādhikāre draṣṭavyānīti | yat tu—
 
 
-> विप्रोऽधीत्याप्नुयात् प्रज्ञां राजन्योदधि-मेखलाम् ।  
-> वैश्यो निधि-पतित्वं च शूद्रः शुद्ध्यति पातकान् ॥ [भा।पु। १२.१२.६५]
+> vipro’dhītyāpnuyāt prajñāṁ rājanyodadhi-mekhalām |  
+> vaiśyo nidhi-patitvaṁ ca śūdraḥ śuddhyati pātakān || [bhā.pu. 12.12.65]
 
-इति द्वादश-स्कन्ध-वचनात् शूद्र-मात्रस्याधिकार इति वदन्ति, तन् न—श्रोतव्यम् इह शूद्रेण इत्य्-आदि-वचन-विरोधात् । सुगतिम् आप्नुयात् श्रवणाच् च शूद्र-योनिः इति हरि-वंशीयाच् च । उदधि-मेखलां पृथ्वीम् । सन्धिर् आर्ष इति । शूद्रोऽधीत्य इत्य् अस्य चान्तर्-भूत-ण्य्-अन्त-क्रियया । पाठयित्वा इत्य् अर्थः । पञ्चभिर् हलैः कर्षति गृही इत्यादिवत् । भक्तिर् अत्र प्रेम-लक्षणा । सामाय-भक्तिम् अभिप्रेत्य त्व् आह—माध्व-भाष्य-धृत-व्योम-संहिता-वचनम्—
+iti dvādaśa-skandha-vacanāt śūdra-mātrasyādhikāra iti vadanti, tan na—śrotavyam iha śūdreṇa ity-ādi-vacana-virodhāt | sugatim āpnuyāt śravaṇāc ca śūdra-yoniḥ iti hari-vaṁśīyāc ca | udadhi-mekhalāṁ pṛthvīm | sandhir ārṣa iti | śūdro’dhītya ity asya cāntar-bhūta-ṇy-anta-kriyayā | pāṭhayitvā ity arthaḥ | pañcabhir halaiḥ karṣati gṛhī ityādivat | bhaktir atra prema-lakṣaṇā | sāmāya-bhaktim abhipretya tv āha—mādhva-bhāṣya-dhṛta-vyoma-saṁhitā-vacanam—
 
 
-> अन्त्यजा अपि ये भक्ता नाम-ज्ञानाधिकारिणः ।  
-> स्त्री-शूद्र-द्विज-बन्धूनां तन्त्र-ज्ञानेऽधिकारिता ॥  
-> एक-देशोपरक्ते तु न तु ग्रन्थ-पुरः-सरे ।  
-> त्रैवर्णिकानां वेदोक्तं सम्यग्-भक्तिमतां हरौ ।  
-> आहुर् अप्य् उत्तमन्त्रीणाम् अधिकारं तु वैदिके ॥ इति ।
+> antyajā api ye bhaktā nāma-jñānādhikāriṇaḥ |  
+> strī-śūdra-dvija-bandhūnāṁ tantra-jñāne’dhikāritā ||  
+> eka-deśoparakte tu na tu grantha-puraḥ-sare |  
+> traivarṇikānāṁ vedoktaṁ samyag-bhaktimatāṁ harau |  
+> āhur apy uttamantrīṇām adhikāraṁ tu vaidike || iti |
 
-तन्त्र-पदं वेदातिरिक्त-शास्त्र-परम् । एकदेशोपरक्ते मन्त्र-पूजादौ । वेद-मन्त्र-वर्ज्यं शूद्रस्य इति छन्दोगाह्निक-धृत-स्मृतौ वेदेति विशेषणात् । स्मार्तं शूद्रः समाचरेत् इति मल-मास-तत्त्व-धृत-पिपान-कारिका-श्रवणात् ।
+tantra-padaṁ vedātirikta-śāstra-param | ekadeśoparakte mantra-pūjādau | veda-mantra-varjyaṁ śūdrasya iti chandogāhnika-dhṛta-smṛtau vedeti viśeṣaṇāt | smārtaṁ śūdraḥ samācaret iti mala-māsa-tattva-dhṛta-pipāna-kārikā-śravaṇāt |
 
 
-> चतुर्णाम् अपि वर्णानां यानि प्रोक्तानि श्रेयसे ।  
-> धर्म-शास्त्राणि राजेन्द्र शृणु तानि नृपोत्तम ॥  
-> विशेषतस् तु शूद्राणां पावनानि मनीषिभिः ।  
-> अष्टादश पुराणानि चरितं राघवस्य च ।  
-> रामस्य कुरुशार्दूल धर्म-कामार्थ-सिद्धये ॥
+> caturṇām api varṇānāṁ yāni proktāni śreyase |  
+> dharma-śāstrāṇi rājendra śṛṇu tāni nṛpottama ||  
+> viśeṣatas tu śūdrāṇāṁ pāvanāni manīṣibhiḥ |  
+> aṣṭādaśa purāṇāni caritaṁ rāghavasya ca |  
+> rāmasya kuruśārdūla dharma-kāmārtha-siddhaye ||
 
-इत्य् अत्र मोक्षानुक्तिः । प्राग्-वचने श्रेयसे इत्य् अनेन मोक्षस्य प्रधानतया स्वातन्त्रेण कथनात् । एवं च स्त्री-शूद्रादीनां तन्त्रोक्त-मन्त्र-पूजादिना लब्ध-भगवद्-भावाः संसारं तरन्तीति सूचनाय शूद्राणां पुराणाधिकारे दृष्टान्तम् आह—कृष्ण-नामवद् इति । कृष्ण-नाम्नो वेदोपरि-भागत्वेऽपि तत्-कीर्तनादौ प्रमाण-वशान् नर-मात्राधिकारः । तत्-कीर्तनादिना नर-मात्रस्य संसार-तरणम्, तथा पुराणादौ प्रमाण
+ity atra mokṣānuktiḥ | prāg-vacane śreyase ity anena mokṣasya pradhānatayā svātantreṇa kathanāt | evaṁ ca strī-śūdrādīnāṁ tantrokta-mantra-pūjādinā labdha-bhagavad-bhāvāḥ saṁsāraṁ tarantīti sūcanāya śūdrāṇāṁ purāṇādhikāre dṛṣṭāntam āha—kṛṣṇa-nāmavad iti | kṛṣṇa-nāmno vedopari-bhāgatve’pi tat-kīrtanādau pramāṇa-vaśān nara-mātrādhikāraḥ | tat-kīrtanādinā nara-mātrasya saṁsāra-taraṇam, tathā purāṇādau pramāṇa
 
 +++
 
-**गौर-किशोर-गोस्वामी :**
+**gaura-kiśora-gosvāmī :**
 
-—ओ)०(ओ—
+—o)0(o—
 
-[१६]
+[16]
 
-स्कान्दे**—**
-
-
-> **व्यास-चित्त-स्थिताकाशाद् अवच्छिन्नानि कानिचित् ।**  
-> **अन्ये व्यवहरन्त्य् एतान्य् उरीकृत्य गृहाद् इव ॥ इति ।**
-
-**तथैव दृष्टं **श्री-विष्णु-पुराणे **पराशर-वाक्यम्—**
+skānde**—**
 
 
-> **ततोऽत्र मत्-सुतो व्यास अष्टाविंशतिमेऽन्तरे ।**  
-> **वेदम् एकं चतुष्पादं चतुर्धा व्यभजत् प्रभुः ॥**  
-> **यथात्र तेन वै व्यस्ता वेद-व्यासेन धीमता ।**  
-> **वेदस् तथा समस्तैस् तैर् व्यासैर् अन्यैस् तथा मया ॥**  
-> **तद् अनेनैव व्यासानां शाखाभेदान् द्विजोत्तम ।**  
-> **चतुर्युगेषु रचितान् समस्तेष्व् अवधारय ॥**  
-> **कृष्ण-द्वैपायनं व्यासं विद्धि नारायणं प्रभुम् ।**  
-> **कोऽन्यो हि भुवि मैत्रेय महाभारत-कृद् भवेत् ॥ [वि।पु। ३.४.२-५] इति ।**
+> **vyāsa-citta-sthitākāśād avacchinnāni kānicit |**  
+> **anye vyavaharanty etāny urīkṛtya gṛhād iva || iti |**
 
-**स्कान्द एव—**
+**tathaiva dṛṣṭaṁ **śrī-viṣṇu-purāṇe **parāśara-vākyam—**
 
 
-> **नारायणाद् विनिष्पन्नं ज्ञानं कृत-युगे स्थितम् ।**  
-> **किञ्चित् तद् अन्यथा जातं त्रेतायां द्वापरेऽखिलम् ॥**  
-> **गौतमस्य ऋषेः शापाज् ज्ञाने त्व् अज्ञानतां गते ।**  
-> **सङ्कीर्ण-बुद्धयो देवा ब्रह्म-रुद्र-पुरःसराः ॥**  
-> **शरण्यं शरणं जग्मुर् नारायणम् अनामयम् ।**  
-> **तैर् विज्ञापित-कार्यस् तु भगवान् पुरुषोत्तमः ॥**  
-> **अवतीर्णो महायोगी सत्यवत्यां पराशरात् ।**  
-> **उत्सन्नान् भगवान् वेदान् उज्जहार हरिः स्वयम् ॥ इति ।**
+> **tato’tra mat-suto vyāsa aṣṭāviṁśatime’ntare |**  
+> **vedam ekaṁ catuṣpādaṁ caturdhā vyabhajat prabhuḥ ||**  
+> **yathātra tena vai vyastā veda-vyāsena dhīmatā |**  
+> **vedas tathā samastais tair vyāsair anyais tathā mayā ||**  
+> **tad anenaiva vyāsānāṁ śākhābhedān dvijottama |**  
+> **caturyugeṣu racitān samasteṣv avadhāraya ||**  
+> **kṛṣṇa-dvaipāyanaṁ vyāsaṁ viddhi nārāyaṇaṁ prabhum |**  
+> **ko’nyo hi bhuvi maitreya mahābhārata-kṛd bhavet || [vi.pu. 3.4.2-5] iti |**
 
-**वेद-शब्देनात्र पुराणादि-द्वयम् अपि गृह्यते । तद् एवम् इतिहास-पुराण-विचार एव श्रेयान् इति सिद्धम् । तत्रापि पुराणस्यैव गरिमा दृश्यते । उक्तं हि **नारदीये**—**
+**skānda eva—**
 
 
-> **वेदार्थाद् अधिकं मन्ये पुराणार्थं वरानने ।**  
-> **वेदाः प्रतिष्ठिताः सर्वे पुराणे नात्र संशयः ॥**  
-> **पुराणम् अन्यथा कृत्वा तिर्यग्-योनिम् अवाप्नुयात् ।**  
-> **सुदान्तोऽपि सुशान्तोऽपि न गतिं क्वचिद् आप्नुयात् ॥ इति ॥१६॥**
+> **nārāyaṇād viniṣpannaṁ jñānaṁ kṛta-yuge sthitam |**  
+> **kiñcit tad anyathā jātaṁ tretāyāṁ dvāpare’khilam ||**  
+> **gautamasya ṛṣeḥ śāpāj jñāne tv ajñānatāṁ gate |**  
+> **saṅkīrṇa-buddhayo devā brahma-rudra-puraḥsarāḥ ||**  
+> **śaraṇyaṁ śaraṇaṁ jagmur nārāyaṇam anāmayam |**  
+> **tair vijñāpita-kāryas tu bhagavān puruṣottamaḥ ||**  
+> **avatīrṇo mahāyogī satyavatyāṁ parāśarāt |**  
+> **utsannān bhagavān vedān ujjahāra hariḥ svayam || iti |**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**veda-śabdenātra purāṇādi-dvayam api gṛhyate | tad evam itihāsa-purāṇa-vicāra eva śreyān iti siddham | tatrāpi purāṇasyaiva garimā dṛśyate | uktaṁ hi **nāradīye**—**
 
-**बलदेवः :** व्यासेति । बादरायणस्य ज्ञानं महाकाशम् । अन्येषां ज्ञानानि तु तद्-अंश-भूतानि खण्डाकाशानीति तस्येश्वरत्वात् सार्वज्ञ्यम् उक्तम् । ततोऽत्र मत्-सुतः इत्य् आदौ च व्यासान्तरेभ्यःपाराशर्यस्येश्वरत्वान् महोत्कर्षः । नारायणात् इत्य् आदौ चेश्वरत्वं प्रस्फुटम् उक्तम् । गौतमस्य शापात् इति । वरोत्पन्न-नित्यधान्य-राशिर् गौतमो महति दुर्भिक्षे विप्रान् अभोजयत् । अथ सुभिक्षे गन्तुकामांस् तान् हठेन न्यवासयत् । ते च मायानिर्मिताया गो-गौतम-स्पर्शेन मृताया हत्याम् उक्त्वा गताः । ततः कृत-प्रायश्चित्तोऽपि गौतमस् तन्-मायां विज्ञाय शशाप । ततस् तेषां ज्ञान-लोप इति वाराहे कथास्ति । अधिकम् इति । निःशन्देहत्वाद् इति बोध्यम् । अन्यथा कृत्वा अवज्ञाय ॥१६॥
 
-—ओ)०(ओ—
+> **vedārthād adhikaṁ manye purāṇārthaṁ varānane |**  
+> **vedāḥ pratiṣṭhitāḥ sarve purāṇe nātra saṁśayaḥ ||**  
+> **purāṇam anyathā kṛtvā tiryag-yonim avāpnuyāt |**  
+> **sudānto’pi suśānto’pi na gatiṁ kvacid āpnuyāt || iti ||16||**
 
-[१७]
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-स्कान्द-प्रभास-खण्डे**— \
+**baladevaḥ :** vyāseti | bādarāyaṇasya jñānaṁ mahākāśam | anyeṣāṁ jñānāni tu tad-aṁśa-bhūtāni khaṇḍākāśānīti tasyeśvaratvāt sārvajñyam uktam | tato’tra mat-sutaḥ ity ādau ca vyāsāntarebhyaḥpārāśaryasyeśvaratvān mahotkarṣaḥ | nārāyaṇāt ity ādau ceśvaratvaṁ prasphuṭam uktam | gautamasya śāpāt iti | varotpanna-nityadhānya-rāśir gautamo mahati durbhikṣe viprān abhojayat | atha subhikṣe gantukāmāṁs tān haṭhena nyavāsayat | te ca māyānirmitāyā go-gautama-sparśena mṛtāyā hatyām uktvā gatāḥ | tataḥ kṛta-prāyaścitto’pi gautamas tan-māyāṁ vijñāya śaśāpa | tatas teṣāṁ jñāna-lopa iti vārāhe kathāsti | adhikam iti | niḥśandehatvād iti bodhyam | anyathā kṛtvā avajñāya ||16||
+
+—o)0(o—
+
+[17]
+
+skānda-prabhāsa-khaṇḍe**— \
 **
 
 
-> **वेदवन् निश्चलं मन्ये पुराणार्थं द्विजोत्तमाः ।**  
-> **वेदाः प्रतिष्ठिताः सर्वे पुराणे नात्र संशयः ॥**  
-> **बिभेत्य् अल्प-श्रुताद् वेदी माम् अयं चालयिष्यति ।**  
-> **इतिहास-पुराणैस् तु निश्चलोऽयं कुतः पुरा ॥**  
-> **यन् न दृष्टं हि वेदेषु तद् दृष्टं स्मृतिषु द्विजाः ।**  
-> **उभयोर् यन् न दृष्टं हि तत् पुराणैः प्रगीयते ॥**  
-> **यो वेद चतुरो वेदान् साङ्गोपनिषदो द्विजाः ।**  
-> **पुराणं नैव जानाति न च स स्याद् विचक्षणः ॥ [२.९०-९३] इति ।**
+> **vedavan niścalaṁ manye purāṇārthaṁ dvijottamāḥ |**  
+> **vedāḥ pratiṣṭhitāḥ sarve purāṇe nātra saṁśayaḥ ||**  
+> **bibhety alpa-śrutād vedī mām ayaṁ cālayiṣyati |**  
+> **itihāsa-purāṇais tu niścalo’yaṁ kutaḥ purā ||**  
+> **yan na dṛṣṭaṁ hi vedeṣu tad dṛṣṭaṁ smṛtiṣu dvijāḥ |**  
+> **ubhayor yan na dṛṣṭaṁ hi tat purāṇaiḥ pragīyate ||**  
+> **yo veda caturo vedān sāṅgopaniṣado dvijāḥ |**  
+> **purāṇaṁ naiva jānāti na ca sa syād vicakṣaṇaḥ || [2.90-93] iti |**
 
-**अथ पुराणानाम् एवं प्रामाण्ये स्थितेऽपि तेषाम् अपि सामस्त्येनाप्रचरद्-रूपत्वात् नानादेवताप्रतिपादक-प्रायत्वाद् अर्वाचीनैः क्षुद्र-बुद्धिभिर् अर्थो दुरधिगम इति तद्-अवस्थ एव संशयः । यद् उक्तं **मात्स्ये—
+**atha purāṇānām evaṁ prāmāṇye sthite’pi teṣām api sāmastyenāpracarad-rūpatvāt nānādevatāpratipādaka-prāyatvād arvācīnaiḥ kṣudra-buddhibhir artho duradhigama iti tad-avastha eva saṁśayaḥ | yad uktaṁ **mātsye—
 
 
-> **पञ्चाङ्गं च पुराणं स्याद् आख्यानम् इतरत् स्मृतम् ।**  
-> **सात्त्विकेषु च कल्पेषु माहात्म्यम् अधिकं हरेः ॥**  
-> **राजसेषु च माहात्म्यम् अधिकं ब्रह्मणो विदुः ।**  
-> **तद्वद् अग्नेश् च माहात्म्यं तामसेषु शिवस्य च ।**  
-> **सङ्कीर्णेषु सरस्वत्याः पितॄणां च निगद्यते ॥ इति ।**
+> **pañcāṅgaṁ ca purāṇaṁ syād ākhyānam itarat smṛtam |**  
+> **sāttvikeṣu ca kalpeṣu māhātmyam adhikaṁ hareḥ ||**  
+> **rājaseṣu ca māhātmyam adhikaṁ brahmaṇo viduḥ |**  
+> **tadvad agneś ca māhātmyaṁ tāmaseṣu śivasya ca |**  
+> **saṅkīrṇeṣu sarasvatyāḥ pitṝṇāṁ ca nigadyate || iti |**
 
-**अत्राग्नेस् तत्-तद्-अगनु प्रतिपाद्यस्य तत्-तद्-यज्ञस्येत्य् अर्थः । शिवस्य चेति चकाराछ् छिवायाश् च । सङ्कीर्णेषु सत्त्व-रजस्-तमोमयेषु कल्पेषु बहुषु । सरस्वत्याः नानावाण्यात्मक-तद्-उपलक्षिताया नानादेवताया इत्य् अर्थः । पितॄणां कर्मणा पितृलोकः [बृ।आ।उ। १.५.१६] इति । श्रुतेस् तत् प्रापक-कर्मणाम् इत्य् अर्थः ॥१७॥**
+**atrāgnes tat-tad-aganu pratipādyasya tat-tad-yajñasyety arthaḥ | śivasya ceti cakārāch chivāyāś ca | saṅkīrṇeṣu sattva-rajas-tamomayeṣu kalpeṣu bahuṣu | sarasvatyāḥ nānāvāṇyātmaka-tad-upalakṣitāyā nānādevatāyā ity arthaḥ | pitṝṇāṁ karmaṇā pitṛlokaḥ [bṛ.ā.u. 1.5.16] iti | śrutes tat prāpaka-karmaṇām ity arthaḥ ||17||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** वेदवद् इति । पुराणार्थो वेदवत् सर्व-सम्मत इत्य् अर्थः । ननु पण्डितैः कृताद् वेद-भाष्यात् तद्-अर्थो ग्राह्य इतिचेत् तत्राह बिभेतीति । अकृते भाष्ये सिद्धे किं तेन कृत्रिमेणेति भावः । अथेति अस्न्दिग्धार्थतया पुराणानाम् एव प्रामाण्ये प्रमाकरणत्व इत्य् अर्थः । अर्वाचीनैः क्ष्द्र-बुद्धिभिर् इति । यस्य विभूतयोऽपीदृश्यः स हरिर् एव सर्व-श्रेष्ठ इति तदैकार्थ्यम्—
+**baladevaḥ :** vedavad iti | purāṇārtho vedavat sarva-sammata ity arthaḥ | nanu paṇḍitaiḥ kṛtād veda-bhāṣyāt tad-artho grāhya iticet tatrāha bibhetīti | akṛte bhāṣye siddhe kiṁ tena kṛtrimeṇeti bhāvaḥ | atheti asndigdhārthatayā purāṇānām eva prāmāṇye pramākaraṇatva ity arthaḥ | arvācīnaiḥ kṣdra-buddhibhir iti | yasya vibhūtayo’pīdṛśyaḥ sa harir eva sarva-śreṣṭha iti tadaikārthyam—
 
 
-> वेद रामायणे चैव पुराणे भारते तथा ।  
-> आदाव् अन्ते च मध्ये च हरिः सर्वत्र गीयते ॥ [ह।वं। १३२.९५][^१५]
+> veda rāmāyaṇe caiva purāṇe bhārate tathā |  
+> ādāv ante ca madhye ca hariḥ sarvatra gīyate || [ha.vaṁ. 132.95][^15]
 
-इति हरिवंशोक्तम् अजानद्भिर् इत्य् अर्थः ॥१७॥
+iti harivaṁśoktam ajānadbhir ity arthaḥ ||17||
 
-[^१५]:
-    अल्तेर्नतिवे रेअदिन्ग्- वेद रामायणे पुण्ये भारते भरतर्षभ । आदाव् चान्ते च मध्ये च हरिः सर्वत्र गीयते ॥
+[^15]:
+    Alternative reading: veda rāmāyaṇe puṇye bhārate bharatarṣabha | ādāv cānte ca madhye ca hariḥ sarvatra gīyate ||
 
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१८]
+[18]
 
-**तद् एवं सति तत्-तत्-कल्प-कथामयत्वेनैव मात्स्य एव प्रसिद्धानां तत्-तत्-पुराणानां व्यवस्था ज्ञापिता । तारतम्यं तु कथं स्यात् येनेतर-निर्णयः क्रियेत ? सत्त्वादि-तारतम्येनैवेति चेत्, सत्त्वात् सञ्जायते ज्ञानं [गीता १४.१७] इति,सत्त्वं यद् ब्रह्म-दर्शनम् [भा।पु। १.२.२४]इति च न्यायात् सात्त्विकम् एव पुराणादिक परमार्थ-ज्ञानाय प्रबलम् इत्य् आयातम् । तथापि परमार्थेऽपि नाना-भङ्ग्या विप्रतिपद्यमानानां समाधानाय किं स्यात् । यदि सर्वस्यापि वेदस्य पुराणस्य चार्थ-निर्णयाय तेनैव श्री-भगवता व्यासेन ब्रह्म-सूत्रं कृतं तद्-अवलोकनेनैव सर्वोऽर्थो निर्णये इत्य् उच्यते । तर्हि नान्य-सूत्रकार-मुन्य्-अनुगतैर् मन्येत । किं च, अत्यन्त-गूढार्थानाम् अल्पाक्षराणां तत्-सूत्राणाम् अन्यार्थत्वं कश्चिद् आचक्षीत । ततः कतरद् इवात्र समाधानम् ? तद् एव समाधेयं यद्य् एकतमम् एव पुराण-लक्षणम् अपौरुषेयं शास्त्रं सर्व-वेदेतिहास-पुराणानाम् अर्थ-सारं ब्रह्म-सूत्रोपजीव्यं च भवद् भुवि सम्पूर्णं प्रचरद्-रूपं स्यात् । **
+**tad evaṁ sati tat-tat-kalpa-kathāmayatvenaiva mātsya eva prasiddhānāṁ tat-tat-purāṇānāṁ vyavasthā jñāpitā | tāratamyaṁ tu kathaṁ syāt yenetara-nirṇayaḥ kriyeta ? sattvādi-tāratamyenaiveti cet, sattvāt sañjāyate jñānaṁ [gītā 14.17] iti,sattvaṁ yad brahma-darśanam [bhā.pu. 1.2.24]iti ca nyāyāt sāttvikam eva purāṇādika paramārtha-jñānāya prabalam ity āyātam | tathāpi paramārthe’pi nānā-bhaṅgyā vipratipadyamānānāṁ samādhānāya kiṁ syāt | yadi sarvasyāpi vedasya purāṇasya cārtha-nirṇayāya tenaiva śrī-bhagavatā vyāsena brahma-sūtraṁ kṛtaṁ tad-avalokanenaiva sarvo’rtho nirṇaye ity ucyate | tarhi nānya-sūtrakāra-muny-anugatair manyeta | kiṁ ca, atyanta-gūḍhārthānām alpākṣarāṇāṁ tat-sūtrāṇām anyārthatvaṁ kaścid ācakṣīta | tataḥ katarad ivātra samādhānam ? tad eva samādheyaṁ yady ekatamam eva purāṇa-lakṣaṇam apauruṣeyaṁ śāstraṁ sarva-vedetihāsa-purāṇānām artha-sāraṁ brahma-sūtropajīvyaṁ ca bhavad bhuvi sampūrṇaṁ pracarad-rūpaṁ syāt | **
 
-**सत्यम् उक्तम्, यत एव च सर्व-प्रमाणानां चक्रवर्ति-भूतम् अस्मद्-अभिमतं श्रीमद्-भागवतम् एवोद्भावितं भवता ॥१८॥**
+**satyam uktam, yata eva ca sarva-pramāṇānāṁ cakravarti-bhūtam asmad-abhimataṁ śrīmad-bhāgavatam evodbhāvitaṁ bhavatā ||18||**
 
-**सर्व-संवादिनी : **ननु ब्रह्म-सूत्रस्यापि वेदान्तर्-भूतत्वं श्रूयते इत्य् आशङ्क्याह—किं चात्यन्त- [मू। १] इति ॥१८॥ 
+**sarva-saṁvādinī : **nanu brahma-sūtrasyāpi vedāntar-bhūtatvaṁ śrūyate ity āśaṅkyāha—kiṁ cātyanta- [mū. 1] iti ||18|| 
 
-**बलदेवः :** तद् एवम् इति । मात्स्य एवेति । पुराण-सङ्ख्या-तद्-दान-फल-कथनाञ्चितेऽध्याय इति बोध्यम् । तारतम्यम् इति । अपकर्षोत्कर्ष-रूपं येनेतरस्योत्कृष्टस्य पुराणस्य निर्णयः स्याद् इत्य् अर्थः । सात्त्विक-पुराणम् एवोत्कृष्टम् इति भावेन स्वयम् आह सत्त्वाद् इति । पृच्छति तथापीति, परमार्थ-निर्णयाय सात्त्विक-शास्त्राङ्गीकारेऽपीत्य् अर्थः । नाना-भङ्ग्येति।सगुणं निर्गुणं ज्ञान-गुणकं जडम् इत्य्-आदिकं कुटिल-युक्ति-कदम्बैर् निरूपयताम् इत्य् अर्थः । नाना-सूत्र-कारेति । गौतमाद्य्-अनुसारिभिर् इत्य् अर्थः । ननु ब्रह्म-सूत्र-शास्त्रे स्थिते कापेक्षा तद्-अन्य-सूत्राणाम् इति चेत् तत्राह किं चात्यन्तेति । पृष्टः प्राह तद् एवेति । ब्रह्म-सूत्रोपजीव्यम् इति । येन ब्रह्म-सूत्रं स्थिरार्थं स्याद् इत्य् अर्थः । पृष्टस्य हृद्-गतं स्फुटयति सत्यम् उक्तम् इत्य्-आदिना ॥१८॥
+**baladevaḥ :** tad evam iti | mātsya eveti | purāṇa-saṅkhyā-tad-dāna-phala-kathanāñcite’dhyāya iti bodhyam | tāratamyam iti | apakarṣotkarṣa-rūpaṁ yenetarasyotkṛṣṭasya purāṇasya nirṇayaḥ syād ity arthaḥ | sāttvika-purāṇam evotkṛṣṭam iti bhāvena svayam āha sattvād iti | pṛcchati tathāpīti, paramārtha-nirṇayāya sāttvika-śāstrāṅgīkāre’pīty arthaḥ | nānā-bhaṅgyeti|saguṇaṁ nirguṇaṁ jñāna-guṇakaṁ jaḍam ity-ādikaṁ kuṭila-yukti-kadambair nirūpayatām ity arthaḥ | nānā-sūtra-kāreti | gautamādy-anusāribhir ity arthaḥ | nanu brahma-sūtra-śāstre sthite kāpekṣā tad-anya-sūtrāṇām iti cet tatrāha kiṁ cātyanteti | pṛṣṭaḥ prāha tad eveti | brahma-sūtropajīvyam iti | yena brahma-sūtraṁ sthirārthaṁ syād ity arthaḥ | pṛṣṭasya hṛd-gataṁ sphuṭayati satyam uktam ity-ādinā ||18||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१९]
+[19]
 
-**यत् खलु सर्व-पुराण-जातम् आविर्भाव्य, ब्रह्म-सूत्रं च प्रणीयाप्य् अपरितुष्टेन तेन भगवता निज-सूत्राणाम् अकृत्रिम-भाष्य-भूतं समाधि-लब्धम् आविर्भावितं, यस्मिन्न् एव सर्व-शास्त्र-समन्वयो दृश्यते, सर्व-वेदार्थ-लक्षणां गायत्रीम् अधिकृत्य प्रवर्तितत्वात् । तथा हि तत्-स्वरूपं मात्स्ये—**
+**yat khalu sarva-purāṇa-jātam āvirbhāvya, brahma-sūtraṁ ca praṇīyāpy aparituṣṭena tena bhagavatā nija-sūtrāṇām akṛtrima-bhāṣya-bhūtaṁ samādhi-labdham āvirbhāvitaṁ, yasminn eva sarva-śāstra-samanvayo dṛśyate, sarva-vedārtha-lakṣaṇāṁ gāyatrīm adhikṛtya pravartitatvāt | tathā hi tat-svarūpaṁ mātsye—**
 
 
-> **यत्राधिकृत्य गायत्रीं वर्ण्यते धर्म-विस्तरः ।**  
-> **वृत्रासुर-वधोपेतं तद्-भागवतम् इष्यते ॥ [म।पु। ५३.२०]**  
-> **लिखित्वा तच् च यो दद्याद् धेम-सिंह-समन्वितम् ।**  
-> **प्रौष्ठ-पद्यां पौर्णमास्यां स याति परमां गतिम् ।**  
-> **अष्टादश-सहस्राणि पुराणं तत् प्रकीर्तितम् ॥ [म।पु। ५३.२२] इति ।**
+> **yatrādhikṛtya gāyatrīṁ varṇyate dharma-vistaraḥ |**  
+> **vṛtrāsura-vadhopetaṁ tad-bhāgavatam iṣyate || [ma.pu. 53.20]**  
+> **likhitvā tac ca yo dadyād dhema-siṁha-samanvitam |**  
+> **prauṣṭha-padyāṁ paurṇamāsyāṁ sa yāti paramāṁ gatim |**  
+> **aṣṭādaśa-sahasrāṇi purāṇaṁ tat prakīrtitam || [ma.pu. 53.22] iti |**
 
-**अत्र _गायत्री_-शब्देन तत्-सूचक-तद्-अव्यभिचारि-_धीमहि_-पद-संवलित-तद्-अर्थम् एवेष्यते, सर्वेषां मन्त्राणाम् आदि-रूपायास् तस्याः साक्षात्-कथनानर्हत्वात् । तद्-अर्थता च जन्माद्य् अस्य यतः [भा।पु। १.१.१], तेन ब्रह्म हृदा इति सर्व-लोकाश्रयत्व-बुद्धि-वृत्ति-प्रेरकत्वादि-साम्यात् । _धर्म-विस्तर_ इत्य् अत्र धर्म-शब्दः परम-धर्म-परः,धर्मः प्रोज्झित-कैतवोऽत्र परमः [भा।पु। १.१.२] इत्य् अत्रैव प्रतिपादितत्वात् । स च भगवद्-ध्यानादि-लक्षण एवेति पुरस्ताद् व्यक्तीभविष्यति ॥१९॥**
+**atra _gāyatrī_-śabdena tat-sūcaka-tad-avyabhicāri-_dhīmahi_-pada-saṁvalita-tad-artham eveṣyate, sarveṣāṁ mantrāṇām ādi-rūpāyās tasyāḥ sākṣāt-kathanānarhatvāt | tad-arthatā ca janmādy asya yataḥ [bhā.pu. 1.1.1], tena brahma hṛdā iti sarva-lokāśrayatva-buddhi-vṛtti-prerakatvādi-sāmyāt | _dharma-vistara_ ity atra dharma-śabdaḥ parama-dharma-paraḥ,dharmaḥ projjhita-kaitavo’tra paramaḥ [bhā.pu. 1.1.2] ity atraiva pratipāditatvāt | sa ca bhagavad-dhyānādi-lakṣaṇa eveti purastād vyaktībhaviṣyati ||19||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** श्री-भागवतं स्तौति—यत् खल्व् इत्य्-आदि । अपरितुष्टेनेति—पुराण-जाते ब्रह्म-सूत्रे च भगवत्-पारमैश्वर्य-माधुर्ययोः सन्दिग्धतया गूढतया चोक्तेस् तत्र तत्र चापरितोषः । श्री-भागवते तु तयोस् तद्-विलक्षणतयोक्तेस् तत्र परितोष इति बोध्यम् । तद्-अर्थता गायत्र्य्-अर्थता । स च भगवद्-ध्यानादि-लक्षण इति । विशुद्ध-भक्ति-मार्ग-बोधक इत्य् अर्थः ॥१९॥
+**baladevaḥ :** śrī-bhāgavataṁ stauti—yat khalv ity-ādi | aparituṣṭeneti—purāṇa-jāte brahma-sūtre ca bhagavat-pāramaiśvarya-mādhuryayoḥ sandigdhatayā gūḍhatayā coktes tatra tatra cāparitoṣaḥ | śrī-bhāgavate tu tayos tad-vilakṣaṇatayoktes tatra paritoṣa iti bodhyam | tad-arthatā gāyatry-arthatā | sa ca bhagavad-dhyānādi-lakṣaṇa iti | viśuddha-bhakti-mārga-bodhaka ity arthaḥ ||19||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२०]
+[20]
 
-**एवं स्कान्दे प्रभास-खण्डे [२.३९-४२] च,यत्राधिकृत्य गायत्रीम् इत्य्-आदि । **
+**evaṁ skānde prabhāsa-khaṇḍe [2.39-42] ca,yatrādhikṛtya gāyatrīm ity-ādi | **
 
 
-> **सारस्वतस्य कल्पस्य मध्ये ये स्युर् नरामराः । **  
-> **तद्-वृत्तान्तोद्भवं लोके तच् च भागवतं स्मृतम् ॥**
+> **sārasvatasya kalpasya madhye ye syur narāmarāḥ | **  
+> **tad-vṛttāntodbhavaṁ loke tac ca bhāgavataṁ smṛtam ||**
 
-**लिखित्वा तच् चैत्य्-आदि । अष्टादश-सहस्राणि पुराणं तत् प्रकीर्तितम् इति च । तद् एवम् अग्नि-पुराणे च वचनानि वर्तन्ते । टीका-कृद्भिः प्रमाणी-कृते पुराणान्तरे च—**
+**likhitvā tac caity-ādi | aṣṭādaśa-sahasrāṇi purāṇaṁ tat prakīrtitam iti ca | tad evam agni-purāṇe ca vacanāni vartante | ṭīkā-kṛdbhiḥ pramāṇī-kṛte purāṇāntare ca—**
 
 
-> **ग्रन्थोऽष्टादश-साहस्रो द्वादश-स्कन्ध-सम्मितः ।**  
-> **हयग्रीव-ब्रह्म-विद्या यत्र वृत्र-वधस् तथा ।**  
-> **गायत्र्या च समारम्भस् तद् वै भागवतं विदुः ॥ इति ।**
+> **grantho’ṣṭādaśa-sāhasro dvādaśa-skandha-sammitaḥ |**  
+> **hayagrīva-brahma-vidyā yatra vṛtra-vadhas tathā |**  
+> **gāyatryā ca samārambhas tad vai bhāgavataṁ viduḥ || iti |**
 
-**अत्र _हयग्रीव-ब्रह्म-विद्या_ इति _वृत्र-वध_-साहचर्येण नारायण-वर्मैवोच्यते । हयग्रीव-शब्देनात्राश्वशिरा दधीचिर् एवोच्यते । तेनैव च प्रवर्तिता नारायण-वर्माख्या ब्रह्म-विद्या । तस्याश्व-शिरस्त्वं च **षष्ठे**यद् वा अश्व-शिरो नाम [भा।पु। ६.९.५२] इत्य् अत्र प्रसिद्धं नारायण-वर्मणो ब्रह्म-विद्यात्वं च—**
+**atra _hayagrīva-brahma-vidyā_ iti _vṛtra-vadha_-sāhacaryeṇa nārāyaṇa-varmaivocyate | hayagrīva-śabdenātrāśvaśirā dadhīcir evocyate | tenaiva ca pravartitā nārāyaṇa-varmākhyā brahma-vidyā | tasyāśva-śirastvaṁ ca **ṣaṣṭhe**yad vā aśva-śiro nāma [bhā.pu. 6.9.52] ity atra prasiddhaṁ nārāyaṇa-varmaṇo brahma-vidyātvaṁ ca—**
 
 
-> **एतच् छ्रुत्वा तथोवाच दध्यङ् आथर्वणस् तयोः ।**  
-> **प्रवर्ग्यं ब्रह्म-विद्यां च सत्-कृतोऽसत्य-शङ्कितः ॥ **
+> **etac chrutvā tathovāca dadhyaṅ ātharvaṇas tayoḥ |**  
+> **pravargyaṁ brahma-vidyāṁ ca sat-kṛto’satya-śaṅkitaḥ || **
 
-**इति टीकोत्थापित-वचनेन चेति । श्रीमद्-भागवतस्य भगवत्-प्रियत्वेन भागवताभीष्टत्वेन च परम-सात्त्विकत्वम् । यथा पाद्मे अम्बरीषं प्रति गौतम-प्रश्नः—**
+**iti ṭīkotthāpita-vacanena ceti | śrīmad-bhāgavatasya bhagavat-priyatvena bhāgavatābhīṣṭatvena ca parama-sāttvikatvam | yathā pādme ambarīṣaṁ prati gautama-praśnaḥ—**
 
 
-> **पुराणं त्वं भागवतं पठसे पुरतो हरेः ।**  
-> **चरितं दैत्य-राजस्य प्रह्लादस्य च भूपते ॥ [प।पु। ६.२२.११५]**
+> **purāṇaṁ tvaṁ bhāgavataṁ paṭhase purato hareḥ |**  
+> **caritaṁ daitya-rājasya prahlādasya ca bhūpate || [pa.pu. 6.22.115]**
 
-**तत्रैव वञ्जुली-माहात्म्ये तस्य तस्मिन्न् उपदेशः—**
+**tatraiva vañjulī-māhātmye tasya tasminn upadeśaḥ—**
 
 
-> **रात्रौ तु जागरः कार्यः श्रोतव्या वैष्णवी कथा ।**  
-> **गीतानाम् असहस्रं च पुराणं शुक-भाषितम् ।**  
-> **पठितव्यं प्रयत्नेन हरेः सन्तोष-कारणम् ॥ [प।पु।]**
+> **rātrau tu jāgaraḥ kāryaḥ śrotavyā vaiṣṇavī kathā |**  
+> **gītānām asahasraṁ ca purāṇaṁ śuka-bhāṣitam |**  
+> **paṭhitavyaṁ prayatnena hareḥ santoṣa-kāraṇam || [pa.pu.]**
 
-**तत्रैवान्यत्र—**
+**tatraivānyatra—**
 
 
-> **अम्बरीष शुक-प्रोक्तं नित्यं भागवतं शृणु ।**  
-> **पठस्व स्व-मुखेनैव यदीच्छसि भव-क्षयम् ॥ [प।पु।]**
+> **ambarīṣa śuka-proktaṁ nityaṁ bhāgavataṁ śṛṇu |**  
+> **paṭhasva sva-mukhenaiva yadīcchasi bhava-kṣayam || [pa.pu.]**
 
-स्कान्दे **प्रह्लाद-संहितायां द्वारका-माहात्म्ये—**
+skānde **prahlāda-saṁhitāyāṁ dvārakā-māhātmye—**
 
 
-> **श्रीमद्-भागवतं भक्त्या पठते हरि-सन्निधौ ।**  
-> **जागरे तत्-पदं याति कुल-वृन्द-समन्वितः ॥२०॥**
+> **śrīmad-bhāgavataṁ bhaktyā paṭhate hari-sannidhau |**  
+> **jāgare tat-padaṁ yāti kula-vṛnda-samanvitaḥ ||20||**
 
-**सर्व-संवादिनी : **श्री-भागवत-स्वरूप-ज्ञाने प्रमाणान्तरम् आह—एवं स्कान्द इति । “यत्र” इत्य्-आदिकं च पद्यं यथा मात्स्यम् एव ज्ञेयम् । सारस्वतस्य इति तत्-कल्प-मध्ये या भगवल्-लीलास् तत्-सम्बन्धिनः । 
+**sarva-saṁvādinī : **śrī-bhāgavata-svarūpa-jñāne pramāṇāntaram āha—evaṁ skānda iti | “yatra” ity-ādikaṁ ca padyaṁ yathā mātsyam eva jñeyam | sārasvatasya iti tat-kalpa-madhye yā bhagaval-līlās tat-sambandhinaḥ | 
 
-“ये स्युर् नरामराः” [स्कान्धे प्रभास-खण्डे] इति कल्पान्तर-भगवत्-कथा तु तत्र प्रायिक्य् एवेत्य् अर्थः । सा च पाद्म-कल्पम् अथो शृणु इत्य् आद्या । यत्र विशेष-वाक्यम्, तत्रान्यत्र क्वचिद् एवेति ज्ञेयम् । अत्र प्रभास-खण्डे यद् अष्टादश-पुराणाविर्भावानन्तरम् एव भारतं प्रकाशितम् इति श्रूयते, तद् भागवत-विरोधात्, भारतार्थ-विनिर्णयः [गारुडोक्तौ] इति श्री-भागवत-माहात्म्य-विरोधाच् च । पूर्वं कृतम् अपि भारतं तत्-पश्चाज् जनमेजयादिषु प्रचारितम् इत्य् अपेक्ष्यैव ज्ञेयम् । तद् एवं प्रमाण-प्रकरणं व्याख्यातम् ॥२०॥
+“ye syur narāmarāḥ” [skāndhe prabhāsa-khaṇḍe] iti kalpāntara-bhagavat-kathā tu tatra prāyiky evety arthaḥ | sā ca pādma-kalpam atho śṛṇu ity ādyā | yatra viśeṣa-vākyam, tatrānyatra kvacid eveti jñeyam | atra prabhāsa-khaṇḍe yad aṣṭādaśa-purāṇāvirbhāvānantaram eva bhārataṁ prakāśitam iti śrūyate, tad bhāgavata-virodhāt, bhāratārtha-vinirṇayaḥ [gāruḍoktau] iti śrī-bhāgavata-māhātmya-virodhāc ca | pūrvaṁ kṛtam api bhārataṁ tat-paścāj janamejayādiṣu pracāritam ity apekṣyaiva jñeyam | tad evaṁ pramāṇa-prakaraṇaṁ vyākhyātam ||20||
 
-**बलदेवः :** ग्रन्थ इत्य् आदौ हयग्रीवादि-शब्दयोर् भ्रान्तिं निराकुर्वन् व्याचष्टे । अत्र हयग्रीवेत्य् आदिना । एतच् छ्रुत्वेति । दध्यङ् दधीचिः । प्रवर्ग्यम् इति प्राण-विद्याम् । ननु पाद्मादीनि सात्त्विकानि पञ्च सन्ति । तैर् अस्तु विचार इति चेत् तत्राह श्रीमद् इति । एतस्य परम-सात्त्विकत्वे पाद्मादि-वचनान्य् उदाहरति पुराणं त्वम् इत्य्-आदिना । कुल-वृन्देति तत्-कर्तृक-श्रवण-महिम्ना तत्-कुलस्य च हरि-पद-लाभ इत्य् अर्थः ॥२०॥
+**baladevaḥ :** grantha ity ādau hayagrīvādi-śabdayor bhrāntiṁ nirākurvan vyācaṣṭe | atra hayagrīvety ādinā | etac chrutveti | dadhyaṅ dadhīciḥ | pravargyam iti prāṇa-vidyām | nanu pādmādīni sāttvikāni pañca santi | tair astu vicāra iti cet tatrāha śrīmad iti | etasya parama-sāttvikatve pādmādi-vacanāny udāharati purāṇaṁ tvam ity-ādinā | kula-vṛndeti tat-kartṛka-śravaṇa-mahimnā tat-kulasya ca hari-pada-lābha ity arthaḥ ||20||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२१]
+[21]
 
-**गारुडे च—**
+**gāruḍe ca—**
 
 
-> **॥। पूर्णः सोऽयम् अतिशयः ।**  
-> **अर्थोऽयं ब्रह्म-सूत्राणां भारतार्थ-विनिर्णयः ॥**  
-> **गायत्री-भाष्य-रूपोऽसौ वेदार्थ-परिबृंहितः ।**  
-> **पुराणानां साम-रूपः साक्षाद्-भगवतोदितः ॥**  
-> **द्वादश-स्कन्ध-युक्तोऽयं शत-विच्छेद-संयुतः ।**  
-> **ग्रन्थोऽष्टादश-साहस्रः श्रीमद्-भागवताभिधः ॥ इति ।**
+> **... pūrṇaḥ so’yam atiśayaḥ |**  
+> **artho’yaṁ brahma-sūtrāṇāṁ bhāratārtha-vinirṇayaḥ ||**  
+> **gāyatrī-bhāṣya-rūpo’sau vedārtha-paribṛṁhitaḥ |**  
+> **purāṇānāṁ sāma-rūpaḥ sākṣād-bhagavatoditaḥ ||**  
+> **dvādaśa-skandha-yukto’yaṁ śata-viccheda-saṁyutaḥ |**  
+> **grantho’ṣṭādaśa-sāhasraḥ śrīmad-bhāgavatābhidhaḥ || iti |**
 
-**ब्रह्म-सूत्राणाम् अर्थस् तेषाम् अकृत्रिम-भाष्य-भूत इत्य् अर्थः । पूर्वं सूक्ष्मत्वेन मनस्य् आविर्भूतं, तद् एव सङ्क्षिप्य सूत्रत्वेन पुनः प्रकटितं, पश्चाद् विस्तीर्णत्वेन साक्षाच्-छ्री-भागवतम् इति । तस्मात् तद्-भाष्य-भूते स्वतः-सिद्धे तस्मिन् सत्यर्वचीनम् अन्यद् अन्येषां स्व-स्व-कपोल-कल्पितं तद्-अनुगतम् एवादरणीयम् इति गम्यते । **
+**brahma-sūtrāṇām arthas teṣām akṛtrima-bhāṣya-bhūta ity arthaḥ | pūrvaṁ sūkṣmatvena manasy āvirbhūtaṁ, tad eva saṅkṣipya sūtratvena punaḥ prakaṭitaṁ, paścād vistīrṇatvena sākṣāc-chrī-bhāgavatam iti | tasmāt tad-bhāṣya-bhūte svataḥ-siddhe tasmin satyarvacīnam anyad anyeṣāṁ sva-sva-kapola-kalpitaṁ tad-anugatam evādaraṇīyam iti gamyate | **
 
-**भारतार्थ-विनिर्णयः—**
+**bhāratārtha-vinirṇayaḥ—**
 
 
-> **निर्णयः सर्व-शास्त्राणां भारतं परिकीर्तितम् ।**  
-> **भारतं सर्व-वेदाश् च तुलाम् आरोपिताः पुरा ।**  
-> **देवैर् ब्रह्मादिभिः सर्वैर् ऋषिभिश् च समन्वितैः ॥**  
-> **व्यासस्यैवाज्ञया तत्र त्वत्यरिच्यत भारतम् ।**  
-> **महत्त्वाद् भारवत्त्वाच् च महाभारतम् उच्यते ॥**
+> **nirṇayaḥ sarva-śāstrāṇāṁ bhārataṁ parikīrtitam |**  
+> **bhārataṁ sarva-vedāś ca tulām āropitāḥ purā |**  
+> **devair brahmādibhiḥ sarvair ṛṣibhiś ca samanvitaiḥ ||**  
+> **vyāsasyaivājñayā tatra tvatyaricyata bhāratam |**  
+> **mahattvād bhāravattvāc ca mahābhāratam ucyate ||**
 
-**इत्य् आद्य्-उक्त-लक्षणस्य भारतस्यार्थ-विनिर्णयो यत्र सः । श्री-भगवत्य् एव तात्पर्यं तस्यापि । तद् उक्तं मोक्ष-धर्मे नारायणीये श्री-वेद-व्यासं प्रति जनमेजयेन—**
+**ity ādy-ukta-lakṣaṇasya bhāratasyārtha-vinirṇayo yatra saḥ | śrī-bhagavaty eva tātparyaṁ tasyāpi | tad uktaṁ mokṣa-dharme nārāyaṇīye śrī-veda-vyāsaṁ prati janamejayena—**
 
 
-> **इदं शत-सहस्राद् धि भारताख्यान-विस्तरात् ।**  
-> **आमथ्य मति-मन्थेन ज्ञानोदधिम् अनुत्तमम् ॥**  
-> **नवनीतं यथा दध्नो मलयाच् चन्दनं यथा ।**  
-> **आरण्यकं च वेदेभ्य ओषधिभ्योऽमृतं यथा ॥**  
-> **समुद्धृतम् इदं ब्रह्मन् कथामृतम् अनुत्तमम् ।**  
-> **तपो-निधे त्वयोक्तं हि नारायण-कथाश्रयम् ॥ [म।भा। १२.३३१.२-४] इति ॥२१॥**
+> **idaṁ śata-sahasrād dhi bhāratākhyāna-vistarāt |**  
+> **āmathya mati-manthena jñānodadhim anuttamam ||**  
+> **navanītaṁ yathā dadhno malayāc candanaṁ yathā |**  
+> **āraṇyakaṁ ca vedebhya oṣadhibhyo’mṛtaṁ yathā ||**  
+> **samuddhṛtam idaṁ brahman kathāmṛtam anuttamam |**  
+> **tapo-nidhe tvayoktaṁ hi nārāyaṇa-kathāśrayam || [ma.bhā. 12.331.2-4] iti ||21||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** गारुड-वचनैश् च परम-सात्त्विकत्वं व्यञ्जयन् ब्रह्म-सूत्राद्य्-अर्थ-निर्णीयकत्वं गुणम् आह अर्थोऽयम् इति । गारुड-वाक्य-पदानि व्याचष्टे ब्रह्म-सूत्राणाम् इत्य्-आदिना । तस्मात् तद्-भाष्येत्य् आदि अन्यद् वैष्णवाचार्य-रचितम् आधुनिकं भाष्यं तद्-अनुगतं श्री-भागवताविरुद्धम् एवादर्तव्यम् । तद्-विरुद्धं शङ्कर-भट्ट-भास्करादि-रचितं तु हेयम् इत्य् अर्थः । भारतार्थेति पदं व्याकुर्वन् भारत-वाक्येनैव भारत-स्वरूपं दर्शयति निर्णयः सर्वेति । भारतं किं तात्पर्यकम् इत्य् आह श्रीभगवत्य् एवेति । तस्य भारतस्यापीत्य् अर्थः । भारतस्य भगवत्-तात्-पर्यकत्वे नारायणीय-वाक्यम् उदाहरति इदं शतेत्य् आदि ॥२१॥
+**baladevaḥ :** gāruḍa-vacanaiś ca parama-sāttvikatvaṁ vyañjayan brahma-sūtrādy-artha-nirṇīyakatvaṁ guṇam āha artho’yam iti | gāruḍa-vākya-padāni vyācaṣṭe brahma-sūtrāṇām ity-ādinā | tasmāt tad-bhāṣyety ādi anyad vaiṣṇavācārya-racitam ādhunikaṁ bhāṣyaṁ tad-anugataṁ śrī-bhāgavatāviruddham evādartavyam | tad-viruddhaṁ śaṅkara-bhaṭṭa-bhāskarādi-racitaṁ tu heyam ity arthaḥ | bhāratārtheti padaṁ vyākurvan bhārata-vākyenaiva bhārata-svarūpaṁ darśayati nirṇayaḥ sarveti | bhārataṁ kiṁ tātparyakam ity āha śrībhagavaty eveti | tasya bhāratasyāpīty arthaḥ | bhāratasya bhagavat-tāt-paryakatve nārāyaṇīya-vākyam udāharati idaṁ śatety ādi ||21||
 
-—ओ)०(ओ—
+—o)0(o—
 
-[२२]
+[22]
 
-**तथा चतृतीये—**
+**tathā catṛtīye—**
 
 
-> **मुनिर् विवक्षुर् भगवद्-गुणानां**  
-> **सखापि ते भारतम् आह कृष्णः ।**  
-> **यस्मिन् नृणां ग्राम्य-सुखानुवादैर्**  
-> **मतिर् गृहीता नु हरेः कथायाम् ॥ [भा।पु। ३.५.१२] इति ।**
+> **munir vivakṣur bhagavad-guṇānāṁ**  
+> **sakhāpi te bhāratam āha kṛṣṇaḥ |**  
+> **yasmin nṛṇāṁ grāmya-sukhānuvādair**  
+> **matir gṛhītā nu hareḥ kathāyām || [bhā.pu. 3.5.12] iti |**
 
-**तस्माद् गायत्री-भाष्य-रूपोऽसौ । तथैव हि विष्णु-धर्मोत्तरादौ तद्-व्याख्याने भगवान् एव विस्तरेण प्रतिपादितः । अत्र जन्माद्यस्य इत्य् अस्य व्याख्यानं च तथा दर्शयिष्यते । **
+**tasmād gāyatrī-bhāṣya-rūpo’sau | tathaiva hi viṣṇu-dharmottarādau tad-vyākhyāne bhagavān eva vistareṇa pratipāditaḥ | atra janmādyasya ity asya vyākhyānaṁ ca tathā darśayiṣyate | **
 
-**वेदार्थ-परिबृंहितः । वेदार्थस्य परिबृंहणं यस्मात् । तच् चोक्तम्,इतिहास-पुराणाभ्याम् इत्य्-आदि । पुराणानां साम-रूपः । वेदेषु सामवत् स तेषु श्रेष्ठ इत्य् अर्थः । अतएव स्कान्दे—**
+**vedārtha-paribṛṁhitaḥ | vedārthasya paribṛṁhaṇaṁ yasmāt | tac coktam,itihāsa-purāṇābhyām ity-ādi | purāṇānāṁ sāma-rūpaḥ | vedeṣu sāmavat sa teṣu śreṣṭha ity arthaḥ | ataeva skānde—**
 
 
-> **शतशोऽथ सहस्रैश् च किम् अन्यैः शास्त्र-सङ्ग्रहैः ।**  
-> **न यस्य तिष्ठते गेहे शास्त्रं भागवतं कलौ ॥**  
-> **कथं स वैष्णवो ज्ञेयः शास्त्रं भागवतं कलौ ।**  
-> **गृहे न तिष्ठते यस्य स विप्रः श्वपचाधमः ॥**  
-> **यत्र यत्र भवेद् विप्र शास्त्रं भागवतं कलौ ।**  
-> **तत्र तत्र हरिर् याति त्रिदशैः सह नारद ॥**  
-> **यः पठेत् प्रयतो नित्यं श्लोकं भागवतं मुने ।**  
-> **अष्टादश-पुराणानां फलं प्राप्नोति मानवः ॥ इति ।**
+> **śataśo’tha sahasraiś ca kim anyaiḥ śāstra-saṅgrahaiḥ |**  
+> **na yasya tiṣṭhate gehe śāstraṁ bhāgavataṁ kalau ||**  
+> **kathaṁ sa vaiṣṇavo jñeyaḥ śāstraṁ bhāgavataṁ kalau |**  
+> **gṛhe na tiṣṭhate yasya sa vipraḥ śvapacādhamaḥ ||**  
+> **yatra yatra bhaved vipra śāstraṁ bhāgavataṁ kalau |**  
+> **tatra tatra harir yāti tridaśaiḥ saha nārada ||**  
+> **yaḥ paṭhet prayato nityaṁ ślokaṁ bhāgavataṁ mune |**  
+> **aṣṭādaśa-purāṇānāṁ phalaṁ prāpnoti mānavaḥ || iti |**
 
 <p style="text-align: right">
-<strong>[विष्णु-खण्डे मार्ग-शीर्ष-माहात्म्ये १६.४०,४२,४४,३३]</strong></p>
+<strong>[viṣṇu-khaṇḍe mārga-śīrṣa-māhātmye 16.40,42,44,33]</strong></p>
 
 
-**शत-विच्छेद-संयुतः । पञ्चत्रिंशद्-अधिक-शत-त्रयाध्याय-विशिष्ट इत्य् अर्थः । स्पष्टार्थम् अन्यत् । **
+**śata-viccheda-saṁyutaḥ | pañcatriṁśad-adhika-śata-trayādhyāya-viśiṣṭa ity arthaḥ | spaṣṭārtham anyat | **
 
-**तद् एवं परमार्थ-विवित्सुभिः श्री-भागवतम् एव साम्प्रतं विचारणीयम् इति स्थितम् । हेमाद्रेर्व्रत-खण्डे—**
+**tad evaṁ paramārtha-vivitsubhiḥ śrī-bhāgavatam eva sāmprataṁ vicāraṇīyam iti sthitam | hemādrervrata-khaṇḍe—**
 
 
-> **स्त्री-शूद्र-द्विजबन्धूनां त्रयी न श्रुति-गोचरा ।**  
-> **कर्म-श्रेयसि मूढानां श्रेय एवं भवेद् इह ।**  
-> **इति भारतम् आख्यानं कृपया मुनिना कृतम् ॥ [भा।पु। १.४.२५]**
+> **strī-śūdra-dvijabandhūnāṁ trayī na śruti-gocarā |**  
+> **karma-śreyasi mūḍhānāṁ śreya evaṁ bhaved iha |**  
+> **iti bhāratam ākhyānaṁ kṛpayā muninā kṛtam || [bhā.pu. 1.4.25]**
 
-**इति वाक्यं श्री-भागवतीयत्वेनोत्थाप्य भारतस्य वेदार्थ-तुल्यत्वेन निर्णयः कृत इति । तन्-मतानुसारेण त्व् एवं व्याख्येयं भारतार्थस्य विनिर्णयः । वेदार्थ-तुल्यत्वेन विशिष्य निर्णयो यत्रेति । यस्माद् एवं भगवत्-परस् तस्माद् एव यत्राधिकृत्य गायत्रीम् इति कृत-लक्षण-श्रीमद्-भागवत-नामा ग्रन्थः श्री-भगवत्-पराया गायत्र्या भाष्य-रूपोऽसौ । तद् उक्तं _यत्राधिकृत्य गायत्रीम्_ इत्य्-आदि । **
+**iti vākyaṁ śrī-bhāgavatīyatvenotthāpya bhāratasya vedārtha-tulyatvena nirṇayaḥ kṛta iti | tan-matānusāreṇa tv evaṁ vyākhyeyaṁ bhāratārthasya vinirṇayaḥ | vedārtha-tulyatvena viśiṣya nirṇayo yatreti | yasmād evaṁ bhagavat-paras tasmād eva yatrādhikṛtya gāyatrīm iti kṛta-lakṣaṇa-śrīmad-bhāgavata-nāmā granthaḥ śrī-bhagavat-parāyā gāyatryā bhāṣya-rūpo’sau | tad uktaṁ _yatrādhikṛtya gāyatrīm_ ity-ādi | **
 
-**तथैव ह्य् अग्नि-पुराणेतस्य व्याख्याने विस्तरेण प्रतिपादितः । तत्र तदीय-व्याख्या-दिग्-दर्शनं यथा—**
+**tathaiva hy agni-purāṇetasya vyākhyāne vistareṇa pratipāditaḥ | tatra tadīya-vyākhyā-dig-darśanaṁ yathā—**
 
-**तज्-ज्योतिः परमं ब्रह्म भर्गस् तेजो यतः स्मृतः । [अ।पु। २१६.३]**
+**taj-jyotiḥ paramaṁ brahma bhargas tejo yataḥ smṛtaḥ | [a.pu. 216.3]**
 
-**इत्य् आरभ्य पुनर् आह—**
+**ity ārabhya punar āha—**
 
 
-> **तज्-ज्योतिर् भगवान् विष्णुर् जगज्-जन्मादि-कारणम् ॥ **  
-> **शिवं केचित् पठन्ति स्म शक्ति-रूपं पठन्ति च ।**  
-> **केचित् सूर्यं केचिद् अग्निं दैवतान्य् अग्नि-होत्रिणः ॥**  
-> **अग्न्य्-आदि-रूपो विष्णुर् हि वेदादौ ब्रह्म गीयते ।[अ।पु। २१६.७-८]**
+> **taj-jyotir bhagavān viṣṇur jagaj-janmādi-kāraṇam || **  
+> **śivaṁ kecit paṭhanti sma śakti-rūpaṁ paṭhanti ca |**  
+> **kecit sūryaṁ kecid agniṁ daivatāny agni-hotriṇaḥ ||**  
+> **agny-ādi-rūpo viṣṇur hi vedādau brahma gīyate |[a.pu. 216.7-8]**
 
-**अत्र जन्माद्यस्य इत्य् अस्य व्याख्यानं च तथा दर्शयिष्यते । कस्मै येन विभासितोऽयं इत्य् उपसंहार-वाक्ये च तच्-छुद्धं [भा।पु। १२.१३.१९] इत्य्-आदि-समानम् एवाग्नि-पुराणे तद् व्याख्यानम् ।**
+**atra janmādyasya ity asya vyākhyānaṁ ca tathā darśayiṣyate | kasmai yena vibhāsito’yaṁ ity upasaṁhāra-vākye ca tac-chuddhaṁ [bhā.pu. 12.13.19] ity-ādi-samānam evāgni-purāṇe tad vyākhyānam |**
 
 
-> **नित्यं शुद्धं परं ब्रह्म नित्य-भर्गम् अधीश्वरम् ।**  
-> **अहं ज्योतिः परं ब्रह्म ध्यायेम हि विमुक्तये ॥ [अ।पु। २१६.६]इति ।**
+> **nityaṁ śuddhaṁ paraṁ brahma nitya-bhargam adhīśvaram |**  
+> **ahaṁ jyotiḥ paraṁ brahma dhyāyema hi vimuktaye || [a.pu. 216.6]iti |**
 
-**अत्राहं ब्रह्मेति “नादेवो देवम् अर्चयेत्” इति न्यायेन योग्यत्वाय स्वस्य तादृक्त्व-भावना दर्शिता । ध्यायेमेति अहं तावत् ध्यायेयं, सर्वे च वयं ध्यायेमेत्य् अर्थः । तद् एतन्-मते तु मन्त्रेऽपि भर्ग-शब्दोऽयम् अद्-अन्त एव स्यात् । सुपां सुलुक् [पा। ७.१.३९] इत्य्-आदिना छान्दस-सूत्रेण तु द्वितीयैक-वचनस्यामः सु-भावो ज्ञेयः ।**
+**atrāhaṁ brahmeti “nādevo devam arcayet” iti nyāyena yogyatvāya svasya tādṛktva-bhāvanā darśitā | dhyāyemeti ahaṁ tāvat dhyāyeyaṁ, sarve ca vayaṁ dhyāyemety arthaḥ | tad etan-mate tu mantre’pi bharga-śabdo’yam ad-anta eva syāt | supāṁ suluk [pā. 7.1.39] ity-ādinā chāndasa-sūtreṇa tu dvitīyaika-vacanasyāmaḥ su-bhāvo jñeyaḥ |**
 
-**यत् तु द्वादशे ॐ नमस् ते [भा।पु। १२.६.६७] इत्य्-आदि गद्येषु तद्-अर्थत्वेन सूर्यः स्तुतः, तत् परमात्म-दृष्ट्यैव, न तु स्वातन्त्र्येणेत्य् अदोषः ।**
+**yat tu dvādaśe oṁ namas te [bhā.pu. 12.6.67] ity-ādi gadyeṣu tad-arthatvena sūryaḥ stutaḥ, tat paramātma-dṛṣṭyaiva, na tu svātantryeṇety adoṣaḥ |**
 
-**तथैवाग्रे श्री-शौनक-वाक्ये,ब्रूहि नः श्रद्दधानानां व्यूहं सूर्यात्मनो हरेः [भा।पु। १२.११.२८] इति । न चास्य भर्गस्य सूर्य-मण्डल-मात्राधिष्ठानत्वम् । मन्त्रे वरेण्य-शब्देनात्र च ग्रन्थे पर-शब्देन परमैश्वर्य-पर्यन्तताया दर्शितत्वात् । **
+**tathaivāgre śrī-śaunaka-vākye,brūhi naḥ śraddadhānānāṁ vyūhaṁ sūryātmano hareḥ [bhā.pu. 12.11.28] iti | na cāsya bhargasya sūrya-maṇḍala-mātrādhiṣṭhānatvam | mantre vareṇya-śabdenātra ca granthe para-śabdena paramaiśvarya-paryantatāyā darśitatvāt | **
 
-**तद् एवम् अग्नि-पुराणेऽप्य् उक्तम्—**
+**tad evam agni-purāṇe’py uktam—**
 
 
-> **ध्यानेन पुरुषोऽयं च द्रष्टव्यः सूर्य-मण्डले ।**  
-> **सत्यं सदा-शिवं ब्रह्म विष्णोर् यत् परमं पदम् ॥ इति ।**
+> **dhyānena puruṣo’yaṁ ca draṣṭavyaḥ sūrya-maṇḍale |**  
+> **satyaṁ sadā-śivaṁ brahma viṣṇor yat paramaṁ padam || iti |**
 
-**त्रिलोकी-जनानाम् उपासनार्थं प्रलये विनाशिनि सूर्य-मण्डले चान्तर्यामितया प्रादुर्भूतोऽयं पुरुषो ध्यानेन द्रष्टव्य उपासितव्यः । यत् तु विष्णोस् तस्य महा-वैकुण्ठ-रूपं परमं पदम् । तद् एव सत्यं काल-त्रयाव्यभिचारि, सदा-शिवम् उपद्रव-शून्यं यतो ब्रह्म-स्वरूपम् इत्य् अर्थः । तद् एतद् गायत्रीं प्रोच्य पुराण-लक्षण-प्रकरणे यत्राधिकृत्य गायत्रीम् इत्य्-आद्य् अप्य् उक्तम् अग्नि-पुराणे। तस्मात्,**
+**trilokī-janānām upāsanārthaṁ pralaye vināśini sūrya-maṇḍale cāntaryāmitayā prādurbhūto’yaṁ puruṣo dhyānena draṣṭavya upāsitavyaḥ | yat tu viṣṇos tasya mahā-vaikuṇṭha-rūpaṁ paramaṁ padam | tad eva satyaṁ kāla-trayāvyabhicāri, sadā-śivam upadrava-śūnyaṁ yato brahma-svarūpam ity arthaḥ | tad etad gāyatrīṁ procya purāṇa-lakṣaṇa-prakaraṇe yatrādhikṛtya gāyatrīm ity-ādy apy uktam agni-purāṇe| tasmāt,**
 
 
-> **अग्नेः पुराणं गायत्रीं समेत्य भगवत्-पराम् ।**  
-> **भगवन्तं तत्र मत्वा जगज्-जन्मादि-कारणम् ॥**  
-> **यत्राधिकृत्य गायत्रीम् इति लक्षण-पूर्वकम् ।**  
-> **श्रीमद्-भागवतं शश्वत् पृथ्व्यां जयति सर्वतः ॥**
+> **agneḥ purāṇaṁ gāyatrīṁ sametya bhagavat-parām |**  
+> **bhagavantaṁ tatra matvā jagaj-janmādi-kāraṇam ||**  
+> **yatrādhikṛtya gāyatrīm iti lakṣaṇa-pūrvakam |**  
+> **śrīmad-bhāgavataṁ śaśvat pṛthvyāṁ jayati sarvataḥ ||**
 
-**तद् एवम् अस्य शास्त्रस्य गायत्रीम् अधिकृत्य प्रवृत्तिर् दर्शिता ।**
+**tad evam asya śāstrasya gāyatrīm adhikṛtya pravṛttir darśitā |**
 
-**यत् तु सारस्वत-कल्पम् अधिकृत्येति पूर्वम् उक्तम् । तच् च गायत्र्या भगवत्-प्रतिपादक-वाग्-विशेष-रूप-सरस्वतीत्वाद् उपयुक्तम् एव । यद् उक्तमग्नि-पुराणे**—
+**yat tu sārasvata-kalpam adhikṛtyeti pūrvam uktam | tac ca gāyatryā bhagavat-pratipādaka-vāg-viśeṣa-rūpa-sarasvatītvād upayuktam eva | yad uktamagni-purāṇe**—
 
 
-> **गायत्र्य्-उक्थानि शास्त्राणि भर्गं प्राणांस् तथैव च ॥ **  
-> **ततः स्मृतेयं गायत्री सावित्री यत एव च । **  
-> **प्रकाशिनी सा सवितुर् वाग्-रूपत्वात् सरस्वती ॥ **[**अ।पु। २१६.१-२**]
+> **gāyatry-ukthāni śāstrāṇi bhargaṁ prāṇāṁs tathaiva ca || **  
+> **tataḥ smṛteyaṁ gāyatrī sāvitrī yata eva ca | **  
+> **prakāśinī sā savitur vāg-rūpatvāt sarasvatī || **[**a.pu. 216.1-2**]
 
-**अथ क्रम-प्राप्ता व्याख्या,वेदार्थ-परिबृंहित इति । वेदार्थानां परिबृंहणं यस्मात्**।** तच् चोक्तम् इतिहास-पुराणाभ्याम् इति । पुराणानां साम-रूप इति वेदेषु सामवत् पुराणेषु श्रेष्ठ इत्य् अर्थः । पुराणान्तराणां केषांचिद् आपाततो रजस्-तमसी जुषमाणैस् तत्-परत्वाप्रतीतत्वेऽपि वेदानां काण्ड-त्रय-वाक्यैक-वाक्यतायां यथा साम्ना, तथा तेषां श्री-भागवतेन प्रतिपाद्ये श्री-भगवत्य् एव पर्यवसानम् इति भावः । तद् उक्तम्—**
+**atha krama-prāptā vyākhyā,vedārtha-paribṛṁhita iti | vedārthānāṁ paribṛṁhaṇaṁ yasmāt**|** tac coktam itihāsa-purāṇābhyām iti | purāṇānāṁ sāma-rūpa iti vedeṣu sāmavat purāṇeṣu śreṣṭha ity arthaḥ | purāṇāntarāṇāṁ keṣāṁcid āpātato rajas-tamasī juṣamāṇais tat-paratvāpratītatve’pi vedānāṁ kāṇḍa-traya-vākyaika-vākyatāyāṁ yathā sāmnā, tathā teṣāṁ śrī-bhāgavatena pratipādye śrī-bhagavaty eva paryavasānam iti bhāvaḥ | tad uktam—**
 
 
-> **वेदे रामायणे चैव पुराणे भारते तथा ।**  
-> **आदाव् अन्ते च मध्ये च हरिः सर्वत्र गीयते ॥ [ह।वं। १३२.९५]इति ।**
+> **vede rāmāyaṇe caiva purāṇe bhārate tathā |**  
+> **ādāv ante ca madhye ca hariḥ sarvatra gīyate || [ha.vaṁ. 132.95]iti |**
 
-**प्रतिपादयिष्यते च तद् इदं परमात्म-सन्दर्भे । साक्षाद् भगवतोदितम् इति । कस्मै येन विभासितोऽयं [भा।पु। १२.१३.१९] इत्य् उपसंहार-वाक्यानुसारेण ज्ञेयम् । शत-विच्छेद-संयुत इति । विस्तार-भिया न विविरियते । तद् एवं श्रीमद्-भागवतं सर्व-शास्त्र-चक्रवर्ति-पदम् आप्तम् इति स्थिते हेम-सिंह-समन्वितम् इत्य् अत्र हेम-सिंहासनम् आरूढम् इति टीकाकारैर् यद् व्याख्यातं, तद् एव युक्तम् ।**
+**pratipādayiṣyate ca tad idaṁ paramātma-sandarbhe | sākṣād bhagavatoditam iti | kasmai yena vibhāsito’yaṁ [bhā.pu. 12.13.19] ity upasaṁhāra-vākyānusāreṇa jñeyam | śata-viccheda-saṁyuta iti | vistāra-bhiyā na viviriyate | tad evaṁ śrīmad-bhāgavataṁ sarva-śāstra-cakravarti-padam āptam iti sthite hema-siṁha-samanvitam ity atra hema-siṁhāsanam ārūḍham iti ṭīkākārair yad vyākhyātaṁ, tad eva yuktam |**
 
-**अतः श्रीमद्-भागवतस्यैवाभ्यासावश्यकत्वं श्रेष्ठत्वं च स्कान्दे निर्णीतम्—शतशोऽथ सहस्रैश् च किम् अन्यैः शास्त्र-सङ्ग्रहैः [विष्णु-खण्डे मार्ग-शीर्ष-माहात्म्ये १६.४०] । तद् एवं परमार्थ-विवित्सुभिः श्री-भागवतम् एव साम्प्रतं विचारणीयम् इति स्थितम् ॥२२॥**
+**ataḥ śrīmad-bhāgavatasyaivābhyāsāvaśyakatvaṁ śreṣṭhatvaṁ ca skānde nirṇītam—śataśo’tha sahasraiś ca kim anyaiḥ śāstra-saṅgrahaiḥ [viṣṇu-khaṇḍe mārga-śīrṣa-māhātmye 16.40] | tad evaṁ paramārtha-vivitsubhiḥ śrī-bhāgavatam eva sāmprataṁ vicāraṇīyam iti sthitam ||22||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** ननु श्री-भागवतस्य भारतार्थ-निर्णायकत्वं कथं प्रतीतम् इति चेत् तत्राह तथा तृतीय इति । मुनिर् इति मैत्रेयं प्रति विदुरोक्तिः । ते मैत्रेयस्य गुरु-पुत्रत्वात् सखा कृष्णो व्यासः । ग्राम्या गृहिधर्मकर्तव्यतादि-लक्षणा व्यावहारिकी मूषिक-विडाल-गृध्र-गोमायु-दृष्टान्तोपेता च कथा । तत्-तत्-स्वार्थ-कौतुक-कथा-श्रवणाय भारत-सदसि समागतानां नॄणां श्री-गीतादि-श्रवणेन हरौ मतिर् गृहीता स्याद् इति तत्-कथानुवाद एव । वस्तुतो भगवत्-परम् एव भारतम् इति श्री-भागवतेन निर्णीतम् इत्य् अर्थः ।सामवेदवदस्य श्रैष्ठ्यं स्कान्द-वाक्यं शतशोऽथेत्यादि प्रकटार्थम् । तद् एवम् इति । उक्त-गुण-गणे सिद्धे सतीत्य् अर्थः ॥२२॥
+**baladevaḥ :** nanu śrī-bhāgavatasya bhāratārtha-nirṇāyakatvaṁ kathaṁ pratītam iti cet tatrāha tathā tṛtīya iti | munir iti maitreyaṁ prati viduroktiḥ | te maitreyasya guru-putratvāt sakhā kṛṣṇo vyāsaḥ | grāmyā gṛhidharmakartavyatādi-lakṣaṇā vyāvahārikī mūṣika-viḍāla-gṛdhra-gomāyu-dṛṣṭāntopetā ca kathā | tat-tat-svārtha-kautuka-kathā-śravaṇāya bhārata-sadasi samāgatānāṁ nṝṇāṁ śrī-gītādi-śravaṇena harau matir gṛhītā syād iti tat-kathānuvāda eva | vastuto bhagavat-param eva bhāratam iti śrī-bhāgavatena nirṇītam ity arthaḥ |sāmavedavadasya śraiṣṭhyaṁ skānda-vākyaṁ śataśo’thetyādi prakaṭārtham | tad evam iti | ukta-guṇa-gaṇe siddhe satīty arthaḥ ||22||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२३]
+[23]
 
-**अतएव सत्स्व् अपि नाना-शास्त्रेष्व् एतद् एवोक्तम्—कलौ नष्ट-दृशाम् एष पुराणार्को ऽधुनोदितः [भा।पु। १.३.४५] इति । अर्कता-रूपकेण तद् विना नान्येषां सम्यग्-वस्तु-प्रकाशकत्वम् इति प्रतिपद्यते । **
+**ataeva satsv api nānā-śāstreṣv etad evoktam—kalau naṣṭa-dṛśām eṣa purāṇārko ’dhunoditaḥ [bhā.pu. 1.3.45] iti | arkatā-rūpakeṇa tad vinā nānyeṣāṁ samyag-vastu-prakāśakatvam iti pratipadyate | **
 
-**यस्यैव श्रीमद्-भागवतस्य भाष्य-भूतं श्री-हयशीर्ष-पञ्चरात्रे शास्त्र-प्रस्तावे गणितं तन्त्र-भागवताभिधं तन्त्रम्, यस्य साक्षाच् छ्री-हनुमद्भाष्य-वासनाभाष्य-सम्बन्धोक्ति-विद्वत्कामधेनु-तत्त्वदीपिका-भावार्थदीपिका-परमहंसप्रिया-शुकहृदयादयो व्याख्या-ग्रन्थाः । तथा मुक्ताफल-हरिलीला-भक्तिरत्नावल्य्-आदयो निबन्धाश् च विविधा एव तत्-तन्-मत-प्रसिद्ध-महानुभाव-कृता विराजन्ते । यद् एव च हेमाद्रि-ग्रन्थस्य [चतुर्वर्ग-चिन्तामणेः] दान-खण्डे पुराण-दान-प्रस्तावे मत्स्य-पुराणीय-तल्-लक्षण-धृत्या प्रशस्तम् । हेमाद्रि-परिशेष-खण्डस्य काल-निर्णये च कलि-युग-धर्म-निर्णये,कलिं सभाजयन्त्य् आर्याः [भा।पु। ११.५.३६] इत्य्-आदिकं यद्-वाक्यत्वेनोत्थाप्य यत्-प्रतिपादित-धर्म एव कलाव् अङ्गीकृतः । **
+**yasyaiva śrīmad-bhāgavatasya bhāṣya-bhūtaṁ śrī-hayaśīrṣa-pañcarātre śāstra-prastāve gaṇitaṁ tantra-bhāgavatābhidhaṁ tantram, yasya sākṣāc chrī-hanumadbhāṣya-vāsanābhāṣya-sambandhokti-vidvatkāmadhenu-tattvadīpikā-bhāvārthadīpikā-paramahaṁsapriyā-śukahṛdayādayo vyākhyā-granthāḥ | tathā muktāphala-harilīlā-bhaktiratnāvaly-ādayo nibandhāś ca vividhā eva tat-tan-mata-prasiddha-mahānubhāva-kṛtā virājante | yad eva ca hemādri-granthasya [caturvarga-cintāmaṇeḥ] dāna-khaṇḍe purāṇa-dāna-prastāve matsya-purāṇīya-tal-lakṣaṇa-dhṛtyā praśastam | hemādri-pariśeṣa-khaṇḍasya kāla-nirṇaye ca kali-yuga-dharma-nirṇaye,kaliṁ sabhājayanty āryāḥ [bhā.pu. 11.5.36] ity-ādikaṁ yad-vākyatvenotthāpya yat-pratipādita-dharma eva kalāv aṅgīkṛtaḥ | **
 
-**अथ यद् एव कैवल्यम् अप्य् अतिक्रम्य भक्ति-सुख-व्याहारादि-लिङ्गेन निज-मतस्याप्य् उपरि विराजमानार्थं मत्वा, यद् अपौरुषेयं वेदान्त-व्याख्यानं भयाद् अचालयतैव शङ्करावतारतया प्रसिद्धेन वक्ष्यमाण-स्वगोपनादि-हेतुक-भगवद्-आज्ञा-प्रवर्तिताद्वय-वादेनापि तन्-मात्र-वर्णित-विश्व-रूप-दर्शन-कृत-व्रजेश्वरी-विस्मय-श्री-व्रज-कुमारी-वसन-चौर्यादिकं गोविन्दाष्टकादौ वर्णयता तटस्थीभूय निज-वचः-साफल्याय स्पृष्टम् इति ॥२३॥**
+**atha yad eva kaivalyam apy atikramya bhakti-sukha-vyāhārādi-liṅgena nija-matasyāpy upari virājamānārthaṁ matvā, yad apauruṣeyaṁ vedānta-vyākhyānaṁ bhayād acālayataiva śaṅkarāvatāratayā prasiddhena vakṣyamāṇa-svagopanādi-hetuka-bhagavad-ājñā-pravartitādvaya-vādenāpi tan-mātra-varṇita-viśva-rūpa-darśana-kṛta-vrajeśvarī-vismaya-śrī-vraja-kumārī-vasana-cauryādikaṁ govindāṣṭakādau varṇayatā taṭasthībhūya nija-vacaḥ-sāphalyāya spṛṣṭam iti ||23||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-बलदेवः **:** अतएवेति वर्णित-लक्षणाद् उत्कर्षाद् एव हेतोर् इत्य् अर्थः । पुरातनानाम् ऋषीणाम् आधुनिकानां च विद्वत्तमानाम् उपादेयम् इदं श्री-भागवतम् इत्य् आह यस्यैवेति । विराजन्ते सम्प्रति प्रचरन्तीत्य् अर्थः । धर्म-शास्त्र-कृतां चोपादेयम् एतद् इत्य् आह यद् एव च हेमाद्रीत्य् आदि । तत्-प्रतिपादितो धर्मः कृष्ण-सङ्कीर्तन-लक्षणः । ननु चेद् ईदृशं श्री-भागवतं तर्हि शङ्कराचार्यः कुतस् तन् न व्याचष्टेति चेत् तत्राह । अथ यद् एव कैवल्यम् इत्य्-आदि । अयं भावः प्रलयाधिकारी खलु हरेर् भक्तोऽहम् उपनिषद्-आदि व्याख्याय तत्-सिद्धान्तं विलाप्य तस्याज्ञां पालितवान् एवास्मि । अथ तद् अतिप्रिये श्री-भागवतेऽपि चालिते स प्रभुर् मयि कुप्येद् अतो न तच् चाल्यम् । एवं सति मे सारज्ञता सुख-सम्पच् च न स्याद् अतः कथञ्चित् तत् स्पर्शनीयम् इति तन्-मात्रोक्तं विश्व-रूप-दर्शनादि-स्व-काव्ये निबबन्धेति तेन चादृत तद् इति सर्व-मान्यं श्री-भागवतम् इति ॥२३॥
+baladevaḥ **:** ataeveti varṇita-lakṣaṇād utkarṣād eva hetor ity arthaḥ | purātanānām ṛṣīṇām ādhunikānāṁ ca vidvattamānām upādeyam idaṁ śrī-bhāgavatam ity āha yasyaiveti | virājante samprati pracarantīty arthaḥ | dharma-śāstra-kṛtāṁ copādeyam etad ity āha yad eva ca hemādrīty ādi | tat-pratipādito dharmaḥ kṛṣṇa-saṅkīrtana-lakṣaṇaḥ | nanu ced īdṛśaṁ śrī-bhāgavataṁ tarhi śaṅkarācāryaḥ kutas tan na vyācaṣṭeti cet tatrāha | atha yad eva kaivalyam ity-ādi | ayaṁ bhāvaḥ pralayādhikārī khalu harer bhakto’ham upaniṣad-ādi vyākhyāya tat-siddhāntaṁ vilāpya tasyājñāṁ pālitavān evāsmi | atha tad atipriye śrī-bhāgavate’pi cālite sa prabhur mayi kupyed ato na tac cālyam | evaṁ sati me sārajñatā sukha-sampac ca na syād ataḥ kathañcit tat sparśanīyam iti tan-mātroktaṁ viśva-rūpa-darśanādi-sva-kāvye nibabandheti tena cādṛta tad iti sarva-mānyaṁ śrī-bhāgavatam iti ||23||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२४]
+[24]
 
-**यद् एव किल दृष्ट्वा श्री-मध्वाचार्य-चरणैर् वैष्णवान्तराणां तच्-छिष्यान्तर-पुण्यारण्यादि-रीतिक-व्याख्या-प्रवेश-शङ्कया तत्र तात्पर्यान्तरं लिखद्भिर् वर्त्मोपदेशः कृत इति च सात्वता वर्णयन्ति । तस्माद् युक्तम् उक्तं तत्रैव प्रथम-स्कन्धे—**
+**yad eva kila dṛṣṭvā śrī-madhvācārya-caraṇair vaiṣṇavāntarāṇāṁ tac-chiṣyāntara-puṇyāraṇyādi-rītika-vyākhyā-praveśa-śaṅkayā tatra tātparyāntaraṁ likhadbhir vartmopadeśaḥ kṛta iti ca sātvatā varṇayanti | tasmād yuktam uktaṁ tatraiva prathama-skandhe—**
 
 
-> **तद् इदं ग्राहयामास सुतम् आत्मवतां वरम् ।**  
-> **सर्व-वेदेतिहासानां सारं सारं सुमुद्धृतम् ॥ [भा।पु। १.३.४१-४२]**
+> **tad idaṁ grāhayāmāsa sutam ātmavatāṁ varam |**  
+> **sarva-vedetihāsānāṁ sāraṁ sāraṁ sumuddhṛtam || [bhā.pu. 1.3.41-42]**
 
-द्वादशे**—**
+dvādaśe**—**
 
 
-> **सर्व-वेदान्त-सारं हि श्री-भागवतम् इष्यते ।**  
-> **तद्-रसामृत-तृप्तस्य नान्यत्र स्याद् रतिः क्वचित् ॥ [भा।पु। १२.१३.१५]**
+> **sarva-vedānta-sāraṁ hi śrī-bhāgavatam iṣyate |**  
+> **tad-rasāmṛta-tṛptasya nānyatra syād ratiḥ kvacit || [bhā.pu. 12.13.15]**
 
-**तथा **प्रथमे—
+**tathā **prathame—
 
 
-> **निगम-कल्प-तरोर् गलितं फलं**  
-> **शुक-मुखाद् अमृत-द्रव-संयुतम् ।**  
-> **पिबत भागवतं रसम् आलयं**  
-> **मुहुर् अहो रसिका भुवि भावुकाः ॥ [भा।पु। १.१.३]**
+> **nigama-kalpa-taror galitaṁ phalaṁ**  
+> **śuka-mukhād amṛta-drava-saṁyutam |**  
+> **pibata bhāgavataṁ rasam ālayaṁ**  
+> **muhur aho rasikā bhuvi bhāvukāḥ || [bhā.pu. 1.1.3]**
 
-**अत एव तत्रैव—**
+**ata eva tatraiva—**
 
 
-> **यः स्वानुभावम् अखिल-श्रुति-सारम् एकम्**  
-> **अध्यात्म-दीपम् अतितितीर्षतां तमोऽन्धम् ।**  
-> **संसारिणां करुणयाह पुराण-गुह्यं**  
-> **तं व्यास-सूनुम् उपयामि गुरुं मुनीनाम् ॥ [भा।पु। १.२.३]**
+> **yaḥ svānubhāvam akhila-śruti-sāram ekam**  
+> **adhyātma-dīpam atititīrṣatāṁ tamo’ndham |**  
+> **saṁsāriṇāṁ karuṇayāha purāṇa-guhyaṁ**  
+> **taṁ vyāsa-sūnum upayāmi guruṁ munīnām || [bhā.pu. 1.2.3]**
 
-**श्री-भागवत-मतं तु सर्व-मतानाम् अधीश-रूपम् इति सूचकम् । सर्व-मुनीनां सभा-मध्यम् अध्यास्योपदेष्टृत्वेन तेषां गुरुत्वम् अपि तस्य तत्र सुव्यक्तम् ॥२४॥ **
+**śrī-bhāgavata-mataṁ tu sarva-matānām adhīśa-rūpam iti sūcakam | sarva-munīnāṁ sabhā-madhyam adhyāsyopadeṣṭṛtvena teṣāṁ gurutvam api tasya tatra suvyaktam ||24|| **
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** श्री-मध्व-मुनेस् तु परमोपास्यं श्री-भागवतम् इत्य् आह—यद् एव किलेति । शङ्करेण नैतद् विचालितं किन्त्व् आदृतम् एवेति विभाव्येत्य् अर्थः, किन्तु तच्-छिष्यैः पुण्यारण्यादिभिर् एतद् अन्यथा व्याख्यातं तेन वैष्णवानां निर्गुण-चिन्मात्र-परम् इदम् इति भ्रान्तिः स्याद् इति शङ्कया हेतुना तद्-भ्रान्ति-च्छेदाय तत्र तात्पर्यान्तरं भगवत्-परता-रूपं ततोऽन्यत् तात्पर्यं लिखद्भिस् तस्य व्याख्यान-वर्त्मोपदिष्टं वैष्णवान् प्रतीति । मध्वाचार्य-चरणैर् इति अत्यादर-सूचक-बहुत्व-निर्देशः । स्व-पूर्वाचार्यत्वाद् इति बोध्यम् । वायुदेवः खलु मध्व-मुनिः सर्वज्ञोऽतिविक्रमी यो दिग्-विजयिनं चतुर्दश-विद्यं चतुर्दशभिः क्षणैर् निर्जित्यासनानि तस्य चतुर्दश जग्राह । स च तच्-छिष्यः पद्मनाभाभिधानो बभूवेति प्रसिद्धम् । तस्माद् इति प्रोक्त-गुणकत्वाद् धेतोर् इत्य् अर्थः । आलयम् इति मोक्षम् अभिव्याप्येत्य् अर्थः । य इति अन्धं तमोऽविद्याम् अतितितीर्षतां संसारिणां करुणया यः पुराण-गुह्यं श्री-भागवतम् आहेत्य् अन्वयः । स्वानुय्भावम् असाधारण-प्रभावम् इत्य् अर्थः ॥२४॥
+**baladevaḥ :** śrī-madhva-munes tu paramopāsyaṁ śrī-bhāgavatam ity āha—yad eva kileti | śaṅkareṇa naitad vicālitaṁ kintv ādṛtam eveti vibhāvyety arthaḥ, kintu tac-chiṣyaiḥ puṇyāraṇyādibhir etad anyathā vyākhyātaṁ tena vaiṣṇavānāṁ nirguṇa-cinmātra-param idam iti bhrāntiḥ syād iti śaṅkayā hetunā tad-bhrānti-cchedāya tatra tātparyāntaraṁ bhagavat-paratā-rūpaṁ tato’nyat tātparyaṁ likhadbhis tasya vyākhyāna-vartmopadiṣṭaṁ vaiṣṇavān pratīti | madhvācārya-caraṇair iti atyādara-sūcaka-bahutva-nirdeśaḥ | sva-pūrvācāryatvād iti bodhyam | vāyudevaḥ khalu madhva-muniḥ sarvajño’tivikramī yo dig-vijayinaṁ caturdaśa-vidyaṁ caturdaśabhiḥ kṣaṇair nirjityāsanāni tasya caturdaśa jagrāha | sa ca tac-chiṣyaḥ padmanābhābhidhāno babhūveti prasiddham | tasmād iti prokta-guṇakatvād dhetor ity arthaḥ | ālayam iti mokṣam abhivyāpyety arthaḥ | ya iti andhaṁ tamo’vidyām atititīrṣatāṁ saṁsāriṇāṁ karuṇayā yaḥ purāṇa-guhyaṁ śrī-bhāgavatam āhety anvayaḥ | svānuybhāvam asādhāraṇa-prabhāvam ity arthaḥ ||24||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-**यतः—**
+**yataḥ—**
 
 
-> **तत्रोपजग्मुर् भुवनं पुनाना**  
-> **महानुभावा मुनयः स-शिष्याः ।**  
-> **प्रायेण तीर्थाभिगमापदेशैः**  
-> **स्वयं हि तीर्थानि पुनन्ति सन्तः ॥**  
-> **अत्रिर् वसिष्ठश् च्यवनः शरद्वान्**  
-> **अरिष्टनेमिर् भृगुर् अङ्गिराश् च ।**  
-> **पराशरो गाधि-सुतोऽथ राम**  
-> **उतथ्य इन्द्रप्रमदेध्मवाहौ ॥**  
-> **मेधातिथिर् देवल आर्ष्टिषेणो**  
-> **भारद्वाजो गौतमः पिप्पलादः ।**  
-> **मैत्रेय और्वः कवषः कुम्भयोनिर्**  
-> **द्वैपायनो भगवान् नारदश् च ॥**  
-> **अन्ये च देवर्षि-ब्रह्मर्षि-वर्या**  
-> **राजर्षि-वर्या अरुणादयश् च ।**  
-> **नानार्षेय-प्रवरान् समेतान्**  
-> **अभ्यर्च्य राजा शिरसा ववन्दे ॥**  
-> **सुखोपविष्टेष्व् अथ तेषु भूयः**  
-> **कृत-प्रणामः स्व-चिकीर्षितं यत् ।**  
-> **विज्ञापयाम् आस विविक्त-चेता**  
-> **उपस्थितोऽग्रेऽभिगृहीत-पाणिः ॥ [भा।पु। १.१९.८-१२] इत्य् आद्य्-अनन्तरम्—**  
-> **ततश् च वः पृच्छ्यम् इमं विपृच्छे**  
-> **विश्रभ्य विप्रा इति कृत्यतायाम् ।**  
-> **सर्वात्मना म्रियमाणैश् च कृत्यं**  
-> **शुद्धं च तत्रामृशताभियुक्ताः ॥ [भा।पु। १.१९.२४] **
+> **tatropajagmur bhuvanaṁ punānā**  
+> **mahānubhāvā munayaḥ sa-śiṣyāḥ |**  
+> **prāyeṇa tīrthābhigamāpadeśaiḥ**  
+> **svayaṁ hi tīrthāni punanti santaḥ ||**  
+> **atrir vasiṣṭhaś cyavanaḥ śaradvān**  
+> **ariṣṭanemir bhṛgur aṅgirāś ca |**  
+> **parāśaro gādhi-suto’tha rāma**  
+> **utathya indrapramadedhmavāhau ||**  
+> **medhātithir devala ārṣṭiṣeṇo**  
+> **bhāradvājo gautamaḥ pippalādaḥ |**  
+> **maitreya aurvaḥ kavaṣaḥ kumbhayonir**  
+> **dvaipāyano bhagavān nāradaś ca ||**  
+> **anye ca devarṣi-brahmarṣi-varyā**  
+> **rājarṣi-varyā aruṇādayaś ca |**  
+> **nānārṣeya-pravarān sametān**  
+> **abhyarcya rājā śirasā vavande ||**  
+> **sukhopaviṣṭeṣv atha teṣu bhūyaḥ**  
+> **kṛta-praṇāmaḥ sva-cikīrṣitaṁ yat |**  
+> **vijñāpayām āsa vivikta-cetā**  
+> **upasthito’gre’bhigṛhīta-pāṇiḥ || [bhā.pu. 1.19.8-12] ity ādy-anantaram—**  
+> **tataś ca vaḥ pṛcchyam imaṁ vipṛcche**  
+> **viśrabhya viprā iti kṛtyatāyām |**  
+> **sarvātmanā mriyamāṇaiś ca kṛtyaṁ**  
+> **śuddhaṁ ca tatrāmṛśatābhiyuktāḥ || [bhā.pu. 1.19.24] **
 
-**इति पृच्छति राज्ञि—**
+**iti pṛcchati rājñi—**
 
 
-> **तत्राभवद् भगवान् व्यास-पुत्रो**  
-> **यदृच्छया गाम् अटमानोऽनपेक्षः ।**  
-> **अलक्ष्य-लिङ्गो निज-लाभ-तुष्टो**  
-> **वृतश् च बालैर् अवधूत-वेषः ॥ [भा।पु। १.१९.२५] **
+> **tatrābhavad bhagavān vyāsa-putro**  
+> **yadṛcchayā gām aṭamāno’napekṣaḥ |**  
+> **alakṣya-liṅgo nija-lābha-tuṣṭo**  
+> **vṛtaś ca bālair avadhūta-veṣaḥ || [bhā.pu. 1.19.25] **
 
-**ततश् च—प्रत्युत्थितास् ते मुनयः स्वासनेभ्यः [भा।पु। १.१९.२८] इत्य्-आद्य्-अन्ते **
+**tataś ca—pratyutthitās te munayaḥ svāsanebhyaḥ [bhā.pu. 1.19.28] ity-ādy-ante **
 
 
-> **स संवृतस् तत्र महान् महीयसां**  
-> **ब्रह्मर्षि-राजर्षि-देवर्षि-सङ्घैः ।**  
-> **व्यरोचतालं भगवान् यथेन्दुर्**  
-> **ग्रहर्क्ष-तारा-निकरैः परीतः ॥ [भा।पु। १.१९.३०] इत्य् उक्तम् ॥२५॥**
+> **sa saṁvṛtas tatra mahān mahīyasāṁ**  
+> **brahmarṣi-rājarṣi-devarṣi-saṅghaiḥ |**  
+> **vyarocatālaṁ bhagavān yathendur**  
+> **graharkṣa-tārā-nikaraiḥ parītaḥ || [bhā.pu. 1.19.30] ity uktam ||25||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** मुनीनां गुरुम् इत्युक्तम् । तत् कथम् इत्य् अत्राह यत इति । यत इत्य् अस्य इत्य् उक्तम् इति परेण सम्बन्धः । और्व इति विप्र-वंशं विनाशयद्भ्यो दुष्टेभ्यः क्षत्रियेभ्यो भयाद् गर्भाद् आकृष्योरौ तन्-मात्रा स्थापितस् ततो जातः क्षत्रियांस् तान् स्वेन तेजसा भस्मीचकार इति भारतेकथास्ति[^१६] । निगृहीत-पाणि-योजिताञ्जलि-पुटः । एवं कर्तव्यस्य भाव इतिकर्तव्यता । तस्यां विषये सर्वावस्थायां पुंसः किं कृत्यम् । तत्रापि म्रियमाणैश् च किं कृत्यम् । तच् च शुद्धं हिंसा-शून्यम्, तत्रामृशत यूयम् । गां पृथिवीम् । अनपेक्षो निःस्पृहः । निजस्य शुद्धि-पूर्ति-कर्तुः स्व-स्वामिनः कृष्णस्य लाभेन तुष्टः । तत्र सभायाम् ॥२५॥
+**baladevaḥ :** munīnāṁ gurum ityuktam | tat katham ity atrāha yata iti | yata ity asya ity uktam iti pareṇa sambandhaḥ | aurva iti vipra-vaṁśaṁ vināśayadbhyo duṣṭebhyaḥ kṣatriyebhyo bhayād garbhād ākṛṣyorau tan-mātrā sthāpitas tato jātaḥ kṣatriyāṁs tān svena tejasā bhasmīcakāra iti bhāratekathāsti[^16] | nigṛhīta-pāṇi-yojitāñjali-puṭaḥ | evaṁ kartavyasya bhāva itikartavyatā | tasyāṁ viṣaye sarvāvasthāyāṁ puṁsaḥ kiṁ kṛtyam | tatrāpi mriyamāṇaiś ca kiṁ kṛtyam | tac ca śuddhaṁ hiṁsā-śūnyam, tatrāmṛśata yūyam | gāṁ pṛthivīm | anapekṣo niḥspṛhaḥ | nijasya śuddhi-pūrti-kartuḥ sva-svāminaḥ kṛṣṇasya lābhena tuṣṭaḥ | tatra sabhāyām ||25||
 
-[^१६]:
-    आरुषी तु मनोः कन्या तस्य पत्नी मनीषिणः । और्वस् तस्यां समभवद् ऊरुं भित्त्वा महा-यशाः ॥ [म।भा। १.६६.४६]
+[^16]:
+    āruṣī tu manoḥ kanyā tasya patnī manīṣiṇaḥ | aurvas tasyāṁ samabhavad ūruṁ bhittvā mahā-yaśāḥ || [ma.bhā. 1.66.46]
 
 
-—ओ)०(ओ—
+—o)0(o—
 
-[२६]
+[26]
 
-**अत्र यद्यपि तत्र श्री-व्यास-नारदौ तस्यापि गुरु-परम-गुरू, तथापि पुनस् तन्-मुख-निःसृतं श्री-भागवतं तयोर् अप्य् अश्रुत-चरम् इव जातम् । इत्य् एवं श्री-शुकस् ताव् अप्य् उपदिदेश देश्यम् इत्य् अभिप्रायः । यद् उक्तं,शुक-मुखाद् अमृत-द्रव्य-संयुतं [१.१.३] इति । तस्माद् एवम् अपि श्री-भागवतस्यैव सर्वाधिक्यम् । मात्स्यादीनां यत् पुराणाधिक्यं श्रूयते तत् त्व् आपेक्षिकम् इति । अहो किं बहुना, श्री-कृष्ण-प्रतिनिधि-रूपम् एवेदम् । यत उक्तंप्रथम-स्कन्धे—**
+**atra yadyapi tatra śrī-vyāsa-nāradau tasyāpi guru-parama-gurū, tathāpi punas tan-mukha-niḥsṛtaṁ śrī-bhāgavataṁ tayor apy aśruta-caram iva jātam | ity evaṁ śrī-śukas tāv apy upadideśa deśyam ity abhiprāyaḥ | yad uktaṁ,śuka-mukhād amṛta-dravya-saṁyutaṁ [1.1.3] iti | tasmād evam api śrī-bhāgavatasyaiva sarvādhikyam | mātsyādīnāṁ yat purāṇādhikyaṁ śrūyate tat tv āpekṣikam iti | aho kiṁ bahunā, śrī-kṛṣṇa-pratinidhi-rūpam evedam | yata uktaṁprathama-skandhe—**
 
 
-> **कृष्णे स्व-धामोपगते धर्म-ज्ञानादिभिः सह ।**  
-> **कलौ नष्ट-दृशाम् एष पुराणार्कोऽधुनोदितः ॥ [भा।पु। १.३.४५] इति ।**
+> **kṛṣṇe sva-dhāmopagate dharma-jñānādibhiḥ saha |**  
+> **kalau naṣṭa-dṛśām eṣa purāṇārko’dhunoditaḥ || [bhā.pu. 1.3.45] iti |**
 
-**अत एव सर्व-गुण-युक्तत्वम् अस्यैव दृष्टं धर्मः प्रोज्झित-कैतवोऽत्र [१.१.२] इत्य्-आदिना, **
+**ata eva sarva-guṇa-yuktatvam asyaiva dṛṣṭaṁ dharmaḥ projjhita-kaitavo’tra [1.1.2] ity-ādinā, **
 
 
-> **वेदाः पुराणं काव्यं च प्रभुर् मित्रं प्रियेव च ।**  
-> **बोधयन्तीति हि प्राहुस् त्रिवृद् भागवतं पुनः ॥**
+> **vedāḥ purāṇaṁ kāvyaṁ ca prabhur mitraṁ priyeva ca |**  
+> **bodhayantīti hi prāhus trivṛd bhāgavataṁ punaḥ ||**
 
-**इति मुक्ता-फले हेमाद्रि-कार-वचनेन च****[^१७] । तस्मान् मन्यन्तां वा केचित् पुराणान्तरेषु वेद-सापेक्षत्वं, श्री-भागवते तु तथा सम्भावना स्वयम् एव निरस्तेत्य् अपि स्वयम् एव लब्धं भवति । अतएव परम-श्रुति-रूपत्वं तस्य । यथोक्तम्—**
+**iti muktā-phale hemādri-kāra-vacanena ca****[^17] | tasmān manyantāṁ vā kecit purāṇāntareṣu veda-sāpekṣatvaṁ, śrī-bhāgavate tu tathā sambhāvanā svayam eva nirastety api svayam eva labdhaṁ bhavati | ataeva parama-śruti-rūpatvaṁ tasya | yathoktam—**
 
-[^१७]:
-    थिस् इस् अच्तुअल्ल्य् हरि-लीला, १.९।
+[^17]:
+    This is actually Hari-līlā, 1.9.
 
 
 
-> **कथं वा पाण्डवेयस्य राजर्षेर् मुनिना सह ।**  
-> **संवादः समभूत् तात यत्रैषा सात्वती श्रुतिः ॥ [भा।पु। १.४.७] इति ।**
+> **kathaṁ vā pāṇḍaveyasya rājarṣer muninā saha |**  
+> **saṁvādaḥ samabhūt tāta yatraiṣā sātvatī śrutiḥ || [bhā.pu. 1.4.7] iti |**
 
-**अथ “यत् खलु सर्व-पुराण-जातम् आविर्भाव्य” [§१९] इत्य्-आदिकं पूर्वम् उक्तं, तत् तु प्रथम-स्कन्ध-गत-श्री-व्यास-नारद-संवादेनैव प्रमेयम् ॥२६॥**
+**atha “yat khalu sarva-purāṇa-jātam āvirbhāvya” [§19] ity-ādikaṁ pūrvam uktaṁ, tat tu prathama-skandha-gata-śrī-vyāsa-nārada-saṁvādenaiva prameyam ||26||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** वक्तव्यं योजयत्य् अत्र यद्यपीत्य्-आदिना । तस्माद् एवम् इति तद्-वक्तुः श्री-शुकस्य सर्व-गुरुत्वेनापीत्य् अर्थः । आपेक्षिकम् इति एतद्-अन्य-पुराणापेक्षयेत्य् अर्थः । अथ परमोत्कर्षम् आह अहो किम् इति # अतएवेति कृष्ण-प्रतिनिधित्वात् कृष्णवत् सर्व-गुण-युक्तत्वम् इत्य् अर्थः । प्रियेव कान्तेव । त्रिवृत् वेदादि-त्रय-गुण-युक्तम् इत्य् अर्थः । तस्माद् इति वेद-सापेक्षत्वं वेद-वाक्येन पुराण-प्रामाण्यम् इत्य् अर्थः । अतएवेति परमार्थावेदकत्वाद् वेदान्तस्येव भागवतस्य परम-श्रुति-रूपत्वम् इत्य् अर्थः । यत्र संवादे । सात्वती वैष्णवीत्य् अर्थः । अर्थेति—इदं भगवता पूर्वम् इत्य्-आदि-द्वादशोक्तेर् ब्रह्म-नारायण-संवाद-रूपम् अष्टादशसु मध्ये प्रकटितम्, व्यास-नारद-संवाद-रूपं तत्रैव प्रवेशितम्, तद्-उभयस्य लक्षण-सङ्ख्ये तु मात्स्यादाव् उक्ते इति बोध्यम् इत्य् अर्थः । एवम् एव भारतोपक्रमेऽपि दृष्टम् । आदाव् आख्यानैर् विना चतुर्विंशति-सहस्रं भारतं ततस् तैः सहितं पञ्चाशत्-सहस्रं ततस् तैस् ततोऽप्य् अधिकम् इतोऽप्य् अधिकम् इति तद्वत् ॥२६॥
+**baladevaḥ :** vaktavyaṁ yojayaty atra yadyapīty-ādinā | tasmād evam iti tad-vaktuḥ śrī-śukasya sarva-gurutvenāpīty arthaḥ | āpekṣikam iti etad-anya-purāṇāpekṣayety arthaḥ | atha paramotkarṣam āha aho kim iti # ataeveti kṛṣṇa-pratinidhitvāt kṛṣṇavat sarva-guṇa-yuktatvam ity arthaḥ | priyeva kānteva | trivṛt vedādi-traya-guṇa-yuktam ity arthaḥ | tasmād iti veda-sāpekṣatvaṁ veda-vākyena purāṇa-prāmāṇyam ity arthaḥ | ataeveti paramārthāvedakatvād vedāntasyeva bhāgavatasya parama-śruti-rūpatvam ity arthaḥ | yatra saṁvāde | sātvatī vaiṣṇavīty arthaḥ | artheti—idaṁ bhagavatā pūrvam ity-ādi-dvādaśokter brahma-nārāyaṇa-saṁvāda-rūpam aṣṭādaśasu madhye prakaṭitam, vyāsa-nārada-saṁvāda-rūpaṁ tatraiva praveśitam, tad-ubhayasya lakṣaṇa-saṅkhye tu mātsyādāv ukte iti bodhyam ity arthaḥ | evam eva bhāratopakrame’pi dṛṣṭam | ādāv ākhyānair vinā caturviṁśati-sahasraṁ bhārataṁ tatas taiḥ sahitaṁ pañcāśat-sahasraṁ tatas tais tato’py adhikam ito’py adhikam iti tadvat ||26||
 
-—ओ)०(ओ—
+—o)0(o—
 
-[२८]
+[28]
 
-**तद् एवं परम-निःश्रेयस-निश्चयाय श्री-भागवतम् एव पौर्वापर्याविरोधेन विचार्यते। तत्रास्मिन् सन्दर्भ-षट्कात्मके ग्रन्थे सूत्र-स्थानीयम् अवतारिका-वाक्यं, विषय-वाक्यं श्री-भागवत-वाक्यम् । भाष्य-रूपा तद्-व्याख्या तु सम्प्रति मध्य-देशादौ व्याप्तान् अद्वैत-वादिनो नूनं भगवन्-महिमानम् अवगाहयितुं तद्-वादेन कर्बुरित-लिपीनां परम-वैष्णवानां श्रीधर-स्वामि-चरणानां शुद्ध-वैष्णव-सिद्धान्तानुगता चेत्, तर्हि यथावद् एव विलिख्यते । क्वचित् तेषाम् एवान्यत्र-दृष्ट-व्याख्यानुसारेण द्रविडादि-देश-विख्यात-परम-भागवतानां तेषाम् एव बाहुल्येन तत्र वैष्णवत्वेन प्रसिद्धत्वात् । श्री-भागवत एव, क्वचित् क्वचिन् महाराज द्रविडेषु च भूरिशः [भा।पु। ११.५.३९] इत्य् अनेन प्रथित-महिम्नां साक्षाच् छ्री-प्रभृतितः प्रवृत्त-सम्प्रदायानां श्री-वैष्णवाभिधानां श्री-रामानुज-भगवत्-पाद-विरचित-श्री-भाष्यादि-दृष्ट-मत-प्रामाण्येन, मूल-ग्रन्थ-स्वारस्येन चान्यथा च । अद्वैत-व्याख्यानं तु प्रसिद्धत्वान् नातिवितायते ॥२७॥**
+**tad evaṁ parama-niḥśreyasa-niścayāya śrī-bhāgavatam eva paurvāparyāvirodhena vicāryate| tatrāsmin sandarbha-ṣaṭkātmake granthe sūtra-sthānīyam avatārikā-vākyaṁ, viṣaya-vākyaṁ śrī-bhāgavata-vākyam | bhāṣya-rūpā tad-vyākhyā tu samprati madhya-deśādau vyāptān advaita-vādino nūnaṁ bhagavan-mahimānam avagāhayituṁ tad-vādena karburita-lipīnāṁ parama-vaiṣṇavānāṁ śrīdhara-svāmi-caraṇānāṁ śuddha-vaiṣṇava-siddhāntānugatā cet, tarhi yathāvad eva vilikhyate | kvacit teṣām evānyatra-dṛṣṭa-vyākhyānusāreṇa draviḍādi-deśa-vikhyāta-parama-bhāgavatānāṁ teṣām eva bāhulyena tatra vaiṣṇavatvena prasiddhatvāt | śrī-bhāgavata eva, kvacit kvacin mahārāja draviḍeṣu ca bhūriśaḥ [bhā.pu. 11.5.39] ity anena prathita-mahimnāṁ sākṣāc chrī-prabhṛtitaḥ pravṛtta-sampradāyānāṁ śrī-vaiṣṇavābhidhānāṁ śrī-rāmānuja-bhagavat-pāda-viracita-śrī-bhāṣyādi-dṛṣṭa-mata-prāmāṇyena, mūla-grantha-svārasyena cānyathā ca | advaita-vyākhyānaṁ tu prasiddhatvān nātivitāyate ||27||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** तद् एवम् इति । ननु वेद एवास्माकं प्रमाणम् इति प्रतिज्ञाय पुराणम् एव तत् स्वीकरोतीति किम् इदं कौतुकम् इति चेन् मैवं भ्रमितव्यम् । एवं वा अरेऽस्य महतो भूतस्य [बृ।आ।उ। २.४.१०] इत्य्-आदि-श्रुत्यैव पुराणस्य वेदत्वाभिधानात् । वेदेषु वेदान्तस्यैव पुराणेषु श्री-भागवतस्य श्रैष्ठ्य-निर्णयाच् च तद् एव प्रमाणम् इति किम् असङ्गतम् उक्तम् इति । अथ ब्रह्म-सूत्र-भाष्य-रीत्या सन्दर्भस्यास्य प्रवृत्तिर् इत्य् आह तत्रस्मिन्न् इति । विचारार्हवाक्यं विषय-वाक्यम् । भाष्य-रूपा तद्-व्याख्येति । अयम् अर्थः श्रीधर-स्वामिनो वैष्णवा एव, तट्-टीकासु भगवद्-विग्रह-गुण—विभूति-धाम्नां तत्-पार्षद-तनूनां च नित्यत्वोक्तेः । भगवद्-भक्तेः सर्वोत्कृष्ट-मोक्षानुवृत्त्योर् उक्तेश् च तथापि क्वचित् क्वचिन् मायावादोल्लेखस् तद्-वादिनो भगवद्-भक्तौ प्रवेशयितुं बडिशामिषार्पण-न्यायेनैवेति विदितम् इति । शुद्ध-वैष्णवेति यथा साङ्ख्यादि-शास्त्राणाम् अविरुद्धांशः सर्वैः स्वीकृतस् तद्वद् इदं बोध्यम् । क्वचित् तेषाम् एवेति क्वचित् स्थलान्तरीय-स्वामि-व्याख्यानुसारेणश्री-भाष्यादि-दृष्ट-मत-प्रामाण्येन मूल-श्री-भागवत-स्वारस्येन चान्यथा च भाष्य-रूपा तद्-व्याख्या मया लिख्यत इतिमत्-कपोल-कल्पनं किञ्चिद् अपि नास्तीति प्रमाणोपेतात्र टीकेत्य् अर्थः । ननु पूर्व-पक्ष-ज्ञानायाद्वैतं च व्याख्येयम् इति तत्राह अद्वैतेति ॥२७॥
+**baladevaḥ :** tad evam iti | nanu veda evāsmākaṁ pramāṇam iti pratijñāya purāṇam eva tat svīkarotīti kim idaṁ kautukam iti cen maivaṁ bhramitavyam | evaṁ vā are’sya mahato bhūtasya [bṛ.ā.u. 2.4.10] ity-ādi-śrutyaiva purāṇasya vedatvābhidhānāt | vedeṣu vedāntasyaiva purāṇeṣu śrī-bhāgavatasya śraiṣṭhya-nirṇayāc ca tad eva pramāṇam iti kim asaṅgatam uktam iti | atha brahma-sūtra-bhāṣya-rītyā sandarbhasyāsya pravṛttir ity āha tatrasminn iti | vicārārhavākyaṁ viṣaya-vākyam | bhāṣya-rūpā tad-vyākhyeti | ayam arthaḥ śrīdhara-svāmino vaiṣṇavā eva, taṭ-ṭīkāsu bhagavad-vigraha-guṇa—vibhūti-dhāmnāṁ tat-pārṣada-tanūnāṁ ca nityatvokteḥ | bhagavad-bhakteḥ sarvotkṛṣṭa-mokṣānuvṛttyor ukteś ca tathāpi kvacit kvacin māyāvādollekhas tad-vādino bhagavad-bhaktau praveśayituṁ baḍiśāmiṣārpaṇa-nyāyenaiveti viditam iti | śuddha-vaiṣṇaveti yathā sāṅkhyādi-śāstrāṇām aviruddhāṁśaḥ sarvaiḥ svīkṛtas tadvad idaṁ bodhyam | kvacit teṣām eveti kvacit sthalāntarīya-svāmi-vyākhyānusāreṇaśrī-bhāṣyādi-dṛṣṭa-mata-prāmāṇyena mūla-śrī-bhāgavata-svārasyena cānyathā ca bhāṣya-rūpā tad-vyākhyā mayā likhyata itimat-kapola-kalpanaṁ kiñcid api nāstīti pramāṇopetātra ṭīkety arthaḥ | nanu pūrva-pakṣa-jñānāyādvaitaṁ ca vyākhyeyam iti tatrāha advaiteti ||27||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२८]
+[28]
 
-**अत्र च स्व-दर्शितार्थ-विशेष-प्रामाण्यायैव, न तु श्रीमद्-भागवत-वाक्य-प्रामाण्याय, प्रमाणानि श्रुति-पुराणादि-वचनानि यथा-दृष्टम् एवोदाहरणीयानि । क्वचित् स्वयम् अदृष्टाकराणि च तत्त्व-वाद-गुरूणाम् अनाधुनिकानां प्रचुर-प्रचारित-वैष्णव-मत-विशेषाणां दक्षिणादि-देश-विख्यात-शिष्योपशिष्यीभूत-विजयध्वज-व्यासतीर्थादि-वेद-वेदार्थ-विद्-वराणां श्री-मध्वाचार्य-चरणानां भागवत-तात्पर्य-भारत-तात्पर्य-ब्रह्म-सूत्र-भाष्यादिभ्यः सङ्गृहीतानि । तैश् चैवम् उक्तं भारत-तात्पर्ये—**
+**atra ca sva-darśitārtha-viśeṣa-prāmāṇyāyaiva, na tu śrīmad-bhāgavata-vākya-prāmāṇyāya, pramāṇāni śruti-purāṇādi-vacanāni yathā-dṛṣṭam evodāharaṇīyāni | kvacit svayam adṛṣṭākarāṇi ca tattva-vāda-gurūṇām anādhunikānāṁ pracura-pracārita-vaiṣṇava-mata-viśeṣāṇāṁ dakṣiṇādi-deśa-vikhyāta-śiṣyopaśiṣyībhūta-vijayadhvaja-vyāsatīrthādi-veda-vedārtha-vid-varāṇāṁ śrī-madhvācārya-caraṇānāṁ bhāgavata-tātparya-bhārata-tātparya-brahma-sūtra-bhāṣyādibhyaḥ saṅgṛhītāni | taiś caivam uktaṁ bhārata-tātparye—**
 
 
-> **शास्त्रान्तराणि संजानन् वेदान्तस्य प्रसादतः ।**  
-> **देशे देशे तथा ग्रन्थान् दृष्ट्वा चैव पृथग्-विधान् ॥**  
-> **यथा स भगवान् व्यासः साक्षान् नारायणः प्रभुः ।**  
-> **जगाद भारताद्येषु तथा वक्ष्ये तद्-ईक्षया ॥ इति । **
+> **śāstrāntarāṇi saṁjānan vedāntasya prasādataḥ |**  
+> **deśe deśe tathā granthān dṛṣṭvā caiva pṛthag-vidhān ||**  
+> **yathā sa bhagavān vyāsaḥ sākṣān nārāyaṇaḥ prabhuḥ |**  
+> **jagāda bhāratādyeṣu tathā vakṣye tad-īkṣayā || iti | **
 
-**तत्र तद्-उद्धृता श्रुतिश् **चतुर्वेद-शिखाद्या**, पुराणं च गारुडादीनां सम्प्रति सर्वत्राप्रचरद्-रूपम् अंशादिकम् । संहिता च **महा-संहिता**दिका तन्त्रं च **तन्त्र-भागवता**दिकं **ब्रह्म-तर्का**दिकम् इति ज्ञेयम् ॥२८॥**
+**tatra tad-uddhṛtā śrutiś **caturveda-śikhādyā**, purāṇaṁ ca gāruḍādīnāṁ samprati sarvatrāpracarad-rūpam aṁśādikam | saṁhitā ca **mahā-saṁhitā**dikā tantraṁ ca **tantra-bhāgavatā**dikaṁ **brahma-tarkā**dikam iti jñeyam ||28||**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** अत्रेति । इह ग्रन्थे यानि श्रुति-पुराणादि-वचनानि मया ध्रियन्ते तानि स्वदर्शितार्थ-विशेष-प्रामाण्यैव । न तु श्री-भागवत-वाक्य-प्रामण्याय, तस्य स्वतः प्रमाणत्वात् । तानि च यथा-दृष्टम् एवोदाहरणीयानि मूल-ग्रन्थान् विलोक्योत्थापितानीत्य् अर्थः । कानिचिद् वाक्यानि तु मद्-अदृष्टाकराण्य् अस्मद्-आचार्य-श्री-मध्वमुनि-दृष्टाकराण्य् एव क्वचिन् मया ध्रियन्त इत्य् आह क्वचिद् इति । मद्-व्याख्यानं क्वचिद् अर्थ-विशेषे प्रामाण्याय श्री-मध्वाचार्य-चरणानां भागवत-तात्पर्यादिभ्यो ग्रन्थेभ्यः सङ्गृहीतानि श्रुति-पुराणादि-वचनानि ध्रियन्त इत्य् अनुषङ्गः । अत्रास्य ग्रन्थ-कर्तुः सत्यवादित्वं ध्वनितम् । कौमार-ब्रह्मचर्यवान् नैष्ठिको यः सत्य-तपोनिधिः स्वप्नेऽप्य् अनृतं नोचे चेति प्रसिद्धम् । तेषां कीदृशानाम् इत्य् आह तत्त्वेति । सर्वं वस्तु सत्यम् इति वादस् तत्त्व-वादस् तद्-उपदेष्टॄणाम् इत्य् अर्थः । अनाधुनिकानाम् अतिप्राचीनानां केनचिच् छाङ्करेण सह विवादे मध्वस्य मतं व्यासः स्वीचक्रे । शङ्करस्य तु तत्याजेत्यैतिह्यम् अस्ति । प्रचारितेति भक्तानां विप्राणाम् एव मोक्षः । देवा भक्तेषु मुख्याः । विरिञ्चस्यैव सायुज्यम् । लक्ष्म्या जीवकोटित्वम् इत्य् एवं मत-विशेषः । दक्षिणादिदेशेति तेन गौडेऽपि माधवेन्द्रादयस् तद्-उपशिष्याः कतिचिद् बभूवुर् इत्य् अर्थः । शास्त्रान्तराणीति तेन स्वस्य दृष्ट-सर्वाकरता व्यज्यते दिग्-विजयित्वं चेत्य् उपोद्घातो व्याख्यातः ॥२८॥
+**baladevaḥ :** atreti | iha granthe yāni śruti-purāṇādi-vacanāni mayā dhriyante tāni svadarśitārtha-viśeṣa-prāmāṇyaiva | na tu śrī-bhāgavata-vākya-prāmaṇyāya, tasya svataḥ pramāṇatvāt | tāni ca yathā-dṛṣṭam evodāharaṇīyāni mūla-granthān vilokyotthāpitānīty arthaḥ | kānicid vākyāni tu mad-adṛṣṭākarāṇy asmad-ācārya-śrī-madhvamuni-dṛṣṭākarāṇy eva kvacin mayā dhriyanta ity āha kvacid iti | mad-vyākhyānaṁ kvacid artha-viśeṣe prāmāṇyāya śrī-madhvācārya-caraṇānāṁ bhāgavata-tātparyādibhyo granthebhyaḥ saṅgṛhītāni śruti-purāṇādi-vacanāni dhriyanta ity anuṣaṅgaḥ | atrāsya grantha-kartuḥ satyavāditvaṁ dhvanitam | kaumāra-brahmacaryavān naiṣṭhiko yaḥ satya-taponidhiḥ svapne’py anṛtaṁ noce ceti prasiddham | teṣāṁ kīdṛśānām ity āha tattveti | sarvaṁ vastu satyam iti vādas tattva-vādas tad-upadeṣṭṝṇām ity arthaḥ | anādhunikānām atiprācīnānāṁ kenacic chāṅkareṇa saha vivāde madhvasya mataṁ vyāsaḥ svīcakre | śaṅkarasya tu tatyājetyaitihyam asti | pracāriteti bhaktānāṁ viprāṇām eva mokṣaḥ | devā bhakteṣu mukhyāḥ | viriñcasyaiva sāyujyam | lakṣmyā jīvakoṭitvam ity evaṁ mata-viśeṣaḥ | dakṣiṇādideśeti tena gauḍe’pi mādhavendrādayas tad-upaśiṣyāḥ katicid babhūvur ity arthaḥ | śāstrāntarāṇīti tena svasya dṛṣṭa-sarvākaratā vyajyate dig-vijayitvaṁ cety upodghāto vyākhyātaḥ ||28||
 
-॥ इति प्रमाण-प्रकरणम् ॥
+|| iti pramāṇa-prakaraṇam ||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
 
-## प्रमेय-प्रकरणम्
-अथ प्रमेय-प्रकरणम्
+## Prameya-prakaraṇam
+atha Prameya-prakaraṇam
 
-[१]
+[1]
 
-**अथ नमस्कुर्वन्न्****[^१८] एव तथाभूतस्य श्रीमद्-भागवतस्यतात्पर्य-तद्-वक्तुर् हृदय-निष्ठा-पर्यालोचनया सङ्क्षेपतस् तावन् निर्धारयति—**
+**atha namaskurvann****[^18] eva tathābhūtasya śrīmad-bhāgavatasyatātparya-tad-vaktur hṛdaya-niṣṭhā-paryālocanayā saṅkṣepatas tāvan nirdhārayati—**
 
-[^१८]:
-    अत्र श्री-गुरु-सद्-भक्त-भगवत्-स्मरणं शुभम् । ग्रन्थरम्भे तु कर्तव्यं मङ्गलं शिष्ट-सम्मतम् ॥ इति युक्तम् उक्तं एकस्मिन् संस्करणे सम्पादकैः कानाइ-लाल-अधिकारि-महोदयैः । अत्र-प्रभृति समुदयो षट्-सन्दर्भ एव _प्रमेय-_प्रकरणं मन्तव्यम् ॥ तस्मात् ग्रन्थोऽत्रैवारभ्यते ॥
+[^18]:
+    atra śrī-guru-sad-bhakta-bhagavat-smaraṇaṁ śubham | grantharambhe tu kartavyaṁ maṅgalaṁ śiṣṭa-sammatam || iti yuktam uktaṁ ekasmin saṁskaraṇe sampādakaiḥ kānāi-lāla-adhikāri-mahodayaiḥ | atra-prabhṛti samudayo ṣaṭ-sandarbha eva _Prameya-_prakaraṇaṁ mantavyam || tasmāt grantho’traivārabhyate ||
 
 
 
-> **स्व-सुख-निभृत-चेतास् तद्-व्युदस्तान्य-भावोऽप्य् **  
-> **अजित-रुचिर-लीलाकृष्ट-सारस् तदीयम् ।**  
-> **व्यतनुत कृपया यस् तत्त्व-दीपं पुराणं**  
-> **तम् अखिल-वृजिन-घ्नं व्यास-सूनुं नतोऽस्मि ॥ **[भा।पु। १२.१२.६८]
+> **sva-sukha-nibhṛta-cetās tad-vyudastānya-bhāvo’py **  
+> **ajita-rucira-līlākṛṣṭa-sāras tadīyam |**  
+> **vyatanuta kṛpayā yas tattva-dīpaṁ purāṇaṁ**  
+> **tam akhila-vṛjina-ghnaṁ vyāsa-sūnuṁ nato’smi || **[bhā.pu. 12.12.68]
 
-**टीका च श्रीधर-स्वामि-विरचिता—श्री-गुरुं नमस्करोति । स्व-सुखेनैव निभृतं पूर्णं चेतो यस्य सः । तेनैव व्युदस्तोऽन्यस्मिन् भावो भावना यस्य तथाभूतोऽप्य् अजितस्य रुचिराभिर् लीलाभिर् आकृष्टः सारः स्व-सुख-गतं धैर्यं यस्य सः । तत्त्व-दीपं परमार्थ-प्रकाशकं श्री-भागवतं यो व्यतनुत तं नतोऽस्मि इत्य् एषा । **
+**ṭīkā ca śrīdhara-svāmi-viracitā—śrī-guruṁ namaskaroti | sva-sukhenaiva nibhṛtaṁ pūrṇaṁ ceto yasya saḥ | tenaiva vyudasto’nyasmin bhāvo bhāvanā yasya tathābhūto’py ajitasya rucirābhir līlābhir ākṛṣṭaḥ sāraḥ sva-sukha-gataṁ dhairyaṁ yasya saḥ | tattva-dīpaṁ paramārtha-prakāśakaṁ śrī-bhāgavataṁ yo vyatanuta taṁ nato’smi ity eṣā | **
 
-**एवम् एव द्वितीये तद्-वाक्यम् एव प्रायेण मुनयो राजन् [भा।पु। २.१.७] इत्य्-आदि-पद्य-त्रयम् अनुसन्धेयम् । अत्र “अखिल-वृजिनं” तादृश-भावस्य प्रतिकूलम् उदासीनं च ज्ञेयम् । तद् एवम् इह सम्बन्धि-तत्त्वं ब्रह्मानन्दाद् अपि प्रकृष्टो रुचिर-लीला-विशिष्टः श्रीमान् अजित एव । स च पूर्णत्वेन मुख्यतया श्री-कृष्ण-संज्ञ एवेति श्री-बादरायण-समाधौ व्यक्तीभविष्यति । तथा प्रयोजनाख्यः पुरुषार्थश् च तादृश-तद्-आसक्ति-जनकं तल्-लीला-श्रवणादि-लक्षणं तद्-भजनम् एवेत्य् आयातम् । अत्र “व्यास-सूनुम्” इति ब्रह्म-वैवर्तानुसारेण श्री-कृष्ण-वराज् जन्मत एव मायया तस्यास्पृष्टत्वं सूचितम् ॥ **
+**evam eva dvitīye tad-vākyam eva prāyeṇa munayo rājan [bhā.pu. 2.1.7] ity-ādi-padya-trayam anusandheyam | atra “akhila-vṛjinaṁ” tādṛśa-bhāvasya pratikūlam udāsīnaṁ ca jñeyam | tad evam iha sambandhi-tattvaṁ brahmānandād api prakṛṣṭo rucira-līlā-viśiṣṭaḥ śrīmān ajita eva | sa ca pūrṇatvena mukhyatayā śrī-kṛṣṇa-saṁjña eveti śrī-bādarāyaṇa-samādhau vyaktībhaviṣyati | tathā prayojanākhyaḥ puruṣārthaś ca tādṛśa-tad-āsakti-janakaṁ tal-līlā-śravaṇādi-lakṣaṇaṁ tad-bhajanam evety āyātam | atra “vyāsa-sūnum” iti brahma-vaivartānusāreṇa śrī-kṛṣṇa-varāj janmata eva māyayā tasyāspṛṣṭatvaṁ sūcitam || **
 
-**॥ १२.१२ ॥ श्री-सूतः श्री-शौनकम् ॥१॥**
+**|| 12.12 || śrī-sūtaḥ śrī-śaunakam ||1||**
 
-**सर्व-संवादिनी : **अथ [मूले] _प्रमेय-_प्रकरणारम्भेऽथ नमस्कुर्वन्न् एवेति सूत्र-स्थानीयस्याभास-वाक्यस्य विषय-स्थानीय-श्री-भागवत-वाक्य-समाप्ताव् अङ्क-विन्यासस् तद्-वाक्य-सङ्गति-गणना-परः । स च श्री-क्रम-सन्दर्भानुकुलो भविष्यति । तत्र तत्र व्याख्या-समाप्तौ त्व् अङ्क-विन्यास-विशेषस्यायम् अर्थः । [“स्व-सुख-निभृत-” इति पद्यस्य वक्ता] द्वादश-स्कन्धे द्वादशाध्याये श्री-सूतः ॥२९॥
+**sarva-saṁvādinī : **atha [mūle] _Prameya-_prakaraṇārambhe'tha namaskurvann eveti sūtra-sthānīyasyābhāsa-vākyasya viṣaya-sthānīya-śrī-bhāgavata-vākya-samāptāv aṅka-vinyāsas tad-vākya-saṅgati-gaṇanā-paraḥ | sa ca śrī-krama-sandarbhānukulo bhaviṣyati | tatra tatra vyākhyā-samāptau tv aṅka-vinyāsa-viśeṣasyāyam arthaḥ | [“sva-sukha-nibhṛta-” iti padyasya vaktā] dvādaśa-skandhe dvādaśādhyāye śrī-sūtaḥ ||29||
 
-**बलदेवः :** अथ यस्य ब्रह्मेति [अत्र मङ्गलाचरणे ८] पद्योक्तं सम्बन्धि-कृष्ण-तत्त्वम्, तद्-भक्ति-लक्षणम् अभिधेयम्, तत्-प्रेम-लक्षणं पुमर्थं च निरूपतया पद्येन तावद्ग्रन्थं प्रवर्तयन् ग्रन्थ-कृद् अवतारयति । अथेति मङ्गलार्थम् । यस्मिन् शास्त्र-वक्तुर् हृदय-निष्ठा प्रतीयते तद् एव शास्त्र-प्रतिपाद्य-वस्तु, न त्व् अन्यद् इत्य् अर्थः । स्वेति **तदीयम्** अजित-निरूपकं **पुराणम्** इत्य् अर्थः । 
+**baladevaḥ :** atha yasya brahmeti [atra maṅgalācaraṇe 8] padyoktaṁ sambandhi-kṛṣṇa-tattvam, tad-bhakti-lakṣaṇam abhidheyam, tat-prema-lakṣaṇaṁ pumarthaṁ ca nirūpatayā padyena tāvadgranthaṁ pravartayan grantha-kṛd avatārayati | atheti maṅgalārtham | yasmin śāstra-vaktur hṛdaya-niṣṭhā pratīyate tad eva śāstra-pratipādya-vastu, na tv anyad ity arthaḥ | sveti **tadīyam** ajita-nirūpakaṁ **purāṇam** ity arthaḥ | 
 
-टीका चेति—स्व-सुखेनेति । स्वम् असाधारणं जीवानान्दाद् उत्कृष्टम् । गुडाद् इव मधु, यद्-अनभिव्यक्त-संस्थान-गुण-विभूति-लीलम् आनन्द-रूपं स्व-प्रकाशं ब्रह्म-शब्द-व्यपदेश्यं वस्तु, तेनेत्य् अर्थः । **रुचिराभिर्** इति पारमैश्वर्य-समवेत-माधुर्य-सम्भिन्नत्वान् मनोज्ञाभिर् आनन्दैक-रूपाभिः पानक-रस-न्यायेन स्फुरद्-अजित-तत्-परिकरादिभिर् **लीलाभिर्** इत्य् अर्थः । अत्राखिलेति । प्रतिकूलं प्रत्याख्यायकम् । उदासीनं त्याजकम् इत्य् अर्थः । अङ्क-युग्मं स्कन्धाध्याययोर् ज्ञापकम् । श्री-सूतः श्री-शौनकं प्रति निर्धारयतीत्य् अवतारिक-वाक्येन सम्बन्धः । एवम् उत्तरत्र सर्वत्र बोध्यम् ॥२९॥
+ṭīkā ceti—sva-sukheneti | svam asādhāraṇaṁ jīvānāndād utkṛṣṭam | guḍād iva madhu, yad-anabhivyakta-saṁsthāna-guṇa-vibhūti-līlam ānanda-rūpaṁ sva-prakāśaṁ brahma-śabda-vyapadeśyaṁ vastu, tenety arthaḥ | **rucirābhir** iti pāramaiśvarya-samaveta-mādhurya-sambhinnatvān manojñābhir ānandaika-rūpābhiḥ pānaka-rasa-nyāyena sphurad-ajita-tat-parikarādibhir **līlābhir** ity arthaḥ | atrākhileti | pratikūlaṁ pratyākhyāyakam | udāsīnaṁ tyājakam ity arthaḥ | aṅka-yugmaṁ skandhādhyāyayor jñāpakam | śrī-sūtaḥ śrī-śaunakaṁ prati nirdhārayatīty avatārika-vākyena sambandhaḥ | evam uttaratra sarvatra bodhyam ||29||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२]
+[2]
 
-**तादृशम् एव तात्पर्यं करिस्यमाण-तद्-ग्रन्थ-प्रतिपाद्य-तत्त्व-निर्णय-कृते तत्-प्रवक्तृ-श्री-बादरायण-कृते समाधाव् अपि सङ्क्षेपत एव निर्धारयति—**
+**tādṛśam eva tātparyaṁ karisyamāṇa-tad-grantha-pratipādya-tattva-nirṇaya-kṛte tat-pravaktṛ-śrī-bādarāyaṇa-kṛte samādhāv api saṅkṣepata eva nirdhārayati—**
 
 
-> **भक्ति-योगेन मनसि सम्यक् प्रणिहितेऽमले ।**  
-> **अपश्यत् पुरुषं पूर्णं मायां च तद्-अपाश्रयम् ॥**  
-> **यया सम्मोहितो जीव आत्मानं त्रि-गुणात्मकम् ।**  
-> **परोऽपि मनुतेऽनर्थं तत्-कृतं चाभिपद्यते ॥**  
-> **अनर्थोपशमं साक्षाद् भक्ति-योगम् अधोक्षजे ।**  
-> **लोकस्याजानतो विद्वांश् चक्रे सात्वत-संहिताम् ॥**  
-> **यस्यां वै श्रूयमाणायां कृष्णे परम-पूरुषे ।**  
-> **भक्तिर् उत्पद्यते पुंसः शोक-मोह-भयापहा ॥**  
-> **स संहितां भागवतीं कृत्वानुक्रम्य चात्म-जम् ।**  
-> **शुकम् अध्यापयाम् आस निवृत्ति-निरतं मुनिः ॥ [भा।पु। १.७.४-८]**
+> **bhakti-yogena manasi samyak praṇihite’male |**  
+> **apaśyat puruṣaṁ pūrṇaṁ māyāṁ ca tad-apāśrayam ||**  
+> **yayā sammohito jīva ātmānaṁ tri-guṇātmakam |**  
+> **paro’pi manute’narthaṁ tat-kṛtaṁ cābhipadyate ||**  
+> **anarthopaśamaṁ sākṣād bhakti-yogam adhokṣaje |**  
+> **lokasyājānato vidvāṁś cakre sātvata-saṁhitām ||**  
+> **yasyāṁ vai śrūyamāṇāyāṁ kṛṣṇe parama-pūruṣe |**  
+> **bhaktir utpadyate puṁsaḥ śoka-moha-bhayāpahā ||**  
+> **sa saṁhitāṁ bhāgavatīṁ kṛtvānukramya cātma-jam |**  
+> **śukam adhyāpayām āsa nivṛtti-nirataṁ muniḥ || [bhā.pu. 1.7.4-8]**
 
-**तत्र—**
+**tatra—**
 
 
-> **स वै निवृत्ति-निरतः सर्वत्रोपेक्षको मुनिः ।**  
-> **कस्य वा बृहतीम् एताम् आत्मारामः समभ्यसत् ॥ [भा।पु। १.७.९]**
+> **sa vai nivṛtti-nirataḥ sarvatropekṣako muniḥ |**  
+> **kasya vā bṛhatīm etām ātmārāmaḥ samabhyasat || [bhā.pu. 1.7.9]**
 
-**इति शौनक-प्रश्नानन्तरं च—**
+**iti śaunaka-praśnānantaraṁ ca—**
 
 
-> **आत्मारामाश् च मुनयो निर्ग्रन्था अप्य् उरुक्रमे ।**  
-> **कुर्वन्त्य् अहैतुकीं भक्तिम् इत्थम्-भूत-गुणो हरिः ॥**  
-> **हरेर् गुणाक्षिप्त-मतिर् भगवान् बादरायणिः ।**  
-> **अध्यगान् महद् आख्यानं नित्यं विष्णु-जन-प्रियः ॥[भा।पु। १.७.१०-११]**
+> **ātmārāmāś ca munayo nirgranthā apy urukrame |**  
+> **kurvanty ahaitukīṁ bhaktim ittham-bhūta-guṇo hariḥ ||**  
+> **harer guṇākṣipta-matir bhagavān bādarāyaṇiḥ |**  
+> **adhyagān mahad ākhyānaṁ nityaṁ viṣṇu-jana-priyaḥ ||[bhā.pu. 1.7.10-11]**
 
-**भक्ति-योगेन प्रेम्णा । **
+**bhakti-yogena premṇā | **
 
 
-> **अस्त्व् एवम् अङ्ग भगवान् भजतां मुकुन्दो**  
-> **मुक्तिं ददाति कर्हिचित् स्म न भक्ति-योगम् ॥ [भा।पु। ५.६.१८]**
+> **astv evam aṅga bhagavān bhajatāṁ mukundo**  
+> **muktiṁ dadāti karhicit sma na bhakti-yogam || [bhā.pu. 5.6.18]**
 
-**इत्य् अत्र प्रसिद्धेः । प्रणिहिते समाहिते समाधिनानुस्मर तद्-विचेष्टितं [भा।पु। १.५.१३] इति तं प्रति श्री-नारदोपदेशात् । पूर्ण-पदस्य मुक्त-प्रग्रहया वृत्त्या—**
+**ity atra prasiddheḥ | praṇihite samāhite samādhinānusmara tad-viceṣṭitaṁ [bhā.pu. 1.5.13] iti taṁ prati śrī-nāradopadeśāt | pūrṇa-padasya mukta-pragrahayā vṛttyā—**
 
 
-> **भगवान् इति शब्दोऽयं तथा पुरुष इत्य् अपि ।**  
-> **वर्तते निरुपाधिश् च वासुदेवेऽखिलात्मनि ॥**
+> **bhagavān iti śabdo’yaṁ tathā puruṣa ity api |**  
+> **vartate nirupādhiś ca vāsudeve’khilātmani ||**
 
-**इति **पाद्मोत्तर-खण्ड**-वचनावष्टम्भेन, तथा—**
+**iti **pādmottara-khaṇḍa**-vacanāvaṣṭambhena, tathā—**
 
 
-> **काम-कामो यजेत् सोमम् अकामः पुरुषं परम् ॥**  
-> **अकामः सर्व-कामो वा मोक्ष-काम उदार-धीः ।**  
-> **तीव्रेण भक्ति-योगेन यजेत पुरुषं परम् ॥ [भा।पु। २.३.९-१०]**
+> **kāma-kāmo yajet somam akāmaḥ puruṣaṁ param ||**  
+> **akāmaḥ sarva-kāmo vā mokṣa-kāma udāra-dhīḥ |**  
+> **tīvreṇa bhakti-yogena yajeta puruṣaṁ param || [bhā.pu. 2.3.9-10]**
 
-**इत्य् अस्य वाक्य-द्वयस्य पूर्व-वाक्ये पुरुषं परमात्मानं प्रकृत्य्-एकोपाधिम् उत्तर-वाक्ये पुरुषं पूर्णं निरुपाधिम् इति टीकानुसारेण च पूर्णः पुरुषोऽत्र स्वयं भगवान् उच्यते ॥२अ॥**[^१९]
+**ity asya vākya-dvayasya pūrva-vākye puruṣaṁ paramātmānaṁ prakṛty-ekopādhim uttara-vākye puruṣaṁ pūrṇaṁ nirupādhim iti ṭīkānusāreṇa ca pūrṇaḥ puruṣo’tra svayaṁ bhagavān ucyate ||2a||**[^19]
 
-**सर्व-संवादिनी : **“भक्ति-योगेन” [भा।पु। १.७.४] इत्य्-आदि शौनकं प्रति निर्धारयतीति चूर्णिका-वाक्यस्यान्वयात् । एवम् उत्तरत्रापि ज्ञेयम् ॥२अ॥ (३०)
+**sarva-saṁvādinī : **“bhakti-yogena” [bhā.pu. 1.7.4] ity-ādi śaunakaṁ prati nirdhārayatīti cūrṇikā-vākyasyānvayāt | evam uttaratrāpi jñeyam ||2a|| (30)
 
-[^१९]:
-    इ wओउल्द् जोइन् सेच्तिओन् ३१ हेरे, अस् इत् इस् अल्ल् चोम्मेन्तर्य् ओन् १.७.४। सेच्तिओन् ३२ स्तर्त्स् चोम्मेन्तर्य् ओन् १.७.५।
+[^19]:
+    I would join section 31 here, as it is all commentary on 1.7.4. Section 32 starts commentary on 1.7.5.
 
 
-**बलदेवः :** ग्रन्थ-वक्तुः शुकस्य यत्र निष्ठावधारिता । तत्रैव ग्रन्थ-कर्तुर् व्यासस्यापि निष्ठाम् अवधारयितुम् अवतारयति तादृशम् एवेति । निवृत्ति-निरतं ब्रह्मानन्दाद् अन्यस्मिन् स्पृहा-विरहितम् । कस्येति संहिताभ्यासस्य किं फलम् इत्य् अर्थः । अध्यगाद् अधीतवान् । मुक्त-प्रग्रहयेति यथाश्वः प्रग्रहे मुक्ते बलावधि धावत्य् एवं पूर्ण-शब्दः प्रवृत्तः पूर्णत्वावधि प्रवर्तेतेति वक्तुं तद्-अवधिश् च स्वयं-भगवत्य् एवेति तथोच्यत इत्य् अर्थः ॥२अ॥ (३०)
+**baladevaḥ :** grantha-vaktuḥ śukasya yatra niṣṭhāvadhāritā | tatraiva grantha-kartur vyāsasyāpi niṣṭhām avadhārayitum avatārayati tādṛśam eveti | nivṛtti-nirataṁ brahmānandād anyasmin spṛhā-virahitam | kasyeti saṁhitābhyāsasya kiṁ phalam ity arthaḥ | adhyagād adhītavān | mukta-pragrahayeti yathāśvaḥ pragrahe mukte balāvadhi dhāvaty evaṁ pūrṇa-śabdaḥ pravṛttaḥ pūrṇatvāvadhi pravarteteti vaktuṁ tad-avadhiś ca svayaṁ-bhagavaty eveti tathocyata ity arthaḥ ||2a|| (30)
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२ब्]
+[2b]
 
-**पूर्वम् इति पाठे पूर्वम् एवाहम् इहासम्, इति तत्-पुरुषस्य पुरुषत्वम् इति श्रौत-निर्वचन-विशेष-पुरस्कारेण च स एवोच्यते । तम् अपश्यत् श्री-वेद-व्यास इति स्वरूप-शक्तिमन्तम् एवेत्य् एतत् स्वयम् एव लब्धं पूर्णं चन्द्रम् अपश्यद् इत्य् उक्ते कान्तिमन्तम् अपश्यद् इति लभ्यते। अत एव—**
+**pūrvam iti pāṭhe pūrvam evāham ihāsam, iti tat-puruṣasya puruṣatvam iti śrauta-nirvacana-viśeṣa-puraskāreṇa ca sa evocyate | tam apaśyat śrī-veda-vyāsa iti svarūpa-śaktimantam evety etat svayam eva labdhaṁ pūrṇaṁ candram apaśyad ity ukte kāntimantam apaśyad iti labhyate| ata eva—**
 
 
-> **त्वम् आद्यः पुरुषः साक्षाद् **  
-> **ईश्वरः प्रकृतेः परः ।**  
-> **मायां व्युदस्य चिच्-छक्त्या **  
-> **कैवल्ये स्थित आत्मनि ॥ [भा।पु। १.७.२३] इत्य् उक्तम् ।**
+> **tvam ādyaḥ puruṣaḥ sākṣād **  
+> **īśvaraḥ prakṛteḥ paraḥ |**  
+> **māyāṁ vyudasya cic-chaktyā **  
+> **kaivalye sthita ātmani || [bhā.pu. 1.7.23] ity uktam |**
 
-**अत एव मायां च तद्-अपाश्रयाम् इत्य् अनेन तस्मिन् अप अपकृष्ट आश्रयो यस्याः । निलीय स्थितत्वाद् इति मायाया न तत्-स्वरूप-भूतत्वम् इत्य् अपि लभ्यते । वक्ष्यते च—माया परैत्य् अभिमुखे च विलज्जमाना [भा।पु। २.७.४७] इति । स्वरूप-शक्तिर् इयम् अत्रैव व्यक्तीभविष्यति अनर्थोपशमं साक्षाद् भक्ति-योगम् अधोक्षजे [भा।पु। १.७.६] इत्य् अनेन, आत्मारामाश् च [भा।पु। १.७.१०] इत्य् अनेन च । पूर्वत्र हि भक्ति-योग-प्रभावः खल्व् असौ मायाभिभावकतया स्वरूप-शक्ति-वृत्तित्वेनैव गम्यते । परत्र च ते गुणा ब्रह्मानन्दस्याप्य् उपरिचरतया स्वरूप-शक्तेः परम-वृत्तिताम् एवार्हन्तीति । मायाधिष्ठातृ-पुरुषस् तु तद्-अंशत्वेन, ब्रह्म च तदीय-निर्विशेषाविर्भावत्वेन, तद्-अन्तर्भाव-विवक्षया पृथङ् नोक्ते इति ज्ञेयम् । अतोऽत्र पूर्ववद् एव सम्बन्धि-तत्त्वं निर्धारितम् ॥२ब्॥ (३१)**
+**ata eva māyāṁ ca tad-apāśrayām ity anena tasmin apa apakṛṣṭa āśrayo yasyāḥ | nilīya sthitatvād iti māyāyā na tat-svarūpa-bhūtatvam ity api labhyate | vakṣyate ca—māyā paraity abhimukhe ca vilajjamānā [bhā.pu. 2.7.47] iti | svarūpa-śaktir iyam atraiva vyaktībhaviṣyati anarthopaśamaṁ sākṣād bhakti-yogam adhokṣaje [bhā.pu. 1.7.6] ity anena, ātmārāmāś ca [bhā.pu. 1.7.10] ity anena ca | pūrvatra hi bhakti-yoga-prabhāvaḥ khalv asau māyābhibhāvakatayā svarūpa-śakti-vṛttitvenaiva gamyate | paratra ca te guṇā brahmānandasyāpy uparicaratayā svarūpa-śakteḥ parama-vṛttitām evārhantīti | māyādhiṣṭhātṛ-puruṣas tu tad-aṁśatvena, brahma ca tadīya-nirviśeṣāvirbhāvatvena, tad-antarbhāva-vivakṣayā pṛthaṅ nokte iti jñeyam | ato’tra pūrvavad eva sambandhi-tattvaṁ nirdhāritam ||2b|| (31)**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** पाठान्तरेणापि स एवार्थ इति व्याख्यातुम् आह पूर्वम् इति । ईश्वरस्यैव पूर्व-वर्तित्वात् पुरुषत्वम् इत्य् अर्थः । स एवेति स्वयं भगवान् एव । स्वरूप-शक्तिमत्त्वे प्रमाणम् आह त्वम् इति । श्रुतिश् चात्रास्ति । परास्य शक्तिर् विविधैव श्रूयते स्वाभाविकी ज्ञान-बल-क्रिया च [श्वे।उ। ६.८] इति । एषैव ह्लादिनी सन्धिनीत्य् आदिना स्मर्यते। इत्य् उक्तम् इति कण्ठतः पाठितम् अर्जुनेनेत्य् अर्थः । मायातोऽन्येयं बोध्येत्य् आह अतएवेत्य् आदिना । मूल-वाक्येन स्वरूप-भूता चिच्-छक्तिर् इयं बोधितास्तीय् आह अतएवेत्य् आदिना । पट्ट-महिषीव स्वरूप-शक्तिः, बहिर् द्वार-सेविकेव माया-शक्तिर् इत्य् उभयोर् महद्-अन्तरं बोध्यम् । भगवद्-भक्तेर् भगवद्-गुणानां च स्वरूप-शक्ति-सारांशत्वं सयुक्तिकम् आह पूर्वत्र हीत्यादिना । ब्रह्मानन्दस्येति अनभिव्यक्त-संस्थानादि-विशेषस्येति बोध्यम् । ननु परमात्म-रूपस् तादृश-ब्रह्म-रूपश् चाविर्भावः कुतो व्यासेन न दृष्ट इति चेत् तत्राह मायाधिष्ठात्र् इति ॥२ब्॥ (३१)
+**baladevaḥ :** pāṭhāntareṇāpi sa evārtha iti vyākhyātum āha pūrvam iti | īśvarasyaiva pūrva-vartitvāt puruṣatvam ity arthaḥ | sa eveti svayaṁ bhagavān eva | svarūpa-śaktimattve pramāṇam āha tvam iti | śrutiś cātrāsti | parāsya śaktir vividhaiva śrūyate svābhāvikī jñāna-bala-kriyā ca [śve.u. 6.8] iti | eṣaiva hlādinī sandhinīty ādinā smaryate| ity uktam iti kaṇṭhataḥ pāṭhitam arjunenety arthaḥ | māyāto’nyeyaṁ bodhyety āha ataevety ādinā | mūla-vākyena svarūpa-bhūtā cic-chaktir iyaṁ bodhitāstīy āha ataevety ādinā | paṭṭa-mahiṣīva svarūpa-śaktiḥ, bahir dvāra-sevikeva māyā-śaktir ity ubhayor mahad-antaraṁ bodhyam | bhagavad-bhakter bhagavad-guṇānāṁ ca svarūpa-śakti-sārāṁśatvaṁ sayuktikam āha pūrvatra hītyādinā | brahmānandasyeti anabhivyakta-saṁsthānādi-viśeṣasyeti bodhyam | nanu paramātma-rūpas tādṛśa-brahma-rūpaś cāvirbhāvaḥ kuto vyāsena na dṛṣṭa iti cet tatrāha māyādhiṣṭhātr iti ||2b|| (31)
 
-[२च्]
+[2c]
 
-**अथ प्राक्-प्रतिपादितस्यैवाभेध्यस्य प्रयोजनस्य च स्थापकं जीवस्य स्वरूपत एव परमेश्वराद् वैलक्षण्यम् अपश्यद् इत्य् आह—यया मायया सम्मोहितो जीवः स्वयं चिद्-रूपत्वेन त्रिगुणात्मकाज् जडात् परोऽप्य् आत्मानं त्रिगुणात्मकं जडं देहादि-सङ्घातं मनुते । तन्-मनन-कृतम् अनर्थं संसार-व्यसनं चाभिपद्यते । तद् एवं जीवस्य चिद्-रूपत्वेऽपि यया सम्मोहित इति मनुते इति च स्वरूप-भूत-ज्ञान-शालित्वं व्यनक्ति प्रकाशैक-रूपस्य तेजसः स्वपर-प्रकाशन-शक्तिवत् । अज्ञानेनावृतं ज्ञानं तेन मुह्यन्तिजन्तवः [गीता ५.२५] इति श्री-गीताभ्यः । तद् एवम् उपाधेर् एव जीवत्वं तन्-नाशस्यैव मोक्षत्वम् इति मतान्तरं परिहृतवान् । अत्र यया सम्मोहितः इत्य् अनेन तस्या एव तत्र कर्तृत्वं भगवतस् तत्रोदासीनत्वं मतम् । वक्ष्यते च—**
+**atha prāk-pratipāditasyaivābhedhyasya prayojanasya ca sthāpakaṁ jīvasya svarūpata eva parameśvarād vailakṣaṇyam apaśyad ity āha—yayā māyayā sammohito jīvaḥ svayaṁ cid-rūpatvena triguṇātmakāj jaḍāt paro’py ātmānaṁ triguṇātmakaṁ jaḍaṁ dehādi-saṅghātaṁ manute | tan-manana-kṛtam anarthaṁ saṁsāra-vyasanaṁ cābhipadyate | tad evaṁ jīvasya cid-rūpatve’pi yayā sammohita iti manute iti ca svarūpa-bhūta-jñāna-śālitvaṁ vyanakti prakāśaika-rūpasya tejasaḥ svapara-prakāśana-śaktivat | ajñānenāvṛtaṁ jñānaṁ tena muhyantijantavaḥ [gītā 5.25] iti śrī-gītābhyaḥ | tad evam upādher eva jīvatvaṁ tan-nāśasyaiva mokṣatvam iti matāntaraṁ parihṛtavān | atra yayā sammohitaḥ ity anena tasyā eva tatra kartṛtvaṁ bhagavatas tatrodāsīnatvaṁ matam | vakṣyate ca—**
 
 
-> **विलज्जमानया यस्य स्थातुम् ईक्षा-पथेऽमुया **  
-> **विमोहिता विकत्थन्ते ममाहम् इति दुर्धियः ॥ [भा।पु। २.५.१३] इति ।**
+> **vilajjamānayā yasya sthātum īkṣā-pathe’muyā **  
+> **vimohitā vikatthante mamāham iti durdhiyaḥ || [bhā.pu. 2.5.13] iti |**
 
-**अत्र विलज्जमानया इत्य् अनेनेदम् आयाति, तस्या जीव-सम्म्होहनं कर्म श्री-भगवते न रोचत इति यद्यपि सा स्वयं जानाति, तथापि भयं द्वितीयाभिनिवेशतः स्याद् ईशाद् अपेतस्य [भा।पु। ११.२.३७] इति दिशा जीवानाम् अनादि-भगवद्-अज्ञान-मय-वैमुख्यम् असहमाना स्वरूपावरणम् अस्वरूपावेशं च करोति ॥२च्॥ (३२)**
+**atra vilajjamānayā ity anenedam āyāti, tasyā jīva-sammhohanaṁ karma śrī-bhagavate na rocata iti yadyapi sā svayaṁ jānāti, tathāpi bhayaṁ dvitīyābhiniveśataḥ syād īśād apetasya [bhā.pu. 11.2.37] iti diśā jīvānām anādi-bhagavad-ajñāna-maya-vaimukhyam asahamānā svarūpāvaraṇam asvarūpāveśaṁ ca karoti ||2c|| (32)**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः : **जीवो येन्श्वरं भजेत् भक्त्या च तस्मिन् प्रेमाणं विन्देत् ततो मायया विमुक्तः स्यात् तम् ईश्वराज् जीवस्य वास्तवं भेदम् अपश्यद् इति व्याचष्टे, अथ प्राग् इत्य्-आदिना । जीवस्येति वैलक्षण्यम् इति सेवकत्व-सेव्यत्वाणुत्व-विभुत्व-रूप-नित्य-धर्म-हेतुकं भेदम् इत्य् अर्थः । ननु चिन्-मात्रो जीवः यो विज्ञाने तिष्ठन् [बृ।आ।उ। ३.७.२२], विज्ञानं यज्ञं तनुते [तै।उ।२.५.१] इत्य् आदौ चिद्-धातुत्व-श्रवणात्, न तस्य धर्म-भूतं नित्यं ज्ञानम् अस्ति येन मोह-मनने वर्णनीये । तस्मात् सत्त्वा सञ्जायते ज्ञानं [गीता १४.१७] इत्य्-आदि-वाक्यात्, सत्त्वे या चैतन्यस्य च्छाया, तद् एव सत्त्वोपहितस्य तस्य ज्ञानं येन मोह-मनने व्यासेन दृष्टे स्याताम् इति चेत् तत्राह तद् एवम् इत्य्-आदिना । छायाभावाच् च न तत्-कल्पनं युक्तम् इति भावः । ननु स्वरूप-भूतं ज्ञानं कथम् इति चेत् तत्राह पर्काशैकेति । अहि-कुण्डलाधिकरणे [ब्र।सू। ३.२.२८] भाषितम् एतद् द्रष्टव्यम् । तृतीय-सन्दर्भे विस्तरीष्याम एतत् । तद् एवम् उपाधेर् इति अन्तःकरणं जीवः अन्तः-करण-नाशो जीवस्य मोक्ष इति शङ्कर-मतं दूसितम् । तथा सति परोऽपीत्य् आदि-व्याकोपाद् इति भावः । अत्रेति तत्र जीव-मोहने कर्मणि । तस्या मायायाः। विलज्जेति ब्रह्म-वाक्यम् । अमुया मायया । असहमानेति दास्या उचितम् एतत् कर्म यत् स्वामि-विमुखान् दुःखाकरोतीति । ईश-वैमुख्येन पिहितं जीवं माया पिधत्ते, घटेनावृतं दीपं यथा तम आवृणोतीति ॥२च्॥ (३२)
+**baladevaḥ : **jīvo yenśvaraṁ bhajet bhaktyā ca tasmin premāṇaṁ vindet tato māyayā vimuktaḥ syāt tam īśvarāj jīvasya vāstavaṁ bhedam apaśyad iti vyācaṣṭe, atha prāg ity-ādinā | jīvasyeti vailakṣaṇyam iti sevakatva-sevyatvāṇutva-vibhutva-rūpa-nitya-dharma-hetukaṁ bhedam ity arthaḥ | nanu cin-mātro jīvaḥ yo vijñāne tiṣṭhan [bṛ.ā.u. 3.7.22], vijñānaṁ yajñaṁ tanute [tai.u.2.5.1] ity ādau cid-dhātutva-śravaṇāt, na tasya dharma-bhūtaṁ nityaṁ jñānam asti yena moha-manane varṇanīye | tasmāt sattvā sañjāyate jñānaṁ [gītā 14.17] ity-ādi-vākyāt, sattve yā caitanyasya cchāyā, tad eva sattvopahitasya tasya jñānaṁ yena moha-manane vyāsena dṛṣṭe syātām iti cet tatrāha tad evam ity-ādinā | chāyābhāvāc ca na tat-kalpanaṁ yuktam iti bhāvaḥ | nanu svarūpa-bhūtaṁ jñānaṁ katham iti cet tatrāha parkāśaiketi | ahi-kuṇḍalādhikaraṇe [bra.sū. 3.2.28] bhāṣitam etad draṣṭavyam | tṛtīya-sandarbhe vistarīṣyāma etat | tad evam upādher iti antaḥkaraṇaṁ jīvaḥ antaḥ-karaṇa-nāśo jīvasya mokṣa iti śaṅkara-mataṁ dūsitam | tathā sati paro’pīty ādi-vyākopād iti bhāvaḥ | atreti tatra jīva-mohane karmaṇi | tasyā māyāyāḥ| vilajjeti brahma-vākyam | amuyā māyayā | asahamāneti dāsyā ucitam etat karma yat svāmi-vimukhān duḥkhākarotīti | īśa-vaimukhyena pihitaṁ jīvaṁ māyā pidhatte, ghaṭenāvṛtaṁ dīpaṁ yathā tama āvṛṇotīti ||2c|| (32)
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२द्]
+[2d]
 
-**श्री-भगवांश् चानादित एव भक्तायां प्रपञ्चाधिकारिण्यां तस्यां दाक्षिण्यं लङ्घितुं न शक्नोति । तथा तद्-भयेनापि जीवानां स्व-साम्मुख्यं वाञ्छन्न् उपदिशति— \
+**śrī-bhagavāṁś cānādita eva bhaktāyāṁ prapañcādhikāriṇyāṁ tasyāṁ dākṣiṇyaṁ laṅghituṁ na śaknoti | tathā tad-bhayenāpi jīvānāṁ sva-sāmmukhyaṁ vāñchann upadiśati— \
 **
 
 
-> **दैवी ह्य् एषा गुण-मयी मम माया दुरत्यया ।**  
-> **माम् एव ये प्रपद्यन्ते मायाम् एतां तरन्ति ते ॥  [गीता ७.१४] इति,**  
-> **सतां प्रसङ्गान् मम वीर्य-संविदो**  
-> **भवन्ति हृत्-कर्ण-रसायनाः कथाः ।**  
-> **तज्-जोषणाद् आश्व् अपवर्ग-वर्त्मनि**  
-> **श्रद्धा रतिर् भक्तिर् अनुक्रमिष्यति ॥ [भा।पु। ३.२५.२५] इति च ।**
+> **daivī hy eṣā guṇa-mayī mama māyā duratyayā |**  
+> **mām eva ye prapadyante māyām etāṁ taranti te ||  [gītā 7.14] iti,**  
+> **satāṁ prasaṅgān mama vīrya-saṁvido**  
+> **bhavanti hṛt-karṇa-rasāyanāḥ kathāḥ |**  
+> **taj-joṣaṇād āśv apavarga-vartmani**  
+> **śraddhā ratir bhaktir anukramiṣyati || [bhā.pu. 3.25.25] iti ca |**
 
-**लीलया श्रीमद्-व्यास-रूपेण तु विशिष्टया तद्-उपदिष्टवान् इत्य् अनन्तरम् एवायास्यति । “अनर्थोपशमं साक्षाद्” इति । तस्माद् द्वयोर् अपि तत् तत् समञ्जसं ज्ञेयम् ।**
+**līlayā śrīmad-vyāsa-rūpeṇa tu viśiṣṭayā tad-upadiṣṭavān ity anantaram evāyāsyati | “anarthopaśamaṁ sākṣād” iti | tasmād dvayor api tat tat samañjasaṁ jñeyam |**
 
-**ननु माया खलु शक्तिः । शक्तिश् च कार्य-क्षमत्वम् । तच् च धर्म-विशेषः । तस्याः कथं लज्जादिकम् ? उच्यते—एवं सत्य् अपि भगवति तासां शक्तीनाम् अधिष्ठातृ-देव्यः श्रूयन्ते, यथा केनोपनिषदि महेन्द्र-माययोः संवादः ॥२द्॥ (३३)**
+**nanu māyā khalu śaktiḥ | śaktiś ca kārya-kṣamatvam | tac ca dharma-viśeṣaḥ | tasyāḥ kathaṁ lajjādikam ? ucyate—evaṁ saty api bhagavati tāsāṁ śaktīnām adhiṣṭhātṛ-devyaḥ śrūyante, yathā kenopaniṣadi mahendra-māyayoḥ saṁvādaḥ ||2d|| (33)**
 
-**बलदेवः :** नन्व् ईश्वरः कथं तन् मोहनं सहते । तत्राह भगवांश् चेति । तर्हि कृपालुता-क्सिः । तत्राह तथेति । तद्-भयेनापीति मायातो यज्-जीवानां भयं तेनापि हेतुनेत्य् अर्थः । ततश् च न तत्-क्सतिर् इत्य् अर्थः । दैवीति प्रपत्तिश् चेयं सत्-प्रसङ्ग-हेतुकैव तद्-उपदिष्टा यया साम्मुख्यं स्यात् तद् विद्धि प्रणिपातेन [गीता ४.३४] इत्य्-आदि तद्-वाक्यात् । सतां प्रसङ्गात् इत्य् आद्य्-अग्रिम-वाक्याच् च । लीलयेति लीलावतारेण । विशिष्टतयेति आचार्य-रूपेणेत्य् अर्थः । तस्माद् इति द्वयोर् माया-भगवतोर् अपि । तत् तद् इति । मोहनं साम्मुख्य-वाञ्छा चेत्य् अर्थः । ननु मायाया मोहन-लज्जन-कर्तृत्वम् उक्तं तत् कथं जडायास् तस्याः सम्भवेद् इति शङ्कते—ननु मायेति । धर्म-विशेष उत्साहादिवद् इत्य् अर्थः । सिद्धान्तयति उच्यत इति । अधिष्ठातृ-देव्य इति । विन्ध्यादि-गिरीणां यथाधिष्ठातृ-मूर्तयस् तद्वत् । केनेति तस्यां ब्रह्म ह देवेभ्यो विजिग्ये [केन।उ। ३.१] इत्य्-आदि-वाक्यम् अस्ति । तत्राग्नि-वायु-मघोनः स-गर्वान् वीक्ष्य तद्-गर्वम् अपनेतुं परमात्माविरभूत् । तम् अजानन्तस् ते जिज्ञासयामासुः । तेषां वीर्यं परीक्षमाणः स तृणं निदधौ । सर्वं दहेयम् इत्य् अग्निः । सर्वम् आददीयेति वायुश् च ब्रुवंस् तन्-निर्दग्धुम् आदयेतुं च नाशकत् । ज्ञातुं प्रवृत्तान् मधोनस् तु स तिरोऽधत्त । तद्-आकाशे मघवा हैमवतीम् उमाम् आजगाम । किम् एतद् इति पप्रच्छ । सा च ब्रह्मैतद् इत्य् उवाचेतिनिष्कृष्टम् ॥३३॥
+**baladevaḥ :** nanv īśvaraḥ kathaṁ tan mohanaṁ sahate | tatrāha bhagavāṁś ceti | tarhi kṛpālutā-ksiḥ | tatrāha tatheti | tad-bhayenāpīti māyāto yaj-jīvānāṁ bhayaṁ tenāpi hetunety arthaḥ | tataś ca na tat-ksatir ity arthaḥ | daivīti prapattiś ceyaṁ sat-prasaṅga-hetukaiva tad-upadiṣṭā yayā sāmmukhyaṁ syāt tad viddhi praṇipātena [gītā 4.34] ity-ādi tad-vākyāt | satāṁ prasaṅgāt ity ādy-agrima-vākyāc ca | līlayeti līlāvatāreṇa | viśiṣṭatayeti ācārya-rūpeṇety arthaḥ | tasmād iti dvayor māyā-bhagavator api | tat tad iti | mohanaṁ sāmmukhya-vāñchā cety arthaḥ | nanu māyāyā mohana-lajjana-kartṛtvam uktaṁ tat kathaṁ jaḍāyās tasyāḥ sambhaved iti śaṅkate—nanu māyeti | dharma-viśeṣa utsāhādivad ity arthaḥ | siddhāntayati ucyata iti | adhiṣṭhātṛ-devya iti | vindhyādi-girīṇāṁ yathādhiṣṭhātṛ-mūrtayas tadvat | keneti tasyāṁ brahma ha devebhyo vijigye [kena.u. 3.1] ity-ādi-vākyam asti | tatrāgni-vāyu-maghonaḥ sa-garvān vīkṣya tad-garvam apanetuṁ paramātmāvirabhūt | tam ajānantas te jijñāsayāmāsuḥ | teṣāṁ vīryaṁ parīkṣamāṇaḥ sa tṛṇaṁ nidadhau | sarvaṁ daheyam ity agniḥ | sarvam ādadīyeti vāyuś ca bruvaṁs tan-nirdagdhum ādayetuṁ ca nāśakat | jñātuṁ pravṛttān madhonas tu sa tiro’dhatta | tad-ākāśe maghavā haimavatīm umām ājagāma | kim etad iti papraccha | sā ca brahmaitad ity uvācetiniṣkṛṣṭam ||33||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२ए] 
+[2e] 
 
-**तद् आस्ताम्, प्रस्तुतं प्रस्तूयते । तत्र जीवस्य तादृश-चिद्-रूपत्वेऽपि परमेश्वरतो वैलक्षण्यं “तद्-अपाश्रयम्” इति, “यया सम्मोहित” इति च दर्शयति ॥२ए॥ (३४)**
+**tad āstām, prastutaṁ prastūyate | tatra jīvasya tādṛśa-cid-rūpatve’pi parameśvarato vailakṣaṇyaṁ “tad-apāśrayam” iti, “yayā sammohita” iti ca darśayati ||2e|| (34)**
 
-**बलदेवः :** तत्र जीवस्येति मायां च तद्-अपाश्रयाम् इतीश्वरस्य माया-नियन्तृत्वं यया सम्मोहितो जीव इति जीवस्य माया-नियम्यत्वं च । तेन स्वरूपत ईशाज् जीवस्य भेद-पर्यायं वैलक्षण्यं दृष्टवान् इति प्रस्फुटम् । अपश्यत् इत्य् अनेन कालोऽप्य् आनीतः । तद् एवम् ईश्वर-जीव-माया-कालाख्यानि चत्वारि तत्त्वानि समाधौ श्री-व्यासेन दृष्टानि । तानि नित्यान्य् एव । अथ ह वाव नित्यानि पुरुषः प्रकृतिर् आत्मा कालः इत्य् एवं भाल्लवेय-श्रुतेः । नित्यो नित्यानां चेतनश् चेतनानाम् एको बहूनां यो विदधाति कामान् [क।उ। २.२.१३] इति काठकात् । 
+**baladevaḥ :** tatra jīvasyeti māyāṁ ca tad-apāśrayām itīśvarasya māyā-niyantṛtvaṁ yayā sammohito jīva iti jīvasya māyā-niyamyatvaṁ ca | tena svarūpata īśāj jīvasya bheda-paryāyaṁ vailakṣaṇyaṁ dṛṣṭavān iti prasphuṭam | apaśyat ity anena kālo’py ānītaḥ | tad evam īśvara-jīva-māyā-kālākhyāni catvāri tattvāni samādhau śrī-vyāsena dṛṣṭāni | tāni nityāny eva | atha ha vāva nityāni puruṣaḥ prakṛtir ātmā kālaḥ ity evaṁ bhāllaveya-śruteḥ | nityo nityānāṁ cetanaś cetanānām eko bahūnāṁ yo vidadhāti kāmān [ka.u. 2.2.13] iti kāṭhakāt | 
 
 
-> अजाम् एकां लोहित-शुक्ल-कृष्णां   
-> बह्वीः प्रजाः सृजमानां सरूपाः ।   
-> अजो ह्य् एको जुषमाणोऽनुशेते   
-> जहात्य् एनां भुक्त-भोगाम् अजोऽन्यः ॥ इति श्वेताश्वतराणां [४.५] मन्त्राच् च ।  
-> अविकाराय शुद्धाय नित्याय पर्मात्मने ।  
-> सदैक-रूप-रूपाय विष्णवे सर्व-जिष्णवे ॥ [वि।पु। १.२.१]  
-> प्रधानं पुरुषं चापि प्रविश्यात्मेच्छया हरिः ।  
-> क्षोभयामास सम्प्राप्ते सर्ग-काले व्ययाव्ययौ ॥ [वि।पु। १.२.२९]  
-> अव्यक्तं कारणं यत् तत् प्रधान ऋषि-सत्तमैः ।  
-> प्रोच्यते प्रकृतिः सूक्ष्मा नित्यं सद्-असद्-आत्मकम् ॥ [वि।पु। १.२.१९]  
-> अनादिर् भगवान् कालो नान्तोऽस्य द्विज विद्यते ।  
-> अव्युच्छिन्नास् ततस् त्व् एते सर्ग-स्थित्य्-अन्त-संयमाः ॥ [वि।पु। १.२.२६]
+> ajām ekāṁ lohita-śukla-kṛṣṇāṁ   
+> bahvīḥ prajāḥ sṛjamānāṁ sarūpāḥ |   
+> ajo hy eko juṣamāṇo’nuśete   
+> jahāty enāṁ bhukta-bhogām ajo’nyaḥ || iti śvetāśvatarāṇāṁ [4.5] mantrāc ca |  
+> avikārāya śuddhāya nityāya parmātmane |  
+> sadaika-rūpa-rūpāya viṣṇave sarva-jiṣṇave || [vi.pu. 1.2.1]  
+> pradhānaṁ puruṣaṁ cāpi praviśyātmecchayā hariḥ |  
+> kṣobhayāmāsa samprāpte sarga-kāle vyayāvyayau || [vi.pu. 1.2.29]  
+> avyaktaṁ kāraṇaṁ yat tat pradhāna ṛṣi-sattamaiḥ |  
+> procyate prakṛtiḥ sūkṣmā nityaṁ sad-asad-ātmakam || [vi.pu. 1.2.19]  
+> anādir bhagavān kālo nānto’sya dvija vidyate |  
+> avyucchinnās tatas tv ete sarga-sthity-anta-saṁyamāḥ || [vi.pu. 1.2.26]
 
-इति श्री-वैष्णवाच् च । तेष्व् ईश्वरः शक्तिमान् स्वतन्त्रः जीवादयस् तु तच्-छक्तयोऽस्वतन्त्राः । 
+iti śrī-vaiṣṇavāc ca | teṣv īśvaraḥ śaktimān svatantraḥ jīvādayas tu tac-chaktayo’svatantrāḥ | 
 
 
-> विष्णु-शक्तिः परा प्रोक्ता क्षेत्रज्ञाख्या तथापरा ।  
-> अविद्या-कर्म-संज्ञान्या तृतीया शक्तिर् इष्यते ॥ [वि।पु। ६.७.६१]
+> viṣṇu-śaktiḥ parā proktā kṣetrajñākhyā tathāparā |  
+> avidyā-karma-saṁjñānyā tṛtīyā śaktir iṣyate || [vi.pu. 6.7.61]
 
-इति श्री-वैष्णवात् । स यावद् उर्व्या भरम् ईश्वरेश्वरः स्वकाल-शक्त्या क्षपयंश् चरेद् भुवि [भा।पु। १०.१.२२] इति श्री-भागवताच् च । तत्र विभुविज्ञानम् ईश्वरः, अणु-विज्ञानं जीवः । उभयं नित्य-ज्ञान-गुणकम् । सत्त्वादि-गुण-त्रय-विशिष्टं जडं द्रव्यं माया । गुण-त्रय-शून्यं भूत-वर्तमानादि-व्यवहार-कारणं जडं द्रव्यं तु कालः । कर्माप्य् अनादि विनाशि चास्ति न कर्माविभागाद् इति चेन् नानादित्वात् [वे।सू। २.१.३५] इति सूत्राद् इति वस्तु-स्थितिः श्रुति-स्मृति-सिद्धा वेदितव्या ॥३४॥
+iti śrī-vaiṣṇavāt | sa yāvad urvyā bharam īśvareśvaraḥ svakāla-śaktyā kṣapayaṁś cared bhuvi [bhā.pu. 10.1.22] iti śrī-bhāgavatāc ca | tatra vibhuvijñānam īśvaraḥ, aṇu-vijñānaṁ jīvaḥ | ubhayaṁ nitya-jñāna-guṇakam | sattvādi-guṇa-traya-viśiṣṭaṁ jaḍaṁ dravyaṁ māyā | guṇa-traya-śūnyaṁ bhūta-vartamānādi-vyavahāra-kāraṇaṁ jaḍaṁ dravyaṁ tu kālaḥ | karmāpy anādi vināśi cāsti na karmāvibhāgād iti cen nānāditvāt [ve.sū. 2.1.35] iti sūtrād iti vastu-sthitiḥ śruti-smṛti-siddhā veditavyā ||34||
 
-[२फ़्]
+[2f]
 
-**यर्ह्य् एव यद् एकं चिद्-रूपं ब्रह्म मायाश्रयता-वलितं विद्या-मयं, तर्ह्य् एव तन्-माया-विषयतापन्नम् अविद्या-परिभूतं चेत्य् उक्तम् इति जीवेश्वर-विभागोऽवगतः । ततश् च स्वरूप-सामर्थ्य-वैलक्षण्येन तद् द्वितयं मिथो विलक्षण-स्वरूपम् एवेत्य् आगतम् ॥२फ़्॥ (३५)**
+**yarhy eva yad ekaṁ cid-rūpaṁ brahma māyāśrayatā-valitaṁ vidyā-mayaṁ, tarhy eva tan-māyā-viṣayatāpannam avidyā-paribhūtaṁ cety uktam iti jīveśvara-vibhāgo’vagataḥ | tataś ca svarūpa-sāmarthya-vailakṣaṇyena tad dvitayaṁ mitho vilakṣaṇa-svarūpam evety āgatam ||2f|| (35)**
 
-**सर्व-संवादिनी : **एतद्-व्याख्यान्ते [मू। २] यर्ह्य् एव यद् एकम् इत्य्-आदिकं श्री-परमात्म-सन्दर्भे [§७१] विवरणीयम् ॥२फ़्॥ (३५)
+**sarva-saṁvādinī : **etad-vyākhyānte [mū. 2] yarhy eva yad ekam ity-ādikaṁ śrī-paramātma-sandarbhe [§71] vivaraṇīyam ||2f|| (35)
 
-**बलदेवः :** यत् तु एकम् एवाद्वितीयं [छा।उ। ६.२.१], विज्ञानम् आनन्दं ब्रह्म [बृ।आ।उ। ३.९.२८], नेह नानास्ति किञ्चन [बृ।आ।उ। ४.४.१९] इत्य्-आदि-श्रुतिभ्यो निर्विशेष-चिन्-मात्राद्वैतं ब्रह्म वास्तव्यम् । अथ सद्-असद्-विलक्षणत्वाद् अनिर्वचनीयेन विद्याविद्या-वृत्तिकेनाज्ञानेन सम्बन्धात् तस्माद् विद्योपहितम् ईश्वर-चैतन्यम् अविद्योपहितं जीव-चैतन्यं चाभूत् । स्वरूप-ज्ञानेन निवृत्ते त्व् अज्ञाने न तत्रेश्वर-जीव-भावः, किन्तु निर्विशेषाद्वितीय-चिन्मात्र-रूपावस्थितिर् भवेद् इत्य् आह—मायी शङ्करः । तत्राह—यर्ह्य् एव यद् एकम् इति विस्फुटार्थम् । इत्य् उक्तम् इति—युगपद् एवाकस्माद् एवाज्ञान-योगाद् एकस्य भागस्य विद्याश्रयत्वम् अन्यस्याविद्या-पराभूतिर् इति । 
+**baladevaḥ :** yat tu ekam evādvitīyaṁ [chā.u. 6.2.1], vijñānam ānandaṁ brahma [bṛ.ā.u. 3.9.28], neha nānāsti kiñcana [bṛ.ā.u. 4.4.19] ity-ādi-śrutibhyo nirviśeṣa-cin-mātrādvaitaṁ brahma vāstavyam | atha sad-asad-vilakṣaṇatvād anirvacanīyena vidyāvidyā-vṛttikenājñānena sambandhāt tasmād vidyopahitam īśvara-caitanyam avidyopahitaṁ jīva-caitanyaṁ cābhūt | svarūpa-jñānena nivṛtte tv ajñāne na tatreśvara-jīva-bhāvaḥ, kintu nirviśeṣādvitīya-cinmātra-rūpāvasthitir bhaved ity āha—māyī śaṅkaraḥ | tatrāha—yarhy eva yad ekam iti visphuṭārtham | ity uktam iti—yugapad evākasmād evājñāna-yogād ekasya bhāgasya vidyāśrayatvam anyasyāvidyā-parābhūtir iti | 
 
-किम् अपराद्धं तेन ब्रह्मणा, येन विविध-विक्षेप-क्लेशानुभवभाजनताभूत्? पुनर् अप्य् आकस्मिकाज्ञान-सम्बन्धस्याशक्यत्वाद् वक्तुम् इति न तद् उक्त-रीत्या तद्-विभागो वाच्यः किन्तु श्री-व्यास-दृष्ट-रीत्यैव सोऽस्माभिर् अवगत इत्य् अर्थः ॥२फ़्॥ (३५)
+kim aparāddhaṁ tena brahmaṇā, yena vividha-vikṣepa-kleśānubhavabhājanatābhūt? punar apy ākasmikājñāna-sambandhasyāśakyatvād vaktum iti na tad ukta-rītyā tad-vibhāgo vācyaḥ kintu śrī-vyāsa-dṛṣṭa-rītyaiva so’smābhir avagata ity arthaḥ ||2f|| (35)
 
-[२ग्]
+[2g]
 
-**न चोपाधि-तारतम्यमय-परिच्छेद-प्रतिबिम्बत्वादि-व्यवस्थया तयोर् विभागः स्यात् ॥२ग्॥ (३६)**
+**na copādhi-tāratamyamaya-pariccheda-pratibimbatvādi-vyavasthayā tayor vibhāgaḥ syāt ||2g|| (36)**
 
-**बलदेवः :** यत् तु इन्द्रो मायाभिः पुरु-रूप ईयते [ऋ।वे। ६.४७.१८, बृ।आ।उ। २.५.१९] इत्य्-आदि-श्रुतेस् तस्याद्वितीयस्य ब्रह्मणो मायया परिच्छेदाद् ईश्वर-जीव-विभागः स्यात् । तत्र विद्यया परिच्छिन्नो महान् खण्ड ईश्वरः । अविद्यया परिच्छिन्नः कनीयान् खण्डस् तु जीवः । यथा घटेनावच्छिन्नः शरावेणावच्छिन्नश् चाकाश-खण्डो महद्-अल्पता-व्यपदेशं भजति ।
+**baladevaḥ :** yat tu indro māyābhiḥ puru-rūpa īyate [ṛ.ve. 6.47.18, bṛ.ā.u. 2.5.19] ity-ādi-śrutes tasyādvitīyasya brahmaṇo māyayā paricchedād īśvara-jīva-vibhāgaḥ syāt | tatra vidyayā paricchinno mahān khaṇḍa īśvaraḥ | avidyayā paricchinnaḥ kanīyān khaṇḍas tu jīvaḥ | yathā ghaṭenāvacchinnaḥ śarāveṇāvacchinnaś cākāśa-khaṇḍo mahad-alpatā-vyapadeśaṁ bhajati |
 
 
-> यथा ह्य् अयं ज्योतिर् आत्मा विवस्वान्  
-> अपो भित्त्वा बहुधैकोऽनुगच्छन् ।  
-> उपाधिना क्रियते भेद-रूपो  
-> देवः क्षेत्रेष्व् एवम् अजोऽयम् आत्मा ॥ [श्रुति?] 
+> yathā hy ayaṁ jyotir ātmā vivasvān  
+> apo bhittvā bahudhaiko’nugacchan |  
+> upādhinā kriyate bheda-rūpo  
+> devaḥ kṣetreṣv evam ajo’yam ātmā || [śruti?] 
 
-इत्य्-आदिषु ब्रह्मणस् तस्य प्रतिबिम्ब-श्रवणात् तद्-विभागः स्यात् । विद्यायां प्रतिबिम्ब ईश्वरः । अविद्यायां प्रतिबिम्बस् तु जीवः । यथा सरसि रवेः प्रतिबिम्बः यथा च घटे प्रतिबिम्बो महद्-अल्पत्व-व्यपदेशं भजते तद्वद् इत्य् आह शङ्करः । तद् इदं निरसनाय दर्शयति न चेति । अनया रीत्या तयोर् विभागो न च स्याद् इत्य् अन्वयः ॥३६॥
+ity-ādiṣu brahmaṇas tasya pratibimba-śravaṇāt tad-vibhāgaḥ syāt | vidyāyāṁ pratibimba īśvaraḥ | avidyāyāṁ pratibimbas tu jīvaḥ | yathā sarasi raveḥ pratibimbaḥ yathā ca ghaṭe pratibimbo mahad-alpatva-vyapadeśaṁ bhajate tadvad ity āha śaṅkaraḥ | tad idaṁ nirasanāya darśayati na ceti | anayā rītyā tayor vibhāgo na ca syād ity anvayaḥ ||36||
 
-[२ह्]
+[2h]
 
-**तत्र यद्य् उपाधेर् अनाविद्यकत्वेन वास्तवत्वं तर्ह्य् अविषयस्य तस्य परिच्छेद-विषयत्वासम्भवः । निर्धर्मकस्य व्यापकस्य निरवयवस्य च प्रतिबिम्बत्वायोगोऽपि, उपाधि-सम्बन्धाभावात् बिम्ब-प्रतिबिम्ब-भेदाभावात्, दृश्यत्वाभावाच् च । उपाधि-परिच्छिन्नाकाशस्थ-ज्योतिर्-अंशस्यैव प्रतिबिम्बो दृश्यते, न त्व् आकाशस्य दृश्यत्वाभावाद् एव ॥२ह्॥ (३७)**
+**tatra yady upādher anāvidyakatvena vāstavatvaṁ tarhy aviṣayasya tasya pariccheda-viṣayatvāsambhavaḥ | nirdharmakasya vyāpakasya niravayavasya ca pratibimbatvāyogo’pi, upādhi-sambandhābhāvāt bimba-pratibimba-bhedābhāvāt, dṛśyatvābhāvāc ca | upādhi-paricchinnākāśastha-jyotir-aṁśasyaiva pratibimbo dṛśyate, na tv ākāśasya dṛśyatvābhāvād eva ||2h|| (37)**
 
-**बलदेवः :** कुतो न वाच्य इति तद्-अनुपपत्तेर् एवेत्य् आह तत्र यद्य् उपाधेर् इति । परिच्छेद-पक्षं निराकरोति अनाविद्यकत्वेन रज्जु-भुजङ्गवद्-अज्ञान-रचितत्वाभावेन वस्तु-भूतत्वे सतीत्य् अर्थः । अविषयस्येति अगृह्यो न हि गृह्यते इति [बृ।आ।उ। ३.९.२६] श्रुतेः सर्वास्पृश्यस्य तस्य ब्रह्मण इत्य् अर्थः । इदम् अत्र बोध्यम्—न च टङ्क-च्छिन्न-पाषाण-खण्डवद्-वास्तवोपाधि-च्छिन्नो ब्रह्म-खण्ड-विशेष ईश्वरो जीवश् च । ब्रह्मणोऽच्छेद्यत्वाद् अखण्डत्वाभ्युपगमाच् च । आदिमत्त्वापत्तैश् चेश्वर-जीवयोः । यत एकस्य द्विधा त्रिधा विधानं छेदः । नाप्य् अच्छिन्न एवोपाधि-संयुक्तो ब्रह्म-प्रदेश-विशेष एव स सः । उपाधौ चलत्य् उपाधि-संयुक्ति-ब्रह्म-प्रदेश-चलनायोगात् प्रतिक्षणम् उपाधि-संयुक्त-ब्रह्म-प्रदेश-भेदाद् अनुक्षणम् उपहितत्वानुपहितत्वापत्तेः । न च कृत्स्नं ब्रह्मैवोपहितं स सः । अनुपहित-ब्रह्म-व्यपदेशासिद्धेः । नापि ब्रह्माधिष्ठानम् । उपाधिर् एव स सः ।मुक्तावीश-जीवाभावापत्तेर् इति तुच्छः परिच्छेद-वादः ।
+**baladevaḥ :** kuto na vācya iti tad-anupapatter evety āha tatra yady upādher iti | pariccheda-pakṣaṁ nirākaroti anāvidyakatvena rajju-bhujaṅgavad-ajñāna-racitatvābhāvena vastu-bhūtatve satīty arthaḥ | aviṣayasyeti agṛhyo na hi gṛhyate iti [bṛ.ā.u. 3.9.26] śruteḥ sarvāspṛśyasya tasya brahmaṇa ity arthaḥ | idam atra bodhyam—na ca ṭaṅka-cchinna-pāṣāṇa-khaṇḍavad-vāstavopādhi-cchinno brahma-khaṇḍa-viśeṣa īśvaro jīvaś ca | brahmaṇo’cchedyatvād akhaṇḍatvābhyupagamāc ca | ādimattvāpattaiś ceśvara-jīvayoḥ | yata ekasya dvidhā tridhā vidhānaṁ chedaḥ | nāpy acchinna evopādhi-saṁyukto brahma-pradeśa-viśeṣa eva sa saḥ | upādhau calaty upādhi-saṁyukti-brahma-pradeśa-calanāyogāt pratikṣaṇam upādhi-saṁyukta-brahma-pradeśa-bhedād anukṣaṇam upahitatvānupahitatvāpatteḥ | na ca kṛtsnaṁ brahmaivopahitaṁ sa saḥ | anupahita-brahma-vyapadeśāsiddheḥ | nāpi brahmādhiṣṭhānam | upādhir eva sa saḥ |muktāvīśa-jīvābhāvāpatter iti tucchaḥ pariccheda-vādaḥ |
 
-अथ प्रतिबिम्ब-पक्षं निराकरोति निर्धर्मकस्येत्य् आदिना । निर्धर्मकस्योपादि-सम्बन्धाभावात् । व्यापकस्य बिम्ब-प्रतिबिम्ब-भेदाभावात् । निरवयवस्य दृश्यत्वाभावाच् च ब्रह्मणङ् प्रतिबिम्ब ईश्वरो जीवश् च नेत्य् अर्थः । रूपादि-धर्म-विशिष्टस्य परिच्छिन्नस्य सावयवस्य च सूर्यादेस् तद्-विदूरे जलाद्य्-उपाधौ प्रतिबिम्बो दृष्टः तद्-विलक्षणस्य ब्रह्मणः स न शक्यो वक्तुम् इत्य् अर्थः । नन्व् आकाशस्य तादृशस्यापि प्रतिबिम्ब-दर्शनाद् ब्रह्मणः स भविष्यतीति चेत् तत्राह उपाधीति ग्रह-नक्षत्र-प्रभा-मण्डलस्येत्य् अर्थः । अन्यथा वायुकाल-दिशाम् अपि स दर्शनीयः । यत् तु ध्वनेः पर्तिध्वनिर् इव ब्रह्मणः प्रतिबिम्बः स्याद् इत्य् आह तन् न चारु । अर्थान्तरत्वाद् इति प्रतिबिम्ब-वादोऽप्य् अतितुच्छः ॥३७॥
+atha pratibimba-pakṣaṁ nirākaroti nirdharmakasyety ādinā | nirdharmakasyopādi-sambandhābhāvāt | vyāpakasya bimba-pratibimba-bhedābhāvāt | niravayavasya dṛśyatvābhāvāc ca brahmaṇaṅ pratibimba īśvaro jīvaś ca nety arthaḥ | rūpādi-dharma-viśiṣṭasya paricchinnasya sāvayavasya ca sūryādes tad-vidūre jalādy-upādhau pratibimbo dṛṣṭaḥ tad-vilakṣaṇasya brahmaṇaḥ sa na śakyo vaktum ity arthaḥ | nanv ākāśasya tādṛśasyāpi pratibimba-darśanād brahmaṇaḥ sa bhaviṣyatīti cet tatrāha upādhīti graha-nakṣatra-prabhā-maṇḍalasyety arthaḥ | anyathā vāyukāla-diśām api sa darśanīyaḥ | yat tu dhvaneḥ partidhvanir iva brahmaṇaḥ pratibimbaḥ syād ity āha tan na cāru | arthāntaratvād iti pratibimba-vādo’py atitucchaḥ ||37||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२इ]
+[2i]
 
-**तथा वास्तव-परिच्छेदादौ सति सामानाधिकरण्य-ज्ञान-मात्रेण न तत्-त्यागश् च भवेत्। तत्-पदार्थ-प्रभावस् तत्र कारणम् इति चेद् अस्माकम् एव मतं सम्मतम् ॥३८॥ **
+**tathā vāstava-paricchedādau sati sāmānādhikaraṇya-jñāna-mātreṇa na tat-tyāgaś ca bhavet| tat-padārtha-prabhāvas tatra kāraṇam iti ced asmākam eva mataṁ sammatam ||38|| **
 
-**बलदेवः :** ब्रह्मैवाहम् इति ज्ञान-मात्रेण तद्-रूपावस्थितिः स्याद् इति यद्-अभिमतं तत् खलूपाधेर् वास्तवत्व-पक्षे न सम्भवतीत्य् आह तथा वास्तवेति । आदिना प्रतिबिम्बो ग्राह्यः । न खलु निगडितः कश्चिद् दीनो राजैवाहम् इति ज्ञान-मात्राद् राजा भवन् दृष्ट इति भावः । ननु ब्रह्मानुसन्धि-सामर्थ्याद् भवेद् इति चेत् तत्राह तत्-पदार्थेति । तथा च त्वन्-मत-क्षतिर् इति ॥३८॥
+**baladevaḥ :** brahmaivāham iti jñāna-mātreṇa tad-rūpāvasthitiḥ syād iti yad-abhimataṁ tat khalūpādher vāstavatva-pakṣe na sambhavatīty āha tathā vāstaveti | ādinā pratibimbo grāhyaḥ | na khalu nigaḍitaḥ kaścid dīno rājaivāham iti jñāna-mātrād rājā bhavan dṛṣṭa iti bhāvaḥ | nanu brahmānusandhi-sāmarthyād bhaved iti cet tatrāha tat-padārtheti | tathā ca tvan-mata-kṣatir iti ||38||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२ज्]
+[2j]
 
-**उपाधेर् आविद्यकत्वे तु तत्र तत्-परिच्छिन्नत्वादेर् अप्य् अघटमानत्वाद् आविद्यकत्वम् एवेति घटाकाशादिषु वास्तवोपाधिमय-तद्-दर्शनया न तेषाम् अवास्तव-स्वप्न-दृष्टान्तोपजीविनां सिद्धान्तः सिध्यति, घटमानाघटमानयोः सङ्गतेः कर्तुम् अशक्यत्वात् । ततश् च तेषां तत् तत् सर्वम् अविद्याविलसितम् एवेति स्वरूपम् अप्राप्तेन तेन तेन तत् तद् व्यवस्थापयितुम् अशक्यम् ॥२ज्॥ (३९)**
+**upādher āvidyakatve tu tatra tat-paricchinnatvāder apy aghaṭamānatvād āvidyakatvam eveti ghaṭākāśādiṣu vāstavopādhimaya-tad-darśanayā na teṣām avāstava-svapna-dṛṣṭāntopajīvināṁ siddhāntaḥ sidhyati, ghaṭamānāghaṭamānayoḥ saṅgateḥ kartum aśakyatvāt | tataś ca teṣāṁ tat tat sarvam avidyāvilasitam eveti svarūpam aprāptena tena tena tat tad vyavasthāpayitum aśakyam ||2j|| (39)**
 
-**बलदेवः :** अथोपाधेर् आविद्यकत्व-पक्षे परिच्छेदादि-वाद-द्वयं निराकरोति उपाधेर् इति । आविद्यकत्वे रज्जु-भुजङ्गादिवन् मिथ्यात्वे सतीत्य् अर्थः । तत्रोपाधि-परिच्छिन्नत्व-तत्-प्रतिबिम्बत्वयोर् अप्य् अनुपपद्यमानत्वान् मिथ्यात्वम् एवेति हेतोः । घटाकाशादिष् घट-परिच्छिन्नाकाशे घटाम्बु-प्रतिबिम्बाकाशे च वास्तवोओपाधिमय-तद्-उभय-दृष्टान्त-दर्शनया तेषां चिन्मात्राद्वैत्नाम् एकजीववाद-परिनिष्ठत्वाद् अवास्तव-स्वप्न-दृष्टान्तोपजीविनां सिद्धान्तो न सिध्यति । 
+**baladevaḥ :** athopādher āvidyakatva-pakṣe paricchedādi-vāda-dvayaṁ nirākaroti upādher iti | āvidyakatve rajju-bhujaṅgādivan mithyātve satīty arthaḥ | tatropādhi-paricchinnatva-tat-pratibimbatvayor apy anupapadyamānatvān mithyātvam eveti hetoḥ | ghaṭākāśādiṣ ghaṭa-paricchinnākāśe ghaṭāmbu-pratibimbākāśe ca vāstavoopādhimaya-tad-ubhaya-dṛṣṭānta-darśanayā teṣāṁ cinmātrādvaitnām ekajīvavāda-pariniṣṭhatvād avāstava-svapna-dṛṣṭāntopajīvināṁ siddhānto na sidhyati | 
 
-उपाधेर् मिथ्यात्वे तेन परिच्छेदःप्रतिबिम्बश् च ब्रह्मणो मिथैव स्यात् । अतो मिथ्योपाधि-दृष्टान्तत्वेन सत्य-घट-घटाम्बुनोः प्रदर्शनम् असमञ्जसम् एव । घट-घटाम्बु-दृष्टान्त-प्रदर्शनं घटमानम्, विद्याविधा-वृत्ति-रूप-दार्ष्टान्तिक-प्रदर्शनं स्व-घट-मानम् । तयोः सङ्गतिः सादृश्य-विलक्षणा कर्तुम् अशक्यैव सादृश्याभावात् । ततश् चेति तत् तत् सर्वं परिच्छेद-प्रतिबिम्ब-कल्पनम् अविद्याविलसितम् अज्ञान-विजृम्भितम् एव । इति एवम्-उक्त-रीत्या । स्वरूपम् अप्राप्तेन असिद्धेन । तेन परिच्छेदवादेन । तेन प्रतिबिम्बवादेन च । तत्-तद्-व्यवस्थापयितुं प्रतिपादयितुम् अशक्यम् । ततश् च हन्तृ-हत-न्यायेन व्यास-दृष्ट-प्रकारकस् तद्-विभागो ध्रुवः ॥३९॥
+upādher mithyātve tena paricchedaḥpratibimbaś ca brahmaṇo mithaiva syāt | ato mithyopādhi-dṛṣṭāntatvena satya-ghaṭa-ghaṭāmbunoḥ pradarśanam asamañjasam eva | ghaṭa-ghaṭāmbu-dṛṣṭānta-pradarśanaṁ ghaṭamānam, vidyāvidhā-vṛtti-rūpa-dārṣṭāntika-pradarśanaṁ sva-ghaṭa-mānam | tayoḥ saṅgatiḥ sādṛśya-vilakṣaṇā kartum aśakyaiva sādṛśyābhāvāt | tataś ceti tat tat sarvaṁ pariccheda-pratibimba-kalpanam avidyāvilasitam ajñāna-vijṛmbhitam eva | iti evam-ukta-rītyā | svarūpam aprāptena asiddhena | tena paricchedavādena | tena pratibimbavādena ca | tat-tad-vyavasthāpayituṁ pratipādayitum aśakyam | tataś ca hantṛ-hata-nyāyena vyāsa-dṛṣṭa-prakārakas tad-vibhāgo dhruvaḥ ||39||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२क्]
+[2k]
 
-**इति ब्रह्माविद्ययोः पर्यवसाने सति यद् एव ब्रह्म चिन्-मात्रत्वेनाविद्या-योगस्य अत्यन्ताभावास्पदत्वाच् छुद्धं, तद् एव तद्-योगाद् अशुद्ध्या जीवः । पुनस् तद् एव जीवाविद्या-कल्पित-मायाश्रयत्वाद् ईश्वरः, तद् एव च तन्-माया-विषयत्वाज् जीव इति विरोधस् तद्-अवस्थ एव स्यात् । तत्र च शुद्धायां चित्य् अविद्या । तदविद्या-कल्पितोपाधौ तस्याम् ईश्वराख्यायां विद्येति, तथा विद्यावत्त्वेऽपि मायिकत्वम् इत्य् असमञ्जसा च कल्पना स्याद् इत्य्-आद्य् अनुसन्धेयम् ॥२क्॥ (४०)**
+**iti brahmāvidyayoḥ paryavasāne sati yad eva brahma cin-mātratvenāvidyā-yogasya atyantābhāvāspadatvāc chuddhaṁ, tad eva tad-yogād aśuddhyā jīvaḥ | punas tad eva jīvāvidyā-kalpita-māyāśrayatvād īśvaraḥ, tad eva ca tan-māyā-viṣayatvāj jīva iti virodhas tad-avastha eva syāt | tatra ca śuddhāyāṁ city avidyā | tadavidyā-kalpitopādhau tasyām īśvarākhyāyāṁ vidyeti, tathā vidyāvattve’pi māyikatvam ity asamañjasā ca kalpanā syād ity-ādy anusandheyam ||2k|| (40)**
 
-**बलदेवः :** ननु परिच्छेदादि-वाद-द्वये नास्माकं तात्पर्यं तस्याज्ञ-बोधनाय कल्पितत्वात् । किन्त्व् एक-जीव-वाद एव तद् अस्ति । 
+**baladevaḥ :** nanu paricchedādi-vāda-dvaye nāsmākaṁ tātparyaṁ tasyājña-bodhanāya kalpitatvāt | kintv eka-jīva-vāda eva tad asti | 
 
 
-> स एव माया परिमोहितात्मा   
-> शरीरम् आस्थाय करोति सर्वम् ।  
-> स्त्रियन्न-पानादि-विचित्र-भोगैः   
-> स एव जाग्रत् परितुष्टिम् एति ॥ [कैवल्य।उ। १२] 
+> sa eva māyā parimohitātmā   
+> śarīram āsthāya karoti sarvam |  
+> striyanna-pānādi-vicitra-bhogaiḥ   
+> sa eva jāgrat parituṣṭim eti || [kaivalya.u. 12] 
 
-इत्य्-आदि-कैवल्योपनिषदि तस्यैवोपपादितत्वात् । तद्-वादश् चेत्थम् एकम् एवाद्वितीयम् इत्य् आद्य् उक्त-श्रुतिभ्योऽद्वितीय-चिन्-मात्रो ह्य् आत्मा । स चात्मन्य् अविद्यया गुणमयीं मायां तद्-वैषम्यजां कार्य-संहितं च कल्पन्यन्न् अस्मद्-अर्थम् एकं युष्मद्-अर्थांश् च बहून् कल्पयति । तत्रास्मद्-अर्थः स्व-स्वरूपः पुरुषः । युष्मद्-अर्थश् च महद्-आदीनि भूम्य्-अन्तानि जडानि । स्व-तुल्यानि पुरुषान्तराणि, सवश्वराख्यः पुरुष-विशेषश् चेत्य् एवं त्रिविधः । जीवेशाव् आभासेन करोति माया चाविद्या च स्वयम् एव भवति [नृ।ता।उ। २.९] इति श्रुत्य्-अन्तराच् च । गुण-योगाद् एव कर्तृत्व-भोक्तृत्वे तत्रात्मन्य् अध्यस्ते । यथा स्वप्ने कश्चिद् राजधानीं राजानं तत्-प्रजाश् च कल्पयति, तन्-नियम्यम् आत्मानं च मन्यते, तद्वत् । जाते च ज्ञाने, जागरे च सति, ततोऽन्यन् न किञ्चिद् अस्तीति चिन्मात्रम् एकम् आत्म-स्वस्त्व् इति ।
+ity-ādi-kaivalyopaniṣadi tasyaivopapāditatvāt | tad-vādaś cettham ekam evādvitīyam ity ādy ukta-śrutibhyo’dvitīya-cin-mātro hy ātmā | sa cātmany avidyayā guṇamayīṁ māyāṁ tad-vaiṣamyajāṁ kārya-saṁhitaṁ ca kalpanyann asmad-artham ekaṁ yuṣmad-arthāṁś ca bahūn kalpayati | tatrāsmad-arthaḥ sva-svarūpaḥ puruṣaḥ | yuṣmad-arthaś ca mahad-ādīni bhūmy-antāni jaḍāni | sva-tulyāni puruṣāntarāṇi, savaśvarākhyaḥ puruṣa-viśeṣaś cety evaṁ trividhaḥ | jīveśāv ābhāsena karoti māyā cāvidyā ca svayam eva bhavati [nṛ.tā.u. 2.9] iti śruty-antarāc ca | guṇa-yogād eva kartṛtva-bhoktṛtve tatrātmany adhyaste | yathā svapne kaścid rājadhānīṁ rājānaṁ tat-prajāś ca kalpayati, tan-niyamyam ātmānaṁ ca manyate, tadvat | jāte ca jñāne, jāgare ca sati, tato’nyan na kiñcid astīti cinmātram ekam ātma-svastv iti |
 
-तम् इमं वादं निराकर्तुम् आह इति ब्रह्मेति । इति एवं पूर्वोक्त-रीत्या परिच्छेदादि-वाद-द्वयस्य प्रत्याख्याने जाते, ब्रह्म चाविद्या चेति द्वयोः पर्यवसाने सतीत्य् अर्थः । अत्यन्ताभावास्पदत्वाद् इति अगृह्यो न हि गृह्यते [बृ।आ।उ। ३.९.२६] इत्य्-आदि श्रुतेर् एवेत्य् अर्थः । विरोधस् तद्-अवस्थ इति वोरोधत्वाद् एवाशक्य-व्यवस्थापन इत्य् अर्थः । तव च शुद्धायाम् इति शुद्धे ब्रह्मण्य् अकस्माद् अविद्या-सम्बन्धस् तत्-सम्बन्धात् तस्य जीवत्वम् । तेन जीवेन कल्पिताया मायाया आश्रयो भूत्वा तद् ब्रह्मैवेश्वरः । तस्येश्वरस्य मायया परिभूतं ब्रह्मैव तज्-जीवः । इत्य्-आदि विप्रलापोऽयम् अविदुषाम् एव, न तु विदुषाम् इति भावः । मायिकत्वं प्रतारकत्वम् इत्य् अर्थः । स एव माया इति श्रुतिस् तु ब्रह्मायत्त-वृत्तिकत्व-ब्रह्म-व्याप्यत्वाभ्यां ब्रह्मणोऽनतिरिक्तो जीव इत्य् एव निवेदयन्ती गतार्था । जीवेशौ इति श्रुतिस् तु माया-विमोहित-तार्किकादि-परिकल्पित-जीवेश-परतया गत्âर्थेति न किञ्चिद् अनुपपन्नम् ॥२क्॥(४०)
+tam imaṁ vādaṁ nirākartum āha iti brahmeti | iti evaṁ pūrvokta-rītyā paricchedādi-vāda-dvayasya pratyākhyāne jāte, brahma cāvidyā ceti dvayoḥ paryavasāne satīty arthaḥ | atyantābhāvāspadatvād iti agṛhyo na hi gṛhyate [bṛ.ā.u. 3.9.26] ity-ādi śruter evety arthaḥ | virodhas tad-avastha iti vorodhatvād evāśakya-vyavasthāpana ity arthaḥ | tava ca śuddhāyām iti śuddhe brahmaṇy akasmād avidyā-sambandhas tat-sambandhāt tasya jīvatvam | tena jīvena kalpitāyā māyāyā āśrayo bhūtvā tad brahmaiveśvaraḥ | tasyeśvarasya māyayā paribhūtaṁ brahmaiva taj-jīvaḥ | ity-ādi vipralāpo’yam aviduṣām eva, na tu viduṣām iti bhāvaḥ | māyikatvaṁ pratārakatvam ity arthaḥ | sa eva māyā iti śrutis tu brahmāyatta-vṛttikatva-brahma-vyāpyatvābhyāṁ brahmaṇo’natirikto jīva ity eva nivedayantī gatārthā | jīveśau iti śrutis tu māyā-vimohita-tārkikādi-parikalpita-jīveśa-paratayā gatârtheti na kiñcid anupapannam ||2k||(40)
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२ल्]
+[2l]
 
-**किं च, यद्य् अत्राभेद एव तात्पर्यम् अभविष्यत्, तर्ह्य् एकम् एव ब्रह्माज्ञानेन भिन्नम्, ज्ञानेन तु तस्य भेद-मयं दुःखं विलीयत इत्य् “अपश्यद्” इत्य् एवावक्ष्यत् । तथा श्री-भगवल्-लीलादीनां वास्तवत्वाभावे सति श्री-शुक-हृदय-विरोधश् च जायते ॥२ल्॥ (४१)**
+**kiṁ ca, yady atrābheda eva tātparyam abhaviṣyat, tarhy ekam eva brahmājñānena bhinnam, jñānena tu tasya bheda-mayaṁ duḥkhaṁ vilīyata ity “apaśyad” ity evāvakṣyat | tathā śrī-bhagaval-līlādīnāṁ vāstavatvābhāve sati śrī-śuka-hṛdaya-virodhaś ca jāyate ||2l|| (41)**
 
-**सर्व-संवादिनी : **अत्र श्री-शुक-हृदय-विरोधश् चैवम्—यदि भगवतोऽप्य् अविद्या-मयम् एव वैभवं स्यात् तदा श्री-शुकस्य तल्-लीलाकृष्टत्वं न स्याद् इति मूले चैवम् अग्रतो श्री-भगवत्-सन्दर्भे [८४] सुष्ठु विचारयिष्यति ॥२ल्॥ (४१) 
+**sarva-saṁvādinī : **atra śrī-śuka-hṛdaya-virodhaś caivam—yadi bhagavato'py avidyā-mayam eva vaibhavaṁ syāt tadā śrī-śukasya tal-līlākṛṣṭatvaṁ na syād iti mūle caivam agrato śrī-bhagavat-sandarbhe [84] suṣṭhu vicārayiṣyati ||2l|| (41) 
 
-**बलदेवः :** अनुपपत्त्य्-अन्तरम् आह किं चेति । अत्र श्री-भागवते शास्त्रे । इत्य् एवेति पूर्णः पुरुषः कश्चिद् अस्ति तद्-आश्रितया मायया जीवो विमोहितोऽनर्थं भजति । तद्-अनर्थोपशमनी च पूर्णस्य तस्य भक्तिः इत्य् अपश्यत् । इत्य् एवं नावक्ष्यद् इत्य् अर्थः ॥४१॥
+**baladevaḥ :** anupapatty-antaram āha kiṁ ceti | atra śrī-bhāgavate śāstre | ity eveti pūrṇaḥ puruṣaḥ kaścid asti tad-āśritayā māyayā jīvo vimohito’narthaṁ bhajati | tad-anarthopaśamanī ca pūrṇasya tasya bhaktiḥ ity apaśyat | ity evaṁ nāvakṣyad ity arthaḥ ||41||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२म्]
+[2m]
 
-**तस्मात् परिच्छेद-प्रतिबिम्बत्वादि-प्रतिपादक-शास्त्राण्य् अपि कथञ्चित् तत्-सादृश्येन गौण्यैव वृत्त्या प्रवर्तेरन् । अम्बुवद् अग्रहणात् तु न तथात्वं [वे।सू। ३.२.१९], वृद्धि-ह्रास-भाक्त्वम् अन्तर्-भावाद् उभय-सामञ्जस्योदेवं [वे।सू। ३.२.२०] इति पूर्वोत्तर-पक्ष-मय-न्यायाभ्याम् ॥२म्॥ (४२)**
+**tasmāt pariccheda-pratibimbatvādi-pratipādaka-śāstrāṇy api kathañcit tat-sādṛśyena gauṇyaiva vṛttyā pravarteran | ambuvad agrahaṇāt tu na tathātvaṁ [ve.sū. 3.2.19], vṛddhi-hrāsa-bhāktvam antar-bhāvād ubhaya-sāmañjasyodevaṁ [ve.sū. 3.2.20] iti pūrvottara-pakṣa-maya-nyāyābhyām ||2m|| (42)**
 
-**बलदेवः :** तस्माद् इति । तत्-सादृश्येन परिच्छिन्न-प्रतिबिम्ब-तुल्यत्वेनेत्य् अर्थः । सिंहो देवदत्तः इत्य् अत्र यथा गौण्या वृत्त्या सिंह-तुल्यत्वं देवदत्तस्योच्यते, न तु सिंहत्वं तद्वद् इत्य् अर्थः । नन्व् एवं केन निर्णीतम् इति चेत् । सूत्रकृता श्री-व्यासेनैवेति तत् सूत्र-द्वयं दर्शयति ।
+**baladevaḥ :** tasmād iti | tat-sādṛśyena paricchinna-pratibimba-tulyatvenety arthaḥ | siṁho devadattaḥ ity atra yathā gauṇyā vṛttyā siṁha-tulyatvaṁ devadattasyocyate, na tu siṁhatvaṁ tadvad ity arthaḥ | nanv evaṁ kena nirṇītam iti cet | sūtrakṛtā śrī-vyāsenaiveti tat sūtra-dvayaṁ darśayati |
 
-तत्रैकेन तद्वाद-द्वयम् असम्भवान् निरस्यति अम्बुवद् इति । यथाम्बुना भू-खण्डस्य परिच्छेदः, एवम् उपाधिना ब्रह्म-प्रदेशस्य स स्यात् । न, अम्बुना भूखण्डस्येवोपाधिना ब्रह्म-प्रदेशस्य ग्रहणाभावात् । अगृह्यो न हि गृह्यते [बृ।आ।उ। ३.९.२६] इति हि श्रुतिः । अतो न तथात्वं ब्रह्मण उपाधि-परिच्छिन्नत्वं नेत्य् अर्थः ।
+tatraikena tadvāda-dvayam asambhavān nirasyati ambuvad iti | yathāmbunā bhū-khaṇḍasya paricchedaḥ, evam upādhinā brahma-pradeśasya sa syāt | na, ambunā bhūkhaṇḍasyevopādhinā brahma-pradeśasya grahaṇābhāvāt | agṛhyo na hi gṛhyate [bṛ.ā.u. 3.9.26] iti hi śrutiḥ | ato na tathātvaṁ brahmaṇa upādhi-paricchinnatvaṁ nety arthaḥ |
 
-यद् वा, अम्बुनि यथा रवेः पर्तिबिम्बः परिच्छिन्नस्य गृह्यते, एवम् उपाधौ ब्रह्मणः प्रतिबिम्बो व्यापकस्य न गृह्यते । अतो न तथात्वं तस्य प्रतिबिम्बो नेत्य् अर्थः । तर्हि शास्त्र-द्वयं कथं सङ्गच्छते । तत्राह, वृद्धीति द्वितीयेन । तद् द्वयं न मुख्य-वृत्त्या प्रवर्तते । किन्तु वृद्धि-ह्रास-भाक्त्वं गुणांशम् आदायैव । यथा महद्-अल्पौ भू-खण्डौ, यथा च रवि-तत्-प्रतिबिम्बौ वृद्धि-ह्रास-भाजौ, तथा परेश-जीवौ स्याताम् । कुतः? अन्तर्भावात् । एतस्मिन्न् अंशे शास्त्र-तात्पर्य-पूर्तेः । एवं सत्य् उभयोर् दृष्टान्तान्तिकयोः सामञ्जस्यात् सङ्गतेर् इत्य् अर्थः । पूर्व-न्यायेन परिच्छेदादि-वाद-द्वयस्य खण्डनम्, उत्तर-न्यायेन तु गौण-वृत्त्या तस्य व्यवस्थापनम् इति । ब्रह्मणः खण्डःय् प्रतिबिम्बो वा जीव एवेति सूत्र-कृतां मतम् । ईशोऽपि ब्रह्मणः खण्डः प्रतिबिम्बो वेति मायिनाम् ईश-विमुखानां मतम् इति बोधव्यम् ॥४२॥
+yad vā, ambuni yathā raveḥ partibimbaḥ paricchinnasya gṛhyate, evam upādhau brahmaṇaḥ pratibimbo vyāpakasya na gṛhyate | ato na tathātvaṁ tasya pratibimbo nety arthaḥ | tarhi śāstra-dvayaṁ kathaṁ saṅgacchate | tatrāha, vṛddhīti dvitīyena | tad dvayaṁ na mukhya-vṛttyā pravartate | kintu vṛddhi-hrāsa-bhāktvaṁ guṇāṁśam ādāyaiva | yathā mahad-alpau bhū-khaṇḍau, yathā ca ravi-tat-pratibimbau vṛddhi-hrāsa-bhājau, tathā pareśa-jīvau syātām | kutaḥ? antarbhāvāt | etasminn aṁśe śāstra-tātparya-pūrteḥ | evaṁ saty ubhayor dṛṣṭāntāntikayoḥ sāmañjasyāt saṅgater ity arthaḥ | pūrva-nyāyena paricchedādi-vāda-dvayasya khaṇḍanam, uttara-nyāyena tu gauṇa-vṛttyā tasya vyavasthāpanam iti | brahmaṇaḥ khaṇḍaḥy pratibimbo vā jīva eveti sūtra-kṛtāṁ matam | īśo’pi brahmaṇaḥ khaṇḍaḥ pratibimbo veti māyinām īśa-vimukhānāṁ matam iti bodhavyam ||42||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२न्]
+[2n]
 
-**तत एवाभेद-शास्त्राण्य् उभयोश् चिद्-रूपत्वे जीव-समूहस्य दुर्घट-घटना-पटीयस्या स्वाभाविक-तद्-अचिन्त्य-शक्त्या स्वभावत एव तद्-रश्मि-परमाणु-गुण-स्थानीयत्वात् तद्-व्यतिरेकेणाव्यतिरेकेण च विरोधं परिहृत्याग्रे मुहुर् अपि तद् एतद्-व्यास-समाधि-लब्ध-सिद्धान्त-योजनाय योजनीयानि ॥२न्॥ (४३)**
+**tata evābheda-śāstrāṇy ubhayoś cid-rūpatve jīva-samūhasya durghaṭa-ghaṭanā-paṭīyasyā svābhāvika-tad-acintya-śaktyā svabhāvata eva tad-raśmi-paramāṇu-guṇa-sthānīyatvāt tad-vyatirekeṇāvyatirekeṇa ca virodhaṁ parihṛtyāgre muhur api tad etad-vyāsa-samādhi-labdha-siddhānta-yojanāya yojanīyāni ||2n|| (43)**
 
-**बलदेवः :** तत इति परिच्छेदादि-शास्त्र-द्वयस्य तत्-सादृश्यार्थकत्वेन नीतत्वाद् एव हेतोः । त्वं वा अहम् अस्मि भगवो देव, अहं वै त्वम् असि तत्त्वम् असि इत्य् आदीन्य् अभेद-शास्त्राणि । तद् एतद् व्यास-समाधि-सिद्धान्त-योजनाय मुहुर् अप्य् अग्रे योजनीयानीति सम्बन्धः । केन हेतुनेत्य् आह उभयोर् ईश-जीवयोश् चिद्-रूपत्वेन हेतुना । यथा गौर-श्यामयोस् तरुण-कुमारयोर् वा विप्रयोर् विप्रत्वेनैक्यम् । ततश् च जात्यैवाभेदो, नतु व्यक्तोर् इत्य् अर्थः । तथा जीव-समूहस्य दुर्घट-घटना-पटीयस्या तद्-अचिन्त्य-शक्त्या स्वभावत एव तद्-रश्मि-परमाणु-गुण-स्थानीयत्वात् तद्-व्यतिरेकेण, अव्यतिरेकेण च हेतुना विरोधं परिहृत्येति । परेशस्य खलु स्वरूपानुबन्धिनी पराख्या शक्तिर् उष्णतेव रवेर् अस्ति । परास्य शक्तिर् विविधैव श्रूयते स्वाभाविकीज्ञान-बल-क्रिया च [श्वे।उ। ६.८] इति मन्त्र-वर्णात् । विष्णु-शक्तिः परा प्रोक्ता [वि।पु। ६.७.६१] इति स्मरणाच् च । सा हि तद्-इतरान् निखिलान् नियमयति । यस्मात् तद् अन्ये सर्वेऽर्थाः स्वस्वभावम् अत्यजन्तो वर्तन्ते । प्रकृतिः कालः कर्म च स्वान्तः-स्थितम् अपीश्वरं स्पर्ष्टुं न शक्नोति । किन्तु ततो बिभ्येद् एव स्वस्वभावे तिष्ठति । जीव-गणाश् च तत्-सजातीयोऽपि न तेन सम्पर्चितुं शक्नोति किन्तु तमाश्रयन्न् एव वृत्तिं लभते । मुख्य-प्राणम् इव श्रोत्रादिर् इन्द्रिय-गण इति । तथा यद्-अत्तिर् यद्-अधीना स तद्-रूपः इत्य् अभेद-शास्त्रस्यापि भेद-शास्त्रेण सार्धम् अविरोधोऽयं श्री-व्यास-समाधि-लब्ध-सिद्धान्त-सव्यपेक्ष इति । तथा चात्रेश-जीवयोः स्वरुऊपाभेदो नास्तीति सिद्धम् ॥४३॥
+**baladevaḥ :** tata iti paricchedādi-śāstra-dvayasya tat-sādṛśyārthakatvena nītatvād eva hetoḥ | tvaṁ vā aham asmi bhagavo deva, ahaṁ vai tvam asi tattvam asi ity ādīny abheda-śāstrāṇi | tad etad vyāsa-samādhi-siddhānta-yojanāya muhur apy agre yojanīyānīti sambandhaḥ | kena hetunety āha ubhayor īśa-jīvayoś cid-rūpatvena hetunā | yathā gaura-śyāmayos taruṇa-kumārayor vā viprayor vipratvenaikyam | tataś ca jātyaivābhedo, natu vyaktor ity arthaḥ | tathā jīva-samūhasya durghaṭa-ghaṭanā-paṭīyasyā tad-acintya-śaktyā svabhāvata eva tad-raśmi-paramāṇu-guṇa-sthānīyatvāt tad-vyatirekeṇa, avyatirekeṇa ca hetunā virodhaṁ parihṛtyeti | pareśasya khalu svarūpānubandhinī parākhyā śaktir uṣṇateva raver asti | parāsya śaktir vividhaiva śrūyate svābhāvikījñāna-bala-kriyā ca [śve.u. 6.8] iti mantra-varṇāt | viṣṇu-śaktiḥ parā proktā [vi.pu. 6.7.61] iti smaraṇāc ca | sā hi tad-itarān nikhilān niyamayati | yasmāt tad anye sarve’rthāḥ svasvabhāvam atyajanto vartante | prakṛtiḥ kālaḥ karma ca svāntaḥ-sthitam apīśvaraṁ sparṣṭuṁ na śaknoti | kintu tato bibhyed eva svasvabhāve tiṣṭhati | jīva-gaṇāś ca tat-sajātīyo’pi na tena samparcituṁ śaknoti kintu tamāśrayann eva vṛttiṁ labhate | mukhya-prāṇam iva śrotrādir indriya-gaṇa iti | tathā yad-attir yad-adhīnā sa tad-rūpaḥ ity abheda-śāstrasyāpi bheda-śāstreṇa sārdham avirodho’yaṁ śrī-vyāsa-samādhi-labdha-siddhānta-savyapekṣa iti | tathā cātreśa-jīvayoḥ svaruūpābhedo nāstīti siddham ||43||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२ओ]
+[2o]
 
-**तद् एवं मायाश्रयत्व-माया-मोहितत्वाभ्यां स्थिते द्वयोर् भेदे तद्-भजनस्यैव अभिधेयत्वम् आयातम् ॥४४॥**
+**tad evaṁ māyāśrayatva-māyā-mohitatvābhyāṁ sthite dvayor bhede tad-bhajanasyaiva abhidheyatvam āyātam ||44||**
 
-तद् एवम् इति स्फुटार्थम् । तद्-भजनस्य माया-निवारकस्येत्य् अर्थः ॥४४॥
+tad evam iti sphuṭārtham | tad-bhajanasya māyā-nivārakasyety arthaḥ ||44||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२प्]
+[2p]
 
-**अतः श्री-भगवत एव सर्व-हितोपदेष्टृत्वात्, सर्व-दुःख-हरत्वात्, रश्मीनां सूर्यवत् सर्वेषां परम-स्वरूपत्वात्, सर्वाधिक-गुण-शालित्वात्परम-प्रेम-योगत्वम् इति प्रयोजनं च स्थापितम् ॥४५॥ **
+**ataḥ śrī-bhagavata eva sarva-hitopadeṣṭṛtvāt, sarva-duḥkha-haratvāt, raśmīnāṁ sūryavat sarveṣāṁ parama-svarūpatvāt, sarvādhika-guṇa-śālitvātparama-prema-yogatvam iti prayojanaṁ ca sthāpitam ||45|| **
 
-**बलदेवः :** माया-मोह-निवारकत्वाद् यस्य भजनम् अभिधेयम्, स भगवान् एव भजतां प्रेम-योग्य इत्य् अर्थाद् आगतम् इत्य् आह अत इति । अतो मायामोह-निवारक-भजनत्वाद् भगवत एव परम-प्रेम-योग्यत्वम् इति सम्बन्धः । जीवात्मा प्रेम-योग्यः, परमात्मा भगवांस् तु परम-प्रेम-योग्य इत्य् अर्थः । कुत इत्य् अपेक्षायां हेतु-चतुष्टयम् आह सर्वेति । रश्मीनाम् इत्य्-आदि—सूर्यो यथा रश्मीनां स्वरूपं न, किन्तु परम-स्वरूपम् एव भवत्य् एवं जीवानां भगवान् इति स्वरूपैक्यं निरस्तम् । अन्तर्यामि-ब्राह्मणात् सौबाल-ब्राहमणाच् च जीवात्मनः परमात्मनः शरीराणि भवन्ति, स तु तेषां शरीरी इति भेदः प्रस्फुटो ज्ञातः । अतः सर्वाधिकेति ॥४५॥
+**baladevaḥ :** māyā-moha-nivārakatvād yasya bhajanam abhidheyam, sa bhagavān eva bhajatāṁ prema-yogya ity arthād āgatam ity āha ata iti | ato māyāmoha-nivāraka-bhajanatvād bhagavata eva parama-prema-yogyatvam iti sambandhaḥ | jīvātmā prema-yogyaḥ, paramātmā bhagavāṁs tu parama-prema-yogya ity arthaḥ | kuta ity apekṣāyāṁ hetu-catuṣṭayam āha sarveti | raśmīnām ity-ādi—sūryo yathā raśmīnāṁ svarūpaṁ na, kintu parama-svarūpam eva bhavaty evaṁ jīvānāṁ bhagavān iti svarūpaikyaṁ nirastam | antaryāmi-brāhmaṇāt saubāla-brāhamaṇāc ca jīvātmanaḥ paramātmanaḥ śarīrāṇi bhavanti, sa tu teṣāṁ śarīrī iti bhedaḥ prasphuṭo jñātaḥ | ataḥ sarvādhiketi ||45||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२क़्]
+[2q]
 
-**तत्राभिधेयं च तादृशत्वेन दृष्टवान् अपि, यतस् तत्-प्रवृत्त्य्-अर्थं श्री-भागवताख्याम् इमां सात्वत-संहितां प्रवर्तितवान् इत्य् आह—अनर्थेति । भक्ति-योगः श्रवण-कीर्तनादि-लक्षणः साधन-भक्तिः, न तु प्रेम-लक्षणः । अनुष्ठानं ह्य् उपदेशापेक्षं, प्रेम तु तत्-प्रसादापेक्षम् इति । तथापि तस्य तत्-प्रसाद-हेतोस् तत्-प्रेम-फल-गर्भत्वात् साक्षाद् एवानर्थोपशमनत्वम्, न त्व् अन्य-सापेक्षत्वेन । यत् कर्मभिर् यत् तपसा ज्ञान-वैराग्यतश् च यत् [भा।पु। ११.२०.३२] इत्य् आदौ, सर्वं मद्-भक्ति-योगेन मद्-भक्तो लभतेऽञ्जसा । स्वर्गापवर्गं [भा।पु। ११.२०.३३] इत्य् आदेः । ज्ञानादेस् तु भक्ति-सापेक्षत्वम् एव,श्रेयः-सृतिं भक्तिं [भा।पु। १०.१४.४] इत्य् आदेः ।**
+**tatrābhidheyaṁ ca tādṛśatvena dṛṣṭavān api, yatas tat-pravṛtty-arthaṁ śrī-bhāgavatākhyām imāṁ sātvata-saṁhitāṁ pravartitavān ity āha—anartheti | bhakti-yogaḥ śravaṇa-kīrtanādi-lakṣaṇaḥ sādhana-bhaktiḥ, na tu prema-lakṣaṇaḥ | anuṣṭhānaṁ hy upadeśāpekṣaṁ, prema tu tat-prasādāpekṣam iti | tathāpi tasya tat-prasāda-hetos tat-prema-phala-garbhatvāt sākṣād evānarthopaśamanatvam, na tv anya-sāpekṣatvena | yat karmabhir yat tapasā jñāna-vairāgyataś ca yat [bhā.pu. 11.20.32] ity ādau, sarvaṁ mad-bhakti-yogena mad-bhakto labhate’ñjasā | svargāpavargaṁ [bhā.pu. 11.20.33] ity ādeḥ | jñānādes tu bhakti-sāpekṣatvam eva,śreyaḥ-sṛtiṁ bhaktiṁ [bhā.pu. 10.14.4] ity ādeḥ |**
 
-**अथवा, अनर्थस्य संसार-व्यसनस्य तावत् साक्षाद्-अव्यवधानेनोपशमनं सम्मोहादि-द्वयस्य तु प्रेमाख्य-स्वीय-फल-द्वारेत्य् अर्थः । अतः पूर्ववद् एवात्राभिधेयं दर्शितम् ॥४६॥**
+**athavā, anarthasya saṁsāra-vyasanasya tāvat sākṣād-avyavadhānenopaśamanaṁ sammohādi-dvayasya tu premākhya-svīya-phala-dvārety arthaḥ | ataḥ pūrvavad evātrābhidheyaṁ darśitam ||46||**
 
-**बलदेवः :** तत्राभीति । तादृशत्वेन मायानिवारकत्वेन । दृष्टवान् अपि श्री-व्यासः । अनुष्ठानं कृति-साध्यम् । तत्-प्रसादेति भगवद्-अनुग्रहेत्य् अर्थः । तस्य श्रवणादि-लक्षणस्य । अन्य-सापेक्षत्वेन कर्मादि-परिकरत्वेन । ज्ञानादेस् त्व् इति ज्ञानम् अत्र यस्य ब्रह्म [पगे ६] इत्य् उक्त-ब्रह्म-विषयकम् । सम्मोहादीयादि-पदाद् आत्मनो जड-देहादि-रूपता-मननं ग्राह्यम् । अत इति । अत्र अनर्थेति वाक्ये ॥४६॥
+**baladevaḥ :** tatrābhīti | tādṛśatvena māyānivārakatvena | dṛṣṭavān api śrī-vyāsaḥ | anuṣṭhānaṁ kṛti-sādhyam | tat-prasādeti bhagavad-anugrahety arthaḥ | tasya śravaṇādi-lakṣaṇasya | anya-sāpekṣatvena karmādi-parikaratvena | jñānādes tv iti jñānam atra yasya brahma [page 6] ity ukta-brahma-viṣayakam | sammohādīyādi-padād ātmano jaḍa-dehādi-rūpatā-mananaṁ grāhyam | ata iti | atra anartheti vākye ||46||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२र्]
+[2r]
 
-**अथ पूर्ववद् एव प्रयोजनं च स्पष्टयितुं पूर्वोक्तस्य पूर्ण-पुरुषस्य च श्री-कृष्ण-स्वरूपत्वं व्यञ्जयितुं ग्रन्थ-फल-निर्देश-द्वारा तत्र तद्-अनुभवान्तरं प्रतिपादयन्न् आह—“यस्याम्” इति । भक्तिः प्रेमा, श्रवण-रूपया साधन-भक्त्या साध्यत्वात्। “उत्पद्यते” आविर्भवति । **
+**atha pūrvavad eva prayojanaṁ ca spaṣṭayituṁ pūrvoktasya pūrṇa-puruṣasya ca śrī-kṛṣṇa-svarūpatvaṁ vyañjayituṁ grantha-phala-nirdeśa-dvārā tatra tad-anubhavāntaraṁ pratipādayann āha—“yasyām” iti | bhaktiḥ premā, śravaṇa-rūpayā sādhana-bhaktyā sādhyatvāt| “utpadyate” āvirbhavati | **
 
-**तस्यानुषङ्गिकं गुणम् आह—“शोक-” इति । अत्रैषां संस्कारोऽपि नश्यतीति भावः,प्रीतिर् न यावन् मयि वासुदेवे न मुच्यते देह-योगेन तावत् [भा।पु। ५.५.६] इति श्री-ऋषभ-देव-वाक्यात् । “परम-पुरुषे” पूर्वोक्त-पूर्ण-पुरुषे । **
+**tasyānuṣaṅgikaṁ guṇam āha—“śoka-” iti | atraiṣāṁ saṁskāro’pi naśyatīti bhāvaḥ,prītir na yāvan mayi vāsudeve na mucyate deha-yogena tāvat [bhā.pu. 5.5.6] iti śrī-ṛṣabha-deva-vākyāt | “parama-puruṣe” pūrvokta-pūrṇa-puruṣe | **
 
-**किम्-आकारः ? इत्य् अपेक्षायाम् आह—“कृष्णे” । कृष्णस् तु भगवान् स्वयम्  [भा।पु।१.३.२८] इत्य्-आदि शास्त्र-सहस्र-भावितान्तः-करणानां परम्परया तत्-प्रसिद्धि-मध्य-पातिनां चासाङ्ख्य-लोकानां तन्-नाम-श्रवण-मात्रेण यः प्रथम-प्रतीति-विषयः स्यात्, तथा तन्-नाम्नः प्रथमाक्षर-मात्रं मन्त्राय कल्पमानं यस्याभिमुख्याय स्यात्, तद्-आकार इत्य् अर्थः । आहुश् च नाम-कौमुदी-काराः—कृष्ण-शब्दस्य तमाल-श्यामल-त्विषि यशोदायाः स्तनन्धये पर-ब्रह्मणि रूढिः इति ॥२र्॥ (४७)**
+**kim-ākāraḥ ? ity apekṣāyām āha—“kṛṣṇe” | kṛṣṇas tu bhagavān svayam  [bhā.pu.1.3.28] ity-ādi śāstra-sahasra-bhāvitāntaḥ-karaṇānāṁ paramparayā tat-prasiddhi-madhya-pātināṁ cāsāṅkhya-lokānāṁ tan-nāma-śravaṇa-mātreṇa yaḥ prathama-pratīti-viṣayaḥ syāt, tathā tan-nāmnaḥ prathamākṣara-mātraṁ mantrāya kalpamānaṁ yasyābhimukhyāya syāt, tad-ākāra ity arthaḥ | āhuś ca nāma-kaumudī-kārāḥ—kṛṣṇa-śabdasya tamāla-śyāmala-tviṣi yaśodāyāḥ stanandhaye para-brahmaṇi rūḍhiḥ iti ||2r|| (47)**
 
-**बलदेवः :** अथेति । प्रयोजनं भगवत्-प्रेम-लक्षणम् । तत्रेति तत्र समाधौ श्री-व्यासस्यान्यम् अनुभवम् इत्य् अर्थः । आविर्भवतीति प्रेम्णः परासारांशत्वेनोत्पत्त्य्-असम्भवाद् इत्य् अर्थः । तस्येति प्रेम्णः । अत्र प्रेम्णि सति । कृष्णस् तु भगवान् स्वयम् इति श्री-सूतादीनां श्री-जयदेवादीनां चासङ्ख्य-लोकानाम् इत्य् अर्थः । तन्-नाम इति तन्-नाम्नः इति चोभयत्र कृष्णेति नाम बोध्यम् । रूढिर् इति प्रकृति-प्रत्यय-सम्बन्धं विनैव यशोदा-सुते प्रसिद्धिर् मण्डप-शब्दस्येव गृह-विशेष इत्य् अर्थः ॥४७॥
+**baladevaḥ :** atheti | prayojanaṁ bhagavat-prema-lakṣaṇam | tatreti tatra samādhau śrī-vyāsasyānyam anubhavam ity arthaḥ | āvirbhavatīti premṇaḥ parāsārāṁśatvenotpatty-asambhavād ity arthaḥ | tasyeti premṇaḥ | atra premṇi sati | kṛṣṇas tu bhagavān svayam iti śrī-sūtādīnāṁ śrī-jayadevādīnāṁ cāsaṅkhya-lokānām ity arthaḥ | tan-nāma iti tan-nāmnaḥ iti cobhayatra kṛṣṇeti nāma bodhyam | rūḍhir iti prakṛti-pratyaya-sambandhaṁ vinaiva yaśodā-sute prasiddhir maṇḍapa-śabdasyeva gṛha-viśeṣa ity arthaḥ ||47||
 
-[२स्]
+[2s]
 
-**अथ तस्यैव प्रयोजनस्य ब्रह्मानन्दानुभवाद् अपि परमत्वम् अनुभूतवान् । यतस् तादृशं शुकम् अपि तद्-आनन्द-वैशिष्ट्य-लम्भनाय ताम् अध्यापयामासेत्य् आह—“स संहिताम्” इति । “कृत्वानुक्रम्य च” इति प्रथमतः स्वयं सङ्क्षेपेण कृत्वा, पश्चात् तु श्री-नारदोपदेशाद् अनुक्रमेण विवृत्येत्य् अर्थः । **
+**atha tasyaiva prayojanasya brahmānandānubhavād api paramatvam anubhūtavān | yatas tādṛśaṁ śukam api tad-ānanda-vaiśiṣṭya-lambhanāya tām adhyāpayāmāsety āha—“sa saṁhitām” iti | “kṛtvānukramya ca” iti prathamataḥ svayaṁ saṅkṣepeṇa kṛtvā, paścāt tu śrī-nāradopadeśād anukrameṇa vivṛtyety arthaḥ | **
 
-**अतएव श्रीमद्-भागवतं भारतानन्तरं यद् अत्र श्रूयते, यच् चान्यत्राष्टादश-पुराणानन्तरं भारतम् इति तद्-द्वयम् अपि समाहितं स्यात् । ब्रह्मानन्दानुभव-निमग्नत्वात् “निवृत्ति-निरतं” सर्वतो निवृत्तौ निरतम्, तत्राव्यभिचारिणम् अपीत्य् अर्थः ॥२स्॥ (४८)**
+**ataeva śrīmad-bhāgavataṁ bhāratānantaraṁ yad atra śrūyate, yac cānyatrāṣṭādaśa-purāṇānantaraṁ bhāratam iti tad-dvayam api samāhitaṁ syāt | brahmānandānubhava-nimagnatvāt “nivṛtti-nirataṁ” sarvato nivṛttau niratam, tatrāvyabhicāriṇam apīty arthaḥ ||2s|| (48)**
 
-**बलदेवः :** अथेति ब्रह्मानन्दाद् यस्य ब्रह्मेत्य् उक्त-वस्तु-सुखाद् अपि । परमत्वम् उत्कृष्टत्वम् अनुभूतवान् श्री-व्यासः । तादृशं तद्-आनन्दानुभवैनम् अपि । तद्-आनन्देति कृष्ण-प्रेमानन्द-प्रापणायेत्य् अर्थः । अत एवेति । यद् अत्रेति अत्र श्री-भागवते । अन्यत्र मात्स्यादौ—अष्टादश-पुराणानि कृत्वा सत्यवती-सुतः । चक्रे भारतम् आख्यानं वेदार्थैर् उपबृंहितम् इत्य् अनेनेत्य् अर्थः । तत्रेति निवृत्ताव् इत्य् अर्थः ॥४८॥
+**baladevaḥ :** atheti brahmānandād yasya brahmety ukta-vastu-sukhād api | paramatvam utkṛṣṭatvam anubhūtavān śrī-vyāsaḥ | tādṛśaṁ tad-ānandānubhavainam api | tad-ānandeti kṛṣṇa-premānanda-prāpaṇāyety arthaḥ | ata eveti | yad atreti atra śrī-bhāgavate | anyatra mātsyādau—aṣṭādaśa-purāṇāni kṛtvā satyavatī-sutaḥ | cakre bhāratam ākhyānaṁ vedārthair upabṛṁhitam ity anenety arthaḥ | tatreti nivṛttāv ity arthaḥ ||48||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[२त्]
+[2t]
 
-**तम् एतं श्री-वेद-व्यासस्य समाधि-जातानुभवं श्री-शौनक-प्रश्नोत्तरत्वेन विशदयन् सर्वात्मारामानुभवेन स-हेतुकं संवादयति—“आत्मारामाश् च” [१.७.१०] इति । “निर्ग्रन्था” विधि-निषेधातीता निर्गताहङ्कार-ग्रन्थयो वा । “अहैतुकीं” फलानुसन्धि-रहिताम् । अत्र सर्वाक्षेप-परिहारार्थम् आह—“इत्थम्भूत” आत्मारामाणाम् अप्य् आकर्षण-स्वभावो “गुणो” यस्य स इति । **
+**tam etaṁ śrī-veda-vyāsasya samādhi-jātānubhavaṁ śrī-śaunaka-praśnottaratvena viśadayan sarvātmārāmānubhavena sa-hetukaṁ saṁvādayati—“ātmārāmāś ca” [1.7.10] iti | “nirgranthā” vidhi-niṣedhātītā nirgatāhaṅkāra-granthayo vā | “ahaitukīṁ” phalānusandhi-rahitām | atra sarvākṣepa-parihārārtham āha—“itthambhūta” ātmārāmāṇām apy ākarṣaṇa-svabhāvo “guṇo” yasya sa iti | **
 
-**तम् एवार्थं श्री-शुकस्याप्य् अनुभवेन संवादयति—“हरेर् गुण-” [१.७.११] इति । श्री-व्यासदेवाद् यत्-किञ्चिच्-छ्रुतेन गुणेन पूर्वम् “आक्षिप्ता मतिर्” यस्य सः । पश्चाद् “अध्यगात्”“महद्” विस्तीर्णम् अपि । ततश् च तत्-सङ्कथा-सौहार्देन “नित्यं”“विष्णु-जनाः प्रिया” यस्य तथा-भूतो वा, तेषां प्रियो वा स्वयम् अभवद् इत्य् अर्थः ।**
+**tam evārthaṁ śrī-śukasyāpy anubhavena saṁvādayati—“harer guṇa-” [1.7.11] iti | śrī-vyāsadevād yat-kiñcic-chrutena guṇena pūrvam “ākṣiptā matir” yasya saḥ | paścād “adhyagāt”“mahad” vistīrṇam api | tataś ca tat-saṅkathā-sauhārdena “nityaṁ”“viṣṇu-janāḥ priyā” yasya tathā-bhūto vā, teṣāṁ priyo vā svayam abhavad ity arthaḥ |**
 
-**अयं भावः—ब्रह्म-वैवर्तानुसारेण पूर्वं तावद् अयं गर्भम् आरभ्य श्री-कृष्णस्य स्वैरितया माया-निवारकत्वं ज्ञातवान् । तत्र श्री-वेद-व्यासस् तु तं वशीकर्तुं तद्-अनन्य-साधनं श्री-भागवतम् एव ज्ञात्वा, तद्-गुणातिशय-प्रकाश-मयांस् तदीय-पद्य-विशेषान् कथञ्चिच् छ्रावयित्वा, तेनाक्षिप्त-मतिं कृत्वा, तद् एव पूर्णं तम् अध्यापयामास इति श्री-भागवत-महिमातिशयः प्रोक्तः । **
+**ayaṁ bhāvaḥ—brahma-vaivartānusāreṇa pūrvaṁ tāvad ayaṁ garbham ārabhya śrī-kṛṣṇasya svairitayā māyā-nivārakatvaṁ jñātavān | tatra śrī-veda-vyāsas tu taṁ vaśīkartuṁ tad-ananya-sādhanaṁ śrī-bhāgavatam eva jñātvā, tad-guṇātiśaya-prakāśa-mayāṁs tadīya-padya-viśeṣān kathañcic chrāvayitvā, tenākṣipta-matiṁ kṛtvā, tad eva pūrṇaṁ tam adhyāpayāmāsa iti śrī-bhāgavata-mahimātiśayaḥ proktaḥ | **
 
-**तद् एवं दर्शितं वक्तुः श्री-शुकस्य वेदव्यासस्य च समान-हृदयम् । तस्माद् वक्तुर् हृदयानुरूपम् एव सर्वत्र तात्पर्यं पर्यालोचनीयं, नान्यथा । यद् यत् तद् अन्यथा पर्यालोचनम्, तत्र तत्र कुपथ-गामितैवेति निष्टङ्कितम् ॥२त्॥ (४९)**
+**tad evaṁ darśitaṁ vaktuḥ śrī-śukasya vedavyāsasya ca samāna-hṛdayam | tasmād vaktur hṛdayānurūpam eva sarvatra tātparyaṁ paryālocanīyaṁ, nānyathā | yad yat tad anyathā paryālocanam, tatra tatra kupatha-gāmitaiveti niṣṭaṅkitam ||2t|| (49)**
 
-॥ १.७ ॥ श्री-सूतः ॥ २ ॥
+|| 1.7 || śrī-sūtaḥ || 2 ||
 
-**बलदेवः :** समाधि-दृष्टस्यार्थस्य सर्व-तत्त्वज्ञ-सम्मतत्वम् आह—**तम्** इत्य्-आदिना । निर्गताहङ्कारेति । महत्-तत्त्वाज् जातोऽयम् अहङ्कारः, न तु स्वरूपानुबन्धीति बोध्यम्, द्वितीये सन्दर्भे एवम् एव निर्णेष्यमाणत्वात् । तदीय-पद्य-विशेषान् इति पूतना-धात्री-गति-दान-पाण्डव-सारथ्य-प्रतीहारत्वादि-प्रदर्शकान् कतिचिच् छ्लोकान् इत्य् अर्थः । ब्रह्म-वैवर्ते शुको योनि-जातः, भारते त्व् अयोनि-जातः कथ्यते । दार-ग्रहणं कन्या-सन्ततिश् चेति । तद् एतत् सर्वं कल्प-भेदेन सङ्गमनीयम् ॥४९॥
+**baladevaḥ :** samādhi-dṛṣṭasyārthasya sarva-tattvajña-sammatatvam āha—**tam** ity-ādinā | nirgatāhaṅkāreti | mahat-tattvāj jāto’yam ahaṅkāraḥ, na tu svarūpānubandhīti bodhyam, dvitīye sandarbhe evam eva nirṇeṣyamāṇatvāt | tadīya-padya-viśeṣān iti pūtanā-dhātrī-gati-dāna-pāṇḍava-sārathya-pratīhāratvādi-pradarśakān katicic chlokān ity arthaḥ | brahma-vaivarte śuko yoni-jātaḥ, bhārate tv ayoni-jātaḥ kathyate | dāra-grahaṇaṁ kanyā-santatiś ceti | tad etat sarvaṁ kalpa-bhedena saṅgamanīyam ||49||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[३]
+[3]
 
-**अथ क्रमेण विस्तरतस् तथैव तात्पर्यं निर्णेतुं सम्बन्धाभिधेय-प्रयोजनेषु षड्भिः सन्दर्भैर् निर्णेष्यमाणेषु प्रथमं यस्य वाच्य-वाचकता-सम्बन्धीदं शास्त्रं, तद् एव धर्मः प्रोज्झित-कैतवः इत्य्-आदि-पद्ये सामान्याकारतस् तावद् आह—**
+**atha krameṇa vistaratas tathaiva tātparyaṁ nirṇetuṁ sambandhābhidheya-prayojaneṣu ṣaḍbhiḥ sandarbhair nirṇeṣyamāṇeṣu prathamaṁ yasya vācya-vācakatā-sambandhīdaṁ śāstraṁ, tad eva dharmaḥ projjhita-kaitavaḥ ity-ādi-padye sāmānyākāratas tāvad āha—**
 
 
-> **वेद्यं वास्तवम् अत्र वस्तु **[भा।पु।१.१.२] इति ॥
+> **vedyaṁ vāstavam atra vastu **[bhā.pu.1.1.2] iti ||
 
-**टीका च—अत्र श्रीमति सुन्दरे भागवते वास्तवं परमार्थ-भूतं वस्तु वेद्यम्, न तु वैशेषिकादिवद् द्रव्य-गुणादि-रूपम् इत्य् एषा ॥३॥ (५०)**
+**ṭīkā ca—atra śrīmati sundare bhāgavate vāstavaṁ paramārtha-bhūtaṁ vastu vedyam, na tu vaiśeṣikādivad dravya-guṇādi-rūpam ity eṣā ||3|| (50)**
 
-**॥१.१॥ वेद-व्यासः ॥ ३ ॥**
+**||1.1|| veda-vyāsaḥ || 3 ||**
 
-**बलदेवः :** सङ्क्षेपेणोक्तं सम्बन्धादिकं विस्तरेण दर्शयितुम् उपक्रमते अथेत्यादि । तथैवेति श्री-शुकादि-हृदयानुसारेणेत्य् अर्थः । सामान्यत इति अनिर्दिष्ट-स्वरूप-गुण-विभूति-कथनायेत्य् अर्थः । वैशेषिकादिवद् इति कणाद-गौतमोक्त-शास्त्रवद् इत्य् अर्थः ॥५०॥
+**baladevaḥ :** saṅkṣepeṇoktaṁ sambandhādikaṁ vistareṇa darśayitum upakramate athetyādi | tathaiveti śrī-śukādi-hṛdayānusāreṇety arthaḥ | sāmānyata iti anirdiṣṭa-svarūpa-guṇa-vibhūti-kathanāyety arthaḥ | vaiśeṣikādivad iti kaṇāda-gautamokta-śāstravad ity arthaḥ ||50||
 
-[४]
+[4]
 
-**अथ किं-रूपं तद्वस्तु-तत्त्वम् ? इत्य् अत्राह—**
+**atha kiṁ-rūpaṁ tadvastu-tattvam ? ity atrāha—**
 
-**वदन्ति तत् तत्त्व-विदस् तत्त्वं यज् ज्ञानम् अद्वयं [भा।पु। १.२.११] इति । **
+**vadanti tat tattva-vidas tattvaṁ yaj jñānam advayaṁ [bhā.pu. 1.2.11] iti | **
 
-**“ज्ञानं” चिद्-एक-रूपम् । “अद्वयत्वं” चास्य स्वयं-सिद्ध-तादृशातादृश-तत्त्वान्तराभावात् स्व-शक्त्य्-एक-सहायत्वात्, परमाश्रयं तं विना तासाम् असिद्धत्वाच् च । “तत्त्वम्” इति परम-पुरुषार्थता-द्योतनया परम-सुख-रूपत्वं तस्य बोध्यते । अत एव तस्य नित्यत्वं च दर्शितम् ॥**
+**“jñānaṁ” cid-eka-rūpam | “advayatvaṁ” cāsya svayaṁ-siddha-tādṛśātādṛśa-tattvāntarābhāvāt sva-śakty-eka-sahāyatvāt, paramāśrayaṁ taṁ vinā tāsām asiddhatvāc ca | “tattvam” iti parama-puruṣārthatā-dyotanayā parama-sukha-rūpatvaṁ tasya bodhyate | ata eva tasya nityatvaṁ ca darśitam ||**
 
-**॥ १.२ ॥ श्री-सुतः ॥ ४ ॥**
+**|| 1.2 || śrī-sutaḥ || 4 ||**
 
-**बलदेवः :** स्वरूप-निदेश-पूर्वकं तत्त्वं वक्तुम् अवतारयति अथ किम् इति । स्वयं सिद्धेति आत्मनैव सिद्धं खलु स्वयं सिद्धम् उच्यते । स्वयं दासास् तपस्विनः इत्य् अत्र तपस्व्-दास्यम् आत्मना तपस्विनैव सिद्धं प्रतीयते तद्वत् । तादृशं च परेश-वस्त्व् एव, न तु तादृशम् अपि जीव-चैतन्यम्, न त्व् अतादृशं प्रकृति-काल-लक्षणं जड-वस्तु । तद्-अभावाद् अद्वयत्वम् । तयोः स्वयंसिद्धत्वाभावः कुतः । इत्य् अत्राह परमाश्रयं तं विनेति । स्व-शक्त्येक-सहायेऽप्य् अद्वय-पदं प्रयुज्यते धनुर् द्वितीयः पाण्डुर् इति ।
+**baladevaḥ :** svarūpa-nideśa-pūrvakaṁ tattvaṁ vaktum avatārayati atha kim iti | svayaṁ siddheti ātmanaiva siddhaṁ khalu svayaṁ siddham ucyate | svayaṁ dāsās tapasvinaḥ ity atra tapasv-dāsyam ātmanā tapasvinaiva siddhaṁ pratīyate tadvat | tādṛśaṁ ca pareśa-vastv eva, na tu tādṛśam api jīva-caitanyam, na tv atādṛśaṁ prakṛti-kāla-lakṣaṇaṁ jaḍa-vastu | tad-abhāvād advayatvam | tayoḥ svayaṁsiddhatvābhāvaḥ kutaḥ | ity atrāha paramāśrayaṁ taṁ vineti | sva-śaktyeka-sahāye’py advaya-padaṁ prayujyate dhanur dvitīyaḥ pāṇḍur iti |
 
-ननु वेदान्ते व्ज्ञानम् आनन्दं ब्रह्म इति । विज्ञानानद-स्वरूपं ब्रह्म पठ्यते, इह ज्ञानम् इति कथम् । तत्राह तत्त्वम् इति । इदम् अत्र तत्त्वम् इत्य् उक्ते सारे वस्तुनि तत्त्व-शब्दो नीयते । सारं च सुखम् एव सर्वेषाम् उपायानां तद्-अर्थत्वात् । तथा च सुख-रूपत्वम् अपि तस्यागतम् । ननु ज्ञानं सुखं चानित्यं दृष्टं तत्राह अतएवेति । स्वयंसिद्धत्वेन व्याख्यानान् नित्यं तद् इत्य् अर्थः । सद्-अकारणं यत् तन् नित्यम् इति हि तीर्थकाराः । एवं च तादृश-ब्रह्म-सम्बन्धीदं शास्त्रम् इत्य् उक्तम् ॥४॥ (५१)
+nanu vedānte vjñānam ānandaṁ brahma iti | vijñānānada-svarūpaṁ brahma paṭhyate, iha jñānam iti katham | tatrāha tattvam iti | idam atra tattvam ity ukte sāre vastuni tattva-śabdo nīyate | sāraṁ ca sukham eva sarveṣām upāyānāṁ tad-arthatvāt | tathā ca sukha-rūpatvam api tasyāgatam | nanu jñānaṁ sukhaṁ cānityaṁ dṛṣṭaṁ tatrāha ataeveti | svayaṁsiddhatvena vyākhyānān nityaṁ tad ity arthaḥ | sad-akāraṇaṁ yat tan nityam iti hi tīrthakārāḥ | evaṁ ca tādṛśa-brahma-sambandhīdaṁ śāstram ity uktam ||4|| (51)
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[५]
+[5]
 
-**ननु नील-पीताद्य्-आकारं क्षणिकम् एव ज्ञानं दृष्टम्, तत् पुनर् अद्वयं नित्यं ज्ञानं कथं लक्ष्यते, यन्-निष्ठम् इदं शास्त्रम् ? इत्यत्राह—**
+**nanu nīla-pītādy-ākāraṁ kṣaṇikam eva jñānaṁ dṛṣṭam, tat punar advayaṁ nityaṁ jñānaṁ kathaṁ lakṣyate, yan-niṣṭham idaṁ śāstram ? ityatrāha—**
 
-**सर्व-वेदान्त-सारं यद् ब्रह्मात्मैकत्व-लक्षणम् । **
+**sarva-vedānta-sāraṁ yad brahmātmaikatva-lakṣaṇam | **
 
-**वस्त्व् अद्वितीयं तन्-निष्ठं कैवल्यैक-प्रयोजनम् ॥ [भा। १२.१३.१२] इति ।**
+**vastv advitīyaṁ tan-niṣṭhaṁ kaivalyaika-prayojanam || [bhā. 12.13.12] iti |**
 
-**सत्यं ज्ञानम् अनन्तं ब्रह्म [तै।उ। २.१.१] इति यस्य स्वरूपम् उक्तम्, येनाश्रुतं श्रुतं भवति [छा।उ।६.१.३] इति यद्-विज्ञानेन सर्व-विज्ञानं प्रतिज्ञातम्,सद् एव सौम्येदम् अग्र आसीत् [छा।उ। ६.२.१] इत्य्-आदिना निखिल-जगद्-एक-कारणता,तद् ऐक्षत बहु स्यां [छा।उ। ६.२.३] इत्य् अनेन सत्य-सङ्कल्पता च यस्य प्रतिपादिता, तेन ब्रह्मणा स्वरूप-शक्तिभ्यां सर्व-बृहत्तमेन सार्धम्,अनेन जीवेनात्मना [छा।उ। ६.३.२] इति तदीयोक्ताविदन्ता-निर्देशेन ततो भिन्नत्वेऽप्य् आत्मता-निर्देशेन तद्-आत्मांश-विशेषत्वेन लब्धस्य बादरायण-समाधि-दृष्ट-युक्तेर् अत्यभिन्नता-रहितस्य जीवात्मनो यद् एकत्वं तत्त्वम् असि [छा।उ। ६.८.७] इत्य् आदौ ज्ञाता**,**तद्-अंश-भूत-चिद्-रूपत्वेन समानाकारता । तद् एव लक्षणं प्रथमतो ज्ञाने साधकतमं यस्यतथाभूतम्, यत् सर्व-वेदान्त-सारम् अद्वितीयं वस्तु तन्-निष्ठं तद्-एक-विषयम् इदं श्री-भागवतम् इति प्राक्तन-पद्य-स्थेनानुषङ्गः । **
+**satyaṁ jñānam anantaṁ brahma [tai.u. 2.1.1] iti yasya svarūpam uktam, yenāśrutaṁ śrutaṁ bhavati [chā.u.6.1.3] iti yad-vijñānena sarva-vijñānaṁ pratijñātam,sad eva saumyedam agra āsīt [chā.u. 6.2.1] ity-ādinā nikhila-jagad-eka-kāraṇatā,tad aikṣata bahu syāṁ [chā.u. 6.2.3] ity anena satya-saṅkalpatā ca yasya pratipāditā, tena brahmaṇā svarūpa-śaktibhyāṁ sarva-bṛhattamena sārdham,anena jīvenātmanā [chā.u. 6.3.2] iti tadīyoktāvidantā-nirdeśena tato bhinnatve’py ātmatā-nirdeśena tad-ātmāṁśa-viśeṣatvena labdhasya bādarāyaṇa-samādhi-dṛṣṭa-yukter atyabhinnatā-rahitasya jīvātmano yad ekatvaṁ tattvam asi [chā.u. 6.8.7] ity ādau jñātā**,**tad-aṁśa-bhūta-cid-rūpatvena samānākāratā | tad eva lakṣaṇaṁ prathamato jñāne sādhakatamaṁ yasyatathābhūtam, yat sarva-vedānta-sāram advitīyaṁ vastu tan-niṣṭhaṁ tad-eka-viṣayam idaṁ śrī-bhāgavatam iti prāktana-padya-sthenānuṣaṅgaḥ | **
 
-**यथा जन्म-प्रभृति कश्चिद् गृह-गुहावरुद्धः सूर्यं विविदिषुः कथञ्चिद् गवाक्ष-पतितं सूर्यांशु-कणं दर्शयित्वा केनचिद् उपदिश्यते “एष सः” इति । “एतत् तद्-अंश-ज्योतिः-समानाकारतया तन्-महा-ज्योतिर्-मण्डलम् अनुसन्धीयताम्” इत्य् अर्थः । तद्वज् जीवस्य तथा तद्-अंशत्वं च तच्-छक्ति-विशेष-सिद्धत्वेनैव परमात्म-सन्दर्भे[§§१९-४७]स्थापयिष्यामः । तद् एतज्जीवादि-लक्षणांश-विशिष्टतयैवोपनिषदस् तस्य सांशत्वम् अपि क्वचिद् उपदिशन्ति, निरंशत्वोपदेशिका श्रुतिस् तु केवल-तन्-निष्ठा । **
+**yathā janma-prabhṛti kaścid gṛha-guhāvaruddhaḥ sūryaṁ vividiṣuḥ kathañcid gavākṣa-patitaṁ sūryāṁśu-kaṇaṁ darśayitvā kenacid upadiśyate “eṣa saḥ” iti | “etat tad-aṁśa-jyotiḥ-samānākāratayā tan-mahā-jyotir-maṇḍalam anusandhīyatām” ity arthaḥ | tadvaj jīvasya tathā tad-aṁśatvaṁ ca tac-chakti-viśeṣa-siddhatvenaiva paramātma-sandarbhe[§§19-47]sthāpayiṣyāmaḥ | tad etajjīvādi-lakṣaṇāṁśa-viśiṣṭatayaivopaniṣadas tasya sāṁśatvam api kvacid upadiśanti, niraṁśatvopadeśikā śrutis tu kevala-tan-niṣṭhā | **
 
-**अत्र “कैवल्यैक-प्रयोजनम्” इति चतुर्थ-पादश् च कैवल्य-पदस्य शुद्धत्व-मात्र-वचनत्वेन । शुद्धत्वस्य च शुद्ध-भक्तित्वेन पर्यवसानेन प्रीति-सन्दर्भे [§१] व्याख्यास्यते ॥**
+**atra “kaivalyaika-prayojanam” iti caturtha-pādaś ca kaivalya-padasya śuddhatva-mātra-vacanatvena | śuddhatvasya ca śuddha-bhaktitvena paryavasānena prīti-sandarbhe [§1] vyākhyāsyate ||**
 
-॥१२.१३॥ श्री-सूतः ॥ ५ ॥
+||12.13|| śrī-sūtaḥ || 5 ||
 
-**बलदेवः :** आर्थिकं नित्यत्वं स्थिरं कुर्वन्, शास्त्रस्य विशिष्ट-ब्रह्म-सम्बन्धित्वम् आह—ननु नीलेत्य् आदिना । अनेन जीवेनेत्य् आदि । तदीयोक्तौ परदेवता-वाक्ये । तद्-आत्मांश-विशेषत्वेन तद्-विभिन्नांशत्वेन, न तु मत्स्यादिवत्स्वांशत्वेनेत्य् अर्थः । जीवात्मनो यद् एकत्वम् इति जीवस्य चिद्-रूपत्वेन जात्या यद्-ब्रह्म-समानाकारत्वं तद् एव तस्य ब्रह्मणा सहैक्यम् इति व्यक्ति-भेदः प्रस्फुटः । एवम् एव यथेत्यादि-दृष्टान्तेनापि दर्शितः । तद् एतद् इति उपनिषदः सोऽकामयत बहु स्याम् इत्य् आद्याः । निरंशत्वोपदेशिकेति सत्यं ज्ञानम् अनन्तं [तै।उ।२.१], निष्कलं निष्रियं शान्तं निरवद्यं निरञ्जनं [श्वे।उ। ६.१९] इत्य् आद्या श्रुतिस् तु केवल-तन्-निष्ठा विशेष्य-मात्र-परेत्य् अर्थः । अनभिव्यक्त-संस्थान-गुणकं ब्रह्म वदतीति यावत् ॥५२॥
+**baladevaḥ :** ārthikaṁ nityatvaṁ sthiraṁ kurvan, śāstrasya viśiṣṭa-brahma-sambandhitvam āha—nanu nīlety ādinā | anena jīvenety ādi | tadīyoktau paradevatā-vākye | tad-ātmāṁśa-viśeṣatvena tad-vibhinnāṁśatvena, na tu matsyādivatsvāṁśatvenety arthaḥ | jīvātmano yad ekatvam iti jīvasya cid-rūpatvena jātyā yad-brahma-samānākāratvaṁ tad eva tasya brahmaṇā sahaikyam iti vyakti-bhedaḥ prasphuṭaḥ | evam eva yathetyādi-dṛṣṭāntenāpi darśitaḥ | tad etad iti upaniṣadaḥ so’kāmayata bahu syām ity ādyāḥ | niraṁśatvopadeśiketi satyaṁ jñānam anantaṁ [tai.u.2.1], niṣkalaṁ niṣriyaṁ śāntaṁ niravadyaṁ nirañjanaṁ [śve.u. 6.19] ity ādyā śrutis tu kevala-tan-niṣṭhā viśeṣya-mātra-parety arthaḥ | anabhivyakta-saṁsthāna-guṇakaṁ brahma vadatīti yāvat ||52||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[६]
+[6]
 
-**तत्र यदि त्वम्-पदार्थस्य जीवात्मनो ज्ञानत्वं नित्यत्वं च प्रथमतो विचार-गोचरः स्यात्, तदैव तत्-पदार्थस्य तादृशत्वं सुबोधं स्याद् इति । तद् बोधयितुम् अन्यार्थश् च परामर्शः [वे।सू। १.३.२०] इति न्यायेन जीवात्मनस् तद्-रूपत्वम् आह—**
+**tatra yadi tvam-padārthasya jīvātmano jñānatvaṁ nityatvaṁ ca prathamato vicāra-gocaraḥ syāt, tadaiva tat-padārthasya tādṛśatvaṁ subodhaṁ syād iti | tad bodhayitum anyārthaś ca parāmarśaḥ [ve.sū. 1.3.20] iti nyāyena jīvātmanas tad-rūpatvam āha—**
 
 
-> **नात्मा जजान न मरिष्यति नैधतेऽसौ**  
-> **न क्षीयते सवन-विद्व्यभिचारिणां हि ।**  
-> **सर्वत्र शश्वद् अनपाय्य् उपलब्धि-मात्रं**  
-> **प्राणो यथेन्द्रिय-बलेन विकल्पितं सत् ॥ [भा।पु। ११.३.३८]**
+> **nātmā jajāna na mariṣyati naidhate’sau**  
+> **na kṣīyate savana-vidvyabhicāriṇāṁ hi |**  
+> **sarvatra śaśvad anapāyy upalabdhi-mātraṁ**  
+> **prāṇo yathendriya-balena vikalpitaṁ sat || [bhā.pu. 11.3.38]**
 
-**“आत्मा”[^२०] शुद्धो जीवः । “न जजान” न जातः, जन्माभावाद् एव तद्-अनन्तरास्तिता-लक्षणो विकारोऽपि नास्ति । “नैधते” न वर्धते, वृद्ध्य्-अभावाद् एव विपरिणामोऽपि निरस्तः । “हि” यस्मात् । “व्यभिचारिणाम्” आगमापायिनां बाल-युवादि-देहानां देव-मनुष्याद्य्-आकार-देहानां वा । “सवन-वित्” तत्-तत्-काल-द्रष्टा, नह्य् अवस्थावतां द्रष्टा तद्-अवस्थो भवतीत्य् अर्थः । **
+**“ātmā”[^20] śuddho jīvaḥ | “na jajāna” na jātaḥ, janmābhāvād eva tad-anantarāstitā-lakṣaṇo vikāro’pi nāsti | “naidhate” na vardhate, vṛddhy-abhāvād eva vipariṇāmo’pi nirastaḥ | “hi” yasmāt | “vyabhicāriṇām” āgamāpāyināṁ bāla-yuvādi-dehānāṁ deva-manuṣyādy-ākāra-dehānāṁ vā | “savana-vit” tat-tat-kāla-draṣṭā, nahy avasthāvatāṁ draṣṭā tad-avastho bhavatīty arthaḥ | **
 
-[^२०]:
-    टीका च। 
+[^20]:
+    ṭīkā ca. 
 
 
-**निरवस्थः कोऽसाव् आत्मा ? अत आह—“उपलब्धि-मात्रं” ज्ञानैक-रूपम् । कथम्-भूतम् ?“सर्वत्र” देहे, “शश्वत्” सर्वदा अनुवर्तमानम् इति । **
+**niravasthaḥ ko’sāv ātmā ? ata āha—“upalabdhi-mātraṁ” jñānaika-rūpam | katham-bhūtam ?“sarvatra” dehe, “śaśvat” sarvadā anuvartamānam iti | **
 
-**ननु, नील-ज्ञानं नष्टं पीत-ज्ञानं जातम् इति प्रतीतेर् न ज्ञानस्यानपायित्वम् ? तत्राह—“इन्द्रिय-बलेन” इति । सद् एव ज्ञानम् एकम् इन्द्रिय-बलेन विविधं कल्पितम् । नीलाद्य्-आकारा वृत्तय एव जायन्ते नश्यन्ति च, न ज्ञानम् इति भावः । अयम् आगमापायितद्-अवधि-भेदेन प्रथमस् तर्कः । द्रष्टृ-दृश्य-भेदेन द्वितीयोऽपि तर्को ज्ञेयः । व्यभिचारिष्व् अवस्था-व्यभिचारे दृष्टान्तः—“प्राणो यथा” इति ॥६॥ (५४)**
+**nanu, nīla-jñānaṁ naṣṭaṁ pīta-jñānaṁ jātam iti pratīter na jñānasyānapāyitvam ? tatrāha—“indriya-balena” iti | sad eva jñānam ekam indriya-balena vividhaṁ kalpitam | nīlādy-ākārā vṛttaya eva jāyante naśyanti ca, na jñānam iti bhāvaḥ | ayam āgamāpāyitad-avadhi-bhedena prathamas tarkaḥ | draṣṭṛ-dṛśya-bhedena dvitīyo’pi tarko jñeyaḥ | vyabhicāriṣv avasthā-vyabhicāre dṛṣṭāntaḥ—“prāṇo yathā” iti ||6|| (54)**
 
-**बलदेवः :** जीवात्मनि ज्ञाते परमात्मा सुज्ञातः स्याद् इत्य् उक्तम् । तद् अर्थं जीवात्मानं निरूपयिष्यन्न् अवतारयति तत्र यदीत्य् आदिना । अन्यार्थश् चेति ब्रह्म-सूत्रम् । दहर-विद्या छान्दोग्ये पठ्यते यद् इदम् अस्मिन् ब्रह्म-पुरे दहरं पुण्डरीकं वेश्म दहरोऽस्मिन्न् अन्तर्-आकाशस् तस्मिन् यद्-अन्तस् तद् अन्वेष्टव्यं[छा।उ। ८.१.१] इति । अत्रोपासकस्य शरीरं ब्रह्म-पुरम्, तत्र हृत्-पुण्डरीक-स्थो दहरः परमात्मा ध्येयः कथ्यते। तत्रापहत-पाप्मत्वादि-गुणाष्टकम् [छा।उ। ८.७.१]अन्वेष्टव्यम् उपदिश्यत इति सिद्धान्तितम् । तद्-वाक्य-मध्ये,स एष सम्प्रसादोऽस्माच् छरीरात् समुत्थाय परं ज्योतिर् उपसम्पद्य स्वेन रूपेणाभिनिष्पद्यते, स उत्तमः पुरुषः [छा।उ।८.१२.३] इति वाक्यं पठितम् । अत्र सम्प्रसादो लब्ध-विज्ञानो जीवस् तेन यत् परं ज्योतिर् उपपन्नं स एव पुरुषोत्तम इत्य् अर्थः । दहर-वाक्यान्तराले जीव-परामर्शः किम् अर्थम् इति चेत् तत्राह अन्यार्थ इति । तत्र जीव-परामर्शोऽन्यार्थः । यं प्राप्य जीवः स्व-स्वरूपेणाभिनिष्पद्यते स परमात्मेति परमात्म-ज्ञानार्थ इत्य् अर्थः । न जजानेति जायतेऽस्ति वर्धते विपरिणमतेऽपक्षीयते नश्यति च इति भाव-विकाराः षट् पठिताः । ते जीवस्य न सन्ति इति समुदायार्थः । ननु नील-ज्ञानम् इत्य्-आदि ज्ञान-रूपम् आत्मवस्तु ज्ञातृ भवति । प्रकाश-वस्तु सूर्यः प्रकाशयिता यथा । ततश् च स्वरूपानुबन्धित्वाज् ज्ञानं तस्य नित्यम्, तस्येन्द्रिय-प्रणाल्या नीलादि-निष्ठा या विषयता वृत्ति-पद-वाच्या सैव नीलाद्यपगमे नश्यतीति ॥५३॥
+**baladevaḥ :** jīvātmani jñāte paramātmā sujñātaḥ syād ity uktam | tad arthaṁ jīvātmānaṁ nirūpayiṣyann avatārayati tatra yadīty ādinā | anyārthaś ceti brahma-sūtram | dahara-vidyā chāndogye paṭhyate yad idam asmin brahma-pure daharaṁ puṇḍarīkaṁ veśma daharo’sminn antar-ākāśas tasmin yad-antas tad anveṣṭavyaṁ[chā.u. 8.1.1] iti | atropāsakasya śarīraṁ brahma-puram, tatra hṛt-puṇḍarīka-stho daharaḥ paramātmā dhyeyaḥ kathyate| tatrāpahata-pāpmatvādi-guṇāṣṭakam [chā.u. 8.7.1]anveṣṭavyam upadiśyata iti siddhāntitam | tad-vākya-madhye,sa eṣa samprasādo’smāc charīrāt samutthāya paraṁ jyotir upasampadya svena rūpeṇābhiniṣpadyate, sa uttamaḥ puruṣaḥ [chā.u.8.12.3] iti vākyaṁ paṭhitam | atra samprasādo labdha-vijñāno jīvas tena yat paraṁ jyotir upapannaṁ sa eva puruṣottama ity arthaḥ | dahara-vākyāntarāle jīva-parāmarśaḥ kim artham iti cet tatrāha anyārtha iti | tatra jīva-parāmarśo’nyārthaḥ | yaṁ prāpya jīvaḥ sva-svarūpeṇābhiniṣpadyate sa paramātmeti paramātma-jñānārtha ity arthaḥ | na jajāneti jāyate’sti vardhate vipariṇamate’pakṣīyate naśyati ca iti bhāva-vikārāḥ ṣaṭ paṭhitāḥ | te jīvasya na santi iti samudāyārthaḥ | nanu nīla-jñānam ity-ādi jñāna-rūpam ātmavastu jñātṛ bhavati | prakāśa-vastu sūryaḥ prakāśayitā yathā | tataś ca svarūpānubandhitvāj jñānaṁ tasya nityam, tasyendriya-praṇālyā nīlādi-niṣṭhā yā viṣayatā vṛtti-pada-vācyā saiva nīlādyapagame naśyatīti ||53||
 
-[७]
+[7]
 
-**दृष्टान्तं[^२१] विवृण्वन्न् इन्द्रियादि-लयेन निर्विकारात्मोपलब्धिं दर्शयति—**
+**dṛṣṭāntaṁ[^21] vivṛṇvann indriyādi-layena nirvikārātmopalabdhiṁ darśayati—**
 
-[^२१]:
-    टीका च ।
+[^21]:
+    ṭīkā ca |
 
 
-> **अण्डेषु पेशिषु तरुष्व् अविनिश्चितेषु **  
-> **प्राणो हि जीवम् उपधावति तत्र तत्र ।**  
-> **सन्ने यद् इन्द्रिय-गणेऽहमि च प्रसुप्ते **  
-> **कूटस्थ आशयम् ऋते तद् अनुस्मृतिर् नः ॥[भा।पु। ११.३.३९]**
+> **aṇḍeṣu peśiṣu taruṣv aviniściteṣu **  
+> **prāṇo hi jīvam upadhāvati tatra tatra |**  
+> **sanne yad indriya-gaṇe’hami ca prasupte **  
+> **kūṭastha āśayam ṛte tad anusmṛtir naḥ ||[bhā.pu. 11.3.39]**
 
-**_अण्डेषु_ अण्डजेषु । _पेशिषु_जरायुजेषु । _तरुषु_उद्भिज्जेषु । _अविनिश्चितेषु_स्वेदजेषु । _उपधावति_ अनुवर्तते । एवं दृष्टान्ते निर्विकारत्वं प्रदर्श्य, दार्ष्टान्तिकेऽपि दर्शयति । कथम् ? तदैवात्मा स-विकार इव प्रतीयते यदा जागरे इन्द्रिय-गणः, यदा च स्वप्ने तत्-संस्कारवान् अहङ्कारः, यदा तु प्रसुप्तं, तदा तस्मिन् _प्रसुप्तैन्द्रिय-गणे सन्ने_ लीने,_अहमि_ अहङ्कारे च सन्ने लीने। _कूटस्थो_ निर्विकार एवात्मा । कुतः ? _आशयम् ऋते_ लिङ्ग-शरीरम् उपाधिं विना, विकार-हेतोर् उपाधेर् अभावात् इत्य् अर्थः । **
+**_aṇḍeṣu_ aṇḍajeṣu | _peśiṣu_jarāyujeṣu | _taruṣu_udbhijjeṣu | _aviniściteṣu_svedajeṣu | _upadhāvati_ anuvartate | evaṁ dṛṣṭānte nirvikāratvaṁ pradarśya, dārṣṭāntike’pi darśayati | katham ? tadaivātmā sa-vikāra iva pratīyate yadā jāgare indriya-gaṇaḥ, yadā ca svapne tat-saṁskāravān ahaṅkāraḥ, yadā tu prasuptaṁ, tadā tasmin _prasuptaindriya-gaṇe sanne_ līne,_ahami_ ahaṅkāre ca sanne līne| _kūṭastho_ nirvikāra evātmā | kutaḥ ? _āśayam ṛte_ liṅga-śarīram upādhiṁ vinā, vikāra-hetor upādher abhāvāt ity arthaḥ | **
 
-**नन्व् अहङ्कार-पर्यन्तस्य सर्वस्य लये शून्यम् एवावशिष्यते । क्व तदा कूटस्थ आत्मा ? अत आह—_तद्-अनुस्मृतिर् नः_ । तस्याखण्डात्मनः सुष्प्ति-साक्षिणः स्मृतिः नः अस्माकं जाग्रद्-द्रष्टॄणां जायते,“एतावन्तं कालं सुखम् अहम् अस्वाप्सं न किञ्चिद् अवेदिषम्” इति। अतोऽननुभूतस्य तस्यास्मरणाद् अस्त्य् एव सुष्प्तौ ताद्र्ग्-आत्मानुभवः । विषय-सम्बन्धाभावाच् च न स्पष्ट इति भावः । अतः स्व-प्रकाश-मात्र-वस्तुनः सूर्यादेः प्रकाशवद् उपलब्धि-मात्रस्याप्य् आत्मन उपलब्धिः स्वाश्रयेऽस्त्य् एवेत्य् आयातम् ।  **
+**nanv ahaṅkāra-paryantasya sarvasya laye śūnyam evāvaśiṣyate | kva tadā kūṭastha ātmā ? ata āha—_tad-anusmṛtir naḥ_ | tasyākhaṇḍātmanaḥ suṣpti-sākṣiṇaḥ smṛtiḥ naḥ asmākaṁ jāgrad-draṣṭṝṇāṁ jāyate,“etāvantaṁ kālaṁ sukham aham asvāpsaṁ na kiñcid avediṣam” iti| ato’nanubhūtasya tasyāsmaraṇād asty eva suṣptau tādrg-ātmānubhavaḥ | viṣaya-sambandhābhāvāc ca na spaṣṭa iti bhāvaḥ | ataḥ sva-prakāśa-mātra-vastunaḥ sūryādeḥ prakāśavad upalabdhi-mātrasyāpy ātmana upalabdhiḥ svāśraye’sty evety āyātam |  **
 
-**तथा च **श्रुतिः—**यद् वै तन् न पश्यति पश्यन् वै द्रष्टव्यान् न पश्यति, न हि द्रष्टुर् दृष्टोर्विपरि-लोपो विद्यते [बृ।आ।उ। ४.३.२३] इत्य् एषा । **
+**tathā ca **śrutiḥ—**yad vai tan na paśyati paśyan vai draṣṭavyān na paśyati, na hi draṣṭur dṛṣṭorvipari-lopo vidyate [bṛ.ā.u. 4.3.23] ity eṣā | **
 
-**अयं साक्षि-साक्ष्य-विभागेन तृतीयस् तर्कः । दुःखि-प्रेमास्पदत्व-विभागेन चतुर्थोऽपि तर्कोऽवगन्तव्यः ॥७॥ (५४)**
+**ayaṁ sākṣi-sākṣya-vibhāgena tṛtīyas tarkaḥ | duḥkhi-premāspadatva-vibhāgena caturtho’pi tarko’vagantavyaḥ ||7|| (54)**
 
-**बलदेवः :** दृष्टान्तम् इति प्राणस्य नाना-देहेष्व् ऐकरूप्यान् निर्विकारत्वम् इत्य् अर्थः । तस्मिन्न् आत्मनि । उपाधेर् लिङ्ग-शरीरस्य । अभावाद् विश्लेषाद् इत्य् अर्थः । तदाप्य् अतिसूक्ष्माया वासनायाः सत्त्वान् मुक्तेर् अभाव इति ज्ञेयम् । प्राकृताहङ्कारे लीनेऽपि स्वरूपानुबन्धिनोऽहम् अर्थस्य सत्त्वात् तेन सुखम् अहम् अस्वाप्सम् इति विमर्शो भवतीति प्रतिपादयितुम् आह नन्व् इत्य्-आदि । शून्यम् एवेति अहं-प्रत्यय्ं विनात्मनोऽप्रतीतेर् इति भावः । अखण्डात्मन इति । अणु-रूपत्वाद् विभागानर्हस्येत्य् अर्थः । 
+**baladevaḥ :** dṛṣṭāntam iti prāṇasya nānā-deheṣv aikarūpyān nirvikāratvam ity arthaḥ | tasminn ātmani | upādher liṅga-śarīrasya | abhāvād viśleṣād ity arthaḥ | tadāpy atisūkṣmāyā vāsanāyāḥ sattvān mukter abhāva iti jñeyam | prākṛtāhaṅkāre līne’pi svarūpānubandhino’ham arthasya sattvāt tena sukham aham asvāpsam iti vimarśo bhavatīti pratipādayitum āha nanv ity-ādi | śūnyam eveti ahaṁ-pratyayṁ vinātmano’pratīter iti bhāvaḥ | akhaṇḍātmana iti | aṇu-rūpatvād vibhāgānarhasyety arthaḥ | 
 
-ननु स्वापाद् उत्थितस्यात्मनो,हङ्कारेण योगात् सुखम् अहम् अस्वाप्सम् इति विमर्शो जागरे सिध्यति । सुषुप्तौ तु चिन्-मात्रः स इति चेत् तत्राह अतोऽननुभूतस्येति। अनुभव-स्मरणयोः सामानाधिकरण्याद् इत्य् अर्थः । तस्मात् तस्याम् अप्य् अनुभवितैवात्मेति सिद्धम् । ननूपलब्धि-मात्रम् इत्य् उक्तम् । तस्योपलब्धृत्वं कथम् । तत्राह अत इत्य्-आदि । यद् वै इति । तद्-आत्म-चैतन्यं कर्तृ । सुषुप्तौ न पश्यतीति यद् उच्यते तत् खलु द्रष्टव्य-विषयाभावाद् एव, न तु द्रष्टृत्वाभावाद् इत्य् अर्थः । स्फुटम् अन्यत् ॥५४॥
+nanu svāpād utthitasyātmano,haṅkāreṇa yogāt sukham aham asvāpsam iti vimarśo jāgare sidhyati | suṣuptau tu cin-mātraḥ sa iti cet tatrāha ato’nanubhūtasyeti| anubhava-smaraṇayoḥ sāmānādhikaraṇyād ity arthaḥ | tasmāt tasyām apy anubhavitaivātmeti siddham | nanūpalabdhi-mātram ity uktam | tasyopalabdhṛtvaṁ katham | tatrāha ata ity-ādi | yad vai iti | tad-ātma-caitanyaṁ kartṛ | suṣuptau na paśyatīti yad ucyate tat khalu draṣṭavya-viṣayābhāvād eva, na tu draṣṭṛtvābhāvād ity arthaḥ | sphuṭam anyat ||54||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[७ब्]
+[7b]
 
-**तद् उक्तं—**
+**tad uktaṁ—**
 
 
-> **अन्वय-व्यतिरेकाख्यस् तर्कः स्याच् चतुरात्मकः ।**  
-> **आगमापायितदवधि-भेदेन प्रथमो मतः ॥**  
-> **द्रष्टृ-दृश्य-विभागेन द्वितीयोऽपि मतस् तथा ।**  
-> **साक्षि-साक्ष्य-विभागेन तृतीयः सम्मतः सताम् ॥**  
-> **दुःखि-प्रेमास्पदत्वेन चतुर्थः सुख-बोधकः ॥ इति ॥७ब्॥ (५५)**
+> **anvaya-vyatirekākhyas tarkaḥ syāc caturātmakaḥ |**  
+> **āgamāpāyitadavadhi-bhedena prathamo mataḥ ||**  
+> **draṣṭṛ-dṛśya-vibhāgena dvitīyo’pi matas tathā |**  
+> **sākṣi-sākṣya-vibhāgena tṛtīyaḥ sammataḥ satām ||**  
+> **duḥkhi-premāspadatvena caturthaḥ sukha-bodhakaḥ || iti ||7b|| (55)**
 
-**॥११.३॥ इति श्री-पिप्पलायनो निमिम् ॥६-७॥**
+**||11.3|| iti śrī-pippalāyano nimim ||6-7||**
 
-**बलदेवः :** पद्ययोर् व्याख्याने चत्वारस् तर्का योजितास् तान् अभियुक्तोक्ताभ्यां सार्धकारिकाभ्यां निर्दिशति अन्वयेति । तर्क-शब्देन तर्काङ्गकम् अनुमानं बोध्यम् । आगमापायिनो दृश्यात् साक्ष्याद् दुःखास्पदाच् च देहादेर् आत्मा भिद्यते । तद्-अवधित्वात्, तद्-द्रष्टृत्वात्, तत्-साक्षित्वात्, प्रेमास्पदत्वाच् चेति क्रमेण हेतवो नेयाः । व्यतिरेकश् चोह्यः॥५५॥
+**baladevaḥ :** padyayor vyākhyāne catvāras tarkā yojitās tān abhiyuktoktābhyāṁ sārdhakārikābhyāṁ nirdiśati anvayeti | tarka-śabdena tarkāṅgakam anumānaṁ bodhyam | āgamāpāyino dṛśyāt sākṣyād duḥkhāspadāc ca dehāder ātmā bhidyate | tad-avadhitvāt, tad-draṣṭṛtvāt, tat-sākṣitvāt, premāspadatvāc ceti krameṇa hetavo neyāḥ | vyatirekaś cohyaḥ||55||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[८] 
+[8] 
 
-**एवम्-भूतानां जीवानां चिन्-मात्रं यत् स्वरूपं, तयैवाकृत्या तद्-अंशित्वेन च तद्-अभिन्नं यत् तत्त्वं तद् अत्र वाच्यम् इति व्यष्टि-निर्देश-द्वारा प्रोक्तम् । तद् एव ह्य् आश्रय-संज्ञकं महापुराण-लक्षण-रूपैः सर्गादिभिर् अर्थैः समष्टि-निर्देश-द्वारापि लक्ष्यत इत्य् अत्राह द्वाभ्याम्—**
+**evam-bhūtānāṁ jīvānāṁ cin-mātraṁ yat svarūpaṁ, tayaivākṛtyā tad-aṁśitvena ca tad-abhinnaṁ yat tattvaṁ tad atra vācyam iti vyaṣṭi-nirdeśa-dvārā proktam | tad eva hy āśraya-saṁjñakaṁ mahāpurāṇa-lakṣaṇa-rūpaiḥ sargādibhir arthaiḥ samaṣṭi-nirdeśa-dvārāpi lakṣyata ity atrāha dvābhyām—**
 
 
-> **अत्र सर्गो विसर्गश् च स्थानं पोषणम् ऊतयः ।**  
-> **मन्वन्तरेशानुकथा निरोधो मुक्तिर् आश्रयः ॥**  
-> **दशमस्य विशुद्ध्य्-अर्थं नवानाम् इह लक्षणम् ।**  
-> **वर्णयन्ति महात्मानः श्रुतेनार्थेन चाञ्जसा ॥ [भा।पु। २.१०.१-२]**
+> **atra sargo visargaś ca sthānaṁ poṣaṇam ūtayaḥ |**  
+> **manvantareśānukathā nirodho muktir āśrayaḥ ||**  
+> **daśamasya viśuddhy-arthaṁ navānām iha lakṣaṇam |**  
+> **varṇayanti mahātmānaḥ śrutenārthena cāñjasā || [bhā.pu. 2.10.1-2]**
 
-**मन्वन्तराणि चेशानुकथाश् च मन्वन्तरेशानुकथाः । अत्र सर्गादयो दशार्था लक्ष्यन्त इत्य् अर्थः । तत्र च दशमस्य विशुद्ध्य्-अर्थं तत्त्व-ज्ञानार्थं नवानां लक्षणं स्वरूपं वर्णयन्ति । नन्व् अत्र नैवं प्रतीयते ? अत आह श्रुतेन श्रुत्या कण्ठोक्त्यैव स्तुत्य्-आदि-स्थानेषु, अञ्जसा साक्षाद् वर्णयन्ति । अर्थेन तात्पर्य-वृत्त्या च तत्-तद्-आख्यानेषु ॥८।**।
+**manvantarāṇi ceśānukathāś ca manvantareśānukathāḥ | atra sargādayo daśārthā lakṣyanta ity arthaḥ | tatra ca daśamasya viśuddhy-arthaṁ tattva-jñānārthaṁ navānāṁ lakṣaṇaṁ svarūpaṁ varṇayanti | nanv atra naivaṁ pratīyate ? ata āha śrutena śrutyā kaṇṭhoktyaiva stuty-ādi-sthāneṣu, añjasā sākṣād varṇayanti | arthena tātparya-vṛttyā ca tat-tad-ākhyāneṣu ||8|**|
 
-**बलदेवः :** ईश्वर-ज्ञानार्थं जीव-स्वरूप-ज्ञानं निर्णीतम् । अथ तत्-सादृश्येनेश्वर-स्वरूपं निर्णेतुं पूर्वोक्तं योजयति एवम्भूतानाम् इत्य्-आदिना । चिन्-मात्रं यत् स्वरूपम् इति चेतयितृ चेति बोध्यं पूर्व-निरूपणात् । ततहिवाकृत्येति चिन्मात्रत्वे सति चेतयितृत्वं याकृतिर् जातिस् तयेत्य् अर्थः । आकृतिस् तु स्त्रियां रूपे सामान्य-वपुषोर् अपि इति मेदिनी । तद्-अंशित्वेन जीवांशित्वेन चेत्य् अर्थः । तद्-अभिन्नं जीवाभिन्नं यद् ब्रह्म-तत्त्वम् । अंशः खल्व् अंशिनो न भिद्यते व्यष्टिर् इत्य् अर्थः । जीवादि-शक्तिमद् ब्रह्म समष्टिः । जीवस् तु व्यष्टिः । तादृश-समष्टि-ब्रह्म-निरूपणेन तस्य तथात्वं वक्तव्यम् इत्य् अर्थः । दशमस्य चेश्वरस्य । अवशिष्टः स्फुटार्थः ॥५६॥
+**baladevaḥ :** īśvara-jñānārthaṁ jīva-svarūpa-jñānaṁ nirṇītam | atha tat-sādṛśyeneśvara-svarūpaṁ nirṇetuṁ pūrvoktaṁ yojayati evambhūtānām ity-ādinā | cin-mātraṁ yat svarūpam iti cetayitṛ ceti bodhyaṁ pūrva-nirūpaṇāt | tatahivākṛtyeti cinmātratve sati cetayitṛtvaṁ yākṛtir jātis tayety arthaḥ | ākṛtis tu striyāṁ rūpe sāmānya-vapuṣor api iti medinī | tad-aṁśitvena jīvāṁśitvena cety arthaḥ | tad-abhinnaṁ jīvābhinnaṁ yad brahma-tattvam | aṁśaḥ khalv aṁśino na bhidyate vyaṣṭir ity arthaḥ | jīvādi-śaktimad brahma samaṣṭiḥ | jīvas tu vyaṣṭiḥ | tādṛśa-samaṣṭi-brahma-nirūpaṇena tasya tathātvaṁ vaktavyam ity arthaḥ | daśamasya ceśvarasya | avaśiṣṭaḥ sphuṭārthaḥ ||56||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[९-११]
+[9-11]
 
-**तम् एव दशमं विस्पष्टयितुं तेषां दशानां व्युत्पादिकां सप्त-श्लोकीम् आह—-**
+**tam eva daśamaṁ vispaṣṭayituṁ teṣāṁ daśānāṁ vyutpādikāṁ sapta-ślokīm āha—-**
 
 
-> **भूत-मात्रेन्द्रिय-धियां जन्म सर्ग उदाहृतः**  
-> **ब्रह्मणो गुण-वैषम्याद् विसर्गः पौरुषः स्मृतः ॥ [भा।पु। २.१०.३]**
+> **bhūta-mātrendriya-dhiyāṁ janma sarga udāhṛtaḥ**  
+> **brahmaṇo guṇa-vaiṣamyād visargaḥ pauruṣaḥ smṛtaḥ || [bhā.pu. 2.10.3]**
 
-**भूतानि खादीनि । मात्राणि च शब्दादीनि इन्द्रियाणि च । धी-शब्देन महद्-अहङ्कारौ । गुणानां वैषम्यात् परिणामात् । ब्रह्मणः परमेश्वरात् कर्तृ-भूतादीनां जन्म सर्गः । पुरुषो वैराजो ब्रह्मा, तत्-कृतः पौरुषश् चराचर-सर्गो विसर्ग इत्य् अर्थः ।**
+**bhūtāni khādīni | mātrāṇi ca śabdādīni indriyāṇi ca | dhī-śabdena mahad-ahaṅkārau | guṇānāṁ vaiṣamyāt pariṇāmāt | brahmaṇaḥ parameśvarāt kartṛ-bhūtādīnāṁ janma sargaḥ | puruṣo vairājo brahmā, tat-kṛtaḥ pauruṣaś carācara-sargo visarga ity arthaḥ |**
 
 
-> **स्थितिर् वैकुण्ठ-विजयः पोषणं तद्-अनुग्रहः**  
-> **मन्वन्तराणि सद्-धर्म ऊतयः कर्म-वासनाः**  
-> **अवतारानुचरितं हरेश् चास्यानुवर्तिनाम्**  
-> **पुंसाम् ईश-कथाः प्रोक्ता नानाख्यानोपबृंहिताः ॥ [भा।पु। २.१०.४-५]**
+> **sthitir vaikuṇṭha-vijayaḥ poṣaṇaṁ tad-anugrahaḥ**  
+> **manvantarāṇi sad-dharma ūtayaḥ karma-vāsanāḥ**  
+> **avatārānucaritaṁ hareś cāsyānuvartinām**  
+> **puṁsām īśa-kathāḥ proktā nānākhyānopabṛṁhitāḥ || [bhā.pu. 2.10.4-5]**
 
-**वैकुण्ठस्य भगवतो विजयः सृष्टानां तत्-तन्-मर्यादा-पालनेनोत्कर्षः । स्थितिः स्थानम् । ततः स्थितेषु स्वभक्तेषु तस्यानुग्रहः पोषणम् । मन्वन्तराणि तत्-तन्-मन्वन्तर-स्थितानां मन्वादीनां तद्-अनुगृहीतानां सतां चरितानि, तान्य् एव धर्मस् तद्-उपासनाख्यः सद्-धर्मः । तत्रैव स्थितौ नाना-कर्म-वासना ऊतयः । स्थिताव् एव हरेर् अवतारानुचरितम् अस्यानुवर्तिनां च कथा ईशानुकथाः प्रोक्ता इत्य् अर्थः ।**
+**vaikuṇṭhasya bhagavato vijayaḥ sṛṣṭānāṁ tat-tan-maryādā-pālanenotkarṣaḥ | sthitiḥ sthānam | tataḥ sthiteṣu svabhakteṣu tasyānugrahaḥ poṣaṇam | manvantarāṇi tat-tan-manvantara-sthitānāṁ manvādīnāṁ tad-anugṛhītānāṁ satāṁ caritāni, tāny eva dharmas tad-upāsanākhyaḥ sad-dharmaḥ | tatraiva sthitau nānā-karma-vāsanā ūtayaḥ | sthitāv eva harer avatārānucaritam asyānuvartināṁ ca kathā īśānukathāḥ proktā ity arthaḥ |**
 
 
-> **निरोधोऽस्यानुशयनम् आत्मनः सह शक्तिभिः ।**  
-> **मुक्तिर् हित्वान्यथा रूपं स्व-रूपेण व्यवस्थितिः ॥[भा।पु। २.१०.६]**
+> **nirodho’syānuśayanam ātmanaḥ saha śaktibhiḥ |**  
+> **muktir hitvānyathā rūpaṁ sva-rūpeṇa vyavasthitiḥ ||[bhā.pu. 2.10.6]**
 
-**स्थित्य्-अनन्तरं चात्मनो जीवस्य शक्तिभिः स्वोपाधिभिः सहास्य हरेर् अनुशयनम्, हरि-शयनानुगतत्वेन शयनं निरोध इत्य् अर्थः । तत्र हरेः शयनं प्रपञ्चं प्रति दृष्टि-निमीलनम् । जीवानां शयनं तत्र लय इति ज्ञेयम् । तत्रैव निरोधेऽन्यथारूपम् अविद्याध्यस्तम् अज्ञत्वादिकं हित्वा स्वरूपेण व्यवस्थितिर् मुक्तिः ॥९-११॥ (५७)**
+**sthity-anantaraṁ cātmano jīvasya śaktibhiḥ svopādhibhiḥ sahāsya harer anuśayanam, hari-śayanānugatatvena śayanaṁ nirodha ity arthaḥ | tatra hareḥ śayanaṁ prapañcaṁ prati dṛṣṭi-nimīlanam | jīvānāṁ śayanaṁ tatra laya iti jñeyam | tatraiva nirodhe’nyathārūpam avidyādhyastam ajñatvādikaṁ hitvā svarūpeṇa vyavasthitir muktiḥ ||9-11|| (57)**
 
-**बलदेवः :** सर्गादीन् दश व्युत्पादयति तद् एवम् इत्य्-आदिना । ब्रह्मणः परमेश्वराद् इति । कारण-सृष्टिः पारमेश्वरी । कार्य-सृष्टिस् तु वैरिञ्चीत्य् अर्थः । मुक्तिर् इति भगवद्-वैमुख्यानुगतयाऽविद्यया रचितम् अन्यथा-रूपं देवम् आनवादिभावं हित्वा तत्-साम्मुख्यानुप्रवृत्तया तद्-भक्त्या विनाश्य, स्वरूपेणापहत-पाप्मत्वादि-गुणाष्टक-विशिष्टेन जीव-स्वरूपेण जीवस्य व्यवस्थितिर् विशिष्टा पुनर् आवृत्ति-शून्या पुनर् आवृत्ति-शून्या भगवत्-सन्निधौ स्थितिर् मुक्तिर् इत्य् अर्थः ॥५७॥
+**baladevaḥ :** sargādīn daśa vyutpādayati tad evam ity-ādinā | brahmaṇaḥ parameśvarād iti | kāraṇa-sṛṣṭiḥ pārameśvarī | kārya-sṛṣṭis tu vairiñcīty arthaḥ | muktir iti bhagavad-vaimukhyānugatayā’vidyayā racitam anyathā-rūpaṁ devam ānavādibhāvaṁ hitvā tat-sāmmukhyānupravṛttayā tad-bhaktyā vināśya, svarūpeṇāpahata-pāpmatvādi-guṇāṣṭaka-viśiṣṭena jīva-svarūpeṇa jīvasya vyavasthitir viśiṣṭā punar āvṛtti-śūnyā punar āvṛtti-śūnyā bhagavat-sannidhau sthitir muktir ity arthaḥ ||57||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१२]
+[12]
 
 
-> **आभासश् च निरोधश् च यतोऽस्त्य् अध्यवसीयते** ।  
-> **स आश्रयः परं ब्रह्म परमात्मेति शब्द्यते ।**।**[भा।पु। २.१०.७]**
+> **ābhāsaś ca nirodhaś ca yato’sty adhyavasīyate** |  
+> **sa āśrayaḥ paraṁ brahma paramātmeti śabdyate |**|**[bhā.pu. 2.10.7]**
 
-**आभासः सृष्टिः । निरोधो लयश् च यतो भवति । अध्यवसीयत उपलभ्यते जीवानां ज्ञानेन्द्रियेषु प्रकाशते च । स ब्रह्मेति परमात्मेति प्रसिद्ध आश्रयः कथ्यते । इति-शब्दः प्रकारार्थः । तेन भगवान् इति च । अस्य विवृतिर् अग्रे विधेया ॥१२॥ (५८)**
+**ābhāsaḥ sṛṣṭiḥ | nirodho layaś ca yato bhavati | adhyavasīyata upalabhyate jīvānāṁ jñānendriyeṣu prakāśate ca | sa brahmeti paramātmeti prasiddha āśrayaḥ kathyate | iti-śabdaḥ prakārārthaḥ | tena bhagavān iti ca | asya vivṛtir agre vidheyā ||12|| (58)**
 
-**बलदेवः :** अथ नवभिः सर्गादिभिर् लक्षणीयम् आश्रय-तत्त्वम् आह आभासश् चेति । यत इति हेतौ पञ्चमी ॥५८॥
+**baladevaḥ :** atha navabhiḥ sargādibhir lakṣaṇīyam āśraya-tattvam āha ābhāsaś ceti | yata iti hetau pañcamī ||58||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१३]
+[13]
 
-**स्थितौ च तत्राश्रय-स्वरूपम् अपरोक्षानुभवेन व्यष्टि-द्वारापि स्पष्टं दर्शयितुम् अध्यात्मादि-विभागम् आह—**
+**sthitau ca tatrāśraya-svarūpam aparokṣānubhavena vyaṣṭi-dvārāpi spaṣṭaṁ darśayitum adhyātmādi-vibhāgam āha—**
 
 
-> **योऽध्यात्मिकोऽयं पुरुषः सोऽसाव् एवाधिदैविकः ।**  
-> **यस् तत्रोभय-विच्छेदः पुरुषो ह्य् आधिभौतिकः ॥**  
-> **एकम् एकतराभावे यदा नोपलभामहे ।**  
-> **त्रितयं तत्र यो वेद स आत्मा स्वाश्रयाश्रयः ॥ [भा।पु। २.१०.८-९]**
+> **yo’dhyātmiko’yaṁ puruṣaḥ so’sāv evādhidaivikaḥ |**  
+> **yas tatrobhaya-vicchedaḥ puruṣo hy ādhibhautikaḥ ||**  
+> **ekam ekatarābhāve yadā nopalabhāmahe |**  
+> **tritayaṁ tatra yo veda sa ātmā svāśrayāśrayaḥ || [bhā.pu. 2.10.8-9]**
 
-**योऽयम् आध्यात्मिकः पुरुषश् चक्षुर्-आदि-करणाभिमानी द्रष्टा जीवः । स एवाधिदैविकश् चक्षुर्-आद्य्-अधिष्ठाता सूर्यादिः । देह-सृष्टेः पूर्वं करणानाम् अधिष्ठानाभावेनाक्षमतया करण-प्रकाश-कर्तृत्वाभिमानि-तत्-सहाययोर् उभयोर् अपि तयोर् वृत्ति-भेदानुदयेन जीवत्व-मात्राविशेषात् । ततश् चोभयः करणाभिमानि-तद्-अधिष्ठातृ-देवता-रूपो द्विरूपो विच्छेदो यस्मात् । स आधिभौतिकश् चक्षुर्-गोलकाद्य्-उपलक्षितो दृश्यो देहः पुरुष इति पुरुषस्य जीवस्योपाधिः । स वा एष पुरुषोऽन्न-रस-मयः [तै।उ।२.१] इत्य्-आदि श्रुतेः ॥१३॥ (५९)**
+**yo’yam ādhyātmikaḥ puruṣaś cakṣur-ādi-karaṇābhimānī draṣṭā jīvaḥ | sa evādhidaivikaś cakṣur-ādy-adhiṣṭhātā sūryādiḥ | deha-sṛṣṭeḥ pūrvaṁ karaṇānām adhiṣṭhānābhāvenākṣamatayā karaṇa-prakāśa-kartṛtvābhimāni-tat-sahāyayor ubhayor api tayor vṛtti-bhedānudayena jīvatva-mātrāviśeṣāt | tataś cobhayaḥ karaṇābhimāni-tad-adhiṣṭhātṛ-devatā-rūpo dvirūpo vicchedo yasmāt | sa ādhibhautikaś cakṣur-golakādy-upalakṣito dṛśyo dehaḥ puruṣa iti puruṣasya jīvasyopādhiḥ | sa vā eṣa puruṣo’nna-rasa-mayaḥ [tai.u.2.1] ity-ādi śruteḥ ||13|| (59)**
 
-**बलदेवः :** ननु करणाभिमानिनो जीवस्य करण-प्रवर्तक-सूर्यादित्वम् अत्र कथम् । तत्राह देह-सृष्टेः पूर्वम् इति करणानाम् इति । अधिष्ठानाभावेन चक्षुर्-गोलकाद्य्-अभावेनेत्य् अर्थः । उभयोर् अपि तयोर् वृत्ति-भेदानुदयेनेति करणानां विषय-ग्रहणं वृत्तिः । देवतानां तु तत्र प्रवर्तकत्वं वृत्तिः । अयम् अत्र निष्कर्षः देहोत्पत्तेः पूर्वम् अपि जीवेन सार्धम् इन्द्रियाणि तद्-देवताश् च सन्त्य् एव । तदा तेषां वृत्त्य्-अभावाज् जीवेऽन्तर्भावो विवक्षितः । उत्पन्ने तु देहे तयोर् विभागो यद्-भवतीत्य् आह ततश् चोभय इति ॥५९॥
+**baladevaḥ :** nanu karaṇābhimānino jīvasya karaṇa-pravartaka-sūryāditvam atra katham | tatrāha deha-sṛṣṭeḥ pūrvam iti karaṇānām iti | adhiṣṭhānābhāvena cakṣur-golakādy-abhāvenety arthaḥ | ubhayor api tayor vṛtti-bhedānudayeneti karaṇānāṁ viṣaya-grahaṇaṁ vṛttiḥ | devatānāṁ tu tatra pravartakatvaṁ vṛttiḥ | ayam atra niṣkarṣaḥ dehotpatteḥ pūrvam api jīvena sārdham indriyāṇi tad-devatāś ca santy eva | tadā teṣāṁ vṛtty-abhāvāj jīve’ntarbhāvo vivakṣitaḥ | utpanne tu dehe tayor vibhāgo yad-bhavatīty āha tataś cobhaya iti ||59||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१३ब्]
+[13b]
 
-**एकम् एकतराभाव इत्य् एषाम् अन्योन्य-सापेक्ष-सिद्धत्वे नानाश्रयत्वं दर्शयति । तथा हि दृश्यं विना तत्-प्रतीत्य्-अनुमेयं करणं न सिध्यति । नापि द्रष्टा न च तद् विना करण-प्रवृत्त्य्-अनुमेयस् तद्-अधिष्ठाता सूर्यादिः । न च तं विना करणं प्रवर्तते । न च तद् विना दृश्यम् इत्य् एकतरस्याभाव एकं नोपलभामहे । तत्र तदा तत्-त्रितयम् आलोचनात्मकेन प्रत्ययेन । यो वेद साक्षितया पश्यति स परमात्मा आश्रयः । तेषाम् अपि परस्परम् आश्रयत्वम् अस्तीति तद्-व्यवच्छेदार्थं विशेषणं स्वाश्रयोऽनन्याश्रयः । स चासाव् अन्येषाम् आश्रयश् चेति । तत्रांशांशिनोः शुद्ध-जीव-परमात्मनोर् अभेदांश-स्वीकारेणैवाश्रय उक्तः । अतः परोऽपि मनुतेऽनर्थं [भा।पु। १.७.५] इति । **
+**ekam ekatarābhāva ity eṣām anyonya-sāpekṣa-siddhatve nānāśrayatvaṁ darśayati | tathā hi dṛśyaṁ vinā tat-pratīty-anumeyaṁ karaṇaṁ na sidhyati | nāpi draṣṭā na ca tad vinā karaṇa-pravṛtty-anumeyas tad-adhiṣṭhātā sūryādiḥ | na ca taṁ vinā karaṇaṁ pravartate | na ca tad vinā dṛśyam ity ekatarasyābhāva ekaṁ nopalabhāmahe | tatra tadā tat-tritayam ālocanātmakena pratyayena | yo veda sākṣitayā paśyati sa paramātmā āśrayaḥ | teṣām api parasparam āśrayatvam astīti tad-vyavacchedārthaṁ viśeṣaṇaṁ svāśrayo’nanyāśrayaḥ | sa cāsāv anyeṣām āśrayaś ceti | tatrāṁśāṁśinoḥ śuddha-jīva-paramātmanor abhedāṁśa-svīkāreṇaivāśraya uktaḥ | ataḥ paro’pi manute’narthaṁ [bhā.pu. 1.7.5] iti | **
 
 
-> **जाग्रत्-स्वप्न-सुषुप्तं च गुणतो बुद्धि-वृत्तयः ।**  
-> **तासां विलक्षणो जीवः साक्षित्वेन विवक्षितः ॥ [भा।पु। ११.१३.२७] इति ।**
+> **jāgrat-svapna-suṣuptaṁ ca guṇato buddhi-vṛttayaḥ |**  
+> **tāsāṁ vilakṣaṇo jīvaḥ sākṣitvena vivakṣitaḥ || [bhā.pu. 11.13.27] iti |**
 
-**शुद्धो विचष्टे ह्य् अविशुद्ध-कर्तुः [भा।पु। ५.११.१२] इत्य् आद्य् उक्तस्य साक्षि-संज्ञिनः शुद्ध-जीवस्याश्रयत्वं न शङ्कनीयम् । अथवा नन्व् आध्यात्मिकादीनाम् अप्य् आश्रयत्वम् अस्त्य् एव । सत्यम् । तथापि परस्पराश्रयत्वान् न तत्राश्रयताकैवल्यम् इति ते त्व् आश्रय-शब्देन मुख्यतया नोच्यन्त इत्य् आह एकम् इति । तर्हि साक्षिण एवास्ताम् आश्रयत्वम् । तत्राह त्रितयम् इति । स आत्मा साक्षी जीवस् तु यः स्वाश्रयोऽनन्याश्रयः परमात्मा स एवाश्रयो यस्य तथाभूत इति । वक्ष्यते च हंस-गुह्य-स्तवे सर्वं पुमान् वेद गुणांश् च तज्-ज्ञो न वेद सर्वज्ञम् अनन्तम् ईडे [भा।पु। ६.४.२५] इति । तस्मात् आभासश् च [भा।पु। २.१०.७] इत्य्-आदिनोक्तः परमात्मैवाश्रय इति ॥१३ब्॥ (६०)**
+**śuddho vicaṣṭe hy aviśuddha-kartuḥ [bhā.pu. 5.11.12] ity ādy uktasya sākṣi-saṁjñinaḥ śuddha-jīvasyāśrayatvaṁ na śaṅkanīyam | athavā nanv ādhyātmikādīnām apy āśrayatvam asty eva | satyam | tathāpi parasparāśrayatvān na tatrāśrayatākaivalyam iti te tv āśraya-śabdena mukhyatayā nocyanta ity āha ekam iti | tarhi sākṣiṇa evāstām āśrayatvam | tatrāha tritayam iti | sa ātmā sākṣī jīvas tu yaḥ svāśrayo’nanyāśrayaḥ paramātmā sa evāśrayo yasya tathābhūta iti | vakṣyate ca haṁsa-guhya-stave sarvaṁ pumān veda guṇāṁś ca taj-jño na veda sarvajñam anantam īḍe [bhā.pu. 6.4.25] iti | tasmāt ābhāsaś ca [bhā.pu. 2.10.7] ity-ādinoktaḥ paramātmaivāśraya iti ||13b|| (60)**
 
-**॥ २.१० ॥ श्री-शुकः ॥ ८-१३॥**
+**|| 2.10 || śrī-śukaḥ || 8-13||**
 
-**बलदेवः :** आध्यात्मिकादीनां त्रयाणां मिथः सापेक्षत्वेन सिद्धेस् तेषाम् आश्रयत्वं नास्तीति व्याचष्टे एकम् एकतरेत्य् आदिना । त्रितयम् आध्यात्मिकादि-त्रितयम् । ननु शुद्धस्य जीवस्य देहेन्द्रियादि-साक्षित्वाभिधानेनान्यान् अपेक्षत्व-सिद्धेस् तस्याश्रयत्वं कुतो न ब्रूस तत्राह अत्रांशांशिनोर् इति । अंशिनांशोऽपीह गृहीत इत्य् अर्थः । असन्तोषाद् व्याख्यान्तरम् अथवेति । तर्हीति साक्षिणः शुद्ध-जीवस्य । सर्वम् इति पुमान् जीवः ॥६०॥
+**baladevaḥ :** ādhyātmikādīnāṁ trayāṇāṁ mithaḥ sāpekṣatvena siddhes teṣām āśrayatvaṁ nāstīti vyācaṣṭe ekam ekatarety ādinā | tritayam ādhyātmikādi-tritayam | nanu śuddhasya jīvasya dehendriyādi-sākṣitvābhidhānenānyān apekṣatva-siddhes tasyāśrayatvaṁ kuto na brūsa tatrāha atrāṁśāṁśinor iti | aṁśināṁśo’pīha gṛhīta ity arthaḥ | asantoṣād vyākhyāntaram athaveti | tarhīti sākṣiṇaḥ śuddha-jīvasya | sarvam iti pumān jīvaḥ ||60||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१४]
+[14]
 
-**अस्य श्री-भागवतस्य महा-पुराणत्व-व्यञ्जक-लक्षणं प्रकारान्तरेण च वदन्न् अपि तस्यैवाश्रयत्वम् आह द्वयेन—**
+**asya śrī-bhāgavatasya mahā-purāṇatva-vyañjaka-lakṣaṇaṁ prakārāntareṇa ca vadann api tasyaivāśrayatvam āha dvayena—**
 
 
-> **सर्गोऽस्याथ विसर्गश् च वृत्ती रक्षान्तराणि च ।**  
-> **वंशो वंशानुचरितं संस्था हेतुर् अपाश्रयः ॥**  
-> **दशभिर् लक्षणैर् युक्तं पुराणं तद्-विदो विदुः ।**  
-> **केचित् पञ्च-विधं ब्रह्मन् महद्-अल्प-व्यवस्थया ॥[भा।पु। १२.७.९-१०]**
+> **sargo’syātha visargaś ca vṛttī rakṣāntarāṇi ca |**  
+> **vaṁśo vaṁśānucaritaṁ saṁsthā hetur apāśrayaḥ ||**  
+> **daśabhir lakṣaṇair yuktaṁ purāṇaṁ tad-vido viduḥ |**  
+> **kecit pañca-vidhaṁ brahman mahad-alpa-vyavasthayā ||[bhā.pu. 12.7.9-10]**
 
-**अन्तराणि मन्वन्तराणि । पञ्च-विधम्—**
+**antarāṇi manvantarāṇi | pañca-vidham—**
 
 
-> **सर्गश् च प्रतिसर्गश् च वंशो मन्वन्तराणि च ।**  
-> **वंशानुचरितं चेति पुराणं पञ्च-लक्षणम् ॥ इति केचिद् वदन्ति ।**
+> **sargaś ca pratisargaś ca vaṁśo manvantarāṇi ca |**  
+> **vaṁśānucaritaṁ ceti purāṇaṁ pañca-lakṣaṇam || iti kecid vadanti |**
 
-**सर्गोऽस्येत्य् आदिकं द्वितीय-स्कन्ध [भा।पु। २.१०.१-७] एव व्याख्यातम् । अस्य श्री-भागवतस्य महा-पुराणत्व-व्यञ्जक-लक्षणं प्रकारान्तरेण च वदन्न् अपि तस्यैवाश्रयत्वम् आह द्वयेन—सर्ग इति । अन्तराणि मन्वन्तराणि । पञ्च-विधम्—**
+**sargo’syety ādikaṁ dvitīya-skandha [bhā.pu. 2.10.1-7] eva vyākhyātam | asya śrī-bhāgavatasya mahā-purāṇatva-vyañjaka-lakṣaṇaṁ prakārāntareṇa ca vadann api tasyaivāśrayatvam āha dvayena—sarga iti | antarāṇi manvantarāṇi | pañca-vidham—**
 
 
-> **सर्गश् च प्रतिसर्गश् च वंशो मन्वन्तराणि च ।**  
-> **वंशानुचरितं चेति पुराणं पञ्च-लक्षणम् ॥ इति केचिद् वदन्ति ॥**
+> **sargaś ca pratisargaś ca vaṁśo manvantarāṇi ca |**  
+> **vaṁśānucaritaṁ ceti purāṇaṁ pañca-lakṣaṇam || iti kecid vadanti ||**
 
-**स च मत-भेदो महद्-अल्प-व्यवस्थया महा-पुराणम् अल्प-पुराणम् इति भिन्नाधिकरणत्वेन । यद्यपि विष्णु-पुराणादावपि दशापि तानि लक्ष्यन्ते, तथापि पञ्चानाम् एव प्राधान्येनोक्तत्वाद् अल्पत्वम् । अत्र दशानाम् अर्थानां स्कन्धेषु यथा-क्रमं प्रवेशो न विवक्षितः, तेषां द्वादश-सङ्ख्यत्वात् । द्वितीय-स्कन्धोक्तानां तेषां तृतीयादिषु यथा-सङ्ख्यं न समावेशः । निरोधादीनां दशमादिष्व् अष्टम-वर्जम् । अन्येषाम् अप्य् अन्येषु यथोक्त-लक्षणतया समावेशनाशक्यत्वाद् एव । तद् उक्तं श्री-स्वामिभिर् एव—**
+**sa ca mata-bhedo mahad-alpa-vyavasthayā mahā-purāṇam alpa-purāṇam iti bhinnādhikaraṇatvena | yadyapi viṣṇu-purāṇādāvapi daśāpi tāni lakṣyante, tathāpi pañcānām eva prādhānyenoktatvād alpatvam | atra daśānām arthānāṁ skandheṣu yathā-kramaṁ praveśo na vivakṣitaḥ, teṣāṁ dvādaśa-saṅkhyatvāt | dvitīya-skandhoktānāṁ teṣāṁ tṛtīyādiṣu yathā-saṅkhyaṁ na samāveśaḥ | nirodhādīnāṁ daśamādiṣv aṣṭama-varjam | anyeṣām apy anyeṣu yathokta-lakṣaṇatayā samāveśanāśakyatvād eva | tad uktaṁ śrī-svāmibhir eva—**
 
 
-> **दशमे कृष्ण-सत्-कीर्ति-वितानायोपवर्ण्यते ।**  
-> **धर्म-ग्लानि-निमित्तस् तु निरोधो दुष्ट-भूभुजाम् ।**  
-> **प्राकृतादि-चतुर्धा यो निरोधः स तु वर्णितः ॥ इति ॥**
+> **daśame kṛṣṇa-sat-kīrti-vitānāyopavarṇyate |**  
+> **dharma-glāni-nimittas tu nirodho duṣṭa-bhūbhujām |**  
+> **prākṛtādi-caturdhā yo nirodhaḥ sa tu varṇitaḥ || iti ||**
 
-**अतोऽत्र स्कन्धे श्री-कृष्ण-रूपस्याश्रयस्यैव वर्णन-प्राधान्यं तैर् विवक्षितम् । उक्तं च स्वयम् एव—दशमे दशमं लक्ष्यम् आश्रिताश्रय-विग्रहम् इति । एवम् अन्यत्राप्य् उन्नेयम् । अतः प्रायशः सर्वेऽर्थाः सर्वेष्व् एव स्कन्धेषु गुणत्वेन वा मुख्यत्वेन वा निरूप्यन्त इत्य् एव तेषाम् अभिमतम् । श्रुतेनार्थेन चाञ्जसा [भा।पु। २.१०.२] इत्य् अत्र च तथैव प्रतिपन्नं सर्वत्र तत्-तत्-सम्भवात् । ततश् च प्रथम-द्वितीययोर् अपि महा-पुराणतायां प्रवेशः स्यात् । तस्मात् क्रमो न गृहीतः ॥१४॥ (६१)**
+**ato’tra skandhe śrī-kṛṣṇa-rūpasyāśrayasyaiva varṇana-prādhānyaṁ tair vivakṣitam | uktaṁ ca svayam eva—daśame daśamaṁ lakṣyam āśritāśraya-vigraham iti | evam anyatrāpy unneyam | ataḥ prāyaśaḥ sarve’rthāḥ sarveṣv eva skandheṣu guṇatvena vā mukhyatvena vā nirūpyanta ity eva teṣām abhimatam | śrutenārthena cāñjasā [bhā.pu. 2.10.2] ity atra ca tathaiva pratipannaṁ sarvatra tat-tat-sambhavāt | tataś ca prathama-dvitīyayor api mahā-purāṇatāyāṁ praveśaḥ syāt | tasmāt kramo na gṛhītaḥ ||14|| (61)**
 
-**सर्व-संवादिनी :** सर्गोऽस्येत्य् आदि । अतः प्रायशः सर्वेऽर्थाः इति । तत्र मुख्यत्वेन (१) **सर्गः—**द्वितीय-तृतीय-स्कन्धयोः, (२) **विसर्गः—**द्वितीय-तृतीय-चतुर्थ-स्कन्धयोः, (३) कामाद् **वृत्तिः—**जगृहुर् यक्ष-रक्षांसि रात्रि-क्षुत्-तृट्-समुद्भवां [भा।पु। ३.२०.१९] इत्य्-आदि वाक्यतः तृतीय-स्कन्धेऽपि । चोदना-**वृत्तिस्** तु सप्तमैकादशयोः स्कन्धयोर् वर्णाश्रमाचार-कथने [भा।पु। ७.११, ११.१७-१८] । (४) **रक्षा—**सर्वत्रैव, (५) **मन्वन्तर—**अष्टम-स्कन्धादिषु, (६) **वंशो **(७) **वंशानुचरितं—**चतुर्थ-नवम-स्कन्धादिषु, (८) **संस्था—**एकादश-द्वादश-स्कन्धयोः, (९) **हेतुः—**श्री-कपिल-देवादि-वाक्यतः तृतीयैकादश-स्कन्धादिषु, (१०) **अपाश्रयह्**—दशम-स्कन्धादिषु ज्ञेयः ॥६१॥
+**sarva-saṁvādinī :** sargo’syety ādi | ataḥ prāyaśaḥ sarve’rthāḥ iti | tatra mukhyatvena (1) **sargaḥ—**dvitīya-tṛtīya-skandhayoḥ, (2) **visargaḥ—**dvitīya-tṛtīya-caturtha-skandhayoḥ, (3) kāmād **vṛttiḥ—**jagṛhur yakṣa-rakṣāṁsi rātri-kṣut-tṛṭ-samudbhavāṁ [bhā.pu. 3.20.19] ity-ādi vākyataḥ tṛtīya-skandhe’pi | codanā-**vṛttis** tu saptamaikādaśayoḥ skandhayor varṇāśramācāra-kathane [bhā.pu. 7.11, 11.17-18] | (4) **rakṣā—**sarvatraiva, (5) **manvantara—**aṣṭama-skandhādiṣu, (6) **vaṁśo **(7) **vaṁśānucaritaṁ—**caturtha-navama-skandhādiṣu, (8) **saṁsthā—**ekādaśa-dvādaśa-skandhayoḥ, (9) **hetuḥ—**śrī-kapila-devādi-vākyataḥ tṛtīyaikādaśa-skandhādiṣu, (10) **apāśrayah**—daśama-skandhādiṣu jñeyaḥ ||61||
 
-**बलदेवः :** अस्येति । प्रकारान्तरेणेति क्वचिन्-नामान्तरत्वाद् अर्थान्तरत्वाच् चेत्य् अर्थः । एतानि दश-लक्षणानि केचित् तृतीयादिषु क्रमेण स्थूल-धियो योजयन्ति । तान् निराकुर्वन्न् आह द्वितीय-स्कन्धोक्तानाम् इति । अष्टादश-सहस्रित्वं द्वादश-स्कन्धित्वं च भागवत-लक्षणं व्याकुप्येत । अध्याय-पूर्तौ भागवतत्वोक्तिश् च न सम्भवेद् इति च बोध्यम् । शुक-भाषितं चेद् भागवतं तर्हि प्रथमस्य द्वादश-शेषस्य च तत्त्वानापत्तिः । तस्माद् अष्टादश-सहस्रि तत्-पितुर् आचार्याच् छुकेनाधीतं कथितं चेति साम्प्रतं संवादास् तु तथैवानादि-सिद्धा इति साम्प्रतम् ॥६१॥
+**baladevaḥ :** asyeti | prakārāntareṇeti kvacin-nāmāntaratvād arthāntaratvāc cety arthaḥ | etāni daśa-lakṣaṇāni kecit tṛtīyādiṣu krameṇa sthūla-dhiyo yojayanti | tān nirākurvann āha dvitīya-skandhoktānām iti | aṣṭādaśa-sahasritvaṁ dvādaśa-skandhitvaṁ ca bhāgavata-lakṣaṇaṁ vyākupyeta | adhyāya-pūrtau bhāgavatatvoktiś ca na sambhaved iti ca bodhyam | śuka-bhāṣitaṁ ced bhāgavataṁ tarhi prathamasya dvādaśa-śeṣasya ca tattvānāpattiḥ | tasmād aṣṭādaśa-sahasri tat-pitur ācāryāc chukenādhītaṁ kathitaṁ ceti sāmprataṁ saṁvādās tu tathaivānādi-siddhā iti sāmpratam ||61||
 
-**राधामोहन-गोस्वामी :** तस्यैवेति ब्रह्मणः एवेत्य् अर्थः । तद्-विदः पुराण-विदः । महा-पुराणाल्प-पुराण-भिन्नाधिकरणत्वेनेति—महा-पुराणाल्प-पुराणयोर् भेदेन भिन्नम् अधिकरणं य्योस् तत्त्वेन दश-लक्षण-पञ्च-लक्षणेति लक्षण-द्वयम् इत्य् अर्थः । तेषां स्कन्धानाम् ।
+**rādhāmohana-gosvāmī :** tasyaiveti brahmaṇaḥ evety arthaḥ | tad-vidaḥ purāṇa-vidaḥ | mahā-purāṇālpa-purāṇa-bhinnādhikaraṇatveneti—mahā-purāṇālpa-purāṇayor bhedena bhinnam adhikaraṇaṁ yyos tattvena daśa-lakṣaṇa-pañca-lakṣaṇeti lakṣaṇa-dvayam ity arthaḥ | teṣāṁ skandhānām |
 
-ननु द्वितीय-स्कन्ध-शेषे लक्षणान्य् उक्तानि, ततः क्रमेण तृतीयादिषु किम्-उक्तानि ? इत्य् आशङ्क्याह—द्वितीय-स्कन्धोक्तानाम् अपि । तेषाम् इति तेषां दश-लक्षणानाम् । तेषाम् अपि मतं श्रीधर-स्वामिनाम् अपि मतम् । प्रायशः स्याद् इति तृतीयादिषु क्रमेणैव दश-लक्षण-वर्णनेति द्वितीय-तृतीययोस् तल्-लक्षणाक्रान्त-पुराणता न स्याद् इति भावः । तस्मात् क्रम-वर्णनस्यासम्भवात् क्रमो न विवक्षित इति । तथा चाश्रयस्य पर-ब्रह्मणः कृष्णस्य मुख्यत्वेन वर्णनीयतया उपक्रमे तस्यैवादौ वर्णनम् उपक्रान्तम्, मध्ये मध्ये अन्ते च तस्यैव वर्णनं कृतम्, तत्-प्रसङ्गात् तदाधिक्य-तात्पर्याद् वा यथा-योगम् इतराणि लक्षणानि वर्णितानीति भावः । तथोक्तं—
+nanu dvitīya-skandha-śeṣe lakṣaṇāny uktāni, tataḥ krameṇa tṛtīyādiṣu kim-uktāni ? ity āśaṅkyāha—dvitīya-skandhoktānām api | teṣām iti teṣāṁ daśa-lakṣaṇānām | teṣām api mataṁ śrīdhara-svāminām api matam | prāyaśaḥ syād iti tṛtīyādiṣu krameṇaiva daśa-lakṣaṇa-varṇaneti dvitīya-tṛtīyayos tal-lakṣaṇākrānta-purāṇatā na syād iti bhāvaḥ | tasmāt krama-varṇanasyāsambhavāt kramo na vivakṣita iti | tathā cāśrayasya para-brahmaṇaḥ kṛṣṇasya mukhyatvena varṇanīyatayā upakrame tasyaivādau varṇanam upakrāntam, madhye madhye ante ca tasyaiva varṇanaṁ kṛtam, tat-prasaṅgāt tadādhikya-tātparyād vā yathā-yogam itarāṇi lakṣaṇāni varṇitānīti bhāvaḥ | tathoktaṁ—
 
-> उपक्रमोपसंहाराव् अभ्यासोऽपूर्वता फलम् ।
+> upakramopasaṁhārāv abhyāso’pūrvatā phalam |
 
-अर्थ-वादोपपत्ती च लिङ्गं तात्पर्य-निर्णये ॥ 
+artha-vādopapattī ca liṅgaṁ tātparya-nirṇaye || 
 
-इति क्रमेण श्री-कृष्ण-परम् इदं शास्त्रम् इति भावः ॥६१॥
+iti krameṇa śrī-kṛṣṇa-param idaṁ śāstram iti bhāvaḥ ||61||
 
-**गौर-किशोर-गोस्वामी- **प्राक्-महा-पुराणस्य लक्षणम् उक्तम् । अथ मतान्तरीयं तल्-लक्षणं पुनः निर्दिश्य श्री-भागवतस्य महा-पुराणत्वं विवृत्य परमात्मनः श्री-भगवत एव आश्रयत्वं परिशेषेण निर्णयति, “सर्गोऽस्याथः” इति विविध-सन्देह-निराकरणार्थं विस्तारेण व्याख्या-ग्रन्थम् आह—केचिद् इति । परमात्मनः भगवतः श्री-कृष्णस्यैवाश्रयत्वं निर्देष्टुम् आह—अतो अत्र स्कन्धे इति । एतेन रस-राज-श्री-गौराङ्ग-महाप्रभोर् अपि आश्रयत्वम् अविसंवादेन प्रतिपन्नम् । आसन् वर्णाः इत्य्-आदिना श्री-कृष्णेन लक्षणानि दर्शयति अव्याकृत इति ॥६०-६१॥
+**gaura-kiśora-gosvāmī: **prāk-mahā-purāṇasya lakṣaṇam uktam | atha matāntarīyaṁ tal-lakṣaṇaṁ punaḥ nirdiśya śrī-bhāgavatasya mahā-purāṇatvaṁ vivṛtya paramātmanaḥ śrī-bhagavata eva āśrayatvaṁ pariśeṣeṇa nirṇayati, “sargo’syāthaḥ” iti vividha-sandeha-nirākaraṇārthaṁ vistāreṇa vyākhyā-grantham āha—kecid iti | paramātmanaḥ bhagavataḥ śrī-kṛṣṇasyaivāśrayatvaṁ nirdeṣṭum āha—ato atra skandhe iti | etena rasa-rāja-śrī-gaurāṅga-mahāprabhor api āśrayatvam avisaṁvādena pratipannam | āsan varṇāḥ ity-ādinā śrī-kṛṣṇena lakṣaṇāni darśayati avyākṛta iti ||60-61||
 
-> —ओ)०(ओ—
+> —o)0(o—
 
-[१५-२४]
+[15-24]
 
-**अथ सर्गादीनां लक्षणम् आह—**
+**atha sargādīnāṁ lakṣaṇam āha—**
 
 
-> **अव्याकृत-गुण-क्षोभान् महतस् त्रिवृतोऽहमः ।**  
-> **भूत-मात्रेन्द्रियार्थानां सम्भवः सर्ग उच्यते ॥ [भा।पु। १२.७.११]**
+> **avyākṛta-guṇa-kṣobhān mahatas trivṛto’hamaḥ |**  
+> **bhūta-mātrendriyārthānāṁ sambhavaḥ sarga ucyate || [bhā.pu. 12.7.11]**
 
-**अथ सर्गादीनां लक्षणम् आह—अव्याकृतेति । प्रधान-गुण-क्षोभान् महान्, तस्मात् त्रिगुणोऽहङ्कारः । तस्माद् भूत-मात्राणां भूत-सूक्ष्माणाम् इन्द्रियाणां च, स्थूल-भूतानां च, तद्-उपलक्षित-तद्-देवतानां च सम्भवः सर्गः । कारण-सृष्टिः सर्ग इत्य् अर्थः।**
+**atha sargādīnāṁ lakṣaṇam āha—avyākṛteti | pradhāna-guṇa-kṣobhān mahān, tasmāt triguṇo’haṅkāraḥ | tasmād bhūta-mātrāṇāṁ bhūta-sūkṣmāṇām indriyāṇāṁ ca, sthūla-bhūtānāṁ ca, tad-upalakṣita-tad-devatānāṁ ca sambhavaḥ sargaḥ | kāraṇa-sṛṣṭiḥ sarga ity arthaḥ|**
 
 
-> **पुरुषानुगृहीतानाम् एतेषां वासनामयः ।**  
-> **विसर्गोऽयं समाहारो बीजाद् बीजं चराचरम् ॥ **[भा।पु। १२.७.१२]
+> **puruṣānugṛhītānām eteṣāṁ vāsanāmayaḥ |**  
+> **visargo’yaṁ samāhāro bījād bījaṁ carācaram || **[bhā.pu. 12.7.12]
 
-**पुरुषः परमात्मा । एतेषां महद्-आदीनाम्, जीवस्य पूर्वकर्म-वासना-प्रधानोऽयं समाहारः । कार्य-भूतश् चराचर-प्राणि-रूपो बीजाद् बीजम् इव प्रवाहापन्नो विसर्ग उच्यते। व्यष्टि-सृष्टि-विसर्ग इत्य् अर्थः । अनेनोतिर् अप्य् उक्ता ।**
+**puruṣaḥ paramātmā | eteṣāṁ mahad-ādīnām, jīvasya pūrvakarma-vāsanā-pradhāno’yaṁ samāhāraḥ | kārya-bhūtaś carācara-prāṇi-rūpo bījād bījam iva pravāhāpanno visarga ucyate| vyaṣṭi-sṛṣṭi-visarga ity arthaḥ | anenotir apy uktā |**
 
 
-> **वृत्तिर् भूतानि भूतानां चराणाम् अचराणि च ।**  
-> **कृता स्वेन नॄणां तत्र कामाच् चोदनयापि वा ॥ **[भा।पु। १२.७.१३]
+> **vṛttir bhūtāni bhūtānāṁ carāṇām acarāṇi ca |**  
+> **kṛtā svena nṝṇāṁ tatra kāmāc codanayāpi vā || **[bhā.pu. 12.7.13]
 
-**चराणां भूतानां सामान्यतोऽचराणि, च-काराच् चराणि च, कामाद् वृत्तिः । तत्र तु नॄणां स्वेन स्वभावेन कामाच् चोदनयापि वा या नियता वृत्तिर् जीविका कृता, सा वृत्तिर् उच्यत इत्य् अर्थः ।**
+**carāṇāṁ bhūtānāṁ sāmānyato’carāṇi, ca-kārāc carāṇi ca, kāmād vṛttiḥ | tatra tu nṝṇāṁ svena svabhāvena kāmāc codanayāpi vā yā niyatā vṛttir jīvikā kṛtā, sā vṛttir ucyata ity arthaḥ |**
 
 
-> **रक्षाच्युतावतारेहा विश्वस्यानुयुगे युगे ।**  
-> **तिर्यङ्-मर्त्यर्षिदेवेषु हन्यन्ते यैस् त्रयी-द्विषः ॥ **[भा।पु। १२.७.१४]
+> **rakṣācyutāvatārehā viśvasyānuyuge yuge |**  
+> **tiryaṅ-martyarṣideveṣu hanyante yais trayī-dviṣaḥ || **[bhā.pu. 12.7.14]
 
-**यैर् अवतारैः । अनेनेश-कथा । स्थानं पोषणं चेति त्रयम् उक्तम् ।**
+**yair avatāraiḥ | aneneśa-kathā | sthānaṁ poṣaṇaṁ ceti trayam uktam |**
 
 
-> **मन्वन्तरं मनुर् देवा मनु-पुत्राः सुरेश्वराः ।**  
-> **ऋषयोऽंशावताराश् च हरेः षड्-विधम् उच्यते ॥ **[भा।पु। १२.७.१५]
+> **manvantaraṁ manur devā manu-putrāḥ sureśvarāḥ |**  
+> **ṛṣayo’ṁśāvatārāś ca hareḥ ṣaḍ-vidham ucyate || **[bhā.pu. 12.7.15]
 
-**मन्व्-आद्य्-आचरण-कथनेन सद्-धर्म एवात्र विवक्षित इत्य् अर्थः । ततश् च प्राक्तन-ग्रन्थेनैकार्थ्यम् ।**
+**manv-ādy-ācaraṇa-kathanena sad-dharma evātra vivakṣita ity arthaḥ | tataś ca prāktana-granthenaikārthyam |**
 
 
-> **राज्ञां ब्रह्म-प्रसूतानां वंशस् त्रैकालिकोऽन्वयः ।**  
-> **वंश्यानुचरितं तेषां वृत्तं वंशधराश् च ये ॥ **[भा।पु। १२.७.१६]
+> **rājñāṁ brahma-prasūtānāṁ vaṁśas traikāliko’nvayaḥ |**  
+> **vaṁśyānucaritaṁ teṣāṁ vṛttaṁ vaṁśadharāś ca ye || **[bhā.pu. 12.7.16]
 
-**तेषां राज्ञां ये च वंश-धरास् तेषां वृत्तं वंश्यानुचरितम् ॥१५-२०॥(६२)**
+**teṣāṁ rājñāṁ ye ca vaṁśa-dharās teṣāṁ vṛttaṁ vaṁśyānucaritam ||15-20||(62)**
 
-**सर्व-संवादिनी : _न व्याख्यातम्।_**
+**sarva-saṁvādinī : _na vyākhyātam._**
 
-**बलदेवः :** उद्दिष्टानां सर्गादीनां क्रमेण लक्षणानि दर्शयितुम् आह—अथेत्यादि । अव्याकृतेति त्रिवृत्-पदं महतोऽपि विशेषणं बोध्यम् । सात्त्विकी राजसश् चैव तामसश् च त्रिधा महान् [वि।पु। १.२.३४] इति श्री-वैष्णवात् । पुरुषः परमात्मा विरिञ्चान्तःस्थ इति बोध्यम् । स्फुटार्थानि शिष्टानि ॥६२॥
+**baladevaḥ :** uddiṣṭānāṁ sargādīnāṁ krameṇa lakṣaṇāni darśayitum āha—athetyādi | avyākṛteti trivṛt-padaṁ mahato’pi viśeṣaṇaṁ bodhyam | sāttvikī rājasaś caiva tāmasaś ca tridhā mahān [vi.pu. 1.2.34] iti śrī-vaiṣṇavāt | puruṣaḥ paramātmā viriñcāntaḥstha iti bodhyam | sphuṭārthāni śiṣṭāni ||62||
 
-**गौर-किशोर-गोस्वामी- **संस्थानादीनां लक्षणानि विवृणोति “नैमित्तिकः” इति । भुक्त-शिष्ट-कर्म-विशिष्टः जीवः अनुशायी, भोगावशिष्ट-कर्म हि अनुशयः स्फुटार्थानि इतराणि ॥६२॥
+**gaura-kiśora-gosvāmī: **saṁsthānādīnāṁ lakṣaṇāni vivṛṇoti “naimittikaḥ” iti | bhukta-śiṣṭa-karma-viśiṣṭaḥ jīvaḥ anuśāyī, bhogāvaśiṣṭa-karma hi anuśayaḥ sphuṭārthāni itarāṇi ||62||
 
-> —ओ)०(ओ—  
-> **नैमित्तिकः प्राकृतिको नित्य आत्यन्तिको लयः ।**  
-> **संस्थेति कविभिः प्रोक्तश् चतुर्धास्य स्वभावतः ॥ **[भा।पु। १२.७.१७]
+> —o)0(o—  
+> **naimittikaḥ prākṛtiko nitya ātyantiko layaḥ |**  
+> **saṁstheti kavibhiḥ proktaś caturdhāsya svabhāvataḥ || **[bhā.pu. 12.7.17]
 
-**अस्य परमेश्वरस्य । स्वभावतः शक्तितः । आत्यन्तिक इत्य् अनेन मुक्तिर् अप्य् अत्र प्रवेशिता ।**
+**asya parameśvarasya | svabhāvataḥ śaktitaḥ | ātyantika ity anena muktir apy atra praveśitā |**
 
 
-> **हेतुर् जीवोऽस्य सर्गादेर् अविद्या-कर्म-कारकः ।**  
-> **यं चानुशयिनं प्राहुर् अव्याकृतम् उतापरे ॥ [भा।पु। १२.७.१८]**
+> **hetur jīvo’sya sargāder avidyā-karma-kārakaḥ |**  
+> **yaṁ cānuśayinaṁ prāhur avyākṛtam utāpare || [bhā.pu. 12.7.18]**
 
-**हेतुर् निमित्तम् । अस्य विश्वस्य । यतोऽयम् अविद्यया कर्म-कारकः । यम् एव हेतुं केचिच् चैतन्य-प्राधानेनानुशयिनं प्राहुः । अपर उपाधि-प्राधान्येनाव्याकृतम् इति ।**
+**hetur nimittam | asya viśvasya | yato’yam avidyayā karma-kārakaḥ | yam eva hetuṁ kecic caitanya-prādhānenānuśayinaṁ prāhuḥ | apara upādhi-prādhānyenāvyākṛtam iti |**
 
 
-> **व्यतिरेकान्वयो यस्य जाग्रत्-स्वप्न-सुषुप्तिषु ।**  
-> **मायामयेषु तद् ब्रह्म जीव-वृत्तिष्व् अपाश्रयः ॥ **[भा।पु। १२.७.१९]
+> **vyatirekānvayo yasya jāgrat-svapna-suṣuptiṣu |**  
+> **māyāmayeṣu tad brahma jīva-vṛttiṣv apāśrayaḥ || **[bhā.pu. 12.7.19]
 
-**श्री-बादरायण-समाधि-लब्धार्थ-विरोधाद् अत्र च जीव-शुद्ध-स्वरूपम् एवाश्रयत्वेन न व्याख्यायते किन्त्व् अयम् एवार्थः । जाग्रद्-आदिष्व् अवस्थासु, मायामयेषु माया-शक्ति-कल्पितेषु महद्-आदि-द्रव्येषु च । केवल-स्वरूपेण व्यतिरेकः परम-साक्षितयान्वयश् च यस्य तद् ब्रह्म जीवानां वृत्तिषु शुद्द-स्वरूपतया सोपाधितया च वर्तनेषु स्थितिष्व् अपाश्रयः । सर्वम् अत्य् अतिक्रम्याश्रय इत्य् अर्थः । अप इत्य् एतत् खलु वर्जने, वर्जनं चातिक्रमे पर्यवस्यतीति । **
+**śrī-bādarāyaṇa-samādhi-labdhārtha-virodhād atra ca jīva-śuddha-svarūpam evāśrayatvena na vyākhyāyate kintv ayam evārthaḥ | jāgrad-ādiṣv avasthāsu, māyāmayeṣu māyā-śakti-kalpiteṣu mahad-ādi-dravyeṣu ca | kevala-svarūpeṇa vyatirekaḥ parama-sākṣitayānvayaś ca yasya tad brahma jīvānāṁ vṛttiṣu śudda-svarūpatayā sopādhitayā ca vartaneṣu sthitiṣv apāśrayaḥ | sarvam aty atikramyāśraya ity arthaḥ | apa ity etat khalu varjane, varjanaṁ cātikrame paryavasyatīti | **
 
-**तद् एवम् अपाश्रयाभिव्यक्ति-द्वार-भूतं हेतु-शब्द-व्यपदिष्टस्य जीवस्य शुद्ध-स्वरूप-ज्ञानम् आह द्वाभ्याम् । **
+**tad evam apāśrayābhivyakti-dvāra-bhūtaṁ hetu-śabda-vyapadiṣṭasya jīvasya śuddha-svarūpa-jñānam āha dvābhyām | **
 
 
-> **पदार्थेषु यथा द्रव्यं तन्-मात्रं रूप-नामसु ।**  
-> **बीजादि-पञ्चतां तासु ह्य् अवस्थासु युतायुतम् ॥ **  
-> **विरमेत यदा चित्तं हित्वा वृत्ति-त्रयं स्वयम् ।**  
-> **योगेन वा तद्-आत्मानं वेदेहाया निवर्तते ॥ **[भा।पु। १२.७.२०-२१]
+> **padārtheṣu yathā dravyaṁ tan-mātraṁ rūpa-nāmasu |**  
+> **bījādi-pañcatāṁ tāsu hy avasthāsu yutāyutam || **  
+> **virameta yadā cittaṁ hitvā vṛtti-trayaṁ svayam |**  
+> **yogena vā tad-ātmānaṁ vedehāyā nivartate || **[bhā.pu. 12.7.20-21]
 
-**रूप-नामात्मकेषु पदार्थेषु घटादिषु यथा द्रव्यं पृथिव्य्-आदि-युतम् अयुतं च भवति । कार्य-दृष्टिं विनाप्य् उपलम्भात् । तथा तन्-मात्रं शुद्धं जीव-चैतन्य-मात्रं वस्तु गर्भाधानादि-पञ्चतान्तासु नवस्व् अप्य् अवस्थास्व् अविद्यया युतं स्वतस् त्व् अयुतम् इति शुद्धम् आत्मानम् इत्थं ज्ञात्वा निर्विण्णः सन्न् अपाश्रयानुसन्धान-योग्यो भवतीत्य् आह विरमेतेति । वृत्ति-त्रयं जाग्रत्-स्वप्न-सुषुप्ति-रूपम् । आत्मानं परमात्मानम् । स्वयं वामदेवादेर् इव मायामयत्वानुसन्धानेन देवहूत्य्-आदेर् इवानिष्ठितेन योगेन वा । ततश् चेहायास् तद्-अनुशीलन-व्यतिरिक्त-चेष्टायाः ॥ **
+**rūpa-nāmātmakeṣu padārtheṣu ghaṭādiṣu yathā dravyaṁ pṛthivy-ādi-yutam ayutaṁ ca bhavati | kārya-dṛṣṭiṁ vināpy upalambhāt | tathā tan-mātraṁ śuddhaṁ jīva-caitanya-mātraṁ vastu garbhādhānādi-pañcatāntāsu navasv apy avasthāsv avidyayā yutaṁ svatas tv ayutam iti śuddham ātmānam itthaṁ jñātvā nirviṇṇaḥ sann apāśrayānusandhāna-yogyo bhavatīty āha virameteti | vṛtti-trayaṁ jāgrat-svapna-suṣupti-rūpam | ātmānaṁ paramātmānam | svayaṁ vāmadevāder iva māyāmayatvānusandhānena devahūty-āder ivāniṣṭhitena yogena vā | tataś cehāyās tad-anuśīlana-vyatirikta-ceṣṭāyāḥ || **
 
-**॥ १२.७ ॥ श्री-सूतः ॥ उद्दिष्टः सम्बन्धः ॥१५-२४॥**
+**|| 12.7 || śrī-sūtaḥ || uddiṣṭaḥ sambandhaḥ ||15-24||**
 
-**सर्व-संवादिनी :**प्रलय-लक्षणम् आह—नैमित्तिक [भा।पु। १२.७.१७] इति । एषां [प्रलयानां] लक्षणं द्वादशे चतुर्थाध्यायेऽनुसन्धेयं [भा।पु। १२.४.३-३८] । प्रलयस् तु मन्वन्तरान्तेऽपि भवति । यथा श्री-विष्णु-धर्मोत्तरे प्रथम-काण्डे, 
+**sarva-saṁvādinī :**pralaya-lakṣaṇam āha—naimittika [bhā.pu. 12.7.17] iti | eṣāṁ [pralayānāṁ] lakṣaṇaṁ dvādaśe caturthādhyāye'nusandheyaṁ [bhā.pu. 12.4.3-38] | pralayas tu manvantarānte'pi bhavati | yathā śrī-viṣṇu-dharmottare prathama-kāṇḍe, 
 
 
-> वज्र उवाच—  
-> मन्वन्तरे परिक्षीणे यादृशी द्विज जायते ।   
-> समवस्था महाभाग तादृशी वक्तुमर्हसि ॥  
-> मार्कण्डेय उवाच—  
-> मन्वन्तरे परिक्षीणे देवा मन्वन्तरेश्वराः ।   
-> महर्लोकमथासाद्य तिष्ठन्ति गतकल्मषाः ॥  
-> मनुश् च सह शक्रेण देवाश् च यदुनन्दन ।   
-> ब्रह्म-लोकं प्रपद्यन्ते पुनर्-आवृत्ति-दुर्लभम् ॥   
-> ऋषयश् च तथा सप्त तत्र तिष्ठन्ति ते सदा ।   
-> अधिकारं विना सर्वे सदृशाः परमेष्ठिनः ॥  
-> भू-तलं सकलं वज्र तोय-रूपी महेश्वरः ।   
-> ऊर्मि-माली महावेगः सर्वम् आवृत्य तिष्ठति ॥  
-> भूर्-लोकम् आश्रितं सर्वं तदा नश्यति यादव ।   
-> न विनश्यन्ति राजेन्द्र विश्रुताः कुल-पर्वताः ॥
+> vajra uvāca—  
+> manvantare parikṣīṇe yādṛśī dvija jāyate |   
+> samavasthā mahābhāga tādṛśī vaktumarhasi ||  
+> mārkaṇḍeya uvāca—  
+> manvantare parikṣīṇe devā manvantareśvarāḥ |   
+> maharlokamathāsādya tiṣṭhanti gatakalmaṣāḥ ||  
+> manuś ca saha śakreṇa devāś ca yadunandana |   
+> brahma-lokaṁ prapadyante punar-āvṛtti-durlabham ||   
+> ṛṣayaś ca tathā sapta tatra tiṣṭhanti te sadā |   
+> adhikāraṁ vinā sarve sadṛśāḥ parameṣṭhinaḥ ||  
+> bhū-talaṁ sakalaṁ vajra toya-rūpī maheśvaraḥ |   
+> ūrmi-mālī mahāvegaḥ sarvam āvṛtya tiṣṭhati ||  
+> bhūr-lokam āśritaṁ sarvaṁ tadā naśyati yādava |   
+> na vinaśyanti rājendra viśrutāḥ kula-parvatāḥ ||
 
-अत्र कुल-पर्वता महेन्द्र-मलयेत्य्-आदयः ।
+atra kula-parvatā mahendra-malayety-ādayaḥ |
 
 
-> शेषं विनश्यति जगत् स्थावरं जङ्गमं च यत् ।   
-> नौर् भूत्वा तु मही देवी तदा यदु-कुलोद्भव ॥  
-> धारयत्य् अथ बीजानि सर्वाण्य् एवाविशेषतः ।   
-> आकर्षति तु तां नावं स्थानात् स्थानं तु लीलया ॥  
-> कर्षमाणं तु तां नावं देव-देवं जगत्-पतिम् ।   
-> स्तुवन्ति ऋषयः सर्व दिव्यैः कर्मभिर् अच्युतम् ॥   
-> घूर्णमानस् तदा मत्स्यो जल-वेगोर्मि-सङ्कुले ।   
-> घूर्णमानां तु तां नावं नयत्य् अमित-विक्रमः ॥   
-> हिमाद्रि-शिखरे नावं बद्ध्वा देवो जगत्-पतिः ।   
-> मत्स्यस् त्व् अदृश्यो भवति ते च तिष्ठन्ति तत्रगाः ॥   
-> कृत-तुल्यं तदा कालं तावत् प्रक्षालनं स्मृतम् ।   
-> आपः शमम् अथो यान्ति यथा-पूर्वं नराधिप ।   
-> ऋषयः मनुश्चैव सर्वं कुर्वन्ति ते तदा ॥   
-> मन्वन्तरान्ते जगताम् अवस्था   
-> मयेरिता ते यदु-वृन्द-नाथ ।   
-> अतः परं किं तव कीर्तनीयं   
-> समासतस् तद् वद भूमि-पाल ॥ इति ।
+> śeṣaṁ vinaśyati jagat sthāvaraṁ jaṅgamaṁ ca yat |   
+> naur bhūtvā tu mahī devī tadā yadu-kulodbhava ||  
+> dhārayaty atha bījāni sarvāṇy evāviśeṣataḥ |   
+> ākarṣati tu tāṁ nāvaṁ sthānāt sthānaṁ tu līlayā ||  
+> karṣamāṇaṁ tu tāṁ nāvaṁ deva-devaṁ jagat-patim |   
+> stuvanti ṛṣayaḥ sarva divyaiḥ karmabhir acyutam ||   
+> ghūrṇamānas tadā matsyo jala-vegormi-saṅkule |   
+> ghūrṇamānāṁ tu tāṁ nāvaṁ nayaty amita-vikramaḥ ||   
+> himādri-śikhare nāvaṁ baddhvā devo jagat-patiḥ |   
+> matsyas tv adṛśyo bhavati te ca tiṣṭhanti tatragāḥ ||   
+> kṛta-tulyaṁ tadā kālaṁ tāvat prakṣālanaṁ smṛtam |   
+> āpaḥ śamam atho yānti yathā-pūrvaṁ narādhipa |   
+> ṛṣayaḥ manuścaiva sarvaṁ kurvanti te tadā ||   
+> manvantarānte jagatām avasthā   
+> mayeritā te yadu-vṛnda-nātha |   
+> ataḥ paraṁ kiṁ tava kīrtanīyaṁ   
+> samāsatas tad vada bhūmi-pāla || iti |
 
-एवं सर्व-मन्वन्तरेषु संहार इत्य्-आदि-प्रकरणं श्री-हरिवंशे तदीय-टीकासु च स्पष्टम् एव । अत एव पञ्चम-षष्ठ-मन्वन्तरान्ते श्री-भागवतेऽपि प्रलयो वर्ण्यते—
+evaṁ sarva-manvantareṣu saṁhāra ity-ādi-prakaraṇaṁ śrī-harivaṁśe tadīya-ṭīkāsu ca spaṣṭam eva | ata eva pañcama-ṣaṣṭha-manvantarānte śrī-bhāgavate'pi pralayo varṇyate—
 
 
-> चाक्षुषे त्व् अन्तरे प्राप्ते प्राक्-सर्गे काल-विद्रुते ।   
-> य ससर्जे प्रजा इष्टाः स दक्षो दैवचोदितः ॥ [४.३०.४९] इत्य् आदौ ॥   
-> रूपं स जगृहे मात्स्यं चाक्षुषान्तर-सम्प्लवे ।   
-> नाव्यारोप्य महीमय्याम् अपाद् वैवस्वतं मनुम् ॥ [भा।पु। १.३.१५] इत्य् आदौ च ।
+> cākṣuṣe tv antare prāpte prāk-sarge kāla-vidrute |   
+> ya sasarje prajā iṣṭāḥ sa dakṣo daivacoditaḥ || [4.30.49] ity ādau ||   
+> rūpaṁ sa jagṛhe mātsyaṁ cākṣuṣāntara-samplave |   
+> nāvyāropya mahīmayyām apād vaivasvataṁ manum || [bhā.pu. 1.3.15] ity ādau ca |
 
-तथा च भारत-तात्पर्ये श्री-मध्वाचार्याः—मन्वन्तर-प्रलये मत्स्य-रूपो विद्या-मदान् मनवे देव-देव [३.४३] इति । द्वादशे शौनक-वाक्ये—
+tathā ca bhārata-tātparye śrī-madhvācāryāḥ—manvantara-pralaye matsya-rūpo vidyā-madān manave deva-deva [3.43] iti | dvādaśe śaunaka-vākye—
 
 
-> स वा अस्मत्-कुलोत्पन्नः कल्पेऽस्मिन् भार्गवोत्तमः ।   
-> नैवाधुनापि भूतानां संप्लवः कोऽपि जायते ॥ [भा।पु। १२.८.३]
+> sa vā asmat-kulotpannaḥ kalpe'smin bhārgavottamaḥ |   
+> naivādhunāpi bhūtānāṁ saṁplavaḥ ko'pi jāyate || [bhā.pu. 12.8.3]
 
-इत्य् अत्र तद्-अस्वीकारस् तु कल्पान्त-प्रलय-विषय एव, येन ग्रस्तम् इदं जगद् [भा।पु। १२.८.२] इत्य् उक्तत्वात्, मन्वन्तर-प्रलये भावि-मन्वादीनाम् अपि स्थितेश् च । सष्ठे तु प्रलयोऽन्यस्मान् मन्वन्तराद् विलक्षणः, त्रैलोक्यस्यैव मज्जनात् । तथा चाष्टमे श्री-मत्स्य-देवेनोक्तम्—
+ity atra tad-asvīkāras tu kalpānta-pralaya-viṣaya eva, yena grastam idaṁ jagad [bhā.pu. 12.8.2] ity uktatvāt, manvantara-pralaye bhāvi-manvādīnām api sthiteś ca | saṣṭhe tu pralayo'nyasmān manvantarād vilakṣaṇaḥ, trailokyasyaiva majjanāt | tathā cāṣṭame śrī-matsya-devenoktam—
 
 
-> त्रिलोक्यां लीयमानायां संवर्ताम्भसि वै तदा ।   
-> उपस्थास्यति नौः काचिद् विशाला त्वां मयेरिता ॥ [भा।पु। ८.२४.३३] इति ।
+> trilokyāṁ līyamānāyāṁ saṁvartāmbhasi vai tadā |   
+> upasthāsyati nauḥ kācid viśālā tvāṁ mayeritā || [bhā.pu. 8.24.33] iti |
 
-एतद् अपेक्षयैव तत्र शुकेनापि योऽसाव् अस्मिन् महा-कल्पे [भा।पु। ८.२४.११] इत्य् उक्तम् । कल्प-शब्दस्य प्रलय-मात्र-वाचित्वात् । महच्-छब्दस्य मन्वन्तरान्तर-प्रलयापेक्षत्वात्, सम्वर्त्तः प्रलयः कल्पः क्षयः कल्पान्त इत्य् अपि इत्य् अमरः । अतस् त्रैलोक्य-मज्जन-हेतोर् एव दैनन्दिन-प्रलयवद् ब्रह्मापि तदा सत्य-युग-समान-काले प्रलये श्री-नारायण-नाभि-कमले विश्राम्यति । यत एव तत्र विश्रमण-साम्यात्, यावद् ब्राह्मी निशा [भा।पु। ८.२४.३७] इति निशा-शब्दः प्रयुक्तः । तत्र च त्रैलोक्य-मज्जनेऽपि केषाञ्चिद् देवासुरादीनाम् असमाप्त-भोगानां स्थितिस् तां नावम् आलम्ब्यैव । यद् उक्तं श्री-मत्स्य-देवेनैव सत्यव्रतं प्रति—
+etad apekṣayaiva tatra śukenāpi yo'sāv asmin mahā-kalpe [bhā.pu. 8.24.11] ity uktam | kalpa-śabdasya pralaya-mātra-vācitvāt | mahac-chabdasya manvantarāntara-pralayāpekṣatvāt, samvarttaḥ pralayaḥ kalpaḥ kṣayaḥ kalpānta ity api ity amaraḥ | atas trailokya-majjana-hetor eva dainandina-pralayavad brahmāpi tadā satya-yuga-samāna-kāle pralaye śrī-nārāyaṇa-nābhi-kamale viśrāmyati | yata eva tatra viśramaṇa-sāmyāt, yāvad brāhmī niśā [bhā.pu. 8.24.37] iti niśā-śabdaḥ prayuktaḥ | tatra ca trailokya-majjane'pi keṣāñcid devāsurādīnām asamāpta-bhogānāṁ sthitis tāṁ nāvam ālambyaiva | yad uktaṁ śrī-matsya-devenaiva satyavrataṁ prati—
 
 
-> त्वं तावद् ओषधीः सर्वा बीजान्य् उच्चावचानि च ।   
-> सप्तर्षिभिः परिवृतः सर्व-सत्त्वोपबृंहितः ॥ [भा।पु। ८.२४.३४] इति ।
+> tvaṁ tāvad oṣadhīḥ sarvā bījāny uccāvacāni ca |   
+> saptarṣibhiḥ parivṛtaḥ sarva-sattvopabṛṁhitaḥ || [bhā.pu. 8.24.34] iti |
 
-तस्मात् सिद्धे मन्वन्तर-प्रलये, तस्यापि नैमित्तिकत्वाच् चतुष्टयानतिरिक्तत्वम् । अन्योऽप्य् अकस्मात् प्रलयः श्रूयते यथा स्वायम्भुव-मन्वन्तर-सृष्ट्य्-आरम्भे, यथा सष्ठ-मन्वन्तर-मध्ये प्राचेतस-दक्ष-दौहित्र-हिरण्याक्ष-वधे । उभयोर् ऐक्येन कथनं तु तृतीये लीला-साजात्येनैव ज्ञेयम् । यथा पाद्म-ब्राह्म-कल्पयोः क्वचित् क्वचित् साङ्कर्यम्, तद्वत् । तस्मात्—निरोधोऽस्यानुशयनम् आत्मनः सह शक्तिभिः [भा।पु। २.१०.६] इत्य् एतल्-लक्षणम् अप्य् उपलक्षणम् एव नित्य-प्रलयेऽपि तद्-अव्याप्तेः ॥१५-२४॥ (६३)
+tasmāt siddhe manvantara-pralaye, tasyāpi naimittikatvāc catuṣṭayānatiriktatvam | anyo'py akasmāt pralayaḥ śrūyate yathā svāyambhuva-manvantara-sṛṣṭy-ārambhe, yathā saṣṭha-manvantara-madhye prācetasa-dakṣa-dauhitra-hiraṇyākṣa-vadhe | ubhayor aikyena kathanaṁ tu tṛtīye līlā-sājātyenaiva jñeyam | yathā pādma-brāhma-kalpayoḥ kvacit kvacit sāṅkaryam, tadvat | tasmāt—nirodho'syānuśayanam ātmanaḥ saha śaktibhiḥ [bhā.pu. 2.10.6] ity etal-lakṣaṇam apy upalakṣaṇam eva nitya-pralaye'pi tad-avyāpteḥ ||15-24|| (63)
 
-**बलदेवः :** पूर्वोक्तायां दश-लक्षण्यां मुक्तिर् एक-लक्षणम् । अस्यां तु चतुर्विधानां संस्थायाम् आत्यन्तिक-लय-शब्दिता मुक्तिर् आनीतेति । यं चानुशयिनम् इति भुक्त-शिष्ट-कर्म-विशिष्टो जीवोनुशयीत्य् उच्यते । रूपेति मूर्त्या संज्ञया चोपेतेष्व् इत्य् अर्थः । कार्य-दृष्टिम् इति घटादिभ्यः पृथग् अपि पृथ्व्यादेः प्राप्तेर् इत्य् अर्थः । अपाश्रयेति ईश्वर-ध्यान-योग्यो भवतीत्य् अर्थः । स्वयम् इति वामदेवः खलु गर्भस्य एव परमात्मानं बुबुधे, योगेन देवहूतीत्य् अर्थः ॥६३॥
+**baladevaḥ :** pūrvoktāyāṁ daśa-lakṣaṇyāṁ muktir eka-lakṣaṇam | asyāṁ tu caturvidhānāṁ saṁsthāyām ātyantika-laya-śabditā muktir ānīteti | yaṁ cānuśayinam iti bhukta-śiṣṭa-karma-viśiṣṭo jīvonuśayīty ucyate | rūpeti mūrtyā saṁjñayā copeteṣv ity arthaḥ | kārya-dṛṣṭim iti ghaṭādibhyaḥ pṛthag api pṛthvyādeḥ prāpter ity arthaḥ | apāśrayeti īśvara-dhyāna-yogyo bhavatīty arthaḥ | svayam iti vāmadevaḥ khalu garbhasya eva paramātmānaṁ bubudhe, yogena devahūtīty arthaḥ ||63||
 
-**राधामोहन-गोस्वामी :** बादरायणेति । तत्-समाधि-लब्ध-ब्रह्म-जीव-भेदेन विरोधाद् इत्य् अर्थः । जाग्रद्-आदिषु जीव-वृत्तिषु माया-मयेषु देहादिषु जीव-स्वरूपस्योपाध्य्-उपाहितस्योपाधि-व्यतिरेकोऽस्ति, तेन तदानीमभिमानितेति । शुद्ध-जीवोऽपि श्लोकोऽत्र तात्पर्य-विषयो भवितुम् अर्हति, तथापि तस्य ब्रह्मत्वं न घटते । प्राग्-उक्त-समाधि-लब्धार्थ-विरोधात् सुषुप्ते निरुक्तान्वयासत्त्वाच् च न जीव-परतया व्याख्यायते इति भावः । केवल-स्व-स्वरूपेण निरुपाध्य्-अंशेन व्यतिरेक इति । तेन ब्रह्मणस् तुरीयत्वं परम-साक्षितया शुद्ध-जीवस्य साक्षाद्-दर्शन-शक्त्य्-उद्बोधकतयाऽन्वयश् चेति । शिवम् अद्वैतं चतुर्थं मन्यन्ते [नृपु। ४.२] इति श्रुतेः, तुरीयं त्रिषु सन्ततम् इति स्मृतेश् च । एकादशात् जीवोऽल्प-शक्तिर् अल्पज्ञः इत्य्-आदि श्रुत्या जीवस्य स्वतः-सिद्ध-ज्ञानाभावात्, बुद्धेश् चोदयिता यश् च चिद्-आत्मा पुरुषो विराट् इति गायत्र्य्-अर्थ-विवरण-याज्ञवल्क्य-वचनात् । को ह्य् एवान्यात् कः प्राण्यात् यद् एष आकाश आनन्दो न स्यात्, एष ह्य् एवानन्दयति जीवान् इति रामानुज-भाष्य-धृत-श्रुतेश् च । जीवस्य मुक्तता-दशायां दशा-त्रयातीतत्वेऽपि न तदानीं द्शा-त्रयान्वय इति तद्-व्यावृत्तिः । रूप-नामात्मकेषु रूप-नाम-युक्तेषु पञ्चता मरणम्, द्रव्यस्य पृथिव्यादेः । 
+**rādhāmohana-gosvāmī :** bādarāyaṇeti | tat-samādhi-labdha-brahma-jīva-bhedena virodhād ity arthaḥ | jāgrad-ādiṣu jīva-vṛttiṣu māyā-mayeṣu dehādiṣu jīva-svarūpasyopādhy-upāhitasyopādhi-vyatireko’sti, tena tadānīmabhimāniteti | śuddha-jīvo’pi śloko’tra tātparya-viṣayo bhavitum arhati, tathāpi tasya brahmatvaṁ na ghaṭate | prāg-ukta-samādhi-labdhārtha-virodhāt suṣupte niruktānvayāsattvāc ca na jīva-paratayā vyākhyāyate iti bhāvaḥ | kevala-sva-svarūpeṇa nirupādhy-aṁśena vyatireka iti | tena brahmaṇas turīyatvaṁ parama-sākṣitayā śuddha-jīvasya sākṣād-darśana-śakty-udbodhakatayā’nvayaś ceti | śivam advaitaṁ caturthaṁ manyante [nṛpu. 4.2] iti śruteḥ, turīyaṁ triṣu santatam iti smṛteś ca | ekādaśāt jīvo’lpa-śaktir alpajñaḥ ity-ādi śrutyā jīvasya svataḥ-siddha-jñānābhāvāt, buddheś codayitā yaś ca cid-ātmā puruṣo virāṭ iti gāyatry-artha-vivaraṇa-yājñavalkya-vacanāt | ko hy evānyāt kaḥ prāṇyāt yad eṣa ākāśa ānando na syāt, eṣa hy evānandayati jīvān iti rāmānuja-bhāṣya-dhṛta-śruteś ca | jīvasya muktatā-daśāyāṁ daśā-trayātītatve’pi na tadānīṁ dśā-trayānvaya iti tad-vyāvṛttiḥ | rūpa-nāmātmakeṣu rūpa-nāma-yukteṣu pañcatā maraṇam, dravyasya pṛthivyādeḥ | 
 
-**गौर-किशोर-गोस्वामी- **
+**gaura-kiśora-gosvāmī: **
 
-श्री-गौरोरो-विलासिनी देवी विष्णु-प्रियाभिधा । 
+śrī-gauroro-vilāsinī devī viṣṇu-priyābhidhā | 
 
-अनुजो यादवानन्दः तस्या ज्ञेयः सुभक्तिमान् ॥
+anujo yādavānandaḥ tasyā jñeyaḥ subhaktimān ||
 
-तद्-वंश-सम्भूतः श्रीमत्-कुञ्जलालो महामतिः ।
+tad-vaṁśa-sambhūtaḥ śrīmat-kuñjalālo mahāmatiḥ |
 
-अहं तस्य सुतो ज्येष्ठो गौर-किशोर-संज्ञकः ॥
+ahaṁ tasya suto jyeṣṭho gaura-kiśora-saṁjñakaḥ ||
 
-टीका विरचिता ह्य् एषा नाम्ना स्वर्ण-लता मया ।
+ṭīkā viracitā hy eṣā nāmnā svarṇa-latā mayā |
 
-वैष्णव-परितोषार्थं सन्दर्भार्थ-प्रबोधिनी ॥
+vaiṣṇava-paritoṣārthaṁ sandarbhārtha-prabodhinī ||
 
-श्रीमद्-गौराङ्ग-चन्द्रस्य विष्णु-प्रियान्वितस्य च ।
+śrīmad-gaurāṅga-candrasya viṣṇu-priyānvitasya ca |
 
-तद्-भक्त-जन-वर्गाणां कृपातः पूर्णताम् इता ॥
+tad-bhakta-jana-vargāṇāṁ kṛpātaḥ pūrṇatām itā ||
 
-ग्रह-शर-गुरु-भूपे शकाब्दे कुम्भगे रवौ ।
+graha-śara-guru-bhūpe śakābde kumbhage ravau |
 
-मया प्रकाशिता टीका सन्दर्भेण समायुता ॥
+mayā prakāśitā ṭīkā sandarbheṇa samāyutā ||
 
-वामे विष्णु-प्रिया यस्य सव्ये लक्ष्मीप्रिया सती ।
+vāme viṣṇu-priyā yasya savye lakṣmīpriyā satī |
 
-सम्मुखे यादवाचार्यः पश्चाच् च सेवकाः स्थिताः ॥
+sammukhe yādavācāryaḥ paścāc ca sevakāḥ sthitāḥ ||
 
-चरणं शरणं तस्य यातु स्वर्ण-लता मम ।
+caraṇaṁ śaraṇaṁ tasya yātu svarṇa-latā mama |
 
-विजयते सदा चैवं गौरचन्द्रो महाप्रभुः ॥ 
+vijayate sadā caivaṁ gauracandro mahāprabhuḥ || 
 
-इति श्री-गौरकिशोर-गोस्वामि-वेदान्त-तीर्थ-विरचिता तत्त्व-सन्दर्भ-टीका स्वर्ण-लता समाप्ता ॥
+iti śrī-gaurakiśora-gosvāmi-vedānta-tīrtha-viracitā tattva-sandarbha-ṭīkā svarṇa-latā samāptā ||
 
-**इति श्री-कलि-युग-पावन-स्व-भजन-विभाजन-प्रयोजनावतार-श्री-श्री-भगवत्-कृष्ण-चैतन्य-देव-चरणानुचर-विश्व-वैष्णव-राज-सभाजन-भाजन-श्री-रूप-सनातनानुशासन-भारती-गर्भे श्री-भागवत-सन्दर्भे तत्त्व-सन्दर्भो नाम प्रथमः सन्दर्भः ॥**
+**iti śrī-kali-yuga-pāvana-sva-bhajana-vibhājana-prayojanāvatāra-śrī-śrī-bhagavat-kṛṣṇa-caitanya-deva-caraṇānucara-viśva-vaiṣṇava-rāja-sabhājana-bhājana-śrī-rūpa-sanātanānuśāsana-bhāratī-garbhe śrī-bhāgavata-sandarbhe tattva-sandarbho nāma prathamaḥ sandarbhaḥ ||**
 
-**बलदेवः :** इति कलीति कलि-युग-पावनं यत् स्व-भजनं तस्य विभजनं विस्तरणं प्रयोजनं यस्य तादृशोऽवतारः प्रादुर्भावो यस्य, तस्य श्री-भगवत्-कृष्ण-चैतन्य-देवस्य चरणयोर् अनुचरौ, विश्वस्मिन् ये वैष्णव-राजास् तेषां सभासु यत् स-भाजनं सत्-कारस् तस्य भाजने पात्रे च यौ श्री-रूप-सनातनौ तयोर् अनुशासन-भारत्य उपदेश-वाक्यानि गर्भे मध्ये यस्य तस्मिन् ॥
+**baladevaḥ :** iti kalīti kali-yuga-pāvanaṁ yat sva-bhajanaṁ tasya vibhajanaṁ vistaraṇaṁ prayojanaṁ yasya tādṛśo’vatāraḥ prādurbhāvo yasya, tasya śrī-bhagavat-kṛṣṇa-caitanya-devasya caraṇayor anucarau, viśvasmin ye vaiṣṇava-rājās teṣāṁ sabhāsu yat sa-bhājanaṁ sat-kāras tasya bhājane pātre ca yau śrī-rūpa-sanātanau tayor anuśāsana-bhāratya upadeśa-vākyāni garbhe madhye yasya tasmin ||
 
-टिप्पणी तत्त्व-सन्दर्भे विद्या-भूषण-निर्मिता ।
+ṭippaṇī tattva-sandarbhe vidyā-bhūṣaṇa-nirmitā |
 
-श्री-जीव-पाठ-संपृक्ता सद्भिर् एषा विशोध्यताम् ॥
+śrī-jīva-pāṭha-saṁpṛktā sadbhir eṣā viśodhyatām ||
 
-इति श्रीमद्-बलदेव-विद्या-भूषण-विरचिता तत्त्व-सन्दर्भ-टिप्पणी समाप्ता ॥
+iti śrīmad-baladeva-vidyā-bhūṣaṇa-viracitā tattva-sandarbha-ṭippaṇī samāptā ||
 
 
-## नोतेस्
+## Notes
 
