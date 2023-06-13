@@ -2,16 +2,16 @@
 title = "mahamad-rAza-khAn 1890"
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 (Old pamphlet, unverified, circulated on whatsapp.)
 
 अण्ड्रुम् इण्ड्रुम् स्वामि तेसिगनिन् विरोदिगळ् तॆन्गलैयार्गळे.  
 
 1. स्वामि दॆसिगळ् वाऴ्न्दरुळिन कालत्तिले अवरुडैय तिरुमाळिगै वासलिले सॆरुप्पुगळैक् कट्टि तॊङ्ग-विट्टवर्गळ् तॆन्गलैयार्गळे.
-2. सॆगॆनिन् (तिरुवडिगळै) कालैवारिविट्टवर्गळुम् तॆन्गलैयार्गळे.
-அன்றும் இன்றும் ஸ்வாமி தேசிகனின் விரோதிகள்
-தென்கயைார்களே.
-1. ஸ்வாமி தேசிகள் வாழ்ந்தருளின காலத்திலே அவருடைய திருமாளிகை ? வாசலிலே செருப்புகளைக் கட்டி தொங்கவிட்டவர்கள் தென்கலையார்களே.
-2. செகெனின் (திருவடிகளை) காலைவாரிவிட்டவர்களும் தென்கலையார்களே.
+2. स्वामिदेशिकनिन् (तिरुवडिगळै) कालै वारिविट्टवर्गळुम् तॆन्गलैयार्गळे.
+</details>
+
 
 This is a very sensational appeal which discloses how wild certain jarring elements in the physical and mental constitution of the two Iyengar sectarians to wit Vadagalais and Thengalais are at work against each other for reciprocal ruination in consequence of some silly difference in the matter of observing certain, rituals during the pooja.
 
