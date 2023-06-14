@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 ## रामानुजं यावत्
 **नारायणः** → लक्ष्मीः → विष्वक्सेनः … → नम्माळ्वार् → मधुरकविः … → रङ्गनाथमुनिः|**नाथमुनिः** → पुण्डरीकाक्षः|उय्यक्कॊण्डर् → राममिश्रः|मणल्-काल्-नम्बिः → **यामुनः** → महापूर्णः|पॆरिय-तिरुमलै-नम्बि (तातार्यः) → **रामानुजः**
 
-काञ्चीपूर्ण इति वैष्यसिद्धो देवराजसेवको ऽप्य् उपाकरोद् रामानुजम्।
+काञ्चीपूर्ण इति वैश्यसिद्धो देवराजसेवको ऽप्य् उपाकरोद् रामानुजम्।
 
 ### उत्तराधिकारी
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -56,9 +56,22 @@ Andavans
 - →  Srinivasa Raghavachariar (chinnAndavan-Karthigai Magham) lived from 1828 to 1894 
 - → KadanthEthi Andavan Sadhavadhani Varadha Vedanthachar (Avani-Moolam) -(1829 to 1909)
 
+वेङ्कटनाथ-ध्यान-श्लोकाः - [अत्र](/devaH/AryaH/hindukaH/classes/guravaH/venkaTanAthaH) । 
+
 ## दक्षिणकलार्याः
 
 रामानुजः → श्रीरङ्गे ऽवशिष्टाः …→ Pillai Lokacharya → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः), Erumbi Appa, Appillai, and Appillan
+
+<details><summary>ध्यानश्लोकाः</summary>
+
+मनवाळमहामुनिः। 
+
+श्रीशैलेश-दयापात्रं  
+धीभक्त्यादि-गुणार्णवम् ।  
+यतीन्द्र-प्रवणं वन्दे  
+रम्य-जामातरं मुनिम्॥
+</details>
+
 
 <details><summary>श्रीरङ्ग-ग्रहणम्</summary>
 
