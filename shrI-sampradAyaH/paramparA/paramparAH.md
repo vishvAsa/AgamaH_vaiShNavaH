@@ -12,8 +12,8 @@ unicode_script = "devanagari"
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 - Most probable (Vadakalai) view - pillan was named successor.
-- Per another T tradition parasara bhattar was made leader after ramanuja.
-- As per one T tradition (Guru-parampara), Ramanuja's cousin Embar succeeded him as the leader of Shrivaishnavas, followed by Parasara Bhattar.
+- Per another tradition parasara bhattar was made leader after ramanuja.
+- As per one tradition (Guru-parampara), Ramanuja's cousin Embar succeeded him as the leader of Shrivaishnavas, followed by Parasara Bhattar.
 
 Vijay read an article which made the following points:
 
