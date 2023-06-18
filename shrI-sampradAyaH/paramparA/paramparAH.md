@@ -47,9 +47,14 @@ Vijay read an article which made the following points:
 ## वेदान्तदेशिक-शाखा
 - **रामानुजः** → आत्रेयः प्रणतार्तिहरः → … → आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः → वेदान्तदेशिको **वेङ्कटनाथः** → तत्पुत्रः कुमारवरदः, परकालयतिः → नडातूरु-वात्स्य-घटिकाशतकः … → अहोबिलाचार्यः → पञ्चमत-भञ्जन-ताताचार्यः … → आत्रेय-गोपालार्यः मुनि-त्रय-सम्प्रदाय-प्रवर्तकः, aka Thirukkudanthai Desika → Ramanuja Maha Desikan (Andavan Ashrama), Annarya, Vangipuram Vedhantha Ramanuja Maha desikan (Aandikadu Swamy in Srirangam)
 
-- Sribhashya Guru Parampara upto VD goes R->Pillaan->Engalazhvan -> Nadadur Ammal (great-grandson of Nadadur Alvan - another Sribhashya simhasanadhipati) -> Kidambi Appullar -> VD
+### ताताचार्याः
+A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few more here n there) are tenkalais. More than 95% of tataryas must be vdk.
 
-Andavans 
+### श्रीभाष्य-परम्परा
+- R->Pillaan->Engalazhvan -> Nadadur Ammal (great-grandson of Nadadur Alvan - another Sribhashya simhasanadhipati) -> Kidambi Appullar -> VD
+
+
+### Andavans 
 
 - Ramanuja Maha Desikan …
 - → PeriAndavan(25-2-1801 to 1884-feb) 
@@ -57,6 +62,12 @@ Andavans
 - → KadanthEthi Andavan Sadhavadhani Varadha Vedanthachar (Avani-Moolam) -(1829 to 1909)
 
 वेङ्कटनाथ-ध्यान-श्लोकाः - [अत्र](/devaH/AryaH/hindukaH/classes/guravaH/venkaTanAthaH) । 
+
+### अहोबिलमठः
+<details><summary>आदिमाहोबिलमठाचार्यस्य काले रविलोचनः</summary>
+
+His period should have started about 1458.. 60 yrs (one samvatsara cycle) later than the traditional dates claimed by the matha. That shall also explain how allasani peddanna (who was in krishnarayas durbar) calls him as his acharya among other things - like inscriptions of his successor from 1515 or so CE.
+</details>
 
 ## दक्षिणकलार्याः
 
