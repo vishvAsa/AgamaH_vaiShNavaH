@@ -40,7 +40,7 @@ I will now set forth (the performance of) the adoration of the Lord by the perso
     >> yas tu bhogatayā viṣṇoḥ  
     >> satkṛtyaṃ kurute sadā  
     >> sa eva paramaikāntī  
-    >> mahābhāgavatottamaḥ) 
+    >> mahābhāgavatottamaḥ 
     
     (2010: 15). 
 
