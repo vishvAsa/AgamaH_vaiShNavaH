@@ -22,7 +22,7 @@ I. The Purpose of the Nityam: The Daily Practice of the Person Who Has Already T
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ परमैकान्तिनो भगवद्-आराधन-प्रयोगं वक्ष्ये ।
+अथ परमैकान्तिनो+++(=विष्णु-पूजैक-चित्तस्य)+++ भगवद्-आराधन-प्रयोगं वक्ष्ये ।
 </details>
 
 <details><summary>FX Clooney</summary>
