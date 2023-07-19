@@ -8,15 +8,25 @@ title = "०५ तत्त्वत्रयचिन्तनाधिका�
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे तत्त्वत्रयचिन्तनाधिकारः ॥ ५ ॥
 
+<details><summary>English</summary>
+
 (5) THE CHAPTER ON THE THREE 'REALS'  (OR TATVAS) page107
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रकृत्यात्मभ्रान्तिर्गलति चिदचिल्लक्षणधिया  
-तथा जीवेशैक्यप्रभृतिकलहस्तद्विभजनात् ।  
-अतो भोक्ता भोग्यं तदुभयनियन्तेति निगमै  
-र्विभक्तं नस्तत्वत्रयमुपदिशन्त्यक्षतधियः ॥ १४ ॥
+प्रकृत्य्-आत्म-भ्रान्तिर् **गलति** चिद्-अचिल्-लक्षण-धिया  
+तथा जीवेशैक्य-प्रभृति-कलहस् तद्+++(=जीवेश)+++-विभजनात् ।  
+अतो भोक्ता, भोग्यं, तद्-उभय-नियन्तेति निगमैर्  
+विभक्तं नस् **तत्त्व-त्रयम् उपदिशन्त्य्** अक्षत-धियः ॥ १४ ॥
 </details>
+
+<details><summary>English</summary>
+
+The delusion that the soul is nothing but the body and the senses (prakṛti) disappears when one has a knowledge of the distinctive features of sentient beings and non-sentient things. So also the disputes on such questions as the unity of the jīva and God will no longer continue, when the characteristic features of each of them are marked out. Our ācārya s, whose wisdom never failed, teach us about the existence of three realities (Tattvas) classified in the s'āstrās as the experiencing subjects (bhoktā), the objects of experience and enjoyment (bhogyam) and He who rules over both of them (Iśvara).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -26,13 +36,86 @@ title = "०५ तत्त्वत्रयचिन्तनाधिका�
 र्विभक्तं नस्तत्वत्रयमुपदिशन्त्यक्षतधियः ॥ १४ ॥
 </details>
 
-The delusion that the soul is nothing but the body and the senses (prakṛti) disappears when one has a knowledge of the distinctive features of sentient beings and non-sentient things. So also the disputes on such questions as the unity of the jīva and God will no longer continue, when the characteristic features of each of them are marked out. Our ācārya s, whose wisdom never failed, teach us about the existence of three realities (Tattvas) classified in the s'āstrās as the experiencing subjects (bhoktā), the objects of experience and enjoyment (bhogyam) and He who rules over both of them (Iśvara).
 
 CLASSIFICATION OF TATVAS OR REALS AND ITS USE:
 
-It may be asked why the ācāryas should state that the three tatvās or 'reals' should be specially prescribed for the study of those who seek mokṣa , when they form only a part of the six things that should be known, namely, the five truths arthapañcaka and the relationship of soul and body (which exists between God and the world). The answer is as follows: It is necessary to root out the delusion that the body is the atma and that the jīva is independent (of the Lord), as well as the view that there is no God, which is the cause of that delusion, for these are great obstacles to mokṣa.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The śāstrās, therefore, divide Reality into three classes ; the experiencing subject, the object of experience or enjoyment, and the Ruler who controls and directs them. Among them, non-sentient things which are the objects of experience are of three kinds (1) Prakṛti or matter which has the three qualities of sattvam, rajas and tamas (2) Kala or time and (3) Śuddha Satvam, the substance of which the transcendental region beyond matter called Vaikuṇṭha   is made. The nature of (1) Prakṛti has been thus described :-"It is [^f134] non-sentient (achetana). It exists (always) for others and it is eternal, but subject always to change or modification. It has three qualities sattvam, rajas and tamas and is the field of action (karma) for the jīva". The nature of (2) Kala or time is described thus :- " Bhagavān [^f135] Kala (i.e.) Time, which is the body of Bhagavān, has no beginning nor end." "It takes [^f136] the forms of such divisions as kalaa and muhoortha which are respectively 1-3/8 minutes and 1/30th part of a day (and is the cause of the modifications of matter). But it causes no change or modification in the transcendental world (Aprākritaloka) beyond matter". The nature of the transcendental world beyond matter is such that it is made of s'uddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. God controls time there ; time is not the [^f138] cause of any change or modification in the world of Śuddha-sattvam (as it is in the world of matter). Thus the nature of Prakṛti, Kāla and Śuddha sattva which belong to three classes of non-sentient things (achetana), has been described.
+संबन्धमुम्, अर्थपञ्चकमुङ् +गूड,  
+आऱु अर्थम् अऱिय-वेण्डिय् इरुक्क इवट्रिल्  
+एकदेशमान तत्वत्रयत्तै  
+मुमुक्षुवुक्कु विशेषित्त् अऱिय वेणुम् ऎण्ड्रु  
+आचार्यर्गळ् उपदेशित्तुप् पोरुगैक्  
+कडिय् ऎन्न् ऎन्निल्;  
+अदुक्क् अडि प्रकृत्य्-आत्म-भ्रममुम्  
+स्वतन्त्रात्म-भ्रममुम्  
+इदुक्कु निदानम् आन अनीश्वर-वाद-रुचियुम्  
+आगिऱ महा-विरोधिगळै  
+मुऱ्‌पडक्क् अऴिक्क प्राप्तम् आगै.
+</details>
+
+<details><summary>English</summary>
+
+It may be asked -  
+
+> why the ācāryas should state that the three tatvās or 'reals' should be specially prescribed for the study of those who seek mokṣa , when they form only a part of the six things that should be known, namely, the five truths arthapañcaka and the relationship of soul and body (which exists between God and the world)? 
+
+The answer is as follows: 
+
+It is necessary to root out the delusion that the body is the atma and that the jīva is independent (of the Lord), as well as the view that there is no God, which is the cause of that delusion, for these are great obstacles to mokṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संबन्धमुम् अर्थपञ्चकमुङ्गूड आऱु अर्थमऱियवेण्डियिरुक्क इवट्रिल् एकदेशमान तत्वत्रयत्तै मुमुक्षुवुक्कु विशेषित्तऱिय वेणुम् ऎण्ड्रु आचार्यर्गळुपदेशित्तुप्पोरुगैक् कडियॆन्नॆन्निल्; अदुक्कडि प्रकृत्यात्मभ्रममुम् स्वतन्त्रात्मभ्रममुम् इदुक्कु निदानमान अनीश्वरवादरुचियुमागिऱ महाविरोधिगळै मुऱ्‌पडक्कऴिक्क प्राप्तमागै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तै निनैत्तु  
+भोक्तृ-भोग्य-नियन्तृ-रूपत्ताले  
+शास्त्रङ्गळिले तत्व-विवेकम् पण्णुगिऱदु.
+</details>
+
+<details><summary>English</summary>
+
+The śāstrās, therefore, divide Reality into three classes ; the experiencing subject, the object of experience or enjoyment, and the Ruler who controls and directs them. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्तै निनैत्तु भोक्तृभोग्य-नियन्तृरूपत्ताले शास्त्रङ्गळिले तत्वविवेकम् पण्णुगिऱदु.
+</details>
+
+<details><summary>English</summary>
+
+Among them, non-sentient things which are the objects of experience are of three kinds (1) Prakṛti or matter which has the three qualities of sattvam, rajas and tamas (2) Kala or time and (3) Śuddha Satvam, the substance of which the transcendental region beyond matter called Vaikuṇṭha   is made. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् वैत्तुक्कॊण्डु 
+
+> “अचेतना परार्था च  
+नित्या सततविक्रिया ।  
+त्रिगुणा कर्मिणां क्षेत्रं  
+प्रकृते रूपम् उच्यते ॥” (परमसम्हिदा.) 
+</details>
+
+<details><summary>English</summary>
+
+The nature of (1) Prakṛti has been thus described :-"It is [^f134] non-sentient (achetana). It exists (always) for others and it is eternal, but subject always to change or modification. It has three qualities sattvam, rajas and tamas and is the field of action (karma) for the jīva". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् वैत्तुक्कॊण्डु “अचेतना परार्था च नित्या सततविक्रिया । त्रिगुणा कर्मिणां क्षेत्रं प्रकृते रूपमुच्यते ॥” (परमसम्हिदा.) 
+</details>
+
+
+The nature of (2) Kala or time is described thus :- " Bhagavān [^f135] Kala (i.e.) Time, which is the body of Bhagavān, has no beginning nor end." "It takes [^f136] the forms of such divisions as kalaa and muhoortha which are respectively 1-3/8 minutes and 1/30th part of a day (and is the cause of the modifications of matter). But it causes no change or modification in the transcendental world (Aprākritaloka) beyond matter". The nature of the transcendental world beyond matter is such that it is made of s'uddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. God controls time there ; time is not the [^f138] cause of any change or modification in the world of Śuddha-sattvam (as it is in the world of matter). Thus the nature of Prakṛti, Kāla and Śuddha sattva which belong to three classes of non-sentient things (achetana), has been described.
 
 [^f134]: Parama Saṁhitā: 2
 

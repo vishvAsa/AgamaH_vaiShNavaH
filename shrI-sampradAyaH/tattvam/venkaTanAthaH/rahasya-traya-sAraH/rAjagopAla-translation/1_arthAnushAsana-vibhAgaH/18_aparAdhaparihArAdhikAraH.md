@@ -441,7 +441,6 @@ An emperor, who is to be duly served, punishes his attendants (like those who ca
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
 अवर्गळ् तप्पिनदुक्कु क्षमै-गॊळ्ळुगैक्क् आगवुम्,  
 +++(इन्-)+++मेलैक्कुम् शिक्षैय् आगैक्क् आगवुम्,  
 </details>
