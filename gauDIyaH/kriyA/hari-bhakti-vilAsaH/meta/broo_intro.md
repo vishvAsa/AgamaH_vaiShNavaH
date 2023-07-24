@@ -4,21 +4,13 @@ title = "Introduction"
 +++
 ## 1 Introduction to the Text
 
-The present book is a text-critical edition and annotated translation of the *Bhagavad*- or *Haribhaktivilāsa* (“Splendour of devotion to Hari”, henceforth
-
-HBV). This text, written ca.1540, is one of the first Sanskrit works of the Gauḍīya Vaiṣṇava *saṃpradāya* begun by Śrī Kṛṣṇa Caitanya (1486–1533; for classical overviews on this devotional Hindu tradition, see e.g., De 1942 or Eidlitz 1968), detailing in twenty long chapters and around 12000 verses the normative *sadācāra* or correct conduct as well as the ritual life of a Vaiṣṇava, ranging from how to properly brush the teeth upon getting up in the morning to how to build a temple for Viṣṇu. The
+The present book is a text-critical edition and annotated translation of the *Bhagavad*- or *Haribhaktivilāsa* (“Splendour of devotion to Hari”, henceforth HBV). This text, written ca.1540, is one of the first Sanskrit works of the Gauḍīya Vaiṣṇava *saṃpradāya* begun by Śrī Kṛṣṇa Caitanya (1486–1533; for classical overviews on this devotional Hindu tradition, see e.g., De 1942 or Eidlitz 1968), detailing in twenty long chapters and around 12000 verses the normative *sadācāra* or correct conduct as well as the ritual life of a Vaiṣṇava, ranging from how to properly brush the teeth upon getting up in the morning to how to build a temple for Viṣṇu. The
 
 HBV does so in the form of a *nibandha*, or in the terms of Teun Goudriaan (Goudriaan & Gupta 1981: 141–142), a “compilation”, that is, a work of usually known authorship, which present material on ritual, usually in the form of quotations from older authorities.
 
-In contrast to texts such as Rūpa Gosvāmin’s *Bhaktirasāmṛtasindhu*, the
+In contrast to texts such as Rūpa Gosvāmin’s *Bhaktirasāmṛtasindhu*, the HBV or ritual texts like it in general have been little studied either by scholars or practising Gauḍīya Vaiṣṇavas (Wong 2015). That does not mean that the
 
-HBV or ritual texts like it in general have been little studied either by scholars or practising Gauḍīya Vaiṣṇavas (Wong 2015). That does not mean that the
-
-HBV has never been studied before. For instance, in his influential work on the early Sanskrit works of Gauḍīya Vaiṣṇavism, Sushil Kumar De (1942: 340–402) discussed the text and summarises its contents, and Rasik Vihari Joshi’s (1959) study on Kṛṣṇaite ritual was mainly based on the
-
-HBV. More recent studies include Krishnadas Sinha’s (2009) doctoral thesis on the influence of the
-
-HBV on the Bishnupriya Manipuri community, Elisabeth Raddock’s (2011) work on its relationship with the *Hayaśīrṣa Pañcarātra* and Barbara Holdrege’s (2015: 287–289) discussion of the way in which the
+HBV has never been studied before. For instance, in his influential work on the early Sanskrit works of Gauḍīya Vaiṣṇavism, Sushil Kumar De (1942: 340–402) discussed the text and summarises its contents, and Rasik Vihari Joshi’s (1959) study on Kṛṣṇaite ritual was mainly based on the HBV. More recent studies include Krishnadas Sinha’s (2009) doctoral thesis on the influence of the HBV on the Bishnupriya Manipuri community, Elisabeth Raddock’s (2011) work on its relationship with the *Hayaśīrṣa Pañcarātra* and Barbara Holdrege’s (2015: 287–289) discussion of the way in which the
 
 HBV deals with reconfiguring the elements of the practitioner’s body before worship.
 
@@ -36,9 +28,7 @@ In this introduction, I deal with the puzzling question on the authorship of the
 
 Every single manuscript of the
 
-HBV that I have examined clearly says (1.2) that the text was compiled by Gopāla Bhaṭṭa, the disciple of Prabodhānanda, for the pleasure of Rūpa, Sanātana and Raghunātha Dāsa Gosvāmins. The colophon at the end of every chapter likewise identifies the author as Gopāla Bhaṭṭa. Nevertheless, Jīva Gosvāmin includes the
-
-HBV among the works of his uncle Sanātana Gosvāmin at the end of his *Laghuvaiṣṇavatoṣaṇī* commentary on the tenth book of the *Bhāgavata Purāṇa* written in 1582–1583.[^FN000002] Around 1610, Kṛṣṇadāsa Kavirāja ascribes the
+HBV that I have examined clearly says (1.2) that the text was compiled by Gopāla Bhaṭṭa, the disciple of Prabodhānanda, for the pleasure of Rūpa, Sanātana and Raghunātha Dāsa Gosvāmins. The colophon at the end of every chapter likewise identifies the author as Gopāla Bhaṭṭa. Nevertheless, Jīva Gosvāmin includes the HBV among the works of his uncle Sanātana Gosvāmin at the end of his *Laghuvaiṣṇavatoṣaṇī* commentary on the tenth book of the *Bhāgavata Purāṇa* written in 1582–1583.[^FN000002] Around 1610, Kṛṣṇadāsa Kavirāja ascribes the
 
 [^FN000002]:
 
@@ -46,9 +36,7 @@ HBV among the works of his uncle Sanātana Gosvāmin at the end of his *Laghuvai
 
 
 
-HBV to Sanātana twice in his *Caitanyacaritāmṛta* (2.1.35, 3.4.221; for this important early 17th-century hagiography, see Stewart 2010) and even has Caitanya teach a summary of its teachings to Sanātana (2.24.329–345). Kṛṣṇadāsa wrote the *Caitanyacaritāmṛta* after the passing of both Gopāla Bhaṭṭa and Sanātana Gosvāmin, but as he knew both of them personally—and is mentioned by name in the
-
-HBV (1.4)—his evidence cannot be taken lightly.
+HBV to Sanātana twice in his *Caitanyacaritāmṛta* (2.1.35, 3.4.221; for this important early 17th-century hagiography, see Stewart 2010) and even has Caitanya teach a summary of its teachings to Sanātana (2.24.329–345). Kṛṣṇadāsa wrote the *Caitanyacaritāmṛta* after the passing of both Gopāla Bhaṭṭa and Sanātana Gosvāmin, but as he knew both of them personally—and is mentioned by name in the HBV (1.4)—his evidence cannot be taken lightly.
 
 Gopāla Bhaṭṭa and Sanātana Gosvāmins both belonged to the famous “Six Gosvāmins of Vṛndāvana”, a group of ascetic and learned men to a large part responsible for establishing Gauḍīya Vaiṣṇavism in the Vraja area in the 16th century and for systematising the doctrines of this movement (for accessible introductions, see Kapoor 1995 or Rosen 1991).
 
