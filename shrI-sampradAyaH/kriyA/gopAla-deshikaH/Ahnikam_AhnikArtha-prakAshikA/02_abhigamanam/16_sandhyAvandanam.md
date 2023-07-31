@@ -441,7 +441,7 @@ title = "१६ सन्ध्यावन्दनम्"
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/25_sUryash_cha/"  newLevelForH1="2" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/25_sUryash_cha/"  newLevelForH1="2" includeTitle="true"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1065,7 +1065,7 @@ title = "१६ सन्ध्यावन्दनम्"
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/26_AyAtu_varadA/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/26_AyAtu_varadA/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2390,7 +2390,7 @@ _भर्गयत्य्_ अपि तत्-कष्टं
 त्रिः प्राणानायम्य । प्रातस्सन्ध्योपस्थानं करिष्य इति सङ्कल्प्य उत्तम इत्यनुवाकस्य वामदेव ऋषिः । अनुष्टुप्छन्दः । गायत्री देवता । गायत्र्युद्वासने विनियोगः। 
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06/30_uttame_shikhare.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/30_uttame_shikhare.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
