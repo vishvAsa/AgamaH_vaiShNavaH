@@ -65,7 +65,40 @@ title = "११ वस्त्रधरणादि"
 इत्यवधूय, 
 </details>
 
-<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/05_upaniShat/08_avahantI/"></div>
+<div class="js_include" newlevelforh1="4" title="विश्वास-प्रस्तुतिः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/vishvAsa-prastutiH/05_taittirIyopaniShat/_index/02_AvahantI_vitanvAnA.md">
+<details open><summary><h4>विश्वास-प्रस्तुतिः ...{Loading}...</h4></summary>
+
+आ॒वह॑न्ती वितन्वा॒ना,,  
+कु॒र्वा॒णा चीर॑म् आ॒त्मनः॑ ।  
+वासाꣳ॑सि॒ मम॒ गाव॑श् च,,  
+अ॒न्न॒पा॒ने च॑ सर्व॒दा ।  
+ततो॑ मे॒ श्रिय॒म् आव॑ह,,  
+लो॒म॒शां प॒शुभि॑स् स॒ह  
+स्वाहा᳚ ।
+</details>
+</div>
+<div class="js_include" newlevelforh1="4" title="सर्वाष् टीकाः" unfilled url="/vedAH_yajuH/taittirIyam/AraNyakam/Rk/sarvASh_TIkAH/05_taittirIyopaniShat/_index/02_AvahantI_vitanvAnA.md">
+<details open><summary><h4>सर्वाष् टीकाः ...{Loading}...</h4></summary>
+<details><summary>मूलम्</summary>
+
+आ॒वह॑न्ती वितन्वा॒ना,,  
+कु॒र्वा॒णा चीर॑म् आ॒त्मनः॑ ।  
+वासाꣳ॑सि॒ मम॒ गाव॑श् च,,  
+अ॒न्न॒पा॒ने च॑ सर्व॒दा ।  
+ततो॑ मे॒ श्रिय॒म् आव॑ह,,  
+लो॒म॒शां प॒शुभि॑स् स॒ह  
+स्वाहा᳚ ।
+</details>
+<details><summary>रङ्गरामानुजः - टीका</summary>
+
+विद्यौपयिक-होम-साधन-मन्त्राः उच्यन्ते - आवहन्ती इत्यादिः ।  
+लक्ष्मी-प्रार्थना-मन्त्रोऽयम् ।  
+**आवहन्ती** - उत्पादयन्ती, **वितन्वाना** वर्धयन्ती, यतस्त्वम्,  
+ततो मे **चीरम्** इतराणि **वासांसि गाः अन्नपाने च सर्वदा कुर्वाणा** सती,  
+सा हि श्रीरमृता सताम् (तै.ब्रा.१-२-१) इति त्रयी-लक्षणां **श्रियम्**, **लोमशाम्** - बहुलां यज्ञाद्यौपयिकपश्वादिद्रव्यैस्सह **आवह** - उत्पादय ॥ होमसाधनत्वात् मन्त्रस्य **स्वाहा**न्तत्वम् । आ मा यन्तु इति । ब्रह्मविद्यायोग्याः ब्रह्मचर्यव्रतसम्पन्नाः शिष्याः 'समागच्छन्तु इत्यनुकूलशिष्यप्रार्थनामन्त्रः ।
+</details>
+</details>
+</div>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
