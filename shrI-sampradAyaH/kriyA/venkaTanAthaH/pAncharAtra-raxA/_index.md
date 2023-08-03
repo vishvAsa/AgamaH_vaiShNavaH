@@ -10,4 +10,7 @@ title = "+पाञ्चरात्ररक्षा"
 श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
 वेदान्ताचार्यवर्यो मे सन्निधत्तं सदा हृदि ॥  
   
-सिद्धान्तव्यवस्थापनाख्यः  
+  
+
+
+Source: [TW](https://archive.org/details/tattvatikanikseparakshasancharitrarakshapancaratraraksabook8annangaracharyap.b._202003_699_F/page/n291/mode/2up)
