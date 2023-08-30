@@ -14,31 +14,15 @@ Swanistabhijnanadhikara
 
 A prapanna is one who is steadfast in the awareness of his own essential nature, which is different from non-sentient matter on one hand and the Supreme Paramatman on the other hand, who is the 'sarva-seshin', the siddhopaya and the supreme object of attainment. The understanding of these three namely the tattva, the hita and the purushartha should be firm and unshakable by any kind of perverse arguments in a prapanna. This awareness should be in him during all the time that he remains in this world after prapatri. This kind of steadfastness can be known from various factors that are significant signs showing that awareness. On account of the glory of this knowledge, the prapanna becomes capable of passing through the vast miseries that come across during the course of his life here. He will be capable of avoiding all kinds of unbecoming actions, such as seeking the grace of some one other than the Lord, worshipping those that are different from the Supreme Paramatman, studying the scriptures of other schools and thinking in vain of other things, etc.
 
-These significant marks are to be realised by a prapanna. These are in one way the characteristics of a prapanna. In another aspect, they are 'sadhanas' or disciplines that are to be cultivated and to be achieved by a prapanna. These marks are just like the marks of a 'stita-prajna or a 'gunacccta' or a fervent devotee of the Lord. One can examine one self and find out, if he fulfills all these conditions to call himself as a prapanna. This shows the mental attitude of a prapanna, who is solely devoted to the Lord. If a prapanna has the following characteristics, he can know that he is steadfast in his essential nature: 1. When some one accuses him, and speaks of many faults,
+These significant marks are to be realised by a prapanna. These are in one way the characteristics of a prapanna. In another aspect, they are 'sadhanas' or disciplines that are to be cultivated and to be achieved by a prapanna. These marks are just like the marks of a 'stita-prajna or a 'gunacccta' or a fervent devotee of the Lord. One can examine one self and find out, if he fulfills all these conditions to call himself as a prapanna. This shows the mental attitude of a prapanna, who is solely devoted to the Lord. If a prapanna has the following characteristics, he can know that he is steadfast in his essential nature: 
 
-one should realise that they do not relate to his essential nature, but only relate to the body and others, and so,
+1. When some one accuses him, and speaks of many faults, one should realise that they do not relate to his essential nature, but only relate to the body and others, and so, should be free from sorrow or depression.   
+2. As pointed out in the verse 'a person who abuses somcone, would be amassing sin for himself, and would be getting tainted with the sin of the abused' - a prapanna should pity those people who abuse him and thus harm themselves by getting his sin.  
+3. When someone abuses a prapanna, he should feel grateful to the abuser, who will be reminding him of his faults plausible in him. 'Upakara-smriti' or having a sense of being helped by him for thinking of his nature, as pointed by Yamuna in the stotra-ratna as … etc., and as expressed by Tirumangai Alwar in the verse 'I have grieved and grieved'. All the faults are plausible in him, and the abuser has done a good service to him by making him remember his faults.  
+4. A prapanna should be convinced of the fact that those that abuse him, are behaving so, only according to the will and prompting of the Supreme Paramatman, on account of his past karma as well as the past karma of the abuser. All people in this world are by their essential nature, dependent on Paramatman and are all dominated by karma. So, anything done by anybody, is on account of one's own karma alone and therefore, a prapanna should not become disturbed in his mind, when he is ill-treated or abused or insulted by someone.  
+5. When somcbody humiliates a prapanna or abuses him, that prapanna should feel rejoicement as he will be exhausting the store of his past karma (prarabdha), by being subject to such kind of humiliation.
 
-should be frec from sorrow or depression. 2. As pointed out in the verse 144466 4419 274-
-
-f ord'a person who abuses somcone, would be amassing sin for himself, and would be getting tainted with the sin of the abused' - a prapanna should pity those people who abuse him and thus harm themselves
-
-by getting his sin. 3. When someone abuses a prapanna, he should feel
-
-grateful to the abuser, who will be reminding him of his faults plausible in him. 'Upakara-smriti' or having a sense of being helped by him for thinking of his nature, as pointed by Yamuna in the stotra-ratna as 374416:
-
-5: etc., and as expressed by Tirumangai Alwar in the verse 'I have grieved and grieved. All the faults are plausible in him, and the abuser has done a good service to him by making him remember his faults. A prapnna should be convinced of the fact that those that abuse him, are behaving so, only according to the will and prompting of the Supreme Paramatman, on account of his past karma as well as the past karma of the abuser. All people in this world are by their cssential nature, dependent on Paramatman and are all dominated by karma. So, anything done by anybody, is on account of one's own karma alone and therefore, a
-
-Swanistabhijnanadhikara
-
-153
-
-prapanna should not become disturbed in his mind,
-
-when he is ill-treated or abused or insulted by someone. 5. When somcbody humiliates a prapanna or abuses him,
-
-that prapanna should feel rejoicement as he will be exhausting the store of his past karma (prarabdha), by being subject to such kind of humiliation.
-
-If one will be thinking on these lines, he can understand that he is steadfast in his essential nature, as understood from the first word i.e. pranava' and the second word viz. 'namas' or the supreme mantra Ashtaksharam'. The dropped dative case on Akara' 3751 in the 'pranava', signifies the subservience of the jiva and the 'Makara' Hot signifies that he is endowed with Sjnanam' or consciousness which is to be agreeable to all living beings. The second word 'namas' signifies dependence on Paramatman, utter helplessness and wishing good of all, according to the will of Paramatman. He will be realising that he is subservient to and dependent upon the Paramatman alone, and he is to be used by the Supreme Paramatman, as He wills, and all these signify his essential nature and if a prapanna realises these things, he can know that he is steadfast in his essential nature.
+If one will be thinking on these lines, he can understand that he is steadfast in his essential nature, as understood from the first word i.e. 'pranava' and the second word viz. 'namas' or the supreme mantra Ashtaksharam'. The dropped dative case on Akara' 3751 in the 'pranava', signifies the subservience of the jiva and the 'Makara' Hot signifies that he is endowed with Sjnanam' or consciousness which is to be agreeable to all living beings. The second word 'namas' signifies dependence on Paramatman, utter helplessness and wishing good of all, according to the will of Paramatman. He will be realising that he is subservient to and dependent upon the Paramatman alone, and he is to be used by the Supreme Paramatman, as He wills, and all these signify his essential nature and if a prapanna realises these things, he can know that he is steadfast in his essential nature.
 
 Desika has described the characteristics of a person who is steadfast in the means of protection, he has adopted, in the following way: 1. When a person has entrusted the burden of his
 
