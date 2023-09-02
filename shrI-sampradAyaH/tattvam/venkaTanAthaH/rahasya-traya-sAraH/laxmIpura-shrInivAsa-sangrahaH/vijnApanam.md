@@ -33,6 +33,12 @@ Copies of his book in Telugu script should be available in Mysore University Lib
 </details>
 
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+लक्ष्मीपुरम् इत्य् [अग्रहारो](https://www.google.com/maps/place/Lakshmipuram,+Andhra+Pradesh+517425/@13.0586883,77.8992299,10.47z) विदुषां प्रसिद्धं केन्द्रम् अवर्तत। 
+</details>
+
+
 श्रीः
 
 श्रीमते निगमान्तमहादेशिकाय नमः
