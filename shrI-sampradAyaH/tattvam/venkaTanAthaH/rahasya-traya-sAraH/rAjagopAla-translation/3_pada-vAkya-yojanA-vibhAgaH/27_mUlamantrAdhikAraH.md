@@ -3,9 +3,8 @@ title = "२७ मूलमन्त्राधिकारः"
 
 +++
 
-(27) THE CHAPTER ON THE MūLAMANTRA
-
-(AṢṬĀKṢARA) page404
+(27) THE CHAPTER ON THE MūLAMANTRA (AṢṬĀKṢARA)  
+page404
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
