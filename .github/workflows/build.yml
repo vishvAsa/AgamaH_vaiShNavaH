@@ -12,7 +12,8 @@ on:
 
 jobs:
   transform:
-    runs-on: ubuntu-latest
+    # Workaround for https://github.com/actions/runner-images/issues/6680
+    runs-on: ubuntu-20.04
     steps:
     - name: Inject slug/short variables
       uses: rlespinasse/github-slug-action@v3.x
