@@ -12,28 +12,15 @@ title = "०० श्रीगुरुपरंपरासारः"
 
 A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 
-<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+<div class="js_include" url="/bhAShAntaram/tamiL/padyam/shrIvaiShNava/taniyan/venkaTa-nAtha/sIr-oNDru/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-सीरॊण्ड्रु तूप्पुल् तिरु-वेङ्गडम्-उडैयान्  
-पारॊण्ड्रच् चॊन्न पऴमॊऴियुळ् - ओरॊण्ड्रु  
-तानेयमैयादो तारणियिल् वाऴ्वार्क्कु  
-वानेऱप्पोमळवुम् वाऴ्वु.
-</details>
-
-<details><summary>मूलम् (त॰प॰)</summary>
-
-सीरॊण्ड्रु तूप्पुल् तिरुवेङ्गडमुडैयान्  
-पारॊण्ड्रच्चॊन्न पऴमॊऴियुळ् - ओरॊण्ड्रु  
-तानेयमैयादो तारणियिल् वाऴ्वार्क्कु  
-वानेऱप्पोमळवुम् वाऴ्वु.
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 गुरुभ्यस् तद्-गुरुभ्यश् च  
 नमो-वाकम् अधीमहे ।  
 वृणीमहे च तत्राद्यौ  
-दं-पती जगतां पती ॥ १ ॥
+दं-पती जगतां पती+++(→शेषिणौ)+++ ॥ १ ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -42,20 +29,23 @@ A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 वृणीमहे च तत्राद्यौ दंपती जगतां पती ॥ १ ॥
 </details>
 
+<details><summary>English</summary>
+
 (With due devotion) we repeat the expression of adoration to our gurus and likewise to their gurus; and among these (latter), we pray for the grace of the  Primaeval Couple (Nārāyaṇa  and Lakṣmī ), the twin śeṣīs[^1] of all the worlds (so that they may be both the end to be attained by us and the means of attaining it).
 
 [^1]: A śeṣa is one who exists solely for the purposes of another. That other is śeṣī .
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-पॊय्गै-मुनि, बूदत्तार्, पेयाऴ्वार्, तण्-  
-पॊरुनल्+++(=ताम्रपर्णी)+++-वरुङ् गुरुगेसन्, विट्टु-सित्तन्,  
-तुय्य+++(=शुद्ध)+++ कुल-सेगरन्, नम् बाण-नादन्,  
-तॊण्डर्-अडि-प्पॊडि, मऴिसै-वन्द-सोदि+++(←ज्योति)+++,  
+पॊय्गै-मुनि, भूदत्तार्, पेयाऴ्वार्, तण्-  
+पॊरुनल्+++(=ताम्रपर्णी)+++-वरुङ् कुरुकेशन्+++(=नम्माऴ्वार्)+++, +++(आण्डाळ्-सहित-)+++विष्णु-चित्तन्,  
+तुय्य+++(=शुद्ध)+++ कुल-शेखरन्, नम् बाण-नाथन्,  
+तॊण्डर्-अडिप्-पॊडि, मऴिसै-वन्द सोति+++(←ज्योति)+++,  
 वैयम्+++(=विश्वम्)+++ ऎल्ला मऱै+++(=वेद)+++ विळङ्ग+++(=प्रकाशक)+++ वाळ्+++(=खड्गं)+++ वेल् एन्दु मङ्गैयर् कोन्+++(=राजा)+++ ऎण्ड्र् इवर्गळ् - मगिऴ्न्दु+++(=उल्लासेन)+++ पाडुम्,  
-सॆय्य-दमिऴ्-मालैगळ् नाम् तॆळियव्+++(=स्पष्टं)+++ ओदित्,  
-तॆळियाद मऱै+++(=वेद)+++ निलङ्गडॆळिगिण्ड्रोमे+++(=??)+++. (1)
+सॆय्य-तमिऴ्-मालैगळ् नाम् तॆळियव्+++(=स्पष्टं)+++ ओदित्,  
+तॆळियाद मऱै+++(=वेद)+++ निलङ्गळ् तॆगिण्ड्रोमे+++(=??)+++. (1)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -69,9 +59,16 @@ A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 तॆळियादमऱै निलङ्गडॆळिगिण्ड्रोमे. (1)
 </details>
 
-Having carefully studied the beautiful hymns sung with delight in Tamil by seers, we have come to understand the real meaning of the regions of the Upaniṣads which are otherwise difficult to comprehend - seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu cittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai alvar) and the prince of Maṅgai armed with sword and spear for making bright the path of the Vedas throughout the world.
+<details><summary>English</summary>
+
+Having carefully studied the beautiful hymns sung with delight in Tamil by seers,  
+we have come to understand the real meaning of the regions of the Upaniṣads which are otherwise difficult to comprehend -  
+seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu cittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai alvar) and the prince of Maṅgai armed with sword and spear for making bright the path of the Vedas throughout the world.
 
 [^2]: The commentator says that Viṣṇucittan stands for Viṣṇucittan and also for his daughter Andal, the authoress of many hymns.
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
@@ -97,11 +94,15 @@ Having carefully studied the beautiful hymns sung with delight in Tamil by seers
 दॊल्वऴिये नल्वऴिगळ् तुणिवार्गट्के. (2)
 </details>
 
+<details><summary>English</summary>
+
 To those who venture to attain release from the bondage of saṁsāra, the ancient path indicated to us by the spotless Madhurakavi  by his own example is the only safe[^3]  path, for while there is Śrīkṛṣṇa, the great cowherd, who incarnated solely for the sake of his devotees to confer bliss on them, to be their refuge, to be their final goal, to stand in relation to them as mother, father, brother and so on, to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Śrīkṛṣṇa ever ready to do all this,[^4] he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil the truths contained in the Vedas which are otherwise hard to understand.
 
 [^3]: safe path: This means Bhakti and Prapatti which lead to mokṣa . Acārya bhakti is called bhakti and prapatti as it leads to them.
 
 [^4]: Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the ācārya for attaining mukti as well as other things.
+</details>
+
 
 THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
 
