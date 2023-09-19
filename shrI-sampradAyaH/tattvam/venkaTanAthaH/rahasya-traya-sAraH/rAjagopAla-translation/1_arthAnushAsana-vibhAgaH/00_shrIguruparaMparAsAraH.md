@@ -125,12 +125,13 @@ THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “पापिष्ठः क्षत्रबन्धुश्च  
-पुण्डरीकश्च पुण्यकृत् ।  
+पुण्डरीकश्च +++(आपद्य् अपि)+++ पुण्यकृत् ।  
 आचार्यवत्तया मुक्तौ  
-तस्मादाचार्यवान् भवेत् ॥” 
+तस्मादाचार्यवान् भवेत् ॥”  
+> +++(पुण्यपापे लीलाविभूताव् एव भोक्तव्ये, न मोक्षवत् परमपदे। )+++
 
 ऎण्ड्रु आचार्यवत्तैये  
-सर्वरुक्कुम् मोक्षकारणम् ऎण्ड्र् अऱुदिय्+++(=अळॆदु,अळदि, निश्चित्य)+++ इट्टार्गळ् . 
+सर्वरुक्कुम् मोक्षकारणम् ऎण्ड्र् अऱुदिय्+++(=निश्चित्य)+++ इट्टार्गळ् .  
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -140,8 +141,9 @@ THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
 प्रेरणां लेभे।  
 तत्-प्रतिचिकीर्षया "सन्मार्गप्रवर्तनानेच्छायाम् अपि  
 गोविन्दनाम स्मर" इत्य् उपदिष्टः।  
-
-पुनः पुनस् तन्नाम स्मरति स्म। 
+पुनः पुनस् तन्नाम स्मरति स्म।  
+कालक्रमेण +आचार्यं लब्ध्वा  
+जन्मान्तरे भक्तिमार्गेण मुक्तः। 
 </details>
 
 
@@ -161,15 +163,90 @@ It is said in the Smṛtis: "Kṣatrabandhu[^5] , who was the worst of sinners, 
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+मुमुक्षुवुक्कु आचार्य-वंशम् भगवान् अळवुं सॆल्ल+++(=यावत्)+++ अनुसन्धिक्क वेणुम् ऎण्ड्र् +++(श्रुतियिल्)+++ ओदप्-पट्टदु.
+</details>
+
+<details><summary>English</summary>
 
 To the man desirous of mokṣa , the line of ācāryas is stated in the śruti[^7] to extend upward even to the Supreme Bhagavān for purposes of meditation.
 
 [^7]: The śruti  referred to here means - “This line of the ācāryas extends up to Bhagavān thus: This is his ācārya; his ācārya is so and so and so on up to the Lord".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवुक्कु आचार्य-वंशम् भगवानळवुञ्जॆल्ल अनुसन्धिक्कवेणुमॆण्ड्रोदप्पट्टदु.
+</details>
+
 
 BHAGAVĀN THE FIRST ĀCĀRYA:
 
-The Supreme Lord is the foremost of all ācāryas, as may be seen from the following passages - "Him[^f8] [^f9] (Śrīkṛṣṇa) who is possessed of all excellences, who is the ācārya[^8] , father and guru", "Nārāyaṇa [^f10] who is the guru of all the world is also my guru", "Thou[^f11] art my kinsman, and Thou art my guru", and "Thou art[^f12] the guru of all the worlds and likewise their goal". It is He that, at the beginning, vouchsafed the Vedas to Brahma and when they were stolen, brought them back to him and through him spread their knowledge in the world. It is He that blessed Brahma's sons, Sanatkumāra and others, to understand[^f13] all truths by themselves and to follow the path of renunciation. Through them He revealed the means of attaining salvation. It is Bhagavān who, later by the agency of such great seers as Nārada , Parāśara, Śuka  and Soubaka, maintained intact the tradition of the Upaniṣads. It has been said "Know[^f14] that Vyāsa who is otherwise called Kṛṣṇa Dvaipayana is the Lord Nārāyaṇa  Himself. Who else is there in the world, O Maitreya, that could compose the Mahābhārata ?" It has also been said, “Devoutly[^f15] uttering the name of that great sage (Vyāsa), Bhīṣma said with folded hands ". Into such great men as Vyāsa referred to above the Lord entered and through them published to the world great works like Mahābhārata and Sārīraka Mīmāmsā (Brahma Sūtras). Further in such incarnations as Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa , and the Gītācārya (Śrīkṛṣṇa), He himself stood out and revealed spiritual truths and also the means of attaining mokṣa  (tattva and hita). He had His invaluable teaching confirmed also through the words of such men of wisdom as Bhīṣma. It has been said[^f16] Nārāyaṇa  Himself dictated the whole of  the Pāñcarātra", When this Śāstra which was originally taught by Him became lost, once again at the end of the Dvāpara Yuga and the beginning of the Kali Yuga, He[^f17] revealed it again through Saṅkarṣaṇa in accordance with the ordinances of the Sātvatas so that all castes, Brahmins, Kṣatriyas, Vaiśyas, and Śūdras, might, after initiation by the ācārya with the prescribed marks (Śaṅkha and Cakra, worship and render service to the lord in the performance of their daily duties with their minds set on the Eternal. As is said in the following verse, “In the yuga of Kali[^f18] , the Lord Acyuta enters into the respective persons of men already born and carries out His designs", Nārāyaṇa  assumed a new series of ten incarnations in the forms of Parankusa (Nammalvar), Parakala (Tirumaṅgai) and others. In these ten avatars, just as clouds take in the water of the ocean and then pour it down in the form of rain so essential to the life of every one, the Lord gathered together those parts of the Vedas which are most significant and revealed them briefly in a language (Tamil) which is accessible to everyone.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तम् इमं सर्व-संपन्नम्  
+आचार्यं पितरं गुरुम्”  
+> +++(इति सहदेवेन राजसूययागाग्रपूजाप्रसङ्गे प्रत्याक्षिपद्भ्यो वामपादं प्रसार्योक्तं रोषेण)+++
+
+ऎण्ड्रुम्,  
+
+
+> “ममाप्य् अखिल लोकानां  
+गुरुर् नारायणो गुरुः” 
+
+ऎण्ड्रुम्, 
+
+> “त्वमेव बन्धुश् च गुरुस् त्वमेव” 
+
+ऎण्ड्रुम्, 
+
+> “गुरुर् असि, +++(मानुष-गुरु-वैलक्षण्येन)+++ गतिश् चासि जगताम्”  
+> +++(यामुनेन स्तोत्ररत्ने)+++
+
+ऎण्ड्रुञ् चॊल्लुगिऱप्-पडिये+++(=प्रकारेण)+++ सर्वलोकत्तुक्कुम् परमाचार्यनान सर्वेश्वरन्
+</details>
+
+<details><summary>English</summary>
+
+The Supreme Lord is the foremost of all ācāryas, as may be seen from the following passages - 
+
+> "Him[^f8] [^f9] (Śrīkṛṣṇa) who is possessed of all excellences, who is the ācārya[^8] , father and guru", 
+
+
+> "Nārāyaṇa [^f10] who is the guru of all the world is also my guru", 
+
+> "Thou[^f11] art my kinsman, and Thou art my guru", 
+
+and 
+
+> "Thou art[^f12] the guru of all the worlds and likewise their goal". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“तमिमं सर्वसंपन्नमाचार्यं पितरं गुरुम्” ऎण्ड्रुम्, “ममाप्यखिल लोकानां गुरुर्नारायणो गुरुः” ऎण्ड्रुम्, “त्वमेव बन्धुश्च गुरुस्त्वमेव” ऎण्ड्रुम्, “गुरुरसि गतिश्चासि जगताम्” ऎण्ड्रुञ् चॊल्लुगिऱप्पडिये सर्वलोकत्तुक्कुम् परमाचार्यनान सर्वेश्वरन्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मावुक्क् अडियिले वेदङ्गळैक् **कॊडुत्तुम्**,  
+अवट्रिऱ्‌कु अपहारम् पिऱन्द-पोदु  
+मीट्टुक् **कॊडुत्तुम्**,  
+इवन् मुखमाग शास्त्रङ्गळैप् **प्रवर्तिप्पित्तुम्**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मावुक्कडियिले वेदङ्गळैक् कॊडुत्तुम्,  
+अवट्रिऱ्‌कु अपहारम् पिऱन्द-पोदु मीट्टुक्कॊडुत्तुम्,  
+इवन् मुखमाग शास्त्रङ्गळैप् प्रवर्तिप्पित्तुम्,  
+</details>
+
+
+It is He that, at the beginning, vouchsafed the Vedas to Brahma and when they were stolen, brought them back to him and through him spread their knowledge in the world. It is He that blessed Brahma's sons, Sanatkumāra and others, to understand[^f13] all truths by themselves and to follow the path of renunciation. Through them He revealed the means of attaining salvation. It is Bhagavān who, later by the agency of such great seers as Nārada , Parāśara, Śuka  and Soubaka, maintained intact the tradition of the Upaniṣads. It has been said "Know[^f14] that Vyāsa who is otherwise called Kṛṣṇa Dvaipayana is the Lord Nārāyaṇa  Himself. Who else is there in the world, O Maitreya, that could compose the Mahābhārata ?" It has also been said, “Devoutly[^f15] uttering the name of that great sage (Vyāsa), Bhīṣma said with folded hands ". Into such great men as Vyāsa referred to above the Lord entered and through them published to the world great works like Mahābhārata and Sārīraka Mīmāmsā (Brahma Sūtras). Further in such incarnations as Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa , and the Gītācārya (Śrīkṛṣṇa), He himself stood out and revealed spiritual truths and also the means of attaining mokṣa  (tattva and hita). He had His invaluable teaching confirmed also through the words of such men of wisdom as Bhīṣma. It has been said[^f16] Nārāyaṇa  Himself dictated the whole of  the Pāñcarātra", When this Śāstra which was originally taught by Him became lost, once again at the end of the Dvāpara Yuga and the beginning of the Kali Yuga, He[^f17] revealed it again through Saṅkarṣaṇa in accordance with the ordinances of the Sātvatas so that all castes, Brahmins, Kṣatriyas, Vaiśyas, and Śūdras, might, after initiation by the ācārya with the prescribed marks (Śaṅkha and Cakra, worship and render service to the lord in the performance of their daily duties with their minds set on the Eternal. As is said in the following verse, “In the yuga of Kali[^f18] , the Lord Acyuta enters into the respective persons of men already born and carries out His designs", Nārāyaṇa  assumed a new series of ten incarnations in the forms of Parankusa (Nammalvar), Parakala (Tirumaṅgai) and others. In these ten avatars, just as clouds take in the water of the ocean and then pour it down in the form of rain so essential to the life of every one, the Lord gathered together those parts of the Vedas which are most significant and revealed them briefly in a language (Tamil) which is accessible to everyone.
 
 [^f9]:Mahābhārata; Sabha Parva : 41-21.
 
