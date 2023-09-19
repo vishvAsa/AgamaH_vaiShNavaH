@@ -53,6 +53,15 @@ A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 [^व्१]: **मुनिवाहनभोगम्** इति द्राविड्या, **भगवद्-ध्यान-सोपानम्** इति संस्कृतेन तिरुप्पान्-भक्तकृतिम् आधारीकृत्य रचितं वेङ्कटनाथार्येण। तिरुप्पान् इति देवस्मृतिलयेन प्रमत्तो ऽस्पृश्यो ऽर्चकेन शिलया ताडितः, पश्चात् तेनैव भगवच्चोदनेन प्रसाद्य, स्कन्दम् आरोप्य देवालयम् आनीतः, भगवति लीनः।  
 </details>
 
+<details><summary>English</summary>
+
+Having carefully studied the beautiful hymns sung with delight in Tamil by seers,  
+we have come to understand the real meaning of the regions of the Upaniṣads which are otherwise difficult to comprehend -  
+seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu cittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai alvar) and the prince of Maṅgai armed with sword and spear for making bright the path of the Vedas throughout the world.
+
+[^2]: The commentator says that Viṣṇucittan stands for Viṣṇucittan and also for his daughter Andal, the authoress of many hymns.
+</details>
+
 <details><summary>मूलम् (त॰प॰)</summary>
 
 पॊय्गै मुनिबूदत्तार् पेयाऴ्वार् तण्  
@@ -64,39 +73,19 @@ A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 तॆळियादमऱै निलङ्गळ्तॆगिण्ड्रोमे. (1)
 </details>
 
-<details><summary>English</summary>
-
-Having carefully studied the beautiful hymns sung with delight in Tamil by seers,  
-we have come to understand the real meaning of the regions of the Upaniṣads which are otherwise difficult to comprehend -  
-seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu cittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai alvar) and the prince of Maṅgai armed with sword and spear for making bright the path of the Vedas throughout the world.
-
-[^2]: The commentator says that Viṣṇucittan stands for Viṣṇucittan and also for his daughter Andal, the authoress of many hymns.
-</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-+++(मधुरकवि-गाथा-प्रतिपादिताचार्यानुग्रह-लाभाः- )+++  
-इन्बत्तिल् इऱैञ्जुदलिल् इसैयुम् पेट्रिल्  
-इगऴाद पल्लुऱविल् इरागम् माट्रिल्,  
-तन्बट्रिल् विनैविलक्किल् +तगवोक्कत्तिल्  
-तत्तुवत्तैय् उणर्त्तुदलिल् तन्मैयाक्किल्,  
-अन्बर्क्केय् अवतरिक्कु माय(न्) निऱ्‌कव्  
-अरुमऱैगळ् तमिऴ् सॆय्दान् ताळे कॊण्डु,  
-तुन्बट्र मधुरकवि तोण्ड्रक् काट्टुन्  
-तॊल्वऴिये नल्वऴिगळ् तुणिवार् कट्के. (2)
-</details>
-
-<details><summary>मूलम् (त॰प॰)</summary>
-
-इन्बत्तिलिऱैञ्जुदलिलिसैयुम् पेट्रि  
-लिगऴाद पल्लुऱविलिरागम् माट्रिल्,  
-तन्बट्रिल् विनैविलक्किट्रगवोक्कत्तिन्  
-ऱत्तुवत्तै युणर्त्तुदलिट्रन्मैयाक्किल्,  
-अन्बर्क्के यवदरिक्कु मायनिऱ्‌क  
-वरुमऱैगळ् तमिऴ् सॆय्दान् ताळे कॊण्डु,  
-तुन्बट्र मदुरगवि तोण्ड्रक्काट्टुन्  
-दॊल्वऴिये नल्वऴिगळ् तुणिवार्गट्के. (2)
++++(मधुरकवि-श्लोक-दशक-प्रतिपादिताचार्यानुग्रह-लाभाः- )+++  
+इन्बत्तिल्+++(=तुष्टौ)+++, इऱैञ्जुदलिल्+++(=प्रणिपाते)+++, इसैयुम्+++(=अङ्गीकृत)+++ पेट्रिल्+++(=अर्थवरे)+++,  
+इगऴाद+++(=नीचेतर)+++ पल्ल् उऱविल्+++(=बन्धुत्वे)+++, इ-रागम् माट्रिल्,  
+तन्-पट्रिल्+++(=स्नेहे)+++, विनै+++(=पाप)+++-विलक्किल्+++(=निवर्तने)+++, +तगव्+++(=कृपा)+++-ओक्कत्तिल्+++(=आधिक्ये)+++  
+तत्तुवत्तैय् उणर्त्तुदलिल्+++(=निश्चयने)+++, तन्-मैयाक्किल्+++(=तन्मयत्वे)+++,  
+अन्बर्क्केय्+++(=स्निग्धेभ्य)+++ अवतरिक्कुम् आय(न्)+++(=गोपस्य)+++ निऱ्‌कव्+++(=स्थितौ)+++  
+अरु+++(=धर्म)+++-मऱैगळ्+++(=छन्दांसि←आच्छादने)+++ तमिऴ् सॆय्दान्-ताळे+++(=पादौ)+++ कॊण्डु,  
+तुन्ब्+++(=दुष्ट)+++-अट्र+++(=इतर)+++ मधुरकवि तोण्ड्रक्+++(=स्पष्टं)+++ काट्टुन्  
+तॊल्+++(=प्राचीन)+++-वऴिये नल्-वऴिगळ् तुणिवार्कट्के+++(=धीरेभ्यः)+++. (2)
 </details>
 
 <details><summary>English</summary>
@@ -112,14 +101,63 @@ he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil
 [^4]: Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the ācārya for attaining mukti as well as other things.
 </details>
 
+<details><summary>मूलम् (त॰प॰)</summary>
+
+इन्बत्तिलिऱैञ्जुदलिलिसैयुम् पेट्रि  
+लिगऴाद पल्लुऱविलिरागम् माट्रिल्,  
+तन्बट्रिल् विनैविलक्किट्रगवोक्कत्तिन्  
+ऱत्तुवत्तै युणर्त्तुदलिट्रन्मैयाक्किल्,  
+अन्बर्क्के यवदरिक्कु मायनिऱ्‌क  
+वरुमऱैगळ् तमिऴ् सॆय्दान् ताळे कॊण्डु,  
+तुन्बट्र मदुरगवि तोण्ड्रक्काट्टुन्  
+दॊल्वऴिये नल्वऴिगळ् तुणिवार्गट्के. (2)
+</details>
+
 
 THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
 
-It is said in the Smṛtis: "Kṣatrabandhu[^5] , who was the worst of sinners, and Puṇḍarīka[^6] , the virtuous - both of them obtained mokṣa  or release from bondage by virtue of their having ācāryas." It is thus declared that in the case of every one, the only means of securing mokṣa  is to have an ācārya. To the man desirous of mokṣa , the line of ācāryas is stated in the śruti[^7] to extend upward even to the Supreme Bhagavān for purposes of meditation.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “पापिष्ठः क्षत्रबन्धुश्च  
+पुण्डरीकश्च पुण्यकृत् ।  
+आचार्यवत्तया मुक्तौ  
+तस्मादाचार्यवान् भवेत् ॥” 
+
+ऎण्ड्रु आचार्यवत्तैये  
+सर्वरुक्कुम् मोक्षकारणम् ऎण्ड्र् अऱुदिय्+++(=अळॆदु,अळदि, निश्चित्य)+++ इट्टार्गळ् . 
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+क्षत्रबन्धुर् भ्रष्टक्षत्रियो वनलुण्ठको ऽकस्मात्  
+तटाके स्खलितम् ऋषिं रक्षितुं  
+प्रेरणां लेभे।  
+तत्-प्रतिचिकीर्षया "सन्मार्गप्रवर्तनानेच्छायाम् अपि  
+गोविन्दनाम स्मर" इत्य् उपदिष्टः।  
+
+पुनः पुनस् तन्नाम स्मरति स्म। 
+</details>
+
+
+<details><summary>English</summary>
+
+It is said in the Smṛtis: "Kṣatrabandhu[^5] , who was the worst of sinners, and Puṇḍarīka[^6] , the virtuous - both of them obtained mokṣa  or release from bondage by virtue of their having ācāryas." It is thus declared that in the case of every one, the only means of securing mokṣa  is to have an ācārya.
+
 
 [^5]: Kṣatrabandhu led the life of a highwayman in a forest. He was a source of terror to the sages who lived in that forest. Once when the sage Nārada  happened to pass by him, he rushed at him with his stick. Nārada  took pity on him and asked him to find out from his wife and children whether they would share the sin he was committing, as it was done for their sake. They refused and Kṣatrabandhu realised his folly and begged to be instructed by Nārada  in the truths of religion.
 
 [^6]: Puṇḍarīka was a virtuous Brahmin, who, though he followed the righteous path and went on a pilgrimage to holy places, did not get a vision of God. It was only after being initiated into the Ashtakṣara by Nārada  that he realised God.
+</details>
+
+<details><summary>मूलम्</summary>
+
+“पापिष्ठः क्षत्रबन्धुश्च पुण्डरीकश्च पुण्यकृत् । आचार्यवत्तया मुक्तौ तस्मादाचार्यवान् भवेत् ॥” ऎण्ड्रु आचार्यवत्तैये सर्वरुक्कुम् मोक्षकारणमॆण्ड्रऱुदियिट्टार्गळ्. 
+</details>
+
+
+
+
+To the man desirous of mokṣa , the line of ācāryas is stated in the śruti[^7] to extend upward even to the Supreme Bhagavān for purposes of meditation.
 
 [^7]: The śruti  referred to here means - “This line of the ācāryas extends up to Bhagavān thus: This is his ācārya; his ācārya is so and so and so on up to the Lord".
 
