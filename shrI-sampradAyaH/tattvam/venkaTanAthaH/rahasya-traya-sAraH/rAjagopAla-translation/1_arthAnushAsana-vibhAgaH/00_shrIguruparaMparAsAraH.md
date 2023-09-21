@@ -353,7 +353,7 @@ He himself stood out and revealed spiritual truths and also the means of attaini
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानरुळिच् चॆय्द अर्थङ्गळैय् ऎल्लाम्  
-श्रीभीष्मर् मुदलान ज्ञानाधिकरैय् इट्टुम् +++(अनुमोदेन)+++ ऊदलिप्पित्तुम्,  
+श्रीभीष्मर् मुदलान ज्ञानाधिकरैय् इट्टु मूदलिप्पित्तुम्+++(=प्रमाणीकृत्य)+++,  
 </details>
 
 <details><summary>English</summary>
