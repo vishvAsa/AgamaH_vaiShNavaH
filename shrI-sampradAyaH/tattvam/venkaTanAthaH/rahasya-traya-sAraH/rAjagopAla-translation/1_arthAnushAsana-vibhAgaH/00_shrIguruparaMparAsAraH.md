@@ -232,10 +232,17 @@ and
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मावुक्क् अडियिले वेदङ्गळैक् **कॊडुत्तुम्**,  
+ब्रह्मावुक्क् अडियिले+++(=मूले)+++ वेदङ्गळैक् **कॊडुत्तुम्**,  
 अवट्रिऱ्‌कु अपहारम् पिऱन्द-पोदु  
-मीट्टुक् **कॊडुत्तुम्**,  
+मीट्टुक्+++(=प्रति)+++ **कॊडुत्तुम्**,  
 इवन् मुखमाग शास्त्रङ्गळैप् **प्रवर्तिप्पित्तुम्**,
+</details>
+
+<details><summary>English</summary>
+
+It is He that, at the beginning, vouchsafed the Vedas to Brahma  
+and when they were stolen, brought them back to him  
+and through him spread their knowledge in the world. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -245,8 +252,192 @@ and
 इवन् मुखमाग शास्त्रङ्गळैप् प्रवर्तिप्पित्तुम्,  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-It is He that, at the beginning, vouchsafed the Vedas to Brahma and when they were stolen, brought them back to him and through him spread their knowledge in the world. It is He that blessed Brahma's sons, Sanatkumāra and others, to understand[^f13] all truths by themselves and to follow the path of renunciation. Through them He revealed the means of attaining salvation. It is Bhagavān who, later by the agency of such great seers as Nārada , Parāśara, Śuka  and Soubaka, maintained intact the tradition of the Upaniṣads. It has been said "Know[^f14] that Vyāsa who is otherwise called Kṛṣṇa Dvaipayana is the Lord Nārāyaṇa  Himself. Who else is there in the world, O Maitreya, that could compose the Mahābhārata ?" It has also been said, “Devoutly[^f15] uttering the name of that great sage (Vyāsa), Bhīṣma said with folded hands ". Into such great men as Vyāsa referred to above the Lord entered and through them published to the world great works like Mahābhārata and Sārīraka Mīmāmsā (Brahma Sūtras). Further in such incarnations as Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa , and the Gītācārya (Śrīkṛṣṇa), He himself stood out and revealed spiritual truths and also the means of attaining mokṣa  (tattva and hita). He had His invaluable teaching confirmed also through the words of such men of wisdom as Bhīṣma. It has been said[^f16] Nārāyaṇa  Himself dictated the whole of  the Pāñcarātra", When this Śāstra which was originally taught by Him became lost, once again at the end of the Dvāpara Yuga and the beginning of the Kali Yuga, He[^f17] revealed it again through Saṅkarṣaṇa in accordance with the ordinances of the Sātvatas so that all castes, Brahmins, Kṣatriyas, Vaiśyas, and Śūdras, might, after initiation by the ācārya with the prescribed marks (Śaṅkha and Cakra, worship and render service to the lord in the performance of their daily duties with their minds set on the Eternal. As is said in the following verse, “In the yuga of Kali[^f18] , the Lord Acyuta enters into the respective persons of men already born and carries out His designs", Nārāyaṇa  assumed a new series of ten incarnations in the forms of Parankusa (Nammalvar), Parakala (Tirumaṅgai) and others. In these ten avatars, just as clouds take in the water of the ocean and then pour it down in the form of rain so essential to the life of every one, the Lord gathered together those parts of the Vedas which are most significant and revealed them briefly in a language (Tamil) which is accessible to everyone.
+इवन् पुत्रर्गळ् आन सनत्-कुमारादिगळै  
+
+> “स्वयम् आगत-विज्ञाना  
+निवृत्तिं धर्ममास्थिताः” 
+
+ऎन्नुम्-पडि पण्णि  
+अवर्गळ् मुखङ्गळाल् ए हित+++(→उपाय)+++-प्रवर्तनं पण्णुवित्तुम्,  
+</details>
+
+<details><summary>English</summary>
+
+It is He that blessed Brahma's sons, Sanatkumāra and others, to understand[^f13] all truths by themselves and to follow the path of renunciation. Through them He revealed the means of attaining salvation. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवन् पुत्रर्गळान सनत्कुमारादिगळै “स्वयमागत-विज्ञाना निवृत्तिं धर्ममास्थिताः” ऎन्नुम्बडि पण्णि अवर्गळ् मुखङ्गळाले हित-प्रवर्तनं पण्णुवित्तुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिये मट्रुम्+++(=पुनः)+++ नारद-पराशर-शुक-शौनकादि-गळान पल महर्षिगळैय् इट्टु  
+अध्यात्म-संप्रदायङ् कुलैयाद+++(=नाशमागद)+++-पडि नडत्तियुम्,  
+</details>
+
+<details><summary>English</summary>
+
+It is Bhagavān who, later by the agency of such great seers as Nārada , Parāśara, Śuka  and Soubaka, maintained intact the tradition of the Upaniṣads. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिये मट्रुम् नारद-पराशर-शुक-शौनकादि-गळान पल महर्षिगळैयिट्टु अध्यात्म-संप्रदायङ्गुलैयादबडि नडत्तियुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “कृष्णद्वैपायनं व्यासं  
+विद्धि नारायणं प्रभुम् ।  
+को ह्य् अन्यो भुवि मैत्रेय  
+महाभारत-कृद् भवेत्” 
+
+ऎण्ड्रुम् +++(अनुमान-वचनम्)+++,  
+
+> “महर्षेः +++(नाम्नः)+++ कीर्तनात् तस्य  
+भीष्मः प्राञ्जलिर् अब्रवीत्” 
+
+ऎण्ड्रुञ् चॊल्लुगिऱ-पडि निऱ्‌किऱ+++(=स्थितस्य)+++ व्यासादिगळै **अनुप्रवेशित्तु** +++(न तु साक्षाद् अवतीर्य)+++  
+महाभारत-शारीरकादिगळैप् प्रवर्तिप्पित्तुम्,  
+</details>
+
+<details><summary>English</summary>
+
+It has been said  
+
+> "Know[^f14] that Vyāsa who is otherwise called Kṛṣṇa Dvaipayana is the Lord Nārāyaṇa  Himself. Who else is there in the world, O Maitreya, that could compose the Mahābhārata ?" 
+
+It has also been said, 
+
+> “Devoutly[^f15] uttering the name of that great sage (Vyāsa), Bhīṣma said with folded hands ". 
+
+Into such great men as Vyāsa referred to above the Lord entered and through them published to the world great works like Mahābhārata and Sārīraka Mīmāmsā (Brahma Sūtras). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“कृष्णद्वैपायनं व्यासं विद्धि नारायणं प्रभुम् । को ह्यन्यो भुवि मैत्रेय महाभारतकृद्भवेत्” ऎण्ड्रुम्,  
+“महर्षेः कीर्तनात्तस्य भीष्मः प्राञ्जलिरब्रवीत्” ऎण्ड्रुञ्चॊल्लुगिऱबडि निऱ्‌किऱ व्यासादिगळै अनुप्रवेशित्तु महाभारत-शारीरकादिगळैप् प्रवर्तिप्पित्तुम्,  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(ब्रह्म-बोधक-)+++हंस-मत्स्य-हयग्रीव--  
++++(पराकर्षण-हेतुक-द्विधावतीर्ण--अष्टाक्षरबोधक-)+++नर-नारायण--गीताचार्याद्य्-अवतारङ्गळाले  
+ताने वॆळि +++(अनुप्रवेशं विना)+++ **निण्ड्रु**  
+तत्व-हितङ्गळैप्+++(=उपायान्)+++ **प्रकाशिप्पित्तुम्**,  
+</details>
+
+<details><summary>English</summary>
+
+Further in such incarnations as Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa , and the Gītācārya (Śrīkṛṣṇa),  
+He himself stood out and revealed spiritual truths and also the means of attaining mokṣa  (tattva and hita). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+हंस-मत्स्य-हयग्रीव-नर-नारायण-गीताचार्याद्यवतारङ्गळाले ताने वॆळि निण्ड्रु तत्वहितङ्गळैप् प्रकाशिप्पित्तुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तानरुळिच् चॆय्द अर्थङ्गळैय् ऎल्लाम्  
+श्रीभीष्मर् मुदलान ज्ञानाधिकरैय् इट्टुम् +++(अनुमोदेन)+++ ऊदलिप्पित्तुम्,  
+</details>
+
+<details><summary>English</summary>
+
+He had His invaluable teaching confirmed also through the words of such men of wisdom as Bhīṣma. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तानरुळिच् चॆय्द अर्थङ्गळैयॆल् लाम् श्रीभीष्मर् मुदलान ज्ञानाधिकरैयिट्टु मूदलिप्पित्तुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “पञ्चरात्रस्य कृत्स्नस्य  
+वक्ता नारायणः स्वयम्” 
+
+ऎन्गिऱप् पडिये  
+अडियिले+++(=मूले)+++ तान् अरुळिच् चॆय्द भगवच्छास्त्रत्तै 
+
+> “ब्राह्मणैः क्षत्रियैर् वैश्यैश्  
+शूद्रैश् च कृतलक्षणैः ।  
+अर्चनीयश् च सेव्यश् च  
+नित्य-युक्तैः स्वकर्मसु ॥  
+सात्वतं विधिम् आस्थाय  
++++(नाशे पुनः)+++ गीतस् संकर्षणेन यः +++(सङ्कर्षणकाण्डे विधिः)+++।  
+द्वापरस्य युगस्यान्ते  
+आदौ कलियुगस्य च ॥” 
+
+ऎन्गिऱप् पडिये  
+अवसरङ्गळिल् ए +++(पूर्वोक्तम् अपि)+++ **आविष्करित्तुम्**,
+</details>
+
+<details><summary>English</summary>
+
+It has been said[^f16] 
+
+> "Nārāyaṇa  Himself dictated the whole of  the Pāñcarātra", 
+
+When this Śāstra which was originally taught by Him became lost,  
+
+> "once again at the end of the Dvāpara Yuga and the beginning of the Kali Yuga,  
+He[^f17] revealed it again through Saṅkarṣaṇa in accordance with the ordinances of the Sātvatas  
+so that all castes, Brahmins, Kṣatriyas, Vaiśyas, and Śūdras, might, after initiation by the ācārya with the prescribed marks (Śaṅkha and Cakra),  
+worship and render service to the lord in the performance of their daily duties with their minds set on the Eternal." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“पञ्चरात्रस्य कृत्स्नस्य वक्ता नारायणः स्वयम्” ऎन्गिऱप्पडिये अडियिले तानरुळिच्चॆय्द भगवच्छास्त्रत्तै “ब्राह्मणैः क्षत्रियैर्वैश्यैश्शूद्रैश्च कृतलक्षणैः । अर्चनीयश्च सेव्यश्च नित्ययुक्तैः स्वकर्मसु ॥ सात्वतं विधिमास्थाय गीतस्संकर्षणेन यः । द्वापरस्य युगस्यान्ते आदौ कलियुगस्य च ॥” ऎन्गिऱप्पडिये अवसरङ्गळिले आविष्करित्तुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “पूर्वोत्पन्नेषु भूतेषु  
+तेषु तेषु कलौ प्रभुः ।  
+अनुप्रविश्य कुरुते  
+यत्-समीहितम् अच्युतः ॥”  
+
+ऎन्गिऱप् पडिये  
+पराङ्कुश+++(=शठकोपसूरि)+++-परकालादि+++(=मङ्गै-आदि)+++-रूपत्ताले  
+अभिनवम् आगव् ऒरु +++(गोदा-मधुरकवी तद्-गुर्वोः समावेश्य दिव्यसूरि-दशक-रूपेण)+++ **दशावतारम् पण्णि**  
+मेघङ्गळ् समुद्र-जलत्तै वाङ्गि  
++++(लवणम् अन्तरा)+++ सर्वोपजीव्यम् आन तण्णीर् आग उमिऴुम्+++(=निष्ठीवनम्)+++-आप्-पोले  
+वेदार्थङ्गळिल् वेण्डुम् सारतमांशत्तै सर्वरुक्कुम् अधिकरिक्कल् आन +++(द्रमिड-)+++भाषैयाले  
+संग्रहित्तुक् काट्टियुम्,  
+</details>
+
+<details><summary>English</summary>
+
+As is said in the following verse, “In the yuga of Kali[^f18] , the Lord Acyuta enters into the respective persons of men already born and carries out His designs", Nārāyaṇa  assumed a new series of ten incarnations in the forms of Parankusa (Nammalvar), Parakala (Tirumaṅgai) and others. In these ten avatars, just as clouds take in the water of the ocean and then pour it down in the form of rain so essential to the life of every one, the Lord gathered together those parts of the Vedas which are most significant and revealed them briefly in a language (Tamil) which is accessible to everyone.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“पूर्वोत्पन्नेषु भूतेषु तेषु तेषु कलौ प्रभुः ।  
+अनुप्रविश्य कुरुते यत्समीहितमच्युतः ॥”  
+ऎन्गिऱप्पडिये पराङ्कुश-परकालादि-रूपत्ताले अभिनवमागवॊरु दशावतारम् पण्णि  
+मेघङ्गळ् समुद्रजलत्तै वाङ्गि सर्वोपजीव्यमान तण्णीराग उमिऴुमाप्पोले वेदार्थङ्गळिल् वेण्डुम् सारतमांशत्तै सर्वरुक्कुमधिकरिक्कलान भाषैयाले संग्रहित्तुक् काट्टियुम्,  
+</details>
+
 
 [^f9]:Mahābhārata; Sabha Parva : 41-21.
 
@@ -269,6 +460,8 @@ It is He that, at the beginning, vouchsafed the Vedas to Brahma and when they we
 [^f18]:.Viṣṇu dharma :108--50
 
 [^8]: Ācārya here means one who teaches Brahma Vidyā and guru one who teaches the Vedas. This verse was spoken by Sahadeva to those assembled at the Rajasuya sacrifice,
+
+
 
 When this path of spiritual life was threatened with obstruction by heretics, open and covert, He incarnated again in the land of Agastya in the forms of many teachers of the true doctrine. Has it not been said, “The god,[^f19] Nārāyaṇa , Himself, assumes a mortal form out of compassion and lifts up the world submerged (in the darkness of ignorance) with the śāstras as His hand ", and so also, "Our[^f20] Lord dressed in his yellow raiment came as the guru out of compassion to impart the teaching of the Veda". In reference to this, the Maharshi, Śuka , says, “In the[^f21] yuga of Kali, devotees .of Nārāyaṇa  endowed with spiritual greatness, will be born here and there in large numbers in the land of the Dravidas, where flow the rivers, the Tamraparni, the Vaigai, the Palar, the holy Cauveri and the Mahānadī which runs westwards."
 
