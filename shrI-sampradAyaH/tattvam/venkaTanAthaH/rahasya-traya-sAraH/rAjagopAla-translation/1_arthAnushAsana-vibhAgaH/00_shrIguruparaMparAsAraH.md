@@ -461,9 +461,79 @@ As is said in the following verse, “In the yuga of Kali[^f18] , the Lord Acyut
 
 [^8]: Ācārya here means one who teaches Brahma Vidyā and guru one who teaches the Vedas. This verse was spoken by Sahadeva to those assembled at the Rajasuya sacrifice,
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडित् तान् प्रवर्तिप्पित्त सत्-पथत्तुक्कु  
++++(चार्वाकवत्)+++ प्रकटर् आयुम्, +++(अद्वैतिवत्)+++ प्रच्छन्नर् आयुम् इरुन्दुळ्ळ पाषण्डिगळाल् उपरोधम् वारामैक्क्+++(=वरामैक्क्)+++ आग  
+
+> “साक्षान् नारायणो देवः  
+कृत्वा मर्त्यमयीं तनुम् ।  
+मग्नान् उद्धरते लोकान्  
+कारुण्याच् छास्त्र-पाणिना +++(शस्त्रपाणिनेव राजा)+++ ॥” 
+
+ऎण्ड्रुम्  
+
+> "पीतकव्+++(→क्षौम)+++-आडैप्+++(=वस्त्र)+++-पिरानार्+++(=उपकारक)+++ पिरम+++(=ब्रह्म)+++-गुरुव् आगि वन्दु"  
+
+ऎण्ड्रुञ् चॊल्लुगिऱ पडिये  
++++(व्याकरण-रचनेनापि)+++ अगस्त्य-सेवितमान देशत्तिले  
+अनेक देशिकापदेशत्तालेय् **अवतरित्त् अरुळिनान्**.
+</details>
+
+<details><summary>English</summary>
+
+When this path of spiritual life was threatened with obstruction by heretics, open and covert,  
+He incarnated again in the land of Agastya in the forms of many teachers of the true doctrine.  
+Has it not been said, 
+
+> “The god,[^f19] Nārāyaṇa , Himself, assumes a mortal form out of compassion and lifts up the world submerged (in the darkness of ignorance) with the śāstras as His hand ", 
+
+and so also, 
+
+> "Our[^f20] Lord dressed in his yellow raiment came as the guru out of compassion to impart the teaching of the Veda". 
+</details>
 
 
-When this path of spiritual life was threatened with obstruction by heretics, open and covert, He incarnated again in the land of Agastya in the forms of many teachers of the true doctrine. Has it not been said, “The god,[^f19] Nārāyaṇa , Himself, assumes a mortal form out of compassion and lifts up the world submerged (in the darkness of ignorance) with the śāstras as His hand ", and so also, "Our[^f20] Lord dressed in his yellow raiment came as the guru out of compassion to impart the teaching of the Veda". In reference to this, the Maharshi, Śuka , says, “In the[^f21] yuga of Kali, devotees .of Nārāyaṇa  endowed with spiritual greatness, will be born here and there in large numbers in the land of the Dravidas, where flow the rivers, the Tamraparni, the Vaigai, the Palar, the holy Cauveri and the Mahānadī which runs westwards."
+<details><summary>मूलम्</summary>
+
+इप्पडित् तान् प्रवर्तिप्पित्त सत्पथत्तुक्कु प्रकटरायुम् प्रच्छन्नरायुमिरुन्दुळ्ळ पाषण्डिगळाल् उपरोधम् वारामैक्काग  
+“साक्षान्नारायणो देवः कृत्वा मर्त्यमयीं तनुम् । मग्नानुद्धरते लोकान् कारुण्याच्छास्त्रपाणिना ॥” ऎण्ड्रुम्  
+""पीदग वाडैप्पिरानार् पिरमगुरुवागि वन्दु""  
+ऎण्ड्रुञ्चॊल्लुगिऱ पडिये अगस्त्य-सेवितमान देशत्तिले अनेक देशिकापदेशत्तालेयवदरित्तरुळिनान्.
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तैक् कणिसित्तु+++(=गणिसित्तु)+++ 
+
+> “+++(अग्नौ पद्मम् इव)+++ कलौ खलु भविष्यन्ति  
+नारायण-परायणाः ।  
+क्वचित् क्वचिन् महाभागा  
+द्रमिडेषु च भूरिशः ॥  
+ताम्रपर्णी-नदी यत्र  
+कृत-माला+++(=वैगै-काञ्चीसमीपिनी)+++ पयस्विनी+++(=पालार्)+++ ।  
+कावेरी च +++(तुलायां गङ्गाया अप्य् आधिक्यान्)+++ महाभागा  
+प्रतीची च महा-नदी+++(=पॆरियार्)+++ ॥” 
+
+ऎण्ड्रु महर्षि +++(शुकन्)+++ अरुळिच् चॆय्दान्.
+</details>
+
+<details><summary>English</summary>
+
+In reference to this, the Maharshi, Śuka , says, 
+
+> “In the[^f21] yuga of Kali, devotees of Nārāyaṇa  endowed with spiritual greatness, will be born here and there in large numbers in the land of the Dravidas, where flow the rivers, the Tamraparni, the Vaigai, the Palar, the holy Cauveri and the Mahānadī which runs westwards."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्तैक्कणिसित्तु “कलौ खलु भविष्यन्ति नारायण-परायणाः । क्वचित्क्वचिन्महाभागा द्रमिडेषु च भूरिशः ॥ ताम्रपर्णी नदी यत्र कृतमाला पयस्विनी । कावेरी च महाभागा प्रतीची च महानदी ॥” ऎण्ड्रु महर्षि अरुळिच् चॆय्दान्.
+</details>
+
+
 
 [^f19]: Jayakhya Saṁhitā..
 
@@ -473,8 +543,133 @@ When this path of spiritual life was threatened with obstruction by heretics, op
 
 THE SUCCESSION OF VAISHNAVITE ĀCĀRYAS.
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Among these ācāryas. Nāthamuni was the son of Iśvaramuni, and he gave us "Nyāya Tatvam"and " Yoga Rahasyam." Since Nāthamuni received the sacred tradition from one of the spiritual descendants of Madhurakavi, and was blessed with spiritual wisdom from a study of Tiruvoymozhi and since, in his yogic contemplation, Nammalvar appeared to him and taught him the sacred lore, his ācārya was Nammalvar himself (though they lived at different times). Nāthamuni's son was Iśvara Bhatta. To Iśvara Bhatta was born Aḷavandār (Yāmunācārya). The works of Aḷavandār are the following eight :-" Āgama Prāmānyam", " Puruṣa Nirnaya", the three Siddhis, namely, “ Ātma Siddhi", "Iśvara Siddhi", "Samvit Siddhi", "ŚrīGitārtha Sangraha", "Stotram" and "The Tetrad of ślokas," Sottai Nambi was the son of Aḷavandār. Sottai Nambi's son was Ennachchan. Ennachchan had four sons, one of whom was Pillayappar. Pillayappar's son was Thozhappar, Thozhappar had two daughters. The chief disciples who sought the feet of Nāthamuni were eight :- Uyyakkoodar, Kurukaikavalappan, Nambi Karunakara Dasar, Erutiruvudaiyar, Thirukkannamaṅgai Andan, Vanamadevi Andan, Uruppattur Achan Pillai and Sokattur Alvan. Uyyakondar had five disciples; they are Manakkal Nambi, Tiruvallikkeni Pan Perumal Araiyar, Settalur Sendalaṅgarar, ŚrīPuṇḍarīka Dasar and Ulagapperumal Naṅgai. The chief disciples of Manakkal Nambi were five; they are Aḷavandār, Deivattukkarasu Nambi, Gomatam Tiruvinnagar  Appan, Siruppulloor Avudaiya Pillai and Acchi. Aḷavandār had fifteen disciples: they are - Peria Nambi, Tirukkottiyar Nambi, Tirumalai Andan, Aḷavandār Alvar, Tirumalai Nambi, Isandan Deivavari Andan, Siriyandan, Tirumohoor Appan, Tirumohoor Ninrar, Deivapperumal, Tirumapgai Aliyar, Pillai Tirumalirunjolai Dasar, Maraner Nambi and Alkondi. Six disciples sought the feet of Perianambi; they were :-- Emperumanar (ŚrīRāmānuja), Malaikuniya Ninrar, Arya ŚrīSatagopa Dasar, Aniaraṅgattamudanar, Tiruvoykulamudaiyan Pattar and Tirukkacchi Nambi. ŚrīRāmānuja learnt the meanings of the rahasyas or mantras at the feet of Tirukkottiyar Nambi. He studied Tiruvoymozhi at the feet of Tirumalai Andan. He learnt Tiruvoymozhi at the feet of Aḷavandār Alvar and learnt also“ Stotram" and the ancient tradition from him. At the feet of Tirumalai Nambi he studied the Rāmāyana. Śrī Rāmānuja's writings are nine in number: Śrī Bhāṣyam, Dīpam, Sāram, Vedartha Sangraham, ŚrīGita Bhāṣyam, Siriya Gadyam (Śrīraṅga Gadyam), Periya Gadyam (Saranāgati Gadyam), Vaikuṇṭha   Gadyam and Nityam. The names of the chief disciples of Rāmānuja may be learnt from the respective tradition of each reader,
+इव्व् आचार्यर्गळिल्;  
+ईश्वर-मुनिगळ् पिळ्ळै **नाथ-मुनिगळ्**.  
+इवर् **न्याय-तत्वम्** ऎन्गिऱ शास्त्रमुम्  
+**योग-रहस्यमुम्** अरुळिच् चॆय्दार्.
+</details>
+
+<details><summary>English</summary>
+
+Among these ācāryas. Nāthamuni was the son of Iśvaramuni, and he gave us "Nyāya Tatvam"and " Yoga Rahasyam." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वाचार्यर्गळिल्; ईश्वरमुनिगळ् पिळ्ळै नाथमुनिगळ्. इवर् न्याय-तत्वमॆन्गिऱ शास्त्रमुम् योगरहस्यमुम् अरुळिच्चॆय्दार्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**इवरुक्कु** श्री-मधुर-कविगळ् मुदल्-आगव् उण्डान संप्रदाय-परंपरैयाल् उम्  
+तिरु-वाय्-मॊऴि मुगत्तालुम् योग-दशैयिले साक्षात्-कृतर् आयुम्,  
+**नम्माऴ्वार् +++(←आऴ्=निमज्जने)+++ आचार्यर् आनार्**. 
+</details>
+
+<details><summary>English</summary>
+
+Since Nāthamuni received the sacred tradition from one of the spiritual descendants of Madhurakavi, and was blessed with spiritual wisdom from a study of Tiruvoymozhi and since, in his yogic contemplation, Nammalvar appeared to him and taught him the sacred lore, his ācārya was Nammalvar himself (though they lived at different times). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवरुक्कु श्रीमधुर-कविगळ् मुदलागवुण्डान संप्रदाय-परंपरैयालुम् तिरुवाय्मॊऴि मुगत्तालुम् योगदशैयिले साक्षात्कृतरायुम्, नम्माऴ्वार् आचार्यरानार्. 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाथमुनिगळ् पिळ्ळै **ईश्वर-भट्टाऴ्वान्**+++(←आऴ्=निमज्जने)+++.  
+ईश्वर-भट्टाऴ्वान् पिळ्ळैय् आळ+++(←आळ् राज्ये)+++-वन्दार्.  
+इवर् अरुळिच् चॆय्द प्रबन्धङ्गळ् -  
+आगम-प्रामाण्यम् उम्, पुरुष-निर्णयम् उम्,  
+आत्म-सिद्धि, ईश्वर-सिद्धि, संवित्-सिद्धि ऎन्गिऱ सिद्धि-त्रयम् उम्,  
+श्री-गीतार्थ-संग्रहम् उम्, स्तोत्रम् उम्, चतुः-श्लोकिय् उम्;  
+आग ऎट्टु. 
+</details>
+
+<details><summary>English</summary>
+
+Nāthamuni's son was Iśvara Bhatta. To Iśvara Bhatta was born Aḷavandār (Yāmunācārya). The works of Aḷavandār are the following eight :-" Āgama Prāmānyam", " Puruṣa Nirnaya", the three Siddhis, namely, “ Ātma Siddhi", "Iśvara Siddhi", "Samvit Siddhi", "ŚrīGitārtha Sangraha", "Stotram" and "The Tetrad of ślokas," 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाथमुनिगळ् पिळ्ळै ईश्वर-भट्टाऴ्वान्.  
+ईश्वरभट्टाऴ्वान् पिळ्ळैय् आळवन्दार्.  
+इवररुळिच् चॆय्द प्रबन्धङ्गळ् -  
+आगमप्रामाण्यमुम्, पुरुषनिर्णयमुम्,  
+आत्मसिद्धि, ईश्वरसिद्धि, संवित्सिद्धि ऎन्गिऱ सिद्धित्रयमुम्,  
+श्रीगीतार्थसंग्रहमुम्, स्तोत्रमुम्, चतुःश्लोकियुम्;  
+आग ऎट्टु. 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आळवन्दार् पिळ्ळै सॊट्टै+++(=खल्वाट?)+++-नम्बि+++(=पूर्ण)+++.  
+सॊट्टै-नम्बि-पिळ्ळै ऎन्न्-आच्चान्+++(←आचार्य)+++.  
+ऎन्न्-आच्चान् पिळ्ळैगळ् नाल्वर्;  
+इवर्गळिल् ऒरुवर् पिळ्ळैय्-अप्पर्.  
+पिळ्ळैय्-अप्पर् पिळ्ळै तोऴ्+++(=मित्र)+++-अप्पर्.  
+तोऴ्-अप्परुक्कुप् पॆण्-पिळ्ळैगळ् इरुवर्+++(=द्वे)+++.
+</details>
+
+<details><summary>English</summary>
+
+Sottai Nambi was the son of Aḷavandār. Sottai Nambi's son was Ennachchan. Ennachchan had four sons, one of whom was Pillayappar. Pillayappar's son was Thozhappar, Thozhappar had two daughters.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आळवन्दार् पिळ्ळै सॊट्टै नम्बि.  
+सॊट्टै नम्बि पिळ्ळै ऎन्नाच्चान्.  
+ऎन्नाच्चान् पिळ्ळैगळ् नाल्वर्;  
+इवर्गळिलॊरुवर् पिळ्ळैयप्पर्,  
+पिळ्ळैयप्पर् पिळ्ळै तोऴप्पर्.  
+तोऴप्परुक्कुप् पॆण्बिळ्ळैगळिरुवर्.
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाथमुनिगळ् श्रीपादत्तै आश्रयित्त मुदलिगळ्+++(=मुख्याः)+++;  
++++(आचार्य-पत्न्य्-अपमानेनारुष्ट)+++ उय्यक्+++(=अस्मत्)+++-कॊण्डार्,  
+कुरुगैक्+++(-ग्राम)+++-कावल्-अप्पन्,  
+नम्बि-करुणाकर-दासर्,  
+एऱ्+++(=वृद्धि)+++-उतिर्+++(=??)+++-उवुडैयार्+++(=युक्त)+++,  
+तिरुक्-कण्ण-मङ्गैय्+++(=मङ्गल)+++-आण्डान्+++(=श्रीमान्)+++,  
+वान-मादेविय्-आण्डान्, उरुप्-पट्टूर् आच्चान् पिळ्ळै, सोगत्तूर्-आऴ्वान्  
+आग ऎण्वर्+++(=अष्ट)+++. 
+</details>
+
+<details><summary>English</summary>
+
+The chief disciples who sought the feet of Nāthamuni were eight :-  
+Uyyakkoodar, Kurukaikavalappan, Nambi Karunakara Dasar, Erutiruvudaiyar, Thirukkannamaṅgai Andan, Vanamadevi Andan, Uruppattur Achan Pillai and Sokattur Alvan. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाथमुनिगळ् श्रीपादत्तै आश्रयित्त मुदलिगळ्;  
+उय्यक्कॊण्डार्, कुरुगैक् कावलप्पन्, नम्बि करुणाकरदासर्,  
+एऱुदिरुवुडैयार्, तिरुक्कण्ण मङ्गैयाण्डान्, वानमादेवियाण्डान्, उरुप्पट्टूर् आच्चान् पिळ्ळै, सोगत्तूराऴ्वान् आग ऎण्वर्. 
+</details>
+
+
+
+Uyyakondar had five disciples; they are Manakkal Nambi, Tiruvallikkeni Pan Perumal Araiyar, Settalur Sendalaṅgarar, ŚrīPuṇḍarīka Dasar and Ulagapperumal Naṅgai. The chief disciples of Manakkal Nambi were five; they are Aḷavandār, Deivattukkarasu Nambi, Gomatam Tiruvinnagar  Appan, Siruppulloor Avudaiya Pillai and Acchi. Aḷavandār had fifteen disciples: they are - Peria Nambi, Tirukkottiyar Nambi, Tirumalai Andan, Aḷavandār Alvar, Tirumalai Nambi, Isandan Deivavari Andan, Siriyandan, Tirumohoor Appan, Tirumohoor Ninrar, Deivapperumal, Tirumapgai Aliyar, Pillai Tirumalirunjolai Dasar, Maraner Nambi and Alkondi. Six disciples sought the feet of Perianambi; they were :-- Emperumanar (ŚrīRāmānuja), Malaikuniya Ninrar, Arya ŚrīSatagopa Dasar, Aniaraṅgattamudanar, Tiruvoykulamudaiyan Pattar and Tirukkacchi Nambi. ŚrīRāmānuja learnt the meanings of the rahasyas or mantras at the feet of Tirukkottiyar Nambi. He studied Tiruvoymozhi at the feet of Tirumalai Andan. He learnt Tiruvoymozhi at the feet of Aḷavandār Alvar and learnt also“ Stotram" and the ancient tradition from him. At the feet of Tirumalai Nambi he studied the Rāmāyana. Śrī Rāmānuja's writings are nine in number: Śrī Bhāṣyam, Dīpam, Sāram, Vedartha Sangraham, ŚrīGita Bhāṣyam, Siriya Gadyam (Śrīraṅga Gadyam), Periya Gadyam (Saranāgati Gadyam), Vaikuṇṭha   Gadyam and Nityam. The names of the chief disciples of Rāmānuja may be learnt from the respective tradition of each reader,
 
 BHAKTI TO  ĀCĀRYA ESSENTIAL:
 
