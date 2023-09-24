@@ -1,5 +1,5 @@
 +++
-title = "+rAjagopAla translation"
+title = "+सर्व-प्रस्तुतिः"
 
 +++
 
