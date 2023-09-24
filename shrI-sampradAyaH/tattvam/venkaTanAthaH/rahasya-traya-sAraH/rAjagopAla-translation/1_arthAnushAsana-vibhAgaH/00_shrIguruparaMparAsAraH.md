@@ -584,9 +584,9 @@ Since Nāthamuni received the sacred tradition from one of the spiritual descend
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाथमुनिगळ् पिळ्ळै **ईश्वर-भट्टाऴ्वान्**+++(←आऴ्=निमज्जने)+++.  
-ईश्वर-भट्टाऴ्वान् पिळ्ळैय् आळ+++(←आळ् राज्ये)+++-वन्दार्.  
-इवर् अरुळिच् चॆय्द प्रबन्धङ्गळ् -  
+**नाथमुनिगळ्** पिळ्ळै ईश्वर-भट्टाऴ्वान्+++(←आऴ्=निमज्जने)+++.  
+ईश्वर-भट्टाऴ्वान् पिळ्ळैय् **आळ+++(←आळ् राज्ये)+++-वन्दार्**+++(=यामुनः)+++.  
+इवर्+++(→यामुनः)+++ अरुळिच् चॆय्द **प्रबन्धङ्गळ्** -  
 आगम-प्रामाण्यम् उम्, पुरुष-निर्णयम् उम्,  
 आत्म-सिद्धि, ईश्वर-सिद्धि, संवित्-सिद्धि ऎन्गिऱ सिद्धि-त्रयम् उम्,  
 श्री-गीतार्थ-संग्रहम् उम्, स्तोत्रम् उम्, चतुः-श्लोकिय् उम्;  
@@ -614,7 +614,7 @@ Nāthamuni's son was Iśvara Bhatta. To Iśvara Bhatta was born Aḷavandār (Y�
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आळवन्दार् पिळ्ळै सॊट्टै+++(=खल्वाट?)+++-नम्बि+++(=पूर्ण)+++.  
+**आळवन्दार्** पिळ्ळै सॊट्टै+++(=खल्वाट?)+++-नम्बि+++(=पूर्ण)+++.  
 सॊट्टै-नम्बि-पिळ्ळै ऎन्न्-आच्चान्+++(←आचार्य)+++.  
 ऎन्न्-आच्चान् पिळ्ळैगळ् नाल्वर्;  
 इवर्गळिल् ऒरुवर् पिळ्ळैय्-अप्पर्.  
@@ -643,7 +643,7 @@ Sottai Nambi was the son of Aḷavandār. Sottai Nambi's son was Ennachchan. Enn
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाथमुनिगळ् श्रीपादत्तै आश्रयित्त मुदलिगळ्+++(=मुख्याः)+++;  
+**नाथमुनिगळ्**-श्री-पादत्तै आश्रयित्त मुदलिगळ्+++(=मुख्याः)+++;  
 +++(आचार्य-पत्न्य्-अपमानेनारुष्ट)+++ उय्यक्+++(=अस्मत्)+++-कॊण्डार्,  
 कुरुगैक्+++(-ग्राम)+++-कावल्-अप्पन्,  
 नम्बि-करुणाकर-दासर्,  
@@ -667,15 +667,275 @@ Uyyakkoodar, Kurukaikavalappan, Nambi Karunakara Dasar, Erutiruvudaiyar, Thirukk
 एऱुदिरुवुडैयार्, तिरुक्कण्ण मङ्गैयाण्डान्, वानमादेवियाण्डान्, उरुप्पट्टूर् आच्चान् पिळ्ळै, सोगत्तूराऴ्वान् आग ऎण्वर्. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**उय्यक्-कॊण्डार्**--श्रीपादत्तै आश्रयित्तवर्गळ् ऐवर्.  
+अवर्गळ् आगिऱार्;  
+मणक्+++(=युक्त)+++-काल्--नम्बि+++(=पूर्ण)+++,  
+तिरुव्-अल्लिक्+++(=नीलोत्पल)+++-केणि+++(=कृषिभू)+++--पाण्-पॆरुम्-आळ्-अऱैयर्,  
+सेट्टलूर्-सॆण्ड्+++(=कष/कन्दुक?)+++-अलङ्-कारर्,  
+श्री-पुण्डरीक-दासर्,  
+उलगप्-पॆरुम्-आळ् नङ्गै+++(नम्→सु-स्त्री)+++. 
+</details>
+
+<details><summary>English</summary>
+
+Uyyakondar had five disciples; they are Manakkal Nambi, Tiruvallikkeni Pan Perumal Araiyar, Settalur Sendalaṅgarar, ŚrīPuṇḍarīka Dasar and Ulagapperumal Naṅgai. 
+</details>
 
 
-Uyyakondar had five disciples; they are Manakkal Nambi, Tiruvallikkeni Pan Perumal Araiyar, Settalur Sendalaṅgarar, ŚrīPuṇḍarīka Dasar and Ulagapperumal Naṅgai. The chief disciples of Manakkal Nambi were five; they are Aḷavandār, Deivattukkarasu Nambi, Gomatam Tiruvinnagar  Appan, Siruppulloor Avudaiya Pillai and Acchi. Aḷavandār had fifteen disciples: they are - Peria Nambi, Tirukkottiyar Nambi, Tirumalai Andan, Aḷavandār Alvar, Tirumalai Nambi, Isandan Deivavari Andan, Siriyandan, Tirumohoor Appan, Tirumohoor Ninrar, Deivapperumal, Tirumapgai Aliyar, Pillai Tirumalirunjolai Dasar, Maraner Nambi and Alkondi. Six disciples sought the feet of Perianambi; they were :-- Emperumanar (ŚrīRāmānuja), Malaikuniya Ninrar, Arya ŚrīSatagopa Dasar, Aniaraṅgattamudanar, Tiruvoykulamudaiyan Pattar and Tirukkacchi Nambi. ŚrīRāmānuja learnt the meanings of the rahasyas or mantras at the feet of Tirukkottiyar Nambi. He studied Tiruvoymozhi at the feet of Tirumalai Andan. He learnt Tiruvoymozhi at the feet of Aḷavandār Alvar and learnt also“ Stotram" and the ancient tradition from him. At the feet of Tirumalai Nambi he studied the Rāmāyana. Śrī Rāmānuja's writings are nine in number: Śrī Bhāṣyam, Dīpam, Sāram, Vedartha Sangraham, ŚrīGita Bhāṣyam, Siriya Gadyam (Śrīraṅga Gadyam), Periya Gadyam (Saranāgati Gadyam), Vaikuṇṭha   Gadyam and Nityam. The names of the chief disciples of Rāmānuja may be learnt from the respective tradition of each reader,
+<details><summary>मूलम्</summary>
+
+उय्यक्कॊण्डार् श्रीपादत्तै आश्रयित्तवर्गळ् ऐवर्.  
+अवर्गळागिऱार्; मणक्काल् नम्बि, तिरुवल्लिक्केणि पाण्बॆरुमाळऱैयर्, सेट्टलूर् सॆण्डलङ्गारर्, श्रीपुण्डरीकदासर्, उलगप्पॆरुमाळ् नङ्गै. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**मणक्-काल्--नम्बि** श्रीपादत्तै आश्रयित्तवर्गळ् ऐवर्.  
+अवर्गळागिऱार्;  
+आळ-वन्दार्,  
+तॆय्वत्तुक्क्+++(=दैवत्तुक्क्)+++-अरसु--नम्बि,  
+गो-मठत्तुत् तिरु-विण्+++(=विष्णु)+++-नगर्-अप्पन्,  
+सिऱुप्+++(=लघु)+++-पुळ्ळ्+++(=पक्षी)+++-ऊर् आव्+++(=गो)+++-उडैय-पिळ्ळै,  
+आच्चि+++(=आचार्या)+++. 
+</details>
+
+<details><summary>English</summary>
+
+The chief disciples of Manakkal Nambi were five; they are Aḷavandār, Deivattukkarasu Nambi, Gomatam Tiruvinnagar  Appan, Siruppulloor Avudaiya Pillai and Acchi.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मणक्काल् नम्बि श्रीपादत्तै आश्रयित्तवर्गळ् ऐवर्.  
+अवर्गळागिऱार्; आळवन्दार्, तॆय्वत्तुक्करसु नम्बि, गोमठत्तुत् तिरुविण्णगरप्पन्, सिऱुप्पुळ्ळूर् आवुडैयबिळ्ळै, आच्चि. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**आळ-वन्दार्**--श्री-पादत्तै आश्रयित्तवर्गळ् पदिन्-ऐवर्गळ्.  
+अवर्गळ् आगिऱार्;  
+पॆरिय-नम्बि,  
+तिरुक्-कोट्टिय्+++(=गोष्ठि)+++-ऊर् नम्बि,  
+तिरु-मालैय्+++(=मुग्ध)+++-आण्डान्,  
+आळ-वन्दार्-आऴ्वार् +++(←यामुनाद् भिन्नः!)+++,  
+तिरु-मलै-नम्बि,  
+ईशाण्डान्,  
+तॆय्व+++(=दैव)+++-वारिय्-आण्डान्,  
+सिऱिय्+++(=लघु)+++-आण्डान्,  
+तिरु-मोग्+++(=मोह)+++-ऊर्-अप्पन्,  
+तिरु-मोग्-ऊर्--निण्ड्रार्+++(=स्थितः)+++,  
+तॆय्वप्+++(=दैव)+++-पॆरुम्-आळ्,  
+तिरु-मङ्गैय्+++(=मङ्गल)+++-आळियार्,  
+पिळ्ळै-तिरु-माल्-इरुञ्ज्+++(=विपुल)+++-ओलै+++(=वन)+++-दासर्,  
+माऱन्-एर्+++(=शठकोपाभ)+++-नम्बि,  
+आळ्-कॊण्डि. 
+</details>
+
+<details><summary>English</summary>
+
+Aḷavandār had fifteen disciples: they are - Peria Nambi, Tirukkottiyar Nambi, Tirumalai Andan, Aḷavandār Alvar, Tirumalai Nambi, Isandan Deivavari Andan, Siriyandan, Tirumohoor Appan, Tirumohoor Ninrar, Deivapperumal, Tirumapgai Aliyar, Pillai Tirumalirunjolai Dasar, Maraner Nambi and Alkondi. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आळवन्दार् श्रीपादत्तै आश्रयित्तवर्गळ् पदिनैवर्गळ्.  
+अवर्गळागिऱार्; पॆरियनम्बि, तिरुक्कोट्टियूर् नम्बि, तिरुमालैयाण्डान्, आळवन्दाराऴ्वार्, तिरुमलैनम्बि, ईसाण्डान्, तॆय्ववारियाण्डान्, सिऱियाण्डान्, तिरुमोगूरप्पन्, तिरुमोगूर् निण्ड्रार्, तॆय्वप्पॆरुमाळ्, तिरुमङ्गैयाळियार्, पिळ्ळै तिरुमालिरुञ्जोलै दासर्, माऱनेर् नम्बि, आळ्कॊण्डि. 
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**पॆरिय-नम्बि**--श्रीपादत्तै आश्रयित्तवर्गळ् अऱुवर्.  
+अवर्गळ् आगिऱार्;  
+**ऎम्-पॆरुमानार्**,  
+मलै-कुनिय+++(=नत)+++-निण्ड्रार्,  
+आर्य-श्री-शठ-कोप-दासर्,  
+अणिय्+++(=भूषित)+++-अरङ्गत्त्-अमुदनार्+++(=अमृत)+++,  
+तिरुव्-आय्+++(=गो)+++-कुलम्-उडैयान् भट्टर्,  
+तिरुक्-कच्चि+++(=काञ्ची)+++-नम्बि. 
+</details>
+
+<details><summary>English</summary>
+
+Six disciples sought the feet of Perianambi; they were :-- Emperumanar (ŚrīRāmānuja), Malaikuniya Ninrar, Arya ŚrīSatagopa Dasar, Aniaraṅgattamudanar, Tiruvoykulamudaiyan Pattar and Tirukkacchi Nambi. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पॆरियनम्बि श्रीपादत्तै आश्रयित्तवर्गळ् अऱुवर्.  
+अवर्कळागिऱार्;  
+ऎम्बॆरुमानार्, मलैगुनिय निण्ड्रार्, आर्यश्रीशठकोपदासर्, अणियरङ्गत्तमुदनार्, तिरुवाय्गुलमुडैयान् पट्टर्, तिरुक्कच्चि नम्बि. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎम्-बॆरुमानार्  
+तिरुक्-कोट्टिय्-ऊर्--नम्बि-श्री-पादत्तिले  
+**रहस्यार्थङ्गळै शिक्षित्तार्**. 
+</details>
+
+<details><summary>English</summary>
+
+ŚrīRāmānuja learnt the meanings of the rahasyas or mantras at the feet of Tirukkottiyar Nambi. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎम्बॆरुमानार्, तिरुक्कोट्टियूर् नम्बि श्रीपादत्तिले रहस्यार्थ-ङ्गळै शिक्षित्तार्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरु-मालैय्-आण्डान्--श्री-पादत्तिल्-ए तिरु-वाय्-मॊऴि+++(=भाषा)+++ +++(अर्थतः)+++ **केट्टार्**.
+</details>
+
+<details><summary>English</summary>
+
+He studied Tiruvoymozhi at the feet of Tirumalai Andan. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तिरुमालैयाण्डान् श्रीपादत्तिले तिरुवाय्मॊऴि केट्टार्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आळ-वन्दार्-आऴ्वार्--श्रीपादत्तिले  
+तिरु-वाय्-मॊऴियुम् **ओदि**+++(=वचनानुवचनं विधाय)+++  
+स्तोत्रादिगळुम्, +++(शिष्ट-दिव्य-सूरि-)+++अरुळिच्-चॆयलुम्,  
+नल्-वार्त्तैगळुम् **केट्ट् अरुळिनार्**+++(=अनुगृहीतवान् [प्रवचनेन])+++. 
+</details>
+
+<details><summary>English</summary>
+
+He learnt Tiruvoymozhi at the feet of Aḷavandār Alvar and learnt also“ Stotram" and the ancient tradition from him. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आळवन्दाराऴ्वार् श्रीपादत्तिले तिरुवाय्मॊऴियुम् ओदि स्तोत्रादिगळुम्, अरुळिच्चॆयलुम् नल्वार्त्तैगळुम् केट्टरुळिनार्. 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरुमलै-नम्बि--श्री-पादत्तिले  
+श्रीमद्-रामायणङ् **केट्ट् अरुळिनार्**  
++++(प्रवचनेन, गुवादेशेन तत्-कारित-तिरुवाय्मुऴि-"भगवद्-विषय"-व्याख्यानान्तर्भावेन च)+++.
+</details>
+
+<details><summary>English</summary>
+
+At the feet of Tirumalai Nambi he studied the Rāmāyana.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमलैनम्बि श्रीपादत्तिले श्रीमद्रामायणङ् गेट्टरुळिनार्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर् अरुळिच्-चॆय्द **प्रबन्धङ्गळ्**  
+श्रीभाष्यम्, दीपम्, सारम्,  
+वेदार्थसंग्रहम्,  
+श्रीगीताभाष्यम्,  
+सिऱिय+++(=लघु)+++ गद्यम्, पॆरिय गद्यम्, श्रीवैकुण्ठ गद्यम्,  
+नित्यम्  
+आग ऒन्बदु. 
+</details>
+
+<details><summary>English</summary>
+
+Śrī Rāmānuja's writings are nine in number: Śrī Bhāṣyam, Dīpam, Sāram, Vedartha Sangraham, ŚrīGita Bhāṣyam, Siriya Gadyam (Śrīraṅga Gadyam), Periya Gadyam (Saranāgati Gadyam), Vaikuṇṭha   Gadyam and Nityam. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवररुळिच् चॆय्द प्रबन्धङ्गळ् श्रीभाष्यम्, दीपम्, सारम्, वेदार्थसंग्रहम्, श्रीगीताभाष्यम्, सिऱिय गद्यम्, पॆरिय गद्यम्, श्रीवैकुण्ठ गद्यम्, नित्यम् आग ऒन्बदु.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर् श्री-पादत्तिल् आश्रयित्त मुदलिगळैत्+++(=मुख्यानां)+++ तन्-ताम्+++(=स्वस्व)+++-संप्रदायप्-पडिगळिल्+++(=सोपानेषु)+++ ए  
+**अऱिन्दु-कॊळ्वदु**.
+</details>
+
+<details><summary>English</summary>
+
+The names of the chief disciples of Rāmānuja may be learnt from the respective tradition of each reader
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर् श्रीपादत्तिल् आश्रयित्त मुदलिगळैत् तन्दाम् संप्रदायप्पडिगळिले अऱिन्दु कॊळ्वदु.
+</details>
+
+
+
 
 BHAKTI TO  ĀCĀRYA ESSENTIAL:
 
-It has been said, "The wise[^f22] man should bring his guru to the light (of renown) and should guard the sacred mantra with great care; from the omission to bring his guru to light and by revealing the mantra, he declines in wealth (of knowledge) and in age (spiritual standing)." His bringing the guru to light and his omission to do so, it needs no saying, are due to the excess or deficiency of his devotion to his guru.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “गुरुं प्रकाशयेद् धीमान्  
+मन्त्रं यत्नेन गोपयेत् ।  
+अप्रकाश-प्रकाशाभ्यां  
+क्षीयेते +++(ज्ञान-)+++संपद्-+++(ज्ञान-)+++आयुषी ॥” 
+
+ऎण्ड्रार्गळ्. 
+</details>
+
+<details><summary>English</summary>
+
+It has been said, "The wise[^f22] man should bring his guru to the light (of renown) and should guard the sacred mantra with great care; from the omission to bring his guru to light and by revealing the mantra, he declines in wealth (of knowledge) and in age (spiritual standing)." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“गुरुं प्रकाशयेद्धीमान् मन्त्रं यत्नेन गोपयेत् । अप्रकाश - प्रकाशाभ्यां क्षीयेते संपदायुषी ॥” ऎण्ड्रार्गळ्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुरुवैय् ऒरुवन् प्रकाशिप्पिक्किऱदुव् उम्  
+ऒरुवन् प्रकाशिप्पियाद् ऒऴिगिऱदुवुम्+++(=त्यागश्च)+++  
+गुरु-भक्तियिल् तारतम्यत्तालेय् इऱे+++(=खलु)+++. 
+</details>
+
+<details><summary>English</summary>
+
+His bringing the guru to light and his omission to do so, it needs no saying, are due to the excess or deficiency of his devotion to his guru.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुरुवैयॊरुवन् प्रकाशिप्पिक्किऱदुवुम् ऒरुवन् प्रकाशिप् पियादॊऴिगिऱदुवुम् गुरुभक्तियिल् तारतम्यत्तालेयिऱे. 
+
+</details>
+
+
+
 
 [^f22]: Śeṣasamhita: 14-50
+
+
+
 
 From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known that all desired knowledge arises from supreme devotion to the guru resembling that to Bhagavān. This is learnt also from the incident of Sañjaya seeing all things as if they occurred before him, as the result of his supreme devotion to his guru Vyāsa. From the episodes of Raikwa (and others) it is evident that the guru who does not reveal spiritual truths immediately even to those śiṣyas who are of excellent character will not be adversely affected in his spiritual life. If, on the other hand, the guru reveals these spiritual truths to any and every disciple in the belief that the śiṣya who has sought him must be good, he will be adversely affected; for, in such cases, it is said that the sins of the disciple become also the sins of the guru This may be seen from the story of Brahma. Without careful enquiry (into his fitness) he revealed truths to Indra. As a consequence Brahma forgot his divine knowledge and had to be taught again by Bhagavān through the agency of Nārada , Brahma's very disciple. In the śloka referred to above, the meaning that, by not bringing the guru to light and by improper bringing of the mantra to light, the man suffers decline respectively in wealth and in age is primarily intended owing to appropriateness and the support of Jabala and Kaṭha śruti s. There is nothing wrong in interpreting the śloka as meaning also "He who omits to bring his guru to light and brings the mantra to light will suffer decline both in wealth (the wealth of spiritual knowledge ) and in age (spiritual standing)." It follows from this that a man should bring his guru to light by way of the overflow of his supreme devotion to him under all conditions and that the sacred mantra should not, for the sake of any material advantage, be revealed to the fickle-minded who do not possess all the qualities prescribed for a disciple. If the mantra is revealed to undeserving persons, its great value which is like that of a casket made of rubies containing a precious jewel will suffer and the guru's spiritual greatness will also be adversely affected. The word guru refers, by implication, to the earlier gurus also in the line of ascent extending up to Bhagavān. Or it may mean gurus in general. Similarly the word mantra refers also to the meanings of the mantra and other secret doctrines connected with it. As a rule or vidhi, it has been laid down that, whenever a man meditates on these secret meanings or mysteries, he should also meditate on the lineal succession of gurus. It has also been said: “As an [^f25] expiation for having conversed with those that are forbidden as unfit (for conversation), we should meditate on the virtuous." By the words " the virtuous ", this śloka refers primarily to the. ācāryas.
 
