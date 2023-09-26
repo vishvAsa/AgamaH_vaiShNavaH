@@ -893,7 +893,7 @@ BHAKTI TO  ĀCĀRYA ESSENTIAL:
 > “गुरुं प्रकाशयेद् धीमान्  
 मन्त्रं यत्नेन गोपयेत् ।  
 अप्रकाश-प्रकाशाभ्यां  
-क्षीयेते +++(ज्ञान-)+++संपद्-+++(ज्ञान-)+++आयुषी ॥” 
++++(अनुद्भवेनापि)+++ क्षीयेते +++(विश्वासात्मक-ज्ञान-)+++संपद्-+++(विश्वासात्मक-ज्ञान-)+++आयुषी ॥” 
 
 ऎण्ड्रार्गळ्. 
 </details>
@@ -922,7 +922,7 @@ It has been said, "The wise[^f22] man should bring his guru to the light (of ren
 
 गुरौ परभक्तौ, गुरुप्रकाशनं स्वाभाविकम्।  
 रागप्राप्ते गुरुप्रकाशने, विधिर् न वर्तते।  
-तेनात्र गुरौ परभक्तेर् विधिः - इति कारण-विधिः, न कार्य+++(→प्रकाशन)+++-विधिः। 
+तेनात्र गुरौ शिक्षावसानेऽप्य् अक्षीयमाणायाः परभक्तेर् विधिः - इति कारण-विधिः, न कार्य+++(→प्रकाशन)+++-विधिः। 
 
 </details>
 
@@ -961,13 +961,13 @@ From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known
 
 <details><summary>मूलम्</summary>
 
-भगवद्विषयत्तिऱ्‌ पोले गुरु विषयत्तिलुम् परैयान भक्तियुडैयवनुक्कु अपेक्षितार्थङ् गळॆल्लाम् प्रकाशिक्कुमॆन्नुमिडम् कठ-जाबालादि-श्रुतिगळिलुम् सञ्जयादि वृत्तान्तङ्गळिलुम् प्रसिद्धम्.
+भगवद्विषयत्तिऱ्‌ पोले गुरु विषयत्तिलुम् परैयान भक्तियुडैयवनुक्कु अपेक्षितार्थङ्गळॆल्लाम् प्रकाशिक्कुमॆन्नुमिडम् कठ-जाबालादि-श्रुतिगळिलुम् सञ्जयादि वृत्तान्तङ्गळिलुम् प्रसिद्धम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इङ्ङन्+++(=ईस्दृश)+++ अल्लादार्क्कु  
-इप्पडि +++(उपायाद्य्-अनुष्ठान-पर्यन्त-फल-रूपम् आन)+++ ज्ञान-संपत्त् उण्डागाद् ऎन्नुम् इडम्+++(=स्थानम्)+++  
+इप्पडि +++(उपायाद्य्-अनुष्ठान-पर्यन्त--फल-रूपम् आन)+++ ज्ञान-संपत्त् उण्डागाद् ऎन्नुम् इडम्+++(=स्थानम्)+++  
 शिष्यर्गळ् उडैय +++(विश्वासात्मक-)+++ज्ञान-तारतम्यत्ताल् ए कण्डु-गॊळ्वदु.  
 </details>
 
@@ -977,14 +977,117 @@ From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known
 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मिगव्+++(=अतीव)+++ उम् गुणाधिकर् आन शिष्यर्गळुक्क् उङ्  
+कडुग+++(=वेगेन)+++ अध्यात्म-विषयङ्गळै प्रकाशिप्पियादार्क्कु  
+निष्ठै कुलैयाद्+++(=न नश्येत्)+++ ऎन्नुम् इडम्  
++++(स्पष्टतर-श्रद्धालु-राज-विलम्बक-)+++रैक्वादि वृत्तान्तङ्गळिल् ए प्रसिद्धम्.  
+</details>
+
+<details><summary>English</summary>
 
 From the episodes of Raikwa (and others) it is evident that  
 the guru who does not reveal spiritual truths immediately even to those śiṣyas who are of excellent character  
 will not be adversely affected in his spiritual life.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मिगवुम् गुणाधिकरान शिष्यर्गळुक्कुङ्गडुग अध्यात्मविषयङ्गळै प्रकाशिप्पियादार्क्कु निष्ठै कुलैयादॆन्नुमिडम् रैक्वादि वृत्तान्तङ्गळिले प्रसिद्धम्.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पॆट्रदु+++(=प्राप्तिर्)+++ गुणम्+++(→भाग्यम्)+++ आग उपदेशित्ताल्  
+“शिष्य-पापं गुरोरपि” ऎन्गैयाल्+++(=उक्त्या)+++ ए आचार्यनुक्कु निष्ठै कुलैय् उम् पडियाम्+++(=??-)+++  
+ऎन्नुम् इडम्,  
+वरुवदु विचारियादे इन्द्रनुक्कु उपदेशित्तुत्  
+तानुम् ब्रह्म-विद्यैयै मऱन्दु  
+तन्-शिष्यन् आन नारद-भगवानैय् इट्टु  
+सर्वेश्वरन् उणर्त्तुविक्क+++(=अवगमय्य)+++ वेण्डुम् पडिय्  
+इरुन्द चतुर्मुखन् पक्कलिल् ए  
+कण्डु कॊळ्वदु.
+</details>
+
+<details><summary>English</summary>
+
 If, on the other hand, the guru reveals these spiritual truths to any and every disciple  
 in the belief that the śiṣya who has sought him must be good,  
 he will be adversely affected;  
-for, in such cases, it is said that the sins of the disciple become also the sins of the guru. This may be seen from the story of Brahma. Without careful enquiry (into his fitness) he revealed truths to Indra. As a consequence Brahma forgot his divine knowledge and had to be taught again by Bhagavān through the agency of Nārada , Brahma's very disciple. In the śloka referred to above, the meaning that, by not bringing the guru to light and by improper bringing of the mantra to light, the man suffers decline respectively in wealth and in age is primarily intended owing to appropriateness and the support of Jabala and Kaṭha śruti s. There is nothing wrong in interpreting the śloka as meaning also "He who omits to bring his guru to light and brings the mantra to light will suffer decline both in wealth (the wealth of spiritual knowledge ) and in age (spiritual standing)." It follows from this that a man should bring his guru to light by way of the overflow of his supreme devotion to him under all conditions and that the sacred mantra should not, for the sake of any material advantage, be revealed to the fickle-minded who do not possess all the qualities prescribed for a disciple. If the mantra is revealed to undeserving persons, its great value which is like that of a casket made of rubies containing a precious jewel will suffer and the guru's spiritual greatness will also be adversely affected. The word guru refers, by implication, to the earlier gurus also in the line of ascent extending up to Bhagavān. Or it may mean gurus in general. Similarly the word mantra refers also to the meanings of the mantra and other secret doctrines connected with it. As a rule or vidhi, it has been laid down that, whenever a man meditates on these secret meanings or mysteries, he should also meditate on the lineal succession of gurus. It has also been said: “As an [^f25] expiation for having conversed with those that are forbidden as unfit (for conversation), we should meditate on the virtuous." By the words " the virtuous ", this śloka refers primarily to the. ācāryas.
+for, in such cases, it is said that the sins of the disciple become also the sins of the guru. This may be seen from the story of Brahma. Without careful enquiry (into his fitness) he revealed truths to Indra. As a consequence Brahma forgot his divine knowledge and had to be taught again by Bhagavān through the agency of Nārada , Brahma's very disciple. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पॆट्रदु गुणमाग उबदेसित्ताल् “शिष्य-पापं गुरोरपि” ऎन्गैयाले आचार्यनुक्कु निष्ठै कुलैयुम् पडियामॆन्नुमिडम्, वरुवदु विचारियादे इन्द्रनुक्कु उपदेशित्तुत् तानुम् ब्रह्मविद्यैयै मऱन्दु तन् शिष्यनान नारदभगवानैयिट्टु सर्वेश्वरन् उणर्त्तु विक्क वेण्डुम्बडियिरुन्द चतुर्मुखन् पक्कलिले कण्डु कॊळ्वदु.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि “अप्रकाश-प्रकाशाभ्याम्” ऎन्गिऱ इरण्डुक्कुम्  
+“क्षीयेते संपद्-आयुषी” ऎन्गिऱ फलङ्गळै  
+औचित्यत्ताल् उम्, प्रमाण-प्रसिद्धियाल् उम्,  
+क्रमत्ताले उदाहरित्तव् इत्तनै+++(=इत्य् एतावद् [उचितम् एव])+++.  
+</details>
+
+<details><summary>English</summary>
+
+In the śloka referred to above, the meaning that, by not bringing the guru to light and by improper bringing of the mantra to light, the man suffers decline respectively in wealth and in age is primarily intended owing to appropriateness and the support of Jabala and Kaṭha śruti s. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि “अप्रकाश-प्रकाशाभ्याम्” ऎन्गिऱ इरण्डुक्कुम् “क्षीयेते संपदायुषी” ऎन्गिऱ फलङ्गळै औचित्यत्तालुम् प्रमाण-प्रसिद्धियालुम् क्रमत्ताले उदाह-रित्तवित्तनै.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरण्डिलुम् इरण्डु फलं अन्वयित्तालुम् वाक्यत्तिल् वरुम् विरोधम् इल्लै.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इरण्डिलुम् इरण्डु फलं अन्वयित्तालुम् वाक्यत्तिल् वरुम् विरोधमिल्लै.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरण्डिल् उम्  
+इरण्डु फलं अन्वयित्ताल् उम्  
+वाक्यत्तिल् वरुम् विरोधम् इल्लै.
+</details>
+
+<details><summary>English</summary>
+
+There is nothing wrong in interpreting the śloka as meaning also "He who omits to bring his guru to light and brings the mantra to light will suffer decline both in wealth (the wealth of spiritual knowledge ) and in age (spiritual standing)." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरण्डिलुम् इरण्डु फलं अन्वयित्तालुम् वाक्यत्तिल् वरुम् विरोधमिल्लै.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् सर्वावस्थैयिल् +++(शिक्षावसानेऽपि)+++ उम् गुरुभक्तियिन् परीवाहमाग गुरुवै प्रकाशिप्पिक्कवुम्, महारत्नगर्भमान माणिक्कच् चॆप्पुप्पोलेयिरुक्किऱ तिरुमन्त्रत्तिनुडैय सीर्मैयुन् दन् निष्ठैयुङ् गुलैयामैक्काग सिल्वान प्रयोजनङ्गळैप्पट्र शिष्य-गुणपूर्तियिल्लाद चपलर्गळुक्कु वॆळियिडादे मन्त्रत्तै मिगवुम् सेमिक्कवुम् प्राप्तम् । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् सर्वावस्थैयिलुम् गुरुभक्तियिन् परीवाहमाग गुरुवै प्रकाशिप्पिक्कवुम्, महारत्नगर्भमान माणिक्कच् चॆप्पुप्पोलेयिरुक्किऱ तिरुमन्त्रत्तिनुडैय सीर्मैयुन् दन् निष्ठैयुङ् गुलैयामैक्काग सिल्वान प्रयोजनङ्गळैप्पट्र शिष्य-गुणपूर्तियिल्लाद चपलर्गळुक्कु वॆळियिडादे मन्त्रत्तै मिगवुम् सेमिक्कवुम् प्राप्तम् । 
+
+</details>
+
+
+It follows from this that a man should bring his guru to light by way of the overflow of his supreme devotion to him under all conditions and that the sacred mantra should not, for the sake of any material advantage, be revealed to the fickle-minded who do not possess all the qualities prescribed for a disciple. If the mantra is revealed to undeserving persons, its great value which is like that of a casket made of rubies containing a precious jewel will suffer and the guru's spiritual greatness will also be adversely affected. The word guru refers, by implication, to the earlier gurus also in the line of ascent extending up to Bhagavān. Or it may mean gurus in general. Similarly the word mantra refers also to the meanings of the mantra and other secret doctrines connected with it. As a rule or vidhi, it has been laid down that, whenever a man meditates on these secret meanings or mysteries, he should also meditate on the lineal succession of gurus. It has also been said: “As an [^f25] expiation for having conversed with those that are forbidden as unfit (for conversation), we should meditate on the virtuous." By the words " the virtuous ", this śloka refers primarily to the. ācāryas.
 
 [^f25]: Gautama Dharma Sūtra: 9.18
 
