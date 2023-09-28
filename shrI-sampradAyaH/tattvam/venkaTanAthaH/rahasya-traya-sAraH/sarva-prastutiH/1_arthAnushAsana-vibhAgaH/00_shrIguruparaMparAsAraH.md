@@ -1195,7 +1195,7 @@ It has also been said: “As an [^f25] expiation for having conversed with those
 
 [^9]: Kaṭha śruti : This wisdom concerning the soul cannot be obtained by the mere exercise of reason. Only when it is imparted by another (the guru), does it lead to the knowledge which is the means of attaining mokṣa .Kaṭha Upaniṣad 1.II.9
 
-[^10]: Jābāla says in the śruti : "It is only the Vidya or wisdom learnt from an ācārya that gives proficiency Chandogya Upaniṣad: IV-9-3
+[^10]: Jābāla says in the śruti : "It is only the Vidya or wisdom learnt from an ācārya that gives proficiency" Chandogya Upaniṣad: IV-9-3
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
@@ -1203,7 +1203,7 @@ It has also been said: “As an [^f25] expiation for having conversed with those
 यानडैवे अवर् कुरुक्कळ् निरै वणङ्गिप्  
 पिन्नरुळाऱ्‌ पॆरुम्बूदूर् वन्द वळ्ळल्  
 पॆरिय नम्बि याळवन्दार् मणक्काल् नम्बि  
-नन्नॆऱियै यवर्क्कुरैत्त वुय्यक्कॊण्डार्  
+नन्नॆऱियै यवर्क्कुरैत्तवुय्यक्कॊण्डार्  
 नादमुनि सडगोबन् सेनै नादन्  
 इन्नमुदत्तिरुमगळॆण्ड्रिवरै मुन्निट्  
 टॆम्बॆरुमान् ऱिरुवडिगळडैगिण्ड्रेने. (3)
@@ -1215,7 +1215,7 @@ It has also been said: “As an [^f25] expiation for having conversed with those
 यानडैवे अवर् कुरुक्कळ् निरै वणङ्गिप्  
 पिन्नरुळाऱ्‌ पॆरुम्बूदूर् वन्द वळ्ळल्  
 पॆरिय नम्बि याळवन्दार् मणक्काल् नम्बि  
-नन्नॆऱियै यवर्क्कुरैत्त वुय्यक्कॊण्डार्  
+नन्नॆऱियै यवर्क्कुरैत्तवुय्यक्कॊण्डार्  
 नादमुनि सडगोबन् सेनै नादन्  
 इन्नमुदत्तिरुमगळॆण्ड्रिवरै मुन्निट्  
 टॆम्बॆरुमान् ऱिरुवडिगळडैगिण्ड्रेने. (3)
