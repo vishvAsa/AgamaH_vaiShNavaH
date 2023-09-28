@@ -1199,15 +1199,21 @@ It has also been said: “As an [^f25] expiation for having conversed with those
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-ऎन्नुयिर् तन्दळित्तवरैच् चरणम्बुक्कि  
-यानडैवे अवर् कुरुक्कळ् निरै वणङ्गिप्  
-पिन्नरुळाऱ्‌ पॆरुम्बूदूर् वन्द वळ्ळल्  
-पॆरिय नम्बि याळवन्दार् मणक्काल् नम्बि  
-नन्नॆऱियै यवर्क्कुरैत्तवुय्यक्कॊण्डार्  
-नादमुनि सडगोबन् सेनै नादन्  
-इन्नमुदत्तिरुमगळॆण्ड्रिवरै मुन्निट्  
-टॆम्बॆरुमान् ऱिरुवडिगळडैगिण्ड्रेने. (3)
+ऎन्न् उयिर्+++(→विष्णुं)+++ तन्द् अळित्तवरै+++(←अळि रक्षणे, गुरुगळै)+++ **शरणम् पुक्कि**+++(=गत्वा)+++,  
+यान्+++(=नान्)+++ अडैवे+++(=क्रमेण)+++ अवर् गुरुक्कळ् निरै+++(=गणं)+++ **वणङ्गिप्**+++(=नत्वा)+++,  
+पिन्न्+++(=ततः)+++ अरुळाऱ्+++(ळ्)+++ पॆरुम्-भूत्-ऊर् वन्द वळ्ळल्+++(=उदारम्)+++,  
+पॆरिय नम्बिय्,  आळ-वन्दार्, मणक्-काल् नम्बि+++(=राममिश्र)+++,  
+नन्-नॆऱियैय्+++(=मार्गं →प्रपत्तिं)+++ अवर्क्क् उरैत्तव्+++(=उक्तवत्)+++ उय्यक्-कॊण्डार्+++(=पुण्डरीकाक्षाख्यः)+++  
+नाथ-मुनि, शठकोपन्, सेनै नाथन्,  
+इन्न् अमुदत्+++(=अमृत[सहित])+++-तिरु-मगळ् ऎण्ड्र् इवरै **मुन्न् इट्ट्**  
+ऎम्-पॆरुमान् **तिरुव्-अडिगळ् अडैगिण्ड्रेने**. (3)
 </details>
+
+<details><summary>English</summary>
+
+"Having sought the protection of my guru who has graciously taught me that Bhagavān is the Inner Self within me and having also bowed with devotion to the line of his gurus, I seek the refuge of the feet of the Lord, after bowing at the feet of that generous soul who appeared in Śrī Perumbudur owing to his compassion ( for his fellow-men), (his guru) Peria Nambi, Aḷavandār (the guru of Peria Nambi, Manakkal Nambi, Uyyakkondar who taught the good path (of prapatti) to Manakkal Nambi, Nāthamuni (the guru of Uyyakkondar), Satagopan (Nammalvar) (the guru of Nāthamuni) and Senainathan (the guru of Nammalvar) and then, of the gracious Lakṣmī , sweet to the Lord as ambrosia."
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1221,45 +1227,54 @@ It has also been said: “As an [^f25] expiation for having conversed with those
 टॆम्बॆरुमान् ऱिरुवडिगळडैगिण्ड्रेने. (3)
 </details>
 
-"Having sought the protection of my guru who has graciously taught me that Bhagavān is the Inner Self within me and having also bowed with devotion to the line of his gurus, I seek the refuge of the feet of the Lord, after bowing at the feet of that generous soul who appeared in Śrī Perumbudur owing to his compassion ( for his fellow-men), (his guru) Peria Nambi, Aḷavandār (the guru of Peria Nambi, Manakkal Nambi, Uyyakkondar who taught the good path (of prapatti) to Manakkal Nambi, Nāthamuni (the guru of Uyyakkondar), Satagopan (Nammalvar) (the guru of Nāthamuni) and Senainathan (the guru of Nammalvar) and then, of the gracious Lakṣmī , sweet to the Lord as ambrosia.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-एते मह्यमपोढमन्मथशरोन्माथाय नाथादय  
-स्त्रय्यन्तप्रतिनन्दनीयविविधोदन्ताः स्वदन्तामिह ।  
-श्रद्धातव्यशरण्यदंपतिदया दिव्यापगाव्यापकाः  
-स्पर्धाविप्लव विप्रलम्भपदवी वैदेशिका देशिकाः ॥२॥
+एते **मह्यम्** अपोढ+++(=अपास्त)+++-मन्मथ-शरोन्माथाय **नाथादयस्**  
+त्रय्य्-अन्त--प्रतिनन्दनीय--विविधोदन्ताः+++(=कथाः)+++ **स्वदन्ताम्** इह ।  
+श्रद्धातव्य-शरण्य--दं-पति-दया--दिव्यापगा-व्यापकाः  
+स्पर्धा-विप्लव-विप्रलम्भ+++(=स्ववननातिक्रम)+++-पदवी--वैदेशिका देशिकाः ॥२॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
-
-एते मह्यमपोढमन्मथशरोन्माथाय नाथादय  
-स्त्रय्यन्तप्रतिनन्दनीयविविधोदन्ताः स्वदन्तामिह ।  
-श्रद्धातव्यशरण्यदंपतिदया दिव्यापगाव्यापकाः  
-स्पर्धाविप्लव विप्रलम्भपदवी वैदेशिका देशिकाः ॥२॥
-</details>
+<details><summary>English</summary>
 
 May these great spiritual teachers, Nāthamuni and others, fill my heart here and now with delight, so that I may not be subject to the impact of the arrows of Manmatha (i. e. to the pleasures of the senses )--teachers who bring us blissful truths of varied kinds from Vedānta , who convey to us (like Bhagīratha) the celestial river of the compassion of the divine couple to be sought in full faith and who are foreign to the paths of envy, error and deception!
-
-<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
-
-हृद्या हृत्पद्मसिंहासनरसिकहयग्रीवहेषोर्मिघोष-  
-क्षिप्तप्रत्यर्थिदृप्तिर्जयति बहुगुणा पङ्क्तिरस्मद्गुरूणाम् ।  
-दिक्सौधाबद्धजैत्रध्वजपटपवनस्फातिनिर्धूततत्त  
-त्सिद्धान्तस्तोमतूलस्तबकविगमनव्यक्तसद्वर्तनीका ॥ ३ ॥
 </details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-हृद्या हृत्पद्मसिंहासनरसिकहयग्रीवहेषोर्मिघोष-  
-क्षिप्तप्रत्यर्थिदृप्तिर्जयति बहुगुणा पङ्क्तिरस्मद्गुरूणाम् ।  
-दिक्सौधाबद्धजैत्रध्वजपटपवनस्फातिनिर्धूततत्त  
-त्सिद्धान्तस्तोमतूलस्तबकविगमनव्यक्तसद्वर्तनीका ॥ ३ ॥
+एते मह्यमपोढमन्मथशरोन्माथाय नाथादय  
+स्त्रय्यन्तप्रतिनन्दनीयविविधोदन्ताः स्वदन्तामिह ।  
+श्रद्धातव्यशरण्यदंपतिदयादिव्यापगाव्यापकाः  
+स्पर्धाविप्लवविप्रलम्भपदवी वैदेशिका देशिकाः ॥२॥
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
+हृद्या हृत्-पद्म-सिंहासन-रसिक--हय-ग्रीव--हेषोर्मि-घोष-  
+क्षिप्त-प्रत्यर्थि-दृप्तिर् **जयति** बहु-गुणा **पङ्क्तिर्** अस्मद्-गुरूणाम् ।  
+दिक्-सौधाऽऽबद्ध-जैत्र-+++(गुरु-रूप-)+++ध्वज-+++(ग्रन्थ-रूप-)+++पट-+++(व्याख्या-रूप-)+++पवन-स्फाति+++(=वृद्धि)+++-निर्धूत-तत्-तत्-  
+सिद्धान्त-स्तोम+++(=गुल्म)+++-तूल+++(=वर्त्तिका)+++-स्तबक-विगमन-व्यक्त--सद्-वर्तनीका+++(=मार्गा)+++ ॥ ३ ॥
+</details>
+
+<details><summary>English</summary>
 
 The blissful line of our gurus who are possessed of many auspicious qualities, who have brought down the arrogance of rival controversialists by the successive neighs issuing from Hayagrīva[^11] who delights in sitting on the throne of their hearts, and whose triumphant banner fixed at the top of the mansion of the four quarters has, by the flourish of its cloth waving in the breeze, dispelled the doctrines of their respective systems like tufts of cotton and thereby rendered the good path clear to all this blissful line of our gurus shines supreme.
 
 [^11]: The disputations of these ācāryas are compared to the succession of neighings coming from the God Hayagrīva who is seated in their hearts. By these disputations they are said to have put down the pride of the exponents of rival systems.
+</details>
+
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
+हृद्या हृत्पद्मसिंहासनरसिकहयग्रीवहेषोर्मिघोष-  
+क्षिप्तप्रत्यर्थिदृप्तिर्जयति बहुगुणा पङ्क्तिरस्मद्गुरूणाम् ।  
+दिक्सौधाबद्धजैत्रध्वजपटपवनस्फातिनिर्धूततत्त  
+त्सिद्धान्तस्तोमतूलस्तबकविगमनव्यक्तसद्वर्तनीका ॥ ३ ॥
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
