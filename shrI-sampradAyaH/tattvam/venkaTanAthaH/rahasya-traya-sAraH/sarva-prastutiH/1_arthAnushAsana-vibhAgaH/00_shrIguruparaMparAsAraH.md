@@ -1145,8 +1145,14 @@ Similarly the word mantra refers also to the meanings of the mantra and other se
 
 तान् इन्द रहस्यङ्गळै अनुसन्धिक्कुम् पोद् ऎल्लाम्  
 **आचार्य-परंपरैयै अनुसन्धिक्कैय्** उम्  
-**विधि-बल-प्राप्तम्**. 
+**विधि-बल-प्राप्तम्** +++(←को विधिः?)+++. 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+एवम् आचार्यस्मृतिर् नित्यकर्म। 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1164,6 +1170,12 @@ As a rule or vidhi, it has been laid down that, whenever a man meditates on thes
 “+++(म्लेच्छादीन्)+++ संभाष्य पुण्यकृतो मनसा ध्यायेत्”  
 ऎन्गिऱप् पडिये  
 **प्रतिषिद्ध-संभाषणत्तुक्कु प्रायश्चित्तम्** आम्.
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+एवम् आचार्यस्मृतिर् नैमित्तिकम् अपि कर्म।  
+ज्ञान-रक्षा-हेतुत्वात् काम्यम् अपि कर्म!
 </details>
 
 <details><summary>English</summary>
