@@ -1077,8 +1077,30 @@ There is nothing wrong in interpreting the śloka as meaning also "He who omits 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाल् सर्वावस्थैयिल् +++(शिक्षावसानेऽपि)+++ उम् गुरुभक्तियिन् परीवाहमाग गुरुवै प्रकाशिप्पिक्कवुम्, महारत्नगर्भमान माणिक्कच् चॆप्पुप्पोलेयिरुक्किऱ तिरुमन्त्रत्तिनुडैय सीर्मैयुन् दन् निष्ठैयुङ् गुलैयामैक्काग सिल्वान प्रयोजनङ्गळैप्पट्र शिष्य-गुणपूर्तियिल्लाद चपलर्गळुक्कु वॆळियिडादे मन्त्रत्तै मिगवुम् सेमिक्कवुम् प्राप्तम् । 
+आगैयाल्, सर्वावस्थैयिल् +++(शिक्षावसानेऽपि)+++ उम्  
+गुरु-भक्तियिन् परीवाहम् आग **गुरुवै प्रकाशिप्पिक्कव्** उम् +++(→प्राप्तम्)+++,  
+
+महा-रत्न-गर्भम्+++(←मन्त्रार्थस्थानीय)+++ आन माणिक्कच् चॆप्पुप्+++(=कांस्य, मन्त्रस्थानीय)+++ पोलेय् इरुक्किऱ  
+**तिरु-मन्त्रत्तिन्** उडैय **सीर्मैय्**+++(=श्रीत्वम्)+++ उम्  
+तन् **निष्ठैय्** उम्  
+**कुलैयामैक्क्** आग  
+सिल्व्+++(=अल्प)+++ आन +++(धन-कीर्त्यादि-)+++प्रयोजनङ्गळैप् पट्र+++(=सम्बद्ध)+++  
+शिष्य-गुण-पूर्तिय् इल्लाद चपलर्गळुक्कु  
+वॆळिय् इडादे  
+**मन्त्रत्तै** मिगव्+++(=अति)+++ उम् **सेमिक्कव्**+++(=गोपनं)+++ उम् **प्राप्तम्** । 
 </details>
+
+<details><summary>English</summary>
+
+
+It follows from this that a man should bring his guru to light by way of the overflow of his supreme devotion to him under all conditions   
+
+and that the sacred mantra should not, for the sake of any material advantage,  
+be revealed to the fickle-minded who do not possess all the qualities prescribed for a disciple. 
+
+If the mantra is revealed to undeserving persons, its great value which is like that of a casket made of rubies containing a precious jewel will suffer and the guru's spiritual greatness will also be adversely affected. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1086,8 +1108,76 @@ There is nothing wrong in interpreting the śloka as meaning also "He who omits 
 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-It follows from this that a man should bring his guru to light by way of the overflow of his supreme devotion to him under all conditions and that the sacred mantra should not, for the sake of any material advantage, be revealed to the fickle-minded who do not possess all the qualities prescribed for a disciple. If the mantra is revealed to undeserving persons, its great value which is like that of a casket made of rubies containing a precious jewel will suffer and the guru's spiritual greatness will also be adversely affected. The word guru refers, by implication, to the earlier gurus also in the line of ascent extending up to Bhagavān. Or it may mean gurus in general. Similarly the word mantra refers also to the meanings of the mantra and other secret doctrines connected with it. As a rule or vidhi, it has been laid down that, whenever a man meditates on these secret meanings or mysteries, he should also meditate on the lineal succession of gurus. It has also been said: “As an [^f25] expiation for having conversed with those that are forbidden as unfit (for conversation), we should meditate on the virtuous." By the words " the virtuous ", this śloka refers primarily to the. ācāryas.
+इव्व् इडत्तिल् **गुरु-शब्दं**  
+परम-गुरुक्कळुक्क् उम् **उपलक्षणं**,  
+**सामान्यम्** आगव् उम् आम्।   
+</details>
+
+<details><summary>English</summary>
+
+The word guru refers, by implication, to the earlier gurus also in the line of ascent extending up to Bhagavān. Or it may mean gurus in general.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् गुरुशब्दं परमगुरुक् कळुक्कुम् उपलक्षणं सामान्यमागवुमाम्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्त्र-शब्दं मन्त्रार्थं मुदल् आन रहस्यङ्गळुक्क् उम् प्रदर्शन-परम् । 
+</details>
+
+<details><summary>English</summary>
+
+Similarly the word mantra refers also to the meanings of the mantra and other secret doctrines connected with it. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मन्त्रशब्दं मन्त्रार्थं मुदलान रहस्य-ङ्गळुक्कुम् प्रदर्शनपरम् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तान् इन्द रहस्यङ्गळै अनुसन्धिक्कुम् पोद् ऎल्लाम्  
+**आचार्य-परंपरैयै अनुसन्धिक्कैय्** उम्  
+**विधि-बल-प्राप्तम्**. 
+</details>
+
+<details><summary>English</summary>
+
+As a rule or vidhi, it has been laid down that, whenever a man meditates on these secret meanings or mysteries, he should also meditate on the lineal succession of gurus. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तानिन्द रहस्यङ्गळै अनुसन्धिक्कुम्बोदॆल्लाम् आचार्यपरंपरैयै अनुसन्धिक्कैयुम् विधिबलप्राप्तम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्वाचार्यर्गळ् उडैय अनुसन्धानं  
+“+++(म्लेच्छादीन्)+++ संभाष्य पुण्यकृतो मनसा ध्यायेत्”  
+ऎन्गिऱप् पडिये  
+**प्रतिषिद्ध-संभाषणत्तुक्कु प्रायश्चित्तम्** आम्.
+</details>
+
+<details><summary>English</summary>
+
+It has also been said: “As an [^f25] expiation for having conversed with those that are forbidden as unfit (for conversation), we should meditate on the virtuous." By the words " the virtuous ", this śloka refers primarily to the. ācāryas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वाचार्यर्गळुडैय अनुसन्धानं “संभाष्य पुण्यकृतो मनसा ध्यायेत्” ऎन्गिऱप्पडिये प्रतिषिद्ध संभाषणत्तुक्कु प्रायश्चित्तमाम्.
+
+</details>
+
 
 [^f25]: Gautama Dharma Sūtra: 9.18
 
