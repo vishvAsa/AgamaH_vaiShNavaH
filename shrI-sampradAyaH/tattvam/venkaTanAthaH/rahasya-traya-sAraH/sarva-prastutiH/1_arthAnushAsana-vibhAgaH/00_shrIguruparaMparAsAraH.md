@@ -1278,11 +1278,21 @@ The blissful line of our gurus who are possessed of many auspicious qualities, w
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-आरण नूल्-वऴिच्-चॆव्वैय् अऴित्त् इडुमैदुगर्क्कोर्  
-वारणमायवर् वादक्कदलिगळ् माय्त्तबिरान्  
-एरणिगीर्त्ति यिरामानुसमुनियिन् नुरैसेर्  
-सीरणिसिन्दैयिनोम् सिन्दियोमिनित्तीविनैये. (4)
+आरण+++(=आरण्यक→वेद)+++-नूल्+++(→आध्यात्मिक-ग्रन्थ)+++-वऴिच्-चॆव्वैय्+++(=सौन्दर्यम्)+++-+++(प्रत्येकम्-)+++अऴित्त्-इडुम् ऐतुकर्क्क्+++(=हेतुकर्क्)+++ ओर्  
+**वारणम् आय्** अवर् वादक्-कदलिगळ्+++(←को वायुर् दलतीति)+++ **माय्त्त**+++(=पातितवान्)+++ पिरान्+++(=उपकारक)+++  
+एर्+++(=वृद्धि)+++-अणि+++(=भूषित)+++-कीर्त्तिय् इरामानुज-मुनिय्+++(←वेदवाक्य-मननात्)+++  इन्न्+++(=स्वादु)+++-**उरै**+++(=वाणी)+++ **सेर्**  
+सीर्+++(=सद्गुण)+++-अणि+++(=भूषित)+++-चिन्तैयिनोम् चिन्तियोम् इनित्+++(=इतः)+++ तीविनैय्+++(=दुष्टताम्)+++ ए. (4)
 </details>
+
+<details><summary>English</summary>
+
+We that cling to the noble qualities and sweet words of the benevolent sage, Rāmānuja, who adorns the world with his renown and who, like an elephant, knocking down plantain trees, refuted the arguments of those that, with the help of their unrestrained logic, wrought great havoc in the straight paths of the [^f26] Brahma Sūtras[^12] - We (that cling to his words ) who are thereby blessed with spiritual fervour shall no longer (even) think of deeds that are evil.
+
+[^f26]: (or the Upaniṣads )
+
+[^12]: (Or the Upaniṣads)
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1292,19 +1302,22 @@ The blissful line of our gurus who are possessed of many auspicious qualities, w
 सीरणिसिन्दैयिनोम् सिन्दियोमिनित्तीविनैये. (4)
 </details>
 
-We that cling to the noble qualities and sweet words of the benevolent sage, Rāmānuja, who adorns the world with his renown and who, like an elephant, knocking down plantain trees, refuted the arguments of those that, with the help of their unrestrained logic, wrought great havoc in the straight paths of the [^f26] Brahma Sūtras[^12] - We (that cling to his words ) who are thereby blessed with spiritual fervour shall no longer (even) think of deeds that are evil.
-
-[^f26]: (or the Upaniṣads )
-
-[^12]: (Or the Upaniṣads)
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-नीळवन्दिण्ड्रु विदिवगैयाल् निनैवॊण्ड्रिय नाम्  
-मीळ वन्दिन्नुम् विनैयुडम्बॊण्ड्रि विऴुन्दुऴला  
-ताळवन्दारॆनवॆण्ड्ररुडन्दु विळङ्गिय सीर्  
-आळवन्दारडियोम् पडियोमिनियल्वऴक्के. (5)
+नीळ+++(=बहु)+++-वन्द् इण्ड्रु+++(=अद्य)+++ विधिव्-अगैयाल्+++(=वृद्ध्या)+++ +++(शेषत्व-)+++निनैव्+++(=स्मृति)+++-ऒण्ड्रिय+++(=युक्त)+++ नाम्  
+मीळ+++(=पुनः)+++ **वन्द्** इन्न्+++(=इतः)+++ उम् विनैय्+++(=पाप)+++-उडम्ब्-ऒण्ड्रि+++(=युक्त्वा)+++ **विऴुन्द् उऴलाद्**+++(=न परिवर्तामहे)+++  
+आळ-वन्दार् ऎन वॆण्ड्र्+++(=जित्वा)+++ अरुळ्+तन्दु विळङ्गिय+++(=भायाः)+++ सीर्+++(=साद्गुण्य)+++  
+आळ-वन्दार्-अडियोम्+++(=पादस्थाः)+++ **पठियोम्** इनिय्+++(=इतः)+++ अल्व्+++(=दुर्)+++-अऴक्क्+++(→वादम्)+++ ए. (5)
 </details>
+
+<details><summary>English</summary>
+
+We, who were caught up in the stream of saṁsāra from time immemorial, and have, now, by a change of fortune, come to acquire a knowledge of our true spiritual nature, consider that Śrī Yāmunācārya (Aḷavandār) came into this world to protect us from being sunk again in the mire of saṁsāra  
+and we will ever be attached to the feet of the sage (Aḷavandār) who triumphed over his opponents and blessed us with his writings.  
+Never more shall we read the works of heretics.
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1314,7 +1327,6 @@ We that cling to the noble qualities and sweet words of the benevolent sage, Rā
 आळवन्दारडियोम् पडियोमिनियल्वऴक्के. (5)
 </details>
 
-We, who were caught up in the stream of saṁsāra from time immemorial, and have, now, by a change of fortune, come to acquire a knowledge of our true spiritual nature, consider that Śrī Yāmunācārya (Aḷavandār) came into this world to protect us from being sunk again in the mire of saṁsāra and we will ever be attached to the feet of the sage (Aḷavandār) who triumphed over his opponents and blessed us with his writings. Never more shall we read the works of heretics.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
@@ -1324,19 +1336,31 @@ We, who were caught up in the stream of saṁsāra from time immemorial, and hav
 नाळुन्दॊऴुदॆऴुवो नमक्कार् निगर् ना निलत्ते. (6)
 </details>
 
-<details><summary>मूलम् (त॰प॰)</summary>
+<details><summary>English</summary>
 
-काळम् वलम्बुरि यन्न नऱ्‌कादलडियवर्क्कुत्  
-ताळम् वऴङ्गित् तमिऴ्मऱै यिन्निसै तन्दवळ्ळल्  
-मूळुन्दवनॆऱिमूट्टिय नादमुनिगऴले  
-नाळुन्दॊऴुदॆऴुवो नमक्कार् निगर् ना निलत्ते. (6)
-</details>
+We shall come to new life again by bowing every day at the feet of the noble and generous Nāthamuni,  
+who to his (two)[^13] loving disciples  
+who were like a trumpet and a conch (to proclaim the truth and to cow down the exponents of rival systems)  
+taught the art of music so that they might sing the sweet strains of the Tamil Veda  
+which had been long forgotten in the world  
 
-We shall come to new life again by bowing every day at the feet of the noble and generous Nāthamuni, who to his (two)[^13] loving disciples who were like a trumpet and a conch (to proclaim the truth and to cow down the exponents of rival systems) taught the art of music so that they might sing the sweet strains of the Tamil Veda which had been long forgotten in the world and who propagated in the world, for the pursuit of all, the path of tapas (bhakti and prapatti). In all the four regions of the world there is no one equal to us (because of this devotion of ours to Nāthamuni).[^14]
+and who propagated in the world, for the pursuit of all,  
+the path of tapas (bhakti and prapatti).  
+In all the four regions of the world there is no one equal to us (because of this devotion of ours to Nāthamuni).[^14]
 
 [^13]: Two disciples : Kilagathalvan and Melagathalvan
 
 [^14]: There are some who maintain that this chapter on the succession of gurus is not part of Śrīmad Rahasyatrayasāra and that the latter begins only with the "Introductory Chapter", which follows.
+</details>
+
+
+<details><summary>मूलम् (त॰प॰)</summary>
+
+काळम् वलम्बुरि यन्न नऱ्‌कादलडियवर्क्कुत्  
+ताळम् वऴङ्गित् तमिऴ्मऱै यिन्निसै तन्दवळ्ळल्  
+मूळुन्दवनॆऱिमूट्टिय नादमुनिगऴले  
+नाळुन्दॊऴुदॆऴुवो नमक्कार् निगर् ना निलत्ते. (6)
+</details>
 
 इति श्रीकवितार्किकसिंहस्य सर्वसन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
