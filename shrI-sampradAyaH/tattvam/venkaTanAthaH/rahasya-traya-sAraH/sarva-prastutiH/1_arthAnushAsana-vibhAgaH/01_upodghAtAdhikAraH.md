@@ -11,35 +11,47 @@ title = "०१ उपोद्घाताधिकारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-आभगवत्तः प्रथितामनघामाचार्यसन्ततिं वन्दे ।  
-मनसि मम यत्प्रसादाद्वसति रहस्यत्रयस्य सारोऽयम् ॥ ४ ॥
+आभगवत्तः प्रथिताम्  
+अनघाम् आचार्य-सन्ततिं वन्दे ।  
+मनसि मम यत्-प्रसादाद्  
+वसति रहस्य-त्रयस्य सारोऽयम् ॥ ४ ॥
 </details>
+
+<details><summary>English</summary>
+
+I adore the regular and spotless succession of ācāryas which is well-known to extend upwards even to Bhagavān, It is by virtue of their grace that the essence of the meaning of the three secret mantras (mysteries) abides in my mind.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 आभगवत्तः प्रथितामनघामाचार्यसन्ततिं वन्दे ।  
 मनसि मम यत्प्रसादाद्वसति रहस्यत्रयस्य सारोऽयम् ॥ ४ ॥
 </details>
-
-I adore the regular and spotless succession of ācāryas which is well-known to extend upwards even to Bhagavān, It is by virtue of their grace that the essence of the meaning of the three secret mantras (mysteries) abides in my mind.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-कर्मब्रह्मात्मके शास्त्रे कौतस्कुतनिवर्तकान् ।  
-वन्दे हस्तिगिरीशस्य वीथीशोधककिङ्करान् ॥ ५ ॥[^15]
+कर्म-ब्रह्मात्मके शास्त्रे  
+कौतस्कुत-निवर्तकान् ।  
+वन्दे हस्ति-गिरीशस्य  
++++(भक्ति-प्रपत्त्यात्मक-)+++वीथी-शोधक-किङ्करान्  +++(आत्रेय-रामानुजान्)+++॥ ५ ॥
 </details>
+
+<details><summary>English</summary>
+
+I bow to those great men who have refuted the arguments of men[^16] that chop logic and ask, “Why and wherefore ?", in connection with (the truths of) the Śāstra which treats (in two parts) of karma and Brahman. They have thereby rendered clean the highroad that leads to the Lord of Hastigiri.[^15]
+
+[^16]: logic choppers like Tārkikas.
+
+[^15]: It is said by some that this śloka pays homage to the author’s uncle Appullar who established the importance of bhakti and prapatti by refuting the arguments of opponents in his writings. There are others who hold that there is a reference to Desikar’s teacher under whom he studied Tiruvoymozhi and who is known to have swept the streets clean during the procession of Sri Varadarāja at Kāncīpuram.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 कर्मब्रह्मात्मके शास्त्रे कौतस्कुतनिवर्तकान् ।  
 वन्दे हस्तिगिरीशस्य वीथीशोधककिङ्करान् ॥ ५ ॥[^15]
 </details>
-
-[^15]: It is said by some that this śloka pays homage to the author’s uncle Appullar who established the importance of bhakti and prapatti by refuting the arguments of opponents in his writings. There are others who hold that there is a reference to Desikar’s teacher under whom he studied Tiruvoymozhi and who is known to have swept the streets clean during the procession of Sri Varadarāja at Kāncīpuram.
-
-I bow to those great men who have refuted the arguments of men[^16] that chop logic and ask, “Why and wherefore ?", in connection with (the truths of) the Śāstra which treats (in two parts) of karma and Brahman. They have thereby rendered clean the highroad that leads to the Lord of Hastigiri.
-
-[^16]: logic choppers like Tārkikas.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
