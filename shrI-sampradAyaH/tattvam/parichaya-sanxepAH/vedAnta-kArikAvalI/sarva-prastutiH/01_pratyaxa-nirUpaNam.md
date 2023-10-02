@@ -19,9 +19,7 @@ title = "०१ प्रत्यक्ष-निरूपणम्"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-श्रीः 
-
-वेदान्तकारिकावलीटिप्पणम् 
+श्रीः॥ वेदान्तकारिकावलीटिप्पणम्॥ 
 
 रघुवरचरणद्वन्द्वं तरणिं करवाणि संसृतेस्तरणे । यत्पांसुलेशसङ्गाद् प्रावाप्यभवद्विकल्मषा योषा ॥ श्रीवाससंयमीन्द्रस्य पादुकामघमर्षणीम् । 
 
@@ -54,7 +52,7 @@ A.
 मान-मेय-विभेदेन  
 पदार्थो द्वि-विधो मतः ।  
 मानं प्रत्यक्षानुमान-  
-शब्दभेदात् त्रिधा भवेत् ॥ १.२॥
+शब्द-भेदात् त्रिधा भवेत् ॥ १.२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -335,115 +333,263 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 </details>
 
 
-पर एकचतुर्धातु व्यूहः स्याद्वासुदेवकः । 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संकर्षणश्च प्रद्युम्नोऽनिरुद्ध इति भेदतः ॥ ११ ॥ 
+पर एकश्, चतुर्धा तु  
+**व्यूहः** स्याद् वासुदेवकः ।  
+सङ्कर्षणश् च प्रद्युम्नो  
+ऽनिरुद्ध इति भेदतः ॥ १.११॥
+</details>
 
-८ 
+<details><summary>मूलम्</summary>
 
-वेदान्तकारिकावली 
+पर एकश्चतुर्धा तु व्यूहः स्याद्वासुदेवकः ।  
+सङ्कर्षणश्च प्रद्युम्नोऽनिरुद्ध इति भेदतः ॥ १.११॥
+</details>
+
+[[८]] 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 परः; षाड्गुण्यपरिपूर्णः परवासुदेवः । व्यूहान्तर्गतो वासुदेवोऽपि षाड्गुण्यपरिपूर्ण उपासनासौकर्यायावस्थितः । अयं च पररूपादत्यन्ताभिन्न इति संकर्षणादिरूपेण व्यूहत्रयवर्णनं केषांचित् । 
+</details>
 
-11. Para is only one. 
+<details><summary>English</summary>
 
-११ 
+11. Para is only one. But Vyuhas are four-fold, namely - Vasudeva, Samkarsana, Pradyumna and Aniruddha. 
+</details>
 
-But Vyuhas are four- 
 
-fold, namely - Vasudeva, Samkarsana, Pradyumna and 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Aniruddha. 
+मत्स्यादयस्तु विभवा  
+अनन्ताश्च प्रकीर्तिताः ।  
+अन्तर्यामी तु भगवान्  
+प्रति-देहम् अवस्थितः ॥ १.१२॥
+</details>
 
-मत्स्यादयस्तु विभवा अनन्ताश्च प्रकीर्तिताः । अन्तर्यामी तु भगवान् प्रतिदेहमवस्थितः ॥ १२ ॥ 
+<details><summary>मूलम्</summary>
+
+मत्स्यादयस्तु विभवा अनन्ताश्च प्रकीर्तिताः ।  
+अन्तर्यामी तु भगवान् प्रतिदेहमवस्थितः ॥ १.१२॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 मत्स्यादय इति ; हंसहयग्रीवादय आदिपदग्राह्याः । प्रतिदेहमिति ; चिदचित्प्रपञ्चस्य सर्वस्यापि तद्देहत्वात् तत्रान्तर्व्याप्य नियन्तेत्यर्थः । 
 
 १२ 
+</details>
+
+<details><summary>English</summary>
 
 12. Vibhava forms are told as innumerable consti- tuting Matsya (Fish) and so on. Is'vara abides in every things else as Antaryāmin (Inner Ruler). 
+</details>
 
-अर्चावतारः श्रीरङ्गवेंकटाद्रयादिषु स्थितः । केशवादि तु तत्त्वज्ञैर्व्यूहान्तरमुदाहृतम् ॥ १३ ॥ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अर्चावतारः** श्रीरङ्ग-  
+वेङ्कटाद्र्य्-आदिषु स्थितः ।  
+केशवादि तु तत्त्वज्ञैर्  
+**व्यूहान्तरम्** उदाहृतम् ॥ १.१३॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अर्चावतारः श्रीरङ्गवेङ्कटाद्र्यादिषु स्थितः ।  
+केशवादि तु तत्त्वज्ञैर्व्यूहान्तरमुदाहृतम् ॥ १.१३॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अर्चेति । अर्चा; पूजासौकर्यार्थ प्रतिमारूपेण दिव्यालयेष्ववस्थितः । केशवादीति ; नारायणवामनादय आदिपदग्राह्याः । 
 
 १३ 
+</details>
+
+
+<details><summary>English</summary>
 
 13. Arcās or Images are His avatāras or incar- nations enshrined in sacred temples such as Sri- Rangam, Venkatadri etc. The Kesava and other forms are mentioned by the wise as different Vyuhas. 
+</details>
 
-सत्त्वं रजस्तमः शब्दस्पर्शरूपरसास्तथा । 
 
-गन्धः संयोगशक्ती चेत्यद्रव्यं दशधा मतम् ॥ १४ ॥ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्त्वं रजस् तमः शब्द-  
+स्पर्श-रूप-रसास् तथा ।  
+गन्धः संयोग-शक्ती चेत्य्  
+**अद्रव्यं** दशधा मतम् ॥ १.१४॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+सत्त्वं रजस्तमः शब्दस्पर्शरूपरसास्तथा ।  
+गन्धः संयोगशक्ती चेत्यद्रव्यं दशधा मतम् ॥ १.१४॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अद्रव्यं निरूपयति--सत्त्वमिति । दशधेति; दशधैवेत्यर्थः । वैशेषि- काभिमतानां गुणान्तराणामत्रैवान्तर्भावः । तत्प्रकारश्चान्तिमे परिच्छेदे वक्ष्यते । 
 
 १४ 
+</details>
 
-14. 
+<details><summary>English</summary>
 
-प्रत्यक्ष-निरूपणम् 
+14. The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (sound), Spars'a (touch), Rūpa (colour), Rasa (taste), Gandha ( odour), Samyoga (union) and S'akti (Potency) are the ten kinds of Adravya (Non-Substance). 
+</details>
 
-९ 
 
-The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (sound), Spars'a (touch), Rūpa (colour), Rasa (taste), Gandha ( odour), Samyoga (union) and S'akti (Potency) are the ten kinds of Adravya (Non-Substance). 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रमायाः करणं तत्र प्रमाणं परिकीर्तितम् । यथावस्थितवस्त्वेकव्यवहारानुगा प्रमा ॥ १५ ॥ 
+प्रमायाः करणं तत्र  
+**प्रमाणं** परिकीर्तितम् ।  
+यथावस्थित-वस्त्व्-एक-  
+व्यवहारानुगा **प्रमा** ॥ १.१५॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रमायाः करणं तत्र प्रमाणं परिकीर्तितम् ।  
+यथावस्थितवस्त्वेकव्यवहारानुगा प्रमा ॥ १.१५॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 प्रमाणलक्षणमाह — प्रमाया इति । प्रमाकरणं प्रमाणमिति प्रमाणसामान्य- लक्षणम् । प्रमाया लक्षणमाह-यथावस्थितेति । पदार्थानतिवृत्तावत्र यथाशब्दः । अवस्थितं वस्तुतत्त्वमनतिक्रम्य यथावस्थितम् । यथावस्थितं यद् वस्तु, तस्यैकस्य यो व्यवहारः शब्देन निर्देशः, सः अनुगः यस्याः सा । अर्थव्यवहारं प्रति तज्ज्ञानस्य कारणत्वात् ज्ञानानन्तरमेव व्यवहार इति व्यवहारानुगत्वं प्रमायाः । संशयादिव्यावृत्तये यथावस्थितेति । यथापदेन अन्यथाज्ञानविपरीतज्ञानयोः, अवस्थितपदेन संशयस्य च व्यावृत्तिः । 
 
-१५ 
+१५
+</details>
+ 
+
+<details><summary>English</summary>
 
 15. The Pramāna is that which is an instrument or means for the Prama (Valid knowledge). The Prama is the knowledge from which proceeds the verbal usage of a thing in its true and essential nature. 
+</details>
 
-सा संशयान्यथाज्ञानविपरीतधियो न हि । एकधर्मिकनानार्थविषया धीस्तु संशयः ॥ १६ ॥ 
 
-- 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सा संशयान्यथा-ज्ञान-  
+विपरीत-धियो न हि ।  
+एक-धर्मिक-नानार्थ-  
+विषया धीस् तु **संशयः** ॥ १.१६॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+सा संशयान्यथाज्ञानविपरीतधियो न हि ।  
+एकधर्मिकनानार्थविषया धीस्तु संशयः ॥ १.१६॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 विवक्षितां व्यावृत्तिमेव विशदयति — सेति ; प्रमेत्यर्थः । न हि ; संशयादि- भिन्नेत्यर्थः । संशयलक्षणमाह-एकधर्मिकेति । एकविशेष्यकनानाप्रकारकं ज्ञान- मित्यर्थः । यथा 'अयं स्थाणुर्वा पुरुषो वा' इति पुरोवर्तिपदार्थविशेष्यकमिथो- विरुद्धस्थाणुत्वपुरुषत्वप्रकारकं ज्ञानं संशयः । 
 
 2 
 
 १६ 
+</details>
 
-१० 
 
-वेदान्तकारिकावली 
+
+[[१०]] 
+
+<details><summary>English</summary>
 
 16. The Prama is distinct from Samsaya (doubt) Anyathajñāna (error) and Viparitadhi (error in reverse nature). Sams'aya is the knowledge of a thing with various contrary attributes. 
 
 [For instance—Is this a post or a man?] 
+</details>
+ 
 
-धीस्तु धर्मविपर्यासेऽन्यथाज्ञानमुदाहृतम् । सैव धर्मिविपर्यासे विपरीतमतिर्मता ॥ १७ ॥ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धीस् तु धर्म-विपर्यासे  
+**ऽन्यथाज्ञानम्** उदाहृतम् ।  
+सैव धर्मि-विपर्यासे  
+**विपरीत-मतिर्** मता ॥ १.१७॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+धीस्तु धर्मविपर्यासेऽन्यथाज्ञानमुदाहृतम् ।  
+सैव धर्मिविपर्यासे विपरीतमतिर्मता ॥ १.१७॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अन्यथाज्ञानं लक्षयति-धीस्त्विति । धर्मस्य विपर्यासः अन्यथात्वम् ; यथा पीतः शङ्ख इति । अत्र शङ्खे पीतत्वस्यावर्तमानस्य ग्रहणम् । विपरीतधियं लक्षयति—सैवेति । धीरेव धर्मिणो विपर्यासे भ्रम इत्युच्यते ; यथा शुक्तिं दृष्ट्वा रजतधीः। अन्यथाज्ञाने शङ्खत्वेन शङ्खो ज्ञातः । पीतत्वे परमन्यथा ज्ञानम् | भ्रमे तु शुक्तित्वेन शुक्तिर्न ज्ञाता ; किंतु इदंत्वेन सामान्यत इति विशेषः । अत्रेदमवधेयम्--अन्यथाज्ञानं नाम धर्मिणि ज्ञात एव धर्मस्यान्यथाभूतस्य ज्ञानम् । तत्र धर्म एकोऽनेको वा भवितुमर्हति । यथा पीतः शङ्ख इत्याद्यः । एकमेव वस्तु सद्विलक्षणम् असद्विलक्षणं सत् अनिर्वचनीयमित्यन्त्यः । संशयादस्य भेदस्तु संशये धर्मयोर्विरोधप्रतिभासः । अत्र तु वस्तुतस्तयोर्विरोधेऽपि अवि- रोधाभिमान इति । 
 
 १७ 
+</details>
+
+
+<details><summary>English</summary>
 
 17. The Anyathājñana ( error) is the knowledge of a thing with a false attribute. The Viparitadhi (error in revese nature) is the knowledge mistaking a thing itself for another thing. 
 
 [Anyathājñāna is — The conch is yellow. Vipari- tadhi is-This (shell) is silver.] 
+</details>
 
-साक्षात्कारप्रमाहेतुः प्रत्यक्षं मानमीरितम् । 
 
-सविकल्पो निर्विकल्पः साक्षात्कारो द्विधा भवेत् ॥ १८ ॥ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यक्ष-निरूपणम् 
+साक्षात्कार-प्रमा-हेतुः  
+**प्रत्यक्षं** मानम् ईरितम् ।  
+स-विकल्पो निर्विकल्पः  
+**साक्षात्कारो** द्विधा भवेत् ॥ १.१८॥
+</details>
 
-११ 
+<details><summary>मूलम्</summary>
+
+साक्षात्कारप्रमाहेतुः प्रत्यक्षं मानमीरितम् ।  
+सविकल्पो निर्विकल्पः साक्षात्कारो द्विधा भवेत् ॥ १.१८॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[११]] 
 
 प्रत्यक्षं लक्षयति-साक्षात्कारेति । साक्षात्काररूपा इन्द्रियजन्या या प्रमा, तस्या हेतुरित्यर्थः । 'साक्षात्त्वं विभजते-सविकल्पक इति । प्रमायाः प्रमाणस्य च प्रत्यक्षमिति व्यवहारस्तत्र तत्र परिदृश्यते । 
 
 १८ 
 
-18. The Pratyaksapramāna is that which causes the perceptive and valid congnition. The perception is of two kinds-Savikalpa and Nirvikalpa. 
+</details>
 
-ग्रहः प्रथमपिण्डस्य निर्विकल्पक उच्यते । द्वितीयपिण्डग्रहणं सविकल्पकधीर्भवेत् ॥ १९ ॥ 
+
+<details><summary>English</summary>
+
+18. The Pratyaksapramāna is that which causes the perceptive and valid congnition. The perception is of two kinds-Savikalpa and Nirvikalpa. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ग्रहः प्रथम-पिण्डस्य  
+निर्विकल्पक उच्यते ।  
+द्वितीय-पिण्ड-ग्रहणं  
+सविकल्पक-धीर् भवेत् ॥ १.१९॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+ग्रहः प्रथमपिण्डस्य निर्विकल्पक उच्यते ।  
+द्वितीयपिण्डग्रहणं सविकल्पकधीर्भवेत् ॥ १.१९॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 निर्विकल्पकं लक्षयति-ग्रह इति । प्रथमपिण्डस्य प्रत्यवमर्शरहितस्य गवादेः। एवं च विकल्पपदं प्रत्यवमर्शपरम् । प्रत्यवमर्शरहितं ज्ञानं निर्विकल्पकम् । तत्सहितं ज्ञानं सविकल्पकमित्यर्थः । प्रथमपिण्डग्रहणे तस्य पूर्वदृष्टसजातीयतया प्रत्यवमर्शो नास्तीति तन्निर्विकल्पकमित्युच्यते । द्वितीयपिण्डग्रहणे तु तस्य पूर्वदृष्टसजातीयतया प्रत्यवमर्शोऽस्तीति तत् सविकल्पकमित्युच्यते । एतेन निर्विकल्पके विशेषरहितस्य सन्मात्रस्य ग्रहणमिति मतं, जात्यादीनां पृथक्पृथक् ग्रहणमिति च मतं न सिद्धान्तिनामभिमतमित्युक्तं भवति । 
 
-१९ 
+१९
+</details>
+
+<details><summary>English</summary>
 
 19. The Nirvikalpaka is the cognition of a first thing perceived for the first time. The Savikalpaka is the cognition obtained by the perception of another thing of the same kind that was perceived once before with a recollection on it. 
+</details>
 
 एतदिन्द्रियसापेक्षमनपेक्षं च दृश्यते । 
 
@@ -453,7 +599,7 @@ The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (
 
 १२ 
 
-वेदान्तकारिकावली 
+ 
 
 योगिप्रत्यक्षं प्रकृष्टादृष्टविशेषजं युक्तावस्थायां मनोमात्रजन्यम् । अयुक्तावस्थायां तु बाह्येन्द्रियजन्यम् । दिव्यप्रत्यक्षमपि ईश्वरप्रसादसमधिगतदिव्येन्द्रियजन्यमेव । 
 
@@ -485,7 +631,7 @@ The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (
 
 22. The perception of the Nityas, Muktas and Isvara is called ancient. The Smrti (Recollection) also is Prama (Valid Cognition) since it is produced by the previous apprehension (Anubhava). 
 
-प्रत्यक्ष-निरूपणम् 
+ 
 
 १३ 
 
@@ -507,7 +653,7 @@ The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (
 
 १४ 
 
-वेदान्तकारिकावली 
+ 
 
 भूतले तु घटाभावो भूतलात्मैव नेतरः । मृद् घटस्य प्रागभावो ध्वंसस्तस्य कपालकम् ॥ २५ ॥ 
 
@@ -533,7 +679,7 @@ The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (
 
 सामान्यं समवायश्च विशेषो नात्र संमतः ॥ २८ ॥ 
 
-प्रत्यक्ष-निरूपणम् 
+
 
 १५ 
 
@@ -553,7 +699,7 @@ The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (
 
 १६ 
 
-वेदान्तकारिकावली 
+ 
 
 29. The enumeration of Samkhyā (number) etc. as separate guņas (qualities) as distinct from our ten guņas is contradicted by the Sutrakāra himself and therefore is rejected. 
 
