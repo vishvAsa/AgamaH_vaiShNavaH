@@ -99,7 +99,7 @@ tions.
 
 ७-९ 
 
-7-9. The terms mentioned above do mean the Lord Nārāyaṇa in accordance with the rule of inter- pretation viz. Chaga-Pas'u (Goat and Animal). The Brahman has been held to be only one because He was qualified by the sentient and non-sentient things only in their subtlest forms and stood in such a state which did not permit Him to have any classification with different names and forms. Indeed no classification in the clay can be admitted before it takes any modifi- cation like pot etc. with different shapes and names. Therefore the Brahman was only one. He has also been mentioned by the term 'Sat (Being) ' because there were no different names and shapes to qualify Him. 
+7-9. The terms mentioned above do mean the Lord Nārāyaṇa in accordance with the rule of inter- pretation viz. Chaga-Paśu (Goat and Animal). The Brahman has been held to be only one because He was qualified by the sentient and non-sentient things only in their subtlest forms and stood in such a state which did not permit Him to have any classification with different names and forms. Indeed no classification in the clay can be admitted before it takes any modifi- cation like pot etc. with different shapes and names. Therefore the Brahman was only one. He has also been mentioned by the term 'Sat (Being) ' because there were no different names and shapes to qualify Him. 
 
 तदेवान्तःप्रवेशेन नामरूपविभागकृत् । 
 

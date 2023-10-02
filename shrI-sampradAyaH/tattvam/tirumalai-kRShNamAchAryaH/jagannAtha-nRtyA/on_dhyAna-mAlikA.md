@@ -74,7 +74,7 @@ This practice is called _ahaṁ graha upāsana_. The five preparative aspects st
 - What are the disciplines to be observed when practicing dhyānam?
 
 - Pleasant and auspicious object of dhyānam must be chosen
-- Mithāyāsam
+- Mitāyāsam
 - Mita hita āhāram
 - Mita yukta kālika nidrāmita sārthaka vāk
 - Mita gupta śarīra sadhana anuṣṭhānam

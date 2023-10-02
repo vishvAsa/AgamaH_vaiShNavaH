@@ -21,7 +21,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 
 १ 
 
-1. Ajadatva (Being other than Jada or inert) is the common characteristic of S'uddhasattva (The substance of pure Sattvaguna), Dharmabhutajñāna (Attributive knowledge), Jiva and Is'vara. Ajaḍatva is nothing but Svayamprakas'atā (Self-luminosity). 
+1. Ajadatva (Being other than Jada or inert) is the common characteristic of S'uddhasattva (The substance of pure Sattvaguna), Dharmabhutajñāna (Attributive knowledge), Jiva and Iśvara. Ajaḍatva is nothing but Svayamprakaśatā (Self-luminosity). 
 
 पराक्त्वे सत्यजडता लक्ष्म प्रथमयोर्मतम् । 
 
@@ -75,7 +75,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 
 सेयं विभूतिरिति ; नित्यविभूतिरित्यर्थः । तस्या विविधरूपतामाह- भोग्येति ; भोगकर्मभोगसाधनभोगाधिकरण देशमयीत्यर्थः । मतेति; प्रामाणिक- ग्रन्थेष्वित्यर्थः । 
 
-5. This eternal substance is considered to have assumed different forms of the objects of enjoyment, the means of enjoyment and the places of enjoyment of the Lord Is'vara, the Nityas (Eternal souls) and Muktas (Released souls ). 
+5. This eternal substance is considered to have assumed different forms of the objects of enjoyment, the means of enjoyment and the places of enjoyment of the Lord Iśvara, the Nityas (Eternal souls) and Muktas (Released souls ). 
 
 नित्यविभूति-निरूपणम् 
 

@@ -195,7 +195,7 @@ on are called Anyadevaparas (devotees of other gods). The Bhagavatas are those w
 
 वेदान्तकारिकावली 
 
-13. Bhaktas (engaged in Bhaktiyoga) are eager to reach Mukti (Eternal Bliss) by the means of Bhakti- yoga (Devotional meditation) as described before. From the rule of Apas'udradhikarana of the Brahma- sūtra, it is evident that S'ūdras are not qualified for Bhaktiyoga. 
+13. Bhaktas (engaged in Bhaktiyoga) are eager to reach Mukti (Eternal Bliss) by the means of Bhakti- yoga (Devotional meditation) as described before. From the rule of Apaśudradhikarana of the Brahma- sūtra, it is evident that S'ūdras are not qualified for Bhaktiyoga. 
 
 साध्यसाधनभक्तिभ्यां भक्ताः स्युर्द्विविधा मताः । पराङ्कुशादिकानाद्यान व्यासादीनपरान् विदुः 
 
@@ -215,13 +215,13 @@ on are called Anyadevaparas (devotees of other gods). The Bhagavatas are those w
 
 प्रासो विपन्यवो जागृवासः समिन्धते " इति श्रुत्या “बद्धाञ्जलिपुटा हृष्टाः " इत्यादिस्मृत्या च भगवद्ध्यानपरा इत्यवगम्यते । नित्यसूरित्वावस्थायां या भक्ति- रनुष्ठिता, सैव पराङ्कुशावतारावस्थायामप्यन्ववर्ततेति न किंचिदनुपपन्नम् । अन्यथा रामकृष्णाद्यात्मना क्षत्रियवंशेऽवतीर्णस्य भगवतो विष्णोर्ब्राह्मणोत्तमैर्महर्षि- भिर्वन्द्यत्वं कथमिति पर्यनुयोगे किमुत्तरम् ? किंच सर्वत्र भक्तियोगप्रारम्भ एव हि त्रैवर्णिकाधिकारनियमः । न तु तस्य साधितस्यानुवृत्तिदशायामपि। परिनिष्पन्न- भक्तेरपि प्रारब्धकर्मवशात् तत्तद्देहावाप्तिरवर्जनीया । तदात्वे च भगवदनुभवरूप- फलभक्तेरनुवृत्तौ को निर्बन्धः ? को वा वारयिता भवतुमर्हति ? लोकोत्तरव्यक्तिविशेष- भूततन्निदर्शनेन पामरेष्वन्यत्राप्यतिशङ्कामापाद्य वर्णाश्रमधर्मसंकर करणे समुद्यमस्तु न केवलं स्वस्य, किंतु सर्वस्यापि लोकस्य महतेऽनर्थायेति विभावनीयम् । १४ 
 
-14. Bhaktas are of two kinds because of the two- fold division of Bhakti as Sadhya and Sadhana (effect and means). The former group includes Parankus'a and others while the latter Vyasa and others. मुमुक्षवः प्रपन्नाश्चाकिंचन्यादिकयोगिनः । त्रैवर्गिकपरा मोक्षपराश्चेति च ते द्विधा ॥ १५ ॥ 
+14. Bhaktas are of two kinds because of the two- fold division of Bhakti as Sadhya and Sadhana (effect and means). The former group includes Parankuśa and others while the latter Vyasa and others. मुमुक्षवः प्रपन्नाश्चाकिंचन्यादिकयोगिनः । त्रैवर्गिकपरा मोक्षपराश्चेति च ते द्विधा ॥ १५ ॥ 
 
 तत्र साध्यभक्तिपरेषु मुमुक्षुषु विशेषमाह-मुमुक्षव इति । त एव प्रपन्ना इत्युच्यन्ते । ते च प्रपत्त्यङ्गभूताकिंचन्याद्यङ्गपञ्चकयोगिनः । प्रपन्नेष्वेव द्वैविध्यमाह — त्रैवर्गिकेति । धर्मार्थकामाख्यत्रिवर्गपराः, मोक्षपराश्चेति ते द्विधा भवन्ति । 
 
 १५ 
 
-15. Among the Mumukşus (desirous of Moksa) Prapannas (Self-surrendering devotees) have for their qualifications 'the helplessness' etc. Again they are of two kinds-aspirant for Trivarga and Mokṣa. 
+15. Among the Mumukşus (desirous of Moksa) Prapannas (Self-surrendering devotees) have for their qualifications 'the helplessnesś etc. Again they are of two kinds-aspirant for Trivarga and Mokṣa. 
 
 धर्मार्थकामान् स्वाम्यर्थं येऽन्वतिष्ठस्त आदिमाः । सत्सङ्गादर्थवैराग्ये मुमुक्षायां कृतादराः ॥ १६ ॥ 
 

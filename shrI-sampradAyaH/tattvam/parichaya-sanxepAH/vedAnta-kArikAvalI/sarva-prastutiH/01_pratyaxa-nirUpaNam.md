@@ -203,7 +203,7 @@ A.
 
 <details><summary>English</summary>
 
-6. The Pratyak is of two kinds-Jiva (Individual Souls) and Is'vara (The Ruling Supreme Soul). The Jiva is again of three kinds-Baddha (Bound in Samsāra), Mukta (Freed from Samsāra) and Nitya (Eternally freed from Samsara or never bound in Samsāra). The Baddha is of two kinds. 
+6. The Pratyak is of two kinds-Jiva (Individual Souls) and Iśvara (The Ruling Supreme Soul). The Jiva is again of three kinds-Baddha (Bound in Samsāra), Mukta (Freed from Samsāra) and Nitya (Eternally freed from Samsara or never bound in Samsāra). The Baddha is of two kinds. 
 </details>
 
 
@@ -383,7 +383,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 <details><summary>English</summary>
 
-12. Vibhava forms are told as innumerable consti- tuting Matsya (Fish) and so on. Is'vara abides in every things else as Antaryāmin (Inner Ruler). 
+12. Vibhava forms are told as innumerable consti- tuting Matsya (Fish) and so on. Iśvara abides in every things else as Antaryāmin (Inner Ruler). 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -438,7 +438,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 <details><summary>English</summary>
 
-14. The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (sound), Spars'a (touch), Rūpa (colour), Rasa (taste), Gandha ( odour), Samyoga (union) and S'akti (Potency) are the ten kinds of Adravya (Non-Substance). 
+14. The Sattva (Goodness), Rajas ( Motivity), Tamas (Darkness or Dullness), S'abda (sound), Sparśa (touch), Rūpa (colour), Rasa (taste), Gandha ( odour), Samyoga (union) and S'akti (Potency) are the ten kinds of Adravya (Non-Substance). 
 </details>
 
 
@@ -499,7 +499,7 @@ But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagav
 
 <details><summary>English</summary>
 
-16. The Prama is distinct from Samsaya (doubt) Anyathajñāna (error) and Viparitadhi (error in reverse nature). Sams'aya is the knowledge of a thing with various contrary attributes. 
+16. The Prama is distinct from Samsaya (doubt) Anyathajñāna (error) and Viparitadhi (error in reverse nature). Samśaya is the knowledge of a thing with various contrary attributes. 
 
 [For instance—Is this a post or a man?] 
 </details>

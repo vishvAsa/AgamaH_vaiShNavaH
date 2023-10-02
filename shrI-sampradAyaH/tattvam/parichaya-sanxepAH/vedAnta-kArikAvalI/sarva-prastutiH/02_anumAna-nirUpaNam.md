@@ -3,13 +3,40 @@ title = "०२ अनुमान-निरूपणम्"
 
 +++
 
-अनुमित्यात्मविज्ञानेऽनुमानं करणं स्मृतम् । तच्च लिङ्गपरामर्शस्तद्धेतुर्व्याप्तिधीर्मता ॥ १ ॥ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यक्षनिरूपणानन्तरमनुमानं निरूपयति — अनुमितीति । आत्मशब्दः स्वरूपपरः। अनुमितिरूपे ज्ञाने करणमनुमानमित्यर्थः । अनुसृत्य प्रवर्तमानं मानमनुमानम् । लिङ्गप्रत्यक्षमनुसृत्य प्रवर्तमानत्वादनुमानं भवति । तदाह न्यायभाष्यकारः –तत्पूर्वकमनुमानमिति । योगरूढं चेदम् । अतः स्मृति- प्रत्यभिज्ञयोः प्रत्यक्षानुगामित्वेऽपि नानुमानत्वम् । लिङ्गपरामर्श इति । लिङ्गस्य साध्यचिह्नभूतस्य हेतोः परामर्शः विवेचनं, साध्यव्याप्यतया पक्षवृत्तितया च विविच्य ज्ञानमित्यर्थः । व्याप्तिविशिष्टपक्षधर्मताज्ञानं परामर्श इति पर्यव- सितम् । तद्धेतुः ; परामर्शहेतुः । व्याप्तिधीः; व्याप्तिज्ञानम्। अनुमितिं प्रति व्याप्तिज्ञानं करणम् । व्यापारवदसाधारणकारणं करणम् । परामर्शो व्यापार इति प्राञ्चः। नव्यास्तु-परामर्श एव करणम् । व्यापारवत्त्वं न करणलक्षणनिविष्टम् | अपितु साधकतमं करणमित्येव तल्लक्षणम् । परामर्शजन- कतया अङ्गीकृतं व्याप्तिज्ञानं तु घटं प्रति कुलालपितेवान्यथासिद्धमित्याहुः । तत्र नव्यमतमवलम्ब्य लिङ्गपरामर्शस्यात्र करणत्वोक्तिः । 
+अनुमित्य्-आत्म-विज्ञाने  
+**ऽनुमानं** करणं स्मृतम् ।  
+तच् च लिङ्ग-परामर्शस्  
+तद्-धेतुर् व्याप्ति-धीर् मता ॥ २.१॥
+</details>
 
-१ 
+<details><summary>मूलम्</summary>
 
-1. Anumana (Inference) is the instrument of Anumiti (Inferential cognition). The Anumāna is defined as Linga-Paramars'a (Consideration of middle term). Vyāpti-jñāna (Apprehension of invariable con- comitance) is said to be the cause of Paramars'a (consideration). 
+अनुमित्यात्मविज्ञानेऽनुमानं करणं स्मृतम् ।  
+तच्च लिङ्गपरामर्शस्तद्धेतुर्व्याप्तिधीर्मता ॥ २.१॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रत्यक्ष-निरूपणानन्तरम् **अनुमानं** निरूपयति — अनुमितीति ।  
+**आत्म**-शब्दः स्वरूपपरः।  
+**अनुमिति**-रूपे ज्ञाने **करणम् अनुमानम्** इत्य् अर्थः ।  
+अनुसृत्य प्रवर्तमानं मानम् **अनुमानम्** ।  
+लिङ्ग-प्रत्यक्षम् अनुसृत्य प्रवर्तमानत्वाद् अनुमानं भवति ।  
+तदाह न्यायभाष्यकारः – तत्पूर्वकम् **अनुमानम्** इति ।  
+योगरूढं चेदम् ।  
+अतः स्मृति-प्रत्यभिज्ञयोः प्रत्यक्षानुगामित्वे ऽपि नानुमानत्वम् ।  
+
+लिङ्गपरामर्श इति । लिङ्गस्य साध्यचिह्नभूतस्य हेतोः परामर्शः विवेचनं, साध्यव्याप्यतया पक्षवृत्तितया च विविच्य ज्ञानमित्यर्थः । व्याप्तिविशिष्टपक्षधर्मताज्ञानं परामर्श इति पर्यव- सितम् । तद्धेतुः ; परामर्शहेतुः । व्याप्तिधीः; व्याप्तिज्ञानम्। अनुमितिं प्रति व्याप्तिज्ञानं करणम् । व्यापारवदसाधारणकारणं करणम् । परामर्शो व्यापार इति प्राञ्चः। नव्यास्तु-परामर्श एव करणम् । व्यापारवत्त्वं न करणलक्षणनिविष्टम् | अपितु साधकतमं करणमित्येव तल्लक्षणम् । परामर्शजन- कतया अङ्गीकृतं व्याप्तिज्ञानं तु घटं प्रति कुलालपितेवान्यथासिद्धमित्याहुः । तत्र नव्यमतमवलम्ब्य लिङ्गपरामर्शस्यात्र करणत्वोक्तिः । १
+</details>
+
+<details><summary>English</summary>
+
+1. Anumana (Inference) is the instrument of Anumiti (Inferential cognition). The Anumāna is defined as Linga-Paramarśa (Consideration of middle term). Vyāpti-jñāna (Apprehension of invariable con- comitance) is said to be the cause of Paramarśa (consideration). 
+</details>
+
+
 
 १८ 
 
@@ -23,7 +50,7 @@ title = "०२ अनुमान-निरूपणम्"
 
 २ 
 
-2. Vyapti (Invariable concomitance) is that the Hetu (Reason) does not exist where Sadhya (The property to be established) is not found. Paramars'a (consideration) is the knowledge of Vyapya (the middle term) as existing in Paksa (Minor term or the subject). 
+2. Vyapti (Invariable concomitance) is that the Hetu (Reason) does not exist where Sadhya (The property to be established) is not found. Paramarśa (consideration) is the knowledge of Vyapya (the middle term) as existing in Paksa (Minor term or the subject). 
 
 तज्जा पक्षे साध्यमतिरनुमित्यात्मिका मता । 
 
@@ -33,7 +60,7 @@ title = "०२ अनुमान-निरूपणम्"
 
 तज्जा ; परामर्शजा । पक्षे; पर्वतादौ । साध्यस्य वयादेः मतिः अनुमितिरित्यर्थः । व्याप्तिज्ञानोत्पत्तौ कारणमाह-भूयिष्ठेति । साहचर्य सामा- नाधिकरण्यम् ; भूयिष्ठेन साहचर्यज्ञानेन, साहचर्यस्य भूयोदर्शनेनेत्यर्थः । ३ 
 
-3. Anumiti is the Cognition produced by Para- mars'a, with reference to the fact that Sadhya is existant in Paksa (the subject ). Vyāpti-jñana (Appre- hension of invariable concomitance) springs from frequent observation of Sadhya and Reason as invari- ably concomitant each other. 
+3. Anumiti is the Cognition produced by Para- marśa, with reference to the fact that Sadhya is existant in Paksa (the subject ). Vyāpti-jñana (Appre- hension of invariable concomitance) springs from frequent observation of Sadhya and Reason as invari- ably concomitant each other. 
 
 तत्सपक्षे सपक्षस्तु पूर्वं निश्चितसाध्यकः । संदिग्धसाध्यकः पक्षो विपक्षस्तदभाववान् ॥ ४॥ 
 
@@ -81,7 +108,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 
 ७ 
 
-7. In the case of Parārthānumāna ( Inference for other's sake), the Parāmars'a (the consideration of Reason) is produced by the Nyāya (syllogism). The group of the five argumentative sentences namely- Pratijña (Assertion) etc. is called Nyāya. 
+7. In the case of Parārthānumāna ( Inference for other's sake), the Parāmarśa (the consideration of Reason) is produced by the Nyāya (syllogism). The group of the five argumentative sentences namely- Pratijña (Assertion) etc. is called Nyāya. 
 
 प्रतिज्ञा साध्यनिर्देशो हेतुस्तद्वचनं मतम् । व्याप्त्युक्तिपूर्वदृष्टान्तवागुदाहरणं भवेत् ॥ ८ ॥ 
 

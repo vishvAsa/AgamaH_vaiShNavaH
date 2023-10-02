@@ -103,7 +103,7 @@ of touch is called Touch.
 
 elements earth etc. Its division as cool, warm etc. has 
 
-been described in other s'astras. 
+been described in other śastras. 
 
 चक्षुरिन्द्रयनिग्रह्यं रूपमेतच्चतुर्विधम् । 
 
@@ -137,7 +137,7 @@ been described in other s'astras.
 
 9. The quality which is cognoscible by the sense of taste is called Taste. It is said to be of six kinds. The quality which is cognoscible by the sense of smell is called Odour. It is held to be of two kinds like 
 
-in other s'astras. 
+in other śastras. 
 
 पृथिव्यामेव गन्धः स्यात्पृथिवीजलयो रसः । पृथिवीजलतेजःसु रूपं स्पर्शः सवायुषु ॥ १० ॥ 
 
@@ -185,7 +185,7 @@ The
 
 १४ 
 
-14. Therefore the conjunction between Is'vara and time is well approved. Disunion is only the absence of conjunction. Hence it is not a separate quality. 
+14. Therefore the conjunction between Iśvara and time is well approved. Disunion is only the absence of conjunction. Hence it is not a separate quality. 
 
 सर्वहेतुषु हेतुत्वनिर्वोद्री शक्तिरिष्यते । 
 
@@ -259,7 +259,7 @@ bac
 
 ग्रन्थमुपसंहरति - प्राचीनेति । प्राचीनग्रन्थोऽत्र न्यायसिद्धाञ्जनादिः । फक्किकेत्यनेन विस्तरभिया केवलं दिक्प्रदर्शनं कृतमित्युक्तं भवति । २० 
 
-20. Following the way of the earlier texts, the logical exposition of the Vis'iṣṭadvaita system is ex- emplified to the best of my judgment. 
+20. Following the way of the earlier texts, the logical exposition of the Viśiṣṭadvaita system is ex- emplified to the best of my judgment. 
 
 अद्रव्य-निरूपणम् 
 
@@ -331,7 +331,7 @@ bac
 
 इति वेदान्तकारिकावल्यामद्रव्यनिरूपणं दशमं प्रकरणम् प्रमेयनिरूपणं समाप्तम् 
 
-24. Great Annayārya who was the moon of the milky ocean of the family of S'athamarṣaṇa, beauti- fied the four s'astras with his brilliance of expression. His son Venkaṭārya of great intellect, well equipped with the philosophical thought, wrote this string of concise verses on Vedanta to the entire satisfaction of the good. 
+24. Great Annayārya who was the moon of the milky ocean of the family of S'athamarṣaṇa, beauti- fied the four śastras with his brilliance of expression. His son Venkaṭārya of great intellect, well equipped with the philosophical thought, wrote this string of concise verses on Vedanta to the entire satisfaction of the good. 
 
 Thus here ends the tenth chapter entitled the treatment of non-substance, of the work called the Vedantakarikavali composed by Bucci Venkaṭācārya, the third son of Anṇayaryasomapithin, who was the moon of the ocean of S'athamarṣaṇa family and seer of other shore of six darsanas. 
 
