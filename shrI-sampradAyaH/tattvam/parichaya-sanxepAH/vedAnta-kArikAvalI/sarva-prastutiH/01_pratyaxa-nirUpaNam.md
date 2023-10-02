@@ -3,9 +3,21 @@ title = "०१ प्रत्यक्ष-निरूपणम्"
 
 +++
 
-श्रीमद्रमाधवोपज्ञा' नत्वाचार्यपरंपराम् । 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुर्वे लक्ष्मणसिद्धान्तकारिकां कारिकावलीम् ॥ १ ॥ 
+श्रीमद्-रमा-धवोपज्ञां  
+**नत्वा** ऽऽचार्य-परम्पराम् ।  
+**कुर्वे** लक्ष्मण-सिद्धान्त-  
+कारिकां कारिकावलीम् ॥ १.१॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रीमद्रमाधवोपज्ञां नत्वाचार्यपरम्पराम् ।  
+कुर्वे लक्ष्मणसिद्धान्तकारिकां कारिकावलीम् ॥ १.१॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 श्रीः 
 
@@ -28,12 +40,31 @@ A.
 अस्मदाचार्यपर्यन्तां वन्दे गुरुपरंपराम् ॥ " 
 
 • इत्यादिसदाचार्यसंप्रदायावगतं चेति ध्येयम् । श्रीमहालक्ष्म्या अप्याचार्यकोटा- वन्तर्भावमवगमयितुं रमाधव इति रमानिर्देश इत्यवगन्तव्यम् । लक्ष्मणसिद्धान्तः श्रीभगवद्रामानुजसिद्धान्तः, तस्य कारिका प्रतिपादिका, ताम् । कारिकावलीति प्रन्थनाम । 
+</details>
+
+
+<details><summary>English</summary>
 
 1. After bowing down in salutation to the line of spiritual teachers beginning with the Lord of S'ri (Bhagavan Nārāyaṇa) I write the work Karikavali on the principles of the doctrine expounded by S'ri Rāmā- nuja. 
+</details>
 
-मानमेयविभेदेन पदार्थो द्विविधो मतः । 
 
-मानं प्रत्यक्षानुमानशब्दभेदात् त्रिधा भवेत् ॥ २ ॥ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मान-मेय-विभेदेन  
+पदार्थो द्वि-विधो मतः ।  
+मानं प्रत्यक्षानुमान-  
+शब्दभेदात् त्रिधा भवेत् ॥ १.२॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+मानमेयविभेदेन पदार्थो द्विविधो मतः ।  
+मानं प्रत्यक्षानुमानशब्दभेदात् त्रिधा भवेत् ॥ १.२॥
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 पदार्थ इति; पदस्यार्थः पदार्थ इति यद्यत्पदेनाभिधेयं तत्सर्वं गृह्यते । तत्त्वं, पदार्थः, वस्तु, इति पर्यायशब्दाः । एवं च वस्तुसामान्यं द्विधेत्यर्थः । मानं प्रमाणम् । मेयं प्रमेयम् । त्रिधेति ; 
 
@@ -43,41 +74,84 @@ A.
 
 इत्याद्याप्ततमवचनात् त्रीण्येव प्रमाणानि । अन्यैरभ्युपगतानामुपमानादीनाम- त्रैवान्तर्भावः ; यथा उपमानार्थापत्त्योरनुमाने, अनुपलब्धेः प्रत्यक्षे । प्रमायाः करणं प्रमाणमिति प्रमाणसामान्यलक्षणम् । 
 
-2. The entire Padarthas or entities are of two kinds—Māna (Means of valid knowledge) and Meya (The object of such knowledge). The Mana is again of 
+</details>
 
-मतम्. 
+<details><summary>English</summary>
 
-प्रत्यक्ष-निरूपणम् 
+2. The entire Padarthas or entities are of two kinds—Māna (Means of valid knowledge) and Meya (The object of such knowledge). The Mana is again of three divisions- Pratyaksa (Perception), Anumāna(Inference) and S'abda (Verbal testimony). 
+</details>
 
-three divisions- Pratyaksa 
 
-(Perception), Anumāna 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(Inference) and S'abda (Verbal testimony). 
+प्रमेयं द्विविधं प्रोक्तं  
+द्रव्याद्रव्य-विभेदतः ।  
+जडाजडत्व-भिन्नेऽत्र  
+द्रव्ये, तद् द्विविधं जडम् ॥ १.३॥
+</details>
 
-प्रमेयं द्विविधं प्रोक्तं द्रव्याद्रव्यविभेदतः । जडाजडत्वभिन्नेऽत्र द्रव्ये तद् द्विविधं जडम् ॥ ३ ॥ 
+<details><summary>मूलम्</summary>
+
+प्रमेयं द्विविधं प्रोक्तं द्रव्याद्रव्यविभेदतः ।  
+जडाजडत्वभिन्नेऽत्र द्रव्ये तद् द्विविधं जडम् ॥ १.३॥
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 प्रमाविषयः प्रमेयम् । द्रव्यम् उपादानम् । अवस्थान्तरयोगि उपादानम् तद्भिन्नम् अद्रव्यम्; द्रव्यत्वात्यन्ताभाववत् । परत एव प्रकाशं जडम् ; यथा घटादि । स्वयंप्रकाशम् अजडम्; यथा ज्ञानादि । अत्र प्रकाशशब्दो न कान्ति- मत्त्वपरः। किंतु ज्ञानविषयत्वपरः । " ज्ञानमर्थप्रकाशः " इति तत्त्वमुक्ताकलापे । आत्मसिद्धौ च "व्यवहारानुगुण्यवचनः प्रकाशशब्दः " इति । एवं च जडत्वं नाम स्वगोचरज्ञानैकविषयत्वमिति फलितम् । अत्र “ अभिधेयः पदार्थः ; स द्विविधः-भावाभावभेदात् " इति लक्षणावल्यामुदयनोक्तो विभागस्तु न वेदान्तिनां संमतः, तेषां मते अभावस्य भावान्तररूपत्वेन तथा विभागायोगात् । मिथो विरुद्धधर्मपुरस्कारेण निर्देशो हि विभागः । अभावस्य भावान्तररूपत्वं चारम्भणाधिकरणे सूत्रकारैरेवोपपादितम् । घटाभावाभावस्य घटरूपत्वं वदद्भिः परैरभ्युपगतं च । षोढासप्तधादिविभागस्तु न मुमुक्षूपयोगीत्युपेक्षितः । ३ 
+</details>
+
+
+<details><summary>English</summary>
 
 3. The Meya is of two kinds — Dravya (Subs- tance) and Adravya (Non-Substance). Among these two divisions, the Dravya is of two kinds-Jaḍa and Ajada. The Jada is of two kinds. 
 
-[Note. The Jada is that which can be cognized For instance the only with the aid of external means. pot can be cognized only with the aid of our knowledge. If the knowledge ceases to function, the pot cannot be cognized. But the case of Ajada is different. It is cognizable even without the aid of external means. For instance the Atman is cognizable by self even with out the aid of the knowledge. Likewise the cognition 
+[Note. The Jada is that which can be cognized For instance the only with the aid of external means. Pot can be cognized only with the aid of our knowledge.+++(5)+++ If the knowledge ceases to function, the pot cannot be cognized. But the case of Ajada is different. It is cognizable even without the aid of external means. For instance the Atman is cognizable by self even with out the aid of the knowledge. Likewise the cognition [[४]] which is an attribute of the Atman is cognizable by him even without the aid of external means i.e. another knowledge, when it operates with an object.] 
+</details>
 
-४ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वेदान्तकारिकावली 
++++(जडम्)+++ प्रकृतिः काल इत्य्, आद्या  
+चतुर्विंशतिधा मता ।  
+कालस् तूपाधि-भेदेन  
+त्रिविधः परिकीर्त्यते ॥ १.४॥
+</details>
 
-which is an attribute of the Atman is cognizable by him even without the aid of external means i.e. another knowledge, when it operates with an object.] 
+<details><summary>मूलम्</summary>
 
-प्रकृतिः काल इत्याद्या चतुर्विंशतिधा मता । कालस्तूपाधिभेदेन त्रिविधः परिकीर्त्यते' ॥ ४ ॥ 
+प्रकृतिः काल इत्याद्या चतुर्विंशतिधा मता ।  
+कालस्तूपाधिभेदेन त्रिविधः परिकीर्त्यते ॥ १.४॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 प्रकृतिः काल इति द्विविधं जडमिति पूर्वेणान्वयः । प्रकृतिस्त्रिगुणम् । नित्यविभूतेर्जडत्वं त्वेकदेशिनां मतं, न सिद्धान्तिनाम् । आद्या ; प्रकृतिरित्यर्थः । चतुर्विंशतिधेति--प्रकृतिमहदहंकारास्त्रयः, एकादशेन्द्रियाणि, पञ्च तन्मात्राणि, पञ्च भूतानीत्याहत्य चतुर्विंशतिः । उपाधिः भूतभविष्यद्वर्तमानरूपः । त्रिविध इति ; कलाकाष्ठादिरूपबहुविध भेदस्योपलक्षणम् । 
+</details>
 
 ४ 
 
-4. The two kinds of Jaḍadravya are Prakṛti (The Primary Matter) and Kāla (Time). The former i.e., Prakrti is of twenty-four kinds. The Kala is said to be of three divisions due to its Upadhis (Limiting adjuncts). 
+<details><summary>English</summary>
 
-अजडं तु पराक् प्रत्यगिति भेदाद् द्विधा स्थितम् । पराङ् नित्यविभूतिश्च धर्मभूतमतिस्तथा ॥ ५ ॥ 
+4. The two kinds of Jaḍadravya are Prakṛti (The Primary Matter) and Kāla (Time). The former i.e., Prakrti is of twenty-four kinds. The Kala is said to be of three divisions due to its Upadhis (Limiting adjuncts). 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अजडं तु पराक् प्रत्यग्  
+इति भेदाद् द्वि-धा स्थितम् ।  
+पराङ् नित्य-विभूतिश् च  
+धर्म-भूत-मतिस् तथा ॥ १.५॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अजडं तु पराक् प्रत्यगिति भेदाद् द्विधा स्थितम् ।  
+पराङ् नित्यविभूतिश्च धर्मभूतमतिस्तथा ॥ १.५॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अजडभेदमाह-अजडमिति । वस्तुतस्तु पराक्प्रत्यग्विभेदो द्रव्य- सामान्यस्यैव । अतो जडस्य प्रकृत्यादेरपि पराक्त्वं सिद्धम् । तथाचाहुः- 
 
@@ -91,73 +165,171 @@ which is an attribute of the Atman is cognizable by him even without the aid of 
 
 1 कीर्तितः 
 
-मतम्. 
-
-प्रत्यक्ष-निरूपणम् 
-
 ५ 
 
 शयाधानार्थे नियन्तव्यं वस्तु । धर्मभूतमतिः; जीवेश्वरयोर्धर्मभूतं ज्ञानम् । ज्ञातु- ज्ञेयावभासो मतिः । जीवेश्वरयोर्धर्मिणोरपि ज्ञानव्यपदेशस्य प्रामाणिकत्वात् तद्व्यावृत्तये धर्मभूतेति विशेषणम् । धर्ममतिरित्युक्ते धर्मस्य मतिरित्यविवक्षितार्थ- प्रतीतिः स्यादिति तद्व्यावृत्तये भूतपदप्रयोगः । 
+</details>
+
 
 ५ 
+
+<details><summary>English</summary>
 
 5. The Ajada is held to be of two kinds — Parāk and Pratyak. The Parāk are—— Nityavibhūti (The eternal world) and Dharmabhutajñāna (The attributive knowledge). 
 
 [The Parāk is that which is not Self-aware. The Pratyak is that which is Self-aware. These two may be equalized with Inanimate and Animate respectively.] 
+</details>
 
-प्रत्यग्जीवेश्वरभिदाशाली जीवः पुनस्त्रिधा । 
 
-बडो मुक्तो नित्य इति बद्धस्तु द्विविधो भवेत् ॥ ६ ॥ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यग् जीवेश्वर-भिदा-  
+शाली, जीवः पुनस् त्रिधा ।  
+बद्धो मुक्तो नित्य इति  
+बद्धस् तु द्विविधो भवेत् ॥ १.६॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रत्यग्जीवेश्वरभिदाशाली जीवः पुनस्त्रिधा ।  
+बद्धो मुक्तो नित्य इति बद्धस्तु द्विविधो भवेत् ॥ १.६॥
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 प्रत्यग्विभागमाह — जीवेश्वरेति । स्वस्मै स्वयं प्रकाशमानं प्रत्यगिति लक्षणं पूर्वमेवोक्तम् । बद्धः कर्मबद्धः । मुक्तः कंचित्कालं बद्धो भूत्वा अनन्तरं भक्ति- प्रपत्योरन्यतरप्रीतभगवत्प्रसादेन कर्मबन्धात् विनिर्मुक्तः । नित्यः कर्मबन्धं विना सदा भगवदनुभवपरः । 
+</details>
 
 ६ 
 
+<details><summary>English</summary>
+
 6. The Pratyak is of two kinds-Jiva (Individual Souls) and Is'vara (The Ruling Supreme Soul). The Jiva is again of three kinds-Baddha (Bound in Samsāra), Mukta (Freed from Samsāra) and Nitya (Eternally freed from Samsara or never bound in Samsāra). The Baddha is of two kinds. 
+</details>
 
-बुभुक्षुश्च मुमुक्षुश्च बुभुक्षुश्च पुनर्द्विधा । अर्थकामपरो धर्मपरचेति विवेचनात् ॥ ७ ॥ 
 
-वेदान्तकारिकावली 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बुभुक्षुश्च मुमुक्षुश्च  
+बुभुक्षुश्च पुनर्द्विधा ।  
+अर्थकामपरो धर्म-  
+परश्चेति विवेचनात् ॥ १.७॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+बुभुक्षुश्च मुमुक्षुश्च बुबुक्षुश्च पुनर्द्विधा ।  
+अर्थकामपरो धर्मपरश्चेति विवेचनात् ॥ १.७॥
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 पूर्वकारिकाप्रस्तुतं बद्धभेदमाह–बुभुक्षुरिति । बुभुक्षुः प्राकृतभोगेच्छुः । मुमुक्षुः संसारनिवृत्तिपूर्वकाप्राकृतभोगेच्छुः । 
+</details>
+
+
+<details><summary>English</summary>
 
 7. They are-Bubhuksu (Desirous of worldly enjoyments) and Mumuksu (Desirous of freedom from Samsara and divine bliss.) The Bubhukṣu is again of two kinds-Arthakamapara (Addicted to worldly wealth and pleasure) and Dharmapara (Addicted to Dharma). 
+</details>
 
-अन्यदेवपरो विष्णुपरो धर्मपरो द्विधा । 
 
-मुमुक्षुरपि कैवल्यमोक्षयोगाद् द्विधा मतः ॥ ८ ॥ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यदेवपरो विष्णु-  
+परो धर्मपरो द्विधा ।  
+मुमुक्षुरपि कैवल्य-  
+मोक्षयोगाद् द्विधा मतः ॥ १.८॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्यदेवपरो विष्णुपरो धर्मपरो द्विधा ।  
+मुमुक्षुरपि कैवल्यमोक्षयोगाद् द्विधा मतः ॥ १.८॥
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अर्थकामपरस्य स्पष्टत्वात्तमुपेक्ष्य धर्मपरभेदमाह– अन्यदेवेति ; देवता- न्तरपरः । अथ मुमुक्षुभेदमाह – कैवल्येति । संसारबन्धनिवृत्तिपूर्वक केवलस्वा- त्मानुभवाभिलाषी । मोक्षेति ; संसारबन्धनिवृत्तिपूर्वकभगवदनुभवाभिलाषी । ८ 
+</details>
+
+<details><summary>English</summary>
 
 8. The Dharmapara is of two kinds-Anyadeva- para (Addicted to the deities other than Visnu) and Visņupara (Addicted to Visnu alone ). And the Mumu- kṣu is of two kinds-Kaivalyapara (Addicted to Kai- valya) and Mokşapara (Addicted to Moksa). 
 
 [There is vast difference between Kaivalya and Mokṣa. The former is the Self-realization and the latter is the enjoyments of extreme bliss of Para- mātman in his eternal abode.] 
 
-भक्तप्रपन्नभेदेन स तु मोक्षपरो द्विधा । द्विधा प्रपन्न एकान्तिपरमैकान्तिभेदतः ॥ ९ ॥ 
+</details>
 
-मोक्षपर भेदमाह–भक्तेति । भक्तः भक्तियोगनिष्ठः । प्रपन्नः प्रपत्त्यपर पर्या- यन्यासयोगनिष्ठः । एकान्ती भगवत्प्रपत्तावेवोपायत्वबुद्ध्या तस्यामेकस्यामेवान्तो निश्चयो यस्य सः । परमपुरुषः श्रीमन्नारायण एवोपायः, प्रपत्तिस्तु तत्प्रसादौपयिकीति बुद्धया परमे एकस्मिन्नेवान्तो निश्चयो यस्य सः परमैकान्ती श्रीवैष्णवोत्तमः । ९प्रत्यक्ष-निरूपणम् 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भक्तप्रपन्नभेदेन  
+स तु मोक्षपरो द्विधा ।  
+द्विधा प्रपन्न एकान्ति-  
+परमैकान्तिभेदतः ॥ १.९॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+भक्तप्रपन्नभेदेन स तु मोक्षपरो द्विधा ।  
+द्विधा प्रपन्न एकान्तिपरमैकान्तिभेदतः ॥ १.९॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मोक्षपर भेदमाह–भक्तेति । भक्तः भक्तियोगनिष्ठः । प्रपन्नः प्रपत्त्यपर पर्या- यन्यासयोगनिष्ठः । एकान्ती भगवत्प्रपत्तावेवोपायत्वबुद्ध्या तस्यामेकस्यामेवान्तो निश्चयो यस्य सः । परमपुरुषः श्रीमन्नारायण एवोपायः, प्रपत्तिस्तु तत्प्रसादौपयिकीति बुद्धया परमे एकस्मिन्नेवान्तो निश्चयो यस्य सः परमैकान्ती श्रीवैष्णवोत्तमः । 
+</details>
+
+<details><summary>English</summary>
 
 9. The Moksapara is of two kinds – Bhakta (Resorting to Bhaktiyoga) and Prapanna (Resorting to 
 
-The Prapanna is of two kinds- 
-
-Prapattiyoga). 
-
+The Prapanna is of two kinds- . 
 Ekantin and Paramaikantin. 
 
-[He is Ekantin who seeks the Mokṣa along with other worldly enjoyments from Bhagavan alone. The Paramaikantin does not desire any other enjoyments except the Bhagavan. Or he is Ekantin who is resolved to attain Mokṣa by Prapatti alone taking it as a means. But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagavan alone. That is-for him Bhagavan alone is Upaya and Upeya.] 
+[He is Ekantin who seeks the Mokṣa along with other worldly enjoyments from Bhagavan alone.  
+The Paramaikantin does not desire any other enjoyments except the Bhagavan.  
 
-दृप्त आर्त इति द्वेधा परमैकान्त्युदाहृतः । ईश्वरः पञ्चधा भिन्नः परव्यूहादिभेदतः ॥ १० ॥ 
+Or he is Ekantin who is resolved to attain Mokṣa by Prapatti  alone taking it as a means.  
+But he is Paramaikantin who is resolved to attain Mokṣa by the means of Bhagavan alone. That is-for him Bhagavan alone is Upaya and Upeya.] +++(किम् अन्तरम्?)+++ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दृप्त आर्त इति द्वेधा  
+परमैकान्त्युदाहृतः ।  
+ईश्वरः पञ्चधा भिन्नः  
+पर-व्यूहादि-भेदतः ॥ १.१०॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+दृप्त आर्त इति द्वेधा परमैकान्त्युदाहृतः ।  
+ईश्वरः पञ्चधा भिन्नः परव्यूहादिभेदतः ॥ १.१०॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 परमैकान्तिभेदमाह- 
 
-इ-दृप्त इति । दृप्तः ; प्रारब्धकर्मफलभोगविलम्बमङ्गी- कृत्य तदवसाने मोक्षाभिलाषी । आर्तः; क्षणमपि प्रारब्धकर्मफलं संसारताप- मनुभवितुमशक्नुवानोऽवतप्तेनकुलस्थितमिव दुर्दशामनुभवन् प्रपत्त्युत्तरक्षण एव मोक्षाभिलाषी । ईश्वर एक एव ; तथापि तस्मिन्नौपाधिकभेदानाह-परव्यूहा- दीति । विभवान्तर्याम्यर्चा आदिपदग्राह्याः । 
+इ-दृप्त इति । दृप्तः ; प्रारब्धकर्मफलभोगविलम्बमङ्गी- कृत्य तदवसाने मोक्षाभिलाषी । आर्तः; क्षणमपि प्रारब्धकर्मफलं संसारताप- मनुभवितुमशक्नुवानोऽवतप्तेनकुलस्थितमिव दुर्दशामनुभवन् प्रपत्त्युत्तरक्षण एव मोक्षाभिलाषी । ईश्वर एक एव ; तथापि तस्मिन्नौपाधिकभेदानाह-परव्यूहा- दीति । विभवान्तर्याम्यर्चा आदिपदग्राह्याः ।
+१०
+</details>
 
-१० 
+
+
+<details><summary>English</summary>
 
 10. The Paramaikāntin is told to be of two kinds-Drpta (Patient of delay) and Arta (Impatient of delay). Isvara is known to be in five-fold forms- Para, Vyūha and so on. 
 
 [The five-fold forms are— Para, Vyūha, Vibhava, Antaryāmin and Arca.] 
+</details>
+
 
 पर एकचतुर्धातु व्यूहः स्याद्वासुदेवकः । 
 
