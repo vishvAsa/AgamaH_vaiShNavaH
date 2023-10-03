@@ -31,7 +31,7 @@ I adore the regular and spotless succession of ācāryas which is well-known to 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-कर्म-ब्रह्मात्मके शास्त्रे  
++++(तत्त्वदीपिकायां)+++ कर्म-ब्रह्मात्मके शास्त्रे  
 कौतस्कुत-निवर्तकान् ।  
 वन्दे हस्ति-गिरीशस्य  
 +++(भक्ति-प्रपत्त्यात्मक-)+++वीथी-शोधक-किङ्करान्  +++(आत्रेय-रामानुजान्)+++॥ ५ ॥
@@ -55,11 +55,17 @@ I bow to those great men who have refuted the arguments of men[^16] that chop lo
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-आळुमडैक्कलमॆन् ऱॆम्मैयम्बुयत्ताळ् कणवन्  
-ताळिणै सेर्न्दॆमक्कुमवैदन्द तगवुडैयार्  
-मूळुमिरुट्कळ् विळ मुयण्ड्रोदिय मूण्ड्रिनुळ्ळम्  
-नाळुमुगक्कविङ्गे नमक्कोर्विदि वाय्क्किण्ड्रदे ( 7 )
+आळुम्+++(=भरणीयम्)+++ अडैक्कलम्+++(=रक्ष्यम्)+++ ऎन्ऱ् ऎम्मैय् अम्बुयत्ताळ्+++(=अम्बुजा)+++ कणवन्+++(=भर्ता)+++  
+ताळ्+++(=पाद)+++-इणै+++(=द्वयं)+++ **सेर्न्द्**, ऎमक्क् उम् अवै+++(=तत्)+++ **तन्द** तगव्+++(=कृपा)+++-उडैयार्  
+मूळुम्+++(=अवर्जनीय)+++-इरुट्कळ्+++(=तमांसि)+++ विळ+++(=भेत्तुं)+++ मुयण्ड्र्+++(=उद्यमस्य)+++ **ओदिय** मूण्ड्रिन्+++(=त्रयस्य)+++ उळ्ळम्+++(=आन्तरिकम्)+++  
++++(प्रति-)+++नाळ् उम् उगक्कव्+++(=तोषाय)+++ इङ्ग् ए नमक्क् ओर् विधि **वाय्क्किण्ड्रद्**+++(=आगच्छद् अस्ति)+++ ए ( 7 )
 </details>
+
+<details><summary>English</summary>
+
+Lucky indeed are we in having an opportunity, in this world and every day, of meditating on the three mysteries (mantras) with great delight -- secrets which were taught to us with great earnestness for the removal of our dense ignorance by great souls endowed with compassion who sought the feet of the Spouse of the lotus-born Lakṣmī  as their sole refuge and gave me also those feet for our protection.
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -69,15 +75,20 @@ I bow to those great men who have refuted the arguments of men[^16] that chop lo
 नाळुमुगक्कविङ्गे नमक्कोर्विदि वाय्क्किण्ड्रदे ( 7 )
 </details>
 
-Lucky indeed are we in having an opportunity, in this world and every day, of meditating on the three mysteries (mantras) with great delight -- secrets which were taught to us with great earnestness for the removal of our dense ignorance by great souls endowed with compassion who sought the feet of the Spouse of the lotus-born Lakṣmī  as their sole refuge and gave me also those feet for our protection.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-मणिवर इव शौरेर्नित्यहृद्योऽपि जीवः  
-कलुषमतिरविन्दन् किङ्करत्वाधिराज्यम् ।  
-विधिपरिणतिभेदाद्वीक्षितस्तेन काले  
-गुरुपरिषदुपज्ञं प्राप्य गोपायति स्वम् ॥ ६ ॥
+मणिवर इव शौरेर्+++(←शूरः वसुदेवः)+++ नित्य-हृद्योऽपि **जीवः**  
+कलुष-मतिर् अविन्दन् किङ्करत्वाधिराज्यम् +++(, न श्ववृत्तिर् मनूक्ता दुःखदा)+++।  
+विधिपरिणति-भेदाद् वीक्षितस् तेन +++(भगवता)+++ काले,  
+गुरु-परिषद्-उपज्ञं +++(ज्ञानं)+++ **प्राप्य गोपायति** स्वम् ॥ ६ ॥
 </details>
+
+<details><summary>English</summary>
+
+Though the jīva is ever dear to the Lord (Śaurī) like the gem Kaustubha, he fails to obtain the paramount supremacy of service (to the Lord) owing to his ignorance; but being favoured with His glance at a turn in the tide of fortune, he attains to a knowledge of his real nature ( as one entirely dependent on God and existing only for Him ). This becomes possible by virtue of the teaching imparted to him by his gurus and thus he succeeds in saving himself.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -87,13 +98,50 @@ Lucky indeed are we in having an opportunity, in this world and every day, of me
 गुरुपरिषदुपज्ञं प्राप्य गोपायति स्वम् ॥ ६ ॥
 </details>
 
-Though the jīva is ever dear to the Lord (Śaurī) like the gem Kaustubha, he fails to obtain the paramount supremacy of service (to the Lord) owing to his ignorance; but being favoured with His glance at a turn in the tide of fortune, he attains to a knowledge of his real nature ( as one entirely dependent on God and existing only for Him ). This becomes possible by virtue of the teaching imparted to him by his gurus and thus he succeeds in saving himself.
 
 THE HERITAGE OF THE JĪVĀTMĀ.
 
 How the Jīvātmā lost this heritage.
 
-The individual soul (Jīvātmā) has been declared in the different śāstras as being dear to the Lord of Lakṣmī  even like the gem Kaustubha; he has been called the prince, the Lord's son, His disciple, His attendant, His dependant existing solely for Him [^f29] (śeṣa )[^17] and His servant. The Lord is his śeṣī for whose purposes (alone) he exists by his very nature. The Lord is the ruler of the eternal Sūris, who are ever free from ignorance. He is possessed of unsurpassed auspicious qualities; He loves us as He does the lotus-born Lakṣmī . He is the Lord of men on earth and of the Sūris in Heaven. As has been said “[^f30] The Lord of the Universe dwells in the Supreme Region of Vaikuṇṭha   along with Lakṣmī ," " [^f31] Thou art ever with Lakṣmī  adorned with shining bracelets". He dwells in the pure world of śuddhasattva ( nitya vibhūti) along with His great queen and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on a thousand pillars, in the eternal and changeless city called by names like Ayodhya; for instance, it is said, "It[^f32] is called Ayodhya and Aparajita and is beyond the world of svarga." The Lord is seated on the bed of the serpent called śeṣa who is like an umbrella to the Lord when He moves about and like a throne whenever he is seated. He has been described "as the Lord's abode, His bed, and His seat." Śeṣa, the serpent, is ever bent on serving the Lord in all places, at all times, and in all situations and enjoys rendering service of all kinds in varied embodied forms. As he is thus fulfilling the purposes of the Lord and has no other aims in life, he is, indeed, a real and unconditional Śeṣa and the name Śeṣa fits him in every way. The Lord shines on the bed of Śeṣa as the Supreme and ever-youthful Sovereign of Heaven. It is His gracious desire that all souls should enjoy His blissful state and attain their goal. The Jīva   is thus entitled, by his. essential nature, to the service of His Master as his birthright in as high a degree as the eternal Sūris themselves who have the endless bliss of serving Him. But sunk in the sleep of beginningless Maya, he has fallen into the wilderness of matter (prakṛti), has had repeated births in quick succession, has lost the primary aim of existence, has found no comfort or consolation, has lost the splendour of big real nature owing to evil desires and passions and is without a true knowledge concerning tattva (that which should be known for salvation and hita (the means of attaining it). Well has it been said, "[^f33] Trudging along the many thousand pathways of saṁsāra consisting of cycles of births and deaths, he has become deluded and exhausted and is covered with the dust of tendencies left by impressions in the mind."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रियःपतिय् आन सर्वेश्वरनुक्कु  
+श्रीकौस्तुभ-स्थानीयन् आय्क् कॊण्डु  
+हृदयङ्-गमनाय्, कुमारन् ऎण्ड्रुम्, पुत्रन् ऎण्ड्रुम्, शिष्यन् ऎण्ड्रुम्,  
+प्रेष्यन् ऎण्ड्रुम्, शेष-भूतन् ऎण्ड्रुम्, दास-भूतन् ऎण्ड्रुम्,  
+अव्वो+++(=तत्तत्)+++ **शास्त्रङ्गळिल् ए प्रतिपन्नन्** आय् इरुक्कुम् **जीवात्मा** । 
+</details>
+
+<details><summary>English</summary>
+
+The individual soul (Jīvātmā) has been declared in the different śāstras as being dear to the Lord of Lakṣmī  even like the gem Kaustubha; he has been called the prince, the Lord's son, His disciple, His attendant, His dependant existing solely for Him [^f29] (śeṣa )[^17] and His servant. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+श्रियःपतियान सर्वेश्वरनुक्कु श्रीकौस्तुभस्थानीयनाय्क् कॊण्डु हृदयङ्गमनाय्, कुमारनॆण्ड्रुम्, पुत्रनॆण्ड्रुम्, शिष्यनॆण्ड्रुम्, प्रेष्यनॆण्ड्रुम्, शेषभूतनॆण्ड्रुम्, दासभूतनॆण्ड्रुम्, अव्वो शास्त्रङ्गळिले प्रतिपन्ननायिरुक्कुम् जीवात्मा । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवन् तनक्कु +++(शास्त्रोक्तानौपाधिक)+++ वगुत्त+++(=उचित)+++ शेषिय् आय्,  
+अयर्व्+++(=अज्ञान)+++-अऱुम्+++(=इतर)+++ अमरर्गळ्+++(→नित्य-सूरीणां)+++ अधिपतिय् आय्, +++(शठकोपोक्तरीत्या)+++ उयर्व्+++(=उत्कृष्ट)+++-अऱव्+++(=इतर)+++-उयर्-नलम्+++(=गुणम्|आनन्दम्)+++ उडैयवन् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+The Lord is his śeṣī for whose purposes (alone) he exists by his very nature. The Lord is the ruler of the eternal Sūris, who are ever free from ignorance. He is possessed of unsurpassed auspicious qualities; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवन् तनक्कु वगुत्त शेषियाय्, अयर्वऱुममरर्गळदिबदियाय्, उयर्वऱवुयर् नलमुडैयवनाय्, 
+</details>
+
+
+He loves us as He does the lotus-born Lakṣmī . He is the Lord of men on earth and of the Sūris in Heaven. As has been said “[^f30] The Lord of the Universe dwells in the Supreme Region of Vaikuṇṭha   along with Lakṣmī ," " [^f31] Thou art ever with Lakṣmī  adorned with shining bracelets". He dwells in the pure world of śuddhasattva ( nitya vibhūti) along with His great queen and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on a thousand pillars, in the eternal and changeless city called by names like Ayodhya; for instance, it is said, "It[^f32] is called Ayodhya and Aparajita and is beyond the world of svarga." The Lord is seated on the bed of the serpent called śeṣa who is like an umbrella to the Lord when He moves about and like a throne whenever he is seated. He has been described "as the Lord's abode, His bed, and His seat." Śeṣa, the serpent, is ever bent on serving the Lord in all places, at all times, and in all situations and enjoys rendering service of all kinds in varied embodied forms. As he is thus fulfilling the purposes of the Lord and has no other aims in life, he is, indeed, a real and unconditional Śeṣa and the name Śeṣa fits him in every way. The Lord shines on the bed of Śeṣa as the Supreme and ever-youthful Sovereign of Heaven. It is His gracious desire that all souls should enjoy His blissful state and attain their goal. The Jīva   is thus entitled, by his. essential nature, to the service of His Master as his birthright in as high a degree as the eternal Sūris themselves who have the endless bliss of serving Him. But sunk in the sleep of beginningless Maya, he has fallen into the wilderness of matter (prakṛti), has had repeated births in quick succession, has lost the primary aim of existence, has found no comfort or consolation, has lost the splendour of big real nature owing to evil desires and passions and is without a true knowledge concerning tattva (that which should be known for salvation and hita (the means of attaining it). Well has it been said, "[^f33] Trudging along the many thousand pathways of saṁsāra consisting of cycles of births and deaths, he has become deluded and exhausted and is covered with the dust of tendencies left by impressions in the mind."
 
 [^f29]:  A Sūtra or aphorism in Purva Mimamsa says: “ That is called a śeṣa which serves the purpose of another (and that other is called a śeṣī ) (e. g.) In a sacrifice, the grains of rice are śeṣa to the sacrifice which is śeṣī  because they serve the purpose of the sacrifice.*
 
