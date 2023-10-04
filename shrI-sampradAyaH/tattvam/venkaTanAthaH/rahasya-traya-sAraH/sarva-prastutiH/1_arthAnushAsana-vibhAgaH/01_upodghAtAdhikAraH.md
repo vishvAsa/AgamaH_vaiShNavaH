@@ -141,7 +141,85 @@ The Lord is his śeṣī for whose purposes (alone) he exists by his very nature
 </details>
 
 
-He loves us as He does the lotus-born Lakṣmī . He is the Lord of men on earth and of the Sūris in Heaven. As has been said “[^f30] The Lord of the Universe dwells in the Supreme Region of Vaikuṇṭha   along with Lakṣmī ," " [^f31] Thou art ever with Lakṣmī  adorned with shining bracelets". He dwells in the pure world of śuddhasattva ( nitya vibhūti) along with His great queen and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on a thousand pillars, in the eternal and changeless city called by names like Ayodhya; for instance, it is said, "It[^f32] is called Ayodhya and Aparajita and is beyond the world of svarga." The Lord is seated on the bed of the serpent called śeṣa who is like an umbrella to the Lord when He moves about and like a throne whenever he is seated. He has been described "as the Lord's abode, His bed, and His seat." Śeṣa, the serpent, is ever bent on serving the Lord in all places, at all times, and in all situations and enjoys rendering service of all kinds in varied embodied forms. As he is thus fulfilling the purposes of the Lord and has no other aims in life, he is, indeed, a real and unconditional Śeṣa and the name Śeṣa fits him in every way. The Lord shines on the bed of Śeṣa as the Supreme and ever-youthful Sovereign of Heaven. It is His gracious desire that all souls should enjoy His blissful state and attain their goal. The Jīva   is thus entitled, by his. essential nature, to the service of His Master as his birthright in as high a degree as the eternal Sūris themselves who have the endless bliss of serving Him. But sunk in the sleep of beginningless Maya, he has fallen into the wilderness of matter (prakṛti), has had repeated births in quick succession, has lost the primary aim of existence, has found no comfort or consolation, has lost the splendour of big real nature owing to evil desires and passions and is without a true knowledge concerning tattva (that which should be known for salvation and hita (the means of attaining it). Well has it been said, "[^f33] Trudging along the many thousand pathways of saṁsāra consisting of cycles of births and deaths, he has become deluded and exhausted and is covered with the dust of tendencies left by impressions in the mind."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(शठकोपोक्तरीत्या)+++ नमक्क् उम् पूविन्+++(→पद्म)+++-मिसै+++(=ऊर्ध्व)+++-नङ्गैक्क्+++(=पूर्णायै)+++ उम् इन्बन्+++(=प्रियन्)+++ आय्, 
+</details>
+
+<details><summary>English</summary>
+
+He loves us as He does the lotus-born Lakṣmī . 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नमक्कुम् पूविन्मिसै नङ्गैक्कुमिन्बनाय्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ञालत्तार्+++(=भूस्थानां)+++ तमक्क् उम्, वानत्त्-अवर्क्क् उम्  
+पॆरुमान् आन सर्वेश्वरन्
+</details>
+
+<details><summary>English</summary>
+
+He is the Lord of men on earth and of the Sūris in Heaven. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ञालत्तार् तमक्कुम् वानत्तवर्क्कुम् पॆरुमानान सर्वेश्वरन्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “वैकुण्ठे तु परे लोके  
+श्रिया सार्धं जगत्-पतिः । आस्ते” 
+
+ऎण्ड्रुम्, 
+
+> "ऒण्+++(=उज्ज्वल)+++-तॊडियाळ्+++(=केयूरा)+++ तिरु-मगळ् उम्,  
+नीय् उम् ए नि+++(ल्)+++लान् इऱ्‌पव्"  
++++(अत्राच्युतकेयूरेण नित्यसाहित्यं दिव्यदम्पत्योः सूचितम्।)+++
+
+ऎण्ड्रुम् सॊल्लुगिऱप् पडिये  
+पॆरिय-पिराट्टियारोडे+++(=उदारायाः←पिरान्)+++ कूडत् तॆळि+++(=शुद्ध)+++-विसुम्बिल्+++(=खे)+++ ए
+</details>
+
+<details><summary>English</summary>
+
+As has been said 
+
+> “[^f30] The Lord of the Universe dwells in the Supreme Region of Vaikuṇṭha   along with Lakṣmī ,"  
+
+> " [^f31] Thou art ever with Lakṣmī  adorned with shining bracelets". 
+
+He dwells in the pure world of śuddhasattva ( nitya vibhūti) along with His great queen
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“वैकुण्ठे तु परे लोके श्रिया सार्धं जगत्पतिः । आस्ते” ऎण्ड्रुम्, "ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्‌प" वॆण्ड्रुम् सॊल्लुगिऱप्पडिये पॆरियबिराट्टियारोडेगूडत् तॆळिविसुम्बिले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “याऽयोध्येत्य् अपराजितेति विदिता नाकं+++(←न+असुखम्)+++ परेण स्थिता” 
+
+ऎन्गिऱप् पडिये
+</details>
+
+<details><summary>मूलम्</summary>
+
+“याऽयोध्येत्यपराजितेति विदिता नाकं परेण स्थिता” ऎन्गिऱप्पडिये
+</details>
+
+
+and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on a thousand pillars, in the eternal and changeless city called by names like Ayodhya; for instance, it is said, "It[^f32] is called Ayodhya and Aparajita and is beyond the world of svarga." The Lord is seated on the bed of the serpent called śeṣa who is like an umbrella to the Lord when He moves about and like a throne whenever he is seated. He has been described "as the Lord's abode, His bed, and His seat." Śeṣa, the serpent, is ever bent on serving the Lord in all places, at all times, and in all situations and enjoys rendering service of all kinds in varied embodied forms. As he is thus fulfilling the purposes of the Lord and has no other aims in life, he is, indeed, a real and unconditional Śeṣa and the name Śeṣa fits him in every way. The Lord shines on the bed of Śeṣa as the Supreme and ever-youthful Sovereign of Heaven. It is His gracious desire that all souls should enjoy His blissful state and attain their goal. The Jīva   is thus entitled, by his. essential nature, to the service of His Master as his birthright in as high a degree as the eternal Sūris themselves who have the endless bliss of serving Him. But sunk in the sleep of beginningless Maya, he has fallen into the wilderness of matter (prakṛti), has had repeated births in quick succession, has lost the primary aim of existence, has found no comfort or consolation, has lost the splendour of big real nature owing to evil desires and passions and is without a true knowledge concerning tattva (that which should be known for salvation and hita (the means of attaining it). Well has it been said, "[^f33] Trudging along the many thousand pathways of saṁsāra consisting of cycles of births and deaths, he has become deluded and exhausted and is covered with the dust of tendencies left by impressions in the mind."
 
 [^f29]:  A Sūtra or aphorism in Purva Mimamsa says: “ That is called a śeṣa which serves the purpose of another (and that other is called a śeṣī ) (e. g.) In a sacrifice, the grains of rice are śeṣa to the sacrifice which is śeṣī  because they serve the purpose of the sacrifice.*
 
