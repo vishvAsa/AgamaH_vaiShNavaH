@@ -210,16 +210,100 @@ He dwells in the pure world of śuddhasattva ( nitya vibhūti) along with His gr
 
 > “याऽयोध्येत्य् अपराजितेति विदिता नाकं+++(←न+असुखम्)+++ परेण स्थिता” 
 
-ऎन्गिऱप् पडिये
+ऎन्गिऱप् पडिये  
+अयोध्यादि-शब्द-वाच्यम् आन कलङ्गाप्+++(=अविनाशि)+++ पॆरु-नगरिल् ए  
++++(यत्र महाभूतान्य् अपि नित्यानि, यच् चाधिक-विस्तारात् त्रि-पाद्-विभूतिर् इत्य् उच्यते, परिपूर्णब्रह्मानुभवाधिकारे यच्च वर्णयिष्यते)+++  
+सहस्र-स्थूणादि-वाक्यङ्गळाल् एय् ओदप्पडुगिऱ तिरु-मा-मणि-मण्डबत्तिल् ए  
+कौषीतकि-ब्राह्मणादिगळिल् एय् ओदप्पडुगिऱ +++(शेष-रूप-)+++पर्यङ्क-विशेषत्तिल् ए
+</details>
+
+<details><summary>English</summary>
+
+and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on a thousand pillars, in the eternal and changeless city called by names like Ayodhya; for instance, it is said, "It[^f32] is called Ayodhya and Aparajita and is beyond the world of svarga." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“याऽयोध्येत्यपराजितेति विदिता नाकं परेण स्थिता” ऎन्गिऱप्पडिये  
+अयोध्यादिशब्दवाच्यमान कलङ्गाप्पॆरुनगरिले सहस्रस्थूणादिवाक्यङ्गळाले योदप्पडुगिऱ तिरुमामणिमण्डबत्तिले कौषीतकिब्राह्मणादिगळिले योदप्पडुगिऱ पर्यङ्कविशेषत्तिले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सॆण्ड्राल्+++(=गमने)+++ कुडैय्+++(=च्छत्रम्)+++ आम्, इरुन्दाल् सिङ्गासनमाम्" ऎण्ड्रुम्,  
++++(यामुनोक्तरीत्या)+++ “निवास-शय्यासन” ऎण्ड्रुञ् चॊल्लुगिऱप् पडिये  
+सर्व-देश--सर्व-काल--सर्वावस्थोचित--सर्व-विध--कैङ्कर्यङ्गळैय् उम्  
+सर्व-विध-शरीरङ्गळाल् ए अनुभवित्तु  
+शेषत्वम् ए तनक्कु निरूपकम् आगैयाल् ए  
+"शेषन्" ऎण्ड्रे तिरु-नामम् आम्-पडिय् आन  
+तिरुव्-अनन्ताऴ्वान् आगिऱ  
+तिरुप्-पळ्ळि+++(=[शय्या-]प्रकोष्ठ)+++-मॆत्तैयिले+++(=मृदु-शय्यायाम्)+++
+</details>
+
+<details><summary>English</summary>
+
+The Lord is seated on the bed of the serpent called śeṣa  
+who is like an umbrella to the Lord when He moves about and like a throne whenever he is seated.  
+He has been described "as the Lord's abode, His bed, and His seat."  
+Śeṣa, the serpent, is ever bent on serving the Lord in all places, at all times, and in all situations and  
+enjoys rendering service of all kinds in varied embodied forms.  
+As he is thus fulfilling the purposes of the Lord and has no other aims in life,  
+he is, indeed, a real and unconditional Śeṣa and the name Śeṣa fits him in every way. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"सॆण्ड्राल्गुडैयामिरुन्दाल्सिङ्गासनमाम्" ऎण्ड्रुम्, “निवासशय्यासन” ऎण्ड्रुञ् चॊल्लुगिऱप्पडिये सर्वदेश सर्वकाल सर्वावस्थोचितसर्वविधकैङ्कर्यङ्गळैयुम् सर्वविधशरीरङ्गळाले अनुभवित्तु शेषत्वमे तनक्कु निरूपकमागैयाले शेषनॆण्ड्रे तिरुनाममाम्बडियान तिरुवनन्दाऴ्वानागिऱ तिरुप्पळ्ळिमॆत्तैयिले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वान्-इळव्+++(=युव)+++-अरस् आय्क् कॊण्डु,  
+तान्+++(→भगवान्)+++ वाऴ्गिऱ वाऴ्वै  
+सर्वात्माक्कळ् उम् अनुभवित्तु कृतार्त्थर् आग वेणुम्  
+ऎण्ड्रु **सहृदयन्** आय् इरुक्किऱव् इरुप्-पडिय् आग  
+**नित्यानुभवं पण्णुगिऱ**  
+अन्तम्-इल् पेर्+++(=पॆरु)+++-इन्बत्त्-अडियर् आन नित्य-सूरिगळ् ओड्+++(=सह)+++ ऒक्कत्+++(=इव)+++  
+तान्+++(→जीवन्)+++ उम् स्वामि-कैङ्कर्यत्तुक्कु स्व-रूप--योग्यतैयाल् एय् इट्टुप् पिऱन्दुवैत्तु+++(=??-)+++
+</details>
+
+<details><summary>English</summary>
+
+The Lord shines on the bed of Śeṣa as the Supreme and ever-youthful Sovereign of Heaven. It is His gracious desire that all souls should enjoy His blissful state and attain their goal. The Jīva   is thus entitled, by his essential nature, to the service of His Master as his birthright in as high a degree as the eternal Sūris themselves who have the endless bliss of serving Him. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वानिळवरसाय्क् कॊण्डु तान् वाऴ्गिऱ वाऴ्वै सर्वात्माक्कळुम् अनुभवित्तु कृतार्त्थराग वेणुम् ऎण्ड्रु सहृदयनायिरुक्किऱविरुप्पडियाग नित्यानुभवं पण्णुगिऱ अन्दमिल् पेरिन्बत्तडियरान नित्यसूरिगळोडॊक्कत् तानुम् स्वामिकैङ्कर्यत्तुक्कु स्वरूपयोग्यतैयालेय् इट्टुप्पिऱन्दुवैत्तु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनादि-मायैयाल् ए सुप्तन् आय्  
+
+> “अनेक-जन्म-साहस्रीं  
+संसार-पदवीं व्रजन् ।  
+मोह-श्रमं प्रयातोऽसौ  
+वासना-रेणु-कुण्ठितः”  
+
+ऎन्गिऱप् पडिये प्रकृतिय् आगिऱ पाऴिल्+++(=मरौ)+++ ए  
+विऴुन्दु ओडिय् ओडिप् 
 </details>
 
 <details><summary>मूलम्</summary>
 
-“याऽयोध्येत्यपराजितेति विदिता नाकं परेण स्थिता” ऎन्गिऱप्पडिये
+अनादिमायैयाले सुप्तनाय्  
+“अनेकजन्मसाहस्रीं संसारपदवीं व्रजन् । मोहश्रमं प्रयातोऽसौ वासनारेणुकुण्ठितः”  
+ऎन्गिऱप्पडिये प्रकृतियागिऱ पाऴिले विऴुन्दु ओडियोडिप् 
 </details>
 
 
-and is seated on a couch, as described in such places as the Koushitaki Brāhmana, in a hall of splendour which is lit up with gems and stands on a thousand pillars, in the eternal and changeless city called by names like Ayodhya; for instance, it is said, "It[^f32] is called Ayodhya and Aparajita and is beyond the world of svarga." The Lord is seated on the bed of the serpent called śeṣa who is like an umbrella to the Lord when He moves about and like a throne whenever he is seated. He has been described "as the Lord's abode, His bed, and His seat." Śeṣa, the serpent, is ever bent on serving the Lord in all places, at all times, and in all situations and enjoys rendering service of all kinds in varied embodied forms. As he is thus fulfilling the purposes of the Lord and has no other aims in life, he is, indeed, a real and unconditional Śeṣa and the name Śeṣa fits him in every way. The Lord shines on the bed of Śeṣa as the Supreme and ever-youthful Sovereign of Heaven. It is His gracious desire that all souls should enjoy His blissful state and attain their goal. The Jīva   is thus entitled, by his. essential nature, to the service of His Master as his birthright in as high a degree as the eternal Sūris themselves who have the endless bliss of serving Him. But sunk in the sleep of beginningless Maya, he has fallen into the wilderness of matter (prakṛti), has had repeated births in quick succession, has lost the primary aim of existence, has found no comfort or consolation, has lost the splendour of big real nature owing to evil desires and passions and is without a true knowledge concerning tattva (that which should be known for salvation and hita (the means of attaining it). Well has it been said, "[^f33] Trudging along the many thousand pathways of saṁsāra consisting of cycles of births and deaths, he has become deluded and exhausted and is covered with the dust of tendencies left by impressions in the mind."
+
+But sunk in the sleep of beginningless Maya, he has fallen into the wilderness of matter (prakṛti), has had repeated births in quick succession, has lost the primary aim of existence, has found no comfort or consolation, has lost the splendour of big real nature owing to evil desires and passions and is without a true knowledge concerning tattva (that which should be known for salvation and hita (the means of attaining it). Well has it been said, "[^f33] Trudging along the many thousand pathways of saṁsāra consisting of cycles of births and deaths, he has become deluded and exhausted and is covered with the dust of tendencies left by impressions in the mind."
 
 [^f29]:  A Sūtra or aphorism in Purva Mimamsa says: “ That is called a śeṣa which serves the purpose of another (and that other is called a śeṣī ) (e. g.) In a sacrifice, the grains of rice are śeṣa to the sacrifice which is śeṣī  because they serve the purpose of the sacrifice.*
 
