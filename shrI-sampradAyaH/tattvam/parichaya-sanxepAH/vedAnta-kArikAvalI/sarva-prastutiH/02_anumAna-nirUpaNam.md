@@ -3,6 +3,12 @@ title = "०२ अनुमान-निरूपणम्"
 
 +++
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+विस्तारः [अत्र](/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/pramA/anumitiH/) ।
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनुमित्य्-आत्म-विज्ञाने  
@@ -133,7 +139,7 @@ title = "०२ अनुमान-निरूपणम्"
 किञ्च **हेतुर्** द्विलक्षणः ।  
 +++(व्याप्त्य्-अभावे)+++ व्यभिचारी, +++(सर्वत्र-व्याप्त्य्-अभावे)+++ विरुद्धश्,  
 +++(स्वरूप-+आश्रय-उपाधिष्व् एकतमस्य वाऽसिद्धत्वात् पक्ष-धर्माभावे)+++  
-चासिद्धः, सत्प्रतिपक्षकः  … +++(हेत्वाभासाः)+++॥ २.५॥
+चासिद्धः, सत्-प्रतिपक्षकः  … +++(हेत्वाभासाः)+++॥ २.५॥
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -207,10 +213,28 @@ title = "०२ अनुमान-निरूपणम्"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाधितश् चेति पञ्चैते  
-**हेत्वाभासा** न साधकाः ।  
-एवं स्वार्थानुमानस्य  
+**हेत्व्-आभासा** न साधकाः ।  
+एवं +++(स्वगत-निश्चयार्थस्य)+++ **स्वार्थानुमानस्य**  
 प्रपञ्चस्तु निरूपितः ॥ २.६॥
 </details>
+
+<details><summary>English</summary>
+
+बाधित इति । अयमेव कालात्ययापदिष्ट इत्यप्युच्यते । साध्याभाववत्प- क्षको हेतुर्बाधितः । यथा वह्निरनुष्णः पदार्थत्वात् जलवदिति। अत्र वह्नौ अनुष्णत्वं नास्ति । एते पञ्चापि हेत्वाभासाः हेतुवदापाततो भासन्ते । निष्कर्षे तु न हेतव इत्यर्थः । तस्मात् ते न साध्यस्य साधकाः । 
+
+अनुमानस्य स्वार्थपरार्थत्वभेदेन द्वैविध्यम् अभिप्रेत्य पूर्वोक्तः प्रपञ्चः स्वार्थानुमानस्येत्याह- एवमिति ।  
+स्वस्य निष्कर्षार्थं प्रवृत्तं स्वार्थम् ।  
+परबोधनार्थं प्रवृत्तं परार्थम् । ६ 
+</details>
+
+
+<details><summary>English</summary>
+
+5-6. The Hetu (Reason) is of two kinds — Anvayin (Positive) and Vyatirekin (Negative). The faulty Reasons are unfit to establish the Sadhya by inference. They are five in number, namely - Vyabhicārin (Trans- gressing), Viruddha (Adverse), Asiddha (Not-esta- blished), Satpratipaksa (Having counter-Reason) and Bādhita (Contradicted). 
+
+Thus the inference of Svārtha (For one's own ) has been described in detail. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -219,45 +243,94 @@ title = "०२ अनुमान-निरूपणम्"
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बाधित इति । अयमेव कालात्ययापदिष्ट इत्यप्युच्यते । साध्याभाववत्प- क्षको हेतुर्बाधितः । यथा वह्निरनुष्णः पदार्थत्वात् जलवदिति। अत्र वह्नौ अनुष्णत्वं नास्ति । एते पञ्चापि हेत्वाभासाः हेतुवदापाततो भासन्ते । निष्कर्षे तु न हेतव इत्यर्थः । तस्मात् ते न साध्यस्य साधकाः । अनुमानस्य स्वार्थपरार्थत्वभेदेन द्वैविध्यमभिप्रेत्य पूर्वोक्तः प्रपञ्चः स्वार्थानुमानस्येत्याह- एवमिति । स्वस्य निष्कर्षार्थं प्रवृत्तं स्वार्थम् । परबोधनार्थं प्रवृत्तं परार्थम् । ६ 
+न्याय-जन्यः परामर्शः  
+परार्थानुमितेः कृते ।  
+**न्यायो** ऽवयव-वाक्यानि  
++++(वक्ष्यमाणानि)+++ प्रतिज्ञादीनि पञ्च च ॥ २.७॥
+</details>
 
-5-6. The Hetu (Reason) is of two kinds — Anvayin (Positive) and Vyatirekin (Negative). The faulty Reasons are unfit to establish the Sadhya by inference. They are five in number, namely - Vyabhicārin (Trans- gressing), Viruddha (Adverse), Asiddha (Not-esta- blished), Satpratipaksa (Having counter-Reason) and Bādhita (Contradicted). 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Thus the inference of Svārtha (For one's own ) has been described in detail. 
+[[२१]]
+परार्थानुमाने विशेषमाह - न्यायेति ।  
+वक्ष्यमाणं प्रतिज्ञादिपञ्चकं न्यायः ।  
+तज्-जन्यः परामर्शः परार्थानुमितिं जनयति ।  
+न्यायावयवानाह - प्रतिज्ञादीति ।
 
-न्यायजन्यः परामर्शः परार्थानुमितेः कृते । न्यायोऽवयववाक्यानि प्रतिज्ञादीनि पञ्च तु' ॥ ७ ॥ 
+प्रतिज्ञा, हेतुः, उदाहरणम्, उपनयः, निगमनमिति पञ्चावयवाः ।
+७
+</details>
 
-पच च-C. 
-
-अनुमान-निरूपणम् 
-
-२१ 
-
-परार्थानुमाने विशेषमाह - न्यायेति । वक्ष्यमाणं प्रतिज्ञादिपञ्चकं न्यायः । तज्जन्यः परामर्शः परार्थानुमितिं जनयति । न्यायावयवानाह - प्रतिज्ञादीति । 
-
-निगमनमिति पञ्चावयवाः । 
-
-प्रतिज्ञा, हेतुः, उदाहरणम्, 
-
-उपनयः, 
-
-७ 
+<details><summary>English</summary>
 
 7. In the case of Parārthānumāna ( Inference for other's sake), the Parāmarśa (the consideration of Reason) is produced by the Nyāya (syllogism). The group of the five argumentative sentences namely- Pratijña (Assertion) etc. is called Nyāya. 
+</details>
 
-प्रतिज्ञा साध्यनिर्देशो हेतुस्तद्वचनं मतम् । व्याप्त्युक्तिपूर्वदृष्टान्तवागुदाहरणं भवेत् ॥ ८ ॥ 
+<details><summary>मूलम्</summary>
+
+न्यायजन्यः परामर्शः परार्थानुमितेः कृते ।  
+न्यायोऽवयववाक्यानि प्रतिज्ञादीनि पञ्च च ॥ २.७॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**प्रतिज्ञा** साध्यनिर्देशो  
+**हेतुस्** तद्वचनं मतम् ।  
+व्याप्त्य्-उक्ति-पूर्व-दृष्टान्त-  
+वाग् **उदाहरणं** भवेत् ॥ २.८॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 तत्र प्रतिज्ञा नाम साध्यनिर्देशः ; यथा वह्निमानिति । हेतुर्नाम हेतूक्तिः ; यथा धूमादिति । उदाहरणं नाम व्याप्तिनिर्देशपूर्वकं दृष्टान्तस्य वचनम् ; यथा यो यो धूमवान् स सोऽग्निमान् यथा महानस इति । 
 
-८ 
+८
+</details>
+
+<details><summary>English</summary>
 
 8. Pratijñā is mentioning the Sādhya. Hetu is mentioning the Reason. Udaharana is mentioning the example with the statement of Vyapti (concomitance). 
+</details>
 
-व्याप्यस्य पक्षवृत्तित्वबोधश्चोपनयो मतः । उपसंहारवचनं भवेन्निगमनं पुनः ॥ ९ ॥ 
+
+<details><summary>मूलम्</summary>
+
+प्रतिज्ञा साध्यनिर्देशो हेतुस्तद्वचनं मतम् ।  
+व्याप्त्युक्तिपूर्वदृष्टान्तवागुदाहरणं भवेत् ॥ २.८॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(धूमवद्-)+++व्याप्यस्य पक्ष-वृत्तित्व-  
+बोधश् **चोपनयो** मतः ।  
+उपसंहार-वचनं  
+भवेन् **निगमनं** पुनः ॥ २.९॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 व्याप्यस्य हेतोः पक्षे पर्वतादौ वर्तमानत्वबोधनमुपनयः । यथा-तथा चायं धूमवानिति । पक्षे साध्यस्योपसंहारवचनं निगमनम् । यथा-तस्मादग्नि- मानिति । इदं च पञ्चावयववाक्योपन्यसनं नैयायिकरीत्या । वेदान्तसिद्धान्तरीत्या तु नैवावयवसंख्यानियमः । मृदुमध्यमोत्तमधियां संग्रहविस्तराभ्यां यावदपेक्षं प्रयोग इति भाव्यम् । 
 
+</details>
+
+<details><summary>English</summary>
+
 9. Upanaya is the statement of Vyāpya (Middle term) as existing in Paksa (the subject). Nigamana is the statement concluding the syllogism. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्याप्यस्य पक्षवृत्तित्वबोधश्चोपनयो मतः ।  
+उपसंहारवचनं भवेन्निगमनं पुनः ॥ २.९॥
+</details>
+
+
+
+
 
 इति वेदान्तका रिकावल्यामनुमाननिरूपणं द्वितीयं प्रकरणम् 
