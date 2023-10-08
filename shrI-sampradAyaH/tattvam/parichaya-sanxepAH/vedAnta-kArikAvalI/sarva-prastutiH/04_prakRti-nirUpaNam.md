@@ -485,7 +485,7 @@ title = "०४ प्रकृति-निरूपणम्"
 भूतानाम् एव सूक्ष्मैक-  
 पूर्वावस्था-विशेष-कृत् ।  
 द्रव्यं **तन्-मात्रम्** इत्य् आहुः  
-पञ्चधा भूत-पञ्चभिः ॥ ४.१५॥
+पञ्चधा भूत-पञ्चभिः … ॥ ४.१५॥
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -512,10 +512,23 @@ title = "०४ प्रकृति-निरूपणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्-मात्र--पञ्चकं शब्दाद्य्-  
+… तन्-मात्र--पञ्चकं शब्दाद्य्-  
 आश्रयत्वेन सम्मतम् ।  
 भूतानां स्याद् उपादानं,  
-शब्द-तन्मात्रम् आदिमम् ॥ ४.१६॥
+शब्द-तन्मात्रम् आदिमम् … ॥ ४.१६॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रत्येकतन्मात्रलक्षणं तु आकाशादिकं भूतपदस्थाने निवेश्योहनीयम् । तानि च तन्मात्राणि पञ्चधा-  
+शब्दतन्मात्र--स्पर्शतन्मात्र--रूपतन्मात्र--रसतन्मात्र--गन्धतन्मात्राणीति ।  
+भूतपञ्चभिः आकाशवायुतेजोऽबवनिरूपैः पञ्चभिर्भूतैः सह [[४०]] तन्मात्राणि पञ्चधेति पूर्वेणान्वयः ।  
+तन्मात्रलक्षणादिकमुक्त्वा तत्स्वरूपमाह - तन्मात्रेति । शब्दाद्यश्रयत्वेनेति ; अनभिव्यक्तविशेषसूक्ष्मरूपशब्दाद्याश्रयत्वे- नेत्यर्थः । एतेन शब्दतन्मात्रं स्पर्शतन्मात्रमित्यादिव्यवहारबीजमुक्तम् । तच्च तन्मात्रपञ्चकं तत्तद्भूतानामुपादानं भवति । तत्रादिमं शब्दतन्मात्रम् । १६
+</details>
+
+<details><summary>English</summary>
+
+16 & 17. The five subtle elements are held to be the abodes of the respective qualities. Sound and others and are the inherent causes of the gross elements. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -527,154 +540,342 @@ title = "०४ प्रकृति-निरूपणम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्पर्श-तन्मात्रकं रूप-  
+… स्पर्श-तन्मात्रकं रूप-  
 रस-तन्मात्रके अपि ।  
-गन्ध-तन्मात्रम् एतत् स्यात्  
-खानिल-ज्योतिर्-अब्-भुवः ॥ ४.१७॥
+गन्ध-तन्मात्रम् एतत् +++(→तत्-तद्-भूतोपादानं)+++ स्यात्,  
+खानिल-ज्योतिर्-अब्-भुवः … ॥ ४.१७॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तन्मात्राणि नामतो निर्दिशति -स्पर्शेति । भूतानि नामतो निर्दिशति--- खेति । पञ्चभूतानीत्युत्तरेणान्वयः । १७ 
+</details>
+
+<details><summary>English</summary>
+
+The subtle elements are those of sound, touch, colour, taste and smell. The gross elements are Akasa, air, fire, water and earth. 
 </details>
 
 <details><summary>मूलम्</summary>
 
 स्पर्शतन्मात्रकं रूपरसतन्मात्रके अपि ।  
 गन्धतन्मात्रमेतत्स्यात् खानिलज्योतिरब्भुवः ॥ ४.१७॥
+
+विशेषवत् B.
+
+\* गन्घतन्मात्रमेतेभ्यः B.
 </details>
 
 
-प्रत्येकतन्मात्रलक्षणं तु आकाशादिकं भूतपदस्थाने निवेश्योहनीयम् । तानि च तन्मात्राणि पञ्चधा-शब्दतन्मात्रस्पर्शतन्मात्ररूपतन्मात्ररसतन्मात्र- गन्धतन्मात्राणीति । भूतपञ्चभिः आकाशवायुतेजोऽबवनिरूपैः पञ्चभिर्भूतैः सह 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विशेषवत् B. 
+… पञ्च भूतानि, तन्मात्र-  
+स्वरूपं तु निरूप्यते ।  
+तामसाहङ्कृति-खयोर्  
+मध्यावस्था-युग् आदिमम्+++(→शब्द-तन्मात्रम्)+++ … ॥ ४.१८॥
+</details>
 
-* गन्घतन्मात्रमेतेभ्यः B. 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-४० 
+तन्मात्रस्वरूपमिति ; शब्दादितन्मात्राणां स्व-रूपम् उच्यत इत्यर्थः ।  
+तामसाहंकाराकाशयोर् या मध्यमावस्था,  
+तद्-युक् आदिमं शब्द-तन्मात्रम् इत्यर्थः । १८ 
+</details>
 
- 
+<details><summary>English</summary>
 
-तन्मात्राणि पञ्चधेति पूर्वेणान्वयः । तन्मात्रलक्षणादिकमुक्त्वा तत्स्वरूपमाह - तन्मात्रेति । शब्दाद्यश्रयत्वेनेति ; अनभिव्यक्तविशेषसूक्ष्मरूपशब्दाद्याश्रयत्वे- नेत्यर्थः । एतेन शब्दतन्मात्रं स्पर्शतन्मात्रमित्यादिव्यवहारबीजमुक्तम् । तच्च तन्मात्रपञ्चकं तत्तद्भूतानामुपादानं भवति । तत्रादिमं शब्दतन्मात्रम् । १६ 
-
-तन्मात्राणि नामतो निर्दिशति -स्पर्शेति । भूतानि नामतो निर्दिशति--- खेति । पञ्चभूतानीत्युत्तरेणान्वयः । 
-
-१७ 
-
-16 & 17. The five subtle elements are held to be the abodes of the respective qualities sound and others and are the inherent causes of the gross elements. The subtle elements are those of sound, touch, colour, taste and smell. The gross elements are Akasa, air, fire, water and earth. 
-
-पञ्च भूतानि तन्मात्रस्वरूपं तु निरूप्यते । तामसाहंकृतिखयोर्मध्यावस्थायुगादिमम् ॥ १८ ॥ 
-
-| तन्मात्रस्वरूपमिति ; शब्दादितन्मात्राणां स्वरूपमुच्यत इत्यर्थः । तामसाहंकाराकाशयोर्या मध्यमावस्था, तद्युक् आदिमं शब्दतन्मात्रमित्यर्थः । १८ 
 
 18. The essential nature of the subtle elements is described as following. The first subtle element is in the stage intermediate between Tamasahaṁkāra and Akasa. 
+</details>
 
-शब्दतन्मात्रमस्माच्च वियदुत्पद्यते तथा । 
 
-खमेव सूर्यस्पन्देन दिगिति व्यपदिश्यते ॥ १९ ॥ 
+<details><summary>मूलम्</summary>
+
+पञ्चभूतानि तन्मात्रस्वरूपं तु निरूप्यते ।  
+तामसाहङ्कृतिखयोर्मध्यावस्थायुगादिमम् ॥ ४.१८॥
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शब्दतन्मात्रम्, अस्माच् च  
+वियद् उत्पद्यते तथा ।  
+खम् एव सूर्य-स्पन्देन  
+दिग् इति व्यपदिश्यते ॥ ४.१९॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 आकाशोत्पत्तिमाह-- अस्माच्च ; शब्दतन्मात्राच्च । वियदुत्पद्यत इति ; अनेनाकाशस्य नित्यत्वादुत्पत्यादिराहित्यवादिनो नैयायिकाः प्रत्युक्ताः । प्रत्यक्षश्चायमाकाशः, उन्मीलितेन चक्षुषा गृह्यमाणत्वात् । खमेवेति ; आकाश 
 
- 
-
-४१ 
+[[४१]] 
 
 एव सूर्यपरिस्पन्देनोपाधिना प्राच्यादिदिग्व्यवहारभागित्यर्थः । एतेन दिशो द्रव्यान्तरत्ववादिनो नैयायिकाः प्रत्युक्ताः । 
 
 १९ 
+</details>
+
+<details><summary>English</summary>
 
 19. It is the subtle element of sound from which is produced the sky (Akāsa). The sky itself is called Dik (directions) due to the movement of the sun. 
+</details>
 
-द्रव्यं तदाकाशवाय्वोर्मध्यावस्थासुसंयुतम् । स्पर्शतन्मात्रमस्माच्च वायुरुत्पद्यते क्रमात् ॥ २० ॥ 
+<details><summary>मूलम्</summary>
+
+शब्दतन्मात्रमस्माच्च वियदुत्पद्यते तथा ।  
+खमेव सूर्यस्पन्देन दिगिति व्यपदिश्यते ॥ ४.१९॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्रव्यं तद् आकाश-वाय्वोर्  
+मध्यावस्था-सुसंयुतम् ।  
+**स्पर्श-तन्मात्रम्**, अस्माच् च  
+वायुर् उत्पद्यते क्रमात् ॥ ४.२०॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 स्पर्शतन्मात्रं लक्षयति-— द्रव्यमिति । आकाशादनन्तरं वायोः पूर्वं च या अवस्था, तद्युतं द्रव्यं स्पर्शतन्मात्रमुच्यते । अस्माच्च ; स्पर्शतन्मात्रात् । वायुश्च स्पार्शनप्रत्यक्षविषयः । 
 
 २० 
+</details>
 
-20. The subtle element of touch is in the stage between the sky (Akās/a) and the air. duced the air. 
+<details><summary>English</summary>
 
-From this is pro- 
+20. The subtle element of touch is in the stage between the sky (Akās/a) and the air. From this is produced the air. 
+</details>
 
-मध्यावस्थायुतं वायुतेजसोर्द्रव्यमुच्यते । रूपतन्मात्रमित्यस्मात्तेज उत्पद्यते क्रमात् ॥ २१ ॥ 
+
+<details><summary>मूलम्</summary>
+
+द्रव्यं तदाकाशवाय्वोर्मध्यावस्थासुसंयुतम् ।  
+स्पर्शतन्मात्रमस्माच्च वायुरुत्पद्यते क्रमात् ॥ ४.२०॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्यावस्था-युतं वायु-  
+तेजसोर् द्रव्यम् उच्यते ।  
+**रूप-तन्मात्रम्** इत्य्, अस्मात्  
+**तेज** उत्पद्यते क्रमात् ॥ ४.२१॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 रूपतन्मात्रं लक्षयति—मध्येति । वायुतेजसोर्मध्यावस्थायुतं द्रव्यं रूप- 
 
 तन्मात्रमित्यर्थः । अस्मात् तेज उत्पद्यते । 
 
 २१ 
+</details>
+
+<details><summary>English</summary>
 
 21. The subtle element of colour is in the stage between air and fire. From this is produced fire. 
+</details>
 
-मध्यावस्थायुतं तेजःपयसोर्द्रव्यमुच्यते । रसतन्मात्रमित्यस्मात्सलिलं खलु जायते ॥ २२ ॥ 
+
+<details><summary>मूलम्</summary>
+
+मध्यावस्थायुतं वायुतेजसोर्द्रव्यमुच्यते ।  
+रूपतन्मात्रमित्यस्मात्तेज उत्पद्यते क्रमात् ॥ ४.२१॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्यावस्था-युतं तेजः-  
+पयसोर् द्रव्यम् उच्यते ।  
+**रस-तन्मात्रम्** इत्य् अस्मात्  
+**सलिलं** खलु जायते ॥ ४.२२॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 रसतन्मात्रं लक्षयति – मध्येति । तेजःपयसोर्मध्यावस्थायुतं द्रव्यं 
-
 रसतन्मात्रमित्यर्थः । अस्मात् पय उत्पद्यते । 
 
 २२ 
+</details>
 
-22. The subtle element of taste is in the stage From this water is produced. 
+<details><summary>English</summary>
 
-between fire and water. 
 
-6 
+22. The subtle element of taste is in the stage between fire and water. From this water is produced. 
 
-४२ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मध्यावस्थायुतं तेजःपयसोर्द्रव्यमुच्यते ।  
+रसतन्मात्रमित्यस्मात्सलिलं खलु जायते ॥ ४.२२॥
+</details>
+
+
+[[४२]] 
 
  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मध्यावस्थायुतं वारिपृथिव्योर्द्रव्यमुच्यते । गन्धतन्मात्रमित्यस्मात्पृथिवी समुदेत्यसौ ॥ २३ ॥ 
+मध्यावस्था-युतं वारि-  
+पृथिव्योर् द्रव्यम् उच्यते ।  
+**गन्ध-तन्मात्रम्** इत्य्, अस्मात्  
+**पृथिवी** समुदेत्यसौ ॥ ४.२३॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 गन्धतन्मात्रं लक्षयति—मध्येति । वारिपृथिव्योर्मध्यावस्थायुतं द्रव्यं गन्धतन्मात्रम् । अस्मात् पृथिव्युत्पद्यते । 
 
 २३ 
 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 23. The subtle element of smell is in the stage 
-
 between water and earth. 
+From this is produced the earth.
+</details>
 
-earth. 
 
-From this is produced the 
+<details><summary>मूलम्</summary>
 
-आद्यं शब्दवदन्यच्च शब्दस्पर्शवदुच्यते । रूपशब्दस्पर्शवत्स्यात्तृतीयं च तुरीयकम् ॥ २४ ॥ रूपशब्दस्पर्शरसयुक्तं गन्धाधिकं परम् । तन्मात्रपञ्चकं भूतपञ्चकं चैत्रमीरितम् ॥ २५ ॥ 
+मध्यावस्थायुतं वारिपृथिव्योर्द्रव्यमुच्यते ।  
+गन्धतन्मात्रमित्यस्मात्पृथिवी समुदेत्यसौ ॥ ४.२३॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आद्यं+++(→आकाशः)+++ शब्दवद्, अन्यच्+++(→वायुश्)+++ च  
+शब्द-स्पर्शवद् उच्यते ।  
+रूप-शब्द-स्पर्शवत् स्यात्  
+तृतीयञ्+++(→अग्निः)+++ च, तुरीयकम्+++(→आपः)+++ …॥ ४.२४॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 आद्यमिति ; शब्दतन्मात्रमित्यर्थः । शब्दवदिति ; अविशिष्टशब्दवदि- त्यर्थः । अन्यत् ; स्पर्शतन्मात्रमित्यर्थः । 
 
 २४ 
 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आद्यं शब्दवदन्यच्च शब्दस्पर्शवदुच्यते ।  
+रूपशब्दस्पर्शवत्स्यात्तृतीयञ्च तुरीयकम् ॥ ४.२४॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… रूप-शब्द-स्पर्श-रस-  
+युक्तं, गन्धाधिकं परम्+++(→पृठिवी)+++ ।  
+तन्मात्र-पञ्चकं भूत-  
+पञ्चकञ् चैवम् +++(क्रमश)+++ ईरितम् ॥ ४.२५॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 परम्; पृथिवीतन्मात्रमित्यर्थः । अनेन भूतानामपि एकद्वित्रादिगुणयोग उक्तप्रायः । 
 
 २५ 
 
-24 & 25. The first subtle element has sound; the next sound and touch; the third colour, sound and touth; the fourth colour, sound, touch and taste and the last has smell in addition (to these). The five Bhutas (gross elements) also are said to be of similar 
+</details>
 
-nature. 
+<details><summary>English</summary>
 
-एवं प्रकृतिरव्यक्तमहदादिकमाद्भिदाम् । चतुर्विंशतिसंख्यानां' प्रापिता सुनिरूपिता ॥ २६ ॥ 
+24 & 25. The first subtle element has sound; the next sound and touch; the third colour, sound and touth; the fourth colour, sound, touch and taste and the last has smell in addition (to these). The five Bhutas (gross elements) also are said to be of similar nature. 
 
-संमेदं B. 
+</details>
 
- 
 
-४३ 
+<details><summary>मूलम्</summary>
+
+रूपशब्दस्पर्शरसयुक्तं गन्धाधिकं परम् ।  
+तन्मात्रपञ्चकं भूतपञ्चकञ्चैवमीरितम् ॥ ४.२५॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं प्रकृतिर् अव्यक्त-  
+महदादि-क्रमाद् भिदाम् ।  
+चतुर्-विंशति-सङ्ख्यानां  
+प्रापिता सु-निरूपिता ॥ ४.२६॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[४३]] 
 
 चतुर्विंशतीति ; प्रकृतिमहदहंकारास्त्रयः; एकादशेन्द्रियाणि ; तन्मात्र- 
 
 पश्ञ्चकं, भूतपञ्चकं चेति चतुर्विंशतिः । 
 
 २६ 
+</details>
 
-26. Thus Prakrti has been described with its twenty-four manifestations as Avyakta, Mahat and so 
+<details><summary>English</summary>
 
-on. 
 
-भूतानि भगवान्सृष्ट्वा द्वेषैकैकं विभक्तवान् । 
+26. Thus Prakrti has been described with its twenty-four manifestations as Avyakta, Mahat and so on. 
+</details>
 
-एकमेकं विधायांशं चतुर्धान्यं विभक्तवान् ॥ २७ ॥ 
+<details><summary>मूलम्</summary>
 
-अनन्तरं पञ्चीकरणमाह—भूतानीति । पञ्च भूतानीत्यर्थः । एकैकम् ; आकाशादि प्रत्येकम् । एकमिति ; द्वयोरन्यतरं प्रथमं भागम् । एकम् ; अविभक्तम् । अन्यमंशम् ; द्वितीयं भागम् । चतुर्धा विभक्तवान् । 
+एवं प्रकृतिरव्यक्तमहदादिक्रमाद्भिदाम् ।  
+चतुर्विंशतिसङ्ख्यानां प्रापिता सुनिरूपिता ॥ ४.२६॥
+
+संभेदं B.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(पञ्चीकरणम्…)+++   
+भूतानि भगवान् सृष्ट्वा  
+द्वेधैकैकं विभक्तवान् ।  
+एकम् एकं विधायांशञ्  
+चतुर्धान्यं विभक्तवान् ॥ ४.२७॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनन्तरं पञ्चीकरणम् आह—भूतानीति । पञ्च भूतानीत्यर्थः । एकैकम् ; आकाशादि प्रत्येकम् । एकमिति ; द्वयोरन्यतरं प्रथमं भागम् । एकम् ; अविभक्तम् । अन्यमंशम् ; द्वितीयं भागम् । चतुर्धा विभक्तवान् । 
 
 २७ 
 
+</details>
+
+<details><summary>English</summary>
+
 27. After creating the elements, the Lord divided each of them into two equal parts. Keeping one of the parts unsplit, He split the other into four equal parts. 
 
-चतुर्धा रचितानंशांस्तत्तदंशे युनक्ति सः । चतुर्थांशयुतस्त्रांशैः पञ्च भूतान्यजीजनत् ॥ २८ ॥ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भूतानि भगवान् सृष्ट्वा द्वेधैकैकं विभक्तवान् ।  
+एकमेकं विधायांशञ्चतुर्धान्यं विभक्तवान् ॥ ४.२७॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चतुर्धा रचितान् अंशांस्  
+तत्-तद्-अंशे युनक्ति सः ।  
+चतुर्थांश-युत-स्वांशैः  
+**पञ्च-भूतान्य् अजीजनत्** ॥ ४.२८॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अयमत्राशयः - 
 
@@ -695,30 +896,80 @@ on.
 ण्यैदंपर्यं त्रिवृत्त्वश्रुतिरधिकगिरामक्षमैका निरोद्धुम् ॥ " 
 
 २८ 
+</details>
 
-28. Then He took the part which was unsplit and had it combined with the other half formed by the combination of the one eighth parts of the other four elements. Thus He created the five gross elements. 
+<details><summary>English</summary>
 
-अन्यभूतांशसत्त्वेऽपि स्वांशभूयस्त्वतः कृतः । पृथ्व्यप्तेजोऽनिलव्योमव्यपदेशो जगत्यभूत् ॥ २९ ॥ 
+28. Then He took the part which was unsplit and had it combined with the other half formed by the combination of the one eighth parts of the other four elements. Thus He created the five gross elements.
+</details>
+
+<details><summary>मूलम्</summary>
+
+चतुर्धा रचितानंशांस्तत्तदंशे युनक्ति सः ।  
+चतुर्थांशयुतस्वांशैः पञ्चभूतान्यजीजनत् ॥ ४.२८॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्यभूतांश-सत्त्वेऽपि  
+स्वांश-भूयस्त्वतः कृतः ।  
+पृथ्व्य्-अप्-तेजो-ऽनिल-व्योम-  
+**व्यपदेशो** जगत्य् **अभूत्** ॥ ४.२९॥
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 यदि सर्वत्र भूतेषु सर्वभूतानामंशाः सन्ति, तर्हीतरव्यावृत्ततया पृथि- व्यादिव्यवहारः कथमित्याशङ्कय परिहरति — अन्येति । यत्र यस्य भूतस्यांशो भूयान्, तत्र तद्भूतत्वेन व्यवहारः । यथा पृथिव्या आद्यमर्धे पृथिव्यंशः । अन्यस्मिन्नर्धे भूतान्तराणामष्टमांशा इति पृथिव्यंशस्य भूयस्त्वात् तत्त्वेन व्यवहारः । 
 
 २९ 
+</details>
 
-29. Each gross element is composed of its own major portion, though each has parts of other elements. 
+<details><summary>English</summary>
 
- 
+[[४५]]
 
-४५ 
+29. Each gross element is composed of its own major portion, though each has parts of other elements. Hence the five elements have the respective names as earth, water, fire, air and Ākāsa. 
+</details>
 
-Hence the five elements have the respective names as earth, water, fire, air and Ākāsa. 
 
-पञ्चीकरणमेतादृगुपलक्षयति श्रुतिः । भूतैर्महदहंकृत्योः सप्तीकृतिरुपस्कृता ॥ ३० ॥ 
+<details><summary>मूलम्</summary>
+
+अन्यभूतांशसत्त्वेऽपि स्वांशभूयस्त्वतः कृतः ।  
+पृथ्व्यप्तेजोऽनिलव्योमव्यपदेशो जगत्यभूत् ॥ ४.२९॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्चीकरणम् एतादृग्  
+उपलक्षयति श्रुतिः ।  
+भूतैर् महद्-अहङ्-कृत्योः  
+सप्ती-कृतिर् उपस्कृता ॥ ४.३०॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 नन्वेतत् पञ्चीकरणं श्रुतिविरुद्धम् । श्रुतौ हि, " तत्तजोऽसृजत " इत्यादिभिर्वाक्यैः तेजोऽबन्नसृष्टिमुक्त्वा तेषां त्रिवृत्करणमेवोच्यत इत्याशङ्कय समाधत्ते—पञ्चीकरणमिति । श्रुतिः ; त्रिवृत्करणश्रुतिः । एतादृक् पञ्चीकरणमुप- लक्षयति । त्रिवृत्करणवचनं पञ्चीकरणस्याप्युपलक्षकमित्यर्थः । न केवलं पञ्ची- करणस्य, सप्तीकरणस्याप्युपलक्षकमित्याह - भूतैरिति । त्रिवृत्करणश्रुतिः, पञ्च- भूतानि महान् अहंकारः इति सप्तानां पदार्थानां मिथो मिश्रीकरणेन सृष्टेरप्यु- पलक्षणमित्यर्थः । 
 
-३० 
+३०
+</details>
+
+<details><summary>English</summary>
 
 30. The Vedic passage purports also this Pañicī- karana (Five-fold combination). When Mahat and Ahamkara also are taken into consideration for the process, then is formed Saptīkarana (Seven-fold combi- nation). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पञ्चीकरणमेतादृगुपलक्षयति श्रुतिः ।  
+भूतैर्महदहङ्कृत्योः सप्तीकृतिरुपस्कृता ॥ ४.३०॥
+</details>
+
+
+
+
 
 भूतपञ्चकमव्यक्तमेते महदहंकृती । 
 
