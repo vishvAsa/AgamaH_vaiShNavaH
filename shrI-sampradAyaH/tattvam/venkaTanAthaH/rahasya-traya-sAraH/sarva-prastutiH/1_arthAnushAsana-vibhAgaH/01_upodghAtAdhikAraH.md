@@ -689,14 +689,172 @@ help him realise that [^f34] “the soul is neither God nor man nor beast nor tr
 अदुक्कु अनुरूपमान पुरुषार्थतदुपायङ्गळिले अन्वयिक्कलाम्बडि विरगुसॆय्दु,
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-They enable him to understand that the soul is different from the body and adopt the proper means to make him pursue the goal or aim suited to his essential nature and to follow the path that would lead to it. They create in him qualities and modes of conduct found in men endowed with the splendour of wisdom and not in men who are so absorbed in their bodies as to forget their soul and they bring him to a position in which he is capable of distinguishing between what should be rejected and what is worthy of adoption, Now in the parable, on seeing for themselves the prince's innate fitness, the transformation wrought in him by some worthy men and his intelligence, some teachers being directed by the Supreme Master who is all compassion and being themselves highly compassionate appear before him and reveal his true parentage to him as also what is highly desirable to one in his station and the means of attaining it. It has been said, "God's love, good deeds done by chance, the gracious glance of God, freedom from hate, willingness to learn and the conversation of good men - these are six causes that lead to the acquisition of an ācārya." Those good men in the parable would strive in every possible way to bring about a longing for re-union in the mind of the prince and the king. So also with the Jīva  . His gurus reveal to the Jīva the intimate relation existing between him and Nārāyaṇa , the Lord of Lakṣmī , who rules with His sceptre the earth surrounded by the [^f35] turbulent ocean and the world of Vaikuṇṭha   without even the least exception. Do not the śāstras say, "The soul is neither God nor men, neither beast nor tree. Its essential nature is knowledge and bliss and it is entirely dependent on the Supreme Being and exists solely for His purposes (Śeṣa)" and again, "The souls are indeed the servants by nature of the Supreme[^f36] Being ?" These gurus try earnestly to help the Jīva   attain the Lord and feel that his attainment of the glory of mokṣa  would give them as much delight as the sovereignty of Vaikuṇṭha   (Nitya vibhūti) and of the whole earth (līlā vibhūti). They have as much love to him as the cow to its calf on the day of its birth when, out of loving kindness, it gives it milk. So with the help of words, neither excessive nor defective, they desire to remove his ignorance, his doubts, and his erroneous notions. As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (sentient being) acit (non-sentient matter) and Iśvara and their essential character etc.", they (the gurus ) teach him the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him, of their respective character and of their mutual relations to one another, of enjoyment or experience in saṁsāra (including svarga) and of release from that bondage and of the respective means for attaining them (one to be rejected and the other to be adopted), of the routes by which the soul travels to its destined abodes and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
+उडम्बु +++(आत्मभावत्तै)+++ तिन्नार् पडिय् अण्ड्रिक्क्+++(=इतर)+++ ए  
+ऒरु वॆळिच्+++(=प्रभा)+++-चिऱप्प्+++(=विशेष)+++-उडैयार्क्कु वरुम्  
+गुण-वृत्तङ्गळैय् उण्डाक्कि
+</details>
+
+<details><summary>English</summary>
+
+They enable him to understand that the soul is different from the body and adopt the proper means to make him pursue the goal or aim suited to his essential nature and to follow the path that would lead to it. They create in him qualities and modes of conduct found in men endowed with the splendour of wisdom and not in men who are so absorbed in their bodies as to forget their soul 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उडम्बु तिन्नार् पडियण्ड्रिक्के ऒरु वॆळिच्चिऱप्पुडैयार्क्कु वरुम् गुणवृत्तङ्गळै युण्डाक्कि
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हेयोपादेय-विभाग-क्षमन् उम् आक्कि निऱुत्तिनव् अळविले+++(=माने)+++,  
+इवन्-उडैय अडिय्+++(=मूल)+++-उडैमैयैय् उम्,  
+सिल धार्मिकर् अडिय् आग वन्द योग्यतैयैय् उम्,  
+अळव्-उडैमैयैय् उम् नेर्-आगक्-कण्डु  
+</details>
+
+<details><summary>English</summary>
+
+and they bring him to a position in which he is capable of distinguishing between what should be rejected and what is worthy of adoption, 
+
+Now in the parable, on seeing for themselves the prince's innate fitness, the transformation wrought in him by some worthy men and his intelligence,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हेयोपादेयविभागक्षमनुमाक्कि निऱुत्तिनवळविले, इवनुडैय अडियुडैमैयैयुम् सिल धार्मिकरडियाग वन्द योग्यतैयैयुम् अळवुडै मैयैयुम् नेरागक्कण्डु  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-कारुणिकन् आन परम-शेषियाल् ए प्रेरितर् आय्त्  
+ताङ्गळ् उम् कारुणिकोत्तमर् आय् इरुप्पार् सिल देशिकर्  
+
+> “ईश्वरस्य च सौहार्दं  
+यद्-ऋच्छा-सुकृतं तथा ।  
+विष्णोः कटाक्षम्, अद्वेषम्,  
+आभिमुख्यं च सात्विकैः ॥  
+संभाषणं षड् एतानि  
+ह्य् आचार्य-प्राप्ति-हेतवः ।”  
+
+ऎन्गिऱप्पडिये नेर्-पट्टु,
+</details>
+
+<details><summary>English</summary>
+
+some teachers being directed by the Supreme Master who is all compassion  
+and being themselves highly compassionate  
+appear before him and reveal his true parentage to him  
+as also what is highly desirable to one in his station and the means of attaining it.  
+
+It has been said, "God's love, good deeds done by chance, the gracious glance of God, freedom from hate, willingness to learn and the conversation of good men - these are six causes that lead to the acquisition of an ācārya." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमकारुणिकनान परमशेषियाले प्रेरितराय्त् ताङ्गळुम् कारुणिकोत्तमरायिरुप्पार् सिल देशिकर् “ईश्वरस्य च सौहार्दं यदृच्छासुकृतं तथा । विष्णोः कटाक्षमद्वेषमाभिमुख्यं च सात्विकैः ॥ संभाषणं षडेतानि ह्याचार्यप्राप्तिहेतवः ।” ऎन्गिऱप्पडिये नेर्बट्टु,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्द राज-कुमारनुक्कुच् चिल राजान्तरङ्गर् नेर् पट्टुप् पिऱवियैय् उणर्त्ति+++(=अवगमय्य)+++
+</details>
+
+<details><summary>English</summary>
+
+(See previous section)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्द राजकुमारनुक्कुच् चिल राजान्तरङ्गर् नेर् पट्टुप् पिऱवियैयुणर्त्ति
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मेल्-उळ्ळ प्रियतमङ्गळैय् उम्  
+हिततमङ्गळैय् उन् तॆळिवित्तु
+</details>
+
+<details><summary>English</summary>
+
+(See previous section)
+</details>
+
+<details><summary>मूलम्</summary>
+
+मेलुळ्ळ प्रियतमङ्गळैयुम् हिततमङ्गळैयुन्दॆळिवित्तु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऒरु विरगाल् एय् अन्द राजावुक्क् उम्  
+राजकुमारनुक्क् उम्  
+परस्पर-संश्लेषाकाङ्क्षैयैय् उत्तम्भिक्कुम् आप्-पोलेय्  
+</details>
+
+<details><summary>English</summary>
+
+Those good men in the parable would strive in every possible way to bring about a longing for re-union in the mind of the prince and the king. 
+
+So also with the Jīva  . 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऒरुविरगालेयन्द राजावुक्कुम् राजकुमारनुक्कुम् परस्परसंश्लेषाकाङ्क्षैयै युत्तम्भिक्कुमाप्पोलेय् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवनुक्कुम्  
+
+> “नायं देवो न मर्त्यो वा  
+न तिर्यक् स्थावरोपि वा ।  
+ज्ञानानन्दमयस् त्वात्मा  
+शेषो हि परमात्मनः” 
+
+ऎण्ड्रुम् 
+
+> “दासभूतास् स्वतस् सर्वे  
+ह्यात्मानः परमात्मनः” 
+
+ऎण्ड्रुम् प्रमाणङ्गळ् सॊल्लुगिऱप् पडिये
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवनुक्कुम्  
+“नायं देवो न मर्त्यो वा न तिर्यक्स्थावरोपि वा । ज्ञानानन्दमयस्त्वात्मा शेषो हि परमात्मनः” ऎण्ड्रुम् “दासभूतास्स्वतस्सर्वे ह्यात्मानः परमात्मनः” ऎण्ड्रुम् प्रमाणङ्गळ् सॊल्लुगिऱप्पडिये
+</details>
+
+
+<details><summary>English</summary>
+
+Do not the śāstras say, "The soul is neither God nor men, neither beast nor tree. Its essential nature is knowledge and bliss and it is entirely dependent on the Supreme Being and exists solely for His purposes (Śeṣa)" and again, "The souls are indeed the servants by nature of the Supreme[^f36] Being ?" 
+
+
+[^f36]: Mantrarajapadastotram
+</details>
+
+
+His gurus reveal to the Jīva the intimate relation existing between him and Nārāyaṇa , the Lord of Lakṣmī , who rules with His sceptre the earth surrounded by the [^f35] turbulent ocean and the world of Vaikuṇṭha   without even the least exception. 
+
+These gurus try earnestly to help the Jīva   attain the Lord and feel that his attainment of the glory of mokṣa  would give them as much delight as the sovereignty of Vaikuṇṭha   (Nitya vibhūti) and of the whole earth (līlā vibhūti). They have as much love to him as the cow to its calf on the day of its birth when, out of loving kindness, it gives it milk. So with the help of words, neither excessive nor defective, they desire to remove his ignorance, his doubts, and his erroneous notions. As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (sentient being) acit (non-sentient matter) and Iśvara and their essential character etc.", they (the gurus ) teach him the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him, of their respective character and of their mutual relations to one another, of enjoyment or experience in saṁsāra (including svarga) and of release from that bondage and of the respective means for attaining them (one to be rejected and the other to be adopted), of the routes by which the soul travels to its destined abodes and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
 
 [^f34]: Viṣṇupurāṇa   : 2-13-98
 
 [^f35]: Nachiar Tirumozhi : 11 - 3
-
-[^f36]: Mantrarajapadastotram
 
 [^f37]: Aḷavandār: Stotram
 
