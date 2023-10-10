@@ -366,10 +366,6 @@ and was brought up in a hamlet by tribesmen who found him wandering about (helpl
 ऎडुत्तार् कैयिऱ्‌पिळ्ळैयाय् एदेनुमॊरु कुरुच्चियिले वळर,
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-तनक्किल्लाद शबरत्वादिजातिगळैयेऱिट्टुक् कॊण्डु “माताप्येका पिताप्येको मम तस्य च पक्षिणः । अहं मुनिभिरानीत-स्सचानीतो गवाशनैः ॥ अहं मुनीनां वचनं शृणोमि गवाशनानां स वचश्शृणोति । प्रत्यक्षमेतद्भव-ताऽपि दृष्टं संसर्गजा दोषगुणा भवन्ति ॥” ऎन्गिऱप्पडिये वेडुवच्चेरियिल् किळिबोलेयवर्गळ् पऴक्किवैत्त पासुरमे तनक्कुप् पासुरमाय्
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -418,8 +414,8 @@ The story is told of two parrots born of the same parents. One of them was broug
 
 वेडुवच्+++(=निषाद)+++ चेरियिल्+++(=कुग्रामे)+++  
 किळि+++(=शुक)+++-पोल् एय्  
-अवर्गळ् पऴक्कि वैत्त पासुरमे+++(=भाषां)+++  
-तनक्कुप् पासुरम् आय्
+अवर्गळ् पऴक्कि वैत्त पा-सुरम्+++(=भाषां)+++ ए  
+तनक्कुप् पा-सुरम् आय्
 </details>
 
 <details><summary>English</summary>
@@ -781,7 +777,7 @@ It has been said, "God's love, good deeds done by chance, the gracious glance of
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेल्-उळ्ळ प्रियतमङ्गळैय् उम्  
-हिततमङ्गळैय् उन् तॆळिवित्तु
+हिततमङ्गळैय् उन् **तॆळिवित्तु**
 </details>
 
 <details><summary>English</summary>
@@ -847,10 +843,103 @@ Do not the śāstras say, "The soul is neither God nor men, neither beast nor tr
 [^f36]: Mantrarajapadastotram
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पॊङ्ग्+++(=वृद्ध)+++-ओदं+++(=समुद्र)+++ सूऴ्न्द+++(=परिवृत्त)+++  
+भुवनिय् उम् विण्ण्+++(=ख)+++-उलग् उम्  
+अङ्ग्-आद्+++(=किञ्चिद्)+++ उञ् सोराम्+++(=क्षरणं विना)+++ एय् आळ्गिण्ड्र  
+सॆङ्-गोल्-उडैय श्रियः-पति नारायणन् उडने  
++++(सहोदरवत्)+++ कुडल्+++(=intestine)+++ तुवक्कैत्+++(=सम्बन्धम्)+++ **तॆळिवित्तु**
+</details>
+
+<details><summary>English</summary>
 
 His gurus reveal to the Jīva the intimate relation existing between him and Nārāyaṇa , the Lord of Lakṣmī , who rules with His sceptre the earth surrounded by the [^f35] turbulent ocean and the world of Vaikuṇṭha   without even the least exception. 
+</details>
 
-These gurus try earnestly to help the Jīva   attain the Lord and feel that his attainment of the glory of mokṣa  would give them as much delight as the sovereignty of Vaikuṇṭha   (Nitya vibhūti) and of the whole earth (līlā vibhūti). They have as much love to him as the cow to its calf on the day of its birth when, out of loving kindness, it gives it milk. So with the help of words, neither excessive nor defective, they desire to remove his ignorance, his doubts, and his erroneous notions. As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (sentient being) acit (non-sentient matter) and Iśvara and their essential character etc.", they (the gurus ) teach him the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him, of their respective character and of their mutual relations to one another, of enjoyment or experience in saṁsāra (including svarga) and of release from that bondage and of the respective means for attaining them (one to be rejected and the other to be adopted), of the routes by which the soul travels to its destined abodes and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
+
+<details><summary>मूलम्</summary>
+
+पॊङ्गोदञ् जूऴ्न्द पुवनियुम् विण्णुलगुमङ्गादुञ् जोरामे याळ्गिण्ड्र सॆङ्गोलुडैय श्रियःपति नारायणनुडने कुडल् तुवक्कैत् तॆळिवित्तु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवनुक्कु तत्-प्राप्त्य्-उपायङ्गळिल् ए मुयण्ड्रु+++(=उद्यम्य)+++,  
++++(कृपा-बाहुल्याद् आचार्याणाम् एवाधिक उद्यमः!!)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवनुक्कु तत्प्राप्त्युपायङ्गळिले मुयण्ड्रु,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवन् पॆऱुगिऱ+++(=लभ्यमान)+++ पेऱ्+++(=लाभ)+++  ए  
+तङ्गळुक्कुप् पॊन्न्+++(=स्वर्ण)+++-उलगैय् उम्, भुवनि मुऴुवदैय्+++(=पूर्णम्)+++ उम्  
+आळुगैय् आग **उगन्दु**+++(=तुष्ट्वा)+++
+</details>
+
+<details><summary>English</summary>
+
+These gurus try earnestly to help the Jīva   attain the Lord and feel that his attainment of the glory of mokṣa  would give them as much delight as the sovereignty of Vaikuṇṭha   (Nitya vibhūti) and of the whole earth (līlā vibhūti). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवन् पॆऱुगिऱ पेऱे तङ्गळुक्कुप् पॊन्नुलगैयुम् पुवनि मुऴुवदैयुमाळुगैयाग उगन्दु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्-अडिय्-आग अण्ड्र्-ईण्ड्र+++(→तद्दिने)+++  
+कण्ड्रुक्क्+++(=वत्सं)+++ इरङ्गिच्+++(=दयित्वा)+++ सुरक्कुम् धेनुवैप् पोलेय्  
+ 
+इद्-देशिकर् इव्व्-आत्मावुक्कु  
+अज्ञान-संशय-विपर्ययङ्गळ् तीर-वेण्डुम् ऎण्ड्रु  
+मिगुदि+++(=अधिक)+++-कुऱैव्+++(=न्यून)+++-अऱच्+++(=इतर)+++ सुरक्कुम् **पा+++(=पाट्)+++-सुरङ्गळैक् कॊण्डु** 
+</details>
+
+<details><summary>English</summary>
+
+They have as much love to him as the cow to its calf on the day of its birth when, out of loving kindness, it gives it milk. So with the help of words, neither excessive nor defective, they desire to remove his ignorance, his doubts, and his erroneous notions.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदडियाग अण्ड्रीण्ड्र कण्ड्रुक्किरङ्गिच् चुरक्कुम् धेनुवैप् पोलेय्  
+इद्देशिकरिव्वात्मावुक्कु अज्ञान संशयविपर्ययङ्गळ् तीरवेण्डुम् ऎण्ड्रु मिगुदि कुऱैवऱच् चुरक्कुम् पासुरङ्गळैक् कॊण्डु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(यामुन-स्तोत्ररत्नोक्त-विष्णुपुराणकृत्-पराशर-प्रशंसोक्त)+++  
+“तत्त्वेन यश् चिद्-अचिद्-ईश्वर--तत्-स्वभावे”त्य्-आदि-गळिऱ् ‌पडिये  
+ईश्वरन्-उडैयव् उम् ईशितव्यङ्गळ्-उडैयव् उम् स्व-रूप--स्व-भाव--संबन्धङ्गळ् उम्,  
+भोगापवर्गङ्गळ् उम्,  
+त्याज्योपादेयङ्गळ् आन इवट्रिन्-उडैयव्-उपायङ्गळ् उम्,  
+अवट्रिन् गति-प्रकारङ्गळ् उम्,  
+उक्तानुक्तङ्गळ् आन मोक्ष-विरोधिगळ् आगिऱ +++(अत्रानुक्ता)+++ इव्व्-अर्थङ्गळ्,  
+मुमुक्षुव् आन इव्व्-आत्मावुक्कु ज्ञातव्यङ्गळ्,  
+इव्व्-अर्थङ्गळ् ऎल्लाम्  
+अध्यात्म-विषय-शब्द-राशियिल् सार-तमम् आन रहस्य-त्रयत्तिल् ए  
+प्रतितन्त्र-सारोद्धारेण **संग्रहिक्कप्पडुगिऱदुगळ्**.
+</details>
+
+<details><summary>मूलम्</summary>
+
+“तत्त्वेन यश्चिदचिदीश्वर तत्स्वभावे” त्यादिगळिऱ्‌पडिये ईश्वरनुडैयवुम् ईशितव्यङ्गळुडैयवुम् स्वरूपस्वभावसंबन्धङ्गळुम्, भोगापवर्गङ्गळुम्, त्याज्योपादेयङ्गळान इवट्रिनुडैयवुबायङ्गळुम्, अवट्रिन् गतिप्रकारङ्गळुम्, उक्तानुक्तङ् गळान मोक्षविरोधिगळागिऱ इव्वर्थङ्गळ् मुमुक्षुवान इव्वात्मावुक्कु ज्ञातव्यङ्गळ्, इव्वर्थङ्गळॆल्लाम् अध्यात्मविषयशब्दराशियिल् सारतममान रहस्यत्रयत्तिले प्रतितन्त्रसारोद्धारेण संग्रहिक्कप्पडुगिऱदुगळ्. 
+</details>
+
+
+As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (sentient being) acit (non-sentient matter) and Iśvara and their essential character etc.", they (the gurus ) teach him the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him, of their respective character and of their mutual relations to one another, of enjoyment or experience in saṁsāra (including svarga) and of release from that bondage and of the respective means for attaining them (one to be rejected and the other to be adopted), of the routes by which the soul travels to its destined abodes and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
 
 [^f34]: Viṣṇupurāṇa   : 2-13-98
 
