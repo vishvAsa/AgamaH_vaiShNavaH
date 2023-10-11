@@ -688,5 +688,3 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 
 इति वेदान्तकारिकावल्यां नित्यविभूतिनिरूपणं षष्ठं प्रकरणम् 
-
-arody 
