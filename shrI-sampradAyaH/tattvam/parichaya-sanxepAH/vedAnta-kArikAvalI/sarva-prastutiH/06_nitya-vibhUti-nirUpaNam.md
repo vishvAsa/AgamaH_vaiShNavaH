@@ -271,7 +271,7 @@ But those of Muktas are brought about by His (Lord's) Saṁkalpa (Will).
 
 इति च ।
 
-66 
+" 
 
 
 ८ 
