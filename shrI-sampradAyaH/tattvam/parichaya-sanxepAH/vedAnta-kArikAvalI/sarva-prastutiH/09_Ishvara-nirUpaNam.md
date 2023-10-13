@@ -11,7 +11,7 @@ title = "०९ ईश्वर-निरूपणम्"
 **विश्वोपादान-कारणम्** ॥ ९.१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अथेश्वरो निरूप्यते - स्वेतरेति ।  
 स्वस्मादितराणि यान्य् अखिलानि वस्तूनि चेतनाचेतनात्मकानि  
@@ -63,7 +63,7 @@ title = "०९ ईश्वर-निरूपणम्"
 कुलालश् च नापृथक्-सिद्धि-संबन्धेन मृद्-विशिष्टः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 1. The characteristic of Isvara is that He is Sesin (the Lord) of all things other than Himself. He is the material cause of the universe by His nature of being qualified by the sentient and non-sentient elements in their subtle forms. 
 
@@ -87,7 +87,7 @@ title = "०९ ईश्वर-निरूपणम्"
 **सहकारि** च **कारणम्** ॥ ९.२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अथेश्वरस्य निमित्त-कारणताम् आह- संकल्पेति ।  
 सूक्ष्म-चिद्-अचिद्-विशिष्टत्व-रूपेणोपादानत्ववत्  
@@ -99,7 +99,7 @@ title = "०९ ईश्वर-निरूपणम्"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 2. The very same Lord is also the efficient cause of the universe by His nature of being qualified by the Will.
    [[१०४]] He is also the concurrent cause of the universe
@@ -128,7 +128,7 @@ by His nature of being immanent in time etc.
 **निमित्तम्** अपि तन्-मतम् ॥ ९.३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 पूर्वव्याख्यातमेवोपादानत्वादिकं लक्षयति-कार्येति । वैविध्यमव- स्थान्तरम् । परिणामयितृत्वं कार्यरूपेण परिणामस्य प्रयोजकत्वम् । 
 
@@ -136,7 +136,7 @@ by His nature of being immanent in time etc.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 3. That is called the material cause which undergoes different modifications in the form of effect. That is the efficient cause which brings about such modifications. 
 </details>
@@ -172,7 +172,7 @@ by His nature of being immanent in time etc.
 **निमित्तत्वं** कुलालवत् ॥ ९.५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 कार्योत्पत्तौ यद् उपकरोति  
 तत्-सहकारिकारणं भवति;  
@@ -188,7 +188,7 @@ by His nature of being immanent in time etc.
 [[१०५]] 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 4, 5. That is the concurrent cause which is helpful in the production of effect. There is a wise saying 'When that one is known every thing becomes known'. By this saying it has been asserted that the Lord is the material cause like the clay.  
 In consideration of His Will mentioned in the words 'It thought' etc. He is also the efficient cause like the potter. 
@@ -210,7 +210,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 सद्-ब्रह्मात्मादयः शब्दाः कारणत्वावबोधिनः …॥ ९.६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 सहकारित्वमाह-सहेति । अन्तर्यामीति । “ यः पृथिवीम् अन्तरो यमयति " इत्यादिश्रुत्युदितमित्यर्थः । ननु सर्वेश्वरस्यापि भगवतो हरेर्जगदुपादानत्वमप्रा- माणिकम् । श्रुत्यादिप्रमाणानि हि सदादीनामेवोपादानत्वं कथयन्ति, न तु हरेः । तथा हि—“ सदेव सोम्येदमग्र आसीत् " इति सत्प्रस्तुत्य, "तदैक्षत बहु स्यां प्रजायेय " इति तस्यैव संकल्पपूर्वकबहुभवनम् “ अनेन जीवेनात्मनानुप्रविश्य नामरूपे व्याकरवाणि " इति नामरूपभाक्त्वं च श्रूयते । तथान्यत्र, ब्रह्म वा इदमग्र आसीत् ” इति ब्रह्म प्रस्तुत्य, तस्यैव "तदेतद् ब्रह्म क्षत्रं विट् शूद्रः ' "आत्मैवेदमग्र इत्यादिना ब्रह्मक्षत्रादिनामभाक्त्वं श्रूयते । तथान्यत्र च, आसीदेक एव” इत्यात्मानं प्रस्तुत्य, तस्यैव “इदं सर्वे यदयमात्मा ” इति विविधनामरूपभाक्त्वं श्रुतम् । तथा "एको ह वै नारायण आसीन्न ब्रह्मा नेशानः" इति नारायणं प्रस्तुत्य, "ब्रह्मा च नारायणः शिवश्च नारायणः " इत्यादिना तस्यैव ब्रह्मशिवादिनामरूपभाक्त्वं श्रुतम् । एवमव्यवस्थिते विषये कथं भगवतो नारायणस्यैवोपादानत्वमुच्यत इत्यत्राह - सद्ब्रह्मात्मादय इति । कारणत्वावबोधिनः सब्रह्मादयः शब्दाः छागपशुन्यायात् नारायणैकपरा इत्यर्थः । अयं भावः — शङ्कास्पदतया प्रतीयमानाः सदादयः शब्दाः सामान्य- शब्दाः । सच्छब्दो हि सत्ताश्रयत्वं प्रवृत्तिनिमित्तमादाय प्रवर्तमानः 'घटः सन्' 'पटः सन्' इत्यादिप्रतीतिबलात् घटादिसाधारणः । एवं ब्रह्मशब्दोऽपि 
 
@@ -221,7 +221,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 ६ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 6. His concurrent causation also has been stated in the Antaryami-Brāhmaṇa (The portion of Vedic Text teaching His immanency). The terms such as Sat, Brahman and Atman refer to Him as the cause (of universe). 
 </details>
@@ -257,7 +257,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 न हि भेदो ऽवसीयते+++(=निश्चीयते)+++ ॥ ९.८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[१०७]] 
 
@@ -309,7 +309,7 @@ In consideration of His Will mentioned in the words 'It thought' etc. He is also
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 7-9. The terms mentioned above do mean the Lord Nārāyaṇa in accordance with the rule of interpretation viz. Chaga-Paśu (Goat and Animal).  
 The Brahman has been held to be only one because He was qualified by the sentient and non-sentient things only in their subtlest forms and stood in such a state which did not permit Him to have any classification with different names and forms.  
@@ -331,7 +331,7 @@ The Brahman has been held to be only one because He was qualified by the sentien
 सच्-छब्देनापि गीयते ॥ ९.९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तस्य सच्-छब्द-वाच्यत्वम् एव निदर्शन-मुखेन निगमयति — मृदिति ।  
 अपराह्णे कुलाल-गृहे प्रसारितान् घट-शरावादीन् दृष्ट्वा कश्चिद् वक्ति-  
@@ -343,7 +343,7 @@ The Brahman has been held to be only one because He was qualified by the sentien
 नैतावता प्रपञ्चमिथ्यात्वं सिध्यतीति भावः । ७-९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 Indeed no classification in the clay can be admitted before it takes any modification like pot etc. with different shapes and names. Therefore the Brahman was only one. He has also been mentioned by the term 'Sat (Being) ' because there were no different names and shapes to qualify Him. 
 
@@ -365,7 +365,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 नाम-रूप-विभाग-भाक् … ॥ ९.१०॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[१०९]] 
 
@@ -388,7 +388,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 तद्वद् इति भावः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 10-13. The Brahman effected different names and forms by penetrating all beings as immanent Self just as the individual soul got different names and forms by entering various bodies. Just as the individual soul is denoted by the words like Deva (Divine being) etc. in their primary sense
 </details>
@@ -409,7 +409,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 नीलाद्य्-अव्यभिचारिणम् … ॥ ९.११॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एवं ब्रह्मणस् तत्-तद्-अनुप्रवेश-कृतं तत्-तन्-नाम-रूपभाक्त्वम् उपपाद्य  
 तस्य ब्रह्मणस् तत्-तच्-छब्दैर् मुख्य-वृत्त्या ऽभिधानं स्व-सिद्धान्त-संमतम् उपपादयति — मुख्यवृत्त्येति ।  
@@ -438,7 +438,7 @@ Indeed no classification in the clay can be admitted before it takes any modific
 यामी सन् नामरूपयोः …॥ ९.१२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 and just as the words like 'blue' [[११०]] etc. denote by their very nature the substance possessed with colour in primary sense, so also the Lord is denoted by all the words in their primary sense because He penetrates all the things and brings about different names and forms. 
 </details>
@@ -459,7 +459,7 @@ and just as the words like 'blue' [[११०]] etc. denote by their very nature
 परैर् उक्तं न युक्तिमत् ॥ ९.१३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 **तैः शब्दैः**; ब्रह्मेन्द्रादि-शब्दैः ।  
 आह च श्रुतिः -  
@@ -472,7 +472,7 @@ and just as the words like 'blue' [[११०]] etc. denote by their very nature
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 Some philosophers opine that these words denote their objects only in the secondary sense. But this view is not proper. 
 </details>
@@ -491,7 +491,7 @@ Some philosophers opine that these words denote their objects only in the second
 अभिधास्यन्ति** युक्तितः ॥ ९.१४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 शब्दा हि द्विविधाः - निष्कर्षकाः, विशिष्टवाचिनश् चेति ।  
 
@@ -511,7 +511,7 @@ Some philosophers opine that these words denote their objects only in the second
 १४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 14. All the words, except those which are intended to specify Him in exclusion of His adjuncts, denote Him appropriately as qualified by adjuncts because He is inseparably connected with them. 
 </details>
@@ -531,7 +531,7 @@ Some philosophers opine that these words denote their objects only in the second
 संयुज्यन्ते, ऽत एव हि ॥ ९.१५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 निर्विशेषाद्वैत-वादिभिर् यानि श्रुतिवाक्यानि स्वमत-सर्वस्वतयोद्घोष्यन्ते,  
 तानि वाक्यान्य् अस्माकम् एवानुकूलानि ; न परेषामित्याह —सर्वमिति ।  
@@ -540,7 +540,7 @@ Some philosophers opine that these words denote their objects only in the second
 १५ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 15. By the same reason the usages like All are Brahman" "All are in the form of Brahman " etc. can be sensibly explained in the sense of Samānādhikaranya. (A term which denotes a single thing as possessed with different attributes.)
 </details>
@@ -563,14 +563,14 @@ Some philosophers opine that these words denote their objects only in the second
 श्रुतयोऽपि सुनिर्वहाः ॥ ९.१६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 श्रुतयो हि द्विधा भवन्ति - भेदपराः, अभेदपराश्चेति । द्विविधा अपि ता अस्मन्मत एव सुसंगताः, न परेषां मत इत्याह-स्वरूपेति । “पृथगात्मानं प्रेरितारं च मत्वा " "द्वा सुपर्णा सयुजा सखाया” “ प्रधानक्षेत्रज्ञपति- र्गुणेशः " इत्यादयोऽचितां जीवानामीश्वरस्य चायन्तवैलक्षण्यं बोधयन्ति । अस्माकं मते चिदचिदीश्वरस्वरूपेषु भेदाङ्गीकारादत्यन्तमेताः श्रुतयोऽनुकूलाः । " सर्वे खल्विदं ब्रह्म " "ऐतदात्म्यमिदं सर्वम् " " ब्रह्मैवेदं सर्वम् " इत्याद्यभेदबोधिकाः श्रुतयश्चिदचिद्विशिष्टब्रह्मबोधकत्वात् सुनिर्वाहा इति भावः । परैस्तु अभेदश्रुतीनां प्राधान्यमभ्युपगम्य भेदश्रुतीनां कल्पितभेदपरत्वेन समन्वयः क्रियते । भेदस्य पारमार्थिकत्वेन कल्पितत्वासंभवात् तेषां तथा निर्वाहस्तासां श्रुतीनामप्रामाण्याभ्युपगमपर्यवसायीति हृदयम् । 
 
 १६ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 16. According to our doctrine the Vedic passages teaching the difference (between the Brahman and world) will stand firm because they mean the difference in the essential nature of them. The passages teaching the non-difference (between the Brahman and world) can be explained to mean the non-difference in His gross form.
 </details>
@@ -596,7 +596,7 @@ Some philosophers opine that these words denote their objects only in the second
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 > ननु सिद्धान्ते " यतो वा इमानि भूतानि जायन्ते " इत्यादि-श्रुति-बलाद्  
 ईश्वरस्य प्रपञ्चोपादान-कारणत्वम् अङ्गीकृतम् ।  
@@ -624,7 +624,7 @@ Some philosophers opine that these words denote their objects only in the second
 १७ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 17. In the Arambhanādikarana and other topics, it has been clearly stated that the effect qualified by the sentient and non-sentient things in their gross form is not different from the cause qualified by the subtle forms of the sentient and non-sentient things.
 </details>
@@ -648,7 +648,7 @@ Some philosophers opine that these words denote their objects only in the second
 बोधयन्ति ततो ध्रुवम् ॥ ९.१८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एवं परस्परं व्याहततयापाततो भासमानानां सगुणनिर्गुणश्रुतीनां समन्वय- प्रकारमाह—निर्गुणत्वपरा इति । “निर्गुणम्” “निरञ्जनम् ” इत्यादयः श्रुतयो ब्रह्मणो निर्गुणतामाहुः [[११३]]। “प्रधानक्षेत्रज्ञपतिर्गुणेशः " " स्वाभाविकी ज्ञानबल- क्रिया च " "सत्यकामः सत्यसंकल्पः" इत्यादयः श्रुतयस्तस्यैव सगुणतामाहुः । एवं परस्परं व्याहततयेव भासमानाः श्रुतय एवं समर्थनीयाः - सामान्यनिषेध-वाक्यानि वाक्यान्तरविहितविशेषेतरविषयाणि परिकल्पनीयानि ।  
 यथा “न हिंस्यात्सर्वा भूतानि” इति भूतहिंसानिषेधः  
@@ -666,7 +666,7 @@ Some philosophers opine that these words denote their objects only in the second
 १८ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 18. There are some Vedic passages mentioning the Brahman as devoid of qualities. They teach the absence of bad qualities in Him. 
 

@@ -11,7 +11,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 तत् पुनः स्व-प्रकाशता ॥ ६.१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 कालनिरूपणानन्तरं क्रमप्राप्तं शुद्धसत्त्वं निरूप्यते । शुद्धसत्त्वमेव नित्यविभूतिरिति च व्यवह्रियते । रजस्तमोभ्यामकरम्बितसत्त्ववत्त्वात् शुद्धसत्त्वं भवति । तत्रादौ शुद्धसत्त्वसद्भावे प्रमाणान्याकलयामः । “ तद्विष्णोः परमं पदं सदा पश्यन्ति सूरयः” इति श्रुतिरप्राप्तत्वात् सदापश्यदने कसूरिपरि- कर्मितं स्थानविशेषं विधत्ते । "अप्राप्ते तु विधीयन्ते बहवोऽप्येकयत्नतः " इति हि प्रमाणविदः । अत्र च विष्णोरिति व्यधिकरणषष्ट्या पदशब्दस्य स्वरूपपरत्वा- दपि स्थानविशेषपरत्वं स्वारसिकम् । तथा "आदित्यवर्णं तमसः परस्तात् ", "विश्वं पुराणं तमसः परस्तात्", "क्षयन्तमस्य रजसः पराके" इत्यादावपि तद्विधिः । रजस्तमोभ्यामुपलक्षितप्राकृताण्ड बहिर्देशोऽत्र प्रतीयते । अस्य रजसः पराके परस्तात् दिव्यदेशे क्षयन्तं निवसन्तमित्यर्थः । तथा जैमिनीयब्राह्मणे शाट्यायनिनः, “सहस्रस्थूणे विमिते दृढ उग्रे यत्र देवानामधिदेव आस्ते ” इति सहस्रस्थूणादिमद्देशविशेषपरां श्रुतिमधीयते । एवं कौषीतकिनोऽपि पर्यङ्कविद्यायां प्रजापतिलोकानन्तरं ब्रह्मलोकं प्रस्तुत्य, " तस्यारो हृदो मुहूर्ता यष्टिहाः " इत्यादिना अपराजिताभिधानं शुद्धसत्त्वमधीयते । अपि च छान्दोग्ये, “तृतीय- स्यामितो दिवि तदैरंमदीयं सरस्तदश्वत्थः सोमसवनस्तदपराजिता पूः " "अरं च ण्यं चार्णवौ ब्रह्मलोके ” इत्यादिना निव्यविभूतिर्वर्णिता । सन्ति चात्रोपबृंहणानि परःशतानि वचनानि । 
 
@@ -26,7 +26,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 १ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 1. Ajadatva (Being other than Jada or inert) is the common characteristic of S'uddhasattva (The substance of pure Sattvaguna), Dharmabhutajñāna (Attributive knowledge), Jiva and Iśvara. Ajaḍatva is nothing but Svayamprakaśatā (Self-luminosity). 
 </details>
@@ -49,7 +49,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 **पराक्त्वम्** इति गद्यते ॥ ६.२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत्र शुद्ध-सत्त्व--धर्म-भूत-ज्ञानयोः साधारणं लक्षणम् आह- पराक्त्व इति ।  
 पराक्त्वं च परस्मा एव भासमानत्वम् । शुद्धसत्त्वं धर्मभूतज्ञानं च न स्वं स्वयमधिगन्तुं प्रभवतः । किंतु परस्मै पुरुषायैव प्रकाशेते । अजडत्वं च तयोर्ज्ञानरूपत्वात् । तथाच श्रुतिः शुद्धसत्त्वमधिकृत्य श्रूयते - " किमात्मकैषा
@@ -61,7 +61,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 २ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 2. Parāktva (Being the object of the knowledge of others only) along with Ajaḍatva is the common characteristic of the first two categories (S'uddhasattva and Dharmabutajñāna). Parāktva is defined as the state of being knowable for others only. 
 </details>
@@ -83,12 +83,12 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 ऽनन्तम् ऊर्ध्वप्रदेशतः ॥ ६.३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 शुद्धसत्त्वपदार्थमाह- सत्त्वैकेति । एकशब्दः केवलपरः । रजस्तमोभ्या- ममिश्रितकेवलसत्त्वगुणक इत्यर्थः । पराक्त्वादचेतनम् । चेतनं नाम चैतन्यगुणकं वस्तु। शुद्धसत्त्वस्य ज्ञानरूपत्वेऽपि ज्ञानानाश्रयत्वादचेतनत्वम् । अधोदेशे परिच्छिन्नम् । “ तमसः परस्तात्" इत्यादिश्रुतिभिस्तमस ऊर्ध्वमिति वर्णनादधः प्रदेशे तमसा परिच्छिन्नम् । ऊर्ध्वप्रदेशे तु अपरिच्छिन्नम् । शुद्धसत्त्वस्योपरिष्टात् कस्यापि देशादेरभावात् तत्र परिच्छेदरहितमिति भावः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 3. S'uddhasattva is a non-sentient substance full of pure Sattva guna (ie., not mixed with Rajas and Tamas). It is limited downward and unlimited up- ward. 
 </details>
@@ -107,7 +107,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 नित्यम् आनन्द-रूपिणी ॥ ६.४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 स्वयंप्रकाशरूपेति । नित्यविभूतिरिति निर्देशानुरोधेन स्त्रीलिङ्गनिर्देशः ।  
 स्वप्रकाशे जड-पदार्थैर् इवेतरानपेक्षणात् स्वयंप्रकाशरूपेयम् । 
@@ -139,7 +139,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 ४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 4. This kind of substance is formed with divine elements described in the hymns of Pañco- panisad. This is the Eternal Wealth of the Lord Visņu and is in the form of Ananda ( Bliss). 
 </details>
@@ -160,12 +160,12 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 भोग-स्थानमयी मता ॥ ६.५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 सेयं विभूतिरिति ; नित्यविभूतिरित्यर्थः । तस्या विविधरूपतामाह- भोग्येति ; भोगकर्मभोगसाधनभोगाधिकरण देशमयीत्यर्थः । मतेति; प्रामाणिक- ग्रन्थेष्वित्यर्थः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 5. This eternal substance is considered to have assumed different forms of the objects of enjoyment, the means of enjoyment and the places of enjoyment of the Lord Iśvara, the Nityas (Eternal souls) and Muktas (Released souls ). 
 </details>
@@ -186,7 +186,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 गोपुरादिकम् उच्यते ॥ ६.६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 ६३ 
 
@@ -199,7 +199,7 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 ६ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 6. The objects of enjoyment are the Lord's body and so on. The means of enjoyment are Candana (sandal) etc. The places of enjoyment are the towers of precious gems and so on. 
 </details>
@@ -218,14 +218,14 @@ title = "०६ नित्य-विभूति-निरूपणम्"
 तत्-सङ्कल्प-कृतो मतः ॥ ६.७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत्र भोग्यभूत-देहे विशेषमाह — देहा इति । ईश्वरस्य नित्यानां च देहो हरेर्नित्येच्छापरिकल्पितः । मुक्तानां तु ईश्वरेच्छाधीनस्वेच्छाकल्पितः । भगवदाज्ञामनुरुन्धाना यथा यथा भूत्वा भगवन्तं तत्कल्याणगुणांश्चानुबुभूषन्ति तथा तथा स्वदेहं परिगृह्णन्तीत्यर्थः । 
 
 ७ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 7. The bodies of the Lord and Nityas take their form on the eternal wish of the Lord Hari. 
 
@@ -246,7 +246,7 @@ But those of Muktas are brought about by His (Lord's) Saṁkalpa (Will).
 अ-प्राकृत-शरीराणि प्रतिष्ठानन्तरं हरेः …॥ ६.८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 श्रीपतेरिति । व्यूहाः वासुदेवसंकर्षणप्रद्युम्नानिरुद्धाख्याश्चत्वारः । विभवाः रामकृष्णादिबहुभेदाः । अर्चाः श्रीरङ्गादिदिव्यदेशेषु प्रतिमारूपाः । एवं व्यूहाद्यात्मना वर्तमानस्य भगवतः श्रीपतेः शरीराणि दिव्यमङ्गलविग्रहाः अप्राकृतानि प्राकृतभिन्नानि शुद्धसत्त्वमयानि ज्ञातव्यानि । ननु व्यूहविभवानां सन्तु नामाप्राकृतविग्रहाः । 
 
@@ -295,7 +295,7 @@ But those of Muktas are brought about by His (Lord's) Saṁkalpa (Will).
 **सङ्कल्पाधीनम्** ईर्यते ॥ ६.९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत्र च हेतुः भगवत्प्रसादौन्मुख्यमेवेत्याह- प्रसादेति ।  
 महामन्त्रैः प्रतिष्ठाकरणे  
@@ -312,7 +312,7 @@ But those of Muktas are brought about by His (Lord's) Saṁkalpa (Will).
 ९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 8 and 9. The bodies possessed by the Lord of S'ri in his various incarnations as Vyuha, Vibhava and Arcă are of the non-material and eternal substance. In the case of Arca the non-materiality of the image appears immediately after the performance of Pratiṣṭhā (consecration) when the Lord becomes graceful. 
 
@@ -341,14 +341,14 @@ This state of thing happens only on His divine Will (Samkalpa).
 दृष्टत्वात् तस्य भूयसा ॥ ६.१०॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 ननु भगवदर्चामूर्तेर प्राकृतत्वे कथमस्याः प्राकृतलोकावतारः ? कथं वा प्राकृतैर्द्रव्यैः संसर्ग इत्याशङ्क्य समाधत्ते - प्राकृतेति । प्राकृताप्राकृतलोकयो- रुभयोरपि भगवद्विभूतित्वात् यथा अखिलहेयप्रत्यनीककल्याणगुणैकतानस्य भगवतो रामकृष्णाद्यात्मना दोषबहुलप्राकृतलोकेऽप्यवतारः प्राकृतद्रव्यैश्च योग उपपद्यते तद्वदिति भावः । 
 
 १० 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 10. The objection, viz.-how can there be a contact between the non-material body and material world?-is not sound, because such a contact is often proved in the case of the Lord's incarnations such as Rāma, Krsna and so on. 
 </details>
@@ -369,7 +369,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 गद्य-त्रय-विचारतः ॥ ६.११॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 भगवत्स्वरूपस्य यथा ज्ञानशक्त्याद्यसंख्यातकल्याणगुणाश्रयत्वं तथा शुभाश्रयस्य तद्दिव्यमङ्गलविग्रहस्याप्यनन्तगुणाश्रयत्वं शुद्धसत्त्वमयत्वात् प्रामाणिक- मुपपद्यत इत्याह-औज्ज्वल्यादीति । आदिपदेन सौगन्ध्यसौकुमार्यलावण्यादि- संग्रहः । 
 
@@ -378,7 +378,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 ११ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 11. The excellence of brilliancy etc. in the divine body of the Lord Hari, should be understood fully by referring to the work Gadyatraya. 
 
@@ -406,12 +406,12 @@ This state of thing happens only on His divine Will (Samkalpa).
 सम्बन्धाभाव-गोचरम् ॥ ६.१२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 "अशरीरं वाव सन्तम्” इति श्रुतिर्मुक्तौ देहाभावं ब्रवीतीति तद्विरोध इत्यत्राह—मुक्तानामिति । सशरीरत्वाशरीरत्वपरयोः श्रुत्योः सगुणनिर्गुणश्रुत्यो- रिवशरीरस्य कर्मकृतत्वाकर्मकृतत्वाभ्यां विरोधः परिहरणीय इति भावः । १२ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 12. The statement that the Muktas have no body, should mean the absence of such body as caused by Karman. 
 </details>
@@ -440,7 +440,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 इति ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 पुराण-रत्नास्त्र-भूषणाध्यायोक्त-प्रकारेण भगवतो दिव्यमङ्गलविग्रहमनुसंधत्ते- निरूपयन्तीति ।  
 श्रीनाथेत्यनेन "उभयाधिष्ठानं चैकं शेषित्वम्” इति न्यायेन दिव्यदंपतिशेषित्वमुक्तं भवति ।  
@@ -465,7 +465,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 13. Our revered and ancient Acāryas in Vedanta explain the blissful body of the Lord of Sri thus as said in Purāna : "O Lord of Kamalā, the sense of mind is your disc, knowledge is your sword, ignorance is your sheath, the elements with their gunas are your garland, the two-fold Ahamkaras are your S'ankha (conch) and Sarnga (bow), the ten senses are your arrows, Jivatattva is your Kaustubha Gem, the Prakṛti is your Sri-Vatsa mole, and the Mahat is your Gadā (club).” 
 </details>
@@ -496,7 +496,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 महती सुमहीयते ॥ ६.१४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 नित्यविभूतेर्नामान्तराण्याह— त्रिपादिति । त्रिपाद्विभूतिरिति, श्रीवैकुण्ठ- मिति, परव्योम चेति शब्दभागिनी, ईशस्य सर्वशेषिणो भगवत इयं विभूतिः महती लीलाविभूत्यपेक्षयात्यन्तं महती सुतरां महीयते पूज्यते । मह पूजायामिति धातुः। “ तद्विप्रासो विपन्यवो जागृवांसः समिन्धते " इत्युक्तरीत्या नित्यसूरिभिः सदा स्तूयमाना वर्तत इत्यर्थः । 
 
@@ -504,7 +504,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 14. This Nityavibhūti (Eternal Wealth) is of great excellence and mentioned with different names such as This also Tripādvibūti, Vaikuntha, Paravyoman etc. belongs to the Lord. It is vast and honoured by all with great reverence. 
 </details>
@@ -527,14 +527,14 @@ This state of thing happens only on His divine Will (Samkalpa).
 एतस्यां प्रविजृम्भते ॥ ६.१५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत्र नित्यविभूतौ दिव्यनगरमाह-द्वादशेति । तत्र नित्यविभूतौ द्वादश- भिरावरणैः प्राकारैरावृतमनेकशतसंख्याकगोपुरविराजितं वैकुण्ठाख्यं श्रीवैकुण्ठ- नामकं दिव्यनगरमपि एतस्य भगवतो भोगार्थं विजृम्भते प्रकाशते । 
 
 १५ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 15. In this world shines an extensive celestial city called Sri-Vaikuntha with 12 enclosures and many hundreds of towers. 
 
@@ -556,7 +556,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 सहस्रा भासते सभा ॥ ६.१६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 श्रीवैकुण्ठनगरे भगवतो दिव्यमन्दिरादिकमाह-आनन्देति । तत्र नगरे आनन्दनामकः दिव्यनिलयः स्फुटः स्वयंप्रकाशो वर्तते । तत्र दिव्यनिलये सभामण्डपः रत्नमयैः स्तम्भसहस्त्रैरन्वितो भासते । 
 
@@ -564,7 +564,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 16. In this city exists a huge divine mansion called Ananda. In that mansion shines a beautiful Assembly Hall with thousand pillars made of gems. 
 
@@ -586,7 +586,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 सिंहासनम् उपस्थितम् ॥ ६.१७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत्र च दिव्यसभामण्डपे फणामणितेजोभिर्विशेषभास्वरः अनन्तः सिंहा- सनमुद्धरन्नास्ते । तस्य दिव्यमहामणिमण्डपस्थनित्यसूरिसभायामास्तरणभूत- स्यानन्तस्य सेवामाह - अनन्त इति । तत्र च सभायाम् । फणामणीनां सहस्रसंख्यस्फटास्थरत्नानां तेजसा कान्त्या विराजितोऽनन्तः तदाख्यया प्रसिद्धो भगवत्पारिषदेषु प्रधानभूतः राजति विद्योतते । अनन्तस्य बहुधा भगवत्सेवा- प्रकारो वर्णितः स्तोत्ररत्ने-
 
@@ -602,7 +602,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 1
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 17. In this Hall is seen Ananta, brilliant with the luster of gems of his hoods. There is on him a throne (Simhasana) attended by Dharma and other attendants. 
 </details>
@@ -624,7 +624,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 तत्र शेषोऽस्ति धीमयः ॥ ६.१८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तस्य सिंहासनस्य मध्ये पद्मासनमाह – तत्रेति । तत्र ; सिंहासने ।  
 चामरवीजनेन भगवत्कैंकर्यप्रसिताभिर्विमलादिभिर्दिव्यपरिचारिकाभिरञ्चितमलं- कृतमष्टदलयुक्तं पद्मं भाति । विमलादयश्चाष्टौ परिचारिकाः परिगण्यन्ते भगव- च्छास्त्रे । तासां नामानि यथा -- विमला, उत्कर्षणी, ज्ञानाख्या, क्रिया, योगाख्या, प्रभ्वी, सत्या, ईशाना चेति ।  
@@ -637,7 +637,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 18. In it is seen a lotus flower with 8 petals worshipped by Vimala and other maid attendants with chowries in their hands. There is on the lotus, S'eşa who is an embodiment of intellect.
 </details>
@@ -663,7 +663,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 भाति नारायणात्मना ॥ ६.१९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अनन्तरं शेषपर्यङ्कासीनं भगवन्तं निर्दिशति – तत्रेति । तत्र ; शेषपर्यङ्के । आनन्दमयः ; मानुषानन्दादिप्रजापत्यानन्दपर्यन्तशतगुणितोत्तरानन्दादप्यति- शयितानन्दरूपः। साक्षात् ; विगलितनिखिलकर्मबन्धस्याविर्भूतस्वस्वरूपस्या- त्मनः प्रत्यक्षवेद्यः । सर्ववाचाम्, “यतो वाचो निवर्तन्ते " इत्युक्तरीत्य ब्रह्मा- दीनां सर्वदेवानामपि वाचामविषयः । अद्भुतज्योतिः, “परं ज्योतिरुपसंपद्य,' 
 
@@ -672,7 +672,7 @@ This state of thing happens only on His divine Will (Samkalpa).
 १९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 19. There shines pre-eminently a wonderful Light in the form of Sriman-Nārāyaṇa who is the eternal Bliss and beyond the scope of all speech. 
 </details>

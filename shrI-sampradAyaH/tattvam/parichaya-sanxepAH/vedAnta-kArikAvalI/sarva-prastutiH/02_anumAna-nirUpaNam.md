@@ -23,7 +23,7 @@ title = "०२ अनुमान-निरूपणम्"
 तच्च लिङ्गपरामर्शस्तद्धेतुर्व्याप्तिधीर्मता ॥ २.१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 प्रत्यक्ष-निरूपणानन्तरम् **अनुमानं** निरूपयति — अनुमितीति ।  
 **आत्म**-शब्दः स्वरूपपरः।  
@@ -37,7 +37,7 @@ title = "०२ अनुमान-निरूपणम्"
 लिङ्गपरामर्श इति । लिङ्गस्य साध्यचिह्नभूतस्य हेतोः परामर्शः विवेचनं, साध्यव्याप्यतया पक्षवृत्तितया च विविच्य ज्ञानमित्यर्थः । व्याप्तिविशिष्टपक्षधर्मताज्ञानं परामर्श इति पर्यव- सितम् । तद्धेतुः ; परामर्शहेतुः । व्याप्तिधीः; व्याप्तिज्ञानम्। अनुमितिं प्रति व्याप्तिज्ञानं करणम् । व्यापारवदसाधारणकारणं करणम् । परामर्शो व्यापार इति प्राञ्चः। नव्यास्तु-परामर्श एव करणम् । व्यापारवत्त्वं न करणलक्षणनिविष्टम् | अपितु साधकतमं करणमित्येव तल्लक्षणम् । परामर्शजन- कतया अङ्गीकृतं व्याप्तिज्ञानं तु घटं प्रति कुलालपितेवान्यथासिद्धमित्याहुः । तत्र नव्यमतमवलम्ब्य लिङ्गपरामर्शस्यात्र करणत्वोक्तिः । १
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 1. Anumana (Inference) is the instrument of Anumiti (Inferential cognition). The Anumāna is defined as Linga-Paramarśa (Consideration of middle term). Vyāpti-jñāna (Apprehension of invariable con- comitance) is said to be the cause of Paramarśa (consideration). 
 </details>
@@ -52,13 +52,13 @@ title = "०२ अनुमान-निरूपणम्"
 व्याप्यस्य +++(पर्वतवत्-)+++पक्ष-वृत्तित्व-धीः **परामर्श**-नाम-भाक् ॥ २.२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 साहचर्यनियमो व्याप्तिरिति लक्षणे नियमपदार्थं नञ्द्रयघट विविनक्ति—साध्याभावेत्यादि । साध्यस्य वह्न्यादेर्योऽयमभावः, तदधिकरणं तटाकादिः, तदवृत्तित्वं धूमादेरिति लक्षणसमन्वयः । परामर्शलक्षणमाह- व्याप्यस्येति । व्याप्यस्य हेतोः पक्षे पर्वतादौ वर्तमानत्वधीः परामर्श इत्यर्थः । २
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 2. Vyapti (Invariable concomitance) is that the Hetu (Reason) does not exist where Sadhya (The property to be established) is not found. Paramarśa (consideration) is the knowledge of Vyapya (the middle term) as existing in Paksa (Minor term or the subject). 
 </details>
@@ -78,12 +78,12 @@ title = "०२ अनुमान-निरूपणम्"
 ज्ञानेन **व्याप्ति**-धीर् भवेत् ॥ २.३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तज्जा ; परामर्शजा । पक्षे; पर्वतादौ । साध्यस्य वयादेः मतिः अनुमितिरित्यर्थः । व्याप्तिज्ञानोत्पत्तौ कारणमाह-भूयिष्ठेति । साहचर्य सामानाधिकरण्यम् ; भूयिष्ठेन साहचर्यज्ञानेन, साहचर्यस्य भूयो-दर्शनेनेत्यर्थः । ३ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 3. Anumiti is the Cognition produced by Paramarśa, with reference to the fact that Sadhya is existant in Paksa (the subject ). Vyāpti-jñana (Apprehension of invariable concomitance) springs from frequent observation of Sadhya and Reason as invariably concomitant each other. 
 </details>
@@ -108,14 +108,14 @@ title = "०२ अनुमान-निरूपणम्"
 **वि-पक्षस्** तद्-अभाववान् ॥ २.४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत् ; साहचर्यज्ञानम् ।  
 निश्चितसाध्यवान् सपक्षः, यथा धूमेन वह्नौ साध्ये महानसादिः ।  
 संदिग्धसाध्यवान् पक्षः, यथा तत्रैव पर्वतादिः । निश्चित- साध्याभाववान् विपक्षः, यथा तत्रैव हृदादिः । ४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 4. That observation should be held in Sapakṣa (Definite instance). The Sapaksa is that in which the Sadhya is definitely known to have existed. The Pakṣa (the minor term or the subject) is that in which the existence of Sadhya is doubtful. The Vipakṣa (the nagative instance) is that in which Sadhya is known definitely non-existent. 
 </details>
@@ -142,7 +142,7 @@ title = "०२ अनुमान-निरूपणम्"
 चासिद्धः, सत्-प्रतिपक्षकः  … +++(हेत्वाभासाः)+++॥ २.५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 हेतुं विभजते- अन्वयीति ।  
 **अन्वयो** नाम  
@@ -218,7 +218,7 @@ title = "०२ अनुमान-निरूपणम्"
 प्रपञ्चस्तु निरूपितः ॥ २.६॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 बाधित इति । अयमेव कालात्ययापदिष्ट इत्यप्युच्यते । साध्याभाववत्प- क्षको हेतुर्बाधितः । यथा वह्निरनुष्णः पदार्थत्वात् जलवदिति। अत्र वह्नौ अनुष्णत्वं नास्ति । एते पञ्चापि हेत्वाभासाः हेतुवदापाततो भासन्ते । निष्कर्षे तु न हेतव इत्यर्थः । तस्मात् ते न साध्यस्य साधकाः । 
 
@@ -228,7 +228,7 @@ title = "०२ अनुमान-निरूपणम्"
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 5-6. The Hetu (Reason) is of two kinds — Anvayin (Positive) and Vyatirekin (Negative). The faulty Reasons are unfit to establish the Sadhya by inference. They are five in number, namely - Vyabhicārin (Trans- gressing), Viruddha (Adverse), Asiddha (Not-esta- blished), Satpratipaksa (Having counter-Reason) and Bādhita (Contradicted). 
 
@@ -251,7 +251,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 +++(वक्ष्यमाणानि)+++ प्रतिज्ञादीनि पञ्च च ॥ २.७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[२१]]
 परार्थानुमाने विशेषमाह - न्यायेति ।  
@@ -263,7 +263,7 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 ७
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 7. In the case of Parārthānumāna ( Inference for other's sake), the Parāmarśa (the consideration of Reason) is produced by the Nyāya (syllogism). The group of the five argumentative sentences namely- Pratijña (Assertion) etc. is called Nyāya. 
 </details>
@@ -283,14 +283,14 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 वाग् **उदाहरणं** भवेत् ॥ २.८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत्र प्रतिज्ञा नाम साध्यनिर्देशः ; यथा वह्निमानिति । हेतुर्नाम हेतूक्तिः ; यथा धूमादिति । उदाहरणं नाम व्याप्तिनिर्देशपूर्वकं दृष्टान्तस्य वचनम् ; यथा यो यो धूमवान् स सोऽग्निमान् यथा महानस इति । 
 
 ८
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 8. Pratijñā is mentioning the Sādhya. Hetu is mentioning the Reason. Udaharana is mentioning the example with the statement of Vyapti (concomitance). 
 </details>
@@ -311,13 +311,13 @@ Thus the inference of Svārtha (For one's own ) has been described in detail.
 भवेन् **निगमनं** पुनः ॥ २.९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 व्याप्यस्य हेतोः पक्षे पर्वतादौ वर्तमानत्वबोधनमुपनयः । यथा-तथा चायं धूमवानिति । पक्षे साध्यस्योपसंहारवचनं निगमनम् । यथा-तस्मादग्नि- मानिति । इदं च पञ्चावयववाक्योपन्यसनं नैयायिकरीत्या । वेदान्तसिद्धान्तरीत्या तु नैवावयवसंख्यानियमः । मृदुमध्यमोत्तमधियां संग्रहविस्तराभ्यां यावदपेक्षं प्रयोग इति भाव्यम् । 
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 9. Upanaya is the statement of Vyāpya (Middle term) as existing in Paksa (the subject). Nigamana is the statement concluding the syllogism. 
 </details>

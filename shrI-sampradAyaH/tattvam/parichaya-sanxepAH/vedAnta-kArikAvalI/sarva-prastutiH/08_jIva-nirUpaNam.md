@@ -11,7 +11,7 @@ title = "०८ जीव-निरूपणम्"
 विलक्षणतया मतः ॥ ८.१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अथ क्रमप्राप्तं जीवनिरूपणमारभते - अणुत्व इति । अणुत्वमल्परिमाण- वत्त्वम् | चैतन्यं ज्ञानाश्रयत्वम् । आभ्यां विशेषणाभ्यां क्रमेण ईश्वरस्य घटादेश्च व्यावृत्तिः । जीवस्याणुत्वं च श्रुत्यादिप्रमाणसिद्धम् । तथाच श्रूयते- 
 
@@ -38,7 +38,7 @@ title = "०८ जीव-निरूपणम्"
 १ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 1. Minuteness and consciousness jointly constitute the characteristic of the Jiva. He is held to be distinct from his body, senses etc. 
 
@@ -62,7 +62,7 @@ title = "०८ जीव-निरूपणम्"
 व्याप्तिस् तत्रोपयोगिनी ॥ ८.२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[८७]] 
 
@@ -89,7 +89,7 @@ title = "०८ जीव-निरूपणम्"
 २ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 2. Though Jiva is subtle, his experience of different objects, is accountable to the expansion of his knowledge. 
 </details>
@@ -110,7 +110,7 @@ title = "०८ जीव-निरूपणम्"
 **भिन्नो** भोक्त्रादि-शब्दितः ॥ ८.३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अथ तस्य नित्यत्वं प्रसाधयति — पूर्वेति । पूर्वमनुभूतो यो विषयः देवदत्तादिः, तत्प्रतिसंधानयोगान्नित्य इत्यर्थः । उपदशेभ्यो वत्सरेभ्यः पूर्वं काश्यां दृष्टस्य देवदत्तस्य संप्रति मद्रपुर्या पुनर्दर्शने 'सोऽयं देवदत्तः' इति प्रतिसंधानं जायते । यद्यात्मा न नित्यः स्यात्, तदा तन्नोपपद्येत । अन्येन दृष्टस्यान्येन प्रतिसंधानं हि न संघटते । एतेन क्षणिकात्मवादो निरस्तः । जीवश्च प्रतिशरीरं भिन्नः । स्मृत्यनुभवादीनां व्यवस्था हि तदैव संगच्छते । यद्येक एवात्मा नानादेहेष्वभविष्यत् तदा येन पूर्वं घटो दृष्टः तस्यैव स्मृतिरुदेति नान्यस्येति व्यवस्था नाघटिष्यत । तदाह – “नानात्मानो व्यवस्थातः” इति । सांख्या अप्याहुः- 
 
@@ -126,7 +126,7 @@ title = "०८ जीव-निरूपणम्"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 3. He is permanent because of his recollection on the objects formerely experienced. The Jivas dwelling in different bodies are individually different and called as Bhoktr (enjoyer) etc. 
 </details>
@@ -148,7 +148,7 @@ title = "०८ जीव-निरूपणम्"
 +++(“अत्रायं पुरुषः स्वयंज्योतिर् भवति ” इत्यादि-)+++प्रत्यक्ष+++(=स्पष्ट)+++--श्रुति--बोधितम् ॥ ८.४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अथ सिद्धान्तिनां प्रतितन्त्र-सिद्धान्तभूतं शरीर-शरीरि-भावम् आह – प्रकृतीति ।  
 प्राकृत-स्व-देहापेक्षया ऽयं देही,  
@@ -196,7 +196,7 @@ title = "०८ जीव-निरूपणम्"
 ४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 4. He is the soul in respect of his body.  
    He is the body in respect of the Lord of Sri.  
@@ -220,7 +220,7 @@ title = "०८ जीव-निरूपणम्"
 +++(धर्म-भूत-ज्ञान-प्रसरात्मक-)+++विज्ञानाद् इति सञ्जगुः ॥ ८.५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 > ननु कथं तर्हि सौभरि-प्रभृतीनाम्  
 अनेक-शरीर-परिग्रहेण भिन्न-भिन्न-देशेषु सुखाद्य्-उपलम्भः;  
@@ -246,7 +246,7 @@ title = "०८ जीव-निरूपणम्"
 ५ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 5. Wise men say that though he is atomic, his experience of the objects in different places, is accountable to his knowledge which extends by virtue of his Karman. 
 </details>
@@ -268,12 +268,12 @@ title = "०८ जीव-निरूपणम्"
 **बद्धाः** संसार-योगिनः ॥ ८.६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 बद्धो मुक्त इत्यादि निगदव्याख्यातम् । स्तम्बः सूक्ष्मः कीटविशेषः । ६ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 [[९०]] 
 
@@ -298,13 +298,13 @@ title = "०८ जीव-निरूपणम्"
 स्वदेहात्माभिमानिनः ॥ ८.७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 बुभुक्षुमुमुक्षुभेदेन बद्धजीवानां द्वैविध्यमभिप्रेत्यादौ बुभुक्षून् निरूपयति- त्रेवर्गिकेति। धर्मार्थकामास्त्रिवर्गः ; तद्रूपेऽर्थे विषये निष्णातास्तत्परा बुभुक्षव इत्यर्थः । ते च द्विधा—अर्थकामपराः, धर्मपराश्चेति ।  
 ये स्वदेहे प्राकृतदेह एवात्माभिमानेन ऐहिक-सुखाभिलाषेण तद्-उपभोग-साधन-शरीर-पोषणायार्थान् कामांश् चाभिलषन्ति ते **अर्थकामपराः** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 7. Those are Bubhuksus (desirous of worldly enjoyments) who are longing for Dharma, Artha and Kama. Of these those who wrongly think that the body is the self are called Arthakāmapara (devoted to wealth and passion). 
 </details>
@@ -326,7 +326,7 @@ title = "०८ जीव-निरूपणम्"
 साधनं चोदनोदितम् ॥ ८.८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 धर्मपरानाह—ते त्विति ।  
 ये तु देहातिरिक्तात्मनो ऽलौकिक-पारत्रिक-श्रेयस्-कामास्  
@@ -340,7 +340,7 @@ title = "०८ जीव-निरूपणम्"
 ८ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 8. But those who are engaged in performing various sacrifices are called Dharmaparas (devoted to [[९१]] Dharma). That is Dharma which is ordained by the Vedic injunction as the means of heavenly pleasure. 
 </details>
@@ -364,7 +364,7 @@ title = "०८ जीव-निरूपणम्"
 एवं **भागवताः** स्मृताः ॥ ८.९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 धर्मपरेष्वेव देवतान्तरपरत्वेन भगवत्परत्वेन च द्वैविध्यमभिप्रयन्नाद्या- नाह - रुद्रेत्यादि । रुद्रादीन् देवान् भगवच्छरीरत्वेन स्वातन्त्र्येण वाभिमत्य ये आराधयन्ति, ते देवतान्तरपराः । भगवत्परानाह - आर्त इति । 
 
@@ -386,7 +386,7 @@ title = "०८ जीव-निरूपणम्"
 ९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 9. Those who worship the other deities Rudra and so on are called Anyadevaparas (devotees of other gods). The Bhagavatas are those who worship Bhagavan Viṣṇu alone. They are of three kinds- Arta (distressed) Jijñāsu (desirous of getting Jñānai.e. self) and Arthārthin (ambitious in getting wealth). 
 </details>
@@ -406,7 +406,7 @@ title = "०८ जीव-निरूपणम्"
 स्वात्मनोऽनुभवः परम् ॥ ८.१०॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[९२]] 
 
@@ -415,7 +415,7 @@ title = "०८ जीव-निरूपणम्"
 १० 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 10. Now the characteristics of the Mumuksus (ambitious for the Eternal Bliss) and Kaivalyaparas (desirous of being aloof from material connection) are described. Kaivalya is the enjoyment of one's own self after the release from material connection. 
 </details>
@@ -435,7 +435,7 @@ title = "०८ जीव-निरूपणम्"
 क्व-चित्-कोणे ऽवतिष्ठते ॥ ८.११॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 कैवल्यमिति पूर्वेणान्वेति । ते च केवलाः केन मार्गेण प्राकृतलोकान् निर्गच्छन्ति ?  
 कुत्र स्थित्वा स्वात्मानम् अनुभवन्तीत्य्-अत्राह - अर्चिर्मार्गेणेति ।  
@@ -449,7 +449,7 @@ title = "०८ जीव-निरूपणम्"
 तथैतेऽपि परब्रह्मानन्दानुभवं विना वर्तन्त इत्यर्थः । ११ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 11. Even on reaching the Highest Region (Paramapada) through the path of Arcis (Light) etc., they remain in a corner of that Region like a beloved wife on separation from her lover. 
 </details>
@@ -470,7 +470,7 @@ title = "०८ जीव-निरूपणम्"
 न +++(मोक्षत्वेन)+++ मन्यन्त इति स्थितम् ॥ ८.१२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[९३]] 
 
@@ -496,7 +496,7 @@ title = "०८ जीव-निरूपणम्"
 १२ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 12. This state of Kaivalya is acceptable only to some of our philosophers. But our preceptors do not accept Kaivalya (as Mukti). This is their conclusion. 
 </details>
@@ -521,7 +521,7 @@ title = "०८ जीव-निरूपणम्"
 शूद्रानधिकृतिः स्फुटा ॥ ८.१३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अथ मोक्षपरानाह—भक्ता इति । पूर्वोक्तेति ; धर्मभूतज्ञाननिरूपण- प्रकरणोक्तरीत्येत्यर्थः । ये भक्तियोगेन मोक्षं प्राप्तुमिच्छन्ति ते भक्ताः । तत्र च भक्तियोगे त्रैवर्णिकानामेवाधिकारः, तस्य वैदिकमन्त्रकरणकत्वात् । न शूद्रस्य, तस्य वैदिकमन्त्रानधिकृतत्वात् । किंच भक्तियोगे हि वर्णाश्रमधर्मा इतिकर्तव्य- तामापद्यन्ते । तदाह--“विहितत्वाच्चाश्रमकर्मापि ” इति । आश्रमविधुराणा- माश्रमकर्मप्रसक्त्यभावात् अङ्गाधिकाराभावात् नाङ्गिन्यधिकारः । एष च विषयो भगवद्भाष्यकारैर्निर्णीत इत्याह- अपशूद्रनय इति । प्रथमाध्यायतृतीय- पादस्य नवमाधिकरण इत्यर्थः । 
 
@@ -531,7 +531,7 @@ title = "०८ जीव-निरूपणम्"
 [[९४]] 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 13. Bhaktas (engaged in Bhaktiyoga) are eager to reach Mukti (Eternal Bliss) by the means of Bhakti- yoga (Devotional meditation) as described before. From the rule of Apaśudradhikarana of the Brahma- sūtra, it is evident that S'ūdras are not qualified for Bhaktiyoga. 
 </details>
@@ -553,7 +553,7 @@ title = "०८ जीव-निरूपणम्"
 व्यासादीन् अपरान् विदुः ॥ ८.१४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत्र भक्तानां द्वैविध्यमाह —साध्येति । भक्तिर्द्विधा—साध्यभक्तिः, साधनभक्तिश्चेति। यत्रावस्थायां परिनिष्पन्नभक्तियोगैर्भगवदनुध्यानं स्वयंप्रयो- जनतया परमस्वादुतया च निरन्तरमनुष्ठीयते, साधनं तु भगवानेवेति सुदृढो विश्वासः सा साध्यभक्तिः । प्रपत्तिरपि तथा गीयते । यदाहुः- "साधनं भगवत्प्राप्तौ स एवेति स्थिरा मतिः । साध्यभक्तिस्तथा सैव प्रपत्तिरिति गीयते ॥ 
 
@@ -565,7 +565,7 @@ title = "०८ जीव-निरूपणम्"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 14. Bhaktas are of two kinds because of the two- fold division of Bhakti as Sadhya and Sadhana (effect and means). The former group includes Parankuśa and others while the latter Vyasa and others. 
 </details>
@@ -583,7 +583,7 @@ title = "०८ जीव-निरूपणम्"
 त्रैवर्गिक-परा, मोक्ष-पराश् चेति च ते +++(→ प्रपन्ना)+++ द्विधा ॥ ८.१५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत्र साध्यभक्तिपरेषु मुमुक्षुषु विशेषमाह- मुमुक्षव इति ।  
 त एव प्रपन्ना इत्युच्यन्ते ।  
@@ -593,7 +593,7 @@ title = "०८ जीव-निरूपणम्"
 १५
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 15. Among the Mumukşus (desirous of Moksa) Prapannas (Self-surrendering devotees) have for their qualifications 'the helplessness' etc. Again they are of two kinds-aspirant for Trivarga and Mokṣa. 
 </details>
@@ -613,7 +613,7 @@ title = "०८ जीव-निरूपणम्"
 मुमुक्षायां कृतादराः … ॥ ८.१६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[९६]] 
 
@@ -640,7 +640,7 @@ title = "०८ जीव-निरूपणम्"
 तेऽत्र मोक्षपराः । १६ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 16. The former group consists of those who devote themselves for Dharma, Artha and Kama for the sake of the Lord. The members of other group are those who are dispassionate for wealth by the association of good men and eager to get Mokṣa. 
 
@@ -662,7 +662,7 @@ title = "०८ जीव-निरूपणम्"
 प्रपत्त्येकाश्रयाः परे ॥ ८.१७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 किंच भगवत्--स्वरूप--रूप-गुणाद्य्-अनुभव-संपादनाय  
 सद्-आचार्यम् उपसद्य  
@@ -675,7 +675,7 @@ title = "०८ जीव-निरूपणम्"
 १७ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 17. To acquire the enjoyment of the Lord they rest on great preceptors. They resort to Prapatti alone due to their inability for practising Bhaktiyoga etc. 
 </details>
@@ -699,7 +699,7 @@ title = "०८ जीव-निरूपणम्"
 सहान्यद् य उशन्ति ते ॥ ८.१८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[९७]] 
 
@@ -717,7 +717,7 @@ title = "०८ जीव-निरूपणम्"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 १८ 
 
@@ -731,7 +731,6 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 एकान्तिनः फलं मुक्त्या सहान्यद्य उशन्ति ते ॥ ८.१८॥
 
 " सर्वाधिकारतां B.
-
 </details>
 
 
@@ -760,7 +759,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 यो मोक्षम् अभिकाङ्क्षति ॥ ८.२०॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अथ परमैकान्तिन आह-परमेति । ये भगवत्प्रीतिमेकामेव फल- तयोद्दिश्य भगवन्तं प्रपद्यन्ते, ते परमैकान्तिन इत्यर्थः । परमे सर्वोत्कृष्टे भगवत्प्रीतिरूपे फल एवैको मुख्योऽन्तो निश्चयो येषां ते परमैकान्तिनः । ते किल परब्रह्मानन्दानुभवरूपं मोक्षमपि फलतया नोद्दिशन्ति । किंतु भगवत्प्रीति- मेकामेव ।  
 
@@ -775,7 +774,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 19, 20. Paramaikāntins do care only for the satisfaction of the Lord and wish to obtain Mokṣa only. He who after experiencing the fruit of his Karman which has begun to give effect wishes to obtain Mokṣa, is called Dṛpta. But he is called Arta who feels himself greatly afflicted in Samsara as if inflamed in fire and wishes to obtain Mokşa immediately after the performance of Prapatti. 
 
@@ -796,7 +795,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 आविर्-भूत--स्व-स्व-रूपो मुक्तो ब्रह्मानुभूति-भाक् ॥ ८.२१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 सत्सङ्गादिति । इदमत्र श्लोकद्वयम्- 
 
@@ -830,7 +829,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 २१ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 21. He goes on the path described in the couple of verses beginning with Satsangat (through the association of good people) etc., and enjoy the bliss of the Brahman after getting back his real and essential nature. 
 
@@ -856,7 +855,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 सञ्चारोऽस्य न रुध्यते ॥ ८.२२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 मुक्तौ ब्रह्मणा सहाभेदं जीवस्य केचिदाचक्षते । तन्निरासार्थे तत्र तस्यावस्थामाह—मुक्तस्येति । “निरञ्जनः परमं साम्यमुपैति ” इत्यादिश्रुतिषु मुक्तस्येश्वरेण सह परमसाम्यमुच्यते । तच्च साम्यं भेदगर्भमिति नाभेदवर्णनं युक्तम् । किंतु भगवत्स्वरूपरूपगुणाद्यनुभवे भगवता सहात्यन्तसाम्यं मुक्तस्य । यदाह श्रुतिः- " सोऽश्नुते सर्वान् कामान् सह । ब्रह्मणा विपश्चिता " इति अत्र ब्रह्मणा सहेति सहयोगे तृतीया । न प्रकृत्यादित्वादभेदे, अनन्वयात् । सूत्रकारोऽपि, "भोगमात्रसाम्यलिङ्गाच्च " इत्याह । अस्य मुक्तस्य स्वेच्छया सर्वेषु लोकेषु कामचारो भवति । तत्र न कोऽपि प्रतिबन्धः । तथा च श्रूयते— सर्वेषु लोकेषु कामचारो भवति " "इमान् लोकान् कामान्नी कामरूप्यनु- संचरन् ” इत्यादि । 
 
@@ -865,7 +864,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 २२ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 22. Equality of the Muktas with the Brahman is only in enjoyment. This fact has been laid down in the Srutis. His free movement in all worlds is not obstructed. 
 
@@ -887,7 +886,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 अनावर्तन-शास्त्रं तु कर्मावर्त-निषेध-कृत् ॥ ८.२३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[१००]] 
 
@@ -897,7 +896,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 23. The self-will of the Muktas is got subject to Hari's will. The rule that there is no return of Muktas from Mokṣa, prohibits only the return caused by Karman. 
 
@@ -928,7 +927,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 अनन्त-गरुडादयः ॥ ८.२४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 स्वेच्छावतीर्णान् कांश्चिन्निदर्शयिष्यन् प्रथमं तेषां नित्यत्वमाह- नित्येति । नित्यानामनन्तगरुडविष्वक्सेनादीनां ज्ञानं नित्यमसंकुचितप्रसरं भवति । तथा ते भगवदाज्ञानुसारेण नित्यभगवत्कैंकर्यरता भवन्ति । एतेन तेषां नित्यत्वं न केवलं स्वरूपेण, स्वरूपनित्यत्वस्य बद्धमुक्तनित्यसाधारण्यात्; किंतु गुणतः क्रियया च । बद्धमुक्तयोस्तु गुणक्रिये न नित्यप्रसरे, बद्धदशायां प्रतिबद्धत्वादिति भावः । 
 
@@ -936,7 +935,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 24. The Nityas viz. Ananta, Garuda and others are endowed with eternal knowledge which is never narrowed. They are engaged in the Lord's service on His command. 
 
@@ -962,7 +961,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 आधिकारिकता ऽमीषाम् ईश्वरेण निरूपिता ॥ ८.२५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[१०१]] 
 
@@ -975,7 +974,7 @@ Wise men say that all are qualified for Prapatti. Of these Ekantins are those wh
 २५ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 25. Their incarnations etc., take place only on the Lord's will. Their authority and power are determined by the Lord. 
 </details>

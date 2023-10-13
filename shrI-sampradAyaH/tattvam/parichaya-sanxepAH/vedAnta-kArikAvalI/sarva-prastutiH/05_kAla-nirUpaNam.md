@@ -11,7 +11,7 @@ title = "०५ काल-निरूपणम्"
 स कालो द्विविधो मतः ॥ ५.१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तदेवं प्रकृतिकालशुद्धसत्त्वधर्मभूतज्ञानजीवेश्वर भेदभिन्नेषु द्रव्येषु प्रकृति निरूप्यानन्तरं प्राप्तकालं कालं निरूपयितुं प्रकरणान्तरमारभ्यते । सांख्यसौगत- चार्वाकाः कालतत्त्वमत्यन्ताय निनुवते । पाशुपतास्तु कालतत्त्वमभ्युपयन्तोऽपि द्रव्यान्तराणामिवास्यापीश्वरमाया सृज्यत्वमातिष्ठन्ते । यदाह तत्त्वप्रकाशे भोजः- 
 
@@ -21,7 +21,7 @@ title = "०५ काल-निरूपणम्"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 1. Time is said to be Jada (an inert substance) devoid of the triad of Guņas. It is of two kinds: Akanda (Undivided) and Kanda (Divided). 
 </details>
@@ -41,13 +41,13 @@ title = "०५ काल-निरूपणम्"
 बहुभेदस् त्वसौ +++(खण्डकालो)+++ मतः ॥ ५.२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[५६]]
 आद्य इति ; अखण्डकाल इत्यर्थः । विभुरिति ; सर्वमूर्तद्रव्यसंयोगित्वं विभुत्वम् । न तु परममहत्परिमाणत्वम् । तस्य सामान्येन त्रैविध्यमाह- भूतेति । भूतो घटः, भावी घटः, वर्तमानो घटः इत्यादिरूपेण भूतत्व- भावित्ववर्तमानत्वप्रकारकधी भेदकारीत्यर्थः । कालस्य सर्वत्र पदार्थविशेषणतयैव प्रतीतेः पदार्थप्रत्यक्षे कालस्यापि प्रत्यक्षत्वमनेनोक्तं भवति । एतेन त्रिविध भेदे प्रमाणमपि दर्शितं भवति । प्रभेदान्तराण्याह — निमेषादीति । आदिपदेन काष्ठाकलामुहूर्तदिवसादयो ग्राह्याः । असौ खण्डकालो बहुभेदो मत इत्यर्थः। २ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 2. The former is Vibhu (all pervading). It gives rise to the cognition as per past, future and present and has also many divisions as Nimeșa and so on. 
 </details>
@@ -68,7 +68,7 @@ title = "०५ काल-निरूपणम्"
 स्याद् उपादान-कारणम् ॥ ५.३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 सिंहावलोकनन्यायेन पुनश्चाखण्डकाले विशेषमाह - अखण्डकाल एवेति । एवकारः खण्डकालं व्यवच्छिनत्ति । नित्य इति ; उत्पादविनाशरहित इत्यव- गम्यते । खण्डकालस्तूत्पादविनाशशालीति फलितोऽर्थः । ननु नित्यस्य विभोश्चाखण्डकालस्य निमेषादिरूपेण विकाराभ्युपगमे नित्यत्वविभुत्वे भज्ये- यातामिति चेत्, अत्र ब्रूमः — विकारो हि द्विधा । अवयवोच्छूनताहासलक्षणः, नामान्तरभजनार्हतालक्षणश्च । द्विविधोऽप्येष विकारो न नित्यत्वविरोधी । नित्याया एव प्रकृतेरीदृशविकारभजनस्य प्रमाणप्रतिपन्नत्वात् । तथाच श्रूयते— " अजामेकां लोहितशुक्लकृष्णाम्” इति । अजामिति नाशराहित्यस्याप्युप- लक्षणम्। अनेन नित्यत्वमुक्तं भवति । एकामिति नैकविधविकारजातमूलत्व- मुच्यते । लोहितशुक्लकृष्णामिति तेजोऽबन्नात्मना परिणतिरुच्यते । तेजोऽबन्ना- त्मना परिणाममापन्नापि सा अजा एकैवेति विवक्षितोऽर्थः । तथा स्मृतिरपि-काल-निरूपणम् 
 
@@ -79,7 +79,7 @@ title = "०५ काल-निरूपणम्"
 ३ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 3. The undivided Time is known to be Nitya (eternal). It acts as Upādāna (material cause) for its various manifestations (as Nimesa etc.). 
 </details>
@@ -99,12 +99,12 @@ title = "०५ काल-निरूपणम्"
 कालम् आलम्ब्य कार्य-कृत् ॥ ५.४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 ततः अखण्डकालकार्यतया कार्यरूपो निमेषादिः खण्डकालो नैव नित्यः । किंत्वनित्य इत्यवधार्यताम् । ईशानः सर्वेश्वरः कालं सहकारितयालम्ब्यैव लीलाविभूतौ प्राकृतप्रपञ्चे सर्वमपि कार्यं करोति । ४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 4. Hence, the effected Time is Anitya, (non- eternal). The Lord in His sportive sphere functions as dependent on Time. 
 </details>
@@ -124,13 +124,13 @@ title = "०५ काल-निरूपणम्"
 कालस् तु परमात्मनः ॥ ५.५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एष इति । एष ईश्वरः । कालं नावलम्बते, कालमपेक्ष्य न करोतीत्यर्थः । अनेन नित्यविभूतावपि कालसद्भाव उक्तः । तदुक्तम् - "कालं स पचते तत्र न कालस्तत्र वै प्रभुः" इति । अतः सोऽयं कालः परमात्मनः क्रीडा- परिकरः ; लीलोपकरणमित्यर्थः ।
 ५
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 5. But in His eternal sphere He functions not dependent on Time. But Time serves as an instrument in his sport. 
 </details>
@@ -150,7 +150,7 @@ title = "०५ काल-निरूपणम्"
 एवं प्रकाशितं काल-स्वरूपस्य निरूपणम् ॥ ५.६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 नित्येति । प्रलयस्त्रिधा – नित्यप्रलयः, नैमित्तिकप्रलयः, प्राकृतप्रलयश्चेति । त्रिविधेऽपि प्रलये कालो भगवतः सहकारिकारणं भवतीत्यर्थः । त्रिविधप्रलय- स्वरूपं चैवमुपवर्णितं पुराणेषु । यथा कौर्भे- 
 
@@ -167,7 +167,7 @@ title = "०५ काल-निरूपणम्"
 ६ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 6. The Pralaya (Dissolution) which is known of three kinds namely Nitya (frequent), Naimittika (occasional) and Prākrta (material) is subject to Time. Thus the nature and characteristics of Time have been explained.
 </details>

@@ -11,12 +11,12 @@ title = "०३ शब्द-निरूपणम्"
 तत्र लक्षण-सङ्गतिः ॥ ३.१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अनाप्तेत्यादि । अनाप्तैरयथार्थभाषिभिरनुक्तं यद्वाक्यं तच्छाब्दप्रमितेः करणम् ; शब्दप्रमाणमित्यर्थः । आप्तोक्तवाक्यमित्युक्तौ वेदस्यापौरुषेयस्यासंग्रहः स्यादिति नञद्वयघटितं लक्षणमुक्तम् । तदेवाह-वेदस्येति । ईश्वरोऽपि वेदस्य प्रवर्तयितैव ; नोत्पादक इति भावः । १ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 1. The sentence which is not uttered by non- trustworthy person, is considered as the means of the verbal cognition. Because there is no any human origin for the Veda, this definition is applicable in the case of Veda also. 
 </details>
@@ -37,7 +37,7 @@ title = "०३ शब्द-निरूपणम्"
 अप्रामाण्यं न शङ्क्यताम् ॥ ३.२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 ननु मीमांसकैः शब्दस्य कार्य-परतयैव प्रामाण्याङ्गीकारात्  
 सिद्ध-ब्रह्मावबोधकानां वेदान्त-वाक्यानां  
@@ -53,7 +53,7 @@ title = "०३ शब्द-निरूपणम्"
 [[२३]] 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 2. The Veda can teach us about the Brahman which is already in existence, as the words are capable of denoting the things already existent. Therefore the authoritativeness of the Vedanta passages should not be questioned as there is no truth in saying that a word can denote only the thing which is to be accomplished. 
 </details>
@@ -75,12 +75,12 @@ title = "०३ शब्द-निरूपणम्"
 उत्तरो ब्रह्म-गोचरः ॥ ३.३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 वेदस्य भागद्वयात्मकतां तावदाह — कर्मेत्यादि । कर्मकाण्डब्रह्मकाण्डभेदेन द्वेधा विभाग इत्यर्थः। तत्र पूर्वभागः कर्मपरः । उत्तरभागो ब्रह्मपर इति विवेकः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 3. The Veda has two parts—one dealing with the Karman and the other with the Brahman. The former part deals with the Karman and the latter with the Brahman. 
 </details>
@@ -101,7 +101,7 @@ title = "०३ शब्द-निरूपणम्"
 शास्त्रैक्यं न विरुध्यते ॥ ३.४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तदैक्यात्; भागद्वयात्मकस्य वेदस्यैक्यात् । व्याख्ययोः ; वेदार्थविचार- परयोः कर्मब्रह्ममीमांसयोः । एकशास्त्रता ; मीमांसारूपैकशास्त्रता । अत्र तदैक्यादिति हेतुनिर्देशः । व्याख्येयस्य वेदस्यैक्यात् व्याख्यानरूपयोः पूर्वोत्तरमीमांसयोरैक्यमित्यर्थः । यथा शारीरकचतुर्लक्षण्यां समन्वयाविरोधसाधन- . फलरूपावान्तरविषयभेदेऽपि ब्रह्ममीमांसारूपत्वात् विशिष्टमेकं शास्त्रमिति तद्भाष्यस्याप्येकशास्त्रत्वं तद्वदिति भावः । 
 
@@ -110,7 +110,7 @@ title = "०३ शब्द-निरूपणम्"
 अत्रेदमवधेयम् – अथातो ब्रह्मजिज्ञासेत्यत्राथशब्दः कर्मविचारानन्तर्यपरः । अथ कर्मविचारानन्तरम्, अतः कर्मविचारस्य वृत्तत्वाद्धेतोः, ब्रह्मजिज्ञासोदेतीति सूत्रार्थः । अध्ययनविधिर्हि साङ्गसशिरस्कवेदाध्ययनविषयः । निर्वृत्ते च तथाविधेऽध्ययने रागतो विधितो वा पुरुषः कृत्स्नवेदार्थविचारे प्रवर्तमानो- ऽधीतक्रमेण प्रथमं कर्मविचारे प्रवर्तते । ततो विचारितानां कर्मणामल्पास्थिर- फलत्वमवगम्यानल्पस्थिरफलब्रह्मविचारे प्रवर्तते इति वेदार्थविचाररूपाया मीमांसाया एकाधिकारिकत्वादेकशास्त्रत्वमेव प्रामाणिकमिति सिद्धान्तः । तथाचाह श्रुतप्रकाशिकाकारः -“ अथातः शब्दोपस्थापितोऽधिकारिविशेषः प्रदर्शितो भवति। समधिगतकर्मा सांसारिकफलनिर्विण्णोऽनन्तस्थिरफलाकाङ्क्षी हि शास्त्र- मधिकरोति" इति । न चैवं शारीरकस्य विरक्ताधिकारिकत्वे स्वर्गादिसाधन- काम्यानुष्ठाता न कश्चित्स्यादित्यननुष्ठानलक्षणमप्रामाण्यं पूर्वकाण्डस्य स्यादिति चेत्, मैवम्; मोहात् विघ्नसंचयाच्च ये कर्ममात्रं विचार्य विश्रान्ताः, ये च ख्यात्यादिकामाः, ते श्रुतशारीरका अपि प्रवृत्तिधर्म न जह्युरिति तस्य सार्थक्य- संभवात् । एवं स्थितेऽत्राथशब्दस्य साधनचतुष्टयसंपत्त्यानन्तर्यार्थकत्वं श्रीशंकरा- चार्यैरुपवर्णितमवलम्ब्य सर्वज्ञात्मना संक्षेपशारीरके कर्मब्रह्ममीमांसयोर्भिन्नफल- कत्वाद्भिन्नाधिकारिकत्वं शास्त्रभेदे बीजमुपक्षिप्तम् । तच्च तदनुगामिभिः क्रमेण युक्तिजालसलिलसेकेन परिवर्धितम् । तत्र युक्तयश्चैवमुपपादिताः -- तत्त्वज्ञानस्यैव मोक्षसाधनत्वात् कर्मणां तत्र न कथंचिदप्युपयोगः । प्रत्युत कर्मज्ञानयोर्विरोधोऽपि । कर्माणि हि आविद्यकपुरुषाधिकृतानि । तत्त्वज्ञानं त्वविद्योच्छेदकामाधिकृतमिति कर्मज्ञानयोरालोकतमसोरिव परस्परं विरोधात् तयोर्न कथंचित्समसमुच्चयोऽङ्गाङ्ग- भावसमुच्चयो वा संभवति । अतस्तत्प्रतिपादिके उभे अपि मीमांसे नैकस्य शास्त्रस्य शाखाभूयमर्हतः । किंतु पृथकशास्त्रे इति । तन्निराकरोति — तदैक्यादिति । कर्मज्ञानयोः समसमुच्चयासंभवेऽप्यङ्गाङ्गिभावेन समुच्चयः संभवत्येव । अनभि- संहितफलविशेषतया क्रियमाणैर्हि कर्मभिः ज्ञानोत्पत्तिविरोधिपापनिर्हरणात् कर्माणि ज्ञानस्येतिकर्तव्यतामापद्यन्ते । अतो भगवदाराधनरूपकर्मप्रतिपादनपरः . पूर्वकाण्डः। उत्तरकाण्डस्तु सर्वकर्मसमाराध्यभगवत्प्रतिपादनपर इति कुतस्त- योर्विरोधः । कुतस्तरां च तद्विचारपरयोर्मीमांसयोर्विरोध इति नैकशास्त्रत्व- व्याघातः । पूर्वोत्तरमीमांसारूपो व्यवहारोऽप्यत्रानुकूल इति वदन्ति । उत्तर- मीमांसाया अथातः शब्दपुरस्कारेण प्रतिज्ञान्तरेण चारम्भात् शास्त्रभेदः [[२५]] सूत्रकृत्संमत इत्यत्राह-अध्यायेति । यद्यथातः शब्दश्रवणमात्रेण प्रतिज्ञान्तरेण च शास्त्रभेदः, तदा 'अथातः शेषलक्षणम् ” “ 'अथातः क्रत्वर्थपुरुषार्थयो- जिज्ञासा" इत्यादावपि शास्त्रभेदः स्यादिति प्रतिबन्द्यभिप्रेता । ४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 4. As the text of entire Veda comes under one head (Veda) with its two parts, its explanatory treatise also should come under a single head (Mimāmsā) with its two parts (Purva and Uttara). The internal difference of the subjects of each of the parts does not stands in the way of oneness of Mimamsā as in the case of adhyayas of each part. 
 </details>
@@ -136,7 +136,7 @@ title = "०३ शब्द-निरूपणम्"
 **मन्त्रः** स्याद्, **अर्थ-वाद-गीः** … ॥ ३.५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 प्रकारान्तरेण त्रैविध्यमाह - विधीत्यादि ।  
 विधिः, अर्थवादः, मन्त्र इति त्रिधा विभाग इत्यर्थः ।  
@@ -144,7 +144,7 @@ title = "०३ शब्द-निरूपणम्"
 अनुष्ठेयार्थप्रकाशको मन्त्र इति मन्त्रलक्षणम् । यथा “ इषे त्वा" इत्यादिः । ९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 5. It is of three kinds : Vidhi, Arthavāda and Mantra. Mantra is that which indicates the thing to be performed by the agent. The term Arthavāda may be defined thus: 
 </details>
@@ -164,7 +164,7 @@ title = "०३ शब्द-निरूपणम्"
 परिसङ्ख्या+++(←"पञ्च पञ्चनखा भक्ष्याः")+++-विभेदतः ॥ ३.६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अर्थवादो नाम पुरुषप्रवृत्तिनिवृत्त्युत्तम्भकं वचनम् ।  
 यथा – “वायुर्वै क्षेपिष्ठा देवता ” इति वचनं वायव्येष्टौ पुरुषप्रवृत्तिमुत्तम्भयति ।  
@@ -187,7 +187,7 @@ title = "०३ शब्द-निरूपणम्"
 ६
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 6. Arthavada is that which induces the agent to perform the action. Vidhi is that which enjoins something on the agent. Vidhi is of three varieties: Apūrva, Niyama and Parisamkhya. 
 </details>
@@ -207,7 +207,7 @@ title = "०३ शब्द-निरूपणम्"
 मन्तव्यानि नयान्तरे ॥ ३.७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 प्रकारान्तरेणापि विभागमाह-नित्या इति ।  
 अहरहः संध्यामुपासीत” इति नित्यविधिः । “उपरागे स्नायात्” इति नैमित्तिकविधिः । “ ज्योतिष्टोमेन स्वर्गकामः ” इत्यादिः काम्यविधिरिति ज्ञेयम् । एतेषां विस्तरेण स्वरूपलक्षणादीनि शास्त्रान्तरेषु ज्ञातव्यानि । विस्तरभियात्र न विस्तृतानीत्याह - तेषामिति 
@@ -215,7 +215,7 @@ title = "०३ शब्द-निरूपणम्"
 ७ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 7. Again Vidhis are of various kinds : Nitya, Naimittika, Kamya and so won. The nature and characteristics of these varieties may be understood from other works. 
 </details>
@@ -238,7 +238,7 @@ title = "०३ शब्द-निरूपणम्"
 षड् **अङ्गानि** प्रचक्षते ॥ ३.८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 वेदाङ्गान्याह – छन्द इत्यादि । 
 
@@ -258,7 +258,7 @@ title = "०३ शब्द-निरूपणम्"
 २७ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 8. Chandas, Kalpa, Siksā, Nirukta, Jyautisa and Vyakaraṇa. Wise men say that these are six auxiliary works of the Veda. 
 </details>
@@ -279,13 +279,13 @@ title = "०३ शब्द-निरूपणम्"
 **निरुक्तं** स्वार्थ-बोधकम् ॥ ३.९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 षण्णामङ्गानां प्रत्येकं स्वरूपं संगृह्याह – अनुष्टुबादिकमिति ।  
 स्वार्थ- बोधकम् ; वैदिकपदार्थबोधकम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 9. Chandas treats on metre such as anustubh etc. Kalpa deals with the rules and regulations on the performance of S'rauta and other rites. S'ikṣa is a treatise on phonetics. Nirukta gives a glossary on certain important Vedic words. 
 </details>
@@ -307,7 +307,7 @@ title = "०३ शब्द-निरूपणम्"
 इति साङ्गे +++(वेदे)+++ प्रमाणता ॥ ३.१०॥+++(5)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 कालस्येति ; " वसन्ते वसन्ते यजेत " इत्याद्युक्तवसन्तादिकालस्येत्यर्थः । 
 साङ्गे ; षडङ्गसहिते वेदे । 
@@ -315,7 +315,7 @@ title = "०३ शब्द-निरूपणम्"
 ९, १० 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 10. Jyautisa is a science dealing with the fixation of proper time for the performance of Vedic rites etc. Vyakaraṇa gives the grammatical rules for correct formation of the words. Thus the Veda together with its auxiliaries is to be held authoritative. 
 
@@ -335,14 +335,14 @@ title = "०३ शब्द-निरूपणम्"
 एतद्-विरुद्धं यत्-किञ्चिन् नाश्नुवीत प्रमाणताम् ॥ ३.११॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एतन्मूलतया; वेदमूलतया । स्मृत्यादीनामिति ; आचारादिकमादि- पदार्थः । एतद्विरुद्धम् ; वेदविरुद्धम् ; यथा चैत्यवन्दनादिबोधिका बाह्यानां स्मृतिः । नाश्नुवीत ; न लभेत । 
 
 ११ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 
 11. It is also said that the S'mṛtis and other works which are based on the Veda are held as authoritative. The work whichever is opposed to the Veda is not authoritative.
@@ -365,7 +365,7 @@ title = "०३ शब्द-निरूपणम्"
 ग्रन्थ-विस्तर-भीरुणा ॥ ३.१२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 **आकाङ्क्षादिकम्** इति । योग्यता-संनिध्यादिर् आदिपदार्थः ।  
 **शाब्द-बोधेति** ;  
@@ -376,7 +376,7 @@ title = "०३ शब्द-निरूपणम्"
 १२ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 12. Akānksā (mutual expectancy of words) and so on are the means to understand the correct meaning of a sentence. They are not explained here for the fear of bulkiness of the work. 
 </details>
@@ -397,7 +397,7 @@ title = "०३ शब्द-निरूपणम्"
 वृत्तिर् अन्यौपचारिकी ॥ ३.१३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 शब्दस्य प्रभेदमाह - मुख्येति । मुख्य औपचारिकश्चेति शब्दो द्विधा । तत्राभिधावृत्त्या बोधको मुख्यः ; यथा—घटशब्दः कलशबोधकः । तदन्यया गौण्यादिकया बोधक औपचारिकः ; यथा- पुरुषोत्तमे मुख्यवृत्तस्य भगवच्छब्दस्यान्यत्र देवतान्तरादौ तद्गुणलेशयोगात् प्रवृत्तिः । 
 
@@ -405,7 +405,7 @@ title = "०३ शब्द-निरूपणम्"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 13. Words are of two kinds: Mukhya (of primary denotation) and Aupacārika (of secondary denotation). Mukhya is a word that which denotes its natural meaning. Aupacārika is a word other than the Mukhya. 
 </details>
@@ -426,7 +426,7 @@ title = "०३ शब्द-निरूपणम्"
 हरेर् इति गदिष्यते ॥ ३.१४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[२९]] 
 
@@ -435,7 +435,7 @@ title = "०३ शब्द-निरूपणम्"
 १४
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 14. Words denoting the body, naturally denote also the thing embodied. Therefore Bhagavan Hari is the meaning of every word. This fact will be ex- plained clearly later on. 
 

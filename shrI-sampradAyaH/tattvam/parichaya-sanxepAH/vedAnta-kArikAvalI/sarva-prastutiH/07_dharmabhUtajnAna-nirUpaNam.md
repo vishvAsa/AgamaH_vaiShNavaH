@@ -12,7 +12,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 +++(तत्)+++ नित्यं नित्येश्वरेषु तत् ॥ ७.१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अथ धर्मभूतज्ञानं निरूपयितुम् उपक्रमते - धर्म इति ।  
 यथा प्रभा दीपधर्मतया भाति,  
@@ -107,7 +107,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 १ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 [[७३]] 
 
@@ -131,7 +131,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 नाशोत्पत्ति-विपाक-भाक् ॥ ७.२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 बद्धमुक्तज्ञानयोर्विशेषमाह – बद्धेष्विति । तत् नित्यमपि ज्ञानम् । बद्धेषु कर्मबद्धेषु जीवेषु । तिरोभूतम् आवृतं भवति । अतः स्वतः सर्वविषयावगाह- स्वभावमपि तत् संसृतिदशायां कुण्ठितप्रसरं भवतीत्यर्थः । मुक्तेषु तु प्राक् मुक्तेः प्राक् तिरोभूतम् । मुक्त्यनन्तरं तु नित्येश्वराणामिव सर्वतः प्रसरमित्यर्थः, " परमं साम्यमुपैति ” इति श्रुतेः । संसृतिदशायां संकोचविकासाभ्यां नाशो- त्पादव्यवहार इत्यर्थः । एवं चात्मधर्मभूतज्ञाने संकोचविकासाभ्युपगमात् तस्यैव विकारित्वम्, न त्वात्मन इति तस्याविकारित्वश्रुत्या न विरोधः । 
 
@@ -145,7 +145,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 विकास एव चोत्पत्तिरिति व्यवहियते । २ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 2. In respect of those who are under bondage. it (Knowledge) is concealed. In respect of those who are freed from bondage it was formerely concealed. Knowledge is said to be the subject of loss and production, because of its contraction and expansion. 
 </details>
@@ -168,7 +168,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 ज्ञान-प्रसरणाद् भवेत् ॥ ७.३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[७४]] 
 
@@ -183,7 +183,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 ३
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 3. Contraction of knowledge happens when it becomes shrunk due to the contact with the senses. Its expansion takes place when it becomes expanded due to the contact with the senses. 
 </details>
@@ -207,7 +207,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 दीपवत् स्व-प्रकाशता ॥ ७.४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एवं ज्ञानस्य नित्यत्वं प्रतिपाद्य  
 स्वयं-प्रकाशत्वं, स्वतः प्रामाण्यं च प्रतिपादयति— स्वप्रकाशमिति -  
@@ -287,7 +287,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 ४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 4. In this system, it (knowledge) is held as self- luminous and self-valid. Its self-luminosity is due to the fact that it reveals itself as well as other objects just as the light. 
 </details>
@@ -307,7 +307,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 प्रभावद् गुणतापि च ॥ ७.५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 यदि ज्ञानं नित्यं स्वयंप्रकाशं च  
 तदा तस्य सदातनत्वात् सर्वदापि भासेत ;  
@@ -342,7 +342,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 ५ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 5. During sleep, knowledge (of men) is eclipsed by the vicinity of Tamas. Knowledge is considered as both a substance and quality like the rays (of the sun). 
 </details>
@@ -361,7 +361,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 स्मरामीत्य्-आदिवन् मतः ॥ ७.६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 पराभिमतानां सुखदुःखेच्छादीनां पार्थक्यम् आशङ्क्य समाधत्ते -धीभेदा इति ।  
 एवं च न तेषां पृथक् पदार्थ-गणनावसर इति भावः ।  
@@ -375,7 +375,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 6. Happiness, sorrow, desire, enmity, effort etc., are only the various manifestations of knowledge and not different from it. The usage as 'I hate, I desire ' etc., must be considered like 'I recollect' etc. 
 </details>
@@ -395,7 +395,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 ऽनन्ताश् च भगवद्-गुणाः ॥ ७.७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 ते च धीभेदा अनन्ता इत्याह- स्मृत्यादय इति ।  
 व्यवसाय-मोह-रत्य्-आदय आदिपदार्थः ।  
@@ -410,7 +410,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 7. Recollection and other manifestations of the knowledge resting on jiva are endless. The numerous qualities of the Lord are the different forms of His knowledge and power. 
 </details>
@@ -429,7 +429,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 तद्भाष्येणावगम्यते ॥ ७.८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 धीविततिभूतानाममीषां विस्तरजिज्ञासून् प्रत्याह -गद्यत्रयेति ।  
 पृथुगद्य- श्रीरङ्गगद्यवैकुण्ठगद्याख्यगद्यत्रयग्रन्थ इत्यर्थः ।  
@@ -443,7 +443,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 8. The facts mentioned above have been dis- closed by the Great Acarya (Sri Rāmānuja) in his Gadyatraya. A clear understanding of the character- istics of these qualities is gained from the com- mentary thereon. 
 
@@ -465,7 +465,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 मुक्तौ परम-कारणम् ॥ ७.९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अथ मोक्षकारणमाह- भक्तीति । “स्नेहपूर्वमनुध्यानं भक्तिरित्यभि- धीयते " इत्यादिलक्षिता महनीयविषये निरतिशयप्रीतिरूपा भक्तिरत्र विवक्षिता । प्रपत्तिः, शरणागतिः; 
 
@@ -488,7 +488,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 ९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 9. The Lord grants final liberation (to men), when He is well pleased by the means of Bhakti (Unin- terrupted meditation with love) or Prapatti (Uncondi- tional Self-Surrender). Therefore Bhakti and Prapatti alone are the principal means for the attainment of Mukti. 
 
@@ -513,7 +513,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 +++(यज्ञादि स्वकर्तव्यान्तं)+++ कर्म+आराधनम्+++(→योग)+++ ईशितुः ॥ ७.१०॥+++(5)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तर्हि कर्मयोगज्ञानयोगयोर्भगवदुपदिष्टयोः क उपयोग इत्याकाङ्क्षायाम् आह कर्मेति ।  
 कर्मयोगज्ञानयोगयोर्भक्तियोगाङ्गत्वेन तत्र कीर्तनमित्यर्थः ।  
@@ -545,7 +545,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 १०
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 10. Karma-yoga and Jñāna-yoga are said to be the means of Bhakti-yoga. The ritual worship of the Lord without any regard for its fruits is called Karma- yoga. 
 </details>
@@ -566,7 +566,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 **भक्तौ कारणता** ऽनयोः ॥ ७.११॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 ज्ञान-योगं लक्षयति-विनिर्मलेति ।  
 कर्म-योग-परिशीलनेन  
@@ -598,7 +598,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 11. The meditation (on the Self) with a stainless mind is called Jñana-yoga. These two Yogas directly or indirectly are the means of Bhakti-yoga. 
 
@@ -620,7 +620,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 दर्शनाकारतां गता ॥ ७.१२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[८०]] 
 
@@ -637,7 +637,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 १२ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 12. The uninterrupted stream of meditation (on the Lord) which is practised with its eight-fold auxi- liaries and developed by the application of Viveka and other disciplines so as to reach the state on a par with direct intuition, is called Bhakti-yoga. 
 </details>
@@ -657,7 +657,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 प्रपत्त्य्-अङ्गवती मता ॥ ७.१३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 स च भक्तियोगः तत्तच्छरीरावसानसमय एव परिपाकावस्थाम् उपेत्य साधकस्य संसिद्धा भवति । अतः सः शरीरावसानपर्यन्तमनुष्ठेयः । तथा च श्रुतिः ; 
 
@@ -700,7 +700,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 
 13. This Yoga will grow ripe at the end of the material body. This is called Sadhanabhakti (Bhakti as the means). It requires Prapatti (Self -Surrender) as its auxiliary. 
@@ -720,7 +720,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 सिद्धोपायत्वम् अश्नुते ॥ ७.१४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एवं भक्तियोग-रूपां साधन-भक्तिम् उपपाद्य  
 प्रपत्ति-योग-रूपां साध्य-भक्तिम्+++(=साध्या मुक्तावस्थास्था भक्तिर् यया सा)+++ आह-  फलभक्तिस्त्विति । भगवद्-अनुग्रहेति ; 
@@ -755,7 +755,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 १४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 14. But Phalabhakti (Bhakti as the effect) takes place only by the grace of the Lord. Hence, Hari occupies the place of the direct and self-accomplished means. 
 </details>
@@ -779,7 +779,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 ब्रह्म-प्राप्त्य्-उपयोगिनी ॥ ७.१५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 भक्तियोगप्रसङ्गात् तत्संगत ब्रह्मविद्या भेदानाह— अन्तरादित्येति । आदि- पदात् दहरभूमन्यासविद्यादयो गृह्यन्ते । ताश्च विद्यास्त्रयस्त्रिंशदिति प्रायोवादः । वासुदेवादिव्यूहोपासनान्यपि गृह्यन्ते । तदाह- बहुधेति । सर्वापीयं ब्रह्मविद्या ब्रह्मप्राप्तावुपकरोति । अनेन न्यासविद्याया ब्रह्मविद्यात्वे संदिहानान् परान् प्रति तस्या विद्यान्तरसाम्यं प्रदर्शितं भवति । यदाहुः, 
 
@@ -793,7 +793,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 15. It is considered to be of various kinds due to the division as Antarādityavidya and so on. All these Brahmavidyas are helpful in attaining the Brahman. 
 
@@ -828,7 +828,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 **अङ्ग-पञ्चकम्** ईरितम् ॥ ७.१७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एवं सामान्यतो ब्रह्मविद्या उपवर्ण्य  
 न्यासविद्यायां विशेषमाह- न्यास-विद्येति ।  
@@ -895,7 +895,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 16 & 17. Nyāsavidyā is the Prapatti (Self-surren- der to God) which has five-fold auxiliaries-namely -determination to be always agreeable to the Lord and His devotees, abstaining from hostility towards them, faith as 'He will surely save me', seeking Him [[८४]] as the saviour, surrendering one's self to Him, and helplessness. 
 </details>
@@ -914,7 +914,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 इयम् उत्तर-पूर्वाघाश्लेष-नाशकृद् उच्यते ॥ ७.१८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 न्यासविद्यास्वरूपं तन्महिमा तदधिकार इत्यादिकं सर्वे गुरुमुखादवगन्तव्यमित्याह – गुरूपसदनादिति ।  
 मनीषिभिरित्यनेन सारासारविवेकज्ञानानामेवात्र प्रवृत्तिः संभवति, नान्येषां कौतस्कुतानामिति व्यञ्जितम् ।  
@@ -930,7 +930,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 18. Men of intellect should know fully about this, by sitting at the feet of the teacher. It is said that this (Prapatti) will effect the non-connection with future sins and the destruction of past sins. 
 
@@ -953,7 +953,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 शासनं व्यवसीयते ॥ ७.१९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[८५]] 
 
@@ -961,7 +961,7 @@ title = "०७ धर्मभूतज्ञान-निरूपणादि
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 19. Except the offence to Brahmavedins (knowers of Brahman) there is nothing which can resist the Prapatti from functioning. This is the decision contained in the teaching of great Acaryas. 
 </details>

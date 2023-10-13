@@ -11,7 +11,7 @@ title = "०४ प्रकृति-निरूपणम्"
 तद् उपादान-कारणम् ॥ ४.१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 प्रमाणनिरूपणानन्तरं प्रमेयनिरूपणमारभते - यदिति । प्रमाविषयमिति । अत्र च द्वेधा व्याख्या--प्रशब्दस्य प्रथमं माशब्देनान्वये प्रकृष्टा मा प्रमा यथार्थज्ञानम्, तस्या विषय इत्येका । मायाः विषयः माविषयः, मेयमित्यर्थः । प्रकृष्टं मेयं प्रमेयमित्यन्या । प्रथमपक्षे प्रकर्षः संशयविपर्ययादिभिन्नत्वम् । द्वितीये संशयविपर्ययाद्यविषयत्वमिति भिदा । तत्; प्रमेयम् । द्विधा ; द्विप्रकारा । प्रकारद्वयमेवाह — द्रव्यमिति । आद्यं तदिति ; व्यरूपं प्रमेयमित्यर्थः । उपादानेति ; उपादानकारणत्वं द्रव्यत्वमिति द्रव्यलक्षणम् । 
 
@@ -21,7 +21,7 @@ title = "०४ प्रकृति-निरूपणम्"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 1. Prameya is that which is the object of Pramā (Valid Knowledge). Prameya is of two kinds : Dravya (Substance) and Adravya (Non-Substance). The former (the Dravya) is that which acts as the material cause to the effect.. 
 
@@ -43,7 +43,7 @@ title = "०४ प्रकृति-निरूपणम्"
 तच् च +++(जडत्व-भेदेन)+++ द्वेधा प्रकीर्तितम् ॥ ४.२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 समवायिकारणमुपादानम् । यत्समवेतं कार्यमुत्पद्यते तत्समवायिकारण- मिति च नैयायिकाः परिभाषन्ते । वेदान्तिनां मते समवायानङ्गीकारात्
 [[३१]] 
@@ -57,7 +57,7 @@ title = "०४ प्रकृति-निरूपणम्"
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 2. The material cause is that which undergoes a change in its state. Or, it is Dravya which is the abode of Gunas (Attributes). Dravya is said to be of two kinds : Jada and Ajada. 
 
@@ -81,7 +81,7 @@ title = "०४ प्रकृति-निरूपणम्"
 सा सत्त्वादि-गुणत्रया ॥ ४.३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तत्र जडलक्षणमाह-अमिश्रेति । रजस्तमोभ्यामित्यादिः । रजस्तमो- भ्याममिश्रितं यत् सत्त्वं सत्त्वगुणः, तद्रहितमित्यर्थः । मिश्रसत्त्ववत्त्वमिति तु लक्षणं न वक्तुं शक्यते, जडभेदे काले अव्याप्तेः । कालो हि सिद्धान्ते गुणत्रय- रहितो नित्यश्च । अत एव तस्याप्राकृतनित्यविभूतावपि सद्भाव उपपद्यते । अत एव – “कालं स पचते तत्र न कालस्तत्र वै प्रभुः” इत्यादिकं संगच्छते । पूर्व प्रत्यक्षनिरूपणे प्रकृतिः काल इति जडस्य द्वैविध्ये उक्तेऽपि प्रकृतौ विशेषं वक्तुं पूर्वोक्तमनुभाषते—जडमिति । सेति; प्रकृतिरित्यर्थः । सत्त्वादिगुणत्रयेति ; सत्त्वादिगुणानां त्रयं यस्यामिति बहुव्रीहिः । सत्त्वादिगुणाश्रयेति पाठस्तु तल्लक्षणस्य शुद्धसत्त्वाश्रये नित्यविभूतावतिव्याप्तेर्नादर्तव्यः । 
 
@@ -92,7 +92,7 @@ title = "०४ प्रकृति-निरूपणम्"
 [[३२]] 
 </details>
  
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 3. The Jada is that which is devoid of non-mixed Sattvaguna. Jada is of two kinds : Prakrti and Kala. Prakṛti is that which has the three-fold Guna:- Sattva, Rajas and Tamas. 
 </details>
@@ -118,7 +118,7 @@ title = "०४ प्रकृति-निरूपणम्"
 1 देशनात् - B.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 प्रकृतिरिति ; पूर्वकारिकोक्तस्य लक्षणस्य लक्ष्यनिर्देशः । प्रकरोति विकारानस्या ईश्वर इति प्रकृतिः । अपादाने क्तिन् प्रत्ययः । सेति प्रकृतेरेव विशेषाभिधानार्थं पुनर्निर्देश; । क्षरेत्यादि । प्रकृतेरेव क्षरेति अविद्येति मायेति च नामान्तरैस्तत्र तत्र व्यपदेशः क्रियत इत्यर्थः । क्षरति विकरोतीति क्षरम्, "क्षरं प्रधानममृताक्षरं हरः क्षरात्मानावीशते देव एकः " इति श्रुतेः । “ क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते " इति स्मृतेश्च । महदहंकारादिरूपेण विकारित्वादिदं नाम । न विद्येत्यविद्या । नञत्र विरोधे । विद्याविरोधित्वादविद्ये- त्युच्यते, “क्षरं त्वविद्या ह्यमृतं तु विद्या” इत्यादिश्रुतेः । विचित्रसृष्टयुपकरण- त्वात् मायेत्युच्यते । मायाशब्दस्य हि विचित्रकार्यकरत्वं प्रवृत्तिनिमित्तम्, 
 
@@ -137,7 +137,7 @@ title = "०४ प्रकृति-निरूपणम्"
 ४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 4. Prakrti is also named as Kşara, Avidyā and Māyā. It is also called Avyakta when it assumes the kinetic state of becoming manifest. 
 </details>
@@ -157,7 +157,7 @@ title = "०४ प्रकृति-निरूपणम्"
 सात्त्विकत्वादि-भेदभाक् ॥ ४.५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 महदादिसृष्टिमाह---अव्यक्तादिति । कार्यौन्मुख्यविशिष्टाया मूलप्रकृतेरेव महदादिकारणत्वम् ; न तु नैयायिकाभिमतपरमाणूनामित्यर्थः । अनुमानेन परमाणुसाधने तु तस्य लाघवात् त्रसरेणावेव विश्रान्तिरस्तु । यदाहुः- “ अनुमितिविषये लाघवस्यानुसारात् ” इति । अतश्च प्रकृतिविकारो महानिति सिद्धम् । सांख्यास्तु—महान्तमेव बुद्धिपदेन व्यवहरन्तोऽध्यवसायमेव बुद्धिमा- चक्षते । तत्तु अध्यवसायस्यात्मधर्मत्वान्न संगतम् । यदि तु 'आयुर्वृतम् ' इति वदध्यवसायहेतुत्वात् महत्यध्यवसायव्यवहार इत्युच्यते, तदा तस्य नाध्य- वसायरूपत्वमित्यायातम् । महतस्त्रैविध्यमाह – सात्त्विकत्वेति । सात्त्विकराज- सतामसभेदेन त्रिविधो महानित्यर्थः । महतस्त्रैगुण्येऽपि तत्तद्गुणप्राचुर्यभेदात् तथा तथा व्यपदेश इति भावः । महतोऽहंकारसृष्टिमाह - अहंकार इति । ततः ; महत इत्यर्थः। अहंकारस्यापि त्रैविध्यमाह — त्रेधेति । सात्त्विकराजसतामस भेदेना- 
 
@@ -170,7 +170,7 @@ title = "०४ प्रकृति-निरूपणम्"
 हंकारस्त्रिविध इत्यर्थः । अभिमानोऽहंकार इति सांख्याः । तच्चाभिमानस्यात्मधर्म- त्वादसंगतमिति ज्ञेयम् । पूर्ववत् अभिमानहेतुत्वात् अभिमानत्वव्यपदेशो वा भवतु । अस्याहंकारशब्दवाच्यत्वे निदानं तु अनात्मनि देहादावहंभावहेतुत्वम्, न तु परेषामिवाहमर्थत्वम् । सर्वत्राहमर्थो हि प्रत्यगात्मा, न तु महद्विकारोऽ- हंकारः । एवं चाहंकारशब्दे द्वयी व्युत्पत्तिः । एका अहमर्थभिन्ने देहादौ अहमिति प्रतीतिः । अस्यां व्युत्पत्तौ अहंशब्दात् च्चिप्रत्ययमुत्पाद्य प्रक्रिया कर्तव्या । अन्या तु च्चिप्रत्ययं विना अहमिति प्रतीतिरहंकार इति । तत्राहंकारस्य दोष- त्वात् त्याज्यत्ववचनं विप्रत्ययान्तव्युत्पन्नाहंकारशब्दार्थमभिप्रेत्य । “अथातोऽ- हंकारादेशः ” इत्यादि तु च्चिप्रत्ययरहितव्युत्पन्नाहंकारशब्दार्थमभिप्रेत्येति विवेकः । जडस्यैवाहंकारस्य ज्ञातृत्वमिति मायावादिनः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 5. The Mahat comes forth from the Avyakta with three divisions : - Sattvika, Rājasa and Tamasa. The Ahamkara comes forth from Mahat with three divisions:—Sāttvika, Rājasa and Tamasa. 
 </details>
@@ -192,7 +192,7 @@ title = "०४ प्रकृति-निरूपणम्"
 अहङ्कारात्मना सताम् ॥ ४.६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 
 त्रिविधानाम् अहंकाराणां नामान्तराण्य् आह --वैकारिक इत्यादि ।  
@@ -204,7 +204,7 @@ title = "०४ प्रकृति-निरूपणम्"
 ६
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 6. For these three Ahamkaras there are three other names-Vaikarika, Taijasa and Bhutādi respec- tively. 
 </details>
@@ -227,7 +227,7 @@ title = "०४ प्रकृति-निरूपणम्"
 एकादशेन्द्रियाणि स्युर् ज्ञान-कर्मेन्द्रियात्मना ॥ ४.७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[३५]] 
 
@@ -239,7 +239,7 @@ title = "०४ प्रकृति-निरूपणम्"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 7. Among these, from the Sāttvikāhamkāra alias Vaikarika, assisted by the Taijasa, the eleven Indriyas (Organs) come forth with two divisions : - Organs of sense and those of action. 
 </details>
@@ -259,7 +259,7 @@ title = "०४ प्रकृति-निरूपणम्"
 घ्राण-जिह्वात्मना मतम् ॥ ४.८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 ज्ञानेन्द्रियं लक्षयति-ज्ञानेति । प्रसरणम् ; विकासः । ज्ञानस्य नित्यविभु- त्वाङ्गीकारात् ज्ञानजनकत्वं न लक्षणमुक्तम् । सिद्धान्ते ज्ञानस्य संकोचविकासा- भ्युपगमात् तद्विकासहेतुत्वसंभव इति ज्ञेयम् । तद्विभजते – तदिति । तत्रापि बाह्यान्तरविभागे आन्तरं मनः एकं, बाह्यानि तु श्रोत्रादीनि पञ्चेत्याहत्य षडपि ज्ञानेन्द्रियाणीति ज्ञेयम् । सांख्यास्तु-सर्वप्रवृत्तीनां मनःपूर्वकत्वात् मनः कर्मे- न्द्रियमपीति मन्यन्ते । यदाहुः- 
 
@@ -272,7 +272,7 @@ title = "०४ प्रकृति-निरूपणम्"
 ८ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 [[३६]]
 
@@ -295,7 +295,7 @@ title = "०४ प्रकृति-निरूपणम्"
 इन्द्रियं **श्रोत्रम्** उच्यते ॥ ४.९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 मनो निरूपयति- --मन इति । स्मृत्यादीति । प्रत्यभिज्ञादिरादिपदार्थः । 
 बन्धेति । यदाह— 
@@ -312,7 +312,7 @@ title = "०४ प्रकृति-निरूपणम्"
 ९
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 9. Mind is the cause for 'recollection and other mental functions. It also leads to bondage and libera- tion. The sense-organ which has the power to cognise the sound alone is called S'rotra. 
 </details>
@@ -332,7 +332,7 @@ title = "०४ प्रकृति-निरूपणम्"
 **रसनं** रस-भासकम् ॥ ४.१०॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 चक्षुर्निरूपयति—रूपमात्रेति । अत्रापि मात्रपदं पूर्ववत् । चक्षुर्नयन- गोलकवृत्ति । त्वचं लक्षयति - त्वगिति । अत्रापि स्पर्शमात्रेति मात्रपदं निवेश्य लक्षणं वक्तव्यम् । त्वगिन्द्रियं च कृत्स्नदेहाश्रितम्, तत्र सर्वत्रापि स्पर्शो- पलम्भात् । नखदन्तकेशादिषु स्पर्शानुपलम्भस्तु प्राणमान्द्यात् । एवं च सहकारिकारणवैधुर्यप्रयुक्तस्तत्र स्पर्शानुपलम्भ इति ज्ञेयम् । त्वगिन्द्रियं च संयोगेन साक्षाद्वायुतेजोजलपृथिवीग्राहि । स्पर्श तु तत्संबद्धतया गृह्णाति विवेकः । गन्धैकेति ; गन्धमात्रेत्यर्थः । मात्रशब्दः पूर्ववत् । घ्राणं च प्रायः प्राणिनां नासाग्रवर्ति । गजानां तु नासैव हस्त इति घ्राणपाण्योरेकमेवाधिष्ठानम् ।
 
@@ -343,7 +343,7 @@ title = "०४ प्रकृति-निरूपणम्"
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 10. The sense of sight cognises colour alone. The sense of touch is the means for cognising touch. The sense of smell cognises smell alone. The sense of taste cognises taste alone. 
 </details>
@@ -363,12 +363,12 @@ title = "०४ प्रकृति-निरूपणम्"
 शक्तं **कर्मेन्द्रियं** मतम् ॥ ४.११॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एषामिति ; श्रोत्रादीन्द्रियाणामित्यर्थः । विषयेति ; शब्दादीत्यर्थः । संयोगादीत्यादिपदेन संयुक्ताश्रयत्वादि गृह्यते । कर्मेन्द्रियाणि लक्षयति— अच्चारणादीति । आदिपदेन संचारादि गृह्यते । कर्मैकेति ; कर्ममात्रेत्यर्थः । अनेन मनोव्यावृत्तिः ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 11. The contact between these (senses) and their objects is said to be direct conjunction etc. The sense of action is considered to be helpful in the action, utterance of words etc. 
 </details>
@@ -389,7 +389,7 @@ title = "०४ प्रकृति-निरूपणम्"
 **पाणिः** शिल्पादिकारणम् ॥ ४.१२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 कर्मेन्द्रियाणि विभजते-- पञ्चधेति ; वागिन्द्रियं लक्षयति-वर्णेति । तच्च हृदयादिस्थानाष्टकवर्ति । यदाह- 
 
@@ -404,7 +404,7 @@ title = "०४ प्रकृति-निरूपणम्"
 १२
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 12. They are of five kinds :—the organ of speech, hand, foot, the organ of execretion and that of genera tion. The organ of speech is the cause for the utterance of letters. Hand is helpful for manual work. 
 </details>
@@ -424,14 +424,14 @@ title = "०४ प्रकृति-निरूपणम्"
 हेतुः स्त्री-पुंसयोर् मतः ॥ ४.१३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 पादं लक्षयति -संचारेति । स च मनुष्याणां चरणवृत्तिः, पतगादीनां तु पक्षादिवृत्तिः । पायुमाह-मलेति । स च मनुष्यादीनां तत्तदवयववृत्तिः । क्वचिन्मान्धालादीनामास्यदेशवृत्तिः । 
 
 १३ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 13. Foot is helpful for (physical) movement. The organ of excretion brings about the removal of excreta. The organ of generation produces great pleasure be- tween a man and a woman. 
 </details>
@@ -450,7 +450,7 @@ title = "०४ प्रकृति-निरूपणम्"
 जायते शब्द-तन्मात्रादिकं, भूतादिकारणम् ॥ ४.१४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एवमेकादशानामिन्द्रियाणां सात्त्विकाहंकारजत्वं निरूप्य तामसाहंकारा- द्भूतोत्पत्तिक्रममाह - राजसेति । अहंक्रिया ; अहंकारः । शब्दतन्मात्रादिक- मित्यादिपदेन स्पर्शतन्मात्रादिकं गृह्यते । अत्रेदमवधेयम्-तामसाहंकारात् शब्द- तन्मात्रमेव साक्षात् जायते । शब्दतन्मात्रादाकाशः । आकाशात् स्पर्शतन्मात्रम् । ततो वायुरित्यादिरीत्या अन्येषां तन्मात्राणां भूतानां चोत्पत्तिरिति । सांख्यास्तु - 
 
@@ -467,7 +467,7 @@ title = "०४ प्रकृति-निरूपणम्"
 १४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 14. From the Tamasahamkāra associated with (assisted by) the Rājasahaṁkära are produced the subtle elements of sound etc. which produce the elements and the rest. 
 </details>
@@ -488,7 +488,7 @@ title = "०४ प्रकृति-निरूपणम्"
 पञ्चधा भूत-पञ्चभिः … ॥ ४.१५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तन्मात्रसामान्यलक्षणमाह- भूतानामिति । भूतानामव्यवहितपूर्वसूक्ष्मा- 
 
@@ -497,7 +497,7 @@ title = "०४ प्रकृति-निरूपणम्"
 १५ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 15. It is called Tanmatra (subtle element) which assumes the specific and primary subtle forms of the elements. They are five according as the elements are. 
 </details>
@@ -518,7 +518,7 @@ title = "०४ प्रकृति-निरूपणम्"
 शब्द-तन्मात्रम् आदिमम् … ॥ ४.१६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 प्रत्येकतन्मात्रलक्षणं तु आकाशादिकं भूतपदस्थाने निवेश्योहनीयम् । तानि च तन्मात्राणि पञ्चधा-  
 शब्दतन्मात्र--स्पर्शतन्मात्र--रूपतन्मात्र--रसतन्मात्र--गन्धतन्मात्राणीति ।  
@@ -526,7 +526,7 @@ title = "०४ प्रकृति-निरूपणम्"
 तन्मात्रलक्षणादिकमुक्त्वा तत्स्वरूपमाह - तन्मात्रेति । शब्दाद्यश्रयत्वेनेति ; अनभिव्यक्तविशेषसूक्ष्मरूपशब्दाद्याश्रयत्वे- नेत्यर्थः । एतेन शब्दतन्मात्रं स्पर्शतन्मात्रमित्यादिव्यवहारबीजमुक्तम् । तच्च तन्मात्रपञ्चकं तत्तद्भूतानामुपादानं भवति । तत्रादिमं शब्दतन्मात्रम् । १६
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 16 & 17. The five subtle elements are held to be the abodes of the respective qualities. Sound and others and are the inherent causes of the gross elements. 
 </details>
@@ -546,12 +546,12 @@ title = "०४ प्रकृति-निरूपणम्"
 खानिल-ज्योतिर्-अब्-भुवः … ॥ ४.१७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तन्मात्राणि नामतो निर्दिशति -स्पर्शेति । भूतानि नामतो निर्दिशति--- खेति । पञ्चभूतानीत्युत्तरेणान्वयः । १७ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 The subtle elements are those of sound, touch, colour, taste and smell. The gross elements are Akasa, air, fire, water and earth. 
 </details>
@@ -575,14 +575,14 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 मध्यावस्था-युग् आदिमम्+++(→शब्द-तन्मात्रम्)+++ … ॥ ४.१८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तन्मात्रस्वरूपमिति ; शब्दादितन्मात्राणां स्व-रूपम् उच्यत इत्यर्थः ।  
 तामसाहंकाराकाशयोर् या मध्यमावस्था,  
 तद्-युक् आदिमं शब्द-तन्मात्रम् इत्यर्थः । १८ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 
 18. The essential nature of the subtle elements is described as following. The first subtle element is in the stage intermediate between Tamasahaṁkāra and Akasa. 
@@ -605,7 +605,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 दिग् इति व्यपदिश्यते ॥ ४.१९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 आकाशोत्पत्तिमाह-- अस्माच्च ; शब्दतन्मात्राच्च । वियदुत्पद्यत इति ; अनेनाकाशस्य नित्यत्वादुत्पत्यादिराहित्यवादिनो नैयायिकाः प्रत्युक्ताः । प्रत्यक्षश्चायमाकाशः, उन्मीलितेन चक्षुषा गृह्यमाणत्वात् । खमेवेति ; आकाश 
 
@@ -616,7 +616,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 १९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 19. It is the subtle element of sound from which is produced the sky (Akāsa). The sky itself is called Dik (directions) due to the movement of the sun. 
 </details>
@@ -635,14 +635,14 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 वायुर् उत्पद्यते क्रमात् ॥ ४.२०॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 स्पर्शतन्मात्रं लक्षयति-— द्रव्यमिति । आकाशादनन्तरं वायोः पूर्वं च या अवस्था, तद्युतं द्रव्यं स्पर्शतन्मात्रमुच्यते । अस्माच्च ; स्पर्शतन्मात्रात् । वायुश्च स्पार्शनप्रत्यक्षविषयः । 
 
 २० 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 20. The subtle element of touch is in the stage between the sky (Akās/a) and the air. From this is produced the air. 
 </details>
@@ -662,7 +662,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 **तेज** उत्पद्यते क्रमात् ॥ ४.२१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 रूपतन्मात्रं लक्षयति—मध्येति । वायुतेजसोर्मध्यावस्थायुतं द्रव्यं रूप- 
 
@@ -671,7 +671,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 २१ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 21. The subtle element of colour is in the stage between air and fire. From this is produced fire. 
 </details>
@@ -692,7 +692,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 **सलिलं** खलु जायते ॥ ४.२२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 रसतन्मात्रं लक्षयति – मध्येति । तेजःपयसोर्मध्यावस्थायुतं द्रव्यं 
 रसतन्मात्रमित्यर्थः । अस्मात् पय उत्पद्यते । 
@@ -700,7 +700,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 २२ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 
 22. The subtle element of taste is in the stage between fire and water. From this water is produced. 
@@ -726,7 +726,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 **पृथिवी** समुदेत्यसौ ॥ ४.२३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 गन्धतन्मात्रं लक्षयति—मध्येति । वारिपृथिव्योर्मध्यावस्थायुतं द्रव्यं गन्धतन्मात्रम् । अस्मात् पृथिव्युत्पद्यते । 
 
@@ -734,7 +734,7 @@ The subtle elements are those of sound, touch, colour, taste and smell. The gros
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 23. The subtle element of smell is in the stage 
 between water and earth. 
@@ -757,7 +757,7 @@ From this is produced the earth.
 तृतीयञ्+++(→अग्निः)+++ च, तुरीयकम्+++(→आपः)+++ …॥ ४.२४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 आद्यमिति ; शब्दतन्मात्रमित्यर्थः । शब्दवदिति ; अविशिष्टशब्दवदि- त्यर्थः । अन्यत् ; स्पर्शतन्मात्रमित्यर्थः । 
 
@@ -781,7 +781,7 @@ From this is produced the earth.
 पञ्चकञ् चैवम् +++(क्रमश)+++ ईरितम् ॥ ४.२५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 परम्; पृथिवीतन्मात्रमित्यर्थः । अनेन भूतानामपि एकद्वित्रादिगुणयोग उक्तप्रायः । 
 
@@ -789,7 +789,7 @@ From this is produced the earth.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 24 & 25. The first subtle element has sound; the next sound and touch; the third colour, sound and touth; the fourth colour, sound, touch and taste and the last has smell in addition (to these). The five Bhutas (gross elements) also are said to be of similar nature. 
 
@@ -811,7 +811,7 @@ From this is produced the earth.
 प्रापिता सु-निरूपिता ॥ ४.२६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[४३]] 
 
@@ -822,7 +822,7 @@ From this is produced the earth.
 २६ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 
 26. Thus Prakrti has been described with its twenty-four manifestations as Avyakta, Mahat and so on. 
@@ -845,7 +845,7 @@ From this is produced the earth.
 चतुर्धान्यं विभक्तवान् ॥ ४.२७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अनन्तरं पञ्चीकरणम् आह—भूतानीति । पञ्च भूतानीत्यर्थः । एकैकम् ; आकाशादि प्रत्येकम् । एकमिति ; द्वयोरन्यतरं प्रथमं भागम् । एकम् ; अविभक्तम् । अन्यमंशम् ; द्वितीयं भागम् । चतुर्धा विभक्तवान् । 
 
@@ -853,7 +853,7 @@ From this is produced the earth.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 27. After creating the elements, the Lord divided each of them into two equal parts. Keeping one of the parts unsplit, He split the other into four equal parts. 
 
@@ -875,7 +875,7 @@ From this is produced the earth.
 **पञ्च-भूतान्य् अजीजनत्** ॥ ४.२८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अयमत्राशयः - 
 
@@ -898,7 +898,7 @@ From this is produced the earth.
 २८ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 28. Then He took the part which was unsplit and had it combined with the other half formed by the combination of the one eighth parts of the other four elements. Thus He created the five gross elements.
 </details>
@@ -919,14 +919,14 @@ From this is produced the earth.
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 यदि सर्वत्र भूतेषु सर्वभूतानामंशाः सन्ति, तर्हीतरव्यावृत्ततया पृथि- व्यादिव्यवहारः कथमित्याशङ्कय परिहरति — अन्येति । यत्र यस्य भूतस्यांशो भूयान्, तत्र तद्भूतत्वेन व्यवहारः । यथा पृथिव्या आद्यमर्धे पृथिव्यंशः । अन्यस्मिन्नर्धे भूतान्तराणामष्टमांशा इति पृथिव्यंशस्य भूयस्त्वात् तत्त्वेन व्यवहारः । 
 
 २९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 [[४५]]
 
@@ -948,14 +948,14 @@ From this is produced the earth.
 सप्ती-कृतिर् उपस्कृता ॥ ४.३०॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 नन्वेतत् पञ्चीकरणं श्रुतिविरुद्धम् । श्रुतौ हि, " तत्तजोऽसृजत " इत्यादिभिर्वाक्यैः तेजोऽबन्नसृष्टिमुक्त्वा तेषां त्रिवृत्करणमेवोच्यत इत्याशङ्कय समाधत्ते—पञ्चीकरणमिति । श्रुतिः ; त्रिवृत्करणश्रुतिः । एतादृक् पञ्चीकरणमुप- लक्षयति । त्रिवृत्करणवचनं पञ्चीकरणस्याप्युपलक्षकमित्यर्थः । न केवलं पञ्ची- करणस्य, सप्तीकरणस्याप्युपलक्षकमित्याह - भूतैरिति । त्रिवृत्करणश्रुतिः, पञ्च- भूतानि महान् अहंकारः इति सप्तानां पदार्थानां मिथो मिश्रीकरणेन सृष्टेरप्यु- पलक्षणमित्यर्थः । 
 
 ३०
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 30. The Vedic passage purports also this Pañicī- karana (Five-fold combination). When Mahat and Ahamkara also are taken into consideration for the process, then is formed Saptīkarana (Seven-fold combi- nation). 
 </details>
@@ -976,7 +976,7 @@ From this is produced the earth.
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 नन्वेतावता प्रबन्धेनेन्द्रियाणामाहंकारिकत्वादभौतिकत्वमभ्युपगतमिव भाति । तच्चासंगतम्, प्रमाणविरोधात् । तथाहि भगवद्गीतायाम्- 
 
@@ -1001,7 +1001,7 @@ From this is produced the earth.
 तुशब्दोऽत्र वैलक्षण्ये, इन्द्रियाणां भौतिकत्वं निषेधति । अनुपूरुषम् ; प्रतिपुरुषम् । भिन्नानीत्यनेनैकेन्द्रियवादोऽपि निरस्तो भवति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 31, 32. The five gross elements together with Avyakta, Mahat and Ahamkara act as the inherent or material cause of the human body. But the Indriyas (senses) possessed by different persons are distinct from each other. 
 </details>
@@ -1022,7 +1022,7 @@ From this is produced the earth.
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 यदीन्द्रियाणि न भौतिकानि, नापि शरीरावयवभूतानि ; कस्तर्हि तैः शरीरस्योपकार इत्यत्राह - आकल्पेति । आकल्पोऽलंकारः । यथा कटकादीनि शरीरस्यालंकरणाय शरीरमाश्रित्यावतिष्ठन्ते, तथेन्द्रियाण्यपि शरीरालंकरणाय तदाश्रित्य वर्तन्त इत्यर्थः । अनेन पूर्वोदाहृत- गीतावचनमपि व्याख्यातं भवति । यथा अध्यायारम्भे-
 
@@ -1040,7 +1040,7 @@ From this is produced the earth.
 ३१, ३२
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 They adorn the body like the jewels. That which is invariably controlled by the sentient being is called its body.
 
@@ -1063,7 +1063,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 **नित्यं** नैसर्गिकं तु तत् ॥ ४.३३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[४८]] 
 
@@ -1073,7 +1073,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 33. Body is of two types-eternal and non-eter- nal. The Lord and the Nityasūris have the eternal one which is natural to them.
 </details>
@@ -1094,7 +1094,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 इच्छया परिकल्पितम् ॥ ४.३४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अनित्यशरीरस्य द्वैविध्यमाह-अनित्यमपीति । कर्मकृतमकर्मकृतं चेति द्वैविध्यमित्यर्थः । तत्राकर्मकृतमाह — ईशादेरिति । महदादिकार्यवर्गः सर्वोऽपी- श्वरस्याकर्मकृतदेह इत्यर्थः । ईश्वरस्याकर्मकत्वात् तस्याकर्मकृतत्वम् । किंतु केवलस्वेच्छाकृतत्वमेवेति भाव्यम् । तथाहि गीयते भगवतैव- 
 
@@ -1107,7 +1107,7 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 ३४ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 34. The non-eternal one is two-fold according as it is produced and not produced by Karman. That which is not produced by Karman is possessed by the Lord and Nityasūris as contrived at their will. 
 </details>
@@ -1128,12 +1128,12 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 +++(परिणयकाङ्क्षिण ऋषेः)+++ सौभर्यादेर् यथा ऽऽदिमम् ॥ ४.३५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 कर्मकृतशरीरभेदमाह–तच्चेति । स्वेच्छासहकृतकर्मकृतं तदसहकृतकेवल- कर्मकृतं चेति द्विधेत्यर्थः । आदिमं स्वेच्छासहवृतं सौभर्यादीनामित्यर्थः । ३५ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 35. That which is produced by Karman is of two types-produced with the assistance of one's own [[४९]] desire and produced by Karman only. The bodies of the sage Saubhari and other blessed individuals, belong to the former type. 
 </details>
@@ -1154,12 +1154,12 @@ They adorn the body like the jewels. That which is invariably controlled by the 
 शिलादि **स्थावरं** मतम् ॥ ४.३६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 केवलकर्मकृतमाह - द्वितीयमिति । अस्मदादीनामिति ; कर्मपरवशानां संसारिणामित्यर्थः । सामान्येनेति ; नित्यानित्यविभागानादरेण शरीरसामान्यं स्थावरजङ्गमात्मना द्विविधमित्यर्थः । शिलादीति ; काष्ठादय आदिपदग्राह्याः । ३६ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 36. 
 
@@ -1181,14 +1181,14 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 तिर्यग्-आदि-विभागवत् ॥ ४.३७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 जङ्गमस्य द्वैविध्यमाह—–जङ्गमं चेति । योनिजायोनिजभेदेन द्विविध- मित्यर्थः । तत्र योनिजजङ्गमभेदानाह - देवेत्यादि । शुक्रशोणितसंयोगाज्जातं योनिजमित्युच्यते । 
 
 ३७
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 37. The movables are two-fold-those born of the womb (Yonija) and not born of the womb (Ayonija). The devine beings, men and animals are Yonijas (viviparous). 
 </details>
@@ -1208,7 +1208,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 एवं पञ्चीकृतानां +++(भूतानां)+++ स्याद् +++(ब्रह्म-)+++अण्डोत्पादकता स्मृता ॥ ४.३८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[५०]] 
 
@@ -1228,7 +1228,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 ३८ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 38. Those which are not born from the womb (Ayonijas) are frog etc. (coming out from the earth), insects and vermin (produced by sweat or warm vapour), born from the eggs and those inhabitant of the hell. It is those which are thus combined in five that are considered to produce the Anda (cosmic Egg). 
 </details>
@@ -1250,14 +1250,14 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 सृष्टिर् वेदान्ति-सम्मता ॥ ४.३९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 सृष्टिर्द्विधा - समष्टिसृष्टिः, व्यष्टिसृष्टिश्चेति । तत्र अण्डोत्पत्तेः पूर्वतनी या सृष्टिः सा समष्टिसृष्टिरित्युच्यते । अण्डोत्पत्तेरुत्तरं संपद्यमांना सृष्टिः व्यष्टि- सृष्टिरित्युच्यत इत्यर्थः । 
 
 ३९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 39. The creation which precedes the production of the Anda is called the collective creation and the other which follows it is called the distributive creation. This two-fold creation is acceptable to all Vedantins. 
 </details>
@@ -1278,7 +1278,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 चेत् तत्त्वान्तरम् ईर्यते ॥ ४.४०॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[५१]] 
 
@@ -1287,7 +1287,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 ४० 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 40. The manifestation of Avyakta etc. as Mahat etc. is considered to be a condition different from the previous one. If that condition is dissimilar to the previous one, then it is considered to be a different Tattva. 
 </details>
@@ -1308,7 +1308,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 तन्-मात्राणीति तत्त्वानि **चतुर्विंशतिधा** ऽभवन् ॥ ४.४१॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 तदेवं परिनिष्पन्नां तत्त्वसंख्यामाह -- इत्थमिति । तत्त्वानि अव्यक्ता- 
 
@@ -1318,7 +1318,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 41. Thus came the twenty-four Tattvas - Avyakta, Mahat, Ahamkāra, Indriyas and Tanmatras. 
 </details>
@@ -1338,12 +1338,12 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 **उद्भवन्ति** यथायथम् ॥ ४.४२॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एषां जडानां विधान्तरेण विभागमाह-भोग्येत्यादि । ईशितुरीश्वरस्य जीवस्य च भोग्यभोगोपकरणभोगस्थानरूपेण जडतत्त्वानि भवन्तीत्यर्थः । ४२ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 42. Matter etc. become the objects, means and places of enjoyments for the Lord and the finite souls. 
 </details>
@@ -1366,7 +1366,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 तद्-वर्तीन्य् अण्ड-जानि हि ॥ ४.४३॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[५२]] 
 
@@ -1375,7 +1375,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 ४३
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 43. Bhogya is the object. Eye etc. are considered as the means of enjoyment. The world and those contained therein are places of enjoyment. 
 
@@ -1395,14 +1395,14 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 **अण्डं** नाम निगद्यते ॥ ४.४४॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अनन्तरमण्डोत्पत्तिमाह— एवमिति । भूतैः आकाशादिभिः पञ्चभि- स्तत्त्वैः। प्राकृतमण्डम् ; प्राकृतैर्भूतैरारब्धत्वात् प्राकृतत्वमण्डस्य । कपित्थ- फलकाकारमिति निदर्शनम् । यथा कफित्थफलस्यान्तर्भागे सूक्ष्माणि बहूनि बीजानि, तत्संबद्धा मधुरा अमधुराश्च फलांशा अपि विद्यन्ते, तद्वत् अण्डस्यान्तर्-भागेऽपि सूक्ष्माणि बहूनि जीवतत्त्वानि तत्संसृष्टाः सुखदुःखात्मकाः प्राकृत-भागाश्च विद्यन्त इत्यर्थः ।
 
 ४४
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 44. The material world is thus envolved out of the five-fold elements. Anda is in the form of wood- apple (Kapittha). 
 </details>
@@ -1423,14 +1423,14 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 समुद्रेण प्रवेष्टितम् ॥ ४.४५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 'सप्त द्वीपा वसुमती" इत्युक्तरीत्या सप्त द्वीपान्याह – जम्बूद्वीपमिदमिति । इदमित्यस्मत्प्रत्यक्षगोचरतामाह । इदं च लवणोदधिना परिवृतम् । ततः लवणसमुद्रादनन्तरं प्रक्षद्वीपं वर्तते । तच्चेक्षुसमुद्रेण परिवृतम् । 
 
 ४५
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 45. This whole Jambudvipa is encircled by the salt ocean. Beyond this, there is Plakṣadvipa with the sea of sugar-cane juice. 
 </details>
@@ -1450,14 +1450,14 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 समुद्रेण प्रवेष्टितम् ॥ ४.४६॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[५३]] 
 
 ततः इक्षुसमुद्रादनन्तरं शाल्मलिद्वीपं वर्तते । तच्च सुरासमुद्रेण वेष्टितम् । ततः सुरासमुद्रादनन्तरं कुशद्वीपं वर्तते । तच्च सर्पिः समुद्रेण परिवेष्टितम् । ४६ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 46. Then there is S'almalidvipa with the sea of wine. Then there is Kusadvipa with the sea of clarified butter.
 </details>
@@ -1478,12 +1478,12 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 समुद्रेण प्रवेष्टितम् ॥ ४.४७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 ततः सर्पिःसमुद्रादनन्तरं क्रौञ्चद्वीपं वर्तते । तच्च दधिसमुद्रेण परिवेष्टि- तम् । ततः दधिसमुद्रादनन्तरं शाकद्वीपं वर्तते । तच्च क्षीरसमुद्रेण वेष्टितम् । ४७ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 47. Then there is Krauñicadvīpa with the sea of curds and then S'akadvipa with the sea of milk. 
 </details>
@@ -1502,14 +1502,14 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 ततो **वलय-पर्वतः** ॥ ४.४८॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 अभितः क्षीरसमुद्रस्य समन्तात् पुष्करद्वीपं वर्तते । तच्च शुद्धाम्बुधिना समावृतम् । एतत्सर्वम् निखिलमप्येतत् हॅमभूम्या परिवृतम् । ततः वलयपर्वतः वलयाकारपर्वतो वर्तते । 
 
 ४८ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 48. Then there is Puşkaradvipa encircled by the sea of fresh water. All these are encircled by the golden land. Then there is a circle-shaped mountain. 
 </details>
@@ -1532,7 +1532,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 स्याद् भूमेर् ऊर्ध्वम् अधोऽपि च ॥ ४.४९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 [[५४]] 
 
@@ -1541,7 +1541,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 ४९ 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 49. It is encircled by darkness, that too by Garbhodaka. Anda is thus only one which is above and below the earth. 
 </details>
@@ -1561,7 +1561,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 पुराणोक्तान्य् अनुक्रमात् ॥ ४.५०॥+++(5)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>कृष्णमाचार्यः (सं)</summary>
 
 एतानि सर्वाण्यप्यण्डानि अनन्तानि । तानि सर्वाण्यपि हरेर्विभूतयः जले बुदबुदानीव भासन्ते । एष चाण्डानां क्रमः पुराणेषूक्तः । 
 
@@ -1569,7 +1569,7 @@ Bodies like those of ours come under the latter type. Again the bodies could be 
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>कृष्णमाचार्यः (En)</summary>
 
 50. Endless (countless) are the Andas of the Great Hari. They are like bubbles of water. They have been enumerated in the order in the Purāņas.
 </details>
