@@ -3,9 +3,20 @@ title = "१० अद्रव्य-निरूपणम्"
 
 +++
 
-द्रव्यमेवं निरूप्याथ तदद्रव्यं निरूप्यते । 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुद्धसत्त्वं मिश्रसत्त्वमिति सत्त्वं द्विधा मतम् ॥ १ ॥ 
+द्रव्यम् एवं निरूप्याथ  
+तद् अद्रव्यं निरूप्यते ।  
+शुद्ध-सत्त्वं मिश्र-सत्त्वम्  
+इति **सत्त्वं** द्विधा मतम् ॥ १०.१॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्रव्यमेवं निरूप्याथ तदद्रव्यं निरूप्यते ।  
+शुद्धसत्त्वं मिश्रसत्त्वमिति सत्त्वं द्विधा मतम् ॥ १०.१॥
+</details>
+
 
 पूर्वापरसंगतिप्रदर्शनपूर्वकमद्रव्यनिरूपणं प्रतिजानीते - द्रव्यमिति । अद्र- व्यमिति । आगन्तुकावस्थावद् द्रव्यम् । तदन्यदद्रव्यम् । अद्रव्याणि च दशधा — सत्त्वरजस्तमांसि, शब्दस्पर्शरूपरसगन्धाः, संयोगः, शक्तिश्चेति । इमानि च द्रव्यं प्रत्यपृथक्सिद्धविशेषणानि भवन्ति । अतस्तेषां गुणत्वेन व्यवहारः शास्त्रेषु । वैशेषिकाद्यभिमतानां गुरुत्वद्रवत्वादीनां यथासंभवं क्लृप्तेषु पदार्थेष्वेवान्तर्भावः सिद्धान्तिसंमतः । तत्र प्रथमं सत्त्वं निरूपयिष्यन् तस्य द्वैविध्यमाह — शुद्धसत्त्वमिति । 
 
@@ -229,7 +240,7 @@ bac
 
 १६-१८ 
 
-16-18. The eight qualities viz. cognition, etc. and reminiscence are included in Consiousness. Fluidity, vicidity, number, size and speed are nothing but the nature of the relevant substances. Therefore they do not exceed the number of qualities enumerated. Elasticity is included in conjunction. Like disunion, separateness also is of the nature of the absence of contact. Weight also is a kind of potency. There- fore these is no separate quality in excess of the qualities enumerated. 
+16-18. The eight qualities viz. cognition, etc. and reminiscence are included in Consiousness. Fluidity, vicidity, number, size and speed are nothing but the nature of the relevant substances. Therefore they do not exceed the number of qualities enumerated. Elasticity is included in conjunction. Like disunion, separateness also is of the nature of the absence of contact. Weight also is a kind of potency. Therefore these is no separate quality in excess of the qualities enumerated. 
 
 कर्मणामपि शक्तित्वं केचिदाहुर्मनीषिणः । पदार्थान्तरतामन्ये प्राहुर्वेदान्तवेदिनः ॥ १९ ॥ 
 
@@ -251,7 +262,7 @@ bac
 
 ग्रन्थमुपसंहरति - प्राचीनेति । प्राचीनग्रन्थोऽत्र न्यायसिद्धाञ्जनादिः । फक्किकेत्यनेन विस्तरभिया केवलं दिक्प्रदर्शनं कृतमित्युक्तं भवति । २० 
 
-20. Following the way of the earlier texts, the logical exposition of the Viśiṣṭadvaita system is ex- emplified to the best of my judgment. 
+20. Following the way of the earlier texts, the logical exposition of the Viśiṣṭadvaita system is exemplified to the best of my judgment. 
 
 अद्रव्य-निरूपणम् 
 
@@ -263,7 +274,7 @@ bac
 
 २१ 
 
-21. This string of concise verses has been com- posed by Venkaṭadāsa, the third son of Annayarya. 
+21. This string of concise verses has been composed by Venkaṭadāsa, the third son of Annayarya. 
 
 निरमाथि रमायत्तपरमाद्भुततेजसः । मुदमाधातुकामेन मयेयं कारिकावली ॥ २२ ॥ 
 
@@ -321,7 +332,7 @@ bac
 
 इति वेदान्तकारिकावल्यामद्रव्यनिरूपणं दशमं प्रकरणम् प्रमेयनिरूपणं समाप्तम् 
 
-24. Great Annayārya who was the moon of the milky ocean of the family of S'athamarṣaṇa, beauti- fied the four śastras with his brilliance of expression. His son Venkaṭārya of great intellect, well equipped with the philosophical thought, wrote this string of concise verses on Vedanta to the entire satisfaction of the good. 
+24. Great Annayārya who was the moon of the milky ocean of the family of S'athamarṣaṇa, beautified the four śastras with his brilliance of expression. His son Venkaṭārya of great intellect, well equipped with the philosophical thought, wrote this string of concise verses on Vedanta to the entire satisfaction of the good. 
 
 Thus here ends the tenth chapter entitled the treatment of non-substance, of the work called the Vedantakarikavali composed by Bucci Venkaṭācārya, the third son of Anṇayaryasomapithin, who was the moon of the ocean of S'athamarṣaṇa family and seer of other shore of six darsanas. 
 
