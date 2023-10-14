@@ -113,11 +113,6 @@ PERCEPTION.
 7 
 
 
-An examination will now be conducted in order of this specification (or enunciation) above made (of the categories). 
-
-Of those, Pramāņa or Means of knowledge is the producer (or maker or giver) of Pramā or knowledge. Means' is what is to be defined; the definition of it is that it is the producer of Pramā, knowledge'. Pramā is jñāna or 'knowledge consonant with experience in its exactitude'. Prama or knowledge is the thing to be defined. The definition is that which 
-
-23 
 
 See Tattvatraya of Lokācārya (No. 2, in the list, P. 570. Op. cit.,) for an explanation of the functions performed by what may be called the Logoi derived from the One Spirit, Paro. Also read Pp. 82-83 of our Vade Mecum of Vedanta. 
 
@@ -133,7 +128,10 @@ See Tattvatraya of Lokācārya (No. 2, in the list, P. 570. Op. cit.,) for an ex
 
 [Advent 
 
-has the quality of knowledge consonant with experience in its exactitude'. Supposing the definition of Prama was simply knowledge', the knowledge which sees silver in a pearl-oyster would be a definition overlapping its bounds (ati-vyāpti), (or over-pervading its legitimate limits). Hence the definition of Pramā takes the form: 'knowledge consonant with experience'. Even then the fault of over-pervasion (ati-vyāpti) remains, inasmuch as one in a moment of illusion (or delusion) may mistake the pearl-oyster for silver. Hence (the further) qualificatory clause to the definition: in its exactitude (yathâvas- thita)'. By this expression, samsaya, anya- of Sesha or the Serpent. For symbology see Introd: to our Lives of Saints. See note 49 infra. 
+An examination will now be conducted in order of this specification (or enunciation) above made (of the categories).
+
+
+By this expression, samsaya, anya- of Sesha or the Serpent. For symbology see Introd: to our Lives of Saints. See note 49 infra. 
 
 28 
 

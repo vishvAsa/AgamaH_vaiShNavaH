@@ -199,7 +199,7 @@ Parak or Outward is also twofold: the Nitya- vibhuti or Eternal Estate, and the 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 एकान्ती - भगवत एव मोक्षमैहिकं च फलं कामयमान - अन्-अन्य-दैवत इति यावत् ।  
-परमैकान्ती - भगवत एव तद्-अनुभव-सेवा--तद्-उपकरणातिरिक्तं किम् अपि फलम् अकामयमानः । इमः -- वर्तमान देहधारणक्षम देहान्तरान्वयासहिष्णु, । आर्तः -- वर्तमानदेहसम्बन्ध मध्य सहमानो भग- वत्प्रासाबुत्कटत्व रावान् । 
+परमैकान्ती - भगवत एव तद्-अनुभव-सेवा--तद्-उपकरणातिरिक्तं किम् अपि फलम् अकामयमानः । इमः -- वर्तमान देहधारणक्षम देहान्तरान्वयासहिष्णु, । आर्तः -- वर्तमानदेहसंबन्ध मध्य सहमानो भग- वत्प्रासाबुत्कटत्व रावान् । 
 </details>
 
 
@@ -283,25 +283,66 @@ Arcă or the Worshippable are those unique Images presented to the eyes of all m
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+६. अद्रव्यम् तु सत्त्व-रजस्-तमः-शब्द-स्पर्श-रूप-रस-गन्ध-संयोग-शक्ति-भेदाद् दशधैव ।
+</details>
+
+<details><summary>English</summary>
 
 6. Adravya is of ten kinds, because of the differ- ence as sattva (goodness), rajas (passion or activity), tamas (darkness or inertia), Śabia (sound), sparśa (touch), rūpa (colour), rasa (taste), gandha ( smell ), samyoga (conjunction) and śakti (potentiality). 
 
-7. Now the definition and examination of the categories will be attempted in the order in which they have been enumerated above. Of these, the instrument of valid knowledge is pramāna. What is defined (here) is pramāna. The definition is that it (pramāna) has the quality of causing pramā (valid knowledge). Prama is that knowledge which is adapted to practical interests of life as they really are. 31 What is defined (here) is pramā. The definition is that it (pramā) has the quality of knowledge adapted to practical interests of life as they really are. If it be said 'Pramā is knowledge', there would be over-pervasion in the (erroneous) cognition of a nacre in the form, 'this is silver'; hence it is said 
+</details>
 
-1 
 
-६ 
+<details><summary>मूलम्</summary>
 
-यतीन्द्रमतदीपिका 
+६. अद्रव्यम् तु सत्त्वरजस्तमःशब्दस्पर्शरूपरसगन्धसंयोगशक्तिभेदाद्दशधैव ।
+</details>
 
-'इदं रजतम्' इति ज्ञाने अतिव्याप्तिः अत उक्तं 'व्यवहारानुगुणम्' इति । एवमपि तत्रैवातिव्याप्तिः; भ्रान्तिदशायामपि 'इदं रजतम्' इति व्यवह्रियमाणत्वात् । अत उक्तं 'यथावस्थितम्' इति । 'यथावस्थित' इति पदेन संशयान्यथाज्ञानविपरीतज्ञानव्यावृत्तिः । 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-८. धर्मिग्रहणे मिथोविरुद्धानेकविशेषस्मरणं संशयः । यथा ऊर्द्धताविशिष्टे' स्थाणुर्वा पुरुषो वा' इति ज्ञानम् । अन्यथा- ज्ञानं नाम धर्म्मविपर्यासः । यथा कर्तृत्वेन भासमाने आत्मनि कुयुक्तिभिः कर्तृत्वस्य भ्रान्तत्वोपपादतम् । विपरीतज्ञानं नाम धर्मविपर्यासः । यथा वस्तुनो वस्त्वन्तरज्ञानम् । 
+७. एवम् उद्दिष्टानाम् उद्देश-क्रमेण लक्षण-परीक्षे क्रियेते ।  
 
-'adapted to practical interests of life'. Even then there would be over-pervasion as one may have the percep- tion (of a nacre) in the form, 'this is silver' in a state of delusion; hence it is said 'as they really are'. By the expression ‘as they really are', sarśaya (doubt ), anya- thājñāna (wrong knowledge) and viparītajñāna (con- trary knowledge) are excluded. 
+तत्र प्रमा-करणम् **प्रमाणम्** ।  
+प्रमाणम् लक्ष्यम् । प्रमा-करणत्वम् लक्षणम् ।  
+यथावस्थित-व्यवहारानुगुण-ज्ञानम् **प्रमा**।  
+प्रमा लक्ष्यम् । यथावस्थितव्यवहारानुगुण-ज्ञानत्वम् लक्षणम् ।  
+“ज्ञानम् प्रमा” इत्युक्ते  
+शुक्तिकायाम् “इदम् रजतम्” इति ज्ञाने अतिव्याप्तिः;  
+अत उक्तम् “व्यवहारानुगुणम्” इति ।  
+एवम् अपि तत्रैवातिव्याप्तिः;  
+भ्रान्ति-दशायाम् अपि “इदम् रजतम्” इति व्यवह्रियमाणत्वात् ।  
+अत उक्तम् “यथावस्थितम्” इति ।  
+“यथावस्थित” इति पदेन संशयान्यथा-ज्ञान--विपरीत-ज्ञान--व्यावृत्तिः ।
+</details>
 
-8. Sarśaya is the recollection of several mutually contradictory attributes when a thing is apprehended; for instance, the (dubitative) cognition in respect of a tall object, 'Is this a stump or man?". What is called anyathājñāna is the misapprehension of one attribute for another; for instance, the predication made by sophistic arguments, that the agency (of the individual self) is a delusion, whereas the individual self shines as an agent. What is called viparītajñāna is the misappre- hension of one thing for another; for instance, the cognition of another object in the place of the (intend- ed) object. 32 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+' एव' मिति । नाम्ना पदार्थसङ्कीर्तनमुद्देशः । असाधारणधर्मो लक्षणम् । परीक्षा- लक्ष्यस्य लक्षणमुक्तं संभवति न वेति विचार । 'यथावस्थिते 'ति । व्यवहारो वाचिकः कायिकश्चेति द्विविधः । व्यवहारे यथावस्थितत्व विनियोगयोग्यार्थं विषयकत्वम् । विनियोग. प्रेप्सितार्थोपयोगः । शुक्ती तु रजतं सदपि न विनियोगार्हम् । 'यथावस्थितपदेने 'ति । अव्यव- स्थित व्यवहारहेतोः सशयस्य, अयथाव्यवहारहेतोरन्यथाज्ञानादेश्च- व्यावृत्तिरित्यर्थ । 
+</details>
+
+
+<details><summary>English</summary>
+
+7. Now the definition and examination of the categories will be attempted in the order in which they have been enumerated above. Of these, the instrument of valid knowledge is pramāna. What is defined (here) is pramāna. The definition is that it (pramāna) has the quality of causing pramā (valid knowledge). Prama is that knowledge which is adapted to practical interests of life as they really are. 31 What is defined (here) is pramā. The definition is that it (pramā) has the quality of knowledge adapted to practical interests of life as they really are. If it be said 'Pramā is knowledge', there would be over-pervasion in the (erroneous) cognition of a nacre in the form, 'this is silver'; hence it is said 'adapted to practical interests of life'. Even then there would be over-pervasion as one may have the percep- tion (of a nacre) in the form, 'this is silver' in a state of delusion; hence it is said 'as they really are'. By the expression ‘as they really are', sarśaya (doubt ), anya- thājñāna (wrong knowledge) and viparītajñāna (con- trary knowledge) are excluded. 
+
+</details>
+
+<details><summary>Keith</summary>
+
+Of those, Pramāņa or Means of knowledge is the producer (or maker or giver) of Pramā or knowledge. Means' is what is to be defined; the definition of it is that it is the producer of Pramā, knowledge'. Pramā is jñāna or 'knowledge consonant with experience in its exactitude'. Prama or knowledge is the thing to be defined. The definition is that which [[23]] has the quality of knowledge consonant with experience in its exactitude'. Supposing the definition of Prama was simply knowledge', the knowledge which sees silver in a pearl-oyster would be a definition overlapping its bounds (ati-vyāpti), (or over-pervading its legitimate limits). Hence the definition of Pramā takes the form: 'knowledge consonant with experience'. Even then the fault of over-pervasion (ati-vyāpti) remains, inasmuch as one in a moment of illusion (or delusion) may mistake the pearl-oyster for silver. Hence (the further) qualificatory clause to the definition: in its exactitude (yathâvas- thita)'. 
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+७. एवमुद्दिष्टानामुद्देशक्रमेण लक्षणपरीक्षे क्रियेते । तत्र प्रमाकरणम् प्रमाणम् । प्रमाणम् लक्ष्यम् । प्रमाकरणत्वम् लक्षणम् । यथावस्थितव्यवहारानुगुणज्ञानम् प्रमा। प्रमा लक्ष्यम् । यथावस्थितव्यवहारानुगुणज्ञानत्वम् लक्षणम् । “ज्ञानम् प्रमा” इत्युक्ते शुक्तिकायाम् “इदम् रजतम्” इति ज्ञाने अतिव्याप्तिः; अत उक्तम् “व्यवहारानुगुणम्” इति । एवमपि तत्रैवातिव्याप्तिः; भ्रान्तिदशायामपि “इदम् रजतम्” इति व्यवह्रियमाण-त्वात् । अत उक्तम् “यथावस्थितम्” इति । “यथावस्थित” इति पदेन संशयान्यथा-ज्ञानविपरीतज्ञानव्यावृत्तिः ।
+</details>
+
+
+
+8. Samśaya is the recollection of several mutually contradictory attributes when a thing is apprehended; for instance, the (dubitative) cognition in respect of a tall object, 'Is this a stump or man?". What is called anyathājñāna is the misapprehension of one attribute for another; for instance, the predication made by sophistic arguments, that the agency (of the individual self) is a delusion, whereas the individual self shines as an agent. What is called viparītajñāna is the misappre- hension of one thing for another; for instance, the cognition of another object in the place of the (intend- ed) object. 32 
 
 ९. 
 
@@ -317,7 +358,7 @@ Arcă or the Worshippable are those unique Images presented to the eyes of all m
 
 ८ 
 
-यतीन्द्रमतदीपिका 
+
 
 इत्युच्यते । तेन प्रमाकरणं प्रमाणमिति सिद्धम् । अनधिगतार्थ - गन्तृ प्रमाणमित्यादिकं तु तत्तद्वादिभिरेव निरस्तत्वादनादर- णीयम् । 
 
@@ -355,7 +396,7 @@ kalpaka (determinate). What is called nirvikalpaka is the cognition of the first
 
  
 
-१५. द्रव्यग्रहणे संयोगः सम्बन्धः । द्रव्यगतरूपादिग्रहणे समवायानङ्गीकारात् संयुक्ताश्रयणसम्बन्धः । 
+१५. द्रव्यग्रहणे संयोगः संबन्धः । द्रव्यगतरूपादिग्रहणे समवायानङ्गीकारात् संयुक्ताश्रयणसंबन्धः । 
 
 १६. निर्विकल्पकस विकल्पकभिन्नं प्रत्यक्षं द्विविधम् - अर्वा - चीनम् अनर्वाचीनं चेति । अर्वाचीनं पुनर्द्विविधम् - इन्द्रियसापेक्षं तदनपेक्षं चेति । तदनपेक्षं च द्विविधम् - स्वयंसिद्धं दिव्यं चेति । स्वयं सिद्धं योगजन्यम् । दिव्यं भगवत्प्रसादजन्यम् । अनर्वाचीनं तु इन्द्रियानपेक्षं मुक्तनित्येश्वरज्ञानम् । अनर्वाचीनं तु प्रसङ्गा- दुक्तम् । एवं साक्षात्कारप्रमाकरणं प्रत्यक्षमिति सिद्धम् । 
 
@@ -377,7 +418,7 @@ Xi
 
 १२ 
 
-यतीन्द्रमतदीपिका 
+
 
 " 
 
@@ -385,7 +426,7 @@ Xi
 
 १९. सादृश्यजा यथा - देवदत्तयज्ञदत्तयोः सदृशयोर्देवदत्त- दर्शनेन यज्ञदत्तस्मृतिः । द्वितीया यथा - यादृच्छिकी कालान्तरानु- भूतश्रीरङ्गादिदिव्यदेश स्मृतिः । तृतीया यथा - चिन्त्यमाने सति श्रीवेङ्कटेशस्य कमनीयदिव्यमङ्गलविग्रहस्मृतिः । चतुर्थी तु सह- चरितयोर्देवदत्तयज्ञदत्तयोर्मध्ये अन्यतरदर्शनेन तदन्यतरस्मृतिः । 
 
-२०. सम्यक् पूर्वमनुभूतस्य सर्वस्य स्मृतिविषयत्वनियमः । 
+२०. संयक् पूर्वमनुभूतस्य सर्वस्य स्मृतिविषयत्वनियमः । 
 
 caller) is sometimes the similar-sight (of an object pre- viously seen); sometimes an unseen effect (of one's actions); sometimes deep thinking. Since from the term ‘adi' (etcetera), 'association' (or concomitance) is to be understood, even that becomes (the cause of recollection). 
 
@@ -413,7 +454,7 @@ tion of time (after experience) or by disease etc. which obscure the reminiscent
 
 १४ 
 
-यतीन्द्रमतदीपिका 
+
 
 २३. सर्व विज्ञानं यथार्थमिति वेदान्तविदां मतमित्युक्त- त्वात्, भ्रमादिप्रत्यक्षज्ञानं यथार्थमेव । 
 
@@ -485,7 +526,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 
 १८ 
 
-यतीन्द्रमतदीपिका 
+
 
 ३४. अतः सर्वं ज्ञानं सत्यं सविशेषविषयं च । निर्विशेष- 
 
@@ -521,7 +562,7 @@ refuted.main
 
 २० 
 
-यतीन्द्रमतदीपिका 
+
 
 ३९. ननु ' काणादं पाणिनीयं च सर्वशास्त्रोपकारकम्' इयुक्तत्वात् कथं मौतममतनिरासः ? इति चेत्, उच्यते । नास्माभिः कात्स्न्र्त्स्न्येनास्य मतस्य निरासः क्रियते । यावदिह युक्तियुक्तं तावत् स्वीक्रियते । परकल्पिततटा कोपजीवनवत् न खलु तटाकस्थः पङ्कोऽपि स्वीक्रियते । 
 
