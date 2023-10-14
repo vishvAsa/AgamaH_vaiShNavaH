@@ -6,6 +6,7 @@ TODO: TO BE CORRECTED.
 
 Source: [TW](https://archive.org/details/yatindramatadipika02engagovindacharyasvamin1912ocr/page/n1/mode/1up)
 
+
 Yatindra-mata-dipika; or The light of the school of Srī Rāmāmnuja 
 
 Srinivāsadāsa, Alkondavilli Gōvindāchārya 
@@ -39,9 +40,8 @@ AT THE MEYKAŅDĀN PRESS
 
 1912 
 
-All Rights Reserved 
-
-Works* by the same Author-In English. 
+## 
+### Works* by the same Author-In English. 
 
 1. Bhagavad-gita with Rāmānuja's com- 
 
@@ -127,7 +127,7 @@ Frontispiece
 
 Advent. 
 
-CONTENTS. 
+### CONTENTS. 
 
 A. GOVINDACARYA SVĀMIN. 
 
@@ -257,7 +257,7 @@ CONCLUSION
 
 N. B.-The Scheme of Transliteration is that adopt- ed by the Royal Asiatic Society of Great Britain and Ireland (JRAS,) except sh. Brahma-sūtras= Vedanta-sutras. It or He are both used for God and Soul. And She also, were it used, would, for Samskṛt, mean the same. The gender is incon- sequential. 
 
-PREFACE. 
+### PREFACE. 
 
 THE appearance of this work was adumbrated 
 
@@ -501,7 +501,7 @@ M.R.A.S, M.R.S.A, ETC.
 
 methods seem to have been prevalent; but Ramānuja gave true proportions by showing how the radical conceptions of God involved in such terms as Śiva, Hiranyagarbha, Indra, Agni etc., were all implicated in the comprehensive term Nārāyaṇa. See Advent IX on ' God.' 
 
-CORRIGENDA 
+### CORRIGENDA 
 
 xxiii 
 
@@ -4419,7 +4419,7 @@ IN
 
 · Athâ-'to Brahma-jijñāsā [Vedānta-Sūtras, 1-1-1]. The conception of God according to the Viśishta-'dvaita School as evident from this closing 
 
-CONCLUSION 
+### CONCLUSION 
 
 Thus ends the Conclusion 
 
