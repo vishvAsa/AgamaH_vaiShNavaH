@@ -1,6 +1,7 @@
 +++
 title = "govindAchArya"
 +++
+
 TODO: TO BE CORRECTED.
 
 Source: [TW](https://archive.org/details/yatindramatadipika02engagovindacharyasvamin1912ocr/page/n1/mode/1up)
@@ -9,7 +10,6 @@ Yatindra-mata-dipika; or The light of the school of Srī Rāmāmnuja
 
 Srinivāsadāsa, Alkondavilli Gōvindāchārya 
 
-Digitized by 
 
 Yatindra-Mata-Dipikā 
 
@@ -19,7 +19,7 @@ THE LIGHT OF THE SCHOOL
 
 OF 
 
-ŠRĪ RAMANUJA 
+ŚRĪ RAMANUJA 
 
 BY 
 
@@ -81,7 +81,7 @@ tion, Intuition and Ecstacy... I O O
 
 9. Ideals of Ind, in Two Parts 
 
-10. Yatindra-Mata-Dipika (or a Com- pendium of Višishțâdvaita Philo- sophy and Religion 
+10. Yatindra-Mata-Dipika (or a Com- pendium of Viśishțâdvaita Philo- sophy and Religion 
 
 II. 
 
@@ -151,7 +151,7 @@ CORRIGENDA
 
 I. [Instruments of Knowledge (Pramāņa)] PERCEPTION (Pratyaksha) 
 
-II. INFERENCE (Anumāna) III. THE WORD (Šabda) 
+II. INFERENCE (Anumāna) III. THE WORD (Śabda) 
 
 ... 
 
@@ -243,7 +243,7 @@ I
 
 VIII. THE SOUL (Jiva) 
 
-IX. GOD (Išvara) 
+IX. GOD (Iśvara) 
 
 ... 
 
@@ -261,13 +261,13 @@ PREFACE.
 
 THE appearance of this work was adumbrated 
 
-in the Artha-Pafcaka or The "Five Truths", in the pages of the JRAS (Journal of the Royal Asiatic Society), p. 565, July 1910. It was to have appeared in the same Journal, but for paucity of space for a work extending over more than 45 pages. It was decided therefore to bring out an independent edition in India, which, as a book of reference for all time on the Višishţâ-'dvaita Philosophy and Religion, is expected to be more accommodating to the general reader than if it appeared in an academic Journal inaccessible to all. Being an academic work itself, the printing of it in propria forma demanded by the exigencies of Sarhskṛta orthography, was made possible by the Meykandan Press, under the supervision of its intelligent pro- prietor Mr. J. N. Ramanathan, of Madras, under- taking to meet all the requirements incidental to such a work. It is hoped the readers will find the justness of my remarks when they may come to examine it for themselves. 
+in the Artha-Pafcaka or The "Five Truths", in the pages of the JRAS (Journal of the Royal Asiatic Society), p. 565, July 1910. It was to have appeared in the same Journal, but for paucity of space for a work extending over more than 45 pages. It was decided therefore to bring out an independent edition in India, which, as a book of reference for all time on the Viśishţâ-'dvaita Philosophy and Religion, is expected to be more accommodating to the general reader than if it appeared in an academic Journal inaccessible to all. Being an academic work itself, the printing of it in propria forma demanded by the exigencies of Sarhskṛta orthography, was made possible by the Meykandan Press, under the supervision of its intelligent pro- prietor Mr. J. N. Ramanathan, of Madras, under- taking to meet all the requirements incidental to such a work. It is hoped the readers will find the justness of my remarks when they may come to examine it for themselves. 
 
 2. In the shape of introduction to the work, very little need be written, it seeme to me, inasmuch 
 
 ji 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 as scholars are more in need of original matter than attempts made at theses for which there seems at present no warranty. But if a popular introduction were yet deemed necessary, my work called the Vade Mecum of Vedanta affords an appropriate pourparler to the Yatindra-Mata-Dipika, the work which, with this preface, makes its debut into the arena of Indology. The necessity also for such preliminaries is as far as possible obviated by the copious foot-notes which will be found sprinkled in sufficient profusion, in almost every page, not only to elucidate the abstruse subject-matter but as well to reduce to the utmost minimum the jejune nature which is a sine qua non of all academic studies, the Oriental in a large measure. The desideratum for a separate glossary of technical terms which by necessity teem in all works of an academic nature, is met by the scheme, adopted in this work, of inditing all such terms side by side their English, in brackets or otherwise. Facilities for comprehension are better afforded, I trust, by this mode than if they had to be procured by constant references to glossary at the sacrifice of time, with mental poise liable to be ruffled by such a process of glossarial interference, at every step of a perusal. Strictest fidelity to the original Samskṛta might, it is feared, have led to the English rendering being found stiff and in places lacking, peradventure, in clarity. But this is due more to the 
 
@@ -277,15 +277,15 @@ iii
 
 technical nature of the subject than to any perfunc- toriness on the part of the translator, who is conscious of having done his best. The subject itself is rigid, and invites the mental concentration of the student, not the surface-skimming of the light reader. 
 
-3. With regard to the author of Yatindra-Mata: Dipikā, Šrinivāsa, we learn from the invocatory verses (left untranslated), where mention of Maha- "cārya in the preliminary of Advent I, synonymously referred to again as Ghana-guru-vara in the Colophon is made, that he, (viz., Šrinivasa) is the immediate disciple of Doḍday-arya, which is the colloquial of Mahâ-"ārya which is the same as Mahâ-"cārya. There is a succession of apostles of the Rāmānuja School beginning from Dāšarathi or Mudaliy-āṇḍān, Šri-Rāmānuja's sister's son, famed as of the Kandadai descent. To this stem belong all the Mahâ-"cāryas, a branch-an important one-settl- ing down at Ghatikâ-'cala, otherwise known as Chola simhapuram (vulgarised as Sholinghur,—a station on the Railway track linking Bangalur and Madras), which is referred to by Srinivasa, the author of Yatindra-Mata-Dipikā, as Ghatikâ-"dri, in his invocatory verse to the work. This place is a noted shrine, very ancient as having been sung by the archaic Azhvārs or Draviḍa Saints 
+3. With regard to the author of Yatindra-Mata: Dipikā, Śrinivāsa, we learn from the invocatory verses (left untranslated), where mention of Maha- "cārya in the preliminary of Advent I, synonymously referred to again as Ghana-guru-vara in the Colophon is made, that he, (viz., Śrinivasa) is the immediate disciple of Doḍday-arya, which is the colloquial of Mahâ-"ārya which is the same as Mahâ-"cārya. There is a succession of apostles of the Rāmānuja School beginning from Dāśarathi or Mudaliy-āṇḍān, Śri-Rāmānuja's sister's son, famed as of the Kandadai descent. To this stem belong all the Mahâ-"cāryas, a branch-an important one-settl- ing down at Ghatikâ-'cala, otherwise known as Chola simhapuram (vulgarised as Sholinghur,—a station on the Railway track linking Bangalur and Madras), which is referred to by Srinivasa, the author of Yatindra-Mata-Dipikā, as Ghatikâ-"dri, in his invocatory verse to the work. This place is a noted shrine, very ancient as having been sung by the archaic Azhvārs or Draviḍa Saints 
 
 * See (my) Life of Ramanuja etc. 
 
 iv 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
-in their Tamil Works the Prabandhas-Nrsimha, one of the Ten Avatāras of Vishnu being the presid- ing Deity of the place. One of the Maha-"cāryas is noted in history as Canda-maruta Mahâ-"cärys by reason of a great polemical work called Canda- māruta (= hurricane) having been written by him on an anterior work the Šata-dushani of a similar charact- er, composed by the great Vedanta-"cārya [1268 A.C. born], who is the contemporary of Madhava or Vidya- ranya [1331 A.C. elected for Srigeri pontificate, in the now Mysore State]. The author mentions (in the Con- clusion-Chapter) both these works among others as those on which he bases his compendium of Višishta- 'dvaita Vedānta, viz., the Yatindra-Mata-Dipikā. Hence it may be reasonably conjectured that Šrinivasa is the immediate disciple of Ghatika-'cala Candamaruta Mahâ-"carya. This Mahâ-"carya is a contemporary of Appaya-Dikshita, who is a com- mentator on Vedanta-"carya's works. A tradition in currency further confirms this contemporaneity, which may be cited here, in almost the words kindly supplied me by my valued friend Šri M. T. Nara- simha-iyangar, B.A., M.R.AS., Professor in the Central College, Bangalūr:- 
+in their Tamil Works the Prabandhas-Nrsimha, one of the Ten Avatāras of Vishnu being the presid- ing Deity of the place. One of the Maha-"cāryas is noted in history as Canda-maruta Mahâ-"cärys by reason of a great polemical work called Canda- māruta (= hurricane) having been written by him on an anterior work the Śata-dushani of a similar charact- er, composed by the great Vedanta-"cārya [1268 A.C. born], who is the contemporary of Madhava or Vidya- ranya [1331 A.C. elected for Srigeri pontificate, in the now Mysore State]. The author mentions (in the Con- clusion-Chapter) both these works among others as those on which he bases his compendium of Viśishta- 'dvaita Vedānta, viz., the Yatindra-Mata-Dipikā. Hence it may be reasonably conjectured that Śrinivasa is the immediate disciple of Ghatika-'cala Candamaruta Mahâ-"carya. This Mahâ-"carya is a contemporary of Appaya-Dikshita, who is a com- mentator on Vedanta-"carya's works. A tradition in currency further confirms this contemporaneity, which may be cited here, in almost the words kindly supplied me by my valued friend Śri M. T. Nara- simha-iyangar, B.A., M.R.AS., Professor in the Central College, Bangalūr:- 
 
 "These two authors, Mahâ-"cārya and Appaya- Dikshita were close friends, both being the 
 
@@ -295,17 +295,17 @@ PREFACE
 
 V 
 
-unparalleled Vidvāns of the age; and they used to discuss philosophical questions very often, with a view to try their own skill in argument. Both were admirers of Vedanta-"carya, whose works they commented largely. Appaya-Dik- shita, as is well-known to all Sarhskṛt scholars, was a staunch devotee of Šiva, in spite of his having devoted his time to writing commentaries on the Višishţâ-"dvaitic works of Vedanta-"carya, and he wanted to construe the term Nārāyaṇa as applicable to his favourite deity Šiva. Maha- "cārya, seeing that his friend attempted a point (for argument) that could not at all be maintain- ed on grammatical basis (at most) waited for an opportunity to test the truth of his friend's conviction on the point in question. Once when they were both getting up the Alagar-malai about eight miles from Madura, (on which the temple of Sundara-bāhu or Alagar is situate, and where 
+unparalleled Vidvāns of the age; and they used to discuss philosophical questions very often, with a view to try their own skill in argument. Both were admirers of Vedanta-"carya, whose works they commented largely. Appaya-Dik- shita, as is well-known to all Sarhskṛt scholars, was a staunch devotee of Śiva, in spite of his having devoted his time to writing commentaries on the Viśishţâ-"dvaitic works of Vedanta-"carya, and he wanted to construe the term Nārāyaṇa as applicable to his favourite deity Śiva. Maha- "cārya, seeing that his friend attempted a point (for argument) that could not at all be maintain- ed on grammatical basis (at most) waited for an opportunity to test the truth of his friend's conviction on the point in question. Once when they were both getting up the Alagar-malai about eight miles from Madura, (on which the temple of Sundara-bāhu or Alagar is situate, and where 
 
 * Cp, the verse which is alleged to have been uttered by him in a meeting of Pandits at Käñcipura: 
 
-Makesvare va jagatām adhišvare Janardane va jagad-antar-atmani Na vastu-bheda-pratipattir asta me Tatha-'pi bhaktis Tarun-endu-sekhare. 
+Makesvare va jagatām adhiśvare Janardane va jagad-antar-atmani Na vastu-bheda-pratipattir asta me Tatha-'pi bhaktis Tarun-endu-sekhare. 
 
-The gist of the verse is that he saw no distinction between Šiva and Vishnu, yet he had a penchant for Šiva. See foot-note 238, page 116. [A. G.]vi 
+The gist of the verse is that he saw no distinction between Śiva and Vishnu, yet he had a penchant for Śiva. See foot-note 238, page 116. [A. G.]vi 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
-the famous Nupura-ganga rill runs), Maha- "carya took advantage of a position when he could extract the truth of his friend's conviction on the disputed point from his own mouth. Among the initial steps leading to the temple of Sundara-bahu, the eighteenth step from the bottom is regarded as presided over by a bhuta (spirit) named in Tamil Karappan; and the belief was that whoever speaks untruth (or proves false) while on this step, would suffer instantaneous death. (It is for this reason that the temple-keys used to be left, during nights, on this step, without any fear of thieves touch- ing them). (Here) Mahâ-"carya took hold of his friend's hand and making him stand there, questioned him thus:-"Tell me, my dear friend! are you really convinced that the term Nārāyaṇa can be construed as a name of Šiva? I ask you now because you cannot speak untruth here, for the sake of argument!" Then Appaya- Dikshita is said to have spoken out his own conviction to this effect: The letter N (") in the term Narayana is in the way of such con- struction. This is my conviction."*" 
+the famous Nupura-ganga rill runs), Maha- "carya took advantage of a position when he could extract the truth of his friend's conviction on the disputed point from his own mouth. Among the initial steps leading to the temple of Sundara-bahu, the eighteenth step from the bottom is regarded as presided over by a bhuta (spirit) named in Tamil Karappan; and the belief was that whoever speaks untruth (or proves false) while on this step, would suffer instantaneous death. (It is for this reason that the temple-keys used to be left, during nights, on this step, without any fear of thieves touch- ing them). (Here) Mahâ-"carya took hold of his friend's hand and making him stand there, questioned him thus:-"Tell me, my dear friend! are you really convinced that the term Nārāyaṇa can be construed as a name of Śiva? I ask you now because you cannot speak untruth here, for the sake of argument!" Then Appaya- Dikshita is said to have spoken out his own conviction to this effect: The letter N (") in the term Narayana is in the way of such con- struction. This is my conviction."*" 
 
 * Appaya-Dikshita accedes to this confession, be- yond grammatical reasons merely, in his com- mentary on verse 35 of Ananda-lakari [Pp. 64-65.] 
 
@@ -315,23 +315,23 @@ vii
 
 This great Appaya-Dikshita's date is correctly known as 1552-1624 A. c. as proved by various evidences such as (1) his living at Vellore, under the patronage of Chinna Bomma Bhupala, (2) his being invited to the court of the Penukonda ruler Venkata- deva (1586-1613 AC); (3) his being the Vedanta teacher of the great grammarian Bhattoji-Dikshita, edited by R. Halasyanatha Sastrin, 1908. [Vāṇī-vilāsa Press, Srirangam] thus:- 
 
-'Veda-vibhāga-'rtham evå 'vatirpena sakala-Veda- tātparyâ-'bhijñena sarvajña-šikhāmaņina bhagavatā Veda-Vyasena, Pulastya-vara-dana-labdha-devată- param-arthya-vedanena Šri-Parašareņâ, 'nyais ca mabarshibbir Ved-opa-bṛhmanâ-'rtham prapiteshu Šri Mahabharata-Vishnu-Purana-"dishu, 
+'Veda-vibhāga-'rtham evå 'vatirpena sakala-Veda- tātparyâ-'bhijñena sarvajña-śikhāmaņina bhagavatā Veda-Vyasena, Pulastya-vara-dana-labdha-devată- param-arthya-vedanena Śri-Paraśareņâ, 'nyais ca mabarshibbir Ved-opa-bṛhmanâ-'rtham prapiteshu Śri Mahabharata-Vishnu-Purana-"dishu, 
 
-nišcita. Parabrahma-bhāvasya, sadbhis sarvair apy avibhā- gena Para-Brahm-ety eva pūjitasya Sri-Nārāyaṇasya, kvacit-kone-nivishța-mantra-"rthavada-purāṇa-vaca- 
+niścita. Parabrahma-bhāvasya, sadbhis sarvair apy avibhā- gena Para-Brahm-ety eva pūjitasya Sri-Nārāyaṇasya, kvacit-kone-nivishța-mantra-"rthavada-purāṇa-vaca- 
 
-na-"dilešam avalambya jivabhāvam vaktum nå 'smaj-jihvā pravartate, tathā cen murdha ca šatadhā bhavati; Veda-Vaidika-drobo, Devata-drohaš ca jāyate. Ato Narayanah Para-Brahma-kotir ity evâ 'asmākam siddhāntaḥ.' 
+na-"dileśam avalambya jivabhāvam vaktum nå 'smaj-jihvā pravartate, tathā cen murdha ca śatadhā bhavati; Veda-Vaidika-drobo, Devata-drohaś ca jāyate. Ato Narayanah Para-Brahma-kotir ity evâ 'asmākam siddhāntaḥ.' 
 
-The gist of this passage is that his head will shatter into hundreds of fragments if he dared to gainsay the verdict of all the great Sages Vyāsa, Parāšara etc., about Nārāyaṇa being the Great God, in all their authoritative works; that he dare not commit such heresy and blasphemy, [A. G.] 
+The gist of this passage is that his head will shatter into hundreds of fragments if he dared to gainsay the verdict of all the great Sages Vyāsa, Parāśara etc., about Nārāyaṇa being the Great God, in all their authoritative works; that he dare not commit such heresy and blasphemy, [A. G.] 
 
 viii 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 (4) his antagonism with the famous poet Jagannatha Pandita or Pandita-raya, the author of Citra-mîmāṁsă- khandana, etc. 
 
-We can therefore conclude that Mahâ-"cārya (who by tradition was equally old with Appaya- Dikshita, while the Alagar-malai incident took place, as chronicled above) lived in the latter part of the 16th and the beginning of the 17th centuries. Our author Šrinivasa therefore, who is the son of Svami- pushkariņi Govinda-"rya, servitor at the Holy Hill Venkata-giri (Tirupati)-and disciple of Maha- "cārya, may be placed at the beginning of the 17th century. 
+We can therefore conclude that Mahâ-"cārya (who by tradition was equally old with Appaya- Dikshita, while the Alagar-malai incident took place, as chronicled above) lived in the latter part of the 16th and the beginning of the 17th centuries. Our author Śrinivasa therefore, who is the son of Svami- pushkariņi Govinda-"rya, servitor at the Holy Hill Venkata-giri (Tirupati)-and disciple of Maha- "cārya, may be placed at the beginning of the 17th century. 
 
-4 This author of Yatindra-Mata-Dipika had, according to the invocatory verse, a vision where he saw Venkatesa (the God of Tirupati), Devaraja (the God of Karisaila=Käñci), Nṛsithha (the God of Ghatika-"dri), along with Krshna (=Yamuna- "carya) and Yatirāja (= Rāmānuja), and that seems to be the inspiration quickening him to the com- position of an authoritative text-book, embodying in it all the quintessence of the doctrines of Visishţa- dvaita Philosophy and Religion promulgated by Šri Rāmānuja, which he fitly titles as the; YATINDRA MATA-DIPIKA or The Light of the School of Ramanuja. 
+4 This author of Yatindra-Mata-Dipika had, according to the invocatory verse, a vision where he saw Venkatesa (the God of Tirupati), Devaraja (the God of Karisaila=Käñci), Nṛsithha (the God of Ghatika-"dri), along with Krshna (=Yamuna- "carya) and Yatirāja (= Rāmānuja), and that seems to be the inspiration quickening him to the com- position of an authoritative text-book, embodying in it all the quintessence of the doctrines of Visishţa- dvaita Philosophy and Religion promulgated by Śri Rāmānuja, which he fitly titles as the; YATINDRA MATA-DIPIKA or The Light of the School of Ramanuja. 
 
 5. As works original, then commentaries, and then theses, over against these, became multiplied, 
 
@@ -339,9 +339,9 @@ PREFACE
 
 ix 
 
-and so vast as to be beyond the range of a clear conspectus of the subject-matter, necessity for com- pendia arose. Of such is the Yatindra-Mata-Dipikā, which purports to be a manual devised in order to present a lucid outline of the Visishta-'dvaita Philosophy and Religion, based on the voluminous literature extant, most of which the author Šrini- vāsa, mentions by name in the Conclusion-Chapter. I have inserted in brackets against these works, the names of these authors.* 
+and so vast as to be beyond the range of a clear conspectus of the subject-matter, necessity for com- pendia arose. Of such is the Yatindra-Mata-Dipikā, which purports to be a manual devised in order to present a lucid outline of the Visishta-'dvaita Philosophy and Religion, based on the voluminous literature extant, most of which the author Śrini- vāsa, mentions by name in the Conclusion-Chapter. I have inserted in brackets against these works, the names of these authors.* 
 
-6. As handbooks were thus desiderated for original works, English renderings of such seem to be in requisition in these modern days of acute oriental research. The East and West are daily being brought into closer bonds. A memorable epoch of this process has just transpired in King George V of 'Britain having crowned himself with his august consort Queen Mary, on Indian soil in Dehli. Rshi Parašara, in giving an account of the kings of the future in his Vishpu-Purapa who would hold sway over India, wrote thus:- 
+6. As handbooks were thus desiderated for original works, English renderings of such seem to be in requisition in these modern days of acute oriental research. The East and West are daily being brought into closer bonds. A memorable epoch of this process has just transpired in King George V of 'Britain having crowned himself with his august consort Queen Mary, on Indian soil in Dehli. Rshi Paraśara, in giving an account of the kings of the future in his Vishpu-Purapa who would hold sway over India, wrote thus:- 
 
 'Teshu'tsanneshu punaḥ Kainkilā Yavana bhüpatayo bhavishyanty a-murdhâ-'bhiskiktāḥ, [iv. 24. 55]. 
 
@@ -351,7 +351,7 @@ Some of these were kindly traced out for me by my friend Prof. M. T. Narasimhien
 
 B 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 Vishnu-Purana, Mr. F. Hall. To my mind it sounds very much like (Angila). Kainkila-Yavanas then (to us) are the English people. They would rule, he further tells us, without wearing the crowns (a-murdha-'bhi- shikta). This is considered by the Hindus as unorthodox or un-normal. George V. coronating himself in India then is an event which restores to the Hindus its own notions and sentiments of what properly constituted sovereigns ought to be (ie., mūrdhâ-'bhishikta). May not the Rshi's prophecy point to the necessity of real crowned heads establishing themselves in India, instead of uncrowned vicegerents being permitted to fulfil royal functions? No literary work written during this Coronation epoch should hence launch out into the world without chronicling this world-event, an event conspiring to unite East and West in closer bonds of love for co-operative work in future. This is fostered by literary works of the East presented to the West in western garb. My present attempt is one more of this description. 
 
@@ -369,19 +369,19 @@ Also it is significant to note that as this work is being sent out on its career
 
 (2) Published by the Vidya-tarangini Press, Mysore, 1896, in Telugu characters. 
 
-(3) Pūna Ananda-"šrama Series, No. 50. 1906, with a commentary by Vasudeva Šastrin, in Devanagari. Varia lectiones is almost nil, but a good editon along with English translation seems a future contin- gency. The author has divided the work into Ten Avataras, ie., Incarnations, in allusion to the fact of Vishnu's (Nārāyaṇa's) Ten Incarnations. Con- forming with this sentiment, have I adopted the equivalent term Advent to mean Sections or Chapters. 
+(3) Pūna Ananda-"śrama Series, No. 50. 1906, with a commentary by Vasudeva Śastrin, in Devanagari. Varia lectiones is almost nil, but a good editon along with English translation seems a future contin- gency. The author has divided the work into Ten Avataras, ie., Incarnations, in allusion to the fact of Vishnu's (Nārāyaṇa's) Ten Incarnations. Con- forming with this sentiment, have I adopted the equivalent term Advent to mean Sections or Chapters. 
 
 There are two Kārikās (versified works) treating of the same subject-matter (come to my notice), (1) Vedānta-kārika-"vali by Venkațârya, (2) Yatindra- siddhānta-sangraha by Sri-saila-"carya. [Vidya- tarangini Press, Maisir.] 
 
 xii 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
-As I stated above, the work, being academic, is rather rigid. I would therefore recommend the read- er to begin from the Fourth Advent to the End (prameya part), and then turn back to the First Three Advents (pramāna part). In any case the copious notes supplied will, it is hoped, lead to a clear comprehension of the otherwise intricate windings of the Višishțâ-'dvaita Philosophy and Religion. 
+As I stated above, the work, being academic, is rather rigid. I would therefore recommend the read- er to begin from the Fourth Advent to the End (prameya part), and then turn back to the First Three Advents (pramāna part). In any case the copious notes supplied will, it is hoped, lead to a clear comprehension of the otherwise intricate windings of the Viśishțâ-'dvaita Philosophy and Religion. 
 
 * 
 
-8. Finally, I have to note that this addition to the Orientalia was finished on the 2nd of February 1912, the auspicious day on which a great festival is held in Melkote Hill (Tiru-Nārāyaça-puram), thirty miles north from Maisur (Mysore), in honour of Šri Rāmānuja having discovered the Holy Image of Nārāyaṇa overgrown with jungle and ant-hills, under the asterism Punarvasu (pollox). By acci- dent or providence, it is difficult for the small wits of man to divine, Rev. J. N. Farquhar of the Y. M. C. A. Calcutta, came just now for the first time to Maisûr and in his address to the public in the Wesleyan Mission School hall, began with the preliminary that what attracted him to the place was neither woodland nor river-scene, neither Darya-Daulats nor Tippu's Tombs, but that great Ramanuja who appeared ten centuries ago on this land giving to men a great spiritual 
+8. Finally, I have to note that this addition to the Orientalia was finished on the 2nd of February 1912, the auspicious day on which a great festival is held in Melkote Hill (Tiru-Nārāyaça-puram), thirty miles north from Maisur (Mysore), in honour of Śri Rāmānuja having discovered the Holy Image of Nārāyaṇa overgrown with jungle and ant-hills, under the asterism Punarvasu (pollox). By acci- dent or providence, it is difficult for the small wits of man to divine, Rev. J. N. Farquhar of the Y. M. C. A. Calcutta, came just now for the first time to Maisûr and in his address to the public in the Wesleyan Mission School hall, began with the preliminary that what attracted him to the place was neither woodland nor river-scene, neither Darya-Daulats nor Tippu's Tombs, but that great Ramanuja who appeared ten centuries ago on this land giving to men a great spiritual 
 
 *See (my) Life of Ramanuja. Ch. xxix. 
 
@@ -397,7 +397,7 @@ message.* On the day referred to (2nd February.) the Reverend gentleman, true to
 
 xiv 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 acquaintance with Rāmānuja would have startled him by his exposition of a most ethical and loving as well as sublime and exalted, God as surpasseth all notions of similar character that may be found en- shrined in other Scriptures of Earth. Unfortunately such appellations of Deity connoting His highly ethical character, seem to have escaped his the Revd's notice, viz., dharma, satya, punya, pāvana, pavitra, pūta, Suchi, suddha, siva, hari, kalyāņa, amale, apahata-pāpmā, beya-pratyanika, nish-kalanka antaryāmi,* Bhagavān † etc. This ethical concept is in fact the cardinal, salient, momentous feature of the Vedanta that con- stitutes Ramanuja's evangel to mankind. 
 
@@ -441,7 +441,7 @@ not be an object worthy of Love; forasmuch as He is characterized as Axanda in t
 
 xviii 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 to establish the Personality of the Godhead as stand- ing in the most intimate relationship to the Ego (soul), for the redemption of which Divinity maketh repeat- ed loving sacrifices: Ajayamano bahudhā vijāyate, i. e., Incarnations*; and in order to prepare the same Ego for sweet eternal service comporting with Its Will. 
 
@@ -459,7 +459,7 @@ PREFACE
 
 xix 
 
-Ramanuja may already be discovered the latest evo- lution of theistic inquiry embodied in such works, for instance, as Prof. C. Fraser's Philosophy of Theism, in which the Three Primary Data: Ego (soul); Matter, and God are elaborately considered,-which is no other than Rāmānuja's Three Postulates of Existence, the Tattva-Traya, articulately epitomised in the Yat- indra-Mata-Dipika. Ranade writes: As a matter of fact, both before Sankara-"cārya's time, and after his death, the modified (Advaita) system of Rāmānuja had played a great part in Indian Philosophy, and to it may be traced the rise and progress of Vaishnava Sects throughout India, which sects have attained to a higher and truer conception of Theism than any of the other prevailing systems'. Again he says:-'The three-fold postulates of existence (cit, acit, Išvara of Rāmānuja) are thus seen to be distinct and yet barmonized together. All attempts to assimilate and reduce them into one absolute existence fail because they are bound to fail. At the same time they are not distinct in the sense of being disjoined parts of a mechanical whole. They are one and yet they are many.' (i. e. Višishta-"dvaita). 
+Ramanuja may already be discovered the latest evo- lution of theistic inquiry embodied in such works, for instance, as Prof. C. Fraser's Philosophy of Theism, in which the Three Primary Data: Ego (soul); Matter, and God are elaborately considered,-which is no other than Rāmānuja's Three Postulates of Existence, the Tattva-Traya, articulately epitomised in the Yat- indra-Mata-Dipika. Ranade writes: As a matter of fact, both before Sankara-"cārya's time, and after his death, the modified (Advaita) system of Rāmānuja had played a great part in Indian Philosophy, and to it may be traced the rise and progress of Vaishnava Sects throughout India, which sects have attained to a higher and truer conception of Theism than any of the other prevailing systems'. Again he says:-'The three-fold postulates of existence (cit, acit, Iśvara of Rāmānuja) are thus seen to be distinct and yet barmonized together. All attempts to assimilate and reduce them into one absolute existence fail because they are bound to fail. At the same time they are not distinct in the sense of being disjoined parts of a mechanical whole. They are one and yet they are many.' (i. e. Viśishta-"dvaita). 
 
 12. Christianity is a happy combination of Semitic and Aryan culture in the direction of religion: but 
 
@@ -477,7 +477,7 @@ and Christian faiths. Dravidian comprises all the Turanian branches. Aryan inclu
 
 (3) Revd. Dr. Miller of Madras asked the British Christians to bear in mind that God was at work in India long before any missionary, Catholic or Protest- ant, set his foot there. 
 
-*Dravidian includes the two branches Vaishnava and Šaiva. The Dramida- or Dravida-Bhashya on the Brahma-Sutras, referred to both by Sankara and Ramanuja, seems to be an ancient commentary, by its very name Dramida of Dramida-"cārya. Anterior to Ramanuja and posterior to Sankara, procrustean 
+*Dravidian includes the two branches Vaishnava and Śaiva. The Dramida- or Dravida-Bhashya on the Brahma-Sutras, referred to both by Sankara and Ramanuja, seems to be an ancient commentary, by its very name Dramida of Dramida-"cārya. Anterior to Ramanuja and posterior to Sankara, procrustean 
 
 PREFACE 
 
@@ -499,7 +499,7 @@ GOVINDA-"CARYA SVAMIN,
 
 M.R.A.S, M.R.S.A, ETC. 
 
-methods seem to have been prevalent; but Ramānuja gave true proportions by showing how the radical conceptions of God involved in such terms as Šiva, Hiranyagarbha, Indra, Agni etc., were all implicated in the comprehensive term Nārāyaṇa. See Advent IX on ' God.' 
+methods seem to have been prevalent; but Ramānuja gave true proportions by showing how the radical conceptions of God involved in such terms as Śiva, Hiranyagarbha, Indra, Agni etc., were all implicated in the comprehensive term Nārāyaṇa. See Advent IX on ' God.' 
 
 CORRIGENDA 
 
@@ -537,7 +537,7 @@ viii
 
 Karisaila 
 
-Karišaila 
+Kariśaila 
 
 xi 
 
@@ -747,13 +747,13 @@ Māyāvādins
 
 Soul, 
 
-Bhaskara Šaivâcaryas 
+Bhaskara Śaivâcaryas 
 
 Soul 
 
 Bhaskara 
 
-Šaivacāryas 
+Śaivacāryas 
 
 23 
 
@@ -785,7 +785,7 @@ Jaiminiya...shano
 
 25 
 
-mantrāśrayaš 
+mantrāśrayaś 
 
 mantra"srayas 
 
@@ -795,7 +795,7 @@ mantra"srayas
 
 Sriman— 
 
-Šriman- 
+Śriman- 
 
 133 
 
@@ -867,7 +867,7 @@ and
 
 Twenty-four 
 
-CLORY TO RĀMĀNUJA 
+GLORY TO RĀMĀNUJA 
 
 YATĪNDRA'-MATA-DĪPIKĀ 
 
@@ -875,21 +875,19 @@ OR
 
 THE LIGHT OF RĀMĀNUJA'S SCHOOL. 
 
-ADVENT I-PERCEPTION (Pratyaksha). 
+## PERCEPTION (Pratyaksha). 
 
 INVOCATORY VERSES. 
 
 1. Sri-Venkatesam Kari-Saila-natham 
 
-Śri-Devarājam Ghatik-adri-simham Krshṇena sākam Yatirājam iḍe Svapne ca drshṭān mama Dešik-endrān. 2. Yatišvaram praṇamya 'ham Vedant-aryam Mahā-gurum Karomi bāla-bodhārtham 
+Śri-Devarājam Ghatik-adri-simham Krshṇena sākam Yatirājam iḍe Svapne ca drshṭān mama Deśik-endrān. 2. Yatiśvaram praṇamya 'ham Vedant-aryam Mahā-gurum Karomi bāla-bodhārtham 
 
 Yatindra-mata-dipikām. 
 
-The BLESSED LORD (Šriman-Nārāyaṇa) " alone is the Truth (tattva), adjectivated by soul 
+The BLESSED LORD (Śriman-Nārāyaṇa) " alone is the Truth (tattva), adjectivated by soul 
 
 1 
-
-# 
 
 The King of Yatis' or ascetics Ramanuja. 
 
@@ -899,21 +897,21 @@ The King of Yatis' or ascetics Ramanuja.
 
 ⚫ Sri means Blessed, metaphorically She is Lakshmı or the Mediatrix, the Mother. Nārāyaṇa is the All-N 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 + 
 
 [Advent 
 
-and non-soul, and secondless. By Love (Bhakti) and Resignation (Prapatti,) propitiated, He alone is the Means; and He alone is the Goal, adjectivated by the Spiritual Universe. Thus, by means of the texts (or passages) of the Vedanta, do they establish-viz., Vyasa, Bodhāyana, Guhadeva, Bhāruci, Brahmanandi, Dramiḍācārya, Śrī Parānkuša, Natha,' Yamu- namuni, Yatišvara' and others. According to their School, I proclaim, by the grace of Mahā- cārya (my Guru or Spiritual Preceptor), the 
+and non-soul, and secondless. By Love (Bhakti) and Resignation (Prapatti,) propitiated, He alone is the Means; and He alone is the Goal, adjectivated by the Spiritual Universe. Thus, by means of the texts (or passages) of the Vedanta, do they establish-viz., Vyasa, Bodhāyana, Guhadeva, Bhāruci, Brahmanandi, Dramiḍācārya, Śrī Parānkuśa, Natha,' Yamu- namuni, Yatiśvara' and others. According to their School, I proclaim, by the grace of Mahā- cārya (my Guru or Spiritual Preceptor), the 
 
-God, and metaphorically He is the Father. Thus Šriman-Nārāyapa - The Universe's Mother-Father Principle = God. 
+God, and metaphorically He is the Father. Thus Śriman-Nārāyapa - The Universe's Mother-Father Principle = God. 
 
-* The original expression is Chid-achid-višishta. Chit-conscious entity-Soul; and Achit=Non-cons- cious entity = Non-soul. Nārāyaṇa is thus the Soul- and-Non-soul-bodied-Spirit=God. 
+* The original expression is Chid-achid-viśishta. Chit-conscious entity-Soul; and Achit=Non-cons- cious entity = Non-soul. Nārāyaṇa is thus the Soul- and-Non-soul-bodied-Spirit=God. 
 
 • That is Means to Salvation or Deliverance from the Material State, and for attaining the Spiritual State. 
 
-• This is Šathagopa or St. Nammazhvar [vide our Lives of Saints]. 
+• This is Śathagopa or St. Nammazhvar [vide our Lives of Saints]. 
 
 'Or Nathamuni [vide our Life of Rāmānuja]. 
 
@@ -927,7 +925,7 @@ PERCEPTION.
 
 3 
 
-Šariraka-Paribhasha," named Yatindra-mata- Dipika (or the Light of Ramanuja's School),- which follows the Vedanta-for the instruction 
+Śariraka-Paribhasha," named Yatindra-mata- Dipika (or the Light of Ramanuja's School),- which follows the Vedanta-for the instruction 
 
 of students. 
 
@@ -943,7 +941,7 @@ Dravya or Substance is of two kinds, Jada or the Non-sentient " and A-jada or th
 
 4 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -957,7 +955,7 @@ A-jada or the Sentient is twofold; Parāk or outward (objective) and Pratyak or 
 
 Parak or Outward is also twofold: the Nitya- vibhuti or Eternal Estate, and the Dharma- bhūta-jñāna or attributive (or adjectival) con- sciousness or cognition. 
 
-Pratyak or Inward is also twofold: Jwa or the Individual Soul and Išvara or Ruling (Universal) Soul (God). 
+Pratyak or Inward is also twofold: Jwa or the Individual Soul and Iśvara or Ruling (Universal) Soul (God). 
 
 Java or Individual Soul is threefold: (1) Bad- dha or the Bound, (2) Mukta or the Freed, and (3) Nitya or the Eternal (or Free)." 
 
@@ -1005,7 +1003,7 @@ J. R A. S. for details.
 
 6 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -1015,11 +1013,11 @@ The Prapanna or God-resigned is twofold: the Ekūnti or the One-pointed, and the
 
 The Paramaikanti is twofold: the Drpta" or The Postulant-Patient, and the Arta" or The Postulant-Impatient. 
 
-Išvara or God Supreme is (hypostatically) existent in five modes, viz., (1) Para or the Transcendant, (2) Vyuha or the Grouped, (3) Vibhava or the Incarnational (4) Antaryāmi or the In-Ruler, and (5) Arca or the Worship- pable."9 
+Iśvara or God Supreme is (hypostatically) existent in five modes, viz., (1) Para or the Transcendant, (2) Vyuha or the Grouped, (3) Vibhava or the Incarnational (4) Antaryāmi or the In-Ruler, and (5) Arca or the Worship- pable."9 
 
 Para or the Transcendant is Uniform (or the Immutable Spirit-Unit). 
 
-Vyuha or the Grouped is fourfold: (1) Vasu- deva, (2) Sankarshaṇa, (3) Pradyumna, and (4) Aniruddha. Kešava and others are derivative 
+Vyuha or the Grouped is fourfold: (1) Vasu- deva, (2) Sankarshaṇa, (3) Pradyumna, and (4) Aniruddha. Keśava and others are derivative 
 
 1o & **, See Op. cit. Pp: 581 ff. 
 
@@ -1037,7 +1035,7 @@ PERCEPTION.
 
 Antaryāmi or the In-Ruler dwells in every body. 
 
-Arcă or the Worshippable are those unique Images presented to the eyes of all men in such Holy Shrines as Šrirangam.” 
+Arcă or the Worshippable are those unique Images presented to the eyes of all men in such Holy Shrines as Śrirangam.” 
 
 An examination will now be conducted in order of this specification (or enunciation) above made (of the categories). 
 
@@ -1055,7 +1053,7 @@ See Tattvatraya of Lokācārya (No. 2, in the list, P. 570. Op. cit.,) for an ex
 
 25 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -1079,7 +1077,7 @@ thā-jñāna and viparīta-jñāna are avoided (which would) otherwise vitiate t
 
 Samsaya or Doubt is the apperception of mutually contradicting attributes in a thing (dharmi) to be apprehended. For example, the doubt whether a long-looking or erect object is post or person. 
 
-Anyathā-jšāna or Wrong Apprehension is the mistaken apperception of one attribute for another. For example, the proposition which ascribes the agency in the real agent, soul, as due to illusion. (This is dharma-viparyāsa). 
+Anyathā-jśāna or Wrong Apprehension is the mistaken apperception of one attribute for another. For example, the proposition which ascribes the agency in the real agent, soul, as due to illusion. (This is dharma-viparyāsa). 
 
 Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one thing itself for another. (For example the mistaking of the post itself for the person). (This is dharmi- viparyāsa). 
 
@@ -1097,7 +1095,7 @@ or with, practicality'; 'the reality of empirical know- ledge' will perhaps bett
 
 10 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -1117,7 +1115,7 @@ PERCEPTION
 
 II 
 
-The Pramānas or the Means of knowledge are three :-(1) Pratyaksha or Perception, " Anumāna or Inference, and Šabda or Word. 
+The Pramānas or the Means of knowledge are three :-(1) Pratyaksha or Perception, " Anumāna or Inference, and Śabda or Word. 
 
 Of these, Perception is the Means which renders knowledge actually sensible (or made manifest to the senses). 'Manifest to the sen- ses' is (a necessary clause) to show its variety from Inference. Pramü or knowledge is to show its character different from what it would be to the vitiated (unsound, defective or diseased) sense. 
 
@@ -1135,7 +1133,7 @@ Is., thorough, in popular language.
 
 Thus Nir-vikalpaka would be shallow, whereas Sa-vikalpaka would be deep, knowledge.12 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -1191,7 +1189,7 @@ J. R. A. S.
 
 14 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -1233,21 +1231,21 @@ Sometimes the excitant is the sight of some- thing similar (previously sensed); 
 
 16 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-memory, of what has previously been experienc- ed (sensed), such as the Holy Place Śrīrangam.” (3) The Third is the calling into memory (cons- cious cerebration) such as the bewitching divine Image of Venkateša " (before sensed). What is well experienced engenders constant remem- brance. Forgetfulness is caused by much time elapsing (after the prior experience) or by sickness etc., which weaken the residua (Sams- kāras). "1 
+memory, of what has previously been experienc- ed (sensed), such as the Holy Place Śrīrangam.” (3) The Third is the calling into memory (cons- cious cerebration) such as the bewitching divine Image of Venkateśa " (before sensed). What is well experienced engenders constant remem- brance. Forgetfulness is caused by much time elapsing (after the prior experience) or by sickness etc., which weaken the residua (Sams- kāras). "1 
 
 As remembrance (Smrti) is (thus) included in Perception or Sense-evidence, 
 
 51 
 
-This is the Holy Shrine near Trichinopoly, Madras Presidency. The traditions say that the Holy Image therein came from Kshirabdhi or Milky Ocean, to Ikshvāku of the Solar Race and bestowed by Šri-Rama on Vibishapa,and install- ed in Srirangam. For Symbology, see our Lives of Saints and note 24 supra. 
+This is the Holy Shrine near Trichinopoly, Madras Presidency. The traditions say that the Holy Image therein came from Kshirabdhi or Milky Ocean, to Ikshvāku of the Solar Race and bestowed by Śri-Rama on Vibishapa,and install- ed in Srirangam. For Symbology, see our Lives of Saints and note 24 supra. 
 
 DO 
 
-Or Šrinivasa, the Holy Image on the Hill Tirupati (or Tirumalai), North Arcot District, Madras Presidency. For traditions see Venkata'cala-Māhātmya. These are the Arca Forms, vide Pp. 576ff. Artha- 
+Or Śrinivasa, the Holy Image on the Hill Tirupati (or Tirumalai), North Arcot District, Madras Presidency. For traditions see Venkata'cala-Māhātmya. These are the Arca Forms, vide Pp. 576ff. Artha- 
 
 J. R. A. S. 
 
@@ -1257,7 +1255,7 @@ Pańcaka,
 
 1910 A.D. 
 
-Veda X. 155-1: Arayi kāne Vikate girim gaccha sadânve Širim-bithasya satvabhis tebhish (va catayamasi" 
+Veda X. 155-1: Arayi kāne Vikate girim gaccha sadânve Śirim-bithasya satvabhis tebhish (va catayamasi" 
 
 • Or render the impressions faded. 
 
@@ -1285,7 +1283,7 @@ Also genius (or extraordinary illumination or inspiration) discovered in blessed
 
 18 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -1311,7 +1309,7 @@ Sarvâtmatva-pratititab. [I: 1. 1. Atha etc.].
 
 The form of a thing assuming another form (Naiyāyikas). 
 
-** The real view or the realistic view that the thing is what it really is (Višishtadvaitins). 
+** The real view or the realistic view that the thing is what it really is (Viśishtadvaitins). 
 
 I.] 
 
@@ -1327,11 +1325,11 @@ By virtue of the quintuplicatory combination (or process) of the elements (Bhita
 
 There is one more view, the Asat-khayati or un- real view (Madhyamika-Bauddhas). 
 
-* Called Bhutas, because effected from the previous simple substances. The compounded or admixed substances are called elements. They are Five: (1) Akāša (ether), (2) Vāyu (air), (3) Agni (fire), (4) Āpas (water), (5) Pṛthvi (earth). 
+* Called Bhutas, because effected from the previous simple substances. The compounded or admixed substances are called elements. They are Five: (1) Akāśa (ether), (2) Vāyu (air), (3) Agni (fire), (4) Āpas (water), (5) Pṛthvi (earth). 
 
 20 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -1401,7 +1399,7 @@ Hence all cognitions are of the real, and their contents (are provided by) concr
 
 09 
 
-Perception then as enunciated (above), appre- hends difference alone. When difference (Bheda) is posited, it (always) implies a counter-entity, but never " (when viewed) as in itself. Hence the two faults are absent, viz., An-avasthā or infinite regress, and Anyo'nyâ”šraya or mutual 
+Perception then as enunciated (above), appre- hends difference alone. When difference (Bheda) is posited, it (always) implies a counter-entity, but never " (when viewed) as in itself. Hence the two faults are absent, viz., An-avasthā or infinite regress, and Anyo'nyâ”śraya or mutual 
 
 ** Such a thing therefore as abstract conscious- ness, in other words cognition of object without any attribute, is a non-entity to the Visishtadvaita philosophers. 
 
@@ -1415,7 +1413,7 @@ YATINDRA-MATA-DIPIKĀ
 
 [Advent 
 
-dependence. An-avastha is the (fault of) de- manding further and further." Anyo'nyâ”šraya is (the fault of) mutual dependence". 
+dependence. An-avastha is the (fault of) de- manding further and further." Anyo'nyâ”śraya is (the fault of) mutual dependence". 
 
 74 
 
@@ -1481,7 +1479,7 @@ of Gautama" is so lightly refutable when there exist such (authoritative) texts 
 
 81 
 
-'Kanāda and Paniniya are helpful to all sciences (Šāstra)'? 
+'Kanāda and Paniniya are helpful to all sciences (Śāstra)'? 
 
 To this it is replied: no School is in toto refuted. Whatever stands to reason is accepted, like water in a reservoir constructed by others, but surely never the mire in it. 
 
@@ -1489,7 +1487,7 @@ Hence we do not accept such postulations as: The Causation by atoms,-
 
 The Human origin of the Vedas (Revela- tions),- 
 
-The Inferential Proof for God-hood (Išvara),— The Infiniteness of Soul (-essence) (Jiva),- The adoption as categories (Padārtha):— (1) Sāmānya or universality (what constitutes "The School of Gautama or Gotama,-the Indian School of Logic. 
+The Inferential Proof for God-hood (Iśvara),— The Infiniteness of Soul (-essence) (Jiva),- The adoption as categories (Padārtha):— (1) Sāmānya or universality (what constitutes "The School of Gautama or Gotama,-the Indian School of Logic. 
 
 80 
 
@@ -1503,11 +1501,11 @@ The Inferential Proof for God-hood (Išvara),— The Infiniteness of Soul (-esse
 
 28 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-a genus), (2) Višesha or Particularity (what constitutes a species or the Individual), (3) Samavāya or Inhesion (or Inherence),- 
+a genus), (2) Viśesha or Particularity (what constitutes a species or the Individual), (3) Samavāya or Inhesion (or Inherence),- 
 
 The constituting Upamūna or comparison into a (distinct) Means (of knowledge-Pramāņa),- 
 
@@ -1527,7 +1525,7 @@ The Treatment of Perception (Pratyaksha) in the
 
 These matters are further noticed in the follow- ing Advents (or Chapters). Also read such works as Tarka-Sangraha, Nyaya-bodhini, Tarka-Sangraha- Dipika, Prakasikā, Tippani, Bhasha-Pariccheda &c. 
 
-ADVENT II-INFERENCE (Anumāna). 
+## INFERENCE (Anumāna). 
 
 Now, Anumana or Inference will be ex- pounded: 
 
@@ -1539,7 +1537,7 @@ Vyapya and Vyapaka are technical terms of Hindu Noëtics. In the sentence. 'smok
 
 30 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 non-limited space and time. 
 
@@ -1579,7 +1577,7 @@ YATINDRA-MATA-DIPIKA
 
 [Advent 
 
-Condition or Limitation (Upādhi) is twofold: Settled (Nišcita) and Doubted (Šankita). 
+Condition or Limitation (Upādhi) is twofold: Settled (Niścita) and Doubted (Śankita). 
 
 The Settled is thus:-- 
 
@@ -1609,7 +1607,7 @@ INFERENCE
 
 ((Reason) Because, meditation is ripe, 
 
-(Instance) Like Šuka." 
+(Instance) Like Śuka." 
 
 33 
 
@@ -1629,7 +1627,7 @@ The definition of Vyapti is: Yatra dhumas tatra 'gnir iti sähacarya-niyamo VYAP
 
 34 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -1685,7 +1683,7 @@ Sat-pratipaksha means that where a reason exists to disprove what is to be prove
 
 36 
 
-YATINDRA-MATA-DĪPIKĀ [Advent 
+ [Advent 
 
 (Present-Absent), (2) Kevalà-'nvayi (Present 
 
@@ -1755,7 +1753,7 @@ The syllogism that establishes an Inference consists of five members:
 
 38 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 5. Nigamana-Conclusion." 
 
@@ -1777,13 +1775,13 @@ Udāharaṇa or Instance is indicating an ex- ample where concomitance or co-exi
 
 Upanaya or Application is the sentence which refers the Reason to the subject by a 
 
-"The equivalent Vaišeskika synonyms are: 
+"The equivalent Vaiśeskika synonyms are: 
 
 1. Pratijna. 
 
 2. Apadesa, Linga, Pramāṇa, Kāraṇa, 
 
-3. Nidaršana. 
+3. Nidarśana. 
 
 4. Anusandhāna. 
 
@@ -1849,7 +1847,7 @@ timed).
 
 Of these, Asiddha or Impossible is three- fold:-. 
 
-(1) Svarūpâ'siddha or Natural Impossibility, (2) Ãšrayâ’siddha or Local Impossibility, and (3) Vyapyatva'siddha or Pervasive Impossi- 
+(1) Svarūpâ'siddha or Natural Impossibility, (2) Ãśrayâ’siddha or Local Impossibility, and (3) Vyapyatva'siddha or Pervasive Impossi- 
 
 bility. 
 
@@ -1873,7 +1871,7 @@ Sky-lotus is the locus and this is non-ens.
 
 642 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -1947,7 +1945,7 @@ Because it is odorous.'
 
 44 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 'God is eternal, 
 
@@ -1997,7 +1995,7 @@ Because it is smoky ';
 
 46 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -2059,7 +2057,7 @@ P
 
 40: Avigħāta &c. 
 
-I. 1. 41 : Vimṛšya &c. 
+I. 1. 41 : Vimṛśya &c. 
 
 I. 2. 42: Pramana &c. 
 
@@ -2103,13 +2101,13 @@ I. 2. 60: Vipratipatti &c. Nigrahasthāna, literally means Occasion for rebuke',
 
 • 
 
-ADVENT III-THE WORD (Šabda). 
+##  THE WORD (Śabda). 
 
-After the exposition of Inference (Anumāna), the word (Šabda)1 will be expounded. 
+After the exposition of Inference (Anumāna), the word (Śabda)1 will be expounded. 
 
 111 
 
-Šabda-Pramāņa or the Instrument (or Means) viz, 'Word', is that which produces the know- ledge obtained from sentences non-uttered by the non-trustworthy (men) (An-āptā). Non-uttered by the Non-trustworthy' is (a characterisation advisedly) employed to controvert the opinion that 'the Word' (Vedas) is of human origin. Or the Word' is that which is exempt from the sense-errors (Karana-dosha) and con- 
+Śabda-Pramāņa or the Instrument (or Means) viz, 'Word', is that which produces the know- ledge obtained from sentences non-uttered by the non-trustworthy (men) (An-āptā). Non-uttered by the Non-trustworthy' is (a characterisation advisedly) employed to controvert the opinion that 'the Word' (Vedas) is of human origin. Or the Word' is that which is exempt from the sense-errors (Karana-dosha) and con- 
 
 trarieties (Bādhaka-pratyaya)."** 
 
@@ -2183,7 +2181,7 @@ Hence in their totality are the Vedas authori- tative.
 
 This Veda is twofold: (1) the Pre-Division (Purva) treating of Works (Karma), (2) the Post- Division (Uttara) treating of God (Brahman). 
 
-The Pre-Division treats of Works, which is Worship (of God); and the Post-Division treats of Brahman (God), the Worshippable. Hence both the mimämsas, or Vedic Discourses consti- tute one Science (Šāstra). 
+The Pre-Division treats of Works, which is Worship (of God); and the Post-Division treats of Brahman (God), the Worshippable. Hence both the mimämsas, or Vedic Discourses consti- tute one Science (Śāstra). 
 
 ** Paradise, material heavens. 
 
@@ -2191,11 +2189,11 @@ The Pre-Division treats of Works, which is Worship (of God); and the Post-Divisi
 
 'Post- 
 
-ficial Yard (Yaga-Šala) for tying the victims. Sun' is a metaphor meaning that the Post is as bright as the Sun, not the Sun itself, which would be absurd, and therefore Veda itself absurd. [Vide Jaiminiya-Nyāya-Mālā. I. 4. 15, and Kṛshna-Yajur 
+ficial Yard (Yaga-Śala) for tying the victims. Sun' is a metaphor meaning that the Post is as bright as the Sun, not the Sun itself, which would be absurd, and therefore Veda itself absurd. [Vide Jaiminiya-Nyāya-Mālā. I. 4. 15, and Kṛshna-Yajur 
 
 Brāhmaṇa. L 2.5].52 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -2215,9 +2213,8 @@ Vidhi is 'text' which enjoins what is good (for one to do). Vidhi (Injunction) i
 
 Apurva-Vidhi comprises such injunctions as: 'Sprinkles paddy'. 
 
-# 181 
 
-Višishţa-Vidhi (falling under Apūrva) is medi- tative injunctions such as mano-maya.1. 
+Viśishţa-Vidhi (falling under Apūrva) is medi- tative injunctions such as mano-maya.1. 
 
 4 
 
@@ -2255,7 +2252,7 @@ Kamya-Vidhi comprises such injunctions as the performances of Jyotishtoma etc.
 
 Thus the Veda comprised of Vidhi, Artha- vāda and Mantra, has the limbs, (1) Chhandas, 
 
-1a Imam agrbhṇan rašanām'. [Krshna-Yajus-Sam- hitä: V. 1. 2]. 
+1a Imam agrbhṇan raśanām'. [Krshna-Yajus-Sam- hitä: V. 1. 2]. 
 
 * This verse may be of use:-"Vidhir antyantam aprapto niyamaḥ pākshike sati, tatra câ'nyatra ca praptau parisapkhyā vidkiyate." 
 
@@ -2265,17 +2262,17 @@ Thus the Veda comprised of Vidhi, Artha- vāda and Mantra, has the limbs, (1) Ch
 
 54 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-(2) Kalpa (3) Šikshā, (4) Nirukta, (5) Jyotisha, 
+(2) Kalpa (3) Śikshā, (4) Nirukta, (5) Jyotisha, 
 
 and (6) Vyakaraṇa. 
 
 Chhandas is the exposition (of metres) such as Anushtup, Trishțup &c. (Metrics). 
 
-Kalpa is the exposition of the modus operandi of Šrauta1 and Smarta's ritual. Šikshā is what concerns itself with the syntactical collocation of letters (Phonetics). 
+Kalpa is the exposition of the modus operandi of Śrauta1 and Smarta's ritual. Śikshā is what concerns itself with the syntactical collocation of letters (Phonetics). 
 
 Nirukta is what concerns itself with the ex- planation of rare meanings (of words) (Etymo- logical lexicography). 
 
@@ -2285,7 +2282,7 @@ Vyakarana is known to be that which deter- mines the pure word-formation and int
 
 Thus, the authoritativeness of the Veda with its limbs is evident (or established). 
 
-Smrti is authoritative, for it is not opposed to Šruti; "" expounds (the Law of) Acara or 
+Smrti is authoritative, for it is not opposed to Śruti; "" expounds (the Law of) Acara or 
 
 188 
 
@@ -2293,11 +2290,10 @@ n
 
 187 
 
-# 
 
 " 
 
-187 What belongs to Šruti or Vedas (what is heard). Smrti ΟΙ Dharma-Šāstras (what is remembered or what is heard. Hence the Smytis have their roots in the Šruti). 
+187 What belongs to Śruti or Vedas (what is heard). Smrti ΟΙ Dharma-Śāstras (what is remembered or what is heard. Hence the Smytis have their roots in the Śruti). 
 
 III.] 
 
@@ -2305,7 +2301,7 @@ THE WORD
 
 55 
 
-conduct, Vyavahāra or Transactions, Prāyaš- citta or Penances, etc., and instituted by our Aptas or Elderly well-wishers. 
+conduct, Vyavahāra or Transactions, Prāyaś- citta or Penances, etc., and instituted by our Aptas or Elderly well-wishers. 
 
 141 
 
@@ -2319,7 +2315,7 @@ As regards (Mahā-)Bhārata and Rāmāyaṇa
 
 143 
 
-""" Same as Coturmukha or the four-faced Demiurge. The first authorship belongs to him of the Yoga- Šāstra. Pātañjala and other works are based upon that Original. 
+""" Same as Coturmukha or the four-faced Demiurge. The first authorship belongs to him of the Yoga- Śāstra. Pātañjala and other works are based upon that Original. 
 
 140 The Satva (pure), Rajas (mixed) and Tamas (impure) properties of matter, which affect the mind as they happen to be each in the ascendant, See Vedanta-Sutras II. 1. 1ff: 
 
@@ -2341,7 +2337,7 @@ The Puranas also, treating of the Five (Topics): creation etc., are divisible in
 
 144 
 
-The Pašupata etc., Agamas are likewise (to be considered). 
+The Paśupata etc., Agamas are likewise (to be considered). 
 
 The Pancarătra-Agamas viz. Āgama-, Divya- tantra-, Tantrāntara-, Siddhāntas, are in their totality authoritative, for nowhere do they conflict with the Vedas. Likewise is the Vaikha- 
 
@@ -2367,11 +2363,11 @@ THE WORD
 
 57 
 
-Likewise are the Dharma-Šāstras. * The Law-Makers are Sandilya, Parašara, Bharadvāja, Vasishtha, Hārīta and others. 
+Likewise are the Dharma-Śāstras. * The Law-Makers are Sandilya, Paraśara, Bharadvāja, Vasishtha, Hārīta and others. 
 
-Likewise, where requisite, are the Šilpa (Architectonics), Ayur-Veda (Life-knowledge, i. e. Medicine), Gāndharva (Music) etc. 
+Likewise, where requisite, are the Śilpa (Architectonics), Ayur-Veda (Life-knowledge, i. e. Medicine), Gāndharva (Music) etc. 
 
-Šilpa is the treatise on the subject of found- ation, construction of turrets, enclosures ctc. Ayur-Veda is medicine; Gandharva treats of music etc. Of this the Bharata-"gama deals with (the art of) dancing. 
+Śilpa is the treatise on the subject of found- ation, construction of turrets, enclosures ctc. Ayur-Veda is medicine; Gandharva treats of music etc. Of this the Bharata-"gama deals with (the art of) dancing. 
 
 146 
 
@@ -2381,7 +2377,7 @@ More authoritative are the Blessed Utterances of such saints as Vakula-"bharaṇ
 
 166 
 
-*Social, legal and religious polity of the Hindus. *** For an enumeration of these Crafts (Kalās), see Vasudeva's commentary on Yatindra-mata-Dipikā, called Prakaša [Anandašrama Series, Pūna. No. 50]. 
+*Social, legal and religious polity of the Hindus. *** For an enumeration of these Crafts (Kalās), see Vasudeva's commentary on Yatindra-mata-Dipikā, called Prakaśa [Anandaśrama Series, Pūna. No. 50]. 
 
 Lit., the Vakuja (Mimusops Elenge) decked, a name of St. Nammāzhvär, for whose life, see our Lives of Dravida Saints. An enumeration of his works is also there to be found. These Treatises are all in Tamil poetry, called Prabandhas. 
 
@@ -2393,7 +2389,7 @@ YATINDRA-MATA-DIPIKĀ
 
 [Advent 
 
-Most authoritative are the works composed by Blessed Teachers (Acāryas) such as Rāmā- nuja, viz., Šrī-Bhāshya TM** etc. 
+Most authoritative are the works composed by Blessed Teachers (Acāryas) such as Rāmā- nuja, viz., Śrī-Bhāshya TM** etc. 
 
 Paurusheya or of 'human origin' are works characterised by their dependence on the free-will of man and by (merit of) singular composition. In this definition is included all such works as Kavya or poetics, Nafaka or Histrionics, Alankara or Rhetorics. 
 
@@ -2439,13 +2435,13 @@ Where the Primary force is affected, the next nearest sense becomes the metaphor
 
 and 'neighs after a long interval, it would be want- ing in that Proximity which would convey the sense: 'Horse neighs.' [See Tarka-Samgraha, Dipikā &c]. 
 
-181 See Sahitya-Darpana; Kavya-prakāša &c. 
+181 See Sahitya-Darpana; Kavya-prakāśa &c. 
 
 *The word "Pankaja" for example, which means lotus, for it grows up from mire. 
 
 60 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -2471,19 +2467,19 @@ THE WORD
 
 61 
 
-so all Soul '-terms denoting Brahma, Rudra, Agni, Indra &c., constituting the ' Body' of God (Bhagavān), and similarly Non-soul' terms denoting Matter (Prakṛti), Time (Kala), Ether (Akāša), Life (Prāṇa) etc., all have their final connotation in the 'Embodied', The Supreme Spirit (Paramātman), Nārāyaṇa. Thus do the Teachers (Ācāryas) propound. The ultimate import of all Vedantic Sentences is understood as thus interpreted. 
+so all Soul '-terms denoting Brahma, Rudra, Agni, Indra &c., constituting the ' Body' of God (Bhagavān), and similarly Non-soul' terms denoting Matter (Prakṛti), Time (Kala), Ether (Akāśa), Life (Prāṇa) etc., all have their final connotation in the 'Embodied', The Supreme Spirit (Paramātman), Nārāyaṇa. Thus do the Teachers (Ācāryas) propound. The ultimate import of all Vedantic Sentences is understood as thus interpreted. 
 
 184 
 
 104 
 
-We shall in the Advent (IX) on Išvara (God), discourse on (the topic of) Nārāyaṇa, 
+We shall in the Advent (IX) on Iśvara (God), discourse on (the topic of) Nārāyaṇa, 
 
 as the Ultimate Connotee of all terms, His All-bodied Character etc. 
 
 Thus ends Advent III. 
 
-The Treatment of Word (Šabda) 
+The Treatment of Word (Śabda) 
 
 in the 
 
@@ -2491,17 +2487,15 @@ in the
 
 4 
 
-10 The conception of God as conveyed by this term is elaborately treated in the Rahasyas' of the Višishtâdvaitins. Our own works in English explain it in diverse places. Briefly the sense may be gather- ed from the passage in the Narayan-opanishat: "Antar bahis ca tat sarvam vyāpya Nārāyaṇas sthitaḥ."ADVENT IV. 
+10 The conception of God as conveyed by this term is elaborately treated in the Rahasyas' of the Viśishtâdvaitins. Our own works in English explain it in diverse places. Briefly the sense may be gather- ed from the passage in the Narayan-opanishat: "Antar bahis ca tat sarvam vyāpya Nārāyaṇas sthitaḥ.
 
-OBJECT OF KNOWLEDGE 
-
-(Prameya). 
+## OBJECT OF KNOWLEDGE (Prameya). 
 
 MATTER (Prakṛti.) 
 
 After the treatment of Pramāņa (or Means of knowledge) Prameya "" or Object of knowledge will be treated. Prameya (literally) means what is well (pra), measured (meya). 
 
-It (Object) is twofold: Dravya or Substance, and A-dravya or Non-Substance. Substance is the Upādāna or Substrate, Base or Receptacle; and the Receptacle is the Abode of States or Modes (Avasthâ-"šraya). 
+It (Object) is twofold: Dravya or Substance, and A-dravya or Non-Substance. Substance is the Upādāna or Substrate, Base or Receptacle; and the Receptacle is the Abode of States or Modes (Avasthâ-"śraya). 
 
 How, it may be asked, is this twofold division: Substance and Non-Substance to be maintained, when other schools enumerate a six-fold divi- sion:-Dravya or Substance, Guna or Quality, Karma or action, Sāmānya or Genus etc ?1 
 
@@ -2511,7 +2505,7 @@ How, it may be asked, is this twofold division: Substance and Non-Substance to b
 
 = 
 
-166 According to the Categories of Nyaya Philo- sophy. The others are: Višesha or Particularity, 
+166 According to the Categories of Nyaya Philo- sophy. The others are: Viśesha or Particularity, 
 
 IV.] 
 
@@ -2531,7 +2525,7 @@ One Samavāya or Inhesion (or Co-inherence), admitted in another Inhesion, leads
 
 189 
 
-It is also cumbrous to admit (another Category): Višesha or Particularity, in order to Samavaya or Inhesion and Abhava or Non-existence. With the last the number becomes seven; et seq. 
+It is also cumbrous to admit (another Category): Viśesha or Particularity, in order to Samavaya or Inhesion and Abhava or Non-existence. With the last the number becomes seven; et seq. 
 
 187 Vide, Tarka-Samgraha &c. 
 
@@ -2543,19 +2537,19 @@ The 'Cohesion,' mechanical, chemical or mole-
 
 64 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-account for such differences of attributes as those of Atomicity (Anutva) and Infinitude (Vibhutva), characterising (respectively) Soul (Jiva) and God (Išvara). 
+account for such differences of attributes as those of Atomicity (Anutva) and Infinitude (Vibhutva), characterising (respectively) Soul (Jiva) and God (Iśvara). 
 
-Hence, as distinct (Categories), Action (Karma), Generality (Sāmānya), Particularity (Višesha) and Inhesion (Samavāya) are not admitted, the twofold Division: Substance (Dravya), and Non-Substance (A-dravya), answers well. 
+Hence, as distinct (Categories), Action (Karma), Generality (Sāmānya), Particularity (Viśesha) and Inhesion (Samavāya) are not admitted, the twofold Division: Substance (Dravya), and Non-Substance (A-dravya), answers well. 
 
 By this, it is also refuted that Abhava (Non- existence) is a seventh Category; for Non-exis- tence always implies its correlative, Existence (Bhāva). 
 
 Prag-abhava or antecedent Non-existence is previous condition; Dhvamsa or (post- cedent) destruction is the after-condition. Atyanta-"bhāva or Absolute Non-existence, and Anyonya-"bhāva or Mutual Non-existence, (simply) refer to particular features in a Sub- stance (Dharmi). Hence the inclusion of this (category, viz., Abhāva) under (Pratyaksha . or) Perception. 
 
-It was said that Dravya (Substance) is the Upādāna (or Abode of States: Avasthâ-"šraya). 
+It was said that Dravya (Substance) is the Upādāna (or Abode of States: Avasthâ-"śraya). 
 
 [IV 
 
@@ -2563,9 +2557,9 @@ OBJECT OF KNOWLEDGE: MATTER
 
 65 
 
-The general definition also holds good that Substance is the Abode of Attributes (Gunâ- "š-raya). 
+The general definition also holds good that Substance is the Abode of Attributes (Gunâ- "ś-raya). 
 
-The Substances (then) are Six:-(1) Prakṛti or Matter, (2) Kāla or Time, (3) Šudda-satva or Pure Matter, (4) Dharmabhūta-Jñāna or attributive consciousness, (5) Jiva or Soul, and (6) Išvara or God.100 
+The Substances (then) are Six:-(1) Prakṛti or Matter, (2) Kāla or Time, (3) Śudda-satva or Pure Matter, (4) Dharmabhūta-Jñāna or attributive consciousness, (5) Jiva or Soul, and (6) Iśvara or God.100 
 
 These (Six Substances) are divisible into two classes, Jada or Inert, and A-jaḍa or non-inert (ie., Self-luminous). 
 
@@ -2573,7 +2567,7 @@ The nature of the 'Inert' is described as that
 
 which is devoid of Non-mixed Matter.161 And 
 
-16° Of these (1) and (2) may be called Objective Substance; and (5) and (6) Subjective Substance, (3) and (4) linking the two sets. (3) may be called Subjective Matter, (1) being called Objective Matter; and (4) may be called Conscious Substance. Science has made a distinction between Ponderable matter and Imponder- able matter; but the latter is still Objective. Hence (3) Šuddha-Satva, a matter which is of the celestial or heavenly order, is thus best conceivable by the ex- pression Subjective-matter. 
+16° Of these (1) and (2) may be called Objective Substance; and (5) and (6) Subjective Substance, (3) and (4) linking the two sets. (3) may be called Subjective Matter, (1) being called Objective Matter; and (4) may be called Conscious Substance. Science has made a distinction between Ponderable matter and Imponder- able matter; but the latter is still Objective. Hence (3) Śuddha-Satva, a matter which is of the celestial or heavenly order, is thus best conceivable by the ex- pression Subjective-matter. 
 
 16 1 
 
@@ -2583,7 +2577,7 @@ Objective Matter is Mixed Matter; Pure Matter is Subjective Matter. That which i
 
 66 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -2613,7 +2607,7 @@ The definition of Sense is that which has for its material basis the Satvikâ'ha
 
 68 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -2637,7 +2631,7 @@ The facility to act-any one out of them such as speaking etc.,-characterises gen
 
 70 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -2647,7 +2641,7 @@ is the Sense of Evacuation. This resides in the several organs (Payu) set apart 
 
 For a Tabulation of these results, consult pp. 257 & 258 of our Bhagavad-Gita: Commentaries. 
 
-16 Read Vedanta-Sutra: II-4-6. 'Apavaš ca.' 168 I. o., Šri-Bhashya or Ramanuja's Commentary on the Vedanta-Sutras, and other works on the Visisktadvaita philosophy. 
+16 Read Vedanta-Sutra: II-4-6. 'Apavaś ca.' 168 I. o., Śri-Bhashya or Ramanuja's Commentary on the Vedanta-Sutras, and other works on the Visisktadvaita philosophy. 
 
 IV.] 
 
@@ -2657,13 +2651,13 @@ From the Tamasâ'haṁkāra, called Bhūtādi fostered by Rajasâ'haṁkāra, sp
 
 (1) Sound-Subtle Element, (2) Touch-Subtle Element, (3) Colour-Subtle Element, (4) Savour- Subtle Element, (5) Odour-Subtle Element. The Elements are also five:-(1) Ether, (2) Air, (3) Fire, (4) Water, (5) Earth. 
 
-The Sound-Subtle Element is the compound substance intervenient to Tamasā'haṁkāra and Ether (Ākāša), like the modification between milk and curds. From this (Subtle Element) springs Ether. The properties of Ether are defined in such terms as :- 
+The Sound-Subtle Element is the compound substance intervenient to Tamasā'haṁkāra and Ether (Ākāśa), like the modification between milk and curds. From this (Subtle Element) springs Ether. The properties of Ether are defined in such terms as :- 
 
 (1) Imperceptible to touch, is the Substrate for the quality Sound, 
 
 (2) Affording gratification to the Organ of bearing (Ear),72 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 (3) Affording room (extension). 
 
@@ -2671,7 +2665,7 @@ YATİNDRA-MATA-DĪPIKĀ
 
 It (Ether) is characterised by Sound only. It is perceptible according to the familiar saying: 'Sky is blue'. It has color and parts by reason of the Quintuplicative Process (Pañci- karaṇa-Prakriya). By this (reasoning), the opinion that Ether is non-generate is disproved 
 
-A distinct (Category such as) Direction (Dik) needs no creation, inasmuch as such Direction as East etc, is derivable from the associations of the motions of the sun with the sky (Akaša). The creation of Direction is to be understood like the creation of Sky etc. 
+A distinct (Category such as) Direction (Dik) needs no creation, inasmuch as such Direction as East etc, is derivable from the associations of the motions of the sun with the sky (Akaśa). The creation of Direction is to be understood like the creation of Sky etc. 
 
 From Ether springs the Touch-Subtle Ele- ment. This Touch-Subtle Element is the com- pound Substance occupying the intermediate state between Ether and Air. From it Air springs. The properties of Air are defined in such terms as:- 
 
@@ -2695,7 +2689,7 @@ that springs Fire.
 
 74 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 The definition of Fire is :- 
 
@@ -2703,7 +2697,7 @@ The definition of Fire is :-
 
 [Advent 
 
-It causes outside, maturing etc., by means of Fire and Sun, and inside, as fire in the stomach, is designated as Vaišvānara: Except in the case of owls etc., all ocular knowlege is aided by means of light. This (Fire-Element) is fourfold: (1) Bhauma, (2) Divya, (3) Audarya, (4) Ākar- aja. That which is in the earthy fuel is Bhauma (terrestrial)—the flame etc. That which is of water only is Divya (celestial)-the Sun etc. That which is in earth and water combined is Audarya (bodily),-the stomach-fire etc. Fuel- less fire is Akaraja (mineral)-gold etc. The absence of warmth in the touch of gold (etc.,) is due to its association with other substances. 
+It causes outside, maturing etc., by means of Fire and Sun, and inside, as fire in the stomach, is designated as Vaiśvānara: Except in the case of owls etc., all ocular knowlege is aided by means of light. This (Fire-Element) is fourfold: (1) Bhauma, (2) Divya, (3) Audarya, (4) Ākar- aja. That which is in the earthy fuel is Bhauma (terrestrial)—the flame etc. That which is of water only is Divya (celestial)-the Sun etc. That which is in earth and water combined is Audarya (bodily),-the stomach-fire etc. Fuel- less fire is Akaraja (mineral)-gold etc. The absence of warmth in the touch of gold (etc.,) is due to its association with other substances. 
 
 There is also a general classification as (1) Effulgence (Prabka) and the Effulgent (Prabhāvān). Effulgence is a Fire-species which is subject to contraction or expansion of radiance caused by the presence or absence of 
 
@@ -2727,7 +2721,7 @@ This (Water) is manifold as of the ocean, the river etc. It is characterised by 
 
 76 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -2747,7 +2741,7 @@ IV.] OBJECT OF KNOWLEDGE: MATTER
 
 Quintuplicative Process, divides each Element into two portions, and reserving one portion, divides the other portion into four parts. He distributes these four parts, one for each of the other four Elements. When this is done with regard to all the (Five) Elements, each Element retains its own moiety, the other moiety being compounded of the parts of the other Elements. By reason of its own component (moiety) being greater, and of the other components being smaller, it is designated by the terms: Earth etc. The teaching of the Triplicatory Process in the Vedas means by implication the Quintuplicatory Process. Others posit a Septuplicatory Process by combining the Elements with (the principles) Mahat and Ahaṁkāra. 
 
-Of these (Principles of Matter), twenty four in number, the five Elements, Prakṛti (Primal Matter), Mahat and Ahaṁkāra, organise the Body (Šarira). The Eleven Senses, enumerated separately-a set for each Soul (Purusha)- possess each body, like gems set in a jewel. One definition of Body is thus-wise given :— 
+Of these (Principles of Matter), twenty four in number, the five Elements, Prakṛti (Primal Matter), Mahat and Ahaṁkāra, organise the Body (Śarira). The Eleven Senses, enumerated separately-a set for each Soul (Purusha)- possess each body, like gems set in a jewel. One definition of Body is thus-wise given :— 
 
 It is a Substance in indiscerptible relation with the Soul, to which it is bound as the 
 
@@ -2757,19 +2751,19 @@ YATÎNDRA-MATA-DĪPIKĀ
 
 [Advent 
 
-Sustained (Adheya), Ordained (Vidheya) and Disposed (Sesha). Each of these: 'Sustained," 'Ordained' and 'Disposed' may be considered also as a threefold distinctive definition. A neutral (tajastha) definition is that it is a Substance distinct from God (Išvara) and His knowledge (Jnana). Hence, the definitions attempted by others are discarded, such as:- 
+Sustained (Adheya), Ordained (Vidheya) and Disposed (Sesha). Each of these: 'Sustained," 'Ordained' and 'Disposed' may be considered also as a threefold distinctive definition. A neutral (tajastha) definition is that it is a Substance distinct from God (Iśvara) and His knowledge (Jnana). Hence, the definitions attempted by others are discarded, such as:- 
 
 (1) The abode of action' is Body, (2) The 'abode of Senses' is Body, (3) The 'house of enjoyment' is Body, 
 
 (4) The 'aggregate of the limbs: head, hands, feet etc.,' is Body; etc. 
 
-The Body is twofold: Eternal and Non- Eternal. The Eternal is the Body of God (Išvara) the pure Abode etc., of the Three- Propertied Substance, Time and Soul; and the natural Body assuming the shapes of the kite, 1or 
+The Body is twofold: Eternal and Non- Eternal. The Eternal is the Body of God (Iśvara) the pure Abode etc., of the Three- Propertied Substance, Time and Soul; and the natural Body assuming the shapes of the kite, 1or 
 
 snake 18 etc: of the Eternal-celestials (Nitya-Suris)." The Non-Eternal is twofold: 
 
 16* Ie. Satva-Rajas-and-Tamas-characterised matter. 147 Garuda, 
 
-188 Ananta or Adi-Šesha, 
+188 Ananta or Adi-Śesha, 
 
 18 Or Archangels, 
 
@@ -2777,7 +2771,7 @@ IV.] OBJECT OF KNOWLEDGE: MATTER
 
 79 
 
-Non-Karma"""-made and Karma-made (Karma- kṛta). The First constitutes the forms of God 11 (Išvara), Mahat etc., and likewise forms assumed at will by Ananta, Garuda Etc., (Archangels), the Freed (Mukta)" and God. The Karma- made (body) is also twofold ; (1) will-prompted Karma-made, and (2) exclusively Karma-made. The former is as in the case of great souls like Saubhari." For others, the other. Again there is a twofold general classification: (1) Immov- able and (2) Movable. The Immovable are the rocks, trees, shrubs etc. The Movable is fourfold:-(1) Celestial (Deva), (2) Human (Manushya), (3) Animal (Tiryak) and (4) Hellish (Nāraki). A division also is based upon the modes of birth: (1) seed-born, (2) sweat-born, (3) egg-born (oviparous) and (4) womb-born 
+Non-Karma"""-made and Karma-made (Karma- kṛta). The First constitutes the forms of God 11 (Iśvara), Mahat etc., and likewise forms assumed at will by Ananta, Garuda Etc., (Archangels), the Freed (Mukta)" and God. The Karma- made (body) is also twofold ; (1) will-prompted Karma-made, and (2) exclusively Karma-made. The former is as in the case of great souls like Saubhari." For others, the other. Again there is a twofold general classification: (1) Immov- able and (2) Movable. The Immovable are the rocks, trees, shrubs etc. The Movable is fourfold:-(1) Celestial (Deva), (2) Human (Manushya), (3) Animal (Tiryak) and (4) Hellish (Nāraki). A division also is based upon the modes of birth: (1) seed-born, (2) sweat-born, (3) egg-born (oviparous) and (4) womb-born 
 
 170 Karma is the sum of acts generated by the soul, and constitutes the cause for embodied existence; and this Karma is spread over many such lives till enfranchisement (Moksha) is achieved. 
 
@@ -2789,7 +2783,7 @@ Non-Karma"""-made and Karma-made (Karma- kṛta). The First constitutes the form
 
 80 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -2813,15 +2807,15 @@ Thus the Egg"" is generated by the Quintupli- cative Process. The creation prior
 
 previous, and assumption of an after, mutation. This (process of naming) is continued down to (the category) Earth. 
 
-In this manner, the Twenty-four Categorical Divisions (of Prakṛti) consisting of Primal Matter, Mahat, Ahaṁkāra, the Eleven Senses, the Five Subtle Elements and the Five (Gross) Elements, have been described. Hence those outsiders (Bahyas)' """ and Pāšupatas', who predicate a greater or a lesser number of Categories, are disregarded, as well as those who plead for the atomic theory (of the Universe)." 
+In this manner, the Twenty-four Categorical Divisions (of Prakṛti) consisting of Primal Matter, Mahat, Ahaṁkāra, the Eleven Senses, the Five Subtle Elements and the Five (Gross) Elements, have been described. Hence those outsiders (Bahyas)' """ and Pāśupatas', who predicate a greater or a lesser number of Categories, are disregarded, as well as those who plead for the atomic theory (of the Universe)." 
 
 181 
 
-The Primordial Matter etc., constitute the Ob- jects (Bhogya), Instruments (Bhog-ópakarana) and the Habitat (Bhoga-sthana) of enjoyment for both God (Išvara) and Soul (Jiva). The Objects are the group of things, of sound etc. 
+The Primordial Matter etc., constitute the Ob- jects (Bhogya), Instruments (Bhog-ópakarana) and the Habitat (Bhoga-sthana) of enjoyment for both God (Iśvara) and Soul (Jiva). The Objects are the group of things, of sound etc. 
 
 * I. 6. those who are beyond the pale of the Vedic Authority; the heretics, so to say. 
 
-180 1.6. those who predicate Pašu pati or Šiva as the Lord of the Universe, which is opposed to the School of the Vedanta, vide: Brahma-Sūtra II. 2. 35: Patyur asāmaħjas syāt. 
+180 1.6. those who predicate Paśu pati or Śiva as the Lord of the Universe, which is opposed to the School of the Vedanta, vide: Brahma-Sūtra II. 2. 35: Patyur asāmaħjas syāt. 
 
 181 The Vaiseshika School which posits atoms as the basis of the kosmos. 
 
@@ -2833,9 +2827,9 @@ YATINDRA-MATA-DIPIKĀ
 
 The Instruments are those of the Eye etc. The Habitat consists of the Egg (Brahmāṇḍa)*, composed of the Fourteen Spheres. The Egg is likened to a wood-apple, a result of the Quintuplicated Elements and of Prarabdha (or the sum of the Karmic forces set agoing by the countless souls whose destiny is linked with this particular Egg or System of world-process). 
 
-(The description of it is) thus:-Bh is like the lotus. The Meru is like the pericarp. To the South of Mēru are (situate) the Varshas: Bharata, Kimpurusha, and Hari. To the North are the Varshas: Ramyaka, Hiranyaka and Mēru. To the East is the Varsha Bhadrāšva. 
+(The description of it is) thus:-Bh is like the lotus. The Meru is like the pericarp. To the South of Mēru are (situate) the Varshas: Bharata, Kimpurusha, and Hari. To the North are the Varshas: Ramyaka, Hiranyaka and Mēru. To the East is the Varsha Bhadrāśva. 
 
-To the West is the Varsha Ketumala. In the Centre is the Ilļāvṛta. Composed of these Nine Varshas is the Jambu-Dvipa, a lac of yojanast in extent, enclosed by the Salt-Sea of equal ex- tent. This Sea is begirt by the Plaksha-Dvipa of double that extent composed of seven Var- shas. This is (enclosed) by the Syrup1-Sea. This Sea by the Šalmali-Dvipa. This again by 
+To the West is the Varsha Ketumala. In the Centre is the Ilļāvṛta. Composed of these Nine Varshas is the Jambu-Dvipa, a lac of yojanast in extent, enclosed by the Salt-Sea of equal ex- tent. This Sea is begirt by the Plaksha-Dvipa of double that extent composed of seven Var- shas. This is (enclosed) by the Syrup1-Sea. This Sea by the Śalmali-Dvipa. This again by 
 
 • See note (176), page 80. 
 
@@ -2851,7 +2845,7 @@ OBJECT OF KNOWLEDGE: MATTER
 
 1 
 
-the Liquor-Sea. This by the Kuša-Dvipa. This by the Ghee"-Sea. This by the Krauñca- Dvipa. This by the Curds-Sea. This again by the Šaka-Dvipa. This again by the Milk-Sea. This is surrounded by the annular Pushkara- Dvipa, made up of two Varshas and containing the mountain Manasottara. This by Pure- Water-Sea. Each following Dvipa is to be considered as double (in extent of the preceding). The Plaksha etc., Dvipas contain Seven Varshas. This of the Seven Varshas is encircled by the Land of Gold, double its extent. The Land of Gold, by the Mountain Lokaloka. This Moun- tain by Tamas (Darkness?). Tamas by Uterine Waters185 Then the (spherical) Egg-Shell. Located below Bh as thus (described), are the Seven Lokas or Realms named (1) Atala, 
+the Liquor-Sea. This by the Kuśa-Dvipa. This by the Ghee"-Sea. This by the Krauñca- Dvipa. This by the Curds-Sea. This again by the Śaka-Dvipa. This again by the Milk-Sea. This is surrounded by the annular Pushkara- Dvipa, made up of two Varshas and containing the mountain Manasottara. This by Pure- Water-Sea. Each following Dvipa is to be considered as double (in extent of the preceding). The Plaksha etc., Dvipas contain Seven Varshas. This of the Seven Varshas is encircled by the Land of Gold, double its extent. The Land of Gold, by the Mountain Lokaloka. This Moun- tain by Tamas (Darkness?). Tamas by Uterine Waters185 Then the (spherical) Egg-Shell. Located below Bh as thus (described), are the Seven Lokas or Realms named (1) Atala, 
 
 183 
 
@@ -2863,7 +2857,7 @@ I.6., Clarified butter.
 
 84 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -2879,7 +2873,7 @@ IV.] OBJECT OF KNOWLEDGE: MATTER
 
 85 
 
-hundred crores of yojanas is because of the differences in measure-standards. The Egg- Shell is a crore of yojanas in extent. Ten times this is the environment round the Egg (-a System). Eggs of this description without number are like water-bubbles, simultaneously projected by God (Išvara). God's creation up to the four-faced Brahma is immediate, thence forward mediate. Such is the division. For enlargement (of this topic), the Gem of Purāņas (i.e. Vishnu-P) may be consulted. Thus Matter (Prakyti) has been treated. 
+hundred crores of yojanas is because of the differences in measure-standards. The Egg- Shell is a crore of yojanas in extent. Ten times this is the environment round the Egg (-a System). Eggs of this description without number are like water-bubbles, simultaneously projected by God (Iśvara). God's creation up to the four-faced Brahma is immediate, thence forward mediate. Such is the division. For enlargement (of this topic), the Gem of Purāņas (i.e. Vishnu-P) may be consulted. Thus Matter (Prakyti) has been treated. 
 
 Thus ends Advent IV. 
 
@@ -2887,7 +2881,7 @@ The Treatment of Matter (Prakyti) in the
 
 "Light of the School of Ramanuja". 
 
-ADVENT V.-TIME (Kāla). 
+## TIME (Kāla). 
 
 180 
 
@@ -2935,7 +2929,7 @@ YATINDRA-MATA-DIPIKA
 
 [Advent 
 
-Four-Yugas. Thus, measured by the standard of Brahma, one hundred years is his life-length. All this is subject to Time. Likewise is subject to Time the various Dissolutions (Pralayas): Nitya (frequent), Naimittika (occasional), Prā- kṛta (material), etc. For time as Effect, Time itself is the Cause. Infinite time is eternal; finite times are non-eternal. Time so delineat- ed constitutes an ingredient for God's (cosmic) Sport (i.e. Display). In the Lila-Vibhuti,TM God (1švara) works, subject to Time. Although Time exists in the Nitya-Vibhuti," it is so by His will. Some say that time non-exists, others 
+Four-Yugas. Thus, measured by the standard of Brahma, one hundred years is his life-length. All this is subject to Time. Likewise is subject to Time the various Dissolutions (Pralayas): Nitya (frequent), Naimittika (occasional), Prā- kṛta (material), etc. For time as Effect, Time itself is the Cause. Infinite time is eternal; finite times are non-eternal. Time so delineat- ed constitutes an ingredient for God's (cosmic) Sport (i.e. Display). In the Lila-Vibhuti,TM God (1śvara) works, subject to Time. Although Time exists in the Nitya-Vibhuti," it is so by His will. Some say that time non-exists, others 
 
 1. Nitya-Pralaya Sleep or Death. 
 
@@ -2977,15 +2971,11 @@ Spiritual Preceptors, in a generic sense; the expositors and exegetists who came
 
 106 
 
-ADVENT VI. 
-
-SPIRITUAL UNIVERSE. 
-
-(Nitya-Vibhuti). 
+## SPIRITUAL UNIVERSE. (Nitya-Vibhūti). 
 
 108 
 
-Now (the Subject of the) Spiritual Universe (Nitya-Vibhuti) will be propounded. Non- inertness (Ajaḍatva) is a property common to (the Principles :) Pure Matter (Šuddha-satva)," the Attributive Consciousness (Dharma-bhūta- Jñāna), Soul (Jwa) and God (Išvara). Non-inertness means Self-luminousness (Sva- yam-prakāšatva). Self-luminousness cum exte- riority (Paraktva), characterises both Pure Matter and Attributive Consciousness. Satvam or Lightness means that which, while self- luminous, is luminant to others. Suddha-Satvam 
+Now (the Subject of the) Spiritual Universe (Nitya-Vibhuti) will be propounded. Non- inertness (Ajaḍatva) is a property common to (the Principles :) Pure Matter (Śuddha-satva)," the Attributive Consciousness (Dharma-bhūta- Jñāna), Soul (Jwa) and God (Iśvara). Non-inertness means Self-luminousness (Sva- yam-prakāśatva). Self-luminousness cum exte- riority (Paraktva), characterises both Pure Matter and Attributive Consciousness. Satvam or Lightness means that which, while self- luminous, is luminant to others. Suddha-Satvam 
 
 108 
 
@@ -3015,7 +3005,7 @@ or Essential lightness is to be Luminant, while distinct from the Tri-featured S
 
 197 Nescience or Ignorance is the root of all evil. 'Where this is entirely absent' is a negative definition of the Kingdom of Heaven, i.e, the Spiritual Universe. 
 
-198 Read the Pancaratras. For the subject-matter here alluded to, vide Padma-tantra: XII-36 ff begin- ning: "Yojanānām kotir ūrdhve” &c. Vishnu Himself is the Five-Spiritual-Energied Being according to the verse (loc cit.): "Panca-Sakti-mayo Vishuh koti-yojana-sammite, aste Sri-Bhumi-salito Vainateyena sevita!." The five are named thus:-(1) Sarva, (2) Nivṛtti, (3) Višva, (4) Purusha and (5) Parameshthi.92 
+198 Read the Pancaratras. For the subject-matter here alluded to, vide Padma-tantra: XII-36 ff begin- ning: "Yojanānām kotir ūrdhve” &c. Vishnu Himself is the Five-Spiritual-Energied Being according to the verse (loc cit.): "Panca-Sakti-mayo Vishuh koti-yojana-sammite, aste Sri-Bhumi-salito Vainateyena sevita!." The five are named thus:-(1) Sarva, (2) Nivṛtti, (3) Viśva, (4) Purusha and (5) Parameshthi.92 
 
 YATINDRA-MATA-DIPIKĀ 
 
@@ -3043,15 +3033,15 @@ after the vitalising (Prāṇa-pratishthā) process. 'How can happen a junction,
 
 208 
 
-101 Cf. Bhagavad-Gitā: Avajānanti Mām mūdhak mānuskim tanum asritam, param bhāvam ajānasto Mama bhuta-makišvaram ". (IX. 11). 
+101 Cf. Bhagavad-Gitā: Avajānanti Mām mūdhak mānuskim tanum asritam, param bhāvam ajānasto Mama bhuta-makiśvaram ". (IX. 11). 
 
 30: Indian festivities when costumes are worn as in a fancy-dress ball. 
 
-10 The Six Qualities are Jana, Sakti, Bala, Aišvarya, Virya and Tejas., (See Ramanujas Intro- duction to Bhagavad Gitä, my English Translation.) 
+10 The Six Qualities are Jana, Sakti, Bala, Aiśvarya, Virya and Tejas., (See Ramanujas Intro- duction to Bhagavad Gitä, my English Translation.) 
 
 94 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -3059,7 +3049,7 @@ Softness (Mārdava) etc., (all) of the nature of eternal, faultless and surpassi
 
 20 
 
-Texts, which declare that the Freed (Mukta- soul) has no body, signify the negation of Karma-determined body. The senses (in this body) being eternal, the law of Cause and Effect does not prevail. Hence like the material (series), it needs no distinct categorising. The school therefore which upholds a bodiless condit- ion there (i.e., in the state of Mukti, or Freedom Spiritual) is thus rejected. Likewise the faction, which contends that it (the Eternal Universe, Nitya-vibhuti) is a portion of Matter, is also dismissed as it is in contravention of the passage: Beyond Darkness-that it is dis- tinct from (Ākāša) is proved by its properties of Sound, Touch, Colour, Savour and Odour, being of immaterial nature. That it is inert is 
+Texts, which declare that the Freed (Mukta- soul) has no body, signify the negation of Karma-determined body. The senses (in this body) being eternal, the law of Cause and Effect does not prevail. Hence like the material (series), it needs no distinct categorising. The school therefore which upholds a bodiless condit- ion there (i.e., in the state of Mukti, or Freedom Spiritual) is thus rejected. Likewise the faction, which contends that it (the Eternal Universe, Nitya-vibhuti) is a portion of Matter, is also dismissed as it is in contravention of the passage: Beyond Darkness-that it is dis- tinct from (Ākāśa) is proved by its properties of Sound, Touch, Colour, Savour and Odour, being of immaterial nature. That it is inert is 
 
 10 That is: the body of bondage. From this there is escape, but the Freed or Saved soul can attire itself in any desired form of a celestial body. Karma is the sum of accumulated acts which fructify necessarily, like seeds sown necessarily sprout. 
 
@@ -3075,25 +3065,25 @@ disproved by its being of the self-luminous nature (jñānâ-"tmakatva).
 
 706 
 
-The Spiritual, Divine, Blessed Figure of God (Bhagavan) is the repertory of all the contents (signified) in the Chapter on Weapons and Ornaments. It is thuswise:-Kaustubha-Gem represents Purusha (Soul); Šri-vatsa, Matter; the Club (Gadā), Mahat; the Conch (Šankha), Sātvikâ-'haṁkāra; the Bow (Šāriga), Tāmasâ- hamkara; the Sword (Asi-Nandaka), Know- ledge; its Sheath, A-knowledge; the Discus (Cakra), mind; the Arrows, the Knowledge cum Action-Senses: the Garland (Vanamālā- Vaijayanti), the Subtle and Gross Elements. In this connection the following laconic verse is worthy of contemplation: 
+The Spiritual, Divine, Blessed Figure of God (Bhagavan) is the repertory of all the contents (signified) in the Chapter on Weapons and Ornaments. It is thuswise:-Kaustubha-Gem represents Purusha (Soul); Śri-vatsa, Matter; the Club (Gadā), Mahat; the Conch (Śankha), Sātvikâ-'haṁkāra; the Bow (Śāriga), Tāmasâ- hamkara; the Sword (Asi-Nandaka), Know- ledge; its Sheath, A-knowledge; the Discus (Cakra), mind; the Arrows, the Knowledge cum Action-Senses: the Garland (Vanamālā- Vaijayanti), the Subtle and Gross Elements. In this connection the following laconic verse is worthy of contemplation: 
 
-"Cetaš cakrati cetanâ-'sir amatis tat-sam- vṛtir, mālikā bhūtāni svaguṇair ahaṁkṛti- yugam šankhena särngayate, bāṇāḥ khāni dasă'pi kaustubha-manir jivaḥ pradhānam punaš šri-vatsam Kamalāpate tava gadām ähur mahāntam budhāḥ." "*7. 
+"Cetaś cakrati cetanâ-'sir amatis tat-sam- vṛtir, mālikā bhūtāni svaguṇair ahaṁkṛti- yugam śankhena särngayate, bāṇāḥ khāni dasă'pi kaustubha-manir jivaḥ pradhānam punaś śri-vatsam Kamalāpate tava gadām ähur mahāntam budhāḥ." "*7. 
 
 207 
 
-* Read Ch. 22, Amša 1., Vishnu Purāna. 
+* Read Ch. 22, Amśa 1., Vishnu Purāna. 
 
-** This needs no translation as its very paraphrase has just preceded it. Venkatacārya in his Vedanta- Karikávali, ascribes this verse to Vedanta-Dešika. 
+** This needs no translation as its very paraphrase has just preceded it. Venkatacārya in his Vedanta- Karikávali, ascribes this verse to Vedanta-Deśika. 
 
 96 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 200 
 
 [Advent 
 
-This Universe (Spiritual) is fourfold:—Amoda, Pramoda, Sammoda and Vaikuntha. Again it is infinite-fold. It is designated by several cognomens such as: Tripad-Vibhuti, Parama- pada, Parama-vyoma, Parama-"kāša, Amrta. Naka, Aprākṛta-Loka, Ananda-Loka, Vaikuntha, Ayodhya etc. 
+This Universe (Spiritual) is fourfold:—Amoda, Pramoda, Sammoda and Vaikuntha. Again it is infinite-fold. It is designated by several cognomens such as: Tripad-Vibhuti, Parama- pada, Parama-vyoma, Parama-"kāśa, Amrta. Naka, Aprākṛta-Loka, Ananda-Loka, Vaikuntha, Ayodhya etc. 
 
 In this Universe is situate the City of Vai- kuntha, with Seven Enclosures, and abounding in countless cupolas and ramparts. In it is the Divine Mansion named Ananda. In it is constructed a Hall called Mani-Mandapa, sup- ported by innumerable pillars made of precious stones. In 'it is (the Seat) Ananta of the Thousand Hoods, dazzling, carrying the Divine Throne of the composition: Dharma" etc. On it is the Eight-Petalled Lotus, served (on either side) by (maidens) Vimala etc, holding fans (the 
 
@@ -3127,7 +3117,7 @@ Vasudeva
 
 Vaikuntha=" 
 
-100 Dharma, Jħana, Vairagya and Aišvarya. The four legs of the Throne are said to be Adharma, A-jñāns, A-vairagya and An-aiŝvarya. 
+100 Dharma, Jħana, Vairagya and Aiśvarya. The four legs of the Throne are said to be Adharma, A-jñāns, A-vairagya and An-aiŝvarya. 
 
 VI.] 
 
@@ -3135,7 +3125,7 @@ SPIRITUAL UNIVERSE
 
 97 
 
-insignia of Royalty) in their hands. Seated on it (the Lotus) is Šesha, the Seat of Supreme Wisdom and Strength. 20 Over (Šesha) is the Great Being who is beyond speech. 
+insignia of Royalty) in their hands. Seated on it (the Lotus) is Śesha, the Seat of Supreme Wisdom and Strength. 20 Over (Śesha) is the Great Being who is beyond speech. 
 
 Thus (the subject of) Nitya-Vibhuti or the Spiritual Universe has been treated. 
 
@@ -3155,11 +3145,7 @@ The whole of the 12th Chapter in Bk. I of the Pāñcaratra: Padma-tantra, may wi
 
 13 
 
-ADVENT VII. 
-
-ATTRIBUTIVE CONSCIOUSNESS. 
-
-(Dharma-bhūta-jñāna). 
+##  ATTRIBUTIVE CONSCIOUSNESS. (Dharma-bhūta-jñāna). 
 
 212 
 
@@ -3225,7 +3211,7 @@ stream when the apprehension in the next moment is concerning the same object. H
 
 *18 Consult Vedanta-Sutras: II. 3. 31:-"Pumstvâ”- divattvasya &c."102 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -3255,7 +3241,7 @@ For, apart from its connection (or source) unseen, it is cognisable, 220
 
 Like Soul. 
 
-For Consciousness as stated, is conceivable as capable of simultaneously coming in contact with infinite space, like rays emerging from the eye, Sun etc. The terms synonymous with Cons- ciousness are Mati, Prajñā, Samvit, Dhishaṇā, Dhih, Manishā, Šemushi, Medhā, Buddhi, etc. It is Consciousness which, affected by environ- ment, assumes the forms of joy, grief, desire, hate, and will; for there are no means (or proof), justifying the assumption of a generating Cause of joy etc., other than Consciousness. Like 'I remember' indicative of Consciousness, 'I desire,' 'I hate' (etc), indicate but a state of Consciousness. But how is the passage, which avers: 'Desire, will, doubt, zeal, indifference, courage, timidity, shame, sense (or reason) fear and all such, is Manas (mind), to be 
+For Consciousness as stated, is conceivable as capable of simultaneously coming in contact with infinite space, like rays emerging from the eye, Sun etc. The terms synonymous with Cons- ciousness are Mati, Prajñā, Samvit, Dhishaṇā, Dhih, Manishā, Śemushi, Medhā, Buddhi, etc. It is Consciousness which, affected by environ- ment, assumes the forms of joy, grief, desire, hate, and will; for there are no means (or proof), justifying the assumption of a generating Cause of joy etc., other than Consciousness. Like 'I remember' indicative of Consciousness, 'I desire,' 'I hate' (etc), indicate but a state of Consciousness. But how is the passage, which avers: 'Desire, will, doubt, zeal, indifference, courage, timidity, shame, sense (or reason) fear and all such, is Manas (mind), to be 
 
 * 
 
@@ -3283,17 +3269,17 @@ ATTRIBUTIVE CONSCIOUSNESS
 
 Sorrow etc; and Wisdom, Folly, Love, Content- ment, Discontent, Greatness, Fatigue, Fame, Renunciation, Enjoyment, Friendship, Compas- sion, Aspiration of Release (mumukshā), Bash- fulness, Patience, Discrimination, Wish to Conquer, Softness, Forgival, Wish to do, Disgust, Imagination, Hypocrisy, Jealousy, Wish to kill, Cupidity, Vanity, Predilection, Prejudice, Dispute, (God-) Love (bhakti), Surrender (to God-prapatti), Lordship (or Power = Bhuti) etc. 
 
-Similarly the innumerable Blessed Attributes of God (Bhagavan) are the amplifications of His Consciousness and Power, such as:-Knowledge, Power, Strength, Glory, Might and Light, Free- dom, Love, Gentleness, Rectitude, Friendliness, Impartiality, Compassion, Sweetness, Dignity, Magnanimity, Tactfulness, Patience, Courage, Valour, Bravery etc. Knowledge (Jñana) is that (quality) which is of the nature of universal understanding. Power (Šakti) is the capability of causing existence from non-existence. Strength (Bala) is the capacity to endure. Glory (Aišvarya) is the capacity to rule. Might (Virya) is imperturbation. Light (Tejas) is the 
+Similarly the innumerable Blessed Attributes of God (Bhagavan) are the amplifications of His Consciousness and Power, such as:-Knowledge, Power, Strength, Glory, Might and Light, Free- dom, Love, Gentleness, Rectitude, Friendliness, Impartiality, Compassion, Sweetness, Dignity, Magnanimity, Tactfulness, Patience, Courage, Valour, Bravery etc. Knowledge (Jñana) is that (quality) which is of the nature of universal understanding. Power (Śakti) is the capability of causing existence from non-existence. Strength (Bala) is the capacity to endure. Glory (Aiśvarya) is the capacity to rule. Might (Virya) is imperturbation. Light (Tejas) is the 
 
 14 
 
 106 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-power to resist. Freedom (Sau-šilya) is the capacity to mix freely with high and low. Love (Vatsalya) is the quality of finding good in evil, or the overlooking of fault. Gentleness (Mårdava) is the not bearing to be separated from one's dears. Rectitude (Arjava) is to be straight in thought, word and deed. Friendli- ness (Sauharda) is readiness to help others to the neglect of one's self. Impartiality (Sāmya) is to be equally accessible to all irrespective of their race, character or conduct. Compassion (Karunya) is the wish to repair others' ills to one's own detriment, or the inability to see others' sufferings. Sweetness (Madhurya) is to be sweet while nourishing, like milk. Dignity (Gambhirya) is the power which forbids the inquiry for deep motives underlying such acts as conferring abundance etc., on the devotees. Magnanimity (Audarya) is the feeling of dissatisfaction even after bestowing plenty. Tactfulness (Caturya) is the power to hide another's faults. Patience (Sthairya) is to be unruffled. Courage (Dhairya) is the power of permitting no waver, after decision. 
+power to resist. Freedom (Sau-śilya) is the capacity to mix freely with high and low. Love (Vatsalya) is the quality of finding good in evil, or the overlooking of fault. Gentleness (Mårdava) is the not bearing to be separated from one's dears. Rectitude (Arjava) is to be straight in thought, word and deed. Friendli- ness (Sauharda) is readiness to help others to the neglect of one's self. Impartiality (Sāmya) is to be equally accessible to all irrespective of their race, character or conduct. Compassion (Karunya) is the wish to repair others' ills to one's own detriment, or the inability to see others' sufferings. Sweetness (Madhurya) is to be sweet while nourishing, like milk. Dignity (Gambhirya) is the power which forbids the inquiry for deep motives underlying such acts as conferring abundance etc., on the devotees. Magnanimity (Audarya) is the feeling of dissatisfaction even after bestowing plenty. Tactfulness (Caturya) is the power to hide another's faults. Patience (Sthairya) is to be unruffled. Courage (Dhairya) is the power of permitting no waver, after decision. 
 
 VII.] 
 
@@ -3301,7 +3287,7 @@ ATTRIBUTIVE CONSCIOUSNESS
 
 107 
 
-Valour (Šaurya) is the power to rush into the midst of the enemy; Bravery (Parakrama) is gaining victory over him. The others (attributes) may be similarly understood. 
+Valour (Śaurya) is the power to rush into the midst of the enemy; Bravery (Parakrama) is gaining victory over him. The others (attributes) may be similarly understood. 
 
 The nature of God-love (bhakti)" and God- surrender (Prapatti)***—states of Consciousness --will briefly be discussed (now). It is God alone who confers Moksha (Final Release from material existence), on the (bare) plea (furnished by souls) of Love and Surrender. Hence these (latter) are considered as the Means to Release. The character of Means assigned also to Kar- mayoga"s and Jñāna-yoga, 3 which in fact are inseparable from Love, is by reason of (such) predominant characteristics persons may severally (happen to) possess." 
 
@@ -3319,7 +3305,7 @@ Karma Reaching Salvation by means of good acts; Jñana, by means of meditation (
 
 108 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -3345,7 +3331,7 @@ The last three terms may perhaps be better translated by Abstraction, Devotion a
 
 IIO 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -3355,7 +3341,7 @@ Love or Bhakti, variously called Vedana, Dhyana and Upasana, has three successiv
 
 " Vide 'Taittiriya Aranyaka' 3:-"Deva-yajħaḥ Pity-yajo, Bhuta-yajħo, Manushya-yojħo, Brahma yasha, iti." LE. Sacrifices to the Gods, the Manes, Creatures, Men and God. 
 
-328 Read the verse: "Daršanam (1) para-bhaktis-syāt, Para-jñānantu (2) sangamam, punar vislesha-bhirutvam Parama-bhaktir (3) uccyate." (1) Seeing God, (2) Uniting with God, and (3) Fear of separation from Him 
+328 Read the verse: "Darśanam (1) para-bhaktis-syāt, Para-jñānantu (2) sangamam, punar vislesha-bhirutvam Parama-bhaktir (3) uccyate." (1) Seeing God, (2) Uniting with God, and (3) Fear of separation from Him 
 
 VII.] 
 
@@ -3363,23 +3349,23 @@ ATTRIBUTIVE CONSCIOUSNESS
 
 III 
 
-Sadhana-bhakti or Laboured Love, and Phala- bhakti or Ripened Love. Laboured Love is what is evoked by (human) exertion. Ripened Love is what is gifted by God's grace, such that is found in Parāňkuša, Natha" etc. The employment of the term 'love' for praise, pros- tration etc., alluded to in such verses as: 
+Sadhana-bhakti or Laboured Love, and Phala- bhakti or Ripened Love. Laboured Love is what is evoked by (human) exertion. Ripened Love is what is gifted by God's grace, such that is found in Parāňkuśa, Natha" etc. The employment of the term 'love' for praise, pros- tration etc., alluded to in such verses as: 
 
 is tropical. 
 
 Love of My votaries,' etc11., 
 
-But a query may arise why, when the Vedantas have prescribed Hearing (Šravaṇa) and Reflection (Manana) also, love (Bhakti or Nididhyāsana) alone is said to be enjoined. It is met thus: A person having learnt (the letter of) the Vedas with all its adjuncts, finds that the import of all this (learning) must have 'some definite motive; he necessarily resorts to Hearing (i.e. exposition by a Teacher) in order 
+But a query may arise why, when the Vedantas have prescribed Hearing (Śravaṇa) and Reflection (Manana) also, love (Bhakti or Nididhyāsana) alone is said to be enjoined. It is met thus: A person having learnt (the letter of) the Vedas with all its adjuncts, finds that the import of all this (learning) must have 'some definite motive; he necessarily resorts to Hearing (i.e. exposition by a Teacher) in order 
 
-*** Parāňkuša or St. Nammåzhvar typifies all the Saints or Azhvārs, and Nätha-muni, all the Sages or Acāryas. 
+*** Parāňkuśa or St. Nammåzhvar typifies all the Saints or Azhvārs, and Nätha-muni, all the Sages or Acāryas. 
 
 218 Mad-bkakta-jana-vātsalyam, pūjāyān câ”numo- danam......bhaktir ashta-vidhāhy esha' etc, [Vishnu- dharmottara; quoted in Course V. Prapanna-Pārijāta also].112 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-to ascertain for himself what it (the end) may be. Hence Hearing as a necessary step is premised. Reflection then (on what was taught) is also premised inasmuch as it is a (mental) process intended to render steady what has been heard.* Hence there is no inconsistency when it is averred that the purpose (of the Vedas) is to prescribe Love (Bhakti). Love which in other words is meditation (Dhyana), becomes mani- fold by the diversity of its Methods (Vidyā). These Methods (of Love or Meditation) are sub- sumable under two main heads: (1) those that have for their fruit (aim) Material Goods, or Spiritual End (Mukti). The Udgita-Vidya etc., belong to the Material Class. Those that belong to the Spiritual Class or the Brahma-Vidyā, are such as the Antar-akshi-Vidya, Antara-'ditya- Vidya, Dahara-Vidya, Bhuma-Vidya, Sad-Vidya, Madhu-Vidyā, Upakosala-Vidyā, Šāṇḍilya- Vidya, 
+to ascertain for himself what it (the end) may be. Hence Hearing as a necessary step is premised. Reflection then (on what was taught) is also premised inasmuch as it is a (mental) process intended to render steady what has been heard.* Hence there is no inconsistency when it is averred that the purpose (of the Vedas) is to prescribe Love (Bhakti). Love which in other words is meditation (Dhyana), becomes mani- fold by the diversity of its Methods (Vidyā). These Methods (of Love or Meditation) are sub- sumable under two main heads: (1) those that have for their fruit (aim) Material Goods, or Spiritual End (Mukti). The Udgita-Vidya etc., belong to the Material Class. Those that belong to the Spiritual Class or the Brahma-Vidyā, are such as the Antar-akshi-Vidya, Antara-'ditya- Vidya, Dahara-Vidya, Bhuma-Vidya, Sad-Vidya, Madhu-Vidyā, Upakosala-Vidyā, Śāṇḍilya- Vidya, 
 
 Purusha-Vidya, Pratardana-Vidyā, 
 
@@ -3391,15 +3377,15 @@ ATTRIBUTIVE CONSCIOUSNESS
 
 113 
 
-Vaišvānara-Vidya, Pañca-'gni-Vidya etc. "20 Nyasa-Vidya is Prapatti or Surrender (to God). It is the same as Šaraṇā-gati or Capitu- lation (to God) as the Refuge (or harbour), as defined in the Verse:- 
+Vaiśvānara-Vidya, Pañca-'gni-Vidya etc. "20 Nyasa-Vidya is Prapatti or Surrender (to God). It is the same as Śaraṇā-gati or Capitu- lation (to God) as the Refuge (or harbour), as defined in the Verse:- 
 
-"Prapatti or Šaranagati is imploring, with abounding love, God alone as the Way for consummation of aspirations otherwise unattain- 
+"Prapatti or Śaranagati is imploring, with abounding love, God alone as the Way for consummation of aspirations otherwise unattain- 
 
 able 
 
 1 231 
 
-This (Way,) which guarantees the Spiritual End (Moksha) at the end of the present body, pre- cludes the necessity of the state of being (vividly) conscious of God at the time of death,* requires but once to be done, is designated Nyāsa (lying or leaning on God), Šaranagati (He 
+This (Way,) which guarantees the Spiritual End (Moksha) at the end of the present body, pre- cludes the necessity of the state of being (vividly) conscious of God at the time of death,* requires but once to be done, is designated Nyāsa (lying or leaning on God), Śaranagati (He 
 
 2 Consult the Table of the Vidyās in my Bhaga- vad-Gita. Pp. 129-130. 
 
@@ -3407,13 +3393,13 @@ This (Way,) which guarantees the Spiritual End (Moksha) at the end of the presen
 
 231 Ananya-sadhye sväbbishte 
 
-Maha-višvāsa-pūrvakam. Tad-ek--opāyata yācñā, 
+Maha-viśvāsa-pūrvakam. Tad-ek--opāyata yācñā, 
 
-Prapattiš šarapagatiḥ [Ahirbudhnya-Samhita, 
+Prapattiś śarapagatiḥ [Ahirbudhnya-Samhita, 
 
 Pañcaratra]. 
 
-* Read: ' Ašaktam api ca smartum ante pūrva-kṛtamı smaran, svayam eva Param Dhāma svayam nayati Madhavaḥ [Bharadvaja-Samhita, IV, 80] 
+* Read: ' Aśaktam api ca smartum ante pūrva-kṛtamı smaran, svayam eva Param Dhāma svayam nayati Madhavaḥ [Bharadvaja-Samhita, IV, 80] 
 
 15 
 
@@ -3443,13 +3429,13 @@ for another (for Moksha).**
 
 Nor for those 
 
-can the question (of Deliverance) arise, who are addicted to the many-faced sapta-bhangi profession." Nor can there be partisans for the school of the Vaišeshikas who assert the Spiritual End (or Deliverance) to be petrifact- ion (Pāshāṇa-kalpa). Nor is the subject (Deliverance) of any value to the Sankhyas, who do not admit God (Išvara), and there arises a doubt as to whom is Deliverance, Soul (Purusha) or to Matter (Prakṛti)? Nor is that question invested with interest for those schoolmen, the illusionists, to whom the true 
+can the question (of Deliverance) arise, who are addicted to the many-faced sapta-bhangi profession." Nor can there be partisans for the school of the Vaiśeshikas who assert the Spiritual End (or Deliverance) to be petrifact- ion (Pāshāṇa-kalpa). Nor is the subject (Deliverance) of any value to the Sankhyas, who do not admit God (Iśvara), and there arises a doubt as to whom is Deliverance, Soul (Purusha) or to Matter (Prakṛti)? Nor is that question invested with interest for those schoolmen, the illusionists, to whom the true 
 
 *** That is, if each Consciousness (which itself is Soul), is momentarily anew, it is absurd to speak of moksha for which one prior consciousness prepares the way for another as both of them are independent and unconnected by continuity. 
 
 C 
 
-338 The Jainas who hold the System of the Seven Paralogisms: (1) 'may be, it is,' (2) 'may be, it is not,' (3) 'may be, it is and is not, (4) may be, is not predicable,' (5) 'may be, is and not predicable, (6) may be, is not and not predicable '. (7) 'may be, is and is not and not predicable." [Vide, Sarva-daršana- samgraha by Madhava]. 
+338 The Jainas who hold the System of the Seven Paralogisms: (1) 'may be, it is,' (2) 'may be, it is not,' (3) 'may be, it is and is not, (4) may be, is not predicable,' (5) 'may be, is and not predicable, (6) may be, is not and not predicable '. (7) 'may be, is and is not and not predicable." [Vide, Sarva-darśana- samgraha by Madhava]. 
 
 ***The Mayavadins or Advaitins of the Vedanta School. 
 
@@ -3457,7 +3443,7 @@ C
 
 YATINDRA-MATA-DIPIKA [Advent VII]. 
 
-monic knowledge cannot spring from the avowed illusory nature of the (Vedic) texts. The conten- tion of (the Schools of) Bhaskara and Yadava for a combined Way of Works cum Knowledge, is likewise inadmissible. The Šaiva system is dis- carded by reason of its averring Pašupati as the Goal, and the smearing of ashes etc,-contrary to the spirit of the Vedas,-as the Means.""7 
+monic knowledge cannot spring from the avowed illusory nature of the (Vedic) texts. The conten- tion of (the Schools of) Bhaskara and Yadava for a combined Way of Works cum Knowledge, is likewise inadmissible. The Śaiva system is dis- carded by reason of its averring Paśupati as the Goal, and the smearing of ashes etc,-contrary to the spirit of the Vedas,-as the Means.""7 
 
 Thus consciousness has been expounded. 
 
@@ -3469,11 +3455,9 @@ The Treatment of Attributive Consciousness (Dharma-bhūta-jñāna) in the
 
 * 
 
-*** See this System refuted by all the Three Acāryas, Šankarā, Rāmānuja and Madhva, in the Vedanta-Sätras: Patyur asamañjas syāt [IL 2. 35] and elsewhere. That Rāmānuja based his Commen- taries on Brahma-sūtras on Šrikantha's model, as is supposed by later Šaiva Schools is refuted by Ap- paya-Dikshita (a Šaiva himself) in his work, Šivarka- mani-dipika. Vallabha in his A-bhashya accuses Šaivacaryas of plagiarism from Ramanuja [Pp: 48 and 1403 passim). 
+*** See this System refuted by all the Three Acāryas, Śankarā, Rāmānuja and Madhva, in the Vedanta-Sätras: Patyur asamañjas syāt [IL 2. 35] and elsewhere. That Rāmānuja based his Commen- taries on Brahma-sūtras on Śrikantha's model, as is supposed by later Śaiva Schools is refuted by Ap- paya-Dikshita (a Śaiva himself) in his work, Śivarka- mani-dipika. Vallabha in his A-bhashya accuses Śaivacaryas of plagiarism from Ramanuja [Pp: 48 and 1403 passim). 
 
-ADVENT VIII. 
-
-THE SOUL (Jiva). 
+## THE SOUL (Jīva) 
 
 The (category) Soul or Jiva will now be ex- plained. The characteristics common to Soul and God are: Interiority (pratyaktva), Cognos- citiveness (cetanatva), Spiritness (ātmatva), and Agency (kartṛtva). 
 
@@ -3487,7 +3471,7 @@ YATİNDRA-MATA-DIPIKA
 
 [Advent 
 
-The Soul is distinct from body, senses, mind (manas), breath, and intellect. Distinct from body (Soul is) by reason of the experience: 'My body'; Distinct from the outer senses by reason of the experiences: 'I see with (my) eyes', 'I hear with (my) sense of hearing', 'I speak with my tongue' and so forth; Distinct from mind (manas) as this is known to be a sense; from breath as indicated by the expression: 'My breath', and from Intellect (buddhi) as borne out by the experience: 'I know'. It is atomic (or monadic) by reason of the Šruti (= Scriptures) stating that it (Soul) out-goes (from the body at time of leaving, and in-comes to the body at time of joining), confirmed by (our own) experience. No question need arise how, if Soul is atomic, it is capable of cognising simultaneously many ob- jects, for (its) attributive consciousness has the capacity for such diffusion. By this (law), the 
+The Soul is distinct from body, senses, mind (manas), breath, and intellect. Distinct from body (Soul is) by reason of the experience: 'My body'; Distinct from the outer senses by reason of the experiences: 'I see with (my) eyes', 'I hear with (my) sense of hearing', 'I speak with my tongue' and so forth; Distinct from mind (manas) as this is known to be a sense; from breath as indicated by the expression: 'My breath', and from Intellect (buddhi) as borne out by the experience: 'I know'. It is atomic (or monadic) by reason of the Śruti (= Scriptures) stating that it (Soul) out-goes (from the body at time of leaving, and in-comes to the body at time of joining), confirmed by (our own) experience. No question need arise how, if Soul is atomic, it is capable of cognising simultaneously many ob- jects, for (its) attributive consciousness has the capacity for such diffusion. By this (law), the 
 
 ***Atomic' has a material significance which is not meant, as the Soul, is spiritual. What is intend. ed to be conveyed is that Soul is a subtle spiri- tual centre of consciousness, a focus of the forces of consciousness which can ray out anywhere, like the central sun diffusing its rays anywhere. 'A spiritual 
 
@@ -3511,9 +3495,9 @@ YATINDRA-MATA-DIPIKA
 
 [Advent 
 
-It is by nature Blissful (or essentially Joyous); but, infected by environment (upadhi), falls into migration (samsāra). It is Agent (kartā), enjoyer (bhoktā), the Bodied (šariri) and body (Sarira). It is the bodied with reference to matter; with reference to God (Išvara), it is body. 
+It is by nature Blissful (or essentially Joyous); but, infected by environment (upadhi), falls into migration (samsāra). It is Agent (kartā), enjoyer (bhoktā), the Bodied (śariri) and body (Sarira). It is the bodied with reference to matter; with reference to God (Iśvara), it is body. 
 
-That it is Self-luminous (svayam-prakāša) is evident from Perception as well as Word (Scriptures). A syllogism may be constructed as follows:- 
+That it is Self-luminous (svayam-prakāśa) is evident from Perception as well as Word (Scriptures). A syllogism may be constructed as follows:- 
 
 "The Soul is Self-luminous.' 
 
@@ -3547,7 +3531,7 @@ YATINDRA-MATA-DIPIKA
 
 (In) thus (predicating) the reaping of fruit (by the Soul), is not beset with difficulties. 
 
-This Soul is threefold: Bound (Baddha), Freed (Mukta), and Free or Eternal (Nitya). Of these the Bound are those particular group of souls, from Brahma down to the worm, inha- biting the fourteen worlds comprising the 'Oval Sphere.' Brahma is sprung from the navel-lotus of Šriman-Nārāyaṇa; Rudra from Brahmā; from Brahma again are sprung the Yogis Sanaka etc., the Devarshis Narada etc., the Brahmarshis Vasishtha etc, the Nine Prajapatis, Pulastya, Marici, Daksha, Kasyapa etc. From these sprang the Devas, the Regents of the Quarters (Dik-palakas), the Fourteen Indras, the Fourteen Manus, the Asuras, Pitrs, Siddhas, Gandharvas, Kinnaras, Kimpurushas, Vidya- dharas etc., the Vasus, Rudras, Adityas, the Ašvinis, and the Danavas, Yakshas, Rakshasas Pišacas, Guhyakas etc. Thus there are many varieties of creatures of Deva-Origin. The human class also has many varieties such as Brāhmaṇas, Kshatriyas, Vaisyas, Sudras etc. So also is the animal species such as cattle, beasts, birds, reptiles, moths, worms etc. The 
+This Soul is threefold: Bound (Baddha), Freed (Mukta), and Free or Eternal (Nitya). Of these the Bound are those particular group of souls, from Brahma down to the worm, inha- biting the fourteen worlds comprising the 'Oval Sphere.' Brahma is sprung from the navel-lotus of Śriman-Nārāyaṇa; Rudra from Brahmā; from Brahma again are sprung the Yogis Sanaka etc., the Devarshis Narada etc., the Brahmarshis Vasishtha etc, the Nine Prajapatis, Pulastya, Marici, Daksha, Kasyapa etc. From these sprang the Devas, the Regents of the Quarters (Dik-palakas), the Fourteen Indras, the Fourteen Manus, the Asuras, Pitrs, Siddhas, Gandharvas, Kinnaras, Kimpurushas, Vidya- dharas etc., the Vasus, Rudras, Adityas, the Aśvinis, and the Danavas, Yakshas, Rakshasas Piśacas, Guhyakas etc. Thus there are many varieties of creatures of Deva-Origin. The human class also has many varieties such as Brāhmaṇas, Kshatriyas, Vaisyas, Sudras etc. So also is the animal species such as cattle, beasts, birds, reptiles, moths, worms etc. The 
 
 VIII.] 
 
@@ -3579,7 +3563,7 @@ YATINDRA-MATA-DIPIKA
 
 whirled in the (material) wheel, fashioned from (the elements of) Avidyū (nescience), Karma (acts), Vāsana (predispositions), Ruci (craving) and association with matter, meandering like a stream with neither beginning nor end, or like the never-ending process of 'seed and plant ';*** subject to the chequered conditions (or plights) (of life known as) gestation, birth, infancy, youth; waking, dream, sleep, trance, dotage, death; heaven (svarga), hell, etc.; suffering terribly in untold ways the three kinds of afflictions;"" and forfeiting the estate of God-bliss,-their rightful heritage. 
 
-These (souls again) are of two classes: (1) Subject to Šāstra, and (2) Non-subject to Šāstra. Among these, liability to Sastra pertain to those Bound (souls) who have the (moral) consciousness dependant on the several senses. Such is not the case with animals and stationary (creatures). The (souls) subject to Sastra are of two classes (again): coveters of material 
+These (souls again) are of two classes: (1) Subject to Śāstra, and (2) Non-subject to Śāstra. Among these, liability to Sastra pertain to those Bound (souls) who have the (moral) consciousness dependant on the several senses. Such is not the case with animals and stationary (creatures). The (souls) subject to Sastra are of two classes (again): coveters of material 
 
 243 Bija-vyksha-nyaya; i. e. the never-ending recur- rence of plant from seed, and seed from plant. 
 
@@ -3607,7 +3591,7 @@ and,
 
 126 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -3637,17 +3621,17 @@ travelling along the Way of Light etc. (arcir-ādi- märga).11a
 
 24 Some opine that as those who have travelled along the Path of Light can no more return, there is a Corner assigned in the Physical Universe itself, where they are absorbed in their own Soul-bliss (ātmā-'nubhava). 
 
-The Aspirers for Divinity or God-bliss are of two kinds: (1) The God-lovers (bhaktas), and (2) the God-leaners (prapannas). The God-lovers are those who have learnt the Vedas with all its limbs and the Upanishads (širaska), become versed in the metaphysics of the Vedas, early and later parts thereof, thereby acquiring the Knowledge of God (Brahman), as Him who is distinct from (the Categories) of Conscients (cit) and Non-conscients (acit),-as Him whose essen- tial nature is bliss, exalted and measureless,—as Him who is hostile to all evil and full of all Holy Graces; and then resort to the Path of Love (bhakti) leading to Him, thereby aspiring to reach salvation (moksha). 
+The Aspirers for Divinity or God-bliss are of two kinds: (1) The God-lovers (bhaktas), and (2) the God-leaners (prapannas). The God-lovers are those who have learnt the Vedas with all its limbs and the Upanishads (śiraska), become versed in the metaphysics of the Vedas, early and later parts thereof, thereby acquiring the Knowledge of God (Brahman), as Him who is distinct from (the Categories) of Conscients (cit) and Non-conscients (acit),-as Him whose essen- tial nature is bliss, exalted and measureless,—as Him who is hostile to all evil and full of all Holy Graces; and then resort to the Path of Love (bhakti) leading to Him, thereby aspiring to reach salvation (moksha). 
 
 *** Read Bhagavad-Gitā: VIII. 24 ff and analogous Upanishadic passages, 
 
 128 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-The fitness for (the Path of) Love abide in the Vārnic Triad, as also in the Devas (deities or superhuman creatures); for in these the atti- tude of supplication (arthitva), and ability to perform (bhakti) (sāmarthya), subsist.%. The Šūdras are not entitled thereto, for reasons argued out in the Apa-sudra Section.260 
+The fitness for (the Path of) Love abide in the Vārnic Triad, as also in the Devas (deities or superhuman creatures); for in these the atti- tude of supplication (arthitva), and ability to perform (bhakti) (sāmarthya), subsist.%. The Śūdras are not entitled thereto, for reasons argued out in the Apa-sudra Section.260 
 
 The Character of (God-) Love has been delineated in the Section on Consciousness (VII). The (God-)Lovers are of two kinds: (1) those who practise love with a Motive (sādhana), and (2) those who practise the same as an End in itself (sadhya). Vyasa etc, belong to the former class; Nätha (muni) etc, to the 
 
@@ -3657,11 +3641,11 @@ The Surrendered (prapanna, or God-Leaner) is he who is distinguished by the qual
 
 200 
 
-*** I. c., the Three Empowered or Eligible Classes or Castes (Varna), viz. Brahmana, Kshatriya and Vaišya. 
+*** I. c., the Three Empowered or Eligible Classes or Castes (Varna), viz. Brahmana, Kshatriya and Vaiśya. 
 
 249% See Vedanta-Sütras: [I. 3. 25]: Tad upary api Bādarayanas sambhavat.' Also Cp. with Rk-Samhita, X. 167-1; 'Indra!......tapaḥ paritapy ājayasva'. 
 
-380 Vedānta-Sūtras: [1. 3. 33]; Šug asya tad-arádara- 'š ravaṇāt' etc. 
+380 Vedānta-Sūtras: [1. 3. 33]; Śug asya tad-arádara- 'ś ravaṇāt' etc. 
 
 VIII.] 
 
@@ -3687,15 +3671,15 @@ text:-
 
 203 
 
-Acāryo Veda-samþannaḥ Vishņu-bhakto vimatsarah mantrajño mantra-bhaktaš ca sadā mantrāšrayaš suciḥ. [Dvay-opanishat]. 
+Acāryo Veda-samþannaḥ Vishņu-bhakto vimatsarah mantrajño mantra-bhaktaś ca sadā mantrāśrayaś suciḥ. [Dvay-opanishat]. 
 
 17 
 
 130 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
-[Advent and through him seeks Šri the (Saviour), in Whom vests the function of mediation (purusha- kāra)* and (finally), realising his lack of power to pursue the Paths of Love etc., and therefore realising his position as one who is bereft of all Ways and Means (akin- cano-(a)nanya-gatih) † accepts as his sole Means of salvation, the Holy Feet of the Blessed Lord (Sriman-Nārāyaṇa). Such is the God-leaner (prapanna). 
+[Advent and through him seeks Śri the (Saviour), in Whom vests the function of mediation (purusha- kāra)* and (finally), realising his lack of power to pursue the Paths of Love etc., and therefore realising his position as one who is bereft of all Ways and Means (akin- cano-(a)nanya-gatih) † accepts as his sole Means of salvation, the Holy Feet of the Blessed Lord (Sriman-Nārāyaṇa). Such is the God-leaner (prapanna). 
 
 Surrender (prapatti) is the High Path to all. The surrendered (God-leaner) is of two sorts: the One-pointed (Ekānti) and the One- only-pointed (Param-aikānts). The One-Point- ed is the person who addresses himself to God alone for the grant of other (i.e. worldly) boons as well as salvation (moksha); and is therefore one to whom other deities (or demi- gods) are of no account. The One-only- pointed is the person who does not crave for any boons even from God Himself except 
 
@@ -3721,7 +3705,7 @@ The Freed (mukta or the Absolved) is he who has accepted the Path, and performs 
 
 265 4 
 
-16 Avasyam anubhokṭavyam kṛtam karma šubhâ- 'Subham, na 'bhuktam kshiyate karma kalpa-koti šatair api'. [Mahā-Bhārata ?].132 
+16 Avasyam anubhokṭavyam kṛtam karma śubhâ- 'Subham, na 'bhuktam kshiyate karma kalpa-koti śatair api'. [Mahā-Bhārata ?].132 
 
 YATINDRA-MATA-DIPIKA 
 
@@ -3757,11 +3741,11 @@ THE SOUL
 
 134 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-etc. It then salutes (the Eternals or Archangels) Ananta, Garuda, Vishvaksena etc, resident there and is equally treated so in return. It then pro- ceeds to the Superb-gemmed Pavilion, and rend- ers obeisance, at the (blessed) Seat, to Its Spiritual Teachers (who are there). Now It (Soul) approa- ches nearer the (Divine) Seat, where It finds the throne thereon, Dharma (etc).,-made, the Lotus over it, and Ananta over again. On the sides stand Vimalā etc, with fans (waving) in their hands, serving God (Bhagavān); Who is installed there with His (Queens) Šri, Bhū and Nila;-Who is be- decked with the Divine Weapons: Conch, Discus etc.;-Who is blazing with the countless Divine Ornaments, the Crown, the Diadem; and, for the head, ears, neck, breast, arms, wrists, waist and ankles, such (jewels) as Cūdāvatamsa, Makara- kundala, Graiveyaka-hāra, Keyūra, Kaṭaka, Šri- vatsa, Kaustubha, Muktā-damodara-bandhana, Pitambara, Kāñciguṇa, Nupura etc ;-and Who 
+etc. It then salutes (the Eternals or Archangels) Ananta, Garuda, Vishvaksena etc, resident there and is equally treated so in return. It then pro- ceeds to the Superb-gemmed Pavilion, and rend- ers obeisance, at the (blessed) Seat, to Its Spiritual Teachers (who are there). Now It (Soul) approa- ches nearer the (Divine) Seat, where It finds the throne thereon, Dharma (etc).,-made, the Lotus over it, and Ananta over again. On the sides stand Vimalā etc, with fans (waving) in their hands, serving God (Bhagavān); Who is installed there with His (Queens) Śri, Bhū and Nila;-Who is be- decked with the Divine Weapons: Conch, Discus etc.;-Who is blazing with the countless Divine Ornaments, the Crown, the Diadem; and, for the head, ears, neck, breast, arms, wrists, waist and ankles, such (jewels) as Cūdāvatamsa, Makara- kundala, Graiveyaka-hāra, Keyūra, Kaṭaka, Śri- vatsa, Kaustubha, Muktā-damodara-bandhana, Pitambara, Kāñciguṇa, Nupura etc ;-and Who 
 
 here given of the Heavenly Sphere and the Heavenly Journey: also Mundak-opanishat. 
 
@@ -3797,7 +3781,7 @@ The Eternals (Nityas or the Ever-Free), are those whose function is never at var
 
 In the manner aforesaid, the (Category of) Soul, comprised of the varieties of bound 
 
-261 See Ibid IV. 4. 17: 'Jagad-vyāpāra-varjam etc. 24" See Ibid: [V. 4. 22]: Anãoṛttis šabdāt etc. 
+261 See Ibid IV. 4. 17: 'Jagad-vyāpāra-varjam etc. 24" See Ibid: [V. 4. 22]: Anãoṛttis śabdāt etc. 
 
 262 
 
@@ -3823,13 +3807,11 @@ The Treatment of the Soul (Jiva) in the
 
 18 
 
-ADVENT IX. 
+## GOD (Iśvara) 
 
-GOD (Išvara). 
+Now (the category of) God (Iśvara) will be inquired into. The characteristics of God are All-Lordship, All-Mastership, All-worshipfulness by work, All-fruit-givership, All-Support, All- energising, All-Word-indicated, All-knowledge- goal, All-bodiedness excepting His own body and consciousness.❤ 
 
-Now (the category of) God (Išvara) will be inquired into. The characteristics of God are All-Lordship, All-Mastership, All-worshipfulness by work, All-fruit-givership, All-Support, All- energising, All-Word-indicated, All-knowledge- goal, All-bodiedness excepting His own body and consciousness.❤ 
-
-God thus indicated is the Material (or Formal) Cause of the Universe by virtue of His aspect as the constituted of the Conscients and Non-cons- cients (cid-acid-višishtaḥ); is the Efficient (or Spiritual) Cause by virtue of His aspect as the Willer; and is the Instrumental Cause by virtue of His immanence in Time etc. The Material Cause is that which results as Effect by under- going modification. The Efficient Cause is that 
+God thus indicated is the Material (or Formal) Cause of the Universe by virtue of His aspect as the constituted of the Conscients and Non-cons- cients (cid-acid-viśishtaḥ); is the Efficient (or Spiritual) Cause by virtue of His aspect as the Willer; and is the Instrumental Cause by virtue of His immanence in Time etc. The Material Cause is that which results as Effect by under- going modification. The Efficient Cause is that 
 
 The epigrammatic style here employed, is, it is hoped, sufficiently lucid. It at any rate obviates the nesessity for otherwise long-phrasing, detracting from the poetry attaching to terseness. 
 
@@ -3851,13 +3833,13 @@ YATINDRA-MATA-DIPIKA
 
 [Advent 
 
-it is devoid of thinking etc. In the Chhandogya (-Upanishat) however, that which is indicated by the terms: Sat, Ākāša (Ether), Prāṇa, is seen to be (stated as) the Cause of the Universe. In the Vājasaneyaka (Up°), the term Brahman is discovered (to be so). By the canon known as the resultant import of all the branches (of the Veda)","" all the texts which relate to Cause (of the Universe) must be interpreted to signify one Specific Object. Hence terms of general import such as Sat (Being) etc., must ultimately connote the specific Brahman, according to the (ana- logical) rule of 'goat-animal. In the manner 
+it is devoid of thinking etc. In the Chhandogya (-Upanishat) however, that which is indicated by the terms: Sat, Ākāśa (Ether), Prāṇa, is seen to be (stated as) the Cause of the Universe. In the Vājasaneyaka (Up°), the term Brahman is discovered (to be so). By the canon known as the resultant import of all the branches (of the Veda)","" all the texts which relate to Cause (of the Universe) must be interpreted to signify one Specific Object. Hence terms of general import such as Sat (Being) etc., must ultimately connote the specific Brahman, according to the (ana- logical) rule of 'goat-animal. In the manner 
 
-*** Read [Vedanta-Sutras I. 1. 5]: Ïkshater nå 'šab- dam. Thinking or mind. 
+*** Read [Vedanta-Sutras I. 1. 5]: Ïkshater nå 'śab- dam. Thinking or mind. 
 
 268 Known as the sarva-sakka-pratyaya-nyaya. 
 
-260 Known as the Chaga-pašu-nyaya, which means that when an animal is mentioned as eligible for sacrifice, the question necessarily arises as to what animal is particularly meant. 'Goat' is the answer, which is decisive. Hence general terms such as sat etc., find their ultimate decisive significance in a definite (specific) term, which is found to be Nārā- yana, by an examination of the various generic terms bearing on the subject and which are scattered in various parts of the Veda. 
+260 Known as the Chaga-paśu-nyaya, which means that when an animal is mentioned as eligible for sacrifice, the question necessarily arises as to what animal is particularly meant. 'Goat' is the answer, which is decisive. Hence general terms such as sat etc., find their ultimate decisive significance in a definite (specific) term, which is found to be Nārā- yana, by an examination of the various generic terms bearing on the subject and which are scattered in various parts of the Veda. 
 
 GOD 
 
@@ -3867,17 +3849,17 @@ IX.]
 
 aforesaid, the term Brahman is next circumscrib- able into the (more specific) term Atman found in the Aitareya (-Upanishat). What then is in- dicated by this term Ãtman,—the Vedic celebrity Indra? Or Agni, of similar report? Or Surya, known as the adorable? Or Soma, said to be the Cause? Or Kubera, known to be the bestower of whatever is desired? Or Yama? Or Varuņa? When such doubt arises, they (deities or demi- gods) may be disposed of as incapable of being the Cause of the Universe, by reason of their being known, to be subject to karma and pos- sessed of limited affluence. 
 
-But in the Švetasvatara (-Upanishat), it is apparent that Šiva is (stated to be) the Cause (of the Universe). Similarly in the Atharva- Šikhā (-Upanishat), the entity designated Šam- bhu is mentioned as the object of adoration and as Cause. Likewise in the Atharva-Širas (-Upanishat), the entity designated as Rudra is stated to be the Soul of all (things). And in the Taittiriya, Hiranya-garbha is men- tioned as the Cause of the Universe. In all these cases, applying the canon (of interpretation)142 
+But in the Śvetasvatara (-Upanishat), it is apparent that Śiva is (stated to be) the Cause (of the Universe). Similarly in the Atharva- Śikhā (-Upanishat), the entity designated Śam- bhu is mentioned as the object of adoration and as Cause. Likewise in the Atharva-Śiras (-Upanishat), the entity designated as Rudra is stated to be the Soul of all (things). And in the Taittiriya, Hiranya-garbha is men- tioned as the Cause of the Universe. In all these cases, applying the canon (of interpretation)142 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 4 
 
 [Advent 
 
-known as the Generic-Specific (sāmānya- višesha-nyāya), the fact of the general terms Šiva, Šambhu and Rudra finding their speci- fic significance in Hiranyagarbha will be clear. Again if the radical (or etymological) sense of the term Šiva be considered, it means well or good (or auspicious) as may be seen from the usages: Let it be well with all the Universe', 'Let the deed be good', 'Let thy path be good' etc. Similarly Rudra signifies Agni-(fire). Hence, judged by the etymological force of such common terms as Mahešvara, Šambhu etc., they find their particular significance in the Fourfaced (entity, Hiranyagarbha). 
+known as the Generic-Specific (sāmānya- viśesha-nyāya), the fact of the general terms Śiva, Śambhu and Rudra finding their speci- fic significance in Hiranyagarbha will be clear. Again if the radical (or etymological) sense of the term Śiva be considered, it means well or good (or auspicious) as may be seen from the usages: Let it be well with all the Universe', 'Let the deed be good', 'Let thy path be good' etc. Similarly Rudra signifies Agni-(fire). Hence, judged by the etymological force of such common terms as Maheśvara, Śambhu etc., they find their particular significance in the Fourfaced (entity, Hiranyagarbha). 
 
-But a protest may be entered why the terms Šiva etc., referred to as the Cause (of the Kosmos) should not through their primary signi- ficance, (be construed to) indicate Rudra? This cannot be done, inasmuch as the origination of Rudra (Šiva) is narrated (in the Scriptures) as happening from the Four-faced (Demiurge), and Rudra is not free from (the taints of) sin; and therefore cannot constitute the Cause, (of the Universe). Hence terms such as Šiva etc., receive 
+But a protest may be entered why the terms Śiva etc., referred to as the Cause (of the Kosmos) should not through their primary signi- ficance, (be construed to) indicate Rudra? This cannot be done, inasmuch as the origination of Rudra (Śiva) is narrated (in the Scriptures) as happening from the Four-faced (Demiurge), and Rudra is not free from (the taints of) sin; and therefore cannot constitute the Cause, (of the Universe). Hence terms such as Śiva etc., receive 
 
 IX.] 
 
@@ -3895,11 +3877,11 @@ No doubt need arise that the Science (of God) called the Antar-aditya-vidya may 
 
 144 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-the term Ākāša implying Nārāyaṇa, has Rudra for its In-dwelling (antaryāmi), for the In-dwell- ing there referred to are the auspicious graces or perfections inhering in Nārāyaṇa. In this same way the interpretations of all the Sciences (Vidyas) may be conceived. 200 
+the term Ākāśa implying Nārāyaṇa, has Rudra for its In-dwelling (antaryāmi), for the In-dwell- ing there referred to are the auspicious graces or perfections inhering in Nārāyaṇa. In this same way the interpretations of all the Sciences (Vidyas) may be conceived. 200 
 
 The inference thus is that He who is possessed of all Holy Graces, Perfections, Glories, Who is distinct from matter (prakṛti) and soul (purusha), Who is constituted of these, the Supreme Brah- man, viz., Nārāyaṇa, is the Cause of the Kosmos. 
 
@@ -3925,17 +3907,17 @@ listic and monistic texts is reconcilable by means of the reconciling (or arbitr
 
 146 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
 as the banisher (of that material life). As therefore the contention of monism cannot be sustained, no undifferentiated Brahman, as but mere consciousness is established; ergo, Brahman is full of exquisite Graces, and is Nārāyaṇa, Who is the Source of the Kosmos, and Bestower of eternal bliss (moksha) etc. 
 
-Brahman, as constituted of the Subtle, Cons- cient (cit) and the Non-conscient (acit) alone is the Cause of the Kosmos; and as constituted of the Gross Conscient and Non-conscient, alone is the Effect. Thus the creed of the Višishta- dvaita Vedāntins is that no Cause is different from its Effect."70 
+Brahman, as constituted of the Subtle, Cons- cient (cit) and the Non-conscient (acit) alone is the Cause of the Kosmos; and as constituted of the Gross Conscient and Non-conscient, alone is the Effect. Thus the creed of the Viśishta- dvaita Vedāntins is that no Cause is different from its Effect."70 
 
-As God (Įšvara) is admitted, the views of the 170 This is the law of Correlation. Every Effect has its own antecedent Cause to which it is correlat- 
+As God (Įśvara) is admitted, the views of the 170 This is the law of Correlation. Every Effect has its own antecedent Cause to which it is correlat- 
 
-ed as gross to subtle. This is also the great doctrine of Evolution (pariņāma-vada) which Rāmā- nuja formulates and emphasizes. What is the evolute but its evolvent itself manifested in a different mode. No teak tree can be a product of a banyan seed. The Vedantic evolution is triform, i.e. of the whole Complex Entity: the Višishta- Brahman, i.e. God-Soul-Matter, vide Pp: 49ff of my Vade Mecum of Vedanta. 
+ed as gross to subtle. This is also the great doctrine of Evolution (pariņāma-vada) which Rāmā- nuja formulates and emphasizes. What is the evolute but its evolvent itself manifested in a different mode. No teak tree can be a product of a banyan seed. The Vedantic evolution is triform, i.e. of the whole Complex Entity: the Viśishta- Brahman, i.e. God-Soul-Matter, vide Pp: 49ff of my Vade Mecum of Vedanta. 
 
 IX.] 
 
@@ -3943,23 +3925,23 @@ GOD
 
 147 
 
-Schools of God-less Sankhya, the Mimāṁsakas etc., are exploded. As Material Causality is pre- dicated (by us) of this same (God), the views of the Schools of Yoga, Pašupata and Naiyāyika are confuted, for their admission of God is con- fined to His Efficient Causation only. 
+Schools of God-less Sankhya, the Mimāṁsakas etc., are exploded. As Material Causality is pre- dicated (by us) of this same (God), the views of the Schools of Yoga, Paśupata and Naiyāyika are confuted, for their admission of God is con- fined to His Efficient Causation only. 
 
 In the same manner as Material as well as Efficient causation is ascribable to God, are ascribable to Him the faculties of action, stimu- lation, governance, illuminance, permission, suc- cour, neutrality and so forth. 
 
-In the same manner as the imperfections (known as) childhood, youth etc., pertain to the body (Sarira), not the body-holder (Sariri), the soul, so is it in the case of the All-Soul (Para- mātman), the bodied of Soul (cit) and Non- soul (acit). There is thus no conflict with the Šruti (Scriptures) which proclaims the un- modifiable (character of God). As a rule, what is cognised as 'body' in the world is what possesses the properties of being 'sus- tained' (adheyatva), 'controlled' (vidheyatva), and subordinated' (šeshatva) (by Soul); the Kosmos is the 'body' of God; but, the 
+In the same manner as the imperfections (known as) childhood, youth etc., pertain to the body (Sarira), not the body-holder (Sariri), the soul, so is it in the case of the All-Soul (Para- mātman), the bodied of Soul (cit) and Non- soul (acit). There is thus no conflict with the Śruti (Scriptures) which proclaims the un- modifiable (character of God). As a rule, what is cognised as 'body' in the world is what possesses the properties of being 'sus- tained' (adheyatva), 'controlled' (vidheyatva), and subordinated' (śeshatva) (by Soul); the Kosmos is the 'body' of God; but, the 
 
 148 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
 imperfections pertaining to the body do not effect Him. 
 
-This God (Išvara) is infinitive (vibhu). To be infinite is to be pervading. This (pervasion) is threefold: (1) By essence, (2) By attributive consciousness, (3) By representation (vigraha). He is called boundless (Ananta). Boundless means the negation of the three kinds of limi- tations. The three kinds of limitations are those (1) by space, (2) by time and (3) by thing. 
+This God (Iśvara) is infinitive (vibhu). To be infinite is to be pervading. This (pervasion) is threefold: (1) By essence, (2) By attributive consciousness, (3) By representation (vigraha). He is called boundless (Ananta). Boundless means the negation of the three kinds of limi- tations. The three kinds of limitations are those (1) by space, (2) by time and (3) by thing. 
 
-The qualities of Truth (satyatva), Holiness (amalatva), Illimitability (anantatva), betoken the essential nature of God; the qualities of Omniscience (jñāna), Omnipotence (šakti) etc., describe Him, on such (essential) characteris- ation. The qualities of Omniscience, Omni- potence etc., are requisite for purposes of Crea- tion. The qualities of Love, Meekness, Acces- sibility etc., are requisite for suasion (to souls) to take shelter. The qualities of Mercy etc., are useful for purposes of protection. The import of these qualities has been discussed in the Sec tion on Consciousness, and no expatiation here is therefore called for. 
+The qualities of Truth (satyatva), Holiness (amalatva), Illimitability (anantatva), betoken the essential nature of God; the qualities of Omniscience (jñāna), Omnipotence (śakti) etc., describe Him, on such (essential) characteris- ation. The qualities of Omniscience, Omni- potence etc., are requisite for purposes of Crea- tion. The qualities of Love, Meekness, Acces- sibility etc., are requisite for suasion (to souls) to take shelter. The qualities of Mercy etc., are useful for purposes of protection. The import of these qualities has been discussed in the Sec tion on Consciousness, and no expatiation here is therefore called for. 
 
 IX.] 
 
@@ -3969,7 +3951,7 @@ GOD
 
 This God first created the (Mundane) Egg; and then by His immanency in the Four-faced (Catur- mukha), Daksha, Time etc., continues creation. He becomes the Protector by incarnating as Vishņu, abiding in Manu, Time etc., and direct- ly Himself. He is Destroyer by His indwelling in Rudra, Time, the destroyer (Yama) etc. Hence He is the Creator, Protector and Destroyer. 
 
-God as thus depicted assumes five aspects: (1) Para or the Transcendent, (2) Vyuha or the Grouped, (3) Vibhava or the Incarnated, (4) Antaryāmi or the Immanent, and (5) Archā or the Imaged. The Para is Nārāyaṇa, variously called by the names Parabrahma etc., Vasudeva etc., Who, four-armed, and beaming with His beatific presence, is exalted on the throne poised on its eight supports Dharma etc., with Šesha over the seat, erected in the gemmed pavilion in the Divine Hall, guarded by the sentries: Canda, Pracanda, Bhadra, Subhadra, Jaya, Vijaya, Dhatri, Vidhātri etc., in the Vaikuntha-named- City of the Thrice-Magnificent Land,” protected 
+God as thus depicted assumes five aspects: (1) Para or the Transcendent, (2) Vyuha or the Grouped, (3) Vibhava or the Incarnated, (4) Antaryāmi or the Immanent, and (5) Archā or the Imaged. The Para is Nārāyaṇa, variously called by the names Parabrahma etc., Vasudeva etc., Who, four-armed, and beaming with His beatific presence, is exalted on the throne poised on its eight supports Dharma etc., with Śesha over the seat, erected in the gemmed pavilion in the Divine Hall, guarded by the sentries: Canda, Pracanda, Bhadra, Subhadra, Jaya, Vijaya, Dhatri, Vidhātri etc., in the Vaikuntha-named- City of the Thrice-Magnificent Land,” protected 
 
 71 Read: "Tripadasya "mritam divi." [Purusha- sūkta]. 
 
@@ -3979,7 +3961,7 @@ YATINDRA-MATA-DIPIKĀ
 
 [Advent 
 
-by such city-keepers as Kumuda, Kamudāksha, Puṇḍarika, Vāmana, Šankukarņa, Sarpanetra, Sumukha, Supratishtha etc., all divinely adorn- ed and armed, with all the paraphernalia of servitors etc ;-Who is supported by Šri, Bhū, Nila etc., armed with the divine weapons Conch, Discus etc, decked with the divine ornaments Crown etc.,-Who is enjoyed by the 'Eternals': Ananta, Garuda, Vishvaksena etc., ever chanting forth the Hymns of Sama, and by other redeemed Souls (mukta)—and Who is the Home of all the countless Holy Graces: Wisdom, Power etc." Vyuha (the Gregated or Grouped) is the fourfold aspect (of God) viz., Vasudeva, Sankarshana, Pradyumna, and Ani- ruddha, designed for purposes of worship, creation of the worlds etc. Of these, Väsu- deva has the full complement of the Six Quali- ties; Sankarshana has Wisdom and Strength; Pradyumna has Wealth and Power; and Anirud- dha Energy and Lustre; Thus are the (Six) 
+by such city-keepers as Kumuda, Kamudāksha, Puṇḍarika, Vāmana, Śankukarņa, Sarpanetra, Sumukha, Supratishtha etc., all divinely adorn- ed and armed, with all the paraphernalia of servitors etc ;-Who is supported by Śri, Bhū, Nila etc., armed with the divine weapons Conch, Discus etc, decked with the divine ornaments Crown etc.,-Who is enjoyed by the 'Eternals': Ananta, Garuda, Vishvaksena etc., ever chanting forth the Hymns of Sama, and by other redeemed Souls (mukta)—and Who is the Home of all the countless Holy Graces: Wisdom, Power etc." Vyuha (the Gregated or Grouped) is the fourfold aspect (of God) viz., Vasudeva, Sankarshana, Pradyumna, and Ani- ruddha, designed for purposes of worship, creation of the worlds etc. Of these, Väsu- deva has the full complement of the Six Quali- ties; Sankarshana has Wisdom and Strength; Pradyumna has Wealth and Power; and Anirud- dha Energy and Lustre; Thus are the (Six) 
 
 272 See note 263. For all the descriptions here given the reader is referred to the oceanic literature known as the Pancaratras, (see JRAS for October 1911). 
 
@@ -3989,15 +3971,15 @@ GOD
 
 151 
 
-Qualities distributed. Each one of these four (as- pects) hypostatize (avatarati) into three. They (thus) number twelve: Kešava etc; and they are the Presiding Deities of the twelve Suns of the twelve months. Their locations by vertical markings (on the body of the devotee) are fixed. Amongst them (twelve), Kešava is gold-colour- ed and wears four Discuses; Nārāyaṇa, dark- coloured, wears four Conches; Madhava, gem- coloured, wears four Clubs; Govinda, moon- coloured, wears four Bows; Vishnu, lotus- blossom-coloured, wears four Ploughs;Madhusū- dana, lotus-coloured, wears four Maces; Trivi- krama, fire-coloured, wears four Swords;Vamana, young-Sun-coloured, wears four Vajras; Šri- dhara, lotus-coloured, wears four Shields; Hṛshikeša, lightning-coloured, wears four Maces; Padmanabha, sun-coloured, wears the Five Weapons; Damodara, indragopa-coloured bears four Cords. 
+Qualities distributed. Each one of these four (as- pects) hypostatize (avatarati) into three. They (thus) number twelve: Keśava etc; and they are the Presiding Deities of the twelve Suns of the twelve months. Their locations by vertical markings (on the body of the devotee) are fixed. Amongst them (twelve), Keśava is gold-colour- ed and wears four Discuses; Nārāyaṇa, dark- coloured, wears four Conches; Madhava, gem- coloured, wears four Clubs; Govinda, moon- coloured, wears four Bows; Vishnu, lotus- blossom-coloured, wears four Ploughs;Madhusū- dana, lotus-coloured, wears four Maces; Trivi- krama, fire-coloured, wears four Swords;Vamana, young-Sun-coloured, wears four Vajras; Śri- dhara, lotus-coloured, wears four Shields; Hṛshikeśa, lightning-coloured, wears four Maces; Padmanabha, sun-coloured, wears the Five Weapons; Damodara, indragopa-coloured bears four Cords. 
 
 Vibhava or Incarnate Manifestation (or objectification) is the assumption (by God) of Forms resembling those of the Order (of Crea- tion, in which He wills to appear). Ten of them152 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-are reckoned as by far the most renowned. They are the unique incarnations: the Matsya, the Kurma etc. Of these the Matsya Incarna- tion was undertaken in order to overcome the Daityas who stole the Vedas, and restore them (viz., the Authority) to Brahma. The Kurma Incarnation was undertaken in order to extract ambrosia (amṛta), (from the Milk Sea), calculated to bestow (lasting) health and immortality on beings. The Varaha Incarnation was undertaken in order to raise His Consort (Earth from the ocean) that He may (thus) exemplify his power to) lift creatures drowned in the Ocean of worldliness (samsāra). The Narasimha Incar- nation was undertaken with a view to protect his protege (Prahlada) and kill the Asura (Hiranya-kašipu),-by springing out of a pillar. The Vamana Incarnation was undertaken in order to cleanse the worlds by means of water issuing from his lotus-feet (i.e. Gangā), by the transfigured (from Vamana) Trivikrama. The Parašurāma Incarnation was taken for the purpose of exterminating the wicked Kshatriyas. The Rama Incarnation was undertaken in order 
+are reckoned as by far the most renowned. They are the unique incarnations: the Matsya, the Kurma etc. Of these the Matsya Incarna- tion was undertaken in order to overcome the Daityas who stole the Vedas, and restore them (viz., the Authority) to Brahma. The Kurma Incarnation was undertaken in order to extract ambrosia (amṛta), (from the Milk Sea), calculated to bestow (lasting) health and immortality on beings. The Varaha Incarnation was undertaken in order to raise His Consort (Earth from the ocean) that He may (thus) exemplify his power to) lift creatures drowned in the Ocean of worldliness (samsāra). The Narasimha Incar- nation was undertaken with a view to protect his protege (Prahlada) and kill the Asura (Hiranya-kaśipu),-by springing out of a pillar. The Vamana Incarnation was undertaken in order to cleanse the worlds by means of water issuing from his lotus-feet (i.e. Gangā), by the transfigured (from Vamana) Trivikrama. The Paraśurāma Incarnation was taken for the purpose of exterminating the wicked Kshatriyas. The Rama Incarnation was undertaken in order 
 
 - 
 
@@ -4027,11 +4009,11 @@ Bharata,
 
 154 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
-Full (Purna), Partial (Amša), and Obsessing (Āveša). Amongst these, the distinction of Worshippable and Non-worshippable must be borne in mind. 
+Full (Purna), Partial (Amśa), and Obsessing (Āveśa). Amongst these, the distinction of Worshippable and Non-worshippable must be borne in mind. 
 
 The reason for incarnating, is (God's own) Will, not Karma. As for the motif (for incar- nating), it is to protect the good, by destroying the wicked. 
 
@@ -4049,11 +4031,11 @@ GOD
 
 the votary; lending Himself to the sweet will of His worshipper in all details (of worship such as) bath, food, place and rest; All-forgiving; the All-sufficient God! Four varieties of this (aspect) exist viz., Self-manifest (Svayam-Vyakta), Superhuman or Celestial (Daiva), Saint-made (Saiddha) and Man-made (Manusha).” 
 
-In all the Quintuple Hypostases aforesaid, God is ever present with Šri (or Grace, His Consort). So Šruti and other Authorities dec- lare. And therefore the view of those one- sided partisans who contend for Šri-lessness, is exploded. (The Category of) God has thus been propounded. 
+In all the Quintuple Hypostases aforesaid, God is ever present with Śri (or Grace, His Consort). So Śruti and other Authorities dec- lare. And therefore the view of those one- sided partisans who contend for Śri-lessness, is exploded. (The Category of) God has thus been propounded. 
 
 Thus ends Advent IX, 
 
-The treatment of God (Išvara) in the 
+The treatment of God (Iśvara) in the 
 
 "Light of the School of Ramanuja." 
 
@@ -4061,15 +4043,13 @@ The treatment of God (Išvara) in the
 
 27. See the Quinary Group, I. Para-svarupa, Pp. 576-7. Artha-Paħtaka, in JRAS, for July, 1910. 
 
-ADVENT X.. 
-
-THE NON-SUBSTANCE (Adravya). 
+## THE NON-SUBSTANCE (Adravya). 
 
 After the treatment thus given to (the Cate- gory) Substance (Dravya), that of non-substance will now be taken up. 
 
-Non-substance is divisible into ten classes only vis. :—(1, 2, 3), the pure, motile or motive and dark (qualities inherent in matter), (4, 5, 6, 7, 8), Sound, Touch, Colour, Savour, Odour, (9) con- junction (Samyoga), and (10) Force (Šakti). 
+Non-substance is divisible into ten classes only vis. :—(1, 2, 3), the pure, motile or motive and dark (qualities inherent in matter), (4, 5, 6, 7, 8), Sound, Touch, Colour, Savour, Odour, (9) con- junction (Samyoga), and (10) Force (Śakti). 
 
-Satva or Pureness is the non-Substance (or Quality) which is the root-cause of brightness, happiness, buoyancy etc., non-sensible, and other than force etc. It is of two kinds: Absolute Pureness (Šuddha-satva) and mixed or Alloyed Pureness (Mišra-satva). Absolute Pureness is the Pureness inherent in Substance, devoid from restlessnessness (Rajas) and dark- ness (Tamas). This (exists) in the Eternal Expanse (i. e. Spiritual Regions). Metaphori- cally (or secondarily) it is ascribed to God 
+Satva or Pureness is the non-Substance (or Quality) which is the root-cause of brightness, happiness, buoyancy etc., non-sensible, and other than force etc. It is of two kinds: Absolute Pureness (Śuddha-satva) and mixed or Alloyed Pureness (Miśra-satva). Absolute Pureness is the Pureness inherent in Substance, devoid from restlessnessness (Rajas) and dark- ness (Tamas). This (exists) in the Eternal Expanse (i. e. Spiritual Regions). Metaphori- cally (or secondarily) it is ascribed to God 
 
 X.] 
 
@@ -4089,7 +4069,7 @@ These three (qualities) permeate matter con- terminously; adhere to the soul (wh
 
 158 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -4107,13 +4087,13 @@ THE NON-SUBSTANCE
 
 159 
 
-etc. By the ear is sound, so described, apprehen- sible. Either by the sense (of hearing) emanant, or the excitative air vibrant, is sound perceived. But Scriptures speak of sound as Substance; how then can it be non-substance (i. e. quality)? The escape (from this objection) consists in showing that the composition of Praṇava (Aum) by its components A (3) etc., is made through what is signified (by A etc., viz; Ākāša)." 
+etc. By the ear is sound, so described, apprehen- sible. Either by the sense (of hearing) emanant, or the excitative air vibrant, is sound perceived. But Scriptures speak of sound as Substance; how then can it be non-substance (i. e. quality)? The escape (from this objection) consists in showing that the composition of Praṇava (Aum) by its components A (3) etc., is made through what is signified (by A etc., viz; Ākāśa)." 
 
 Touch is that Quality which we perceive by the sense of touch (in skin), other and separate (than those of the other senses). This is of three kinds: cold, warm and equable (tem- 
 
 174 
 
-""" Though as a constituent part in a compound, and as cause to an effect, the constituent may bear the semblance of a substance, yet the fact that the constituent is so by means of its origin from, or dependency on, a medium makes it partake the characteristic of a non-substance, as for example, the sound A, though a material (or substantial) cause to produce Aum the effect, it is a quality by reason of its origination from, or dependency on, the substance Akaša or Ether. The significant (vācaka) is A, the signified (väkya) by that significant is Ether, of which the significant in the present case is as quality or attribute to substance. 
+""" Though as a constituent part in a compound, and as cause to an effect, the constituent may bear the semblance of a substance, yet the fact that the constituent is so by means of its origin from, or dependency on, a medium makes it partake the characteristic of a non-substance, as for example, the sound A, though a material (or substantial) cause to produce Aum the effect, it is a quality by reason of its origination from, or dependency on, the substance Akaśa or Ether. The significant (vācaka) is A, the signified (väkya) by that significant is Ether, of which the significant in the present case is as quality or attribute to substance. 
 
 160 
 
@@ -4145,7 +4125,7 @@ Colour is that Quality which is perceived by our sense of sight (eye) alone, oth
 
 21162 
 
-YATİNDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -4175,7 +4155,7 @@ anh Michelia Champaka.
 
 164 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
@@ -4197,7 +4177,7 @@ THE NON-SUBSTANCE
 
 165 
 
-originating from a Conjunction, for example the conjunction of a book with the body, arising from its (book's) conjunction with the hand; but we say no, inasmuch as one conjunction- hand with book-implies the other, and no two successive conjunctions, therefore, one springing from the other (need predication). For similar reasoning, the origination of a Disjunction from another Disjunction is also discarded. Disjunct- ion (Vibhaga or Viyoga) is none other than the negation of Conjunction of bodies; hence it is not a distinct Quality. The Eternal (kind of) Conjunction is between infinite (vibhu) substances. Conjunction of eternal (lit. non-originated=aja) substances, is admitted by Šruti (Vedas); by Inference also the Con- junction of eternal substances is establishable thus:- 
+originating from a Conjunction, for example the conjunction of a book with the body, arising from its (book's) conjunction with the hand; but we say no, inasmuch as one conjunction- hand with book-implies the other, and no two successive conjunctions, therefore, one springing from the other (need predication). For similar reasoning, the origination of a Disjunction from another Disjunction is also discarded. Disjunct- ion (Vibhaga or Viyoga) is none other than the negation of Conjunction of bodies; hence it is not a distinct Quality. The Eternal (kind of) Conjunction is between infinite (vibhu) substances. Conjunction of eternal (lit. non-originated=aja) substances, is admitted by Śruti (Vedas); by Inference also the Con- junction of eternal substances is establishable thus:- 
 
 'An infinite substance has conjunction with an infinite substance, 
 
@@ -4213,13 +4193,13 @@ another part.
 
 166 
 
-YATINDRA-MATA-DĪPIKĀ 
+ 
 
 [Advent 
 
 'An infinite substance is conjoined with God 
 
-(Išvara), 
+(Iśvara), 
 
 For it is substance, 
 
@@ -4227,7 +4207,7 @@ Like the jar ';
 
 (or), 
 
-'God (Išvara) is conjoined with Time etc., 
+'God (Iśvara) is conjoined with Time etc., 
 
 For He is substance, 
 
@@ -4237,7 +4217,7 @@ By such (ratiocinations), the Conjunction of infinite substances is stablished."
 
 Now, Force is that particular non-Substance (i. e. Quality) which stands as the reason of all causation. This is made evident both by Infer- 
 
-*** An objection is raised; how can two or more infinites be conjoined, inasmuch as conjunction implies partition; but when there is partition or division, the substance cannot be infinite? This objection is met by saying that infinites are eternally conjoined and never brought about in time, and hence possible; and this is supported by the Reve- lations (Šruti). The conjunction therefore is of the metaphysical, ideal, or spiritual description, and there- fore bears no analogy to physical or spatial conjunc- tions, except the mere fact of conjunction. What is meant is the co-substantiality of infinites; that is, two or more infinites can co-exist, their infinitiveness remaining unaffected. 
+*** An objection is raised; how can two or more infinites be conjoined, inasmuch as conjunction implies partition; but when there is partition or division, the substance cannot be infinite? This objection is met by saying that infinites are eternally conjoined and never brought about in time, and hence possible; and this is supported by the Reve- lations (Śruti). The conjunction therefore is of the metaphysical, ideal, or spiritual description, and there- fore bears no analogy to physical or spatial conjunc- tions, except the mere fact of conjunction. What is meant is the co-substantiality of infinites; that is, two or more infinites can co-exist, their infinitiveness remaining unaffected. 
 
 X.] 
 
@@ -4287,11 +4267,11 @@ The Treatment of Non-Substance (A-dravya). in the
 
 CONCLUSION. 
 
-In the aforesaid manner, have Principles (arthas) been expounded in this exegetic treatise on the Šariraka based on the works, composed by the ancient Acaryas for the enlightenment of novices (in the science), i.e., these (works), viz— 
+In the aforesaid manner, have Principles (arthas) been expounded in this exegetic treatise on the Śariraka based on the works, composed by the ancient Acaryas for the enlightenment of novices (in the science), i.e., these (works), viz— 
 
 1. Dramida-Bhashya (by Dramida-cārya). 2. Nyaya-Siddhi (by Natha-muni if it is same as Nyaya-Tattva?) 
 
-3. Siddhi-Traya (by Yamuna-"cārya) 4. Šri-Bhashya (by Šri Rāmānuja) 
+3. Siddhi-Traya (by Yamuna-"cārya) 4. Śri-Bhashya (by Śri Rāmānuja) 
 
 5. (Vedanta-) Dipa (by 
 
@@ -4315,13 +4295,13 @@ do.
 
 ) 
 
-10. Shaḍartha-Samkshepa (by Somāšiy-āṇḍān 
+10. Shaḍartha-Samkshepa (by Somāśiy-āṇḍān 
 
 = 
 
--Somayāji-andān or Ramamišra) 
+-Somayāji-andān or Ramamiśra) 
 
-11. Šruta-prakāšikā (by Sudarsana-”cārya) 
+11. Śruta-prakāśikā (by Sudarsana-”cārya) 
 
 * See notes 10 and 153. 
 
@@ -4341,15 +4321,15 @@ Bhaṭṭāraka)
 
 do. ) 
 
-15. Nyaya-Kuliša (by Vādihaṁsa-'mbuvāha or Kiḍāmbi Rāmānuja-p- 
+15. Nyaya-Kuliśa (by Vādihaṁsa-'mbuvāha or Kiḍāmbi Rāmānuja-p- 
 
-16. Nyaya-Sudaršana (by 
+16. Nyaya-Sudarśana (by 
 
 do. 
 
 pillan) * ) 
 
-(Daršana-Yathatmya- 
+(Darśana-Yathatmya- 
 
 17. Nirnaya or Mana- 
 
@@ -4359,7 +4339,7 @@ Yathatmya-Nirnaya.
 
 (by Varada- 
 
-Vishnu-Mišra) 
+Vishnu-Miśra) 
 
 mātri-Muni) 
 
@@ -4367,7 +4347,7 @@ mātri-Muni)
 
 do. ) 
 
-20. Sarvārtha-Siddhi (by Vedānta-"cārya) 21. Nyaya-Parišuddhi (by do. > 22. Nyaya-Siddhañjana (by do. 
+20. Sarvārtha-Siddhi (by Vedānta-"cārya) 21. Nyaya-Pariśuddhi (by do. > 22. Nyaya-Siddhañjana (by do. 
 
 23. Paramata-Bhanga (by 
 
@@ -4375,7 +4355,7 @@ do. >
 
 24. Tattva-traya-Culaka (by do. ) 
 
-25. Tattva-Nirupaņa (by Vādikešari Saumya- jāmātr-Muni) 
+25. Tattva-Nirupaņa (by Vādikeśari Saumya- jāmātr-Muni) 
 
 Appillar, vide Pazha-nadai Vilakkam 'by Aņņā Appangār172 
 
@@ -4387,15 +4367,15 @@ Lokacārya+Yatindra-pravaṇa)
 
 27. Canda-Maruta (by Sri Maha-"cārya* of 
 
-28. Vedanta-Vijaya (by 29. Pārǎšarya-Vijaya (by 
+28. Vedanta-Vijaya (by 29. Pārǎśarya-Vijaya (by 
 
-Šolingipura.) 
+Śolingipura.) 
 
 do. 
 
 do. ) etc. 
 
-The Science of Spirit is concerned with the treatment of Tattva or (Final) Truth, Hita or Means, and Purushärtha or Goal. In this Summary of that Science, an investigation has been made, in the Sections on 'Matter', 'Soul' and 'God' of the Truth; † in the Section on 'Consciousness,' of the Means; in the Section on Eternal Universe' of the Goal. Hence it is clear that all the (Three): 'Truth,' 'Means' and 'Goal' have been dealt with. (Some) sages aver that there is One Truth (Veri- ty or Category). The Ṛshis (Prophets) assert it as Two,-of the divisions Soul and Non-soul. The Acaryas (Teachers) predicate Three, in pursuance of the Šruti (Scriptures) viz., the Enjoyed (matter), the Enjoyer (soul) and Ruler 
+The Science of Spirit is concerned with the treatment of Tattva or (Final) Truth, Hita or Means, and Purushärtha or Goal. In this Summary of that Science, an investigation has been made, in the Sections on 'Matter', 'Soul' and 'God' of the Truth; † in the Section on 'Consciousness,' of the Means; in the Section on Eternal Universe' of the Goal. Hence it is clear that all the (Three): 'Truth,' 'Means' and 'Goal' have been dealt with. (Some) sages aver that there is One Truth (Veri- ty or Category). The Ṛshis (Prophets) assert it as Two,-of the divisions Soul and Non-soul. The Acaryas (Teachers) predicate Three, in pursuance of the Śruti (Scriptures) viz., the Enjoyed (matter), the Enjoyer (soul) and Ruler 
 
 * See Preface p. iiiƒ. 
 
@@ -4411,7 +4391,7 @@ CONCLUSION
 
 20" See Artha Pancake, or The Five Truths, JRAS for July, 1910. 
 
-"I. E. the disquisition into the nature of the relations subsisting between Matter, Soul and Spirit. Consult work No 10 supra. The relation is parti- cularly that intimate, inalienable and indis- cerptible one subsisting between the Kosmos as the body (Sarira) and Narayana as the Bodied (Šariri), the very connotation of this term being the Spirit (Šariri) enlivening or informing that body (Sarira). All the other relations amongst Godhood, Soulhood etc., are contingent thereon. The relations between God (Spirit) and Soul are grouped under Nine Heads, see Pillai Lokâ-"cārya's Rahasya No. 11: Nava- vidha-sambandha [P: 570, Artha-Pañcaka, JRAS, July 1910]. Šri-Ramayana is an exegesis on these 
+"I. E. the disquisition into the nature of the relations subsisting between Matter, Soul and Spirit. Consult work No 10 supra. The relation is parti- cularly that intimate, inalienable and indis- cerptible one subsisting between the Kosmos as the body (Sarira) and Narayana as the Bodied (Śariri), the very connotation of this term being the Spirit (Śariri) enlivening or informing that body (Sarira). All the other relations amongst Godhood, Soulhood etc., are contingent thereon. The relations between God (Spirit) and Soul are grouped under Nine Heads, see Pillai Lokâ-"cārya's Rahasya No. 11: Nava- vidha-sambandha [P: 570, Artha-Pañcaka, JRAS, July 1910]. Śri-Ramayana is an exegesis on these 
 
 relations. 
 
@@ -4433,11 +4413,11 @@ Therefore, Nārāyaṇa is the Predicated of the Conscient and the Non-Conscient
 
 deva. 
 
-What the Tenets (or System) of the School of the Višishta-'dvaitins" are, is thus evident. 
+What the Tenets (or System) of the School of the Viśishta-'dvaitins" are, is thus evident. 
 
 IN 
 
-· Athâ-'to Brahma-jijñāsā [Vedānta-Sūtras, 1-1-1]. The conception of God according to the Višishta-'dvaita School as evident from this closing 
+· Athâ-'to Brahma-jijñāsā [Vedānta-Sūtras, 1-1-1]. The conception of God according to the Viśishta-'dvaita School as evident from this closing 
 
 CONCLUSION 
 
@@ -4447,13 +4427,13 @@ of the 'Light of the School of Rāmānujā'
 
 Composed by 
 
-Šrīnivāsa-"cārya, the First Disciple of Śriman-Maha-"cārya 
+Śrīnivāsa-"cārya, the First Disciple of Śriman-Maha-"cārya 
 
 of the Holy Line of the Vadhūlas. 
 
 175 
 
-Iti vividha vicitram mana-meya-prakāšam Ghana-guruvara-däsen'-oktam ādāya šāstrāt, Yatipati-mata-dipam Veda-Vedānta-säram Sa bhavati matiman yas sat-kataksh-aika- 
+Iti vividha vicitram mana-meya-prakāśam Ghana-guruvara-däsen'-oktam ādāya śāstrāt, Yatipati-mata-dipam Veda-Vedānta-säram Sa bhavati matiman yas sat-kataksh-aika- 
 
 lakshyaḥ. 
 

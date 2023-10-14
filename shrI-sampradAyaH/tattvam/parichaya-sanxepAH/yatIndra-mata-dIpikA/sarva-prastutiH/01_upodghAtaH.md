@@ -5,57 +5,167 @@ title = "०१ उपोद्घातः"
 
 
 
-प्रथमोऽवतारः 
+प्रथमोऽवतारः  
+उपोद्घातः 
 
-1.उपोद्घातः 
-
-श्रीवेङ्कटेशं करिशैलनाथं श्रीदेवराजं घटिकाद्रिसिंहम् । कृष्णेन साकं यतिराजमीडे स्वप्ने च दृष्टान् मम देशिकेन्द्रान् ।। १ ।। यतीश्वरं प्रणम्याहं वेदान्ताय्यं महागुरुम् । करोमि बालबोधार्थं यतीन्द्र मतदीपिकाम् ॥ २ ॥ 
+<details><summary>English</summary>
 
 YATINDRAMATADIPIKĀ 
 
-AVATARA IOV 
+AVATARA I 
 
 INTRODUCTORY 
+</details>
 
-I glority Śrī Venkatesa, Śrī Devaraja the Lord of Kariśaila, Nrsimha (the Lord of) Ghatikadri, 3 and Yatirāja together with Kṛṣṇa;3 and my supreme teachers who were seen by me in a vision. (1) I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindramatadipika for the instruction of beginners.son 
 
-(2) 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-२ 
+श्रीवेङ्कटेशं, +++(काञ्ची-)+++करि-शैल-नाथम्  
+श्रीदेवराजं, घटिकाद्रि-सिंहम् ।  
+कृष्णेन साकं यतिराजम् ईडे  
+स्वप्ने च दृष्टान् मम देशिकेन्द्रान् ॥ १ ॥  
+</details>
 
-यतीन्द्र मतदीपिका 
+<details><summary>English</summary>
 
-१. श्रीमन्नारायण एवं चिदचिद्विशिष्टाद्वैततत्त्वं भक्तिप्रप- त्तिभ्यां प्रसन्नः स उपायः, अप्राकृतदेशविशिष्ठः स एव प्राप्य इति वेदान्तवाक्यैः प्रतिपादयतां श्रीव्यासबोधायनगृहदेव भारुचिब्रह्म- नन्दिद्र मिडाचार्य्य श्रीप राङ्कुरानाथ यामुन मुनियतीश्वरप्रभृतीनां मतानुसारेण बालबोधार्थं वेदान्तानुसारिणी यतीन्द्रमतदीपिकाख्या शारीरकपरिभाषा महाचार्य्यकृपावलम्बिना मया यथामति सङ्ग्र हेण प्रकाश्यते । 
+I glority Śrī Venkatesa, Śrī Devaraja the Lord of Kariśaila, Nrsimha (the Lord of) Ghatikadri, 3 and Yatirāja together with Kṛṣṇa;3 and my supreme teachers who were seen by me in a vision. (1) 
+</details>
 
-२. सर्वं पदार्थजातं प्रमाणप्रमेयभेदेन द्विधा भिन्नम् । प्रमाणानि त्रीण्येव । प्रमेयं द्विविधं - द्रव्याद्रव्यभेदात् । द्रव्यं 
+
+<details><summary>मूलम्</summary>
+
+श्रीवेङ्कटेशं करिशैलनाथम् श्रीदेवराजं घटिकाद्रिसिम्हम् ।  
+कृष्णेन साकं यतिराजमीडे स्वप्ने च दृष्टान् मम देशिकेन्द्रान् ॥ १ ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतीश्वरम् प्रणम्याहम्  
+वेदान्तार्यम् महागुरुम् ।  
+करोमि बाल-बोधार्थम्  
+यतीन्द्रमतदीपिकाम् ॥२॥
+</details>
+
+<details><summary>English</summary>
+
+I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindramatadipika for the instruction of beginners. (2)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यतीश्वरम् प्रणम्याहम् वेदान्तार्यम् महागुरुम् ।  
+करोमि बालबोधार्थम् यतीन्द्रमतदीपिकाम् ॥२॥
+</details>
+
+[[२]] 
+
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+१. श्रीमन्नारायण एव चिद्-अचिद्-विशिष्टाद्वैत-तत्त्वम्,  
+भक्ति-प्रपत्तिभ्याम् प्रसन्नः स उपायः,  
+अ-प्राकृत-देश-विशिष्टः स एव प्राप्य  
+इति वेदान्त-वाक्यैः प्रतिपादयताम्  
+श्री-व्यास-बोधायन--  
+गुह-देव--भा-रुचि--ब्रह्म-नन्दि--द्रमिडाचार्य--  
+श्री-पराङ्कुश--नाथ-यामुन-मुनि--यतीश्वर-प्रभृतीनाम्  
+मतानुसारेण बाल-बोधार्थम् वेदान्तानुसारिणी  
+यतीन्द्र-मत-दीपिकाख्या शारीरक-परिभाषा  
+महाचार्य-कृपावलम्बिना मया  
+यथामति सङ्ग्रहेण प्रकाश्यते ।
+</details>
+
+<details><summary>English</summary>
 
 1. Sriman Narayana alone having cit (the senti- ent) and acit (the non-sentient) for His qualifications is the sole Reality, one without a second. He alone, propitiated by devotion and self-surrender, is the means (to salvation) and He alone qualified by the non-material realm10 is the goal to be attained. Śrī Vyāsa, Bodhāyana, " Guhadeva, Bhāruci, Brahma- nandin, 13 Dramidācārya, 14 Śrī Parānkuśa, 15 Nātha, 16 Yamunamuni,17 Yatīśvara18 and others establish this by means of the Vedanta texts. Following their school I, by the grace of Mahācārya,19 proceed to expound to the best of my ability and in a summary fashion (the work) Sārīrakaparibhāsā, called Yatindramatadipikar based on the Vedanta for the instruction of beginners. 
+</details>
 
-2. All knowable things are divided into two kinds, as pramāna (the means of valid knowledge) and prameya (object of valid knowledge). The means of valid knowledge is only threefold.22 The object of valid knowledge is twofold, because of the difference as dra- vya (substance) and adravya (non-substance). Dravya 
 
-उपोद्घातः 
+<details><summary>मूलम्</summary>
 
-द्विविधं - जडमजडं चेति । जडं तु द्विविधं - प्रकृतिः कालश्चेति । प्रकृतिश्चतुर्विंशतितत्त्वात्मिका । कालस्तु उपाधिभेदात् त्रिविधः । 
+१. श्रीमन्नारायण एव चिदचिद्विशिष्टाद्वैततत्त्वम् भक्तिप्रपत्तिभ्याम् प्रसन्नः स उपायः, अप्राकृतदेशविशिष्टः स एव प्राप्य इति वेदान्तवावाक्यैः प्रतिपादयताम् श्रीव्यासबोधायन-गुहदेवभारुचिब्रह्मनन्दिद्रमिडाचार्य श्रीपराङ्कुशनाथयामुनमुनियतीश्वरप्रभृतीनाम् मतानु- सारेण बालबोधार्थम् वेदान्तानुसारिणी यतीन्द्रमतदीपिकाख्या शारीरकपरिभाषा महाचार्यकृपावलम्बिना मया यथामति सङ्ग्रहेण प्रकाश्यते ।
+</details>
 
-३. अजडं तु द्विविधं पराक् प्रत्यक् चेति । अजडं परागपि तथा नित्यविभूतिर्धर्मभूतज्ञानं चेति । 
 
-- 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-४. प्रत्यगपि द्विविधः - जीवेश्वरभेदात् । जीवस्त्रिविधः- बद्धमुक्तनित्यभेदात् । बद्धोऽपि द्विविधः - बुभुक्षुमुमुक्षुभेदात् । बुभुक्षुद्विविधः - अर्थकामपरो धर्म्मपरश्चेति । धर्मपरो द्विविधः- 
+२. सर्वम् **पदार्थजातम्** प्रमाण-प्रमेयभेदेन द्विधा भिन्नम् ।  
+**प्रमाणानि** त्रीण्य् एव ।  
+**प्रमेयम्** द्विविधम् – द्रव्याद्रव्य भेदात् ।  
+**द्रव्यम्** द्विविधम् – जडम् अजडम् चेति ।  
+**जडम्** तु द्वि-विधम् – प्रकृतिः कालश् चेति ।  
+**प्रकृतिश्** चतुर्विंशति-तत्त्वात्मिका ।  
+**कालस्** तु उपाधि-भेदात् त्रि-विधः ।
+</details>
 
-is of two kinds, as jada (material) and ajada ( im - material). Jada is of two kinds, as prakrti (primordial matter) and time. Prakrti is of the nature of twenty- four categories.28 Time is of three kinds owing to limitation. 24 
+<details><summary>English</summary>
 
-3. The ajada is of two kinds, as parāk (the exter- nal) and pratyak (the internal). The parāk which is ajada, is in its turn of two kinds, as nityavibhūti (the eternal manifestation) and dharmabhūtajñāna (the attributive consciousness). 
+2. All knowable things are divided into two kinds, as pramāna (the means of valid knowledge) and prameya (object of valid knowledge). The means of valid knowledge is only threefold.22 The object of valid knowledge is twofold, because of the difference as dra- vya (substance) and adravya (non-substance). Dravya is of two kinds, as jada (material) and ajada ( im - material). Jada is of two kinds, as prakrti (primordial matter) and time. Prakrti is of the nature of twenty- four categories.28 Time is of three kinds owing to limitation. 24 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+२. सर्वम् पदार्थजातम् प्रमाणप्रमेयभेदेन द्विधा भिन्नम् । प्रमाणानि त्रीण्येव । प्रमेयम् द्विविधम् – द्रव्याद्रव्य भेदात् । द्रव्यम् द्विविधम् – जडमजडम् चेति । जडम् तु द्वि- विधम् – प्रकृतिः कालश्चेति । प्रकृतिश्चतुर्विंशतितत्त्वात्मिका । कालस्तु उपाधिभेदात् त्रिविधः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+३. **अजडम्** तु द्विविधम् – पराक् प्रत्यक् चेति ।  
+अजडम् **पराग्** अपि तथा – नित्य-विभूतिर् धर्मभूतज्ञानम् चेति ।
+</details>
+
+<details><summary>English</summary>
+
+3. The ajada is of two kinds, as parāk (the exter- nal) and pratyak (the internal). The parāk which is ajada, is in its turn of two kinds, as nityavibhūti (the eternal manifestation) and dharmabhūtajñāna (the attributive consciousness).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+३. अजडम् तु द्विविधम् – पराक् प्रत्यक् चेति । अजडम् परागपि तथा – नित्यविभूतिर् धर्मभूतज्ञानम् चेति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+४. **प्रत्यग्** अपि द्विविधः- जीवेश्वरभेदात् ।  
+**जीवस्** त्रिविधः- बद्ध-मुक्त-नित्य-भेदात् ।  
+**बद्धो** ऽपि द्विविधः – बुभुक्षु-मुमुक्षु-भेदात् ।  
+**बुभुक्षुर्** द्विविधः – अर्थ-काम-परो धर्म-परश् चेति ।  
+**धर्म-परो** द्विविधः – देवतान्तर-परो भगवत्-परश् चेति ।  
+**मुमुक्षुर्** द्विविधः- कैवल्य-परो मोक्षपरश् चेति ।  
+**मोक्ष-परो** द्विविधः – भक्तः प्रपन्नश् चेति ।  
+**प्रपन्नो** द्विविधः – एकान्ती परमैकान्ती चेति।  
+**परमैकान्ती** द्विविधः – दृप्तार्त-भेदात् ।
+</details>
+
+<details><summary>English</summary>
 
 4. The pratyak is also of two kinds, because of the difference as jīva (the individual self) and Iśvara. Jiva is of three kinds, because of the difference as baddha (the bound jīva in sarsāra), mukta (the releas- ed jīva) and nitya (the eternally free). The baddha is of two kinds, because of the difference as bubhuksu25 (the pleasure-seeker) and mumukṣu26 (the salvation-seeker). The bubhukṣu is of two kinds, as arthakāmapara (the votary of artha and kama) and dharmapara (the votary of dharma). The dharmapara is of two kinds, as the votary of various gods and the votary of Bhagavan. 
 
-यतीन्द्रमतदीपिका 
-
-देवतान्तरपरो भगवत्परश्चेति । मुमुक्षुद्विविधः - कैवल्यपरो मोक्ष- परश्चेति । मोक्षपरो द्विविधः - भक्तः प्रपन्नश्चेति । प्रपन्नो द्विविधः - एकान्ती परमेकान्ती चेति । परमेकान्ती द्विविधः - दृप्तार्तभेदात् । 
-
-५. पञ्चधावस्थित ईश्वरः - परव्यूहविभावन्तर्यावतारभे- दात् । पर एकधा । व्यूहश्चतुर्द्धा - वासुदेवसङ्कर्षणप्रद्युम्नानिरुद्ध- भेदात् । केशवादि व्यूहान्तरम् । मत्स्यादयो विभवाः पुनरनन्ताः । अन्तर्यामी प्रतिशरीरमवस्थितः । अर्चावतारस्तु - श्रीरङ्गवेङ्कटाद्रि- 
-
 Mumukşu is of two kinds, as the votary of self-realiza- tion (kaivalya) and the votary of release (moksa). The votary of mokṣa is of two kinds, as bhakta (lover of God) and prapanna (one who has resigned his self to God). The prapanna is of two kinds, as ekāntin (one- pointed) and parama-ekantin (extremely one-pointed). The parama-ekāntin is of two kinds, because of the difference as drpta (the patient aspirant ) and ārta (the impatient aspirant ). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+४. प्रत्यगपि द्विविधः- जीवेश्वरभेदात् । जीवस्त्रिविधः- बद्धमुक्तनित्यभेदात् । बद्धोऽपि द्विविधः – बुभुक्षुमुमुक्षुभेदात् । बुभुक्षुर्द्विविधः – अर्थकामपरो धर्मपरश्चेति । धर्मपरो द्विविधः – देवतान्तरपरो भगवत्परश्चेति । मुमुक्षुर्द्विविधः- कैवल्यपरो मोक्षपरश्चेति । मोक्षपरो द्विविधः – भक्तः प्रपन्नश्चेति । प्रपन्नो द्विविधः – एकान्ती परमैकान्ती चेति। परमैकान्ती द्विविधः – दृप्तार्तभेदात् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+५. पञ्चधावस्थित **ईश्वरः** – पर-व्यूह-विभवान्तर्यावतार-भेदात् । पर एकधा । व्यूहश्च- तुर्द्धा – वासुदेवसङ्कर्षणप्रद्युम्नानिरुद्धभेदात् । केशवादि व्यूहान्तरम् । मत्स्यादयो विभवाः पुनरनन्ताः । अन्तर्यामी प्रतिशरीरमवस्थितः । अर्चावतारस्तु – श्रीरङ्ग- वेङ्कटाद्रिहस्तिगिरियादवाद्रिघटिकाचलादिषु सकलमनुजनयनविषयताम् गतो मूर्तिविशेषः ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+५. पञ्चधावस्थित ईश्वरः – परव्यूहविभवान्तर्यावतारभेदात् । पर एकधा । व्यूहश्च- तुर्द्धा – वासुदेवसङ्कर्षणप्रद्युम्नानिरुद्धभेदात् । केशवादि व्यूहान्तरम् । मत्स्यादयो विभवाः पुनरनन्ताः । अन्तर्यामी प्रतिशरीरमवस्थितः । अर्चावतारस्तु – श्रीरङ्ग- वेङ्कटाद्रिहस्तिगिरियादवाद्रिघटिकाचलादिषु सकलमनुजनयनविषयताम् गतो मूर्तिविशेषः ।
+</details>
+
+
 
 5. Iśvara abides in five forms, because of the difference as Para, Vyūha, Vibhava, Antaryāmin and Arcā. Para (the self-transcendent absolute) is uniform (i.e., single and complete). The Vyuha is fourfold, because of the difference as Vasudeva, Sankarṣaṇa, Pradyumna and Aniruddha. Kesava etc. are other types of Vyuhas. Matsya and others are Vibhavas ( incarnations), and they are numberless. The Antar- yāmin (the indweller ) abides in every body. The incar- nations of Arcă are those special forms presented to the vision of all men in sacred shrines like Srirangam, 27 
 
@@ -143,7 +253,7 @@ kalpaka (determinate). What is called nirvikalpaka is the cognition of the first
 
 १० 
 
-यतीन्द्र मतदीपिका 
+ 
 
 १५. द्रव्यग्रहणे संयोगः सम्बन्धः । द्रव्यगतरूपादिग्रहणे समवायानङ्गीकारात् संयुक्ताश्रयणसम्बन्धः । 
 
@@ -237,7 +347,7 @@ true. But there, as the portion of silver-content is infinitesimal, it cannot se
 
 १६ 
 
-यतीन्द्र मतदीपिका 
+ 
 
 २८. जपाकुसुमसमीपवर्तिस्फटिकमणिरपि 'रक्त' इति गृह्यते । तज्ज्ञानं सत्यमेव । 
 
