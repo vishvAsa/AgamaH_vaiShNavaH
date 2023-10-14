@@ -354,6 +354,15 @@ By this expression, samsaya, anyathā-jñāna and viparīta-jñāna are avoided 
 यथा वस्तुनो वस्त्व्-अन्तर-ज्ञानम् ।
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+संशयलक्षणमाह- 'वर्मी'ति । साधारणाका- रेण धर्मिग्रहे तदुपस्थापितमिथोविरुद्धनानाकोटिस्फुरण सशय इत्यर्थः ।  
+
+तार्किकमतवत् सिद्धान्ते सशयो नैक ज्ञान मतम् । किंतु धर्मि- ग्रहण कोटिद्वयप्रतीतिश्चेति ज्ञानद्वयम् । दोषादभेदाग्रहणेन सहित तदेवायं स्थाणुर्वा पुरुषो वेत्यनवस्थित व्यवहारहेतुर्भवतीति स्वीकृतम् । धर्मविपर्यास - अन्यदीयधर्मस्य धर्म्यन्तरेभानम् । आत्मनि कर्तर्यकर्तृत्व ज्ञानमन्यथाज्ञान, सिद्धान्ते कर्तृत्वस्वीकारादात्मन' । 'कुयुक्तिभिः सारव्यादिदुस्तर्कैः । भ्रान्तत्वोपपादनम् - आत्मनि कर्तृत्वस्य भ्रम- सिद्धत्वोपपादनम् । वस्त्वन्तरे ति भावप्रधानो निर्देश. । वस्त्वन्तरत्व- ज्ञानमिति यत्वत् । धर्मिस्वरूपनिरूपकधर्मस्यान्यत्र धर्मिण्यध्यासो विपरीतज्ञानम्, यथा शुक्तौ रजतमिति, देहे आत्मेति । तद्मिन्नधर्म- स्याध्यासोऽन्यथाज्ञानम्, यथा शङ्खः पीतः, इति । आत्माऽकर्तेति च।
+</details>
+
+
+
 <details><summary>English</summary>
 
 8. Samśaya is the recollection of several mutually contradictory attributes when a thing is apprehended; for instance, the (dubitative) cognition in respect of a tall object, 'Is this a stump or man?". 
@@ -380,17 +389,80 @@ Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one th
 
 
 
-९. 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपोद्घातः 
+९. **लक्षणस्य** त्रीणि दूषणानि सन्ति -  
+अव्याप्त्य्-अतिव्याप्त्य्-असंभव-भेदात् ।  
+लक्ष्यैकदेशे लक्षणस्यावर्तमानत्वम् **अव्याप्तिः**।  
+“कपिल-वर्णवत्त्वम् गोर् लक्षणम्” इति लक्षणे कृते  
+शुक्लायाम् अव्याप्तिः ।  
 
-लक्षणस्य त्रीणि दूषणानि सन्ति । अव्याप्त्यतिव्याप्त्य- संभवभेदात् । लक्ष्यैकदेशे लक्षणस्यावर्त मानत्वमव्याप्तिः । 'कपिल- वर्णवत्त्वं गोर्लक्षणम्' इति लक्षणे कृते शुक्लायामव्याप्तिः । लक्ष्या- दन्यत्र प्रवर्तमानत्वमतिप्याप्तिः । लक्ष्ये क्वाप्यविद्यमानत्वम- संभवः । यथा - 'चक्षुर्विषयो जीव' इत्युक्ते असंभव एव । अत्रोक्तदूपणत्रयाभावात् प्रमालक्षणं स्वस्थम् 
+लक्ष्याद् अन्यत्र प्रवर्तमानत्वम् **अतिव्याप्तिः** ।  
 
-१०. साधकतमं करणम् । अतिशयितं साधकं साधक- तमम् । यस्मिन् सति अविलम्बेन ज्ञानमुत्पद्यते तत् 'अतिशयितम्' 
+लक्ष्ये क्वाप्य् अविद्यमानत्वम् **असंभवः** ।  
+यथा –  
+"जीवो गुणत्रयवश्य" इत्युक्ते अव्याप्ति,  
+ज्ञान-गुणक इत्युक्ते अतिव्याप्तिः,  
+“चक्षुर्-विषयो जीव” इत्युक्ते असंभव एव ।  
 
-9. A definition has three defects: avyāpti (non- pervasion), ativyāpti (over-pervasion) and asambhava (absolute inapplicability). Avyapti is the absence of the definition in a thing sought to be defined; for inst- ance, in the definition, 'the characteristic of the cow is the possession of orange-brown colour', there is non- pervasion in respect of (the cows) possessing white colour. Ativyāpti is the presence of the definition in something else other than the things sought to be defined. 33 Asambhava is the absence of definition any- where in the thing defined. The statement, 'the self is an object of ocular perception' is an example of total inapplicability. Therefore the definition of prama is established, because of the absence of the above-said three defects. 
+अत्रोक्त-दूषण-त्रयाभावात् - +++(पूर्वोक्तम्)+++ प्रमा-लक्षणम् स्व-स्थम् ।
+</details>
 
-10. The instrument (karana) is that which is the best cause (for the production of prama). 34 The best cause is that which is most important. It is said that (instrument) is 'most important' by which knowledge arises without delay. Hence it is established pramāṇa 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+'यथा जीव' इति । गुणत्रयवश्यत्वं जीवात्मलक्षणं नित्यमुक्तेष्व- व्यासम् । लक्ष्यैकदेशावृत्तित्वमव्याप्ति । ज्ञानवत्त्व जीवात्मनां लक्षण- मीश्वरेऽतिव्याप्तम् । लक्ष्यालक्ष्यवृत्तित्वमतिव्याप्तिः । चक्षुर्ग्राह्यत्वं चेदा- त्मनां लक्षणमुच्यते, तर्ह्य सम्भव । लक्ष्यसामान्ये ऽवर्तमानत्वमसम्भवः । एतद्दोषत्रयरहितोधर्मो लक्षण भवति । असाधारणधर्मो लक्षणमिति यावत् । लक्ष्यतावच्छेदकसमनियतत्वमसाधारणत्वम् । तच्च स्वव्याप- कलक्ष्यतावच्छेदक व्यापकत्वम् । स्व-लक्षणम् । जीवात्मना शेषचेतन- त्व लक्षणं साधु । 
+</details>
+
+
+<details><summary>English</summary>
+
+9. A definition has three defects: avyāpti (non- pervasion), ativyāpti (over-pervasion) and asambhava (absolute inapplicability).  
+   Avyapti is the absence of the definition in a thing sought to be defined; for inst- ance, in the definition, 'the characteristic of the cow is the possession of orange-brown colour', there is non- pervasion in respect of (the cows) possessing white colour.  
+   Ativyāpti is the presence of the definition in something else other than the things sought to be defined. 33  
+   Asambhava is the absence of definition any- where in the thing defined.  
+   The statement, 'the self is an object of ocular perception' is an example of total inapplicability. Therefore the definition of prama is established, because of the absence of the above-said three defects. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+९.लक्षणस्य त्रीणि दूषणानि सन्ति । अव्याप्त्यतिव्याप्त्यसंभवभेदात् । लक्ष्यैकदेशे लक्षणस्यावर्तमानत्वमव्याप्तिः। “कपिलवर्णवत्त्वम् गोर्लक्षणम्” इति लक्षणे कृते शुक्ला- यामव्याप्तिः । लक्ष्यादन्यत्र प्रवर्तमानत्वमतिव्याप्तिः । लक्ष्ये क्वाप्यविद्यमानत्वमसंभवः । यथा – "जीवो गुणत्रयवश्य" इत्युक्ते अव्याप्ति,ज्ञान-गुणक इत्युक्ते अतिव्याप्तिः, “चक्षुर्विषयो जीव” इत्युक्ते असंभव एव ।  
+अत्रोक्तदूषणत्रयाभावात् प्रमालक्षणम् स्वस्थम् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+१०. साधकतमम् **करणम्** ।  
+अतिशयितम् साधकम् साधकतमम् ।  
+यस्मिन् सति अविलम्बेन ज्ञानम् उत्पद्यते  
+तत् “अतिशयितम्” इत्युच्यते ।  
+
+तेन प्रमा-करणम् **प्रमाणम्** इति सिद्धम् ।  
+अनधिगतार्थ–गन्तृ **प्रमाणम्** इत्यादिकम् तु  
+तत्-तद्-वादिभिर् एव निरस्तत्वाद् अनादरणीयम् ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनधिगतेति । अज्ञातार्थज्ञानजनक प्रमाण-प्रमाकरणमित्यर्थ ।  
+यद्वा प्रमाणमिति भावल्युडन्तम् । गन्तृ-गमक, प्रकाश-कम् । अज्ञातार्थप्रकाशक ज्ञानं प्रमेत्यर्थः । सौगताद्यभिमतमज्ञातार्थ- ज्ञान प्रमेति लक्षणं स्मृतौ धारावाहिकद्वितीयादिनाने चाव्याप्तम् । अपरोक्षानुभव प्रमेति चानुमित्यादावव्याप्तमिति बोध्यम् । साक्षा- त्कारि-लौकिक विपयितागालि, विशदावभासात्मकम्, यद्वा अनुमिति त्वशाब्दत्व स्मृतित्व रहितम् ( ज्ञानम् ) । सप्रत्यवमर्श' मिति । सत्रतिस- न्धानमित्यर्थः । तत्तोल्लेखीतिवा । अनुपपत्ते - केनचिद्धर्मेण विना- वस्तुनो ग्रहणायोगात् । प्राप्यकारित्वे ति । सम्बध्यार्थेन तत्प्रकाश- रूपकार्यकरत्व मिन्द्रियाणामिति नियमादित्यर्थ । संयुक्ताश्रयणम् इन्द्रिय संयुक्तद्रव्याश्रितत्वम् । योग्येऽर्थेइन्द्रियसनिकर्णः प्रत्यक्षहेतुः इति च बोध्यम् । अर्वाचीन जन्यम् । अनर्वाचीनमजन्यम् । प्रसङ्गा- दिति । जन्यप्रत्यक्षस्यैवप्रमाणनिरूपण प्रकृतम् । अजन्यस्यतु प्रत्यक्षस्य स्मृतस्योपेक्षानर्हत्वादत्र निर्देशः कृत इत्यर्थं । 
+</details>
+
+<details><summary>English</summary>
+
+10. The instrument (karana) is that which is the best cause (for the production of prama). 34 The best cause is that which is most important. It is said that (instrument) is 'most important' by which knowledge arises without delay. Hence it is established pramāṇa is the cause of valid knowledge. The definition of pramāņa as one which makes known what is not al- ready known and the like are unacceptable inasmuch as they have been refuted by their own propounders.35
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१०. साधकतमम् करणम् । अतिशयितम् साधकम् साधकतमम् । यस्मिन् सति अविलम्बेन ज्ञानमुत्पद्यते तत् “अतिशयितम्” इत्युच्यते । तेन प्रमाकरणम् प्रमाण-मिति सिद्धम् । अनधिगतार्थ – गन्तृ प्रमाणमित्यादिकम् तु तत्तद्वादिभिरेव निरस्त-त्वादनादरणीयम् ।
+</details>
+
+
+
 
 ८ 
 
@@ -398,37 +470,93 @@ Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one th
 
 इत्युच्यते । तेन प्रमाकरणं प्रमाणमिति सिद्धम् । अनधिगतार्थ - गन्तृ प्रमाणमित्यादिकं तु तत्तद्वादिभिरेव निरस्तत्वादनादर- णीयम् । 
 
-प्रत्यक्षम् 
+## प्रत्यक्षम् 
 
-११. तानि प्रमाणानि प्रत्यक्षानुमानशब्दाख्यानि त्रीणि । १२. अत्र साक्षात्कारप्रमाकरणं प्रत्यक्षम् । अनुमानादि- व्यावृत्त्यर्थं 'साक्षात्कार' इति । दुष्टेन्द्रियजव्यावृत्त्यर्थं 'प्रमा' इति । 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-१३. तच्च प्रत्यक्षं द्विविधं - निर्विकल्पक सविकल्पकभेदात् । 
+११. तानि **प्रमाणानि** प्रत्यक्षानुमान-शब्दाख्यानि त्रीणि ।
+</details>
 
-is the cause of valid knowledge. The definition of pramāņa as one which makes known what is not al- ready known and the like are unacceptable inasmuch as they have been refuted by their own propounders.35 
-
-ording an PRATYAKSA 
-
-5 
+<details><summary>English</summary>
 
 11. These pramānas are three-- pratyaksa (per- ception), anumāna ( inference), and śabda (verbal testi- mony). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+११. तानि प्रमाणानि प्रत्यक्षानुमानशब्दाख्यानि त्रीणि ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+१२. अत्र साक्षात्-कार--प्रमा-करणम् **प्रत्यक्षम्** ।  
+अनुमानादि-व्यावृत्त्य्-अर्थम् “साक्षात्कार” इति।  
+दुष्टेन्द्रिय-ज-व्यावृत्त्य्-अर्थम् “प्रमा” इति ।
+</details>
+
+<details><summary>English</summary>
 
 12. Of these, pratyaksa is that which is the instru- ment of valid perceptual knowledge. 'Perceptual' is used to differentiate it from inference. 'Valid know- ledge' is used to differentiate it from the (erroneous) knowledge arising from the defective sense organ.36 
 
-13. And this perception is twofold, because of the difference as nirvikalpaka (indeterminate) and savi- 
+</details>
 
-Y4 
 
-प्रत्यक्षम् 
+<details><summary>मूलम्</summary>
 
-निर्विकल्पकं नाम गुणसंस्थानादिविशिष्टप्रथमपिण्डग्रहणम् । सविकल्पकं तु सप्रत्यवमर्शं गुणसंस्थानादिविशिष्टद्वितीयादि- पिण्डग्रहणम् । उभयविधमपि एतद् विशिष्टविषयमेव । अवि- शिष्टग्राहिणो ज्ञानस्यानुपलम्भादनुपपत्तेश्च । 
+१२. अत्र साक्षात्कारप्रमाकरणम् प्रत्यक्षम् । अनुमानादिव्यावृत्त्यर्थम् “साक्षात्कार” इति। दुष्टेन्द्रियजव्यावृत्त्यर्थम् “प्रमा” इति ।
+</details>
 
-१४. . ग्रहणप्रकारस्तु - आत्मा मानसा संयुज्यते. मन इन्द्रि- येण, इन्द्रियमर्थेनिति । इन्द्रियाणां प्राप्यप्रकाशकारित्वनियमात् । अतो घटादिरूपार्थस्य चक्षुरादिरूपेन्द्रियस्य च सन्निकर्षे सति 'अयं घटः' इति चाक्षुषज्ञानं जायते । एवमेव स्पार्शनप्रत्यक्षा- दयोऽपि । 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-kalpaka (determinate). What is called nirvikalpaka is the cognition of the first individual qualified by its attributes, configuration, etc. The savikalpaka is the cognition of the second (third and so on) individual qualified by its attributes, configuration, etc. grasped with retrospection. 37 In both cases this (perception) has for its object only what is qualified (by attributes etc.). Since it is not possible to possess knowledge which apprehends unqualified (objects), (the perception of non-differenced objects) is inadmissible. 
+१३. तच्च **प्रत्यक्षम्** द्विविधम् – निर्विकल्पक--सविकल्पक-भेदात् ।  
+
+**निर्विकल्पकम्** नाम गुण-संस्थानादि-विशिष्ट-प्रथम-पिण्ड-ग्रहणम् ।  
+**सविकल्पकम्** तु सप्रत्यवमर्शम् गुण-संस्थानादिविशिष्ट-द्वितीयादि-पिण्डग्रहणम् ।   
+उभय-विधम् अपि एतद् विशिष्ट-विषयम् एव -  
+अविशिष्ट-ग्राहिणो ज्ञानस्यानुपलम्भाद् अनुपपत्तेश् च ।
+</details>
+
+<details><summary>English</summary>
+
+13. And this perception is twofold, because of the difference as nirvikalpaka (indeterminate) and savikalpaka (determinate). What is called nirvikalpaka is the cognition of the first individual qualified by its attributes, configuration, etc. The savikalpaka is the cognition of the second (third and so on) individual qualified by its attributes, configuration, etc. grasped with retrospection. 37 In both cases this (perception) has for its object only what is qualified (by attributes etc.). Since it is not possible to possess knowledge which apprehends unqualified (objects), (the perception of non-differenced objects) is inadmissible.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१३. तच्च प्रत्यक्षम् द्विविधम् – निर्विकल्पकसविकल्पकभेदात् । निर्विकल्पकम् नाम गुणसंस्थानादिविशिष्टप्रथमपिण्डग्रहणम् । सविकल्पकम् तु सपत्यवमर्शम् गुण-संस्थानादिविशिष्ट द्वितीयादिपिण्डग्रहणम् । उभयविधमपि एतद् विशिष्टविषयमेव । अविशिष्टग्राहिणो ज्ञानस्यानुपलम्भादनुपपत्तेश्च ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+१४. ग्रहण-प्रकारस्तु – आत्मा मानसा संयुज्यते, मन इन्द्रियेण, इन्द्रियम् अर्थेनिति -  
+इन्द्रियाणाम् प्राप्य-प्रकाश-कारित्व-नियमात् ।  
+अतो घटादि-रूपार्थस्य चक्षुर्-आदि-रूपेन्द्रियस्य च सन्निकर्षे सति  
+“अयम् घटः” इति चाक्षुष-ज्ञानम् जायते ।  
+एवमेव स्पार्शन-प्रत्यक्षादयो ऽपि ।
+</details>
+
+
+
+<details><summary>English</summary>
 
 14. The mode of perception is thus : The indivi- dual self is joined with the mind (manas), mind with the sense organ, and the sense organ with the object of knowledge; since, as a rule, the sense organs do their function by coming into contact with the object to be cognized. Therefore when the visual sense is in contact with an object, in the form of jar etc., ocular knowledge arises in the form 'this is jar'. Thus also are the tactual and other perceptions. 
 
-१० 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१४. ग्रहणप्रकारस्तु – आत्मा मानसा संयुज्यते, मन इन्द्रियेण, इन्द्रियमर्थेनिति । इन्द्रियाणाम् प्राप्यप्रकाशकारित्वनियमात् । अतो घटादिरूपार्थस्य चक्षुरादिरूपेन्द्रि-यस्य च सन्निकर्षे सति “अयम् घटः” इति चाक्षुषज्ञानम् जायते । एवमेव स्पार्श- नप्रत्यक्षादयोऽपि ।
+</details>
+
+
+
+
+[[१०]] 
 
  
 
