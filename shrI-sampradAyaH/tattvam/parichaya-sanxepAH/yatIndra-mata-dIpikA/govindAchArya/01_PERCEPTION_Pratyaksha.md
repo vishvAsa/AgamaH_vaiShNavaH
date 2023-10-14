@@ -11,7 +11,6 @@ INVOCATORY VERSES.
 
 Yatindra-mata-dipikām. 
 
-The BLESSED LORD (Śriman-Nārāyaṇa) " alone is the Truth (tattva), adjectivated by soul 
 
 1 
 
@@ -21,15 +20,11 @@ The King of Yatis' or ascetics Ramanuja.
 
 'I have adopted Advent' for the Samskṛt word Avatara. 
 
-⚫ Sri means Blessed, metaphorically She is Lakshmı or the Mediatrix, the Mother. Nārāyaṇa is the All-N 
+⚫ Sri means Blessed, metaphorically She is Lakshmı or the Mediatrix, the Mother. 
 
- 
+Nārāyaṇa is the All-N 
 
-+ 
-
-[Advent 
-
-and non-soul, and secondless. By Love (Bhakti) and Resignation (Prapatti,) propitiated, He alone is the Means; and He alone is the Goal, adjectivated by the Spiritual Universe. Thus, by means of the texts (or passages) of the Vedanta, do they establish-viz., Vyasa, Bodhāyana, Guhadeva, Bhāruci, Brahmanandi, Dramiḍācārya, Śrī Parānkuśa, Natha,' Yamu- namuni, Yatiśvara' and others. According to their School, I proclaim, by the grace of Mahā- cārya (my Guru or Spiritual Preceptor), the 
+The BLESSED LORD (Śriman-Nārāyaṇa) " alone is the Truth (tattva), adjectivated by soul and non-soul, and secondless. By Love (Bhakti) and Resignation (Prapatti,) propitiated, He alone is the Means; and He alone is the Goal, adjectivated by the Spiritual Universe. Thus, by means of the texts (or passages) of the Vedanta, do they establish-viz., Vyasa, Bodhāyana, Guhadeva, Bhāruci, Brahmanandi, Dramiḍācārya, Śrī Parānkuśa, Natha,' Yamu- namuni, Yatiśvara' and others. According to their School, I proclaim, by the grace of Mahā- cārya (my Guru or Spiritual Preceptor), the 
 
 God, and metaphorically He is the Father. Thus Śriman-Nārāyapa - The Universe's Mother-Father Principle = God. 
 

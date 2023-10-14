@@ -21,14 +21,20 @@ INTRODUCTORY
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रीवेङ्कटेशं, +++(काञ्ची-)+++करि-शैल-नाथम्  
-श्रीदेवराजं, घटिकाद्रि-सिंहम् ।  
+श्रीदेवराजं, +++(चोल-सिंह-पुर-)+++घटिकाद्रि-सिंहम् ।  
 कृष्णेन साकं यतिराजम् ईडे  
 स्वप्ने च दृष्टान् मम देशिकेन्द्रान् ॥ १ ॥  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अथ खलु तत्रभवान् विद्वद्वर्य श्रीमन्महाचार्य मुख्यान्तेवासी श्रीनिवासाचार्य यतीन्द्रमतदीपिकानाम्नी शारीरकपरिभाषामारभ- माणः इष्टदेवदेशिकस्तवन लक्षणं मङ्गलमातनोति 'श्रीवेङ्कटेशम्' इति । श्रीवेङ्कटाचलनायक भगवन्त श्रीनिवास, श्रीकवीहस्तिगिरी वरद देवाधिराज, चोलसिंहपुरे घटिकाचले विराजमान श्रीमन्नृसिंह, गीताचार्येण श्रीकृष्णेन सह गीताभाष्यादिभिर्विशिष्टाद्वं तसिद्धान्तप्रतिष्ठापक श्रीभगवद्रामानुजमुनिं स्वप्न एतदहर्मुखेदृष्टान् एतत्प्रकरणनिर्माणार्थमादेश कुर्वाणान् स्वाचार्याश्च श्रीनिवासदासोऽह नौमीत्यर्थः ॥ १ ॥
+</details>
+
+
 <details><summary>English</summary>
 
-I glority Śrī Venkatesa, Śrī Devaraja the Lord of Kariśaila, Nrsimha (the Lord of) Ghatikadri, 3 and Yatirāja together with Kṛṣṇa;3 and my supreme teachers who were seen by me in a vision. (1) 
+I glorify Śrī Venkatesa, Śrī Devaraja the Lord of Kariśaila, Nrsimha (the Lord of) Ghatikadri, 3 and Yatirāja together with Kṛṣṇa;3 and my supreme teachers who were seen by me in a vision. (1) 
 </details>
 
 
@@ -49,6 +55,11 @@ I glority Śrī Venkatesa, Śrī Devaraja the Lord of Kariśaila, Nrsimha (the L
 <details><summary>English</summary>
 
 I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindramatadipika for the instruction of beginners. (2)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+'यतीश्वर' मिति । त्रिविधप्रबन्धमुखेन विशिष्टाद्वैत सिद्धान्तप्रतिष्ठा- पकानाचार्य चरणात् श्रीमद्भाष्यकारश्रत्यन्तदेशिक महाचार्यान् प्रणम्याह- मेतत्तत्वानभिज्ञाना तत्वजिज्ञासूनाकृते यतीन्द्रमतदीपिका करोमीत्यर्थः । एतेनैतत्सिद्धान्तसिद्धमानमेयरूपो विषय, तज्जिज्ञासुरधिकारी, एत- न्मततत्वाबोधलक्षणं साक्षात् फन च स्वप्रबन्धस्य निरदिश्यन्त । परम्परया नि श्रेयसानुबन्धित्व चास्य विद्यत इति हार्द्दम् ॥२॥ 
 </details>
 
 
@@ -77,6 +88,14 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 यथामति सङ्ग्रहेण प्रकाश्यते ।
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्र तावत् तत्त्वहितपुरुषार्थान् सगृह्णाति 'श्रीम'दिति । चिद- चित्प्रकारविशिष्ट श्रीमन्नारायण एवाद्वैतम् - एक तत्वमित्यर्थः । द्वयो- र्भावोद्विता द्वित्वम् । द्वितैव द्वैतम् । नास्ति द्वैत यस्मिन् तदर्द्धनम् । चिदचितोरपृथक्सिद्धविशेषणत्वेन ब्रह्मण्यन्तर्भूतत्वात् विशिष्टमेकमेव तत्त्वमित्यर्थः । स श्रीमान् नारायण एवं उपाय - मोक्षप्रापकः । परमे पदे श्रीवैकुण्ठे विराजमानः स एव परवासुदेवाख्य. मुक्तप्राप्य इति तत्वादित्रयसङग्रह' । 'व्यास' इत्यादि । व्यासादयोऽमी विशिष्टाद्वैत- मतस्य प्रतिपादकाः परिपोषकाः प्रतिष्ठापकाश्च मता यथायथम् । तत्र व्यासो- ब्रह्ममीमासादिप्रणेता । बोधायनो ब्रह्मसूत्रेषु वृत्तिकार. । गुहृदेवो वेदभाष्यकर्ता, श्रौतसूत्रव्याख्याता च । भारुचिश्च विष्णुस्मृतिव्यारव्या- तेति विमर्शकुशला प्राहु । ब्रह्मनन्दि टङ्काचार्यः छान्दोग्यस्य वाक्य- नामक व्याख्याकार । द्रमिडाचार्यो वाक्यस्य भाष्यकृत् । श्रीपराङ्कुशमुनिदित्र्यप्रबन्धाविष्कर्त्ता श्रीमन्नाथमुनेर्योगे दिव्यरूपत सिद्धान्त- रहस्योपदेशकश्च । श्रीमन्नानमुनि न्यायतत्वशास्त्रादिप्रणेता । श्रीमद्यामुनमुनि सिद्धित्रयादिकर्ता । यतीश्वर श्रीमद्भगवद्रामानुजमुनि श्री - भाष्यादिकृत् इति अनुसन्धेयम् ।
+
+१ - चिदचिद्विशिष्टाद्वै ततत्वम् ।
+</details>
+
+
 <details><summary>English</summary>
 
 1. Sriman Narayana alone having cit (the senti- ent) and acit (the non-sentient) for His qualifications is the sole Reality, one without a second. He alone, propitiated by devotion and self-surrender, is the means (to salvation) and He alone qualified by the non-material realm10 is the goal to be attained. Śrī Vyāsa, Bodhāyana, " Guhadeva, Bhāruci, Brahma- nandin, 13 Dramidācārya, 14 Śrī Parānkuśa, 15 Nātha, 16 Yamunamuni,17 Yatīśvara18 and others establish this by means of the Vedanta texts. Following their school I, by the grace of Mahācārya,19 proceed to expound to the best of my ability and in a summary fashion (the work) Sārīrakaparibhāsā, called Yatindramatadipikar based on the Vedanta for the instruction of beginners. 
@@ -100,6 +119,12 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 **कालस्** तु उपाधि-भेदात् त्रि-विधः ।
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+'त्रोष्येवे 'ति । 'प्रत्यक्षानुमानशब्दभेदादित्यर्थ. । 'त्रिविध' इति । भूतभविष्यद्वर्तमानभेदात् कालस्त्रिविध इत्यर्थः । 
+</details>
+
+
 <details><summary>English</summary>
 
 2. All knowable things are divided into two kinds, as pramāna (the means of valid knowledge) and prameya (object of valid knowledge). The means of valid knowledge is only threefold.22 The object of valid knowledge is twofold, because of the difference as dra- vya (substance) and adravya (non-substance). Dravya is of two kinds, as jada (material) and ajada ( im - material). Jada is of two kinds, as prakrti (primordial matter) and time. Prakrti is of the nature of twenty- four categories.28 Time is of three kinds owing to limitation. 24 
@@ -116,6 +141,8 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 ३. **अजडम्** तु द्विविधम् – पराक् प्रत्यक् चेति ।  
 अजडम् **पराग्** अपि तथा – नित्य-विभूतिर् धर्मभूतज्ञानम् चेति ।
 </details>
+
+
 
 <details><summary>English</summary>
 
