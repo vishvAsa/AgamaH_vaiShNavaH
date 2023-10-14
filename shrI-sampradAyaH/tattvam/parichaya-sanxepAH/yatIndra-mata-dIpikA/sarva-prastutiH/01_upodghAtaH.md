@@ -333,6 +333,7 @@ Arcă or the Worshippable are those unique Images presented to the eyes of all m
 
 Of those, Pramāņa or Means of knowledge is the producer (or maker or giver) of Pramā or knowledge. Means' is what is to be defined; the definition of it is that it is the producer of Pramā, knowledge'. Pramā is jñāna or 'knowledge consonant with experience in its exactitude'. Prama or knowledge is the thing to be defined. The definition is that which [[23]] has the quality of knowledge consonant with experience in its exactitude'. Supposing the definition of Prama was simply knowledge', the knowledge which sees silver in a pearl-oyster would be a definition overlapping its bounds (ati-vyāpti), (or over-pervading its legitimate limits). Hence the definition of Pramā takes the form: 'knowledge consonant with experience'. Even then the fault of over-pervasion (ati-vyāpti) remains, inasmuch as one in a moment of illusion (or delusion) may mistake the pearl-oyster for silver. Hence (the further) qualificatory clause to the definition: in its exactitude (yathâvas- thita)'. 
 
+By this expression, samsaya, anyathā-jñāna and viparīta-jñāna are avoided (which would) otherwise vitiate the definition.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -340,9 +341,44 @@ Of those, Pramāņa or Means of knowledge is the producer (or maker or giver) of
 ७. एवमुद्दिष्टानामुद्देशक्रमेण लक्षणपरीक्षे क्रियेते । तत्र प्रमाकरणम् प्रमाणम् । प्रमाणम् लक्ष्यम् । प्रमाकरणत्वम् लक्षणम् । यथावस्थितव्यवहारानुगुणज्ञानम् प्रमा। प्रमा लक्ष्यम् । यथावस्थितव्यवहारानुगुणज्ञानत्वम् लक्षणम् । “ज्ञानम् प्रमा” इत्युक्ते शुक्तिकायाम् “इदम् रजतम्” इति ज्ञाने अतिव्याप्तिः; अत उक्तम् “व्यवहारानुगुणम्” इति । एवमपि तत्रैवातिव्याप्तिः; भ्रान्तिदशायामपि “इदम् रजतम्” इति व्यवह्रियमाण-त्वात् । अत उक्तम् “यथावस्थितम्” इति । “यथावस्थित” इति पदेन संशयान्यथा-ज्ञानविपरीतज्ञानव्यावृत्तिः ।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+८. धर्मिग्रहणे मिथो-विरुद्धानेक-विशेष-स्मरणं **संशयः** -  
+यथा ऊर्द्वता-विशिष्टे “स्थाणुर् वा पुरुषो वा” इति ज्ञानम् ।  
+
+**अन्यथा-ज्ञानम्** नाम धर्मि-विपर्यासः -  
+यथा कर्तृत्वेन भासमाने आत्मनि  
+कु-युक्तिभिः कर्तृत्वस्य भ्रान्तत्वोपपादनम् ।  
+
+**विपरीत-ज्ञानम्** नाम धर्मि-विपर्यासः -  
+यथा वस्तुनो वस्त्व्-अन्तर-ज्ञानम् ।
+</details>
+
+<details><summary>English</summary>
+
+8. Samśaya is the recollection of several mutually contradictory attributes when a thing is apprehended; for instance, the (dubitative) cognition in respect of a tall object, 'Is this a stump or man?". 
+   
+What is called anyathājñāna is the misapprehension of one attribute for another; for instance, the predication made by sophistic arguments, that the agency (of the individual self) is a delusion, whereas the individual self shines as an agent.  
+   
+What is called viparītajñāna is the misappre- hension of one thing for another; for instance, the cognition of another object in the place of the (intend- ed) object. 32 
+</details>
+
+<details><summary>Keith</summary>
+
+Samsaya or Doubt is the apperception of mutually contradicting attributes in a thing (dharmi) to be apprehended. For example, the doubt whether a long-looking or erect object is post or person. 
+
+Anyathā-jśāna or Wrong Apprehension is the mistaken apperception of one attribute for another. For example, the proposition which ascribes the agency in the real agent, soul, as due to illusion. (This is dharma-viparyāsa). 
+
+Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one thing itself for another. (For example the mistaking of the post itself for the person). (This is dharmi- viparyāsa). 
+</details>
 
 
-8. Samśaya is the recollection of several mutually contradictory attributes when a thing is apprehended; for instance, the (dubitative) cognition in respect of a tall object, 'Is this a stump or man?". What is called anyathājñāna is the misapprehension of one attribute for another; for instance, the predication made by sophistic arguments, that the agency (of the individual self) is a delusion, whereas the individual self shines as an agent. What is called viparītajñāna is the misappre- hension of one thing for another; for instance, the cognition of another object in the place of the (intend- ed) object. 32 
+<details><summary>मूलम्</summary>
+
+८. धर्मिग्रहणे मिथोविरुद्धानेकविशेष स्मरणम् संशयः । यथा ऊर्द्वता विशिष्टे “स्थाणुर्वा पुरुषो वा” इति ज्ञानम् । अन्यथाज्ञानम् नाम धर्मि विपर्यासः । यथा कर्तृत्वेन भासमाने आत्मनि कुयुक्तिभिः कर्तृत्वस्य भ्रान्तत्वोपपादनम् । विपरीत-ज्ञानम् नाम धर्मिविपर्यासः । यथा वस्तुनो वस्त्वन्तरज्ञानम् ।
+</details>
+
+
 
 ९. 
 

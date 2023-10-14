@@ -131,7 +131,7 @@ See Tattvatraya of Lokācārya (No. 2, in the list, P. 570. Op. cit.,) for an ex
 An examination will now be conducted in order of this specification (or enunciation) above made (of the categories).
 
 
-By this expression, samsaya, anya- of Sesha or the Serpent. For symbology see Introd: to our Lives of Saints. See note 49 infra. 
+Sesha or the Serpent. For symbology see Introd: to our Lives of Saints. See note 49 infra. 
 
 28 
 
@@ -147,13 +147,7 @@ PERCEPTION
 
 9 
 
-thā-jñāna and viparīta-jñāna are avoided (which would) otherwise vitiate the definition. 
 
-Samsaya or Doubt is the apperception of mutually contradicting attributes in a thing (dharmi) to be apprehended. For example, the doubt whether a long-looking or erect object is post or person. 
-
-Anyathā-jśāna or Wrong Apprehension is the mistaken apperception of one attribute for another. For example, the proposition which ascribes the agency in the real agent, soul, as due to illusion. (This is dharma-viparyāsa). 
-
-Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one thing itself for another. (For example the mistaking of the post itself for the person). (This is dharmi- viparyāsa). 
 
 A definition (or sign of a thing) has three faults, (1) a-vyāpti, (2) ati-vyāpti and (3) a-sam- bhava". A-vyāpti or non-pervasion is the non- existence of the sign" (or definition) in the thing signified" (or to be defined). Ati-vyāpti 
 
