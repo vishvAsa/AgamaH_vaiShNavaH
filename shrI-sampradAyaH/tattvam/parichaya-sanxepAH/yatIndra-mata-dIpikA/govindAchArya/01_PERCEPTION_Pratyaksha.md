@@ -24,7 +24,7 @@ The King of Yatis' or ascetics Ramanuja.
 
 Nārāyaṇa is the All-N 
 
-The BLESSED LORD (Śriman-Nārāyaṇa) " alone is the Truth (tattva), adjectivated by soul and non-soul, and secondless. By Love (Bhakti) and Resignation (Prapatti,) propitiated, He alone is the Means; and He alone is the Goal, adjectivated by the Spiritual Universe. Thus, by means of the texts (or passages) of the Vedanta, do they establish-viz., Vyasa, Bodhāyana, Guhadeva, Bhāruci, Brahmanandi, Dramiḍācārya, Śrī Parānkuśa, Natha,' Yamu- namuni, Yatiśvara' and others. According to their School, I proclaim, by the grace of Mahā- cārya (my Guru or Spiritual Preceptor), the 
+
 
 God, and metaphorically He is the Father. Thus Śriman-Nārāyapa - The Universe's Mother-Father Principle = God. 
 
@@ -46,15 +46,9 @@ PERCEPTION.
 
 3 
 
-Śariraka-Paribhasha," named Yatindra-mata- Dipika (or the Light of Ramanuja's School),- which follows the Vedanta-for the instruction 
 
-of students. 
 
-All the sum of things are divisible into two Divisions, (1) Pramāṇa, Authority, or Measurer or Means (of knowledge), and Prameya or the Measured or Object (or Objective) (of know- jedge). 
 
-The Means (of knowledge) is only threefold. The Object (of knowledge) is twofold, Dravya or the Thing (or Substance), and A-dravya or the Non-Thing (or Non-Substance). 
-
-Dravya or Substance is of two kinds, Jada or the Non-sentient " and A-jada or the Sentient ". 
 
 10 Literally: Bodied-Technology; or a technology, terminology or phraseology pertaining to the Cor- poreated. The Corporeated is the All-bodied God (Nārāyaṇa) and that treatise which discusses, or discourses on, Him, is also called the Sariraka, or the Philosophy of the Corporeated or The Philosophy and Religion of the Vedas. 
 
@@ -66,21 +60,8 @@ Dravya or Substance is of two kinds, Jada or the Non-sentient " and A-jada or th
 
 [Advent 
 
-Jada or the Non-sentient is twofold, viz., Prakrti or Matter and Kala or Time. 
 
-Prakrti or Matter is composed of twenty- four (sub-) principles (tattva). 
 
-Kala or Time is, by reason of limitation or condition (upadhi), threefold. 
-
-A-jada or the Sentient is twofold; Parāk or outward (objective) and Pratyak or Inward (subjective). 
-
-Parak or Outward is also twofold: the Nitya- vibhuti or Eternal Estate, and the Dharma- bhūta-jñāna or attributive (or adjectival) con- sciousness or cognition. 
-
-Pratyak or Inward is also twofold: Jwa or the Individual Soul and Iśvara or Ruling (Universal) Soul (God). 
-
-Java or Individual Soul is threefold: (1) Bad- dha or the Bound, (2) Mukta or the Freed, and (3) Nitya or the Eternal (or Free)." 
-
-The Baddha or bound soul is also twofold: 
 
 "Cf: Pp. 572 J. R. A. S. 
 
@@ -95,16 +76,6 @@ A.D. 1910
 PERCEPTION. 
 
 5 
-
-Bubhukshu or Pleasure-desirer," and Mumu- kshu or Freedom-desirer." 
-
-The Bubhukshu or Pleasure-desirer is two- fold: the addicted to Artha" or wealth, and Kāma" or gratifications; and the devoted to Dharma" or Duties. 
-
-The devoted to Dharma or duties are two- fold: the devoted to godlings, and the devoted to Bhagavan " (God). 
-
-The Mumukshu or Freedom-desirer is two- fold: the addicted to Kaivalya or Isolation," and the devoted to Moksha or Salvation." 
-
-The Moksha or Salvation-seeker is twofold: 
 
 18 Pleasure here is meant for material enjoyments or sense-delights, either on earth or transmundane spheres such as Svarga; or what may be called the material paradise. 
 
@@ -128,17 +99,6 @@ J. R A. S. for details.
 
 [Advent 
 
-the Bhakta1 or God-lover, and the Prapanna” or God-resigned. 
-
-The Prapanna or God-resigned is twofold: the Ekūnti or the One-pointed, and the Para- mâikanti or the One-only-pointed. 
-
-The Paramaikanti is twofold: the Drpta" or The Postulant-Patient, and the Arta" or The Postulant-Impatient. 
-
-Iśvara or God Supreme is (hypostatically) existent in five modes, viz., (1) Para or the Transcendant, (2) Vyuha or the Grouped, (3) Vibhava or the Incarnational (4) Antaryāmi or the In-Ruler, and (5) Arca or the Worship- pable."9 
-
-Para or the Transcendant is Uniform (or the Immutable Spirit-Unit). 
-
-Vyuha or the Grouped is fourfold: (1) Vasu- deva, (2) Sankarshaṇa, (3) Pradyumna, and (4) Aniruddha. Keśava and others are derivative 
 
 1o & **, See Op. cit. Pp: 581 ff. 
 
@@ -152,11 +112,6 @@ PERCEPTION.
 
 7 
 
-(Logal) groups. The Matsya or the Fish and other Incarnations are innumerable." 
-
-Antaryāmi or the In-Ruler dwells in every body. 
-
-Arcă or the Worshippable are those unique Images presented to the eyes of all men in such Holy Shrines as Śrirangam.” 
 
 An examination will now be conducted in order of this specification (or enunciation) above made (of the categories). 
 

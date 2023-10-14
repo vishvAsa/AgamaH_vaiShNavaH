@@ -101,6 +101,10 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 1. Sriman Narayana alone having cit (the senti- ent) and acit (the non-sentient) for His qualifications is the sole Reality, one without a second. He alone, propitiated by devotion and self-surrender, is the means (to salvation) and He alone qualified by the non-material realm10 is the goal to be attained. Śrī Vyāsa, Bodhāyana, " Guhadeva, Bhāruci, Brahma- nandin, 13 Dramidācārya, 14 Śrī Parānkuśa, 15 Nātha, 16 Yamunamuni,17 Yatīśvara18 and others establish this by means of the Vedanta texts. Following their school I, by the grace of Mahācārya,19 proceed to expound to the best of my ability and in a summary fashion (the work) Sārīrakaparibhāsā, called Yatindramatadipikar based on the Vedanta for the instruction of beginners. 
 </details>
 
+<details><summary>Keith</summary>
+
+The BLESSED LORD (Śriman-Nārāyaṇa) " alone is the Truth (tattva), adjectivated by soul and non-soul, and secondless. By Love (Bhakti) and Resignation (Prapatti,) propitiated, He alone is the Means; and He alone is the Goal, adjectivated by the Spiritual Universe. Thus, by means of the texts (or passages) of the Vedanta, do they establish-viz., Vyasa, Bodhāyana, Guhadeva, Bhāruci, Brahmanandi, Dramiḍācārya, Śrī Parānkuśa, Natha,' Yamu- namuni, Yatiśvara' and others. According to their School, I proclaim, by the grace of Mahā- cārya (my Guru or Spiritual Preceptor), the Śariraka-Paribhasha," named Yatindra-mata- Dipika (or the Light of Ramanuja's School),- which follows the Vedanta-for the instruction of students.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -124,6 +128,20 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 'त्रोष्येवे 'ति । 'प्रत्यक्षानुमानशब्दभेदादित्यर्थ. । 'त्रिविध' इति । भूतभविष्यद्वर्तमानभेदात् कालस्त्रिविध इत्यर्थः । 
 </details>
 
+<details><summary>Keith</summary>
+
+All the sum of things are divisible into two Divisions, (1) Pramāṇa, Authority, or Measurer or Means (of knowledge), and Prameya or the Measured or Object (or Objective) (of know- jedge). 
+
+The Means (of knowledge) is only threefold. The Object (of knowledge) is twofold, Dravya or the Thing (or Substance), and A-dravya or the Non-Thing (or Non-Substance). 
+
+Dravya or Substance is of two kinds, Jada or the Non-sentient " and A-jada or the Sentient ". 
+
+Jada or the Non-sentient is twofold, viz., Prakrti or Matter and Kala or Time.
+
+Prakrti or Matter is composed of twenty- four (sub-) principles (tattva).
+
+Kala or Time is, by reason of limitation or condition (upadhi), threefold.
+</details>
 
 <details><summary>English</summary>
 
@@ -142,7 +160,17 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 अजडम् **पराग्** अपि तथा – नित्य-विभूतिर् धर्मभूतज्ञानम् चेति ।
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+अजड - स्वयं प्रकाशं द्रव्यम् । पराक्- परस्मै स्वय भास- मान परागत्र विवक्षितम् । प्रत्यक्-स्वस्मै स्वयं भावमानम् । परस्मै परत एव भासमान पराग्वस्तु जडमिति विवेक । 
+</details>
+
+<details><summary>Keith</summary>
+
+A-jada or the Sentient is twofold; Parāk or outward (objective) and Pratyak or Inward (subjective). 
+
+Parak or Outward is also twofold: the Nitya- vibhuti or Eternal Estate, and the Dharma- bhūta-jñāna or attributive (or adjectival) con- sciousness or cognition. 
+</details>
 
 <details><summary>English</summary>
 
@@ -168,6 +196,13 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 **परमैकान्ती** द्विविधः – दृप्तार्त-भेदात् ।
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एकान्ती - भगवत एव मोक्षमैहिकं च फलं कामयमान - अन्-अन्य-दैवत इति यावत् ।  
+परमैकान्ती - भगवत एव तद्-अनुभव-सेवा--तद्-उपकरणातिरिक्तं किम् अपि फलम् अकामयमानः । इमः -- वर्तमान देहधारणक्षम देहान्तरान्वयासहिष्णु, । आर्तः -- वर्तमानदेहसम्बन्ध मध्य सहमानो भग- वत्प्रासाबुत्कटत्व रावान् । 
+</details>
+
+
 <details><summary>English</summary>
 
 4. The pratyak is also of two kinds, because of the difference as jīva (the individual self) and Iśvara. Jiva is of three kinds, because of the difference as baddha (the bound jīva in sarsāra), mukta (the releas- ed jīva) and nitya (the eternally free). The baddha is of two kinds, because of the difference as bubhuksu25 (the pleasure-seeker) and mumukṣu26 (the salvation-seeker). The bubhukṣu is of two kinds, as arthakāmapara (the votary of artha and kama) and dharmapara (the votary of dharma). The dharmapara is of two kinds, as the votary of various gods and the votary of Bhagavan. 
@@ -175,6 +210,29 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 Mumukşu is of two kinds, as the votary of self-realiza- tion (kaivalya) and the votary of release (moksa). The votary of mokṣa is of two kinds, as bhakta (lover of God) and prapanna (one who has resigned his self to God). The prapanna is of two kinds, as ekāntin (one- pointed) and parama-ekantin (extremely one-pointed). The parama-ekāntin is of two kinds, because of the difference as drpta (the patient aspirant ) and ārta (the impatient aspirant ). 
 </details>
 
+<details><summary>Keith</summary>
+
+Pratyak or Inward is also twofold: Jwa or the Individual Soul and Iśvara or Ruling (Universal) Soul (God).
+
+Jiva or Individual Soul is threefold: (1) Bad- dha or the Bound, (2) Mukta or the Freed, and (3) Nitya or the Eternal (or Free)."
+
+The Baddha or bound soul is also twofold:
+ Bubhukshu or Pleasure-desirer," and Mumu- kshu or Freedom-desirer." 
+
+The Bubhukshu or Pleasure-desirer is two- fold: the addicted to Artha" or wealth, and Kāma" or gratifications; and the devoted to Dharma" or Duties. 
+
+The devoted to Dharma or duties are two- fold: the devoted to godlings, and the devoted to Bhagavan " (God). 
+
+The Mumukshu or Freedom-desirer is two- fold: the addicted to Kaivalya or Isolation," and the devoted to Moksha or Salvation." 
+
+The Moksha or Salvation-seeker is twofold: 
+
+the Bhakta1 or God-lover, and the Prapanna” or God-resigned.
+
+The Prapanna or God-resigned is twofold: the Ekūnti or the One-pointed, and the Para- mâikanti or the One-only-pointed.
+
+The Paramaikanti is twofold: the Drpta" or The Postulant-Patient, and the Arta" or The Postulant-Impatient.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -184,33 +242,48 @@ Mumukşu is of two kinds, as the votary of self-realiza- tion (kaivalya) and the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-५. पञ्चधावस्थित **ईश्वरः** – पर-व्यूह-विभवान्तर्यावतार-भेदात् । पर एकधा । व्यूहश्च- तुर्द्धा – वासुदेवसङ्कर्षणप्रद्युम्नानिरुद्धभेदात् । केशवादि व्यूहान्तरम् । मत्स्यादयो विभवाः पुनरनन्ताः । अन्तर्यामी प्रतिशरीरमवस्थितः । अर्चावतारस्तु – श्रीरङ्ग- वेङ्कटाद्रिहस्तिगिरियादवाद्रिघटिकाचलादिषु सकलमनुजनयनविषयताम् गतो मूर्तिविशेषः ।
+५. पञ्चधावस्थित **ईश्वरः** – पर-व्यूह-विभवान्तर्याम्यवतार-भेदात् ।  
+**पर** एकधा ।  
+**व्यूहश्** चतुर्द्धा – वासुदेव-सङ्कर्षण-प्रद्युम्नानिरुद्ध-भेदात् ।  
+केशवादि **व्यूहान्तरम्** ।  
+मत्स्यादयो **विभवाः** पुनर् अनन्ताः ।  
+**अन्तर्यामी** प्रतिशरीरम् अवस्थितः ।  
+**अर्चावतारस्** तु – श्रीरङ्ग-वेङ्कटाद्रि--हस्ति-गिरि--यादवाद्रि--घटिकाचलादिषु  
+सकल-मनुज-नयन-विषयताम् गतो मूर्ति-विशेषः ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+'विभवा' इति । देव मनुष्यादिस्वविभूतिसजातीया भगवतोऽवद्वारा उपेन्द्र रामकृष्णादिका विभवा इत्यर्थः । 
+</details>
+
+<details><summary>English</summary>
+
+5. Iśvara abides in five forms, because of the difference as Para, Vyūha, Vibhava, Antaryāmin and Arcā. Para (the self-transcendent absolute) is uniform (i.e., single and complete). The Vyuha is fourfold, because of the difference as Vasudeva, Sankarṣaṇa, Pradyumna and Aniruddha. Kesava etc. are other types of Vyuhas. Matsya and others are Vibhavas ( incarnations), and they are numberless. The Antar- yāmin (the indweller ) abides in every body. The incar- nations of Arcă are those special forms presented to the vision of all men in sacred shrines like Srirangam, 27 Venkatadri, 28 Hastigiri, Yadavadri, Ghatikācala, 30  etc. 
+
+</details>
+
+<details><summary>Keith</summary>
+
+Iśvara or God Supreme is (hypostatically) existent in five modes, viz., (1) Para or the Transcendant, (2) Vyuha or the Grouped, (3) Vibhava or the Incarnational (4) Antaryāmi or the In-Ruler, and (5) Arca or the Worship- pable."9
+
+Para or the Transcendant is Uniform (or the Immutable Spirit-Unit).
+
+Vyuha or the Grouped is fourfold: (1) Vasu- deva, (2) Sankarshaṇa, (3) Pradyumna, and (4) Aniruddha. Keśava and others are derivative (Logal) groups. The Matsya or the Fish and other Incarnations are innumerable." 
+
+Antaryāmi or the In-Ruler dwells in every body. 
+
+Arcă or the Worshippable are those unique Images presented to the eyes of all men in such Holy Shrines as Śrirangam.” 
+
 </details>
 
 <details><summary>मूलम्</summary>
 
-५. पञ्चधावस्थित ईश्वरः – परव्यूहविभवान्तर्यावतारभेदात् । पर एकधा । व्यूहश्च- तुर्द्धा – वासुदेवसङ्कर्षणप्रद्युम्नानिरुद्धभेदात् । केशवादि व्यूहान्तरम् । मत्स्यादयो विभवाः पुनरनन्ताः । अन्तर्यामी प्रतिशरीरमवस्थितः । अर्चावतारस्तु – श्रीरङ्ग- वेङ्कटाद्रिहस्तिगिरियादवाद्रिघटिकाचलादिषु सकलमनुजनयनविषयताम् गतो मूर्तिविशेषः ।
+५. पञ्चधावस्थित ईश्वरः – परव्यूहविभवान्तर्याम्यवतारभेदात् । पर एकधा । व्यूहश्च- तुर्द्धा – वासुदेवसङ्कर्षणप्रद्युम्नानिरुद्धभेदात् । केशवादि व्यूहान्तरम् । मत्स्यादयो विभवाः पुनरनन्ताः । अन्तर्यामी प्रतिशरीरमवस्थितः । अर्चावतारस्तु – श्रीरङ्ग- वेङ्कटाद्रिहस्तिगिरियादवाद्रिघटिकाचलादिषु सकलमनुजनयनविषयताम् गतो मूर्तिविशेषः ।
 </details>
 
 
 
-5. Iśvara abides in five forms, because of the difference as Para, Vyūha, Vibhava, Antaryāmin and Arcā. Para (the self-transcendent absolute) is uniform (i.e., single and complete). The Vyuha is fourfold, because of the difference as Vasudeva, Sankarṣaṇa, Pradyumna and Aniruddha. Kesava etc. are other types of Vyuhas. Matsya and others are Vibhavas ( incarnations), and they are numberless. The Antar- yāmin (the indweller ) abides in every body. The incar- nations of Arcă are those special forms presented to the vision of all men in sacred shrines like Srirangam, 27 
-
-उपोद्घातः 
-
-हस्तिगिरियादवाद्विघटिकाचलादिषु सकलमनु जनयनविषयतां गतो 
-
-मूर्त्तिविशेषः । 
-
-६. अद्रव्यं तु सत्त्वरजस्तमः शब्दस्पर्शरूपरसगन्धसंयोग- शक्तिभेदाद्दशधैव । 
-
-७. एवमुद्दिष्टानामुद्देशक्रमेण लक्षणपरीक्षे क्रियेते । तत्र प्रमाकरणं प्रमाणस् । प्रमाणं लक्ष्यम् । प्रमाकरणत्वं लक्षणम् । यथावस्थितव्यवहारानुगुणज्ञानं प्रमा । प्रमा लक्ष्यम् । यथावस्थित- व्यवहारानुगुणज्ञानत्वं लक्षणम् । 'ज्ञानं प्रमा' इत्युक्ते शुक्तिकायाम् 
-
-29 
-
-Venkatadri, 28 Hastigiri, Yadavadri, Ghatikācala, 30 
-
-etc. 
 
 6. Adravya is of ten kinds, because of the differ- ence as sattva (goodness), rajas (passion or activity), tamas (darkness or inertia), Śabia (sound), sparśa (touch), rūpa (colour), rasa (taste), gandha ( smell ), samyoga (conjunction) and śakti (potentiality). 
 
