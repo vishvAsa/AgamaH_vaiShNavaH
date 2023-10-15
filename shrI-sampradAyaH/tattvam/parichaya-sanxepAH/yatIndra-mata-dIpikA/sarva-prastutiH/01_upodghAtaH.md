@@ -558,17 +558,65 @@ Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one th
 
 [[१०]] 
 
- 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-१५. द्रव्यग्रहणे संयोगः संबन्धः । द्रव्यगतरूपादिग्रहणे समवायानङ्गीकारात् संयुक्ताश्रयणसंबन्धः । 
+१५. द्रव्य-ग्रहणे **संयोगः** संबन्धः ।  
+द्रव्य-गत-रूपादि-ग्रहणे समवायानङ्गीकारात्  
+संयुक्ताश्रयण-संबन्धः ।
+</details>
 
-१६. निर्विकल्पकस विकल्पकभिन्नं प्रत्यक्षं द्विविधम् - अर्वा - चीनम् अनर्वाचीनं चेति । अर्वाचीनं पुनर्द्विविधम् - इन्द्रियसापेक्षं तदनपेक्षं चेति । तदनपेक्षं च द्विविधम् - स्वयंसिद्धं दिव्यं चेति । स्वयं सिद्धं योगजन्यम् । दिव्यं भगवत्प्रसादजन्यम् । अनर्वाचीनं तु इन्द्रियानपेक्षं मुक्तनित्येश्वरज्ञानम् । अनर्वाचीनं तु प्रसङ्गा- दुक्तम् । एवं साक्षात्कारप्रमाकरणं प्रत्यक्षमिति सिद्धम् । 
+<details><summary>English</summary>
 
 15. Conjunction ( samyoga) is the sense-relation when a substance is perceived. When the colour of a substance is perceived, the sense-relation is dependence in what is conjoined (with the sense organ ), 38 since we do not admit (the relation of ) 'inherence'. 39 
+</details>
 
-16. Nirvikalpaka and savikalpaka perceptions are twofold, as the arvācīna (recent) and anarvācīna (the ancient ). The arvācīna is again twofold, as the dependent of sense and the independent cf sense. The independent of sense is twofold, as the self-accomplish- ed and the divine. The self-accomplished is the result of yoga. The divine (perception) is what is engendered by the grace of Bhagavan. The anarvācīna does not require the aid of the senses; it is the knowledge of the liberated (selfs), the eternals and Iśvara. The anar- vācīna has been referred to owing to the context. Thus it is established that pratyakşa is the instrument of valid perceptual knowledge.प्रत्यक्षम् 
 
-११ 
+<details><summary>मूलम्</summary>
+
+१५. द्रव्यग्रहणे संयोगः संबन्धः । द्रव्यगतरूपादिग्रहणे समवायानङ्गीकारात् संयुक्ताश्रयणसंबन्धः ।
+</details>
+ 
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+१६. **निर्विकल्पक-सविकल्पक-भिन्नम् प्रत्यक्षम्** द्विविधम् –  
+अर्वाचीनम् अनर्वाचीनम् चेति ।  
+
+**अर्वाचीनम्** पुनर् द्वि-विधम् – इन्द्रिय-सापेक्षम् तद्-अनपेक्षम् चेति ।  
+**तद्-अनपेक्षम्** च द्वि-विधम् – स्वयं-सिद्धम् दिव्यम् चेति ।  
+**स्वयं-सिद्धम्** योग-जन्यम् ।  
+**दिव्यम्** भगवत्-प्रसाद-जन्यम् ।  
+
+**अनर्वाचीनम्** तु इन्द्रियानपेक्षम् मुक्त-नित्येश्वर-ज्ञानम् ।  
+अनर्वाचीनं तु प्रसङ्गादुक्तम् ।  
+एवम् साक्षात्-कार-प्रमा-करणम् प्रत्यक्षम् इति सिद्धम् ।
+</details>
+
+<details><summary>English</summary>
+
+16. Nirvikalpaka and savikalpaka perceptions are twofold, as the arvācīna (recent) and anarvācīna (the ancient ). The arvācīna is again twofold, as the dependent of sense and the independent cf sense. The independent of sense is twofold, as the self-accomplish- ed and the divine. The self-accomplished is the result of yoga. The divine (perception) is what is engendered by the grace of Bhagavan. The anarvācīna does not require the aid of the senses; it is the knowledge of the liberated (selfs), the eternals and Iśvara. The anar- vācīna has been referred to owing to the context. Thus it is established that pratyakşa is the instrument of valid perceptual knowledge.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१६. निर्विकल्पकसविकल्पकभिन्नम् प्रत्यक्षम् द्विविधम् – अर्वाचीनम् अनर्वाचीनम् चेति । अर्वाचीनम् पुनर्द्विविधम् – इन्द्रियसापेक्षम् तदनपेक्षम् चेति । तदनपेक्षम् च द्विविधम् – स्वयंसिद्धम् दिव्यम् चेति । स्वयम् सिद्धम् योगजन्यम् । दिव्यम् भगवत्प्रसादजन्यम् । अनर्वाचीनम् तु इन्द्रियानपेक्षम् मुक्तनित्येश्वरज्ञानम् । अनर्वाचीनम्म् तु प्रसङ्गादुक्तम् । एवम् साक्षात्कारप्रमाकरणम् प्रत्यक्षमिति सिद्धम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+१७, ननु यथावस्थितव्यवहारानुगुणज्ञानम् प्रमेत्युक्तम् । एवञ्च स्मृतेरपि यथाव-स्थितव्यवहारानुगुणत्वेन प्रामाण्यात् स्मृतेरपि प्रमाणत्वेन परिगणनाच्च त्रीण्येव प्रमाणानीति कथम् प्रतिपाद्यते? इति चेत्, उच्यतेः – स्मृतेः प्रामाण्याङ्गीकारेऽपि संस्कारसापेक्षत्वात् तस्य प्रत्यक्षमूलत्वात् मूलभूतप्रत्यक्षेऽन्तर्भाव इति न पृथक् प्रमाणत्वकल्पनम् । अतस्त्रीण्येवेति प्रमाणानि संभवन्ति ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+१७, ननु यथावस्थितव्यवहारानुगुणज्ञानम् प्रमेत्युक्तम् । एवञ्च स्मृतेरपि यथाव-स्थितव्यवहारानुगुणत्वेन प्रामाण्यात् स्मृतेरपि प्रमाणत्वेन परिगणनाच्च त्रीण्येव प्रमाणानीति कथम् प्रतिपाद्यते? इति चेत्, उच्यतेः – स्मृतेः प्रामाण्याङ्गीकारेऽपि संस्कारसापेक्षत्वात् तस्य प्रत्यक्षमूलत्वात् मूलभूतप्रत्यक्षेऽन्तर्भाव इति न पृथक् प्रमाणत्वकल्पनम् । अतस्त्रीण्येवेति प्रमाणानि संभवन्ति ।
+</details>
+
+
+
+[[११]] 
 
 १७. ननु यथावस्थितव्यवहारानुगुणज्ञानं प्रमेत्युक्तम् । एवञ्च स्मृतेरपि यथावस्थितव्यवहारानुगुणत्वेन प्रामाण्यात् स्मृतेरपि प्रमाणत्वेन परिगणनाच्च त्रीण्येव प्रमाणानीति कथं प्रतिपाद्यते ? इति चेत्, उच्यतेः - स्मृतेः प्रामाण्याङ्गीकारेऽपि संस्कारसापेक्षत्वात् तस्य प्रत्यक्षमूलत्वात् मूलभूत प्रत्यक्षेऽन्तर्भाव इति न पृथक् प्रमाणत्वकल्पनम् । अतस्त्रीण्येवेति प्रमाणानि संभवन्ति । 
 
