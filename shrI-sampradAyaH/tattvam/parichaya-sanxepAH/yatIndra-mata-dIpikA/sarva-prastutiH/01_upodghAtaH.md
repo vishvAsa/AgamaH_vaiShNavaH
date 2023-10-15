@@ -604,10 +604,40 @@ Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one th
 १६. निर्विकल्पकसविकल्पकभिन्नम् प्रत्यक्षं द्विविधम् – अर्वाचीनम् अनर्वाचीनं चेति । अर्वाचीनम् पुनर्द्विविधम् – इन्द्रियसापेक्षं तदनपेक्षं चेति । तदनपेक्षं च द्विविधम् – स्वयंसिद्धं दिव्यं चेति । स्वयम् सिद्धं योगजन्यम् । दिव्यम् भगवत्प्रसादजन्यम् । अनर्वाचीनं तु इन्द्रियानपेक्षम् मुक्तनित्येश्वरज्ञानम् । अनर्वाचीनम्ं तु प्रसङ्गादुक्तम् । एवम् साक्षात्कारप्रमाकरणम् प्रत्यक्षमिति सिद्धम् ।
 </details>
 
+
+
+<details><summary>English</summary>
+
+[[११]]
+Xi 
+
+17. Now, pramā was defined as that knowledge which is adapted to practical interests of life as they really are. But exactly the recollection ( smrti) also has the quality of being adapted to experience as it really is; since recollection also may be considered as a pra- māṇa, how was it stated that the pramaņas are three only ? If this be asked, it is said in reply : Even if re- collection is admitted as pramāṇa, it has to depend on reminiscent impressions (samskāra); since perception is the origin of reniniscent impression, it (recollection) is brought under perception which is the original cause,40 and so there is no need to regard it as a separate pramāṇa. Therefore the pramāņas are three only. 
+
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-१७, ननु यथावस्थितव्यवहारानुगुणज्ञानम् प्रमेत्युक्तम् । एवञ्च स्मृतेरपि यथाव-स्थितव्यवहारानुगुणत्वेन प्रामाण्यात् स्मृतेरपि प्रमाणत्वेन परिगणनाच्च त्रीण्येव प्रमाणानीति कथम् प्रतिपाद्यते? इति चेत्, उच्यतेः – स्मृतेः प्रामाण्याङ्गीकारेऽपि संस्कारसापेक्षत्वात् तस्य प्रत्यक्षमूलत्वात् मूलभूतप्रत्यक्षेऽन्तर्भाव इति न पृथक् प्रमाणत्वकल्पनम् । अतस्त्रीण्येवेति प्रमाणानि सम्भवन्ति ।
+१७. 
+
+> ननु यथावस्थित-व्यवहारानुगुण-ज्ञानम् **प्रमेत्य्** उक्तम् ।  
+एवञ्च स्मृतेर् अपि यथावस्थित-व्यवहारानुगुणत्वेन प्रामाण्यात्  
+स्मृतेर् अपि प्रमाणत्वेन परिगणनाच् च  
+त्रीण्य् एव प्रमाणानीति कथम् प्रतिपाद्यते? 
+
+इति चेत्, उच्यतेः –  
+स्मृतेः प्रामाण्याङ्गीकारेऽपि  
+संस्कार-सापेक्षत्वात् तस्य प्रत्यक्ष-मूलत्वात्,  
+मूल-भूत-प्रत्यक्षे ऽन्तर्भाव इति  
+न पृथक् प्रमाणत्व-कल्पनम् ।  
+अतस् **त्रीण्य् एवेति** प्रमाणानि सम्भवन्ति ।
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+'परिगणना' दिति । 'स्मृतिः प्रत्यक्षमैतिह्यमनुमान, चतुर्विधम् प्रमाण' मिति वचन इति शेषः । प्रमाणशब्दस्तन्त्रेण प्रमातत्करणो- भयवाची भवति । प्रमाकरणस्य प्रमाणत्वे प्रमा तत्फल भवति । प्रमा- यास्तथात्वे चार्थपरिच्छित्ति होनेोपादानादिर्वा फल भवति । अर्थपरि- च्छित्तिर्नाम हेयोपादेयादिविवेकः । 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -616,15 +646,9 @@ Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one th
 
 
 
-[[११]] 
-
-१७. ननु यथावस्थितव्यवहारानुगुणज्ञानं प्रमेत्युक्तम् । एवञ्च स्मृतेरपि यथावस्थितव्यवहारानुगुणत्वेन प्रामाण्यात् स्मृतेरपि प्रमाणत्वेन परिगणनाच्च त्रीण्येव प्रमाणानीति कथं प्रतिपाद्यते ? इति चेत्, उच्यतेः - स्मृतेः प्रामाण्याङ्गीकारेऽपि संस्कारसापेक्षत्वात् तस्य प्रत्यक्षमूलत्वात् मूलभूत प्रत्यक्षेऽन्तर्भाव इति न पृथक् प्रमाणत्वकल्पनम् । अतस्त्रीण्येवेति प्रमाणानि सम्भवन्ति । 
 
 १८. स्मृतिर्नाम पूर्वानुभवजन्यसंस्कार मात्र जन्यं ज्ञानम् । संस्कारोद्बोधश्च ‘सदृशादृष्टचिन्ताद्याः स्मृतिबीजस्य बोधका : ' 
 
-Xi 
-
-17. Now, pramā was defined as that knowledge which is adapted to practical interests of life as they really are. But exactly the recollection ( smrti) also has the quality of being adapted to experience as it really is; since recollection also may be considered as a pra- māṇa, how was it stated that the pramaņas are three only ? If this be asked, it is said in reply : Even if re- collection is admitted as pramāṇa, it has to depend on reminiscent impressions (samskāra); since perception is the origin of reniniscent impression, it (recollection) is brought under perception which is the original cause,40 and so there is no need to regard it as a separate pramāṇa. Therefore the pramāņas are three only. 
 
 18. What is called recollection is the knowledge derived only from the reminiscent impressions caused by a prior experience. And what recalls the reminiscent impression is as follows: 'Those that rouse the seed of recollection are sadrśa (similarity), adrśta (unseen effect of previous karma), cinta (deep thinking), etc.' In accordance with what has been said (above), the ( re- 
 
