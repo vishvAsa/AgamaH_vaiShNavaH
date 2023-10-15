@@ -1591,6 +1591,49 @@ Xi
 
 
 [[२८]]
+</details>
+
+<details><summary>English</summary>
+
+24. Rejecting the theories of akhyāti (non-appre- hension), ātmakhyāti (self-apprehension), anirvacanīya- khyāti (indefinable apprehension), anyathākhyāti (mis- apprehension) and asatkhyāti (non-being's apprehen- sion), the theory of satkhyāti ( reality-apprehension) is accepted.45 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+२४. अख्यात्यात्मख्यात्यनिर्वचनीयताख्यात्यन्यथाख्यात्यसत्ख्यातिवादिनो निरस्य सत्ख्यातिपक्षस्वीकारात् ।
+</details>
+
+
+[[१४]] 
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+२५.
+
+> सत्-ख्यातिर् नाम ज्ञान-विषयस्य सत्यत्वम् ।  
+तर्हि भ्रमत्वं कथम्? 
+
+इति चेत्, विषय-व्यवहार-बाधात् भ्रमत्वम् ।  
+तद्-उपपादयामः-  
+पञ्चीकरण-प्रक्रियया पृथिव्य्-आदिषु सर्वत्र सर्व-भूतानाम् विद्यमानत्वात् ।  
+अत एव शुक्तिकादौ रजताशंस्य विद्यमानत्वाज्  
+ज्ञान-विषयस्य सत्यत्वम् ।  
+तत्र रजताशंस्य स्वल्पत्वात्  
+तत्र न व्यवहार इति  
+तज्+++(=रजतत्व)+++-ज्ञानम् भ्रमः ।  
+शुक्त्य्-अंश-भूयस्त्व-ज्ञानात् भ्रम-निवृत्तिः ।
+</details>
+
+<details><summary>हिन्दी</summary>
+
+ज्ञान के विषय को सत्य मानना ही सत्ख्याति है । तो प्रश्न यह है कि भ्रमस्थलीय ज्ञान को आप भ्रम कैसे कहते हैं ? तो इसका उत्तर है कि चूंकि भ्रम के विषय के व्यवहार का बाध होता है। हम उसका प्रतिपादन करते हैं । पश्वीकरण प्रक्रिया के अनुसार सभी वस्तुओं- पृथिवी आदि सभी द्रव्यों में सभी द्रव्यों के विद्यमान रहने के कारण ही शुक्ति में रजतांश चूंकि विद्यमान रहता है, अतएव शुक्ति में प्रतीयमान ज्ञान का विषय रजत सत्य ही है । किन्तु शुक्ति में रज- तांश स्वल्प रहता है, अतः उसका रजत रूप से व्यवहार नहीं होता है । शुक्ति के अंश का भूयस्त्वज्ञान हो जाने से भ्रम की निवृत्ति हो जाती है । 
+</details>
+
+<details><summary>हिन्दी - तिप्पनी</summary>
 
 रजत की प्रतीति को उसका कारण इसलिए नहीं माना जा सकता कि  
 रजत ही उस प्रतीति का विषय है,  
@@ -1626,6 +1669,47 @@ Xi
 जो सभी दार्शनिकों को मान्य है,  
 के अनुसार होता है । 
 
+
+
+</details>
+
+
+<details><summary>English</summary>
+
+25. What is called satkhyāti (the theory of reality- apprehension) is the reality of the object of conscicus- ness. If it be asked what then is (bhrama (error), (it is said in reply) that bhrama consists in invalidating the workability of an object. 46 We shall thus explain it; By the process of quintuplication, all the elements are present in all (the elements) like earth etc. Therefore owing to the presence of a small portion of silver in the nacre, the object of that consciousness (i.e., silver) is true. But there, as the portion of silver-content is infinitesimal, it cannot serve the purpose of practical life; hence that cognition is bhrama. 47 The bhrama disappears, because of the knowledge of the preponderance of the nacre-content (in the object).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+२५. सत्ख्यातिर्नाम ज्ञानविषयस्य सत्यत्वम् । तर्हि भ्रमत्वं कथम्? इति चेत्, विषयव्यवहारबाधात् भ्रमत्वम् । तदुपपादयामः- पञ्चीकरणप्रक्रियया पृथिव्यादिषु सर्वत्र सर्वभूतानाम् विद्यमानत्वात् । अत एव शुक्तिकादौ रजताशंस्य विद्यमानत्वा-
+
+ज्ज्ञानविषयस्य सत्यत्वम् । तत्र रजताशंस्य स्वल्पत्वात् तत्र न व्यवहार इति तज्ज्ञानम् भ्रमः । शुक्त्यंशभूयस्त्वज्ञानात् भ्रमनिवृत्तिः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+२६. स्वप्नादि-ज्ञानं तु सत्यम् एव ।  
+तत्-तत्-पुरुषानुभाव्यतया  
+तत्-तत्-कालावसानान् रथादीन्  
+परम-पूरुषः सृजतीति श्रुत्या ऽवगम्यते ।
+</details>
+
+
+<details><summary>English</summary>
+
+26. The cognition of dream etc. is also real. From the śruti we understand that the Supreme Person creates chariots etc., 48 subsisting for a certain time only, 48 for the experience of the particular individual selfso (in accordance with its spiritual merit and demerit). 
+
+</details>
+
+
+<details><summary>हिन्दी</summary>
+
+स्वप्न आदि का ज्ञान तो सत्य ही है। श्रुतियों से पता चलता है कि स्वप्नकाल में परमात्मा स्वप्न देखने वाले पुरुषमात्र से अनुभव किये जाने योग्य स्वप्नकाल - पर्यन्त ही रहने वाले रथ आदि की सृष्टि कर देता है । 
+</details>
+
+<details><summary>हिन्दी - तिप्पनी</summary>
 
 स्वाप्न ज्ञान की प्रामाणिकता -  
 स्वाप्न ज्ञान के विषय में विचारकों के विविध विचार है ।  
@@ -1680,7 +1764,31 @@ Xi
 परमात्मा ही अपने सत्यसङ्कल्प मात्र से  
 उन आश्चर्यकारी वस्तुओं की सृष्टि कर देते हैं ।  
 अतएव स्वप्नकाल में  
-तत् तत् जीवों द्वारा अनुभूयमान पदार्थ भी सत्य ही है । 
+तत् तत् जीवों द्वारा अनुभूयमान पदार्थ भी सत्य ही है ।
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+२६. स्वप्नादिज्ञानं तु सत्यमेव । तत्तत्पुरुषानुभाव्यतया तत्तत्कालावसानान् रथादीन् परमपूरुषः सृजतीति श्रुत्याऽवगम्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+२७. “पीतः शङ्ख” इत्यादौ  
+नयन-वर्ति-पित्त-द्रव्य-संयुक्ता नायन-रश्मयः  
+शङ्खादिभिः सह संयुज्यन्ते ।  
+तत्र पित्त-गत-पीतिमाभिभूतः शङ्ख-गत-शुक्लिमा न गृह्यते।  
+अतः सुवर्णानुलिप्त-शङ्खवत् “पीतः शङ्ख” इति प्रतीयते ।  
+सूक्ष्मत्वात् पीतिमा स्व-नयन-निष्क्रान्ततया स्वेनैव गृह्यते, न तु अन्यैः ।
+</details>
+
+<details><summary>हिन्दी</summary>
+
+शंख पीला है इत्यादि प्रतीति-स्थल में नेत्र के पित्त द्रव्य से मिश्रित नेत्र की ज्योतियाँ शंख आदि से संयुक्त होती हैं। वहीं पित्त की पीतिमा से अभिभूत हो जाने के कारण शंख की शुक्लिमा की प्रतीति नहीं हो पाती है । इसी- लिए उजला भी शंख सुवर्णजटित शंख के समान पीला प्रतीत होता है । अपने नेत्र से निकलने के कारण तथा सूक्ष्म होने के कारण पीतिमा की प्रतीति केवल अपने को ही हो पाती है, दूसरों को नहीं । 
+</details>
+
+<details><summary>हिन्दी - तिप्पनी</summary>
 
 'पीतः शङ्खः ' इस प्रतीति की सत्यता -  
 जिस व्यक्ति को पीलिया रोग हो जाता है,  
@@ -1693,13 +1801,101 @@ Xi
 तथा अत्यन्त सूक्ष्म होने के कारण  
 अपने मात्र से गृहीत होता है,  
 दूसरों को उस पित्त की पीतिमा नहीं प्रतीत होती है ।  
-अतएव उसको पीले शंख की होने वाली प्रतीति भी सत्य ही है । 
+अतएव उसको पीले शंख की होने वाली प्रतीति भी सत्य ही है ।
+</details>
+
+
+<details><summary>English</summary>
+
+27. In the case of (the cognition), the conch is yellow', (the explanation is as follows) : The visual rays of the eye which are in contact with the bile of the eyes enter into conjunction with the conch; then the whiteness belonging to the conch is overpowered by the yellowness of the bile, and hence not cognized. There- fore arises the cognition, 'the conch is yellow', like a gold-gilt conch. The yellowness issuing from his eye, owing to his extreme subtlety, is apprehended by him alone and not by others. 
+
+[[१६]]
+</details>
+
+<details><summary>मूलम्</summary>
+
+२७. “पीतः शङ्ख” इत्यादौ नयनवर्तिपित्तद्रव्यसंयुक्ता नायनरश्मयः शङ्खादिभिः सह संयुज्यन्ते । तत्र पित्तगतपीतिमाभिभूतः शङ्खगतशुक्लिमा न गृह्यते। अतः सुवर्णा- नुलिप्तशङ्खवत् “पीतः शङ्ख” इति प्रतीयते । सूक्ष्मत्वात् पीतिमा स्वनयननिष्कान्त-तया स्वेनैव गृह्यते, न तु अन्यैः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+२८. जपा-कुसुम-समीप-वर्ति-स्फटिक-मणिर् अपि  
+“रक्त” इति गृह्यते ।  
+तज्-ज्ञानम् सत्यम् एव ।
+</details>
+
+<details><summary>हिन्दी</summary>
+
+जपाकुसुम (ओड़हूल पुष्प ) के सन्निकटस्थ स्फटिक- मणि भी लाल प्रतीत होता है । वह ज्ञान भी सत्य ही है । 
+</details>
+
+<details><summary>English</summary>
+
+28.59(Like wise) the crystal which is placed near a China-rose is cognized as red. 52 The cognition of that also is real.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+२८. जपाकुसुमसमीपवर्तिस्फटिकमणिरपि “रक्त” इति गृह्यते । तज्ज्ञानम् सत्यमेव ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+२९. मरीचिकायां जलज्ञानमपि पञ्चीकरणप्रक्रियया पूर्वोक्तवद् उपपद्यते ।  
+पञ्ची-करणप्रक्रिया तु उत्तरत्र वक्ष्यते ।
+</details>
+
+<details><summary>हिन्दी</summary>
+
+मरु-मरीचिका में होने वाला जल का ज्ञान भी पञ्जीकरण-प्रक्रिया से पहले के समान ( शुक्तिरजत केप्रथमोऽवतारः 
+
+
+[[२५]]
+
+
+समान ) सिद्ध होता है । पश्वीकरण प्रक्रिया हम आगे बतलायेंगे । 
+</details>
+
+<details><summary>हिन्दी - तिप्पनी</summary>
 
 मरु-मरीचिका में जल-ज्ञान की सत्यता -  
 मरु-मरीचिका में भी जल की जो प्रतीति होती है,  
 वह भी प्रतीति सत्य ही है,  
 क्योंकि पञ्चीकरण प्रक्रिया के अनुसार  
-सूर्य की किरणों में भी जलांश विद्यमान रहता ही है । 
+सूर्य की किरणों में भी जलांश विद्यमान रहता ही है ।
+</details>
+
+
+<details><summary>English</summary>
+
+29. In the aforesaid manner the cognition of water in the mirage also is true owing to the quintupli cation of elements. The process of pañcīkarana will be described in the sequel. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+२९. मरीचिकायां जलज्ञानमपि पञ्चीकरणप्रक्रियया पूर्वोक्तवदुपपद्यते । पञ्ची- करणप्रक्रिया तु उत्तरत्र वक्ष्यते ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+३०. दिग्भ्रमोऽपि तथैव ।  
+दिशि दिग्-अन्तरस्य विद्यमानत्वात्  
+अवच्छेदकम् अन्तरेण दिग् इति द्रव्यान्तरानङ्गीकाराच् च ।
+</details>
+
+<details><summary>हिन्दी</summary>
+
+दिग्भ्रम में भी होने वाला ज्ञान सत्य ही है; क्योंकि एक दिशा में दूसरी दिशा विद्यमान रहती है । किव दिशा को द्रव्यान्तर न मानकर हम उसे अवच्छेदकमात्र मानते हैं। 
+</details>
+
+
+<details><summary>हिन्दी - तिप्पनी</summary>
 
 विग्भ्रम की सत्यता -  
 कभी-कभी ऐसा होता है कि पूर्व दिशा में जाते हुए मनुष्य को भ्रम होता है  
@@ -1718,8 +1914,35 @@ Xi
 विशिष्टाद्वैत दर्शन में अवच्छेदक से अतिरिक्त  
 दिशा नामक कोई द्रव्य नहीं है ।  
 उदयाचल पर्वत से संयुक्त मूर्तादि पदार्थ ही अवच्छेदक हैं ।  
-इसका विस्तृत विवेचन आकाश-निरूपण के प्रसङ्ग में स्वयं ग्रन्थकार करेंगे । 
+इसका विस्तृत विवेचन आकाश-निरूपण के प्रसङ्ग में स्वयं ग्रन्थकार करेंगे ।
+</details>
 
+<details><summary>English</summary>
+
+30. In the same way, the case of one direction being mistaken for another is true; since one direction. which (really) exists in another direction is cognized54 and apart from the limiting adjuncts (which divide the directions) no (distinct ) substance as direction (dik) is admitted (in our system). 55 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+३०. दिग्भ्रमोऽपि तथैव । दिशि दिगन्तरस्य विद्यमानत्वात् अवच्छेदकमन्तरेण दिगिति द्रव्यान्तरानङ्गीकाराच्च ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+३१. अलात-चक्रादौ तु शैघ्र्यात् तद्-अन्तरालाग्रहणात् तत्-तद्-देश-संयुक्त--तत्-तद्-वस्तुन एव चक्राकारेण ग्रहणम् ।  
+तद् अपि सत्यमेव ।
+</details>
+
+<details><summary>हिन्दी</summary>
+
+आलात- चक्र आदि में तो अत्यन्त शीघ्रता के कारण उसके अन्तराल का ग्रहण न हो सकने के कारण तत् तत् देशों से संयुक्त विभिन्न वस्तुओं की ही चक्र रूप से प्रतीति होती है । अत एव वह ज्ञान भी सत्य ही है । 
+</details>
+
+
+<details><summary>हिन्दी - तिप्पनी</summary>
 
 आलात+++(=अङ्गार)+++-चक्र में अन्तराल की अप्रतीति का कारण -  
 अग्नि से जलते हुए काष्ठ इत्यादि को जो चारो तरफ तेजी से घुमाया जाता है,  
@@ -1732,13 +1955,38 @@ Xi
 अतएव वह चक्र की प्रतीति भी सत्य ही है । 
 
 
-५ य० 
-
+५ य०
 
 [[३०]]
+</details>
+
+<details><summary>English</summary>
+
+31. In the case of the firebrand swung round rapidly, owing to the non-apprehension of the inter- vals56 by virtue of the rapidity of the movement, that object itself which is in conjunction with (all) points of the space (i.e. circle) is cognized in the form of a ( fiery ) wheel. This cognition is also real. 
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+३१. अलातचक्रादौ तु शैघ्र्यात्तदन्तरालाग्रहणात्तत्तद्देशसंयुक्ततत्तद्वस्तुन एव चक्राकारेण ग्रहणम् । तदपि सत्यमेव ।
+
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+३२. दर्पणादिषु निज-मुखादि-प्रतीतिर् अपि यथार्था ।  
+दर्पणादि-प्रतिहत-गतयो नायन-रश्मयो दर्पणादि-ग्रहण-पूर्वकं निज-मुखादि गृह्णन्ति ।  
+तत्राप्य् अतिशीघ्र्याद् अन्तरालाग्रहणात् तथा प्रतीतिः ।
+</details>
+
+<details><summary>हिन्दी - तिप्पनी</summary>
+
+दर्पण आदि में होने वाली अपने मुख आदि की प्रतीति भी यथार्थ ही है; क्योंकि नेत्र की रश्मियों की गति दर्पण आदि से अवरुद्ध हो जाती है । अतएव वह दर्पण के ग्रहण- पुरस्सर अपने मुख आदि का ग्रहण कर लेती हैं । वहाँ भी ज्योति की गति अतितीव्र होने के कारण अन्तराल का ग्रहण नहीं हो पाता है । अतएव दर्पण में मुखादि की प्रतीति होती है । 
+</details>
+
+
+<details><summary>हिन्दी - तिप्पनी</summary>
 
 दर्पण में मुखादि-प्रतीति का याथार्थ्य –  
 दर्पण जब हम देखते हैं  
@@ -1750,8 +1998,40 @@ Xi
 उसके मुखादि दर्पण के भीतर है।  
 चूंकि ज्योति की गति अत्यन्त तीव्र होती है,  
 अतएव दर्पण एवं मुख के अन्तराल का ग्रहण नहीं होता है ।  
-अतएव वह भी प्रतीति यथार्थ ही है । 
+अतएव वह भी प्रतीति यथार्थ ही है ।
+</details>
 
+<details><summary>English</summary>
+
+32. The cognition of one's own face in mirrors etc. : 7 is likewise true. (What happens is) that when 
+
+that the motion of the visual rays (issuing from the eye to- wards the mirror) is reversed by the mirror, those rays cognize the person's own face after the perception of the mirror; and even in this case, owing to the non- apprehension of any interval (between the mirror- perception and face-perception) by virtue of the rapidity (of the process), the face is perceived as if in the mirror. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+३२. दर्पणादिषु निजमुखादिप्रतीतिरपि यथार्था । दर्पणादिप्रतिहतगतयो नायनरश्मयो दर्पणादिग्रहणपूर्वकं निजमुखादि गृह्णन्ति । तत्राप्यतिशघ्र्यादन्तरालाग्रहणात् तथा प्रतीतिः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+३३. द्विचन्द्र-ज्ञानादाव् अपि  
+अङ्गुल्य्-अवष्टम्भ-तिमिरादिभिर् नयन-तेजो-गति-भेदेन सामग्री-भेदात्  
+सामग्री-द्वयम् अन्योन्य-निरपेक्षं  
+चन्द्र-द्वय-ग्रहणे हेतुर् भवति ।  
+सामग्री-द्वयम् पारमार्थिकम्+++(=??)+++, तेन द्वि-चन्द्र-ज्ञानम् भवति ।
+</details>
+
+<details><summary>हिन्दी</summary>
+
+अङ्गुल्यवष्टम्भ अथवा तिमिर रोग के द्वारा नेत्र ज्योतियों के विभक्त हो जाने से चन्द्रमा आदि दो प्रतीत होते हैं । क्योंकि वहाँ दोनों की सामग्री भिन्न-भिन्न हो जाती है तथा परस्पर में निरपेक्ष रूप से वे दोनों सामग्रियों दो चन्द्रमा की प्रतीति का कारण बन जाती हैं। दोनों साम- ग्रियाँ सत्य हैं । इसीलिए दो चन्द्रमा का ज्ञान होता है। 
+</details>
+
+
+<details><summary>हिन्दी - तिप्पनी</summary>
 
 द्विचन्द्रादि ज्ञानों का याथार्थ्य –  
 जब हम कभी अपनी आँख के कोने को अंगुली से दबाते हैं  
@@ -1770,94 +2050,46 @@ Xi
 
 <details><summary>English</summary>
 
-24. Rejecting the theories of akhyāti (non-appre- hension), ātmakhyāti (self-apprehension), anirvacanīya- khyāti (indefinable apprehension), anyathākhyāti (mis- apprehension) and asatkhyāti (non-being's apprehen- sion), the theory of satkhyāti ( reality-apprehension) is accepted.45 
+33. In the case of the apprehension of a double moon (what happens is this): Owing to pressure of the finger on the eye, or by some disease of the eye called timira etc., the visual rays are divided ; ( and conse- quently), there originates difference in the apparatus of the vision (sāmagri); (then) the mutually independent double apparatus of the vision becomes the cause for the cognition of the double moon.58 The doubling of the apparatus of vision being true, by it the double apprehension of the moon takes place. In 
+
+१८ 
 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-२४. अख्यात्यात्मख्यात्यनिर्वचनीयताख्यात्यन्यथाख्यात्यसत्ख्यातिवादिनो निरस्य सत्ख्यातिपक्षस्वीकारात् ।
+३३. द्विचन्द्रज्ञानादावपि अङ्गुल्यवष्टम्भतिमिरादिभिर्नयनतेजोगतिभेदेन सामग्रीभेदात् सामग्रीद्वयमन्योन्यनिरपेक्षं चन्द्रद्वयग्रहणे हेतुर्भवति । सामग्रीद्वयम् पारमार्थिकम्, तेन द्विचन्द्रज्ञानम् भवति ।
 </details>
 
 
-[[१४]] 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+३४. अतः सर्वं ज्ञानम् सत्यम् स-विशेष-विषयं च । निर्विशेष-वस्तुनो ऽग्रहणात् ।
+</details>
 
+<details><summary>हिन्दी</summary>
 
-२५. सत्ख्यातिर्नाम ज्ञानविषयस्य सत्यत्वम् । तहि भ्रमत्वं कथम् ? इति चेत्, विषयव्यवहारबाधात् भ्रमत्वम् । तदुपपाद- यामः - पञ्चीकरणप्रक्रियया पृथिव्यादिषु सर्वत्र सर्वभूतानां विद्यमानत्वात् । अत एव शुक्तिकादौ रजतांशस्य विद्यमानत्वा- ज्ज्ञानविषयस्य सत्यत्वम् । तत्र रजतांशस्य स्वल्पत्वात् तत्र न 
+इस तरह सिद्ध हुआ कि सभी विज्ञान सत्य तथा सविशेषवस्तु-विषयक होते हैं; क्योंकि किसी भी ज्ञान के द्वारा निर्विशेष वस्तु का ग्रहण नहीं होता है । 
+</details>
 
-
-
-25. What is called satkhyāti (the theory of reality- apprehension) is the reality of the object of conscicus- ness. If it be asked what then is (bhrama (error), (it is said in reply) that bhrama consists in invalidating the workability of an object. 46 We shall thus explain it; By the process of quintuplication, all the elements are present in all (the elements) like earth etc. Therefore owing to the presence of a small portion of silver in the nacre, the object of that consciousness (i.e., silver) is 
-
-प्रत्यक्षम् 
-
-१५ 
-
-व्यवहार इति तज्ज्ञानं भ्रमः । शुक्त्यंशभूयस्त्वज्ञानात् भ्रम- निवृत्तिः । 
-
-२६. स्वप्नादिज्ञानं तु सत्यमेव । तत्तत्पुरुषानुभाव्यतया तत्तत्कालावसानान् रथादीन् परमपूरुषः सृजतीति श्रुत्याऽवगम्यते । 
-
-२७. 'पीतः शङ्ख' इत्यादौ नयनवर्तिपित्तद्रव्यसंयुक्ता नायन- रश्मयः शङ्खादिभिः सह संयुज्यन्ते । तत्र पित्तगतपीतिमाभिभूतः शङ्खगतशुक्लिमा न गृह्यते । अतः सुवर्णानुलिप्तशङ्खवत् 'पीतः शङ्ख' इति प्रतीयते । सूक्ष्मत्वात् पीतिमा स्वनयननिष्कान्ततया स्वेनंव गृह्यते, न तु अन्यः । 
-
-true. But there, as the portion of silver-content is infinitesimal, it cannot serve the purpose of practical life; hence that cognition is bhrama. 47 The bhrama disappears, because of the knowledge of the preponde- rance of the nacre-content (in the object). 
-
-26. The cognition of dream etc. is also real. From the śruti we understand that the Supreme Person creates chariots etc., 48 subsisting for a certain time only, 48 for the experience of the particular individual selfso (in accordance with its spiritual merit and demerit). 
-
-27. In the case of (the cognition), the conch is yellow', (the explanation is as follows) : The visual rays of the eye which are in contact with the bile of the eyes enter into conjunction with the conch; then the whiteness belonging to the conch is overpowered by the yellowness of the bile, and hence not cognized. There- fore arises the cognition, 'the conch is yellow', like a gold-gilt conch. The yellowness issuing from his eye, owing to his extreme subtlety, is apprehended by him alone and not by others. Asel TRnurges u 
-
-१६ 
-
-  
-
-२८. जपाकुसुमसमीपवर्तिस्फटिकमणिरपि 'रक्त' इति गृह्यते । तज्ज्ञानं सत्यमेव । 
-
-२९. मरीचिकायां जलज्ञानमपि पञ्चीकरणप्रक्रियया पूर्वो- क्तवदुपपद्यते । पञ्चीकरणप्रक्रिया तु उत्तरत्र वक्ष्यते । 
-
-३०. दिग्भ्रमोऽपि तथैव । दिशि दिगन्तरस्य विद्यमान- त्वात् अवच्छेदकमन्तरेण दिगिति द्रव्यान्तरानङ्गीकाराच्च । 
-
-३१. अलातचक्रादौ तु शैघ्रयात्तदन्तरालाग्रहणात्तत्तद्देश- संयुक्ततत्तद्वस्तुन एव चक्राकारेण ग्रहणम् । तदपि सत्यमेव । 
-
-28.59(Like wise) the crystal which is placed near a China-rose is cognized as red. 52 The cognition of that also is real. 
-
-29. In the 
-
-29. In the aforesaid manner the cognition of water in the mirage also is true owing to the quintupli cation of elements. The process of pañcīkarana will be described in the sequel. 
-
-30. In the same way, the case of one direction being mistaken for another is true; since one direction. which (really) exists in another direction is cognized54 and apart from the limiting adjuncts (which divide the directions) no (distinct ) substance as direction (dik) is admitted (in our system). 55 
-
-31. In the case of the firebrand swung round rapidly, owing to the non-apprehension of the inter- vals56 by virtue of the rapidity of the movement, that object itself which is in conjunction with (all) points of the space (i.e. circle) is cognized in the form of a ( fiery ) wheel. This cognition is also real. 
-
-प्रत्यक्षम् 
-
-१७ 
-
-३२. दर्पणादिषु निजमुखादिप्रतीतिरपि यथार्था । दर्पणा- दिप्रतिहतगतयो नायनरश्मयो दर्पणादिग्रहणपूर्वकं निजमुजादि गृह्णन्ति । तत्राप्यतिशघ्र चादन्तराला ग्रहणात् तथा प्रतीतिः । 
-
-३३. द्विचन्द्रज्ञानादावपि अङ्गुल्यवष्टम्भतिमिरादिभिर्न- यनतेजोगतिभेदेन सामग्रीभेदात् सामग्रीद्वयमन्योन्यनिरपेक्षं चन्द्र- द्वयग्रहणे हेतुर्भवति । सामग्रीद्वयं पारमार्थिकं तेन द्विचन्द्रज्ञानं भवति । 
-
-BUE PR 
-
-32. The cognition of one's own face in mirrors etc. : 7 is likewise true. (What happens is) that when 
-
-that the motion of the visual rays (issuing from the eye to- wards the mirror) is reversed by the mirror, those rays cognize the person's own face after the perception of the mirror; and even in this case, owing to the non- apprehension of any interval (between the mirror- perception and face-perception) by virtue of the rapidity (of the process), the face is perceived as if in the mirror. 
-
-33. In the case of the apprehension of a double moon (what happens is this): Owing to pressure of the finger on the eye, or by some disease of the eye called timira etc., the visual rays are divided ; ( and conse- quently), there originates difference in the apparatus of the vision (sāmagri); (then) the mutually independent double apparatus of the vision becomes the cause for the cognition of the double moon.58 The doubling of the apparatus of vision being true, by it the double apprehension of the moon takes place. In 
-
-१८ 
-
-
-
-३४. अतः सर्वं ज्ञानं सत्यं सविशेषविषयं च । निर्विशेष- 
-
-वस्तुनोऽग्रहणात् । 
-
-३५. एवम्भूतं प्रत्यक्षं प्रथमतो भेदमेव गृह्णाति । भेद इति व्यवहारे तु प्रतियोग्यपेक्षा न स्वरूपे । तेन अनवस्था- न्योन्याश्रयदोषोऽपि नास्ति । उपर्युपर्यपेक्षाऽनवस्था । परस्परा- पेक्षोऽन्योन्याश्रयः । 
-
-३६. ननु 'दशमस्त्वमसि' इत्येतदपि प्रत्यक्षं किं न स्यात् ? इति चेत्, न । 'त्वम्' इत्येतस्य प्रत्यक्षत्वेऽपि 'दशमोऽहम्' इत्यस्य वाक्यजन्यत्वात् । यदि 'दशमोऽहम्' इत्यस्य प्रत्यक्षविषयत्वं तहि 'धर्म्म वाँस्त्वमसि' इत्येतस्यापि प्रत्यक्षत्वं स्यात् । अङ्गीकारे 
+<details><summary>English</summary>
 
 34. Hence all apprehensions are likewise true, having for their contents objects affected with differ- ence, because a non-differenced object is never ap- prehended. 59 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+३४. अतः सर्वं ज्ञानम् सत्यम् सविशेषविषयं च । निर्विशेषवस्तुनोऽग्रहणात् ।
+</details>
+
+
+
+
+
+
+
 
 35. Then, perception which is of the aforesaid nature at first apprehends difference alone. Difference in its experience (or expression) as such requires a counter-entity, but never in its essential nature.60 Hence the faults of regressus in infinitum and logical seesaw are absent.61 Regressus in infinitum is begging the question. Logical seesaw is mutual dependence. 
 
