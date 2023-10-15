@@ -645,44 +645,92 @@ Xi
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+१८. स्मृतिर् नाम पूर्वानुभव-जन्य-संस्कार-मात्र-जन्यं ज्ञानम् ।  
+संस्कारोद्बोधश् च  
+
+> “सदृशादृष्ट-चिन्ताद्याः  
+स्मृतिबीजस्य बोधकाः” 
+
+इत्य्-उक्त-प्रकारेण क्वचित् सदृश-दर्शनाद् भवति,  
+क्वचिद् अदृष्टात्, क्वचिच् चिन्तया ।  
+आदि-शब्देन साहचर्यस्यापि ग्रहणात् तेनापि च भवति ।
+</details>
+
+<details><summary>English</summary>
+
+18. What is called recollection is the knowledge derived only from the reminiscent impressions caused by a prior experience. And what recalls the reminiscent impression is as follows: 'Those that rouse the seed of recollection are sadrśa (similarity), adrśta (unseen effect of previous karma), cinta (deep thinking), etc.' In accordance with what has been said (above), the ( recaller) is sometimes the similar-sight (of an object previously seen); sometimes an unseen effect (of one's actions); sometimes deep thinking. Since from the term ‘adi' (etcetera), 'association' (or concomitance) is to be understood, even that becomes (the cause of recollection).
+    [[१२]]
+</details>
+
+<details><summary>मूलम्</summary>
+
+१८. स्मृतिर्नाम पूर्वानुभवजन्यसंस्कारमात्रजन्यं ज्ञानम् । संस्कारोद्बोधश्च “सदृशादृष्टचिन्ताद्याः स्मृतिबीजस्य बोधकाः” इत्युक्तप्रकारेण क्वचित्सदृशदर्शनाद्भवति, क्वचिददृष्टात्, क्वचिच्चिन्तया । आदिशब्देन साहचर्यस्यापि ग्रहणात्तेनापि च भवति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+१९. सादृश्यजा यथा –  
+देव-दत्त--यज्ञ-दत्तयोः स-दृशयोर् देव-दत्त-दर्शनेन यज्ञ-दत्त--स्मृतिः।  
+
+द्वितीया +++(अदृष्टजा)+++ यथा – यादृच्छिकी कालान्तरानुभूत--श्रीरङ्गादि--दिव्य-देश-स्मृतिः।  
+
+तृतीया +++(चिन्ताजा)+++ यथा –  
+चिन्त्य-माने सति श्री-वेङ्कटेशस्य कमनीय-दिव्य-मङ्गल-विग्रह-स्मृतिः ।  
+
+चतुर्थी तु सहचरितयोर् देव-दत्त--यज्ञ-दत्तयोर् मध्ये  
+अन्यतर-दर्शनेन तद्-अन्यतर-स्मृतिः ।
+</details>
+
+<details><summary>मूलम्</summary>
+
+१९. सादृश्यजा यथा – देवदत्तयज्ञदत्तयोः सदृशयोर्देवदत्तदर्शनेन यज्ञदत्तस्मृतिः। द्वितीया यथा – यादृच्छिकी कालान्तरानुभूतश्रीरङ्गादिदिव्यदेशस्मृतिः। तृतीया यथा – चिन्त्य-माने सति श्रीवेङ्कटेशस्य कमनीयदिव्यमङ्गलविग्रहस्मृतिः । चतुर्थी तु सहचरितयो- र्देवदत्तयज्ञदत्तयोर्मध्ये अन्यतरदर्शनेन तदन्यतरस्मृतिः ।
+</details>
 
 
-१८. स्मृतिर्नाम पूर्वानुभवजन्यसंस्कार मात्र जन्यं ज्ञानम् । संस्कारोद्बोधश्च ‘सदृशादृष्टचिन्ताद्याः स्मृतिबीजस्य बोधका : ' 
+<details><summary>English</summary>
+
+19. What is caused by similarity is thus : If Devadatta and Yajñadatta resemble each other, the sight of Devadatta kindles the recollection of Yajña- datta. The second: like the spontaneous remembrance of a prior experience, such as the sacred place of Sri- rangam etc.41 The third: like the recollection of the lovely, divine, and auspicious figure of Sri Venkatesa while (consciously) thinking. The fourth is thus: between Devadatta and Yajñadatta who are seen in association, the sight of one kindles the recollection of the other. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+२०. संयक् पूर्वम् अनुभूतस्य सर्वस्य स्मृति-विषयत्व-नियमः ।  
+क्वचित् काल-दैर्ध्यात् व्याध्य्-आदिना वा  
+संस्कार-प्रमोषात् स्मृत्य्-अभावः ।
+</details>
+
+<details><summary>English</summary>
+
+20. The principle is that whatever is well experienced before, becomes the object of recollection. The absence of recollection is caused either by long duration of time (after experience) or by disease etc. which obscure the reminiscent impressions. 
+</details>
 
 
-18. What is called recollection is the knowledge derived only from the reminiscent impressions caused by a prior experience. And what recalls the reminiscent impression is as follows: 'Those that rouse the seed of recollection are sadrśa (similarity), adrśta (unseen effect of previous karma), cinta (deep thinking), etc.' In accordance with what has been said (above), the ( re- 
+<details><summary>मूलम्</summary>
 
-१२ 
+२०, संयक् पूर्वमनुभूतस्य सर्वस्य स्मृतिविषयत्वनियमः । क्वचित्कालदैर्ध्यात् व्याध्यादिना वा संस्कारप्रमोषात् स्मृत्यभावः ।
+</details>
 
 
+[[१३]] 
 
-" 
 
-इयुक्तप्रकारेण कचित्सदृशदर्शनाद्भवति कचिददृष्टात्, कचि- च्चिन्तया । आदिशब्देन साहचर्यस्यापि ग्रहणात्तेनापि च भवति । 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-१९. सादृश्यजा यथा - देवदत्तयज्ञदत्तयोः सदृशयोर्देवदत्त- दर्शनेन यज्ञदत्तस्मृतिः । द्वितीया यथा - यादृच्छिकी कालान्तरानु- भूतश्रीरङ्गादिदिव्यदेश स्मृतिः । तृतीया यथा - चिन्त्यमाने सति श्रीवेङ्कटेशस्य कमनीयदिव्यमङ्गलविग्रहस्मृतिः । चतुर्थी तु सह- चरितयोर्देवदत्तयज्ञदत्तयोर्मध्ये अन्यतरदर्शनेन तदन्यतरस्मृतिः । 
+२१. यथा स्मृतेः प्रत्यक्षे ऽन्तर्भावस्  
+तथा “सोऽयं देवदत्त” इति प्रत्यभिज्ञायाम् अपि प्रत्यक्षेऽन्तर्भावः । अस्मन्मते अभावस्य भावान्तररूपत्वात् तज्ज्ञानस्यापि प्रत्य- क्षान्तर्भावः । भूतले घटात्यन्ताभावो भूतलमेव । घटप्रागभावो नाम मृदेव । घटध्वंसश्च कपालमेव ।
+</details>
 
-२०. संयक् पूर्वमनुभूतस्य सर्वस्य स्मृतिविषयत्वनियमः । 
+<details><summary>मूलम्</summary>
 
-caller) is sometimes the similar-sight (of an object pre- viously seen); sometimes an unseen effect (of one's actions); sometimes deep thinking. Since from the term ‘adi' (etcetera), 'association' (or concomitance) is to be understood, even that becomes (the cause of recollection). 
+२१. यथा स्मृतेः प्रत्यक्षेऽन्तर्भावस्तथा “सोऽयं देवदत्त” इति प्रत्यभिज्ञायाम् अपि प्रत्यक्षेऽन्तर्भावः । अस्मन्मते अभावस्य भावान्तररूपत्वात् तज्ज्ञानस्यापि प्रत्य- क्षान्तर्भावः । भूतले घटात्यन्ताभावो भूतलमेव । घटप्रागभावो नाम मृदेव । घटध्वंसश्च कपालमेव ।
+</details>
 
-If 19. What is caused by similarity is thus : Devadatta and Yajñadatta resemble each other, the sight of Devadatta kindles the recollection of Yajña- datta. The second: like the spontaneous remembrance of a prior experience, such as the sacred place of Sri- rangam etc.41 The third: like the recollection of the lovely, divine, and auspicious figure of Sri Venkatesa while (consciously) thinking. The fourth is thus: between Devadatta and Yajñadatta who are seen in association, the sight of one kindles the recollection of the other. 
-
-20. The principle is that whatever is well experi- enced before, becomes the object of recollection. The absence of recollection is caused either by long dura- 
-
-प्रत्यक्षम् 
-
-१३ 
-
-क्वचित्कालदेर्ध्यात् व्याध्यादिना वा संस्कारप्रमोषात् स्मृत्य - 
-
-भावः । 
-
-२१. यथा स्मृतेः प्रत्यक्षेऽन्तर्भावस्तथा 'सोऽयं देवदत्त' इति प्रत्यभिज्ञायाम् अपि प्रत्यक्षेऽन्तर्भावः । अस्मन्मते अभावस्य भावा- न्तररूपत्वात् तज्ज्ञानस्यापि प्रत्यक्षान्तर्भावः । भूतले घटात्यन्ता- भावो भूतलमेव । घटप्रागभावो नाम मृदेव । घटध्वंसश्च कपालमेव । 
 
 २२. प्रायः पुरुषेण अनेन भवितव्यम् इत्येतदूहः । पुरः किं- सञ्ज्ञकोऽयं वृक्ष इति अनध्यवसायो ज्ञानं संशय उक्तः । एतयोरपि प्रत्यक्षेऽन्तर्भावः । पुण्यपुरुषनिष्ठा प्रतिभापि प्रत्यक्षेऽन्तर्गता । 
 
-tion of time (after experience) or by disease etc. which obscure the reminiscent impressions. 
+
 
 21. Just as recollection is included in pratyaksa, recognition (pratyabhijñā) also in the form of 'this is that Devadatta' is included in perception. 42 In our system, since non-existence is nothing but another form of existence, 43 the knowledge of non-existence is also included in pratyakṣa. (For instance), on this floor, the absolute non-existence of the jar is the floor itself. The antecedent non-existence of the jar is clay itself. The destruction of the jar means potsherds. 
 
