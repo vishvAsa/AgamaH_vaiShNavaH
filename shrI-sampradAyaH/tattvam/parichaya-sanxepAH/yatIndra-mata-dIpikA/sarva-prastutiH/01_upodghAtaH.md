@@ -8,7 +8,7 @@ title = "०१ उपोद्घातः"
 प्रथमोऽवतारः  
 उपोद्घातः 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 YATINDRAMATADIPIKĀ 
 
@@ -26,17 +26,17 @@ INTRODUCTORY
 स्वप्ने च दृष्टान् मम देशिकेन्द्रान् ॥ १ ॥  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 अथ खलु तत्रभवान् विद्वद्वर्य श्रीमन्महाचार्य मुख्यान्तेवासी श्रीनिवासाचार्य यतीन्द्रमतदीपिकानाम्नी शारीरकपरिभाषामारभ- माणः इष्टदेवदेशिकस्तवन लक्षणं मङ्गलमातनोति 'श्रीवेङ्कटेशम्' इति । श्रीवेङ्कटाचलनायक भगवन्त श्रीनिवास, श्रीकवीहस्तिगिरी वरद देवाधिराज, चोलसिंहपुरे घटिकाचले विराजमान श्रीमन्नृसिंह, गीताचार्येण श्रीकृष्णेन सह गीताभाष्यादिभिर्विशिष्टाद्वं तसिद्धान्तप्रतिष्ठापक श्रीभगवद्रामानुजमुनिं स्वप्न एतदहर्मुखेदृष्टान् एतत्प्रकरणनिर्माणार्थमादेश कुर्वाणान् स्वाचार्याश्च श्रीनिवासदासोऽह नौमीत्यर्थः ॥ १ ॥
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - श्रीवेङ्कटेश भगवान्, श्रीवरदराज भगवान्, घटिकाचल पर विराज- मान श्रीनृसिंह भगवान्, श्रीसम्पत् कुमार भगवान् के साथ श्रीरामानुजाचार्यं तथा स्वप्न में साक्षात्कृत अपने आचार्यवर्यों की में वन्दना करता हूँ ।
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भावप्रकाशिका
 
@@ -87,7 +87,7 @@ INTRODUCTORY
 ग्रन्थ के माध्यम से विशिष्टाद्वैत दर्शन के मान्य सिद्धान्तों को बड़ी आसानी से जाना जा सकता है ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 I glorify Śrī Venkatesa, Śrī Devaraja the Lord of Kariśaila, Nrsimha (the Lord of) Ghatikadri, 3 and Yatirāja together with Kṛṣṇa;3 and my supreme teachers who were seen by me in a vision. (1) 
 </details>
@@ -107,23 +107,23 @@ I glorify Śrī Venkatesa, Śrī Devaraja the Lord of Kariśaila, Nrsimha (the L
 यतीन्द्रमतदीपिकाम् ॥२॥
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - यतिराज श्रीरामानुजाचार्य तथा अपने परमगुरु श्रीवेदान्तदेशिक तथा श्री महाचार्य को प्रणाम करके वेदान्तशास्त्र में प्रविविक्षु जिज्ञासुओं के ज्ञान के लिए यतीन्द्रमत-दीपिका नामक प्रकरण-ग्रन्थ का प्रणयन कर रहा हूँ । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० – 'यथा देवे तथा गुरौ' इस श्रुति के अनुसार इस श्लोक में ग्रन्थकार अपने आचार्यों की स्तुति करते हैं । रामानुजाचार्य विशिष्टाद्वैतदर्शन के भाष्यकार के रूप में प्रख्यात हैं। श्रीनिवासाचार्य श्रीमन्महाचार्य के प्रथम तथा प्रधान शिष्य है । आपने श्रीवेदान्तदेशिक के न्यायपरिशुद्धि नामक ग्रन्थ की विस्तृत व्याख्या की है । श्रीमन्महाचार्य ने वेदान्तदेशिक के प्रख्यात ग्रन्थ 'शतदूषणी' की चण्डमारुत नाम की व्याख्या की है । श्रीमन्महाचार्य श्रीवेदान्ताचार्य के साक्षात् शिष्य थे; अत एव आप श्रीनिवासाचार्य के परमगुरु थे । 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindramatadipika for the instruction of beginners. (2)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'यतीश्वर' मिति । त्रिविधप्रबन्धमुखेन विशिष्टाद्वैत सिद्धान्तप्रतिष्ठा- पकानाचार्य चरणात् श्रीमद्भाष्यकारश्रत्यन्तदेशिक महाचार्यान् प्रणम्याह- मेतत्तत्वानभिज्ञाना तत्वजिज्ञासूनाकृते यतीन्द्रमतदीपिका करोमीत्यर्थः । एतेनैतत्सिद्धान्तसिद्धमानमेयरूपो विषय, तज्जिज्ञासुरधिकारी, एत- न्मततत्वाबोधलक्षणं साक्षात् फन च स्वप्रबन्धस्य निरदिश्यन्त । परम्परया नि श्रेयसानुबन्धित्व चास्य विद्यत इति हार्द्दम् ॥२॥ 
 </details>
@@ -154,19 +154,19 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 यथामति सङ्ग्रहेण प्रकाश्यते ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 तत्र तावत् तत्त्वहितपुरुषार्थान् सगृह्णाति 'श्रीम'दिति । चिद- चित्प्रकारविशिष्ट श्रीमन्नारायण एवाद्वैतम् - एक तत्वमित्यर्थः । द्वयो- र्भावोद्विता द्वित्वम् । द्वितैव द्वैतम् । नास्ति द्वैत यस्मिन् तदर्द्धनम् । चिदचितोरपृथक्सिद्धविशेषणत्वेन ब्रह्मण्यन्तर्भूतत्वात् विशिष्टमेकमेव तत्त्वमित्यर्थः । स श्रीमान् नारायण एवम् उपाय - मोक्षप्रापकः । परमे पदे श्रीवैकुण्ठे विराजमानः स एव परवासुदेवाख्य. मुक्तप्राप्य इति तत्वादित्रयसङग्रह' । 'व्यास' इत्यादि । व्यासादयोऽमी विशिष्टाद्वैत- मतस्य प्रतिपादकाः परिपोषकाः प्रतिष्ठापकाश्च मता यथायथम् । तत्र व्यासो- ब्रह्ममीमासादिप्रणेता । बोधायनो ब्रह्मसूत्रेषु वृत्तिकार. । गुहृदेवो वेदभाष्यकर्ता, श्रौतसूत्रव्याख्याता च । भारुचिश्च विष्णुस्मृतिव्यारव्या- तेति विमर्शकुशला प्राहु । ब्रह्मनन्दि टङ्काचार्यः छान्दोग्यस्य वाक्य- नामक व्याख्याकार । द्रमिडाचार्यो वाक्यस्य भाष्यकृत् । श्रीपराङ्कुशमुनिदित्र्यप्रबन्धाविष्कर्त्ता श्रीमन्नाथमुनेर्योगे दिव्यरूपत सिद्धान्त- रहस्योपदेशकश्च । श्रीमन्नानमुनि न्यायतत्वशास्त्रादिप्रणेता । श्रीमद्यामुनमुनि सिद्धित्रयादिकर्ता । यतीश्वर श्रीमद्भगवद्रामानुजमुनि श्री - भाष्यादिकृत् इति अनुसन्धेयम् ।
 
 १ - चिदचिद्विशिष्टाद्वै ततत्वम् ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद – चेतन तथा अचेतन तत्त्वों से विशिष्ट श्रीमन्नारायण ही अद्वैत तत्त्व हैं । भक्ति एवं प्रपत्ति नामक साधनों से प्रसन्न होकर वे ही ( अपनी प्राप्ति में ) साधन बन जाते हैं । दिव्य वैकुण्ठलोक में रहकर वे ही सभी जीवों के लिए प्राप्य हैं । इस अर्थ का वेदान्तवाक्यों के आलोक में प्रतिपादन करने वाले व्यास, बोधायन, गुहदेव, भारुचि, ब्रह्मानन्द, द्रमिडाचार्य श्रीशठकोपसूरि, नाथमुनि, यामुनाचार्य तथा रामा- नुजाचार्य आदि के मतानुसार वेदान्तशास्त्र में प्रवेश पाने की इच्छा वाले बालकों के ज्ञानार्थं, वेदान्तचार्य का कृपापात्र मैं ( श्रीनिवासाचार्य ) वेदान्त ( उपनिषदों ) का अनुसरण करने वाली यतीन्द्रमत- दीपिका नामक शारीरक - परिभाषा का अपनी बुद्धि के अनुसार प्रणयन कर रहा हूँ । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० - भगवान् नारायण ही तत्त्व हैं- महाभारत के मोक्षधर्मं नामक प्रक- रण में कहा गया है कि- 
 
@@ -200,12 +200,12 @@ I bow to Yatīśvara, Vedantarya7 and Mahāguru; and I begin to compose Yatindra
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 1. Sriman Narayana alone having cit (the senti- ent) and acit (the non-sentient) for His qualifications is the sole Reality, one without a second. He alone, propitiated by devotion and self-surrender, is the means (to salvation) and He alone qualified by the non-material realm10 is the goal to be attained. Śrī Vyāsa, Bodhāyana, " Guhadeva, Bhāruci, Brahma- nandin, 13 Dramidācārya, 14 Śrī Parānkuśa, 15 Nātha, 16 Yamunamuni,17 Yatīśvara18 and others establish this by means of the Vedanta texts. Following their school I, by the grace of Mahācārya,19 proceed to expound to the best of my ability and in a summary fashion (the work) Sārīrakaparibhāsā, called Yatindramatadipikar based on the Vedanta for the instruction of beginners. 
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>गोविन्दाचार्यः (En)</summary>
 
 The BLESSED LORD (Śriman-Nārāyaṇa) " alone is the Truth (tattva), adjectivated by soul and non-soul, and secondless. By Love (Bhakti) and Resignation (Prapatti,) propitiated, He alone is the Means; and He alone is the Goal, adjectivated by the Spiritual Universe. Thus, by means of the texts (or passages) of the Vedanta, do they establish-viz., Vyasa, Bodhāyana, Guhadeva, Bhāruci, Brahmanandi, Dramiḍācārya, Śrī Parānkuśa, Natha,' Yamu- namuni, Yatiśvara' and others. According to their School, I proclaim, by the grace of Mahā- cārya (my Guru or Spiritual Preceptor), the Śariraka-Paribhasha," named Yatindra-mata- Dipika (or the Light of Ramanuja's School),- which follows the Vedanta-for the instruction of students.
 </details>
@@ -228,17 +228,17 @@ The BLESSED LORD (Śriman-Nārāyaṇa) " alone is the Truth (tattva), adjectiva
 **कालस्** तु उपाधि-भेदात् त्रि-विधः ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'त्रोष्येवे 'ति । 'प्रत्यक्षानुमानशब्दभेदादित्यर्थ. । 'त्रिविध' इति । भूतभविष्यद्वर्तमानभेदात् कालस्त्रिविध इत्यर्थः । 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - सम्पूर्ण पदार्थ समूह को दो भागों में विभक्त किया जाता है— प्रमाण एवं प्रमेय । प्रमाण तीन ही हैं । प्रमेय दो प्रकार के हैं- द्रव्य एवं अद्रव्य । द्रव्य दो प्रकार के होते हैं— जड़ एवं अजड़ । जड़ भी दो प्रकार के हैं— प्रकृति एवं काल । प्रकृति चौबीस तत्त्वों वाली हैं । काल तो उपाधि के भेद से तीन प्रकार का होता है । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० - इस पदार्थ विभाग के द्वारा ग्रन्थकार ने यह स्पष्ट कर दिया है कि विशिष्टाद्वैत दर्शन में वैशेषिकाभिमत सप्तपदार्थी अथवा नैयायिकाभिमत षोडशपदार्थी को स्वीकार न करके द्विपदार्थी सिद्धान्त को स्वीकार किया जाता है । विशिष्टाद्वैत दर्शन के प्रख्यात व्याख्याता श्रीवेदान्तदेशिक ने भी पदार्थों का विभाग इसी प्रकार से करते हुए तत्त्वमुक्ताकलाप के जड़द्रव्यसर में कहा हैं- 
 
@@ -254,7 +254,7 @@ The BLESSED LORD (Śriman-Nārāyaṇa) " alone is the Truth (tattva), adjectiva
 </details>
 
 
-<details><summary>Keith</summary>
+<details><summary>गोविन्दाचार्यः (En)</summary>
 
 All the sum of things are divisible into two Divisions, (1) Pramāṇa, Authority, or Measurer or Means (of knowledge), and Prameya or the Measured or Object (or Objective) (of know- jedge). 
 
@@ -269,7 +269,7 @@ Prakrti or Matter is composed of twenty- four (sub-) principles (tattva).
 Kala or Time is, by reason of limitation or condition (upadhi), threefold.
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 2. All knowable things are divided into two kinds, as pramāna (the means of valid knowledge) and prameya (object of valid knowledge). The means of valid knowledge is only threefold.22 The object of valid knowledge is twofold, because of the difference as dra- vya (substance) and adravya (non-substance). Dravya is of two kinds, as jada (material) and ajada ( im - material). Jada is of two kinds, as prakrti (primordial matter) and time. Prakrti is of the nature of twenty- four categories.28 Time is of three kinds owing to limitation. 24 
 </details>
@@ -286,31 +286,31 @@ Kala or Time is, by reason of limitation or condition (upadhi), threefold.
 अजडम् **पराग्** अपि तथा – नित्य-विभूतिर् धर्मभूतज्ञानं चेति ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 अजड - स्वयं प्रकाशं द्रव्यम् । पराक्- परस्मै स्वय भास- मान परागत्र विवक्षितम् । प्रत्यक्-स्वस्मै स्वयं भावमानम् । परस्मै परत एव भासमान पराग्वस्तु जडमिति विवेक । 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अजड़ भी दो प्रकार के होते हैं—पराक् एवं प्रत्यक् । पराक् भी दो प्रकार के होते हैं - नित्य विभूति एवं धर्मभूतज्ञान । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 अजड - द्रव्य अपने प्रकाश के लिए प्रकाशकान्तर की अपेक्षा नहीं रखते हैं, वे स्वयम् प्रकाशित होते हैं । प्रकृति के चौबिस तत्त्व ये हैं- प्रकृति, महान्, अहङ्कार, पांच तन्मात्राएँ, पञ्चकर्मेन्द्रियाँ, पञ्चवज्ञानेन्द्रिय, मन एवं पचमहाभूत । 
 
 </details>
 
 
-<details><summary>Keith</summary>
+<details><summary>गोविन्दाचार्यः (En)</summary>
 
 A-jada or the Sentient is twofold; Parāk or outward (objective) and Pratyak or Inward (subjective). 
 
 Parak or Outward is also twofold: the Nitya- vibhuti or Eternal Estate, and the Dharma- bhūta-jñāna or attributive (or adjectival) con- sciousness or cognition. 
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 3. The ajada is of two kinds, as parāk (the exter- nal) and pratyak (the internal). The parāk which is ajada, is in its turn of two kinds, as nityavibhūti (the eternal manifestation) and dharmabhūtajñāna (the attributive consciousness).
 </details>
@@ -334,18 +334,18 @@ Parak or Outward is also twofold: the Nitya- vibhuti or Eternal Estate, and the 
 **परमैकान्ती** द्विविधः – दृप्तार्त-भेदात् ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 एकान्ती - भगवत एव मोक्षमैहिकं च फलं कामयमान - अन्-अन्य-दैवत इति यावत् ।  
 परमैकान्ती - भगवत एव तद्-अनुभव-सेवा--तद्-उपकरणातिरिक्तं किम् अपि फलम् अकामयमानः । इमः -- वर्तमान देहधारणक्षम देहान्तरान्वयासहिष्णु, । आर्तः -- वर्तमानदेहसम्बन्ध मध्य सहमानो भग- वत्प्रासाबुत्कटत्व रावान् । 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 प्रत्यक् भी दो प्रकार के हैं— जीव एवं ईश्वर । बद्ध, मुक्त एवं नित्य के भेद से जीव तीन प्रकार के होते हैं । बद्ध ( जीव ) भी दो प्रकार के होते हैं— बुभुक्षु एवं मुमुक्षु । बुभुक्षु जीव भी दो प्रकार के होते हैं—अर्थ एवं काम को चाहने वाले तथा धर्म को चाहने वाले । धर्मपरक जीव भी दो प्रकार के होते हैं -- देवतान्तरपरक एवं भगवत्परक । मुमुक्षु जीव भी दो प्रकार के होते हैं— कैवल्य चाहने वाले तथा मोक्ष चाहने वाले । मोक्षपरक जीव भी दो प्रकार के होते हैं - भक्त एवं प्रपन्न । प्रपन्नमुमुक्षु भी दो प्रकार के होते हैं- एकान्ती एवं परमै- कान्ती । परमैकान्ती जीव भी दो तरह के होते हैं - दृप्त एवं आर्त । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 प्रत्यक् द्रव्य — 'आत्मानं प्रति अवति' इस व्युत्पत्ति के अनुसार अपने लिए तथा स्वयम् प्रकाशित होते हैं । पराक् द्रव्य स्वयम्प्रकाश तो होते हैं, किन्तु वे अपने लिए प्रकाशित नहीं होते हैं । 'परस्मै अञ्चति' यह पराक् शब्द की व्युत्पत्ति है । अत एव - 'स्वस्मै भासमानत्वम्' तथा 'परस्मै भासमानत्वम्' क्रमशः प्रत्यक एवं पराक् के लक्षण हैं । काल के औपाधिक भेद – भूत, वर्तमान तथा भविष्यत् हैं । नित्य विभूति वैकुण्ठलोक का एक नाम है । धर्मभूतज्ञान बुद्धि को कहते हैं । भोग को चाहने वाले जीवों को बुभुक्षु तथा मोक्ष को चाहने वाले जीवों को मुमुक्षु कहते हैं । 
 
@@ -356,14 +356,14 @@ Parak or Outward is also twofold: the Nitya- vibhuti or Eternal Estate, and the 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 4. The pratyak is also of two kinds, because of the difference as jīva (the individual self) and Iśvara. Jiva is of three kinds, because of the difference as baddha (the bound jīva in sarsāra), mukta (the releas- ed jīva) and nitya (the eternally free). The baddha is of two kinds, because of the difference as bubhuksu25 (the pleasure-seeker) and mumukṣu26 (the salvation-seeker). The bubhukṣu is of two kinds, as arthakāmapara (the votary of artha and kama) and dharmapara (the votary of dharma). The dharmapara is of two kinds, as the votary of various gods and the votary of Bhagavan. 
 
 Mumukşu is of two kinds, as the votary of self-realiza- tion (kaivalya) and the votary of release (moksa). The votary of mokṣa is of two kinds, as bhakta (lover of God) and prapanna (one who has resigned his self to God). The prapanna is of two kinds, as ekāntin (one- pointed) and parama-ekantin (extremely one-pointed). The parama-ekāntin is of two kinds, because of the difference as drpta (the patient aspirant ) and ārta (the impatient aspirant ). 
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>गोविन्दाचार्यः (En)</summary>
 
 Pratyak or Inward is also twofold: Jwa or the Individual Soul and Iśvara or Ruling (Universal) Soul (God).
 
@@ -405,17 +405,17 @@ The Paramaikanti is twofold: the Drpta" or The Postulant-Patient, and the Arta" 
 सकल-मनुज-नयन-विषयतां गतो मूर्ति-विशेषः ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'विभवा' इति । देव मनुष्यादिस्वविभूतिसजातीया भगवतोऽवद्वारा उपेन्द्र रामकृष्णादिका विभवा इत्यर्थः । 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 ईश्वर के पाँच रूप हैं - पर, व्यूह, विभव, अन्तर्यामी एवं अर्चावतार । पर रूप से ईश्वर एक ही प्रकार का है । व्यूह रूप से वह चार प्रकार का है- वासुदेव, संकर्षण, प्रद्युम्न एवं अनिरुद्ध । केशव आदि जो द्वादश व्यूह हैं, उनका भी इन्हीं चार व्यूहों में अन्तर्भाव हो जाता है । विभव रूप से ईश्वर के मत्स्य आदि अनन्त भेद हैं । अन्तर्यामी रूप से ईश्वर सभी शरीरों के भीतर अन्तरात्मा रूप से विद्यमान है । अर्चावतार तो श्रीरङ्गम्, वेङ्कटाद्रि, हस्तिगिरि, यादवाद्रि, घटिकाचल आदि तत्तत् दिव्य देशों में सभी मनुष्यों द्वारा दर्शन किये जाने वाले रङ्गनाथ, वेङ्कटेश आदि मूर्तिविशेष को ही कहा जाता है । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 ईश्वर के पांच रूपों का प्रतिपादन करते हुए आगम ग्रन्थों में कहा गया है- 
 
@@ -430,13 +430,13 @@ The Paramaikanti is twofold: the Drpta" or The Postulant-Patient, and the Arta" 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 5. Iśvara abides in five forms, because of the difference as Para, Vyūha, Vibhava, Antaryāmin and Arcā. Para (the self-transcendent absolute) is uniform (i.e., single and complete). The Vyuha is fourfold, because of the difference as Vasudeva, Sankarṣaṇa, Pradyumna and Aniruddha. Kesava etc. are other types of Vyuhas. Matsya and others are Vibhavas ( incarnations), and they are numberless. The Antar- yāmin (the indweller ) abides in every body. The incar- nations of Arcă are those special forms presented to the vision of all men in sacred shrines like Srirangam, 27 Venkatadri, 28 Hastigiri, Yadavadri, Ghatikācala, 30 etc. 
 
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>गोविन्दाचार्यः (En)</summary>
 
 Iśvara or God Supreme is (hypostatically) existent in five modes, viz., (1) Para or the Transcendant, (2) Vyuha or the Grouped, (3) Vibhava or the Incarnational (4) Antaryāmi or the In-Ruler, and (5) Arca or the Worship- pable."9
 
@@ -461,7 +461,7 @@ Arcă or the Worshippable are those unique Images presented to the eyes of all m
 ६. अद्रव्यं तु सत्त्व-रजस्-तमः-शब्द-स्पर्श-रूप-रस-गन्ध-संयोग-शक्ति-भेदाद् दशधैव ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 ७ 
 
@@ -472,7 +472,7 @@ Arcă or the Worshippable are those unique Images presented to the eyes of all m
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 6. Adravya is of ten kinds, because of the differ- ence as sattva (goodness), rajas (passion or activity), tamas (darkness or inertia), Śabia (sound), sparśa (touch), rūpa (colour), rasa (taste), gandha ( smell ), samyoga (conjunction) and śakti (potentiality). 
 
@@ -503,12 +503,12 @@ Arcă or the Worshippable are those unique Images presented to the eyes of all m
 “यथावस्थित” इति पदेन संशयान्यथा-ज्ञान--विपरीत-ज्ञान--व्यावृत्तिः ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 ' एव' मिति । नाम्ना पदार्थसङ्कीर्तनमुद्देशः । असाधारणधर्मो लक्षणम् । परीक्षा- लक्ष्यस्य लक्षणमुक्तं सम्भवति न वेति विचार । 'यथावस्थिते 'ति । व्यवहारो वाचिकः कायिकश्चेति द्विविधः । व्यवहारे यथावस्थितत्व विनियोगयोग्यार्थं विषयकत्वम् । विनियोग. प्रेप्सितार्थोपयोगः । शुक्ती तु रजतं सदपि न विनियोगार्हम् । 'यथावस्थितपदेने 'ति । अव्यव- स्थित व्यवहारहेतोः सशयस्य, अयथाव्यवहारहेतोरन्यथाज्ञानादेश्च- व्यावृत्तिरित्यर्थ । 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - उपर्युक्त प्रकार से निर्दिष्ट पदार्थों के निर्देश क्रम से उनका लक्षण तथा लक्षणों की परीक्षा की जा रही है । 
 
@@ -525,7 +525,7 @@ Arcă or the Worshippable are those unique Images presented to the eyes of all m
 रजत समझकर उसे उठाने आदि का व्यवहार होता है, अतः शुक्तिरजत-ज्ञानस्थल में प्रमा की अतिव्याप्ति रह ही गयी । इसीलिए यथावस्थित व्यवहार के अनुकूल ज्ञान को प्रमा कहा गया । यथावस्थित पद के प्रयोग के द्वारा प्रमा की संशय, अन्यथाज्ञान तथा विपरीतज्ञान, इन तीनों प्रकार के ज्ञानों से भिन्नता सिद्ध हो गयी । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 मा० प्र० - ऊपर के अनुच्छेद में पदार्थों का विस्तृत विभाग प्रस्तुत किया गया है । 
 
@@ -539,13 +539,13 @@ Arcă or the Worshippable are those unique Images presented to the eyes of all m
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 7. Now the definition and examination of the categories will be attempted in the order in which they have been enumerated above. Of these, the instrument of valid knowledge is pramāna. What is defined (here) is pramāna. The definition is that it (pramāna) has the quality of causing pramā (valid knowledge). Prama is that knowledge which is adapted to practical interests of life as they really are. 31 What is defined (here) is pramā. The definition is that it (pramā) has the quality of knowledge adapted to practical interests of life as they really are. If it be said 'Pramā is knowledge', there would be over-pervasion in the (erroneous) cognition of a nacre in the form, 'this is silver'; hence it is said 'adapted to practical interests of life'. Even then there would be over-pervasion as one may have the percep- tion (of a nacre) in the form, 'this is silver' in a state of delusion; hence it is said 'as they really are'. By the expression ‘as they really are', sarśaya (doubt ), anya- thājñāna (wrong knowledge) and viparītajñāna (con- trary knowledge) are excluded. 
 
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>गोविन्दाचार्यः (En)</summary>
 
 Of those, Pramāņa or Means of knowledge is the producer (or maker or giver) of Pramā or knowledge. Means' is what is to be defined; the definition of it is that it is the producer of Pramā, knowledge'. Pramā is jñāna or 'knowledge consonant with experience in its exactitude'. Prama or knowledge is the thing to be defined. The definition is that which [[23]] has the quality of knowledge consonant with experience in its exactitude'. Supposing the definition of Prama was simply knowledge', the knowledge which sees silver in a pearl-oyster would be a definition overlapping its bounds (ati-vyāpti), (or over-pervading its legitimate limits). Hence the definition of Pramā takes the form: 'knowledge consonant with experience'. Even then the fault of over-pervasion (ati-vyāpti) remains, inasmuch as one in a moment of illusion (or delusion) may mistake the pearl-oyster for silver. Hence (the further) qualificatory clause to the definition: in its exactitude (yathâvas- thita)'. 
 
@@ -570,20 +570,20 @@ By this expression, samsaya, anyathā-jñāna and viparīta-jñāna are avoided 
 यथा वस्तुनो वस्त्व्-अन्तर-ज्ञानम् ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 संशयलक्षणमाह- 'वर्मी'ति । साधारणाका- रेण धर्मिग्रहे तदुपस्थापितमिथोविरुद्धनानाकोटिस्फुरण सशय इत्यर्थः ।  
 
 तार्किकमतवत् सिद्धान्ते सशयो नैक ज्ञान मतम् । किन्तु धर्मि- ग्रहण कोटिद्वयप्रतीतिश्चेति ज्ञानद्वयम् । दोषादभेदाग्रहणेन सहित तदेवायं स्थाणुर्वा पुरुषो वेत्यनवस्थित व्यवहारहेतुर्भवतीति स्वीकृतम् । धर्मविपर्यास - अन्यदीयधर्मस्य धर्म्यन्तरेभानम् । आत्मनि कर्तर्यकर्तृत्व ज्ञानमन्यथाज्ञान, सिद्धान्ते कर्तृत्वस्वीकारादात्मन' । 'कुयुक्तिभिः सारव्यादिदुस्तर्कैः । भ्रान्तत्वोपपादनम् - आत्मनि कर्तृत्वस्य भ्रम- सिद्धत्वोपपादनम् । वस्त्वन्तरे ति भावप्रधानो निर्देश. । वस्त्वन्तरत्व- ज्ञानमिति यत्वत् । धर्मिस्वरूपनिरूपकधर्मस्यान्यत्र धर्मिण्यध्यासो विपरीतज्ञानम्, यथा शुक्तौ रजतमिति, देहे आत्मेति । तद्मिन्नधर्म- स्याध्यासोऽन्यथाज्ञानम्, यथा शङ्खः पीतः, इति । आत्माऽकर्तेति च।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 जहाँ पर किसी भी वस्तु में परस्पर विरुद्ध अनेक धर्म प्रतीत होते हैं, वह ज्ञान संशय कहलाता है । जैसे अन्धेरे में किसी ऊँची वस्तु को देखकर यह ठूंठा वृक्ष ( स्तम्भ ) है या कोई आदमी है, इस प्रकार के अनिश्चय गर्भ अनेक प्रकार के धर्म प्रतीत होने लगना ही संशय है । किसी वस्तु के धर्म को दूसरे प्रकार का समझना ही अन्यथाज्ञान है । जैसे कर्तारूप से आत्मा की प्रतीति होती है, फिर भी कुयुक्ति के द्वारा आत्मा के कर्तृत्व को भ्रमजन्य सिद्ध करना अन्यथाज्ञान है । किसी वस्तु को ही उल्टा समझ लेना विपरीत- ज्ञान है । जैसे भैंस को अश्व समझ लेना । 
 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 संशयज्ञान - में वस्तु के स्वरूप का निर्णय नहीं हो सकने के कारण उसको अनेक प्रकार की प्रतीति होती है । जैसे अन्धकार में किसी ऊँचे आकार वाली वस्तु को देखकर मनुष्य को जब यह प्रतीत होने लग जाय कि यह क्या है ? कोई चोर तो नहीं खड़ा है ? या यह कोई स्तम्भ है ? इसी प्रकार के ज्ञान को संशयज्ञान कहते हैं । 
 
@@ -601,7 +601,7 @@ By this expression, samsaya, anyathā-jñāna and viparīta-jñāna are avoided 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 8. Samśaya is the recollection of several mutually contradictory attributes when a thing is apprehended; for instance, the (dubitative) cognition in respect of a tall object, 'Is this a stump or man?". 
       
@@ -610,7 +610,7 @@ What is called anyathājñāna is the misapprehension of one attribute for anoth
 What is called viparītajñāna is the misappre- hension of one thing for another; for instance, the cognition of another object in the place of the (intend- ed) object. 32 
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>गोविन्दाचार्यः (En)</summary>
 
 Samsaya or Doubt is the apperception of mutually contradicting attributes in a thing (dharmi) to be apprehended. For example, the doubt whether a long-looking or erect object is post or person. 
 
@@ -646,13 +646,13 @@ Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one th
 अत्रोक्त-दूषण-त्रयाभावात् - +++(पूर्वोक्तम्)+++ प्रमा-लक्षणम् स्व-स्थम् ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'यथा जीव' इति । गुणत्रयवश्यत्वं जीवात्मलक्षणं नित्यमुक्तेष्व- व्यासम् । लक्ष्यैकदेशावृत्तित्वमव्याप्ति । ज्ञानवत्त्व जीवात्मनां लक्षण- मीश्वरेऽतिव्याप्तम् । लक्ष्यालक्ष्यवृत्तित्वमतिव्याप्तिः । चक्षुर्ग्राह्यत्वं चेदा- त्मनां लक्षणमुच्यते, तर्ह्य सम्भव । लक्ष्यसामान्ये ऽवर्तमानत्वमसम्भवः । एतद्दोषत्रयरहितोधर्मो लक्षण भवति । असाधारणधर्मो लक्षणमिति यावत् । लक्ष्यतावच्छेदकसमनियतत्वमसाधारणत्वम् । तच्च स्वव्याप- कलक्ष्यतावच्छेदक व्यापकत्वम् । स्व-लक्षणम् । जीवात्मना शेषचेतन- त्व लक्षणं साधु । 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 9. A definition has three defects: avyāpti (non- pervasion), ativyāpti (over-pervasion) and asambhava (absolute inapplicability).  
    Avyapti is the absence of the definition in a thing sought to be defined; for inst- ance, in the definition, 'the characteristic of the cow is the possession of orange-brown colour', there is non- pervasion in respect of (the cows) possessing white colour.  
@@ -681,25 +681,25 @@ Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one th
 तेन प्रमा-करणम् **प्रमाणम्** इति सिद्धम् ।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 अनधिगतेति । अज्ञातार्थज्ञानजनक प्रमाण-प्रमाकरणमित्यर्थ ।  
 यद्वा प्रमाणमिति भावल्युडन्तम् । गन्तृ-गमक, प्रकाश-कम् । अज्ञातार्थप्रकाशक ज्ञानं प्रमेत्यर्थः । सौगताद्यभिमतमज्ञातार्थ- ज्ञान प्रमेति लक्षणं स्मृतौ धारावाहिकद्वितीयादिनाने चाव्याप्तम् । अपरोक्षानुभव प्रमेति चानुमित्यादावव्याप्तमिति बोध्यम् । साक्षा- त्कारि-लौकिक विपयितागालि, विशदावभासात्मकम्, यद्वा अनुमिति त्वशाब्दत्व स्मृतित्व रहितम् ( ज्ञानम् ) । सप्रत्यवमर्श' मिति । सत्रतिस- न्धानमित्यर्थः । तत्तोल्लेखीतिवा । अनुपपत्ते - केनचिद्धर्मेण विना- वस्तुनो ग्रहणायोगात् । प्राप्यकारित्वे ति । सम्बध्यार्थेन तत्प्रकाश- रूपकार्यकरत्व मिन्द्रियाणामिति नियमादित्यर्थ । संयुक्ताश्रयणम् इन्द्रिय संयुक्तद्रव्याश्रितत्वम् । योग्येऽर्थेइन्द्रियसनिकर्णः प्रत्यक्षहेतुः इति च बोध्यम् । अर्वाचीन जन्यम् । अनर्वाचीनमजन्यम् । प्रसङ्गा- दिति । जन्यप्रत्यक्षस्यैवप्रमाणनिरूपण प्रकृतम् । अजन्यस्यतु प्रत्यक्षस्य स्मृतस्योपेक्षानर्हत्वादत्र निर्देशः कृत इत्यर्थम् । 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - साधकतम साधन को करण कहते हैं । कार्य जो सर्वोत्कृष्ट साधन होता है, उसे साधकतम कहते हैं । जिस साधन का प्रयोग होते ही कार्य हो जाता है, उसे अतिशयित अर्थात् सर्वोत्कृष्ट साधन कहते हैं । इस तरह प्रमा के करण को प्रमाण कहते हैं, यह सिद्ध हुआ । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० – प्रमाण का लक्षण करते हुए ग्रन्थकार ने प्रमा के करण को प्रमाण कहा है । उपर्युक्त अनुच्छेद में प्रमा का विवेचन किया जा चुका है। अतएव यहाँ पर करण पदार्थ का निरूपण करते हुए उन्होंने बतलाया कि साधकतम को करण कहते हैं । अब प्रश्न है कि साधकतम किसे कहते हैं तो इसका उत्तर वे देते हैं कि कार्य के अतिशयित साधन ( हेतु ) को साधकतम कहते हैं । साधक शब्द से यहाँ पर सर्वोत्कृष्ट अर्थ में 'अतिशायने तमबिष्टनी' ( अष्टाध्यायी ५।३।५५ ) सूत्र से तमप् प्रत्यय होकर साधकतम शब्द बना है । इसका अर्थ है कार्य के सम्पादक अनेक साधनों में सर्वोत्कृष्ट साधन । इसीलिए कहा गया कि जिस साधन का प्रयोग होते ही अवि- लम्ब कार्य उत्पन्न हो जाय, उसे अतिशयित साधन कहते हैं । 
 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 10. The instrument (karana) is that which is the best cause (for the production of prama). 34 The best cause is that which is most important. It is said that (instrument) is 'most important' by which knowledge arises without delay. Hence it is established pramāṇa is the cause of valid knowledge. 
 </details>
@@ -717,12 +717,12 @@ Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one th
 तत्-तद्-वादिभिर् एव निरस्तत्वाद् अनादरणीयम् ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - अज्ञात अर्थ का बोधक प्रमाण होता है, इत्यादि प्रमाण लक्षण तो विभिन्न वादियों के द्वारा ही खण्डित होने के कारण अनादरार्ह हैं । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० - वेदान्तपरिभाषाकार-कृत प्रमा के लक्षण का खण्डन - 'अनधिगतार्थ- गन्तृप्रमाणम्' इस वाक्य का विग्रह इस प्रकार है- 'न अधिगतः अनधिगतः, अज्ञात इत्यर्थः । अनधिगतश्वासो अर्थः अनधिगतार्थः, अनधिगतम् अर्थं गच्छति यत् तत् ज्ञानं प्रमाणम् ।' यहाँ पर अनधिगत पद को अबाधित का भी उपलक्षण मानना चाहिए । प्रमाण शब्द में भी 'पूर्वं धातुरुपसर्गेण युज्यते पश्चात् प्रत्ययेन' इस नियम के अनुसार 'प्रमा' शब्द से 'ल्युट् च' ( अष्टाध्यायी ३।३।११५ ) सूत्र से भाव में ल्युट् प्रत्यय मानना चाहिए। इस तरह उक्त वाक्य का अर्थ यह हुआ कि अज्ञात एवं अबाधित विषयों के ज्ञान को प्रमा कहते हैं । इस वाक्य के द्वारा यतीन्द्रमतदीपिका- कार को वेदान्तपरिभाषाकार के— 'अनधिगताबाधित विषयज्ञानत्वम्' इस प्रमा के 
 
@@ -746,7 +746,7 @@ Viparita-jñāna or Reversed Apprehension is the mistaken apperception of one th
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 The definition of pramāņa as one which makes known what is not al- ready known and the like are unacceptable inasmuch as they have been refuted by their own propounders.35
 </details>
@@ -770,12 +770,12 @@ The definition of pramāņa as one which makes known what is not al- ready known
 ११. तानि **प्रमाणानि** प्रत्यक्षानुमान-शब्दाख्यानि त्रीणि ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - वे प्रमाण प्रत्यक्ष, अनुमान और शब्द तीन ही हैं । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० - दार्शनिकों में प्रमाण-संख्या-विषयक मतभेद -- श्रीनिवासाचार्य ने पदार्थों का दो भेद किया— प्रमाण एवं प्रमेय । उन प्रमाणों की संख्या का निर्देश करते हुए वे कहते हैं कि प्रत्यक्ष, अनुमान तथा शब्द ये तीन ही प्रमाण हैं । एव शब्द के द्वारा यह सूचित किया गया है कि इन तीन प्रमाणों से अधिक अथवा कम प्रमाणों की संख्या नहीं स्वीकारी जा सकती है । प्रमाणों की संख्या के विषय में विचारकों का निम्न प्रकार का मतभेद है— चार्वाक केवल प्रत्यक्ष को ही प्रमाण मानते हैं बौद्ध एवं वैशेषिक प्रत्यक्ष एवं अनुमान, इन दो प्रमाणों को ही मानते हैं । सांख्य एवं विशिष्टाद्वैती प्रत्यक्ष, अनुमान और शब्द, इन तीन प्रमाणों को मानते हैं । नैयायिक प्रत्यक्ष, अनुमान, उपमान और शब्द, इन चार प्रमाणों को मानते हैं । प्राभाकर मीमांसक पाँच प्रमाणों को मानते हैं-प्रत्यक्ष, अनुमान, उपमान, शब्द और अर्था- पत्ति । भाट्ट मीमांसक तथा अद्वैती विद्वान् छह प्रमाणों को मानते हैं - प्रत्यक्ष, अनु- मान, उपमान, शब्द, अर्थापत्ति तथा अनुपलब्धि । पौराणिक आठ प्रमाणों को मानते हैं - प्रत्यक्ष, अनुमान, उपमान, शब्द, अर्थापत्ति, अनुपलब्धि, संभव एवं ऐतिह्य । इस प्रमाण-विषयक मतभेद को वेदान्तकारिका में इस प्रकार कहा गया है- 
 
@@ -802,7 +802,7 @@ The definition of pramāņa as one which makes known what is not al- ready known
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 11. These pramānas are three-- pratyaksa (per- ception), anumāna ( inference), and śabda (verbal testi- mony). 
 </details>
@@ -822,7 +822,7 @@ The definition of pramāņa as one which makes known what is not al- ready known
 दुष्टेन्द्रिय-ज-व्यावृत्त्य्-अर्थम् “प्रमा” इति ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - उन तीनों प्रमाणों में साक्षात्कारी प्रमा के करण को प्रत्यक्ष प्रमाण कहते हैं । प्रत्यक्षप्रमाण का अनुमानादि प्रमाणों से भेद सिद्ध करने के लिए साक्षात्-प्रथमोऽवतारः 
 
@@ -831,14 +831,14 @@ The definition of pramāņa as one which makes known what is not al- ready known
 कारी पद को प्रमा का विशेषण बनाया गया है। दूषित इन्द्रियों से उत्पन्न ज्ञान से प्रमा की भिन्नता सिद्ध करने के लिए प्रमा पद का प्रयोग किया गया है । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० - यतीन्द्रमतदीपिकाकार प्रत्यक्षप्रमाण को साक्षात्कारी प्रमा का साधकतम बतलाते हैं । साक्षात्कारिणीप्रमा वह होती है, जो चक्षुरादि इन्द्रियों से उत्पन्न होती है । तर्कभाषाकार केशवमिश्र कहते हैं - 'साक्षात्कारिणी च प्रमा सैवो- च्यते या इन्द्रियजा' । अर्थात् विषयों के साथ इन्द्रियों का संबन्ध होने से जो ज्ञान उत्पन्न होता है, उसे साक्षात्कारी प्रमा कहते हैं। अनुमान और शब्द प्रमाण से भी प्रमा होती है, किन्तु वह साक्षात्कारिणी नहीं होती; अपितु वह अनुमिति प्रमा तथा शाब्दी प्रमा होती है । उन दोनों प्रमाओं से भिन्न प्रकार की प्रमा का साधकतम सिद्ध करने के लिए लक्षणवाक्य में साक्षात्कारी शब्द कहा गया है। ज्ञान दोषदूषित इन्द्रियों से भी उत्पन्न होता है । जैसे काचकामलादि दोष से दूषित चक्षुरिन्द्रिय से गृहीत उजला भी शंख पीला प्रतीत होता है । तिमिर तथा अङ्गुल्यवष्टम्भ आदि से दूषित चक्षुरिन्द्रिय से एक ही वस्तु दो दिखने लग जाती है । किन्तु इस प्रकार के ज्ञान को प्रमा नहीं कहा जा सकता है। ऐसे ज्ञानों से भी प्रत्यक्षप्रमाण जन्य ज्ञान की भिन्नता सिद्ध करने के लिए लक्षण में प्रमा पद का प्रयोग किया गया है । 
 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 12. Of these, pratyaksa is that which is the instru- ment of valid perceptual knowledge. 'Perceptual' is used to differentiate it from inference. 'Valid know- ledge' is used to differentiate it from the (erroneous) knowledge arising from the defective sense organ.36 
 
@@ -861,13 +861,13 @@ The definition of pramāņa as one which makes known what is not al- ready known
 अविशिष्ट-ग्राहिणो ज्ञानस्यानुपलम्भाद् अनुपपत्तेश् च ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - प्रत्यक्षप्रमाण दो प्रकार का होता है— निर्विकल्पक एवं सविकल्पक । गुण तथा संस्थान आदि से विशिष्ट एकजातीय द्रव्यों में प्रथम वस्तु का जो साक्षात्- कार होता है, उसे निर्विकल्पक प्रत्यक्ष कहते हैं तथा प्रत्यवमर्शपूर्वक गुणसंस्थानादि- विशिष्ट एकजातीय द्रव्यों में से द्वितीय आदि पिण्डों के साक्षात्कार जन्य ज्ञान को सविकल्पक प्रत्यक्ष कहते हैं । ये दोनों प्रकार के प्रत्यक्ष विशेषणविशिष्ट वस्तु का ही ग्रहण करते हैं । ये दोनों प्रकार के प्रत्यक्ष विशेषणविशिष्ट वस्तु का ही ग्रहण करते हैं, क्योंकि निर्विशेष वस्तु के ग्राहक ज्ञान की न तो उपलब्धि होती है और न तो उस प्रकार का ज्ञान उपपन्न ही हो सकता है । 
 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० – निर्विकल्पक प्रत्यक्ष से भी सविशेष वस्तु का ही ग्रहण होता है- निर्विकल्पक - प्रत्यक्षप्रमाण के विषय में विशिष्टाद्वैती विद्वानों की मान्यता अन्य दार्श- निकों की अपेक्षा भिन्न है । नैयायिक अद्वैती आदि मानते हैं कि निर्विकल्पकप्रत्यक्ष 
 
@@ -893,7 +893,7 @@ The definition of pramāņa as one which makes known what is not al- ready known
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 13. And this perception is twofold, because of the difference as nirvikalpaka (indeterminate) and savikalpaka (determinate). What is called nirvikalpaka is the cognition of the first individual qualified by its attributes, configuration, etc. The savikalpaka is the cognition of the second (third and so on) individual qualified by its attributes, configuration, etc. grasped with retrospection. 37 In both cases this (perception) has for its object only what is qualified (by attributes etc.). Since it is not possible to possess knowledge which apprehends unqualified (objects), (the perception of non-differenced objects) is inadmissible.
 </details>
@@ -915,14 +915,14 @@ The definition of pramāņa as one which makes known what is not al- ready known
 एवमेव स्पार्शन-प्रत्यक्षादयो ऽपि ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद – वस्तुओं का ग्रहण इस प्रकार होता है। आत्मा मन से संयुक्त होता है। मन इन्द्रियों से संयुक्त होता है और इन्द्रिय विषयों से संयुक्त होता है । क्योंकि इन्द्रियों का स्वभाव है कि वे अपने विषय को प्राप्त कर उनका प्रकाश अपने आश्रय के प्रति कर देती हैं। घट आदि विषय तथा चक्षु आदि इन्द्रियों का सन्निकर्ष ( सम्बन्ध ) होने पर यह घट है, यह पट है, इत्यादि चाक्षुषज्ञान होता है । इसी तरह स्पार्शन प्रत्यक्ष आदि भी होते हैं । 
 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 14. The mode of perception is thus : The indivi- dual self is joined with the mind (manas), mind with the sense organ, and the sense organ with the object of knowledge; since, as a rule, the sense organs do their function by coming into contact with the object to be cognized. Therefore when the visual sense is in contact with an object, in the form of jar etc., ocular knowledge arises in the form 'this is jar'. Thus also are the tactual and other perceptions. 
 
@@ -947,12 +947,12 @@ The definition of pramāņa as one which makes known what is not al- ready known
 संयुक्ताश्रयण-सम्बन्धः ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - द्रव्य के ग्रहण में संयोग नामक संबन्ध होता है तथा द्रव्य के रूप आदि के ग्रहण में संयुक्ताश्रय संबन्ध होता है, क्योंकि हम समवाय नामक सम्बन्ध को नहीं स्वीकारते हैं । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० - विशिष्टाद्वंतियों का सन्निकर्ष-विषयक विचार - नैयायिक विद्वान् छह प्रकार के सन्निकर्ष को स्वीकारते हैं-संयोग, संयुक्तसमवाय, संयुक्तसमवेतसमवाय, समवाय, समवेतसमवाय और विशेष्यविशेषणभाव । 
 
@@ -971,7 +971,7 @@ The definition of pramāņa as one which makes known what is not al- ready known
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 15. Conjunction ( samyoga) is the sense-relation when a substance is perceived. When the colour of a substance is perceived, the sense-relation is dependence in what is conjoined (with the sense organ ), 38 since we do not admit (the relation of ) 'inherence'. 39 
 </details>
@@ -999,20 +999,20 @@ The definition of pramāņa as one which makes known what is not al- ready known
 एवम् साक्षात्-कार-प्रमा-करणम् प्रत्यक्षम् इति सिद्धम् ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - प्रत्यक्ष के दो भेद बतलाए गये हैं - निर्विकल्पक एवं सविकल्पक । उन दोनों के भी दो-दो भेद होते हैं-अर्वाचीन और अनर्वाचीन । अर्वाचीन के भी दो भेद होते हैं - इन्द्रिय सापेक्ष एवं इन्द्रिय निरपेक्ष । इन्द्रियनिरपेक्षप्रत्यक्ष भी दो प्रकार के होते हैं - स्वयंसिद्ध एवं दिव्य । स्वयंसिद्ध योग से उत्पन्न होता है तथा दिव्य प्रत्यक्ष भगवान् की कृपा से होता है । अनर्वाचीन प्रत्यक्ष तो इन्द्रिय निरपेक्ष ही होता है। नित्य, मुक्त जीवों तथा ईश्वर का ज्ञान अनर्वाचीन प्रत्यक्ष है । प्रत्यक्ष का प्रकरण होने से यहाँ अनर्वाचीन प्रत्यक्ष की चर्चा कर दी गयी है । इस तरह सिद्ध हुआ कि साक्षात्कारी प्रमा के करण को प्रत्यक्ष कहते हैं । 
 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० - यतीन्द्रमतदीपिकाकार विशिष्टाद्वैत दर्शन में प्रख्यात तथा अन्य दर्शनों में अचचित प्रत्यक्ष के कुछ विभागों की चर्चा करते हुए कहते हैं कि निर्वि- कल्पक एवं सविकल्पक, इन दोनों प्रत्यक्षों के दो-दो भेद होते हैं--अर्वाचीन और अनर्वाचीन । अर्वाचीन का अर्थ है जन्य; अनर्वाचीन का अर्थ है अजन्य । अनर्वाचीन प्रत्यक्ष नित्य-मुक्त जीवों को तथा सर्वज्ञ परमात्मा को होता है । नित्यमुक्त जीवों के अनर्वाचीन प्रत्यक्ष के विषय में सामश्रुति भी कहती है- 'सदा पश्यन्ति सूरयः' ईश्वर तो सर्वदा सभी विषयों का माक्षात्कार करता ही है । उसके साक्षात्कार में देश एवं काल का व्यवधान बाधक नहीं बनता है । 
 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 16. Nirvikalpaka and savikalpaka perceptions are twofold, as the arvācīna (recent) and anarvācīna (the ancient ). The arvācīna is again twofold, as the dependent of sense and the independent cf sense. The independent of sense is twofold, as the self-accomplish- ed and the divine. The self-accomplished is the result of yoga. The divine (perception) is what is engendered by the grace of Bhagavan. The anarvācīna does not require the aid of the senses; it is the knowledge of the liberated (selfs), the eternals and Iśvara. The anar- vācīna has been referred to owing to the context. Thus it is established that pratyakşa is the instrument of valid perceptual knowledge.
 </details>
@@ -1026,7 +1026,7 @@ The definition of pramāņa as one which makes known what is not al- ready known
 
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 [[११]]
 Xi 
@@ -1054,13 +1054,13 @@ Xi
 अतस् **त्रीण्य् एवेति** प्रमाणानि सम्भवन्ति ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - प्रश्न उठता है कि यथावस्थितव्यवहार के अनुकूल ज्ञान को प्रमा कहते हैं, यह कहा गया है। स्मृति भी यथावस्थितव्यवहार के अनुकूल ही ज्ञान है, अतएव उसका भी प्रामाण्य स्वीकारा जाता है । फलतः स्मृति भी एक प्रमाण सिद्ध होती है । ऐसी स्थित में तीन ही प्रमाण हैं, यह प्रतिपादन ग्रन्थकार कैसे करते हैं ? तो इसका उत्तर है कि, यद्यपि हम स्मृति का प्रामाण्य स्वीकार करते हैं फिर भी, वह संस्कार सापेक्ष होती है । संस्कार पूर्वानुभूत वस्तु का ही होता है। स्मृति का मूल प्रत्यक्ष प्रमाण है; अतएव उसका अपने मूलभूत प्रमाण प्रत्यक्ष में अन्तर्भाव होता है । इस तरह स्मृति को उपर्युक्त तीन से अतिरिक्त प्रमाण नहीं माना जा सकता है । 
 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० - स्मृति के पृथक् प्रमाण की शंका और उसका खण्डन - इस अनुच्छेद में ग्रन्थकार स्मृति के पृथक प्रमाणत्व की शङ्का की उद्भावना करके उसका निरास करते हैं । प्रश्न यह है कि 'यदि पथावस्थितव्यवहार के अनुकूल ज्ञान को प्रमा कहा 
 
@@ -1075,7 +1075,7 @@ Xi
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'परिगणना' दिति । 'स्मृतिः प्रत्यक्षमैतिह्यमनुमान, चतुर्विधम् प्रमाण' मिति वचन इति शेषः । प्रमाणशब्दस्तन्त्रेण प्रमातत्करणो- भयवाची भवति । प्रमाकरणस्य प्रमाणत्वे प्रमा तत्फल भवति । प्रमा- यास्तथात्वे चार्थपरिच्छित्ति होनेोपादानादिर्वा फल भवति । अर्थपरि- च्छित्तिर्नाम हेयोपादेयादिविवेकः । 
 
@@ -1103,19 +1103,19 @@ Xi
 आदि-शब्देन साहचर्यस्यापि ग्रहणात् तेनापि च भवति ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'संस्कारमात्रे' ति । इन्द्रियार्थसनिकर्षाजन्य सस्कारजन्य ज्ञान स्मृतिरित्यर्थ । 'स्मृतिबीजस्ये- ति स्मृतिहेतुसस्कारस्योद्बोधका इत्यर्थ । चिन्ताद्या इत्याद्यपदेन सहच ' रितस्य ग्रहणम् । अत्र सदृश सहचरितयो प्रतीयमानयोः सस्कारो- द्बोधकत्व बोध्यम् । चिन्ता पर्यालोचनविचार । 
 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद – पहले किये गये अनुभवों से उत्पन्न जो संस्कार, उस संस्कारमात्र से होने वाले ज्ञान को स्मृति कहते हैं । स्मृति का कारण संस्कारों का उदबुद्ध ( जागृत ) होना है । संस्कार के उद्बोधकों को निर्दिष्ट करते हुए कहा गया है— सदृशादृष्ट- चिन्ताद्याः स्मृतिबीजस्य बोधका ।' अर्थात् सदृश, अदृष्ट, चिन्ता आदि ( साहचर्य ) स्मृति के बीज संस्कार के उदबोधक हैं । इस सूक्ति के अनुसार कही समान आकृति वाली वस्तु को देखकर संस्कार का उन्मेष हो जाता है, तो कही अदृष्टवशात्, तो कहीं चिन्तन करते-करते । मूल के आदि पद से साहचर्य का ग्रहण होता है, अतएव उसके द्वारा भी स्मृति उत्पन्न होती है। 
 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 स्मृति का स्वरूप 
 
@@ -1145,7 +1145,7 @@ Xi
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 18. What is called recollection is the knowledge derived only from the reminiscent impressions caused by a prior experience. And what recalls the reminiscent impression is as follows: 'Those that rouse the seed of recollection are sadrśa (similarity), adrśta (unseen effect of previous karma), cinta (deep thinking), etc.' In accordance with what has been said (above), the ( recaller) is sometimes the similar-sight (of an object previously seen); sometimes an unseen effect (of one's actions); sometimes deep thinking. Since from the term ‘adi' (etcetera), 'association' (or concomitance) is to be understood, even that becomes (the cause of recollection).
     [[१२]]
@@ -1170,7 +1170,7 @@ Xi
 अन्यतर-दर्शनेन तद्-अन्यतर-स्मृतिः ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 जैसे— देवदत्त एवं यज्ञदत्त सदृश हैं, उनमें से देवदत्त 
 
@@ -1185,7 +1185,7 @@ Xi
 
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 19. What is caused by similarity is thus : If Devadatta and Yajñadatta resemble each other, the sight of Devadatta kindles the recollection of Yajña- datta. The second: like the spontaneous remembrance of a prior experience, such as the sacred place of Sri- rangam etc.41 The third: like the recollection of the lovely, divine, and auspicious figure of Sri Venkatesa while (consciously) thinking. The fourth is thus: between Devadatta and Yajñadatta who are seen in association, the sight of one kindles the recollection of the other.
 </details>
@@ -1204,14 +1204,14 @@ Xi
 संस्कार-प्रमोषात् स्मृत्य्-अभावः ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अच्छी तरह से अनुभव किये गये सभी विषयों का स्मरण होता है । कहीं-कहीं पर बहुत समय बीत जाने अथवा व्याधि आदि के कारण संस्कार का प्रमोष हो जाने से भी पूर्वानुभूत वस्तु का स्मरण नहीं होता है । 
 </details>
 
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 20. The principle is that whatever is well experienced before, becomes the object of recollection. The absence of recollection is caused either by long duration of time (after experience) or by disease etc. which obscure the reminiscent impressions. 
 </details>
@@ -1238,18 +1238,18 @@ Xi
 घट-ध्वंसश् च कपालम् एव ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'यथा स्मृते' रिति । स्मृतिप्रामाण्यस्य तन्मूलप्रत्यक्षरूपपूर्वानुभव प्रामाण्याधीनत्वात्स्मृति प्रमाणस्य मूलभूते प्रत्यक्षएवा न्तर्भाव इत्यर्थ । प्रत्यभिज्ञा सस्कार- सहकृतेन्द्रियसन्निकर्षजन्य ज्ञानम्, तच्च प्रत्यक्षेऽन्तर्भूतम् । अभाव- ग्राहिकाऽनुपलब्धि प्रमाणान्तरमिति भाट्टादीनां मन निरस्यन्नाह 'अस्मन्मत' इति । घटवत्तयाऽगृह्यमाण स्वरूपतो गृह्यमाण भूतलमेव- घटाभाव व्यवहार हेतुस्तत्र । अग्रहरच ज्ञानस्यावस्थाविशेष । मृदेव- मृत्पिण्डावस्थैव । कपालमेव - कपालावस्थेव । भेदो घटपटयोस्तत्तत्स- स्थानलक्षण एव । एवमभावस्य भावान्तरत्वात् प्रत्यक्षेणैव तद्ग्रहः सम्भवतीति नाभावग्राहक प्रमाणान्तर कल्पनीयमित्याशय' ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - जिस तरह स्मृति का प्रत्यक्ष में अन्तर्भाव होता है, इसी तरह 'यह वही देवदत्त है' इस प्रकार से होने वाली प्रत्यभिज्ञा का भी प्रत्यक्ष में अन्तर्भाव होता है । हमारे मत में अभाव भी भावान्तर रूप है, अतएव अभाव- ज्ञान का भी प्रत्यक्ष में अन्तर्भाव होता है । पृथ्वी पर घट का अत्यन्ताभाव पृथ्वी है । घट का प्रागभाव मृत्तिका ही है । घट का ध्वंस कपाल है । 
 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र०—उपर्युक्त अनुच्छेद में प्रत्यभिज्ञा आदि का प्रत्यक्ष में अन्तर्भाव बत- लाया जा चुका है कि स्मृति का प्रामाण्य है । उसको एक स्वतन्त्र प्रमाण नहीं माना जा सकता । स्मृति का प्रत्यक्ष में ही अन्तर्भाव होता है । स्मृति के समान प्रत्यभिज्ञा का भी अन्तर्भाव प्रत्यक्ष में हो जाता है । प्रत्यभिज्ञा संस्कार तथा सन्निकर्ष उभयजन्य होते हैं । 'सोऽयं देवदत्तः' यह वही देवदत्त है, यह ज्ञान प्रत्यभिज्ञा है। इस ज्ञान में दो प्रकार के ज्ञान का संयोग है । 'सः देवदत्तः' यह ज्ञान संस्कारजन्य ज्ञान है तथा 'अयं देवदत्तः' इन्द्रियार्थसन्निकर्षजन्य है । इस तरह अतीत देशकाल में दृष्ट वस्तु को वर्तमान देशकाल में देखकर जहाँ पर उसे पहचाना जाता है, उस ज्ञान को 
 
@@ -1262,7 +1262,7 @@ Xi
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 21. Just as recollection is included in pratyaksa, recognition (pratyabhijñā) also in the form of 'this is that Devadatta' is included in perception. 42 In our system, since non-existence is nothing but another form of existence, 43 the knowledge of non-existence is also included in pratyakṣa. (For instance), on this floor, the absolute non-existence of the jar is the floor itself. The antecedent non-existence of the jar is clay itself. The destruction of the jar means potsherds. 
 </details>
@@ -1283,26 +1283,26 @@ Xi
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'एतयो' रिति ।  
 ऊहानध्यवसाययोर् इन्द्रिय-सनिकृष्टार्थ-विषययोः प्रत्यक्षे ऽन्तर्भाव इत्यर्थ ।  
 **प्रतिभा** प्रकृष्टादृष्ट-जन्य-मानस-प्रत्यक्षात्मिकेति बोध्यम् ॥ 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 प्रायः इसे पुरुष होना चाहिए, इस प्रकार के ज्ञान को ऊह कहते हैं । इस सामने वाले वृक्ष का क्या नाम है ? इस प्रकार के अनिश्चयात्मक ज्ञान को संशय कहते हैं । इन दोनों का भी प्रत्यक्ष में अन्तर्भाव होता है । पुण्यवान् पुरुष में होने वाली प्रतिभा का भी प्रत्यक्ष में ही अन्तर्भाव होता है । 
 </details>
 
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 संशय के अन्तर्गत इन्द्रियसन्निकृष्ट वस्तु के स्वरूप का निर्णय किसी कारणवश नहीं हो पाता । वह कारण अन्धकार, अथवा देश एवं काल की विप्रकृष्टता आदि कुछ भी हो सकता है । जैसे अन्धकारस्थ वस्तु को देखकर यह संशय होता है कि यह क्या कोई आदमी है या खम्भा है ? इत्यादि । इस संशय का भी प्रत्यक्ष में ही अन्तर्भाव होता है । प्रतिभा किसी पुण्यात्मा के भीतर पायी जाती है । यह बुद्धि की तीव्रता रूप होती है अथवा मानसप्रत्यक्ष रूप होती है । विचारकों ने नवनवोन्मेषशालिनी बुद्धि को प्रतिभा कहा है । यह चूंकि मानसप्रत्यक्षात्मिका होती है, अतएव उसका भी प्रत्यक्ष में अन्तर्भाव होता है । 
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 22. Conjecture (ūha) is such as this : 'Indeed this must be a person'. It has been said that doubt is the non-determinative cognition of the form, 'What is this tree in front of me?". These (conjecture and doubt) are also included in pratyakṣa. Special mental powers (pratibha) of holy personages are also included in pratyaksa. 
 
@@ -1329,18 +1329,18 @@ Xi
 भ्रमादि-प्रत्यक्ष-ज्ञानं यथार्थम् एव …
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'यथार्थ' मित्यादि श्रीभाष्ये । 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - वेदज्ञों का सिद्धान्त है कि सभी ज्ञान सत्य होते हैं । इस सूक्ति के अनुसार भ्रमादि का प्रत्यक्ष ज्ञान यथार्थ ही है ।
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 23. Since it has been said that according to the knowers of Vedanta all knowledge is of the real, the perceptual knowledge in the form of error etc. is of the real. 44 
 </details>
@@ -1360,7 +1360,7 @@ Xi
 सत्-ख्याति-पक्ष-स्वीकारात् ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'सत्ख्याती' ति ।  
 श्रीभाष्ये भ्रान्तिस्थले **सत्ख्यातिः** समर्थिता  
@@ -1402,12 +1402,12 @@ Xi
 अतोऽख्याति-सहिता सत्-ख्यातिर् उप-गता भ्रान्ति-स्थले सिद्धान्तिभिरिति । 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 क्योंकि अख्याति, आत्मख्याति, अनिर्वचनीयख्याति, अन्यथाख्याति तथा असत्ख्याति वादियों का खण्डन करके हम सत्ख्याति पक्ष को स्वीकार करते हैं । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 मा० प्र०—' धातूनामनेके अर्थाः' इस सूक्ति के अनुसार धातुओं के अनेक अर्थ होते हैं । किन्तु ख्याति शब्द भ्रमज्ञान का वाचक है, यह सभी दार्शनिक मानते हैं । अन्धेरे में रस्सी को देखकर इसे सर्प समझ लेना भ्रम है । एक वस्तु को दूसरी वस्तु समझ लेना भ्रम है । इस भ्रमज्ञान की व्यवस्था करने के लिए तत्-तत् वादियों ने अपने-अपने वाद को तत् तत् नाम से अभिहित किये। जैसे – अख्याति, आत्मख्याति आदि । इन सभी ख्यातियों का संग्रह करते हुए कहा है- 
 
@@ -1601,7 +1601,7 @@ Xi
 [[२८]]
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 24. Rejecting the theories of akhyāti (non-appre- hension), ātmakhyāti (self-apprehension), anirvacanīya- khyāti (indefinable apprehension), anyathākhyāti (mis- apprehension) and asatkhyāti (non-being's apprehen- sion), the theory of satkhyāti ( reality-apprehension) is accepted.45 
 
@@ -1636,7 +1636,7 @@ Xi
 शुक्त्य्-अंश-भूयस्त्व-ज्ञानात् भ्रम-निवृत्तिः ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 शुक्ति-रूप्य-भ्रमे सत्-ख्यातिं तावद् उपपादयति पञ्चीकरणेति ।  
 **अत एव** - भूतेषु भूतान्तरांश-संमिश्रणाद् एव ।  
@@ -1663,12 +1663,12 @@ Xi
 
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 ज्ञान के विषय को सत्य मानना ही सत्ख्याति है । तो प्रश्न यह है कि भ्रमस्थलीय ज्ञान को आप भ्रम कैसे कहते हैं ? तो इसका उत्तर है कि चूंकि भ्रम के विषय के व्यवहार का बाध होता है। हम उसका प्रतिपादन करते हैं । पश्वीकरण प्रक्रिया के अनुसार सभी वस्तुओं- पृथिवी आदि सभी द्रव्यों में सभी द्रव्यों के विद्यमान रहने के कारण ही शुक्ति में रजतांश चूंकि विद्यमान रहता है, अतएव शुक्ति में प्रतीयमान ज्ञान का विषय रजत सत्य ही है । किन्तु शुक्ति में रज- तांश स्वल्प रहता है, अतः उसका रजत रूप से व्यवहार नहीं होता है । शुक्ति के अंश का भूयस्त्वज्ञान हो जाने से भ्रम की निवृत्ति हो जाती है । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 रजत की प्रतीति को उसका कारण इसलिए नहीं माना जा सकता कि  
 रजत ही उस प्रतीति का विषय है,  
@@ -1709,7 +1709,7 @@ Xi
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 25. What is called satkhyāti (the theory of reality- apprehension) is the reality of the object of conscicus- ness. If it be asked what then is (bhrama (error), (it is said in reply) that bhrama consists in invalidating the workability of an object. 46 We shall thus explain it; By the process of quintuplication, all the elements are present in all (the elements) like earth etc. Therefore owing to the presence of a small portion of silver in the nacre, the object of that consciousness (i.e., silver) is true. But there, as the portion of silver-content is infinitesimal, it cannot serve the purpose of practical life; hence that cognition is bhrama. 47 The bhrama disappears, because of the knowledge of the preponderance of the nacre-content (in the object).
 
@@ -1731,7 +1731,7 @@ Xi
 परम-पूरुषः सृजतीति श्रुत्या ऽवगम्यते ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'श्रुत्या' इति ।  
 'न तत्र रथा. X X पथः सृजते स हि कर्ता' (बृ.) इति श्रुतिः  
@@ -1742,19 +1742,19 @@ Xi
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 26. The cognition of dream etc. is also real. From the śruti we understand that the Supreme Person creates chariots etc., 48 subsisting for a certain time only, 48 for the experience of the particular individual selfso (in accordance with its spiritual merit and demerit). 
 
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 स्वप्न आदि का ज्ञान तो सत्य ही है। श्रुतियों से पता चलता है कि स्वप्नकाल में परमात्मा स्वप्न देखने वाले पुरुषमात्र से अनुभव किये जाने योग्य स्वप्नकाल - पर्यन्त ही रहने वाले रथ आदि की सृष्टि कर देता है । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 स्वाप्न ज्ञान की प्रामाणिकता -  
 स्वाप्न ज्ञान के विषय में विचारकों के विविध विचार है ।  
@@ -1829,7 +1829,7 @@ Xi
 न तु +अन्यैः ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'पीत' इति । **संभिन्नाः** संश्लिष्टाः ।  
 शङ्खः पीतिमा च सन्न् एव गृह्येते ।  
@@ -1839,12 +1839,12 @@ Xi
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 शंख पीला है इत्यादि प्रतीति-स्थल में नेत्र के पित्त द्रव्य से मिश्रित नेत्र की ज्योतियाँ शंख आदि से संयुक्त होती हैं। वहीं पित्त की पीतिमा से अभिभूत हो जाने के कारण शंख की शुक्लिमा की प्रतीति नहीं हो पाती है । इसी- लिए उजला भी शंख सुवर्णजटित शंख के समान पीला प्रतीत होता है । अपने नेत्र से निकलने के कारण तथा सूक्ष्म होने के कारण पीतिमा की प्रतीति केवल अपने को ही हो पाती है, दूसरों को नहीं । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 'पीतः शङ्खः ' इस प्रतीति की सत्यता -  
 जिस व्यक्ति को पीलिया रोग हो जाता है,  
@@ -1861,7 +1861,7 @@ Xi
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 27. In the case of (the cognition), the conch is yellow', (the explanation is as follows) : The visual rays of the eye which are in contact with the bile of the eyes enter into conjunction with the conch; then the whiteness belonging to the conch is overpowered by the yellowness of the bile, and hence not cognized. There- fore arises the cognition, 'the conch is yellow', like a gold-gilt conch. The yellowness issuing from his eye, owing to his extreme subtlety, is apprehended by him alone and not by others. 
 
@@ -1881,7 +1881,7 @@ Xi
 तज्-ज्ञानम् सत्यम् एव ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 ' जपे 'ति ।  
 स्फटिके जपा-कुसुम-रक्त-कान्ते प्रति-फलनाद् रक्त-प्रतीतिः ।  
@@ -1890,12 +1890,12 @@ Xi
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 जपाकुसुम (ओड़हूल पुष्प ) के सन्निकटस्थ स्फटिक- मणि भी लाल प्रतीत होता है । वह ज्ञान भी सत्य ही है । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 28.59(Like wise) the crystal which is placed near a China-rose is cognized as red. 52 The cognition of that also is real.
 </details>
@@ -1913,7 +1913,7 @@ Xi
 पञ्ची-करणप्रक्रिया तु उत्तरत्र वक्ष्यते ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'मरीचिके' ति । सूर्यातपे ऽम्भः सद् एव भासते - पञ्चीकरणात्।  
 परं तूदन्यान्य+अशमन+अयोग्यत्वात्  
@@ -1923,7 +1923,7 @@ Xi
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 मरु-मरीचिका में होने वाला जल का ज्ञान भी पञ्जीकरण-प्रक्रिया से पहले के समान ( शुक्तिरजत केप्रथमोऽवतारः 
 
@@ -1934,7 +1934,7 @@ Xi
 समान ) सिद्ध होता है । पश्वीकरण प्रक्रिया हम आगे बतलायेंगे । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 मरु-मरीचिका में जल-ज्ञान की सत्यता -  
 मरु-मरीचिका में भी जल की जो प्रतीति होती है,  
@@ -1944,7 +1944,7 @@ Xi
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 29. In the aforesaid manner the cognition of water in the mirage also is true owing to the quintupli cation of elements. The process of pañcīkarana will be described in the sequel. 
 
@@ -1964,7 +1964,7 @@ Xi
 अवच्छेदकम् अन्तरेण दिग् इति द्रव्यान्तरानङ्गीकाराच् च ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'दिशी' ति । दिग्-भ्रमे उत्तरस्यां दिशि पूर्वत्वं गृहीतं सद् एव ।  
 तस्या एवान्य-पुरुषापेक्षया पूर्वत्वात् ।  
@@ -1979,13 +1979,13 @@ Xi
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 दिग्भ्रम में भी होने वाला ज्ञान सत्य ही है; क्योंकि एक दिशा में दूसरी दिशा विद्यमान रहती है । किञ्च दिशा को द्रव्यान्तर न मानकर हम उसे अवच्छेदकमात्र मानते हैं। 
 </details>
 
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 विग्भ्रम की सत्यता -  
 कभी-कभी ऐसा होता है कि पूर्व दिशा में जाते हुए मनुष्य को भ्रम होता है  
@@ -2007,7 +2007,7 @@ Xi
 इसका विस्तृत विवेचन आकाश-निरूपण के प्रसङ्ग में स्वयं ग्रन्थकार करेंगे ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 30. In the same way, the case of one direction being mistaken for another is true; since one direction. which (really) exists in another direction is cognized54 and apart from the limiting adjuncts (which divide the directions) no (distinct ) substance as direction (dik) is admitted (in our system). 55 
 
@@ -2026,7 +2026,7 @@ Xi
 तद् अपि सत्यमेव ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'अलाते' ति । अर्धाग्र-दग्ध-काष्ठादि परिभ्राम्यमाणम् अलातचक्रम् उच्यते ।  
 तद्-अन्तरालम् - तत्-तद्-देश-संयोगस्य क्षणं व्यवधानम् ।  
@@ -2035,13 +2035,13 @@ Xi
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 आलात- चक्र आदि में तो अत्यन्त शीघ्रता के कारण उसके अन्तराल का ग्रहण न हो सकने के कारण तत् तत् देशों से संयुक्त विभिन्न वस्तुओं की ही चक्र रूप से प्रतीति होती है । अत एव वह ज्ञान भी सत्य ही है । 
 </details>
 
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 आलात+++(=अङ्गार)+++-चक्र में अन्तराल की अप्रतीति का कारण -  
 अग्नि से जलते हुए काष्ठ इत्यादि को जो चारो तरफ तेजी से घुमाया जाता है,  
@@ -2059,7 +2059,7 @@ Xi
 [[३०]]
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 31. In the case of the firebrand swung round rapidly, owing to the non-apprehension of the inter- vals56 by virtue of the rapidity of the movement, that object itself which is in conjunction with (all) points of the space (i.e. circle) is cognized in the form of a ( fiery ) wheel. This cognition is also real. 
 
@@ -2081,7 +2081,7 @@ Xi
 तथा प्रतीतिः ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'दर्पणे 'ति ।  
 ऋजु-प्रवृत्त-नेत्र-रश्मि-संयोग-जनितं दर्पण-ग्रहणं,  
@@ -2095,13 +2095,13 @@ Xi
 </details>
 
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 दर्पण आदि में होने वाली अपने मुख आदि की प्रतीति भी यथार्थ ही है; क्योंकि नेत्र की रश्मियों की गति दर्पण आदि से अवरुद्ध हो जाती है । अतएव वह दर्पण के ग्रहण- पुरस्सर अपने मुख आदि का ग्रहण कर लेती हैं । वहाँ भी ज्योति की गति अतितीव्र होने के कारण अन्तराल का ग्रहण नहीं हो पाता है । अतएव दर्पण में मुखादि की प्रतीति होती है । 
 </details>
 
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 दर्पण में मुखादि-प्रतीति का याथार्थ्य –  
 दर्पण जब हम देखते हैं  
@@ -2116,7 +2116,7 @@ Xi
 अतएव वह भी प्रतीति यथार्थ ही है ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 32. The cognition of one's own face in mirrors etc. : 7 is likewise true. (What happens is) that when 
 
@@ -2140,7 +2140,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 सामग्री-द्वयम् पारमार्थिकम्+++(=??)+++, तेन द्वि-चन्द्र-ज्ञानम् भवति ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'द्विचन्द्र'ति ।  
 तिमिर-दोषेणाक्षिणि अङ्गुल्य्-अवष्टम्भेन वा  
@@ -2155,13 +2155,13 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अङ्गुल्यवष्टम्भ अथवा तिमिर रोग के द्वारा नेत्र ज्योतियों के विभक्त हो जाने से चन्द्रमा आदि दो प्रतीत होते हैं । क्योंकि वहाँ दोनों की सामग्री भिन्न-भिन्न हो जाती है तथा परस्पर में निरपेक्ष रूप से वे दोनों सामग्रियों दो चन्द्रमा की प्रतीति का कारण बन जाती हैं। दोनों साम- ग्रियाँ सत्य हैं । इसीलिए दो चन्द्रमा का ज्ञान होता है। 
 </details>
 
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 द्विचन्द्रादि ज्ञानों का याथार्थ्य –  
 जब हम कभी अपनी आँख के कोने को अंगुली से दबाते हैं  
@@ -2178,7 +2178,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 अतएव द्विचन्द्रादि का ज्ञान भी यथार्थ ही है । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 33. In the case of the apprehension of a double moon (what happens is this): Owing to pressure of the finger on the eye, or by some disease of the eye called timira etc., the visual rays are divided ; ( and conse- quently), there originates difference in the apparatus of the vision (sāmagri); (then) the mutually independent double apparatus of the vision becomes the cause for the cognition of the double moon.58 The doubling of the apparatus of vision being true, by it the double apprehension of the moon takes place. In 
 
@@ -2200,19 +2200,19 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 स-विशेष-विषयं च - निर्विशेष-वस्तुनो ऽग्रहणात् ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 अतः - सत्-ख्यातेः समर्थितत्वात् ।  
 सत्यं - स्व-रूपतो विषयतश् च सत्यम् ।
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 इस तरह सिद्ध हुआ कि सभी विज्ञान सत्य तथा सविशेषवस्तु-विषयक होते हैं; क्योंकि किसी भी ज्ञान के द्वारा निर्विशेष वस्तु का ग्रहण नहीं होता है । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 34. Hence all apprehensions are likewise true, having for their contents objects affected with differ- ence, because a non-differenced object is never ap- prehended. 59 
 </details>
@@ -2235,7 +2235,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 परस्परापेक्षो **ऽन्योन्याश्रयः** ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 'भेदेति' ।  
 गोत्वादि-संस्थानस्यैवाश्वादि-तादात्म्य-धी--विरोधि-ज्ञान-विषयत्वेन  
@@ -2261,13 +2261,13 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - उपर्युक्त प्रकार का प्रत्यक्ष पहले प्रत्यक्ष में भी जाति आदि भेदों से विशिष्ट वस्तु का ही ग्रहण करता है । भेद के व्यवहार में प्रतियोगी की अपेक्षा होती है, स्वरूप में नहीं । इसलिए भेदविशिष्ट वस्तु के ग्रहण में न तो अनवस्था दोष है और न तो अन्योन्याश्रय । अनवस्था उत्तरोत्तर अनन्तापेक्षकत्व रूप होती है तथा अन्योन्याश्रय परस्परापेक्षा रूप । 
 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र०—- ऊपर साङ्गोपाङ्ग प्रत्यक्ष का निरूपण किया जा चुका है। वह प्रत्यक्ष जाति आदि भेदों से विशिष्ट वस्तु को ग्रहण करता है। अब यहाँ पर यह शंका होती है कि जाति आदि जो धर्म रूप भेद हैं, उनका स्वरूप से भेद अवश्य होगा, यदि भेद है तो फिर उसका भेद मानना होगा, पुनः उस भेद का भी धर्म मानना होगा । उस धर्म का भी भेद होगा और भेद का धर्म । इस तरह अनन्तापेक्षकत्व रूप अनवस्था होगी । किश्व – जाति आदि से विशिष्ट वस्तु का ग्रहण होने पर भेद का ग्रहण होगा और भेद का ग्रहण होने पर जाति आदि से विशिष्ट वस्तु का ग्रहण होगा । इस तरह इस मान्यता में अन्योन्याश्रय दोष भी है । इन दो दोषों से दूषित होने के कारण भेद जात्यादिभेदविशिष्ट वस्तु का ग्रहण नहीं स्वीकारा जा सकता है ? इस शंका का समाधान करते हुए ग्रन्थकार कहते हैं कि भेद के व्यवहार 
 
@@ -2285,7 +2285,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 35. Then, perception which is of the aforesaid nature at first apprehends difference alone.  
     Difference in its experience (or expression) as such requires a counter-entity, but never in its essential nature.60  
@@ -2318,7 +2318,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 वाक्यजन्यमपि प्रत्यक्षम् अस्तीति मतं निरस्यति - 'ननु' इत्यादिना ।  
 "दशमस् त्वम्" इति वाक्येनाहं दशमो ऽस्मीति ज्ञानं जायते ।  
@@ -2343,13 +2343,13 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - यदि कहा जाय कि 'दसवां तू है' इस वाक्य से उत्पन्न ज्ञान को भी प्रत्यक्षान्तर्गत क्यों न माना जाय ? तो यह नहीं कहा जा सकता है; क्योंकि 'तू है' इसका प्रत्यक्ष होने पर भी 'तू दसवाँ है' यह ज्ञान वाक्यजन्य ही है यदि 'तू दसवाँ है' इसको प्रत्यक्ष का विषय माना जाय तो फिर तुम धर्मवान् हो ? इस वाक्यजन्य ज्ञान का भी प्रत्यक्षत्व स्वीकारना होगा ? और उसको स्वीकार करने में अतिप्रसंग होगा ? अतएव 'तत्त्वमसि' यह वाक्य भी अपरोक्ष ज्ञान का जनक नहीं है । 
 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० – 'दशमस्त्वमसि' तथा तत्त्वमसि' ये वाक्य अपरोक्ष ज्ञान के जनक नहीं हैं - अद्वैती विद्वान् मानते हैं कि 'तत्त्वमसि' यह वाक्य अपरोक्ष तत्त्वज्ञान का जनक है । अपने इस कथन की पुष्टि वे एक आख्यायिका के माध्यम से करते हुए कहते हैं । दस व्यक्ति कहीं गये । लौटते समय लोगों ने सोचा हम लोग अपने को गिन तो लें । प्रत्येक व्यक्ति अपने से भिन्न नव व्यक्तियों को गिनता था, किन्तु उसे दसवें व्यक्ति का पता नहीं चलता था, अतएव वे सब उदास हो गये । उनकी उदासी के कारण को जानने वाले उपदेशक पुरुष ने गिनने वालों को समझाते हुए कहा – अरे, 'दसवाँ तू ही है ।' इस बात को सुनकर उस व्यक्ति को अपरोक्ष ज्ञान हो गया कि दसवीं मैं ही हूँ । किस तरह यह लौकिक वाक्य अपरोक्ष ज्ञान का जनक है, उसी तरह 'तत्त्वमसि' यह वाक्य भी अपरोक्ष ज्ञान का जनक है । 
 
@@ -2367,7 +2367,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 36. ‘Now, why should not the apprehension derived from "Thou art the tenth" be treated as per- ception ?' 2 If this be asked, the reply is no; for, though 'thou' is a perceptual cognition, 'the tenth I am' is sentence-generated cognition. If it be insisted that 'Thou art the tenth' must be treated as an object of perceptual cognition, then (by the same logic) "Thou art meritorious' also must come under perception.63 If that be admitted, then it will be an extra-ordinary stretch of a rule! Hence knowledge generated from such a sentence as 'Thou art That' is not immediate. 
 
@@ -2391,25 +2391,57 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 > प्रत्यक्ष-प्रमा-करणम् **प्रमाणम्** ।  
 **प्रमा** च आत्म-चैतन्यम् एव ।  
 **चैतन्यं** च त्रिविधम् –  
-अन्तः-करणावच्छिन्न-चैतन्यम्,  
-अन्तः-करण-वृत्त्य्-अवच्छिन्न-चैतन्यम्,  
-विषयावच्छिन्न-चैतन्यं चेति ।  
-यदा त्रयाणाम् ऐक्यं  
-तदा साक्षात्-कारः ।  
+अन्तः-करणावच्छिन्न-चैतन्यम् +++(प्रमाता)+++,  
+अन्तः-करण-वृत्त्य्-अवच्छिन्न-चैतन्यम् +++(प्रमाणम्)+++,  
+विषयावच्छिन्न-चैतन्यं +++(प्रमेयम्)+++ चेति ।  
+यदा त्रयाणाम् +++(इन्द्रिय-द्वारा निर्गत्य विषय-देशे)+++ ऐक्यं  
+तदा साक्षात्-कारः +++(=प्रत्यक्षम्)+++ ।  
 सोऽपि निर्विशेष-विषय एव,  
-अभेदम् एव गृह्णाति 
+अभेदम् एव गृह्णाति,  
++++(भेदस्तु भ्रान्त्यैव, न प्रमया)+++
 
-इत्य्-आदि-कु-दृष्टि-कल्पना निरस्ता ।
+इत्य्-आदि-कु-दृष्टि-कल्पना निरस्ता  
++++(मन एव संसृजति, नात्मेति)+++।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
 
 अतिना प्रत्यक्ष-निरूपण-प्रक्रियां निरस्यति 'एतेने 'ति ।  
-एकमेव चैतन्यत्रिधा भवत्युपाधिभेदात् अन्तःकरणावच्छिन्न प्रमाता, अन्तःकरण- वृत्त्यवच्छिन्न प्रमाण, विषयावच्छिन्नं प्रमेयमिति । प्रत्यक्षस्थले त्रया- णामेकत्वं भवति । एकदेशस्थोपाध्धेरुपधेयाभेदकत्वात् । चक्षुरादिद्वा- रान्तः करणस्य विषयदेश गत्वा विषयाकारपरिणामो भवति । इय- मेव वृत्तिः । वृत्त्यवच्छिन्नविषयावच्छिन्न चैतन्ययोरैक्ये प्रत्यक्षज्ञान- त्वमिति तेषां कल्पना । तदपि प्रत्यक्षं सन्मात्रविषयमभेदमेव गृह्णा- ति, न तु भेदम्, भेदस्तु भ्रान्त्यैव सिद्धयति, न तु प्रमयेति तदाशय । 
+
+एकमेव चैतन्यं त्रिधा भवत्य् उपाधि-भेदात्  
+अन्तःकरणावच्छिन्न-प्रमाता, अन्तःकरण-वृत्त्य्-अवच्छिन्न-प्रमाणं,  विषयावच्छिन्नं प्रमेयम् इति ।  
+प्रत्यक्ष-स्थले त्रयाणाम् एकत्वं भवति ।  
+एक-देशस्थोपाधेर् उपधेयाभेदकत्वात् ।  
+चक्षुर्-आदि-द्वारा ऽन्तः-करणस्य विषयदेशं गत्वा  
+विषयाकार-परिणामो भवति ।  
+इयम् एव वृत्तिः ।  
+वृत्त्य्-अवच्छिन्न-विषयावच्छिन्न-चैतन्ययोर् ऐक्ये प्रत्यक्ष-ज्ञानत्वम्  
+इति तेषां कल्पना ।  
+तद् अपि प्रत्यक्षं सन्-मात्र-विषयम् अभेदम् एव गृह्णाति,  
+न तु भेदम्,  
+भेदस्तु भ्रान्त्यैव सिद्ध्यति,  
+न तु प्रमयेति तदाशय । 
+
+'निरस्ते 'ति अद्वैत-परिरक्षण-श्रद्धामूलेयं कल्पना  
+आकरे श्रीभाष्यादौ प्रतिक्षिप्तेत्य् अर्थः ।  
+
+> 'इन्द्रियाणा हि चरता  
+यन् मनोऽनुविधीयते ।  
+तद् अस्य हरति प्रज्ञाम् ।' ( गी)
+ 
+> 'इन्द्रयाणां हि सर्वेषां  
+यद्येकं क्षरतीन्द्रियम् ।  
+तेनास्य क्षरति प्रज्ञा' (मनु) 
+
+इत्यादि-प्रमाण-सिद्ध-ज्ञानस्यैवात्म-धर्मस्य  
+मन-इन्द्रिय-द्वारा विषयैस् संयुज्य  
+तत्-प्रकाशकत्वम्  
+इति सिद्धान्तिभिः स्वीकृतम् ।  
+इति ज्ञेयम् ।
 </details>
 
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 
 अनुवाद - इस प्रतिपादन से स्पष्ट हो गया कि  
@@ -2423,7 +2455,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 भा० प्र० - अद्वैती विद्वान् प्रत्यक्ष प्रमाण को   
 प्रत्यक्ष प्रमा का करण रूप वे बतलाकर  
@@ -2441,7 +2473,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 37. By what has been said, the (following) dis- torted views are hereby refuted:64 
     
@@ -2463,10 +2495,29 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 > निर्विकल्पकं नाम जात्य्-आदि-योजना-हीनम् वस्तु-मात्रावगाहि  
 "किञ्चिद् इदम्" 
 
-इत्यादि-नैयायिक-मतम् अपि निरस्तम् ।
+इत्यादि-नैयायिक-मतम् अपि निरस्तम्  
++++("किञ्चिद् इदम्" इत्य् अपि नामादिविशेषानवगाहि वस्तुत्वादि-सामान्यावगाह्येवेति)+++।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>अण्णङ्गराचार्यः</summary>
+
+तार्किकमतं निरस्यति 'निर्विकल्पक'मिति ।  
+योजना-हीनम् - सम्बन्धानवगाहि ।  
+सामान्येन वा विशेषेण वा केनचिद् धर्मेण  
+विशिष्टम् एव चक्षुस्-संनिकृष्टं गृह्यते ।  
+न तु वस्तु-मात्रम् ।  
+अननुभवात् तथा ।  
+"किञ्चिद् इदम्" इत्य् अपि नामादिविशेषानवगाहि वस्तुत्वादि-सामान्यावगाह्येवेति सिद्धान्तिनाम् आशयः ।  
+
+निर्विकल्पक-समाधाव् अपि सविशेषम् एव ध्येय-वस्त्व्-अवभासते ।  
+'प्रकाशादिवच् चावैशेष्यम्' (ब्र. मी. ) इति सूत्रे स्पष्टो ऽयम् अर्थः ।  
+ध्येयेन तन्-मयीभावात् भावना-प्रकर्षतः  
+सविकल्पक इव ध्यातृ-ध्यानयोः न स्फुट-विविक्तावभासो निर्विकल्पके ।  
+सविकल्पके पुनस् त्रिपुटी भासते इति विवेकः । 
+</details>
+
+
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 निर्विकल्पक प्रत्यक्ष  
 नाम एवं जाति आदि के संबन्ध से रहित  
@@ -2477,7 +2528,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 इस तरह के नैयायिकों के मत का खण्डन किया गया । 
 </details>
 
-<details><summary>हिन्दी - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
 
 इसी तरह नैयायिक भी मानते हैं कि  
 निर्विकल्पक प्रत्यक्ष के द्वारा  
@@ -2494,7 +2545,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 33. The Naiyayika viewes that the non-deter- minate cognition is the apprehension of the mere object divested of all (qualifications) such as genus etc. is also refuted. [[२०]]
 </details>
@@ -2520,7 +2571,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 न खलु तटाकस्थः पङ्कोऽपि स्वीक्रियते ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अनुवाद - प्रश्न उठता है कि वैशेषिक (न्याय) तथा व्याकरणशास्त्र सभी शास्त्रों के उपकारक है, इस सूक्ति के रहते आप गौतम के मत का खण्डन कैसे करते हैं ? तो इसका उत्तर यह है कि हम लोग पूर्णरूप से गौतम के मत का खण्डन नहीं करते; अपितु गौतम के मत का जितना अंश युक्तिसंगत है, उतना ही स्वीकार करते हैं, दूसरे के द्वारा बनाये गये सरोवर के जल के समान । प्यासा व्यक्ति उस सरोवर के जल मात्र को पीता है, उसके कीचड़ को भी वह नहीं पी लेता, वैसे ही हम गौतम के मत के असंगत विचारों को स्वीकार नहीं करते हैं । 
 </details>
@@ -2528,7 +2579,7 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 
 
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 39. 'Now, how is the school of Gautama66 refutis the school of Gautamas re ed ? For, it has been said that the schools of Kanāda67 and Panini64 are helpful (to the understanding of) every branch of knowledge". If this be said, it is replied: that school is not refuted by us in toto. Whatever is amenable to reason that is accepted by us, like the subsistence derived from the tank built by others, but not the mire in it. 
 
@@ -2557,13 +2608,13 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 इति न विरोधः ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 अतएव हम वैशेषिकों के परमाणुकारणवाद, वेदों की अपौरुषेयता, ईश्वर का अनुमानप्रमाण समधिगम्यत्व, जीवों को विभु मानना, सामान्य ( जाति ) विशेष तथा समवाय को पृथक्-पृथक् पदार्थं मानना, उपमान आदि को पृथक प्रमाण मानना, संख्या, परिमाण, पृथक्त्व, विभाग, परत्व, अपरत्व, गुरुत्व तथा द्रवत्व आदि के पृथक्-पृथक् गुण की कल्पना करना, दिशा को भी एक स्वतंत्र द्रव्य स्वीकार करना, ये सभी सूत्रकार आदि के विरुद्ध प्रक्रियाएँ हैं । अतएव हम इन्हें स्वीकार नहीं करते हैं ।  
 सूत्रकार इत्यादि की अनुकूल मान्यताओं को तो हम स्वीकार करते ही हैं । अतएव परिहार में भी कोई विरोध नहीं है । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 40. Hence there is no contradiction in our reject- ing the (following) views which are against the opinion of the Sūtrakāra and others: the causation (of the uni- verse) by atoms 69; the personal origin of the Vedas70; proving (the existence of) Iśvara by inference 71; the pervasiveness of the individual self"; acceptance of generality, inherence and particularity as categories73; to regard 'comparison' as a separate pramāna74; [[२१]] consider number, size, separateness, remoteness, proxi- mity, weight, fluidity, etc. as separate attributes75; to regard 'direction' as a separate substance etc. 
 
@@ -2582,13 +2633,13 @@ that the motion of the visual rays (issuing from the eye to- wards the mirror) i
 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>शिवप्रसादः (हिं)</summary>
 
 इस प्रकार हारीत - कुलतिलक श्रीमन्महाचार्य के प्रथम शिष्य श्रीनिवासाचार्य द्वारा प्रणीत यतीन्द्रमतदीपिका नामक शारीरक - परिभाषा का प्रत्यक्ष- निरूपण नामक प्रथम अवतार पूर्ण हुआ ॥। १॥
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>आदिदेवानन्दः (En)</summary>
 
 Here ends the first 'avatara' on pratyakṣa of Yatindramatadipika composed by Srinivasadāsa, the foremost disciple of Sriman wh Mahācārya, an ornament in the line of Sri Vadhūlas
 
