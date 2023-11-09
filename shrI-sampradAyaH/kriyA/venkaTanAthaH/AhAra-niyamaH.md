@@ -4,55 +4,54 @@ unicode_script = "kannada"
 +++
 
 
-ಆಗಾರನಿಯಮಂ  
+आहारनियमं  
 
-ಸಿಱಪ್ಪುತ್ತನಿಯನ್
+सिऱप्पुत् तनियन्
 
-ಸೀರಾರುಂ ವೇದಾಂತ-ದೇಶಿಕರ್-ಗೋನ್  
-ಸೆೞುಮಱೈಯಿ ನುಟ್ಪೊರುಳೈಚ್ ಚಂದೈ ಸೆಯ್ದೇ  
-ಯಾರಾಯ್ನ್ದು ವಾೞ್ವುಱವಿಪ್ ಪುವಿಯೋರ್ ತಂಗಟ್  
-ಕನ್ಬುಡನೇ ಯಾಗಾರ ನಿಯದಿ ಸೊನ್ನಾ  
-ನೇರಾರ ಮೆದಿರಾಸ ರರುಳಿ ನಾಲೇ  
-ಯೆದಿರ್ತ್ತವರ್ಗಳ್ ಸಿಂಗಮೆನ ವಿಂಗು ವಂದೋನ್  
-ಸೀರಾರುಂ ವೇಂಗಡವನ್ ಱೂಪ್ಪುಱ್ ಪಿಳ್ಳೈ  
-ಸೆೞುಂದಿರುತ್ತಾಳಿಣೈಮಲರೆನ್ ಸೆನ್ನ ಮೇಲೇ.
+सीरारुं वेदांत-देशिकर्-गोन्  
+सॆऴुमऱैयि नुट्पॊरुळैच् चंदै सॆय्दे  
+याराय्न्दु वाऴ्वुऱविप् पुवियोर् तंगट्  
+कन्बुडने यागार नियदि सॊन्ना  
+नेरार मॆदिरास ररुळि नाले  
+यॆदिर्त्तवर्गळ् सिंगमॆन विंगु वंदोन्  
+सीरारुं वेंगडवन् ऱूप्पुऱ्‌ पिळ्ळै  
+सॆऴुंदिरुत्ताळिणैमलरॆन् सॆन्न मेले.
 
-ಇಂದ ಪ್ರಬಂದವರಲಾಱು
+इंद प्रबंदवरलाऱु
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Thanian:
-The vEdhaantha dEsikar,  the one with the grace of
+The vEdaantha dEsikar,  the one with the grace of
 Ethiraajaa stood like a lion and triumphed over many
-debating adversaries;  researched the vEdhaas and
+debating adversaries;  researched the vEdaas and
 saasthraas, with the view to guide us in choosing foods
 that ennoble us and avoid foods that debase us, has given
 us this prabhandam called aagaara niyamam.  I shall
 wear His flower like thiruvadi as an ornament on my
 head.
-
 </details>
 
 
 
 
-ಆಗಾರತ್ ತಿರುವಗೈಯಾ ನಂಡ್ರುನ್ ದೀದು  
-ಮರುಮಱೈಗೊಣ್ ಡೆದಿರಾಸ ರಿವೈಮೊ ೞಿಂದಾ  
-ರಾಗಾದ ವೞಿವಿಲಕ್ಕಿ ಯಾಕ್ಕಙ್ ಗಣ್ಣ  
-ನಣೈತ್ತುಲಗುಂ ವಾೞವಿದು ಸಾಟ್ರಿ ವೈತ್ತಾನ್  
-ಪೋಗಾದು ಪೋಕ್ಕುವಿಕ್ಕು ಮುನಿವರ್ ಸೊನ್ನ  
-ಪೊಯ್ಯಾದ ಮೊೞಿಗಳೈಯುಂ ಪೊರುಂದಕ್ ಕೇಣ್ಮಿ  
-ನಾಗಾದೆನ್ ಱವೈದವಿರ್ನ್ದಾ ಮದುವೇ ಕೊಂಡ  
-ವಸಗರನು ಮಾಗಂಗಾತ್ ತರುಳ್ಬೆಱ್ ಱಾನೇ.  [1]  
+आहारत् तिरुवगैया नंड्रुन् दीदु  
+मरुमऱैगॊण् डॆदिरास रिवैमॊ ऴिंदा  
+रागाद वऴिविलक्कि याक्कङ् गण्ण  
+नणैत्तुलगुं वाऴविदु साट्रि वैत्तान्  
+पोगादु पोक्कुविक्कु मुनिवर् सॊन्न  
+पॊय्याद मॊऴिगळैयुं पॊरुंदक् केण्मि  
+नागादॆन् ऱवैदविर्न्दा मदुवे कॊंड  
+वसगरनु मागंगात् तरुळ्बॆऱ्‌ ऱाने.  [1]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 [1]
 All chEthanaas must understand that there are two kinds
 of foods, those that are ennobling (saathveega) and those
-that are debasing (thaamasa).   These are described by
+that are debasing (tAmasa).   These are described by
 KaNNan in sri bagavath geethai, by Ethiraajaa in
-srimadh geethaa bhaashyam, and by many rishees in
+srimad geetA bhaashyam, and by many rishees in
 many saasthraas and smrithees.  By following these
 principles, ajakaran attained mOksham.  Likewise, we
 must understand and follow these rules.
@@ -61,14 +60,14 @@ must understand and follow these rules.
 
 
 
-ವಾಯಿಲಲ್ಲಾ ವಾಯಿಲಿನಾಲ್ ವಂದ ಸೋಱುಂ  
-ವರಗುಮುದ ಲಾಗಾದೆನ್ ಱುರೈತ್ತ ಸೋಱುಂ  
-ವಾಯಿನಿಂಡ್ರುಂ ವಿೞುಮವೈದಾಂ ಪಟ್ಟ ಸೋಱುಂ  
-ವಾಯ್ಗೊಂಡ ಕವಳತ್ತಿನ್ ಮಗುಂದ ಸೋಱುನ್  
-ದೀಯವರ್ಗಣ್ ಪಡುಂಜೋಱುನ್ ದೀದಱ್ ಚೋಱುಞ್  
-ಜೀರೈಯುರೈ ತುಮ್ಮಿಲಿವೈ ಪಟ್ಟ ಸೋಱು  
-ನಾಯ್ ಮುದಲಾ ನವೈಬಾರ್ಕ್ಕುನ್ ದೀಂಡುಞ್ ಜೋಱು  
-ನಾಡೂಯ್ದಲ್ ಲಾಚ್ಚೋಱು ನಣ್ಣಾಚ್ ಚೋಱೇ.  [2]  
+वायिलल्ला वायिलिनाल् वंद सोऱुं  
+वरगुमुद लागादॆन् ऱुरैत्त सोऱुं  
+वायिनिंड्रुं विऴुमवैदां पट्ट सोऱुं  
+वाय्गॊंड कवळत्तिन् मगुंद सोऱुन्  
+दीयवर्गण् पडुंजोऱुन् दीदऱ्‌ चोऱुञ्  
+जीरैयुरै तुम्मिलिवै पट्ट सोऱु  
+नाय् मुदला नवैबार्क्कुन् दींडुञ् जोऱु  
+नाडूय्दल् लाच्चोऱु नण्णाच् चोऱे.  [2]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -82,21 +81,18 @@ must understand and follow these rules.
 -    foods that are burnt
 -    foods touched by clothes, or contaminated by saliva or sneeze.
 -    foods seen or touched by dogs
--    foods cooked on days such as Ekaadhasi
-
-
+-    foods cooked on days such as Ekaadashi
 </details>
 
 
-
-ಮನಿಸರ್-ಬಸು ಮುದಲಾನೋರ್ ಮೋಂದ ಸೋಱು  
-ಮನಿಸರ್ದಮಿ ಲಾಗಾದಾರ್ ತೀಂಡುಞ್ ಜೋಱು  
-ಮಿನಿಮೈಯುಡ ನಾದರಮಿಲ್ ಲಾದಾರ್ ಸೋಱು  
-ಮೀಪ್ಪುೞುನೂನ್ ಮಯಿರುಗಿರ್ಗ ಳಿರುಕ್ಕುಞ್ ಜೋಱು  
-ಮುನಿವರೆನುನ್ ದುಱವಱತ್ತೋ ರೀಂದ ಸೋಱು  
-ಮುನಿವರ್ದಂಗಳ್ ಪಾತ್ತಿರತ್ತಿಱ್ ಪಟ್ಟ ಸೋಱು  
-ಮನಿಸರೆಲಿ ಕುಕ್ಕುಡಂಗಳ್ ಕಾಗಂ ಪೂನೈ  
-ವಾಯ್ಗೊಂಡ ಕಱಿಸೋಱು ಮರುವಾಚ್ ಚೋಱೇ. [3]  
+मनिसर्-बसु मुदलानोर् मोंद सोऱु  
+मनिसर्दमि लागादार् तींडुञ् जोऱु  
+मिनिमैयुड नादरमिल् लादार् सोऱु  
+मीप्पुऴुनून् मयिरुगिर्ग ळिरुक्कुञ् जोऱु  
+मुनिवरॆनुन् दुऱवऱत्तो रींद सोऱु  
+मुनिवर्दंगळ् पात्तिरत्तिऱ्‌ पट्ट सोऱु  
+मनिसरॆलि कुक्कुडंगळ् कागं पूनै  
+वाय्गॊंड कऱिसोऱु मरुवाच् चोऱे. [3]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -112,14 +108,14 @@ must understand and follow these rules.
 </details>
 
 
-ಅತ್ತಿಗಳ್ಬೇ ರಾರ್ಕ್ಕಿಱಲಿ ವೆಣ್ಗತ್ ತಾರಿ  
-ಯಾಲರಸು ನಱುವಿಲಿಬುಙ್ ಗಾಯಿ ಲಾರೈ  
-ಪುತ್ತಿಗೊಲ್ಲಿ ಕುಱಿಂಜಿದಾಂಡ್ರಿ ಕುಸುಂಬೈ ವೇಳೈ  
-ಪುನಮುರುಂಗೈ ಮುರುಂಗೈಸುಗ ಮುಳರಿ ಯುಳ್ಳಿ  
-ಸಿಟ್ರವರೈ ಕೊಮ್ಮಟ್ಟಿ ಪಣ್ಣೈ ತೊಯ್ಯಿಲ್  
-ಸೀಂಗರ್ನ್ ಱೇಱಲುaವೈ ಪನೈಮ ಯೂರನ್  
-ಸುತ್ತಿಯಿಲಾ ನಿಲತ್ತಿಲವೈ ಕಡಂಬು ಕಾಳಾನ್  
-ಸುರೈಬೀರ್ಕ್ಕುಚ್ ಚಣಂದಿನ್ನಾರ್ ಸುರುದಿ ಯೋರೇ.  [4]  
+अत्तिगळ्बे रार्क्किऱलि वॆण्गत् तारि  
+यालरसु नऱुविलिबुङ् गायि लारै  
+पुत्तिगॊल्लि कुऱिंजिदांड्रि कुसुंबै वेळै  
+पुनमुरुंगै मुरुंगैसुग मुळरि युळ्ळि  
+सिट्रवरै कॊम्मट्टि पण्णै तॊय्यिल्  
+सींगर्न् ऱेऱलुअवै पनैम यूरन्  
+सुत्तियिला निलत्तिलवै कडंबु काळान्  
+सुरैबीर्क्कुच् चणंदिन्नार् सुरुदि योरे.  [4]  
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -136,68 +132,62 @@ listed below.
 
 
 
-ಸಿಱುಗೀರೈ ಸೆವ್ವಗತ್ತಿ ಮುರುಕ್ಕಿ ರಂಡುಞ್  
-ಜಿಱುಬಸಳೈ ಪೆರುಂಬಸಳೈ ಯಮ್ಮ ಣಂದಾಳ್  
-ಪಱಿತ್ತೊರುವರ್ ಕೊಡಾದಿರುಕ್ಕತ್ ತಾನೇ ಸೆಂಡ್ರು  
-ಪಾಯ್ದೆಡುತ್ತುಕ್ ಕೊಳ್ಳುಮವೈ ಪಗಿರಾಕ್ ಕೂಱುಙ್  
-ಗುಱಿತ್ತಾಲುನ್ ದಿನ್ನವೊಣಾಕ್ ಕೈಪ್ಪು ವರ್ಪ್ಪುಙ್  
-ಗೂರ್ಕ್ಕುಮವೈ ಯೞಲುಮವೈ ಕೊಡುಂಬು ಳಿಪ್ಪುಙ್  
-ಗಱಿಕ್ಕಾಗಾ ವಿವೈಯೆಂಡ್ರು ಕಂಡು ರೈತ್ತಾರ್  
-ಕಾರ್ಮೇನಿ ಯರುಳಾಳರ್ ಕಡಗತ್ ತಾರೇ. [5]  
+सिऱुगीरै सॆव्वगत्ति मुरुक्कि रंडुञ्  
+जिऱुबसळै पॆरुंबसळै यम्म णंदाळ्  
+पऱित्तॊरुवर् कॊडादिरुक्कत् ताने सॆंड्रु  
+पाय्दॆडुत्तुक् कॊळ्ळुमवै पगिराक् कूऱुङ्  
+गुऱित्तालुन् दिन्नवॊणाक् कैप्पु वर्प्पुङ्  
+गूर्क्कुमवै यऴलुमवै कॊडुंबु ळिप्पुङ्  
+गऱिक्कागा विवैयॆंड्रु कंडु रैत्तार्  
+कार्मेनि यरुळाळर् कडगत् तारे. [5]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 [5]  More forbidden foods:
-Vegetables taken from other's garden without
-permission,  portion that is set aside for oneself prior to
-the partaking of the rest of the group, foods that are
-exceedingly bitter, salty, pepper hot, or sour.
-
+Vegetables taken from other's garden without permission, 
+portion that is set aside for oneself prior to
+the partaking of the rest of the group,  
+foods that are exceedingly bitter, salty, pepper hot, or sour.
 </details>
 
 
 
-ಮಾಲಮುದು ಸೆಯ್ಯಾಮಲ್ ವಂದ ವೆಲ್ಲಾಂ  
-ವರುವಿರುಂದಿಲ್ ವೞಂಗಾಮಲ್ ವೈತ್ತ ವೆಲ್ಲಾಙ್  
-ಗಾಲಮಿದು ವಂಡ್ರೆಂಡ್ರು ಕೞಿತ್ತ ವೆಲ್ಲಾಙ್  
-ಗಡೈಯಿನ್ವರುಙ್ ಗಱಿ ಮುದಲ್ ಕೞುವಾ ವೆಲ್ಲಾ  
-ನುಲೈಸೈಯಾ ವೞಿಗಳಿನಾಲ್ ವಂದ ವೆಲ್ಲಾ  
-ನುಗರಾದ ತುಡನ್ಬಾಗಞ್ ಜೆಯ್ದ ವೆಲ್ಲಾ  
-ಞ್ಜೀಲಮಿಲಾಚ್ ಚಿಱಿಯೋರಾಕ್ ಕಿನವು ನಲ್ಲೋರ್  
-ಸೆಲಮಲಂಗಳ್ ಪಟ್ಟನವುನ್ ದಿನ್ನಾರ್ ತಾಮೇ. [6]  
+मालमुदु सॆय्यामल् वंद वॆल्लां  
+वरुविरुंदिल् वऴंगामल् वैत्त वॆल्लाङ्  
+गालमिदु वंड्रॆंड्रु कऴित्त वॆल्लाङ्  
+गडैयिन्वरुङ् गऱि मुदल् कऴुवा वॆल्ला  
+नुलैसैया वऴिगळिनाल् वंद वॆल्ला  
+नुगराद तुडन्बागञ् जॆय्द वॆल्ला  
+ञ्जीलमिलाच् चिऱियोराक् किनवु नल्लोर्  
+सॆलमलंगळ् पट्टनवुन् दिन्नार् तामे. [6]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 [6]  More forbidden foods:
-Foods that were not offered to our Lord, foods that were
-not offered to the guests, foods that were cooked without
-first cleaning them, foods earned in immoral ways,
-cooked with other foods that are forbidden, cooked by
-unclean children, and foods that are contaminated by
-excrements.
-
-
+Foods that were not offered to our Lord, foods that were not offered to the guests, foods that were cooked without first cleaning them, foods earned in immoral ways,
+cooked with other foods that are forbidden,  
+cooked by unclean children, and foods that are contaminated by excrements.
 </details>
 
 
 
-ತೇವರ್ಗಳುಕ್ ಕಿವೈಯೆಂಡ್ರು ವೈತ್ತ ವೆಲ್ಲಾಞ್  
-ಜಿವನ್ಮುದಲಾತ್ ತೇವರ್ಗಳುಕ್ ಕಿಟ್ಟ ವೆಲ್ಲಾ  
-ಮಾವಿಮುದ ಲಾನವಟ್ರುಕ್ ಕಾಗಾ ವೆಲ್ಲಾ  
-ಮದುವಿದವೆನ್ ಱಱಿಯವರಿ ತಾನ ವೆಲ್ಲಾ  
-ನಾವಿಲಿಡು ವದಱ್ಕರಿದಾ ಯಿರುಪ್ಪ ವೆಲ್ಲಾ  
-ನಂಡ್ರೆಂಡ್ರು ತಮ್ಮುಳ್ಳ ಮಿಸೈಯಾ ವೆಲ್ಲಾ  
-ಮೋವಿಯನಾ ಳೋವಾದ ಪೂವುಙ್ ಗಾಯು  
-ಮುತ್ತಮರ್ಗ ಳಟ್ಟುಪ್ಪು ಮುಗವಾರ್ ತಾಮೇ. [7]  
+तेवर्गळुक् किवैयॆंड्रु वैत्त वॆल्लाञ्  
+जिवन्मुदलात् तेवर्गळुक् किट्ट वॆल्ला  
+माविमुद लानवट्रुक् कागा वॆल्ला  
+मदुविदवॆन् ऱऱियवरि तान वॆल्ला  
+नाविलिडु वदऱ्‌करिदा यिरुप्प वॆल्ला  
+नंड्रॆंड्रु तम्मुळ्ळ मिसैया वॆल्ला  
+मोवियना ळोवाद पूवुङ् गायु  
+मुत्तमर्ग ळट्टुप्पु मुगवार् तामे. [7]  
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 [7] forbidden foods continued...
 
--    foods intended for dEvathaas
--    foods offered to dEvathaas such as Sivan
--    foods that harm our praaNan and indhriyam
+-    foods intended for dEvatAs
+-    foods offered to dEvatAs such as Sivan
+-    foods that harm our praaNan and indriyam
 -    foods that are unrecognizable
 -    foods that are intolerably hot
 -    foods that are not palatable to the mind
@@ -208,14 +198,14 @@ excrements.
 
 
 
-ಕಿಳಿಂಜಿನ್ಮುದಲ್ ಸುಟ್ಟನಸುಣ್ ಣಾಂಬು ತಾನುಙ್  
-ಗಿಳರ್ಬುನಲಿ ಲೆೞುಂಗುಮಿೞಿ ನುರೈಗ ಟಾಮುಂ  
-ವಿಳೈಂದನಿನ್ ಮುದನ್ಮಾಲುಕ್ ಕೀಯಾ ವೆಲ್ಲಾಙ್  
-ವಿಳೈಂದನಿಲ ಮಱುಗಾಂಬೆನ್ ಱೆೞುಂದ ವೆಲ್ಲಾಙ್  
-ಗಳೈಂದಮನತ್ ತಾರ್ಮಟ್ರುಙ್ ಗೞಿತ್ತ ವೆಲ್ಲಾಙ್  
-ಗಡಿಯಮುದಿ ನಿಯಮತ್ತಾರ್ ಕೞತ್ತ ವೆಲ್ಲಾನ್  
-ದೆಳಿಂದಬುನಱ್ ಱಿರುವೇಂಗ ಟತ್ತ ಮಾಱನ್  
-ಱಿರುವಾಣೈ ಕಡವಾದಾರ್ ತಿನ್ನಾರ್ ತಾಮೇ. [8]  
+किळिंजिन्मुदल् सुट्टनसुण् णांबु तानुङ्  
+गिळर्बुनलि लॆऴुंगुमिऴि नुरैग टामुं  
+विळैंदनिन् मुदन्मालुक् कीया वॆल्लाङ्  
+विळैंदनिल मऱुगांबॆन् ऱॆऴुंद वॆल्लाङ्  
+गळैंदमनत् तार्मट्रुङ् गऴित्त वॆल्लाङ्  
+गडियमुदि नियमत्तार् कऴत्त वॆल्लान्  
+दॆळिंदबुनऱ्‌ ऱिरुवेंग टत्त माऱन्  
+ऱिरुवाणै कडवादार् तिन्नार् तामे. [8]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -232,14 +222,14 @@ excrements.
 
 
 
-ಮೋರಲದು ಸಾರಂಗಳ್ ವಾಂಗಿಱ್ ಱೆಲ್ಲಾ  
-ಮುೞುಪ್ಪಗಲಿಲ್ ವಿಳಂಗನಿಯುನ್ ದಾನನ್ ದಾನು  
-ಮೋರಿರವಿ ಲೆಳ್ಳುಸನೇ ಕೂಡಿಱ್ ಱೆಲ್ಲಾ  
-ಮೆಳ್ಳದನಿ ಲೆಣ್ಣೈಯ್ದಯರ್ ತರುಬಣ್ ಡಂಗ  
-ಳೋರ್ದವತ್ತೈ ಮಂದಿರತ್ತೈ ಯೊೞಿಪ್ಪ ವೆಲ್ಲಾ  
-ಮುಣ್ಣಾದ ನಾಟ್ಕಳಿಲೂ ಣತ್ತಿಪ್ ಪೋದೂ  
-ಣೂರಣನೂ ರಡಿಬಣಿಯು ನಲ್ಲೋರ್ ನಾಳು  
-ನಳ್ಳಿರವಿ ಲೂಣುಮಿವೈ ಯುಣ್ಣಾರ್ ತಾಮೇ. [9]  
+मोरलदु सारंगळ् वांगिऱ्‌ ऱॆल्ला  
+मुऴुप्पगलिल् विळंगनियुन् दानन् दानु  
+मोरिरवि लॆळ्ळुसने कूडिऱ्‌ ऱॆल्ला  
+मॆळ्ळदनि लॆण्णैय्दयर् तरुबण् डंग  
+ळोर्दवत्तै मंदिरत्तै यॊऴिप्प वॆल्ला  
+मुण्णाद नाट्कळिलू णत्तिप् पोदू  
+णूरणनू रडिबणियु नल्लोर् नाळु  
+नळ्ळिरवि लूणुमिवै युण्णार् तामे. [9]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -255,41 +245,39 @@ excrements.
 
 
 
-ಕುಳಿಮುದಲಾ ನವೈಸೆಯ್ಯಾ ತುಣ್ಣು ಮೂಣುಙ್  
-ಗೂಟ್ಟಲಡಲಾಪ್ ಪಂದಿಲೂಣ್ ಪಿಱಕ್ಕೈ ಯೂಣು  
-ನಳಿಮದಿದೀ ವಳಕ್ಕಾಗ ವುಣ್ಣು ಮೂಣು  
-ನಳ್ಳಿರವಿಲ್ ವಳಕ್ಕಿಂಡ್ರಿ ಯುಣ್ಣು ಮೂಣುಙ್  
-ಗಿಳಿಮೊೞಿಯಾ ಳುಣೂನಿಱ್ಕಕ್ ಕಣವ ನೂಣುಙ್  
-ಗೀೞೋರೈ ನೋಕ್ಕೂಣು ಮಿಡಕ್ಕೈ ಯೂಣು  
-ಮೊಳಿಮಱೈಯೋರ್ ಮಟ್ರುಮುಗ ವಾದ ವೂಣು  
-ಮೊಳಿಯರಂಗ ರಡಿಬಣಿವಾರ್ ರುಗವಾರ್ ತಾಮೇ. [10]
+कुळिमुदला नवैसॆय्या तुण्णु मूणुङ्  
+गूट्टलडलाप् पंदिलूण् पिऱक्कै यूणु  
+नळिमदिदी वळक्काग वुण्णु मूणु  
+नळ्ळिरविल् वळक्किंड्रि युण्णु मूणुङ्  
+गिळिमॊऴिया ळुणूनिऱ्‌कक् कणव नूणुङ्  
+गीऴोरै नोक्कूणु मिडक्कै यूणु  
+मॊळिमऱैयोर् मट्रुमुग वाद वूणु  
+मॊळियरंग रडिबणिवार् रुगवार् तामे. [10]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 [10]  Do not eat,
 
 -    before your shower and sandhya japam
--    alone, eat with a group of bhakthaas
+-    alone, eat with a group of bhaktAs
 -    foods that are mashed by someone else
 -    under the moonlight or fire
 -    husband and wife together
 -    while staring at inferior individuals
 -    with your left hand
 -    anything that is avoided by religious people.
-
-
 </details>
 
 
 
-ಎಚ್ಚಿಱನಿಲ್ ವಾರ್ಕ್ಕುನ್ನೆಯ್ ಯಿರುಬಾ ಕಂಗ  
-ಳಿರುಮಬಾಲುಙ್ ಗೈಯಾಲು ಮಿಟ್ಟ ವೆಲ್ಲಾಂ  
-ಪಚ್ಚೈಯಲಾಱ್ ಕಡಿತ್ತಗುಱೈ ಪೞೈಯ ವೂಸಲ್  
-ಪಿಱರಗತ್ತುಪ್ ಪಾಗಂಜೆಯ್ ತೆಡುತ್ತ ವನ್ನ  
-ಮಚ್ಚಿನವೈ ಪೞಿತ್ತವೈಮಣ್ ಣಾಟ್ರನ್ ದೀದು  
-ನಗತ್ತಾಲೇ ವಿಂಡವೈದಾಙ್ ಗಾಣು ಮುಪ್ಪುಂ  
-ಪಿಚ್ಚುಳದಾ ಮವೈಗಾಡಿ ಪಿನ್ನ ಪಾಗಂ  
-ಪಿಸಿನ್ಗಡನಿಱ್ ಚಿವಂದದುವುಂ ಪಿೞೈಯೂ ಣಾಮೇ. [11]
+ऎच्चिऱनिल् वार्क्कुन्नॆय् यिरुबा कंग  
+ळिरुमबालुङ् गैयालु मिट्ट वॆल्लां  
+पच्चैयलाऱ्‌ कडित्तगुऱै पऴैय वूसल्  
+पिऱरगत्तुप् पागंजॆय् तॆडुत्त वन्न  
+मच्चिनवै पऴित्तवैमण् णाट्रन् दीदु  
+नगत्ताले विंडवैदाङ् गाणु मुप्पुं  
+पिच्चुळदा मवैगाडि पिन्न पागं  
+पिसिन्गडनिऱ्‌ चिवंददुवुं पिऴैयू णामे. [11]
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -313,14 +301,14 @@ Foods that may be accepted are listed now.
 
 
 
-ತಾದೈನಲ್ಲಾ ಸೂರಿಯನ್ ಮುದಱ್ಱಮೈಯನೆಚ್  
-ಚಿಱರಣಿಸುರರ್, ಸೋಮತ್ತಿಲ್ ಅರುಂದುಮೆಚ್ಚಿನ್  
-ಮಾದರ್ಗಡಗುಕ್ ಕಣವನಿದ ಮಾನ ವೆಚ್ಚಿನ್  
-ಮಯಿರ್-ಬುೞು-ನೂಲ್ ವೞುಂದಾಲುಂ ಪುನಿದ ಮಣ್ಣಿನ್  
-ಮಾದವತ್ತುಕ್ ಕೂವಿಳಂಗಾಯ್ ಮುಗ-ವಾಸತ್ತು  
-ಮಾದುಳಂ-ಗಾಯ್, ಮರಣಮ್ ವರಿಱ್ ಕೞಿತ್ತವ್ ಎಲ್ಲಾಮ್,  
-ಓದಿ+++(=ಶ್ರುತಿ)+++-ವೈತ್ತವ್+++(=ವಿಹಿತ)+++ ಉಣ್ಣಾ-ನಾಳ್ ಉಗಂದವ್+++(=ಅಂಗೀಕೃತಮ್)+++ ಎಟ್ಟುಮ್  
-ಉಳವ್ ಎಂಡ್ರುಙ್+++(=ಎನ್ದೂ)+++ ಕೞಿತ್ತ-ವಟ್ರಿ+++(=ನಿಷಿದ್ಧೇಷು)+++ ನಂಡ್ರಾಮ್+++(=ಧಾರಾಳಮಾಯ್)+++ ಊಣೇ+++(=ಭೋಜ್ಯಮೇ)+++. [12]
+तादैनल्ला सूरियन् मुदऱ्‌ऱमैयनॆच्  
+चिऱरणिसुरर्, सोमत्तिल् अरुंदुमॆच्चिन्  
+मादर्गडगुक् कणवनिद मान वॆच्चिन्  
+मयिर्-बुऴु-नूल् वऴुंदालुं पुनिद मण्णिन्  
+मादवत्तुक् कूविळंगाय् मुग-वासत्तु  
+मादुळं-गाय्, मरणम् वरिऱ्‌ कऴित्तव् ऎल्लाम्,  
+ओदि+++(=श्रुति)+++-वैत्तव्+++(=विहित)+++ उण्णा-नाळ् उगंदव्+++(=अंगीकृतम्)+++ ऎट्टुम्  
+उळव् ऎंड्रुङ्+++(=ऎन्दू)+++ कऴित्त-वट्रि+++(=निषिद्धेषु)+++ नंड्राम्+++(=धाराळमाय्)+++ ऊणे+++(=भोज्यमे)+++. [12]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -329,23 +317,21 @@ Foods that may be accepted are listed now.
 -    foods with the saliva of one's father, teacher, and first older brother
 -    Saliva in the sOmaa vessel during sOma yaagam
 -    foods with husband's saliva for wife, if such food is contaminated with hair, worm, or thread, these may be removed properly and the food accepted
--    maadhuLangaay, only during our Lord's muga vaaSa soorNam
+-    maaduLangaay, only during our Lord's muga vaaSa soorNam
 -    all prohibited foods during calamitous times
 -    water, roots, ghee, milk, havis from yaaga, nimantraNam, guru's teachings, and medicine may be accepted even during fasting days.
-
-
 </details>
 
 
 
-ಮಾಗರುಂಬಿನ್ ಸಾಱುದಯಿರ್ ಪಾನೆಯ್ ಪಾಕ್ಕು  
-ವಳೈ ಮಿಳಗು ತೇನೇಲಂ ಪನಿನೀ ರಾದಿ  
-ಯಾಗರಸನ್ ದುಎಯ್ದಾಗು ಮಱಿಯಾ ವೆಲ್ಲಾ  
-ಮಱಿಯಾದಾರ್ಕ್ ಕಱಿಯವುನ್ ದೂಯ ವಾಗುಞ್  
-ಜಾಗರಂಗ ಟೂಯನವಾ ಮುವಾಕ್ಕಳ್ ಕೂಡಿಱ್  
-ಚಲಮೆಲ್ಲಾಙ್ ಗಂಗೈಯದಾ ಮುಬರಾ ಕತ್ತಿನ್  
-ಮಾಗರಂಗಳ್ ಪಿಣಮುದಲಾ ಮನೈತ್ತುಙ್ ಗೊಂಡು  
-ವರುಬುನಲುನ್ ದೂಯ್ದಾಗುಂ ವೇಗತ್ ತಾಲೇ. [13]
+मागरुंबिन् साऱुदयिर् पानॆय् पाक्कु  
+वळै मिळगु तेनेलं पनिनी रादि  
+यागरसन् दुऎय्दागु मऱिया वॆल्ला  
+मऱियादार्क् कऱियवुन् दूय वागुञ्  
+जागरंग टूयनवा मुवाक्कळ् कूडिऱ्‌  
+चलमॆल्लाङ् गंगैयदा मुबरा कत्तिन्  
+मागरंगळ् पिणमुदला मनैत्तुङ् गॊंडु  
+वरुबुनलुन् दूय्दागुं वेगत् ताले. [13]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -354,24 +340,21 @@ Foods that may be accepted are listed now.
 - sugar cane juice, yogurt, milk, ghee, beetle nut, pepper, honey, cardamon, water made from snow
 - anything until you realize its blemish
      
-Dip in the ocean is permitted on full moon day and new moon day.  During times of lunar and solar eclipse all
-waters will be considered equal to gangaa water;  water
-in rivers, even if it carries horses, donkeys and cadaver,
-will become purified with current.
-
-
+Dip in the ocean is permitted on full moon day and new moon day.  
+During times of lunar and solar eclipse all waters will be considered equal to gangaa water;  
+water in rivers, even if it carries horses, donkeys and cadaver, will become purified with current.
 </details>
 
 
 
-ತೀಯಾಲೇ ನೀರೊೞಿಯ ವೆಂದ ವೆಲ್ಲಾನ್  
-ದೀಯಿಡುದ ಲೊೞಿಂದಿಡವೇ ಪೞುತ್ತ ವೆಲ್ಲಾನ್  
-ದೀಯಾಲು ನೀರಾಲುಂ ವೆಂದ ವಟ್ರಿಱ್  
-ಱೇಱವುಲರ್ ನೆಲ್ಲುಮುದ ಲಾನ ವೆಲ್ಲಾ  
-ಮೂಸಾದ ಮಾವಡಗ ಮಪ್ಪಞ್ ಜೀಡೈ  
-ಯುರೊಟ್ಟಿಮುದ ಲಾಮವಟ್ರಿಱ್ ಪೞೈಯ ತೇನುಙ್  
-ಗೂಸಾದೇ ಕೊಂಡಿಡುಮಿನ್ ಪುದಿಯ ತೇನುಙ್  
-ಗೊಳ್ಳೇನಮಿನ್ ಱನ್ನಿರದಙ್ ಗುಲೈಂದಕ್ ಕಾಲೇ. [14]
+तीयाले नीरॊऴिय वॆंद वॆल्लान्  
+दीयिडुद लॊऴिंदिडवे पऴुत्त वॆल्लान्  
+दीयालु नीरालुं वॆंद वट्रिऱ्‌  
+ऱेऱवुलर् नॆल्लुमुद लान वॆल्ला  
+मूसाद मावडग मप्पञ् जीडै  
+युरॊट्टिमुद लामवट्रिऱ्‌ पऴैय तेनुङ्  
+गूसादे कॊंडिडुमिन् पुदिय तेनुङ्  
+गॊळ्ळेनमिन् ऱन्निरदङ् गुलैंदक् काले. [14]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -380,20 +363,20 @@ will become purified with current.
 - foods cooked without water
 - fruits ripened on their own accord
 - boiled rice
-- vadaam, snacks such as appam, seedai, rotti, even if they are old, but tasty; do not accept foods that are fresh, but not tasty
-
+- vadaam, snacks such as appam, seedai, rotti, even if they are old, but tasty; 
+- do not accept foods that are fresh, but not tasty
 </details>
 
 
 
-ತಲೈಪ್ಪಯನಾಂ ವಿಗಾರಂಗಳ್ ಸಾಗ ತಂಗಳ್  
-ಸಕ್ಕರಂಗಕ್ ನಕ್ಕಡೈತ್ತ ಮರುಂದು ತಾನುಙ್  
-ಗಲಕ್ಕಮಿಲಾ ನನ್ನೀರಿಲ್ ವೈತ್ತ ಸೋಱುಙ್  
-ಗಱಿಮೋರ್ನೆಯ್ ಪಾಱಯಿರ್ಗಳ್ ಕಲಂದ ಸೋಱುಂ  
-ವಿಲಕ್ಕಮಿಲಾ ಮಾಕ್ಕನ್ನಱ್ ಕೋದು ಮತ್ತಾಲ್  
-ವಿಳೈವುಱವಾಕ್ ಕಿಯನಲ್ವಿ ಕಾರನ್ ದಾನು  
-ಮಿಲೈಕ್ಕಱಿಬೋ ಲಿವೈಯನೈತ್ತುಂ ಪೞೈಯ ವೇನು  
-ಮೆನ್ನಾಳುಂ ವೈತ್ತುಣ್ಣ ವಿಸೈಗಿನ್ ಱಾರೇ. [15]
+तलैप्पयनां विगारंगळ् साग तंगळ्  
+सक्करंगक् नक्कडैत्त मरुंदु तानुङ्  
+गलक्कमिला नन्नीरिल् वैत्त सोऱुङ्  
+गऱिमोर्नॆय् पाऱयिर्गळ् कलंद सोऱुं  
+विलक्कमिला माक्कन्नऱ्‌ कोदु मत्ताल्  
+विळैवुऱवाक् कियनल्वि कारन् दानु  
+मिलैक्कऱिबोलिवैयनैत्तुं पऴैय वेनु  
+मॆन्नाळुं वैत्तुण्ण विसैगिन् ऱारे. [15]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -404,20 +387,18 @@ will become purified with current.
 -    snacks like thEnkuzhal, muRukku, etc.,
 -    medicines prescribed by physicians, flower, vellam, wheat
 -    old rice that is soaked in clean water may be taken with buttermilk, ghee, milk, yogurt
-
-
 </details>
 
 
 
-ತಯಿರ್ದನ್ನಿನ್ ವಿಗಾರಂಗಳ್ ಪೂವಿಱ್ ಕಾಯಿಱ್  
-ಪೞತ್ತಿಲ್ವರುಞ್ ಜಾಱೂಸ ಱೂಯ ವಾಗು  
-ಮುಯಿರೞಿಯಾ ಮೈಕ್ಕುಣ್ಣಾ ವೂಸ ಲುಣ್ಣಿ  
-ಲುಱಕ್ಕೞುವಿ ನೆಯ್ದೇನಿಟ್ ಟುಣ್ಣ ಲಾಗುಂ  
-ಪಯಿನ್ಮಱೈನೂ ಲುರೈಯಾದ ಪೞೈಯ ವೂಸಲ್  
-ಪೞಿಪ್ಪಿಲದಾ ನೆಯ್ಯಾಲೆನ್ ಱುರೈತ್ತಾನ್ ಸಂಗನ್  
-ಮಯಿಱ್ಮುದಲಾ ನವೈಬಿನ್ನುಂ ಪಟ್ಟ ತಾಯಿನ್  
-ಮಣ್ಣೀರ್ಮಱ್ ಱುರೈತ್ತವಟ್ರಾಲ್ ವರಂಗ ಳಾಮೇ.[16]
+तयिर्दन्निन् विगारंगळ् पूविऱ्‌ कायिऱ्‌  
+पऴत्तिल्वरुञ् जाऱूस ऱूय वागु  
+मुयिरऴिया मैक्कुण्णा वूस लुण्णि  
+लुऱक्कऴुवि नॆय्देनिट् टुण्ण लागुं  
+पयिन्मऱैनू लुरैयाद पऴैय वूसल्  
+पऴिप्पिलदा नॆय्यालॆन् ऱुरैत्तान् संगन्  
+मयिऱ्‌मुदला नवैबिन्नुं पट्ट तायिन्  
+मण्णीर्मऱ्‌ ऱुरैत्तवट्राल् वरंगळामे.[16]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -428,14 +409,14 @@ will become purified with current.
 </details>
 
 
-ಒರುಗುಳಂಬಿ ಯಿರುಗಂಡ್ರಿ ಯೊಟ್ಟ ಕಪ್ಪಾ  
-ಲುಪ್ಪುಡನ್ಬಾನ್ ಮೋರುಡನ್ ಮಾದರ್ ತಂಬಾಲ್  
-ಕರುವುಡೈಯ ವಟ್ರಿನ್ಬಾಲ್ ಕಂಡ್ರಿ ಲಾಪ್ಪಾನ್  
-ಮಱುಗಂಡ್ರಾಱ್ ಕಱತ್ತಿಡುಂಬಾ ಱಿರಿಂದಿ ಟುಂಬಾ  
-ಱಿರುಮಗಳಾರ್ ಕಣವನಲಾತ್ ತೆಯ್ವತ್ ತಿನ್ಬೇರ್  
-ಸಿನ್ನಮುಡೈ ಯವಟ್ರಿನ್ಬಾಲ್ ಸೆಮ್ಮ ಱಿಪ್ಪಾಲ್  
-ಪರಿವದಿಲನ್ ದಣರ್ವಿಲೈಪ್ಪಾಲ್ ಸೆಂಬಿ ನಿಱ್ಪಾ  
-ಱೀದಾಂಬಾ ಲಿವೈಯನೈತ್ತುಂ ಪರುಗಾಪ್ ಪಾಲೇ.[17]
+ऒरुगुळंबि यिरुगंड्रि यॊट्ट कप्पा  
+लुप्पुडन्बान् मोरुडन् मादर् तंबाल्  
+करुवुडैय वट्रिन्बाल् कंड्रि लाप्पान्  
+मऱुगंड्राऱ्‌ कऱत्तिडुंबा ऱिरिंदि टुंबा  
+ऱिरुमगळार् कणवनलात् तॆय्वत् तिन्बेर्  
+सिन्नमुडै यवट्रिन्बाल् सॆम्म ऱिप्पाल्  
+परिवदिलन् दणर्विलैप्पाल् सॆंबि निऱ्‌पा  
+ऱीदांबा लिवैयनैत्तुं परुगाप् पाले.[17]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -450,20 +431,18 @@ will become purified with current.
 -    cows that belong to temples (?)
 -    goat milk, milk bought from brahmins
 -    milk kept in copper vessels, burnt milk
-
-
 </details>
 
 
 
-ಕಂಗೈಯಲ್ಲ ತಿರಂಡನಾಳ್ ವೈತ್ತ ನೀರುಙ್  
-ಗಾಲ್ಗೞುವಿ ಮಗುನೀರುಙ್ ಗಲಂಗ ನೀರುನ್  
-ದೆಂಗನುಳ ತಾಯ್ದೀಯಾಱ್ ಕಾಯ್ನ್ದ ನೀರುಞ್  
-ಜಿಱುಗುೞುನೀರ್ ವೞಿತ್ತಣ್ಣೀರ್ಪ್ ಪಂದ ನೀರುಞ್  
-ಜಂಗೈಡೈ ನೀರ್ವಣ್ಣಾನ್ ಱುಱೈವಿ ನೀರುನ್  
-ದಾರೈಯಿನಾ ಲೆಚ್ಚಿಲುದು ವೆಂಡ್ರ ನೀರುಞ್  
-ಜಂಗುಗಲ ಮಾಕ್ಕೊಂಡು ಪರುಗು ನೀರುನ್  
-ದರೈಯಿಲ್ವಿೞಾ ಮೞೈನೀರುನ್ ದವಿರು ನೀರೇ. [18]
+कंगैयल्ल तिरंडनाळ् वैत्त नीरुङ्  
+गाल्गऴुवि मगुनीरुङ् गलंग नीरुन्  
+दॆंगनुळ ताय्दीयाऱ्‌ काय्न्द नीरुञ्  
+जिऱुगुऴुनीर् वऴित्तण्णीर्प् पंद नीरुञ्  
+जंगैडै नीर्वण्णान् ऱुऱैवि नीरुन्  
+दारैयिना लॆच्चिलुदु वॆंड्र नीरुञ्  
+जंगुगल माक्कॊंडु परुगु नीरुन्  
+दरैयिल्विऴा मऴैनीरुन् दविरु नीरे. [18]
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -479,19 +458,18 @@ will become purified with current.
 -    water contaminated by saliva
 -    water from conch
 -    rain water that has not fallen on the ground
-
 </details>
 
 
 
-ವೆಟ್ರಿಲೈಮುನ್ ಱಿನ್ನಾದೇ ತಿನ್ನುಂ  
-ವೆಟ್ರಿಲೈಯಿ ನಡಿನುನಿಯು ನಡುವಿ ಲೀರ್ಕ್ಕುಂ  
-ವೆಟ್ರಿಲೈಯುಂ ಪಾಕ್ಕುಮುಡನ್ ಕೂಟ್ಟಿತ್ ತಿನ್ನುಂ  
-ವಿದವೈಕ್ಕು ಮುದನ್ಮುಡಿವಾಚ್ ಚಿರಮತ್ ತಾರ್ಕ್ಕುಂ  
-ವೆಟ್ರಿಲೈಯುಞ್ ಜುಣ್ಣಾಂಬಿ ನಿಲೈಯು ಮಟ್ರುಂ  
-ವಿರದಂಗೊಣ್ ಡಿಡುನಾಳ್ವೆಱ್ ಱಿಲೈಯುಂ ಪಾಕ್ಕುಂ  
-ಸೆಟ್ರಿಲೈದಿನ್ ನಾನಿಱ್ಕಪ್ ಪರುಗು ನೀರುಂ  
-ವಿದೈಯೆನವೈತ್ ತದುದಿನಲುಂ ವಿಲಕ್ಕಿ ನಾರೇ. [19]
+वॆट्रिलैमुन् ऱिन्नादे तिन्नुं  
+वॆट्रिलैयि नडिनुनियु नडुवि लीर्क्कुं  
+वॆट्रिलैयुं पाक्कुमुडन् कूट्टित् तिन्नुं  
+विदवैक्कु मुदन्मुडिवाच् चिरमत् तार्क्कुं  
+वॆट्रिलैयुञ् जुण्णांबि निलैयु मट्रुं  
+विरदंगॊण् डिडुनाळ्वॆऱ्‌ ऱिलैयुं पाक्कुं  
+सॆट्रिलैदिन् नानिऱ्‌कप् परुगु नीरुं  
+विदैयॆनवैत् तदुदिनलुं विलक्कि नारे. [19]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -506,51 +484,40 @@ will become purified with current.
 - don't drink water while chewing betel leaves
 </details>
 
-ಸಾದಿಗುಣ ಮಾಚ್ಚಿರಮನ್ ದೇಸಙ್ ಗಾಲನ್  
-ದರುಮಂಗ ಣಿಮಿತ್ತಙ್ಲಣ್ ಮುದಲಾ ವೋದುಂ  
-ಪೇದಮುದ ಲಾಗವೊರು ತಿರವಿ ಯಂದಾನ್  
-ಪಿರಿಂದುನಲನ್ ದೀಂಗಿನೈಯುಂ ಪೆಟ್ರು ನಿಱ್ಕುಂ  
-ಪಾದಮಿಸೈಪ್ ಪಿಱಂದೋರ್ಕ್ಕುಕ್ ಕಬಿಲೈ ಯಿನ್ಬಾಲ್  
-ಪರುಗಿಡಲಾ ಕಾದೆಂಡ್ರು ಮಱೈಯೋರ್ ಸೊನ್ನಾ  
-ರಾದಲಿನಾ ಲೋದಿಯುಣರ್ನ್ ದವರ್ಬಾ ಲೆಲ್ಲಾ  
-ಮಡಿಕ್ಕಡಿಯುಙ್ ಗೇಟ್ಟಯರ್ವು ತೀರ್ಮಿ ನೀರೇ.  [20]
+सादिगुण माच्चिरमन् देसङ् गालन्  
+दरुमंग णिमित्तङ्लण् मुदला वोदुं  
+पेदमुद लागवॊरु तिरवि यंदान्  
+पिरिंदुनलन् दींगिनैयुं पॆट्रु निऱ्‌कुं  
+पादमिसैप् पिऱंदोर्क्कुक् कबिलै यिन्बाल्  
+परुगिडला कादॆंड्रु मऱैयोर् सॊन्ना  
+रादलिना लोदियुणर्न् दवर्बा लॆल्ला  
+मडिक्कडियुङ् गेट्टयर्वु तीर्मि नीरे.  [20]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 [20]
 A particular food item may be acceptable or forbidden
 based on the caste, stage in life, geography, time of
-eclipse, individual dharmam, etc., etc.  For example, it is
-said that milk from kapilai cow is acceptable for
-brahmins, but forbidden for shudraas.  Therefore, one
-must approach learned people and get your doubts
-clarified.
-
+eclipse, individual dharmam, etc., etc.  For example, it is said that milk from kapilai cow is acceptable for brahmins, but forbidden for shudraas.  Therefore, one must approach learned people and get your doubts clarified.
 </details>
 
-ಕಂಗಿರುಳಾಲ್ ವಿಡಿಯಾದ ವುಲಗುಕ್ ಕೆಲ್ಲಾಙ್  
-ಗೈವಿಳಕ್ಕಾ ಮಿವೈಯೆಂಡ್ರು ಕಣ್ಣನ್ ಕಾಟ್ಟುಂ  
-ಪೊಂಗುಬುಗ ೞಾಗಮಂಗ ಟೆಳಿಯಚ್ ಚೊನ್ನ  
-ಪೊರುಳಿವೈನಾಂ ಪುಣ್ಣಿಯರ್ಬಾಱ್ ಕೇಟ್ಟುಚ್ ಚೊನ್ನೋ  
-ಮಂಗುಡಲುಂ ಪೊರುಳುಮಲ್ಲಲ ತಱಿಯಾ ಮಾಂದರ್  
-ವಲೈಯುಳಗಪ್ ಪಟ್ಟುವರಂ ಪೞಿಯಾ ತೆಂಡ್ರುಂ  
-ಪಂಗಯಮಾ ತುಟ್ರವರು ಳಾಳರ್ ತಂಬಾಱ್  
-ಪತ್ತಿಮಿಗು ಪವಿತ್ತರಂಗಳ್ ಪಯಿನ್ಮಿ ನೀರೇ.  [21]
+कंगिरुळाल् विडियाद वुलगुक् कॆल्लाङ्  
+गैविळक्का मिवैयॆंड्रु कण्णन् काट्टुं  
+पॊंगुबुग ऴागमंग टॆळियच् चॊन्न  
+पॊरुळिवैनां पुण्णियर्बाऱ्‌ केट्टुच् चॊन्नो  
+मंगुडलुं पॊरुळुमल्लल तऱिया मांदर्  
+वलैयुळगप् पट्टुवरं पऴिया तॆंड्रुं  
+पंगयमा तुट्रवरु ळाळर् तंबाऱ्‌  
+पत्तिमिगु पवित्तरंगळ् पयिन्मि नीरे.  [21]
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 [21]
 For the benefit of people who live in this world
 characterized by lack of wisdom, Lord kaNNan showed
-many principles in saasthraas.  After consulting with
-aachaaryaas these principles have been laid out in this
-prabhandam.   Guard yourself against the agnostics who
-believe only in this transient body and world.  Consume
-only those saathvega foods that helps us amplify our
-devotion to the thiruvadi of pEraruLaaLan.
+many principles in saasthraas.  
+After consulting with aachaaryaas these principles have been laid out in this prabhandam.   
+Guard yourself against the agnostics who
+believe only in this transient body and world.  
+Consume only those saathvega foods that helps us amplify our devotion to the thiruvadi of pEraruLaaLan.
 </details>
-
-
-
-seeraar thooppil thiruvEngadamudaiyaan thiruvadigaLE
-saraNam.
