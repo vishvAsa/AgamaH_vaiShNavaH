@@ -63,7 +63,7 @@ must understand and follow these rules.
 वाय्-कॊण्ड कवळत्तिन् मगुन्द सोऱुन्  
 तीयवर्+++(=नीच)+++-कण्-पडुं सोऱुन्, तीदऱ्‌+++(=दग्ध)+++ सोऱुञ्  
 जीरैयुरै तुम्मिलिवै पट्ट सोऱु  
-नाय् मुदला नवैबार्क्कुन् दीण्डुञ् जोऱु  
+नाय् मुदलानवै पार्क्कुन् दीण्डुं सोऱु  
 नाडूय्दल् लाच्चोऱु नण्णाच् चोऱे. [2]  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -83,9 +83,9 @@ must understand and follow these rules.
 
 
 मनिसर्-बसु मुदलानोर् मोन्द सोऱु  
-मनिसर्दमि लागादार् तीण्डुञ् जोऱु  
+मनिसर्दमि लागादार् तीण्डुं सोऱु  
 मिनिमैयुड नादरमिल् लादार् सोऱु  
-मीप्पुऴुनून् मयिरुगिर्ग ळिरुक्कुञ् जोऱु  
+मीप्पुऴुनून् मयिरुगिर्ग ळिरुक्कुं सोऱु  
 मुनिवरॆनुन् दुऱवऱत्तो रीन्द सोऱु  
 मुनिवर्दङ्गळ् पात्तिरत्तिऱ्‌ पट्ट सोऱु  
 मनिसरॆलि कुक्कुडङ्गळ् कागं पूनै  
@@ -213,8 +213,6 @@ cooked by unclean children, and foods that are contaminated by excrements.
 - foods that are not offered to our Lord
 - harvested from the stems that were previously harvested
 - foods avoided by learned persons with pure heart
-
-
 </details>
 
 
