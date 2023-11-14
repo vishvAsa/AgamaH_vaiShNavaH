@@ -4,7 +4,18 @@ unicode_script = "devanagari"
 +++
 
 ## रामानुजं यावत्
-**नारायणः** → लक्ष्मीः → विष्वक्सेनः … → नम्माळ्वार् → मधुरकविः … → रङ्गनाथमुनिः|**नाथमुनिः** +++(गाथा-सङ्ग्रह-कृत्)+++ → पुण्डरीकाक्षः|उय्यक्कॊण्डर् → राममिश्रः|मणल्-काल्-नम्बिः → **यामुनः** → महापूर्णः|पॆरिय-तिरुमलै-नम्बि (तातार्यः) → **रामानुजः**
+**नारायणः** → लक्ष्मीः → विष्वक्सेनः … →  
+नम्माळ्वार् → मधुरकविः … →  
+रङ्गनाथमुनिः|**नाथमुनिः** +++(तातार्यः, गाथा-सङ्ग्रह-कृत्)+++ →  
+पुण्डरीकाक्षः|उय्यक्कॊण्डर् →  
+राम-मिश्रः|मणल्-काल्-नम्बिः →  
+**यामुनः** (नाथमुनि-पौत्रः) →  
+महा-पूर्णः|पॆरिय-नम्बि (समाश्रयणकृत्, द्वय-मन्त्रोपदेष्टा)  
+गोष्ठि-पूर्णः|तिरु-कॊट्टियूर्-नम्बि (अष्टाक्षर-रहस्य-बोधकः),  
+श्री-शौल-पूर्णः|पॆरिय-तिरुमलै-नम्बि (यामुनपौत्रः, रामायण-पाठकः),  
+माला-धारः|तिरु-मालैय्-आण्डान् (भगवद्-विषय-बोधकः)
+रङ्गः|तिरुव्-अरङ्ग-पॆरुमाळ्-अरैयार् (यामुन-पुत्रः, रहस्यान्तरोपदेष्टा)  
+→ **रामानुजः** (महापूर्ण-भागिनेयः)
 
 काञ्चीपूर्ण इति वैश्यसिद्धो देवराजसेवको ऽप्य् उपाकरोद् रामानुजम्।
 
@@ -25,27 +36,27 @@ Vijay read an article which made the following points:
 
 
 
-
-
 ## समाश्रयणदातारः
 - He nominated 74 simhasanadhipathis and ordained them to do pancha samskaram to sishyas at their places.
 
 ### आचार्यदीक्षा
-समाश्रयणदातॄणां विशिष्टदीक्षा भवति। तया व्यक्तिर् वा कुलम् अपि वा ऽऽचार्यपदम् आरोप्यत इति केचित्। 
+समाश्रयण-दातॄणां विशिष्ट-दीक्षा भवतीति केचित्,  
+समाश्रयण-प्राप्त्या ऽऽचार्यानुमत्या चालम् इत्य् अन्ये।  
+तया व्यक्तिर् वा कुलम् अपि वा ऽऽचार्यपदम् आरोप्यत इति केचित्। 
 
 ## भाष्य-प्रचारकाः
 - From the 74 simhasanadhipathis, he selected four, gave them the Sri Bhashya kosha and instructed them to do Sri Bhashya pravachanam thereby making them Sri bhashya simhasanadhipathis.
 
-- Thirukkurugaip piran Pillan (tAtAchArya's son, R's maternal cousin).
+- कुरुगेशः, तिरुक्-कुरुगै-पिऱान्-पिळ्ळन् (श्रीशैल-पूर्णपुत्रः, तातार्यः, R's maternal cousin).
   - Ubhaya Vedanta simhasanadhipati. The oldest (and perhaps only contemporary) text on ramanuja calls pillaan alone as UVS.
   - Essentially nominated successor by rAmAnuja as per ravilochana. 
   - R asked him (presumably stronger in tamiL) to compose bhagavad-viShayam on divyaprabandha. No such commentary existed before piLLan.
-- naDAtUr ALvan
-- Kidambi Acchaan (प्रणतार्तिहरः). He was specially taught the rahasyas as per vijay.
-- Mudali Andan.
+- naDAtUr ALvan (रामानुज-भागिनेयः)
+- Kidambi Acchaan (प्रणतार्तिहरः, रामानुज-पाचकः). He was specially taught the rahasyas as per vijay.
+- Mudali Andan (रामानुज-भागिनेयः).
 
 ## वेदान्तदेशिक-शाखा
-- **रामानुजः** → आत्रेयः प्रणतार्तिहरः → … → आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः → वेदान्तदेशिको **वेङ्कटनाथः** → तत्पुत्रः कुमारवरदः, परकालयतिः → नडातूरु-वात्स्य-घटिकाशतकः … → अहोबिलाचार्यः → पञ्चमत-भञ्जन-ताताचार्यः … → आत्रेय-गोपालार्यः मुनि-त्रय-सम्प्रदाय-प्रवर्तकः, aka Thirukkudanthai Desika → Ramanuja Maha Desikan (Andavan Ashrama), Annarya, Vangipuram Vedhantha Ramanuja Maha desikan (Aandikadu Swamy in Srirangam)
+- **रामानुजः** → आत्रेयः प्रणतार्तिहरः → … → आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः → वेदान्तदेशिको **वेङ्कटनाथः** →  तत्पुत्रः कुमारवरदः, परकालयतिः → नडातूरु-वात्स्य-घटिकाशतकः … → अहोबिलाचार्यः → पञ्चमत-भञ्जन-ताताचार्यः … → आत्रेय-गोपालार्यः मुनि-त्रय-सम्प्रदाय-प्रवर्तकः, aka Thirukkudanthai Desika → Ramanuja Maha Desikan (Andavan Ashrama), Annarya, Vangipuram Vedhantha Ramanuja Maha desikan (Aandikadu Swamy in Srirangam)
 
 ### ताताचार्याः
 A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few more here n there) are tenkalais. More than 95% of tataryas must be vdk.
