@@ -37,8 +37,7 @@ Sri Vatsaanga Suthas Srimaan Sreyase Mae Asthu Bhooyase ||
 
 7. Raamaanuja, son of Aandaan
 8. Madhyamaarya ( Naduvil Aazhwaan)
-9. GOMATHAARYA ( GOMATATHU AAZHWAAN) bore the bowl and slippers of his
-   master.(p. 315 of GLE)
+9. GOMATHAARYA ( GOMATATHU AAZHWAAN) bore the bowl and slippers of his master.(p. 315 of GLE)
 10. Tiruk Kovalur Aazhwaan
 11. Tiru Mohur Aazhwaan
 12. PILLAI AAZHWAAN:  He was the disciple of Koorathaalwaan. The latter breathed hi last lying on the lap of Pillai Pillai Alwaan. (p.36 of ATA)
@@ -46,7 +45,7 @@ Sri Vatsaanga Suthas Srimaan Sreyase Mae Asthu Bhooyase ||
     
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-He was born in the month Chitrai     in Chitra Nakshatram in the year 1165 AD. He lived for 110 years and     attained Paramapadam in 1275 AD (PPM). He was also known as Sudarsanar. He     belonged to Srivatsa Gotram. He also assisted the master in documenting the     Sri Bhashya (p.315 of GLE) and acted as a scribe for Sri Bhashyam along with     Kooratha Azhwaan. His father was Devarajap Perumaal and his grandfather was     Nadadoor Aazhwaan He was a Sribhashya Simhaasana Adhipathi. It is he who     installed the Archa Vigraha of Emperumaanaar at Kaanchi. His own Archa     Vigraham is at Tiruvellarai (p.28 of ATA). He wrote 19 granthas which     include : PRAPANNA PAARIJAATHAM, Sloka Dvayam, Paratvaadhi Panchaka Sthuthi,     Tattva Nirnayam, Tattva Saaram, Saamaanya Adhikarana Vaadham, Yathilinga     Samarthanam, Hethiraja Sthavam, Prameya maala, Sri bhashya Sangraham, and     Aahnika Choodaamani (which is not extant) (Authority: PPM and Payyampadi     Setlur Srivatsaankaachaaryars Preface to the Commentary on Prapanna     Paarijatham by Abhinava Desika Uttamur Swami.) He was the master of Kidambi     Appullaar who learned the Sastras at his feet while he was delivering     Kalakshepam on the Eastern side of Perarulalan Sannidhi in Kanchipuram. Like     a mother who feeds her child, he offered to Lord Varadaraja hot milk (     neither too hot nor too cold) but just hot enough to drink .Therefore, the     Lord was pleased to exclaim "Oh ! Are you my mother? ". That is how he came     to be known as Nadadoor Ammaal.
+He was born in the month Chitrai     in Chitra Nakshatram in the year 1165 AD. He lived for 110 years and     attained Paramapadam in 1275 AD (PPM). He was also known as Sudarsanar. He     belonged to Srivatsa Gotram. He also assisted the master in documenting the     Sri Bhashya (p.315 of GLE) and acted as a scribe for Sri Bhashyam along with     Kooratha Azhwaan. His father was Devarajap Perumaal and his grandfather was Nadadoor Aazhwaan. He was a Sribhashya Simhaasana Adhipathi. It is he who    installed the Archa Vigraha of Emperumaanaar at Kaanchi. His own Archa     Vigraham is at Tiruvellarai (p.28 of ATA). He wrote 19 granthas which     include : PRAPANNA PAARIJAATHAM, Sloka Dvayam, Paratvaadhi Panchaka Sthuthi,     Tattva Nirnayam, Tattva Saaram, Saamaanya Adhikarana Vaadham, Yathilinga     Samarthanam, Hethiraja Sthavam, Prameya maala, Sri bhashya Sangraham, and     Aahnika Choodaamani (which is not extant) (Authority: PPM and Payyampadi     Setlur Srivatsaankaachaaryars Preface to the Commentary on Prapanna     Paarijatham by Abhinava Desika Uttamur Swami.) He was the master of Kidambi     Appullaar who learned the Sastras at his feet while he was delivering     Kalakshepam on the Eastern side of Perarulalan Sannidhi in Kanchipuram. Like     a mother who feeds her child, he offered to Lord Varadaraja hot milk (     neither too hot nor too cold) but just hot enough to drink .Therefore, the     Lord was pleased to exclaim "Oh ! Are you my mother? ". That is how he came     to be known as Nadadoor Ammaal.
 </details>
 
 
@@ -84,8 +83,10 @@ He was born in the month Chitrai     in Chitra Nakshatram in the year 1165 AD. H
 
 He was born in the Month Thai in the constellation of Punarvasu (MSR). He was a cousin of Ramanuja. His earlier name was Govinda. He studied under Yadava prakasa along with Ramanuja. It is he who rescued Ramanuja from the plot , the Guru Yadava prakasa hatched to kill Ramanuja. Subsequently, as he was taking bath in a river once, a Sivalinga (an icon in the phallic form of Siva ) mysteriously landed on his palm. He became a Saivite for a while. Later, on the advice of his uncle, Tirumalai Nambi and Ramanuja he returned to Vaishnavism and closely followed Ramanuja in all his itineraries assuming the name of ' Embar'. .(vide p.15 and 16 of ATA). He made the Masters bed, shampooed him when tired, offered him his arm while walking, and took charge of his garments (p.315 of GLE) TKG narrates how he bade farewell to Parasara, son of Alwaan and attained Acharyas Tiruvadi (p.303 - 304 0f GLE) See also paragraph 1 in Part 1 of this series.) His Tanian reads as follows: (SAA p.199) 
 
-Ramanuja Padhas Chaayaa Govinda Aahvaanapaayinee |
-Dhadhaadhyatha Svaroopaascha Jeeyaan Mad Visramas Thalee ||
+रामानुज-पद-च्छाया  
+गोविन्दाह्वाऽनपायिनी।  
+तदायत्तस्वरूपा सा  
+जीयान् मद्-विश्रम-स्थली ॥
 </details>
 
 
@@ -131,6 +132,7 @@ Dhadhaadhyatha Svaroopaascha Jeeyaan Mad Visramas Thalee ||
 
 57. Thondanoor Nambi
 58. MARUDOOR NAMBI : When he did Aartha Prapatti to the Lord saying that he had committed more sins than Sisupala and therefore deserved greater mercy, Lord Nrisimha instantly took him unto his holy feet (p.302 of GLE)
+
 59. Mazhuvoor Nambi
 60. Tiruk Kurum Kudi Nambi
 61. Kuruva Nambi
@@ -139,7 +141,9 @@ Dhadhaadhyatha Svaroopaascha Jeeyaan Mad Visramas Thalee ||
 63. AANDHRA PURNA ( VADUGA NAMBI ) attended upon the master during his bath and tended the masters cows. (p.315 of GLE). Please see paragraph 25 in Part 13 in this series for other details about his Acharya bhakti (p.299-300 of GLE) He used to boil milk and offer it to the master. When the master breathed his last, he kept his feet on the lap of Vaduga Nambi and head on the lap of Embar. (p.42 of ATA)
 
 64. Vanki purathu Nambi
+
 65. PARAANKUSA NAMBI: He was named so by the master in honor of Nammalwar. He wrote a remarkable commentary on 6000 Padi (p.32 of ATA)
+
 66. AMMANGI AMMAAL: Prepared the draught of milk for the master (p.315 of
     GLE)
 67. Varadaarya ( Paruthik Kollai Ammaal)

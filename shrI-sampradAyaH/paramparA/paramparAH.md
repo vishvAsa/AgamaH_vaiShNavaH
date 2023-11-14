@@ -3,6 +3,12 @@ title = "परम्पराः"
 unicode_script = "devanagari"
 +++
 
+<details><summary>स्रोतांसि (द्रष्टुं नोद्यम्)</summary>
+
+[नाट्टेरि-बोधनम्](https://archive.org/details/natteri-guru-paramparA_tamiL)
+</details>
+
+
 ## रामानुजं यावत्
 **नारायणः** → लक्ष्मीः → विष्वक्सेनः … →  
 नम्माळ्वार् → मधुरकविः … →  
