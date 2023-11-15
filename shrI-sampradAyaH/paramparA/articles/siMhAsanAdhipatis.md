@@ -3,11 +3,8 @@ title = "simhAsanAdhipatis"
 +++
 
 
-Given below is the list of 74 simhasanAdhipathis of YathirAjar, as appointed
-by Him.
-This list is provided by Sri Anbil Ramaswamy and is available in
-Ramanujacharya Home page created by Sri Achutharaman. (under Acharya
-vamsavruksham)
+Given below is the list of 74 simhasanAdhipathis of YathirAjar, as appointed by Him.
+This list is provided by Sri Anbil Ramaswamy and is available in Ramanujacharya Home page created by Sri Achutharaman. (under Acharya vamsavruksham)
 
 
 BHAGAVAD RAMANUJA'S SISHYAS WHOM HE NOMINATED AS SIMHASANA ADHIPATHIS:
@@ -50,26 +47,13 @@ He was born in the month Chitrai     in Chitra Nakshatram in the year 1165 AD. H
 
 
 
-14. VISHNU CHITTHA ( ENGAL AAZHWAAN):  He was born in the month Chitrai and
-    in the constellation of Rohini (MSR). A Tiruvellarai Sozhiyar, he was
-    delivering discourses (Pravachanam) on Sri Bhashyam and Bhagavad Vishayam.
-    He wrote a commentary on Vishnu Puranam. He was born in the month Aani in
-    the constellation of Swaathi. He wrote Vishnuchitteeyam, Saaraartha
-    Chathushtayam and Sangathi maasam. (PPM) He attained Paramapadam at a place
-    called Kollakkonda near Srivilliputtur (PPM)
+14. VISHNU CHITTHA ( ENGAL AAZHWAAN):  He was born in the month Chitrai and in the constellation of Rohini (MSR). A Tiruvellarai Sozhiyar, he was delivering discourses (Pravachanam) on Sri Bhashyam and Bhagavad Vishayam. He wrote a commentary on Vishnu Puranam. He was born in the month Aani in the constellation of Swaathi. He wrote Vishnuchitteeyam, Saaraartha Chathushtayam and Sangathi maasam. (PPM) He attained Paramapadam at a place called Kollakkonda near Srivilliputtur (PPM)
 
 15. Marichyaarya ( Milagaazhwaan)
 16. Neyyundaazhwaan
 17. Baalaarya - I ( Setlur Siriyaazhwaan)
 
-18. ANANTHAARYA (ANANTHAAZHWAAN):  He was one of the direct disciples of
-    Bhasyakarar. He spent most of his life in Tirumalai having been deputed
-    there to do offer Pushpa Kaimkaryam. Once, he was stung by a poisonous snake
-    while plucking flowers. He prayed to the Lord saying that if he got cured of
-    snake bite, he would take bath in Tirukkoneri and if he were to die, he
-    would still take bath in the Viraja and reach Paramapada Naathan. It is he
-    who composed the Tanian for Tiruvoimozhi commencing with the words " Aeinda
-    Perum Keerthi".
+18. ANANTHAARYA (ANANTHAAZHWAAN):  He was one of the direct disciples of Bhasyakarar. He spent most of his life in Tirumalai having been deputed there to do offer Pushpa Kaimkaryam. Once, he was stung by a poisonous snake while plucking flowers. He prayed to the Lord saying that if he got cured of snake bite, he would take bath in Tirukkoneri and if he were to die, he would still take bath in the Viraja and reach Paramapada Naathan. It is he who composed the Tanian for Tiruvoimozhi commencing with the words " Aeinda Perum Keerthi".
 
 19. Vedaanthi Aazhwaan
 20. Kovil Aazhwaan
@@ -91,7 +75,7 @@ He was born in the Month Thai in the constellation of Punarvasu (MSR). He was a 
 
 
 
-24. PRANATHA AARTHI HARA ( KIDAAMBI AACHAAN) looked after the refectory along with Kidambi Perumal. (p.315 of GLE) It is he who took over the culinary duties for the master after the poisoning incident when Tirukkoshtiyur Nambi entrusted Ramanuja to his loving care. Therefore, he came to be known Madappalli Aachaan.
+24. PRANATAARTIHARA ( KIDAAMBI AACHAAN) looked after the refectory along with Kidambi Perumal. (p.315 of GLE) It is he who took over the culinary duties for the master after the poisoning incident when Tirukkoshtiyur Nambi entrusted Ramanuja to his loving care. Therefore, he came to be known Madappalli Aachaan.
 
 25. Baalaarya II (Kaniyanur Siriya Aazhwaan)
 26. Ichchambaadi Aachaan
