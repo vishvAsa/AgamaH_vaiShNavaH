@@ -20,25 +20,14 @@ unicode_script = "devanagari"
 राम-मिश्रः|मणल्-काल्-नम्बिः →  
 **यामुनः** (नाथमुनि-पौत्रः, ईश्वरभट्ट-पुत्रः) →  
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-Source: [TW](https://archive.org/details/natteri-guru-paramparA_tamiL/natteri-0004.mp3.ogg) ।  
-यामुनो नाथमुनि-वृद्धावस्थायां जातः, तेनैव नाम दत्तम्।  
-महाभाष्यभट्टशिष्यः।  
-राजपुरोहितकरतिरस्काराय +अक्कि-आऴ्वान्-नामकं राजसभायां जितवान्। राज्यार्धम् अजयत्।  
-नाथमुनिना पुण्डरीकाक्षः, तेन राममिश्रश् च तद्-उपदेशे प्रेरितः।  
-
-</details>
-
-
 महा-पूर्णः|पॆरिय-नम्बि (समाश्रयणकृत्, द्वय-मन्त्रोपदेष्टा)  
 गोष्ठि-पूर्णः|तिरु-कॊट्टियूर्-नम्बि (अष्टाक्षर-रहस्य-बोधकः),  
 श्री-शौल-पूर्णः|पॆरिय-तिरुमलै-नम्बि (यामुनपौत्रः, रामायण-पाठकः),  
 माला-धारः|तिरु-मालैय्-आण्डान् (भगवद्-विषय-बोधकः)
 रङ्गः|तिरुव्-अरङ्ग-पॆरुमाळ्-अरैयार् (यामुन-पुत्रः, रहस्यान्तरोपदेष्टा)  
-→ **रामानुजः** (महापूर्ण-भागिनेयः)
+→ **रामानुजः** (श्री-शौल-पूर्ण--भागिनेयः)
 
-काञ्चीपूर्ण इति वैश्यसिद्धो देवराजसेवको ऽप्य् उपाकरोद् रामानुजम्।
+काञ्ची-पूर्ण इति वैश्य-सिद्धो देव-राज-सेवको ऽप्य् उपाकरोद् रामानुजम्।
 
 ### उत्तराधिकारी
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -57,15 +46,15 @@ Vijay read an article which made the following points:
 
 
 
-## समाश्रयणदातारः
+### समाश्रयणदातारः
 - He nominated 74 simhasanadhipathis and ordained them to do pancha samskaram to sishyas at their places.
 
-### आचार्यदीक्षा
+#### आचार्यदीक्षा
 समाश्रयण-दातॄणां विशिष्ट-दीक्षा भवतीति केचित्,  
 समाश्रयण-प्राप्त्या ऽऽचार्यानुमत्या चालम् इत्य् अन्ये।  
 तया व्यक्तिर् वा कुलम् अपि वा ऽऽचार्यपदम् आरोप्यत इति केचित्। 
 
-## भाष्य-प्रचारकाः
+### भाष्य-प्रचारकाः
 - From the 74 simhasanadhipathis, he selected four, gave them the Sri Bhashya kosha and instructed them to do Sri Bhashya pravachanam thereby making them Sri bhashya simhasanadhipathis.
 
 - कुरुगेशः, तिरुक्-कुरुगै-पिऱान्-पिळ्ळन् (श्रीशैल-पूर्णपुत्रः, तातार्यः, R's maternal cousin).
@@ -73,7 +62,7 @@ Vijay read an article which made the following points:
   - Essentially nominated successor by rAmAnuja as per ravilochana. 
   - R asked him (presumably stronger in tamiL) to compose bhagavad-viShayam on divyaprabandha. No such commentary existed before piLLan.
 - naDAtUr ALvan (रामानुज-भागिनेयः)
-- Kidambi Acchaan (प्रणतार्तिहरः, रामानुज-पाचकः). He was specially taught the rahasyas as per vijay.
+- Kidambi Acchaan (प्रणतार्तिहरः, रामानुज-पाचकः). He was specially taught the rahasyas as per vijay. 
 - Mudali Andan (रामानुज-भागिनेयः).
 
 ## वेदान्तदेशिक-शाखा
