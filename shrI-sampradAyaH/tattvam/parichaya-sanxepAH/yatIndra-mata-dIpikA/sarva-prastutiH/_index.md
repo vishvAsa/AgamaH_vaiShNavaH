@@ -2,6 +2,6 @@
 title = "+सर्व-प्रस्तुतिः"
 
 +++
-TODO: परिष्कार्यम्
+TODO: टीकान्तराणि योजनीयानि। 
 
 Source: [TW](https://archive.org/details/YatindraMataDipikaRKMission)
