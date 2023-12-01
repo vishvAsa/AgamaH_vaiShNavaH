@@ -66,16 +66,20 @@ Vijay read an article which made the following points:
 - Mudali Andan (रामानुज-भागिनेयः).
 
 ## वेदान्तदेशिक-शाखा
-- **रामानुजः** → आत्रेयः प्रणतार्तिहरः → … → आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः → वेदान्तदेशिको **वेङ्कटनाथः** →  तत्पुत्रः कुमारवरदः, परकालयतिः → नडातूरु-वात्स्य-घटिकाशतकः … → अहोबिलाचार्यः → पञ्चमत-भञ्जन-ताताचार्यः … → आत्रेय-गोपालार्यः मुनि-त्रय-सम्प्रदाय-प्रवर्तकः, aka Thirukkudanthai Desika → Ramanuja Maha Desikan (Andavan Ashrama), Annarya, Vangipuram Vedhantha Ramanuja Maha desikan (Aandikadu Swamy in Srirangam)
-
-### ताताचार्याः
-A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few more here n there) are tenkalais. More than 95% of tataryas must be vdk.
 
 ### श्रीभाष्य-परम्परा
 - R->Pillaan->Engalazhvan -> Nadadur Ammal (great-grandson of Nadadur Alvan - another Sribhashya simhasanadhipati) -> Kidambi Appullar -> VD
 
+### रहस्य-परम्परा
+- **रामानुजः** → आत्रेयः किडाम्बि-प्रणतार्तिहरः → किडाम्बि-रामानुजः → किडाम्बि-रङ्गराजः → आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः → वेदान्तदेशिको **वेङ्कटनाथः** →  तत्पुत्रः कुमारवरदः, परकालयतिः → नडातूरु-वात्स्य-घटिकाशतकः … → अहोबिलाचार्यः → पञ्चमत-भञ्जन-ताताचार्यः …
 
-### Andavans 
+### ताताचार्याः
+A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few more here n there) are tenkalais. More than 95% of tataryas must be vdk.
+
+### मुनित्रय-शाखा
+→ आत्रेय-गोपालार्यः मुनि-त्रय-सम्प्रदाय-प्रवर्तकः, aka Thirukkudanthai Desika → Ramanuja Maha Desikan (Andavan Ashrama), Annarya, Vangipuram vedAnta Ramanuja Maha desikan (Aandikadu Swamy in Srirangam)
+
+#### Andavans 
 
 - Ramanuja Maha Desikan …
 - → PeriAndavan(25-2-1801 to 1884-feb) 
