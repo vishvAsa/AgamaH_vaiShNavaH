@@ -104,7 +104,7 @@ Parak or Outward is also twofold: the Nitya- vibhuti or Eternal Estate, and the 
 
 <details><summary>मूलम्</summary>
 
-३. अजडं तु द्विविधम् – पराक् प्रत्यक् चेति । परागपि द्विधा - नित्यभूतिः धर्मभूतज्ञानं चेति ।
+३. अजडं तु द्विविधम् – पराक् प्रत्यक् चेति । अजडम् परागपि तथा – नित्यविभूतिर् धर्मभूतज्ञानं चेति । (परागपि द्विधा - नित्यभूतिः धर्मभूतज्ञानं चेति ।)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
