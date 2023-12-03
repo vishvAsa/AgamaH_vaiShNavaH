@@ -29,7 +29,7 @@ title = "१४ न्यासविद्याया वर्णनम्"
 
 </details>
 
-<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - टिप्पनी</summary>
 
 न्यासविद्या का महत्त्व
 

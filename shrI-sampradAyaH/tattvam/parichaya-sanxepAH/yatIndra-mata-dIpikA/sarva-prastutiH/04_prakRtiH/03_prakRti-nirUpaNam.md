@@ -28,7 +28,7 @@ title = "०३ प्रकृति-निरूपणम्"
 
 </details>
 
-<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - टिप्पनी</summary>
 
 प्रकृतिनिरूपण 
 

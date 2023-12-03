@@ -25,7 +25,7 @@ title = "०४ नित्यत्व-साधनम्"
 
 </details>
 
-<details><summary>शिवप्रसादः (हिं) - तिप्पनी</summary>
+<details><summary>शिवप्रसादः (हिं) - टिप्पनी</summary>
 
 जीवों की नित्यता का प्रतिपादन 
 
