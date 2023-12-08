@@ -2,6 +2,9 @@
 title = "+v1"
 
 +++
+Source: [TW](https://archive.org/details/deshika-prabandha/deshika-prabandham_kannaDa_sanskrit_v1/page/n1/mode/2up)
+
+TODO: परिष्कार्यम्। 
 
 ॥ ಶ್ರೀ ॥ 
 ಶ್ರೀ ನಿಗಮಾಂತ ಮಹಾದೇಶಿಕರವರಿಂದ ವಿರಚಿತವಾದ 

@@ -2,6 +2,8 @@
 title = "+आहारनियमः"
 
 +++
+TODO: परिष्कार्ये - कन्नड-द्राविड-टीके। 
+
 Source: [Kn Sa](https://archive.org/download/deshika-prabandha/deshika-prabandha-kn-sa.pdf)
 
 Source: [Ta 1894](https://archive.org/details/deshika-prabandha/page/%E0%AF%A7%E0%AF%A9%E0%AF%A8/mode/1up?q=%E0%AE%86%E0%AE%B9%E0%AE%BE%E0%AE%B0%E0%AE%A8%E0%AE%BF%E0%AE%AF%E0%AE%AE)
