@@ -8,19 +8,15 @@ PRAPANNA PĀRIJĀTA.
 The Refugee's Pārijāta,* 
 
 The Brahmavadın. 
-3. Salutations to that God who by constantly meditat- ing on the eye of Lakshmi has (as it were) attained sameness of form with it and has thus become fish-bodied (Minavapuh) and who has freed the knower of the Vedas (Brahmi) from danger. 
-4. Taking shelter under that dust (jas) of the feet of saints which is potent to heal passions (rajus) we shall en- deavour to compose the work known as Prapanna-pārjāta. 
 CHAPTER. I. 
 ON THE AUTHORITIES FOR PRAPATTI. 
-1-2. By epitomising the teaching of the Vedanta* 
-Vedanta: Literally the end of the Veda, an Upanishad which comes at the end of the Veda. Hence it is applied to the Darsana of the Upanishads-one of the six principal systems of Hindu philosophy based on the Upanishads as teaching the ulti- mate aim and scope of the Veda. This system which is also called Uttaramimamsa being regarded as a sequel to Jaimini's Purvamim imsa, though practically quite a distinct system. It represents the evolution of the philosophy of Hindu religious thought and as such it now actually covers the whole of orthodox India and forms the basis of its several religious sects. It regards the whole world as synthetically derived from one eternal Princi- ple, the Brahman, or the Superme Being which is both the effici- ent and the material cause of the phenomenal universe, the all- prevading Soul and Spirit of the universe; and everything as ulti- mately being absorbed into Brahman, the one absolute esse. 
+
  
 1: 
 .T 
 Prapannaparijatā. 
 19 
-and other works shall here be mentioned these ten topics: (1) the grandeur of the authorities for Prapatti (seeking re- fuge with God), (2) its nature, (3) the persons entitled to it, (4) the duties of a Prapunnu towards the guru (spiritual pre- ceptor), (5) towards God, (6) towards the eternals,* and (7) towards the godly, (8) the determination of duties from among those prescribed in the sastrās and (9) those practices that are to be avoided, (10) and the result thereof. 
-3. For to fix in the mind by constant meditation the teaching received-this is my endeavour and nothing else. Any faults herein found should be excused by good people in consideration of the gravity of the subject. 
+
 4. Prapatti (i, e, seeking refuge with God) is first pres- cribed in the Veda of the Taittiriyus† and there, in the hymn (mantra) commencing with Vusurung it is mentioned 
 L 
 • According to the Visistadvaita theology the Jiva is of three kinds : Nitya, the eternal; Baddha, the bound; and Mukta the freed. Of these, the eternals always attend on God minister- ing unto His wishes and have no births except when they volun- tarily incarnate with an Avatar for the purpose of doing His 
