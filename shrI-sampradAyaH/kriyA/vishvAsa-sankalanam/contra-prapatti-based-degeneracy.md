@@ -34,7 +34,7 @@ It is very important to adhere to shruti and smRtis, and adhere to scripturally 
 ### Flight analogy
 > (Source: harIsh) Moksha is like taking one way flight to VaikunTha. Prapatti is like completing security check and waiting in the boarding lounge until the flight take off. While in boarding lounge if we get lost somewhere like in bars and cafe and don't show off,  we miss the flight and have to wait for the next at His mercy.
 >
-> Under very very rare circumstances like criminal acts ( Bhagawad-BhAgavatha apachaara) we might lose the opportunity to reach the destination  altogether and have to return to never ending B-D cycle (To verify).
+> Under very very rare circumstances like criminal acts ( Bhagawad-BhAgavatha apachaara) we might lose the opportunity to reach the destination  altogether.
 
 ## Stop misinformation
 What a person can do is 
