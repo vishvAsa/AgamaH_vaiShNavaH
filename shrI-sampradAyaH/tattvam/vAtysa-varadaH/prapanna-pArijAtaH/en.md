@@ -17,25 +17,16 @@ ON THE AUTHORITIES FOR PRAPATTI.
 Prapannaparijatā. 
 19 
 
-4. Prapatti (i, e, seeking refuge with God) is first pres- cribed in the Veda of the Taittiriyus† and there, in the hymn (mantra) commencing with Vusurung it is mentioned 
 L 
-• According to the Visistadvaita theology the Jiva is of three kinds : Nitya, the eternal; Baddha, the bound; and Mukta the freed. Of these, the eternals always attend on God minister- ing unto His wishes and have no births except when they volun- tarily incarnate with an Avatar for the purpose of doing His 
-services. 
-+ Taittiriyas: The followers of the Taittiriya branch of the Yajurveda known as the Black Yajurveda which takes its name atter the sage Tittiri its first teacher, or after the bird, the fran- coline partridge, connected with its name in a popular Puranic 
-story. 
-I Mantra: Originally the Samhita portion of the Veda as distinguished from the Brahmana; hence a Vedic hymn or sacred prayer addressed to any deity. It is of three kinds :-It is called a Rik, if metrical and intended to be loudly recited; and Yajus, if in prose and muttered in a low tone; and Saman, if being 
-Digitized by Google 
+
 20 
-The Brah navadin. 
-under the name of Nydsa (i. e. delivering one's self up to God) together with its modus operandi. 
+
 5.-6. There it is said that the Supreme Brahman, who is the fit object of meditation, who is the cause of all, who is all-pervading and is the Creator of all, is Himself worthy to be sought after-the Brahman whose glory is sung thus- "Thou art (now) the giver of night to the sun &c., as in the previous cycle; Thou art brilliant and beautiful like precious gems." 
 7. Making jivatman the oblation, one shall sacrifice him in the glorious fire of the Brahman whose body he is, repeat- ing the (mantra) Om' which is the essence of the Vedas. 
 C 
 8. Thus the application of Prapatti is declared in the sacred texts to assume the form of Pranav (the sacred syll- able Om); where it is represented as a sacrifice in the body of those that know it accordingly. 
 9. Of the various penances therein mentioned Prapatti otherwise known as Nyasa is stated as the highest. Dvaya is considered in Kathavalli as the significant mantra of Pra- patti. 
 10. The Svetasvatara-Samhita Upanishad is cited as a 
-metrical it is intended for chanting. From this it came to be applied to any formula of prayer to a deity; and finally to an in- cantation or charm. 
-* Nyasa. Literally pledge.' Here it is synonymous with Prapatti meaning 'pledging one's self to God.' It is recognised by the Upanishads as one of the thirty two Brahma-vidyās. (sciences teaching the knowledge of Brahman). 
  
 Prapannaparata. 
 21 
@@ -72,7 +63,7 @@ found to be non-existent in the ease of all the prescribed duties.
 29. By means of this Prapatti let a man, led by the feeling that he has no other course, seek refuge with Me, knowing Me to be Madhava (the Lord of Lakshmi). Thus 
 • Jnèna-yoga: Contemplation as the means of acquiring spiri- tual knowledge which releases one from the trammels of samsúra by giving a knowledge of the true nature of one's own ātman. 
 + & Love towards equals is priti; and love towards superiors is bhakti. Bhakti when felt for God is lore transcendental, just as reason transcendental becomes faith. 
-Digitized by Google 
+
 21 
 The Brakmavadin. 
 f 
@@ -167,7 +158,7 @@ That which is known as Sudhya-bhakti (love as the end) is declared as Prapatti. 
 from the Divine Union. 
 away 
 The allusion here is to the chataka bird which is sup- posed to live solely on rain-drops and to the pigeon of a story in Srimad Bhagavata. As the chataka-bird expectantly waits on the clouds alone for its food, a prapanna should wait on God for the attainment of moksha. And God is like unto the pigeon of the story which, after kindling tire for the warming of a weather- beaten, worn out, luckless hunter who has taken shelter under the tree inhabited by the bird, burnt itself to appease his hunger. 
-Digitized by Google 
+
 94 
 their analogues. 
 The Brahmaradin. 
@@ -211,7 +202,7 @@ trines.
 4. 
 I. 
 * Another reading of the second part means 'who has no res- pect for the Guru's race and his abode." 
-Digitized by Google 
+
 CHAPTER. IV. 
 ON THE SERVING OF GURU. 
 1. A great guru ought to be resorted to by one whose mind is afflicted by samsara, who is afraid of the three miseries of life (adhyatmika pertaining to the sonl; adhi- bhoutiko pertaining to the external world; adhidaivika: pertaining to God) and who has renounced the fruits either of this world or of the world to come. 
@@ -322,7 +313,7 @@ If On account of their acceptance by great men as being Vedic, there is doubted 
 19. On the forehead the mace is to be worn; on the head the bow (Saranga), on the middle of the chest the sword (Nandaka), and on the two arms the conch and the disc. 
 20. With metallic models which have been heated in fire and over which their respective mantras have been pronounced, shall one be marked. Even Vriddha-Manu has said this with care. 
 21. To that man who daily wears the vertical marks (ūrdhvapuudra) and the disc mark (chakra) good ever in- 
-Digitized by Google 
+
 Frapannaparijala. 
 créases and evil disappears. 
 157 
@@ -347,7 +338,7 @@ one shall worship Hari in accordance with the routine t established by the princ
 hence the place of worship of any bind. The idea is that when a man sits for meditation or worship, he should on no account get distracted and leave his seat, but should remain comfortably seated till everything is finished, 
 + The reference here is to the Nitya-karma or daily liturgy of the Sri-Vaishnavas as arranged by Sri Ramanuja. 
 Mlechcha: is from mlechch, to talk confusedly. i e. a barba- rian or non-Aryan who does not conform to the Aryan institution and does not speak the Sanskrit language but speaks a barbarous tongue. 
-Digitized by Google 
+
 Prapannaparijuta. 
 159 
 38.-39. On the authority of Saunaka even the incar- nation in images for the purpose of worship (archavatara) shall one worship. Having made with gold, silver or any other metals a beautiful image of Vishnu with gracious face and eyes which shall excite one's own love, and em- bodying in it the Brahman, one shall become mentally absorbed in it. 
@@ -358,7 +349,7 @@ Brahman, one enters.
 43. That hour or even moment when Vasudeva (God) is not thought of,—that itself is a loss; that is a huge opening to disaster; that is an aberration of the mind; that is a mental disorder. 
 44. If even a single hour were to be passed away without meditation (by any person) it is fit to be wept over very much as when he is robbed by a thief. 
 45. Having churned (i. e. entered into) all the sastras and examined them again and again, we find this one ulti- mate clear conclusion viz., that Narayana ought to be ever meditated upon. 
-Digitized by Google 
+
 CHAPTER VI. 
 ON THE WORSHIP OF THE ATTENDANTS ON 
 GOD. 
@@ -442,7 +433,7 @@ By the good, the sages that have come to their house aught to be specially worsh
 17. Lord Krishna washing with his own hands the feet of the guest, Narada, in the houses of all his beloved (Gopis), drank the holy water of the feet of that sage. 
 18. For the promotion of the knowledge of one's sub- serviency to God (Seshatva), in one's house one shall, atten- 
 8 
-Digitized by Google 
+
 296 
 The Brahmaralin. 
 ded with the consciousness of their tripleness* (prapya; object of attainment; prapaka: the means, and Seshi: appropria- tor), gratify the Vaishnavas with repasts which are to their liking and are in consonance with the Sastras. 
@@ -527,7 +518,7 @@ ON THE KARMAS THAT OUGHT TO BE RENOUNCED.
 5.. Singing, dancing &c, which are enjoined by the special Agama-sastra-all these shall a Vaishnava do. Yama and Sounaka have thus declared :- 
 - 
 6. "O the purest of men! except the singing of God, no other song of words should be sung by a Brahmin. Therefore (if other songs are sung) sin has been committed by you." 
-Digitized by Google 
+
 318 
 The Brahmavadin. 
 7. Singing of Vishnu, composing songs on Hin and dancing, O Brahmin! ought to be specially done by those born of the Brahmin caste, like the obligatory karmas (Nitya Karma). 
@@ -551,7 +542,7 @@ and who are religious hypocrites behaving like the
 23. To a repentent Prapanna there is authorisation to prayaschitta only in private. Thus has Lakshmi said to the 
 • Baidalavrata. "Catlike observance," concealing one's malice or evil designs under the garb of piety or virtue. The allusion is to a characterístic story of a cat which after infusing confidence into the rate by a show of assumed piety, tries to destroy them by carefully preying on the stray ones. Manu gives the follow- ing definition of a Baidalavratika. "One who vaunts his piety by carrying the flag of righteousness, who is always malicious and who is a religious hypocrite, deceiver of the world, fierce as a beast and a traducer of all, is known as a Baidalavratika." 
 + Bakavritti. "Cranelike conduct,' religious hypocrisy. The reference is to the act of a crane which under the pretence of sleep watches the fish passing through an acqueduct till a big one passes when it suddenly pounces upon it. Manu defines a Bako- vratika thus :--" He is a dvija (twice-born) acting like the crane who (like a yogi) has a downward look, who is false and eruel, who is always bent on securing his own interest who is rogue and who is falsely modest. 
-Digitized by Google 
+
 320 
 questioning Indra. 
 The Brahmaradin. 
@@ -577,7 +568,7 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 87. The guru and the disciple shall not at anytime bear malice towards each other. Of these he who is malici- ously inclined falls from the path of freedom. 
 38-39. No person shall have recourse to God (Hari) with a mantra uninstructed by a guru. From cupidity a disciple shall not reproach a righteous guru. An intelli- gent man shall not appropriate anything without offering it to his guru. A good Vaishnava shall relinquish all those that hate his guru. 
 40-41. In a temple of Vishnu a Prapanna shall not commit spitting, and such other defilement; shall not wash his feet; nor walk between God and the altar; nor enter God's temple by any passage which is not intended as a regular 
-Digitized by Google 
+
 322 
 door way. 
 The Brahmaradin, 
@@ -627,7 +618,7 @@ ON THE DAWN OF FRUITION.
 4-5. He who adopting Vishnu as the means accom- plishes another object is said to be the lowest. He who adopting other means aims at the attainment of Vishnu is said to be mediocre. He who adopting the pair of Madhava's feet as the means attains the feet of Madhava (God) is the best qualified, and has here, in this birth accomplished his object. 
 6. God of his own accord receives on His head all the worship which are made by men whose minds are devoted to one object. 
 7. Even an atom of offering given with love by the bhaktas becomes very great to me, and that offered by a 
-Digitized by Google 
+
 • 
 380 
 The Brahmavallin. 
@@ -640,7 +631,7 @@ samsara.
 14. Those that are devoted to good works, that are pure and learned in sankhyayoga (the path of knowledge), are not worth even a tenmillomth part of him who is staid in refuge-seeking. 
 15. And-te a person who has acquired the means (of Prapatti), the non-clinging and destruction of subsequent and antecedent aghas (actions of bondage) which are of the nature of merit (punya) and demerit (papa), shall happen. 
 16-17. Properly, all other antecedent aghas of a proud prapanna (dripta), except those that are fit to be enjoyed in the body already begun, desist; and there shall be no clinging of all other aghas except those only that are 
-Digitized by Google 
+
 Prapannaparijata. 
 381 
 intentional, principal, persisting till the decay of the body and are devoid of repentence. 
@@ -655,7 +646,7 @@ Prapatti which is of the nature of moksha is called sadhya-bhakti (bhakti as an 
 25. But a dripta (a proud-prapanna), as he of his own accord does not feel grief on account of the body posses- sed (prarabdha), is liberated at the end of the body. This is the determination of their time of liberation. 
 grace 
 26-30. This Prapanna, therefore, solely through the of the Lord of Sri who resides within the lotus of the 
-Digitized by Google 
+
 382 
 The Brahmaradin. 
 heart, with ease bursting open the hundred and oneth tubular organ of the body (sushumna) and through it immediately rising above, reaching those employed to convey to the other world (ātivåhikas) being conducted by them who have kindness to show at every step, through the different stages of the path of light (archirādi), and owing to the con- tact of the hand of the superhuman being (amānava) leaving the subtle body (Sūkskmadeha), mentally crossing the river Viraja (devoid of passion) and marked with holy sandal and other perfumes of Brahman, shall attain, in order, (the several states of assimilation with God), living in the same heaven (Salokya), then having the sameness of form (Sarupya) and living in proximity (Samipya) and finally shall completely obtain intimate union with Brahman (Sayujya), moving about from world to world and pursuing all desires taking form at will, along with the eternals (Suris) he always does the service of chanting Samaveda. 

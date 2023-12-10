@@ -5,9 +5,25 @@ title = "०१ प्रमाण-पद्धतिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(7) प्रपत्तिस्तैतिरीयाणां वेदे तावत् (1) विधीयते ।  
-न्यासाख्या सप्रयोगाऽसौ(हि) वसुरण्येति मन्त्रतः ॥
+(7) प्रपत्तिस् तैतिरीयाणां  
+वेदे तावत् (1) **विधीयते** ।  
+न्यासाख्या स-प्रयोगा ऽसौ(हि) वसुरण्येति मन्त्रतः ॥
 </details>
+
+<details><summary>English</summary>
+
+4. Prapatti (i, e, seeking refuge with God) is first pres- cribed in the Veda of the Taittiriyus† and there, in the hymn (mantra) commencing with Vusurung it is mentioned 
+under the name of Nyaasa (i. e. delivering one's self up to God) together with its modus operandi. 
+
+
+- + Taittiriyas: The followers of the Taittiriya branch of the Yajurveda known as the Black Yajurveda which takes its name atter the sage Tittiri its first teacher, or after the bird, the fran- coline partridge, connected with its name in a popular Puranic 
+story. 
+- Mantra: Originally the Samhita portion of the Veda as distinguished from the Brahmana; hence a Vedic hymn or sacred prayer addressed to any deity. It is of three kinds :-It is called a Rik, if metrical and intended to be loudly recited; and Yajus, if in prose and muttered in a low tone; and Saman, if being metrical it is intended for chanting. From this it came to be applied to any formula of prayer to a deity; and finally to an in- cantation or charm. 
+* Nyasa. Literally pledge.' Here it is synonymous with Prapatti meaning 'pledging one's self to God.' It is recognised by the Upanishads as one of the thirty two Brahma-vidyās. (sciences teaching the knowledge of Brahman). 
+
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
