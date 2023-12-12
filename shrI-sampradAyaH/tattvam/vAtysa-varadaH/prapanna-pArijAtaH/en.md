@@ -12,44 +12,9 @@ CHAPTER. I.
 ON THE AUTHORITIES FOR PRAPATTI. 
 
 
-7. Making jivatman the oblation, one shall sacrifice him in the glorious fire of the Brahman whose body he is, repeat- ing the (mantra) Om' which is the essence of the Vedas. 
-C 
-8. Thus the application of Prapatti is declared in the sacred texts to assume the form of Pranav (the sacred syll- able Om); where it is represented as a sacrifice in the body of those that know it accordingly. 
-9. Of the various penances therein mentioned Prapatti otherwise known as Nyasa is stated as the highest. Dvaya is considered in Kathavalli as the significant mantra of Pra- patti. 
-10. The Svetasvatara-Samhita Upanishad is cited as a 
- 
-Prapannaparata. 
-21 
-highly favourable authority. This Upanishad in speaking about the course of practice also says as follows: 
-11. In order to obtain the knowledge of the self, one who is desirous of salvation should take refuge with Him who at the beginning created Brahma and taught him the Srutis. 
-12.-18. “A refugee is not forsaken even though he de- serves to be killed." Many soriptural passages like this are also authorities on the subject. And in the Sri-sastra (or the Pancharatra Āgama), the Bhagavar (Vishnu) has taught Brahma the Mantra called Dvaya,† beginning with the words Srimannarayana.' In that same way it has been explained by Lakshmi to Indra in the Lakshmi-Tantra. 
-14. So also the Sanatkumara-Sambilad mentions with respect that Irapatti yields the fruits of all desires and is in- dependent of all other means. 
-15. "Thus in no case does Prapatti stand in need of other means. It yields (of itself) the fruits of all dosires to all persons, in all places, and at all times." 
-16.-17. It severs one's bondage of Sumsāra when it is uttered even once by that one. As the tie of the missile 
-Sri-Sastra: The body of Tantric teaching known as Pancha- ratra-Agama sacred to the Vaishnavas. The main portion of Sri Ramanuja's philosophy is based on this. In this work the word Sastra alone is used to indicate it: Bhagavat-Sastra is another 
-name. 
-+ Dvaya: The sacred mantra of Prapatti. The word signifies "two-fold,' being a combination of two mantras, the mula-mantra and another. 
- 
-22 
-The Brahmavadin. 
-of Brahma, even though it be unfailing, was snapped at once owing to the distrust of the Rakshasas (in its power) to bind Hanuman, so Prapatti becomes ineffectual from the faithless- ness of men, 
-18. Therefore it will give freedom (mükti) to those that repose trust in it. Either in association with other means or by itself Prapatti accomplishes the freedom of those that are desirous of salvation in the same way as Pranava. 
-19-20. The Bhagavan (Vishnu) has clearly said to the attentive Vishvaksena as follows:- 
-It is difficult to practise other means; there is in conse+ 
-quence 
-the danger of losing the qualifications, &c, required to practise (those means): consequently I shall now mention in this connection that means which is common to all people. 
+
 A. 
-21.-22. On account of the evil influence of time,on ac- count of the unsteady nature of the human mind, on account of the attachment of the senses to their objects, on account of indulgence in forbidden acts, and on secount of not doing what is ordained to be done, and on account of the (adverse) nature of the time during which men live,(on account of all these causes), it is not possible to conquer, leader of hosts! the senses and the sensual objects. 
-23. Therefore, O great sage! All persons are not qualified for Karmayoga; because such (a qualification) is 
-*Karmayoga: The performance of actions, worldly and religious rites so as to attain non-attachment and freedom. Some sects like the Vaikhanasas adopt it as the sole means, and consider it to be perfect in itself. 
- 
-Prapannaparijata. 
-23 
-found to be non-existent in the ease of all the prescribed duties. 
-24. There is no interest for any body even in Jana- yoga. In the absence of such (an interest) neither affec- tion (priti)† nor higher love (bhaktı)‡ for Me arises in men. 
-25. Therefore, as there is no qualification to practise Karmayoga or any other yoga and as there is no other course to follow, let a man take refuge in the pair of My feet as the sole end. 
-26. Considering well the bad lot that has befallen him and (considering also) My (attractive) qualities, he who resorts to Me with the full consciousness of My being the only means is freed for ever. 
-27-28. Resolution to observe conformity (to His will), absence of opposition (to it), faith that He will protect, and solicitation for His protection, resignation of one's self (to Him) (atmanikshepa) and the feeling of helplessness- these are the six kinds of Saremagati (i. e. refuge seeking). 
+
 29. By means of this Prapatti let a man, led by the feeling that he has no other course, seek refuge with Me, knowing Me to be Madhava (the Lord of Lakshmi). Thus 
 • Jnèna-yoga: Contemplation as the means of acquiring spiri- tual knowledge which releases one from the trammels of samsúra by giving a knowledge of the true nature of one's own ātman. 
 + & Love towards equals is priti; and love towards superiors is bhakti. Bhakti when felt for God is lore transcendental, just as reason transcendental becomes faith. 
