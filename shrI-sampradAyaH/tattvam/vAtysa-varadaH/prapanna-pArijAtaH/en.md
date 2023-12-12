@@ -8,18 +8,6 @@ PRAPANNA PĀRIJĀTA.
 The Refugee's Pārijāta,* 
 
 The Brahmavadın. 
-CHAPTER. I. 
-ON THE AUTHORITIES FOR PRAPATTI. 
-
-
-
-A. 
-
-. 
-F 
-་ 
-(To be Continued.) 
--10%- 
 III. 
 ARCHITECTONIC OF PURE REASON. 
 (Continued from Vol. IV. page 714.) 

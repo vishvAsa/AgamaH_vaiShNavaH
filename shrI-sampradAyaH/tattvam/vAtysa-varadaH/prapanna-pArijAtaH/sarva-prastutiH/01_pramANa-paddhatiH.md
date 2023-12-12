@@ -5,6 +5,9 @@ title = "०१ प्रमाण-पद्धतिः"
 
 <details><summary>English</summary>
 
+CHAPTER. I. 
+ON THE AUTHORITIES FOR PRAPATTI. 
+
 The author of this work quotes chiefly from the following authorities: The Vedas; Smritis especially Manu; Mahabharata of Vyasa; Vishnupurana of Parasara and Vishnudharma of Saunaka; Sri-Bhagavata and occasionally Varahapurana and largely the Sastra, that is, the Pancharatra-Agama. 
 </details>
 
