@@ -15,50 +15,9 @@ ON THE AUTHORITIES FOR PRAPATTI.
 
 A. 
 
-29. By means of this Prapatti let a man, led by the feeling that he has no other course, seek refuge with Me, knowing Me to be Madhava (the Lord of Lakshmi). Thus 
-• Jnèna-yoga: Contemplation as the means of acquiring spiri- tual knowledge which releases one from the trammels of samsúra by giving a knowledge of the true nature of one's own ātman. 
-+ & Love towards equals is priti; and love towards superiors is bhakti. Bhakti when felt for God is lore transcendental, just as reason transcendental becomes faith. 
-
-21 
-The Brakmavadin. 
-f 
-resting in Me he gains the fulfilment of the object of his pursuit. 
-SO. The Bhagavan (Vishnu) has thus declared in the Ramayana and in the Mahabharata : 
-. 
-"To.one who has sought protection with Me only once and has implored Me saying I am Thine,' I offer protection from the fear of all beings. This is my vow." 
-31. (4 
-Forsaking all rites (dharmas) come to Me alone for shelter; I shall liberate thee from all sins. Do not grieve." 
-32. Parasara, who came to know of the truth regarding the Deity through the boon of Vasishtha, has also said in the Vishnupurāna thus. 
 . 
 F 
-33. "So long as a man does not take refuge with Thee, the Destroyer of all sins, so long does he find afflic tion and desire, delusion and misery.". 
-34. Lo, mirmidon! (bhata) keep further away from those sinless beings who say "O Lotus-eyed Vasudeva, Vishnu (the Pervader of the universe), the supporter of the earth, the unchangeable One, the bearer of the conch and the disc, Do Thou be our refuge!" 
-35. While stating the duties of caste and of the orders of life the sage Mann has also referred to the glory of Sannyasa (self-surrender) under the heading "The worship of Nārāyaṇa." 
-36. "If thou hast no dispute with that Being who lives in thine own heart, who is the Yama, the controller of 
- 
-Prapannafarijata. 
-25 
-the senses from within, who dwells in the Vivasvan, the sun, who is the Raja, the Ruler, go not to the Ganges; go not to Kurukshetra." 
-37-38. 'Dwelling in the heart' does not prominently pertain to Yama, the lord of the Southern quarter, but to Him, the Ruler of all beings Who having entered inside, controlls them all, who is hidden even in the soul (atman), and is death even unto the God of death; Hence "ho abides in the heart"; and to have "no dispute with Him" who is the Supreme Ruler of all and lives in the disc of the Sun, is to offer one's self to His feet. 
-39. 
-1 
-"Whoever apprehends the soul differently from what it really is, what sin is not committed by that thief who has robbed the soul (atman)” 
-40 
-4: 
-Therefore, even the tirthas (holy objects) &c., are made pure by those who have taken refugo with the Lord who is the Ruler of all and abides in the heart of all. 
-41. This idea has been expressed in diverse ways by Saunaka and other great sages:--- 
-"So long as thy mind, O King! does not become de- voted to the love of Vishnu (Vishnu-bhakti) so long go thou to the tirthas (holy places), tanks and rivers." 
-42. "O mighty ruler! devotees like thee, who have 
-The author of this work quotes chiefly from the following authorities: The Vedas; Smritis especially Manu; Mahabharata of Vyasa; Vishnupurana of Parasara and Vishnudharma of Saunaka; Sri-Bhagavata and occasionally Varahapurana and largely the Sastra, that is, the Pancharatra-Agama. 
-9 
- 
-26 
-The Brahmavādin. 
-themselves become sacred, sanctify the tirthas through the Mace-bearer (God) residing within them." 
-43. This much of authority for Prapatti is enough. Saunaka and Vyāsa have (respectively) declared thus in the Vishnudharma and the Bhārata:- 
 ་ 
-44. "Thou hast uselessly passed through a succession of many births. Considering well any one of them, resort to refuge-seeking." 
-45. "O Bharata! thou who art afraid of sins, resign- ing every other undertaking, become, with all thy heart, devoted to Narayana.” 
 (To be Continued.) 
 -10%- 
 III. 
