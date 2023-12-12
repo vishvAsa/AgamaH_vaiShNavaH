@@ -7,12 +7,13 @@ title = "०१ प्रमाण-पद्धतिः"
 
 (7) प्रपत्तिस् तैतिरीयाणां  
 वेदे तावत् (1) **विधीयते** ।  
-न्यासाख्या स-प्रयोगा ऽसौ(हि) वसुरण्येति मन्त्रतः ॥
+न्यासाख्या स-प्रयोगा ऽसौ(हि)  
+"वसुरण्ये"ति मन्त्रतः ॥
 </details>
 
 <details><summary>English</summary>
 
-4. Prapatti (i, e, seeking refuge with God) is first pres- cribed in the Veda of the Taittiriyus† and there, in the hymn (mantra) commencing with Vusurung it is mentioned 
+4. Prapatti (i, e, seeking refuge with God) is first pres- cribed in the Veda of the Taittiriyus† and there, in the hymn (mantra) commencing with Vusurany it is mentioned 
 under the name of Nyaasa (i. e. delivering one's self up to God) together with its modus operandi. 
 
 
@@ -33,11 +34,21 @@ story.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(8) तत्रोपास्यं यथा ब्रह्म सर्वकारणमुच्यते ।  
-प्रपत्तव्यं तथैवेति विभुर्विश्वसृगित्यपि।  
-सूर्यादीनां यथापूर्व तेजःकल्पयिताऽपिच ।  
-वसुवत् रमणीयोऽसीत्येवं ब्रह्म गुणैः स्तुतम् ॥
+(8) **तत्रोपास्यं** यथा ब्रह्म  
+सर्व-कारणम् **उच्यते** ।  
+**प्रपत्तव्यं** तथैवेति  
+**विभुर्** विश्व-सृग् इत्य् अपि।  
+सूर्यादीनां यथा-पूर्व-  
+**तेजःकल्पयिता** ऽपि च ।  
+वसुवत् **रमणीयो** ऽसीत्य्  
+एवं ब्रह्म गुणैः स्तुतम् ॥
 </details>
+
+<details><summary>English</summary>
+
+5.-6. There it is said that the Supreme Brahman, who is the fit object of meditation, who is the cause of all, who is all-pervading and is the Creator of all, is Himself worthy to be sought after-the Brahman whose glory is sung thus- "Thou art (now) the giver of night to the sun &c., as in the previous cycle; Thou art brilliant and beautiful like precious gems." 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -49,8 +60,10 @@ story.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(9) जीवात्मानं हविः कृत्वा तच्छरीरे महीयसि ॥  
-ब्रह्माग्नौ जुहुयादोमित्यनेन द्वय (नाम्नाय) रूपिणा ॥
+(9) जीवात्मानं हविः कृत्वा  
+तच्छरीरे महीयसि ॥  
+ब्रह्माग्नौ जुहुयाद् ओम् इत्य्  
+अनेन द्वय (नाम्नाय) रूपिणा ॥
 </details>
 
 <details><summary>मूलम्</summary>

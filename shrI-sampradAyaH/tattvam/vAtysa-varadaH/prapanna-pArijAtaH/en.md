@@ -11,17 +11,7 @@ The Brahmavadın.
 CHAPTER. I. 
 ON THE AUTHORITIES FOR PRAPATTI. 
 
- 
-1: 
-.T 
-Prapannaparijatā. 
-19 
 
-L 
-
-20 
-
-5.-6. There it is said that the Supreme Brahman, who is the fit object of meditation, who is the cause of all, who is all-pervading and is the Creator of all, is Himself worthy to be sought after-the Brahman whose glory is sung thus- "Thou art (now) the giver of night to the sun &c., as in the previous cycle; Thou art brilliant and beautiful like precious gems." 
 7. Making jivatman the oblation, one shall sacrifice him in the glorious fire of the Brahman whose body he is, repeat- ing the (mantra) Om' which is the essence of the Vedas. 
 C 
 8. Thus the application of Prapatti is declared in the sacred texts to assume the form of Pranav (the sacred syll- able Om); where it is represented as a sacrifice in the body of those that know it accordingly. 
