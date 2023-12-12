@@ -4,12 +4,9 @@ title = "en"
 
 Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
-PRAPANNA PĀRIJĀTA. 
-The Refugee's Pārijāta,* 
-
 
  
-Prapannapurijata. 
+ 
 91 
 9. According to the Lakshmitantra, by (the two angas (viz) the resolution to preserve conformity to his will and the abandoning of opposition to it-are (in a way) predicated the nature of the (other three) angas; moreover to these anyas the same fruit as that of their principal (prapatti) (is attributed) and their several natures (are also pointed out). 
 10. Owing to the certainty of feeling that I abide inside all beings, kindness to all beings is said to be this 'Conformity (to me)' 
@@ -19,7 +16,7 @@ Prapannapurijata.
 16-17. By reason of His ability, easy accessibility, 
  
 92 
-The Brahmavadin. 
+ 
 eternal union with mercy, and by reason of the relation of the Lord (Isa) and the dependent (Isatovya)—(a relation) which is not of to day (but has been existing) even from the beginning, the firm belief that He will protect us who are conformable to him is what is known as Visvasa (faith) destructive of all sins. 
 18. Discerning with skill the capability of the object of refuge to protect one's self and with the (firm) belief that God will protect, one should make Him the means for his desired end. 
 19. Even though He be manifestly merciful, able and the Lord of all beings, yet, unsolicited He will not protect, therefore direct the mind to prayer. 
@@ -30,7 +27,7 @@ eternal union with mercy, and by reason of the relation of the Lord (Isa) and th
 24.-25. The divison of Prapannas into Arta and Dripta is mentioned in Srimad Ramayana : 
 "Even an enemy, who takes refuge with another 
  
-Prapannaparijata. 
+
 93 
 whether he be an arta or a dripta, nught to be protected by a self-knowing person by giving up his own life." 
 26. 
@@ -58,7 +55,7 @@ and the like.
 3-4. The mantra which is declaratory of Prapatti is heard in Kathavalli and other texts. And in Padmapurana 
 (†). Of the several names mentioned in this chapter for prapatti Prapatti and Saranagati are allied in import; similarly Nikshepa and Nyasa, and Tyaga and Sannyasa. 
  
-Prapannaparijata. 
+
 95 
 in the discourse between Parasara and Vasishtha, it is detailed with all its angas over and again, with the name of the sage (Rishi) (its seer), its metre &c., as being composed 
 of twenty-five letters and of the same import as Pranava. 
@@ -74,7 +71,7 @@ in love."
 5 
  
 96 
-The Brahmavadin. 
+ 
 11. Also the Bhakta, always meditating on God with intense love and with his mind not directed to any other object, finds it not possible to depend upon any other means or end. 
 12. That Hari shall be the means and the end to the ignorant (aja), the wise (Sarvajña) and the Bhaktas, is what has been said by Saunaka in his comment on the man- tra, Jitanta" (Victory to Thee, O Lord!): 
 "This Prapatti is the refuge of the ignorant, this alone is the refuge of the wise; this is of those that wish to cross the ocean of samsara, and this of them that desire to attain immortality." 
@@ -100,7 +97,7 @@ He should please the guru who is proficient in the Vedas and conversant with Bra
 7. "He is called a disciple who is a believer in God 
  
 98 
-The Brahmavadin. 
+ 
 and the other world, who is righteous, good-natured, who is a worshipper of Vishnu and who is pure, deep, clever, bold and strong or determined. 
 8. This mantra (dvava) needs no favourable circums- tances (of time and place), no auspicious star, no worshipp- ing of holy objects and the like, and no (contant) repetition or daily utterance. 
 9. 
@@ -113,7 +110,7 @@ Saluting the guru with any of the full prostra- tions commencing with that of th
 Guru alone is the Supreme Brahman; guru alone is the highest riches; guru alone is the highest knowledge; gru alone is the highest object of devotion; guru alone is the highest desire; guru alone is the highest God. 
 "Because he is the teacher of Brahman, theretore he is 
  
-Prapannaparijata. 
+
 99 
 the highest of all teachers. He should always be worshipped, revered and praised. 
 "with love one shall meditate on him, internally repeat his name and bow to him in obeisance; with pleasure serve and worship him; with the thought that he is both the means and the end, take refuge with him solely." 
@@ -134,7 +131,7 @@ not but withers.
 26. The child Sukracharya, the son of Angiras taught his fathers (the Vedic lore). Judging from knowledge he addressed them as 'children.' 
 27. They getting angry asked the devas the meaning of it and the devas came and told them that their child had 
 100 
-The Brahmavadin. 
+ 
 told them what was just. 
 23. Even though he be a child, a vipra has the privilege of age; and after giving mantra, he becomes a father. Only the ignorant person is called a child' and the giver of mantra a 'father.' 
 29. Not by advanced years, nor by grey hairs, nor by wealth, nor by relations, the rishis have made the dharmas. He who has learned the Sastras from an unbroken line of teachers (anichana) is our guru. 
@@ -146,7 +143,7 @@ guru.
 35. He shall canse the bhagavatas (devotees of God) bestow their grace on him, himself shall also try to lift him. up. In case he is not reclaimed he shall give up conversa- tion and such other intercourses with him. 
 36.-97. In the presence of a guru one shall not express' 
  
-Prapannaparijata. 
+
 101 
 manifestly his visvasa (love) (for him). Wherever detrac- tion or dispragement of the guru is heard, there a disciple shall either close his ears or quit the place for some other. 
 He shall be happy in whom there is the faith By 
@@ -174,7 +171,7 @@ ON THE SERVING OF GOD.
 Sesha: One whose nature is solely towards the attribution of another's supremacy, is the Sesha of that other and is subser- vient to his purposes. Seshi is one who holds everything at his own disposal and appropriates it for his own purposes. Accord- ing to the Visishthadvaita system the relation between the ruler and the ruled, the Isvara and the jiva is Sesha-seshi-bhava- and it is eternal. 
 + According to the Vaishnava theology a Prapanna is of two kinds; the ekanti or one who is devoted to one object and the Parmekanti, the supreme ekanti. ▲ Paramekanti is again of two kinds: the arta, or the afflicted, and the Dripta, or the proud or contented. 
  
-Prapannaparijata. 
+
 135 
 holds that the several means (for moksha), the deities other than God, the objects of the senses, bhakti and prapatti known as Krishna (having Krishna as the means and end) are all equal and has also the notion of the lord and the appropriator in Hari. 
 4. In knowing the subserviency of his self, and in always doing service to the lotus-feet of the lord, he shall, thus spend his time usefully. 
@@ -187,7 +184,7 @@ guru.
 12. Only after having put on the marks of a Vaish- nava shall a Vaishnava worship Hari. The sage Vyāsa 
  
 156 
-The Brahmavadin. 
+ 
 says that only (by those of) the castes who have got the marks on should Mādhava (God) be worshipped, served and adored. 
 13. These marks are said to be of two kinds: exter- nal and internal. The marks like those of the conch, the disc &c., are external, and the absence of desire and other passions is the other. 
 14. So also has the Atharvopanishad clearly and specially prescribed the wearing of the disc-mark &c., to the discerning which (in general) is (also.) established in all the Upanishads. 
@@ -215,7 +212,7 @@ A heart untouched by desire and other passions, a speech unsullied by lies and o
 * 
  
 158 
-The Brahmavadin. 
+ 
 one shall worship Hari in accordance with the routine t established by the prince of sannyasins (yatindra). 
 33. Just as a servant overcome with love pleases the king, his master, in the same way, shall one please the Lord of one's self, God, free from subterfuge, by going round the object of worship, placing it always to the right (pradakshina), and by prostrations and praises approved of by the ekantis. 
 34. The whole aggregate of the angas of bhakti, which Vishnu in the shape of the mighty Varaha has said to Agastya, shall one diligently practice, in due time. 
@@ -261,7 +258,7 @@ II.
 "I am that ancient (or eternal) One who is the 
 5 
 162 
-The Brahmavadin. 
+ 
 ''I-ness' of Brahman. He, the Brahman, is the (essence) or the inner Self of all beings, and after becoming 'I' of all beings is known as Hari. I am, therefore, that ancient One who is the 'I-ness' of all beings. 
 16. *Whatever form (of a thing) there is,-(all that) is the eternal Vasudeva; (for) the Brahman constitutes the essential existence and form (of all things): hence That is the abode of immortality. 
 17. "God, Narayana, is the essence of existence; and I, the Supreme Lakshmi, am the attribute (be-ness') of it. Hence what is known as Lakshmìnārāyana is the Brahman which is the eternal One. 
@@ -271,7 +268,7 @@ The Brahmavadin.
 * According to the Visishthadvaita Philosophy, the substance can have no real existence apart from quality and the quality can have existence only as inherent in substance. No idea can have a corresponding reality of existence unless it is capable of being resolved into essence or the 'thing-in-itself' and attribute through which we cognise the reality. Here the Brahman in order that it may be posited to exist ultimately (bhavat), is capable of being viewed in its dual aspect of existence, bhava, the essence of existence and bhāva, its attribute. Lakshmi says this essence to be Narayana and attribute to be Herself; and Lakshmi-Narayana is the One Existence, the Brahman. 
  
 (( 
-Prapannaparijata. 
+
 Brahmins! Just as Vishnu is all-pervading so also is she." 
 22. Among gods, animals and men, the glorious Hari is the masculine name and Lakshmi is the feminine name. O Maitreya! there is nothing higher than these. 
 23.-26. I salute that consort of the Bestower of boons (Varadavallabha) who by being the Beloved of God, previous to their having recourse to her Lord occupies, of Her own accord, the position of mediatrix to men,-to men that are solely addicted to sinful deeds and are for a long time unworthy and promotes affection, mercy and such other feelings in Her Lord, who at the time of His becom- ing the means fosters knowledge, energy and other attri- butes in Him, who for the enhancement of the enjoyments. of the freed augments the qualities of beauty, &c, who is endowed with the three capacities of (upayatva, being the means, upeyatva, being the end, and purushakāratā, being the mediatrix), and who dwells in a lotus and is the ruler of the whole world. 
@@ -303,7 +300,7 @@ ON SERVING THE VIRTUOUS.
 "Visiting the sadhus is a meritorious act; for, are not the sadhus sacred? A holy object yields fruits in course of time but the intercourse with sadhus forthwith." 
 9. Bhagavan Suka says that praising the qualities of 
  
-Prapannaparijata. 
+
 295 
 the virtuous is, as it were, the fruit of knowledge long acquired, in the following terms. 
 10. No fruit has directly been proclaimed by the sages to persons whose learning is one of long labour, there- fore is (advised) the constant thinking of the qualities of those in whose heart is the lotus-feet of the lord (Makanda).' 
@@ -333,7 +330,7 @@ ded with the consciousness of their tripleness* (prapya; object of attainment; p
 * Trividha-Tyaga is another variant of Trividha-jnana. In that case the meaning is preceded by the threefold renuncia- tion', of Phala-sanga-kartri (fruits of action, attachment and the claiming of agency.) 
  
 one have to do. 
-Prapannaparijata. 
+
 297 
 27. As Yayate having fallen among the good re- gained his own position from there, even so one falling among the good does not get embarassed. 
 CHAPTER VIII. 
@@ -346,7 +343,7 @@ AMONG THE PRESCRIBED.
 5. One who has renounced expedient and detrimental actions (upayapaya) and has followed a meduim course and who resolving that God will protect him, has laid down all The allusion is to the story of the Mahabharata. When Yayate the celebrated king of the lunar race, the son of Nahusha, was reaping the fruits of his merit in the Svargaloka, blinded with pride he one day used vile language towards the sages, which destroyed his punya and led his fall through a curse from Indra. But by the favour of the king of gods he fell among the sages called ashtakas and by their grace regained his lost position. 
  
 298 
-The Brahmavadin. 
+ 
 that one can claim as one's, shall recognise as the Protector, that God of gods, the Supreme Being. 
 6. What course is it, mother! (ambike) that is midway between detrimental and expedient karmas? All actions rest solely on the quality of being expedient and detrimen- tal upayapayala). 
 7. On the acceptance or the denial of prohibitory and mandatory injunctions (sastras), is clearly seen the expedient and detrimental naturedness of karmas (rites). 
@@ -357,14 +354,14 @@ that one can claim as one's, shall recognise as the Protector, that God of gods,
 12. (Other karmas) which in being done do not happen towards any benefit whatever but in not being done (happen) towards evil-such karmas one shall surely prac- tise. 
 13. This is that Vedic course of conduct which is midway between the detrimental and expedient ones. Re- maining in this shall one reach Janardana, the Lord of the universe, (jagannatha). 
  
-Prapannaparijata. 
+
 299 
 14-16. This is what has been taught here: such groups of actions as injuriousness, theft, &c., are the detri- mental karmas which are the means of producing evil; the kamyakarmas or the karmas performed with a view to some particular worldly object and future fruition, are those that are the means of accomplishing some object (expedient), such as, building temple and other worldly acts, as also Sankhya* yoga↑ and other means (for securing 
 Sankhya: The system of philosophy attributed to the sage Kapila. This philosophy is so called because it enumerates, in order, twenty five Sattvas or verities, beginning with prakriti or pradhana, the primordial matter; and its chief object is to effect the final emancipation of the twenty fifth tattva, the Purusha or soul, from the bonds of worldly existence-the three miseries of life-by obtaining a correct knowledge of the twenty-four other tattvas and by properly discriminating the purusha from prakriti and its products. It regards the whole universe as a develop- ment of this innate principle called prakriti, while the purusha is altogether passive and simply a looker on, untainted, unaffect- ed, pure and perfect. It agrees with the Vedanta in being synthetical and differs from the analytical Nyaya or Vaiseshika, but its great point of divergence from the Vedanta is that it maintains two principles which the Vedanta disapproves and that it does not admit God as the creator and controller of the uni- verse which the Vedanta affirms. 
 + Yaga: The system of practical philosophy attributed to Pantanjali who appeared to have given it first a systematised form, which is only another form of the sankhya philosophy though practically reckoned as a separate system and differs from it in admitting a twenty fifth principle, God. The chief aim of this philosophy is to teach the means by which the indi- vidual soul jiva may be completely united with the supreme spirit by isolation from matter and thus secure absolution; and abstract meditation is laid down as the chief means of securing this end. The word yoga from the universality of the science came to be 
  
 800 
-The Brahmavadin. 
+ 
 future fruition). Similarly the expiatory karma (Prayas- chitta) is of two kinds; one is chāndrāyana and such other penances destructive of sins already committed, the other, sandhya (the morning, noon and evening prayers), worship and such other (obligatory karmas). 
 17-18. Of these, injury and other detrimental karmas (apaya), building temple and other kamyakarmas (perform- ed for some particular object and with a view to future frui- tion, Sankhya and other expedient karmas (upaya) and also Chandrayana and other expiatory karmas (prāyaschitta)– all these, one shall not, at any time practice. 
 19-20. Those karmas (rites) which are mentioned as remedying future evil, such as sandhya (the morning, noon and evening prayers), archana (worship) panchayagua* (the five sacrifices) and such others as are honoured by those that are desirous of freedom (mumukshus), and the occasional one's such as, the oblation consisting of first fruits at the end of the rainy season (āgrāvana), the parting of the hair (Simantonnayana) &c., and also such others as consecrating the fire (agnyadhana),-all these, aught to be done by the twice-born (dojas) if they have a right to them. But those Karmas that are known as the forbidden (nishiddha), those done for some gain (Kamya) and those that are the means for securing some future fruition (upaya), these others one shall not perform. 
@@ -405,7 +402,7 @@ ON THE KARMAS THAT OUGHT TO BE RENOUNCED.
 6. "O the purest of men! except the singing of God, no other song of words should be sung by a Brahmin. Therefore (if other songs are sung) sin has been committed by you." 
 
 318 
-The Brahmavadin. 
+ 
 7. Singing of Vishnu, composing songs on Hin and dancing, O Brahmin! ought to be specially done by those born of the Brahmin caste, like the obligatory karmas (Nitya Karma). 
 8. The birds of great sins which inhabit the bodies of men who dance in the presence of God are scared away by the clapping of hands &c. 
 9. A Vaishnava shall not give up the mark of the disc of Vishnu and such other tokens which are mentioned in the special sastras, on account of the superiority of a special rule. 
@@ -418,7 +415,7 @@ The Brahmavadin.
  
 7 
 vance, crane.t 
-Prapannaparijata. 
+
 319 
 and who are religious hypocrites behaving like the 
 17. A Prapanna shall not practise any such (karmas) acts whatsoever by which bindrance arises to Prapatti. 
@@ -517,7 +514,7 @@ samsara.
 15. And-te a person who has acquired the means (of Prapatti), the non-clinging and destruction of subsequent and antecedent aghas (actions of bondage) which are of the nature of merit (punya) and demerit (papa), shall happen. 
 16-17. Properly, all other antecedent aghas of a proud prapanna (dripta), except those that are fit to be enjoyed in the body already begun, desist; and there shall be no clinging of all other aghas except those only that are 
 
-Prapannaparijata. 
+
 381 
 intentional, principal, persisting till the decay of the body and are devoid of repentence. 
 18-19. This import has been specially declared by Bhagavan Vishnu. 
@@ -541,7 +538,7 @@ follows:-
 33-34. "That person who thinks of me, the omnipre- sent and the unborn, when his mind is in a state of calmness, his body in a state of harmony of the humours, him, I after- wards think of; my devotee (bhakta) who is at the point of death like a stock or stone and lead him to the final goal.” 
 35-43. At any time whatever on account of the har- mony of wind and other humours of the body due to the absence of disease when calmness of mind exists, if any man whatever thinks of me who am the great ocean of lordship, excellence of disposition, affection and other good qualities 
  
-Prapannaparijata. 
+
 383 
 kindled by Lakshmi, and who am Narayana, the Omni- present, the unborn and the possessor of body at will,-Me, if he thinks of even once saying 'O Narayana, than whom there is no other resort, I have taken refuge with Thy feet', Of my own accord I then think of him who is free from obstruc- tion by other means, who remains steady in that state and who, when death approaches, is like a block of wood or stone, that is, like wood is devoid of the activity of mind in his own body, who has consciousness only when awakened by others but afterwards has an impaired mind, who him- self is devoid of the thought of his own good and like his own self by others also-I, the soul of support of my followers, am that Purusha (Person) who, while his depen- dents are asleep, remaining steady and bringing into exist- ence all the objects of their desire, is awake for the ful- filment of them. And by way of making known the flow of my grace, without the path of the light (archiradi) I shall take this person who is worthy of enjoying my enjoyments, to the highest region, mounting him without any hindrance as much as desired on the shoulder of Garutman." 
 44. The servents of Yama with their nooses, being afraid, speedily fall off from the side of a Prapanna who is possessed of such glory. 
@@ -550,7 +547,7 @@ kindled by Lakshmi, and who am Narayana, the Omni- present, the unborn and the p
 46. "O King! that person who has completely sought refuge with the Teacher of the world (Lokaguru), Narayana, the worthy object of resort, is neither a servant nor a debtor of the gods, the sages, the elementals, men and the divine manes (Pitris).” 
  
 334 
-The Brahmavadin. 
+ 
 47. A great bridge over the milky ocean of the prac- tices of Prapannas has been built by bringing together the the poundings of the mountains of Vedanta, Smriti, and such important teachings of great sages and the Pancharatra. Those that wish to reach quick the extremity of the ocean of Samsara by this route, being released by the store of ante- cedent and subsequent (Purvottara) sinful Karmas, they are considered to be completely freed. 
 48. Wise men who are fearless therefore get into the boat of Nyasa (self-surrender) which is without any hole and is able to go to the end, which has for the base-plank the eons- ciousness arising out of the feeling of wretchedness, which is fastened by the nail of faith, which obeys the pull of the tether (Bandanarajyu) of prayer, which has the mast of self-surrender (Nekshepa) and which enables embodied be- ings to cross the ocean of Samsara. 
 49. The work known as Prapannaparijata has beer proclaimed on earth-a work where the desires of the virtuous are met with from all sides. 
