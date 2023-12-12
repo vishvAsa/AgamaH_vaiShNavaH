@@ -165,23 +165,59 @@ The mental state consisting of determination which results in prayer, of a perso
 सन्न्यासस्त्याग इत्युक्तः शरणागतिरित्यपि" ॥ (ल. तं. 17.75)
 </details>
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गानां **लक्ष्यते** रूपं  
+लक्ष्मी-तन्त्रे प्रकारतः ।  
+तेषाम् अङ्गि-फलत्वं च  
+तद्-रूपं च विभागशः-  
+</details>
+
+<details><summary>English</summary>
+
+9. According to the Lakshmitantra, by (the two angas (viz) the resolution to preserve conformity to his will and the abandoning of opposition to it-are (in a way) predicated the nature of the (other three) angas; moreover to these anyas the same fruit as that of their principal (prapatti) (is attributed) and their several natures (are also pointed out). 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अङ्गानां लक्ष्यते रूपं लक्ष्मीतन्त्रे प्रकारतः ।  
 तेषामङ्गिफलत्वं च तद्रूपं च विभागशः-  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**आनुकूल्यम्** इति प्रोक्तं  
+सर्व-भूतानुकूलता । (ल. तं. 17.66)  
+अन्तःस्थिता ऽहं सर्वेषां  
+भावानाम् इति निश्चयात् ।"+++(4)+++  
+</details>
+
+<details><summary>English</summary>
+
+10. Owing to the certainty of feeling that I abide inside all beings, kindness to all beings is said to be this 'Conformity (to me)'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 आनुकूल्यमिति प्रोक्तं सर्वभूतानुकूलता । (ल. तं. 17.66)  
 अन्तःस्थिताऽहं सर्वेषां भावानामिति निश्चयात् ।"  
-एतेन व्याप्तिविज्ञानात् प्रपत्तव्यस्य सर्वशः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन व्याप्तिविज्ञानात्  
+प्रपत्तव्यस्य सर्वशः ।  
 आनुकूल्यस्य सङ्कल्पात् प्रातिकूल्यस्य वर्जनम् ।  
 हिंसाद्यपायविरतिः उक्ता सर्वेषु जन्तुषु ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अङ्गानां लक्ष्यते रूपं लक्ष्मीतन्त्रे प्रकारतः ।  
-तेषामङ्गिफलत्वं च तद्रूपं च विभागशः-  
-आनुकूल्यमिति प्रोक्तं सर्वभूतानुकूलता । (ल. तं. 17.66)  
-अन्तःस्थिताऽहं सर्वेषां भावानामिति निश्चयात् ।"  
 एतेन व्याप्तिविज्ञानात् प्रपत्तव्यस्य सर्वशः ।  
 आनुकूल्यस्य सङ्कल्पात् प्रातिकूल्यस्य वर्जनम् ।  
 हिंसाद्यपायविरतिः उक्ता सर्वेषु जन्तुषु ॥

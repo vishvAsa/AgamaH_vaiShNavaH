@@ -8,8 +8,7 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
  
  
 91 
-9. According to the Lakshmitantra, by (the two angas (viz) the resolution to preserve conformity to his will and the abandoning of opposition to it-are (in a way) predicated the nature of the (other three) angas; moreover to these anyas the same fruit as that of their principal (prapatti) (is attributed) and their several natures (are also pointed out). 
-10. Owing to the certainty of feeling that I abide inside all beings, kindness to all beings is said to be this 'Conformity (to me)' 
+ 
 11-12. By this, through a knowledge of the universal pervasiveness of Him who is saught after in Prapatti and the resolution to observe conformity to God', giving up of non-conformity to His will, the refraining from cruelties and other injuries to all beings (is meant). 
 13-14. From the thought that the several means (for the attainment of moksha) are sure to fail and there are also many dangers owing to the want of completeness in the constituent angus, the incapacity for the performance of kar- ma and other yogus, and the non-vestment of right in some to the practice of them, and the decay of the qualities of place, and time, relinquishing pride and being low spirited is known as karpanya (wretchedness or poorness of spirit). 
 15. By the difficulty of performance of the other means is indicated the renouncing of them and also the vestment of right to Prapatti in one who is devoid of (other) means. 
