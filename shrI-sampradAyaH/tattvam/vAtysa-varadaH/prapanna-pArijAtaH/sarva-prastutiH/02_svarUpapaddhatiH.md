@@ -210,11 +210,19 @@ The mental state consisting of determination which results in prayer, of a perso
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतेन व्याप्तिविज्ञानात्  
+एतेन व्याप्ति-विज्ञानात्  
 प्रपत्तव्यस्य सर्वशः ।  
-आनुकूल्यस्य सङ्कल्पात् प्रातिकूल्यस्य वर्जनम् ।  
-हिंसाद्यपायविरतिः उक्ता सर्वेषु जन्तुषु ॥
+आनुकूल्यस्य सङ्कल्पात्  
+प्रातिकूल्यस्य वर्जनम् ।  
+हिंसाद्य्-अपाय-विरतिः  
+**उक्ता** सर्वेषु जन्तुषु ॥
 </details>
+
+<details><summary>English</summary>
+
+11-12. By this, through a knowledge of the universal pervasiveness of Him who is saught after in Prapatti and the resolution to observe conformity to God', giving up of non-conformity to His will, the refraining from cruelties and other injuries to all beings (is meant). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -225,33 +233,70 @@ The mental state consisting of determination which results in prayer, of a perso
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-" अङ्गसामग्र्यसम्पत्तेः अशक्तेश्चापि कर्मणाम् ।  
-अधिकारस्य चासिद्धेः देशकालगुणक्षयात् ॥
+"अङ्ग-सामग्र्य्-अ-सम्पत्तेः  
+अ-शक्तेश् चापि कर्मणाम् ।  
+अधिकारस्य चासिद्धेः  
+देश-काल-गुण-क्षयात् ॥  
+उपाया **नैव सिध्यन्ति**  
+ह्य् अपायाः बहुलास् तथा ।  
+इति या गर्व-हानिस् तद्  
+दैन्यं **कार्पण्यम् उच्यते** " (ल.तं. 17.69)  
 </details>
+
+<details><summary>English</summary>
+
+13-14. From the thought that the several means (for the attainment of moksha) are sure to fail and there are also many dangers owing to the want of completeness in the constituent angus, the incapacity for the performance of kar- ma and other yogus, and the non-vestment of right in some to the practice of them, and the decay of the qualities of place, and time, relinquishing pride and being low spirited is known as karpanya (wretchedness or poorness of spirit). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 " अङ्गसामग्र्यसम्पत्तेः अशक्तेश्चापि कर्मणाम् ।  
-अधिकारस्य चासिद्धेः देशकालगुणक्षयात् ॥
+अधिकारस्य चासिद्धेः देशकालगुणक्षयात् ॥  
+उपाया नैव सिध्यन्ति ह्यपायाः बहुलास्तथा ।  
+इति या गर्वहानिस्तत् दैन्यं कार्पण्यमुच्यते " (ल.तं. 17.69)  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपाया नैव सिध्यन्ति ह्यपायाः बहुलास्तथा ।  
-इति या गर्वहानिस्तत् दैन्यं कार्पण्यमुच्यते " (ल.तं. 17.69)  
-उपायान्तरदौष्कर्यात् तन्निवृत्तिर्हि सूचिता । (14)  
-अकिञ्चनाधिकारित्वं प्रपत्तेरपि सूचितम् ॥
+उपायान्तर-दौष्कर्यात्  
+तन्-निवृत्तिर् हि **सूचिता** । (14)  
+**अ-किञ्चनाधिकारित्वं**  
+प्रपत्तेर् अपि **सूचितम्** ॥
 </details>
+
+<details><summary>English</summary>
+
+15. By the difficulty of performance of the other means is indicated the renouncing of them and also the vestment of right to Prapatti in one who is devoid of (other) means. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-उपाया नैव सिध्यन्ति ह्यपायाः बहुलास्तथा ।  
-इति या गर्वहानिस्तत् दैन्यं कार्पण्यमुच्यते " (ल.तं. 17.69)  
 उपायान्तरदौष्कर्यात् तन्निवृत्तिर्हि सूचिता । (14)  
 अकिञ्चनाधिकारित्वं प्रपत्तेरपि सूचितम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"शक्तेः सूपसदत्वाच्+++(=सौलभ्याच्)+++ च  
+कृपा-योगाच् च शाश्वतात् ।  
+ईशेशितव्य-सम्बन्धात्  
+अन्-इदम्-प्रथमाद् अपि ।  
+रक्षिष्यत्य् अनुकूलान् न  
+इति या सुदृढा मतिः ।  
+स **विश्वासो भवेच्** छक्र!  
+सर्व-दुष्-कृत-नाशनः ॥ " (ल.त. 17.71)
+</details>
+
+<details><summary>English</summary>
+
+16-17. By reason of His ability, easy accessibility, [[92]] eternal union with mercy, and by reason of the relation of the Lord (Isa) and the dependent (Isatovya)—(a relation) which is not of to day (but has been existing) even from the beginning, the firm belief that He will protect us who are conformable to him is what is known as Visvasa (faith) destructive of all sins. 
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
 
 " शक्तेः सूपसदत्वाच्च कृपायोगाच्च शाश्वतात् ।  
 ईशेशितव्यसम्बन्धात् अनिदम्प्रथमादपि ।  
@@ -259,24 +304,18 @@ The mental state consisting of determination which results in prayer, of a perso
 स विश्वासो भवेच्छक! सर्वदुष्कृतनाशनः ॥ " (ल.त. 17.71)
 </details>
 
-<details><summary>मूलम्</summary>
-
-" शक्तेः सूपसदत्वाच्च कृपायोगाच्च शाश्वतात् ।  
-ईशेशितव्यसम्बन्धात् अनिदम्प्रथमादपि ।  
-रक्षिष्यत्यनुकूलान् नः इति या सुदृढा मतिः ।  
-स विश्वासो भवेच्छक! सर्वदुष्कृतनाशनः ॥ " (ल.त. 17.71)
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वरक्षायोग्यतां ज्ञात्वा प्रपत्तव्यस्य युक्तितः ।  
-रक्षिप्यतीति विश्वासात् अभीष्टोपायकल्पनम् ॥
+स्व-रक्षा-योग्यतां ज्ञात्वा  
+प्रपत्तव्यस्य युक्तितः ।  
+रक्षिष्यतीति विश्वासात्  
+अभीष्टोपाय-कल्पनम् ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स्वरक्षायोग्यतां ज्ञात्वा प्रपत्तव्यस्य युक्तितः ।  
-रक्षिप्यतीति विश्वासात् अभीष्टोपायकल्पनम् ॥
+रक्षिष्यतीति विश्वासात् अभीष्टोपायकल्पनम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

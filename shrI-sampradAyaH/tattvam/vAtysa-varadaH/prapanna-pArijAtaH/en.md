@@ -9,14 +9,9 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
  
 91 
  
-11-12. By this, through a knowledge of the universal pervasiveness of Him who is saught after in Prapatti and the resolution to observe conformity to God', giving up of non-conformity to His will, the refraining from cruelties and other injuries to all beings (is meant). 
-13-14. From the thought that the several means (for the attainment of moksha) are sure to fail and there are also many dangers owing to the want of completeness in the constituent angus, the incapacity for the performance of kar- ma and other yogus, and the non-vestment of right in some to the practice of them, and the decay of the qualities of place, and time, relinquishing pride and being low spirited is known as karpanya (wretchedness or poorness of spirit). 
-15. By the difficulty of performance of the other means is indicated the renouncing of them and also the vestment of right to Prapatti in one who is devoid of (other) means. 
-16-17. By reason of His ability, easy accessibility, 
- 
-92 
- 
-eternal union with mercy, and by reason of the relation of the Lord (Isa) and the dependent (Isatovya)—(a relation) which is not of to day (but has been existing) even from the beginning, the firm belief that He will protect us who are conformable to him is what is known as Visvasa (faith) destructive of all sins. 
+
+
+
 18. Discerning with skill the capability of the object of refuge to protect one's self and with the (firm) belief that God will protect, one should make Him the means for his desired end. 
 19. Even though He be manifestly merciful, able and the Lord of all beings, yet, unsolicited He will not protect, therefore direct the mind to prayer. 
 20. To say 'Lord Thou shalt be my protector' is what is known as choosing one's protector. Therefore is men- tioned the ending in prayer of Prapatti. 
