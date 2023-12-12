@@ -7,27 +7,10 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 PRAPANNA PĀRIJĀTA. 
 The Refugee's Pārijāta,* 
 
-The Brahmavadın. 
-III. 
-ARCHITECTONIC OF PURE REASON. 
-(Continued from Vol. IV. page 714.) 
-Now that we have succeeded in discovering the bond which unites all our conceptions it is possible to think of referring them to a single science of which each science would be but a branch. It is this mutual subordination of the sciences that Kant endea- 
-PRAPANNAPARIJATA. 
-(Continued from page 26.) 
-CHAPTER II. 
-ON THE NATURE OF PRAPATTI. 
-The mental state consisting of determination which results in prayer, of a person who has a desire to attain but no means, is the nature of Prapatti. 
-2. The prayer which with great faith, regards, that (God) alone as the only means for the attainment of a desire incapable of being attained by any other means, is the Pra- patti known as saranaguti (seeking refuge with God). 
-3. By the word saranagati, prapatti is specified. There- fore seek with bhakti (love and devotion) this Prapatti which is characterised as saranagati. 
-4. This which with love has been declared by Bhagavan Vishnu to Vishvaksena is known as Arta-prapatti (the pro- patti of the miserable); and it has five accessories (angas). 
-5. I am the abode of all sins, utterly incapable and helpless, Thou alone O Lord become my means?' Such a condition of the mind is called saranagati. Let this (Sara- nagat) be directed towards the Lord. 
-6. That prapanna is released from the bonds of sam- sara* who considering well the bad lot that has befallen him and the (attractive) qualities of Hari and being fully 
-*Samsara, is from Samari, to flow continuously; the course of circuit of worldly life. Hence, transmigration or succession of births and deaths. 
+
  
 Prapannapurijata. 
 91 
-conscious that God is the only means, seeks refuge with Him. 
-7--8. In the above sentences the Prapatti of five angus (accessories) is mentioned. For (this Prapatti is also) syno- nymous with Nikshepu (self-resignation to the care of God) Nyas the five-membered' (Panchangalukshana) Sannyasa '(self-resignation), Tyaga (giving up ones self to God), and Sarunayati (seeking refuge with God). 
 9. According to the Lakshmitantra, by (the two angas (viz) the resolution to preserve conformity to his will and the abandoning of opposition to it-are (in a way) predicated the nature of the (other three) angas; moreover to these anyas the same fruit as that of their principal (prapatti) (is attributed) and their several natures (are also pointed out). 
 10. Owing to the certainty of feeling that I abide inside all beings, kindness to all beings is said to be this 'Conformity (to me)' 
 11-12. By this, through a knowledge of the universal pervasiveness of Him who is saught after in Prapatti and the resolution to observe conformity to God', giving up of non-conformity to His will, the refraining from cruelties and other injuries to all beings (is meant). 

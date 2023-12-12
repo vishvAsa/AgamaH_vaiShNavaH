@@ -3,11 +3,26 @@ title = "०२ स्वरूपपद्धतिः"
 
 +++
 
+<details><summary>English</summary>
+
+CHAPTER II. 
+ON THE NATURE OF PRAPATTI. 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुद्धिरध्यवसायात्मा याच्ञापर्यवसायिनी ।  
-प्राप्येच्छोरनुपायस्य प्रपत्ते रूपमिष्यते ॥
+**बुद्धिर्** अध्यवसायात्मा,  
+**याच्ञा** पर्यवसायिनी ।  
+प्राप्येच्छोर् अनुपायस्य  
+**प्रपत्ते रूपम्** इष्यते ॥+++(4)+++
 </details>
+
+<details><summary>English</summary>
+
+The mental state consisting of determination which results in prayer, of a person who has a desire to attain but no means, is the nature of Prapatti. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -17,9 +32,18 @@ title = "०२ स्वरूपपद्धतिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अनन्यसाध्ये स्वाभीष्टे महाविश्वासपूर्वकम् ।  
-तदेकोपायतायाच्ञा प्रपत्तिः शरणागतिः" ॥ (भरतमुनि)
+"अनन्य-साध्ये स्वाभीष्टे  
+महा-विश्वास-पूर्वकम् ।  
+तद्-एकोपायता-याच्ञा  
+**प्रपत्तिः शरणागतिः**" ॥  
+(भरत-मुनिः)
 </details>
+
+<details><summary>English</summary>
+
+2. The prayer which with great faith, regards, that (God) alone as the only means for the attainment of a desire incapable of being attained by any other means, is the Pra- patti known as saranaguti (seeking refuge with God). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -29,32 +53,114 @@ title = "०२ स्वरूपपद्धतिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शरणागतिशब्देन प्रपत्तिस्तु विशेषिता ।  
-“प्रपत्तिं संश्रयेद्भक्त्या शरणागतिल्क्षणाम् ” (वि. सं)  
-इति ह्युक्तं भगवता विष्वक्सेनाय सादरम् (शृण्वते)  
-आर्तप्रपत्तिरित्युक्ता सैषा पञ्चाङ्गसंयुता । (4)  
-अहमस्यपराधानामालयोऽकिञ्चनोऽगतिः।(अ.बु-सं37-30)  
-त्वमेवोपायभूतो मे भवेति प्रार्थना मतिः ।  
-शरणागतिरित्युक्ता सा देवेऽस्मिन् प्रयुज्यताम् । "  
-“आत्मनो दुर्दशापत्तिं विमृश्य च हरेर्गुणान् ।  
-तदेकोपायसंवित्तिः तं प्रपन्नो विमुच्यते "।  
-वाक्येप्वेतेषु पञ्चाङ्गा प्रपत्तिलक्ष्यते यथा(7)  
-“निक्षेपापरपर्यायो न्यासः पञ्चाङ्गसंयुतः ।  
-सन्न्यासस्त्याग इत्युक्तः शरणागतिरित्यपि" ॥ (ल. तं. 17.75)
+शरणागति-शब्देन  
+प्रपत्तिस् तु विशेषिता ।  
+“प्रपत्तिं **संश्रयेद्** भक्त्या  
+शरणागतिलक्षणाम् ” (वि. सं)  
 </details>
+
+<details><summary>English</summary>
+
+3. By the word saranagati, prapatti is specified. There- fore seek with bhakti (love and devotion) this Prapatti which is characterised as saranagati. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 शरणागतिशब्देन प्रपत्तिस्तु विशेषिता ।  
-“प्रपत्तिं संश्रयेद्भक्त्या शरणागतिल्क्षणाम् ” (वि. सं)  
+“प्रपत्तिं संश्रयेद्भक्त्या शरणागतिलक्षणाम् ” (वि. सं)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति ह्युक्तं भगवता  
+विष्वक्सेनाय सादरम् (शृण्वते)  
+आर्त-प्रपत्तिर् इत्य् उक्ता  
+सैषा पञ्चाङ्ग-संयुता । (4)  
+</details>
+
+<details><summary>English</summary>
+
+4. This which with love has been declared by Bhagavan Vishnu to Vishvaksena is known as Arta-prapatti (the pro- patti of the miserable); and it has five accessories (angas). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 इति ह्युक्तं भगवता विष्वक्सेनाय सादरम् (शृण्वते)  
 आर्तप्रपत्तिरित्युक्ता सैषा पञ्चाङ्गसंयुता । (4)  
-अहमस्यपराधानामालयोऽकिञ्चनोऽगतिः।(अ.बु-सं37-30)  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अहम् **अस्म्य्** अपराधानाम्  
+आलयो ऽकिञ्चनोऽगतिः। (अ.बु-सं37-30)  
+त्वम् एवोपाय-भूतो मे  
+**भवे**"ति प्रार्थना मतिः ।  
+**शरणागतिर्** इत्य् उक्ता  
+सा देवेऽस्मिन् **प्रयुज्यताम्** । "  
+</details>
+
+<details><summary>English</summary>
+
+5. I am the abode of all sins, utterly incapable and helpless, Thou alone O Lord become my means?' Such a condition of the mind is called saranagati. Let this (Sara- nagat) be directed towards the Lord. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अहमस्म्यपराधानामालयोऽकिञ्चनोऽगतिः।(अ.बु-सं37-30)  
 त्वमेवोपायभूतो मे भवेति प्रार्थना मतिः ।  
 शरणागतिरित्युक्ता सा देवेऽस्मिन् प्रयुज्यताम् । "  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“आत्मनो दुर्दशापत्तिं  
+**विमृश्य** च हरेर् गुणान् ।  
+तद्-एकोपाय-संवित्तिः,  
+तं प्रपन्नो **विमुच्यते** "।  
+</details>
+
+<details><summary>English</summary>
+
+6. That prapanna is released from the bonds of samsara* who considering well the bad lot that has befallen him and the (attractive) qualities of Hari and being fully conscious that God is the only means, seeks refuge with Him. 
+
+
+*Samsara, is from Samari, to flow continuously; the course of circuit of worldly life. Hence, transmigration or succession of births and deaths. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 “आत्मनो दुर्दशापत्तिं विमृश्य च हरेर्गुणान् ।  
 तदेकोपायसंवित्तिः तं प्रपन्नो विमुच्यते "।  
-वाक्येप्वेतेषु पञ्चाङ्गा प्रपत्तिलक्ष्यते यथा(7)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्येष्व् एतेषु पञ्चाङ्गा  
+**प्रपत्तिर् लक्ष्यते** यथा(7)  
+“निक्षेपापर-पर्यायो न्यासः  
+पञ्चाङ्ग-संयुतः ।  
+सन्न्यासस् त्याग इत्य् **उक्तः**  
+शरणागतिर् इत्य् अपि" ॥ (ल. तं. 17.75)
+</details>
+
+<details><summary>English</summary>
+
+7--8. In the above sentences the Prapatti of five angus (accessories) is mentioned. For (this Prapatti is also) syno- nymous with Nikshepu (self-resignation to the care of God) Nyas the five-membered' (Panchangalukshana) Sannyasa '(self-resignation), Tyaga (giving up ones self to God), and Sarunayati (seeking refuge with God). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वाक्येष्वेतेषु पञ्चाङ्गा प्रपत्तिर्लक्ष्यते यथा(7)  
 “निक्षेपापरपर्यायो न्यासः पञ्चाङ्गसंयुतः ।  
 सन्न्यासस्त्याग इत्युक्तः शरणागतिरित्यपि" ॥ (ल. तं. 17.75)
 </details>
