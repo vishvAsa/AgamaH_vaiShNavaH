@@ -330,10 +330,6 @@ The mental state consisting of determination which results in prayer, of a perso
 शक्तः स्वाम्य् अपि देहिनाम् ।  
 अ-प्रार्थितो **न गोपायेद्**  
 इति तत्-प्रार्थना-मतिः ।  
-"**गोपायिता भवे**"त्य् एवं  
-**गोप्तृत्व-वरणं** स्मृतम् "। (ल.तं. 17.73)  
-**याच्ञा-पर्यवसायित्वं**  
-प्रपत्तेर् अत **इष्यते** ॥
 </details>
 
 <details><summary>English</summary>
@@ -346,49 +342,145 @@ The mental state consisting of determination which results in prayer, of a perso
 
 “करुणावानपि व्यक्तं शक्तः स्वाम्यपि देहिनाम् ।  
 अप्रार्थितो न गोपायेत् इति तत्प्रार्थना मतिः ।  
-गोपायिता भवेत्येवं गोप्तृत्ववरणं स्मृतम् "। (ल.तं. 17.73)  
-याच्ञापर्यवसायित्वं प्रपत्तेरत इष्यते ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रपत्तेस् तु प्रपत्तव्य-  
-प्रसाद-द्वारता तथा । (20)  
+"**गोपायिता भवे**"त्य् एवं  
+**गोप्तृत्व-वरणं** स्मृतम् "। (ल.तं. 17.73)  
+**याच्ञा-पर्यवसायित्वं**  
+प्रपत्तेर् अत **इष्यते** ॥  
+**प्रपत्तेस्** तु प्रपत्तव्य-  
+**प्रसाद-द्वारता** तथा । (20)  
+
+</details>
+
+<details><summary>English</summary>
+
+21. But to Prapatti (belongs), the quality of being the means to the grace of the object of refuge (God)  
+20. To say 'Lord Thou shalt be my protector' is what is known as choosing one's protector. Therefore is men- tioned the ending in prayer of Prapatti. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गोपायिता भवेत्येवं गोप्तृत्ववरणं स्मृतम् "। (ल.तं. 17.73)  
+याच्ञापर्यवसायित्वं प्रपत्तेरत इष्यते ॥  
+प्रपत्तेस्तु प्रपत्तव्यप्रसादद्वारता तथा । (20)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 " तेन संरक्ष्यमाणस्य  
 फले स्वाम्य्-अ-वियुक्तता।  
-केशवार्पणपर्यन्ता ह्यात्मनिक्षेप उच्यते "। (ल. ते. 17.74)  
-उपाये च फले चैवं स्वप्रयत्ननिवर्तनम् ।  
-स्वाम्यायत्तमिति व्यक्तम् ; निक्षेपस्याङ्गिता तथा ।  
-आर्तप्रपत्तावित्येषाम् अङ्गानां सन्निधिः तथा ।  
-दृप्तप्रपत्तावेतानि भविष्यन्त्युत्तरोत्तरम् ॥
+केशवार्पण-पर्यन्ता  
+ह्य् **आत्म-निक्षेप** उच्यते "। (ल. ते. 17.74)  
 </details>
+
+<details><summary>English</summary>
+
+and by him who is to be protected by God (so realised through Prapatti) the disclaiming of proprietory right to the fruit of action which has its termination in the resignation to Kesuva (God), is said to be Atmanikshepa (self-resignation to the care of God). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-प्रपत्तेस्तु प्रपत्तव्यप्रसादद्वारता तथा । (20)  
 " तेन संरक्ष्यमाणस्य फले स्वाम्यवियुक्तता।  
 केशवार्पणपर्यन्ता ह्यात्मनिक्षेप उच्यते "। (ल. ते. 17.74)  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाये च फले चैवं  
+स्व-प्रयत्न-निवर्तनम् ।  
+स्वाम्य्-आयत्तम् इति **व्यक्तम्** ; निक्षेपस्याङ्गिता तथा ।  
+</details>
+
+<details><summary>English</summary>
+
+22. It is evident that eschewing self-exertion in both the means (Upaya) and the fruit (phala) belongs to the (pro- vince of the) Lord (Swamyayatta); (and it is) also (plain) that Nikshepa has accessories. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 उपाये च फले चैवं स्वप्रयत्ननिवर्तनम् ।  
 स्वाम्यायत्तमिति व्यक्तम् ; निक्षेपस्याङ्गिता तथा ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**आर्त-प्रपत्ताव्** इत्य् एषाम्  
+अङ्गानां सन्निधिः तथा ।  
+**दृप्त-प्रपत्ताव्** एतानि  
+**भविष्यन्त्य्** उत्तरोत्तरम् ॥
+</details>
+
+<details><summary>English</summary>
+
+58. In Artaprapatti (the prapatti of the miserable) is the combined manifestation of all the above angus. But in Dripta-prapatti (the propatti of the proud or contented) these manifest themselves in succession. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 आर्तप्रपत्तावित्येषाम् अङ्गानां सन्निधिः तथा ।  
 दृप्तप्रपत्तावेतानि भविष्यन्त्युत्तरोत्तरम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आर्तदृप्तविभागस्तु श्रीमद्रामायणोदितः-  
-“आतों वा यदि वा दृप्तः परेषां शरणागतः ।  
-अरिः प्राणान् परित्यज्य रक्षितव्यः कृतात्मना" (रा.यु.)  
-यस्य देहान्तरकृते शोको दृप्तः स उच्यते । (25)  
-यस्तु प्रारब्धदेहेऽपि शोचत्यार्तः स उच्यते।  
-आर्तदृप्तविभागेन प्रपत्तिरियमुच्यते ॥
+आर्त-दृप्त-विभागस् तु  
+श्रीमद्-रामायणोदितः-  
+“आर्तो वा यदि वा दृप्तः  
+परेषां शरणागतः ।  
+अरिः प्राणान् **परित्यज्य**  
+**रक्षितव्यः** कृतात्मना" (रा.यु.)  
 </details>
+
+<details><summary>English</summary>
+
+24.-25. The divison of Prapannas into Arta and Dripta is mentioned in Srimad Ramayana : 
+"Even an enemy, who takes refuge with another 
+ 
+
+93 
+whether he be an arta or a dripta, nught to be protected by a self-knowing person by giving up his own life." 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 आर्तदृप्तविभागस्तु श्रीमद्रामायणोदितः-  
-“आतों वा यदि वा दृप्तः परेषां शरणागतः ।  
+“आर्तो वा यदि वा दृप्तः परेषां शरणागतः ।  
 अरिः प्राणान् परित्यज्य रक्षितव्यः कृतात्मना" (रा.यु.)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्य देहान्तर-कृते शोको  
+**दृप्तः** स उच्यते । (25)  
+यस् तु प्रारब्ध-देहे ऽपि  
+शोचत्य् **आर्तः** स उच्यते।  
+आर्त-दृप्त-विभागेन  
+**प्रपत्तिर्** इयम् उच्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+26. 
+He, whose misery is in taking another body, is called a Dripta (the proud or contented). He who grieves even at this body which is the result of his past Karmas is called an Arta (the miserable). * 
+27. Prapatti also is therefore, mentioned as divided into Art and Iripte. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यस्य देहान्तरकृते शोको दृप्तः स उच्यते । (25)  
 यस्तु प्रारब्धदेहेऽपि शोचत्यार्तः स उच्यते।  
 आर्तदृप्तविभागेन प्रपत्तिरियमुच्यते ॥

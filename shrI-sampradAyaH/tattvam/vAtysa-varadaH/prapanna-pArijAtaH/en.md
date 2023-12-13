@@ -7,19 +7,8 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-20. To say 'Lord Thou shalt be my protector' is what is known as choosing one's protector. Therefore is men- tioned the ending in prayer of Prapatti. 
-21. But to Prapatti (belongs), the quality of being the means to the grace of the object of refuge (God) and by him who is to be protected by God (so realised through Prapatti) the disclaiming of proprietory right to the fruit of action which has its termination in the resignation to Kesuva (God), is said to be Atmanikshepa (self-resignation to the care of God). 
-22. It is evident that eschewing self-exertion in both the means (Upaya) and the fruit (phala) belongs to the (pro- vince of the) Lord (Swamyayatta); (and it is) also (plain) that Nikshepa has accessories. 
-58. In Artaprapatti (the prapatti of the miserable) is the combined manifestation of all the above angus. But in Dripta-prapatti (the propatti of the proud or contented) these manifest themselves in succession. 
-24.-25. The divison of Prapannas into Arta and Dripta is mentioned in Srimad Ramayana : 
-"Even an enemy, who takes refuge with another 
- 
 
-93 
-whether he be an arta or a dripta, nught to be protected by a self-knowing person by giving up his own life." 
-26. 
-He, whose misery is in taking another body, is called a Dripta (the proud or contented). He who grieves even at this body which is the result of his past Karmas is called an Arta (the miserable). * 
-27. Prapatti also is therefore, mentioned as divided into Art and Iripte. However the conviction that the means for the attainment of God is He alone aught to be firm. 
+However the conviction that the means for the attainment of God is He alone aught to be firm. 
 28. 
 That which is known as Sudhya-bhakti (love as the end) is declared as Prapatti. The words of Bhagavata con- veying this import are as follow:- 
 29. A Prapanna (one who has sought refuge) is like the chataka bird, prapattavya (one who is to be sanght after) is like the pigeon. These functions of the protected and the protector are indicated by the characteristics of these birdst 
