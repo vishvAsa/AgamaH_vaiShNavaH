@@ -6,31 +6,7 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-
-
-The words of Bhagavata con- veying this import are as follow:- 
-29. A Prapanna (one who has sought refuge) is like the chataka bird, prapattavya (one who is to be sanght after) is like the pigeon. These functions of the protected and the protector are indicated by the characteristics of these birds. 
-
-away 
-The allusion here is to the chataka bird which is sup- posed to live solely on rain-drops and to the pigeon of a story in Srimad Bhagavata. As the chataka-bird expectantly waits on the clouds alone for its food, a prapanna should wait on God for the attainment of moksha. And God is like unto the pigeon of the story which, after kindling tire for the warming of a weather- beaten, worn out, luckless hunter who has taken shelter under the tree inhabited by the bird, burnt itself to appease his hunger. 
-
-94 
-their analogues. 
-The Brahmaradin. 
-30--32. Prapatti is also explained elsewhere in general treatises. Whatever desire cannot be attained through any other means by a person desirous of them and what cannot be attained by a person desirous of freedom, either with Sankhya (knowledge), or yoga non-attachment to work) or Bhakti (love), namely that supreme abode of bliss from which there is no return-all those are attained by him, great sage! solely by Nyasa; and by means of it alone is also attained the Supreme Soul (Purushottama). 
-33. That by which is procured with case the goal held out by (the lower sciences of) the world and the Vedas, which is hard to reach by any other means, is to be under- stood as Prapattı.† 
-CHAPTER III. 
-ON THE RIGHT OF PRACTICE. 
-The nature of one who is entitled to this Prapatti is stated:- 
-1. To men of all castes who are unable to adopt any other means and have desires to fulfil there is a right to Prafatti by being united with the qualities of goodness 
-and the like. 
-2. As prapatti) yields the fruits of all desires to all persons in all places, it is prescribed to all persons for the fulfilment of their desires. 
-3-4. The mantra which is declaratory of Prapatti is heard in Kathavalli and other texts. And in Padmapurana 
-(†). Of the several names mentioned in this chapter for prapatti Prapatti and Saranagati are allied in import; similarly Nikshepa and Nyasa, and Tyaga and Sannyasa. 
- 
-
-95 
-in the discourse between Parasara and Vasishtha, it is detailed with all its angas over and again, with the name of the sage (Rishi) (its seer), its metre &c., as being composed 
+3-4. The mantra which is declaratory of Prapatti is heard in Kathavalli and other texts. And in Padmapurana [[95]] in the discourse between Parasara and Vasishtha, it is detailed with all its angas over and again, with the name of the sage (Rishi) (its seer), its metre &c., as being composed 
 of twenty-five letters and of the same import as Pranava. 
 5. Therein is prescribed the right of all to it and the pronouncing of it only once. So also elsewhere in the Pancharatra Sastra it is ordained by Bhagavan Vishnu. 
 6. Even to those that are other than the three castes there is. therefore, right to the mantra, dvava, and it is valid according to the lower sciences of the world and the higher Vedas (by treating as accoording to the subject of special law mentioned therein) and on the authority of taking those that follow a practice (to indicate the practice). For example, from the authority of the right of carpenters and others to conscerating the fire (agnyādhāna) and such other vedic rituals and of the wife of the sacrificer to the mantra in the ceremony of looking at clarified butter (ajvāvekshana) and others of the kind. 

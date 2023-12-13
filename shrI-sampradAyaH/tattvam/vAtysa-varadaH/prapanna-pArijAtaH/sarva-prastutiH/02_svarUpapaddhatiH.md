@@ -7,6 +7,9 @@ title = "०२ स्वरूपपद्धतिः"
 
 CHAPTER II. 
 ON THE NATURE OF PRAPATTI. 
+
+(†). Of the several names mentioned in this chapter for prapatti Prapatti and Saranagati are allied in import; similarly Nikshepa and Nyasa, and Tyaga and Sannyasa. 
+
 </details>
 
 
@@ -516,42 +519,73 @@ That which is known as Sudhya-bhakti (love as the end) is declared as Prapatti.
 
 इमं चार्थम् अभिप्रेत्य  
 वचो भागवते यथा-  
-“प्रपन्नश् चातको यद्-वत्  
-प्रपत्तव्यः कपोतवत् ।"  
+“प्रपन्नश् +++(वृष्टि-बिन्दु-काङ्क्षी)+++ चातको यद्-वत्  
+प्रपत्तव्यः +++(व्याधानुकम्पी)+++ कपोतवत् ।"  
+रक्ष्य-रक्षकयोर् एतत्  
+लक्षणं लक्ष्यम् एतयोः ।  
 </details>
+
+<details><summary>English</summary>
+
+The words of Bhagavata con- veying this import are as follow:- 
+29. A Prapanna (one who has sought refuge) is like the chataka bird, prapattavya (one who is to be sanght after) is like the pigeon. These functions of the protected and the protector are indicated by the characteristics of these birds. 
+
+The allusion here is to the chataka bird which is supposed to live solely on rain-drops and to the pigeon of a story in Srimad Bhagavata. As the chataka-bird expectantly waits on the clouds alone for its food, a prapanna should wait on God for the attainment of moksha. And God is like unto the pigeon of the story which, after kindling tire for the warming of a weather- beaten, worn out, luckless hunter who has taken shelter under the tree inhabited by the bird, burnt itself to appease his hunger. 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इमं चार्थमभिप्रेत्य वचो भागवते यथा-  
 “प्रपन्नश्चातको यद्वत् प्रपत्तव्यः कपोतवत् ।"  
+रक्ष्यरक्षकयोरेतत् लक्षणं लक्ष्यमेतयोः ।  
 
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रक्ष्यरक्षकयोरेतत् लक्षणं लक्ष्यमेतयोः ।  
-प्रपतिरपि सामान्यात् शास्त्रेऽन्यत्र प्रपञ्चिता ।  
-“यत् येन कामकामेन न साध्यं साधनान्तरैः ।  
-मुमुक्षुणा यत् साङ्ख्येन योगेन (कर्मणा) न च भक्तितः । (30)  
-प्राप्यते परमं धाम यतो नावर्तते पुनः ॥
+प्रपत्तिर् अपि सामान्यात्  
+शास्त्रेऽन्यत्र प्रपञ्चिता ।  
+“यद् येन काम-कामेन  
+न साध्यं साधनान्तरैः ।  
+मुमुक्षुणा यत् साङ्ख्येन  
+योगेन (कर्मणा) न च भक्तितः । (30)  
+प्राप्यते परमं धाम  
+यतो नावर्तते पुनः ॥
+तेन तेनाप्यते तत् तत्  
+न्यासेनैव महामुने ! ।"  
 </details>
+
+<details><summary>English</summary>
+
+30--32. Prapatti is also explained elsewhere in general treatises. Whatever desire cannot be attained through any other means by a person desirous of them and what cannot be attained by a person desirous of freedom, either with Sankhya (knowledge), or yoga non-attachment to work) or Bhakti (love), namely that supreme abode of bliss from which there is no return-all those are attained by him, great sage! solely by Nyasa; and by means of it alone is also attained the Supreme Soul (Purushottama). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-रक्ष्यरक्षकयोरेतत् लक्षणं लक्ष्यमेतयोः ।  
-प्रपतिरपि सामान्यात् शास्त्रेऽन्यत्र प्रपञ्चिता ।  
+प्रपत्तिरपि सामान्यात् शास्त्रेऽन्यत्र प्रपञ्चिता ।  
 “यत् येन कामकामेन न साध्यं साधनान्तरैः ।  
 मुमुक्षुणा यत् साङ्ख्येन योगेन (कर्मणा) न च भक्तितः । (30)  
 प्राप्यते परमं धाम यतो नावर्तते पुनः ॥
+तेन तेनाप्यते तत्तत् न्यासेनैव महामुने ! ।"  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेन तेनाप्यते तत्तत् न्यासेनैव महामुने ! ।"  
-साधनान्तरदुस्साधं प्राप्य यल्लोकवेदयोः ।  
-सुखेन प्राप्यते (साध्यते) येन सा प्रपतिरिति स्थितिः ॥ (32)
+साधनान्तर-दुस्-साधं  
+प्राप्य यल् लोक-वेदयोः ।  
+सुखेन प्राप्यते (साध्यते) येन  
+सा प्रपतिर् इति स्थितिः ॥ (32)
 </details>
+
+<details><summary>English</summary>
+
+33. That by which is procured with case the goal held out by (the lower sciences of) the world and the Vedas, which is hard to reach by any other means, is to be under- stood as Prapattı.† 
+</details>
+
 
 <details><summary>मूलम्</summary>
 

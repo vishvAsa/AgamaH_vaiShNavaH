@@ -3,29 +3,70 @@ title = "०३ अधिकारि-पद्धतिः"
 
 +++
 
+<details><summary>English</summary>
+
+CHAPTER III. 
+ON THE RIGHT OF PRACTICE. 
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनन्योपायशक्तस्य प्राप्येच्छोरधिकारिता।  
-प्रपत्तौ सर्ववर्णस्य सात्त्विकत्वादियोगतः (गिनः) ।  
-“सा हि सर्वत्र सर्वेषां सर्वकामफलप्रदा” (सन. सं)  
-इति सर्वफलप्राप्तौ सर्वेषां विहिता यतः ॥
+अनन्योपायशक्तस्य 
+प्राप्येच्छोर् **अधिकारिता।**  
+**प्रपत्तौ** सर्व-वर्णस्य  
+सात्त्विकत्वादि-योगतः (गिनः) ।  
 </details>
+
+<details><summary>English</summary>
+
+The nature of one who is entitled to this Prapatti is stated:- 
+1. To men of all castes who are unable to adopt any other means and have desires to fulfil there is a right to Prafatti by being united with the qualities of goodness 
+and the like. 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 अनन्योपायशक्तस्य प्राप्येच्छोरधिकारिता।  
 प्रपत्तौ सर्ववर्णस्य सात्त्विकत्वादियोगतः (गिनः) ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“सा हि सर्वत्र सर्वेषां  
+सर्व-काम-फल-प्रदा” (सन. सं)  
+इति सर्व-फल-प्राप्तौ  
+सर्वेषां विहिता यतः ॥
+</details>
+
+<details><summary>English</summary>
+
+2. As prapatti) yields the fruits of all desires to all persons in all places, it is prescribed to all persons for the fulfilment of their desires. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 “सा हि सर्वत्र सर्वेषां सर्वकामफलप्रदा” (सन. सं)  
 इति सर्वफलप्राप्तौ सर्वेषां विहिता यतः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रपत्तेर्वाचको मन्त्रः कठवल्ल्यादिषु श्रुतः ।  
-अर्थ पुराणे पाद्मे तु पराशरवसिष्ठयोः  
-संवादे प्रणवैकार्थः पञ्चविंशतिवर्णकः॥
+प्रपत्तेर् वाचको मन्त्रः  
+कठवल्ल्यादिषु श्रुतः ।  
+अर्थः पुराणे पाद्मे तु  
+पराशर-वसिष्ठयोः  
+संवादे प्रणवैकार्थः  
+पञ्चविंशतिवर्णकः॥
 </details>
+
+
 
 <details><summary>मूलम्</summary>
 
