@@ -307,10 +307,16 @@ The mental state consisting of determination which results in prayer, of a perso
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-रक्षा-योग्यतां ज्ञात्वा  
-प्रपत्तव्यस्य युक्तितः ।  
-रक्षिष्यतीति विश्वासात्  
-अभीष्टोपाय-कल्पनम् ॥
+**प्रपत्तव्यस्य** युक्तितः ।  
+रक्षिष्यतीति विश्वासाद्  
+**अभीष्टोपाय-कल्पनम्** ॥
 </details>
+
+<details><summary>English</summary>
+
+18. Discerning with skill the capability of the object of refuge to protect one's self and with the (firm) belief that God will protect, one should make Him the means for his desired end. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -320,24 +326,36 @@ The mental state consisting of determination which results in prayer, of a perso
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“करुणावानपि व्यक्तं शक्तः खाम्यपि देहिनाम् ।  
-अप्रार्थितो न गोपायेत् इति तत्प्रार्थना मतिः ।  
-गोपायिता भवेत्येवं गोप्तृत्ववरण स्मृतम् "। (ल.तं. 17.73)  
-याच्ञापर्यवसायित्वं प्रपत्तेरत इष्यते ॥
+“करुणावान् अपि व्यक्तं  
+शक्तः स्वाम्य् अपि देहिनाम् ।  
+अ-प्रार्थितो **न गोपायेद्**  
+इति तत्-प्रार्थना-मतिः ।  
+"**गोपायिता भवे**"त्य् एवं  
+**गोप्तृत्व-वरणं** स्मृतम् "। (ल.तं. 17.73)  
+**याच्ञा-पर्यवसायित्वं**  
+प्रपत्तेर् अत **इष्यते** ॥
 </details>
+
+<details><summary>English</summary>
+
+19. Even though He be manifestly merciful, able and the Lord of all beings, yet, unsolicited He will not protect, therefore direct the mind to prayer. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-“करुणावानपि व्यक्तं शक्तः खाम्यपि देहिनाम् ।  
+“करुणावानपि व्यक्तं शक्तः स्वाम्यपि देहिनाम् ।  
 अप्रार्थितो न गोपायेत् इति तत्प्रार्थना मतिः ।  
-गोपायिता भवेत्येवं गोप्तृत्ववरण स्मृतम् "। (ल.तं. 17.73)  
+गोपायिता भवेत्येवं गोप्तृत्ववरणं स्मृतम् "। (ल.तं. 17.73)  
 याच्ञापर्यवसायित्वं प्रपत्तेरत इष्यते ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रपत्तेस्तु प्रपत्तव्यप्रसादद्वारता तथा । (20)  
-" तेन संरक्ष्यमाणस्य फले स्वाम्यवियुक्तता।  
+प्रपत्तेस् तु प्रपत्तव्य-  
+प्रसाद-द्वारता तथा । (20)  
+" तेन संरक्ष्यमाणस्य  
+फले स्वाम्य्-अ-वियुक्तता।  
 केशवार्पणपर्यन्ता ह्यात्मनिक्षेप उच्यते "। (ल. ते. 17.74)  
 उपाये च फले चैवं स्वप्रयत्ननिवर्तनम् ।  
 स्वाम्यायत्तमिति व्यक्तम् ; निक्षेपस्याङ्गिता तथा ।  

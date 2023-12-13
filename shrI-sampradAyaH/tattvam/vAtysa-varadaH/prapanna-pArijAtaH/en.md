@@ -5,15 +5,8 @@ title = "en"
 Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
- 
- 
-91 
- 
 
 
-
-18. Discerning with skill the capability of the object of refuge to protect one's self and with the (firm) belief that God will protect, one should make Him the means for his desired end. 
-19. Even though He be manifestly merciful, able and the Lord of all beings, yet, unsolicited He will not protect, therefore direct the mind to prayer. 
 20. To say 'Lord Thou shalt be my protector' is what is known as choosing one's protector. Therefore is men- tioned the ending in prayer of Prapatti. 
 21. But to Prapatti (belongs), the quality of being the means to the grace of the object of refuge (God) and by him who is to be protected by God (so realised through Prapatti) the disclaiming of proprietory right to the fruit of action which has its termination in the resignation to Kesuva (God), is said to be Atmanikshepa (self-resignation to the care of God). 
 22. It is evident that eschewing self-exertion in both the means (Upaya) and the fruit (phala) belongs to the (pro- vince of the) Lord (Swamyayatta); (and it is) also (plain) that Nikshepa has accessories. 
