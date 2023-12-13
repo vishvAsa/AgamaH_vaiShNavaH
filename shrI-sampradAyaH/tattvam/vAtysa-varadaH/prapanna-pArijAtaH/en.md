@@ -8,12 +8,9 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-However the conviction that the means for the attainment of God is He alone aught to be firm. 
-28. 
-That which is known as Sudhya-bhakti (love as the end) is declared as Prapatti. The words of Bhagavata con- veying this import are as follow:- 
-29. A Prapanna (one who has sought refuge) is like the chataka bird, prapattavya (one who is to be sanght after) is like the pigeon. These functions of the protected and the protector are indicated by the characteristics of these birdst 
-• Driptus contentment arises not out of any physical happi- ness which he discards but out of realising the working of lis will in everything; so a Dripta is not dissatified with this body because it is given by God and is ever ready to do the duties of this life, but longs for the union with God after death. An Artas misery is not out of any physical suffering which is nothing to him. He feels miserable even at a moments separation from God; and consequently grieves at this body which keeps him 
-from the Divine Union. 
+The words of Bhagavata con- veying this import are as follow:- 
+29. A Prapanna (one who has sought refuge) is like the chataka bird, prapattavya (one who is to be sanght after) is like the pigeon. These functions of the protected and the protector are indicated by the characteristics of these birds. 
+
 away 
 The allusion here is to the chataka bird which is sup- posed to live solely on rain-drops and to the pigeon of a story in Srimad Bhagavata. As the chataka-bird expectantly waits on the clouds alone for its food, a prapanna should wait on God for the attainment of moksha. And God is like unto the pigeon of the story which, after kindling tire for the warming of a weather- beaten, worn out, luckless hunter who has taken shelter under the tree inhabited by the bird, burnt itself to appease his hunger. 
 

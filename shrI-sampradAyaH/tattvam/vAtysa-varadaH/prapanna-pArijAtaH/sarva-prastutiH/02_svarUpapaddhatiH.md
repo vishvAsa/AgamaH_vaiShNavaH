@@ -476,6 +476,10 @@ whether he be an arta or a dripta, nught to be protected by a self-knowing perso
 26. 
 He, whose misery is in taking another body, is called a Dripta (the proud or contented). He who grieves even at this body which is the result of his past Karmas is called an Arta (the miserable). * 
 27. Prapatti also is therefore, mentioned as divided into Art and Iripte. 
+
+• Dripta's contentment arises not out of any physical happiness which he discards but out of realising the working of lis will in everything; so a Dripta is not dissatified with this body because it is given by God and is ever ready to do the duties of this life, but longs for the union with God after death. An Artas misery is not out of any physical suffering which is nothing to him. He feels miserable even at a moments separation from God; and consequently grieves at this body which keeps him 
+from the Divine Union. 
+
 </details>
 
 
@@ -488,9 +492,19 @@ He, whose misery is in taking another body, is called a Dripta (the proud or con
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साधनं भगवत्प्राप्तौ स एवेति स्थितिः दृढा ।  
-साध्यभक्तिः स्मृता सैव प्रपत्तिरिति गीयते ॥ (27)
+**साधनं** भगवत्-प्राप्तौ  
+**स**+++(→भगवान्)+++ एवेति स्थितिर् दृढा ।  
+**साध्य-भक्तिः** स्मृता सैव  
+**प्रपत्तिर्** इति गीयते ॥ (27)
 </details>
+
+<details><summary>English</summary>
+
+However the conviction that the means for the attainment of God is He alone aught to be firm. 
+28. 
+That which is known as Sudhya-bhakti (love as the end) is declared as Prapatti. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -500,8 +514,22 @@ He, whose misery is in taking another body, is called a Dripta (the proud or con
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इमं चार्थम् अभिप्रेत्य  
+वचो भागवते यथा-  
+“प्रपन्नश् चातको यद्-वत्  
+प्रपत्तव्यः कपोतवत् ।"  
+</details>
+
+<details><summary>मूलम्</summary>
+
 इमं चार्थमभिप्रेत्य वचो भागवते यथा-  
 “प्रपन्नश्चातको यद्वत् प्रपत्तव्यः कपोतवत् ।"  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रक्ष्यरक्षकयोरेतत् लक्षणं लक्ष्यमेतयोः ।  
 प्रपतिरपि सामान्यात् शास्त्रेऽन्यत्र प्रपञ्चिता ।  
 “यत् येन कामकामेन न साध्यं साधनान्तरैः ।  
@@ -511,8 +539,6 @@ He, whose misery is in taking another body, is called a Dripta (the proud or con
 
 <details><summary>मूलम्</summary>
 
-इमं चार्थमभिप्रेत्य वचो भागवते यथा-  
-“प्रपन्नश्चातको यद्वत् प्रपत्तव्यः कपोतवत् ।"  
 रक्ष्यरक्षकयोरेतत् लक्षणं लक्ष्यमेतयोः ।  
 प्रपतिरपि सामान्यात् शास्त्रेऽन्यत्र प्रपञ्चिता ।  
 “यत् येन कामकामेन न साध्यं साधनान्तरैः ।  
