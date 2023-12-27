@@ -46,7 +46,7 @@ and the like.
 
 <details><summary>English</summary>
 
-2. As prapatti) yields the fruits of all desires to all persons in all places, it is prescribed to all persons for the fulfilment of their desires. 
+2. As prapatti yields the fruits of all desires to all persons in all places, it is prescribed to all persons for the fulfilment of their desires. 
 </details>
 
 
