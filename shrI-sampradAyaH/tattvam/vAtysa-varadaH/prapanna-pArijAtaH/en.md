@@ -6,22 +6,6 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-3-4. The mantra which is declaratory of Prapatti is heard in Kathavalli and other texts. And in Padmapurana [[95]] in the discourse between Parasara and Vasishtha, it is detailed with all its angas over and again, with the name of the sage (Rishi) (its seer), its metre &c., as being composed 
-of twenty-five letters and of the same import as Pranava. 
-5. Therein is prescribed the right of all to it and the pronouncing of it only once. So also elsewhere in the Pancharatra Sastra it is ordained by Bhagavan Vishnu. 
-6. Even to those that are other than the three castes there is. therefore, right to the mantra, dvava, and it is valid according to the lower sciences of the world and the higher Vedas (by treating as accoording to the subject of special law mentioned therein) and on the authority of taking those that follow a practice (to indicate the practice). For example, from the authority of the right of carpenters and others to conscerating the fire (agnyādhāna) and such other vedic rituals and of the wife of the sacrificer to the mantra in the ceremony of looking at clarified butter (ajvāvekshana) and others of the kind. 
-Or on account of the danger arising to the proper order of chanting, or on account of the defects of pronuncia- tion &c. the right of all others than the three castes, to dvaya, may be taken as Tantric, or to all alike Tantric. 
-9. 
-. 
-To the ignorant Karmayogin), the wise (juanın) and the Bhaktas, there is the right to Prapatti. To the ignorant it is proper on account of their inability to know any other means. 
-10. The wise clearly,knowing the voidness of means like unto God (directly from Him,) turning away from the path of Yoga seek refuge with him. 
-• Bhakti-yaga: The method of Bhakti or Devotion and love to God as the means of attaining final emancipation and eternal bliss. A search after God beginning, continuing and ending 
-in love." 
-5 
- 
-96 
- 
-11. Also the Bhakta, always meditating on God with intense love and with his mind not directed to any other object, finds it not possible to depend upon any other means or end. 
 12. That Hari shall be the means and the end to the ignorant (aja), the wise (Sarvajña) and the Bhaktas, is what has been said by Saunaka in his comment on the man- tra, Jitanta" (Victory to Thee, O Lord!): 
 "This Prapatti is the refuge of the ignorant, this alone is the refuge of the wise; this is of those that wish to cross the ocean of samsara, and this of them that desire to attain immortality." 
 14. Also in the Lakshmitantra under Prapatti it is des- cribed that the sastras mention of him who has the qualities of faith &c., as having right, to it. 
