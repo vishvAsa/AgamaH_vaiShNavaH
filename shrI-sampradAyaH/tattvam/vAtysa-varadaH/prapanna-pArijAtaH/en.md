@@ -6,36 +6,6 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-
-
-
-
-
-2. She is the resting place of Gurus, and the ruler of this world, the divine consort of the God of gods and is eternal and imperishable. 
-3. In the Pancharatra-Sastra, Vishnu has said to the attentive Vishvaksena to the effect that he who is a bhakta of Lakshmi, of Myself and of persons of your stamp,' is rare to meet with on this earth. 
-4. After collecting all the materials for the worship of Hari, one shall worship therewith the goddess also who is the consort of the; God of gods in the same manner as he worships God. 
-5. After mentioning the five kinds of manifestations 
-The manifestations of God (Isvara) according to the Pancharatra sastras are fivefold: Para, the essential and supreme manifestation, as it appears in the empyrean, (Vaikuntha) of Vishnu which is only one; Vyuha, the group of partial manifes- tations which are recognised as fourfold, Vasudeva, Sankarshana, Pradyumna, and Aniruddha; Vibhava, the part manifestations of cosmic energy which are innumerable as seen in the incarna- tions of Rama, Krishna &c., Antaryamin, the manifestation as abiding inside all beings; Archavatara, the incarnations in the form of holy images for the purpose of worship. These four grades of manifestation lead successively form the lowest image to the highest para. 
- 
-Prapannaparijala. 
-161 
-like the supreme (Para), the partial (Vyuha) and others of His Self, Hari says in Tatvaratna about her glory as follows:— 
-6. "Similarly I shall state the nature of Lakshmi, listen to me calmly. Pervasion by quality and substance is considered to be the common nature of both (Her and Me). 7. Just as the universe is pervaded by Me both in essence and quality, all this is pervaded by Her (also). Therefore she is the Disposer and Ruler of all. 
-8. "She is pervaded by Me and similarly I, the Lord am also pervaded by Her. Hear, therefore, Senesa! the difference between Me and Her. 
-to Me. 
-9. "My consort who is the ruler of all is subservient To Her as well as the universe that I am the Lord is well-known in the Vedas. 
-10. 
-"That the twofold power of manifestation (Nitya- vibhuti Etenal manifestation and Lilavibhuti: sportive manifestation) is at the disposal of both Her and Me, is evident, O mānada; (my pride!) from the Vedanta and the Pancharatra-Sastra taught by Me. 
-II. 
-"In the same way Bhumi and Nila are also con- sidered subservient to Me. As pervasion by intelligence is laid down to all souls, to these two is prescribed only per- vasion by quality and not by substance." 
-12.-13. In the same sastra elsewhere, Lakshmi Herself has also said about the relation between Herself and Her Lord, their pervasion and rulership. By reason of His being (the Lord and appropriator) inseparably united with Her the Brahman is said to be non-dualistic (advaita.) 
-14. "That Supreme energy of Brahman, which is as is light to the moon, is the goddess Lakshmi, who is coexistent with Brahman in all His conditions, and who is in His own nature indestructible. 
-"I am that ancient (or eternal) One who is the 
-5 
-162 
- 
-''I-ness' of Brahman. He, the Brahman, is the (essence) or the inner Self of all beings, and after becoming 'I' of all beings is known as Hari. I am, therefore, that ancient One who is the 'I-ness' of all beings. 
-16. *Whatever form (of a thing) there is,-(all that) is the eternal Vasudeva; (for) the Brahman constitutes the essential existence and form (of all things): hence That is the abode of immortality. 
 17. "God, Narayana, is the essence of existence; and I, the Supreme Lakshmi, am the attribute (be-ness') of it. Hence what is known as Lakshmìnārāyana is the Brahman which is the eternal One. 
 18.-19. "The notion of 'I' is got only as united with 'I-ness.' And that which takes its rise in the notion of 'I' is known as 'I-ness.' On account of this connection of mutual inseparable existence and of mutual sequence, know the relation between Me and My Lord to be that of attribute and essence." 
 20.-21. The sage Parāsara say's of Her who is of the nature of Brahman: 

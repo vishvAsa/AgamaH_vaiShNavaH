@@ -38,6 +38,12 @@ I. 1. Then the goddess Lakshmi ought to be specially worshipped by a Prapanna, a
 दिव्या नित्यानपायिनी ॥ २ ॥
 </details>
 
+<details><summary>English</summary>
+
+2. She is the resting place of Gurus, and the ruler of this world, the divine consort of the God of gods and is eternal and imperishable. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 गुरूणां विश्रमस्थानम् ईशानां जगतोऽस्य च ।  
@@ -46,9 +52,17 @@ I. 1. Then the goddess Lakshmi ought to be specially worshipped by a Prapanna, a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथाऽऽह भगवाञ्च्छास्त्रे विष्वक्सेनाय शृण्वते-  
-“ लक्ष्म्यां मयि च युष्मासु भक्तो यो भुवि दुर्लभः " ॥ ३ ॥
+यथाऽऽह भगवाञ् च्छास्त्रे  
+विष्वक्सेनाय शृण्वते-  
+“ लक्ष्म्यां मयि च युष्मासु  
+भक्तो यो भुवि दुर्लभः" ॥ ३ ॥
 </details>
+
+<details><summary>English</summary>
+
+3. In the Pancharatra-Sastra, Vishnu has said to the attentive Vishvaksena to the effect that he who is a bhakta of Lakshmi, of Myself and of persons of your stamp,' is rare to meet with on this earth. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -58,9 +72,17 @@ I. 1. Then the goddess Lakshmi ought to be specially worshipped by a Prapanna, a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनन्तरं हरेः सर्वैः उपचारैः समाहितः ।  
-तद्वत् समर्चयेत् देवीं देवदेवस्य वल्लभाम् ॥ ४ ॥
+अनन्तरं हरेः सर्वैर्  
+उपचारैः समाहितः ।  
+तद्वत् समर्चयेत् देवीं  
+देवदेवस्य वल्लभाम् ॥ ४ ॥
 </details>
+
+<details><summary>English</summary>
+
+4. After collecting all the materials for the worship of Hari, one shall worship therewith the goddess also who is the consort of the; God of gods in the same manner as he worships God. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -70,140 +92,243 @@ I. 1. Then the goddess Lakshmi ought to be specially worshipped by a Prapanna, a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्या वैभवमाख्याति तत्त्वतो हि (रत्ने) यथा हरिः ।  
-परव्यूहादिकान् पञ्च प्रकारान् आत्मनो वदन्-  
-" तथा लक्ष्म्याः स्वरूपं व वक्ष्ये शृणु समाहितः । (वि. सं.)  
-गुणतश्च स्वरूपेण व्याप्तिस्साधारणी मता ॥
+अस्या वैभवम् **आख्याति**  
+तत्त्वतो हि (रत्ने) यथा हरिः ।  
+पर-व्यूहादिकान् पञ्च  
+प्रकारान् आत्मनो **वदन्** ‌-  
 </details>
+
+<details><summary>English</summary>
+
+5. After mentioning the five kinds of manifestations like the supreme (Para), the partial (Vyuha) and others of His Self, Hari says in Tatvaratna about her glory as follows:— 
+
+The manifestations of God (Isvara) according to the Pancharatra sastras are fivefold: Para, the essential and supreme manifestation, as it appears in the empyrean, (Vaikuntha) of Vishnu which is only one; Vyuha, the group of partial manifes- tations which are recognised as fourfold, Vasudeva, Sankarshana, Pradyumna, and Aniruddha; Vibhava, the part manifestations of cosmic energy which are innumerable as seen in the incarna- tions of Rama, Krishna &c., Antaryamin, the manifestation as abiding inside all beings; Archavatara, the incarnations in the form of holy images for the purpose of worship. These four grades of manifestation lead successively form the lowest image to the highest para. 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
 अस्या वैभवमाख्याति तत्त्वतो हि (रत्ने) यथा हरिः ।  
-परव्यूहादिकान् पञ्च प्रकारान् आत्मनो वदन्-  
-" तथा लक्ष्म्याः स्वरूपं व वक्ष्ये शृणु समाहितः । (वि. सं.)  
-गुणतश्च स्वरूपेण व्याप्तिस्साधारणी मता ॥
+परव्यूहादिकान् पञ्च प्रकारान् आत्मनो वदन् /विदन्-  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मया यथा जगत् व्याप्तं खरूपेण स्वभावतः ।  
-तया व्याप्तमिदं सर्वं नियन्त्री च तथेश्वरी ॥
+"तथा लक्ष्म्याः स्वरूपं च  
+वक्ष्ये शृणु समाहितः । (वि. सं.)  
+गुणतश् च स्वरूपेण  
+व्याप्तिस् साधारणी मता ॥
 </details>
+
+<details><summary>English</summary>
+
+[[161]]  
+6. "Similarly I shall state the nature of Lakshmi, listen to me calmly. Pervasion by quality and substance is considered to be the common nature of both (Her and Me). 
+
+</details>
+ 
+
 
 <details><summary>मूलम्</summary>
 
-मया यथा जगत् व्याप्तं खरूपेण स्वभावतः ।  
+" तथा लक्ष्म्याः स्वरूपं व वक्ष्ये शृणु समाहितः । (वि. सं.)  
+गुणतश्च स्वरूपेण व्याप्तिस्साधारणी मता ॥
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मया यथा जगद् व्याप्तं  
+खरूपेण स्वभावतः ।  
+तया **व्याप्तम्** इदं **सर्वं**  
+नियन्त्री च तथेश्वरी ॥
+</details>
+
+<details><summary>English</summary>
+
+7. Just as the universe is pervaded by Me both in essence and quality, all this is pervaded by Her (also). Therefore she is the Disposer and Ruler of all. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मया यथा जगद् व्याप्तं खरूपेण स्वभावतः ।  
 तया व्याप्तमिदं सर्वं नियन्त्री च तथेश्वरी ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मया व्याप्ता तथा साऽपि,  
+तया व्याप्तो ऽहम् ईश्वरः ।  
+मम तस्याश् च सेनेश !  
+**वैलक्षण्यम्** इदं **शृणु** ॥
+</details>
+
+<details><summary>English</summary>
+
+8. "She is pervaded by Me and similarly I, the Lord am also pervaded by Her. Hear, therefore, Senesa! the difference between Me and Her. 
+to Me. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 मया व्याप्ता तथा साऽपि तया व्याप्तोऽहमीश्वरः ।  
 मम तस्याश्च सेनेश ! वैलक्षण्यमिदं शृणु ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मया व्याप्ता तथा साऽपि तया व्याप्तोऽहमीश्वरः ।  
-मम तस्याश्च सेनेश ! वैलक्षण्यमिदं शृणु ॥
+मच्-छेष-भूता सर्वेषाम्  
+ईश्वरी **वल्लभा** मम ।  
+तस्याश् च जगतश् चाहम्  
+**ईश्वरो** वेद-विश्रुतः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+9. "My consort who is the ruler of all is subservient To Her as well as the universe that I am the Lord is well-known in the Vedas. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 मच्छेषभूता सर्वेषामीश्वरी वल्लभा मम ।  
 तस्याश्च जगतश्चाहमीश्वरो वेदविश्रुतः ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मच्छेषभूता सर्वेषामीश्वरी वल्लभा मम ।  
-तस्याश्च जगतश्चाहमीश्वरो वेदविश्रुतः ॥
+अस्या मम च शेषं हि  
+विभूतिर् उभयात्मिका ।  
+इति श्रुति-शिरस्-सिद्धं  
+मच्-छास्त्रेष्व् अपि मानद ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+10. "That the twofold power of manifestation (Nitya- vibhuti Etenal manifestation and Lilavibhuti: sportive manifestation) is at the disposal of both Her and Me, is evident, O mānada; (my pride!) from the Vedanta and the Pancharatra-Sastra taught by Me. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अस्या मम च शेषं हि विभूतिरुभयात्मिका ।  
 इति श्रुतिशिरस्सिद्धं मच्छास्त्रेष्वपि मानद ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्या मम च शेषं हि विभूतिरुभयात्मिका ।  
-इति श्रुतिशिरस्सिद्धं मच्छास्त्रेष्वपि मानद ॥
+तथा भूमिश् च नीला च  
+शेष-भूते मते मम ।  
+तथा ऽऽत्मनां च सर्वेषां  
+ज्ञानतो व्याप्तिर् इष्यते ॥  
+स्व-रूपतस् तु न तयोर्  
+व्याप्तिर् वेदान्तपारग!"।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+11. "In the same way Bhumi and Nila are also con- sidered subservient to Me. As pervasion by intelligence is laid down to all souls, to these two is prescribed only per- vasion by quality and not by substance." 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तथा भूमिश्च नीला च शेषभूते मते मम ।  
 तथाऽऽत्मनां च सर्वेषां ज्ञानतो व्याप्तिरिष्यते ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-तथा भूमिश्च नीला च शेषभूते मते मम ।  
-तथाऽऽत्मनां च सर्वेषां ज्ञानतो व्याप्तिरिष्यते ॥
+स्वरूपतस्तु न तयोः व्याप्तिर्वेदान्तपारग!"।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-खरूपतस्तु न तयोः व्याप्तिर्वेदान्तपारग!"।  
-अस्मिन् शास्त्रे यथाऽन्यत्र तथा लक्ष्मीरपि स्वयम् ।  
-स्वस्य नाथस्य सम्बन्धं व्याप्तिमैश्वर्यमाह च-  
-“ अपृथग्भूतशक्तित्वात् ब्रह्माद्वैतं तदुच्यते ॥ (ल. त. 2\. 11.)
+अस्मिन् शास्त्रे यथाऽन्यत्र  
+तथा लक्ष्मीर् अपि स्वयम् ।  
+स्वस्य नाथस्य सम्बन्धं  
+व्याप्तिम् ऐश्वर्यम् आह च-  
 </details>
+
+<details><summary>English</summary>
+
+12.-13. In the same sastra elsewhere, Lakshmi Herself has also said about the relation between Herself and Her Lord, their pervasion and rulership. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-खरूपतस्तु न तयोः व्याप्तिर्वेदान्तपारग!"।  
 अस्मिन् शास्त्रे यथाऽन्यत्र तथा लक्ष्मीरपि स्वयम् ।  
 स्वस्य नाथस्य सम्बन्धं व्याप्तिमैश्वर्यमाह च-  
-“ अपृथग्भूतशक्तित्वात् ब्रह्माद्वैतं तदुच्यते ॥ (ल. त. 2\. 11.)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य या परमा शक्तिः ज्योत्स्नेव हिमदीधितेः ।  
+“ अ-पृथग्-भूत-शक्तित्वात्  
+**ब्रह्माद्वैतं** तद् **उच्यते** ॥ (ल. त. 2\. 11.)  
+तस्य या परमा शक्तिर्  
+ज्योत्स्नेव हिम-दीधितेः ।  
+सर्वावस्थागता देवी  
+स्वात्म-भूता ऽनपायिनी ॥
+</details>
+
+<details><summary>English</summary>
+
+By reason of His being (the Lord and appropriator) inseparably united with Her the Brahman is said to be non-dualistic (advaita.) 
+14. "That Supreme energy of Brahman, which is as is light to the moon, is the goddess Lakshmi, who is coexistent with Brahman in all His conditions, and who is in His own nature indestructible.+++(??)+++ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ अपृथग्भूतशक्तित्वात् ब्रह्माद्वैतं तदुच्यते ॥ (ल. त. 2\. 11.)
+तस्य या परमा शक्तिर् ज्योत्स्नेव हिमदीधितेः ।  
 सर्वावस्थागता देवी स्वात्मभूताऽनपायिनी ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य या परमा शक्तिः ज्योत्स्नेव हिमदीधितेः ।  
-सर्वावस्थागता देवी स्वात्मभूताऽनपायिनी ॥
+**अहन्ता** ब्रह्मणस् तस्य  
+साऽहम् **अस्मि** सनातनी।  
+**आत्माऽस्मि** सर्व-भूतानाम्  
+अहम्-भूतो हरिः **स्मृतः॥** (ल. तं. 17.)  
+**अहन्ता** सर्वभूतानां  
+साऽहम् **अस्मि** सनातनी।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+"I am that ancient (or eternal) One who is the[[162]] ''I-ness' of Brahman. He, the Brahman, is the (essence) or the inner Self of all beings, and after becoming 'I' of all beings is known as Hari. 
+</details>
+
+<details><summary>मूलम्</summary>
 
 अहन्ता ब्रह्मणस्तस्य साऽहमस्मि सनातनी।  
-आत्माऽस्मि सर्वभूतानाम् अहम्भूतो हरिः स्मृतः॥ (ल. तं. 17.)
-</details>
-
-<details><summary>मूलम्</summary>
-
-अहन्ता ब्रह्मणस्तस्य साऽहमस्मि सनातनी।  
-आत्माऽस्मि सर्वभूतानाम् अहम्भूतो हरिः स्मृतः॥ (ल. तं. 17.)
+आत्माऽस्मि सर्वभूतानाम् अहम्भूतो हरिः स्मृतः॥ (ल. तं. 17.)  
+अहन्ता सर्वभूतानां साऽहमस्मि सनातनी।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहन्ता सर्वभूतानां साऽहमस्मि सनातनी।  
-येन भावेन भवति वासुदेवः सनातनः ॥
+येन भावेन भवति  
+वासुदेवः सनातनः ॥  
+भवतस् तस्य देवस्य  
+स **भावो ऽहम्** इतीरिता ।  
+भवद्-भावात्मकं ब्रह्म  
+ततस् तच् छाश्वतं पदम् ॥
 </details>
+
+<details><summary>English</summary>
+
+I am, therefore, that ancient One who is the 'I-ness' of all beings. 
+16. *Whatever form (of a thing) there is,-(all that) is the eternal Vasudeva; (for) the Brahman constitutes the essential existence and form (of all things): hence That is the abode of immortality. 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-अहन्ता सर्वभूतानां साऽहमस्मि सनातनी।  
 येन भावेन भवति वासुदेवः सनातनः ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-भवतस्तस्य देवस्य स भावोऽहमितीरिता ।  
-भवद्भावात्मकं ब्रह्म ततस्तच्छाश्वतं पदम् ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
 भवतस्तस्य देवस्य स भावोऽहमितीरिता ।  
 भवद्भावात्मकं ब्रह्म ततस्तच्छाश्वतं पदम् ॥
 </details>
