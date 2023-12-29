@@ -6,24 +6,7 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-17. "God, Narayana, is the essence of existence; and I, the Supreme Lakshmi, am the attribute (be-ness') of it. Hence what is known as Lakshmìnārāyana is the Brahman which is the eternal One. 
-18.-19. "The notion of 'I' is got only as united with 'I-ness.' And that which takes its rise in the notion of 'I' is known as 'I-ness.' On account of this connection of mutual inseparable existence and of mutual sequence, know the relation between Me and My Lord to be that of attribute and essence." 
-20.-21. The sage Parāsara say's of Her who is of the nature of Brahman: 
-"She is eternal, the mother of the universe, the glory of Vishnu, and imperishable. O thou, the purest of 
-* According to the Visishthadvaita Philosophy, the substance can have no real existence apart from quality and the quality can have existence only as inherent in substance. No idea can have a corresponding reality of existence unless it is capable of being resolved into essence or the 'thing-in-itself' and attribute through which we cognise the reality. Here the Brahman in order that it may be posited to exist ultimately (bhavat), is capable of being viewed in its dual aspect of existence, bhava, the essence of existence and bhāva, its attribute. Lakshmi says this essence to be Narayana and attribute to be Herself; and Lakshmi-Narayana is the One Existence, the Brahman. 
- 
-(( 
 
-Brahmins! Just as Vishnu is all-pervading so also is she." 
-22. Among gods, animals and men, the glorious Hari is the masculine name and Lakshmi is the feminine name. O Maitreya! there is nothing higher than these. 
-23.-26. I salute that consort of the Bestower of boons (Varadavallabha) who by being the Beloved of God, previous to their having recourse to her Lord occupies, of Her own accord, the position of mediatrix to men,-to men that are solely addicted to sinful deeds and are for a long time unworthy and promotes affection, mercy and such other feelings in Her Lord, who at the time of His becom- ing the means fosters knowledge, energy and other attri- butes in Him, who for the enhancement of the enjoyments. of the freed augments the qualities of beauty, &c, who is endowed with the three capacities of (upayatva, being the means, upeyatva, being the end, and purushakāratā, being the mediatrix), and who dwells in a lotus and is the ruler of the whole world. 
-27. "Similarly one shall worship by their respective mantras Bhumi and Nila and other innumerable consorts. and the important of the eternals (nityasuris). 
-28. "One shall worship with retinue the minister of Vishnu, Senesa (the commander of the hosts), under the sway of the rod; in whose hand lies the world;which is of the nature of intelligence and non-intelligence (chit and achit) ̧ 
-29. In due order, one shall worship the eternals, Ananta, Garuda, and a host of others with their re- tinue; the weapons, disc, &c; the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these and their retinue. 
-30. Those gods, who, having casually gone to the temple of Vishnu, serve Him, ought not to be worshipped by mumukshus unless they are ranked in the order of the eternals, 
- 
-164 
-The Brahmaradin. 
 32. And what Vishnu says to the attentive Vishvak- sena regarding those in particular that are unworthy of the worship of mumukshus is as follows:-- 
 33-38. Whoever is of super-human dignity and goodness, is especially favoured by the goddess of fortune, is devoid of love and hatred, and is by himself strong and powerful-know carefully every one of these to be portions of My spirit for the purpose of My work. 
 Such persons as these, who are governed by Divine manifestation, are all of them individual souls (jivātmans) and therefore they ought not to be worshipped by the Vaishnavas. 

@@ -321,7 +321,7 @@ By reason of His being (the Lord and appropriator) inseparably united with Her t
 <details><summary>English</summary>
 
 I am, therefore, that ancient One who is the 'I-ness' of all beings. 
-16. *Whatever form (of a thing) there is,-(all that) is the eternal Vasudeva; (for) the Brahman constitutes the essential existence and form (of all things): hence That is the abode of immortality. 
+16. \*Whatever form (of a thing) there is,-(all that) is the eternal Vasudeva; (for) the Brahman constitutes the essential existence and form (of all things): hence That is the abode of immortality. 
 
 </details>
 
@@ -335,172 +335,299 @@ I am, therefore, that ancient One who is the 'I-ness' of all beings.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भवन् नारायणो देवो भावो लक्ष्मीरहं परा ।  
-लक्ष्मीनारायणाख्यं तत् ततो ब्रह्म सनातनम् ॥
+**भवान् नारायणो** देवो,  
+**भावो लक्ष्मीर्** अहं परा ।  
+लक्ष्मी-नारायणाख्यं तत्  
+ततो **ब्रह्म** सनातनम् ॥
+</details>
+
+<details><summary>English</summary>
+
+17. "God, Narayana, is the essence of existence; and I, the Supreme Lakshmi, am the attribute ('be-ness') of it. Hence what is known as Lakshmìnārāyana is the Brahman which is the eternal One. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-भवन् नारायणो देवो भावो लक्ष्मीरहं परा ।  
+भवान् नारायणो देवो भावो लक्ष्मीरहं परा ।  
 लक्ष्मीनारायणाख्यं तत् ततो ब्रह्म सनातनम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अहन्तया समायुक्तो** (क्रान्तो)  
+ह्य् **अहम्-अर्थः** प्रसिद्ध्यति ।  
+अहम्-अर्थ-समुत्था च  
+सा **ऽहन्ता परिकीर्तिता** ॥
+</details>
+
+<details><summary>English</summary>
+
+18.-19. "The notion of 'I' is got only as united with 'I-ness.' And that which takes its rise in the notion of 'I' is known as 'I-ness.' 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अहन्तया समायुक्तो (क्रान्तो) ह्यहमर्थः प्रसिद्ध्यति ।  
 अहमर्थसमुत्था च साऽहन्ता परिकीर्तिता ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहन्तया समायुक्तो (क्रान्तो) ह्यहमर्थः प्रसिद्ध्यति ।  
-अहमर्थसमुत्था च साऽहन्ता परिकीर्तिता ॥
+अन्योन्यस्या(नेना)विनाभावात्  
+अन्योन्येन समन्वयात् ।  
+तादात्म्यं **विद्धि** सम्बन्धं  
+मम नाथस्य चोभयोः" ॥ २०॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+On account of this connection of mutual inseparable existence and of mutual sequence, know the relation between Me and My Lord to be that of attribute and essence.
+
+\* According to the Visishthadvaita Philosophy, the substance can have no real existence apart from quality and the quality can have existence only as inherent in substance. No idea can have a corresponding reality of existence unless it is capable of being resolved into essence or the 'thing-in-itself' and attribute through which we cognise the reality.  
+Here the Brahman in order that it may be posited to exist ultimately (bhavat),  
+is capable of being viewed in its dual aspect of existence, *bhava*, the essence of existence and *bhāva*, its attribute.  
+Lakshmi says this essence to be Narayana and attribute to be Herself; and Lakshmi-Narayana is the One Existence, the Brahman. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अन्योन्यस्या(नेना)विनाभावात् अन्योन्येन समन्वयात् ।  
 तादात्म्यं विद्धि सम्बन्धं मम नाथस्य चोभयोः" ॥ २०॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-अन्योन्यस्या(नेना)विनाभावात् अन्योन्येन समन्वयात् ।  
-तादात्म्यं विद्धि सम्बन्धं मम नाथस्य चोभयोः" ॥ २०॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पराशरस्तु भगवान् आहैनां ब्रह्मरूपिणीम्-  
-“ नित्यैवैषा जगन्माता विष्णोः श्रीरनपायिनीय  
-यथा सर्वगतो विष्णुः तथैवेयं द्विजोत्तम ! ।  
-देवतिर्यङ्मनुष्येषु पुन्नामा भगवान् हरिः ॥
+पराशरस् तु भगवान्  
+आहैनां ब्रह्म-रूपिणीम्-  
+“ नित्यैवैषा जगन्-माता  
+विष्णोः श्रीर् अनपायिनी  
+यथा सर्वगतो विष्णुस्  
+तथैवेयं द्विजोत्तम ! ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
 पराशरस्तु भगवान् आहैनां ब्रह्मरूपिणीम्-  
-“ नित्यैवैषा जगन्माता विष्णोः श्रीरनपायिनीय  
+“ नित्यैवैषा जगन्माता विष्णोः श्रीरनपायिनी  
 यथा सर्वगतो विष्णुः तथैवेयं द्विजोत्तम ! ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देव-तिर्यङ्-मनुष्येषु  
+पुन्नामा भगवान् हरिः ॥  
+स्त्रीनाम्नी लक्ष्मीर् मैत्रेय !  
+नानयोर् विद्यते परम्"।  
+</details>
+
+<details><summary>English</summary>
+
+20.-21. The sage Parāsara say's of Her who is of the nature of Brahman: 
+"She is eternal, the mother of the universe, the glory of Vishnu, and imperishable. O thou, the purest of Brahmins! Just as Vishnu is all-pervading so also is she." 
+
+</details>
+
+<details><summary>English</summary>
+
+22. Among gods, animals and men, the glorious Hari is the masculine name and Lakshmi is the feminine name. O Maitreya! there is nothing higher than these. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 देवतिर्यङ्मनुष्येषु पुन्नामा भगवान् हरिः ॥
+स्त्रीनाम्नी लक्ष्मीर्मैत्रेय ! नानयोर्विद्यते परम्"।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्त्रीनाम्नी लक्ष्मीमैत्रेय ! नानयोर्विद्यते परम्"।  
-अपराधैकसक्तानाम् अनर्हाणां चिरं नृणाम् ॥
+अपराधैक-सक्तानाम्  
+अनर्हाणां चिरं नृणाम् ॥
+भर्तुर् आश्रयणे पूर्वं  
+स्वयं पुरुष-कारताम् ।  
+**वाल्लभ्येनानुतिष्ठन्तीं**  
+वात्सल्याद्य्-**उपबृंहिणीम्** ॥
 </details>
+
+<details><summary>English</summary>
+
+23.-26. I salute that consort of the Bestower of boons (Varadavallabha) who by being the Beloved of God, previous to their having recourse to her Lord occupies, of Her own accord, the position of mediatrix to men,-to men that are solely addicted to sinful deeds and are for a long time unworthy and promotes affection, mercy and such other feelings in Her Lord, 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
-स्त्रीनाम्नी लक्ष्मीमैत्रेय ! नानयोर्विद्यते परम्"।  
 अपराधैकसक्तानाम् अनर्हाणां चिरं नृणाम् ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 भर्तुराश्रयणे पूर्वं स्वयं पुरुषकारताम् ।  
 वाल्लभ्येनानुतिष्ठन्तीं वात्सल्याद्युपबृंहिणीम् ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भर्तुराश्रयणे पूर्वं स्वयं पुरुषकारताम् ।  
-वाल्लभ्येनानुतिष्ठन्तीं वात्सल्याद्युपबृंहिणीम् ॥
+उपायसमये भर्तुः  
+ज्ञान-शक्त्य्-आदि-**वर्धिनीम्** ।  
+मुक्तानां भोग-वृद्ध्य्-अर्थं  
+सौन्दर्यादि-**विवर्धिनीम्** ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+who at the time of His becom- ing the means fosters knowledge, energy and other attri- butes in Him, who for the enhancement of the enjoyments. of the freed augments the qualities of beauty, &c, 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 उपायसमये भर्तुः ज्ञानशक्त्यादिवर्धिनीम् ।  
 मुक्तानां भोगवृद्ध्यर्थं सौन्दर्यादिविवर्धिनीम् ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपायसमये भर्तुः ज्ञानशक्त्यादिवर्धिनीम् ।  
-मुक्तानां भोगवृद्ध्यर्थं सौन्दर्यादिविवर्धिनीम् ॥
++++(पुरुषकारोपायोपेय-)+++आकार-त्रय-सम्पन्नाम्  
+अरविन्द-निवासिनीम् ॥  
+अ-शेष-जगद्-ईशित्रीं  
+**वन्दे** (अर्चेत् ?) वरद-वल्लभाम् "  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+who is endowed with the three capacities of (upayatva, being the means, upeyatva, being the end, and purushakāratā, being the mediatrix), and who dwells in a lotus and is the ruler of the whole world. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 आकारत्रयसम्पन्नाम् अरविन्दनिवासिनीम् ॥  
 अशेषजगदीशित्रीं वन्दे (अर्चेत् ?) वरदवल्लभाम् "  
-83, तथा भूमि च नीलां च देवीश्चान्याः सहस्रशः ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+83, तथा भूमिं च नीलां  
+च **देवीश्** चान्याः सहस्रशः ।  
+नित्य-सूरि-प्रधानांश् च  
+तत्-तन्-मन्त्रैः **समर्चयेत्** ॥ २७ ॥
+</details>
+
+<details><summary>English</summary>
+
+27. "Similarly one shall worship by their respective mantras Bhumi and Nila and other innumerable consorts. and the important of the eternals (nityasuris). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+83, तथा भूमिं च नीलां च देवीश्चान्याः सहस्रशः ।  
 नित्यसूरिप्रधानांश्च तत्तन्मन्त्रैः समर्चयेत् ॥ २७ ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्-धस्त-वेत्र-वशगं  
+जगच् चिद्--अ-चिद्--आत्मकम् ।  
+विष्णोर् अमात्यं **सेनेशं**  
+परिवरैस् **समर्चयेत्** ॥२८॥
+</details>
+
+<details><summary>English</summary>
+
+28. "One shall worship with retinue the minister of Vishnu, Senesa (the commander of the hosts), under the sway of the rod; in whose hand lies the world;which is of the nature of intelligence and non-intelligence (chit and achit) ̧ 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-आकारत्रयसम्पन्नाम् अरविन्दनिवासिनीम् ॥  
-अशेषजगदीशित्रीं वन्दे (अर्चेत् ?) वरदवल्लभाम् "  
-83, तथा भूमि च नीलां च देवीश्चान्याः सहस्रशः ।  
-नित्यसूरिप्रधानांश्च तत्तन्मन्त्रैः समर्चयेत् ॥ २७ ॥
+यद्धस्तवेत्रवशगं जगच् चिदचिदात्मकम् ।  
+विष्णोरमात्यं सेनेशं परिवरैस्समर्चयेत् ॥२८॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यद्धस्तवेत्रवगं जगत् चिदचिदात्मकम् ।  
-विष्णेरमात्यं सेनेशं परिवरैस्समर्चयेत् ॥२८॥
+ये **नित्य-सूरयो** ऽनन्त-  
+गरुडाद्याः सहस्रशः ।  
+परिवारैः सहैतांश् च  
+चक्रादीन्य् **आयुधानि** च ॥ १९ ॥
 </details>
+
+<details><summary>English</summary>
+
+29. In due order, one shall worship the eternals, Ananta, Garuda, and a host of others with their re- tinue; the weapons, disc, &c; 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-यद्धस्तवेत्रवगं जगत् चिदचिदात्मकम् ।  
-विष्णेरमात्यं सेनेशं परिवरैस्समर्चयेत् ॥२८॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-ये नित्यसूरयोऽनन्तगरुडाद्याः। सहस्रशः ।  
+ये नित्यसूरयोऽनन्तगरुडाद्याः सहस्रशः ।  
 परिवारैः सहैतांश्च चक्रादीन्यायुधानि च ॥ १९ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये नित्यसूरयोऽनन्तगरुडाद्याः। सहस्रशः ।  
-परिवारैः सहैतांश्च चक्रादीन्यायुधानि च ॥ १९ ॥
+85, **देव्यश्** च सूत्र-वत्य्-आद्या  
+या लक्ष्म्याः परिचारिकाः ।  
+ताश् च **तत्-परिवारं** च  
+**पूजयेत्** तद्-अनु क्रमात् ॥ ३० ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these and their retinue. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 85, देव्यश्च सूत्रवत्याद्याः या लक्ष्म्याः परिचारिकाः ।  
 ताश्च तत्परिवारं च पूजयेत् तदनु क्रमात् ॥ ३० ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-85, देव्यश्च सूत्रवत्याद्याः या लक्ष्म्याः परिचारिकाः ।  
-ताश्च तत्परिवारं च पूजयेत् तदनु क्रमात् ॥ ३० ॥
+86, भजन्तो (न्ते) ये तथा विष्णोर्  
+**आगता** मन्दिरे पुरा ।  
+विनाऽभिधानं नित्येषु  
+**नोपास्यास्** ते मुमुक्षुभिः ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+30. Those gods, who, having casually gone to the temple of Vishnu, serve Him, ought not to be worshipped by mumukshus unless they are ranked in the order of the eternals, [[164]] 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 86, भजन्तो (न्ते) ये तथा विष्णोरागता मन्दिरे पुरा ।  
 विनाऽभिधानं नित्येषु नोपास्यास्ते मुमुक्षुभिः ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-86, भजन्तो (न्ते) ये तथा विष्णोरागता मन्दिरे पुरा ।  
-विनाऽभिधानं नित्येषु नोपास्यास्ते मुमुक्षुभिः ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मरुद्रार्जुनव्याससहस्रकरमार्गवाः ।  
-ककुत्स्थात्रेयकपिलबुद्धाद्या ये सहस्रशः ॥
+ब्रह्म-रुद्रार्जुन-व्यास-  
+सहस्र-कर--भार्गवाः ।  
+ककुत्स्थात्रेय-कपिल-  
+बुद्धाद्या ये सहस्रशः ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ब्रह्मरुद्रार्जुनव्याससहस्रकरमार्गवाः ।  
+ब्रह्मरुद्रार्जुनव्याससहस्रकरभार्गवाः ।  
 ककुत्स्थात्रेयकपिलबुद्धाद्या ये सहस्रशः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शक्त्यावेशावतारास्ते विष्णोस्तत्कालविग्रहाः ।  
-अनुपास्याः मुमुक्षूणां यथेन्द्राग्न्यादिदेवताः ॥ १३ ॥
+शक्त्य्-आवेशावतारास् ते  
+विष्णोस् तत्-काल-विग्रहाः ।  
+अनुपास्याः मुमुक्षूणां  
+यथेन्द्राग्न्य्-आदि-देवताः ॥ १३ ॥
 </details>
 
 <details><summary>मूलम्</summary>
