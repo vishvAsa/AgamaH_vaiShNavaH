@@ -7,33 +7,9 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-32. And what Vishnu says to the attentive Vishvak- sena regarding those in particular that are unworthy of the worship of mumukshus is as follows:-- 
-33-38. Whoever is of super-human dignity and goodness, is especially favoured by the goddess of fortune, is devoid of love and hatred, and is by himself strong and powerful-know carefully every one of these to be portions of My spirit for the purpose of My work. 
-Such persons as these, who are governed by Divine manifestation, are all of them individual souls (jivātmans) and therefore they ought not to be worshipped by the Vaishnavas. 
-39-40. They are merely entered into, O limitlessly glorious one! by My spirit on purpose, and O Sapient one, they are all unworthy of worship by reason of its being incongruous. And they, even though dwelt in by me, do, indeed, partake of the nature of jtva and are possessed of egotism. 
-41-42. Those manifestations who, on account of being largely parts of my spirit, are important, who have not given up their own true nature and who are Divine and are of superhuman bodies, and have arisen like one light from another for the protection of the world-those, O Senesa, are indeed worthy of worship for the sake of crossing the ocean of samsăra. 
-45. "O tiger of men! Other deities who to the sages are not proper objects of resort-all of them are impure; for the Devas and other gods are sprung from Karma" 
 (To be Continued.) 
  
-CHAPTER VII. 
-ON SERVING THE VIRTUOUS. 
-1. For the removal of doubt in what we have learnt and for mutual enlightenment, sages (sadhus) should be sought; for, the virtuous are the cure of attachment. 
-2. Bhagavan Vyasa (illustrious) says regarding the remedy for the renunciation of sense-objects as follows:- 
-"By all means attachment is to be given up. If it is not possible to give up, sadhus should be sought after; for, the virtuous are the cure of attachment. 
-3-4. Whenever a doubt arises as regards one's own conduct and action, approaching with humility such sages (vipras) as have well deliberated, and are perfect and steady in the path of virtue, one shall learn the solution. What- ever course of conduct they pursue in the particular case in view that course a virtuous man shall (in his case) adopt. 
-5. Sages aught to be sought even though they do not give a single instruction. For, even what they spontaneously talk become Sastras. 
-6-7. Saunaka says about the visiting of sadhus by virtuous men as follows:- 
-"The place where a holy man (bhagavata) lives, even though it be a long way off, should be resorted to and the holy man seen even though with exertion, for, therein lives Hari (God)." 
-8. 
-"Visiting the sadhus is a meritorious act; for, are not the sadhus sacred? A holy object yields fruits in course of time but the intercourse with sadhus forthwith." 
-9. Bhagavan Suka says that praising the qualities of 
- 
-
-295 
-the virtuous is, as it were, the fruit of knowledge long acquired, in the following terms. 
-10. No fruit has directly been proclaimed by the sages to persons whose learning is one of long labour, there- fore is (advised) the constant thinking of the qualities of those in whose heart is the lotus-feet of the lord (Makanda).' 
-11. 46 
-By the good, the sages that have come to their house aught to be specially worshipped with kind words, with offerings of water to the hand &c., and with agreeable food in a fit way. 
+11. By the good, the sages that have come to their house aught to be specially worshipped with kind words, with offerings of water to the hand &c., and with agreeable food in a fit way. 
 12. "One shall not wash the feet (of a guest) in a ves- sel made of bell-metal, is the injunction of the Smritis. Therefore in other vessels like the mud ones, shall one wash. And Bhagavan Suka says as follows:- 
 13. "Those houses that are destitute of holy water from the feet of spiritually great men, even though these be not devoid of all sorts of riches, are verily the trees (sandal) which are the abode of serpents. 
 14. 

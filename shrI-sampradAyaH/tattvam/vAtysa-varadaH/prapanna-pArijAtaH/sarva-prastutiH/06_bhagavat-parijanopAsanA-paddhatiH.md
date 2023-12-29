@@ -638,8 +638,44 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+यथा भगवतैवोक्तं  
+विष्वक्सेनाय शृण्यते ।  
+अधिकृत्य मुमुक्षूणाम्  
+अनुपास्यान् विशेषतः-  
+</details>
+
+<details><summary>English</summary>
+
+32. And what Vishnu says to the attentive Vishvak- sena regarding those in particular that are unworthy of the worship of mumukshus is as follows:-- 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यथा भगवतैवोक्तं विष्वक्सेनाय शृण्यते ।  
 अधिकृत्य मुमुक्षूणामनुपास्यान् विशेषतः-  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"**अनर्च्यान्** अपि **वक्ष्यामि**  
+प्रादुर्भावान् यथाक्रमम् ।  
+**चतुर्-मुखस्** तु भगवान्  
+सृष्टि-कार्ये नियोजितः ।  
+**शङ्कराख्यो** महान् देवः  
+संहारे विनियोजितः ।  
+मोहनार्थे तथा **बुद्धः**  
+**व्यासश्** चैव महान् ऋषिः ।  
+वेदानां व्यसने तत्र  
+देवेन विनियोजितः ।  
+**अर्जुनो** धन्विनां श्रेष्ठो  
+**जामदग्न्यः** प्रतापवान् ।  
+वसूनां **पावकश्** चापि  
+**वित्तेशश्** च तथैव च ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
 "अनर्च्यानपि वक्ष्यामि प्रादुर्भावान् यथाक्रमम् ।  
 चतुर्मुखस्तु भगवान् सृष्टिकार्ये नियोजितः ।  
 शङ्कराख्यो महान् देवः संहारे विनियोजितः ।  
@@ -647,31 +683,46 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 वेदानां व्यसने तत्र देवेन विनियोजितः ।  
 अर्जुनो धन्विनां श्रेष्ठो जामदग्न्यः प्रतापवान् ।  
 वसूनां पावकश्चापि वित्तेशश्च तथैव च ।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् यद् **विभूतिमत्** सत्त्वं  
+श्रिया जुष्टं विशेषतः  
+राग-द्वेष-विहीनं तु  
+स्वतो बलवद् उल्बणम् ।  
+तत् तद् **अंशं विजानीयात्**  
+मम कार्यार्थम् आदरात् ॥
+</details>
+
+<details><summary>English</summary>
+
+33-38. Whoever is of super-human dignity and goodness, is especially favoured by the goddess of fortune, is devoid of love and hatred, and is by himself strong and powerful-know carefully every one of these to be portions of My spirit for the purpose of My work. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यद्यद्विभूतिमत् सत्त्वं श्रिया जुष्टं विशेषतः  
 रागद्वेषविहीनं तु स्वतो बलवदुल्बणम् ।  
 तत्तत् अंशं विजानीयात् मम कार्यार्थमादरात् ॥
 </details>
 
-<details><summary>मूलम्</summary>
 
-यथा भगवतैवोक्तं विष्वक्सेनाय शृण्यते ।  
-अधिकृत्य मुमुक्षूणामनुपास्यान् विशेषतः-  
-"अनर्च्यानपि वक्ष्यामि प्रादुर्भावान् यथाक्रमम् ।  
-चतुर्मुखस्तु भगवान् सृष्टिकार्ये नियोजितः ।  
-शङ्कराख्यो महान् देवः संहारे विनियोजितः ।  
-मोहनार्थे तथा बुद्धः व्यासश्चैव महान् ऋषिः ।  
-वेदानां व्यसने तत्र देवेन विनियोजितः ।  
-अर्जुनो धन्विनां श्रेष्ठो जामदग्न्यः प्रतापवान् ।  
-वसूनां पावकश्चापि वित्तेशश्च तथैव च ।  
-यद्यद्विभूतिमत् सत्त्वं श्रिया जुष्टं विशेषतः  
-रागद्वेषविहीनं तु स्वतो बलवदुल्बणम् ।  
-तत्तत् अंशं विजानीयात् मम कार्यार्थमादरात् ॥
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमाद्यास्तु सेनेश ! प्रादुर्भावैरधिष्ठिताः ।  
-जीवात्मानः सर्व एते नोपास्या वै मुमुक्षुभिः ॥
+एवम्-आद्यास् तु सेनेश !  
+प्रादुर्भावैर् अधिष्ठिताः ।  
+**जीवात्मानः** सर्व एते  
+**नोपास्या** वै मुमुक्षुभिः ॥
+</details>
+
+
+<details><summary>English</summary>
+
+Such persons as these, who are governed by Divine manifestation, are all of them individual souls (jivātmans) and therefore they ought not to be worshipped by the Vaishnavas. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -682,42 +733,108 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आविष्टमात्रास्ते सर्वे कार्यार्थममितद्युते ।  
-अनर्च्याः सर्व एवैते विरुद्धत्वान्महामते ! ।  
-अहङ्कृत्युिताश्चैते जीवमिश्रा ह्यधिष्ठिताः  
-प्रादुर्भावास्तु मुख्या ये मदंशत्वाद्विशेषतः ।  
-अजहत्स्वस्वभावा हि दिव्याप्राकृतविग्रहाः ।  
-दीपाद्दीपा इवोत्पन्ना जगतो रक्षणाय ते ।  
-अर्च्या एव हि सेनेश ! संसृत्युत्तरणाय वै ।"  
-यथाह भगवान् व्यासः पुराणे च पराशरः-  
-" ब्रह्माणं शितिकण्ठं च याश्चान्या देवतास्तु ताः ॥
+**आविष्ट-मात्रास्** ते सर्वे  
+**कार्यार्थम्** अमित-द्युते ।  
+**अनर्च्याः** सर्व एवैते  
+विरुद्धत्वान् महामते ! ।  
 </details>
+
+<details><summary>English</summary>
+
+39-40. They are merely entered into, O limitlessly glorious one! by My spirit on purpose, and O Sapient one, they are all unworthy of worship by reason of its being incongruous. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 आविष्टमात्रास्ते सर्वे कार्यार्थममितद्युते ।  
 अनर्च्याः सर्व एवैते विरुद्धत्वान्महामते ! ।  
-अहङ्कृत्युिताश्चैते जीवमिश्रा ह्यधिष्ठिताः  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अहङ्कृति-युताश्** चैते  
+जीव-मिश्रा ह्य् अधिष्ठिताः  
+**प्रादुर्भावास्** तु **मुख्या** ये  
+मद्-अंशत्वाद् विशेषतः ।  
+</details>
+
+<details><summary>English</summary>
+
+And they, even though dwelt in by me, do, indeed, partake of the nature of jtva and are possessed of egotism. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अहङ्कृतियुताश्चैते जीवमिश्रा ह्यधिष्ठिताः  
 प्रादुर्भावास्तु मुख्या ये मदंशत्वाद्विशेषतः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अजहत्-स्व--स्व-भावा हि  
+दिव्याप्राकृत-विग्रहाः ।  
+दीपाद् दीपा इवोत्पन्ना  
+जगतो रक्षणाय ते ।  
+**अर्च्या** एव हि सेनेश !  
+संसृत्य्-उत्तरणाय वै ।"  
+</details>
+
+<details><summary>English</summary>
+
+41-42. Those manifestations who, on account of being largely parts of my spirit, are important, who have not given up their own true nature and who are Divine and are of superhuman bodies, and have arisen like one light from another for the protection of the world-those, O Senesa, are indeed worthy of worship for the sake of crossing the ocean of samsăra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अजहत्स्वस्वभावा हि दिव्याप्राकृतविग्रहाः ।  
 दीपाद्दीपा इवोत्पन्ना जगतो रक्षणाय ते ।  
 अर्च्या एव हि सेनेश ! संसृत्युत्तरणाय वै ।"  
-यथाह भगवान् व्यासः पुराणे च पराशरः-  
-" ब्रह्माणं शितिकण्ठं च याश्चान्या देवतास्तु ताः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रतिबुद्धा न सेवन्ते यस्मात् परिमितं फलम् " ॥ (भा. शा. 350)  
-'अन्ये तु पुरुषव्याघ्र ! चेतसो ये व्यपाश्रयाः ।  
-अशुद्धास्ते समस्तास्तु देवाद्याः कर्म योनयः ” ॥ 46 ॥(वि. पु. 6.7.77)
+यथाह भगवान् व्यासः  
+पुराणे च पराशरः-  
+" ब्रह्माणं शिति-कण्ठं च  
+याश् चान्या देवतास् तु ताः ॥  
+प्रतिबुद्धा न सेवन्ते  
+यस्मात् परिमितं फलम् " ॥ (भा. शा. 350)  
+
 </details>
 
 <details><summary>मूलम्</summary>
 
+यथाह भगवान् व्यासः पुराणे च पराशरः-  
+" ब्रह्माणं शितिकण्ठं च याश्चान्या देवतास्तु ताः ॥  
 प्रतिबुद्धा न सेवन्ते यस्मात् परिमितं फलम् " ॥ (भा. शा. 350)  
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'अन्ये तु पुरुषव्याघ्र !  
+चेतसो ये व्यपाश्रयाः ।  
+अ-शुद्धास् ते समस्तास् तु  
+देवाद्याः कर्म-योनयः ” ॥ 46 ॥(वि. पु. 6.7.77)
+</details>
+
+<details><summary>English</summary>
+
+45. "O tiger of men! Other deities who to the sages are not proper objects of resort-all of them are impure; for the Devas and other gods are sprung from Karma" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 'अन्ये तु पुरुषव्याघ्र ! चेतसो ये व्यपाश्रयाः ।  
-अशुद्धास्ते समस्तास्तु देवाद्याः कर्म योनयः ” ॥ 46 ॥(वि. पु. 6.7.77)
+अशुद्धास्ते समस्तास्तु देवाद्याः कर्मयोनयः ” ॥ 46 ॥(वि. पु. 6.7.77)
 </details>
 इति श्रीगुरुवरवात्स्यवरदाचार्यविरचिते  
 प्रपन्नपारिजाते भगवत्परिजनोपासनापद्धतिः षष्ठी  
