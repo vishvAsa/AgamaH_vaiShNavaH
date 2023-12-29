@@ -3,11 +3,27 @@ title = "०४ गुरूपासन-पद्धतिः"
 
 +++
 
+<details><summary>English</summary>
+
+CHAPTER. IV. 
+ON THE SERVING OF GURU. 
+
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संसारोद्विग्नमनसा तापत्रितयभीरुणा।  
-विरक्तेनेह चामुत्र फले गम्यो गुरुर्महान् ॥ १ ॥
+संसारोद्विग्न-मनसा  
+ताप-त्रितय-भीरुणा।  
+विरक्तेनेह चामुत्र  
+फले **गम्यो गुरुर्** महान् ॥ १ ॥
 </details>
+
+<details><summary>English</summary>
+
+1. A great guru ought to be resorted to by one whose mind is afflicted by samsara, who is afraid of the three miseries of life (adhyatmika pertaining to the sonl; adhi- bhoutiko pertaining to the external world; adhidaivika: pertaining to God) and who has renounced the fruits either of this world or of the world to come. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -17,27 +33,56 @@ title = "०४ गुरूपासन-पद्धतिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-परीक्ष्य लोकान् कर्माप्यान् विप्रो निर्विष्णमानसः ।  
-कृतेन मोक्षो नास्तीति तज्ज्ञानार्थे गुरुं व्रजेत् ।  
-श्रोत्रियं ब्रह्मनिष्ठं तं प्रीणयद्वस्तुभिः प्रियैः ।  
-तस्मै प्रशान्तचित्ताय शिष्याय प्रणताय च  
-दद्यादष्टाक्षरं सत्यं ब्रह्म नारायणं परम् ।  
-तां ब्रह्मयिद्यां प्रवदेदित्येवं श्रुतिराह हि ॥ ४ ॥
+परीक्ष्य लोकान् कर्माप्यान्  
+विप्रो निर्विण्णमानसः ।  
+कृतेन मोक्षो नास्तीति  
+तज्-ज्ञानार्थे गुरुं व्रजेत् ।  
 </details>
+
+<details><summary>English</summary>
+
+2. Having examined the worlds won by karma, the sage (vipra) with a desponding mind knowing that there will be no moksha by action, for the fruit of knowledge (the know- ing of Brahman) shall seek a guru spiritual preceptor). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-परीक्ष्य लोकान् कर्माप्यान् विप्रो निर्विष्णमानसः ।  
+परीक्ष्य लोकान् कर्माप्यान् विप्रो निर्विण्णमानसः ।  
 कृतेन मोक्षो नास्तीति तज्ज्ञानार्थे गुरुं व्रजेत् ।  
-श्रोत्रियं ब्रह्मनिष्ठं तं प्रीणयद्वस्तुभिः प्रियैः ।  
-तस्मै प्रशान्तचित्ताय शिष्याय प्रणताय च  
-दद्यादष्टाक्षरं सत्यं ब्रह्म नारायणं परम् ।  
-तां ब्रह्मयिद्यां प्रवदेदित्येवं श्रुतिराह हि ॥ ४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गुरोश्शिष्यस्य विद्याया लक्षण कालमेव च ।  
+श्रोत्रियं ब्रह्मनिष्ठं तं  
+प्रीणयेद् वस्तुभिः प्रियैः ।  
+तस्मै प्रशान्त-चित्ताय  
+शिष्याय प्रणताय च  
+दद्याद् अष्टाक्षरं सत्यं  
+ब्रह्म नारायणं परम् ।  
+तां ब्रह्मविद्यां प्रवदेद्  
+इत्य् एवं श्रुतिराह हि ॥ ४ ॥
+</details>
+
+<details><summary>English</summary>
+
+8-4. 
+He should please the guru who is proficient in the Vedas and conversant with Brahman with articles that are dear to him. The guru should teach the disciple whose mind has become calm and who is submissive, that Brahma- vidya (knowledge of Brakman) by which he might learn, the Changeless, the True, the Supreme Brahman, Narayana. This is verily the idea, the srutis teach. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रोत्रियं ब्रह्मनिष्ठं तं प्रीणयेद्वस्तुभिः प्रियैः ।  
+तस्मै प्रशान्तचित्ताय शिष्याय प्रणताय च  
+दद्यादष्टाक्षरं सत्यं ब्रह्म नारायणं परम् ।  
+तां ब्रह्मविद्यां प्रवदेदित्येवं श्रुतिराह हि ॥ ४ ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुरोश् शिष्यस्य विद्याया  
+लक्षणं कालम् एव च ।  
 सामान्यतो विशेषाच्च भगवान् शास्त्र उक्तवान् ।  
 “त्रिषु वर्णेषु सम्भूतो मामेव शरणं गतः । (सा. तं)  
 नित्यनैमित्तिकपरो मदीयाराधने रतः ॥

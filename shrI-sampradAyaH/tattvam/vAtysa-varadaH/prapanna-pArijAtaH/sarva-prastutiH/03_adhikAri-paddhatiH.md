@@ -197,55 +197,159 @@ Or on account of the danger arising to the proper order of chanting, or on accou
 उपायं वाऽप्युपेयं वा क्षमोऽन्यं नावलम्बितुम् ।  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जितन्ता-मन्त्र-विवृतौ  
 शौनकेन यद् ईरितम् ।  
-"अज्ञ-सर्वज्ञभक्तानां  
+"अज्ञ-सर्वज्ञ-भक्तानां  
 गतिर् गम्यो भवेद् +हरिः"  
-"इदं शरणमज्ञानाम् इदमेव विजानताम् । (ल. तं17.100)  
-इदं तितीर्षतां पारम् इदमानन्त्यमिच्छताम् "  
-इति लक्ष्म्या खतन्त्रेऽपि प्रपत्तावनुवर्णितम् ।  
-आस्तिक्यादिगुणोपेतं शास्त्रं वक्त्यधिकारिणम् ॥ १४ ॥
 </details>
+
+<details><summary>English</summary>
+
+12. That Hari shall be the means and the end to the ignorant (ajna), the wise (Sarvajña) and the Bhaktas, is what has been said by Saunaka in his comment on the man- tra, Jitanta" (Victory to Thee, O Lord!): 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 जितन्तामन्त्रविवृतौ शौनकेन यदीरितम् ।  
 अज्ञसर्वज्ञभक्तानां गतिर्गम्यो भवेद्धरिः"  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"इदं शरणम् अ-ज्ञानाम्  
+इदम् एव विजानताम् । (ल. तं17.100)  
+इदं तितीर्षतां पारम्  
+इदम् आनन्त्यम् इच्छताम् "  
+इति लक्ष्म्या स्वतन्त्रेऽपि  
+प्रपत्तावनुवर्णितम् ।  
+आस्तिक्यादिगुणोपेतं  
+शास्त्रं वक्त्य् अधिकारिणम् ॥ १४ ॥
+</details>
+
+<details><summary>English</summary>
+
+"This Prapatti is the refuge of the ignorant, this alone is the refuge of the wise; this is of those that wish to cross the ocean of samsara, and this of them that desire to attain immortality." 
+14. Also in the Lakshmitantra under Prapatti it is des- cribed that the sastras mention of him who has the qualities of faith &c., as having right, to it. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 "इदं शरणमज्ञानाम् इदमेव विजानताम् । (ल. तं17.100)  
 इदं तितीर्षतां पारम् इदमानन्त्यमिच्छताम् "  
-इति लक्ष्म्या खतन्त्रेऽपि प्रपत्तावनुवर्णितम् ।  
+इति लक्ष्म्या स्वतन्त्रेऽपि प्रपत्तावनुवर्णितम् ।  
 आस्तिक्यादिगुणोपेतं शास्त्रं वक्त्यधिकारिणम् ॥ १४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथाऽऽह भगवान् शास्त्रे विष्वक्सेनाय शृण्वते ।  
-य एवं शरणं गच्छेत् कृतकृत्यो भविष्यति ।  
-एतद्रहस्यं वेदानां पुराणानां च सम्मतम् ।  
-गुह्याद्गुह्यं मया प्रोक्तं निगमान्तेषु कीर्तितम्  
-नादीक्षिताय वक्तव्यं नाभक्ताय कदाचन ।  
-न चाशुश्रूषवे वाच्यं नास्तिकाय कदाच न ।  
-गुरुभक्तिर्न यस्यास्ति, बीजपिण्डपदादिषु  
-नोपदेशस्तु यस्यास्ति, न वक्तव्य हितार्थिना ।  
-इत्युक्तवान् जगन्नाथो द्विरदानन ! मां प्रति ।  
-मयाऽपि तव भक्तस्य कथितं यच्छ्रुतं पुरा" ॥ १९ ॥
+यथाऽऽह भगवान् शास्त्रे  
+विष्वक्सेनाय शृण्वते ।  
+
+> "य एवं शरणं गच्छेत्  
+कृतकृत्यो भविष्यति ।  
+
 </details>
+
+<details><summary>English</summary>
+
+15. In the Pancharatra-Sastra Bhagavan says to the attentive Vishvaksena that  
+
+> he who takes refuge in this way has accomplished the object of his pursuit. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 यथाऽऽह भगवान् शास्त्रे विष्वक्सेनाय शृण्वते ।  
 य एवं शरणं गच्छेत् कृतकृत्यो भविष्यति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एतद्रहस्यं वेदानां  
+पुराणानां च सम्मतम् ।  
+गुह्याद् गुह्यं मया प्रोक्तं  
+निगमान्तेषु कीर्तितम्  
+
+</details>
+
+<details><summary>English</summary>
+
+16. This secret doctrine is in accordance with the teaching of the Vedas and the Puranas and in the Vedanta it is praised and declared as the most secret of esoteric doc- 
+trines. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 एतद्रहस्यं वेदानां पुराणानां च सम्मतम् ।  
 गुह्याद्गुह्यं मया प्रोक्तं निगमान्तेषु कीर्तितम्  
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नादीक्षिताय वक्तव्यं  
+नाभक्ताय कदाचन ।  
+न चाशुश्रूषवे वाच्यं  
+नास्तिकाय कदाचन ।  
+गुरुभक्तिर् न यस्यास्ति,  
+बीज-पिण्ड-पदादिषु  
+नोपदेशस्तु यस्यास्ति,  
+न वक्तव्यं हितार्थिना ।  
+
+</details>
+
+<details><summary>English</summary>
+
+17. It ought not to be divulged to the uninitiated and not at all to an unbeliever (athiest) and not to any who has no faith in guru (guru-bhakti), and in the essential syllable (bija), the collocation of the letters (pinda) and the words (pada,) and such other elements (of his mantra).* 
+
+\* Another reading of the second part means 'who has no respect for the Guru's race and his abode." 
+
+
+18. To him who has no initiation this ought not to be divulged by one who wishes him well. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 नादीक्षिताय वक्तव्यं नाभक्ताय कदाचन ।  
-न चाशुश्रूषवे वाच्यं नास्तिकाय कदाच न ।  
+न चाशुश्रूषवे वाच्यं नास्तिकाय कदाचन ।  
 गुरुभक्तिर्न यस्यास्ति, बीजपिण्डपदादिषु  
-नोपदेशस्तु यस्यास्ति, न वक्तव्य हितार्थिना ।  
+नोपदेशस्तु यस्यास्ति, न वक्तव्यं हितार्थिना ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्युक्तवान् जगन्नाथो  
+द्विरदानन ! मां प्रति ।  
+मयाऽपि तव भक्तस्य  
+कथितं यच्छ्रुतं पुरा" ॥ १९ ॥
+</details>
+
+<details><summary>English</summary>
+
+So has Dviradanana! the Lord of the unive told me. By me too has been mentioned too, a bhakta, what was heard before. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 इत्युक्तवान् जगन्नाथो द्विरदानन ! मां प्रति ।  
 मयाऽपि तव भक्तस्य कथितं यच्छ्रुतं पुरा" ॥ १९ ॥
 </details>
+
+
 इति श्रीगुरुवरवात्स्यवरदाचार्यविरचिते  
 प्रपन्नपारिजाते अधिकारिपद्धतिः तृतीया  

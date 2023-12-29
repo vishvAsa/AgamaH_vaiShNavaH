@@ -6,25 +6,9 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-12. That Hari shall be the means and the end to the ignorant (aja), the wise (Sarvajña) and the Bhaktas, is what has been said by Saunaka in his comment on the man- tra, Jitanta" (Victory to Thee, O Lord!): 
-"This Prapatti is the refuge of the ignorant, this alone is the refuge of the wise; this is of those that wish to cross the ocean of samsara, and this of them that desire to attain immortality." 
-14. Also in the Lakshmitantra under Prapatti it is des- cribed that the sastras mention of him who has the qualities of faith &c., as having right, to it. 
-15. In the Pancharatra-Sastra Bhagavan says to the attentive Vishvaksena that he who takes refuge in this way has accomplished the object of his pursuit. 
-16. This secret doctrine is in accordance with the teaching of the Vedas and the Puranas and in the Vedanta it is praised and declared as the most secret of esoteric doc- 
-trines. 
-17. It ought not to be divulged to the uninitiated and not at all to an unbeliever (athiest) and not to any who has no faith in guru (guru-bhakti), and in the essential syllable (bija), the collocation of the letters (pinda) and the words (pada,) and such other elements (of his mantra).* 
-18. To him who has no initiation this ought not to be divulged by one who wishes him well. So has. Dvirada- nana! the Lord of the unive told me. By me too has been mentioned too, a bhghta, what was heard before. 
 4. 
 I. 
-* Another reading of the second part means 'who has no res- pect for the Guru's race and his abode." 
 
-CHAPTER. IV. 
-ON THE SERVING OF GURU. 
-1. A great guru ought to be resorted to by one whose mind is afflicted by samsara, who is afraid of the three miseries of life (adhyatmika pertaining to the sonl; adhi- bhoutiko pertaining to the external world; adhidaivika: pertaining to God) and who has renounced the fruits either of this world or of the world to come. 
-2. 
-Having examined the worlds won by karma, the sage (vipra) with a desponding mind knowing that there will be no moksha by action, for the fruit of knowledge (the know- ing of Brahman) shall seek a guru spiritual preceptor). 
-8-4. 
-He should please the guru who is proficient in the Vedas and conversant with Brahman with articles that are dear to him. The guru should teach the disciple whose mind has become calm and who is submissive, that Brahma- vidya (knowledge of Brakman) by which he might learn, the Changeless, the True, the Supreme Brahman, Narayana. This is verily the idea, the srutis teach. 
 5. Bhagavan has said in the Agama-Šastra both in general and in particular the nature of a guru, of a disciple, and of the knowledge (vidva), and of the time (of initiation). 
 6. He is called a Desika (spiritual teacher) who is torn of (any of) the three castes, who, with Me alone has taken refuge, who is devoted to the observance of daily and occas- sional duties, who takes pleasure in serving those that are Mine and is the same towards both what is his and what is others? 
 7. "He is called a disciple who is a believer in God 
