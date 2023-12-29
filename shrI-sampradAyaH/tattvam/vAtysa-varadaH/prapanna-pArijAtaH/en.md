@@ -6,24 +6,6 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-41. 
-6. 
- 
-PRAPANNA PARIJATA. 
-CHAPTER V. 
-ON THE SERVING OF GOD. 
-(Continued from page 101) 
-1. Thus by the grace of the Guru attended with the knowledge of one's subserviency to God (Seshatva),* ever despising sound and other objects of the senses, even as other deities than God, he who, desirous of the fruit of attaining Vishnu, has bhakti for his means, is a Vaishnavat (follower of Vishnu). 
-2. Having concluded that the means of bhakti is use- less equally with the worship of other deities than God, and of the physical objects of enjoyment, he who adopts Krishna (the supreme spirit) as the sole means for the attainment of Krishna, is an ekānti (i, e, one whose mind is devoted to one object). 
-3. He is a Paramekanti (the supreme ekanti) who 
-Sesha: One whose nature is solely towards the attribution of another's supremacy, is the Sesha of that other and is subser- vient to his purposes. Seshi is one who holds everything at his own disposal and appropriates it for his own purposes. Accord- ing to the Visishthadvaita system the relation between the ruler and the ruled, the Isvara and the jiva is Sesha-seshi-bhava- and it is eternal. 
-+ According to the Vaishnava theology a Prapanna is of two kinds; the ekanti or one who is devoted to one object and the Parmekanti, the supreme ekanti. ▲ Paramekanti is again of two kinds: the arta, or the afflicted, and the Dripta, or the proud or contented. 
- 
-
-135 
-holds that the several means (for moksha), the deities other than God, the objects of the senses, bhakti and prapatti known as Krishna (having Krishna as the means and end) are all equal and has also the notion of the lord and the appropriator in Hari. 
-4. In knowing the subserviency of his self, and in always doing service to the lotus-feet of the lord, he shall, thus spend his time usefully. 
-5. Learning from the guru the meaning of the basic mantra (Nārāyanāya) as being of the same import as doava and having God as his sole refuge, he shall worship Hari with that (mantra). 
 6.-7. In accordance with his ability he shall worship God with the basic mantra daily three times. This basic mantra is the essence of the teaching of the whole Vedanta. It enables one to cross the ocean of samsara. Of all the mantras it is the highest mantra; of all the secrets it s the best secret; it is the purest of the pure and is eternal. 8. By those that are desirous of freedom it is worthy of silent utterance at all times as giving the fruits of world- ly enjoyment (bhukti) and freedon (mukti). By the Vaishnavas it is worthy of uttarance as fostering knowledge and love (Jnāna and bhakti). 
 9. 
 It is the divine source of all the mantras, and is capable of destroying all sins. Becoming calm and collec- ted one shall diligently utter it. 

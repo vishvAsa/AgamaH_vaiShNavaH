@@ -3,79 +3,138 @@ title = "०५ भगवत्-परिचर्या-पद्धतिः"
 
 +++
 
+<details><summary>English</summary>
+
+PRAPANNA PARIJATA. 
+CHAPTER V. 
+ON THE SERVING OF GOD. 
+(Continued from page 101) 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं गुरुप्रसादेन शेषत्वज्ञानपूर्वकम् ।  
-देवतान्तरवन्नित्यं शब्दादीनपि कुत्सयन् ॥
+एवं गुरु-प्रसादेन  
+शेषत्व-ज्ञान-पूर्वकम् ।  
+देवतान्तरवन् नित्यं  
+शब्दादीन् +++(इन्द्रियार्थान्)+++ अपि **कुत्सयन्** ॥  
+विष्णु-प्राप्ति-फलाकाङ्क्षी  
+भक्त्य्-उपायो हि (ऽपि?) **वैष्णवः** ।  
 </details>
+
+<details><summary>English</summary>
+
+1. Thus by the grace of the Guru attended with the knowledge of one's subserviency to God (Seshatva),* ever despising sound and other objects of the senses, even as other deities than God, he who, desirous of the fruit of attaining Vishnu, has bhakti for his means, is a Vaishnavat (follower of Vishnu). 
+
+Sesha: One whose nature is solely towards the attribution of another's supremacy, is the Sesha of that other and is subser- vient to his purposes. Seshi is one who holds everything at his own disposal and appropriates it for his own purposes. Accord- ing to the Visishthadvaita system the relation between the ruler and the ruled, the Isvara and the jiva is Sesha-seshi-bhava- and it is eternal. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 एवं गुरुप्रसादेन शेषत्वज्ञानपूर्वकम् ।  
-देवतान्तरवन्नित्यं शब्दादीनपि कुत्सयन् ॥
+देवतान्तरवन्नित्यं शब्दादीनपि कुत्सयन् ॥  
+विष्णुप्राप्तिफलाकाङ्क्षी भक्त्युपायो हि (ऽपि?) वैष्णवः ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णुप्राप्तिफलाकाङ्क्षी भक्त्युपायो हि (ऽपि?) वैष्णवः ।  
-एकान्ती तु विनिश्चित्य देवताविषयान्तरैः ॥ २॥
+**एकान्ती** तु **विनिश्चित्य**  
+देवता-विषयान्तरैः ॥ २॥  
+भक्त्य्-उपायं समं +++(व्यर्थम् इति)+++, कृष्ण-  
+प्राप्तौ कृष्णैक-साधनः ।  
 </details>
+
+<details><summary>English</summary>
+
+2. Having concluded that the means of bhakti is useless  
+equally with the worship of other deities than God, and of the physical objects of enjoyment, he who adopts Krishna (the supreme spirit) as the sole means for the attainment of Krishna, is an ekānti (i, e, one whose mind is devoted to one object). 
+
++ According to the Vaishnava theology a Prapanna is of two kinds; the ekanti or one who is devoted to one object and the Parmekanti, the supreme ekanti. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-विष्णुप्राप्तिफलाकाङ्क्षी भक्त्युपायो हि (ऽपि?) वैष्णवः ।  
-एकान्ती तु विनिश्चित्य देवताविषयान्तरैः ॥ २॥
+एकान्ती तु विनिश्चित्य देवताविषयान्तरैः ॥ २॥  
+भक्त्युपायं समं कृष्णप्राप्तौ कृष्णैकसाधनः ।  
+देवतान्तरशब्दादिभक्तिकृष्णाख्यहेतुषु ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवतान्तर-शब्दादि-  
+भक्ति-कृष्णाख्य+++(→प्रपत्ति)+++-हेतुषु ।  
+साम्यकृत्, **परमैकान्ती**  
+हरौ स्वामीति बुद्धिमान् ।  
+</details>
+
+<details><summary>English</summary>
+
+3. He is a Paramekanti (the supreme ekanti) who 
+[[135]] holds that the several means (for moksha), the deities other than God, the objects of the senses, bhakti and prapatti known as Krishna (having Krishna as the means and end) are all equal and has also the notion of the lord and the appropriator in Hari. 
+
+▲ Paramekanti is again of two kinds: the arta, or the afflicted, and the Dripta, or the proud or contented. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 भक्त्युपायं समं कृष्णप्राप्तौ कृष्णैकसाधनः ।  
 देवतान्तरशब्दादिभक्तिकृष्णाख्यहेतुषु ।  
 साम्यकृत् परमैकान्ती हरौ स्वामीति बुद्धिमान् ।  
-किं कुर्वाणः सदाकालं भगवत्पादपद्मयोः ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-भक्त्युपायं समं कृष्णप्राप्तौ कृष्णैकसाधनः ।  
-देवतान्तरशब्दादिभक्तिकृष्णाख्यहेतुषु ।  
-साम्यकृत् परमैकान्ती हरौ स्वामीति बुद्धिमान् ।  
-किं कुर्वाणः सदाकालं भगवत्पादपद्मयोः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+"किं" **कुर्वाणः** सदाकालं  
+भगवत्-पादपद्मयोः ॥  
+शेषत्वम् आत्मनो **जानन्**  
+**सार्थयन्** कालम् **आक्षिपेत्** ।  
+</details>
+
+<details><summary>English</summary>
+
+4. In knowing the subserviency of his self, and in always doing service to the lotus-feet of the lord, he shall, thus spend his time usefully. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं कुर्वाणः सदाकालं भगवत्पादपद्मयोः ॥  
 शेषत्वमात्मनो जानन् सार्थयन् कालमाक्षिपेत् ।  
-विज्ञाय मूलमन्त्रार्थं द्वयैकार्थतया गुरोः ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-शेषत्वमात्मनो जानन् सार्थयन् कालमाक्षिपेत् ।  
-विज्ञाय मूलमन्त्रार्थं द्वयैकार्थतया गुरोः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदेकशरणो भूत्वा हरिं तेन समर्चयेत् ।  
-"त्रैकाल्यमर्चनं कुर्यात् मूलमन्त्रेण श(भ)क्तितः ॥ ६ ॥
+**विज्ञाय** मूल-मन्त्रार्थं  
+द्वयैकार्थतया गुरोः ॥
+तद्-एक-शरणो **भूत्वा**  
+हरिं तेन **समर्चयेत्** ।  
 </details>
+
+<details><summary>English</summary>
+
+5. Learning from the guru the meaning of the basic mantra (Nārāyanāya) as being of the same import as doava and having God as his sole refuge, he shall worship Hari with that (mantra). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+विज्ञाय मूलमन्त्रार्थं द्वयैकार्थतया गुरोः ॥
 तदेकशरणो भूत्वा हरिं तेन समर्चयेत् ।  
-"त्रैकाल्यमर्चनं कुर्यात् मूलमन्त्रेण श(भ)क्तितः ॥ ६ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+"त्रैकाल्यमर्चनं कुर्यात् मूलमन्त्रेण श(भ)क्तितः ॥ ६ ॥  
 सर्ववेदान्तसारार्थः संसारार्णवतारणः ।  
 मन्त्राणां परमो मन्त्रो गुद्यानां गुह्यमुत्तमम् ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
+"त्रैकाल्यमर्चनं कुर्यात् मूलमन्त्रेण श(भ)क्तितः ॥ ६ ॥  
 सर्ववेदान्तसारार्थः संसारार्णवतारणः ।  
 मन्त्राणां परमो मन्त्रो गुद्यानां गुह्यमुत्तमम् ॥
 </details>
