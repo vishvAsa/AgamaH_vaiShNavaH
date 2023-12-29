@@ -6,66 +6,11 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-6.-7. In accordance with his ability he shall worship God with the basic mantra daily three times. This basic mantra is the essence of the teaching of the whole Vedanta. It enables one to cross the ocean of samsara. Of all the mantras it is the highest mantra; of all the secrets it s the best secret; it is the purest of the pure and is eternal. 8. By those that are desirous of freedom it is worthy of silent utterance at all times as giving the fruits of world- ly enjoyment (bhukti) and freedon (mukti). By the Vaishnavas it is worthy of uttarance as fostering knowledge and love (Jnāna and bhakti). 
-9. 
-It is the divine source of all the mantras, and is capable of destroying all sins. Becoming calm and collec- ted one shall diligently utter it. 
-10.-11. As there is thus the injunction of the com- mander of the hosts (Senesa) to Gajanana (the elephant- faced God) and other hosts, either with this mantra shall a Vaishnava always conduct the worship &c. of Hari, or with the mantra dvaya shall he perform it preceded by salutation to his 
-guru. 
-12. Only after having put on the marks of a Vaish- nava shall a Vaishnava worship Hari. The sage Vyāsa 
- 
-156 
- 
-says that only (by those of) the castes who have got the marks on should Mādhava (God) be worshipped, served and adored. 
-13. These marks are said to be of two kinds: exter- nal and internal. The marks like those of the conch, the disc &c., are external, and the absence of desire and other passions is the other. 
-14. So also has the Atharvopanishad clearly and specially prescribed the wearing of the disc-mark &c., to the discerning which (in general) is (also.) established in all the Upanishads. 
-15. Seers of Brahman know that a Vipra shall bear on his right arm the mark of the disc and on his left that of the conch. 
-16.-17. If the authorities above mentioned are to be doubted as being Vedic, we say that, even the whole lot of mantras are equally to be so. 
-If On account of their acceptance by great men as being Vedic, there is doubted no doubt (on that score). (If doubt arises again) the Pādma and Agneya-Puranas with raised hands do, indeed, proclaim aloud their authoritativeness. 
-18. By those that are advanced in love and faith (bhakti and Sraddha) the five weapons (of God) are to be worn separately each on one place; on the forehead, on the head, on the chest and on the two arms. 
-19. On the forehead the mace is to be worn; on the head the bow (Saranga), on the middle of the chest the sword (Nandaka), and on the two arms the conch and the disc. 
-20. With metallic models which have been heated in fire and over which their respective mantras have been pronounced, shall one be marked. Even Vriddha-Manu has said this with care. 
-21. To that man who daily wears the vertical marks (ūrdhvapuudra) and the disc mark (chakra) good ever in- 
 
-Frapannaparijala. 
-créases and evil disappears. 
-157 
-22.-33. The time for wearing the disc and other marks has been mentioned by Bhagavan in the Pancha- ratra-sastra. Under sixteen years is the best time, till the fiftieth middling and after that bad. Such is the determi- nation of time. All the months of the year excepting the winter ones (Varshika) are also auspicious. 
-24- 
-In the Pancharatra are prescribed in extenso, the place, measurement, and the material of urdhvapundra. One shall wear it according to that (prescription.) 
-25. Then shall urdhvapundra be painted with white mud, produced on the top of a sacred mountain and such other holy places, especially by the Vaishnavas. 
-26. He who wears a pure and white urdhvapundra with interspaces, builds Me with it a clean temple. 
-27. 
-A heart untouched by desire and other passions, a speech unsullied by lies and other faults, a body unimpair- el by torture and other injuries, these are the three kinds of worship in relation to Kesava (God). 
-28-29. Non-injury, the first flower; control of the senses, another; kindness to all beings, a flower; forgive- ness preeminently a flower; knowledge, a flower; austeri- ties, a flower; meditation, again the seventh flower; and truth, (one more);-these eight kinds of flowers are dear to Vishnu (God). 
-30-32. Thus with body adorned with the marks, ex- ternal and internal, having bathed in holy waters and off- ered libations of water to the Devas, the manes, and other deities as ordained in the săstras, having diligently mutter- ed hundred and eight times the basic mantra (mūlamantra) and making ready all the articles for sweet smearing, as also articles of food and of divine service, and having finished the decoration of the yoga-bhumi (the place of worship) 
-* Fogabhumi: Literally means the place for meditation, 
-* 
- 
-158 
- 
-one shall worship Hari in accordance with the routine t established by the prince of sannyasins (yatindra). 
-33. Just as a servant overcome with love pleases the king, his master, in the same way, shall one please the Lord of one's self, God, free from subterfuge, by going round the object of worship, placing it always to the right (pradakshina), and by prostrations and praises approved of by the ekantis. 
-34. The whole aggregate of the angas of bhakti, which Vishnu in the shape of the mighty Varaha has said to Agastya, shall one diligently practice, in due time. 
-35-37. "Affection for My devotees, rejoicing in their worships, worship by one's self, avoidance of pomp in My affairs, devotion to the hearing of My deeds, agita- tion (or change in the expression) in the voice, eyes and limbs (when so hearing), constant remembering of Me daily, and the (consciousness of) the fact that one depends not on Me for any worldly advantage, these are the eight kinds of bhakti. Even in a mlechcha* (Barbarian) if this bhakti exists, he is to be taken as the holiest of Brahmins; he is the greatest of sages; he is a yati (one who has renounced the world and controlled the passions); and he is a savant (pandit); to him ought to be given (gifts) and from him ought it to be received; even as I am is he worthy of worship." 
-hence the place of worship of any bind. The idea is that when a man sits for meditation or worship, he should on no account get distracted and leave his seat, but should remain comfortably seated till everything is finished, 
-+ The reference here is to the Nitya-karma or daily liturgy of the Sri-Vaishnavas as arranged by Sri Ramanuja. 
-Mlechcha: is from mlechch, to talk confusedly. i e. a barba- rian or non-Aryan who does not conform to the Aryan institution and does not speak the Sanskrit language but speaks a barbarous tongue. 
 
-Prapannaparijuta. 
-159 
-38.-39. On the authority of Saunaka even the incar- nation in images for the purpose of worship (archavatara) shall one worship. Having made with gold, silver or any other metals a beautiful image of Vishnu with gracious face and eyes which shall excite one's own love, and em- bodying in it the Brahman, one shall become mentally absorbed in it. 
-40. It, one shall worship; it, one shall salute; it, one shall serve ; it, one shall contemplate; and casting away all impurities, it alone which is the image (visible) of 
-Brahman, one enters. 
-41. Doing even a mere trifle one shall live in a tem- ple of Vishnu. Ever living in a temple of Vishnu one shall do the service of God as much as it lies in his power. 
-42. What might be a mighty temple, or a dear orna- ment, or a suitable enjoyment to Vishnu, that shall not be meddled with even in the least with the idea of its be- ing the means (to a desired end). 
-43. That hour or even moment when Vasudeva (God) is not thought of,—that itself is a loss; that is a huge opening to disaster; that is an aberration of the mind; that is a mental disorder. 
-44. If even a single hour were to be passed away without meditation (by any person) it is fit to be wept over very much as when he is robbed by a thief. 
-45. Having churned (i. e. entered into) all the sastras and examined them again and again, we find this one ulti- mate clear conclusion viz., that Narayana ought to be ever meditated upon. 
 
-CHAPTER VI. 
-ON THE WORSHIP OF THE ATTENDANTS ON 
-GOD. 
-I. 1. Then the goddess Lakshmi ought to be specially worshipped by a Prapanna, along with (the goddesses) Bhumi, Nila and such others, also with Sutravati and other attendants (on Lakshmi). 
+
+
 2. She is the resting place of Gurus, and the ruler of this world, the divine consort of the God of gods and is eternal and imperishable. 
 3. In the Pancharatra-Sastra, Vishnu has said to the attentive Vishvaksena to the effect that he who is a bhakta of Lakshmi, of Myself and of persons of your stamp,' is rare to meet with on this earth. 
 4. After collecting all the materials for the worship of Hari, one shall worship therewith the goddess also who is the consort of the; God of gods in the same manner as he worships God. 
