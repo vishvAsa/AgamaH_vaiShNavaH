@@ -6,77 +6,8 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-4. 
-I. 
-
-5. Bhagavan has said in the Agama-Šastra both in general and in particular the nature of a guru, of a disciple, and of the knowledge (vidva), and of the time (of initiation). 
-6. He is called a Desika (spiritual teacher) who is torn of (any of) the three castes, who, with Me alone has taken refuge, who is devoted to the observance of daily and occas- sional duties, who takes pleasure in serving those that are Mine and is the same towards both what is his and what is others? 
-7. "He is called a disciple who is a believer in God 
- 
-98 
- 
-and the other world, who is righteous, good-natured, who is a worshipper of Vishnu and who is pure, deep, clever, bold and strong or determined. 
-8. This mantra (dvava) needs no favourable circums- tances (of time and place), no auspicious star, no worshipp- ing of holy objects and the like, and no (contant) repetition or daily utterance. 
-9. 
-Saluting the guru with any of the full prostra- tions commencing with that of the three limbs of the body, the disciple shall receive the king of mantras, even like the penniless person who is eager to possess a treasure. 
-10. The guru shall first teach him the lineage of gurus (guruparampara), and having made him pronounce the mantra, dvaya, with all its angas (limbs) shall teach him the mental form of Prapatti. 
-11. Always loving the disciple as his own son, the guru becoming learned and collected shall teach him with- out any subterfuge (upadhi). 
-12.-13. "So also shall he, with compassion and with- out the hope of reward, teach the disciple who is unruffled in mind, the knowledge of the Upanishads which forster bhakti (viśvāsa) and knowledge (jana) and other know- ledge of the self suitable to the condition of the disciple. 
-14. The disciple having delivered presents to the teacher as much as lies in his power and as is ordained by the Sastras, shall worship him at suitable times and dc what is beneficial to him 
-15-16. Also the treatise known as jayasamhita pro- claims the glory of guru as ollows: 
-Guru alone is the Supreme Brahman; guru alone is the highest riches; guru alone is the highest knowledge; gru alone is the highest object of devotion; guru alone is the highest desire; guru alone is the highest God. 
-"Because he is the teacher of Brahman, theretore he is 
- 
-
-99 
-the highest of all teachers. He should always be worshipped, revered and praised. 
-"with love one shall meditate on him, internally repeat his name and bow to him in obeisance; with pleasure serve and worship him; with the thought that he is both the means and the end, take refuge with him solely." 
-19. 
-the sastras. 
-This is approved of by all the Vedas and by all 
-An intelligent man should think of the teacher of draya in this light." 
-20. He alone and none else is considered a disciple who for the sake of his guru shall bear his body, wealth, knowledge, clothes, actions, qualities and vital energies. 
-21. 
-With the evil minded who have swerved from duty to guru, even Narayana (God) gets displeased. (Even as) the lotus which is taken out of water the sun nourishes 
-not but withers. 
-" 
-22. He who harbours the notion of metal in the image-form of God and he who harbours the notion of man in his guru, both these fall into hell. 
-66 
-23. That person from whom one acquires generally and specially the ancient dharmas is the Acharya (spiritual preceptor). In nothing shall one deceive him. 
-24. “The syllable ga is indicative of darkness and ru the dispelling of it. By being the dispeller of darkness he is known as guru." 
-25. The sage Manu also says that the giver of man- tra should be worshiped even though he be a youth, and it is also laid down that among the Vipras seniority arises from the knowledge of the Vedanta. 
-26. The child Sukracharya, the son of Angiras taught his fathers (the Vedic lore). Judging from knowledge he addressed them as 'children.' 
-27. They getting angry asked the devas the meaning of it and the devas came and told them that their child had 
-100 
- 
-told them what was just. 
-23. Even though he be a child, a vipra has the privilege of age; and after giving mantra, he becomes a father. Only the ignorant person is called a child' and the giver of mantra a 'father.' 
-29. Not by advanced years, nor by grey hairs, nor by wealth, nor by relations, the rishis have made the dharmas. He who has learned the Sastras from an unbroken line of teachers (anichana) is our guru. 
-30. "Among the Vipras (Brahmins) the seniority is from knowledge, among the kshatriyas from volour, among the Vaisyas the seniority is from wealth and among the Sudras alone it is from birth." 
-31. All the gurus of the guru ought to be worshipped specially. Towards the wife, sons and other relations of a guru one shall adopt the same behaviour as towards the 
-guru. 
-32.-33. If the guru swerves from the path of dharma (virtue) he ought to be advised in private. If a degrading act of a guru is incapable of being removed either by means of advice or devotion (to God on his behalf), or service in the society of good men, one shall, abandoning his company, serve a virtuous teacher. (If he) wishes even (then) the wel- fare of his quondam teacher, he is freed and there is no doubt about this. 
-34. If the disciple strays from the path of duty, the guru shall prevent him with effort. He shall pray to the lotus-feet of the Lord of Sri (Vishnu) for the benefit of the disciple. 
-35. He shall canse the bhagavatas (devotees of God) bestow their grace on him, himself shall also try to lift him. up. In case he is not reclaimed he shall give up conversa- tion and such other intercourses with him. 
-36.-97. In the presence of a guru one shall not express' 
- 
-
-101 
-manifestly his visvasa (love) (for him). Wherever detrac- tion or dispragement of the guru is heard, there a disciple shall either close his ears or quit the place for some other. 
-He shall be happy in whom there is the faith By 
-33. 
-the grace of guru I shall attain all my desires." 
-:6 
-39. To whomsoever by a guru is given the knowledge of self-resignation, to him is that guru alone the Vaikuntha (empyrean of Vishnu), the milky ocean, Dvaraka and all. 
-40. The all of this world and of the other, is that guru who gives the eight lettered mantra (ashtakshara). Those 
-that do not think so are, by the wise, fit to be forsaken. 
-He, who insults the teacher, who gives one syllable of mantra, say Pranava, after being born a hundred times in the womb of a bitch, shall be born among the chandalas." 
 41. 
 6. 
-42. Bhagavan Vishnu in the shape of the mighty Varaha has proclaimed for crossing the ocean of births, man's body as the boat, His Self (Atman) as the favourable wind, the guru as the pilot. Therefore, with the help of a guru shall an embodied being cross the ocean of Samsara. 
-43. 
-That man is tha destroyer of self (ātma) who first having secured the boat of human body which is difficult to attain, then the dextrous pilot of a guru, crosses not the ocean of Samsara which is blown by the favourable wind, Myself (God). 
-(To be Continued.) 
  
 PRAPANNA PARIJATA. 
 CHAPTER V. 
