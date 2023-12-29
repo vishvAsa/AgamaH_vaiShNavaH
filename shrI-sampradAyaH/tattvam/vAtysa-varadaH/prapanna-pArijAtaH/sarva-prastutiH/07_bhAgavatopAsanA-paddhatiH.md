@@ -1,5 +1,5 @@
 +++
-title = "०७ भगवद्-उपासना-पद्धतिः"
+title = "०७ भागवतोपासना-पद्धतिः"
 
 +++
 <details><summary>English</summary>
