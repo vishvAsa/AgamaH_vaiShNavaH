@@ -5,45 +5,8 @@ title = "en"
 Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
- 
-[[302]] 
 
-32. Only as much accomplishment there is to a person as the degree of faith in him. The efficacy of faith cannot be measured as 'thus much'. 
-33. An intelligent man shall always obey the approved customs mentioned in the Vedas. With reference to the transgression of the Vedic course of conduct what is said in the Pancharatra-sastras is as follows:- 
-34-35. "For the non-lapse of dharmas, for the pre- servation of the race, for the protection of the people, for the establishment of the moral-laws (or fixity of usages), for the pleasure of myself and Vishnu, the God of gods and the Wielder of the bow saranga, an intelligent man shall not transgress the Vedic usage even mentally. 
-36-37. "As the favourite of a king destroying a channel inaugurated by the king, even though he be indif- ferent towards it-a channel which is of public use, which is beautiful and which sustains the growth of many plants- shall be impaled on a pike, so a person having violated the usage established by the Vedas, even though he be dear to Me ceases to be my beloved on account of the transgression of My command. 
-38-39. With reference to these karmas, a wise man shall give up the idea of perceiving in them the means to an end. But remaining in his own caste and order of life, suitably to place and time he shall perform only those karmas agreeable to God that have been specially prescri- bed to him, 
- 
-PRAPANNA PĀRIJATA. 
-(Continued from page 302.) 
-CHAPTER IX. 
-ON THE KARMAS THAT OUGHT TO BE RENOUNCED. 
-1. Of the worldly and Vedic karmas those that ought to be renounced by the Prapannas are here described. One shall always shun what is incongruent with one's own status, place and time. 
-2. What is particularly mentioned by Mann and others as contrary to caste and order of life and what is said in the Pancharatra-sastra as inconsistent with one's own duty, shall one not perform. 
-3-4. The reverential going from left to right, keeping the object of circumambulation to the right, round a place where the four roads meet, a tree, an auspicious object and such other acts which are destructive of sins to men, all those acts that are sanctioned by the general sastras but are con- trary to the special ones, and the karmas yielding the enjoy- ments of both the worlds i. e. performed for some particular worldly object and future fruition (kamya), all these the prince of men devoted to one object only (parame- kanti) shall not do, as also wearing marks and other tokens which are prescribed in the general sastras but are contrary (to the practices of a Vaishnava). 
-5.. Singing, dancing &c, which are enjoined by the special Agama-sastra-all these shall a Vaishnava do. Yama and Sounaka have thus declared :- 
-- 
-6. "O the purest of men! except the singing of God, no other song of words should be sung by a Brahmin. Therefore (if other songs are sung) sin has been committed by you." 
 
-318 
- 
-7. Singing of Vishnu, composing songs on Hin and dancing, O Brahmin! ought to be specially done by those born of the Brahmin caste, like the obligatory karmas (Nitya Karma). 
-8. The birds of great sins which inhabit the bodies of men who dance in the presence of God are scared away by the clapping of hands &c. 
-9. A Vaishnava shall not give up the mark of the disc of Vishnu and such other tokens which are mentioned in the special sastras, on account of the superiority of a special rule. 
-10-11. Owing to sparseness of followers in the world, owing to the quality of being an easy means, from the weigh- tiness of the result and also from construing otherwise the authorities (for prapatti) with the help of specious reasoning, some disregard the expediency of Prapatti for the accom- plishment of freedom. 
-12. They who are wicked and foolish, are deemed the vilest of men. Robbed of their knowledge by Maya (illu- sion) they have betaken themselves to demoniac nature. 
-13. Those sinners at the time of birth whom-Vishnu satva shall not glance at, but Brahma or Rudra shall look at as being covered with passion or darkness, with such one shall not speak. For, with the unrighteous, one shall not have any intercourse whatever. 
-14. Manu has said the Sastras of the vain questioners of cause to be vulgar and forbids intercourse with them even by mere speech. 
-15. Those smritis which are contrary to the Vedas, and those low cults which are sophistical, all these are use- less after death; therefore, indeed, they are considered as resting in darkness (low ideas). 
-16. One shall not honor even by speech heretics who practise impious acts, who are impostors in cat-like obser- 
- 
-7 
-vance, crane.t 
-
-319 
-and who are religious hypocrites behaving like the 
-17. A Prapanna shall not practise any such (karmas) acts whatsoever by which bindrance arises to Prapatti. 
-18-21. Honoring deities other than God except in the established neages of daily work, following other means than Prapatti, and malice towards holy men, too much indulgence in sensual objects, reviling and otherwise acting in any such way towards Lakshmi, the Lord of Lakshmi and their attendants, and remorseless conduct as long as the body exists, egregious sins devoid of prayaschitta-all such acts also a Prapanna shall not do. 
 12. In case there is any connection with these to the good, and if repentence sets in, they shall, then, perform prayaschitta both privately and publicly. 
 23. To a repentent Prapanna there is authorisation to prayaschitta only in private. Thus has Lakshmi said to the 
 • Baidalavrata. "Catlike observance," concealing one's malice or evil designs under the garb of piety or virtue. The allusion is to a characterístic story of a cat which after infusing confidence into the rate by a show of assumed piety, tries to destroy them by carefully preying on the stray ones. Manu gives the follow- ing definition of a Baidalavratika. "One who vaunts his piety by carrying the flag of righteousness, who is always malicious and who is a religious hypocrite, deceiver of the world, fierce as a beast and a traducer of all, is known as a Baidalavratika." 

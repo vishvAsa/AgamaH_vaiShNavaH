@@ -3,11 +3,26 @@ title = "०९ वर्जनीय-पद्धतिः"
 
 +++
 
+<details><summary>English</summary>
+
+CHAPTER IX. 
+ON THE KARMAS THAT OUGHT TO BE RENOUNCED. 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्जनीयं प्रपन्नानां वर्ण्यते लोकवेदयोः ।  
-स्वावस्थादेशकालानां विरुद्धं वर्जयेत् सदा (सुधीः) ॥ १॥
+**वर्जनीयं** प्रपन्नानां  
+**वर्ण्यते** लोक-वेदयोः ।  
+स्वावस्था-देश-कालानां  
+विरुद्धं **वर्जयेत्** सदा (सुधीः) ॥ १॥
 </details>
+
+<details><summary>English</summary>
+
+1. Of the worldly and Vedic karmas those that ought to be renounced by the Prapannas are here described. One shall always shun what is incongruent with one's own status, place and time. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -17,9 +32,17 @@ title = "०९ वर्जनीय-पद्धतिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्णाश्रमविरुद्धं यत् मन्वाद्युक्तं विशेषतः ।  
-स्वाधिकारविरुद्धं च शास्त्रोक्तं न समाचरेत् ॥ २ ॥
+वर्णाश्रम-विरुद्धं यन्  
+मन्वाद्य्-उक्तं विशेषतः ।  
+स्वाधिकार-विरुद्धं च  
+शास्त्रोक्तं **न समाचरेत्** ॥ २ ॥
 </details>
+
+<details><summary>English</summary>
+
+2. What is particularly mentioned by Manu and others as contrary to caste and order of life and what is said in the Pancharatra-sastra as inconsistent with one's own duty, shall one not perform. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -29,85 +52,179 @@ title = "०९ वर्जनीय-पद्धतिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सामान्यशास्त्रानुज्ञातं विरुद्धं यद् विशेषतः ।  
-चतुष्पथवनस्पत्योः मङ्गलार्थप्रदक्षिणम् ॥
+सामान्य-शास्त्रानुज्ञातं  
+विरुद्धं यद् विशेषतः ।  
+चतुष्-पथ-वनस्-पत्योः  
+मङ्गलार्थ-प्रदक्षिणम् ॥
+
+प्रदोषे शङ्करार्चादि  
+पाप-हानि-फल-प्रदम् ।  
+**न कुर्यात्** परमैकान्ती  
+काम्यं लोक-द्वय-प्रदम् ॥  
+सामान्य-शास्त्र-विहितं  
+विरुद्धं चाङ्कनादिकम् ।  
+</details>
+
+
+<details><summary>English</summary>
+
+3-4. The reverential going from left to right, keeping the object of circumambulation to the right, round a place where the four roads meet, a tree, an auspicious object and such other acts which are destructive of sins to men, all those acts that are sanctioned by the general sastras but are con- trary to the special ones, and the karmas yielding the enjoy- ments of both the worlds i. e. performed for some particular worldly object and future fruition (kamya), all these the prince of men devoted to one object only (parame- kanti) shall not do, as also wearing marks and other tokens which are prescribed in the general sastras but are contrary (to the practices of a Vaishnava). 
 </details>
 
 <details><summary>मूलम्</summary>
 
 सामान्यशास्त्रानुज्ञातं विरुद्धं यद् विशेषतः ।  
-चतुष्पथवनस्पत्योः मङ्गलार्थप्रदक्षिणम् ॥
+चतुष्पथवनस्पत्योः मङ्गलार्थप्रदक्षिणम् ॥  
+प्रदोषे शङ्करार्चादि पापहानिफलप्रदम् ।  
+न कुर्यात् परमैकान्ती काम्यं लोकद्वयप्रदम् ॥  
+सामान्यशास्त्रविहितं विरुद्धं चाङ्कनादिकम् ।  
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रदोषे शङ्करारचादि पापहानिफलप्रदम् ।  
-न कुर्यात् परमैकान्ती काम्यं लोकद्वयप्रदम् ॥
+गीत-नृत्तादिकं यत् तु  
+विशेषागम-चोदितम् ॥  
+तत् सर्वं वैष्णवः **कुर्यात्**  
+यथोक्तौ यमशौनकौ-  
 </details>
+
+<details><summary>English</summary>
+
+5.. Singing, dancing &c, which are enjoined by the special Agama-sastra-all these shall a Vaishnava do. Yama and Sounaka have thus declared :- 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-प्रदोषे शङ्करारचादि पापहानिफलप्रदम् ।  
-न कुर्यात् परमैकान्ती काम्यं लोकद्वयप्रदम् ॥
+गीतनृत्तादिकं यत्तु विशेषागमचोदितम् ॥  
+तत् सर्वं वैष्णवः कुर्यात् यथोक्तौ यमशौनकौ-  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सामान्यशास्त्रविहितं विरुद्धं चाङ्कनादिकम् ।  
-गीतनृत्तादिकं यत्तु विशेषागमचोदितम् ॥
+"हरिकीर्तिं (गीतिं) विनैवान्यत्  
+ब्राह्मणेन नरोत्तम ! ॥ ६ ॥  
+भाषागानं न गातव्यं  
+तस्मात् पापं त्वया कृतम् ।” (मत्स्य पु)  
 </details>
+
+<details><summary>English</summary>
+
+6. "O the purest of men! except the singing of God, no other song of words should be sung by a Brahmin. Therefore (if other songs are sung) sin has been committed by you." 
+</details>
+
 
 <details><summary>मूलम्</summary>
-
-सामान्यशास्त्रविहितं विरुद्धं चाङ्कनादिकम् ।  
-गीतनृत्तादिकं यत्तु विशेषागमचोदितम् ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत् सर्वं वैष्णवः कुर्यात् यथोक्तौ यमशौनकौ-  
-"हरिकीर्तिं (गीतिं) विनैवान्यत् ब्राह्मणेन नरोत्तम ! ॥ ६ ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-तत् सर्वं वैष्णवः कुर्यात् यथोक्तौ यमशौनकौ-  
-"हरिकीर्तिं (गीतिं) विनैवान्यत् ब्राह्मणेन नरोत्तम ! ॥ ६ ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+"हरिकीर्तिं (गीतिं) विनैवान्यत् ब्राह्मणेन नरोत्तम ! ॥ ६ ॥  
 भाषागानं न गातव्यं तस्मात् पापं त्वया कृतम् ।” (मत्स्य पु)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"विष्णोर् गानं च नृतं च  
+नटनं च विशेषतः ।  
+ब्रह्मन् ! ब्राह्मण-जातीनां  
+**कर्तव्यं** नित्य-कर्मवत्।  
+</details>
+
+<details><summary>English</summary>
+
+[[318]] 
+7. Singing of Vishnu, composing songs on Hin and dancing, O Brahmin! ought to be specially done by those born of the Brahmin caste, like the obligatory karmas (Nitya Karma). 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 "विष्णोर्गानं च नृतं च नटनं च विशेषतः ।  
-ब्रह्मन् ! ब्राह्मणजातीनां कर्तव्यं नित्यकर्मवत् ।  
+ब्रह्मन् ! ब्राह्मणजातीनां कर्तव्यं नित्यकर्मवत्।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नृत्यतां श्रीपतेर् अग्रे  
+कर-संस्फोट-नादिभिः ।  
+उड्डीयन्ते शरीर-स्थाः  
+महा-पातक-पक्षिणः" ।  
+</details>
+
+<details><summary>English</summary>
+
+8. The birds of great sins which inhabit the bodies of men who dance in the presence of God are scared away by the clapping of hands &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 नृत्यतां श्रीपतेरग्रे करसंस्फोटनादिभिः ।  
 उड्डीयन्ते शरीरस्थाः महापातकपक्षिणः" ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं विशेष-शास्त्रोक्तं  
+विष्णु-चक्राङ्कनादिकम् ।  
+विशेष-शास्त्र-प्राबल्याद्  
+वैष्णवस् तु **न वर्जयेत्** ।  
+</details>
+
+<details><summary>English</summary>
+
+9. A Vaishnava shall not give up the mark of the disc of Vishnu and such other tokens which are mentioned in the special sastras, on account of the superiority of a special rule. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 एवं विशेषशास्त्रोक्तं विष्णुचक्राङ्कनादिकम् ।  
 विशेषशास्त्रप्राबल्यात् वैष्णवस्तु न वर्जयेत् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+लोकेऽनुष्ठान-सङ्कोचाल्,  
+लाघवात्, फल-गौरवात् ।  
+विमुक्ति-साधनत्वं हि  
+प्रपत्तेर् **अवजानते** ।  
+अन्यथा योजनाच् चापि  
+प्रमाणानां कुतर्कतः ॥
+</details>
+
+<details><summary>English</summary>
+
+10-11. Owing to sparseness of followers in the world, owing to the quality of being an easy means, from the weigh- tiness of the result and also from construing otherwise the authorities (for prapatti) with the help of specious reasoning, some disregard the expediency of Prapatti for the accom- plishment of freedom. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 लोकेऽनुष्ठानसङ्कोचात् लाघवात् फलगौरवात् ।  
 विमुक्तिसाधनत्वं हि प्रपत्तेरवजानते ।  
 अन्यथा योजनाच्चापि प्रमाणानां कुतर्कतः ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-भाषागानं न गातव्यं तस्मात् पापं त्वया कृतम् ।” (मत्स्य पु)  
-"विष्णोर्गानं च नृतं च नटनं च विशेषतः ।  
-ब्रह्मन् ! ब्राह्मणजातीनां कर्तव्यं नित्यकर्मवत् ।  
-नृत्यतां श्रीपतेरग्रे करसंस्फोटनादिभिः ।  
-उड्डीयन्ते शरीरस्थाः महापातकपक्षिणः" ।  
-एवं विशेषशास्त्रोक्तं विष्णुचक्राङ्कनादिकम् ।  
-विशेषशास्त्रप्राबल्यात् वैष्णवस्तु न वर्जयेत् ।  
-लोकेऽनुष्ठानसङ्कोचात् लाघवात् फलगौरवात् ।  
-विमुक्तिसाधनत्वं हि प्रपत्तेरवजानते ।  
-अन्यथा योजनाच्चापि प्रमाणानां कुतर्कतः ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते तु दुष्कृतिनो मूढाः नराणामधमाः स्मृताः ।  
-माययाऽपहृतज्ञानाः आसुरं भावमाश्रिताः ॥ १२ ॥
+ते तु दुष्-कृतिनो मूढाः  
+नराणाम् अधमाः **स्मृताः** ।  
+मायया ऽपहृत-ज्ञाना  
+आसुरं भावम् **आश्रिताः** ॥ १२ ॥
 </details>
+
+<details><summary>English</summary>
+
+12. They who are wicked and foolish, are deemed the vilest of men. Robbed of their knowledge by Maya (illu- sion) they have betaken themselves to demoniac nature. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -117,28 +234,140 @@ title = "०९ वर्जनीय-पद्धतिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यान्न पश्येज्जायमानान् पापिनो मधुसूदनः ।  
-ब्रह्मा रुद्रोऽथवा पश्येत् रजसा तमसा वृतान् ।  
-तैरालापं न कुर्वीत, “ नासद्भिः किञ्चिदाचरेत् " ।  
-कौतस्कुतानां शास्त्राणि तामसानि वदन्मनुः ।  
-वाङ्मात्रेणापि संसर्गं तैस्साकं तु निषेधति ॥
+यान् **न पश्येज्** जायमानान्  
+पापिनो मधु-सूदनः ।  
+ब्रह्मा रुद्रो ऽथवा **पश्येत्**  
+रजसा तमसा ऽऽवृतान् ।  
+तैर् **आलापं न** कुर्वीत,  
+“नासद्भिः किञ्चिद् **आचरेत्** " ।  
 </details>
+
+<details><summary>English</summary>
+
+13. Those sinners at the time of birth whom-Vishnu satva shall not glance at, but Brahma or Rudra shall look at as being covered with passion or darkness, with such one shall not speak. For, with the unrighteous, one shall not have any intercourse whatever. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 यान्न पश्येज्जायमानान् पापिनो मधुसूदनः ।  
 ब्रह्मा रुद्रोऽथवा पश्येत् रजसा तमसा वृतान् ।  
 तैरालापं न कुर्वीत, “ नासद्भिः किञ्चिदाचरेत् " ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कौतस्-कुतानां शास्त्राणि  
+तामसानि वदन् मनुः ।  
+वाङ्मात्रेणापि संसर्गं  
+तैस् साकं तु **निषेधति** ॥
+</details>
+
+<details><summary>English</summary>
+
+14. Manu has said the Sastras of the vain questioners of cause to be vulgar and forbids intercourse with them even by mere speech. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 कौतस्कुतानां शास्त्राणि तामसानि वदन्मनुः ।  
 वाङ्मात्रेणापि संसर्गं तैस्साकं तु निषेधति ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"या वेदबाह्याः स्मृतयो  
+याश् च काश् च **कु-दृष्टयः।** (मनु.)  
+सर्वास् ताः **निष्फलाः** प्रेत्य  
+तमो-निष्ठा हि ताः स्मृताः" ।  
+</details>
+
+<details><summary>English</summary>
+
+15. Those smritis which are contrary to the Vedas, and those low cults which are sophistical, all these are use- less after death; therefore, indeed, they are considered as resting in darkness (low ideas). 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 "या वेदबाह्याः स्मृतयो याश्च काश्च कुदृष्टयः। (मनु.)  
 सर्वास्ताः निष्फलाः प्रेत्य तमोनिष्ठा हि ताः स्मृताः" ।  
-"पाषण्डिनो विकर्मस्थान् बैडालवतिकाञ्ञ्छठान् ।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"पाषण्डिनो विकर्म-स्थान्  
+बैडाल-व्रतिकाञ् +++(←अभाव-वैर्यग्य-दर्शकान्)+++ छठान् ।  
+हैतुकान् बक-वृत्तींश् +++(←मत्स्याश्य् अपि तपस्वीव तिष्ठति)+++ च  
+वाङ्-मात्रेणापि **नार्चयेत्”** । (मनु.)  
+</details>
+
+<details><summary>English</summary>
+
+16. One shall not honor even by speech heretics who practise impious acts, who are impostors in cat-like obser-vance, and who are religious hypocrites behaving like the crane.
+
+[[319]] 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"पाषण्डिनो विकर्मस्थान् बैडालव्रतिकाञ्छठान् ।  
 हैतुकान् बकवृत्तींश्च वाङ्मात्रेणापि नार्चयेत्” । (मनु.)  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्तेः प्रतिबन्धस् तु  
+जायते यैर् हि कर्मभिः ।  
+प्रपन्नो **न निषेवेत**  
+तादृशानि न किञ्चन ।  
+</details>
+
+<details><summary>English</summary>
+
+17. A Prapanna shall not practise any such (karmas) acts whatsoever by which bindrance arises to Prapatti. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तेः प्रतिबन्धस्तु जायते यैर्हि कर्मभिः ।  
+प्रपन्नो न निषेवेत तादृशानि न किञ्चन ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवतान्तर-सम्भक्तिर्  
+नित्य-कर्म-विधिं विना ।  
+उपायान्तर-निष्ठा च  
+द्रोहो भागवतेष्व् अपि ।  
+विश्वास-मान्द्यं विषयेष्व्  
+अतिप्रावण्यम् एव च ।  
+श्री--श्रीशयोः परिजने  
+निन्दनादीनि सर्वशः ।  
+देहावध्य्-अनुवृत्तानि  
+नानुताप-युतानि च ।  
+प्रायश्-चित्त-विहीनानि  
+पातकानि महान्ति च ॥  
+बन्धकानि ; प्रपन्नस् तु  
+**न कुर्यात्** तादृशान्य् अपि ॥ २१ ॥  
+</details>
+
+<details><summary>English</summary>
+
+18-21. Honoring deities other than God except in the established neages of daily work, following other means than Prapatti, and malice towards holy men, too much indulgence in sensual objects, reviling and otherwise acting in any such way towards Lakshmi, the Lord of Lakshmi and their attendants, and remorseless conduct as long as the body exists, egregious sins devoid of prayaschitta-all such acts also a Prapanna shall not do. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 प्रपत्तेः प्रतिबन्धस्तु जायते यैर्हि कर्मभिः ।  
 प्रपन्नो न निषेवेत तादृशानि न किञ्चन ।  
 देवतान्तरसम्भक्तिर्नित्यकर्मविधिं विना ।  
@@ -146,28 +375,12 @@ title = "०९ वर्जनीय-पद्धतिः"
 विश्वासमान्द्यं विषयेष्वतिप्रावण्यमेव च ।  
 श्रीश्रीशयोः परिजने निन्दनादीनि सर्वशः ।  
 देहावध्यनुवृत्तानि नानुतापयुतानि च ।  
-प्रायश्चित्तविहीनानि पातकानि महान्ति च ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-"या वेदबाह्याः स्मृतयो याश्च काश्च कुदृष्टयः। (मनु.)  
-सर्वास्ताः निष्फलाः प्रेत्य तमोनिष्ठा हि ताः स्मृताः" ।  
-"पाषण्डिनो विकर्मस्थान् बैडालवतिकाञ्ञ्छठान् ।  
-हैतुकान् बकवृत्तींश्च वाङ्मात्रेणापि नार्चयेत्” । (मनु.)  
-प्रपत्तेः प्रतिबन्धस्तु जायते यैर्हि कर्मभिः ।  
-प्रपन्नो न निषेवेत तादृशानि न किञ्चन ।  
-देवतान्तरसम्भक्तिर्नित्यकर्मविधिं विना ।  
-उपायान्तरनिष्ठा च द्रोहो भागवतेष्वपि ।  
-विश्वासमान्द्यं विषयेष्वतिप्रावण्यमेव च ।  
-श्रीश्रीशयोः परिजने निन्दनादीनि सर्वशः ।  
-देहावध्यनुवृत्तानि नानुतापयुतानि च ।  
-प्रायश्चित्तविहीनानि पातकानि महान्ति च ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+प्रायश्चित्तविहीनानि पातकानि महान्ति च ॥  
 बन्धकानि ; प्रपन्नस्तु न कुर्यात्तादृशान्यपि ॥ २१ ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तेष्वन्वये सति सतामनुतापो भवेत् ; यदि ।  
 प्रायश्चित्तं ततः कुर्याद्रहस्यं च प्रकाशकम् ॥ २२ ॥
 </details>

@@ -667,87 +667,164 @@ The fool, even while being conscious of performing detrimental karmas, falls dow
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+“ यस्य यावांश् च विश्वासः  
+तस्य सिद्धिश् च तावती ।  
+(नारदी. अ. ब्र. वि. 1-14)  
+नैतावान् इति विश्वास-  
+प्रभावः परिमीयते" ॥ ३४ ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+32. Only as much accomplishment there is to a person as the degree of faith in him. The efficacy of faith cannot be measured as 'thus much'. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 “ यस्य यावांश्च विश्वासः तस्य सिद्धिश्च तावती ।  
 (नारदी. अ. ब्र. वि. 1-14)  
 नैतावानिति विश्वासप्रभावः परिमीयते" ॥ ३४ ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेदोदितं सदाचारम्  
+आद्रियेत सदा सुधीः ।  
+लक्ष्मीतन्त्रे यथोक्तं तु  
+वैदिकाचार-लङ्घने-  
+</details>
+
+<details><summary>English</summary>
+
+[[302]] 
+
+33. An intelligent man shall always obey the approved customs mentioned in the Vedas. With reference to the transgression of the Vedic course of conduct what is said in the Pancharatra-sastras is as follows:- 
+
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-“ यस्य यावांश्च विश्वासः तस्य सिद्धिश्च तावती ।  
-(नारदी. अ. ब्र. वि. 1-14)  
-नैतावानिति विश्वासप्रभावः परिमीयते" ॥ ३४ ॥
+वेदोदितं सदाचारमाद्रियेत सदा सुधीः ।  
+लक्ष्मीतन्त्रे यथोक्तं तु वैदिकाचारलङ्घने-  
+
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वेदोदितं सदाचारमाद्रियेत सदा सुधीः ।  
-लक्ष्मीतन्त्रे यथोक्तं तु वैदिकाचारलङ्घने-  
-" अविप्लवाय धर्माणां पालनाय कुलस्य च । (ल. तं. 17-94)  
-सङ्ग्रहाय च लोकस्य मर्यादास्थापनाय च ॥
+"अविप्लवाय धर्माणां  
+पालनाय कुलस्य च । (ल. तं. 17-94)  
+सङ्ग्रहाय च लोकस्य  
+मर्यादा-स्थापनाय च ॥
 </details>
+
+<details><summary>English</summary>
+
+34-35. "For the non-lapse of dharmas, for the pre- servation of the race, for the protection of the people, for the establishment of the moral-laws (or fixity of usages), 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-वेदोदितं सदाचारमाद्रियेत सदा सुधीः ।  
-लक्ष्मीतन्त्रे यथोक्तं तु वैदिकाचारलङ्घने-  
 " अविप्लवाय धर्माणां पालनाय कुलस्य च । (ल. तं. 17-94)  
 सङ्ग्रहाय च लोकस्य मर्यादास्थापनाय च ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रियाय मम विष्णोश् च  
+देव-देवस्य शार्ङ्गिणः ।  
+मनीषी वैदिकाचारं  
+मनसाऽपि **न लङ्घयेत्** ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+for the pleasure of myself and Vishnu, the God of gods and the Wielder of the bow saranga, an intelligent man shall not transgress the Vedic usage even mentally. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 प्रियाय मम विष्णोश्च देवदेवस्य शार्ङ्गिणः ।  
 मनीषी वैदिकाचारं मनसाऽपि न लङ्घयेत् ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रियाय मम विष्णोश्च देवदेवस्य शार्ङ्गिणः ।  
-मनीषी वैदिकाचारं मनसाऽपि न लङ्घयेत् ॥
+यथा हि वल्लभो राज्ञो  
+नदीं राज्ञा प्रवर्तिताम् ।  
+लोकोपयोगिनीं रम्यां  
+बहु-सस्य-विवर्धिनीम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+36-37. "As the favourite of a king destroying a channel inaugurated by the king, even though he be indif- ferent towards it-a channel which is of public use, which is beautiful and which sustains the growth of many plants- 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 यथा हि वल्लभो राज्ञो नदीं राज्ञा प्रवर्तिताम् ।  
 लोकोपयोगिनीं रम्यां बहुसस्यविवर्धिनीम् ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा हि वल्लभो राज्ञो नदीं राज्ञा प्रवर्तिताम् ।  
-लोकोपयोगिनीं रम्यां बहुसस्यविवर्धिनीम् ॥
+लङ्घयन् **शूलम् आरोहेद्**  
+अनपेक्षोऽपि तां प्रति ।  
+एवं **विलङ्घयन्** मर्त्यो  
+मर्यादां वेद-निर्मिताम् ॥  
+प्रियोऽपि न प्रियोऽसौ मे  
+मद्-आज्ञा-व्यतिवर्तनात् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+shall be impaled on a pike, so a person having violated the usage established by the Vedas, even though he be dear to Me ceases to be my beloved on account of the transgression of My command. 
+</details>
+
+<details><summary>मूलम्</summary>
 
 लङ्घयन् शूलमारोहेदनपेक्षोऽपि तां प्रति ।  
-एवं विलङ्घयन् मर्त्यो मर्यादां वेदनिर्मिताम् ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-लङ्घयन् शूलमारोहेदनपेक्षोऽपि तां प्रति ।  
-एवं विलङ्घयन् मर्त्यो मर्यादां वेदनिर्मिताम् ॥
+एवं विलङ्घयन् मर्त्यो मर्यादां वेदनिर्मिताम् ॥  
+प्रियोऽपि न प्रियोऽसौ मे मदाज्ञाव्यतिवर्तनात् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रियोऽपि न प्रियोऽसौ मे मदाज्ञाव्यतिवर्तनात् ।  
-उपायत्वग्रहं तत्र वर्जयेन्मनसा सुधीः " ॥ ४० ॥
+उपायत्व-ग्रहं तत्र  
+**वर्जयेन्** मनसा सुधीः " ॥ ४० ॥  
 </details>
+
+<details><summary>English</summary>
+
+38-39. With reference to these karmas, a wise man shall give up the idea of perceiving in them the means to an end. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-प्रियोऽपि न प्रियोऽसौ मे मदाज्ञाव्यतिवर्तनात् ।  
-उपायत्वग्रहं तत्र वर्जयेन्मनसा सुधीः " ॥ ४० ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+उपायत्वग्रहं तत्र वर्जयेन्मनसा सुधीः " ॥ ४० ॥  
 स्ववर्णाश्रमयुक्तं तु देशकालानुरूपतः ।  
 विशेषविहितं यच्च तत् कुर्याच्छ्रीपतेः प्रियम् ॥ ११ ॥
 </details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्ववर्णाश्रमयुक्तं तु  
+देश-कालानुरूपतः ।  
+विशेष-विहितं यच् च  
+तत् **कुर्याच्** छ्रीपतेः प्रियम् ॥ ११ ॥
+</details>
+
+<details><summary>English</summary>
+
+But remaining in his own caste and order of life, suitably to place and time he shall perform only those karmas agreeable to God that have been specially prescri- bed to him, 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
