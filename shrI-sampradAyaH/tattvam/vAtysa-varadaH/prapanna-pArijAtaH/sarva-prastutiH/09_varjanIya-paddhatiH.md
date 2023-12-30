@@ -310,6 +310,14 @@ ON THE KARMAS THAT OUGHT TO BE RENOUNCED.
 16. One shall not honor even by speech heretics who practise impious acts, who are impostors in cat-like obser-vance, and who are religious hypocrites behaving like the crane.
 
 [[319]] 
+
+• Baidalavrata. "Catlike observance," concealing one's malice or evil designs under the garb of piety or virtue. The allusion is to a characterístic story of a cat which after infusing confidence into the rats by a show of assumed piety, tries to destroy them by carefully preying on the stray ones.  
+Manu gives the follow- ing definition of a Baidalavratika.  
+"One who vaunts his piety by carrying the flag of righteousness, who is always malicious and who is a religious hypocrite, deceiver of the world, fierce as a beast and a traducer of all, is known as a Baidalavratika." 
+
++ Bakavritti. "Cranelike conduct,' religious hypocrisy. The reference is to the act of a crane which under the pretence of sleep watches the fish passing through an acqueduct till a big one passes when it suddenly pounces upon it.  
+Manu defines a Bako- vratika thus :--  
+" He is a dvija (twice-born) acting like the crane who (like a yogi) has a downward look, who is false and cruel, who is always bent on securing his own interest who is rogue and who is falsely modest." 
 </details>
 
 
@@ -381,21 +389,47 @@ ON THE KARMAS THAT OUGHT TO BE RENOUNCED.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेष्वन्वये सति सतामनुतापो भवेत् ; यदि ।  
-प्रायश्चित्तं ततः कुर्याद्रहस्यं च प्रकाशकम् ॥ २२ ॥
+तेष्व् अन्वये सति सताम्  
+अनुतापो भवेद् यदि ।  
+**प्रायश्-चित्तं** ततः **कुर्याद्**  
+रहस्यं च प्रकाशकम् ॥ २२ ॥
 </details>
+
+<details><summary>English</summary>
+
+12. In case there is any connection with these to the good, and if repentence sets in, they shall, then, perform prayaschitta both privately and publicly. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-बन्धकानि ; प्रपन्नस्तु न कुर्यात्तादृशान्यपि ॥ २१ ॥  
 तेष्वन्वये सति सतामनुतापो भवेत् ; यदि ।  
 प्रायश्चित्तं ततः कुर्याद्रहस्यं च प्रकाशकम् ॥ २२ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+प्रपन्नस्यानुतप्तस्य  
+**रहस्ये** त्व् **अधिकारिता** ।  
+प्रायश्-चिते ; यथेन्द्राय  
+कमलोवाच पृच्छते ।  
+</details>
+
+<details><summary>English</summary>
+
+23. To a repentent Prapanna there is authorisation to prayaschitta only in private. Thus has Lakshmi said to the [[320]] questioning Indra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 प्रपन्नस्यानुतप्तस्य रहस्ये त्वधिकारिता ।  
 प्रायश्चिते ; यथेन्द्राय कमलोवाच पृच्छते ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 रहस्यं तु (तत् ?) प्रपन्नस्य दर्शितं पूर्वपद्धतौ ।  
 एतदर्थमभिप्रेत्य पराशरवचो यथा-(वि. पु.)  
 “ कृते पापेऽनुतापो वै यस्य पुंसः प्रजायते । (.-6-40)  
