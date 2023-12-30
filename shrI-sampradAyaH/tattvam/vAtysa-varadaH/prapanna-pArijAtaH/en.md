@@ -7,34 +7,6 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-The Brahmaradin. 
-24. In the ways of yore secrecy has been pointed out. to a Prapanna. Implying the same idea the words of Parasara are as follow. 
-25. "To a person in whom repentence sets in when a sin is committed, the remembering of God alone is mention- ed as the highest atonement (prayaschitta)." 
-26. "O Maitreya! Swayambhu and other sages have- spoken of prayaschitta to be of the same degree as the sin (proportionate to), a severe one for a great sin and a light one for a slight sin." 
-27. 
-"All prayaschittas are of the nature of austerity (tapas) and rite (karma). Of all of them the constant re- membering of Krishna (God) is the highest." 
-28. That those rites which are done in a sacrifice either from negligence or from deviation from the right course become perfect by the remembering alone of God, is the teaching of the Srutis. 
-29. To him who is devoted to the meditation on God, expiatory rites (Kriyas) end with the setting in of that meditation; but to a foolish unbeliever those of ten year's duration are enjoined. 
-80. As the expiatory rites which ought to be done (kartavya) are prescribed to be of twelve years duration only to an atheist, by thus distinguishing the subject, there carr be no confusion of the 'severe one' and the 'light one.' 
-31. "The purification that arises to a soul (Kshetrajna) from the knowledge of Isvara (the Lord) is considered the highest." By Yajnavalkya who thus has said, is also des- cribed the purification of the soul that arises from a know- ledge of the relation of the appropriated and the appropriator (seshaseshi) that exists between the Soul and God (Atman and Iswara). 
-32. Even though a person be much addicted to sin, 
- 
-Prapannaparijuta. 
-321 
-meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the purifier of the pure who sanctify by their presence those persons that sit with them in the same row to dine (panktipavana). 
-33. Whether he be holy or unholy or even has fallen into all sorts of undesirable states of life, that person who shall think of God, becomes pure both internally and exter- nally. 
-34. To such men, meditators on God, mentioned by Sounaka and others who feel repentence when a sin is com- mitted, their expiatory rites end with the setting in of that meditation (ie., on God). 
-85. A Vaishnava, only giving up association with thos that are devoted to other deities than God and also with those that are devoted to other means than Prapatti, shall live with the prapannas. 
-36. A virtuous man (sadhu) shall not resort to a fool, nor a guru shall teach a fool. For, he who betakes himself to an ignorant person enters the darkness; and the know- ledge that is given to a fool is seed sown in a barren, saline soil. 
-87. The guru and the disciple shall not at anytime bear malice towards each other. Of these he who is malici- ously inclined falls from the path of freedom. 
-38-39. No person shall have recourse to God (Hari) with a mantra uninstructed by a guru. From cupidity a disciple shall not reproach a righteous guru. An intelli- gent man shall not appropriate anything without offering it to his guru. A good Vaishnava shall relinquish all those that hate his guru. 
-40-41. In a temple of Vishnu a Prapanna shall not commit spitting, and such other defilement; shall not wash his feet; nor walk between God and the altar; nor enter God's temple by any passage which is not intended as a regular 
-
-322 
-door way. 
-The Brahmaradin, 
-42-43. A Vaishnava shall never enter clothed in a blanket of blackwool; nor in a temple of Vishnu perform any other work but the lighting of lamps &c, the knitting of garlands and such other services of God. 
-44. He shall not salute any other deity, nor contem- plate any other deity; he shall not go up into any other temple nor enter any other sanctuary. 
 45. In the Varahapurana thirtytwo offences against God are especially considered. A Vaishnava shall abstain from them. 46. A Vaishnava shall not get, on his own behalf per- fumes, flowers,also clothes, jewels, animals, houses and other objects of enjoyment. 
 47. The idea of subserviency should not be entertain- ed in one's own sons &c, who are the manifestations of the glory of God (Vishnu). For a wise man shall always shun the feeling of meum (mamata). 
 48. An Ekanti (one who is devoted to one object) should not be designated with the appellations of Village, family &c, but he should be called by the names of Vishnu. For, his all is that Vishnu. 

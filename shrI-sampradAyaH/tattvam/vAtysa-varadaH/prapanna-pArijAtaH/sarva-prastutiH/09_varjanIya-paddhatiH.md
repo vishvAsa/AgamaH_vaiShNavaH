@@ -430,11 +430,39 @@ Manu defines a Bako- vratika thus :--
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+रहस्यं तु (तत् ?) प्रपन्नस्य  
+दर्शितं पूर्वपद्धतौ ।  
+एतद्-अर्थम् अभिप्रेत्य  
+पराशर-वचो यथा-(वि. पु.)  
+</details>
+
+<details><summary>English</summary>
+
+24. In the ways of yore secrecy has been pointed out. to a Prapanna. Implying the same idea the words of Parasara are as follow. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 रहस्यं तु (तत् ?) प्रपन्नस्य दर्शितं पूर्वपद्धतौ ।  
 एतदर्थमभिप्रेत्य पराशरवचो यथा-(वि. पु.)  
-“ कृते पापेऽनुतापो वै यस्य पुंसः प्रजायते । (.-6-40)  
-प्रायश्चित्तं तु तस्यैकं हरिसंस्मरणं परम् ॥"
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“कृते पापे **ऽनुतापो** वै  
+यस्य पुंसः **प्रजायते** । (.-6-40)  
+**प्रायश्-चित्तं** तु तस्यैकं  
+**हरि-संस्मरणं** परम् ॥"
+</details>
+
+<details><summary>English</summary>
+
+25. "To a person in whom repentence sets in when a sin is committed, the remembering of God alone is mention- ed as the highest atonement (prayaschitta)." 
+</details>
+ 
+
 
 <details><summary>मूलम्</summary>
 
@@ -448,9 +476,18 @@ Manu defines a Bako- vratika thus :--
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-" पापे गुरूणि गुरुणि स्वल्पान्यल्पे च तद्विदः। (2-6-78)  
-प्रायश्चित्तानि मैत्रेय ! जगुः स्वायम्भुवादयः ॥"
+" पापे **गुरूणि** गुरुणि  
+**स्वल्पान्य्** अल्पे च तद्-विदः। (2-6-78)  
+**प्रायश्-चित्तानि** मैत्रेय !  
+जगुः स्वायम्-भुवादयः ॥"
 </details>
+
+<details><summary>English</summary>
+
+26. "O Maitreya! Swayambhu and other sages have- spoken of prayaschitta to be of the same degree as the sin (proportionate to), a severe one for a great sin and a light one for a slight sin." 
+</details>
+ 
+
 
 <details><summary>मूलम्</summary>
 
@@ -460,9 +497,17 @@ Manu defines a Bako- vratika thus :--
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-" प्रायश्चित्तान्यशेषाणि तपःकर्मात्मकानि वै ।  
-यानि तेषामशेषाणां कृष्णानुस्मरणं परम् ॥” (2-6-39)
+"प्रायश्-चित्तान्य् अशेषाणि  
+तपः-कर्मात्मकानि वै ।  
+यानि तेषाम् अशेषाणां  
+**कृष्णानुस्मरणं परम्** ॥” (2-6-39)
 </details>
+
+<details><summary>English</summary>
+
+27. "All prayaschittas are of the nature of austerity (tapas) and rite (karma). Of all of them the constant re- membering of Krishna (God) is the highest." 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -472,45 +517,129 @@ Manu defines a Bako- vratika thus :--
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रमादात् क्रियते कर्म प्रच्यवेताध्वरेषु यत् ।  
-स्मरणादेव तद् विष्णोः सम्पूर्ण स्यादिति श्रुतिः ॥ २८ ॥
+**प्रमादात् क्रियते** कर्म  
+**प्रच्यवेताध्वरेषु** यत् ।  
+**स्मरणाद्** एव तद् विष्णोः  
+**सम्पूर्णं स्याद्** इति श्रुतिः ॥ २८ ॥
 </details>
+
+<details><summary>English</summary>
+
+28. That those rites which are done in a sacrifice either from negligence or from deviation from the right course become perfect by the remembering alone of God, is the teaching of the Srutis. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 प्रमादात् क्रियते कर्म प्रच्यवेताध्वरेषु यत् ।  
-स्मरणादेव तद् विष्णोः सम्पूर्ण स्यादिति श्रुतिः ॥ २८ ॥
+स्मरणादेव तद् विष्णोः सम्पूर्णं स्यादिति श्रुतिः ॥ २८ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-ध्यान-युक्तस्य  
+तद्-ध्यानावधिकाः +++(प्रायश्चित्तदि-)+++क्रियाः ।  
+(नास्तिकस्य तु कर्तव्यं  
+यथोक्तं दशवार्षिकम्)
+(नास्तिकस्य तु मूर्खस्य  
+युक्तं द्वादश-वार्षिकम् ॥)  
+</details>
+
+<details><summary>English</summary>
+
+29. To him who is devoted to the meditation on God, expiatory rites (Kriyas) end with the setting in of that meditation; but to a foolish unbeliever those of ten year's duration are enjoined. 
+80. As the expiatory rites which ought to be done (kartavya) are prescribed to be of twelve years duration only to an atheist, 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 भगवद्ध्यानयुक्तस्य तद्ध्यानावधिकाः क्रियाः ।  
 नास्तिकस्य तु मूर्खस्य युक्तं द्वादशवार्षिकम् ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भगवद्ध्यानयुक्तस्य तद्ध्यानावधिकाः क्रियाः ।  
-नास्तिकस्य तु मूर्खस्य युक्तं द्वादशवार्षिकम् ॥
+एवं **विषय-भेदेन**  
+गुरु-लघ्वोर् **न सङ्करः** ।  
+क्षेत्र-ज्ञस्येश्वर-ज्ञानात्  
+विशुद्धिः परमा मता" ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+by thus distinguishing the subject, there carr be no confusion of the 'severe one' and the 'light one.' 
+
+31. "The purification that arises to a soul (Kshetrajna) from the knowledge of Isvara (the Lord) is considered the highest." 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
 
 एवं विषयभेदेन गुरुलघ्वोर्न सङ्करः ।  
 क्षेत्रज्ञस्येश्वरज्ञानात् विशुद्धिः परमा मता" ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य् एवं याज्ञवल्क्येन  
+ब्रुवता ऽऽत्मेशयोर् अपि ।  
+शेष-शेषित्व-विज्ञानात्  
+**शुद्धिर्** जीवस्य **वर्णिता** ॥ ३१ ॥
+</details>
+
+<details><summary>English</summary>
+
+By Yajnavalkya who thus has said, is also des- cribed the purification of the soul that arises from a know- ledge of the relation of the appropriated and the appropriator (seshaseshi) that exists between the Soul and God (Atman and Iswara). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 इत्येवं याज्ञवल्क्येन ब्रुवताऽऽत्मेशयोरपि ।  
 शेषशेषित्वविज्ञानात् शुद्धिर्जीवस्य वर्णिता ॥ ३१ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं विषयभेदेन गुरुलघ्वोर्न सङ्करः ।  
-क्षेत्रज्ञस्येश्वरज्ञानात् विशुद्धिः परमा मता" ।  
-इत्येवं याज्ञवल्क्येन ब्रुवताऽऽत्मेशयोरपि ।  
-शेषशेषित्वविज्ञानात् शुद्धिर्जीवस्य वर्णिता ॥ ३१ ॥
+“अतिपाप-प्रवृत्तोऽपि  
+ध्यायन् निमिषम् अच्युतम् ।  
+भूयस् तपस्वी भवति  
+पङ्क्ति-पावन-पावनः । (वि.ध.)  
 </details>
 
+<details><summary>English</summary>
+
+[[321]]  
+32. Even though a person be much addicted to sin, 
+meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the purifier of the pure who sanctify by their presence those persons that sit with them in the same row to dine (panktipavana). 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अतिपापप्रवृत्तोऽपि ध्यायन्निमिषमच्युतम् ।  
+भूयस्तपस्वी भवति पङ्क्तिपावनपावनः । (वि.ध.)  
+
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपवित्रः पवित्रो वा  
+सर्वावस्थां गतोऽपि वा ।  
+यः स्मरेत् पुण्डरीकाक्षं  
+स बाह्याभ्यन्तरश्शुचिः ॥"
+</details>
+
+<details><summary>English</summary>
+
+33. Whether he be holy or unholy or even has fallen into all sorts of undesirable states of life, that person who shall think of God, becomes pure both internally and exter- nally. 
+</details>
+ 
+<details><summary>मूलम्</summary>
 
 “ अतिपापप्रवृत्तोऽपि ध्यायन्निमिषमच्युतम् ।  
 भूयस्तपस्वी भवति पङ्क्तिपावनपावनः । (वि.ध.)  
@@ -518,143 +647,190 @@ Manu defines a Bako- vratika thus :--
 यः स्मरेत् पुण्डरीकाक्षं स बाह्याभ्यन्तरश्शुचिः ॥"
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि-शौनकाद्युक्तेः  
+भगवज्-ज्ञानिनां नृणाम् ।  
+कृते पापे **ऽनुतप्तानां**  
+तद्-**ध्यानावधिकाः क्रियाः** ॥ ३४ ॥
+</details>
+
+<details><summary>English</summary>
+
+34. To such men, meditators on God, mentioned by Sounaka and others who feel repentence when a sin is com- mitted, their expiatory rites end with the setting in of that meditation (ie., on God). 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-“ अतिपापप्रवृत्तोऽपि ध्यायन्निमिषमच्युतम् ।  
-भूयस्तपस्वी भवति पङ्क्तिपावनपावनः । (वि.ध.)  
-अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपि वा ।  
-यः स्मरेत् पुण्डरीकाक्षं स बाह्याभ्यन्तरश्शुचिः ॥"
+इत्यादिशौनकाद्युक्तेः भगवज्ज्ञानिनां नृणाम् ।  
+कृते पापेऽनुतप्तानां तद्ध्यानावधिकाः क्रियाः ॥ ३४ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्यादिशौनकायुक्तेः भगवज्ज्ञानिनां नृणाम् ।  
-कृते पापेऽनुतप्तानां तद्ध्यानावधिकाः क्रियाः ॥ ३४ ॥
+देवतान्तर-संसक्तैः  
+**सङ्गं त्यक्त्वैव** वैष्णवः ।  
+उपायान्तर-सक्तैश् च,  
+**प्रपन्नैस् सह संवसेत्** ॥ ३५ ॥
 </details>
+
+<details><summary>English</summary>
+
+85. A Vaishnava, only giving up association with thos that are devoted to other deities than God and also with those that are devoted to other means than Prapatti, shall live with the prapannas. 
+</details>
+
 
 <details><summary>मूलम्</summary>
-
-इत्यादिशौनकायुक्तेः भगवज्ज्ञानिनां नृणाम् ।  
-कृते पापेऽनुतप्तानां तद्ध्यानावधिकाः क्रियाः ॥ ३४ ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवतान्तरसंसक्तैः सङ्गं त्यक्त्वैव वैष्णवः ।  
 उपायान्तरसक्तैश्च, प्रपन्नैस्सह संवसेत् ॥ ३५ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवतान्तरसंसक्तैः सङ्गं त्यक्त्वैव वैष्णवः ।  
-उपायान्तरसक्तैश्च, प्रपन्नैस्सह संवसेत् ॥ ३५ ॥
+**न** मूर्खम् **आश्रयेत्** साधुर्  
+**न** मूर्खाय गुरुर् **वदेत्** ।  
+य **आश्रयेद्** अ-विद्वांसं  
+तमसस् तु **तमो विशेत्** ॥ ३६ ॥  
+मूर्ख (र्खे ?) **दत्तं** तु यज् ज्ञानम्  
+**उप्तं** बीजम् इवोषरे ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+<details><summary>English</summary>
+
+36. A virtuous man (sadhu) shall not resort to a fool, nor a guru shall teach a fool. For, he who betakes himself to an ignorant person enters the darkness; and the know- ledge that is given to a fool is seed sown in a barren, saline soil. 
+</details>
+
+<details><summary>मूलम्</summary>
 
 न मूर्खमाश्रयेत् साधुः न मूर्खाय गुरुर्वदेत् ।  
-य आश्रयेदविद्वांसं तमसस्तु तमो विशेत् ॥ ३६ ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-न मूर्खमाश्रयेत् साधुः न मूर्खाय गुरुर्वदेत् ।  
-य आश्रयेदविद्वांसं तमसस्तु तमो विशेत् ॥ ३६ ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+य आश्रयेदविद्वांसं तमसस्तु तमो विशेत् ॥ ३६ ॥  
 मूर्ख (र्खे ?) दत्तं तु यज्ज्ञानम् उप्तं बीजमिवोषरे ।  
-अन्योन्यस्मै गुरुच्छात्रौ न द्रुह्येतां कदाचन ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-मूर्ख (र्खे ?) दत्तं तु यज्ज्ञानम् उप्तं बीजमिवोषरे ।  
-अन्योन्यस्मै गुरुच्छात्रौ न द्रुह्येतां कदाचन ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यो द्रुद्यत्यनयोः, सोऽयं दृश्यते मुक्तिमार्गतः ॥  
+अन्यो ऽन्यस्मै गुरुच्-छात्रौ  
+**न द्रुह्येतां** कदाचन ॥  
+यो द्रुह्यत्य् अनयोः, सोऽयं  
+भ्रश्यते मुक्ति-मार्गतः ॥  
+</details>
+
+<details><summary>English</summary>
+
+87. The guru and the disciple shall not at anytime bear malice towards each other. Of these he who is malici- ously inclined falls from the path of freedom. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्योन्यस्मै गुरुच्छात्रौ न द्रुह्येतां कदाचन ॥  
+यो द्रुह्यत्यनयोः, सोऽयं भ्रश्यते मुक्तिमार्गतः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनादिष्टेन गुरुणा  
+मन्त्रेण **न** हरिं **श्रयेत्** ॥ ३८ ॥
+गुरुं **न गर्हयेच्** छिष्यो  
+धार्मिकं त्व् अर्थ-लोभतः ।  
+**अनिवेद्य** गुरोः किञ्चिन्  
+**नोपयुञ्जीत** बुद्धिमान् ॥ ३९ ॥  
+गुरु-विद्वेषिणः सर्वान्  
+**वर्जयेद्** वैष्णवोत्तमः ।  
+</details>
+
+<details><summary>English</summary>
+
+38-39. No person shall have recourse to God (Hari) with a mantra uninstructed by a guru. From cupidity a disciple shall not reproach a righteous guru. An intelli- gent man shall not appropriate anything without offering it to his guru. A good Vaishnava shall relinquish all those that hate his guru. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अनादिष्टेन गुरुणा मन्त्रेण न हरिं श्रयेत् ॥ ३८ ॥
+गुरुं न गर्हयेच्छिष्यो धार्मिकं त्वर्थलोभतः ।  
+अनिवेद्य गुरोः किञ्चित् नोपयुञ्जीत बुद्धिमान् ॥ ३९ ॥  
+गुरुविद्वेषिणः सर्वान् वर्जयेद्वैष्णवोत्तमः ।  
 </details>
 
-<details><summary>मूलम्</summary>
-
-यो द्रुद्यत्यनयोः, सोऽयं दृश्यते मुक्तिमार्गतः ॥  
-अनादिष्टेन गुरुणा मन्त्रेण न हरिं श्रयेत् ॥ ३८ ॥
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गुरुं न गर्हयेच्छिप्यो धार्मिकं त्वर्थलोभतः ।  
-अनिवेद्य गुरोः किञ्चित् नोपयुञ्जीत बुद्धिमान् ॥ ३९ ॥
+विष्ण्व्-आलये **न** कुर्यात् तु  
+**निष्ठीवन-मलादिकम्** ॥ १० ॥
+पादौ **न क्षालयेत्** तत्र  
+**नान्तरा** देव-पीठयोः ।  
+**गच्छेत्** प्रपन्नो **नाद्वारात्**  
+**संविशेद्** +धरि-मन्दिरम् ॥ ४१ ॥
 </details>
+
+<details><summary>English</summary>
+
+40-41. In a temple of Vishnu a Prapanna shall not commit spitting, and such other defilement; shall not wash his feet; nor walk between God and the altar; nor enter God's temple by any passage which is not intended as a regular [[322]] door way. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-गुरुं न गर्हयेच्छिप्यो धार्मिकं त्वर्थलोभतः ।  
-अनिवेद्य गुरोः किञ्चित् नोपयुञ्जीत बुद्धिमान् ॥ ३९ ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-गुरुविद्वेषिणः सर्वान् वजयेद्वैष्णवोत्तमः ।  
 विष्ण्वालये न कुर्यात्तु निष्ठीवनमलादिकम् ॥ १० ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-गुरुविद्वेषिणः सर्वान् वजयेद्वैष्णवोत्तमः ।  
-विष्ण्वालये न कुर्यात्तु निष्ठीवनमलादिकम् ॥ १० ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 पादौन क्षालयेत्तत्र नान्तरा देवपीठयोः ।  
 गच्छेत् प्रपन्नो नाद्वारात् संविशेद्धरिमन्दिरम् ॥ ४१ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पादौन क्षालयेत्तत्र नान्तरा देवपीठयोः ।  
-गच्छेत् प्रपन्नो नाद्वारात् संविशेद्धरिमन्दिरम् ॥ ४१ ॥
+कृष्ण-कम्बल-संवीतो  
+**न विशेज्** जातु वैष्णवः ।  
+विना जपादिकं कर्म  
+तन्-माला-बन्धनादिकम् ॥  
+अन्यत् कार्यं **न कुर्वीत**  
+वैष्णवो विष्णु-मन्दिरे ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+42-43. A Vaishnava shall never enter clothed in a blanket of blackwool; nor in a temple of Vishnu perform any other work but the lighting of lamps &c, the knitting of garlands and such other services of God. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 कृष्णकम्बलसंवीतो न विशेज्जातु वैष्णवः ।  
-विना जपादिकं कर्म तन्मालाबन्धनादिकम् ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-कृष्णकम्बलसंवीतो न विशेज्जातु वैष्णवः ।  
-विना जपादिकं कर्म तन्मालाबन्धनादिकम् ॥
+विना जपादिकं कर्म तन्मालाबन्धनादिकम् ॥  
+अन्यत् कार्यं न कुर्वीत वैष्णवो विष्णुमन्दिरे ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्यत् कार्यं न कुर्वीत वैष्णवो विष्णुमन्दिरे ।  
-नान्यं देवं नमस्कुर्यात् नान्यं देवं निरीक्षयेत् ॥ ४३ ॥
+**नान्यं** देवं **नमस्-कुर्यात्**  
+नान्यं देवं **निरीक्षयेत्** ॥ ४३ ॥  
+नान्यं प्रासादम् **आरोहेत्**  
+नान्यद् आयतनं **विशेत्** ।  
 </details>
+
+<details><summary>English</summary>
+
+44. He shall not salute any other deity, nor contem- plate any other deity; he shall not go up into any other temple nor enter any other sanctuary. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-अन्यत् कार्यं न कुर्वीत वैष्णवो विष्णुमन्दिरे ।  
-नान्यं देवं नमस्कुर्यात् नान्यं देवं निरीक्षयेत् ॥ ४३ ॥
+नान्यं देवं नमस्कुर्यात् नान्यं देवं निरीक्षयेत् ॥ ४३ ॥  
+नान्यं प्रासादमारोहेत् नान्यदायतनं विशेत् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नान्यं प्रासादमारोहेत् नान्यदायतनं विशेत् ।  
-उद्देशतस्तु द्वात्रिंशदपचारा हरेः स्मृताः ॥ ४४ ॥
+उद्देशतस् तु द्वात्रिंशद्  
+अपचारा हरेः स्मृताः ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नान्यं प्रासादमारोहेत् नान्यदायतनं विशेत् ।  
 उद्देशतस्तु द्वात्रिंशदपचारा हरेः स्मृताः ॥ ४४ ॥
 </details>
 
