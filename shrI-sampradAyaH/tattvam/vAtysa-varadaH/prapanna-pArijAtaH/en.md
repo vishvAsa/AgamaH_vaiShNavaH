@@ -7,19 +7,8 @@ Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
 
 
-45. In the Varahapurana thirtytwo offences against God are especially considered. A Vaishnava shall abstain from them. 46. A Vaishnava shall not get, on his own behalf per- fumes, flowers,also clothes, jewels, animals, houses and other objects of enjoyment. 
-47. The idea of subserviency should not be entertain- ed in one's own sons &c, who are the manifestations of the glory of God (Vishnu). For a wise man shall always shun the feeling of meum (mamata). 
-48. An Ekanti (one who is devoted to one object) should not be designated with the appellations of Village, family &c, but he should be called by the names of Vishnu. For, his all is that Vishnu. 
-49. 
-As of a river which has entered into the ocean all names are but the names of that ocean, so of an Ekanti who has completely surrendered himself to Vishnu. 
-50. He shall not also do crossing the shadows of the holy sages and such other acts. He shall always remain with spiritual men and shall avoid dispute with them. 
-51. The Vishvaksena Samhita of Pancharatra Agama thus enjoins a Prapanna. He shall not evince taste for an unvaishnavic look or love to an unrighteous sastra. 
-52-53. He shall not take a false oath, nor consult (astrologers &c.) for good and evil. With base mantras he shall not effect extraction of poison, exorcism of devils and other evil spirits and the cure of all diseases. 
+
  
-Prapannaparijala. 
-323 
-54. He shall not wear matted tresses, also he shall not wear ashes. He shall give up for life all heterodox marks. 
-55. My idea is that wherever the Vaishnavic course of conduct approved of by wise men is in vogue, in any such place shall he always live and not elsewhere. 
 56. Any how for the sake of livelihood one shall not fol- low the ways of the world. Occupying that profession which is to the approval of the good and is consistent with place and time, he shall not, out of temptation, resort to vulgar means. 
 57-58. Bhagavan Vyasa has, in this connection, pointed out what ought to be rejected by the virtuous :- 
 "There is no moksha to him who takes delight in the science of words (sabda sastra) and also to him who is fond of fine habitation; not to him who is exclusively devoted to food and clothing; nay to him who is bent on captivating the minds of people. But to him who is of a retiring dis- position, of firm practice, who has withdrawn from the plea- sures of the senses, whose mind is devoted to the knowledge of the Supreme Spirit, and who is always harmless, moksha is certain." 

@@ -826,95 +826,207 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्देशतस् तु द्वात्रिंशद्  
-अपचारा हरेः स्मृताः ॥ ४४ ॥
+**अपचारा** हरेः **स्मृताः** ॥ ४४ ॥  
+पुराणे खलु वाराहे,  
+**वर्जयेद्** वैष्णवस् तु तान् ।  
 </details>
+
+<details><summary>English</summary>
+
+45. In the Varahapurana thirtytwo offences against God are especially considered. A Vaishnava shall abstain from them. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-उद्देशतस्तु द्वात्रिंशदपचारा हरेः स्मृताः ॥ ४४ ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+उद्देशतस् तु द्वात्रिंशदपचारा हरेः स्मृताः ॥ ४४ ॥
 पुराणे खलु वाराहे, वर्जयेद्वैष्णवस्तु तान् ।  
-गन्धं पुष्पं तथा वासो भूषणानि पशून् गृहान् ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-पुराणे खलु वाराहे, वर्जयेद्वैष्णवस्तु तान् ।  
-गन्धं पुष्पं तथा वासो भूषणानि पशून् गृहान् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा भोज्या (ग्या)नि चान्यानि नात्मार्थे वैष्णवो हरेत् ।  
-कर्तव्या शेषताबुद्धिः नात्मनस्तनयादिषु ॥
+गन्धं पुष्पं तथा वासो  
+भूषणानि पशून् गृहान् ॥  
+तथा भोज्या(ग्या)नि चान्यानि  
+**नात्मार्थे** वैष्णवो **हरेत्** ।  
 </details>
+
+<details><summary>English</summary>
+
+46. A Vaishnava shall not get, on his own behalf per- fumes, flowers,also clothes, jewels, animals, houses and other objects of enjoyment. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+गन्धं पुष्पं तथा वासो भूषणानि पशून् गृहान् ॥  
 तथा भोज्या (ग्या)नि चान्यानि नात्मार्थे वैष्णवो हरेत् ।  
-कर्तव्या शेषताबुद्धिः नात्मनस्तनयादिषु ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+**कर्तव्या** शेषता-बुद्धिः  
+नात्मनस् तनयादिषु ॥  
+विष्णोर् विभूति-भूतेषु  
+ममतां **वर्जयेत्** सुधीः ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+47. The idea of subserviency should not be entertain- ed in one's own sons &c, who are the manifestations of the glory of God (Vishnu). For a wise man shall always shun the feeling of meum (mamata). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कर्तव्या शेषताबुद्धिः नात्मनस्तनयादिषु ॥   
 विष्णोविभूतिभूतेषु ममतां वर्जयेत् सुधीः ।  
-" एकान्ती व्यपदेष्टव्यो नैव ग्रामकुलादिभिः। (वि. सं.)  
-विष्णुना व्यपदेष्टव्यः तस्य सर्वे स एव हि ।"  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"एकान्ती व्यपदेष्टव्यो  
+नैव ग्राम-कुलादिभिः। (वि. सं.)  
+**विष्णुना व्यपदेष्टव्यस्**  
+तस्य सर्वे स एव हि ।"  
+</details>
+
+<details><summary>English</summary>
+
+48. An Ekanti (one who is devoted to one object) should not be designated with the appellations of Village, family &c, but he should be called by the names of Vishnu. For, his all is that Vishnu. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"एकान्ती व्यपदेष्टव्यो  नैव ग्रामकुलादिभिः। (वि. सं.)  
+विष्णुना व्यपदेष्टव्यस्तस्य सर्वे स एव हि ।"  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नद्यास् तस्यैव नामानि  
+प्रविष्टाया यथाऽर्णवम् ।  
+सर्वात्मना प्रपन्नस्य  
+विष्णुम् एकान्तिनस् तथा ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+49. As of a river which has entered into the ocean all names are but the names of that ocean, so of an Ekanti who has completely surrendered himself to Vishnu. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 नद्यास्तस्यैव नामानि प्रविष्टाया यथाऽर्णवम् ।  
 सर्वात्मना प्रपन्नस्य विष्णुमेकान्तिनस्तथा ।  
 छायाविलङ्घनादीनि न कुर्याच्च सतां सदा ॥ ४९॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विष्णोविभूतिभूतेषु ममतां वर्जयेत् सुधीः ।  
-" एकान्ती व्यपदेष्टव्यो नैव ग्रामकुलादिभिः। (वि. सं.)  
-विष्णुना व्यपदेष्टव्यः तस्य सर्वे स एव हि ।"  
-नद्यास्तस्यैव नामानि प्रविष्टाया यथाऽर्णवम् ।  
-सर्वात्मना प्रपन्नस्य विष्णुमेकान्तिनस्तथा ।  
-छायाविलङ्घनादीनि न कुर्याच्च सतां सदा ॥ ४९॥
+छाया-विलङ्घनादीनि  
+**न कुर्याच्** च सतां सदा ॥ ४९॥
+सद्भिश् च **सह वर्तेत**  
+विवादं तेषु **वर्जयेत्** ।  
 </details>
 
+<details><summary>English</summary>
+
+50. He shall not also do crossing the shadows of the holy sages and such other acts. He shall always remain with spiritual men and shall avoid dispute with them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+छायाविलङ्घनादीनि  न कुर्याच्च सतां सदा ॥ ४९॥
+सद्भिश्च सह वर्तेत विवादं तेषु वर्जयेत् ।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नान् अनुशास्तीत्थं  
+श्रीमत्-सेनेश-संहिता-  
+"नावैष्णव-ग्रन्थ-रुचिः  
+नासच्-छास्त्र-रतो भवेत् ।  
+**नानृतं शपथं** कुर्यान्  
+**न** च **पृच्छेच्** छुभाशुभे +++(फल-ज्योतिषिकादिभ्यः)+++ ।  
+</details>
+
+<details><summary>English</summary>
+
+51. The Vishvaksena Samhita of Pancharatra Agama thus enjoins a Prapanna. He shall not evince taste for an unvaishnavic look or love to an unrighteous sastra. 
+52-53. He shall not take a false oath, nor consult (astrologers &c.) for good and evil. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 सद्भिश्च सह वर्तेत विवादं तेषु वर्जयेत् ।  
 प्रपन्नान् अनुशास्तीत्थं श्रीमत्सेनेशसंहिता-  
 " नावैष्णवग्रन्थरुचिः नासच्छास्त्ररतो भवेत् ।  
 नानृतं शपथं कुर्यात् न च पृच्छेच्छुभाशुभे ।  
-विषनिर्हरणं चापि पिशाचादिविमोचनम् ।  
-समस्तव्याधिहरणं क्षुद्रमन्त्रैर्न साधयेत् ॥ ५२ ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-सद्भिश्च सह वर्तेत विवादं तेषु वर्जयेत् ।  
-प्रपन्नान् अनुशास्तीत्थं श्रीमत्सेनेशसंहिता-  
-" नावैष्णवग्रन्थरुचिः नासच्छास्त्ररतो भवेत् ।  
-नानृतं शपथं कुर्यात् न च पृच्छेच्छुभाशुभे ।  
-विषनिर्हरणं चापि पिशाचादिविमोचनम् ।  
-समस्तव्याधिहरणं क्षुद्रमन्त्रैर्न साधयेत् ॥ ५२ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विष-निर्हरणं चापि  
+पिशाचादि-विमोचनम् ।  
+समस्त-व्याधि-हरणं  
+क्षुद्र-मन्त्रैर् **न साधयेत्** ॥ ५२ ॥
+</details>
+
+<details><summary>English</summary>
+
+With base mantras he shall not effect extraction of poison, exorcism of devils and other evil spirits and the cure of all diseases. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विषनिर्हरणं चापि पिशाचादिविमोचनम् ।  
+समस्तव्याधिहरणं क्षुद्रमन्त्रैर्न साधयेत् ॥ ५२ ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**न धारयेज्** जटा-भारं  
+भस्म चैव **न धारयेत्** ।  
+बाह्य-लिङ्गानि सर्वाणि  
+सन्त्यजेद् यावद् आयुषम् ॥ ५३ ॥
+</details>
+
+<details><summary>English</summary>
+
+[[323]]   
+54. He shall not wear matted tresses, also he shall not wear ashes. He shall give up for life all heterodox marks. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 न धारयेज्जटाभारं भस्म चैव न धारयेत् ।  
 बाह्यलिङ्गानि सर्वाणि सन्त्यजेद्यावदायुषम् ॥ ५३ ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-न धारयेज्जटाभारं भस्म चैव न धारयेत् ।  
-बाह्यलिङ्गानि सर्वाणि सन्त्यजेद्यावदायुषम् ॥ ५३ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत्र यत्र हि नीतिः स्यात् वैष्णवी शिष्टसम्मता ।  
-तत्र तत्र वसेन्नित्यं नान्यत्रेति मतिर्मम ॥ ५४ ॥
+यत्र यत्र हि **नीतिः स्यात्**  
+वैष्णवी शिष्ट-सम्मता ।  
+तत्र तत्र **वसेन्** नित्यं  
+नान्यत्रेति मतिर् मम ॥ ५४ ॥
 </details>
+
+<details><summary>English</summary>
+
+55. My idea is that wherever the Vaishnavic course of conduct approved of by wise men is in vogue, in any such place shall he always live and not elsewhere. 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
