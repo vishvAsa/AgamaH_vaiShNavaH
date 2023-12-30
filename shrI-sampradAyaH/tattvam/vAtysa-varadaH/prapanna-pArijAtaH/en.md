@@ -3,39 +3,8 @@ title = "en"
 +++
 
 Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
-
-
-
-
-
  
-56. Any how for the sake of livelihood one shall not fol- low the ways of the world. Occupying that profession which is to the approval of the good and is consistent with place and time, he shall not, out of temptation, resort to vulgar means. 
-57-58. Bhagavan Vyasa has, in this connection, pointed out what ought to be rejected by the virtuous :- 
-"There is no moksha to him who takes delight in the science of words (sabda sastra) and also to him who is fond of fine habitation; not to him who is exclusively devoted to food and clothing; nay to him who is bent on captivating the minds of people. But to him who is of a retiring dis- position, of firm practice, who has withdrawn from the plea- sures of the senses, whose mind is devoted to the knowledge of the Supreme Spirit, and who is always harmless, moksha is certain." 
-59. He shall not welcome death, he shall not welcome life. As the hireling his wage, so shall he abide his time. 
-60. Mostly those people who have not accomplished the object of their lives shrink from death; but those who have accomplished their objects await death like a welcome guest. 
-61. A person shall never pray to Vishnu (God) for any other reward than love (Bhakti) and knowledge (gnana) at his feet; for, by so praying he is sure to go to ruin. 
-62. If an offence is given to a sage either from negli- gence or from intention, repentant one shall seek him alone for forgivness, otherwise there will be no palliation. 
-63. Even in the case of an offence againist God this expiation is unsurpassed. A wise man shall avoid all carnality. 
- 
-324 
-The Brahmavadın. 
-64. Therefore shall a wise man completely renounce the objects of the senses like poison. An ignorant is called a vulgar man of the world but a wise man, a Vaishnava. 
-65. A wise man shall not do anything with any un- wise man. 
-This has been said by the Lord in the Pancha- ratra Sastra, also by Mana and others. 
-66-67. Therefore a pious Vaishnava skall shun con- tact with a vulgar man of the world. Intermingling is said to be of eight kinds which ought not to be held with an- blushing sensualists;-occupying one bed, one seat, sitting in one row with other people, using one pot, intermixing cooked food, conducting sacrificial rites, teaching the Vedas, intermarriage and interdining. 
-68. Sins enter into men by conversation, touch and the manner of sleeping, by sitting and lying down together, by the functions of a priest and of an instructor, and by inter- marriage. 
-69. Through conducting sacrifices, through reaching the Veda and learning them, through lying down, sitting and sleeping together, having associated with a fallen man for a year one falls. 
-70. The delineation of this conmmingting (sankara) by Brihaspati and, Manu is diverse. But the power of con- ducting sacrifices and such other intercourses to cause degra dation is immediate. 
-71. To the high souled Vaishnavas who are devoted to the knowledge of self-surrender (Nyasavidya) the praise of the low sensualists is declared to be a censure and their censure, praise. 
-72–73. © worldlings! henceforth you are yourselves and we are ourselves. You are devoted to worldly prosperity and sensual enjoyments and we are devoted to Narayana (God). There can be no intercourse whatever between you and us. You are servants of senses but we are servants of (God) Vishnu. 
-(To be Continued.) 
-PRAPANNAPARIJATA, 
-(Continued from page 334.) 
-CHAPTER X. 
-ON THE DAWN OF FRUITION. 
-1. Vishnu overcome with intense love goes after those that have thus taken refuge with the feet of Vishnu and are disignated His life (Prana). 
-2. That the wise man is myself, is my creed'. So has been said by the Lord Himself. The high-souled person who, at the end of many deaths and births, by good fortune resorts to Vishnu knowing that he is the all, is very difficult to be met with. 
+
 3. It has been said by Bhagavan Vishnu in the Pan- charatra Sastra that the satisfaction of a Prapanna in having achieved his object is unsurpassed love to God and the consciousness of His distinction from all. 
 4-5. He who adopting Vishnu as the means accom- plishes another object is said to be the lowest. He who adopting other means aims at the attainment of Vishnu is said to be mediocre. He who adopting the pair of Madhava's feet as the means attains the feet of Madhava (God) is the best qualified, and has here, in this birth accomplished his object. 
 6. God of his own accord receives on His head all the worship which are made by men whose minds are devoted to one object. 

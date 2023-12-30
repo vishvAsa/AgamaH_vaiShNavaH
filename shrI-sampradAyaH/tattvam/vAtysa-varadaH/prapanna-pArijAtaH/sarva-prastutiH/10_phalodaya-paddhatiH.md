@@ -3,11 +3,26 @@ title = "१० फलोदय-पद्धतिः"
 
 +++
 
+<details><summary>English</summary>
+
+CHAPTER X. 
+ON THE DAWN OF FRUITION. 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं प्रपन्ना विष्णोस्तु पादौ तत्प्राणसञ्ज्ञितान् (ताः ?)  
-अनुव्रजति तान् विष्णुः अत्यर्थप्रेमविह्वलः ॥ १ ॥
+एवं प्रपन्ना विष्णोस् तु  
+पादौ, तत्-प्राण-सञ्ज्ञितान् (ताः ?)  
+**अनुव्रजति** तान् विष्णुर्  
+अत्यर्थ-प्रेम-विह्वलः ॥ १ ॥
 </details>
+
+<details><summary>English</summary>
+
+1. Vishnu overcome with intense love goes after those that have thus taken refuge with the feet of Vishnu and are disignated His life (Prana). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -17,31 +32,45 @@ title = "१० फलोदय-पद्धतिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतद् गीतं भगवता, "ज्ञानी त्वात्मैव मे मतम् ” ।  
-बहुजन्मसहस्रान्ते दिष्टया यस्तु प्रपद्यते ॥
+एतद् **गीतं** भगवता,  
+"ज्ञानी त्व् आत्मैव मे **मतम्** ” ।  
+बहु-जन्म-सहस्रान्ते  
+दिष्ट्या यस्तु **प्रपद्यते** ॥  
+वासुदेवः सर्वम् इति,  
+स महात्मा सुदुर्लभः ।  
 </details>
+
+<details><summary>English</summary>
+
+2. That the wise man is myself, is my creed'. So has been said by the Lord Himself. The high-souled person who, at the end of many deaths and births, by good fortune resorts to Vishnu knowing that he is the all, is very difficult to be met with. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 एतद् गीतं भगवता, "ज्ञानी त्वात्मैव मे मतम् ” ।  
-बहुजन्मसहस्रान्ते दिष्टया यस्तु प्रपद्यते ॥
+बहुजन्मसहस्रान्ते दिष्ट्या यस्तु प्रपद्यते ॥  
+वासुदेवः सर्वमिति, स महात्मा सुदुर्लभः ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वासुदेवः सर्वमिति, स महात्मा सुदुर्लभः ।  
-उक्ता शास्त्रे भगवता प्रपन्ने कृतकृत्यता ॥
+उक्ता शास्त्रे भगवता  
+प्रपन्ने कृत-कृत्यता ॥  
+तस्मिंश् चानुत्तमा प्रीतिः  
+तस्या ऽशेष-विशिष्टता ।  
 </details>
+
+
 
 <details><summary>मूलम्</summary>
 
-वासुदेवः सर्वमिति, स महात्मा सुदुर्लभः ।  
-उक्ता शास्त्रे भगवता प्रपन्ने कृतकृत्यता ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+उक्ता शास्त्रे भगवता प्रपन्ने कृतकृत्यता ॥  
 तस्मिंश्चानुत्तमा प्रीतिः तस्याऽशेषविशिष्टता ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 “ विष्णूपायो योऽन्यफलः सोऽधमः परिकीर्तितः  
 अन्योपायो विष्णुफलः मध्यमः परिकीर्तितः ।  
 माधवाङ्घ्रिद्वयोपायो माधवाङ्घ्रिप्रयोजनः ॥

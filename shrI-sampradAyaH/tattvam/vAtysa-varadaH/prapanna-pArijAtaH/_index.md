@@ -5,6 +5,8 @@ title = "+प्रपन्न-पारिजातः"
 
 Source: [TW](https://archive.org/details/in.ernet.dli.2015.382811/page/n39/mode/2up)
 
+Source: [आङ्ग्लिकेन](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
+
 श्रीः  
 श्रीप्रणतार्तिहरवरदपरब्रह्मणे नमः  
 श्रीमते रामानुजाय नमः  

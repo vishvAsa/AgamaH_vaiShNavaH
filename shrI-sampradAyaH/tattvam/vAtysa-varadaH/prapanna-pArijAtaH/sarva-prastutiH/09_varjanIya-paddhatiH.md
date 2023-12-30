@@ -1036,6 +1036,47 @@ With base mantras he shall not effect extraction of poison, exorcism of devils a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+**न** लोक-वृत्तिं **वर्तेत**  
+वृत्ति-हेतोः कथञ्चन ।  
+सत्-सम्मता तु या वृत्तिः  
+देश-कालानुरूपिणी ।  
+ताम् आस्थितो **न** लोभेन  
+हीनां वृत्ति **समाश्रयेत्** " ।  
+</details>
+
+<details><summary>English</summary>
+
+56. Any how for the sake of livelihood one shall not fol- low the ways of the world. Occupying that profession which is to the approval of the good and is consistent with place and time, he shall not, out of temptation, resort to vulgar means. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न लोकवृत्तिं वर्तेत वृत्तिहेतोः कथञ्चन ।  
+सत्सम्मता तु या वृत्तिः देशकालानुरूपिणी ।  
+तामास्थितो न लोभेन हीनां वृत्ति समाश्रयेत् " ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यासस् तु भगवान् **आह**  
+**वर्जनीयं** सताम् इह-  
+"न शब्द-शास्त्राभिरतस्य मोक्षो  
+न चापि रम्यावसथप्रियस्य ।  (इति. स. 2-10)  
+न भोजनाच्छादन-तत्परस्य  
+न लोक-चित्त-ग्रहणे रतस्य " ॥५७॥
+</details>
+
+<details><summary>English</summary>
+
+57-58. Bhagavan Vyasa has, in this connection, pointed out what ought to be rejected by the virtuous :- 
+"There is no moksha to him who takes delight in the science of words (sabda sastra) and also to him who is fond of fine habitation; not to him who is exclusively devoted to food and clothing; nay to him who is bent on captivating the minds of people. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न लोकवृत्तिं वर्तेत वृत्तिहेतोः कथञ्चन ।  
 सत्सम्मता तु या वृत्तिः देशकालानुरूपिणी ।  
 तामास्थितो न लोभेन हीनां वृत्ति समाश्रयेत् " ।  
@@ -1045,202 +1086,322 @@ With base mantras he shall not effect extraction of poison, exorcism of devils a
 न भोजनाच्छादनतत्परस्य न लोकचित्तग्रहणे रतस्य " ॥५७॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“एकान्त-शीलस्य दृढ-व्रतस्य  
+पञ्चेन्द्रिय-प्रीति-निवर्तकस्य ।  
+अध्यात्म-विद्या-रत-मानसस्य  
+मोक्षो ध्रुवो नित्यम् अहिंसकस्य " ॥५८॥
+</details>
+
+<details><summary>English</summary>
+
+But to him who is of a retiring dis- position, of firm practice, who has withdrawn from the plea- sures of the senses, whose mind is devoted to the knowledge of the Supreme Spirit, and who is always harmless, moksha is certain." 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-न लोकवृत्तिं वर्तेत वृत्तिहेतोः कथञ्चन ।  
-सत्सम्मता तु या वृत्तिः देशकालानुरूपिणी ।  
-तामास्थितो न लोभेन हीनां वृत्ति समाश्रयेत् " ।  
-व्यासस्तु भगवानाह वर्जनीयं सतामिह-  
-"न शब्दशास्त्राभिरतस्य मोक्षो न चापि रम्यावसथप्रियस्य ।  
-(इति. स. 2-10)  
-न भोजनाच्छादनतत्परस्य न लोकचित्तग्रहणे रतस्य " ॥५७॥
+“एकान्तशीलस्य दृढव्रतस्य पञ्चेन्द्रियप्रीतिनिवर्तकस्य ।  
+अध्यात्मविद्यारतमानसस्य मोक्षो ध्रुवो नित्यमहिंसकस्य " ॥५८॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“ एकान्तशीलस्य दृढव्रतस्य पञ्चेन्द्रियप्रीतिनिवर्तकस्य ।  
-अध्यात्मविद्यारतमानसस्य मोक्षो ध्रुवो नित्यमहिंसकस्य " ॥५८॥
+"**नाभिनन्देत** मरणं  
+**नाभिनन्देत** जीवितम् ।  
+कालम् एव प्रतीक्षेत  
+निर्वेशं+++(=वेतनं)+++ भृतको यथा" ॥५९॥ (मनु. 6-45)
 </details>
+
+<details><summary>English</summary>
+
+59. He shall not welcome death, he shall not welcome life. As the hireling his wage, so shall he abide his time. 
+</details>
+
 
 <details><summary>मूलम्</summary>
-
-“ एकान्तशीलस्य दृढव्रतस्य पञ्चेन्द्रियप्रीतिनिवर्तकस्य ।  
-अध्यात्मविद्यारतमानसस्य मोक्षो ध्रुवो नित्यमहिंसकस्य " ॥५८॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 " नाभिनन्देत मरणं नाभिनन्देत जीवितम् ।  
 कालमेव प्रतीक्षेत निर्वेशं भृतको यथा" ॥५९॥ (मनु. 6-45)
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रायेणाऽकृत-कृत्यत्वात्  
+मृत्योर् **उद्विजते** जनः ।  
+कृत-कृत्याः **प्रतीक्षन्ते**  
+मृत्युं प्रियम् इवातिथिम् ॥ ६० ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+60. Mostly those people who have not accomplished the object of their lives shrink from death; but those who have accomplished their objects await death like a welcome guest. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-" नाभिनन्देत मरणं नाभिनन्देत जीवितम् ।  
-कालमेव प्रतीक्षेत निर्वेशं भृतको यथा" ॥५९॥ (मनु. 6-45)
+प्रायेणाऽकृतकृत्यत्वात् मृत्योरुद्विजते जनः ।  
+कृतकृत्याः प्रतीक्षन्ते मृत्युं प्रियमिवातिथिम् ॥ ६० ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रायेणाऽकृतकृत्यत्वात् मृत्योरुद्विजते जनः ।  
-कृतकृत्याः प्रतीक्षन्ते मृत्यु प्रियमिवातिथिम् ॥ ६० ॥
+तत्-पाद-भक्ति-ज्ञानाभ्यां  
+फलम् अन्यत् कदाचन ।  
+**न याचेत्** पुरुषो विष्णुं  
+याचनान् **नश्यति** ध्रुवम् ॥ ६॥
 </details>
+
+<details><summary>English</summary>
+
+61. A person shall never pray to Vishnu (God) for any other reward than love (Bhakti) and knowledge (gnana) at his feet; for, by so praying he is sure to go to ruin. 
+</details>
+
 
 <details><summary>मूलम्</summary>
-
-प्रायेणाऽकृतकृत्यत्वात् मृत्योरुद्विजते जनः ।  
-कृतकृत्याः प्रतीक्षन्ते मृत्यु प्रियमिवातिथिम् ॥ ६० ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्पादभक्तिज्ञानाभ्यां फलमन्यत् कदाचन ।  
 न याचेत् पुरुषो विष्णुं याचनान्नश्यति ध्रुवम् ॥ ६॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-तत्पादभक्तिज्ञानाभ्यां फलमन्यत् कदाचन ।  
-न याचेत् पुरुषो विष्णुं याचनान्नश्यति ध्रुवम् ॥ ६॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रमादादबुद्धितो वाऽपि यदागः क्रियते सताम् ।  
-अनुतप्तस्तु तानेव क्षामयेन्नान्यथा शमः ॥ ६२ ॥
+प्रमादाद् अबुद्धितो वाऽपि  
+यदा **ऽगः क्रियते** सताम् ।  
+अनुतप्तस् तु तान् एव  
+**क्षामयेन्** नान्यथा शमः ॥ ६२ ॥  
+भगवत्य् अपचारेऽपि  
+सैषा शान्तिर् अनुत्तमा ।  
 </details>
+
+<details><summary>English</summary>
+
+62. If an offence is given to a sage either from negli- gence or from intention, repentant one shall seek him alone for forgivness, otherwise there will be no palliation. 
+
+63. Even in the case of an offence againist God this expiation is unsurpassed. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 प्रमादादबुद्धितो वाऽपि यदागः क्रियते सताम् ।  
-अनुतप्तस्तु तानेव क्षामयेन्नान्यथा शमः ॥ ६२ ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+अनुतप्तस्तु तानेव क्षामयेन्नान्यथा शमः ॥ ६२ ॥  
 भगवत्यपचारेऽपि सैषा शान्तिरनुत्तमा ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्त्रीणां स्त्री-सङ्गिनां चैव  
+संसर्गं **वर्जयेत्** सुधीः ॥ ६३ ॥
+</details>
+
+<details><summary>English</summary>
+
+A wise man shall avoid all carnality. [[324]] 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 स्त्रीणां स्त्रीसङ्गिनां चैव संसर्गं वर्जयेत् सुधीः ॥ ६३ ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् सर्वात्मना विद्वान्  
+विषयान् **विषवत् त्यजेत्** ।  
+अविद्यः **प्राकृतः** प्रोक्तो  
+वैद्यो **वैष्णव** उच्यते ॥
+</details>
+
+<details><summary>English</summary>
+
+64. Therefore shall a wise man completely renounce the objects of the senses like poison. An ignorant is called a vulgar man of the world but a wise man, a Vaishnava. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-भगवत्यपचारेऽपि सैषा शान्तिरनुत्तमा ।  
-स्त्रीणां स्त्रीसङ्गिनां चैव संसर्गं वर्जयेत् सुधीः ॥ ६३ ॥
+तस्मात् सर्वात्मना विद्वान् विषयान् विषवत् त्यजेत् ।  
+अविद्यः प्राकृतः प्रोक्तो वैद्यो वैष्णव उच्यते ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात् सर्वात्मना विद्वान् विषयान् विषवत् त्यजेत् ।  
-आविद्यः प्राकृतः प्रोक्तो वैद्यो वैष्णव उच्यते ॥
+अविद्येन न केनापि  
+वैद्यः किञ्चित् समाचरेत् । (सा. तं)  
+इति ह्युक्तं भगवता  
+शास्त्रे ; मन्वादिभिस् तथा ॥ ६५ ॥
 </details>
+
+<details><summary>English</summary>
+
+65. A wise man shall not do anything with any un- wise man. This has been said by the Lord in the Pancha- ratra Sastra, also by Mana and others. 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-तस्मात् सर्वात्मना विद्वान् विषयान् विषवत् त्यजेत् ।  
-आविद्यः प्राकृतः प्रोक्तो वैद्यो वैष्णव उच्यते ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-आविद्येन न केनापि वैद्यः किञ्चित् समाचरेत् । (सा. तं)  
 इति ह्युक्तं भगवता शास्त्रे ; मन्वादिभिस्तथा ॥ ६५ ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् प्राकृत-संसर्गं  
+**वर्जयेद्** वैष्णवोत्तमः ।  
+</details>
+
+<details><summary>English</summary>
+
+66-67. Therefore a pious Vaishnava skall shun con- tact with a vulgar man of the world. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-आविद्येन न केनापि वैद्यः किञ्चित् समाचरेत् । (सा. तं)  
-इति ह्युक्तं भगवता शास्त्रे ; मन्वादिभिस्तथा ॥ ६५ ॥
+तस्मात् प्राकृतसंसर्गं वर्जयेद्वैष्णवोत्तमः ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मात् प्राकृतसंसर्गं वर्जयेद्वैष्णवोत्तमः ।  
-एका शय्याऽऽसनं पङ्क्तिर्भाण्डं पक्वान्नमिश्रणम् ॥
+एका शय्या ऽऽसनं पङ्क्तिर्  
+भाण्डं पक्वान्न-मिश्रणम् ॥+++(5)+++  
+याजनाध्यापने यानं  
+तथैव सह-भोजनम् ।  
+नव-धा सङ्करः प्रोक्तो  
+**न कर्तव्यो** ऽधमैस् सह ॥
 </details>
+
+<details><summary>English</summary>
+
+Intermingling is said to be of eight kinds which ought not to be held with an- blushing sensualists;-occupying one bed, one seat, sitting in one row with other people, using one pot, intermixing cooked food, conducting sacrificial rites, teaching the Vedas, intermarriage and interdining. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-तस्मात् प्राकृतसंसर्गं वर्जयेद्वैष्णवोत्तमः ।  
-एका शय्याऽऽसनं पङ्क्तिर्भाण्डं पक्वान्नमिश्रणम् ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
+एका शय्याऽऽसनं पङ्क्तिर्भाण्डं पक्वान्नमिश्रणम् ॥  
 याजनाध्यापने यानं तथैव सहभोजनम् ।  
 नवधा सङ्करः प्रोक्तो न कर्तव्योऽधमैस्सह ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-याजनाध्यापने यानं तथैव सहभोजनम् ।  
-नवधा सङ्करः प्रोक्तो न कर्तव्योऽधमैस्सह ॥
+संल्लाप-स्पर्शन-स्वाप-  
+विधान-शयनासनात् ।  
+याजनाध्यापनाद् यौनात्  
+**पापं सङ्क्रमते** नृणाम् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+68. Sins enter into men by conversation, touch and the manner of sleeping, by sitting and lying down together, by the functions of a priest and of an instructor, and by inter- marriage. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 संल्लापस्पर्शनस्वापविधानशयनासनात् ।  
-याजनाध्यापनात् यौनात् पापं सङ्क्रमते नृणाम् ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-संल्लापस्पर्शनस्वापविधानशयनासनात् ।  
-याजनाध्यापनात् यौनात् पापं सङ्क्रमते नृणाम् ॥
+याजनाध्यापनात् यौनात्/यानात् पापं सङ्क्रमते नृणाम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संवत्सरेण पतति पतितेन सहाऽऽचरन् ।  
-याजनाध्यापनात् यौनात् सद्यो न शयनासनात् (बोधा) ॥ ६९
+संवत्सरेण **पतति**  
+पतितेन सहाऽऽचरन् ।  
+याजनाध्यापनाद् यौनात्  
+सह शय्याऽऽसनाशनात् (बोधा) ॥ ६९
 </details>
+
+<details><summary>English</summary>
+
+69. Through conducting sacrifices, through reaching the Veda and learning them, through lying down, sitting and sleeping together, having associated with a fallen man for a year one falls. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 संवत्सरेण पतति पतितेन सहाऽऽचरन् ।  
-याजनाध्यापनात् यौनात् सद्यो न शयनासनात् (बोधा) ॥ ६९
+याजनाध्यापनात् यौनात्/यानात्  
+सह शय्याऽऽसनाशनात् ‌/ सद्यो न शयनासनात् /न तु यानासनाशनात् (बोधा) ॥ ६९
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बृहस्पति-मनुभ्यां तु  
+सङ्करस्यानुवर्णितम् ।  
+वैविध्यं याजनादीनां  
+सद्यः पातित्य-हेतुता ॥ ७० ॥
+</details>
+
+<details><summary>English</summary>
+
+70. The delineation of this conmmingting (sankara) by Brihaspati and, Manu is diverse. But the power of con- ducting sacrifices and such other intercourses to cause degra dation is immediate. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 बृहस्पतिमनुभ्यां तु सङ्करस्यानुवर्णितम् ।  
 वैविध्यं याजनादीनां सद्यः पातित्यहेतुता ॥ ७० ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बृहस्पतिमनुभ्यां तु सङ्करस्यानुवर्णितम् ।  
-वैविध्यं याजनादीनां सद्यः पातित्यहेतुता ॥ ७० ॥
+न्यास-विद्यैक-निष्ठानां  
+वैष्णवानां महात्मनाम् ।  
+प्राकृताभिष्टुतिर् निन्दा  
+निन्दा स्तुतिर् इति स्मृता ॥ ७१ ॥+++(5)+++
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+71. To the high souled Vaishnavas who are devoted to the knowledge of self-surrender (Nyasavidya) the praise of the low sensualists is declared to be a censure and their censure, praise. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 न्यासविद्यैकनिष्ठानां वैष्णवानां महात्मनाम् ।  
 प्राकृताभिष्टुतिर्निन्दा निन्दा स्तुतिरिति स्मृता ॥ ७१ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न्यासविद्यैकनिष्ठानां वैष्णवानां महात्मनाम् ।  
-प्राकृताभिष्टुतिर्निन्दा निन्दा स्तुतिरिति स्मृता ॥ ७१ ॥
+“ अद्यप्रभृति हे लोकाः !  
+यूयं यूयं वयं वयम् ।  
+अर्थ-काम-परा यूयं  
+नारायण-परा वयम् ॥+++(5)+++
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+72–73. © worldlings! henceforth you are yourselves and we are ourselves. You are devoted to worldly prosperity and sensual enjoyments and we are devoted to Narayana (God). 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 “ अद्यप्रभृति हे लोकाः ! यूयं यूयं वयं वयम् ।  
 अर्थकामपरा यूयं नारायणपरा वयम् ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-“ अद्यप्रभृति हे लोकाः ! यूयं यूयं वयं वयम् ।  
-अर्थकामपरा यूयं नारायणपरा वयम् ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नास्ति सङ्गतिरस्माकं युष्माकं च परस्परम् ।  
-वयं तु किङ्करा विष्णोः यूयमिन्द्रियकिङ्कराः" ॥ ८३ ॥
+नास्ति सङ्गतिर् अस्माकं  
+युष्माकं च परस्परम् ।  
+वयं तु किङ्करा विष्णोः  
+यूयम् इन्द्रिय-किङ्कराः" ॥ ८३ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+There can be no intercourse whatever between you and us. You are servants of senses but we are servants of (God) Vishnu. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
