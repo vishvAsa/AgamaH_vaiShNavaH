@@ -4,79 +4,14 @@ title = "en"
 
 Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
-
-
-
-(To be Continued.) 
- 
-11. By the good, the sages that have come to their house aught to be specially worshipped with kind words, with offerings of water to the hand &c., and with agreeable food in a fit way. 
-12. "One shall not wash the feet (of a guest) in a ves- sel made of bell-metal, is the injunction of the Smritis. Therefore in other vessels like the mud ones, shall one wash. And Bhagavan Suka says as follows:- 
-13. "Those houses that are destitute of holy water from the feet of spiritually great men, even though these be not devoid of all sorts of riches, are verily the trees (sandal) which are the abode of serpents. 
-14. 
-"The adoration of the holy-water from the feet of the devotees of God, is determined by the wise to be the atonement for all sins. 
-15. "This water is to be received on the head, as well as on the limbs and eyes and other members of the head. It is to be taken in the same way as the soma Juice where there is not the religious ceremony of sipping (ochamana). 
-16. "O holiest of the twice-born! if the water of the feet of Vishnu as well as of the bhaktas of Vishnu be drunk no ceremony of sipping should be practised as (is done) in the case of the soma-Juice." 
-17. Lord Krishna washing with his own hands the feet of the guest, Narada, in the houses of all his beloved (Gopis), drank the holy water of the feet of that sage. 
-18. For the promotion of the knowledge of one's sub- serviency to God (Seshatva), in one's house one shall, atten- 
-8 
-
-296 
-The Brahmaralin. 
-ded with the consciousness of their tripleness* (prapya; object of attainment; prapaka: the means, and Seshi: appropria- tor), gratify the Vaishnavas with repasts which are to their liking and are in consonance with the Sastras. 
-19. After they have finished eating a truly pious man should eat the remnant. For those virtuous men who eat the leavings are liberated from all sins. 
-20. The conversation and such other intercourses with them, the Lord has mentioned in the Pancharatra-Sastra :- 
-"What the twice-born, who ride the charioty of the Vedas and wield the sword of knowledge, shall utter even in sport that is considered as the highest ethics (dharma).” 21. "The Vedic scholars know those alone to be dharma-Sastra (codes of law) that are the practices of men who have taken refuge with Vasudeva." 
-22. Men are rendered pure by the mere sight of the Vaishnavas, but not so much by holy places. Sounaka says as follows: 
-23. "O King! a being is not made so holy even by thousands of holy waters as by the mere look of Vaishnavas cast as if in sport. 
-24. Residing within a cage of the flames of fire is Commendable and not the torment of association with men who are averse to the thought of Souri (God). 
-25. Great sage! I am the slave of those that touch the Bhagavatas (the godly) with their limbs, even sit near (them), see (them) even, and hear (them). 
-26. With the good alone one should live, with the good one should associate, also with the good quarrel and make friendship; but with the wicked nothing whatever shall 
-* Trividha-Tyaga is another variant of Trividha-jnana. In that case the meaning is preceded by the threefold renuncia- tion', of Phala-sanga-kartri (fruits of action, attachment and the claiming of agency.) 
- 
-one have to do. 
-
-297 
-27. As Yayate having fallen among the good re- gained his own position from there, even so one falling among the good does not get embarassed. 
-CHAPTER VIII. 
-ON THE DETERMINATION OF KARMAS FROM 
-AMONG THE PRESCRIBED. 
-1. The determination of the duties of a Prapanna from among those prescribed is dealt with at large- 
-2. The obligatory duties prescribed in Sruti, Smriti and other Sastras aught to be performed. For the Lord of Lakshmi says "Sruti and Smriti are my own commands." 
-3. A Prapanna shall also perform what is specially prescribed to him in the Punchuratra-Sustrus; that is, shall always do knitting garlands and such other works of God (Sriputi). 
-4. Among those prescribed the determination of the duties of one practising Nyasavidya (the science of refuge- seeking), as said by Lakshmi in her own Tantra to the interrogating Indra, is as follows:- 
-5. One who has renounced expedient and detrimental actions (upayapaya) and has followed a meduim course and who resolving that God will protect him, has laid down all The allusion is to the story of the Mahabharata. When Yayate the celebrated king of the lunar race, the son of Nahusha, was reaping the fruits of his merit in the Svargaloka, blinded with pride he one day used vile language towards the sages, which destroyed his punya and led his fall through a curse from Indra. But by the favour of the king of gods he fell among the sages called ashtakas and by their grace regained his lost position. 
- 
-298 
- 
-that one can claim as one's, shall recognise as the Protector, that God of gods, the Supreme Being. 
-6. What course is it, mother! (ambike) that is midway between detrimental and expedient karmas? All actions rest solely on the quality of being expedient and detrimen- tal upayapayala). 
-7. On the acceptance or the denial of prohibitory and mandatory injunctions (sastras), is clearly seen the expedient and detrimental naturedness of karmas (rites). 
-8. Know, O king of the Devas! the mysterious course of karmas to be threefold. And learn from me the same classification (as it arises) from the prohibitory and manda- tory injunctions. 
-9. Some are the means of producing evil (detrimental and some the means of accomplishing an object (expedient), while some other karmas are taught for the remedying of evil (expiatory). 
-10. The classification of karma into three groups should thus be known by those that have the sastraic eyes. The first two groups designated the detrimental and the expedient (apayopaya), shall one relinquish. 
-11, The third group which is for the remedying of evil is of two kinds. Some are of the expiatory nature and destroy the evil that has already arisen (prayaschittalmaka). This portion, like the previous groups, a wise man shall not practice. 
-12. (Other karmas) which in being done do not happen towards any benefit whatever but in not being done (happen) towards evil-such karmas one shall surely prac- tise. 
-13. This is that Vedic course of conduct which is midway between the detrimental and expedient ones. Re- maining in this shall one reach Janardana, the Lord of the universe, (jagannatha). 
  
 
-299 
-14-16. This is what has been taught here: such groups of actions as injuriousness, theft, &c., are the detri- mental karmas which are the means of producing evil; the kamyakarmas or the karmas performed with a view to some particular worldly object and future fruition, are those that are the means of accomplishing some object (expedient), such as, building temple and other worldly acts, as also Sankhya* yoga↑ and other means (for securing 
-Sankhya: The system of philosophy attributed to the sage Kapila. This philosophy is so called because it enumerates, in order, twenty five Sattvas or verities, beginning with prakriti or pradhana, the primordial matter; and its chief object is to effect the final emancipation of the twenty fifth tattva, the Purusha or soul, from the bonds of worldly existence-the three miseries of life-by obtaining a correct knowledge of the twenty-four other tattvas and by properly discriminating the purusha from prakriti and its products. It regards the whole universe as a develop- ment of this innate principle called prakriti, while the purusha is altogether passive and simply a looker on, untainted, unaffect- ed, pure and perfect. It agrees with the Vedanta in being synthetical and differs from the analytical Nyaya or Vaiseshika, but its great point of divergence from the Vedanta is that it maintains two principles which the Vedanta disapproves and that it does not admit God as the creator and controller of the uni- verse which the Vedanta affirms. 
-+ Yaga: The system of practical philosophy attributed to Pantanjali who appeared to have given it first a systematised form, which is only another form of the sankhya philosophy though practically reckoned as a separate system and differs from it in admitting a twenty fifth principle, God. The chief aim of this philosophy is to teach the means by which the indi- vidual soul jiva may be completely united with the supreme spirit by isolation from matter and thus secure absolution; and abstract meditation is laid down as the chief means of securing this end. The word yoga from the universality of the science came to be 
+
+
  
 800 
  
-future fruition). Similarly the expiatory karma (Prayas- chitta) is of two kinds; one is chāndrāyana and such other penances destructive of sins already committed, the other, sandhya (the morning, noon and evening prayers), worship and such other (obligatory karmas). 
-17-18. Of these, injury and other detrimental karmas (apaya), building temple and other kamyakarmas (perform- ed for some particular object and with a view to future frui- tion, Sankhya and other expedient karmas (upaya) and also Chandrayana and other expiatory karmas (prāyaschitta)– all these, one shall not, at any time practice. 
-19-20. Those karmas (rites) which are mentioned as remedying future evil, such as sandhya (the morning, noon and evening prayers), archana (worship) panchayagua* (the five sacrifices) and such others as are honoured by those that are desirous of freedom (mumukshus), and the occasional one's such as, the oblation consisting of first fruits at the end of the rainy season (āgrāvana), the parting of the hair (Simantonnayana) &c., and also such others as consecrating the fire (agnyadhana),-all these, aught to be done by the twice-born (dojas) if they have a right to them. But those Karmas that are known as the forbidden (nishiddha), those done for some gain (Kamya) and those that are the means for securing some future fruition (upaya), these others one shall not perform. 
-applied to any practical science or method for realising an ideal; thence to a portion or even a member of it. In this sense is affixed to several other words, where it indicates the method of leading to the ideal indicated on. 
-* Panchayagna: The five devotional acts or worships which every house holder, especially the twice-born, has to perform every day. They are Bhutayagna, Manushya-yajna, Pitriyajna, Devayajna, and Brahma-yajna which are collectively called the five great sacrifices.' 
-Prapanna parijata. 
-301 
-21. Should an occasion arise, one shall perform that prayaschitta (expiatory rite) which is specially prescribed to a Prapanna by Lakshmi in Lakshmitantra. 
-22. This (special) teaching of the Pancharatra- Sastras being observed only once, shall surely enable a man to cross Samsara. In case of his being attached to the expedient and detrimental Karmas (upayapaya) he loses in faith or fixity. 
-23. 
-When there is an overflow of evil then alone shall one perform an expiatory rite (prayaschitta). This prayas- chitta is that special one that he shall again seek refuge with God.' Even in the case of accepting the expediency of beneficial rites, the same is the remedy, 
+
 . 24. When an occasion for prayaschitta arises, what- ever may be the sin that gave rise to it, one shall seek re- fuge with me alone, the Consort of the God of gods. 
 25. Therefore whatever may be the sin of a Prapanna brought on either by negligence or by intention-all these, this Saranagati (refuge-seeking) aloue removes at once. 
 26. That fool who, even knowing the loss of position in detrimental rites (apaya) (willfully) performs them,-to him there shall be only the enjoyment of those karmas and no atonement even by this (saranagati). 

@@ -2,250 +2,484 @@
 title = "०८ विहित-व्यवस्थान-पद्धतिः"
 
 +++
+<details><summary>English</summary>
 
+CHAPTER VIII. 
+ON THE DETERMINATION OF KARMAS FROM AMONG THE PRESCRIBED. 
+
+</details>
+ 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विहितेषु व्यवस्थानं प्रपन्नानां प्रपञ्च्यते ।  
-103, शृतिस्मृत्यादिविहितमनुष्ठेयं तु नैत्य(ष्ठि)कम् ॥
+विहितेषु व्यवस्थानं  
+प्रपन्नानां प्रपञ्च्यते ।  
 </details>
+
+<details><summary>English</summary>
+
+1. The determination of the duties of a Prapanna from among those prescribed is dealt with at large- 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 विहितेषु व्यवस्थानं प्रपन्नानां प्रपञ्च्यते ।  
-103, शृतिस्मृत्यादिविहितमनुष्ठेयं तु नैत्य(ष्ठि)कम् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-" श्रुतिस्मृतिर्ममैवाज्ञे "त्याह लक्ष्मीपतिर्यतः ।  
-प्रपन्नस्तु विशेषेण शास्त्रेषु विहितान्यपि ॥
+शृति-स्मृत्य्-आदि-विहितम्  
+अनुष्ठेयं तु नैत्य(ष्ठि)कम् ॥
+"**श्रुति-स्मृतिर् ममैवाज्ञे**"त्याह लक्ष्मीपतिर् यतः ।  
 </details>
+
+<details><summary>English</summary>
+
+2. The obligatory duties prescribed in Sruti, Smriti and other Sastras aught to be performed. 
+For the Lord of Lakshmi says "Sruti and Smriti are my own commands." 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-" श्रुतिस्मृतिर्ममैवाज्ञे "त्याह लक्ष्मीपतिर्यतः ।  
+103, शृतिस्मृत्यादिविहितमनुष्ठेयं तु नैत्य(ष्ठि)कम् ॥  
+"**श्रुति-स्मृतिर् ममैवाज्ञे**"त्याह लक्ष्मीपतिर् यतः ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपन्नस् तु विशेषेण  
++++(भगवत्-)+++शास्त्रेषु विहितान्य् अपि ॥
+**कुर्यात्** स्रग्-बन्धनादीनि  
+कर्माणि श्रीपतेः सदा ।  
+</details>
+
+<details><summary>English</summary>
+
+3. A Prapanna shall also perform what is specially prescribed to him in the Punchuratra-Sustrus; that is, shall always do knitting garlands and such other works of God (Sriputi). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 प्रपन्नस्तु विशेषेण शास्त्रेषु विहितान्यपि ॥
+कुर्यात् स्रग्बन्धनादीनि कर्माणि श्रीपतेः सदा ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+105, यथा लक्ष्म्या स्वतन्त्रेऽपि  
+शक्रायोक्ता ऽनुपृच्छते ।  
+न्यास-विद्यक-निष्ठस्य  
+विहितेषु व्यवस्थितिः ।  
+</details>
+
+<details><summary>English</summary>
+
+4. Among those prescribed the determination of the duties of one practising Nyasavidya (the science of refuge- seeking), as said by Lakshmi in her own Tantra to the interrogating Indra, is as follows:- 
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
 
 कुर्यात् स्रग्बन्धनादीनि कर्माणि श्रीपतेः सदा ।  
 105, यथा लक्ष्म्या स्वतन्त्रेऽपि शक्रायोक्ताऽनुपृच्छते ।  
 न्यासविद्यकनिष्ठस्य विहितेषु व्यवस्थितिः ।  
-“ उपायापायसन्यासी (त्यागी) मध्यमां वृत्तिमाश्रितः ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-कुर्यात् स्रग्बन्धनादीनि कर्माणि श्रीपतेः सदा ।  
-105, यथा लक्ष्म्या स्वतन्त्रेऽपि शक्रायोक्ताऽनुपृच्छते ।  
-न्यासविद्यकनिष्ठस्य विहितेषु व्यवस्थितिः ।  
-“ उपायापायसन्यासी (त्यागी) मध्यमां वृत्तिमाश्रितः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रक्षिष्यतीति निश्चित्य निक्षिप्तस्व-स्वगोचरः ।  
-बुध्येत देवदेवं तं गोप्तारं पुरुषोत्तमम् ॥ (ल. सं. 17\. 82.)
+“ उपायापाय-सन्न्यासी (त्यागी)  
+मध्यमां **वृत्तिम् आश्रितः** ॥
+रक्षिष्यतीति **निश्चित्य**  
+निक्षिप्त-स्व-स्व-गोचरः ।  
+**बुध्येत** देवदेवं तं  
+गोप्तारं पुरुषोत्तमम् ॥ (ल. सं. 17\. 82.)
 </details>
+
+<details><summary>English</summary>
+
+5. One who has renounced expedient and detrimental actions (upayapaya) and has followed a meduim course and who resolving that God will protect him, has laid down all that one can claim as one's, shall recognise as the Protector, that God of gods, the Supreme Being. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
+“ उपायापायसन्न्यासी (त्यागी) मध्यमां वृत्तिमाश्रितः ॥
 रक्षिष्यतीति निश्चित्य निक्षिप्तस्व-स्वगोचरः ।  
 बुध्येत देवदेवं तं गोप्तारं पुरुषोत्तमम् ॥ (ल. सं. 17\. 82.)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शक्रः-  
+उपायापाययोर् मध्ये  
+**कीदृशी स्थितिर्** अम्बिके ।  
+उपायापायताम् एव  
+**क्रिया** सर्वा **ऽवलम्बते** ॥
+</details>
+
+<details><summary>English</summary>
+
+6. What course is it, mother! (ambike) that is midway between detrimental and expedient karmas? All actions rest solely on the quality of being expedient and detrimen- tal upayapayala). 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 शक्रः-उपायापाययोर्मध्ये कीदृशी स्थितिरम्बिके ।  
 उपायापायतामेव क्रिया सर्वाऽवलम्बते ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-शक्रः-उपायापाययोर्मध्ये कीदृशी स्थितिरम्बिके ।  
-उपायापायतामेव क्रिया सर्वाऽवलम्बते ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+श्रीः-  
+स्वीकारे व्यतिरेके **या**  
+निषेध-विधि-शास्त्रयोः ।  
+**दृश्यते** कर्मणो व्यक्तम्  
+उपायापाय-रूपता …॥
+</details>
+
+<details><summary>English</summary>
+
+7. On the acceptance or the denial of prohibitory and mandatory injunctions (sastras), is clearly seen the expedient and detrimental naturedness of karmas (rites). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीः-  
 स्वीकारे व्यतिरेके या निषेधविधिशास्त्रयोः ।  
 दृश्यते कर्मणो व्यक्तमुपायापायरूपता ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… त्रिविधां **पश्य** देवेश!  
+कर्मणो गहनां गतिम् ।  
+निषेध-विधि-शास्त्रेभ्यस्  
+तां (त्रि) विधां च **निबोध** मे ॥
+</details>
+
+<details><summary>English</summary>
+
+8. Know, O king of the Devas! the mysterious course of karmas to be threefold. And learn from me the same classification (as it arises) from the prohibitory and manda- tory injunctions. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
-स्वीकारे व्यतिरेके या निषेधविधिशास्त्रयोः ।  
-दृश्यते कर्मणो व्यक्तमुपायापायरूपता ॥
+त्रिविधां पश्य देवेश! कर्मणो गहनां गतिम् ।  
+निषेधविधिशास्त्रेभ्यः तां (त्रि) विधां च निबोध मे ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रीः-त्रिविधां पश्य देवेश! कर्मणो गहनां गतिम् ।  
-निषेधविधिशास्त्रेभ्यः तां (त्रि) विधां च निबोध मे ॥
+अन्-अर्थ-साधनं किञ्चित्  
+किञ्चिच् चाप्य् अर्थ-साधनम् ।  
+अन्-अर्थ-परिहाराय  
+किञ्चित् कर्मोपदिश्यते ॥
 </details>
+
+<details><summary>English</summary>
+
+9. Some are the means of producing evil (detrimental and some the means of accomplishing an object (expedient), while some other karmas are taught for the remedying of evil (expiatory). 
+</details>
+ 
+
 
 <details><summary>मूलम्</summary>
-
-श्रीः-त्रिविधां पश्य देवेश! कर्मणो गहनां गतिम् ।  
-निषेधविधिशास्त्रेभ्यः तां (त्रि) विधां च निबोध मे ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनर्थसाधनं किञ्चित् किञ्चिच्चाप्यर्थसाधनम् ।  
 अनर्थपरिहाराय किञ्चित् कर्मोपदिश्यते ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनर्थसाधनं किञ्चित् किञ्चिच्चाप्यर्थसाधनम् ।  
-अनर्थपरिहाराय किञ्चित् कर्मोपदिश्यते ॥
+त्रैराश्यं कर्मणाम् एवं  
+**विज्ञेयं** शास्त्रचक्षुषा ।  
+उपायोपाय-सञ्ज्ञौ तु  
+पूर्व-राशी परित्यजेत् ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+10. The classification of karma into three groups should thus be known by those that have the sastraic eyes. The first two groups designated the detrimental and the expedient (apayopaya), shall one relinquish. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 त्रैराश्यं कर्मणामेवं विज्ञेयं शास्त्रचक्षुषा ।  
 उपायोपायसञ्ज्ञौ तु पूर्वराशी परित्यजेत् ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रैराश्यं कर्मणामेवं विज्ञेयं शास्त्रचक्षुषा ।  
-उपायोपायसञ्ज्ञौ तु पूर्वराशी परित्यजेत् ॥
+तृतीयो द्विविधो राशिः  
+अन्-अर्थ--परिहारकः ।  
+**प्रायश्चित्तात्मकः** कश्चित्  
+उत्पन्नानर्थ-नाशनः ॥  
+तमंशं **नैव कुर्वीत**  
+मनीषी पूर्व-राशिवत् ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+11, The third group which is for the remedying of evil is of two kinds. Some are of the expiatory nature and destroy the evil that has already arisen (prayaschittalmaka). This portion, like the previous groups, a wise man shall not practice. 
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
 
 तृतीयो द्विविधो राशिः अनर्थपरिहारकः ।  
 प्रायश्चित्तात्मकः कश्चित् उत्पन्नानर्थनाशनः ॥
-</details>
-
-<details><summary>मूलम्</summary>
-
-तृतीयो द्विविधो राशिः अनर्थपरिहारकः ।  
-प्रायश्चित्तात्मकः कश्चित् उत्पन्नानर्थनाशनः ॥
+तमंशं नैव कुर्वीत मनीषी पूर्वराशिवत् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमंशं नैव कुर्वीत मनीषी पूर्वराशिवत् ।  
-क्रियमाणं न कस्मैचित् यत् अर्थाय प्रकल्पते ।  
-अक्रियावत् अनर्थाय तत्तु कर्म समाचरेत् ।  
-एषा सा वैदिकी निष्ठा ह्युपायापायमध्यमा ।  
-अस्यां स्थितो जगन्नाथं प्रपद्येत जनार्दनम् । (ल. तं. 17.91  
-एतदुक्तं भवत्यत्र हिंसास्तेयादिकं च यत् ॥
+क्रियमाणं न कस्मैचिद्  
+यद् अर्थाय प्रकल्पते ।  
+अ-क्रियावद् अन्-अर्थाय  
+तत् तु **कर्म समाचरेत्** ।  
 </details>
+
+<details><summary>English</summary>
+
+12. (Other karmas) which in being done do not happen towards any benefit whatever but in not being done (happen) towards evil-such karmas one shall surely prac- tise. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-तमंशं नैव कुर्वीत मनीषी पूर्वराशिवत् ।  
 क्रियमाणं न कस्मैचित् यत् अर्थाय प्रकल्पते ।  
 अक्रियावत् अनर्थाय तत्तु कर्म समाचरेत् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एषा सा वैदिकी निष्ठा  
+ह्य् **उपायापाय-मध्यमा** ।  
+अस्यां स्थितो जगन्नाथं  
+प्रपद्येत जनार्दनम् । (ल. तं. 17.91  
+</details>
+
+<details><summary>English</summary>
+
+13. This is that Vedic course of conduct which is midway between the detrimental and expedient ones. Re- maining in this shall one reach Janardana, the Lord of the universe, (jagannatha). [[299]] 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 एषा सा वैदिकी निष्ठा ह्युपायापायमध्यमा ।  
 अस्यां स्थितो जगन्नाथं प्रपद्येत जनार्दनम् । (ल. तं. 17.91  
-एतदुक्तं भवत्यत्र हिंसास्तेयादिकं च यत् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+एतद् उक्तं भवत्य् अत्र  
+हिंसा-स्तेयादिकं च यत् ॥  
+**अन्-अर्थ-साधकं** कर्म,  
+**काम्यं** त्व् अर्थस्य साधकम् ।  
+चित्रादिकं तथा कर्म  
+साङ्ख्य-योगादिकं तथा ॥
+</details>
+
+<details><summary>English</summary>
+
+14-16. This is what has been taught here: such groups of actions as injuriousness, theft, &c., are the detri- mental karmas which are the means of producing evil; the kamyakarmas or the karmas performed with a view to some particular worldly object and future fruition, are those that are the means of accomplishing some object (expedient), such as, building temple and other worldly acts, as also Sankhya* yoga↑ and other means (for securing future fruition). 
+
+
+Sankhya: The system of philosophy attributed to the sage Kapila. This philosophy is so called because it enumerates, in order, twenty five tattvas or verities, beginning with prakriti or pradhana, the primordial matter; and its chief object is to effect the final emancipation of the twenty fifth tattva, the Purusha or soul, from the bonds of worldly existence- the three miseries of life- by obtaining a correct knowledge of the twenty-four other tattvas and by properly discriminating the purusha from prakriti and its products.  
+It regards the whole universe as a development of this innate principle called prakriti, while the purusha is altogether passive and simply a looker on, untainted, unaffect- ed, pure and perfect. It agrees with the Vedanta in being synthetical and differs from the analytical Nyaya or Vaiseshika, but its great point of divergence from the Vedanta is that it maintains two principles which the Vedanta disapproves and that it does not admit God as the creator and controller of the uni- verse which the Vedanta affirms. 
+
++ Yoga: The system of practical philosophy attributed to Pantanjali who appeared to have given it first a systematised form, which is only another form of the sankhya philosophy though practically reckoned as a separate system and differs from it in admitting a twenty fifth principle, God. The chief aim of this philosophy is to teach the means by which the indi- vidual soul jiva may be completely united with the supreme spirit by isolation from matter and thus secure absolution; and abstract meditation is laid down as the chief means of securing this end. The word yoga from the universality of the science came to be applied to any practical science or method for realising an ideal; thence to a portion or even a member of it. In this sense is affixed to several other words, where it indicates the method of leading to the ideal indicated on. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवत्यत्र हिंसास्तेयादिकं च यत् ॥  
 अनर्थसाधकं कर्म काम्यं त्वर्थस्य साधकम् ।  
 चित्रादिकं त (य) था कर्म साङ्ख्ययोगादिकं तथा ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनर्थसाधकं कर्म काम्यं त्वर्थस्य साधकम् ।  
-चित्रादिकं त (य) था कर्म साङ्ख्ययोगादिकं तथा ॥
+**प्रायश्चित्तं** तथा द्वेधा  
+कृत-पाप-प्रणाशनम् ।  
+चान्द्रायणादिकं त्व् एकम्,  
+अन्यत् सन्ध्यार्चनादिकम् ॥ १६ ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+Similarly the expiatory karma (Prayas- chitta) is of two kinds; one is chāndrāyana and such other penances destructive of sins already committed, the other, sandhya (the morning, noon and evening prayers), worship and such other (obligatory karmas). 
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
 
 प्रायश्चित्तं तथा द्वेधा कृतपापप्रणाशनम् ।  
 चान्द्रायणादिकं त्वेकम् अन्यत् सन्ध्यार्चनादिकम् ॥ १६ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रायश्चित्तं तथा द्वेधा कृतपापप्रणाशनम् ।  
-चान्द्रायणादिकं त्वेकम् अन्यत् सन्ध्यार्चनादिकम् ॥ १६ ॥
+तत्र हिंसाद्य् **अपायं** च  
+**काम्यं** चित्रादिकं तथा ।  
+**उपायं** कर्म साङ्ख्यादि  
+**प्रायश्चित्तादिकं** तथा ।  
+चान्द्रायणादिकं कर्म  
+न कुर्याच् च कदाचन ।  
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+17-18. Of these, injury and other detrimental karmas (apaya), building temple and other kamyakarmas (perform- ed for some particular object and with a view to future frui- tion, Sankhya and other expedient karmas (upaya) and also Chandrayana and other expiatory karmas (prāyaschitta)– all these, one shall not, at any time practice. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तत्र हिंसाद्यपायं च काम्यं चित्रादिकं तथा ।  
 उपायं कर्म साङ्ख्यादि प्रायश्चित्तादिकं तथा ।  
 चान्द्रायणादिकं कर्म न कुर्याच्च कदाचन ।  
-भाव्यनर्थस्य यत् कर्म परिहारेण (हाराय) कीर्तितम् ॥
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भाव्य्-अन्-अर्थस्य यत् कर्म  
+परिहारेण (हाराय) कीर्तितम् ॥  
+सन्ध्यार्चा--पञ्च-यज्ञादि  
+तन् मुमुक्षुभिरादृतम् ।  
+</details>
+
+<details><summary>English</summary>
+
+19-20. Those karmas (rites) which are mentioned as remedying future evil, such as sandhya (the morning, noon and evening prayers), archana (worship) panchayagua* (the five sacrifices) and such others as are honoured by those that are desirous of freedom (mumukshus), 
+
+* Panchayagna: The five devotional acts or worships which every house holder, especially the twice-born, has to perform every day. They are Bhutayagna, Manushya-yajna, Pitriyajna, Devayajna, and Brahma-yajna which are collectively called the five great sacrifices.' 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-तत्र हिंसाद्यपायं च काम्यं चित्रादिकं तथा ।  
-उपायं कर्म साङ्ख्यादि प्रायश्चित्तादिकं तथा ।  
-चान्द्रायणादिकं कर्म न कुर्याच्च कदाचन ।  
-भाव्यनर्थस्य यत् कर्म परिहारेण (हाराय) कीर्तितम् ॥
+भाव्यनर्थस्य यत् कर्म परिहारेण (हाराय) कीर्तितम् ॥  
+सन्ध्यार्चापञ्चयज्ञादि तन्मुमुक्षुभिरादृतम् ।  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन्ध्यार्चापञ्चयज्ञादि तन्मुमुक्षुभिरादृतम् ।  
-नैमित्तिकं चाग्रयणं सीमन्तोन्नयनादिकम् ॥
+नैमित्तिकं चाग्रयणं  
+सीमन्तोन्नयनादिकम् ॥  
+अग्न्य्-आधानादिकं **कार्यम्**  
+अधिकारे सति द्विजैः ।  
 </details>
+
+<details><summary>English</summary>
+
+and the occasional one's such as, the oblation consisting of first fruits at the end of the rainy season (āgrāvana), the parting of the hair (Simantonnayana) &c., and also such others as consecrating the fire (agnyadhana),-all these, aught to be done by the twice-born (dojas) if they have a right to them. 
+</details>
+ 
+
 
 <details><summary>मूलम्</summary>
 
-सन्ध्यार्चापञ्चयज्ञादि तन्मुमुक्षुभिरादृतम् ।  
 नैमित्तिकं चाग्रयणं सीमन्तोन्नयनादिकम् ॥
-</details>
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
 अग्न्याधानादिकं कार्यमधिकारे सति द्विजैः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+निषिद्ध-काम्योपायाख्य-  
+कर्माण्य् अन्यानि **नाचरेत्** ॥ २० ॥
+</details>
+
+<details><summary>English</summary>
+
+But those Karmas that are known as the forbidden (nishiddha), those done for some gain (Kamya) and those that are the means for securing some future fruition (upaya), these others one shall not perform. 
+</details> 
+
+
+<details><summary>मूलम्</summary>
+
 निषिद्धकाम्योपायाख्यकर्माण्यन्यानि नाचरेत् ॥ २० ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अग्न्याधानादिकं कार्यमधिकारे सति द्विजैः ।  
-निषिद्धकाम्योपायाख्यकर्माण्यन्यानि नाचरेत् ॥ २० ॥
+**प्रायश्चित्तं** प्रपन्नस्य  
+विशेषेण यद् **उच्यते** ।  
+**लक्ष्मी-तन्त्रे** कमलया  
+निमित्ते तु **तद् आचरेत्** ॥ २१ ॥+++(5)+++
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+[[301]] 
+21. Should an occasion arise, one shall perform that prayaschitta (expiatory rite) which is specially prescribed to a Prapanna by Lakshmi in Lakshmitantra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 प्रायश्चित्तं प्रपन्नस्य विशेषेण यदुच्यते ।  
 लक्ष्मीतन्त्रे कमलया निमित्ते तु तदाचरेत् ॥ २१ ॥
 </details>
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रायश्चित्तं प्रपन्नस्य विशेषेण यदुच्यते ।  
-लक्ष्मीतन्त्रे कमलया निमित्ते तु तदाचरेत् ॥ २१ ॥
+“ श्रीः--  
+सकृदेव हि शास्त्रार्थः  
+**कृतोऽयं तारयेन्** नरम् । (ल.तं. 17.92  
+उपायापाय-संयोगे  
+निष्ठया **हीयते** ऽनया ॥
 </details>
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details><summary>English</summary>
+
+22. This (special) teaching of the Pancharatra- Sastras being observed only once, shall surely enable a man to cross Samsara. In case of his being attached to the expedient and detrimental Karmas (upayapaya) he loses in faith or fixity. 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
 
 “ श्रीः--सकृदेव हि शास्त्रार्थः कृतोऽयं तारयेन्नरम् । (ल.तं. 17.92  
 उपायापायसंयोगे निष्ठया हीयतेऽनया ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-“ श्रीः--सकृदेव हि शास्त्रार्थः कृतोऽयं तारयेन्नरम् । (ल.तं. 17.92  
-उपायापायसंयोगे निष्ठया हीयतेऽनया ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपायसम्प्लवे सद्यः प्रायश्चित्तं समाचरेत् ।  
-प्रायश्चित्तिरिय साऽत्र यत् पुनश्शरणं व्रजेत् ॥
+अपाय-सम्प्लवे सद्यः  
+**प्रायश्चित्तं समाचरेत्** ।  
+प्रायश्चित्तिर् इयं साऽत्र  
+यत् **पुनश् शरणं व्रजेत्** ॥
 </details>
+
+<details><summary>English</summary>
+
+23. When there is an overflow of evil then alone shall one perform an expiatory rite (prayaschitta). This prayas- chitta is that special one that he shall again seek refuge with God.' Even in the case of accepting the expediency of beneficial rites, the same is the remedy, 
+</details>
+ 
+
 
 <details><summary>मूलम्</summary>
 
 अपायसम्प्लवे सद्यः प्रायश्चित्तं समाचरेत् ।  
-प्रायश्चित्तिरिय साऽत्र यत् पुनश्शरणं व्रजेत् ॥
+प्रायश्चित्तिरियं साऽत्र यत् पुनश्शरणं व्रजेत् ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
