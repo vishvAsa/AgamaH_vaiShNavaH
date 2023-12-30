@@ -464,9 +464,11 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपाय-सम्प्लवे सद्यः  
-**प्रायश्चित्तं समाचरेत्** ।  
-प्रायश्चित्तिर् इयं साऽत्र  
-यत् **पुनश् शरणं व्रजेत्** ॥
+**प्रायश्-चित्तं समाचरेत्** ।  
+प्रायश्-चित्तिर् इयं साऽत्र  
+यत् **पुनश् शरणं व्रजेत्** ॥  
+उपायानाम् उपायत्व-  
+स्वीकारे ऽप्य् एतद् एव हि ।"+++(5)+++  
 </details>
 
 <details><summary>English</summary>
@@ -478,79 +480,188 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details><summary>मूलम्</summary>
 
-अपायसम्प्लवे सद्यः प्रायश्चित्तं समाचरेत् ।  
+अपाय-सम्प्लवे सद्यः प्रायश्चित्तं समाचरेत् ।  
 प्रायश्चित्तिरियं साऽत्र यत् पुनश्शरणं व्रजेत् ॥
+उपायानामुपायत्वस्वीकारेऽप्येतदेव हि ।"  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपायानामुपायत्वस्वीकारेऽप्येतदेव हि ।"  
+"प्रायश्-चित्त-प्रसङ्गे तु  
+सर्व-पाप-समुद्भवे ।  
+माम् एकां देव-देवस्य  
+महिषीं शरणं व्रजेत्"। (ल. तं 17-102)  
+</details>
+
+<details><summary>English</summary>
+
+24. When an occasion for prayaschitta arises, what- ever may be the sin that gave rise to it, one shall seek re- fuge with me alone, the Consort of the God of gods. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 "प्रायश्चित्तप्रसङ्गे तु सर्वपापसमुद्भवे ।  
 मामेकां देवदेवस्य महिषीं शरणं व्रजेत्"। (ल. तं 17-102)  
-तस्मात् प्रमादात् बुद्धया वा यत् प्रपन्नस्य दुष्कृतम् ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मात् प्रमादात् बुद्ध्या वा  
+यत् प्रपन्नस्य दुष्कृतम् ।  
+तत् सर्वं **शमयत्य्** आशु  
+शरणागतिर् एव सा ।  
+</details>
+
+<details><summary>English</summary>
+
+25. Therefore whatever may be the sin of a Prapanna brought on either by negligence or by intention-all these, this Saranagati (refuge-seeking) aloue removes at once. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मात् प्रमादात् बुद्ध्या वा यत् प्रपन्नस्य दुष्कृतम् ।  
 तत् सर्वं शमयत्याशु शरणागतिरेव सा ।  
-शक्तौ प्रतिपदोक्तं स्यात् अशक्तौ शरणागतिः ।  
-"अनन्यसाध्ये स्वाभीष्टे” इति न्यासस्य लक्षणात् ।  
-अन्यथाऽतिप्रसङ्गः स्यात् अवैष्णवगृहाशने ।  
-शरणागतहन्तुः स्यात् प्रपत्त्यैव परिग्रहः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शक्तौ प्रतिपदोक्तं स्यात्  
+अ-शक्तौ शरणागतिः ।  
+"अन्-अन्य-साध्ये स्वाभीष्टे”  
+इति न्यासस्य लक्षणात् ।  
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपायानामुपायत्वस्वीकारेऽप्येतदेव हि ।"  
-"प्रायश्चित्तप्रसङ्गे तु सर्वपापसमुद्भवे ।  
-मामेकां देवदेवस्य महिषीं शरणं व्रजेत्"। (ल. तं 17-102)  
-तस्मात् प्रमादात् बुद्धया वा यत् प्रपन्नस्य दुष्कृतम् ।  
-तत् सर्वं शमयत्याशु शरणागतिरेव सा ।  
 शक्तौ प्रतिपदोक्तं स्यात् अशक्तौ शरणागतिः ।  
 "अनन्यसाध्ये स्वाभीष्टे” इति न्यासस्य लक्षणात् ।  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… अन्यथा ऽतिप्रसङ्गः स्यात्  
+अ-वैष्णव-गृहाशने ।  
+शरणागत-हन्तुः स्यात्  
+प्रपत्त्यैव परिग्रहः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
 अन्यथाऽतिप्रसङ्गः स्यात् अवैष्णवगृहाशने ।  
 शरणागतहन्तुः स्यात् प्रपत्त्यैव परिग्रहः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ज्ञात्वाऽप्यपाये पातित्यं यः करोति विमूढधीः ।  
-भोग एव हि तत्र स्यात् निष्कृतिर्नानयाऽपि हि ।  
-प्रपन्न इति गर्वेण न कुर्यात् पुरु दुष्कृतम् ॥ २९ ॥
+ज्ञात्वा ऽप्य् अपाये **पातित्यं**  
+यः **करोति** विमूढधीः ।  
++++(दण्ड-)+++**भोग एव** हि तत्र स्यात्  
+निष्कृतिर् नानयाऽपि हि ।  
 </details>
+
+<details><summary>English</summary>
+
+26. That fool who, even knowing the loss of position in detrimental rites (apaya) (willfully) performs them,-to him there shall be only the enjoyment of those karmas and no atonement even by this (saranagati). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ज्ञात्वाऽप्यपाये पातित्यं यः करोति विमूढधीः ।  
 भोग एव हि तत्र स्यात् निष्कृतिर्नानयाऽपि हि ।  
-प्रपन्न इति गर्वेण न कुर्यात् पुरु दुष्कृतम् ॥ २९ ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+प्रपन्न इति गर्वेण  
+**न कुर्यात्** पुरु दुष्कृतम् ॥ २९ ॥
+ज्ञात्वा ऽप्य् अपाय-कर्माणि  
+कुर्वन् मूढः **पतत्य्** अधः ।  
+</details>
+
+<details><summary>English</summary>
+
+27. From the pride that one is a l'rapanna one shall not commit excess of sins. 
+The fool, even while being conscious of performing detrimental karmas, falls down. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपन्न इति गर्वेण न कुर्यात् पुरु दुष्कृतम् ॥ २९ ॥  
 ज्ञात्वाऽप्यपायकर्माणि कुर्वन् मूढः पतत्यधः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानिनो **न** च **कुर्वन्ति** ;  
+यद्य् अज्ञानात् प्रमादतः ।  
+तच् च ज्ञानाग्निना सर्वं  
+**दहन्ति** विमलाशयाः ।  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+28. The wise do not at all commit (such deeds) 1f through ignorance or mistake, they do any, getting a lucid state of mind they burn them all with the fire of knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ज्ञानिनो न च कुर्वन्ति ; यद्यज्ञानात् प्रमादतः ।  
-तच्च ज्ञानाग्निना सर्व दहन्ति विमलाशयाः ।  
+तच्च ज्ञानाग्निना सर्वं दहन्ति विमलाशयाः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्राह कृष्णो भगवान्  
+अर्जुनाय तु शृण्वते -  
+"यथैधांसि समिद्धो ऽग्निः  
+**भस्मसात् कुरुते** ऽर्जुन ।  
+ज्ञानाग्निः सर्व-कर्माणि  
+**भस्मसात् कुरुते** तथा " ॥ ३२ ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+29-30. In this connection Bhagavan Krishna says to the attentive Arjuna :- 
+"As a fire well-kindled reduces the fuel to ashes so, to ashes, the fire of knowledge reduces all actions ?" 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 अत्राह कृष्णो भगवान् अर्जुनाय तु शृण्वते.  
 " यथैधांसि समिद्धोऽग्निः भस्मसात् कुरुतेऽर्जुन ।  
 ज्ञानाग्निः सर्वकर्माणि भस्मसात् कुरुते तथा " ॥ ३२ ॥
 </details>
 
-<details><summary>मूलम्</summary>
-
-ज्ञात्वाऽप्यपायकर्माणि कुर्वन् मूढः पतत्यधः ।  
-ज्ञानिनो न च कुर्वन्ति ; यद्यज्ञानात् प्रमादतः ।  
-तच्च ज्ञानाग्निना सर्व दहन्ति विमलाशयाः ।  
-अत्राह कृष्णो भगवान् अर्जुनाय तु शृण्वते.  
-" यथैधांसि समिद्धोऽग्निः भस्मसात् कुरुतेऽर्जुन ।  
-ज्ञानाग्निः सर्वकर्माणि भस्मसात् कुरुते तथा " ॥ ३२ ॥
-</details>
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भगवज्ञानविस्रम्भविशुद्धमनसां सताम् ।  
-शास्त्रोक्तं भगवज्ज्ञानं प्रायश्चित्तं कृतैनसाम् ॥ ३३ ॥
+भगवज्-ज्ञान-विस्रम्भ-  
+विशुद्ध-मनसां सताम् ।  
+शास्त्रोक्तं **भगवज्-ज्ञानं  
+प्रायश्चित्तं** कृतैनसाम् ॥ ३३ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+31. To the sages whose minds are purified by the trust in the knowledge of God, the knowledge of God men- tioned in the Sastras, is the atonemen.t for all the sins. committed by them. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-भगवज्ञानविस्रम्भविशुद्धमनसां सताम् ।  
+भगवज्ज्ञानविस्रम्भविशुद्धमनसां सताम् ।  
 शास्त्रोक्तं भगवज्ज्ञानं प्रायश्चित्तं कृतैनसाम् ॥ ३३ ॥
 </details>
 

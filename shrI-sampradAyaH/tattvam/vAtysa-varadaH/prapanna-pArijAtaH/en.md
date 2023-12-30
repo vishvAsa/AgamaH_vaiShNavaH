@@ -4,25 +4,10 @@ title = "en"
 
 Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
 
- 
-
-
 
  
-800 
- 
+[[302]] 
 
-. 24. When an occasion for prayaschitta arises, what- ever may be the sin that gave rise to it, one shall seek re- fuge with me alone, the Consort of the God of gods. 
-25. Therefore whatever may be the sin of a Prapanna brought on either by negligence or by intention-all these, this Saranagati (refuge-seeking) aloue removes at once. 
-26. That fool who, even knowing the loss of position in detrimental rites (apaya) (willfully) performs them,-to him there shall be only the enjoyment of those karmas and no atonement even by this (saranagati). 
-27. From the pride that one is a l'rapanna one shall not commit excess of sins. The fool, even while being conscious of performing detrimental karmas, falls down. 
-28. The wise do not at all commit (such deeds) 1f through ignorance or mistake, they do any, getting a lucid state of mind they burn them all with the fire of knowledge. 
-29-80. In this connection Bhagavan Krishna says to the attentive Arjuna :- 
-"As a fire well-kindled reduces the fuel to ashes so, to ashes, the fire of knowledge reduces all actions ?" 
- 
-302 
-The Brahmavadın. 
-31. To the sages whose minds are purified by the trust in the knowledge of God, the knowledge of God men- tioned in the Sastras, is the atonemen.t for all the sins. committed by them. 
 32. Only as much accomplishment there is to a person as the degree of faith in him. The efficacy of faith cannot be measured as 'thus much'. 
 33. An intelligent man shall always obey the approved customs mentioned in the Vedas. With reference to the transgression of the Vedic course of conduct what is said in the Pancharatra-sastras is as follows:- 
 34-35. "For the non-lapse of dharmas, for the pre- servation of the race, for the protection of the people, for the establishment of the moral-laws (or fixity of usages), for the pleasure of myself and Vishnu, the God of gods and the Wielder of the bow saranga, an intelligent man shall not transgress the Vedic usage even mentally. 
