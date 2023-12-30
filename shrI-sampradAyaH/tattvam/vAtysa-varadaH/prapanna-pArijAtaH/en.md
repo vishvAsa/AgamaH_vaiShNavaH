@@ -5,30 +5,7 @@ title = "en"
 Source: [TW](https://archive.org/details/prapannaparijata/page/n1/mode/2up)
  
 
-3. It has been said by Bhagavan Vishnu in the Pan- charatra Sastra that the satisfaction of a Prapanna in having achieved his object is unsurpassed love to God and the consciousness of His distinction from all. 
-4-5. He who adopting Vishnu as the means accom- plishes another object is said to be the lowest. He who adopting other means aims at the attainment of Vishnu is said to be mediocre. He who adopting the pair of Madhava's feet as the means attains the feet of Madhava (God) is the best qualified, and has here, in this birth accomplished his object. 
-6. God of his own accord receives on His head all the worship which are made by men whose minds are devoted to one object. 
-7. Even an atom of offering given with love by the bhaktas becomes very great to me, and that offered by a 
-
-• 
-380 
-The Brahmavallin. 
-non-bhakta, however much it be, does not bring about my satisfaction. 
-8. Here.the word bhakta in its chief significance ulti- mately points to a Prapanna. In his own samhita (Vishvak- senasamhita) the leader of the hosts (senesa) has said as follows:-- 
-9-10. By the word bhakti copious seva (devoted service) is mentioned by the sages; and seva is entering into a state of utter lowliness towards one's Lord. Therefore the act of taking pleasure solely in the service of the Supreme is called Bhakti. 
-11-12. Some good men who have their sole refuge in destitution of means, but again are highly fortunate and have chosen Lakshmi as the mediatrix and are desirous of attaining Me alone who is united with Sri, having thus taken shelter with Me, reach me alone. 
-13. He who does My werk, who has no being higher than me, who is free from sorrow, fear and fatigue and who is without any support, without any desire, without any attachment to the external world and without egotism, having taken refuge with Me alone shall cross the ocean of 
-samsara. 
-14. Those that are devoted to good works, that are pure and learned in sankhyayoga (the path of knowledge), are not worth even a tenmillomth part of him who is staid in refuge-seeking. 
-15. And-te a person who has acquired the means (of Prapatti), the non-clinging and destruction of subsequent and antecedent aghas (actions of bondage) which are of the nature of merit (punya) and demerit (papa), shall happen. 
-16-17. Properly, all other antecedent aghas of a proud prapanna (dripta), except those that are fit to be enjoyed in the body already begun, desist; and there shall be no clinging of all other aghas except those only that are 
-
-
-381 
-intentional, principal, persisting till the decay of the body and are devoid of repentence. 
-18-19. This import has been specially declared by Bhagavan Vishnu. 
-"Bhakti as the means of accomplishing one's desired object (upayabhakti) is the destroyer of all aghas excepting those that have begun to work (prārabdha) ; but bhakti as the end to reach (sadhya-bhakti) which is greater, is the destroyer even of the aghas that have commenced to work. 
-20. Bhakti-yoga with all its auxiliary parts is here called upaya-bhakti (bhakti as a means). It shall not destroy the aghas begun (prarabdha) which is verily the cause of many births. 
+ 
 21. 
 44 
 Prapatti which is of the nature of moksha is called sadhya-bhakti (bhakti as an end). This one too which is higher, shall destroy even the aghas already begun of the afflicted Prapannas (artas), but it shall not destroy the aglas of a proad Prapanna which are to be enjoyed in the body already possessed. 
