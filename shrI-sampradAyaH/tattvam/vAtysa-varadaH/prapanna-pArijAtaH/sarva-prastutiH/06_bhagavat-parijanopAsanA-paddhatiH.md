@@ -102,7 +102,7 @@ I. 1. Then the goddess Lakshmi ought to be specially worshipped by a Prapanna, a
 
 5. After mentioning the five kinds of manifestations like the supreme (Para), the partial (Vyuha) and others of His Self, Hari says in Tatvaratna about her glory as follows:— 
 
-The manifestations of God (Isvara) according to the Pancharatra sastras are fivefold: Para, the essential and supreme manifestation, as it appears in the empyrean, (Vaikuntha) of Vishnu which is only one; Vyuha, the group of partial manifes- tations which are recognised as fourfold, Vasudeva, Sankarshana, Pradyumna, and Aniruddha; Vibhava, the part manifestations of cosmic energy which are innumerable as seen in the incarna- tions of Rama, Krishna &c., Antaryamin, the manifestation as abiding inside all beings; Archavatara, the incarnations in the form of holy images for the purpose of worship. These four grades of manifestation lead successively form the lowest image to the highest para. 
+The manifestations of God (Isvara) according to the Pancharatra sastras are fivefold: Para, the essential and supreme manifestation, as it appears in the empyrean, (Vaikuntha) of Vishnu which is only one; Vyuha, the group of partial manifestations which are recognised as fourfold, Vasudeva, Sankarshana, Pradyumna, and Aniruddha; Vibhava, the part manifestations of cosmic energy which are innumerable as seen in the incarnations of Rama, Krishna &c., Antaryamin, the manifestation as abiding inside all beings; Archavatara, the incarnations in the form of holy images for the purpose of worship. These four grades of manifestation lead successively form the lowest image to the highest para. 
 </details>
 
 
@@ -209,7 +209,7 @@ to Me.
 
 <details><summary>English</summary>
 
-10. "That the twofold power of manifestation (Nitya- vibhuti Etenal manifestation and Lilavibhuti: sportive manifestation) is at the disposal of both Her and Me, is evident, O mānada; (my pride!) from the Vedanta and the Pancharatra-Sastra taught by Me. 
+10. "That the twofold power of manifestation (Nityavibhuti Etenal manifestation and Lilavibhuti: sportive manifestation) is at the disposal of both Her and Me, is evident, O mānada; (my pride!) from the Vedanta and the Pancharatra-Sastra taught by Me. 
 </details>
 
 
@@ -231,7 +231,7 @@ to Me.
 
 <details><summary>English</summary>
 
-11. "In the same way Bhumi and Nila are also con- sidered subservient to Me. As pervasion by intelligence is laid down to all souls, to these two is prescribed only per- vasion by quality and not by substance." 
+11. "In the same way Bhumi and Nila are also considered subservient to Me. As pervasion by intelligence is laid down to all souls, to these two is prescribed only pervasion by quality and not by substance." 
 </details>
 
 
@@ -476,7 +476,7 @@ Lakshmi says this essence to be Narayana and attribute to be Herself; and Lakshm
 
 <details><summary>English</summary>
 
-who at the time of His becom- ing the means fosters knowledge, energy and other attri- butes in Him, who for the enhancement of the enjoyments. of the freed augments the qualities of beauty, &c, 
+who at the time of His becoming the means fosters knowledge, energy and other attributes in Him, who for the enhancement of the enjoyments. of the freed augments the qualities of beauty, &c, 
 </details>
 
 
@@ -558,7 +558,7 @@ who is endowed with the three capacities of (upayatva, being the means, upeyatva
 
 <details><summary>English</summary>
 
-29. In due order, one shall worship the eternals, Ananta, Garuda, and a host of others with their re- tinue; the weapons, disc, &c; 
+29. In due order, one shall worship the eternals, Ananta, Garuda, and a host of others with their retinue; the weapons, disc, &c; 
 </details>
 
 
@@ -646,7 +646,7 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 
 <details><summary>English</summary>
 
-32. And what Vishnu says to the attentive Vishvak- sena regarding those in particular that are unworthy of the worship of mumukshus is as follows:-- 
+32. And what Vishnu says to the attentive Vishvaksena regarding those in particular that are unworthy of the worship of mumukshus is as follows:-- 
 </details>
 
 

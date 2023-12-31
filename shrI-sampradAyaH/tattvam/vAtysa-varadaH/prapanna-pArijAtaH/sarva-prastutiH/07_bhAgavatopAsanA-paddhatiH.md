@@ -68,7 +68,7 @@ ON SERVING THE VIRTUOUS.
 
 <details><summary>English</summary>
 
-3-4. Whenever a doubt arises as regards one's own conduct and action, approaching with humility such sages (vipras) as have well deliberated, and are perfect and steady in the path of virtue, one shall learn the solution. What- ever course of conduct they pursue in the particular case in view that course a virtuous man shall (in his case) adopt. 
+3-4. Whenever a doubt arises as regards one's own conduct and action, approaching with humility such sages (vipras) as have well deliberated, and are perfect and steady in the path of virtue, one shall learn the solution. Whatever course of conduct they pursue in the particular case in view that course a virtuous man shall (in his case) adopt. 
 </details>
 
 
@@ -212,7 +212,7 @@ ON SERVING THE VIRTUOUS.
 
 <details><summary>English</summary>
 
-10. No fruit+++(??)+++ has directly been proclaimed by the sages to persons whose learning is one of long labour, there- fore is (advised) the constant thinking of the qualities of those in whose heart is the lotus-feet of the lord (Makanda).' 
+10. No fruit+++(??)+++ has directly been proclaimed by the sages to persons whose learning is one of long labour, therefore is (advised) the constant thinking of the qualities of those in whose heart is the lotus-feet of the lord (Makanda).' 
 </details>
 
 
@@ -252,7 +252,7 @@ ON SERVING THE VIRTUOUS.
 
 <details><summary>English</summary>
 
-12. "One shall not wash the feet (of a guest) in a ves- sel made of bell-metal, is the injunction of the Smritis. Therefore in other vessels like the mud ones, shall one wash. And Bhagavan Suka says as follows:- 
+12. "One shall not wash the feet (of a guest) in a vessel made of bell-metal, is the injunction of the Smritis. Therefore in other vessels like the mud ones, shall one wash. And Bhagavan Suka says as follows:- 
 </details>
 
 
@@ -375,9 +375,9 @@ ON SERVING THE VIRTUOUS.
 <details><summary>English</summary>
 
  [[296]] 
-18. For the promotion of the knowledge of one's sub- serviency to God (Seshatva), in one's house one shall, attended with the consciousness of their tripleness* (prapya; object of attainment; prapaka: the means, and Seshi: appropria- tor), gratify the Vaishnavas with repasts which are to their liking and are in consonance with the Sastras. 
+18. For the promotion of the knowledge of one's subserviency to God (Seshatva), in one's house one shall, attended with the consciousness of their tripleness* (prapya; object of attainment; prapaka: the means, and Seshi: appropriator), gratify the Vaishnavas with repasts which are to their liking and are in consonance with the Sastras. 
 
-* Trividha-Tyaga is another variant of Trividha-jnana. In that case the meaning is preceded by the threefold renuncia- tion', of Phala-sanga-kartri (fruits of action, attachment and the claiming of agency.) 
+* Trividha-Tyaga is another variant of Trividha-jnana. In that case the meaning is preceded by the threefold renunciation', of Phala-sanga-kartri (fruits of action, attachment and the claiming of agency.) 
 </details>
 
 
@@ -603,7 +603,7 @@ ON SERVING THE VIRTUOUS.
 
 <details><summary>English</summary>
 
-27. As Yayate having fallen among the good re- gained his own position from there, even so one falling among the good does not get embarassed. 
+27. As Yayate having fallen among the good regained his own position from there, even so one falling among the good does not get embarassed. 
 
 The allusion is to the story of the Mahabharata. When Yayati the celebrated king of the lunar race, the son of Nahusha, was reaping the fruits of his merit in the Svargaloka, blinded with pride he one day used vile language towards the sages, which destroyed his punya and led his fall through a curse from Indra. But by the favour of the king of gods he fell among the sages called ashtakas and by their grace regained his lost position. 
  

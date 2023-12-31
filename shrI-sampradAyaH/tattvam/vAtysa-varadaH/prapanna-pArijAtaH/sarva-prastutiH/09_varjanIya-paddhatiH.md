@@ -68,7 +68,7 @@ ON THE KARMAS THAT OUGHT TO BE RENOUNCED.
 
 <details><summary>English</summary>
 
-3-4. The reverential going from left to right, keeping the object of circumambulation to the right, round a place where the four roads meet, a tree, an auspicious object and such other acts which are destructive of sins to men, all those acts that are sanctioned by the general sastras but are con- trary to the special ones, and the karmas yielding the enjoy- ments of both the worlds i. e. performed for some particular worldly object and future fruition (kamya), all these the prince of men devoted to one object only (parame- kanti) shall not do, as also wearing marks and other tokens which are prescribed in the general sastras but are contrary (to the practices of a Vaishnava). 
+3-4. The reverential going from left to right, keeping the object of circumambulation to the right, round a place where the four roads meet, a tree, an auspicious object and such other acts which are destructive of sins to men, all those acts that are sanctioned by the general sastras but are contrary to the special ones, and the karmas yielding the enjoyments of both the worlds i. e. performed for some particular worldly object and future fruition (kamya), all these the prince of men devoted to one object only (paramekanti) shall not do, as also wearing marks and other tokens which are prescribed in the general sastras but are contrary (to the practices of a Vaishnava). 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -201,7 +201,7 @@ ON THE KARMAS THAT OUGHT TO BE RENOUNCED.
 
 <details><summary>English</summary>
 
-10-11. Owing to sparseness of followers in the world, owing to the quality of being an easy means, from the weigh- tiness of the result and also from construing otherwise the authorities (for prapatti) with the help of specious reasoning, some disregard the expediency of Prapatti for the accom- plishment of freedom. 
+10-11. Owing to sparseness of followers in the world, owing to the quality of being an easy means, from the weightiness of the result and also from construing otherwise the authorities (for prapatti) with the help of specious reasoning, some disregard the expediency of Prapatti for the accomplishment of freedom. 
 </details>
 
 
@@ -222,7 +222,7 @@ ON THE KARMAS THAT OUGHT TO BE RENOUNCED.
 
 <details><summary>English</summary>
 
-12. They who are wicked and foolish, are deemed the vilest of men. Robbed of their knowledge by Maya (illu- sion) they have betaken themselves to demoniac nature. 
+12. They who are wicked and foolish, are deemed the vilest of men. Robbed of their knowledge by Maya (illusion) they have betaken themselves to demoniac nature. 
 </details>
 
 
@@ -286,7 +286,7 @@ ON THE KARMAS THAT OUGHT TO BE RENOUNCED.
 
 <details><summary>English</summary>
 
-15. Those smritis which are contrary to the Vedas, and those low cults which are sophistical, all these are use- less after death; therefore, indeed, they are considered as resting in darkness (low ideas). 
+15. Those smritis which are contrary to the Vedas, and those low cults which are sophistical, all these are useless after death; therefore, indeed, they are considered as resting in darkness (low ideas). 
 </details>
 
 
@@ -312,11 +312,11 @@ ON THE KARMAS THAT OUGHT TO BE RENOUNCED.
 [[319]] 
 
 • Baidalavrata. "Catlike observance," concealing one's malice or evil designs under the garb of piety or virtue. The allusion is to a characterístic story of a cat which after infusing confidence into the rats by a show of assumed piety, tries to destroy them by carefully preying on the stray ones.  
-Manu gives the follow- ing definition of a Baidalavratika.  
+Manu gives the following definition of a Baidalavratika.  
 "One who vaunts his piety by carrying the flag of righteousness, who is always malicious and who is a religious hypocrite, deceiver of the world, fierce as a beast and a traducer of all, is known as a Baidalavratika." 
 
 + Bakavritti. "Cranelike conduct,' religious hypocrisy. The reference is to the act of a crane which under the pretence of sleep watches the fish passing through an acqueduct till a big one passes when it suddenly pounces upon it.  
-Manu defines a Bako- vratika thus :--  
+Manu defines a Bakovratika thus :--  
 " He is a dvija (twice-born) acting like the crane who (like a yogi) has a downward look, who is false and cruel, who is always bent on securing his own interest who is rogue and who is falsely modest." 
 </details>
 
@@ -459,7 +459,7 @@ Manu defines a Bako- vratika thus :--
 
 <details><summary>English</summary>
 
-25. "To a person in whom repentence sets in when a sin is committed, the remembering of God alone is mention- ed as the highest atonement (prayaschitta)." 
+25. "To a person in whom repentence sets in when a sin is committed, the remembering of God alone is mentioned as the highest atonement (prayaschitta)." 
 </details>
  
 
@@ -484,7 +484,7 @@ Manu defines a Bako- vratika thus :--
 
 <details><summary>English</summary>
 
-26. "O Maitreya! Swayambhu and other sages have- spoken of prayaschitta to be of the same degree as the sin (proportionate to), a severe one for a great sin and a light one for a slight sin." 
+26. "O Maitreya! Swayambhu and other sages havespoken of prayaschitta to be of the same degree as the sin (proportionate to), a severe one for a great sin and a light one for a slight sin." 
 </details>
  
 
@@ -505,7 +505,7 @@ Manu defines a Bako- vratika thus :--
 
 <details><summary>English</summary>
 
-27. "All prayaschittas are of the nature of austerity (tapas) and rite (karma). Of all of them the constant re- membering of Krishna (God) is the highest." 
+27. "All prayaschittas are of the nature of austerity (tapas) and rite (karma). Of all of them the constant remembering of Krishna (God) is the highest." 
 </details>
 
 
@@ -591,7 +591,7 @@ by thus distinguishing the subject, there carr be no confusion of the 'severe on
 
 <details><summary>English</summary>
 
-By Yajnavalkya who thus has said, is also des- cribed the purification of the soul that arises from a know- ledge of the relation of the appropriated and the appropriator (seshaseshi) that exists between the Soul and God (Atman and Iswara). 
+By Yajnavalkya who thus has said, is also described the purification of the soul that arises from a knowledge of the relation of the appropriated and the appropriator (seshaseshi) that exists between the Soul and God (Atman and Iswara). 
 </details>
 
 
@@ -613,7 +613,7 @@ By Yajnavalkya who thus has said, is also des- cribed the purification of the so
 
 [[321]]  
 32. Even though a person be much addicted to sin, 
-meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the purifier of the pure who sanctify by their presence those persons that sit with them in the same row to dine (panktipavana). 
+meditating on God for a moment he becomes anew an ascetie (lapasvin) and the purifier of the pure who sanctify by their presence those persons that sit with them in the same row to dine (panktipavana). 
 
 </details>
 
@@ -636,7 +636,7 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 
 <details><summary>English</summary>
 
-33. Whether he be holy or unholy or even has fallen into all sorts of undesirable states of life, that person who shall think of God, becomes pure both internally and exter- nally. 
+33. Whether he be holy or unholy or even has fallen into all sorts of undesirable states of life, that person who shall think of God, becomes pure both internally and externally. 
 </details>
  
 <details><summary>मूलम्</summary>
@@ -657,7 +657,7 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 
 <details><summary>English</summary>
 
-34. To such men, meditators on God, mentioned by Sounaka and others who feel repentence when a sin is com- mitted, their expiatory rites end with the setting in of that meditation (ie., on God). 
+34. To such men, meditators on God, mentioned by Sounaka and others who feel repentence when a sin is committed, their expiatory rites end with the setting in of that meditation (ie., on God). 
 </details>
 
 
@@ -700,7 +700,7 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 
 <details><summary>English</summary>
 
-36. A virtuous man (sadhu) shall not resort to a fool, nor a guru shall teach a fool. For, he who betakes himself to an ignorant person enters the darkness; and the know- ledge that is given to a fool is seed sown in a barren, saline soil. 
+36. A virtuous man (sadhu) shall not resort to a fool, nor a guru shall teach a fool. For, he who betakes himself to an ignorant person enters the darkness; and the knowledge that is given to a fool is seed sown in a barren, saline soil. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -720,7 +720,7 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 
 <details><summary>English</summary>
 
-87. The guru and the disciple shall not at anytime bear malice towards each other. Of these he who is malici- ously inclined falls from the path of freedom. 
+87. The guru and the disciple shall not at anytime bear malice towards each other. Of these he who is maliciously inclined falls from the path of freedom. 
 </details>
 
 
@@ -744,7 +744,7 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 
 <details><summary>English</summary>
 
-38-39. No person shall have recourse to God (Hari) with a mantra uninstructed by a guru. From cupidity a disciple shall not reproach a righteous guru. An intelli- gent man shall not appropriate anything without offering it to his guru. A good Vaishnava shall relinquish all those that hate his guru. 
+38-39. No person shall have recourse to God (Hari) with a mantra uninstructed by a guru. From cupidity a disciple shall not reproach a righteous guru. An intelligent man shall not appropriate anything without offering it to his guru. A good Vaishnava shall relinquish all those that hate his guru. 
 </details>
 
 
@@ -813,7 +813,7 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 
 <details><summary>English</summary>
 
-44. He shall not salute any other deity, nor contem- plate any other deity; he shall not go up into any other temple nor enter any other sanctuary. 
+44. He shall not salute any other deity, nor contemplate any other deity; he shall not go up into any other temple nor enter any other sanctuary. 
 </details>
 
 
@@ -853,7 +853,7 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 
 <details><summary>English</summary>
 
-46. A Vaishnava shall not get, on his own behalf per- fumes, flowers,also clothes, jewels, animals, houses and other objects of enjoyment. 
+46. A Vaishnava shall not get, on his own behalf perfumes, flowers,also clothes, jewels, animals, houses and other objects of enjoyment. 
 </details>
 
 
@@ -873,7 +873,7 @@ meditating on God for a moment he becomes anew an asce- tie (lapasvin) and the p
 
 <details><summary>English</summary>
 
-47. The idea of subserviency should not be entertain- ed in one's own sons &c, who are the manifestations of the glory of God (Vishnu). For a wise man shall always shun the feeling of meum (mamata). 
+47. The idea of subserviency should not be entertained in one's own sons &c, who are the manifestations of the glory of God (Vishnu). For a wise man shall always shun the feeling of meum (mamata). 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1046,7 +1046,7 @@ With base mantras he shall not effect extraction of poison, exorcism of devils a
 
 <details><summary>English</summary>
 
-56. Any how for the sake of livelihood one shall not fol- low the ways of the world. Occupying that profession which is to the approval of the good and is consistent with place and time, he shall not, out of temptation, resort to vulgar means. 
+56. Any how for the sake of livelihood one shall not follow the ways of the world. Occupying that profession which is to the approval of the good and is consistent with place and time, he shall not, out of temptation, resort to vulgar means. 
 </details>
 
 
@@ -1096,7 +1096,7 @@ With base mantras he shall not effect extraction of poison, exorcism of devils a
 
 <details><summary>English</summary>
 
-But to him who is of a retiring dis- position, of firm practice, who has withdrawn from the plea- sures of the senses, whose mind is devoted to the knowledge of the Supreme Spirit, and who is always harmless, moksha is certain." 
+But to him who is of a retiring disposition, of firm practice, who has withdrawn from the pleasures of the senses, whose mind is devoted to the knowledge of the Supreme Spirit, and who is always harmless, moksha is certain." 
 </details>
 
 
@@ -1178,7 +1178,7 @@ But to him who is of a retiring dis- position, of firm practice, who has withdra
 
 <details><summary>English</summary>
 
-62. If an offence is given to a sage either from negli- gence or from intention, repentant one shall seek him alone for forgivness, otherwise there will be no palliation. 
+62. If an offence is given to a sage either from negligence or from intention, repentant one shall seek him alone for forgivness, otherwise there will be no palliation. 
 
 63. Even in the case of an offence againist God this expiation is unsurpassed. 
 </details>
@@ -1238,7 +1238,7 @@ A wise man shall avoid all carnality. [[324]]
 
 <details><summary>English</summary>
 
-65. A wise man shall not do anything with any un- wise man. This has been said by the Lord in the Pancha- ratra Sastra, also by Mana and others. 
+65. A wise man shall not do anything with any unwise man. This has been said by the Lord in the Pancharatra Sastra, also by Mana and others. 
 
 </details>
 
@@ -1256,7 +1256,7 @@ A wise man shall avoid all carnality. [[324]]
 
 <details><summary>English</summary>
 
-66-67. Therefore a pious Vaishnava skall shun con- tact with a vulgar man of the world. 
+66-67. Therefore a pious Vaishnava skall shun contact with a vulgar man of the world. 
 </details>
 
 
@@ -1277,7 +1277,7 @@ A wise man shall avoid all carnality. [[324]]
 
 <details><summary>English</summary>
 
-Intermingling is said to be of eight kinds which ought not to be held with an- blushing sensualists;-occupying one bed, one seat, sitting in one row with other people, using one pot, intermixing cooked food, conducting sacrificial rites, teaching the Vedas, intermarriage and interdining. 
+Intermingling is said to be of eight kinds which ought not to be held with anblushing sensualists;-occupying one bed, one seat, sitting in one row with other people, using one pot, intermixing cooked food, conducting sacrificial rites, teaching the Vedas, intermarriage and interdining. 
 </details>
 
 
@@ -1298,7 +1298,7 @@ Intermingling is said to be of eight kinds which ought not to be held with an- b
 
 <details><summary>English</summary>
 
-68. Sins enter into men by conversation, touch and the manner of sleeping, by sitting and lying down together, by the functions of a priest and of an instructor, and by inter- marriage. 
+68. Sins enter into men by conversation, touch and the manner of sleeping, by sitting and lying down together, by the functions of a priest and of an instructor, and by intermarriage. 
 </details>
 
 
@@ -1339,7 +1339,7 @@ Intermingling is said to be of eight kinds which ought not to be held with an- b
 
 <details><summary>English</summary>
 
-70. The delineation of this conmmingting (sankara) by Brihaspati and, Manu is diverse. But the power of con- ducting sacrifices and such other intercourses to cause degra dation is immediate. 
+70. The delineation of this conmmingting (sankara) by Brihaspati and, Manu is diverse. But the power of conducting sacrifices and such other intercourses to cause degra dation is immediate. 
 </details>
 
 

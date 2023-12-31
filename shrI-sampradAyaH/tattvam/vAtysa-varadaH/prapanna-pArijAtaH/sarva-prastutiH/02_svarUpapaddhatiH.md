@@ -44,7 +44,7 @@ The mental state consisting of determination which results in prayer, of a perso
 
 <details><summary>English</summary>
 
-2. The prayer which with great faith, regards, that (God) alone as the only means for the attainment of a desire incapable of being attained by any other means, is the Pra- patti known as saranaguti (seeking refuge with God). 
+2. The prayer which with great faith, regards, that (God) alone as the only means for the attainment of a desire incapable of being attained by any other means, is the Prapatti known as saranaguti (seeking refuge with God). 
 </details>
 
 
@@ -64,7 +64,7 @@ The mental state consisting of determination which results in prayer, of a perso
 
 <details><summary>English</summary>
 
-3. By the word saranagati, prapatti is specified. There- fore seek with bhakti (love and devotion) this Prapatti which is characterised as saranagati. 
+3. By the word saranagati, prapatti is specified. Therefore seek with bhakti (love and devotion) this Prapatti which is characterised as saranagati. 
 </details>
 
 
@@ -84,7 +84,7 @@ The mental state consisting of determination which results in prayer, of a perso
 
 <details><summary>English</summary>
 
-4. This which with love has been declared by Bhagavan Vishnu to Vishvaksena is known as Arta-prapatti (the pro- patti of the miserable); and it has five accessories (angas). 
+4. This which with love has been declared by Bhagavan Vishnu to Vishvaksena is known as Arta-prapatti (the propatti of the miserable); and it has five accessories (angas). 
 </details>
 
 
@@ -108,7 +108,7 @@ The mental state consisting of determination which results in prayer, of a perso
 
 <details><summary>English</summary>
 
-5. I am the abode of all sins, utterly incapable and helpless, Thou alone O Lord become my means?' Such a condition of the mind is called saranagati. Let this (Sara- nagat) be directed towards the Lord. 
+5. I am the abode of all sins, utterly incapable and helpless, Thou alone O Lord become my means?' Such a condition of the mind is called saranagati. Let this (Saranagat) be directed towards the Lord. 
 </details>
 
 
@@ -157,7 +157,7 @@ The mental state consisting of determination which results in prayer, of a perso
 
 <details><summary>English</summary>
 
-7--8. In the above sentences the Prapatti of five angus (accessories) is mentioned. For (this Prapatti is also) syno- nymous with Nikshepu (self-resignation to the care of God) Nyas the five-membered' (Panchangalukshana) Sannyasa '(self-resignation), Tyaga (giving up ones self to God), and Sarunayati (seeking refuge with God). 
+7--8. In the above sentences the Prapatti of five angus (accessories) is mentioned. For (this Prapatti is also) synonymous with Nikshepu (self-resignation to the care of God) Nyas the five-membered' (Panchangalukshana) Sannyasa '(self-resignation), Tyaga (giving up ones self to God), and Sarunayati (seeking refuge with God). 
 </details>
 
 
@@ -248,7 +248,7 @@ The mental state consisting of determination which results in prayer, of a perso
 
 <details><summary>English</summary>
 
-13-14. From the thought that the several means (for the attainment of moksha) are sure to fail and there are also many dangers owing to the want of completeness in the constituent angus, the incapacity for the performance of kar- ma and other yogus, and the non-vestment of right in some to the practice of them, and the decay of the qualities of place, and time, relinquishing pride and being low spirited is known as karpanya (wretchedness or poorness of spirit). 
+13-14. From the thought that the several means (for the attainment of moksha) are sure to fail and there are also many dangers owing to the want of completeness in the constituent angus, the incapacity for the performance of karma and other yogus, and the non-vestment of right in some to the practice of them, and the decay of the qualities of place, and time, relinquishing pride and being low spirited is known as karpanya (wretchedness or poorness of spirit). 
 </details>
 
 
@@ -361,7 +361,7 @@ The mental state consisting of determination which results in prayer, of a perso
 <details><summary>English</summary>
 
 21. But to Prapatti (belongs), the quality of being the means to the grace of the object of refuge (God)  
-20. To say 'Lord Thou shalt be my protector' is what is known as choosing one's protector. Therefore is men- tioned the ending in prayer of Prapatti. 
+20. To say 'Lord Thou shalt be my protector' is what is known as choosing one's protector. Therefore is mentioned the ending in prayer of Prapatti. 
 </details>
 
 
@@ -403,7 +403,7 @@ and by him who is to be protected by God (so realised through Prapatti) the disc
 
 <details><summary>English</summary>
 
-22. It is evident that eschewing self-exertion in both the means (Upaya) and the fruit (phala) belongs to the (pro- vince of the) Lord (Swamyayatta); (and it is) also (plain) that Nikshepa has accessories. 
+22. It is evident that eschewing self-exertion in both the means (Upaya) and the fruit (phala) belongs to the (province of the) Lord (Swamyayatta); (and it is) also (plain) that Nikshepa has accessories. 
 </details>
 
 
@@ -527,10 +527,10 @@ That which is known as Sudhya-bhakti (love as the end) is declared as Prapatti.
 
 <details><summary>English</summary>
 
-The words of Bhagavata con- veying this import are as follow:- 
+The words of Bhagavata conveying this import are as follow:- 
 29. A Prapanna (one who has sought refuge) is like the chataka bird, prapattavya (one who is to be sanght after) is like the pigeon. These functions of the protected and the protector are indicated by the characteristics of these birds. 
 
-The allusion here is to the chataka bird which is supposed to live solely on rain-drops and to the pigeon of a story in Srimad Bhagavata. As the chataka-bird expectantly waits on the clouds alone for its food, a prapanna should wait on God for the attainment of moksha. And God is like unto the pigeon of the story which, after kindling tire for the warming of a weather- beaten, worn out, luckless hunter who has taken shelter under the tree inhabited by the bird, burnt itself to appease his hunger. 
+The allusion here is to the chataka bird which is supposed to live solely on rain-drops and to the pigeon of a story in Srimad Bhagavata. As the chataka-bird expectantly waits on the clouds alone for its food, a prapanna should wait on God for the attainment of moksha. And God is like unto the pigeon of the story which, after kindling tire for the warming of a weatherbeaten, worn out, luckless hunter who has taken shelter under the tree inhabited by the bird, burnt itself to appease his hunger. 
 
 </details>
 
@@ -583,7 +583,7 @@ The allusion here is to the chataka bird which is supposed to live solely on rai
 
 <details><summary>English</summary>
 
-33. That by which is procured with case the goal held out by (the lower sciences of) the world and the Vedas, which is hard to reach by any other means, is to be under- stood as Prapattı.† 
+33. That by which is procured with case the goal held out by (the lower sciences of) the world and the Vedas, which is hard to reach by any other means, is to be understood as Prapattı.† 
 </details>
 
 

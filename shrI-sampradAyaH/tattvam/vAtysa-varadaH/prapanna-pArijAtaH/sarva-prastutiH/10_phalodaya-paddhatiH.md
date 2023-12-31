@@ -63,7 +63,7 @@ ON THE DAWN OF FRUITION.
 
 <details><summary>English</summary>
 
-3. It has been said by Bhagavan Vishnu in the Pan- charatra Sastra that the satisfaction of a Prapanna in having achieved his object is unsurpassed love to God and the consciousness of His distinction from all. 
+3. It has been said by Bhagavan Vishnu in the Pancharatra Sastra that the satisfaction of a Prapanna in having achieved his object is unsurpassed love to God and the consciousness of His distinction from all. 
 </details>
 
 
@@ -83,7 +83,7 @@ ON THE DAWN OF FRUITION.
 
 <details><summary>English</summary>
 
-4-5. He who adopting Vishnu as the means accom- plishes another object is said to be the lowest. He who adopting other means aims at the attainment of Vishnu is said to be mediocre. 
+4-5. He who adopting Vishnu as the means accomplishes another object is said to be the lowest. He who adopting other means aims at the attainment of Vishnu is said to be mediocre. 
 </details>
  
 
@@ -164,7 +164,7 @@ He who adopting the pair of Madhava's feet as the means attains the feet of Madh
 
 <details><summary>English</summary>
 
-8. Here.the word bhakta in its chief significance ulti- mately points to a Prapanna. In his own samhita (Vishvak- senasamhita) the leader of the hosts (senesa) has said as follows:--
+8. Here.the word bhakta in its chief significance ultimately points to a Prapanna. In his own samhita (Vishvaksenasamhita) the leader of the hosts (senesa) has said as follows:--
 </details>
 
 
@@ -433,7 +433,7 @@ but bhakti as the end to reach (sadhya-bhakti) which is greater, is the destroye
 
 <details><summary>English</summary>
 
-23-24. "From karma which is the root of sorrow I shall liberate you, grieve not." As it has been thus said by the Lord, also on account of the feeling of grief for the body, there shall be liberation forthwith to an arta-prapan- na (the afflicted or the unhappy prapanna); for prapatti is higher (than Bhakti-yoga). 
+23-24. "From karma which is the root of sorrow I shall liberate you, grieve not." As it has been thus said by the Lord, also on account of the feeling of grief for the body, there shall be liberation forthwith to an arta-prapanna (the afflicted or the unhappy prapanna); for prapatti is higher (than Bhakti-yoga). 
 </details>
 
 
@@ -454,7 +454,7 @@ but bhakti as the end to reach (sadhya-bhakti) which is greater, is the destroye
 
 <details><summary>English</summary>
 
-25. But a dripta (a proud-prapanna), as he of his own accord does not feel grief on account of the body posses- sed (prarabdha), is liberated at the end of the body. This is the determination of their time of liberation. 
+25. But a dripta (a proud-prapanna), as he of his own accord does not feel grief on account of the body possessed (prarabdha), is liberated at the end of the body. This is the determination of their time of liberation. 
 grace 
 </details>
  
@@ -517,7 +517,7 @@ and through it immediately rising above, reaching those employed to convey to th
 
 <details><summary>English</summary>
 
-and owing to the con- tact of the hand of the superhuman being (amānava) leaving the subtle body (Sūkskmadeha), mentally crossing the river Viraja (devoid of passion) and marked with holy sandal and other perfumes of Brahman, 
+and owing to the contact of the hand of the superhuman being (amānava) leaving the subtle body (Sūkskmadeha), mentally crossing the river Viraja (devoid of passion) and marked with holy sandal and other perfumes of Brahman, 
 </details>
  
 
@@ -625,7 +625,7 @@ moving about from world to world and pursuing all desires taking form at will, a
 
 <details><summary>English</summary>
 
-33-34. "That person who thinks of me, the omnipre- sent and the unborn, when his mind is in a state of calmness, his body in a state of harmony of the humours, him, I after- wards think of; my devotee (bhakta) who is at the point of death like a stock or stone and lead him to the final goal.” 
+33-34. "That person who thinks of me, the omnipresent and the unborn, when his mind is in a state of calmness, his body in a state of harmony of the humours, him, I afterwards think of; my devotee (bhakta) who is at the point of death like a stock or stone and lead him to the final goal.” 
 </details>
 
 
@@ -650,7 +650,7 @@ moving about from world to world and pursuing all desires taking form at will, a
 
 <details><summary>English</summary>
 
-35-43. At any time whatever on account of the har- mony of wind and other humours of the body due to the absence of disease when calmness of mind exists, if any man whatever thinks of me who am the great ocean of lordship, excellence of disposition, affection and other good qualities [[383]] 
+35-43. At any time whatever on account of the harmony of wind and other humours of the body due to the absence of disease when calmness of mind exists, if any man whatever thinks of me who am the great ocean of lordship, excellence of disposition, affection and other good qualities [[383]] 
 </details>
 
 
@@ -672,7 +672,7 @@ moving about from world to world and pursuing all desires taking form at will, a
 
 <details><summary>English</summary>
 
-kindled by Lakshmi, and who am Narayana, the Omni- present, the unborn and the possessor of body at will,-Me, 
+kindled by Lakshmi, and who am Narayana, the Omnipresent, the unborn and the possessor of body at will,-Me, 
 </details>
 
 
@@ -712,7 +712,7 @@ if he thinks of even once saying 'O Narayana, than whom there is no other resort
 
 <details><summary>English</summary>
 
-Of my own accord I then think of him who is free from obstruc- tion by other means, who remains steady in that state and who, when death approaches, is like a block of wood or stone, 
+Of my own accord I then think of him who is free from obstruction by other means, who remains steady in that state and who, when death approaches, is like a block of wood or stone, 
 </details>
 
 
@@ -751,7 +751,7 @@ that is, like wood is devoid of the activity of mind in his own body, who has co
 
 <details><summary>English</summary>
 
-who him- self is devoid of the thought of his own good and like his own self by others also-I, the soul of support of my followers, am that Purusha (Person) who, while his depen- dents are asleep, 
+who himself is devoid of the thought of his own good and like his own self by others also-I, the soul of support of my followers, am that Purusha (Person) who, while his dependents are asleep, 
 </details>
 
 
@@ -771,7 +771,7 @@ who him- self is devoid of the thought of his own good and like his own self by 
 
 <details><summary>English</summary>
 
-remaining steady and bringing into exist- ence all the objects of their desire, is awake for the ful- filment of them. 
+remaining steady and bringing into existence all the objects of their desire, is awake for the fulfilment of them. 
 </details>
 
 
@@ -835,7 +835,7 @@ And by way of making known the flow of my grace, without the path of the light (
 <details><summary>English</summary>
 
 45. As has been said by Parasara and Suka this man is the servant of none whatever :- 
-"Seeing his own functionary noose in hand, Yama, in- deed, whispers in his ear, shun those that have taken refuge with Madhusudana, for I am the master only of other men and not of the Vishnavas." 
+"Seeing his own functionary noose in hand, Yama, indeed, whispers in his ear, shun those that have taken refuge with Madhusudana, for I am the master only of other men and not of the Vishnavas." 
 </details>
 
 
@@ -879,7 +879,7 @@ And by way of making known the flow of my grace, without the path of the light (
 <details><summary>English</summary>
 
 [[334]]  
-47. A great bridge over the milky ocean of the prac- tices of Prapannas has been built by bringing together the the poundings of the mountains of Vedanta, Smriti, and such important teachings of great sages and the Pancharatra. Those that wish to reach quick the extremity of the ocean of Samsara by this route, being released by the store of ante- cedent and subsequent (Purvottara) sinful Karmas, they are considered to be completely freed. 
+47. A great bridge over the milky ocean of the practices of Prapannas has been built by bringing together the the poundings of the mountains of Vedanta, Smriti, and such important teachings of great sages and the Pancharatra. Those that wish to reach quick the extremity of the ocean of Samsara by this route, being released by the store of antecedent and subsequent (Purvottara) sinful Karmas, they are considered to be completely freed. 
 
 </details>
 
@@ -907,7 +907,7 @@ And by way of making known the flow of my grace, without the path of the light (
 which has for the base-plank the consciousness arising out of the feeling of wretchedness,  
 which is fastened by the nail of faith,  
 which obeys the pull of the tether (Bandanarajyu) of prayer,  
-which has the mast of self-surrender (Nekshepa) and which enables embodied be- ings to cross the ocean of Samsara. 
+which has the mast of self-surrender (Nekshepa) and which enables embodied beings to cross the ocean of Samsara. 
 
 </details>
 

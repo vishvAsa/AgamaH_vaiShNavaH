@@ -80,7 +80,7 @@ For the Lord of Lakshmi says "Sruti and Smriti are my own commands."
 
 <details><summary>English</summary>
 
-4. Among those prescribed the determination of the duties of one practising Nyasavidya (the science of refuge- seeking), as said by Lakshmi in her own Tantra to the interrogating Indra, is as follows:- 
+4. Among those prescribed the determination of the duties of one practising Nyasavidya (the science of refugeseeking), as said by Lakshmi in her own Tantra to the interrogating Indra, is as follows:- 
 </details>
  
 
@@ -126,7 +126,7 @@ For the Lord of Lakshmi says "Sruti and Smriti are my own commands."
 
 <details><summary>English</summary>
 
-6. What course is it, mother! (ambike) that is midway between detrimental and expedient karmas? All actions rest solely on the quality of being expedient and detrimen- tal upayapayala). 
+6. What course is it, mother! (ambike) that is midway between detrimental and expedient karmas? All actions rest solely on the quality of being expedient and detrimental upayapayala). 
 </details>
 
 
@@ -168,7 +168,7 @@ For the Lord of Lakshmi says "Sruti and Smriti are my own commands."
 
 <details><summary>English</summary>
 
-8. Know, O king of the Devas! the mysterious course of karmas to be threefold. And learn from me the same classification (as it arises) from the prohibitory and manda- tory injunctions. 
+8. Know, O king of the Devas! the mysterious course of karmas to be threefold. And learn from me the same classification (as it arises) from the prohibitory and mandatory injunctions. 
 </details>
 
 
@@ -253,7 +253,7 @@ For the Lord of Lakshmi says "Sruti and Smriti are my own commands."
 
 <details><summary>English</summary>
 
-12. (Other karmas) which in being done do not happen towards any benefit whatever but in not being done (happen) towards evil-such karmas one shall surely prac- tise. 
+12. (Other karmas) which in being done do not happen towards any benefit whatever but in not being done (happen) towards evil-such karmas one shall surely practise. 
 </details>
 
 
@@ -274,7 +274,7 @@ For the Lord of Lakshmi says "Sruti and Smriti are my own commands."
 
 <details><summary>English</summary>
 
-13. This is that Vedic course of conduct which is midway between the detrimental and expedient ones. Re- maining in this shall one reach Janardana, the Lord of the universe, (jagannatha). [[299]] 
+13. This is that Vedic course of conduct which is midway between the detrimental and expedient ones. Remaining in this shall one reach Janardana, the Lord of the universe, (jagannatha). [[299]] 
 </details>
 
 
@@ -296,13 +296,13 @@ For the Lord of Lakshmi says "Sruti and Smriti are my own commands."
 
 <details><summary>English</summary>
 
-14-16. This is what has been taught here: such groups of actions as injuriousness, theft, &c., are the detri- mental karmas which are the means of producing evil; the kamyakarmas or the karmas performed with a view to some particular worldly object and future fruition, are those that are the means of accomplishing some object (expedient), such as, building temple and other worldly acts, as also Sankhya* yoga↑ and other means (for securing future fruition). 
+14-16. This is what has been taught here: such groups of actions as injuriousness, theft, &c., are the detrimental karmas which are the means of producing evil; the kamyakarmas or the karmas performed with a view to some particular worldly object and future fruition, are those that are the means of accomplishing some object (expedient), such as, building temple and other worldly acts, as also Sankhya* yoga↑ and other means (for securing future fruition). 
 
 
-Sankhya: The system of philosophy attributed to the sage Kapila. This philosophy is so called because it enumerates, in order, twenty five tattvas or verities, beginning with prakriti or pradhana, the primordial matter; and its chief object is to effect the final emancipation of the twenty fifth tattva, the Purusha or soul, from the bonds of worldly existence- the three miseries of life- by obtaining a correct knowledge of the twenty-four other tattvas and by properly discriminating the purusha from prakriti and its products.  
-It regards the whole universe as a development of this innate principle called prakriti, while the purusha is altogether passive and simply a looker on, untainted, unaffect- ed, pure and perfect. It agrees with the Vedanta in being synthetical and differs from the analytical Nyaya or Vaiseshika, but its great point of divergence from the Vedanta is that it maintains two principles which the Vedanta disapproves and that it does not admit God as the creator and controller of the uni- verse which the Vedanta affirms. 
+Sankhya: The system of philosophy attributed to the sage Kapila. This philosophy is so called because it enumerates, in order, twenty five tattvas or verities, beginning with prakriti or pradhana, the primordial matter; and its chief object is to effect the final emancipation of the twenty fifth tattva, the Purusha or soul, from the bonds of worldly existencethe three miseries of lifeby obtaining a correct knowledge of the twenty-four other tattvas and by properly discriminating the purusha from prakriti and its products.  
+It regards the whole universe as a development of this innate principle called prakriti, while the purusha is altogether passive and simply a looker on, untainted, unaffected, pure and perfect. It agrees with the Vedanta in being synthetical and differs from the analytical Nyaya or Vaiseshika, but its great point of divergence from the Vedanta is that it maintains two principles which the Vedanta disapproves and that it does not admit God as the creator and controller of the universe which the Vedanta affirms. 
 
-+ Yoga: The system of practical philosophy attributed to Pantanjali who appeared to have given it first a systematised form, which is only another form of the sankhya philosophy though practically reckoned as a separate system and differs from it in admitting a twenty fifth principle, God. The chief aim of this philosophy is to teach the means by which the indi- vidual soul jiva may be completely united with the supreme spirit by isolation from matter and thus secure absolution; and abstract meditation is laid down as the chief means of securing this end. The word yoga from the universality of the science came to be applied to any practical science or method for realising an ideal; thence to a portion or even a member of it. In this sense is affixed to several other words, where it indicates the method of leading to the ideal indicated on. 
++ Yoga: The system of practical philosophy attributed to Pantanjali who appeared to have given it first a systematised form, which is only another form of the sankhya philosophy though practically reckoned as a separate system and differs from it in admitting a twenty fifth principle, God. The chief aim of this philosophy is to teach the means by which the individual soul jiva may be completely united with the supreme spirit by isolation from matter and thus secure absolution; and abstract meditation is laid down as the chief means of securing this end. The word yoga from the universality of the science came to be applied to any practical science or method for realising an ideal; thence to a portion or even a member of it. In this sense is affixed to several other words, where it indicates the method of leading to the ideal indicated on. 
 </details>
 
 
@@ -323,7 +323,7 @@ It regards the whole universe as a development of this innate principle called p
 
 <details><summary>English</summary>
 
-Similarly the expiatory karma (Prayas- chitta) is of two kinds; one is chāndrāyana and such other penances destructive of sins already committed, the other, sandhya (the morning, noon and evening prayers), worship and such other (obligatory karmas). 
+Similarly the expiatory karma (Prayaschitta) is of two kinds; one is chāndrāyana and such other penances destructive of sins already committed, the other, sandhya (the morning, noon and evening prayers), worship and such other (obligatory karmas). 
 </details>
  
 
@@ -346,7 +346,7 @@ Similarly the expiatory karma (Prayas- chitta) is of two kinds; one is chāndrā
 
 <details><summary>English</summary>
 
-17-18. Of these, injury and other detrimental karmas (apaya), building temple and other kamyakarmas (perform- ed for some particular object and with a view to future frui- tion, Sankhya and other expedient karmas (upaya) and also Chandrayana and other expiatory karmas (prāyaschitta)– all these, one shall not, at any time practice. 
+17-18. Of these, injury and other detrimental karmas (apaya), building temple and other kamyakarmas (performed for some particular object and with a view to future fruition, Sankhya and other expedient karmas (upaya) and also Chandrayana and other expiatory karmas (prāyaschitta)– all these, one shall not, at any time practice. 
 </details>
 
 
@@ -451,7 +451,7 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details><summary>English</summary>
 
-22. This (special) teaching of the Pancharatra- Sastras being observed only once, shall surely enable a man to cross Samsara. In case of his being attached to the expedient and detrimental Karmas (upayapaya) he loses in faith or fixity. 
+22. This (special) teaching of the PancharatraSastras being observed only once, shall surely enable a man to cross Samsara. In case of his being attached to the expedient and detrimental Karmas (upayapaya) he loses in faith or fixity. 
 </details>
  
 
@@ -473,7 +473,7 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details><summary>English</summary>
 
-23. When there is an overflow of evil then alone shall one perform an expiatory rite (prayaschitta). This prayas- chitta is that special one that he shall again seek refuge with God.' Even in the case of accepting the expediency of beneficial rites, the same is the remedy, 
+23. When there is an overflow of evil then alone shall one perform an expiatory rite (prayaschitta). This prayaschitta is that special one that he shall again seek refuge with God.' Even in the case of accepting the expediency of beneficial rites, the same is the remedy, 
 </details>
  
 
@@ -495,7 +495,7 @@ But those Karmas that are known as the forbidden (nishiddha), those done for som
 
 <details><summary>English</summary>
 
-24. When an occasion for prayaschitta arises, what- ever may be the sin that gave rise to it, one shall seek re- fuge with me alone, the Consort of the God of gods. 
+24. When an occasion for prayaschitta arises, whatever may be the sin that gave rise to it, one shall seek refuge with me alone, the Consort of the God of gods. 
 </details>
 
 
@@ -655,7 +655,7 @@ The fool, even while being conscious of performing detrimental karmas, falls dow
 
 <details><summary>English</summary>
 
-31. To the sages whose minds are purified by the trust in the knowledge of God, the knowledge of God men- tioned in the Sastras, is the atonemen.t for all the sins. committed by them. 
+31. To the sages whose minds are purified by the trust in the knowledge of God, the knowledge of God mentioned in the Sastras, is the atonemen.t for all the sins. committed by them. 
 </details>
 
 
@@ -721,7 +721,7 @@ The fool, even while being conscious of performing detrimental karmas, falls dow
 
 <details><summary>English</summary>
 
-34-35. "For the non-lapse of dharmas, for the pre- servation of the race, for the protection of the people, for the establishment of the moral-laws (or fixity of usages), 
+34-35. "For the non-lapse of dharmas, for the preservation of the race, for the protection of the people, for the establishment of the moral-laws (or fixity of usages), 
 </details>
 
 
@@ -761,7 +761,7 @@ for the pleasure of myself and Vishnu, the God of gods and the Wielder of the bo
 
 <details><summary>English</summary>
 
-36-37. "As the favourite of a king destroying a channel inaugurated by the king, even though he be indif- ferent towards it-a channel which is of public use, which is beautiful and which sustains the growth of many plants- 
+36-37. "As the favourite of a king destroying a channel inaugurated by the king, even though he be indifferent towards it-a channel which is of public use, which is beautiful and which sustains the growth of many plants- 
 </details>
 
 
@@ -822,7 +822,7 @@ shall be impaled on a pike, so a person having violated the usage established by
 
 <details><summary>English</summary>
 
-But remaining in his own caste and order of life, suitably to place and time he shall perform only those karmas agreeable to God that have been specially prescri- bed to him, 
+But remaining in his own caste and order of life, suitably to place and time he shall perform only those karmas agreeable to God that have been specially prescribed to him, 
 </details>
 
 

@@ -21,7 +21,7 @@ ON THE SERVING OF GURU.
 
 <details><summary>English</summary>
 
-1. A great guru ought to be resorted to by one whose mind is afflicted by samsara, who is afraid of the three miseries of life (adhyatmika pertaining to the sonl; adhi- bhoutiko pertaining to the external world; adhidaivika: pertaining to God) and who has renounced the fruits either of this world or of the world to come. 
+1. A great guru ought to be resorted to by one whose mind is afflicted by samsara, who is afraid of the three miseries of life (adhyatmika pertaining to the sonl; adhibhoutiko pertaining to the external world; adhidaivika: pertaining to God) and who has renounced the fruits either of this world or of the world to come. 
 </details>
 
 
@@ -41,7 +41,7 @@ ON THE SERVING OF GURU.
 
 <details><summary>English</summary>
 
-2. Having examined the worlds won by karma, the sage (vipra) with a desponding mind knowing that there will be no moksha by action, for the fruit of knowledge (the know- ing of Brahman) shall seek a guru spiritual preceptor). 
+2. Having examined the worlds won by karma, the sage (vipra) with a desponding mind knowing that there will be no moksha by action, for the fruit of knowledge (the knowing of Brahman) shall seek a guru spiritual preceptor). 
 </details>
 
 
@@ -66,7 +66,7 @@ ON THE SERVING OF GURU.
 <details><summary>English</summary>
 
 8-4. 
-He should please the guru who is proficient in the Vedas and conversant with Brahman with articles that are dear to him. The guru should teach the disciple whose mind has become calm and who is submissive, that Brahma- vidya (knowledge of Brakman) by which he might learn, the Changeless, the True, the Supreme Brahman, Narayana. This is verily the idea, the srutis teach. 
+He should please the guru who is proficient in the Vedas and conversant with Brahman with articles that are dear to him. The guru should teach the disciple whose mind has become calm and who is submissive, that Brahmavidya (knowledge of Brakman) by which he might learn, the Changeless, the True, the Supreme Brahman, Narayana. This is verily the idea, the srutis teach. 
 
 </details>
 
@@ -111,7 +111,7 @@ He should please the guru who is proficient in the Vedas and conversant with Bra
 
 <details><summary>English</summary>
 
-6. He is called a Desika (spiritual teacher) who is torn of (any of) the three castes, who, with Me alone has taken refuge, who is devoted to the observance of daily and occas- sional duties, who takes pleasure in serving those that are Mine and is the same towards both what is his and what is others? 
+6. He is called a Desika (spiritual teacher) who is torn of (any of) the three castes, who, with Me alone has taken refuge, who is devoted to the observance of daily and occassional duties, who takes pleasure in serving those that are Mine and is the same towards both what is his and what is others? 
 </details>
 
 
@@ -153,7 +153,7 @@ He should please the guru who is proficient in the Vedas and conversant with Bra
 
 <details><summary>English</summary>
 
-8. This mantra (dvava) needs no favourable circums- tances (of time and place), no auspicious star, no worshipping of holy objects and the like, and no (contant) repetition or daily utterance. 
+8. This mantra (dvava) needs no favourable circumstances (of time and place), no auspicious star, no worshipping of holy objects and the like, and no (contant) repetition or daily utterance. 
 </details>
 
 
@@ -174,7 +174,7 @@ He should please the guru who is proficient in the Vedas and conversant with Bra
 <details><summary>English</summary>
 
 9. 
-Saluting the guru with any of the full prostra- tions commencing with that of the three limbs of the body, the disciple shall receive the king of mantras, even like the penniless person who is eager to possess a treasure. 
+Saluting the guru with any of the full prostrations commencing with that of the three limbs of the body, the disciple shall receive the king of mantras, even like the penniless person who is eager to possess a treasure. 
 
 </details>
 
@@ -216,7 +216,7 @@ Saluting the guru with any of the full prostra- tions commencing with that of th
 
 <details><summary>English</summary>
 
-11. Always loving the disciple as his own son, the guru becoming learned and collected shall teach him with- out any subterfuge (upadhi). 
+11. Always loving the disciple as his own son, the guru becoming learned and collected shall teach him without any subterfuge (upadhi). 
 </details>
 
 
@@ -238,7 +238,7 @@ Saluting the guru with any of the full prostra- tions commencing with that of th
 
 <details><summary>English</summary>
 
-12.-13. "So also shall he, with compassion and with- out the hope of reward, teach the disciple who is unruffled in mind, the knowledge of the Upanishads which forster bhakti (viśvāsa) and knowledge (jana) and other know- ledge of the self suitable to the condition of the disciple. 
+12.-13. "So also shall he, with compassion and without the hope of reward, teach the disciple who is unruffled in mind, the knowledge of the Upanishads which forster bhakti (viśvāsa) and knowledge (jana) and other knowledge of the self suitable to the condition of the disciple. 
 </details>
 
 
@@ -278,7 +278,7 @@ Saluting the guru with any of the full prostra- tions commencing with that of th
 
 <details><summary>English</summary>
 
-15-16. Also the treatise known as jayasamhita pro- claims the glory of guru as ollows: 
+15-16. Also the treatise known as jayasamhita proclaims the glory of guru as ollows: 
 Guru alone is the Supreme Brahman; guru alone is the highest riches; 
 </details>
 
@@ -484,7 +484,7 @@ not but withers. "
 
 <details><summary>English</summary>
 
-25. The sage Manu also says that the giver of man- tra should be worshiped even though he be a youth, and it is also laid down that among the Vipras seniority arises from the knowledge of the Vedanta. 
+25. The sage Manu also says that the giver of mantra should be worshiped even though he be a youth, and it is also laid down that among the Vipras seniority arises from the knowledge of the Vedanta. 
 </details>
 
 
@@ -634,7 +634,7 @@ guru.
 
 32.-33. If the guru swerves from the path of dharma (virtue) he ought to be advised in private. If a degrading act of a guru is incapable of being removed either by means of advice or devotion (to God on his behalf), or service in the society of good men, one shall, abandoning his company, serve a virtuous teacher. 
 
-(If he) wishes even (then) the wel- fare of his quondam teacher, he is freed and there is no doubt about this. 
+(If he) wishes even (then) the welfare of his quondam teacher, he is freed and there is no doubt about this. 
 </details>
 
 
@@ -677,7 +677,7 @@ guru.
 
 <details><summary>English</summary>
 
-35. He shall cause the bhagavatas (devotees of God) bestow their grace on him, himself shall also try to lift him. up. In case he is not reclaimed he shall give up conversa- tion and such other intercourses with him. 
+35. He shall cause the bhagavatas (devotees of God) bestow their grace on him, himself shall also try to lift him. up. In case he is not reclaimed he shall give up conversation and such other intercourses with him. 
 </details>
 
 
@@ -714,7 +714,7 @@ guru.
 
 <details><summary>English</summary>
 
-Wherever detrac- tion or dispragement of the guru is heard, there a disciple shall either close his ears or quit the place for some other. 
+Wherever detraction or dispragement of the guru is heard, there a disciple shall either close his ears or quit the place for some other. 
 </details>
 
 

@@ -22,13 +22,13 @@ The author of this work quotes chiefly from the following authorities: The Vedas
 
 <details><summary>English</summary>
 
-4. Prapatti (i, e, seeking refuge with God) is first pres- cribed in the Veda of the Taittiriyus† and there, in the hymn (mantra) commencing with Vusurany it is mentioned 
+4. Prapatti (i, e, seeking refuge with God) is first prescribed in the Veda of the Taittiriyus† and there, in the hymn (mantra) commencing with Vusurany it is mentioned 
 under the name of Nyaasa (i. e. delivering one's self up to God) together with its modus operandi. 
 
 
-- + Taittiriyas: The followers of the Taittiriya branch of the Yajurveda known as the Black Yajurveda which takes its name atter the sage Tittiri its first teacher, or after the bird, the fran- coline partridge, connected with its name in a popular Puranic 
+- + Taittiriyas: The followers of the Taittiriya branch of the Yajurveda known as the Black Yajurveda which takes its name atter the sage Tittiri its first teacher, or after the bird, the francoline partridge, connected with its name in a popular Puranic 
 story. 
-- Mantra: Originally the Samhita portion of the Veda as distinguished from the Brahmana; hence a Vedic hymn or sacred prayer addressed to any deity. It is of three kinds :-It is called a Rik, if metrical and intended to be loudly recited; and Yajus, if in prose and muttered in a low tone; and Saman, if being metrical it is intended for chanting. From this it came to be applied to any formula of prayer to a deity; and finally to an in- cantation or charm. 
+- Mantra: Originally the Samhita portion of the Veda as distinguished from the Brahmana; hence a Vedic hymn or sacred prayer addressed to any deity. It is of three kinds :-It is called a Rik, if metrical and intended to be loudly recited; and Yajus, if in prose and muttered in a low tone; and Saman, if being metrical it is intended for chanting. From this it came to be applied to any formula of prayer to a deity; and finally to an incantation or charm. 
 * Nyasa. Literally pledge.' Here it is synonymous with Prapatti meaning 'pledging one's self to God.' It is recognised by the Upanishads as one of the thirty two Brahma-vidyās. (sciences teaching the knowledge of Brahman). 
 
 
@@ -77,7 +77,7 @@ story.
 
 <details><summary>English</summary>
 
-7. Making jivatman the oblation, one shall sacrifice him in the glorious fire of the Brahman whose body he is, repeat- ing the (mantra) Om' which is the essence of the Vedas. 
+7. Making jivatman the oblation, one shall sacrifice him in the glorious fire of the Brahman whose body he is, repeating the (mantra) Om' which is the essence of the Vedas. 
 </details>
 
 
@@ -123,7 +123,7 @@ story.
 
 <details><summary>English</summary>
 
-9. Of the various penances therein mentioned Prapatti otherwise known as Nyasa is stated as the highest. Dvaya is considered in Kathavalli as the significant mantra of Pra- patti. 
+9. Of the various penances therein mentioned Prapatti otherwise known as Nyasa is stated as the highest. Dvaya is considered in Kathavalli as the significant mantra of Prapatti. 
 </details>
 
 
@@ -177,9 +177,9 @@ story.
 
 <details><summary>English</summary>
 
-12.-18. “A refugee is not forsaken even though he de- serves to be killed." Many soriptural passages like this are also authorities on the subject. And in the Sri-sastra (or the Pancharatra Āgama), the Bhagavar (Vishnu) has taught Brahma the Mantra called Dvaya,† beginning with the words Srimannarayana.' In that same way it has been explained by Lakshmi to Indra in the Lakshmi-Tantra. 
+12.-18. “A refugee is not forsaken even though he deserves to be killed." Many soriptural passages like this are also authorities on the subject. And in the Sri-sastra (or the Pancharatra Āgama), the Bhagavar (Vishnu) has taught Brahma the Mantra called Dvaya,† beginning with the words Srimannarayana.' In that same way it has been explained by Lakshmi to Indra in the Lakshmi-Tantra. 
 
-Sri-Sastra: The body of Tantric teaching known as Pancha- ratra-Agama sacred to the Vaishnavas. The main portion of Sri Ramanuja's philosophy is based on this. In this work the word Sastra alone is used to indicate it: Bhagavat-Sastra is another 
+Sri-Sastra: The body of Tantric teaching known as Pancharatra-Agama sacred to the Vaishnavas. The main portion of Sri Ramanuja's philosophy is based on this. In this work the word Sastra alone is used to indicate it: Bhagavat-Sastra is another 
 name. 
 
 Dvaya: The sacred mantra of Prapatti. The word signifies "two-fold,' being a combination of two mantras, the mula-mantra and another. 
@@ -206,7 +206,7 @@ Dvaya: The sacred mantra of Prapatti. The word signifies "two-fold,' being a com
 
 <details><summary>English</summary>
 
-14. So also the Sanatkumara-Sambilad mentions with respect that Irapatti yields the fruits of all desires and is in- dependent of all other means. 
+14. So also the Sanatkumara-Sambilad mentions with respect that Irapatti yields the fruits of all desires and is independent of all other means. 
 </details>
 
 
@@ -254,7 +254,7 @@ Dvaya: The sacred mantra of Prapatti. The word signifies "two-fold,' being a com
 
 16.-17. It severs one's bondage of Sumsāra when it is uttered even once by that one.  
 
-As the tie of the missile of Brahma, even though it be unfailing, was snapped at once owing to the distrust of the Rakshasas (in its power) to bind Hanuman, so Prapatti becomes ineffectual from the faithless- ness of men, 
+As the tie of the missile of Brahma, even though it be unfailing, was snapped at once owing to the distrust of the Rakshasas (in its power) to bind Hanuman, so Prapatti becomes ineffectual from the faithlessness of men, 
 </details>
 
 
@@ -334,7 +334,7 @@ It is difficult to practise other means; there is in consequence the danger of l
 
 <details><summary>English</summary>
 
-21.-22. On account of the evil influence of time,on ac- count of the unsteady nature of the human mind, on account of the attachment of the senses to their objects, on account of indulgence in forbidden acts, and on secount of not doing what is ordained to be done, and on account of the (adverse) nature of the time during which men live,(on account of all these causes), it is not possible to conquer, leader of hosts! the senses and the sensual objects. 
+21.-22. On account of the evil influence of time,on account of the unsteady nature of the human mind, on account of the attachment of the senses to their objects, on account of indulgence in forbidden acts, and on secount of not doing what is ordained to be done, and on account of the (adverse) nature of the time during which men live,(on account of all these causes), it is not possible to conquer, leader of hosts! the senses and the sensual objects. 
 </details>
 
 
@@ -359,7 +359,7 @@ It is difficult to practise other means; there is in consequence the danger of l
 <details><summary>English</summary>
 
 23. Therefore, O great sage! All persons are not qualified for Karmayoga; because such (a qualification) is found to be non-existent in the ease of all the prescribed duties. 
-24. There is no interest for any body even in Jana- yoga. 
+24. There is no interest for any body even in Janayoga. 
 
 *Karmayoga: The performance of actions, worldly and religious rites so as to attain non-attachment and freedom. Some sects like the Vaikhanasas adopt it as the sole means, and consider it to be perfect in itself. 
 
@@ -388,7 +388,7 @@ It is difficult to practise other means; there is in consequence the danger of l
 In the absence of such (an interest) neither affection (priti)† nor higher love (bhaktı)‡ for Me arises in men. 
 25. Therefore, as there is no qualification to practise Karmayoga or any other yoga and as there is no other course to follow, let a man take refuge in the pair of My feet as the sole end. 
 
-• Jnèna-yoga: Contemplation as the means of acquiring spiri- tual knowledge which releases one from the trammels of samsúra by giving a knowledge of the true nature of one's own ātman. 
+• Jnèna-yoga: Contemplation as the means of acquiring spiritual knowledge which releases one from the trammels of samsúra by giving a knowledge of the true nature of one's own ātman. 
 
 + Love towards equals is priti; and love towards superiors is bhakti. Bhakti when felt for God is lore transcendental, just as reason transcendental becomes faith. 
 </details>
@@ -432,7 +432,7 @@ In the absence of such (an interest) neither affection (priti)† nor higher lov
 
 <details><summary>English</summary>
 
-27-28. Resolution to observe conformity (to His will), absence of opposition (to it), faith that He will protect, and solicitation for His protection, resignation of one's self (to Him) (atmanikshepa) and the feeling of helplessness- these are the six kinds of Saremagati (i. e. refuge seeking). 
+27-28. Resolution to observe conformity (to His will), absence of opposition (to it), faith that He will protect, and solicitation for His protection, resignation of one's self (to Him) (atmanikshepa) and the feeling of helplessnessthese are the six kinds of Saremagati (i. e. refuge seeking). 
 </details>
 
 
@@ -722,7 +722,7 @@ Hence "ho abides in the heart"; and to have "no dispute with Him" who is the Sup
 <details><summary>English</summary>
 
 41. This idea has been expressed in diverse ways by Saunaka and other great sages:--- 
-"So long as thy mind, O King! does not become de- voted to the love of Vishnu (Vishnu-bhakti) so long go thou to the tirthas (holy places), tanks and rivers." 
+"So long as thy mind, O King! does not become devoted to the love of Vishnu (Vishnu-bhakti) so long go thou to the tirthas (holy places), tanks and rivers." 
 
 </details>
 

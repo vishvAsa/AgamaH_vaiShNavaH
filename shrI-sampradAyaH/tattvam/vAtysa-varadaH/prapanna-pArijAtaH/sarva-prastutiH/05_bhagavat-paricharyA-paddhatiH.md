@@ -26,7 +26,7 @@ ON THE SERVING OF GOD.
 
 1. Thus by the grace of the Guru attended with the knowledge of one's subserviency to God (Seshatva),* ever despising sound and other objects of the senses, even as other deities than God, he who, desirous of the fruit of attaining Vishnu, has bhakti for his means, is a Vaishnavat (follower of Vishnu). 
 
-Sesha: One whose nature is solely towards the attribution of another's supremacy, is the Sesha of that other and is subser- vient to his purposes. Seshi is one who holds everything at his own disposal and appropriates it for his own purposes. Accord- ing to the Visishthadvaita system the relation between the ruler and the ruled, the Isvara and the jiva is Sesha-seshi-bhava- and it is eternal. 
+Sesha: One whose nature is solely towards the attribution of another's supremacy, is the Sesha of that other and is subservient to his purposes. Seshi is one who holds everything at his own disposal and appropriates it for his own purposes. According to the Visishthadvaita system the relation between the ruler and the ruled, the Isvara and the jiva is Sesha-seshi-bhavaand it is eternal. 
 </details>
 
 
@@ -177,7 +177,7 @@ This basic mantra is the essence of the teaching of the whole Vedanta. It enable
 
 <details><summary>English</summary>
 
-8. By those that are desirous of freedom it is worthy of silent utterance at all times as giving the fruits of world- ly enjoyment (bhukti) and freedon (mukti). By the Vaishnavas it is worthy of uttarance as fostering knowledge and love (Jnāna and bhakti). 
+8. By those that are desirous of freedom it is worthy of silent utterance at all times as giving the fruits of worldly enjoyment (bhukti) and freedon (mukti). By the Vaishnavas it is worthy of uttarance as fostering knowledge and love (Jnāna and bhakti). 
 </details>
 
 
@@ -197,7 +197,7 @@ This basic mantra is the essence of the teaching of the whole Vedanta. It enable
 
 <details><summary>English</summary>
 
-9. It is the divine source of all the mantras, and is capable of destroying all sins. Becoming calm and collec- ted one shall diligently utter it. 
+9. It is the divine source of all the mantras, and is capable of destroying all sins. Becoming calm and collected one shall diligently utter it. 
 </details>
 
 
@@ -219,7 +219,7 @@ This basic mantra is the essence of the teaching of the whole Vedanta. It enable
 
 <details><summary>English</summary>
 
-10.-11. As there is thus the injunction of the com- mander of the hosts (Senesa) to Gajanana (the elephant- faced God) and other hosts, either with this mantra shall a Vaishnava always conduct the worship &c. of Hari, or with the mantra dvaya shall he perform it preceded by salutation to his 
+10.-11. As there is thus the injunction of the commander of the hosts (Senesa) to Gajanana (the elephantfaced God) and other hosts, either with this mantra shall a Vaishnava always conduct the worship &c. of Hari, or with the mantra dvaya shall he perform it preceded by salutation to his 
 guru. 
 </details>
 
@@ -244,7 +244,7 @@ guru.
 
 <details><summary>English</summary>
 
-12. Only after having put on the marks of a Vaish- nava shall a Vaishnava worship Hari. The sage Vyāsa [[156]] says that only (by those of) the castes who have got the marks on should Mādhava (God) be worshipped, served and adored. 
+12. Only after having put on the marks of a Vaishnava shall a Vaishnava worship Hari. The sage Vyāsa [[156]] says that only (by those of) the castes who have got the marks on should Mādhava (God) be worshipped, served and adored. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -264,7 +264,7 @@ guru.
 
 <details><summary>English</summary>
 
-13. These marks are said to be of two kinds: exter- nal and internal. The marks like those of the conch, the disc &c., are external, and the absence of desire and other passions is the other. 
+13. These marks are said to be of two kinds: external and internal. The marks like those of the conch, the disc &c., are external, and the absence of desire and other passions is the other. 
 </details>
 
 
@@ -431,7 +431,7 @@ If On account of their acceptance by great men as being Vedic, there is doubted 
 
 <details><summary>English</summary>
 
-22.-33. The time for wearing the disc and other marks has been mentioned by Bhagavan in the Pancha- ratra-sastra. Under sixteen years is the best time, till the fiftieth middling and after that bad. Such is the determi- nation of time. 
+22.-33. The time for wearing the disc and other marks has been mentioned by Bhagavan in the Pancharatra-sastra. Under sixteen years is the best time, till the fiftieth middling and after that bad. Such is the determination of time. 
 </details>
 
 
@@ -533,7 +533,7 @@ In the Pancharatra are prescribed in extenso, the place, measurement, and the ma
 
 <details><summary>English</summary>
 
-27. A heart untouched by desire and other passions, a speech unsullied by lies and other faults, a body unimpair- el by torture and other injuries, these are the three kinds of worship in relation to Kesava (God). 
+27. A heart untouched by desire and other passions, a speech unsullied by lies and other faults, a body unimpairel by torture and other injuries, these are the three kinds of worship in relation to Kesava (God). 
 </details>
 
 
@@ -553,7 +553,7 @@ In the Pancharatra are prescribed in extenso, the place, measurement, and the ma
 
 <details><summary>English</summary>
 
-28-29. Non-injury, the first flower; control of the senses, another; kindness to all beings, a flower; forgive- ness preeminently a flower; 
+28-29. Non-injury, the first flower; control of the senses, another; kindness to all beings, a flower; forgiveness preeminently a flower; 
 </details>
 
 
@@ -573,7 +573,7 @@ In the Pancharatra are prescribed in extenso, the place, measurement, and the ma
 
 <details><summary>English</summary>
 
-knowledge, a flower; austeri- ties, a flower; meditation, again the seventh flower; and truth, (one more);-these eight kinds of flowers are dear to Vishnu (God). 
+knowledge, a flower; austerities, a flower; meditation, again the seventh flower; and truth, (one more);-these eight kinds of flowers are dear to Vishnu (God). 
 </details>
 
 
@@ -593,7 +593,7 @@ knowledge, a flower; austeri- ties, a flower; meditation, again the seventh flow
 
 <details><summary>English</summary>
 
-30-32. Thus with body adorned with the marks, ex- ternal and internal, having bathed in holy waters and off- ered libations of water to the Devas, the manes, and other deities as ordained in the săstras, 
+30-32. Thus with body adorned with the marks, external and internal, having bathed in holy waters and offered libations of water to the Devas, the manes, and other deities as ordained in the săstras, 
 </details>
 
 
@@ -613,7 +613,7 @@ knowledge, a flower; austeri- ties, a flower; meditation, again the seventh flow
 
 <details><summary>English</summary>
 
-having diligently mutter- ed hundred and eight times the basic mantra (mūlamantra) and making ready all the articles for sweet smearing, as also articles of food 
+having diligently muttered hundred and eight times the basic mantra (mūlamantra) and making ready all the articles for sweet smearing, as also articles of food 
 </details>
 
 
@@ -713,9 +713,9 @@ and of divine service, and having finished the decoration of the yoga-bhumi (the
 
 <details><summary>English</summary>
 
-35-37. "Affection for My devotees, rejoicing in their worships, worship by one's self, avoidance of pomp in My affairs, devotion to the hearing of My deeds, agita- tion (or change in the expression) in the voice, eyes and limbs (when so hearing), constant remembering of Me daily, and the (consciousness of) the fact that one depends not on Me for any worldly advantage, these are the eight kinds of bhakti. Even in a mlechcha* (Barbarian) if this bhakti exists, he is to be taken as the holiest of Brahmins; he is the greatest of sages; he is a yati (one who has renounced the world and controlled the passions); and he is a savant (pandit); to him ought to be given (gifts) and from him ought it to be received; even as I am is he worthy of worship." 
+35-37. "Affection for My devotees, rejoicing in their worships, worship by one's self, avoidance of pomp in My affairs, devotion to the hearing of My deeds, agitation (or change in the expression) in the voice, eyes and limbs (when so hearing), constant remembering of Me daily, and the (consciousness of) the fact that one depends not on Me for any worldly advantage, these are the eight kinds of bhakti. Even in a mlechcha* (Barbarian) if this bhakti exists, he is to be taken as the holiest of Brahmins; he is the greatest of sages; he is a yati (one who has renounced the world and controlled the passions); and he is a savant (pandit); to him ought to be given (gifts) and from him ought it to be received; even as I am is he worthy of worship." 
 
-Mlechcha: is from mlechch, to talk confusedly. i e. a barba- rian or non-Aryan who does not conform to the Aryan institution and does not speak the Sanskrit language but speaks a barbarous tongue. 
+Mlechcha: is from mlechch, to talk confusedly. i e. a barbarian or non-Aryan who does not conform to the Aryan institution and does not speak the Sanskrit language but speaks a barbarous tongue. 
 </details>
 
 
@@ -746,7 +746,7 @@ Mlechcha: is from mlechch, to talk confusedly. i e. a barba- rian or non-Aryan w
 <details><summary>English</summary>
 
 [[159]] 
-38.-39. On the authority of Saunaka even the incar- nation in images for the purpose of worship (archavatara) shall one worship. Having made with gold, silver or any other metals a beautiful image of Vishnu with gracious face and eyes which shall excite one's own love, and 
+38.-39. On the authority of Saunaka even the incarnation in images for the purpose of worship (archavatara) shall one worship. Having made with gold, silver or any other metals a beautiful image of Vishnu with gracious face and eyes which shall excite one's own love, and 
 </details>
 
 
@@ -769,7 +769,7 @@ Mlechcha: is from mlechch, to talk confusedly. i e. a barba- rian or non-Aryan w
 
 <details><summary>English</summary>
 
-em- bodying in it the Brahman, one shall become mentally absorbed in it. 
+embodying in it the Brahman, one shall become mentally absorbed in it. 
 40. It, one shall worship; it, one shall salute; it, one shall serve ; it, one shall contemplate; and casting away all impurities, it alone which is the image (visible) of 
 Brahman, one enters. 
 
@@ -799,8 +799,8 @@ Brahman, one enters.
 
 <details><summary>English</summary>
 
-41. Doing even a mere trifle one shall live in a tem- ple of Vishnu. Ever living in a temple of Vishnu one shall do the service of God as much as it lies in his power. 
-42. What might be a mighty temple, or a dear orna- ment, or a suitable enjoyment to Vishnu, that shall not be meddled with even in the least with the idea of its be- ing the means (to a desired end). 
+41. Doing even a mere trifle one shall live in a temple of Vishnu. Ever living in a temple of Vishnu one shall do the service of God as much as it lies in his power. 
+42. What might be a mighty temple, or a dear ornament, or a suitable enjoyment to Vishnu, that shall not be meddled with even in the least with the idea of its being the means (to a desired end). 
 
 </details>
 
@@ -864,7 +864,7 @@ Brahman, one enters.
 
 <details><summary>English</summary>
 
-45. Having churned (i. e. entered into) all the sastras and examined them again and again, we find this one ulti- mate clear conclusion viz., that Narayana ought to be ever meditated upon. 
+45. Having churned (i. e. entered into) all the sastras and examined them again and again, we find this one ultimate clear conclusion viz., that Narayana ought to be ever meditated upon. 
 </details>
 
 

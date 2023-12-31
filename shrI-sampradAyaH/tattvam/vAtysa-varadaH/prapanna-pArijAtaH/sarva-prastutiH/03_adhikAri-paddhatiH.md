@@ -207,7 +207,7 @@ Or on account of the danger arising to the proper order of chanting, or on accou
 
 <details><summary>English</summary>
 
-12. That Hari shall be the means and the end to the ignorant (ajna), the wise (Sarvajña) and the Bhaktas, is what has been said by Saunaka in his comment on the man- tra, Jitanta" (Victory to Thee, O Lord!): 
+12. That Hari shall be the means and the end to the ignorant (ajna), the wise (Sarvajña) and the Bhaktas, is what has been said by Saunaka in his comment on the mantra, Jitanta" (Victory to Thee, O Lord!): 
 </details>
 
 
@@ -234,7 +234,7 @@ Or on account of the danger arising to the proper order of chanting, or on accou
 <details><summary>English</summary>
 
 "This Prapatti is the refuge of the ignorant, this alone is the refuge of the wise; this is of those that wish to cross the ocean of samsara, and this of them that desire to attain immortality." 
-14. Also in the Lakshmitantra under Prapatti it is des- cribed that the sastras mention of him who has the qualities of faith &c., as having right, to it. 
+14. Also in the Lakshmitantra under Prapatti it is described that the sastras mention of him who has the qualities of faith &c., as having right, to it. 
 
 </details>
 
