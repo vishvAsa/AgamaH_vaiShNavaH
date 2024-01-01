@@ -9,3 +9,5 @@ Source: [TW](https://archive.org/details/SrimanthNigamaanthaMahadesikanAruliyaCh
 Source: [TW](https://archive.org/details/elevenrahasyagranthasofsrivedantadesikadrnsanantharangachar2009ocr/page/n27/mode/2up)
 
 ग्रन्थावली, परिचयश् [चात्र](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/vishvAmitraH/venkaTanAtha-vedAnta-deshikaH/articles/charitrAdi_kRShNamAchAryaH/08_granthAvalI/02_maNipravAlam/) । 
+
+रहस्य-पद्यानानां गोपालाचार्यरचिताः कन्नड-संस्कृतानुवादाः देशिक-प्रबन्धेषु द्रष्टव्याः। 
