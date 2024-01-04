@@ -719,7 +719,7 @@ title = "०३ अष्टाक्षरजपविधिः"
 </details>
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/padyam/aShTAxara-RShyAdi-namaskAraH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/aShTAxara-RShyAdi-namaskAraH/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -734,7 +734,7 @@ title = "०३ अष्टाक्षरजपविधिः"
 </details>
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/padyam/savyam_pAdam/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/savyam_pAdam/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -751,7 +751,7 @@ title = "०३ अष्टाक्षरजपविधिः"
 [[128]]
 </details>
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/kriyA/kArikA-darpaNaH/omarthAya"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/kArikA-darpaNaH/omarthAya"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

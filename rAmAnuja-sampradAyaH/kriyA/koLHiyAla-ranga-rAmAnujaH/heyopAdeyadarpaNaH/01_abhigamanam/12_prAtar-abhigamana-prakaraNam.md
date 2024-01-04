@@ -16,9 +16,9 @@ title = "१२ प्रातर्-अभिगमन-प्रकरणम�
 
 इति तद्-अर्थम् अनुसन्धाय  
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/gadyam/AnukUlya-sankalpAdi/heyopAdeyadarpaNAt/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/AnukUlya-sankalpAdi/heyopAdeyadarpaNAt/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/gadyam/prapattiH/heyopAdeyadarpaNAt/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/prapattiH/heyopAdeyadarpaNAt/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 इति साङ्ग-प्रपदनम् अनुष्ठाय  
 स्वीकृत-भरस्य श्रीमतः  

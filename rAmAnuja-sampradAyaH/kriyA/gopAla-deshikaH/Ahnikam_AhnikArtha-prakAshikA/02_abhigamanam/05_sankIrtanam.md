@@ -43,7 +43,7 @@ title = "०५ सङ्कीर्तनम्"
 </details>
 
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/kriyA/vAtsya-varada-paramArtha-shloka-dvayam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/vAtsya-varada-paramArtha-shloka-dvayam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

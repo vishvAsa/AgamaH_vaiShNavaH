@@ -504,7 +504,7 @@ Xi
 
 यथार्थख्यातिर् इह वर्णिता  
 आधुनिकभूतशास्त्रज्ञैर् नाङ्गीकारार्हा - रूपान्तरेण त्व् अस्तु।  
-विस्तारो [ऽत्र](/AgamaH_vaiShNavaH/shrI-sampradAyaH/tattvam/vishvAsaH/sat-khyAti-vAdaH/) । 
+विस्तारो [ऽत्र](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/vishvAsaH/sat-khyAti-vAdaH/) । 
 </details>
 
 

@@ -328,11 +328,11 @@ title = "२१ देवालयगमनादि"
 </details>
 
 ## आनुकूल्यसङ्कल्पादिसहिता प्रपत्तिः
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/gadyam/sambodhanam/gopAla-deshikaH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/sambodhanam/gopAla-deshikaH/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/gadyam/AnukUlya-sankalpAdi/gopAla-deshikaH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/AnukUlya-sankalpAdi/gopAla-deshikaH/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/gadyam/prapattiH/gopAla-deshikaH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/prapattiH/gopAla-deshikaH/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 

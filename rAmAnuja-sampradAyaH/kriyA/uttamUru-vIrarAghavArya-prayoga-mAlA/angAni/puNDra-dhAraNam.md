@@ -15,7 +15,7 @@ title = "पुण्ड्र-धारणम्"
 
 पुण्ड्रेषु केशवादीन् आवाहयेत् ।। +++(ॐ केशवाय नमः। ओं माधवाय नमः … इत्यादि १२)+++
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/prakIrNa-mantrAdi/padyam/chatush-chakram/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/chatush-chakram/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 इति च वाचयेत् ।

@@ -19,7 +19,7 @@ title = "०३ विघ्न-विनाशः"
 कैङ्कर्य-प्रतिबन्धक-निवृत्ति-प्रार्थन-तन्-मन्त्रादिकम् आह **करिष्यमाणे**त्यादिना । 
 </details>
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/kriyA/vangi-vaMsheshvara-kArikA/01_abhigamaH/01_yogAntam/04_pratibandha-nivRttiH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/vangi-vaMsheshvara-kArikA/01_abhigamaH/01_yogAntam/04_pratibandha-nivRttiH/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

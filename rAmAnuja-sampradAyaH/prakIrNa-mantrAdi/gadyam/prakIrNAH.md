@@ -23,4 +23,4 @@ title = "प्रकीर्णाः"
 भगवान् वासुदेवः पुनातु 
 
 ## पञ्चोपनिषन्मत्राः
-- [अत्रोक्ताः](/AgamaH_vaiShNavaH/shrI-sampradAyaH/kriyA/vishvAsa-sankalanam/bhUta-shuddhiH) । 
+- [अत्रोक्ताः](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/vishvAsa-sankalanam/bhUta-shuddhiH) । 

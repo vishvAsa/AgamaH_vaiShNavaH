@@ -6,7 +6,7 @@ unicode_script = "devanagari"
 <details><summary>स्रोतांसि (द्रष्टुं नोद्यम्)</summary>
 
 [नाट्टेरि-बोधनम्](https://archive.org/details/natteri-guru-paramparA_tamiL) ।
-[रहस्यत्रयसारः](/AgamaH_vaiShNavaH/shrI-sampradAyaH/tattvam/venkaTanAthaH/rahasya-traya-sAraH/sarva-prastutiH/1_arthAnushAsana-vibhAgaH/00_shrIguruparaMparAsAraH/) ।
+[रहस्यत्रयसारः](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTanAthaH/rahasya-traya-sAraH/sarva-prastutiH/1_arthAnushAsana-vibhAgaH/00_shrIguruparaMparAsAraH/) ।
 
 </details>
 

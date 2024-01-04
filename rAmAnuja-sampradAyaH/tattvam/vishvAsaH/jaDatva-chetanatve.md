@@ -20,7 +20,7 @@ title = "जडत्व-चेतनत्वे"
 पराक्त्वम् / **परेषाम् एव भासमानत्वं** च  
 स्व-प्रकाश-साध्य--+++(वागादि-)+++व्यवहार-रूप-प्रयोजन-शून्यत्वम् ।
 
-वरदाचार्य-कृत-तत्त्व-विभागो [दृश्यः](shrI-sampradAyaH/tattvam/navya-mangala-varadAchAryaH/tattva-vibhAgaH.md) । 
+वरदाचार्य-कृत-तत्त्व-विभागो [दृश्यः](rAmAnuja-sampradAyaH/tattvam/navya-mangala-varadAchAryaH/tattva-vibhAgaH.md) । 
 
 ## ज्ञानम्
 ज्ञानं द्रव्यम् अस्मिन् मते।  

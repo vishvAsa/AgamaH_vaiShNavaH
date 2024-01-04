@@ -8,7 +8,7 @@ title = "सत्-ख्याति-वादः"
 "शुक्तौ रजतम्" इत्यादिषु भ्रमेषु रजतादि-सद्-अंशस्यैव ग्रहणं,  
 किन्तु न तद् व्यवहार-योग्यम् अल्पत्व-स्थानान्तरत्वादि-कारणेभ्य इति यावद् एव भ्रमः ।  
 
-विस्तारो यतीन्द्रमतदीपिकायां सटीकायाम् [भवति](/AgamaH_vaiShNavaH/shrI-sampradAyaH/tattvam/parichaya-sanxepAH/yatIndra-mata-dIpikA/sarva-prastutiH/01_upodghAtaH/) । 
+विस्तारो यतीन्द्रमतदीपिकायां सटीकायाम् [भवति](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/parichaya-sanxepAH/yatIndra-mata-dIpikA/sarva-prastutiH/01_upodghAtaH/) । 
 
 नाम - स्वरूपे विषये च नास्ति भ्रमः, अपि तु व्यवहार-स्तरे।  
 

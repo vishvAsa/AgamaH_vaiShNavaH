@@ -3,9 +3,9 @@ title = "०२ सात्त्विकधृतिः, सङ्कल्�
 
 +++
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/kriyA/vangi-vaMsheshvara-kArikA/01_abhigamaH/01_yogAntam/02_sAtvikadhRtiH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/vangi-vaMsheshvara-kArikA/01_abhigamaH/01_yogAntam/02_sAtvikadhRtiH/"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/AgamaH_vaiShNavaH/shrI-sampradAyaH/kriyA/vangi-vaMsheshvara-kArikA/01_abhigamaH/01_yogAntam/03_pAnchakAlikakriyAsaMkalpaH/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/vangi-vaMsheshvara-kArikA/01_abhigamaH/01_yogAntam/03_pAnchakAlikakriyAsaMkalpaH/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
