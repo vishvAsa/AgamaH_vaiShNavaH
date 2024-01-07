@@ -626,7 +626,7 @@ the consorts of God; the attendants of Lakshmi, Sútravati and others;-all these
 
 शक्त्य्-आवेशावतारास् ते  
 विष्णोस् तत्-काल-विग्रहाः ।  
-अनुपास्याः मुमुक्षूणां  
+**अनुपास्याः** मुमुक्षूणां  
 यथेन्द्राग्न्य्-आदि-देवताः ॥ १३ ॥
 </details>
 
