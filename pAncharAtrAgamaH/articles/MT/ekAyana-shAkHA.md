@@ -3,7 +3,8 @@ title = "एकायनशाखा"
 unicode_script = "devanagari"
 +++
 
-## एकायनशाखा
+Source: MT
+
 One of the enduring mysteries in the history of the vaiShNava mantra tradition is the ekAyana-shAkhA which the pa~ncharAtra affiliates itself with. It may be termed the rahasyAMnAya or the primal veda. Clearly, some exclusively focal pA~ncharAtra vaiShNava-s saw it as the root from which the "common veda" emerged. The reason they give for the secondary nature of the common veda is that it worships other deities in addition to viShNu. They held that only viShNu can grant mokSha &the other deities were included for worldly attainments. 
 
 It is notable that the south Indian pA~ncharAtrika yAmuna divides the pA~ncharAtra bhAgavata-s into 4 categories: 
