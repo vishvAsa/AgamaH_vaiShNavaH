@@ -716,7 +716,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 [[38]]
 
 ## पुण्ड्रधारणम्
-<div class="js_include" url="../angAni/puNDra-dhAraNam"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="../angAni/tilaka-puNDra-dhAraNam"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 [[39]]
