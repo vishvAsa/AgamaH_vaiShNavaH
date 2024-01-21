@@ -46,32 +46,38 @@ Vijay read an article which made the following points:
 
 
 
-### समाश्रयणदातारः
+### समाश्रयण-दातारः
 - He nominated 74 simhasanadhipathis and ordained them to do pancha samskaram to sishyas at their places.
 
-#### आचार्यदीक्षा
+#### आचार्य-दीक्षा
 समाश्रयण-दातॄणां विशिष्ट-दीक्षा भवतीति केचित्,  
-समाश्रयण-प्राप्त्या ऽऽचार्यानुमत्या चालम् इत्य् अन्ये।  
+समाश्रयण-प्राप्त्या ऽऽचार्यानुमत्या चालम् इति तु बहवः।  
 तया व्यक्तिर् वा कुलम् अपि वा ऽऽचार्यपदम् आरोप्यत इति केचित्। 
 
-### भाष्य-प्रचारकाः
+### भाष्योपदेश-परम्परा
 - From the 74 simhasanadhipathis, he selected four, gave them the Sri Bhashya kosha and instructed them to do Sri Bhashya pravachanam thereby making them Sri bhashya simhasanadhipathis.
 
 - कुरुगेशः, तिरुक्-कुरुगै-पिऱान्-पिळ्ळन् (श्रीशैल-पूर्णपुत्रः, तातार्यः, R's maternal cousin).
-  - Ubhaya Vedanta simhasanadhipati. The oldest (and perhaps only contemporary) text on ramanuja calls pillaan alone as UVS.
+  - उभय-वेदान्त-सिंहासनाधिपतिः. The oldest (and perhaps only contemporary) text on ramanuja calls pillaan alone as UVS.
   - Essentially nominated successor by rAmAnuja as per ravilochana. 
   - R asked him (presumably stronger in tamiL) to compose bhagavad-viShayam on divyaprabandha. No such commentary existed before piLLan.
 - naDAtUr ALvan (रामानुज-भागिनेयः)
-- Kidambi Acchaan (प्रणतार्तिहरः, रामानुज-पाचकः). He was specially taught the rahasyas as per vijay. 
+- Kidambi Acchaan (प्रणतार्तिहरः, रामानुज-पाचकः). अयं रहस्य-सिंहासनाधिपतिर् अपि। 
 - Mudali Andan (रामानुज-भागिनेयः).
 
-## वेदान्तदेशिक-शाखा
+## वेदान्त-देशिक-शाखा
+आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः (रामानुज इव चैत्रमासार्द्रायां जातः) → तद्-भगिनी-पुत्रो वेदान्तदेशिको **वेङ्कटनाथः**  
+इति नाना-भाष्यादि-परम्परा-मूलम् अत्र॥
 
-### श्रीभाष्य-परम्परा
-- R->Pillaan->Engalazhvan -> Nadadur Ammal (great-grandson of Nadadur Alvan - another Sribhashya simhasanadhipati) -> Kidambi Appullar -> VD
 
-### रहस्य-परम्परा
-- **रामानुजः** → आत्रेयः किडाम्बि-प्रणतार्तिहरः → किडाम्बि-रामानुजः → किडाम्बि-रङ्गराजः → आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः → वेदान्तदेशिको **वेङ्कटनाथः** →  तत्पुत्रः कुमारवरदः, परकालयतिः → नडातूरु-वात्स्य-घटिकाशतकः … → अहोबिलाचार्यः → पञ्चमत-भञ्जन-ताताचार्यः …
+### नाना-भाष्योपदेश-परम्परा देशिकं यावत्
+- श्री-भाष्य--गीता-भाष्य--भगवद्-विषया उपदिष्टा एवम्। 
+- R->Pillaan->Engal Azhvan / विष्णु-चित्तः -> Nadadur Ammal (great-grandson of Nadadur Alvan - another Sribhashya simhasanadhipati) -> Kidambi Appullar -> VD
+
+### रहस्य-परम्परा देशिकं यावत्
+- रहस्य-परम्परा /प्रपत्ति-शास्त्र-परम्परा नाम +अष्टाक्षराद्य्-अर्थोपदेश-परम्परा। 
+- **रामानुजः** → आत्रेयः किडाम्बि-प्रणतार्तिहरः → तत्-पुत्रः किडाम्बि-रामानुजः (रामानुज इव चैत्रमासार्द्रायां जातः) → किडाम्बि-रङ्गराजः / पद्मनाभः → आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः (रामानुज इव चैत्रमासार्द्रायां जातः) → तद्-भगिनी-पुत्रो वेदान्तदेशिको **वेङ्कटनाथः** 
+- →  तत्पुत्रः कुमारवरदः, परकाल-यतिः → नडातूरु-वात्स्य-घटिकाशतकः … → अहोबिलाचार्यः → पञ्चमत-भञ्जन-ताताचार्यः …
 
 ### ताताचार्याः
 A small section of tataryas (mostly belonging to the addanki branch and some belonging to srimushnam branch with a few more here n there) are tenkalais. More than 95% of tataryas must be vdk.
@@ -82,13 +88,13 @@ A small section of tataryas (mostly belonging to the addanki branch and some bel
 #### Andavans 
 
 - Ramanuja Maha Desikan …
-- → PeriAndavan(25-2-1801 to 1884-feb) 
+- → PeriAndavan (25-2-1801 to 1884-feb) 
 - →  Srinivasa Raghavachariar (chinnAndavan-Karthigai Magham) lived from 1828 to 1894 
 - → KadanthEthi Andavan Sadhavadhani Varadha Vedanthachar (Avani-Moolam) -(1829 to 1909)
 
 वेङ्कटनाथ-ध्यान-श्लोकाः - [अत्र](/devaH/AryaH/hindukaH/classes/guravaH/venkaTanAthaH) । 
 
-### अहोबिलमठः
+### अहोबिल-मठः
 <details><summary>आदिमाहोबिलमठाचार्यस्य काले रविलोचनः</summary>
 
 His period should have started about 1458.. 60 yrs (one samvatsara cycle) later than the traditional dates claimed by the matha. That shall also explain how allasani peddanna (who was in krishnarayas durbar) calls him as his acharya among other things - like inscriptions of his successor from 1515 or so CE.
