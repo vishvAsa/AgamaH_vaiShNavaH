@@ -58,11 +58,10 @@ Vijay read an article which made the following points:
 - From the 74 simhasanadhipathis, he selected four, gave them the Sri Bhashya kosha and instructed them to do Sri Bhashya pravachanam thereby making them Sri bhashya simhasanadhipathis.
 
 - कुरुगेशः, तिरुक्-कुरुगै-पिऱान्-पिळ्ळन् (श्रीशैल-पूर्णपुत्रः, तातार्यः, R's maternal cousin).
-  - उभय-वेदान्त-सिंहासनाधिपतिः. The oldest (and perhaps only contemporary) text on ramanuja calls pillaan alone as UVS.
-  - Essentially nominated successor by rAmAnuja as per ravilochana. 
-  - R asked him (presumably stronger in tamiL) to compose bhagavad-viShayam on divyaprabandha. No such commentary existed before piLLan.
-- naDAtUr ALvan (रामानुज-भागिनेयः)
+  - भगवद्-विषय-सिंहासनाधिपतिः अपि। तेन - उभय-वेदान्त-सिंहासनाधिपतिः। R asked him (seeing his understanding, also presumably stronger in tamiL) to compose bhagavad-viShayam on divyaprabandha. No such commentary existed before piLLan. The oldest (and perhaps only contemporary) text on ramanuja calls pillaan alone as UVS. 
+  - रामानुजस्य ज्ञानपुत्रः। तदुरसि शयानो देहं तत्याज। Essentially nominated successor by rAmAnuja.
 - Kidambi Acchaan (प्रणतार्तिहरः, रामानुज-पाचकः). अयं रहस्य-सिंहासनाधिपतिर् अपि। 
+- naDAtUr ALvan (रामानुज-भागिनेयः)
 - Mudali Andan (रामानुज-भागिनेयः).
 
 ## वेदान्त-देशिक-शाखा
