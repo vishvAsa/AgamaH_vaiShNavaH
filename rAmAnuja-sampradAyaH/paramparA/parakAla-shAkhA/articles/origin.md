@@ -117,7 +117,7 @@ xvi
 
 ఎంబ 
 
-xvii 
+[[xvii]]
 
 CC 
 
@@ -127,7 +127,7 @@ CC
 
 ಇಂತಹ ಮಠಗಳು ಸಾಂಘಿಕರೂಪದ ಜ್ಞಾನ ಪ್ರಸಾರಕೇಂದ್ರಗ ಎಂದು ಧಾರಾಳವಾಗಿ ಹೇಳಬಹುದಾಗಿದೆ. ಅವು ಗುರುಕುಲಗಳೆಂದೂ ಹೇಳಬಹುದು. ವಾಸ್ತವವಾಗಿ ಅವು ಪರಾಪರಾ ವಿದ್ಯೆಗಳೆರಡನ್ನೂಎಂದರೆ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ವ್ಯಾವಹಾರಿಕ ವಿದ್ಯೆಗಳೆರಡನ್ನೂ ಹರಡುವ ಚರ ವಿಶ್ವವಿದ್ಯಾನಿಲಯಗಳಂತಿವೆ. ಪವಿತ್ರವಾದೊಂದು ಶಿಖರದಿಂದ ಪ್ರವಹಿಸುತ್ತ, ಅನೇಕ ಉಪನದಿಗಳ ಜಲರಾಶಿಗೆ ಆಶ್ರಯ ಕೊಟ್ಟು ಪಾತ್ರ ವಿಸ್ತರವನ್ನೂ ಆಳವನ್ನೂ ಹೆಚ್ಚಿಸಿಕೊಳ್ಳುತ್ತ ಮುಂದುವರಿಯು ತಿರುವ ಪಾರಮಾರ್ಥಿಕ ಮಹಾನದಿಗಳೆಂದೂ ಅವುಗಳನ್ನು ವರ್ಣಿಸಬಹು ದಾಗಿದೆ. ಶ್ರೀ ಪರಕಾಲ ಮಠವೂ ಅದೇ ರೀತಿಯದೆಂಬುದು, ಈ ಗ್ರಂಥ ದಲ್ಲಿ ಸಂಗ್ರಹವಾಗಿರುವ ಸಂಗತಿಗಳಿಂದ ಸ್ಪಷ್ಟವಾಗಿ ವ್ಯಕ್ತವಾಗುತ್ತದೆ. ಶ್ರೀ ವೇದಾಂತದೇಶಿಕರಿಗೂ, ಅವರ ಮೂಲಕ ಭಗವದ್ರಾ ಮಾನುಜಾಚಾರ್ಯರಿಗೂ, ಶ್ರೀ ಪರಕಾಲ ಮಠದ ಪೀಳಿಗೆಯನ್ನು 
 
-xviii 
+[[xviii]]
 
 ಹೊಂದಿಸಬಹುದಾದ ಅದರ ಮೂಲವನ್ನು ಇನ್ನೂ ಹಿಂದಕ್ಕೂ ಹೊಂದಿಸಬಹುದಾದ ಅವಕಾಶ ವಿರು ವುದು, ನಮ್ಮ ಅಪಾರವಾದ ಹೆಮ್ಮೆಗೂ ಸಂತೋಷಕ್ಕೂ ಕಾರಣವಾಗಿದೆ. ಈ ಮಠದ ಸ್ಥಾಪಕರಾದ ಮಹಾಪುರುಷರು ಶ್ರೀ ವೇದಾಂತದೇಶಿಕರ ಶಿಷ್ಯರೆಂಬುದು ಮತ್ತಷ್ಟು ಮುಖ್ಯವಾದ, ಮತ್ತಷ್ಟು ಆಕರ್ಷಕವಾದ ಮತ್ತು ಮತ್ತಷ್ಟು ಸ್ವಾರಸ್ಯ ವಾದ ಸಂಗತಿ. * ಸರ್ವತಂತ್ರ ಸ್ವತಂತ್ರ'ರೆಂಬುದು ಶ್ರೀ ವೇದಾಂತ ದೇಶಿಕರ ಬಿರುದು; ಅವರೇ ಈ ಮಠಸ್ಥಾಪಕರಾದ ತಮ್ಮ ಶಿಷ್ಯರಿಗೆ * ಬ್ರಹ್ಮತಂತ್ರ ಸ್ವತಂತ್ರರೆಂಬ ಬಿರುದನ್ನು ಕೊಟ್ಟಿದ್ದಾರೆ. 
 
@@ -137,11 +137,11 @@ xviii
 
 ಶ್ರೀ ಪರಕಾಲಮಠದ ಪೀಠವನ್ನಲಂಕರಿಸುತ್ತ ಬಂದ ಸಾಧು ವರೇಣ್ಯರ ಅನುಕ್ರಮವೂ, ಅವರ ದಿವ್ಯ ಚರಿತಕ್ಕೆ ಸಂಬಂಧಪಟ್ಟ ಸಂಗತಿ ಗಳೂ ಈ ಗ್ರಂಥದಲ್ಲಿ ಸಂಕ್ಷೇಪವಾಗಿ ಸೂಚಿತವಾಗಿವೆಯಷ್ಟೆ. ಅವು ಗಳನ್ನು ಓದಿದ ಯಾರೊಬ್ಬರ ಮನಸ್ಸಿಗೇ ಆಗಲಿ “ ಮತ್ತೆಲ್ಲಿಯಾದರೂ ಈ ಬಗೆಯ ಮಹಾನುಭಾವರ ಪರಂಪರೆಯು ಪ್ರಪಂಚದಲ್ಲಿ ಕಂಡು ಬಂದಿದೆಯೆ ” ಎಂಬ ಪ್ರಶ್ನೆಯು ಹೊಳೆಯದಿರಲಾರದು. ಶ್ರೀವೈಷ್ಣವ ಸಿದ್ಧಾಂತ ಪ್ರತಿಪಾದಕರಾದ ಮೂಲಪುರುಷರಿಂದ ಹಿಡಿದು ಇಂದಿನ ವರೆಗೂ ಅನೇಕ ಶತಮಾನಗಳ ಕಾಲ ಇಷ್ಟು ಮಂದಿ ಸಾಧುವರೇಣ್ಯರಾದ ಮಹಾನುಭಾವರ ಸುಯೋಗವು ಈ ಹಯಗ್ರೀವ ಮೂರ್ತಿಯವರ ವಿಗ್ರಹಕ್ಕೆ ಪೂಜೆ ಮಾಡುವುದಾಗಿದ್ದ ಮೇಲೆ, ಇಷ್ಟು ಮಂದಿ ಪರಂಪರಾ ಗತರಾದ ಸಾಧುವರೇಣ್ಯರಾದ ಮಹಾನುಭಾವರ ಭಕ್ತಿಯುತವಾದ ಪೂಜೆ ಯನ್ನು ಸ್ವೀಕರಿಸುತ್ತ ಬಂದಿರುವ ಶ್ರೀ ಲಕ್ಷ್ಮೀ ಹಯಗ್ರೀವ ಮೂರ್ತಿ ಯವರ ಸುಯೋಗವೂ ಎಷ್ಟೆಂದು ನನ್ನ ಮನಸ್ಸಿಗೆ ತೋರುತ್ತಿದೆ. 
 
-XIX 
+[[XIX]]
 
 ಬಹುತರವಾಗಿ ನಾಸ್ತಿಕತೆಯೇ ವಿಜೃಂಭಿಸುತ್ತಿರುವ ಈಗಿನ ಸಮಯದಲ್ಲಿ ಕೂಡ, ಆಸ್ತಿಕ ಲಕ್ಷಣವಾದ ಪ್ರಾಚೀನ ಸಂಪ್ರದಾಯ ಗಳಲ್ಲಿಯೂ ಆಧ್ಯಾತ್ಮಿಕ ವಿದ್ಯೆಯಲ್ಲಿಯೂ ವಿಶ್ವಾಸವುಳ್ಳ ಅಭಿಮಾನ ಶಾಲಿಗಳಾದ ಲಕೋಪಲಕ್ಷ ಹಿಂದುಗಳಿದ್ದಾರೆ. ಅವರೆಲ್ಲರೂ ಈ ಗ್ರಂಥದಲ್ಲಿ ಸೂಚಿತವಾಗಿರುವಂತೆ ಶ್ರೀ ಪರಕಾಲ ಮಠದ ಪೀಠಾಧಿ ಕಾರಿಗಳ ಪರಂಪರೆಯಲ್ಲಿ ಬೆಳಗಿದ ಮತ್ತು ಬೆಳಗುತ್ತಿರುವ ಮಹಾನು ಭಾವರಿಂದ ಶ್ರೀ ವೈಷ್ಣವ ಸಿದ್ಧಾಂತಕ್ಕೆ ಸಮರ್ಪಿತವಾಗಿರುವ ಸೇವೆಯು ಮಾನವ ಕಲ್ಪಿತವಾದ ಯಾವ ಸಂಸ್ಥೆಯಾದರೂ ಹೆಮ್ಮೆ ಪಡುವಂತಿದೆ ಯೆಂದು ಹರ್ಷಿಸುವುದರಲ್ಲಿ ಸಂದೇಹವಿಲ್ಲ. ಈ ಗ್ರಂಥವನ್ನು ಓದಿದರೆ, ಇತರ ಸಂಗತಿಗಳೆಲ್ಲಕ್ಕಿಂತಲೂ ಮಿಗಿಲಾಗಿ ಮನದಟ್ಟಾಗುವ ಸಂಗತಿ ಯೊಂದಿದೆ; ಈ ಮಠದ ಅನೇಕ ಮಂದಿ ಶ್ರೀ ಶ್ರೀಗಳವರು, ತಾವು ಆರಾಧಿಸುವ ಶ್ರೀ ಲಕ್ಷ್ಮೀ ಹಯಗ್ರೀವ ಮೂರ್ತಿಯವರ ವಿಗ್ರಹವನ್ನೂ ಮತ್ತು ಇತರ ವಿಗ್ರಹಗಳನ್ನೂ ತೆಗೆದುಕೊಂಡು ನಾಡಿನ ನಾನಾ ಸ್ಥಳ ಗಳಿಗೂ ದಯಮಾಡಿ, ಭಕ್ತಕೋಟಿಯ ಬಾಗಿಲಿಗೆ ಪಾರಮಾರ್ಥಿಕ ತೇಜಕ್ಕೂ ಜ್ಞಾನಜ್ಯೋತಿಯೂ ಬಂದಂತೆ ವರ್ತಿಸಿ, ಶ್ರೀ ವೈಷ್ಣವ ಸಿದ್ಧಾಂತವನ್ನೂ ಸಂಪ್ರದಾಯಗಳನ್ನೂ ಭಕ್ತಕೋಟಿಗೆ ಬೋಧಿಸಿ ಕೃಪೆ ಮಾಡಿರುವುದೇ ಆ ಸಂಗತಿ. ಕಾಲವು ಬಹು ಶೀಘ್ರವಾಗಿ ಮಾರ್ಪಡು ತ್ತಿದೆ. ಆದಕಾರಣ ಹಿಂದೆ ಮತ್ತಾವಾಗಲೂ ಅವಶ್ಯವಾಗಿಲ್ಲ ದಷ್ಟು ಮಟ್ಟಿಗೆ ಈ ಬಗೆಯ ಧರ್ಮಬೋಧೆಯು ಇಂದು ಅಗತ್ಯವಾಗಿದೆ. ಈಗಿನ ಶ್ರೀ ಶ್ರೀಗಳವರೂ ತಮ್ಮ ಹಿಂದಿನ ಪೀಠಾಧಿಕಾರಿಗಳಾದ ಅನೇಕ ಮಂದಿ ಗಳ ಭವ್ಯತರವಾದ ಮೇಲ್ಪಂಕ್ತಿಯನ್ನೇ ತಾವೂ ಅನುಸರಿಸಿ ಅವ ರಂತೆಯೇ ಧರ್ಮಬೋಧೆ ಮಾಡಲು ಪ್ರವಾಸವನ್ನು ಕೈಕೊಂಡು ಕೃಪೆ ಮಾಡುವರೆಂದು ನಾವು ಪ್ರಾರ್ಥಿಸಿ ನಿರೀಕ್ಷಿಸಬಹುದಲ್ಲವೆ? ಶ್ರೀ ಶ್ರೀಗಳ ವರು ಹಾಗೆ ಕೃಪೆ ಮಾಡಬೇಕಾದುದು ಅವಶ್ಯ ಕರ್ತವ್ಯವೆಂದು ತೋರುವ ಸಮಯವು ಸನ್ನಿಹಿತವಾಗಿದೆಯೆಂದು ಕೂಡ ಹೇಳಬಹುದಾಗಿದೆ. ಸನ್ನಿವೇಶಕ್ಕೆ ಹೊಂದಿಕೊಂಡು ವರ್ತಿಸುವುದಕ್ಕೆ ಸಾಧಕವಾಗುವಂತೆ ತಕ್ಕ ವ್ಯವಸ್ಥೆಗಳನ್ನು ಕಲಿಸಿಕೊಂಡಲ್ಲದೆ, ಯಾವ ಸಂಸ್ಥೆಯಾಗಲಿ ಅಥವಾ 
 
-XX 
+[[XX]]
 
 ಯಾವ ವ್ಯಕ್ತಿಯಾಗಲಿ ಉತ್ತಮಸ್ಥಿತಿಯಲ್ಲಿ ಬಾಳುವುದು ಸಾಧ್ಯವಿಲ್ಲ. ನಾಡಿನಲ್ಲೆಲ್ಲ ಸಂಚಾರಮಾಡುವುದರ ಜೊತೆಗೆ, ಈಗಿನ ಕಾಲದ ಇತರ ಬೋಧನ ಮತ್ತು ಪ್ರಚಾರ ವಿಧಾನಗಳೂ ಇವೆ. ಇಂದು ಅತ್ಯಗತ್ಯವಾಗಿ ನೆರವೇರಿಸಬೇಕಾಗಿರುವ ಕಾರ್ಯವೆಂದರೆ, ತರುಣರನ್ನು ಜಾಗೃತಿ ಗೊಳಿಸಿ, ಶ್ರೀ ವೈಷ್ಣವ ಮತದ ಮತ್ತು ಶ್ರೀವೈಷ್ಣವ ಸಿದ್ಧಾಂತದ ಅಮೂಲ್ಯವಾದ ಮತ್ತು ಗಹನವಾದ ಜ್ಞಾನಭಂಡಾರದ ಪರಿಚಯವನ್ನು ಅವರಿಗೆ ಮಾಡಿಕೊಟ್ಟು, ಅವರಿಗೆ ಅದರಲ್ಲಿ ಆಸಕ್ತಿಯುಂಟಾಗುವಂತೆಯ ಮತ್ತು ಅವರ ಜ್ಞಾನಾನುಭವಗಳು ವೃದ್ಧಿಯಾಗುವಂತೆಯೂ ಮಾಡುವ ಮತ್ತು ಐಹಿಕಾಯುತ್ಮಿಕ ವಿಚಾರಗಳೆರಡರಲ್ಲಿಯೂ ಅವರು ಚರಿತಾರ್ಥ ರಾಗಲು ಸಾಧಕವಾಗುವ ಸನ್ಮಾರ್ಗ ಪ್ರದರ್ಶನ ಮಾಡುವ ಮಹತ್ತರ 
 
@@ -149,13 +149,13 @@ XX
 
 ಈ ಗ್ರಂಥಕರ್ತರು, ಶ್ರೀ ಪರಕಾಲಮಠದ ಈಗಿನ ಶ್ರೀ ಶ್ರೀಗಳವರ ಮೇಲಿನ ಭಕ್ತಿ ವಿಶ್ವಾಸಪೂರ್ವಕವಾದ ಶ್ಲಾಘನೆಯ ಮಾತುಗಳಿಂದ ಗ್ರಂಥ ವನ್ನು ಮುಕ್ತಾಯಗೊಳಿಸಿದ್ದಾರೆ. ವಿರಕ್ತಶ್ರೇಷ್ಠರಾದ ಶ್ರೀ ಶ್ರೀಗಳವರ ಪರಿಚಯಲಾಭದ ಸುಯೋಗವನ್ನು ನಾನು ಪಡೆದಿದ್ದೇನೆ. ನಾನು ಮೊಟ್ಟ ಮೊದಲನೆಯ ಸಾರಿ ಅವರನ್ನು ಸಂದರ್ಶಿಸಿದಾಗಲೋ ಅಥವಾ ಆ ತರುವಾಯವೋ ಕಂಡ ದೃಶ್ಯವು ಈಗಲೂ ನನ್ನ ಕಣ್ಣಿಗೆ ಕಟ್ಟಿ ದಂತಿದೆ. ಆಗ್ಗೆ ಅವರು ತಮ್ಮ ಸುತ್ತಲೂ ಹಲವಾರು ಗ್ರಂಥಗಳನ್ನು ಹರಡಿಕೊಂಡು ವ್ಯಾಸಂಗಮಗ್ನರಾಗಿದ್ದರು. ಆ ಸ್ಥಿತಿಯಲ್ಲಿ ಅವರ ಸಂದರ್ಶನ ಭಾಗ್ಯವು ನನಗೆ ಲಭಿಸಿದಾಗ, ನನ್ನ ಪರಿವೆಯೇ ಇಲ್ಲದಂತೆ ನನ್ನ ಮನಸ್ಸು “ ತದ್ಧಿತ ವಸ್ತ್ರದ್ಧಿ ತಪಸ್ ) ( ಅದೇ ತಪಸ್ಸು, ಅದೇ ತಪಸ್ಸು') ಎಂದು ಹೇಳಿಕೊಂಡಿತು ; ಸ್ವಾಧ್ಯಾಯ ಮತ್ತು ಪ್ರವಚನಗಳನ್ನು ಕುರಿತ ಉಪನಿಷತ್ತಿನ ಆ ಅಮರ ವಾಣಿಗಳನ್ನು ನಾನು ಸ್ಮರಣೆಗೆ ತಂದುಕೊಂಡು ಆನಂದಿಸಿದೆ. ಶ್ರೀ ಶ್ರೀಗಳವರು ತಮ್ಮ ಅಸಾಧಾರಣವಾದ ಸ್ವಾಧ್ಯಾಯ ಪ್ರವಚನಗಳಿಂದಲೂ ಮತ್ತು ವಿರಕ್ತ ಜೀವನದಿಂದಲೂ ಶಿಷ್ಯಕೋಟಿಯ ಶ್ರೇಯಸ್ಸಿಗಾಗಿ ಶ್ರಮಿಸುತ್ತ, ಸಾರ್ವ ಜನಿಕರ ಭಕ್ತಿಗೌರವಗಳನ್ನೂ ಪ್ರೀತಿ ವಿಶ್ವಾಸಗಳನ್ನೂ ಗಳಿಸಿದ್ದಾರೆ. 
 
-xxi 
+[[xxi]]
 
 ಅವರು ಭಕ್ತಿಯಿಂದ ಆರಾಧಿಸುತ್ತಿರುವ ಮೂರ್ತಿಗಳ ಪೂಜೆಯನ್ನು ನೆರವೇರಿಸುವ ವಿಧಾನವನ್ನು ನೋಡಿದರೆ, ಭಕ್ತಿ ಪಾರವಶ್ಯದ ಆದರ್ಶ ಪೂಜಾವಿಧಾನವೂ ಹೇಗಿರುತ್ತದೆಂಬುದು ಮನಸ್ಸಿಗೆ ಗೋಚರವಾಗಿ ಮೈಮರೆಯುವಂತಾಗುತ್ತದೆ; ಆನಂದಾಧಿಕ್ಯದಿಂದ ರೋಮಾಂಚನ ವುಂಟಾಗುತ್ತದೆ. ಶ್ರೀ ಪರಕಾಲ ಮಠದಲ್ಲಿ ಅವರಿಂದ ನಡೆಯುವ ಪೂಜೆಯನ್ನು ನೋಡುವ ಸುಯೋಗವು ಲಭಿಸಿದ ಪ್ರತಿಯೊಂದು ಸಲವೂ, ನನಗೆ ಆ ಬಗೆಯ ಅನುಭವವುಂಟಾಗಿದೆ ; ಅಲ್ಲದೆ, ಶ್ರೀ ಶ್ರೀಗಳವರು ತಮ್ಮ ಜ್ಞಾನ ಭಕ್ತಿಗಳ ಮತ್ತು ಶ್ರದ್ಧಾ ಸಾಕ್ಷಾತ್ಕಾರಗಳ ಪ್ರಭಾವ ದಿಂದ ಪೂಜೆಯನ್ನೇ ಒಂದು ಲಲಿತ ಕಲೆ ಯ ನ್ನಾಗಿ ಪರಿಣಾಮ ಗೊಳಿಸಿ ಪೂಜೆಯ ಸೊಬಗೂ ಮತ್ತು ಅದರ ಲೋ ಕೋ ತರ ಸ್ವಭಾವವೂ ಹೃದಯಂಗಮವಾಗಿ ನಮ್ಮ ಮನಸ್ಸಿಗೆ ಗೋಚರವಾಗುವಂತೆ ಮಾಡಿದ್ದಾರೆ. 
 
 ಎಲ್ಲಕ್ಕೂ ಮಿಗಿಲಾಗಿ ಶ್ರೀ ಶ್ರೀಗಳವರು, ತಮ್ಮ ಕಾಲವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸದ್ವಿನಿಯೋಗ ಮಾಡಿ ಶ್ರೇಯೋಭಿವೃದ್ಧಿಯಲ್ಲಿ ಮಗ್ನ ರಾಗಿರುವ ಮಹನೀಯರಲ್ಲೊಬ್ಬರೆಂದು ನನ್ನ ಮನಸ್ಸಿಗೆ ಖಚಿತವಾಗಿ ತೋರಿಬಂದಿದೆ. ಶ್ರೀ ಶ್ರೀಗಳವರು ಒಂದು ಕ್ಷಣವನ್ನೂ ವ್ಯರ್ಥವಾಗಿ ಕಳೆಯುವವರಲ್ಲ. ಹೀಗೆ ಸತ್ಕಾಲಕ್ಷೇಪಮಾಡುವವರ ಸಂಖ್ಯೆಯು ತೀರ ಕಡಮೆಯೆಂದು ಹೇಳಬಹುದಾಗಿದೆ. ತಮಗೆ ಲಭಿಸಿರುವ ಕಾಲವೆಲ್ಲ, ತಮ್ಮ ಪೀಠಾಧಿಕಾರಸಂಬಂಧವಾದ ನಾನಾ ಕರ್ತವ್ಯಗಳಿಗೂ ಮಾಸ ಲಾಗಿದ್ದು ತಾವು ಗುರುತರವಾದ ಆ ಕರ್ತವ್ಯಗಳನ್ನು ನಿರ್ವಹಿಸ ಬೇಕೆಂಬುದೇ ಶ್ರೀ ಶ್ರೀಗಳವರ ಆಕಾಂಕ್ಷೆ ಮತ್ತು ಸ್ಥಿರಸಂಕಲ್ಪ. ಶ್ರೀ ಪರಕಾಲಮಠಕ್ಕೆ ಬಂದು ಶ್ರೀ ಶ್ರೀಗಳವರ ಪೂಜಾವಿಧಿಯನ್ನು ನೋಡುವ ಸುಯೋಗವು ನನಗೆ ಲಭಿಸಿದಾಗಲೆಲ್ಲ, ಶ್ರೀ ಮಠವನ್ನು ಹಿಂದಿನಿಂದಲೂ ಪುರೋಭಿವೃದ್ಧಿಗೊಳಿಸಲು ಶ್ರಮಿಸಿದ ವಿರಕ್ತಶ್ರೇಷ್ಠರಾದ ಮತ್ತು ತಪಸ್ವಿ ಗಳಾದ ಪೀಠಾಧಿಕಾರಿಗಳ ಅಂತರಾತ್ಮಗಳು ತಮ್ಮ ತೇಜಶ್ಯ ರೀರಗಳನ್ನು ಬೆಳಗುತ್ತ ಪೂಜಾಕಾಲದಲ್ಲಿ ಬಿಜಯಂಗೈದಿರುವಂತೆಯೇ ನನ್ನ ಮನಸ್ಸಿಗೆ ತೋರಿ ಬಂದಿದೆ ; ಭಕ್ತಿಯಿಂದ ಅನುಸಂಧಾನ ಮಾಡಿದರೆ, ಅವರೆಲ್ಲರ 
 
-xxii 
+[[xxii]]
 
 ಕೃಪೆಗೂ ಪಾತ್ರವಾಗಿ ಅವರ ಸಾನ್ನಿಧ್ಯದ ಆನಂದಾನುಭವವುಂಟಾಗು ವುದು ಕೂಡ ಸಾಧ್ಯವೆಂಬ ಭಾವನೆಯು ನನಗುಂಟಾಗಿದೆ. 
 
@@ -781,7 +781,7 @@ The record does not quote any king's name but is simply dated in Saka 1282 and c
 
 5 
 
-ii 
+[[ii]]
 
 information is of interest for Vaishnava religious history, as it enables us to identify this first pontiff of the matha with the direct disciple of the great Vēdānta-Desika, the erudite scholar, keen controversialist and deeply venerated Vaishnava acharya,a whose literary and religious activities are said to have extended over a major portion of the 14th century A.D. 
 
@@ -791,7 +791,7 @@ As mentioned above, the inscription does not refer itself to the reign of any ki
 
 * The artificial ramp formed by an enclosed mandapa is called the 'Tirumalai" or "giri', on top of which the shrine of Varadarāja is located. 
 
-iii 
+[[iii]]
 
 confer the title of Brahma-tantra-svatantra-Jiyar on a certain Vaishṇavadāsa and to put him in charge of a matha and its properties, so that he may propagate the tenets of the Rāmānuja-darṣanama to the Vaishnava laity, and maintain the library which he had collected, probably in the matha premises. A sentence at the end adds that this divine order (tirumugam) was engraved on stone by the temple-accountant. 
 
@@ -841,7 +841,7 @@ Viśishtādvaitasiddhanta as codified and expounded in his Śrībhashya by the g
 
 There were 74 simhāsanādhipatis who were selected. Their names are given in the reply to question No. 24 of the Trimsapraśnottaram, Palanadaivilakkam, p. 30. 
 
-vi 
+[[vi]]
 
 the 'followers of Ramanuja.'10 The idea seems to be that the selection of Brahma-tantra-svatantra-Jiyar as the pontiff was to receive the acceptance of Rāmānuja's followers and the Vaishnava laity (samayattil-uḷḷār). 
 
@@ -857,7 +857,7 @@ nam Rāmānujaṇai-uḍaiyār nam păduvăr, etc.
 
 13 Published in Madras in several editions. Dvitiya-Brahmatantra-svatantra-Jiyar, the acharya of the author of this work is said to have written the Pannīrāyirappadi-Guruparampara-prabhāvam which is not extant. 
 
-vii 
+[[vii]]
 
 Brahma-tantra-svatantra-Jiyar. Shorn of the few miraculous elements that are inevitable in an orthodox hagiography this work compiled by an author who lived only a few generations later than Dēšika may be considered as fairly reliable. From it we gather the following details about Brahma-tantrasvatantra-Jiyar, the first of that name, who was a disciple of Vēdānta-Dēsika: 
 
@@ -867,7 +867,7 @@ L
 
 14 The present record conventionally states that god himself gave the title. 
 
-viii 
+[[viii]]
 
 régime of Tirumalai-Śrīnivāsāchārya1 who had been installed by Dēšsika as the Śrīkārya-dhurandhara of the Kanchipuram temple, Brahma-tantra-svatantraJiyar overcame a Kashmirian pandit in a philosophical discussion and earned the title of Paryaya-Bhashyakāra',16 Some time later under the direction of god Venkatesa in a dream, he accepted the Trusteeship of the Tirupati temple, and during his tenure of office there, he installed an image of Vedanta-Dēsika in a matha built by him at Tirumalai, as well as in a maṇḍapa in the Gōvindarāja temple at Lower Tirupati. He stayed at Tirupati for a long time expounding the Vaishnava philosophy to his disciples Ghatikasatakam-Ammāḷ, Kidāmbi-Nayiṇār, KōmāṇḍurAchchan, Pillaiy-Appai, Pērarulāḷayyan-Appai, Kandāḍai-Aṇḍāṇ, Viravalli-Pillai and others. After his demise he was succeeded by PērarulāḷayyanAppai. Brahma-tantra-svatantra-Jiyar was the author of two small works-the Divyasuri-stuti1 and the Acharyavatāra-ghaṭṭārtha.18 
 
@@ -885,7 +885,7 @@ régime of Tirumalai-Śrīnivāsāchārya1 who had been installed by Dēšsika a
 
 ब्रह्मतन्त्र स्वतन्त्रेण परकालयतोन्दुना । आचार्यावतारघट्टार्थं संप्रहेण प्रकाश्यते ॥ 
 
-ix 
+[[ix]]
 
 "Brahma-tantra-svatantra-Jiyar of the record under review may be identified with the disciple of Vēdānta-Dēšika, because of the fact that the investiture of this unique title of Brahma-tantrasvatantra', herein attributed to the god himself, had been made more than a decade prior to the demise of Dēšika and that this acharya's name figures in three important pontifical lists '.19 
 
@@ -911,11 +911,11 @@ Vēdānta-Dēsika is stated in the Guruparamparāprabhavam to have been the cont
 
 22 Guruparamparā-prabhāvam, pp. 120 and 139. Two other works named the Tatvasandesa and the Rahasyasandēša are also stated to have been composed for the same purpose. 
 
-xi 
+[[xi]]
 
 of the heads of these mathas called Maṭhādhipatis, Mudaliyārs or Jiyars, on whom devolved the duty of supervising the proper conduct of the services for which the endowments had been intended, and who, in turn, enjoyed some privileges as remuneration for their services. 
 
-xii 
+[[xii]]
 
 TEXT 
 
@@ -943,7 +943,7 @@ perra Aśvati-nāḷ abhisheka-maṇḍapattu ViraVallāḷaṇ-simhasanattu Ari
 
 20 Read -svatantra-Jiyan. 
 
-xiii 
+[[xiii]]
 
 Ivanai nam Rāmānujam-uḍaiyārum nam samayattil uḷḷārum 27 kai- 
 
@@ -979,7 +979,7 @@ on the representation (made) by Perumaltātaṇ, who supervises the (sacred) bus
 
 We directed that the followers of Rāmānuja (Rāmānujam-uḍaiyar) and those of our Vaishnava 
 
-XV 
+[[XV]]
 
 samayam shall accept him (i.e., his pontificate) and carry on (the work). 
 
@@ -1013,7 +1013,7 @@ Inscription dated Vikari Samvatsara, saka 1822, Magha Sukla 15 in the New Mutt i
 
 11 3 11 
 
-xviii 
+[[xviii]]
 
 यज्ञार्थं शोधयन् क्ष्मा मलभत घनगिर्यप्पळार्यो गुरुर्य यस्तद्वंश्यैः कृताचें व्यलसदतिचिरं मागडीनानि पुर्याम् । श्रीमां स्तत्पौत्रपौत्रो व्यतनुत परकालाह्वयस्संयमीन्द्रो लक्ष्मीनारायणं श्रीतुरगमुखसखं तं निजास्थानसीनि 
 
@@ -1051,7 +1051,7 @@ LLLL CLLLLLLLLLLL, LELLE
 
 Srimad Rajadhiraja Rajendra Wodiyar 
 
-xix 
+[[xix]]
 
 व्याख्यां भाष्यस्य तद्वत्परमुपनिषदां द्रामिडीनां च चक्रे विख्यातोदात्तभूमा स जयतुपरकालाभिधानो यतीन्द्रः 
 
@@ -1099,7 +1099,7 @@ xix
 
 ॥ १७ ॥ 
 
-XX 
+[[XX]]
 
 राजाधिराज आसीद्राजाख्य स्तेषु जगति विदितयशाः । यश्चक्रांकमविंदत् ज्ञानाब्धि ब्रह्मतन्त्रयतिराजात् 
 
@@ -1153,7 +1153,7 @@ Sri Brahmatantra Swatantra Vedanta
 
 Lakshmana SwamiMaharaja Sri Chikka Devaraja Wodiyar 
 
-xxi 
+[[xxi]]
 
 प्रागुक्तवंशोद्भवकन्यकास्तु देया नचैतत्कुलसंभवेभ्यः । ग्राह्याद्वितीयादिकरग्रहे तैः कन्याः किलैतत्कुलसंप्रसूताः ॥ २६ ॥ 
 
@@ -1197,7 +1197,7 @@ xxi
 
 ॥ ३२ ॥ 
 
-xxii 
+[[xxii]]
 
 सुगुणग्रामान्ग्रामान् श्रीमान्परकालदेशिकाय नृपः । श्रीहयमुखकैर्ये पर्याप्ततमान्परिच्छदांश्चादात् 
 
@@ -1237,7 +1237,7 @@ xxii
 
 4 
 
-xxiii 
+[[xxiii]]
 
 पौत्रोऽस्यास्सुरधेनुभानुजमुखस्तोत्रार्ह वादान्यकः श्रीमान्मुम्मडिकृष्णभूपतिमणिस्सोमान्वयोज्जीवनः । 
 
@@ -1263,7 +1263,7 @@ xxiii
 
 ॥ ४५ ॥ 
 
-xxiv 
+[[xxiv]]
 
 यत्रोवास वृषाद्रिमूर्धनि चिरादाब्रह्मतंन्त्राद्गुरो राच श्रीपरकालदेशिकमणेस्खाचार्यपारंपरी । तत्रश्रीमठधाम्नि नित्यभगवच्छ्रीवैष्णवाराधने पर्याप्तं वसु मासिमासि स नृपो देयं व्यवास्थापयत् 
 
@@ -1287,7 +1287,7 @@ xxiv
 
 11:40 11 
 
-XXV 
+[[XXV]]
 
 यः पूर्व यादवाद्रयादिषु हरिभवनेष्वप्रतीर्थादिमानो दत्तः कर्णाटदेशे निजकुलगुरवे दोडकृष्णक्षितीशा । साकंतेनाददात्तेष्वधिकृतिमखिलां निग्रहानुग्रहादौ श्रीमद्वंदावतारे स्वकुलगुरुवरे कृष्णभूमीभूदेषः 
 
@@ -1319,7 +1319,7 @@ XXV
 
 ॥ ५६ ॥ 
 
-xxvi 
+[[xxvi]]
 
 तदुपकरणं सर्वं नव्यं विधाय समार्पय निजकुलनृपाचार्ये तस्मिन् स कृष्णमहीपतिः 
 
@@ -1359,7 +1359,7 @@ xxvi
 
 ॥ ६३ ॥ 
 
-xxvii 
+[[xxvii]]
 
 तस्यश्रीचामराजोत्तमनृपतिमणेर्भासतेपट्टराज्ञी 
 
@@ -1397,7 +1397,7 @@ xxvii
 
 ॥ ६९ ॥ 
 
-xxviii 
+[[xxviii]]
 
 प्राक्कृष्णेन्द्रस्खचक्रांकन विधिसमये वज्र डोलामनघ श्रीमद्वंटावतारे कलिमथनगुरावर्पयामास नव्यां । तत्प्रत्रे कृष्ण भूमीशितरि निजसुते प्राप्तचक्रांब्जचिन्हें सैषानव्यंमठं श्रीहयवदनमुदे निर्ममे धर्मनेत्री 
 
@@ -1419,7 +1419,7 @@ xxviii
 
 || 98 || 
 
-xxix 
+[[xxix]]
 
 दिव्यं वज्रावतंसं मरकतरुचिरां वैजयंतींचमालां वज्राढ्यं बाल चंद्राकृति मनघतमं प्रोज्वलंतं च हारं । मुक्ताहारांस्तथान्यानपि तुरगमुखप्रीतयेऽदत्तसैषा श्री कृष्णब्रह्म तंत्रोत्तमगुरुचरणां भोरुहोद्वेलभक्तिः 
 
@@ -1469,7 +1469,7 @@ xxix
 
 ॥ ८५ ॥ 
 
-xxxi 
+[[xxxi]]
 
 पूर्णाभिधान सचिवोत्तमवंशरत्नं पूर्णोर्गुणैश्शुभत मैस्समयेह्यमुष्मिन् । श्रीकृष्ण भूपतिमणेस्सचिवाधिकारे श्रीकृष्णमूर्तिरिति सुप्रथितस्समिन्धे 
 
@@ -1505,7 +1505,7 @@ xxxi
 
 ॥ ९२ ॥ 
 
-xxxii 
+[[xxxii]]
 
 कर्णाटक्षितिपालशेखर महासाम्राज्यधौरंधरी विभ्राजिष्णुयशोविशोभितदिशाधीशालय प्रांगणः । सूनुश्चामनृपालशेखरमणे श्रीकृस्णराजाधिरा 
 
@@ -1555,7 +1555,7 @@ APPENDIX III
 
 श्रीनाथाङ्घ्रिद्वयैकाश्रय इह परकालार्ययोगी विभाति ॥ ४ ॥ 
 
-xxxiv 
+[[xxxiv]]
 
 जैना यात दिशः प्रयात विदिशो लोकायतास्सौगता 
 
@@ -1599,7 +1599,7 @@ xxxiv
 
 सद्वयाळीवदनोज्वलांच परकालार्यस्समिंधे भुवि ॥ ९ ॥ 
 
-XXXV 
+[[XXXV]]
 
 प्रपदनधनदायः पण्डिताप्रेसरोऽयम् 
 
@@ -1643,7 +1643,7 @@ XXXV
 
 ढिल्लीं यः परकालदेशिकमणिः प्रापास्तु तस्मै नमः ॥ १४ ॥ 
 
-xxxvi 
+[[xxxvi]]
 
 श्रीभाग्यश्रीरहस्यत्रयसृतिशत दूषण्यदस्तत्वनैौका 
 
@@ -1677,7 +1677,7 @@ xxxvi
 
 पतंजलिः पाणिनितंत्रवेदिनां श्रुत्यंत निष्णातधियां सभाष्यकृत् । वल्मीकजन्मा कविताविनोदिनां जयत्यतुल्यः परकालसंयमी ॥ २० ॥ 
 
-Xxxvii 
+[[Xxxvii]]
 
 शठरिपुपरकालसंयमीन्द्रः 
 
