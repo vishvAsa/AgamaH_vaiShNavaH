@@ -2,7 +2,7 @@
 title = "+वेदान्त-कारिकावली"
 
 +++
-TODO: परिष्कार्यम्
+TODO: संस्कृत-टीका परिष्कार्या
 
 Source: [TW](https://archive.org/details/vedantakarikavali)
 
