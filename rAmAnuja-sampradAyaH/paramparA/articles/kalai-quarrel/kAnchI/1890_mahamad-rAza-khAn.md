@@ -1,5 +1,5 @@
 +++
-title = "mahamad-rAza-khAn 1890"
+title = "1890 mahamad-rAza-khAn"
 +++
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
