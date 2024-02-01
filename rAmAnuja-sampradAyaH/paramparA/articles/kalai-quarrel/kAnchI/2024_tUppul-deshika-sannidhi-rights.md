@@ -1,5 +1,5 @@
 +++
-title = "2016 tUppul deshika sannidhi rights"
+title = "2024 tUppul deshika sannidhi rights"
 +++
 
   
