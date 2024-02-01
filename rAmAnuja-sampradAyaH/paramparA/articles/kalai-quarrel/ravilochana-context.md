@@ -13,7 +13,7 @@ In old mysore region, the fight became keen on melkote only from 1710. When the 
 But the issue cropped up again in 1780s and in 1784-85, tipu (of all people!!) gave the farmaan to recite both taniyans in melkote temple. Since then, this is the allowed practice in melkote.
 
 
-The philosophical difference had not lead to a great civil war till the 1790s.  
+The philosophical difference had not led to a great civil war till the 1790s.  
 The first major rift happened in 1795 when the thelliyasingar sannidhi of Triplicane was taken over by Tenkalais from the Vadakalai side. This lead to a backlash in kanchi where vadakalais wanted to boot out tenkalais from Varadaraja and Thooppul.  
 Till 1795, Tatacharyas of Kanchi were still ok with the 1710 agreement but post 1795, you see them becoming opposed to the agreement.
 
