@@ -55,13 +55,13 @@ Vijay read an article which made the following points:
 तया व्यक्तिर् वा कुलम् अपि वा ऽऽचार्यपदम् आरोप्यत इति केचित्। 
 
 ### भाष्योपदेश-परम्परा
-- From the 74 simhasanadhipathis, he selected four, gave them the Sri Bhashya kosha and instructed them to do Sri Bhashya pravachanam thereby making them Sri bhashya simhasanadhipathis.
+- From the 74 simhasanadhipathis, he selected four, gave them the Sri Bhashya kosha and instructed them to do Sri Bhashya pravachanam thereby making them Sri bhashya simhasanadhipathis. कूरेशस् तु पूर्वम् एव मृतः। 
 
 - कुरुगेशः, तिरुक्-कुरुगै-पिऱान्-पिळ्ळन् (श्रीशैल-पूर्णपुत्रः, तातार्यः, R's maternal cousin).
   - भगवद्-विषय-सिंहासनाधिपतिः अपि। तेन - उभय-वेदान्त-सिंहासनाधिपतिः। R asked him (seeing his understanding, also presumably stronger in tamiL) to compose bhagavad-viShayam on divyaprabandha. No such commentary existed before piLLan. The oldest (and perhaps only contemporary) text on ramanuja calls pillaan alone as UVS. 
   - रामानुजस्य ज्ञानपुत्रः। तदुरसि शयानो देहं तत्याज। Essentially nominated successor by rAmAnuja.
-- Kidambi Acchaan (प्रणतार्तिहरः, रामानुज-पाचकः). अयं रहस्य-सिंहासनाधिपतिर् अपि। 
-- naDAtUr ALvan (रामानुज-भागिनेयः)
+- Kidambi Acchaan (प्रणतार्तिहरः, रामानुज-पाचकः, "वेदान्तोदयनः"). अयं रहस्य-सिंहासनाधिपतिर् अपि। 
+- naDAtUr ALvan (रामानुज-"प्रिय"-भागिनेयः)
 - Mudali Andan (रामानुज-भागिनेयः).
 
 ## वेदान्त-देशिक-शाखा
