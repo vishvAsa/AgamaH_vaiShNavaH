@@ -64,7 +64,7 @@ jobs:
         path: static
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
-      if: ${{ steps.changed-files.conclusion == 'skipped' || steps.filter_changed_files.outputs.count != '0'}}
+      if: ${{ steps.changed-files.conclusion == 'skipped' || steps.changed-files-yaml.outputs.test_any_changed == 'true'}}
       id: setup_hugo
       with:
         hugo-version: "0.119.0"
