@@ -101,13 +101,21 @@ His period should have started about 1458.. 60 yrs (one samvatsara cycle) later 
 
 ## दक्षिणकलार्याः
 
-रामानुजः → श्रीरङ्गे ऽवशिष्टाः …→ Pillai Lokacharya → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः), Erumbi Appa, Appillai, and Appillan
+### रहस्य-परम्परा
+रामानुजः → ऎम्बार् गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नन्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) → नम्पिळ्ळै
+
+
+### श्रीभाष्य-परम्परा
+R->Pillaan->Engal Azhvan / विष्णु-चित्तः -> Nadadur Ammal → वडक्कुत्-तिरु-वीदिप्-पिळ्ळै → …
+
+### भगवद्-विषय-परम्परा
+रामानुजः → ऎम्बार् गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नन्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) → नम्पिळ्ळै → पॆरियव्-आच्चान्-पिळ्ळै → वडक्कुत्-तिरु-वीदिप्-पिळ्ळै → Vāraṇādrīśa/ Pillai Lokacharya, अऴगिय-मणवाळः → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः), Erumbi Appa, Appillai, and Appillan
 
 <details><summary>ध्यानश्लोकाः</summary>
 
-मनवाळमहामुनिः। 
+मनवाळ-महा-मुनिः। 
 
-श्रीशैलेश-दयापात्रं  
+श्रीशैलेश-दया-पात्रं  
 धीभक्त्यादि-गुणार्णवम् ।  
 यतीन्द्र-प्रवणं वन्दे  
 रम्य-जामातरं मुनिम्॥
@@ -127,10 +135,15 @@ His period should have started about 1458.. 60 yrs (one samvatsara cycle) later 
 > - रविलोचनः
 </details>
 
+### प्रपत्तौ व्यावृत्तिः
+वडक्कुत्-तिरु-वीदिप्-पिळ्ळै इत्य् अयम् स्वीयय् ईडुग्रन्थे  
+"प्रपत्तिर् अवश्यं कार्यम्" इत्य् अप्य् उक्तम्, "न कार्यम्" इत्य् अपि!  
 
-
-### कृतिषु व्यावृत्तिः
+तत्-पुत्रौ द्वितीयम् एवम् पक्षम् अगृह्णीताम्।  
 Acharya-hrdayam was composed by lokAchArya's younger brother. 
 
 > This work was the start of an open revolt against vaidikas among vaishnavas. Eg. "You guys follow Rishi gotras . We belong to azhvaar gotra .."  
 > इति रविलोचनः। 
+
+### शूल-पुण्ड्रम्
+सच्चरित्ररक्षायां वेदान्तदेशिकेन दक्षिणकलार्येषु प्रसिद्धं शूलपुण्ड्रम् नोल्लिखितम्। 
