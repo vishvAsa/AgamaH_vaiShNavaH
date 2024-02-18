@@ -19,8 +19,13 @@ title = "+द्वय-मन्त्रः"
 
 <details><summary>स्रोतः (द्रष्टुं नोद्यम्)</summary>
 
+वैदिक-स्रोतः -
+
 > Source claimed - Kathavalli. But the katha brahmana is not found in full.
 >
 > Interestingly there is a later upanishad called dvayopanishad. (Later based on absence in a list in muktikopaniShat.) But it does not give the mantra. It only mentions abt the mantra and it's characteristics.
->
+
+तन्त्रेष्व् अप्य् आम्नातम्।  
+अतो वेदबाह्येभ्योऽपि दीयते। 
 </details>
+

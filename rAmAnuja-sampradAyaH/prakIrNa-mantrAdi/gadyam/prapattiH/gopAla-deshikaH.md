@@ -3,7 +3,7 @@ title = "गोपाल-देशिकः"
 +++
 
 
-<details><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 
 देहेन्द्रियादि-लक्षणो **ऽहं**, मदीयत्वेनाभिमतञ् च,  

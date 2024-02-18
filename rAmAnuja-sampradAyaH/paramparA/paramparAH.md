@@ -84,6 +84,8 @@ A small section of tataryas (mostly belonging to the addanki branch and some bel
 ### मुनित्रय-शाखा
 → आत्रेय-गोपालार्यः मुनि-त्रय-सम्प्रदाय-प्रवर्तकः, aka Thirukkudanthai Desika → Ramanuja Maha Desikan (Andavan Ashrama), Annarya, Vangipuram vedAnta Ramanuja Maha desikan (Aandikadu Swamy in Srirangam)
 
+munitraya = all the svayamAchAryas in the Desika tradition who had not yet affiliated with either of the two existent maThas (अहोबिल-परकालौ).
+
 #### Andavans 
 
 - Ramanuja Maha Desikan …
@@ -100,16 +102,19 @@ His period should have started about 1458.. 60 yrs (one samvatsara cycle) later 
 </details>
 
 ## दक्षिणकलार्याः
+अस्याम् परम्परायाम् ऎम्बार्-गोविन्दः, पराशर-भट्टः, नञ्-जीयर् इत्येतय् उत्तरकलार्यैर् अपि सम्मानिताः,  
+वेङ्कटनाथार्यादिभिस् सादरम् उल्लिखिताः।  
+
 
 ### रहस्य-परम्परा
-रामानुजः → ऎम्बार् गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नन्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) → नम्पिळ्ळै
+रामानुजः → ऎम्बार्-गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नञ्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) → नम्पिळ्ळै
 
 
 ### श्रीभाष्य-परम्परा
 R->Pillaan->Engal Azhvan / विष्णु-चित्तः -> Nadadur Ammal → वडक्कुत्-तिरु-वीदिप्-पिळ्ळै → …
 
 ### भगवद्-विषय-परम्परा
-रामानुजः → ऎम्बार् गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नन्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) 9k-व्याख्या-स्रोतः (शिष्य-लेखितः) → नम्पिळ्ळै → पॆरियव्-आच्चान्-पिळ्ळै, वडक्कुत्-तिरु-वीदिप्-पिळ्ळै (ईडु-३६k-व्याख्या-लेखकः) → Vāraṇādrīśa/ Pillai Lokacharya, अऴगिय-मणवाळः → thiruvAimozhi piLLai → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः), Erumbi Appa, Appillai, and Appillan
+रामानुजः → ऎम्बार् गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नञ्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) 9k-व्याख्या-स्रोतः (शिष्य-लेखितः) → नम्पिळ्ळै → पॆरियव्-आच्चान्-पिळ्ळै, वडक्कुत्-तिरु-वीदिप्-पिळ्ळै (ईडु-३६k-व्याख्या-लेखकः) → Vāraṇādrīśa/ Pillai Lokacharya, अऴगिय-मणवाळः → thiruvAimozhi piLLai → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः), Erumbi Appa, Appillai, and Appillan
 
 वडक्कुत्-तिरु-वीदिप्-पिळ्ळै इत्यनेन रचिता प्रथम-व्याख्या तद्-आचार्येण नम्पिळ्ळै-महाशयेन तिरस्कृता ज्वालिता च।  
 पुनर् लिखिते सति, निगूहितम्। तच्च पुनर् मनवाळ-मामुनि-काले वंश-प्राप्तं प्रकाशितम्। 
@@ -138,4 +143,4 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 > इति रविलोचनः। 
 
 ### शूल-पुण्ड्रम्
-सच्चरित्ररक्षायां वेदान्तदेशिकेन दक्षिणकलार्येषु प्रसिद्धं शूलपुण्ड्रम् नोल्लिखितम्। 
+सच्-चरित्र-रक्षायां वेदान्त-देशिकेन दक्षिण-कलार्येषु प्रसिद्धं शूलष्पुण्ड्रम् नोल्लिखितम् इति बहवः। 
