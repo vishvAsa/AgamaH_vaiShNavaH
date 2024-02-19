@@ -36,12 +36,12 @@ ANDavan Ashrama makes you recite:
 
 <div class="js_include" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-### नामहोमः
+### नाम-होमः
 > The Parasara-visista-parama-dharma-sastra which is largely the basis for the panchasamskara performed today explicitly allows for the skipping of the nAma-samskara if the individual has been given a Srivaishnava nAma at birth, cauLa or upanayana.
 > 
 > -vijay
 
-### तापसंस्कारः
+### ताप-संस्कारः
 Ahobila MaTha uses dhUpa for heating the emblem. They don't do any homa. They claim that since the mudras were given by the Lord Himself, there is no need for homa.
 
 ## भरन्यास आचार्यः

@@ -84,7 +84,8 @@ A small section of tataryas (mostly belonging to the addanki branch and some bel
 ### मुनित्रय-शाखा
 → आत्रेय-गोपालार्यः मुनि-त्रय-सम्प्रदाय-प्रवर्तकः, aka Thirukkudanthai Desika → Ramanuja Maha Desikan (Andavan Ashrama), Annarya, Vangipuram vedAnta Ramanuja Maha desikan (Aandikadu Swamy in Srirangam)
 
-munitraya = all the svayamAchAryas in the Desika tradition who had not yet affiliated with either of the two existent maThas (अहोबिल-परकालौ).
+munitraya = all the svayamAchAryas in the Desika tradition who had not yet affiliated with either of the two existent maThas (अहोबिल-परकालौ).  
+parakala matha tradition mostly goes along with munitraya only.. even in srijayanti nirnaya
 
 #### Andavans 
 
@@ -100,6 +101,9 @@ munitraya = all the svayamAchAryas in the Desika tradition who had not yet affil
 
 His period should have started about 1458.. 60 yrs (one samvatsara cycle) later than the traditional dates claimed by the matha. That shall also explain how allasani peddanna (who was in krishnarayas durbar) calls him as his acharya among other things - like inscriptions of his successor from 1515 or so CE.
 </details>
+
+भूतशुद्धिमन्त्रेषु व्यत्यासो विद्यते -  
+तत्राहोबिलपक्षो वरो भाति।
 
 ## दक्षिणकलार्याः
 अस्याम् परम्परायाम् ऎम्बार्-गोविन्दः, पराशर-भट्टः, नञ्-जीयर् इत्येतय् उत्तरकलार्यैर् अपि सम्मानिताः,  
