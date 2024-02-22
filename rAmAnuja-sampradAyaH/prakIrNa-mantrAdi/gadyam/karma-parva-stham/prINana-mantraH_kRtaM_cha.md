@@ -11,7 +11,19 @@ title = "प्रीणन-मन्त्रः - कृतं च"
 
 
 
-स्वशेष-भूतेन मया  
-स्वीयैः सर्व-परिच्छदैः ।  
-**विधातुं** प्रीतम् आत्मानं  
-देवः **प्रक्रमते स्वयम्** ॥ 
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md"  newLevelForH1="5" includeTitle="false"> 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वशेषभूतेन मया  
+स्वीयैस् सर्व-परिच्छेदैः ।  
+**विधातुं** प्रीतमात्मानं  
+देवः **प्रक्रमते** स्वयम् ॥ (१२)
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वशेषभूतेन मया स्वीयैस्सर्वपरिच्छेदैः ।  
+विधातुं प्रीतमात्मानं देवः प्रक्रमते स्वयम् ॥ (१२)
+</details>
+</div>  

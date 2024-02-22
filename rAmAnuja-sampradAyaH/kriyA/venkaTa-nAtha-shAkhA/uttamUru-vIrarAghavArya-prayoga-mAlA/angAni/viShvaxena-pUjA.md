@@ -6,15 +6,21 @@ title = "विष्वक्सेन-पूजा"
 
 इति संकल्प्य,
 
-> 'शुक्लाम्बरधरं विष्णुं  
-> शशिवर्णं चतुर्भजम् ।  
-> प्रसन्नवदनं द्यायेत्  
-> सर्वविघ्नोपशान्तये ॥’’
->
-> ‘‘यस्य द्विरदवक्त्राद्याः  
-> पारिषद्याः परश्शतम् ।  
-> विघ्नं निघ्नन्ति सततं  
-> विष्वक्सेनं तमाश्रये ॥ '’
+<div class="js_include" url="/devaH/AryaH/hindukaH/viShNuH/padyam/shuklAmbara-dharaM.md" newLevelForH1="5" includeTitle="false"> 
+
+शुक्लाम्बरधरं विष्णुं  
+शशिवर्णं चतुर्भजम् ।  
+प्रसन्नवदनं द्यायेत्  
+सर्वविघ्नोपशान्तये ॥
+</div>
+
+<div class="js_include" url="/devaH/AryaH/hindukaH/viShvaksenaH/padyam/yasya_dvirada-vaktrAdyAH.md"  newLevelForH1="5" includeTitle="false">   
+
+यस्य द्विरदवक्त्राद्याः  
+पारिषद्याः परश्शतम् ।  
+विघ्नं निघ्नन्ति सततं  
+विष्वक्सेनं तमाश्रये ॥
+</div>
 
 > विष्वक्सेनं सूत्रवती-समेतं सपरिवारं ध्यायामि,  
 आवाहयामि,  

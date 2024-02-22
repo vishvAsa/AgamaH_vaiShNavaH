@@ -55,8 +55,10 @@ title = "पञ्चसंस्कारप्रयोगः"
 <div class="js_include" url="../angAni/viShvaxena-pUjA"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ## सङ्कल्पः
-> ‘हरिर् ओं तत् - श्रीगोविन्द गोविन्द गोविन्द!  
-भगवत्-प्रीत्य्-अर्थं  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/gadyam/harir_OM_tat_govinda.md"  newLevelForH1="5" includeTitle="false"> </div>  
+
+
+> भगवत्-प्रीत्य्-अर्थं  
 ....गोत्रं ..शर्माणं भगवद्-दास-भूतं  
 सुदर्शन-पाञ्चजन्य-धारण--  
 ऊर्ध्व-पुण्ड्र-धारण--  

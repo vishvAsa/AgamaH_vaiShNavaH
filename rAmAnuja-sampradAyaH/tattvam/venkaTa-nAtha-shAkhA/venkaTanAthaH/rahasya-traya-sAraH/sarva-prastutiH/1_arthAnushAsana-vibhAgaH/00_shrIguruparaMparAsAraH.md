@@ -12,8 +12,9 @@ title = "०० श्रीगुरुपरंपरासारः"
 
 A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 
-<div class="js_include" url="/bhAShAntaram/tamiL/padyam/shrIvaiShNava/taniyan/venkaTa-nAtha/sIr-oNDru/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/bhAShAntaram/tamiL/padyam/shrIvaiShNava/taniyan/venkaTa-nAtha/sIr-oNDru.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md"  newLevelForH1="5" includeTitle="false"> 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -35,6 +36,7 @@ A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 
 [^1]: A śeṣa is one who exists solely for the purposes of another. That other is śeṣī .
 </details>
+</div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
