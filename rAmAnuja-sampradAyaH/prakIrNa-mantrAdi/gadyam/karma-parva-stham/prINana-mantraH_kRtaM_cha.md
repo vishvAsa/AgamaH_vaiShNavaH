@@ -10,20 +10,3 @@ title = "प्रीणन-मन्त्रः - कृतं च"
 भगवन्तं वासुदेवम् अर्चयिष्यामि  +++(इत्य् आदौ)+++/ भगवान् प्रीयतां वासुदेवः +++(इत्य् अन्ते)+++।   
 
 
-
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/prakIrNa-mantrAdi/padyam/svasheSha-bhUtena.md"  newLevelForH1="5" includeTitle="false"> 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-स्वशेषभूतेन मया  
-स्वीयैस् सर्व-परिच्छेदैः ।  
-**विधातुं** प्रीतमात्मानं  
-देवः **प्रक्रमते** स्वयम् ॥ (१२)
-</details>
-
-<details><summary>मूलम्</summary>
-
-स्वशेषभूतेन मया स्वीयैस्सर्वपरिच्छेदैः ।  
-विधातुं प्रीतमात्मानं देवः प्रक्रमते स्वयम् ॥ (१२)
-</details>
-</div>  
