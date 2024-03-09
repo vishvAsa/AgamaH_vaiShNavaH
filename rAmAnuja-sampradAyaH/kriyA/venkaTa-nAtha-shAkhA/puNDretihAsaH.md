@@ -14,6 +14,11 @@ Pre 1500 depictions are seen in hazara Rama temple and vitthala temple in hampi 
 ### viShNu
 Perumal idols with such namams are very late. The diamond urdhvapundra used on devaraja of kanchi during one utsavam was apparently donated by achyutaraya as per inscription, iirc. So, the usage of such urdhvapundra on bhagavan Himself is definitely more than 5 centuries old -  No doubt. We see such usages in hampi as well. But not in the chola and pandya murtis
 
+#### Textual reference
+> गन्ध-पुष्प-प्रदान--अलङ्कार--ऊर्ध्व-पुण्ड्र--अञ्जन-आदर्श-धूप-दीप-आचमन-ध्वज-छत्र-चामर-वाहन-शङ्ख-चिह्न-काहल-भेर्यादि-सकल-नृत्त-गीत-वाद्यादिभिः अभ्यर्च्य,
+
+इति रामानुज-नित्य-ग्रन्थे ॥
+
 #### Quasi-puNDras on viShNu
 However  see lepakshi Dashavatara murlas for instance (eg. Mahavishnu with abhayahasta) - These are datable to Achyutaraya if not slightly before- so post-1526, perhaps?
 
