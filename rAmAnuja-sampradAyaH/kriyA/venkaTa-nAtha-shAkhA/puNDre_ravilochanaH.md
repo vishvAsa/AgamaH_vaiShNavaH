@@ -2,7 +2,7 @@
 title = "पुण्ड्रे रविलोचनः"
 +++
 
-Source: RI
+Source: रविलोचनः, लक्ष्मीनारायणः
 
 ## Depictions
 Perumal idols with such namams are very late. They are found on pillars and walls first. As well as in the sculptures in the walls and pillars. Such depictions show both namams. Hampi temples show the state of affairs before 1565 and we see both types in these temples..  
@@ -11,11 +11,20 @@ Pre 1500 depictions are seen in hazara Rama temple and vitthala temple in hampi 
 
 (Claim made by people like Sri Vaishnava Sri Krishnamachari that tk namam is the only original one is proven wrong by this fact.) 
 
+### viShNu
+Perumal idols with such namams are very late. The diamond urdhvapundra used on devaraja of kanchi during one utsavam was apparently donated by achyutaraya as per inscription, iirc. So, the usage of such urdhvapundra on bhagavan Himself is definitely more than 5 centuries old -  No doubt. We see such usages in hampi as well. But not in the chola and pandya murtis
+
+#### Quasi-puNDras on viShNu
+However  see lepakshi Dashavatara murlas for instance (eg. Mahavishnu with abhayahasta) - These are datable to Achyutaraya if not slightly before- so post-1526, perhaps?
+
 <details open><summary>विश्वास-टिप्पनी</summary>
 
 so, originally viShNu did not wear puNDra - which would make sense since they symbolize his foot and so befit vaiShNavas instead?
 </details>
 
+And interestingly there seems to have been another variant of the Urdhvapundra for men, which today is restricted to women. Eg. Lakshminarayana and Kurmavatara 
+
+i.e. the little shvetapundra crescent below (the diamondish mark for Kurma is usually made of javvadu or kasturi)
 
 ## sampradAya-difference
 
