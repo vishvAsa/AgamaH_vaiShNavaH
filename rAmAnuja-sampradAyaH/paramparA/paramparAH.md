@@ -148,3 +148,8 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 
 ### शूल-पुण्ड्रम्
 सच्-चरित्र-रक्षायां वेदान्त-देशिकेन दक्षिण-कलार्येषु प्रसिद्धं शूलष्पुण्ड्रम् नोल्लिखितम् इति बहवः। 
+
+
+## राजाश्रयः
+
+> In amukramalyada 6.66, he calls Mamuni, Desika and Adivan Satakopan as avataras of Ramanuja. Krishnamachariar came out with a book by someone who questioned the validity of Adivan Satakopan getting sanyasa from nrsimha. But KDR mentions the same story as well.
