@@ -43,7 +43,8 @@ title = "तिलकम्, पुण्ड्रम्"
 - श्रीवैष्णवेषु 
   - उत्तरकलार्याः U-आकृत्या धरन्ति।
   - दक्षिणकलार्याः सपीठं पुण्ड्रं धरन्ति। 
-
+    - तेषु केचिन् नासा-मूलं नाम नासापुटदेशं गृह्णन्ति। (यथा धनुर्दासयतिः। )
+    - अन्ये भ्रूमध्यभागस्याधस्ताद् आरब्धुं ईहन्ते। 
 - वैखानसाः
 
 > AP and telengana - vaikhanasas generally sport so called vdk namam. The vaikhanasa pathasalas also sport that style of namam only.
