@@ -37,35 +37,7 @@ title = "तिलकम्, पुण्ड्रम्"
 
 
 ## इतिहासः
-### चित्रणानि
-- अत्र रविलोचन-विचारा [दृश्याः](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/venkaTa-nAtha-shAkhA/puNDre_ravilochanaH) । 
-
-
-### विकास-परम्परा
-Simpler memes appear earlier.
-
-- रिक्त-ललाटता
-  - KS varadAchArya was very objective as usual - he plainly said "RShi-s did not wear a puNDra at all"
-- भस्मना तिर्यक्-पुण्ड्रम् (just the ease of application!)
-- ऋजु-तिलकम् - दीपशिखावत्, रेखामात्रं वा
-  - एतद्धि प्राचीनविष्णुविग्रहेषु दृश्यते। 
-  - भस्म, हरिद्रा, कुङ्कुमम् इति द्रव्यं तत्र। 
-- उत्तरकलार्यपुण्ड्रम् समध्यमरेखम् 
-  - क्वचित् प्रथमं श्रीचूर्णं धृत्वैव ततः परितः परिधिम् इव पुण्ड्रं धारयन्ति स्म केचित्, तत्-प्राधान्यं ज्ञापयन्तः । ([YT](https://youtu.be/SSourk5gH2E?t=1473))
-- U without the middle line क्वचित्। 
-- पश्चाद् एव "नासिकामूलं स्पृशेद्" इति भावे प्रचुरे जाते, पीठादियोजनम् आरब्धम् भाति।
-
-### विष्णौ
-Originally viShNu idols did not wear the 3-line Urdhva-puNDra - which would make sense since they symbolize his foot and so befit vaiShNavas instead.
-
-ततो हि - 
-
-> Perumal idols with such namams are very late. They are found on pillars and walls first.
-
-सच्चरित्ररक्षायां च - 
-
-> ननु भगवदर्चावतारेषु दीपशिखाकारोर्ध्वपुण्ड्रस्य दर्शनात् 
-"यच्छीलस्स्वामी"ति न्यायेन भागवतैरपि तथैवानुष्ठेयमिति चेन् न
+- अत्र रविलोचन-विचारा [दृश्याः](../puNDre_ravilochanaH) । 
 
 ## सम्प्रदाया
 - श्रीवैष्णवेषु 
