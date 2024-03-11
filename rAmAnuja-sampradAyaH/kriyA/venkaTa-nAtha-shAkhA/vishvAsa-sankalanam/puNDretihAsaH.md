@@ -26,7 +26,11 @@ Pre 1500 depictions are seen in hazara Rama temple and vitthala temple in hampi 
 (Claim made by people like Sri Vaishnava Sri Krishnamachari that tk namam is the only original one is proven wrong by this fact.) 
 
 ### viShNu
-Originally viShNu idols did not wear the 3-line Urdhva-puNDra - which would make sense since they symbolize his foot and so befit vaiShNavas instead. Perumal idols with such are very late. 
+There developed some smriti vachanas prohibiting shUnya-lalATa for all people, due to which viShNu images too started sporting a decoration.
+
+Originally viShNu idols did not wear the 3-line Urdhva-puNDra - which would make sense since they symbolize his foot and so befit vaiShNavas instead. 
+
+Perumal idols with such are very late. 
 
 सच्चरित्ररक्षायां च - 
 
