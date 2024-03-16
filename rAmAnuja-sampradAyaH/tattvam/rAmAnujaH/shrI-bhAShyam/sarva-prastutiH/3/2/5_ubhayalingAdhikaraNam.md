@@ -812,22 +812,138 @@ while to the highest Brahman, which is subject to itself only, the same connexio
 
 ### अपुरुषार्थायोगः श्रुतिकण्ठोक्तः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि चैवमेके ॥ 3-2-13 ॥
+**३२७. अपि चैवमेके ॥ ३–२–१३ ॥**
+</details>
+
+<details><summary>English</summary>
+
+13. Some also (teach) thus.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**३२७. अपि चैवमेके ॥ ३–२–१३ ॥**
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च एके शाखिनः  
+एकस्मिन्न् एव देह-संयोगे  
+जीवस्यापुरुषार्थं  
+परस्य तु तद्-अभावं  
+नियमन-रूपैश्वर्यायत्त-दीप्ति-योगं च स्व-शब्देनाधीयते – 
+</details>
+
+<details><summary>English</summary>
+
+Moreover, the followers of one śākhā explicitly teach that the connexion with one and the same body is for the individual soul a source of disadvantage, while for the highest Brahman it is nothing of the kind, but constitutes an accession of glory in so far as it manifests him as a Lord and Ruler, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च एके शाखिनः एकस्मिन्नेव देहसंयोगे जीवस्यापुरुषार्थं परस्य तु तदभावं नियमनरूपैश्वर्यायत्तदीप्तियोगं च स्वशब्देनाधीयते – 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अपि चैवमेके । स्फुटम् ॥ 13 ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> द्वा सुपर्णा स-युजा सखाया  
+समानं वृक्षं परिषस्वजाते।  
+तयोरन्यः पिप्पलं स्वाद्व्-अत्त्य्  
+अनश्नन्न् अन्यो अभिचाकशीति +++(=अभीक्षते)+++  
+(मु.३.१.१) 
+
+इति ॥१३॥
+</details>
+
+<details><summary>English</summary>
+
+'Two birds, inseparable friends, cling to the same tree. One of them eats the sweet fruit, the other looks on without eating' (Mu. Up. III, 1, 1).--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते। तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति** (मु.३.१.१) इति ॥१३॥
+</details>
+
+### ब्रह्मानुप्रवेश-श्रुतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ स्यात् – 
+
+> अनेन जीवेनाऽत्मनाऽनुप्रविश्य  
+> नामरूपे व्याकरवाणि  
+> (छा.६-३-२) 
+
+इति ब्रह्मात्मक-जीवानुप्रवेश-पूर्वकं  
+नाम-रूप-व्याकरणम्  
+इति ब्रह्मणोऽपि तद्-आत्म-भूतस्य देव-मनुष्यादि-रूपत्वं  
+तन्-नाम-भाक्त्वं चास्ति,
+</details>
+
+<details><summary>English</summary>
+
+But the text, 'Having entered by means of that jīva-self I will differentiate names and forms,' 
+
+teaches that  
+the differentiation of names and forms  
+depends on the entering into the elements of the jīva-soul  
+whose Self is Brahman,  
+and this implies that Brahman also,  
+as the Self of the individual soul,  
+possesses definite shapes, divine, human, and so on,  
+and is to be denominated by the corresponding names. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ स्यात् – **अनेन जीवेनाऽत्मनाऽनुप्रविश्य नामरूपे व्याकरवाणि** (छा.६-३-२) इति ब्रह्मात्मकजीवानुप्रवेशपूर्वकं नामरूपव्याकरणमिति ब्रह्मणोऽपि तदात्मभूतस्य देवमनुष्यादिरूपत्वं तन्नामभाक्त्वं चास्ति,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनन्तरसूत्रशङ्कामाह - अथ स्यात् इति ।  
+अरूपवद् एव हि तत्-प्रधानत्वात् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश्च "ब्राह्मणो यजेत" इत्य्-आदि--विधि-निषेध-शास्त्र-गोचरत्वेन कर्म-वश्यत्वम् अवर्जनीयिम् इति; 
+– तत्राह –
+</details>
+
+<details><summary>English</summary>
+
+Brahman thus falls within the sphere of beings to which injunctions and prohibitions are addressed--such as 'a Brāhmaṇa is to sacrifice'--and hence necessarily is under the power of karman.--To this the next Sūtra replies.
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
+ततश्च ब्राह्मणो यजेत इत्यादिविधिनिषेधशास्त्रगोचरत्वेन कर्मवश्यत्वमवर्जनीयिमिति; – तत्राह –
+</details>
+
+
 
 अपि च एके शाखिनः एकस्मिन्नेव देहसंयोगे ... .. तयोरन्यः पिप्पलं
 
 स्वाद्वत्त्यनश्नन्नन्योऽभिचाकशीति इति ॥ 13 ॥
 
-अपि चैवमेके । स्फुटम् ॥ 13 ॥
 
-अथ स्यात् -अनेन जीवेनात्मना .... ....
-
-अरूपवदेव हि तत्प्रधानत्वात् ॥ 3-1-14 ॥
-
-देवादिशरीरानुप्रवेशे तेन तेन रूपेण .... ... ब्रह्म निरस्तनिखिलदोषत्वकव्याणगुणाकरत्वरूपोभयलिङ्गमेव ॥ 14 ॥
-
-अनन्तरसूत्रशङ्कामाह - अथ स्यात् इति । अरूपवदेव हि तत्प्रधानत्वात् । केनाकारेणारूपतुल्यत्वमित्यत्राह - जीववत् इति । ननु इति । कथं कार्यानन्वयः , नियमनादिकार्यान्वयात् धीशब्दपर्यवसानेन कर्मवश्यत्वान्वयाच्चेत्यर्थः । परिहगति - इत्थम् इति । सुखदुःखकार्यविशेषास्पर्शो विवक्षितः , न तु नियमनाद्यस्पर्शः । धीशब्दपर्यवसायिकं कर्मान्वयं परिहरति - विधि इति । निष्कर्षकशब्दवत् ब्राह्मणादिशब्दाः जीवपर्यन्ताः स्युः । परपर्यन्तत्वेऽपि गौरो ब्राह्मण इति गौरत्ववत् विशेषणभूतजीवद्वारकं वा कर्मवश्यत्वं स्यादित्यर्थः ॥ 14 ॥
+केनाकारेणारूपतुल्यत्वमित्यत्राह - जीववत् इति । ननु इति । कथं कार्यानन्वयः , नियमनादिकार्यान्वयात् धीशब्दपर्यवसानेन कर्मवश्यत्वान्वयाच्चेत्यर्थः । परिहगति - इत्थम् इति । सुखदुःखकार्यविशेषास्पर्शो विवक्षितः , न तु नियमनाद्यस्पर्शः । धीशब्दपर्यवसायिकं कर्मान्वयं परिहरति - विधि इति । निष्कर्षकशब्दवत् ब्राह्मणादिशब्दाः जीवपर्यन्ताः स्युः । परपर्यन्तत्वेऽपि गौरो ब्राह्मण इति गौरत्ववत् विशेषणभूतजीवद्वारकं वा कर्मवश्यत्वं स्यादित्यर्थः ॥ 14 ॥
 
 ननु च - सत्यं ज्ञानमनन्तं ब्रह्म .... ...
 
