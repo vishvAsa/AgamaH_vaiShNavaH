@@ -45,12 +45,242 @@ The different states of the individual soul have been discussed, to the end that
 प्राप्यस्य ब्रह्मणो निर्दोषत्व-कल्याण-गुणात्मकत्व-प्रतिपादनायारभते।
 </details>
 
+<details><summary>English</summary>
+
+Next now, in order to give rise to the desire of attaining to Brahman,  
+the Sūtras proceed to expound how Brahman's nature is raised above all imperfections  
+and constituted by mere blessed qualities. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इदानीं ब्रह्मप्राप्तितृष्णाजननाय प्राप्यस्य ब्रह्मणो निर्दोषत्वकल्याणगुणात्मकत्वप्रतिपादनायारभते।
 </details>
 
 ## संशयप्रतिपादनम्
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र जागर-स्वप्न-सुषुप्ति-मुग्ध्य्-उत्क्रान्तिषु स्थानेषु  
+तत्-तत्-स्थान-प्रयुक्ता  
+जीवस्य ये दोषाः  
+ते तद्-अन्तर्यामिणः परस्य ब्रह्मणोऽपि  
+तत्र तत्रावस्थितस्य सन्ति,  
+नेति विचार्यते।
+</details>
+
+<details><summary>English</summary>
+
+The following point requires to be considered first.  
+Do those imperfections which cling to the individual soul in consequence of its different states--  
+viz. the waking state, dreams, deep sleep, swoon, departure from the body--  
+affect also the highest Brahman which as its inner Ruler abides within the soul in those different states, or not?
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र जागरस्वप्नसुषुप्तिमुग्ध्युत्क्रान्तिषु स्थानेषु तत्तत्स्थानप्रयुक्ता जीवस्य ये दोषाः ते तदन्तर्यामिणः परस्य ब्रह्मणोऽपि तत्र तत्रावस्थितस्य सन्ति, नेति विचार्यते।
+</details>
+
+## पूर्वपक्षः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किं युक्तम्? सन्तीति।  
+कुतः? तत्-तद्-अवस्थ-शरीरे ऽवस्थानात्।
+</details>
+
+<details><summary>English</summary>
+
+--They do affect it, since Brahman abides within the bodies which are in those different states.
+</details>
+
+<details><summary>मूलम्</summary>
+
+किं युक्तम्? सन्तीति।  
+कुतः? तत्तदवस्थशरीरेऽवस्थानात्।
+
+</details>
+
+
+### शङ्कितस्य दोषसम्बन्धस्य अयोगाक्षेप-परिहारौ
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु  
+> 
+>> **सम्भोग-प्राप्तिर् इति चेन् न - वैशेष्यात्** (शारी.१.२.८)  
+>
+>> **स्थित्य्-अदनाभ्यां च** (शारी.१.३.६) 
+>
+> इत्यादिषु  
+> परस्याकर्मवश्यत्वेन दोषाभाव उक्तः,  
+> तत् कथम् अ-कर्म-वश्यस्य परस्य ब्रह्मणस्  
+> तत्-तत्-स्थान-सम्बन्धाद् दोष उच्यते? 
+</details>
+
+<details><summary>English</summary>
+
+--But Sūtras such as I, 2, 8 have already declared that the highest Brahman, because not subject to the influence of karman, is free from all imperfections; how then can imperfections cling to it for the reason that it is connected with this or that place?--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु **सम्भोगप्राप्तिरिति चेन्न वैशेष्यात्** (शारी.१.२.८) **स्थित्यदनाभ्यां च** (शारी.१.३.६) इत्यादिषु परस्याकर्मवश्यत्वेन दोषाभाव उक्तः, तत्कथमकर्मवश्यस्य परस्य ब्रह्मणस्तत्तत्स्थानसम्बन्धाद्दोष उच्यते; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्थम् उच्यते –  
+कर्माण्य् अपि देह-सम्बन्धम् आपादयन्त्य्  
+अ-पुरुषार्थ-जननानि भवन्ति –  
+इति **देह-योगाद् वा** (शारी.३.२.५) इत्य्-अत्रोक्तम्; 
+</details>
+
+<details><summary>English</summary>
+
+In the following way.  
+As was shown under III, 2, 6, works give rise to imperfection and suffering in so far as they cause the connexion of the soul with a body.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्थमुच्यते – कर्माण्यपि देहसम्बन्धमापादयन्त्यपुरुषार्थजननानि
+भवन्ति – इति **देहयोगाद्वा** (शारी.३.२.५) इत्यत्रोक्तम्; 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनुत्थानशङ्कां परिहरति - इत्थम् इति । राज-कोप-द्वार-भूत--खड्ग-प्रहारस्येव  
+द्वार-हेतोः साक्षाद्-अपुरुषार्थ-हेतुत्वात्  
+स्वेच्छाधीनत्वे ऽपि तथात्वानपगमात् पूर्वपक्षोत्थानमित्यर्थः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तच् च देह-सम्बन्धस्यापुरुषार्थत्वेन भवति;  
+इतरथा कर्माण्य् एव दुःखं जनयिष्यन्ति; किं देहसम्बन्धेन;  
+</details>
+
+<details><summary>English</summary>
+
+The efficient cause therein is the imperfection inherent in the connexion with a body; for otherwise the works themselves would directly give rise to pain, and what then would be the use of the connexion with a body? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तच्च देहसम्बन्धस्यापुरुषार्थत्वेन भवति;  
+इतरथा कर्माण्येव दुःखं जनयिष्यन्ति; किं देहसम्बन्धेन;  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतोऽकर्मवश्यत्वे सत्य् अपि नाना-विधाशुचि-देह-सम्बन्धो ऽपुरुषार्थ एव;  
+</details>
+
+<details><summary>English</summary>
+
+Hence, even in the case of a being not subject to karman, its connexion with various unholy bodies will cause imperfection and suffering. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतोऽकर्मवश्यत्वे सत्यपि नानाविधाशुचिदेहसम्बन्धोऽपुरुषार्थ एव;  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् तन्-नियमनार्थं  
+स्वेच्छया तत्-प्रवेशेऽप्य्  
+अ-पुरुषार्थ--सम्बन्धो ऽवर्जनीयः;
+</details>
+
+<details><summary>English</summary>
+
+And even when such a being voluntarily enters into such bodies in order to rule them, connexion with imperfections is unavoidable; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतस्तन्नियमनार्थं स्वेच्छया तत्प्रवेशेऽप्यपुरुषार्थसम्बन्धोऽवर्जनीयः;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूय-शोणितादि-मज्जनं हि  
+स्वेच्छा-कारितम् अप्य्  
+अपुरुषार्थ एव ।
+</details>
+
+<details><summary>English</summary>
+
+no less than to be immersed in blood and purulent matter, even if done voluntarily, will make a man unclean. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूयशोणितादिमज्जनं हि स्वेच्छाकारितमप्यपुरुषार्थ एव ।
+</details>
+
+### पूर्वपक्षार्थनिगमनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो यद्य् अपि  
+जगद्-एक-कारणं सर्व-ज्ञत्वादि--कल्याण-गुणाकरं च ब्रह्म,  
+तथा ऽपि  
+
+> **यः पृथिव्यां तिष्ठन्** (बृह.५.७.३)  
+**य आत्मनि तिष्ठन्** (बृह.५-७-२२)  
+**यश् चक्षुषि तिष्ठन्** (बृह.५-७-१८)  
+**यो रेतसि तिष्ठन्** (बृह.५.७.२३) 
+
+इत्य्-आदि-वचनात्  
+तत्र तत्रावस्थितस्य तत्-तत्-सम्बन्ध-रूपापुरुषार्थास् सन्तीति॥
+</details>
+
+<details><summary>English</summary>
+
+Although therefore Brahman is the sole cause of the world and a treasure-house of all blessed qualities, yet it is affected by the imperfections springing therefrom that, as declared by Scripture, it abides within matter, bodies, and their parts, and thus is connected with them 
+
+> (cp. 'he who abides within earth, within the soul, within the eye, within the seed,' &c., Br̥. Up. III, 7, 3).
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो यद्यपि जगदेककारणं सर्वज्ञत्वादिकल्याणगुणाकरं च ब्रह्म, तथापि **यः पृथिव्यां तिष्ठन्** (बृह.५.७.३) **य आत्मनि तिष्ठन्** (बृह.५-७-२२) **यश्चक्षुषि तिष्ठन्** (बृह.५-७-१८) **यो रेतसि तिष्ठन्** (बृह.५.७.२३) इत्यादिवचनात् तत्र तत्रावस्थितस्य तत्तत्सम्बन्धरूपापुरुषार्थास्सन्तीति॥
+</details>
+
+## सिद्धान्तः
+### सूत्रार्थविवरणम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं प्राप्ते प्रचक्ष्महे – न स्थानतोऽपि परस्य – इति ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं प्राप्ते प्रचक्ष्महे – न स्थानतोऽपि परस्य – इति ।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न स्थानतोऽपि +++(हेयगुणिता परस्य)+++ -  
@@ -79,27 +309,142 @@ for everywhere (it is described) as having twofold characteristics.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र जागर-स्वप्न-सुषुप्ति-मुग्ध्य्-उत्क्रान्तिषु स्थानेषु  
-तत्-तत्-स्थान-प्रयुक्ता  
-जीवस्य ये दोषाः  
-ते तद्-अन्तर्यामिणः परस्य ब्रह्मणोऽपि  
-तत्र तत्रावस्थितस्य सन्ति,  
-नेति विचार्यते।
+न पृथिव्यात्मादि-स्थानतोऽपि  
+परस्य ब्रह्मणः  
+अ-पुरुषार्थ-गन्धस् सम्भवति ।
+</details>
+
+<details><summary>English</summary>
+
+Of this primā facie view the Sūtra disposes by saying--'Not even from place, such as earth, soul, &c., is there possible for the highest Self a shadow even of imperfection; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न पृथिव्यात्मादिस्थानतोऽपि परस्य ब्रह्मणः अपुरुषार्थगन्धस्सम्भवति ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः?  
+"उभयलिङ्गं सर्वत्र हि" –  
+यतः सर्वत्र श्रुति-स्मृतिषु  
+परं ब्रह्म  
+**उभयलिङ्गम्** – उभय-लक्षणम् अभिधीयते,  
+निरस्त-निखिल-दोषत्व--  
+कल्याण-गुणाकरत्व-लक्षणोपेतम् इत्य्-अर्थः। 
+</details>
+
+<details><summary>English</summary>
+
+since everywhere in Scripture as well as Smr̥ti Brahman is described as having characteristics of a double kind; viz. on the one hand freedom from all imperfections, and on the other possession of all blessed qualities. 
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत्र जागरस्वप्नसुषुप्तिमुग्ध्युत्क्रान्तिषु स्थानेषु तत्तत्स्थानप्रयुक्ता जीवस्य ये दोषाः ते तदन्तर्यामिणः परस्य ब्रह्मणोऽपि तत्र तत्रावस्थितस्य सन्ति, नेति विचार्यते।
+कुतः? उभयलिङ्गं सर्वत्र हि – यतः सर्वत्र श्रुतिस्मृतिषु परं ब्रह्म उभयलिङ्गम् – उभयलक्षणमभिधीयते, निरस्तनिखिलदोषत्वकल्याणगुणाकरत्वलक्षणोपेतमित्यर्थः। 
 </details>
 
-## पूर्वपक्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> अपहत-पाप्मा विजरो विमृत्युर् विशोको  
+विजिघत्सो+++(=अबुभुक्षः)+++ ऽपिपासस्  
+सत्य-कामः सत्य-सङ्कल्पः  
+(छा.८.१.५)  
+</details>
+
+<details><summary>English</summary>
+
+For Scripture says that the Supreme Person is free from evil, free from old age, free from death, free from grief, free from hunger and thirst; that all his wishes realise themselves, that all its purposes realise themselves' (Cḥ. Up. VIII, 1, 5)--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**अपहतपाप्मा विजरो विमृत्युर्विशोको विजिघत्सोऽपिपासस्सत्यकामः सत्यसङ्कल्पः** (छा.८.१.५)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समस्त-कल्याण-गुणात्मकोऽसौ   
+> स्व-शक्ति-लेशाद् धृत-भूत-सर्गः (वि.पु.६.५.८४)  
+</details>
+
+<details><summary>English</summary>
+
+And Smr̥ti says, 'He comprises within himself all blessed qualities, by a particle of his power the whole mass of beings is supported.'  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**समस्तकल्याणगुणात्मकोऽसौ स्वशक्तिलेशाद्धृतभूतसर्गः** (वि.पु.६.५.८४)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तेजो-बलैश्वर्य-महावबोध–  
+सुवीर्य-शक्त्य्-आदि-गुणैक-राशिः।  
+परः पराणां सकला न यत्र  
+क्लेशादयस् सन्ति परावरेशे (वि.पु.६.५.८५)  
+</details>
+
+<details><summary>English</summary>
+
+In him there are combined energy, strength, might, wisdom, valour, and all other noble qualities. He is the Highest of the high, no pain or other imperfections affect him, the Lord of all, high or low. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**तेजोबलैश्वर्यमहावबोध–सुवीर्यशक्त्यादिगुणैकराशिः। परः पराणां सकला न यत्र क्लेशादयस्सन्ति परावरेशे** (वि.पु.६.५.८५)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समस्त-हेय-रहितं  
+विष्ण्वाख्यं परमं पदम् (वि.पु.२.२२.५३) 
+</details>
+
+<details><summary>English</summary>
+
+From all evil he is free, he whose name is Vishṇu, the highest abode. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**समस्तहेयरहितं विष्ण्वाख्यं परमं पदम्** (वि.पु.२.२२.५३) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि-श्रुति-स्मृतिभ्यः  
+उभय-लक्षणं हि ब्रह्मावगतम् ॥११॥
+</details>
+
+<details><summary>English</summary>
+
+These and other passages teach that Brahman possesses the double characteristics stated above.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिश्रुतिस्मृतिभ्यः उभयलक्षणं हि ब्रह्मावगतम् ॥११॥
+</details>
 
 
 दोषदर्शनाद्वैराग्योदयाय जीवस्यावस्थाविशेषाः .... .. इत्यादिश्रुतिस्मृतिभ्यः उभयलक्षणं हि ब्रह्मावगतम् ॥ 11 ॥
 
 
-अनुत्थानशङ्कां परिहरति - इत्थम् इति । राजकोपद्वारभूतखड्गप्रहारस्येव द्वारहेतोः साक्षादपुरुषार्थहेतुत्वात् स्वेच्छाधीनत्वेऽपि तथात्वानपगमात् पूर्वपक्षोत्थानमित्यर्थः । पृथिव्यात्मादि इति । तत्संसर्गौ च पञ्चम इति नयादात्मनि स्थिता नाशुद्धिरित्यात्मोपादानम् ॥ 12 ॥
+पृथिव्यात्मादि इति । तत्संसर्गौ च पञ्चम इति नयादात्मनि स्थिता नाशुद्धिरित्यात्मोपादानम् ॥ 12 ॥
 
 भेदादिति चेन्न प्रत्येकमतद्वचनात् ॥ 3-2-12 ॥
 
