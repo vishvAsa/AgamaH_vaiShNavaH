@@ -309,7 +309,7 @@ for everywhere (it is described) as having twofold characteristics.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न पृथिव्यात्मादि-स्थानतोऽपि  
+न पृथिव्य्-आत्मादि-स्थानतोऽपि  
 परस्य ब्रह्मणः  
 अ-पुरुषार्थ-गन्धस् सम्भवति ।
 </details>
@@ -323,6 +323,15 @@ Of this primā facie view the Sūtra disposes by saying--'Not even from place, s
 <details><summary>मूलम्</summary>
 
 न पृथिव्यात्मादिस्थानतोऽपि परस्य ब्रह्मणः अपुरुषार्थगन्धस्सम्भवति ।
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पृथिव्यात्मादि इति ।  
+"तत्संसर्गौ च पञ्चम" इति नयाद्+++(=??)+++  
+आत्मनि स्थिता नाशुद्धिर्  
+इत्य् आत्मोपादानम् ॥ 12 ॥
 </details>
 
 
@@ -440,21 +449,160 @@ These and other passages teach that Brahman possesses the double characteristics
 इत्यादिश्रुतिस्मृतिभ्यः उभयलक्षणं हि ब्रह्मावगतम् ॥११॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दोषदर्शनाद्वैराग्योदयाय जीवस्यावस्थाविशेषाः .... .. इत्यादिश्रुतिस्मृतिभ्यः उभयलक्षणं हि ब्रह्मावगतम् ॥ 11 ॥
+३२६. भेदाद् इति चेन् -  न -  
+प्रत्येकम् अ-तद्-वचनात् ।॥ ३–२–१२ ॥
+</details>
+
+<details><summary>English</summary>
+
+1.  Should it be said 'on account of difference'; not so, because with reference to each the text says what is not that.
+</details>
 
 
-पृथिव्यात्मादि इति । तत्संसर्गौ च पञ्चम इति नयादात्मनि स्थिता नाशुद्धिरित्यात्मोपादानम् ॥ 12 ॥
+<details><summary>मूलम्</summary>
 
-भेदादिति चेन्न प्रत्येकमतद्वचनात् ॥ 3-2-12 ॥
+**३२६. भेदादिति चेन्न प्रत्येकमतद्वचनात् ॥ ३–२–१२ ॥**
+</details>
 
-यथा जीवस्य प्रजापतिवाक्यावगतापहतपाप्मत्वा ... .. स एव संबन्धः तत्तद्विचित्रनियमनरूपलीलारसायैव स्यात् ॥ 12 ॥
 
-भेदाद् इति चेन् -  
-न प्रत्येकम् अ-तद्-वचनात् ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यथा जीवस्य प्रजा-पति--वाक्यावगतापहत-पाप्मत्वाद्य्--  
+उभय-लिङ्गस्यापि देवादि-देह-योग-रूपावस्था-भेदाद्  
+अ-पुरुषार्थ-योगः,  
+तथा ऽन्तर्-यामिणः परस्यापि  
+स्वतो ऽपहत-पाप्मत्वाद्य्-उभय-लिङ्गस्य  
+तत्-तद्-देवादि-शरीर-योग-रूपावस्था-भेदाद्  
+अ-पुरुषार्थ-योगो ऽवर्जनीय  
+
+इति चेत्  
+तन् न,  
+प्रत्येकम् अ-तद्-वचनात्
+</details>
+
+<details><summary>English</summary>
+
+But, an objection is raised,  
+we observe,  
+that the individual soul also,  
+although in reality possessing the same twofold attributes,  
+viz. freedom from all evil and so on,  
+as we learn from the teaching of Prajāpati (Cḥ. Up. VIII, 7),  
+yet is affected with imperfections  
+owing to the fact that  
+it is connected with bodies, divine, human, and so on,  
+and thus undergoes a variety of conditions.  
+
+Analogously  
+we cannot avoid the conclusion that  
+the inner Ruler also,  
+although in reality possessing those same twofold attributes,  
+is also affected by imperfection,  
+because through its connexion with those different bodies  
+it likewise undergoes a variety of conditions.--  
+This objection  
+the Sūtra sets aside in the words,  
+'not so,  
+because with reference to each  
+the text says what is not that,'  
+i.e. what is contrary. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा जीवस्य प्रजापतिवाक्यावगतापहतपाप्मत्वाद्युभयलिङ्गस्यापि देवादिदेहयोगरूपावस्था-भेदादपुरुषार्थयोगः, तथाऽन्तर्यामिणः परस्यापि स्वतोऽपहतपाप्मत्वाद्युभयलिङ्गस्य तत्तद्देवादिशरीरयोग-रूपावस्थाभेदादपुरुषार्थयोगोऽवर्जनीय इति चेत् तन्न, प्रत्येकमतद्वचनात्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 जीवस्योभय-सलिङ्गकत्वेऽपि तत्-तद्-देह-योग-रूपावस्था-भेदेन ह्य् अ-पुम्-अर्थः, तथा परस्यापीत्य्-अर्थः ।  
 
-परिहरति तन्न इति । आवृत्तत्वात् क्षित्यादिसंबन्धस्य जीवस्य नित्यत्वेनाशङ्कनीयस्य व्यावर्त्यत्वायोगाच्च अमृत शब्दो न नित्यत्वपरः । किं तु तत्तद्दोषराहित्यपरः । जीवस्य तिरोधानादिश्रुतिवशादुभयलिङ्गत्व श्रुतिसङ्कोच , न तु परस्येत्यर्थः । न हि इति । वस्तुस्वभावायत्तत्वाभावान्नापुमर्थत्वमित्यर्थः । तादूप्ये - सुखदुःखहेतुत्वे । न ह्येकस्य विरुद्धमाकारद्वयं स्वभाव इति भावः । न परमुपपत्त्या कर्मनिबन्धनत्वं क्लृप्तम् , कण्ठोक्तं चेत्याह - तथा च इति । पुरुषभेदेन सुखदुःखकरत्वमाह - नरकस्वर्ग इति । कालभेदेनैकस्यैकं प्रति तद्धेतुत्वमाह - तदेव इति ॥ 12 ॥
+परिहरति तन्न इति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**यः पृथिव्यां तिष्ठन्** (बृ.५.७.३)  
+**य आत्मनि तिष्ठन्** (बृह.५.७.३)  
+इत्य्-आदिषु प्रतिपर्यायं  
+**स त आत्मा ऽन्तर्याम्य् अमृतः+++(→अदोषलिप्तः, नित्य-जीवात्म-व्यावर्तितत्वात्)+++** (बृ.५.७.३)  
+इत्य् अन्तर्यामिणो ऽमृतत्व-वचनेन  
+तत्र तत्र स्वेच्छया +++(न कर्म-वशान्)+++ नियमनं कुर्वतस्  
++++(नित्य-जीवात्म-सहित-)+++तत्-तत्-सम्बन्ध-प्रयुक्तापुरुषार्थ-प्रतिषेधात् ।  
+</details>
+
+<details><summary>English</summary>
+
+For where the text says that  
+the inner Ruler dwells within the earth,  
+within the soul,  
+within the eye, and so on,  
+it concludes each clause by saying,  
+
+> 'that is thy Self,  
+> the inner Ruler,  
+> the immortal one,' 
+
+i.e. declares the inner Ruler to be immortal, and thus denies of him any imperfections due to his connexion with the bodies  
+which he voluntarily enters in order to rule them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**यः पृथिव्यां तिष्ठन्** (बृ.५.७.३)  
+**य आत्मनि तिष्ठन्** (बृह.५.७.३)  
+इत्यादिषु प्रतिपर्यायं  
+**स त आत्माऽन्तर्याम्यमृतः** (बृ.५.७.३) इत्यन्तर्यामिणोऽमृतत्ववचनेन तत्र तत्र स्वेच्छया नियमनं कुर्वतस्तत्तत्सम्बन्धप्रयुक्तापुरुषार्थ-प्रतिषेधात् ।  
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आवृत्तत्वात्  
+क्षित्य्-आदि-संबन्धस्य जीवस्य  
+नित्यत्वेनाशङ्कनीयस्य व्यावर्त्यत्वायोगाच् च  
+अमृत-शब्दो न नित्यत्व-परः,  
+किं तु तत्-तद्-दोष-राहित्य-परः ।  
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवस्य तु  
+तत्--स्व-रूपं तिरो-हितम् इति  
+**पराभिध्यानात् तु तिरो-हितम्** (ब्र.सू.३.२.४)  
+इत्य्-अत्रोक्तम्।
+</details>
+
+<details><summary>English</summary>
+
+The true (perfect) nature of the individual soul, on the other hand, is obscured as long as it is connected with a body, as we have explained under III, 2, 5.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवस्य तु तत्स्वरूपं तिरोहितमिति **पराभिध्यानात्तु तिरोहितम्** (ब्र.सू.३.२.४) इत्यत्रोक्तम्।
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+जीवस्य तिरो-धानादि-श्रुति-वशाद्  
+उभय-लिङ्गत्व-श्रुति-सङ्कोचः ,  
+न तु परस्येत्यर्थः ।  
+</details>
+
+
+## अ-पुरुषार्थ-योगस्य कर्मायत्तत्वाभावे ऽपि, वस्तु--स्व-भावायत्तत्व-शङ्का-परिहारौ
+
+
+न हि इति । वस्तुस्वभावायत्तत्वाभावान्नापुमर्थत्वमित्यर्थः । तादूप्ये - सुखदुःखहेतुत्वे । न ह्येकस्य विरुद्धमाकारद्वयं स्वभाव इति भावः । न परमुपपत्त्या कर्मनिबन्धनत्वं क्लृप्तम् , कण्ठोक्तं चेत्याह - तथा च इति । पुरुषभेदेन सुखदुःखकरत्वमाह - नरकस्वर्ग इति । कालभेदेनैकस्यैकं प्रति तद्धेतुत्वमाह - तदेव इति ॥ 12 ॥
 
 अपि चैवमेके ॥ 3-2-13 ॥
 
