@@ -107,7 +107,7 @@ affect also the highest Brahman which as its inner Ruler abides within the soul 
 </details>
 
 
-### शङ्कितस्य दोषसम्बन्धस्य अयोगाक्षेप-परिहारौ
+### दोष-सम्बन्ध+अयोगाक्षेप-परिहारौ
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -599,10 +599,219 @@ The true (perfect) nature of the individual soul, on the other hand, is obscured
 </details>
 
 
-## अ-पुरुषार्थ-योगस्य कर्मायत्तत्वाभावे ऽपि, वस्तु--स्व-भावायत्तत्व-शङ्का-परिहारौ
+### वस्तु--स्व-भावायत्तत्व-शङ्का-परिहारौ
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ननु स्वेच्छया कुर्वतोऽपि  
+तत्-तद्-वस्तु--स्व-भावायत्तापुरुषार्थ-सम्बन्धो ऽवर्जनीय  
+इत्य् उक्तम्;  
+नैतद् युक्तम्
+</details>
+
+<details><summary>English</summary>
+
+But, as the Pūrvapakshin has pointed out, even if the highest Self voluntarily enters into bodies, it cannot escape connexion with the imperfections which depend on the essential nature of those bodies.--Not so, we reply. 
+</details>
 
 
-न हि इति । वस्तुस्वभावायत्तत्वाभावान्नापुमर्थत्वमित्यर्थः । तादूप्ये - सुखदुःखहेतुत्वे । न ह्येकस्य विरुद्धमाकारद्वयं स्वभाव इति भावः । न परमुपपत्त्या कर्मनिबन्धनत्वं क्लृप्तम् , कण्ठोक्तं चेत्याह - तथा च इति । पुरुषभेदेन सुखदुःखकरत्वमाह - नरकस्वर्ग इति । कालभेदेनैकस्यैकं प्रति तद्धेतुत्वमाह - तदेव इति ॥ 12 ॥
+<details><summary>मूलम्</summary>
+
+ननु स्वेच्छया कुर्वतोऽपि तत्तद्वस्तुस्वभावायत्तापुरुषार्थसम्बन्धोऽवर्जनीय इत्युक्तम्; नैतद्युक्तम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अ-चिद् वस्त्व् अपि  
+स्व-भावतो ऽपुरुषार्थ--स्व-रूपम्;
+</details>
+
+<details><summary>English</summary>
+
+The fact is, that not even non-sentient things are, essentially or intrinsically, bad; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नह्यचिद्वस्त्वपि स्वभावतोऽपुरुषार्थस्वरूपम्;
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+न हि इति । वस्तु-स्व-भावायत्तत्वाभावान् नापुम्-अर्थत्वम् इत्यर्थः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्म-वश्यानां तु  
+कर्म-स्व-भावानुगुण्येन  
+परम-पुरुष-सङ्कल्पाद्  
+एकम् एव वस्तु  
+काल-भेदेन पुरुष-भेदेन च  
+सुखाय दुःखाय च भवति;
+</details>
+
+<details><summary>English</summary>
+
+but in accordance with the nature of the works of those beings which are under the rule of karman, one thing, owing to the will of the Supreme Person, causes pain to one man at one time and pleasure at another time, and causes pleasure or pain to one person and the opposite to another person. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्मवश्यानां तु कर्मस्वभावानुगुण्येन परमपुरुषसङ्कल्पादेकमेव वस्तु कालभेदेन पुरुषभेदेन च सुखाय दुःखाय च भवति;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वस्तु--स्व-रूप-प्रयुक्ते तु ताद्-रूप्ये  
+सर्वं सर्वदा सर्वस्य सुखायैव दुःखायैव वा स्यात्;  
+न चैवं दृश्यते;
+</details>
+
+
+<details><summary>English</summary>
+
+If the effects of things depended on their own nature only, everything would at all times be productive for all persons, either of pleasure only or of pain only. But this is not observed to be the case. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+वस्तुस्वरूपप्रयुक्ते तु ताद्रूप्ये सर्वं सर्वदा सर्वस्य सुखायैव दुःखायैव वा स्यात्; नचैवं दृश्यते;
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ताद्रूप्ये - सुखदुःखहेतुत्वे । न ह्येकस्य विरुद्धमाकारद्वयं स्वभाव इति भावः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा चोक्तं –  
+
+> नरक-स्वर्ग-संज्ञे वै  
+> पाप-पुण्ये द्विजोत्तम।  
+> वस्त्व् एकम् एव दुःखाय  
+> सुखायेर्ष्यागमाय च।  
+> कोपाय च यतस् तस्माद्  
+> वस्तु वस्त्व्-आत्मकं कुतः।  
+</details>
+
+<details><summary>English</summary>
+
+In agreement herewith Smr̥ti says, 
+
+> 'Because one and the same thing causes pain and pleasure and envy and wrath, the nature of a thing cannot lie in itself.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथाचोक्तं –  
+
+> नरकस्वर्गसंज्ञे वै  
+> पापपुण्ये द्विजोत्तम।  
+> वस्त्वेकमेव दुःखाय  
+> सुखायेर्ष्यागमाय च।  
+> कोपाय च यतस्तस्माद्  
+> वस्तु वस्त्वात्मकं कुतः।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+न परमुपपत्त्या कर्मनिबन्धनत्वं क्लृप्तम् , कण्ठोक्तं चेत्याह - तथा च इति । 
+
+पुरुषभेदेन सुखदुःखकरत्वमाह - नरकस्वर्ग इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद् एव प्रीतये भूत्वा  
+> पुनर् दुःखाय जायते।  
+> तद् एव कोपाय यतः  
+> प्रसादाय च जायते।  
+> तस्माद् दुःखात्मकं नास्ति  
+> न च किञ्चित् सुखात्मकम्  
+> 
+> (वि.पु.२.६.४६,४७,४८) 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+> 
+> As the same thing  
+> which erst gave rise to love causes pain later on,  
+> and that which once caused anger now causes satisfaction,  
+> nothing is in itself of the nature either of pleasure or of pain.' 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> तदेव प्रीतये भूत्वा  
+> पुनर्दुःखाय जायते।  
+> तदेव कोपाय यतः  
+> प्रसादाय च जायते।  
+> तस्माद्दुःखात्मकं नास्ति  
+> न च किञ्चित्सुखात्मकम्  
+> 
+> (वि.पु.२.६.४६,४७,४८) 
+
+इति ।
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कालभेदेनैकस्यैकं प्रति तद्धेतुत्वमाह - तदेव इति ॥ 12 ॥
+</details>
+
+
+
+#### जीव-पर-वैलक्षण्य-दृढी-करणम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो जीवस्य कर्म-वश्यत्वात्  
+तत्-तत्-कर्मानुगुण्येन  
+तत्-तद्-वस्तु-सम्बन्ध एवापुरुषार्थस् स्यात्; 
+</details>
+
+<details><summary>English</summary>
+
+To the soul therefore which is subject to karman the connexion with different things is the source of imperfection and suffering, in agreement with the nature of its works; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो जीवस्य कर्मवश्यत्वात्तत्तत्कर्मानुगुण्येन तत्तद्वस्तुसम्बन्ध एवापुरुषार्थस्स्यात्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परस्य तु ब्रह्मणः स्वाधीनस्य  
+स एव सम्बन्धस्  
+तत्-तद्-विचित्र-नियमन-रूप-लीला-रसायैव स्यात्॥१२॥
+</details>
+
+<details><summary>English</summary>
+
+while to the highest Brahman, which is subject to itself only, the same connexion is the source of playful sport, consisting therein that he in various ways guides and rules those things.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परस्य तु ब्रह्मणः स्वाधीनस्य स एव सम्बन्धस्तत्तद्विचित्रनियमनरूपलीलारसायैव स्यात्॥१२॥
+</details>
+
+### अपुरुषार्थायोगः श्रुतिकण्ठोक्तः
+
 
 अपि चैवमेके ॥ 3-2-13 ॥
 
