@@ -1031,17 +1031,104 @@ For the text, 'The Ether (Brahman) indeed is the accomplisher of names and forms
 **आकाशो ह वै नामरूपयोर्निर्वहिता ते यदन्तरा तद्ब्रह्म** (छा.८.१४.१) इति सर्वानुप्रवेशेऽपि नामरूपकार्यास्पर्शेन नामरूपयोर्निर्वोढृत्वमेव ब्रह्मणः प्रतिपादयति।
 </details>
 
+### अन्तर्यामी कर्मवश्यः?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ननु तच्-छरीरकत्वेन तद्-अन्तर्यामित्वे  
+कथम् अ-रूपवद् इति रूप-सम्बन्ध-रहित-तुल्यत्वम् उच्यते?
+</details>
+
+<details><summary>English</summary>
+
+--But, an objection is raised, if Brahman is the inner ruler of beings in so far as he has them for its body, how can it be said that it is altogether destitute of form?--
+</details>
+ 
 
 
-ननु इति । कथं कार्यानन्वयः , नियमनादिकार्यान्वयात् धीशब्दपर्यवसानेन कर्मवश्यत्वान्वयाच्चेत्यर्थः । परिहगति - इत्थम् इति । सुखदुःखकार्यविशेषास्पर्शो विवक्षितः , न तु नियमनाद्यस्पर्शः । धीशब्दपर्यवसायिकं कर्मान्वयं परिहरति - विधि इति । निष्कर्षकशब्दवत् ब्राह्मणादिशब्दाः जीवपर्यन्ताः स्युः । परपर्यन्तत्वेऽपि गौरो ब्राह्मण इति गौरत्ववत् विशेषणभूतजीवद्वारकं वा कर्मवश्यत्वं स्यादित्यर्थः ॥ 14 ॥
+<details><summary>मूलम्</summary>
 
-ननु च - सत्यं ज्ञानमनन्तं ब्रह्म .... ...
+ननु तच्छरीरकत्वेन तदन्तर्यामित्वे कथमरूपवदिति रूपसम्बन्धरहिततुल्यत्वमुच्यते?
+</details>
 
-प्रकाशवच्चावैयर्थ्यात् ॥ 3-2-15 ॥
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-यथा सत्यं ज्ञानमनन्तं ब्रह्म इत्यादि ... ... निरस्तनिखिलाविद्यादिदोषत्वाद्यभिधायिवाक्यावैयर्थ्यादुभयलिङ्गभेव ब्रह्म
+ननु इति । कथं कार्यानन्वयः , नियमनादिकार्यान्वयात् धीशब्दपर्यवसानेन कर्मवश्यत्वान्वयाच्चेत्यर्थः । 
+</details>
 
-॥ 15 ॥
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्थं –  
+यथा जीवस्य तत्-तज्-जन्य--सुख-दुःख-भाक्त्वेन तत्-तद्-रूप-सम्बन्धः,  
+तथा तद्-अभावात् परस्यारूपवत्त्वम्। 
+</details>
+
+<details><summary>English</summary>
+
+There is a difference, we reply. The individual soul is connected with the shape of the body in which it dwells because it participates in the pleasures and pains to which the body gives rise; but as Brahman does not share those pleasures and pains, it has no shape or form. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्थं – यथा जीवस्य तत्तज्जन्यसुखदुःखभाक्त्वेन तत्तद्रूपसम्बन्धः, तथा तदभावात्परस्यारूपवत्त्वम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परिहगति - इत्थम् इति । सुख-दुःख-कार्य-विशेषास्पर्शो विवक्षितः ,  
+न तु नियमनाद्य्-अ-स्पर्शः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विधि-निषेध-शास्त्राण्य् अपि  
+कर्म-वश्यम् एवाधिकुर्वन्ति;  
+तस्माद् अ-रूप-तुल्यम् एव परं ब्रह्म। 
+</details>
+
+<details><summary>English</summary>
+
+And the scriptural injunctions and prohibitions apply to those only who are under the power of karman. The highest Brahman therefore is like a being without form, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विधिनिषेधशास्त्राण्यपि कर्मवश्यमेवाधिकुर्वन्ति; तस्मादरूपतुल्यमेव परं ब्रह्म। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+धीशब्दपर्यवसायिकं कर्मान्वयं परिहरति - विधि इति ।  
+निष्कर्षकशब्दवत् ब्राह्मणादि-शब्दाः जीव-पर्यन्ताः स्युः ।  
+पर-पर्यन्तत्वेऽपि  
+"गौरो ब्राह्मण" इति गौरत्ववत्  
+विशेषण-भूत-जीव-द्वारकं वा  
+कर्म-वश्यत्वं स्याद्  
+इत्य् अर्थः ॥ 14 ॥
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश् च अन्तर्यामि-रूपेणावस्थितम् अपि  
+ब्रह्म निरस्त-निखल-दोषत्व--  
+कल्याण-गुणाकरत्व-रूपोभय-लिङ्गम् एव ॥१४॥
+</details>
+<details><summary>English</summary>
+
+and hence, although abiding within all things, free from all imperfection and endowed with all blessed qualities.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततश्च अन्तर्यामिरूपेणावस्थितमपि ब्रह्म निरस्तनिखलदोषत्वकल्याणगुणाकरत्वरूपोभयलिङ्गमेव ॥१४॥
+</details>
+
+
+## श्रुत्य्-अवगत-निर्विशेष-प्रकाश-रूपत्वम्
+
 
 अनन्तरसूत्रमवतारयति - ननु च इति । आर्थश्रौतनिषेधौ दर्शितौ ।
 
