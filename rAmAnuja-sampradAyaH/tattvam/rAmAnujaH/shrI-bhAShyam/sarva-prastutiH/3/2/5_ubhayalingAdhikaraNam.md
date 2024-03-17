@@ -937,13 +937,103 @@ Brahman thus falls within the sphere of beings to which injunctions and prohibit
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च एके शाखिनः एकस्मिन्नेव देहसंयोगे ... .. तयोरन्यः पिप्पलं
+३२८. अ-रूपवद् एव हि  
+तत्-प्रधानत्वात् ॥ ३–२–१४ ॥
+</details>
 
-स्वाद्वत्त्यनश्नन्नन्योऽभिचाकशीति इति ॥ 13 ॥
+<details><summary>English</summary>
+
+14. For (Brahman is) without form merely, since it is the principal agent with regard to that.
+</details>
 
 
-केनाकारेणारूपतुल्यत्वमित्यत्राह - जीववत् इति । ननु इति । कथं कार्यानन्वयः , नियमनादिकार्यान्वयात् धीशब्दपर्यवसानेन कर्मवश्यत्वान्वयाच्चेत्यर्थः । परिहगति - इत्थम् इति । सुखदुःखकार्यविशेषास्पर्शो विवक्षितः , न तु नियमनाद्यस्पर्शः । धीशब्दपर्यवसायिकं कर्मान्वयं परिहरति - विधि इति । निष्कर्षकशब्दवत् ब्राह्मणादिशब्दाः जीवपर्यन्ताः स्युः । परपर्यन्तत्वेऽपि गौरो ब्राह्मण इति गौरत्ववत् विशेषणभूतजीवद्वारकं वा कर्मवश्यत्वं स्यादित्यर्थः ॥ 14 ॥
+<details><summary>मूलम्</summary>
+
+**३२८. अरूपवदेव हि तत्प्रधानत्वात् ॥ ३–२–१४ ॥**
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवादि-शरीरानुप्रवेशे  
+तेन रूपेण युक्तम् अप्य्  
+**अ-रूपवद् एव** तद् ब्रह्म  
+रूप-त्रहित-तुल्यम् एव; 
+</details>
+<details><summary>English</summary>
+
+Brahman, although by entering into bodies, human, divine, and so on, it becomes connected with various forms, yet is in itself altogether devoid of form, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवादिशरीरानुप्रवेशे तेन रूपेण युक्तमप्यरूपवदेव तत् ब्रह्म रूपरहिततुल्यमेव; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीववच् छरीरित्व-निबन्धनं कर्म-वश्यत्वम् अस्य न विद्यत इत्यर्थः । 
+</details>
+
+<details><summary>English</summary>
+
+and therefore does not share that subjection to karman  
+which in the case of the soul is due to its embodiedness.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीववच्छरीरित्वनिबन्धनं कर्मवश्यत्वमस्य न विद्यत इत्यर्थः । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+केनाकारेणारूपतुल्यत्वमित्यत्राह - जीववत् इति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुतः? निर्वाहकत्वेन **प्रधानत्वात्** । 
+</details>
+
+<details><summary>English</summary>
+
+--Why?--Because as it is that which brings about names and forms it stands to them in the relation of a superior (pradhāna). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुतः? निर्वाहकत्वेन प्रधानत्वात् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आकाशो ह वै नाम-रूपयोर् **निर्वहिता**  
+ते यद्-अन्तरा तद् ब्रह्म (छा.८.१४.१) 
+
+इति सर्वानुप्रवेशेऽपि नाम-रूप-कार्यास्पर्शेन  
+नाम-रूपयोर् निर्वोढृत्वम् एव  
+ब्रह्मणः प्रतिपादयति।
+</details>
+
+<details><summary>English</summary>
+
+For the text, 'The Ether (Brahman) indeed is the accomplisher of names and forms; that which is without these two is Brahman,' teaches that Brahman, although entering into all beings, is not touched by name and form, but is that which brings about name and form.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**आकाशो ह वै नामरूपयोर्निर्वहिता ते यदन्तरा तद्ब्रह्म** (छा.८.१४.१) इति सर्वानुप्रवेशेऽपि नामरूपकार्यास्पर्शेन नामरूपयोर्निर्वोढृत्वमेव ब्रह्मणः प्रतिपादयति।
+</details>
+
+
+
+ननु इति । कथं कार्यानन्वयः , नियमनादिकार्यान्वयात् धीशब्दपर्यवसानेन कर्मवश्यत्वान्वयाच्चेत्यर्थः । परिहगति - इत्थम् इति । सुखदुःखकार्यविशेषास्पर्शो विवक्षितः , न तु नियमनाद्यस्पर्शः । धीशब्दपर्यवसायिकं कर्मान्वयं परिहरति - विधि इति । निष्कर्षकशब्दवत् ब्राह्मणादिशब्दाः जीवपर्यन्ताः स्युः । परपर्यन्तत्वेऽपि गौरो ब्राह्मण इति गौरत्ववत् विशेषणभूतजीवद्वारकं वा कर्मवश्यत्वं स्यादित्यर्थः ॥ 14 ॥
 
 ननु च - सत्यं ज्ञानमनन्तं ब्रह्म .... ...
 
