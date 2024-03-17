@@ -1460,28 +1460,357 @@ His high power is revealed as manifold, as essential action of knowledge and str
 **भीषाऽस्माद्वातः पवते भीषोदेति सूर्यः** (तै.आ.८.४)
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**स एको ब्रह्मण आनन्दः** (तै.आ.८.४)  
+</details>
 
 
-किं च सत्यं ज्ञानमनन्तम् इत्यादि ... ... नेति नेति इति च निषेधस्य विषयोऽनन्तरमेव वक्ष्यते । । 16 ॥
+<details><summary>English</summary>
+
+'That is one bliss of Brahman' (Taitt. Up. II, 8); 
+</details>
+
+<details><summary>मूलम्</summary>
+
+**स एको ब्रह्मण आनन्दः** (तै.आ.८.४)  
+</details>
 
 
-दर्शयति चाथो अपि स्मर्यते ॥ 3-2-17 ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दर्शयति च वेदान्तगणः ... ... ब्रह्मण उभयलिङ्गत्वात् तत्स्थानप्रयुक्ता दोषा न परं ब्रह्म स्पृशन्ति ॥ 17 ॥
+> यतो वाचो **निवर्तन्ते**,  
+**अप्राप्य** मनसा सह।  
+आनन्दं ब्रह्मणो **विद्वान्**  
+**न बिभेति** कुतश्चनेति (तै.आ.९.१) 
+</details>
 
-निर्दोषत्वं दर्शयति - निष्कलं ... ... निरवद्यम् इत्यादिना । सामान्यविशेषगोबलीवर्दनयावभिप्रेतौ ॥ 17 ॥
+<details><summary>English</summary>
 
-अत एव चोपमा सूर्यकादिवत् ॥ 3-2-18 ॥
+'That from which all speech with the mind turns away, not having reached it, knowing the bliss of that Brahman man fears nothing' (Taitt. Up. II, 9); 
+</details>
 
-यतो नानाविधेषु स्थानेषु स्थितस्यापि ... ... एकधा बहुधा चैव दृश्यते जलचन्द्रवत् । इत्यादिषु ॥ 18 ॥
+
+<details><summary>मूलम्</summary>
+
+**यतो वाचो निवर्तन्ते, अप्राप्य मनसा सह। आनन्दं ब्रह्मणो विद्वान् न बिभेति कुतश्चनेति** (तै.आ.९.१) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निष्कलं निष्क्रियं शान्तं  
+निरवद्यं निरञ्जनम्  
+(श्वे.६.१९) 
+
+इत्य्-आदि ।
+</details>
+
+<details><summary>English</summary>
+
+'He who is without parts, without action, tranquil, without fault, without taint' (Śvet. Up. VI, l9).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनम्** (श्वे.६.१९) इत्यादि ।
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+निर्दोषत्वं दर्शयति - निष्कलं ... ... निरवद्यम् इत्यादिना ।  
+सामान्य-विशेष-गो-बलीवर्द-नयाव् अभिप्रेतौ ॥ 17 ॥
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मर्यते च 
+
+> यो माम् अजम् अनादिं च  
+> वेत्ति लोकमहेश्वरम् (भ.गी.१०.३) 
+</details>
+
+<details><summary>English</summary>
+
+--And Smr̥ti: 'He who knows me to be unborn and without a beginning, the Supreme Lord of the worlds'; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मर्यते च **यो मामजमनादिं च वेत्ति लोकमहेश्वरम्** (भ.गी.१०.३) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विष्टभ्याहम् इदं कृत्स्नम्  
+एकांशेन स्थितो जगत् (भ.गी.१०.४२) 
+</details>
+
+<details><summary>English</summary>
+
+'Pervading this entire universe, by one part of mine I do abide'; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्** (भ.गी.१०.४२) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मयाऽध्यक्षेण प्रकृतिस्  
+सूयते सचराचरम्।  
+हेतुनाऽनेन कौन्तेय  
+जगद्धि परिवर्तते  
+(भ.गी.९.१०)
+</details>
+
+<details><summary>English</summary>
+
+'With me as supervisor Prakr̥ti brings forth the universe of the movable and the immovable, and for this reason the world does ever move round'; 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+**मयाऽध्यक्षेण प्रकृतिस्सूयते सचराचरम्। हेतुनाऽनेन कौन्तेय जगद्धि परिवर्तते** (भ.गी.९.१०)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उत्तमः पुरुषस् त्व् अन्यः  
+परमात्मेत्य् **उदाहृतः।**  
+यो लोक-त्रयम् **आविश्य**  
+**बिभर्त्य्** अव्यय ईश्वरः (भ.गी.१५.१७)
+</details>
+
+<details><summary>English</summary>
+
+'But another is the Supreme Person, who is called the Supreme Spirit, who pervading the three worlds supports them--the eternal Lord' (Bha. Gī. X, 3; 42; IX, 10; XV, 17);
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः। यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः** (भ.गी.१५.१७)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्व-ज्ञस् सर्व-कृत् सर्व-  
+> शक्ति-ज्ञान-बल-र्द्धिमान्।  
+> अन्यूनश् चाप्य् अवृद्धिश् च  
+> स्वाधीनो नादिमान् वशी।  
+> क्लम-तन्द्री-भय-क्रोध–  
+> कामादिभिर् असंयुतः।  
+> निरवद्यः, परः प्राप्तेर्,  
+> निरधिष्ठोऽक्षरः क्रमः  
+> (वि.पु.५.१.४७,४८,४९) इत्यादिः। 
+</details>
+
+<details><summary>English</summary>
+
+'The all-working, all-powerful one, rich in knowledge and strength,  
+who becomes neither less nor more,  
+who is self-dependent, without beginning, master of all;  
+who knows neither weariness nor exhaustion, nor fear, wrath and desire;  
+the blameless one, raised above all, without support, imperishable.'--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**सर्वज्ञस्सर्वकृत् सर्वशक्तिज्ञानबलर्द्धिमान्। अन्यूनश्चाप्यवृद्धिश्च स्वाधीनो नादिमान्वशी। क्लमतन्द्रीभयक्रोध–कामादिभिरसंयुतः। निरवद्यः परः प्राप्तेर्निरधिष्ठोऽक्षरः क्रमः** (वि.पु.५.१.४७,४८,४९) इत्यादिः। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् सर्वत्रावस्थितस्यापि ब्रह्मण  
+उभय-लिङ्गत्वात्  
+तत्-तत्-स्थान-प्रयुक्ता दोषा  
+न परं ब्रह्म स्पृशन्ति ॥१७॥
+</details>
+
+<details><summary>English</summary>
+
+As thus Brahman in whatever place it may abide has the 'twofold characteristics,' the imperfections dependent on those places do not touch it.
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
+अतस्सर्वत्रावस्थितस्यापि ब्रह्मण उभयलिङ्गत्वात्तत्तत्स्थानप्रयुक्ता दोषा न परं ब्रह्म स्पृशन्ति ॥१७॥
+</details>
+
+
+### जल-बिम्बित-सूर्योपमासङ्गतिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**३३२. अत एव चोपमा +++(प्रतिबिम्बित-)+++सूर्यकादिवत् ॥ ३–२–१८ ॥**
+</details>
+
+<details><summary>English</summary>
+
+18. For this very reason comparisons, such as reflected images of the sun and the like.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**३३२. अत एव चोपमा सूर्यकादिवत् ॥ ३–२–१८ ॥**
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतो नानाविधेषु स्थानेषु स्थितस्यापि  
+परस्य ब्रह्मणो न तत्-प्रयुक्त-दोष-भाक्त्वम्,  
+अत एव जल-दर्पणादि-प्रतिबिम्बित-सूर्यादिवत्  
+परमात्मा तत्र-तत्रावस्थितोऽपि  
+निर्दोष  
+इति शास्त्रेषूपमा क्रियते – 
+</details>
+
+<details><summary>English</summary>
+
+Because Brahman, although abiding in manifold places, ever possesses the twofold characteristics, and hence does not share the imperfections due to those places, scriptural texts illustrate its purity in the midst of inferior surroundings by comparing it to the sun reflected in water, mirrors, and the like. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यतो नानाविधेषु स्थानेषु स्थितस्यापि परस्य ब्रह्मणो न तत्प्रयुक्तदोषभाक्त्वम्, अत एव जलदर्पणादिप्रतिबिम्बितसूर्यादिवत्परमात्मा तत्रतत्रावस्थितोऽपि निर्दोष इति शास्त्रेषूपमा क्रियते – 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अत एव चोपमा सूर्यकादिवत् । तथात्मैकः इति । एकस्वभाव इत्यर्थः ॥ 18 ॥
+</details>
 
-अत्र चोदयति -
 
-अम्बुवदग्रहणात् तु न तथात्वम् ॥ 3-2-19 ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तुशब्दश्चोद्यं द्योतयति । अभ्बुवदिति ... ... अतो न तथात्वम् - दार्ष्टान्तिकस्य न दृष्टान्ततुल्यत्वमित्यर्थः ॥ 19 ॥
+> आकाशम् एकं हि यथा  
+घटादिषु पृथग्भवेत्।  
+तथात्मैको ह्य् अन्-एकस्थो  
+जलाधारेष्व् इवांशुमान्।  
+एक एव हि भूतात्मा  
+भूते भूते व्यवस्थितः।  
+एकधा बहुधा चैव  
+दृश्यते जल-चन्द्रवत्  
+
+(याज्ञवल्क्य.३.१४४) इत्य्-आदिषु॥१८॥
+</details>
+
+<details><summary>English</summary>
+
+Compare e.g., 'As the one ether is rendered manifold by jars and the like, or as the one sun becomes manifold in several sheets of water; thus the one Self is rendered manifold by abiding in many places. For the Self of all beings, although one, abides in each separate being and is thus seen as one and many at the same time, as the moon reflected in water.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**आकाशमेकं हि यथा घटादिषु पृथग्भवेत्। तथात्मैको ह्यनेकस्थो जलाधारेष्विवांशुमान्। एक एव हि भूतात्मा भूते भूते व्यवस्थितः। एकधा बहुधा चैव दृश्यते जलचन्द्रवत्** (याज्ञवल्क्य.३.१४४) इत्यादिषु॥१८॥
+</details>
+
+### जल-सूर्य-दृष्टान्त-वैषम्य-शङ्का
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र चोदयति –
+
+> ३३३. +++(बिम्बित-सूर्य-सहित-)+++अम्बुवद् अ-ग्रहणात् तु  
+न तथात्वम् +++(ब्रह्मणो नाना-वस्तु-गतस्य)+++॥ ३–२–१९ ॥
+</details>
+
+<details><summary>English</summary>
+
+19. But because it is not apprehended like water, there is no equality.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र चोदयति –
+
+**३३३. अम्बुवदग्रहणात्तु न तथात्वम् ॥ ३–२–१९ ॥**
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तुशब्दश्चोद्यं द्योतयति । 
+</details>
+
+<details><summary>English</summary>
+
+The 'but' indicates an objection.--
+</details>
+
+<details><summary>मूलम्</summary>
+
+तुशब्दश्चोद्यं द्योतयति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अम्बुवद्** इति सप्तम्यन्तात् वतिः।
+</details>
+
+<details><summary>मूलम्</summary>
+
+अम्बुवदिति सप्तम्यन्तात् वतिः।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अम्बु-दर्पणादिषु  
+यथा सूर्य-मुखादयो गृह्यन्ते;  
+न तथा पृथिव्यादिषु स्थानेषु  
+परमात्मा गृह्यते ।
+</details>
+
+<details><summary>English</summary>
+
+The highest Self is not apprehended in earth and other places in the same way as the sun or a face is apprehended in water or a mirror. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अम्बुदर्पणादिषु यथा सूर्यमुखादयो गृह्यन्ते; न तथा पृथिव्यादिषु स्थानेषु परमात्मा गृह्यते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अम्ब्व्-आदिषु हि  
+सूर्यादयो  
+भ्रान्त्या तत्र-स्था इव गृह्यन्ते,  
+न परमार्थतस् तत्र-स्थाः । 
+</details>
+
+<details><summary>English</summary>
+
+For the sun and a face are erroneously apprehended as abiding in water or a mirror; they do not really abide there. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अम्ब्वादिषु हि सूर्यादयो भ्रान्त्या तत्रस्था इव गृह्यन्ते, न परमार्थतस्तत्रस्थाः । 
+</details>
+
+
+अभ्बुवदिति ... ... अतो न तथात्वम् - दार्ष्टान्तिकस्य न दृष्टान्ततुल्यत्वमित्यर्थः ॥ 19 ॥
 
 अम्बुवदग्रहणात् तु न तथात्वम् । दृष्टान्तावैघट्याय दार्ष्टान्तिकस्य पृथिव्यादौ स्थितेः मिथ्यात्वमुपेत्यमिति भावः ॥ 19 ॥
 
