@@ -1127,24 +1127,349 @@ and hence, although abiding within all things, free from all imperfection and en
 </details>
 
 
-## श्रुत्य्-अवगत-निर्विशेष-प्रकाश-रूपत्वम्
+### श्रुत्य्-अवगत-निर्विशेष-प्रकाश-रूपत्वम्
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च 
+> 
+> > **सत्यं ज्ञानम् अनन्तं ब्रह्म** (तै.आन.१.१) 
+> 
+> इत्य्-आदिभिर् निर्विशेष-प्रकाशैक-स्वरूपं ब्रह्मावगम्यते,
+</details>
+
+<details><summary>English</summary>
+
+But, an objection is raised, texts such as 'the True, knowledge, infinite is Brahman' suggest a Brahman whose nature is constituted exclusively by non-differentiated light; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च **सत्यं ज्ञानमनन्तं ब्रह्म** (तै.आन.१.१) इत्यादिभिर्निर्विशेषप्रकाशैकस्वरूपं ब्रह्मावगम्यते,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्यत् तु  
+सर्व-ज्ञत्व--सत्य-सङ्कल्पत्व--  
+जगत्-कारणत्व--  
+सर्वान्तरात्मत्व--सत्य-कामत्वादिकं
+**नेति नेति** (बृ.४.३.६) इत्यादिभिः प्रतिषिध्यमानत्वेन  
+मिथ्या-भूतम् इत्य् अवगन्तव्यम्;  
+</details>
+
+<details><summary>English</summary>
+
+while at the same time a Brahman endowed with qualities--such as omniscience, being the cause of the world, being the inner Self of all, having the power of immediately realising its wishes and purposes--is expressly negatived by texts such as 'not so, not so' (Br̥. Up. II, 3, 6), and therefore must be held to be false. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्यत्तु सर्वज्ञत्वसत्यसङ्कल्पत्वजगत्कारणत्वसर्वान्तरात्मत्वसत्यकामत्वादिकं
+**नेति नेति** (बृ.४.३.६) इत्यादिभिः प्रतिषिध्यमानत्वेन मिथ्याभूतमित्यवगन्तव्यम्;  
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 अनन्तरसूत्रमवतारयति - ननु च इति । आर्थश्रौतनिषेधौ दर्शितौ ।
+</details>
 
-प्रकाशवच्चावैयर्थ्यात् । व्याप्त्या चेत् , धीः कस्यचिदेव । श्रुतिबलात् न चेत् , सगुणत्वमपि । न च व्याप्तिविरोधः , धर्मभूतज्ञानस्यैव ज्ञानानाश्रयत्वादिति भावः ॥ 15 ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आह च तन्मात्रम् ॥ 3-2-16 ॥
+> तत् कथं कल्याण-गुणाकरत्व-  
+निरस्त-निखिल-दोषत्व-रूपोभयलिङ्गत्वं ब्रह्मणि? 
+
+इति;  
+अत आह –
+</details>
+
+<details><summary>English</summary>
+
+How then can it be maintained that Brahman possesses the 'twofold characteristics' mentioned under Sūtra 11?--  
+To this the next Sūtra replies.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्कथं कल्याणगुणाकरत्व-निरस्तनिखिलदोषत्वरूपोभयलिङ्गत्वं ब्रह्मणि इति;  
+अत आह –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**३२९. प्रकाशवच् चावैयर्थ्यात् +++(शास्त्राणाम् उभयलिङ्गम् एव ब्रह्म)+++ ॥ ३–२–१५ ॥**
+</details>
+
+<details><summary>English</summary>
+
+15. And in the same way as (a Brahman) consisting of light; (the texts thus) not being devoid of meaning.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**३२९. प्रकाशवच्चावैयर्थ्यात् ॥ ३–२–१५ ॥**
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा **सत्यं ज्ञानम् अनन्तं ब्रह्म** (तै.आन.१.१)  इत्य्-आदि-वाक्यावैयर्थ्यात्  
+प्रकाश-स्वरूपत्वं ब्रह्मणो ऽभ्युपगम्यते;  
+तथा सत्य-सङ्कल्पत्व--सर्वज्ञत्व--जगत्-कारणत्व--  
+सर्वात्मकत्व--निरस्त-निखिल-अविद्यादि-दोषत्वाद्य्--  
+अभिधायि-वाक्यावैयर्थ्याद् उभयलिङ्गम् एव ब्रह्म ॥१५॥
+</details>
+
+<details><summary>English</summary>
+
+In order that texts such as 'the True, knowledge, infinite is Brahman' may not be devoid of meaning, we have to admit that light (intelligence) constitutes the essential nature of Brahman. But analogously we have also to admit that Brahman possesses the 'twofold characteristics'; for otherwise the texts declaring it to be free from all imperfections, all-knowing, the cause of the world, and so on, would in their turn be devoid of meaning.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा **सत्यं ज्ञानमनन्तं ब्रह्म** (तै.आन.१.१) इत्यादिवाक्यावैयर्थ्यात्प्रकाशस्वरूपत्वं ब्रह्मणोऽभ्युपगम्यते; तथा सत्यसङ्कल्पत्वसर्वज्ञत्वजगत्कारणत्व सर्वात्मकत्वनिरस्तनिखिल-अविद्यादिदोषत्वाद्यभिधायिवाक्यावैयर्थ्यादुभयलिङ्गमेव ब्रह्म ॥१५॥
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रकाशवच् चावैयर्थ्यात् ।  
+व्याप्त्या चेत् ,  
+धीः कस्यचिद् एव +++(=??)+++।  
+श्रुति-बलात् न चेत् ,  
+स-गुणत्वम् अपि ।  
+न च व्याप्ति-विरोधः ,  
+धर्म-भूत-ज्ञानस्यैव ज्ञानानाश्रयत्वाद् इति भावः ॥ 15 ॥
+
+</details>
+
+
+### सत्यादि-वाक्यस्य गुण-निषेधकत्वाभावः
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**३३०. आह च तन्+++(→प्रकाशवत्व)+++-मात्रम् ॥ ३–२–१६ ॥**
+</details>
+
+<details><summary>English</summary>
+
+16. And (the text) says so much only.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**३३०. आह च तन्मात्रम् ॥ ३–२–१६ ॥**
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ् च  
+**सत् यं ज्ञानम् अनन्तम्** (तै.आन.१.१)  
+इत्य्-आदि-वाक्यं  
+ब्रह्मणः प्रकाश--स्व-रूपता-मात्रं प्रतिपादयति,  
+नान्यत्-सत्य-सङ्कल्पत्वादिकं वाक्यान्तरावगतं निषेधति,  
+**नेति नेति** (बृ.४.३.६) इति च निषेधविषयोऽनन्तरमेव वक्ष्यते॥
+</details>
+
+<details><summary>English</summary>
+
+Moreover the text 'the True, knowledge, infinite is Brahman' only teaches that Brahman has light for its essential nature, and does not negative those other attributes of Brahman--omniscience, being the cause of the world, &c.--which are intimated by other texts.  
+What is the object of the negation in 'not so, not so' will be shown further on.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किञ्च **सत्यं ज्ञानमनन्तम्** (तै.आन.१.१) इत्यादिवाक्यं ब्रह्मणः प्रकाशस्वरूपतामात्रं प्रतिपादयति, नान्यत्सत्यसङ्कल्पत्वादिकं वाक्यान्तरावगतं निषेधति, **नेति नेति** (बृ.४.३.६) इति च निषेधविषयोऽनन्तरमेव वक्ष्यते॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आह च तन्-मात्रम् ।  
+सूत्राभ्यां विरोधाभ्युपगमेन  
+तद्-अभावेन चार्थ-गुण-निषेधः प्रत्युक्तः ।  
+अथ श्रौतं परिहरन् नार्थस्य च परिहारोपयोगि मानं दर्शयति ॥ 16 ॥
+</details>
+
+### गुणानां श्रुत्य्-आदि-प्रतिपन्नत्वम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**३३१. दर्शयति चाथो अपि स्मर्यते ॥ ३–२–१७ ॥**
+</details>
+
+<details><summary>English</summary>
+
+17. (This Scripture) also shows, and it is also stated in Smr̥ti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**३३१. दर्शयति चाथो अपि स्मर्यते ॥ ३–२–१७ ॥**
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+दर्शयति चाथा अपि स्मर्यते ।  
+प्रथमे सूत्रे स्वपक्षमूलतया मानं दर्शितम् ।  
+इह तु दूषणपरिहाराय । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दर्शयति च वेदान्तगणः  
+कल्याण-गुणाकरत्वं  
+निरस्त-निखिल-दोषत्वं च
+</details>
+
+<details><summary>English</summary>
+
+That Brahman is a treasure as it were of all blessed qualities and free from all imperfections, the whole body of Vedānta-texts clearly declares: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+दर्शयति च वेदान्तगणः कल्याणगुणाकरत्वं निरस्तनिखिलदोषत्वं च
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+वेदान्तगण इति ।  
+अथो-शब्दः प्रमाणकार्त्स्न्यपर इति भावः ।  
+दर्शयति स्मर्यते इति सौत्र-शब्द-विवरणम् ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तम् ईश्वराणां परमं महेश्वरं  
+> तं दैवतानां परमं च दैवतम्। 
+</details>
+
+<details><summary>English</summary>
+
+'That highest great lord of lords, that highest deity of deities'; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> तमीश्वराणां परमं महेश्वरं तं दैवतानां परमं च दैवतम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स कारणं करणाधिपाधिपो  
+न चास्य कश्चिज् जनिता न चाधिपः । 
+</details>
+
+<details><summary>English</summary>
+
+'He is the cause, the lord of the lords of the organs, and there is of him neither parent nor lord '; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स कारणं करणाधिपाधिपो न चास्य कश्चिज्जनिता न चाधिपः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तस्य कार्यं करणं च विद्यते  
+न तत्-समश् चाभ्यधिकश् च दृश्यते। 
+</details>
+
+<details><summary>English</summary>
+
+'There is no effect and no cause known of him, no one is seen like unto him or higher. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तस्य कार्यं करणं च विद्यते न तत्समश्चाभ्यधिकश्च दृश्यते। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पराऽस्य शक्तिर् विविधैव श्रूयते  
+स्वाभाविकी ज्ञान-बल-क्रिया च (श्वे.६.७,८)
+</details>
+
+<details><summary>English</summary>
+
+His high power is revealed as manifold, as essential action of knowledge and strength' (Śvet. Up. VI, 7-9); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पराऽस्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च (श्वे.६.७,८)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस् सर्व-ज्ञस् सर्व-वित्  
+यस्य ज्ञानमयं तपः (मु.१.१.९)
+</details>
+
+<details><summary>English</summary>
+
+'He who is all-knowing, whose brooding consists of knowledge' (Mu. I, 1,9); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**यस्सर्वज्ञस्सर्ववित् यस्य ज्ञानमयं तपः** (मु.१.१.९)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भीषाऽस्माद् वातः पवते  
+भीषोदेति सूर्यः (तै.आ.८.४)
+</details>
+
+<details><summary>English</summary>
+
+'From fear of him the wind blows, from fear of him the sun moves'; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**भीषाऽस्माद्वातः पवते भीषोदेति सूर्यः** (तै.आ.८.४)
+</details>
+
+
 
 किं च सत्यं ज्ञानमनन्तम् इत्यादि ... ... नेति नेति इति च निषेधस्य विषयोऽनन्तरमेव वक्ष्यते । । 16 ॥
 
-आह च तन्मात्रम् । सूत्राभ्यां विरोधाभ्युपगमेन तदभावेन चार्थगुणनिषेधः प्रत्युक्तः । अथ श्रौतं परिहरन्नार्थस्य च परिहारोषयोगि मानं दर्शयति ॥ 16 ॥
 
 दर्शयति चाथो अपि स्मर्यते ॥ 3-2-17 ॥
 
 दर्शयति च वेदान्तगणः ... ... ब्रह्मण उभयलिङ्गत्वात् तत्स्थानप्रयुक्ता दोषा न परं ब्रह्म स्पृशन्ति ॥ 17 ॥
 
-दर्शयति चाथा अपि स्मर्यते । प्रथमे सूत्रे स्वपक्षमूलतया मानं दर्शितम् । इह तु दूषणपरिहाराय । वेदान्तगण इति । अथो शब्दः प्रमाणकार्त्स्न्यपर इति भावः । दर्शयति स्मर्यते इति सौत्रशब्दविवरणम् । निर्दोषत्वं दर्शयति - निष्कलं ... ... निरवद्यम् इत्यादिना । सामान्यविशेषगोबलीवर्दनयावभिप्रेतौ ॥ 17 ॥
+निर्दोषत्वं दर्शयति - निष्कलं ... ... निरवद्यम् इत्यादिना । सामान्यविशेषगोबलीवर्दनयावभिप्रेतौ ॥ 17 ॥
 
 अत एव चोपमा सूर्यकादिवत् ॥ 3-2-18 ॥
 
