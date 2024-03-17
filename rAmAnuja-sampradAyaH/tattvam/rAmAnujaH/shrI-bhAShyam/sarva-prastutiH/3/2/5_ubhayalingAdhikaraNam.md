@@ -1887,7 +1887,7 @@ Hence there is no real parallelism between the thing compared (the highest Self)
 
 > ३३४. वृद्धि-ह्रास-भाक्त्वम् +++(साभावं)+++ +++(पृथिव्य्-आदिष्व्)+++ अन्तर्-भावाद् +++(ग्राह्यम्)+++ -  
 +++(विषयेऽस्मिन्)+++ उभय+++(→ख-सूर्य-दृष्टान्त)+++-सामञ्जस्याद् एवं,  
-दर्शनाच् च +++(दृष्टान्ते)+++॥ ३–२–२० ॥
+दर्शनाच् च +++(आंशिकसाधर्म्यस्य "सिंह इव माणवक" इत्यादौ)+++॥ ३–२–२० ॥
 
 </details>
 
@@ -2058,27 +2058,68 @@ there is no reason for its participating in the imperfection of others.--
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 दृष्टान्त-द्वयं किम्-अर्थं, दोषास्पर्शस्यानुगत-हेतुः क इत्य्-अत्राह - एतद् उक्तम् इति।  
+
+देशत इव  
+स्वभावतो विप्रकर्षस्यापि  
+दोषास्पर्श-हेतुता-ज्ञापनम्  
+उभय-दृष्टान्तत् फलम्। सन्निकर्ष-त्रय-समुदायो दोष-स्पर्श-हेतुः
+
+।  
+अन्यतम-विप्रकर्षो ऽप्य् अस्पर्श-हेतुर् इत्यर्थः ।  
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दर्शनाच्च – दृश्यते चैवं सर्वात्मना साधर्म्याभावेऽपि विवक्षितांशसाधर्म्याद्दृष्टान्तोपादानं, सिंह इव माणवक इत्यादौ। 
+**दर्शनाच् च** –  
+दृश्यते चैवं  
+सर्वात्मना साधर्म्याभावेऽपि  
+विवक्षितांश-साधर्म्याद् दृष्टान्तोपादानं,  
+"सिंह इव माणवक" इत्यादौ। 
 </details>
+
+<details><summary>English</summary>
+
+'And as this is seen.'  
+This means--  
+Since we observe in ordinary life also  
+that comparisons are instituted between two things for the reason that although they do not possess all attributes in common,  
+they yet have some attribute in common.  
+We say, e.g. 'this man is like a lion.'--
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 दर्शनाच्च – दृश्यते चैवं सर्वात्मना साधर्म्याभावेऽपि विवक्षितांशसाधर्म्याद्दृष्टान्तोपादानं, सिंह इव माणवक इत्यादौ। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-पृथव्यादिस्थानान्तर्भावात् स्थानिनः ... .. समस्तकल्याणगुणाकरस्य पृथिव्यादिस्थानतोऽपि न दोषसंभवः ॥ 20 ॥
+दर्शनाच्च इति सूत्रांशः ॥ 20 ॥
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देशत इव स्वभावतो विप्रकर्षस्यापि दोषास्पर्शहेतुताज्ञापनमुभयदृष्टान्तत्फलम्। सन्निकर्षत्रयसमुदायो दोषस्पर्शहेतुः
+अतः स्वभावतो निरस्त-निखिलाज्ञानादि-दोष-गन्धस्य समस्त-कल्याण-गुणाकरस्य पृथिव्य्-आदि-स्थानतोऽपि  
+न दोष-सम्भवः ॥२०॥
+</details>
 
-। अन्यतमविप्रकर्षोऽप्यस्पर्शहेतुरित्यर्थः । दर्शनाच्च इति सूत्रांशः ॥ 20 ॥
+<details><summary>English</summary>
+
+The conclusion from all this is that the highest Self, which is essentially free from all imperfections and a treasure as it were of all blessed qualities, in no way suffers from dwelling within the earth and the rest.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः स्वभावतो निरस्तनिखिलाज्ञानादिदोषगन्धस्य समस्तकल्याणगुणाकरस्य पृथिव्यादिस्थानतोऽपि न दोषसम्भवः ॥२०॥
+</details>
+
+### "नेति नेति" वाक्यम्
+
+
 
 अथ स्यात् - द्वे वाव ब्रह्मणो रूपे ... ....
 
