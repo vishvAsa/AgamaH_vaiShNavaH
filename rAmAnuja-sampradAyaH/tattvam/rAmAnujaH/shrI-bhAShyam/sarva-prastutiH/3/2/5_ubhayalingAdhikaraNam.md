@@ -1809,18 +1809,274 @@ For the sun and a face are erroneously apprehended as abiding in water or a mirr
 अम्ब्वादिषु हि सूर्यादयो भ्रान्त्या तत्रस्था इव गृह्यन्ते, न परमार्थतस्तत्रस्थाः । 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभ्बुवदिति ... ... अतो न तथात्वम् - दार्ष्टान्तिकस्य न दृष्टान्ततुल्यत्वमित्यर्थः ॥ 19 ॥
+इह तु 
 
-अम्बुवदग्रहणात् तु न तथात्वम् । दृष्टान्तावैघट्याय दार्ष्टान्तिकस्य पृथिव्यादौ स्थितेः मिथ्यात्वमुपेत्यमिति भावः ॥ 19 ॥
+> **यः पृथिव्यां तिष्ठन्** (बृ.५.७.३) 
 
-परिहरति -
+> **योऽप्सु तिष्ठन्** (बृह.५.७.४) …. 
 
-वृद्धिह्रासभाक्त्वमन्तर्भावादुभयसामञ्जस्यादेवं दर्शनाच्च ॥ 3-2-20 ॥
+> **य आत्मनि तिष्ठन्** (बृ.५.७.२२) 
+
+इत्य् एवम्-आदिना  
+परमार्थत एव  
+परमात्मा पृथिव्यादिषु स्थितो गृह्यते । 
+</details>
+
+<details><summary>English</summary>
+
+When, on the other hand, Scripture tells us that the highest Self dwells in the earth, in water, in the soul, &c., we apprehend it as really dwelling in all those places. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इह तु **यः पृथिव्यां तिष्ठन्** (बृ.५.७.३) योऽप्सु तिष्ठन् (बृह.५.७.४) …. **य आत्मनि तिष्ठन्** (बृ.५.७.२२) इत्येवमादिना परमार्थत एव परमात्मा पृथिव्यादिषु स्थितो गृह्यते । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् सूर्यादेर् अम्बु-दर्पणादि-प्रयुक्त-दोषाननुषङ्गस्  
+तत्र-तत्र स्थित्य्-अभावाद् एव। 
+</details>
+
+<details><summary>English</summary>
+
+That the imperfections caused by water and mirrors do not attach themselves to the sun or a face is due to the fact that the sun and the face do not really abide in the water and the mirror. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतस्सूर्यादेरम्बुदर्पणादिप्रयुक्तदोषाननुषङ्गस्तत्रतत्र स्थित्यभावादेव। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अतो न तथात्वं** –  
+दार्ष्टान्तिकस्य न दृष्टान्त-तुल्यत्वम्  
+इत्य् अर्थः ॥१९॥
+</details>
+<details><summary>English</summary>
+
+Hence there is no real parallelism between the thing compared (the highest Self) and the thing to which it is compared (the reflected image).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो न तथात्वं – दार्ष्टान्तिकस्य न दृष्टान्ततुल्यत्वमित्यर्थः ॥१९॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अम्बुवद् अग्रहणात् तु  
+न तथात्वम् ।  
+दृष्टान्तावैघट्याय  
+दार्ष्टान्तिकस्य पृथिव्यादौ स्थितेः  
+मिथ्यात्वम् उपेत्यम्  
+इति भावः ॥ 19 ॥
+</details>
+
+#### परिहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परिहरति –
+
+> ३३४. वृद्धि-ह्रास-भाक्त्वम् +++(साभावं)+++ +++(पृथिव्य्-आदिष्व्)+++ अन्तर्-भावाद् +++(ग्राह्यम्)+++ -  
++++(विषयेऽस्मिन्)+++ उभय+++(→ख-सूर्य-दृष्टान्त)+++-सामञ्जस्याद् एवं,  
+दर्शनाच् च +++(दृष्टान्ते)+++॥ ३–२–२० ॥
+
+</details>
+
+<details><summary>English</summary>
+
+1.  The participation (on Brahman's part) in increase and decrease, due to its abiding within (is denied); on account of the appropriateness of both (comparisons), and because thus it is seen.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परिहरति –
+
+**३३४. वृद्धिह्रासभाक्त्वमन्तर्भावादुभयसामञ्जस्यादेवं दर्शनाच्च ॥ ३–२–२० ॥**
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पृथिव्य्-आदि-स्थानान्तर्-भावात्  
+स्थानिनः परस्य ब्रह्मणः  
+स्वरूपतो गुणतश् च पृथिव्य्-आदि-स्थान-गत--  
+वृद्धि-ह्रासादि-दोष-भाक्त्व-मात्रं  
+सूर्यादि-दृष्टान्तेन **निवर्त्यते**। 
+</details>
+
+<details><summary>English</summary>
+
+The comparison of the highest Self to the reflected sun and the rest is meant only to deny of the Self that it participates in the imperfections--such as increase, decrease, and the like--which attach to the earth and the other beings within which the Self abides.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पृथिव्यादिस्थानान्तर्भावात्स्थानिनः परस्य ब्रह्मणः स्वरूपतो गुणतश्च पृथिव्यादिस्थानगत-वृद्धिह्रासादिदोषभाक्त्वमात्रं सूर्यादिदृष्टान्तेन निवर्त्यते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कथमिदमवगम्यते? 
+</details>
+
+<details><summary>English</summary>
+
+How do we know this?--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कथमिदमवगम्यते? 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**उभय-सामञ्जस्याद् एवम्** –  
+उभय-दृष्टान्त-सामञ्जस्याद् एवम्  
+इति निश्चीयते। 
+</details>
+
+<details><summary>English</summary>
+
+From the circumstance that on this supposition both comparisons are appropriate. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उभयसामञ्जस्यादेवम् – उभयदृष्टान्तसामञ्ज्स्यादेवमिति निश्चीयते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आकाशम् एकं हि  
+यथा घटादिषु पृथग् भवेत्,  
+**जल-धारेष्व् इवांशुमान्** (याज्ञ.प्राय.३.१४४)  
+इति दोषवत्स्व् अनेकेषु वस्तुषु  
+वस्तुतो ऽवस्थितस्य आकाशस्य,  
+वस्तुतो ऽनवस्थितस्यांशुमतश् चोभयस्य दृष्टान्तस्योपादानं हि  
+परमात्मनः पृथिव्य्-आदि-गत--दोष-भाक्त्व-निवर्तन-मात्रे प्रतिपाद्ये  
+समञ्जसं भवति । 
+</details>
+
+<details><summary>English</summary>
+
+In the scriptural text quoted above Brahman is compared to ether,  
+which although one becomes manifold through the things--jars and so on--within it;  
+and to the sun, which is multiplied by the sheets of water in which he is reflected.  
+Now the employment of these comparisons--with ether which really does abide within the jars and so on,  
+and with the sun which in reality does not abide in the water--  
+is appropriate  
+only if they are meant to convey the idea that the highest Self does not participate in the imperfections inherent in earth and so on. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आकाशमेकं हि यथा घटादिषु पृथग्भवेत्, **जलधारेष्विवांशुमान्** (याज्ञ.प्राय.३.१४४) इति दोषवत्स्वनेकेषु वस्तुषु वस्तुतोऽवस्थितस्य आकाशस्य, वस्तुतोऽनवस्थितस्यांशुमतश्चोभयस्य दृष्टान्तस्योपादानं हि परमात्मनः पृथिव्यादिगत-दोषभाक्त्वनिवर्तनमात्रे प्रतिपाद्ये समञ्जसं भवति । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+वृद्धि-ह्रास-भाक्त्वम् अन्तर्भावाद् उभयसामञ्जस्यादेवं दर्शनाच्च ।  
+"समञ्जंसं भवति ।" इत्यन्तेन भाष्येण  
+"एवम्" इत्यन्तसूत्रांशो व्याख्यातः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+घट-करकादिषु  
+यथा वृद्धि-ह्रास-भाक्षु  
+पृथक् पृथक् संयुज्यमानम् अप्य् आकाशं  
+वृद्धि-ह्रासादि-दोषैर् न स्पृश्यते;  
+यथा च जलाधारेषु विषमेषु  
+दृश्यमानोंऽशुमान्  
+तद्-गत-वृद्धि-ह्रासादिभिर् न स्पृश्यते;  
+तथाऽयं परमात्मा  
+पृथिव्य्-आदिषु नानाकारेष्व् अचेतनेषु चेतनेषु च स्थितस्  
+तत्-तद्-गत-वृद्धि-ह्रासादि-दोषैर् असंस्पृष्टस्  
+सर्वत्र वर्तमानो ऽप्य्  
+एक एव अ-स्पृष्ट-दोष-गन्धः  
+कल्याण-गुणाकर एव।
+</details>
+
+<details><summary>English</summary>
+
+Just as ether, although connecting itself separately with jars, pots, and so on, which undergo increase and decrease, is not itself touched by these imperfections; and just as the sun, although seen in sheets of water of unequal extent, is not touched by their increase and decrease; thus the highest Self, although abiding within variously-shaped beings, whether non-sentient like earth or sentient, remains untouched by their various imperfections--increase, decrease, and so on--,remains one although abiding in all of them, and ever keeps the treasure of its blessed qualities unsullied by an atom even of impurity.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+घटकरकादिषु यथा वृद्धिह्रासभाक्षु पृथक्पृथक्संयुज्यमानमप्याकाशं वृद्धिह्रासादिदोषैर्न स्पृश्यते; यथा च जलाधारेषु विषमेषु दृश्यमानोंऽशुमान् तद्गतवृद्धिह्रासादिभिर्न स्पृश्यते; तथाऽयं परमात्मा पृथिव्यादिषु नानाकारेष्वचेतनेषु चेतनेषु च स्थितस्तत्तद्गतवृद्धिह्रासादिदोषैरसंस्पृष्टस्सर्वत्र वर्तमानोऽप्येक एव अस्पृष्टदोषगन्धः कल्याणगुणाकर एव।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्मृति-वचोऽर्थम् आह - घट इति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतद् उक्तं भवति –  
+यथा जलादिषु वस्तुतो ऽनवस्थितस्यांशुमतो  
+हेत्व्-अभावाज् जलादि-दोषानभिष्वङ्गः  
+तथा पृथिव्य्-आदिष्व्-अवस्थितस्यापि परमात्मनो  
+दोष-प्रत्यनीकाकारतया दोष-हेत्व्-अभावान्  
+न दोष-सम्बन्धः – इति।
+</details>
+
+<details><summary>English</summary>
+
+--The comparison of Brahman with the reflected sun holds good on the following account. As the sun is not touched by the imperfections belonging to the water, since he does not really abide in the water and hence there is no reason for his sharing those imperfections, thus the highest Self,which really abides within earth and the rest, is not affected by their imperfections;  
+for as the nature of the highest Self is essentially antagonistic to all imperfection,  
+there is no reason for its participating in the imperfection of others.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति – यथा जलादिषु वस्तुतोऽनवस्थितस्यांशुमतो हेत्वभावाज्जलादि-दोषानभिष्वङ्गः तथा पृथिव्यादिष्ववस्थितस्यापि परमात्मनो दोषप्रत्यनीकाकारतया दोषहेत्वभावान्न दोषसम्बन्धः – इति।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+दृष्टान्त-द्वयं किम्-अर्थं, दोषास्पर्शस्यानुगत-हेतुः क इत्य्-अत्राह - एतद् उक्तम् इति।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+दर्शनाच्च – दृश्यते चैवं सर्वात्मना साधर्म्याभावेऽपि विवक्षितांशसाधर्म्याद्दृष्टान्तोपादानं, सिंह इव माणवक इत्यादौ। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+दर्शनाच्च – दृश्यते चैवं सर्वात्मना साधर्म्याभावेऽपि विवक्षितांशसाधर्म्याद्दृष्टान्तोपादानं, सिंह इव माणवक इत्यादौ। 
+</details>
+
 
 पृथव्यादिस्थानान्तर्भावात् स्थानिनः ... .. समस्तकल्याणगुणाकरस्य पृथिव्यादिस्थानतोऽपि न दोषसंभवः ॥ 20 ॥
 
-वृद्धिहासभाक्त्वमन्तर्भावादुभयसामञ्जस्यादेवं दर्शनाच्च । समञ्जंसं भवति । इत्यन्तेन भाष्येण एवम् इत्यन्तसूत्रांशो व्याख्यातः । स्मृतिवचोऽर्थमाह - घट इति । दृष्टान्तद्वयं किमर्थं दोषास्पर्शस्यानुगतहेतुः क इत्यत्राह - एतदुक्तम् इति। देशत इव स्वभावतो विप्रकर्षस्यापि दोषास्पर्शहेतुताज्ञापनमुभयदृष्टान्तत्फलम्। सन्निकर्षत्रयसमुदायो दोषस्पर्शहेतुः
+
+
+देशत इव स्वभावतो विप्रकर्षस्यापि दोषास्पर्शहेतुताज्ञापनमुभयदृष्टान्तत्फलम्। सन्निकर्षत्रयसमुदायो दोषस्पर्शहेतुः
 
 । अन्यतमविप्रकर्षोऽप्यस्पर्शहेतुरित्यर्थः । दर्शनाच्च इति सूत्रांशः ॥ 20 ॥
 
