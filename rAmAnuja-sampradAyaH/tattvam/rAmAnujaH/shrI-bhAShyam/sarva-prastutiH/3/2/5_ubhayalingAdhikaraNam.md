@@ -2917,10 +2917,109 @@ The Self chooses him as his own' (Ka. Up. I, 2, 23);
 **नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन। यमेवैष वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूं स्वाम्** (मु.३-२-३) 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-प्रसादेन विशुद्ध-सत्त्वस् ततस् तु  
+**तं पश्यति निष्कलं ध्यायमानः** (मु.३.१.८) इति श्रुतिः ।  
+</details>
+
+<details><summary>English</summary>
+
+'When a man's nature has become purified by the serene light of knowledge, then he sees him, meditating on him as without parts' (Mu. Up. III, 1, 9). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानप्रसादेन विशुद्धसत्त्वस्ततस्तु **तं पश्यति निष्कलं ध्यायमानः** (मु.३.१.८) इति श्रुतिः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मृतिरपि **नाहं वेदैर्न तपसा न दानेन न चेज्यया** (भ.गी.११.५३) 
+</details>
+
+<details><summary>English</summary>
+
+Smr̥ti: 'Neither by the Vedas, nor austerities, nor gifts, nor by sacrifice, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मृतिर् अपि  
+
+> नाहं वेदैर् न तपसा  
+> न दानेन न चेज्यया (भ.गी.११.५३) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भक्त्या त्व् अनन्यया शक्यः  
+> अहम् एवं-विधो ऽर्जुन।  
+> ज्ञातुं द्रष्टुं च तत्त्वेन  
+> प्रवेष्टुं च परन्तप**  
+> (भ.गी.११.५४) 
+
+इति। 
+</details>
+
+<details><summary>English</summary>
+
+but only by exclusive devotion, may I in this form be known and beheld in truth and also entered into' (Bha. Gī. XI, 53,54). 
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
+**भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन। ज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप** (भ.गी.११.५४) इति। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भक्ति-रूपापन्नम् एवोपासनं **संराधनम्**  
+तस्य प्रीणनम्  
+इति पूर्वम् एवोक्तम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भक्तिरूपापन्नमेवोपासनं संराधनम् – तस्य प्रीणनमिति पूर्वमेवोक्तम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अपि संराधने प्रत्यक्षानुमानाभ्याम् । ध्यानगम्योऽस्तु , ततः किं संराधनेन साक्षात्कारस्येत्यत्राह - भक्तिरूप इति ॥ 26 ॥
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो निदिध्यासनाय  
+ब्रह्म--स्व-रूपम् उपदिशत्  
+
+> **द्वे वाव ब्रह्मणः** (बृ.४.३.१) 
+
+इत्य्-आदि-शास्त्रं  
+ब्रह्मणो मूर्तामूर्त-रूप-द्वयादि-विशिष्टतां प्राग् असिद्धां नानुवदितुं क्षमम् ॥२३॥
+</details>
+
+<details><summary>English</summary>
+
+The scriptural text beginning 'Two are the forms of Brahman,' which declares the nature of Brahman for the purposes of devout meditation, cannot therefore refer to Brahman's being characterised by two forms, a material and an immaterial, as something already known; for apart from Scripture nothing is known about Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो निदिध्यासनाय ब्रह्मस्वरूपमुपदिशत् **द्वे वाव ब्रह्मणः** (बृ.४.३.१) इत्यादिशास्त्रं ब्रह्मणो मूर्तामूर्तरूपद्वयादिविशिष्टतां प्रागसिद्धां नानुवदितुं क्षमम् ॥२३॥
+</details>
+
 
 अपि च संराधने - सम्यक् प्रीणने ... .. ब्रह्मणो मूर्तामूर्तरूपद्वयादिविशिष्टतां प्रागसिद्धां नानुवदितुं क्षमम् ॥ 23 ॥
 
-अपि संराधने प्रत्यक्षानुमानाभ्याम् । ध्यानगम्योऽस्तु , ततः किं संराधनेन साक्षात्कारस्येत्यत्राह - भक्तिरूप इति ॥ 26 ॥
 
 प्रकाशादिवच्चावैशेष्यं प्रकाशश्च कर्मण्यभ्यासात् ॥ 3-2-24 ॥
 
