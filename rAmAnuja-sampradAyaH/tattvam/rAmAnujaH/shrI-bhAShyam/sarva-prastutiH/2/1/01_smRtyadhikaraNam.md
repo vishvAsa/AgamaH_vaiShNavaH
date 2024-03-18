@@ -11,7 +11,7 @@ title = "०१ स्मृत्यधिकरणम्"
 +++(तद्-इतर-)+++अन्य-स्मृत्य्-अनवकाश-दोष-प्रसङ्गात् ॥ 2-1-1 ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 \1. If it be said that there would result the fault of there being no room for (certain) Smr̥tis:   
 (we reply) 'no,' because there would result the fault of want of room for other Smr̥tis.
@@ -32,7 +32,7 @@ title = "०१ स्मृत्यधिकरणम्"
 तन् निराक्रियते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Sūtrakāra at first turns against those who maintain that  
 the Vedanta-texts do not establish the view indicated above,  
@@ -58,7 +58,7 @@ on the ground of that view being contradicted by the Smr̥ti of Kapila, i. e. th
 इति श्रुति-विरुद्धायाः स्मृतेर् अनादरणीयत्वम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > But how can it be maintained at all that  
 Scripture does not set forth a certain view  
@@ -87,7 +87,7 @@ For that Smr̥ti if contradicted by Scripture is to be held of no account, is al
 तद्-विरुद्धा स्मृतिर् अनादरणीयैव।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Where, we reply, a matter can be definitely settled on the basis of Scripture--as e.g. in the case of the Vedic injunction, 'he is to sing, after having touched the Uḍumbara branch' (which clearly contradicts the Smr̥ti injunction that the whole branch is to be covered up)--Smr̥ti indeed need not be regarded. 
 </details>
@@ -115,7 +115,7 @@ For that Smr̥ti if contradicted by Scripture is to be held of no account, is al
 योगास्मृत्या श्रुतेर् अ-तत्-परत्वोपपादनम् अ-विरुद्धम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But the topic with which the Vedānta-texts are concerned is hard to understand,  
 and hence, when a conflict arises between those texts and a Smr̥ti propounded by some great R̥shi,  
@@ -163,7 +163,7 @@ that Scripture does not set forth a certain doctrine.
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That is to say--  
 we possess a Smr̥ti composed with a view to teach men the nature and means of supreme happiness,  
@@ -222,7 +222,7 @@ cannot differ from the one established by the Sānkhyas.
 धर्म-प्रतिपादन-पर--प्राचीन-भागोपबृंहण एव सावकाशत्वात् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor must you object that to do so would force on us another unacceptable conclusion, viz. that those Smr̥tis, that of Manu e.g.,  
 which maintain Brahman to be the universal cause, are destitute of authority;  
@@ -244,7 +244,7 @@ and thus have at any rate the uncontested function of supporting the teaching of
 तथा ऽन्-अभ्युपगमे निरवकाशत्वम् एव स्यात् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Sānkhya Smr̥ti, on the other hand, is entirely devoted to the setting forth of theoretical truth (not of practical duty), and if it is not accepted in that quality, it is of no use whatsoever.--
 </details>
@@ -264,7 +264,7 @@ The Sānkhya Smr̥ti, on the other hand, is entirely devoted to the setting fort
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 On this ground the Sūtra sets forth the primā facie view,
 
@@ -296,7 +296,7 @@ On this ground the Sūtra sets forth the primā facie view,
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same Sūtra replies  
 
@@ -342,7 +342,7 @@ The same Sūtra replies
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For other Smr̥tis, that of Manu e.g., teach that Brahman is the universal cause. Thus Manu says, 
 
@@ -412,7 +412,7 @@ For other Smr̥tis, that of Manu e.g., teach that Brahman is the universal cause
 इति च । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the Bhagavad-gitā, 
 
@@ -461,7 +461,7 @@ And the Bhagavad-gitā,
 इति च । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Similarly, in the Mahābhārata, to the question 
 
@@ -502,7 +502,7 @@ and
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And Parāśara says, 
 
@@ -534,7 +534,7 @@ And Parāśara says,
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Thus also Āpastamba, 
 
@@ -563,7 +563,7 @@ and
 अन्-अवकाशत्व-रूपो महान् दोषः प्रसज्येत ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the question as to the meaning of the Vedānta-texts were to be settled by means of Kapila's Smr̥ti, we should have to accept the extremely undesirable conclusion that all the Smr̥tis quoted are of no authority. 
 </details>
@@ -593,7 +593,7 @@ If the question as to the meaning of the Vedānta-texts were to be settled by me
 इति श्रुति-विरुद्धार्था **कपिल-स्मृतिर् उपेक्षणीया** ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is true that  
 the Vedānta-texts are concerned with theoretical truth  
@@ -643,7 +643,7 @@ and it is for this reason that Kapila's Smr̥ti which contains a doctrine oppose
 न शक्यते कर्तुम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The support required is elucidation of the sense conveyed by Scripture, and this clearly cannot be effected by means of a Smr̥ti contradicting Scripture. 
 </details>
@@ -668,7 +668,7 @@ The support required is elucidation of the sense conveyed by Scripture, and this
 तद्-आराधन-भूत--धर्म-प्रतिपादनासम्भवात् ।+++(5)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor is it of any avail to plead, as the Pūrvapakshin does, that Manu and other Smr̥tis of the same kind fulfil in any case the function of elucidating the acts of religious duty enjoined in the karmakāṇda.  
 For if they enjoin acts of religious duty as means to win the favour of the Supreme Person  
@@ -695,7 +695,7 @@ they are also not capable of impressing upon us the idea of those acts themselve
 सर्वेषां कर्मणां स्मर्यते  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That it is the character of all religious acts to win the favour of the Supreme Spirit, Smr̥ti distinctly declares, 
 </details>
@@ -715,7 +715,7 @@ That it is the character of all religious acts to win the favour of the Supreme 
 सिद्धिं विन्दति मानवः"+++(5)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Man attains to perfection by worshipping with his proper action Him from whom all Beings proceed; and by whom all this is stretched out' (Bha. Gī. XVIII, 46); 
 </details>
@@ -735,7 +735,7 @@ That it is the character of all religious acts to win the favour of the Supreme 
 न चेहावर्तते पुनः" +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Let a man meditate on Nārāyaṇa, the divine one, at all works, such as bathing and the like; he will then reach the world of Brahman and not return hither' (Daksha-smr̥ti); 
 </details>
@@ -757,7 +757,7 @@ That it is the character of all religious acts to win the favour of the Supreme 
 मायाम् आत्म-विमुक्तये" 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 'Those men with whom, intent on their duties, thou art pleased, O Lord, they pass beyond all this Māya and find Release for their souls' (Vi. Pu.). 
 </details>
@@ -778,7 +778,7 @@ and 'Those men with whom, intent on their duties, thou art pleased, O Lord, they
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor can it be said that Manu and similar Smr̥tis have a function in so far as setting forth works (not aiming at final Release but) bringing about certain results included in transmigratory existence, whether here on earth or in a heavenly world; for the essential character of those works also is to please the highest Person. 
 </details>
@@ -812,7 +812,7 @@ Nor can it be said that Manu and similar Smr̥tis have a function in so far as s
 इति;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As is said in the Bhagavad-gītā (IX, 23, 24); 'Even they who devoted to other gods worship them with faith, worship me, against ordinance. For I am the enjoyer and the Lord of all sacrifices; but they know me not in truth and hence they fall,' 
 </details>
@@ -834,7 +834,7 @@ As is said in the Bhagavad-gītā (IX, 23, 24); 'Even they who devoted to other 
 इति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and 'Thou art ever worshipped by me with sacrifices; thou alone, bearing the form of pitr̥s and of gods, enjoyest all the offerings made to either.' 
 </details>
@@ -865,7 +865,7 @@ and 'Thou art ever worshipped by me with sacrifices; thou alone, bearing the for
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Nor finally can we admit the contention that it is rational to interpret the Vedánta-texts in accordance with Kapila's Smr̥ti because Kapila, in the Śvetāśvatara text, is referred to as a competent person. For from this it would follow that, as Br̥haspati is, in Śruti and Smr̥ti, mentioned as a pattern of consummate wisdom, Scripture should be interpreted in agreement with the openly materialistic and atheistic Smr̥ti composed by that authority. 
 </details>
@@ -893,7 +893,7 @@ Nor finally can we admit the contention that it is rational to interpret the Ved
 इति; अत उत्तरं पठति -
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, it may here be said, the Vedānta-texts should after all be interpreted in agreement with Kapila's Smr̥ti, for the reason that Kapila had through the power of his concentrated meditation (yoga) arrived at an insight into truth.--To this objection the next Sūtra replies.
 </details>
@@ -917,7 +917,7 @@ But, it may here be said, the Vedānta-texts should after all be interpreted in 
 +++(मन्वादि-)+++इतरेषां चानुपलब्धेः +++(योगादि-साधनैः कपिल-स्मृत्यर्थस्य)+++ ॥ 2-1-2 ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 2. And on account of the non-perception (of truth on the part) of others.
 </details>
@@ -935,7 +935,7 @@ But, it may here be said, the Vedānta-texts should after all be interpreted in 
 चोदिताशङ्का-निवृत्त्यर्थः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The 'and' in the Sūtra has the force of 'but,' being meant to dispel the doubt raised. 
 </details>
@@ -965,7 +965,7 @@ The 'and' in the Sūtra has the force of 'but,' being meant to dispel the doubt 
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There are many other authors of Smr̥tis, such as Manu, who through the power of their meditation had attained insight into the highest truth, and of whom it is known from Scripture that the purport of their teaching was a salutary medicine to the whole world ('whatever Manu said that was medicine'). Now, as these R̥shis did not see truth in the way of Kapila, we conclude that Kapila's view, which contradicts Scripture, is founded on error, and cannot therefore be used to modify the sense of the Vedānta-texts.
 </details>
@@ -993,7 +993,7 @@ There are many other authors of Smr̥tis, such as Manu, who through the power of
 इति स्मृत्यधिकरणम् ।।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Here finishes the adhikaraṇa treating of 'Smr̥ti.'
 </details>

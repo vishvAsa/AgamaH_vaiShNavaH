@@ -134,7 +134,7 @@ we take the genitive case 'of Brahman' as denoting the object.
 **पुरुषोत्तमो ऽभिधीयते** ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'Brahman' denotes the hightest Person (purushottama), who is essentially free from all imperfections and possesses numberless classes of auspicious qualities of unsurpassable excellence.  
 </details>
@@ -158,7 +158,7 @@ The word 'Brahman' denotes the hightest Person (purushottama), who is essentiall
 सोस्य मुख्योर्थः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The term 'Brahman' is applied to any things which possess the quality of greatness (br̥hattva, from the root 'br̥h'); but primarily denotes that which possesses greatness, of essential nature as well as of qualities, in unlimited fulness; and such is only the Lord of all.  
 </details>
@@ -183,7 +183,7 @@ The term 'Brahman' is applied to any things which possess the quality of greatne
 अतो ब्रह्म-शब्दस् तत्रैव मुख्य-वृत्तः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the word 'Brahman' primarily denotes him alone, 
 </details>
@@ -209,7 +209,7 @@ Hence the word 'Brahman' primarily denotes him alone,
 भगवच्-छब्दवत् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and in a secondary derivative sense only those things which possess some small part of the Lord's qualities; for it would be improper to assume several meanings for the word (so that it would denote primarily or directly more than one thing).  
 The case is analogous to that of the term 'bhagavat [^fn_0].' 
@@ -241,7 +241,7 @@ The case is analogous to that of the term 'bhagavat [^fn_0].'
 जिज्ञासा-कर्म-भूतं **ब्रह्म** ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The Lord only is enquired into, for the sake of immortality, by all those who are afflicted with the triad of pain. Hence the Lord of all is that Brahman which, according to the Sūtra, constitutes the object of enquiry. 
 </details>
@@ -266,7 +266,7 @@ The Lord only is enquired into, for the sake of immortality, by all those who ar
 इष्यमाणं **ज्ञानम्** इह **विधीयते** । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word 'jijñāsā' is a desiderative formation meaning 'desire to know.'  
 And as in the case of any desire the desired object is the chief thing, the Sūtra means to enjoin knowledge--which is the object of the desire of knowledge.  
@@ -297,7 +297,7 @@ And as in the case of any desire the desired object is the chief thing, the Sūt
 इत्य् उक्तं भवति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The purport of the entire Sūtra then is as follows: 'Since the fruit of works known through the earlier part of the Mīmāṁsā is limited and non-permanent, and since the fruit of the knowledge of Brahman--which knowledge is to be reached through the latter part of the Mīmāṁsā--is unlimited and permanent; for this reason Brahman is to be known, after the knowledge of works has previously taken place.'--
 </details>
@@ -330,7 +330,7 @@ The purport of the entire Sūtra then is as follows: 'Since the fruit of works k
 +इति।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same meaning is expressed by the Vr̥ttikāra when saying 'after the comprehension of works has taken place there follows the enquiry into Brahman.' And that the enquiry into works and that into Brahman constitute one body of doctrine, he (the Vr̥ttikāra) will declare later on 'this Sārīraka-doctrine is connected with Jaimini's doctrine as contained in sixteen adhyāyas; this proves the two to constitute one body of doctrine.' 
 </details>
@@ -358,7 +358,7 @@ The same meaning is expressed by the Vr̥ttikāra when saying 'after the compreh
 पूर्वोत्तर-मीमांसयोर् भेदः।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the earlier and the later Mīmāṁsā are separate only in so far as there is a difference of matter to be taught by each; in the same way as the two halves of the Pūrva Mīmāṁsā-sūtras, consisting of six adhyāyas each, are separate [^fn_1]; and as each adhyāya is separate.  
 
@@ -386,7 +386,7 @@ Hence the earlier and the later Mīmāṁsā are separate only in so far as ther
 +++(सूत्रेषु)+++ सङ्गति-विशेषेण विशिष्ट-क्रमम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The entire Mīmāṁsā-sātra--which begins with the Sūtra 'Now therefore the enquiry into religious duty' and concludes with the Sūtra '(From there is) no return on account of scriptural statement'--has, owing to the special character of the contents, a definite order of internal succession. 
 </details>

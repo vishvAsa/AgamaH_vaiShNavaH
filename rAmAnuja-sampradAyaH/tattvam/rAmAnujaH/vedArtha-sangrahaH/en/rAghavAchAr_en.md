@@ -5,22 +5,10 @@ title = "rAghavAchAr_en"
 9 
 || SRI || 
 VEDARTHA SANGRAHAH 
-I
- offer adoration to Vishnu, the all-pervading Supreme Being, who is the overlord of all  sentient and non-sentient entities, who reposes on the primordial Shesa, who is pure  and infinite and in whom abound blissful perfections. (1) 
-Gloriously triumphs the sage Yamuna, who dispelled the delusive darkness filling the  world in the shape of doctrines devoid of both scriptural authority and reason  maintaining that :— 
-(a) the highest Brahman itself is bereft of knowledge and is caught up in  illusion and hence wanders in the realm of transmigration,  
-(b) it is conditioned by an alien adjunct and is rendered helpless and that  (e) it has become the seat of evil. (2) 
-1. The crown of Vedas i.e., The Upanishads, which lays down the good of the whole  world, enshrines this truth: A seeker, after first acquiring a true understanding of  the individual self and the Supreme and equipped with the performance of the duties  pertaining to his station in life, must devote himself to the meditation, worship and  adoring salutation of the blessed feet of the supreme Person. This done with immeasurable  joy leads to the attainment of the Supreme. 
-The individual self is subject to beginningless nescience, which has brought about an  accumulation of karma, of the nature of both merit and demerit. The flood of such  karma causes his entry into four kinds of bodies — heavenly, human, animal and plant  beginning with that of Brahma downwards. This ingression into bodies produces the  delusion of identity with those respective bodies (and the consequent attachments and  aversions). This delusion inevitably brings about all the fears inherent in the state of  worldly existence. The entire body of Vedanta aims at the annihilation of these fears. To  accomplish their annihilation they teach the following:  
-(1) The essential nature of the individual self as transcending the body.  (2) The attributes of the individual self.  
-(3) The essential nature of the Supreme that is the inmost controller of both the  material universe and the individual selves.  
-(4) The attributes of the Supreme.  
-(5) The devout meditation upon the Supreme.  
-(6) The goal to which such meditation, leads.  
-The Vedanta aims at making known the goal attainable through such a life of meditation,  the goal being the realization, of the real nature of the individual self and after and through  that realization, the direct experience of Brahman, which is of the nature of bliss  
-10 
-infinite and perfect. The passages to this effect may be illustrated by the following: ‘That  thou art (Chan. 6:9:4)’; ‘This self is Brahman (Brh. Ar. 6:4:5)’; ‘He who dwells in the  self, who is in the self, whom the self does not know, whose body this self is, who rules  this self from within, that one is your self, the inner Ruler, the Immortal. (Brh. Ar. 5:7)’;  ‘He is the inner self of all creatures, free from all imperfections, the divine, the sole God  Narayana (Su. 7)’; ‘The Brahmanas desire to know this one, through the study of the  Vedas, through sacrifices, charity, austerities and fasting (Brh. Ar. 6:4:22)’; ‘The knower  of Brahman attains the Highest (Tai. 2:1)’; ‘He who knows him thus attains immortality  here. There is no other pathway to this goal (Pu.Suk. 6)’. 
-1. The essential nature of the individual self is devoid of the manifold distinctions  pertaining to the various modifications of material nature constitutive of the bodies of the  various kinds like heavenly and human. It has only knowledge and bliss as its attributes.  When the bodily differentiations born of karma are destroyed, the essential individuality,  indescribable but self-cognised, can only be represented as of the ‘nature of consciousness  (Vi, 1:4:40)’. This essential nature is common to all individual selves. 
+
+….
+
+ 
 This world, of the aforesaid nature, consisting of spiritual and physical entities, has the  supreme Spirit, as the ground of its origination, maintenance, destruction and of  the liberation of the individual from transmigratory existence. He, the supreme One, is  unique, transcending in character every other entity, because his nature is opposed to all  evil and is of the sole nature of supreme bliss. He is the abode of countless auspicious  attributes unsurpassed in their perfection. He is Bhagavan Narayana, the highest Spirit.  He is presented by the entire Vedanta, through variations of terminology as the ‘Soul of  all’, ‘Highest Brahman’, ‘Highest Light’, ‘Highest Reality’, ‘Highest Self’ and ‘Being’.  Such is the nature of the inner Controller. The Vedas devoted to the exposition of his glory,  expound the fact that he controls all entities, sentient as well as non-sentient, as  their indwelling self. (They do it in two ways): — 
 (1) They describe them as his ‘power’, ‘part’, ‘splendour’, ‘form’, ‘body’  and ‘organism’ and through such other terms.  
 (2) They also affirm the oneness of these entities with him. 

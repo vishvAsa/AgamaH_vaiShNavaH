@@ -12,7 +12,7 @@ title = "+२"
 वेदान्त-वेद्यम् इत्य् **उक्तम्** ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The first adhyāya has established the truth that what the Vedānta-texts teach is a Supreme Brahman,  
 which is something different as well from non-sentient matter known through the ordinary means of proof, viz. Perception and so on,  
@@ -49,7 +49,7 @@ which constitutes the inner Self of all things.
 द्वितीयोऽध्याय आरभ्यते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The second adhyāya is now begun for the purpose of proving that the view thus set forth cannot be impugned by whatever arguments may possibly be brought forward. 
 </details>

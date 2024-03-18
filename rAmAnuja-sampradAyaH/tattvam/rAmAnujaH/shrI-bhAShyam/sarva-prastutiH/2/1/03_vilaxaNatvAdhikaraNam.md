@@ -17,7 +17,7 @@ title = "०३ विलक्षणत्वाधिकरणम्"
 तथात्वं च शब्दात् ॥ 2-1-4 ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 4. Not, on account of the difference of character of that; and its being such (appears) from Scripture.
 </details>
@@ -59,7 +59,7 @@ title = "०३ विलक्षणत्वाधिकरणम्"
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The same opponent who laid stress on the conflict between Scripture and Smr̥ti now again comes forward, relying this time (not on Smr̥ti but) on simple reasoning.  
 Your doctrine, he says, as to the world being an effect of Brahman  
@@ -109,7 +109,7 @@ antagonistic to all evil, enjoying unbroken uniform blessedness.
 > इत्य्-आदिभिः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This difference in character of the world from Brahman is, moreover, not only known through Perception, and so on, but is seen to be directly stated in Scripture itself; compare 
 
@@ -136,7 +136,7 @@ and so on;
 **न केवलम्** इति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 all which texts refer to the effect, i.e. the world as being non-intelligent, of the essence of pain, and so on.  
 </details>
@@ -164,7 +164,7 @@ all which texts refer to the effect, i.e. the world as being non-intelligent, of
 यथा मृत्-सुवर्णादि-कार्यं घट-रुचकादि।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The general rule is that an effect is non-different in character from its cause; as e.g. pots and bracelets are non-different in character from their material causes--clay and gold. 
 </details>
@@ -190,7 +190,7 @@ The general rule is that an effect is non-different in character from its cause;
 > कारणं भवितुम र्हति ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The world cannot, therefore, be the effect of Brahman from which it differs in character,  
 and we hence conclude that, in agreement with the Sānkhya Smr̥ti, the Pradhāna which resembles the actual world in character must be assumed to be the general cause. 
@@ -213,7 +213,7 @@ and we hence conclude that, in agreement with the Sānkhya Smr̥ti, the Pradhān
 र्कानुगृहीतानाम् एवार्थनिश्चय-हेतुत्वम् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > Scripture, although not dependent on anything else and concerned with super-sensuous objects, must all the same come to terms with ratiocination (tarka); for all the different means of knowledge can in many cases help us to arrive at a decisive conclusion, only if they are supported by ratiocination. 
 </details>
@@ -243,7 +243,7 @@ and we hence conclude that, in agreement with the Sānkhya Smr̥ti, the Pradhān
 **ऊहा**ऽपर-पर्यायं ज्ञानम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For by tarka 
 we understand that kind of knowledge (intellectual activity)  
@@ -274,7 +274,7 @@ this kind of cognitional activity is also called ūha.
 तद्-अपेक्षा च सर्वेषां प्रमाणानां समाना;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 All means of knowledge equally stand in need of tarka; 
 </details>
@@ -294,7 +294,7 @@ All means of knowledge equally stand in need of tarka;
 सर्वत्रैव तर्कानुग्रहापेक्षा ;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Scripture however, the authoritative character of which specially depends on expectancy (ākānkshā), proximity (sannidhi), and compatibility (yogyatā), throughout requires to be assisted by tarka. 
 </details>
@@ -316,7 +316,7 @@ Scripture however, the authoritative character of which specially depends on exp
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In accordance with this Manu says,'He who investigates by means of reasoning, he only knows religious duty, and none other.' 
 </details>
@@ -338,7 +338,7 @@ In accordance with this Manu says,'He who investigates by means of reasoning, he
 तद् एव हि तर्कानुगृहीत-शास्त्रार्थ-प्रतिष्ठापनं श्रुत्या च “ मन्तव्यः" इत्युच्यते ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is with a view to such confirmation of the sense of Scripture by means of Reasoning that the texts declare that certain topics such as the Self must be 'reflected on' (mantavya).
 </details>
@@ -359,7 +359,7 @@ It is with a view to such confirmation of the sense of Scripture by means of Rea
 चैतन्यानुवृत्तिर् अभ्युपगम्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Now here it might possibly be said that as Brahman  
 is ascertained from Scripture to be the sole cause of the world,  
@@ -385,7 +385,7 @@ it must be admitted that intelligence exists in the world also, which is an effe
 – इति ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > In the same way as the consciousness of an intelligent being is not perceived  
 when it is in the states of deep sleep, swoon, &c., so the intelligent nature of jars and the like also is not observed, although it really exists;  
@@ -414,7 +414,7 @@ and it is this very difference of manifestation and non-manifestation of intelli
 अत एव चैतन्य-शक्ति-योगो ऽपि तेषु निरस्तः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But to this we reply that permanent non-perception of intelligence proves its non-existence. 
 
@@ -433,7 +433,7 @@ This consideration also refutes the hypothesis of things commonly called non-int
 वन्ध्या-सुत-समितिषु तज्-जननीनां प्रजनन-शक्तिं ब्रूताम् ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For if you maintain that a thing possesses the power of producing an effect while yet that effect is never and nowhere _seen_ to be produced by it, you may as well proclaim at a meeting of sons of barren women that their mothers possess eminent procreative power! 
 </details>
@@ -457,7 +457,7 @@ For if you maintain that a thing possesses the power of producing an effect whil
 इतीतरेतराश्रयत्वम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, to prove at first from the Vedānta-texts that Brahman is the material cause of the world, and from this that pots and the like possess potential consciousness, and therefrom the existence of non-manifested consciousness; and then, on the other hand, to start from the last principle as proved and to deduce therefrom that the Vedānta-texts prove Brahman to be the material cause of the world, is simply to argue in a circle; 
 </details>
@@ -475,7 +475,7 @@ Moreover, to prove at first from the Vedānta-texts that Brahman is the material
 प्रतिपादयितुम् एव न शक्यते ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for that the relation of cause and effect should exist between things different in character is just what cannot be proved.
 </details>
@@ -502,7 +502,7 @@ for that the relation of cause and effect should exist between things different 
 जगतो ब्रह्मोपादानता-प्रतिपादनासम्भवं ब्रूषे?  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 What sameness of character, again,  
 of causal substance and effects,  
@@ -528,7 +528,7 @@ it follows that Brahman cannot be proved to be the material cause of the world?
 कार्य-कारण-भावानुपपत्तेः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It cannot be complete sameness of all attributes, because in that case the relation of cause and effect (which after all requires _some_ difference) could not be established. 
 </details>

@@ -20,7 +20,7 @@ title = "५ उभयलिङ्गाधिकरणम्"
 जीवस्यावस्था-विशेषा निरूपिताः॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The different states of the individual soul have been discussed, to the end that an insight into their imperfections may give rise to indifference towards all worldly enjoyments. 
 </details>
@@ -45,7 +45,7 @@ The different states of the individual soul have been discussed, to the end that
 प्राप्यस्य ब्रह्मणो निर्दोषत्व-कल्याण-गुणात्मकत्व-प्रतिपादनायारभते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Next now, in order to give rise to the desire of attaining to Brahman,  
 the Sūtras proceed to expound how Brahman's nature is raised above all imperfections  
@@ -71,7 +71,7 @@ and constituted by mere blessed qualities.
 नेति विचार्यते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The following point requires to be considered first.  
 Do those imperfections which cling to the individual soul in consequence of its different states--  
@@ -94,7 +94,7 @@ affect also the highest Brahman which as its inner Ruler abides within the soul 
 कुतः? तत्-तद्-अवस्थ-शरीरे ऽवस्थानात्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --They do affect it, since Brahman abides within the bodies which are in those different states.
 </details>
@@ -124,7 +124,7 @@ affect also the highest Brahman which as its inner Ruler abides within the soul 
 > तत्-तत्-स्थान-सम्बन्धाद् दोष उच्यते? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But Sūtras such as I, 2, 8 have already declared that the highest Brahman, because not subject to the influence of karman, is free from all imperfections; how then can imperfections cling to it for the reason that it is connected with this or that place?--
 </details>
@@ -143,7 +143,7 @@ affect also the highest Brahman which as its inner Ruler abides within the soul 
 इति **देह-योगाद् वा** (शारी.३.२.५) इत्य्-अत्रोक्तम्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the following way.  
 As was shown under III, 2, 6, works give rise to imperfection and suffering in so far as they cause the connexion of the soul with a body.  
@@ -157,7 +157,7 @@ As was shown under III, 2, 6, works give rise to imperfection and suffering in s
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अनुत्थानशङ्कां परिहरति - इत्थम् इति । राज-कोप-द्वार-भूत--खड्ग-प्रहारस्येव  
 द्वार-हेतोः साक्षाद्-अपुरुषार्थ-हेतुत्वात्  
@@ -171,7 +171,7 @@ As was shown under III, 2, 6, works give rise to imperfection and suffering in s
 इतरथा कर्माण्य् एव दुःखं जनयिष्यन्ति; किं देहसम्बन्धेन;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The efficient cause therein is the imperfection inherent in the connexion with a body; for otherwise the works themselves would directly give rise to pain, and what then would be the use of the connexion with a body? 
 </details>
@@ -189,7 +189,7 @@ The efficient cause therein is the imperfection inherent in the connexion with a
 अतोऽकर्मवश्यत्वे सत्य् अपि नाना-विधाशुचि-देह-सम्बन्धो ऽपुरुषार्थ एव;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence, even in the case of a being not subject to karman, its connexion with various unholy bodies will cause imperfection and suffering. 
 </details>
@@ -207,7 +207,7 @@ Hence, even in the case of a being not subject to karman, its connexion with var
 अ-पुरुषार्थ--सम्बन्धो ऽवर्जनीयः;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And even when such a being voluntarily enters into such bodies in order to rule them, connexion with imperfections is unavoidable; 
 </details>
@@ -225,7 +225,7 @@ And even when such a being voluntarily enters into such bodies in order to rule 
 अपुरुषार्थ एव ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 no less than to be immersed in blood and purulent matter, even if done voluntarily, will make a man unclean. 
 </details>
@@ -253,7 +253,7 @@ no less than to be immersed in blood and purulent matter, even if done voluntari
 तत्र तत्रावस्थितस्य तत्-तत्-सम्बन्ध-रूपापुरुषार्थास् सन्तीति॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Although therefore Brahman is the sole cause of the world and a treasure-house of all blessed qualities, yet it is affected by the imperfections springing therefrom that, as declared by Scripture, it abides within matter, bodies, and their parts, and thus is connected with them 
 
@@ -286,7 +286,7 @@ Although therefore Brahman is the sole cause of the world and a treasure-house o
 परस्योभयलिङ्गं सर्वत्र हि ॥ 3-2-11 ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Not on account of place even (is there any imperfection) of the Highest;   
 for everywhere (it is described) as having twofold characteristics.
@@ -313,7 +313,7 @@ for everywhere (it is described) as having twofold characteristics.
 अ-पुरुषार्थ-गन्धस् सम्भवति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Of this primā facie view the Sūtra disposes by saying--'Not even from place, such as earth, soul, &c., is there possible for the highest Self a shadow even of imperfection; 
 </details>
@@ -325,7 +325,7 @@ Of this primā facie view the Sūtra disposes by saying--'Not even from place, s
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 पृथिव्यात्मादि इति ।  
 "तत्संसर्गौ च पञ्चम" इति नयाद्+++(=??)+++  
@@ -345,7 +345,7 @@ Of this primā facie view the Sūtra disposes by saying--'Not even from place, s
 कल्याण-गुणाकरत्व-लक्षणोपेतम् इत्य्-अर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 since everywhere in Scripture as well as Smr̥ti Brahman is described as having characteristics of a double kind; viz. on the one hand freedom from all imperfections, and on the other possession of all blessed qualities. 
 </details>
@@ -363,7 +363,7 @@ since everywhere in Scripture as well as Smr̥ti Brahman is described as having 
 (छा.८.१.५)  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For Scripture says that the Supreme Person is free from evil, free from old age, free from death, free from grief, free from hunger and thirst; that all his wishes realise themselves, that all its purposes realise themselves' (Cḥ. Up. VIII, 1, 5)--
 </details>
@@ -381,7 +381,7 @@ For Scripture says that the Supreme Person is free from evil, free from old age,
 > स्व-शक्ति-लेशाद् धृत-भूत-सर्गः (वि.पु.६.५.८४)  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And Smr̥ti says, 'He comprises within himself all blessed qualities, by a particle of his power the whole mass of beings is supported.'  
 </details>
@@ -401,7 +401,7 @@ And Smr̥ti says, 'He comprises within himself all blessed qualities, by a parti
 क्लेशादयस् सन्ति परावरेशे (वि.पु.६.५.८५)  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In him there are combined energy, strength, might, wisdom, valour, and all other noble qualities. He is the Highest of the high, no pain or other imperfections affect him, the Lord of all, high or low. 
 </details>
@@ -419,7 +419,7 @@ In him there are combined energy, strength, might, wisdom, valour, and all other
 विष्ण्वाख्यं परमं पदम् (वि.पु.२.२२.५३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From all evil he is free, he whose name is Vishṇu, the highest abode. 
 </details>
@@ -437,7 +437,7 @@ From all evil he is free, he whose name is Vishṇu, the highest abode.
 उभय-लक्षणं हि ब्रह्मावगतम् ॥११॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 These and other passages teach that Brahman possesses the double characteristics stated above.
 </details>
@@ -454,7 +454,7 @@ These and other passages teach that Brahman possesses the double characteristics
 प्रत्येकम् अ-तद्-वचनात् ।॥ ३–२–१२ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 1.  Should it be said 'on account of difference'; not so, because with reference to each the text says what is not that.
 </details>
@@ -481,7 +481,7 @@ These and other passages teach that Brahman possesses the double characteristics
 प्रत्येकम् अ-तद्-वचनात्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, an objection is raised,  
 we observe,  
@@ -515,7 +515,7 @@ i.e. what is contrary.
 यथा जीवस्य प्रजापतिवाक्यावगतापहतपाप्मत्वाद्युभयलिङ्गस्यापि देवादिदेहयोगरूपावस्था-भेदादपुरुषार्थयोगः, तथाऽन्तर्यामिणः परस्यापि स्वतोऽपहतपाप्मत्वाद्युभयलिङ्गस्य तत्तद्देवादिशरीरयोग-रूपावस्थाभेदादपुरुषार्थयोगोऽवर्जनीय इति चेत् तन्न, प्रत्येकमतद्वचनात्
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 जीवस्योभय-सलिङ्गकत्वेऽपि तत्-तद्-देह-योग-रूपावस्था-भेदेन ह्य् अ-पुम्-अर्थः, तथा परस्यापीत्य्-अर्थः ।  
 
@@ -534,7 +534,7 @@ i.e. what is contrary.
 +++(नित्य-जीवात्म-सहित-)+++तत्-तत्-सम्बन्ध-प्रयुक्तापुरुषार्थ-प्रतिषेधात् ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For where the text says that  
 the inner Ruler dwells within the earth,  
@@ -560,7 +560,7 @@ which he voluntarily enters in order to rule them.
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 आवृत्तत्वात्  
 क्षित्य्-आदि-संबन्धस्य जीवस्य  
@@ -578,7 +578,7 @@ which he voluntarily enters in order to rule them.
 इत्य्-अत्रोक्तम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The true (perfect) nature of the individual soul, on the other hand, is obscured as long as it is connected with a body, as we have explained under III, 2, 5.--
 </details>
@@ -590,7 +590,7 @@ The true (perfect) nature of the individual soul, on the other hand, is obscured
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 जीवस्य तिरो-धानादि-श्रुति-वशाद्  
 उभय-लिङ्गत्व-श्रुति-सङ्कोचः ,  
@@ -608,7 +608,7 @@ The true (perfect) nature of the individual soul, on the other hand, is obscured
 नैतद् युक्तम्
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, as the Pūrvapakshin has pointed out, even if the highest Self voluntarily enters into bodies, it cannot escape connexion with the imperfections which depend on the essential nature of those bodies.--Not so, we reply. 
 </details>
@@ -626,7 +626,7 @@ But, as the Pūrvapakshin has pointed out, even if the highest Self voluntarily 
 स्व-भावतो ऽपुरुषार्थ--स्व-रूपम्;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The fact is, that not even non-sentient things are, essentially or intrinsically, bad; 
 </details>
@@ -636,7 +636,7 @@ The fact is, that not even non-sentient things are, essentially or intrinsically
 नह्यचिद्वस्त्वपि स्वभावतोऽपुरुषार्थस्वरूपम्;
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 न हि इति । वस्तु-स्व-भावायत्तत्वाभावान् नापुम्-अर्थत्वम् इत्यर्थः ।  
 </details>
@@ -652,7 +652,7 @@ The fact is, that not even non-sentient things are, essentially or intrinsically
 सुखाय दुःखाय च भवति;
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but in accordance with the nature of the works of those beings which are under the rule of karman, one thing, owing to the will of the Supreme Person, causes pain to one man at one time and pleasure at another time, and causes pleasure or pain to one person and the opposite to another person. 
 </details>
@@ -671,7 +671,7 @@ but in accordance with the nature of the works of those beings which are under t
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 If the effects of things depended on their own nature only, everything would at all times be productive for all persons, either of pleasure only or of pain only. But this is not observed to be the case. 
 </details>
@@ -681,7 +681,7 @@ If the effects of things depended on their own nature only, everything would at 
 वस्तुस्वरूपप्रयुक्ते तु ताद्रूप्ये सर्वं सर्वदा सर्वस्य सुखायैव दुःखायैव वा स्यात्; नचैवं दृश्यते;
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 ताद्रूप्ये - सुखदुःखहेतुत्वे । न ह्येकस्य विरुद्धमाकारद्वयं स्वभाव इति भावः । 
 </details>
@@ -698,7 +698,7 @@ If the effects of things depended on their own nature only, everything would at 
 > वस्तु वस्त्व्-आत्मकं कुतः।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In agreement herewith Smr̥ti says, 
 
@@ -719,7 +719,7 @@ In agreement herewith Smr̥ti says,
 > वस्तु वस्त्वात्मकं कुतः।  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 न परमुपपत्त्या कर्मनिबन्धनत्वं क्लृप्तम् , कण्ठोक्तं चेत्याह - तथा च इति । 
 
@@ -741,7 +741,7 @@ In agreement herewith Smr̥ti says,
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 
 > As the same thing  
@@ -765,7 +765,7 @@ In agreement herewith Smr̥ti says,
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 कालभेदेनैकस्यैकं प्रति तद्धेतुत्वमाह - तदेव इति ॥ 12 ॥
 </details>
@@ -779,7 +779,7 @@ In agreement herewith Smr̥ti says,
 तत्-तद्-वस्तु-सम्बन्ध एवापुरुषार्थस् स्यात्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 To the soul therefore which is subject to karman the connexion with different things is the source of imperfection and suffering, in agreement with the nature of its works; 
 </details>
@@ -797,7 +797,7 @@ To the soul therefore which is subject to karman the connexion with different th
 तत्-तद्-विचित्र-नियमन-रूप-लीला-रसायैव स्यात्॥१२॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while to the highest Brahman, which is subject to itself only, the same connexion is the source of playful sport, consisting therein that he in various ways guides and rules those things.
 </details>
@@ -815,7 +815,7 @@ while to the highest Brahman, which is subject to itself only, the same connexio
 **३२७. अपि चैवमेके ॥ ३–२–१३ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 13. Some also (teach) thus.
 </details>
@@ -836,7 +836,7 @@ while to the highest Brahman, which is subject to itself only, the same connexio
 नियमन-रूपैश्वर्यायत्त-दीप्ति-योगं च स्व-शब्देनाधीयते – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, the followers of one śākhā explicitly teach that the connexion with one and the same body is for the individual soul a source of disadvantage, while for the highest Brahman it is nothing of the kind, but constitutes an accession of glory in so far as it manifests him as a Lord and Ruler, 
 </details>
@@ -847,7 +847,7 @@ Moreover, the followers of one śākhā explicitly teach that the connexion with
 अपि च एके शाखिनः एकस्मिन्नेव देहसंयोगे जीवस्यापुरुषार्थं परस्य तु तदभावं नियमनरूपैश्वर्यायत्तदीप्तियोगं च स्वशब्देनाधीयते – 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अपि चैवमेके । स्फुटम् ॥ 13 ॥
 </details>
@@ -863,7 +863,7 @@ Moreover, the followers of one śākhā explicitly teach that the connexion with
 इति ॥१३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Two birds, inseparable friends, cling to the same tree. One of them eats the sweet fruit, the other looks on without eating' (Mu. Up. III, 1, 1).--
 </details>
@@ -890,7 +890,7 @@ Moreover, the followers of one śākhā explicitly teach that the connexion with
 तन्-नाम-भाक्त्वं चास्ति,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But the text, 'Having entered by means of that jīva-self I will differentiate names and forms,' 
 
@@ -910,7 +910,7 @@ and is to be denominated by the corresponding names.
 अथ स्यात् – **अनेन जीवेनाऽत्मनाऽनुप्रविश्य नामरूपे व्याकरवाणि** (छा.६-३-२) इति ब्रह्मात्मकजीवानुप्रवेशपूर्वकं नामरूपव्याकरणमिति ब्रह्मणोऽपि तदात्मभूतस्य देवमनुष्यादिरूपत्वं तन्नामभाक्त्वं चास्ति,
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अनन्तरसूत्रशङ्कामाह - अथ स्यात् इति ।  
 अरूपवद् एव हि तत्-प्रधानत्वात् । 
@@ -923,7 +923,7 @@ and is to be denominated by the corresponding names.
 – तत्राह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman thus falls within the sphere of beings to which injunctions and prohibitions are addressed--such as 'a Brāhmaṇa is to sacrifice'--and hence necessarily is under the power of karman.--To this the next Sūtra replies.
 </details>
@@ -942,7 +942,7 @@ Brahman thus falls within the sphere of beings to which injunctions and prohibit
 तत्-प्रधानत्वात् ॥ ३–२–१४ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 14. For (Brahman is) without form merely, since it is the principal agent with regard to that.
 </details>
@@ -961,7 +961,7 @@ Brahman thus falls within the sphere of beings to which injunctions and prohibit
 **अ-रूपवद् एव** तद् ब्रह्म  
 रूप-त्रहित-तुल्यम् एव; 
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman, although by entering into bodies, human, divine, and so on, it becomes connected with various forms, yet is in itself altogether devoid of form, 
 </details>
@@ -976,7 +976,7 @@ Brahman, although by entering into bodies, human, divine, and so on, it becomes 
 जीववच् छरीरित्व-निबन्धनं कर्म-वश्यत्वम् अस्य न विद्यत इत्यर्थः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and therefore does not share that subjection to karman  
 which in the case of the soul is due to its embodiedness.
@@ -988,7 +988,7 @@ which in the case of the soul is due to its embodiedness.
 जीववच्छरीरित्वनिबन्धनं कर्मवश्यत्वमस्य न विद्यत इत्यर्थः । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 केनाकारेणारूपतुल्यत्वमित्यत्राह - जीववत् इति ।  
 </details>
@@ -998,7 +998,7 @@ which in the case of the soul is due to its embodiedness.
 कुतः? निर्वाहकत्वेन **प्रधानत्वात्** । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Why?--Because as it is that which brings about names and forms it stands to them in the relation of a superior (pradhāna). 
 </details>
@@ -1019,7 +1019,7 @@ which in the case of the soul is due to its embodiedness.
 ब्रह्मणः प्रतिपादयति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the text, 'The Ether (Brahman) indeed is the accomplisher of names and forms; that which is without these two is Brahman,' teaches that Brahman, although entering into all beings, is not touched by name and form, but is that which brings about name and form.
 </details>
@@ -1037,7 +1037,7 @@ For the text, 'The Ether (Brahman) indeed is the accomplisher of names and forms
 कथम् अ-रूपवद् इति रूप-सम्बन्ध-रहित-तुल्यत्वम् उच्यते?
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But, an objection is raised, if Brahman is the inner ruler of beings in so far as he has them for its body, how can it be said that it is altogether destitute of form?--
 </details>
@@ -1049,7 +1049,7 @@ For the text, 'The Ether (Brahman) indeed is the accomplisher of names and forms
 ननु तच्छरीरकत्वेन तदन्तर्यामित्वे कथमरूपवदिति रूपसम्बन्धरहिततुल्यत्वमुच्यते?
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 ननु इति । कथं कार्यानन्वयः , नियमनादिकार्यान्वयात् धीशब्दपर्यवसानेन कर्मवश्यत्वान्वयाच्चेत्यर्थः । 
 </details>
@@ -1062,7 +1062,7 @@ For the text, 'The Ether (Brahman) indeed is the accomplisher of names and forms
 तथा तद्-अभावात् परस्यारूपवत्त्वम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 There is a difference, we reply. The individual soul is connected with the shape of the body in which it dwells because it participates in the pleasures and pains to which the body gives rise; but as Brahman does not share those pleasures and pains, it has no shape or form. 
 </details>
@@ -1073,7 +1073,7 @@ There is a difference, we reply. The individual soul is connected with the shape
 इत्थं – यथा जीवस्य तत्तज्जन्यसुखदुःखभाक्त्वेन तत्तद्रूपसम्बन्धः, तथा तदभावात्परस्यारूपवत्त्वम्। 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 परिहगति - इत्थम् इति । सुख-दुःख-कार्य-विशेषास्पर्शो विवक्षितः ,  
 न तु नियमनाद्य्-अ-स्पर्शः । 
@@ -1086,7 +1086,7 @@ There is a difference, we reply. The individual soul is connected with the shape
 तस्माद् अ-रूप-तुल्यम् एव परं ब्रह्म। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the scriptural injunctions and prohibitions apply to those only who are under the power of karman. The highest Brahman therefore is like a being without form, 
 </details>
@@ -1097,7 +1097,7 @@ And the scriptural injunctions and prohibitions apply to those only who are unde
 विधिनिषेधशास्त्राण्यपि कर्मवश्यमेवाधिकुर्वन्ति; तस्मादरूपतुल्यमेव परं ब्रह्म। 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 धीशब्दपर्यवसायिकं कर्मान्वयं परिहरति - विधि इति ।  
 निष्कर्षक-शब्दवत् ब्राह्मणादि-शब्दाः जीव-पर्यन्ताः स्युः ।  
@@ -1115,7 +1115,7 @@ And the scriptural injunctions and prohibitions apply to those only who are unde
 ब्रह्म निरस्त-निखल-दोषत्व--  
 कल्याण-गुणाकरत्व-रूपोभय-लिङ्गम् एव ॥१४॥
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and hence, although abiding within all things, free from all imperfection and endowed with all blessed qualities.
 </details>
@@ -1138,7 +1138,7 @@ and hence, although abiding within all things, free from all imperfection and en
 > इत्य्-आदिभिर् निर्विशेष-प्रकाशैक-स्वरूपं ब्रह्मावगम्यते,
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But, an objection is raised, texts such as 'the True, knowledge, infinite is Brahman' suggest a Brahman whose nature is constituted exclusively by non-differentiated light; 
 </details>
@@ -1160,7 +1160,7 @@ But, an objection is raised, texts such as 'the True, knowledge, infinite is Bra
 मिथ्या-भूतम् इत्य् अवगन्तव्यम्;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 while at the same time a Brahman endowed with qualities--such as omniscience, being the cause of the world, being the inner Self of all, having the power of immediately realising its wishes and purposes--is expressly negatived by texts such as 'not so, not so' (Br̥. Up. II, 3, 6), and therefore must be held to be false. 
 </details>
@@ -1173,7 +1173,7 @@ while at the same time a Brahman endowed with qualities--such as omniscience, be
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अनन्तरसूत्रमवतारयति - ननु च इति । आर्थश्रौतनिषेधौ दर्शितौ ।
 </details>
@@ -1187,7 +1187,7 @@ while at the same time a Brahman endowed with qualities--such as omniscience, be
 अत आह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How then can it be maintained that Brahman possesses the 'twofold characteristics' mentioned under Sūtra 11?--  
 To this the next Sūtra replies.
@@ -1206,7 +1206,7 @@ To this the next Sūtra replies.
 **३२९. प्रकाशवच् चावैयर्थ्यात् +++(शास्त्राणाम् उभयलिङ्गम् एव ब्रह्म)+++ ॥ ३–२–१५ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 15. And in the same way as (a Brahman) consisting of light; (the texts thus) not being devoid of meaning.
 </details>
@@ -1227,7 +1227,7 @@ To this the next Sūtra replies.
 अभिधायि-वाक्यावैयर्थ्याद् उभयलिङ्गम् एव ब्रह्म ॥१५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In order that texts such as 'the True, knowledge, infinite is Brahman' may not be devoid of meaning, we have to admit that light (intelligence) constitutes the essential nature of Brahman. But analogously we have also to admit that Brahman possesses the 'twofold characteristics'; for otherwise the texts declaring it to be free from all imperfections, all-knowing, the cause of the world, and so on, would in their turn be devoid of meaning.
 </details>
@@ -1239,7 +1239,7 @@ In order that texts such as 'the True, knowledge, infinite is Brahman' may not b
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 प्रकाशवच् चावैयर्थ्यात् ।  
 व्याप्त्या चेत् ,  
@@ -1260,7 +1260,7 @@ In order that texts such as 'the True, knowledge, infinite is Brahman' may not b
 **३३०. आह च तन्+++(→प्रकाशवत्व)+++-मात्रम् ॥ ३–२–१६ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 16. And (the text) says so much only.
 </details>
@@ -1282,7 +1282,7 @@ In order that texts such as 'the True, knowledge, infinite is Brahman' may not b
 **नेति नेति** (बृ.४.३.६) इति च निषेधविषयोऽनन्तरमेव वक्ष्यते॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover the text 'the True, knowledge, infinite is Brahman' only teaches that Brahman has light for its essential nature, and does not negative those other attributes of Brahman--omniscience, being the cause of the world, &c.--which are intimated by other texts.  
 What is the object of the negation in 'not so, not so' will be shown further on.
@@ -1294,7 +1294,7 @@ What is the object of the negation in 'not so, not so' will be shown further on.
 किञ्च **सत्यं ज्ञानमनन्तम्** (तै.आन.१.१) इत्यादिवाक्यं ब्रह्मणः प्रकाशस्वरूपतामात्रं प्रतिपादयति, नान्यत्सत्यसङ्कल्पत्वादिकं वाक्यान्तरावगतं निषेधति, **नेति नेति** (बृ.४.३.६) इति च निषेधविषयोऽनन्तरमेव वक्ष्यते॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 आह च तन्-मात्रम् ।  
 सूत्राभ्यां विरोधाभ्युपगमेन  
@@ -1309,7 +1309,7 @@ What is the object of the negation in 'not so, not so' will be shown further on.
 **३३१. दर्शयति चाथो अपि स्मर्यते ॥ ३–२–१७ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 17. (This Scripture) also shows, and it is also stated in Smr̥ti.
 </details>
@@ -1320,7 +1320,7 @@ What is the object of the negation in 'not so, not so' will be shown further on.
 **३३१. दर्शयति चाथो अपि स्मर्यते ॥ ३–२–१७ ॥**
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 दर्शयति चाथा अपि स्मर्यते ।  
 प्रथमे सूत्रे स्वपक्षमूलतया मानं दर्शितम् ।  
@@ -1335,7 +1335,7 @@ What is the object of the negation in 'not so, not so' will be shown further on.
 निरस्त-निखिल-दोषत्वं च
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That Brahman is a treasure as it were of all blessed qualities and free from all imperfections, the whole body of Vedānta-texts clearly declares: 
 </details>
@@ -1346,7 +1346,7 @@ That Brahman is a treasure as it were of all blessed qualities and free from all
 दर्शयति च वेदान्तगणः कल्याणगुणाकरत्वं निरस्तनिखिलदोषत्वं च
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 वेदान्तगण इति ।  
 अथो-शब्दः प्रमाणकार्त्स्न्यपर इति भावः ।  
@@ -1361,7 +1361,7 @@ That Brahman is a treasure as it were of all blessed qualities and free from all
 > तं दैवतानां परमं च दैवतम्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'That highest great lord of lords, that highest deity of deities'; 
 </details>
@@ -1379,7 +1379,7 @@ That Brahman is a treasure as it were of all blessed qualities and free from all
 न चास्य कश्चिज् जनिता न चाधिपः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He is the cause, the lord of the lords of the organs, and there is of him neither parent nor lord '; 
 </details>
@@ -1396,7 +1396,7 @@ That Brahman is a treasure as it were of all blessed qualities and free from all
 न तत्-समश् चाभ्यधिकश् च दृश्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'There is no effect and no cause known of him, no one is seen like unto him or higher. 
 </details>
@@ -1414,7 +1414,7 @@ That Brahman is a treasure as it were of all blessed qualities and free from all
 स्वाभाविकी ज्ञान-बल-क्रिया च (श्वे.६.७,८)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 His high power is revealed as manifold, as essential action of knowledge and strength' (Śvet. Up. VI, 7-9); 
 </details>
@@ -1432,7 +1432,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 यस्य ज्ञानमयं तपः (मु.१.१.९)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He who is all-knowing, whose brooding consists of knowledge' (Mu. I, 1,9); 
 </details>
@@ -1449,7 +1449,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 भीषोदेति सूर्यः (तै.आ.८.४)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'From fear of him the wind blows, from fear of him the sun moves'; 
 </details>
@@ -1466,7 +1466,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'That is one bliss of Brahman' (Taitt. Up. II, 8); 
 </details>
@@ -1485,7 +1485,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 **न बिभेति** कुतश्चनेति (तै.आ.९.१) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'That from which all speech with the mind turns away, not having reached it, knowing the bliss of that Brahman man fears nothing' (Taitt. Up. II, 9); 
 </details>
@@ -1505,7 +1505,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 इत्य्-आदि ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He who is without parts, without action, tranquil, without fault, without taint' (Śvet. Up. VI, l9).
 </details>
@@ -1517,7 +1517,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 निर्दोषत्वं दर्शयति - निष्कलं ... ... निरवद्यम् इत्यादिना ।  
 सामान्य-विशेष-गो-बलीवर्द-नयाव् अभिप्रेतौ ॥ 17 ॥
@@ -1533,7 +1533,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 > वेत्ति लोकमहेश्वरम् (भ.गी.१०.३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --And Smr̥ti: 'He who knows me to be unborn and without a beginning, the Supreme Lord of the worlds'; 
 </details>
@@ -1551,7 +1551,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 एकांशेन स्थितो जगत् (भ.गी.१०.४२) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'Pervading this entire universe, by one part of mine I do abide'; 
 </details>
@@ -1571,7 +1571,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 (भ.गी.९.१०)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'With me as supervisor Prakr̥ti brings forth the universe of the movable and the immovable, and for this reason the world does ever move round'; 
 </details>
@@ -1590,7 +1590,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 **बिभर्त्य्** अव्यय ईश्वरः (भ.गी.१५.१७)
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'But another is the Supreme Person, who is called the Supreme Spirit, who pervading the three worlds supports them--the eternal Lord' (Bha. Gī. X, 3; 42; IX, 10; XV, 17);
 </details>
@@ -1615,7 +1615,7 @@ His high power is revealed as manifold, as essential action of knowledge and str
 > (वि.पु.५.१.४७,४८,४९) इत्यादिः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'The all-working, all-powerful one, rich in knowledge and strength,  
 who becomes neither less nor more,  
@@ -1639,7 +1639,7 @@ the blameless one, raised above all, without support, imperishable.'--
 न परं ब्रह्म स्पृशन्ति ॥१७॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As thus Brahman in whatever place it may abide has the 'twofold characteristics,' the imperfections dependent on those places do not touch it.
 </details>
@@ -1659,7 +1659,7 @@ As thus Brahman in whatever place it may abide has the 'twofold characteristics,
 **३३२. अत एव चोपमा +++(प्रतिबिम्बित-)+++सूर्यकादिवत् ॥ ३–२–१८ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 18. For this very reason comparisons, such as reflected images of the sun and the like.
 </details>
@@ -1680,7 +1680,7 @@ As thus Brahman in whatever place it may abide has the 'twofold characteristics,
 इति शास्त्रेषूपमा क्रियते – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Because Brahman, although abiding in manifold places, ever possesses the twofold characteristics, and hence does not share the imperfections due to those places, scriptural texts illustrate its purity in the midst of inferior surroundings by comparing it to the sun reflected in water, mirrors, and the like. 
 </details>
@@ -1691,7 +1691,7 @@ Because Brahman, although abiding in manifold places, ever possesses the twofold
 यतो नानाविधेषु स्थानेषु स्थितस्यापि परस्य ब्रह्मणो न तत्प्रयुक्तदोषभाक्त्वम्, अत एव जलदर्पणादिप्रतिबिम्बितसूर्यादिवत्परमात्मा तत्रतत्रावस्थितोऽपि निर्दोष इति शास्त्रेषूपमा क्रियते – 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अत एव चोपमा सूर्यकादिवत् । तथात्मैकः इति । एकस्वभाव इत्यर्थः ॥ 18 ॥
 </details>
@@ -1711,7 +1711,7 @@ Because Brahman, although abiding in manifold places, ever possesses the twofold
 (याज्ञवल्क्य.३.१४४) इत्य्-आदिषु॥१८॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Compare e.g., 'As the one ether is rendered manifold by jars and the like, or as the one sun becomes manifold in several sheets of water; thus the one Self is rendered manifold by abiding in many places. For the Self of all beings, although one, abides in each separate being and is thus seen as one and many at the same time, as the moon reflected in water.'
 </details>
@@ -1732,7 +1732,7 @@ Compare e.g., 'As the one ether is rendered manifold by jars and the like, or as
 न तथात्वम् +++(ब्रह्मणो नाना-वस्तु-गतस्य)+++॥ ३–२–१९ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 19. But because it is not apprehended like water, there is no equality.
 </details>
@@ -1751,7 +1751,7 @@ Compare e.g., 'As the one ether is rendered manifold by jars and the like, or as
 तुशब्दश्चोद्यं द्योतयति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The 'but' indicates an objection.--
 </details>
@@ -1779,7 +1779,7 @@ The 'but' indicates an objection.--
 परमात्मा गृह्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The highest Self is not apprehended in earth and other places in the same way as the sun or a face is apprehended in water or a mirror. 
 </details>
@@ -1798,7 +1798,7 @@ The highest Self is not apprehended in earth and other places in the same way as
 न परमार्थतस् तत्र-स्थाः । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For the sun and a face are erroneously apprehended as abiding in water or a mirror; they do not really abide there. 
 </details>
@@ -1824,7 +1824,7 @@ For the sun and a face are erroneously apprehended as abiding in water or a mirr
 परमात्मा पृथिव्यादिषु स्थितो गृह्यते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 When, on the other hand, Scripture tells us that the highest Self dwells in the earth, in water, in the soul, &c., we apprehend it as really dwelling in all those places. 
 </details>
@@ -1841,7 +1841,7 @@ When, on the other hand, Scripture tells us that the highest Self dwells in the 
 तत्र-तत्र स्थित्य्-अभावाद् एव। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the imperfections caused by water and mirrors do not attach themselves to the sun or a face is due to the fact that the sun and the face do not really abide in the water and the mirror. 
 </details>
@@ -1859,7 +1859,7 @@ That the imperfections caused by water and mirrors do not attach themselves to t
 दार्ष्टान्तिकस्य न दृष्टान्त-तुल्यत्वम्  
 इत्य् अर्थः ॥१९॥
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence there is no real parallelism between the thing compared (the highest Self) and the thing to which it is compared (the reflected image).
 </details>
@@ -1870,7 +1870,7 @@ Hence there is no real parallelism between the thing compared (the highest Self)
 अतो न तथात्वं – दार्ष्टान्तिकस्य न दृष्टान्ततुल्यत्वमित्यर्थः ॥१९॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अम्बुवद् अग्रहणात् तु  
 न तथात्वम् ।  
@@ -1891,7 +1891,7 @@ Hence there is no real parallelism between the thing compared (the highest Self)
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 1.  The participation (on Brahman's part) in increase and decrease, due to its abiding within (is denied); on account of the appropriateness of both (comparisons), and because thus it is seen.
 </details>
@@ -1915,7 +1915,7 @@ Hence there is no real parallelism between the thing compared (the highest Self)
 सूर्यादि-दृष्टान्तेन **निवर्त्यते**। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The comparison of the highest Self to the reflected sun and the rest is meant only to deny of the Self that it participates in the imperfections--such as increase, decrease, and the like--which attach to the earth and the other beings within which the Self abides.--
 </details>
@@ -1931,7 +1931,7 @@ The comparison of the highest Self to the reflected sun and the rest is meant on
 कथमिदमवगम्यते? 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How do we know this?--
 </details>
@@ -1950,7 +1950,7 @@ How do we know this?--
 इति निश्चीयते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 From the circumstance that on this supposition both comparisons are appropriate. 
 </details>
@@ -1973,7 +1973,7 @@ From the circumstance that on this supposition both comparisons are appropriate.
 समञ्जसं भवति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the scriptural text quoted above Brahman is compared to ether,  
 which although one becomes manifold through the things--jars and so on--within it;  
@@ -1990,7 +1990,7 @@ only if they are meant to convey the idea that the highest Self does not partici
 आकाशमेकं हि यथा घटादिषु पृथग्भवेत्, **जलधारेष्विवांशुमान्** (याज्ञ.प्राय.३.१४४) इति दोषवत्स्वनेकेषु वस्तुषु वस्तुतोऽवस्थितस्य आकाशस्य, वस्तुतोऽनवस्थितस्यांशुमतश्चोभयस्य दृष्टान्तस्योपादानं हि परमात्मनः पृथिव्यादिगत-दोषभाक्त्वनिवर्तनमात्रे प्रतिपाद्ये समञ्जसं भवति । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 वृद्धि-ह्रास-भाक्त्वम् अन्तर्भावाद् उभयसामञ्जस्यादेवं दर्शनाच्च ।  
 "समञ्जंसं भवति ।" इत्यन्तेन भाष्येण  
@@ -2015,7 +2015,7 @@ only if they are meant to convey the idea that the highest Self does not partici
 कल्याण-गुणाकर एव।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Just as ether, although connecting itself separately with jars, pots, and so on, which undergo increase and decrease, is not itself touched by these imperfections; and just as the sun, although seen in sheets of water of unequal extent, is not touched by their increase and decrease; thus the highest Self, although abiding within variously-shaped beings, whether non-sentient like earth or sentient, remains untouched by their various imperfections--increase, decrease, and so on--,remains one although abiding in all of them, and ever keeps the treasure of its blessed qualities unsullied by an atom even of impurity.
 </details>
@@ -2026,7 +2026,7 @@ Just as ether, although connecting itself separately with jars, pots, and so on,
 घटकरकादिषु यथा वृद्धिह्रासभाक्षु पृथक्पृथक्संयुज्यमानमप्याकाशं वृद्धिह्रासादिदोषैर्न स्पृश्यते; यथा च जलाधारेषु विषमेषु दृश्यमानोंऽशुमान् तद्गतवृद्धिह्रासादिभिर्न स्पृश्यते; तथाऽयं परमात्मा पृथिव्यादिषु नानाकारेष्वचेतनेषु चेतनेषु च स्थितस्तत्तद्गतवृद्धिह्रासादिदोषैरसंस्पृष्टस्सर्वत्र वर्तमानोऽप्येक एव अस्पृष्टदोषगन्धः कल्याणगुणाकर एव।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 स्मृति-वचोऽर्थम् आह - घट इति ।  
 </details>
@@ -2042,7 +2042,7 @@ Just as ether, although connecting itself separately with jars, pots, and so on,
 न दोष-सम्बन्धः – इति।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --The comparison of Brahman with the reflected sun holds good on the following account. As the sun is not touched by the imperfections belonging to the water, since he does not really abide in the water and hence there is no reason for his sharing those imperfections, thus the highest Self,which really abides within earth and the rest, is not affected by their imperfections;  
 for as the nature of the highest Self is essentially antagonistic to all imperfection,  
@@ -2055,7 +2055,7 @@ there is no reason for its participating in the imperfection of others.--
 एतदुक्तं भवति – यथा जलादिषु वस्तुतोऽनवस्थितस्यांशुमतो हेत्वभावाज्जलादि-दोषानभिष्वङ्गः तथा पृथिव्यादिष्ववस्थितस्यापि परमात्मनो दोषप्रत्यनीकाकारतया दोषहेत्वभावान्न दोषसम्बन्धः – इति।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 दृष्टान्त-द्वयं किम्-अर्थं, दोषास्पर्शस्यानुगत-हेतुः क इत्य्-अत्राह - एतद् उक्तम् इति।  
 
@@ -2078,7 +2078,7 @@ there is no reason for its participating in the imperfection of others.--
 "सिंह इव माणवक" इत्यादौ। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'And as this is seen.'  
 This means--  
@@ -2094,7 +2094,7 @@ We say, e.g. 'this man is like a lion.'--
 दर्शनाच्च – दृश्यते चैवं सर्वात्मना साधर्म्याभावेऽपि विवक्षितांशसाधर्म्याद्दृष्टान्तोपादानं, सिंह इव माणवक इत्यादौ। 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 दर्शनाच्च इति सूत्रांशः ॥ 20 ॥
 </details>
@@ -2106,7 +2106,7 @@ We say, e.g. 'this man is like a lion.'--
 न दोष-सम्भवः ॥२०॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The conclusion from all this is that the highest Self, which is essentially free from all imperfections and a treasure as it were of all blessed qualities, in no way suffers from dwelling within the earth and the rest.
 </details>
@@ -2129,7 +2129,7 @@ The conclusion from all this is that the highest Self, which is essentially free
 इति (बृ.४.३.१) इति प्रकृत्य  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 An objection is raised. In the Br̥had-āraṇyaka, in the chapter beginning 'There are two forms of Brahman, the material and the immaterial,' 
 </details>
@@ -2139,7 +2139,7 @@ An objection is raised. In the Br̥had-āraṇyaka, in the chapter beginning 'Th
 
 अथ स्यात् – **द्वे वाव ब्रह्मणो रूपे मूर्तं चामूर्तमेव च** इति (बृ.४.३.१) इति प्रकृत्य  
 </details>
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अनन्तरसूत्रशङ्कामाह - अथ स्यात् इति । 
 </details>
@@ -2151,7 +2151,7 @@ An objection is raised. In the Br̥had-āraṇyaka, in the chapter beginning 'Th
 ब्रह्मणो रूपत्वेन परामृश्य  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 the whole material world, gross and subtle, is at first referred to as constituting the form of Brahman, 
 </details>
@@ -2171,7 +2171,7 @@ the whole material world, gross and subtle, is at first referred to as constitut
 इत्यादिना आकार-विशेषं चाभिधाय
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and next a special form of Brahman is mentioned: 'And what is the form of that Person? Like a saffron-coloured raiment,' &c. 
 </details>
@@ -2182,7 +2182,7 @@ and next a special form of Brahman is mentioned: 'And what is the form of that P
 **तस्य ह वा एतस्य पुरुषस्य रूपं यथा माहारजनं वासः** (बृ.४.३.६) इत्यादिना आकारविशेषं चाभिधाय
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 महारजनं - कुसुम्भः ।  
 </details>
@@ -2201,7 +2201,7 @@ and next a special form of Brahman is mentioned: 'And what is the form of that P
 तत्सर्वं प्रतिषिध्य 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 But thereupon the text proceeds, 
 
@@ -2226,7 +2226,7 @@ But thereupon the text proceeds,
 सर्व-विशेषाधिष्ठानं  
 सन्-मात्रम् एव ब्रह्म;  
 </details>
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 intimating thereby that Brahman is nothing else than pure Being, 
 </details>
@@ -2244,7 +2244,7 @@ intimating thereby that Brahman is nothing else than pure Being,
 इति दर्शयति; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 and that all distinctions are mere imaginations due to Brahman not knowing its own essential nature. 
 </details>
@@ -2261,7 +2261,7 @@ and that all distinctions are mere imaginations due to Brahman not knowing its o
 अतः कथम् उभयिलङ्गत्वं ब्रह्मण इति – अत्राह –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 How then can Brahman possess the twofold characteristics?--To this the next Sūtra replies.
 </details>
@@ -2281,7 +2281,7 @@ How then can Brahman possess the twofold characteristics?--To this the next Sūt
 > ततो ब्रवीति च भूयः ॥ ३–२–२१ ॥+++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 21. For the text denies the previously declared so-muchness; and declares more than that.
 </details>
@@ -2300,7 +2300,7 @@ How then can Brahman possess the twofold characteristics?--To this the next Sūt
 तथा सति भ्रान्ति-जल्पितायमानत्वात् । +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 It is impossible to understand the text 'not so, not so' as negativing those distinctions of Brahman which had been stated previously.  
 If the text meant that, it would be mere idle talk.  
@@ -2321,7 +2321,7 @@ If the text meant that, it would be mere idle talk.
 पुनस् **तद् एवानुन्मत्तः प्रतिषेधति** । +++(5)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 For none but a person not in his right mind  
 would first teach that all the things mentioned in the earlier part of the section are distinctive attributes of Brahman--  
@@ -2335,7 +2335,7 @@ and thereupon deliberately ~~negative~~ negate his own teaching.
 न हि ब्रह्मणो विशेषणतया प्रमाणान्तराप्रज्ञातं सर्वं तद्विशेषणत्वेनोपदिश्य पुनस्तदेवानुन्मत्तः प्रतिषेधति । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अनूद्य निषेधतीति  
 न भ्रान्त-जल्प-कल्पता इत्यत्राह -  
@@ -2350,7 +2350,7 @@ and thereupon deliberately ~~negative~~ negate his own teaching.
 इतरेषां तु स्वरूपं ब्रह्मणः प्रकारत्वं चाज्ञातम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Although among the things mentioned there are some which, in themselves, are known through other means of proof, yet they are not thus known to be modes of Brahman, and others again are known neither in themselves nor as modes of Brahman. 
 </details>
@@ -2366,7 +2366,7 @@ Although among the things mentioned there are some which, in themselves, are kno
 अतस् तेषाम् अनुवादासम्भवाद् अत्रैवोपदिश्यन्ते।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The text therefore cannot merely refer to them as things otherwise known, but gives fundamental instruction about them. 
 </details>
@@ -2382,7 +2382,7 @@ The text therefore cannot merely refer to them as things otherwise known, but gi
 अतस् तन्निषेधो नोपपद्यते ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Hence the later passage cannot be meant as a sheer negation, 
 </details>
@@ -2392,7 +2392,7 @@ Hence the later passage cannot be meant as a sheer negation,
 अतस्तन्निषेधो नोपपद्यते ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 नोपपद्यते इत्यन्तेन हि शब्दाभिप्रायो विवृतः । 
 </details>
@@ -2405,7 +2405,7 @@ Hence the later passage cannot be meant as a sheer negation,
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but must be taken as denying the previously described 'so-muchness' of Brahman; 
 </details>
@@ -2426,7 +2426,7 @@ but must be taken as denying the previously described 'so-muchness' of Brahman;
 इति प्रतिषिध्यते।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 i.e. the passage denies that limited nature of Brahman which would result from Brahman being viewed as distinguished by the previously stated attributes only. 
 </details>
@@ -2455,7 +2455,7 @@ i.e. the passage denies that limited nature of Brahman which would result from B
 साऽत्र इति शब्देन परामृश्यत इत्यर्थः। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The word śo refers to that limited nature, and the phrase _not so_ therefore means that Brahman is not distinguished by the previously stated modes _only_. 
 </details>
@@ -2466,7 +2466,7 @@ The word śo refers to that limited nature, and the phrase _not so_ therefore me
 उक्तप्रकारविशिष्टतया या ब्रह्मण इयत्ता प्रकृता; साऽत्र इति शब्देन परामृश्यत इत्यर्थः। 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 सात्र इति इति ।   
 इतिः प्रकारार्थः ।  
@@ -2481,7 +2481,7 @@ The word śo refers to that limited nature, and the phrase _not so_ therefore me
 अतश् च प्रकृत-विशेषण-योगित्व-मात्रं ब्रह्मणः प्रतिषेधति । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This interpretation is further confirmed by the fact that after that negative phrase further qualities of Brahman are declared by the text: 
 </details>
@@ -2507,7 +2507,7 @@ This interpretation is further confirmed by the fact that after that negative ph
 **प्राणा+++(→जीवाः)+++ वै सत्यं, तेषाम् एष सत्यम्** (बृ.४.३.६) इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'For there is not anything higher than this _not so_.  
 Then comes the name, the _True of the True_;  
@@ -2535,7 +2535,7 @@ and he is the True of them.'
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That means: Than that Brahman which is expressed by the phrase 'not so' there is no other thing higher, i.e. there is nothing more exalted than Brahman either in essential nature or in qualities. 
 </details>
@@ -2545,7 +2545,7 @@ That means: Than that Brahman which is expressed by the phrase 'not so' there is
 अयमर्थः – इति नेति यद्ब्रह्म प्रतिपादितम्, तस्मादेतस्मादन्यद्वस्तु परं नह्यस्ति, ब्रह्मणोऽन्यत् स्वरूपतो गुणतश्चोत्कृष्टं नास्तीत्यर्थः। 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 **अनन्तरम्** इति  
 ततः शब्दार्थ उक्तः  
@@ -2563,7 +2563,7 @@ That means: Than that Brahman which is expressed by the phrase 'not so' there is
 "सत्यम्" इति **नामधेयम्** ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And of that Brahman the name is the 'True of the True.' 
 </details>
@@ -2580,7 +2580,7 @@ And of that Brahman the name is the 'True of the True.'
 **प्राणा वै सत्यं, तेषाम् एव सत्यम्** (बृ.४.३.६) इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 This name is explained in the next clause, 'for the prāṇas,' &c. 
 </details>
@@ -2598,7 +2598,7 @@ This name is explained in the next clause, 'for the prāṇas,' &c.
 जीवाः परामृश्यन्ते । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The term prāṇas here denotes the individual souls,  
 so called because the prāṇas accompany them. 
@@ -2617,7 +2617,7 @@ so called because the prāṇas accompany them.
 वियद्-आदिवत् स्व-रूप-+अन्यथा-भाव-रूप--परिणामाभावात्। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 They are the 'True' because they do not, like the elements, undergo changes implying an alteration of their essential nature. 
 </details>
@@ -2635,7 +2635,7 @@ They are the 'True' because they do not, like the elements, undergo changes impl
 तेभ्योऽप्य् एष परम-पुरुषस् सत्यम् ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And the highest Self is the 'True of the True' 
 </details>
@@ -2654,7 +2654,7 @@ And the highest Self is the 'True of the True'
 तौ न विद्येते;  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 because while the souls undergo, in accordance with their karman, contractions and expansions of intelligence,  
 the highest Self which is free from all sin knows of no such alternations. 
@@ -2670,7 +2670,7 @@ the highest Self which is free from all sin knows of no such alternations.
 अतस्तेभ्योऽप्य् एष सत्यम्।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 He is therefore more eminently _true_ than they are. 
 </details>
@@ -2690,7 +2690,7 @@ He is therefore more eminently _true_ than they are.
 अपि तु पूर्व-प्रकृतेयत्ता-मात्रम्।+++(4)+++  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 As thus the complementary passage declares Brahman to be connected with certain qualities, the clause 'not so, not so' (to which that passage is complementary) cannot deny that Brahman possesses distinctive attributes, but only that Brahman's nature is confined to the attributes previously stated.
 </details>
@@ -2706,7 +2706,7 @@ As thus the complementary passage declares Brahman to be connected with certain 
 अत उभयलिङ्गमेव परं ब्रह्म ॥२१॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Brahman therefore possesses the twofold characteristics. 
 </details>
@@ -2729,7 +2729,7 @@ As thus the complementary passage declares Brahman to be connected with certain 
 तन्-निषेधासम्भवात् प्रकृतेयत्ता-प्रतिषेध उक्तः; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the clause 'not so' negatives Brahman's being fully described by the attributes previously mentioned,  
 was above proved on the ground that since Brahman is not the object of any other means of proof,  
@@ -2742,7 +2742,7 @@ those previous statements cannot refer to what is already proved, and that the f
 ब्रह्मणः प्रमाणान्तरागोचरत्वेन तत्सम्बन्धितया मूर्तामूर्तादिरूपानुवादेन तन्निषेधासम्भवात् प्रकृतेयत्ताप्रतिषेध उक्तः; 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अनन्तरसूत्रसङ्गतिमाह - ब्रह्मणः इति ।  
 प्रत्यक्षस्य सन्-मात्र-ग्राहित्वेन  
@@ -2758,7 +2758,7 @@ those previous statements cannot refer to what is already proved, and that the f
 तद् एव प्रमाणान्तरागोचरत्वं द्रढयति –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The next Sūtra now confirms this circumstance of Brahman not lying within the sphere of the other means of proof.
 </details>
@@ -2775,7 +2775,7 @@ The next Sūtra now confirms this circumstance of Brahman not lying within the s
 **३३६. तद् +++(ब्रह्म)+++ अव्यक्तम्, +++(यतः -)+++ आह हि ॥ ३–२–२२ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 22. That (is) unmanifested; for (this Scripture) declares.
 </details>
@@ -2785,7 +2785,7 @@ The next Sūtra now confirms this circumstance of Brahman not lying within the s
 
 **३३६. तदव्यक्तमाह हि ॥ ३–२–२२ ॥**
 </details>
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 तदव्यक्तमाह हि । स्फुटम् ॥ 22 ॥
 </details>
@@ -2795,7 +2795,7 @@ The next Sūtra now confirms this circumstance of Brahman not lying within the s
 **तत्** – ब्रह्म प्रमाणान्तरेण न व्यज्यते, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Brahman is not manifested by other means of proof; 
 </details>
@@ -2815,7 +2815,7 @@ Brahman is not manifested by other means of proof;
 > न चक्षुषा पश्यति कश्चनैनम् (तै.ना.१.१)  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 for Scripture says, 'His form is not to be seen, no one beholds him with the eye' (Ka. Up. II, 6, 9); 
 </details>
@@ -2836,7 +2836,7 @@ for Scripture says, 'His form is not to be seen, no one beholds him with the eye
 </details>
 
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'He is not apprehended by the eye nor by speech' (Mu. Up. III, 1, 8).
 </details>
@@ -2858,7 +2858,7 @@ for Scripture says, 'His form is not to be seen, no one beholds him with the eye
 **३३७. अपि संराधने  प्रत्यक्षानुमानाभ्याम् ॥ ३–२–२३ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 23. Also in perfect conciliation, … according to Scripture and Smr̥ti.??
 </details>
@@ -2880,7 +2880,7 @@ for Scripture says, 'His form is not to be seen, no one beholds him with the eye
 श्रुति-स्मृतिभ्याम् अवगम्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Moreover, it is only in the state of perfect conciliation or endearment, i.e. in meditation bearing the character of devotion,  
 that an intuition of Brahman takes place,  
@@ -2904,7 +2904,7 @@ This Scripture and Smr̥ti alike teach.
 > (मु.३-२-३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 > 'That Self cannot be gained by the Veda, nor by understanding, nor by much learning.  
 > He whom the Self chooses by him the Self can be gained.  
@@ -2923,7 +2923,7 @@ The Self chooses him as his own' (Ka. Up. I, 2, 23);
 **तं पश्यति निष्कलं ध्यायमानः** (मु.३.१.८) इति श्रुतिः ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 'When a man's nature has become purified by the serene light of knowledge, then he sees him, meditating on him as without parts' (Mu. Up. III, 1, 9). 
 </details>
@@ -2942,7 +2942,7 @@ The Self chooses him as his own' (Ka. Up. I, 2, 23);
 > न दानेन न चेज्यया (भ.गी.११.५३) 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Smr̥ti: 'Neither by the Vedas, nor austerities, nor gifts, nor by sacrifice, 
 </details>
@@ -2964,7 +2964,7 @@ Smr̥ti: 'Neither by the Vedas, nor austerities, nor gifts, nor by sacrifice,
 इति। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 but only by exclusive devotion, may I in this form be known and beheld in truth and also entered into' (Bha. Gī. XI, 53,54). 
 </details>
@@ -2989,7 +2989,7 @@ but only by exclusive devotion, may I in this form be known and beheld in truth 
 भक्तिरूपापन्नमेवोपासनं संराधनम् – तस्य प्रीणनमिति पूर्वमेवोक्तम्। 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 अपि संराधने प्रत्यक्षानुमानाभ्याम् । ध्यानगम्योऽस्तु , ततः किं संराधनेन साक्षात्कारस्येत्यत्राह - भक्तिरूप इति ॥ 26 ॥
 </details>
@@ -3006,7 +3006,7 @@ but only by exclusive devotion, may I in this form be known and beheld in truth 
 ब्रह्मणो मूर्तामूर्त-रूप-द्वयादि-विशिष्टतां प्राग् असिद्धां नानुवदितुं क्षमम् ॥२३॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 The scriptural text beginning 'Two are the forms of Brahman,' which declares the nature of Brahman for the purposes of devout meditation,  
 cannot therefore refer to Brahman's being characterised by two forms,  
@@ -3028,7 +3028,7 @@ for apart from Scripture nothing is known about Brahman.
 > प्रकाशश् च +++(ध्यान-)+++कर्मण्य् अभ्यासात् ॥ ३–२–२४ ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 24\. And there is non-difference (of the intention of Brahman's distinguishing attributes),  
 as in the case of light;  
@@ -3047,7 +3047,7 @@ and the light (is) intuited as constituting Brahman's essential nature by repeti
 न मूर्तामूर्तादि-विशष्टत्वम्; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 That the clause 'not so' negatives not Brahman's possessing two forms, a material and an immaterial one, but only Brahman's nature being restricted to those determinations, follows therefrom 
 </details>
@@ -3070,7 +3070,7 @@ That the clause 'not so' negatives not Brahman's possessing two forms, a materia
 ब्रह्म-गुणत्वावैशेष्यं प्रतीयते – 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 also that in the vision of Vāmadeva and others  
 who had attained to intuition into Brahman's nature,  
@@ -3084,7 +3084,7 @@ is apprehended in non-difference, i.e. in the same way as the fact of light (i.e
 यतस्साक्षात्कृतपरब्रह्म-स्वरूपाणां वामदेवादीनां दर्शने प्रकाशादिवत् ज्ञानानन्दादिस्वरूपवन्मूर्तादिप्रपञ्चविशिष्टताया अपि ब्रह्मगुणत्वावैशेष्यं प्रतीयते – 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 मूर्तामूर्तादि-प्रपञ्च-विशिष्टताया  
 उपासनार्थम् आरोपितत्व-शङ्काऽत्र निरस्यते ।  
@@ -3102,7 +3102,7 @@ is apprehended in non-difference, i.e. in the same way as the fact of light (i.e
 इत्यादि। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Compare the text 'Seeing this the R̥shi Vāmadeva understood, I am Manu and the sun' (Br̥. Up. I, 4, 10). 
 </details>
@@ -3120,7 +3120,7 @@ Compare the text 'Seeing this the R̥shi Vāmadeva understood, I am Manu and the
 अभ्यासाद् उपलभ्यते। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And that light and bliss constitute Brahman's nature was perceived by Vāmadeva and the rest through repeated performance of the practice of devout meditation. 
 </details>
@@ -3131,7 +3131,7 @@ And that light and bliss constitute Brahman's nature was perceived by Vāmadeva 
 ब्रह्मस्वरूपभूतप्रकाशानन्दादिश्च तेषां वामदेवादीनां संराधनात्मके कर्मण्यभ्यासादुपलभ्यते। 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 तेषाम् अपि मूर्तामूर्तादि-प्रपञ्च-विशिष्ट-प्रतीतिः भ्रान्तिर् इति शङ्कायाम्  
 उत्तर-खण्डं व्याचष्टे -  
@@ -3151,7 +3151,7 @@ And that light and bliss constitute Brahman's nature was perceived by Vāmadeva 
 अ-विशेषेण प्रतीयत इत्य् अर्थः॥२४॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 In the same way then, i.e. by repeated meditation, they also became aware that Brahman has all material and immaterial things for its distinguishing modes.
 </details>
@@ -3168,7 +3168,7 @@ In the same way then, i.e. by repeated meditation, they also became aware that B
 उक्तं ब्रह्मण उभयलिङ्गत्वम् उपसंहरति –
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --The next Sūtra sums up the proof of Brahman's possessing twofold characteristics.
 </details>
@@ -3185,7 +3185,7 @@ In the same way then, i.e. by repeated meditation, they also became aware that B
 **३३९. अतो +++(→"नेति नेति" न्यायेन)+++ ऽनन्तेन +++(कल्याण-गुणगणेन)+++ - तथा हि +++(उभय-)+++लिङ्गम् ॥ ३–२–२५ ॥**
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 25. Hence (Brahman is distinguished) by what is infinite; for thus the characteristics (hold good).
 </details>
@@ -3204,7 +3204,7 @@ In the same way then, i.e. by repeated meditation, they also became aware that B
 विशिष्टत्वं सिद्धम् । 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By the arguments stated it is proved that Brahman is distinguished by the infinite multitude of blessed qualities. 
 </details>
@@ -3220,7 +3220,7 @@ By the arguments stated it is proved that Brahman is distinguished by the infini
 **तथा हि** सत्य् उभय-लिङ्गं ब्रह्मोपपन्नं भवति ॥२५॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 And this being so, it follows that Brahman possesses the twofold characteristics.--
 </details>
@@ -3231,7 +3231,7 @@ And this being so, it follows that Brahman possesses the twofold characteristics
 तथा हि सत्युभयलिङ्गं ब्रह्मोपपन्नं भवति ॥२५॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>श्रुत-प्रदीपिका</summary>
 
 नेति नेत्यस्यावधि-निषेध-परत्वात्  
 निर्-अवधिकेन कल्याण-गुण-जातेन  
@@ -3246,7 +3246,7 @@ And this being so, it follows that Brahman possesses the twofold characteristics
 इति उभयलिङ्गाधिकरणम् - 5
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 Here terminates the adhikaraṇa of 'that which has twofold characteristics.'
 </details>

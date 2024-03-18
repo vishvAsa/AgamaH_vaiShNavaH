@@ -8,7 +8,7 @@ title = "०२ योगप्रत्युक्त्यधिकरणम�
 एतेन योगः प्रत्युक्तः ॥ 2-1-3 ॥
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 3. Hereby the Yoga is refuted.
 </details>
@@ -25,7 +25,7 @@ title = "०२ योगप्रत्युक्त्यधिकरणम�
 योग-स्मृतिर् अपि प्रत्युक्ता ।  
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 By the above refutation of Kapila's Smr̥ti the Yoga-smr̥ti also is refuted.
 </details>
@@ -49,7 +49,7 @@ By the above refutation of Kapila's Smr̥ti the Yoga-smr̥ti also is refuted.
 इति ।
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But a question arises, What further doubt arises here with regard to the Yoga system,  
 so as to render needful the formal extension to the Yoga of the arguments previously set forth against the Sānkhya?--
@@ -99,7 +99,7 @@ and thirdly, because Hiraṇyagarbha, who proclaimed the Yoga-smr̥ti is qualifi
 न तया वेदान्तोपबृंहणं न्याय्यम् इति ।। 
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --But these arguments refute themselves as follows.  
 
@@ -145,7 +145,7 @@ The Yoga cannot, therefore, be used for the support of the Vedānta.
 इति योगप्रत्युक्त्यधिकरणम् -2
 </details>
 
-<details><summary>English</summary>
+<details><summary>Thibaut</summary>
 
 --Here finishes the adhikaraṇa of 'the refutation of the Yoga.'
 </details>
