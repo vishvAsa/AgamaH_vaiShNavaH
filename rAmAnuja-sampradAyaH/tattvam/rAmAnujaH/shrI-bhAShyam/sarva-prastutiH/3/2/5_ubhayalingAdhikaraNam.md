@@ -2848,12 +2848,12 @@ for Scripture says, 'His form is not to be seen, no one beholds him with the eye
 </details>
 
 
-## निदिध्यासनार्थं ब्रह्मोपदेशपरे वाक्ये अनुवादकत्वायोगः
+### निदिध्यासार्थक-ब्रह्म-रूपोपदेशो नानुवादः
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हेत्वन्तरं चाह –
+हेत्व्-अन्तरं चाह –
 
 **३३७. अपि संराधने  प्रत्यक्षानुमानाभ्याम् ॥ ३–२–२३ ॥**
 </details>
@@ -2936,7 +2936,10 @@ The Self chooses him as his own' (Ka. Up. I, 2, 23);
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्मृतिरपि **नाहं वेदैर्न तपसा न दानेन न चेज्यया** (भ.गी.११.५३) 
+स्मृतिर् अपि  
+
+> नाहं वेदैर् न तपसा  
+> न दानेन न चेज्यया (भ.गी.११.५३) 
 </details>
 
 <details><summary>English</summary>
@@ -2947,10 +2950,7 @@ Smr̥ti: 'Neither by the Vedas, nor austerities, nor gifts, nor by sacrifice,
 
 <details><summary>मूलम्</summary>
 
-स्मृतिर् अपि  
-
-> नाहं वेदैर् न तपसा  
-> न दानेन न चेज्यया (भ.गी.११.५३) 
+स्मृतिरपि **नाहं वेदैर्न तपसा न दानेन न चेज्यया** (भ.गी.११.५३) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3008,7 +3008,11 @@ but only by exclusive devotion, may I in this form be known and beheld in truth 
 
 <details><summary>English</summary>
 
-The scriptural text beginning 'Two are the forms of Brahman,' which declares the nature of Brahman for the purposes of devout meditation, cannot therefore refer to Brahman's being characterised by two forms, a material and an immaterial, as something already known; for apart from Scripture nothing is known about Brahman.
+The scriptural text beginning 'Two are the forms of Brahman,' which declares the nature of Brahman for the purposes of devout meditation,  
+cannot therefore refer to Brahman's being characterised by two forms,  
+a material and an immaterial,  
+as something already known;  
+for apart from Scripture nothing is known about Brahman.
 </details>
 
 
@@ -3018,14 +3022,67 @@ The scriptural text beginning 'Two are the forms of Brahman,' which declares the
 </details>
 
 
-अपि च संराधने - सम्यक् प्रीणने ... .. ब्रह्मणो मूर्तामूर्तरूपद्वयादिविशिष्टतां प्रागसिद्धां नानुवदितुं क्षमम् ॥ 23 ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ३३८. प्रकाशादिवच् चावैशेष्यं  
+> प्रकाशश् च +++(ध्यान-)+++कर्मण्य् अभ्यासात् ॥ ३–२–२४ ॥
+</details>
+
+<details><summary>English</summary>
+
+24\. And there is non-difference (of the intention of Brahman's distinguishing attributes),  
+as in the case of light;  
+and the light (is) intuited as constituting Brahman's essential nature by repetition of the practice (of meditation).
+</details>
 
 
-प्रकाशादिवच्चावैशेष्यं प्रकाशश्च कर्मण्यभ्यासात् ॥ 3-2-24 ॥
+<details><summary>मूलम्</summary>
 
-इतश्च प्रकृतैतावत्त्वमेव प्रतिषेधति ... ... तेषां मूर्तामूर्तादिविशिष्टत्वमप्यविशेषेण प्रतीयते - इत्यर्थः ॥ 24 ॥
+**३३८. प्रकाशादिवच्चावैशेष्यं प्रकाशश्च कर्मण्यभ्यासात् ॥ ३–२–२४ ॥**
+</details>
 
-प्रकाशादिवच्चावैशेष्यं प्रकाशश्च कर्मण्यभ्यासात् । मूर्तामूर्तादिप्रपञ्चविशिष्टताया उपासनार्थमारोपितत्वशङ्काऽत्र निरस्यते । तेषामपि मूर्तामूर्तादिप्रपञ्चविशिष्टप्रतीतिः भ्रान्तिरिति शङ्कायामुत्तरखण्डं व्याचष्टे - ब्रह्मस्वरूपभूत इति । उपासनेन साक्षात्कृतत्वात् प्रकाशानन्दादेरिव प्रपञ्चविशिष्टतायाः परमार्थत्वमित्यर्थः ॥ 24 ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इतश्च प्रकृतैतावत्त्वमेव प्रतिषेधति;  
+न मूर्तामूर्तादिविशष्टत्वम्; 
+</details>
+
+<details><summary>English</summary>
+
+That the clause 'not so' negatives not Brahman's possessing two forms, a material and an immaterial one, but only Brahman's nature being restricted to those determinations, follows therefrom 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इतश्च प्रकृतैतावत्त्वमेव प्रतिषेधति;  
+न मूर्तामूर्तादिविशष्टत्वम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतस्  
+साक्षात्-कृत-पर-ब्रह्म--स्व-रूपाणां वाम-देवादीनां दर्शने  
+प्रकाशादिवत् ज्ञानानन्दादि--स्व-रूपवन् मूर्तादि-प्रपञ्च-विशष्टताया अपि  
+ब्रह्म-गुणत्वावैशेष्यं प्रतीयते – 
+</details>
+
+<details><summary>मूलम्</summary>
+
+यतस्साक्षात्कृतपरब्रह्म-स्वरूपाणां वामदेवादीनां दर्शने प्रकाशादिवत् ज्ञानानन्दादिस्वरूपवन्मूर्तादिप्रपञ्चविशष्टताया अपि ब्रह्मगुणत्वावैशेष्यं प्रतीयते – 
+</details>
+
+
+मूर्तामूर्तादि-प्रपञ्च-विशिष्टताया  
+उपासनार्थम् आरोपितत्व-शङ्काऽत्र निरस्यते ।  
+तेषाम् अपि मूर्तामूर्तादि-प्रपञ्च-विशिष्ट-प्रतीतिः  
+भ्रान्तिर् इति शङ्कायाम्  
+उत्तर-खण्डं व्याचष्टे -  
+ब्रह्म-स्व-रूपभूत इति ।  
+उपासनेन साक्षात्-कृतत्वात्   
+प्रकाशानन्दादेर् इव  
+प्रपञ्च-विशिष्टतायाः परमार्थत्वम्  
+इत्य् अर्थः ॥ 24 ॥
 
 उक्तं ब्रह्मण उभयलिङ्गत्वुपसंहरति -
 
