@@ -2318,7 +2318,7 @@ If the text meant that, it would be mere idle talk.
 **न हि**  
 ब्रह्मणो विशेषणतया  
 प्रमाणान्तराप्रज्ञातं सर्वं तद्-विशेषणत्वेन **+उपदिश्य**  
-पुनस् **तद् एवानुन्मत्तः प्रतिषेधति** । 
+पुनस् **तद् एवानुन्मत्तः प्रतिषेधति** । +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -2342,9 +2342,152 @@ and thereupon deliberately ~~negative~~ negate his own teaching.
 **न हि** इति ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्यपि निर्दिश्यमानेषु  
+केचन पदार्थाः प्रमाणान्तर-प्रसिद्धाः,  तथा ऽपि  
+तेषां ब्रह्मणः प्रकारत्वम् अप्रज्ञातम् एव,  
+इतरेषां तु स्वरूपं ब्रह्मणः प्रकारत्वं चाज्ञातम् । 
+</details>
+
+<details><summary>English</summary>
+
+Although among the things mentioned there are some which, in themselves, are known through other means of proof, yet they are not thus known to be modes of Brahman, and others again are known neither in themselves nor as modes of Brahman. 
+</details>
 
 
-नोपपद्यते इत्यन्तेन हि शब्दाभिप्रायो विवृतः । सात्र इति इति । इतिः प्रकारार्थः । इयत्ता च प्रकार इत्यर्थः । प्रकारनिषेधपरत्वे त्वान्तत्वं न घटते इत्यर्थः ॥
+<details><summary>मूलम्</summary>
+
+यद्यपि निर्दिश्यमानेषु केचन पदार्थाः प्रमाणान्तरप्रसिद्धाः, तथापि तेषां ब्रह्मणः प्रकारत्वमप्रज्ञातमेव, इतरेषां तु स्वरूपं ब्रह्मणः प्रकारत्वं चाज्ञातम् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् तेषाम् अनुवादासम्भवाद् अत्रैवोपदिश्यन्ते।
+</details>
+
+<details><summary>English</summary>
+
+The text therefore cannot merely refer to them as things otherwise known, but gives fundamental instruction about them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतस्तेषामनुवादासम्भवादत्रैवोपदिश्यन्ते।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस् तन्निषेधो नोपपद्यते ।
+</details>
+
+<details><summary>English</summary>
+
+Hence the later passage cannot be meant as a sheer negation, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अतस्तन्निषेधो नोपपद्यते ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नोपपद्यते इत्यन्तेन हि शब्दाभिप्रायो विवृतः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यस्माद् एवं  
+तस्मात् प्रकृतैतावत्त्वं ब्रह्मणः प्रतिषेधतीदं वाक्यम्।  
+
+</details>
+
+<details><summary>English</summary>
+
+but must be taken as denying the previously described 'so-muchness' of Brahman; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यस्माद् एवं  
+तस्मात् प्रकृतैतावत्त्वं ब्रह्मणः प्रतिषेधतीदं वाक्यम्।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये ब्रह्मणो विशेषाः प्रकृताः  
+तद्-विशिष्टतया ब्रह्मणः प्रतीयमानेयत्ता  
+**नेति नेति** (बृ.४.३.६)  
+इति प्रतिषिध्यते।  
+</details>
+
+<details><summary>English</summary>
+
+i.e. the passage denies that limited nature of Brahman which would result from Brahman being viewed as distinguished by the previously stated attributes only. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ये ब्रह्मणो विशेषाः प्रकृताः तद्विशिष्टतया ब्रह्मणः प्रतीयमानेयत्ता **नेति नेति** (बृ.४.३.६) इति प्रतिषिध्यते।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नेति नेति – नैवं नैवम्,  
+उक्त-प्रकार-मात्र-विशिष्टं न भवति ब्रह्म; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नेति नेति – नैवं नैवम्, उक्तप्रकारमात्रविशिष्टं न भवति ब्रह्म; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्त-प्रकार-विशिष्टतया या ब्रह्मण इयत्ता प्रकृता;  
+साऽत्र इति शब्देन परामृश्यत इत्यर्थः। 
+</details>
+
+<details><summary>English</summary>
+
+The word śo refers to that limited nature, and the phrase _not so_ therefore means that Brahman is not distinguished by the previously stated modes _only_. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उक्तप्रकारविशिष्टतया या ब्रह्मण इयत्ता प्रकृता; साऽत्र इति शब्देन परामृश्यत इत्यर्थः। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सात्र इति इति ।   
+इतिः प्रकारार्थः ।  
+इयत्ता च प्रकार इत्यर्थः ।  
+प्रकारनिषेधपरत्वे त्वान्तत्वं न घटते इत्यर्थः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतश् च निषेधानन्तरं  
+ब्रह्मणो भूयो गुणजातं ब्रवीति,  
+अतश् च प्रकृत-विशेषण-योगित्व-मात्रं ब्रह्मणः प्रतिषेधति । 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+यतश्च निषेधानन्तरं ब्रह्मणो भूयो गुणजातं ब्रवीति, अतश्च प्रकृतविशेषणयोगित्वमात्रं ब्रह्मणः प्रतिषेधति । 
+</details>
+
 
 अनन्तरम् इति ततः शब्ददार्थ उक्तः न ह्येतस्मात् इति निषेधः प्रतीतः , न तु गुणः , स्वरूपमेव सत्यं प्रतीतमित्यत्राह - अयमर्थः इति ॥
 
