@@ -2192,7 +2192,7 @@ and next a special form of Brahman is mentioned: 'And what is the form of that P
 
 > अथात आदेशो -  
 > नेति, नेति -  
-> न ह्य् एतस्माद् इति नेत्य्  
+> न ह्य् एतस्माद् "इति नेत्य्" +++(उक्ताद्)+++  
 > अन्यत् परम् अस्ति  
 > (बृ.४.३.६) 
 
@@ -2497,13 +2497,14 @@ This interpretation is further confirmed by the fact that after that negative ph
 
 ब्रवीति हि भूयो गुण-जातं –  
 
-> "न ह्य् एतस्माद्" इति  
-नेत्य् अन्यत् परम् अस्त्य्  
-अथ नामधेयं सत्यस्य सत्यम्  
+> न ह्य् एतस्माद् "इति नेत्य्" +++(उक्ताद्)+++  
+> अन्यत् परम् अस्ति  
+
+> +अथ नामधेयं सत्यस्य सत्यम्  
 
 इति  
 
-**प्राणा वै सत्यं तेषामेष सत्यम्** (बृ.४.३.६) इति ।
+**प्राणा+++(→जीवाः)+++ वै सत्यं, तेषाम् एष सत्यम्** (बृ.४.३.६) इति ।
 </details>
 
 <details><summary>English</summary>
@@ -2522,26 +2523,400 @@ and he is the True of them.'
 </details>
 
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयम् अर्थः –  
+"इति, नेति" यद् ब्रह्म प्रतिपादितम्,  
+तस्माद् **एतस्माद्**  
+**अन्यद्** वस्तु  
+**परं न** ह्य् **अस्ति**,  
+ब्रह्मणोऽन्यत् स्वरूपतो गुणतश् चोत्कृष्टं नास्तीत्य् अर्थः। 
+</details>
+
+
+<details><summary>English</summary>
+
+That means: Than that Brahman which is expressed by the phrase 'not so' there is no other thing higher, i.e. there is nothing more exalted than Brahman either in essential nature or in qualities. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयमर्थः – इति नेति यद्ब्रह्म प्रतिपादितम्, तस्मादेतस्मादन्यद्वस्तु परं नह्यस्ति, ब्रह्मणोऽन्यत् स्वरूपतो गुणतश्चोत्कृष्टं नास्तीत्यर्थः। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 **अनन्तरम्** इति  
-ततः शब्ददार्थ उक्तः  
-न ह्येतस्मात् इति निषेधः प्रतीतः ,  
+ततः शब्दार्थ उक्तः  
+"न ह्य् एतस्मात्" इति निषेधः प्रतीतः ,  
 न तु गुणः ,  
-स्वरूपमेव सत्यं प्रतीतम्  
+स्वरूपम् एव सत्यं प्रतीतम्  
 इत्यत्राह - अयमर्थः इति ॥
 
-ब्रह्मणः प्रमाणान्तरागोचरत्वेन ... ...
+</details>
 
-तदव्यक्तमाह हि ॥ 3-2-22 ॥
 
-तत् - ब्रह्म प्रमाणान्तरेण न व्यज्यते .... .. न चक्षुषागृह्यते नापि वाचा इत्यादि ॥ 22 ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनन्तरसूत्रसङ्गतिमाह - ब्रह्मणः इति । प्रत्यक्षस्य सन्मात्रग्राहित्वेन ब्रह्मणः प्रमाणान्तरगोचरत्वमाशङ्क्य तन्निराकरणमुखेन तस्य मानान्तरागोचरत्वं द्रढयतीत्यर्थः । एतच्च दीपसारयोः स्पष्टीकृतम् । तदव्यक्तमाह हि । स्फुटम्
+तस्य च ब्रह्मणः "सत्यस्य"  
+"सत्यम्" इति **नामधेयम्** ।  
+</details>
 
-॥ 22 ॥
+<details><summary>English</summary>
 
-हेत्वन्तरं चाह -
+And of that Brahman the name is the 'True of the True.' 
+</details>
 
-अपि संराधने प्रत्यक्षानुमानाभ्याम् ॥ 3-2-23 ॥
+
+<details><summary>मूलम्</summary>
+
+तस्य च ब्रह्मणः सत्यस्य सत्यमिति नामधेयम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्य च निर्वचनं  
+**प्राणा वै सत्यं, तेषाम् एव सत्यम्** (बृ.४.३.६) इति। 
+</details>
+
+<details><summary>English</summary>
+
+This name is explained in the next clause, 'for the prāṇas,' &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्य च निर्वचनं **प्राणा वै सत्यं तेषामेव सत्यम्** (बृ.४.३.६) इति। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राण-शब्देन  
+प्राण-साहचर्याज्  
+जीवाः परामृश्यन्ते । 
+</details>
+
+<details><summary>English</summary>
+
+The term prāṇas here denotes the individual souls,  
+so called because the prāṇas accompany them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राणशब्देन प्राणसाहचर्याज्जीवाः परामृश्यन्ते । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ते तावत् सत्यम्,  
+वियद्-आदिवत् स्व-रूप-+अन्यथा-भाव-रूप--परिणामाभावात्। 
+</details>
+
+<details><summary>English</summary>
+
+They are the 'True' because they do not, like the elements, undergo changes implying an alteration of their essential nature. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ते तावत्सत्यम्, वियदादि-वत्स्वरूपान्यथाभावरूपपरिणामाभावात्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**तेषाम् एष सत्यम्** –  
+तेभ्योऽप्य् एष परम-पुरुषस् सत्यम् ।
+</details>
+
+<details><summary>English</summary>
+
+And the highest Self is the 'True of the True' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेषामेष सत्यम् – तेभ्योऽप्येष परमपुरुषस्सत्यम् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवानां कर्मानुगुण्येन ज्ञान-सङ्कोच-विकासौ विद्येते;  
+परम-पुरुषस्य त्व् अपहत-पाप्मनस्  
+तौ न विद्येते;  
+</details>
+
+<details><summary>English</summary>
+
+because while the souls undergo, in accordance with their karman, contractions and expansions of intelligence,  
+the highest Self which is free from all sin knows of no such alternations. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवानां कर्मानुगुण्येन ज्ञानसङ्कोचविकासौ विद्येते; परमपुरुषस्य त्वपहतपाप्मनस्तौ न विद्येते; </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतस्तेभ्योऽप्य् एष सत्यम्।
+</details>
+
+<details><summary>English</summary>
+
+He is therefore more eminently _true_ than they are. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतस्तेभ्योऽप्येष सत्यम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतश् चैवं वाक्य-शेषोदित-गुण-जात-योगात्  
+**नेति नेति** (बृ.४.३.६)  
+इति ब्रह्मणस् स-विशेषत्वं  
+न प्रतिषिध्यते;  
+अपि तु पूर्व-प्रकृतेयत्ता-मात्रम्।+++(4)+++  
+</details>
+
+<details><summary>English</summary>
+
+As thus the complementary passage declares Brahman to be connected with certain qualities, the clause 'not so, not so' (to which that passage is complementary) cannot deny that Brahman possesses distinctive attributes, but only that Brahman's nature is confined to the attributes previously stated.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतश्चैवं वाक्यशेषोदितगुणजातयोगात् **नेति नेति** (बृ.४.३.६) इति ब्रह्मणस्सविशेषत्वं न प्रतिषिध्यते; अपि तु पूर्वप्रकृतेयत्तामात्रम्।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत उभयलिङ्गमेव परं ब्रह्म ॥२१॥
+</details>
+
+<details><summary>English</summary>
+
+--Brahman therefore possesses the twofold characteristics. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत उभयलिङ्गमेव परं ब्रह्म ॥२१॥
+</details>
+
+
+### ब्रह्म-तद्-गुणानां प्रमाणान्तरागोचरता
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मणः प्रमाणान्तरागोचरत्वेन,  
+तत्-सम्बन्धितया,  
+मूर्तामूर्तादि-रूपानुवादेन+++(=पूर्वप्राप्तानुवचनेन)+++  
+तन्-निषेधासम्भवात् प्रकृतेयत्ता-प्रतिषेध उक्तः; 
+</details>
+
+<details><summary>English</summary>
+
+That the clause 'not so' negatives Brahman's being fully described by the attributes previously mentioned,  
+was above proved on the ground that since Brahman is not the object of any other means of proof,  
+those previous statements cannot refer to what is already proved, and that the final clause cannot therefore be meant to deny what the previous clauses expressly teach. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मणः प्रमाणान्तरागोचरत्वेन तत्सम्बन्धितया मूर्तामूर्तादिरूपानुवादेन तन्निषेधासम्भवात् प्रकृतेयत्ताप्रतिषेध उक्तः; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनन्तरसूत्रसङ्गतिमाह - ब्रह्मणः इति ।  
+प्रत्यक्षस्य सन्-मात्र-ग्राहित्वेन  
+ब्रह्मणः प्रमाणान्तर-गोचरत्वम् आशङ्क्य  
+तन्-निराकरण-मुखेन  
+तस्य मानान्तरागोचरत्वं द्रढयतीत्यर्थः । एतच् च दीप-सारयोः स्पष्टी-कृतम् । 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् एव प्रमाणान्तरागोचरत्वं द्रढयति –
+</details>
+
+<details><summary>English</summary>
+
+The next Sūtra now confirms this circumstance of Brahman not lying within the sphere of the other means of proof.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदेव प्रमाणान्तरागोचरत्वं द्रढयति –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**३३६. तद् +++(ब्रह्म)+++ अव्यक्तम्, +++(यतः -)+++ आह हि ॥ ३–२–२२ ॥**
+</details>
+
+<details><summary>English</summary>
+
+22. That (is) unmanifested; for (this Scripture) declares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**३३६. तदव्यक्तमाह हि ॥ ३–२–२२ ॥**
+</details>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तदव्यक्तमाह हि । स्फुटम् ॥ 22 ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**तत्** – ब्रह्म प्रमाणान्तरेण न व्यज्यते, 
+</details>
+
+<details><summary>English</summary>
+
+Brahman is not manifested by other means of proof; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत् – ब्रह्म प्रमाणान्तरेण न व्यज्यते, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आह हि शास्त्रं - 
+
+> न सन्दृशे तिष्ठति रूपम् अस्य  
+> न चक्षुषा पश्यति कश्चनैनम् (तै.ना.१.१)  
+</details>
+
+<details><summary>English</summary>
+
+for Scripture says, 'His form is not to be seen, no one beholds him with the eye' (Ka. Up. II, 6, 9); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आह हि शास्त्रं **न सन्दृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनम्** (तै.ना.१.१)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चक्षुषा गृह्यते  
+> नापि वाचा  
+> (मु.३.१.८) 
+
+इत्यादि॥
+</details>
+
+
+<details><summary>English</summary>
+
+'He is not apprehended by the eye nor by speech' (Mu. Up. III, 1, 8).
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+**न चक्षुषा गृह्यते नापि वाचा** (मु.३.१.८) इत्यादि॥
+</details>
+
+
+## निदिध्यासनार्थं ब्रह्मोपदेशपरे वाक्ये अनुवादकत्वायोगः
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हेत्वन्तरं चाह –
+
+**३३७. अपि संराधने  प्रत्यक्षानुमानाभ्याम् ॥ ३–२–२३ ॥**
+</details>
+
+<details><summary>English</summary>
+
+23. Also in perfect conciliation, … according to Scripture and Smr̥ti.??
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हेत्वन्तरं चाह –
+
+**३३७. अपि संराधने प्रत्यक्षानुमानाभ्याम् ॥ ३–२–२३ ॥**
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अपि** च **संराधने** –  
+सम्यक् प्रीणने भक्ति-रूपापन्ने निदिध्यासन  
+एवास्य साक्षात्कारः;  
+नान्यत्रेति  
+श्रुति-स्मृतिभ्याम् अवगम्यते। 
+</details>
+
+<details><summary>English</summary>
+
+Moreover, it is only in the state of perfect conciliation or endearment, i.e. in meditation bearing the character of devotion,  
+that an intuition of Brahman takes place,  
+not in any other state.  
+This Scripture and Smr̥ti alike teach. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च संराधने – सम्यक्प्रीणने भक्तिरूपापन्ने निदिध्यासन एवास्य साक्षात्कारः; नान्यत्रेति श्रुतिस्मृतिभ्यामवगम्यते। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नायम् आत्मा प्रवचनेन लभ्यो  
+> न मेधया, न बहुना श्रुतेन।  
+> यम् एवैष वृणुते  
+> तेन लभ्यस्  
+> तस्यैष आत्मा विवृणुते  
+> तनूं स्वाम्  
+> (मु.३-२-३) 
+</details>
+
+<details><summary>English</summary>
+
+> 'That Self cannot be gained by the Veda, nor by understanding, nor by much learning.  
+> He whom the Self chooses by him the Self can be gained.  
+The Self chooses him as his own' (Ka. Up. I, 2, 23); 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन। यमेवैष वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूं स्वाम्** (मु.३-२-३) 
+</details>
+
 
 अपि च संराधने - सम्यक् प्रीणने ... .. ब्रह्मणो मूर्तामूर्तरूपद्वयादिविशिष्टतां प्रागसिद्धां नानुवदितुं क्षमम् ॥ 23 ॥
 
