@@ -86,7 +86,7 @@ affect also the highest Brahman which as its inner Ruler abides within the soul 
 तत्र जागरस्वप्नसुषुप्तिमुग्ध्युत्क्रान्तिषु स्थानेषु तत्तत्स्थानप्रयुक्ता जीवस्य ये दोषाः ते तदन्तर्यामिणः परस्य ब्रह्मणोऽपि तत्र तत्रावस्थितस्य सन्ति, नेति विचार्यते।
 </details>
 
-## पूर्वपक्षः
+## पूर्वपक्षः - देहसम्बन्धात्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -138,7 +138,7 @@ affect also the highest Brahman which as its inner Ruler abides within the soul 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्थम् उच्यते –  
-कर्माण्य् अपि देह-सम्बन्धम् आपादयन्त्य्  
+कर्माण्य् अपि देह-सम्बन्धम् *आपादयन्त्य्*,  
 अ-पुरुषार्थ-जननानि भवन्ति –  
 इति **देह-योगाद् वा** (शारी.३.२.५) इत्य्-अत्रोक्तम्; 
 </details>
@@ -267,8 +267,7 @@ Although therefore Brahman is the sole cause of the world and a treasure-house o
 अतो यद्यपि जगदेककारणं सर्वज्ञत्वादिकल्याणगुणाकरं च ब्रह्म, तथापि **यः पृथिव्यां तिष्ठन्** (बृह.५.७.३) **य आत्मनि तिष्ठन्** (बृह.५-७-२२) **यश्चक्षुषि तिष्ठन्** (बृह.५-७-१८) **यो रेतसि तिष्ठन्** (बृह.५.७.२३) इत्यादिवचनात् तत्र तत्रावस्थितस्य तत्तत्सम्बन्धरूपापुरुषार्थास्सन्तीति॥
 </details>
 
-## सिद्धान्तः
-### सूत्रार्थविवरणम्
+### सिद्धान्तः - सूत्रार्थविवरणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -599,8 +598,8 @@ The true (perfect) nature of the individual soul, on the other hand, is obscured
 </details>
 
 
-### वस्तु--स्व-भावायत्तत्व-शङ्का-परिहारौ
-
+## वस्तु--स्व-भावायत्तम् सुख-दुःखादि?
+### शङ्का
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु स्वेच्छया कुर्वतोऽपि  
@@ -620,6 +619,7 @@ But, as the Pūrvapakshin has pointed out, even if the highest Self voluntarily 
 ननु स्वेच्छया कुर्वतोऽपि तत्तद्वस्तुस्वभावायत्तापुरुषार्थसम्बन्धोऽवर्जनीय इत्युक्तम्; नैतद्युक्तम्
 </details>
 
+### परिहारः - कर्मायत्तम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्य् अ-चिद् वस्त्व् अपि  
@@ -772,8 +772,6 @@ In agreement herewith Smr̥ti says,
 
 
 
-#### जीव-पर-वैलक्षण्य-दृढी-करणम्
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अतो जीवस्य कर्म-वश्यत्वात्  
@@ -810,7 +808,7 @@ while to the highest Brahman, which is subject to itself only, the same connexio
 परस्य तु ब्रह्मणः स्वाधीनस्य स एव सम्बन्धस्तत्तद्विचित्रनियमनरूपलीलारसायैव स्यात्॥१२॥
 </details>
 
-### अपुरुषार्थायोगः श्रुतिकण्ठोक्तः
+## अपुरुषार्थायोगः श्रुतिकण्ठोक्तः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -876,7 +874,8 @@ Moreover, the followers of one śākhā explicitly teach that the connexion with
 **द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते। तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति** (मु.३.१.१) इति ॥१३॥
 </details>
 
-### ब्रह्मानुप्रवेश-श्रुतिः
+## ब्रह्मानुप्रवेश-श्रुतिः
+### आक्षेपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ स्यात् – 
@@ -936,7 +935,7 @@ Brahman thus falls within the sphere of beings to which injunctions and prohibit
 ततश्च ब्राह्मणो यजेत इत्यादिविधिनिषेधशास्त्रगोचरत्वेन कर्मवश्यत्वमवर्जनीयिमिति; – तत्राह –
 </details>
 
-
+### परिहारः - अ-रूप-तुल्यतेति
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ३२८. अ-रूपवद् एव हि  
@@ -1031,7 +1030,7 @@ For the text, 'The Ether (Brahman) indeed is the accomplisher of names and forms
 **आकाशो ह वै नामरूपयोर्निर्वहिता ते यदन्तरा तद्ब्रह्म** (छा.८.१४.१) इति सर्वानुप्रवेशेऽपि नामरूपकार्यास्पर्शेन नामरूपयोर्निर्वोढृत्वमेव ब्रह्मणः प्रतिपादयति।
 </details>
 
-### अन्तर्यामी कर्मवश्यः?
+### अ-रूपत्वय् आक्षेपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ननु तच्-छरीरकत्वेन तद्-अन्तर्यामित्वे  
@@ -1055,7 +1054,7 @@ For the text, 'The Ether (Brahman) indeed is the accomplisher of names and forms
 ननु इति । कथं कार्यानन्वयः , नियमनादिकार्यान्वयात् धीशब्दपर्यवसानेन कर्मवश्यत्वान्वयाच्चेत्यर्थः । 
 </details>
 
-
+### अ-सुख-दुःख-भाक्त्वम् अ-रूपत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्थं –  
@@ -1101,7 +1100,7 @@ And the scriptural injunctions and prohibitions apply to those only who are unde
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 धीशब्दपर्यवसायिकं कर्मान्वयं परिहरति - विधि इति ।  
-निष्कर्षकशब्दवत् ब्राह्मणादि-शब्दाः जीव-पर्यन्ताः स्युः ।  
+निष्कर्षक-शब्दवत् ब्राह्मणादि-शब्दाः जीव-पर्यन्ताः स्युः ।  
 पर-पर्यन्तत्वेऽपि  
 "गौरो ब्राह्मण" इति गौरत्ववत्  
 विशेषण-भूत-जीव-द्वारकं वा  
@@ -1127,7 +1126,7 @@ and hence, although abiding within all things, free from all imperfection and en
 </details>
 
 
-### श्रुत्य्-अवगत-निर्विशेष-प्रकाश-रूपत्वम्
+## श्रुत्य्-अवगत-निर्विशेष-प्रकाश-रूपत्वम्
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1272,10 +1271,11 @@ In order that texts such as 'the True, knowledge, infinite is Brahman' may not b
 **३३०. आह च तन्मात्रम् ॥ ३–२–१६ ॥**
 </details>
 
+### आक्षेपः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किञ् च  
-**सत् यं ज्ञानम् अनन्तम्** (तै.आन.१.१)  
+**सत्यं ज्ञानम् अनन्तम्** (तै.आन.१.१)  
 इत्य्-आदि-वाक्यं  
 ब्रह्मणः प्रकाश--स्व-रूपता-मात्रं प्रतिपादयति,  
 नान्यत्-सत्य-सङ्कल्पत्वादिकं वाक्यान्तरावगतं निषेधति,  
@@ -1652,7 +1652,7 @@ As thus Brahman in whatever place it may abide has the 'twofold characteristics,
 </details>
 
 
-### जल-बिम्बित-सूर्योपमासङ्गतिः
+## जल-बिम्बित-सूर्योपमा-सङ्गतिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1880,7 +1880,7 @@ Hence there is no real parallelism between the thing compared (the highest Self)
 इति भावः ॥ 19 ॥
 </details>
 
-#### परिहारः
+### परिहारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परिहरति –
@@ -2117,17 +2117,234 @@ The conclusion from all this is that the highest Self, which is essentially free
 अतः स्वभावतो निरस्तनिखिलाज्ञानादिदोषगन्धस्य समस्तकल्याणगुणाकरस्य पृथिव्यादिस्थानतोऽपि न दोषसम्भवः ॥२०॥
 </details>
 
-### "नेति नेति" वाक्यम्
+## "नेति नेति"-वाक्यम्
+### आक्षेपः - सत्ता-मात्रम् ब्रह्म
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ स्यात् – 
+
+> द्वे वाव ब्रह्मणो रूपे  
+> मूर्तं चामूर्तमेव च 
+
+इति (बृ.४.३.१) इति प्रकृत्य  
+</details>
+
+<details><summary>English</summary>
+
+An objection is raised. In the Br̥had-āraṇyaka, in the chapter beginning 'There are two forms of Brahman, the material and the immaterial,' 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ स्यात् – **द्वे वाव ब्रह्मणो रूपे मूर्तं चामूर्तमेव च** इति (बृ.४.३.१) इति प्रकृत्य  
+</details>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनन्तरसूत्रशङ्कामाह - अथ स्यात् इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समस्तं स्थूल-सूक्ष्म-रूपं प्रपञ्चं  
+ब्रह्मणो रूपत्वेन परामृश्य  
+</details>
+
+<details><summary>English</summary>
+
+the whole material world, gross and subtle, is at first referred to as constituting the form of Brahman, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+समस्तं स्थूलसूक्ष्मरूपं प्रपञ्चं ब्रह्मणो रूपत्वेन परामृश्य  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्य ह वा एतस्य पुरुषस्य  
+> रूपं यथा माहा-रजनं+++(=कुङ्कुम-वर्णं)+++ वासः (बृ.४.३.६)  
+
+इत्यादिना आकार-विशेषं चाभिधाय
+</details>
+
+<details><summary>English</summary>
+
+and next a special form of Brahman is mentioned: 'And what is the form of that Person? Like a saffron-coloured raiment,' &c. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**तस्य ह वा एतस्य पुरुषस्य रूपं यथा माहारजनं वासः** (बृ.४.३.६) इत्यादिना आकारविशेषं चाभिधाय
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+महारजनं - कुसुम्भः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अथात आदेशो -  
+> नेति, नेति -  
+> न ह्य् एतस्माद् इति नेत्य्  
+> अन्यत् परम् अस्ति  
+> (बृ.४.३.६) 
+
+इति सर्वं प्रकृतं  
+ब्रह्मणः प्रकारम् इति-शब्देन परामृश्य  
+तत्सर्वं प्रतिषिध्य 
+</details>
+
+<details><summary>English</summary>
+
+But thereupon the text proceeds, 
+
+> 'Now follows the teaching-- 
+> not so, not so;  
+> for there is not anything else  
+> higher than this "not so." 
+
+'This passage, referring to all the previously mentioned forms of Brahman by means of the word 'so,' negatives them; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**अथात आदेशो नेति नेति न ह्येतस्मादिति नेत्यन्यत्परमस्ति** (बृ.४.३.६) इति सर्वं प्रकृतं ब्रह्मणः प्रकारमितिशब्देन परामृश्य  
+तत्सर्वं प्रतिषिध्य 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-विशेषाधिष्ठानं  
+सन्-मात्रम् एव ब्रह्म;  
+</details>
+<details><summary>English</summary>
+
+intimating thereby that Brahman is nothing else than pure Being, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वविशेषाधिष्ठानं सन्मात्रमेव ब्रह्म;  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विशेषास् त्व्  
+एवं-विधं स्व--स्व-रूपम्  
+अजानता ब्रह्मणा कल्पिता  
+इति दर्शयति; 
+</details>
+
+<details><summary>English</summary>
+
+and that all distinctions are mere imaginations due to Brahman not knowing its own essential nature. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विशेषास्त्वेवंविधं स्वस्वरूपमजानता ब्रह्मणा कल्पिता इति दर्शयति; 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः कथम् उभयिलङ्गत्वं ब्रह्मण इति – अत्राह –
+</details>
+
+<details><summary>English</summary>
+
+How then can Brahman possess the twofold characteristics?--To this the next Sūtra replies.
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
+अतः कथमुभयिलङ्गत्वं ब्रह्मण इति – अत्राह –
+</details>
+
+
+### परिहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ३३५. प्रकृतैतावत्त्वं हि प्रतिषेधति  
+> ततो ब्रवीति च भूयः ॥ ३–२–२१ ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+21. For the text denies the previously declared so-muchness; and declares more than that.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**३३५. प्रकृतैतावत्त्वं हि प्रतिषेधति ततो ब्रवीति च भूयः ॥ ३–२–२१ ॥**
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैतद् उपपद्यते –  
+यद् ब्रह्मणः प्रकृति-विशेषवत्त्वं **नेति नेति** (बृ.४.३.६) इति प्रतिषिध्यत – इति,  
+तथा सति भ्रान्ति-जल्पितायमानत्वात् । +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+It is impossible to understand the text 'not so, not so' as negativing those distinctions of Brahman which had been stated previously.  
+If the text meant that, it would be mere idle talk.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैतदुपपद्यते – यद्ब्रह्मणः प्रकृतिविशेषवत्त्वं **नेति नेति** (बृ.४.३.६) इति प्रतिषिध्यत – इति, तथा सति भ्रान्तिजल्पितायमानत्वात् । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**न हि**  
+ब्रह्मणो विशेषणतया  
+प्रमाणान्तराप्रज्ञातं सर्वं तद्-विशेषणत्वेन **+उपदिश्य**  
+पुनस् **तद् एवानुन्मत्तः प्रतिषेधति** । 
+</details>
+
+<details><summary>English</summary>
+
+For none but a person not in his right mind  
+would first teach that all the things mentioned in the earlier part of the section are distinctive attributes of Brahman--  
+as which they are not known by any other means of proof--  
+and thereupon deliberately ~~negative~~ negate his own teaching.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि ब्रह्मणो विशेषणतया प्रमाणान्तराप्रज्ञातं सर्वं तद्विशेषणत्वेनोपदिश्य पुनस्तदेवानुन्मत्तः प्रतिषेधति । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनूद्य निषेधतीति  
+न भ्रान्त-जल्प-कल्पता इत्यत्राह -  
+**न हि** इति ।  
+</details>
 
 
 
-अथ स्यात् - द्वे वाव ब्रह्मणो रूपे ... ....
-
-प्रकृतैतावत्त्वं हि प्रतिषेधति ततो ब्रवीति च भूयः ॥ 3-2-21 ॥
-
-नैतदुपपद्यते यह्ब्रह्मणः प्रकृतविशेषवत्त्वं ... ... अपि तु पूर्वप्रकृतेयत्तामात्रम् । अत उभयलिङ्गमेव परं ब्रह्म ॥ 21 ॥
-
-अनन्तरसूत्रशङ्कामाह - अथ स्यात् इति । महारजनं - कुसुम्भः । प्रकृतैतावत्वं हि प्रतिषेधति ततो ब्रवीति च भूयः । अनूद्य निषेधतीति न भ्रान्तजल्पकल्पता इत्यत्राह - न हि इति । नोपपद्यते इत्यन्तेन हि शब्दाभिप्रायो विवृतः । सात्र इति इति । इतिः प्रकारार्थः । इयत्ता च प्रकार इत्यर्थः । प्रकारनिषेधपरत्वे त्वान्तत्वं न घटते इत्यर्थः ॥
+नोपपद्यते इत्यन्तेन हि शब्दाभिप्रायो विवृतः । सात्र इति इति । इतिः प्रकारार्थः । इयत्ता च प्रकार इत्यर्थः । प्रकारनिषेधपरत्वे त्वान्तत्वं न घटते इत्यर्थः ॥
 
 अनन्तरम् इति ततः शब्ददार्थ उक्तः न ह्येतस्मात् इति निषेधः प्रतीतः , न तु गुणः , स्वरूपमेव सत्यं प्रतीतमित्यत्राह - अयमर्थः इति ॥
 
