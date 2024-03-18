@@ -2481,6 +2481,10 @@ The word śo refers to that limited nature, and the phrase _not so_ therefore me
 अतश् च प्रकृत-विशेषण-योगित्व-मात्रं ब्रह्मणः प्रतिषेधति । 
 </details>
 
+<details><summary>English</summary>
+
+This interpretation is further confirmed by the fact that after that negative phrase further qualities of Brahman are declared by the text: 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -2489,7 +2493,41 @@ The word śo refers to that limited nature, and the phrase _not so_ therefore me
 </details>
 
 
-अनन्तरम् इति ततः शब्ददार्थ उक्तः न ह्येतस्मात् इति निषेधः प्रतीतः , न तु गुणः , स्वरूपमेव सत्यं प्रतीतमित्यत्राह - अयमर्थः इति ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रवीति हि भूयो गुण-जातं –  
+
+> "न ह्य् एतस्माद्" इति  
+नेत्य् अन्यत् परम् अस्त्य्  
+अथ नामधेयं सत्यस्य सत्यम्  
+
+इति  
+
+**प्राणा वै सत्यं तेषामेष सत्यम्** (बृ.४.३.६) इति ।
+</details>
+
+<details><summary>English</summary>
+
+'For there is not anything higher than this _not so_.  
+Then comes the name, the _True of the True_;  
+for the prāṇas are the True,  
+and he is the True of them.'  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रवीति हि भूयो गुणजातं – न ह्येतस्मादिति नेत्यन्यत्परमस्त्यथ नामधेयं सत्यस्यसत्यमिति **प्राणा वै सत्यं तेषामेष सत्यम्** (बृ.४.३.६) इति ।
+</details>
+
+
+**अनन्तरम्** इति  
+ततः शब्ददार्थ उक्तः  
+न ह्येतस्मात् इति निषेधः प्रतीतः ,  
+न तु गुणः ,  
+स्वरूपमेव सत्यं प्रतीतम्  
+इत्यत्राह - अयमर्थः इति ॥
 
 ब्रह्मणः प्रमाणान्तरागोचरत्वेन ... ...
 
