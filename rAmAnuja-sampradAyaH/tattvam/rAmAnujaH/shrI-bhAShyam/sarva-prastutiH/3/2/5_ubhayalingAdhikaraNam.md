@@ -3043,8 +3043,8 @@ and the light (is) intuited as constituting Brahman's essential nature by repeti
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतश्च प्रकृतैतावत्त्वमेव प्रतिषेधति;  
-न मूर्तामूर्तादिविशष्टत्वम्; 
+इतश् च प्रकृतैतावत्त्वम् एव **प्रतिषेधति**;  
+न मूर्तामूर्तादि-विशष्टत्वम्; 
 </details>
 
 <details><summary>English</summary>
@@ -3062,36 +3062,198 @@ That the clause 'not so' negatives not Brahman's possessing two forms, a materia
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यतस्  
-साक्षात्-कृत-पर-ब्रह्म--स्व-रूपाणां वाम-देवादीनां दर्शने  
-प्रकाशादिवत् ज्ञानानन्दादि--स्व-रूपवन् मूर्तादि-प्रपञ्च-विशष्टताया अपि  
+साक्षात्-कृत--पर-ब्रह्म--स्व-रूपाणां वाम-देवादीनां दर्शने -  
+
+प्रकाशादिवत् ज्ञानानन्दादि--स्व-रूपवन् 
+
+मूर्तादि-प्रपञ्च-विशिष्टताया अपि  
 ब्रह्म-गुणत्वावैशेष्यं प्रतीयते – 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>English</summary>
 
-यतस्साक्षात्कृतपरब्रह्म-स्वरूपाणां वामदेवादीनां दर्शने प्रकाशादिवत् ज्ञानानन्दादिस्वरूपवन्मूर्तादिप्रपञ्चविशष्टताया अपि ब्रह्मगुणत्वावैशेष्यं प्रतीयते – 
+also that in the vision of Vāmadeva and others  
+who had attained to intuition into Brahman's nature,  
+the fact of Brahman having all material and immaterial beings for its attributes  
+is apprehended in non-difference, i.e. in the same way as the fact of light (i.e. knowledge) and bliss constituting Brahman's essential nature.  
 </details>
 
 
+<details><summary>मूलम्</summary>
+
+यतस्साक्षात्कृतपरब्रह्म-स्वरूपाणां वामदेवादीनां दर्शने प्रकाशादिवत् ज्ञानानन्दादिस्वरूपवन्मूर्तादिप्रपञ्चविशिष्टताया अपि ब्रह्मगुणत्वावैशेष्यं प्रतीयते – 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 मूर्तामूर्तादि-प्रपञ्च-विशिष्टताया  
 उपासनार्थम् आरोपितत्व-शङ्काऽत्र निरस्यते ।  
-तेषाम् अपि मूर्तामूर्तादि-प्रपञ्च-विशिष्ट-प्रतीतिः  
-भ्रान्तिर् इति शङ्कायाम्  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद्-हैतत् पश्यन्न्  
+> ऋषिर् वामदेवः प्रतिपेदे  
+> अहं मनुर् अभवं सूर्यश् च  
+> (बृ.३.४.१०) 
+
+इत्यादि। 
+</details>
+
+<details><summary>English</summary>
+
+Compare the text 'Seeing this the R̥shi Vāmadeva understood, I am Manu and the sun' (Br̥. Up. I, 4, 10). 
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+**तद्धैतत् पश्यन्नृषिर्वामदेवः प्रतिपेदे अहं मनुरभवं सूर्यश्च** (बृ.३.४.१०) इत्यादि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्म--स्व-रूप-भूत--प्रकाशानन्दादिश् च  
+तेषां वाम-देवादीनां संराधनात्मके कर्मण्य्  
+अभ्यासाद् उपलभ्यते। 
+</details>
+
+<details><summary>English</summary>
+
+And that light and bliss constitute Brahman's nature was perceived by Vāmadeva and the rest through repeated performance of the practice of devout meditation. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मस्वरूपभूतप्रकाशानन्दादिश्च तेषां वामदेवादीनां संराधनात्मके कर्मण्यभ्यासादुपलभ्यते। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तेषाम् अपि मूर्तामूर्तादि-प्रपञ्च-विशिष्ट-प्रतीतिः भ्रान्तिर् इति शङ्कायाम्  
 उत्तर-खण्डं व्याचष्टे -  
-ब्रह्म-स्व-रूपभूत इति ।  
+ब्रह्म-स्व-रूप-भूत इति ।  
+
 उपासनेन साक्षात्-कृतत्वात्   
 प्रकाशानन्दादेर् इव  
 प्रपञ्च-विशिष्टतायाः परमार्थत्वम्  
 इत्य् अर्थः ॥ 24 ॥
+</details>
 
-उक्तं ब्रह्मण उभयलिङ्गत्वुपसंहरति -
 
-अतोऽनन्तेन तथा हि लिङ्गम् ॥ 3-2-25 ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतः उक्तैर्हेतुभिः ब्रह्मणः ... ... तथा हि सत्युभयसिङ्गं ब्रह्मोपपन्नं भवति ॥ 25 ॥
+तद्वच् चाभ्यस्त-संराधनानां तेषां  
+मूर्तामूर्तादि-विशष्टत्वम् अप्य्  
+अ-विशेषेण प्रतीयत इत्य् अर्थः॥२४॥
+</details>
 
-अतोऽनन्तेन तथा हि लिङ्गम् । नेति नेत्यस्यावधिनिषेधपरत्वात् निरवधिकेन कल्याणगुणजातेन विशिष्टत्वं ब्रह्मणः सिद्धमित्यर्थः । उभयलिङ्गत्वं पूर्वपक्षीकुर्वतामुपसंहारसूत्रं न घटते , तत्समर्थनेनोपसंहारात् ॥
+<details><summary>English</summary>
+
+In the same way then, i.e. by repeated meditation, they also became aware that Brahman has all material and immaterial things for its distinguishing modes.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तद्वच्चाभ्यस्तसंराधनानां तेषां मूर्तामूर्तादिविशष्टत्वमप्यविशेषेण प्रतीयत इत्यर्थः॥२४॥
+</details>
+
+### कल्याणगुणवत्तानिर्णयेन उभयलिङ्गत्वोपसंहारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्तं ब्रह्मण उभयलिङ्गत्वम् उपसंहरति –
+</details>
+
+<details><summary>English</summary>
+
+--The next Sūtra sums up the proof of Brahman's possessing twofold characteristics.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उक्तं ब्रह्मण उभयलिङ्गत्वमुपसंहरति –
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**३३९. अतो +++(→"नेति नेति" न्यायेन)+++ ऽनन्तेन +++(कल्याण-गुणगणेन)+++ - तथा हि +++(उभय-)+++लिङ्गम् ॥ ३–२–२५ ॥**
+</details>
+
+<details><summary>English</summary>
+
+25. Hence (Brahman is distinguished) by what is infinite; for thus the characteristics (hold good).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+**३३९. अतोऽनन्तेन तथा हि लिङ्गम् ॥ ३–२–२५ ॥**
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अतः** उक्तैर् हेतुभिर्  
+ब्रह्मणः **अनन्तेन** कल्याण-गुण-गणेन  
+विशिष्टत्वं सिद्धम् । 
+</details>
+
+<details><summary>English</summary>
+
+By the arguments stated it is proved that Brahman is distinguished by the infinite multitude of blessed qualities. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः उक्तैर्हेतुभिर्ब्रह्मणः अनन्तेन कल्याणगुणगणेन विशिष्टत्वं सिद्धम् । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**तथा हि** सत्य् उभय-लिङ्गं ब्रह्मोपपन्नं भवति ॥२५॥
+</details>
+
+<details><summary>English</summary>
+
+And this being so, it follows that Brahman possesses the twofold characteristics.--
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि सत्युभयलिङ्गं ब्रह्मोपपन्नं भवति ॥२५॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नेति नेत्यस्यावधि-निषेध-परत्वात्  
+निर्-अवधिकेन कल्याण-गुण-जातेन  
+विशिष्टत्वं ब्रह्मणः सिद्धमित्यर्थः ।  
+उभय-लिङ्गत्वं पूर्व-पक्षी-कुर्वताम् उपसंहार-सूत्रं न घटते , तत्-समर्थनेनोपसंहारात् ॥
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति उभयलिङ्गाधिकरणम् - 5
+</details>
 
-------
+<details><summary>English</summary>
+
+Here terminates the adhikaraṇa of 'that which has twofold characteristics.'
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इति उभयलिङ्गाधिकरणम् - 5
+</details>
+
