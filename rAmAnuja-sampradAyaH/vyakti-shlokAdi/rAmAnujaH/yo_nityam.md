@@ -14,6 +14,21 @@ title = "यो नित्यम्"
 कूरेशेन वैकुण्ठस्तवे रचितम् भति।
 </details>
 
+<details><summary>English</summary>
+
+MEANING: 
+adiyEn has sought the refuge of the sacred feet of AchArya RaamAnujA, the  huge ocean of Mercy and who possesses the celebrated six guNams of Bhaga vAn Himself. He considered every thing else other than the golden pair of the  lotus feet of Achyuthan, as worthless blades of grass. He is our illustrious  AchAryan, who chases away the dark night of nescience (ajn~Anam) suffered  by the thoNDar kulam (BhAgavatha GhOshti).  
+
+COMMENTS: 
+ANDAL addressed Her Lord in ThiruppAvai and requested Him to hear her cele bration of His golden pair of sacred feet: “unn poRRAmarai adiyE pORRum  poruL kELAi”. KurEsar takes his cue from here and describes the matchless  sacred feet of the Lord, which are the bhOgya vasthu (object of enchantment)  for AchArya RaamAnujA as: “Achyutha padhAmbhuja yugma rukma vyAmO hatha:”  
+KurEsar addresses AchArya RaamAnuja in the first slOkam as  “Bhagavatha:” (ShAdguNya SampUrNa BhagavAn). AchArya RaamAnuja was a  SanyAsi with ThridhaNDam. Why does KurEsar call him as “BhagavAn”? The  clue is that both BhagavAn and AchArya RaamAnuja are “trayyantha samrak 
+shakars” (protectors of the VedAs) in SanyAsi roopam holding the thridhaN Dams (MukkOl Munivar). In DattAthrEya avathAram, BhagavAn appeared as a  SanyAsi carrying the ThridhaNDam and protected the three Vedams  (thridhaNDa dhAriNA poorvam VishNunA rakshithA thrayee). In Kali yugam, 
+5  
+
+AchArya RaamAnuja took on SanyAsa Aasramam and defended the VedAs  through his Sri Sookthis (Sri BhAshyam, VedAntha dheepam, VedAntha  Saaram et al).  
+“Dayaika SindhO: asmath GurO: RaamAnujasya”. BhagavAn gets angry at  times over the limitless trespasses of His Saasthrams by the jeevans  (kRodham Aaharayath theevram) and makes nigraha sankalpam (vow to pun ish the erring jeevan). AchArya RaamAnujA on the other hand never gets an gry at us and is an ocean of Dayaa and Vaathsalyam in correcting our errors  and showing us the path of redemption (ujjIvanam).  
+
+</details>
 
 
 <details><summary>मूलम्</summary>
