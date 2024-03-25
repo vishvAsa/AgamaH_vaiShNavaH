@@ -13,17 +13,38 @@ title = "१ जिज्ञासाधिकरणम्"
 1. Then therefore the enquiry into Brahman.
 </details>
 
-## अतः
 <details><summary>मूलम्</summary>
 
 अथातो ब्रह्मजिज्ञासा ॥ 1-1-1॥
 </details>
 
+## अथ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्रायम् **अथ**-शब्दः आनन्तर्ये भवति  
++++(- पूर्वोत्तरमीमांसयोर् एकशास्त्रत्वात्)+++। 
+</details>
+
+<details><summary>English</summary>
+
+In this Sūtra the word 'then' expresses immediate sequence; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्रायमथशब्दः आनन्तर्ये भवति। 
+</details>
+
+
+## अतः
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतश्-शब्दो वृत्तस्य हेतु-भावे ।  
+**अतश्**-शब्दो वृत्तस्य हेतु-भावे ।  
 अधीत-साङ्ग-सशिरस्क-वेदस्य  
++++("स्वर्गकामो ज्योतिषा यजेत; प्रतिवसन्तं यजेत" इत्यादीनाम् आपाततो विचारेणापि)+++  
 +अधिगताल्पास्थिर-फल-केवल-कर्म-ज्ञानतया  
 सञ्जात-मोक्षाभिलाषस्य  
 +अनन्तास्थिर-फल-ब्रह्म-जिज्ञासा ह्य् अनन्तरभाविनी । 
@@ -31,7 +52,7 @@ title = "१ जिज्ञासाधिकरणम्"
 
 <details><summary>Thibaut</summary>
 
-In this Sūtra the word 'then' expresses immediate sequence; the word 'therefore' intimates that what has taken place (viz. the study of the karmakāṇḍa of the Veda) constitutes the reason (of the enquiry into Brahman). For the fact is that the enquiry into (lit.'the desire to know') Brahman--the fruit of which enquiry is infinite in nature and permanent--follows immediately in the case of him who, having read the Veda together with its auxiliary disciplines, has reached the knowledge that the fruit of mere works is limited and non-permanent, and hence has conceived the desire of final release.
+the word 'therefore' intimates that what has taken place (viz. the study of the karmakāṇḍa of the Veda) constitutes the reason (of the enquiry into Brahman). For the fact is that the enquiry into (lit.'the desire to know') Brahman--the fruit of which enquiry is infinite in nature and permanent--follows immediately in the case of him who, having read the Veda together with its auxiliary disciplines, has reached the knowledge that the fruit of mere works is limited and non-permanent, and hence has conceived the desire of final release.
 </details>
 
 
