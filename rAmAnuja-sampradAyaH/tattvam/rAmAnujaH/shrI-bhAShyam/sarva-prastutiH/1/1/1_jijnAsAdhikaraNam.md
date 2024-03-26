@@ -80,6 +80,14 @@ the word 'therefore' intimates that what has taken place (viz. the study of the 
 "कर्त्तृ-कर्मणोः कृती"ति विशेष-विधानात् ।  
 </details>
 
+<details open><summary>विश्वास-टिप्पनी</summary>
+
+अत्र व्याकरण-विशेष-प्रदर्शनं स्व-प्रामाणिकतायाः, सूत्रप्रामाण्यं चाभिव्यञ्जयितुम्।  
+श्रुतप्रकाशिकायाम् इतोऽपि विस्तारः। 
+</details>
+
+
+
 <details><summary>Thibaut</summary>
 
 The compound 'brahmajijñāsā' is to be explained as 'the enquiry of Brahman,'  
