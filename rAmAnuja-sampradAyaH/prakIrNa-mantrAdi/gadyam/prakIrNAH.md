@@ -10,8 +10,6 @@ title = "प्रकीर्णाः"
 
 इति त्रिनामा ।
 
-## शतधारः
-
 
 ## पञ्चोपनिषन्मत्राः
 - [अत्रोक्ताः](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/vishvAsa-sankalanam/bhUta-shuddhiH) । 
