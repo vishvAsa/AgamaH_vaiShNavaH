@@ -31,9 +31,7 @@ In this upāya ( consisting of angł and aṅgas ) to be adopted by the seeker a
 
 That is ;--- one should realise that, in relation to the Lord of all who appears in the base and the suffix of the first letter in the praṇava (i.e.) a which means Iśvara and the suffix of the dative or fourth case which has been dropped (i.e.) aya (for the Lord of all) as the protector of all and the śeṣī  of all, one has no interest or connection at all in the activity of protecting one-self or those related to one-self and also in what results from the protection of oneself and those related to oneself, either as depending upon one self or as bringing about some results for oneself. It is the specific form of thought that one is śeṣa to the Lord and is entirely dependent upon the Lord - in this, the most important feature is surrendering the responsibility of protection (bharanyāsa) to the Lord.
 
-THE MANNER IN WHICH BHARANYĀSA
-
-SHOULD BE PERFORMED:
+## THE MANNER IN WHICH BHARANYĀSA SHOULD BE PERFORMED:
 
 The manner in which this form of mental realisation contained in the injunction "One should surrender one's self to me" should be effected is as follows:- The person should realise this within himself: viz., "I am absolutely dependent (upon the Lord); I am His śeṣa and exist only for Him. My śeṣatva does not belong to anybody else and has no dependence on anybody else. Therefore Iśvara who is the śeṣī  and who is independent should protect me for the fulfilment of His own purposes. As is said in the śloka  : "Even myself or ātmā does not belong to me; (if a man should consider what does not belong to him as his, he could consider the whole earth as his )'; my soul does not belong to me, it does not belong to anyone else (than Bhagavān), I do not belong to myself, nor can I say that any thing belongs to me unconditionally. As stated in the śloka  -" The embodied being who is like a lump of clay and is entirely dependent on the Lord) is not able to protect himself; how can he protect others ?', I am incapable of protecting myself and those who are said to be mine, independently (of the Lord) or for the sake of myself as the main person interested in it." Just as the wise Uparicharvasu always felt that his soul, his kingdom, his wealth, his wife, and his vehicles were all for Bhagavān, we should also say, "I and what is mine are His. The responsibility of protecting these is also that of the Lord who is the universal Protector" for it is said : " the surrender of the responsibility for one's self and of what is one's is called atmanikṣepa." " There is no one other than Bhagavān who is capable of affording protection ". The fruit of this protection should also be considered primarily His, for it has been said, "Ātmanikṣep consists (also) in giving up all relationship to the fruit resulting from His protection and surrendering it (viz the fruit) to Keśava "who is the chief beneficiary".
 
@@ -74,23 +72,24 @@ which says "Whatever I may be in the body, the senses and the like, and whatever
 If a man has (somehow) come into possession of a cloth bag with the king's seal on it, he would return the bag (to the king), even though he does not know for certain the nature and character of the gem contained within it, in the hope that the king would take it back. So also even those who have not the intelligence to know, with perfect clearness, the nature, character and state of the soul as distinguished from the body may surrender their self or soul with the little knowledge that they possess. If they do so, even for that much, Bhagavān will be prepared to remit the punishment for the theft consisting in making away with one's self (i. e. claiming it as one's own) from beginningless time. This idea contained in the śāstras is what (Aḷavandār) has in mind. In the next *śloka  (53)[^53] it might appear as if he revoked the surrender (made before); but its meaning is only this : Even when a person is bent on surrendering his self without a knowledge of such things as the nature of his self, if he surrenders it with the notion that it is his own, like the presentation to a king of something belonging to oneself, it would not completely put an end to the crime of having stolen one's self. It does not mean that Aḷavandār considered his self surrender made in śloka  52 in accordance with the injunctions contained in the śāstras, as having been made in ignorance.
 
 [^53]: “मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव । नियतस्वमिति प्रबुद्धधीरथवा किन्नु समर्पयामि ते॥ आळवन्दार् स्तोत्रम्-५३
+
 However O lord, what can I surrender to Thee, O Madhava, when I know that I and whatever belongs to me are always thine. As I have nothing of my own, I have nothing to surrender, I am only giving Thee what belongs to Thee",
 
 So from these two śloka s, it is clear that the essence of the śāstras which primarily prescribe bharasamarpaṇam as in the words of Aḷavandār (60) "The responsibility of protecting me is also Thine", consists in saying "na mama “It is not mine" and getting rid of the feeling of one's connection (with everything), though one may not have a true and discriminatory knowledge about such things as the essential nature of the self.
 
-THE MEANING OF THE AÑGĪ IN DVAYAM :
+## THE MEANING OF THE AÑGĪ IN DVAYAM :
 
 Thus in the first part of the Dvaya which deals with the upāya or means, the surrender to the Lord of the responsibility (for one's protection) accompanied by the thought that one is śeṣa to the Lord and exists only for Him is to be understood in connection with the verb (prapadye) joined with the word s'aranam which treats of the upāya preceded by supreme faith ( mahavisvāsa ) and which contains within it, in an implicit form, the supplication for protection.
 
 Thus (from what has been said in this chapter and in the foregoing chapters), although these six (the five aṅgas and the angī) may be understood separately, while considering, in detail, the meaning of each part of the sentence, yet they constitute only a single mental act while understanding the whole sentence, just like the understanding of other sentences having several parts. Therefore, in accordance with the s'astras, this principal action with its aṅgas is performed only once.
 
-PRAPATTI IS A MOMENTARY ACTION.
+## PRAPATTI IS A MOMENTARY ACTION.
 
 An archer's action in discharging an arrow for hitting a target may be constituted of several separate acts (like observing the object, taking the aim and discharging the arrow) and yet it is all accomplished in a single moment. Similar is the act of surrendering (to the Lord) the responsibility of (one's) protection. This is evident from the śruti  itself. (The śruti  says, "* Praṇava (aum) is the bow: the soul or self is the arrow; it must be discharged at Brahman, which is the target, with great care and with keen concentration ").
 
 That this surrender of the responsibility of protection (bharasamarpana) should be chiefly thought of while uttering the mantras of prapatti is clearly stated as follows in Satyaki tantra by the Saviour Himself, who undertakes the responsibility: "With this mantra one should surrender one's self to me. The one who has surrendered to me the responsibility of doing what should be done will become one who has done one's duty."
 
-A BRIEF STATEMENT OF WHAT BHARASAMARPAṆA IS:
+## A BRIEF STATEMENT OF WHAT BHARASAMARPAṆA IS:
 
 In (the performance of) this (angī), the conclusion regarding the adoption of this upāya with its aṅgas is as follows:- it consists in the act of surrendering the responsibility for the protection of one's self preceded by the following:--the giving up of the thought that one is the doer (for it is the Lord that does everything), the giving up of the thought of 'mine' (that there is anything belonging to oneself), the giving up of the fruit of the action, the giving ap of the thought that he himself adopts the means for obtaining that fruit; these must be accompanied by anukūlya saṅkalpa, pratikulyavarjana and the rest and, likewise, reverent bowing down to the succession of gurus and with the utterance of Dvaya. The surrender of the responsibility for the protection of one's self carries with it implicitly the surrender of one's Svarūpa or self and the fruit or gain arising from it. The giving up of the thought that one is the doer will result from the realisation of one's entire dependance on the Lord throughout the existence of the soul. This will make one know that this doership has been vouchsafed to one by the Lord Himself.
 
@@ -100,9 +99,7 @@ The giving up of the upāya for attaining the fruit (mokṣa ) will result from 
 
 prapatti is non-sentient and, therefore, incapable of possessing the will to grant the fruit and that only Iśvara is the upāya for this fruit (mokṣa ). Since Bhagavān who, out of the love natural to Him, has been the primaeval cause of everything from the time of giving the man the body and the senses to the time of his uttering the Dvaya-since Bhagavān is possessed of the will accompanied by the desire to show His grace and is the immediate and direct cause (of the final fruit, viz. mokṣa ) and since he also stands Himself in the place of the prescribed upāya in the case of the man who is incapable of (adopting) other upāyas, He alone is the upāya for the fruit. The authority for this conclusion is the nature of the object, (namely, Bhagavān) as understood from the śāstra which reveals the Person who has that nature and this authority cannot be challenged by reason.
 
-NADATHUR AMMĀL'S SUMMARY OF THE MEANING OF
-
-PRAPATTI :
+## NADATHUR AMMĀL'S SUMMARY OF THE MEANING OF PRAPATTI :
 
 The following is a summary of the performance of prapatti with its aṅgas as given by Śrī Nadathur Ammal:
 
@@ -142,10 +139,10 @@ Our princely ācārya s, who wear the crown of proficiency in the Vedas, have pl
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-युग्यस्यन्दनसारथिक्रमवति त्रय्यन्तसन्दर्शिते  
-तत्त्वानां त्रितये यथार्हविविधव्यापारसन्तानिनि ।  
-हेतुत्वं त्रिषु कर्तृभाव उभयोस्स्वाधीनतैकत्र तत्  
-स्वामिस्वीकृतयद्भरोऽयमलसस्तत्र स्वयं निर्भरः ॥ २९ ॥
+युग्य+++(←चित्)+++-स्यन्दन+++(←अचित्)+++-सारथि+++(←ईश्वर)+++-क्रमवति त्रय्य्-अन्त-सन्दर्शिते  
+तत्त्वानां त्रितये यथाऽर्ह-विविध-व्यापार-सन्तानिनि ।  
+हेतुत्वं त्रिषु, कर्तृ-भाव उभयोस्, स्वाधीनतैकत्र,, तत्  
+स्वामि--स्वी-कृत--यद्-भरो ऽयम् +++(जीवः)+++ **अलसस्**, तत्र स्वयं **निर्भरः** ॥ २९ ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -156,7 +153,11 @@ Our princely ācārya s, who wear the crown of proficiency in the Vedas, have pl
 स्वामिस्वीकृतयद्भरोऽयमलसस्तत्र स्वयं निर्भरः ॥ २९ ॥
 </details>
 
-The horse, the chariot and the charioteer -- the end of the Vedas (the Upaniṣads) shows that the three tattvas, cit, acit, and Iśvara are related to one another respectively like the three mentioned above and have always had varied activities in accordance with their respective nature. In connection with these activities, all the three are of the nature of being the material) causes; two, cit and Iśvara, are of the nature of doers, and one (1.) Iśvara is alone independent (of all others). Therefore the jīva, the responsibility for whose protection has been undertaken by Iśvara who is the Master, is carefree and has no further responsibility of his own in the matter of his protection.
+<details><summary>English</summary>
+
+The horse, the chariot and the charioteer -- the end of the Vedas (the Upaniṣads) shows that the three tattvas, cit, acit, and Iśvara are related to one another respectively like the three mentioned above and have always had varied activities in accordance with their respective nature. In connection with these activities, all the three are of the nature of being the (material) causes; two, cit and Iśvara, are of the nature of doers, and one (1.) Iśvara is alone independent (of all others). Therefore the jīva, the responsibility for whose protection has been undertaken by Iśvara who is the Master, is carefree and has no further responsibility of his own in the matter of his protection.
+</details>
+
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
