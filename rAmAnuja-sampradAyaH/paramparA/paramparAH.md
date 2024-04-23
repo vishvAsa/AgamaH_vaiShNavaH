@@ -10,6 +10,17 @@ unicode_script = "devanagari"
 
 </details>
 
+## आचार्य-विभागः
+- समाश्रयण/पञ्च-संस्कार-दाता
+- भरन्यासा-कारकः
+- ग्रन्थ-बोधकः
+  - श्रीभाष्यम्
+  - गीताभाष्यम्
+  - रहस्य-ग्रन्थाः
+  - भगवद्-विषयम्
+- ग्रन्थ-पुनर्-बोधकः (चिन्तनाचार्यः)
+  - साधारणतया गुरुपरम्परासु न गण्यते।
+
 
 ## रामानुजं यावत्
 **नारायणः** → लक्ष्मीः → विष्वक्सेनः … →  
@@ -168,7 +179,7 @@ his descendents of course became mAmuni-ites.
 
 
 ### भगवद्-विषय-परम्परा
-रामानुजः → ऎम्बार् गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नञ्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) 9k-व्याख्या-स्रोतः (शिष्य-लेखितः) → नम्पिळ्ळै → पॆरियव्-आच्चान्-पिळ्ळै, वडक्कुत्-तिरु-वीदिप्-पिळ्ळै (ईडु-३६k-व्याख्या-लेखकः) → Vāraṇādrīśa/ Pillai Lokacharya, अऴगिय-मणवाळः → thiruvAimozhi piLLai → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः), Erumbi Appa, Appillai, and Appillan
+रामानुजः → ऎम्बार् गोविन्दः → पराशर-भट्टः → पॆरिय-जीयर्, नञ्-जीयर् (मैसूरु-प्रदेशे तॆङ्गले-ग्रामात्) 9k-व्याख्या-स्रोतः (शिष्य-लेखितः) → नम्पिळ्ळै → पॆरियव्-आच्चान्-पिळ्ळै, वडक्कुत्-तिरु-वीदिप्-पिळ्ळै (ईडु-३६k-व्याख्या-लेखकः) → Vāraṇādrīśa/ Pillai Lokacharya, अऴगिय-मणवाळः → thiruvAimozhi piLLai → Manavala Mamuni →   VanamamAlai jIyar, paravastu-bhaTTa Piran jIyar, tiruvenkaTa jIyar, kovil kandaaDai aNNan, Erumbi Appa, Appillai, Appillan, (एकदेशिनाम् अनुसारेण) prathivadi-bhayankara aNNan (वेदान्तदेशिकात्मजस्यापि श्रीभाष्यशिष्यः)
 
 वडक्कुत्-तिरु-वीदिप्-पिळ्ळै इत्यनेन रचिता प्रथम-व्याख्या तद्-आचार्येण नम्पिळ्ळै-महाशयेन तिरस्कृता ज्वालिता च।  
 पुनर् लिखिते सति, निगूहितम्। तच्च पुनर् मनवाळ-मामुनि-काले वंश-प्राप्तं प्रकाशितम्। 
@@ -176,7 +187,7 @@ his descendents of course became mAmuni-ites.
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ऎरुम्बिय्-अप्पो दुराग्रहवान् इति श्रूयते।  
-erumbiyappa had a 10 yr fall-out with manavALa mAmuni himself।  
+As per naTTeri rAjagopAlAchArya's lecture, erumbiyappa had a 10 yr fall-out with manavALa mAmuni himself.  
 was upset when ranganAtha of shrIrangam decided in favor of VD's work represented by prativAdi bhayankara.
 </details>
 
