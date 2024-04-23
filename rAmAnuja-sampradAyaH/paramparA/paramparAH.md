@@ -17,6 +17,7 @@ unicode_script = "devanagari"
   - श्रीभाष्यम्
   - गीताभाष्यम्
   - रहस्य-ग्रन्थाः
+    - बहुशो ऽयम् एव भरन्यासकोऽपि।
   - भगवद्-विषयम्
 - ग्रन्थ-पुनर्-बोधकः (चिन्तनाचार्यः)
   - साधारणतया गुरुपरम्परासु न गण्यते।
@@ -123,7 +124,7 @@ munitraya = all the svayamAchAryas in the Desika tradition who had not yet affil
 
 parakala matha tradition mostly goes along with munitraya only.. even in srijayanti nirnaya
 
-#### Andavans 
+#### आण्डवन्-सम्प्रदायः 
 आण्डवन्-सम्प्रदाये नित्यानुसन्धाने भरन्यास/रहस्योपदेश-गुरु-परम्पराम् वदन्ति। 
 
 - Ramanuja Maha Desikan …
