@@ -981,7 +981,7 @@ The case is analogous to that of the term 'bhagavat [^fn_0].'
 </details>
 
 
-<details><summary>हिन्दी - एकत्रैव मुख्या वृत्तिः</summary>
+<details><summary>श्रुत-प्रकाशिका - एकत्रैव मुख्या वृत्तिः</summary>
 
 > कथं तत्रैव मुख्य-वृत्तः,  
 अन्यत्रापि हि ब्रह्मशब्दः प्रयुज्यत 
@@ -999,7 +999,7 @@ The case is analogous to that of the term 'bhagavat [^fn_0].'
 </details>
 
 
-<details><summary>हिन्दी - अवयव-शक्ति-निमित्तता न सर्वत्र</summary>
+<details><summary>श्रुत-प्रकाशिका - अवयव-शक्ति-निमित्तता न सर्वत्र</summary>
 
 > अनेक-शक्ति-कल्पनं गौणत्वं वा न स्यात्, बृहत्त्व-गुण-योगि-सर्व-व्यक्तिष्व् एकयैव शक्त्या मुख्यत्व-संभवाद् 
 
@@ -1047,7 +1047,7 @@ The case is analogous to that of the term 'bhagavat [^fn_0].'
 न तु सार्वत्रिक इति ।  
 </details>
 
-<details><summary>हिन्दी - भगवच्छब्दयोगः</summary>
+<details><summary>श्रुत-प्रकाशिका - भगवच्छब्दयोगः</summary>
 
 तम् इमं न्यायम् अभिप्रेत्य  
 भगवच्छब्दस्य पुरुषोत्तम एव  
@@ -1110,7 +1110,7 @@ The case is analogous to that of the term 'bhagavat [^fn_0].'
 भाष्ये दृष्टान्ती-कृतः भगवच्-छब्दवद् इति ।  
 </details>
 
-<details><summary>हिन्दी - पाराशर्योक्तिः</summary>
+<details><summary>श्रुत-प्रकाशिका - पाराशर्योक्तिः</summary>
 
 तथा [च] भगवता पाराशर्येण,  
 
@@ -1126,7 +1126,7 @@ The case is analogous to that of the term 'bhagavat [^fn_0].'
 
 </details>
 
-<details><summary>हिन्दी - पुराण-प्रमाणम्</summary>
+<details><summary>श्रुत-प्रकाशिका - पुराण-प्रमाणम्</summary>
 
 तथा च स्पष्टीकृतं श्रीमति गारुडे पुराणे, 
 
