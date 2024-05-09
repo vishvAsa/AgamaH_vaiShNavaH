@@ -21,7 +21,7 @@ title = "१३ ब्रह्म-शिवान्तर्यामिता
 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>नीलमेघः</summary>
 
 [[२२७]]  
 
@@ -79,7 +79,7 @@ title = "१३ ब्रह्म-शिवान्तर्यामिता
 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>नीलमेघः</summary>
 
 महाभारत में त्रिपुरसंहार के प्रसंग में  
 कहा गया है कि-  
@@ -131,7 +131,7 @@ title = "१३ ब्रह्म-शिवान्तर्यामिता
 इत्यर्थः ।
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>नीलमेघः</summary>
 
 किंच, महाभारत में अन्यत्र  
 ब्रह्मा और शिवजी के विषय में  

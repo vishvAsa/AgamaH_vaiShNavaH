@@ -11,7 +11,7 @@ title = "०७ शिव एव केवलः"
 इत्यादि सर्वं नेयम् ।
 </details>
 
-<details><summary>हिन्दी - पूर्व-पक्षः</summary>
+<details><summary>नीलमेघः - पूर्व-पक्षः</summary>
 
 [[२१७]]  
 
@@ -47,7 +47,7 @@ title = "०७ शिव एव केवलः"
 
 </details>
 
-<details><summary>हिन्दी</summary>
+<details><summary>नीलमेघः</summary>
 
 इस पर श्रीवैष्णव सम्प्रदायाचार्य  
 श्रीरामानुज स्वामी जी ने यह कहा हैं कि  
