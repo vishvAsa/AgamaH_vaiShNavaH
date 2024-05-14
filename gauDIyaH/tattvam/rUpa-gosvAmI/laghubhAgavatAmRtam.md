@@ -4,62 +4,6 @@ title = "लघु-भागवतामृतम्"
 +++
 
 
-<!-- Copy and paste the converted output. -->
-
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 1
-* ALERTS: 6
-
-Conversion time: 27.536 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-> formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Sat Apr 29 2023 02:07:42 GMT-0700 (PDT)
-* Source doc: laghu_bhagavatamrita_-_rupa_gosvamin_-_2_commentaries
-
-WARNING:
-You have some equations: look for ")+++)+++> ग्द्२म्द्-ह्त्म्ल् अलेर्त्- एक़ुअतिओन्॥।" इन् ओउत्पुत्।
-
-* Tहिस् दोचुमेन्त् हस् इमगेस्- छेच्क् फ़ोर् )+++)+++> ग्द्२म्द्-ह्त्म्ल् अलेर्त्- इन्लिने इमगे लिन्क् इन् गेनेरतेद् सोउर्चे अन्द् स्तोरे इमगेस् तो योउर् सेर्वेर्। NOTE: Iमगेस् इन् एxपोर्तेद् ज़िप् फ़िले फ़्रोम् Gओओग्ले Dओच्स् मय् नोत् अप्पेअर् इन् थे समे ओर्देर् अस् थेय् दो इन् योउर् दोच्। Pलेअसे छेच्क् थे इमगेस्!
-
-
-WARNING:
-Yओउ हवे ९ H१ हेअदिन्ग्स्। Yओउ मय् wअन्त् तो उसे थे "H१ -> H२" ओप्तिओन् तो देमोते अल्ल् हेअदिन्ग्स् ब्य् ओने लेवेल्।
-
------>
-
-
-<p style="color: red; font-weight: bold")+++)+++)+++ ग्द्२म्द्-ह्त्म्ल् अलेर्त्- ERRORस्- ०; WARNINGस्- २; ALERTS: ६।</p>
-<ul style="color: red; font-weight: bold"><li>Sएए तोप् चोम्मेन्त् ब्लोच्क् फ़ोर् देतैल्स् ओन् ERRORस् अन्द् WARNINGस्। <li>Iन् थे चोन्वेर्तेद् Mअर्क्दोwन् ओर् HTML, सेअर्छ् फ़ोर् इन्लिने अलेर्त्स् थत् स्तर्त् wइथ् )+++)+++> ग्द्२म्द्-ह्त्म्ल् अलेर्त्- फ़ोर् स्पेचिफ़िच् इन्स्तन्चेस् थत् नेएद् चोर्रेच्तिओन्।</ul>
-
-<p style="color: red; font-weight: bold">Lइन्क्स् तो अलेर्त् मेस्सगेस्-</p><a href="#gdcalert1">अलेर्त्१</a>
-<a href="#gdcalert2">अलेर्त्२</a>
-<a href="#gdcalert3">अलेर्त्३</a>
-<a href="#gdcalert4">अलेर्त्४</a>
-<a href="#gdcalert5">अलेर्त्५</a>
-<a href="#gdcalert6">अलेर्त्६</a>
-
-<p style="color: red; font-weight: bold")+++)+++)+++ PLEASE छेच्क् अन्द् चोर्रेच्त् अलेर्त् इस्सुएस् अन्द् देलेते थिस् मेस्सगे अन्द् थे इन्लिने अलेर्त्स्।<hr></p>
-
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold")+++)+++)+++ ग्द्२म्द्-ह्त्म्ल् अलेर्त्- इन्लिने इमगे लिन्क् हेरे (तो इमगेस्।इमगे१।प्न्ग्)। Sतोरे इमगे ओन् योउर् इमगे सेर्वेर् अन्द् अद्जुस्त् पथ्।फ़िलेनमे।एxतेन्सिओन् इफ़् नेचेस्सर्य्। </span><br>(<a href="#">Bअच्क् तो तोप्</a>)(<a href="#gdcalert2">Nएxत् अलेर्त्</a>)<br><span style="color: red; font-weight: bold")+++)+++)+++ </span></p>
-
-
-![अल्त्_तेxत्](इमगेस्।इमगे१।प्न्ग् "इमगे_तोओल्तिप्")
 
 
 श्रील-रूप-गोस्वामि-पादेन विरचितं
