@@ -3440,7 +3440,7 @@ and we ask "Whence is it inferred?".
 
 इति चेत् -  
 
-> नियोज्यत्वान्वयो ऽपि न घटत 
+> नियोज्यत्वान्वयो ऽपि न घटत  
 
 इति हि स्वर्ग-साधनत्व-निश्चयः । 
 </details>
@@ -3473,6 +3473,7 @@ and we ask "Whence is it inferred?".
 यह मीमांसकों का कथन है । 
 
 </details>
+
 
 
 <details><summary>मूलम्</summary>
