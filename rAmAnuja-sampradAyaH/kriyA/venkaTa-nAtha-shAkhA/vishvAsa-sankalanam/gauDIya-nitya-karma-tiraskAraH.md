@@ -1,5 +1,5 @@
 +++
-title = "गौडीय-नित्य-कर्म-तिरस्कारः"
+title = "गौडीय-नित्य-कर्म-तिरस्कारोऽनुचितः"
 +++
 
 ## महाभक्तैः नित्य-नैमित्तिक-कर्म-हानम्
@@ -152,7 +152,7 @@ People mistake relative statement for absolute; and consolation for approval. Fo
 > तावत् कर्माणि कुर्वीत न निर्विद्येत यावता ।  
 मत्कथाश्रवणादौ वा श्रद्धा यावन्न जायते ॥
 
-sAmAnya-visheSha-vyavasthA indeed is a good way to resolve the verse conflict - however, it is superior to make the differentiation in action, rather than the performer. This should be taken to refer to non nitya-karmas. 
+sAmAnya-visheSha-vyavasthA indeed is a good way to resolve the verse conflict - however, it is superior to make the differentiation in action, rather than the performer. This should be taken to refer to various non nitya karmas. 
 
 
 ## गौडीय-प्रशंसा
