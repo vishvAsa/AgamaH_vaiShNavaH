@@ -96,6 +96,17 @@ Should a bhAgavata not fear it?
 
 आज्ञाकैङ्कर्य-स्थाने/काले (eg nityakarma) ऽनुज्ञाकैङ्कर्यं (eg bhajana) न भक्त/शरणागत-योग्यम्।
 
+What's pratyavAya of भजन् स्वधर्मत्यक्ता relative  to भजन् स्वधर्मकर्ता? delay in mukti - expressed in 
+
+> न हि कल्याण-कृत् कश्चिद्  
+> दुर्गतिं तात गच्छति ।  
+> प्राप्य पुण्यकृतां लोकान्  
+> उषित्वा शाश्वतीः समाः ।  
+> शुचीनां श्रीमतां गेहे  
+> योग-भ्रष्टोऽभिजायते ॥  
+> etc..
+
+
 ### अज्ञानेन कर्म-स्खालित्यम्
 > a Bhakta doing something which is called nitya-lIlAsmaraNam(a practice in sampradaya), which is dhyana of Bhagavadlila, and is an act of Bhakti, if it goes for a long time where the bhakta has no sense of time.. He misses his nitya karmas, he will not think that he has attained dosha, since He was performing bhakti. 
 
