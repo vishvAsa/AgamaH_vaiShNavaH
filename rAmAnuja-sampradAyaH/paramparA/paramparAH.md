@@ -206,6 +206,11 @@ was upset when ranganAtha of shrIrangam decided in favor of VD's work represente
 > - रविलोचनः
 </details>
 
+#### स्मार्त-भागवताः
+केचिद् द्राविडाः स्मार्ताश् चन्दन-पुण्ड्रधारिणो रङ्गनाथनिभाः ([YT](https://www.youtube.com/watch?v=-amOdFBStKI))  
+पॆरियव्-आच्चान्-पिळ्ळै-परम्परां वदन्ति।  
+
+
 ### प्रपत्तौ व्यावृत्तिः
 वडक्कुत्-तिरु-वीदिप्-पिळ्ळै इत्य् अयम् स्वीयय् ईडुग्रन्थे  
 "प्रपत्तिर् अवश्यं कार्यम्" इत्य् अप्य् उक्तम्, "न कार्यम्" इत्य् अपि!  
@@ -222,5 +227,15 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 
 
 ## राजाश्रयः
+कृष्णदेवराय-मुख्यानां राजगुरवस् तातार्य-वंश्याः। 
 
-> In amukramalyada 6.66, he calls Mamuni, Desika and Adivan Satakopan as avataras of Ramanuja. Krishnamachariar came out with a book by someone who questioned the validity of Adivan Satakopan getting sanyasa from nrsimha. But KDR mentions the same story as well.
+> In amukramalyada 6.66, he calls Mamuni, Desika and Adivan Satakopan as avataras of Ramanuja. Krishnamachariar came out with a book by someone who questioned the validity of Adivan Satakopan getting sanyasa from nrsimha. But KDR mentions the same story as well.  
+> - रविलोचनः
+
+
+
+कुम्भकोणे नायकानाम् अपि गुरुः कश्चन तातार्य आसीत्। 
+
+## सङ्ख्याः
+देशिकपरम्परायां ६०% जना अहोबिलमठशिष्याः, ३०% इतर-मठानाम्, १०% स्वयमाचार्यायुयायिन इति पलवेरि-लक्ष्मीनरसिंहार्यस्योहः।  
+नैवम् इत्य् अन्ये। 
