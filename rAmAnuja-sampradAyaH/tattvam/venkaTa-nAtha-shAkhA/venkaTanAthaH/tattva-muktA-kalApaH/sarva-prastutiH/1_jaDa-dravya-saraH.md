@@ -6,7 +6,8 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/_index.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## मङ्गलाचरणम्
+## प्रवेशः
+### मङ्गलाचरणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -19,7 +20,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/001_laxmInetrotpalashrIsatataparichayAdeSha_saMvar.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## ग्रन्थ-कर्तृ-वैशिष्ट्यम्
+### ग्रन्थ-कर्तृ-वैशिष्ट्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाना-सिद्धान्त-नीति--श्रम-विमल-धियो ऽनन्त-सूरेस् तनूजो  
@@ -30,7 +31,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/002_nAnAsiddhAntanItishramavimaladhiyo-nantasUrest.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## ग्रन्थस्य नाम्न औचित्यम्
+### ग्रन्थस्य नाम्न औचित्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रज्ञा-सूच्या **ऽनुविद्धः**, +++(मुक्तावत्, न रत्नवत्)+++ क्षतिम् **अनधिगतः** कर्कशात् तर्क-शाणाच्,  
@@ -41,7 +42,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/003_prajnAsUchyA-nuviddhaH_xatimanadhigataH.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## तत्त्व-त्रय-ज्ञान-स्वरूपम्
+### तत्त्व-त्रय-ज्ञान-स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **शिष्टा** जीवेश-तत्त्व-प्रमिति-युत-**परोपासना** मुक्ति-हेतुः  
@@ -52,7 +53,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/004_shiShTA_jIveshatattvapramitiyutaparopAsanA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## तत्त्व-ज्ञानस्य महत्त्वम्
+### तत्त्व-ज्ञानस्य महत्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आवापोद्वापतस् **स्युः कति** कति +++(नाना-रामायण-कृन्-निभ-)+++कवि-धी-चित्रवत् तत्-तद्-अर्थेष्व्  
@@ -74,7 +75,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/006_dravyAdravyaprabhedAnmitamubhayavidhaM_tadvida.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## द्रव्यादीनां लक्षणानि
+### द्रव्यादीनां लक्षणानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र **द्रव्यं** दशा-वत्, **प्रकृतिर्** इह **गुणैस्** सत्त्व-पूर्वैर् उपेता  
@@ -85,7 +86,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/007_tatra_dravyam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## गुणानां द्रव्यातिरिक्तत्व-समर्थनम्
+### गुणानां द्रव्यातिरिक्तत्व-समर्थनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++('सहोपलम्भ-नियमाद् अभेदः' इति गुण-द्रव्याभेदं वदतां वैभाषिकाणां निराकरणे)+++  
@@ -98,7 +99,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/008_ekArthapratyabhijnA_bhavati.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## धर्म-धर्मिभावः
+###धर्म-धर्मिभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "+++(घटत्वनिभ-)+++धर्मो निर्धर्मकश् चेत् कथम् इव भविता सोऽभिलापादि-योग्यो,  
@@ -122,7 +123,7 @@ unicode_script = "devanagari"
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/010_tachChUnye_tasya.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
 
-## प्रकृतिः, तत्परिणामाश्च
+### प्रकृतिः, तत्परिणामाश्च
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-च्छन्देनागमेन प्रकृति-महद्--अहङ्-कार--मात्राक्ष-**सिद्धिर्**,  
@@ -156,7 +157,7 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/013_adbhyo-gnistejasastA_iti.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## सृष्टिक्रमः - जैनमतम्
+### जैनमतम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "पृथिव्यास् स्पर्शादि-भेदो +++(तापादि-संयोगेन)+++ द्रव-मृदु-कठिनी-भाव-भेदश् च दृष्टस्  
@@ -167,14 +168,14 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/014_pRthvyAssparshAdibhedo_dravamRdukaThinIbhAvabh.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## सृष्टिक्रमः - सांख्यमतम्
+### श्रुत्य्-उक्त-प्रकृति-सङ्ख्या-समञ्जसता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्त्वेष्व् आथर्वणे ऽष्टौ प्रकृतय उदिताः, षोडशान्ये +++(शुद्ध-)+++विकारा +++(वस्त्व्-अन्तरोपादनता-रहिताः)+++  
 +++(पूर्वोक्तोत्पत्तिक्रमेण - अव्यक्तम्, महद्, अहङ्कारः, ५ तन्मात्राः, ४ भूतानि = १२ प्रकृतयः। ११ इन्द्रियाणि, पृथिवी = १२ विकाराः। )+++  
-निष्कर्षे+++(ण+इ)+++दंपरे ऽस्मिन् वचसि तद्-इतरत् सर्वम् +++(सृष्टि-श्रुत्य्-अन्तरम्)+++ आवर्जनीयम् +++(→त्याज्यम्, रीत्यन्तरेण वा व्याख्येयम्)+++ ।  
+निष्कर्षे+++(ण+इ)+++दं-परे ऽस्मिन् वचसि तद्-इतरत् सर्वम् +++(सृष्टि-श्रुत्य्-अन्तरम्)+++ **आवर्जनीयम्** +++(→त्याज्यम्, रीत्यन्तरेण वा व्याख्येयम्)+++ ।  
 +++(कल्प-भेदेन सृष्टि-भेदस्याङ्गीकारे "यथा-पूर्वम् अकल्पयत्" इति त्याज्यं स्यात्। )+++  
-दृष्ट्वा सांख्यं +++(तत्रोत्पत्तिक्रम आथर्वण-श्रुत्य्-अनुकूलः)+++, पुराणादिकम् अपि बहुधा निर्वहन्त्य् एतद् एके  
+**दृष्ट्वा** सांख्यं +++(←तत्रोत्पत्तिक्रम आथर्वण-श्रुत्य्-अनुकूलः→)+++, पुराणादिकम् अपि, बहुधा **निर्वहन्त्य्** एतद् एके  
 चिन्ता-साफल्य-मान्द्याच् छ्रम-बहुलतया ऽप्य् अत्र तज्-ज्ञैर् **उदासि** ॥ १५ ॥  
 +++(न्यायसिद्धाञ्जने तु परिहार उक्तः - प्रकृतिमहदहङ्काराः ५ भूतानि शरीरारम्भकानि प्रकृतत्वेनोक्तानीति। )+++
 </details>
@@ -184,27 +185,31 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निश्शेषं कार्यतत्त्वं जनयति स परो हेतु-तत्त्वैश् शरीरी तत्तत्कार्यान्तरात्मा भवति च तदसौ विश्रुतो विश्वरूपः ।  
-तेजोऽबन्नाभिधेये बहुभवनमभिध्यानलिङ्गं च दृष्टं तस्मादीशाननिघ्नाः प्रकृतिविकृतयस्स्वस्वकार्यप्रसूतौ ॥ १६ ॥
+निश्शेषं कार्यतत्त्वं **जनयति** स परो हेतु-तत्त्वैश् शरीरी  
+तत्-तत्-**कार्यान्तरात्मा भवति**, च तद् असौ **विश्रुतो** विश्व-रूपः ।  
+तेजोऽब्-अन्नाभिधेये बहु-भवनम् +++('तदैक्षत बहुस्याम्' →)+++ अभिध्यान-लिङ्गं च **दृष्टं**  
+तस्माद् **ईशान-निघ्नाः** प्रकृति-विकृतयस् स्व-स्व-कार्य-प्रसूतौ ॥ १६ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/016_nishsheShaM_kAryatattvam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## पञ्चीकरणम्
+### पञ्चीकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वेधा भूतानि भित्त्वा पुनरपि च भिनत्त्य् अर्धमेकं चतुर्धा  
-तैर् एकैकस्य भागैः परम् अनुकलयत्य् अर्धम् अर्धं चतुर्भिः ।  
-इत्थं पञ्चीकृतैस् तैर् जनयति स जगद् +धेतुर् अण्डादि-कार्याण्य्   
-ऐदंपर्यं त्रिवृत्त्वश्रुतिर् अधिकगिराम् अक्षमैका निरोद्धुम् ॥ १७ ॥
+द्वेधा भूतानि **भित्त्वा**, पुनर् अपि च **भिनत्त्य्** अर्धम् एकं चतुर्धा,  
+तैर् एकैकस्य +++(भूतस्य)+++ भागैः परम् +++(भूतम्)+++ **अनुकलयत्य्**, +++(यथा)+++ अर्धम् अर्धं चतुर्भिः +++(अन्यैः)+++।  
+इत्थं पञ्ची-कृतैस् तैर् **जनयति** स जगद् +धेतुर् अण्डादि-कार्याण्य्,   
+ऐदंपर्यं त्रिवृत्त्व-श्रुतिर् +++(←पञ्जीकरणाभावोऽत्र)+++ अधिक-गिराम् अक्षमैका निरोद्धुम् ॥ १७ ॥  
++++(तेन सा +उपलक्षणया पञ्चीकरणम् एवाह)+++
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/017_dvedhA_bhUtAni.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## परमाणुकारणतावादः
+### परमाणुकारणतावादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कार्यं नैवारभेरन्समधिकमणवस्सर्वतस्संप्रयुक्ता दिक्संयोगैकदेश्यान्न घटत इह ते दिक्कृतोऽप्यंशभेदः ।  
+कार्यं नैवारभेरन् समधिकम् अणवस् सर्वतस् संप्रयुक्ता  
+दिक्-संयोगैकदेश्यान्न घटत इह ते दिक्कृतोऽप्यंशभेदः ।  
 बुद्धेस्त्वंशानपेक्षा स्फुरति विषयिता विश्रमस्त्वस्तु दृष्टे नो चेदारम्भकांशप्रभृतिषु नियता दुर्निवाराः प्रसङ्गाः ॥ १८ ॥
 </details>
 
