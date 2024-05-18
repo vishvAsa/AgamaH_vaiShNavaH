@@ -205,12 +205,14 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/017_dvedhA_bhUtAni.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
+## कार्य-कारण-भावान्तरम्
 ### परमाणुकारणतावादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कार्यं नैवारभेरन् समधिकम् अणवस् सर्वतस् संप्रयुक्ता  
-दिक्-संयोगैकदेश्यान्न घटत इह ते दिक्कृतोऽप्यंशभेदः ।  
-बुद्धेस्त्वंशानपेक्षा स्फुरति विषयिता विश्रमस्त्वस्तु दृष्टे नो चेदारम्भकांशप्रभृतिषु नियता दुर्निवाराः प्रसङ्गाः ॥ १८ ॥
++++(महत्तरं)+++ कार्यं **नैवारभेरन्** समधिकम् अणवस् सर्वतस् **संप्रयुक्ता** +++(एकाणुपरिमाणा एव भवन्तीति)+++,  
+दिक्-संयोगैकदेश्यान् **न घटत** इह ते दिक्-कृतो ऽप्य् अंश-भेदः ।  
+बुद्धेस् त्व् अंशानपेक्षा स्फुरति विषयिता विश्रमस् त्व् अस्तु दृष्टे  
+नो चेद् आरम्भकांश-प्रभृतिषु नियता दुर्निवाराः प्रसङ्गाः ॥ १८ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/018_kAryaM_naivArabheransamadhikamaNavassarvatassa.md"  newLevelForH1="3" includeTitle="false"  > </div>
