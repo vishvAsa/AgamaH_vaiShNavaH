@@ -262,25 +262,30 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/022_dravyaikyaM_pratyabhijnA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## शरीरनिरूपणम्
+#### शरीरनिरूपणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संघातोऽनेक-भूतैरपि भवति यथा ह्येकभूतस्य भागैर्देहादिः पञ्चभूतात्मक इति निगमाद्युक्तिभिश्च प्रसिद्धम् ।  
-न त्वेवं संकरः स्याद्व्यवहृतिनियमस्सूत्रितस्तारतम्याद्देहादौ येन भूतान्तरयुजि भवतो भौमतादिव्यवस्था ॥ २३ ॥
+**संघातो** ऽनेक-भूतैर् अपि **भवति** यथा ह्य् एक-भूतस्य भागैर्,  
+"देहादिः पञ्च-भूतात्मक" इति निगमाद्य्-उक्तिभिश् च प्रसिद्धम् ।  
++++(नैवम् अङ्गातिरिक्त-कार्य-कल्पने←)+++ **न** त्व् एवं **संकरः** स्याद् +++(→ तत्-तद्-अंशे तत्-तद्-भूत-गुण इति भेदो रक्ष्यते)+++, व्यवहृति-नियमस् +++("वैशेष्यात्तु तद्-वादः" →)+++सूत्रितस् तारतम्याद्,  
++++("भौमं शरीरम्"←)+++ देहादौ येन भूतान्तर-युजि भवतो भौमतादि-+++(वचन-)+++व्यवस्था ॥ २३ ॥  
++++(न तु तद्-अर्थम् असत्-कार्य-कल्पनं युक्तम्।)+++
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/023_sanghAto-nekabhUtairapi_bhavati.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## सत्कार्यवादः
+### अवस्था-प्राक्-सत्त्व-वादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सन्ति प्रागप्यवस्थास्सदितरकरणाप्राप्तनिष्पत्त्यदृष्टेः शक्ताशक्तप्रभेदादिभिरपि यादि न स्वोचितात्कार्यदृष्टेः ।  
-तस्मिन्सत्येव तस्माज्जनिरपि नियता तन्निमित्तादिनीतेर्व्यक्तिर्व्यक्ताऽनवस्थां भजति न च कृतामात्थ नैवं क्रतौ नः ॥ २४ ॥
++++(उपादाने)+++ सन्ति प्राग् अप्य् +++(घटत्वाद्य्-)+++ अवस्थास्, सद्-इतर+++(=असत्)+++-करण+++(→अदृष्टेः)+++--+अ-प्राप्त+++(=असम्बद्ध)+++-निष्पत्त्य्-अदृष्टेः  
+शक्ताशक्त-प्रभेदादिभिर् अपि यादि न स्वोचितात् कार्य-दृष्टेः ।  
+तस्मिन् सत्य् एव तस्माज् जनिर् अपि नियता तन्-निमित्तादि-नीतेर्  
+व्यक्तिर् व्यक्ताऽनवस्थां भजति न च कृताम् आत्थ नैवं क्रतौ नः ॥ २४ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/024_santi_prAgapyavasthAssaditarakaraNAprAptaniShp.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## क्षणिकवादः
+### क्षणिकवादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वस्तुस्थैर्यं विरुद्धानुपहितविषया साधयेत् प्रत्यभिज्ञा नैकस्मिन् शक्त्यशक्ती कृतितदितरयोः साह्यभेदेन सिद्धेः ।  
