@@ -297,13 +297,15 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/025_vastusthairyaM_viruddhAnupahitaviShayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-### प्रत्यभिज्ञाप्रामाण्यम्
+### प्रत्यभिज्ञा-प्रामाण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "तत्त्व+++(→प्राक्-कालत्व)++++इदंत्वे+++(→एतत्-कालत्वे)+++ हि कालान्तर-घटनमये +++(स्तः, अतः)+++ नैक-काले घटेतां,  
 काल-द्वैते +++(तयोर् अपि युगपज्-ज्ञानं कथम् इत्य्)+++ ऽनवस्थाद्य् अत इह न +++(प्र)+++मितिः प्रत्यभिज्ञेति चेन्" न ।  
-स्वस्य स्वाभाव-काले विहति-नियमनात् स्वेन चात्रैककाल्यात्  
-काले कालानपेक्षे कथम् अपि सुवचौ नानवस्था-विरोधौ ॥ २६ ॥
+स्वस्य +++(→घटादेः)+++ स्वाभाव-काले विहति-नियमनात्, स्वेन चात्रैककाल्यात्  
++++(→घट-दृष्ट्या +एक एव घट-सत्ताक-कालः; सूर्योदयाद्य्-उपाधिभिर् एव सूक्ष्म-काल-भेदाः)+++  
++++(घटादेः)+++ काले काला+++(न्तरा)+++नपेक्षे, **कथम्** अपि **सुवचौ** नानवस्था-विरोधौ? ॥ २६ ॥  
++++(एकस्मिन्न् एव घट-काले सूर्योदयाद्यौपाधिक-सूक्ष्मकाल्भेदौ युगपद् एव ज्ञायन्त इत्य् अविरोधः।)+++
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/026_tattvedantve_hi.md"  newLevelForH1="3" includeTitle="false"  > </div>
@@ -311,8 +313,10 @@ unicode_script = "devanagari"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रत्यक्षं वर्तमानं प्रथयति यदिहावर्तमानाद्विभक्तं तस्मात्तेनैव सिद्धं क्षणिकमिति न सत्तावदित्यप्रतीतेः ।  
-तत्कालासत्त्वमेव ह्यपनयति सतो वर्तमानत्वबोधः कालेऽन्यत्रापि सत्त्वं प्रमितमिति कथं तद्विरोधप्रसङ्गः ॥ २७ ॥
+"प्रत्यक्षं वर्तमानं **प्रथयति** यद् इहावर्तमानाद् विभक्तं  
+तस्मात् तेनैव सिद्धं क्षणिकम्" इति न सत् - "तावद्" इत्य् अ-प्रतीतेः ।  
+तत्-कालासत्त्वम् एव ह्य् अपनयति सतो वर्तमानत्व-बोधः  
+कालेऽन्यत्रापि सत्त्वं प्रमितम् इति कथं तद्-विरोध-प्रसङ्गः ॥ २७ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/027_pratyaxaM_vartamAnam.md"  newLevelForH1="3" includeTitle="false"  > </div>
