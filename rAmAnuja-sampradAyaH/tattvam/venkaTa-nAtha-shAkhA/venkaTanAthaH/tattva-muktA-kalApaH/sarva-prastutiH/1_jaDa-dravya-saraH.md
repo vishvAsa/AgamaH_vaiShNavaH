@@ -321,11 +321,13 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/027_pratyaxaM_vartamAnam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## अहेतुकविनाश-निराकरणम्
+### अहेतुकविनाश-निराकरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्पन्नानां विनाशे ध्रुवभवितृतया हेत्वपेक्षाविहीने जन्मन्येवोपरोधात्क्षणिकमिह जगत्सर्वमित्यप्यसारम् ।  
-लिङ्गं ह्येष्यत्त्वमात्रं जननविधरता तत्क्षणानुक्षणत्वे तत्त्वं तज्जन्यता वा तदिदमनियमासिद्धिबाधादिदूष्यम् ॥ २८ ॥
+"उत्पन्नानां विनाशे, ध्रुव-भवितृतया हेत्व्-अपेक्षा-विहीने,  
+जन्मन्य् एवोपरोधात् - क्षणिकम् इह जगत् सर्वम्" इत्य् अप्य् अ-सारम् ।  
+लिङ्गं ह्य् एष्यत्त्व-मात्रं जनन-विधरता तत्-क्षणानुक्षणत्वे  
+तत्त्वं तज्-जन्यता वा तद् इदम् अनियमासिद्धि-बाधादि-दूष्यम् ॥ २८ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/028_utpannAnAM_vinAshe.md"  newLevelForH1="3" includeTitle="false"  > </div>
