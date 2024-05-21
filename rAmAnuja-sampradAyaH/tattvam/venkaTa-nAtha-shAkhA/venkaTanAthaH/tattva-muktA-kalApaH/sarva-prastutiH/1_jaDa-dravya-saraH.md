@@ -285,21 +285,25 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/024_santi_prAgapyavasthAssaditarakaraNAprAptaniShp.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-### क्षणिकवादः
+## क्षणिकवादः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वस्तु-स्थैर्यं विरुद्धानुपहित-विषया साधयेत् प्रत्यभिज्ञा  
-नैकस्मिन् शक्त्यशक्ती कृतितदितरयोः साह्यभेदेन सिद्धेः ।  
-एकस्मिन् कालभेदाद्भवति च सहकार्यन्वयानन्वयादिर्नो चेन्नो देशभेदादपि सुपरिहरस्तेन नैकं क्वचित्स्यात् ॥ २५ ॥
+वस्तु-स्थैर्यं विरुद्ध+++(-धर्म)++++अनुपहित-विषया **साधयेत्** प्रत्यभिज्ञा +++(←न तैलक्षयसहितायां ज्वालायाम्)+++,  
+नैकस्मिन् शक्त्य्-अशक्ती +++(कुसूलस्थ-क्षेत्रस्थ-बीजयोर् अङ्कुरणशक्तिस् समाना)+++ - +++(अङ्कुरण-निभ)+++कृति--तद्-इतरयोः साह्य-भेदेन सिद्धेः ।  
+एकस्मिन् काल-भेदाद् भवति च सहकार्य्-अन्वयानन्वयादिर्  
+नो चेन् +++(समानकालेऽपि)+++ नो देश-भेदाद् अपि सुपरिहरस् +++(→कुसूलस्थ-क्षेत्रस्थ-बीजयोर् अङ्कुरण-शक्ति-भेदः)+++, तेन +++(विरुद्ध-धर्म-सत्त्वेन)+++ नैकं क्वचित् स्यात् ॥ २५ ॥  
++++(वैभाषिकाः क्षणिकवादिनस् तर्हि शून्यवादिनो माध्यमका जायेरन्!)+++
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/025_vastusthairyaM_viruddhAnupahitaviShayA.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## प्रत्यभिज्ञाप्रामाण्यम्
+### प्रत्यभिज्ञाप्रामाण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्त्वेदंत्वे हि कालान्तरघटनमये नैककाले घटेतां कालद्वैतेऽनवस्थाद्यत इह न मितिः प्रत्यभिज्ञेति चेन्न ।  
-स्वस्य स्वाभावकाले विहतिनियमनात्स्वेन चात्रैककाल्यात् काले कालानपेक्षे कथमपि सुवचौ नानवस्थाविरोधौ ॥ २६ ॥
+"तत्त्व+++(→प्राक्-कालत्व)++++इदंत्वे+++(→एतत्-कालत्वे)+++ हि कालान्तर-घटनमये +++(स्तः, अतः)+++ नैक-काले घटेतां,  
+काल-द्वैते +++(तयोर् अपि युगपज्-ज्ञानं कथम् इत्य्)+++ ऽनवस्थाद्य् अत इह न +++(प्र)+++मितिः प्रत्यभिज्ञेति चेन्" न ।  
+स्वस्य स्वाभाव-काले विहति-नियमनात् स्वेन चात्रैककाल्यात्  
+काले कालानपेक्षे कथम् अपि सुवचौ नानवस्था-विरोधौ ॥ २६ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/026_tattvedantve_hi.md"  newLevelForH1="3" includeTitle="false"  > </div>
