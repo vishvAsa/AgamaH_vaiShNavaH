@@ -357,11 +357,13 @@ unicode_script = "devanagari"
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/030_meyatvAdyairvigItaM_xaNikamiha.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## निरन्वय-विनाश-निरासः
+### निरन्वय-विनाश-निरासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दीपादीनां कदाचित्सदृशविसदृशाशेषसन्तत्यपेते ध्वंसे दृष्टेऽप्यशक्या तदितरविषयेऽनन्वयध्वंसकॢप्तिः ।  
-बाधादेर्दर्शितत्वादपि च दृढमिते सान्वयेऽस्मिन्घटादौ दुर्दर्शावस्थया स्युः पयसि लवणवल्लीनदीपादिभागाः ॥ ३१ ॥
+दीपादीनां कदाचित् +++(ज्वालाक्षणवत्→)+++सदृश-+++(घट-कपालवत्→)+++विसदृशाशेष-सन्तत्य्-अपेते  
+ध्वंसे दृष्टे ऽप्य् अशक्या तद्-इतर-विषये ऽनन्वय-ध्वंस-कॢप्तिः +++(परिणाम-वादात्)+++ ।  
++++(प्रत्यभिज्ञादिभिः)+++ बाधादेर् दर्शितत्वाद्, अपि च दृढ-मिते सान्वये ऽस्मिन् घटादौ  
+दुर्दर्शावस्थया स्युः +++(दीप-निर्वाणेऽपि)+++ पयसि लवणवल् लीन-दीपादि-भागाः ॥ ३१ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/031_dIpAdInAM_kadAchitsadRshavisadRshAsheShasantat.md"  newLevelForH1="3" includeTitle="false"  > </div>
@@ -369,13 +371,15 @@ unicode_script = "devanagari"
 ## कार्यकारणभावसमर्थनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्त्वेऽसत्त्वेऽपि पूर्वं किमपि गगनतत्पुष्पवन्नैव साध्यं हेतुप्राप्तिर्न पश्चाद्भवितुरघटितोत्पादनेऽतिप्रसङ्गः ।  
-जन्यं जन्मान्यथा वा द्वयमसदनवस्थानकार्यक्षतिभ्यामित्याद्यैर्हेतुसाध्यं न किमपि यदि न स्वक्रियादेर्विरोधात् ॥ ३२ ॥
+"+++(कार्यस्य)+++ सत्त्वे, ऽसत्त्वेऽपि +++(व्यापारात्)+++ पूर्वं, किम् अपि गगन-तत्-पुष्पवन् नैव साध्यं +++(वर्तेत - कार्यपूर्वाभावेऽपि असतः सत्तापादनं न भवतीति)+++,  
++++(साध्यस्य)+++ हेतु-प्राप्तिर्+++(=सम्बन्धः)+++ न पश्चाद्-भवितुर्, अ-घटित+++(=अ-सम्बद्ध)++++उत्पादने ऽतिप्रसङ्गः +++(→सर्वस्मात् सर्वम् उत्पद्येत)+++ ।  
+जन्यं जन्म,+अन्यथा वा +++(जन्म)+++ - द्वयम् असद् अनवस्थान--+++(अनादित्वात्→)+++कार्य-क्षतिभ्याम्  
+इत्य्-आद्यैर् हेतु-साध्यं न किम् अपि" यदि - न - स्व-क्रियादेर्+++(←ग्रन्थ-रचनम्, अङ्ग-सङ्घात-चैतन्योत्प्तत्ति-कथनम्)+++ विरोधात् ॥ ३२ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/032_sattve-sattve-pi_pUrvam.md"  newLevelForH1="3" includeTitle="false"  > </div>
 
-## कारणस्वरूपम्
+### कारणस्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कादाचित्कस्य कालावधिनियतिकरं पूर्वसत्कारणं स्यात् भावोपष्टम्भशून्यो न खलु तदवधिं प्रागभावोऽपि कुर्यात् ।  
