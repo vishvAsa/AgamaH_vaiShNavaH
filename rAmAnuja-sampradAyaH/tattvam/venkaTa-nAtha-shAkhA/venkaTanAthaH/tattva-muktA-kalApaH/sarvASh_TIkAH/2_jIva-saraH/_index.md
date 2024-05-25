@@ -2,7 +2,7 @@
 title = "२"
 +++
 
-<details><summary>सर्वाङ्कषटीका</summary>
+<details><summary>सर्वाङ्कषा</summary>
 
 
 एवमाशासमानानां  

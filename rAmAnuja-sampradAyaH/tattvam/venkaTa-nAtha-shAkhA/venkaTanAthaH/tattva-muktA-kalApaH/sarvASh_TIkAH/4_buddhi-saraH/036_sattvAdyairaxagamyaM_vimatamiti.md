@@ -10,7 +10,7 @@ title = "036 सत्त्वाद्यैरक्षगम्यं वि
 
 
 
-<details><summary>सर्वाङ्कषटीका - ३६</summary>
+<details><summary>सर्वाङ्कषा - ३६</summary>
 
 
 574 

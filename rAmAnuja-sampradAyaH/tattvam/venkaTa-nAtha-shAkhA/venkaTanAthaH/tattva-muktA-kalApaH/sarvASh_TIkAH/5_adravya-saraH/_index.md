@@ -2,7 +2,7 @@
 title = "५"
 +++
 
-<details><summary>सर्वाङ्कषटीका</summary>
+<details><summary>सर्वाङ्कषा</summary>
 
 बौद्धवैदिक-सांकर्यं  
 यद् अभूद् वासना-वशात् ।  
