@@ -382,8 +382,11 @@ unicode_script = "devanagari"
 ### कारणस्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कादाचित्कस्य कालावधिनियतिकरं पूर्वसत्कारणं स्यात् भावोपष्टम्भशून्यो न खलु तदवधिं प्रागभावोऽपि कुर्यात् ।  
-कार्यं निर्हेतुकं चेत्कथमिव न भवेन्नित्यता तुच्छता वा कादाचित्कस्वभावाद्यदि न नियमनादन्यथाऽतिप्रसङ्गात् ॥ ३३ ॥
++++(घटनिभ-)+++कादाचित्कस्य कालावधि-+++(पूर्व-सीमा-)+++नियति-करं पूर्व-सत् कारणं स्यात्,  
+भावोपष्टम्भ+++(=आधार)+++-शून्यो न खलु तद्-अवधिं प्राग्-अभावो ऽपि कुर्यात्  
++++(- अन्यथा कार्योऽप्य् अनादिः स्यात्)+++।  
+कार्यं निर्हेतुकं चेत् कथम् इव न भवेन् नित्यता तुच्छता वा  
+कादाचित्क-स्वभावाद् यदि न नियमनाद् अन्यथा ऽतिप्रसङ्गात् ॥ ३३ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/1_jaDa-dravya-saraH/033_kAdAchitkasya_kAlAvadhiniyatikaram.md"  newLevelForH1="3" includeTitle="false"  > </div>
