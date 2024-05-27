@@ -8,7 +8,9 @@ unicode_script = "devanagari"
 
 
 - सर्वाङ्कषटीका [ऽत्र](https://archive.org/details/tattvamuktaakalaapa-sarvankasha-sri-ksv/page/3/mode/2up?view=theater) । 
-- सर्वार्थसिद्धिः, भावप्रकाशः 
+
+- सर्वार्थसिद्धिः
+  - भावप्रकाशः, नरसिंह-देवः आनन्ददायिनी, उत्तमूरु-वीरराघवः अलभ्यलाभः 
   - [२ जीवसारः](https://archive.org/details/in.ernet.dli.2015.349569/page/253/mode/2up) । 
 
 
@@ -17,6 +19,8 @@ unicode_script = "devanagari"
 सापि टीकासापेक्षा!
 
 ## पाठाः
+- सौम्यनारायणः। 
+  - यथाप्रसङ्गं 
 - [आळ्वारतः](https://www.youtube.com/playlist?list=PLog-e7pBcwck24qngVTVJmEHVPcCg9w5R)
 - [रामप्रियार्यः]()
 - [काश्यप-कृष्णः](https://www.youtube.com/watch?v=dYyrRzJW0pc&list=PLog-e7pBcwckK9xeLxVivG3Wyd7Yk2NqF&index=1)
