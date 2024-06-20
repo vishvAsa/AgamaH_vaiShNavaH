@@ -7,7 +7,11 @@ title = "०१ उपोद्घाताधिकारः"
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे उपोद्घाताधिकारः ॥ १ ॥
 
+<details><summary>English</summary>
+
 (1) INTRODUCTORY CHAPTER. page70
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -98,10 +102,14 @@ Though the jīva is ever dear to the Lord (Śaurī) like the gem Kaustubha, he f
 गुरुपरिषदुपज्ञं प्राप्य गोपायति स्वम् ॥ ६ ॥
 </details>
 
+<details><summary>English</summary>
 
 THE HERITAGE OF THE JĪVĀTMĀ.
 
 How the Jīvātmā lost this heritage.
+
+</details> 
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -938,6 +946,7 @@ They have as much love to him as the cow to its calf on the day of its birth whe
 “तत्त्वेन यश्चिदचिदीश्वर तत्स्वभावे” त्यादिगळिऱ्‌पडिये ईश्वरनुडैयवुम् ईशितव्यङ्गळुडैयवुम् स्वरूपस्वभावसंबन्धङ्गळुम्, भोगापवर्गङ्गळुम्, त्याज्योपादेयङ्गळान इवट्रिनुडैयवुबायङ्गळुम्, अवट्रिन् गतिप्रकारङ्गळुम्, उक्तानुक्तङ् गळान मोक्षविरोधिगळागिऱ इव्वर्थङ्गळ् मुमुक्षुवान इव्वात्मावुक्कु ज्ञातव्यङ्गळ्, इव्वर्थङ्गळॆल्लाम् अध्यात्मविषयशब्दराशियिल् सारतममान रहस्यत्रयत्तिले प्रतितन्त्रसारोद्धारेण संग्रहिक्कप्पडुगिऱदुगळ्. 
 </details>
 
+<details><summary>English</summary>
 
 As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (sentient being) acit (non-sentient matter) and Iśvara and their essential character etc.", they (the gurus ) teach him the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him, of their respective character and of their mutual relations to one another, of enjoyment or experience in saṁsāra (including svarga) and of release from that bondage and of the respective means for attaining them (one to be rejected and the other to be adopted), of the routes by which the soul travels to its destined abodes and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
 
@@ -949,11 +958,16 @@ As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (senti
 
 All these things that should be known to every mumukṣu are found concisely stated in ‘the three mysteries or secrets' (mantras) which are, as it were, the quintessence of all passages treating of the Jīva   and Iśvara and which contain the best part of all the main doctrines.
 
+</details>
+ 
+
+
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-तिरुवुडन् वन्द सॆऴुमणिबोट्रिरुमालिदयम्  
+तिरुव्-उडन् वन्द सॆऴु-मणि-बोट्रिरुमालिदयम्  
 मरुविडमॆन्न मलरडि सूडुम् वगैबॆऱु नाम्,  
 करुवुडन्वन्द कडुविनैयाट्रिल् विऴुन्दॊऴुगा-
+तरुवुडनैन्दऱिवा ररुळ्सॆय्य वमैन्दनरे. ( 8 )
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -961,20 +975,24 @@ All these things that should be known to every mumukṣu are found concisely sta
 तिरुवुडन् वन्द सॆऴुमणिबोट्रिरुमालिदयम्  
 मरुविडमॆन्न मलरडि सूडुम् वगैबॆऱु नाम्,  
 करुवुडन्वन्द कडुविनैयाट्रिल् विऴुन्दॊऴुगा-
+तरुवुडनैन्दऱिवा ररुळ्सॆय्य वमैन्दनरे. ( 8 )
 </details>
 
-तरुवुडनैन्दऱिवा ररुळ्सॆय्य वमैन्दनरे. ( 8 )
+<details><summary>English</summary>
 
 We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha[^18] which rose from the sea along with Lakṣmī  at the time of the great churning, we that are competent to wear, on the crown of our head, the flower-like feet of God, were in peril of being swept away by the current of the stream of karma which caught us up even while in our mother's womb, when, fortunately for us, certain great souls proficient in the knowledge of the five things that ought to be understood and likewise of the subtle doctrine that the relation of the Jīvatma to the Lord is that of the body to the soul, came to us out of compassion to save us from being lost (in that stream).
 
 [^18]: Kaustubha: This gem is stated in certain treatises to stand allegorically for the Jīva  .
 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-कर्माविद्यादिचक्रे प्रतिपुरुषमिहानादिचित्रप्रवाहे  
-तत्तत्काले विपक्तिर्भवति हि विविधा सर्वसिद्धान्तसिद्धा ।  
-तल्लब्धस्वावकाशप्रथमगुरुकृपागृह्यमाणः कदाचि  
-न्मुक्तैश्वर्यान्तसंपन्निधिरपि भविता कश्चिदित्थं विपश्चित् ॥ ७ ॥
+कर्माविद्यादि-चक्रे प्रतिपुरुषम् इहानादि-चित्र-प्रवाहे  
+तत्-तत्-काले विपक्तिर् भवति हि विविधा सर्व-सिद्धान्त-सिद्धा ।  
+तल्-लब्ध-स्वावकाश--प्रथम-गुरु-कृपा--गृह्यमाणः कदाचिन्  
+मुक्तैश्वर्यान्त-संपन्-निधिर् अपि **भविता** कश्चिद् इत्थं विपश्चित् ॥ ७ ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -984,15 +1002,34 @@ We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha
 तल्लब्धस्वावकाशप्रथमगुरुकृपागृह्यमाणः कदाचि  
 न्मुक्तैश्वर्यान्तसंपन्निधिरपि भविता कश्चिदित्थं विपश्चित् ॥ ७ ॥
 </details>
+<details><summary>English</summary>
 
 In the cycle of karma, avidyā and others[^19] which succeed one another, as in the revolution of a wheel, in the varied streams of Samsāra peculiar to each individual and beginning from time immemorial, all systems of religious thought declare that, when the proper time comes, there is varied fruition resulting from past karma. At the time of this fruition, the Lord, who is the first ācārya , finds his opportunity, catches the Jīva   and bestows His grace on him. Sach Jīvas are indeed rare and they become the repositories of all forms of wealth (like discrimination and freedom from desires) extending up to the sovereignty enjoyed by the freed souls in mokṣa  (viz, the enjoyment of Bhagavān and service to Him).
 
 [^19]: The word ‘others’ refers to vāsanas or impressions left in the mind in previous births, ruci
 or tastes and aptitudes and prakṛti sambandha or association with matter.
 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे  
 उपोद्घाताधिकारः प्रथमः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+उपोद्घाताधिकारः प्रथमः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+
+</details>
 
