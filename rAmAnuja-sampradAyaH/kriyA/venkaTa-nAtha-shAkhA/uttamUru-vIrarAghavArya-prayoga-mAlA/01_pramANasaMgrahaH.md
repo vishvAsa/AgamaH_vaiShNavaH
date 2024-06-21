@@ -175,6 +175,12 @@ title = "१ प्रमाणसंग्रहः"
 सप्त कच्छाः प्रकीर्तिताः ॥  
 </details>
 
+<details><summary>English</summary>
+
+front, 2 sides, genital, 2 back-sides, back = 7
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 नह्येदग्रे पुरः कच्छा द्वयं पार्श्वे च गूहनम् ।  

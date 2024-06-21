@@ -439,8 +439,35 @@ que desean el disfrute del ser supremo.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परमात्म–-तत्-प्राप्ति–-तद्-उपायङ्गळै वॆळिय् इडुम् प्रदेशं  
+सारतमम् आगैयाल् ए  
+विवेकिक्कु उपादेयम्. 
+</details>
+
+<details><summary>English</summary>
 
 To the man of discerning wisdom, the part of the Veda which treats of the Supreme Brahman, the attainment of Brahman and the means thereof is the most valuable, and is therefore to be preferred.
+</details>
+
+<details><summary>Español</summary>
+
+Para el hombre de sabiduría exigente,  
+la parte del Veda que trata al Supremo Brahman,  
+el logro de Brahman  
+y los medios de los mismos  
+es el más valioso  
+y, por lo tanto, debe preferirse.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमात्म–तत्प्राप्ति–तदुपायङ्गळै वॆळियिडुम् प्रदेशं सारतममागैयाले विवेकिक्कु उपादेयम्. 
+</details>
+
+
 
 [^f40]: Mahābhārata   : Udyoga Parva: 68-5.
 
@@ -453,7 +480,18 @@ To the man of discerning wisdom, the part of the Veda which treats of the Suprem
 [^20]: ( Alternative meaning): "what should be attained and what should be rejected ( see Tatparya
 Chandrika: Gita; XVI: 24)
 
+
+## रहस्य-त्रय-प्रामुख्यम्
+<details><summary>English</summary>
+
 THE THREE MYSTERIES ARE THE MOST IMPORTANT.
+</details>
+
+<details><summary>Español</summary>
+
+Los tres misterios son los más importantes.
+</details>
+
 
 Even there, the three Mysteries (mantras) which are, as it were, an epitome of the truths that ought to be known and of the means of attaining salvation, which are the distinctive, unique and exclusive doctrines (of our viśiṣṭādvaita  system) are invaluable and therefore to be most preferred. As stated in the śloka  [^f45] " From the many and great śāstras, the wise man should choose only that which is most valuable as the bee takes in the honey from the flowers," the jīva who thirsts for mokṣa  should prefer as invaluable these three mysteries (mantrās.)
 
