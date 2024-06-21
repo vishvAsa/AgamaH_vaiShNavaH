@@ -5,7 +5,11 @@ title = "०३ प्रधानप्रतितन्त्राधिक�
 
 ०३ प्रधानप्रतितन्त्राधिकारः
 
+<details><summary>English</summary>
+
 3. THE CHAPTER ON THE MOST IMPORTANT AND DISTINCTIVE DOCTRINE THAT IS UNIQUE TO VIŚIṢṬĀDVAITA. page81
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 

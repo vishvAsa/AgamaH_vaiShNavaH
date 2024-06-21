@@ -3,7 +3,29 @@ title = "०२ सारनिष्कर्षाधिकारः"
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे सारनिष्कर्षाधिकारः ॥ २ ॥  
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे सारनिष्कर्षाधिकारः ॥ २ ॥  
+
+</details>
+
+<details><summary>English</summary>
+
 (2) THE CHAPTER ON THE DETERMINATION OF WHAT IS BEST ? page77
+</details>
+
+
+
 
 <details open><summary>प्रस्तावः</summary>
 
@@ -27,10 +49,10 @@ These, then, are the "three mysteries or mantras" which are the best of what sho
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-श्रुति–पथ–विपरीतं क्ष्वेळ–कल्पं, श्रुतौ च  
-प्रकृति–पुरुष–भोग–प्रापकांशो न पथ्यः ।  
-तदिह विबुधगुप्तं मृत्युभीता विचिन्व-  
-न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
+श्रुति–पथ–विपरीतं क्ष्वेड+++(=विष)+++–कल्पं, +++(सागरनिभायां)+++ श्रुतौ च,  
++++(तत्रैव)+++ प्रकृति–-+++(कैवल्य-फल-)+++पुरुष–भोग–प्रापकांशो न पथ्यः ।  
+तद् इह विबुध-गुप्तं मृत्यु+++(→संसार)+++-भीता विचिन्वन्त्य् +++(अस्मभ्यम्)+++  
+उपनिषद्-अमृताब्धेर् उत्तमं सारम् आर्याः ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -41,19 +63,270 @@ These, then, are the "three mysteries or mantras" which are the best of what sho
 न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
 </details>
 
+<details><summary>English</summary>
+
 What is opposed to the way of the Vedas is like poison; even in the Śrutis or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (Prakṛti bhoga) and of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of the cycle of births and deaths ( saṁsāra) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous ācāryas for our benefit
+</details>
+
+
+## मन्त्र-त्रय-माहात्म्यम्
+<details><summary>English</summary>
 
 THE GREAT VALUE OF THE THREE MANTRAS:
+</details>
 
-Among these three mysteries (mantras), Tirumantra or aṣṭākṣara has[^f39] been stated to contain everything within itself and, if it is known, the meaning of everything becomes known; the carama śloka , which says (in its first half) “having given up all rites and activities as means of attaining mokṣa , surrender thyself to me", establishes that the adoption of the single means taught in it, viz, self-surrender (or s'aranagati) would secure the benefits of all other means prescribed elsewhere; the Dvayam, as has been stated in Kaṭha śruti  and elsewhere, is capable of making a man perfect in the discharge of all his duties even if it is uttered only once. Therefore these three mysteries alone are of value to the seeker after salvation. It has been said, “One should ignore what is of no value, what is only of slight value, and, likewise, what is valuable and even what is more valuable. It is only what is most valuable that one should prefer in the śāstra , like ambrosia in the Ocean,
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द रहस्य-त्रयत्तिल् तिरु-मन्त्रम्  
+
+> “सर्वम् अष्टाक्षरान्तस्-स्थं” 
+
+ऎन्गिऱप्-पडिय् ए  
+तन्न्-अर्थत्तै अऱिय  
+ऎल्लाव् अर्थङ्गळैय् उम् अऱिन्दु-तरुम्-बडिय् आय् इरुक्कैयाल् उम्,  
+</details>
+
+<details><summary>English</summary>
+
+Among these three mysteries (mantras), Tirumantra or aṣṭākṣara has[^f39] been stated to contain everything within itself and, if it is known, the meaning of everything becomes known; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द रहस्यत्रयत्तिल् तिरुमन्त्रम् “सर्वमष्टाक्षरान्तस्थं” ऎन्गिऱप्पडिये तन्नर्थत्तै अऱिय ऎल्लावर्थङ्गळैयुम् अऱिन्दुदरुम्बडियायिरुक्कैयालुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चरम-श्लोकम् 
+
+> “सर्व-धर्मान् परित्यज्य  
+> माम् एकं शरणं व्रज”
+
+ऎण्ड्रु  
+तान् सॊल्लुगिऱव् उपायम् ऒण्ड्रैय् उम् ए अवलंबिक्क  
+सर्वोपाय-फल-सिद्धिय् उण्ड् आम्  
+ऎण्ड्रु स्थापिक्कैयाल् उम्,  
+</details>
+
+<details><summary>English</summary>
+
+the carama śloka , which says (in its first half) “having given up all rites and activities as means of attaining mokṣa , surrender thyself to me", establishes that the adoption of the single means taught in it, viz, self-surrender (or s'aranagati) would secure the benefits of all other means prescribed elsewhere; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+चरमश्लोकम् “सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज”ऎण्ड्रु तान् सॊल्लुगिऱ वुबायमॊण्ड्रैयुमे अवलंबिक्क सर्वोपायफलसिद्धियुण्डाम् ऎण्ड्रु स्थापिक्कैयालुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वयम् उम्  
+कठ-श्रुत्य्-आदिगळिऱ्‌ चॊल्लुगिऱप्-पडिय् ए  
+तन्नैय् ऒरुक्-काल् उच्चरित्तवनै  
+
+सर्व-प्रकारत्ताल् उम्  
+कृत-कृत्यन् आक्क-वल्ल वैभवत्तैय् उडैत्त् आय् इरुक्कैयाल् उम्  
+</details>
+
+<details><summary>English</summary>
+
+the Dvayam, as has been stated in Kaṭha śruti  and elsewhere, is capable of making a man perfect in the discharge of all his duties even if it is uttered only once. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्वयमुम् कठश्रुत्यादिगळिऱ्‌ चॊल्लुगिऱप्पडिये तन्नै यॊरुक्कालुच्चरित्तवनै सर्वप्रकारत्तालुम् कृतकृत्यनाक्कवल्ल वैभवत्तै युडैत्तायिरुक्कैयालुम् </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रहस्य-त्रयम् ए मुमुक्षुक्कळुक्कु आदरणीयम्.
+</details>
+
+<details><summary>English</summary>
+
+Therefore these three mysteries alone are of value to the seeker after salvation. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रहस्य-त्रयम् ए मुमुक्षुक्कळुक्कु आदरणीयम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+असारम् अल्पसारञ् च  
+सारं सारतरन् त्यजेत् ।  
+भजेत् सारतमं शास्त्रे  
+रत्नाकर इवामृतम् ॥  
+</details>
+<details><summary>English</summary>
+
+It has been said, “One should ignore what is of no value, what is only of slight value, and, likewise, what is valuable and even what is more valuable. It is only what is most valuable that one should prefer in the śāstra , like ambrosia in the Ocean,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+असारमल्पसारञ्च सारं सारतरन्त्यजेत् ।  
+भजेत् सारतमं शास्त्रे रत्नाकर इवामृतम् ॥  
+</details>
+
+
 
 [^f39]: Nāradīya Kalpa 1-9.
 
-THE ONLY PRAMĀṆA IN REGARD TO MOKṢA  AND
+## शास्त्रैक-प्रामाण्यम्
 
+<details><summary>English</summary>
+
+THE ONLY PRAMĀṆA IN REGARD TO MOKṢA  AND  
 THE MEANS OF ATTAINING IT IS ŚĀSTRA:
 
-The ultimate goal or aim of life (puruṣārtha ) (namely, mokṣa ) and the means of attaining it are not capable of being understood from sense perception (pratyakṣa) or (anumāna) inference. As stated in such passages as "It is from the [^f40] śāstra  that I know Janārdana ", "Therefore[^f41] in determining what [^20] ought to be done and what ought not be done, the only authority that  should guide you is śāstra " and "He who is well [^f43] versed in the Āgamas or Vedas will attain Brahman", the only pramāṇa that exists for our guidance is śabda or what is revealed in the śāstra s. In this context it has been said, “What are[^f44] to be known are many and endless; the time (at our disposal) is short; the hindrances are many; therefore prefer only what is valuable, like the swan that separates the milk from the water with which it is mixed." The word 'valuable' really means ' most valuable', because it refers to what is always and unconditionally valuable. The śāstras of those who are outside the pale of the Vedas (like Buddhists ) and likewise of heretics (like Advaitins) are not valuable at all and are therefore to be ignored. In the first part of the Veda, the portion which treats of rites leading to the attainment of worldly goods is only of very slight value and hence not to be resorted to. That part which treats of the attainment of the good things of svarga after death, though it may appear valuable to somé as leading to fruits higher than worldly goods is of no use, as, in the final estimate, they are based on sorrow and have other objectionable features. That part, too, which treats of the realisation of one's own soul and the means thereof, though a little more valuable, is not of value to those who desire the enjoyment of the Supreme Self. To the man of discerning wisdom, the part of the Veda which treats of the Supreme Brahman, the attainment of Brahman and the means thereof is the most valuable, and is therefore to be preferred.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परम-पुरुषार्थम् उम्  
+तद्-उपायम् उम्  
+प्रत्यक्षादि-प्रमाणङ्गळाल् अऱिय-वॊण्णाद-पडियाल् एय्  
+इवट्रिऱ्‌कु
+</details>
+
+<details><summary>English</summary>
+
+The ultimate goal or aim of life (puruṣārtha ) (namely, mokṣa ) and the means of attaining it are not capable of being understood from sense perception (pratyakṣa) or (anumāna) inference. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमपुरुषार्थमुम् तदुपायमुम् प्रत्यक्षादि प्रमाणङ्गळालऱियवॊण्णाद पडियालेय् इवट्रिऱ्‌कु
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(सञ्जयेनाश्चर्य-चकिताय सतीर्थ्याय धृतराष्ट्र्याय यद् उक्तम् -)+++  
+
+> +++(भक्ति-सहित)+++“शास्त्राद् वेद्मि जनार्दनं +++(न तु त्वं धृतराष्ट्र!)+++” 
+</details>
+
+<details><summary>English</summary>
+
+As stated in such passages as "It is from the [^f40] śāstra  that I know Janārdana ", 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“शास्त्राद्वेद्मि जनार्दनं” 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।”
+</details>
+
+<details><summary>English</summary>
+
+"Therefore[^f41] in determining what [^20] ought to be done and what ought not be done, the only authority that  should guide you is śāstra " 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।”
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति ॥” 
+</details>
+
+<details><summary>English</summary>
+
+and "He who is well [^f43] versed in the Āgamas or Vedas will attain Brahman", 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति ॥” 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रुञ् चॊल्लुगिऱ-पडिये शब्दमे प्रमाणम्. 
+</details>
+
+<details><summary>English</summary>
+
+the only pramāṇa that exists for our guidance is śabda or what is revealed in the śāstra s. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रुञ् चॊल्लुगिऱ-पडिये शब्दमे प्रमाणम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अनन्तपारं बहुवेदितव्यम्  
+अल्पश्च कालो बहवश्च विघ्नाः ।  
+यत् सारभूतं तदुपाददीत  
+हंसो यथा क्षीरमिवांबुमिश्रम् ॥”
+
+ऎन्गिऱ श्लोकत्तिल्
+
+</details>
+
+<details><summary>English</summary>
+
+In this context it has been said, “What are[^f44] to be known are many and endless; the time (at our disposal) is short; the hindrances are many; therefore prefer only what is valuable, like the swan that separates the milk from the water with which it is mixed." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> “अनन्तपारं बहुवेदितव्यम्  
+अल्पश्च कालो बहवश्च विघ्नाः ।  
+यत् सारभूतं तदुपाददीत  
+हंसो यथा क्षीरमिवांबुमिश्रम् ॥”
+
+ऎन्गिऱ श्लोकत्तिल्
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सार-भूतम् ऎन्गिऱ पदत्ताल् ए  
+प्रतिपन्नम् आन निरुपाधिक-सारत्तै विषयीकरिक्किऱ  
+सारतम-शब्दम् उपादेयम् +++("सार-भूत"-विवक्षितम् इति)+++. 
+</details>
+
+<details><summary>English</summary>
+
+The word 'valuable' really means 'most valuable', because it refers to what is always and unconditionally valuable. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सारभूतमॆन्गिऱ पदत्ताले प्रतिपन्नमान निरुपाधिक सारत्तै विषयीकरिक्किऱ सारतमशब्दमुपादेयम्. 
+</details>
+
+
+
+The śāstras of those who are outside the pale of the Vedas (like Buddhists ) and likewise of heretics (like Advaitins) are not valuable at all and are therefore to be ignored. In the first part of the Veda, the portion which treats of rites leading to the attainment of worldly goods is only of very slight value and hence not to be resorted to. That part which treats of the attainment of the good things of svarga after death, though it may appear valuable to somé as leading to fruits higher than worldly goods is of no use, as, in the final estimate, they are based on sorrow and have other objectionable features. That part, too, which treats of the realisation of one's own soul and the means thereof, though a little more valuable, is not of value to those who desire the enjoyment of the Supreme Self. To the man of discerning wisdom, the part of the Veda which treats of the Supreme Brahman, the attainment of Brahman and the means thereof is the most valuable, and is therefore to be preferred.
 
 [^f40]: Mahābhārata   : Udyoga Parva: 68-5.
 

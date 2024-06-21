@@ -3,14 +3,31 @@ title = "०० श्रीगुरुपरंपरासारः"
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ०० श्रीगुरुपरंपरासारः  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
 वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+०० श्रीगुरुपरंपरासारः  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+श्रीमान् वेङ्कटनाथार्यः कवितार्किककेसरी ।  
+वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥
+</details>
+
+
+<details><summary>English</summary>
 
 ŚRĪMADRAHASYATRAYASĀRAM
 
 A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
+
+</details>
+
 
 <div class="js_include" url="/bhAShAntaram/tamiL/padyam/shrIvaiShNava/taniyan/venkaTa-nAtha/sIr-oNDru.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
@@ -122,7 +139,12 @@ he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil
 </details>
 
 
+## आचार्यापेक्षा
+<details><summary>English</summary>
+
 THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -183,8 +205,13 @@ To the man desirous of mokṣa , the line of ācāryas is stated in the śruti[^
 मुमुक्षुवुक्कु आचार्य-वंशम् भगवानळवुञ्जॆल्ल अनुसन्धिक्कवेणुमॆण्ड्रोदप्पट्टदु.
 </details>
 
+## भगवान्
+
+<details><summary>English</summary>
 
 BHAGAVĀN THE FIRST ĀCĀRYA:
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -543,7 +570,12 @@ In reference to this, the Maharshi, Śuka , says,
 
 [^f21]: Bhāgavatam XI, 5-38,39
 
+## वैष्णवाचार्य
+<details><summary>English</summary>
+
 THE SUCCESSION OF VAISHNAVITE ĀCĀRYAS.
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -886,9 +918,13 @@ The names of the chief disciples of Rāmānuja may be learnt from the respective
 </details>
 
 
+## आचार्य-भक्तिः
 
+<details><summary>English</summary>
 
 BHAKTI TO  ĀCĀRYA ESSENTIAL:
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1365,9 +1401,24 @@ In all the four regions of the world there is no one equal to us (because of thi
 नाळुन्दॊऴुदॆऴुवो नमक्कार् निगर् ना निलत्ते. (6)
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इति श्रीकवितार्किकसिंहस्य सर्वसन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे  
 गुरुपरंपरासारः संपूर्णः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वसन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+गुरुपरंपरासारः संपूर्णः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः
+</details>
+
+
 

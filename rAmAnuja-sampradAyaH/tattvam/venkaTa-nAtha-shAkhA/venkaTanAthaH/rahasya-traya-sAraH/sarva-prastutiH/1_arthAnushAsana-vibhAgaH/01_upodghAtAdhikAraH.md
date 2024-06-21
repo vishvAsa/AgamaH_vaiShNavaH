@@ -102,6 +102,8 @@ Though the jīva is ever dear to the Lord (Śaurī) like the gem Kaustubha, he f
 गुरुपरिषदुपज्ञं प्राप्य गोपायति स्वम् ॥ ६ ॥
 </details>
 
+## जीवात्म-च्युतिः
+
 <details><summary>English</summary>
 
 THE HERITAGE OF THE JĪVĀTMĀ.
@@ -336,8 +338,12 @@ Well has it been said, "[^f33] Trudging along the many thousand pathways of sa�
 </details>
 
 
+### व्याध-वर्धित-राजकुमारः
+<details><summary>English</summary>
 
 The parable of the prince brought up by huntsmen.
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -643,9 +649,15 @@ and created in him the power of discrimination by which he could choose and pref
 </details>
 
 
+### जीवेन-सम्बन्धः
 
+<details><summary>English</summary>
 
 The applicability of the parable to the Jīva.
+</details>
+ 
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
