@@ -309,7 +309,7 @@ In this context it has been said, “What are[^f44] to be known are many and end
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सार-भूतम् ऎन्गिऱ पदत्ताल् ए  
-प्रतिपन्नम् आन निरुपाधिक-सारत्तै विषयीकरिक्किऱ  
+प्रतिपन्नम् आन निरुपाधिक-सारत्तै विषयी-करिक्किऱ  
 सारतम-शब्दम् उपादेयम् +++("सार-भूत"-विवक्षितम् इति)+++. 
 </details>
 
@@ -318,15 +318,129 @@ In this context it has been said, “What are[^f44] to be known are many and end
 The word 'valuable' really means 'most valuable', because it refers to what is always and unconditionally valuable. 
 </details>
 
+<details><summary>Español</summary>
+
+La palabra 'valioso' realmente significa 'más valioso',  
+porque se refiere a  
+lo que siempre es e incondicionalmente valioso.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 सारभूतमॆन्गिऱ पदत्ताले प्रतिपन्नमान निरुपाधिक सारत्तै विषयीकरिक्किऱ सारतमशब्दमुपादेयम्. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बाह्य--कु-दृष्टि-शास्त्रङ्गळ् अत्यन्तासारङ्गळागैयाल् एय् अन्-उपादेयङ्गळ्. 
+</details>
+
+<details><summary>English</summary>
+
+The śāstras of those who are outside the pale of the Vedas (like Buddhists ) and likewise of heretics (like Advaitins) are not valuable at all and are therefore to be ignored. 
+</details>
+
+<details><summary>Español</summary>
+
+Los Śāstras de aquellos que están fuera del pálido de los Vedas (como los budistas)  
+y también de los herejes (como Advaitins) no son valiosos y,  
+por lo tanto, deben ser ignorados.
+</details>
 
 
-The śāstras of those who are outside the pale of the Vedas (like Buddhists ) and likewise of heretics (like Advaitins) are not valuable at all and are therefore to be ignored. In the first part of the Veda, the portion which treats of rites leading to the attainment of worldly goods is only of very slight value and hence not to be resorted to. That part which treats of the attainment of the good things of svarga after death, though it may appear valuable to somé as leading to fruits higher than worldly goods is of no use, as, in the final estimate, they are based on sorrow and have other objectionable features. That part, too, which treats of the realisation of one's own soul and the means thereof, though a little more valuable, is not of value to those who desire the enjoyment of the Supreme Self. To the man of discerning wisdom, the part of the Veda which treats of the Supreme Brahman, the attainment of Brahman and the means thereof is the most valuable, and is therefore to be preferred.
+<details><summary>मूलम्</summary>
+
+बाह्यकुदृष्टिशास्त्रङ्गळ् अत्यन्तासारङ्गळागैयालेयनु-पादेयङ्गळ्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेदत्तिल् पूर्व-भागत्तिल्  
+ऐहिक-फल-साधन--कर्म-प्रतिपादकम् आन प्रदेशम्  
+अल्प-सारम् आगैयाल् अनुपादेयम्.  
+</details>
+
+<details><summary>English</summary>
+
+In the first part of the Veda, the portion which treats of rites leading to the attainment of worldly goods is only of very slight value and hence not to be resorted to. 
+</details>
+
+<details><summary>Español</summary>
+
+En la primera parte del Veda,  
+la parte que trata de ritos  
+que conducen al logro de bienes mundanos  
+es solo de muy ligero valor y,  
+por lo tanto, no se recurrirá.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वेदत्तिल् पूर्वभागत्तिल् ऐहिकफलसाधन कर्मप्रतिपादकमान प्रदेशम् अल्पसारमागैयालनुपादेयम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आमुष्मिक प्रतिपादकांशम्  
+ऐहिक-फलत्तिऱ्‌ काट्टिल् अतिशयित फलत्तैय् उडैत्त्-आगैयाल् ए  
+सिलर्क्कु सारम् ऎन्नव् आय् इरुन्दद् एय् आगिल् उम्  
+दुःख-मूलत्वादि दोष-दुष्टम् आगैयाल् ए अनुपादेयम्.  
+</details>
+
+<details><summary>English</summary>
+
+That part which treats of the attainment of the good things of svarga after death, though it may appear valuable to somé as leading to fruits higher than worldly goods is of no use, as, in the final estimate, they are based on sorrow and have other objectionable features. 
+</details>
+
+<details><summary>Español</summary>
+
+Esa parte que trata el logro de las cosas buenas de Svarga después de la muerte,  
+aunque puede parecer valiosa para Somé  
+como lo que conduce a frutas más altas que los bienes mundanos  
+no es útil,  
+ya que, en la estimación final,  
+se basan en la tristeOtras características objetables.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आमुष्मिक प्रतिपादकांशम् ऐहिकफलत्तिऱ्‌ काट्टिल् अतिशयित फलत्तैयुडैत्तागैयाले सिलर्क्कु सारमॆन्न वायिरुन्ददेयागिलुम् दुःखमूलत्वादि दोषदुष्टमागैयाले अनुपादेयम्.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म--तत्-प्राप्ति-साधन-मात्रत्तै प्रतिपादिक्कुम् अंशम् उम्  
+सार-तरम् आग इरुन्दद् एय् आगिल् उम्  
+अदिल् उम् अत्यन्तातिशयितम् आन परमात्मानुभव-सापेक्षर्क्कु अनुपादेयम्. 
+</details>
+
+<details><summary>English</summary>
+
+That part, too, which treats of the realisation of one's own soul and the means thereof, though a little more valuable, is not of value to those who desire the enjoyment of the Supreme Self. 
+</details>
+
+<details><summary>Español</summary>
+
+Esa parte también,  
+que trata la realización de la propia alma y los medios de la misma,  
+aunque un poco más valiosos,  
+no es de valor para aquellos  
+que desean el disfrute del ser supremo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्म तत्प्राप्तिसाधनमात्रत्तै प्रतिपादिक्कुम् अंशमुम् सारतरमाग इरुन्ददेयागिलुम् अदिलुम् अत्यन्तातिशयितमान परमात्मानुभवसापेक्षर्क्कु अनुपादेयम्. 
+</details>
+
+
+
+To the man of discerning wisdom, the part of the Veda which treats of the Supreme Brahman, the attainment of Brahman and the means thereof is the most valuable, and is therefore to be preferred.
 
 [^f40]: Mahābhārata   : Udyoga Parva: 68-5.
 
