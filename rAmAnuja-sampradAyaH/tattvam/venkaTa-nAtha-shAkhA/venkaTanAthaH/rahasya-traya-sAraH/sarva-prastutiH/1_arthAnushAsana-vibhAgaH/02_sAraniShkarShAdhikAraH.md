@@ -193,13 +193,19 @@ THE MEANS OF ATTAINING IT IS ŚĀSTRA:
 
 परम-पुरुषार्थम् उम्  
 तद्-उपायम् उम्  
-प्रत्यक्षादि-प्रमाणङ्गळाल् अऱिय-वॊण्णाद-पडियाल् एय्  
+प्रत्यक्षादि-प्रमाणङ्गळाल् अऱियव् ऒण्णाद+++(=अशक्ति)+++-पडियाल् एय्  
 इवट्रिऱ्‌कु
 </details>
 
 <details><summary>English</summary>
 
 The ultimate goal or aim of life (puruṣārtha ) (namely, mokṣa ) and the means of attaining it are not capable of being understood from sense perception (pratyakṣa) or (anumāna) inference. 
+</details>
+
+<details><summary>Español</summary>
+
+El objetivo o objetivo final de la vida (Puruṣārtha) (a saber, mokṣa)  
+y los medios para lograrlo no son capaces de ser entendidos por la percepción sensorial (pratyakṣa) o (anumāna) inferencia.
 </details>
 
 
@@ -221,6 +227,12 @@ The ultimate goal or aim of life (puruṣārtha ) (namely, mokṣa ) and the mea
 As stated in such passages as "It is from the [^f40] śāstra  that I know Janārdana ", 
 </details>
 
+<details><summary>Español</summary>
+
+Como se indica en pasajes como  
+"es del [^f40] śāstra que conozco janārdana",
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -236,6 +248,14 @@ As stated in such passages as "It is from the [^f40] śāstra  that I know Janā
 <details><summary>English</summary>
 
 "Therefore[^f41] in determining what [^20] ought to be done and what ought not be done, the only authority that  should guide you is śāstra " 
+</details>
+
+<details><summary>Español</summary>
+
+"Por lo tanto, [^f41]  
+al determinar qué [^20] debe hacerse  
+y lo que no se debe hacer,  
+la única autoridad que debería guiarlo es Śāstra"
 </details>
 
 
@@ -254,6 +274,11 @@ As stated in such passages as "It is from the [^f40] śāstra  that I know Janā
 and "He who is well [^f43] versed in the Āgamas or Vedas will attain Brahman", 
 </details>
 
+<details><summary>Español</summary>
+
+y "El que está bien [^f43] versado en los āgamas o vedas alcanzará a Brahman",  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -270,12 +295,18 @@ and "He who is well [^f43] versed in the Āgamas or Vedas will attain Brahman",
 the only pramāṇa that exists for our guidance is śabda or what is revealed in the śāstra s. 
 </details>
 
+<details><summary>Español</summary>
+
+El único pramāṇa que existe para nuestra guía es Śabda o lo que se revela en los Śāstra s.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ऎण्ड्रुञ् चॊल्लुगिऱ-पडिये शब्दमे प्रमाणम्. 
 </details>
 
+## सारतम-ग्राहिता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -291,6 +322,16 @@ the only pramāṇa that exists for our guidance is śabda or what is revealed i
 <details><summary>English</summary>
 
 In this context it has been said, “What are[^f44] to be known are many and endless; the time (at our disposal) is short; the hindrances are many; therefore prefer only what is valuable, like the swan that separates the milk from the water with which it is mixed." 
+</details>
+
+<details><summary>Español</summary>
+
+En este contexto se ha dicho:  
+
+“Lo que se sabe [^f44] son ​​muchos e infinitos;  
+El tiempo (a nuestra disposición) es corto;  
+Los obstáculos son muchos;  
+Por lo tanto, prefiere solo lo que es valioso, como el cisne que separa la leche del agua con el que se mezcla ".
 </details>
 
 
@@ -492,18 +533,107 @@ THE THREE MYSTERIES ARE THE MOST IMPORTANT.
 Los tres misterios son los más importantes.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Even there, the three Mysteries (mantras) which are, as it were, an epitome of the truths that ought to be known and of the means of attaining salvation, which are the distinctive, unique and exclusive doctrines (of our viśiṣṭādvaita  system) are invaluable and therefore to be most preferred. As stated in the śloka  [^f45] " From the many and great śāstras, the wise man should choose only that which is most valuable as the bee takes in the honey from the flowers," the jīva who thirsts for mokṣa  should prefer as invaluable these three mysteries (mantrās.)
+अव्व्-अंशत्तिल् उम्  
+प्रधान-प्रतितन्त्रङ्गळ् आन तत्त्व-हितङ्गळ् उडैय संग्रहम् आगैयाल् ए  
+मिगव्+++(=अत्यन्त)+++ उम् सारतमम् आय् इरुक्कुम् रहस्य-त्रयम् .  
+</details>
+
+<details><summary>English</summary>
+
+Even there, the three Mysteries (mantras) which are, as it were, an epitome of the truths that ought to be known and of the means of attaining salvation, which are the distinctive, unique and exclusive doctrines (of our viśiṣṭādvaita  system) are invaluable and therefore to be most preferred. 
+</details>
+
+<details><summary>Español</summary>
+
+Incluso allí, los tres misterios (mantras) que son, por así decirlo,  
+un epítome de las verdades que deberían ser conocidos  
+y de los medios para alcanzar la salvación,  
+que son las doctrinas distintivas, únicas y exclusivas (de nuestro sistema Viśiṣṭādvaita) invaluable  
+y, por lo tanto, para ser más preferido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्वंशत्तिलुम् प्रधानप्रतितन्त्रङ्गळान तत्त्वहितङ्गळुडैय संग्रह मागैयाले मिगवुम् सारतममायिरुक्कुम् रहस्यत्रयम् .  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् ए  
+
+> “बहुभ्यश् च महद्भ्यश् च  
+शास्त्रेभ्यो मतिमान् नरः ।  
+सर्वतस् सारम् आदद्यात्  
+पुष्पेभ्य इव षट्पदः ॥” 
+
+ऎन्गिऱप् पडिय् ए  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+As stated in the śloka  [^f45] " From the many and great śāstras, the wise man should choose only that which is most valuable as the bee takes in the honey from the flowers," the jīva who thirsts for mokṣa  should prefer as invaluable these three mysteries (mantrās.)
 
 [^f45]: Mahābhārata   : Santi Parva 176-66.
 
+</details>
+
+<details><summary>Español</summary>
+
+Como se indica en el Śloka [^f45]  
+
+> "De los muchos y grandes Śāstras,  
+el hombre sabio debe elegir  
+solo lo que es más valioso  
+ya que la abeja toma la miel de las flores",  
+
+el Jīva que "Thirsts for Mokṣa"  
+debe preferir como invaluable  
+Estos tres misterios (mantrās).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले “बहुभ्यश्च महद्भ्यश्च शास्त्रेभ्यो मतिमान्नरः । सर्वतस्सारमादद्यात् पुष्पेभ्य इव षट्पदः ॥” ऎन्गिऱप्पडिये  
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-अमैया इवै ऎन्नुमासैयिनाल् अऱुमूण्ड्रुलगिल्  
-सुमैयान कल्विगळ् सूऴवन्दालुम् तॊगैयिवैयॆण्ड्रु  
-इमैया इमैयवरेत्तिय ऎट्टिरण्डॆण्णिय नम्  
-समयासिरियर् सदिर्क्कुम् तनि निलै तन्दनरे. (9)
+"अमैया+++(=अपर्याप्तम्)+++ इवै" ऎन्नुम् आसैयिनाल् अऱु+++(=६*)+++-मूण्ड्र्+++(=३)+++-उलगिल् +++(→१४ विद्यास्थानानि, ४ उपवेदाः)+++  
+सुमैय्+++(=भार)+++ आन कल्विगळ् सूऴ+++(=पूर्ण)+++-वन्दाल् उम् "तॊगैय्+++(=गणना[मात्रम्])+++ इवैय्" ऎण्ड्रु  
+इमैया+++(=अनिमेशक)+++ इमैयवर्+++(=निमेश-चर्म-वन्तः)+++ +++(→उत्कृष्ट-ज्ञानवन्तो नित्यसूरयः)+++ एत्तिय+++(=स्तुत)+++ ऎट्ट्+++(-अक्षर)+++-इरण्ड् ऎण्णिय+++(=गणयन्तः)+++ नम्-  
+समयासिरियर्+++(=समयाचार्याः)+++ सदिर्क्कुम्+++(=चतुरता)+++ तनि-निलै तन्दनर् ए. (9)
 </details>
+
+<details><summary>English</summary>
+
+As if what has been already learnt is not enough, the eighteen subjects of study may confront us like burdens (on the intellect); but they add only to the number (and are of no use). Therefore the ācāryas of our system (Visiştādvaitam) have, with wise discrimination, given us what the Nitya-sūris whose wisdom never languishes (literally "who never wink") speak of in exalted terms.  
+namely, the 'eight' (aṣṭākṣara) and the two' (viz) the Dvayam and the carama śloka'
+</details>
+
+<details><summary>Español</summary>
+
+Como si lo que ya se ha aprendido  
+no fuera suficiente,  
+los dieciocho sujetos de estudio pueden confrontarnos como cargas (en el intelecto);  
+Pero se suman solo al número (y no sirven de nada).  
+Por lo tanto,  
+los ācāryas de nuestro sistema (Visiştādvaitam) tienen,  
+con una sabia discriminación,  
+dados  
+de lo que el nitya-sūris cuya sabiduría nunca languidece  
+(literalmente "que nunca guiño ")  
+hablan en términos exaltados -  
+A saber,  
+el 'ocho' (aṣṭākṣara)  
+y elDos '(a saber) el dvayam y el carama śloka'
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -513,23 +643,44 @@ Even there, the three Mysteries (mantras) which are, as it were, an epitome of t
 समयासिरियर् सदिर्क्कुम् तनि निलै तन्दनरे. (9)
 </details>
 
-As if what has been already learnt is not enough, the eighteen subjects of study may confront us like burdens (on the intellect); but they add only to the number (and are of no use). Therefore the ācāryas of our system (Visiştādvaitam) have, with wise discrimination, given us what the Nitya-sūris whose wisdom never languishes (literally who never wink") speak of in exalted terms. namely, the 'eight' (aṣṭākṣara) and the two' (viz) the Dvayam and the carama śloka ,
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-शाखानामुपरि स्थितेन मनुना मूलेन लब्धात्मकः  
-सत्ताहेतु सकृज्जपेन सकलं कालं द्वयेन क्षिपन् ।  
-वेदोत्तंस विहार सारथि दया गुंभेन विस्रंभितः  
-सारज्ञो यदि कश्चिदस्ति भुवने नाथस्स यूथस्य नः ॥ ९ ॥
+शाखानाम् उपरि स्थितेन मनुना मूलेन **लब्धात्मकः**  
+सत्ता-हेतुः सकृज्-जपेन, सकलं कालं द्वयेन **क्षिपन्** ।  
+वेदोत्तंस-विहार-सारथि-दया-गुंफेन **विस्रंभितः**  
+सारज्ञो यदि कश्चिद् अस्ति भुवने, नाथस् स यूथस्य नः ॥ ९ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+The basic mantra (mūlamantra) called aṣṭākṣara shines conspicuously in the Upaniṣads (literally, the end of the various branches of the Veda). If there is any one endowed with discriminating wisdom who has understood from that mantra the truth about his essential nature, and if he spends all his time in uttering the Dvayam which, even at a single utterance, can produce the fruition of the desire for the ultimate goal of life and if he has also absolute faith in the means of salvation taught with compassion in the carama śloka  by Śrīkṛṣṇa who, for his sport or lila, became the charioteer, and, who is the crest jewel, as it were, of the Vedas - if there is any such person (at all) in the world, he will be the leader of all our hosts.
+</details>
+
+<details><summary>Español</summary>
+
+El mantra básico (Mūlamantra) llamado Aṣṭākṣara  
+brilla notablemente en los Upaniṣads (literalmente, el final de las diversas ramas del Veda).  
+Si hay alguien dotado de una sabiduría discriminatoria que ha entendido de ese mantra la verdad sobre su naturaleza esencial,  
+y si pasa todo su tiempo en pronunciar el dvayam  
+que, incluso en una sola expresión,  
+puede producir la fructificación del deseo por el deseo del Objetivo final de la vida  
+y si él también tiene una fe absoluta en los medios de salvación  
+que se enseña con compasión en el carama Śloka por Śrīkṛṣṇa  
+que, por su deporte o Lila, se convirtió en el auriga,  
+y, que es la joya de la cresta,  
+por así decirlo, deLos Vedas:  
+si hay alguna persona (en absoluto) en el mundo,  
+será el líder de todos nuestros anfitriones.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 शाखानामुपरि स्थितेन मनुना मूलेन लब्धात्मकः  
-सत्ताहेतु सकृज्जपेन सकलं कालं द्वयेन क्षिपन् ।  
+सत्ताहेतुः सकृज्जपेन सकलं कालं द्वयेन क्षिपन् ।  
 वेदोत्तंस विहार सारथि दया गुंभेन विस्रंभितः  
 सारज्ञो यदि कश्चिदस्ति भुवने नाथस्स यूथस्य नः ॥ ९ ॥
 </details>
 
-The basic mantra (mūlamantra) called aṣṭākṣara shines conspicuously in the Upaniṣads (literally, the end of the various branches of the Veda). If there is any one endowed with discriminating wisdom who has understood from that mantra the truth about his essential nature, and if he spends all his time in uttering the Dvayam which, even at a single utterance, can produce the fruition of the desire for the ultimate goal of life and if he has also absolute faith in the means of salvation taught with compassion in the carama śloka  by Śrīkṛṣṇa who, for his sport or liIa, became the charioteer, and, who is the crest jewel, as it were, of the Vedas - if there is any such person (at all) in the world, he will be the leader of all our hosts.
 
