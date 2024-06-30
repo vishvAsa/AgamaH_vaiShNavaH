@@ -158,7 +158,7 @@ If, in the Kali yuga, there is any one supremely wise who can understand this un
 
 <details><summary>Español</summary>
 
-If, in the Kali yuga, there is any one supremely wise who can understand this unique and distinctive doctrine of the relationship between Iśvara and the world being that between the soul and the body, which was taught by that sovereign sannyāsin (Śrī Rāmānuja) and which is like the dawn that dispels the darkness of ignorance , then in that place where he is, the tumultuous waves of logical disputation arising from the eagerness to establish the truths of other systems will subside at once.
+Si, en el Kali Yuga, hay alguien supremamente sabio que puede entender esta doctrina única y distintiva de la relación entre Iśvara y el mundo que entre el alma y el cuerpo, que fue enseñada por ese sannyāsin (śrī rāmānuja) yque es como el amanecer que disipa la oscuridad de la ignorancia, luego en ese lugar donde está, las ondas tumultuosas de la disputa lógica derivadas del afán de establecer las verdades de otros sistemas disminuirán de inmediato.
 </details>
 
 
