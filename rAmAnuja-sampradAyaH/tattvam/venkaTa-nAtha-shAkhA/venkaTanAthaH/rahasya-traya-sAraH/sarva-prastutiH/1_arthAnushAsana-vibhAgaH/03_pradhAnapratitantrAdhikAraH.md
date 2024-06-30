@@ -13,7 +13,7 @@ title = "०३ प्रधानप्रतितन्त्राधिक�
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-आधेयत्व-प्रभृति-नियमैरादिकर्तुश्शरीरं  
+आधेयत्व-प्रभृति-नियमैर् आदिकर्तुश् शरीरं  
 सत्ता-स्थेम-प्रयतन-फलेष्वेतदायत्तमेतत् ।  
 विश्वंपश्यन्नितिभगवतिव्यापकादर्शदृष्टे  
 गंभीराणामकृतकगिरां गाहते चित्तवृत्तिम् ॥ १० ॥
@@ -111,6 +111,17 @@ The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavā
 विलैयिण्ड्रि नामडियोम् ऎण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
 </details>
 
+<details><summary>English</summary>
+
+The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka Upaniṣad states this explicitly.)
+</details>
+
+<details><summary>Español</summary>
+
+The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka Upaniṣad states this explicitly.)
+</details>
+
+
 <details><summary>मूलम् (त॰प॰)</summary>
 
 निलैदन्द तारगनाय् नियमिक्कुम् इऱैवनुमाय्  
@@ -119,7 +130,7 @@ The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavā
 विलैयिण्ड्रि नामडियोम् ऎण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
 </details>
 
-The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka Upaniṣad states this explicitly.)
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -129,6 +140,17 @@ The Lord gave us our existence and is our support (dhāraka) as well; He is also
 हेवाक-प्रथमान-हैतुक-कथा-कल्लोल-कोलाहलः ॥ ११ ॥
 </details>
 
+<details><summary>English</summary>
+
+If, in the Kali yuga, there is any one supremely wise who can understand this unique and distinctive doctrine of the relationship between Iśvara and the world being that between the soul and the body, which was taught by that sovereign sannyāsin (Śrī Rāmānuja) and which is like the dawn that dispels the darkness of ignorance , then in that place where he is, the tumultuous waves of logical disputation arising from the eagerness to establish the truths of other systems will subside at once.
+</details>
+
+<details><summary>Español</summary>
+
+If, in the Kali yuga, there is any one supremely wise who can understand this unique and distinctive doctrine of the relationship between Iśvara and the world being that between the soul and the body, which was taught by that sovereign sannyāsin (Śrī Rāmānuja) and which is like the dawn that dispels the darkness of ignorance , then in that place where he is, the tumultuous waves of logical disputation arising from the eagerness to establish the truths of other systems will subside at once.
+</details>
+
+
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 यद्येतं यतिसार्वभौमकथितं विद्यादविद्यातमः-  
@@ -137,7 +159,6 @@ The Lord gave us our existence and is our support (dhāraka) as well; He is also
 हेवाक-प्रथमान-हैतुक-कथा-कल्लोल-कोलाहलः ॥ ११ ॥
 </details>
 
-If, in the Kali yuga, there is any one supremely wise who can understand this unique and distinctive doctrine of the relationship between Iśvara and the world being that between the soul and the body, which was taught by that sovereign sannyāsin (Śrī Rāmānuja) and which is like the dawn that dispels the darkness of ignorance , then in that place where he is, the tumultuous waves of logical disputation arising from the eagerness to establish the truths of other systems will subside at once.
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे प्रधानप्रतितन्त्राधिकारस्तृतीयः ॥  
