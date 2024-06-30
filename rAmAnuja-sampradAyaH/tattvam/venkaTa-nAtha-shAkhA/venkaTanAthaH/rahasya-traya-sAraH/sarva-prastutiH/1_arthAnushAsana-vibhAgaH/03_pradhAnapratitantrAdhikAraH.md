@@ -19,6 +19,20 @@ title = "०३ प्रधानप्रतितन्त्राधिक�
 गंभीराणामकृतकगिरां गाहते चित्तवृत्तिम् ॥ १० ॥
 </details>
 
+<details><summary>English</summary>
+
+When Bhagavān is seen in the mirror of the 'vyāpaka[^21]  mantras, which disclose His all-pervasiveness, one will see that the universe (which we perceive with our senses) is absolutely dependent on Him for its existence and continuance and likewise for its activity and the fruit or result arising from it; since the universe is supported and controlled by Him and is also solely for the fulfilment of His purposes, one will understand that it is the body of the Primaeval Creator. By realizing this relationship of the universe being the body of the Creator, one is enabled to reach the heart of the śrutis, which were not composed by any one and which have the deepest significance.
+
+[^21]: Vyāpaka  mantras: These are (1) Aṣṭākṣara (2) Ṣaḍakṣara, the mantra with six letters (Namo Viṣṇave with Praṇava at the beginning) and (3) Dvadaśākṣara, the Mantra with twelve letters (Namo Bhagavate Vāsudevāya with praṇava at the beginning)
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando se ve a Bhagavān en el espejo de los mantras 'Vyāpaka [^21], que revelan su omnobvencia, uno verá que el universo (que percibimos con nuestros sentidos) depende absolutamente de él por su existencia y continuidad y de la misma manerapor su actividad y la fruta o resultado que surge de ella;Dado que el universo es apoyado y controlado por él y también es únicamente para el cumplimiento de sus propósitos, uno entenderá que es el cuerpo del creador primaeval.Al darse cuenta de que esta relación del universo es el cuerpo del creador, uno puede alcanzar el corazón de los Śrutis, que no fueron compuestos por nadie y que tienen el significado más profundo.
+</details>
+
+
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 आधेयत्व-प्रभृति-नियमैरादिकर्तुश्शरीरं  
@@ -27,9 +41,6 @@ title = "०३ प्रधानप्रतितन्त्राधिक�
 गंभीराणामकृतकगिरां गाहते चित्तवृत्तिम् ॥ १० ॥
 </details>
 
-When Bhagavān is seen in the mirror of the 'vyāpaka[^21]  mantras, which disclose His all-pervasiveness, one will see that the universe (which we perceive with our senses) is absolutely dependent on Him for its existence and continuance and likewise for its activity and the fruit or result arising from it; since the universe is supported and controlled by Him and is also solely for the fulfilment of His purposes, one will understand that it is the body of the Primaeval Creator. By realizing this relationship of the universe being the body of the Creator, one is enabled to reach the heart of the śrutis, which were not composed by any one and which have the deepest significance.
-
-[^21]: Vyāpaka  mantras: These are (1) Aṣṭākṣara (2) Ṣaḍakṣara, the mantra with six letters (Namo Viṣṇave with Praṇava at the beginning) and (3) Dvadaśākṣara, the Mantra with twelve letters (Namo Bhagavate Vāsudevāya with praṇava at the beginning)
 
 WHAT IS MEANT BY PRATITANTRA? THE MEANING
 
