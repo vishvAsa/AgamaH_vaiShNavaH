@@ -14,14 +14,23 @@ title = "०३ प्रधानप्रतितन्त्राधिक�
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आधेयत्व-प्रभृति+++(→नियाम्यता-शेषता)+++-नियमैर् आदि-कर्तुश् शरीरं  
-सत्ता-स्थेम-प्रयतन-फलेष्व् एतद्-आयत्तम् एतत् ।  
-विश्वंपश्यन्नितिभगवतिव्यापकादर्शदृष्टे  
-गंभीराणामकृतकगिरां गाहते चित्तवृत्तिम् ॥ १० ॥
+सत्ता-स्थेम-प्रयतन-फलेष्व् एतद्+++(→विष्ण्व्)+++-आयत्तम् एतत्+++(→विश्वम्)+++ ।  
+विश्वं पश्यन्न् इति भगवति +++(६-८-१२अक्षर-मन्त्रा व्याप्ति-बोधकाः→)+++व्यापकादर्श-दृष्टे   
+गंभीराणाम् अ-कृतक-गिरां गाहते चित्त-वृत्तिम् ॥ १० ॥
 </details>
 
 <details><summary>English</summary>
 
-When Bhagavān is seen in the mirror of the 'vyāpaka[^21]  mantras, which disclose His all-pervasiveness, one will see that the universe (which we perceive with our senses) is absolutely dependent on Him for its existence and continuance and likewise for its activity and the fruit or result arising from it; since the universe is supported and controlled by Him and is also solely for the fulfilment of His purposes, one will understand that it is the body of the Primaeval Creator. By realizing this relationship of the universe being the body of the Creator, one is enabled to reach the heart of the śrutis, which were not composed by any one and which have the deepest significance.
+When Bhagavān is seen in the mirror of the 'vyāpaka[^21]  mantras,  
+which disclose His all-pervasiveness,  
+one will see that the universe (which we perceive with our senses) is absolutely dependent on Him for its existence and continuance and likewise for its activity and the fruit or result arising from it;  
+since the universe is supported and controlled by Him  
+and is also solely for the fulfilment of His purposes,  
+one will understand that it is the body of the Primaeval Creator.  
+By realizing this relationship of the universe being the body of the Creator,  
+one is enabled to reach the heart of the śrutis,  
+which were not composed by any one  
+and which have the deepest significance.
 
 [^21]: Vyāpaka  mantras: These are (1) Aṣṭākṣara (2) Ṣaḍakṣara, the mantra with six letters (Namo Viṣṇave with Praṇava at the beginning) and (3) Dvadaśākṣara, the Mantra with twelve letters (Namo Bhagavate Vāsudevāya with praṇava at the beginning)
 
@@ -29,7 +38,18 @@ When Bhagavān is seen in the mirror of the 'vyāpaka[^21]  mantras, which discl
 
 <details><summary>Español</summary>
 
-Cuando se ve a Bhagavān en el espejo de los mantras 'Vyāpaka [^21], que revelan su omnobvencia, uno verá que el universo (que percibimos con nuestros sentidos) depende absolutamente de él por su existencia y continuidad y de la misma manerapor su actividad y la fruta o resultado que surge de ella;Dado que el universo es apoyado y controlado por él y también es únicamente para el cumplimiento de sus propósitos, uno entenderá que es el cuerpo del creador primaeval.Al darse cuenta de que esta relación del universo es el cuerpo del creador, uno puede alcanzar el corazón de los Śrutis, que no fueron compuestos por nadie y que tienen el significado más profundo.
+Cuando se ve a Bhagavān  
+en el espejo de los mantras 'Vyāpaka [^21],  
+que revelan su omnobvencia,  
+uno verá que el universo (que percibimos con nuestros sentidos)  
+depende absolutamente de él por su existencia y continuidad y de la misma manerapor su actividad y la fruta o resultado que surge de ella;  
+Dado que el universo es apoyado y controlado por él  
+y también es únicamente para el cumplimiento de sus propósitos,  
+uno entenderá que es el cuerpo del creador primaeval.  
+Al darse cuenta de que esta relación del universo es el cuerpo del creador,  
+uno puede alcanzar el corazón de los Śrutis,  
+que no fueron compuestos por nadie  
+y que tienen el significado más profundo.
 </details>
 
 
@@ -41,16 +61,185 @@ Cuando se ve a Bhagavān en el espejo de los mantras 'Vyāpaka [^21], que revela
 गंभीराणामकृतकगिरां गाहते चित्तवृत्तिम् ॥ १० ॥
 </details>
 
+## प्रतितन्त्रत्वम्
 
-WHAT IS MEANT BY PRATITANTRA? THE MEANING
+<details><summary>English</summary>
 
-OF ŚARĪRA -ŚARĪRI BHĀVA:
+WHAT IS MEANT BY PRATITANTRA?  
+THE MEANING OF ŚARĪRA -ŚARĪRI BHĀVA:
 
-The word Pratitantra means a doctrine or feature which is peculiar and distinctive to a certain (philosophical or religious) system exclusive of all others. Here it may be asked what the doctrine that is most important and unique to our system of Vedānta  is. It is the doctrine which maintains that the relationship between Iśvara and the world of sentient beings and non sentient things is that between the soul and the body. (Another is the doctrine that every word, whatever its ordinary denotation may be, such as 'cow' "man" and the like, refers ultimately to Iśvara who is within them as their innermost soul).
+</details>
+
+<details><summary>Español</summary>
+
+WHAT IS MEANT BY PRATITANTRA?  
+THE MEANING OF ŚARĪRA -ŚARĪRI BHĀVA:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतितन्त्रम् आवदु मट्र्-उळ्ळ सिद्धान्तिगळ्  
+ऒरुवर् उम् इसैयाद्+++(=अनङ्गीकृत्य)+++ ए  
+तन्न्-उडैय सिद्धान्तत्तिऱ्‌के अ-साधारणम् आन अर्थम्.  
+</details>
+
+<details><summary>English</summary>
+
+The word Pratitantra means a doctrine or feature which is peculiar and distinctive to a certain (philosophical or religious) system exclusive of all others. 
+</details>
+
+<details><summary>Español</summary>
+
+The word Pratitantra means a doctrine or feature which is peculiar and distinctive to a certain (philosophical or religious) system exclusive of all others. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतितन्त्रमावदु मट्रुळ्ळ सिद्धान्तिगळॊरुवरुमिसैयादे तन्नुडैय सिद्धान्तत्तिऱ्‌के असाधारणमान अर्थम्.  
+</details>
+
+## प्रधान-प्रतितन्त्रम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्गु वेदान्तिगळ् आन नम्म्-उडैय दर्शनत्तिऱ्‌क् ए  
+अ-साधारणम् आय्, प्रधानम् उम् आन अर्थम् ऎद् 
+
+ऎन्निल् चेतनाचेतनङ्गळुक्क् उम्,  
+ईश्वरनुक्कुम् उण्ड् आन  
+शरीरात्म-भाव-संबन्धादिगळ्.  
+</details>
+
+<details><summary>English</summary>
+
+Here it may be asked  
+
+> what the doctrine  
+that is most important and unique to our system of Vedānta  is. 
+
+It is the doctrine  
+which maintains that the relationship between Iśvara  
+and the world of sentient beings  
+and non sentient things is that between the soul and the body.  
+
+(Another is the doctrine that every word,   whatever its ordinary denotation may be,  
+such as 'cow' "man" and the like,  
+refers ultimately to Iśvara who is within them as their innermost soul).+++(5)+++
+
+</details>
+
+<details><summary>Español</summary>
+
+Here it may be asked  
+
+> what the doctrine  
+that is most important and unique to our system of Vedānta  is. 
+
+It is the doctrine  
+which maintains that the relationship between Iśvara  
+and the world of sentient beings  
+and non sentient things is that between the soul and the body.  
+
+(Another is the doctrine that every word,   whatever its ordinary denotation may be,  
+such as 'cow' "man" and the like,  
+refers ultimately to Iśvara who is within them as their innermost soul).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु वेदान्तिगळान नम्मुडैय दर्शनत्तिऱ्‌के असाधारणमाय् प्रधानमुमान अर्थम् ऎदॆन्निल् चेतनाचेतनङ्गळुक्कुम् ईश्वरनुक्कुमुण्डान शरीरात्मभावसंबन्धादिगळ्.  
+</details>
+
+
+## आत्म-शरीर-भावः
+<details><summary>English</summary>
 
 WHAT IS A SARĪRA AND WHAT IS A SARIRI :
+</details>
 
-Iśvara is called the inner self or soul (Sariri), because as long as they exist, He is, in regard to sentient and non-sentient substances (dravya), their support (ādhāra), their controller or ruler (niyantā) and their Lord or Master (śeṣī ) for whose purposes they exist. Sentient beings and non-sentient things form His body, since, with regard to Him, they stand as substances supported by Him, controlled by Him, and existing solely for the fulfilment of His purposes, throughout their existence. Iśvara is called the Supporter and the Controller or Ruler of all sentient beings and non-sentient things, because from His swarupa or essential nature and His saṅkalpa or will, they derive their existence, continuance and activities as [^f46] befitting[^22] each of these two (svarūpa and saṅkalpa). It may be asked how this could be. Just as Iśvara is the abode, āśraya or ādhāra (support) of the attributes which define His essential nature (svarūpa viz. Satyam, Jñānan, Anantam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility), He is also the inseparable and direct support, (āsraya or ādhāra) of all substances (sentient and non-sentient) other than Himself. He is also the support, through these substances ((i.e.) indirectly), of the qualities that pertain to them. There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
+<details><summary>Español</summary>
+
+WHAT IS A SARĪRA AND WHAT IS A SARIRI :
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् ईश्वरनुक्कु शरीरित्वम् आवदु  
+चेतनाचेतन-द्रव्यङ्गळैप्प पट्र  
+नियमेन धारकन् उम् आय्  
+नियन्ताव् उम् आय्,  
+शेषिय् उम् आय् इरुक्कै. 
+</details>
+
+<details><summary>English</summary>
+
+Iśvara is called the inner self or soul (Sariri),  
+because as long as they exist,  
+He is, in regard to sentient and non-sentient substances (dravya),  
+their support (ādhāra),  
+their controller or ruler (niyantā)  
+and their Lord or Master (śeṣī )  
+for whose purposes they exist. 
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara is called the inner self or soul (Sariri),  
+because as long as they exist,  
+He is, in regard to sentient and non-sentient substances (dravya),  
+their support (ādhāra),  
+their controller or ruler (niyantā)  
+and their Lord or Master (śeṣī )  
+for whose purposes they exist. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् ईश्वरनुक्कु शरीरित्वमावदु चेतनाचेतनद्रव्यङ्गळैप्पट्र नियमेन धारकनुमाय् नियन्तावुमाय्, शेषियुमायिरुक्कै. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चेतनाचेतनङ्गळुक्कु शरीरत्वम् आवदु,  
+नियमेन ईश्वरनैप्प पट्र  
+धार्यम् उम् आय्,  
+नियाम्यम् उम् आय्,  
+शेषम् उम् आन द्रव्यम्+++(←न तु गुणः!)+++ आय्  
+इरुक्कै.
+</details>
+
+<details><summary>English</summary>
+
+Sentient beings and non-sentient things form His body,  
+since, with regard to Him,  
+they stand as substances supported by Him,  
+controlled by Him,  
+and existing solely for the fulfilment of His purposes,  
+throughout their existence.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Sentient beings and non-sentient things form His body,  
+since, with regard to Him,  
+they stand as substances supported by Him,  
+controlled by Him,  
+and existing solely for the fulfilment of His purposes,  
+throughout their existence.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चेतनाचेतनङ्गळुक्कु शरीरत्वमावदु, नियमेन ईश्वरनैप्पट्र धार्यमुमाय्, नियाम्यमुमाय्, शेषमुमान द्रव्यमायिरुक्कै.
+</details>
+
+
+
+Iśvara is called the Supporter and the Controller or Ruler of all sentient beings and non-sentient things, because from His swarupa or essential nature and His saṅkalpa or will, they derive their existence, continuance and activities as [^f46] befitting[^22] each of these two (svarūpa and saṅkalpa). It may be asked how this could be. Just as Iśvara is the abode, āśraya or ādhāra (support) of the attributes which define His essential nature (svarūpa viz. Satyam, Jñānan, Anantam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility), He is also the inseparable and direct support, (āsraya or ādhāra) of all substances (sentient and non-sentient) other than Himself. He is also the support, through these substances ((i.e.) indirectly), of the qualities that pertain to them. There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
 
 [^f46]: As befitting each of these two - By His svarūpa, He is the cause of their existence and continuance; this is because of being their support; by His Saṅkalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.*
 
