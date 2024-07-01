@@ -257,6 +257,27 @@ a lo largo de su existencia.
 यथार्हं सत्ता-स्थिति-+++(सङ्कल्पत एव→)+++प्रररवृत्तिगळुक्कु प्रयोजकन् आय् इरुक्कै. 
 </details>
 
+<details><summary>English</summary>
+
+Iśvara is called the Supporter and the Controller or Ruler of all sentient beings and non-sentient things,  
+because from His swarupa or essential nature and His saṅkalpa or will,  
+they derive their existence, continuance and activities  
+as  befitting[^22] each of these two (svarūpa and saṅkalpa).  
+
+
+[^22]: As befitting each of these two - By His svarūpa, He is the cause of their existence and continuance; this is because of being their support; by His Saṅkalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.
+
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara is called the Supporter and the Controller or Ruler of all sentient beings and non-sentient things,  
+because from His swarupa or essential nature and His saṅkalpa or will,  
+they derive their existence, continuance and activities  
+as  befitting[^22] each of these two (svarūpa and saṅkalpa).  
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 चेतनाचेतनङ्गळैप्पट्र धारकनुमाय् नियन्तावुमागैयावदु, तन् स्वरूपत्तालुम् सङ्कल्पत्तालुम् यथार्हं सत्ता-स्थिति-प्रवृत्तिगळुक्कु प्रयोजकनायिरुक्कै. 
@@ -264,11 +285,9 @@ a lo largo de su existencia.
 
 
 
-Iśvara is called the Supporter and the Controller or Ruler of all sentient beings and non-sentient things, because from His swarupa or essential nature and His saṅkalpa or will, they derive their existence, continuance and activities as [^f46] befitting[^22] each of these two (svarūpa and saṅkalpa). It may be asked how this could be. Just as Iśvara is the abode, āśraya or ādhāra (support) of the attributes which define His essential nature (svarūpa viz. Satyam, Jñānan, Anantam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility), He is also the inseparable and direct support, (āsraya or ādhāra) of all substances (sentient and non-sentient) other than Himself. He is also the support, through these substances ((i.e.) indirectly), of the qualities that pertain to them. There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
 
-[^f46]: As befitting each of these two - By His svarūpa, He is the cause of their existence and continuance; this is because of being their support; by His Saṅkalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.*
 
-[^22]: As befitting each of these two - By His svarūpa, He is the cause of their existence and continuance; this is because of being their support; by His Saṅkalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.
+It may be asked how this could be. Just as Iśvara is the abode, āśraya or ādhāra (support) of the attributes which define His essential nature (svarūpa viz. Satyam, Jñānan, Anantam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility), He is also the inseparable and direct support, (āsraya or ādhāra) of all substances (sentient and non-sentient) other than Himself. He is also the support, through these substances ((i.e.) indirectly), of the qualities that pertain to them. There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
 
 IŚVARA'S SUPPORT BY HIS SVARŪPA AND
 
