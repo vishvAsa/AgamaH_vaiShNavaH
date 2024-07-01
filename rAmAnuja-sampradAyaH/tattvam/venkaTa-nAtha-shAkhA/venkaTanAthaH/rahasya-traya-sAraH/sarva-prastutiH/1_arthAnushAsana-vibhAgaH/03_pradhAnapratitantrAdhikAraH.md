@@ -90,7 +90,10 @@ The word Pratitantra means a doctrine or feature which is peculiar and distincti
 
 <details><summary>Español</summary>
 
-The word Pratitantra means a doctrine or feature which is peculiar and distinctive to a certain (philosophical or religious) system exclusive of all others. 
+La palabra Pratitantra  
+significa una doctrina o característica  
+que es peculiar y distintiva para un cierto sistema (filosófico o religioso)  
+exclusivo de todos los demás.
 </details>
 
 
@@ -120,29 +123,34 @@ that is most important and unique to our system of Vedānta  is.
 It is the doctrine  
 which maintains that the relationship between Iśvara  
 and the world of sentient beings  
-and non sentient things is that between the soul and the body.  
+and non sentient things  
+is that between the soul and the body.  
 
 (Another is the doctrine that every word,   whatever its ordinary denotation may be,  
 such as 'cow' "man" and the like,  
-refers ultimately to Iśvara who is within them as their innermost soul).+++(5)+++
-
+refers ultimately to Iśvara  
+who is within them as their innermost soul).+++(5)+++
 </details>
 
 <details><summary>Español</summary>
 
-Here it may be asked  
+Aquí se puede preguntar
 
-> what the doctrine  
-that is most important and unique to our system of Vedānta  is. 
+> Que la doctrina
+Eso es lo más importante y exclusivo de nuestro sistema de Vedānta.
 
-It is the doctrine  
-which maintains that the relationship between Iśvara  
-and the world of sentient beings  
-and non sentient things is that between the soul and the body.  
+Es la doctrina
+que mantiene que la relación entre Iśvara
+y el mundo de los seres sintientes
+y cosas no sensibles  
+es que entre el alma y el cuerpo.
 
-(Another is the doctrine that every word,   whatever its ordinary denotation may be,  
-such as 'cow' "man" and the like,  
-refers ultimately to Iśvara who is within them as their innermost soul).
+(Otra es la doctrina de que cada palabra,  
+cualquiera que sea su denotación ordinaria,  
+como 'vaca' "hombre" y similares,  
+se refiere en última instancia a Iśvara,  
+que está dentro de ellos  
+como su alma más interna).
 </details>
 
 
@@ -160,7 +168,8 @@ WHAT IS A SARĪRA AND WHAT IS A SARIRI :
 
 <details><summary>Español</summary>
 
-WHAT IS A SARĪRA AND WHAT IS A SARIRI :
+¿Qué es una SARĪRA  
+y qué es una sariri?
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -185,13 +194,13 @@ for whose purposes they exist.
 
 <details><summary>Español</summary>
 
-Iśvara is called the inner self or soul (Sariri),  
-because as long as they exist,  
-He is, in regard to sentient and non-sentient substances (dravya),  
-their support (ādhāra),  
-their controller or ruler (niyantā)  
-and their Lord or Master (śeṣī )  
-for whose purposes they exist. 
+Iśvara se llama el yo o alma interior (sariri),
+Porque mientras existan,
+Él está, con respecto a sustancias sensibles y no sensibles (Dravya),
+su apoyo (ādhāra),
+su controlador o gobernante (niyantā)
+y su Señor o Maestro (Śeṣī)
+para cuyos propósitos existen.
 </details>
 
 
@@ -223,12 +232,12 @@ throughout their existence.
 
 <details><summary>Español</summary>
 
-Sentient beings and non-sentient things form His body,  
-since, with regard to Him,  
-they stand as substances supported by Him,  
-controlled by Him,  
-and existing solely for the fulfilment of His purposes,  
-throughout their existence.  
+Los seres sensibles y las cosas no sensibles forman su cuerpo,
+ya que, con respecto a él,
+se paran como sustancias apoyadas por él,
+controlado por él,
+y existente únicamente para el cumplimiento de sus propósitos,
+a lo largo de su existencia.
 </details>
 
 
