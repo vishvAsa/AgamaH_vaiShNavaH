@@ -287,6 +287,7 @@ como con, [^22] cada uno de estos dos (svarūpa y saṅkalpa).
 </details>
 
 
+## आधारतायास् सद्वाकता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अद् ऎङ्ङन् एय्" ऎन्निल्,  
@@ -347,8 +348,9 @@ of the qualities that pertain to them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवर्गळाल् ए धरिक्कप्-पडुगिऱ शरीरङ्गळुक्कु  
+> जीवर्गळाल् ए धरिक्कप्-पडुगिऱ शरीरङ्गळुक्कु  
 **जीव-द्वारा आधारम्** आग इरुक्कुम्  
+
 ऎण्ड्रु सिलर् सॊल्लुवार् गळ्.
 </details>
 
@@ -364,21 +366,131 @@ through the jīvas,
 of the bodies supported by the jīvas. 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 जीवर्गळाले धरिक्कप्पडुगिऱ शरीरङ्गळुक्कु जीवद्वारा आधारमाग इरुक्कुम् ऎण्ड्रु सिलर् सॊल्लुवार्गळ्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
+> जीवनै द्वारम् आगक् कॊण्ड् उम्  
+**स्वरूपत्ताल् उम्** आधारम् आग इरुक्कुम् 
 
-IŚVARA'S SUPPORT BY HIS SVARŪPA AND
+ऎण्ड्रु सिल आचार्यर्गळ् सॊल्लुवार्गळ्.  
+</details>
 
-BY HIS WILL.
+<details><summary>English</summary>
 
-In relation to Iśvara, all (substances ), sentient and non. sentient, are attributes that are inseparable from Him (Aprithaksiddha viśeṣaṇas). Therefore their existence and the like depend entirely on the existence of their support (i. e.) Isvara. The existence of all things is also dependent on His will. Those of them that have only a temporary existence take their origin from a temporary will or saṅkalpa of His and those of them that are eternal (like Vaikuṇṭha   and the sūris ) exist for ever by His eternal will. This distinction has been stated by one who is worthy of respect for his learning in the (following) śloka  :-"The [^f47] existence of all things is only by Thy will. Of these some are eternally dear to Thee and are hence eternal and even these eternal beings or things are entirely dependent on Thee for their essential nature."
+Some ācāryas say (on the other hand)  
+that both directly by His essential Nature  
+and indirectly through the jīvas,  
+He is the support of these bodies.
+</details>
+
+<details><summary>Español</summary>
+
+Some ācāryas say (on the other hand)  
+that both directly by His essential Nature  
+and indirectly through the jīvas,  
+He is the support of these bodies.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवनै द्वारमागक् कॊण्डुम् स्वरूपत्तालुम् आधारमाग इरुक्कुम् ऎण्ड्रु सिल आचार्यर्गळ् सॊल्लुवार्गळ्.  
+</details>
+
+## सङ्कल्पाधीनता
+<details><summary>English</summary>
+
+IŚVARA'S SUPPORT BY HIS SVARŪPA AND BY HIS WILL.
+</details>
+
+<details><summary>Español</summary>
+
+IŚVARA'S SUPPORT BY HIS SVARŪPA AND BY HIS WILL.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि सर्वम् उम् ईश्वर स्वरूपत्तैप् पट्र  
+अपृथक्-सिद्ध-विशेषणम् आगैयाल् ए  
+इवट्रिन् सत्तादिगळ्  
+आश्रय-सत्ताधीनङ्गळ्.+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+In relation to Iśvara, all (substances ), sentient and non-sentient,  
+are attributes that are inseparable from Him (Aprithaksiddha viśeṣaṇas).  
+Therefore their existence and the like  
+depend entirely on the existence of their support (i. e.) Isvara.
+
+</details>
+
+<details><summary>Español</summary>
+
+In relation to Iśvara, all (substances ), sentient and non-sentient,  
+are attributes that are inseparable from Him (Aprithaksiddha viśeṣaṇas).  
+Therefore their existence and the like  
+depend entirely on the existence of their support (i. e.) Isvara.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सर्वमुम् ईश्वर स्वरूपत्तैप्पट्र अपृथक्सिद्धविशेषणमागैयाले इवट्रिन् सत्तादिगळाश्रयसत्ताधीनङ्गळ्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-वस्तुक्कळ्-उडैयव् उम् **सत्तै**  
+**संकल्पाधीनैय्** आगैय् आवदु,  
+अनित्यङ्गळ् **अनित्येच्छैयाल्** ए उत्पन्नङ्गळ् आय् उम्,  
+नित्यङ्गळ् **नित्येच्छा**-सिद्धङ्गळ् आय् उम् इरुक्कै.+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The existence of all things is also dependent on His will.  
+Those of them that have only a temporary existence  
+take their origin from a temporary will or saṅkalpa of His  
+and those of them that are eternal (like Vaikuṇṭha   and the sūris )  
+exist for ever by His eternal will. 
+</details>
+
+<details><summary>Español</summary>
+
+The existence of all things is also dependent on His will.  
+Those of them that have only a temporary existence  
+take their origin from a temporary will or saṅkalpa of His  
+and those of them that are eternal (like Vaikuṇṭha   and the sūris )  
+exist for ever by His eternal will. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्ववस्तुक्कळुडैयवुम् सत्तै संकल्पाधीनैयागैयावदु,  
+अनित्यङ्गळ् अनित्येच्छैयाले उत्पन्नङ्गळायुम्,  
+नित्यङ्गळ् नित्येच्छासिद्धङ्गळायुमिरुक्कै.
+</details>
+
+
+
+This distinction has been stated  
+by one who is worthy of respect for his learning  
+in the (following) śloka  :-
+
+> "The [^f47] existence of all things is only by Thy will.  
+Of these some are eternally dear to Thee  
+and are hence eternal  
+and even these eternal beings or things are entirely dependent on Thee  
+for their essential nature."
 
 [^f47]: Vaikuṇṭha  sthavam: 36
 
