@@ -254,7 +254,7 @@ a lo largo de su existencia.
 **नियन्ताव्** उम् आगैय् आवदु =  
 
 तन् स्व-रूपत्ताल् उम्, सङ्कल्पत्ताल् उम्  
-यथार्हं सत्ता-स्थिति-+++(सङ्कल्पत एव→)+++प्रवृत्तिगळुक्कु **प्रयोजकन्** आय् इरुक्कै. 
+यथार्हं +++(←काय-सामर्थ्यानुसारेण, स्वरूप-सङ्कल्प-विभागेन)+++ +++(स्वरूप-सङ्कल्पाभ्यां→)+++सत्ता-स्थिति-+++(सङ्कल्पत एव→)+++प्रवृत्तिगळुक्कु **प्रयोजकन्** आय् इरुक्कै. 
 </details>
 
 <details><summary>English</summary>
@@ -293,8 +293,8 @@ como con, [^22] cada uno de estos dos (svarūpa y saṅkalpa).
 ईश्वरन् तन् +++(विभुत्वादि-)+++स्व-रूप-निरूपक-धर्मङ्गळुक्क् उम्  
 +++(सौलभ्यादि--)+++निरूपित--स्व-रूप-विशेषणङ्गळ् आन गुणङ्गळुक्क् उम् पोल् ए  
 स्व-व्यतिरिक्त-समस्त-द्रव्यङ्गळुक्क् उम्  
-अ-व्यवहितम् आग स्व-रूपेण  
-आधारम् आय् इरुक्कुम्.
+अ-व्यवहितम् आग  
+**स्व-रूपेण आधारम्** आय् इरुक्कुम्.
 </details>
 
 <details><summary>English</summary>
@@ -318,11 +318,61 @@ de todas las sustancias (sensibles y no sensibles) que no sean él.
 अदॆङ्ङनेयॆन्निल्, ईश्वरन् तन् स्वरूपनिरूपकधर्मङ्गळुक्कुम् निरूपितस्वरूपविशेषणङ्गळान गुणङ्गळुक्कुम् पोले स्वव्यतिरिक्तसमस्तद्रव्यङ्गळुक्कुम् अव्यवहितमाग स्वरूपेण आधारमायिरुक्कुम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व्-ओ द्रव्यङ्गळै आश्रयित्तिरुक्कुम् गुणादिगळुक्कु  
+अव्व्-ओ **द्रव्य-द्वारा आधारम्** आगय् इरुक्कुम्.  
+</details>
+
+<details><summary>English</summary>
 
 He is also the support,  
 through these substances ((i.e.) indirectly),  
 of the qualities that pertain to them.  
-There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
+</details>
+
+<details><summary>Español</summary>
+
+He is also the support,  
+through these substances ((i.e.) indirectly),  
+of the qualities that pertain to them.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्वो द्रव्यङ्गळै आश्रयित्तिरुक्कुम् गुणादिगळुक्कु अव्वो द्रव्यद्वारा आधारमागयिरुक्कुम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवर्गळाल् ए धरिक्कप्-पडुगिऱ शरीरङ्गळुक्कु  
+**जीव-द्वारा आधारम्** आग इरुक्कुम्  
+ऎण्ड्रु सिलर् सॊल्लुवार् गळ्.
+</details>
+
+<details><summary>English</summary>
+
+There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. 
+</details>
+
+<details><summary>Español</summary>
+
+There are some who hold that Iśvara is the support,  
+through the jīvas,  
+of the bodies supported by the jīvas. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+जीवर्गळाले धरिक्कप्पडुगिऱ शरीरङ्गळुक्कु जीवद्वारा आधारमाग इरुक्कुम् ऎण्ड्रु सिलर् सॊल्लुवार्गळ्.
+</details>
+
+
+Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
 
 IŚVARA'S SUPPORT BY HIS SVARŪPA AND
 
