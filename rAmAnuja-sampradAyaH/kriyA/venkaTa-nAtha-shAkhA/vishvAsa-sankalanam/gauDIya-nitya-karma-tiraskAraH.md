@@ -106,8 +106,8 @@ eg. "Śrī Rūpa has defined prārabdha" - no he just pointed out one prArabdha.
 >
 > cancels out the possibility of pratyavAya doSha existing for an ekAntin, however still he should do it for LS.
 
-> तावत् कर्माणि कुर्वीत न निर्विद्येत यावता ।
-मत्कथाश्रवणादौ वा श्रद्धा यावन्न जायते ॥
+> तावत् कर्माणि कुर्वीत न निर्विद्येत यावता ।  
+मत्कथाश्रवणादौ वा श्रद्धा यावन्न जायते ॥  
 > The main concept here is that Bhakti alone is capable enough to bestow all auspiciousness there is no necessity to depend on karma etc.  
 >  Bhagavan gives another statement here which is visheSha(as against sAmAnya in case of ordinary dhArmikas), now if pratyAvaya bhaiya remains after this, then that is agya-ullanghana
 
