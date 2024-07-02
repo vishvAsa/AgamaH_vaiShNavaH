@@ -174,7 +174,7 @@ y qué es una sariri?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदिल् ईश्वरनुक्कु शरीरित्वम् आवदु  
+अदिल् ईश्वरनुक्कु **शरीरित्वम्** आवदु  
 चेतनाचेतन-द्रव्यङ्गळैप्प पट्र  
 नियमेन धारकन् उम् आय्  
 नियन्ताव् उम् आय्,  
@@ -211,7 +211,7 @@ para cuyos propósitos existen.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चेतनाचेतनङ्गळुक्कु शरीरत्वम् आवदु,  
+चेतनाचेतनङ्गळुक्कु **शरीरत्वम्** आवदु,  
 नियमेन ईश्वरनैप्प पट्र  
 धार्यम् उम् आय्,  
 नियाम्यम् उम् आय्,  
@@ -250,11 +250,11 @@ a lo largo de su existencia.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चेतनाचेतनङ्गळैप् पट्र  
-धारकन् उम् आय्  
-नियन्ताव् उम् आगैय् आवदु =  
+**धारकन्** उम् आय्  
+**नियन्ताव्** उम् आगैय् आवदु =  
 
 तन् स्व-रूपत्ताल् उम्, सङ्कल्पत्ताल् उम्  
-यथार्हं सत्ता-स्थिति-+++(सङ्कल्पत एव→)+++प्रररवृत्तिगळुक्कु प्रयोजकन् आय् इरुक्कै. 
+यथार्हं सत्ता-स्थिति-+++(सङ्कल्पत एव→)+++प्रवृत्तिगळुक्कु **प्रयोजकन्** आय् इरुक्कै. 
 </details>
 
 <details><summary>English</summary>
@@ -271,10 +271,13 @@ as  befitting[^22] each of these two (svarūpa and saṅkalpa).
 
 <details><summary>Español</summary>
 
-Iśvara is called the Supporter and the Controller or Ruler of all sentient beings and non-sentient things,  
-because from His swarupa or essential nature and His saṅkalpa or will,  
-they derive their existence, continuance and activities  
-as  befitting[^22] each of these two (svarūpa and saṅkalpa).  
+Iśvara se llama el seguidor  
+y el controlador o regla  
+de todos los seres sintientes y las cosas no sensibles,  
+Porque desde su swarupa o naturaleza esencial  
+y su saṅkalpa o voluntad,  
+derivan su existencia, continuación y actividades  
+como con, [^22] cada uno de estos dos (svarūpa y saṅkalpa).
 </details>
 
 
@@ -284,10 +287,42 @@ as  befitting[^22] each of these two (svarūpa and saṅkalpa).
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अद् ऎङ्ङन् एय्" ऎन्निल्,  
+ईश्वरन् तन् +++(विभुत्वादि-)+++स्व-रूप-निरूपक-धर्मङ्गळुक्क् उम्  
++++(सौलभ्यादि--)+++निरूपित--स्व-रूप-विशेषणङ्गळ् आन गुणङ्गळुक्क् उम् पोल् ए  
+स्व-व्यतिरिक्त-समस्त-द्रव्यङ्गळुक्क् उम्  
+अ-व्यवहितम् आग स्व-रूपेण  
+आधारम् आय् इरुक्कुम्.
+</details>
+
+<details><summary>English</summary>
+
+It may be asked how this could be. Just as Iśvara is the abode, āśraya or ādhāra (support) of the attributes which define His essential nature (svarūpa viz. Satyam, Jñānan, Anantam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility), He is also the inseparable and direct support, (āsraya or ādhāra) of all substances (sentient and non-sentient) other than Himself. 
+</details>
+
+<details><summary>Español</summary>
+
+Se puede preguntar cómo podría ser esto.  
+Así como Iśvara es la morada, āśraya o ādhāra (apoyo)  
+de los atributos que definen su naturaleza esencial (svarūpa a Viz. Satyam, jñānan, anantam y similares)  
+y de las otras cualidades poseídas por él con su naturaleza esencial tan definida (cualidades Al igual que la compasión y la accesibilidad),  
+también es el apoyo inseparable y directo (āsraya o ādhāra)  
+de todas las sustancias (sensibles y no sensibles) que no sean él.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-It may be asked how this could be. Just as Iśvara is the abode, āśraya or ādhāra (support) of the attributes which define His essential nature (svarūpa viz. Satyam, Jñānan, Anantam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility), He is also the inseparable and direct support, (āsraya or ādhāra) of all substances (sentient and non-sentient) other than Himself. He is also the support, through these substances ((i.e.) indirectly), of the qualities that pertain to them. There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
+अदॆङ्ङनेयॆन्निल्, ईश्वरन् तन् स्वरूपनिरूपकधर्मङ्गळुक्कुम् निरूपितस्वरूपविशेषणङ्गळान गुणङ्गळुक्कुम् पोले स्वव्यतिरिक्तसमस्तद्रव्यङ्गळुक्कुम् अव्यवहितमाग स्वरूपेण आधारमायिरुक्कुम्.
+</details>
+
+
+He is also the support,  
+through these substances ((i.e.) indirectly),  
+of the qualities that pertain to them.  
+There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. Some ācāryas say (on the other hand) that both directly by His essential Nature and indirectly through the jīvas, He is the support of these bodies.
 
 IŚVARA'S SUPPORT BY HIS SVARŪPA AND
 
