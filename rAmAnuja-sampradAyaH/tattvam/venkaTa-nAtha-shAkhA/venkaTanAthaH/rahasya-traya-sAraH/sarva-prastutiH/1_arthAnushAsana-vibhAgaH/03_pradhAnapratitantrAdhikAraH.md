@@ -176,9 +176,14 @@ y qué es una sariri?
 
 अदिल् ईश्वरनुक्कु **शरीरित्वम्** आवदु  
 चेतनाचेतन-द्रव्यङ्गळैप्प पट्र  
-नियमेन धारकन् उम् आय्  
-नियन्ताव् उम् आय्,  
-शेषिय् उम् आय् इरुक्कै. 
+नियमेन **धारकन्** उम् आय्  
+**नियन्ताव्** उम् आय्,  
+**शेषिय्** उम् आय् इरुक्कै.  
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+एष्व् एकैकस्यापि लक्षणत्वम् अन्यत्रोक्तम्। 
 </details>
 
 <details><summary>English</summary>
@@ -202,7 +207,6 @@ su controlador o gobernante (niyantā)
 y su Señor o Maestro (Śeṣī)
 para cuyos propósitos existen.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -254,7 +258,8 @@ a lo largo de su existencia.
 **नियन्ताव्** उम् आगैय् आवदु =  
 
 तन् स्व-रूपत्ताल् उम्, सङ्कल्पत्ताल् उम्  
-यथार्हं +++(←काय-सामर्थ्यानुसारेण, स्वरूप-सङ्कल्प-विभागेन)+++ +++(स्वरूप-सङ्कल्पाभ्यां→)+++सत्ता-स्थिति-+++(सङ्कल्पत एव→)+++प्रवृत्तिगळुक्कु **प्रयोजकन्** आय् इरुक्कै. 
+यथार्हं +++(←डयन-तरणादौ काय-सामर्थ्यानुसारेण, स्वरूप-सङ्कल्प-विभागेन)+++  
++++(स्वरूप-सङ्कल्पाभ्यां→)+++सत्ता-स्थिति-+++(सङ्कल्पत एव→)+++प्रवृत्तिगळुक्कु **प्रयोजकन्** आय् इरुक्कै. 
 </details>
 
 <details><summary>English</summary>
@@ -300,7 +305,12 @@ como con, [^22] cada uno de estos dos (svarūpa y saṅkalpa).
 
 <details><summary>English</summary>
 
-It may be asked how this could be. Just as Iśvara is the abode, āśraya or ādhāra (support) of the attributes which define His essential nature (svarūpa viz. Satyam, Jñānan, Anantam and the like) and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility), He is also the inseparable and direct support, (āsraya or ādhāra) of all substances (sentient and non-sentient) other than Himself. 
+It may be asked how this could be.  
+Just as Iśvara is the abode, āśraya or ādhāra (support)  
+of the attributes which define His essential nature (svarūpa viz. Satyam, Jñānan, Anantam and the like)  
+and of the other qualities possessed by Him with His essential nature so defined (qualities like compassion and accessibility),  
+He is also the inseparable and direct support, (āsraya or ādhāra)  
+of all substances (sentient and non-sentient) other than Himself. 
 </details>
 
 <details><summary>Español</summary>
@@ -334,12 +344,10 @@ of the qualities that pertain to them.
 
 <details><summary>Español</summary>
 
-He is also the support,  
-through these substances ((i.e.) indirectly),  
-of the qualities that pertain to them.  
-
+Él también es el apoyo,  
+a través de estas sustancias ((es decir) indirectamente),  
+de las cualidades que pertenecen a ellos.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -356,14 +364,20 @@ of the qualities that pertain to them.
 
 <details><summary>English</summary>
 
-There are some who hold that Iśvara is the support, through the jīvas, of the bodies supported by the jīvas. 
+There are some who hold that  
+
+> Iśvara is the support,  
+through the jīvas,  
+of the bodies supported by the jīvas. 
 </details>
 
 <details><summary>Español</summary>
 
-There are some who hold that Iśvara is the support,  
-through the jīvas,  
-of the bodies supported by the jīvas. 
+Hay algunos que sostienen que 
+
+> Iśvara es el apoyo,  
+a través de los Jīvas,  
+de los cuerpos apoyados por los Jīvas.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -389,11 +403,11 @@ He is the support of these bodies.
 
 <details><summary>Español</summary>
 
-Some ācāryas say (on the other hand)  
-that both directly by His essential Nature  
-and indirectly through the jīvas,  
-He is the support of these bodies.
+Algunos ācāryas dicen (por otro lado) que 
 
+> ambos directamente por su naturaleza esencial  
+e indirectamente a través de los Jīvas,  
+Él es el apoyo de estos cuerpos.
 </details>
 
 
@@ -410,15 +424,16 @@ IŚVARA'S SUPPORT BY HIS SVARŪPA AND BY HIS WILL.
 
 <details><summary>Español</summary>
 
-IŚVARA'S SUPPORT BY HIS SVARŪPA AND BY HIS WILL.
+El apoyo de Iśvara  
+por su svarūpa y por su voluntad.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडि सर्वम् उम् ईश्वर स्वरूपत्तैप् पट्र  
+इप्पडि **सर्वम्** उम् ईश्वर स्वरूपत्तैप् पट्र  
 अपृथक्-सिद्ध-विशेषणम् आगैयाल् ए  
 इवट्रिन् सत्तादिगळ्  
-आश्रय-सत्ताधीनङ्गळ्.+++(4)+++
+**आश्रय-सत्ताधीनङ्गळ्**.+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -432,11 +447,11 @@ depend entirely on the existence of their support (i. e.) Isvara.
 
 <details><summary>Español</summary>
 
-In relation to Iśvara, all (substances ), sentient and non-sentient,  
-are attributes that are inseparable from Him (Aprithaksiddha viśeṣaṇas).  
-Therefore their existence and the like  
-depend entirely on the existence of their support (i. e.) Isvara.
-
+En relación con Iśvara,  
+todas (sustancias), sensibles y no sensibles,  
+son atributos que son inseparables de él (aprithaksiddha viśeṣaṇas).
+Por lo tanto su existencia y similar
+depende completamente de la existencia de su apoyo (i. E.) Isvara.
 </details>
 
 
@@ -451,7 +466,7 @@ depend entirely on the existence of their support (i. e.) Isvara.
 सर्व-वस्तुक्कळ्-उडैयव् उम् **सत्तै**  
 **संकल्पाधीनैय्** आगैय् आवदु,  
 अनित्यङ्गळ् **अनित्येच्छैयाल्** ए उत्पन्नङ्गळ् आय् उम्,  
-नित्यङ्गळ् **नित्येच्छा**-सिद्धङ्गळ् आय् उम् इरुक्कै.+++(5)+++
++++(प्रवाहतोेऽपि→)+++ नित्यङ्गळ् **नित्येच्छा**-सिद्धङ्गळ् आय् उम् इरुक्कै.+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -465,11 +480,12 @@ exist for ever by His eternal will.
 
 <details><summary>Español</summary>
 
-The existence of all things is also dependent on His will.  
-Those of them that have only a temporary existence  
-take their origin from a temporary will or saṅkalpa of His  
-and those of them that are eternal (like Vaikuṇṭha   and the sūris )  
-exist for ever by His eternal will. 
+La existencia de todas las cosas  
+también depende de su voluntad.  
+Aquellos de ellos que solo tienen una existencia temporal
+tomar su origen de una voluntad temporal o saṅkalpa de su
+y aquellos de ellos que son eternos (como Vaikuṇṭha y los Sūris)
+existir para siempre por su voluntad eterna.
 </details>
 
 
@@ -480,7 +496,14 @@ exist for ever by His eternal will.
 नित्यङ्गळ् नित्येच्छासिद्धङ्गळायुमिरुक्कै.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+इव्व्-अर्थत्तै  
+“इच्छात एव तव विश्व-पदार्थ-सत्ता”  
+ऎन्गिऱ श्लोकत्ताल् ए अभियुक्तर् +++(←स्वगुरु-परम्पराया बहिर्भूतः शिष्टः "कूरत्ताळ्वान्")+++ विवेकित्तार्गळ् +++(पृथक्-श्लोकैः)+++.
+</details>
+
+<details><summary>English</summary>
 
 This distinction has been stated  
 by one who is worthy of respect for his learning  
@@ -493,8 +516,139 @@ and even these eternal beings or things are entirely dependent on Thee
 for their essential nature."
 
 [^f47]: Vaikuṇṭha  sthavam: 36
+</details>
 
-Since the continuance of a thing is merely the continuity of its existence, everything, (i. e.) existence and continuance, is dependent on His will. There are heavy substances that are stated in the śāstras to be supported by Iśvara's will. For instance, the following śloka  says: "The Heavens,[^f48] the sky with the moon, the sun and the stars, the different quarters, the earth, the great ocean - all these are supported by the might of the Supreme Being, Vāsudeva.” It is stated here that, in regard to keeping these heavy things in their respective places without their falling away from them, the existence, continuance and activity of these things depend on Iśvara's will. The word 'supported' (in the śloka ) means “is dependent on His will'. If it be asked how, when every substance is supported by His will, the essential nature (svarūpa) of Iśvara can have anything to do with them, the answer is that the will of the Supreme Being ordains that these objects should be supported by His essential Nature (svarūpa). That all tbings are dependent on Iśvara's essential nature and also on Iśvara's will. In the world (of daily life) also, we find that the body is supported by the essential nature (svarūpa) of the soul or self and also by the will of the self. Since the body exists from the time of the entry of the soul into it and perishes or disintegrates when the soul leaves it, it is known to be supported by the svarūpa or essential nature of the soul. In the state of dreamless sleep (suṣupti) and the like, when the will of the self is dormant, the body continues to exist without any deterioration; so its existence then is clearly dependent on the svarūpa of the self and not its will (or saṅkalpa). In the waking state, when the body is kept from falling, it is sustained by the will or saṅkalpa of the soul. When the existence of the body is dependent only on the svarūpa of the self or its essential nature, it is said to be supported (adheyatva) by the latter; and when the existence depends on the will or saṅkalpa it is said to be controlled and directed by the latter (niyāmyatva).
+<details><summary>Español</summary>
+
+This distinction has been stated  
+by one who is worthy of respect for his learning  
+in the (following) śloka  :-
+
+> "The [^f47] existence of all things is only by Thy will.  
+Of these some are eternally dear to Thee  
+and are hence eternal  
+and even these eternal beings or things are entirely dependent on Thee  
+for their essential nature."
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै “इच्छात एव तव विश्वपदार्थसत्ता” ऎन्गिऱ श्लोकत्ताले अभियुक्तर् विवेगित्तार्गळ्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् ए 
+
+> सर्वत्तिन्-उडैयव् उम्  
+सत्तानुवृत्ति-रूपैय् आन **स्थितिय्** उम्  
+ईश्वरेच्छाधीनैय् आनप् पडियाल् ए  
+सर्वम् उम् ईश्वर-**संकल्पाश्रितम्**  
+
+ऎण्ड्रु सॊल्लुगिऱदु.  
+</details>
+
+<details><summary>English</summary>
+
+Since the continuance of a thing  
+is merely the continuity of its existence,  
+everything, (i. e.) existence and continuance,  
+is dependent on His will. 
+</details>
+
+<details><summary>Español</summary>
+
+Since the continuance of a thing  
+is merely the continuity of its existence,  
+everything, (i. e.) existence and continuance,  
+is dependent on His will.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्ताले सर्वत्तिनुडैयवुम् सत्तानुवृत्तिरूपैयान स्थितियुम् ईश्वरेच्छाधीनैयानप्पडियाले सर्वमुम् ईश्वरसंकल्पाश्रितम् ऎण्ड्रु सॊल्लुगिऱदु.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गुरु-द्रव्यङ्गळ् संकल्पत्ताल् ए धृतङ्गळ्  
+
+ऎण्ड्रु शास्त्रङ्गळिल् सॊल्लुवदु - 
+
+> “द्यौस् स-चन्द्रार्क-नक्षत्रं  
+खं दिशो भूर् महोदधिः ।  
+वासुदेवस्य वीर्येण  
+विधृतानि महात्मनः ॥” 
+
+ऎन्गिऱप् पडिय् ए  
+ओर्-ओरु देश-विशेषङ्गळिल् ए  
+विऴाद-बडि निऱुत्तुगैयैप् पट्र+++(=प्रति)+++.   
+</details>
+
+<details><summary>English</summary>
+
+There are heavy substances  
+that are stated in the śāstras  
+to be supported by Iśvara's will.  
+For instance, the following śloka  says:  
+
+> "The Heavens,[^f48] the sky with the moon, the sun and the stars,  
+> the different quarters, the earth, the great ocean -  
+> all these are supported by the might of the Supreme Being, Vāsudeva.”  
+
+It is stated here that,  
+in regard to keeping these heavy things in their respective places  
+without their falling away from them. 
+</details>
+
+<details><summary>Español</summary>
+
+There are heavy substances  
+that are stated in the śāstras  
+to be supported by Iśvara's will.  
+For instance, the following śloka  says:  
+
+> "The Heavens,[^f48] the sky with the moon, the sun and the stars,  
+> the different quarters, the earth, the great ocean -  
+> all these are supported by the might of the Supreme Being, Vāsudeva.”  
+
+It is stated here that,  
+in regard to keeping these heavy things in their respective places  
+without their falling away from them.
+</details>
+
+<details><summary>मूलम्</summary>
+
+गुरुद्रव्यङ्गळ् संकल्पत्ताले धृतङ्गळॆण्ड्रु शास्त्रङ्गळिल् सॊल्लुवदु - “द्यौस्सचन्द्रार्कनक्षत्रं खं दिशोभूर्महोदधिः । वासुदेवस्य वीर्येण विधृतानि महात्मनः ॥” ऎन्गिऱप्पडिये ओरोरु देशविशेषङ्गळिले विऴादबडि निऱुत्तुगैयैप्पट्र.   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि इच्छाधीन-सत्ता-स्थिति-प्रवृत्तिगळ् आन वस्तुक्कळुक्कु  
+परमात्म-स्वरूपम् ऎन् सॆय्गिऱद्  
+
+ऎन्निल् परमात्माविन्-उडैय इच्छै  
+इव्-वस्तुक्कळै परमात्माविन् स्व-रूपाश्रितङ्गळ् आग वगुत्तु+++(=विभज्य)+++-वैक्कुम्.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इच्छाधीन सत्तास्थितिप्रवृत्तिगळान वस्तुक्कळुक्कु परमात्म स्वरूपम् ऎन् सॆय्गिऱदॆन्निल् परमात्माविनुडैय इच्छै इव्वस्तुक्कळै परमात्माविन् स्वरूपाश्रितङ्गळाग वगुत्तुवैक्कुम्.
+</details>
+
+
+
+The existence, continuance and activity of these things depend on Iśvara's will.  
+The word 'supported' (in the śloka ) means “is dependent on His will'.  
+If it be asked 
+
+> how, when every substance is supported by His will,  
+the essential nature (svarūpa) of Iśvara can have anything to do with them, 
+
+the answer is that  
+the will of the Supreme Being ordains that these objects should be supported by His essential Nature (svarūpa). 
+
+That all things are dependent on Iśvara's essential nature and also on Iśvara's will. In the world (of daily life) also, we find that the body is supported by the essential nature (svarūpa) of the soul or self and also by the will of the self. Since the body exists from the time of the entry of the soul into it and perishes or disintegrates when the soul leaves it, it is known to be supported by the svarūpa or essential nature of the soul. In the state of dreamless sleep (suṣupti) and the like, when the will of the self is dormant, the body continues to exist without any deterioration; so its existence then is clearly dependent on the svarūpa of the self and not its will (or saṅkalpa). In the waking state, when the body is kept from falling, it is sustained by the will or saṅkalpa of the soul. When the existence of the body is dependent only on the svarūpa of the self or its essential nature, it is said to be supported (adheyatva) by the latter; and when the existence depends on the will or saṅkalpa it is said to be controlled and directed by the latter (niyāmyatva).
 
 [^f48]: Mahābhārata  : Anusasanika parva 254-136.
 
