@@ -520,15 +520,17 @@ for their essential nature."
 
 <details><summary>Español</summary>
 
-This distinction has been stated  
-by one who is worthy of respect for his learning  
-in the (following) śloka  :-
+Esta distinción ha sido declarada  
+por alguien que es digno de respeto por su aprendizaje  
+En el (siguiente) Śloka:-
 
-> "The [^f47] existence of all things is only by Thy will.  
-Of these some are eternally dear to Thee  
-and are hence eternal  
-and even these eternal beings or things are entirely dependent on Thee  
-for their essential nature."
+> "La existencia [^f47] de todas las cosas  
+es solo por tu voluntad.   
+De estos algunos son eternamente queridos para ti
+y, por lo tanto, son eternos
+e incluso estos seres eternos o las cosas  
+dependen completamente de ti
+por su naturaleza esencial ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -558,10 +560,10 @@ is dependent on His will.
 
 <details><summary>Español</summary>
 
-Since the continuance of a thing  
-is merely the continuity of its existence,  
-everything, (i. e.) existence and continuance,  
-is dependent on His will.
+Desde la continuación de una cosa  
+es simplemente la continuidad de su existencia,  
+todo, (i. e.) Existencia y continuación,  
+depende de su voluntad.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -598,23 +600,25 @@ For instance, the following śloka  says:
 
 It is stated here that,  
 in regard to keeping these heavy things in their respective places  
-without their falling away from them. 
+without their falling away from them ... 
 </details>
 
 <details><summary>Español</summary>
 
-There are heavy substances  
-that are stated in the śāstras  
-to be supported by Iśvara's will.  
-For instance, the following śloka  says:  
+Hay sustancias pesadas
+que se dicen en los Śāstras
+ser apoyado por la voluntad de Iśvara.
+Por ejemplo, lo siguiente Śloka dice:
 
-> "The Heavens,[^f48] the sky with the moon, the sun and the stars,  
-> the different quarters, the earth, the great ocean -  
-> all these are supported by the might of the Supreme Being, Vāsudeva.”  
+> "Los cielos, [^f48] el cielo con la luna, el sol y las estrellas,
+> Los diferentes cuartos, la tierra, el gran océano -
+> Todos estos están respaldados  
+> por el poder del Ser Supremo, Vāsudeva ".
 
-It is stated here that,  
-in regard to keeping these heavy things in their respective places  
-without their falling away from them.
+Se dice aquí que,  
+con respecto a mantener estas cosas pesadas  
+en sus respectivos lugares  
+sin su caída de ellos.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -631,12 +635,7 @@ without their falling away from them.
 इव्-वस्तुक्कळै परमात्माविन् स्व-रूपाश्रितङ्गळ् आग वगुत्तु+++(=विभज्य)+++-वैक्कुम्.
 </details>
 
-<details><summary>मूलम्</summary>
-
-इप्पडि इच्छाधीन सत्तास्थितिप्रवृत्तिगळान वस्तुक्कळुक्कु परमात्म स्वरूपम् ऎन् सॆय्गिऱदॆन्निल् परमात्माविनुडैय इच्छै इव्वस्तुक्कळै परमात्माविन् स्वरूपाश्रितङ्गळाग वगुत्तुवैक्कुम्.
-</details>
-
-
+<details><summary>English</summary>
 
 The existence, continuance and activity of these things depend on Iśvara's will.  
 The word 'supported' (in the śloka ) means “is dependent on His will'.  
@@ -646,9 +645,171 @@ If it be asked
 the essential nature (svarūpa) of Iśvara can have anything to do with them, 
 
 the answer is that  
-the will of the Supreme Being ordains that these objects should be supported by His essential Nature (svarūpa). 
+the will of the Supreme Being ordains  
+that these objects should be supported by His essential Nature (svarūpa).
+</details>
 
-That all things are dependent on Iśvara's essential nature and also on Iśvara's will. In the world (of daily life) also, we find that the body is supported by the essential nature (svarūpa) of the soul or self and also by the will of the self. Since the body exists from the time of the entry of the soul into it and perishes or disintegrates when the soul leaves it, it is known to be supported by the svarūpa or essential nature of the soul. In the state of dreamless sleep (suṣupti) and the like, when the will of the self is dormant, the body continues to exist without any deterioration; so its existence then is clearly dependent on the svarūpa of the self and not its will (or saṅkalpa). In the waking state, when the body is kept from falling, it is sustained by the will or saṅkalpa of the soul. When the existence of the body is dependent only on the svarūpa of the self or its essential nature, it is said to be supported (adheyatva) by the latter; and when the existence depends on the will or saṅkalpa it is said to be controlled and directed by the latter (niyāmyatva).
+<details><summary>Español</summary>
+
+La existencia, la continuación y la actividad de estas cosas    
+dependen de la voluntad de Iśvara.  
+La palabra 'apoyada' (en el Śloka) significa  
+"depende de su voluntad".  
+
+Si se le pregunta
+
+> Cómo, cuando cada sustancia es apoyada por su voluntad,  
+La naturaleza esencial (svarūpa) de Iśvara puede tener algo que ver con ellos,
+
+La respuesta es que  
+la voluntad del ser supremo  
+que estos objetos deben ser apoyados por su naturaleza esencial (svarūpa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इच्छाधीन सत्तास्थितिप्रवृत्तिगळान वस्तुक्कळुक्कु परमात्म स्वरूपम् ऎन् सॆय्गिऱदॆन्निल् परमात्माविनुडैय इच्छै इव्वस्तुक्कळै परमात्माविन् स्वरूपाश्रितङ्गळाग वगुत्तुवैक्कुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि सर्व-वस्तुव् उम्  
+ईश्वर--**स्व-रूपाधीनम्** उम् आय्  
+**ईश्वरेच्छाधीनम्** उम् आय् इरुक्कुम्.  
+</details>
+
+<details><summary>English</summary>
+
+That all things are dependent on Iśvara's essential nature and also on Iśvara's will.  
+</details>
+
+<details><summary>Español</summary>
+
+Que todas las cosas  
+dependen de la naturaleza esencial de Iśvara y  
+también de la voluntad de Iśvara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सर्ववस्तुवुम् ईश्वरस्वरूपाधीनमुमाय् ईश्वरेच्छाधीनमुमायिरुक्कुम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**लोकत्तिल्** उम् शरीरं शरीरियिन्-उडैय  
+स्वरूपाश्रितम् उम् आय्  
+संकल्पाश्रितम् उम् आय्  
+इरुक्कक् काणा निण्ड्रोम् +++(वक्ष्यमाण-रीत्या)+++. 
+</details>
+
+<details><summary>English</summary>
+
+In the world (of daily life) also,  
+we find that the body is supported by the essential nature (svarūpa) of the soul or self  
+and also by the will of the self.
+</details>
+
+<details><summary>Español</summary>
+
+En el mundo (de la vida diaria) también,  
+Encontramos que  
+el cuerpo está apoyado por la naturaleza esencial (svarūpa) del alma o el yo  
+y también por la voluntad del yo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+लोकत्तिलुम् शरीरं शरीरियिनुडैय स्वरूपाश्रितमुमाय् संकल्पाश्रितमुमाय् इरुक्कक्काणा निण्ड्रोम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवन् इरुन्द कालम् इरुन्दु  
+इवन् विट्ट-बोद् अऴिगैयाल्+++(=नाशेन)+++ ए स्वरूपाश्रितम् ।
+</details>
+
+<details><summary>English</summary>
+
+Since the body exists from the time of the entry of the soul into it  
+and perishes or disintegrates when the soul leaves it,  
+it is known to be supported by the svarūpa or essential nature of the soul. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que el cuerpo existe  
+desde la época de la entrada del alma en él  
+y perece o se desintegra  
+cuando el alma lo deja,  
+Se sabe que es apoyado por el Svarūpa o la naturaleza esencial del alma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवनिरुन्दगालमिरुन्दु इवन् विट्टबोदऴिगैयाले स्वरूपाश्रितम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थं  
+संकल्पम् इल्लाद सुषुप्त्य्-आद्य्-अवस्थैगळिल् ए तॆळिवदु.+++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+In the state of dreamless sleep (suṣupti) and the like,  
+when the will of the self is dormant,  
+the body continues to exist without any deterioration;  
+so its existence then is clearly dependent on the svarūpa of the self and not its will (or saṅkalpa).
+</details>
+
+<details><summary>Español</summary>
+
+En el estado de sueño sin sueños (Suṣupti) y similares,  
+Cuando la voluntad del yo está latente,  
+El cuerpo continúa existiendo sin ningún deterioro;  
+Entonces su existencia es claramente dependiente  
+del svarūpa del yo  
+y no su voluntad (o saṅkalpa).
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्व्-अर्थं  संकल्पम् इल्लाद सुषुप्त्याद्यवस्थैगळिले तॆळिवदु.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जागरादि दशैगळिल् संकल्पत्ताल् ए विऴाद पडि ताङ्गुम्-पोदु  
+संक्लपाश्रितम् ऎन्नक् कडवदु.
+</details>
+
+<details><summary>English</summary>
+
+In the waking state,  
+when the body is kept from falling,  
+it is sustained by the will or saṅkalpa of the soul.  
+</details>
+
+<details><summary>Español</summary>
+
+En el estado de vigilia  
+Cuando se evita que el cuerpo caiga,  
+Está sostenido por la voluntad o Saṅkalpa del alma.
+</details>
+
+<details><summary>मूलम्</summary>
+
+जागरादि दशैगळिल् संकल्पत्ताले विऴादबडि ताङ्गुम्-पोदु संक्लपाश्रितम् ऎन्नक्कडवदु.
+</details>
+
+
+
+When the existence of the body is dependent only on the svarūpa of the self or its essential nature, it is said to be supported (adheyatva) by the latter; and when the existence depends on the will or saṅkalpa it is said to be controlled and directed by the latter (niyāmyatva).
 
 [^f48]: Mahābhārata  : Anusasanika parva 254-136.
 
