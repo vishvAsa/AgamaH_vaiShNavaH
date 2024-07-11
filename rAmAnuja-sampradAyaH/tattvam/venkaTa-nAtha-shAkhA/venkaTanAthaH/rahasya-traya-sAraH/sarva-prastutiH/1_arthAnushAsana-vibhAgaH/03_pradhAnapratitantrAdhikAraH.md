@@ -1098,13 +1098,46 @@ no requiere ninguna ayuda auxiliar para ayudarlo.
 शेषशेषिभावत्तालुम् नियन्तृनियाम्यभावत्तालुम् स्वरूपानुरूपमान पुरुषार्थत्तुक्कनुरूपमुमाय् निरपेक्षमुमायिरुन्दुळ्ळ उपायविशेषत्तै अऱिगैयुम् फलिक्कुम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+आग इवट्राल् इच् चेतनन्  
+अनन्याधारन्, अनन्य-प्रयोजनन्, अनन्य-शरणन्  
+ऎण्ड्रद् आयिट्रु.  
+</details>
+
+<details><summary>English</summary>
+
+From what has been said above,  
+it follows that this sentient being has no other support,  
+exists for nobody else,  
+and has no other protector than Bhagavān.
+</details>
+
+<details><summary>Español</summary>
 
 From what has been said above, it follows that this sentient being has no other support, exists for nobody else, and has no other protector than Bhagavān.
+</details>
 
-THE PRESENCE OF THESE IDEAS IN THE THREE
 
-MYSTERIES OR MANTRAS.
+<details><summary>मूलम्</summary>
+
+आग इवट्राल् इच्चेतनन् अनन्याधारन्, अनन्यप्रयोजनन्, अनन्यशरणन् ऎण्ड्रदायिट्रु.  
+</details>
+
+## रहस्य-त्रये ऽर्थाः
+<details><summary>English</summary>
+
+THE PRESENCE OF THESE IDEAS IN THE THREE MYSTERIES OR MANTRAS.
+</details>
+
+<details><summary>Español</summary>
+
+THE PRESENCE OF THESE IDEAS IN THE THREE MYSTERIES OR MANTRAS.
+</details>
+
+
+
+
 
 If it be asked how this idea is contained in the first mystery (i.e.) aṣṭākṣara, the answer is as follows:- The word  ‘Nārāyaṇa’ is a compound word which means either "He to whom Nārāh are a resting place (ayana )", in which case it is a possessive adjective compound (bahuvrihi samāsa), or " the resting place of nārāh (i.e.) men", in which case, it is a determinative compound in which the first part Nārāh is in the genitive case (i.e.) nārānām + ayanam ( which is qualified by the genitive.) The compound word Nārāyaṇa  interpreted in these two ways establishes His being the support (of everything) and of His pervading it. From this it would follow that the jīva, in his essential nature, has no other support and is pervaded by no other than Nārāyaṇa  The words Om and Namo which precede Narayanāya imply that the jīva exists for Nārāyaṇa  and is entirely dependent upon Him for protection. It would follow therefrom that the jīva serves no other purpose than that of Nārāyaṇa  and that he has no other refuge or protector-than He.
 
