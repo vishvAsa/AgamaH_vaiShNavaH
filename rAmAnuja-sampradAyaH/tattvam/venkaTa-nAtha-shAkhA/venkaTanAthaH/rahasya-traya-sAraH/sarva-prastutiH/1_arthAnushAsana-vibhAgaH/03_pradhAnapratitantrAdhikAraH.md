@@ -825,12 +825,12 @@ it is said to be controlled and directed by the latter (niyāmyatva).
 
 <details><summary>Español</summary>
 
-When the existence of the body is dependent  
-only on the svarūpa of the self or its essential nature,  
-it is said to be supported (adheyatva) by the latter;  
-and when the existence depends on the will or saṅkalpa  
-it is said to be controlled and directed by the latter (niyāmyatva).
+Cuando la existencia del cuerpo depende  
+solo en el svarūpa del yo o su naturaleza esencial,  
+Se dice que es apoyado (adheyatva) por este último;
 
+y cuando la existencia depende de la voluntad o saṅkalpa  
+Se dice que está controlado y dirigido por este último (niyāmyatva).
 </details>
 
 
@@ -846,12 +846,12 @@ it is said to be controlled and directed by the latter (niyāmyatva).
 ## शेष-शेषि-भावः
 <details><summary>English</summary>
 
-WHAT IS THE MEANING OF ŚEṢA-ŚEṢI  BHĀVA?
+WHAT IS THE MEANING OF ŚEṢA-ŚEṢI BHĀVA?
 </details>
 
 <details><summary>Español</summary>
 
-WHAT IS THE MEANING OF ŚEṢA-ŚEṢI  BHĀVA?
+¿Cuál es el significado de Śeṣa-śeṣi bhāva?
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -859,9 +859,9 @@ WHAT IS THE MEANING OF ŚEṢA-ŚEṢI  BHĀVA?
 ईश्वरन् सर्व-शेषिय् आगैय् आवदु  
 
 > “उपादत्ते सत्ता-स्थिति-नियमनाद्यैश् चिद्--अ-चितौ  
-> स्वम् उद्दिश्य "श्रीमान्" इति वदति वाग् औपनिषदी ।  
+> स्वम् उद्दिश्य श्रीमान्" इति वदति वाग् औपनिषदी ।  
 > उपायोपेयत्वे तद् इह तव तत्त्वं न तु गुणौ  
-> अतस् त्वां श्रीरङ्गे-शय शरणम् अव्याजम् अभजम् ॥” 
+> अतस् त्वां श्रीरङ्गे-शय शरणम् अव्याजम् अभजम् ॥
 
 ऎन्गिऱप् पडिये  
 </details>
@@ -874,12 +874,15 @@ They are His śeṣas,
 The following śloka  explains how Iśvara is the śeṣin of all:  
 
 > The [^f49] Utterance of the Upaniṣads is to the effect that  
-> the Lord takes in both sentient and non-sentient things  
+>
+>> the Lord takes in both sentient and non-sentient things  
 > for the fulfilment of His own purposes,  
 > by being the cause of their existence, their continuance and their control.  
+> 
 > In regard to (one of the two (i.e.) the sentient being),  
 > Thou art both the end to be attained (upēya)  
 > and the means of attaining it (upāya). 
+> 
 > This is Thy essential nature and not an adventitious quality of Thine.  
 > Therefore, O Thou that hast Thy repose in Śrīraṅgam,  
 > I seek refuge in Thee without any selfish interest.”
@@ -890,24 +893,27 @@ The following śloka  explains how Iśvara is the śeṣin of all:
 
 <details><summary>Español</summary>
 
-Iśvara is said to be the śeṣin of all things,  
-because they exist solely for the fulfilment of His purposes.  
-They are His śeṣas,  
-The following śloka  explains how Iśvara is the śeṣin of all:  
+Se dice que Iśvara es el Śeṣin de todas las cosas,  
+Porque existen únicamente para el cumplimiento de sus propósitos.  
+Ellos son sus Śeṣas,  
+Lo siguiente Śloka explica  
+cómo Iśvara es el Śeṣin de todos:
 
-> The [^f49] Utterance of the Upaniṣads is to the effect that  
-> the Lord takes in both sentient and non-sentient things  
-> for the fulfilment of His own purposes,  
-> by being the cause of their existence, their continuance and their control.  
-> In regard to (one of the two (i.e.) the sentient being),  
-> Thou art both the end to be attained (upēya)  
-> and the means of attaining it (upāya). 
-> This is Thy essential nature and not an adventitious quality of Thine.  
-> Therefore, O Thou that hast Thy repose in Śrīraṅgam,  
-> I seek refuge in Thee without any selfish interest.”
-
-[^f49]: Sriraṅgarajastavam: (Uttara śatakam) 87
-
+> El [^f49] el enunciado de los Upaniṣads es en el sentido de que
+>
+>> El Señor toma en cosas sensibles y no sensibles  
+> Para el cumplimiento de sus propios propósitos,  
+> siendo la causa de su existencia, su continuación y su control.
+> 
+> Con respecto a (uno de los dos (es decir) el ser sensible),  
+> Ambos eres el final para ser alcanzado (upēya)  
+> y los medios para alcanzarlo (upāya).
+> 
+> Esta es tu naturaleza esencial  
+> y no una cualidad adventicios de ti.  
+> Por lo tanto, tú que has reposado en Śrīraṅgam,  
+> Busco refugio en ti  
+> sin ningún interés egoísta ".
 </details>
 
 
@@ -937,12 +943,14 @@ This is being śeṣī .
 
 <details><summary>Español</summary>
 
-Sentient beings and non-sentient things exist  
-not for their own sake  
-but for the fulfilment of God's purposes.  
-Their nature is ever to exist for somebody else (i.e.) the Lord.  
-In using them for His own purposes, His glory is manifested.  
-This is being śeṣī .
+Existen seres sintientes y cosas no sensibles  
+no por su propio bien  
+pero para el cumplimiento de los propósitos de Dios.  
+Su naturaleza siempre debe existir  
+para alguien más (es decir) el Señor.  
+Al usarlos para sus propios fines,  
+su gloria se manifiesta.  
+Esto está siendo Śeṣī.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -959,13 +967,140 @@ THE IMPORTANCE OF THIS KNOWLEDGE.
 
 <details><summary>Español</summary>
 
-THE IMPORTANCE OF THIS KNOWLEDGE.
+La importancia de este conocimiento.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इन्द आधाराधेय-भावादिगळाल्  
+इच् चेतननुक्कु फलिप्पद् ऎन्न् 
+
+ऎन्निल् :-  
+</details>
+
+<details><summary>English</summary>
+
+"But" it may be asked,  
+"what does this sentient being gain by being supported and controlled by Him  
+and by existing solely for his master ?"
+</details>
+
+<details><summary>Español</summary>
+
+"Pero" se puede preguntar,  
+"¿Qué es lo que se obtiene esta sensación al ser apoyado y controlado por él  
+y por existir únicamente para su maestro?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द आधाराधेयभावादिगळालिच् चेतननुक्कु फलिप्पदॆन्नॆन्निल् :-  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आधाराधेयभावत्ताल् एय्  
+अवन्-उडैय ज्ञान-शक्त्य्-आदिगळुक्कुप् पोल् ए  
+अपृथक्-सिद्ध--स्व-रूप-लाभम् उम्,+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The answer is as follows:  
+By having the Lord as his ādhāra,  
+the Jīva becomes an inseparable attribute of the Lord  
+even like His own attributes Jñāna and śakti or power.
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta es la siguiente:  
+Por tener al Señor como su ādhāra,  
+El Jīva se convierte en un atributo inseparable del Señor  
+Incluso como sus propios atributos Jñāna y Śakti o poder.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आधाराधेयभावत्तालेयवनुडैय ज्ञानशक्त्यादिगळुक्कुप् पोले अपृथक्सिद्धस्वरूपलाभमुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेष-शेषि-भावत्ताल् ए  
++++(सर्व-वस्तुषु)+++ आत्माभिमानानुगुण-पुरुषार्थ+++(-रुचि)+++-व्यवस्थैयिन् पडिय् ए  
+स्व-रूपानुरूपम् आन पुरुषार्थ-रुचिय् उम्,  
+</details>
+
+<details><summary>English</summary>
+
+By being the Lord's śeṣa and by having the Lord as his śeṣī,  
+the jīva acquires a taste for an ultimate goal or end  
+which is appropriate to his essential nature,  
+for every being aims at a goal or end  
+suited to the conception held by it about its nature.  
+</details>
+
+<details><summary>Español</summary>
+
+Siendo el Śeṣa del Señor  
+y al tener al Señor como su Śeṣī,  
+El Jīva adquiere un gusto por un objetivo o final final  
+que es apropiado para su naturaleza esencial,  
+por cada ser apunta a una meta o final  
+adecuado para la concepción que tiene sobre su naturaleza.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शेषशेषिभावत्ताले आत्माभिमानानुगुणपुरुषार्थव्यवस्थैयिन् पडिये स्वरूपानुरूपमान पुरुषार्थरुचियुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शेष-शेषि-भावत्ताल् उम् नियन्तृ-नियाम्य-भावत्ताल् उम्  
+स्व-रूपानुरूपम् आन पुरुषार्थत्तुक्क् अनुरूपमुम् आय्  
+निर्-अपेक्षम् उम् आय् इरुन्द्-उळ्ळ  
+उपाय-विशेषत्तै अऱिगैय् उम् फलिक्कुम्.
+</details>
+
+<details><summary>English</summary>
+
+By being the śeṣa of the Lord  
+and by having Him as his controller and ruler,  
+he comes to know the specific means or upāya (viz Bhagavān)  
+of attaining the goal or ultimate aim suited to his essential nature.  
+This upāya or means  
+(is the Lord Himself  
+who is the only proper means for the attainment of this end and who)  
+does not require any auxiliary aid for helping Him.
+</details>
+
+<details><summary>Español</summary>
+
+Siendo el Śeṣa del Señor  
+y al tenerlo como su controlador y gobernante,  
+Viene a conocer los medios específicos o upāya (a saber bhagavān)  
+de alcanzar el objetivo o el objetivo final adecuado para su naturaleza esencial.  
+Esto upāya o significa  
+(es el Señor mismo  
+Quién es el único medio apropiado  
+para el logro de este fin y quién)  
+no requiere ninguna ayuda auxiliar para ayudarlo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शेषशेषिभावत्तालुम् नियन्तृनियाम्यभावत्तालुम् स्वरूपानुरूपमान पुरुषार्थत्तुक्कनुरूपमुमाय् निरपेक्षमुमायिरुन्दुळ्ळ उपायविशेषत्तै अऱिगैयुम् फलिक्कुम्.
 </details>
 
 
 
-
-"But" it may be asked, "what does this sentient being gain by being supported and controlled by Him and by existing solely for his master ?" The answer is as follows: By having the Lord as his ādhāra, the Jīva   becomes an inseparable attribute of the Lord even like His own attributes Jñāna and śakti or power. By being the Lord's śeṣa and by having the Lord as his śeṣī , the jīva acquires a taste for an ultimate goal or end which is appropriate to his essential nature, for every being aims at a goal or end suited to the conception held by it about its nature. By being the śeṣa of the Lord and by having Him as his controller and ruler, he comes to know the specific means or upāya (viz Bhagavān) of attaining the goal or ultimate aim suited to his essential nature. This upāya or means (is the Lord Himself who is the only proper means for the attainment of this end and who) does not require any auxiliary aid for helping Him. From what has been said above, it follows that this sentient being has no other support, exists for nobody else, and has no other protector than Bhagavān.
+From what has been said above, it follows that this sentient being has no other support, exists for nobody else, and has no other protector than Bhagavān.
 
 THE PRESENCE OF THESE IDEAS IN THE THREE
 
