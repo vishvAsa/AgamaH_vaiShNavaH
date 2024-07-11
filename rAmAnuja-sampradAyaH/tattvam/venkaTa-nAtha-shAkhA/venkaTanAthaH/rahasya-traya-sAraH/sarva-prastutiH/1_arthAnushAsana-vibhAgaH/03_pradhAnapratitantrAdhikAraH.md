@@ -784,7 +784,8 @@ y no su voluntad (o saṅkalpa).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जागरादि दशैगळिल् संकल्पत्ताल् ए विऴाद पडि ताङ्गुम्-पोदु  
+जागरादि दशैगळिल् संकल्पत्ताल् ए  
+विऴाद पडि ताङ्गुम्-पोदु  
 संक्लपाश्रितम् ऎन्नक् कडवदु.
 </details>
 
@@ -807,21 +808,164 @@ Está sostenido por la voluntad o Saṅkalpa del alma.
 जागरादि दशैगळिल् संकल्पत्ताले विऴादबडि ताङ्गुम्-पोदु संक्लपाश्रितम् ऎन्नक्कडवदु.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् स्वरूपाश्रितम् आय् इरुक्किऱप् पडियै **आधेयत्वम्** ऎण्ड्रुम्,  
+संकल्पाधीनम् आय् इरुक्किऱप् पडियै **नियाम्यत्वम्** ऎण्ड्रुम् सॊल्लुगिऱदु.
+</details>
+
+<details><summary>English</summary>
+
+When the existence of the body is dependent  
+only on the svarūpa of the self or its essential nature,  
+it is said to be supported (adheyatva) by the latter;  
+and when the existence depends on the will or saṅkalpa  
+it is said to be controlled and directed by the latter (niyāmyatva).
+</details>
+
+<details><summary>Español</summary>
+
+When the existence of the body is dependent  
+only on the svarūpa of the self or its essential nature,  
+it is said to be supported (adheyatva) by the latter;  
+and when the existence depends on the will or saṅkalpa  
+it is said to be controlled and directed by the latter (niyāmyatva).
+
+</details>
 
 
-When the existence of the body is dependent only on the svarūpa of the self or its essential nature, it is said to be supported (adheyatva) by the latter; and when the existence depends on the will or saṅkalpa it is said to be controlled and directed by the latter (niyāmyatva).
+<details><summary>मूलम्</summary>
+
+इदिल् स्वरूपाश्रितमायिरुक्किऱप्पडियै आधेयत्वम् ऎण्ड्रुम्, संकल्पाधीनमायिरुक्किऱप्पडियै नियाम्यत्वम् ऎण्ड्रुम् सॊल्लुगिऱदु.
+</details>
+
+
 
 [^f48]: Mahābhārata  : Anusasanika parva 254-136.
 
-WHAT IS THE MEANING OF ŚEṢA-ŚEṢI  BHĀVA?
+## शेष-शेषि-भावः
+<details><summary>English</summary>
 
-Iśvara is said to be the śeṣin of all things, because they exist solely for the fulfilment of His purposes. They are His śeṣas, The following śloka  explains how Iśvara is the śeṣin of all:  The [^f49] Utterance of the Upaniṣads is to the effect that the Lord takes in both sentient and non-sentient things for the fulfilment of His own purposes, by being the cause of their existence, their continuance and their control. In regard to (one of the two (i.e.) the sentient being), Thou art both the end to be attained (upēya) and the means of attaining it (upāya). This is Thy essential nature and not an adventitious quality of Thine. Therefore, O Thou that hast Thy repose in Śrīraṅgam, I seek refuge in Thee without any selfish interest.”
+WHAT IS THE MEANING OF ŚEṢA-ŚEṢI  BHĀVA?
+</details>
+
+<details><summary>Español</summary>
+
+WHAT IS THE MEANING OF ŚEṢA-ŚEṢI  BHĀVA?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरन् सर्व-शेषिय् आगैय् आवदु  
+
+> “उपादत्ते सत्ता-स्थिति-नियमनाद्यैश् चिद्--अ-चितौ  
+> स्वम् उद्दिश्य "श्रीमान्" इति वदति वाग् औपनिषदी ।  
+> उपायोपेयत्वे तद् इह तव तत्त्वं न तु गुणौ  
+> अतस् त्वां श्रीरङ्गे-शय शरणम् अव्याजम् अभजम् ॥” 
+
+ऎन्गिऱप् पडिये  
+</details>
+
+<details><summary>English</summary>
+
+Iśvara is said to be the śeṣin of all things,  
+because they exist solely for the fulfilment of His purposes.  
+They are His śeṣas,  
+The following śloka  explains how Iśvara is the śeṣin of all:  
+
+> The [^f49] Utterance of the Upaniṣads is to the effect that  
+> the Lord takes in both sentient and non-sentient things  
+> for the fulfilment of His own purposes,  
+> by being the cause of their existence, their continuance and their control.  
+> In regard to (one of the two (i.e.) the sentient being),  
+> Thou art both the end to be attained (upēya)  
+> and the means of attaining it (upāya). 
+> This is Thy essential nature and not an adventitious quality of Thine.  
+> Therefore, O Thou that hast Thy repose in Śrīraṅgam,  
+> I seek refuge in Thee without any selfish interest.”
 
 [^f49]: Sriraṅgarajastavam: (Uttara śatakam) 87
 
-THE IMPORTANCE OF THIS KNOWLEDGE.
+</details>
 
-Sentient beings and non-sentient things exist not for their own sake but for the fulfilment of God's purposes. Their nature is ever to exist for somebody else (i.e.) the Lord. In using them for His own purposes, His glory is manifested. This is being śeṣī . "But" it may be asked, "what does this sentient being gain by being supported and controlled by Him and by existing solely for his master ?" The answer is as follows: By having the Lord as his ādhāra, the Jīva   becomes an inseparable attribute of the Lord even like His own attributes Jñāna and śakti or power. By being the Lord's śeṣa and by having the Lord as his śeṣī , the jīva acquires a taste for an ultimate goal or end which is appropriate to his essential nature, for every being aims at a goal or end suited to the conception held by it about its nature. By being the śeṣa of the Lord and by having Him as his controller and ruler, he comes to know the specific means or upāya (viz Bhagavān) of attaining the goal or ultimate aim suited to his essential nature. This upāya or means (is the Lord Himself who is the only proper means for the attainment of this end and who) does not require any auxiliary aid for helping Him. From what has been said above, it follows that this sentient being has no other support, exists for nobody else, and has no other protector than Bhagavān.
+<details><summary>Español</summary>
+
+Iśvara is said to be the śeṣin of all things,  
+because they exist solely for the fulfilment of His purposes.  
+They are His śeṣas,  
+The following śloka  explains how Iśvara is the śeṣin of all:  
+
+> The [^f49] Utterance of the Upaniṣads is to the effect that  
+> the Lord takes in both sentient and non-sentient things  
+> for the fulfilment of His own purposes,  
+> by being the cause of their existence, their continuance and their control.  
+> In regard to (one of the two (i.e.) the sentient being),  
+> Thou art both the end to be attained (upēya)  
+> and the means of attaining it (upāya). 
+> This is Thy essential nature and not an adventitious quality of Thine.  
+> Therefore, O Thou that hast Thy repose in Śrīraṅgam,  
+> I seek refuge in Thee without any selfish interest.”
+
+[^f49]: Sriraṅgarajastavam: (Uttara śatakam) 87
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरन् सर्वशेषियागैयावदु “उपादत्ते सत्ता-स्थिति-नियमनाद्यैश्चिदचितौ स्वमुद्दिश्य श्रीमानिति वदति वागौपनिषदी । उपायोपेयत्वे तदिह तव तत्त्वं न तु गुणौ अतस्त्वां श्रीरङ्गेशय शरणमव्याजमभजम् ॥” ऎन्गिऱप्पडिये
+तन् प्रयोजनत्तुक्कागवे पारार्थ्यैकस्वभावङ्गळान विवट्रै उपादानम्बण्णि अवट्राले अतिश-यवानागै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन् प्रयोजनत्तुक्क् आगव् ए  
+पारार्थ्यैक-स्वभावङ्गळ् आनव् इवट्रै+++(=चिद्--अ-चितौ)+++ उपादानम् बण्णि  
+अवट्राल् ए अतिशयवान् आगै.
+</details>
+
+<details><summary>English</summary>
+
+Sentient beings and non-sentient things exist  
+not for their own sake  
+but for the fulfilment of God's purposes.  
+Their nature is ever to exist for somebody else (i.e.) the Lord.  
+In using them for His own purposes, His glory is manifested.  
+This is being śeṣī .
+
+</details>
+
+<details><summary>Español</summary>
+
+Sentient beings and non-sentient things exist  
+not for their own sake  
+but for the fulfilment of God's purposes.  
+Their nature is ever to exist for somebody else (i.e.) the Lord.  
+In using them for His own purposes, His glory is manifested.  
+This is being śeṣī .
+</details>
+
+<details><summary>मूलम्</summary>
+
+तन् प्रयोजनत्तुक्कागवे पारार्थ्यैकस्वभावङ्गळान विवट्रै उपादानम्बण्णि अवट्राले अतिश-यवानागै.
+</details>
+
+
+## ज्ञान-फलम्
+<details><summary>English</summary>
+
+THE IMPORTANCE OF THIS KNOWLEDGE.
+</details>
+
+<details><summary>Español</summary>
+
+THE IMPORTANCE OF THIS KNOWLEDGE.
+</details>
+
+
+
+
+"But" it may be asked, "what does this sentient being gain by being supported and controlled by Him and by existing solely for his master ?" The answer is as follows: By having the Lord as his ādhāra, the Jīva   becomes an inseparable attribute of the Lord even like His own attributes Jñāna and śakti or power. By being the Lord's śeṣa and by having the Lord as his śeṣī , the jīva acquires a taste for an ultimate goal or end which is appropriate to his essential nature, for every being aims at a goal or end suited to the conception held by it about its nature. By being the śeṣa of the Lord and by having Him as his controller and ruler, he comes to know the specific means or upāya (viz Bhagavān) of attaining the goal or ultimate aim suited to his essential nature. This upāya or means (is the Lord Himself who is the only proper means for the attainment of this end and who) does not require any auxiliary aid for helping Him. From what has been said above, it follows that this sentient being has no other support, exists for nobody else, and has no other protector than Bhagavān.
 
 THE PRESENCE OF THESE IDEAS IN THE THREE
 
