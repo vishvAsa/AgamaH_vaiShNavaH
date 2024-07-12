@@ -927,7 +927,7 @@ cómo Iśvara es el Śeṣin de todos:
 
 तन् प्रयोजनत्तुक्क् आगव् ए  
 पारार्थ्यैक-स्वभावङ्गळ् आनव् इवट्रै+++(=चिद्--अ-चितौ)+++ उपादानम् बण्णि  
-अवट्राल् ए अतिशयवान् आगै.
+अवट्राल् ए **अतिशयवान् आगै**.
 </details>
 
 <details><summary>English</summary>
@@ -1002,7 +1002,7 @@ y por existir únicamente para su maestro?"
 
 आधाराधेयभावत्ताल् एय्  
 अवन्-उडैय ज्ञान-शक्त्य्-आदिगळुक्कुप् पोल् ए  
-अपृथक्-सिद्ध--स्व-रूप-लाभम् उम्,+++(5)+++
+**अपृथक्-सिद्ध--स्व-रूप-लाभम्** उम्,+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -1031,7 +1031,7 @@ Incluso como sus propios atributos Jñāna y Śakti o poder.
 
 शेष-शेषि-भावत्ताल् ए  
 +++(सर्व-वस्तुषु)+++ आत्माभिमानानुगुण-पुरुषार्थ+++(-रुचि)+++-व्यवस्थैयिन् पडिय् ए  
-स्व-रूपानुरूपम् आन पुरुषार्थ-रुचिय् उम्,  
+स्व-रूपानुरूपम् आन **पुरुषार्थ-रुचिय्** उम्,  
 </details>
 
 <details><summary>English</summary>
@@ -1064,7 +1064,7 @@ adecuado para la concepción que tiene sobre su naturaleza.
 शेष-शेषि-भावत्ताल् उम् नियन्तृ-नियाम्य-भावत्ताल् उम्  
 स्व-रूपानुरूपम् आन पुरुषार्थत्तुक्क् अनुरूपमुम् आय्  
 निर्-अपेक्षम् उम् आय् इरुन्द्-उळ्ळ  
-उपाय-विशेषत्तै अऱिगैय् उम् फलिक्कुम्.
+**उपाय-विशेषत्तै** अऱिगैय् उम् फलिक्कुम्.
 </details>
 
 <details><summary>English</summary>
@@ -1101,7 +1101,7 @@ no requiere ninguna ayuda auxiliar para ayudarlo.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग इवट्राल् इच् चेतनन्  
-अनन्याधारन्, अनन्य-प्रयोजनन्, अनन्य-शरणन्  
+**अनन्याधारन्, अनन्य-प्रयोजनन्, अनन्य-शरणन्**  
 ऎण्ड्रद् आयिट्रु.  
 </details>
 
@@ -1115,7 +1115,11 @@ and has no other protector than Bhagavān.
 
 <details><summary>Español</summary>
 
-From what has been said above, it follows that this sentient being has no other support, exists for nobody else, and has no other protector than Bhagavān.
+De lo que se ha dicho anteriormente,  
+se deduce que  
+este ser sensible no tiene otro apoyo,  
+no existe para nadie más  
+y no tiene otro protector que Bhagavān.
 </details>
 
 
@@ -1132,7 +1136,8 @@ THE PRESENCE OF THESE IDEAS IN THE THREE MYSTERIES OR MANTRAS.
 
 <details><summary>Español</summary>
 
-THE PRESENCE OF THESE IDEAS IN THE THREE MYSTERIES OR MANTRAS.
+La presencia de estas ideas  
+en los tres misterios o mantras.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1140,9 +1145,9 @@ THE PRESENCE OF THESE IDEAS IN THE THREE MYSTERIES OR MANTRAS.
 इव्व् अर्थम् प्रथम-रहस्यत्तिल् किडैक्किऱ पडि ऎङ्ङनेय् ऎन्निल्  :-  
 नारायण-शब्दत्तिल् तत्-पुरुष--बहु-व्रीहि--समास-द्वयत्ताल् उम्  
 उण्ड् आन धारकत्व व्यापकत्वादिगळाल् ए  
-अनन्याधारत्वादि-विशिष्ट--स्व-रूप-लाभम् उम्,  
+**अनन्याधारत्वादि**-विशिष्ट--**स्व-रूप**-लाभम् उम्,  
 पारार्थ्य-पारतन्त्र्य-गर्भम् आन कीऴिल् +++("ॐ नमः")+++पद-द्वयत्ताल् ए  
-अनन्य-प्रयोजनत्वम् उम् अनन्यशरणत्वम् उम् फलिक्कुम्.  
+**अनन्य-प्रयोजनत्वम्** उम् अनन्यशरणत्वम् उम् फलिक्कुम्.  
 </details>
 
 <details><summary>English</summary>
@@ -1177,32 +1182,35 @@ and that he has no other refuge or protector-than He.
 
 <details><summary>Español</summary>
 
-If it be asked  
-how this idea is contained in the first mystery (i.e.) aṣṭākṣara,  
-the answer is as follows:-  
-The word  ‘Nārāyaṇa’ is a compound word  
-which means either  
-"He to whom Nārāh are a resting place (ayana )",  
-in which case it is a possessive adjective compound (bahuvrihi samāsa),  
-or " the resting place of nārāh (i.e.) men",  
-in which case, it is a determinative compound  
-in which the first part Nārāh is in the genitive case (i.e.) nārānām + ayanam ( which is qualified by the genitive.)  
-The compound word Nārāyaṇa  
-interpreted in these two ways  
-establishes His being the support (of everything)  
-and of His pervading it.  
-From this it would follow that the jīva,  
-in his essential nature,  
-has no other support  
-and is pervaded by no other than Nārāyaṇa.   
+Si se le pregunta  
+Cómo esta idea está contenida en el primer misterio (es decir) aṣṭākṣara,  
+La respuesta es la siguiente:-  
 
-The words Om and Namo  
-which precede Narayanāya  
-imply that the jīva exists for Nārāyaṇa  
-and is entirely dependent upon Him for protection.  
-It would follow therefrom that  
-the jīva serves no other purpose than that of Nārāyaṇa  
-and that he has no other refuge or protector-than He.
+La palabra "nārāyaṇa" es una palabra compuesta  
+lo que significa tampoco  
+"El que Nārāh es un lugar de descanso (ayana)",  
+en cuyo caso es un compuesto adjetivo posesivo (Bahuvrihi samāsa),  
+o "el lugar de descanso de Nārāh (es decir) hombres",  
+en cuyo caso, es un compuesto determinante  
+en el que la primera parte nārāh  
+está en el caso genitivo (es decir) nārānām + ayanam (que está calificado por el genitivo).
+
+La palabra compuesta nārāyaṇa  
+interpretado de estas dos maneras  
+establece su apoyo (de todo)  
+y de su impregnante.  
+De esto se seguiría que el Jīva,  
+en su naturaleza esencial,  
+no tiene otro apoyo  
+y no está impregnado de nada menos que NārāyaUna.
+
+Las palabras om y namo  
+que preceden a Narayanāya  
+implica que el jīva existe para nārāyaṇa  
+y depende completamente de él para la protección.  
+Seguiría de eso desde  
+El Jīva no tiene otro propósito que el de Nārāyaṇa  
+y que no tiene otro refugio ni protector que él.
 </details>
 
 
@@ -1213,7 +1221,41 @@ and that he has no other refuge or protector-than He.
 </details>
 
 
-In Dvayam which is, as it were, a gem of a mantra and which discloses the activity or process of self surrender (prapatti) to the Lord, the first part reveals that the jīva has no other refuge than Nārāyaṇa  and the second that he exists for no purposes other than those of Nārāyaṇa , while, in both parts, the idea of the jīva having no other support (ādhāra) is evident (from the word Nārāyaṇa).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्त्य्-अनुष्ठान-प्रकाशकम् आन मन्त्र-रत्नत्तिल्  
+पूर्व-खण्डत्ताल् ए **अनन्य-शरणत्वम्** उम्,  
+उत्तर-खण्डत्ताल् ए **अनन्य-प्रयोजनत्वम्** उम्  
+उभय-भागत्ताल् उम् +++(नारायण-शब्दतः)+++ **अनन्याधारत्वम्** उम् प्रकाशिक्किऱदु.
+</details>
+
+<details><summary>English</summary>
+
+In Dvayam which is, as it were, a gem of a mantra  
+and which discloses the activity or process of self surrender (prapatti) to the Lord,  
+the first part reveals that the jīva has no other refuge than Nārāyaṇa  
+and the second that he exists for no purposes other than those of Nārāyaṇa ,  
+while, in both parts,  
+the idea of the jīva having no other support (ādhāra) is evident (from the word Nārāyaṇa).
+</details>
+
+<details><summary>Español</summary>
+
+En dvayam que es, por así decirlo, una joya de mantra  
+y que revela la actividad o proceso de autoinforme (Prapatti) al Señor,  
+La primera parte revela que el Jīva no tiene otro refugio que Nārāyaṇa  
+y el segundo que el existe sin fines que no sean los de Nārāyaṇa,
+Mientras que, en ambas partes,
+La idea de que el Jīva no tenga otro apoyo (ādhāra) es evidente (de la palabra nārāyaṇa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रपत्त्यनुष्ठानप्रकाशकमान मन्त्ररत्नत्तिल् पूर्वखण्डत्ताले अनन्यशरणत्वमुम्, उत्तरखण्डत्ताले अनन्यप्रयोजनत्वमुम् उभयभागत्तालुम् अनन्याधारत्वमुम् प्रकाशिक्किऱदु.
+</details>
+
+
 
 Similarly these ideas may be discerned in the carama śloka  also, either directly and explicitly in the words themselves or by implication or purport arising indirectly from the meaning of the words.
 
