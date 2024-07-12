@@ -1135,11 +1135,83 @@ THE PRESENCE OF THESE IDEAS IN THE THREE MYSTERIES OR MANTRAS.
 THE PRESENCE OF THESE IDEAS IN THE THREE MYSTERIES OR MANTRAS.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थम् प्रथम-रहस्यत्तिल् किडैक्किऱ पडि ऎङ्ङनेय् ऎन्निल्  :-  
+नारायण-शब्दत्तिल् तत्-पुरुष--बहु-व्रीहि--समास-द्वयत्ताल् उम्  
+उण्ड् आन धारकत्व व्यापकत्वादिगळाल् ए  
+अनन्याधारत्वादि-विशिष्ट--स्व-रूप-लाभम् उम्,  
+पारार्थ्य-पारतन्त्र्य-गर्भम् आन कीऴिल् +++("ॐ नमः")+++पद-द्वयत्ताल् ए  
+अनन्य-प्रयोजनत्वम् उम् अनन्यशरणत्वम् उम् फलिक्कुम्.  
+</details>
+
+<details><summary>English</summary>
+
+If it be asked  
+how this idea is contained in the first mystery (i.e.) aṣṭākṣara,  
+the answer is as follows:-  
+The word  ‘Nārāyaṇa’ is a compound word  
+which means either  
+"He to whom Nārāh are a resting place (ayana )",  
+in which case it is a possessive adjective compound (bahuvrihi samāsa),  
+or " the resting place of nārāh (i.e.) men",  
+in which case, it is a determinative compound  
+in which the first part Nārāh is in the genitive case (i.e.) nārānām + ayanam ( which is qualified by the genitive.)  
+The compound word Nārāyaṇa  
+interpreted in these two ways  
+establishes His being the support (of everything)  
+and of His pervading it.  
+From this it would follow that the jīva,  
+in his essential nature,  
+has no other support  
+and is pervaded by no other than Nārāyaṇa.   
+
+The words Om and Namo  
+which precede Narayanāya  
+imply that the jīva exists for Nārāyaṇa  
+and is entirely dependent upon Him for protection.  
+It would follow therefrom that  
+the jīva serves no other purpose than that of Nārāyaṇa  
+and that he has no other refuge or protector-than He.
+</details>
+
+<details><summary>Español</summary>
+
+If it be asked  
+how this idea is contained in the first mystery (i.e.) aṣṭākṣara,  
+the answer is as follows:-  
+The word  ‘Nārāyaṇa’ is a compound word  
+which means either  
+"He to whom Nārāh are a resting place (ayana )",  
+in which case it is a possessive adjective compound (bahuvrihi samāsa),  
+or " the resting place of nārāh (i.e.) men",  
+in which case, it is a determinative compound  
+in which the first part Nārāh is in the genitive case (i.e.) nārānām + ayanam ( which is qualified by the genitive.)  
+The compound word Nārāyaṇa  
+interpreted in these two ways  
+establishes His being the support (of everything)  
+and of His pervading it.  
+From this it would follow that the jīva,  
+in his essential nature,  
+has no other support  
+and is pervaded by no other than Nārāyaṇa.   
+
+The words Om and Namo  
+which precede Narayanāya  
+imply that the jīva exists for Nārāyaṇa  
+and is entirely dependent upon Him for protection.  
+It would follow therefrom that  
+the jīva serves no other purpose than that of Nārāyaṇa  
+and that he has no other refuge or protector-than He.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
+इव्वर्थम् प्रथमरहस्यत्तिल् किडैक्किऱबडि ऎङ्ङनेयॆन्निल्  :-  
+नारायणशब्दत्तिल् तत्पुरुष बहुव्रीहि समासद्वयत्तालुमुण्डान धारकत्व व्यापकत्वादिगळाले अनन्याधारत्वादि विशिष्ट स्वरूपलाभमुम्, पारार्थ्य पारतन्त्र्यगर्भमान कीऴिल् पदद्वयत्ताले अनन्यप्रयोजनत्वमुम् अनन्यशरणत्वमुम् फलिक्कुम्.
+</details>
 
-If it be asked how this idea is contained in the first mystery (i.e.) aṣṭākṣara, the answer is as follows:- The word  ‘Nārāyaṇa’ is a compound word which means either "He to whom Nārāh are a resting place (ayana )", in which case it is a possessive adjective compound (bahuvrihi samāsa), or " the resting place of nārāh (i.e.) men", in which case, it is a determinative compound in which the first part Nārāh is in the genitive case (i.e.) nārānām + ayanam ( which is qualified by the genitive.) The compound word Nārāyaṇa  interpreted in these two ways establishes His being the support (of everything) and of His pervading it. From this it would follow that the jīva, in his essential nature, has no other support and is pervaded by no other than Nārāyaṇa  The words Om and Namo which precede Narayanāya imply that the jīva exists for Nārāyaṇa  and is entirely dependent upon Him for protection. It would follow therefrom that the jīva serves no other purpose than that of Nārāyaṇa  and that he has no other refuge or protector-than He.
 
 In Dvayam which is, as it were, a gem of a mantra and which discloses the activity or process of self surrender (prapatti) to the Lord, the first part reveals that the jīva has no other refuge than Nārāyaṇa  and the second that he exists for no purposes other than those of Nārāyaṇa , while, in both parts, the idea of the jīva having no other support (ādhāra) is evident (from the word Nārāyaṇa).
 
