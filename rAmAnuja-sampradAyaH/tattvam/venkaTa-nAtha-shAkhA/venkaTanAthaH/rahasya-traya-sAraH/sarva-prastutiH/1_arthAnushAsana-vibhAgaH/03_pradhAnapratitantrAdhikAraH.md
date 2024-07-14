@@ -1140,12 +1140,14 @@ La presencia de estas ideas
 en los tres misterios o mantras.
 </details>
 
+### अष्टाक्षरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् अर्थम् प्रथम-रहस्यत्तिल् किडैक्किऱ पडि ऎङ्ङनेय् ऎन्निल्  :-  
 नारायण-शब्दत्तिल् तत्-पुरुष--बहु-व्रीहि--समास-द्वयत्ताल् उम्  
 उण्ड् आन धारकत्व व्यापकत्वादिगळाल् ए  
 **अनन्याधारत्वादि**-विशिष्ट--**स्व-रूप**-लाभम् उम्,  
+
 पारार्थ्य-पारतन्त्र्य-गर्भम् आन कीऴिल् +++("ॐ नमः")+++पद-द्वयत्ताल् ए  
 **अनन्य-प्रयोजनत्वम्** उम् अनन्यशरणत्वम् उम् फलिक्कुम्.  
 </details>
@@ -1220,12 +1222,12 @@ y que no tiene otro refugio ni protector que él.
 नारायणशब्दत्तिल् तत्पुरुष बहुव्रीहि समासद्वयत्तालुमुण्डान धारकत्व व्यापकत्वादिगळाले अनन्याधारत्वादि विशिष्ट स्वरूपलाभमुम्, पारार्थ्य पारतन्त्र्यगर्भमान कीऴिल् पदद्वयत्ताले अनन्यप्रयोजनत्वमुम् अनन्यशरणत्वमुम् फलिक्कुम्.
 </details>
 
-
+### द्वय-मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रपत्त्य्-अनुष्ठान-प्रकाशकम् आन मन्त्र-रत्नत्तिल्  
-पूर्व-खण्डत्ताल् ए **अनन्य-शरणत्वम्** उम्,  
-उत्तर-खण्डत्ताल् ए **अनन्य-प्रयोजनत्वम्** उम्  
++++("श्रिमन्नारायणचरणौ शरणं प्रपद्ये"→)+++ पूर्व-खण्डत्ताल् ए **अनन्य-शरणत्वम्** उम्,  
++++("श्रीमते नारायणाय नमः"→)+++ उत्तर-खण्डत्ताल् ए **अनन्य-प्रयोजनत्वम्** उम्  
 उभय-भागत्ताल् उम् +++(नारायण-शब्दतः)+++ **अनन्याधारत्वम्** उम् प्रकाशिक्किऱदु.
 </details>
 
@@ -1255,35 +1257,580 @@ La idea de que el Jīva no tenga otro apoyo (ādhāra) es evidente (de la palabr
 प्रपत्त्यनुष्ठानप्रकाशकमान मन्त्ररत्नत्तिल् पूर्वखण्डत्ताले अनन्यशरणत्वमुम्, उत्तरखण्डत्ताले अनन्यप्रयोजनत्वमुम् उभयभागत्तालुम् अनन्याधारत्वमुम् प्रकाशिक्किऱदु.
 </details>
 
+### चरमश्लोके ऽनुकथनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि शाब्दम् आगव् उम्  
+आर्थम् आगव् उम्  
+चरम-श्लोकत्तिल् उम्  
+इव्व् अगुप्पुक्+++(=??)+++ कण्डु-गॊळ्वदु.
+</details>
+
+<details><summary>English</summary>
+
+Similarly these ideas may be discerned in the carama śloka  also,  
+either directly and explicitly in the words themselves  
+or by implication or purport arising indirectly from the meaning of the words.
+</details>
+
+<details><summary>Español</summary>
+
+Similarly these ideas may be discerned in the carama śloka  also,  
+either directly and explicitly in the words themselves  
+or by implication or purport arising indirectly from the meaning of the words.
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि शाब्दमागवुम् आर्थमागवुम् चरमश्लोकत्तिलुम् इव्वगुप्पुक् कण्डुगॊळ्वदु.
+</details>
+
+### आदर्शोपमा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि चरम-श्लोकत्तिल् ए  
+सिद्धोपाय-वशी-करणार्थम् आग  
+विहितम् आन साद्ध्योपाय विशेषत्तै  
+द्वयत्ताल् ए अनुष्ठिक्कुम् पोदैक्कु  
+
+अनुसन्धेयङ्गळ् आय्क् कॊण्डु  
+अवश्यापेक्षितङ्गळ् आन अर्थङ्गळैय् ऎल्लाम्  
+सिऱिय कण्णाडि पॆरिय उरुक्कळैक्+++(=रूपाणि)+++ काट्टुम् आप्-पोल् ए  
+सुरुङ्गत् तॆळि-विक्कुम् तिरु-मन्त्रम्.+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The carama śloka  declares that  
+Bhagavān is Himself the already existing and established means (siddha upāya) for attaining Him,  
+for He is ever ready to help us to attain Him,  
+and that, in order to secure His help,  
+we have yet to accomplish or adopt a means (sādhya upāya),  
+which is self-surrender (s'aranāgati) to the lord.  
+This Sādhyopāya, namely, self surrender or śaraṇāgati  
+is performed by uttering the Dvayam  
+and the thoughts that we should bear in mind at that time  
+are concisely disclosed in the Tirumantra or Aṣṭākṣara  
+as in a little mirror reflecting bigger forms.+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+El carama Śloka declara que  
+Bhagavān es él mismo el medio ya existente y establecido (Siddha upāya) por lograrlo,   
+porque siempre está listo para ayudarnos a alcanzarlo,  
+y eso, para asegurar su ayuda,  
+Todavía tenemos que lograr o adoptar un medio (sādhya upāya),  
+que es auto-curandero (s'aranāgati) para el Señor.  
+
+Este sādhyopāya, a saber, la autovención o śaraṇāgati  
+se realiza pronunciando el dvayam,  
+y los pensamientos que debemos tener en cuenta en ese momento  
+se divulgan concisamente en el Tirumantra o Aṣṭākṣara  
+Como en un pequeño espejo que refleja formas más grandes. +++(5)+++
+</details>
+
+### ॐ
+<details><summary>मूलम्</summary>
+
+इप्पडि चरमश्लोकत्तिले सिद्धोपाय वशीकरणार्थमाग विहितमान साद्ध्योपाय विशेषत्तै द्वयत्ताले अनुष्ठिक्कुम् पोदैक्कु अनुसन्धेयङ्गळाय्क्कॊण्डु अवश्यापेक्षितङ्गळान अर्थङ्गळैयॆल्लाम् सिऱिय कण्णाडि पॆरिय उरुक्कळैक् काट्टुमाप्पोले सुरुङ्गत् तॆळिविक्कुम् तिरुमन्त्रम्.
+</details>
 
 
-Similarly these ideas may be discerned in the carama śloka  also, either directly and explicitly in the words themselves or by implication or purport arising indirectly from the meaning of the words.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The carama śloka  declares that Bhagavān is Himself the already existing and established means (siddha upāya) for attaining Him, for He is ever ready to help us to attain Him, and that, in order to secure His help, we have yet to accomplish or adopt a means (sādhya upāya), which is self-surrender (s'aranāgati) to the lord. This Sādhyopāya, namely, self surrender or śaraṇāgati is performed by uttering the Dvayam and the thoughts that we should bear in mind at that time are concisely disclosed in the Tirumantra or Aṣṭākṣara as in a little mirror reflecting bigger forms.
+इदिल् प्रथम-पदत्तिल्+++(→ॐ)+++ अर्थङ्गळै  
+अर्जुन-रथत्तिल् उम्,  
+‘अग्रतः प्रययौ रामः’ ऎन्गिऱ श्लोकत्तिल् उम् कण्डु-गॊळ्वदु.
+</details>
 
-The (two) meanings of the first word OM (aum) are illustrated in Arjuna's chariot and in the (famous) śloka  of the Rāmāyana which says:- [^f50] Rāma went first. Sītā walked in the middle, and Lakṣmaṇa, bow in hand, walked behind, following them. The word OM is constituted of three parts a, u, and m; a, which is seen first, means Bhagavān, the Protector or Saviour, who is seen first in Arjuna's chariot, and m means the jīva, Arjuna, the object of protection who is seen afterwards; a means, only; it may also
+<details><summary>English</summary>
+
+The (two) meanings of the first word OM (aum)  
+are illustrated in Arjuna's chariot  
+and in the (famous) śloka  of the Rāmāyana which says:- [^f50] 
+
+> Rāma went first.  
+> Sītā walked in the middle,  
+> and Lakṣmaṇa, bow in hand, walked behind, following them. 
 
 [^f50]: Rāmāyaṇa: Aranyakāṇḍa
 
-mean Lakṣmī . When u refers to Śrī or Lakṣmī , the two śeṣī s, Bhagavān and Śrī appear first and the śeṣa appears afterwards. In the śloka  quoted from the Rāmāyana, first we think of the Saviour, then we think of Lakṣmī  and then of Lakṣmane who is their śeṣa. So also is praṇava or aum; a, u and m refer respectively to the Saviour, Lakṣmī  who pleads for the jīva and then the jīva who requires their protection. The second word in Tirumantra, viz, namo or namah means "adoration" or "I adore", This brings out explicitly, by the word itself, the idea of the jīva being entirely dependent on the Lord. Since Bhagavān is pleased with those who serve His devotees (Bhagavatās), it is implicitly stated in the word namas that we depend also on Bhāgavatas and are subject to their direction and control. Illustrations of these may be found respectively in the lives of the devotees, Bharata and Satrughna (the former of whom delighted in obeying and serving Rāma and the latter in obeying and serving Bharata).
+The word OM is constituted of three parts a, u, and m;  
+"a", which is seen first, means Bhagavān, the Protector or Saviour,  
+who is seen first in Arjuna's chariot,  
+and m means the jīva, Arjuna, the object of protection who is seen afterwards;  
+"u" means, only; it may also mean Lakṣmī .  
 
-The third word in Tirumantra is Nārāyanāya, which is the dative or fourth case of Nārāyaṇa . (The word Narayan, has two meanings: (1) the resting place or refuge of naras or living beings and (2) He who has naras (living beings) as His abode or resting place. This means that the jīva depends for his very existence on Nārāyaṇa  and that Nārāyaṇa's glory (vibhūti) cannot manifest itself without the jīva. It has therefore been well said: "I do [^f51] not exist without thee, O Nārāyaṇa, nor dost Thou without me". Nārāyaṇāya, which means for Nārāyaṇa ' should be construed along with some such word as syām or bhaveyam and the meaning would then be, “ May I exist for Nārāyaṇa "! These meanings of the word Nārāyaṇa  may be seen illustrated in all created beings of Kosala (who could not bear their existence without ŚrīRana and who departed this world along with Him, and in ŚrīRāma, too, who departed with them.
+When u refers to Śrī or Lakṣmī ,  
+the two śeṣī s, Bhagavān and Śrī appear first  
+and the śeṣa appears afterwards.  
+In the śloka  quoted from the Rāmāyana,  
+first we think of the Saviour,  
+then we think of Lakṣmī  
+and then of Lakṣmane who is their śeṣa.  
+So also is praṇava or aum;  
+a, u and m refer respectively to the Saviour,  
+Lakṣmī  who pleads for the jīva  
+and then the jīva who requires their protection.  
+</details>
+
+<details><summary>Español</summary>
+
+Los (dos) significados de la primera palabra om (aum)  
+se ilustran en el carro de Arjuna  
+y en el (famoso) Śloka del rāmāyana que dice:- [^f50]
+
+> Rāma fue primero.  
+> Sītā caminó en el medio,  
+> y Lakṣmaṇa, inclinado en la mano, caminó detrás, siguiéndolos.
+
+La palabra OM está constituida de tres partes A, U y M;  
+"A", que se ve primero, significa Bhagavān, el protector o salvador,  
+quien se ve primero en el carro de Arjuna,  
+y "M" significa Jīva, Arjuna, el objeto de protección que se ve después;  
+"U" significa, solo; También puede significar Lakṣmī.
+
+Cuando se refiere a Śrī o Lakṣmī,  
+Los dos Śeṣī s, Bhagavān y śrī aparecen primero  
+y el Śeṣa aparece después.  
+En el Śloka citado del Rāmāyana,  
+Primero pensamos en el Salvador,  
+Entonces pensamos en Lakṣmī  
+y luego de Lakṣmane, que es su Śeṣa.  
+
+Así también es praṇava o aum;  
+A, U y M se refieren respectivamente al Salvador,  
+Lakṣmī que suplica por el Jīva  
+Y luego el Jīva que requiere su protección.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् प्रथमपदत्तिलर्थङ्गळै अर्जुनरथत्तिलुम्,  
+‘अग्रतः प्रययौ रामः’ ऎन्गिऱ श्लोकत्तिलुम् कण्डुगॊळ्वदु.
+</details>
+
+
+### नमो
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+द्वितीय-पदत्तिल्+++(→नमो)+++ शब्दत्ताल् उम्  
+अर्थ-स्वभावत्ताल् उम् वरुम् अर्थङ्गळै  
+श्री-भरताऴ्वान्-उडैयव् उम् +++(भरत-सेवया)+++ श्री-शत्रु-घ्नाऴ्वान्-उडैयव् उम् वृत्तान्तङ्गळिल् ए अऱिवदु. 
+</details>
+
+<details><summary>English</summary>
+
+The second word in Tirumantra, viz, namo or namah means "adoration" or "I adore",  
+This brings out explicitly, by the word itself,  
+the idea of the jīva being entirely dependent on the Lord.  
+
+Since Bhagavān is pleased with those who serve His devotees (Bhāgavatas),  
+it is implicitly stated in the word namas  
+that we depend also on Bhāgavatas  
+and are subject to their direction and control.+++(5)+++  
+
+Illustrations of these may be found respectively  
+in the lives of the devotees, Bharata and Satrughna  
+(the former of whom delighted in obeying and serving Rāma  
+and the latter in obeying and serving Bharata).
+
+</details>
+
+<details><summary>Español</summary>
+
+La segunda palabra en Tirumantra, a saber, namo o namah significa "adoración" o "adoro",  
+Esto saca explícitamente, por la palabra misma,  
+La idea de que el Jīva dependa completamente del Señor.
+
+Dado que Bhagavān está satisfecho  
+con aquellos que sirven a sus devotos (Bhāgavatas),  
+se declara implícitamente en la palabra namas  
+que dependemos también de bhāgavatas  
+y están sujetos a su dirección y control.
+
+Se pueden encontrar ilustraciones de estos respectivamente  
+En la vida de los devotos, Bharata y Satrughna  
+(El primero de los cuales se deleitó en obedecer y servir a Rāma  
+y este último en obedecer y servir a Bharata).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+द्वितीयपदत्तिल् शब्दत्तालुम् अर्थस्वभावत्तालुम् वरुम् अर्थङ्गळै श्रीभरताताऴ्वानुडैयवुम् श्रीशत्रुघ्नाऴ्वानुडैयवुम् वृत्तान्तङ्गळिले अऱिवदु. 
+</details>
+
+### नारायणाय
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "नानुन्नैय् अण्ड्रिय् इलेन्  
+कण्डाय् नारणन् ए  
+नी यॆन्नैय् अण्ड्रिय् इलै" 
+
+ऎन्नुम् बडि निऱ्‌किऱ नारायण-शब्दार्थत्तै  
+कोसल-जन-पदत्तिल् जन्तुक्कळैय् उम्  
+चक्र-वर्तित्--तिरु-मगनैय् उम्  
++++(सहैव वैकुण्ठ-गमनेन)+++  
+उदाहरणम् आक्किक् कण्डु-गॊळ्वदु.+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The third word in Tirumantra is Nārāyanāya,  
+which is the dative or fourth case of Nārāyaṇa .  
+
+The word Narayan, has two meanings:  
+(1) the resting place or refuge of naras or living beings and  
+(2) He who has naras (living beings) as His abode or resting place.  
+
+This means that the jīva depends for his very existence on Nārāyaṇa  
+and that Nārāyaṇa's glory (vibhūti) cannot manifest itself without the jīva.+++(5)+++  
+
+It has therefore been well said: 
+
+> "I do [^f51] not exist without thee, O Nārāyaṇa,  
+> nor dost Thou without me". 
+
+Nārāyaṇāya, which means 'for Nārāyaṇa'  
+should be construed along with some such word as syām or bhaveyam  
+and the meaning would then be, “ May I exist for Nārāyaṇa "!  
+These meanings of the word Nārāyaṇa  
+may be seen illustrated in all created beings of Kosala  
+(who could not bear their existence without Śrī Rama  
+and who departed this world along with Him,  
+and in ŚrīRāma, too, who departed with them.
 
 [^f51]: Nanmukhan Tiruvandadi: 7
 
-The first word, Praṇava (aum), signifies that m, the jīva, exists only for a (aya) and the second word namo that the jīva depends on Bhagavān. His existence is for Bhagavān and His devotees, to the latter of whom the śeṣatva extends as its ultimate limit, and he depends absolutely on Bhagavān and His devotees In the light of this interpretation, the third word Nārāyanāya has, for its purport, the goal of the jīva, vis, kaiṅkarya or service to the Lord and His devotees. This service may be seen illustrated in an active form in that of Lakṣmaṇa and in a passive form in the sandals[^23]  of Śrī Rāma which were an incarnation of Lakṣmaṇa or Adiśeṣa and which left Rāma's feet to go along with His devotee, Bharata. (In these instances) the service is such as would be pleasing to the śeṣī (namely, Bhagavān).
+</details>
 
-[^23]: Lakṣmaṇa is a partial incarnation of Adiśeṣa and Adiśeṣa serves the Lord as His sandals. His bed, and so on. Therefore the sandals of Rāma are, in a sense, the incarnation of Lakṣmaṇa.
+<details><summary>Español</summary>
 
-All this elucidation and illustration of the meaning of Tirumantra were vouchsafed by Śrī Appullar. The implicit and explicit meanings contained in Dvayam and the Carama śloka  should be understood on the same lines.
+La tercera palabra en Tirumantra es Nārāyanāya,  
+que es el caso dativo o cuarto caso de Nārāyaṇa.  
 
-IN REGARD TO BEINGS ENDOWED WITH
+La palabra Narayan tiene dos significados:  
+(1) El lugar de descanso o refugio de Naras o seres vivos y  
+(2) El que tiene Naras (seres vivos) como su morada o lugar de descanso.
 
-INTELLI GENCE, ŚEṣATVA MEANS DĀSATVA:
+Esto significa que el Jīva depende de su propia existencia en Nārāyaṇa  
+y que la gloria de Nārāyaṇa (Vibhūti) no puede manifestarse sin el Jīva. +++(5)+++
 
-In these mysteries Iśvara is disclosed as the śeṣī (i.e.) as one for whom everything else exists. He stands in the relation of śeṣī to both sentient beings and non-sentient things in common, In relation to non-sentient things He is śeṣī , because they exist for His purposes. In relation to sentient beings or jīvas endowed with intelligence, He is s'eshī in the special sense of being Swami (i.e.) Master whom it is their duty to serve, and this is the manner in which we should understand while uttering the mantrās. Our being śeṣa to the Lord we share in common with non-sentient things but we are śeṣas in the special sense also of being His servants (dāsāh).
+Por lo tanto, ha sido bien dicho:
 
-The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavān is disclosed in the first syllable of the aṣṭākṣara, viz, aum where the a, the first member, is in the dative case ‘aya’, though the termination has dropped. It means for a or Bhagavān'. The specific form of being śeṣas which applies only to jīvas (and not to non-sentient things ) and which is really being the servants of the Lord ( dāsas) and of His being the Swami or Master is revealed in the purport or implication. So also in the word 'Nārāyaṇāya' there is the general relationship of the seshin towards all things and the specific relationship of Swami or Master which obtains in the case of jivās. Here the goal of usefulness to the Lord, which is the result of the general attitude of the śeṣa, becomes the goal of service or kaiṅkarya to the Lord, owing to the jīva being His servant or dāsa. Thus by being the śeṣin, Iśvara attains a unique glory and as a consequence of His being the Swami or Master, this glory consists in the enjoyment of service which is His puruṣārtha. Iśvara is responsible for the protection of His servants and has also the power to do so, whereas the jīva or Cetana is not responsible for his own protection nor has he the ability to protect himself. This is due to Iśvara being the unconditional (nirupadhika) śeṣī and the unconditional Director and Ruler. Owing to their being the unconditional śeṣas and their being subject unconditionally to His control, it becomes, indeed, the responsibility of the owner to protect what belongs to Him and of the strong to protect the weak. Iśvara, however, makes up his mind to protect the jīva only after making him adopt some means or upāya for winning His protection, (because the jīva is subject, according to the śāstra  to the law of Karma).
+> "Yo hago [^f51] no existe sin ti, o nārāyaṇa,  
+> Tampoco tu sin mí ".
+
+Nārāyaṇāya, que significa 'para nārāyaṇa'
+debe interpretarse junto con algunas palabras como syām o bhaveyam
+¡Y el significado sería entonces "que pueda existir para nārāyaṇa"!
+Estos significados de la palabra nārāyaṇa
+se puede ver ilustrado en todos los seres creados de Kosala
+(¿Quién no podía soportar su existencia sin Śrī Rama
+y quien partió de este mundo junto con él,
+y en śrīrāma también, quien se fue con ellos. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"नानुन्नै यण्ड्रियिलेन् कण्डाय् नारणने नी यॆन्नै यण्ड्रियिलै" ऎन्नुम्बडि निऱ्‌किऱ नारायणशब्दार्थत्तै कोसलजनपदत्तिल् जन्तुक्कळैयुम् चक्रवर्तित् तिरुमगनैयुम् उदाहरणमाक्किक् कण्डुगॊळ्वदु.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्व-पद-द्वयत्तिल्+++(→ओम् नमो)+++ तोट्रिन काष्ठा-प्राप्त--**पारार्थ्य-पारतन्त्र्यङ्गळ्**  
+पेरणिय् आगत् तृतीय-पदत्तिल्+++(→नारायणाय)+++ चतुर्थियिल् करुत्तिल् ए  
+प्रार्थनीयम् आन शेषिय्-उगन्द+++(=योग्य)+++-**कैङ्कर्यत्तै**  
+इळैय--बॆरुमाळ्--उडैयव् उम्,  
++++(आदिशेषावतारत्वाद्)+++ इवर्-उडैय अवतार-विशेषम् आन तिरुव्-अडि-निलैय्+++(→पादुका)+++-आऴ्वार्-उडैयव् उम्,  
++++(लक्ष्मण-रूपेण →)+++प्रवृत्ति-+++(पादुका-रूपेण→)+++निवृत्तिगळिल् ए तॆळिवदु.
+</details>
+
+<details><summary>English</summary>
+
+The first word, Praṇava (aum),  
+signifies that "m", the jīva,  
+exists only for "a" (aya)  
+and the second word namo that  
+the jīva depends on Bhagavān.  
+His existence is for Bhagavān and His devotees,  
+to the latter of whom the śeṣatva extends as its ultimate limit,  
+and he depends absolutely on Bhagavān and His devotees.  
+In the light of this interpretation,  
+the third word Nārāyanāya has, for its purport,  
+the goal of the jīva, vis, kaiṅkarya or service to the Lord and His devotees.  
+This service may be seen illustrated in an active form in that of Lakṣmaṇa  
+and in a passive form in the sandals[^23]  of Śrī Rāma  
+which were an incarnation of Lakṣmaṇa or Adiśeṣa  
+and which left Rāma's feet to go along with His devotee, Bharata.  
+(In these instances) the service is such as would be pleasing to the śeṣī (namely, Bhagavān).
+
+[^23]: 
+
+    Lakṣmaṇa is a partial incarnation of Adiśeṣa  
+    and Adiśeṣa serves the Lord as His sandals, His bed, and so on.  
+    Therefore the sandals of Rāma are, in a sense, the incarnation of Lakṣmaṇa.
+</details>
+
+<details><summary>Español</summary>
+
+La primera palabra, praṇava (aum),  
+significa que "M", el Jīva,  
+Existe solo para "A" (Aya)  
+y la segunda palabra "namo" que  
+El Jīva depende de Bhagavān.  
+Su existencia es para Bhagavān y sus devotos,  
+a la última de las cuales el Śeṣatva se extiende como su límite final,  
+Y depende absolutamente de Bhagavān y sus devotos.  
+
+A la luz de esta interpretación,  
+La tercera palabra nārāyanāya tiene, para su pretensión,  
+El objetivo de Jīva, Vis, Kaiṅkarya o servicio al Señor y sus devotos.
+Este servicio puede verse ilustrado en forma activa en la de Lakṣmaṇa  
+y en forma pasiva en las sandalias [^es23] de Śrī Rāma  
+que fueron una encarnación de Lakṣmaṇa o adiśeṣa  
+y que dejó los pies de Rāma para acompañar a su devoto, Bharata.  
+(En estos casos) El servicio es el que sería agradable para el Śeṣī (a saber, Bhagavān).
+
+[^es23]:
+
+    Lakṣmaṇa es una encarnación parcial de adiśeṣa  
+    y Adiśeṣa sirve al Señor como sus sandalias, su cama, y ​​así sucesivamente.  
+    Por lo tanto, las sandalias de Rāma son, en cierto sentido, la encarnación de Lakṣmaṇa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्वपदद्वयत्तिल् तोट्रिन काष्ठाप्राप्त पारार्थ्य पारतन्त्र्यङ्गळ् पेरणियागत् तृतीयपदत्तिल् चतुर्थियिल् करुत्तिले प्रार्थनीयमान शेषियुगन्द कैङ्कर्यत्तै इळैयबॆरुमाळुडैयवुम्, इवरुडैय अवतारविशेषमान तिरुवडिनिलैयाऴ्वारुडैयवुम्, प्रवृत्तिनिवृत्तिगळिले तॆळिवदु.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु तिरु-मन्त्रार्थानुसन्धानत्तुक्कुक् कुऱिप्प् आग  
+अप्पुळ्ळार् अरुळिच् चॆय्द विरगु.
+</details>
+
+<details><summary>English</summary>
+
+All this elucidation and illustration of the meaning of Tirumantra  
+were vouchsafed by Śrī Appullar.  
+</details>
+
+<details><summary>Español</summary>
+
+Toda esta aclaración e ilustración del significado de Tirumantra  
+fueron atendidos por Śrī Appullar. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु तिरुमन्त्रार्थानुसन्धानत्तुक्कुक् कुऱिप्पाग अप्पुळ्ळाररुळिच् चॆय्द विरगु.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद्-इन्ब्-अडियिल् ए  
+द्वयत्तिल् उम् चरम-श्लोकत्तिल् उम् उळ्ळ अर्थङ्गळ् तॆळिन्दु-गॊळ्वदु.
+</details>
+
+<details><summary>English</summary>
+
+The implicit and explicit meanings contained in Dvayam and the Carama śloka  
+should be understood on the same lines.
+</details>
+
+<details><summary>Español</summary>
+
+Los significados implícitos y explícitos contenidos en Dvayam y el Carama Śloka  
+debe entenderse en la misma línea.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिन्बडियिले द्वयत्तिलुम् चरमश्लोकत्तिलुमुळ्ळ अर्थङ्गळ् तॆळिन्दुगॊळ्वदु.
+</details>
+
+## शेषत्वं दास्यम्
+
+<details><summary>English</summary>
+
+IN REGARD TO BEINGS ENDOWED WITH INTELLI GENCE, ŚEṣATVA MEANS DĀSATVA
+</details>
+
+<details><summary>Español</summary>
+
+IN REGARD TO BEINGS ENDOWED WITH INTELLI GENCE, ŚEṣATVA MEANS DĀSATVA
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् ईश्वरनुक्कु प्रकाशित्त शेषित्वं  
+चेतनाचेतन-साधारण-धर्मम् आगैयाल् ए,  
+चेतनैकान्तम् आन स्वामित्वम् आगिऱ विशेषत्तिल् ए पर्यवसिप्पित्तु अनुसन्धिक्कप् प्राप्तम्.  
+</details>
+
+<details><summary>English</summary>
+
+In these mysteries  
+Iśvara is disclosed as the śeṣī (i.e.) as one for whom  
+everything else exists.  
+He stands in the relation of śeṣī  
+to both sentient beings and non-sentient things in common,  
+In relation to non-sentient things He is śeṣī ,  
+because they exist for His purposes.  
+In relation to sentient beings or jīvas endowed with intelligence,  
+He is śeshī in the special sense of being Swami (i.e.) Master  
+whom it is their duty to serve,  
+and this is the manner in which we should understand while uttering the mantrās.  
+</details>
+
+<details><summary>Español</summary>
+
+En estos misterios  
+Iśvara se revela como el śeṣī (es decir) como uno para quien  
+todo lo demás existe.  
+
+Él se para en la relación de Śeṣī  
+tanto a los seres sintientes como a las cosas no sensibles en común.  
+En relación con las cosas no sensibles, él es Śeṣī,
+Porque existen para sus propósitos.  
+En relación con seres sintientes o jīvas dotados de inteligencia,  
+Él es Śeshī en el sentido especial de ser Swami (es decir) Maestro  
+a quien es su deber servir,  
+Y esta es la forma en que debemos entender mientras pronunciamos los mantrās.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् ईश्वरनुक्कु प्रकाशित्त शेषित्वं चेतनाचेतन साधारणधर्ममागैयाले चेतनैकान्तमान स्वामित्वमागिऱ विशेषत्तिले पर्यवसिप्पित्तु अनुसन्धिक्कप् प्राप्तम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडित् तन्न्-उडैय शेषत्वम् उम्  
+सामान्यम् आगैयाल् ए  
+दासत्वम् आगिऱ विशेषत्तिल् ए विश्रमिप्पित्तु अनुसन्धिक्क-वेणुम्.  
+</details>
+
+<details><summary>English</summary>
+
+Our being śeṣa to the Lord  
+we share in common with non-sentient things  
+but we are śeṣas in the special sense also of being His servants (dāsāh).
+</details>
+
+<details><summary>Español</summary>
+
+Nuestro ser Śeṣa para el Señor  
+Compartimos en común con cosas no sensibles  
+Pero somos Śeṣas en el sentido especial también de ser sus siervos (dāsāh).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडित् तन्नुडैय शेषत्वमुम् सामान्यमागैयाले दासत्वमागिऱ विशेषत्तिले विश्रमिप्पित्तु अनुसन्धिक्कवेणुम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् सामान्यम् आन शेष-शेषि-भावम्  
+प्रथमाक्षरत्तिल्+++(→अकारः)+++ चतुर्थियाले प्रकाश्यम्.
+</details>
+
+<details><summary>English</summary>
+
+The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavān  
+is disclosed in the first syllable of the aṣṭākṣara, viz, aum  
+where the a, the first member, is in the dative case ‘aya’,  
+though the termination has dropped.  
+It means for 'a' or 'Bhagavān'.  
+</details>
+
+<details><summary>Español</summary>
+
+The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavān  
+is disclosed in the first syllable of the aṣṭākṣara, viz, aum  
+where the a, the first member, is in the dative case ‘aya’,  
+though the termination has dropped.  
+It means for 'a' or 'Bhagavān'.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् सामान्यमान शेषशेषिभावम् प्रथमाक्षरत्तिल् चतुर्थियाले प्रकाश्यम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिन् विशेषम् आन दासत्व-स्वामित्वङ्गळ्  
+इरुवर् उम् चेतनर् आय्त् तोट्रुगैयाल् ए अर्थ-सिद्धम्.
+</details>
+
+<details><summary>English</summary>
+
+The specific form of being śeṣas  
+which applies only to jīvas (and not to non-sentient things )  
+and which is really being the servants of the Lord ( dāsas) and of His being the Swami or Master  
+is revealed in the purport or implication. 
+</details>
+
+<details><summary>Español</summary>
+
+The specific form of being śeṣas  
+which applies only to jīvas (and not to non-sentient things )  
+and which is really being the servants of the Lord ( dāsas) and of His being the Swami or Master  
+is revealed in the purport or implication.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिन् विशेषमान दासत्व स्वामित्वङ्गळ् इरुवरुम् चेतनराय्त् तोट्रुगैयाले अर्थसिद्धम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्--पडि नारायण-शब्दत्तिल् उम्  
+सामान्यम् उम्, विशेषम् उम् कण्डु-गॊळ्वदु.+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+So also in the word 'Nārāyaṇāya'  
+there is the general relationship of the seshin towards all things  
+and the specific relationship of Swami or Master which obtains in the case of jivās. 
+</details>
+
+<details><summary>Español</summary>
+
+So also in the word 'Nārāyaṇāya'  
+there is the general relationship of the seshin towards all things  
+and the specific relationship of Swami or Master which obtains in the case of jivās. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि नारायणशब्दत्तिलुम् सामान्यमुम् विशेषमुम् कण्डुगॊळ्वदु.
+</details>
+
+
+
+
+
+Here the goal of usefulness to the Lord, which is the result of the general attitude of the śeṣa, becomes the goal of service or kaiṅkarya to the Lord, owing to the jīva being His servant or dāsa. Thus by being the śeṣin, Iśvara attains a unique glory and as a consequence of His being the Swami or Master, this glory consists in the enjoyment of service which is His puruṣārtha. Iśvara is responsible for the protection of His servants and has also the power to do so, whereas the jīva or Cetana is not responsible for his own protection nor has he the ability to protect himself. This is due to Iśvara being the unconditional (nirupadhika) śeṣī and the unconditional Director and Ruler. Owing to their being the unconditional śeṣas and their being subject unconditionally to His control, it becomes, indeed, the responsibility of the owner to protect what belongs to Him and of the strong to protect the weak. Iśvara, however, makes up his mind to protect the jīva only after making him adopt some means or upāya for winning His protection, (because the jīva is subject, according to the śāstra  to the law of Karma).
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
