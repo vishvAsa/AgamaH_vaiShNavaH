@@ -12,9 +12,8 @@ page 91
 
 <details><summary>Español</summary>
 
-4\. THE CHAPTER ON THE FIVE THINGS  
-THAT SHOULD BE KNOWN TO EVERY SEEKER AFTER SALVATION.  
-page 91
+4 \.El capítulo sobre las cinco cosas  
+Eso debería ser conocido por cada buscador después de la salvación.
 </details>
 
 
@@ -31,13 +30,15 @@ page 91
 In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara,  
 the supreme end of life (i.e.) Bhagavān,  
 who is opposed to all that is objectionable or faulty, is indicated;  
+
 in the 'm' in 'om' and in the part 'nāra' occurring in Nārāyaṇāya,  
 the essential nature (svarūpa) of the jīva  
 who is to attain this end is disclosed;  
+
 the means of attainment already existing as established (siddha upāya) namely, Bhagavān,  
 is indicated in the part "ayana" occurring in Nārāyaṇa  
 and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas;  
-the fruit desired, viz., the enjoyment of Brahman which includes also service to Him  
+the fruit desired, viz., the enjoyment of Brahman which includes also service to Him+++(5)+++  
 is disclosed in the dative or fourth case in Nārāyaṇāya;  
 the hindrance to it, namely, the feeling of 'mine'  
 is in the word mama occurring in namah (na mama ).  
@@ -51,25 +52,30 @@ he will be considered by all as one who knows everything.
 
 <details><summary>Español</summary>
 
-In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara,  
-the supreme end of life (i.e.) Bhagavān,  
-who is opposed to all that is objectionable or faulty, is indicated;  
-in the 'm' in 'om' and in the part 'nāra' occurring in Nārāyaṇāya,  
-the essential nature (svarūpa) of the jīva  
-who is to attain this end is disclosed;  
-the means of attainment already existing as established (siddha upāya) namely, Bhagavān,  
-is indicated in the part "ayana" occurring in Nārāyaṇa  
-and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas;  
-the fruit desired, viz., the enjoyment of Brahman which includes also service to Him  
-is disclosed in the dative or fourth case in Nārāyaṇāya;  
-the hindrance to it, namely, the feeling of 'mine'  
-is in the word mama occurring in namah (na mama ).  
-He who understands the Aṣṭākṣara mantra  
-that reveals all these five  
-and [^24] Dvayam too, which is to the same effect--  
-he will be considered by all as one who knows everything.
+En el 'A' en Om, y en la palabra 'nārāyaṇa' que ocurre en aṣṭākṣara,  
+El fin de la vida supremo (es decir) Bhagavān,  
+Se indica quién se opone a todo lo que es objetable o defectuoso;  
 
-[^24]: Dvayam may mean also the two (i.e.) Dvayam and Caramaśloka.
+en el 'm' en 'om' y en la parte 'nāra' que ocurre en nārāyaṇāya,  
+La naturaleza esencial (svarūpa) del jīva
+Se revela, quién debe alcanzar este fin;
+
+Los medios de logro ya existen como se estableció (Siddha upāya) a saber, Bhagavān,  
+se indica en la parte "ayana" que ocurre en nārāyaṇa  
+y los medios para ser realizados o adoptados (Sādhya upāya), que es auto-curriante, está en Namas;  
+
+La fruta deseada, a saber, el disfrute de Brahman, que también incluye el servicio a él.  
+se revela en el dativo o cuarto caso en Nārāyaṇāya;  
+
+El obstáculo para él, a saber, el sentimiento de 'mío'  
+está en la palabra mama que ocurre en Namah (Na Mama).
+
+El que entiende el mantra Aṣṭākṣara  
+Eso revela todos estos cinco  
+y [^es24] dvayam también, que es el mismo efecto--  
+Será considerado por todos como alguien que lo sabe todo.
+
+[^es24]: Dvayam puede significar también los dos (es decir) Dvayam y Caramaśloka.
 
 </details>
 
