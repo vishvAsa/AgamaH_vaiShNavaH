@@ -1885,6 +1885,7 @@ Esta gloria consiste en el disfrute del servicio, que es su puruṣārtha.
 इप्पडि शेषित्वत्ताले वन्द ईश्वरनुडैय अतिशययोगमुम् स्वामित्वमागिऱ विशेषत्ताले अवनुक्कु पुरुषार्थमाय् फलिक्किऱदु.  
 </details>
 
+### रक्षणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चेतनर्-उडैय **रक्षणत्तिल्** ईश्वरन्  
@@ -1913,16 +1914,15 @@ and their being subject unconditionally to His control.
 
 <details><summary>Español</summary>
 
-Iśvara is responsible for the protection of His servants  
-and has also the power to do so,  
-whereas the jīva or Cetana is not responsible for his own protection  
-nor has he the ability to protect himself.  
+Iśvara es responsable de la protección de sus sirvientes  
+y también tiene el poder de hacerlo,  
+mientras que el Jīva o Cetana no es responsable de su propia protección  
+Tampoco tiene la capacidad de protegerse.
 
-This is due to Iśvara being the unconditional (nirupadhika) śeṣī  
-and the unconditional Director and Ruler,  
-Owing to their being the unconditional śeṣas  
-and their being subject unconditionally to His control.  
-
+Esto se debe a que Iśvara es el incondicional (nirupadhika) śeṣī  
+y el director y gobernante incondicional,  
+Debido a que son los Śeṣas incondicionales  
+y ser sujeto incondicionalmente a su control.
 </details>
 
 
@@ -1936,7 +1936,7 @@ and their being subject unconditionally to His control.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उडैयवन् उडैमैयै रक्षिक्कैय् उम्  
-समर्थन् असमर्थनै रक्षिक्कैय् उम् प्राप्तम् इऱे.  
+समर्थन् असमर्थनै **रक्षिक्कैय्** उम् **प्राप्तम्** इऱे.  +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -1948,9 +1948,9 @@ and of the strong to protect the weak.
 
 <details><summary>Español</summary>
 
-it becomes, indeed, the responsibility of the owner  
-to protect what belongs to Him  
-and of the strong to protect the weak.  
+se convierte, de hecho, la responsabilidad del propietario
+para proteger lo que le pertenece
+y de los fuertes para proteger a los débiles.
 </details>
 
 
@@ -1962,7 +1962,7 @@ and of the strong to protect the weak.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षिक्कुम्-पोदु कर्म-वश्यरै  
-ऒरु उपायत्तिल् ए मूट्टि रक्षिक्कै  
+ऒरु **उपायत्तिल् ए मूट्टि रक्षिक्कै**  
 ईश्वरनुक्कु स्व-सङ्कल्प-नियतम्.+++(5)+++
 </details>
 
@@ -1972,16 +1972,18 @@ Iśvara, however, makes up his mind
 to protect the jīva  
 only after making him adopt some means or upāya for winning His protection,  
 (because the jīva is subject,  
-according to the śāstra  to the law of Karma).
+according to the śāstra,  
+to the law of Karma).
 </details>
 
 <details><summary>Español</summary>
 
-Iśvara, however, makes up his mind  
-to protect the jīva  
-only after making him adopt some means or upāya for winning His protection,  
-(because the jīva is subject,  
-according to the śāstra  to the law of Karma).
+Iśvara, sin embargo, decide  
+para proteger el jīva  
+Solo después de hacerle adoptar algunos medios o upāya por ganar su protección,  
+(porque el Jīva está sujeto,  
+según el Śāstra,  
+a la Ley del Karma).
 </details>
 
 
@@ -1992,24 +1994,43 @@ according to the śāstra  to the law of Karma).
 
 
 
-
+## उपसंहारः
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-निलैदन्द तारगनाय् नियमिक्कुम् इऱैवनुमाय्  
-इलदॊण्ड्रॆनावगैय् ऎल्लान् दनदॆनुमॆन्दैयुमाय्त्  
-तुलैयॊण्ड्रिलैयॆन निण्ड्र तुऴाय् मुडियानुडम्बाय्  
-विलैयिण्ड्रि नामडियोम् ऎण्ड्रु वेदियर्मॆय्प्पॊरुळे. (10)
+निलै-तन्द तारकन् आय्, नियमिक्कुम् इऱैवन् उम् आय्,  
+"इलद् ऒण्ड्र्" ऎन् आ-वगैय्, "ऎल्लान् तनद्" ऎनुम् ऎन्दैय् उम् आय्त्,  
+"तुलैय् ऒण्ड्र् इलैय्" ऎन निण्ड्र, तुऴाय् मुडियान् उडम्ब् आय्,  
+विलैय्+++(=??)+++ इण्ड्रि नाम् अडियोम् ऎण्ड्रु वेदियर्मॆय्प्+++(=??)+++ पॊरुळ् ए. (10)
 </details>
 
 <details><summary>English</summary>
 
-The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka Upaniṣad states this explicitly.)
+The Lord gave us our existence and is our support (dhāraka) as well;  
+He is also the unconditional Ruler that directs and controls us.  
+There is nothing that does not exist for the fulfilment of his purposes;  
+He is also our Master  
+for whom all things exist;  
+He stands alone with no one to compare with Him.  
+It is the earnest conviction of those who understand the spirit of the Vedas  
+that we are the bodies and the unconditional (or natural) servants of the Lord  
+with the crown of Tulsi leaves  
+(for the Antaryāmi Brāhmana of Brihadaranyaka Upaniṣad states this explicitly.)
 </details>
 
 <details><summary>Español</summary>
 
-The Lord gave us our existence and is our support (dhāraka) as well; He is also the unconditional Ruler that directs and controls us. There is nothing that does not exist for the fulfilment of his purposes; He is also our Master for whom all things exist; He stands alone with no one to compare with Him. It is the earnest conviction of those who understand the spirit of the Vedas that we are the bodies and the unconditional (or natural) servants of the Lord with the crown of Tulsi leaves (for the Antaryāmi Brāhmana of Brihadaranyaka Upaniṣad states this explicitly.)
+El Señor nos dio nuestra existencia, y también es nuestro apoyo (Dhāraka);  
+También es el gobernante incondicional que nos dirige y controla.  
+No hay nada  
+que no exista para el cumplimiento de sus propósitos;  
+El también es nuestro maestro  
+para quien existen todas las cosas;  
+Él está solo sin nadie para comparar con él.  
+Es la condena sincera de aquellos que entienden el espíritu de los Vedas  
+que somos los cuerpos y los sirvientes incondicionales (o naturales) del Señor  
+con la corona de las hojas de Tulsi  
+(Para el antaryāmi brāhmana de Brihadaranyaka Upaniṣad afirma esto explícitamente).
 </details>
 
 
@@ -2025,10 +2046,10 @@ The Lord gave us our existence and is our support (dhāraka) as well; He is also
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-यद्येतं यतिसार्वभौमकथितं विद्यादविद्यातमः-  
-प्रत्यूषं प्रतितन्त्रमन्तिमयुगे कश्चिद्विपश्चित्तमः ।  
-तत्रैकत्र झटित्युपैति विलयं तत्तन्मतस्थापना-  
-हेवाक-प्रथमान-हैतुक-कथा-कल्लोल-कोलाहलः ॥ ११ ॥
+यद्य् एतं यति-सार्व-भौम-कथितं **विद्याद्** अविद्यातमः-  
+प्रत्यूषं प्रतितन्त्रम् अन्तिम-युगे कश्चिद् विपश्चित्तमः ।  
+तत्रैकत्र झटित्य् **उपैति विलयं** तत्-तन्-मत-स्थापना-  
+हेवाक+++(=काङ्क्षा)+++-प्रथमान-हैतुक-कथा-कल्लोल-कोलाहलः ॥ ११ ॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -2038,7 +2059,17 @@ If, in the Kali yuga, there is any one supremely wise who can understand this un
 
 <details><summary>Español</summary>
 
-Si, en el Kali Yuga, hay alguien supremamente sabio que puede entender esta doctrina única y distintiva de la relación entre Iśvara y el mundo que entre el alma y el cuerpo, que fue enseñada por ese sannyāsin (śrī rāmānuja) yque es como el amanecer que disipa la oscuridad de la ignorancia, luego en ese lugar donde está, las ondas tumultuosas de la disputa lógica derivadas del afán de establecer las verdades de otros sistemas disminuirán de inmediato.
+Si, en el Kali Yuga, hay alguien supremamente sabio  
+que puede entender esta doctrina única y distintiva  
+de la relación entre Iśvara y el mundo  
+que entre el alma y el cuerpo,  
+que fue enseñada por ese sannyāsin (śrī rāmānuja)  
+y que es como el amanecer  
+que disipa la oscuridad de la ignorancia,  
+luego en ese lugar donde está,  
+las ondas tumultuosas de la disputa lógica  
+derivadas del afán de establecer las verdades de otros sistemas  
+disminuirán de inmediato.
 </details>
 
 
