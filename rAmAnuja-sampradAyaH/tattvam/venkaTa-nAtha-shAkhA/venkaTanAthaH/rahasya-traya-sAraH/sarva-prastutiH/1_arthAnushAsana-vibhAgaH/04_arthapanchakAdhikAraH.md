@@ -3,15 +3,76 @@ title = "०४ अर्थपञ्चकाधिकारः"
 
 +++
 
-4. THE CHAPTER ON THE FIVE THINGS THAT SHOULD BE KNOWN TO EVERY SEEKER AFTER SALVATION. page 91
+<details><summary>English</summary>
+
+4\. THE CHAPTER ON THE FIVE THINGS  
+THAT SHOULD BE KNOWN TO EVERY SEEKER AFTER SALVATION.  
+page 91
+</details>
+
+<details><summary>Español</summary>
+
+4\. THE CHAPTER ON THE FIVE THINGS  
+THAT SHOULD BE KNOWN TO EVERY SEEKER AFTER SALVATION.  
+page 91
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-आदौ प्राप्यं परममनघं प्राप्तृरूपं च मादौ  
-इष्टोपायं त्वयननमसोरीप्सितार्थं चतुर्थ्याम् ।  
-तद्व्याघातं ममकृतिगिरि व्यञ्जयन्तं मनुं तं  
-तत्प्रायं च द्वयमपि विदन् संमतस्सर्ववेदी ॥ १२ ॥
++++(ॐ नारायणाय इत्येतयोः)+++ आदौ प्राप्यं परमम् अनघं, प्राप्तृ-रूपं च म्-आदौ +++("नार" इत्यत्र च)+++,  
+इष्टोपायं त्व् +++(सिद्धोपायः→)+++अयन-+++(साध्योपायः→)+++नमसोर्, ईप्सितार्थं चतुर्थ्याम् ।  
+तद्-व्याघातं मम-कृति-गिरिं +++("न-म" इत्यत्र)+++ **व्यञ्जयन्तं मनुं** तं  
+तत्-प्रायं च द्वयम् +++(→द्वय-चरमश्लोकौ)+++ अपि **विदन् संमतस्** सर्ववेदी ॥ १२ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara,  
+the supreme end of life (i.e.) Bhagavān,  
+who is opposed to all that is objectionable or faulty, is indicated;  
+in the 'm' in 'om' and in the part 'nāra' occurring in Nārāyaṇāya,  
+the essential nature (svarūpa) of the jīva  
+who is to attain this end is disclosed;  
+the means of attainment already existing as established (siddha upāya) namely, Bhagavān,  
+is indicated in the part "ayana" occurring in Nārāyaṇa  
+and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas;  
+the fruit desired, viz., the enjoyment of Brahman which includes also service to Him  
+is disclosed in the dative or fourth case in Nārāyaṇāya;  
+the hindrance to it, namely, the feeling of 'mine'  
+is in the word mama occurring in namah (na mama ).  
+He who understands the Aṣṭākṣara mantra  
+that reveals all these five  
+and [^24] Dvayam too, which is to the same effect--  
+he will be considered by all as one who knows everything.
+
+[^24]: Dvayam may mean also the two (i.e.) Dvayam and Caramaśloka.
+</details>
+
+<details><summary>Español</summary>
+
+In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara,  
+the supreme end of life (i.e.) Bhagavān,  
+who is opposed to all that is objectionable or faulty, is indicated;  
+in the 'm' in 'om' and in the part 'nāra' occurring in Nārāyaṇāya,  
+the essential nature (svarūpa) of the jīva  
+who is to attain this end is disclosed;  
+the means of attainment already existing as established (siddha upāya) namely, Bhagavān,  
+is indicated in the part "ayana" occurring in Nārāyaṇa  
+and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas;  
+the fruit desired, viz., the enjoyment of Brahman which includes also service to Him  
+is disclosed in the dative or fourth case in Nārāyaṇāya;  
+the hindrance to it, namely, the feeling of 'mine'  
+is in the word mama occurring in namah (na mama ).  
+He who understands the Aṣṭākṣara mantra  
+that reveals all these five  
+and [^24] Dvayam too, which is to the same effect--  
+he will be considered by all as one who knows everything.
+
+[^24]: Dvayam may mean also the two (i.e.) Dvayam and Caramaśloka.
+
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -21,15 +82,22 @@ title = "०४ अर्थपञ्चकाधिकारः"
 तत्प्रायं च द्वयमपि विदन् संमतस्सर्ववेदी ॥ १२ ॥
 </details>
 
-In the 'a' in Om and in the word 'Nārāyaṇa ' occurring in aṣṭākṣara, the supreme end of life (i.e.) Bhagavān, who is opposed to all that is objectionable or faulty, is indicated; in the m in om and in the part nāra occurring in Nārāyaṇāya, the essential nature (svarūpa) of the jīva who is to attain this end is disclosed; the means of attainment already existing as established(siddha upāya) namely, Bhagavān, is indicated in the part ayana occurring in Nārāyaṇa and the means to be accomplished or adopted (sādhya upāya ), which is self-surrender, is in namas; the fruit desired, viz., the enjoyment of Brahman which includes also service to Him is disclosed in the dative or fourth case in Nārāyaṇāya; the hindrance to it, namely, the feeling of 'mine' is in the word mama occurring in namah (na mama ). He who understands the Aṣṭākṣara mantra that reveals all these five and [^24] Dvayam too, which is to the same effect--he will be considered by all as one who knows everything.
+## अर्थपञ्चकम् = अर्थषट्कम्
 
-[^24]: Dvayam may mean also the two (i.e.) Dvayam and Caramaśloka.
+<details><summary>English</summary>
 
-THERE IS NO REAL DIFFERENCE BETWEEN THOSE
+THERE IS NO REAL DIFFERENCE BETWEEN  
+THOSE WHO SPEAK OF FIVE THINGS  
+AND THOSE WHO SPEAK OF SIX.
+</details>
 
-WHO SPEAK OF FIVE THINGS AND THOSE
+<details><summary>Español</summary>
 
-WHO SPEAK OF SIX.
+THERE IS NO REAL DIFFERENCE BETWEEN  
+THOSE WHO SPEAK OF FIVE THINGS  
+AND THOSE WHO SPEAK OF SIX.
+</details>
+
 
 In the words Nārāyaṇa and in om, the relationship between Iśvara and the jīva is revealed as that between the soul and the body. Having taken this relationship as the foundation or basis of the Viśiṣṭādvaita system, some investigated the five truths that should be known to everyone who desires mokṣa . Others took this relationship also as one of the things to be known and hence spoke of the six things to be known. If it be asked what the five things are that should be understood by the seeker after mokṣa  along with the relationship itself, the answer is as follows: "The nature[^f54] of "the end to be attained ” vis. Brahman, the nature of the individual self who is the seeker of the attainment, the means of attainment (upāya), the fruit resulting from it and so also the hindrances to the attainment of Brahman - all the Vedas with their (elucidatory) itihāsās and purānās speak of these five,"
 
