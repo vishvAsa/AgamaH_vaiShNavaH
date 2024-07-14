@@ -1885,11 +1885,114 @@ Esta gloria consiste en el disfrute del servicio, que es su puruṣārtha.
 इप्पडि शेषित्वत्ताले वन्द ईश्वरनुडैय अतिशययोगमुम् स्वामित्वमागिऱ विशेषत्ताले अवनुक्कु पुरुषार्थमाय् फलिक्किऱदु.  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चेतनर्-उडैय **रक्षणत्तिल्** ईश्वरन्  
+प्राप्तनुम् आय्, शक्तनुम् आय्,  
+
+तद्-अधीन-प्रवृत्तियैय्-ऒऴिय चेतनर्  
+अ-प्राप्तर् उम् आय्, अशक्तर् उम् आय् इरुक्कैक्कु निबन्धनम् -  
+
+ईश्वरन्-उडैय निरुपाधिक-शेषित्वम् उम्, **निरुपाधिक-नियन्तृत्वम्** उम्;  
+इवर्गळ्-उडैय निरुपाधिक-शेषत्वम् उम्, **निरुपाधिक-नियाम्यत्वम्** उम्.  
+</details>
+
+<details><summary>English</summary>
+
+Iśvara is responsible for the protection of His servants  
+and has also the power to do so,  
+whereas the jīva or Cetana is not responsible for his own protection  
+nor has he the ability to protect himself.  
+
+This is due to Iśvara being the unconditional (nirupadhika) śeṣī  
+and the unconditional Director and Ruler,  
+Owing to their being the unconditional śeṣas  
+and their being subject unconditionally to His control.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara is responsible for the protection of His servants  
+and has also the power to do so,  
+whereas the jīva or Cetana is not responsible for his own protection  
+nor has he the ability to protect himself.  
+
+This is due to Iśvara being the unconditional (nirupadhika) śeṣī  
+and the unconditional Director and Ruler,  
+Owing to their being the unconditional śeṣas  
+and their being subject unconditionally to His control.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चेतनरुडैय रक्षणत्तिल् ईश्वरन् प्राप्तनुमाय् शक्तनुमाय्,  
+तदधीन-प्रवृत्तियैयॊऴिय चेतनर् अप्राप्तरुमाय् अशक्तरुमायिरुक्कैक्कु निबन्धनम्, ईश्वरनुडैय निरुपाधिक-शेषित्वमुम्, निरुपाधिक-नियन्तृत्वमुम्; इवर्गळुडैय निरुपाधिक-शेषत्वमुम्, निरुपाधिक-नियाम्यत्वमुम्.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उडैयवन् उडैमैयै रक्षिक्कैय् उम्  
+समर्थन् असमर्थनै रक्षिक्कैय् उम् प्राप्तम् इऱे.  
+</details>
+
+<details><summary>English</summary>
+
+it becomes, indeed, the responsibility of the owner  
+to protect what belongs to Him  
+and of the strong to protect the weak.  
+</details>
+
+<details><summary>Español</summary>
+
+it becomes, indeed, the responsibility of the owner  
+to protect what belongs to Him  
+and of the strong to protect the weak.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उडैयवन् उडैमैयै रक्षिक्कैयुम् समर्थन् असमर्थनै रक्षिक्कैयुम् प्राप्तमिऱे.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रक्षिक्कुम्-पोदु कर्म-वश्यरै  
+ऒरु उपायत्तिल् ए मूट्टि रक्षिक्कै  
+ईश्वरनुक्कु स्व-सङ्कल्प-नियतम्.+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Iśvara, however, makes up his mind  
+to protect the jīva  
+only after making him adopt some means or upāya for winning His protection,  
+(because the jīva is subject,  
+according to the śāstra  to the law of Karma).
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara, however, makes up his mind  
+to protect the jīva  
+only after making him adopt some means or upāya for winning His protection,  
+(because the jīva is subject,  
+according to the śāstra  to the law of Karma).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रक्षिक्कुम्-पोदु कर्मवश्यरै ऒरु उपायत्तिले मूट्टि रक्षिक्कै ईश्वरनुक्कु स्वसङ्कल्पनियतम्.
+</details>
 
 
 
 
-Iśvara is responsible for the protection of His servants and has also the power to do so, whereas the jīva or Cetana is not responsible for his own protection nor has he the ability to protect himself. This is due to Iśvara being the unconditional (nirupadhika) śeṣī and the unconditional Director and Ruler. Owing to their being the unconditional śeṣas and their being subject unconditionally to His control, it becomes, indeed, the responsibility of the owner to protect what belongs to Him and of the strong to protect the weak. Iśvara, however, makes up his mind to protect the jīva only after making him adopt some means or upāya for winning His protection, (because the jīva is subject, according to the śāstra  to the law of Karma).
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
