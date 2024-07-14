@@ -1670,11 +1670,12 @@ IN REGARD TO BEINGS ENDOWED WITH INTELLI GENCE, ŚEṣATVA MEANS DĀSATVA
 IN REGARD TO BEINGS ENDOWED WITH INTELLI GENCE, ŚEṣATVA MEANS DĀSATVA
 </details>
 
+### साधारण-विशेषौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवट्रिल् ईश्वरनुक्कु प्रकाशित्त शेषित्वं  
-चेतनाचेतन-साधारण-धर्मम् आगैयाल् ए,  
-चेतनैकान्तम् आन स्वामित्वम् आगिऱ विशेषत्तिल् ए पर्यवसिप्पित्तु अनुसन्धिक्कप् प्राप्तम्.  
+इवट्रिल् ईश्वरनुक्कु प्रकाशित्त **शेषित्वं**  
+चेतनाचेतन-**साधारण**-धर्मम् आगैयाल् ए,  
+चेतनैकान्तम् आन **स्वामित्वम्** आगिऱ **विशेषत्तिल्** ए पर्यवसिप्पित्तु अनुसन्धिक्कप् प्राप्तम्.  
 </details>
 
 <details><summary>English</summary>
@@ -1716,9 +1717,9 @@ Y esta es la forma en que debemos entender mientras pronunciamos los mantrās.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडित् तन्न्-उडैय शेषत्वम् उम्  
-सामान्यम् आगैयाल् ए  
-दासत्वम् आगिऱ विशेषत्तिल् ए विश्रमिप्पित्तु अनुसन्धिक्क-वेणुम्.  
+इप्-पडित् तन्न्-उडैय **शेषत्वम्** उम्  
+**सामान्यम्** आगैयाल् ए  
+**दासत्वम् आगिऱ विशेषत्तिल्** ए विश्रमिप्पित्तु अनुसन्धिक्क-वेणुम्.  
 </details>
 
 <details><summary>English</summary>
@@ -1741,10 +1742,11 @@ Pero somos Śeṣas en el sentido especial también de ser sus siervos (dāsāh)
 इप्पडित् तन्नुडैय शेषत्वमुम् सामान्यमागैयाले दासत्वमागिऱ विशेषत्तिले विश्रमिप्पित्तु अनुसन्धिक्कवेणुम्.  
 </details>
 
+### अभिधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवट्रिल् सामान्यम् आन शेष-शेषि-भावम्  
-प्रथमाक्षरत्तिल्+++(→अकारः)+++ चतुर्थियाले प्रकाश्यम्.
+इवट्रिल् सामान्यम् आन **शेष-शेषि-भावम्**  
+प्रथमाक्षरत्तिल्+++(→अकारः)+++ **चतुर्थियाल्** ए प्रकाश्यम्.
 </details>
 
 <details><summary>English</summary>
@@ -1758,12 +1760,11 @@ It means for 'a' or 'Bhagavān'.
 
 <details><summary>Español</summary>
 
-The ordinary relationship of Śeṣa and śeṣin between the jīva and Bhagavān  
-is disclosed in the first syllable of the aṣṭākṣara, viz, aum  
-where the a, the first member, is in the dative case ‘aya’,  
-though the termination has dropped.  
-It means for 'a' or 'Bhagavān'.  
-
+La relación ordinaria de Śeṣa y Śeṣin entre Jīva y Bhagavān  
+se revela en la primera sílaba del aṣṭākṣara, a saber, aum  
+donde el "A", el primer miembro, está en el caso dativo "aya",  
+Aunque la terminación ha caído.  
+Significa - para 'a' o 'bhagavān'.
 </details>
 
 
@@ -1774,8 +1775,8 @@ It means for 'a' or 'Bhagavān'.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदिन् विशेषम् आन दासत्व-स्वामित्वङ्गळ्  
-इरुवर् उम् चेतनर् आय्त् तोट्रुगैयाल् ए अर्थ-सिद्धम्.
+इदिन् विशेषम् आन **दासत्व-स्वामित्वङ्गळ्**  
+इरुवर् उम् चेतनर् आय्त् तोट्रुगैयाल् ए **अर्थ-सिद्धम्**.
 </details>
 
 <details><summary>English</summary>
@@ -1788,10 +1789,10 @@ is revealed in the purport or implication.
 
 <details><summary>Español</summary>
 
-The specific form of being śeṣas  
-which applies only to jīvas (and not to non-sentient things )  
-and which is really being the servants of the Lord ( dāsas) and of His being the Swami or Master  
-is revealed in the purport or implication.
+La forma específica de ser Śeṣas  
+que se aplica solo a Jīvas (y no a cosas no sensibles)  
+y que realmente es ser los siervos del Señor (dāsas) y de ser el swami o maestro  
+se revela en el significado o la implicación.
 </details>
 
 
@@ -1802,7 +1803,7 @@ is revealed in the purport or implication.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्--पडि नारायण-शब्दत्तिल् उम्  
+इप्--पडि **नारायण-शब्दत्तिल्** उम्  
 सामान्यम् उम्, विशेषम् उम् कण्डु-गॊळ्वदु.+++(5)+++
 </details>
 
@@ -1815,9 +1816,9 @@ and the specific relationship of Swami or Master which obtains in the case of ji
 
 <details><summary>Español</summary>
 
-So also in the word 'Nārāyaṇāya'  
-there is the general relationship of the seshin towards all things  
-and the specific relationship of Swami or Master which obtains in the case of jivās. 
+Así también en la palabra 'nārāyaṇāya'  
+Existe la relación general de el seshin hacia todas las cosas.  
+y la relación específica de Swami o Master que se obtiene en el caso de Jivās.
 </details>
 
 
@@ -1826,11 +1827,69 @@ and the specific relationship of Swami or Master which obtains in the case of ji
 इप्पडि नारायणशब्दत्तिलुम् सामान्यमुम् विशेषमुम् कण्डुगॊळ्वदु.
 </details>
 
+### पुरुषार्थ-प्राप्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् सामान्यम् आन शेषत्वत्ताल् ए  
+चेतननुक्कुप् प्राप्तम् आन **किञ्चित्-कारम्**+++(=प्रयोज्यता)+++  
+दासत्वम् आगिऱ विशेषत्ताल् ए  
+कैङ्कर्य-रूपम् आन **पुरुषार्थम्** आयिट्रु.
+</details>
+
+<details><summary>English</summary>
+
+Here the goal of usefulness to the Lord,  
+which is the result of the general attitude of the śeṣa,  
+becomes the goal of service or kaiṅkarya to the Lord,  
+owing to the jīva being His servant or dāsa. 
+</details>
+
+<details><summary>Español</summary>
+
+Aquí el objetivo de la utilidad para el Señor,  
+Cuál es el resultado de la actitud general del Śeṣa,  
+se convierte en el objetivo del servicio o Kaiṅkarya para el Señor,  
+Debido a que el Jīva es su sirviente o dāsa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् सामान्यमान शेषत्वत्ताले चेतननुक्कुप् प्राप्तमान किञ्चित्कारम् दासत्वमागिऱ विशेष त्ताले कैङ्कर्यरूपमान पुरुषार्थमायिट्रु.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि शेषित्वत्ताल् ए वन्द ईश्वरन्-उडैय अतिशय-योगम् उम्  
+**स्वामित्वम्** आगिऱ विशेषत्ताल् ए  
+अवनुक्कु +++(सेवा-भोगः)+++ **पुरुषार्थम्** आय् फलिक्किऱदु.+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+Thus by being the śeṣin,  
+Iśvara attains a unique glory and as a consequence of His being the Swami or Master,  
+this glory consists in the enjoyment of service which is His puruṣārtha.  
+</details>
+
+<details><summary>Español</summary>
+
+Así por ser el Śeṣin,  
+Iśvara alcanza una gloria única y, como consecuencia de que es el Swami o el Maestro,  
+Esta gloria consiste en el disfrute del servicio, que es su puruṣārtha.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि शेषित्वत्ताले वन्द ईश्वरनुडैय अतिशययोगमुम् स्वामित्वमागिऱ विशेषत्ताले अवनुक्कु पुरुषार्थमाय् फलिक्किऱदु.  
+</details>
 
 
 
 
-Here the goal of usefulness to the Lord, which is the result of the general attitude of the śeṣa, becomes the goal of service or kaiṅkarya to the Lord, owing to the jīva being His servant or dāsa. Thus by being the śeṣin, Iśvara attains a unique glory and as a consequence of His being the Swami or Master, this glory consists in the enjoyment of service which is His puruṣārtha. Iśvara is responsible for the protection of His servants and has also the power to do so, whereas the jīva or Cetana is not responsible for his own protection nor has he the ability to protect himself. This is due to Iśvara being the unconditional (nirupadhika) śeṣī and the unconditional Director and Ruler. Owing to their being the unconditional śeṣas and their being subject unconditionally to His control, it becomes, indeed, the responsibility of the owner to protect what belongs to Him and of the strong to protect the weak. Iśvara, however, makes up his mind to protect the jīva only after making him adopt some means or upāya for winning His protection, (because the jīva is subject, according to the śāstra  to the law of Karma).
+
+Iśvara is responsible for the protection of His servants and has also the power to do so, whereas the jīva or Cetana is not responsible for his own protection nor has he the ability to protect himself. This is due to Iśvara being the unconditional (nirupadhika) śeṣī and the unconditional Director and Ruler. Owing to their being the unconditional śeṣas and their being subject unconditionally to His control, it becomes, indeed, the responsibility of the owner to protect what belongs to Him and of the strong to protect the weak. Iśvara, however, makes up his mind to protect the jīva only after making him adopt some means or upāya for winning His protection, (because the jīva is subject, according to the śāstra  to the law of Karma).
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
