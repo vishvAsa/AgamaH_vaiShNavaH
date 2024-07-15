@@ -99,9 +99,9 @@ AND THOSE WHO SPEAK OF SIX.
 
 <details><summary>Español</summary>
 
-THERE IS NO REAL DIFFERENCE BETWEEN  
-THOSE WHO SPEAK OF FIVE THINGS  
-AND THOSE WHO SPEAK OF SIX.
+No hay diferencia real entre  
+Los que hablan de cinco cosas  
+Y los que hablan de seis.
 </details>
 
 
