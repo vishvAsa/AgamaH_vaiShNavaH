@@ -10,6 +10,8 @@ THAT SHOULD BE KNOWN TO EVERY SEEKER AFTER SALVATION.
 page 91
 </details>
 
+## अर्थपञ्चकम्
+
 <details><summary>Español</summary>
 
 4 \.El capítulo sobre las cinco cosas  
@@ -19,10 +21,10 @@ Eso debería ser conocido por cada buscador después de la salvación.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-+++(ॐ नारायणाय इत्येतयोः)+++ आदौ प्राप्यं परमम् अनघं, प्राप्तृ-रूपं च म्-आदौ +++("नार" इत्यत्र च)+++,  
-इष्टोपायं त्व् +++(सिद्धोपायः→)+++अयन-+++(साध्योपायः→)+++नमसोर्, ईप्सितार्थं चतुर्थ्याम् ।  
-तद्-व्याघातं मम-कृति-गिरिं +++("न-म" इत्यत्र)+++ **व्यञ्जयन्तं मनुं** तं  
-तत्-प्रायं च द्वयम् +++(→द्वय-चरमश्लोकौ)+++ अपि **विदन् संमतस्** सर्ववेदी ॥ १२ ॥+++(5)+++
++++(ॐ, नारायण [←नारः ←न रिष्यत इति नरः ब्रह्म] →)+++ अ+आदौ _प्राप्यं_ परमम् अनघं, _प्राप्तृ_-रूपं च म्-आदौ +++("नरः जीवः → नार" इत्यत्र च)+++,  
+_इष्टोपायं_ त्व् +++(गृहार्थे सिद्धोपायः, उपायार्थे साध्योपायः→)+++अयन-+++(साध्योपायः→)+++नमसोर्, _ईप्सितार्थं_ +++(कैङ्कर्यं)+++ चतुर्थ्याम् ।  
+तद्+++(→पुरुषार्थ)+++-व्याघातं मम-कृति-गिरिं +++("न-म" इत्यत्र)+++ **व्यञ्जयन्तं मनुं** तं +++(अष्टाक्षरं)+++  
+तत्-प्रायं च द्वयम् +++(→द्वय-चरमश्लोकौ)+++ अपि+++(←चरमश्लोकम् अन्तरा)+++ **विदन् संमतस्** सर्व-वेदी ॥ १२ ॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -88,7 +90,7 @@ Será considerado por todos como alguien que lo sabe todo.
 तत्प्रायं च द्वयमपि विदन् संमतस्सर्ववेदी ॥ १२ ॥
 </details>
 
-## अर्थपञ्चकम् = अर्थषट्कम्
+### अर्थपञ्चकम् = अर्थषट्कम्
 
 <details><summary>English</summary>
 
@@ -105,19 +107,253 @@ Y los que hablan de seis.
 </details>
 
 
-In the words Nārāyaṇa and in om, the relationship between Iśvara and the jīva is revealed as that between the soul and the body. Having taken this relationship as the foundation or basis of the Viśiṣṭādvaita system, some investigated the five truths that should be known to everyone who desires mokṣa . Others took this relationship also as one of the things to be known and hence spoke of the six things to be known. If it be asked what the five things are that should be understood by the seeker after mokṣa  along with the relationship itself, the answer is as follows: "The nature[^f54] of "the end to be attained ” vis. Brahman, the nature of the individual self who is the seeker of the attainment, the means of attainment (upāya), the fruit resulting from it and so also the hindrances to the attainment of Brahman - all the Vedas with their (elucidatory) itihāsās and purānās speak of these five,"
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नारायण+आदि+++(=ॐ)+++-शब्दङ्गळिल् ए विवक्षितम् आन +++(आत्म-जीव)+++संबन्ध-विशेषत्तै  
+सिद्धान्तत्तुक्कुत् तळम् आक्कि+++(=कारयित्वा)+++  
+इत्तै अनुबन्धित्त् इरुक्कुम् +++(श्लोकोक्त-)+++अर्थ-पञ्चकत्तै सिलर् विचारित्तार्गळ्.
+</details>
+
+<details><summary>English</summary>
+
+In the words Nārāyaṇa and in om,  
+the relationship between Iśvara and the jīva is revealed  
+as that between the soul and the body.  
+Having taken this relationship as the foundation or basis of the Viśiṣṭādvaita system,  
+some investigated the five truths that should be known to everyone who desires mokṣa . 
+</details>
+
+<details><summary>Español</summary>
+
+In the words Nārāyaṇa and in om,  
+the relationship between Iśvara and the jīva is revealed  
+as that between the soul and the body.  
+Having taken this relationship as the foundation or basis of the Viśiṣṭādvaita system,  
+some investigated the five truths that should be known to everyone who desires mokṣa .
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नारायणादिशब्दङ्गळिले विवक्षितमान संबन्धविशेषत्तै सिद्धान्तत्तुक्कुत् तळमाक्कि इत्तै अनुबन्धित्तिरुक्कुम् अर्थपञ्चकत्तै सिलर् विचारित्तार्गळ्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस्-+++(शरीरात्म-)+++संबन्धत्त्-ओड् ए  
+कूड षड्-अर्थङ्गळ् ऎण्ड्रु सिलर् +++(सोमाश्य्-आण्डान्-निभाः)+++ अनुसन्धित्तार्गळ्.
+</details>
+
+<details><summary>English</summary>
+
+Others took this relationship also as one of the things to be known and hence spoke of the six things to be known.
+</details>
+
+<details><summary>Español</summary>
+
+Others took this relationship also as one of the things to be known and hence spoke of the six things to be known.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इस्संबन्धत्तोडे कूड षडर्थङ्गळॆण्ड्रु सिलर् अनुसन्धित्तार्गळ्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस् संबन्धम् पोल् ए  
+मुमुक्षुवुक्कु विशेषित्त् अऱिय वेण्डुवद् आगच् शेर्त्त+++(←प्रेरणार्थरूपम्)+++ अर्थ-पञ्चकम् ऎद् ऎन्निल् …
+</details>
+
+<details><summary>English</summary>
+
+If it be asked what the five things are  
+that should be understood by the seeker after mokṣa   
+along with the relationship itself,  
+the answer is as follows:  
+
+</details>
+
+<details><summary>Español</summary>
+
+If it be asked what the five things are  
+that should be understood by the seeker after mokṣa   
+along with the relationship itself,  
+the answer is as follows:  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस् संबन्धम्पोले मुमुक्षुवुक्कु विशेषित्तऱिय वेण्डुवदागच् चेर्त्त अर्थपञ्चकम् ऎदॆन्निल्
+</details>
+
+### हारित-स्मृतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “प्राप्यस्य ब्रह्मणो रूपं  
+> प्राप्तुश्च प्रत्यग्-आत्मनः ।  
+> प्राप्त्य्-उपायं फलं चैव  
+> तथा प्राप्ति-विरोधि च ॥  
+> वदन्ति सकला वेदास्  
+> सेतिहासपुराणकाः ॥”
+> 
+> (हारीतसंहितै) 
+
+ऎण्ड्रु सॊल्लप्-पट्टन.  
+</details>
+
+<details><summary>English</summary>
+
+> "The nature[^f54] of "the end to be attained ” vis. Brahman,  
+> the nature of the individual self who is the seeker of the attainment,  
+> the means of attainment (upāya),  
+> the fruit resulting from it  
+> and so also the hindrances to the attainment of Brahman -  
+> all the Vedas with their (elucidatory) itihāsās and purānās speak of these five,"
 
 [^f54]: Harita samhita
 
+</details>
+
+<details><summary>Español</summary>
+
+> "The nature[^f54] of "the end to be attained ” vis. Brahman,  
+> the nature of the individual self who is the seeker of the attainment,  
+> the means of attainment (upāya),  
+> the fruit resulting from it  
+> and so also the hindrances to the attainment of Brahman -  
+> all the Vedas with their (elucidatory) itihāsās and purānās speak of these five,"
+
+[^f54]: Harita samhita
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“प्राप्यस्य ब्रह्मणो रूपं प्राप्तुश्च प्रत्यगात्मनः । प्राप्त्युपायं फलं चैव तथा प्राप्तिविरोधि च ॥ वदन्ति सकला वेदास्सेतिहासपुराणकाः ॥”(हारीतसंहितै) ऎण्ड्रु सॊल्लप्पट्टन.  
+</details>
+
+
+## प्राप्यम्
+<details><summary>English</summary>
+
 BRAHMAN, THE END TO BE ATTAINED:
+</details>
+
+<details><summary>Español</summary>
+
+BRAHMAN, THE END TO BE ATTAINED:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् प्राप्यमान ब्रह्मत्तिन्-उडैय स्वरूपम्  
+तिरुमन्त्रत्तिल् प्रथमाक्षरत्तिल् +++(→अकारतः)+++ उम्  
+नारायण-शब्दत्तिल् उम्,  
+द्वयत्तिल् +++("श्रीमन्" इति)+++ स-विशेषणङ्गळ् आन नारायण शब्दङ्गळिल् उम्,  
+चरम-श्लोकत्तिल् ‘माम्’ ‘अहम्’ ऎन्गिऱ पदङ्गळिल् उम् अनुसन्धेयम्.
+</details>
+
+<details><summary>English</summary>
+
+Among these, the essential nature of Brahman,  
+which is the object of attainment,  
+is revealed in the first letter a in om  
+and in the word 'Nārāyaṇa ' in Tirumantra  
+and in the words Nārāyaṇa with the adjectives 'Śrīman' occurring in Dvayam  
+and in the words 'me' and 'I' occurring in the Carama śloka .  
+It is in this way that they should be considered. 
+</details>
+
+<details><summary>Español</summary>
+
+Among these, the essential nature of Brahman,  
+which is the object of attainment,  
+is revealed in the first letter a in om  
+and in the word 'Nārāyaṇa ' in Tirumantra  
+and in the words Nārāyaṇa with the adjectives 'Śrīman' occurring in Dvayam  
+and in the words 'me' and 'I' occurring in the Carama śloka .  
+It is in this way that they should be considered. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् प्राप्यमान ब्रह्मत्तिनुडैय स्वरूपम् तिरुमन्त्रत्तिल् प्रथमाक्षरत्तिलुम् नारायणशब्दत्तिलुम्, 
+द्वयत्तिल् सविशेषणङ्गळान नारायण शब्दङ्गळिलुम्,  
+चरमश्लोकत्तिल् ‘माम्’ ‘अहम्’ ऎन्गिऱ पदङ्गळिलुमनुसन्धेयम्.
+</details>
+
+
+
+<details><summary>English</summary>
 
 ITS SVARUPA:
+</details>
 
-Among these, the essential nature of Brahman, which is the object of attainment, is revealed in the first letter a in om and in the word 'Nārāyaṇa ' in Tirumantra and in the words Nārāyaṇa with the adjectives 'Śrīman' occurring in Dvayam and in the words 'me' and 'I' occurring in the Carama śloka . It is in this way that they should be considered. While doing so, one should think of His essential nature (svarūpa) as infinite jñāna and infinite bliss ever inseparable from His consort, Lakṣmī , who, in every form and in all situations, participates in all His actions. For there are many authoritative passages in support of this prescribed contemplation -
+<details><summary>Español</summary>
 
-“The Lord of the [^f55] Universe is ever with Lakṣmī  in Vaikuṇṭha, the world beyond” (Here the reference is to the Supreme Lord (Para) in Vaikuṇṭha.)
+ITS SVARUPA:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्विडङ्गळिल् अनुसन्धिक्कुम् पोदु  
+</details>
+
+<details><summary>English</summary>
+
+While doing so, 
+</details>
+
+<details><summary>Español</summary>
+
+While doing so, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अव्विडङ्गळिल् अनुसन्धिक्कुम् पोदु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“श्रिया सार्धं जगत्पतिः” (लैङ्ग पुराणम्)
+</details>
+
+<details><summary>English</summary>
+
+“The Lord of the [^f55] Universe is ever with Lakṣmī   
+in Vaikuṇṭha, the world beyond”  
+(Here the reference is to the Supreme Lord (Para) in Vaikuṇṭha.)
 
 [^f55]: Lingapurāṇa
+</details>
+
+<details><summary>Español</summary>
+
+“The Lord of the [^f55] Universe is ever with Lakṣmī   
+in Vaikuṇṭha, the world beyond”  
+(Here the reference is to the Supreme Lord (Para) in Vaikuṇṭha.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रिया सार्धं जगत्पतिः” (लैङ्ग पुराणम्)
+</details>
+
+
+
+one should think of His essential nature (svarūpa) as infinite jñāna and infinite bliss ever inseparable from His consort, Lakṣmī , who, in every form and in all situations, participates in all His actions.  
+(For there are many authoritative passages in support of this prescribed contemplation -)
+
+
 
 “This [^f56] Nārāyaṇa  is always with Śrī-- Nārāyaṇa  whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adiśeṣa)" (The reference is here to the Vyūha) “Thou[^f57] art the God Nārāyaṇa , the spouse of Śrī and hast the Chakra is Thy weapon and Thou art omnipresent". (The reference is to the Vibhava or avatāra.)
 
