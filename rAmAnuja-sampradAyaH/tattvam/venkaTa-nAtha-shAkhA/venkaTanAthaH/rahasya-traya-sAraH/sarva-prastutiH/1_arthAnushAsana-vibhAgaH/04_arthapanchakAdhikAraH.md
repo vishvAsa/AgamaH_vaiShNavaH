@@ -125,11 +125,14 @@ some investigated the five truths that should be known to everyone who desires m
 
 <details><summary>Español</summary>
 
-In the words Nārāyaṇa and in om,  
-the relationship between Iśvara and the jīva is revealed  
-as that between the soul and the body.  
-Having taken this relationship as the foundation or basis of the Viśiṣṭādvaita system,  
-some investigated the five truths that should be known to everyone who desires mokṣa .
+En las palabras nārāyaṇa y en om,  
+Se revela la relación entre Iśvara y el Jīva  
+como eso entre el alma y el cuerpo.  
+Habiendo tomado esta relación  
+como la base o la base del sistema Viśiṣṭādvaita,  
+Algunos investigaron las cinco verdades  
+que deberían ser conocidas por todos  
+los que desean mokṣa.
 </details>
 
 
@@ -152,7 +155,9 @@ Others took this relationship also as one of the things to be known and hence sp
 
 <details><summary>Español</summary>
 
-Others took this relationship also as one of the things to be known and hence spoke of the six things to be known.
+Otros tomaron esta relación  
+también como una de las cosas a conocer  
+y, por lo tanto, hablaron de las seis cosas a conocer.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -177,11 +182,11 @@ the answer is as follows:
 
 <details><summary>Español</summary>
 
-If it be asked what the five things are  
-that should be understood by the seeker after mokṣa   
-along with the relationship itself,  
-the answer is as follows:  
-
+Si se le pregunta cuáles son las cinco cosas  
+que debe ser entendido  
+por el buscador de mokṣa  
+junto con la relación en sí,  
+La respuesta es la siguiente:
 </details>
 
 
@@ -220,15 +225,12 @@ the answer is as follows:
 
 <details><summary>Español</summary>
 
-> "The nature[^f54] of "the end to be attained ” vis. Brahman,  
-> the nature of the individual self who is the seeker of the attainment,  
-> the means of attainment (upāya),  
-> the fruit resulting from it  
-> and so also the hindrances to the attainment of Brahman -  
-> all the Vedas with their (elucidatory) itihāsās and purānās speak of these five,"
-
-[^f54]: Harita samhita
-
+> "La naturaleza [^f54] de "el fin a alcanzar", es decir, Brahmán,  
+> La naturaleza del yo individual que es el buscador del logro,  
+> Los medios de logro (upāya),  
+> la fruta resultante de ella  
+> Y así también los obstáculos para el logro de Brahman -  
+> Todos los Vedas con sus (elucidatorios) Itihāsās y Purānās hablan de estos cinco ".
 </details>
 
 
@@ -246,7 +248,7 @@ BRAHMAN, THE END TO BE ATTAINED:
 
 <details><summary>Español</summary>
 
-BRAHMAN, THE END TO BE ATTAINED:
+Brahman, el final a alcanzar:
 </details>
 
 
@@ -272,13 +274,13 @@ It is in this way that they should be considered.
 
 <details><summary>Español</summary>
 
-Among these, the essential nature of Brahman,  
-which is the object of attainment,  
-is revealed in the first letter a in om  
-and in the word 'Nārāyaṇa ' in Tirumantra  
-and in the words Nārāyaṇa with the adjectives 'Śrīman' occurring in Dvayam  
-and in the words 'me' and 'I' occurring in the Carama śloka .  
-It is in this way that they should be considered. 
+Entre estos, la naturaleza esencial de Brahman,  
+cual es el objeto de logro,  
+se revela en la primera letra A en OM  
+y en la palabra 'nārāyaṇa' en Tirumantra  
+y en las palabras nārāyaṇa con los adjetivos 'Śrīman' que ocurren en Dvayam  
+y en las palabras 'mi' y 'yo' ocurriendo en el carama Śloka.  
+Es de esta manera que deben ser considerados.
 </details>
 
 
@@ -290,6 +292,7 @@ It is in this way that they should be considered.
 </details>
 
 
+## श्री-साहित्यम्
 
 <details><summary>English</summary>
 
@@ -298,7 +301,7 @@ ITS SVARUPA:
 
 <details><summary>Español</summary>
 
-ITS SVARUPA:
+Su swaroopa:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -313,7 +316,7 @@ While doing so,
 
 <details><summary>Español</summary>
 
-While doing so, 
+Mientras lo hace,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -337,9 +340,9 @@ in Vaikuṇṭha, the world beyond”
 
 <details><summary>Español</summary>
 
-“The Lord of the [^f55] Universe is ever with Lakṣmī   
-in Vaikuṇṭha, the world beyond”  
-(Here the reference is to the Supreme Lord (Para) in Vaikuṇṭha.)
+"El señor del universo [^f55] está siempre con Lakṣmī   
+En Vaikuṇṭha, el mundo más allá "  
+(Aquí la referencia es al Señor Supremo ("para") en Vaikuṇṭha.)
 </details>
 
 
@@ -348,68 +351,457 @@ in Vaikuṇṭha, the world beyond”
 “श्रिया सार्धं जगत्पतिः” (लैङ्ग पुराणम्)
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+“एष नारायणः श्रीमान्” (हरिवंशम् 113.62)
+</details>
 
-one should think of His essential nature (svarūpa) as infinite jñāna and infinite bliss ever inseparable from His consort, Lakṣmī , who, in every form and in all situations, participates in all His actions.  
-(For there are many authoritative passages in support of this prescribed contemplation -)
+<details><summary>English</summary>
 
-
-
-“This [^f56] Nārāyaṇa  is always with Śrī-- Nārāyaṇa  whose abode is the ocean of milk. He has now come to the city of Madhura leaving His bed (Adiśeṣa)" (The reference is here to the Vyūha) “Thou[^f57] art the God Nārāyaṇa , the spouse of Śrī and hast the Chakra is Thy weapon and Thou art omnipresent". (The reference is to the Vibhava or avatāra.)
+“This [^f56] Nārāyaṇa  is always with Śrī--  
+Nārāyaṇa  whose abode is the ocean of milk.  
+He has now come to the city of Madhura leaving His bed (Adiśeṣa)"  
+(The reference is here to the Vyūha) 
 
 [^f56]: Harivamsa: 113-62
+</details>
+
+<details><summary>Español</summary>
+
+“Esto [^f56] Nārāyaṇa siempre está con Śrī--  
+Nārāyaṇa cuya morada es el océano de la leche.  
+Ahora ha venido a la ciudad de Madhura  
+dejando su cama (adiśeṣa) "  
+(La referencia está aquí al Vyūha)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“एष नारायणः श्रीमान्” (हरिवंशम् 113.62)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“भवान्नारायणो देवः  
+श्रीमांश्चक्रधरो विभुः”  
+(रामायणम् युद्धकाण्डम् 120-13)  
+</details>
+
+<details><summary>English</summary>
+
+“Thou[^f57] art the God Nārāyaṇa ,  
+the spouse of Śrī and hast the Chakra is Thy weapon  
+and Thou art omnipresent".  
+(The reference is to the Vibhava or avatāra.)
 
 [^f57]: Rāmāyaṇa: Yuddhakāṇḍa 120-13,
+</details>
 
-“ Bhagavān has the [^f58] mole, ŚrīVatsa, on His chest and Śrī is with Him eternally." "Lakṣmī  is [^f59] ever inseparable from Viṣṇu ." "He (Lakṣmaṇa) [^f60] said as follows to Rāma in the presence of Sītā". (Here Śrī is indicated as purushakāra). "The renowned [^f61] Lakṣmaṇa spoke thus to Sītā and to Rāma who had the great vow (of protecting His suppliants)". (Here Śrī is indicated in the state of Her being the upāya). “This Sītā[^f62] is capable of protecting this host of Rākṣasis from (the anger of) Raghava." (Here and in the next passage, Śrī is indicated as the upāya) "I will be [^f63] your protector" ( Sītā's words to the Rākṣasis ). "You will [^f64] enjoy yourself on the slopes of the hills with Sītā and, whether you are asleep or awake, I will render service to you" (says Lakṣmaṇa): (Here is the prayer for the fruit, namely, kaiṅkarya ). "He is [^f65] seated on the serpent Ananta ( Śeṣa), along with her (Lakṣmī)”; “When [^f66] shall I become their eternal
+<details><summary>Español</summary>
 
-[^f58]: Rāmāyaṇa : Yuddha kāṇḍa 114-15
+"Tú [^f57] Art el dios nārāyaṇa,  
+El cónyuge de Śrī  
+y tiene el chakra es tu arma  
+y eres omnipresente ".  
+(La referencia es a Vibhava o Avatāra.)
+</details>
 
-[^f59]: Viṣṇu  purāṇa 1-18-17
 
-[^f60]: Rāmāyaṇa: Aranyakāṇḍa 15-6
+<details><summary>मूलम्</summary>
 
-[^f61]:Rāmāyaṇa: Ayodhyakāṇḍa 31-2
+“भवान्नारायणो देवः श्रीमांश्चक्रधरो विभुः”(रामायणम् युद्धकाण्डम् 120-13)  
+</details>
 
-[^f62]: Rāmāyaṇa: Sundarakāṇḍa 58-87
 
-[^f63]: Rāmāyaṇa: Sundarakāṇḍa 58-90
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-[^f64]: Rāmāyaṇa: Ayodhyakāṇḍa 31-27
+“श्रीवत्स-वक्षा नित्यश्रीः”  
+(रामायणम् युद्धकाण्डम् 114-15)  
+</details>
 
-[^f65]: Aḷavandār: stotram
+<details><summary>English</summary>
 
-[^f66]: Aḷavandār Stotram 46
+“ Bhagavān has the [^f58] mole, ŚrīVatsa, on His chest and Śrī is with Him eternally." 
+</details>
 
-servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] spouse is Puruṣottama."
+<details><summary>Español</summary>
+
+"Bhagavān tiene el topo [^f58], Śrīvatsa, en su pecho  
+y Śrī está con él eternamente".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रीवत्सवक्षा नित्यश्रीः” (रामायणम् युद्धकाण्डम् 114-15)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“विष्णोः श्रीरनपायिनी” (विष्णुपुराणम् 1-8-17)  
+</details>
+
+<details><summary>English</summary>
+
+"Lakṣmī  is [^f59] ever inseparable from Viṣṇu ."
+</details>
+
+<details><summary>Español</summary>
+
+"Lakṣmī es [^f59] siempre inseparable de Viṣṇu".
+</details>
+
+<details><summary>मूलम्</summary>
+
+“विष्णोः श्रीरनपायिनी” (विष्णुपुराणम् 1-8-17)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“सीता-समक्षं काकुत्स्थम्  
+इदं वचनम् अब्रवीत्”  
+(रामायणम् अरण्यकाण्डम् 15-6.)  
+</details>
+
+<details><summary>English</summary>
+
+"He (Lakṣmaṇa) [^f60] said as follows to Rāma in the presence of Sītā".  
+(Here Śrī is indicated as purushakāra).  
+</details>
+
+<details><summary>Español</summary>
+
+"Él (Lakṣmaṇa) [^f60] dijo lo siguiente a Rāma  
+en presencia de Sītā".  
+(Aquí Śrī se indica como Purushakāra).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सीतासमक्षं काकुत्स्थमिदं वचनमब्रवीत्” (रामायणम् अरण्यकाण्डम् 15-6.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“सीताम् उवाचातियशा  
+राघवं च महाव्रतम्”  
+(रामायणम् अयोध्या 31-2)  
+</details>
+
+<details><summary>English</summary>
+
+"The renowned [^f61] Lakṣmaṇa spoke thus to Sītā  
+and to Rāma who had the great vow (of protecting His suppliants)".  
+(Here Śrī is indicated in the state of Her being the upāya).  
+</details>
+
+<details><summary>Español</summary>
+
+"El reconocido [^f61] Lakṣmaṇa habló así a Sītā  
+y a Rāma que tenía el gran voto (de proteger a sus suplicantes) ".  
+(Aquí Śrī está indicado en el estado de que sea el upāya).  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सीतामुवाचातियशा राघवं च महाव्रतम्” (रामायणम् अयोध्या 31-2)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“अलम् एषा परित्रातुं  
+राघवाद् राक्षसी-गणम्” (रामायणम् सुन्दरकाण्डम् 58-87)
+</details>
+
+<details><summary>English</summary>
+
+“This Sītā[^f62] is capable of protecting this host of Rākṣasis from (the anger of) Raghava."  
+(Here and in the next passage,  
+Śrī is indicated as the upāya) 
+</details>
+
+<details><summary>Español</summary>
+
+“This Sītā[^f62] is capable of protecting this host of Rākṣasis from (the anger of) Raghava."  
+(Here and in the next passage,  
+Śrī is indicated as the upāya) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अलमेषा परित्रातुं राघवाद्राक्षसीगणम्” (रामायणम् सुन्दरकाण्डम् 58-87)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“भवेयं शरणं हि वः”  
+(रामायणम् सुन्दरकाण्डम् 58-90)
+</details>
+
+<details><summary>English</summary>
+
+"I will be [^f63] your protector"  
+( Sītā's words to the Rākṣasis ). 
+</details>
+
+<details><summary>Español</summary>
+
+"I will be [^f63] your protector" ( Sītā's words to the Rākṣasis ). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“भवेयं शरणं हि वः”(रामायणम् सुन्दरकाण्डम् 58-90)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“भवांस्तु सह वैदेह्या”  
+(रामायणम् अयोध्या 31-27) 
+</details>
+
+<details><summary>English</summary>
+
+"You will [^f64] enjoy yourself on the slopes of the hills with Sītā and, whether you are asleep or awake, I will render service to you" (says Lakṣmaṇa): (Here is the prayer for the fruit, namely, kaiṅkarya ). +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+"You will [^f64] enjoy yourself on the slopes of the hills with Sītā and, whether you are asleep or awake, I will render service to you" (says Lakṣmaṇa): (Here is the prayer for the fruit, namely, kaiṅkarya ). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“भवांस्तु सह वैदेह्या” (रामायणम् अयोध्या 31-27) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तया सहासीनम् अनन्त-भोगिनि” (आळवन्दार् स्तोत्रम् 39)  
+</details>
+
+<details><summary>English</summary>
+
+"He is [^f65] seated on the serpent Ananta ( Śeṣa), along with her (Lakṣmī)”; 
+</details>
+
+<details><summary>Español</summary>
+
+"He is [^f65] seated on the serpent Ananta ( Śeṣa), along with her (Lakṣmī)”; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तया सहासीनमनन्त-भोगिनि” (आळवन्दार् स्तोत्रम् 39)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+??
+</details>
+
+<details><summary>English</summary>
+
+“When [^f66] shall I become their eternal servant and thus find delight?" (This is also prayer for service ).
+</details>
+
+<details><summary>Español</summary>
+
+“When [^f66] shall I become their eternal servant and thus find delight?" (This is also prayer for service ).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+??
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“कान्तस् ते पुरुषोत्तमः”  
+(चतुःश्लोकी 1)  
+</details>
+
+<details><summary>मूलम्</summary>
+
+“कान्तस्ते पुरुषोत्तमः” (चतुःश्लोकी 1)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“कान्तस्ते पुरुषोत्तमः” (चतुःश्लोकी 1)
+</details>
+
+<details><summary>English</summary>
+
+"Thy [^f67] spouse is Puruṣottama."
 
 [^f67]: Aḷavandār: Chatusshloki:
+</details>
 
-"When the Lord, [^f68] who is along with Śrī, is pleased by the service rendered to Him by the eternal Sūris who delight in that service."
+<details><summary>Español</summary>
+
+"Thy [^f67] spouse is Puruṣottama."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“कान्तस्ते पुरुषोत्तमः” (चतुःश्लोकी 1)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“स्व-परिचरण-भोगैः श्रीमति प्रीयमाणे” (आत्मसिद्धि)
+</details>
+
+<details><summary>English</summary>
+
+"When the Lord, [^f68] who is along with Śrī,  
+is pleased by the service rendered to Him  
+by the eternal Sūris who delight in that service."
 
 [^f68]: Aḷavandār: Atmasiddhi
+</details>
+
+<details><summary>Español</summary>
+
+"When the Lord, [^f68] who is along with Śrī, is pleased by the service rendered to Him by the eternal Sūris who delight in that service."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“स्वपरिचरणभोगैः श्रीमति प्रीयमाणे” (आत्मसिद्धि)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“श्रीमते निर्मलानन्दोदन्वते विष्णवे नमः” (वेदान्तसारम्)
+</details>
+
+<details><summary>English</summary>
 
 "I worship [^f69] Viṣṇu  with the inseparable Śrī; He is the sea of purity and bliss"
 
 [^f69]: Rāmānuja: Vedāntasara
+</details>
 
-"The [^f70] beloved of Śrī, who is infinite and whose form is the unique abode of all auspicious qualities "
+<details><summary>Español</summary>
+
+"I worship [^f69] Viṣṇu  with the inseparable Śrī; He is the sea of purity and bliss"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रीमते निर्मलानन्दोदन्वते विष्णवे नमः” (वेदान्तसारम्)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“श्रियः कान्तोऽनन्तो वर-गुण-गणैकास्पद-वपुः” (वेदान्तदीपम्)
+</details>
+
+<details><summary>English</summary>
+
+"The [^f70] beloved of Śrī, who is infinite  
+and whose form is the unique abode of all auspicious qualities "
 
 [^f70]: Rāmānuja: Vedāntdeepa
+</details>
 
-."In [^f71] Brahman, the abode of Śrī(Śrīnivasa), may my mind be ever centred "
+<details><summary>Español</summary>
+
+"The [^f70] beloved of Śrī, who is infinite and whose form is the unique abode of all auspicious qualities "
+</details>
+
+<details><summary>मूलम्</summary>
+
+“श्रियः कान्तोऽनन्तो वरगुणगणैकास्पदवपुः” (वेदान्तदीपम्)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“ब्रह्मणि श्रीनिवासे” (श्रीभाष्यम्)
+</details>
+
+<details><summary>English</summary>
+
+"In [^f71] Brahman, the abode of Śrī(Śrīnivasa), may my mind be ever centred "
 
 [^f71]: Rāmānuja: Śrī Bhāṣyam
+</details>
 
-"The Lord of [^f72] Śrī, whose essential nature is opposed to all that is objectionable and faulty and who is possessed of auspicious qualities and is (at the same time) infinite jmāna and infinite bliss."
+<details><summary>Español</summary>
+
+"In [^f71] Brahman, the abode of Śrī(Śrīnivasa), may my mind be ever centred "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ब्रह्मणि श्रीनिवासे” (श्रीभाष्यम्)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“श्रियःपतिर् निखिल-हेय-प्रत्यनीक-कल्याणैकतान--अनन्त-ज्ञानानन्द-स्वरूपः” (गीताभाष्यम्)  
+</details>
+
+<details><summary>English</summary>
+
+"The Lord of [^f72] Śrī,  
+whose essential nature is opposed to all that is objectionable and faulty  
+and who is possessed of auspicious qualities  
+and is (at the same time) infinite jnāna and infinite bliss."
 
 [^f72]: Rāmānuja Gita Bhashyam
+</details>
+
+<details><summary>Español</summary>
+
+"The Lord of [^f72] Śrī,  
+whose essential nature is opposed to all that is objectionable and faulty  
+and who is possessed of auspicious qualities  
+and is (at the same time) infinite jnāna and infinite bliss."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“श्रियःपतिर्निखिल-हेयप्रत्यनीक-कल्याणैकतान-अनन्तज्ञानानन्दस्वरूपः” (गीताभाष्यम्)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"नीय् उन् तिरु-मगळ् उम् निण्ड्रायाल्" (मुदल् तिरुवन्दादि 86)
+</details>
+
+<details><summary>मूलम्</summary>
+
+"नीयुन्दिरुमगळुम् निण्ड्रायाल्" (मुदल् तिरुवन्दादि 86)
+</details>
+
 
 "Thou[^f73] , the protector of the cowherds from the torrent of rain caused by Indra, and the Goddess Lakṣmī ."
 
 [^f73]: Mudal Tiruvandadi: 86
 
-" Thou art [^f74] ever with Lakṣmī  adorned with shining brace
+" Thou art [^f74] ever with Lakṣmī  adorned with shining brace"
 
 [^f74]: Tiruvoymozhi: 4-9-10
 
@@ -438,6 +830,28 @@ servant and thus find delight?" (This is also prayer for service ). "Thy [^f67] 
 [^f80]: Peria Tirumozhi: 3-8-1
 
 limitations.”
+
+one should think of His essential nature (svarūpa) as infinite jñāna and infinite bliss ever inseparable from His consort, Lakṣmī , who, in every form and in all situations, participates in all His actions.  
+(For there are many authoritative passages in support of this prescribed contemplation -)
+
+[^f58]: Rāmāyaṇa : Yuddha kāṇḍa 114-15
+
+[^f59]: Viṣṇu  purāṇa 1-18-17
+
+[^f60]: Rāmāyaṇa: Aranyakāṇḍa 15-6
+
+[^f61]:Rāmāyaṇa: Ayodhyakāṇḍa 31-2
+
+[^f62]: Rāmāyaṇa: Sundarakāṇḍa 58-87
+
+[^f63]: Rāmāyaṇa: Sundarakāṇḍa 58-90
+
+[^f64]: Rāmāyaṇa: Ayodhyakāṇḍa 31-27
+
+[^f65]: Aḷavandār: stotram
+
+[^f66]: Aḷavandār Stotram 46
+
 
 BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
 
