@@ -439,7 +439,7 @@ y Śrī está con él eternamente".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“विष्णोः श्रीरनपायिनी” (विष्णुपुराणम् 1-8-17)  
+“विष्णोः श्रीर् अनपायिनी” (विष्णुपुराणम् 1-8-17)  
 </details>
 
 <details><summary>English</summary>
@@ -457,8 +457,10 @@ y Śrī está con él eternamente".
 “विष्णोः श्रीरनपायिनी” (विष्णुपुराणम् 1-8-17)  
 </details>
 
+### पुरुष-कारिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++(कैङ्कर्यम् प्रार्थयमान उभाव् अय् उदीक्ष्य संयताञ्जलिः)+++  
 “सीता-समक्षं काकुत्स्थम्  
 इदं वचनम् अब्रवीत्”  
 (रामायणम् अरण्यकाण्डम् 15-6.)  
@@ -485,8 +487,10 @@ en presencia de Sītā".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“सीताम् उवाचातियशा  
-राघवं च महाव्रतम्”  
++++(स भ्रातुश् चरणौ गाढं  
+निपीड्य रघुनन्दनः ।)+++  
+“सीताम् +++(अनुगति-प्रार्थनाम्)+++ उवाचातियशा  
+राघवं च महा-व्रतम्+++(←शरणागत-पालकम्)+++”+++(5)+++  
 (रामायणम् अयोध्या 31-2)  
 </details>
 
@@ -514,7 +518,9 @@ y a Rāma que tenía el gran voto (de proteger a sus suplicantes) ".
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “अलम् एषा परित्रातुं  
-राघवाद् राक्षसी-गणम्” (रामायणम् सुन्दरकाण्डम् 58-87)
+राघवाद् राक्षसी-गणम्”+++(5)+++  
+(रामायणम् सुन्दरकाण्डम् 58-87)  
++++(इति स्वप्नदर्शनात् परं शरणागतिं चोदयन्त्यास् त्रि-जटाया विभीषण-सुताया वचनम्)+++
 </details>
 
 <details><summary>English</summary>
@@ -526,9 +532,10 @@ y a Rāma que tenía el gran voto (de proteger a sus suplicantes) ".
 
 <details><summary>Español</summary>
 
-“This Sītā[^f62] is capable of protecting this host of Rākṣasis from (the anger of) Raghava."  
-(Here and in the next passage,  
-Śrī is indicated as the upāya) 
+"Este sītā [^f62] es capaz de proteger  
+a esta gran cantidad de rākṣasis de (la ira de) raghava".  
+(Aquí y en el siguiente pasaje,  
+Śrī se indica como el upāya)
 </details>
 
 
@@ -540,8 +547,16 @@ y a Rāma que tenía el gran voto (de proteger a sus suplicantes) ".
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “भवेयं शरणं हि वः”  
++++(इति तच्-चर्चां श्रुत्वा राक्षसीभ्यः सीता-प्रतिवचनम्)+++
 (रामायणम् सुन्दरकाण्डम् 58-90)
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+सीता राक्षसीर् हनुमतोऽपि ररक्ष, रामाद् अपि, रावणाद् अपि ("कोऽयं कपिर्" इत्यत्रासत्यम् उक्त्वा)।  
+"अभयं सर्वभूतेभ्यो ददामी"ति राम-वचनं सीतयैवाधिकं पालितम्।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -551,7 +566,8 @@ y a Rāma que tenía el gran voto (de proteger a sus suplicantes) ".
 
 <details><summary>Español</summary>
 
-"I will be [^f63] your protector" ( Sītā's words to the Rākṣasis ). 
+"Seré [^f63] tu protector"  
+(Palabras de Sītā al rākṣasis).
 </details>
 
 
@@ -560,10 +576,13 @@ y a Rāma que tenía el gran voto (de proteger a sus suplicantes) ".
 “भवेयं शरणं हि वः”(रामायणम् सुन्दरकाण्डम् 58-90)
 </details>
 
-
+### साहचर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “भवांस्तु सह वैदेह्या”  
++++(गिरिसानुषु रंस्यसे ।  
+अहं सर्वं करिष्यामि  
+जाग्रतः स्वपतश्च ते ॥)+++  
 (रामायणम् अयोध्या 31-27) 
 </details>
 
@@ -574,7 +593,10 @@ y a Rāma que tenía el gran voto (de proteger a sus suplicantes) ".
 
 <details><summary>Español</summary>
 
-"You will [^f64] enjoy yourself on the slopes of the hills with Sītā and, whether you are asleep or awake, I will render service to you" (says Lakṣmaṇa): (Here is the prayer for the fruit, namely, kaiṅkarya ). 
+"Te disfrutarás [^f64] en las laderas de las colinas con sītā  
+y, ya sea que estés dormido o despierto,  
+te brindaré el servicio" (dice Lakṣmaṇa):  
+(Aquí está la oración por la fruta, a saber, Kaiṅkarya).
 </details>
 
 
@@ -595,7 +617,7 @@ y a Rāma que tenía el gran voto (de proteger a sus suplicantes) ".
 
 <details><summary>Español</summary>
 
-"He is [^f65] seated on the serpent Ananta ( Śeṣa), along with her (Lakṣmī)”; 
+"Él está [^f65] sentado en la serpiente Ananta (Śeṣa), junto con ella (Lakṣmī)";
 </details>
 
 
