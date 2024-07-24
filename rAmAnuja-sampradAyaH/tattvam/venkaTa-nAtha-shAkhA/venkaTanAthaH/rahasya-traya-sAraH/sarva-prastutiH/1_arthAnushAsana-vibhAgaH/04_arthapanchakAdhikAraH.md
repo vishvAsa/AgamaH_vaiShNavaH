@@ -292,7 +292,7 @@ Es de esta manera que deben ser considerados.
 </details>
 
 
-## श्री-साहित्यम्
+### श्री-साहित्यम्
 
 <details><summary>English</summary>
 
@@ -457,7 +457,7 @@ y Śrī está con él eternamente".
 “विष्णोः श्रीरनपायिनी” (विष्णुपुराणम् 1-8-17)  
 </details>
 
-### पुरुष-कारिता
+#### पुरुष-कारिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(कैङ्कर्यम् प्रार्थयमान उभाव् अय् उदीक्ष्य संयताञ्जलिः)+++  
@@ -576,7 +576,7 @@ a esta gran cantidad de rākṣasis de (la ira de) raghava".
 “भवेयं शरणं हि वः”(रामायणम् सुन्दरकाण्डम् 58-90)
 </details>
 
-### साहचर्यम्
+#### साहचर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “भवांस्तु सह वैदेह्या”  
@@ -638,7 +638,9 @@ te brindaré el servicio" (dice Lakṣmaṇa):
 
 <details><summary>Español</summary>
 
-“When [^f66] shall I become their eternal servant and thus find delight?" (This is also prayer for service ).
+"¿Cuándo [^f66] me convertiré en su sirviente eterno  
+y, por lo tanto, encontraré deleite?"  
+(Esto también es oración por el servicio).
 </details>
 
 
@@ -647,17 +649,6 @@ te brindaré el servicio" (dice Lakṣmaṇa):
 ??
 </details>
 
-
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
-
-“कान्तस् ते पुरुषोत्तमः”  
-(चतुःश्लोकी 1)  
-</details>
-
-<details><summary>मूलम्</summary>
-
-“कान्तस्ते पुरुषोत्तमः” (चतुःश्लोकी 1)  
-</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -673,7 +664,7 @@ te brindaré el servicio" (dice Lakṣmaṇa):
 
 <details><summary>Español</summary>
 
-"Thy [^f67] spouse is Puruṣottama."
+"Tu [^f67] esposa es Puruṣottama".
 </details>
 
 
@@ -698,7 +689,10 @@ by the eternal Sūris who delight in that service."
 
 <details><summary>Español</summary>
 
-"When the Lord, [^f68] who is along with Śrī, is pleased by the service rendered to Him by the eternal Sūris who delight in that service."
+"Cuando el Señor, [^f68]  
+que está junto con Śrī,  
+se complace por el servicio que le prestó  
+el eterno Sūris que se deleita en ese servicio".
 </details>
 
 
@@ -710,7 +704,8 @@ by the eternal Sūris who delight in that service."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“श्रीमते निर्मलानन्दोदन्वते विष्णवे नमः” (वेदान्तसारम्)
+“श्रीमते निर्मलानन्दोदन्वते विष्णवे नमः”  
+(वेदान्तसारम्)
 </details>
 
 <details><summary>English</summary>
@@ -722,7 +717,8 @@ by the eternal Sūris who delight in that service."
 
 <details><summary>Español</summary>
 
-"I worship [^f69] Viṣṇu  with the inseparable Śrī; He is the sea of purity and bliss"
+"Adoro [^f69] Viṣṇu con el inseparable śrī;  
+él es el mar de pureza y dicha"
 </details>
 
 
@@ -734,7 +730,8 @@ by the eternal Sūris who delight in that service."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“श्रियः कान्तोऽनन्तो वर-गुण-गणैकास्पद-वपुः” (वेदान्तदीपम्)
+“श्रियः कान्तोऽनन्तो वर-गुण-गणैकास्पद-वपुः”  
+(वेदान्तदीपम्)
 </details>
 
 <details><summary>English</summary>
@@ -747,7 +744,9 @@ and whose form is the unique abode of all auspicious qualities "
 
 <details><summary>Español</summary>
 
-"The [^f70] beloved of Śrī, who is infinite and whose form is the unique abode of all auspicious qualities "
+"El [^f70] amado de Śrī, que es infinito  
+y cuya forma es la morada única  
+de todas las cualidades auspiciosas"
 </details>
 
 <details><summary>मूलम्</summary>
@@ -763,14 +762,16 @@ and whose form is the unique abode of all auspicious qualities "
 
 <details><summary>English</summary>
 
-"In [^f71] Brahman, the abode of Śrī(Śrīnivasa), may my mind be ever centred "
+"In [^f71] Brahman, the abode of Śrī(Śrīnivasa),  
+may my mind be ever centred "
 
 [^f71]: Rāmānuja: Śrī Bhāṣyam
 </details>
 
 <details><summary>Español</summary>
 
-"In [^f71] Brahman, the abode of Śrī(Śrīnivasa), may my mind be ever centred "
+"En [^f71] Brahman, la morada de Śrī (Śrīnivasa),  
+Que mi mente esté siempre centrada "
 </details>
 
 
@@ -796,10 +797,10 @@ and is (at the same time) infinite jnāna and infinite bliss."
 
 <details><summary>Español</summary>
 
-"The Lord of [^f72] Śrī,  
-whose essential nature is opposed to all that is objectionable and faulty  
-and who is possessed of auspicious qualities  
-and is (at the same time) infinite jnāna and infinite bliss."
+"El Señor de [^f72] Śrī,  
+cuya naturaleza esencial se opone a todo lo que es objetable y defectuoso  
+y que posee cualidades auspiciosas  
+y es (al mismo tiempo) infinito jnāna y una dicha infinita ".
 </details>
 
 
@@ -813,48 +814,239 @@ and is (at the same time) infinite jnāna and infinite bliss."
 "नीय् उन् तिरु-मगळ् उम् निण्ड्रायाल्" (मुदल् तिरुवन्दादि 86)
 </details>
 
+<details><summary>English</summary>
+
+"Thou[^f73] , the protector of the cowherds from the torrent of rain caused by Indra,  
+and the Goddess Lakṣmī ."
+
+[^f73]: Mudal Tiruvandadi: 86
+</details>
+
+<details><summary>Español</summary>
+
+"Thou[^f73] , the protector of the cowherds from the torrent of rain caused by Indra, and the Goddess Lakṣmī ."
+
+[^f73]: Mudal Tiruvandadi: 86
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 "नीयुन्दिरुमगळुम् निण्ड्रायाल्" (मुदल् तिरुवन्दादि 86)
 </details>
 
 
-"Thou[^f73] , the protector of the cowherds from the torrent of rain caused by Indra, and the Goddess Lakṣmī ."
 
-[^f73]: Mudal Tiruvandadi: 86
 
-" Thou art [^f74] ever with Lakṣmī  adorned with shining brace"
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ऒण्डॊडियाळ् तिरु-मगळ् उम् नीय् उम् ए निला-निऱ्‌प"  
+(तिरुवाय्मॊऴि 4-9-1)  
+</details>
+
+<details><summary>English</summary>
+
+"Thou art [^f74] ever with Lakṣmī  adorned with shining brace"
 
 [^f74]: Tiruvoymozhi: 4-9-10
+</details>
+
+<details><summary>Español</summary>
+
+"Thou art [^f74] ever with Lakṣmī  adorned with shining brace"
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्‌प" (तिरुवाय्मॊऴि 4-9-1)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"कोलत्-तिरु-मा-मगळ्-ओडु उन्नै"(तिरुवाय्मॊऴि 6-9-3)
+</details>
+
+<details><summary>English</summary>
 
 "Am I [^f75] still to remain in saṁsāra without enjoying you in the company of Lakṣmī  ?"
 
-[^f75]: Tieuvoymozhi 6-9-3
+[^f75]: Tiruvoymozhi 6-9-3
+</details>
+
+<details><summary>Español</summary>
+
+"Am I [^f75] still to remain in saṁsāra without enjoying you in the company of Lakṣmī  ?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"कोलत्तिरुमामगळोडु उन्नै"(तिरुवाय्मॊऴि 6-9-3)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"निन् तिरुव्-अरुळ् उम् पङ्कयत्ताळ् तिरुव्-अरुळुम्" (तिरुवाय्मॊऴि 9-2-1)
+</details>
+
+<details><summary>English</summary>
 
 " Thy [^f76] grace and the grace of the lotus-bora Goddess - with these I will sweep the floor of Thy temple."
 
 [^f76]: Tiruvoymozhi: 9-2-1
+</details>
+
+<details><summary>Español</summary>
+
+" Thy [^f76] grace and the grace of the lotus-bora Goddess - with these I will sweep the floor of Thy temple."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"निन् तिरुवरुळुम् पङ्गयत्ताळ् तिरुवरुळुम्" (तिरुवाय्मॊऴि 9-2-1)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"उन् तामरै-मङ्गैय् उम् नीयुम्" (तिरुवाय्मॊऴि 9-2-3)
+</details>
+
+<details><summary>English</summary>
 
 “ Thou [^f77] and thy lotus-born Spouse should be pleased to accept the service of the three worlds."
 
 [^f77]: Tiruvoymozhi: 9-2-3
+</details>
 
-"I will [^f78] not be parted (from Thee) even for a moment”, says Śrī and abides on Thy chest."
+<details><summary>Español</summary>
+
+“ Thou [^f77] and thy lotus-born Spouse should be pleased to accept the service of the three worlds."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"उन् तामरैमङ्गैयुम् नीयुम्" (तिरुवाय्मॊऴि 9-2-3)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अगल्-अगिल्ल् एन् इऱैय् उम्"(तिरुवाय्मॊऴि 6-10-10)  
+</details>
+
+<details><summary>English</summary>
+
+""I will [^f78] not be parted (from Thee) even for a moment”, says Śrī and abides on Thy chest."
 
 [^f78]: Tiruvoymozhi: 6-10-10
+</details>
+
+<details><summary>Español</summary>
+
+""I will [^f78] not be parted (from Thee) even for a moment”, says Śrī and abides on Thy chest."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"अगलगिल्लेनिऱैयुम्"(तिरुवाय्मॊऴि 6-10-10)  
+</details>
+
+
+### ज्ञानानन्द-मयत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"उणर्-मुऴु नलम्" (तिरुवाय्मॊऴि 1-1-2)  
+</details>
+
+<details><summary>English</summary>
 
 “ Thou [^f79] art all jñāna and bliss."
 
 [^f79]: Tiruvoymozhi: 1-1-2
+</details>
 
-“ Thou [^f80] art the light that never goes out and art beyond all
+<details><summary>Español</summary>
+
+“ Thou [^f79] art all jñāna and bliss."
+</details>
+
+<details><summary>मूलम्</summary>
+
+"उणर्मुऴु नलम्" (तिरुवाय्मॊऴि 1-1-2)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"नन्दा-विळक्केय् अळत्तऱ्‌क् अरिय् आय्" (पॆरियदिरुमॊऴि 3-8-1)
+</details>
+
+<details><summary>English</summary>
+
+“ Thou [^f80] art the light that never goes out and art beyond all limitations.”
 
 [^f80]: Peria Tirumozhi: 3-8-1
+</details>
 
-limitations.”
+<details><summary>Español</summary>
+
+“ Thou [^f80] art the light that never goes out and art beyond all limitations.”
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"नन्दाविळक्के यळत्तऱ्‌करियाय्" (पॆरियदिरुमॊऴि 3-8-1)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रुम् प्रमाणङ्गळ् सॊल्लुगिऱप्-पडिय् ए  
+सर्व-प्रकारत्ताल् उम्, सर्वावस्थैयिल् उम् सहधर्म-चारिणिय् आन  
+पॆरिय-पिराट्टियार् ओडु पिरिव्-इल्लाद  
+मुऴु-नलम् आन  
+अनन्त-ज्ञानानन्द-स्वरूपम् आग  
+अनुसन्धिक्क-वेणुम्.
+</details>
+
+<details><summary>English</summary>
+
+one should think of His essential nature (svarūpa) as infinite jñāna and infinite bliss  
+ever inseparable from His consort, Lakṣmī ,  
+who, in every form and in all situations, participates in all His actions.  
+(For there are many authoritative passages in support of this prescribed contemplation -)
+</details>
+
+<details><summary>Español</summary>
 
 one should think of His essential nature (svarūpa) as infinite jñāna and infinite bliss ever inseparable from His consort, Lakṣmī , who, in every form and in all situations, participates in all His actions.  
 (For there are many authoritative passages in support of this prescribed contemplation -)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रुम् प्रमाणङ्गळ् सॊल्लुगिऱप्पडिये सर्वप्रकारत्तालुम्,  
+सर्वावस्थैयिलुम् सहधर्म-चारिणियान  
+पॆरिय पिराट्टियारोडु पिरिविल्लाद मुऴु नलमान अनन्त-ज्ञानानन्दस्वरूपमाग अनुसन्धिक्कवेणुम्.
+</details>
+
+
+
+
+
+
+
 
 [^f58]: Rāmāyaṇa : Yuddha kāṇḍa 114-15
 
@@ -874,7 +1066,7 @@ one should think of His essential nature (svarūpa) as infinite jñāna and infi
 
 [^f66]: Aḷavandār Stotram 46
 
-
+### गुणाकरः
 BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
 
 Bhagavān is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said, “That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections." and "He is [^f82] greater than the great; in the Lord of the great and the low, there are no such things as pain." He is to be considered also as possessing all those qualities which are necessary for one who is the object of attainment and who is, likewise, the means of attainment. Many are the passages that speak of Bhagavān's qualities :
