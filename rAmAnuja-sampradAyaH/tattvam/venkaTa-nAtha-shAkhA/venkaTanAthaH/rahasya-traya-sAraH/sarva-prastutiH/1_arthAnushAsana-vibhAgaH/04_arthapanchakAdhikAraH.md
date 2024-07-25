@@ -628,7 +628,7 @@ te brindaré el servicio" (dice Lakṣmaṇa):
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-??
+(??)
 </details>
 
 <details><summary>English</summary>
@@ -646,7 +646,7 @@ y, por lo tanto, encontraré deleite?"
 
 <details><summary>मूलम्</summary>
 
-??
+(??)
 </details>
 
 
@@ -1041,13 +1041,6 @@ one should think of His essential nature (svarūpa) as infinite jñāna and infi
 पॆरिय पिराट्टियारोडु पिरिविल्लाद मुऴु नलमान अनन्त-ज्ञानानन्दस्वरूपमाग अनुसन्धिक्कवेणुम्.
 </details>
 
-
-
-
-
-
-
-
 [^f58]: Rāmāyaṇa : Yuddha kāṇḍa 114-15
 
 [^f59]: Viṣṇu  purāṇa 1-18-17
@@ -1067,87 +1060,534 @@ one should think of His essential nature (svarūpa) as infinite jñāna and infi
 [^f66]: Aḷavandār Stotram 46
 
 ### गुणाकरः
-BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
+<details><summary>English</summary>
 
-Bhagavān is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said, “That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections." and "He is [^f82] greater than the great; in the Lord of the great and the low, there are no such things as pain." He is to be considered also as possessing all those qualities which are necessary for one who is the object of attainment and who is, likewise, the means of attainment. Many are the passages that speak of Bhagavān's qualities :
+BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
+</details>
+
+<details><summary>Español</summary>
+
+BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि  
+
+“समस्त-हेय+++(गुण)+++-रहितं  
+विष्ण्व्-आख्यं परमं पदं” (विष्णुपुराणम् 1-22-53)  
+</details>
+
+<details><summary>English</summary>
+
+Bhagavān is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said,  
+“That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections."
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said, “That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि “समस्तहेयरहितं विष्ण्वाख्यं परमं पदं” (विष्णुपुराणम् 1-22-53)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“परः पराणां सकला न यत्र क्लेशादयस्सन्ति परावरेशे” (विष्णुपुराणम् 6-5-85)  
+ऎन्गिऱप्पडिये हेयप्रत्यनीकमाग अनुसन्धेयम्.  
+</details>
+
+<details><summary>English</summary>
+
+and "He is [^f82] greater than the great; in the Lord of the great and the low, there are no such things as pain." 
+</details>
+
+<details><summary>Español</summary>
+
+and "He is [^f82] greater than the great; in the Lord of the great and the low, there are no such things as pain." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“परः पराणां सकला न यत्र क्लेशादयस्सन्ति परावरेशे” (विष्णुपुराणम् 6-5-85)  
+ऎन्गिऱप्पडिये हेयप्रत्यनीकमाग अनुसन्धेयम्.  
+</details>
 
 [^f81]: Viṣṇupurāṇa:  1-22-53
 
 [^f82]: Viṣṇupurāṇa 6-5-85
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तैर्युक्तश्श्रूयतां नरः” (रामायणम् पा-का 1-7.)
+</details>
+
+<details><summary>English</summary>
+
 Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 [^f83]: Rāmāyaṇa Balakāṇḍa 1-7
+</details>
+
+<details><summary>Español</summary>
+
+Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तैर्युक्तश्श्रूयतां नरः” (रामायणम् पा-का 1-7.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तमेवं गुणसंपन्नं” (रामायणम् अ-का 2-48.)
+</details>
+
+<details><summary>English</summary>
 
 “Him who [^f84] is possessed of these qualities."
 
 [^f84]: Rāmāyaṇa Ayodhyakāṇḍa: 2-47
+</details>
+
+<details><summary>Español</summary>
+
+“Him who [^f84] is possessed of these qualities."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तमेवं गुणसंपन्नं” (रामायणम् अ-का 2-48.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“ज्येष्ठं श्रेष्ठगुणैर्युक्तं” (रामायणम् पा-का 1-20)  
+</details>
+
+<details><summary>English</summary>
 
 “ Him who is [^f85] the eldest (son) and who is possessed of all Noble qualities."
 
 [^f85]: Rāmāyaṇa: Balakāṇḍa: 1-20
+</details>
+
+<details><summary>Español</summary>
+
+“ Him who is [^f85] the eldest (son) and who is possessed of all Noble qualities."
+
+[^f85]: Rāmāyaṇa: Balakāṇḍa: 1-20
+</details>
+
+<details><summary>मूलम्</summary>
+
+“ज्येष्ठं श्रेष्ठगुणैर्युक्तं” (रामायणम् पा-का 1-20)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“एवं श्रेष्ठगुणैर्युक्तं” (रामायणम् अ-का 1-32) 
+</details>
+
+<details><summary>English</summary>
 
 "Him who is [^f86] thus possessed of noble qualities"
 
 [^f86]: Rāmāyaṇa: Ayodhyakāṇḍa: 11-31
+</details>
+
+<details><summary>Español</summary>
+
+"Him who is [^f86] thus possessed of noble qualities"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“एवं श्रेष्ठगुणैर्युक्तं” (रामायणम् अ-का 1-32) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“गुणैर्विरुरुचे रामः” (रामायणम् अ-का 2-47)
+</details>
+
+<details><summary>English</summary>
 
 " Rāma [^f87] shone with (all these) qualities."
 
 [^f87]: Rāmāyaṇa: Ayodhyakāṇḍa: 2-47
+</details>
+
+<details><summary>Español</summary>
+
+" Rāma [^f87] shone with (all these) qualities."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“गुणैर्विरुरुचे रामः” (रामायणम् अ-का 2-47)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तमेवं गुणसंपन्नं अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
+</details>
+
+<details><summary>English</summary>
 
 “Him who [^f88] was possessed of such qualities and of irresistible valour."
 
 [^f88]: Rāmāyaṇa: Ayodhyakāṇḍa: 1-34
+</details>
+
+<details><summary>Español</summary>
+
+“Him who [^f88] was possessed of such qualities and of irresistible valour."
+/details>
+
+
+<details><summary>मूलम्</summary>
+
+“तमेवं गुणसंपन्नं अप्रधृष्यपराक्रमं” (रामायणम् अ-का 1-34)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“बहवो नृप कल्याणगुणाः  
+पुत्रस्य सन्ति ते” (रामायणम् अ-का 2-26)
+</details>
+
+<details><summary>English</summary>
 
 " There are [^f89] many noble qualities, O King, in your son."
 
 [^f89]: Rāmāyaṇa: Ayodhyakāṇḍa: 2-26
+</details>
+
+<details><summary>Español</summary>
+
+" There are [^f89] many noble qualities, O King, in your son."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“बहवो नृप कल्याणगुणाः पुत्रस्य सन्ति ते” (रामायणम् अ-का 2-26)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“आनृशंस्यमनुक्रोशः  
+श्रुतं शीलं दमश् शमः ।  
+राघवं शोभयन्त्येते  
+षड्गुणाः पुरुषोत्तमम्” (रामायणम् अ-का 33-12)  
+</details>
+
+<details><summary>English</summary>
 
 " [^f90] Benevolence, compassion, learning, integrity of character. control of the senses, control of the mind- these six qualities adorn Rāma, the best of men."
 
 [^f90]: Ibid: 33-12
+</details>
+
+<details><summary>Español</summary>
+
+" [^f90] Benevolence, compassion, learning, integrity of character. control of the senses, control of the mind- these six qualities adorn Rāma, the best of men."
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+“आनृशंस्यमनुक्रोशः श्रुतं शीलं दमश्शमः । राघवं शोभयन्त्येते षड्गुणाः पुरुषोत्तमम्” (रामायणम् अ-का 33-12)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“विदितस् स हि धर्मज्ञश्  
+शरणागत वत्सलः”(रामायणम् सुन्दरकाण्डम् 21-20)
+</details>
+
+<details><summary>English</summary>
 
 " He is [^f91] known to be earnest in the matter of dharma; He is affectionate to those that seek His protection."
 
 [^f91]: Rāmāyaṇa: Sundarakāṇḍa: 21-20
+</details>
+
+<details><summary>Español</summary>
+
+" He is [^f91] known to be earnest in the matter of dharma; He is affectionate to those that seek His protection."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“विदितस्स हि धर्मज्ञश्शरणागत वत्सलः”(रामायणम् सुन्दरकाण्डम् 21-20)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“शरण्यं शरणं च त्वाम्  
+आहुर्दिव्या महर्षयः” (रामायणम् युद्धकाण्डम् 120-18)
+</details>
+
+<details><summary>English</summary>
 
 "Thou art [^f92] capable of affording protection and art also the refuge of all. This is declared by the divine sages."
 
 [^f92]: Rāmāyaṇa: Yuddhakāṇḍa: 121-18
+</details>
+
+<details><summary>Español</summary>
+
+"Thou art [^f92] capable of affording protection and art also the refuge of all. This is declared by the divine sages."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“शरण्यं शरणं च त्वाम् आहुर्दिव्या महर्षयः” (रामायणम् युद्धकाण्डम् 120-18)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(न केवलं वास-वृक्षो धारकः, भोग्य-फल-दोऽपीति-)+++  
+निवास-वृक्षस् साधूनाम्  
+आपन्नानां परा गतिः +++(इत्य् उपेयतोक्ता)+++ ॥  
+(रामायणम् किष्॰ काण्डम् 15-19, तारावचनम्)
+</details>
+
+<details><summary>English</summary>
 
 “ Thou art [^f93] the tree in which the good find their resting place; and Thou art the supreme refuge of all those who are in distress.”
 
 [^f93]: Rāmāyaṇa: Kishkindha kāṇḍa 15-19
+</details>
+
+<details><summary>Español</summary>
+
+“ Thou art [^f93] the tree in which the good find their resting place; and Thou art the supreme refuge of all those who are in distress.”
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“निवासवृक्षस्साधूनां आपन्नानां परा गतिः” (रामायणम् किष् काण्डम् 15-19)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तेजो-बलैश्वर्य-महावबोध-सुवीर्य-शक्त्यादि-गुणैकराशिः” (विष्णुपुराणम् 6-5-85)
+</details>
+
+<details><summary>English</summary>
 
 " He is [^f94] the store-house of such qualities as splendour, strength, lordship, great wisdom, supreme valour and might."
 
 [^f94]: Viṣṇupurāṇa: 6-5-85
+</details>
 
-Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is the inner self of all beings?" "My [^f96] boy, just as the gems in the ocean are countless, the qualities of the Lord armed with Chakra are innumerable ; "
+<details><summary>Español</summary>
+
+" He is [^f94] the store-house of such qualities as splendour, strength, lordship, great wisdom, supreme valour and might."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तेजो-बलैश्वर्य-महावबोध-सुवीर्य-शक्त्यादि-गुणैकराशिः” (विष्णुपुराणम् 6-5-85)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“सर्वभूतात्मभूतस्य  
+विष्णोः को वेदितुं गुणान्”(ब्राह्मपुराणम्)
+</details>
+
+<details><summary>English</summary>
+
+Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is the inner self of all beings?
 
 [^f95]: Brahmapurāṇa
+</details>
+
+<details><summary>Español</summary>
+
+Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is the inner self of all beings?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सर्वभूतात्मभूतस्य विष्णोः को वेदितुं गुणान्”(ब्राह्मपुराणम्)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“यथा रत्नानि जलधेर्  
+असङ्ख्येयानि पुत्रक ।  
+तथा गुणाश्च देवस्य  
+त्वसङ्ख्येया हि चक्रिणः ॥” (वामनपुराणम् 74-40)  
+</details>
+
+<details><summary>English</summary>
+
+"My [^f96] boy, just as the gems in the ocean are countless, the qualities of the Lord armed with Chakra are innumerable ; "
 
 [^f96]: Vamanapurāṇa 74-40
+</details>
+
+<details><summary>Español</summary>
+
+"My [^f96] boy, just as the gems in the ocean are countless, the qualities of the Lord armed with Chakra are innumerable ; "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“यथा रत्नानि जलधेः असङ्ख्येयानि पुत्रक । तथा गुणाश्च देवस्य त्वसङ्ख्येया हि चक्रिणः ॥” (वामनपुराणम् 74-40)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“वर्षायुतैर् यस्य गुणा न शक्या  
+वक्तुं समेतैर् अपि सर्वदेवैः ।  
+चतुर्मुखायुर् यदि कोटिवक्त्रो  
+भवेन्नरः क्वापि विशुद्धचेताः ।  
+स ते गुणानाम् अयुतैकम् अंशं  
+वदेन्न वा देववर प्रसीद ॥”+++(5)+++  
+(भारतम् कर्णपर्वम् 83-15)  
+</details>
+
+<details><summary>English</summary>
 
 " His [^f97] qualities cannot be enumerated even in tens of thou. sands of years by even all the gods assembled together. If there be any man of pure mind anywhere, gifted with the period of life appointed for Brahma and if he be further endowed with a thousand mouths, he may be able, O best of gods, to enumerate one ten-thousandth fraction of Thy qualities or may not be able."
 
 [^f97]: Mahābhārata: Karnaparva: 83-15
+</details>
+
+<details><summary>Español</summary>
+
+" His [^f97] qualities cannot be enumerated even in tens of thou. sands of years by even all the gods assembled together. If there be any man of pure mind anywhere, gifted with the period of life appointed for Brahma and if he be further endowed with a thousand mouths, he may be able, O best of gods, to enumerate one ten-thousandth fraction of Thy qualities or may not be able."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“वर्षायुतैर्यस्य गुणा न शक्या वक्तुं समेतैरपि सर्वदेवैः ।  
+चतुर्मुखायुर्यदि कोटिवक्त्रो भवेन्नरः क्वापि विशुद्धचेताः ।  
+स ते गुणानाम् अयुतैकमंशं वदेन्न वा देववर प्रसीद ॥”(भारतम् कर्णपर्वम् 83-15)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तवानन्त-गुणस्यापि  
+षडेव प्रथमे गुणाः ।  
+यैस् त्वयेव जगत् कुक्षाव्  
+अन्येप्य् अन्तर् निवेशिताः +++(वर्तन्ते गुणाः)+++॥”(विष्णुपुराणम्)  
+</details>
+
+<details><summary>English</summary>
 
 “Though Thy [^f98] qualities are infinite, yet six of them are foremost among them; even as the universe is borne within thy body, the other qualities too, are contained within them."
 
-[^f98]:  ? ?
+[^f98]:  ??
+</details>
+
+<details><summary>Español</summary>
+
+“Though Thy [^f98] qualities are infinite, yet six of them are foremost among them; even as the universe is borne within thy body, the other qualities too, are contained within them."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तवानन्तगुणस्यापि षडेव प्रथमे गुणाः । यैस्त्वयेव जगत् कुक्षावन्येप्यन्तर्निवेशिताः ॥”(विष्णुपुराणम्)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“इषुक्षयान् निवर्तन्ते  
+नान्तरिक्ष-क्षिति-क्षयात् ।  
+मति-क्षयान् निवर्तन्ते +++(वचनानि)+++  
+न गोविन्द-गुण-क्षयात् ॥”
+</details>
+
+<details><summary>English</summary>
 
 " It is [^f99] owing to the deficiency of arrows that the man who wishes to cover the sky desists and not owing to any deficiency in the space of the sky. (So also ) we fall back from the praise of Govinda, owing to our deficiency of intelligence and not owing to any deficiency in His qualities."
 
-[^f99]: ? ?
+[^f99]: ??
+</details>
+
+<details><summary>Español</summary>
+
+" It is [^f99] owing to the deficiency of arrows that the man who wishes to cover the sky desists and not owing to any deficiency in the space of the sky. (So also ) we fall back from the praise of Govinda, owing to our deficiency of intelligence and not owing to any deficiency in His qualities."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“इषुक्षयान्निवर्तन्ते नान्तरिक्षक्षितिक्षयात् । मतिक्षयान्निवर्तन्ते न गोविन्दगुणक्षयात् ॥”
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"वल्+++(=बल)+++-विनैयेनै+++(=कर्मवन्तम् →पापिनम् [अपि विरहकाले])+++ ईर्गिण्ड्र+++(=पीडयद्-)+++-गुणङ्गळैय् उडैयाय्" (तिरुवाय्मॊऴि 8-1-8) 
+</details>
+
+<details><summary>English</summary>
 
 “Thon hast [^f100] qualities which, being remembered, afflict me during Thy separation - me the great sinner."
 
 [^f100]: Tiruvoymozhi: 8-1-8
+</details>
+
+<details><summary>Español</summary>
+
+“Thon hast [^f100] qualities which, being remembered, afflict me during Thy separation - me the great sinner."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"वल्विनैयेनै ईर्गिण्ड्र कुणङ्गळैयुडैयाय्" (तिरुवाय्मॊऴि 8-1-8) 
+</details>
+
+
+
+
+
 
 "He has [^f101] noble qualities like bliss, which are limitless in extent."
 
 [^f101]: Tiruvoymozhi 1-1-1
+
+He is to be considered also as possessing all those qualities which are necessary for one who is the object of attainment and who is, likewise, the means of attainment. Many are the passages that speak of Bhagavān's qualities :
+
 
 BHAGAVĀN HAS A DIVINE AND AUSPICIOUS FORM:
 
