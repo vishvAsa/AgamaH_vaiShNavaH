@@ -2444,7 +2444,6 @@ THE NATURE OF THE INDIVIDUAL SELF:
 THE NATURE OF THE INDIVIDUAL SELF:
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 … प्रापिक्कुम् प्रत्यग्-आत्माविन्-उडैय  
@@ -2474,38 +2473,353 @@ We should know that the individual self is in three categories : Baddha or those
 प्रापिक्कुम् प्रत्यगात्माविनुडैय बद्ध-मुक्त-नित्य-साधारणरूपमुम् उपायाधिकारियान तनक्किप्पोदु असाधारणमान रूपमुम् अऱियवेणुम्. 
 </details>
 
+### नित्य-मुक्त-बद्ध-भेदाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळिल् **बद्धर्** आवार् -  
+अनादि-कर्म-प्रवाहत्ताल् ए अनुवृत्त-संसारर् आय्  
+ब्रह्मादि-स्तंब-पर्यन्त-विभाग-भागिगळ् आन क्षेत्र-ज्ञर्+++(=जीवाः)+++.  
+</details>
+
+<details><summary>English</summary>
+
+The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless karma. 
+
+They range from Brahma to the blade of grass and are called kṣetrajnāh. (Brahma, gods, men, beasts, trees, grass and so on ).
+</details>
+
+<details><summary>Español</summary>
+
+The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless karma. 
+
+They range from Brahma to the blade of grass and are called kṣetrajnāh. (Brahma, gods, men, beasts, trees, grass and so on ).
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless karma. They range from Brahma to the blade of grass and are called kṣetrajnāh. (Brahma, gods, men, beasts, trees, grass and so on ).
+इवर्गळिल् बद्धरावार्, अनादि-कर्म-प्रवाहत्ताले अनुवृत्त-संसारराय् ब्रह्मादि-स्तंब-पर्यन्त-विभागभागिगळान क्षेत्रज्ञर्.  
+</details>
 
-The muktās (or released souls) are those who, by adopting the means (upāya ) prescribed in the śāstras, have obtained the Lord's grace, permanently transcended the cycle of births and deaths, and have obtained unsurpassed bliss as a result of the unrestricted enjoyment of Bhagavān.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तर् आवार् -  
+शास्त्र-चोदितङ्गळ् आन उपाय-विशेषङ्गळाल् उण्ड् आन भगवत्-प्रसादत्ताल् ए  
+अत्यन्त-निवृत्त-संसारर् आय्  
+सङ्कोच-रहित-भगवद्-अनुभवत्ताल् ए निरतिशयानन्दर् आय्  
+इरुक्कुम् अवर्गळ्.  
+</details>
+
+<details><summary>English</summary>
+
+The muktās (or released souls) are those who,  
+by adopting the means (upāya ) prescribed in the śāstras,  
+have obtained the Lord's grace,  
+permanently transcended the cycle of births and deaths,  
+and have obtained unsurpassed bliss as a result of the unrestricted enjoyment of Bhagavān.
+</details>
+
+<details><summary>Español</summary>
+
+The muktās (or released souls) are those who,  
+by adopting the means (upāya ) prescribed in the śāstras,  
+have obtained the Lord's grace,  
+permanently transcended the cycle of births and deaths,  
+and have obtained unsurpassed bliss as a result of the unrestricted enjoyment of Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुक्तरावार् शास्त्रचोदितङ्गळान उपायविशेषङ्गळालुण्डान भगवत्प्रसादत्ताले अत्यन्त-निवृत्त-संसारराय् सङ्कोच-रहित-भगवदनुभवत्ताले निरतिशयानन्द रायिरुक्कुमवर्गळ्.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यर् आवार् -  
+ईश्वरनैप्-पोल् ए अनादिय् आग ज्ञान-सङ्कोचम् इल्लामैयाल् ए  
+
+> “सवयस इव ये नित्य-निर्दोष-गन्धाः” (श्रीगुणरत्नकोषम् 27)  
+
+ऎन्गिऱप्-पडिय् ए  
+अ-स्पृष्ट-संसारर् आय्क्-कॊण्डु  
+नित्य-कैङ्कर्यम् पण्णुगिऱ अनन्त-गरुड-विष्वक्सेनादिगळ्.  
+</details>
+
+<details><summary>English</summary>
 
 The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like Iśvara Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in saṁsāra and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adiśeṣa, Garuḍa and Viṣvaksena.
 
 [^27]: has never undergone contraction
+</details>
 
-The characteristic attributes common to all the three of them are being atomic (in size) (aṇ u) and being of the nature of knowledge (jñāna), bliss (ānanda), purity (amalatvam) and the like. They are all śeṣas to Bhagavān and are entirely subject to His will. One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation. This has been (already) mentioned in the Introductory Chapter and will be described later on also.
+<details><summary>Español</summary>
+
+The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like Iśvara Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in saṁsāra and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adiśeṣa, Garuḍa and Viṣvaksena.
+
+[^27]: has never undergone contraction
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यरावार् ईश्वरनैप्पोले अनादियाग ज्ञानसङ्कोचमिल्लामैयाले  
+“सवयस इव ये नित्य-निर्दोष-गन्धाः” (श्रीगुणरत्नकोषम् 27)  
+ऎन्गिऱप्पडिये अस्पृष्टसंसारराय्क्कॊण्डु नित्यकैङ्कर्यम् पण्णुगिऱ अनन्त-गरुड-विष्वक्सेनादिगळ्.  
+</details>
+
+
+### साधारण-धर्माः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् ऎल्लार्क्क् उम्  
+साधारणम् आन रूपम्  
+अणुत्व-ज्ञानानन्द-अमलत्वादिगळ् उम्,  
+भगवच्-छेषत्व-पारतन्त्र्यादिगळ् उम्. 
+</details>
+
+<details><summary>English</summary>
+
+The characteristic attributes common to all the three of them are  
+being atomic (in size) (aṇu)  
+and being of the nature of knowledge (jñāna), bliss (ānanda), purity (amalatvam) and the like.  
+They are all śeṣas to Bhagavān  
+and are entirely subject to His will.  
+</details>
+
+<details><summary>Español</summary>
+
+The characteristic attributes common to all the three of them are  
+being atomic (in size) (aṇu)  
+and being of the nature of knowledge (jñāna), bliss (ānanda), purity (amalatvam) and the like.  
+They are all śeṣas to Bhagavān  
+and are entirely subject to His will.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् ऎल्लार्क्क् उम्  साधारणम् आन रूपम् अणुत्व-ज्ञानानन्द-अमलत्वादिगळुम्, भगवच्छेषत्व-पारतन्त्र्यादिगळुम्. 
+</details>
+
+### मुमुक्षु-विशेषाः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षुवान तनक्कु  
+अ-साधारणम् आग अऱिय-वेण्डुम् आकारङ्गळ्  
+उपोद्घातत्तिल् ए +++(भ्रष्ट-राजकुमारकथायाम् स्वजन-प्राप्त्य्-उत्कण्ठया)+++ सॊन्नोम्;  
+मेलुङ् गण्डु कॊळ्वदु.  
+</details>
+
+<details><summary>English</summary>
+
+One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation.  
+This has been (already) mentioned in the Introductory Chapter and will be described later on also.
+</details>
+
+<details><summary>Español</summary>
+
+One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation.  
+This has been (already) mentioned in the Introductory Chapter and will be described later on also.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवान तनक्कु असाधारणमाग अऱियवेण्डुम् आकारङ्गळ् उपोद्घातत्तिले सॊन्नोम्;  
+मेलुङ् गण्डु कॊळ्वदु.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्राप्ताविन्-उडैय स्व-रूपम्  
+प्रणव-नमस्सुक्कळिल् **म**-कारङ्गळिल् उम्,  
+**नार**-शब्दङ्गळिल् उम्,  
+‘प्रपद्ये’ ऎन्गिऱ उत्तमनिल् उम्,  
+‘व्रज’ ऎन्गिऱ मध्यमनिल् उम्,  
+‘त्वा’ ऎन्गिऱ पदत्तिल् उम्  
+‘मा शुचः’ ऎन्गिऱ वाक्यत्तिल् उम् अनुसन्धेयम्.
+</details>
+
+<details><summary>English</summary>
 
 The essential nature of the jīva who seeks attainment should be thought of, while considering the letter m in om and in namas or namo in Tirumantra, and in the part nāra of the word Nārāyaṇa, wherever it occurs in the aṣṭākṣara and the Dvayam, in the first person singular form " I seek refuge" prapadye in Dvayam, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thee (tva) and in the sentence " despair not" in the caramaśloka .
+</details>
+
+<details><summary>Español</summary>
+
+The essential nature of the jīva who seeks attainment should be thought of, while considering the letter m in om and in namas or namo in Tirumantra, and in the part nāra of the word Nārāyaṇa, wherever it occurs in the aṣṭākṣara and the Dvayam, in the first person singular form " I seek refuge" prapadye in Dvayam, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thee (tva) and in the sentence " despair not" in the caramaśloka .
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्राप्ताविनुडैय स्वरूपम् प्रणवनमस्सुक्कळिल् मकारङ्गळिलुम्, नार-शब्दङ्गळिलुम्, ‘प्रपद्ये’ ऎन्गिऱ उत्तमनिलुम्, ‘व्रज’ ऎन्गिऱ मध्यमनिलुम्, ‘त्वा’ऎन्गिऱ पदत्तिलुम् ‘मा शुचः’ ऎन्गिऱ वाक्यत्तिलुम् अनुसन्धेयम्.
+</details>
+
+## उपायः
+<details><summary>English</summary>
 
 THE MEANS OF ATTAINMENT.
+</details>
+
+<details><summary>Español</summary>
+
+THE MEANS OF ATTAINMENT.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्त्य्-उपायम् उम्, इदिन् परिकरङ्गळ् उम्, फल--स्व-रूपम् इरुक्कुम्-बडिय् उम्  
+मेले प्राप्त-स्थलङ्गळिल् ए परक्कच्+++(=विस्तारतः)+++-चॊल्लक्-कडवोम्+++(=चोदयामः)+++.
+</details>
+
+<details><summary>English</summary>
 
 We will describe at length the means of attainment (upāya) and its auxiliaries and also the nature of the fruit to be attained in their proper context later.
+</details>
+
+<details><summary>Español</summary>
+
+We will describe at length the means of attainment (upāya) and its auxiliaries and also the nature of the fruit to be attained in their proper context later.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्त्युपायमुम् इदिन् परिकरङ्गळुम् फलस्वरूपमिरुक्कुम्बडियुम् मेले प्राप्तस्थलङ्गळिले परक्कच्चॊल्लक्कडवोम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् उपायम् तिरुमन्त्रत्तिल् नमस्सिल् उम् +++(स्वातन्त्र्य-भ्रम-निवारणतः)+++  
++++(उपायार्थतः, उपेयार्थयश् च)+++ अयन-शब्दत्तिल् उम्,  
+द्वयत्तिल् +++(प्रपत्ति-वाचक-)+++पूर्व-खण्डत्तिल् उम्  
+चरम-श्लोकत्तिल् +++(प्रपत्ति-वाचक-)+++पूर्वार्द्धत्तिल् उम् अनुसन्धेयम्.  
+</details>
+
+<details><summary>English</summary>
 
 Among these two, the upāya or means of attainment is to be considered as indicated in Tirumantra in the word namas or namo and in the part ayana (resting place). in Nārāyanāya ; in Dvayam in the first part and in the Carama śloka in the first half.
+</details>
 
-THE FIVE THINGS TO BE KNOWN
+<details><summary>Español</summary>
+
+Among these two, the upāya or means of attainment is to be considered as indicated in Tirumantra in the word namas or namo and in the part ayana (resting place). in Nārāyanāya ; in Dvayam in the first part and in the Carama śloka in the first half.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् उपायम् तिरुमन्त्रत्तिल् नमस्सिलुम् अयन-शब्दत्तिलुम्, द्वयत्तिल् पूर्वखण्डत्तिलुम् चरमश्लोकत्तिल् पूर्वार्द्धत्तिलुम् अनुसन्धेयम्.  
+</details>
+
+## फलम्
+
+<details><summary>English</summary>
 
 THE GOAL OF ATTAINMENT.
+</details>
+
+<details><summary>Español</summary>
+
+THE GOAL OF ATTAINMENT.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+फल--स्व-रूपम् चतुर्थ्य्-अन्त-पदङ्गळिल् उम्  
+द्वयत्तिल् नमस्सिल् उम्,  
+"सर्व-पापेभ्यो मोक्षयिष्यामि” ऎन्गिऱव् इडत्तिल् उम् अनुसन्धेयम्.  
+</details>
+
+<details><summary>English</summary>
 
 The Nature of the fruit to be attained or enjoyed is mentioned in the dative or fourth case (i.e) in Nārāyaṇāya in the Tirumantra, in the word namah in the Dvaya, and in the carama śloka in the words "I will free thee from all sins."
+</details>
+
+<details><summary>Español</summary>
+
+The Nature of the fruit to be attained or enjoyed is mentioned in the dative or fourth case (i.e) in Nārāyaṇāya in the Tirumantra, in the word namah in the Dvaya, and in the carama śloka in the words "I will free thee from all sins."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फल--स्व-रूपम् चतुर्थ्य्-अन्त-पदङ्गळिल् उम्  
+द्वयत्तिल् नमस्सिल् उम्,  
+"सर्व-पापेभ्यो मोक्षयिष्यामि” ऎन्गिऱव् इडत्तिल् उम् अनुसन्धेयम्.  
+</details>
+
+## प्राप्ति-विरोधि
+<details><summary>English</summary>
 
 THE HINDRANCE TO ATTAINMENT,
+</details>
 
-The hindrances to the attainment are the multitude of obstacles that stand in the way of our attaining mokṣa , such as ignorance (avidyā), karma and vāsana or impression left in the mind by karma in previous births,
+<details><summary>Español</summary>
 
-The foremost of these hindrances is the punishment inflicted by Bhagavān for disobedience of His orders continually from time immemorial. This chastisement causes association with prakṛti or matter with its three qualities (sattva, rajas and tamas) and thereby contraction of knowledge. It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakṛti) on the other. Further it makes the jīva subject to the sway of the body and the senses. To quote the words of the Alwar, “With the strong ropes of my sins, Thou hast bound me tightly with the body, covered the sores within the body (like flesh, fat and blood) with the skin and let me walk away from Thee." "With [^f127] the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." This chastisement often consists in placing the jīva in the body of animals which can have no knowledge of the Śāstras and cannot act in accordance with them. Even in births like those of men, it confounds the mind with the views of infidels and heretics and, even in the case of those who escape this, causes, through the concealing agency of the peacock feather of primal matter (moola-prakṛti) and its modifications, the bodies and the senses, (1) ignorance
+THE HINDRANCE TO ATTAINMENT,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्ति-विरोधिय् आवदु  
+अविद्या-कर्म-वासनादि-रूपम् आन मोक्ष-प्रतिबन्धक-वर्गम्.
+</details>
+
+<details><summary>English</summary>
+
+The hindrances to the attainment are the multitude of obstacles that stand in the way of our attaining mokṣa , such as ignorance (avidyā), karma and vāsana or impression left in the mind by karma in previous births
+</details>
+
+<details><summary>Español</summary>
+
+The hindrances to the attainment are the multitude of obstacles that stand in the way of our attaining mokṣa , such as ignorance (avidyā), karma and vāsana or impression left in the mind by karma in previous births
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्तिविरोधियावदु अविद्या-कर्म-वासनादि-रूपमान मोक्ष-प्रतिबन्धकवर्गम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् प्रधानम्  
+अनादिय् आग सन्तन्यमानम् आन  
+आज्ञातिलङ्घनम् अडिय् आगप् पिऱन्द  
+**भगवन्-निग्रहम्**.+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The foremost of these hindrances  
+is the punishment inflicted by Bhagavān for disobedience of His orders  
+continually from time immemorial.  
+</details>
+
+<details><summary>Español</summary>
+
+The foremost of these hindrances  
+is the punishment inflicted by Bhagavān for disobedience of His orders  
+continually from time immemorial.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् प्रधानम् अनादियाग सन्तन्यमानमान आज्ञातिलङ्घनमडियागप् पिऱन्द भगवन्निग्रहम्.
+</details>
+
+
+
+This chastisement causes association with prakṛti or matter with its three qualities (sattva, rajas and tamas) and thereby contraction of knowledge. It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakṛti) on the other. Further it makes the jīva subject to the sway of the body and the senses. To quote the words of the Alwar, “With the strong ropes of my sins, Thou hast bound me tightly with the body, covered the sores within the body (like flesh, fat and blood) with the skin and let me walk away from Thee." "With [^f127] the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." This chastisement often consists in placing the jīva in the body of animals which can have no knowledge of the Śāstras and cannot act in accordance with them. Even in births like those of men, it confounds the mind with the views of infidels and heretics and, even in the case of those who escape this, causes, through the concealing agency of the peacock feather of primal matter (moola-prakṛti) and its modifications, the bodies and the senses, (1) ignorance
 
 [^f127]: Tiruvoymozhi: 3-2-1
 
