@@ -1059,7 +1059,7 @@ one should think of His essential nature (svarūpa) as infinite jñāna and infi
 
 [^f66]: Aḷavandār Stotram 46
 
-### गुणाकरः
+### प्राप्य-प्रापक-गुणाः
 <details><summary>English</summary>
 
 BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
@@ -1578,136 +1578,904 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+"उयर्व्+++(=औन्नत्य)+++-अऱव्+++(=इल्लाद)+++ उयर्-नलम्+++(=गुणम्|आनन्द)+++ उडैयवन्" (तिरुवाय्मॊऴि 1-1-1)  
+</details>
 
-
+<details><summary>English</summary>
 
 "He has [^f101] noble qualities like bliss, which are limitless in extent."
 
 [^f101]: Tiruvoymozhi 1-1-1
+</details>
 
-He is to be considered also as possessing all those qualities which are necessary for one who is the object of attainment and who is, likewise, the means of attainment. Many are the passages that speak of Bhagavān's qualities :
+<details><summary>Español</summary>
+
+"He has [^f101] noble qualities like bliss, which are limitless in extent."
+</details>
+
+<details><summary>मूलम्</summary>
+
+"उयर्वऱवुयर् नलमुडैयवन्" (तिरुवाय्मॊऴि 1-1-1)  
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप् पडिय् ए प्राप्यत्व-प्रापकत्वोपयुक्तङ्गळ् आन गुणङ्गळाल् ए  
+विशिष्टम् आग अनुसन्धेयम्.+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+He is to be considered also as possessing all those qualities  
+which are necessary for one who is the object of attainment  
+and who is, likewise, the means of attainment.  
+Many are the passages that speak of Bhagavān's qualities.
+</details>
+
+<details><summary>Español</summary>
+
+He is to be considered also as possessing all those qualities  
+which are necessary for one who is the object of attainment  
+and who is, likewise, the means of attainment.  
+Many are the passages that speak of Bhagavān's qualities.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये प्राप्यत्व-प्रापकत्वोपयुक्तङ्गळान गुणङ्गळाले विशिष्टमाग अनुसन्धेयम्.
+</details>
+
+### विग्रहाः
 BHAGAVĀN HAS A DIVINE AND AUSPICIOUS FORM:
 
-Bhagavān should be thought of, also, as having a transcendent, super sensuous (aprākrita), divine and auspicious form, which is the resting place (āsraya ) of the universe, for there are many passages which refer to this form of His.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(विश्वरूपत्वेन)+++ “सदैकरूपरूपाय” (वि-पु. 1-2-1)
+</details>
+
+<details><summary>English</summary>
 
 "To Him [^f102] whose form ever remains the same -- "
 
 [^f102]: Viṣṇupurāṇa: 1-2 -1
+</details>
+
+<details><summary>Español</summary>
+
+"To Him [^f102] whose form ever remains the same -- "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सदैकरूपरूपाय” (वि-पु. 1-2-1)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“नित्य-सिद्धे तद्-आकारे,  
+तत्+++(→आकारे)+++-परत्वे च पौष्कर+++(=ब्रह्मन्)+++ ।  
+यस्यास्ति सत्ता हृदये  
+तस्यासौ सन्निधिं व्रजेत् ॥”  
+(पौ॰ सम्)
+</details>
+
+<details><summary>English</summary>
 
 "He who [^f103] has faith in His form that is eternal and in His being the Supreme Deity - him Bhagavān approaches soon, O Pauṣkara."
 
 [^f103]: Paushkara Saṁhitā
+</details>
+
+<details><summary>Español</summary>
+
+"He who [^f103] has faith in His form that is eternal and in His being the Supreme Deity - him Bhagavān approaches soon, O Pauṣkara."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“नित्यसिद्धे तदाकारे तत्परत्वे च पौष्कर । यस्यास्ति सत्ता हृदये तस्यासौ सन्निधिं व्रजेत् ॥”
+(पौ॰ सम्)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“समस्ताश् शक्तयश् चैता  
+नृप यत्र प्रतिष्ठिताः ।  
+तद्-विश्वरूप-वैरूप्यं,  
+रूपम् अन्यद्+धरेर् महत्”+++(5)+++  
+(विष्णुपुराणम् 6-7-70.)  
+</details>
+
+<details><summary>English</summary>
 
 “Hari has [^f104] another form entirely different from all forms seen in the universe, in which all these saktīs abide."
 
 [^f104]: Viṣṇupurāṇa: 6-7-70
+</details>
+
+<details><summary>Español</summary>
+
+“Hari has [^f104] another form entirely different from all forms seen in the universe, in which all these saktīs abide."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“समस्ताश्शक्तयश्चैता नृप यत्र प्रतिष्ठिताः । तद्विश्वरूप-वैरूप्यं रूपमन्यद्धरेर्महत्” (विष्णुपुराणम् 6-7-70.)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“इच्छा-गृहीताभिमतोरु-देहः” (विष्णुपुराणम् 6-5-84)  
+</details>
+
+<details><summary>English</summary>
 
 "He [^f105] assumes by His will a form that is immense and that is pleasing."
 
 [^f105]: Viṣṇupurāṇa: 6-5-84
+</details>
+
+<details><summary>Español</summary>
+
+"He [^f105] assumes by His will a form that is immense and that is pleasing."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“इच्छागृहीताभिमतोरुदेहः” (विष्णुपुराणम् 6-5-84)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“न भूतसङ्घसंस्थानो देहोऽस्य परमात्मनः” (भारतम् शान्तिपर्वम् 206-60)
+</details>
+
+<details><summary>English</summary>
 
 “The body [^f106] of the Supreme Being is not constituted of the (five) elements."
 
 [^f106]: Mahābhārata: Śāntiparva: 206-60
+</details>
+
+<details><summary>Español</summary>
+
+“The body [^f106] of the Supreme Being is not constituted of the (five) elements."
+</details>
+
+<details><summary>मूलम्</summary>
+
+“न भूतसङ्घसंस्थानो देहोऽस्य परमात्मनः” (भारतम् शान्तिपर्वम् 206-60)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“न तस्य प्राकृता मूर्तिर् 
+मांस-मेदोऽस्थि-संभवा” (वराहपुराणम् 34-40)
+</details>
+
+<details><summary>English</summary>
 
 “His form [^f107] is not constituted of prakṛti or matter nor formed of flesh, lymph or bone."
 
 [^f107]: Varāhapurāṇa: 31-40
+</details>
 
-" This form [^f108] has four arms, is supremely excellent, and is in Vaikuṇṭha  ."
+<details><summary>Español</summary>
+
+“His form [^f107] is not constituted of prakṛti or matter nor formed of flesh, lymph or bone."
+
+[^f107]: Varāhapurāṇa: 31-40
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“न तस्य प्राकृता मूर्तिर्मांसमेदोस्थिसंभवा” (वराहपुराणम् 34-40)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“भुजैश् चतुर्भिस् समुपेतम् एतद्  
+रूपं विशिष्टं दिवि संस्थितञ् च”  
+(भारतम् मॆळसल 5-34)
+</details>
+
+<details><summary>English</summary>
+
+"This form [^f108] has four arms, is supremely excellent, and is in Vaikuṇṭha  ."
 
 [^f108]: Mahābhārata: mausalaparva: 5-34
+</details>
+
+<details><summary>Español</summary>
+
+" This form [^f108] has four arms, is supremely excellent, and is in Vaikuṇṭha  ."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“भुजैश्चतुर्भिस्समुपेतमेतद्रूपं विशिष्टं दिवि संस्थितञ्च”(भारतम् मॆळसल 5-34)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“रुक्माभं स्वप्न-धी-गम्यं”+++(5)+++ (मनुस्मृति 12-123 (12-122))  
+</details>
+
+<details><summary>English</summary>
 
 "He has a [^f109] form resplendent like gold and capable of being seen by the mind as in a dream."
 
 [^f109]: Manu Smr̥ti: 12-122
+</details>
+
+<details><summary>Español</summary>
+
+"He has a [^f109] form resplendent like gold and capable of being seen by the mind as in a dream."
+
+[^f109]: Manu Smr̥ti: 12-122
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“रुक्माभं स्वप्नधीगम्यं” (मनुस्मृति 12-123 (12-122))  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तत्रैकस्थं जगत् कृत्स्नं ”(गीता 11-13)  
+</details>
+
+<details><summary>English</summary>
+
+??
+</details>
+
+<details><summary>Español</summary>
+
+??
+</details>
+
+<details><summary>मूलम्</summary>
+
+“तत्रैकस्थं जगत् कृत्स्नं ”(गीता 11-13)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“पश्यामि देवांस्तव देवदेहे” (गीता 11-15)
+</details>
+
+<details><summary>English</summary>
 
 "In Thy [^f110] form, O Lord, I see the gods."
 
 [^f110]: Bhagavadgītā: 11-13
+</details>
+
+<details><summary>Español</summary>
+
+"In Thy [^f110] form, O Lord, I see the gods."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“पश्यामि देवांस्तव देवदेहे” (गीता 11-15)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“अस्त्र-भूषण-संस्थान-स्वरूपं”(विष्णुपुराणम् 1-22-76)
+</details>
+
+<details><summary>English</summary>
 
 "He has [^f111] a body on which rest weapons and ornaments."
 
 [^f111]: Ibid: 11-15
+</details>
+
+<details><summary>Español</summary>
+
+"He has [^f111] a body on which rest weapons and ornaments."
+
+[^f111]: Ibid: 11-15
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अस्त्र-भूषण-संस्थान-स्वरूपं”(विष्णुपुराणम् 1-22-76)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“भूषणास्त्र--स्व-रूप--स्थं  
+यथेदम् अखिलं जगत्” (विष्णुपुराणम् 1-22-66)+++(5)+++  
+</details>
+
+<details><summary>English</summary>
 
 "All this [^f112] universe is in His form as weapons and ornaments."
 
 [^f112]: Rāmāyaṇa; Yuddhakāṇḍa: 114-25
+</details>
+
+<details><summary>Español</summary>
+
+"All this [^f112] universe is in His form as weapons and ornaments."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“भूषणास्त्र-स्वरूपस्थं यथेदमखिलं जगत्” (विष्णुपुराणम् 1-22-66)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तमसः परमो धाता  
+शङ्ख-चक्र-गदा-धरः”  
+(रामायणम्-युद्धकाण्डम् 114-15)
+</details>
+
+<details><summary>English</summary>
 
 “The [^f113] Supreme Being Armed with the conch, the chakra and the club is in the region beyond the universe of matter (tamas)"
 
 [^f113]: Viṣṇupurāṇam: 1-22-32
+</details>
 
-From the Pāñcarātra śāstra  (Bhagavat śāstra), it is learnt that this form of the Lord is of five kinds (1) The Supreme (Para Vāsudeva ), (2) Vyūha (Vāsudeva, Saṅkarṣaṇa, Aniruddha and Pradyumna), (3) Vibhava (avatārs like Rāma and Kṛṣṇa), (4) [^f114] Hārda[^25] and (5) arcā (images worshipped in temples).
+<details><summary>Español</summary>
 
-[^f114]: Harda is an aprakrita form of the Lord present in the human heart, like the arcā in temples.*
+“The [^f113] Supreme Being Armed with the conch, the chakra and the club is in the region beyond the universe of matter (tamas)"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तमसः परमो धाता शङ्खचक्रगदाधरः”(रामायणम्-युद्धकाण्डम् 114-15)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप्पडिये सर्व-जगद्-आश्रयम् आन  
+अ-प्राकृत-दिव्य-मङ्गळ-विग्रह-विशिष्टम् आग अनुसन्धेयम्. 
+</details>
+
+<details><summary>English</summary>
+
+Bhagavān should be thought of, also, as having a transcendent, super sensuous (aprākrita), divine and auspicious form, which is the resting place (āsraya ) of the universe, for there are many passages which refer to this form of His.
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān should be thought of, also, as having a transcendent, super sensuous (aprākrita), divine and auspicious form, which is the resting place (āsraya ) of the universe, for there are many passages which refer to this form of His.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये सर्वजगदाश्रयमान अप्राकृत-दिव्यमङ्गळ-विग्रह-विशिष्टमाग अनुसन्धेयम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् विग्रहम् -  
+पर-व्यूह-विभव-हार्दार्चावतार-रूपेण पञ्च-प्रकारम् आय् इरुक्कुम् बडिय् उम्,  
+इवट्रिल् उळ्ळ विशेषङ्गळ् उम्,  
+भगवच्-छास्त्र-संप्रदायत्ताल् ए अऱियप्-पडुम्.
+</details>
+
+<details><summary>English</summary>
+
+From the Pāñcarātra śāstra  (Bhagavat śāstra), it is learnt that this form of the Lord is of five kinds (1) The Supreme (Para Vāsudeva ), (2) Vyūha (Vāsudeva, Saṅkarṣaṇa, Aniruddha and Pradyumna), (3) Vibhava (avatārs like Rāma and Kṛṣṇa), (4)  Hārda[^25] and (5) arcā (images worshipped in temples).
 
 [^25]: Harda is an aprakrita form of the Lord present in the human heart, like the arcā in temples
 
-Details concerning them may be learnt from the Pāñcarātra śāstra  and from tradition. Bhagavān should also be considered as having endless glories or possessions (Vibhūti). For there are passages like the following which describe His vibhūtis
+Details concerning them may be learnt from the Pāñcarātra śāstra  and from tradition. 
+</details>
+
+<details><summary>Español</summary>
+
+From the Pāñcarātra śāstra  (Bhagavat śāstra), it is learnt that this form of the Lord is of five kinds (1) The Supreme (Para Vāsudeva ), (2) Vyūha (Vāsudeva, Saṅkarṣaṇa, Aniruddha and Pradyumna), (3) Vibhava (avatārs like Rāma and Kṛṣṇa), (4)  Hārda[^25] and (5) arcā (images worshipped in temples).
+
+[^25]: Harda is an aprakrita form of the Lord present in the human heart, like the arcā in temples
+
+Details concerning them may be learnt from the Pāñcarātra śāstra  and from tradition. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विग्रहम् - पर-व्यूह-विभव-हार्दार्चावताररूपेण पञ्च-प्रकारमायिरुक्कुम्बडियुम्, इवट्रिलुळ्ळ विशेषङ्गळुम्, भगवच्छास्त्र-संप्रदाय-त्ताले अऱियप्पडुम्.
+</details>
+
+
+### विभूती
+<details><summary>English</summary>
 
 THE VIBHŪTIS OF BHAGAVĀN: LILÃ AND BHOGA:
+</details>
+
+<details><summary>Español</summary>
+
+THE VIBHŪTIS OF BHAGAVĀN: LILÃ AND BHOGA:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“विष्णोर् एता +++(देवादि-वस्तूनि)+++ विभूतयः”(विष्णुपुराणम् 1-22-32)
+</details>
+
+<details><summary>English</summary>
 
 "These [^f115] are the vibhūtis (glories) of Viṣṇu  (i. e.) Brahma, Manu and others, time and all beings. "
 
 [^f115]: Viṣṇupurāṇa:
+</details>
+
+<details><summary>Español</summary>
+
+"These [^f115] are the vibhūtis (glories) of Viṣṇu  (i. e.) Brahma, Manu and others, time and all beings. "
+</details>
+
+<details><summary>मूलम्</summary>
+
+“विष्णोरेता विभूतयः”(विष्णुपुराणम् 1-22-32)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“महा-विभूति+++(=वैकुण्ठ)+++-संस्थान!” (विष्णुपुराणम् 5-6-50)
+</details>
+
+<details><summary>English</summary>
 
 "He has, for [^f116] His abode, the region of eternal glory called Mahā vibhūti.
 
 [^f116]: Viṣṇupurāṇa :5-1-50
+</details>
 
-" There is [^f117] no end, O mighty warrior, to my divine glories" (vibhūtis). These ideas are concisely expressed in the śloka  :
+<details><summary>Español</summary>
+
+"He has, for [^f116] His abode, the region of eternal glory called Mahā vibhūti.
+
+[^f116]: Viṣṇupurāṇa :5-1-50
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“महाविभूतिसंस्थान!” (विष्णुपुराणम् 5-6-50)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“नान्तोस्ति मम दिव्यानां  
+विभूतीनां परन्तप” (गीता 10-40)
+</details>
+
+<details><summary>English</summary>
+
+" There is [^f117] no end, O mighty warrior, to my divine glories" (vibhūtis). 
 
 [^f117]: Bhagavadgītā: 10-40
+</details>
+
+<details><summary>Español</summary>
+
+" There is [^f117] no end, O mighty warrior, to my divine glories" (vibhūtis). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“नान्तोस्ति मम दिव्यानां विभूतीनां परन्तप” (गीता 10-40)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळ्-उडैय संग्रहम् आन  
+“यद् अण्डम् अण्डान्तर-गोचरञ् च यत्”(आळ-स्तो 17)
+</details>
+
+<details><summary>English</summary>
+
+These ideas are concisely expressed in the śloka  :
 
 “The [^f118] anda of the Universe and whatever else is found within that anda are His vibhūtis."
 
 [^f118]: Aḷavandār Stotram: 17
+</details>
 
-These vibhūtis (possessions or glories) of God are of two kinds, sentient and non-sentient, and these again are of two kinds, some existing for His Līlā or sport and others for His enjoyment (bhoga). This division into things for play (līlā) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all  of them have agreeableness (or ānukulyam) in common. Bhagavān should be considered as being engaged in the work of the Universe merely for His play or sport (līlā), for it has been said as follows:
+<details><summary>Español</summary>
+
+These ideas are concisely expressed in the śloka  :
+
+“The [^f118] anda of the Universe and whatever else is found within that anda are His vibhūtis."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळुडैय संग्रहमान “यदण्डमण्डान्तरगोचरञ्च यत्”(आळ-स्तो 17)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱ श्लोकत्तिन् पडिय् ए  
+अनन्त-विभूति-विशिष्टम् आग अनुसन्धेयम्.
+</details>
+
+<details><summary>English</summary>
+
+Bhagavān should also be considered as having endless glories or possessions (Vibhūti).  
+For there are passages like the following which describe His vibhūtis.
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān should also be considered as having endless glories or possessions (Vibhūti).  
+For there are passages like the following which describe His vibhūtis.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱ श्लोकत्तिन् बडिये अनन्तविभूति-विशिष्टमाग अनुसन्धेयम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-विभूतिगळिल् चेतनङ्गळ् आय् उम्, अचेतनङ्गळ् आय् उम् उळ्ळ  
+इरण्डु-वगैय् उम् लीलार्थङ्गळ् आय् उम्,  
+भोगार्थङ्गळ् आय् उम्,  
+विभक्तङ्गळ् आय् इरुक्कुम्.  
+</details>
+
+<details><summary>English</summary>
+
+These vibhūtis (possessions or glories) of God are of two kinds, sentient and non-sentient,  
+and these again are of two kinds,  
+some existing for His Līlā or sport  
+and others for His enjoyment (bhoga).  
+</details>
+
+<details><summary>Español</summary>
+
+These vibhūtis (possessions or glories) of God are of two kinds, sentient and non-sentient,  
+and these again are of two kinds,  
+some existing for His Līlā or sport  
+and others for His enjoyment (bhoga).  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विभूतिगळिल् चेतनङ्गळायुम् अचेतनङ्गळायुमुळ्ळ इरण्डुवगैयुम् लीलार्थङ्गळायुम्, भोगार्थङ्गळायुम्, विभक्तङ्गळायिरुक्कुम्.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आनुकूल्य-मात्रम् पॊदुव्+++(=सामान्यम्)+++ आय् इरुक्क रस-वैषम्यत्ताल् ए  
+लीला-भोग-विभागम् +++(स्त्री-फलादीनाम्, उद्यान-क्दन्दुकादीनाम् भेद इव)+++ यथा-लोकङ् कण्डु-कॊळ्वदु.
+</details>
+
+<details><summary>English</summary>
+
+This division into things for play (līlā) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all  of them have agreeableness (or ānukulyam) in common.
+</details>
+
+<details><summary>Español</summary>
+
+This division into things for play (līlā) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all  of them have agreeableness (or ānukulyam) in common.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आनुकूल्यमात्रम् पॊदुवायिरुक्क रसवैषम्यत्ताले लीला-भोग-विभागम् यथालोकङ् गण्डु कॊळ्वदु.
+</details>
+
+#### लीलायै प्रपञ्चः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिय् ए  
+
+> “जन्माद्य् अस्य यतः”(शा-सू 1-1-2.)  
+</details>
+
+<details><summary>English</summary>
 
 " From [^f119] whom is the origin etc. of this world"
 
 [^f119]: Brahmasutras: 1-1-2
+</details>
+
+<details><summary>Español</summary>
+
+" From [^f119] whom is the origin etc. of this world"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये  
+“जन्माद्यस्य यतः”(शा-सू 1-1-2.)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“क्रीडा हरेरिदं सर्वं”  
+(भारतम् शान्तिपर्वम् 206-58)
+</details>
+
+<details><summary>English</summary>
 
 “All [^f120] this is Hari's play (or sport)."
 
 [^f120]: Mahābhārata: Śāntiparva: 206-58
+</details>
+
+<details><summary>Español</summary>
+
+“All [^f120] this is Hari's play (or sport)."
+</details>
+
+<details><summary>मूलम्</summary>
+
+“ क्रीडा हरेरिदं सर्वं”(भारतम् शान्तिपर्वम् 206-58)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“ क्रीडतो बालकस्येव”(विष्णुपुराणम् 1-2-18)  
+</details>
+
+<details><summary>English</summary>
 
 “ Of [^f121] Him who plays like a child"
 
 [^f121]: Viṣṇupurāṇa: 1-2-18
+</details>
+
+<details><summary>Español</summary>
+
+“ Of [^f121] Him who plays like a child"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ क्रीडतो बालकस्येव”(विष्णुपुराणम् 1-2-18)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“बालः क्रीडनकैरिव”(भार  सभा 12-57)
+</details>
+
+<details><summary>English</summary>
 
 “[^f122] Playing like a boy with his toys"
 
 [^f122]: Mahābhārata: Sabhaparva: 40-78
+</details>
 
-"Thou [^f123] playest with Thy creatures, as if they were balls for
+<details><summary>Español</summary>
+
+“[^f122] Playing like a boy with his toys"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“बालः क्रीडनकैरिव”(भार  सभा 12-57)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“हरे विहरसि क्रीडा-कन्दुकैर् इव जन्तुभिः”(वि-त.)
+</details>
+
+<details><summary>English</summary>
+
+"Thou [^f123] playest with Thy creatures, as if they were balls for sport."
 
 [^f123]: Viṣṇudharma
+</details>
 
-sport."
+<details><summary>Español</summary>
+
+"Thou [^f123] playest with Thy creatures, as if they were balls for sport."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“हरे विहरसि क्रीडा-कन्दुकैरिव जन्तुभिः”(वि-त.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“लोकवत्तु लीलाकैवल्यं”(शा-सू. 2-1-33)
+</details>
+
+<details><summary>English</summary>
 
 “ All  [^f124] this is merely for play (on the part of Brahman) as in the world (kings play with balls).
 
 [^f124]: Brahmasutras: 2-1-33
+</details>
 
-[^f125] SUMMARY.[^26]
+<details><summary>Español</summary>
 
-[^f125]: This summarises Prapya (i.c.) the object of attainment, viz. Brahman*
+“ All  [^f124] this is merely for play (on the part of Brahman) as in the world (kings play with balls).
+</details>
 
-Thus Brahman, the object of attainment, is ever with Lakṣmī : He is infinite jñāna and infinite bliss, and is opposed to all that is imperfect and objectionable. He is possessed of countless auspicious qualities like wisdom and power. He has a celestial and transcendent form of auspicious nature. He has two vibhūtis (līlā and nitya ) which are His body; He has, for His play or sport (līlā), the work of creating the world, of maintaining and controlling it and the like.
 
-[^26]: This summarises Prapya (i.c.) the object of attainment, viz. Brahman
+<details><summary>मूलम्</summary>
+
+“लोकवत्तु लीलाकैवल्यं”(शा-सू. 2-1-33)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप्पडिये लीलारूप-जगद्वयापार-लक्षणमाग अनुसन्धेयम्.
+</details>
+
+<details><summary>English</summary>
+
+Bhagavān should be considered as being engaged in the work of the Universe merely for His play or sport (līlā), for it has been said above ~~as follows~~
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān should be considered as being engaged in the work of the Universe merely for His play or sport (līlā), for it has been said as above.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये लीलारूप-जगद्वयापार-लक्षणमाग अनुसन्धेयम्.
+</details>
+
+
+### सारः
+
+<details><summary>English</summary>
+
+SUMMARY.  
+(This summarises Prapya (i.c.) the object of attainment, viz. Brahman)
+</details>
+
+<details><summary>Español</summary>
+
+SUMMARY.  
+(This summarises Prapya (i.c.) the object of attainment, viz. Brahman)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि लक्ष्मी-सहायम् आय्  
+अ-परिमित-ज्ञानानन्दम् आय्  
+हेयप्रत्यनीकम् आय्  
+ज्ञान-शक्त्याद्य्-अनन्त-मङ्गळ-गुण-विशिष्टम् आय्  
+दिव्य-मङ्गळ-विग्रहोपेतम् आय्  
+शरीर-भूत-विभूति-द्वय-युक्तम् आय्  
+जगत्-सृष्ट्य्-आदि-व्यापार-लीलम् आय्क् कॊण्डु  
+प्राप्यमान ब्रह्मत्तै…  
+</details>
+
+<details><summary>English</summary>
+
+Thus Brahman, the object of attainment,  
+is ever with Lakṣmī :  
+He is infinite jñāna and infinite bliss,  
+and is opposed to all that is imperfect and objectionable.  
+He is possessed of countless auspicious qualities like wisdom and power.  
+He has a celestial and transcendent form of auspicious nature.  
+He has two vibhūtis (līlā and nitya )  
+which are His body;  
+He has, for His play or sport (līlā),  
+the work of creating the world,  
+of maintaining and controlling it and the like.
+
+</details>
+
+<details><summary>Español</summary>
+
+Thus Brahman, the object of attainment,  
+is ever with Lakṣmī :  
+He is infinite jñāna and infinite bliss,  
+and is opposed to all that is imperfect and objectionable.  
+He is possessed of countless auspicious qualities like wisdom and power.  
+He has a celestial and transcendent form of auspicious nature.  
+He has two vibhūtis (līlā and nitya )  
+which are His body;  
+He has, for His play or sport (līlā),  
+the work of creating the world,  
+of maintaining and controlling it and the like.
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि लक्ष्मीसहायमाय् अपरिमित-ज्ञानानन्दमाय् हेयप्रत्यनीकमाय् ज्ञान-शक्त्याद्यनन्त-मङ्गळगुणविशिष्टमाय् दिव्यमङ्गळ-विग्रहोपेतमाय् शरीरभूत-विभूतिद्वययुक्तमाय् जगत्सृष्ट्यादि-व्यापारलीलमाय्क् कॊण्डु प्राप्यमान ब्रह्मत्तै  
+</details>
+
+
+
+## प्राप्ता
+<details><summary>English</summary>
 
 THE NATURE OF THE INDIVIDUAL SELF:
+</details>
+
+<details><summary>Español</summary>
+
+THE NATURE OF THE INDIVIDUAL SELF:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… प्रापिक्कुम् प्रत्यग्-आत्माविन्-उडैय  
+बद्ध-मुक्त-नित्य-**साधारण-रूपम्** उम्  
+
+उपायाधिकारिय् आन तनक्क्  
+इप्-पोदु **अ-साधारणम्** आन रूपमुम् **अऱिय-वेणुम्**. 
+</details>
+
+<details><summary>English</summary>
 
 Now for the individual self (Pratyak ātmā) which is to attain Brahman :
 
 We should know that the individual self is in three categories : Baddha or those who are in the bondage of saṁsāra, Mukta, or those who have attained release from saṁsāra and Nitya or those who are eternally free from bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of mukti, from other baddhas.
+</details>
+
+<details><summary>Español</summary>
+
+Now for the individual self (Pratyak ātmā) which is to attain Brahman :
+
+We should know that the individual self is in three categories : Baddha or those who are in the bondage of saṁsāra, Mukta, or those who have attained release from saṁsāra and Nitya or those who are eternally free from bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of mukti, from other baddhas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रापिक्कुम् प्रत्यगात्माविनुडैय बद्ध-मुक्त-नित्य-साधारणरूपमुम् उपायाधिकारियान तनक्किप्पोदु असाधारणमान रूपमुम् अऱियवेणुम्. 
+</details>
+
+
+
 
 The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless karma. They range from Brahma to the blade of grass and are called kṣetrajnāh. (Brahma, gods, men, beasts, trees, grass and so on ).
 
