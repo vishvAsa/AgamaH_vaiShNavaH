@@ -2842,12 +2842,28 @@ y se describirá más adelante también.
 
 <details><summary>English</summary>
 
-The essential nature of the jīva who seeks attainment should be thought of, while considering the letter m in om and in namas or namo in Tirumantra, and in the part nāra of the word Nārāyaṇa, wherever it occurs in the aṣṭākṣara and the Dvayam, in the first person singular form " I seek refuge" prapadye in Dvayam, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thee (tva) and in the sentence " despair not" in the caramaśloka .
+The essential nature of the jīva who seeks attainment should be thought of,  
+while considering the letter m in om  
+and in namas or namo in Tirumantra,  
+and in the part nāra of the word Nārāyaṇa,  
+wherever it occurs in the aṣṭākṣara and the Dvayam,  
+in the first person singular form " I seek refuge" prapadye in Dvayam,  
+in the second person singular of the word " thyself" in "surrender thyself" (vraja)  
+and in the word thee (tva)  
+and in the sentence " despair not" in the caramaśloka .
 </details>
 
 <details><summary>Español</summary>
 
-The essential nature of the jīva who seeks attainment should be thought of, while considering the letter m in om and in namas or namo in Tirumantra, and in the part nāra of the word Nārāyaṇa, wherever it occurs in the aṣṭākṣara and the Dvayam, in the first person singular form " I seek refuge" prapadye in Dvayam, in the second person singular of the word " thyself" in "surrender thyself" (vraja) and in the word thee (tva) and in the sentence " despair not" in the caramaśloka .
+Se debe pensar en la naturaleza esencial del Jīva que busca el logro,  
+mientras considera la letra m en om  
+y en namas o namo en tirumantra,  
+y en la parte nāra de la palabra nārāyaṇa,  
+Donde sea que ocurra en el aṣṭākṣara y el dvayam,  
+En la primera persona de la forma singular "yo busco refugio" Prapadye en Dvayam,  
+En la segunda persona, singular de la palabra "ti mismo" en "rendirse a ti mismo" (Vraja)  
+y en la palabra tu (tva)  
+y en la oración "desesperación no" en el Caramaśloka.
 </details>
 
 
@@ -2875,12 +2891,18 @@ THE MEANS OF ATTAINMENT.
 
 <details><summary>English</summary>
 
-We will describe at length the means of attainment (upāya) and its auxiliaries and also the nature of the fruit to be attained in their proper context later.
+We will describe at length  
+the means of attainment (upāya) and its auxiliaries  
+and also the nature of the fruit to be attained  
+in their proper context later.
 </details>
 
 <details><summary>Español</summary>
 
-We will describe at length the means of attainment (upāya) and its auxiliaries and also the nature of the fruit to be attained in their proper context later.
+Describiremos por mucho tiempo  
+los medios de logro (upāya) y sus auxiliares  
+y también la naturaleza de la fruta a alcanzar  
+en su contexto apropiado más tarde.
 </details>
 
 
@@ -2899,12 +2921,24 @@ We will describe at length the means of attainment (upāya) and its auxiliaries 
 
 <details><summary>English</summary>
 
-Among these two, the upāya or means of attainment is to be considered as indicated in Tirumantra in the word namas or namo and in the part ayana (resting place). in Nārāyanāya ; in Dvayam in the first part and in the Carama śloka in the first half.
+Among these two,  
+the upāya or means of attainment  
+is to be considered as indicated in Tirumantra  
+in the word namas or namo  
+and in the part ayana (resting place) in Nārāyanāya ;  
+in Dvayam - in the first part,  
+and in the Carama śloka in the first half.
 </details>
 
 <details><summary>Español</summary>
 
-Among these two, the upāya or means of attainment is to be considered as indicated in Tirumantra in the word namas or namo and in the part ayana (resting place). in Nārāyanāya ; in Dvayam in the first part and in the Carama śloka in the first half.
+Entre estos dos,  
+el upāya o los medios de logro  
+debe considerarse como se indica en Tirumantra  
+en la palabra namas o namo  
+y en la parte Ayana (lugar de descanso) en Nārāyanāya;  
+En Dvayam - en la primera parte,  
+y en el Carama Śloka en la primera mitad.
 </details>
 
 
@@ -2922,7 +2956,7 @@ THE GOAL OF ATTAINMENT.
 
 <details><summary>Español</summary>
 
-THE GOAL OF ATTAINMENT.
+El objetivo de logro.
 </details>
 
 
@@ -2935,12 +2969,20 @@ THE GOAL OF ATTAINMENT.
 
 <details><summary>English</summary>
 
-The Nature of the fruit to be attained or enjoyed is mentioned in the dative or fourth case (i.e) in Nārāyaṇāya in the Tirumantra, in the word namah in the Dvaya, and in the carama śloka in the words "I will free thee from all sins."
+The Nature of the fruit to be attained or enjoyed  
+is mentioned in the dative or fourth case (i.e) in Nārāyaṇāya in the Tirumantra,  
+in the word namah in the Dvaya,  
+and in the carama śloka in the words  
+"I will free thee from all sins."
 </details>
 
 <details><summary>Español</summary>
 
-The Nature of the fruit to be attained or enjoyed is mentioned in the dative or fourth case (i.e) in Nārāyaṇāya in the Tirumantra, in the word namah in the Dvaya, and in the carama śloka in the words "I will free thee from all sins."
+La naturaleza de la fruta a alcanzar o disfrutar  
+se menciona en el dativo o cuarto caso (es decir) en nārāyaṇāya en el tirumantra,  
+en la palabra namah en el dvaya,  
+y en el carama Śloka en las palabras  
+"Te liberaré de todos los pecados".
 </details>
 
 
@@ -2959,7 +3001,7 @@ THE HINDRANCE TO ATTAINMENT,
 
 <details><summary>Español</summary>
 
-THE HINDRANCE TO ATTAINMENT,
+El obstáculo para el logro,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2970,12 +3012,18 @@ THE HINDRANCE TO ATTAINMENT,
 
 <details><summary>English</summary>
 
-The hindrances to the attainment are the multitude of obstacles that stand in the way of our attaining mokṣa , such as ignorance (avidyā), karma and vāsana or impression left in the mind by karma in previous births
+The hindrances to the attainment are the multitude of obstacles  
+that stand in the way of our attaining mokṣa ,  
+such as ignorance (avidyā), karma and vāsana or impression left in the mind by karma in previous births
 </details>
 
 <details><summary>Español</summary>
 
-The hindrances to the attainment are the multitude of obstacles that stand in the way of our attaining mokṣa , such as ignorance (avidyā), karma and vāsana or impression left in the mind by karma in previous births
+Los obstáculos para el logro  
+son la multitud de obstáculos  
+que se interponen en el camino de que nos alcancen mokṣa,  
+como la ignorancia (avidyā), el karma y el vāsana o la impresión dejada en la mente  
+por el karma en nacimientos anteriores
 </details>
 
 
@@ -3001,9 +3049,10 @@ continually from time immemorial.
 
 <details><summary>Español</summary>
 
-The foremost of these hindrances  
-is the punishment inflicted by Bhagavān for disobedience of His orders  
-continually from time immemorial.  
+El principal de estos obstáculos  
+Es el castigo infligido por Bhagavān  
+por desobediencia de sus órdenes  
+continuamente desde tiempos inmemoriales.
 </details>
 
 
