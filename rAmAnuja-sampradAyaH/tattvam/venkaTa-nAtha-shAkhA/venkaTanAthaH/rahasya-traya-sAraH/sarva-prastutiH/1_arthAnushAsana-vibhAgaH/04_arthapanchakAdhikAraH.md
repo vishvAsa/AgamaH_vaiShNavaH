@@ -3055,34 +3055,518 @@ por desobediencia de sus órdenes
 continuamente desde tiempos inmemoriales.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अदिल् प्रधानम् अनादियाग सन्तन्यमानमान आज्ञातिलङ्घनमडियागप् पिऱन्द भगवन्निग्रहम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु क्षेत्र-ज्ञर्क्कु ज्ञान-सङ्कोच-करम् आन  
+त्रि-गुणात्मक-प्रकृति-संसर्ग-विशेषत्तै उण्डाक्किय् उम्, 
+</details>
+
+<details><summary>English</summary>
+
+This chastisement causes association with prakṛti or matter  
+with its three qualities (sattva, rajas and tamas)  
+and thereby contraction of knowledge.  
+</details>
+
+<details><summary>Español</summary>
+
+This chastisement causes association with prakṛti or matter  
+with its three qualities (sattva, rajas and tamas)  
+and thereby contraction of knowledge.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु क्षेत्रज्ञर्क्कु ज्ञानसङ्कोचकरमान त्रिगुणात्मक-प्रकृतिसंसर्ग-विशेषत्तै उण्डाक्कियुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृति-परिणाम-विशेषङ्गळ् आन शरीरेन्द्रियादिगळ्-ओड् ए तुवक्कि, 
+</details>
+
+<details><summary>English</summary>
+
+It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakṛti) on the other.
+</details>
+
+<details><summary>Español</summary>
+
+It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakṛti) on the other.
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रकृति-परिणाम-विशेषङ्गळान शरीरेन्द्रियादिगळोडे तुवक्कि, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तिण्णमऴुन्दक्-कट्टिप् पलसॆय्विनै वन्गयिट्राल् पुण्णै मऱैय वरिन्दॆन्नैप् पोरवैत्ताय् पुऱमे"  
+(तिरुवाय्मॊऴि 5-1-5) 
+
+ऎण्ड्रुम्, 
+</details>
+
+<details><summary>English</summary>
+
+To quote the words of the Alwar, 
+
+> “With the strong ropes of my sins,  
+Thou hast bound me tightly with the body,  
+covered the sores within the body (like flesh, fat and blood)  
+with the skin and let me walk away from Thee." 
+</details>
+
+<details><summary>Español</summary>
+
+To quote the words of the Alwar, 
+
+> “With the strong ropes of my sins,  
+Thou hast bound me tightly with the body,  
+covered the sores within the body (like flesh, fat and blood)  
+with the skin and let me walk away from Thee." 
+</details>
 
 
-This chastisement causes association with prakṛti or matter with its three qualities (sattva, rajas and tamas) and thereby contraction of knowledge. It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakṛti) on the other. Further it makes the jīva subject to the sway of the body and the senses. To quote the words of the Alwar, “With the strong ropes of my sins, Thou hast bound me tightly with the body, covered the sores within the body (like flesh, fat and blood) with the skin and let me walk away from Thee." "With [^f127] the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." This chastisement often consists in placing the jīva in the body of animals which can have no knowledge of the Śāstras and cannot act in accordance with them. Even in births like those of men, it confounds the mind with the views of infidels and heretics and, even in the case of those who escape this, causes, through the concealing agency of the peacock feather of primal matter (moola-prakṛti) and its modifications, the bodies and the senses, (1) ignorance
+<details><summary>मूलम्</summary>
+
+""तिण्णमऴुन्दक्कट्टिप् पलसॆय्विनै वन्गयिट्राल् पुण्णै मऱैय वरिन्दॆन्नैप् पोरवैत्ताय् पुऱमे""(तिरुवाय्मॊऴि 5-1-5) ऎण्ड्रुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+""अन्नाळ् नी तन्दवाक्कैयिन् वऴिय् उऴल्वेन्""(तिरुवाय्मॊऴि 3-2-1) ऎण्ड्रुञ्
+</details>
+
+<details><summary>English</summary>
+
+"With [^f127] the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." 
 
 [^f127]: Tiruvoymozhi: 3-2-1
+</details>
 
-of the truth and (2) erroneous knowledge and so also (3) subjection to sense-pleasures. As ŚrīRāmānuja says, "This [^f128] (association with matter) causes obscuration of a knowledge of the essential nature of Bhagavān and also false knowledge. Besides it makes the jīva think that this association is delightful." As a consequence of this, it induces the jīva to disobey His orders and do forbidden things for the sake of petty pleasures. To quote again the words of the Alwar: "Is it [^f129] right on Thy part to  confound my soul and excite my five senses by showing me, who am a sinner, all sorts of petty pleasures?" One act of disobedience leads to further acts of sin. Well has it been said, "Sin "committed again and again destroys wisdom and the man without wisdom begins further acts of a sinful nature." In consequence the Lord makes the jīva wander again and again through the cycle of life in the womb, birth, old age, death, and hell, as stated by Himself, "I throw them always into asuric births" By means of the scriptures of those who are actuated by rajas and tamas, which show the way to secure petty pleasures, the jīva is made to fall at the feet of petty deities who are themselves souls ( kṣetrajna) fettered with similar chains. “Those who are actuated by rajas" it has been declared, “worship Yakṣas and Rākṣasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". The jīva is deluded into considering himself as greatly benefited by the mean and gruesome enjoyments afforded by these deities in the same way as worms find pleasure in dirt and filth.
+<details><summary>Español</summary>
+
+"With [^f127] the body given by Thee at the time of creation,  
+I have been wandering about to the satisfaction of the body." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+""अन्नाळ् नी तन्दवाक्कैयिन् वऴियुऴल्वेन्""(तिरुवाय्मॊऴि 3-2-1) ऎण्ड्रुञ्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चॊल्लुगिऱप् पडिय् ए  
+देहेन्द्रियादि-परतन्त्रनाक्कियुम्,
+</details>
+
+<details><summary>English</summary>
+
+Further it makes the jīva subject to the sway of the body and the senses. 
+</details>
+
+<details><summary>Español</summary>
+
+Further it makes the jīva subject to the sway of the body and the senses. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+चॊल्लुगिऱप् पडिय् ए देहेन्द्रियादि-परतन्त्रनाक्कियुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व्-अवस्थैयिल् उम् शास्त्र-वश्यतै कूडाद तिर्यग्-आदि-दशैगळिल् ए निऱुत्तिय् उम्,
+</details>
+
+<details><summary>English</summary>
+
+This chastisement often consists in placing the jīva  
+in the body of animals which can have no knowledge of the Śāstras  
+and cannot act in accordance with them.  
+</details>
+
+<details><summary>Español</summary>
+
+This chastisement often consists in placing the jīva  
+in the body of animals which can have no knowledge of the Śāstras  
+and cannot act in accordance with them.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्ववस्थैयिलुम् शास्त्रवश्यतै कूडाद तिर्यगादि-दशैगळिले निऱुत्तियुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-योग्यङ्गळ् आन मनुष्यादि-जन्मङ्गळिल्  
+बाह्य--कु-दृष्टि--मतङ्गळाल् ए कलक्किय् उम्,
+</details>
+
+<details><summary>English</summary>
+
+Even in births like those of men,  
+it confounds the mind with the views of infidels and heretics  
+</details>
+
+<details><summary>Español</summary>
+
+Even in births like those of men,  
+it confounds the mind with the views of infidels and heretics  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रयोग्यङ्गळान मनुष्यादि-जन्मङ्गळिल् बाह्य-कुदृष्टि-मतङ्गळाले कलक्कियुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवट्रिल् इऴियाद्-अवर्गळैय् उम् उळ्-बड  
+
+> “भगवत्-स्वरूप--तिरो-धान-करीं विपरीत-ज्ञान-जननीं  
+स्व-विषयायाश् च भोग्य-बुद्धेर् जननीम्”  
+> (पॆरिय गद्यम्) 
+
+ऎन्गिऱ पडिय् ए  
+इम्-मूल-प्रकृति-मुदल् आन मोहन-पिञ्छिकै  
+तन्नाल् ए तत्त्वाज्ञान--विपरीत-ज्ञान--विषय--प्रावण्यङ्गळैप् पण्णिय् उम्,  
+</details>
+
+<details><summary>English</summary>
+
+and, even in the case of those who escape this,  
+causes,  
+through the concealing agency of the peacock feather of primal matter (moola-prakṛti) and its modifications,  
+the bodies and the senses,  
+(1) ignorance of the truth and  
+(2) erroneous knowledge  
+and so also (3) subjection to sense-pleasures.  
+
+As ŚrīRāmānuja says,  
+
+> "This [^f128] (association with matter) causes obscuration of knowledge of the essential nature of Bhagavān  
+> and also false knowledge.  
+> Besides it makes the jīva think that  
+> this association is delightful." 
+</details>
+
+<details><summary>Español</summary>
+
+and, even in the case of those who escape this,  
+causes,  
+through the concealing agency of the peacock feather of primal matter (moola-prakṛti) and its modifications,  
+the bodies and the senses,  
+(1) ignorance of the truth and  
+(2) erroneous knowledge  
+and so also (3) subjection to sense-pleasures.  
+
+As ŚrīRāmānuja says,  
+
+> "This [^f128] (association with matter) causes obscuration of knowledge of the essential nature of Bhagavān  
+> and also false knowledge.  
+> Besides it makes the jīva think that  
+> this association is delightful." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवट्रिल् इऴियादवर्गळैयुम् उळ्बड  
+“भगवत्स्वरूप-तिरोधानकरीं विपरीत-ज्ञानजननीं स्वविषयायाश्च भोग्यबुद्धेर्जननीम्”(पॆरिय गद्यम्) ऎन्गिऱ पडिये इम्मूलप्रकृति मुदलान मोहन-पिञ्छिकै तन्नाले तत्त्वाज्ञान-विपरीत-ज्ञान-विषय-प्रावण्यङ्गळैप् पण्णियुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् अडिय् आग  
+
+> "आवि तिगैक्क ऐवर्गुमैक्क् उम्  
+सिट्र्-इन्बम् पावियेनैप् पल नी काट्टिप्-पडुप्पाय् ओ" 
+(तिरुवाय्मॊऴि 6-9-9.) ऎन्गिऱप्पडिये  
+</details>
+
+<details><summary>English</summary>
+
+To quote again the words of the Alwar:  
+
+> "Is it [^f129] right on Thy part  
+to confound my soul and excite my five senses  
+by showing me, who am a sinner,  
+all sorts of petty pleasures?"
+</details>
+
+<details><summary>Español</summary>
+
+To quote again the words of the Alwar:  
+
+"Is it [^f129] right on Thy part to  confound my soul and excite my five senses by showing me, who am a sinner, all sorts of petty pleasures?"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयडियाग "आवि तिगैक्क ऐवर्गुमैक्कुम् सिट्रिन्बम् पावियेनैप्पल नी काट्टिप्पडुप्पायो"(तिरुवाय्मॊऴि 6-9-9.) ऎन्गिऱप्पडिये  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सुख-लवार्थम् आन अ-कृत्य-करणादि-रूपम् आन  
+आज्ञातिलङ्घनत्तैप् पण्णु-वित्त् उम्,
+</details>
+
+<details><summary>English</summary>
+
+As a consequence of this,  
+it induces the jīva to disobey His orders  
+and do forbidden things for the sake of petty pleasures. 
+</details>
+
+<details><summary>Español</summary>
+
+As a consequence of this,  
+it induces the jīva to disobey His orders  
+and do forbidden things for the sake of petty pleasures. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सुखलवार्थमान अकृत्यकरणादिरूपमान आज्ञाति-लङ्घनत्तैप् पण्णुवित्तुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “पापं प्रज्ञां नाशयति  
+क्रियमाणं पुनः-पुनः ।  
+नष्ट-प्रज्ञः पापम् एव  
+पुनर् आरभते नरः ॥”+++(5)+++  
+(भारतम्-उद्योगपर्वम् 35-73.) 
+</details>
+
+<details><summary>English</summary>
+
+Well has it been said,  
+
+> "Sin committed again and again destroys wisdom and the man without wisdom begins further acts of a sinful nature." 
+</details>
+
+<details><summary>Español</summary>
+
+Well has it been said,  "Sin committed again and again destroys wisdom and the man without wisdom begins further acts of a sinful nature." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“पापं प्रज्ञां नाशयति क्रियमाणं पुनःपुनः । नष्टप्रज्ञः पापमेव पुनरारभते नरः ॥”(भारतम्-उद्योगपर्वम् 35-73.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप् पडिय् ए  
+मेलुम् अपराध-परं-परैगळिल् ए मूट्टि
+</details>
+
+<details><summary>English</summary>
+
+One act of disobedience  
+leads to further acts of sin. 
+</details>
+
+<details><summary>Español</summary>
+
+One act of disobedience leads to further acts of sin. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये मेलुम् अपराधपरंपरैगळिले मूट्टि
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिन् फलम् आग  
+“क्षिपाम्य् अजस्रं”(की. 16-19.) इत्यादिगळ् इऱ्‌-पडिय् ए  
+गर्भ-जन्म-जरा-मरण-नरकादि-चक्र-परिवृत्तियिल् ए परिभ्रमिप्पित्तुम्,
+</details>
+
+<details><summary>English</summary>
+
+In consequence the Lord makes the jīva wander again and again  
+through the cycle of life in the womb, birth, old age, death, and hell,  
+as stated by Himself, "I throw them always into asuric births" 
+</details>
+
+<details><summary>Español</summary>
+
+In consequence the Lord makes the jīva wander again and again  
+through the cycle of life in the womb, birth, old age, death, and hell,  
+as stated by Himself, "I throw them always into asuric births" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिन् फलमाग “क्षिपाम्यजस्रं”(की. 16-19.) इत्यादिगळिऱ्‌पडिये गर्भ-जन्म-जरा-मरण-नरकादि-चक्र-परिवृत्तियिले परिभ्रमिप्पित्तुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षुद्र-सुखादिगळुक्कु साधनम् आन राजस-तामस-शास्त्रार्थङ्गळैक् कॊण्डु
+</details>
+
+<details><summary>English</summary>
+
+By means of the scriptures of those who are actuated by rajas and tamas,  
+which show the way to secure petty pleasures, 
+</details>
+
+<details><summary>Español</summary>
+
+By means of the scriptures of those who are actuated by rajas and tamas,  which show the way to secure petty pleasures, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+क्षुद्र-सुखादिगळुक्कु साधनमान राजस-तामस-शास्त्रार्थङ्गळैक्कॊण्डु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘यक्ष-रक्षांसि राजसाः ।  
+प्रेतान् भूत-गणांश् चान्ये  
+यजन्ते तामसा जनाः”(ग्. 17-4) 
+
+ऎन्गिऱप् पडिये  
+</details>
+
+<details><summary>English</summary>
+
+“Those who are actuated by rajas" it has been declared, “worship Yakṣas and Rākṣasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". 
+</details>
+
+<details><summary>Español</summary>
+
+“Those who are actuated by rajas" it has been declared, “worship Yakṣas and Rākṣasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यक्ष-रक्षांसि राजसाः । प्रेतान् भूतगणां-श्चान्ये यजन्ते तामसा जनाः”(ग्. 17-4) ऎन्गिऱप्पडिये  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्न्-ओड् ऒक्क ऒऴुगु सङ्गिलियिल्+++(=शृङ्खलया)+++ ए कट्ट् उण्डु उऴलुगिऱ क्षेत्रज्ञर् कालिले विऴप्-पण्णिय् उम्, 
+</details>
+
+<details><summary>English</summary>
+
+the jīva is made to fall at the feet of petty deities  
+who are themselves souls ( kṣetrajna) fettered with similar chains.  
+</details>
+
+<details><summary>Español</summary>
+
+the jīva is made to fall at the feet of petty deities  
+who are themselves souls ( kṣetrajna) fettered with similar chains.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्नोडॊक्क ऒऴुगु सङ्गिलियिले कट्टुण्डु उऴलुगिऱ क्षेत्रज्ञर् कालिले विऴप्पण्णियुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवर्गळ् कॊडुत्त जुगुप्सावह-क्षुद्र-पुरुषार्थङ्गळाल् ए  
++++(मलादौ)+++ कृमिगळैप् पोले कृतार्थर् आग मयक्कियुम्,  
+</details>
+
+<details><summary>English</summary>
+
+The jīva is deluded into considering himself as greatly benefited  
+by the mean and gruesome enjoyments  
+afforded by these deities in the same way as worms find pleasure in dirt and filth.+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+The jīva is deluded into considering himself as greatly benefited  
+by the mean and gruesome enjoyments  
+afforded by these deities in the same way as worms find pleasure in dirt and filth.+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवर्गळ् कॊडुत्त जुगुप्सावह-क्षुद्र-पुरुषार्थङ्गळाले कृमिगळैप्पोले कृतार्थराग मयक्कियुम्,  
+</details>
+
+
+
 
 [^f128]: Sri Rāmānuja: Periya Gadyam
 
 [^f129]: Tiruvoymozhi: 6-9-9
 
-Even those who practise yoga are made to practise it in connection with petty deities or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahman and are made to fall therefrom in the acquisition of minor results. Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential nature. As the result of these four kinds of meditation, the jīva obtains petty enjoyments after which he falls back into saṁsāra. Even in the case of those who practise true meditation on Brahman, and who meditate primarily on their own selves as having Brahman for their inner self or who think primarily of Brahman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the [^f131] eight kinds[^29] of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of a prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are the result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavān. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the hindrance occurs, the jīva has not transcended saṁsāra.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योग-प्रवृत्तर् आनवर्गळैय् उम्  
+क्षुद्र-देवता-योगङ्गळिल् एय् आदल्  
+नामादि अ-चेतनोपासनङ्गळिल् एय् आदल्  
+मूळप्-पण्णि सिल्व् आनङ्गळ् आन फलङ्गळाल् ए  
+योगत्तैत् तलै-साय्प्पित्तुम्, 
+</details>
+
+<details><summary>English</summary>
+
+Even those who practise yoga  
+are made to practise it in connection with petty deities  
+or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahman  
+and are made to fall therefrom in the acquisition of minor results.  
+</details>
+
+<details><summary>Español</summary>
+
+Even those who practise yoga  
+are made to practise it in connection with petty deities  
+or in the meditations of such inanimate things as [^f130] nāma being Brahman  
+and are made to fall therefrom in the acquisition of minor results.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+योग-प्रवृत्तरानवर्गळैयुम् क्षुद्र-देवता-योगङ्गळिलेयादल्  
+नामादि अचेतनोपासनङ्गळिलेयादल् मूळप्पण्णि  
+सिल्वानङ्गळान फलङ्गळाले योगत्तैत् तलैसाय्प्पित्तुम्, 
+</details>
+
+
+
+Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential nature. As the result of these four kinds of meditation, the jīva obtains petty enjoyments after which he falls back into saṁsāra. Even in the case of those who practise true meditation on Brahman, and who meditate primarily on their own selves as having Brahman for their inner self or who think primarily of Brahman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the [^f131] eight kinds of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of a prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are the result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavān. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the hindrance occurs, the jīva has not transcended saṁsāra.
 
 [^f130]:  In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
 
-[^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)*
-
-[^28]: <sup>] </sup> In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such
-as can be reached with these names".
-
-[^29]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
+[^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
 
 It is true the Gītā says that for those who practise karmayoga, the effort will never perish or be in vain. What has been built up will, of course, remain built up, as it were, of stone, But we cannot say when the fruit will be attained, whether at the end of a kalpa or of a manvantara or of a yuga. Even sages like Vasiṣṭa, who ever acted in such a manner as to please God, had to wait long. Those who acted against the will of God like Vritra and Kshatrabandhu attained mokṣa  without any such delay. So it is difficult to say which individuals have done meritorious deeds that would lead to mokṣa  without delay. Similarly it is difficult to state who have done bad deeds leading to divine chastisement causing delay.
 
