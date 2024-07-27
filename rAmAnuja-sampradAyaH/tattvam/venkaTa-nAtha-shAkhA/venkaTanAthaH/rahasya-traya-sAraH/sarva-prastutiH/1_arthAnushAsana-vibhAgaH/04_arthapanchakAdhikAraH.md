@@ -1009,7 +1009,7 @@ dice Śrī y permanece en tu pecho."
 
 <details><summary>Español</summary>
 
-"Tú [^f80] son ​​la luz  
+"Tú [^f80] son la luz  
 que nunca sale  
 y el eres más allá de todas las limitaciones".
 </details>
@@ -1599,7 +1599,7 @@ o no ser capaz ".
 
 <details><summary>Español</summary>
 
-“Aunque tus cualidades [^f98] son ​​infinitas,  
+“Aunque tus cualidades [^f98] son infinitas,  
 seis de ellas están más importantes entre ellas;  
 Incluso cuando el universo se lleva dentro de tu cuerpo,  
 las otras cualidades también están contenidas dentro de ellas ".
@@ -1634,7 +1634,11 @@ and not owing to any deficiency in His qualities."
 <details><summary>Español</summary>
 
 "Es [^f99] debido a la deficiencia de flechas  
-que el hombre que desea cubrir los desiste del cielo y no debido a ninguna deficiencia en el espacio del cielo. (Así también) nos retrasamos de los elogios de Govinda, debidoa nuestra deficiencia de inteligencia y no a ninguna deficiencia en sus cualidades ".
+que el hombre que desea cubrir los cielo desiste  
+y no debido a ninguna deficiencia en el espacio del cielo.  
+(Así también) nos retrasamos de los elogios de Govinda,  
+debidoa nuestra deficiencia de inteligencia  
+y no debidoa ninguna deficiencia en sus cualidades ".
 </details>
 
 
@@ -1651,14 +1655,15 @@ que el hombre que desea cubrir los desiste del cielo y no debido a ninguna defic
 
 <details><summary>English</summary>
 
-“Thon hast [^f100] qualities which, being remembered, afflict me during Thy separation - me the great sinner."
+“Thou hast [^f100] qualities which, being remembered, afflict me during Thy separation - me the great sinner."
 
 [^f100]: Tiruvoymozhi: 8-1-8
 </details>
 
 <details><summary>Español</summary>
 
-“Thon hast [^f100] qualities which, being remembered, afflict me during Thy separation - me the great sinner."
+"Tú te has afligido [^f100] que, siendo recordadas,  
+me afligen durante tu separación - me el gran pecador".
 </details>
 
 
@@ -1682,7 +1687,8 @@ que el hombre que desea cubrir los desiste del cielo y no debido a ninguna defic
 
 <details><summary>Español</summary>
 
-"He has [^f101] noble qualities like bliss, which are limitless in extent."
+"Tiene [^f101] cualidades nobles como Bliss,  
+que son ilimitadas en extensión".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1707,10 +1713,12 @@ Many are the passages that speak of Bhagavān's qualities.
 
 <details><summary>Español</summary>
 
-He is to be considered also as possessing all those qualities  
-which are necessary for one who is the object of attainment  
-and who is, likewise, the means of attainment.  
-Many are the passages that speak of Bhagavān's qualities.
+Debe ser considerado también como poseer todas esas cualidades
+que son necesarios para alguien  
+que es el objeto de logro  
+y quién es, del mismo modo, los medios de logro.  
+Muchos son los pasajes  
+que hablan de las cualidades de Bhagavān.
 </details>
 
 
@@ -1720,7 +1728,16 @@ Many are the passages that speak of Bhagavān's qualities.
 </details>
 
 ### विग्रहाः
+<details><summary>English</summary>
+
 BHAGAVĀN HAS A DIVINE AND AUSPICIOUS FORM:
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān tiene una forma divina y auspiciosa:
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1736,7 +1753,7 @@ BHAGAVĀN HAS A DIVINE AND AUSPICIOUS FORM:
 
 <details><summary>Español</summary>
 
-"To Him [^f102] whose form ever remains the same -- "
+"Para él [^f102] cuya forma siempre sigue siendo la misma"
 </details>
 
 
