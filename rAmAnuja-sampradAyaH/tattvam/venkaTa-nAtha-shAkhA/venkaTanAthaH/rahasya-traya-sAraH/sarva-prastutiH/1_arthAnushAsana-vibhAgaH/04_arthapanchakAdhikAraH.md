@@ -2564,18 +2564,18 @@ of maintaining and controlling it and the like.
 
 <details><summary>Español</summary>
 
-Thus Brahman, the object of attainment,  
-is ever with Lakṣmī :  
-He is infinite jñāna and infinite bliss,  
-and is opposed to all that is imperfect and objectionable.  
-He is possessed of countless auspicious qualities like wisdom and power.  
-He has a celestial and transcendent form of auspicious nature.  
-He has two vibhūtis (līlā and nitya )  
-which are His body;  
-He has, for His play or sport (līlā),  
-the work of creating the world,  
-of maintaining and controlling it and the like.
-
+Así Brahman, el objeto de logro,  
+está siempre con Lakṣmī:  
+Él es infinito jñāna e infinita dicha,  
+y se opone a todo lo que es imperfecto y objetable.  
+Está poseído de innumerables cualidades auspiciosas  
+como la sabiduría y el poder.  
+Tiene una forma celestial y trascendente de naturaleza auspiciosa.  
+Tiene dos Vibhūtis (Līlā y Nitya)  
+que son su cuerpo;  
+Tiene, por su juego o deporte (līlā),  
+el trabajo de crear el mundo,  
+de mantenerlo y controlarlo y similares.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2593,7 +2593,7 @@ THE NATURE OF THE INDIVIDUAL SELF:
 
 <details><summary>Español</summary>
 
-THE NATURE OF THE INDIVIDUAL SELF:
+La naturaleza del yo individual
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2609,14 +2609,28 @@ THE NATURE OF THE INDIVIDUAL SELF:
 
 Now for the individual self (Pratyak ātmā) which is to attain Brahman :
 
-We should know that the individual self is in three categories : Baddha or those who are in the bondage of saṁsāra, Mukta, or those who have attained release from saṁsāra and Nitya or those who are eternally free from bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of mukti, from other baddhas.
+We should know that the individual self  
+is in three categories :  
+Baddha or those who are in the bondage of saṁsāra,  
+Mukta, or those who have attained release from saṁsāra and  
+Nitya or those who are eternally free from bondage.  
+The seeker after salvation should also know  
+the peculiar features which distinguish him  
+as a seeker of the means of mukti, from other baddhas.
 </details>
 
 <details><summary>Español</summary>
 
-Now for the individual self (Pratyak ātmā) which is to attain Brahman :
+Ahora para el yo individual (pratyak ātmā) que es alcanzar Brahman:
 
-We should know that the individual self is in three categories : Baddha or those who are in the bondage of saṁsāra, Mukta, or those who have attained release from saṁsāra and Nitya or those who are eternally free from bondage. The seeker after salvation should also know the peculiar features which distinguish him as a seeker of the means of mukti, from other baddhas.
+Deberíamos saber que el yo individual  
+está en tres categorías:  
+Baddha o aquellos que están en la esclavitud de Saṁsāra,  
+Mukta, o aquellos que han alcanzado la liberación de Saṁsāra y  
+Nitya o aquellos que están eternamente libres de esclavitud.  
+El buscador después de la salvación también debería saber  
+las características peculiares que lo distinguen  
+Como buscador de los medios de Mukti, de otros Baddhas.  
 </details>
 
 
@@ -2635,16 +2649,22 @@ We should know that the individual self is in three categories : Baddha or those
 
 <details><summary>English</summary>
 
-The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless karma. 
+The baddhas (or the bound) are those caught up in the cycle of births and deaths  
+owing to the stream of beginningless karma. 
 
-They range from Brahma to the blade of grass and are called kṣetrajnāh. (Brahma, gods, men, beasts, trees, grass and so on ).
+They range from Brahma to the blade of grass  
+and are called kṣetrajnāh.  
+(Brahma, gods, men, beasts, trees, grass and so on ).
 </details>
 
 <details><summary>Español</summary>
 
-The baddhas (or the bound) are those caught up in the cycle of births and deaths owing to the stream of beginningless karma. 
+Los Baddhas (o el encadenada) son aquellos atrapados en el ciclo de nacimientos y muertes.
+Debido a la corriente del karma sin inicio.
 
-They range from Brahma to the blade of grass and are called kṣetrajnāh. (Brahma, gods, men, beasts, trees, grass and so on ).
+Van desde Brahma hasta la hoja de hierba
+y se llaman kṣetrajnāh.
+(Brahma, dioses, hombres, bestias, árboles, hierba, etc.).
 </details>
 
 
@@ -2668,16 +2688,18 @@ The muktās (or released souls) are those who,
 by adopting the means (upāya ) prescribed in the śāstras,  
 have obtained the Lord's grace,  
 permanently transcended the cycle of births and deaths,  
-and have obtained unsurpassed bliss as a result of the unrestricted enjoyment of Bhagavān.
+and have obtained unsurpassed bliss  
+as a result of the unrestricted enjoyment of Bhagavān.
 </details>
 
 <details><summary>Español</summary>
 
-The muktās (or released souls) are those who,  
-by adopting the means (upāya ) prescribed in the śāstras,  
-have obtained the Lord's grace,  
-permanently transcended the cycle of births and deaths,  
-and have obtained unsurpassed bliss as a result of the unrestricted enjoyment of Bhagavān.
+Los muktās (o almas liberadas) son aquellos que,  
+adoptando los medios (upāya) prescritos en los Śāstras,  
+han obtenido la gracia del Señor,  
+trascendió permanentemente el ciclo de nacimientos y muertes,  
+y han obtenido la dicha sin igual  
+como resultado del disfrute sin restricciones de Bhagavān.
 </details>
 
 
@@ -2701,16 +2723,33 @@ and have obtained unsurpassed bliss as a result of the unrestricted enjoyment of
 
 <details><summary>English</summary>
 
-The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like Iśvara Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in saṁsāra and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adiśeṣa, Garuḍa and Viṣvaksena.
+The nityās (the eternally free)  
+are those whose knowledge has never undergone contraction and who are,  
+in this respect, like Iśvara Himself.  
+"They [^27] are", it has been said,  
+" of the same age as the Lord, eternal  
+and free from all trace of imperfections,"  
+They have never been in saṁsāra  
+and are engaged in eternal service to the Lord  
+e.g. Ananta (i.e.) Adiśeṣa, Garuḍa and Viṣvaksena.
 
 [^27]: has never undergone contraction
 </details>
 
 <details><summary>Español</summary>
 
-The nityās (the eternally free) are those whose knowledge has never undergone contraction and who are, in this respect, like Iśvara Himself. "They [^27] are", it has been said, " of the same age as the Lord, eternal and free from all trace of imperfections," They have never been in saṁsāra and are engaged in eternal service to the Lord e.g. Ananta (i.e.) Adiśeṣa, Garuḍa and Viṣvaksena.
+Los nityās (el eternamente libre)  
+son aquellos cuyo conocimiento  
+nunca ha sufrido contracción y que son,  
+A este respecto, como el propio Iśvara.  
+"Ellos [^es27] son", se ha dicho,  
+"de la misma edad que el Señor, Eternal  
+y libre de todo rastro de imperfecciones ",  
+Nunca han estado en Saṁsāra  
+y se dedican al servicio eterno al Señor  
+p.ej. Ananta (es decir) Adiśeṣa, Garuḍa y Viṣvaksena.
 
-[^27]: has never undergone contraction
+[^es27]: nunca ha sufrido contracción
 </details>
 
 
@@ -2743,11 +2782,11 @@ and are entirely subject to His will.
 
 <details><summary>Español</summary>
 
-The characteristic attributes common to all the three of them are  
-being atomic (in size) (aṇu)  
-and being of the nature of knowledge (jñāna), bliss (ānanda), purity (amalatvam) and the like.  
-They are all śeṣas to Bhagavān  
-and are entirely subject to His will.  
+Los atributos característicos comunes a los tres son  
+Ser atómico (en tamaño) (Aṇu)  
+y ser de la naturaleza del conocimiento (jñāna), dicha (ānanda), pureza (amalatvam) y similares.  
+Todos son Śeṣas a Bhagavān  
+y están completamente sujetos a su voluntad.
 </details>
 
 
@@ -2769,13 +2808,17 @@ and are entirely subject to His will.
 <details><summary>English</summary>
 
 One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation.  
-This has been (already) mentioned in the Introductory Chapter and will be described later on also.
+This has been (already) mentioned  
+in the Introductory Chapter and will be described later on also.
 </details>
 
 <details><summary>Español</summary>
 
-One should also understand what is distinctive and peculiar to one as a mumukṣu or seeker after salvation.  
-This has been (already) mentioned in the Introductory Chapter and will be described later on also.
+También se debe entender  
+lo que es distintivo y peculiar de uno como mumukṣu o buscador después de la salvación.  
+Esto ha sido (ya) mencionado  
+en el capítulo introductorio  
+y se describirá más adelante también.
 </details>
 
 
