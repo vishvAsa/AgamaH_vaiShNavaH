@@ -824,7 +824,9 @@ and the Goddess Lakṣmī ."
 
 <details><summary>Español</summary>
 
-"Thou[^f73] , the protector of the cowherds from the torrent of rain caused by Indra, and the Goddess Lakṣmī ."
+"Tú [^f73], el protector de los vaqueros  
+del torrente de la lluvia causado por Indra,  
+y la diosa Lakṣmī".
 
 [^f73]: Mudal Tiruvandadi: 86
 </details>
@@ -841,7 +843,7 @@ and the Goddess Lakṣmī ."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"ऒण्डॊडियाळ् तिरु-मगळ् उम् नीय् उम् ए निला-निऱ्‌प"  
+"ऒण्+तॊडियाळ्+++(=केयूरवती)+++ तिरु-मगळ् उम् नीय् उम् ए निला-निऱ्‌प"  
 (तिरुवाय्मॊऴि 4-9-1)  
 </details>
 
@@ -854,8 +856,8 @@ and the Goddess Lakṣmī ."
 
 <details><summary>Español</summary>
 
-"Thou art [^f74] ever with Lakṣmī  adorned with shining brace"
-
+"Tú eres [^f74] alguna vez con lakṣmī  
+adornado con una llave brillante"
 </details>
 
 
@@ -879,7 +881,8 @@ and the Goddess Lakṣmī ."
 
 <details><summary>Español</summary>
 
-"Am I [^f75] still to remain in saṁsāra without enjoying you in the company of Lakṣmī  ?"
+"¿Soy [^f75] todavía permanecer en Saṁsāra  
+sin disfrutarte tu en compañía de Lakṣmī?"
 </details>
 
 
@@ -896,14 +899,15 @@ and the Goddess Lakṣmī ."
 
 <details><summary>English</summary>
 
-" Thy [^f76] grace and the grace of the lotus-bora Goddess - with these I will sweep the floor of Thy temple."
+" Thy [^f76] grace and the grace of the lotus-born Goddess - with these I will sweep the floor of Thy temple."
 
 [^f76]: Tiruvoymozhi: 9-2-1
 </details>
 
 <details><summary>Español</summary>
 
-" Thy [^f76] grace and the grace of the lotus-bora Goddess - with these I will sweep the floor of Thy temple."
+"Tu [^f76] gracia y la gracia de la diosa nacida en el loto,  
+con estos barreré el piso de tu templo".
 </details>
 
 
@@ -920,14 +924,18 @@ and the Goddess Lakṣmī ."
 
 <details><summary>English</summary>
 
-“ Thou [^f77] and thy lotus-born Spouse should be pleased to accept the service of the three worlds."
+“ Thou [^f77] and thy lotus-born Spouse  
+should be pleased  
+to accept the service of the three worlds."
 
 [^f77]: Tiruvoymozhi: 9-2-3
 </details>
 
 <details><summary>Español</summary>
 
-“ Thou [^f77] and thy lotus-born Spouse should be pleased to accept the service of the three worlds."
+"Tú [^f77] y tu cónyuge nacido en el loto  
+deberían estar encantados  
+de aceptar el servicio de los tres mundos".
 </details>
 
 
@@ -951,7 +959,9 @@ and the Goddess Lakṣmī ."
 
 <details><summary>Español</summary>
 
-""I will [^f78] not be parted (from Thee) even for a moment”, says Śrī and abides on Thy chest."
+"" No me separaré [^f78] (de ti)  
+incluso por un momento ",  
+dice Śrī y permanece en tu pecho."
 </details>
 
 
@@ -976,7 +986,7 @@ and the Goddess Lakṣmī ."
 
 <details><summary>Español</summary>
 
-“ Thou [^f79] art all jñāna and bliss."
+"Tú [^f79] eres todos jñāna y dicha".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -999,7 +1009,9 @@ and the Goddess Lakṣmī ."
 
 <details><summary>Español</summary>
 
-“ Thou [^f80] art the light that never goes out and art beyond all limitations.”
+"Tú [^f80] son ​​la luz  
+que nunca sale  
+y el eres más allá de todas las limitaciones".
 </details>
 
 
@@ -1029,8 +1041,13 @@ who, in every form and in all situations, participates in all His actions.
 
 <details><summary>Español</summary>
 
-one should think of His essential nature (svarūpa) as infinite jñāna and infinite bliss ever inseparable from His consort, Lakṣmī , who, in every form and in all situations, participates in all His actions.  
-(For there are many authoritative passages in support of this prescribed contemplation -)
+Uno debe pensar en su naturaleza esencial (svarūpa)  
+como jñāna infinita e infinita dicha  
+siempre inseparable de su consorte, Lakṣmī,  
+quien, en todas las formas y en todas las situaciones,  
+participa en todas sus acciones.  
+(Porque hay muchos pasajes autorizados  
+en apoyo de esta contemplación prescrita.)
 </details>
 
 
@@ -1067,7 +1084,7 @@ BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
 
 <details><summary>Español</summary>
 
-BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
+Bhagavān posee todas las cualidades auspiciosas:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1080,13 +1097,14 @@ BHAGAVĀN POSSESSES ALL AUSPICIOUS QUALITIES :
 
 <details><summary>English</summary>
 
-Bhagavān is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said,  
-“That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections."
+> “That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections."
 </details>
 
 <details><summary>Español</summary>
 
-Bhagavān is to be thought of as being opposed to all that is faulty or objectionable ; for it has been said, “That [^f81] Supreme Goal, which is called Viṣṇu , is free from all imperfections."
+> "Ese [^f81] el objetivo supremo,  
+> que se llama Viṣṇu,  
+> está libre de todas las imperfecciones".
 </details>
 
 
@@ -1098,25 +1116,53 @@ Bhagavān is to be thought of as being opposed to all that is faulty or objectio
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “परः पराणां सकला न यत्र क्लेशादयस्सन्ति परावरेशे” (विष्णुपुराणम् 6-5-85)  
-ऎन्गिऱप्पडिये हेयप्रत्यनीकमाग अनुसन्धेयम्.  
 </details>
 
 <details><summary>English</summary>
 
-and "He is [^f82] greater than the great; in the Lord of the great and the low, there are no such things as pain." 
+and "He is [^f82] greater than the great;  
+in the Lord of the great and the low,  
+there are no such things as pain." +++(5)+++
 </details>
 
 <details><summary>Español</summary>
 
-and "He is [^f82] greater than the great; in the Lord of the great and the low, there are no such things as pain." 
+y "Él es [^f82] más grande que el Grande;  
+en el Señor del Grande y el Bajo,  
+no hay cosas como dolor".
 </details>
 
 
 <details><summary>मूलम्</summary>
 
 “परः पराणां सकला न यत्र क्लेशादयस्सन्ति परावरेशे” (विष्णुपुराणम् 6-5-85)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप्पडिये हेय-प्रत्यनीकम् आग अनुसन्धेयम्.  
+</details>
+
+
+<details><summary>English</summary>
+
+Bhagavān is to be thought of  
+as being opposed to all that is faulty or objectionable ;  
+for it has been thus said 
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān debe considerarse  
+como oponerse a todo lo que es defectuoso u objetable;  
+porque se ha dicho así
+</details>
+
+<details><summary>मूलम्</summary>
+
 ऎन्गिऱप्पडिये हेयप्रत्यनीकमाग अनुसन्धेयम्.  
 </details>
+
 
 [^f81]: Viṣṇupurāṇa:  1-22-53
 
@@ -1124,7 +1170,7 @@ and "He is [^f82] greater than the great; in the Lord of the great and the low, 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“तैर्युक्तश्श्रूयतां नरः” (रामायणम् पा-का 1-7.)
+“तैर् युक्तश् श्रूयतां नरः” (रामायणम् पा-का 1-7.)
 </details>
 
 <details><summary>English</summary>
@@ -1136,7 +1182,8 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>Español</summary>
 
-Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
+Escuchar [^f83] ahora de un hombre (Śrī Rāma)  
+poseído de estas cualidades.
 </details>
 
 
@@ -1147,7 +1194,7 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“तमेवं गुणसंपन्नं” (रामायणम् अ-का 2-48.)
+“तम् एवं गुण-संपन्नं” (रामायणम् अ-का 2-48.)
 </details>
 
 <details><summary>English</summary>
@@ -1159,7 +1206,7 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>Español</summary>
 
-“Him who [^f84] is possessed of these qualities."
+"El que [^f84] posee estas cualidades".
 </details>
 
 
@@ -1171,21 +1218,21 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“ज्येष्ठं श्रेष्ठगुणैर्युक्तं” (रामायणम् पा-का 1-20)  
+“ज्येष्ठं श्रेष्ठ-गुणैर् युक्तं” (रामायणम् पा-का 1-20)  
 </details>
 
 <details><summary>English</summary>
 
-“ Him who is [^f85] the eldest (son) and who is possessed of all Noble qualities."
+“ Him who is [^f85] the eldest (son)  
+and who is possessed of all Noble qualities."
 
 [^f85]: Rāmāyaṇa: Balakāṇḍa: 1-20
 </details>
 
 <details><summary>Español</summary>
 
-“ Him who is [^f85] the eldest (son) and who is possessed of all Noble qualities."
-
-[^f85]: Rāmāyaṇa: Balakāṇḍa: 1-20
+"El que es [^f85] el mayor (hijo)  
+y que posee todas las cualidades nobles".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1208,7 +1255,7 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>Español</summary>
 
-"Him who is [^f86] thus possessed of noble qualities"
+"El que está [^f86] posee así cualidades nobles"
 </details>
 
 
@@ -1232,7 +1279,7 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>Español</summary>
 
-" Rāma [^f87] shone with (all these) qualities."
+"Rāma [^f87] brilló con (todas estas) cualidades".
 </details>
 
 
@@ -1249,14 +1296,16 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>English</summary>
 
-“Him who [^f88] was possessed of such qualities and of irresistible valour."
+“Him who [^f88] was possessed of such qualities  
+and of irresistible valour."
 
 [^f88]: Rāmāyaṇa: Ayodhyakāṇḍa: 1-34
 </details>
 
 <details><summary>Español</summary>
 
-“Him who [^f88] was possessed of such qualities and of irresistible valour."
+"El que [^f88] poseía tales cualidades  
+y de valor irresistible".
 /details>
 
 
@@ -1273,14 +1322,16 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>English</summary>
 
-" There are [^f89] many noble qualities, O King, in your son."
+" There are [^f89] many noble qualities,  
+O King, in your son."
 
 [^f89]: Rāmāyaṇa: Ayodhyakāṇḍa: 2-26
 </details>
 
 <details><summary>Español</summary>
 
-" There are [^f89] many noble qualities, O King, in your son."
+"Hay [^f89] muchas cualidades nobles,  
+oh rey, en tu hijo".
 </details>
 
 
@@ -1291,23 +1342,24 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“आनृशंस्यमनुक्रोशः  
+“आनृशंस्यम् अनुक्रोशः  
 श्रुतं शीलं दमश् शमः ।  
-राघवं शोभयन्त्येते  
-षड्गुणाः पुरुषोत्तमम्” (रामायणम् अ-का 33-12)  
+राघवं शोभयन्त्य् एते  
+षड् गुणाः पुरुषोत्तमम्” (रामायणम् अ-का 33-12)  
 </details>
 
 <details><summary>English</summary>
 
-" [^f90] Benevolence, compassion, learning, integrity of character. control of the senses, control of the mind- these six qualities adorn Rāma, the best of men."
+" [^f90] Benevolence, compassion, learning, integrity of character, control of the senses, control of the mind-  
+these six qualities adorn Rāma, the best of men."
 
 [^f90]: Ibid: 33-12
 </details>
 
 <details><summary>Español</summary>
 
-" [^f90] Benevolence, compassion, learning, integrity of character. control of the senses, control of the mind- these six qualities adorn Rāma, the best of men."
-
+"[^F90] Benevolencia, compasión, aprendizaje, integridad del carácter, Control de los sentidos, control de la mente:  
+estas seis cualidades adornan a Rāma, el mejor de los hombres".
 </details>
 
 
@@ -1333,7 +1385,8 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>Español</summary>
 
-" He is [^f91] known to be earnest in the matter of dharma; He is affectionate to those that seek His protection."
+"Se sabe que [^f91] es serio en el asunto del dharma;  
+es cariñoso con los que buscan su protección".
 </details>
 
 
@@ -1357,7 +1410,9 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>Español</summary>
 
-"Thou art [^f92] capable of affording protection and art also the refuge of all. This is declared by the divine sages."
+"Eres capaz de brindar protección  
+y eres también el refugio de todos.  
+Esto es declarado por los sabios divinos".
 </details>
 
 
@@ -1377,14 +1432,19 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>English</summary>
 
-“ Thou art [^f93] the tree in which the good find their resting place; and Thou art the supreme refuge of all those who are in distress.”
+“ Thou art [^f93] the tree  
+in which the good find their resting place;  
+and Thou art the supreme refuge of all those who are in distress.”
 
 [^f93]: Rāmāyaṇa: Kishkindha kāṇḍa 15-19
 </details>
 
 <details><summary>Español</summary>
 
-“ Thou art [^f93] the tree in which the good find their resting place; and Thou art the supreme refuge of all those who are in distress.”
+“Eres [^f93] el árbol  
+en el que los buenos encuentran su lugar de descanso;  
+y eres el refugio supremo  
+de todos los que están en peligro ".
 </details>
 
 
@@ -1408,7 +1468,8 @@ Hear [^f83] now of a man (Śrī Rāma) possessed of these qualities".
 
 <details><summary>Español</summary>
 
-" He is [^f94] the store-house of such qualities as splendour, strength, lordship, great wisdom, supreme valour and might."
+"Él es [^f94] la tienda de cualidades  
+como esplendor, fuerza, señorío, gran sabiduría, valor supremo y poder".
 </details>
 
 
@@ -1433,7 +1494,9 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 
 <details><summary>Español</summary>
 
-Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is the inner self of all beings?
+¿Está [^f95] alguien que pueda comprender  
+las cualidades de Viṣṇu,  
+quién es el ser interno de todos los seres?
 </details>
 
 
@@ -1460,7 +1523,10 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 
 <details><summary>Español</summary>
 
-"My [^f96] boy, just as the gems in the ocean are countless, the qualities of the Lord armed with Chakra are innumerable ; "
+"Mi niño [^f96],  
+así como las gemas en el océano son innumerables,  
+las cualidades del Señor armadas con chakra  
+son innumerables".
 </details>
 
 
@@ -1482,14 +1548,29 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 
 <details><summary>English</summary>
 
-" His [^f97] qualities cannot be enumerated even in tens of thou. sands of years by even all the gods assembled together. If there be any man of pure mind anywhere, gifted with the period of life appointed for Brahma and if he be further endowed with a thousand mouths, he may be able, O best of gods, to enumerate one ten-thousandth fraction of Thy qualities or may not be able."
+" His [^f97] qualities cannot be enumerated  
+even in tens of thousands of years  
+by even all the gods assembled together.  
+If there be any man of pure mind anywhere,  
+gifted with the period of life appointed for Brahma  
+and if he be further endowed with a thousand mouths,  
+he may be able, O best of gods,  
+to enumerate one ten-thousandth fraction of Thy qualities or may not be able."
 
 [^f97]: Mahābhārata: Karnaparva: 83-15
 </details>
 
 <details><summary>Español</summary>
 
-" His [^f97] qualities cannot be enumerated even in tens of thou. sands of years by even all the gods assembled together. If there be any man of pure mind anywhere, gifted with the period of life appointed for Brahma and if he be further endowed with a thousand mouths, he may be able, O best of gods, to enumerate one ten-thousandth fraction of Thy qualities or may not be able."
+"Sus [^f97] cualidades no pueden ser enumeradas  
+incluso en decenas de miles de años  
+incluso por todos los dioses reunidos.  
+Si hay algún hombre de la mente pura en cualquier lugar,  
+dotado del período de vida designado para Brahma  
+y si está más dotado de mil bocas,  
+puede ser capaz, oh lo mejor de los dioses,  
+para enumerar una diez mil millones de tus cualidades  
+o no ser capaz ".
 </details>
 
 
@@ -1505,8 +1586,8 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 
 “तवानन्त-गुणस्यापि  
 षडेव प्रथमे गुणाः ।  
-यैस् त्वयेव जगत् कुक्षाव्  
-अन्येप्य् अन्तर् निवेशिताः +++(वर्तन्ते गुणाः)+++॥”(विष्णुपुराणम्)  
+यैस् +++(षड्भिः)+++ त्वया +इव जगत् +++(स्व-)+++कुक्षाव्  
+अन्ये ऽप्य् +++(गुणाः)+++ अन्तर् निवेशिताः॥”+++(4)+++  (विष्णुपुराणम्)  
 </details>
 
 <details><summary>English</summary>
@@ -1518,7 +1599,10 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 
 <details><summary>Español</summary>
 
-“Though Thy [^f98] qualities are infinite, yet six of them are foremost among them; even as the universe is borne within thy body, the other qualities too, are contained within them."
+“Aunque tus cualidades [^f98] son ​​infinitas,  
+seis de ellas están más importantes entre ellas;  
+Incluso cuando el universo se lleva dentro de tu cuerpo,  
+las otras cualidades también están contenidas dentro de ellas ".
 </details>
 
 
@@ -1529,7 +1613,7 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“इषुक्षयान् निवर्तन्ते  
+“इषु-क्षयान् निवर्तन्ते  
 नान्तरिक्ष-क्षिति-क्षयात् ।  
 मति-क्षयान् निवर्तन्ते +++(वचनानि)+++  
 न गोविन्द-गुण-क्षयात् ॥”
@@ -1537,14 +1621,20 @@ Is [^f95] there anyone that can comprehend the qualities of Viṣṇu , who is t
 
 <details><summary>English</summary>
 
-" It is [^f99] owing to the deficiency of arrows that the man who wishes to cover the sky desists and not owing to any deficiency in the space of the sky. (So also ) we fall back from the praise of Govinda, owing to our deficiency of intelligence and not owing to any deficiency in His qualities."
+" It is [^f99] owing to the deficiency of arrows  
+that the man who wishes to cover the sky desists  
+and not owing to any deficiency in the space of the sky.  
+(So also ) we fall back from the praise of Govinda,  
+owing to our deficiency of intelligence  
+and not owing to any deficiency in His qualities."
 
 [^f99]: ??
 </details>
 
 <details><summary>Español</summary>
 
-" It is [^f99] owing to the deficiency of arrows that the man who wishes to cover the sky desists and not owing to any deficiency in the space of the sky. (So also ) we fall back from the praise of Govinda, owing to our deficiency of intelligence and not owing to any deficiency in His qualities."
+"Es [^f99] debido a la deficiencia de flechas  
+que el hombre que desea cubrir los desiste del cielo y no debido a ninguna deficiencia en el espacio del cielo. (Así también) nos retrasamos de los elogios de Govinda, debidoa nuestra deficiencia de inteligencia y no a ninguna deficiencia en sus cualidades ".
 </details>
 
 
