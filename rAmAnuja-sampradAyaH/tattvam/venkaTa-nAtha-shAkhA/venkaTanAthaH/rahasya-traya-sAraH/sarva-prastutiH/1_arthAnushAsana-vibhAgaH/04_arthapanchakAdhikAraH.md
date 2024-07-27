@@ -1766,7 +1766,7 @@ Bhagavān tiene una forma divina y auspiciosa:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “नित्य-सिद्धे तद्-आकारे,  
-तत्+++(→आकारे)+++-परत्वे च पौष्कर+++(=ब्रह्मन्)+++ ।  
+तत्+++(→भगवत्)+++-परत्वे च पौष्कर+++(=ब्रह्मन्)+++ ।  
 यस्यास्ति सत्ता हृदये  
 तस्यासौ सन्निधिं व्रजेत् ॥”  
 (पौ॰ सम्)
@@ -1774,14 +1774,18 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>English</summary>
 
-"He who [^f103] has faith in His form that is eternal and in His being the Supreme Deity - him Bhagavān approaches soon, O Pauṣkara."
+"He who [^f103] has faith in His form that is eternal  
+and in His being the Supreme Deity -  
+him Bhagavān approaches soon, O Pauṣkara."
 
 [^f103]: Paushkara Saṁhitā
 </details>
 
 <details><summary>Español</summary>
 
-"He who [^f103] has faith in His form that is eternal and in His being the Supreme Deity - him Bhagavān approaches soon, O Pauṣkara."
+"El que [^f103] tiene fe en su forma que es eterna  
+y en su ser la deidad suprema -  
+él se acerca Bhagavān pronto, oh Pauṣkara ".
 </details>
 
 
@@ -1803,14 +1807,18 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>English</summary>
 
-“Hari has [^f104] another form entirely different from all forms seen in the universe, in which all these saktīs abide."
+“Hari has [^f104] another form  
+entirely different from all forms seen in the universe,  
+in which all these saktīs abide."
 
 [^f104]: Viṣṇupurāṇa: 6-7-70
 </details>
 
 <details><summary>Español</summary>
 
-“Hari has [^f104] another form entirely different from all forms seen in the universe, in which all these saktīs abide."
+"Hari tiene [^f104] otra forma  
+completamente diferente de todas las formas vistas en el universo,  
+en el que respetan todos estos saktīs ".
 </details>
 
 
@@ -1827,14 +1835,16 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>English</summary>
 
-"He [^f105] assumes by His will a form that is immense and that is pleasing."
+"He [^f105] assumes by His will  
+a form that is immense and that is pleasing."
 
 [^f105]: Viṣṇupurāṇa: 6-5-84
 </details>
 
 <details><summary>Español</summary>
 
-"He [^f105] assumes by His will a form that is immense and that is pleasing."
+"Él [^f105] asume por su voluntad  
+Una forma inmensa y agradable ".
 </details>
 
 
@@ -1850,14 +1860,16 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>English</summary>
 
-“The body [^f106] of the Supreme Being is not constituted of the (five) elements."
+“The body [^f106] of the Supreme Being  
+is not constituted of the (five) elements."
 
 [^f106]: Mahābhārata: Śāntiparva: 206-60
 </details>
 
 <details><summary>Español</summary>
 
-“The body [^f106] of the Supreme Being is not constituted of the (five) elements."
+"El cuerpo [^f106] del ser supremo  
+no está constituido de los (cinco) elementos".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1873,16 +1885,16 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>English</summary>
 
-“His form [^f107] is not constituted of prakṛti or matter nor formed of flesh, lymph or bone."
+“His form [^f107] is not constituted of prakṛti or matter  
+nor formed of flesh, lymph or bone."
 
 [^f107]: Varāhapurāṇa: 31-40
 </details>
 
 <details><summary>Español</summary>
 
-“His form [^f107] is not constituted of prakṛti or matter nor formed of flesh, lymph or bone."
-
-[^f107]: Varāhapurāṇa: 31-40
+“Su forma [^f107] no está constituida por prakṛti o materia  
+ni formado de carne, linfa o hueso ".
 </details>
 
 
@@ -1908,7 +1920,8 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>Español</summary>
 
-" This form [^f108] has four arms, is supremely excellent, and is in Vaikuṇṭha  ."
+"Esta forma [^f108] tiene cuatro brazos,  
+es supremamente excelente y está en vaikuṇṭha".
 </details>
 
 
@@ -1924,16 +1937,16 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>English</summary>
 
-"He has a [^f109] form resplendent like gold and capable of being seen by the mind as in a dream."
+"He has a [^f109] form resplendent like gold  
+and capable of being seen by the mind as in a dream."
 
 [^f109]: Manu Smr̥ti: 12-122
 </details>
 
 <details><summary>Español</summary>
 
-"He has a [^f109] form resplendent like gold and capable of being seen by the mind as in a dream."
-
-[^f109]: Manu Smr̥ti: 12-122
+"Tiene una forma [^f109] resplandeciente como el oro  
+y capaz de ser visto por la mente como en un sueño".
 </details>
 
 
@@ -1964,7 +1977,7 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“पश्यामि देवांस्तव देवदेहे” (गीता 11-15)
+“पश्यामि देवांस् तव देव देहे” (गीता 11-15)
 </details>
 
 <details><summary>English</summary>
@@ -1976,7 +1989,7 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>Español</summary>
 
-"In Thy [^f110] form, O Lord, I see the gods."
+"En tu forma [^f110], oh Señor, veo a los dioses".
 </details>
 
 
@@ -2000,9 +2013,8 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>Español</summary>
 
-"He has [^f111] a body on which rest weapons and ornaments."
-
-[^f111]: Ibid: 11-15
+"Tiene [^f111] un cuerpo  
+en el que las armas y adornos de descanso".
 </details>
 
 
@@ -2026,7 +2038,8 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>Español</summary>
 
-"All this [^f112] universe is in His form as weapons and ornaments."
+"Todo este universo [^f112] está en su forma  
+como armas y adornos ".
 </details>
 
 
@@ -2045,14 +2058,16 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>English</summary>
 
-“The [^f113] Supreme Being Armed with the conch, the chakra and the club is in the region beyond the universe of matter (tamas)"
+“The [^f113] Supreme Being Armed with the conch, the chakra and the club  
+is in the region beyond the universe of matter (tamas)"
 
 [^f113]: Viṣṇupurāṇam: 1-22-32
 </details>
 
 <details><summary>Español</summary>
 
-“The [^f113] Supreme Being Armed with the conch, the chakra and the club is in the region beyond the universe of matter (tamas)"
+"El [^f113] supremo está armado con la caracola, el chakra y el club  
+está en la región más allá del universo de la materia (tamas) "
 </details>
 
 
@@ -2070,12 +2085,18 @@ Bhagavān tiene una forma divina y auspiciosa:
 
 <details><summary>English</summary>
 
-Bhagavān should be thought of, also, as having a transcendent, super sensuous (aprākrita), divine and auspicious form, which is the resting place (āsraya ) of the universe, for there are many passages which refer to this form of His.
+Bhagavān should be thought of,  
+also, as having a transcendent, super sensuous (aprākrita), divine and auspicious form,  
+which is the resting place (āsraya ) of the universe,  
+for there are many passages which refer to this form of His.
 </details>
 
 <details><summary>Español</summary>
 
-Bhagavān should be thought of, also, as having a transcendent, super sensuous (aprākrita), divine and auspicious form, which is the resting place (āsraya ) of the universe, for there are many passages which refer to this form of His.
+Bhagavān debe ser pensado en  
+Además, como una forma trascendente, súper sensual (aprākrita), divina y auspiciosa,  
+que es el lugar de descanso (āsraya) del universo,  
+porque hay muchos pasajes que se refieren a esta forma suya.
 </details>
 
 
@@ -2104,11 +2125,20 @@ Details concerning them may be learnt from the Pāñcarātra śāstra  and from 
 
 <details><summary>Español</summary>
 
-From the Pāñcarātra śāstra  (Bhagavat śāstra), it is learnt that this form of the Lord is of five kinds (1) The Supreme (Para Vāsudeva ), (2) Vyūha (Vāsudeva, Saṅkarṣaṇa, Aniruddha and Pradyumna), (3) Vibhava (avatārs like Rāma and Kṛṣṇa), (4)  Hārda[^25] and (5) arcā (images worshipped in temples).
+Del Pāñcarātra śāstra (Bhagavat Śāstra),  
+se aprende que esta forma del Señor  
+es de cinco tipos  
+(1) el Supremo (para vāsudeva),  
+(2) Vyūha (Vāsudeva, Saṅkarṣaṇa, Aniruddha y Pradyumna),  
+(3) Vibhava (avatārs como Rāma y Kṛṣṇa),  
+(4) Hārda [^25] y  
+(5) Arcā (imágenes adoradas en los templos).
 
-[^25]: Harda is an aprakrita form of the Lord present in the human heart, like the arcā in temples
+[^25]: Hārda es una forma de aprakrita del Señor presente en el corazón humano, como el arcā en los templos
 
-Details concerning them may be learnt from the Pāñcarātra śāstra  and from tradition. 
+Los detalles sobre ellos  
+se pueden aprender  
+del Pāñcarātra Śāstra y de la tradición.
 </details>
 
 
@@ -2126,7 +2156,7 @@ THE VIBHŪTIS OF BHAGAVĀN: LILÃ AND BHOGA:
 
 <details><summary>Español</summary>
 
-THE VIBHŪTIS OF BHAGAVĀN: LILÃ AND BHOGA:
+Los VIBHŪTIS de Bagavān: LILÃ AND BHOGA:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2143,7 +2173,7 @@ THE VIBHŪTIS OF BHAGAVĀN: LILÃ AND BHOGA:
 
 <details><summary>Español</summary>
 
-"These [^f115] are the vibhūtis (glories) of Viṣṇu  (i. e.) Brahma, Manu and others, time and all beings. "
+"Estos [^f115] son ​​los Vibhūtis (glorias) de Viṣṇu (i. E.) Brahma, Manu y otros, el tiempo y todos los seres".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2166,9 +2196,8 @@ THE VIBHŪTIS OF BHAGAVĀN: LILÃ AND BHOGA:
 
 <details><summary>Español</summary>
 
-"He has, for [^f116] His abode, the region of eternal glory called Mahā vibhūti.
-
-[^f116]: Viṣṇupurāṇa :5-1-50
+"Tiene, porque [^f116] su morada,  
+la región de la gloria eterna llamada Mahā Vibhūti.
 </details>
 
 
@@ -2192,7 +2221,8 @@ THE VIBHŪTIS OF BHAGAVĀN: LILÃ AND BHOGA:
 
 <details><summary>Español</summary>
 
-" There is [^f117] no end, O mighty warrior, to my divine glories" (vibhūtis). 
+"No hay [^f117] sin fin, oh guerrero poderoso,  
+a mis glorias divinas" (vibhūtis).
 </details>
 
 
@@ -2218,9 +2248,10 @@ These ideas are concisely expressed in the śloka  :
 
 <details><summary>Español</summary>
 
-These ideas are concisely expressed in the śloka  :
+Estas ideas se expresan de manera concisa en el Śloka:
 
-“The [^f118] anda of the Universe and whatever else is found within that anda are His vibhūtis."
+> "El [^f118] huevo del universo y cualquier otra cosa que se encuentre dentro de huevo  
+> son sus vibhūtis".
 </details>
 
 
@@ -2243,8 +2274,10 @@ For there are passages like the following which describe His vibhūtis.
 
 <details><summary>Español</summary>
 
-Bhagavān should also be considered as having endless glories or possessions (Vibhūti).  
-For there are passages like the following which describe His vibhūtis.
+Bhagavān también debe considerarse  
+que tiene infinitas glorias o posesiones (Vibhūti).  
+Porque hay pasajes  
+como los siguientes que describen sus vibhūtis.
 </details>
 
 
@@ -2272,10 +2305,11 @@ and others for His enjoyment (bhoga).
 
 <details><summary>Español</summary>
 
-These vibhūtis (possessions or glories) of God are of two kinds, sentient and non-sentient,  
-and these again are of two kinds,  
-some existing for His Līlā or sport  
-and others for His enjoyment (bhoga).  
+Estos vibhūtis (posesiones o glorias) de Dios  
+son de dos tipos, sensibles y no sensibles,  
+y estos nuevamente son de dos tipos,  
+algunos existentes para su līlā o deporte  
+y otros para su disfrute (bhoga).
 </details>
 
 
@@ -2293,12 +2327,18 @@ and others for His enjoyment (bhoga).
 
 <details><summary>English</summary>
 
-This division into things for play (līlā) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all  of them have agreeableness (or ānukulyam) in common.
+This division into things for play (līlā)  
+and things for enjoyment (bhoga)  
+is based on the difference in the rasa or delectation,  
+though all of them have agreeableness (or ānukulyam) in common.
 </details>
 
 <details><summary>Español</summary>
 
-This division into things for play (līlā) and things for enjoyment (bhoga) is based on the difference in the rasa or delectation, though all  of them have agreeableness (or ānukulyam) in common.
+Esta división en cosas para jugar (līlā)  
+y cosas para disfrutar (bhoga)  
+se basa en la diferencia en el RASA o la delección,  
+Aunque todos tienen amabilidad (o ānukulyam) en común.
 </details>
 
 
@@ -2325,7 +2365,7 @@ This division into things for play (līlā) and things for enjoyment (bhoga) is 
 
 <details><summary>Español</summary>
 
-" From [^f119] whom is the origin etc. of this world"
+"De [^f119] quién es el origen, etc. de este mundo"
 </details>
 
 
@@ -2351,7 +2391,7 @@ This division into things for play (līlā) and things for enjoyment (bhoga) is 
 
 <details><summary>Español</summary>
 
-“All [^f120] this is Hari's play (or sport)."
+"Todos [^F120] Este es el juego de Hari (o deporte)".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2374,7 +2414,7 @@ This division into things for play (līlā) and things for enjoyment (bhoga) is 
 
 <details><summary>Español</summary>
 
-“ Of [^f121] Him who plays like a child"
+"De [^ f121] El que juega como una niña"
 </details>
 
 
@@ -2397,7 +2437,7 @@ This division into things for play (līlā) and things for enjoyment (bhoga) is 
 
 <details><summary>Español</summary>
 
-“[^f122] Playing like a boy with his toys"
+"[^F122] jugando como un niño con sus juguetes"
 </details>
 
 
@@ -2420,7 +2460,8 @@ This division into things for play (līlā) and things for enjoyment (bhoga) is 
 
 <details><summary>Español</summary>
 
-"Thou [^f123] playest with Thy creatures, as if they were balls for sport."
+"Tú [^f123] juegas con tus criaturas,  
+como si fueran bolas para el deporte".
 </details>
 
 
@@ -2444,7 +2485,8 @@ This division into things for play (līlā) and things for enjoyment (bhoga) is 
 
 <details><summary>Español</summary>
 
-“ All  [^f124] this is merely for play (on the part of Brahman) as in the world (kings play with balls).
+“Todos [^f124] Esto es simplemente para jugar (por parte de Brahman)  
+como en el mundo (Kings juega con bolas).
 </details>
 
 
@@ -2465,7 +2507,10 @@ Bhagavān should be considered as being engaged in the work of the Universe mere
 
 <details><summary>Español</summary>
 
-Bhagavān should be considered as being engaged in the work of the Universe merely for His play or sport (līlā), for it has been said as above.
+Bhagavān debe considerarse  
+como involucrado en el trabajo del universo  
+simplemente por su juego o deporte (līlā),  
+ya que se ha dicho como anteriormente.
 </details>
 
 
@@ -2480,13 +2525,13 @@ Bhagavān should be considered as being engaged in the work of the Universe mere
 <details><summary>English</summary>
 
 SUMMARY.  
-(This summarises Prapya (i.c.) the object of attainment, viz. Brahman)
+(This summarises Prapya (i.e.) the object of attainment, viz. Brahman)
 </details>
 
 <details><summary>Español</summary>
 
-SUMMARY.  
-(This summarises Prapya (i.c.) the object of attainment, viz. Brahman)
+RESUMEN.
+(Esto resume a Prapya (ES DECIR.) El objeto de logro, a saber, Brahman)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
