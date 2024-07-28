@@ -3,6 +3,7 @@ title = "०० श्रीगुरुपरंपरासारः"
 
 +++
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ०० श्रीगुरुपरंपरासारः  
@@ -19,19 +20,21 @@ title = "०० श्रीगुरुपरंपरासारः"
 वेदान्ताचार्यवर्यो मे सन्निधत्तां सदा हृदि ॥
 </details>
 
-
 <details><summary>English</summary>
 
 ŚRĪMADRAHASYATRAYASĀRAM
 
 A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
+</details><details><summary>English es</summary>
 
+Śrīmadrahasyatrayasāram
+
+ Una breve descripción de la sucesión de ācāryas
 </details>
 
+<div class="js_include" includetitle="false" newlevelforh1="5" url="/bhAShAntaram/tamiL/padyam/shrIvaiShNava/taniyan/venkaTa-nAtha/sIr-oNDru.md"> </div>
 
-<div class="js_include" url="/bhAShAntaram/tamiL/padyam/shrIvaiShNava/taniyan/venkaTa-nAtha/sIr-oNDru.md"  newLevelForH1="5" includeTitle="false"> </div>  
-
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" includetitle="false" newlevelforh1="5" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -53,8 +56,7 @@ A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 
 [^1]: A śeṣa is one who exists solely for the purposes of another. That other is śeṣī .
 </details>
-</div>  
-
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
@@ -79,6 +81,13 @@ we have come to understand the real meaning of the regions of the Upaniṣads wh
 seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu cittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai alvar) and the prince of Maṅgai armed with sword and spear for making bright the path of the Vedas throughout the world.
 
 [^2]: The commentator says that Viṣṇucittan stands for Viṣṇucittan and also for his daughter Andal, the authoress of many hymns.
+</details><details><summary>English es</summary>
+
+Habiendo estudiado cuidadosamente los hermosos himnos cantados con deleite en tamil por los videntes,
+ Hemos llegado a comprender el verdadero significado de las regiones de los Upaniṣads que de otro modo son difíciles de comprender -
+ seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was born on the banks of the cool Tamraparni, [^2] Viṣṇu cittan, the pure-minded Kulasekhara, our Pananathan, Thondaradippodi, the splendour that appeared in Mazhisai ( Tirumazhisai Alvar) y el Príncipe de Maṅgai armado con espada y lanza por hacer brillante el camino de los Vedas en todo el mundo.
+
+ [^2]: El comentarista dice que Viṣṇucittan representa Viṣṇucittan y también para su hija Andal, la autora de muchos himnos.
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -91,8 +100,6 @@ seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was b
 सॆय्यदमिऴ् मालैगळ् नाम् तॆळिय वोदित्  
 तॆळियादमऱै निलङ्गळ्तॆगिण्ड्रोमे. (1)
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
@@ -112,7 +119,6 @@ seers known as Poygai Muni, Bhutamuni, Peyalvar, Kurugesan (Nammalvar) who was b
 प्रप्रत्ताव् अप्य् आचार्यम् अन्तरा महाविश्वासं दुस्साध्यम् इति वदन्ति। 
 </details>
 
-
 <details><summary>English</summary>
 
 To those who venture to attain release from the bondage of saṁsāra,  
@@ -124,6 +130,17 @@ he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil
 [^3]: safe path: This means Bhakti and Prapatti which lead to mokṣa . Acārya bhakti is called bhakti and prapatti as it leads to them.
 
 [^4]: Madhurakavi in his decade of Tamil verses, says that, to him, Nammalvar is the only God and that through him, he expects to derive all the benefits that men expect to have from God Himself. The path indicated by him is that of devotion to the ācārya for attaining mukti as well as other things.
+</details><details><summary>English es</summary>
+
+A aquellos que se aventuran a alcanzar la liberación de la esclavitud de Saṁsāra,
+ El camino antiguo que nos indica el impecable Madhurakavi por su propio ejemplo es el único camino seguro [^3],
+ Porque mientras está śrīkṛṣṇa, el gran trato, que encarnó únicamente por el bien de sus devotos para otorgarles la dicha, para ser su refugio, ser su objetivo final, para pararse en relación con ellos como madre, padre, hermano y así en,
+ Cambiar su deseo de los placeres de este mundo en un deseo por sí mismo, eliminar todos sus pecados, mostrarles una compasión infinita, revelar la verdad, y así también para provocarles una imagen para sí mismo, mientras que está Śrīkṛṣṇa alguna vez listo para hacer todo esto, [^4]
+ Solo buscó los pies de la sabia Satagopa (Nammālvār) que hizo en tamil las verdades contenidas en los Vedas que de otro modo son difíciles de entender.
+
+ [^3]: Camino seguro: Esto significa Bhakti y Prapatti que conducen a mokṣa. Acārya Bhakti se llama Bhakti y Prapatti, ya que les lleva a ellos.
+
+ [^4]: Madhurakavi en su década de versos tamiles, dice que, para él, Nammalvar es el único Dios y que a través de él, espera obtener todos los beneficios que los hombres esperan tener de Dios mismo. El camino indicado por él es el de la devoción al ācārya por alcanzar mukti y otras cosas.
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -138,13 +155,15 @@ he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil
 दॊल्वऴिये नल्वऴिगळ् तुणिवार्गट्के. (2)
 </details>
 
-
 ## आचार्यापेक्षा
+
 <details><summary>English</summary>
 
 THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
-</details>
+</details><details><summary>English es</summary>
 
+LA ĀCĀRYA ESENCIAL PARA MOKṢA: EL ĀCĀRYA ESENCIAL PARA MOKṢA:
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -170,22 +189,26 @@ THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
 जन्मान्तरे भक्तिमार्गेण मुक्तः। 
 </details>
 
-
 <details><summary>English</summary>
 
 It is said in the Smṛtis: "Kṣatrabandhu[^5] , who was the worst of sinners, and Puṇḍarīka[^6] , the virtuous - both of them obtained mokṣa  or release from bondage by virtue of their having ācāryas." It is thus declared that in the case of every one, the only means of securing mokṣa  is to have an ācārya.
 
-
 [^5]: Kṣatrabandhu led the life of a highwayman in a forest. He was a source of terror to the sages who lived in that forest. Once when the sage Nārada  happened to pass by him, he rushed at him with his stick. Nārada  took pity on him and asked him to find out from his wife and children whether they would share the sin he was committing, as it was done for their sake. They refused and Kṣatrabandhu realised his folly and begged to be instructed by Nārada  in the truths of religion.
 
 [^6]: Puṇḍarīka was a virtuous Brahmin, who, though he followed the righteous path and went on a pilgrimage to holy places, did not get a vision of God. It was only after being initiated into the Ashtakṣara by Nārada  that he realised God.
+</details><details><summary>English es</summary>
+
+Se dice en los Smṛtis: "Kṣatrabandhu [^5], que fue el peor de los pecadores, y puṇḍarīka [^6], los virtuosos, ambos obtuvieron mokṣa o liberaron de la esclavitud por virtud de tener ācāryas". Por lo tanto, se declara que en el caso de cada uno, el único medio de asegurar mokṣa es tener un ācārya.
+
+ [^5]: Kṣatrabandhu dirigió la vida de un autopista en un bosque. Era una fuente de terror para los sabios que vivían en ese bosque. Una vez, cuando el sabio Nārada pasó por él, se apresuró hacia él con su palo. Nārada se compadeció de él y le pidió que descubriera a su esposa e hijos si compartirían el pecado que estaba cometiendo, como se hizo por su bien. Se negaron y Kṣatrabandhu se dio cuenta de su locura y suplicó que Nārada le instruya en las verdades de la religión.
+
+ [^6]: Puṇḍarīka era un brahmán virtuoso, quien, aunque siguió el camino justo y se fue de peregrinación a lugares sagrados, no obtuvo una visión de Dios. Fue solo después de ser iniciado en el Ashtakṣara por Nārada que se dio cuenta de Dios.
 </details>
 
 <details><summary>मूलम्</summary>
 
 “पापिष्ठः क्षत्रबन्धुश्च पुण्डरीकश्च पुण्यकृत् । आचार्यवत्तया मुक्तौ तस्मादाचार्यवान् भवेत् ॥” ऎण्ड्रु आचार्यवत्तैये सर्वरुक्कुम् मोक्षकारणमॆण्ड्रऱुदियिट्टार्गळ्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -197,8 +220,12 @@ It is said in the Smṛtis: "Kṣatrabandhu[^5] , who was the worst of sinners, 
 To the man desirous of mokṣa , the line of ācāryas is stated in the śruti[^7] to extend upward even to the Supreme Bhagavān for purposes of meditation.
 
 [^7]: The śruti  referred to here means - “This line of the ācāryas extends up to Bhagavān thus: This is his ācārya; his ācārya is so and so and so on up to the Lord".
-</details>
+</details><details><summary>English es</summary>
 
+Al hombre deseoso de Mokṣa, la línea de ācāryas se indica en el Śruti [^7] para extenderse incluso al supremo Bhagavān para fines de meditación.
+
+ [^7]: El Śruti mencionado aquí significa: “Esta línea de los ācāryas se extiende a Bhagavān así: esta es su ācārya; Su ācārya es tan y así y así hasta el Señor ".
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -210,8 +237,10 @@ To the man desirous of mokṣa , the line of ācāryas is stated in the śruti[^
 <details><summary>English</summary>
 
 BHAGAVĀN THE FIRST ĀCĀRYA:
-</details>
+</details><details><summary>English es</summary>
 
+Bhagavān el primer ācārya:
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -220,7 +249,6 @@ BHAGAVĀN THE FIRST ĀCĀRYA:
 > +++(इति सहदेवेन राजसूययागाग्रपूजाप्रसङ्गे प्रत्याक्षिपद्भ्यो वामपादं प्रसार्योक्तं रोषेण)+++
 
 ऎण्ड्रुम्,  
-
 
 > “ममाप्य् अखिल लोकानां  
 गुरुर् नारायणो गुरुः” 
@@ -243,7 +271,6 @@ The Supreme Lord is the foremost of all ācāryas, as may be seen from the follo
 
 > "Him[^f8] [^f9] (Śrīkṛṣṇa) who is possessed of all excellences, who is the ācārya[^8] , father and guru", 
 
-
 > "Nārāyaṇa [^f10] who is the guru of all the world is also my guru", 
 
 > "Thou[^f11] art my kinsman, and Thou art my guru", 
@@ -251,13 +278,25 @@ The Supreme Lord is the foremost of all ācāryas, as may be seen from the follo
 and 
 
 > "Thou art[^f12] the guru of all the worlds and likewise their goal". 
+</details><details><summary>English es</summary>
+
+El Señor Supremo es el principal de todos los ācāryas, como se puede ver en los siguientes pasajes -
+
+ > "Él [^f8] [^f9] (śrīkṛṣṇa) que posee todas las excelencias, que es el ācārya [^8], padre y guru", ",
+
+ > "Nārāyaṇa [^f10] quien es el gurú de todo el mundo también es mi guru",
+
+ > "Tú [^f11] eres mi pariente, y tú eres mi guru",
+
+ y
+
+ > "Tú eres [^f12] el gurú de todos los mundos y de la misma manera su objetivo".
 </details>
 
 <details><summary>मूलम्</summary>
 
 “तमिमं सर्वसंपन्नमाचार्यं पितरं गुरुम्” ऎण्ड्रुम्, “ममाप्यखिल लोकानां गुरुर्नारायणो गुरुः” ऎण्ड्रुम्, “त्वमेव बन्धुश्च गुरुस्त्वमेव” ऎण्ड्रुम्, “गुरुरसि गतिश्चासि जगताम्” ऎण्ड्रुञ् चॊल्लुगिऱप्पडिये सर्वलोकत्तुक्कुम् परमाचार्यनान सर्वेश्वरन्
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -272,6 +311,11 @@ and
 It is He that, at the beginning, vouchsafed the Vedas to Brahma  
 and when they were stolen, brought them back to him  
 and through him spread their knowledge in the world. 
+</details><details><summary>English es</summary>
+
+Es él quien, al principio, se atribuyó a los Vedas a Brahma
+ y cuando fueron robados, los trajeron de vuelta a él
+ y a través de él difundió su conocimiento en el mundo.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -295,14 +339,15 @@ and through him spread their knowledge in the world.
 <details><summary>English</summary>
 
 It is He that blessed Brahma's sons, Sanatkumāra and others, to understand[^f13] all truths by themselves and to follow the path of renunciation. Through them He revealed the means of attaining salvation. 
-</details>
+</details><details><summary>English es</summary>
 
+Es él quien bendijo a los hijos de Brahma, Sanatkumāra y otros, para comprender [^f13] todas las verdades por sí mismos y seguir el camino de la renuncia. A través de ellos reveló los medios para alcanzar la salvación.
+</details>
 
 <details><summary>मूलम्</summary>
 
 इवन् पुत्रर्गळान सनत्कुमारादिगळै “स्वयमागत-विज्ञाना निवृत्तिं धर्ममास्थिताः” ऎन्नुम्बडि पण्णि अवर्गळ् मुखङ्गळाले हित-प्रवर्तनं पण्णुवित्तुम्,  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -313,14 +358,15 @@ It is He that blessed Brahma's sons, Sanatkumāra and others, to understand[^f13
 <details><summary>English</summary>
 
 It is Bhagavān who, later by the agency of such great seers as Nārada , Parāśara, Śuka  and Soubaka, maintained intact the tradition of the Upaniṣads. 
-</details>
+</details><details><summary>English es</summary>
 
+Es Bhagavān quien, más tarde por la agencia de los grandes videntes como Nārada, Parāśara, Śuka y Soubaka, mantuvieron intacta la tradición de los Upaniṣads.
+</details>
 
 <details><summary>मूलम्</summary>
 
 इप्पडिये मट्रुम् नारद-पराशर-शुक-शौनकादि-गळान पल महर्षिगळैयिट्टु अध्यात्म-संप्रदायङ्गुलैयादबडि नडत्तियुम्,
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -349,8 +395,18 @@ It has also been said,
 > “Devoutly[^f15] uttering the name of that great sage (Vyāsa), Bhīṣma said with folded hands ". 
 
 Into such great men as Vyāsa referred to above the Lord entered and through them published to the world great works like Mahābhārata and Sārīraka Mīmāmsā (Brahma Sūtras). 
-</details>
+</details><details><summary>English es</summary>
 
+Se ha dicho
+
+ > "Sepa [^f14] que Vyāsa que de otro modo se llama Kṛṣṇa dvaipayana es el Señor Nārāyaṇa. ¿Quién más está allí en el mundo, oh Maitreya, que podría componer el Mahābhārata?"
+
+ También se ha dicho,
+
+ > "Devroutly [^f15] pronunciando el nombre de esa gran salvia (Vyāsa), dijo Bhīṣma con manos dobladas".
+
+ En hombres tan grandes como Vyāsa mencionado sobre el Señor entró y a través de ellos publicados en el mundo grandes obras como Mahābhārata y Sārīraka Mīmāmsā (Brahma Sūtras).
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -371,13 +427,16 @@ Into such great men as Vyāsa referred to above the Lord entered and through the
 
 Further in such incarnations as Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa , and the Gītācārya (Śrīkṛṣṇa),  
 He himself stood out and revealed spiritual truths and also the means of attaining mokṣa  (tattva and hita). 
+</details><details><summary>English es</summary>
+
+Además en encarnaciones como Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa y el Gītācārya (Śrīkṛṣṇa),
+ Él mismo se destacó y reveló verdades espirituales y también los medios para alcanzar Mokṣa (Tattva y Hita).
 </details>
 
 <details><summary>मूलम्</summary>
 
 हंस-मत्स्य-हयग्रीव-नर-नारायण-गीताचार्याद्यवतारङ्गळाले ताने वॆळि निण्ड्रु तत्वहितङ्गळैप् प्रकाशिप्पित्तुम्,  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -388,13 +447,15 @@ He himself stood out and revealed spiritual truths and also the means of attaini
 <details><summary>English</summary>
 
 He had His invaluable teaching confirmed also through the words of such men of wisdom as Bhīṣma. 
+</details><details><summary>English es</summary>
+
+Tenía su invaluable enseñanza confirmada también a través de las palabras de los hombres de sabiduría como Bhīṣma.
 </details>
 
 <details><summary>मूलम्</summary>
 
 तानरुळिच् चॆय्द अर्थङ्गळैयॆल् लाम् श्रीभीष्मर् मुदलान ज्ञानाधिकरैयिट्टु मूदलिप्पित्तुम्,  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -429,8 +490,19 @@ When this Śāstra which was originally taught by Him became lost,
 He[^f17] revealed it again through Saṅkarṣaṇa in accordance with the ordinances of the Sātvatas  
 so that all castes, Brahmins, Kṣatriyas, Vaiśyas, and Śūdras, might, after initiation by the ācārya with the prescribed marks (Śaṅkha and Cakra),  
 worship and render service to the lord in the performance of their daily duties with their minds set on the Eternal." 
-</details>
+</details><details><summary>English es</summary>
 
+Se ha dicho [^f16]
+
+ > "Nārāyaṇa mismo dictó todo el pāñcarātra",
+
+ Cuando este Śāstra que fue enseñado originalmente por él se perdió,
+
+ > "Una vez más al final del dvāpara yuga y el comienzo del kali yuga,
+ Él [^f17] lo reveló nuevamente a través de saṅkarṣaṇa de acuerdo con las ordenanzas de los sātvatas
+ para que todas las castas, brahmanes, kṣatriyas, vaiśyas y Śūdras, pudieran, después de la iniciación por los ācārya con las marcas prescritas (Śaṅkha y Cakra),
+ Adoración y prestación del servicio al Señor en el desempeño de sus deberes diarios con sus mentes establecidas en lo eterno ".
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -456,8 +528,10 @@ worship and render service to the lord in the performance of their daily duties 
 <details><summary>English</summary>
 
 As is said in the following verse, “In the yuga of Kali[^f18] , the Lord Acyuta enters into the respective persons of men already born and carries out His designs", Nārāyaṇa  assumed a new series of ten incarnations in the forms of Parankusa (Nammalvar), Parakala (Tirumaṅgai) and others. In these ten avatars, just as clouds take in the water of the ocean and then pour it down in the form of rain so essential to the life of every one, the Lord gathered together those parts of the Vedas which are most significant and revealed them briefly in a language (Tamil) which is accessible to everyone.
-</details>
+</details><details><summary>English es</summary>
 
+Como se dice en el siguiente verso: "En la yuga de Kali [^f18], el Señor Acyuta entra en las respectivas personas de hombres que ya nacieron y llevan a cabo sus diseños", Nārāyaṇa asumió una nueva serie de diez encarnaciones en forma de formas Parankusa (Nammalvar), Parakala (tirumaṅgai) y otros. Esas partes de los Vedas que son más significativos y las revelaron brevemente en un idioma (tamil) que es accesible para todos.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -466,7 +540,6 @@ As is said in the following verse, “In the yuga of Kali[^f18] , the Lord Acyut
 ऎन्गिऱप्पडिये पराङ्कुश-परकालादि-रूपत्ताले अभिनवमागवॊरु दशावतारम् पण्णि  
 मेघङ्गळ् समुद्रजलत्तै वाङ्गि सर्वोपजीव्यमान तण्णीराग उमिऴुमाप्पोले वेदार्थङ्गळिल् वेण्डुम् सारतमांशत्तै सर्वरुक्कुमधिकरिक्कलान भाषैयाले संग्रहित्तुक् काट्टियुम्,  
 </details>
-
 
 [^f9]:Mahābhārata; Sabha Parva : 41-21.
 
@@ -520,8 +593,18 @@ Has it not been said,
 and so also, 
 
 > "Our[^f20] Lord dressed in his yellow raiment came as the guru out of compassion to impart the teaching of the Veda". 
-</details>
+</details><details><summary>English es</summary>
 
+Cuando este camino de la vida espiritual fue amenazado con obstrucción por los herejes, abierto y encubierto,
+ Se encarnó nuevamente en la tierra de Agastya en forma de muchos maestros de la verdadera doctrina.
+ ¿No se ha dicho?
+
+ > “El dios, [^f19] Nārāyaṇa, él mismo, asume una forma mortal de compasión y levanta el mundo sumergido (en la oscuridad de la ignorancia) con los Śāstras como su mano",
+
+ Y así también,
+
+ > "Nuestro [^f20] Señor vestido con su vestimenta amarilla vino cuando el gurú fuera de la compasión de impartir la enseñanza del Veda".
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -531,7 +614,6 @@ and so also,
 ऎण्ड्रुञ्चॊल्लुगिऱ पडिये अगस्त्य-सेवितमान देशत्तिले अनेक देशिकापदेशत्तालेयवदरित्तरुळिनान्.
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -554,15 +636,17 @@ and so also,
 In reference to this, the Maharshi, Śuka , says, 
 
 > “In the[^f21] yuga of Kali, devotees of Nārāyaṇa  endowed with spiritual greatness, will be born here and there in large numbers in the land of the Dravidas, where flow the rivers, the Tamraparni, the Vaigai, the Palar, the holy Cauveri and the Mahānadī which runs westwards."
-</details>
+</details><details><summary>English es</summary>
 
+En referencia a esto, el Maharshi, Śuka, dice,
+
+ > “En el [^f21] yuga de Kali, los devotos de Nārāyaṇa dotados de grandeza espiritual, nacerán aquí y allá en grandes cantidades en la tierra de los Dravidas, donde fluyen los ríos, el Tamraparni, el Vaigai, el Palar, el Palar, el Palar, El Santo Cauveri y el Mahānadī que corre hacia el oeste ".
+</details>
 
 <details><summary>मूलम्</summary>
 
 इत्तैक्कणिसित्तु “कलौ खलु भविष्यन्ति नारायण-परायणाः । क्वचित्क्वचिन्महाभागा द्रमिडेषु च भूरिशः ॥ ताम्रपर्णी नदी यत्र कृतमाला पयस्विनी । कावेरी च महाभागा प्रतीची च महानदी ॥” ऎण्ड्रु महर्षि अरुळिच् चॆय्दान्.
 </details>
-
-
 
 [^f19]: Jayakhya Saṁhitā..
 
@@ -571,11 +655,14 @@ In reference to this, the Maharshi, Śuka , says,
 [^f21]: Bhāgavatam XI, 5-38,39
 
 ## वैष्णवाचार्य
+
 <details><summary>English</summary>
 
 THE SUCCESSION OF VAISHNAVITE ĀCĀRYAS.
-</details>
+</details><details><summary>English es</summary>
 
+La sucesión de Vaishnavita ācāryas.
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -588,14 +675,15 @@ THE SUCCESSION OF VAISHNAVITE ĀCĀRYAS.
 <details><summary>English</summary>
 
 Among these ācāryas. Nāthamuni was the son of Iśvaramuni, and he gave us "Nyāya Tatvam"and " Yoga Rahasyam." 
-</details>
+</details><details><summary>English es</summary>
 
+Entre estos ācāryas. Nāthamuni era el hijo de Iśvaramuni, y nos dio "Nyāya Tatvam" y "Yoga Rahasyam".
+</details>
 
 <details><summary>मूलम्</summary>
 
 इव्वाचार्यर्गळिल्; ईश्वरमुनिगळ् पिळ्ळै नाथमुनिगळ्. इवर् न्याय-तत्वमॆन्गिऱ शास्त्रमुम् योगरहस्यमुम् अरुळिच्चॆय्दार्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -607,6 +695,9 @@ Among these ācāryas. Nāthamuni was the son of Iśvaramuni, and he gave us "Ny
 <details><summary>English</summary>
 
 Since Nāthamuni received the sacred tradition from one of the spiritual descendants of Madhurakavi, and was blessed with spiritual wisdom from a study of Tiruvoymozhi and since, in his yogic contemplation, Nammalvar appeared to him and taught him the sacred lore, his ācārya was Nammalvar himself (though they lived at different times). 
+</details><details><summary>English es</summary>
+
+Desde que Nāthamuni recibió la tradición sagrada de uno de los descendientes espirituales de Madhurakavi, y fue bendecido con sabiduría espiritual de un estudio de Tiruvoymozhi y, dado que, en su contemplación yóguica, Nammalvar le apareció y le enseñó la historia sagrada, su ācārya era Nammalvar mismo (aunque vivían en diferentes momentos).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -614,7 +705,6 @@ Since Nāthamuni received the sacred tradition from one of the spiritual descend
 इवरुक्कु श्रीमधुर-कविगळ् मुदलागवुण्डान संप्रदाय-परंपरैयालुम् तिरुवाय्मॊऴि मुगत्तालुम् योगदशैयिले साक्षात्कृतरायुम्, नम्माऴ्वार् आचार्यरानार्. 
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -630,8 +720,10 @@ Since Nāthamuni received the sacred tradition from one of the spiritual descend
 <details><summary>English</summary>
 
 Nāthamuni's son was Iśvara Bhatta. To Iśvara Bhatta was born Aḷavandār (Yāmunācārya). The works of Aḷavandār are the following eight :-" Āgama Prāmānyam", " Puruṣa Nirnaya", the three Siddhis, namely, “ Ātma Siddhi", "Iśvara Siddhi", "Samvit Siddhi", "ŚrīGitārtha Sangraha", "Stotram" and "The Tetrad of ślokas," 
-</details>
+</details><details><summary>English es</summary>
 
+El hijo de Nāthamuni era Iśvara Bhatta. A iśvara bhatta nació aḷavandār (yāmunācārya). Las obras de Aḷavandār son las siguientes ocho:-"āgama prāmānyam", "Puruṣa nirnaya", los tres siddhis, a saber, "ātma siddhi", "iśvara siddhi", "samvit siddhi", "," śrīgitārtha sangraha "," y "y" y "," y "y" y "y", "y" y "," y "," y "y", "y", "y", "y", "y", "y", "y", "y", "y", ",", ",", ",", "y", "y", ",", "," y ",", "y", ",", ",", ",", ",", ",", ",", ",", "," "La tétrada de Ślokas"
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -644,7 +736,6 @@ Nāthamuni's son was Iśvara Bhatta. To Iśvara Bhatta was born Aḷavandār (Y�
 आग ऎट्टु. 
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -660,8 +751,10 @@ Nāthamuni's son was Iśvara Bhatta. To Iśvara Bhatta was born Aḷavandār (Y�
 
 Sottai Nambi was the son of Aḷavandār. Sottai Nambi's son was Ennachchan. Ennachchan had four sons, one of whom was Pillayappar. Pillayappar's son was Thozhappar, Thozhappar had two daughters.  
 
-</details>
+</details><details><summary>English es</summary>
 
+Sottai Nambi era el hijo de Aḷavandār. El hijo de Sottai Nambi era Ennachchan. Ennachchan tenía cuatro hijos, uno de los cuales era Pillayappar. El hijo de Pillayappar era Thozhappar, Thozhappar tenía dos hijas.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -673,7 +766,6 @@ Sottai Nambi was the son of Aḷavandār. Sottai Nambi's son was Ennachchan. Enn
 तोऴप्परुक्कुप् पॆण्बिळ्ळैगळिरुवर्.
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -691,8 +783,11 @@ Sottai Nambi was the son of Aḷavandār. Sottai Nambi's son was Ennachchan. Enn
 
 The chief disciples who sought the feet of Nāthamuni were eight :-  
 Uyyakkoodar, Kurukaikavalappan, Nambi Karunakara Dasar, Erutiruvudaiyar, Thirukkannamaṅgai Andan, Vanamadevi Andan, Uruppattur Achan Pillai and Sokattur Alvan. 
-</details>
+</details><details><summary>English es</summary>
 
+Los principales discípulos que buscaron los pies de Nāthamuni eran ocho:-
+ Uyyakkoodar, Kurukaikavalappan, Nambi Karunakara Dasar, Erutiruvudaiyar, Thirukkannamaṅgai andan, Vanamadevi Andan, Uruppattur Achan Pillai y Sokattur Alvan.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -715,15 +810,16 @@ Uyyakkoodar, Kurukaikavalappan, Nambi Karunakara Dasar, Erutiruvudaiyar, Thirukk
 <details><summary>English</summary>
 
 Uyyakondar had five disciples; they are Manakkal Nambi, Tiruvallikkeni Pan Perumal Araiyar, Settalur Sendalaṅgarar, ŚrīPuṇḍarīka Dasar and Ulagapperumal Naṅgai. 
-</details>
+</details><details><summary>English es</summary>
 
+Uyyakondar tenía cinco discípulos; Son Manakkal Nambi, Tiruvallikkeni Pan Perumal Araiyar, Setalaṅgarar, Śrīpuṇḍarīka Dasar y Naṅgai Ulagapperumal.
+</details>
 
 <details><summary>मूलम्</summary>
 
 उय्यक्कॊण्डार् श्रीपादत्तै आश्रयित्तवर्गळ् ऐवर्.  
 अवर्गळागिऱार्; मणक्काल् नम्बि, तिरुवल्लिक्केणि पाण्बॆरुमाळऱैयर्, सेट्टलूर् सॆण्डलङ्गारर्, श्रीपुण्डरीकदासर्, उलगप्पॆरुमाळ् नङ्गै. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -739,8 +835,10 @@ Uyyakondar had five disciples; they are Manakkal Nambi, Tiruvallikkeni Pan Perum
 <details><summary>English</summary>
 
 The chief disciples of Manakkal Nambi were five; they are Aḷavandār, Deivattukkarasu Nambi, Gomatam Tiruvinnagar  Appan, Siruppulloor Avudaiya Pillai and Acchi.
-</details>
+</details><details><summary>English es</summary>
 
+Los principales discípulos de Manakkal Nambi eran cinco; Son Aḷavandār, Deivattukkarasu Nambi, Gomatam Tiruvinnagar Appan, Siruppulloor Avudaiya Pillai y Acchi.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -772,6 +870,9 @@ The chief disciples of Manakkal Nambi were five; they are Aḷavandār, Deivattu
 <details><summary>English</summary>
 
 Aḷavandār had fifteen disciples: they are - Peria Nambi, Tirukkottiyar Nambi, Tirumalai Andan, Aḷavandār Alvar, Tirumalai Nambi, Isandan Deivavari Andan, Siriyandan, Tirumohoor Appan, Tirumohoor Ninrar, Deivapperumal, Tirumapgai Aliyar, Pillai Tirumalirunjolai Dasar, Maraner Nambi and Alkondi. 
+</details><details><summary>English es</summary>
+
+Aḷavandār tuvo quince discípulos: son - Peria Nambi, Tirukkottiyar Nambi, Tirumalai Andan, Aḷavandār Alvar, Tirumalai Nambi, Isandan Deivavari Andan, Siriyandan, Tirumohoor Appan, Tirumohor Ninro Dasar, Maraner Nambi y Alkondi.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -796,8 +897,10 @@ Aḷavandār had fifteen disciples: they are - Peria Nambi, Tirukkottiyar Nambi,
 <details><summary>English</summary>
 
 Six disciples sought the feet of Perianambi; they were :-- Emperumanar (ŚrīRāmānuja), Malaikuniya Ninrar, Arya ŚrīSatagopa Dasar, Aniaraṅgattamudanar, Tiruvoykulamudaiyan Pattar and Tirukkacchi Nambi. 
-</details>
+</details><details><summary>English es</summary>
 
+Seis discípulos buscaron los pies de Perianambi; Ellos eran:- Emperumanar (Śrīrāmānuja), Malaikuniya Ninrar, Arya śrīsatagopa Dasar, Aniaraṅgattamudanar, Tiruvoykulamudaiyan Pattar y Tirukkacchi Nambi.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -816,13 +919,15 @@ Six disciples sought the feet of Perianambi; they were :-- Emperumanar (ŚrīRā
 <details><summary>English</summary>
 
 ŚrīRāmānuja learnt the meanings of the rahasyas or mantras at the feet of Tirukkottiyar Nambi. 
+</details><details><summary>English es</summary>
+
+Śrīrāmānuja aprendió los significados de los rahasyas o mantras a los pies de Tirukkottiyar Nambi.
 </details>
 
 <details><summary>मूलम्</summary>
 
 ऎम्बॆरुमानार्, तिरुक्कोट्टियूर् नम्बि श्रीपादत्तिले रहस्यार्थ-ङ्गळै शिक्षित्तार्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -832,6 +937,9 @@ Six disciples sought the feet of Perianambi; they were :-- Emperumanar (ŚrīRā
 <details><summary>English</summary>
 
 He studied Tiruvoymozhi at the feet of Tirumalai Andan. 
+</details><details><summary>English es</summary>
+
+Estudió Tiruvoymozhi a los pies de Tirumalai Andan.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -850,6 +958,9 @@ He studied Tiruvoymozhi at the feet of Tirumalai Andan.
 <details><summary>English</summary>
 
 He learnt Tiruvoymozhi at the feet of Aḷavandār Alvar and learnt also“ Stotram" and the ancient tradition from him. 
+</details><details><summary>English es</summary>
+
+Aprendió Tirúvoimozhi a los pies de Aḷavandār Alvar y aprendió también "Stotram" y la antigua tradición de él.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -857,7 +968,6 @@ He learnt Tiruvoymozhi at the feet of Aḷavandār Alvar and learnt also“ Stot
 आळवन्दाराऴ्वार् श्रीपादत्तिले तिरुवाय्मॊऴियुम् ओदि स्तोत्रादिगळुम्, अरुळिच्चॆयलुम् नल्वार्त्तैगळुम् केट्टरुळिनार्. 
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -869,14 +979,15 @@ He learnt Tiruvoymozhi at the feet of Aḷavandār Alvar and learnt also“ Stot
 <details><summary>English</summary>
 
 At the feet of Tirumalai Nambi he studied the Rāmāyana.
-</details>
+</details><details><summary>English es</summary>
 
+A los pies de Tirumalai Nambi estudió el Rāmāyana.
+</details>
 
 <details><summary>मूलम्</summary>
 
 तिरुमलैनम्बि श्रीपादत्तिले श्रीमद्रामायणङ् गेट्टरुळिनार्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -892,13 +1003,15 @@ At the feet of Tirumalai Nambi he studied the Rāmāyana.
 <details><summary>English</summary>
 
 Śrī Rāmānuja's writings are nine in number: Śrī Bhāṣyam, Dīpam, Sāram, Vedartha Sangraham, ŚrīGita Bhāṣyam, Siriya Gadyam (Śrīraṅga Gadyam), Periya Gadyam (Saranāgati Gadyam), Vaikuṇṭha   Gadyam and Nityam. 
+</details><details><summary>English es</summary>
+
+Los escritos de Śrī Rāmānuja son nueve en número: Śrī Bhāṣyam, Dīpam, Sāram, Vedartha Sangraham, Śrīgita Bhāṣyam, Siriya Gadyam (Śrīraṅga Gadyam), periya Gadyam (saranāgati gadyam) Nityam.
 </details>
 
 <details><summary>मूलम्</summary>
 
 इवररुळिच् चॆय्द प्रबन्धङ्गळ् श्रीभाष्यम्, दीपम्, सारम्, वेदार्थसंग्रहम्, श्रीगीताभाष्यम्, सिऱिय गद्यम्, पॆरिय गद्यम्, श्रीवैकुण्ठ गद्यम्, नित्यम् आग ऒन्बदु.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -909,22 +1022,25 @@ At the feet of Tirumalai Nambi he studied the Rāmāyana.
 <details><summary>English</summary>
 
 The names of the chief disciples of Rāmānuja may be learnt from the respective tradition of each reader
-</details>
+</details><details><summary>English es</summary>
 
+Los nombres de los principales discípulos de Rāmānuja se pueden aprender de la tradición respectiva de cada lector
+</details>
 
 <details><summary>मूलम्</summary>
 
 इवर् श्रीपादत्तिल् आश्रयित्त मुदलिगळैत् तन्दाम् संप्रदायप्पडिगळिले अऱिन्दु कॊळ्वदु.
 </details>
 
-
 ## आचार्य-भक्तिः
 
 <details><summary>English</summary>
 
 BHAKTI TO  ĀCĀRYA ESSENTIAL:
-</details>
+</details><details><summary>English es</summary>
 
+Bhakti a ācārya esencial:
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -939,14 +1055,15 @@ BHAKTI TO  ĀCĀRYA ESSENTIAL:
 <details><summary>English</summary>
 
 It has been said, "The wise[^f22] man should bring his guru to the light (of renown) and should guard the sacred mantra with great care; from the omission to bring his guru to light and by revealing the mantra, he declines in wealth (of knowledge) and in age (spiritual standing)." 
-</details>
+</details><details><summary>English es</summary>
 
+It has been said, "The wise[^f22] man should bring his guru to the light (of renown) and should guard the sacred mantra with great care; from the omission to bring his guru to light and by revealing the mantra, he disminuye en riqueza (de conocimiento) y en edad (posición espiritual) ".
+</details>
 
 <details><summary>मूलम्</summary>
 
 “गुरुं प्रकाशयेद्धीमान् मन्त्रं यत्नेन गोपयेत् । अप्रकाश - प्रकाशाभ्यां क्षीयेते संपदायुषी ॥” ऎण्ड्रार्गळ्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -964,23 +1081,20 @@ It has been said, "The wise[^f22] man should bring his guru to the light (of ren
 
 </details>
 
-
 <details><summary>English</summary>
 
 His bringing the guru to light and his omission to do so, it needs no saying, are due to the excess or deficiency of his devotion to his guru.
-</details>
+</details><details><summary>English es</summary>
 
+Hacer a la luz al gurú y su omisión para hacerlo, no necesita decir, se debe al exceso o deficiencia de su devoción a su gurú.
+</details>
 
 <details><summary>मूलम्</summary>
 
 गुरुवैयॊरुवन् प्रकाशिप्पिक्किऱदुवुम् ऒरुवन् प्रकाशिप् पियादॊऴिगिऱदुवुम् गुरुभक्तियिल् तारतम्यत्तालेयिऱे.
 </details>
 
-
-
-
 [^f22]: Śeṣasamhita: 14-50
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -994,8 +1108,10 @@ His bringing the guru to light and his omission to do so, it needs no saying, ar
 <details><summary>English</summary>
 
 From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known that all desired knowledge arises from supreme devotion to the guru resembling that to Bhagavān. This is learnt also from the incident of Sañjaya seeing all things as if they occurred before him, as the result of his supreme devotion to his guru Vyāsa. 
-</details>
+</details><details><summary>English es</summary>
 
+De [^f23] Kaṭha śruti [^9] y [^f24] Jābala śruti [^10] Es bien sabido que todo el conocimiento deseado surge de la devoción suprema al gurú que se parece a eso a Bhagavān. Esto se aprende también del incidente de Sañjaya al ver todas las cosas como si ocurrieran ante él, como resultado de su suprema devoción a su Guru Vyāsa.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1028,14 +1144,17 @@ From [^f23] Kaṭha śruti[^9]  and [^f24] Jābala śruti[^10]  it is well-known
 From the episodes of Raikwa (and others) it is evident that  
 the guru who does not reveal spiritual truths immediately even to those śiṣyas who are of excellent character  
 will not be adversely affected in his spiritual life.  
-</details>
+</details><details><summary>English es</summary>
 
+De los episodios de Raikwa (y otros) es evidente que
+ El gurú que no revela verdades espirituales de inmediato incluso a aquellos Śiṣyas que son de excelente carácter
+ No se verá afectado negativamente en su vida espiritual.
+</details>
 
 <details><summary>मूलम्</summary>
 
 मिगवुम् गुणाधिकरान शिष्यर्गळुक्कुङ्गडुग अध्यात्मविषयङ्गळै प्रकाशिप्पियादार्क्कु निष्ठै कुलैयादॆन्नुमिडम् रैक्वादि वृत्तान्तङ्गळिले प्रसिद्धम्.  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1056,8 +1175,13 @@ If, on the other hand, the guru reveals these spiritual truths to any and every 
 in the belief that the śiṣya who has sought him must be good,  
 he will be adversely affected;  
 for, in such cases, it is said that the sins of the disciple become also the sins of the guru. This may be seen from the story of Brahma. Without careful enquiry (into his fitness) he revealed truths to Indra. As a consequence Brahma forgot his divine knowledge and had to be taught again by Bhagavān through the agency of Nārada , Brahma's very disciple. 
-</details>
+</details><details><summary>English es</summary>
 
+Si, por otro lado, el Guru revela estas verdades espirituales a todas y cada uno de los discípulos
+ en la creencia de que el Śiṣya que lo ha buscado debe ser bueno,
+ Se verá afectado negativamente;
+ Porque, en tales casos, se dice que los pecados del discípulo se convierten también en los pecados del gurú. Esto se puede ver desde la historia de Brahma. Sin una cuidadosa investigación (en su estado físico) reveló verdades a Indra. Como consecuencia, Brahma olvidó su conocimiento divino y tuvo que ser enseñado nuevamente por Bhagavān a través de la agencia de Nārada, el muy discípulo de Brahma.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1075,8 +1199,10 @@ for, in such cases, it is said that the sins of the disciple become also the sin
 <details><summary>English</summary>
 
 In the śloka referred to above, the meaning that, by not bringing the guru to light and by improper bringing of the mantra to light, the man suffers decline respectively in wealth and in age is primarily intended owing to appropriateness and the support of Jabala and Kaṭha śruti s. 
-</details>
+</details><details><summary>English es</summary>
 
+En el Śloka mencionado anteriormente, el significado de que, al no sacar al gurú a la luz y al traer inadecuado el mantra a la luz, el hombre sufre un declive respectivamente en la riqueza y en edad es principalmente debida a la idoneidad y al apoyo de Jabala y Kaṭha Śruti s.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1093,7 +1219,6 @@ In the śloka referred to above, the meaning that, by not bringing the guru to l
 इरण्डिलुम् इरण्डु फलं अन्वयित्तालुम् वाक्यत्तिल् वरुम् विरोधमिल्लै.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इरण्डिल् उम्  
@@ -1104,14 +1229,15 @@ In the śloka referred to above, the meaning that, by not bringing the guru to l
 <details><summary>English</summary>
 
 There is nothing wrong in interpreting the śloka as meaning also "He who omits to bring his guru to light and brings the mantra to light will suffer decline both in wealth (the wealth of spiritual knowledge ) and in age (spiritual standing)." 
-</details>
+</details><details><summary>English es</summary>
 
+No hay nada de malo en interpretar que el Śloka sea un significado también "El que omite sacar a la luz a su gurú y traer al mantra a la luz sufrirá un declive tanto en la riqueza (la riqueza del conocimiento espiritual) como en la edad (posición espiritual)".
+</details>
 
 <details><summary>मूलम्</summary>
 
 इरण्डिलुम् इरण्डु फलं अन्वयित्तालुम् वाक्यत्तिल् वरुम् विरोधमिल्लै.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1130,15 +1256,21 @@ There is nothing wrong in interpreting the śloka as meaning also "He who omits 
 
 <details><summary>English</summary>
 
-
 It follows from this that a man should bring his guru to light by way of the overflow of his supreme devotion to him under all conditions   
 
 and that the sacred mantra should not, for the sake of any material advantage,  
 be revealed to the fickle-minded who do not possess all the qualities prescribed for a disciple. 
 
 If the mantra is revealed to undeserving persons, its great value which is like that of a casket made of rubies containing a precious jewel will suffer and the guru's spiritual greatness will also be adversely affected. 
-</details>
+</details><details><summary>English es</summary>
 
+De esto se deduce que un hombre debería llevar a su gurú a la luz a través del desbordamiento de su devoción suprema a él en todas las condiciones
+
+ y que el mantra sagrado no debería, en aras de ninguna ventaja material,
+ ser revelado a los voluble que no poseen todas las cualidades prescritas para un discípulo.
+
+ Si el mantra se revela a las personas que no se merecen, su gran valor que es como el de un ataúd hecho de rubíes que contiene una joya preciosa sufrirá y la grandeza espiritual del gurú también se verá afectada negativamente.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1156,13 +1288,15 @@ If the mantra is revealed to undeserving persons, its great value which is like 
 <details><summary>English</summary>
 
 The word guru refers, by implication, to the earlier gurus also in the line of ascent extending up to Bhagavān. Or it may mean gurus in general.
+</details><details><summary>English es</summary>
+
+La palabra gurú se refiere, por implicación, a los gurús anteriores también en la línea de ascenso que se extiende hasta Bhagavān. O puede significar gurús en general.
 </details>
 
 <details><summary>मूलम्</summary>
 
 इव्विडत्तिल् गुरुशब्दं परमगुरुक् कळुक्कुम् उपलक्षणं सामान्यमागवुमाम्  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1172,6 +1306,9 @@ The word guru refers, by implication, to the earlier gurus also in the line of a
 <details><summary>English</summary>
 
 Similarly the word mantra refers also to the meanings of the mantra and other secret doctrines connected with it. 
+</details><details><summary>English es</summary>
+
+Del mismo modo, la palabra mantra se refiere también a los significados del mantra y otras doctrinas secretas conectadas con él.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1191,10 +1328,12 @@ Similarly the word mantra refers also to the meanings of the mantra and other se
 एवम् आचार्यस्मृतिर् नित्यकर्म। 
 </details>
 
-
 <details><summary>English</summary>
 
 As a rule or vidhi, it has been laid down that, whenever a man meditates on these secret meanings or mysteries, he should also meditate on the lineal succession of gurus. 
+</details><details><summary>English es</summary>
+
+Como regla general o Vidhi, se ha establecido que, cada vez que un hombre medita sobre estos significados o misterios secretos, también debe meditar en la sucesión lineal de los gurús.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1219,15 +1358,16 @@ As a rule or vidhi, it has been laid down that, whenever a man meditates on thes
 <details><summary>English</summary>
 
 It has also been said: “As an [^f25] expiation for having conversed with those that are forbidden as unfit (for conversation), we should meditate on the virtuous." By the words " the virtuous ", this śloka refers primarily to the. ācāryas.
-</details>
+</details><details><summary>English es</summary>
 
+También se ha dicho: "Como una [^f25] expiación por haber conversado con aquellos que están prohibidos como no aptos (para la conversación), debemos meditar en lo virtuoso". Por las palabras "virtuosas", este Śloka se refiere principalmente a el.
+</details>
 
 <details><summary>मूलम्</summary>
 
 इव्वाचार्यर्गळुडैय अनुसन्धानं “संभाष्य पुण्यकृतो मनसा ध्यायेत्” ऎन्गिऱप्पडिये प्रतिषिद्ध संभाषणत्तुक्कु प्रायश्चित्तमाम्.
 
 </details>
-
 
 [^f25]: Gautama Dharma Sūtra: 9.18
 
@@ -1250,8 +1390,10 @@ It has also been said: “As an [^f25] expiation for having conversed with those
 <details><summary>English</summary>
 
 "Having sought the protection of my guru who has graciously taught me that Bhagavān is the Inner Self within me and having also bowed with devotion to the line of his gurus, I seek the refuge of the feet of the Lord, after bowing at the feet of that generous soul who appeared in Śrī Perumbudur owing to his compassion ( for his fellow-men), (his guru) Peria Nambi, Aḷavandār (the guru of Peria Nambi, Manakkal Nambi, Uyyakkondar who taught the good path (of prapatti) to Manakkal Nambi, Nāthamuni (the guru of Uyyakkondar), Satagopan (Nammalvar) (the guru of Nāthamuni) and Senainathan (the guru of Nammalvar) and then, of the gracious Lakṣmī , sweet to the Lord as ambrosia."
-</details>
+</details><details><summary>English es</summary>
 
+"Habiendo buscado la protección de mi gurú que me ha enseñado gentilmente que Bhagavān es el ser interno dentro de mí y también se había inclinado con devoción a la línea de sus gurús, busco el refugio de los pies del Señor, después de inclinarme a los pies. de esa alma generosa que apareció en Śrī Perumbudur debido a su compasión (por sus compañeros), (su gurú) Peria Nambi, Aḷavandār (el gurú de Peria Nambi, Manakkal Nambi, Uyyakkonde, quien enseñó el buen camino (de Prapatti) a Manakkal Nambi, Nāthamuni (el Guru de Uyyakkondar), Satagopan (Nammalvar) (el Guru de Nāthamuni) y Senainathan (el Guru de Nammalvar) y luego, del gracioso Lakṣmī, dulce para el Señor como Ambrosia ".
+</details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1265,7 +1407,6 @@ It has also been said: “As an [^f25] expiation for having conversed with those
 टॆम्बॆरुमान् ऱिरुवडिगळडैगिण्ड्रेने. (3)
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 एते **मह्यम्** अपोढ+++(=अपास्त)+++-मन्मथ-शरोन्माथाय **नाथादयस्**  
@@ -1277,8 +1418,10 @@ It has also been said: “As an [^f25] expiation for having conversed with those
 <details><summary>English</summary>
 
 May these great spiritual teachers, Nāthamuni and others, fill my heart here and now with delight, so that I may not be subject to the impact of the arrows of Manmatha (i. e. to the pleasures of the senses )--teachers who bring us blissful truths of varied kinds from Vedānta , who convey to us (like Bhagīratha) the celestial river of the compassion of the divine couple to be sought in full faith and who are foreign to the paths of envy, error and deception!
-</details>
+</details><details><summary>English es</summary>
 
+Que estos grandes maestros espirituales, Nāthamuni y otros, llenen mi corazón aquí y ahora con deleite, para que no esté sujeto al impacto de las flechas de Manmatha (i. ¡Las verdades de los tipos variados de Vedānta, que nos transmiten (como Bhagīratha) el río celestial de la compasión de la pareja divina para ser buscadas con plena fe y que son extraños a los caminos de envidia, error y engaño!
+</details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -1287,7 +1430,6 @@ May these great spiritual teachers, Nāthamuni and others, fill my heart here an
 श्रद्धातव्यशरण्यदंपतिदयादिव्यापगाव्यापकाः  
 स्पर्धाविप्लवविप्रलम्भपदवी वैदेशिका देशिकाः ॥२॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -1303,8 +1445,12 @@ May these great spiritual teachers, Nāthamuni and others, fill my heart here an
 The blissful line of our gurus who are possessed of many auspicious qualities, who have brought down the arrogance of rival controversialists by the successive neighs issuing from Hayagrīva[^11] who delights in sitting on the throne of their hearts, and whose triumphant banner fixed at the top of the mansion of the four quarters has, by the flourish of its cloth waving in the breeze, dispelled the doctrines of their respective systems like tufts of cotton and thereby rendered the good path clear to all this blissful line of our gurus shines supreme.
 
 [^11]: The disputations of these ācāryas are compared to the succession of neighings coming from the God Hayagrīva who is seated in their hearts. By these disputations they are said to have put down the pride of the exponents of rival systems.
-</details>
+</details><details><summary>English es</summary>
 
+La maravillosa línea de nuestros gurús que poseen muchas cualidades auspiciosas, que han derribado la arrogancia de los controvertidos rivales por los sucesivos vecinos que emitieron de Hayagrīva [^11] que se deleita en sentarse en el trono de sus corazones, y cuya bandera triunfante arregló En la parte superior de la mansión de los cuatro cuartos, al florecer de su tela agitó la brisa, disipó las doctrinas de sus respectivos sistemas como los mechones de algodón y, por lo tanto, se aclaró el buen camino a toda esta maravillosa línea de nuestros gurus brilla supremo.
+
+ [^11]: Las disputas de estas ācāryas se comparan con la sucesión de vecinos que provienen del dios Hayagrīva que está sentado en sus corazones. Según estas disputas, se dice que han dejado el orgullo de los exponentes de los sistemas rivales.
+</details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -1313,7 +1459,6 @@ The blissful line of our gurus who are possessed of many auspicious qualities, w
 दिक्सौधाबद्धजैत्रध्वजपटपवनस्फातिनिर्धूततत्त  
 त्सिद्धान्तस्तोमतूलस्तबकविगमनव्यक्तसद्वर्तनीका ॥ ३ ॥
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
@@ -1330,8 +1475,14 @@ We that cling to the noble qualities and sweet words of the benevolent sage, Rā
 [^f26]: (or the Upaniṣads )
 
 [^12]: (Or the Upaniṣads)
-</details>
+</details><details><summary>English es</summary>
 
+Nos aferramos a las nobles cualidades y las dulces palabras del salvia benevolente, Rāmānuja, que adorna el mundo con su renombre y que, como un elefante, derribando a los plátanos, refutó los argumentos de aquellos que, con la ayuda de su lógica sin restricciones , forjado gran estragos en los caminos rectos de los [^f26] Brahma Sūtras [^12] - Nosotros (que se aferramos a sus palabras) que son bendecidos con fervor espiritual ya no pensaremos (incluso) en hechos que son malvados.
+
+ [^F26]: (o los Upaniṣads)
+
+ [^12]: (o los Upaniṣads)
+</details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1340,7 +1491,6 @@ We that cling to the noble qualities and sweet words of the benevolent sage, Rā
 एरणिगीर्त्ति यिरामानुसमुनियिन् नुरैसेर्  
 सीरणिसिन्दैयिनोम् सिन्दियोमिनित्तीविनैये. (4)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
@@ -1355,8 +1505,12 @@ We that cling to the noble qualities and sweet words of the benevolent sage, Rā
 We, who were caught up in the stream of saṁsāra from time immemorial, and have, now, by a change of fortune, come to acquire a knowledge of our true spiritual nature, consider that Śrī Yāmunācārya (Aḷavandār) came into this world to protect us from being sunk again in the mire of saṁsāra  
 and we will ever be attached to the feet of the sage (Aḷavandār) who triumphed over his opponents and blessed us with his writings.  
 Never more shall we read the works of heretics.
-</details>
+</details><details><summary>English es</summary>
 
+Nosotros, que estábamos atrapados en la corriente de Saṁsāra desde el tiempo inmemorial, y ahora hemos llegado a adquirir un conocimiento de nuestra verdadera naturaleza espiritual, considerar que Śrī Yāmunācārya (aḷavandār) llegó a este mundo nosotros de ser hundidos nuevamente en el lodo de Saṁsāra
+ Y alguna vez estaremos unidos a los pies del sabio (aḷavandār) que triunfó sobre sus oponentes y nos bendijo con sus escritos.
+ Nunca más leeremos las obras de los herejes.
+</details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1365,7 +1519,6 @@ Never more shall we read the works of heretics.
 ताळवन्दारॆनवॆण्ड्ररुडन्दु विळङ्गिय सीर्  
 आळवन्दारडियोम् पडियोमिनियल्वऴक्के. (5)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
@@ -1390,8 +1543,22 @@ In all the four regions of the world there is no one equal to us (because of thi
 [^13]: Two disciples : Kilagathalvan and Melagathalvan
 
 [^14]: There are some who maintain that this chapter on the succession of gurus is not part of Śrīmad Rahasyatrayasāra and that the latter begins only with the "Introductory Chapter", which follows.
-</details>
+</details><details><summary>English es</summary>
 
+Vendremos a la nueva vida nuevamente inclinándonos todos los días a los pies del noble y generoso Nāthamuni,
+ quien a sus (dos) [^13] Discípulos amorosos
+ que eran como una trompeta y una caracola (para proclamar la verdad y vaciar los exponentes de los sistemas rivales)
+ enseñó el arte de la música para que pudieran cantar las dulces cepas del tamil Veda
+ que había sido olvidado durante mucho tiempo en el mundo
+
+ y que se propagó en el mundo, para la búsqueda de todos,
+ El camino de las tapas (Bhakti y Prapatti).
+ En las cuatro regiones del mundo no hay nadie igual a nosotros (debido a esta devoción nuestra a Nāthamuni). [^14]
+
+ [^13]: Dos discípulos: Kilagathalvan y Melagathalvan
+
+ [^14]: Hay algunos que sostienen que este capítulo sobre la sucesión de gurús no es parte de Śrīmad Rahasyatrayasāra y que este último comienza solo con el "Capítulo introductorio", que sigue.
+</details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1419,6 +1586,3 @@ In all the four regions of the world there is no one equal to us (because of thi
 गुरुपरंपरासारः संपूर्णः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः
 </details>
-
-
-

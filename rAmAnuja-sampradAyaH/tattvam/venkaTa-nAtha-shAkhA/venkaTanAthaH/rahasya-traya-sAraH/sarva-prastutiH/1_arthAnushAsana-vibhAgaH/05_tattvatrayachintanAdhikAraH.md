@@ -1,5 +1,5 @@
 +++
-title = "०५ तत्त्वत्रयचिन्तनाधिकारः"
+title = "०५ तत्त्व-त्रय-चिन्तनाधिकारः"
 
 +++
 
@@ -16,15 +16,38 @@ title = "०५ तत्त्वत्रयचिन्तनाधिका�
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रकृत्य्-आत्म-भ्रान्तिर् **गलति** चिद्-अचिल्-लक्षण-धिया  
-तथा जीवेशैक्य-प्रभृति-कलहस् तद्+++(=जीवेश)+++-विभजनात् ।  
-अतो भोक्ता, भोग्यं, तद्-उभय-नियन्तेति निगमैर्  
+प्रकृत्य्-आत्म-भ्रान्तिर् **गलति** चिद्-अचिल्-लक्षण-धिया,  
+तथा जीवेशैक्य-प्रभृति-कलहस् तद्+++(=जीवेश)+++-विभजनात् +++(गलति)+++ ।  
+अतो +++(जीवः→)+++ भोक्ता, भोग्यं, तद्-उभय-नियन्तेति निगमैर्  
 विभक्तं नस् **तत्त्व-त्रयम् उपदिशन्त्य्** अक्षत-धियः ॥ १४ ॥
 </details>
 
 <details><summary>English</summary>
 
-The delusion that the soul is nothing but the body and the senses (prakṛti) disappears when one has a knowledge of the distinctive features of sentient beings and non-sentient things. So also the disputes on such questions as the unity of the jīva and God will no longer continue, when the characteristic features of each of them are marked out. Our ācārya s, whose wisdom never failed, teach us about the existence of three realities (Tattvas) classified in the s'āstrās as the experiencing subjects (bhoktā), the objects of experience and enjoyment (bhogyam) and He who rules over both of them (Iśvara).
+The delusion that the soul is nothing but the body and the senses (prakṛti)  
+disappears when one has a knowledge of the distinctive features of sentient beings and non-sentient things.  
+So also the disputes on such questions as the unity of the jīva and God will no longer continue,  
+when the characteristic features of each of them are marked out.  
+Our ācārya-s, whose wisdom never failed,  
+teach us about the existence of three realities (Tattvas)  
+classified in the s'āstrās as the experiencing subjects (bhoktā), 
+ the objects of experience and enjoyment (bhogyam)  
+and He who rules over both of them (Iśvara).
+
+</details>
+
+<details><summary>Español</summary>
+
+The delusion that the soul is nothing but the body and the senses (prakṛti)  
+disappears when one has a knowledge of the distinctive features of sentient beings and non-sentient things.  
+So also the disputes on such questions as the unity of the jīva and God will no longer continue,  
+when the characteristic features of each of them are marked out.  
+Our ācārya-s, whose wisdom never failed,  
+teach us about the existence of three realities (Tattvas)  
+classified in the s'āstrās as the experiencing subjects (bhoktā), 
+ the objects of experience and enjoyment (bhogyam)  
+and He who rules over both of them (Iśvara).
+
 </details>
 
 
