@@ -1306,7 +1306,7 @@ and of irresistible valour."
 
 "El que [^f88] poseía tales cualidades  
 y de valor irresistible".
-/details>
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -3560,35 +3560,526 @@ and are made to fall therefrom in the acquisition of minor results.
 सिल्वानङ्गळान फलङ्गळाले योगत्तैत् तलैसाय्प्पित्तुम्, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्म-प्रवणरैय् उम्  
+
+प्रकृति-संसृष्टम्, प्रकृति-वियुक्तम् ऎन्गिऱ इव्व् इरण्डुप्-पडियिल् उम् ब्रह्म-दृष्टियाल् एय् आदल्,  
+स्व-रूप-मात्रत्ताल् एय् आदल् उपासिक्क मूट्टि  
+
+अवै +++(??→)+++ नालु-वगैक्क् उम् फलम् आग  
+अल्पास्वादङ्गळैक् कॊडुत्तु  
+पुनर्-आवृत्तियैप् पण्णिय् उम्,  
+</details>
+
+<details><summary>English</summary>
+
+Even those who are devoted to the soul or ātmā  
+are made to meditate on their ātmā  
+either in contact with matter  
+or as separated from matter  
+either as if it were Brahman  
+or as the atma in its own essential nature.  
+As the result of these four kinds of meditation,  
+the jīva obtains petty enjoyments  
+after which he falls back into saṁsāra.  
+</details>
+
+<details><summary>Español</summary>
+
+Even those who are devoted to the soul or ātmā  
+are made to meditate on their ātmā  
+either in contact with matter  
+or as separated from matter  
+either as if it were Brahman  
+or as the atma in its own essential nature.  
+As the result of these four kinds of meditation,  
+the jīva obtains petty enjoyments  
+after which he falls back into saṁsāra.  
+</details>
 
 
-Even those who are devoted to the soul or ātmā are made to meditate on their ātmā either in contact with matter or as separated from matter either as if it were Brahman or as the atma in its own essential nature. As the result of these four kinds of meditation, the jīva obtains petty enjoyments after which he falls back into saṁsāra. Even in the case of those who practise true meditation on Brahman, and who meditate primarily on their own selves as having Brahman for their inner self or who think primarily of Brahman who has for His body their own selves - even they may be detained by the state of kaivalya or the enjoyment of their own selves, by the attainment of the [^f131] eight kinds of siddhi, by the attainment of the status of the vasus, or by the entrance into the body of Brahma and the like. Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman) is like that of a prince, whose coronation day has been already fixed, casting eyes on the servant maids who attended on hini while in prison. They are made to linger fondly over the body and the senses which are the result of past karma and those that are related to the body (like relatives) and the enjoyments connected with them. In this way they become subject to other pleasures than the final goal. Thus there are many forms of hindrance in the way of the attainment of Bhagavān. When a well thirty-two steps wide has to be leaped over, it makes no difference whether the man falls at the very first step or at the thirty-second step. In the same way wherever or at whatever stage the hindrance occurs, the jīva has not transcended saṁsāra.
+<details><summary>मूलम्</summary>
+
+आत्मप्रवणरैयुम् प्रकृति-संसृष्टम् प्रकृति-वियुक्तमॆन्गिऱ इव्विरण्डुप्पडियिलुम्
+ब्रह्मदृष्टियालेयादल्, स्वरूपमात्रत्तालेयादल् उपासिक्क मूट्टि अवै नालुवगैक्कुम् फलमाग अल्पास्वादङ्गळैक् कॊडुत्तु पुनरावृत्तियैप्पण्णियुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मात्मक-स्वात्म-चिन्तन-प्रवृत्तर् आन्-अवर्गळैय् उम्  
+स्वात्म-शरीरक-परमात्म-चिन्तन-पररैय् उम्  
+</details>
+
+<details><summary>English</summary>
+
+Even in the case of those who practise true meditation on Brahman,  
+and who meditate primarily on their own selves as having Brahman for their inner self  
+or who think primarily of Brahman who has for His body their own selves -  
+</details>
+
+<details><summary>Español</summary>
+
+Even in the case of those who practise true meditation on Brahman,  
+and who meditate primarily on their own selves as having Brahman for their inner self  
+or who think primarily of Brahman who has for His body their own selves -  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मात्मक-स्वात्मचिन्तन-प्रवृत्तरानवर्गळैयुम् स्वात्म-शरीरक-परमात्म-चिन्तनपररैयुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तरायम् आन आत्मानुभवत्ताल् एय् आदल्,  
+अष्टैश्वर्य-सिद्धिगळाल् एय् आदल्,  
+वस्वादि-पद-प्राप्ति--ब्रह्म-काय-निषेवणादिगळाल् एय् आदल्,  
+</details>
+
+<details><summary>English</summary>
+
+even they may be detained by the state of kaivalya or the enjoyment of their own selves,  
+by the attainment of the [^f131] eight kinds of siddhi,  
+by the attainment of the status of the vasus,  
+or by the entrance into the body of Brahma and the like.  
+</details>
+
+<details><summary>Español</summary>
+
+even they may be detained by the state of kaivalya or the enjoyment of their own selves,  
+by the attainment of the [^f131] eight kinds of siddhi,  
+by the attainment of the status of the vasus,  
+or by the entrance into the body of Brahma and the like.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्तरायमान आत्मानुभवत्तालेयादल्, अष्टैश्वर्यसिद्धिगळालेयादल्, वस्वादिपद प्राप्ति ब्रह्मकाय-निषेवणादिगळालेयादल्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अभिषेकत्तुक्कु नाळ्-इट्ट राज-कुमारनुक्कुच्  
+चिऱैयिल्+++(=कारागारतः)+++ ए ऎडुत्तुक् कै-नीट्टिन चेटिमार् पक्कलिल् ए  
+कण्-णोट्टम् उण्डाम् आप्-पोल् ए  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman)  
+is like that of a prince, whose coronation day has been already fixed,  
+casting eyes on the servant maids who attended on him while in prison.  
+</details>
+
+<details><summary>Español</summary>
+
+Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman)  
+is like that of a prince, whose coronation day has been already fixed,  
+casting eyes on the servant maids who attended on him while in prison.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अभिषेकत्तुक्कु नाळिट्ट राजकुमारनुक्कुच् चिऱैयिले ऎडुत्तुक् कैनीट्टिन चेटिमार् पक्कलिले कण्णोट्टमुण्डामाप्पोले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रारब्ध-कर्म-फलम् आन देहेन्द्रियङ्गळिल् उम्  
+तद्-अनुबन्धिगळ् आन परिग्रहङ्गळिल् उम्  
+तन्-मूल-भोगङ्गळिल् उम्  
+काल्-दाऴप् पण्णिय् आदल् अन्य-परराक्किय् उम्,  
+</details>
+
+<details><summary>English</summary>
+
+They are made to linger fondly over the body and the senses  
+which are the result of past karma  
+and those that are related to the body (like relatives)  
+and the enjoyments connected with them.  
+In this way they become subject to other pleasures than the final goal.  
+</details>
+
+<details><summary>Español</summary>
+
+They are made to linger fondly over the body and the senses  
+which are the result of past karma  
+and those that are related to the body (like relatives)  
+and the enjoyments connected with them.  
+In this way they become subject to other pleasures than the final goal.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रारब्ध-कर्म-फलमान देहेन्द्रियङ्गळिलुम्  
+तदनुबन्धिगळान परिग्रहङ्गळिलुम् तन्मूल-भोगङ्गळिलुम्  
+काल्दाऴप् पण्णियादल् अन्यपरराक्कियुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडिप् पल-मुखङ्गळाल् ए भगवत्-प्राप्तिक्कु विलक्क् आय् इरुक्कुम्,  
+</details>
+
+<details><summary>English</summary>
+
+Thus there are many forms of hindrance in the way of the attainment of Bhagavān.  
+</details>
+
+<details><summary>Español</summary>
+
+Thus there are many forms of hindrance in the way of the attainment of Bhagavān.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप् पलमुखङ्गळाले भगवत्प्राप्तिक्कु विलक्कायिरुक्कुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुप्पत्ति-रण्ड्-अडिय् आन तुरवुदत्तुवार्  
+मुन्न्-अडियिल् ए विऴुन्दद्-ओडु  
+मुप्पत्तोराम् अडियिल् ए विऴुन्दद्-ओडु वासिय् इल्लाद्-आप्-पोल् ए  
+एद् एनुम् ऒरु पर्वत्तिल् ए  
+अन्तरायम् उण्डानाल् उम्  
+इवन् संसारत्तैक् कडन्-दान् आगान्.
+</details>
+
+<details><summary>English</summary>
+
+When a well thirty-two steps wide has to be leaped over,  
+it makes no difference whether the man falls at the very first step  
+or at the thirty-second step.  
+In the same way wherever or at whatever stage the hindrance occurs,  
+the jīva has not transcended saṁsāra.
+</details>
+
+<details><summary>Español</summary>
+
+When a well thirty-two steps wide has to be leaped over,  
+it makes no difference whether the man falls at the very first step  
+or at the thirty-second step.  
+In the same way wherever or at whatever stage the hindrance occurs,  
+the jīva has not transcended saṁsāra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुप्पत्तिरण्डडियान तुरवुदत्तुवार् मुन्नडियिले विऴुन्ददोडु मुप्पत्तोरामडियिले विऴुन्ददोडु वासियिल्लादाप्पोले एदेनुमॊरु पर्वत्तिले अन्तरायमुण्डानालुम् इवन् संसारत्तैक् कडन्दानागान्.
+</details>
+
+
+
 
 [^f130]:  In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
 
 [^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
 
-It is true the Gītā says that for those who practise karmayoga, the effort will never perish or be in vain. What has been built up will, of course, remain built up, as it were, of stone, But we cannot say when the fruit will be attained, whether at the end of a kalpa or of a manvantara or of a yuga. Even sages like Vasiṣṭa, who ever acted in such a manner as to please God, had to wait long. Those who acted against the will of God like Vritra and Kshatrabandhu attained mokṣa  without any such delay. So it is difficult to say which individuals have done meritorious deeds that would lead to mokṣa  without delay. Similarly it is difficult to state who have done bad deeds leading to divine chastisement causing delay.
+### विलम्बः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-SARAŅĀGATI THE ONLY MEANS OF GETTING RID OF
+कर्म-योगादिगळिल् प्रवृत्तनुक्कु  
+‘‘नेहाभिक्रम-नाशोऽस्ति”(की. 2-40)  
+इत्य्-आदिगळ् इऱ्‌-पडिय् ए  
+"इट्ट-बडै कऱ्‌-पडैय् आय्" ऎण्ड्र्  
+एनुम् ऒरु-नाळ् फल-सिद्धिय् उण्ड् आम्  
+ऎन्गिऱव् इदुव् उम्  
+कल्पान्तर-मन्वन्तर-युगान्तर-जन्मान्तरादिगळिल्  
+ऎदिल् एय् ऎण्ड्रु तॆरियादु.+++(5)+++ 
+</details>
 
-THESE HINDRANCES:
+<details><summary>English</summary>
 
-How can this chief hindrance which is of the nature of divine punishment resulting from disobedience of the Lord's commands and which is the root cause of this chain of suffering-how can this be removed? The author of Śrī Bhāṣya (Śrī Rāmānuja) has declared that the only remedy for this hindrance is to obtain the favour of the Lord and that this can be done only by Śaraṇāgati or self-surrender to the [^f132] Lord. This declaration is made by him, while commenting on the order in which the senses, the mind and the like have to be controlled as stated in Kaṭha Upaniṣad[^f133] .
+It is true the Gītā says that for those who practise karmayoga,  
+the effort will never perish or be in vain.  
+What has been built up will, of course, remain built up,  
+as it were, of stone.  
+But we cannot say when the fruit will be attained,  
+whether at the end of a kalpa or of a manvantara or of a yuga. 
+</details>
+
+<details><summary>Español</summary>
+
+It is true the Gītā says that for those who practise karmayoga,  
+the effort will never perish or be in vain.  
+What has been built up will, of course, remain built up,  
+as it were, of stone.  
+But we cannot say when the fruit will be attained,  
+whether at the end of a kalpa or of a manvantara or of a yuga. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्मयोगादिगळिल् प्रवृत्तनुक्कु ‘‘नेहाभिक्रमनाशोऽस्ति”(की. 2-40) इत्यादिगळिऱ्‌पडिये इट्टबडै कऱ्‌पडैयाय् ऎण्ड्रेनुमॊरुनाळ् फलसिद्धियुण्डाम् ऎन्गिऱविदुवुम् कल्पान्तर-मन्वन्तर-युगान्तर-जन्मान्तरादिगळिल् ऎदिलेयॆण्ड्रु तॆरियादु. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आनुकूल्यम् मिगव् उम् उण्ड् आय् इरुक्क वसिष्ठादिगळुक्कु विळम्बङ् काणा निण्ड्रोम्.
+</details>
+
+<details><summary>English</summary>
+
+Even sages like Vasiṣṭa,  
+who ever acted in such a manner as to please God,  
+had to wait long. 
+</details>
+
+<details><summary>Español</summary>
+
+Even sages like Vasiṣṭa,  
+who ever acted in such a manner as to please God,  
+had to wait long. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आनुकूल्यम् मिगवुम् उण्डायिरुक्क वसिष्ठादिगळुक्कु विळम्बङ्गाणानिण्ड्रोम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रातिकूल्यम् मिगव् उम् उण्ड् आय् इरुक्क  
+वृत्र--क्षत्र-बन्धु-प्रभृतिगळुक्कुक्  
+कडुग मोक्षम् उण्डागक् काणा निण्ड्रोम्.
+</details>
+
+<details><summary>English</summary>
+
+Those who acted against the will of God  
+like Vritra and Kshatrabandhu  
+attained mokṣa  without any such delay.  
+</details>
+
+<details><summary>Español</summary>
+
+Those who acted against the will of God  
+like Vritra and Kshatrabandhu  
+attained mokṣa  without any such delay.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रातिकूल्यम् मिगवुम् उण्डायिरुक्क वृत्र-क्षत्रबन्धुप्रभृतिगळुक्कुक् कडुग मोक्षमुण्डागक्काणा निण्ड्रोम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आदलाल् विळम्ब-रहित-मोक्ष-हेतुक्कळ् आन सु-कृत-विशेषङ्गळ्  
+आर् पक्कलिल् ए किडक्कुम् ऎण्ड्रुन् दॆरियादु. 
+</details>
+
+<details><summary>English</summary>
+
+So it is difficult to say  
+which individuals have done meritorious deeds  
+that would lead to mokṣa without delay. 
+</details>
+
+<details><summary>Español</summary>
+
+So it is difficult to say  
+which individuals have done meritorious deeds  
+that would lead to mokṣa without delay. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आदलाल् विळम्ब-रहित-मोक्षहेतुक्कळान सुकृतविशेषङ्गळ् आर् पक्कलिले किडक्कुम् ऎण्ड्रुन् दॆरियादु. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विळंब-हेतुव् आन निग्रहत्तुक्कुक् कारणङ्गळ् आन दुष्-कर्म-विशेषङ्गळ् उम्  
+आर् पक्कलिल् ए किडक्कुम् ऎण्ड्रुम् तॆरियादु.  
+</details>
+
+<details><summary>English</summary>
+
+Similarly it is difficult to state who have done bad deeds leading to divine chastisement causing delay.
+</details>
+
+<details><summary>Español</summary>
+
+Similarly it is difficult to state who have done bad deeds leading to divine chastisement causing delay.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विळंबहेतुवान निग्रहत्तुक्कुक् कारणङ्गळान दुष्कर्म-विशेषङ्गळुम् आर् पक्कलिले किडक्कुम् ऎण्ड्रुम् तॆरियादु.  
+</details>
+
+
+### शरणागतिः
+<details><summary>English</summary>
+
+SARAŅĀGATI THE ONLY MEANS OF GETTING RID OF THESE HINDRANCES:
+</details>
+
+<details><summary>Español</summary>
+
+SARAŅĀGATI THE ONLY MEANS OF GETTING RID OF THESE HINDRANCES:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अनिष्ट-परंपरैक्कु मूलङ्गळ् आन  
+आज्ञातिलङ्घनङ्गळाल् ए वन्द  
+भगवन्-निग्रह-विशेषम् आगिऱ प्रधान-विरोधिक्कुच् चॆय्युम् परिहारत्तै 
+
+> ‘‘तस्य च वशी-करणं तच्-छरणागतिर् एव” 
+
+ऎण्ड्रु कठ-वल्लियिल्  
+वशी-कार्य-परंपरैयै वगुत्त-विडत्तिल्  
+श्री-भाष्य-कारर् अरुळिच् चॆय्दार्.
+</details>
+
+<details><summary>English</summary>
+
+How can this chief hindrance  
+which is of the nature of divine punishment  
+resulting from disobedience of the Lord's commands  
+and which is the root cause of this chain of suffering-  
+how can this be removed?  
+The author of Śrī Bhāṣya (Śrī Rāmānuja) has declared that  
+the only remedy for this hindrance  
+is to obtain the favour of the Lord  
+and that this can be done only by Śaraṇāgati or self-surrender to the [^f132] Lord.  
+This declaration is made by him,  
+while commenting on the order in which the senses,  
+the mind and the like have to be controlled as stated in Kaṭha Upaniṣad[^f133] .
 
 [^f132]: Bhagavadgītā: 2-40
 
 [^f133]: Śrī Bhāṣya: 1-4-1
+</details>
 
-All these hindrances to mokṣa  are to be understood in whatever is contrary to what is ordained in the three mysteries (mantras) (e. g. the feeling that the jīva is independent and acts for his own purposes which is opposed to the truths shown in the aṣṭākṣara), in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama) and also in the words ‘all thy sins' in the carama śloka . These have to be thought of, so that one may feel the suffering which lies in walking on the hot sands of saṁsāra and desire to hasten towards the path leading to bliss.
+<details><summary>Español</summary>
+
+How can this chief hindrance  
+which is of the nature of divine punishment  
+resulting from disobedience of the Lord's commands  
+and which is the root cause of this chain of suffering-  
+how can this be removed?  
+The author of Śrī Bhāṣya (Śrī Rāmānuja) has declared that  
+the only remedy for this hindrance  
+is to obtain the favour of the Lord  
+and that this can be done only by Śaraṇāgati or self-surrender to the [^f132] Lord.  
+This declaration is made by him,  
+while commenting on the order in which the senses,  
+the mind and the like have to be controlled as stated in Kaṭha Upaniṣad[^f133] .
+
+[^f132]: Bhagavadgītā: 2-40
+
+[^f133]: Śrī Bhāṣya: 1-4-1
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अनिष्ट-परंपरैक्कु मूलङ्गळान आज्ञातिलङ्घनङ्गळाले वन्द भगवन्निग्रहविशेषमागिऱ प्रधानविरोधिक्कुच्चॆय्युम् परिहारत्तै ‘‘तस्य च वशीकरणं तच्छरणागतिरेव” ऎण्ड्रु कठवल्लियिल् वशीकार्य-परंपरैयै वगुत्तविडत्तिल् श्रीभाष्यकारर् अरुळिच्चॆय्दार्.
+</details>
+
+### रहस्य-त्रयोक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-विरोधि-वर्गत्तैय् ऎल्लाम्  
+रहस्य-त्रयत्तिल् विधिक्किऱ अर्थङ्गळ्-उडैय +++(विपरीतार्थ-बोधक-)+++ व्यवच्छेद-शक्तियाल् उम्,  
+नमस्सुक्कळिल् म-कारङ्गळिल् षष्ठिगळाल् उम्,  
+"सर्व-पाप"-शब्दत्ताल् उम् अनुसन्धित्तु  
+संसारत्तिल् अडिच्-चूट्टाल् ए पेट्रुक्कु उऱुप्प् आन वऴिगळिल् ए  
+त्वरिक्क प्राप्तम्.
+</details>
+
+<details><summary>English</summary>
+
+All these hindrances to mokṣa are to be understood  
+in whatever is contrary to what is ordained in the three mysteries (mantras)  
+(e. g. the feeling that the jīva is independent and acts for his own purposes  
+which is opposed to the truths shown in the aṣṭākṣara),  
+in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama)  
+and also in the words ‘all thy sins' in the carama śloka .  
+These have to be thought of,  
+so that one may feel the suffering  
+which lies in walking on the hot sands of saṁsāra  
+and desire to hasten towards the path leading to bliss.
+</details>
+
+<details><summary>Español</summary>
+
+All these hindrances to mokṣa are to be understood  
+in whatever is contrary to what is ordained in the three mysteries (mantras)  
+(e. g. the feeling that the jīva is independent and acts for his own purposes  
+which is opposed to the truths shown in the aṣṭākṣara),  
+in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama)  
+and also in the words ‘all thy sins' in the carama śloka .  
+These have to be thought of,  
+so that one may feel the suffering  
+which lies in walking on the hot sands of saṁsāra  
+and desire to hasten towards the path leading to bliss.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विरोधिवर्गत्तैयॆल्लाम् रहस्यत्रयत्तिल् विधिक्किऱ अर्थङ्गळुडैय व्यवच्छेद-शक्तियालुम्, नमस्सुक्कळिल् मकारङ्गळिल् षष्ठिगळालुम्, सर्व-पापशब्दत्तालुम् अनुसन्धित्तु संसारत्तिल् अडिच् चूट्टाले पेट्रुक्कु उऱुप्पान वऴिगळिले त्वरिक्क प्राप्तम्.
+</details>
+
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-पॊरुळॊण्ड्रॆन निण्ड्र पूमगळ् नादन् अवनडिसेर्न्दु  
-अरुळॊण्ड्रुम् अन्बनवन् कॊळुबायम् अमैन्द पयन्  
-मरुळॊण्ड्रिय विनै वल्विलङ्गॆण्ड्रु इवैयैन्दऱिवार्  
-इरुळॊण्ड्रिलावगै ऎन्मनन्देऱ इयम्बिनरे. // 11 //
+पॊरुळ्-ऒण्ड्र्-ऎन निण्ड्र पू-मगळ् ना-दन् अवन्-अडि-सेर्न्दु  
+अरुळ्-ऒण्ड्र् उम् अन्बन् अवन् कॊळ् उबायम् अमैन्द पयन्  
+मरुळ् ऒण्ड्रिय विनै वल्व्-इलङ्ग् ऎण्ड्रु इवैय् ऐन्द् अऱिवार्  
+इरुळ् ऒण्ड्र् इला-वगै ऎन्-मनन् देऱ इयम्ब् इनरे. // 11 //
 </details>
+
+<details><summary>English</summary>
+
+Those who know these five have declared them  
+in order that I may not despair in mind  
+and in order that the darkness of ignorance may not confound me-  
+the five namely - the Lord of the lotus-born Lakṣmī ,  
+who stands as the one thing to be attained,  
+the jīva who loves the lord and craves for His grace by seeking His feet,  
+the means (or upāya) to be adopted by the jīva for the attainment,  
+and the fruit resulting therefrom,  
+as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
+</details>
+
+<details><summary>Español</summary>
+
+Those who know these five have declared them  
+in order that I may not despair in mind  
+and in order that the darkness of ignorance may not confound me-  
+the five namely - the Lord of the lotus-born Lakṣmī ,  
+who stands as the one thing to be attained,  
+the jīva who loves the lord and craves for His grace by seeking His feet,  
+the means (or upāya) to be adopted by the jīva for the attainment,  
+and the fruit resulting therefrom,  
+as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -3598,15 +4089,40 @@ All these hindrances to mokṣa  are to be understood in whatever is contrary to
 इरुळॊण्ड्रिलावगै ऎन्मनन्देऱ इयम्बिनरे. // 11 //
 </details>
 
-Those who know these five have declared them in order that I may not despair in mind and in order that the darkness of ignorance may not confound me- the five namely - the Lord of the lotus-born Lakṣmī , who stands as the one thing to be attained, the jīva who loves the lord and craves for His grace by seeking His feet, the means (or upāya) to be adopted by the jīva for the attainment, and the fruit resulting therefrom, as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्राप्यं ब्रह्म समस्तशेषि परमं प्राप्ताऽहमस्योचितः  
-प्राप्तिर्दाय-धन-क्रमादिह मम प्राप्ता स्वतस्सूरिवत् ।  
-हन्तैनामतिवृत्तवान् अहमहंमत्या विमत्याश्रयः  
-सेतुस्संप्रति शेषि-दंपति-भरन्यासस्तु मे शिष्यते ॥१३॥
+प्राप्यं ब्रह्म समस्त-शेषि परमं, प्राप्ताऽहम् अस्योचितः  
+प्राप्तिर् दाय-धन-क्रमाद् इह मम, प्राप्ता स्वतस् सूरिवत् ।  
+हन्तैनाम् **अतिवृत्तवान्** अहम् अहं-मत्या विमत्य्-आश्रयः  
+सेतुस् संप्रति शेषि--दं-पति--भर-न्यासस् तु मे **शिष्यते** ॥१३॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+That which is to be attained  
+is the Supreme Brahman who is the śeṣī of all;  
+I am also a fit person to attain Him;  
+the attainment should come to me as inheritance  
+due naturally to me as to the Sūris;  
+alas, by ny egoism and the ignorance arising from it, I have lost it,  
+but I have been taught that, by surrendering myself to the divine couple who are my śeṣīs,  
+I can now attain it.
+</details>
+
+<details><summary>Español</summary>
+
+That which is to be attained  
+is the Supreme Brahman who is the śeṣī of all;  
+I am also a fit person to attain Him;  
+the attainment should come to me as inheritance  
+due naturally to me as to the Sūris;  
+alas, by ny egoism and the ignorance arising from it, I have lost it,  
+but I have been taught that, by surrendering myself to the divine couple who are my śeṣīs,  
+I can now attain it.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -3616,8 +4132,18 @@ Those who know these five have declared them in order that I may not despair in 
 सेतुस्संप्रति शेषि-दंपति-भरन्यासस्तु मे शिष्यते ॥१३॥
 </details>
 
-That which is to be attained is the Supreme Brahman who is the śeṣī of all; I am also a fit person to attain Him; the attain. ment should come to me as inheritance due naturally to me as to the Sūris; alas, by ny egoism and the ignorance arising from it, I have lost it, but I have been taught that, by surrendering myself to the divine couple who are my śeṣīs, I can now attain it.
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे अर्थपञ्चकाधिकारश्चतुर्थः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे अर्थपञ्चकाधिकारश्चतुर्थः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
 
