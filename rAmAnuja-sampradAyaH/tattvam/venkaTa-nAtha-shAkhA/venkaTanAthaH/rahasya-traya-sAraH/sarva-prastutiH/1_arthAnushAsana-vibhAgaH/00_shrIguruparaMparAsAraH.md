@@ -138,8 +138,10 @@ por hacer brillante el camino de los Vedas en todo el mundo.
 
 To those who venture to attain release from the bondage of saṁsāra,  
 the ancient path indicated to us by the spotless Madhurakavi  by his own example is the only safe[^3]  path,  
+
 for while there is Śrīkṛṣṇa, the great cowherd, who incarnated solely for the sake of his devotees to confer bliss on them, to be their refuge, to be their final goal, to stand in relation to them as mother, father, brother and so on,  
 to change their desire for the pleasures of this world into a desire for Himself, to remove all their sins, to show them infinite compassion, to reveal the truth, and so also to bring about in them a likeness to Himself - while there is Śrīkṛṣṇa ever ready to do all this,[^4]  
+
 he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil the truths contained in the Vedas which are otherwise hard to understand.
 
 [^3]: safe path: This means Bhakti and Prapatti which lead to mokṣa . Acārya bhakti is called bhakti and prapatti as it leads to them.
@@ -149,15 +151,34 @@ he sought only the feet of the sage Satagopa (Nammālvār) who rendered in Tamil
 
 <details><summary>Español</summary>
 
-A aquellos que se aventuran a alcanzar la liberación de la esclavitud de Saṁsāra,
-El camino antiguo que nos indica el impecable Madhurakavi por su propio ejemplo es el único camino seguro [^es3],
-Porque mientras está śrīkṛṣṇa, el gran trato, que encarnó únicamente por el bien de sus devotos para otorgarles la dicha, para ser su refugio, ser su objetivo final, para pararse en relación con ellos como madre, padre, hermano y así en,
-Cambiar su deseo de los placeres de este mundo en un deseo por sí mismo, eliminar todos sus pecados, mostrarles una compasión infinita, revelar la verdad, y así también para provocarles una imagen para sí mismo, mientras que está Śrīkṛṣṇa alguna vez listo para hacer todo esto, [^es4]
-Solo buscó los pies de la sabia Satagopa (Nammālvār) que hizo en tamil las verdades contenidas en los Vedas que de otro modo son difíciles de entender.
+A aquellos que se aventuran a alcanzar la liberación de la esclavitud de Saṁsāra,  
+El camino antiguo que nos indica el impecable Madhurakavi  
+por su propio ejemplo es el único camino seguro [^es3],  
+
+Porque mientras está śrīkṛṣṇa, el gran trato,  
+que encarnó únicamente por el bien de sus devotos para otorgarles la dicha, para ser su refugio, ser su objetivo final, para pararse en relación con ellos como madre, padre, hermano etcétera,  
+Cambiar su deseo de los placeres de este mundo  
+en un deseo por sí mismo,  
+eliminar todos sus pecados,  
+mostrarles una compasión infinita, revelar la verdad,  
+y así también para provocarles una imagen para sí mismo,  
+mientras que está Śrīkṛṣṇa alguna vez listo para hacer todo esto, [^es4]  
+
+Solo buscó los pies de la sabia Satagopa (Nammālvār)  
+que hizo en tamil las verdades contenidas en los Vedas  
+que de otro modo son difíciles de entender.
 
 [^es3]: Camino seguro: Esto significa Bhakti y Prapatti que conducen a mokṣa. Acārya Bhakti se llama Bhakti y Prapatti, ya que les lleva a ellos.
 
-[^es4]: Madhurakavi en su década de versos tamiles, dice que, para él, Nammalvar es el único Dios y que a través de él, espera obtener todos los beneficios que los hombres esperan tener de Dios mismo. El camino indicado por él es el de la devoción al ācārya por alcanzar mukti y otras cosas.
+[^es4]: 
+
+    Madhurakavi en su década de versos tamiles,  
+    dice que, para él, Nammalvar es el único Dios  
+    y que a través de él, espera obtener todos los beneficios  
+    que los hombres esperan tener de Dios mismo.  
+    El camino indicado por él  
+    es el de la devoción al ācārya  
+    por alcanzar mukti y otras cosas.
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -181,7 +202,7 @@ THE ĀCĀRYA  ESSENTIAL FOR MOKṢA :
 
 <details><summary>Español</summary>
 
-LA ĀCĀRYA ESENCIAL PARA MOKṢA: EL ĀCĀRYA ESENCIAL PARA MOKṢA:
+LA ĀCĀRYA ESENCIAL PARA MOKṢA:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -219,11 +240,36 @@ It is said in the Smṛtis: "Kṣatrabandhu[^5] , who was the worst of sinners, 
 
 <details><summary>Español</summary>
 
-Se dice en los Smṛtis: "Kṣatrabandhu [^es5], que fue el peor de los pecadores, y puṇḍarīka [^es6], los virtuosos, ambos obtuvieron mokṣa o liberaron de la esclavitud por virtud de tener ācāryas". Por lo tanto, se declara que en el caso de cada uno, el único medio de asegurar mokṣa es tener un ācārya.
+Se dice en los Smṛtis:  
+"Kṣatrabandhu [^es5], que fue el peor de los pecadores,  
+y puṇḍarīka [^es6], los virtuosos,  
+ambos obtuvieron mokṣa o liberaron de la esclavitud  
+por virtud de tener ācāryas".  
+Por lo tanto, se declara que en el caso de cada uno,  
+el único medio de asegurar mokṣa es tener un ācārya.
 
-[^es5]: Kṣatrabandhu dirigió la vida de un autopista en un bosque. Era una fuente de terror para los sabios que vivían en ese bosque. Una vez, cuando el sabio Nārada pasó por él, se apresuró hacia él con su palo. Nārada se compadeció de él y le pidió que descubriera a su esposa e hijos si compartirían el pecado que estaba cometiendo, como se hizo por su bien. Se negaron y Kṣatrabandhu se dio cuenta de su locura y suplicó que Nārada le instruya en las verdades de la religión.
+[^es5]: 
 
-[^es6]: Puṇḍarīka era un brahmán virtuoso, quien, aunque siguió el camino justo y se fue de peregrinación a lugares sagrados, no obtuvo una visión de Dios. Fue solo después de ser iniciado en el Ashtakṣara por Nārada que se dio cuenta de Dios.
+    Kṣatrabandhu dirigió la vida de un autopista en un bosque.  
+    Era una fuente de terror  
+    para los sabios que vivían en ese bosque.  
+    Una vez, cuando el sabio Nārada pasó por él,  
+    se apresuró hacia él con su palo.  
+    Nārada se compadeció de él  
+    y le pidió que descubriera a su esposa e hijos  
+    si compartirían el pecado que estaba cometiendo,  
+    como se hizo por su bien.  
+    Se negaron y Kṣatrabandhu se dio cuenta de su locura  
+    y suplicó que Nārada le instruya en las verdades de la religión.
+
+[^es6]: 
+
+    Puṇḍarīka era un brahmán virtuoso,  
+    quien, aunque siguió el camino justo  
+    y se fue de peregrinación a lugares sagrados,  
+    no obtuvo una visión de Dios.  
+    Fue solo después de ser iniciado en el Ashtakṣara por Nārada  
+    que se dio cuenta de Dios.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -245,9 +291,19 @@ To the man desirous of mokṣa , the line of ācāryas is stated in the śruti[^
 
 <details><summary>Español</summary>
 
-Al hombre deseoso de Mokṣa, la línea de ācāryas se indica en el Śruti [^es7] para extenderse incluso al supremo Bhagavān para fines de meditación.
+Al hombre deseoso de Mokṣa,  
+la línea de ācāryas se indica en el Śruti [^es7]  
+para extenderse incluso al supremo Bhagavān  
+para fines de meditación.
 
-[^es7]: El Śruti mencionado aquí significa: “Esta línea de los ācāryas se extiende a Bhagavān así: esta es su ācārya; Su ācārya es tan y así y así hasta el Señor ".
+[^es7]: 
+
+    El Śruti mencionado aquí significa:  
+    
+    “Esta línea de los ācāryas se extiende a Bhagavān así:  
+    esta es su ācārya;  
+    Su ācārya es tan y así  
+    y así hasta el Señor ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -307,17 +363,20 @@ and
 
 <details><summary>Español</summary>
 
-El Señor Supremo es el principal de todos los ācāryas, como se puede ver en los siguientes pasajes -
+El Señor Supremo es el principal de todos los ācāryas,  
+como se puede ver en los siguientes pasajes -
 
 > "Él [^f8] [^f9] (śrīkṛṣṇa) que posee todas las excelencias, que es el ācārya [^8], padre y guru", ",
 
-> "Nārāyaṇa [^f10] quien es el gurú de todo el mundo también es mi guru",
+> "Nārāyaṇa [^f10] quien es el gurú de todo el mundo  
+> también es mi guru",
 
 > "Tú [^f11] eres mi pariente, y tú eres mi guru",
 
- y
+y
 
-> "Tú eres [^f12] el gurú de todos los mundos y de la misma manera su objetivo".
+> "Tú eres [^f12] el gurú de todos los mundos  
+> y de la misma manera su objetivo".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -342,9 +401,9 @@ and through him spread their knowledge in the world.
 
 <details><summary>Español</summary>
 
-Es él quien, al principio, se atribuyó a los Vedas a Brahma
- y cuando fueron robados, los trajeron de vuelta a él
- y a través de él difundió su conocimiento en el mundo.
+Es él quien, al principio, se atribuyó a los Vedas a Brahma  
+y cuando fueron robados, los trajeron de vuelta a él  
+y a través de él difundió su conocimiento en el mundo.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -367,12 +426,19 @@ Es él quien, al principio, se atribuyó a los Vedas a Brahma
 
 <details><summary>English</summary>
 
-It is He that blessed Brahma's sons, Sanatkumāra and others, to understand[^f13] all truths by themselves and to follow the path of renunciation. Through them He revealed the means of attaining salvation. 
+It is He that blessed Brahma's sons, Sanatkumāra and others,  
+to understand[^f13] all truths by themselves  
+and to follow the path of renunciation.  
+Through them He revealed the means of attaining salvation. 
 </details>
 
 <details><summary>Español</summary>
 
-Es él quien bendijo a los hijos de Brahma, Sanatkumāra y otros, para comprender [^f13] todas las verdades por sí mismos y seguir el camino de la renuncia. A través de ellos reveló los medios para alcanzar la salvación.
+Es él quien bendijo a los hijos de Brahma, Sanatkumāra y otros,  
+para comprender [^f13] todas las verdades por sí mismos  
+y seguir el camino de la renuncia.  
+A través de ellos reveló  
+los medios para alcanzar la salvación.
 </details>
 
 <details><summary>मूलम्</summary>
