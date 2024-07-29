@@ -480,7 +480,7 @@ Es Bhagavān quien, más tarde por la agencia de los grandes videntes como Nāra
 भीष्मः प्राञ्जलिर् अब्रवीत्” 
 
 ऎण्ड्रुञ् चॊल्लुगिऱ-पडि निऱ्‌किऱ+++(=स्थितस्य)+++ व्यासादिगळै **अनुप्रवेशित्तु** +++(न तु साक्षाद् अवतीर्य)+++  
-महाभारत-शारीरकादिगळैप् प्रवर्तिप्पित्तुम्,  
+महाभारत-शारीरकादिगळैप् प्रवर्तिप्पित्तुम्,  +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -493,20 +493,28 @@ It has also been said,
 
 > “Devoutly[^f15] uttering the name of that great sage (Vyāsa), Bhīṣma said with folded hands ". 
 
-Into such great men as Vyāsa referred to above the Lord entered and through them published to the world great works like Mahābhārata and Sārīraka Mīmāmsā (Brahma Sūtras). 
+Into such great men as Vyāsa referred to above the Lord entered and through them published to the world great works like Mahābhārata and Sārīraka Mīmāmsā (Brahma Sūtras). +++(5)+++
 </details>
 
 <details><summary>Español</summary>
 
 Se ha dicho
 
-> "Sepa [^f14] que Vyāsa que de otro modo se llama Kṛṣṇa dvaipayana es el Señor Nārāyaṇa. ¿Quién más está allí en el mundo, oh Maitreya, que podría componer el Mahābhārata?"
+> "Sepa [^f14] que Vyāsa  
+> que de otro modo se llama Kṛṣṇa dvaipayana  
+> es el Señor Nārāyaṇa.  
+> ¿Quién más está allí en el mundo, oh Maitreya,  
+> que podría componer el Mahābhārata?"
 
- También se ha dicho,
+También se ha dicho,
 
-> "Devroutly [^f15] pronunciando el nombre de esa gran salvia (Vyāsa), dijo Bhīṣma con manos dobladas".
+> "Devotamente [^f15] pronunciando el nombre de esa gran salvia (Vyāsa),  
+> dijo Bhīṣma con manos dobladas".
 
- En hombres tan grandes como Vyāsa mencionado sobre el Señor entró y a través de ellos publicados en el mundo grandes obras como Mahābhārata y Sārīraka Mīmāmsā (Brahma Sūtras).
+En hombres tan grandes como Vyāsa mencionado sobre  
+el Señor entró  
+y a través de ellos publicados en el mundo  
+grandes obras como Mahābhārata y Sārīraka Mīmāmsā (Brahma Sūtras).+++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -532,8 +540,9 @@ He himself stood out and revealed spiritual truths and also the means of attaini
 
 <details><summary>Español</summary>
 
-Además en encarnaciones como Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa y el Gītācārya (Śrīkṛṣṇa),
- Él mismo se destacó y reveló verdades espirituales y también los medios para alcanzar Mokṣa (Tattva y Hita).
+Además en encarnaciones como Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa y el Gītācārya (Śrīkṛṣṇa),  
+Él mismo se destacó y reveló verdades espirituales  
+y también los medios para alcanzar Mokṣa (Tattva y Hita).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -543,7 +552,7 @@ Además en encarnaciones como Hamsa, Matsya, Hayagrīva, Nara, Nārāyaṇa y el
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तानरुळिच् चॆय्द अर्थङ्गळैय् ऎल्लाम्  
+तान् अरुळिच् चॆय्द अर्थङ्गळैय् ऎल्लाम्  
 श्रीभीष्मर् मुदलान ज्ञानाधिकरैय् इट्टु मूदलिप्पित्तुम्+++(=प्रमाणीकृत्य)+++,  
 </details>
 
@@ -554,7 +563,9 @@ He had His invaluable teaching confirmed also through the words of such men of w
 
 <details><summary>Español</summary>
 
-Tenía su invaluable enseñanza confirmada también a través de las palabras de los hombres de sabiduría como Bhīṣma.
+Tenía su enseñanza inestimable  
+confirmada también a través de las palabras  
+de los hombres de sabiduría como Bhīṣma.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -589,7 +600,8 @@ It has been said[^f16]
 
 > "Nārāyaṇa  Himself dictated the whole of  the Pāñcarātra", 
 
-When this Śāstra which was originally taught by Him became lost,  
+When this Śāstra  
+which was originally taught by Him became lost,  
 
 > "once again at the end of the Dvāpara Yuga and the beginning of the Kali Yuga,  
 He[^f17] revealed it again through Saṅkarṣaṇa in accordance with the ordinances of the Sātvatas  
@@ -603,12 +615,19 @@ Se ha dicho [^f16]
 
 > "Nārāyaṇa mismo dictó todo el pāñcarātra",
 
- Cuando este Śāstra que fue enseñado originalmente por él se perdió,
+Cuando este Śāstra  
+que fue enseñado originalmente por él  
+se perdió,
 
-> "Una vez más al final del dvāpara yuga y el comienzo del kali yuga,
- Él [^f17] lo reveló nuevamente a través de saṅkarṣaṇa de acuerdo con las ordenanzas de los sātvatas
- para que todas las castas, brahmanes, kṣatriyas, vaiśyas y Śūdras, pudieran, después de la iniciación por los ācārya con las marcas prescritas (Śaṅkha y Cakra),
- Adoración y prestación del servicio al Señor en el desempeño de sus deberes diarios con sus mentes establecidas en lo eterno ".
+> "Una vez más al final del dvāpara yuga y el comienzo del kali yuga,  
+Él [^f17] lo reveló nuevamente a través de saṅkarṣaṇa  
+de acuerdo con las ordenanzas de los sātvatas  
+para que todas las castas - brahmanes, kṣatriyas, vaiśyas y Śūdras,  
+pudieran, después de la iniciación por los ācārya  
+con las marcas prescritas (Śaṅkha y Cakra),  
+puede adorar y prestar servicio al Señor  
+en el desempeño de sus deberes diarios  
+con sus mentes establecidas en lo eterno ".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -639,7 +658,20 @@ As is said in the following verse, “In the yuga of Kali[^f18] , the Lord Acyut
 
 <details><summary>Español</summary>
 
-Como se dice en el siguiente verso: "En la yuga de Kali [^f18], el Señor Acyuta entra en las respectivas personas de hombres que ya nacieron y llevan a cabo sus diseños", Nārāyaṇa asumió una nueva serie de diez encarnaciones en forma de formas Parankusa (Nammalvar), Parakala (tirumaṅgai) y otros. Esas partes de los Vedas que son más significativos y las revelaron brevemente en un idioma (tamil) que es accesible para todos.
+Como se dice  
+en el siguiente verso: 
+
+> "En la yuga de Kali [^f18],  
+> el Señor Acyuta entra en las respectivas personas de hombres  
+> que ya nacieron  
+> y llevan a cabo sus diseños", 
+
+Nārāyaṇa asumió una nueva serie de diez encarnaciones  
+en forma de formas Parankusa (Nammalvar), Parakala (tirumaṅgai) y otros.  
+Esas partes de los Vedas  
+que son más significativos  
+y las revelaron brevemente en un idioma (tamil)  
+que es accesible para todos.
 </details>
 
 <details><summary>मूलम्</summary>
