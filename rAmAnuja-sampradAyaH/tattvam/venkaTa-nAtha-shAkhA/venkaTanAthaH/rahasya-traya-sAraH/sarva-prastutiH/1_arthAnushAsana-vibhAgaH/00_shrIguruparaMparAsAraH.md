@@ -712,7 +712,7 @@ que es accesible para todos.
 > “साक्षान् नारायणो देवः  
 कृत्वा मर्त्यमयीं तनुम् ।  
 मग्नान् उद्धरते लोकान्  
-कारुण्याच् छास्त्र-पाणिना +++(शस्त्रपाणिनेव राजा)+++ ॥” 
+कारुण्याच् छास्त्र-पाणिना +++(शस्त्रपाणिनेव राजा)+++ ॥” +++(5)+++
 
 ऎण्ड्रुम्  
 
@@ -729,7 +729,9 @@ When this path of spiritual life was threatened with obstruction by heretics, op
 He incarnated again in the land of Agastya in the forms of many teachers of the true doctrine.  
 Has it not been said, 
 
-> “The god,[^f19] Nārāyaṇa , Himself, assumes a mortal form out of compassion and lifts up the world submerged (in the darkness of ignorance) with the śāstras as His hand ", 
+> “The god,[^f19] Nārāyaṇa , Himself, assumes a mortal form out of compassion  
+> and lifts up the world submerged (in the darkness of ignorance)  
+> with the śāstras as His hand ", +++(5)+++
 
 and so also, 
 
@@ -738,13 +740,17 @@ and so also,
 
 <details><summary>Español</summary>
 
-Cuando este camino de la vida espiritual fue amenazado con obstrucción por los herejes, abierto y encubierto,
- Se encarnó nuevamente en la tierra de Agastya en forma de muchos maestros de la verdadera doctrina.
- ¿No se ha dicho?
+Cuando este camino de la vida espiritual  
+fue amenazado con obstrucción por los herejes, abierto y encubierto,  
+Se encarnó nuevamente en la tierra de Agastya  
+en forma de muchos maestros de la verdadera doctrina.  
+¿No se ha dicho?  
 
-> “El dios, [^f19] Nārāyaṇa, él mismo, asume una forma mortal de compasión y levanta el mundo sumergido (en la oscuridad de la ignorancia) con los Śāstras como su mano",
+> “El dios, [^f19] Nārāyaṇa, él mismo,  
+asume una forma mortal de compasión  
+y levanta el mundo sumergido (en la oscuridad de la ignorancia) con los Śāstras como su mano",+++(5)+++
 
- Y así también,
+Y así también,
 
 > "Nuestro [^f20] Señor vestido con su vestimenta amarilla vino cuando el gurú fuera de la compasión de impartir la enseñanza del Veda".
 </details>

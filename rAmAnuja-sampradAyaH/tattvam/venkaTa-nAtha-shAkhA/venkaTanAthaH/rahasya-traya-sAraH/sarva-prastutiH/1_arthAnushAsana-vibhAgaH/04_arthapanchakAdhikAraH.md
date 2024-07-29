@@ -3075,9 +3075,9 @@ and thereby contraction of knowledge.
 
 <details><summary>Español</summary>
 
-This chastisement causes association with prakṛti or matter  
-with its three qualities (sattva, rajas and tamas)  
-and thereby contraction of knowledge.  
+Este castigo causa asociación con prakṛti o materia  
+con sus tres cualidades (Sattva, Rajas y Tamas)  
+y así contracción del conocimiento. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3087,17 +3087,20 @@ and thereby contraction of knowledge.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकृति-परिणाम-विशेषङ्गळ् आन शरीरेन्द्रियादिगळ्-ओड् ए तुवक्कि, 
+प्रकृति-परिणाम-विशेषङ्गळ् आन शरीरेन्द्रियादिगळ्-ओड् ए तुवक्कि+++(=आरभय्य)+++, 
 </details>
 
 <details><summary>English</summary>
 
-It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakṛti) on the other.
+It brings about a connection between the soul on the one hand,  
+and the body, the senses and the like which are specific modifications of matter (or prakṛti) on the other.
 </details>
 
 <details><summary>Español</summary>
 
-It brings about a connection between the soul on the one hand, and the body, the senses and the like which are specific modifications of matter (or prakṛti) on the other.
+Trae una conexión entre el alma por un lado,  
+y el cuerpo, los sentidos y los similares  
+que son modificaciones específicas de la materia (o prakṛti) por el otro.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3107,7 +3110,9 @@ It brings about a connection between the soul on the one hand, and the body, the
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तिण्णमऴुन्दक्-कट्टिप् पलसॆय्विनै वन्गयिट्राल् पुण्णै मऱैय वरिन्दॆन्नैप् पोरवैत्ताय् पुऱमे"  
+"तिण्णम्+++(=दृढम्)+++ अऴुन्दक्+++(=निपीड्य)+++ **कट्टिप्**  
+पल-सॆय्विनै+++(=कर्म)+++-वन्+++(=बलवत्)+++-कयिट्राल्+++(=कयिराल्)+++  
++++(शरीराख्य-)+++पुण्णै+++(=व्रणम्)+++ +++(चर्म-रूपेण)+++ **मऱैय वरिन्द्**+++(=वलयित्वा)+++ ऎन्नैप् **पोर-वैत्ताय्** पुऱम् ए"+++(5)+++
 (तिरुवाय्मॊऴि 5-1-5) 
 
 ऎण्ड्रुम्, 
@@ -3119,18 +3124,18 @@ To quote the words of the Alwar,
 
 > “With the strong ropes of my sins,  
 Thou hast bound me tightly with the body,  
-covered the sores within the body (like flesh, fat and blood)  
-with the skin and let me walk away from Thee." 
+covered the sores within the body (like flesh, fat and blood)  with the skin  
+and let me walk away from Thee." 
 </details>
 
 <details><summary>Español</summary>
 
-To quote the words of the Alwar, 
+Para citar las palabras de Alwar,
 
-> “With the strong ropes of my sins,  
-Thou hast bound me tightly with the body,  
-covered the sores within the body (like flesh, fat and blood)  
-with the skin and let me walk away from Thee." 
+> "Con las fuertes cuerdas de mis pecados,  
+Me has atado con el cuerpo,  
+cubrió las llagas dentro del cuerpo (como carne, grasa y sangre) con la piel  
+y déjame alejarte de ti ".
 </details>
 
 
@@ -3141,20 +3146,23 @@ with the skin and let me walk away from Thee."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-""अन्नाळ् नी तन्दवाक्कैयिन् वऴिय् उऴल्वेन्""(तिरुवाय्मॊऴि 3-2-1) ऎण्ड्रुञ्
+"अन्+++(→सृष्टि)+++-नाळ् नी +++(हितैषी)+++ तन्द +++(कायाख्य-)+++वाक्कैयिन् वऴिय् उऴल्वेन्+++(=वर्तयामि)+++"(तिरुवाय्मॊऴि 3-2-1) 
+
+ऎण्ड्रुञ्
 </details>
 
 <details><summary>English</summary>
 
-"With [^f127] the body given by Thee at the time of creation, I have been wandering about to the satisfaction of the body." 
+"With [^f127] the body given by Thee at the time of creation,  
+I have been wandering about to the satisfaction of the body." 
 
 [^f127]: Tiruvoymozhi: 3-2-1
 </details>
 
 <details><summary>Español</summary>
 
-"With [^f127] the body given by Thee at the time of creation,  
-I have been wandering about to the satisfaction of the body." 
+"Con [^f127] el cuerpo dado por ti en el momento de la creación,  
+He estado deambulando por la satisfacción del cuerpo ".
 </details>
 
 
@@ -3166,17 +3174,19 @@ I have been wandering about to the satisfaction of the body."
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चॊल्लुगिऱप् पडिय् ए  
-देहेन्द्रियादि-परतन्त्रनाक्कियुम्,
+देहेन्द्रियादि-पर-तन्त्रन् आक्किय् उम्,
 </details>
 
 <details><summary>English</summary>
 
-Further it makes the jīva subject to the sway of the body and the senses. 
+Further it makes the jīva  
+subject to the sway of the body and the senses. 
 </details>
 
 <details><summary>Español</summary>
 
-Further it makes the jīva subject to the sway of the body and the senses. 
+Además, hace que el Jīva  
+sujeto a la influencia del cuerpo y los sentidos.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3198,9 +3208,9 @@ and cannot act in accordance with them.
 
 <details><summary>Español</summary>
 
-This chastisement often consists in placing the jīva  
-in the body of animals which can have no knowledge of the Śāstras  
-and cannot act in accordance with them.  
+Este castigo a menudo consiste en colocar el Jīva  
+en el cuerpo de animales que no pueden tener conocimiento de los Śāstras  
+y no puede actuar de acuerdo con ellos.
 </details>
 
 
@@ -3223,8 +3233,8 @@ it confounds the mind with the views of infidels and heretics
 
 <details><summary>Español</summary>
 
-Even in births like those of men,  
-it confounds the mind with the views of infidels and heretics  
+Incluso en nacimientos como los de los hombres,  
+confunde la mente con las opiniones de los infieles y los herejes. 
 </details>
 
 
@@ -3237,7 +3247,7 @@ it confounds the mind with the views of infidels and heretics
 
 अवट्रिल् इऴियाद्-अवर्गळैय् उम् उळ्-बड  
 
-> “भगवत्-स्वरूप--तिरो-धान-करीं विपरीत-ज्ञान-जननीं  
+> “भगवत्-स्वरूप--तिरो-धान-करीं विपरीत-ज्ञान-जननीं +++(मायां /प्रकृतिं)+++  
 स्व-विषयायाश् च भोग्य-बुद्धेर् जननीम्”  
 > (पॆरिय गद्यम्) 
 
