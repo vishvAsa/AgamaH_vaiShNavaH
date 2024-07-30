@@ -3087,7 +3087,7 @@ y así contracción del conocimiento.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रकृति-परिणाम-विशेषङ्गळ् आन शरीरेन्द्रियादिगळ्-ओड् ए तुवक्कि+++(=आरभय्य)+++, 
+प्रकृति-परिणाम-विशेषङ्गळ् आन शरीरेन्द्रियादिगळ्-ओड् ए तुवक्कि+++(=आरम्भं कारयित्वा)+++, 
 </details>
 
 <details><summary>English</summary>
@@ -3117,6 +3117,14 @@ que son modificaciones específicas de la materia (o prakṛti) por el otro.
 
 ऎण्ड्रुम्, 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+> शरीरं व्रणवत् पश्येत् 
+
+इत्यपि प्रसिद्धोक्तिः। 
+</details>
+
 
 <details><summary>English</summary>
 
