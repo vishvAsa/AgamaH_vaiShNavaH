@@ -3268,8 +3268,9 @@ confunde la mente con las opiniones de los infieles y los herejes.
 
 and, even in the case of those who escape this,  
 causes,  
-through the concealing agency of the peacock feather of primal matter (moola-prakṛti) and its modifications,  
-the bodies and the senses,  
+through the concealing agency of the peacock feather of primal matter (moola-prakṛti) 
+ and its modifications, the bodies and the senses,  
+
 (1) ignorance of the truth and  
 (2) erroneous knowledge  
 and so also (3) subjection to sense-pleasures.  
@@ -3284,20 +3285,23 @@ As ŚrīRāmānuja says,
 
 <details><summary>Español</summary>
 
-and, even in the case of those who escape this,  
-causes,  
-through the concealing agency of the peacock feather of primal matter (moola-prakṛti) and its modifications,  
-the bodies and the senses,  
-(1) ignorance of the truth and  
-(2) erroneous knowledge  
-and so also (3) subjection to sense-pleasures.  
+Y, incluso en el caso de quienes escapan de esto,  
+causas,  
+A través de la agencia de ocultación  
+de la pluma de pavo real  de la materia primaria (Moola-Prakṛti)  
+y sus modificaciones, los cuerpos y los sentidos,  
 
-As ŚrīRāmānuja says,  
+(1) Ignorancia de la verdad y  
+(2) Conocimiento erróneo  
+y así también (3) sujeción a las placeres sensoriales.  
 
-> "This [^f128] (association with matter) causes obscuration of knowledge of the essential nature of Bhagavān  
-> and also false knowledge.  
-> Besides it makes the jīva think that  
-> this association is delightful." 
+Como dice Śrīrāmānuja,
+
+> "Esto [^f128] (asociación con la materia) causa  
+> obscena el conocimiento de la naturaleza esencial de Bhagavān  
+> y también conocimientos falsos.  
+> Además hace que el Jīva piense que  
+> Esta asociación es encantadora ".
 </details>
 
 
@@ -3330,9 +3334,12 @@ all sorts of petty pleasures?"
 
 <details><summary>Español</summary>
 
-To quote again the words of the Alwar:  
+Para citar nuevamente las palabras de el Alwar:
 
-"Is it [^f129] right on Thy part to  confound my soul and excite my five senses by showing me, who am a sinner, all sorts of petty pleasures?"
+> "¿Es [^f129] justo por tu parte  
+confundir mi alma y excitar mis cinco sentidos  
+mostrándome, quién es un pecador,  
+todo tipo de placeres pequeños?"
 </details>
 
 
@@ -3356,9 +3363,9 @@ and do forbidden things for the sake of petty pleasures.
 
 <details><summary>Español</summary>
 
-As a consequence of this,  
-it induces the jīva to disobey His orders  
-and do forbidden things for the sake of petty pleasures. 
+Como consecuencia de esto,  
+induce al Jīva desobedecer sus órdenes  
+y hacer cosas prohibidas por el bien de los pequeños placeres.
 </details>
 
 
@@ -3380,12 +3387,20 @@ and do forbidden things for the sake of petty pleasures.
 
 Well has it been said,  
 
-> "Sin committed again and again destroys wisdom and the man without wisdom begins further acts of a sinful nature." 
+> "Sin committed again  
+> and again destroys wisdom  
+> and the man without wisdom  
+> begins further acts of a sinful nature." 
 </details>
 
 <details><summary>Español</summary>
 
-Well has it been said,  "Sin committed again and again destroys wisdom and the man without wisdom begins further acts of a sinful nature." 
+Bueno, se ha dicho
+
+> "El pecado cometido una y otra vez  
+> destruye la sabiduría  
+> y el hombre sin sabiduría  
+> comienza a más actos de naturaleza pecaminosa".
 </details>
 
 
@@ -3408,7 +3423,8 @@ leads to further acts of sin.
 
 <details><summary>Español</summary>
 
-One act of disobedience leads to further acts of sin. 
+Un acto de desobediencia  
+conduce a otros actos de pecado.
 </details>
 
 
@@ -3781,7 +3797,7 @@ Thus there are many forms of hindrance in the way of the attainment of Bhagavān
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुप्-पत्ति-रण्ड्-अडिय् आन तुरवु+++(=दीर्घ-कूप)+++ दत्तुवार्+++(=कुर्दकाः)+++  
+मुप्-पत्त्-इरण्ड्-अडिय् आन तुरवु+++(=दीर्घ-कूप)+++ दत्तुवार्+++(=कुर्दकाः)+++  
 मुन्न्-अडियिल् ए विऴुन्दद्-ओडु  
 मुप्-पत्त्-ओराम् अडियिल् ए विऴुन्दद्-ओडु वासिय् इल्लाद्-आप्-पोल् ए  
 एद् एनुम् ऒरु पर्वत्तिल् ए  
@@ -3863,14 +3879,14 @@ whether at the end of a kalpa or of a manvantara or of a yuga.
 
 <details><summary>English</summary>
 
-Even sages like Vasiṣṭa,  
+Even sages like Vasiṣṭha,  
 who ever acted in such a manner as to please God,  
 had to wait long. 
 </details>
 
 <details><summary>Español</summary>
 
-Even sages like Vasiṣṭa,  
+Even sages like Vasiṣṭha,  
 who ever acted in such a manner as to please God,  
 had to wait long. 
 </details>
