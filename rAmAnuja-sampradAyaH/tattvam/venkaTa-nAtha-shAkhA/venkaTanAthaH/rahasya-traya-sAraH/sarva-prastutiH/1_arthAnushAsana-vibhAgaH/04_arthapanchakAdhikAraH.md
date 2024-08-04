@@ -2714,7 +2714,7 @@ como resultado del disfrute sin restricciones de Bhagavān.
 नित्यर् आवार् -  
 ईश्वरनैप्-पोल् ए अनादिय् आग ज्ञान-सङ्कोचम् इल्लामैयाल् ए  
 
-> “सवयस इव ये नित्य-निर्दोष-गन्धाः” (श्रीगुणरत्नकोषम् 27)  
+> “सवयस इव ये नित्य-निर्दोष-गन्धाः” (श्री-गुण-रत्न-कोषम् 27)  
 
 ऎन्गिऱप्-पडिय् ए  
 अ-स्पृष्ट-संसारर् आय्क्-कॊण्डु  
@@ -3110,9 +3110,9 @@ que son modificaciones específicas de la materia (o prakṛti) por el otro.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"तिण्णम्+++(=दृढम्)+++ अऴुन्दक्+++(=निपीड्य)+++ **कट्टिप्**  
+> "तिण्णम्+++(=दृढम्)+++ अऴुन्दक्+++(=निपीड्य)+++ **कट्टिप्**  
 पल-सॆय्विनै+++(=कर्म)+++-वन्+++(=बलवत्)+++-कयिट्राल्+++(=कयिराल्)+++  
-+++(शरीराख्य-)+++पुण्णै+++(=व्रणम्)+++ +++(चर्म-रूपेण)+++ **मऱैय वरिन्द्**+++(=वलयित्वा)+++ ऎन्नैप् **पोर-वैत्ताय्** पुऱम् ए"+++(5)+++
++++(शरीराख्य-)+++पुण्णै+++(=व्रणम्)+++ +++(चर्म-रूपेण)+++ **मऱैय वरिन्द्**+++(=वलयित्वा)+++ ऎन्नैप् **पोर-वैत्ताय्** पुऱम्+++(=बहिः)+++ ए"+++(5)+++
 (तिरुवाय्मॊऴि 5-1-5) 
 
 ऎण्ड्रुम्, 
@@ -3260,7 +3260,7 @@ confunde la mente con las opiniones de los infieles y los herejes.
 > (पॆरिय गद्यम्) 
 
 ऎन्गिऱ पडिय् ए  
-इम्-मूल-प्रकृति-मुदल् आन मोहन-पिञ्छिकै  
+इम्-मूल-प्रकृति-मुदल् आन मोहन-पिञ्छिकै+++(=पिच्छिकै = पर्णगुच्छम्)+++  
 तन्नाल् ए तत्त्वाज्ञान--विपरीत-ज्ञान--विषय--प्रावण्यङ्गळैप् पण्णिय् उम्,  
 </details>
 
@@ -3311,9 +3311,11 @@ As ŚrīRāmānuja says,
 
 इवैय् अडिय् आग  
 
-> "आवि तिगैक्क ऐवर्गुमैक्क् उम्  
-सिट्र्-इन्बम् पावियेनैप् पल नी काट्टिप्-पडुप्पाय् ओ" 
-(तिरुवाय्मॊऴि 6-9-9.) ऎन्गिऱप्पडिये  
+> "आवि+++(=बाष्प)+++ तिगैक्क+++(=भ्राम्यत्)+++ +++(इन्द्रिय←)+++ऐवर् कुमैक्क्+++(=बाधायै)+++ उम्  
+सिट्र्-इन्बम्+++(=सुखम्)+++ पावियेनैप् पल नी काट्टिप् पडुप्पाय्+++(=पीडयसि)+++ ओ" +++(5)+++
+(तिरुवाय्मॊऴि 6-9-9.) 
+
+ऎन्गिऱप् पडिय् ए  
 </details>
 
 <details><summary>English</summary>
@@ -3367,11 +3369,11 @@ and do forbidden things for the sake of petty pleasures.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “पापं प्रज्ञां नाशयति  
-क्रियमाणं पुनः-पुनः ।  
+> “पापं प्रज्ञां **नाशयति**  
+क्रियमाणं पुनः-पुनः +++(सकृद्-दोषस्यापेक्षया)+++ ।  
 नष्ट-प्रज्ञः पापम् एव  
-पुनर् आरभते नरः ॥”+++(5)+++  
-(भारतम्-उद्योगपर्वम् 35-73.) 
+पुनर् **आरभते** नरः ॥”+++(5)+++  
+(भारतम् उद्योगपर्व 35-73.) 
 </details>
 
 <details><summary>English</summary>
@@ -3395,7 +3397,7 @@ Well has it been said,  "Sin committed again and again destroys wisdom and the m
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎन्गिऱप् पडिय् ए  
-मेलुम् अपराध-परं-परैगळिल् ए मूट्टि
+मेलुम् अपराध-परं-परैगळिल् ए **मूट्टि**+++(=प्रवेश्य)+++
 </details>
 
 <details><summary>English</summary>
@@ -3490,7 +3492,8 @@ By means of the scriptures of those who are actuated by rajas and tamas,  which 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्न्-ओड् ऒक्क ऒऴुगु सङ्गिलियिल्+++(=शृङ्खलया)+++ ए कट्ट् उण्डु उऴलुगिऱ क्षेत्रज्ञर् कालिले विऴप्-पण्णिय् उम्, 
+तन्न्-ओड् ऒक्क ऒऴुगु+++(=सन्तत)+++-सङ्गिलियिल्+++(=शृङ्खलया)+++ ए कट्ट् उण्डु  
+उऴलुगिऱ+++(=भ्राम्यत्)+++ क्षेत्रज्ञर् कालिले विऴप्-पण्णिय् उम्, 
 </details>
 
 <details><summary>English</summary>
@@ -3515,7 +3518,8 @@ who are themselves souls ( kṣetrajna) fettered with similar chains.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवर्गळ् कॊडुत्त जुगुप्सावह-क्षुद्र-पुरुषार्थङ्गळाल् ए  
-+++(मलादौ)+++ कृमिगळैप् पोले कृतार्थर् आग मयक्कियुम्,  
++++(मलादौ)+++ कृमिगळैप् पोल् ए  
+कृतार्थर् आग मयक्किय्+++(=तामयित्वा)+++ उम्,  
 </details>
 
 <details><summary>English</summary>
@@ -3550,8 +3554,9 @@ afforded by these deities in the same way as worms find pleasure in dirt and fil
 योग-प्रवृत्तर् आनवर्गळैय् उम्  
 क्षुद्र-देवता-योगङ्गळिल् एय् आदल्  
 नामादि अ-चेतनोपासनङ्गळिल् एय् आदल्  
-मूळप्-पण्णि सिल्व् आनङ्गळ् आन फलङ्गळाल् ए  
-योगत्तैत् तलै-साय्प्पित्तुम्, 
+**मूळप्+++(=प्रवर्तनम्)+++-पण्णि**  
+सिल्व्+++(=अल्प)+++-आनङ्गळ् आन फलङ्गळाल् ए  
+योगत्तैत् तलै-साय्प्पित्त्+++(=शाययित्वा)+++ उम्, 
 </details>
 
 <details><summary>English</summary>
@@ -3560,6 +3565,9 @@ Even those who practise yoga
 are made to practise it in connection with petty deities  
 or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahman  
 and are made to fall therefrom in the acquisition of minor results.  
+
+
+[f130]:  In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
 </details>
 
 <details><summary>Español</summary>
@@ -3568,6 +3576,9 @@ Even those who practise yoga
 are made to practise it in connection with petty deities  
 or in the meditations of such inanimate things as [^f130] nāma being Brahman  
 and are made to fall therefrom in the acquisition of minor results.  
+
+
+[es130]:  In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".\*
 </details>
 
 
@@ -3651,9 +3662,9 @@ or who think primarily of Brahman who has for His body their own selves -
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तरायम् आन आत्मानुभवत्ताल् एय् आदल्,  
+अन्तरायम् आन +++(कैवल्य-रूप-)+++आत्मानुभवत्ताल् एय् आदल्,  
 अष्टैश्वर्य-सिद्धिगळाल् एय् आदल्,  
-वस्वादि-पद-प्राप्ति--ब्रह्म-काय-निषेवणादिगळाल् एय् आदल्,  
++++(मधु-विद्यातः→)+++वस्व्-आदि--पद-प्राप्ति--+++(ब्रह्म-समान-भोगार्थ-)+++ब्रह्म-काय-निषेवणादिगळाल् एय् आदल्,  
 </details>
 
 <details><summary>English</summary>
@@ -3662,14 +3673,20 @@ even they may be detained by the state of kaivalya or the enjoyment of their own
 by the attainment of the [^f131] eight kinds of siddhi,  
 by the attainment of the status of the vasus,  
 or by the entrance into the body of Brahma and the like.  
+
+[^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
+
 </details>
 
 <details><summary>Español</summary>
 
 even they may be detained by the state of kaivalya or the enjoyment of their own selves,  
-by the attainment of the [^f131] eight kinds of siddhi,  
+by the attainment of the [^es131] eight kinds of siddhi,  
 by the attainment of the status of the vasus,  
 or by the entrance into the body of Brahma and the like.  
+
+[^es131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
+
 </details>
 
 
@@ -3681,7 +3698,7 @@ or by the entrance into the body of Brahma and the like.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेकत्तुक्कु नाळ्-इट्ट राज-कुमारनुक्कुच्  
-चिऱैयिल्+++(=कारागारतः)+++ ए ऎडुत्तुक् कै-नीट्टिन चेटिमार् पक्कलिल् ए  
+चिऱैयिल्+++(=कारागारतः)+++ ए +++(दुग्धादि)+++ ऎडुत्तुक् कै-नीट्टिन चेटिमार् पक्कलिल् ए  
 कण्-णोट्टम् उण्डाम् आप्-पोल् ए  +++(5)+++
 </details>
 
@@ -3710,8 +3727,8 @@ casting eyes on the servant maids who attended on him while in prison.
 
 प्रारब्ध-कर्म-फलम् आन देहेन्द्रियङ्गळिल् उम्  
 तद्-अनुबन्धिगळ् आन परिग्रहङ्गळिल् उम्  
-तन्-मूल-भोगङ्गळिल् उम्  
-काल्-दाऴप् पण्णिय् आदल् अन्य-परराक्किय् उम्,  
+तन्-मूल--भोगङ्गळिल् उम्  
+काल्-दाऴप्+++(=स्थापनम्)+++ पण्णिय् आदल् अन्य-परर् आक्किय् उम्,  
 </details>
 
 <details><summary>English</summary>
@@ -3742,7 +3759,8 @@ In this way they become subject to other pleasures than the final goal.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडिप् पल-मुखङ्गळाल् ए भगवत्-प्राप्तिक्कु विलक्क् आय् इरुक्कुम्,  
+इप्पडिप् पल-मुखङ्गळाल् ए  
+भगवत्-प्राप्तिक्कु विलक्क्+++(=अपगमनम्←विलक्षणम्?)+++ आय् इरुक्कुम्,  
 </details>
 
 <details><summary>English</summary>
@@ -3763,9 +3781,9 @@ Thus there are many forms of hindrance in the way of the attainment of Bhagavān
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुप्पत्ति-रण्ड्-अडिय् आन तुरवुदत्तुवार्  
+मुप्-पत्ति-रण्ड्-अडिय् आन तुरव्+++(=दीर्घ-कूप)+++  उद्-अत्तुवार्+++(=तरकाः)+++  
 मुन्न्-अडियिल् ए विऴुन्दद्-ओडु  
-मुप्पत्तोराम् अडियिल् ए विऴुन्दद्-ओडु वासिय् इल्लाद्-आप्-पोल् ए  
+मुप्-पत्त्-ओराम् अडियिल् ए विऴुन्दद्-ओडु वासिय् इल्लाद्-आप्-पोल् ए  
 एद् एनुम् ऒरु पर्वत्तिल् ए  
 अन्तरायम् उण्डानाल् उम्  
 इवन् संसारत्तैक् कडन्-दान् आगान्.
@@ -3798,17 +3816,13 @@ the jīva has not transcended saṁsāra.
 
 
 
-[^f130]:  In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
-
-[^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
-
 ### विलम्बः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कर्म-योगादिगळिल् प्रवृत्तनुक्कु  
-‘‘नेहाभिक्रम-नाशोऽस्ति”(की. 2-40)  
++++(अर्ध-याग-प्रत्यवायोऽपि न, तथा-)+++ ‘‘नेहाभिक्रम-नाशोऽस्ति”(की. 2-40)  
 इत्य्-आदिगळ् इऱ्‌-पडिय् ए  
-"इट्ट-बडै कऱ्‌-पडैय् आय्" ऎण्ड्र्  
+"इट्ट-पडै+++(=प्रतिष्ठिका/foundation)+++ कऱ्‌+++(ल्)+++-पडैय् आय् +++(न शीघ्रं वर्धनीया मृत्-प्रतिष्ठिकेव)+++" ऎण्ड्र्  
 एनुम् ऒरु-नाळ् फल-सिद्धिय् उण्ड् आम्  
 ऎन्गिऱव् इदुव् उम्  
 कल्पान्तर-मन्वन्तर-युगान्तर-जन्मान्तरादिगळिल्  
@@ -3872,7 +3886,7 @@ had to wait long.
 
 प्रातिकूल्यम् मिगव् उम् उण्ड् आय् इरुक्क  
 वृत्र--क्षत्र-बन्धु-प्रभृतिगळुक्कुक्  
-कडुग मोक्षम् उण्डागक् काणा निण्ड्रोम्.
+कडुग+++(=रवेण)+++ मोक्षम् उण्डागक् काणा निण्ड्रोम्.
 </details>
 
 <details><summary>English</summary>
