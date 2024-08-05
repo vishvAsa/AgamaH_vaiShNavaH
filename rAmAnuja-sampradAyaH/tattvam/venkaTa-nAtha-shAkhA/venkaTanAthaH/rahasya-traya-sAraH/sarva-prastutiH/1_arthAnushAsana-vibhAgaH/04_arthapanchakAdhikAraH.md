@@ -3449,9 +3449,11 @@ as stated by Himself, "I throw them always into asuric births"
 
 <details><summary>Español</summary>
 
-In consequence the Lord makes the jīva wander again and again  
-through the cycle of life in the womb, birth, old age, death, and hell,  
-as stated by Himself, "I throw them always into asuric births" 
+En consecuencia,  
+el Señor hace que el Jīva deambule una y otra vez  
+a través del ciclo de la vida en el útero, el nacimiento, la vejez, la muerte y el infierno,  
+Como dijo él mismo,  
+"los lanzo siempre en nacimientos asúricos"
 </details>
 
 
@@ -3467,13 +3469,16 @@ as stated by Himself, "I throw them always into asuric births"
 
 <details><summary>English</summary>
 
-By means of the scriptures of those who are actuated by rajas and tamas,  
+By means of the scriptures  
+of those who are actuated by rajas and tamas,  
 which show the way to secure petty pleasures, 
 </details>
 
 <details><summary>Español</summary>
 
-By means of the scriptures of those who are actuated by rajas and tamas,  which show the way to secure petty pleasures, 
+Por medio de las escrituras  
+de aquellos que son actuados por Rajas y Tamas,  
+que muestran el camino para asegurar placeres mezquinos,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3492,12 +3497,22 @@ By means of the scriptures of those who are actuated by rajas and tamas,  which 
 
 <details><summary>English</summary>
 
-“Those who are actuated by rajas" it has been declared, “worship Yakṣas and Rākṣasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". 
+it has been declared,  
+
+> “Those who are actuated by rajas 
+worship Yakṣas and Rākṣasas ;  
+and those who are actuated by tamas  
+worship the spirits of the dead and elemental spirits ( Bhūtagana)". 
 </details>
 
 <details><summary>Español</summary>
 
-“Those who are actuated by rajas" it has been declared, “worship Yakṣas and Rākṣasas ; and those who are actuated by tamas worship the spirits of the dead and elemental spirits ( Bhūtagana)". 
+ha sido declarado,
+
+> “Aquellos que son actuados por Rajas  
+Adora Yakṣas y Rākṣasas;  
+y aquellos que son actuados por tamas  
+Adora a los espíritus muertos y los espíritus elementales (Bhūtagana) ".
 </details>
 
 
@@ -3520,8 +3535,9 @@ who are themselves souls ( kṣetrajna) fettered with similar chains.
 
 <details><summary>Español</summary>
 
-the jīva is made to fall at the feet of petty deities  
-who are themselves souls ( kṣetrajna) fettered with similar chains.  
+El Jīva está hecho  
+que caiga a los pies de las pequeñas deidades  
+que son las almas (kṣetrajna) fetteradas con cadenas similares.
 </details>
 
 
@@ -3542,14 +3558,18 @@ who are themselves souls ( kṣetrajna) fettered with similar chains.
 
 The jīva is deluded into considering himself as greatly benefited  
 by the mean and gruesome enjoyments  
-afforded by these deities in the same way as worms find pleasure in dirt and filth.+++(5)+++
+afforded by these deities in the same way  
+as worms find pleasure in dirt and filth.+++(5)+++
 </details>
 
 <details><summary>Español</summary>
 
-The jīva is deluded into considering himself as greatly benefited  
-by the mean and gruesome enjoyments  
-afforded by these deities in the same way as worms find pleasure in dirt and filth.+++(5)+++
+El Jīva se engaña a considerarse a sí mismo  
+como se beneficia enormemente  
+por los disfraces malos y horribles  
+Proporcionado por estas deidades de la misma manera  
+que los gusanos encuentran placer  
+en la suciedad y la inmundicia.+++(5)+++
 </details>
 
 
@@ -3580,21 +3600,41 @@ afforded by these deities in the same way as worms find pleasure in dirt and fil
 Even those who practise yoga  
 are made to practise it in connection with petty deities  
 or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahman  
-and are made to fall therefrom in the acquisition of minor results.  
+and are made to fall therefrom  
+in the acquisition of minor results.  
 
 
-[f130]:  In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".*
+[f130]:  
+
+    In the Chandogya Upaniṣad VII chapter, it is stated as follows:- 
+    
+    > He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa  
+    as if they were Brahman  
+    will realise only very limited fruits  
+    such as can be reached with these names".*
 </details>
 
 <details><summary>Español</summary>
 
-Even those who practise yoga  
-are made to practise it in connection with petty deities  
-or in the meditations of such inanimate things as [^f130] nāma being Brahman  
-and are made to fall therefrom in the acquisition of minor results.  
+Incluso aquellos que practican yoga  
+están hechos para practicarlo  
+en relación con las deidades pequeñas  
+o en las meditaciones de cosas inanimadas  
+como [^f130] nāma siendo brahman  
+y se hacen caer de eso  
+en la adquisición de resultados menores.
 
 
-[es130]:  In the Chandogya Upaniṣad VII chapter, it is stated as follows:- He who worships nama or names like rig veda, sama veda, Itihāsa and purāṇa as if they were Brahman will realise only very limited fruits such as can be reached with these names".\*
+[ES130]: 
+
+    En el capítulo Chandogya Upaniṣad VII,  
+    se establece de la siguiente manera:-  
+    
+    > El que adora a Nama o nombres como Rig Veda, Sama Veda, Itihāsa y Purāṇa  
+    como si fueran Brahman  
+    se darán cuenta de solo frutas muy limitadas  
+    como se puede alcanzar  
+    con estos nombres ". \*
 </details>
 
 
@@ -3632,15 +3672,16 @@ after which he falls back into saṁsāra.
 
 <details><summary>Español</summary>
 
-Even those who are devoted to the soul or ātmā  
-are made to meditate on their ātmā  
-either in contact with matter  
-or as separated from matter  
-either as if it were Brahman  
-or as the atma in its own essential nature.  
-As the result of these four kinds of meditation,  
-the jīva obtains petty enjoyments  
-after which he falls back into saṁsāra.  
+Incluso aquellos  
+que están dedicados al alma o ātmā  
+están hechos para meditar en su ātmā  
+ya sea en contacto con la materia  
+o como separado de la materia  
+ya sea como si fuera Brahman  
+o como el ATMA en su propia naturaleza esencial.  
+Como resultado de estos cuatro tipos de meditación,  
+El Jīva obtiene menores placeres  
+después de lo cual regresa a Saṁsāra.
 </details>
 
 
@@ -3665,9 +3706,12 @@ or who think primarily of Brahman who has for His body their own selves -
 
 <details><summary>Español</summary>
 
-Even in the case of those who practise true meditation on Brahman,  
-and who meditate primarily on their own selves as having Brahman for their inner self  
-or who think primarily of Brahman who has for His body their own selves -  
+Incluso en el caso de aquellos que practican  
+la verdadera meditación en Brahman,  
+y que meditan principalmente por sí mismos  
+por tener a Brahman para su ser interior  
+o que piensan principalmente en Brahman,  
+quien tiene para su cuerpo a sí mismo,
 </details>
 
 
@@ -3690,18 +3734,39 @@ by the attainment of the [^f131] eight kinds of siddhi,
 by the attainment of the status of the vasus,  
 or by the entrance into the body of Brahma and the like.  
 
-[^f131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
+[^f131]: 
+
+    The eight kinds of siddhi:  
+    Aṇimā (contraction of one's body to the size of an atom),  
+    mahima (assuming a huge form) Laghimā (making one's body light)  
+    Garimā (making the body heavy),  
+    vaśitvam (mastery over self),  
+    aiśvaryam (lordship)  
+    prāpti (the power of obtaining whatever one wants)  
+    and prākāmyam (perfect freedom of the will.)
 
 </details>
 
 <details><summary>Español</summary>
 
-even they may be detained by the state of kaivalya or the enjoyment of their own selves,  
-by the attainment of the [^es131] eight kinds of siddhi,  
-by the attainment of the status of the vasus,  
-or by the entrance into the body of Brahma and the like.  
+Incluso pueden ser detenidos  
+por el estado de Kaivalya  
+o el disfrute de su propio ser,  
+por el logro de [^es131] Ocho tipos de Siddhi,  
+por el logro del estado del los vasus,  
+o por la entrada al cuerpo de Brahma y similares.
 
-[^es131]: The eight kinds of siddhi: Aṇimā (contraction of one's body to the size of an atom, mahima (assuming a huge form) Laghimā (making one's body light) Garimā (making the body heavy), vaśitvam (mastery over self), aiśvaryam (lordship) prāpti the power of obtaining whatever one wants and prākāmyam (perfect freedom of the will.)
+[^es131]: 
+
+    Los ocho tipos de Siddhi:  
+    Aṇimā (contracción del cuerpo de uno al tamaño de un átomo),  
+    Mahima (suponiendo una forma enorme)  
+    laghimā (haciendo que el cuerpo sea ligero)  
+    garimā (haciendo que el cuerpo pese),  
+    vaśitvam (dominio sobre sí mismo),  
+    aiśvaryam (señorío)  
+    Prāpti (el poder de obtener lo que uno quiera)  
+    y prākāmyam (libertad perfecta de la voluntad).
 
 </details>
 
@@ -3721,15 +3786,21 @@ or by the entrance into the body of Brahma and the like.
 <details><summary>English</summary>
 
 Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman)  
-is like that of a prince, whose coronation day has been already fixed,  
-casting eyes on the servant maids who attended on him while in prison.  
+is like that of a prince,  
+whose coronation day has been already fixed,  
+casting eyes on the servant maids  
+who attended on him while in prison.  
 </details>
 
 <details><summary>Español</summary>
 
-Their (temporary) lapse from the highest aim or goal of life (namely, the enjoyment of the bliss of Brahman)  
-is like that of a prince, whose coronation day has been already fixed,  
-casting eyes on the servant maids who attended on him while in prison.  
+Su lapso (temporal) del objetivo supremo  
+o objetivo de la vida más alto  
+(es decir, el disfrute de la dicha de Brahman)  
+es como el de un príncipe,  
+cuyo día de coronación ya ha sido arreglado,  
+Lanzando los ojos sobre las criadas sirvientes  
+que lo atendieron mientras estaban en prisión.
 </details>
 
 
@@ -3749,20 +3820,27 @@ casting eyes on the servant maids who attended on him while in prison.
 
 <details><summary>English</summary>
 
-They are made to linger fondly over the body and the senses  
+They are made to linger fondly  
+over the body and the senses  
 which are the result of past karma  
 and those that are related to the body (like relatives)  
 and the enjoyments connected with them.  
-In this way they become subject to other pleasures than the final goal.  
+In this way  
+they become subject to other pleasures  
+than the final goal.  
 </details>
 
 <details><summary>Español</summary>
 
-They are made to linger fondly over the body and the senses  
-which are the result of past karma  
-and those that are related to the body (like relatives)  
-and the enjoyments connected with them.  
-In this way they become subject to other pleasures than the final goal.  
+Están hechos para demorar  
+con cariño en el cuerpo y los sentidos  
+cuáles son el resultado del karma pasado  
+y aquellos que están relacionados con el cuerpo (como parientes)  
+Y los disfraces conectados con ellos.  
+De esta manera,  
+se vuelven sujetos  
+a otros placeres  
+que el objetivo final.
 </details>
 
 
@@ -3786,7 +3864,9 @@ Thus there are many forms of hindrance in the way of the attainment of Bhagavān
 
 <details><summary>Español</summary>
 
-Thus there are many forms of hindrance in the way of the attainment of Bhagavān.  
+Por lo tanto,  
+hay muchas formas de obstáculo  
+en el camino del logro de Bhagavān.
 </details>
 
 
@@ -3816,11 +3896,11 @@ the jīva has not transcended saṁsāra.
 
 <details><summary>Español</summary>
 
-When a well thirty-two steps wide has to be leaped over,  
-it makes no difference whether the man falls at the very first step  
-or at the thirty-second step.  
-In the same way wherever or at whatever stage the hindrance occurs,  
-the jīva has not transcended saṁsāra.
+Cuando hay que saltar un Pozo de treinta y dos pasos de ancho,
+No importa si el hombre cae en el primer paso  
+o en el paso de treinta segundos.  
+De la misma manera donde o en cualquier etapa ocurre el obstáculo,  
+El Jīva no ha trascendido a Saṁsāra.
 </details>
 
 
@@ -3857,12 +3937,14 @@ whether at the end of a kalpa or of a manvantara or of a yuga.
 
 <details><summary>Español</summary>
 
-It is true the Gītā says that for those who practise karmayoga,  
-the effort will never perish or be in vain.  
-What has been built up will, of course, remain built up,  
-as it were, of stone.  
-But we cannot say when the fruit will be attained,  
-whether at the end of a kalpa or of a manvantara or of a yuga. 
+Es cierto que el gītā dice  
+que para aquellos que practican karmayoga,  
+El esfuerzo nunca perecerá o será en vano.  
+Lo que se ha construido, por supuesto, permanecerá construido,  
+por así decirlo, de piedra.  
+Pero no podemos decir  
+cuándo se alcanzará la fruta,  
+ya sea al final de un kalpa o de un manvantara o de un yuga. 
 </details>
 
 
@@ -3886,9 +3968,9 @@ had to wait long.
 
 <details><summary>Español</summary>
 
-Even sages like Vasiṣṭha,  
-who ever acted in such a manner as to please God,  
-had to wait long. 
+Incluso sabios como Vasiṣṭha,  
+Quien actuó de tal manera que le agradara a Dios,  
+Tuve que esperar mucho.
 </details>
 
 
@@ -3900,9 +3982,9 @@ had to wait long.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रातिकूल्यम् मिगव् उम् उण्ड् आय् इरुक्क  
++++(भगवद्-आज्ञा-)+++प्रातिकूल्यम् मिगव् उम् उण्ड् आय् इरुक्क  
 वृत्र--क्षत्र-बन्धु-प्रभृतिगळुक्कुक्  
-कडुग+++(=रवेण)+++ मोक्षम् उण्डागक् काणा निण्ड्रोम्.
+कडुग+++(=रवेण)+++ मोक्षम् उण्डागक् काणा निण्ड्रोम्.+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -3914,9 +3996,9 @@ attained mokṣa  without any such delay.
 
 <details><summary>Español</summary>
 
-Those who acted against the will of God  
-like Vritra and Kshatrabandhu  
-attained mokṣa  without any such delay.  
+Los que actuaron en contra de la voluntad de Dios  
+como Vritra y Kshatrabandhu  
+alcanzó mokṣa sin ningún retraso. 
 </details>
 
 
@@ -3940,9 +4022,9 @@ that would lead to mokṣa without delay.
 
 <details><summary>Español</summary>
 
-So it is difficult to say  
-which individuals have done meritorious deeds  
-that would lead to mokṣa without delay. 
+Entonces es difícil decir  
+que los individuos han hecho actos meritorios  
+Eso conduciría a mokṣa sin demora.
 </details>
 
 
@@ -3965,7 +4047,11 @@ Similarly it is difficult to state who have done bad deeds leading to divine cha
 
 <details><summary>Español</summary>
 
-Similarly it is difficult to state who have done bad deeds leading to divine chastisement causing delay.
+Del mismo modo,  
+es difícil establecer  
+quién ha hecho malas acciones  
+que conducen al castigo divino  
+que causa demora.
 </details>
 
 
@@ -3983,7 +4069,8 @@ SARAŅĀGATI THE ONLY MEANS OF GETTING RID OF THESE HINDRANCES:
 
 <details><summary>Español</summary>
 
-SARAŅĀGATI THE ONLY MEANS OF GETTING RID OF THESE HINDRANCES:
+Saraņāgati - El único medio  
+para deshacerse de estos obstáculos:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4011,8 +4098,8 @@ the only remedy for this hindrance
 is to obtain the favour of the Lord  
 and that this can be done only by Śaraṇāgati or self-surrender to the [^f132] Lord.  
 This declaration is made by him,  
-while commenting on the order in which the senses,  
-the mind and the like have to be controlled as stated in Kaṭha Upaniṣad[^f133] .
+while commenting on the order in which the senses, the mind and the like  
+have to be controlled as stated in Kaṭha Upaniṣad[^f133] .
 
 [^f132]: Bhagavadgītā: 2-40
 
@@ -4021,22 +4108,19 @@ the mind and the like have to be controlled as stated in Kaṭha Upaniṣad[^f13
 
 <details><summary>Español</summary>
 
-How can this chief hindrance  
-which is of the nature of divine punishment  
-resulting from disobedience of the Lord's commands  
-and which is the root cause of this chain of suffering-  
-how can this be removed?  
-The author of Śrī Bhāṣya (Śrī Rāmānuja) has declared that  
-the only remedy for this hindrance  
-is to obtain the favour of the Lord  
-and that this can be done only by Śaraṇāgati or self-surrender to the [^f132] Lord.  
-This declaration is made by him,  
-while commenting on the order in which the senses,  
-the mind and the like have to be controlled as stated in Kaṭha Upaniṣad[^f133] .
-
-[^f132]: Bhagavadgītā: 2-40
-
-[^f133]: Śrī Bhāṣya: 1-4-1
+Cómo puede este obstáculo principal  
+que es de la naturaleza del castigo divino  
+resultante de la desobediencia de las órdenes del Señor  
+y cuál es la causa raíz de esta cadena de sufrimiento  
+¿Cómo se puede eliminar esto?  
+El autor de Śrī Bhāṣya (Śrī Rāmānuja) ha declarado que  
+El único remedio para este obstáculo  
+es obtener el favor del Señor  
+y que esto solo puede ser hecho  
+por śaraṇāgati o auto-curandero al [^f132] Señor.  
+Esta declaración es hecha por él,  
+mientras comenta sobre el orden en que los sentidos, La mente y similares  
+deben controlarse como se indica en Kaṭha Upaniṣad [^f133].
 </details>
 
 
@@ -4060,10 +4144,12 @@ the mind and the like have to be controlled as stated in Kaṭha Upaniṣad[^f13
 
 All these hindrances to mokṣa are to be understood  
 in whatever is contrary to what is ordained in the three mysteries (mantras)  
-(e. g. the feeling that the jīva is independent and acts for his own purposes  
+(e. g. the feeling that the jīva is independent  
+and acts for his own purposes  
 which is opposed to the truths shown in the aṣṭākṣara),  
 in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama)  
 and also in the words ‘all thy sins' in the carama śloka .  
+
 These have to be thought of,  
 so that one may feel the suffering  
 which lies in walking on the hot sands of saṁsāra  
@@ -4072,16 +4158,22 @@ and desire to hasten towards the path leading to bliss.
 
 <details><summary>Español</summary>
 
-All these hindrances to mokṣa are to be understood  
-in whatever is contrary to what is ordained in the three mysteries (mantras)  
-(e. g. the feeling that the jīva is independent and acts for his own purposes  
-which is opposed to the truths shown in the aṣṭākṣara),  
-in the egoism, or sense of 'my' or 'mine' in the genitive mama in namah (na + mama)  
-and also in the words ‘all thy sins' in the carama śloka .  
-These have to be thought of,  
-so that one may feel the suffering  
-which lies in walking on the hot sands of saṁsāra  
-and desire to hasten towards the path leading to bliss.
+Todos estos obstáculos para mokṣa  
+deben ser entendidos  
+en lo que sea contrario a lo que se ordena en los tres misterios (mantras)  
+(por ejemplo, la sensación de que el Jīva es independiente  
+y actúa para sus propios fines  
+que se opone a las verdades  
+que se muestran en el aṣṭākṣara),  
+en el egoísmo, o sentido de 'mi' o 'mío' en la mamá genitiva en Namah (Na + Mama)  
+y también en las palabras  
+"todos tus pecados" en el Carama Śloka.  
+
+Estos tienen que ser pensados ​​en  
+para que uno pueda sentir el sufrimiento  
+que se encuentra en caminar sobre las arenas calientes de Saṁsāra  
+y deseo de apresurarse hacia  
+el camino que conduce a la dicha.
 </details>
 
 
@@ -4107,25 +4199,28 @@ and desire to hasten towards the path leading to bliss.
 Those who know these five have declared them  
 in order that I may not despair in mind  
 and in order that the darkness of ignorance may not confound me-  
-the five namely - the Lord of the lotus-born Lakṣmī ,  
-who stands as the one thing to be attained,  
-the jīva who loves the lord and craves for His grace by seeking His feet,  
-the means (or upāya) to be adopted by the jīva for the attainment,  
-and the fruit resulting therefrom,  
-as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
+the five namely - 
+
+- the Lord of the lotus-born Lakṣmī , who stands as the one thing to be attained,  
+- the jīva who loves the lord and craves for His grace by seeking His feet,  
+- the means (or upāya) to be adopted by the jīva for the attainment,  
+- and the fruit resulting therefrom,  
+- as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
 </details>
 
 <details><summary>Español</summary>
 
-Those who know these five have declared them  
-in order that I may not despair in mind  
-and in order that the darkness of ignorance may not confound me-  
-the five namely - the Lord of the lotus-born Lakṣmī ,  
-who stands as the one thing to be attained,  
-the jīva who loves the lord and craves for His grace by seeking His feet,  
-the means (or upāya) to be adopted by the jīva for the attainment,  
-and the fruit resulting therefrom,  
-as also the strong fetters of sin due to delusion or ignorance (which are hindrances).
+Aquellos que conocen estos cinco los han declarado  
+Para que no pueda desesperar en mente  
+y para que la oscuridad de la ignorancia no me confunda  
+los cinco a saber: 
+
+- el señor del Lakṣmī nacida en el loto ,  
+quien se destaca como la única cosa que se puede alcanzar,  
+- El Jīva que ama al Señor y anhela su gracia buscando sus pies,  
+- Los medios (o upāya) serán adoptados por el Jīva para el logro,  
+- y la fruta que resulta de allí,  
+- como también las fuertes grifos del pecado debido a la ilusión o la ignorancia (que son obstáculos).
 </details>
 
 
@@ -4154,21 +4249,23 @@ is the Supreme Brahman who is the śeṣī of all;
 I am also a fit person to attain Him;  
 the attainment should come to me as inheritance  
 due naturally to me as to the Sūris;  
-alas, by ny egoism and the ignorance arising from it, I have lost it,  
+alas, by my egoism and the ignorance arising from it, I have lost it,  
 but I have been taught that, by surrendering myself to the divine couple who are my śeṣīs,  
 I can now attain it.
 </details>
 
 <details><summary>Español</summary>
 
-That which is to be attained  
-is the Supreme Brahman who is the śeṣī of all;  
-I am also a fit person to attain Him;  
-the attainment should come to me as inheritance  
-due naturally to me as to the Sūris;  
-alas, by ny egoism and the ignorance arising from it, I have lost it,  
-but I have been taught that, by surrendering myself to the divine couple who are my śeṣīs,  
-I can now attain it.
+Lo que se debe alcanzar  
+es el Brahman supremo que es el Śeṣī de todos;  
+También soy una persona en forma para alcanzarlo;  
+El logro debería llegar a mí como herencia  
+Debido naturalmente a mí en cuanto a los sūris;  
+por desgracia, por mi egoísmo y la ignorancia que surge de él,  
+lo he perdido,  
+Pero me han enseñado que,  
+al entregarme a la pareja divina, que son mis Śeṣīs,  
+Ahora puedo alcanzarlo.
 </details>
 
 
