@@ -6,20 +6,38 @@ title = "०५ तत्त्व-त्रय-चिन्तनाधिक�
 ०५ तत्त्वत्रयचिन्तनाधिकारः  
 ॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+॥ श्रीमद्रहस्यत्रयसारे तत्त्वत्रयचिन्तनाधिकारः ॥ ५ ॥  
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+चिन्तन-शब्द-प्रयोगेण पूर्वपक्षोल्लेखादि-सहितो विस्तार उच्यते। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ॥ श्रीमद्रहस्यत्रयसारे तत्त्वत्रयचिन्तनाधिकारः ॥ ५ ॥
+</details>
+
 
 <details><summary>English</summary>
 
 (5) THE CHAPTER ON THE THREE 'REALS'  (OR TATVAS) page107
 </details>
 
-
+## प्रयोजनम्
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
++++(चिद्-अचिद्-ईश्वरेषु भ्रान्ति-द्वयम् …)+++  
 प्रकृत्य्-आत्म-भ्रान्तिर् **गलति** चिद्-अचिल्-लक्षण-धिया,  
 तथा जीवेशैक्य-प्रभृति-कलहस् तद्+++(=जीवेश)+++-विभजनात् +++(गलति)+++ ।  
++++("भोक्ता भोग्यं प्रेरितारञ्च मत्वा सर्वं प्रोक्तं त्रिविधं ब्रह्ममेतत् ।"→)+++  
 अतो +++(जीवः→)+++ भोक्ता, भोग्यं, तद्-उभय-नियन्तेति निगमैर्  
-विभक्तं नस् **तत्त्व-त्रयम् उपदिशन्त्य्** अक्षत-धियः ॥ १४ ॥
+विभक्तं नस् **तत्त्व-त्रयम् उपदिशन्त्य्** अक्षत-धियः ॥ १४ ॥  
 </details>
 
 <details><summary>English</summary>
@@ -59,22 +77,32 @@ and He who rules over both of them (Iśvara).
 र्विभक्तं नस्तत्वत्रयमुपदिशन्त्यक्षतधियः ॥ १४ ॥
 </details>
 
+<details><summary>English</summary>
 
 CLASSIFICATION OF TATVAS OR REALS AND ITS USE:
+</details>
+
+<details><summary>Español</summary>
+
+CLASSIFICATION OF TATVAS OR REALS AND ITS USE:
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संबन्धमुम्, अर्थपञ्चकमुङ् +गूड,  
-आऱु अर्थम् अऱिय-वेण्डिय् इरुक्क इवट्रिल्  
-एकदेशमान तत्वत्रयत्तै  
-मुमुक्षुवुक्कु विशेषित्त् अऱिय वेणुम् ऎण्ड्रु  
++++(शरीर-शरीरि-)+++संबन्धमुम्, +++(प्राप्य-प्राप्तृ-फलोपाय-विघ्नाः→)+++ अर्थ-पञ्चकम् उङ् +गूड,  
+आऱु अर्थम् अऱिय-वेण्डिय् इरुक्क  
+इवट्रिल् एकदेशम् आन +++(चिद्-अचिद्-ईश्वर←)+++**तत्व-त्रयत्तै**  
+मुमुक्षुवुक्कु **विशेषित्त् अऱिय वेणुम्** ऎण्ड्रु  
 आचार्यर्गळ् उपदेशित्तुप् पोरुगैक्  
-कडिय् ऎन्न् ऎन्निल्;  
-अदुक्क् अडि प्रकृत्य्-आत्म-भ्रममुम्  
-स्वतन्त्रात्म-भ्रममुम्  
-इदुक्कु निदानम् आन अनीश्वर-वाद-रुचियुम्  
+कडिय्+++(=बीजम्)+++ ऎन्न् ऎन्निल्;  
+
+अदुक्क् अडि प्रकृत्य्-आत्म-भ्रमम् उम्  
+स्वतन्त्रात्म-भ्रमम् उम्  
+इदुक्कु निदानम् आन **अनीश्वर-वाद-रुचिय्** उम्  
 आगिऱ महा-विरोधिगळै  
-मुऱ्‌पडक्क् अऴिक्क प्राप्तम् आगै.
+मुऱ्+++(←न्)+++-‌पडक्क्+++(=स्पर्शम्)+++ **अऴिक्क प्राप्तम्** आगै.+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -97,13 +125,20 @@ It is necessary to root out the delusion that the body is the atma and that the 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्तै निनैत्तु  
-भोक्तृ-भोग्य-नियन्तृ-रूपत्ताले  
+भोक्तृ-भोग्य-नियन्तृ-रूपत्ताल् ए  
 शास्त्रङ्गळिले तत्व-विवेकम् पण्णुगिऱदु.
 </details>
 
 <details><summary>English</summary>
 
 The śāstrās, therefore, divide Reality into three classes ; the experiencing subject, the object of experience or enjoyment, and the Ruler who controls and directs them. 
+
+</details>
+
+<details><summary>Español</summary>
+
+The śāstrās, therefore, divide Reality into three classes ; the experiencing subject, the object of experience or enjoyment, and the Ruler who controls and directs them. 
+
 </details>
 
 <details><summary>मूलम्</summary>
@@ -111,34 +146,163 @@ The śāstrās, therefore, divide Reality into three classes ; the experiencing 
 इत्तै निनैत्तु भोक्तृभोग्य-नियन्तृरूपत्ताले शास्त्रङ्गळिले तत्वविवेकम् पण्णुगिऱदु.
 </details>
 
+## अचित्
+
 <details><summary>English</summary>
 
-Among them, non-sentient things which are the objects of experience are of three kinds (1) Prakṛti or matter which has the three qualities of sattvam, rajas and tamas (2) Kala or time and (3) Śuddha Satvam, the substance of which the transcendental region beyond matter called Vaikuṇṭha   is made. 
+Among them, non-sentient things which are the objects of experience are of three kinds (1) Prakṛti or matter which has the three qualities of sattvam, rajas and tamas (2) Kala or time and (3) Śuddha Satvam, the substance of which the transcendental region beyond matter called Vaikuṇṭha   is made.
 </details>
 
+<details><summary>Español</summary>
+
+Among them, non-sentient things which are the objects of experience are of three kinds (1) Prakṛti or matter which has the three qualities of sattvam, rajas and tamas (2) Kala or time and (3) Śuddha Satvam, the substance of which the transcendental region beyond matter called Vaikuṇṭha   is made.
+</details>
+
+
+### प्रकृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवट्रिल् वैत्तुक्कॊण्डु 
 
-> “अचेतना परार्था च  
-नित्या सततविक्रिया ।  
-त्रिगुणा कर्मिणां क्षेत्रं  
-प्रकृते रूपम् उच्यते ॥” (परमसम्हिदा.) 
+> “**अचेतना** परार्था च  
+नित्या सतत-विक्रिया ।  
+त्रि-गुणा कर्मिणां क्षेत्रं  
+प्रकृते रूपम् उच्यते ॥” (परमसंहिता.) 
 </details>
 
 <details><summary>English</summary>
 
-The nature of (1) Prakṛti has been thus described :-"It is [^f134] non-sentient (achetana). It exists (always) for others and it is eternal, but subject always to change or modification. It has three qualities sattvam, rajas and tamas and is the field of action (karma) for the jīva". 
+The nature of (1) Prakṛti has been thus described :-
+
+> "It is [^f134] non-sentient (achetana).  
+It exists (always) for others and it is eternal,  
+but subject always to change or modification.  
+It has three qualities sattvam, rajas and tamas  
+and is the field of action (karma) for the jīva". 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-इवट्रिल् वैत्तुक्कॊण्डु “अचेतना परार्था च नित्या सततविक्रिया । त्रिगुणा कर्मिणां क्षेत्रं प्रकृते रूपमुच्यते ॥” (परमसम्हिदा.) 
+इवट्रिल् वैत्तुक्कॊण्डु “अचेतना परार्था च नित्या सततविक्रिया । त्रिगुणा कर्मिणां क्षेत्रं प्रकृते रूपमुच्यते ॥” (परमसंहिता.) 
+</details>
+
+### कालः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अनादिर् भगवान् कालो  
+नान्तोऽस्य द्विज विद्यते”  
+(वि-पु. 1-2-26),
+</details>
+
+<details><summary>English</summary>
+
+The nature of (2) Kala or time is described thus :- " Bhagavān [^f135] Kala (i.e.) Time, which is the body of Bhagavān, has no beginning nor end." 
+</details>
+
+<details><summary>Español</summary>
+
+The nature of (2) Kala or time is described thus :- " Bhagavān [^f135] Kala (i.e.) Time, which is the body of Bhagavān, has no beginning nor end." 
 </details>
 
 
-The nature of (2) Kala or time is described thus :- " Bhagavān [^f135] Kala (i.e.) Time, which is the body of Bhagavān, has no beginning nor end." "It takes [^f136] the forms of such divisions as kalaa and muhoortha which are respectively 1-3/8 minutes and 1/30th part of a day (and is the cause of the modifications of matter). But it causes no change or modification in the transcendental world (Aprākritaloka) beyond matter". The nature of the transcendental world beyond matter is such that it is made of s'uddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. God controls time there ; time is not the [^f138] cause of any change or modification in the world of Śuddha-sattvam (as it is in the world of matter). Thus the nature of Prakṛti, Kāla and Śuddha sattva which belong to three classes of non-sentient things (achetana), has been described.
+<details><summary>मूलम्</summary>
+
+“अनादिर्भगवान् कालो नान्तोऽस्य द्विज विद्यते” (वि-पु. 1-2-26),
+</details>
+
+
+### शुद्ध-सत्त्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “कला-मुहूर्तादिमयश् च कालो  
+न यद्-+++(नित्य-)+++विभूतेः परिणाम-हेतुः”  
+(वि-पु. 4-1-84),
+</details>
+
+<details><summary>English</summary>
+
+"It takes [^f136] the forms of such divisions as kalaa and muhoortha which are respectively 1-3/8 minutes and 1/30th part of a day (and is the cause of the modifications of matter). But it causes no change or modification in the transcendental world (Aprākritaloka) beyond matter". 
+</details>
+
+<details><summary>Español</summary>
+
+"It takes [^f136] the forms of such divisions as kalaa and muhoortha which are respectively 1-3/8 minutes and 1/30th part of a day (and is the cause of the modifications of matter). But it causes no change or modification in the transcendental world (Aprākritaloka) beyond matter". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“कलामुहूर्तादिमयश्च कालो न यद्विभूतेः परिणामहेतुः” (वि-पु. 4-1-84),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(स्वयम्प्रकाशत्वम्←)+++“ज्ञानानन्दमया लोकाः” (पाञ्चरात्रम्),
+</details>
+
+<details><summary>English</summary>
+
+The nature of the transcendental world beyond matter is such that it is made of s'uddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. 
+</details>
+
+<details><summary>Español</summary>
+
+The nature of the transcendental world beyond matter is such that it is made of s'uddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ज्ञानानन्दमया लोकाः” (पाञ्चरात्रम्),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “कालं स पचते तत्र +++(द्रव्य-परिणामादिषु)+++  
+न कालस् तत्र वै प्रभुः +++(अपि तु भगवत्-सङ्कल्पः)+++” (भार-शान्ति. 196-9.)
+</details>
+
+<details><summary>English</summary>
+
+God controls time there ; time is not the [^f138] cause of any change or modification in the world of Śuddha-sattvam (as it is in the world of matter). 
+</details>
+
+<details><summary>Español</summary>
+
+God controls time there ; time is not the [^f138] cause of any change or modification in the world of Śuddha-sattvam (as it is in the world of matter). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“कालं स पचते तत्र न कालस्तत्र वै प्रभुः” (भार-शान्ति. 196-9.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादिगळिल् ए  
+त्रि-गुण--काल--शुद्ध-सत्व-रूपङ्गळ् आन त्रि-विधाचेतनङ्गळ्-उडैय स्वभावञ् चॊल्लिट्रु.
+</details>
+
+<details><summary>English</summary>
+
+Thus the nature of Prakṛti, Kāla and Śuddha sattva which belong to three classes of non-sentient things (achetana), has been described.
+</details>
+
+<details><summary>Español</summary>
+
+Thus the nature of Prakṛti, Kāla and Śuddha sattva which belong to three classes of non-sentient things (achetana), has been described.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले त्रिगुणकालशुद्धसत्वरूपङ्गळान त्रिविधाचेतनङ्गळुडैय स्वभावञ् चॊल्लिट्रु.
+</details>
+
+
+
 
 [^f134]: Parama Saṁhitā: 2
 
@@ -150,9 +314,138 @@ The nature of (2) Kala or time is described thus :- " Bhagavān [^f135] Kala (i.
 
 [^f138]: Mahābhārata: Śāntiparva 196-9
 
-NOW FOR THE EXPERIENCING SUBJECT OR JĪVA:
 
-"The jivātma is [^f139] neither a god nor a man"; "He is  [^f140] neither a god nor a man”. (That is: These distinctions are based only on the respective bodies, whereas the soul within has no such distinctions.) The jīva is of three kinds :- Baddha or the soul in bondage is called in the Gita " Kshara" (because he is in contact with matter which is subject to change) All beings[^f141] (from Brahma to the blade of grass) are 'Ksharas' or Baddhas. The mukta or the soul which has obtained release from contact with matter is no longer subject to change and is called akṣara or Kootastha (because it is imputable). The third class of jīvas are the Sūris[^f142] who are described as seeing eternally the transcendental world beyond matter. The third class of "Real' is Iśvara who has been thus described :- He is all ;[^f143] He knows all; He sees all; He possesses all strength, all knowledge, all power, all wealth : He is without fatigue, without lassitude, without fear, without anger, without desire and other such (blemishes). Thus has the nature of Iśvara been taught,
+
+## जीवः
+<details><summary>English</summary>
+
+NOW FOR THE EXPERIENCING SUBJECT OR JĪVA:
+</details>
+
+<details><summary>Español</summary>
+
+NOW FOR THE EXPERIENCING SUBJECT OR JĪVA:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“पुमान् न देवो न नरः” (वि-पु. 2-13-98.),
+</details>
+
+<details><summary>English</summary>
+
+"The jivātma is [^f139] neither a god nor a man";
+</details>
+
+<details><summary>Español</summary>
+
+"The jivātma is [^f139] neither a god nor a man";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“पुमान्न देवो न नरः” (वि-पु. 2-13-98.),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“नायं देवो न मर्त्यो वा”(),
+</details>
+
+<details><summary>English</summary>
+
+"He is  [^f140] neither a god nor a man”.  
+(That is: These distinctions are based only on the respective bodies, whereas the soul within has no such distinctions.) 
+</details>
+
+<details><summary>Español</summary>
+
+"He is  [^f140] neither a god nor a man”.  
+(That is: These distinctions are based only on the respective bodies, whereas the soul within has no such distinctions.) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“नायं देवो न मर्त्यो वा”(),
+</details>
+
+### बद्धः, मुक्तः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “क्षरस् सर्वाणि भूतानि  
+कुटस्थोऽक्षर उच्यते” (गीता 15-16)
+</details>
+
+<details><summary>English</summary>
+
+The jīva is of three kinds :-  
+
+Baddha or the soul in bondage is called in the Gita "Kshara"  
+(because he is in contact with matter which is subject to change)  
+All beings[^f141] (from Brahma to the blade of grass) are 'Ksharas' or Baddhas.  
+
+The mukta or the soul which has obtained release from contact with matter  
+is no longer subject to change and is called akṣara or Kootastha (because it is imputable).  
+</details>
+
+<details><summary>Español</summary>
+
+The jīva is of three kinds :-  
+
+Baddha or the soul in bondage is called in the Gita "Kshara"  
+(because he is in contact with matter which is subject to change)  
+All beings[^f141] (from Brahma to the blade of grass) are 'Ksharas' or Baddhas.  
+
+The mukta or the soul which has obtained release from contact with matter  
+is no longer subject to change and is called akṣara or Kootastha (because it is imputable).  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“क्षरस्सर्वाणि भूतानि कुटस्थोऽक्षर उच्यते” (गीता 15-16)
+</details>
+
+### नित्य-सूरिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“यद्वै पश्यन्ति सूरयः” (वि-पु. 1-6-39)
+</details>
+
+<details><summary>English</summary>
+
+The third class of jīvas are the Sūris[^f142] who are described as seeing eternally the transcendental world beyond matter.  
+</details>
+
+<details><summary>Español</summary>
+
+The third class of jīvas are the Sūris[^f142] who are described as seeing eternally the transcendental world beyond matter.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“यद्वै पश्यन्ति सूरयः” (वि-पु. 1-6-39)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळाले त्रिविध-जीवर्गळ्-उडैय प्रकारम् विवेकिक्कप्-पट्टदु.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले त्रिविधजीवर्गळुडैय प्रकारम् विवेकिक्कप्पट्टदु.
+</details>
+
+
+## ईश्वरः  
+
+
+
+The third class of 'Real' is Iśvara who has been thus described :- He is all ;[^f143] He knows all; He sees all; He possesses all strength, all knowledge, all power, all wealth : He is without fatigue, without lassitude, without fear, without anger, without desire and other such (blemishes). Thus has the nature of Iśvara been taught,
 
 [^f139]: Viṣṇupurāṇa: 2-13-98
 

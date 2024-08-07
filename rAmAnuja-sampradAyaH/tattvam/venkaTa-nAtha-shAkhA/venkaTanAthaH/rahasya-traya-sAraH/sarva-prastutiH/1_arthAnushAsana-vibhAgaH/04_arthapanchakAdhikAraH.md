@@ -2173,7 +2173,7 @@ Los VIBHŪTIS de Bagavān: LILÃ AND BHOGA:
 
 <details><summary>Español</summary>
 
-"Estos [^f115] son ​​los Vibhūtis (glorias) de Viṣṇu (i. E.) Brahma, Manu y otros, el tiempo y todos los seres".
+"Estos [^f115] son los Vibhūtis (glorias) de Viṣṇu (i. E.) Brahma, Manu y otros, el tiempo y todos los seres".
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4081,8 +4081,8 @@ para deshacerse de estos obstáculos:
 
 > ‘‘तस्य च वशी-करणं तच्-छरणागतिर् एव” 
 
-ऎण्ड्रु कठ-वल्लियिल्  
-वशी-कार्य-परंपरैयै वगुत्त-विडत्तिल्  
+ऎण्ड्रु कठ-वल्लियिल् +++(→तद्-विवरणसमये श्रीभाष्ये)+++  
++++(इन्द्रिय-मन-आदि-)+++वशी-कार्य-परंपरैयै वगुत्त-विडत्तिल्  
 श्री-भाष्य-कारर् अरुळिच् चॆय्दार्.
 </details>
 
@@ -4136,7 +4136,7 @@ deben controlarse como se indica en Kaṭha Upaniṣad [^f133].
 रहस्य-त्रयत्तिल् विधिक्किऱ अर्थङ्गळ्-उडैय +++(विपरीतार्थ-बोधक-)+++ व्यवच्छेद-शक्तियाल् उम्,  
 नमस्सुक्कळिल् म-कारङ्गळिल् षष्ठिगळाल् उम्,  
 "सर्व-पाप"-शब्दत्ताल् उम् अनुसन्धित्तु  
-संसारत्तिल् अडिच्-चूट्टाल् ए पेट्रुक्कु उऱुप्प् आन वऴिगळिल् ए  
+संसारत्तिल् अडिच्+++(=पाद)+++-चूट्टाल्+++(=तापेन)+++ ए पेट्रुक्कु+++(=पुरुषार्थाय)+++ उऱुप्प्+++(=कारणम्)+++ आन वऴिगळिल् ए  
 त्वरिक्क प्राप्तम्.
 </details>
 
@@ -4169,7 +4169,7 @@ en el egoísmo, o sentido de 'mi' o 'mío' en la mamá genitiva en Namah (Na + M
 y también en las palabras  
 "todos tus pecados" en el Carama Śloka.  
 
-Estos tienen que ser pensados ​​en  
+Estos tienen que ser pensados en  
 para que uno pueda sentir el sufrimiento  
 que se encuentra en caminar sobre las arenas calientes de Saṁsāra  
 y deseo de apresurarse hacia  
@@ -4188,10 +4188,10 @@ el camino que conduce a la dicha.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-पॊरुळ्-ऒण्ड्र्-ऎन निण्ड्र पू-मगळ् ना-दन् अवन्-अडि-सेर्न्दु  
-अरुळ्-ऒण्ड्र् उम् अन्बन् अवन् कॊळ् उबायम् अमैन्द पयन्  
-मरुळ् ऒण्ड्रिय विनै वल्व्-इलङ्ग् ऎण्ड्रु इवैय् ऐन्द् अऱिवार्  
-इरुळ् ऒण्ड्र् इला-वगै ऎन्-मनन् देऱ इयम्ब् इनरे. // 11 //
+पॊरुळ् ऒण्ड्र् ऎन निण्ड्र पू-मगळ्-नाथन् +++(ब्रह्म)+++, अवन्-अडि-सेर्न्दु  
+अरुळ्-ऒण्ड्रुम्+++(=मेलनम्)+++-अन्बन्+++(=स्नेही [जीवः])+++, अवन् कॊळ् उपायम् +++(भक्ति-प्रपत्ती)+++, अमैन्द+++(=योग्य)+++ पयन्+++(=फलम्)+++,  
+मरुळ्+++(=अविद्या)+++-ऒण्ड्रिय+++(=प्रापक)+++-विनै+++(=पापम्)+++--वल्+++(=बल)+++-विलङ्ग्+++(=शृङ्खला [इति प्राप्तिविरोधि])+++ ऎण्ड्रु इवैय् ऐन्द् अऱिवार्  
+इरुळ् ऒण्ड्र् इला-वगै ऎन्-मनन् तेऱ+++(=स्वच्छ)+++ इयम्बिनर्+++(=उपदेशकाः)+++ ए. // 11 //
 </details>
 
 <details><summary>English</summary>
