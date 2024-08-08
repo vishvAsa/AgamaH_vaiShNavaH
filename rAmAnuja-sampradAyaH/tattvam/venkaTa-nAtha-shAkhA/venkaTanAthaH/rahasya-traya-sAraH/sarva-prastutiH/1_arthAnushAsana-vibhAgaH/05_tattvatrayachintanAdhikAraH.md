@@ -443,9 +443,50 @@ The third class of jīvas are the Sūris[^f142] who are described as seeing eter
 
 ## ईश्वरः  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “सर्वज्ञस् सर्व-दृक् सर्व-  
+शक्ति-ज्ञान-बलर्द्धिमान् ।  
+क्लम-तन्द्रा-भय-क्रोध-  
+कामादिभिर् असंयुतः ॥”  
+(वि-पु. 5-1-46) 
+
+इत्य्-आदिगळाल् ए ईश्वर-स्वभावम् उपदिष्टम् आयिट्रु. 
+</details>
+
+<details><summary>English</summary>
+
+The third class of 'Real' is Iśvara who has been thus described :-  
+He is all ;[^f143]  
+He knows all;  
+He sees all;  
+He possesses all strength, all knowledge, all power, all wealth :  
+He is without fatigue, without lassitude,  
+without fear, without anger, without desire and other such (blemishes).  
+Thus has the nature of Iśvara been taught,
+
+</details>
+
+<details><summary>Español</summary>
+
+The third class of 'Real' is Iśvara who has been thus described :-  
+He is all ;[^f143]  
+He knows all;  
+He sees all;  
+He possesses all strength, all knowledge, all power, all wealth :  
+He is without fatigue, without lassitude,  
+without fear, without anger, without desire and other such (blemishes).  
+Thus has the nature of Iśvara been taught,
+
+</details>
 
 
-The third class of 'Real' is Iśvara who has been thus described :- He is all ;[^f143] He knows all; He sees all; He possesses all strength, all knowledge, all power, all wealth : He is without fatigue, without lassitude, without fear, without anger, without desire and other such (blemishes). Thus has the nature of Iśvara been taught,
+<details><summary>मूलम्</summary>
+
+“सर्वज्ञस्सर्वदृक्सर्वशक्ति-ज्ञानबलर्द्धिमान् । क्लमतन्द्री भयक्रोधकामादिभिरसंयुतः ॥” (वि-पु. 5-1-46) इत्यादिगळाले ईश्वरस्वभावम् उपदिष्टमायिट्रु. 
+</details>
+
+
 
 [^f139]: Viṣṇupurāṇa: 2-13-98
 
@@ -457,7 +498,40 @@ The third class of 'Real' is Iśvara who has been thus described :- He is all ;[
 
 [^f143]: Viṣṇupurāṇa: 5-1-47
 
-Thus the three realities consist of the Ruler and the Ruled (the latter including prakṛti and the sentient beings) and our ācārya s (Śrī Yāmunācārya and Śrī Rāmānujācārya) have stated this concisely in the words "(Iśvara)[^30] on whom depend the essential nature (svarūpa), the continuance (sthiti) and the activity (pravṛtti) of the three kinds of sentient beings and of non-sentient things with all their differences". The three kinds of sentient beings are those that are in bondage (baddha), those that have obtained release (mukta) and those that are eternally free (nitya). The three kinds of non-sentient things are Prakṛti with its three qualities (sattvam, rajas and tamas). Time, and Śuddhasattvam. The essential nature (svarūpa) means the substance or thing which is defined by attributes peculiar and unique to it. Continuance (sthiti, means continuance of the thing or object in time. This is eternal for eternal things. In the case of non-eternal things, this continuance is subject to expansion and contraction in accordance with the will of Iśvara. Activity or pravṛtti includes action and abstention from action. All these three : the essential nature (svarūpa), the continuance in time (sthithi) and the activity (pravṛtti) are seen (by perception and other pramaṇas) to be different in the case of each thing or object,
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-ईशेशितव्य-रूपम् आन तत्त्व-त्रयम् निऱ्‌कुम् निलैयै  
+
+> “स्वाधीन--त्रि-विध+++(←चेतने, अचेतने च)+++--चेतनाचेतन--स्व-रूप--स्थिति-प्रवृत्ति-भेदम् +++(विष्णुम् …)+++”
+
+ऎण्ड्रु सुरुङ्ग+++(=शृङ्गम्)+++ अरुळिच् चॆय्दार्.
+</details>
+
+<details><summary>English</summary>
+
+Thus the three realities consist of the Ruler and the Ruled (the latter including prakṛti and the sentient beings) and our ācārya s (Śrī Yāmunācārya and Śrī Rāmānujācārya) have stated this concisely in the words  
+
+> "(Iśvara)[^30] on whom depend the essential nature (svarūpa), the continuance (sthiti) and the activity (pravṛtti) of the three kinds of sentient beings and of non-sentient things with all their differences". 
+</details>
+
+<details><summary>Español</summary>
+
+Thus the three realities consist of the Ruler and the Ruled (the latter including prakṛti and the sentient beings) and our ācārya s (Śrī Yāmunācārya and Śrī Rāmānujācārya) have stated this concisely in the words  
+
+> "(Iśvara)[^30] on whom depend the essential nature (svarūpa), the continuance (sthiti) and the activity (pravṛtti) of the three kinds of sentient beings and of non-sentient things with all their differences". 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वीशेशितव्यरूपमान तत्त्वत्रयम् निऱ्‌कुम् निलैयै “स्वाधीनत्रिविधचेतनाचेतनस्वरूपस्थितिप्रवृत्तिभेदम्” ऎण्ड्रु सुरुङ्ग अरुळिच्चॆय्दार्.
+</details>
+
+
+
+The three kinds of sentient beings are those that are in bondage (baddha), those that have obtained release (mukta) and those that are eternally free (nitya). The three kinds of non-sentient things are Prakṛti with its three qualities (sattvam, rajas and tamas). Time, and Śuddhasattvam. The essential nature (svarūpa) means the substance or thing which is defined by attributes peculiar and unique to it. Continuance (sthiti, means continuance of the thing or object in time. This is eternal for eternal things. In the case of non-eternal things, this continuance is subject to expansion and contraction in accordance with the will of Iśvara. Activity or pravṛtti includes action and abstention from action. All these three : the essential nature (svarūpa), the continuance in time (sthithi) and the activity (pravṛtti) are seen (by perception and other pramaṇas) to be different in the case of each thing or object,
 
 [^30]: Aḷavandār: Atmasiddhi and Rāmānuja’s Vaikuṇṭha gadyam.
 
