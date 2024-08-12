@@ -498,7 +498,7 @@ Thus has the nature of Iśvara been taught,
 
 [^f143]: Viṣṇupurāṇa: 5-1-47
 
-
+## स्वाधीन-त्रि-विध-चेतनाचेतन--स्व-रूप--स्थिति-प्रवृत्ति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व्-ईशेशितव्य-रूपम् आन तत्त्व-त्रयम् निऱ्‌कुम् निलैयै  
@@ -529,17 +529,425 @@ Thus the three realities consist of the Ruler and the Ruled (the latter includin
 इव्वीशेशितव्यरूपमान तत्त्वत्रयम् निऱ्‌कुम् निलैयै “स्वाधीनत्रिविधचेतनाचेतनस्वरूपस्थितिप्रवृत्तिभेदम्” ऎण्ड्रु सुरुङ्ग अरुळिच्चॆय्दार्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रि-विध-चेतनर् ऎण्ड्रदु  
+बद्धरैय् उम् मुक्तरैय् उम् नित्यरैय् उम्. 
+</details>
+
+<details><summary>English</summary>
+
+The three kinds of sentient beings are those that are in bondage (baddha), those that have obtained release (mukta) and those that are eternally free (nitya). 
+</details>
+
+<details><summary>Español</summary>
+
+The three kinds of sentient beings are those that are in bondage (baddha), those that have obtained release (mukta) and those that are eternally free (nitya). 
+</details>
 
 
-The three kinds of sentient beings are those that are in bondage (baddha), those that have obtained release (mukta) and those that are eternally free (nitya). The three kinds of non-sentient things are Prakṛti with its three qualities (sattvam, rajas and tamas). Time, and Śuddhasattvam. The essential nature (svarūpa) means the substance or thing which is defined by attributes peculiar and unique to it. Continuance (sthiti, means continuance of the thing or object in time. This is eternal for eternal things. In the case of non-eternal things, this continuance is subject to expansion and contraction in accordance with the will of Iśvara. Activity or pravṛtti includes action and abstention from action. All these three : the essential nature (svarūpa), the continuance in time (sthithi) and the activity (pravṛtti) are seen (by perception and other pramaṇas) to be different in the case of each thing or object,
+<details><summary>मूलम्</summary>
+
+त्रिविधचेतनरॆण्ड्रदु बद्धरैयुम् मुक्तरैयुम् नित्यरैयुम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रि-विधाचेतनम् ऎण्ड्रदु  
+त्रि-गुण-द्रव्यत्तैय् उम्, कालत्तैय् उम्, शुद्ध-सत्वम् आन द्रव्यत्तैय् उम्.
+</details>
+
+<details><summary>English</summary>
+
+The three kinds of non-sentient things are Prakṛti with its three qualities (sattvam, rajas and tamas), Time, and Śuddhasattvam. 
+</details>
+
+<details><summary>Español</summary>
+
+The three kinds of non-sentient things are Prakṛti with its three qualities (sattvam, rajas and tamas), Time, and Śuddhasattvam. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्रिविधाचेतनमॆण्ड्रदु त्रिगुणद्रव्यत्तैयुम् कालत्तैयुम् शुद्धसत्वमान द्रव्यत्तैयुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वरूपम् ऎण्ड्रदु स्वासाधारण-धर्मत्ताल् ए निरूपितम् आन धर्मियै.
+</details>
+
+<details><summary>English</summary>
+
+The essential nature (svarūpa) means the substance or thing which is defined by attributes peculiar and unique to it. 
+</details>
+
+<details><summary>Español</summary>
+
+The essential nature (svarūpa) means the substance or thing which is defined by attributes peculiar and unique to it. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वरूपमॆण्ड्रदु स्वासाधारणधर्मत्ताले निरूपितमान धर्मियै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्थितिय् आवदु  
+इदिन्-उडैय कालान्तरानुवृत्ति.
+</details>
+
+<details><summary>English</summary>
+
+Continuance (sthiti, means continuance of the thing or object in time. 
+</details>
+
+<details><summary>Español</summary>
+
+Continuance (sthiti, means continuance of the thing or object in time. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्थितियावदु इदिनुडैय कालान्तरानुवृत्ति.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु-दान् +++(→स्थितिः)+++ नित्यवस्तुक्कळुक्कु नित्यैय् आय् इरुक्कुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+This is eternal for eternal things. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+This is eternal for eternal things. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुदान् नित्यवस्तुक्कळुक्कु नित्यैयायिरुक्कुम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनित्य-वस्तुक्कळुक्कु ईश्वर-सङ्कल्पत्तुक्क् ईडाग  
+एऱिय्+++(=वृद्धिः)+++ उञ् शुरुङ्गिय्+++(=सङ्कोच)+++ उम् इरुक्कुम्.
+</details>
+
+<details><summary>English</summary>
+
+In the case of non-eternal things, this continuance is subject to expansion and contraction in accordance with the will of Iśvara. 
+</details>
+
+<details><summary>Español</summary>
+
+In the case of non-eternal things, this continuance is subject to expansion and contraction in accordance with the will of Iśvara. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनित्य-वस्तुक्कळुक्कु ईश्वरसङ्कल्पत्तुक्कीडाग एऱियुञ् जुरुङ्गियुमिरुक्कुम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु प्रवृत्तिय् आवदु प्रवृत्ति-निवृत्ति-रूपम् आन व्यापारम्.
+</details>
+
+<details><summary>English</summary>
+
+Activity or pravṛtti includes action and abstention from action. 
+</details>
+
+<details><summary>Español</summary>
+
+Activity or pravṛtti includes action and abstention from action. 
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु प्रवृत्तियावदु प्रवृत्तिनिवृत्तिरूपमान व्यापारम्.
+</details>
+
+## प्रमाणानि, प्रतीतिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् ऎल्लाम् +++(→स्वरूप-स्थिति-प्रवृत्तयः)+++ वस्तुक्कळ्-तोऱुम्+++(=प्रत्येकतया)+++ प्रमाण-प्रतिनियतम् आय् +++(भेदेन)+++ इरुक्कुम्. 
+</details>
+
+<details><summary>English</summary>
+
+All these three : the essential nature (svarūpa), the continuance in time (sthithi) and the activity (pravṛtti) are seen (by perception and other pramaṇas) to be different in the case of each thing or object.
+</details>
+
+<details><summary>Español</summary>
+
+All these three : the essential nature (svarūpa), the continuance in time (sthithi) and the activity (pravṛtti) are seen (by perception and other pramaṇas) to be different in the case of each thing or object.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयॆल्लाम् वस्तुक्कळ् तोऱुम् प्रमाणप्रतिनियतमायिरुक्कुम्. 
+</details>
+
 
 [^30]: Aḷavandār: Atmasiddhi and Rāmānuja’s Vaikuṇṭha gadyam.
 
-When the pramāṇas or sources of knowledge (like perception and inference) reveal an object or thing, they disclose the essential Nature or svarūpa of the object, the attributes that define it, the (other) qualities of the object so defined and also its activities. The essential nature is always revealed as endowed with the attributes that define it. It is not possible to speak of the essential nature of a thing (svarūpa) except in terms of the respective attributes. To speak of an object minus its attributes would be as meaningless as to speak of a hare's horns.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् प्रमाणङ्गळ् वस्तुक्कळैक् काट्टुम् पोदु  
+अव्वो वस्तुक्कळिन् स्व-रूपत्तैय् उम्,  
+स्व-रूप-निरूपक-धर्मङ्गळैय् उम्,  
+निरूपित--स्व-रूप--विशेषणङ्गळैय् उम्,  
+व्यापारङ्गळैय् उङ् काट्टुम्.
+</details>
+
+<details><summary>English</summary>
+
+When the pramāṇas or sources of knowledge (like perception and inference)  
+reveal an object or thing,  
+they disclose the essential Nature or svarūpa of the object,  
+the attributes that define it,  
+the (other) qualities of the object so defined  
+and also its activities. 
+</details>
+
+<details><summary>Español</summary>
+
+When the pramāṇas or sources of knowledge (like perception and inference)  
+reveal an object or thing,  
+they disclose the essential Nature or svarūpa of the object,  
+the attributes that define it,  
+the (other) qualities of the object so defined  
+and also its activities. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रमाणङ्गळ् वस्तुक्कळैक् काट्टुम् पोदु अव्वो वस्तुक्कळिन् स्वरूपत्तैयुम्, स्वरूपनिरूपकधर्मङ्गळैयुम्, निरूपितस्वरूपविशेषणङ्गळैयुम्, व्यापारङ्गळैयुङ् गाट्टुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् स्वरूपत्तै स्व-रूप--निरूपक-धर्मङ्गळाल् ए  
+विशिष्टम् आगव् ए काट्टुम्.
+</details>
+
+<details><summary>English</summary>
+
+The essential nature is always revealed  
+as endowed with the attributes that define it. 
+</details>
+
+<details><summary>Español</summary>
+
+The essential nature is always revealed as endowed with the attributes that define it. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिल् स्वरूपत्तै स्वरूपनिरूपकधर्मङ्गळाले विशिष्टमागवे काट्टुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्द स्व-रूपत्तैच् चॊल्लुम् पोदु 
+अव्व्-ओ धर्मङ्गळैय् इट्ट्-अल्लदु सॊल्ल-वॊण्णादु.
+</details>
+
+<details><summary>English</summary>
+
+It is not possible to speak of the essential nature of a thing (svarūpa) except in terms of the respective attributes. 
+</details>
+
+<details><summary>Español</summary>
+
+It is not possible to speak of the essential nature of a thing (svarūpa) except in terms of the respective attributes. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्द स्वरूपत्तैच् चॊल्लुम् पोदु अव्वो धर्मङ्गळैयिट्टल्लदु सॊल्लवॊण्णादु.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवट्रैक् कऴित्तुप् पार्क्किल्  
+शश-विषाण तुल्यम् आम्.
+</details>
+
+<details><summary>English</summary>
+
+To speak of an object minus its attributes would be as meaningless as to speak of a hare's horns.
+</details>
+
+<details><summary>Español</summary>
+
+To speak of an object minus its attributes would be as meaningless as to speak of a hare's horns.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवट्रैक् कऴित्तुप्पार्क्किल् शशविषाण तुल्यमाम्.
+</details>
+
+
+## जीव-स्वरूपम्
+
+<details><summary>English</summary>
 
 THE NATURE OF THE JĪVA.
+</details>
 
-Therefore the essential nature (svarūpa) of the jīva may be described as jñāna (knowledge), bliss (ānanda), (amala) being pure, and being atomic (aṇu) in terms of its defining attributes (i. e.) being of the nature of knowledge, being of the nature of bliss, being pure and being atomic. This reality, viz. the jīva is always śeṣa to Iśvara (i.e.) it exists only for Iśvara and it is unconditional śeṣa only to Him. Thus its existing (always) for the Lord is affirmed (ayogavyavaccheda) and also its existing for no other than the Lord (anya yogavyavaccheda). This quality of being śeṣa to the Lord, which is disclosed in the first word of Tirumantra, namely om (aum), is of the nature of a  relationship ( sambandha) and requires, therefore, a thing having that relationship and cannot be understood without it. So this śeṣatva may be called an additional quality of a thing, namely, the jīva, which has already been defined by its defining attributes. Here the definition of the jīva is that it is a thing which is sentient while being also atomic. Similarly the jīva may also be defined as a thing which is sentient while being also, by its nature, śeṣa. So this quality of being śeṣa may also be called an attribute which defines the thing, viz, the jīva. Similarly Iśvara may be defined as having sentience along with omnipresence (vibhu). He may also be defined as one that is absolutely independent of everything else, while being the unconditional seshin (i.e.) one for whom all other things exist (unconditionally). The class of atmas which includes jīvas and Iśvara may be defined as those that are sentient and pratyak (i.e.) which are subjective and have inwardness. To be sentient is to be the possessor of knowledge. To be subjective or inward (or pratyak) is to possess luminosity to oneself. The atmā or soul is self-luminous and shines as I' without the help of the attributive knowledge [^f145] (dharmabhūta  jñāna)[^31] . Since sentience and inwardness (pratyaktva) are common to both jīvas and Iśvara, the jīva has to be defined as having, in addition, dependance by its very nature (on Iśvara). In the aṣṭākṣara, in the dative of the first syllable (āya) a in aum (om), the jīva's existence for the fulfilment of Iśvara's purposes is stated without any condition; therefore the jīva is unconditionally and absolutely dependent upon the Lord of Śrī (Lakṣmī ), who is the universal Saviour. This statement of the absolute relationship between the jīva and Iśvara throughout the existence (of the former ) is called ayogavyavaccheda or denial of the non-existence of the relationship. The second syllable u in aum (om) in aṣṭākṣara means 'only' and brings out the idea that the jīva exists for the purposes of only Iśvara and denies his dependence or existence for the sake of any others. This denial is called anya-yogavyavaccheda or denial of (the jīva's ) relationship with others. We will show later that this śeṣatva extends from the Lord to His devotees as well. The activity of sentient beings consists in their being the doers and the enjoyers subject to Iśvara's will and purpose. Since this activity and this capacity for enjoyment are given to them by Him, they are for His purposes and not their own.
+<details><summary>Español</summary>
+
+THE NATURE OF THE JĪVA.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् जीव-स्वरूपत्तैच्  
+ज्ञानत्वम् आनन्दत्वम् अमलत्वम् अणुत्वम्  
+इत्य्-आदिगळ् आन निरूपक-धर्मङ्गळैय् इट्टु निरूपित्तु  
+ज्ञानम् आनन्दम् अमलम् अणु ऎण्ड्रु  
+इम्-मुखङ्गळाल् ए सॊल्लक् कडवदु+++(=अर्हति)+++.
+</details>
+
+<details><summary>English</summary>
+
+Therefore the essential nature (svarūpa) of the jīva may be described as jñāna (knowledge), bliss (ānanda), (amala) being pure, and being atomic (aṇu) in terms of its defining attributes (i. e.) being of the nature of knowledge, being of the nature of bliss, being pure and being atomic. 
+</details>
+
+<details><summary>Español</summary>
+
+Therefore the essential nature (svarūpa) of the jīva may be described as jñāna (knowledge), bliss (ānanda), (amala) being pure, and being atomic (aṇu) in terms of its defining attributes (i. e.) being of the nature of knowledge, being of the nature of bliss, being pure and being atomic. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् जीवस्वरूपत्तैच् ज्ञानत्वमानन्दत्वममलत्वमणुत्वमित्यादिगळान निरूपकधर्मङ्गळैयिट्टु निरूपित्तु ज्ञानमानन्दममलमणु ऎण्ड्रु इम्मुखङ्गळाले सॊल्लक्कडवदु.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इज् जीव-तत्त्वम्  
+सर्वेश्वरनुक्कु शेषम् आय् एय् इरुक्कुम् ऎण्ड्रुम्,  
+अवनुक्क् ए निरूपाधिक-शेषम् ऎण्ड्रुम्,
+</details>
+
+<details><summary>English</summary>
+
+This reality, viz. the jīva is always śeṣa to Iśvara (i.e.) it exists only for Iśvara  
+and it is unconditional śeṣa only to Him. 
+</details>
+
+<details><summary>Español</summary>
+
+This reality, viz. the jīva is always śeṣa to Iśvara (i.e.) it exists only for Iśvara  
+and it is unconditional śeṣa only to Him. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इज्जीवतत्त्वम् सर्वेश्वरनुक्कु शेषमायेय् इरुक्कुम् ऎण्ड्रुम्,
+अवनुक्के निरूपाधिकशेषम् ऎण्ड्रुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयोग+++(←"अ/आय")++++अन्य+++(←"उ")+++-योग-व्यवच्छेदङ्गळाल् ए  
+प्रथम-पदत्तिल्+++(=ॐ)+++ तोट्रिन शेषत्वम्  
++++(द्वि-निष्ठ-)+++संबन्ध-रूपम् आगैयाल् ए  
+संबन्धि-स्वरूपम् निरूपितम् आनाल् अल्लद् अऱिय वॊण्णामैयाल्+++(=अशक्यतया)+++ ए  
+जीवनुक्कु इदु निरूपित--स्व-रूप--विशेषणम् ऎन्नल् आम्. 
+</details>
+
+<details><summary>English</summary>
+
+Thus its existing (always) for the Lord is affirmed (ayogavyavaccheda)  
+and also its existing for no other than the Lord (anya yogavyavaccheda).  
+This quality of being śeṣa to the Lord,  
+which is disclosed in the first word of Tirumantra, namely om (aum),  
+is of the nature of a  relationship ( sambandha)  
+and requires, therefore, a thing having that relationship  
+and cannot be understood without it.  
+So this śeṣatva may be called an additional quality of a thing,  
+namely, the jīva, which has already been defined by its defining attributes.  
+</details>
+
+<details><summary>Español</summary>
+
+Thus its existing (always) for the Lord is affirmed (ayogavyavaccheda)  
+and also its existing for no other than the Lord (anya yogavyavaccheda).  
+This quality of being śeṣa to the Lord,  
+which is disclosed in the first word of Tirumantra, namely om (aum),  
+is of the nature of a  relationship ( sambandha)  
+and requires, therefore, a thing having that relationship  
+and cannot be understood without it.  
+So this śeṣatva may be called an additional quality of a thing,  
+namely, the jīva, which has already been defined by its defining attributes.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अयोगान्ययोग-व्यवच्छेदङ्गळाले प्रथमपदत्तिल् तोट्रिन शेषत्वम् संबन्धरूपमागैयाले संबन्धिस्वरूपम् निरूपितमानालल्लदऱिय वॊण्णामैयाले जीवनुक्कु इदु निरूपितस्वरूपविशेषणमॆन्नलाम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अणुत्वे सति चेतनत्वम् पोल् ए  
++++("न स्वामी"ति)+++ स्वतश्-शेषत्वे सति चेतनत्वम् उम्  
+जीव-लक्षणम् आगव्-अट्रागैयाल्+++(=सामर्थ्यतः)+++ ए  
+इच्-शेषत्वम् जीवनुक्कु स्व-रूप-निरूपकम् ऎन्नव् उम् आम्. 
+</details>
+
+<details><summary>English</summary>
+
+Here the definition of the jīva is that it is a thing which is sentient while being also atomic.   
+Similarly the jīva may also be defined as a thing which is sentient while being also, by its nature, śeṣa.  
+So this quality of being śeṣa may also be called an attribute which defines the thing, viz, the jīva.
+</details>
+
+<details><summary>Español</summary>
+
+Here the definition of the jīva is that it is a thing which is sentient while being also atomic.  
+Similarly the jīva may also be defined as a thing which is sentient while being also, by its nature, śeṣa.  
+So this quality of being śeṣa may also be called an attribute which defines the thing, viz, the jīva.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अणुत्वे सति चेतनत्वम् पोले स्वतश्शेषत्वे सति चेतनत्वमुम् जीवलक्षणमागवट्रागैयाले इच्शेषत्वम् जीवनुक्कु स्वरूपनिरूपकमॆन्नवुमाम्. 
+</details>
+
+
+
+Similarly Iśvara may be defined as having sentience along with omnipresence (vibhu). He may also be defined as one that is absolutely independent of everything else, while being the unconditional seshin (i.e.) one for whom all other things exist (unconditionally). The class of atmas which includes jīvas and Iśvara may be defined as those that are sentient and pratyak (i.e.) which are subjective and have inwardness. To be sentient is to be the possessor of knowledge. To be subjective or inward (or pratyak) is to possess luminosity to oneself. The atmā or soul is self-luminous and shines as I' without the help of the attributive knowledge [^f145] (dharmabhūta  jñāna)[^31] . Since sentience and inwardness (pratyaktva) are common to both jīvas and Iśvara, the jīva has to be defined as having, in addition, dependance by its very nature (on Iśvara). In the aṣṭākṣara, in the dative of the first syllable (āya) a in aum (om), the jīva's existence for the fulfilment of Iśvara's purposes is stated without any condition; therefore the jīva is unconditionally and absolutely dependent upon the Lord of Śrī (Lakṣmī ), who is the universal Saviour. This statement of the absolute relationship between the jīva and Iśvara throughout the existence (of the former ) is called ayogavyavaccheda or denial of the non-existence of the relationship. The second syllable u in aum (om) in aṣṭākṣara means 'only' and brings out the idea that the jīva exists for the purposes of only Iśvara and denies his dependence or existence for the sake of any others. This denial is called anya-yogavyavaccheda or denial of (the jīva's ) relationship with others. We will show later that this śeṣatva extends from the Lord to His devotees as well. The activity of sentient beings consists in their being the doers and the enjoyers subject to Iśvara's will and purpose. Since this activity and this capacity for enjoyment are given to them by Him, they are for His purposes and not their own.
 
 [^f145]: The soul is of the nature of jñāna or knowledge (i.c.) its svarūpa is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.*
 
