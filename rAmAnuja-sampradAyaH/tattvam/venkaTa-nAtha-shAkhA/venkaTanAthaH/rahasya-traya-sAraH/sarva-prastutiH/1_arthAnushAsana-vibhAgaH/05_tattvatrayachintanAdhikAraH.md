@@ -810,8 +810,8 @@ To speak of an object minus its attributes would be as meaningless as to speak o
 अवट्रैक् कऴित्तुप्पार्क्किल् शशविषाण तुल्यमाम्.
 </details>
 
-
-## जीव-स्वरूपम्
+## चेतन-स्वरूपम्
+### जीव-स्वरूपम्
 
 <details><summary>English</summary>
 
@@ -945,16 +945,325 @@ So this quality of being śeṣa may also be called an attribute which defines t
 अणुत्वे सति चेतनत्वम् पोले स्वतश्शेषत्वे सति चेतनत्वमुम् जीवलक्षणमागवट्रागैयाले इच्शेषत्वम् जीवनुक्कु स्वरूपनिरूपकमॆन्नवुमाम्. 
 </details>
 
+### ईश्वर-स्वरूपम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि विभुत्वे सति चेतनत्वम् उम्  
+अनन्याधीनत्व-निरूपाधिक-शेषित्वादिगळ् उम्  
+ईश्वर-लक्षणङ्गळ्.
+</details>
+
+<details><summary>English</summary>
+
+Similarly Iśvara may be defined as having sentience along with omnipresence (vibhu).  
+He may also be defined as one that is absolutely independent of everything else, while being the unconditional seshin (i.e.) one for whom all other things exist (unconditionally).  
+</details>
+
+<details><summary>Español</summary>
+
+Similarly Iśvara may be defined as having sentience along with omnipresence (vibhu).  
+He may also be defined as one that is absolutely independent of everything else, while being the unconditional seshin (i.e.) one for whom all other things exist (unconditionally).  
+</details>
 
 
-Similarly Iśvara may be defined as having sentience along with omnipresence (vibhu). He may also be defined as one that is absolutely independent of everything else, while being the unconditional seshin (i.e.) one for whom all other things exist (unconditionally). The class of atmas which includes jīvas and Iśvara may be defined as those that are sentient and pratyak (i.e.) which are subjective and have inwardness. To be sentient is to be the possessor of knowledge. To be subjective or inward (or pratyak) is to possess luminosity to oneself. The atmā or soul is self-luminous and shines as I' without the help of the attributive knowledge [^f145] (dharmabhūta  jñāna)[^31] . Since sentience and inwardness (pratyaktva) are common to both jīvas and Iśvara, the jīva has to be defined as having, in addition, dependance by its very nature (on Iśvara). In the aṣṭākṣara, in the dative of the first syllable (āya) a in aum (om), the jīva's existence for the fulfilment of Iśvara's purposes is stated without any condition; therefore the jīva is unconditionally and absolutely dependent upon the Lord of Śrī (Lakṣmī ), who is the universal Saviour. This statement of the absolute relationship between the jīva and Iśvara throughout the existence (of the former ) is called ayogavyavaccheda or denial of the non-existence of the relationship. The second syllable u in aum (om) in aṣṭākṣara means 'only' and brings out the idea that the jīva exists for the purposes of only Iśvara and denies his dependence or existence for the sake of any others. This denial is called anya-yogavyavaccheda or denial of (the jīva's ) relationship with others. We will show later that this śeṣatva extends from the Lord to His devotees as well. The activity of sentient beings consists in their being the doers and the enjoyers subject to Iśvara's will and purpose. Since this activity and this capacity for enjoyment are given to them by Him, they are for His purposes and not their own.
+<details><summary>मूलम्</summary>
 
-[^f145]: The soul is of the nature of jñāna or knowledge (i.c.) its svarūpa is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.*
+इप्पडि विभुत्वेसति चेतनत्वमुम् अनन्याधीनत्वनिरूपाधिकशेषित्वादिगळुमीश्वरलक्षणङ्गळ्.
+</details>
 
-[^31]: The soul is of the nature of jñāna or knowledge (i.c.) its svarūpa is knowledge. At the same time the soul has knowledge as an attribute and this jñāna or knowledge is called Dharma bhūta
-jñāna or attributive knowledge.
+### आत्म-स्वरूपम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-BADDHAS :
+जीवेश्वर-रूपम् आन आत्म-वर्गत्तुक्क् ऎल्लाम्  
+पॊदुव्+++(=साधारणम्)+++ आन लक्षणम्  
+चेतनत्वम् उम् प्रत्यक्त्वम् उम्.
+</details>
+
+<details><summary>English</summary>
+
+The class of atmas which includes jīvas and Iśvara  
+may be defined as those that are sentient and pratyak  
+(i.e. which are subjective and have inwardness). 
+</details>
+
+<details><summary>Español</summary>
+
+The class of atmas which includes jīvas and Iśvara  
+may be defined as those that are sentient and pratyak  
+(i.e. which are subjective and have inwardness).
+</details>
+
+<details><summary>मूलम्</summary>
+
+जीवेश्वररूपमान आत्मवर्गत्तुक्कॆल्लाम् पॊदुवान लक्षणम् चेतनत्वमुम् प्रत्यक्त्वमुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चेतनत्वम् आवदु ज्ञानाश्रयम् आगै
+</details>
+
+<details><summary>English</summary>
+
+To be sentient is to be the possessor of knowledge. 
+</details>
+
+<details><summary>Español</summary>
+
+To be sentient is to be the possessor of knowledge. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+चेतनत्वमावदु ज्ञानाश्रयमागै
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यक्त्वम् आवदु तनक्कुत् तान् तोट्रुगै.
+</details>
+
+<details><summary>English</summary>
+
+To be subjective or inward (or pratyak) is to possess luminosity to oneself. 
+</details>
+
+<details><summary>Español</summary>
+
+To be subjective or inward (or pratyak) is to possess luminosity to oneself. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रत्यक्त्वमावदु तनक्कुत्तान् तोट्रुगै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पोदु धर्म-भूत-ज्ञान-निरपेक्षम् आग नान् ऎण्ड्रु तोट्रुम्.
+</details>
+
+<details><summary>English</summary>
+
+The atmā or soul is self-luminous  
+and shines as 'I'  
+without the help of the attributive knowledge [^f145] (dharmabhūta  jñāna) .
+
+[^f145]: 
+
+  The soul is of the nature of jñāna or knowledge (i.c.) its svarūpa is knowledge.  
+  At the same time the soul has knowledge as an attribute  
+  and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.*
+</details>
+
+<details><summary>Español</summary>
+
+The atmā or soul is self-luminous  
+and shines as 'I'  
+without the help of the attributive knowledge [^f145] (dharmabhūta  jñāna) .
+
+[^f145]: 
+
+  The soul is of the nature of jñāna or knowledge (i.c.) its svarūpa is knowledge.  
+  At the same time the soul has knowledge as an attribute  
+  and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.*
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु धर्मभूतज्ञाननिरपेक्षमाग नानॆण्ड्रु तोट्रुम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि चेतनत्वादिगळ्  
+ईश्वरनुक्क् उम्, जीवनुक्क् उम् पॊदुव्+++(=साधारणम्)+++ आगैयाल् एय्  
+अवनिऱ्‌-काट्टिल् व्यावृत्ति तोट्रुगैक्क् आग  
+जीव-लक्षणत्तिल् स्वतश्-शेषत्वादिगळ् सॊल्लुगिऱदु. 
+</details>
+
+<details><summary>English</summary>
+
+Since sentience and inwardness (pratyaktva)  
+are common to both jīvas and Iśvara,  
+the jīva has to be defined as having, in addition,  
+dependance by its very nature (on Iśvara).  
+</details>
+
+<details><summary>Español</summary>
+
+Since sentience and inwardness (pratyaktva)  
+are common to both jīvas and Iśvara,  
+the jīva has to be defined as having, in addition,  
+dependance by its very nature (on Iśvara).  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि चेतनत्वादिगळीश्वरनुक्कुम् जीवनुक्कुम् पॊदुवागैयाले यवनिऱ्‌काट्टिल् व्यावृत्ति तोट्रुगैक्काग जीवलक्षणत्तिल् स्वतश्शेषत्वादिगळ् सॊल्लुगिऱदु. 
+</details>
+
+### आय
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रथमाक्षरत्तिल्+++(=अ/आय)+++ चतुर्थियिल् तोट्रिन तादर्थ्यत्तुक्कु उपाधियिल्लामैयाल् ए  
+सर्व-रक्षकन् आन श्रियः-पतिक्कु जीवात्मा  
+निरुपाधिक-शेषम् आय् एय् इरुक्कुम् ऎण्ड्र्  
+इप्-पडि यावत्-स्वरूपम् संबन्धञ् चॊल्लुगै  
+**अ-योग-व्यवच्छेदम्**. 
+</details>
+
+<details><summary>English</summary>
+
+In the aṣṭākṣara, in the dative of the first syllable (āya) a in aum (om),  
+the jīva's existence for the fulfilment of Iśvara's purposes  
+is stated without any condition;  
+therefore the jīva is unconditionally and absolutely dependent upon the Lord of Śrī (Lakṣmī ),  
+who is the universal Saviour. 
+
+This statement of the absolute relationship  
+between the jīva and Iśvara throughout the existence (of the former )  
+is called ayogavyavaccheda  
+or denial of the non-existence of the relationship. 
+</details>
+
+<details><summary>Español</summary>
+
+In the aṣṭākṣara, in the dative of the first syllable (āya) a in aum (om),  
+the jīva's existence for the fulfilment of Iśvara's purposes  
+is stated without any condition;  
+therefore the jīva is unconditionally and absolutely dependent upon the Lord of Śrī (Lakṣmī ),  
+who is the universal Saviour. 
+
+This statement of the absolute relationship  
+between the jīva and Iśvara throughout the existence (of the former )  
+is called ayogavyavaccheda  
+or denial of the non-existence of the relationship. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रथमाक्षरत्तिल् चतुर्थियिल् तोट्रिन तादर्थ्यत्तुक्कु उपाधियिल्लामैयाले सर्वरक्षकनान श्रियःपतिक्कु जीवात्मा निरुपाधिकशेषमायेयिरुक्कुमॆण्ड्रिप्पडि यावत्-स्वरूपम् संबन्धञ्चॊल्लुगै अयोगव्यवच्छेदम्. 
+</details>
+
+### उ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्यमाक्षरत्तिल् +++(="उ")+++ अवधारण-सामर्थ्यत्ताल् ए  
+अवनुक्क् ए निरुपाधिक-शेषम् वेऱ् ओरुत्तरुक्कु निरुपाधिक-शेषम् अण्ड्र् ऎन्गै  
+**अन्य-योग-व्यवच्छेदम्**.
+</details>
+
+<details><summary>English</summary>
+
+The second syllable u in aum (om) in aṣṭākṣara means 'only'  
+and brings out the idea that the jīva exists for the purposes of only Iśvara  
+and denies his dependence or existence for the sake of any others. 
+
+This denial is called anya-yogavyavaccheda  
+or denial of (the jīva's ) relationship with others. 
+</details>
+
+<details><summary>Español</summary>
+
+The second syllable u in aum (om) in aṣṭākṣara means 'only'  
+and brings out the idea that the jīva exists for the purposes of only Iśvara  
+and denies his dependence or existence for the sake of any others. 
+
+This denial is called anya-yogavyavaccheda  
+or denial of (the jīva's ) relationship with others. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मध्यमाक्षरत्तिल् अवधारण-सामर्थ्यत्ताले अवनुक्के निरुपाधिकशेषम् वेऱोरुत्तरुक्कु निरुपाधिकशेषमण्ड्रॆन्गै अन्ययोगव्यवच्छेदम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इच्-शेषत्वम् भागवत-शेषत्व-पर्यन्तम् आग वळरुम्+++(=वर्धनम्)+++-बडि  
+मेल् ए सॊल्लक्-कडवोम् +++(अर्थतः, प्रमाणान्तरतः)+++.  
+</details>
+
+<details><summary>English</summary>
+
+We will show later that this śeṣatva extends from the Lord to His devotees as well.  
+</details>
+
+<details><summary>Español</summary>
+
+We will show later that this śeṣatva extends from the Lord to His devotees as well.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इच्शेषत्वम् भागवतशेषत्वपर्यन्तमाग वळरुम्बडि मेले सॊल्लक्कडवोम्.  
+</details>
+
+## चेतन-प्रवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिय् इरुक्किऱ चेतनरुक्कुप्  
+**प्रवृत्तिय्** आवदु  
+पराधीनम् उम् आय्  
+परार्थम् उम् आन  
+**कर्तृत्वम्** उम् **भोक्तृत्वम्** उम्.  
+</details>
+
+<details><summary>English</summary>
+
+The activity of sentient beings  
+consists in their being the doers and the enjoyers  
+subject to Iśvara's will and purpose.  
+</details>
+
+<details><summary>Español</summary>
+
+The activity of sentient beings  
+consists in their being the doers and the enjoyers  
+subject to Iśvara's will and purpose.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियिरुक्किऱ चेतनरुक्कुप् प्रवृत्तियावदु पराधीनमुमाय् परार्थमुमान कर्तृत्वमुम् भोक्तृत्वमुम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरन् तन्-भोक्तृत्वार्थम् आग  
+इवर्गळुक्कु कर्तृत्व-भोक्तृत्वङ्गळै उण्डाक्कुगैयाल्  
+इवै **परार्थङ्गळ्**. 
+</details>
+
+<details><summary>English</summary>
+
+Since this activity and this capacity for enjoyment are given to them by Him,  
+they are for His purposes and not their own.
+</details>
+
+<details><summary>Español</summary>
+
+Since this activity and this capacity for enjoyment are given to them by Him,  
+they are for His purposes and not their own.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरन् तन् भोक्तृत्वार्थमाग इवर्गळुक्कु कर्तृत्वभोक्तृत्वङ्गळै उण्डाक्कुगैयालिवै परार्थङ्गळ्. 
+</details>
+
+## बद्धाः
+
+
 
 The difference between sentient beings that are in bondage and others consists in the former having avidyā (ignorance), karma, the impressions left by past karma (vāsana) the inclinations due to them (ruchi or taste for worldly enjoyment) and association with prakṛti or matter. The differences existing mutually among jīvas in respect of knowledge, pleasures and the like may be seen in the groups of jīvas raṅgīng from Brahma to a blade of grass.
 
