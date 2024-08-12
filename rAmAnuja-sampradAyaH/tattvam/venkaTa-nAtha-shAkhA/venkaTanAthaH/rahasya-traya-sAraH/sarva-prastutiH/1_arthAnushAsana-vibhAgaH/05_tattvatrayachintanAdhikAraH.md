@@ -1266,7 +1266,7 @@ they are for His purposes and not their own.
 ### भेद-प्रकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बद्ध-चेतनरुक्कु नीक्किय्+++(=भिन्न)+++ उळ्ळारिल् भेदम्  
+बद्ध-चेतनरुक्कु नीक्किय्+++(=गलित)+++ उळ्ळारिल् भेदम्  
 अ-विद्या--कर्म-वासना-रुचि--प्रकृति-संबन्ध-युक्तर् आय् इरुक्कै. 
 </details>
 
@@ -1560,7 +1560,7 @@ puṇya, papa and that which is neither of these two.
 ### भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुक्तरुक्कु नीक्किय् उळ्ळारिल् भेदम्  
+मुक्तरुक्कु नीक्किय्+++(=गलित्वा)+++ उळ्ळारिल् भेदम्  
 प्रतिबन्धक-निवृत्तियाल् ए आविर्-भूत--स्व-रूपम् आय् इरुक्कै.
 </details>
 
@@ -1616,7 +1616,7 @@ will continue to be so without any end.
 
 इवर्गळुक्कु अन्योऽन्यं स्थिति-भेदम्  
 आविर्-भावत्तिल् मुऱ्‌-पाडु--पिऱ्‌-पाडुगळाल् उण्डान  
-मुन्-पुट्रव्+++(=??)+++ एट्रच्+++(=वृद्धिः)+++ चुरुक्कम्+++(=सङ्कोचः)+++.  
+मुन्ब्-उट्रव्+++(=प्राप्त)+++ एट्रच्+++(=वृद्धिः)+++ चुरुक्कम्+++(=सङ्कोचः)+++.  
 </details>
 
 <details><summary>English</summary>
@@ -1637,32 +1637,486 @@ the mutual difference is their having attained the manifestation of their essent
 इवर्गळुक्कु अन्योन्यं स्थितिभेदम् आविर्भावत्तिल् मुऱ्‌पाडु पिऱ्‌पाडुगळालुण्डान मुन्बुट्र वेट्रच् चुरुक्कम्.  
 </details>
 
+### प्रवृत्ति-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रवृत्ति-भेदम् अनादि-कालम् इऴन्दु+++(=लुप्त्वा)+++ पॆट्र  
+परिपूर्ण-भगवद्-अनुभव-जनित--प्रीति-कारितम् आन  
+यथाऽभिमत-कैङ्कर्य--तद्-विशेषङ्गळ्.  
+</details>
+
+<details><summary>English</summary>
+
+The difference in their activities consists in  
+specific kinds of service to the Lord chosen by each and prompted by love,  
+which has resulted from the perfect enjoyment of Bhagavān  
+gained after the loss of it from time immemorial.
+</details>
+
+<details><summary>Español</summary>
+
+The difference in their activities consists in  
+specific kinds of service to the Lord chosen by each and prompted by love,  
+which has resulted from the perfect enjoyment of Bhagavān  
+gained after the loss of it from time immemorial.
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-The difference in their activities consists in specific kinds of service to the Lord chosen by each and prompted by love, which has resulted from the perfect enjoyment of Bhagavān gained after the loss of it from time immemorial.
+प्रवृत्तिभेदम् अनादिकालमिऴन्दु पॆट्र परिपूर्णभगवदनुभवजनितप्रीतिकारितमान यथाभिमतकैङ्कर्यतद्विशेषङ्गळ्.  
+</details>
 
-NITYAS:
 
-The specific and distinctive feature of the nityas (the eternally free) is that the manifestation of their essential nature (svarūpa) is without any beginning and also their absolute dependence (on the Lord): The specific feature of their continued existence in time is that their enjoyment of the [^f146] śeṣī[^32]  is beginningless. Since this is common to all nityas, there is no mutual difference between their respective states of continuous existence in time. The difference in their activities consists in the continu ous performance of specific kinds of service to the Lord from beginningless time which, though different, yet form a continuous stream of service. It has been said that such nityas as Ananta (Śeṣa ) and Garuḍa hold certain specific offices and perform specific kinds of service in due relation to them. If so, it may be asked, how it would be possible to reconcile this with the statement (made by Śrī Rāmānuja in the Gadya) that nityas (the eternally free) and muktas (who have attained mokṣa ) have all access to all kinds of service. The answer is that they are not barred from any form of service which is pleasing to them and is in accordance with the will of the Lord and that no one of them ever desires to render the forms of service which have been specially marked off for others. Besides, the service rendered by any one of them is as pleasing to the Lord as that done by others; therefore the service rendered by any one of them gives the same pleasure of service to all of them. There is no difference in the delight which results from the service as its fruit. Hence there is nothing unreasonable in stating that all of them have access to every form of service.
+## नित्याः
+### भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यरुक्कु नीक्किय् उळ्ळारिल् भेदम्  
+अनाद्य्-आविर्-भूत-स्वरूपर् आय्  
+पर-तन्त्रर् आय् इरुक्कै.  
+</details>
+
+<details><summary>English</summary>
+
+The specific and distinctive feature of the nityas (the eternally free)  
+is that the manifestation of their essential nature (svarūpa)  
+is without any beginning  
+and also their absolute dependence (on the Lord)
+</details>
+
+<details><summary>Español</summary>
+
+The specific and distinctive feature of the nityas (the eternally free)  
+is that the manifestation of their essential nature (svarūpa)  
+is without any beginning  
+and also their absolute dependence (on the Lord)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यरुक्कु नीक्कियुळ्ळारिल् भेदम् अनाद्याविर्भूतस्वरूपराय् परतन्त्ररायिरुक्कै.  
+</details>
+
+### स्थिति-भिदा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळुक्कु नीक्किय्-उळ्ळारिऱ्-काट्टिल्  
+स्थिति-भेदम् अनाद्य्-अनुवृत्तम् आन शेषि-तत्त्वानुभवम्.
+</details>
+
+<details><summary>English</summary>
+
+The specific feature of their continued existence in time is that  
+their enjoyment of the [^f146] śeṣī is beginningless. 
 
 [^f146]: “ Instead of śeṣī  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as śeṣī ". Chetlur commentary.  *
+</details>
 
-[^32]: “ Instead of śeṣī  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as śeṣī ". Chetlur commentary.
+<details><summary>Español</summary>
 
-DHARMABHŪTA JÑĀNA[^33]
+The specific feature of their continued existence in time is that  
+their enjoyment of the [^es146] śeṣī  is beginningless. 
 
-(Attributive knowledge).
+[^es146]: “ Instead of śeṣī  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as śeṣī ". Chetlur commentary.  *
+</details>
 
-[^33]: According to Viśiṣṭādvaitins, the self or atma is,in its essential nature or svarūpa, knowledge. It also possesses jñāna or knowledge as its dharma or attribute." This knowledge is called dharma bhuta jñāna or attributive knowledge. (See foot-note before the previous foot-note)
 
-To all these ātmās or souls, in the same way as their essential nature (svarūpa) is that of a substance, their attributive knowledge (dharmabhūtājñāna) is also a substance. Its essential nature has not been separately referred to in the [^f148] passage[^34] because of its having been included as an attribute to the soul.
+<details><summary>मूलम्</summary>
+
+इवर्गळुक्कु नीक्कियुळ्ळारिऱ्‌काट्टिल् स्थितिभेदम् अनाद्यनुवृत्तमान शेषितत्त्वानुभवम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु नित्यर्क्क् ऎल्लाम् पॊदुव्+++(=साधारणम्)+++ आनप् पडियाल् एय्  
+इवर्गळुक्कु अन्योऽन्यम् स्थितियिल् वैषम्यम् इल्लै. 
+</details>
+
+<details><summary>English</summary>
+
+Since this is common to all nityas,  
+there is no mutual difference  
+between their respective states of continuous existence in time. 
+</details>
+
+<details><summary>Español</summary>
+
+Since this is common to all nityas,  
+there is no mutual difference  
+between their respective states of continuous existence in time. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु नित्यर्क्कॆल्लाम् पॊदुवानप्पडियालेय् इवर्गळुक्कु अन्योन्यम् स्थितियिल् वैषम्यमिल्लै. 
+</details>
+
+### प्रवृत्ति-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळुक्कुप् प्रवृत्ति-भेदम्  
+अनादि-प्रवाह-नित्यङ्गळ् आन कैङ्कर्य-विशेषङ्गळ्.
+</details>
+
+<details><summary>English</summary>
+
+The difference in their activities  
+consists in the continuous performance of  
+specific kinds of service to the Lord from beginningless time  
+which, though different, yet form a continuous stream of service. 
+</details>
+
+<details><summary>Español</summary>
+
+The difference in their activities  
+consists in the continuous performance of  
+specific kinds of service to the Lord from beginningless time  
+which, though different, yet form a continuous stream of service. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळुक्कुप् प्रवृत्तिभेदम् अनादिप्रवाहनित्यङ्गळान कैङ्कर्यविशेषङ्गळ्.
+</details>
+
+## सर्व-कैङ्कर्य-प्राप्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनन्त-गरुडादिगळुक्कु अधिकार-विशेषङ्गळ् उम्  
+तद्-उचित-कैङ्कर्यङ्गळ् उम्  
+व्यवस्थितङ्गळ् आयिरुक्क  
+नित्यर्क्क् उम् मुक्तर्क्क् उम् सर्व-विध-कैङ्कर्य-सिद्धिय् उण्ड्  
+ऎन्गिऱ अर्थङ् कूडुम् ओव् 
+
+ऎन्निल्,
+</details>
+
+<details><summary>English</summary>
+
+It has been said that such nityas as Ananta (Śeṣa ) and Garuḍa  
+hold certain specific offices  
+and perform specific kinds of service in due relation to them.  
+If so, it may be asked,  
+how it would be possible to reconcile this with the statement  
+(made by Śrī Rāmānuja in the Gadya)  
+that nityas (the eternally free) and muktas (who have attained mokṣa )  
+have all access to all kinds of service. 
+</details>
+
+<details><summary>Español</summary>
+
+It has been said that such nityas as Ananta (Śeṣa ) and Garuḍa  
+hold certain specific offices  
+and perform specific kinds of service in due relation to them.  
+If so, it may be asked,  
+how it would be possible to reconcile this with the statement  
+(made by Śrī Rāmānuja in the Gadya)  
+that nityas (the eternally free) and muktas (who have attained mokṣa )  
+have all access to all kinds of service. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्तगरुडादिगळुक्कु अधिकारविशेषङ्गळुम् तदुचितकैङ्कर्यङ्गळुम् व्यवस्थितङ्गळायिरुक्क नित्यर्क्कुम् मुक्तर्क्कुम् सर्वविधकैङ्कर्यसिद्धियुण्डॆन्गिऱ अर्थङ्गूडुमोवॆन्निल्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वामियिन्-उडैय अभिप्रायत्तुक्क् ईडागत्  
+तनक्क् अभिमतङ्गळ् आन कैङ्कर्यङ्गळिल् ए  
+किडैयादवैय् ऒण्ड्रुम् इल्लामैयाल् उम्,  
+</details>
+
+<details><summary>English</summary>
+
+The answer is that they are not barred from any form of service  
+which is pleasing to them  
+and is in accordance with the will of the Lord  
+</details>
+
+<details><summary>Español</summary>
+
+The answer is that they are not barred from any form of service  
+which is pleasing to them  
+and is in accordance with the will of the Lord  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वामियिनुडैय अभिप्रायत्तुक्कीडागत्तनक्कभिमतङ्गळान कैङ्कर्यङ्गळिले किडैयादवैयॊण्ड्रुमिल्लामै यालुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओर्-ऒरुत्तर्क्कु व्यस्थितङ्गळ् आन कैङ्कर्यङ्गळैत्  
+ताङ्गळ् अनुष्टिक्क-वेणुम्  
+ऎन्गिऱ अभिसन्धि वेऱ् ऒरुत्तर्क्कुप् पिऱवामैयाल् उम्,  
+</details>
+
+<details><summary>English</summary>
+
+and that no one of them ever desires  
+to render the forms of service  
+which have been specially marked off for others.
+</details>
+
+<details><summary>Español</summary>
+
+and that no one of them ever desires  
+to render the forms of service  
+which have been specially marked off for others.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ओरॊरुत्तर्क्कु व्यस्थितङ्गळान कैङ्कर्यङ्गळैत् ताङ्गळनुष्टिक्कवेणुमॆन्गिऱ अभिसन्धि वेऱॊरुत्तर्क्कुप् पिऱवामैयालुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आर् एनुम् ऒरुवर् अनुष्ठिक्कुम् कैङ्कर्यम् उम्  
+स्वामिक्कु प्रियम् आनप् पडियाल् ए  
+तद्-उचित-कैङ्कर्यङ्गळ् उम् सर्वर्क्क् उम् प्रियम् आय्  
+कैङ्कर्य-फलम् आन प्रीतियिल् वासिय्+++(=व्यत्यासः)+++ इल्लामैयाल् उम्
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+सङ्गीत-श्रावकस्य गायकस्येव रसः।  
+"रममाणा वने त्रय" इति  
+शेष-शेषिणोर् अपि  
+कैङ्कर्यत आनन्द-प्राप्ताव् अविशिष्टतोक्ता। 
+</details>
+
+
+<details><summary>English</summary>
+
+Besides, the service rendered by any one of them  
+is as pleasing to the Lord  
+as that done by others;  
+therefore the service rendered by any one of them  
+gives the same pleasure of service to all of them.  
+There is no difference in the delight which results  
+from the service as its fruit. 
+</details>
+
+<details><summary>Español</summary>
+
+Besides, the service rendered by any one of them  
+is as pleasing to the Lord  
+as that done by others;  
+therefore the service rendered by any one of them  
+gives the same pleasure of service to all of them.  
+There is no difference in the delight which results  
+from the service as its fruit. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आरेनुमॊरुवरनुष्ठिक्कुम् कैङ्कर्यमुम् स्वामिक्कु प्रियमानप्पडियाले तदुचितकैङ्कर्यङ्गळुम् सर्वर्क्कुम् प्रियमाय् कैङ्कर्यफलमान प्रीतियिल् वासियिल्लामैयालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"सर्वर्क्क् उम् सर्व-विध-कैङ्कर्य-सिद्धिय् उण्ड्"  
+ऎन्गैयिल् विरोधम् इल्लै.
+</details>
+
+<details><summary>English</summary>
+
+Hence there is nothing unreasonable  
+in stating that all of them have access to every form of service.
+</details>
+
+<details><summary>Español</summary>
+
+Hence there is nothing unreasonable  
+in stating that all of them have access to every form of service.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वर्क्कुम् सर्वविधकैङ्कर्यसिद्धियुण्डॆन्गैयिल् विरोधमिल्लै.
+</details>
+
+
+## धर्म-भूत-ज्ञानम्
+
+<details><summary>English</summary>
+
+(Attributive knowledge)[^33]
+
+[^33]: 
+
+    According to Viśiṣṭādvaitins,  
+    the self or atma is,  
+    in its essential nature or svarūpa, knowledge.  
+    It also possesses jñāna or knowledge  
+    as its dharma or attribute.  
+    This knowledge is called dharma bhuta jñāna or attributive knowledge.  
+    (See foot-note before the previous foot-note)
+</details>
+
+<details><summary>Español</summary>
+
+(Attributive knowledge)[^33]
+
+[^33]: 
+
+    According to Viśiṣṭādvaitins,  
+    the self or atma is,  
+    in its essential nature or svarūpa, knowledge.  
+    It also possesses jñāna or knowledge  
+    as its dharma or attribute.  
+    This knowledge is called dharma bhuta jñāna or attributive knowledge.  
+    (See foot-note before the previous foot-note)
+</details>
+
+### परिगणना
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् आत्माक्कळ् ऎल्लार्क्क् उम्  
+धर्मि-स्वरूपम् पोल् ए  
+धर्म-भूत-ज्ञानम् उम् +++(सङ्कोच-विकास-भाक्तया)+++ द्रव्यम् आय् इरुक्क  
+इदिन् स्वरूपत्तैत् तनित्तु  
+इङ्गु +++(←"त्रि-विध…अचेतन…")+++ अरुळिच् चॆय्याद् ऒऴिन्ददु+++(=त्यागः)+++  
+चेतनर् ऎण्ड्र् ऎडुत्त विशिष्टत्तिल् ए +++(धर्म-भूत-ज्ञानम् इति)+++ विशेषणम् आय्च् चॊरुगि+++(=विद्ध्वा)+++ निऱ्‌कैय् अडिय्+++(=बीजम्)+++ आग. 
+</details>
+
+<details><summary>English</summary>
+
+To all these ātmās or souls,  
+in the same way as their essential nature (svarūpa) is that of a substance,  
+their attributive knowledge (dharmabhūtājñāna) is also a substance.  
+Its essential nature has not been separately referred to in the [^f148] passage because of its having been included as an attribute to the soul.
 
 [^f148]: the passage which refers to the three kinds of achetana in Aḷavandār’s Atmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam .)*
+</details>
 
-[^34]: the passage which refers to the three kinds of achetana in Aḷavandār’s Ātmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam.
+<details><summary>Español</summary>
 
-This attributive knowledge is luminous by itself to the soul which possesses it, while revealing objects. That is, when the attributive knowledge reveals, for example, a pot to the soul which possesses that attributive knowledge, it reveals its own existence as well). To Iśvara and the nityas (the eternally free), this attributive knowledge is eternally all-pervasive. For others in the state of saṁsāra or bondage, it is subject to varying degrees of contraction and expansion owing to karma. In the state of mukti, it is all pervasive for all released souls, owing to perfect expansion and remains so throughout. The functions (pravṛtti) of attributive knowledge are as follows :- It discloses objects (external or internal); while willing or making an effort, it directs the body (and the senses etc.); in the state of bondage, it undergoes contraction and expansion; it undergoes experiences (bhoga) which reveal objects as agreeable or disagreeable. Experience or Bhoga is the process of feeling a thing as agreeable or disagreeable. All objects, which are among the glories of Iśvara, are, by their very nature, Agreeable and are enjoyed as being Agreeable by Iśvara, the nityas and the souls that have attained mokṣa . To those in saṁsāra, however, these objects appear at different times, and in different places and in relation to different jīvas as slightly agreeable, or disagreeable, or indifferent, but these variations do not belong to them by nature. Their slight agreeableness, disagreeableness, or being neither of the two is the fruit of the past actions of the jīvas awarded to them by Iśvara, whose will is irresistible. The jīvas that are in bondage are subject to the experience of the fruits of their karma, both by nature and by auxiliary causes. By nature they are subject to it, because they are sentient beings entirely under the control of another (Iśvara). The auxiliary causes are their having committed offences against the Lord. In the case of muktas and nityas, although, by their nature as being subject to the control of Iśvara, the experience of the fruit of action might be possible, yet since they never perform any action displeasing to Him, there are no auxiliary causes for such experiences. Iśvara, by His essential nature, is not subject to such experience or enjoyment of the fruits of action, since He stands as the Ruler over all and with no one else to command Him. Nor are there any auxiliary causes in His case, as there is no one whose commands He may be said to have disobeyed.
+To all these ātmās or souls,  
+in the same way as their essential nature (svarūpa) is that of a substance,  
+their attributive knowledge (dharmabhūtājñāna) is also a substance.  
+Its essential nature has not been separately referred to in the [^es148] passage because of its having been included as an attribute to the soul.
+
+[^es148]: the passage which refers to the three kinds of achetana in Aḷavandār’s Atmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam .)*
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वात्माक्कळॆल्लार्क्कुम् धर्मिस्वरूपम् पोले धर्मभूतज्ञानमुम् द्रव्यमायिरुक्क इदिन् स्वरूपत्तैत् तनित्तु इङ्गु अरुळिच् चॆय्यादॊऴिन्ददु चेतनरॆण्ड्रॆडुत्त विशिष्टत्तिले विशेषणमाय्च् चॊरुगि निऱ्‌कैयडियाग. 
+</details>
+
+### स्व-प्रकाशः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद् धर्म-भूत-ज्ञानम्  
+विषय-प्रकाश-दशैयिल् ए  
+स्वाश्रयत्तुक्कु स्वयं-प्रकाशम् आय् इरुक्कुम्  
++++(→विषयम् अन्तरा ऽऽत्मानम् अपि प्रकाशयति)+++.  
+</details>
+
+<details><summary>English</summary>
+
+This attributive knowledge is luminous by itself  
+to the soul which possesses it,  
+while revealing objects. 
+
+(That is, when the attributive knowledge reveals,  
+for example, a pot  
+to the soul which possesses that attributive knowledge,  
+it reveals its own existence as well). 
+</details>
+
+<details><summary>Español</summary>
+
+This attributive knowledge is luminous by itself  
+to the soul which possesses it,  
+while revealing objects. 
+
+(That is, when the attributive knowledge reveals,  
+for example, a pot  
+to the soul which possesses that attributive knowledge,  
+it reveals its own existence as well). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इद्धर्मभूतज्ञानम् विषयप्रकाशदशैयिले स्वाश्रयत्तुक्कु स्वयंप्रकाशमायिरुक्कुम्.  
+</details>
+
+### विस्तारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु ईश्वरनुक्कुम् नित्यरुक्कुम् नित्य-विभुव् आय् इरुक्कुम्.
+</details>
+
+<details><summary>English</summary>
+
+To Iśvara and the nityas (the eternally free),  
+this attributive knowledge is eternally all-pervasive.  
+</details>
+
+<details><summary>Español</summary>
+
+To Iśvara and the nityas (the eternally free),  
+this attributive knowledge is eternally all-pervasive.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु ईश्वरनुक्कुम् नित्यरुक्कुम् नित्यविभुवायिरुक्कुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मट्र्-उळ्ळारुक्कु संसारावस्थैयिल्  
+कर्मानुरूपम् आग बहु-विध-सङ्कोच-विकासवत्त् आय्  
+मुक्तावस्थैयिल् ए नैज-विकासत्ताल् ए  
+पिन्बु यावत्-कालम् विभुव् आय् इरुक्कुम्.  
+</details>
+
+<details><summary>English</summary>
+
+For others in the state of saṁsāra or bondage,  
+it is subject to varying degrees of contraction and expansion owing to karma.  
+In the state of mukti,  
+it is all pervasive for all released souls,  
+owing to perfect expansion and remains so throughout.  
+</details>
+
+<details><summary>Español</summary>
+
+For others in the state of saṁsāra or bondage,  
+it is subject to varying degrees of contraction and expansion owing to karma.  
+In the state of mukti,  
+it is all pervasive for all released souls,  
+owing to perfect expansion and remains so throughout.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मट्रुळ्ळारुक्कु संसारावस्थैयिल् कर्मानुरूपमाग बहुविधसङ्कोच-विकासवत्ताय् मुक्तावस्थैयिले नैजविकासत्ताले पिन्बु यावत्कालम् विभुवायिरुक्कुम्.  
+</details>
+
+
+
+The functions (pravṛtti) of attributive knowledge are as follows :- It discloses objects (external or internal); while willing or making an effort, it directs the body (and the senses etc.); in the state of bondage, it undergoes contraction and expansion; it undergoes experiences (bhoga) which reveal objects as agreeable or disagreeable. Experience or Bhoga is the process of feeling a thing as agreeable or disagreeable. All objects, which are among the glories of Iśvara, are, by their very nature, Agreeable and are enjoyed as being Agreeable by Iśvara, the nityas and the souls that have attained mokṣa . To those in saṁsāra, however, these objects appear at different times, and in different places and in relation to different jīvas as slightly agreeable, or disagreeable, or indifferent, but these variations do not belong to them by nature. Their slight agreeableness, disagreeableness, or being neither of the two is the fruit of the past actions of the jīvas awarded to them by Iśvara, whose will is irresistible. The jīvas that are in bondage are subject to the experience of the fruits of their karma, both by nature and by auxiliary causes. By nature they are subject to it, because they are sentient beings entirely under the control of another (Iśvara). The auxiliary causes are their having committed offences against the Lord. In the case of muktas and nityas, although, by their nature as being subject to the control of Iśvara, the experience of the fruit of action might be possible, yet since they never perform any action displeasing to Him, there are no auxiliary causes for such experiences. Iśvara, by His essential nature, is not subject to such experience or enjoyment of the fruits of action, since He stands as the Ruler over all and with no one else to command Him. Nor are there any auxiliary causes in His case, as there is no one whose commands He may be said to have disobeyed.
 
 The essential nature (svarūpa) of all ātmās, jīvās as well as Iśvara, is being selfluminous to oneself. This luminosity of the self to itself suffers, even in the case of those in bondage, no contraction or expansion at any time. The attributive knowledge (dharmabhūtajñāna) of all ātmās is luminous to its supporting self, while disclosing objects (like pots). A common characteristic of svarūpa jñāna or the self and attributive knowledge or dharniabhūtajrāna is their both being of the nature of knowledge and being self-luminous (i.e.) being luminous without requiring anything else to light them up. Attributive knowledge has the additional characteristic of revealing or disclosing objects (vishayitva). The additional characteristic possessed by svarüpajñāna (or the self) is subjectiveness or inwardness (pratyaktva). Jñāna or knowledge, (which is the character of both of them), may be defined as that which makes a thing laminous; that is, it makes either itself or something else fit for being spoken out and acted upon (vyavahāra). Self-luminosity is the capability of being luminous without the need of any other known ledge to illumine it. Attributive knowledge has vishayitva, because it discloses objects other than itself (like pots, cloths etc.) The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in their being luminous to themselves ; that is, the benefit of their luminosity is enjoyed by themselves The atma or self is the recipient of the benefit of every object being disclosed or revealed. Pratyaktva is only a special instance of this general statement, for in it, the self receives the benefit of its own disclosure or revelation. A thing which does not possess this pratyaktva or subjectiveness does not also possess the common benefit of objects being disclosed. It cannot, therefore, be called sentient. Though subjective knowledge or the 'I' and attributive knowledge, which is its attribute, are both luminous by themselves, yet they are also capable of being apprehended by other forms of knowledge (like that from śāstras), as being endowed with attributes like being eternal. When one's attributive knowledge happens to be known or apprehended by one with the help of another piece of knowledge, the latter is called another piece of knowledge, merely because of the direction to which the attributive knowledge is turned. When we perceive an object, say a pot, dharmabhūtajñāna contacts the object and reveals it to the soul or self; but when the dharmabhūta jñāna itself becomes the object of knowledge, it is revealed to the self  by a part of it.
 
