@@ -2114,9 +2114,145 @@ owing to perfect expansion and remains so throughout.
 मट्रुळ्ळारुक्कु संसारावस्थैयिल् कर्मानुरूपमाग बहुविधसङ्कोच-विकासवत्ताय् मुक्तावस्थैयिले नैजविकासत्ताले पिन्बु यावत्कालम् विभुवायिरुक्कुम्.  
 </details>
 
+### प्रवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदऱ्‌कुप् प्रवृत्तिय् आवदु  
+विषयङ्गळै **प्रकाशिप्पिक्कैय्** उम्,  
+प्रयत्नावस्थैयिल् ए शरीरादिगळै **प्रेरिक्कैय्** उम्,  
+बद्ध-दशैयिल् सङ्कोच-विकासङ्गळ् उम्,  
+आनुकूल्य-प्रातिकूल्य-प्रकाशन-मुखत्ताल् ए  
+भोगम् ऎन्गिऱव् अवस्थैयैय् अडैगैय् उम्.
+</details>
+
+<details><summary>English</summary>
+
+The functions (pravṛtti) of attributive knowledge are as follows :-  
+It discloses objects (external or internal);  
+while willing or making an effort,  
+it directs the body (and the senses etc.);  
+in the state of bondage,  
+it undergoes contraction and expansion;  
+it undergoes experiences (bhoga)  
+which reveal objects as agreeable or disagreeable. 
+</details>
+
+<details><summary>Español</summary>
+
+The functions (pravṛtti) of attributive knowledge are as follows :-  
+It discloses objects (external or internal);  
+while willing or making an effort,  
+it directs the body (and the senses etc.);  
+in the state of bondage,  
+it undergoes contraction and expansion;  
+it undergoes experiences (bhoga)  
+which reveal objects as agreeable or disagreeable. 
+</details>
 
 
-The functions (pravṛtti) of attributive knowledge are as follows :- It discloses objects (external or internal); while willing or making an effort, it directs the body (and the senses etc.); in the state of bondage, it undergoes contraction and expansion; it undergoes experiences (bhoga) which reveal objects as agreeable or disagreeable. Experience or Bhoga is the process of feeling a thing as agreeable or disagreeable. All objects, which are among the glories of Iśvara, are, by their very nature, Agreeable and are enjoyed as being Agreeable by Iśvara, the nityas and the souls that have attained mokṣa . To those in saṁsāra, however, these objects appear at different times, and in different places and in relation to different jīvas as slightly agreeable, or disagreeable, or indifferent, but these variations do not belong to them by nature. Their slight agreeableness, disagreeableness, or being neither of the two is the fruit of the past actions of the jīvas awarded to them by Iśvara, whose will is irresistible. The jīvas that are in bondage are subject to the experience of the fruits of their karma, both by nature and by auxiliary causes. By nature they are subject to it, because they are sentient beings entirely under the control of another (Iśvara). The auxiliary causes are their having committed offences against the Lord. In the case of muktas and nityas, although, by their nature as being subject to the control of Iśvara, the experience of the fruit of action might be possible, yet since they never perform any action displeasing to Him, there are no auxiliary causes for such experiences. Iśvara, by His essential nature, is not subject to such experience or enjoyment of the fruits of action, since He stands as the Ruler over all and with no one else to command Him. Nor are there any auxiliary causes in His case, as there is no one whose commands He may be said to have disobeyed.
+<details><summary>मूलम्</summary>
+
+इदऱ्‌कुप् प्रवृत्तियावदु विषयङ्गळै प्रकाशिप्पिक्कैयुम्,  
+प्रयत्नावस्थैयिले शरीरादिगळै प्रेरिक्कैयुम्,  
+बद्धदशैयिल् सङ्कोचविकासङ्गळुम्,  
+आनुकूल्यप्रातिकूल्यप्रकाशनमुखत्ताले भोगमॆन्गिऱववस्थैयैयडैगैयुम्.
+</details>
+
+### भोगः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भोगम् आवदु  
+तनक्क् अनुकूलम् आगव् आदल्  
+प्रतिकूलम् आगव् आदल्  
+ऒण्ड्रैय् अनुभविक्कै.
+</details>
+
+<details><summary>English</summary>
+
+Experience or Bhoga is the process of feeling a thing  
+as agreeable or disagreeable.  
+</details>
+
+<details><summary>Español</summary>
+
+Experience or Bhoga is the process of feeling a thing  
+as agreeable or disagreeable.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भोगमावदु तनक्कनुकूलमागवादल् प्रतिकूलमागवादलॊण्ड्रैयनुभविक्कै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वर-विभूतिय् आन सर्व-वस्तुवुक्क् उम्  
+आनुकूल्यम् स्व-भावम् आय्  
+इप्-पडि ईश्वरन् उम् नित्यर् उम् मुक्तर् उम् अनुभविया-निऱ्‌क,  
+</details>
+
+<details><summary>English</summary>
+
+All objects, which are among the glories of Iśvara,  
+are, by their very nature, Agreeable  
+and are enjoyed as being Agreeable  
+by Iśvara, the nityas and the souls that have attained mokṣa . 
+</details>
+
+<details><summary>Español</summary>
+
+All objects, which are among the glories of Iśvara,  
+are, by their very nature, Agreeable  
+and are enjoyed as being Agreeable  
+by Iśvara, the nityas and the souls that have attained mokṣa . 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरविभूतियान सर्ववस्तुवुक्कुमानुकूल्यम् स्वभावमायिप्पडि  
+ईश्वरनुम् नित्यरुम् मुक्तरुम् अनुभविया निऱ्‌क,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसारिगळुक्कु काल-भेदत्ताल् उम्, पुरुष-भेदत्ताल् उम्, देश-भेदत्ताल् उम्  
+अल्पानुकूलम् आयुम्, प्रतिकूलम् आय् उम्, उदासीनम् आय् उम्  
+इरुक्किऱ विभागङ्गळ् ऎल्लाम्  
+इव्-वस्तुगळुक्कु **स्व-भाव-सिद्धङ्गळ् अण्ड्रु**.
+</details>
+
+<details><summary>English</summary>
+
+To those in saṁsāra, however,  
+these objects appear at different times,  
+and in different places  
+and in relation to different jīvas  
+as slightly agreeable, or disagreeable, or indifferent,  
+but these variations do not belong to them by nature.  
+</details>
+
+<details><summary>Español</summary>
+
+To those in saṁsāra, however,  
+these objects appear at different times,  
+and in different places  
+and in relation to different jīvas  
+as slightly agreeable, or disagreeable, or indifferent,  
+but these variations do not belong to them by nature.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+संसारिगळुक्कु कालभेदत्तालुम् पुरुषभेदत्तालुम् देशभेदत्तालुमल्पानुकूलमायुम् प्रतिकूलमायुमुदासीनमायुमिरुक्किऱ विभागङ्गळॆल्लामिव्वस्तुगळुक्कु स्वभावसिद्धङ्गळण्ड्रु.
+</details>
+
+
+
+Their slight agreeableness, disagreeableness, or being neither of the two is the fruit of the past actions of the jīvas awarded to them by Iśvara, whose will is irresistible. The jīvas that are in bondage are subject to the experience of the fruits of their karma, both by nature and by auxiliary causes. By nature they are subject to it, because they are sentient beings entirely under the control of another (Iśvara). The auxiliary causes are their having committed offences against the Lord. In the case of muktas and nityas, although, by their nature as being subject to the control of Iśvara, the experience of the fruit of action might be possible, yet since they never perform any action displeasing to Him, there are no auxiliary causes for such experiences. Iśvara, by His essential nature, is not subject to such experience or enjoyment of the fruits of action, since He stands as the Ruler over all and with no one else to command Him. Nor are there any auxiliary causes in His case, as there is no one whose commands He may be said to have disobeyed.
 
 The essential nature (svarūpa) of all ātmās, jīvās as well as Iśvara, is being selfluminous to oneself. This luminosity of the self to itself suffers, even in the case of those in bondage, no contraction or expansion at any time. The attributive knowledge (dharmabhūtajñāna) of all ātmās is luminous to its supporting self, while disclosing objects (like pots). A common characteristic of svarūpa jñāna or the self and attributive knowledge or dharniabhūtajrāna is their both being of the nature of knowledge and being self-luminous (i.e.) being luminous without requiring anything else to light them up. Attributive knowledge has the additional characteristic of revealing or disclosing objects (vishayitva). The additional characteristic possessed by svarüpajñāna (or the self) is subjectiveness or inwardness (pratyaktva). Jñāna or knowledge, (which is the character of both of them), may be defined as that which makes a thing laminous; that is, it makes either itself or something else fit for being spoken out and acted upon (vyavahāra). Self-luminosity is the capability of being luminous without the need of any other known ledge to illumine it. Attributive knowledge has vishayitva, because it discloses objects other than itself (like pots, cloths etc.) The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in their being luminous to themselves ; that is, the benefit of their luminosity is enjoyed by themselves The atma or self is the recipient of the benefit of every object being disclosed or revealed. Pratyaktva is only a special instance of this general statement, for in it, the self receives the benefit of its own disclosure or revelation. A thing which does not possess this pratyaktva or subjectiveness does not also possess the common benefit of objects being disclosed. It cannot, therefore, be called sentient. Though subjective knowledge or the 'I' and attributive knowledge, which is its attribute, are both luminous by themselves, yet they are also capable of being apprehended by other forms of knowledge (like that from śāstras), as being endowed with attributes like being eternal. When one's attributive knowledge happens to be known or apprehended by one with the help of another piece of knowledge, the latter is called another piece of knowledge, merely because of the direction to which the attributive knowledge is turned. When we perceive an object, say a pot, dharmabhūtajñāna contacts the object and reveals it to the soul or self; but when the dharmabhūta jñāna itself becomes the object of knowledge, it is revealed to the self  by a part of it.
 
