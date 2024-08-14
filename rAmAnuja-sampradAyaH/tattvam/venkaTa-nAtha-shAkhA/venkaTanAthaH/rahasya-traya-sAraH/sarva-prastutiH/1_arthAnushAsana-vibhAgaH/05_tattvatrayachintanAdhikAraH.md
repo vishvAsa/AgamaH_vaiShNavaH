@@ -2865,6 +2865,13 @@ THE THREE KINDS OF NON-SENTIENT BEINGS :
 त्रि-विधाचेतनङ्गळ् उम् पररुक्क् ए तोण्ड्रक् कडवनव् आय् इरुक्कुम्.
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+त्रिविधान्य् अप्य् अचेतनानि  
+परान् प्रत्येव प्रकाशमानानि भवन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 The three classes of non-sentient things  
@@ -2889,6 +2896,12 @@ are capable of being apprehended only by others, (and not by themselves).
 **अचेतनम्** आवदु ज्ञानाश्रयम् अण्ड्रिक्क् एय् ऒऴिगै+++(=अवस्थानम्)+++.
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अचेतनत्वं नाम - ज्ञानाश्रयत्वाभावः ।
+</details>
+
+
 <details><summary>English</summary>
 
 Non sentience means  
@@ -2912,6 +2925,13 @@ Non sentience means being without the possession of knowledge.
 तन् प्रकाशत्तुक्कुत् तान् फलिय् अण्ड्रिक्क् एय् ऒऴिगै. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परान् प्रत्येव प्रकाशमानत्वं नाम –  
+स्वप्रकाशं प्रति स्वस्य फलित्वाभावः ।
+</details>
+
+
 <details><summary>English</summary>
 
 To be capable of being apprehended only by others  
@@ -2932,11 +2952,247 @@ or for their own benefit.
 पिऱरुक्के तोण्ड्रुगैयावदु तन् प्रकाशत्तुक्कुत् तान् फलियण्ड्रिक्केयॊऴिगै. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् इरण्ड् उम्  
+धर्म-भूत-ज्ञानादिगळुक्क् उम् तुल्यम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदम् उभयं धर्मभूत-ज्ञानादीनाम् अपि तुल्यम् ।
+</details>
 
 
-These two (viz. being without the possession of knowledge and the apprehension not being for their own benefit) are true also of attributive knowledge (dharmabhūta jñāna), which is thus a non-sentient thing.
+<details><summary>English</summary>
 
-Of the three classes of non-sentient things, matter (Prakṛti) and time (Kala) are jaḍa (i.e.) not luminous by themselves. There are some who hold that Śuddha-sattvam is also jaḍa. To be jaḍa is to be without self-luminosity. Those who have studied such treatises as pañcarātra or the Lord's Śāstra would say that Śuddhasattvam is luminous by itself, as it is declared to be so in that śāstra. It may be asked why, if it is luminous by itself, it is not directly perceived by beings in the state of saṁsāra, without having to be known through śāstra only. The answer is as follows:- The soul whose essential nature (svarūpa) is knowledge and its attributive knowledge are both laminous by themselves and yet the former is luminous to itself and not to other souls, who have to know it with the help of their own attributive knowledge. Attributive knowledge, though luminous to its substrate, namely the soul, is not luminous to others. In the same way, the Śuddha sattvam may be luminous by itself only to Iśvara, the muktas and the nityas and not to others. There is nothing unreasonable in this view.
+These two  
+(viz. being without the possession of knowledge  
+and the apprehension not being for their own benefit)  
+are true also of attributive knowledge (dharmabhūta jñāna),  
+which is thus a non-sentient thing.
+</details>
+
+<details><summary>Español</summary>
+
+These two  
+(viz. being without the possession of knowledge  
+and the apprehension not being for their own benefit)  
+are true also of attributive knowledge (dharmabhūta jñāna),  
+which is thus a non-sentient thing.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयिरण्डुम् धर्मभूतज्ञानादिगळुक्कुम् तुल्यम्.
+</details>
+
+### प्रकृति-कालौ जडौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रि-विधाचेतनङ्गळ् ऎण्ड्र् ऎडुत्तव् अट्रिल्  
+प्रकृतिय् उम् कालम् उम् जडङ्गळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+त्रिविधाचेतनत्वेनोपात्तेषु प्रकृति-कालौ जडौ ॥
+</details>
+
+<details><summary>English</summary>
+
+Of the three classes of non-sentient things,  
+matter (Prakṛti) and time (Kala) are jaḍa  
+(i.e.) not luminous by themselves. 
+</details>
+
+<details><summary>Español</summary>
+
+Of the three classes of non-sentient things,  
+matter (Prakṛti) and time (Kala) are jaḍa  
+(i.e.) not luminous by themselves. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्रिविधाचेतनङ्गळॆण्ड्रॆडुत्तवट्रिल् प्रकृतियुम् कालमुम् जडङ्गळ्.
+</details>
+
+### शुद्ध-सत्त्वम् अजडम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शुद्ध-सत्वम् आन द्रव्यत्तैय् उम्  
+जडम् ऎण्ड्रु सिलर् सॊल्लुवर्गळ्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शुद्ध-सत्त्व-द्रव्यम् अपि जडम् इति केचिद् आहुः । 
+</details>
+
+<details><summary>English</summary>
+
+There are some who hold that Śuddha-sattvam is also jaḍa.
+</details>
+
+<details><summary>Español</summary>
+
+There are some who hold that Śuddha-sattvam is also jaḍa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शुद्धसत्वमान द्रव्यत्तैयुम् जडम् ऎण्ड्रु सिलर् सॊल्लुवर्गळ्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जडत्वम् आवदु स्वयं-प्रकाशम् अण्ड्रिक्क् एय् इरुक्कै.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**जडत्वं** नाम- स्वयं-प्रकाशत्वाभावः ।
+</details>
+
+<details><summary>English</summary>
+
+To be jaḍa is to be without self-luminosity. 
+</details>
+
+<details><summary>Español</summary>
+
+To be jaḍa is to be without self-luminosity. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जडत्वमावदु स्वयं-प्रकाशमण्ड्रिक्केयिरुक्कै.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवच्-छास्त्रादि-परामर्शम् पण्णिनवर्गळ्  
+ज्ञानात्मकत्वम् शास्त्र-सिद्धम् आगैयाल् ए  
+शुद्ध-सत्त्व-द्रव्यत्तै स्वयं-प्रकाशम् ऎन्बर्गळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भगवच्-छास्त्रादि-परामर्शिनस् तु  
+ज्ञानात्मकत्वस्य शास्त्र-सिद्धत्वात्  
+शुद्ध-सत्त्व-द्रव्यं स्वयं-प्रकाशम् इत्य् आहुः । 
+</details>
+
+<details><summary>English</summary>
+
+Those who have studied such treatises as pañcarātra or the Lord's Śāstra  
+would say that Śuddhasattvam is luminous by itself,  
+as it is declared to be so in that śāstra. 
+</details>
+
+<details><summary>Español</summary>
+
+Those who have studied such treatises as pañcarātra or the Lord's Śāstra  
+would say that Śuddhasattvam is luminous by itself,  
+as it is declared to be so in that śāstra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवच्छास्त्रादिपरामर्शम् पण्णिनवर्गळ् ज्ञानात्मकत्वम् शास्त्रसिद्धमागैयाले शुद्धसत्वद्रव्यत्तै स्वयंप्रकाशमॆन्बर्गळ्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडि स्वयं-प्रकाशम् आगिल्  
+संसारिगळुक्कु शास्त्र-वेद्यम् आग-वेण्डाद् ए  
+तान् ए तोण्ड्र-वेण्डाव् ओव् 
+
+ऎन्निल्;
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> इत्थं स्वयंप्रकाशत्वे,  
+संसारिणां शास्त्र-वेद्यत्वम् अन्तरैव  
+स्वयं कुतो न प्रकाशत  
+
+इति चेत् — 
+</details>
+
+<details><summary>English</summary>
+
+It may be asked why, if it is luminous by itself,  
+it is not directly perceived by beings in the state of saṁsāra,  
+without having to be known through śāstra only. 
+</details>
+
+<details><summary>Español</summary>
+
+It may be asked why, if it is luminous by itself,  
+it is not directly perceived by beings in the state of saṁsāra,  
+without having to be known through śāstra only. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वयंप्रकाशमागिल् संसारिगळुक्कु शास्त्रवेद्यमागवेण्डादे ताने तोण्ड्रवेण्डावोवॆन्निल्;
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वात्माक्कळ्-उडैयव् उम् स्व-रूपम् उम्, धर्म-भूत-ज्ञानम् उम्  
+स्वयं-प्रकाशम् आय् इरुक्क  
+स्व-न्रूपं तनक्क् ए स्वयं-प्रकाशम् आय्  
+वेऱ् ऎल्लार्क्क् उम् ज्ञानान्तर-वेद्यम् आनाऱ्‌ पोलव् उम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सर्वात्मनां स्व-रूपस्य धर्म-भृत-ज्ञानस्य च स्वयं-प्रकाशत्वे ऽपि  
+स्वरूपं स्वस्यैव स्वयं-प्रकाशं सत्  
+परेषां ज्ञानान्तर-वेद्यं यथा भवति, 
+</details>
+
+<details><summary>English</summary>
+
+The answer is as follows:-  
+The soul whose essential nature (svarūpa) is knowledge and its attributive knowledge  
+are both laminous by themselves  
+and yet the former is luminous to itself  
+and not to other souls,  
+who have to know it with the help of their own attributive knowledge. 
+</details>
+
+<details><summary>Español</summary>
+
+The answer is as follows:-  
+The soul whose essential nature (svarūpa) is knowledge and its attributive knowledge  
+are both laminous by themselves  
+and yet the former is luminous to itself  
+and not to other souls,  
+who have to know it with the help of their own attributive knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वात्माक्कळुडैयवुम् स्वरूपमुम् धर्मभूतज्ञानमुम् स्वयंप्रकाशमायिरुक्क स्वरूपन्दनक्के स्वयंप्रकाशमाय् वेऱॆल्लार्क्कुम् ज्ञानान्तरवेद्यमानाऱ्‌पोलवुम्,
+</details>
+
+
+
+
+Attributive knowledge, though luminous to its substrate, namely the soul, is not luminous to others. In the same way, the Śuddha sattvam may be luminous by itself only to Iśvara, the muktas and the nityas and not to others. There is nothing unreasonable in this view.
 
 It has been said in the following śloka  :
 
