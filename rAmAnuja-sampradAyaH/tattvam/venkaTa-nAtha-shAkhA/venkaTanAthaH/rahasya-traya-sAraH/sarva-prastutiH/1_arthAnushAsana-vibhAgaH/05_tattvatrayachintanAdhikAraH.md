@@ -2085,7 +2085,7 @@ this attributive knowledge is eternally all-pervasive.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मट्र्-उळ्ळारुक्कु संसारावस्थैयिल्  
-कर्मानुरूपम् आग बहु-विध-सङ्कोच-विकासवत्त् आय्  
+कर्मानुरूपम् आग +++(निद्रादाव् अपि)+++ बहु-विध-सङ्कोच-विकासवत्त् आय्  
 मुक्तावस्थैयिल् ए नैज-विकासत्ताल् ए  
 पिन्बु यावत्-कालम् विभुव् आय् इरुक्कुम्.  
 </details>
@@ -2250,11 +2250,253 @@ but these variations do not belong to them by nature.
 संसारिगळुक्कु कालभेदत्तालुम् पुरुषभेदत्तालुम् देशभेदत्तालुमल्पानुकूलमायुम् प्रतिकूलमायुमुदासीनमायुमिरुक्किऱ विभागङ्गळॆल्लामिव्वस्तुगळुक्कु स्वभावसिद्धङ्गळण्ड्रु.
 </details>
 
+#### कर्म-वश्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद् इवर्गळ्-उडैय कर्मङ्गळुक्क् ईड्+++(=समम्)+++ आग  
+सत्य-संकल्पन् आन ईश्वरन्  
+इवर्गळुक्कु फल-प्रदानम् पण्णिन प्रकारम्.  
+</details>
+
+<details><summary>English</summary>
+
+Their slight agreeableness, disagreeableness, or being neither of the two  
+is the fruit of the past actions of the jīvas awarded to them by Iśvara,  
+whose will is irresistible. 
+</details>
+
+<details><summary>Español</summary>
+
+Their slight agreeableness, disagreeableness, or being neither of the two  
+is the fruit of the past actions of the jīvas awarded to them by Iśvara,  
+whose will is irresistible. 
+</details>
 
 
-Their slight agreeableness, disagreeableness, or being neither of the two is the fruit of the past actions of the jīvas awarded to them by Iśvara, whose will is irresistible. The jīvas that are in bondage are subject to the experience of the fruits of their karma, both by nature and by auxiliary causes. By nature they are subject to it, because they are sentient beings entirely under the control of another (Iśvara). The auxiliary causes are their having committed offences against the Lord. In the case of muktas and nityas, although, by their nature as being subject to the control of Iśvara, the experience of the fruit of action might be possible, yet since they never perform any action displeasing to Him, there are no auxiliary causes for such experiences. Iśvara, by His essential nature, is not subject to such experience or enjoyment of the fruits of action, since He stands as the Ruler over all and with no one else to command Him. Nor are there any auxiliary causes in His case, as there is no one whose commands He may be said to have disobeyed.
+<details><summary>मूलम्</summary>
 
-The essential nature (svarūpa) of all ātmās, jīvās as well as Iśvara, is being selfluminous to oneself. This luminosity of the self to itself suffers, even in the case of those in bondage, no contraction or expansion at any time. The attributive knowledge (dharmabhūtajñāna) of all ātmās is luminous to its supporting self, while disclosing objects (like pots). A common characteristic of svarūpa jñāna or the self and attributive knowledge or dharniabhūtajrāna is their both being of the nature of knowledge and being self-luminous (i.e.) being luminous without requiring anything else to light them up. Attributive knowledge has the additional characteristic of revealing or disclosing objects (vishayitva). The additional characteristic possessed by svarüpajñāna (or the self) is subjectiveness or inwardness (pratyaktva). Jñāna or knowledge, (which is the character of both of them), may be defined as that which makes a thing laminous; that is, it makes either itself or something else fit for being spoken out and acted upon (vyavahāra). Self-luminosity is the capability of being luminous without the need of any other known ledge to illumine it. Attributive knowledge has vishayitva, because it discloses objects other than itself (like pots, cloths etc.) The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in their being luminous to themselves ; that is, the benefit of their luminosity is enjoyed by themselves The atma or self is the recipient of the benefit of every object being disclosed or revealed. Pratyaktva is only a special instance of this general statement, for in it, the self receives the benefit of its own disclosure or revelation. A thing which does not possess this pratyaktva or subjectiveness does not also possess the common benefit of objects being disclosed. It cannot, therefore, be called sentient. Though subjective knowledge or the 'I' and attributive knowledge, which is its attribute, are both luminous by themselves, yet they are also capable of being apprehended by other forms of knowledge (like that from śāstras), as being endowed with attributes like being eternal. When one's attributive knowledge happens to be known or apprehended by one with the help of another piece of knowledge, the latter is called another piece of knowledge, merely because of the direction to which the attributive knowledge is turned. When we perceive an object, say a pot, dharmabhūtajñāna contacts the object and reveals it to the soul or self; but when the dharmabhūta jñāna itself becomes the object of knowledge, it is revealed to the self  by a part of it.
+इदिवर्गळुडैय कर्मङ्गळुक्कीडाग सत्यसंकल्पनान ईश्वरनिवर्गळुक्कु फलप्रदानम् पण्णिन प्रकारम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक् कर्म-फलम् अनुभविक्कैक्कु  
+बद्धरुक्कु स्व-रूप-योग्यतैय् उम् सहकारि-योग्यतैय् उम् उण्डु.
+</details>
+
+<details><summary>English</summary>
+
+The jīvas that are in bondage  
+are subject to the experience of the fruits of their karma,  
+both by nature and by auxiliary causes. 
+</details>
+
+<details><summary>Español</summary>
+
+The jīvas that are in bondage  
+are subject to the experience of the fruits of their karma,  
+both by nature and by auxiliary causes. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इक्कर्मफलमनुभविक्कैक्कु बद्धरुक्कु स्वरूपयोग्यतैयुम् सहकारियोग्यतैयुमुण्डु.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कर्मानुभवे)+++ स्व-रूप-योग्यतै पर-तन्त्र-चेतनत्वम्.
+</details>
+
+<details><summary>English</summary>
+
+By nature they are subject to it,  
+because they are sentient beings entirely under the control of another (Iśvara). 
+</details>
+
+<details><summary>Español</summary>
+
+By nature they are subject to it,  
+because they are sentient beings entirely under the control of another (Iśvara). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वरूपयोग्यतै परतन्त्रचेतनत्वम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(कर्मानुभवे)+++ सह-कारि-योग्यतै सापराधत्वम्.+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+The auxiliary causes are  
+their having committed offences against the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+The auxiliary causes are  
+their having committed offences against the Lord. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सहकारियोग्यतै सापराधत्वम्.
+</details>
+
+##### नित्य-मुक्ताः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्यरुक्क् उम्, मुक्तरुक्क् उम्,  
+पर-तन्त्र-चेतनतैयाल् ए स्व-रूप-योग्यतैय् उण्ड् एय् आगिल् उम्  
+ईश्वरानभिमत-विपरीतानुष्ठानम् इल्लामैयाल् ए  
+सह-कारि-योग्यतैय् इल्लै.  
+</details>
+
+<details><summary>English</summary>
+
+In the case of muktas and nityas,  
+although, by their nature as being subject to the control of Iśvara,  
+the experience of the fruit of action might be possible,  
+yet since they never perform any action displeasing to Him,  
+there are no auxiliary causes for such experiences. 
+</details>
+
+<details><summary>Español</summary>
+
+In the case of muktas and nityas,  
+although, by their nature as being subject to the control of Iśvara,  
+the experience of the fruit of action might be possible,  
+yet since they never perform any action displeasing to Him,  
+there are no auxiliary causes for such experiences. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यरुक्कुम् मुक्तरुक्कुम् परतन्त्रचेतनतैयाले स्वरूपयोग्यतैयुण्डे यागिलुम् ईश्वरानभिमतविपरीतानुष्ठानमिल्लामैयाले सहकारियोग्यतैयिल्लै.  
+</details>
+
+##### ईश्वरः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरन् सर्व-प्रशासिताव् आय्  
+तान् ऒरुत्तरुक्कु शासनीयन् अण्ड्रिक्क् ए निऱ्‌कैयाल् ए  
+पर-तन्त्र-चेतनत्वम् आगिऱ स्व-रूप-योग्यतैय् उम् इल्लै.
+</details>
+
+<details><summary>English</summary>
+
+Iśvara, by His essential nature,  
+is not subject to such experience or enjoyment of the fruits of action,  
+since He stands as the Ruler over all  
+and with no one else to command Him. 
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara, by His essential nature,  
+is not subject to such experience or enjoyment of the fruits of action,  
+since He stands as the Ruler over all  
+and with no one else to command Him. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरन् सर्वप्रशासितावाय् तानॊरुत्तरुक्कु शासनीयनण्ड्रिक्के निऱ्‌कैयाले परतन्त्रचेतनत्वमागिऱ स्वरूपयोग्यतैयुमिल्लै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्रन् आगैयाल् ए स्व-तन्त्राज्ञातिलङ्घनम् आगिऱ सह-कारि-योग्यतैय् उम् इल्लै.
+</details>
+
+<details><summary>English</summary>
+
+Nor are there any auxiliary causes in His case,  
+as there is no one whose commands  
+He may be said to have disobeyed.
+</details>
+
+<details><summary>Español</summary>
+
+Nor are there any auxiliary causes in His case,  
+as there is no one whose commands  
+He may be said to have disobeyed.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रनागैयाले स्वतन्त्राज्ञातिलङ्घनमागिऱ सहकारियोग्यतैयुमिल्लै.
+</details>
+
+## आत्म-स्वरूपम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवेश्वर-रूपर् आन आत्माक्कळ् ऎल्लार्-उडैयव् उम् स्व-रूपम्  
+**स्वस्मै स्वयं-प्रकाशम्**.
+</details>
+
+<details><summary>English</summary>
+
+The essential nature (svarūpa) of all ātmās, jīvās as well as Iśvara,  
+is being selfluminous to oneself.  
+</details>
+
+<details><summary>Español</summary>
+
+The essential nature (svarūpa) of all ātmās, jīvās as well as Iśvara,  
+is being selfluminous to oneself.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जीवेश्वररूपरान आत्माक्कळॆल्लारुडैयवुम् स्वरूपम् स्वस्मै स्वयंप्रकाशम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद्-धर्मि--स्व-रूप--प्रकाशत्तुक्कु  
+बद्धरुक्कुम् उळ्-बड वॊरु-कालत्तिल् उम्  
+सङ्कोच-विकासङ्गळ् इल्लै.
+</details>
+
+<details><summary>English</summary>
+
+This luminosity of the self to itself suffers,  
+even in the case of those in bondage,  
+no contraction or expansion at any time. 
+</details>
+
+<details><summary>Español</summary>
+
+This luminosity of the self to itself suffers,  
+even in the case of those in bondage,  
+no contraction or expansion at any time. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इद्धर्मिस्वरूपप्रकाशत्तुक्कु बद्धरुक्कुमुळ्बड वॊरुगालत्तिलुम् सङ्कोचविकासङ्गळिल्लै.
+</details>
+
+
+
+
+
+The attributive knowledge (dharmabhūtajñāna) of all ātmās is luminous to its supporting self, while disclosing objects (like pots). A common characteristic of svarūpa jñāna or the self and attributive knowledge or dharniabhūtajrāna is their both being of the nature of knowledge and being self-luminous (i.e.) being luminous without requiring anything else to light them up. Attributive knowledge has the additional characteristic of revealing or disclosing objects (vishayitva). The additional characteristic possessed by svarüpajñāna (or the self) is subjectiveness or inwardness (pratyaktva). Jñāna or knowledge, (which is the character of both of them), may be defined as that which makes a thing laminous; that is, it makes either itself or something else fit for being spoken out and acted upon (vyavahāra). Self-luminosity is the capability of being luminous without the need of any other known ledge to illumine it. Attributive knowledge has vishayitva, because it discloses objects other than itself (like pots, cloths etc.) The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in their being luminous to themselves ; that is, the benefit of their luminosity is enjoyed by themselves The atma or self is the recipient of the benefit of every object being disclosed or revealed. Pratyaktva is only a special instance of this general statement, for in it, the self receives the benefit of its own disclosure or revelation. A thing which does not possess this pratyaktva or subjectiveness does not also possess the common benefit of objects being disclosed. It cannot, therefore, be called sentient. Though subjective knowledge or the 'I' and attributive knowledge, which is its attribute, are both luminous by themselves, yet they are also capable of being apprehended by other forms of knowledge (like that from śāstras), as being endowed with attributes like being eternal. When one's attributive knowledge happens to be known or apprehended by one with the help of another piece of knowledge, the latter is called another piece of knowledge, merely because of the direction to which the attributive knowledge is turned. When we perceive an object, say a pot, dharmabhūtajñāna contacts the object and reveals it to the soul or self; but when the dharmabhūta jñāna itself becomes the object of knowledge, it is revealed to the self  by a part of it.
 
 THE THREE KINDS OF NON-SENTIENT BEINGS :
 
