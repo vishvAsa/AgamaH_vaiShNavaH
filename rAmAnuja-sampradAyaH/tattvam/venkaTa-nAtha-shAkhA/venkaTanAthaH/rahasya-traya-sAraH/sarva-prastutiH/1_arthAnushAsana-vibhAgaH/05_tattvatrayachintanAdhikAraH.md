@@ -2516,6 +2516,7 @@ The attributive knowledge (dharmabhūtajñāna) of all ātmās is luminous to it
 सर्वात्माक्कळुडैयवुम् धर्मभूतज्ञानम् विषयप्रकाशनवेळैयिले स्वाश्रयत्तुक्कु स्वयंप्रकाशमायिरुक्कुम्.  
 </details>
 
+### धर्मि-ज्ञान-व्यत्यासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञानत्वम् उम् स्वयं-प्रकाशत्वम् उम्  
@@ -2544,7 +2545,7 @@ and being self-luminous (i.e.) being luminous without requiring anything else to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्मभूतज्ञानत्तुक्कु विषयित्वम् एट्रम्+++(=अधिकम्)+++.
+धर्म-भूत-ज्ञानत्तुक्कु **विषयित्वम्** एट्रम्+++(=अधिकम्)+++.
 </details>
 
 
@@ -2568,7 +2569,7 @@ of revealing or disclosing objects (vishayitva).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्मिय् आनव् आत्म--स्व-रूपत्तुक्कु प्रत्यक्त्वम् एट्रम्.
+धर्मिय् आनव् आत्म--स्व-रूपत्तुक्कु **प्रत्यक्त्वम्** एट्रम्.
 </details>
 
 <details><summary>English</summary>
@@ -2638,7 +2639,7 @@ fit for being spoken out and acted upon (vyavahāra).
 अदावदु - तन्नुडैयवागवुमाम्, वेऱॊण्ड्रिनुडैयवागवुमाम् - एदेनुमॊण्ड्रिनुडैय व्यवहारानुगुण्यत्तैप् पण्णुगै.
 </details>
 
-## स्वयं-प्रकाशत्वम्
+### स्वयं-प्रकाशत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **स्वयं-प्रकाशत्वम्** आवदु  
@@ -2664,6 +2665,7 @@ without the need of any other known ledge to illumine it.
 स्वयंप्रकाशत्वमावदु तन्नै विषयीकरिप्पदॊरु ज्ञानान्तरत्तालबेक्षैयऱत् ताने प्रकाशिक्कै.
 </details>
 
+### विषयत्व-प्रत्यक्त्वे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्म-भूत-ज्ञानत्तुक्कु **विषयित्वम्** आवदु  
@@ -2711,11 +2713,228 @@ The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in th
 </details>
 
 
-that is, the benefit of their luminosity is enjoyed by themselves The atma or self is the recipient of the benefit of every object being disclosed or revealed. Pratyaktva is only a special instance of this general statement, for in it, the self receives the benefit of its own disclosure or revelation. A thing which does not possess this pratyaktva or subjectiveness does not also possess the common benefit of objects being disclosed. It cannot, therefore, be called sentient. Though subjective knowledge or the 'I' and attributive knowledge, which is its attribute, are both luminous by themselves, yet they are also capable of being apprehended by other forms of knowledge (like that from śāstras), as being endowed with attributes like being eternal. When one's attributive knowledge happens to be known or apprehended by one with the help of another piece of knowledge, the latter is called another piece of knowledge, merely because of the direction to which the attributive knowledge is turned. When we perceive an object, say a pot, dharmabhūtajñāna contacts the object and reveals it to the soul or self; but when the dharmabhūta jñāna itself becomes the object of knowledge, it is revealed to the self  by a part of it.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्+++(=स्वस्मै भासमानत्वम्)+++ आवदु तन् प्रकाशत्तुक्कुत् तान् फलिय् आय् इरुक्कै.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदावदु तन् प्रकाशत्तुक्कुत् तान् फलियायिरुक्कै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एद्-एनुम् ऒरु "वस्तुविन् प्रकाशत्तुक्कु फलिय्" ऎन्गिऱ सामान्याकारत्तैत्,
+"तन्-प्रकाशत्तुक्कुत् तान् फलिय्" ऎण्ड्रु विशेषित्त  
+वाऱ्+++(=रीतिय्)+++ ए प्रत्यक्त्वम् आम्.
+</details>
+
+<details><summary>English</summary>
+
+that is, the benefit of their luminosity is enjoyed by themselves  
+The atma or self is the recipient of the benefit of every object being disclosed or revealed.  
+Pratyaktva is only a special instance of this general statement,  
+for in it, the self receives the benefit of its own disclosure or revelation.  
+</details>
+
+<details><summary>Español</summary>
+
+that is, the benefit of their luminosity is enjoyed by themselves  
+The atma or self is the recipient of the benefit of every object being disclosed or revealed.  
+Pratyaktva is only a special instance of this general statement,  
+for in it, the self receives the benefit of its own disclosure or revelation.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एद्-एनुम् ऒरु वस्तुविन् प्रकाशत्तुक्कु फलिय् ऎन्गिऱ सामान्याकारत्तैत् तन् प्रकाशत्तुक्कुत् तान् फलियॆण्ड्रु विशेषित्तवाऱे प्रत्यक्त्वमाम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् +++(प्रत्यक्त्वाख्य-)+++विशेषम् इल्लाद वस्तुवुक्कु  
+इस्-सामान्यम् +++(→प्रकाश-फलित्वम्)+++ उम्  
+इत्तोडु व्याप्तम् आन चेतनत्वम् उम् इल्लै.
+</details>
+
+<details><summary>English</summary>
+
+A thing which does not possess this pratyaktva or subjectiveness  
+does not also possess the common benefit of objects being disclosed.  
+It cannot, therefore, be called sentient. 
+</details>
+
+<details><summary>Español</summary>
+
+A thing which does not possess this pratyaktva or subjectiveness  
+does not also possess the common benefit of objects being disclosed.  
+It cannot, therefore, be called sentient. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विशेषमिल्लाद वस्तुवुक्कु इस्सामान्यमुमित्तोडु व्याप्तमान चेतनत्वमुमिल्लै.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद् धर्म-धर्मिगळ् इरण्ड् उम्  
+स्वयं-प्रकाशम् आय् इरुन्दाल् उम्,  
++++(उभेऽपि)+++ नित्यत्वादि-धर्म-विशेष-विशिष्ट-रूपङ्गळाल् ए  
++++(शास्त्रादि-)+++ज्ञानान्तर-वेद्यङ्गळ् उम् आम्
+</details>
+
+<details><summary>English</summary>
+
+Though subjective knowledge or the 'I' and attributive knowledge, which is its attribute, are both luminous by themselves,  
+yet they are also capable of being apprehended by other forms of knowledge (like that from śāstras),  
+as being endowed with attributes like being eternal.
+</details>
+
+<details><summary>Español</summary>
+
+Though subjective knowledge or the 'I' and attributive knowledge, which is its attribute, are both luminous by themselves,  
+yet they are also capable of being apprehended by other forms of knowledge (like that from śāstras),  
+as being endowed with attributes like being eternal.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इद् धर्मधर्मिगळिरण्डुम् स्वयंप्रकाशमायिरुन्दालुम् नित्यत्वादिधर्मविशेषविशिष्टरूपङ्गळाले ज्ञानान्तरवेद्यङ्गळुमाम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन्न्-उडैय धर्म-भूत-ज्ञानम्  
+तनक्कु +++(शास्त्रादि-)+++ज्ञानान्तर-वेद्यम् आम् पोदु  
++++(स्व-विषयत्व-रूप-)+++प्रसरण-भेद-मात्रत्ताल् ए "ज्ञानान्तर"-व्यपदेशम्  
++++(किञ्च वस्तुतस् स्वयं धर्मभूतज्ञानाङ्गम् एव)+++.
+</details>
+
+<details><summary>English</summary>
+
+When one's attributive knowledge happens to be known or apprehended  
+by one with the help of another piece of knowledge,  
+the latter is called another piece of knowledge,  
+merely because of the direction to which the attributive knowledge is turned.  
+
+When we perceive an object, say a pot, dharmabhūtajñāna contacts the object and reveals it to the soul or self;  
+but when the dharmabhūta jñāna itself becomes the object of knowledge,  
+it is revealed to the self by a part of it.
+</details>
+
+<details><summary>Español</summary>
+
+When one's attributive knowledge happens to be known or apprehended  
+by one with the help of another piece of knowledge,  
+the latter is called another piece of knowledge,  
+merely because of the direction to which the attributive knowledge is turned.  
+
+When we perceive an object, say a pot, dharmabhūtajñāna contacts the object and reveals it to the soul or self;  
+but when the dharmabhūta jñāna itself becomes the object of knowledge,  
+it is revealed to the self by a part of it.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्नुडैय धर्मभूतज्ञानम् तनक्कु ज्ञानान्तरवेद्यमाम्-पोदु प्रसरण-भेदमात्रत्ताले ज्ञानान्तरव्यपदेशम्.
+</details>
+
+
+
+## अ-चित्-प्रकाराः
+<details><summary>English</summary>
 
 THE THREE KINDS OF NON-SENTIENT BEINGS :
+</details>
 
-The three classes of non-sentient things are capable of being apprehended only by others, (and not by themselves). Non sentience means being without the possession of knowledge. To be capable of being apprehended only by others means that their apprehension is not to themselves or for their own benefit. These two (viz. being without the possession of knowledge and the apprehension not being for their own benefit) are true also of attributive knowledge (dharmabhūta jñāna), which is thus a non-sentient thing.
+<details><summary>Español</summary>
+
+THE THREE KINDS OF NON-SENTIENT BEINGS :
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रि-विधाचेतनङ्गळ् उम् पररुक्क् ए तोण्ड्रक् कडवनव् आय् इरुक्कुम्.
+</details>
+
+<details><summary>English</summary>
+
+The three classes of non-sentient things  
+are capable of being apprehended only by others, (and not by themselves). 
+</details>
+
+<details><summary>Español</summary>
+
+The three classes of non-sentient things  
+are capable of being apprehended only by others, (and not by themselves). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्रिविधाचेतनङ्गळुम् पररुक्के तोण्ड्रक् कडवनवायिरुक्कुम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अचेतनम्** आवदु ज्ञानाश्रयम् अण्ड्रिक्क् एय् ऒऴिगै+++(=अवस्थानम्)+++.
+</details>
+
+<details><summary>English</summary>
+
+Non sentience means  
+being without the possession of knowledge. 
+</details>
+
+<details><summary>Español</summary>
+
+Non sentience means being without the possession of knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अचेतनमावदु ज्ञानाश्रयमण्ड्रिक्केयॊऴिगै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"**पिऱरुक्क् ए तोण्ड्रुगैय्**" आवदु  
+तन् प्रकाशत्तुक्कुत् तान् फलिय् अण्ड्रिक्क् एय् ऒऴिगै. 
+</details>
+
+<details><summary>English</summary>
+
+To be capable of being apprehended only by others  
+means that their apprehension is not to themselves  
+or for their own benefit. 
+</details>
+
+<details><summary>Español</summary>
+
+To be capable of being apprehended only by others  
+means that their apprehension is not to themselves  
+or for their own benefit. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पिऱरुक्के तोण्ड्रुगैयावदु तन् प्रकाशत्तुक्कुत् तान् फलियण्ड्रिक्केयॊऴिगै. 
+</details>
+
+
+
+These two (viz. being without the possession of knowledge and the apprehension not being for their own benefit) are true also of attributive knowledge (dharmabhūta jñāna), which is thus a non-sentient thing.
 
 Of the three classes of non-sentient things, matter (Prakṛti) and time (Kala) are jaḍa (i.e.) not luminous by themselves. There are some who hold that Śuddha-sattvam is also jaḍa. To be jaḍa is to be without self-luminosity. Those who have studied such treatises as pañcarātra or the Lord's Śāstra would say that Śuddhasattvam is luminous by itself, as it is declared to be so in that śāstra. It may be asked why, if it is luminous by itself, it is not directly perceived by beings in the state of saṁsāra, without having to be known through śāstra only. The answer is as follows:- The soul whose essential nature (svarūpa) is knowledge and its attributive knowledge are both laminous by themselves and yet the former is luminous to itself and not to other souls, who have to know it with the help of their own attributive knowledge. Attributive knowledge, though luminous to its substrate, namely the soul, is not luminous to others. In the same way, the Śuddha sattvam may be luminous by itself only to Iśvara, the muktas and the nityas and not to others. There is nothing unreasonable in this view.
 
