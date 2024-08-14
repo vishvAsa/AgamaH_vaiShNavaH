@@ -2439,7 +2439,7 @@ He may be said to have disobeyed.
 स्वतन्त्रनागैयाले स्वतन्त्राज्ञातिलङ्घनमागिऱ सहकारियोग्यतैयुमिल्लै.
 </details>
 
-## आत्म-स्वरूपम्
+## धर्मि-भूत-ज्ञानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जीवेश्वर-रूपर् आन आत्माक्कळ् ऎल्लार्-उडैयव् उम् स्व-रूपम्  
@@ -2468,7 +2468,7 @@ is being selfluminous to oneself.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद्-धर्मि--स्व-रूप--प्रकाशत्तुक्कु  
-बद्धरुक्कुम् उळ्-बड वॊरु-कालत्तिल् उम्  
+बद्धरुक्क् उम् उळ्-बड वॊरु-कालत्तिल् उम्  
 सङ्कोच-विकासङ्गळ् इल्लै.
 </details>
 
@@ -2492,11 +2492,93 @@ no contraction or expansion at any time.
 इद्धर्मिस्वरूपप्रकाशत्तुक्कु बद्धरुक्कुमुळ्बड वॊरुगालत्तिलुम् सङ्कोचविकासङ्गळिल्लै.
 </details>
 
+## धर्म-भूत-ज्ञानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वात्माक्कळ्-उडैयव् उम् धर्म-भूत-ज्ञानम्  
+विषय-प्रकाशन-वेळैयिल् ए स्वाश्रयत्तुक्कु स्वयं-प्रकाशम् आय् इरुक्कुम्.  
+</details>
+
+<details><summary>English</summary>
+
+The attributive knowledge (dharmabhūtajñāna) of all ātmās is luminous to its supporting self,  
+while disclosing objects (like pots). 
+</details>
+
+<details><summary>Español</summary>
+
+The attributive knowledge (dharmabhūtajñāna) of all ātmās is luminous to its supporting self, while disclosing objects (like pots). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वात्माक्कळुडैयवुम् धर्मभूतज्ञानम् विषयप्रकाशनवेळैयिले स्वाश्रयत्तुक्कु स्वयंप्रकाशमायिरुक्कुम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञानत्वम् उम् स्वयं-प्रकाशत्वम् उम्  
+धर्म-धर्मिगळुक्कु साधारणम्.
+</details>
+
+<details><summary>English</summary>
+
+A common characteristic of svarūpa jñāna or the self and attributive knowledge or dharniabhūtajrāna  
+is their both being of the nature of knowledge  
+and being self-luminous (i.e.) being luminous without requiring anything else to light them up. 
+</details>
+
+<details><summary>Español</summary>
+
+A common characteristic of svarūpa jñāna or the self and attributive knowledge or dharniabhūtajrāna  
+is their both being of the nature of knowledge  
+and being self-luminous (i.e.) being luminous without requiring anything else to light them up.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानत्वमुम् स्वयंप्रकाशत्वमुम् धर्मधर्मिगळुक्कु साधारणम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्मभूतज्ञानत्तुक्कु विषयित्वम् एट्रम्.
+</details>
+
+<details><summary>मूलम्</summary>
+
+धर्मभूतज्ञानत्तुक्कु विषयित्वमेट्रम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्मिय् आनव् आत्म--स्व-रूपत्तुक्कु प्रत्यक्त्वम् एट्रम्.
+</details>
+
+<details><summary>English</summary>
+
+Attributive knowledge has the additional characteristic  
+of revealing or disclosing objects (vishayitva). 
+</details>
+
+<details><summary>Español</summary>
+
+Attributive knowledge has the additional characteristic  
+of revealing or disclosing objects (vishayitva). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धर्मियानवात्मस्वरूपत्तुक्कु प्रत्यक्त्वम् एट्रम्.
+</details>
 
 
 
-
-The attributive knowledge (dharmabhūtajñāna) of all ātmās is luminous to its supporting self, while disclosing objects (like pots). A common characteristic of svarūpa jñāna or the self and attributive knowledge or dharniabhūtajrāna is their both being of the nature of knowledge and being self-luminous (i.e.) being luminous without requiring anything else to light them up. Attributive knowledge has the additional characteristic of revealing or disclosing objects (vishayitva). The additional characteristic possessed by svarüpajñāna (or the self) is subjectiveness or inwardness (pratyaktva). Jñāna or knowledge, (which is the character of both of them), may be defined as that which makes a thing laminous; that is, it makes either itself or something else fit for being spoken out and acted upon (vyavahāra). Self-luminosity is the capability of being luminous without the need of any other known ledge to illumine it. Attributive knowledge has vishayitva, because it discloses objects other than itself (like pots, cloths etc.) The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in their being luminous to themselves ; that is, the benefit of their luminosity is enjoyed by themselves The atma or self is the recipient of the benefit of every object being disclosed or revealed. Pratyaktva is only a special instance of this general statement, for in it, the self receives the benefit of its own disclosure or revelation. A thing which does not possess this pratyaktva or subjectiveness does not also possess the common benefit of objects being disclosed. It cannot, therefore, be called sentient. Though subjective knowledge or the 'I' and attributive knowledge, which is its attribute, are both luminous by themselves, yet they are also capable of being apprehended by other forms of knowledge (like that from śāstras), as being endowed with attributes like being eternal. When one's attributive knowledge happens to be known or apprehended by one with the help of another piece of knowledge, the latter is called another piece of knowledge, merely because of the direction to which the attributive knowledge is turned. When we perceive an object, say a pot, dharmabhūtajñāna contacts the object and reveals it to the soul or self; but when the dharmabhūta jñāna itself becomes the object of knowledge, it is revealed to the self  by a part of it.
+The additional characteristic possessed by svarüpajñāna (or the self) is subjectiveness or inwardness (pratyaktva). Jñāna or knowledge, (which is the character of both of them), may be defined as that which makes a thing laminous; that is, it makes either itself or something else fit for being spoken out and acted upon (vyavahāra). Self-luminosity is the capability of being luminous without the need of any other known ledge to illumine it. Attributive knowledge has vishayitva, because it discloses objects other than itself (like pots, cloths etc.) The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in their being luminous to themselves ; that is, the benefit of their luminosity is enjoyed by themselves The atma or self is the recipient of the benefit of every object being disclosed or revealed. Pratyaktva is only a special instance of this general statement, for in it, the self receives the benefit of its own disclosure or revelation. A thing which does not possess this pratyaktva or subjectiveness does not also possess the common benefit of objects being disclosed. It cannot, therefore, be called sentient. Though subjective knowledge or the 'I' and attributive knowledge, which is its attribute, are both luminous by themselves, yet they are also capable of being apprehended by other forms of knowledge (like that from śāstras), as being endowed with attributes like being eternal. When one's attributive knowledge happens to be known or apprehended by one with the help of another piece of knowledge, the latter is called another piece of knowledge, merely because of the direction to which the attributive knowledge is turned. When we perceive an object, say a pot, dharmabhūtajñāna contacts the object and reveals it to the soul or self; but when the dharmabhūta jñāna itself becomes the object of knowledge, it is revealed to the self  by a part of it.
 
 THE THREE KINDS OF NON-SENTIENT BEINGS :
 
