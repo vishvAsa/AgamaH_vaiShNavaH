@@ -4673,12 +4673,116 @@ that come into existence out of a temporary desire of Iśvara, of the nityas and
 नित्यरुडैयवुम् मुक्तरुडैयवुम् ईश्वरनुडैयवुम् अनित्येच्छैयाले वन्द विग्रहादिगळिल् अनित्यमायिरुक्कुम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Its specific activity is to undergo modifications to suit their desires so as to serve as accessories for the enjoyment (Bhoga) of Iśvara, the śeṣī, and as instruments for the service to be rendered by the śeṣas.
+इदिन् प्रवृत्ति-भेदम्  
+इवर्गळ्-उडैय इच्छैक्क् ईड् आग परिणामादिगळाल् ए  
+शेषिक्कु भोगोपकरणम् आय् उम्  
+शेष-भूतनुक्कु कैङ्कर्योपकरणम् आय् उम् निऱ्‌कै.+++(4)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य प्रवृत्तिभेदः एषाम् इच्छानुरोधिभिः परिणामादिभिः  
+शेषिणो भोगोपकरणतया  
+शेष-भृतानां कैङ्कर्योपकरणतया चावस्थानम् । 
+</details>
+
+<details><summary>English</summary>
+
+Its specific activity is to undergo modifications  
+to suit their desires so as to serve as accessories  
+for the enjoyment (Bhoga) of Iśvara, the śeṣī,  
+and as instruments for the service to be rendered by the śeṣas.
+</details>
+
+<details><summary>Español</summary>
+
+Its specific activity is to undergo modifications  
+to suit their desires so as to serve as accessories  
+for the enjoyment (Bhoga) of Iśvara, the śeṣī,  
+and as instruments for the service to be rendered by the śeṣas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिन् प्रवृत्तिभेदम् इवर्गळुडैय इच्छैक्कीडाग परिणामादिगळाले शेषिक्कु भोगोपकरणमायुम् शेषभूतनुक्कु कैङ्कर्योपकरणमायुम् निऱ्‌कै. 
+</details>
+
+
+## कालः
+<details><summary>English</summary>
 
 TIME: Kāla.
+</details>
 
-Time or Kāla is, in its essential nature, non-sentient or non luminous and all-pervasive (vibhu). It is eternal because its continued existence ( sthiti) is not limited by time. Its activity consists in its being accessory to creation and the like by such divisions as kală (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
+<details><summary>Español</summary>
+
+TIME: Kāla.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कालत्तुक्कु **स्व-रूप-भेदम्**  
+जडम् आय् विभुव् आय् इरुक्कै. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कालस्य स्व-रूप-भेदो जडत्वे सति विभुत्वम् । 
+</details>
+
+<details><summary>English</summary>
+
+Time or Kāla is, in its essential nature,  
+non-sentient or non luminous and all-pervasive (vibhu). 
+</details>
+
+<details><summary>Español</summary>
+
+Time or Kāla is, in its essential nature, non-sentient or non luminous and all-pervasive (vibhu). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कालत्तुक्कु स्वरूपभेदम् जडमाय् विभुवायिरुक्कै. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+
+इदिन् **स्थिति** कालावच्छेदम् इल्लामैयाल् ए  
+नित्यैय् आय् इरुक्कुम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य स्थितिः कालावच्छेदाभावान्  
+नित्या भवति । 
+</details>
+
+<details><summary>English</summary>
+
+It is eternal because its continued existence ( sthiti) is not limited by time. 
+</details>
+
+<details><summary>Español</summary>
+
+It is eternal because its continued existence ( sthiti) is not limited by time. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिन् स्थिति कालावच्छेदमिल्लामैयाले नित्यैयायिरुक्कुम्.
+</details>
+
+
+
+
+Its activity consists in its being accessory to creation and the like by such divisions as kală (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
 
 All these substances (dravya ) are, in their essential nature (svarūpa), eternal. Some of them are said to be temporary or transient, owing to their assuming a new state or condition (avastha), which justifies their being called by a new name. As new states similar to those which have perished follow each other in continuous succession, they are said to be eternal in the sense of a stream or current of water (retaining the same form, though the water at any time may be different ).
 
