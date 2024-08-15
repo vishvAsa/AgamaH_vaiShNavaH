@@ -3972,6 +3972,7 @@ in accordance with the terms or basis of classification.
 सिल विवक्षाविशेषङ्गळाले योरॊरु विधङ्गळिले तत्त्वङ्गळै येऱवुञ्जुरुङ्गवुञ् चॊल्ला निऱ्‌कुम्. 
 </details>
 
+### तत्त्व-देवतादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्-तत्त्वङ्गळिल् अवान्तर-वगुप्पुगळ् उम्  
@@ -4087,6 +4088,11 @@ These may all be understood as weapons and ornaments of the Supreme Being, in th
 गरुड-शरीर-भूतानां वेदानाम् अर्थ-भूतः कृष्णः  
 करि-गिरेर् उपरि स्थित्वा  
 सर्वं रक्षति –  
+
+(पुरुषो मणिवरोऽस्य भवति,  
+प्रकृतिः श्रीवत्सो भवतीत्य् एवं  
+गरुडतनुभूत-वेद-प्रतिपाद्य-भूतः कृष्ण  
+इति वाऽनुवदितव्यम् । )
 </details>
 
 <details><summary>English</summary>
@@ -4148,16 +4154,273 @@ is endowed with these and protects all from the top of Hastigiri.
 ऎन्गिऱ कट्टळैयिले अऱिगैयुचितम्.
 </details>
 
+### तत्त्व-स्वरूप-स्थिती
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The distinctive features of each of these twenty-four reals' may be seen in their respective definitions. Of these the twenty three reals which are effects and modifications of prakṛti and also their effects and modifications differ from one another in their nature and these differences may be understood from a study of the purānas.
+इरु-बत्ति-नालु तत्त्वङ्गळुक्क् उम् अन्योन्यं स्व-रूप-भेदम्  
+अव्व्-ओ लक्षणङ्गळाल् ए सिद्धम्.  
+</details>
 
-ESSENTIAL NATURE, ACTIVITY ETC. OF PRAKṚTI:
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Śuddhasattvam[^f151]
+चतुर्विंशतेस्तत्त्वानामन्योन्यं स्वरूपभेदस्त तल्लक्षणैः सिद्धः ।  
+</details>
 
-[^f151]: Pāñcarātram
+<details><summary>English</summary>
 
-"Satvam or Śuddhasattvam illumines its own existence; it is different from the quality called sattvam" "The creator[^f152] is beyond tamas;' "It is different from[^f153] prakṛti and is revered by the gods". These and other passages declare the existence of a region (of s'uddha sattvam) beyond tamas. Therefore the passages which say[^f154] "It (Prakṛti) is eternal and has no limits and is beyond all measure. It is endless and incapable of being measured” should be understood as stating that moola prakṛti or matter is endless or infinite except for the region covered by the nitya vibhūti (the region of eternal glory).
+The distinctive features of each of these twenty-four reals  
+may be seen in their respective definitions. 
+</details>
+
+<details><summary>Español</summary>
+
+The distinctive features of each of these twenty-four reals  
+may be seen in their respective definitions. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरुबत्ति नालु तत्त्वङ्गळुक्कुमन्योन्यं स्वरूपभेदमव्वो लक्षणङ्गळाले सिद्धम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् कार्यम् आन इरु-बत्ति-मूण्ड्रु तत्त्वङ्गळुक्क् उम्  
+इवट्राल् आरब्धङ्गळ् आन् अवट्रुक्क् उम्  
+स्थितियिल् वरुम् एट्रच् शुरुक्कङ्गळ्  
+पुराणङ्गळिल् ए प्रसिद्धम् आनप् पडिय् ए  
+कण्डु कॊळ्वदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तेषु कार्यभूतानां त्रयो-विंशतेस् तत्त्वानां  
+एतद्-आरब्धानां च  
+स्थिताव् उपनमन्त्यौ आधिक्य-न्यूनते  
+पुराण-प्रसिद्ध-रीत्या द्रष्टव्ये । 
+</details>
+
+<details><summary>English</summary>
+
+Of these the twenty three reals  
+which are effects and modifications of prakṛti  
+and also their effects and modifications  
+differ from one another in their nature  
+and these differences may be understood from a study of the purānas.
+</details>
+
+<details><summary>Español</summary>
+
+Of these the twenty three reals  
+which are effects and modifications of prakṛti  
+and also their effects and modifications  
+differ from one another in their nature  
+and these differences may be understood from a study of the purānas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् कार्यमान इरुबत्तिमूण्ड्रु तत्त्वङ्गळुक्कु मिवट्रा लारब्धङ्गळानवट्रुक्कुम् स्थितियिल् वरुमेट्रच्चुरुक्कङ्गळ् पुराणङ्गळिले प्रसिद्धमानप्पडिये कण्डु कॊळ्वदु. 
+</details>
+
+
+### मूल-प्रकृतेर् आनन्त्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“स्व-सत्ताभासकं सत्वं  
+गुण-सत्वाद् +++(→प्रकृताव् अन्तर्-भूताद्)+++ विलक्षणं” (पाञ्चरात्रम्)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“स्व-सत्ताभासकं सत्वं  
+गुण-सत्वाद् +++(→प्रकृताव् अन्तर्-भूताद्)+++ विलक्षणं” (पाञ्चरात्रम्)
+</details>
+
+<details><summary>English</summary>
+
+"Satvam or Śuddhasattvam illumines its own existence;  
+it is different from the quality called sattvam"  
+Pāñcarātram
+
+</details>
+
+<details><summary>Español</summary>
+
+"Satvam or Śuddhasattvam illumines its own existence;  
+it is different from the quality called sattvam"  
+Pāñcarātram
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“स्वसत्ताभासकं सत्वं गुणसत्वाद्विलक्षणं” (पाञ्चरात्रम्)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तमसः परमो धाता” (रामा-यु 114-15)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“तमसः परमो धाता” (रामा-यु 114-15)
+</details>
+
+<details><summary>English</summary>
+
+> The creator[^f152] is beyond tamas;  
+
+</details>
+
+<details><summary>Español</summary>
+
+> The creator[^f152] is beyond tamas;  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तमसः परमो धाता” (रामा-यु 114-15)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“अप्राकृतं सुरैर्वन्द्यम्” (जितन्ते स्तो 2-21.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“अप्राकृतं सुरैर्वन्द्यम्” (जितन्ते स्तो 2-21.)  
+</details>
+
+<details><summary>English</summary>
+
+"It is different from[^f153] prakṛti  
+and is revered by the gods". 
+</details>
+
+<details><summary>Español</summary>
+
+"It is different from[^f153] prakṛti  
+and is revered by the gods". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अप्राकृतं सुरैर्वन्द्यम्” (जितन्ते स्तो 2-21.)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादिगळाल् ए  
+तमस्सुक्कु मेलान देश-विशेषम् सिद्धिक्कैयाल् ए  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्यादिभिस् तमस उपरिष्टाद् देशविशेषस्य सिद्धेः  
+</details>
+
+
+<details><summary>English</summary>
+
+These and other passages declare the existence of a region (of s'uddha sattvam) beyond tamas.
+</details>
+
+<details><summary>Español</summary>
+
+These and other passages declare the existence of a region (of s'uddha sattvam) beyond tamas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले तमस्सुक्कु मेलान देशविशेषम् सिद्धिक्कैयाले  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अनन्तस्य न +++(प्रकृतेस्)+++ तस्यान्तस्  
+संख्यानं वाऽपि विद्यते ।  
+तद्-अनन्तम् अ-संख्यात-  
+प्रमाणञ् चापि वै यतः” (वि-पु. 2-7-25, 26.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “अनन्तस्य न +++(प्रकृतेस्)+++ तस्यान्तस्  
+संख्यानं वाऽपि विद्यते ।  
+तद्-अनन्तम् अ-संख्यात-  
+प्रमाणञ् चापि वै यतः” (वि-पु. 2-7-25, 26.) 
+</details>
+
+<details><summary>English</summary>
+
+"It (Prakṛti) is eternal and has no limits and is beyond all measure.  
+It is endless and incapable of being measured” 
+</details>
+
+<details><summary>Español</summary>
+
+"It (Prakṛti) is eternal and has no limits and is beyond all measure.  
+It is endless and incapable of being measured” 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अनन्तस्य न तस्यान्तस्संख्यानं वाऽपि विद्यते ।  
+तदनन्तमसंख्यातप्रमाणञ्चापि वै यतः” (वि-पु. 2-7-25, 26.) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादिगळ् नित्य-विभूतियाल् अवच्छिन्नम् अल्लाद प्रदेशत्ताल् ए  
+मूल-प्रकृतिक्कु आनन्त्यञ् चॊल्लुगिण्ड्रन.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-आदीनि नित्य-विभूत्य्-अनवच्छिन्न-प्रदेशम् आदाय  
+मूल-प्रकृतेर् आनन्त्यं प्रतिपादयन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore the passages which say[^f154] (this)  
+should be understood as stating that  
+moola prakṛti or matter is endless or infinite  
+except for the region covered by the nitya vibhūti (the region of eternal glory).
+</details>
+
+<details><summary>Español</summary>
+
+Therefore the passages which say[^f154] (this)  
+should be understood as stating that  
+moola prakṛti or matter is endless or infinite  
+except for the region covered by the nitya vibhūti (the region of eternal glory).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळ् नित्यविभूतियालवच्छिन्नमल्लाद प्रदेशत्ताले मूलप्रकृतिक्कु आनन्त्यञ् चॊल्लुगिण्ड्रन.  
+</details>
+
+
+
 
 [^f152]: Rāmāyaṇa: Yuddhakāṇḍa: 114-15
 
@@ -4165,7 +4428,81 @@ ESSENTIAL NATURE, ACTIVITY ETC. OF PRAKṚTI:
 
 [^f154]: Viṣṇupurāṇa: 2-7-25,26
 
-The activity or pravṛtti of matter (or prakṛti) is to become modified with its three qualities duly balanced ( during pralaya), and with them as a given after creation (śrīshti), for the sake of the experience of souls bound in samsarā, and for their release from bondage and so also for the delectation or līlā of Iśvara. It also acts in various ways, having assumed the forms of the body and the senses. Owing to the qualities of rajas and tamas in it, it conceals the truths concerning the reals' (tattvas) and gives rise to false or erroneous knowledge. While existing for the experiences of the baddha during saṁsāra, it may also reveal the tattvas or 'reals. just as they are, when the quality of sattvam in it is developed and may help in the striving for mokṣa. All these contribute to the delectation or līlā of Iśvara.
+### प्रवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रि-गुण-द्रव्यत्तुक्कु प्रवृत्ति-भेदम्  
+बद्ध-चेतनर्-उडैय भोगापवर्गङ्गळुक्क् उम्  
+ईश्वरन्-उडैय लीला-रसत्तुक्क् उम् आग  
+समम् आगव् उम्, विषमम् आगव् उम्  
+परिणाम-सन्ततियैय् उडैत्त् आय्,  
+देहेन्द्रियादि-रूपत्ताल् एय्  
+अव्व्-ओ व्यापारङ्गळैय् उम् पण्णुगै. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[૩૮]]
+
+त्रिगुणद्रव्यस्य प्रवृत्तिभेदः  
+बद्ध-चेतनानां भोगापवर्गार्थम्  
+ईश्वरस्य लीला-रसार्थं च  
+सम-विषम-परिणाम-सन्ततिं प्राप्य,  
+देहेन्द्रियादि-रूपेण तद्-व्यापाराणाम् अपि करणम् ।  
+</details>
+
+<details><summary>English</summary>
+
+The activity or pravṛtti of matter (or prakṛti) is to become modified  
+with its three qualities duly balanced ( during pralaya),  
+and with them as a given after creation (śrīshti),  
+for the sake of the experience of souls bound in samsarā,  
+and for their release from bondage  
+and so also for the delectation or līlā of Iśvara.  
+It also acts in various ways,  
+having assumed the forms of the body and the senses. 
+</details>
+
+<details><summary>Español</summary>
+
+The activity or pravṛtti of matter (or prakṛti) is to become modified  
+with its three qualities duly balanced ( during pralaya),  
+and with them as a given after creation (śrīshti),  
+for the sake of the experience of souls bound in samsarā,  
+and for their release from bondage  
+and so also for the delectation or līlā of Iśvara.  
+It also acts in various ways,  
+having assumed the forms of the body and the senses. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्रिगुणद्रव्यत्तुक्कु प्रवृत्तिभेदम् बद्धचेतनरुडैय भोगापवर्गङ्गळुक्कुम् ईश्वरनुडैय लीलारसत्तुक्कुमाग सममागवुम् विषममागवुम् परिणामसन्ततियै युडैत्ताय् देहेन्द्रियादिरूपत्ताले यव्वो व्यापारङ्गळैयुम् पण्णुगै. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु रजस्-तमस्सुक्कळैय् इट्टु  
+बद्धरुक्कु तत्त्वङ्गळिन् उण्मैयै मऱैत्तु  
+विपरीत-ज्ञानत्तै उण्डाक्कुगिऱदु भोगार्थम् आग. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं रजस्-तमो-द्वारा  
+बद्धानां तत्त्व-याथात्म्य-च्छादन-पूर्वं विपरीत-ज्ञानं जनयति भोगार्थम् । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु रजस्तमस्सुक्कळैयिट्टु बद्धरुक्कु तत्त्वङ्गळिनुण्मैयै मऱैत्तु विपरीतज्ञानत्तै उण्डाक्कुगिऱदु भोगार्थमाग. 
+</details>
+
+
+Owing to the qualities of rajas and tamas in it, it conceals the truths concerning the reals' (tattvas) and gives rise to false or erroneous knowledge. While existing for the experiences of the baddha during saṁsāra, it may also reveal the tattvas or 'reals. just as they are, when the quality of sattvam in it is developed and may help in the striving for mokṣa. All these contribute to the delectation or līlā of Iśvara.
 
 Śuddhasattvam is, in its essential nature (svarūpa), the seat or abode of that sattvam which is unmixed with rajas and tamas. Its specific state in time or sthiti is eternal in the (permanent) halls and towers (of Vaikuṇṭha  ) and in the specific and permanent forms of Iśvara and the eternally free. It is not eternal but temporary in such things as the forms that come into existence out of a temporary desire of Iśvara, of the nityas and of the muktas. Its specific activity is to undergo modifications to suit their desires so as to serve as accessories for the enjoyment (Bhoga) of Iśvara, the śeṣī, and as instruments for the service to be rendered by the śeṣas.
 
