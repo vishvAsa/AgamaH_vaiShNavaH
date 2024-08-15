@@ -282,7 +282,7 @@ God controls time there ; time is not the [^f138] cause of any change or modific
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्यादिगळिल् ए  
-त्रि-गुण--काल--शुद्ध-सत्व-रूपङ्गळ् आन त्रि-विधाचेतनङ्गळ्-उडैय स्वभावञ् चॊल्लिट्रु.
+त्रि-गुण--काल--शुद्ध-सत्त्व-रूपङ्गळ् आन त्रि-विधाचेतनङ्गळ्-उडैय स्वभावञ् चॊल्लिट्रु.
 </details>
 
 <details><summary>English</summary>
@@ -298,7 +298,7 @@ Thus the nature of Prakṛti, Kāla and Śuddha sattva which belong to three cla
 
 <details><summary>मूलम्</summary>
 
-इत्यादिगळिले त्रिगुणकालशुद्धसत्वरूपङ्गळान त्रिविधाचेतनङ्गळुडैय स्वभावञ् चॊल्लिट्रु.
+इत्यादिगळिले त्रिगुणकालशुद्धसत्त्वरूपङ्गळान त्रिविधाचेतनङ्गळुडैय स्वभावञ् चॊल्लिट्रु.
 </details>
 
 
@@ -554,7 +554,7 @@ The three kinds of sentient beings are those that are in bondage (baddha), those
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि-विधाचेतनम् ऎण्ड्रदु  
-त्रि-गुण-द्रव्यत्तैय् उम्, कालत्तैय् उम्, शुद्ध-सत्वम् आन द्रव्यत्तैय् उम्.
+त्रि-गुण-द्रव्यत्तैय् उम्, कालत्तैय् उम्, शुद्ध-सत्त्वम् आन द्रव्यत्तैय् उम्.
 </details>
 
 <details><summary>English</summary>
@@ -570,7 +570,7 @@ The three kinds of non-sentient things are Prakṛti with its three qualities (s
 
 <details><summary>मूलम्</summary>
 
-त्रिविधाचेतनमॆण्ड्रदु त्रिगुणद्रव्यत्तैयुम् कालत्तैयुम् शुद्धसत्वमान द्रव्यत्तैयुम्.
+त्रिविधाचेतनमॆण्ड्रदु त्रिगुणद्रव्यत्तैयुम् कालत्तैयुम् शुद्धसत्त्वमान द्रव्यत्तैयुम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3029,7 +3029,7 @@ matter (Prakṛti) and time (Kala) are jaḍa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुद्ध-सत्वम् आन द्रव्यत्तैय् उम्  
+शुद्ध-सत्त्वम् आन द्रव्यत्तैय् उम्  
 जडम् ऎण्ड्रु सिलर् सॊल्लुवर्गळ्.  
 </details>
 
@@ -3051,7 +3051,7 @@ There are some who hold that Śuddha-sattvam is also jaḍa.
 
 <details><summary>मूलम्</summary>
 
-शुद्धसत्वमान द्रव्यत्तैयुम् जडम् ऎण्ड्रु सिलर् सॊल्लुवर्गळ्.  
+शुद्धसत्त्वमान द्रव्यत्तैयुम् जडम् ऎण्ड्रु सिलर् सॊल्लुवर्गळ्.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3112,7 +3112,7 @@ as it is declared to be so in that śāstra.
 
 <details><summary>मूलम्</summary>
 
-भगवच्छास्त्रादिपरामर्शम् पण्णिनवर्गळ् ज्ञानात्मकत्वम् शास्त्रसिद्धमागैयाले शुद्धसत्वद्रव्यत्तै स्वयंप्रकाशमॆन्बर्गळ्.
+भगवच्छास्त्रादिपरामर्शम् पण्णिनवर्गळ् ज्ञानात्मकत्वम् शास्त्रसिद्धमागैयाले शुद्धसत्त्वद्रव्यत्तै स्वयंप्रकाशमॆन्बर्गळ्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3473,9 +3473,9 @@ There is nothing inconceivable in this.
 धर्म-भूत-ज्ञानत्तिन्-उडैय स्वात्म-प्रकाशन-शक्तिय् आनदु  
 विषय-प्रकाशम् इल्लाद कालत्तिल्  
 कर्म-विशेषङ्गळाल् ए प्रतिबद्धैय् आनाऱ्‌-पोल् ए  
-शुद्ध-सत्वत्तिन् उडैय स्वात्म-प्रकाशन-शक्तिय् उम्  
+शुद्ध-सत्त्वत्तिन् उडैय स्वात्म-प्रकाशन-शक्तिय् उम्  
 बद्ध-दशैयिल् प्रतिबद्धैय् आगैयाल् ए  
-शुद्ध-सत्वम् बद्धर्क्कुप् प्रकाशिया-तॊऴिगिऱदु.
+शुद्ध-सत्त्वम् बद्धर्क्कुप् प्रकाशिया-तॊऴिगिऱदु.
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -3509,7 +3509,7 @@ and may not, therefore, be apprehended by those in saṁsāra.
 
 <details><summary>मूलम्</summary>
 
-धर्मभूतज्ञानत्तिनुडैय स्वात्मप्रकाशनशक्तियानदु विषयप्रकाशमिल्लाद कालत्तिल् कर्मविशेषङ्गळाले प्रतिबद्धैयानाऱ्‌पोले शुद्धसत्वत्तिनुडैय स्वात्मप्रकाशनशक्तियुम् बद्धदशैयिल् प्रतिबद्धैयागैयाले शुद्धसत्वम् बद्धर्क्कुप् प्रकाशियातॊऴिगिऱदु.
+धर्मभूतज्ञानत्तिनुडैय स्वात्मप्रकाशनशक्तियानदु विषयप्रकाशमिल्लाद कालत्तिल् कर्मविशेषङ्गळाले प्रतिबद्धैयानाऱ्‌पोले शुद्धसत्त्वत्तिनुडैय स्वात्मप्रकाशनशक्तियुम् बद्धदशैयिल् प्रतिबद्धैयागैयाले शुद्धसत्त्वम् बद्धर्क्कुप् प्रकाशियातॊऴिगिऱदु.
 </details>
 
 
@@ -3739,14 +3739,14 @@ and cannot hold good in a matter where the authority of the śāstra  must be ac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि स्वयं-प्रकाशम् आन शुद्ध-सत्व-द्रव्यत्तै  
+इप्-पडि स्वयं-प्रकाशम् आन शुद्ध-सत्त्व-द्रव्यत्तै  
 ज्ञातृत्वम् इल्लामैयाल् ए  
 त्रि-विधाचेतनङ्गळ् ऎण्ड्रु सेरक्क् ओत्तदु+++(=पाठनम्)+++.
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-इत्थं स्वयं-प्रकाशस्य शुद्ध-सत्व-द्रव्यस्य ज्ञातृत्वाभावात्  
+इत्थं स्वयं-प्रकाशस्य शुद्ध-सत्त्व-द्रव्यस्य ज्ञातृत्वाभावात्  
 त्रि-विधाचेतनेति क्रोडी-कारः ॥ 
 </details>
 
@@ -3767,7 +3767,7 @@ because it has not the quality of sentience or being the knower.
 
 <details><summary>मूलम्</summary>
 
-इप्पडि स्वयंप्रकाशमान शुद्धसत्वद्रव्यत्तै ज्ञातृत्वमिल्लामैयाले त्रिविधाचेतनङ्गळॆण्ड्रु सेरक्कोत्तदु.
+इप्पडि स्वयंप्रकाशमान शुद्धसत्त्वद्रव्यत्तै ज्ञातृत्वमिल्लामैयाले त्रिविधाचेतनङ्गळॆण्ड्रु सेरक्कोत्तदु.
 </details>
 
 ### प्रवृत्तिः
@@ -4230,14 +4230,14 @@ and these differences may be understood from a study of the purānas.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“स्व-सत्ताभासकं सत्वं  
-गुण-सत्वाद् +++(→प्रकृताव् अन्तर्-भूताद्)+++ विलक्षणं” (पाञ्चरात्रम्)
+“स्व-सत्ताभासकं सत्त्वं  
+गुण-सत्त्वाद् +++(→प्रकृताव् अन्तर्-भूताद्)+++ विलक्षणं” (पाञ्चरात्रम्)
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-“स्व-सत्ताभासकं सत्वं  
-गुण-सत्वाद् +++(→प्रकृताव् अन्तर्-भूताद्)+++ विलक्षणं” (पाञ्चरात्रम्)
+“स्व-सत्ताभासकं सत्त्वं  
+गुण-सत्त्वाद् +++(→प्रकृताव् अन्तर्-भूताद्)+++ विलक्षणं” (पाञ्चरात्रम्)
 </details>
 
 <details><summary>English</summary>
@@ -4259,7 +4259,7 @@ Pāñcarātram
 
 <details><summary>मूलम्</summary>
 
-“स्वसत्ताभासकं सत्वं गुणसत्वाद्विलक्षणं” (पाञ्चरात्रम्)
+“स्वसत्ताभासकं सत्त्वं गुणसत्त्वाद्विलक्षणं” (पाञ्चरात्रम्)
 </details>
 
 
@@ -4495,6 +4495,20 @@ having assumed the forms of the body and the senses.
 बद्धानां तत्त्व-याथात्म्य-च्छादन-पूर्वं विपरीत-ज्ञानं जनयति भोगार्थम् । 
 </details>
 
+<details><summary>English</summary>
+
+Owing to the qualities of rajas and tamas in it,  
+it conceals the truths concerning the reals' (tattvas)  
+and gives rise to false or erroneous knowledge. 
+</details>
+
+<details><summary>Español</summary>
+
+Owing to the qualities of rajas and tamas in it,  
+it conceals the truths concerning the reals' (tattvas)  
+and gives rise to false or erroneous knowledge. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -4502,7 +4516,79 @@ having assumed the forms of the body and the senses.
 </details>
 
 
-Owing to the qualities of rajas and tamas in it, it conceals the truths concerning the reals' (tattvas) and gives rise to false or erroneous knowledge. While existing for the experiences of the baddha during saṁsāra, it may also reveal the tattvas or 'reals. just as they are, when the quality of sattvam in it is developed and may help in the striving for mokṣa. All these contribute to the delectation or līlā of Iśvara.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु ताने अपवर्गार्थम् आग  
+सत्त्व-विवृद्धियाल् ए तत्त्वङ्गळै यथावत् प्रकाशिप्पिक्किऱदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदमेवापवर्गार्थं सत्त्वविवृद्ध्या तत्वानि यथावत् प्रकाशयति । 
+</details>
+
+<details><summary>English</summary>
+
+While existing for the experiences of the baddha during saṁsāra,  
+it may also reveal the tattvas or 'reals. just as they are,  
+when the quality of sattvam in it is developed  
+and may help in the striving for mokṣa. 
+</details>
+
+<details><summary>Español</summary>
+
+While existing for the experiences of the baddha during saṁsāra,  
+it may also reveal the tattvas or 'reals. just as they are,  
+when the quality of sattvam in it is developed  
+and may help in the striving for mokṣa. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु ताने अपवर्गार्थमाग सत्त्वविवृद्धियाले तत्त्वङ्गळै यथावत् प्रकाशिप्पिक्किऱदु. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् ऎल्लाम् ईश्वरनुक्कु लीला-रसावहम् आय् इरुक्कुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं सर्वमीश्वरस्य लीलारसावहं भवति ।
+</details>
+
+<details><summary>English</summary>
+
+All these contribute to the delectation or līlā of Iśvara.
+</details>
+
+<details><summary>Español</summary>
+
+All these contribute to the delectation or līlā of Iśvara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयॆल्लाम् ईश्वरनुक्कु लीलारसावहमायिरुक्कुम्. 
+</details>
+
+## शुद्ध-सत्त्वस्य स्वरूप-स्थिति-प्रवृत्तयः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शुद्ध-सत्त्वत्तुक्कु स्व-रूप-भेदम्  
+रजस्-तमस्सुक्कळोडु कलसाद सत्त्वगुणाश्रयमायिरुक्कै.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शुद्धसत्त्वत्तुक्कु स्वरूपभेदम् रजस्तमस्सुक्कळोडु कलसाद सत्त्वगुणाश्रयमायिरुक्कै.
+</details>
+
+
 
 Śuddhasattvam is, in its essential nature (svarūpa), the seat or abode of that sattvam which is unmixed with rajas and tamas. Its specific state in time or sthiti is eternal in the (permanent) halls and towers (of Vaikuṇṭha  ) and in the specific and permanent forms of Iśvara and the eternally free. It is not eternal but temporary in such things as the forms that come into existence out of a temporary desire of Iśvara, of the nityas and of the muktas. Its specific activity is to undergo modifications to suit their desires so as to serve as accessories for the enjoyment (Bhoga) of Iśvara, the śeṣī, and as instruments for the service to be rendered by the śeṣas.
 
