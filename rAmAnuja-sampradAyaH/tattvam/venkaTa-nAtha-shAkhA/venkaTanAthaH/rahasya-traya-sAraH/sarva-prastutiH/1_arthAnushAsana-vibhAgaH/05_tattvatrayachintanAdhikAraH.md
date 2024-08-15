@@ -3189,24 +3189,363 @@ who have to know it with the help of their own attributive knowledge.
 सर्वात्माक्कळुडैयवुम् स्वरूपमुम् धर्मभूतज्ञानमुम् स्वयंप्रकाशमायिरुक्क स्वरूपन्दनक्के स्वयंप्रकाशमाय् वेऱॆल्लार्क्कुम् ज्ञानान्तरवेद्यमानाऱ्‌पोलवुम्,
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्म-भूत-ज्ञानम् स्वाश्रयत्तुक्क् ए स्वयं-प्रकाशम् आय्  
+इतररुक्कु स्वयं-प्रकाशम् अल्लाद् आप् पोलव् उम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+धर्म-भूत-ज्ञानं स्वाश्रयस्यैव स्वयंप्रकाशं सत्  
+इतरेषां स्वयंप्रकाशं यथा न भवति,  
+</details>
+
+<details><summary>English</summary>
+
+Attributive knowledge, though luminous to its substrate, namely the soul,  
+is not luminous to others.  
+</details>
+
+<details><summary>Español</summary>
+
+Attributive knowledge, though luminous to its substrate, namely the soul,  
+is not luminous to others.  
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Attributive knowledge, though luminous to its substrate, namely the soul, is not luminous to others. In the same way, the Śuddha sattvam may be luminous by itself only to Iśvara, the muktas and the nityas and not to others. There is nothing unreasonable in this view.
+धर्मभूतज्ञानम् स्वाश्रयत्तुक्के स्वयंप्रकाशमाय् इतररुक्कु स्वयंप्रकाशमल्लादाप्पोलवुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुव् उम्  
+नियत-विषयम् आग स्वयं-प्रकाशम् आनाल्  
+विरोधम् इल्लै.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथाऽस्यापि नियत-विषय-स्वयं-प्रकाशत्वे न विरोधः ।  
+</details>
+
+<details><summary>English</summary>
+
+In the same way, the Śuddha sattvam may be luminous by itself only to Iśvara, the muktas and the nityas and not to others.  
+There is nothing unreasonable in this view.
+</details>
+
+<details><summary>Español</summary>
+
+In the same way, the Śuddha sattvam may be luminous by itself only to Iśvara, the muktas and the nityas and not to others.  
+There is nothing unreasonable in this view.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुवुम् नियतविषयमाग स्वयंप्रकाशमानाल् विरोधमिल्लै.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “यो वेत्ति युगपत् सर्वं  
+प्रत्यक्षेण सदा स्वतः ।  
+तं प्रणम्य हरिं शास्त्रं  
+न्याय-तत्त्वं प्रचक्ष्महे ॥”  
+> (न्यायतत्त्वम्)
+
+ऎन्गिऱप्-पडिये  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "यो वेति युगपत् सर्वं प्रत्यक्षेण सदा स्वतः ।  
+> तं प्रणम्य हरिं शास्त्र न्यायतत्त्वं प्रचक्ष्महे ॥" 
+
+इत्य्-उक्त-रीत्या 
+</details>
+
+
+<details><summary>English</summary>
 
 It has been said in the following śloka  :
 
-“We [^f149] bow to Hari and proceed to expound the s'astra called Nyāya-Tattva :- to Hari who sees, directly by perception and of His own accord, all things simultaneously." It may be asked how, to Iśvara who sees all things with His attributive knowledge, Śuddha-sattvam could be[^35] luminous by itself, when it is illuminated by the attributive knowledge of Iśvara. The answer is as follows - Iśvara's attributive knowledge apprehends all things including His own divine svarūpa and yet do we not hold that His divine form is luminous by itself? So also it is possible that Śuddhasattvam is self-luminous, though it is apprehended also by the attributive knowledge of Iśvara. This is true also of nityas. When lighting up an object (like a pot), attributive knowledge, it has already been said, is luminous by itself only to its sub-strate, namely, the self or soul. In the same way Śuddha-sattvam may be luminous by itself to those that have attained release in their new state. There is nothing inconceivable in this. The luminosity of attributive knowledge is obstructed at the time when it is not light ing up external objects (like pots ), by past karma of certain kinds. So also the luminosity of Śuddhasattva may meet with obstruction in the state of bondage and may not, therefore, be apprehended by those in saṁsāra.
+“We [^f149] bow to Hari and proceed to expound the s'astra called Nyāya-Tattva :-  
+to Hari who sees, directly by perception and of His own accord, all things simultaneously."
+</details>
+
+<details><summary>Español</summary>
+
+It has been said in the following śloka  :
+
+“We [^f149] bow to Hari and proceed to expound the s'astra called Nyāya-Tattva :-  
+to Hari who sees, directly by perception and of His own accord, all things simultaneously."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“यो वेत्ति युगपत्सर्वं प्रत्यक्षेण सदा स्वतः । तं प्रणम्य हरिं शास्त्रं न्यायतत्त्वं प्रचक्ष्महे ॥” (न्यायतत्त्वम्)
+
+ऎन्गिऱप्-पडिये  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> धर्म-भूत-ज्ञानत्ताल् ए सर्वत्तैयुम् साक्षाङ्करित्तुक्-कॊण्ड् इरुक्किऱ ईश्वरनुक्कु  
+शुद्ध-सत्त्व-द्रव्यम् स्वयं-प्रकाशम् आय् इरुक्किऱ पडि ऎङ्ङन् एय् 
+
+ऎन्निल् …
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> धर्म-भूत-ज्ञानेन सर्वं साक्षात्-कुर्वन्तम् ईश्वरं प्रति  
+शुद्ध-सत्त्व-द्रव्यस्य स्वयं-प्रकाशता कथम् 
+
+इति चेत्
+</details>
+
+
+<details><summary>English</summary>
+
+It may be asked  
+how, to Iśvara who sees all things with His attributive knowledge,  
+Śuddha-sattvam could be[^35] luminous by itself,  
+when it is illuminated by the attributive knowledge of Iśvara. 
+
+[^35]: A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.
+</details>
+
+<details><summary>Español</summary>
+
+It may be asked  
+how, to Iśvara who sees all things with His attributive knowledge,  
+Śuddha-sattvam could be[^es35] luminous by itself,  
+when it is illuminated by the attributive knowledge of Iśvara. 
+
+[^es35]: A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये धर्मभूतज्ञानत्ताले सर्वत्तैयुम् साक्षाङ्करित्तुक्कॊण्डिरुक्किऱ ईश्वरनुक्कु शुद्धसत्त्वद्रव्यम् स्वयंप्रकाशमायिरुक्किऱबडि ऎङ्ङनेयॆन्निल्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवन्-उडैय धर्म-भूत-ज्ञानम् दिव्यात्म-स्वरूपम् मुदलाग सर्वत्तैय् उम् विषयी-करिया निऱ्‌क,  
+इद्-दिव्यात्म-स्वरूपम् स्वयं-प्रकाशम् आगिऱ् आप्-पोल् एय्  
+इदुव् उम् स्वयं-प्रकाशम् आय् इरुक्कलाम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतदीये धर्म-भूत-ज्ञाने दिव्यात्म--स्व-रूप--प्रभृतिकं सर्वं विषयी-कुर्वाणे सत्य् अपि  
+इदं दिव्यात्म-स्व-रूपं यथा स्वयं-प्रकाशं भवति,  
+तथेदम् अपि स्वयं-प्रकाशं भवितुम् अर्हति ।  
+</details>
+
+<details><summary>English</summary>
+
+The answer is as follows -  
+Iśvara's attributive knowledge apprehends all things including His own divine svarūpa  
+and yet do we not hold that His divine form is luminous by itself?  
+So also it is possible that Śuddhasattvam is self-luminous,  
+though it is apprehended also by the attributive knowledge of Iśvara.  
+</details>
+
+<details><summary>Español</summary>
+
+The answer is as follows -  
+Iśvara's attributive knowledge apprehends all things including His own divine svarūpa  
+and yet do we not hold that His divine form is luminous by itself?  
+So also it is possible that Śuddhasattvam is self-luminous,  
+though it is apprehended also by the attributive knowledge of Iśvara.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवनुडैय धर्मभूतज्ञानम् दिव्यात्म-स्वरूपम् मुदलाग सर्वत्तैयुम् विषयीकरिया निऱ्‌क,  
+इद्दिव्यात्मस्वरूपम् स्वयं-प्रकाशमागिऱाप्पोलेयिदुवुम् स्वयंप्रकाशमायिरुक्कलाम्.
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अस्मिन् पक्षे  
+स्वयम्-प्रकाशत्वं निष्प्रयोजकम् एव -  
+स्वयम्-प्रकाशत्वम् अन्तरापि नित्यमुक्तादिभिर् अधिकारिभिस् तत्-तज्-वस्तु-ज्ञान-लाभतः।  
+यदि प्रकाशत्वम् अव्यवहित-वाग्-आदि-प्रवृत्ति-हेतुत्वम्,  
+तर्हि, शुद्ध-सत्त्व-गतोऽयम् प्रकाशः कस्य नाम प्रवृत्तेर् हेतुर् इति वक्तुं शक्यः (तद्-अन्तरैव धर्म-भूत-ज्ञानेन प्रवृत्तेस् सिद्धत्वात् )?  
+
+वरम् शुद्ध-सत्त्वं सर्वेषाम् एषां धर्मभूतज्ञानस्याङ्गं मन्यताम् -  
+अ-बद्धात्मनो धर्म-भूत-ज्ञानम् = लीलाविभूतिविषयकं धर्मभूतज्ञानम् + शुद्ध-सत्त्वम् + व्यक्ति-गतानुमानादि ।
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि नित्यरुक्क् उम् तुल्यम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं प्रकारो नित्यविषयेऽपि तुल्ययः ।
+</details>
+
+<details><summary>English</summary>
+
+This is true also of nityas. 
+</details>
+
+<details><summary>Español</summary>
+
+This is true also of nityas. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि नित्यरुक्कुम् तुल्यम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विषय-प्रकाश-कालत्तिल् ए  
+धर्म-भूत-ज्ञानम् स्वाश्रयत्तुक्क् ए स्वयं-प्रकाशम् आनाऱ्‌-पोल् ए  
+मुक्तरुक्कु अव्व्-अवस्थैयिल् एय् इदुव् उम् स्वयं-प्रकाशम् आनाल्  
+विरोधम् इल्लै.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विषय-प्रकाशन-काले एव  
+धर्म-भूतज्ञानं स्वाश्रयं प्रव्येव यथा स्वयंप्रकाशं भवति,  
+तथा मुक्तान् प्रति तस्याम् अवस्थायाम्  
+अस्यापि स्वयं-प्रकाशत्वे  
+न विरोधः । 
+</details>
+
+
+<details><summary>English</summary>
+
+When lighting up an object (like a pot),  
+attributive knowledge, it has already been said,  
+is luminous by itself only to its sub-strate, namely, the self or soul.  
+In the same way  
+Śuddha-sattvam may be luminous by itself  
+to those that have attained release in their new state.  
+There is nothing inconceivable in this.  
+</details>
+
+<details><summary>Español</summary>
+
+When lighting up an object (like a pot),  
+attributive knowledge, it has already been said,  
+is luminous by itself only to its sub-strate, namely, the self or soul.  
+In the same way  
+Śuddha-sattvam may be luminous by itself  
+to those that have attained release in their new state.  
+There is nothing inconceivable in this.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विषयप्रकाशकालत्तिले धर्मभूतज्ञानम् स्वाश्रयत्तुक्के स्वयंप्रकाशमानाऱ्‌पोले मुक्तरुक्कु अव्ववस्थैयिलेयिदुवुम् स्वयंप्रकाशमानाल् विरोधमिल्लै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्म-भूत-ज्ञानत्तिन्-उडैय स्वात्म-प्रकाशन-शक्तिय् आनदु  
+विषय-प्रकाशम् इल्लाद कालत्तिल्  
+कर्म-विशेषङ्गळाल् ए प्रतिबद्धैय् आनाऱ्‌-पोल् ए  
+शुद्ध-सत्वत्तिन् उडैय स्वात्म-प्रकाशन-शक्तिय् उम्  
+बद्ध-दशैयिल् प्रतिबद्धैय् आगैयाल् ए  
+शुद्ध-सत्वम् बद्धर्क्कुप् प्रकाशिया-तॊऴिगिऱदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+धर्म-भूत-ज्ञानस्य स्वात्म-प्रकाशन-शक्तिर्  
+विषय-प्रकाशाभाव-काले  
+कर्म-विशेषैर् यथा प्रतिबद्धा भवति,  
+तथा शुद्ध-सत्त्व-द्रव्यस्यापि स्वात्म-प्रकाशन-शक्तिर् अपि बद्ध-दशायां प्रतिबद्धेति  
+शुद्ध-सत्त्वं बद्धान् प्रति न प्रकाशते । 
+</details>
+
+
+<details><summary>English</summary>
+
+The luminosity of attributive knowledge is obstructed at the time  
+when it is not lighting up external objects (like pots ), by past karma of certain kinds.  
+So also the luminosity of Śuddhasattva  
+may meet with obstruction in the state of bondage  
+and may not, therefore, be apprehended by those in saṁsāra.
+</details>
+
+<details><summary>Español</summary>
+
+The luminosity of attributive knowledge is obstructed at the time  
+when it is not lighting up external objects (like pots ), by past karma of certain kinds.  
+So also the luminosity of Śuddhasattva  
+may meet with obstruction in the state of bondage  
+and may not, therefore, be apprehended by those in saṁsāra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धर्मभूतज्ञानत्तिनुडैय स्वात्मप्रकाशनशक्तियानदु विषयप्रकाशमिल्लाद कालत्तिल् कर्मविशेषङ्गळाले प्रतिबद्धैयानाऱ्‌पोले शुद्धसत्वत्तिनुडैय स्वात्मप्रकाशनशक्तियुम् बद्धदशैयिल् प्रतिबद्धैयागैयाले शुद्धसत्वम् बद्धर्क्कुप् प्रकाशियातॊऴिगिऱदु.
+</details>
+
+
+
+
 
 [^f149]: Nyāya-tatvam: Mangala śloka
 
-[^35]: A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-“धियः स्वयंप्रकाशत्वं मुक्तौ स्वाभाविकं यथा ।  
-बद्धे कदाचित्संरुद्धं तथाऽत्राऽपि नियम्यते ॥”१४-अ॥
+> “धियः स्वयं-प्रकाशत्वं  
+मुक्तौ स्वाभाविकं यथा ।  
+बद्धे कदाचित् संरुद्धं  
+तथाऽत्राऽपि नियम्यते ॥”१४-अ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “धियः स्वयं-प्रकाशत्वं  
+मुक्तौ स्वाभाविकं यथा ।  
+बद्धे कदाचित् संरुद्धं  
+तथाऽत्राऽपि नियम्यते ॥”१४-अ॥
+</details>
+
+
+<details><summary>English</summary>
+
+The luminosity of (attributive) knowledge is natural to it (svabhavika), after release from saṁsāra,  
+but is obstructed some times during bondage.  
+So also in this case, (there may be obstruction during saṁsāra and luminousness after release).
+</details>
+
+<details><summary>Español</summary>
+
+The luminosity of (attributive) knowledge is natural to it (svabhavika), after release from saṁsāra,  
+but is obstructed some times during bondage.  
+So also in this case, (there may be obstruction during saṁsāra and luminousness after release).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -3214,13 +3553,341 @@ It has been said in the following śloka  :
 बद्धे कदाचित्संरुद्धं तथाऽत्राऽपि नियम्यते ॥”१४-अ॥
 </details>
 
-The luminosity of (attributive) knowledge is natural to it (svabhavika), after release from saṁsāra, but is obstructed some times during bondage. So also in this case, (there may be obstruction during saṁsāra and luminousness after release)".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Substances which are subject to modification (vikarī) are sometimes agreeable and sometimes disagreeable to the same individual and to different individuals. (Similarly Śuddha-sattvam may be luminous to God, the eternally free souls and those souls that have attained release from bondage, while being non-luminous to those in bondage.) There is no contradiction in this. In matters ascertained by the authority of the Scriptures, it is no use pointing out inconsistency based on analogy. If, without accepting this principle, we were to say that Śuddhasattvam is said to be luminous not in reality, but by courtesy, as it were, or figuratively (upacāra), it might become possible to argue that knowledge, bliss etc. are also true of the self or soul only figuratively and not in truth. It may be asked :-" How could there be, in a luminous object (viz. s'uddhasattvam), qualities like form and taste and classifications like earth and water and also modifications. Self luminous things like the soul and attributive knowledge do not, in general, have shape, taste, smell and the like)"? The answer is as follows:- (All self-luminous objects are not alike but have differences peculiar to each); for example, knowledge or self which is the substrate (1.e. the soul) and attributive knowledge, though both are luminous, are different from each other in other respects. Knowledge, which is the substrate, has subjectivity, while attributive knowledge is objective, and apprehends objects. So this objection can be given a counter-check (pratibandhi) and cannot hold good in a matter where the authority of the śāstra  must be accepted. Śuddhasattvam, which is luminous, is included among the three classes of non-sentient things, because it has not the quality of sentience or being the knower. The activities (pravṛtti) of these three kinds of non-sentient things are of the nature of varied modifications (pariṇāma) in accordance with the will of Iśvara.
+इव्व्-अळवु +++(प्रियत्वाप्रियत्वादि-)+++अवस्थान्तरापत्ति  
+विकारि-द्रव्यत्तुक्कु विरुद्धम् अण्ड्रु.  
++++(एवं शुद्ध-सत्त्वस्यापि बद्ध-दृष्ट्या ऽवस्थान्तरापत्तिर् न चित्रा।)+++
+</details>
 
-PRAKṚTI.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Among these, prakṛti or matter is, in its essential nature, possessed of three qualities or attributes. Prakṛti or matter is constantly subject to modification. When its three qualities sattvam, rajas and tamas are evenly balanced, there is dissolution or termination of the world (mahapralayam) and when these qualities are uneven in proportions, prakṛti undergoes modifications into mahat and the like. The region of matter which is not modified and the region which has become modified have been classified by the Śāstras into twenty-four tatvās or reals - prakṛti, mahut, ahankāra, tanınātras (five), the elements (bhūtas) (five) and the senses (eleven) - the senses of knowledge (five), the senses of action (five) and the mind (manas).
+इयती अवस्थान्तरापत्तिर्  
+विकारि-द्रव्यस्य न विरुध्यते ।  
+</details>
+
+<details><summary>English</summary>
+
+Substances which are subject to modification (vikarī) are sometimes agreeable and sometimes disagreeable to the same individual and to different individuals.  
+(Similarly Śuddha-sattvam may be luminous to God, the eternally free souls and those souls that have attained release from bondage,  
+while being non-luminous to those in bondage.)  
+There is no contradiction in this. 
+</details>
+
+<details><summary>Español</summary>
+
+Substances which are subject to modification (vikarī) are sometimes agreeable and sometimes disagreeable to the same individual and to different individuals.  
+(Similarly Śuddha-sattvam may be luminous to God, the eternally free souls and those souls that have attained release from bondage,  
+while being non-luminous to those in bondage.)  
+There is no contradiction in this. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वळवु अवस्थान्तरापत्ति विकारि-द्रव्यत्तुक्कु विरुद्धमण्ड्रु.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् ए प्रमाण-प्रतिपन्नार्थत्तुक्कु  
+युक्ति-विरोधञ् चॊल्ल वऴियिल्लै.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतः प्रमाण-प्रतिपन्नार्थस्य  
+युक्तिविरोधो वक्तुम् अशक्यः ।  
+</details>
+
+<details><summary>English</summary>
+
++++(Thus,)+++ In ~~matters~~ +++(this matter)+++ ascertained by the authority of the Scriptures,  
+it is ~~no use pointing~~ +++(not possible to point out)+++ out inconsistency based on analogy.
+</details>
+
+<details><summary>Español</summary>
+
++++(Thus,)+++ In ~~matters~~ +++(this matter)+++ ascertained by the authority of the Scriptures,  
+it is ~~no use pointing~~ +++(not possible to point out)+++ out inconsistency based on analogy.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाले प्रमाणप्रतिपन्नार्थत्तुक्कु युक्तिविरोधञ् चॊल्ल वऴियिल्लै.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङन्-अण्ड्रिक्क् ए उपचारत्ताल् ए निर्वहिक्कप् पार्क्किल्  
+आत्म-स्वरूपत्तिल् उम् ज्ञानादि-शब्दङ्गळै उपचारत्ताल् ए  
+अन्य-परङ्गळ् आक्कलाम्.+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवम् अनङ्गीकृत्योपचारेण निर्वाहे चिन्त्यमाने,  
+आत्म--स्व-रूप--विषये ऽपि  
+ज्ञानादि-शब्दानाम् उपचारेण +अन्यपर्य-करणम् आपद्येत ।  
+</details>
+
+
+<details><summary>English</summary>
+
+If, without accepting this principle,  
+we were to say that Śuddhasattvam is said to be luminous  
+not in reality, but by courtesy, as it were, or figuratively (upacāra),  
+it might become possible to argue that knowledge, bliss etc. are also true of the self or soul  
+only figuratively and not in truth. 
+</details>
+
+<details><summary>Español</summary>
+
+If, without accepting this principle,  
+we were to say that Śuddhasattvam is said to be luminous  
+not in reality, but by courtesy, as it were, or figuratively (upacāra),  
+it might become possible to argue that knowledge, bliss etc. are also true of the self or soul  
+only figuratively and not in truth. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङनण्ड्रिक्के उपचारत्ताले निर्वहिक्कप् पार्क्किल् आत्मस्वरूपत्तिलुम् ज्ञानादिशब्दङ्गळै उपचारत्ताले अन्यपरङ्गळाक्कलाम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्वयं-प्रकाशत्तुक्कु रूप-रसादि-गुणङ्गळुम्  
+अवैय् अडिय् आग वन्द पृथिव्य्-आदि-विभागम् उम्  
+परिणामादिगळुङ् कूडुम् ओव् ?
+
+ऎन्गिऱ चोद्यम् उम्  
+धर्म-भूत-ज्ञानत्तुक्क् उम्, धर्मि-ज्ञानत्तुक्क् उम् उण्डान वैषम्यङ्गळै  
+प्रतिबन्धिय् आगक् कॊण्डु,  
+प्रमाण-बलत्ताल् ए परिहृतम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वयं-प्रकाशस्य रूप-रसादि-गुणाः, तन्-निबन्धनः पृथिव्य्-आदि-विभागः, परिणामादयश् च कथं घटन्त  
+
+इति चोद्यम् अपि,  
+धर्म-भूत-ज्ञान--धर्मि-ज्ञानयोर् विद्यमानं वैषम्यं प्रतिबन्धी-कृत्य  
+प्रमाण-बलेन परिहृतम् । 
+</details>
+
+<details><summary>English</summary>
+
+It may be asked :-  
+
+> " How could there be, in a luminous object (viz. s'uddhasattvam),  
+> qualities like form and taste  
+> and classifications like earth and water and also modifications.  
+> Self luminous things like the soul and attributive knowledge do not, in general,  
+> have shape, taste, smell and the like)"? 
+
+The answer is as follows:-  
+(All self-luminous objects are not alike  
+but have differences peculiar to each);  
+for example, knowledge or self which is the substrate (i.e. the soul) and attributive knowledge,  
+though both are luminous,  
+are different from each other in other respects.  
+
+Knowledge, which is the substrate, has subjectivity,  
+while attributive knowledge is objective, and apprehends objects.  
+So this objection can be given a counter-check (pratibandhi)  
+and cannot hold good in a matter where the authority of the śāstra  must be accepted.
+</details>
+
+<details><summary>Español</summary>
+
+It may be asked :-  
+
+> " How could there be, in a luminous object (viz. s'uddhasattvam),  
+> qualities like form and taste  
+> and classifications like earth and water and also modifications.  
+> Self luminous things like the soul and attributive knowledge do not, in general,  
+> have shape, taste, smell and the like)"? 
+
+The answer is as follows:-  
+(All self-luminous objects are not alike  
+but have differences peculiar to each);  
+for example, knowledge or self which is the substrate (i.e. the soul) and attributive knowledge,  
+though both are luminous,  
+are different from each other in other respects.  
+
+Knowledge, which is the substrate, has subjectivity,  
+while attributive knowledge is objective, and apprehends objects.  
+So this objection can be given a counter-check (pratibandhi)  
+and cannot hold good in a matter where the authority of the śāstra  must be accepted.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+स्वयंप्रकाशत्तुक्कु रूपरसादिगुणङ्गळुमवैयडियाग वन्द पृथिव्यादिविभागमुम् परिणामादिगळुङ् गूडुमोव् ऎन्गिऱ चोद्यमुम् धर्मभूतज्ञानत्तुक्कुम् धर्मिज्ञानत्तुक्कुमुण्डान वैषम्यङ्गळै प्रतिबन्धियागक् कॊण्डु, प्रमाणबलत्ताले परिहृतम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि स्वयं-प्रकाशम् आन शुद्ध-सत्व-द्रव्यत्तै  
+ज्ञातृत्वम् इल्लामैयाल् ए  
+त्रि-विधाचेतनङ्गळ् ऎण्ड्रु सेरक्क् ओत्तदु+++(=पाठनम्)+++.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं स्वयं-प्रकाशस्य शुद्ध-सत्व-द्रव्यस्य ज्ञातृत्वाभावात्  
+त्रि-विधाचेतनेति क्रोडी-कारः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+Śuddhasattvam, which is luminous,  
+is included among the three classes of non-sentient things,  
+because it has not the quality of sentience or being the knower. 
+</details>
+
+<details><summary>Español</summary>
+
+Śuddhasattvam, which is luminous,  
+is included among the three classes of non-sentient things,  
+because it has not the quality of sentience or being the knower. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वयंप्रकाशमान शुद्धसत्वद्रव्यत्तै ज्ञातृत्वमिल्लामैयाले त्रिविधाचेतनङ्गळॆण्ड्रु सेरक्कोत्तदु.
+</details>
+
+### प्रवृत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अचेतनङ्गळ् मूण्ड्रुक्क् उम् प्रवृत्तिय् आवदु  
+ईश्वर-सङ्कल्पानुरूपङ्गळ् आन  
+विचित्र-परिणामादिगळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(एषां त्रिविधाचेतनानां प्रवृत्तिर् नाम  
+ईश्वरसङ्कल्पानुरूपाणि विचित्र-परिणामादीनि।)
+</details>
+
+<details><summary>English</summary>
+
+The activities (pravṛtti) of these three kinds of non-sentient things  
+are of the nature of varied modifications (pariṇāma) in accordance with the will of Iśvara.
+</details>
+
+<details><summary>Español</summary>
+
+The activities (pravṛtti) of these three kinds of non-sentient things  
+are of the nature of varied modifications (pariṇāma) in accordance with the will of Iśvara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वचेतनङ्गळ् मूण्ड्रुक्कुम् प्रवृत्तियावदु ईश्वरसङ्कल्पानुरूपङ्गळान विचित्रपरिणामादिगळ्.
+</details>
+
+
+## प्रकृतिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् त्रि-गुण-द्रव्यत्तुक्कु  
+स्व-रूप-भेदम् गुण-त्रयाश्रयत्वम्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषु त्रि-गुण-द्रव्यस्य स्व-रूप-भेदो गुण-त्रयाश्रयत्वम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+Among these, prakṛti or matter is, in its essential nature,  
+possessed of three qualities or attributes.  
+</details>
+
+<details><summary>Español</summary>
+
+Among these, prakṛti or matter is, in its essential nature,  
+possessed of three qualities or attributes.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् त्रिगुणद्रव्यत्तुक्कु स्वरूपभेदम् गुणत्रयाश्रयत्वम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सतत-परिणाम-शीलम् आन इद्-द्रव्यत्तुक्कु  
+सत्त्व-रजस्-तमस्सुक्कळ् अन्योऽन्यम् समम् आन पोदु  
+महा-प्रळयम्,  
+विषमम् आन-पोदु सृष्टिस्थितिगळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सतत-परिणाम-शीलस्यास्य द्रव्यस्य  
+सत्त्व-रजस्-तमसाम् अन्योन्यं साम्यापत्तौ महाप्रलयः;  
+वैषम्यावस्थायां सृष्टि-स्थिती ।
+</details>
+
+<details><summary>English</summary>
+
+Prakṛti or matter is constantly subject to modification.  
+When its three qualities sattvam, rajas and tamas are evenly balanced,  
+there is dissolution or termination of the world (mahapralayam)  
+and when these qualities are uneven in proportions, +++(there is creation and sustenance of the world.)+++  
+</details>
+
+<details><summary>Español</summary>
+
+Prakṛti or matter is constantly subject to modification.  
+When its three qualities sattvam, rajas and tamas are evenly balanced,  
+there is dissolution or termination of the world (mahapralayam)  
+and when these qualities are uneven in proportions, +++(there is creation and sustenance of the world.)+++  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सततपरिणामशीलमान इत्द्रव्यत्तुक्कु सत्त्वरजस्तमस्सुक्कळ् अन्योन्यम् सममान-पोदु महाप्रळयम् विषममान-पोदु सृष्टिस्थितिगळ्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुण-वैषम्यम् उळ्ळ प्रदेशत्तिल् ए महद्-आदि-विकारङ्गळ्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+गुण-वैषम्यवति प्रदेशे महदादयो विकाराः । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुणवैषम्यमुळ्ळ प्रदेशत्तिले महदादिविकारङ्गळ्.  
+</details>
+
+
+
+(when these qualities are uneven in proportions,) prakṛti undergoes modifications into mahat and the like.  
+The region of matter which is not modified and the region which has become modified have been classified by the Śāstras into twenty-four tatvās or reals - prakṛti, mahut, ahankāra, tanınātras (five), the elements (bhūtas) (five) and the senses (eleven) - the senses of knowledge (five), the senses of action (five) and the mind (manas).
 
 Sometimes they are spoken of as more than twenty-four or less than twenty-four in accordance with the terms or basis of classification. The subdivisions of each of these classes of tattvas or reals, and the deities (abhimāni devatās ) presiding over or representing each of them should be understood by those who are qualified for their respective meditation. What we are primarily concerned with here is their being different from the atmā or self. These may all be understood as weapons and ornaments of the Supreme Being, in the following way
 
