@@ -2690,6 +2690,11 @@ because it discloses objects other than itself (like pots, cloths etc.)
 धर्मभूतज्ञानत्तुक्कु विषयित्वमावदु तन्नैयॊऴिन्ददॊण्ड्रैक् काट्टुगै.
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+तत्र धर्मभूतज्ञानजातेर् एव विषयित्वम् उच्यते, यतो धर्मभूतज्ञानविशेषाः केचित् स्व-विषयकाः स्युः।  
+यथा - "ज्ञानम् इदं सत्यम्" इति धर्मभूतज्ञानम्, "वाक्यम् इदम्" इति वा।
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4061,14 +4066,59 @@ These may all be understood as weapons and ornaments of the Supreme Being, in th
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 पुरुडन्+++(=पुरुषः)+++ मणिवरम् आगप् पॊण्ड्रा मूलप्-  
-पिरगिरुदि+++(=प्रकृति)+++ मऱुवाग मान् ऱण्डागत्  
-तॆरुण्मरुळ् वाण्मऱैवाग वाङ्गारङ्गळ्  
-शार्ङ्गञ् जङ्गाग मनन् दिगिरियाग  
-इरुडीगङ्गळीरैन्दुञ् शरङ्गळाग  
-विरुबूदमालै वनमालैयाग  
-करुडनुरुवा मऱैयिन् पॊरुळाङ् गण्णन्  
-करिगिरिमेनिण्ड्रनैत्तुङ् गाक्किण्ड्राने. (12)
+पिरगिरुदि+++(=प्रकृति)+++ मऱुव् आग, मान्+++(=महान्)+++ ऱण्ड्+++(=गदा??)+++ आगत्,  
+तॆरुण्+++(=ज्ञम्)+++-मरुळ्+++(=अज्ञनम्)+++ वाण्+++(=खड्गम्)+++-मऱैव् आगव्, आङ्गारङ्गळ्+++(=अहङ्कारौ सात्त्विक-त्तामसिकौ)+++  
+शार्ङ्गञ् शङ्खम् आग, मनन् दिगिरिय्+++(=चक्रम्)+++ आग  
+इरुडीगङ्गळ्+++(=हृषीकानि)+++ ईर्-ऐन्द् उञ् शरङ्गळ् आगव्  
+इरु+++(=२)+++-भूत-मालै वन-मालैय् आग,  
+गरुडन्-उरुवा मऱैयिन्+++(=वेदानाम्)+++ पॊरुळाङ् कण्णन्  
+करि-गिरि-मे+++(ल्)+++ निण्ड्रन् ऐत्तुङ्+++(=सर्वं??)+++ कााक्किण्ड्रान् ए. (12)
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+1 (गाथा) पुरुषं मणिवरतया,  
+अविनश्यन्तीं मूलप्रकृतिं (श्रीवत्स-) लक्ष्मतया,  
+महान्तं गदात्वेन, ज्ञानम् अज्ञानञ्च खड्गतया कोशतया,  
+(सात्त्विक-तामस-)अहंकारौ शार्ङ्ग-शङ्खतया,  
+मनः चक्रतया,  
++++(ज्ञान-कर्म-)+++हृषीक-पञ्चके द्वे शरतया,  
+द्वे भूत-माले वनमालात्वेन ( धारयन् )  
+गरुड-शरीर-भूतानां वेदानाम् अर्थ-भूतः कृष्णः  
+करि-गिरेर् उपरि स्थित्वा  
+सर्वं रक्षति –  
+</details>
+
+<details><summary>English</summary>
+
+The self or soul is the invaluable gem, (koustubha);  
+prakṛti or matter is the mole on the Lord's body (Śrīvatsa);  
+the tattva or real called mahat is His club;  
+knowledge and ignorance (jñāna and ajñāna) are His sword and its sheath;  
+the ahankāras are His bow and conch (tamasa ahankāra is the bow (sārnga ) and sātvika ahankāra the conch);  
+the mind is His discus (chakra);  
+the ten senses are arrows;  
+the tanmātras and the bhūtas (the elements) form His vanamālā (vaijayanti) or garland of wild flowers;  
+Garuḍa is the Veda  
+and Śrī kṛṣṇa (Kannan) the object of description in the Veda,  
+is endowed with these and protects all from the top of Hastigiri.
+</details>
+
+<details><summary>Español</summary>
+
+The self or soul is the invaluable gem, (koustubha);  
+prakṛti or matter is the mole on the Lord's body (Śrīvatsa);  
+the tattva or real called mahat is His club;  
+knowledge and ignorance (jñāna and ajñāna) are His sword and its sheath;  
+the ahankāras are His bow and conch (tamasa ahankāra is the bow (sārnga ) and sātvika ahankāra the conch);  
+the mind is His discus (chakra);  
+the ten senses are arrows;  
+the tanmātras and the bhūtas (the elements) form His vanamālā (vaijayanti) or garland of wild flowers;  
+Garuḍa is the Veda  
+and Śrī kṛṣṇa (Kannan) the object of description in the Veda,  
+is endowed with these and protects all from the top of Hastigiri.
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -4082,7 +4132,22 @@ These may all be understood as weapons and ornaments of the Supreme Being, in th
 करिगिरिमेनिण्ड्रनैत्तुङ् गाक्किण्ड्राने. (12)
 </details>
 
-The self or soul is the invaluable gem, (koustubha); prakṛti or matter is the mole on the Lord's body (Śrīvatsa); the tattva or real called mahat is His club; knowledge and ignorance (jñāna and ajñāna) are His sword and its sheath; the ahankāras are His bow and conch (tamasa ahankāra is the bow (sārnga ) and sātvika ahankāra the conch); the mind is His discus (chakra); the ten senses are arrows; the tanmātras and the bhūtas (the elements) form His vanamālā (vaijayanti) or garland of wild flowers; Garuḍa is the Veda and Śrī kṛṣṇa (Kannan) the object of description in the Veda, is endowed with these and protects all from the top of Hastigiri".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱ कट्टळैयिले अऱिगैयुचितम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्येवंविवेकेन ज्ञातुं युज्यते ।
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱ कट्टळैयिले अऱिगैयुचितम्.
+</details>
+
 
 The distinctive features of each of these twenty-four reals' may be seen in their respective definitions. Of these the twenty three reals which are effects and modifications of prakṛti and also their effects and modifications differ from one another in their nature and these differences may be understood from a study of the purānas.
 
