@@ -3799,7 +3799,7 @@ are of the nature of varied modifications (pariṇāma) in accordance with the w
 
 
 ## प्रकृतिः
-
+### स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवट्रिल् त्रि-गुण-द्रव्यत्तुक्कु  
@@ -3830,6 +3830,7 @@ possessed of three qualities or attributes.
 इवट्रिल् त्रिगुणद्रव्यत्तुक्कु स्वरूपभेदम् गुणत्रयाश्रयत्वम्.  
 </details>
 
+### २४ तत्त्वानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सतत-परिणाम-शीलम् आन इद्-द्रव्यत्तुक्कु  
@@ -3884,17 +3885,183 @@ and when these qualities are uneven in proportions, +++(there is creation and su
 गुणवैषम्यमुळ्ळ प्रदेशत्तिले महदादिविकारङ्गळ्.  
 </details>
 
-
+<details><summary>English</summary>
 
 (when these qualities are uneven in proportions,) prakṛti undergoes modifications into mahat and the like.  
-The region of matter which is not modified and the region which has become modified have been classified by the Śāstras into twenty-four tatvās or reals - prakṛti, mahut, ahankāra, tanınātras (five), the elements (bhūtas) (five) and the senses (eleven) - the senses of knowledge (five), the senses of action (five) and the mind (manas).
+</details>
 
-Sometimes they are spoken of as more than twenty-four or less than twenty-four in accordance with the terms or basis of classification. The subdivisions of each of these classes of tattvas or reals, and the deities (abhimāni devatās ) presiding over or representing each of them should be understood by those who are qualified for their respective meditation. What we are primarily concerned with here is their being different from the atmā or self. These may all be understood as weapons and ornaments of the Supreme Being, in the following way
+<details><summary>Español</summary>
+
+(when these qualities are uneven in proportions,) prakṛti undergoes modifications into mahat and the like.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् विकृतम् अल्लाद प्रदेशत्तैय् उम्  
+विकृतम् आन प्रदेशत्तैय् उङ् कूड  
+प्रकृति-महद्-अहङ्कार--तन्-मात्र--भूतेन्द्रियङ्गळ्+++(→३+५+५+१०)+++ ऎण्ड्रु  
++++(पुरुषम् अपि संयोज्य)+++ इरु-बत्तु-नालु तत्त्वङ्गळ् आग  
+शास्त्रङ्गळ् वगुत्तुच्+++(=विभज्य)+++ चॊल्लुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्राविकृतं प्रदेशं +++(प्रकृति-साधारणम्)+++, विकृतं प्रदेश च  
+प्रकृति-महद्-अहंकार--तन्-मात्र-भूतेन्द्रियाणीति+++(→३+५+५+१०)+++   
++++(पुरुषम् अपि संयोज्य)+++ चतुर्विंशतितत्त्वात्मना शास्त्राणि विभज्य प्रतिपादयन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+The region of matter which is not modified  
+and the region which has become modified  
+have been classified by the Śāstras into twenty-four tatvās or reals -  
+prakṛti, mahut, ahankāra, tanmātras (five), the elements (bhūtas) (five) and the senses (eleven) - the senses of knowledge (five), the senses of action (five) and the mind (manas).
+</details>
+
+<details><summary>Español</summary>
+
+The region of matter which is not modified  
+and the region which has become modified  
+have been classified by the Śāstras into twenty-four tatvās or reals -  
+prakṛti, mahut, ahankāra, tanmātras (five), the elements (bhūtas) (five) and the senses (eleven) - the senses of knowledge (five), the senses of action (five) and the mind (manas).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् विकृतमल्लाद प्रदेशत्तैयुम् विकृतमान प्रदेशत्तैयुङ्गूड प्रकृतिमहदहङ्कारतन्मात्रभूतेन्द्रियङ्गळॆण्ड्रु इरुबत्तु नालु तत्त्वङ्गळाग शास्त्रङ्गळ् वगुत्तुच् चॊल्लुम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिल विवक्षा-विशेषङ्गळाल् ए  
+योर् ऒरु विधङ्गळिल् ए  
+तत्त्वङ्गळैय् एऱव् उञ् शुरुङ्गव् उञ् चॊल्ला निऱ्‌कुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कैश्चिद् विवक्षा-विशेषैः  
+क्वचित् स्थलेषु तत्त्वानि  
+अधिकतया न्यूनतया च प्रतिपाद्यन्ते । 
+</details>
+
+<details><summary>English</summary>
+
+Sometimes they are spoken of as more than twenty-four or less than twenty-four  
+in accordance with the terms or basis of classification. 
+</details>
+
+<details><summary>Español</summary>
+
+Sometimes they are spoken of as more than twenty-four or less than twenty-four  
+in accordance with the terms or basis of classification. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिल विवक्षाविशेषङ्गळाले योरॊरु विधङ्गळिले तत्त्वङ्गळै येऱवुञ्जुरुङ्गवुञ् चॊल्ला निऱ्‌कुम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्-तत्त्वङ्गळिल् अवान्तर-वगुप्पुगळ् उम्  
+अवट्रिल् अभिमानि-देवतैगळ् उम्  
+अव्व्-ओव् उपासनाधिकारिगळुक्क् अऱिय-वेणुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषु तत्त्वेषु अवान्तरविभागाः,  
+तद्-अभिमानि-देवताश् च  
+तत्-तद्-उपासनाधिकारिभिर् वेदितव्याः । 
+</details>
+
+<details><summary>English</summary>
+
+The subdivisions of each of these classes of tattvas or reals,  
+and the deities (abhimāni devatās ) presiding over or representing each of them  
+should be understood by those who are qualified for their respective meditation.  
+</details>
+
+<details><summary>Español</summary>
+
+The subdivisions of each of these classes of tattvas or reals,  
+and the deities (abhimāni devatās ) presiding over or representing each of them  
+should be understood by those who are qualified for their respective meditation.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्तत्त्वङ्गळिल् अवान्तरवगुप्पुगळुमवट्रिल् अभिमानिदेवतैगळुमव् वोवुपासनाधिकारिगळुक्कऱियवेणुम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्मावुक्क् अवट्रिऱ्-‌काट्टिल् व्यावृत्तिय् अऱिगै  
+इङ्गु नमक्कु प्रधानम्. +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आत्मनस्तेभ्यो व्यावृत्ति ज्ञानमत्रास्माकं प्रधानम् । 
+</details>
+
+<details><summary>English</summary>
+
+What we are primarily concerned with here is their being different from the atmā or self. 
+</details>
+
+<details><summary>Español</summary>
+
+What we are primarily concerned with here is their being different from the atmā or self. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्मावुक्कवट्रिऱ्‌काट्टिल् व्यावृत्तियऱिगै इङ्गु नमक्कु प्रधानम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् ऎल्लाम् सर्वेश्वरनुक्कु  
+अस्त्र-भूषणादि-रूपङ्गळ् आय् निऱ्‌कुम् निलैयै 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषां सर्वेषां सर्वेश्वरे ऽस्त्र-भूषणादि-रूपेणावस्थितेः प्रकारः - 
+</details>
+
+<details><summary>English</summary>
+
+These may all be understood as weapons and ornaments of the Supreme Being, in the following way
+</details>
+
+<details><summary>Español</summary>
+
+These may all be understood as weapons and ornaments of the Supreme Being, in the following way
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयॆल्लाम् सर्वेश्वरनुक्कु अस्त्रभूषणादिरूपङ्गळाय् निऱ्‌कुम् निलैयै 
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-पुरुडन् मणिवरमागप् पॊण्ड्रामूलप्  
-पिरगिरुदि मऱुवाग मान् ऱण्डागत्  
+पुरुडन्+++(=पुरुषः)+++ मणिवरम् आगप् पॊण्ड्रा मूलप्-  
+पिरगिरुदि+++(=प्रकृति)+++ मऱुवाग मान् ऱण्डागत्  
 तॆरुण्मरुळ् वाण्मऱैवाग वाङ्गारङ्गळ्  
 शार्ङ्गञ् जङ्गाग मनन् दिगिरियाग  
 इरुडीगङ्गळीरैन्दुञ् शरङ्गळाग  
