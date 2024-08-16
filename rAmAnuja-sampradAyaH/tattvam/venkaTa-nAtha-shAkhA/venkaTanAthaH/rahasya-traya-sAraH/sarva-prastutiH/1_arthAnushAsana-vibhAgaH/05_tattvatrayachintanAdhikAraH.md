@@ -5051,7 +5051,7 @@ in accordance with the karma of those persons.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इब्-बद्धर् तङ्गळुक्कुम्  
+इब्-बद्धर् तङ्गळुक्क् उम्  
 स्वात्म-स्वरूपम् सर्वदानुकूलमाग ईश्वरेच्छासिद्धम्. +++(5)+++
 </details>
 
@@ -5078,13 +5078,319 @@ as such is the will of Iśvara.
 इब्बद्धर् तङ्गळुक्कुम् स्वात्मस्वरूपम् सर्वदानुकूलमाग ईश्वरेच्छासिद्धम्. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि अनुकूलम् आन आत्म-स्वरूपत्तोड् ए एकत्व-भ्रमत्ताल् उम्  
+कर्मवशत्ताल् उम् इऱे  
+हेयम् आन शरीरम्  
+ज्ञान-हीनर्क्कु अनुकूलम् आय्त् तोट्रुगिऱदु.+++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थम् अनुकूलेनात्म-स्वरूपेण सहैकत्व-भ्रमात्  
+कर्मवशाच् च किल  
+हेयं शरीरं ज्ञान-हीनानाम् अनुकूलं भाति । 
+</details>
+
+<details><summary>English</summary>
+
+It is indeed, because of this false identification with the self  
+which is agreeable and also karma,  
+that the body which is disagreeable  
+appears agreeable to those who are ignorant.
+</details>
+
+<details><summary>Español</summary>
+
+It is indeed, because of this false identification with the self  
+which is agreeable and also karma,  
+that the body which is disagreeable  
+appears agreeable to those who are ignorant.
+</details>
 
 
-It is indeed, because of this false identification with the self which is agreeable and also karma, that the body which is disagreeable appears agreeable to those who are ignorant. Since prakṛti and its modifications are harmful owing to karma, the man who desires release from bondage should abandon the attachment to them. To those that have attained mokṣa , however, these very things are agreeable and not to be rejected. All those things that are taken for one's own with the notion of 'I' and 'Mine' are harmful. They become agreeable, when a man has come to understand his real nature and to realise that these things exist for the purposes of the Lord. We will explain this matter at length when we come to speak of the perfect and complete enjoyment of (the bliss of ) Brahman.
+<details><summary>मूलम्</summary>
 
-IŚVARA :
+इप्पडि अनुकूलमान आत्मस्वरूपत्तोडे एकत्वभ्रमत्तालुम् कर्मवशत्तालुमिऱे हेयमान शरीरम् ज्ञानहीनर्क्कु अनुकूलमाय्त् तोट्रुगिऱदु.
+</details>
 
-The essential nature (svarūpa ) of Iśvara on whom depends the existence of all things is truth (satyam), knowledge (jñāna),infiniteness ( ananta ), bliss (ānanda ) and purity (amalatvam ) because of attributes like being truth, being knowledge, being infinite, being blissful and being pure. These attributes define His svarūpa or essential nature. This truth is brought out by the Alwars in the following passages: "Thou [^f155] art light that never becomes extinct and is not capable of being measured" (where His essential nature as Truth and knowledge is revealed as also His infiniteness ) " Thou that [^f156] art perfect knowledge and bliss" and “Thou [^f157] that envelopest all and art a Light greater than all other lights, being both knowledge and bliss" "He is the [^f158] Pure". In these and other ways the Alwars meditated on Him. His other qualities, along with His divine and auspicious form and such other things, are attributes of His essential nature ( svarūpa) already defined by those attributes. Among these qualities knowledge, strength, lordship, valour, energy, splendour-these six are associated with His nature as the Supreme Being. Goodness, spontaneous love, and the like are qualities that make him easily accessible to all. These qualities are, at all times, connected with His essential nature (svarūpa ). The statement that some of these qualities are associated with the Supreme Person (Para), some with vyūha and so forth is only to show what qualities the Lord of all reveals to those who are devoted to any of these manifestations of His. (It does not mean that the other qualities are absent in any of these forms). Just as in the respective vidyās of the Upaniṣads, we are to meditate on certain specified attributes of Brahman, so also certain specified attributes are to be meditated upon in connection with particular forms of the Lord as revealed in Pūñcarātra or the Scripture of the Lord. In the Para or Supreme Vāsudeva, all the six [^f159] qualities[^36] beginning with knowledge are to be thought of. The śāstras sometimes say that the vyuhas (or emanations ) are four  and in some places that they are three. where it is said that there are four vyūhas and that Vāsudeva is one of them, since there is no difference in the qualities to be meditated on between the Supreme Vāsudeva and the Vyūha Vāsudeva, it is tantamount to saying that there are three vyuhas. Those who hold that the vyūhas are three state their view briefly in the following śloka  :- "O Lord, Thy original form shone with these six attributes; then came three forms of Thine which had, each of them, a couple of these attributes." Their respective qualities and activities are epitomised in the following śloka  :-- "O, Sovereign of [^f160] Śrīraṅga! As the Supreme Vāsudeva (Para) endowed with all the six qualities, you are the object of blissful enjoyment for those that have attained mokṣa ; as Saṅkarṣaṇa being endowed with strength and knowledge, you destroy the Universe and also promulgate the śāstras; as Pradyumna being endowed with lordship and virility, you create the Universe and make Dharma prevail; as Aniruddha being endowed with splendour and the power to overcome others, you protect the world and teach the Truth. In this way you divide yourself."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रुक्कु कर्मोपाधिकम् आन प्रतिकूल-रूपत्ताल् ए  
+मुमुक्षुवैप् पट्र त्याज्यत्वम्.+++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषां कर्मेपाधिक-प्रातिकूल्य-रूपेण  
+मुमुक्षून् प्रति त्याज्यत्वम् ; 
+</details>
+
+<details><summary>English</summary>
+
+Since prakṛti and its modifications are harmful owing to karma,  
+the man who desires release from bondage  
+should abandon the attachment to them. 
+</details>
+
+<details><summary>Español</summary>
+
+Since prakṛti and its modifications are harmful owing to karma,  
+the man who desires release from bondage  
+should abandon the attachment to them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रुक्कु कर्मोपाधिकमान प्रतिकूलरूपत्ताले मुमुक्षुवैप् पट्र त्याज्यत्वम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाभाविकम् आन अनुकूल-रूपत्ताल् ए  
+मुक्तनैप् पट्र  
+अवै तनक्क् ए उपादेयत्वम्.+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वाभाविकानुकूल्य-रूपेण  
+मुक्तान् प्रति तेषाम् एवोपादेयत्वम् । +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+To those that have attained mokṣa, however,  
+these very things are agreeable and not to be rejected. 
+</details>
+
+<details><summary>Español</summary>
+
+To those that have attained mokṣa, however,  
+these very things are agreeable and not to be rejected. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वाभाविकमान अनुकूलरूपत्ताले मुक्तनैप्पट्र अवै तनक्के उपादेयत्वम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहङ्-कार--मम-कार--युक्तन् आय्क्-कॊण्डु  
+तनक्क् ऎण्ड्रु स्वीकरिक्कुम् अवैय् ऎल्लाम् प्रतिकूलङ्गळ् आम्.+++(5)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अहं-कार--मम-कार-युक्तेन सता  
+स्वार्थं स्वीक्रियमाणानि सर्वाणि  
+प्रतिकूलानि भवन्ति । +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+All those things that are taken for one's own  
+with the notion of 'I' and 'Mine'  
+are harmful. 
+</details>
+
+<details><summary>Español</summary>
+
+All those things that are taken for one's own  
+with the notion of 'I' and 'Mine'  
+are harmful. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अहङ्कारममकारयुक्तनाय्क्कॊण्डु तनक्कॆण्ड्रु स्वीकरिक्कुमवैयॆल्लाम् प्रतिकूलङ्गळाम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-रूप-ज्ञानम् पिऱन्दु  
+स्वामि-शेषम् ऎण्ड्रु काणप्-पुक्काल्  
+ऎल्लाम् अनुकूलम् आम्.+++(5)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-रूप-ज्ञानोत्पत्त्य्-उत्तरं  
+स्वामि-शेषम् इति दर्शने  
+सर्वम् अनुकूलं भवति । 
+</details>
+
+<details><summary>English</summary>
+
+They become agreeable,  
+when a man has come to understand his real nature  
+and (has come) to realise that these things exist for the purposes of the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+They become agreeable,  
+when a man has come to understand his real nature  
+and (has come) to realise that these things exist for the purposes of the Lord. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वरूपज्ञानम् पिऱन्दु स्वामिशेषम् ऎण्ड्रु काणप्पुक्कालॆल्लाम् अनुकूलमाम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थम्  
+परिपूर्ण-ब्रह्मानुभवञ् चॊल्लुम् इडत्तिल् ए  
+परक्कच्+++(=विस्तृत्य)+++ चॊल्लक् कडवोम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इममर्थं परिपूर्णब्रह्मानुभवाधिकारे विस्तरेण वक्ष्यामः ॥
+</details>
+
+<details><summary>English</summary>
+
+We will explain this matter at length  
+when we come to speak of the perfect and complete enjoyment of (the bliss of ) Brahman.
+</details>
+
+<details><summary>Español</summary>
+
+We will explain this matter at length  
+when we come to speak of the perfect and complete enjoyment of (the bliss of ) Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् परिपूर्णब्रह्मानुभवञ् चॊल्लुमिडत्तिले परक्कच्चॊल्लक्कडवोम्.
+</details>
+
+
+## ईश्वरः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि स्वाधीन-सत्तादिगळैय् उडैयवन् आय् इरुक्किऱ  
+ईश्वरन्-उडैय स्व-रूपम्  
+सत्यत्वादिगळ् आगिऱ स्व-रूप--निरूपक-धर्मङ्गळाल् ए  
+सत्यम् आय्, ज्ञानम् आय्, अनन्तम् आय्, आनन्दम् आय्, अ-मलम् आय् इरुक्कुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं स्वाधीन-सर्व-सत्तादिकस्य सत ईश्वरस्य स्वरूपं  
+सत्यत्वादिभिः स्व-रूप-निरूपक-धर्मैः (युक्ततया)  
+सत्य-ज्ञानानन्तानन्दामल-रूपं भवति । 
+</details>
+
+<details><summary>English</summary>
+
+The essential nature (svarūpa ) of Iśvara on whom depends the existence of all things  
+is truth (satyam), knowledge (jñāna),infiniteness ( ananta ), bliss (ānanda ) and purity (amalatvam )  
+because of attributes like being truth, being knowledge, being infinite, being blissful and being pure.  
+These attributes define His svarūpa or essential nature. 
+</details>
+
+<details><summary>Español</summary>
+
+The essential nature (svarūpa ) of Iśvara on whom depends the existence of all things  
+is truth (satyam), knowledge (jñāna),infiniteness ( ananta ), bliss (ānanda ) and purity (amalatvam )  
+because of attributes like being truth, being knowledge, being infinite, being blissful and being pure.  
+These attributes define His svarūpa or essential nature. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वाधीनसत्तादिगळैयुडैयवनायिरुक्किऱ ईश्वरनुडैय स्वरूपम् सत्यत्वादिगळागिऱ स्वरूपनिरूपकधर्मङ्गळाले सत्यमाय् ज्ञानमाय् अनन्तमाय् आनन्दमाय् अमलमायिरुक्कुम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तै  
+
+> "नन्दा-विळक्क् एय् अळत्तऱ्‌क्+++(=मातृभ्यो)+++ अरिय् आय्"  
+> पेरियतिरु-3-8-1
+
+ऎण्ड्रुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमम् अर्थम् 
+
+> ‘17 अनिर्वाप्य-दीप परिच्छेत्तुम् अशक्य !” 
+</details>
+
+<details><summary>English</summary>
+
+This truth is brought out by the Alwars in the following passages:  
+
+> "Thou [^f155] art light that never becomes extinct  
+> and is not capable of being measured"  
+
+(where His essential nature as Truth and knowledge is revealed as also His infiniteness ) 
+</details>
+
+<details><summary>Español</summary>
+
+This truth is brought out by the Alwars in the following passages:  
+
+> "Thou [^f155] art light that never becomes extinct  
+> and is not capable of being measured"  
+
+(where His essential nature as Truth and knowledge is revealed as also His infiniteness ) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै "नन्दाविळक्के यळत्तऱ्‌करियाय्" ऎण्ड्रुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "उणर्+++(=ज्ञान)+++--मुऴु+++(=पूर्ण)+++-नलम्+++(=गुण|आनन्द)+++" (तिरुवाय 1-1-2 ) 
+
+ऎण्ड्रुम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> कृत्स्न-ज्ञानानन्दः
+</details>
+
+<details><summary>English</summary>
+
+" Thou that [^f156] art perfect knowledge and bliss" 
+</details>
+
+<details><summary>Español</summary>
+
+" Thou that [^f156] art perfect knowledge and bliss" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"उणर् मुऴु नलम्" (तिरुवाय 1-1-2 ) ऎण्ड्रुम्  
+</details>
+
+
+
+
+and “Thou [^f157] that envelopest all and art a Light greater than all other lights, being both knowledge and bliss" "He is the [^f158] Pure". In these and other ways the Alwars meditated on Him. His other qualities, along with His divine and auspicious form and such other things, are attributes of His essential nature ( svarūpa) already defined by those attributes. Among these qualities knowledge, strength, lordship, valour, energy, splendour-these six are associated with His nature as the Supreme Being. Goodness, spontaneous love, and the like are qualities that make him easily accessible to all. These qualities are, at all times, connected with His essential nature (svarūpa ). The statement that some of these qualities are associated with the Supreme Person (Para), some with vyūha and so forth is only to show what qualities the Lord of all reveals to those who are devoted to any of these manifestations of His. (It does not mean that the other qualities are absent in any of these forms). Just as in the respective vidyās of the Upaniṣads, we are to meditate on certain specified attributes of Brahman, so also certain specified attributes are to be meditated upon in connection with particular forms of the Lord as revealed in Pūñcarātra or the Scripture of the Lord. In the Para or Supreme Vāsudeva, all the six [^f159] qualities[^36] beginning with knowledge are to be thought of. The śāstras sometimes say that the vyuhas (or emanations ) are four  and in some places that they are three. where it is said that there are four vyūhas and that Vāsudeva is one of them, since there is no difference in the qualities to be meditated on between the Supreme Vāsudeva and the Vyūha Vāsudeva, it is tantamount to saying that there are three vyuhas. Those who hold that the vyūhas are three state their view briefly in the following śloka  :- "O Lord, Thy original form shone with these six attributes; then came three forms of Thine which had, each of them, a couple of these attributes." Their respective qualities and activities are epitomised in the following śloka  :-- "O, Sovereign of [^f160] Śrīraṅga! As the Supreme Vāsudeva (Para) endowed with all the six qualities, you are the object of blissful enjoyment for those that have attained mokṣa ; as Saṅkarṣaṇa being endowed with strength and knowledge, you destroy the Universe and also promulgate the śāstras; as Pradyumna being endowed with lordship and virility, you create the Universe and make Dharma prevail; as Aniruddha being endowed with splendour and the power to overcome others, you protect the world and teach the Truth. In this way you divide yourself."
 
 [^f155]: Peria Tirumozhi: 3-8-1
 
