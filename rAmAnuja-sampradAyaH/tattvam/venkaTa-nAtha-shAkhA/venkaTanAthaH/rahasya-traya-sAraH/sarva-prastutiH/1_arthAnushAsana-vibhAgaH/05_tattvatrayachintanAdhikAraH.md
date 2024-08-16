@@ -5387,10 +5387,76 @@ This truth is brought out by the Alwars in the following passages:
 "उणर् मुऴु नलम्" (तिरुवाय 1-1-2 ) ऎण्ड्रुम्  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "सूऴ्न्द तनिऱ्‌-पॆरिय सुडर्-ञानव्-इन्बम्" 
+
+ऎण्ड्रुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+18 अभिव्याप्य तद्-अधिक(मुक्ताद् अधिक)+उज्ज्वल-ज्ञानानन्द 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> “Thou [^f157] that envelopest all  
+> and art a Light greater than all other lights,  
+> being both knowledge and bliss" 
+</details>
+
+<details><summary>Español</summary>
+
+and 
+
+> “Thou [^f157] that envelopest all  
+> and art a Light greater than all other lights,  
+> being both knowledge and bliss" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"सूऴ्न्द तनिऱ्‌पॆरिय सुडर्ञानविन्बम्" ऎण्ड्रुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अमलन्" ऎण्ड्रुम्  
+इत्य्-आदिगळाल् ए आऴ्वार्गळ् अनुसन्धित्तार्गळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"अमलः" इत्य्-आदिभिर् दिव्य-सूरयोऽनुसन्दधिरे ।
+</details>
+
+
+<details><summary>English</summary>
+
+"He is the [^f158] Pure".  
+In these and other ways the Alwars meditated on Him.  
+</details>
+
+<details><summary>Español</summary>
+
+"He is the [^f158] Pure".  
+In these and other ways the Alwars meditated on Him.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"अमल"नॆण्ड्रुम् इत्यादिगळाले आऴ्वार्गळ् अनुसन्धित्तार्गळ्.
+</details>
 
 
 
-and “Thou [^f157] that envelopest all and art a Light greater than all other lights, being both knowledge and bliss" "He is the [^f158] Pure". In these and other ways the Alwars meditated on Him. His other qualities, along with His divine and auspicious form and such other things, are attributes of His essential nature ( svarūpa) already defined by those attributes. Among these qualities knowledge, strength, lordship, valour, energy, splendour-these six are associated with His nature as the Supreme Being. Goodness, spontaneous love, and the like are qualities that make him easily accessible to all. These qualities are, at all times, connected with His essential nature (svarūpa ). The statement that some of these qualities are associated with the Supreme Person (Para), some with vyūha and so forth is only to show what qualities the Lord of all reveals to those who are devoted to any of these manifestations of His. (It does not mean that the other qualities are absent in any of these forms). Just as in the respective vidyās of the Upaniṣads, we are to meditate on certain specified attributes of Brahman, so also certain specified attributes are to be meditated upon in connection with particular forms of the Lord as revealed in Pūñcarātra or the Scripture of the Lord. In the Para or Supreme Vāsudeva, all the six [^f159] qualities[^36] beginning with knowledge are to be thought of. The śāstras sometimes say that the vyuhas (or emanations ) are four  and in some places that they are three. where it is said that there are four vyūhas and that Vāsudeva is one of them, since there is no difference in the qualities to be meditated on between the Supreme Vāsudeva and the Vyūha Vāsudeva, it is tantamount to saying that there are three vyuhas. Those who hold that the vyūhas are three state their view briefly in the following śloka  :- "O Lord, Thy original form shone with these six attributes; then came three forms of Thine which had, each of them, a couple of these attributes." Their respective qualities and activities are epitomised in the following śloka  :-- "O, Sovereign of [^f160] Śrīraṅga! As the Supreme Vāsudeva (Para) endowed with all the six qualities, you are the object of blissful enjoyment for those that have attained mokṣa ; as Saṅkarṣaṇa being endowed with strength and knowledge, you destroy the Universe and also promulgate the śāstras; as Pradyumna being endowed with lordship and virility, you create the Universe and make Dharma prevail; as Aniruddha being endowed with splendour and the power to overcome others, you protect the world and teach the Truth. In this way you divide yourself."
+His other qualities, along with His divine and auspicious form and such other things, are attributes of His essential nature ( svarūpa) already defined by those attributes. Among these qualities knowledge, strength, lordship, valour, energy, splendour-these six are associated with His nature as the Supreme Being. Goodness, spontaneous love, and the like are qualities that make him easily accessible to all. These qualities are, at all times, connected with His essential nature (svarūpa ). The statement that some of these qualities are associated with the Supreme Person (Para), some with vyūha and so forth is only to show what qualities the Lord of all reveals to those who are devoted to any of these manifestations of His. (It does not mean that the other qualities are absent in any of these forms). Just as in the respective vidyās of the Upaniṣads, we are to meditate on certain specified attributes of Brahman, so also certain specified attributes are to be meditated upon in connection with particular forms of the Lord as revealed in Pūñcarātra or the Scripture of the Lord. In the Para or Supreme Vāsudeva, all the six [^f159] qualities[^36] beginning with knowledge are to be thought of. The śāstras sometimes say that the vyuhas (or emanations ) are four  and in some places that they are three. where it is said that there are four vyūhas and that Vāsudeva is one of them, since there is no difference in the qualities to be meditated on between the Supreme Vāsudeva and the Vyūha Vāsudeva, it is tantamount to saying that there are three vyuhas. Those who hold that the vyūhas are three state their view briefly in the following śloka  :- "O Lord, Thy original form shone with these six attributes; then came three forms of Thine which had, each of them, a couple of these attributes." Their respective qualities and activities are epitomised in the following śloka  :-- "O, Sovereign of [^f160] Śrīraṅga! As the Supreme Vāsudeva (Para) endowed with all the six qualities, you are the object of blissful enjoyment for those that have attained mokṣa ; as Saṅkarṣaṇa being endowed with strength and knowledge, you destroy the Universe and also promulgate the śāstras; as Pradyumna being endowed with lordship and virility, you create the Universe and make Dharma prevail; as Aniruddha being endowed with splendour and the power to overcome others, you protect the world and teach the Truth. In this way you divide yourself."
 
 [^f155]: Peria Tirumozhi: 3-8-1
 
