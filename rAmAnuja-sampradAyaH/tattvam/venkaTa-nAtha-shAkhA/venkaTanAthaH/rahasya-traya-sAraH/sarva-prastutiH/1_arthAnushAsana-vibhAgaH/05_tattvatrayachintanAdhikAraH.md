@@ -3870,7 +3870,7 @@ and when these qualities are uneven in proportions, +++(there is creation and su
 
 <details><summary>मूलम्</summary>
 
-सततपरिणामशीलमान इत्द्रव्यत्तुक्कु सत्त्वरजस्तमस्सुक्कळ् अन्योन्यम् सममान-पोदु महाप्रळयम् विषममान-पोदु सृष्टिस्थितिगळ्.
+सततपरिणामशीलमान इद्द्रव्यत्तुक्कु सत्त्वरजस्तमस्सुक्कळ् अन्योन्यम् सममान-पोदु महाप्रळयम् विषममान-पोदु सृष्टिस्थितिगळ्.
 </details>
 
 
@@ -4780,13 +4780,307 @@ It is eternal because its continued existence ( sthiti) is not limited by time.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**प्रवृत्ति-भेदम्**  
+कला-काष्ठादि-विभागत्ताल् ए  
+सृष्ट्य्-आदिगळुक्कु उपकरणम् आय् इरुक्किऱप् पडियिल् ए कण्डु-गॊळ्वदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रवृत्ति-भेदः  
+कला-काष्ठादि-विभागेन सृष्ट्य्-आदीनाम् उपकरणतया ऽवस्थिति-प्रकारे द्रष्टव्यः । 
+</details>
+
+<details><summary>English</summary>
+
+Its activity consists in its being accessory to creation and the like  
+by such divisions as kală (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
+</details>
+
+<details><summary>Español</summary>
+
+Its activity consists in its being accessory to creation and the like  
+by such divisions as kală (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
+</details>
 
 
-Its activity consists in its being accessory to creation and the like by such divisions as kală (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
+<details><summary>मूलम्</summary>
 
-All these substances (dravya ) are, in their essential nature (svarūpa), eternal. Some of them are said to be temporary or transient, owing to their assuming a new state or condition (avastha), which justifies their being called by a new name. As new states similar to those which have perished follow each other in continuous succession, they are said to be eternal in the sense of a stream or current of water (retaining the same form, though the water at any time may be different ).
+प्रवृत्तिभेदम् कलाकाष्ठादिविभागत्ताले सृष्ट्यादिगळुक्कु उपकरणमायिरुक्किऱप्पडियिले कण्डुगॊळ्वदु. 
+</details>
 
-The essential nature (svarūpa), the existence in time (sthiti), and the activity (pravṛtti) of all these substances are dependent upon Iśvara, because they have no existence etc, apart from His existence and without His will or desire. Therefore it is due to Iśvara's will that all substances are, by their very nature, agreeable. From this it follows that to Iśvara, to the eternally free and to the released souls, they are all agreeable. To those bound in saṁsāra, however, they appear as disagreeable or as only slightly agreeable at different times and to different persons in accordance with the karma of those persons. Even to bound souls, the essential Nature of their own self or soul is always to be agreeable, as such is the will of Iśvara. It is indeed, because of this false identification with the self which is agreeable and also karma, that the body which is disagreeable appears agreeable to those who are ignorant. Since prakṛti and its modifications are harmful owing to karma, the man who desires release from bondage should abandon the attachment to them. To those that have attained mokṣa , however, these very things are agreeable and not to be rejected. All those things that are taken for one's own with the notion of 'I' and 'Mine' are harmful. They become agreeable, when a man has come to understand his real nature and to realise that these things exist for the purposes of the Lord. We will explain this matter at length when we come to speak of the perfect and complete enjoyment of (the bliss of ) Brahman.
+## नित्यत्वानित्यत्व-व्यपदेश-तात्पर्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद्-द्रव्यङ्गळ् ऎल्लाम्  
+स्वरूपेण नित्यङ्गळ् आय् इरुक्कुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमानि द्रव्याणि सर्वाण्यपि स्वरूपेण नित्यानि भवन्ति 
+</details>
+
+<details><summary>English</summary>
+
+All these substances (dravya ) are, in their essential nature (svarūpa), eternal. 
+</details>
+
+<details><summary>Español</summary>
+
+All these substances (dravya ) are, in their essential nature (svarūpa), eternal. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इद्द्रव्यङ्गळॆल्लाम् स्वरूपेण नित्यङ्गळायिरुक्कुम्. 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नामान्तर-भजनार्हावस्था-विशेष-विशिष्टतैयैय् इट्टुच्  
+चिलवट्रै अनित्यङ्गळ् ऎन्गिऱदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नामान्तर-भजनार्हावस्था-विशेष-विशिष्टतां पुरस्कृत्य  
+केषांचिद् अनित्यतया व्यवहारः । 
+</details>
+
+<details><summary>English</summary>
+
+Some of them are said to be temporary or transient,  
+owing to their assuming a new state or condition (avastha),  
+which justifies their being called by a new name. 
+</details>
+
+<details><summary>Español</summary>
+
+Some of them are said to be temporary or transient,  
+owing to their assuming a new state or condition (avastha),  
+which justifies their being called by a new name. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नामान्तरभजनार्हावस्थाविशेषविशिष्टतैयैयिट्टुच् चिलवट्रै अनित्यङ्गळॆन्गिऱदु. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अऴिन्ददोडु सजातीयङ्गळ् आन अवस्थान्तरङ्गळ्  
+मेलुम् मुऴुक्क वरुगैयाल् ए  
+प्रवाह-नित्यङ्गळ् ऎण्ड्रु सॊल्लु-गिऱदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विनष्ट-सजातीयानाम् अवस्थान्तराणाम्  
+अग्रेऽपि अविच्छेदेनानुवृत्तेः  
+प्रवाह-नित्यत्व-व्यवहारः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+As new states similar to those which have perished  
+follow each other in continuous succession,  
+they are said to be eternal in the sense of a stream or current of water  
+(retaining the same form, though the water at any time may be different ).
+</details>
+
+<details><summary>Español</summary>
+
+As new states similar to those which have perished  
+follow each other in continuous succession,  
+they are said to be eternal in the sense of a stream or current of water  
+(retaining the same form, though the water at any time may be different ).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अऴिन्ददोडु सजातीयङ्गळान अवस्थान्तरङ्गळ् मेलुम् मुऴुक्क वरुगैयाले प्रवाहनित्यङ्गळॆण्ड्रु सॊल्लुगिऱदु.
+</details>
+
+## ईश्वराधीनत्वम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पदार्थङ्गळ् ऎल्लावट्रिन्-उडैयव् उम् स्व-रूप--स्थिति-प्रवृत्ति-भेदङ्गळ्  
+ईश्वरनुक्कु **स्वाधीनङ्गळ् आय् इरुक्कैय्** आवदु  
+ईश्वर-सत्तैयैय् उम्, ईश्वरेच्छैयैय् उम् ऒऴिय+++(=विना)+++  
+इवट्रिऱ्‌कु सत्तादिगळ् कूडाद् ऒऴिगै+++(=समाप्तिः)+++.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+निरुक्त सर्व पदार्थगत-स्वरूप-स्थिति-प्रवृत्ति-भेदानाम् ईश्वराधीनत्वं नाम –  
+ईश्वर-सत्ताम् ईश्वरेच्छां च विना  
+एषां सत्ताद्य्-अनर्हत्वम् । 
+</details>
+
+<details><summary>English</summary>
+
+The essential nature (svarūpa), the existence in time (sthiti), and the activity (pravṛtti)  
+of all these substances are dependent upon Iśvara,  
+because they have no existence etc, apart from His existence and without His will or desire.
+</details>
+
+<details><summary>Español</summary>
+
+The essential nature (svarūpa), the existence in time (sthiti), and the activity (pravṛtti)  
+of all these substances are dependent upon Iśvara,  
+because they have no existence etc, apart from His existence and without His will or desire.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पदार्थङ्गळॆल्लावट्रिनुडैयवुम् स्वरूपस्थितिप्रवृत्तिभेदङ्गळ् ईश्वरनुक्कु स्वाधीनङ्गळायिरुक्कैयावदु ईश्वरसत्तैयैयुम् ईश्वरेच्छैयैयुमॊऴिय इवट्रिऱ्‌कु सत्तादिगळ् कूडादॊऴिगै.
+</details>
+
+## आनुकूल्यं स्वभावतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् समस्त-वस्तुक्कळुक्क् +++(→वस्तूनाम्)+++ उम् स्व-भाव-सिद्धानुकूल्यम्  
+ईश्वरेच्छायत्तम्.+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतः समस्त वस्तूनां स्व-भाव-सिद्धानुकूल्यम्  
+ईश्वरेच्छायत्तम् । +++(5)+++
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अबद्धापेक्षया ऽऽनुकूल्यं स्वभावत आनुकूल्यम् उच्यते।
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore it is due to Iśvara's will that all substances are, by their very nature, agreeable. 
+</details>
+
+<details><summary>Español</summary>
+
+Therefore it is due to Iśvara's will that all substances are, by their very nature, agreeable. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् समस्तवस्तुक्कळुक्कुम् स्वभावसिद्धानुकूल्यम् ईश्वरेच्छायत्तम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् ए ईश्वरनुक्क् उम्, नित्यरुक्क् उम्, मुक्तरुक्क् उम्,  
+सर्वम् उम् अनुकूलम् आय् इरुक्कुम्.+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत एव ईश्वरस्य नित्यानां मुक्तानां च सर्वमनुकूलं भवति; +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+From this it follows that to Iśvara, to the eternally free and to the released souls,  
+they are all agreeable.
+</details>
+
+<details><summary>Español</summary>
+
+From this it follows that to Iśvara, to the eternally free and to the released souls,  
+they are all agreeable.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताले ईश्वरनुक्कुम् नित्यरुक्कुम् मुक्तरुक्कुम् सर्वमुम् अनुकूलमायिरुक्कुम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बद्धरुक्कु कर्मानुरूपम् आग  
+पुरुष-भेदत्ताल् उम् काल-भेदत्ताल् उम्  
+इवट्रिल् प्रातिकूल्यङ्गळ् उम्, अल्पानुकूल्यङ्गळ् उम् नडवा-निऱ्‌कुम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+बद्धानां कर्मानुरूपं  
+पुरुषभेदेन कालभेदेन चैतेषु  
+प्रातिकूल्यम् अल्पानुकूल्यं च प्रवर्तते ।
+</details>
+
+<details><summary>English</summary>
+
+To those bound in saṁsāra, however,  
+they appear as disagreeable or as only slightly agreeable at different times and to different persons  
+in accordance with the karma of those persons. 
+</details>
+
+<details><summary>Español</summary>
+
+To those bound in saṁsāra, however,  
+they appear as disagreeable or as only slightly agreeable at different times and to different persons  
+in accordance with the karma of those persons. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बद्धरुक्कु कर्मानुरूपमाग पुरुषभेदत्तालुम् कालभेदत्तालुमिवट्रिल् प्रातिकूल्यङ्गळुम् अल्पानुकूल्यङ्गळुम् नडवा निऱ्‌कुम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब्-बद्धर् तङ्गळुक्कुम्  
+स्वात्म-स्वरूपम् सर्वदानुकूलमाग ईश्वरेच्छासिद्धम्. +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषां बद्धानाम् अप्य् आत्म-स्वरूपस्य सर्वदाऽऽनुकूल्यम् ईश्वरेच्छा-सिद्धम् । +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Even to bound souls, the essential Nature of their own self or soul is always to be agreeable,  
+as such is the will of Iśvara. 
+</details>
+
+<details><summary>Español</summary>
+
+Even to bound souls, the essential Nature of their own self or soul is always to be agreeable,  
+as such is the will of Iśvara. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इब्बद्धर् तङ्गळुक्कुम् स्वात्मस्वरूपम् सर्वदानुकूलमाग ईश्वरेच्छासिद्धम्. 
+</details>
+
+
+
+It is indeed, because of this false identification with the self which is agreeable and also karma, that the body which is disagreeable appears agreeable to those who are ignorant. Since prakṛti and its modifications are harmful owing to karma, the man who desires release from bondage should abandon the attachment to them. To those that have attained mokṣa , however, these very things are agreeable and not to be rejected. All those things that are taken for one's own with the notion of 'I' and 'Mine' are harmful. They become agreeable, when a man has come to understand his real nature and to realise that these things exist for the purposes of the Lord. We will explain this matter at length when we come to speak of the perfect and complete enjoyment of (the bliss of ) Brahman.
 
 IŚVARA :
 
