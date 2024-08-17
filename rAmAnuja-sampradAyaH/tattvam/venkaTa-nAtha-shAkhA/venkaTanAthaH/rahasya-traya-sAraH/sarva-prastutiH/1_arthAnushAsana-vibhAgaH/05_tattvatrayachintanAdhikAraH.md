@@ -5396,6 +5396,7 @@ This truth is brought out by the Alwars in the following passages:
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+[[५०]]  
 18 अभिव्याप्य तद्-अधिक(मुक्ताद् अधिक)+उज्ज्वल-ज्ञानानन्द 
 </details>
 
@@ -5545,7 +5546,7 @@ Goodness, spontaneous love, and the like are qualities that make him easily acce
 
 इग्-गुणङ्गळ् ऎल्लाम्  
 सर्व-कालत्तिल् उम्  
-स्वरूपाश्रितङ्गळ् आय् इरुक्कुम्. 
+स्व-रूपाश्रितङ्गळ् आय् इरुक्कुम्. 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -5571,8 +5572,326 @@ connected with His essential nature (svarūpa ).
 इग्गुणङ्गळॆल्लाम् सर्वकालत्तिलुम् स्वरूपाश्रितङ्गळायिरुक्कुम्. 
 </details>
 
+### व्यूह-भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The statement that some of these qualities are associated with the Supreme Person (Para), some with vyūha and so forth is only to show what qualities the Lord of all reveals to those who are devoted to any of these manifestations of His. (It does not mean that the other qualities are absent in any of these forms). Just as in the respective vidyās of the Upaniṣads, we are to meditate on certain specified attributes of Brahman, so also certain specified attributes are to be meditated upon in connection with particular forms of the Lord as revealed in Pūñcarātra or the Scripture of the Lord. In the Para or Supreme Vāsudeva, all the six [^f159] qualities[^36] beginning with knowledge are to be thought of. The śāstras sometimes say that the vyuhas (or emanations ) are four  and in some places that they are three. where it is said that there are four vyūhas and that Vāsudeva is one of them, since there is no difference in the qualities to be meditated on between the Supreme Vāsudeva and the Vyūha Vāsudeva, it is tantamount to saying that there are three vyuhas. Those who hold that the vyūhas are three state their view briefly in the following śloka  :- "O Lord, Thy original form shone with these six attributes; then came three forms of Thine which had, each of them, a couple of these attributes." Their respective qualities and activities are epitomised in the following śloka  :-- "O, Sovereign of [^f160] Śrīraṅga! As the Supreme Vāsudeva (Para) endowed with all the six qualities, you are the object of blissful enjoyment for those that have attained mokṣa ; as Saṅkarṣaṇa being endowed with strength and knowledge, you destroy the Universe and also promulgate the śāstras; as Pradyumna being endowed with lordship and virility, you create the Universe and make Dharma prevail; as Aniruddha being endowed with splendour and the power to overcome others, you protect the world and teach the Truth. In this way you divide yourself."
+पर-व्यूहादि-विभागङ्गळिल्  
+गुण-नियमञ् चॊल्लुगिऱद् ऎल्लाम्  
+अव्व्-ओ-रूपङ्गळै अनुसन्धिप्पार्क्कु  
+सर्वेश्वरन् आविष्करिक्कुम् गुण-विशेषङ्गळ् सॊल्लुगैक्क् आगव् अत्तनै. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परव्यूहादि-विभागेषु गुण-नियम-प्रतिपादकानि तु सर्वाण्य् अपि वचनानि,  
+
+> 'तत्-तद्-रूपानुसन्धान-पराणां विषये  
+सर्वेश्वरेणाविष्क्रियमाणास् ते गुणा' 
+
+इत्य् एतन्-मात्र प्रतिपादनार्थानि । 
+</details>
+
+<details><summary>English</summary>
+
+The statement that some of these qualities  
+are associated with the Supreme Person (Para),  
+some with vyūha and so forth  
+is only to show what qualities the Lord of all reveals  
+to those who are devoted to any of these manifestations of His.  
+(It does not mean that the other qualities  
+are absent in any of these forms). 
+</details>
+
+<details><summary>Español</summary>
+
+The statement that some of these qualities  
+are associated with the Supreme Person (Para),  
+some with vyūha and so forth  
+is only to show what qualities the Lord of all reveals  
+to those who are devoted to any of these manifestations of His.  
+(It does not mean that the other qualities  
+are absent in any of these forms). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परव्यूहादिविभागङ्गळिल् गुणनियमञ्चॊल्लुगिऱदॆल्लाम् अव्वोरूपङ्गळै अनुसन्धिप्पार्क्कु सर्वेश्वरन् आविष्करिक्कुम् गुणविशेषङ्गळ् सॊल्लुगैक्कागवत्तनै. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+औपनिषद-विद्या-विशेषङ्गळ् दोऱुम् अनुसन्धेय-गुण-विशेषङ्गळ्  
+नियतङ्गळ् आनाऱ्‌-पोल् ए  
+भगवच्-छास्त्रोक्तम् आन रूप-विशेषानुसन्धानत्तुक्क् उम्  
+गुण-विशेषङ्गळ् नियतङ्गळ्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रत्योपनिषदविद्याविशेषम् अनुसन्धेया गुणविशेषा यथा नियताः, तथा भगवच्छास्त्रोक्तरूपविशेषानु संधानस्यापि गुणविशेषा नियताः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+Just as in the respective vidyās of the Upaniṣads,  
+we are to meditate on certain specified attributes of Brahman,  
+so also certain specified attributes are to be meditated upon  
+in connection with particular forms of the Lord  
+as revealed in Pūñcarātra or the Scripture of the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+Just as in the respective vidyās of the Upaniṣads,  
+we are to meditate on certain specified attributes of Brahman,  
+so also certain specified attributes are to be meditated upon  
+in connection with particular forms of the Lord  
+as revealed in Pūñcarātra or the Scripture of the Lord. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+औपनिषदविद्याविशेषङ्गळ्दोऱुम् अनुसन्धेयगुणविशेषङ् गळ् नियतङ्गळानाऱ्‌पोले भगवच्छास्त्रोक्तमान रूपविशेषानुसन्धानत्तुक्कुम् गुणविशेषङ्गळ् नियतङ्गळ्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व्-इडत्तिल् पर-रूपत्तिल् +++(वासुदेवे)+++  
+ज्ञानादि-गुणङ्गळ् आऱुम् वेद्यङ्गळ्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्र पर-रूपे +++(वासुदेवे)+++ ज्ञानादयः षडपि गुणा वेद्याः । 
+</details>
+
+<details><summary>English</summary>
+
+In the Para or Supreme Vāsudeva,  
+all the six [^f159] qualities beginning with knowledge are to be thought of. 
+
+[^f159]:
+
+    Six Qualities or Gunas:  
+    1. jñāna ( Knowledge) .  
+    2. Aiswarya Lord ship; unimpeded activity; activity based on independence  
+    3. Śakti (ability) potency to become the material cause of the world;  
+    also the power of bringing about what appears impossible of being brought about;   
+    4. bala strength; absence of fatigue; sustaining power;     
+    5. virya virility; changelessness in spite of being the material cause of the world;
+    6. tejas splendour, might, the power to overcome others.*
+</details>
+
+<details><summary>Español</summary>
+
+In the Para or Supreme Vāsudeva,  
+all the six [^es159] qualities beginning with knowledge are to be thought of. 
+
+[^es159]:
+
+    Six Qualities or Gunas:  
+    1. jñāna ( Knowledge) .  
+    2. Aiswarya Lord ship; unimpeded activity; activity based on independence  
+    3. Śakti (ability) potency to become the material cause of the world;  
+    also the power of bringing about what appears impossible of being brought about;   
+    4. bala strength; absence of fatigue; sustaining power;     
+    5. virya virility; changelessness in spite of being the material cause of the world;
+    6. tejas splendour, might, the power to overcome others.*
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्विडत्तिल् पररूपत्तिल् ज्ञानादिगुणङ्गळ् आऱुम् वेद्यङ्गळ्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यूहङ्गळ् नालॆण्ड्रुम् मूण्ड्रॆण्ड्रुम् शास्त्रङ्गळ् सॊल्लुम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+व्यूहाश् चत्वार इति त्रय इति च शास्त्राणि प्रतिपादयन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+The śāstras sometimes say that the vyuhas (or emanations ) are four   
+and in some places that they are three. 
+</details>
+
+<details><summary>Español</summary>
+
+The śāstras sometimes say that the vyuhas (or emanations ) are four   
+and in some places that they are three. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+व्यूहङ्गळ् नालॆण्ड्रुम् मूण्ड्रॆण्ड्रुम् शास्त्रङ्गळ् सॊल्लुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नालु व्यूहम् उण्ड् आय् इरुक्क व्यूह-वासुदेव-रूपत्तुक्कु  
+पर-रूपत्तिऱ्‌ काट्टिल् अनुसन्धेय-गुण-भेदम् इल्लामैयाल् ए  
+त्रि-व्यूहम् ऎन्गिऱदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+चतुर्षु व्यूहेषु सत्सु  
+व्यूह-वासुदेव-रूपे पर-रूपाद् अनुसन्धेय-गुण-भेदाभावात्  
+त्रि-व्यूह-वादः प्रवर्तते । 
+</details>
+
+<details><summary>English</summary>
+
+where it is said that there are four vyūhas  
+and that Vāsudeva is one of them,  
+since there is no difference in the qualities to be meditated on  
+between the Supreme Vāsudeva and the Vyūha Vāsudeva,  
+it is tantamount to saying that there are three vyuhas. 
+</details>
+
+<details><summary>Español</summary>
+
+where it is said that there are four vyūhas  
+and that Vāsudeva is one of them,  
+since there is no difference in the qualities to be meditated on  
+between the Supreme Vāsudeva and the Vyūha Vāsudeva,  
+it is tantamount to saying that there are three vyuhas. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नालु व्यूहमुण्डायिरुक्क व्यूहवासुदेवरूपत्तुक्कु पररूपत्तिऱ्‌ काट्टिल् अनुसन्धेय गुणभेदमिल्लामैयाले त्रिव्यूहमॆन्गिऱदु.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पक्षत्तै 
+
+> गुणैः षड्भिस् त्व् एतैः प्रथमतर-मूर्तिस् तव बभौ +++(वासुदेव इति)+++  
+ततस् त्रिस्रस् तेषां त्रि-युग! युगलैर् हि त्रिभिर् **अभुः**+++(←भा)+++   
++++(ज्ञान-बले → सङ्कर्षण, ऐश्वर्य-वीर्ये → प्रद्युम्नः, शक्ति-तेजसी → अनिरुद्ध इति)+++।
+> (वरदराजस्तवम् - 16) 
+
+ऎन्गिऱ श्लोकत्तिल् ए संग्रहित्तार्गळ्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमं पक्ष 21 
+
+> गुणैः षड्भिस् त्व् एतैः प्रथमतर-मूर्तिस् तव बभौ +++(वासुदेव इति)+++  
+ततस् त्रिस्रस् तेषां त्रि-युग! युगलैर् हि त्रिभिर् **अभुः**+++(←भा)+++   
++++(ज्ञान-बले → सङ्कर्षण, ऐश्वर्य-वीर्ये → प्रद्युम्नः, शक्ति-तेजसी → अनिरुद्ध इति)+++। 
+
+इति लोके संजगृहुः । 
+</details>
+
+<details><summary>English</summary>
+
+Those who hold that the vyūhas are three state their view briefly in the following śloka  :- 
+
+> "O Lord, Thy original form shone with these six attributes;  
+> then came three forms of Thine  
+> which had, each of them, a couple of these attributes."
+</details>
+
+<details><summary>Español</summary>
+
+Those who hold that the vyūhas are three state their view briefly in the following śloka  :- 
+
+> "O Lord, Thy original form shone with these six attributes;  
+> then came three forms of Thine  
+> which had, each of them, a couple of these attributes."
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इप्पक्षत्तै “गुणैष्षड्भिस्त्वेतैः प्रथमतरमूर्तिस्तव बभौ ततस्तिस्रस्तेषां त्रियुग युगळैर्हि त्रिभिरभुः” (वरदराजस्तवम् - 16) ऎन्गिऱ श्लोकत्तिले संग्रहित्तार्गळ्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पर-व्यूहङ्गळिल् गुण-क्रिया-विभागङ्गळ् 
+
+> षाङ्गुण्याद् वासुदेवः पर इति स भवान् मुक्त-**भोग्यो**, बलाढ्यात्  
+बोधात् सङ्कर्षणस् त्वं **हरसि**, **वितनुषे** शास्त्रम्,, ऐश्वर्य-वीर्यात् । प्रद्युम्नस्, **सर्ग**-धर्मो **नयसि** च भगवन् ! शक्ति-तेजो ऽनिरुद्धो  
+**बिभ्राणः पासि** तत्त्वं, **गमयसि** च तथा **व्यूह्य** रङ्गाधिराज! ॥ ३९ ॥  
+(रङ्गराजस्तवम्-उत्तरशतकम् 39) 
+
+ऎन्गिऱ श्लोकत्तिल् ए संग्रहिक्कप्-पट्टन.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषु परव्यूहेषु गुणक्रियाविभागाः- 
+
+> षाङ्गुण्याद् वासुदेवः पर इति स भवान् मुक्त-**भोग्यो**, बलाढ्यात्  
+बोधात् सङ्कर्षणस् त्वं **हरसि**, **वितनुषे** शास्त्रम्,, ऐश्वर्य-वीर्यात् । प्रद्युम्नस्, **सर्ग**-धर्मो **नयसि** च भगवन् ! शक्ति-तेजो ऽनिरुद्धो  
+**बिभ्राणः पासि** तत्त्वं, **गमयसि** च तथा **व्यूह्य** रङ्गाधिराज! ॥ ३९ ॥
+
+[[५१]]
+
+इति श्लोके समग्राहिषत । 
+</details>
+
+<details><summary>English</summary>
+
+Their respective qualities and activities are epitomised in the following śloka  :-- 
+
+> "O, Sovereign of [^f160] Śrīraṅga!  
+> As the Supreme Vāsudeva (Para) endowed with all the six qualities,  
+> you are the object of blissful enjoyment for those that have attained mokṣa ;  
+> as Saṅkarṣaṇa being endowed with strength and knowledge,  
+> you destroy the Universe and also promulgate the śāstras;  
+> as Pradyumna being endowed with lordship and virility,  
+> you create the Universe and make Dharma prevail;  
+> as Aniruddha being endowed with splendour and the power to overcome others,  
+> you protect the world and teach the Truth.  
+> In this way you divide yourself."
+</details>
+
+<details><summary>Español</summary>
+
+Their respective qualities and activities are epitomised in the following śloka  :-- 
+
+> "O, Sovereign of [^f160] Śrīraṅga!  
+> As the Supreme Vāsudeva (Para) endowed with all the six qualities,  
+> you are the object of blissful enjoyment for those that have attained mokṣa ;  
+> as Saṅkarṣaṇa being endowed with strength and knowledge,  
+> you destroy the Universe and also promulgate the śāstras;  
+> as Pradyumna being endowed with lordship and virility,  
+> you create the Universe and make Dharma prevail;  
+> as Aniruddha being endowed with splendour and the power to overcome others,  
+> you protect the world and teach the Truth.  
+> In this way you divide yourself."
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इप्परव्यूहङ्गळिल् गुणक्रियाविभागङ्गळ् “षाड्गुण्याद्वासुदेवः पर इति स भवान् मुक्तभोग्यो बलाढ्याद्बोधात्सङ्कर्षणस्त्वं हरसि वितनुषे
+
+शास्त्रमैश्वर्यवीर्यात् । प्रद्युम्नस्सर्गधर्मौ नयसि च भगवन् शक्तितेजोऽनिरुद्धो बिभ्राणः पासि तत्त्वं गमयसि च तथा व्यूह्य रङ्गाधिराज” (रङ्गराजस्तवम्-उत्तरशतकम् 39) ऎन्गिऱ श्लोकत्तिले संग्रहिक्कप्पट्टन.
+</details>
+
+
+
+
 
 [^f155]: Peria Tirumozhi: 3-8-1
 
@@ -5582,17 +5901,173 @@ The statement that some of these qualities are associated with the Supreme Perso
 
 [^f158]: Amalan Adi Peran: (Tiruppanalvar) 1
 
-[^f159]: Six Qualities or Gunas: 1. jñāna ( Knowledge) . 2. Aiswarya Lord ship; unimpeded activity; activity based on independence 3. Śakti (ability) potency to become the material cause of the world; also the power of bringing about what appears impossible of being brought about; 4. bala strength; absence of fatigue; sustaining power; 5. virya virility; changelessness in spite of being the material cause of the world; 6. tejas splendour, might, the power to overcome others.*
-
 [^f160]: Rangarajastavam: Uttara shatakam: 40
 
-[^36]: Six Qualities or Gunas: 1. Jñāna ( Knowledge) . 2. Aiśvarya Lord ship; unimpeded activity; activity based on independence 3. Śakti (ability) potency to become the material cause of the world; also the power of bringing about what appears impossible of being brought about; 4. bala strength; absence of fatigue; sustaining power; 5. Vīrya virility; changelessness in spite of being the material cause of the world; 6.tejas splendour, might, the power to overcome others.
 
-The differences arising from planes like the waking state have been thus summarised :-"O Lord, [^37] of [^f162] those that meditate on Thee, some are like those in the waking state, some like those that dream in sleep, others like those that sleep without dreams, and others still are like those that have fallen into a swoon. (In the first group, the senses function, in the second the senses do not function, only the wind is active; in the third group even the wind does not function; they only breathe; in the fourth group even the breath is suspended). In the same way, O Lord, Thou art in four forms and dividest Thyself into four forms and art meditated upon with attributes and weapons suited to each."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जाग्रदादिभेदङ्गळिलुळ्ळ विशेषङ्गळॆल्लाम् 
+
+> जाग्रत्-स्वप्नात्यलस+++(←सुषुप्ति)+++-तुरीय+++(←मूर्च्छायां मरणे वा)+++-  
+प्राय-ध्यातृ-+++(एकाग्रता-)+++क्रमवद् +++(चतुर्धा)+++ **उपास्यः** ।  
+स्वामिंस् तत्-तत्-+++(वर्णादि-)+++गुण-परिबर्हः  
+चातुर्-व्यूहं **वहसि** +++(वैकुण्ठे विशाख-यूपे यथा)+++ चतुर्-धा +++(→४*४=१६)+++ ॥ ४० ॥  
+> (रङ्गराजस्तवम् उत्तरशतकम् - 40.) 
+
+ऎण्ड्रु संगृहीतङ्गळ् आयिट्रु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+जाग्रदादिपदभेदगता विशेषाः सर्वेऽपि 
+
+> जाग्रत्-स्वप्नात्यलस+++(←सुषुप्ति)+++-तुरीय+++(←मूर्च्छायां मरणे वा)+++-  
+प्राय-ध्यातृ-+++(एकाग्रता-)+++क्रमवद् +++(चतुर्धा)+++ **उपास्यः** ।  
+स्वामिंस् तत्-तत्-+++(वर्णादि-)+++गुण-परिबर्हः  
+चातुर्-व्यूहं **वहसि** +++(वैकुण्ठे विशाख-यूपे यथा)+++ चतुर्-धा +++(→४*४=१६)+++ ॥ ४० ॥
+
+इति संगृहीता अभवन् । 
+</details>
+
+<details><summary>English</summary>
+
+The differences arising from planes like the waking state  
+have been thus summarised :-
+
+> "O Lord, [^37] of [^f162] those that meditate on Thee,  
+some are like those in the waking state,  
+some like those that dream in sleep,  
+others like those that sleep without dreams,  
+and others still are like those that have fallen into a swoon.  
+(In the first group, the senses function,  
+in the second the senses do not function,  
+only the mind is active;  
+in the third group even the mind does not function; they only breathe;  
+in the fourth group even the breath is suspended).  
+In the same way, O Lord, Thou art in four forms  
+and dividest Thyself into four forms  
+and art meditated upon with attributes and weapons suited to each."
+
+[^37]: This śloka cannot be understood without the account given in the Appendix.
 
 [^f162]: Rangarajastavam: Uttarashatakam: 39
 
+</details>
+
+<details><summary>Español</summary>
+
+The differences arising from planes like the waking state  
+have been thus summarised :-
+
+> "O Lord, [^es37] of those that meditate on Thee,  
+some are like those in the waking state,  
+some like those that dream in sleep,  
+others like those that sleep without dreams,  
+and others still are like those that have fallen into a swoon.  
+(In the first group, the senses function,  
+in the second the senses do not function,  
+only the mind is active;  
+in the third group even the mind does not function; they only breathe;  
+in the fourth group even the breath is suspended).  
+In the same way, O Lord, Thou art in four forms  
+and dividest Thyself into four forms  
+and art meditated upon with attributes and weapons suited to each."
+
 [^37]: This śloka cannot be understood without the account given in the Appendix.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जाग्रदादिभेदङ्गळिलुळ्ळ विशेषङ्गळॆल्लाम् “जाग्रत्स्वप्नात्यलसतुरीयप्रायध्यातृक्रमवदुपास्यः । स्वामिंस्तत्तद्गुणपरिबर्हश्चातुर्व्यूहं वहसि चतुर्धा” (रङ्गराजस्तवम् उत्तरशतकम् - 40.) ऎण्ड्रु संगृहीतङ्गळायिट्रु.
+</details>
+
+<details><summary>English - VIŚĀKHASTAMBHA</summary>
+
+APPENDIX ( Chapter V Page 65 )  
+
+THE VIŚĀKHASTAMBHA AS DESCRIBED IN THE SATVATA SAMHITĀ AND THE LAKṢMĪ  TANTRA.
+
+In the region of eternal glory (nitya vibhūti),  
+there is a huge column constituted of śuddhasattvam.  
+It is a special form in which Bhagavān appears there.  
+This column or pillar is called Viśākha yūpa.  
+The column consists of four parts called, respectively, jāgrat, (the waking state ), svapna (the dream ), suṣupti (dreamless sleep) and turīya (the fourth stage, counting from below upwards).  
+
+In the part called jāgratsthana,  
+which is somewhere above the base of the column,  
+there are four divine forms on the four sides called, respectively, Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha facing the east, the south the west and the north and shining like branches around that part of the column.  
+This collection of four forms is called Jāgratvyuha.  
+The activity of this vynha is the creation, maintenance and destruction of the world.  
+The four forms are bright in colours, white, red and the like.  
+They have also arms or weapons. 
+
+Above this part of the column is the part called svapnasthāna.  
+Here, too, there are four divine forms Vāsudeva, Saṅkarshna, Pradyumna and Aniruddha  
+shining like branches, as before, to the east, the south, the west and the north.  
+This collection of four vyuhas in the second part of the column from below is called svapnavyuha.  
+These four forms have no activities like creation and maintenance,  
+but have only the will to do so.  
+Their colours, too, are not so bright as those of the lower vyūha.  
+They have weapons  
+but no banners and other accessories. 
+
+Above the svapnasthana, which is the second part from below,  
+is the third part or sthāna called suṣuptisthāna.  
+Here too there are four divine forms with the same names as in the two other parts already described  
+and in the same order.  
+This collection of four forms is called suṣuptivyuha.  
+These forms have neither activities  
+nor even the will or the desire to act.  
+They have just the experience of their own bliss and nothing else. 
+
+In the form of Vāsudeva  
+which is like a branch of the column shooting on the eastern side,  
+there is no such thing as a body with limbs and the like  
+and it shines with all the six qualities.  
+The other three forms, Saṅkarṣaṇa and the like on the other three sides  
+have a body with hands, feet and the like.  
+But they have no weapons;  
+on the palms they bear lines resembling the conch, and the weapons.  
+These forms have no colours. 
+
+The uppermost or fourth part of the column (Turīya sthāna) has also similar four forms with the same names as in the former parts.  
+This collection of four is the Turīya vyūha.  
+They have no bodies with limbs and the like  
+but resemble the Vāsudeva form of the suṣupti vyūha.  
+They have no activities, no will, no weapons and no lines on the palm resembling arms.  
+All the six qualities shine in the form called Vāsudeva  
+and the other three have, each, only two of these qualities.  
+
+The names jāgrat, svapna, suṣupti and turīya are given to them on the analogy of these states in man in the ordinary world,  
+according to the greater or the lesser activity found in each.  
+The turīya state is like that in a swoon when even the breath is suspended,  
+whereas in the suṣupti state, the man just breathes in or breathes out;  
+in the svapna, his external senses cease to act, only the mind is active,  
+in the jāgrat state, both the mind and the external senses act.
+
+These four parts with four vyūhas in each  
+correspond to the four stages of development  
+that may be found in the worshipper who meditates on them.  
+
+On the lowest stage of meditation,  
+there is no full control of the external senses and the mind;  
+
+in the second stage of development,  
+control of the external senses has been attained  
+but not of the mind; 
+
+in the next stage,  
+the mind, too, has been controlled  
+and the man who meditates is seen just breathing in and breathing out  
+with no other activity or sign of life; 
+
+in the last or perfect development of meditation,  
+he is like one in a swoon, not even breathing in or out.
+</details>
+
+
+
 
 The twelve forms that begin with Keśava are other forms derived from the vyūhas. (Bhagavān also manifests Himself as vibhavas.) These vibhavas are thirty odd forms like Padmanabha. Among them Avatars like Matsya and Kurma are specified in relation to some specific purpose. In these vibhavas or avatārs, Iśvara conceals those attributes of His which He wants to conceal and reveals those attributes which He wants to reveal to suit the special mission which He has undertaken in them. Among them, there are varied manifestations which are countless. So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable", Other forms similarly derived from the vibhavas can also be seen in the śāstras. Sometimes the Lord enters into some jīvas with His own specific form and into others with His energy (śakti) and accomplishes wonderful things. These belong to another class of vibhavas. The forms of the Supreme Vāsudeva (Para), the Vyuhas and the Vibhavas assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples), for the sake of devotees as desired by them. This is arcāvatara: The Lord is (also) present in a subtle form in the hearts of all jīvas. This form is called Antaryāmi Avatāra, as meditation on this form has been prescribed as the means which enables those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading svarūpa of the Lord. It has been said of this meditation: "Those [^f165] who have attained success in Ashtaṅga yoga and who are desirous of worshipping the one who dwells in the heart are fit to meditate on the one (i.e.) the form in which He dwells in the hearts of all." Therefore this One (Hārda) is spoken as Antaryāmi.
 
