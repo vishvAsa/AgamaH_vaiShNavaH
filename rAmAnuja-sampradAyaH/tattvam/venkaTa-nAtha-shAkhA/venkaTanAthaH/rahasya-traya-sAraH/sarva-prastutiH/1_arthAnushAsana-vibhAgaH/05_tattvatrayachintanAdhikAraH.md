@@ -6093,7 +6093,7 @@ The twelve forms that begin with Keśava are other forms derived from the vyūha
 केशवादिगळान पन्निरण्डु रूपङ्गळुम् व्यूहान्तरङ्गळ्.
 </details>
 
-## विभवाः
+### विभवाः
 <details><summary>English</summary>
 
 (Bhagavān also manifests Himself as vibhavas.)
@@ -6276,6 +6276,13 @@ can also be seen in the śāstras.
 अतिशयित-कार्यङ्गळै नडत्तुगिऱदुव् उम् विभव-भेदम्.
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कांश्चिज् जीवान् विग्रह-विशेषेण शक्ति-विशेषेण चाधिष्ठाय  
+अतिशयित-कार्याणां निर्वहणमपि विभवभेदः । 
+</details>
+
+
 <details><summary>English</summary>
 
 Sometimes the Lord enters into some jīvas  
@@ -6299,7 +6306,57 @@ These belong to another class of vibhavas.
 </details>
 
 
-The forms of the Supreme Vāsudeva (Para), the Vyuhas and the Vibhavas assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples), for the sake of devotees as desired by them. This is arcāvatara: The Lord is (also) present in a subtle form in the hearts of all jīvas. This form is called Antaryāmi Avatāra, as meditation on this form has been prescribed as the means which enables those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading svarūpa of the Lord. It has been said of this meditation: "Those [^f165] who have attained success in Ashtaṅga yoga and who are desirous of worshipping the one who dwells in the heart are fit to meditate on the one (i.e.) the form in which He dwells in the hearts of all." Therefore this One (Hārda) is spoken as Antaryāmi.
+### अर्चावतारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पर-व्यूहादि-रूपङ्गळ्-तान् ए  
+आश्रितर्क्क् आग अवर्गळ् अपेक्षित्तप्-पडिय् ए  
+
+> “बिम्बाकृत्य्-आत्मना बिम्बे  
+> समागत्यावतिष्ठते”
+
+ऎन्गिऱप् पडिये निऱ्‌किऱ निलै **अर्चावतारम्**.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परव्यूहादि-रूपाणाम् एव  
+आश्रितार्थं तद्-अपेक्षित-प्रकारेण 25  
+
+> “बिम्बाकृत्य्-आत्मना बिम्बे  
+> समागत्यावतिष्ठते”
+
+इत्युक्तरीत्या ऽवस्थितिर् **अर्चावतारः** । 
+</details>
+
+<details><summary>English</summary>
+
+The forms of the Supreme Vāsudeva (Para), the Vyuhas and the Vibhavas  
+assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples),  
+for the sake of devotees as desired by them.  
+This is arcāvatara.
+</details>
+
+<details><summary>Español</summary>
+
+The forms of the Supreme Vāsudeva (Para), the Vyuhas and the Vibhavas  
+assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples),  
+for the sake of devotees as desired by them.  
+This is arcāvatara.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परव्यूहादिरूपङ्गळ्दाने आश्रितर्क्काग अवर्गळपेक्षित्तप्पडिये  
+“बिम्बाकृत्यात्मना बिम्बे समागत्यावतिष्ठते”
+ऎन्गिऱप्पडिये निऱ्‌किऱ निलै अर्चावतारम्.
+</details>
+
+
+
+
+The Lord is (also) present in a subtle form in the hearts of all jīvas. This form is called Antaryāmi Avatāra, as meditation on this form has been prescribed as the means which enables those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading svarūpa of the Lord. It has been said of this meditation: "Those [^f165] who have attained success in Ashtaṅga yoga and who are desirous of worshipping the one who dwells in the heart are fit to meditate on the one (i.e.) the form in which He dwells in the hearts of all." Therefore this One (Hārda) is spoken as Antaryāmi.
 
 [^f163]: Pāñcarātra
 
