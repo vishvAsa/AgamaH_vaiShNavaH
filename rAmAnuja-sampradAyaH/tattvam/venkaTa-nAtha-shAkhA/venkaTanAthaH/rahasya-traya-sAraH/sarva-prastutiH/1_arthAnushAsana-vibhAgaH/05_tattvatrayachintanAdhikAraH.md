@@ -6066,10 +6066,240 @@ in the last or perfect development of meditation,
 he is like one in a swoon, not even breathing in or out.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+केशवादिगळ् आन पन्न्-इरण्डु रूपङ्गळ् उम् व्यूहान्तरङ्गळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+केशवादीनि द्वादश रूपाण्यपि व्यूहान्तराणि ।
+</details>
 
 
+<details><summary>English</summary>
 
-The twelve forms that begin with Keśava are other forms derived from the vyūhas. (Bhagavān also manifests Himself as vibhavas.) These vibhavas are thirty odd forms like Padmanabha. Among them Avatars like Matsya and Kurma are specified in relation to some specific purpose. In these vibhavas or avatārs, Iśvara conceals those attributes of His which He wants to conceal and reveals those attributes which He wants to reveal to suit the special mission which He has undertaken in them. Among them, there are varied manifestations which are countless. So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable", Other forms similarly derived from the vibhavas can also be seen in the śāstras. Sometimes the Lord enters into some jīvas with His own specific form and into others with His energy (śakti) and accomplishes wonderful things. These belong to another class of vibhavas. The forms of the Supreme Vāsudeva (Para), the Vyuhas and the Vibhavas assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples), for the sake of devotees as desired by them. This is arcāvatara: The Lord is (also) present in a subtle form in the hearts of all jīvas. This form is called Antaryāmi Avatāra, as meditation on this form has been prescribed as the means which enables those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading svarūpa of the Lord. It has been said of this meditation: "Those [^f165] who have attained success in Ashtaṅga yoga and who are desirous of worshipping the one who dwells in the heart are fit to meditate on the one (i.e.) the form in which He dwells in the hearts of all." Therefore this One (Hārda) is spoken as Antaryāmi.
+The twelve forms that begin with Keśava are other forms derived from the vyūhas. 
+</details>
+
+<details><summary>Español</summary>
+
+The twelve forms that begin with Keśava are other forms derived from the vyūhas. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+केशवादिगळान पन्निरण्डु रूपङ्गळुम् व्यूहान्तरङ्गळ्.
+</details>
+
+## विभवाः
+<details><summary>English</summary>
+
+(Bhagavān also manifests Himself as vibhavas.)
+</details>
+
+<details><summary>Español</summary>
+
+(Bhagavān also manifests Himself as vibhavas.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विभवङ्गळ् आवन पद्मनाभादिगळ् आन मुप्-पत्तुच्-चिल्व् आन रूपङ्गळ्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विभवा नाम - पद्मनाभादीनि त्रिंशत्संख्यातः किंचिदधिक-संख्यायुक्तानि रूपाणि । 
+</details>
+
+<details><summary>English</summary>
+
+These vibhavas are thirty odd forms like Padmanabha. 
+</details>
+
+<details><summary>Español</summary>
+
+These vibhavas are thirty odd forms like Padmanabha. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विभवङ्गळावन पद्मनाभादिगळान मुप्पत्तुच्चिल्वान रूपङ्गळ्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् मत्स्य-कूर्मादिगळ् आन अवतारङ्गळ्  
+ऒरु प्रयोजन-वशत्ताल् ए  
+विशेषित्तुच् चॊल्लप्-पट्टन. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषु मत्स्य-कूर्मादयो ऽवताराः  
+प्रयोजन-विशेषेण केनापि विशिष्य परिगणिताः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Among them Avatars like Matsya and Kurma  
+are specified in relation to some specific purpose.
+</details>
+
+<details><summary>Español</summary>
+
+Among them Avatars like Matsya and Kurma  
+are specified in relation to some specific purpose.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् मत्स्यकूर्मादि कळान अवतारङ्गळॊरु प्रयोजनवशत्ताले विशेषित्तुच् चॊल्लप्पट्टन. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् विभवङ्गळिल् ईश्वरन्  
+अव्व्-ओ कार्य-विशेषङ्गळुक्क् ईडागत् तान्  
+वेण्डिन गुणङ्गळै वेण्डिन-पोदु मऱैत्तुम्  
+वेण्डिन-पोदु प्रकाशिप्पित्तुम् नडत्तुम्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषु विभवेषु ईश्वरस् तत्-तत्-कार्य-विशेषानुगुण्येन  
+अपेक्षितानां गुणानां  
+यथा-च्छन्दं प्रच्छादनं प्रकाशनं च करोति । 
+</details>
+
+
+<details><summary>English</summary>
+
+In these vibhavas or avatārs,  
+Iśvara conceals those attributes of His  
+which He wants to conceal  
+and reveals those attributes  
+which He wants to reveal  
+to suit the special mission which He has undertaken in them. 
+</details>
+
+<details><summary>Español</summary>
+
+In these vibhavas or avatārs,  
+Iśvara conceals those attributes of His  
+which He wants to conceal  
+and reveals those attributes  
+which He wants to reveal  
+to suit the special mission which He has undertaken in them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव् विभवङ्गळिल् ईश्वरनव्वो कार्यविशेषङ्गळुक्कीडागत्तान् वेण्डिन गुणङ्गळै वेण्डिन-पोदु मऱैत्तुम् वेण्डिन-पोदु प्रकाशिप्पित्तुम् नडत्तुम्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् अवान्तर-भेदङ्गळ्  
+“कृष्ण-रूपाण्य् अ-सङ्ख्यानि” (पाञ्चरात्रम्.)  
+इत्य्-आदिगळिऱ्‌-पडिय् ए अनन्तङ्गळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषु अवान्तरभेदाः 24 "कृष्णरूपाण्यसंख्यानि ” इत्याद्युक्तरीत्याऽनन्ताः । 
+</details>
+
+<details><summary>English</summary>
+
+Among them, there are varied manifestations which are countless.  
+So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable"
+</details>
+
+<details><summary>Español</summary>
+
+Among them, there are varied manifestations which are countless.  
+So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् अवान्तरभेदङ्गळ् “कृष्णरूपाण्यसङ्ख्यानि” (पाञ्चरात्रम्.) इत्यादिगळिऱ्‌पडिये अनन्तङ्गळ्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि +++(लक्ष्मणादय इव??)+++ विभवान्तरङ्गळ् उम् कण्डु-कॊळ्वदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थमेव विभवान्तराण्यपि द्रष्टव्यानि ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थम् एव विभवान्तराण्य् अपि द्रष्टव्यानि ।
+</details>
+
+
+<details><summary>English</summary>
+
+Other forms similarly derived from the vibhavas  
+can also be seen in the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+Other forms similarly derived from the vibhavas  
+can also be seen in the śāstras. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि विभवान्तरङ्गळुम् कण्डु कॊळ्वदु.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिल जीवर्गळै विग्रह-विशेषत्ताल् उम्, शक्ति-विशेषत्ताल् उम् अधिष्ठित्तु  
+अतिशयित-कार्यङ्गळै नडत्तुगिऱदुव् उम् विभव-भेदम्.
+</details>
+
+<details><summary>English</summary>
+
+Sometimes the Lord enters into some jīvas  
+with His own specific form  
+and into others with His energy (śakti) and accomplishes wonderful things.  
+These belong to another class of vibhavas. 
+</details>
+
+<details><summary>Español</summary>
+
+Sometimes the Lord enters into some jīvas  
+with His own specific form  
+and into others with His energy (śakti) and accomplishes wonderful things.  
+These belong to another class of vibhavas. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिल जीवर्गळै विग्रहविशेषत्तालुम् शक्तिविशेषत्तालुम् अधिष्ठित्तु अतिशयितकार्यङ्गळै नडत्तुगिऱदुवुम् विभवभेदम्.
+</details>
+
+
+The forms of the Supreme Vāsudeva (Para), the Vyuhas and the Vibhavas assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples), for the sake of devotees as desired by them. This is arcāvatara: The Lord is (also) present in a subtle form in the hearts of all jīvas. This form is called Antaryāmi Avatāra, as meditation on this form has been prescribed as the means which enables those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading svarūpa of the Lord. It has been said of this meditation: "Those [^f165] who have attained success in Ashtaṅga yoga and who are desirous of worshipping the one who dwells in the heart are fit to meditate on the one (i.e.) the form in which He dwells in the hearts of all." Therefore this One (Hārda) is spoken as Antaryāmi.
 
 [^f163]: Pāñcarātra
 
