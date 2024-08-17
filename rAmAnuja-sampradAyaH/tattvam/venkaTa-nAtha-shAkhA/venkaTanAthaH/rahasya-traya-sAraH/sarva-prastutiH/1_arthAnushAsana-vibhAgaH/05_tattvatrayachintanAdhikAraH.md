@@ -6857,8 +6857,51 @@ So also the worship of Archāvatāra (the image) will lead easily to mokṣa.
 > ताम् **अर्चयेत्** तां **प्रणमेत्**  
 तां **यजेत्** तां **विचिन्तयेत्** ।  
 **विशत्य्** अपास्त-दोषस्तु  
-ताम् एव ब्रह्म-रूपिणीम् ॥”(विष्णुधर्मम् 106-16.)
+ताम् एव ब्रह्म-रूपिणीम् ॥” 
+> (विष्णुधर्मम् 106-16.)
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “सुरूपां प्रतिमां विष्णोः  
+प्रसन्न-वदनेक्षणाम् ।  
+**कृत्वा** ऽऽत्मनः प्रीतिकरीं  
+सुवर्ण-रजतादिभिः ॥ 
+>
+> ताम् **अर्चयेत्** तां **प्रणमेत्**  
+तां **यजेत्** तां **विचिन्तयेत्** ।  
+**विशत्य्** अपास्त-दोषस्तु  
+ताम् एव ब्रह्म-रूपिणीम् ॥” 
+</details>
+
+<details><summary>English</summary>
+
+[^f167] " Having shaped a beautiful image of Viṣṇu  
+with a lovely face and lovely eyes,  
+out of gold, silver and the like  
+in a manner that would be pleasing,  
+one should adore it, bow to it,  
+sacrifice to it and meditate on it.  
+By doing so, one would enter into that form  
+which is none other than Brahman  
+and will have all one's sins dispelled." 
+
+</details>
+
+<details><summary>Español</summary>
+
+[^f167] " Having shaped a beautiful image of Viṣṇu  
+with a lovely face and lovely eyes,  
+out of gold, silver and the like  
+in a manner that would be pleasing,  
+one should adore it, bow to it,  
+sacrifice to it and meditate on it.  
+By doing so, one would enter into that form  
+which is none other than Brahman  
+and will have all one's sins dispelled." 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -6866,9 +6909,35 @@ So also the worship of Archāvatāra (the image) will lead easily to mokṣa.
 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु श्रीशौनकभगवानरुळिच्चॆय्दान्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति भगवान् श्रीशौनकोऽनुजग्राह ।
+</details>
+
+<details><summary>English</summary>
+
+Bhagavān Śaunaka has said (thus)
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān Śaunaka has said (thus)
+</details>
 
 
-Bhagavān Śaunaka has said :-[^f167] " Having shaped a beautiful image of Viṣṇu  with a lovely face and lovely eyes, out of gold, silver and the like in a manner that would be pleasing, one should adore it, bow to it, sacrifice to it and meditate on it. By doing so, one would enter into that form which is none other than Brahman and will have all one's sins dispelled." The Alwars, too, very largely dwelt on this secret doctrine about the Lord's avatārs and the distinctive excellence of the avatars in the form of arcā or consecrated images and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु श्रीशौनकभगवानरुळिच्चॆय्दान्.
+</details>
+
+
+
+The Alwars, too, very largely dwelt on this secret doctrine about the Lord's avatārs and the distinctive excellence of the avatars in the form of arcā or consecrated images and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
 
 [^f167]: Viṣṇudharma: 103-16
 
