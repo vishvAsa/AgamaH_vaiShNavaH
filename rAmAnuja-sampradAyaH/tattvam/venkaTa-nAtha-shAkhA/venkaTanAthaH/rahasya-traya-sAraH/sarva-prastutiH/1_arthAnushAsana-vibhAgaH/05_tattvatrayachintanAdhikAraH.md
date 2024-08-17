@@ -6775,13 +6775,100 @@ All these truths have. been explained by the Gitācharya in five śloka s beginn
 “बहूनि मे व्यतीतानि” (भगवद्गीतै 4-5.) ऎण्ड्रु तुडङ्गि ऐन्दु श्लोकत्ताले गीताचार्यनरुळिच्चॆय्दान्. 
 </details>
 
-
-
 [^f166]: Bhagavadgītā: IV 5
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु स्वतन्त्र-प्रपत्ति-निष्ठनुक्कु +++(न भक्ति-मार्गगाय +अङ्गभूत-प्रपत्ति-निष्ठाय)+++  
+शरण्य-गुण-विशेष-ज्ञान-मुखत्ताल् ए  
+उपायानुष्ठान-क्षणत्तिल् ए महा--विश्वासादिगळै स्थिरी-करित्तु उपकारकम् आम्.+++(5)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं स्व-तन्त्र--प्रपत्ति-निष्ठस्य +++(न भक्ति-मार्गगाय +अङ्गभूत-प्रपत्ति-निष्ठाय)+++  
+शरण्यगुण-विशेष-ज्ञान-मुखेनोपायानुष्ठान-क्षणे महा-विश्वासादीनि स्थिरी-कुर्वत्  
+उपकारकं भवति ।
+</details>
+
+<details><summary>English</summary>
+
+This meditation on the vibhavas (or avatārs)  
+creates supreme faith or confidence (mahāvisvāsa) in the mind of the seeker after salvation  
+who seeks prapatti as an independent means or upāya,  
+by affording him a knowledge of the great qualities of the Lord  
+who is sought as the refuge  
+and this at the moment when he adopts prapatti as the means. 
+</details>
+
+<details><summary>Español</summary>
+
+This meditation on the vibhavas (or avatārs)  
+creates supreme faith or confidence (mahāvisvāsa) in the mind of the seeker after salvation  
+who seeks prapatti as an independent means or upāya,  
+by affording him a knowledge of the great qualities of the Lord  
+who is sought as the refuge  
+and this at the moment when he adopts prapatti as the means. 
+</details>
 
 
-This meditation on the vibhavas (or avatārs) creates supreme faith or confidence (mahāvisvāsa) in the mind of the seeker after salvation who seeks prapatti as an independent means or upāya, by affording him a knowledge of the great qualities of the Lord who is sought as the refuge and this at the moment when he adopts prapatti as the means. So also the worship of Archāvatāra (the image) will lead easily to mokṣa. Bhagavān Śaunaka has said :-[^f167] " Having shaped a beautiful image of Viṣṇu  with a lovely face and lovely eyes, out of gold, silver and the like in a manner that would be pleasing, one should adore it, bow to it, sacrifice to it and meditate on it. By doing so, one would enter into that form which is none other than Brahman and will have all one's sins dispelled." The Alwars, too, very largely dwelt on this secret doctrine about the Lord's avatārs and the distinctive excellence of the avatars in the form of arcā or consecrated images and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
+<details><summary>मूलम्</summary>
+
+इदु स्वतन्त्रप्रपत्तिनिष्ठनुक्कु शरण्यगुणविशेषज्ञानमुखत्ताले उपायानुष्ठानक्षणत्तिले महाविश्वासादिगळै स्थिरीकरित्तु उपकारकमाम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडिय् ए अर्चावतारम् उम् मिऱुक्कऱ मोक्षत्तैत् तरुम् 
+
+ऎन्नुम् इडत्तै …
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवम् एवार्चवतारोऽपि  
+अनायासकरो मोक्षं ददातीत्ये् एतम् अर्थम् …
+</details>
+
+<details><summary>English</summary>
+
+So also the worship of Archāvatāra (the image) will lead easily to mokṣa. 
+</details>
+
+<details><summary>Español</summary>
+
+So also the worship of Archāvatāra (the image) will lead easily to mokṣa. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिये अर्चावतारमुम् मिऱुक्कऱ मोक्षत्तैत्तरुम् ऎन्नुमिडत्तै 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “सुरूपां प्रतिमां विष्णोः  
+प्रसन्न-वदनेक्षणाम् ।  
+**कृत्वा** ऽऽत्मनः प्रीतिकरीं  
+सुवर्ण-रजतादिभिः ॥ 
+>
+> ताम् **अर्चयेत्** तां **प्रणमेत्**  
+तां **यजेत्** तां **विचिन्तयेत्** ।  
+**विशत्य्** अपास्त-दोषस्तु  
+ताम् एव ब्रह्म-रूपिणीम् ॥”(विष्णुधर्मम् 106-16.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+“सुरूपां प्रतिमां विष्णोः प्रसन्नवदनेक्षणाम् । कृत्वात्मनः प्रीतिकरीं सुवर्णरजतादिभिः ॥ तामर्चयेत्तां प्रणमेत्तां यजेत्तां विचिन्तयेत् । विशत्यपास्तदोषस्तु तामेव ब्रह्मरूपिणीम् ॥”(विष्णुधर्मम् 106-16.) 
+
+</details>
+
+
+
+Bhagavān Śaunaka has said :-[^f167] " Having shaped a beautiful image of Viṣṇu  with a lovely face and lovely eyes, out of gold, silver and the like in a manner that would be pleasing, one should adore it, bow to it, sacrifice to it and meditate on it. By doing so, one would enter into that form which is none other than Brahman and will have all one's sins dispelled." The Alwars, too, very largely dwelt on this secret doctrine about the Lord's avatārs and the distinctive excellence of the avatars in the form of arcā or consecrated images and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
 
 [^f167]: Viṣṇudharma: 103-16
 
