@@ -6332,17 +6332,21 @@ These belong to another class of vibhavas.
 <details><summary>English</summary>
 
 The forms of the Supreme Vāsudeva (Para), the Vyuhas and the Vibhavas  
-assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples),  
+assume the [^f164] forms of the images and enter into the shapes of images (installed in temples),  
 for the sake of devotees as desired by them.  
 This is arcāvatara.
+
+[^f164]: Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.*
 </details>
 
 <details><summary>Español</summary>
 
 The forms of the Supreme Vāsudeva (Para), the Vyuhas and the Vibhavas  
-assume the [^f164] forms[^38] of the images and enter into the shapes of images (installed in temples),  
+assume the [^es164] forms of the images and enter into the shapes of images (installed in temples),  
 for the sake of devotees as desired by them.  
 This is arcāvatara.
+
+[^es164]: Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.*
 </details>
 
 
@@ -6354,23 +6358,428 @@ This is arcāvatara.
 </details>
 
 
+### अन्तर्यामी
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वर्-उडैयव् उम् हृदयङ्गळिल् ए  
+सूक्ष्मम् आय् इरुप्पद् ऒरु रूप-विशेषत्तैक्  
+कॊण्डु निऱ्‌किऱ निलै **अन्तर्याम्य्**-अवतारम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सर्वेषां हृदयेषु सूक्ष्म-भूत-रूप-विशेष-विशिष्टतया ऽवस्थानम् **अन्तर्याम्य्**-अवतारः । 
+</details>
+
+<details><summary>English</summary>
+
+The Lord is (also) present in a subtle form in the hearts of all jīvas.  
+This form is called Antaryāmi Avatāra, 
+</details>
+
+<details><summary>Español</summary>
+
+The Lord is (also) present in a subtle form in the hearts of all jīvas.  
+This form is called Antaryāmi Avatāra, 
+</details>
 
 
-The Lord is (also) present in a subtle form in the hearts of all jīvas. This form is called Antaryāmi Avatāra, as meditation on this form has been prescribed as the means which enables those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading svarūpa of the Lord. It has been said of this meditation: "Those [^f165] who have attained success in Ashtaṅga yoga and who are desirous of worshipping the one who dwells in the heart are fit to meditate on the one (i.e.) the form in which He dwells in the hearts of all." Therefore this One (Hārda) is spoken as Antaryāmi.
+<details><summary>मूलम्</summary>
+
+सर्वरुडैयवुम् हृदयङ्गळिले सूक्ष्ममायिरुप्पदॊरु रूपविशेषत्तैक्कॊण्डु निऱ्‌किऱ निलै अन्तर्याम्यवतारम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु सर्वान्तर्यामिय् आन दिव्यात्म--स्व-रूपत्तै अनुसन्धिक्क इऴिवार्क्कुत्  
+तुऱैय्+++(=द्वारन्)+++ आग … 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं सर्वान्तर्यामि-दिव्यात्म--स्व-रूपम् अनुसन्धित्सूनां द्वारम् इति … 
+</details>
+
+<details><summary>English</summary>
+
+as meditation on this form has been prescribed  
+as the means which enables  
+those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading svarūpa of the Lord.  
+It has been said of this meditation: 
+</details>
+
+<details><summary>Español</summary>
+
+as meditation on this form has been prescribed  
+as the means which enables  
+those who wish to enter into the meditation of the Antaryāmin or the divine all-pervading svarūpa of the Lord.  
+It has been said of this meditation: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु सर्वान्तर्यामियान दिव्यात्मस्वरूपत्तै अनुसन्धिक्क इऴिवार्क्कुत् तुऱैयाग  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अष्टाङ्ग-योग-सिद्धानां  
+हृद्-याग-निरतात्मनाम् ।  
+योगिनाम् **अधिकारस् स्याद्**  
+एकस्मिन् हृदये-शये”  
+(श्री सात्त्वतसंहितै 2-7-8.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “अष्टाङ्ग-योग-सिद्धानां  
+हृद्-याग-निरतात्मनाम् ।  
+योगिनाम् **अधिकारस् स्याद्**  
+एकस्मिन् हृदये-शये”  
+(श्री सात्त्वतसंहितै 2-7-8.)
+</details>
+
+<details><summary>English</summary>
+
+"Those [^f165] who have attained success in Ashtaṅga yoga  
+and who are desirous of worshipping the one  
+who dwells in the heart  
+are fit to meditate on the one (i.e.)  
+the form in which He dwells in the hearts of all." 
+</details>
+
+<details><summary>Español</summary>
+
+"Those [^f165] who have attained success in Ashtaṅga yoga  
+and who are desirous of worshipping the one  
+who dwells in the heart  
+are fit to meditate on the one (i.e.)  
+the form in which He dwells in the hearts of all." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अष्टाङ्गयोगसिद्धानां हृद्यागनिरतात्मनाम् । योगिनामधिकारस्स्यादेकस्मिन् हृदयेशये” (श्री सात्वतसंहितै 2-7-8.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिल् ए सॊल्लुगैयाल् ए  
+अन्तर्यामिरूपम् ऎण्ड्रु सॊल्लप्पट्टदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्यादिषु प्रतिपादितम् इति अन्तर्यामिरूपम् इत्य् उक्तम् । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore this One (Hārda) is spoken as Antaryāmi.
+</details>
+
+<details><summary>Español</summary>
+
+Therefore this One (Hārda) is spoken as Antaryāmi.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले सॊल्लुगैयाले अन्तर्यामिरूपम् ऎण्ड्रु सॊल्लप्पट्टदु. 
+</details>
+
+
+
+
 
 [^f163]: Pāñcarātra
 
-[^f164]: Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.*
+
 
 [^f165]: Sātvatasamhita: 2-7-8
 
-[^38]: Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.
+### अवतार-रहस्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-All these forms of incarnation are constituted of the substance called s'uddhasattvam and have no connection with karma or its fruits. They are therefore called pure creation (s'uddha śrīshti). These avatārs (vibhava, arcā and Hārda ) are all real; in them there is no contraction or abridgement of jñāna and the other attributes of Iśvara; the bodies of these avatārs are made of Śuddha-sattvam; the reason for these avatars is only the Lord's will; their time of manifestation is the time when dharma has to be safe-guarded; their purpose is the protection of the good and the like; those who meditate on these avatars with clear knowledge may attain mokṣa  at the end of this very life without any future birth, by their successful adoption of the right means suited to their competency and capacity. All these truths have. been explained by the Gitācharya in five śloka s beginning with:-
+इप्-पडि अवतरिक्किऱ रूपङ्गळिल् वगैगळ् ऎल्लाम्  
+शुद्ध-सत्त्व-द्रव्यमयङ्गळ् आय्  
+कर्म-तत्-फलङ्गळोडु तुवक्क्+++(=??)+++-अऱ वरुगैयाल् ए  
+**शुद्ध-सृष्टिय्** ऎण्ड्रु पेर्-बॆट्र् इरुक्कुम्. 
+</details>
 
-"Bahuni me [^f166] vyatītāni etc." Many are the births that I have gone through, just like you.”
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[५२]]  
+इत्थमवतरद्रूपविधाः सर्वा अपि  
+शुद्ध-सत्त्व-द्रव्यमय्यः  
+कर्म--तत्-फल-संबन्ध-शून्याः प्रवर्तन्ते इत्यतः  
+शुद्ध-सृष्टित्वेन व्यपदिश्यन्ते । 
+</details>
+
+<details><summary>English</summary>
+
+All these forms of incarnation are constituted of the substance called s'uddhasattvam  
+and have no connection with karma or its fruits.  
+They are therefore called pure creation (s'uddha śrīshti). 
+</details>
+
+<details><summary>Español</summary>
+
+All these forms of incarnation are constituted of the substance called s'uddhasattvam  
+and have no connection with karma or its fruits.  
+They are therefore called pure creation (s'uddha śrīshti). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि अवतरिक्किऱ रूपङ्गळिल् वगैगळॆल्लाम् शुद्धसत्त्वद्रव्यमयङ्गळाय् कर्मतत्फलङ्गळोडु तुवक्कऱ वरुगैयाले शुद्ध-सृष्टियॆण्ड्रु पेर्बॆट्रिरुक्कुम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव् अवतारङ्गळ् ऎल्लाम् सत्यङ्गळ् ऎण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमेऽवताराः सर्वेऽपि सत्या इति 
+</details>
+
+<details><summary>English</summary>
+
+These avatārs (vibhava, arcā and Hārda ) are all real; 
+</details>
+
+<details><summary>Español</summary>
+
+These avatārs (vibhava, arcā and Hārda ) are all real; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव् अवतारङ्गळॆल्लाम् सत्यङ्गळॆण्ड्रुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् ईश्वरनुक्कु ज्ञानादि-सङ्कोचम् इल्लैय् ऎण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एष्व् ईश्वरस्य ज्ञानादि-संकोचो नास्तीति 
+</details>
+
+<details><summary>English</summary>
+
+in them there is no contraction or abridgement of jñāna and the other attributes of Iśvara; 
+</details>
+
+<details><summary>Español</summary>
+
+in them there is no contraction or abridgement of jñāna and the other attributes of Iśvara; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिल् ईश्वरनुक्कु ज्ञानादिसङ्कोचमिल्लैयॆण्ड्रुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्विग्रहङ्गळ् शुद्धसत्त्वमयङ्गळॆण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमे विग्रहाः शुद्ध-सत्त्वमया इति 
+</details>
+
+<details><summary>English</summary>
+
+the bodies of these avatārs are made of Śuddha-sattvam; 
+</details>
+
+<details><summary>Español</summary>
+
+the bodies of these avatārs are made of Śuddha-sattvam; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विग्रहङ्गळ् शुद्धसत्त्वमयङ्गळॆण्ड्रुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिऱ्‌कु ईश्वरेच्छामात्रमे कारणम् ऎण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषाम् ईश्वरेच्छैव कारणमिति, 
+</details>
+
+<details><summary>English</summary>
+
+the reason for these avatars is only the Lord's will; 
+</details>
+
+<details><summary>Español</summary>
+
+the reason for these avatars is only the Lord's will; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रिऱ्‌कु ईश्वरेच्छामात्रमे कारणम् ऎण्ड्रुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+धर्मरक्षणम् पण्णवेण्डुम् कालम् ए कालम् ऎण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+धर्मरक्षणार्थकाल एव काल इति, 
+</details>
+
+<details><summary>English</summary>
+
+their time of manifestation is the time when dharma has to be safe-guarded; 
+</details>
+
+<details><summary>Español</summary>
+
+their time of manifestation is the time when dharma has to be safe-guarded; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+धर्मरक्षणम् पण्णवेण्डुम् कालमे कालम् ऎण्ड्रुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+साधुपरित्राणादिगळ् ए प्रयोजनङ्गळ् ऎण्ड्रुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+साधुपरित्राणादीन्येव प्रयोजनानीति 
+</details>
+
+<details><summary>English</summary>
+
+their purpose is the protection of the good and the like; 
+</details>
+
+<details><summary>Español</summary>
+
+their purpose is the protection of the good and the like; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+साधुपरित्राणादिगळे प्रयोजनङ्गळॆण्ड्रुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थन् तॆळिन्दु अनुसन्धिप्पार्क्कु  
+एक-जन्मत्तिल् ए स्वाधिकारानुगुण-समीहितोपाय-पूर्तियाल् ए  
+जन्मान्तरम् अनुभवियाद् ए  
+मुक्तर् आगलाम् ऎण्ड्रुम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमान् अर्थान् विशदं विज्ञायानुसन्दधानानाम्  
+एकजन्मन्य् एव  
+स्वाधिकारानुगुण-समीहितोपाय-पूर्त्या  
+जन्मान्तरानुभवम् अन्तरैव मुक्तीभाव इति च, 
+</details>
+
+<details><summary>English</summary>
+
+those who meditate on these avatars with clear knowledge  
+may attain mokṣa  at the end of this very life  
+without any future birth,  
+by their successful adoption of the right means  
+suited to their competency and capacity. 
+</details>
+
+<details><summary>Español</summary>
+
+those who meditate on these avatars with clear knowledge  
+may attain mokṣa  at the end of this very life  
+without any future birth,  
+by their successful adoption of the right means  
+suited to their competency and capacity. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थन्दॆळिन्दु अनुसन्धिप्पार्क्कु एकजन्मत्तिले स्वाधिकारानुगुणसमीहितोपायपूर्तियाले जन्मान्तरमनुभवियादे मुक्तरागलाम् ऎण्ड्रुम्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“बहूनि मे व्यतीतानि” (भगवद्गीतै 4-5.)  
+ऎण्ड्रु तुडङ्गि  
+ऐन्दु श्लोकत्ताल् ए गीताचार्यन् अरुळिच्चॆय्दान्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“27 बहूनि मे व्यतीतानि” इत्यारभ्य पञ्चभिः श्लोकैर् गीतचार्यो ऽनुजग्राह । 
+</details>
+
+<details><summary>English</summary>
+
+All these truths have. been explained by the Gitācharya in five śloka s beginning with:-
+
+> "Bahuni me [^f166] vyatītāni etc."  
+> "Many are the births that I have gone through, just like you.”
+
+</details>
+
+<details><summary>Español</summary>
+
+All these truths have. been explained by the Gitācharya in five śloka s beginning with:-
+
+> "Bahuni me [^f166] vyatītāni etc."  
+> "Many are the births that I have gone through, just like you.”
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“बहूनि मे व्यतीतानि” (भगवद्गीतै 4-5.) ऎण्ड्रु तुडङ्गि ऐन्दु श्लोकत्ताले गीताचार्यनरुळिच्चॆय्दान्. 
+</details>
+
+
 
 [^f166]: Bhagavadgītā: IV 5
+
+
 
 This meditation on the vibhavas (or avatārs) creates supreme faith or confidence (mahāvisvāsa) in the mind of the seeker after salvation who seeks prapatti as an independent means or upāya, by affording him a knowledge of the great qualities of the Lord who is sought as the refuge and this at the moment when he adopts prapatti as the means. So also the worship of Archāvatāra (the image) will lead easily to mokṣa. Bhagavān Śaunaka has said :-[^f167] " Having shaped a beautiful image of Viṣṇu  with a lovely face and lovely eyes, out of gold, silver and the like in a manner that would be pleasing, one should adore it, bow to it, sacrifice to it and meditate on it. By doing so, one would enter into that form which is none other than Brahman and will have all one's sins dispelled." The Alwars, too, very largely dwelt on this secret doctrine about the Lord's avatārs and the distinctive excellence of the avatars in the form of arcā or consecrated images and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
 
