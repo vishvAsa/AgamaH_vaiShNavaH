@@ -6935,25 +6935,453 @@ Bhagavān Śaunaka has said (thus)
 ऎण्ड्रु श्रीशौनकभगवानरुळिच्चॆय्दान्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऴ्वार्गळ् उम्  
+इव्व्-अवतार-रहस्यत्तैय् उम्  
+अर्चावतार-वैलक्षण्यत्तैय् उम्  
+प्रचुरम् आग अनुसन्धित्तु  
+इदऱ्‌कुप् पेर्-अणिय्+++(=बृहद्-बलम्)+++ आग  
+परत्वत्तैक् कण्डु पोन्दार्गळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+दिव्य-सूरयोऽपीदम् अवतार-रहस्यम् अर्चावतार-वैलक्षण्यं प्राचुर्येणानुसन्धाय  
+एतन्-मूल-बलत्वेन  
+परं परत्वं पश्यन्तः स्थिताः । 
+</details>
+
+<details><summary>English</summary>
+
+The Alwars, too, very largely dwelt on this secret doctrine  
+about the Lord's avatārs  
+and the distinctive excellence of the avatars  
+in the form of arcā or consecrated images  
+and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
+</details>
+
+<details><summary>Español</summary>
+
+The Alwars, too, very largely dwelt on this secret doctrine  
+about the Lord's avatārs  
+and the distinctive excellence of the avatars  
+in the form of arcā or consecrated images  
+and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
+</details>
 
 
-The Alwars, too, very largely dwelt on this secret doctrine about the Lord's avatārs and the distinctive excellence of the avatars in the form of arcā or consecrated images and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
+<details><summary>मूलम्</summary>
+
+आऴ्वार्गळुमिव्ववदार रहस्यत्तैयुम् अर्चावतारवैलक्षण्यत्तैयुम् प्रचुरमाग अनुसन्धित्तु इदऱ्‌कुप्पेरणियाग परत्वत्तैक् कण्डु पोन्दार्गळ्.
+</details>
+
+
+
 
 [^f167]: Viṣṇudharma: 103-16
 
-Iśvara, who is in these varied forms, creates, maintains and destroys all, is also the giver of mokṣa  and has such other activities. These activities of His are due to the overflow of His bliss or ānanda.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Lakṣmī
+इप्-पडिय् इरुक्किऱ ईश्वरन्  
+तन् _आनन्दत्तुक्कुप् परीवाहम्_ आगप् पण्णुम् व्यापारङ्गळ्  
+स-कल--जगत्-सृष्टि-स्थिति-संहार--मोक्ष-प्रदत्वादिगळ्.+++(5)+++
+</details>
 
-Iśvara is with His consort in all situations as stated in passages like : "Lakṣmī , the [^f168] mother of the world, is eternal and inseparable from Viṣṇu ." This may also be clearly understood from the writings of Parāśara and Parankusa (Nammāḻvār), who, for the help which they have rendered, have been spoken of by Aḷavandār with great regard in these terms: "I bow to the generous sage, Parāśara, who composed that gem of a purāṇa (Viṣṇupurāna), wherein he discloses, as they are in reality, the truths concerning cit, acit apd Iśvara, their distinctive nature, swarga, mokṣa  and the means of attaining them" and "I bow my head at the two feet of Nammāḻvār fragrant with vakula flowers, for they are, to all those who are connected with me, mother, father, wives, 8008 and all forms of wealth and lordship."
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवम्-भूतेनेश्वरेण  
+स्वानन्द-परीवाहतया +++(न तु श्रमेण)+++ क्रियमाणा व्यापाराः  
+स-कल-जगत्-सृष्टि-स्थिति-संहार-मोक्ष-प्रदत्वादयः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+Iśvara, who is in these varied forms,  
+creates, maintains and destroys all,  
+is also the giver of mokṣa  and has such other activities.  
+These activities of His are due to the overflow of His bliss or ānanda.
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara, who is in these varied forms,  
+creates, maintains and destroys all,  
+is also the giver of mokṣa  and has such other activities.  
+These activities of His are due to the overflow of His bliss or ānanda.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियिरुक्किऱ ईश्वरन् तन् आनन्दत्तुक्कुप् परीवाहमागप् पण्णुम् व्यापारङ्गळ् सकलजगत्सृष्टिस्थितिसंहार मोक्षप्रदत्वादिगळ्.
+</details>
+
+### लक्ष्मीः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् ईश्वरन् 
+
+> “नित्यैवैषा जगन्-माता  
+विष्णोः श्रीर् अनपायिनी”  
+(विष्णुपुराणम् 1-8-17.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयम् ईश्वरः, 
+
+> “नित्यैवैषा जगन्-माता  
+विष्णोः श्रीर् अनपायिनी”  
+(विष्णुपुराणम् 1-8-17.)
+</details>
+
+
+<details><summary>English</summary>
+
+"Lakṣmī , the [^f168] mother of the world,  
+is eternal and inseparable from Viṣṇu ." 
+</details>
+
+<details><summary>Español</summary>
+
+"Lakṣmī , the [^f168] mother of the world, is eternal and inseparable from Viṣṇu ." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वीश्वरन् “नित्यैवैषा जगन्माता विष्णोः श्रीरनपायिनी”(विष्णुपुराणम् 1-8-17.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ्‌-पडिय् ए  
+सर्वावस्थैयिल् उम् सपत्नीकन् आय्क् कॊण्ड् एय् इरुक्कुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[५३]]
+
+इत्याद्य्-उक्त-रीत्या  
+सर्वावस्थासु सपत्नीक एव वर्तत  
+इत्य् अयम् अर्थः,  
+</details>
+
+<details><summary>English</summary>
+
+Iśvara is with His consort in all situations as stated in passages like (the above). 
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara is with His consort in all situations as stated in passages like (the above). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्‌पडिये सर्वावस्थैयिलुम् सपत्नीकनाय्क् कॊण्डेय् इरुक्कुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्नुम् इडत्तै 
+
+“तत्त्वेन यः” (आळ-स्तो. 4.) 
+
+(तत्त्वेन यश् चिद्-अचिद्-ईश्वर--तत्-स्वभाव-  
+भोगापवर्ग--तद्-उपाय-गतीर् उदारः ।  
+सन्दर्शयन् **निरममीत** पुराणरत्नं  
+तस्मै नमो मुनिवराय **पराशराय** ॥ ४॥)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“30 तत्त्वेन यः "  
+
+(तत्त्वेन यश् चिद्-अचिद्-ईश्वर--तत्-स्वभाव-  
+भोगापवर्ग--तद्-उपाय-गतीर् उदारः ।  
+सन्दर्शयन् **निरममीत** पुराणरत्नं  
+तस्मै नमो मुनिवराय **पराशराय** ॥ ४॥)
+</details>
+
+<details><summary>English</summary>
+
+"I bow to the generous sage, Parāśara,  
+who composed that gem of a purāṇa (Viṣṇupurāna),  
+wherein he discloses, as they are in reality,  
+the truths concerning cit, acit apd Iśvara,  
+their distinctive nature, swarga, mokṣa  
+and the means of attaining them"
+</details>
+
+<details><summary>Español</summary>
+
+"I bow to the generous sage, Parāśara,  
+who composed that gem of a purāṇa (Viṣṇupurāna),  
+wherein he discloses, as they are in reality,  
+the truths concerning cit, acit apd Iśvara,  
+their distinctive nature, swarga, mokṣa  
+and the means of attaining them"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्नुमिडत्तै “तत्त्वेन यः” (आळ-स्तो. 4.) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“माता पिता” (आळ-स्तो. 5.)  
+
+(माता पिता युवतयस् तनया विभूतिस्  
+सर्वं यद् एव नियमेन मद्-अन्वयानाम् ।  
+आद्यस्य नः कुल-पतेर् वकुलाभिरामं  
+श्रीमत्-तद्-अङ्घ्रि-युगलं +++(शठकोपरूपं)+++ **प्रणमामि** मूर्ध्ना ॥) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“माता पिता” (आळ-स्तो. 5.)  
+
+(माता पिता युवतयस् तनया विभूतिस्  
+सर्वं यद् एव नियमेन मद्-अन्वयानाम् ।  
+आद्यस्य नः कुल-पतेर् वकुलाभिरामं  
+श्रीमत्-तद्-अङ्घ्रि-युगलं +++(शठकोपरूपं)+++ **प्रणमामि** मूर्ध्ना ॥)
+</details>
+
+<details><summary>English</summary>
+
+and  
+
+"I bow my head at the two feet of Nammāḻvār  
+fragrant with vakula flowers,  
+for they are, to all those who are connected with me, mother, father, wives, sons and all forms of wealth and lordship."
+</details>
+
+<details><summary>Español</summary>
+
+and  
+
+"I bow my head at the two feet of Nammāḻvār  
+fragrant with vakula flowers,  
+for they are, to all those who are connected with me, mother, father, wives, 8008 and all forms of wealth and lordship."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“माता पिता” (आळ-स्तो. 5.)  
+
+(माता पिता युवतयस् तनया विभूतिस्  
+सर्वं यद् एव नियमेन मद्-अन्वयानाम् ।  
+आद्यस्य नः कुल-पतेर् वकुलाभिरामं  
+श्रीमत्-तदङ्घ्रि-युगलं +++(शठकोपरूपं)+++ **प्रणमामि** मूर्ध्ना ॥) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱ श्लोकङ्गळिल् ए  
++++(यामुनेन)+++ उपकार-विशेषत्ताल् ए सादरम् आग विशेषित्तुच् चॊल्लप्-पट्ट  
+पराशर-पराङ्कुश-प्रबन्धङ्गळिल् ए तॆळिन्दु-गॊळ्वदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति श्लोकयोर् +++(यामुनेन)+++  
+उपकार-विशेषात् (अतिशयात् ) सादरं विशिष्य संकीर्तितयोः पराशर-पराङ्कुशयोः प्रबन्धेषु  
+विशदं ज्ञातव्यः । 
+</details>
+
+<details><summary>English</summary>
+
+This may also be clearly understood from the writings of Parāśara and Parankusa (Nammāḻvār),  
+who, for the help which they have rendered,  
+have been spoken of by Aḷavandār with great regard in these terms.
+</details>
+
+<details><summary>Español</summary>
+
+This may also be clearly understood from the writings of Parāśara and Parankusa (Nammāḻvār),  
+who, for the help which they have rendered,  
+have been spoken of by Aḷavandār with great regard in these terms.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱ श्लोकङ्गळिले उपकारविशेषत्ताले सादरमाग विशेषित्तुच् चॊल्लप्पट्ट पराशरपराङ्कुशप्रबन्धङ्गळिले तॆळिन्दुगॊळ्वदु.
+</details>
 
 [^f168]: Viṣṇupurāṇa: 1-22-53
 
-In this context, we have to understand a difference in their activities or division of labour, as it were ; for the Lord is concerned with the punishment (of the evildoer) and Lakṣmī  with pleading to Him for mercy on behalf of the sinner; the Mimāmsakas have declared that the object which is stated by analogy to have attributes similar to those of another object actually described must be different by that very circumstance[^39] from that other object. So in this case, as it has been stated by analogy or atides'a "Just[^f170] as Viṣṇu  is everywhere, so also is Lakṣmī , O, best of Brahmins", there should be a difference between Bhagavān and Lakṣmī . This difference should be understood as referring (here) only to the difference in their functions or activities. This is the conclusion arrived at in the following śloka  in Śrīgunaratnakosa; "Youth and other attributes are common to both of you; however the Lord has manly qualities, like independence, conquest of foes, firmness and the like; you have such feminine qualities as existing solely for the husband, compassion and forgiveness. Thus you two have taken diverse qualities." "It is impossible to understand the real nature of God", says Nammalvar in (1-3-6). So in a matter like this, vain assertion or insistence is not proper,
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल् दण्ड-धरत्वम् उम्, पुरुष-कारत्वादिगळ् उम्  
+ऎम्-बॆरुमानुक्क् उम्, पिराट्टिक्कुङ् कूऱ् आग विभजित्त व्यापारङ्गळ्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र दण्डधरत्वं पुरुषकारत्वादयश् च  
+सर्वेश्वरस्य लक्ष्म्याश् च भागतया विभक्ताः व्यापाराः । 
+</details>
+
+<details><summary>English</summary>
+
+In this context,  
+we have to understand a difference in their activities or division of labour, as it were ;  
+for the Lord is concerned with the punishment (of the evildoer)  
+and Lakṣmī with pleading to Him for mercy on behalf of the sinner; 
+</details>
+
+<details><summary>Español</summary>
+
+In this context,  
+we have to understand a difference in their activities or division of labour, as it were ;  
+for the Lord is concerned with the punishment (of the evildoer)  
+and Lakṣmī with pleading to Him for mercy on behalf of the sinner; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् दण्ड-धरत्वमुम् पुरुषकारत्वादिगळुम् ऎम्बॆरुमानुक्कुम् पिराट्टिक्कुङ्गूऱाग विभजित्तव्यापारङ्गळ्.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++("नित्यं तद्धर्मधर्मिणी" इत्य्-आदिष्व् अतिदेशेषु)+++
+
+> उपदिश्यमान-धर्माधारत्तिऱ् ‌काट्टिल्  
+अतिदिश्यमान धर्माधारत्तुक्कु विशेषम् स्वतःप्राप्तम् 
+
+ऎण्ड्रु  
+उवर् +++(मीमांसका)+++ अरुळिच्-चॆय्ददुक्क् उम्  
+इप्-पडि विभागत्ताल् वन्द वैषम्यत्तिल् ए तात्पर्यम्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++++("नित्यं तद्धर्मधर्मिणी" इत्य्-आदिष्व् अतिदेशेषु)+++
+
+> "उपदिश्यमान-धर्माधाराद्  
+अतिदिश्यमान-धर्माधारस्य विशेषः स्वतः प्राप्तः" 
+
+इति मध्यस्थोक्तेर् अपि  
+एवं-भूत-विभाग-निबन्धन-वैषम्ये तात्पर्यम् । 
+</details>
+
+<details><summary>English</summary>
+
+the Mimāmsakas have declared  
+that the object which is stated by analogy to have attributes  
+similar to those of another object actually described  
+must be different by that very circumstance[^39] from that other object.  
+So in this case, as it has been stated by analogy or atideśa
+"Just[^f170] as Viṣṇu  is everywhere,  
+so also is Lakṣmī , O, best of Brahmins",  
+there should be a difference between Bhagavān and Lakṣmī .  
+This difference should be understood as referring (here)  
+only to the difference in their functions or activities.  
+
+
+[^39]: Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.
+</details>
+
+<details><summary>Español</summary>
+
+the Mimāmsakas have declared  
+that the object which is stated by analogy to have attributes  
+similar to those of another object actually described  
+must be different by that very circumstance[^es39] from that other object.  
+So in this case, as it has been stated by analogy or atideśa
+"Just[^f170] as Viṣṇu  is everywhere,  
+so also is Lakṣmī , O, best of Brahmins",  
+there should be a difference between Bhagavān and Lakṣmī .  
+This difference should be understood as referring (here)  
+only to the difference in their functions or activities.
+
+
+[^es39]: Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपदिश्यमानधर्माधारत्तिऱ्‌काट्टिल् अतिदिश्यमानधर्माधारत्तुक्कु विशेषम् स्वतःप्राप्तम् ऎण्ड्रु उवर् अरुळिच्चॆय्ददुक्कुमिप्पडि विभागत्ताल् वन्द वैषम्यत्तिले तात्पर्यम्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु “युवत्वादौ तुल्येऽपि”(श्रीगुणरत्नकोशम् 34-वदु श्लोकम्) 
+
+(युवत्वादौ तुल्येऽप्य् अ--पर-वशता--शत्रु-शमन-  
+स्थिरत्वादीन् **कृत्वा भगवति** गुणान् पुंस्त्व-सु-लभान् ।  
+त्वयि स्त्रीत्वैकान्तान् म्रदिम--पति-पारार्थ्य--करुणा-  
+क्षमादीन् वा **भोक्तुम् भवति** युवयोर् आत्मनि भिदा ॥)
+
+ऎन्गिऱ श्लोकत्तिल् ए निर्णीतम्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं “ 32 युवत्वादौ तुल्येऽपि " इति लोके निर्णीतम् ।
+
+> युवत्वादौ तुल्येऽप्य् अ--पर-वशता--शत्रु-शमन-  
+स्थिरत्वादीन् **कृत्वा भगवति** गुणान् पुंस्त्व-सु-लभान् ।  
+त्वयि स्त्रीत्वैकान्तान् म्रदिम--पति-पारार्थ्य--करुणा-  
+क्षमादीन् वा **भोक्तुम् भवति** युवयोर् आत्मनि भिदा ॥
+</details>
+
+<details><summary>English</summary>
+
+This is the conclusion arrived at in the following śloka  in Śrīgunaratnakosa;  
+
+> "Youth and other attributes are common to both of you;  
+however the Lord has manly qualities, like independence, conquest of foes, firmness and the like;  
+you have such feminine qualities as existing solely for the husband, compassion and forgiveness.  
+Thus you two have taken diverse qualities." 
+
+</details>
+
+<details><summary>Español</summary>
+
+This is the conclusion arrived at in the following śloka  in Śrīgunaratnakosa;  
+
+> "Youth and other attributes are common to both of you;  
+however the Lord has manly qualities, like independence, conquest of foes, firmness and the like;  
+you have such feminine qualities as existing solely for the husband, compassion and forgiveness.  
+Thus you two have taken diverse qualities." 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु “युवत्वादौ तुल्येऽपि”(श्रीगुणरत्नकोशम् 34-वदु श्लोकम्) ऎन्गिऱ श्लोकत्तिले निर्णीतम्.  
+</details>
+
+
+
+
+
+> "It is impossible to understand the real nature of God", 
+
+says Nammalvar in (1-3-6). 
+
 
 [^f170]: Viṣṇupurāṇa: 1-8-17
 
-[^39]: Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.
+
+So in a matter like this, vain assertion or insistence is not proper,
 
 As has been said: "Some make [^f171] weak cases appear strong." Although it is possible to prove whatever we please with the help of our proficiency in logical disputation, we submit to the Authority of the śāstras. Therefore we should understand clearly the truth concerning the Real or Tattva that rules and the reals or tattvas that are ruled, only in accordance with the pramāṇas. We need not try to know all things but should try to know what is exceedingly useful. In matters which are only of limited use, we need not be so curious to obtain knowledge. The pilot tries to know just as much about the (vast) ocean as  would enable him to steer the ship along the right path. Similarly we have to understand, necessarily, as much as has been said here. In order to obtain unshakable conviction (about these truths), more elaborate treatises may be studied.
 
