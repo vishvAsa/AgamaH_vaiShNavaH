@@ -7369,29 +7369,323 @@ Thus you two have taken diverse qualities."
 इदु “युवत्वादौ तुल्येऽपि”(श्रीगुणरत्नकोशम् 34-वदु श्लोकम्) ऎन्गिऱ श्लोकत्तिले निर्णीतम्.  
 </details>
 
+### यद्-ऋच्छता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "इऱै+++(=देव)+++-निलैय्-उणर्व्+++(=अर्थं)+++ अरिद्+++(=अशक्यम्)+++"  
+> (तिरुवाय्मॊऴि 1-3-6.) 
+
+ऎण्ड्र् आऴ्वार् अरुळिच् चॆय्द निलत्तिल् ए  
+एद् एनुम् ऒरु वृथा निर्बन्धम् आगादु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “३३ स्वामिनः स्थितिः (तत्त्वं) ज्ञातुम् अशक्या" 
+
+इति दिव्य-सूरिभिर् अनुसंहिते विषये  
+कश्चिद् अपि वृथा-निर्बन्धो न युज्यते ।  
+</details>
+
+<details><summary>English</summary>
+
+> "It is impossible to understand  
+the real nature of God",
+
+says Nammalvar in (1-3-6).
+
+So in a matter like this, vain assertion or insistence is not proper,
+</details>
+
+<details><summary>Español</summary>
+
+> "It is impossible to understand  
+the real nature of God",
+
+says Nammalvar in (1-3-6).
+
+So in a matter like this, vain assertion or insistence is not proper,
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-
-> "It is impossible to understand the real nature of God", 
-
-says Nammalvar in (1-3-6). 
-
+"इऱै निलैयुणर्वरिदु" (तिरुवाय्मॊऴि 1-3-6.) ऎण्ड्राऴ्वाररुळिच् चॆय्द निलत्तिले एदेनुमॊरु वृथा निर्बन्धमागादु. 
+</details>
 
 [^f170]: Viṣṇupurāṇa: 1-8-17
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-So in a matter like this, vain assertion or insistence is not proper,
+> ‘‘कृशान् अर्थांस् ततः केचिद्  
+अ-कृशांस् तत्र कुर्वते”  
+(भारतम्-सभापर्व 39-2) 
+</details>
 
-As has been said: "Some make [^f171] weak cases appear strong." Although it is possible to prove whatever we please with the help of our proficiency in logical disputation, we submit to the Authority of the śāstras. Therefore we should understand clearly the truth concerning the Real or Tattva that rules and the reals or tattvas that are ruled, only in accordance with the pramāṇas. We need not try to know all things but should try to know what is exceedingly useful. In matters which are only of limited use, we need not be so curious to obtain knowledge. The pilot tries to know just as much about the (vast) ocean as  would enable him to steer the ship along the right path. Similarly we have to understand, necessarily, as much as has been said here. In order to obtain unshakable conviction (about these truths), more elaborate treatises may be studied.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘कृशान् अर्थांस् ततः केचिद्  
+अ-कृशांस् तत्र कुर्वते”  
+(भारतम्-सभापर्व 39-2)  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+As has been said:  
+"Some make [^f171] weak cases appear strong."  
+</details>
+
+<details><summary>Español</summary>
+
+As has been said:  
+
+> "Some make [^f171] weak cases appear strong."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कृशानर्थांस्ततः केचिदकृशांस्तत्र कुर्वते” (भारतम्-सबापर्वम् 39-2) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… ऎन्गिऱप् पडिय् ए  
+तर्क-पाण्डित्यत्ताल् ए निनैत्तद् ऎल्लाम् साधिक्कल् आय् इरुक्कच् चॆय्द् एय् इऱे  
+नाम् प्रमाण-शरणराय्प् पोरुगिऱदु. +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य् उक्त-रीत्या  
+तर्क-पाण्डित्येनाभिमतं सर्वं साधयितुं शक्ताः सन्तोऽपि हि  
+वयं प्रमाणशरणाः प्रवर्तामहे । +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Although it is possible to prove whatever we please  
+with the help of our proficiency in logical disputation,  
+we submit to the Authority of the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+Although it is possible to prove whatever we please  
+with the help of our proficiency in logical disputation,  
+we submit to the Authority of the śāstras. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+… ऎन्गिऱप्पडिये तर्कपाण्डित्यत्ताले निनैत्तदॆल्लाम् साधिक्कलायिरुक्कच् चॆय्देयिऱे नाम् प्रमाणशरणराय्प् पोरुगिऱदु. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् इव्व् ईश्वर-तत्त्वत्तैय् उम्, ईशितव्य-तत्त्वङ्गळैय् उम्  
+यथा-प्रमाणं **तॆळियप् प्राप्तम्**. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत एतद् ईश्वर-तत्त्वम् ईशितव्य-तत्त्वानि च  
+यथा-प्रमाणम् एव विशदं बोद्धुं साम्प्रतम् । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore we should understand clearly  
+the truth concerning the Real or Tattva that rules  
+and the reals or tattvas that are ruled,  
+only in accordance with the pramāṇas. 
+</details>
+
+<details><summary>Español</summary>
+
+Therefore we should understand clearly  
+the truth concerning the Real or Tattva that rules  
+and the reals or tattvas that are ruled,  
+only in accordance with the pramāṇas. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयालिव्वीश्वर तत्त्वत्तैयुम् ईशितव्यतत्त्वङ्गळैयुम् यथाप्रमाणन् दॆळियप् प्राप्तम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
+सर्व-ज्ञन् आगव् उम् वेण्डा,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र सार्वश्यमपि नापेक्ष्यते ।
+</details>
+
+
+<details><summary>English</summary>
+
+We need not try to know all things  
+(but should try to know what is exceedingly useful.)
+</details>
+
+<details><summary>Español</summary>
+
+We need not try to know all things  
+(but should try to know what is exceedingly useful.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् सर्वज्ञनागवुम् वेण्डा,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्यन्तानुपयुक्तङ्गळिऱ्‌ पोल् ए  
+स्वल्पोपयुक्तङ्गळ् आनवट्रिल्  
+अभिसन्धि पण्णव् उम् वेण्डा, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्यन्तानुपयुक्तेष्व् इव स्वल्पोपयुक्तेषु +अभिनिवेशोऽपि न कार्यः । 
+</details>
+
+<details><summary>English</summary>
+
+(As in the case of very useless matters)  
+In matters which are only of limited use,  
+we need not be so curious to obtain knowledge.  
+</details>
+
+<details><summary>Español</summary>
+
+(As in the case of very useless matters)  
+In matters which are only of limited use,  
+we need not be so curious to obtain knowledge.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्यन्तानुपयुक्तङ्गळिऱ्‌ पोले स्वल्पोपयुक्तङ्गळानवट्रिल् अभिसन्धि पण्णवुम् वेण्डा, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपरिच्छेद्यम् आन कडलिल् ए  
+पडग्+++(=नौका)+++-ओडुवार्+++(=चालकाः)+++ वऴि मुदल् आग वेण्डुवन तॆळियुम् आप्-पोल् ए  
+इव्व् अळवु विवेकिक्कैय् अवश्यापेक्षितम्. +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अपरिच्छेद्ये समुद्रे  
+नाविकाः मार्ग-प्रभृतिकम् अवश्य-ज्ञेयम् अर्थं  
+यथा विशदं जानन्ति,  
+तथा ऽत्रैतावद् विवेचनम् अवश्यापेक्षितम् ॥  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+The pilot tries to know  
+just as much about the (vast) ocean  
+as would enable him to steer the ship along the right path.  
+Similarly we have to understand, necessarily,  
+as much as has been said here.  
+</details>
+
+<details><summary>Español</summary>
+
+The pilot tries to know  
+just as much about the (vast) ocean  
+as would enable him to steer the ship along the right path.  
+Similarly we have to understand, necessarily,  
+as much as has been said here.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपरिच्छेद्यमान कडलिले पडगोडुवार् वऴि मुदलाग वेण्डुवन तॆळियुमाप्पोले इव्वळवु विवेकिक्कैयवश्यापेक्षितम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु प्रतिष्ठितम् आगैक्क् आग  
+इवट्रिन् विरिवुगळ्+++(=विस्तराः)+++ ऎण्णुगिऱदु+++(=विचार्यन्ते)+++.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य प्रतिष्ठितत्व सिद्धयर्थमेतद्विस्तरा अभ्यस्यन्ते । 
+</details>
+
+<details><summary>English</summary>
+
+In order to obtain unshakable conviction (about these truths), more elaborate treatises may be studied.
+</details>
+
+<details><summary>Español</summary>
+
+In order to obtain unshakable conviction (about these truths), more elaborate treatises may be studied.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु प्रतिष्ठितमागैक्काग इवट्रिन् विरिवुगळॆण्णुगिऱदु.
+</details>
+
 
 [^f171]: Mahābhārata: Sabhaparva 39-5
 
-OTHER CLASSIFICATIONS OF THE TATVAS
 
-OR ‘REALS':
+## तत्त्व-विभागान्तरम्
+<details><summary>English</summary>
 
-Here we have classified the Tattvas into three. So also some consider Iśvara 48 the only real or Tattva, because all other reals are His attributes. Some have classified the tattvas into two as follows: The ruler and the ruled; the self and the non-self; the means and the end (upāya and upeya ). Some classify what should be known into four : the Saviour and that which is to be saved; that which should be rejected and that which should be accepted. Others classify what should be known ander five heads as pointed out before and others into six. In the Rahasyaśāstras, what should be known is stated to be seven. To all those who think in those varied ways, there are respective advantages accruing to the strengthening of their knowledge and their daily observances.
+OTHER CLASSIFICATIONS OF THE TATVAS OR ‘REALS':
+</details>
+
+<details><summary>Español</summary>
+
+OTHER CLASSIFICATIONS OF THE TATVAS OR ‘REALS':
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि मूण्ड्रु तत्त्वङ्गळाग वगुत्तु चिन्तित्ताप्पोले  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं त्रीणि तत्त्वानीति विभज्य चिन्तयताम् इव
+</details>
+
+<details><summary>English</summary>
+
+Here we have classified the Tattvas into three.  
+</details>
+
+<details><summary>Español</summary>
+
+Here we have classified the Tattvas into three.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि मूण्ड्रु तत्त्वङ्गळाग वगुत्तु चिन्तित्ताप्पोले  
+</details>
+
+
+
+So also some consider Iśvara 48 the only real or Tattva, because all other reals are His attributes. Some have classified the tattvas into two as follows: The ruler and the ruled; the self and the non-self; the means and the end (upāya and upeya ). Some classify what should be known into four : the Saviour and that which is to be saved; that which should be rejected and that which should be accepted. Others classify what should be known ander five heads as pointed out before and others into six. In the Rahasyaśāstras, what should be known is stated to be seven. To all those who think in those varied ways, there are respective advantages accruing to the strengthening of their knowledge and their daily observances.
 
 What is said in the following śloka , is of course true: "A knowledge[^40] of the śāstras can be obtained only with the greatest difficulty. Further it may unsettle the mind. Therefore having obtained a knowledge of Hari from the teaching of the guru, a man should cease from all such activities." This does not mean that one should make no attempt to learn the śāstras. It only means that one should learn what is most important as quickly as possible and proceed at once to adopt the means learnt therefrom for attaining mokṣa , without spending too much time over elaborate treatises, which might cause delay in the adoption of the means. The man who has enough to eat without tilling the soil would never think of tilling it. So also without wasting time over what is unimportant, we should, as soon as possible, adopt the means prescribed for mokṣa ,
 
