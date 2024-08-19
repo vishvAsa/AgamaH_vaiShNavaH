@@ -7349,7 +7349,6 @@ This is the conclusion arrived at in the following śloka  in Śrīgunaratnakosa
 however the Lord has manly qualities, like independence, conquest of foes, firmness and the like;  
 you have such feminine qualities as existing solely for the husband, compassion and forgiveness.  
 Thus you two have taken diverse qualities." 
-
 </details>
 
 <details><summary>Español</summary>
@@ -7646,7 +7645,7 @@ In order to obtain unshakable conviction (about these truths), more elaborate tr
 [^f171]: Mahābhārata: Sabhaparva 39-5
 
 
-## तत्त्व-विभागान्तरम्
+## तत्त्व-विभागान्तर-साम्यम्
 <details><summary>English</summary>
 
 OTHER CLASSIFICATIONS OF THE TATVAS OR ‘REALS':
@@ -7683,19 +7682,375 @@ Here we have classified the Tattvas into three.
 इप्पडि मूण्ड्रु तत्त्वङ्गळाग वगुत्तु चिन्तित्ताप्पोले  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-विशिष्ट-वेषत्ताल् ए  
+ईश्वरन् एक-तत्त्वम् आग अनुसन्धिप्पार्क्क् उम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सर्व-विशिष्ट-वेषेणेश्वर एकं तत्त्वम् इत्य् अनुसंदधताम्, 
+</details>
+
+<details><summary>English</summary>
+
+So also some consider Iśvara 48 the only real or Tattva,  
+because all other reals are His attributes.  
+</details>
+
+<details><summary>Español</summary>
+
+So also some consider Iśvara 48 the only real or Tattva,  
+because all other reals are His attributes.  
+</details>
+ 
 
 
-So also some consider Iśvara 48 the only real or Tattva, because all other reals are His attributes. Some have classified the tattvas into two as follows: The ruler and the ruled; the self and the non-self; the means and the end (upāya and upeya ). Some classify what should be known into four : the Saviour and that which is to be saved; that which should be rejected and that which should be accepted. Others classify what should be known ander five heads as pointed out before and others into six. In the Rahasyaśāstras, what should be known is stated to be seven. To all those who think in those varied ways, there are respective advantages accruing to the strengthening of their knowledge and their daily observances.
+<details><summary>मूलम्</summary>
 
-What is said in the following śloka , is of course true: "A knowledge[^40] of the śāstras can be obtained only with the greatest difficulty. Further it may unsettle the mind. Therefore having obtained a knowledge of Hari from the teaching of the guru, a man should cease from all such activities." This does not mean that one should make no attempt to learn the śāstras. It only means that one should learn what is most important as quickly as possible and proceed at once to adopt the means learnt therefrom for attaining mokṣa , without spending too much time over elaborate treatises, which might cause delay in the adoption of the means. The man who has enough to eat without tilling the soil would never think of tilling it. So also without wasting time over what is unimportant, we should, as soon as possible, adopt the means prescribed for mokṣa ,
+सर्वविशिष्टवेषत्ताले ईश्वरन् एकतत्त्वमाग अनुसन्धिप्पार्क्कुम्  
+</details>
 
-[^40]: “शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईशेशितव्यङ्गळ् आत्मानात्माक्कळ् उपायोपेयङ्गळ् ऎण्ड्राप्पोल् एय्  
+इरण्ड्-अर्थम् ज्ञातव्यम् आग वगुप्पार्क्क् उम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ईशेशितव्ये, आत्मानात्मानौ, उपायोपेयौ  
+इत्य्-एवं-रीत्या ऽर्थ-द्वयं ज्ञातव्यतया विभजमानानाम्  
+
+</details>
+
+<details><summary>English</summary>
+
+Some have classified the tattvas into two as follows:  
+The ruler and the ruled;  
+the self and the non-self;  
+the means and the end (upāya and upeya ).
+</details>
+
+<details><summary>Español</summary>
+
+Some have classified the tattvas into two as follows:  
+The ruler and the ruled;  
+the self and the non-self;  
+the means and the end (upāya and upeya ).
+</details>
+
+<details><summary>मूलम्</summary>
+
+ईशेशितव्यङ्गळ् आत्मानात्माक्कळ् उपायोपेयङ्गळॆण्ड्राप्पोलेय् इरण्डर्थम् ज्ञातव्यमाग वगुप्पार्क्कुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रक्ष्यन् रक्षकन् हेयम् उपादेयम् ऎण्ड्र् इप्-पुडैगळिल्+++(=स्थानेषु)+++ ए  
+अर्थ-चतुष्टययम् ज्ञातव्यम् आग संग्रहिप्पार्क्क् उम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+रक्ष्यो रक्षको, हेयम् उपादेयं चेत्य् एवं-प्रकारैर् अर्थ-चतुष्टयं ज्ञातव्यत्वेन संगृह्णानानाम्,
+</details>
+
+
+<details><summary>English</summary>
+
+Some classify what should be known into four :  
+the Saviour and that which is to be saved;  
+that which should be rejected and that which should be accepted. 
+</details>
+
+<details><summary>Español</summary>
+
+Some classify what should be known into four :  
+the Saviour and that which is to be saved;  
+that which should be rejected and that which should be accepted. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रक्ष्यन् रक्षकन् हेयमुपादेय मॆण्ड्रिप्पुडैगळिले अर्थचतुष्टययम् ज्ञातव्यमाग संग्रहिप्पार्क्कुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुन्बु सॊन्नप्-पडिय् ए अर्थपञ्चकम् षडर्थङ्गळॆण्ड्रु विवेकिप्पार्क्कुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पूर्वोक्तरीत्याऽर्थ-पञ्चकम् इति अर्थषट्कम् इति विवेचयताम्, 
+</details>
+
+<details><summary>English</summary>
+
+Others classify what should be known under five heads  
+as pointed out before  
+and others into six. 
+</details>
+
+<details><summary>Español</summary>
+
+Others classify what should be known under five heads  
+as pointed out before  
+and others into six. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुन्बु सॊन्नप्पडिये अर्थपञ्चकम् षडर्थङ्गळॆण्ड्रु विवेकिप्पार्क्कुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रहस्य-शास्त्रङ्गळिऱ्-‌पडिय् ए  
+सप्त-पदार्थ-चिन्तादिगळ् पण्णुवार्क्क् उम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+रहस्य-शास्त्रोक्त-रीत्या सप्त-पदार्थी-चिन्तादिकं कुर्वाणानां च  
+</details>
+
+
+<details><summary>English</summary>
+
+In the Rahasyaśāstras, what should be known is stated to be seven. 
+</details>
+
+<details><summary>Español</summary>
+
+In the Rahasyaśāstras, what should be known is stated to be seven. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+रहस्यशास्त्रङ्गळिऱ्‌पडिये सप्तपदार्थचिन्तादिगळ् पण्णुवार्क्कुम्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व्-ओ ज्ञानानुष्ठान-प्रतिष्ठा-रूपङ्गळ् आन प्रयोजन-विशेषङ्गळ् कण्डु कॊळ्वदु.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्-तज्-ज्ञानानुष्ठान-प्रतिष्ठा-रूपाः प्रयोजन-विशेषा द्रष्टव्याः । 
+</details>
+
+<details><summary>English</summary>
+
+To all those who think in those varied ways,  
+there are respective advantages  
+accruing to the strengthening of their knowledge and their daily observances.
+</details>
+
+<details><summary>Español</summary>
+
+To all those who think in those varied ways,  
+there are respective advantages  
+accruing to the strengthening of their knowledge and their daily observances.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्वो ज्ञानानुष्ठानप्रतिष्ठारूपङ्गळान प्रयोजनविशेषङ्गळ् कण्डु कॊळ्वदु.  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘शास्त्रज्ञानं बहुक्लेशं  
+बुद्धेश् चलन-कारणम् ।  
+उपदेशाद्+हरिं बुद्ध्वा  
+विरमेत् सर्व-कर्मसु ॥” 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘शास्त्रज्ञानं बहुक्लेशं  
+बुद्धेश् चलन-कारणम् ।  
+उपदेशाद्+हरिं बुद्ध्वा  
+विरमेत् सर्व-कर्मसु ॥” 
+
+</details>
+
+<details><summary>English</summary>
+
+What is said in the following śloka , is of course true:
+
+"A knowledge of the śāstras  
+can be obtained only with the greatest difficulty.  
+Further it may unsettle the mind.  
+Therefore having obtained a knowledge of Hari  
+from the teaching of the guru,  
+a man should cease from all such activities." 
+
+This does not mean that one should make no attempt to learn the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+What is said in the following śloka , is of course true:
+
+"A knowledge of the śāstras  
+can be obtained only with the greatest difficulty.  
+Further it may unsettle the mind.  
+Therefore having obtained a knowledge of Hari  
+from the teaching of the guru,  
+a man should cease from all such activities." 
+
+This does not mean that one should make no attempt to learn the śāstras. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शास्त्रज्ञानं बहुक्लेशं बुद्धेश्चलनकारणम् । उपदेशाद्धरिं बुद्ध्वा विरमेत्सर्वकर्मसु ॥” 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱदु उपयुक्ततमम् आन सारांशत्तैक् कडुग+++(=त्वरया)+++ श्रवणम् बण्णि, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य् उक्तिः,  
+उपयुक्ततमं सारांशं तूर्णं श्रुत्वा  
+</details>
+
+<details><summary>English</summary>
+
+It only means that one should learn what is most important as quickly as possible 
+</details>
+
+<details><summary>Español</summary>
+
+It only means that one should learn what is most important as quickly as possible 
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱदु उपयुक्ततममान सारांशत्तैक् कडुग श्रवणम्बण्णि, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृषि पण्णादेय् उण्ण-विरग्+++(=उपाय)+++-उडैयवन् कृषि चिन्तैयै विडुम् आप्-पोल् ए
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कृषिम् अन्तरैव भोक्तुम् उपायम् उपेयिवान्  
+कृषिचिन्तां यथा त्यजति 
+</details>
+
+<details><summary>English</summary>
+
+The man who has enough to eat without tilling the soil  
+would never think of tilling it. 
+
+(So also without wasting time over what is unimportant,  
+we should, as soon as possible, adopt the means prescribed for mokṣa,)
+</details>
+
+<details><summary>Español</summary>
+
+The man who has enough to eat without tilling the soil  
+would never think of tilling it. 
+
+(So also without wasting time over what is unimportant,  
+we should, as soon as possible, adopt the means prescribed for mokṣa,)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कृषि पण्णादेयुण्णविरगुडैयवन् कृषि चिन्तैयै विडुमाप्पोले
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विरिवुगऱ्‌कैक्क् ईडान शास्त्राभ्यासादि-कर्मङ्गळिल् उपरतन् आय्क्  
+कडुग मोक्षोपायत्तिल् ए मूळ प्राप्तम् ऎण्ड्र बडि.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथा विस्तरेणाभ्यसनार्ह-शास्त्राभ्यासादि-कर्मभ्य 
+उपरतेन  
+झट् इति मोक्षोपाये प्रवर्तितव्यम् इत्येतत्-परा । 
+</details>
+
+<details><summary>English</summary>
+
+and proceed at once to adopt the means learnt therefrom for attaining mokṣa ,  
+without spending too much time over elaborate treatises,  
+which might cause delay in the adoption of the means. 
+</details>
+
+<details><summary>Español</summary>
+
+and proceed at once to adopt the means learnt therefrom for attaining mokṣa ,  
+without spending too much time over elaborate treatises,  
+which might cause delay in the adoption of the means. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विरिवुगऱ्‌कैक् कीडान शास्त्राभ्यासादिकर्मङ्गळिल् उपरतनाय्क् कडुग मोक्षोपायत्तिले मूळ प्राप्तमॆण्ड्रबडि.  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-उपयुक्तेषु वैशद्यं त्रिवर्गनिरपेक्षता ।  
-करणत्रयसारूप्यमिति सौख्यरसायनम् ॥  १४-आ॥
+उपयुक्तेषु वैशद्यं  
+त्रि-वर्ग-+++(स्वातन्त्र्य-)+++निरपेक्षता ।  
+करण-त्रय-सारूप्यम्  
+इति सौख्य-रसायनम् ॥  १४-आ॥+++(5)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपयुक्तेषु वैशद्यं  
+त्रि-वर्ग-+++(स्वातन्त्र्य-)+++निरपेक्षता ।  
+करण-त्रय-सारूप्यम्  
+इति सौख्य-रसायनम् ॥  १४-आ॥+++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+A clear knowledge of what is useful,  
+indifference to the three ends (dharma, artha, and kama)  
+and being one in thought, word and deed -  
+these constitute the elixir of happiness.
+</details>
+
+<details><summary>Español</summary>
+
+A clear knowledge of what is useful,  
+indifference to the three ends (dharma, artha, and kama)  
+and being one in thought, word and deed -  
+these constitute the elixir of happiness.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -7703,15 +8058,82 @@ What is said in the following śloka , is of course true: "A knowledge[^40] of t
 करणत्रयसारूप्यमिति सौख्यरसायनम् ॥  १४-आ॥
 </details>
 
-A clear knowledge of what is useful, indifference to the three ends (dharma, artha, and kama) and being one in thought, word and deed - these constitute the elixir of happiness.
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-तेऱवियम्बिनर् सित्तुमसित्तुमिऱैयुमॆन  
-वेऱुबडुम् वियण्ड्रत्तुवमूण्ड्रुम् विनैयुडम्बिल्  
-कूऱुबडुङ् गॊडुमोगमुन् दानिऱैयाङ्गुऱिप्पुम्  
-माऱ निनैन्दरुळान् मऱैनूल्दन्द वादियरे. (12)
+तेऱव्+++(=स्पष्ट)+++ इयम्बिनर्+++(=उपादिशन्)+++ चित्त् उम् अचित्तुम् इऱैय्+++(=देवः)+++ उम् ऎन  
+वेऱु-बडुम् वियण्+++(=महत्)++++तत्तुव+++(=तत्त्व)+++ मूण्ड्र् उम् विनैय्+++(=कर्म)+++-उडम्बिल्  
+कूऱु+++(=मिश्रित)+++-बडुङ् कॊडु+++(=क्रूर)+++-मोहम् उन् - तान् इऱैय् आङ् कुऱिप्प्+++(=सङ्केतम्)+++ उम्  
+माऱ+++(=अपसारणीयम्)+++ निनैन्द् अरुळान्+++(ल्)+++ मऱै+++(=वेद)+++-नूल्+++(→शास्त्र)+++-तन्दव् आदियर् ए. (12)
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(अधिकारार्थसंग्राहकगाथा)  
+( गाथा )  
+दृढ-प्रतिष्ठितं यथा स्यात् तथोपदिदिशुः  
+चिच् चाचिच्च स्वामी चेति  
+विभिन्नानि विस्मयनीयानि तत्त्वानि त्रीणि,  
+कर्ममय-देहे भवन् क्रूर-मोहः,  
+
+> "अहं स्वामी"ति बुद्धिश् च निवर्तेताम्  
+
+इति विचिन्त्य  
+कृपया वेद-शास्त्र-प्रदा आद्याः ॥
+
+[[५१]]
+</details>
+
+<details><summary>English</summary>
+
+Our ancient ācāryas  
+who gave as the essence of the Veda have,  
+out of compassion (for us),  
+taught us clearly all about the three wonderful and varied tattvas,  
+cit, acit and Iśvara  
+in order to remove, from our minds,  
+the cruel delusion in regard to the body  
+arising from karma and  
+the notion that we are independent (of the Lord).
+</details>
+
+<details><summary>Español</summary>
+
+Our ancient ācāryas  
+who gave as the essence of the Veda have,  
+out of compassion (for us),  
+taught us clearly all about the three wonderful and varied tattvas,  
+cit, acit and Iśvara  
+in order to remove, from our minds,  
+the cruel delusion in regard to the body  
+arising from karma and  
+the notion that we are independent (of the Lord).
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदऱ्‌कु "तेऱवियम्बिनर्" ऎन्बद् ओड् अन्वयम्.  
+"ऎदऱ्‌कागव्" ऎन्निल्?  
+**विनैय्-उडम्बिल्** - कर्मत्ताले वन्द देहत्तिल्,  
+**कूऱुबडुम्** - सेर्न्दुवरुम्,  
+कॊडु मोहमुम् - नरकावहमान आत्मभ्रममुम्,  
+**तानिऱैयाङ्गुऱिप्पुम्** - ताने स्वतन्त्रनागलामॆण्ड्र ऎण्णमुम्,  
+इङ्गु अनीश्वरवादरुचियुम् विवक्षितम्.  
+**माऱ निनैन्दु** - नमक्कुत् तीरवेण्डुमॆण्ड्रु निनैत्तु,  
+सित्तुमसित्तुमिऱैयुमॆन वेऱुबडुम् - चेतनतत्त्वम्, अचेतनतत्त्वम्,  
+शेषियान ईश्वरतत्त्वमॆण्ड्रु भिन्नभिन्नमान,  
+वियण्ड्रत्तुवमूण्ड्रुम् - विस्मयनीयमान तत्त्वत्रयत्तैयुम्,  
+तेऱ – अतिमन्दबुद्धिकळान नामुम् संशयविपर्ययमऱ तॆळियुम्बडि,  
+इयम्बिनर् - उपदेशित्तार्गळॆण्ड्र पडि.  
+
+इदनाल् विशदमान तम्मुडैय तत्त्वत्रयज्ञानम्  
+‘‘उपदेशाद्धरिं बुध्वा’’ ऎन्गिऱबडि  
+शास्त्राभ्यासप्रयासमण्ड्रिक्क् ए  
+केवलाचार्योपदेशत्तालेय् ए वन्दद्  
+ऎण्ड्रु सूचितम्.  
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -7721,7 +8143,7 @@ A clear knowledge of what is useful, indifference to the three ends (dharma, art
 माऱ निनैन्दरुळान् मऱैनूल्दन्द वादियरे. (12)
 </details>
 
-Our ancient ācāryas who gave as the essence of the Veda have, out of compassion (for us), taught us clearly all about the three wonderful and varied tattvas, cit, acit and Iśvara in order to remove,' from our minds, the cruel delusion in regard to the body arising from karma and the notion that we are independent (of the Lord).
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
