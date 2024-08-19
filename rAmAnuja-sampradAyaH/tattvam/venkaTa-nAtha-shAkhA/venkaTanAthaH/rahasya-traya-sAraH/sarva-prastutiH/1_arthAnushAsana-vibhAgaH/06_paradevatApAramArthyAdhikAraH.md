@@ -952,7 +952,51 @@ That Brahma, Rudra, and the like are created beings subject to karma may be seen
 </details>
 
 
-" The [^f178] purusha or person created by Him (Nārāyaṇa ) is called Brahma in the world". "Having [^f179] caused the dissolution of the worlds before, you lay on the waters of the great ocean and created me at first by your Māya (will)", " Brahma's name [^f180] is Ka and I, Isa rule over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)". Further Brahma says, "I was [^f181] born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Rudra are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following passages : -- "All the [^f182] gods sacrifice to Vāsudeva and all the gods bow to Vāsudeva." "Brahma, [^f183] Rudra and Indra, together with all other gods and the great rishis worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", " Meditating [^f184] constantly on the
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तद्-विसृष्टस् स पुरुषो  
+> लोके ब्रह्मेति कीर्त्यते” (मनुस्मृति 1-11.) 
+
+इत्यादिगळाल् उम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “तद्-विसृष्टस् स पुरुषो  
+> लोके ब्रह्मेति कीर्त्यते” (मनुस्मृति 1-11.) 
+
+इत्यादिभिः,
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ब्रह्मरुद्रर्गळुक्कु कार्यत्वञ्जॊल्लुगिऱ प्रमाणङ्गळै यरुळिच्चॆय्गिऱार् तद्विसृष्टः इत्यादिना । इदु मनुवचन मागैयाले तटस्थम्. तद्विसृष्टः – अन्द नारायणनाले सृष्टिक्कप्पट्ट, सः – अन्द चतुर्मुखपुरुषन्. लोकत्तिल् ब्रह्मावॆण्ड्रु सॊल्लप्पडुगिऱान्. इत्यादिकळालुमिति. आदिपदत्ताल् ‘‘यन्नाभिजातादरविन्दकोशाद्ब्रह्माऽऽविरासीद्यत एष लोकः’’ इत्यादियान श्रीशुकादिमहर्षिवचनङ्गळुक्कु ग्रहणम्. 
+</details>
+
+<details><summary>English</summary>
+
+
+> " The [^f178] purusha or person created by Him (Nārāyaṇa )  
+> is called Brahma in the world".
+</details>
+
+<details><summary>Español</summary>
+
+
+> " The [^f178] purusha or person created by Him (Nārāyaṇa )  
+> is called Brahma in the world".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तद्विसृष्टस्स पुरुषो लोके ब्रह्मेति कीर्त्यते” (मनुस्मृति 1-11.) इत्यादिगळालुम्,
+</details>
+
+
+
+"Having [^f179] caused the dissolution of the worlds before, you lay on the waters of the great ocean and created me at first by your Māya (will)", " Brahma's name [^f180] is Ka and I, Isa rule over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)". Further Brahma says, "I was [^f181] born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Rudra are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following passages : -- "All the [^f182] gods sacrifice to Vāsudeva and all the gods bow to Vāsudeva." "Brahma, [^f183] Rudra and Indra, together with all other gods and the great rishis worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", " Meditating [^f184] constantly on the
 
 [^f173]:Mahābhārata: Śāntiparva 210-24
 
