@@ -510,10 +510,449 @@ as can be proved by pramāṇas.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “आभूत-संप्लवे प्राप्ते  
+प्रलीने प्रकृतौ महान् ।  
+एकस् तिष्ठति विश्वात्मा  
+स तु नारायणः प्रभुः”  
+(भारतम् शान्तिपर्वम् 210-24.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “आभूत-संप्लवे प्राप्ते  
+प्रलीने प्रकृतौ महान् ।  
+एकस् तिष्ठति विश्वात्मा  
+स तु नारायणः प्रभुः”  
+(भारतम् शान्तिपर्वम् 210-24.)
+
+</details>
+
+<details><summary>English</summary>
+
+It has been said,  
+
+> "When [^f173] 'all individual beings and even the aggregate jīva (Samashti) have gone into dissolution  
+> and when mahat has become merged into prakṛti (from which it evolved),  
+> there is one remaining as the soul of the universe  
+> and He is the Lord Nārāyaṇa ." 
+
+</details>
+
+<details><summary>Español</summary>
+
+It has been said,  
+
+> "When [^f173] 'all individual beings and even the aggregate jīva (Samashti) have gone into dissolution  
+> and when mahat has become merged into prakṛti (from which it evolved),  
+> there is one remaining as the soul of the universe  
+> and He is the Lord Nārāyaṇa ." 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+संप्रतिपन्न प्रमाणसिद्धङ्गळागैयालुमॆण्ड्रबडिः  
+इप्पडि ब्रह्मादिकळुक्कु कार्यत्वादिकळ् प्रामाणिकङ्गळॆण्ड्रु सॊल्लि भगवानुडैय जगत्कारणत्वत्तिल् प्रमाणङ्गळैक्काट्टुगिऱार् आभूतसंप्लव इत्यादिना । संप्लवः – लयः । आभूतसंप्लवः – व्यष्टिदेवादिकार्यङ्गळुक्कु समष्टियान पञ्चभूतङ्गळै यभिव्याप्य अदावदुः - अदु पर्यन्तम् लयः, तस्मिन् प्राप्ते, महान् – सप्तम्यर्थे प्रथमा; महतीति यावत् । महत्तत्त्वे प्रकृतौ प्रलीन इत्यन्वयः । अत्र पञ्चभूतमहत्तत्वमध्यवर्तिनामहंकारेन्द्रियादीनामपि लयः अर्थसिद्धः । एकस्तिष्ठति विश्वात्मा – व्यष्टिसमष्टिरूप-समस्तकार्यङ्गळुक्कुम् स्वस्वकारणे लयमिरुन्दालुम् तत्तदन्तर्यामियान भगवानॊरुवने लयसंबन्धमण्ड्रिक्के यिरुक्किऱान्. स तु नारायणः प्रभुः – तुः अवधारणे, नारायण एवेत्यर्थः । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“आभूतसंप्लवे प्राप्ते प्रलीने प्रकृतौ महान् । एकस्तिष्ठति विश्वात्मा स तु नारायणः प्रभुः” (भारतम् शान्तिपर्वम् 210-24.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“आद्यो नारायणो देवस्  
+तस्माद्ब्रह्मा ततो भवः ।"  
+(वराहपुराणम् 25-6.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“आद्यो नारायणो देवस्  
+तस्माद्ब्रह्मा ततो भवः ।"  
+(वराहपुराणम् 25-6.)  
+
+</details>
+
+
+<details><summary>English</summary>
+
+Again it is said,  
+
+“The [^f174] god Nārāyaṇa  is at the beginning; from Him arises Brahma", "[^f175] 
+
+</details>
+
+<details><summary>Español</summary>
+
+Again it is said,  
+
+“The [^f174] god Nārāyaṇa  is at the beginning; from Him arises Brahma", "[^f175] 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि सृष्टेः पूर्वम् विद्यमानतया नारायणनुक्कु जगत्कारणत्वत्तैच् चॊल्लि ब्रह्मादीनां स्रष्टृत्वेनापि जगत्कारणत्वत्तैच् चॊल्लुगिऱ प्रमाणत्तैक् काट्टुगिऱार् आद्यो नारायणो देवः इति । इङ्गु नारायणनुक्कु आद्यत्वम् सॊल्लुगैयाल् कारणत्वं सिद्धम्. 
+तस्मात् ब्रह्मा ततो भवः ऎन्गैयाले ब्रह्मादिकळुक्कु कार्यत्वम्, 
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+“आद्यो नारायणो देवस्तस्माद्ब्रह्मा ततो भवः ।" (वराहपुराणम् 25-6.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“परो नारायणो देवस्  
+तस्माज् जातश् चतुर्मुखः ।  
+तस्माद् रुद्रोऽभवद् देवि” (वराहपुराणम् 90-3.)
+
+इत्यादिगळिले
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “परो नारायणो देवस्  
+तस्माज् जातश् चतुर्मुखः ।  
+तस्माद् रुद्रोऽभवद् देवि” (वराहपुराणम् 90-3.)
+
+इत्यादिषु,  
+</details>
+
+<details><summary>English</summary>
+
+
+> Nārāyaṇa  is the Supreme Deity; From Him was born Brahma, the four-faced, and from Brahma arose Rudra, O goddess ", 
+
+</details>
+
+<details><summary>Español</summary>
+
+
+> Nārāyaṇa  is the Supreme Deity; From Him was born Brahma, the four-faced, and from Brahma arose Rudra, O goddess ", 
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+परो नारायणो देवः ऎन्गैयाले कारणत्वेन नारायणनुक्कु परत्वमुम्, तस्माज्जातश्चतुर्मुखः ऎन्गैयाल् चतुर्मुखनुक्कु अवरत्वमुम्, तस्मात् रुद्रोऽभवद्देवि ऎन्गैयाल् रुद्रनुक्कु अत्यन्तावरत्वमुम् सॊल्लप्पट्टदु.
+
+इत्यादिकळिले – इत्यादि प्रमाणङ्गळिले. इदऱ्‌कु सर्वजगत्तुक्कुम् कारणमॆन्गैयालुम् ऎन्बदोडन्वयम्. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“परो नारायणो देवस्तस्माज्जातश्चतुर्मुखः । तस्माद्रुद्रोऽभवद्देवि” (वराहपुराणम् 90-3.)
+
+इत्यादिगळिले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ततस् त्वम् अपि दुर्द्धर्षस्  
+तस्माद् भावात् सनातनात् ।  
+रक्षार्थं सर्वभूतानां  
+विष्णुत्वम् उपजग्मिवान्”  
+(रामायणम् उत्तरकाण्डम् 101-26.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “ततस् त्वम् अपि दुर्द्धर्षस्  
+तस्माद् भावात् सनातनात् ।  
+रक्षार्थं सर्वभूतानां  
+विष्णुत्वम् उपजग्मिवान्”  
+(रामायणम् उत्तरकाण्डम् 101-26.)
+</details>
+
+<details><summary>English</summary>
+
+and further, it is stated,  
+
+> "Then you, "[^f176] the irresistible, assumed the form of Viṣṇu  
+from that eternal existence (viz. Nārāyaṇa )  
+for the protection of all beings." 
+
+</details>
+
+<details><summary>Español</summary>
+
+and further, it is stated,  
+
+> "Then you, "[^f176] the irresistible, assumed the form of Viṣṇu  
+from that eternal existence (viz. Nārāyaṇa )  
+for the protection of all beings." 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+‘‘ब्रह्मविष्णुरुद्रेन्द्रास्ते सर्वे संप्रसूयन्ते’’ ऎन्गिऱ श्रुतियिल् ब्रह्मादिकळोडॊक्क भगवानुक्कुम् कार्यत्वम् तोण्ड्रविल्लैयो?  
+अदु स्वेच्छैयाले वन्द अवतारविशेषमागैयालुम् कर्मकृतोत्पत्तियै सॊल्लुगिऱदण्ड्रागैयालुम् बाधकावहमण्ड्रॆन्निलिदिल् प्रमाणमुण्डोवॆन्न वरुळिच्चॆय्गिऱार् ततस्त्वमपीत्यादियाल्. इदु चतुर्मुखवचनम्.
+
+इदऱ्‌कु मुन् वचनम्
+
+> ‘‘पद्मे दिव्येऽर्कसङ्काशे  
+नाभ्यामुत्पाद्य मामपि ।  
+प्राजापत्यं त्वया कर्म  
+सर्वं मयि निवेशितम् ।  
+सोहं सन्यस्तभारो हि  
+त्वामुपासे जगत्पतिम् ॥’’
+
+ऎन्गिऱदागैयाल् इङ्गु ततश् शब्दम् उम् चतुर्मुख-कृतोपासनानन्तर्यार्थकम्.
+
+त्वमपि – जगत्कारणमान नीयुम्, दुर्धर्षः । अपियै इङ्गु कूट्टुवदु.  
+अकर्मवश्यनायिरुन्दालुम्. तस्माद्भावात् सनातनात् – पूर्वप्रकृताद्रूपात् । विष्णुत्वं – विष्ण्ववतारविग्रह-विशिष्टत्वम्. उपजग्मिवान् – स्वेच्छैयाले प्राप्तवान् । 
+
+इङ्गु दुर्धर्षः विष्णुत्वमुपजग्मिवान् ऎन्बदाल् अकर्मवश्यत्वमुम् स्वेच्छाकृतावतारत्वमुम् सॊल्लप्पडुगिऱदु.  
+ऎन्गिऱबडिये स्वेच्छावतीर्णनायिदि. 'तस्मात् जातश्चतुर्मखः’ ऎन्गिऱाप्पोले  
+विष्णुर्जातः ऎण्ड्रु सॊल्लामल्  
+विष्णुत्वमुपजग्मिवान् ऎण्ड्रु सॊल्लुगैयाल् ताने तन्निच्छैयाले अवदरित्तानॆन्बदु स्पष्टमागिऱदु.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ततस्त्वमपि दुर्द्धर्षस्तस्माद्भावात्सनातनात् । रक्षार्थं सर्वभूतानां विष्णुत्वमुपजग्मिवान्” (रामायणम् उत्तरकाण्डम् 101-26.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप् पडिय् ए  
+स्वेच्छावतीर्णन् आय्  
+त्रिमूर्ति-मध्य-स्थन् आन विष्णु-नारायणादि-शब्द-वाच्यन् तान् ए  
+तन्न्-उडैय पूर्वावस्थैयाल् ए सर्व-जगत्तुक्क् उम् कारणम्  
+ऎन्गैयाल् उम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्तरीत्या (यः) स्वेच्छावतीर्णः त्रिमूर्तिमध्यस्थो विष्णुनारायणादिशब्द-वाच्य ( स ) एव  
+स्वपूर्वावस्थया सर्वस्य जगतः कारणम् इत्यभिधानात्, 
+</details>
+
+<details><summary>English</summary>
+
+From this it is clear that, by his own will,  
+He incarnated as the middle one (i.e. Viṣṇu ) of the Trinity.  
+He who is expressed by the names, Viṣṇu and Nārāyaṇa ,  
+is stated to have been the ultimate cause of the world  
+in His previous and original state. 
+
+</details>
+
+<details><summary>Español</summary>
+
+From this it is clear that, by his own will,  
+He incarnated as the middle one (i.e. Viṣṇu ) of the Trinity.  
+He who is expressed by the names, Viṣṇu and Nārāyaṇa ,  
+is stated to have been the ultimate cause of the world  
+in His previous and original state. 
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि त्रिमूर्तिमध्यत्तिल् अवदरित्तवनुक्कु सर्वजगत्कारणत्व ङ्गूडुमोवॆन्नवरुळिच्चॆय्गिऱार् तन्नुडैय पूर्वावस्थैयाले इति । विष्णुत्वावस्थैयिले सर्वजगत्कारणत्वङ् गूडामल्बोनालुम् ‘‘परो नारायणो देवस्तस्माज्जातश्चतुर्मखः’’ ऎण्ड्रु सॊल्लप्पट्ट नारायणत्वावस्थैयिले अदु कूडुमॆण्ड्रु करुत्तु. इदनाल् त्रिमूर्तिमध्यस्थनान विष्णुविऱ्‌कु सर्वजगत्कारणत्वङ् गूडादागैयाल् इन्द त्रिमूर्त्युत्तीर्णनान ऒरुवनुक्के जगत्कारणत्वमुम् परदेवतात्वमुङ् गॊळ्ळवेण्डुमॆन्गिऱ उत्तीर्णब्रह्मवादियिनुडैय युक्तियुम् निरस्तमायिट्रु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये स्वेच्छावतीर्णनाय् त्रिमूर्तिमध्यस्थनान
+विष्णुनारायणादिशब्दवाच्यन् ताने तन्नुडैय पूर्वावस्थैयाले सर्वजगत्तुक्कुम् कारणमॆन्गैयालुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “नित्यं हि नास्ति जगति  
+> भूतं स्थावर-जङ्गमम् ।  
+> ऋते तम् एकं पुरुषं  
+> वासुदेवं सनातनम्”  
+> (भारतम् शान्तिपर्व 347-32) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “नित्यं हि नास्ति जगति  
+> भूतं स्थावर-जङ्गमम् ।  
+> ऋते तम् एकं पुरुषं  
+> वासुदेवं सनातनम्”  
+> (भारतम् शान्तिपर्व 347-32) 
+
+</details>
+
+<details><summary>English</summary>
+
+It is also said elsewhere, 
+
+> " There is no "[^f177] being in the world that is eternal,  
+> either among those that move or among those that do not move,  
+> except that one Primaeval Puruṣa called Vāsudeva." This declares that He alone is eternal. 
+
+</details>
+
+<details><summary>Español</summary>
+
+It is also said elsewhere, 
+
+> " There is no "[^f177] being in the world that is eternal,  
+> either among those that move or among those that do not move,  
+> except that one Primaeval Puruṣa called Vāsudeva." This declares that He alone is eternal. 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+नित्यं हीति । तं – नित्यदिव्यमङ्गळविग्रहविशिष्टतया प्रसिद्धम् । सनातनं – सर्वजगत्कारणभूतम् । वासुदेवमृते – वासुदेवं विना । जगति नित्यं नास्ति हि ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+“नित्यं हि नास्ति जगति भूतं स्थावरजङ्गमम् । ऋते तमेकं पुरुषं वासुदेवं सनातनम्” (भारतम् शान्तिपर्वम् 347-32) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप्पडिये  
+अवने नित्यनॆन्गैयालुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्तरीत्या स एव नित्य इत्यभिधानाच्च,
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अवने नित्यनॆन्गैयालुमिति । तदितरङ्गळुक्कु नित्यत्वनिषेधत्ताले यवनुक्के नित्यत्वम् सिद्धमॆण्ड्रु करुत्तु.  
+
+कीऴ्च्चॊन्न हेतुक्कळाल् पक्षचतुष्टयमुम् सङ्गतमागादॆण्ड्रु स्पष्टीकरिक्किऱार् त्रिमूर्तिकळुमित्यादिना । ब्रह्मरुद्रेन्द्रादिकळुक्कु कार्यत्वकर्मवश्यत्वङ्गळ् प्रामाणिकङ्गळागैयालॆन्गिऱ हेतुविनाल्  …
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये  
+अवने नित्यनॆन्गैयालुम् 
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रिमूर्तिगळुम् समर् ऎण्ड्र् उम्,  
+त्रिमूर्तिगळ् एक-तत्त्वम् ऎण्ड्र् उम्,  
+त्रिमूर्त्य्-उत्तीर्णन् ईश्वरन् ऎण्ड्र् उम्,  
+त्रिमूर्तिगळुक्क् उळ्ळ् ए ब्रह्माव् आदल्, रुद्रन् आदल् ईश्वरन् आदल् ऎण्ड्र् उञ्  
+चॊल्लुगिऱ साम्यैक्योत्तीर्ण-व्यक्त्य्-अन्तर-पक्षङ्गळ् घटियादु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[५७]]
+
+
+तिस्रो मूर्तयः समा इति,  
+तिस्रो मूर्तयः एकतत्त्वमिति,  
+त्रिमूर्त्युतीर्ण ईश्वर इति  
+तिसृषु ब्रह्मा वा रुद्रो वा ईश्वर इति  
+प्रतिपाद्यमानाः साम्यैक्योत्तीर्ण-व्यक्त्यन्तरपक्षाः  
+न घटन्ते । 
+
+</details>
 
 
 
-It has been said, "When [^f173] 'all individual beings and even the aggregate jīva (Samashti) have gone into dissolution and when mahat has become merged into prakṛti (from which it evolved), there is one remaining as the soul of the universe and He is the Lord Nārāyaṇa ." Again it is said, “The [^f174] god Nārāyaṇa  is at the beginning; from Him arises Brahma", "[^f175] Nārāyaṇa  is the Supreme Deity; From Him was born Brahma, the four-faced, and from Brahma arose Rudra, O goddess ", and further, it is stated, "Then you, "[^f176] the irresistible, assumed the form of Viṣṇu from that eternal existence (viz. Nārāyaṇa ) for the protection of all beings." From this it is clear that, by his own will, He incarnated as the middle one (i.e. Viṣṇu ) of the Trinity. He who is expressed by the names, Viṣṇu and Nārāyaṇa , iş stated to have been the ultimate cause of the world in His previous and original state. It is also said elsewhere, " There is no "[^f177] being in the world that is eternal, either among those that move or among those that do not move, except that one Primaeval Puruṣa called Vāsudeva." This declares that He alone is eternal. Therefore, other views such as the following: "The gods of the trinity (Brahma, Viṣṇu , and Siva), are of equal greatness"; "The three gods of the Trinity are only one", "Iśvara is above and beyond the Trinity" "Either Brahma or Rudra among the Trinity is the Supreme Lord "-these views stating equality, identity, the existence of an entity superior to all the three of the Trinity and the supremacy of a different member of the Trinity, are against the pramāṇas. That Brahma, Rudra, and the like are created beings subject to karma may be seen in the following passages :-" The [^f178] purusha or person created by Him (Nārāyaṇa ) is called Brahma in the world". "Having [^f179] caused the dissolution of the worlds before, you lay on the waters of the great ocean and created me at first by your Māya (will)", " Brahma's name [^f180] is Ka and I, Isa rule over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)". Further Brahma says, "I was [^f181] born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Rudra are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following passages : -- "All the [^f182] gods sacrifice to Vāsudeva and all the gods bow to Vāsudeva." "Brahma, [^f183] Rudra and Indra, together with all other gods and the great rishis worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", " Meditating [^f184] constantly on the
+<details><summary>English</summary>
+
+Therefore, other views such as the following:  
+
+> "The gods of the trinity (Brahma, Viṣṇu , and Siva), are of equal greatness"; 
+
+> "The three gods of the Trinity are only one", 
+
+> "Iśvara is above and beyond the Trinity" 
+
+> "Either Brahma or Rudra among the Trinity is the Supreme Lord "
+
+-these views stating equality, identity, the existence of an entity superior to all the three of the Trinity  
+and the supremacy of a different member of the Trinity,  
+are against the pramāṇas.  
+</details>
+
+<details><summary>Español</summary>
+
+Therefore, other views such as the following:  
+
+> "The gods of the trinity (Brahma, Viṣṇu , and Siva), are of equal greatness"; 
+
+> "The three gods of the Trinity are only one", 
+
+> "Iśvara is above and beyond the Trinity" 
+
+> "Either Brahma or Rudra among the Trinity is the Supreme Lord "
+
+-these views stating equality, identity, the existence of an entity superior to all the three of the Trinity  
+and the supremacy of a different member of the Trinity,  
+are against the pramāṇas.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कार्यत्वकर्मवश्यत्वङ्गळिल्लाद भगवानोडु ब्रह्मरुद्रर्गळुक्कु साम्यञ्जॊल्लुगिऱ पक्षमुम्, ऐक्यम् सॊल्लुगिऱ पक्षमुम्, अन्यतमरुक्कु ईश्वरत्वञ्जॊल्लुगिऱ पक्षमुम् निरस्तमागिऱदु. 
+
+सर्वजगत्कारणन् त्रिभूर्तिमध्यत्तिल् विष्णुवाग अवदरित्तानॆण्ड्रदाल्उत्तीर्णपक्षमुम् ‘‘नित्यं हि नास्ति’’ यॆन्गिऱ प्रमाणत्तिल् अवनुक्के नित्यत्वञ्जॊल्लुगैयाल् इन्द पक्षचतुष्टयमुम् घटियातॆण्ड्रुम् तिरुवुळ्ळम्.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+त्रिमूर्तिगळुम् समरॆण्ड्रुम्,  
+त्रिमूर्तिगळ् एकतत्त्वम् ऎण्ड्रुम्,  
+त्रिमूर्त्युत्तीर्णनीश्वरनॆण्ड्रुम्,  
+त्रिमूर्तिगळुक्कुळ्ळे ब्रह्मावादल्, रुद्रनादलीश्वरनादलॆण्ड्रुञ्  
+चॊल्लुगिऱ साम्यैक्योत्तीर्णव्यक्त्यन्तरपक्षङ्गळ् घटियादु. 
+
+</details>
+
+## ब्रह्मरुद्रादीनां कार्यत्व-कर्मवश्यत्वे
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मरुद्रादिगळ् सर्वेश्वरनुक्कुक् कार्यभूतर् ऎन्नुम् इडम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ब्रह्मरुद्रादयः सर्वेश्वरस्य कार्यभूता इत्येतत्-
+</details>
+
+<details><summary>English</summary>
+
+That Brahma, Rudra, and the like are created beings subject to karma may be seen in the following passages :-
+</details>
+
+<details><summary>Español</summary>
+
+That Brahma, Rudra, and the like are created beings subject to karma may be seen in the following passages :-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मरुद्रादिगळ् सर्वेश्वरनुक्कुक् कार्यभूतर् ऎन्नुम् इडम्,  
+</details>
+
+
+" The [^f178] purusha or person created by Him (Nārāyaṇa ) is called Brahma in the world". "Having [^f179] caused the dissolution of the worlds before, you lay on the waters of the great ocean and created me at first by your Māya (will)", " Brahma's name [^f180] is Ka and I, Isa rule over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)". Further Brahma says, "I was [^f181] born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Rudra are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following passages : -- "All the [^f182] gods sacrifice to Vāsudeva and all the gods bow to Vāsudeva." "Brahma, [^f183] Rudra and Indra, together with all other gods and the great rishis worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", " Meditating [^f184] constantly on the
 
 [^f173]:Mahābhārata: Śāntiparva 210-24
 
