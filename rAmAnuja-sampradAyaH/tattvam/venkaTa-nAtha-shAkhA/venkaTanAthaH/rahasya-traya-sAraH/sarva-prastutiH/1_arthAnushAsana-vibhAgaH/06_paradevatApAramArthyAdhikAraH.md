@@ -994,9 +994,53 @@ That Brahma, Rudra, and the like are created beings subject to karma may be seen
 “तद्विसृष्टस्स पुरुषो लोके ब्रह्मेति कीर्त्यते” (मनुस्मृति 1-11.) इत्यादिगळालुम्,
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “संक्षिप्य च पुरा लोकान्  
+मायया स्वयमेव हि ।  
+महार्णवे शयानोऽप्सु  
+मां त्वं पूर्वम् अजीजनः  
+(रामा -उत्. 104-4.), 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “संक्षिप्य च पुरा लोकान्  
+मायया स्वयमेव हि ।  
+महार्णवे शयानोऽप्सु  
+मां त्वं पूर्वम् अजीजनः  
+(रामा -उत्. 104-4.), 
+
+</details>
+
+<details><summary>English</summary>
+
+"Having [^f179] caused the dissolution of the worlds before,  
+you lay on the waters of the great ocean  
+and created me at first by your Māya (will)", 
+</details>
+
+<details><summary>Español</summary>
+
+"Having [^f179] caused the dissolution of the worlds before,  
+you lay on the waters of the great ocean  
+and created me at first by your Māya (will)", 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि तटस्थवचनत्तै युदाहरित्तु अदैक्काट्टिलुम् साधकतरमान ब्रह्मरुद्रवचनङ्गळैक् काट्टुगिऱार् संक्षिप्येत्यादिना । मध्यस्थवचनत्तैक्काट्टिलुम् विवादविषयर्गळान ब्रह्मादिकळुडैय वचनम् साधकतरमिऱे. ‘‘संक्षिप्य’’ ऎन्गिऱदु रामायणत्तिल् ब्रह्मवचनम्. मायया – सङ्कल्परूपज्ञानेन । 
+</details>
 
 
-"Having [^f179] caused the dissolution of the worlds before, you lay on the waters of the great ocean and created me at first by your Māya (will)", " Brahma's name [^f180] is Ka and I, Isa rule over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)". Further Brahma says, "I was [^f181] born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Rudra are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following passages : -- "All the [^f182] gods sacrifice to Vāsudeva and all the gods bow to Vāsudeva." "Brahma, [^f183] Rudra and Indra, together with all other gods and the great rishis worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", " Meditating [^f184] constantly on the
+<details><summary>मूलम्</summary>
+
+“संक्षिप्य च पुरा लोकान् मायया स्वयमेव हि । महार्णवे शयानोऽप्सु मां त्वं पूर्वमजीजनः (रामा -उत्. 104-4.), 
+</details>
+
+
+
+" Brahma's name [^f180] is Ka and I, Isa rule over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)". Further Brahma says, "I was [^f181] born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Rudra are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following passages : -- "All the [^f182] gods sacrifice to Vāsudeva and all the gods bow to Vāsudeva." "Brahma, [^f183] Rudra and Indra, together with all other gods and the great rishis worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", " Meditating [^f184] constantly on the
 
 [^f173]:Mahābhārata: Śāntiparva 210-24
 
