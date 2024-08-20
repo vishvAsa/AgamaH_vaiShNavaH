@@ -1038,6 +1038,27 @@ and created me at first by your Māya (will)",
 “संक्षिप्य च पुरा लोकान् मायया स्वयमेव हि । महार्णवे शयानोऽप्सु मां त्वं पूर्वमजीजनः (रामा -उत्. 104-4.), 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“क इति ब्रह्मणो नाम  
+ईशोऽहं सर्व-देहिनाम् ।  
+आवां तवाङ्गे संभूतौ  
+तस्मात् केशव-नामवान्" (हरिवंशम् 134-48.),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“क इति ब्रह्मणो नाम  
+ईशोऽहं सर्व-देहिनाम् ।  
+आवां तवाङ्गे संभूतौ  
+तस्मात् केशव-नामवान्" (हरिवंशम् 134-48.),  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“क इति ब्रह्मणो नाम ईशोऽहं सर्वदेहिनाम् । आवां तवाङ्गे संभूतौ तस्मात्केशवनामवान्" (हरिवंशम् 134-48.),  
+</details>
 
 
 " Brahma's name [^f180] is Ka and I, Isa rule over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)". Further Brahma says, "I was [^f181] born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Rudra are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following passages : -- "All the [^f182] gods sacrifice to Vāsudeva and all the gods bow to Vāsudeva." "Brahma, [^f183] Rudra and Indra, together with all other gods and the great rishis worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", " Meditating [^f184] constantly on the
