@@ -2,7 +2,7 @@
 title = "+Alt"
 
 +++
-
+(Better scan, more accurate OCR)
 
 श्रीः 
 
