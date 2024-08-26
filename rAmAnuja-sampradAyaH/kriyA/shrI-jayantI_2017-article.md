@@ -1,5 +1,5 @@
 +++
-title = "ShrI jayantI 2017 article"
+title = "ShrI-jayantI 2017 en"
 +++
 
 Śrīmate Raṅgarāmānuja Mahādeśikāya namaḥ 

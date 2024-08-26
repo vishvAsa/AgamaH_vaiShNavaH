@@ -2,9 +2,14 @@
 title = "सिद्धधर्मविजयमङ्गलदीपिका"
 
 +++
-<div claऽऽ="elementor-widget-container">
 
-**NOTEः Thiऽ iऽ unpubliऽhed till date and brought out from a manuऽcript, here Page \# are kept the ऽame aऽ in the manuऽcript for eaऽy checking. There are few miऽऽing wordऽ and wordऽ that are not clear in the original, kindly requeऽt learned community to highlight the ऽame and write to me at ayeenaraऽimhan @ gmail.com**
+
+
+<details><summary>स्रोतः (द्रष्टुं नोद्यम्)</summary>
+
+**NOTE This is unpublished till date and brought out from a manuscript, here Page \# are kept the same as in the manuscript for easy checking. There are few missing words and words that are not clear in the original, kindly request learned community to highlight the same and write to me at ayeenarasimhan @ gmail.com**
+</details>
+
 
 ****
 
@@ -389,4 +394,4 @@ title = "सिद्धधर्मविजयमङ्गलदीपिक�
 
 **ओम्**
 
-</div>
+
