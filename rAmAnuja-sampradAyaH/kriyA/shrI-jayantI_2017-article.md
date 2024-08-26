@@ -72,7 +72,7 @@ The following morning, the usual ārādhanam is performed; this considered speci
 ### Arghya
 
 - Being with mūlamantra prāOāyāma.
-- saṅkalpa - śrīkr̥ṣṇajayantī utsavārttaṁ arghyadānam kariṣye.
+- saṅkalpa - śrīkr̥ṣṇajayantī utsavārthaṁ arghyadānam kariṣye.
 - Arghya is offered with tender coconut water through a conch. If conch is not available, a leaf can be used to offer.
 - The conch is purified by sprinkling water on it accompanied to the chant of mūlamantra.
 - At the tip of the conch, Candra is invoked by reciting ‘candram āvāhayāmi’; at the bottom, Perumāḷ is invoked with the mantra ‘janārdhanam āvāhayāmi’.
@@ -95,9 +95,9 @@ dānavānāṁ vināśāya
 daityānāṁ nidanāya ca  
 pāṇḍavānāṁ hitārthāya  
 dharma-samsthāpanāya ca  
-yādavānāṁ ca rakṣārttam  
+yādavānāṁ ca rakṣārtham  
 vasudeva-kulodbhava  
-gr̥hāṇārghyaṁ mayādattaṁ  
+gr̥hāṇārghyaṁ mayā dattaṁ  
 devakyā sahito hare.
 
 - These śloka-s are mantra-s; hence, śrī tirukkuḍantai deśikan says these must be learned from a preceptor.
