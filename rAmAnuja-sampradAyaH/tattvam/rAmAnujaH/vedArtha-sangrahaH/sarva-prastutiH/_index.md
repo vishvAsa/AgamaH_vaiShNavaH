@@ -23,3 +23,14 @@ Source: [TW नीलमेघः](https://archive.org/details/VedarthaSangrahaO
 </details>
 
 
+<details><summary>नीलमेघः</summary>
+
+
+सम्पादक, मुद्रक, प्रकाशक  
+राघवाचार्य  
+प्रकाशक  
+आचार्यपीठ  
+मुद्रक  
+श्राचार्य प्रेस  
+बरेली (उत्तरप्रदेश)  
+</details>
