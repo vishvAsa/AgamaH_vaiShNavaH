@@ -1918,8 +1918,58 @@ They are not pure and are not objects for spiritual meditation (subhasraya), for
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"Bhagavān [^f193] Hiranyagarbha (Brahma), Vasava (Indra) and Prajāpati ... ... ... all these gods and others are impure, their births being due to past karma" and again, "From Brahma[^f194] to the blade of grass, all beings that have their existence in the world have had their births as the result of karma and are subject to the cycle of births and deaths ( saṁsāra)" and further, “The [^f195] man who has no attachment (to the things of this world) should know that every being including Brahma is impure as being tainted by the ripening of karma -- to Him, Vāsudeva alone is the Supreme Goal or refuge." These statements have been made by Parāśara, Śaunaka, Śuka  and others. Brahma, Rudra and others have to seek Bhagavān's protection and Bhagavān has to seek nobody else's protection. This is clear from His own words :"The gods[^f196] are under the protection of Rudra, O King, and Rudra is under the protection of Brahma. Brahma is under my protection and I do not seek the protection of any one. There is no one that I need for my protection, for I am the refuge of all." These gods are among the great possessions (vibhūti) of Bhagavān, who is the Lord of both lilāvibhūti and nitya-vibhūti,) --- for it is said, “Brahma[^f197] Dakṣa and others, Kala, Rudra and the destroyer of Kala - all these are among the vibhūtis of Bhagavān," where Brahma and Rudra are spoken of as being on the same footing as Dakṣa and others.
+> “हिरण्यगर्भो भगवान् वासवोऽथ प्रजापतिः” (विष्णुधर्मम् 6-7) 
+
+ऎण्ड्रु तुडङ्गि  
+
+> “अशुद्धास्ते समस्तास्तु देवाद्याः कर्मयोनयः” (विष्णुधर्मम् 56-77) 
+
+ऎण्ड्र् उम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “हिरण्यगर्भो भगवान् वासवोऽथ प्रजापतिः” (विष्णुधर्मम् 6-7) 
+
+इत्य् आरभ्य
+
+> “अशुद्धास्ते समस्तास्तु देवाद्याः कर्मयोनयः” (विष्णुधर्मम् 56-77) 
+
+इति, 
+
+</details>
+
+
+<details><summary>English</summary>
+
+"Bhagavān [^f193] Hiranyagarbha (Brahma), Vasava (Indra) and Prajāpati ... ... ... all these gods and others are impure,  
+their births being due to past karma" 
+</details>
+
+<details><summary>Español</summary>
+
+"Bhagavān [^f193] Hiranyagarbha (Brahma), Vasava (Indra) and Prajāpati ... ... ... all these gods and others are impure,  
+their births being due to past karma" 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+हिरण्यगर्भ इति । हिरण्यगर्भः – चतुर्मुखः । प्रजापतिः – नवप्रजापतिकळ्, जात्येकवचनम्. कर्मयोनयः ऎण्ड्रु हेतुगर्भविशेषणम्. कर्मयोनित्वादशुद्धाः । शुभत्वरहिताः ऎण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“हिरण्यगर्भो भगवान् वासवोऽथ प्रजापतिः” (विष्णुधर्मम् 6-7) ऎण्ड्रु तुडङ्गि  
+“अशुद्धास्ते समस्तास्तु देवाद्याः कर्मयोनयः” (विष्णुधर्मम् 56-77) ऎण्ड्रुम्, 
+</details>
+
+
+
+and again, "From Brahma[^f194] to the blade of grass, all beings that have their existence in the world have had their births as the result of karma and are subject to the cycle of births and deaths ( saṁsāra)" and further, “The [^f195] man who has no attachment (to the things of this world) should know that every being including Brahma is impure as being tainted by the ripening of karma -- to Him, Vāsudeva alone is the Supreme Goal or refuge." These statements have been made by Parāśara, Śaunaka, Śuka  and others. Brahma, Rudra and others have to seek Bhagavān's protection and Bhagavān has to seek nobody else's protection. This is clear from His own words :"The gods[^f196] are under the protection of Rudra, O King, and Rudra is under the protection of Brahma. Brahma is under my protection and I do not seek the protection of any one. There is no one that I need for my protection, for I am the refuge of all." These gods are among the great possessions (vibhūti) of Bhagavān, who is the Lord of both lilāvibhūti and nitya-vibhūti,) --- for it is said, “Brahma[^f197] Dakṣa and others, Kala, Rudra and the destroyer of Kala - all these are among the vibhūtis of Bhagavān," where Brahma and Rudra are spoken of as being on the same footing as Dakṣa and others.
 
 [^f192]:  Mahābhārata: Śāntiparva: 350-19
 
