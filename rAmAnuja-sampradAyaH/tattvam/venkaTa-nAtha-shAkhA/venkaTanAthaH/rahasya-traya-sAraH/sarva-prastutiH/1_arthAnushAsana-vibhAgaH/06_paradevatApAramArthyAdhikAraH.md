@@ -458,7 +458,8 @@ Therefore, though the indwelling Supreme Self, Antaryāmin is one, the view that
 </details>
 
 
-## ब्रह्म-रुद्रादि-जीवता
+## ब्रह्म-रुद्रादि-स्थितिः
+### जीवता
 
 <details><summary>English</summary>
 
@@ -923,7 +924,7 @@ are against the pramāṇas.
 
 </details>
 
-## ब्रह्मरुद्रादीनां कार्यत्व-कर्मवश्यत्वे
+### कार्यत्व-कर्मवश्यत्वे
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1593,7 +1594,7 @@ he has been authorised by me, in the Vedas and the Sūtras, as fit to receive hi
 “यो मे यथा कल्पितवान् भागमस्मिन् महाक्रतौ । स तथा यज्ञभागार्हो वेदसूत्रे मया कृतः (भारतम् शान्तिपर्व 34-61)” इत्यादिगळिले प्रसिद्धम्.
 </details>
 
-## ब्रह्म-रुद्रादि-पारतन्त्र्यम्
+### पारतन्त्र्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवर्गळ् भगवन्-माया-परतन्त्रर् आय्  
@@ -1651,7 +1652,115 @@ All this may be understood from the incidents of the loss of the Vedas and other
 </details>
 
 
-"All the [^f190] gods beginning with Brahma, all men, and all animals are enveloped by the dense darkness of delusion arising from the whirlwind of Viṣṇu 's Maya (Prakṛti)," "The wise say that [^f191] these (positions) are the rewards of those who follow the good path of Satva, namely, Brahma and the other creators, and the deities presiding over karma, mahat and avyaktam"
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ब्रह्माद्यास् सकला देवा  
+मनुष्याः पशवस्तथा ।  
+विष्णु-माया-महावर्त-  
+गर्तान्ध-तमसा वृताः” (विष्णुपुराणम् 5-30-47)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “ब्रह्माद्यास् सकला देवा  
+मनुष्याः पशवस्तथा ।  
+विष्णु-माया-महावर्त-  
+गर्तान्ध-तमसा वृताः” (विष्णुपुराणम् 5-30-47)
+
+</details>
+
+
+
+<details><summary>English</summary>
+
+"All the [^f190] gods beginning with Brahma, all men, and all animals  
+are enveloped by the dense darkness of delusion  
+arising from the whirlwind of Viṣṇu 's Maya (Prakṛti)," 
+</details>
+
+<details><summary>Español</summary>
+
+"All the [^f190] gods beginning with Brahma, all men, and all animals  
+are enveloped by the dense darkness of delusion  
+arising from the whirlwind of Viṣṇu 's Maya (Prakṛti)," 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि ज्ञानसङ्कोचादिकळिल् वृत्तान्तङ्गळै युदाहरित्तु भगवन्मायापारवश्यतैयिलुम् ज्ञानसङ्कोचादिकळिलुम् वचनमुदाहरिक्किऱार् ब्रह्माद्याः इत्यादिना । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ब्रह्माद्यास्सकला देवा मनुष्याः पशवस्तथा । विष्णुमायामहावर्तगर्तान्धतमसावृताः” (विष्णुपुराणम् 5-30-47)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ब्रह्मा विश्वसृजो धर्मो  
+महान् अव्यक्तम् एव च +++(←तद्-अभिमानि-देवता-पदानि)+++।  
+उत्तमां सात्त्विकीम् एतां  
++++(कर्म-)+++गतिम् आहुर् मनीषिणः” (मनुस्मृति 12-50)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “ब्रह्मा विश्वसृजो धर्मो  
+महान् अव्यक्तम् एव च +++(←तद्-अभिमानि-देवता-पदानि)+++।  
+उत्तमां सात्त्विकीम् एतां  
++++(कर्म-)+++गतिम् आहुर् मनीषिणः” (मनुस्मृति 12-50) 
+</details>
+
+
+<details><summary>English</summary>
+
+"The wise say that [^f191] these (positions)  
+are the rewards  
+of those who follow the good path of Satva,  
+namely, Brahma and the other creators,  
+and the deities presiding over karma, mahat and avyaktam"
+</details>
+
+<details><summary>Español</summary>
+
+"The wise say that [^f191] these (positions)  
+are the rewards  
+of those who follow the good path of Satva,  
+namely, Brahma and the other creators,  
+and the deities presiding over karma, mahat and avyaktam"
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+विश्वसृजः – नवप्रजापतिकळ्. धर्मः – धर्मदेवतै. महानव्यक्तमॆण्ड्रदु तत्तदधिष्ठानदेवतापरम्. सात्विकीं – सत्वगुणप्रचुरां । गतिं – गम्यत इति गतिः प्राप्यमित्यर्थः इदनाल् ब्रह्मादिकळुक्कुम् पारवश्यम् सॊल्लप्पट्टदु. ब्रह्मा विश्वसृजो धर्मः महानव्यक्तमेव च इत्येतां मनीषिणः उत्तमां सात्विकीं गतिमाहुरित्यन्वयः । ऒरुवन् सत्वोत्तरनाय् उत्कटपुण्यङ्गळैप् पण्णिनालवनुक्कु सत्वोत्तरमान ब्रह्मशरीरादिकळ् मऱु जन्मत्तिल् प्राप्यङ्गळॆण्ड्रु तात्पर्यम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ब्रह्मा विश्वसृजो धर्मो महानव्यक्तमेव च । उत्तमां सात्विकीमेतां गतिमाहुर्मनीषिणः” (मनुस्मृति 12-50) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादिगळिलुम् सुव्यक्तम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्यादिषु च सुव्यक्तम् ॥
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिलुम् सुव्यक्तम्. 
+</details>
+
+
 
 [^f185]: Rāmāyaṇa Uttarakāṇḍa 104-7-8
 
@@ -1667,11 +1776,150 @@ All this may be understood from the incidents of the loss of the Vedas and other
 
 [^f191]: ManuSmr̥ti: 12-50
 
-THE OTHER GODS ARE THE SERVANTS
+### सेवकता
 
-OF BHAGAVĀN.
+THE OTHER GODS ARE THE SERVANTS OF BHAGAVĀN.
 
-That these (Brahma and Rudra) render service to the Lord, who is their inner self, with the help of the knowledge given to them by Him may be seen from the following śloka  : "These two[^f192] , who are the greatest among the gods, are considered to have been born (respectively) out of His (Bhagavān's) graciousness and wrath; and they perform the duties of creation and destruction in accordance with the lines laid down by Him." They are not pure and are not objects for spiritual meditation (subhasraya), for it has been said: "Bhagavān [^f193] Hiranyagarbha (Brahma), Vasava (Indra) and Prajāpati ... ... ... all these gods and others are impure, their births being due to past karma" and again, "From Brahma[^f194] to the blade of grass, all beings that have their existence in the world have had their births as the result of karma and are subject to the cycle of births and deaths ( saṁsāra)" and further, “The [^f195] man who has no attachment (to the things of this world) should know that every being including Brahma is impure as being tainted by the ripening of karma -- to Him, Vāsudeva alone is the Supreme Goal or refuge." These statements have been made by Parāśara, Śaunaka, Śuka  and others. Brahma, Rudra and others have to seek Bhagavān's protection and Bhagavān has to seek nobody else's protection. This is clear from His own words :"The gods[^f196] are under the protection of Rudra, O King, and Rudra is under the protection of Brahma. Brahma is under my protection and I do not seek the protection of any one. There is no one that I need for my protection, for I am the refuge of all." These gods are among the great possessions (vibhūti) of Bhagavān, who is the Lord of both lilāvibhūti and nitya-vibhūti,) --- for it is said, “Brahma[^f197] Dakṣa and others, Kala, Rudra and the destroyer of Kala - all these are among the vibhūtis of Bhagavān," where Brahma and Rudra are spoken of as being on the same footing as Dakṣa and others.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् तङ्गळुक्कु अन्तरात्माव् आन अवन् कॊडुत्त  
+ज्ञानादिगळैक् कॊण्डु  
+अवनुक्केवल् तेवै+++(=??)+++ सॆय्गिऱार्गळ् ऎन्नुम् इडम् …  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एते स्वेषामन्तरात्मना तेन प्रत्तानि ज्ञानादीन्य् अवलम्ब्य  
+तस्याऽऽज्ञा-कैङ्कर्यं कुर्वन्तीत्य् एतत् 
+</details>
+
+
+<details><summary>English</summary>
+
+That these (Brahma and Rudra) render service to the Lord,  
+who is their inner self,  
+with the help of the knowledge given to them by Him  
+may be seen from the following śloka  : 
+</details>
+
+<details><summary>Español</summary>
+
+That these (Brahma and Rudra) render service to the Lord,  
+who is their inner self,  
+with the help of the knowledge given to them by Him  
+may be seen from the following śloka  : 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इप्पडि ब्रह्मरुद्रर्गळ् कर्मवश्यर्गळाय् मायापरवशर्गळाय् ज्ञानसङ्कोचवान्गळायिरुन्दालवर्गळुक्कु सृष्टिसंहारकर्तृत्वङ् गूडुमो? ब्रह्मविष्णुरुद्रर्गळिल् मध्यवर्तियान विष्णुवे पूर्वावस्थैयिले सृष्ट्यादिकर्तृत्वेन ‘‘आद्यो नारायणो देवः’’ इत्यादिकळिले स्थापिक्कप्पट्टिरुक्क ब्रह्मादिकळुक्कु सृष्टिसंहारकर्तृत्वङ् गूडुम्बडिदानॆङ्ङनेयॆन्न वरुळिच्चॆय्गिऱार् इवर्गळित्यादिना । "तङ्गळुक्कु अन्तरात्मावान" ऎण्ड्रदाल् अन्तर्यामियान ऒरुवनुक्के साक्षात्सृष्ट्यादिकर्तृत्व मॆण्ड्रुम्, इवर्गळुक्कु प्रयोज्यकर्तृत्वम् मात्तिरमेयुळ्ळ तॆण्ड्रुम् ज्ञापितमागिऱदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् तङ्गळुक्कु अन्तरात्मावान अवन् कॊडुत्त ज्ञानादिगळैक्कॊण्डु अवनुक्केवल् तेवै सॆय्गिऱार्गळॆन्नुमिडम्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “एतौ द्वौ विबुध-श्रेष्ठौ  
+प्रसाद-क्रोधजौ स्मृतौ ।  
+तद्-आदर्शितपन्थानौ  
+सृष्टिसंहारकारकौ” (भारतम् शान्तिपर्व 350-19)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “एतौ द्वौ विबुध-श्रेष्ठौ  
+प्रसाद-क्रोधजौ स्मृतौ ।  
+तद्-आदर्शितपन्थानौ  
+सृष्टिसंहारकारकौ” (भारतम् शान्तिपर्व 350-19)
+</details>
+
+<details><summary>English</summary>
+
+"These two[^f192] , who are the greatest among the gods,  
+are considered to have been born (respectively) out of His (Bhagavān's) graciousness and wrath;  
+and they perform the duties of creation and destruction in accordance with the lines laid down by Him." 
+
+</details>
+
+<details><summary>Español</summary>
+
+"These two[^f192] , who are the greatest among the gods,  
+are considered to have been born (respectively) out of His (Bhagavān's) graciousness and wrath;  
+and they perform the duties of creation and destruction in accordance with the lines laid down by Him." 
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+"अवन् कॊडुत्त ज्ञानादिकळैक् कॊण्डॆन्बदाल् ज्ञानसङ्कोचादिकळैयुडैय इवर्गळुक्कुम् तदाहितज्ञानत्ताले सृष्ट्यादिकर्तृत्वङ्गूडु मॆण्ड्रु ज्ञापिक्कप्पट्टदु, "अवनुक्केवल् तेवै सॆय्गिऱार्गळ्" ऎन्बदाल् राजभृत्यन्यायत्ताले यिवर्गळ् सॆय्युम् सृष्टिसंहारङ्गळ् पराधीनङ्गळेयॊऴिय स्वतन्त्रमागच् चॆय्यप्पडुगिऱदुगळण्ड्रॆण्ड्रु ज्ञापिक्कप्पट्टदु, एवल्देवै - भृत्य-कृत्यम्, उक्तार्थत्तिल् प्रमाणङ्गाट्टुगिऱार् एतौ द्वावित्यादियाल्. ‘‘प्रसादक्रोधजौ’’ ऎण्ड्रु सृष्टिसंहाररूपकार्यङ्गळुक्कु मूलकारणम् सॊन्नबडि. ‘‘तदादर्शितपन्थानौ’’ ऎन्बदाल् इवर्गळ् स्वतन्त्रर्गळाग सृष्टिसंहारङ्गळैच् चॆय्गिऱार्गळल्लरॆण्ड्रुम् भगवानाले कॊडुक्कप्पट्ट ज्ञानशक्त्यादिरूपमार्गत्तैक्कॊण्डे सॆय्गिऱार्गळॆण्ड्रुञ् जॊल्लप्पडुवदाल् कीऴ्च्चॊन्न शङ्कैकळ् निरसिक्कप्पट्टदुगळ्. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“एतौ द्वौ विबुधश्रेष्ठौ प्रसादक्रोधजौ स्मृतौ । तदादर्शितपन्थानौ सृष्टिसंहारकारकौ” (भारतम् शान्तिपर्व 350-19)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु सॊल्लप्पट्टदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति प्रत्यपादि ॥
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु सॊल्लप्पट्टदु. 
+</details>
+
+### शुभाश्रयत्वाभावः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळुक्कु शुभाश्रयत्वमिल्लैय् ऎन्नुमिडत्तै 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषां शुभाश्रयत्वं नास्तीतीमम् अर्थं 
+</details>
+
+<details><summary>English</summary>
+
+They are not pure and are not objects for spiritual meditation (subhasraya), for it has been said: 
+</details>
+
+<details><summary>Español</summary>
+
+They are not pure and are not objects for spiritual meditation (subhasraya), for it has been said: 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इवर्गळुक्कु शुभाश्रयत्वमिल्लैयॆन्बदऱ्‌कु वचनङ्गळैक् काट्टुगिऱार् इवर्गळुक्कु इत्यादिना ।  
+शुभश्चाऽसावाश्रयश्च शुभाश्रयः ।  
+शुभत्वमावदु संसारनिवर्तकत्वम्.  
+आश्रयत्वमावदु योगयुक्किनुडैय चित्तालंबनत्वम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळुक्कु शुभाश्रयत्वमिल्लैय् ऎन्नुमिडत्तै 
+</details>
+
+
+
+"Bhagavān [^f193] Hiranyagarbha (Brahma), Vasava (Indra) and Prajāpati ... ... ... all these gods and others are impure, their births being due to past karma" and again, "From Brahma[^f194] to the blade of grass, all beings that have their existence in the world have had their births as the result of karma and are subject to the cycle of births and deaths ( saṁsāra)" and further, “The [^f195] man who has no attachment (to the things of this world) should know that every being including Brahma is impure as being tainted by the ripening of karma -- to Him, Vāsudeva alone is the Supreme Goal or refuge." These statements have been made by Parāśara, Śaunaka, Śuka  and others. Brahma, Rudra and others have to seek Bhagavān's protection and Bhagavān has to seek nobody else's protection. This is clear from His own words :"The gods[^f196] are under the protection of Rudra, O King, and Rudra is under the protection of Brahma. Brahma is under my protection and I do not seek the protection of any one. There is no one that I need for my protection, for I am the refuge of all." These gods are among the great possessions (vibhūti) of Bhagavān, who is the Lord of both lilāvibhūti and nitya-vibhūti,) --- for it is said, “Brahma[^f197] Dakṣa and others, Kala, Rudra and the destroyer of Kala - all these are among the vibhūtis of Bhagavān," where Brahma and Rudra are spoken of as being on the same footing as Dakṣa and others.
 
 [^f192]:  Mahābhārata: Śāntiparva: 350-19
 
