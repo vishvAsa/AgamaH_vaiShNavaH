@@ -63,7 +63,7 @@ that He (alone) can give mukti
 and that He is the object of blissful enjoyment for those who have attained mokṣa.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 ॥ श्रीः ॥  
 श्रीसारबोधिनीव्याख्यायां  
@@ -118,7 +118,7 @@ All 'reals' have been classified into matter ( Prakṛti), the individual self a
 on the basis of the differences among them pointed out before.  
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 
 मुन्नधिकारत्तिऱ् ‌चॊन्न चिदचिदीश्वरतत्वत्रयज्ञानत्तालेय् ए  
@@ -181,7 +181,7 @@ as in the words of the Alwar:
 > nor dream of any such god". 
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 ऒण्ड्रुम् तेवुमित्यादिकळिऱ्‌पडिये.  
 ऒण्ड्रुम् तेवुमॆन्गिऱ तिरुवाय्मॊऴि नालाम्बत्तिल् पत्तावदु तिरुवाय्मॊऴि.  
@@ -248,7 +248,7 @@ is mokṣa  possible of attainment without delay.
 So it is necessary to decide who is the Supreme Deity.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 इप्पडि वैमुख्यम् इल्लाद रुद्रभक्तनान परमैकान्तिक्कुम् 
 
@@ -315,7 +315,7 @@ since sentient and non-sentient things are known by the pramāṇas to be entire
 
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 इप्पडियनेग पक्षङ्गळ् प्रसक्तङ्गळागुम्बोदु इतरपक्षङ्गळिल् अनुपपत्तिकळै प्रकाशिप्पित्तालॊऴिय स्वपक्षत्तै निष्कर्षिक्कमुडियादे यॆन्न इतरपक्षङ्गळिले अनुपपत्तिकळै प्रकाशिप्पिक्किऱार् अव्विडत् तिलित्यादिना ॥  
 अव्विडत्तिल् - देवताविशेषत्तै निष्कर्षिक्किऱ विषयत्तिल्. चेतना-चेतनङ्गळुडैय अत्यन्तभेदम् प्रमाणसिद्धमागैयाले इति । इदनाल् मेले सॊल्लप्पोगिऱ पक्षत्तिऱ्‌कु अनुपपत्ति काट्टप्पट्टदु.  
@@ -361,7 +361,7 @@ the essential differences between the jīva and Iśvara cannot be ignored
 
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 इनि देवतैक्यमॆन्गिऱ पक्षङ् गूडादॆन्गिऱार् स्वभावसिद्धमान इत्यादियाल्. स्वभावसिद्धमानवॆन्बदाल् औपाधिक भेदवादनिरासः । 
 जीवेश्वरभेदमुम्. इदऱ्‌कु प्रामाणिकमागैयालॆन्बदोडन्वयम्. 
@@ -399,7 +399,7 @@ are based on the pramaṇas,
 because of their association with varied pleasures and pains.  
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 अप्पडिये इति । स्वाभाविकमागवेयॆण्ड्रबडि. 
 </details>
@@ -440,7 +440,7 @@ Therefore, though the indwelling Supreme Self, Antaryāmin is one, the view that
 </details>
 
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 सुखदुःखादिव्यवस्थैयाले प्रामाणिक मागैयाले इति ।  
 देवतैकळॆल्लामेगरागिल् ऎल्लोरुक्कुमॊरुविदमान सुखमो अल्लदु ऒरु विदमान दुःखमो इरुक्कवेण्डुमेयॊऴिय प्रत्येकम् व्यवस्थितमान सुखदुःखङ्गळ् कूडादॊऴियुमॆन्गिऱ प्रसङ्गम्वरुमागैयालुम् प्रत्येकम् सुखदुःखव्यवस्थैयिरुप्पदालुम् तदन्यथानुपपत्तियाले भेदमे प्रामाणिकमॆण्ड्रु करुत्तु.  
@@ -498,7 +498,7 @@ are created beings subject to the law of karma,
 as can be proved by pramāṇas. 
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 इनि श्लोकत्तिऱ्‌चॊन्न त्रिमूर्तिसाम्यैक्योत्तीर्णादिपक्षङ्गळै प्रमाणोपपत्तिप्रदर्शनत्ताले निरसिक्किऱार् इत्देवतैगळिल् इत्यादिना । प्रधानरागच्चॊल्लुगिऱ इति । प्रधानर्गळुक्के कार्यत्वकर्मवश्यत्वङ्गळाले जीवत्वम् सिद्धमानाल् इतरदेवतैगळुक्कु जीवत्वम् कैमुतिक सिद्धमॆण्ड्रु ज्ञापिक्कैक्काग प्रधानरागच्चॊल्लुगिऱ ऎण्ड्रु ब्रह्मादिकळुक्कु विशेषणम्.ब्रह्मरुद्रेन्द्रादिकळुक्कु ऎण्ड्रु कार्यनाय्, कर्मवश्यनाय् प्रसिद्धनान इन्द्रनैयुम् सेर्त्तॆडुत्तदु दृष्टान्तार्थम्. प्रामाणिकङ्गळागैयालुमिदि. 
 </details>
@@ -551,7 +551,7 @@ It has been said,
 
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 संप्रतिपन्न प्रमाणसिद्धङ्गळागैयालुमॆण्ड्रबडिः  
 इप्पडि ब्रह्मादिकळुक्कु कार्यत्वादिकळ् प्रामाणिकङ्गळॆण्ड्रु सॊल्लि भगवानुडैय जगत्कारणत्वत्तिल् प्रमाणङ्गळैक्काट्टुगिऱार् आभूतसंप्लव इत्यादिना । संप्लवः – लयः । आभूतसंप्लवः – व्यष्टिदेवादिकार्यङ्गळुक्कु समष्टियान पञ्चभूतङ्गळै यभिव्याप्य अदावदुः - अदु पर्यन्तम् लयः, तस्मिन् प्राप्ते, महान् – सप्तम्यर्थे प्रथमा; महतीति यावत् । महत्तत्त्वे प्रकृतौ प्रलीन इत्यन्वयः । अत्र पञ्चभूतमहत्तत्वमध्यवर्तिनामहंकारेन्द्रियादीनामपि लयः अर्थसिद्धः । एकस्तिष्ठति विश्वात्मा – व्यष्टिसमष्टिरूप-समस्तकार्यङ्गळुक्कुम् स्वस्वकारणे लयमिरुन्दालुम् तत्तदन्तर्यामियान भगवानॊरुवने लयसंबन्धमण्ड्रिक्के यिरुक्किऱान्. स तु नारायणः प्रभुः – तुः अवधारणे, नारायण एवेत्यर्थः । 
@@ -595,7 +595,7 @@ Again it is said,
 
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 इप्पडि सृष्टेः पूर्वम् विद्यमानतया नारायणनुक्कु जगत्कारणत्वत्तैच् चॊल्लि ब्रह्मादीनां स्रष्टृत्वेनापि जगत्कारणत्वत्तैच् चॊल्लुगिऱ प्रमाणत्तैक् काट्टुगिऱार् आद्यो नारायणो देवः इति । इङ्गु नारायणनुक्कु आद्यत्वम् सॊल्लुगैयाल् कारणत्वं सिद्धम्. 
 तस्मात् ब्रह्मा ततो भवः ऎन्गैयाले ब्रह्मादिकळुक्कु कार्यत्वम्, 
@@ -640,7 +640,7 @@ Again it is said,
 </details>
 
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 परो नारायणो देवः ऎन्गैयाले कारणत्वेन नारायणनुक्कु परत्वमुम्, तस्माज्जातश्चतुर्मुखः ऎन्गैयाल् चतुर्मुखनुक्कु अवरत्वमुम्, तस्मात् रुद्रोऽभवद्देवि ऎन्गैयाल् रुद्रनुक्कु अत्यन्तावरत्वमुम् सॊल्लप्पट्टदु.
 
@@ -693,7 +693,7 @@ for the protection of all beings."
 
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 ‘‘ब्रह्मविष्णुरुद्रेन्द्रास्ते सर्वे संप्रसूयन्ते’’ ऎन्गिऱ श्रुतियिल् ब्रह्मादिकळोडॊक्क भगवानुक्कुम् कार्यत्वम् तोण्ड्रविल्लैयो?  
 अदु स्वेच्छैयाले वन्द अवतारविशेषमागैयालुम् कर्मकृतोत्पत्तियै सॊल्लुगिऱदण्ड्रागैयालुम् बाधकावहमण्ड्रॆन्निलिदिल् प्रमाणमुण्डोवॆन्न वरुळिच्चॆय्गिऱार् ततस्त्वमपीत्यादियाल्. इदु चतुर्मुखवचनम्.
@@ -760,7 +760,7 @@ in His previous and original state.
 </details>
 
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 इप्पडि त्रिमूर्तिमध्यत्तिल् अवदरित्तवनुक्कु सर्वजगत्कारणत्व ङ्गूडुमोवॆन्नवरुळिच्चॆय्गिऱार् तन्नुडैय पूर्वावस्थैयाले इति । विष्णुत्वावस्थैयिले सर्वजगत्कारणत्वङ् गूडामल्बोनालुम् ‘‘परो नारायणो देवस्तस्माज्जातश्चतुर्मखः’’ ऎण्ड्रु सॊल्लप्पट्ट नारायणत्वावस्थैयिले अदु कूडुमॆण्ड्रु करुत्तु. इदनाल् त्रिमूर्तिमध्यस्थनान विष्णुविऱ्‌कु सर्वजगत्कारणत्वङ् गूडादागैयाल् इन्द त्रिमूर्त्युत्तीर्णनान ऒरुवनुक्के जगत्कारणत्वमुम् परदेवतात्वमुङ् गॊळ्ळवेण्डुमॆन्गिऱ उत्तीर्णब्रह्मवादियिनुडैय युक्तियुम् निरस्तमायिट्रु. 
 </details>
@@ -811,7 +811,7 @@ It is also said elsewhere,
 
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 नित्यं हीति । तं – नित्यदिव्यमङ्गळविग्रहविशिष्टतया प्रसिद्धम् । सनातनं – सर्वजगत्कारणभूतम् । वासुदेवमृते – वासुदेवं विना । जगति नित्यं नास्ति हि ।  
 </details>
@@ -832,7 +832,7 @@ It is also said elsewhere,
 इत्युक्तरीत्या स एव नित्य इत्यभिधानाच्च,
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 अवने नित्यनॆन्गैयालुमिति । तदितरङ्गळुक्कु नित्यत्वनिषेधत्ताले यवनुक्के नित्यत्वम् सिद्धमॆण्ड्रु करुत्तु.  
 
@@ -905,7 +905,7 @@ and the supremacy of a different member of the Trinity,
 are against the pramāṇas.  
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 कार्यत्वकर्मवश्यत्वङ्गळिल्लाद भगवानोडु ब्रह्मरुद्रर्गळुक्कु साम्यञ्जॊल्लुगिऱ पक्षमुम्, ऐक्यम् सॊल्लुगिऱ पक्षमुम्, अन्यतमरुक्कु ईश्वरत्वञ्जॊल्लुगिऱ पक्षमुम् निरस्तमागिऱदु. 
 
@@ -969,11 +969,6 @@ That Brahma, Rudra, and the like are created beings subject to karma may be seen
 </details>
 
 
-<details><summary>सायण-टीका</summary>
-
-ब्रह्मरुद्रर्गळुक्कु कार्यत्वञ्जॊल्लुगिऱ प्रमाणङ्गळै यरुळिच्चॆय्गिऱार् तद्विसृष्टः इत्यादिना । इदु मनुवचन मागैयाले तटस्थम्. तद्विसृष्टः – अन्द नारायणनाले सृष्टिक्कप्पट्ट, सः – अन्द चतुर्मुखपुरुषन्. लोकत्तिल् ब्रह्मावॆण्ड्रु सॊल्लप्पडुगिऱान्. इत्यादिकळालुमिति. आदिपदत्ताल् ‘‘यन्नाभिजातादरविन्दकोशाद्ब्रह्माऽऽविरासीद्यत एष लोकः’’ इत्यादियान श्रीशुकादिमहर्षिवचनङ्गळुक्कु ग्रहणम्. 
-</details>
-
 <details><summary>English</summary>
 
 
@@ -988,6 +983,11 @@ That Brahma, Rudra, and the like are created beings subject to karma may be seen
 > is called Brahma in the world".
 </details>
 
+
+<details><summary>सारबोधिनी</summary>
+
+ब्रह्मरुद्रर्गळुक्कु कार्यत्वञ्जॊल्लुगिऱ प्रमाणङ्गळै यरुळिच्चॆय्गिऱार् तद्विसृष्टः इत्यादिना । इदु मनुवचन मागैयाले तटस्थम्. तद्विसृष्टः – अन्द नारायणनाले सृष्टिक्कप्पट्ट, सः – अन्द चतुर्मुखपुरुषन्. लोकत्तिल् ब्रह्मावॆण्ड्रु सॊल्लप्पडुगिऱान्. इत्यादिकळालुमिति. आदिपदत्ताल् ‘‘यन्नाभिजातादरविन्दकोशाद्ब्रह्माऽऽविरासीद्यत एष लोकः’’ इत्यादियान श्रीशुकादिमहर्षिवचनङ्गळुक्कु ग्रहणम्.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -1027,11 +1027,10 @@ you lay on the waters of the great ocean
 and created me at first by your Māya (will)", 
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सारबोधिनी</summary>
 
 इप्पडि तटस्थवचनत्तै युदाहरित्तु अदैक्काट्टिलुम् साधकतरमान ब्रह्मरुद्रवचनङ्गळैक् काट्टुगिऱार् संक्षिप्येत्यादिना । मध्यस्थवचनत्तैक्काट्टिलुम् विवादविषयर्गळान ब्रह्मादिकळुडैय वचनम् साधकतरमिऱे. ‘‘संक्षिप्य’’ ऎन्गिऱदु रामायणत्तिल् ब्रह्मवचनम्. मायया – सङ्कल्परूपज्ञानेन । 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1054,6 +1053,27 @@ and created me at first by your Māya (will)",
 तस्मात् केशव-नामवान्" (हरिवंशम् 134-48.),  
 </details>
 
+<details><summary>English</summary>
+
+" Brahma's name [^f180] is Ka  
+and I, Isa rule over all embodied beings.  
+We two were born from your limbs.  
+Therefore you are called Keśava (Ka and Isa)". 
+</details>
+
+<details><summary>Español</summary>
+
+" Brahma's name [^f180] is Ka  
+and I, Isa rule over all embodied beings.  
+We two were born from your limbs.  
+Therefore you are called Keśava (Ka and Isa)".
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+क इतीति । इदु हरिवम्शत्तिल् रुद्रवचनम्. इप्पडि ब्रह्मरुद्रर्गळ् भगवानिडत्तिल् नेरिल् विण्णप्पम् सॆय्द वचनङ्गळै युदाहरित्तु अवर्गळ् सहृदयमाग परोक्षत्तिल् तङ्गळै भगवानिडत्तिल् निण्ड्रुम् उण्डानवर्गळागच् चॊल्लुम् वचनत्तै युदाहरिक्किऱार् अहं प्रसादजः इति । इदु भारतत्तिल् रुद्रनिडत्तिल् ब्रह्मा सॊन्न वचनम्. इङ्गु मध्यस्थवचनम् प्रकृतमान ब्रह्मादिकार्यत्व पक्षसाधकम्. ऎदिरिगळ् नेरिल् सॊन्न वचनम् साधकतरम्. ऎदिरिगळ् परस्परम् परोक्षत्तिल् सॊल्लिक्कॊण्डदागच् चॊन्न वचनम् साधकतममॆण्ड्रु क्रमनिर्देशत्तिऱ्‌कु तात्पर्यम्. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1061,7 +1081,245 @@ and created me at first by your Māya (will)",
 </details>
 
 
-" Brahma's name [^f180] is Ka and I, Isa rule over all embodied beings. We two were born from your limbs. Therefore you are called Keśava (Ka and Isa)". Further Brahma says, "I was [^f181] born from His graciousness for some reason and you, from His wrath, for some other reason, in one of the earlier creations." The very words of these rival gods, which are, so to say, a deed of release written with their own hands, declare this truth. That Brahma and Rudra are subject to karma and attained their high status, because of having worshipped the Lord of all with special rites, may be seen from the following passages : -- "All the [^f182] gods sacrifice to Vāsudeva and all the gods bow to Vāsudeva." "Brahma, [^f183] Rudra and Indra, together with all other gods and the great rishis worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", " Meditating [^f184] constantly on the
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अहं प्रसादजस् तस्य  
+> कस्मिंश्चित् कारणान्तरे ।  
+> त्वं चैव क्रोधजस् तात  
+> पूर्वसर्गे सनातने” (भारतम् शान्तिपर्व 352-62.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “अहं प्रसादजस् तस्य  
+> कस्मिंश्चित् कारणान्तरे ।  
+> त्वं चैव क्रोधजस् तात  
+> पूर्वसर्गे सनातने” (भारतम् शान्तिपर्व 352-62.)
+</details>
+
+<details><summary>English</summary>
+
+Further Brahma says,  
+
+> "I was [^f181] born from His graciousness for some reason  
+> and you, from His wrath, for some other reason, in one of the earlier creations." 
+
+</details>
+
+<details><summary>Español</summary>
+
+Further Brahma says,  
+
+> "I was [^f181] born from His graciousness for some reason  
+> and you, from His wrath, for some other reason, in one of the earlier creations." 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कस्मिंश्चित्कारणान्तर इति । इदु ‘‘अहं प्रसादजः’’ ऎन्गिऱविडत्तिलुमन्वयिक्किऱदु. तृतीयार्थे सप्तमी । प्रसादक्रोधहेतुभूतकर्मविशेषेणेत्यर्थः । ऎदिरि कैयाले - प्रतिवादि कैयाल्. विडुदीट्टु - कडनाळिक्कुक्कॊडुत्त विडुदलैच्चीट्टु. अवर्गळ् तङ्गळ् पासुरङ्गळालुमिदि. अवर्गळे तमक्कु कार्यत्वमेयुळ्ळदु; कारणत्वमिल्लैयॆण्ड्रु कैयॊप्पमिट्ट विडुदलै सीट्टुप्पोलिरुक्किऱ पासुरङ्गळालुम्; वचनङ्गळालुमॆण्ड्रबडि.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अहं प्रसादजस्तस्य कस्मिंश्चित् कारणान्तरे । त्वं चैव क्रोधजस्तात पूर्वसर्गे सनातने” (भारतम् शान्तिपर्व 352-62.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु ऎदिरि+++(=स्पर्धक)+++-कैयाल् ए विडु-दीट्ट्+++(=पत्त्रम्)+++ आनप् पडिय् एय्  
+अवर्गळ् तङ्गळ् पासुरङ्गळाल् उम् सिद्धम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति प्रतिवादि-हस्त-लिखित-विवाद-त्याग-पत्र-नीत्या  
+तेषाम् एव वचोभिश् च सिद्धम् ।
+</details>
+
+<details><summary>English</summary>
+
+The very words of these rival gods,  
+which are, so to say, a deed of release written with their own hands,  
+declare this truth. 
+
+</details>
+
+<details><summary>Español</summary>
+
+The very words of these rival gods,  
+which are, so to say, a deed of release written with their own hands,  
+declare this truth. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु ऎदिरि कैयाले विडुदीट्टानप्पडिये यवर्गळ् तङ्गळ् पासुरङ्गळालुम् सिद्धम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् कर्म-वश्यर् आय्  
+सिल कर्म-विशेषङ्गळाल् ए  
+सर्वेश्वरनै आराधित्तुत् तन्-दाम् पदङ्गळ् पॆट्रार्गळ् ऎन्नुम् इडम् …
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एते कर्मवश्याः सन्तः  
+कैश्चित् कर्मविशेषैः  
+सर्वेश्वरम् आराध्य  
+स्वस्वपदानि प्रापुर् इत्य् एतत्
+</details>
+
+<details><summary>English</summary>
+
+That Brahma and Rudra are subject to karma  
+and attained their high status,  
+because of having worshipped the Lord of all with special rites,  
+may be seen from the following passages : -- 
+</details>
+
+<details><summary>Español</summary>
+
+That Brahma and Rudra are subject to karma  
+and attained their high status,  
+because of having worshipped the Lord of all with special rites,  
+may be seen from the following passages : -- 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि ब्रह्मरुद्रादिकळुडैय कार्यत्वत्तिल् वचनङ्गळै युदाहरित्तु इवर्गळुडैय कर्मवश्यतैयिल् प्रमाणङ्गळैक् काट्टप् पोगिऱवरायदिन् विषयङ्गळै संग्रहेण उपक्षेपिक्किऱार्  
+"इवर्गळ् कर्मवश्यराय् सिल कर्मविशेषङ्गळाले सर्वेश्वरनै आराधित्तुत् तन्दाम् पदङ्गळ् पॆट्रार्गळॆन्नु मिडम्" इति ।  
+कर्मवश्यतै यिरण्डु विदम्.  
+अदावदु कर्मविशेषानुष्ठानत्तिनाले तङ्गळ् तङ्गळुडैय अधिकारप्राप्तियुम्, अधिकारम् पॆट्रबिऱगु विहितङ्गळान यज्ञादिकळै यनुष्ठिप्पदुमॆण्ड्रु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् कर्म-वश्यर् आय् सिल कर्मविशेषङ्गळाले सर्वेश्वरनै आराधित्तुत् तन्दाम् पदङ्गळ् पॆट्रार्गळॆन्नुमिडम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “सर्वे देवा वासुदेवं यजन्ते  
+सर्वे देवा वासुदेवं नमन्ते”
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “सर्वे देवा वासुदेवं यजन्ते  
+सर्वे देवा वासुदेवं नमन्ते”
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सर्वे देवा इति । इङ्गु सर्वशब्दम् वासुदेवव्यतिरिक्तसर्वदेवविषयमागैयाल् ब्रह्मरुद्रर्गळुक्कुम् इतरदेवतैकळुक्कुप् पोले वासुदेवयजनमुम् वासुदेवनमनमुम् सिद्धिक्किऱदॆण्ड्रु करुत्तु. 
+</details>
+
+<details><summary>English</summary>
+
+"All the [^f182] gods sacrifice to Vāsudeva  
+and all the gods bow to Vāsudeva." 
+</details>
+
+<details><summary>Español</summary>
+
+"All the [^f182] gods sacrifice to Vāsudeva  
+and all the gods bow to Vāsudeva." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सर्वे देवा वासुदेवं यजन्ते सर्वे देवा वासुदेवं नमन्ते”
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“स-ब्रह्मकास् स-रुद्राश् च  
+सेन्द्रा देवा महर्षयः ।  
+**अर्चयन्ति** सुरश्रेष्ठं  
+देवं नारायणं हरिम्” (भारतम् शान्तिपर्व 350-30), 
+</details>
+
+<details><summary>English</summary>
+
+"Brahma, [^f183] Rudra and Indra,  
+together with all other gods and the great rishis  
+worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", 
+</details>
+
+<details><summary>Español</summary>
+
+"Brahma, [^f183] Rudra and Indra,  
+together with all other gods and the great rishis  
+worship the divine Nārāyaṇa  or Hari, the greatest of Gods ", 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+असङ्कोचेन ब्रह्मरुद्रादि देवर्गळैच् चॊल्लुगिऱ सर्वशब्दघटितवचनत्तै युदाहरित्तु ब्रह्मरुद्रादिशब्दघटितङ्गळान वचनङ्गळैयुदाहरिक्किऱार् सब्रह्मका इति । इदु भारतत्तिल् शान्तिपर्ववचनम्. इङ्गु अप्राधान्यन् दोट्र सब्रह्मकास्सरुद्राः ऎण्ड्रु सॊन्नदु सुरश्रेष्ठनान नारायणनुडैय अर्चनाविषयत्ति लितरदेवादिकळुक्कुम् ब्रह्मादिकळुक्कुम् वासियिल्लैयॆण्ड्रु तोट्रुगैक्काग. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सब्रह्मकास्सरुद्राश्च सेन्द्रा देवा महर्षयः ।  
+अर्चयन्ति सुरश्रेष्ठं देवं नारायणं हरिम्” (भारतम् शान्तिपर्व 350-30), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “चिन्तयन्तो हि यं नित्यं  
+ब्रह्मेशानादयः प्रभुम् ।  
+निश्चयं नाधिगच्छन्ति  
+तम् अस्मि शरणं गतः” (भारतम् शान्तिपर्व 210-33),
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “चिन्तयन्तो हि यं नित्यं  
+ब्रह्मेशानादयः प्रभुम् ।  
+निश्चयं नाधिगच्छन्ति  
+तम् अस्मि शरणं गतः” (भारतम् शान्तिपर्व 210-33),
+
+</details>
+
+<details><summary>English</summary>
+
+" Meditating [^f184] constantly on the Lord,  
+Brahma, Isana (Rudra) and others have not yet attained to a realisation of His nature.  
+It is He whose protection I seek." 
+</details>
+
+<details><summary>Español</summary>
+
+" Meditating [^f184] constantly on the Lord,  
+Brahma, Isana (Rudra) and others have not yet attained to a realisation of His nature.  
+It is He whose protection I seek." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि सर्वदेवतैकळुक्कुम् वासुदेवयजनत्तैयुम् तन्नमनत्तैयुम् तदर्चनत्तैयुङ् गाट्टुगिऱ वचनङ्गळैयुदाहरित्तु तद्ध्यानत्तैच् चॊल्लुगिऱ वचनत्तैक् काट्टुगिऱार् चिन्तयन्तो हि यं नित्यमित्यादियाल्. नित्यं चिन्तयन्तः ऎन्बदाल् सार्वकालिकमानसकर्मानुष्ठानम् सॊल्लप्पट्टदु. निश्चयं नाधिगच्छन्ति ऎन्बदाल् निश्चयाधिगमविरोधिकर्मपरवशत्वम् सॊल्लप्पट्टदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“चिन्तयन्तो हि यं नित्यं ब्रह्मेशानादयः प्रभुम् । निश्चयं नाधिगच्छन्ति तमस्मि शरणं गतः” (भारतम् शान्तिपर्व 210-33),
+</details>
+
+
+
+
+
 
 [^f173]:Mahābhārata: Śāntiparva 210-24
 
@@ -1087,7 +1345,313 @@ and created me at first by your Māya (will)",
 
 [^f184]: Mahābhārata Śāntiparva 210-33
 
-Lord, Brahma, Isana (Rudra) and others have not yet attained to a realisation of His nature. It is He whose protection I seek." And Brahma says :- " Having [^f185] created me in the divine lotus in your navel shining like the sun, you have assigned to me all the duties of creation (of Prajāpati) and with this burden imposed on me, I worship you, the Lord of the Universe." And in another place, we find the following :- "Brahma, [^f186] born of the lotus, having worshipped Viṣṇu for thousands of crores of yugas, obtained again the position of the creator of the three worlds. This is what we have heard." So also it is said :-" [^f187] Mahadeva (Rudra), who is called Viswarupa, sacrificed all things in a great yajna called Sarvamedha and then sacrificed himself also mentally", "Mahadeva sacrificed himself in the Sarvamedha and became the god of gods. The [^f188] resplendent Rudra, clad in the skin of the elephant, reaches all the worlds with his knowledge and shines with his fame". "Since in this [^f189] great sacrifice, he gave me my share of the offering, he has been authorised by me, in the Vedas and the Sūtras, as fit to receive his share of the offerings." These gods, Brahma, Rudra and others are dependent upon the Maya of Bhagavān ((i.e.) Prakṛti) and are subject to the influence of the gunas (sattvam, rajas and tamas). Their knowledge is also subject to contraction and expansion. All this may be understood from the incidents of the loss of the Vedas and others and also from the following śloka  :-"All the [^f190] gods beginning with Brahma, all men, and all animals are enveloped by the dense darkness of delusion arising from the whirlwind of Viṣṇu 's Maya (Prakṛti)," "The wise say that [^f191] these (positions) are the rewards of those who follow the good path of Satva, namely, Brahma and the other creators, and the deities presiding over karma, mahat and avyaktam"
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “पद्मे दिव्ये ऽर्कसङ्काशे  
+नाभ्याम् **उत्पाद्य** माम् अपि ।  
+प्राजापत्यं त्वया कर्म  
+सर्वं मयि **निवेशितम्** ।  
+सोऽहं **सन्यस्त**-भारो हि  
+त्वाम् **उपासे** जगत्पतिम्” (रामा-उत्. 104-7,8), 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “पद्मे दिव्ये ऽर्कसङ्काशे  
+नाभ्याम् **उत्पाद्य** माम् अपि ।  
+प्राजापत्यं त्वया कर्म  
+सर्वं मयि **निवेशितम्** ।  
+सोऽहं **सन्यस्त**-भारो हि  
+त्वाम् **उपासे** जगत्पतिम्” (रामा-उत्. 104-7,8), 
+
+</details>
+
+<details><summary>English</summary>
+
+And Brahma says :- 
+
+> " Having [^f185] created me in the divine lotus in your navel shining like the sun,  
+> you have assigned to me all the duties of creation (of Prajāpati)  
+> and with this burden imposed on me, I worship you, the Lord of the Universe." 
+</details>
+
+<details><summary>Español</summary>
+
+And Brahma says :- 
+
+> " Having [^f185] created me in the divine lotus in your navel shining like the sun,  
+> you have assigned to me all the duties of creation (of Prajāpati)  
+> and with this burden imposed on me, I worship you, the Lord of the Universe." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पद्म इति । इङ्गु प्राजापत्यमित्यादियागवे प्रकृतत्तिलुदाहरिप्पदे यमैन्दिरुक्क पद्मे दिव्येति पूर्वार्धकथनम् कार्यत्वसहितकर्मवश्यत्वद्योतनार्थम्. प्राजापत्यं सर्वं कर्म – प्रजापतिपदत्तिलधिकृतनाले सॆय्यवेण्डिय सृष्टियुम् अण्डाधिपत्यम् मुदलानदुम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“पद्मे दिव्येऽर्कसङ्काशे नाभ्यामुत्पाद्य मामपि । प्राजापत्यं त्वया कर्म सर्वं मयि निवेशितम् । सोऽहं सन्यस्तभारो हि त्वामुपासे जगत्पतिम्” (रामा-उत्. 104-7,8), 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “युग-कोटि-सहस्राणि  
+विष्णुम् **आराध्य** पद्म-भूः ।  
+पुनस् त्रैलोक्य-धातृत्वं  
+**प्राप्तवान्** इति **शुश्रुम**”(पार-कुण्डधरोपाख्यानम्),
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “युग-कोटि-सहस्राणि  
+विष्णुम् **आराध्य** पद्म-भूः ।  
+पुनस् त्रैलोक्य-धातृत्वं  
+**प्राप्तवान्** इति **शुश्रुम**”(पार-कुण्डधरोपाख्यानम्),
+
+</details>
+
+<details><summary>English</summary>
+
+And in another place, we find the following :- 
+
+> "Brahma, [^f186] born of the lotus,  
+having worshipped Viṣṇu for thousands of crores of yugas,  
+obtained again the position of the creator of the three worlds.  
+This is what we have heard." 
+</details>
+
+<details><summary>Español</summary>
+
+And in another place, we find the following :- 
+
+> "Brahma, [^f186] born of the lotus,  
+having worshipped Viṣṇu for thousands of crores of yugas,  
+obtained again the position of the creator of the three worlds.  
+This is what we have heard." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि कर्मानुष्ठानत्ताले कर्मवश्यत्वप्रतिपादकङ्गळान वचनङ्गळैक् काट्टिकर्मविशेषानुष्ठानाधीन पदप्राप्तिरूपकर्मवश्यता प्रतिपादकवचनङ्गळै काट्टुगिऱार् युगकोटीत्यादिना ।  
+त्रैलोक्यधातृत्वम् – लोकत्रयस्रष्टृत्वम्.  
+पुनःप्राप्तवानित्यनेन ऒरु ब्रह्मा मोक्षेच्छैयण्ड्रिक्के स्वस्थानत्तिलेये रूढाभिलाषनाय् स्वस्थानलाभार्थम् युगकोटिसहस्रङ्गळ् भगवानै आराधित्तु मऱुजन्मत्तिलेयुम् स्वस्थानत्तैयडैन्दान् ऎन्गिऱवर्थम् द्योतितमागिऱदु. इङ्गु वसुपदत्तिलिरुक्किऱ ऒरुवन् पुनर्जन्मत्तिलुम् स्वस्थानमान वसुपदप्राप्तीच्छैयाल् वस्वाद्युपासनरूपैयान मधुविद्यैयै अनुष्ठिक्कलामॆण्ड्रुम् अदनालवनुक्कु मऱुजन्मत्तिलुम् वसुपदं किडैक्कलामॆण्ड्रुञ् जॊल्लुगिऱ मध्वधिकरणसिद्धान्तत्तै स्मरिप्पदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“युगकोटिसहस्राणि विष्णुमाराध्य पद्मभूः । पुनस्त्रैलोक्यधातृत्वं प्राप्तवानिति शुश्रुम”(पार-कुण्डधरोपाख्यानम्),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “विश्वरूपो महादेवस्  
+सर्वमेधे महाक्रतौ ।  
+**जुहाव** सर्वभूतानि  
+स्वयम् आत्मानम् आत्मना ॥ (भारतम् शान्तिपर्व 8-37),
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “विश्वरूपो महादेवस्  
+सर्वमेधे महाक्रतौ ।  
+**जुहाव** सर्वभूतानि  
+स्वयम् आत्मानम् आत्मना ॥ (भारतम् शान्तिपर्व 8-37),
+
+</details>
+
+
+<details><summary>English</summary>
+
+So also it is said :-
+
+> " [^f187] Mahadeva (Rudra), who is called Viswarupa,  
+sacrificed all things in a great yajna called Sarvamedha  
+and then sacrificed himself also mentally", 
+
+</details>
+
+<details><summary>Español</summary>
+
+So also it is said :-
+
+> " [^f187] Mahadeva (Rudra), who is called Viswarupa,  
+sacrificed all things in a great yajna called Sarvamedha  
+and then sacrificed himself also mentally", 
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+रुद्रविषयत्तिल् तादृशवचनङ्गळैक् काट्टुगिऱार् विश्वरूपो महादेवः इत्यादिना । सर्वमेधे – सर्वं मेध्यत्वेन हविष्ट्वेन कल्प्यते यस्मिन् यागे सः सर्वमेधः सर्वभूतहविष्कः क्रतुविशेषः । तस्मिन् महाक्रतौ । विश्वरूपनान महादेवः – रुद्रः, सर्वभूतानि जुहाव । स्वयमेवात्मानमपि । आत्मना – मनसा जुहाव । रुद्रन् भगवानाले तनक्कु विधिक्कप्पट्ट सर्वभूतसंहाररूपयागत्तिल् सर्वभूतङ्गळैयुम् तन्नात्मावैयुम् संहरित्तानॆण्ड्रबडि. इन्द वचनत्ताल् विचित्रकर्मानुष्ठातृत्वरूपमान कर्मवश्यत्वम् सॊल्लप्पट्टदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“विश्वरूपो महादेवस्सर्वमेधे महाक्रतौ । जुहाव सर्वभूतानि स्वयमात्मानमात्मना ॥ (भारतम् शान्तिपर्व 8-37),
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> महादेवस् सर्वमेधे महात्मा  
+हुत्वाऽऽत्मानं देवदेवो बभूव ।  
+विश्वान् लोकान् व्याप्य विष्टभ्य कीर्त्या  
+विराजते द्युतिमान् कृत्तिवासाः (भारतम् शान्तिपर्व 20-12), 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> महादेवस् सर्वमेधे महात्मा  
+हुत्वाऽऽत्मानं देवदेवो बभूव ।  
+विश्वान् लोकान् व्याप्य विष्टभ्य कीर्त्या  
+विराजते द्युतिमान् कृत्तिवासाः (भारतम् शान्तिपर्व 20-12), 
+
+</details>
+
+<details><summary>English</summary>
+
+> "Mahadeva sacrificed himself in the Sarvamedha  
+and became the god of gods.  
+The [^f188] resplendent Rudra,  
+clad in the skin of the elephant,  
+reaches all the worlds with his knowledge and shines with his fame". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Mahadeva sacrificed himself in the Sarvamedha  
+and became the god of gods.  
+The [^f188] resplendent Rudra,  
+clad in the skin of the elephant,  
+reaches all the worlds with his knowledge and shines with his fame". 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+महादेवः – देवश्रेष्ठनान रुद्रन्. सर्वमेधे – सर्वभूतसंहाररूपक्रतुविशेषत्तिल्. आत्मानं हुत्वा, देवदेवो बभूव – मऱुबडियुम् देवश्रेष्ठनाग आनान्. इदनालिवन् चतुर्मुखन्यायत्ताले महादेवनाग इरुन्दुवैत्ते सर्वसंहाररूपकर्मत्तै अनुष्ठित्तु देवदेवस्थानत्तै यडैन्दानॆण्ड्रु सॊल्लप्पट्टदु. 
+
+देवदेवत्वप्राप्तिमात्रमण्ड्रिक्के तत्समनियतफलान्तरत्तैयुङ् गाट्टुगिऱार् विश्वान् लोकानिति । अण्डान्तरवृत्तिसर्वलोकङ्गळैयुम्, व्याप्य विष्टभ्य – धर्मभूतज्ञानत्ताले व्यापित्तुम्, धरित्तुम्, कीर्त्या – अष्टमूर्ति ऎन्गिऱ यशस्साले. कृत्तिः – यानैत् तोल्. इन्द वचनत्तिल् रुद्रनुक्कु कर्मविशेषत्ताले स्थानप्राप्त्यादिरूपकर्मवश्यतै सॊल्लप् पट्टदु.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+महादेवस्सर्वमेधे महात्मा हुत्वाऽऽत्मानं देवदेवो बभूव । विश्वान् लोकान् व्याप्य विष्टभ्य कीर्त्या विराजते द्युतिमान् कृत्तिवासाः (भारतम् शान्तिपर्व 20-12), 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “यो मे यथा कल्पितवान्  
+भागम् अस्मिन् महाक्रतौ ।  
+स तथा यज्ञ-भागार्हो  
+वेद-सूत्रे मया कृतः (भारतम् शान्तिपर्व 34-61)” 
+
+इत्य्-आदिगळिल् ए प्रसिद्धम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “यो मे यथा कल्पितवान्  
+भागम् अस्मिन् महाक्रतौ ।  
+स तथा यज्ञ-भागार्हो  
+वेद-सूत्रे मया कृतः (भारतम् शान्तिपर्व 34-61)” 
+
+[[५८]]
+
+इत्यादिषु प्रसिद्धम् ॥
+</details>
+
+<details><summary>English</summary>
+
+> "Since in this [^f189] great sacrifice,  
+he gave me my share of the offering,  
+he has been authorised by me, in the Vedas and the Sūtras, as fit to receive his share of the offerings." 
+</details>
+
+<details><summary>Español</summary>
+
+
+> "Since in this [^f189] great sacrifice,  
+he gave me my share of the offering,  
+he has been authorised by me, in the Vedas and the Sūtras, as fit to receive his share of the offerings." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यो मे इति । ब्रह्मादिदेवतैकळाले अनुष्ठितङ्गळान क्रतुविशेषङ्गळाले प्रीतनान भगवानाले अन्दन्द देवतैगळुक्कु वरप्रदानरूपमान इन्द वचनम् महाभारतत्तिल् शान्तिपर्वत्तिल् नारायणीयस्थम्. अस्मिन् – महाक्रतौ, मे भागं यः यथा कल्पितवान् – ऎन्द मन्त्रद्रव्याङ्गादिकळोडे ऎप्पडिच्चॆय्दानो? ऎप्पडिक् कॊडुत्तानो ऎण्ड्रबडि. सः तथा –तादृशमन्त्रद्रव्याङ्गादिकळोडे विशिष्टमान यज्ञभागत्तुक्कु अर्हनाग, वेदसूत्रे – द्वंद्वैकवद्भावः । वेदत्तिलुम् आपस्तम्बादिसूत्रङ्गळिलुमॆन्नबडि. मया कृतः – आज्ञप्तः । इदनाल् सर्वदेवतैकळुक्कुम् यज्ञभागार्हत्वमे भगवानुडैय वरदानत्ताले लब्धमॆण्ड्रेऱ्‌पडुवदाल् कर्मविशेषाधीनफलप्राप्तिरूपम् कर्मवश्यत्वम् सर्वदेवतैकळुक्कुम् सॊल्लप्पट्टदु. इन्द प्रकरणत्तिल् ब्रह्मरुद्रादिकळुक्कु सामान्यतः उत्पत्त्यादिकळैच् चॊल्लुगिऱ वचनङ्गळैयु दाहरिक्कामल् ‘‘आद्यो नारायणो देवः, तस्मात् ब्रह्मा ततो भवः, परो नारायणो देवस्तस्माज्जातश्चतुर्मुखः, तस्मात् रुद्रोऽभवत् ऎण्ड्रु भगवानिडत्तिल् निण्ड्रुम् उत्पत्त्यादिकळैच् चॊल्लुगिऱ वचनङ्गळैयेयुदाहरित्तदुम्, इप्पडिये ब्रह्मरुद्रादिकळुडैय सामान्यतः कर्मप्रतिपादकवचनङ्गळै युदाहरिक्कामल् भगवानैयुत्तेसित्तुच् चॆय्युम् यजनार्चनचिन्तनादिरूपकर्मप्रतिपादकवचनङ्गळैये उदाहरित्तदुम्, भगवदधीनपदप्राप्तिरूपकर्मवश्यताप्रतिपादकवचनङ्गळैये उदाहरित्तदुम्, उत्पाद्यर्गळान ब्रह्मरुद्रादिकळुक्कुम् उत्पादकनान भगवानुक्कुम्,, इप्पडिये अर्च्यनुक्कुम् अर्चकनुक्कुम्, नन्तव्यनुक्कुम् नन्तावुक्कुम्, स्थानादिदातावुक्कुम् तत्प्रतिग्रहीतावुक्कुम्, साम्यमुम्, ऐक्यमुम्, विकल्पमुम् सुतरां बाधितमॆण्ड्रु ज्ञापिक्कैक्काग. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+“यो मे यथा कल्पितवान् भागमस्मिन् महाक्रतौ । स तथा यज्ञभागार्हो वेदसूत्रे मया कृतः (भारतम् शान्तिपर्व 34-61)” इत्यादिगळिले प्रसिद्धम्.
+</details>
+
+## ब्रह्म-रुद्रादि-पारतन्त्र्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् भगवन्-माया-परतन्त्रर् आय्  
+गुणवश्यर् आय्  
+ज्ञान-सङ्कोच-विकासवान्गळ् आय् इरुप्पार्गळ्  
+
+ऎन्नुम् इडम् +++(महाभारतस्थ-)+++वेदापहारादि-वृत्तान्तङ्गळिल् उम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एते भगवन्-माया-परतन्त्राः गुण-वश्याः  
+ज्ञान-संकोच-विकासवन्तश् च सन्तीत्य् एतत्  
+वेदापहारादिवृत्तान्तेषु, 20 
+</details>
+
+<details><summary>English</summary>
+
+These gods, Brahma, Rudra and others are dependent upon the Maya of Bhagavān ((i.e.) Prakṛti)  
+and are subject to the influence of the gunas (sattvam, rajas and tamas).  
+Their knowledge is also subject to contraction and expansion.  
+All this may be understood from the incidents of the loss of the Vedas and others and also from the following śloka  :-
+</details>
+
+<details><summary>Español</summary>
+
+These gods, Brahma, Rudra and others are dependent upon the Maya of Bhagavān ((i.e.) Prakṛti)  
+and are subject to the influence of the gunas (sattvam, rajas and tamas).  
+Their knowledge is also subject to contraction and expansion.  
+All this may be understood from the incidents of the loss of the Vedas and others and also from the following śloka  :-
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इप्पडि कर्मवश्यतैयिल् वचनङ्गळै युदाहरित्तु इवर्गळुक्कु मायापारवश्यादिकळुमुण्डॆन्बदै वृत्तान्तमुखत्तालुम्, वचनविशेषत्तालुम् निरूपिक्किऱार् इवर्गळित्यादिना । माया – प्रकृतिः । इङ्गु मायापरतन्त्ररॆण्ड्रिव्वळवे सॊल्लामल् भगवन्मायापरतन्त्ररॆण्ड्रु सॊन्नदु तन्मायापरतन्त्रर्गळुक्कु तत्साम्यम् तदैक्यङ्गूडादॆन्गैक्काग. अन्द पारतन्त्र्यकार्यत्तैक् काट्टुगिऱार् गुणवश्यरायिदि. अदिन् कार्यत्तै यरुळिच्चॆय्गिऱार् ज्ञानसङ्कोचविकासवान्गळा यिरुप्पार्गळिदि. इदिल् ज्ञानसङ्कोचविकासङ्गळुक्कु वेदापहारादि-वृत्तान्तम् प्रमाणमॆन्गिऱार् वेदापहारादि वृत्तान्तङ्गळिलुमिदि. वेदापहारवृत्तान्तमावदु शान्तिपर्वत्तिल् तिरुनारायणीयत्तिल् सॊल्लप्पट्टदु. 
+
+अदावदु ब्रह्मा भगवन्नाभीकमलत्तिलिरुन्दु  
+चतुर्वेदङ्गळैयुम् सॊल्लिक्कॊण्डिरुक्कुम्बोदु  
+विग्रहवत्तुक्कळान अन्द वेदङ्गळै  
+रजस्तमोगुणविशिष्टर्गळाय् बलवान्गळायिरुक्किऱ इरण्डु असुरर्गळ्  
+अन्द नाभीकमलत्तिल् नाळत्तिन् वऴियाग वन्दु  
+ब्रह्मा पार्त्तुक् कॊण्डिरुक्कुम् पोदे अपहरित्तुक्कॊण्डु  
+रसातलत्तिऱ्‌कुप् पोय्विट्टार्गळ्.  
+पिऱगु ब्रह्मा वेदहीनराय् भगवानैप्पार्त्तु ऎन्नुडैय वेदङ्गळॆल्लाम् असुरर्गळाल् बलात्कारत्ताले अपहरिक्कप्पट्टदुगळ्;  
+ऎनक्कु वेदमे उत्कृष्टमान नेत्रम्; उत्कृष्टमान धनम्;  
+नान् आसैप्पडुम् वस्तुक्कळिल् उत्कृष्टमान वस्तु अदुवे;  
+उत्तमनान ब्रह्मभूतनान नीरुमदुवे ऎण्ड्रु सॊल्लप्पट्ट वृत्तान्तम्.  
+इन्द वृत्तान्तत्तिल् ‘‘अन्धकारा इमे लोकाः जाता वेदैर्विवर्जिताः’’ इत्यादिकळाले ज्ञानसङ्कोचम् स्पष्टमागच् चॊल्लप्पट्टदु. इङ्गु आदिपदत्ताल् गुरुपातकग्रहणम्. गुरुपातकवृत्तान्तमावदु मात्स्यपुराणत्तिल् (रुद्रः) ‘‘ततः क्रोधपरीतेन संरक्तनयनेन च । वामाङ्गुष्ठनखाग्रेण छिन्नं तस्य शिरो मया । (ब्रह्मा) यस्मादनपराधस्य शिरश्छिन्नं त्वया मम । तस्माच्छापसमायुक्तः कपाली त्वं भविष्यसि ॥ ब्रह्महाऽऽकुलितो भूत्वा चरन् तीर्थानि भूतले । ऎण्ड्रारम्बित्तु सॊल्लप्पट्टदु. इङ्गु क्रोधपरीतनॆन्गैयालुम् ब्रह्महाऽऽकुलितः ऎन्गैयालुम् गुणवश्यतैयुम् ज्ञानसङ्कोचादिकळुञ् जॊल्लप्पट्टदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् भगवन्मायापरतन्त्रराय् गुणवश्यराय् ज्ञानसङ्कोचविकासवाङ्गळायिरुप्पार्गळॆन्नुमिडम् वेदापहारादिवृत्तान्तङ्गळिलुम्,
+</details>
+
+
+"All the [^f190] gods beginning with Brahma, all men, and all animals are enveloped by the dense darkness of delusion arising from the whirlwind of Viṣṇu 's Maya (Prakṛti)," "The wise say that [^f191] these (positions) are the rewards of those who follow the good path of Satva, namely, Brahma and the other creators, and the deities presiding over karma, mahat and avyaktam"
 
 [^f185]: Rāmāyaṇa Uttarakāṇḍa 104-7-8
 
