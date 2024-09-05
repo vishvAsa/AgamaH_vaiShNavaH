@@ -79,6 +79,19 @@ Vijay read an article which made the following points:
 - naDAtUr ALvan (रामानुज-"प्रिय"-भागिनेयः)
 - Mudali Andan (रामानुज-भागिनेयः).
 
+### रामायण-व्याख्यानम्
+SV-s are able to extract their philosophy from rAmAyaNa, dissecting each word or turn of phrase (often imputing gestures alongside the words).  
+Ramanuja is said to have studied the Ramayana from Peria Tirumalai Nambi in this way 18 times.
+
+शरणागतिशास्त्रप्रकाशकं रामायणम् इति मन्यन्ते।  
+तत्राङ्गानां विस्तारो भगवच्छास्त्र(=पाञ्चरात्र)सुलभः, द्राविड-दिव्य-सूरि-गाथास्व् अपि प्रोक्ताः।  
+तत्रोक्त-लक्षणानि रामायण-प्रसङ्गेषु लक्ष्यन्ते। ततः "भगवच्-छास्त्रादि-परामर्शम् पण्णिनवर्गळ्" इति प्रयोगः। (आदिशब्देन +इतिहासपुराणानि गृह्यन्ते। )  
+पुनः तिरुवाय्-मुऴि-व्याख्यानेषु रामायण-कथा-भागा लक्षिताः।  
+कुरुगेश-व्याख्याने रामानुज-प्राप्तोपदेशा वर्तन्त इति श्रूयते।  
+तद् एव "ईडु"-ग्रन्थे विस्तृतम्।  
+The idea that is "very diff" in (some places of) IDu is the supposed "prapatti is all mental" (which finds no place in rAmAyaNa).
+
+
 ## वेदान्त-देशिकं यावत्
 आत्रेय-रामानुजः आपुल्लार् किडाम्बिकुलः (रामानुज इव चैत्रमासार्द्रायां जातः) → तद्-भगिनी-पुत्रो वेदान्तदेशिको **वेङ्कटनाथः**  
 इति नाना-भाष्यादि-परम्परा-मूलम् अत्र॥
@@ -185,5 +198,6 @@ Acharya-hrdayam was composed by lokAchArya's younger brother.
 
 ### शूल-पुण्ड्रम्
 सच्-चरित्र-रक्षायां वेदान्त-देशिकेन दक्षिण-कलार्येषु प्रसिद्धं शूलष्पुण्ड्रम् नोल्लिखितम् इति बहवः। 
+
 
 
