@@ -29,6 +29,13 @@ title = "०५ तत्त्व-त्रय-चिन्तनाधिक�
 (5) THE CHAPTER ON THE THREE 'REALS'  (OR TATVAS) page107
 </details>
 
+<details><summary>Español</summary>
+
+(5) El capítulo sobre los tres 'reinos' (o tattvas) Página 107
+</details>
+
+
+
 ## प्रयोजनम्
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -48,7 +55,8 @@ So also the disputes on such questions as the unity of the jīva and God will no
 when the characteristic features of each of them are marked out.  
 Our ācārya-s, whose wisdom never failed,  
 teach us about the existence of three realities (Tattvas)  
-classified in the s'āstrās as the experiencing subjects (bhoktā), 
+classified in the s'āstrās  
+as the experiencing subjects (bhoktā), 
  the objects of experience and enjoyment (bhogyam)  
 and He who rules over both of them (Iśvara).
 
@@ -56,16 +64,17 @@ and He who rules over both of them (Iśvara).
 
 <details><summary>Español</summary>
 
-The delusion that the soul is nothing but the body and the senses (prakṛti)  
-disappears when one has a knowledge of the distinctive features of sentient beings and non-sentient things.  
-So also the disputes on such questions as the unity of the jīva and God will no longer continue,  
-when the characteristic features of each of them are marked out.  
-Our ācārya-s, whose wisdom never failed,  
-teach us about the existence of three realities (Tattvas)  
-classified in the s'āstrās as the experiencing subjects (bhoktā), 
- the objects of experience and enjoyment (bhogyam)  
-and He who rules over both of them (Iśvara).
-
+La ilusión de que el alma no es más que el cuerpo y los sentidos (prakṛti)  
+desaparece cuando uno tiene conocimiento de las características distintivas de los seres sintientes y las cosas no sensibles.  
+Así también las disputas sobre preguntas  
+como la unidad del Jīva y Dios ya no continuarán,  
+Cuando los rasgos característicos de cada uno de ellos están marcados.  
+Nuestro ācārya-s, cuya sabiduría nunca falló,  
+Enséñanos sobre la existencia de tres realidades (tattvas)  
+clasificado en los s'āstrās como  
+los sujetos que experimentan (bhoktā),  
+Los objetos de la experiencia y el disfrute (bhogyam)
+y el que gobierna sobre los dos (Iśvara).
 </details>
 
 
@@ -84,7 +93,7 @@ CLASSIFICATION OF TATVAS OR REALS AND ITS USE:
 
 <details><summary>Español</summary>
 
-CLASSIFICATION OF TATVAS OR REALS AND ITS USE:
+Clasificación de tatvas o reales y su uso:
 </details>
 
 
@@ -113,7 +122,32 @@ It may be asked -
 
 The answer is as follows: 
 
-It is necessary to root out the delusion that the body is the atma and that the jīva is independent (of the Lord), as well as the view that there is no God, which is the cause of that delusion, for these are great obstacles to mokṣa.
+It is necessary to root out the delusion that the body is the atma  
+and that the jīva is independent (of the Lord),  
+as well as the view that there is no God,  
+which is the cause of that delusion,  
+for these are great obstacles to mokṣa.
+
+</details>
+
+<details><summary>Español</summary>
+
+Se puede preguntar -
+
+> ¿Por qué los ācāryas deberían afirmar que los tres tatvās o 'reales'  
+> deberían ser especialmente prescritos para el estudio de aquellos que buscan mokṣa,  
+> cuando forman solo una parte de las seis cosas  
+> que deberían ser conocidas, Las cinco verdades (Arthapañcaka)  
+> y la relación del alma y el cuerpo (que existe entre Dios y el mundo)?
+
+La respuesta es la siguiente:
+
+Es necesario erradicar el engaño de que  
+el cuerpo es el Atma  
+y que el Jīva es independiente (del Señor),  
+así como la opinión de que no hay Dios,  
+que es la causa de ese engaño,  
+porque estos son grandes obstáculosa mokṣa.
 </details>
 
 
@@ -137,8 +171,10 @@ The śāstrās, therefore, divide Reality into three classes ; the experiencing 
 
 <details><summary>Español</summary>
 
-The śāstrās, therefore, divide Reality into three classes ; the experiencing subject, the object of experience or enjoyment, and the Ruler who controls and directs them. 
-
+Los Śāstrās, por lo tanto, dividen la realidad en tres clases; 
+El sujeto que experimenta,  
+el objeto de experiencia o disfrute,  
+y el gobernante que los controla y dirige los dirige.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -155,7 +191,12 @@ Among them, non-sentient things which are the objects of experience are of three
 
 <details><summary>Español</summary>
 
-Among them, non-sentient things which are the objects of experience are of three kinds (1) Prakṛti or matter which has the three qualities of sattvam, rajas and tamas (2) Kala or time and (3) Śuddha Satvam, the substance of which the transcendental region beyond matter called Vaikuṇṭha   is made.
+Entre ellos,  
+las cosas no sensibles que son los objetos de la experiencia  
+son de tres tipos  
+(1) Prakṛti o materia que tiene las tres cualidades de Sattvam, Rajas y Tamas  
+(2) Kala o Time y  
+(3) Śuddha Satvam, la sustancia deque se hace la región trascendental más allá de la materia, llamada vaikuṇṭha.
 </details>
 
 
@@ -166,7 +207,7 @@ Among them, non-sentient things which are the objects of experience are of three
 
 > “**अचेतना** परार्था च  
 नित्या सतत-विक्रिया ।  
-त्रि-गुणा कर्मिणां क्षेत्रं  
+त्रि-गुणा कर्मिणां क्षेत्रं+++(5)+++  
 प्रकृते रूपम् उच्यते ॥” (परमसंहिता.) 
 </details>
 
@@ -179,6 +220,18 @@ It exists (always) for others and it is eternal,
 but subject always to change or modification.  
 It has three qualities sattvam, rajas and tamas  
 and is the field of action (karma) for the jīva". 
+
+</details>
+
+<details><summary>Español</summary>
+
+La naturaleza de (1) prakṛti ha sido descrita así:-
+
+> "No es [^f134] no sensible (achetana).  
+Existe (siempre) para los demás y es eterno,  
+pero sujeto siempre a cambiar o modificar.  
+Tiene tres cualidades Sattvam, Rajas y Tamas  
+y es el campo de acción (karma) para el jīva ".
 </details>
 
 
@@ -202,7 +255,9 @@ The nature of (2) Kala or time is described thus :- " Bhagavān [^f135] Kala (i.
 
 <details><summary>Español</summary>
 
-The nature of (2) Kala or time is described thus :- " Bhagavān [^f135] Kala (i.e.) Time, which is the body of Bhagavān, has no beginning nor end." 
+La naturaleza de (2) kala o tiempo se describe así:-
+
+> "Bhagavān [^f135] kala (es decir) el tiempo, que es el cuerpo de bhagavān, no tiene comienzo ni fin".
 </details>
 
 
@@ -227,7 +282,9 @@ The nature of (2) Kala or time is described thus :- " Bhagavān [^f135] Kala (i.
 
 <details><summary>Español</summary>
 
-"It takes [^f136] the forms of such divisions as kalaa and muhoortha which are respectively 1-3/8 minutes and 1/30th part of a day (and is the cause of the modifications of matter). But it causes no change or modification in the transcendental world (Aprākritaloka) beyond matter". 
+"Se necesitan [^f136] las formas de divisiones tales como Kalaa y Muhoortha  
+que respectivamente 1-3/8 minutos y 1/30 de un día (y es la causa de las modificaciones de la materia).  
+Pero no causa cambios o modificación en el mundo trascendental (aprākritaloka) más allá de la materia ".
 </details>
 
 
@@ -248,7 +305,11 @@ The nature of the transcendental world beyond matter is such that it is made of 
 
 <details><summary>Español</summary>
 
-The nature of the transcendental world beyond matter is such that it is made of s'uddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. 
+La naturaleza del mundo trascendental  
+más allá de la materia es tal que  
+está hecha de suddha sattvam.  
+El mundo [^f137] hecho de él  
+es de la naturaleza de jñāna y dicha.
 </details>
 
 
@@ -270,7 +331,9 @@ God controls time there ; time is not the [^f138] cause of any change or modific
 
 <details><summary>Español</summary>
 
-God controls time there ; time is not the [^f138] cause of any change or modification in the world of Śuddha-sattvam (as it is in the world of matter). 
+Dios controla el tiempo allí;  
+El tiempo no es la causa [^f138] de cualquier cambio o modificación en el mundo de Śuddha-Sattvam  
+(como lo es en el mundo de la materia).
 </details>
 
 
@@ -292,7 +355,9 @@ Thus the nature of Prakṛti, Kāla and Śuddha sattva which belong to three cla
 
 <details><summary>Español</summary>
 
-Thus the nature of Prakṛti, Kāla and Śuddha sattva which belong to three classes of non-sentient things (achetana), has been described.
+Así, se ha descrito  
+la naturaleza de Prakṛti, Kāla y Śuddha Sattva  
+que pertenecen a tres clases de cosas no sensibles (Achetana).
 </details>
 
 
@@ -324,7 +389,7 @@ NOW FOR THE EXPERIENCING SUBJECT OR JĪVA:
 
 <details><summary>Español</summary>
 
-NOW FOR THE EXPERIENCING SUBJECT OR JĪVA:
+Ahora para el sujeto experimentado o Jīva:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -339,7 +404,7 @@ NOW FOR THE EXPERIENCING SUBJECT OR JĪVA:
 
 <details><summary>Español</summary>
 
-"The jivātma is [^f139] neither a god nor a man";
+"El Jivātma no es [^f139] ni un dios ni un hombre";
 </details>
 
 
@@ -350,7 +415,7 @@ NOW FOR THE EXPERIENCING SUBJECT OR JĪVA:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“नायं देवो न मर्त्यो वा”(),
+“नायं देवो न मर्त्यो वा”,
 </details>
 
 <details><summary>English</summary>
@@ -361,8 +426,10 @@ NOW FOR THE EXPERIENCING SUBJECT OR JĪVA:
 
 <details><summary>Español</summary>
 
-"He is  [^f140] neither a god nor a man”.  
-(That is: These distinctions are based only on the respective bodies, whereas the soul within has no such distinctions.) 
+"Él es [^f140] ni un dios ni un hombre".
+(Es decir: estas distinciones se basan solo en los cuerpos respectivos,  
+mientras que el alma dentro  
+no tiene tales distinciones).
 </details>
 
 
@@ -392,14 +459,18 @@ is no longer subject to change and is called akṣara or Kootastha (because it i
 
 <details><summary>Español</summary>
 
-The jīva is of three kinds :-  
+El Jīva es de tres tipos:-
 
-Baddha or the soul in bondage is called in the Gita "Kshara"  
-(because he is in contact with matter which is subject to change)  
-All beings[^f141] (from Brahma to the blade of grass) are 'Ksharas' or Baddhas.  
+Baddha o el alma en la esclavitud   
+se llama en el "kshara" de Gita  
+(porque está en contacto con la materia  
+que está sujeta a cambios)  
+Todos los seres [^f141] (desde Brahma hasta la espada de hierba) son 'Ksharas' o Baddhas.
 
-The mukta or the soul which has obtained release from contact with matter  
-is no longer subject to change and is called akṣara or Kootastha (because it is imputable).  
+El mukta o el alma  
+que ha obtenido la liberación del contacto con la materia  
+ya no está sujeto a cambios  
+y se llama Akṣara o Kootastha (porque es imputable).
 </details>
 
 
@@ -421,7 +492,10 @@ The third class of jīvas are the Sūris[^f142] who are described as seeing eter
 
 <details><summary>Español</summary>
 
-The third class of jīvas are the Sūris[^f142] who are described as seeing eternally the transcendental world beyond matter.  
+La tercera clase de Jīvas  
+son los Sūris [^F142]  
+que se describen como viendo eternamente  
+el mundo trascendental más allá de la materia.
 </details>
 
 
@@ -469,15 +543,15 @@ Thus has the nature of Iśvara been taught,
 
 <details><summary>Español</summary>
 
-The third class of 'Real' is Iśvara who has been thus described :-  
-He is all ;[^f143]  
-He knows all;  
-He sees all;  
-He possesses all strength, all knowledge, all power, all wealth :  
-He is without fatigue, without lassitude,  
-without fear, without anger, without desire and other such (blemishes).  
-Thus has the nature of Iśvara been taught,
+La tercera clase de 'Real' es Iśvara, quien ha sido descrito así:-  
+Él es todo; [^f143]  
+Él sabe todo;  
+Él ve todo;  
+Posee toda fuerza, todo conocimiento, todo poder, toda riqueza:  
+Él no tiene fatiga, sin lassitudes,  
+Sin miedo, sin ira, sin deseo y otros (imperfecciones).  
 
+Así se ha enseñado la naturaleza de Iśvara,
 </details>
 
 
@@ -517,10 +591,11 @@ Thus the three realities consist of the Ruler and the Ruled (the latter includin
 
 <details><summary>Español</summary>
 
-Thus the three realities consist of the Ruler and the Ruled (the latter including prakṛti and the sentient beings) and our ācārya s (Śrī Yāmunācārya and Śrī Rāmānujācārya) have stated this concisely in the words  
+Así, las tres realidades consisten en el gobernante y el gobernado (este último, incluidos Prakṛti y los seres sintientes)  
+y nuestro ācārya s (śrī yāmunācārya y Śrī rāmānujācārya) lo han declarado concisamente en las palabras
 
-> "(Iśvara)[^30] on whom depend the essential nature (svarūpa), the continuance (sthiti) and the activity (pravṛtti) of the three kinds of sentient beings and of non-sentient things with all their differences". 
-
+> "(Iśvara) [^30] de quién depende de la naturaleza esencial (svarūpa), la continuación (sthiti) y la actividad (pravṛtti) de los tres tipos de seres sintientes  
+> y de cosas no sensibles con todas sus diferencias".
 </details>
 
 
@@ -542,7 +617,7 @@ The three kinds of sentient beings are those that are in bondage (baddha), those
 
 <details><summary>Español</summary>
 
-The three kinds of sentient beings are those that are in bondage (baddha), those that have obtained release (mukta) and those that are eternally free (nitya). 
+Los tres tipos de seres sintientes son los que están en esclavitud (Baddha), los que han obtenido la liberación (MUKTA) y los que son eternamente libres (NITYA).
 </details>
 
 
@@ -564,7 +639,7 @@ The three kinds of non-sentient things are Prakṛti with its three qualities (s
 
 <details><summary>Español</summary>
 
-The three kinds of non-sentient things are Prakṛti with its three qualities (sattvam, rajas and tamas), Time, and Śuddhasattvam. 
+Los tres tipos de cosas no sensibles son Prakṛti con sus tres cualidades (Sattvam, Rajas y Tamas), Time y Śuddhasattvam.
 </details>
 
 
@@ -585,7 +660,8 @@ The essential nature (svarūpa) means the substance or thing which is defined by
 
 <details><summary>Español</summary>
 
-The essential nature (svarūpa) means the substance or thing which is defined by attributes peculiar and unique to it. 
+La naturaleza esencial (svarūpa) significa la sustancia o cosa  
+que se define por atributos peculiares y únicos.
 </details>
 
 
@@ -602,12 +678,12 @@ The essential nature (svarūpa) means the substance or thing which is defined by
 
 <details><summary>English</summary>
 
-Continuance (sthiti, means continuance of the thing or object in time. 
+Continuance (sthiti) means continuance of the thing or object in time. 
 </details>
 
 <details><summary>Español</summary>
 
-Continuance (sthiti, means continuance of the thing or object in time. 
+Continuancia (sthiti) significa continuar la cosa u objeto en el tiempo.
 </details>
 
 
@@ -628,7 +704,7 @@ This is eternal for eternal things.
 
 <details><summary>मूलम्</summary>
 
-This is eternal for eternal things. 
+Esto es eterno para las cosas eternas.
 </details>
 
 
@@ -651,7 +727,9 @@ In the case of non-eternal things, this continuance is subject to expansion and 
 
 <details><summary>Español</summary>
 
-In the case of non-eternal things, this continuance is subject to expansion and contraction in accordance with the will of Iśvara. 
+En el caso de las cosas no eternas,  
+esta continuación está sujeta a expansión y contracción  
+de acuerdo con la voluntad de Iśvara.
 </details>
 
 
@@ -673,7 +751,7 @@ Activity or pravṛtti includes action and abstention from action.
 
 <details><summary>Español</summary>
 
-Activity or pravṛtti includes action and abstention from action. 
+Actividad o Pravṛtti incluye acción y abstención de la acción.
 </details>
  
 
@@ -696,7 +774,7 @@ All these three : the essential nature (svarūpa), the continuance in time (sthi
 
 <details><summary>Español</summary>
 
-All these three : the essential nature (svarūpa), the continuance in time (sthithi) and the activity (pravṛtti) are seen (by perception and other pramaṇas) to be different in the case of each thing or object.
+Todos estos tres: la naturaleza esencial (svarūpa), la continuación en el tiempo (sthithi) y la actividad (pravṛtti) se ve (por percepción y otros pramaṇas) como diferentes en el caso de cada cosa u objeto.
 </details>
 
 
@@ -714,7 +792,7 @@ All these three : the essential nature (svarūpa), the continuance in time (sthi
 अव्वो वस्तुक्कळिन् स्व-रूपत्तैय् उम्,  
 स्व-रूप-निरूपक-धर्मङ्गळैय् उम्,  
 निरूपित--स्व-रूप--विशेषणङ्गळैय् उम्,  
-व्यापारङ्गळैय् उङ् काट्टुम्.
+व्यापारङ्गळैय् उङ् काट्टुम्.+++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -729,12 +807,12 @@ and also its activities.
 
 <details><summary>Español</summary>
 
-When the pramāṇas or sources of knowledge (like perception and inference)  
-reveal an object or thing,  
-they disclose the essential Nature or svarūpa of the object,  
-the attributes that define it,  
-the (other) qualities of the object so defined  
-and also its activities. 
+Cuando los pramāṇas o fuentes de conocimiento (como la percepción y la inferencia)  
+revelar un objeto o cosa,  
+revelan la naturaleza esencial o svarūpa del objeto,  
+los atributos que lo definen,  
+las (otras) cualidades del objeto tan definidas  
+y también sus actividades.
 </details>
 
 
@@ -757,7 +835,8 @@ as endowed with the attributes that define it.
 
 <details><summary>Español</summary>
 
-The essential nature is always revealed as endowed with the attributes that define it. 
+La naturaleza esencial siempre se revela  
+como dotada de los atributos que la definen.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -778,7 +857,8 @@ It is not possible to speak of the essential nature of a thing (svarūpa) except
 
 <details><summary>Español</summary>
 
-It is not possible to speak of the essential nature of a thing (svarūpa) except in terms of the respective attributes. 
+No es posible hablar de la naturaleza esencial de una cosa (svarūpa),  
+excepto en términos de los atributos respectivos.
 </details>
 
 
@@ -801,7 +881,9 @@ To speak of an object minus its attributes would be as meaningless as to speak o
 
 <details><summary>Español</summary>
 
-To speak of an object minus its attributes would be as meaningless as to speak of a hare's horns.
+Hablar de un objeto menos sus atributos  
+sería tan sin sentido  
+como para hablar de los cuernos de una liebre.
 </details>
 
 
@@ -820,7 +902,7 @@ THE NATURE OF THE JĪVA.
 
 <details><summary>Español</summary>
 
-THE NATURE OF THE JĪVA.
+La naturaleza del Jīva.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -834,12 +916,19 @@ THE NATURE OF THE JĪVA.
 
 <details><summary>English</summary>
 
-Therefore the essential nature (svarūpa) of the jīva may be described as jñāna (knowledge), bliss (ānanda), (amala) being pure, and being atomic (aṇu) in terms of its defining attributes (i. e.) being of the nature of knowledge, being of the nature of bliss, being pure and being atomic. 
+Therefore the essential nature (svarūpa) of the jīva  
+may be described as jñāna (knowledge), bliss (ānanda), (amala) being pure, and being atomic (aṇu)  
+in terms of its defining attributes (i. e.) being of the nature of knowledge, being of the nature of bliss, being pure and being atomic. 
 </details>
 
 <details><summary>Español</summary>
 
-Therefore the essential nature (svarūpa) of the jīva may be described as jñāna (knowledge), bliss (ānanda), (amala) being pure, and being atomic (aṇu) in terms of its defining attributes (i. e.) being of the nature of knowledge, being of the nature of bliss, being pure and being atomic. 
+Por lo tanto, la naturaleza esencial (svarūpa) del jīva  
+puede describirse como jñāna (conocimiento), dicha (ānanda), (amala) siendo puro y atómico (aṇu)  
+En términos de sus atributos definitorios - es decir,  
+ser de la naturaleza del conocimiento,  
+ser de la naturaleza de la dicha,  
+ser puro y atómico.
 </details>
 
 
@@ -863,8 +952,10 @@ and it is unconditional śeṣa only to Him.
 
 <details><summary>Español</summary>
 
-This reality, viz. the jīva is always śeṣa to Iśvara (i.e.) it exists only for Iśvara  
-and it is unconditional śeṣa only to Him. 
+Esta realidad, a saber El Jīva  
+es siempre Śeṣa a Iśvara (es decir),  
+existe solo para iśvara  
+Y es incondicional Śeṣa solo para él.
 </details>
 
 
@@ -892,22 +983,22 @@ This quality of being śeṣa to the Lord,
 which is disclosed in the first word of Tirumantra, namely om (aum),  
 is of the nature of a  relationship ( sambandha)  
 and requires, therefore, a thing having that relationship  
-and cannot be understood without it.  
+and cannot be understood without it.+++(4)+++  
 So this śeṣatva may be called an additional quality of a thing,  
 namely, the jīva, which has already been defined by its defining attributes.  
 </details>
 
 <details><summary>Español</summary>
 
-Thus its existing (always) for the Lord is affirmed (ayogavyavaccheda)  
-and also its existing for no other than the Lord (anya yogavyavaccheda).  
-This quality of being śeṣa to the Lord,  
-which is disclosed in the first word of Tirumantra, namely om (aum),  
-is of the nature of a  relationship ( sambandha)  
-and requires, therefore, a thing having that relationship  
-and cannot be understood without it.  
-So this śeṣatva may be called an additional quality of a thing,  
-namely, the jīva, which has already been defined by its defining attributes.  
+Así se afirma su existente (siempre) para el Señor (Ayogavyavaccheda)  
+y también es existente para ningún otro que el Señor (Anya Yogavyavaccheda).  
+Esta calidad de ser Śeṣa para el Señor,  
+que se revela en la primera palabra de Tirumantra, a saber, OM (AUM),  
+es de la naturaleza de una relación (sambandha)  
+y requiere, por lo tanto, algo que tiene esa relación
+y no se puede entender sin él.  
+Entonces, este śeṣatva puede llamarse una calidad adicional de una cosa,  
+a saber, el Jīva, que ya ha sido definido por sus atributos definitorios.
 </details>
 
 
@@ -934,9 +1025,12 @@ So this quality of being śeṣa may also be called an attribute which defines t
 
 <details><summary>Español</summary>
 
-Here the definition of the jīva is that it is a thing which is sentient while being also atomic.  
-Similarly the jīva may also be defined as a thing which is sentient while being also, by its nature, śeṣa.  
-So this quality of being śeṣa may also be called an attribute which defines the thing, viz, the jīva.
+Aquí la definición del Jīva  
+es que es algo que es sensible mientras también es atómico.  
+Del mismo modo, el Jīva también puede definirse  
+como una cosa que es sensible mientras es también, por su naturaleza, Śeṣa.  
+Entonces, esta calidad de ser Śeṣa  
+también puede llamarse un atributo que define la cosa, a saber, el Jīva.
 </details>
 
 
@@ -961,8 +1055,10 @@ He may also be defined as one that is absolutely independent of everything else,
 
 <details><summary>Español</summary>
 
-Similarly Iśvara may be defined as having sentience along with omnipresence (vibhu).  
-He may also be defined as one that is absolutely independent of everything else, while being the unconditional seshin (i.e.) one for whom all other things exist (unconditionally).  
+Del mismo modo, Iśvara puede definirse como una sensibilidad junto con la omnipresencia (Vibhu).  
+También puede definirse como uno que es absolutamente independiente de todo lo demás,  
+mientras que ser el seshin incondicional  
+(es decir) para quien existen todas las demás cosas (incondicionalmente).
 </details>
 
 
@@ -988,9 +1084,9 @@ may be defined as those that are sentient and pratyak
 
 <details><summary>Español</summary>
 
-The class of atmas which includes jīvas and Iśvara  
-may be defined as those that are sentient and pratyak  
-(i.e. which are subjective and have inwardness).
+La clase de ATMAS que incluye a Jīvas e Iśvara  
+puede definirse como los que son sensibles y pratyak  
+(es decir, que son subjetivos y tienen interioridad).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1010,7 +1106,7 @@ To be sentient is to be the possessor of knowledge.
 
 <details><summary>Español</summary>
 
-To be sentient is to be the possessor of knowledge. 
+Ser sensible es ser la poseedora del conocimiento.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1030,7 +1126,7 @@ To be subjective or inward (or pratyak) is to possess luminosity to oneself.
 
 <details><summary>Español</summary>
 
-To be subjective or inward (or pratyak) is to possess luminosity to oneself. 
+Ser subjetivo o interno (o pratyak) es poseer luminosidad para uno mismo.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1051,22 +1147,22 @@ without the help of the attributive knowledge [^f145] (dharmabhūta  jñāna) .
 
 [^f145]: 
 
-  The soul is of the nature of jñāna or knowledge (i.c.) its svarūpa is knowledge.  
-  At the same time the soul has knowledge as an attribute  
-  and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.*
+    The soul is of the nature of jñāna or knowledge (i.c.) its svarūpa is knowledge.  
+    At the same time the soul has knowledge as an attribute  
+    and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.
 </details>
 
 <details><summary>Español</summary>
 
-The atmā or soul is self-luminous  
-and shines as 'I'  
-without the help of the attributive knowledge [^f145] (dharmabhūta  jñāna) .
+El atmā o el alma es autoluminoso  
+y brilla como 'yo'  
+sin la ayuda del conocimiento atributivo [^es145] (dharmabhūta jñāna).
 
-[^f145]: 
+[^ES145]:
 
-  The soul is of the nature of jñāna or knowledge (i.c.) its svarūpa is knowledge.  
-  At the same time the soul has knowledge as an attribute  
-  and this jñāna or knowledge is called Dharma bhuta jñāna or attributive knowledge.*
+    El alma es de la naturaleza de jñāna o conocimiento (i.c.)  Su svarūpa es el conocimiento.  
+    Al mismo tiempo, el alma tiene conocimiento como atributo  
+    y este jñāna o conocimiento se llama dharma bhuta jñāna o conocimiento atributivo.
 </details>
 
 
@@ -1094,10 +1190,10 @@ dependance by its very nature (on Iśvara).
 
 <details><summary>Español</summary>
 
-Since sentience and inwardness (pratyaktva)  
-are common to both jīvas and Iśvara,  
-the jīva has to be defined as having, in addition,  
-dependance by its very nature (on Iśvara).  
+Desde la sensibilidad y la interioridad (Pratyaktva)  
+son comunes tanto a Jīvas como a Iśvara,  
+El Jīva tiene que definirse como tener, además,  
+dependencia por su propia naturaleza (en Iśvara).
 </details>
 
 
@@ -1132,16 +1228,16 @@ or denial of the non-existence of the relationship.
 
 <details><summary>Español</summary>
 
-In the aṣṭākṣara, in the dative of the first syllable (āya) a in aum (om),  
-the jīva's existence for the fulfilment of Iśvara's purposes  
-is stated without any condition;  
-therefore the jīva is unconditionally and absolutely dependent upon the Lord of Śrī (Lakṣmī ),  
-who is the universal Saviour. 
+En el aṣṭākṣara, en el dativo de la primera sílaba (āya) a en aum (om),  
+La existencia del Jīva para el cumplimiento de los propósitos de Iśvara  
+se establece sin ninguna condición;  
+Por lo tanto, el Jīva depende incondicional y absolutamente del Señor de Śrī (Lakṣmī),  
+quien es el salvador universal.
 
-This statement of the absolute relationship  
-between the jīva and Iśvara throughout the existence (of the former )  
-is called ayogavyavaccheda  
-or denial of the non-existence of the relationship. 
+Esta declaración de la relación absoluta  
+Entre Jīva e Iśvara a lo largo de la existencia (del primero)
+se llama Ayogavyavaccheda  
+o negación de la inexistencia de la relación.
 </details>
 
 
@@ -1170,12 +1266,12 @@ or denial of (the jīva's ) relationship with others.
 
 <details><summary>Español</summary>
 
-The second syllable u in aum (om) in aṣṭākṣara means 'only'  
-and brings out the idea that the jīva exists for the purposes of only Iśvara  
-and denies his dependence or existence for the sake of any others. 
+La segunda sílaba u en aum (om) en aṣṭākṣara significa 'solo'  
+y saca la idea de que el Jīva existe para los propósitos de solo iśvara  
+y niega su dependencia o existencia por el bien de cualquier otra.
 
-This denial is called anya-yogavyavaccheda  
-or denial of (the jīva's ) relationship with others. 
+Esta negación se llama Anya-Yogavyavaccheda  
+o negación de la relación (la Jīva) con los demás.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1187,7 +1283,7 @@ or denial of (the jīva's ) relationship with others.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इच्-शेषत्वम् भागवत-शेषत्व-पर्यन्तम् आग वळरुम्+++(=वर्धनम्)+++-बडि  
-मेल् ए सॊल्लक्-कडवोम् +++(अर्थतः, प्रमाणान्तरतः)+++.  
+मेल् ए सॊल्लक्-कडवोम् +++(अर्थतः, प्रमाणान्तरतः)+++.  +++(4)+++
 </details>
 
 <details><summary>English</summary>
@@ -1197,7 +1293,9 @@ We will show later that this śeṣatva extends from the Lord to His devotees as
 
 <details><summary>Español</summary>
 
-We will show later that this śeṣatva extends from the Lord to His devotees as well.  
+Más tarde mostraremos  
+que esto śeṣatva también se extiende  
+desde el Señor hasta sus devotos.
 </details>
 
 
@@ -1225,9 +1323,9 @@ subject to Iśvara's will and purpose.
 
 <details><summary>Español</summary>
 
-The activity of sentient beings  
-consists in their being the doers and the enjoyers  
-subject to Iśvara's will and purpose.  
+La actividad de los seres sintientes  
+consiste en ser los hacedores y los disfrutadores  
+Sujeto a la voluntad y el propósito de Iśvara.
 </details>
 
 
@@ -1240,19 +1338,19 @@ subject to Iśvara's will and purpose.
 
 ईश्वरन् तन्-भोक्तृत्वार्थम् आग  
 इवर्गळुक्कु कर्तृत्व-भोक्तृत्वङ्गळै उण्डाक्कुगैयाल्  
-इवै **परार्थङ्गळ्**. 
+इवै **परार्थङ्गळ्**.+++(4)+++ 
 </details>
 
 <details><summary>English</summary>
 
 Since this activity and this capacity for enjoyment are given to them by Him,  
-they are for His purposes and not their own.
+they are for His purposes and not their own.+++(4)+++
 </details>
 
 <details><summary>Español</summary>
 
-Since this activity and this capacity for enjoyment are given to them by Him,  
-they are for His purposes and not their own.
+Dado que esta actividad y esta capacidad de disfrute les son dados por él,  
+Son para sus propósitos y no suyos.
 </details>
 
 
@@ -1280,10 +1378,11 @@ and association with prakṛti or matter.
 
 <details><summary>Español</summary>
 
-The difference between sentient beings that are in bondage and others  
-consists in the former having avidyā (ignorance), karma, the impressions left by past karma (vāsana),  
-the inclinations due to them (ruchi or taste for worldly enjoyment)  
-and association with prakṛti or matter.  
+La diferencia entre los seres sintientes  
+que están en esclavitud y otros  
+consiste en el primero que tiene avidyā (ignorancia), karma, las impresiones dejadas por el pasado karma (vāsana),  
+Las inclinaciones debido a ellos (Ruchi o gusto por el disfrute mundano)  
+y asociación con prakṛti o materia.
 </details>
 
 
@@ -1309,10 +1408,10 @@ ranging from Brahma to a blade of grass.
 
 <details><summary>Español</summary>
 
-The differences existing mutually among jīvas  
-in respect of knowledge, pleasures and the like  
-may be seen in the groups of jīvas  
-ranging from Brahma to a blade of grass.
+Las diferencias existentes mutuamente entre jīvas  
+con respecto al conocimiento, placeres y similares  
+se puede ver en los grupos de jīvas  
+desde Brahma hasta una cuchilla de hierba.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1334,15 +1433,15 @@ ranging from Brahma to a blade of grass.
 These bound souls support bodies given to them by Iśvara  
 in accordance with their respective karma,  
 both by their essential nature (svarūpa) as jñāna  
-and by their attributive knowledge (dharına bhūta jñāna). 
+and by their attributive knowledge (dharma bhūta jñāna). 
 </details>
 
 <details><summary>Español</summary>
 
-These bound souls support bodies given to them by Iśvara  
-in accordance with their respective karma,  
-both by their essential nature (svarūpa) as jñāna  
-and by their attributive knowledge (dharına bhūta jñāna). 
+Estas almas vinculadas apoyan cuerpos que les dieron iśvara  
+de acuerdo con su respectivo karma,  
+Ambos por su naturaleza esencial (svarūpa) como jñāna  
+y por su conocimiento atributivo (dharma bhūta jñāna).
 </details>
 
 
@@ -1366,8 +1465,8 @@ serves to make it exist.
 
 <details><summary>Español</summary>
 
-The support given to the body by the essential nature (svarūpa)  
-serves to make it exist. 
+El apoyo dado al cuerpo por la naturaleza esencial (svarūpa)  
+Sirve para hacer que exista.
 </details>
 
 
@@ -1383,7 +1482,7 @@ serves to make it exist.
 +++(नाना-विध-)+++पुरुषार्थ--तद्-उपायानुष्ठानङ्गळुक्क् उम् -  
 +++(यथा)+++ कृतोपायन् आन परमैकान्तिक्कु  
 भगवद्-अनुभव-कैङ्कर्यङ्गळुक्क् उम् -  
-उपयुक्तम् आय् इरुक्कुम्. 
+उपयुक्तम् आय् इरुक्कुम्. +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -1397,21 +1496,22 @@ In the case of the supreme devotee
 who has already adopted the means of attaining mukti,  
 the support given by attributive knowledge  
 makes the body useful for the enjoyment of Bhagavān  
-and for rendering service to Him. 
+and for rendering service to Him. +++(5)+++
 </details>
 
 <details><summary>Español</summary>
 
-The support given to it by the attributive knowledge or dharmabhūtājñāna,  
-while in such states as waking,  
-serves to enable the body to be useful for securing the ends or goal of life  
-and for adopting the means to secure these ends.  
+El apoyo que le brindó el conocimiento atributivo o dharmabhūtājñāna,  
+mientras que en estados como despertar,  
+sirve para permitir que el cuerpo sea útil  
+para asegurar los fines o el objetivo de la vida
+y para adoptar los medios para asegurar estos fines.
 
-In the case of the supreme devotee  
-who has already adopted the means of attaining mukti,  
-the support given by attributive knowledge  
-makes the body useful for the enjoyment of Bhagavān  
-and for rendering service to Him. 
+En el caso del devoto supremo  
+quien ya ha adoptado los medios para alcanzar mukti,  
+El apoyo brindado por el conocimiento atributivo  
+hace que el cuerpo sea útil para el disfrute de Bhagavān  
+y por prestarle servicio a él.+++(5)+++
 </details>
 
 
@@ -1435,8 +1535,9 @@ this support given to the body is productive of adverse experiences.
 
 <details><summary>Español</summary>
 
-In the case of sinners,  
-this support given to the body is productive of adverse experiences.  
+En el caso de los pecadores,  
+Este apoyo brindado al cuerpo  
+es productivo de experiencias adversas.
 </details>
 
 
@@ -1460,8 +1561,8 @@ the latter undergoes disintegration.
 
 <details><summary>Español</summary>
 
-When the jīva leaves the body,  
-the latter undergoes disintegration.  
+Cuando el Jīva deja el cuerpo,  
+Este último sufre desintegración.
 </details>
 
 
@@ -1486,9 +1587,10 @@ remain the body of Iśvara.
 
 <details><summary>Español</summary>
 
-The constituent substances of the body into which it disintegrates  
-(such as the five elements)  
-remain the body of Iśvara. 
+Las sustancias constituyentes del cuerpo  
+en el que se desintegra  
+(como los cinco elementos)  
+Sigue siendo el cuerpo de Iśvara.
 </details>
 
 

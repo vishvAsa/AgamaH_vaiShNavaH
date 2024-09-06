@@ -1968,8 +1968,391 @@ their births being due to past karma"
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-and again, "From Brahma[^f194] to the blade of grass, all beings that have their existence in the world have had their births as the result of karma and are subject to the cycle of births and deaths ( saṁsāra)" and further, “The [^f195] man who has no attachment (to the things of this world) should know that every being including Brahma is impure as being tainted by the ripening of karma -- to Him, Vāsudeva alone is the Supreme Goal or refuge." These statements have been made by Parāśara, Śaunaka, Śuka  and others. Brahma, Rudra and others have to seek Bhagavān's protection and Bhagavān has to seek nobody else's protection. This is clear from His own words :"The gods[^f196] are under the protection of Rudra, O King, and Rudra is under the protection of Brahma. Brahma is under my protection and I do not seek the protection of any one. There is no one that I need for my protection, for I am the refuge of all." These gods are among the great possessions (vibhūti) of Bhagavān, who is the Lord of both lilāvibhūti and nitya-vibhūti,) --- for it is said, “Brahma[^f197] Dakṣa and others, Kala, Rudra and the destroyer of Kala - all these are among the vibhūtis of Bhagavān," where Brahma and Rudra are spoken of as being on the same footing as Dakṣa and others.
+> “आ-ब्रह्म-स्तम्ब-पर्यन्ता  
+> जगद्-अन्तर्-व्यवस्थिताः ।  
+> प्राणिनः कर्म-जनित-  
+> संसार-**वश-वर्तिनः**” 
+
+(विष्णुधर्मम् 104-23) ऎण्ड्रुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “आ-ब्रह्म-स्तम्ब-पर्यन्ता  
+> जगद्-अन्तर्-व्यवस्थिताः ।  
+> प्राणिनः कर्म-जनित-  
+> संसार-**वश-वर्तिनः**” 
+
+(विष्णुधर्मम् 104-23) इति,  
+
+</details>
+
+
+<details><summary>English</summary>
+
+and again,  
+
+> "From Brahma[^f194] to the blade of grass,  
+> all beings that have their existence in the world have had their births as the result of karma  
+> and are subject to the cycle of births and deaths ( saṁsāra)" 
+</details>
+
+<details><summary>Español</summary>
+
+and again,  
+
+> "From Brahma[^f194] to the blade of grass,  
+> all beings that have their existence in the world have had their births as the result of karma  
+> and are subject to the cycle of births and deaths ( saṁsāra)" 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आब्रह्म – ब्रह्माणमारभ्येत्यर्थः । ‘‘संसारवशवर्तिनः’’ ऎन्बदाल् संसारनिवर्तकत्वरूपशुभत्वमिल्लै यॆण्ड्रु सॊल्लप्पट्टदु. अमङ्गळं – शुभत्वाभाववत् । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“आब्रह्मस्तम्बपर्यन्ता जगदन्तर्व्यवस्थिताः । प्राणिनः कर्मजनितसंसारवशवर्तिनः” (विष्णुधर्मम् 104-23) ऎण्ड्रुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “कर्मणां परिपाकत्वाद्  
+आविरिञ्चाद् अमङ्गलम् ।  
+इति मत्वा विरक्तस्य  
+वासुदेवः परा गतिः” (श्रीबागवदम् 11-19-18)  
+
+ऎण्ड्रुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “कर्मणां परिपाकत्वाद्  
+आविरिञ्चाद् अमङ्गलम् ।  
+इति मत्वा विरक्तस्य  
+वासुदेवः परा गतिः” (श्रीबागवदम् 11-19-18)  
+
+इति च
+</details>
+
+
+<details><summary>English</summary>
+
+and further,  
+
+> “The [^f195] man who has no attachment (to the things of this world) should know  
+> that every being including Brahma is impure  
+> as being tainted by the ripening of karma --  
+> to Him, Vāsudeva alone is the Supreme Goal or refuge." 
+</details>
+
+<details><summary>Español</summary>
+
+and further,  
+
+> “The [^f195] man who has no attachment (to the things of this world) should know  
+> that every being including Brahma is impure  
+> as being tainted by the ripening of karma --  
+> to Him, Vāsudeva alone is the Supreme Goal or refuge." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“कर्मणां परिपाकत्वादाविरिञ्चादमङ्गळम् । इति मत्वा विरक्तस्य वासुदेवः परा गतिः” (श्रीबागवदम् 11-19-18)  
+ऎण्ड्रुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पराशर-शौनक-शुकादिगळ् प्रतिपादित्तार्गळ्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पराशर-शौनक-शुकादयः प्रतिपादयामासुः ॥
+</details>
+
+<details><summary>English</summary>
+
+These statements have been made by Parāśara, Śaunaka, Śuka  and others. 
+</details>
+
+<details><summary>Español</summary>
+
+These statements have been made by Parāśara, Śaunaka, Śuka  and others. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पराशरशौनकशुकादिगळ् प्रतिपादित्तार्गळ्. 
+</details>
+
+### भगवद्-आश्रयत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळुक्कु भगवान् आश्रयणीयन् ऎन्नुम् इडत्तैयुम्  
+भगवानुक्कु ओर् आश्रयणीयर् इल्लैय् ऎन्नुम् इडत्तैय् उम् -  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[५२]]
+
+एषां भगवान् आश्रयणीय इत्य् एतम् अर्थं  
+भगवतः कश्चिद् अप्य् आश्रयणीयो नास्तीत्य् एतम् अर्थं च 
+</details>
+
+
+<details><summary>English</summary>
+
+Brahma, Rudra and others have to seek Bhagavān's protection  
+and Bhagavān has to seek nobody else's protection.  
+</details>
+
+<details><summary>Español</summary>
+
+Brahma, Rudra and others have to seek Bhagavān's protection  
+and Bhagavān has to seek nobody else's protection.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ब्रह्मरुद्रादिकळुक्कुम् भगवानुक्कुमुळ्ळ सिल विशेषङ्गळैक्काट्टि यवट्रिऱ्‌कु वचनङ्गळैयुमुदाहरिक्किऱार् इवर्कळुक्कु इत्यादिना ।  
+"इवर्गळुक्कु भगवान् आश्रयणीय’’ नॆन्बदालिवर्गळुक्कु आश्रयित्वमुम्, भगवानुक्कु आश्रयणीयत्वमुम्, ‘‘भगवानुक्कु ओर् आश्रयणीयरिल्लै" ऎण्ड्रदाल् भगवानुक्कु आश्रयणीयरहितत्वमुम् विशेषङ्गळॆण्ड्रु सॊल्लप्पट्टदु.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवर्गळुक्कु भगवान् आश्रयणीयनॆन्नुमिडत्तैयुम् भगवानुक्कु ओर् आश्रयणीयरिल्लैय् ऎन्नुमिडत्तैयुम्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “रुद्रं समाश्रिता देवा  
+> रुद्रो ब्रह्माणम् आश्रितः ।  
+> ब्रह्मा माम् आश्रितो राजन्  
+> नाहं कञ्चिद् उपाश्रितः ॥  
+> ममाश्रयो न कश्चित् तु  
+> सर्वेषाम् आश्रयो ह्य् अहम्”  
+> (पार. आश्वमेदिगपर्व 118-37, 38.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “रुद्रं समाश्रिता देवा  
+> रुद्रो ब्रह्माणम् आश्रितः ।  
+> ब्रह्मा माम् आश्रितो राजन्  
+> नाहं कञ्चिद् उपाश्रितः ॥  
+> ममाश्रयो न कश्चित् तु  
+> सर्वेषाम् आश्रयो ह्य् अहम्”  
+> (पार. आश्वमेदिगपर्व 118-37, 38.) 
+
+</details>
+
+<details><summary>English</summary>
+
+"The gods[^f196] are under the protection of Rudra, O King,  
+and Rudra is under the protection of Brahma.  
+Brahma is under my protection  
+and I do not seek the protection of any one.  
+There is no one that I need for my protection,  
+for I am the refuge of all." 
+</details>
+
+<details><summary>Español</summary>
+
+"The gods[^f196] are under the protection of Rudra, O King,  
+and Rudra is under the protection of Brahma.  
+Brahma is under my protection  
+and I do not seek the protection of any one.  
+There is no one that I need for my protection,  
+for I am the refuge of all." 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदिल् वचनङ्गळै उदाहरिक्किऱार् रुद्रं समाश्रिता देवा इत्यादिना ।  
+इङ्गु ‘‘रुद्रो ब्रह्माणमाश्रितः’’ ऎण्ड्रु रुद्रनुक्कु ब्रह्मावे आश्रयनॆण्ड्रु सॊल्लप्पट्टदालुम्,  
+‘‘ब्रह्मा मामाश्रितः’’ ऎण्ड्रु मेले सॊल्लुवदालुम्  
+‘‘सर्वेषामाश्रयोह्यहं’’ ऎण्ड्रु सॊल्लुवदालुम् रुद्रनुक्कुम् भगवाने आश्रयनॆण्ड्रु सिद्धम्.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“रुद्रं समाश्रिता देवा रुद्रो ब्रह्माणमाश्रितः । ब्रह्मा मामाश्रितो राजन्नाहं कञ्चिदुपाश्रितः ॥ ममाश्रयो न कश्चित्तु सर्वेषामाश्रयो ह्यहम्” (पार. आश्वमेदिगपर्व 118-37, 38.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु तानेय् अरुळिच्-चॆय्दान्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति स्वयमेवानुजग्राह ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+This is clear from His own words :
+</details>
+
+<details><summary>Español</summary>
+
+This is clear from His own words :
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु तानेयरुळिच्चॆय्दान्.
+</details>
+
+### भगवद्विभूतित्वम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् उभयविभूति-नाथन् आन सर्वेश्वरनुक्कु विभूतिभूतर् ऎन्नुम् इडम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमौ उभयविभूतिनाथस्य सर्वेश्वरस्य विभृति-भूताव्  
+इत्य् एतत् 
+</details>
+
+
+<details><summary>English</summary>
+
+These gods are among the great possessions (vibhūti) of Bhagavān,  
+who is the Lord of both lilāvibhūti and nitya-vibhūti,) --- for it is said, 
+</details>
+
+<details><summary>Español</summary>
+
+These gods are among the great possessions (vibhūti) of Bhagavān,  
+who is the Lord of both lilāvibhūti and nitya-vibhūti,) --- for it is said, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् उभयविभूतिनाथनान सर्वेश्वरनुक्कु विभूतिभूतरॆन्नुमिडम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“ब्रह्मा दक्षादयः कालः" (विष्णुपुराणम् 1-22-39)  
++++(विभूतयो हरेरेताः)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“ब्रह्मा दक्षादयः कालः" (विष्णुपुराणम् 1-22-39)  
++++(विभूतयो हरेरेताः)+++
+</details>
+
+
+<details><summary>English</summary>
+
+“Brahma[^f197] Dakṣa and others, Kala,"
+</details>
+
+<details><summary>Español</summary>
+
+“Brahma[^f197] Dakṣa and others, Kala,"
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+भगवानुक्कु उभय विभूतिनाथत्वरूपविशेषमुम्, इवर्गळुक्कु तद्विभूतित्वरूपविशेषमुम् वचनसिद्धमॆन्गिऱार् इवर्गळित्यादियाल्, ब्रह्मा दक्षादयः काल इति ।  
+‘‘विभूतयो हरेरेताः’’ ऎण्ड्रु वाक्यशेषमिरुप्पदाल् ब्रह्मादिकळुक्कु विभूतित्वमुम् भगवानुक्कु विभूतिनाथत्वमुम् सिद्धम्. विभूतियावदु नियाम्यवस्तु ।+++(5)+++  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ब्रह्मा दक्षादयः कालः" (विष्णुपुराणम् 1-22-39)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"रुद्रः कालान्तकाद्याश्च” (विष्णुपुराणम् 1-22-33)  
++++(विभूतयो हरेरेताः)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"रुद्रः कालान्तकाद्याश्च” (विष्णुपुराणम् 1-22-33)
+</details>
+
+<details><summary>English</summary>
+
+"Rudra and the destroyer of Kala -  
+all these are among the vibhūtis of Bhagavān," 
+</details>
+
+<details><summary>Español</summary>
+
+"Rudra and the destroyer of Kala -  
+all these are among the vibhūtis of Bhagavān," 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"रुद्रः कालान्तकाद्याश्च” (विष्णुपुराणम् 1-22-33)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादिगळिले +++(दक्षादि)+++ मट्र्-उळ्ळार् ओडु तुल्यमागच् चॊल्लप्पट्टदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इतीतरनिर्विशेषं प्रत्यपादि ।
+</details>
+
+
+<details><summary>English</summary>
+
+where Brahma and Rudra are spoken of  
+as being on the same footing as Dakṣa and others.
+</details>
+
+<details><summary>Español</summary>
+
+where Brahma and Rudra are spoken of  
+as being on the same footing as Dakṣa and others.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+‘‘विष्णुर्मन्वादयः’’ ऎन्गिऱ श्लोकत्तिल् विष्णुविऱ्‌कुम् विभूतित्वन्दोण्ड्रविल्लैयो अदु औपचारिकमॆन्निल् इवर्गळुडैय विभूतित्वमुम् औपचारिकमागलागादोवॆन्निल् विष्णुर्मन्वादयः ऎन्बदऱ्‌कुमेल् विष्णोरेता विभूतयः ऎण्ड्रु विष्णुविऱ्‌के विष्णुविभूतित्वम् सॊल्लियिरुप्पदालुम्, तनक्के तन् विभूतित्वङ्गूडादागैयालुम् विष्णुविनुडैय विभूतित्वम् औपचारिकमागलाम्. अदावदु ‘‘आत्मेश्वरं’’ ‘‘स्वे महिम्नि प्रतिष्ठितः’’ इत्यादिरीत्या इतरनुक्कु विभूति यण्ड्रॆन्बदु. अप्पडि ब्रह्मा दक्षादयः कालः ऎन्गिऱविडत्तिल् औपचारिकत्वकल्पकमिल्लामैयाल् दक्षादिकळुक्कुप्पोलवे ब्रह्मादिकळुक्कुम् मुख्यविभूतित्वम् सॊल्लप्पट्ट तॆन्गिऱार् मट्रुळ्ळारोडु तुल्यमागच् चॊल्लप्पट्टदु इति । 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले मट्रुळ्ळारोडु तुल्यमागच् चॊल्लप्पट्टदु.
+</details>
+
+  
+
 
 [^f192]:  Mahābhārata: Śāntiparva: 350-19
 
@@ -1983,11 +2366,78 @@ and again, "From Brahma[^f194] to the blade of grass, all beings that have their
 
 [^f197]: Viṣṇupurāṇa: 1-22-33
 
-THE OTHER GODS ARE THE PRAKĀRAS OR
+### विष्णु-प्रकाराः
+<details><summary>English</summary>
 
-MODES OF BHAGAVĀN.
+THE OTHER GODS ARE THE PRAKĀRAS OR MODES OF BHAGAVĀN.
+</details>
 
-These gods (Brahma, Rudra etc.) are, like others, the modes or prakāras of the Lord of all who has all things as His body. This is clear from the grammatical apposition or co-ordination (sāmānādhikaranya) in which they are used, just like other substances, in connection with such words as Nārāyaṇa . (For example it is said that Rudra is Nārāyaṇa , Brahma is Nārāyaṇa , the earth is Nārāyaṇa  and so on.)
+<details><summary>Español</summary>
+
+THE OTHER GODS ARE THE PRAKĀRAS OR MODES OF BHAGAVĀN.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि वस्त्व्-अन्तरम् पोल् ए  
+इवर्गळ् उम् सर्व-शरीरिय् आन सर्वेश्वरनुक्कु प्रकार-भूतर् ऎन्नुम् इडम्  
+वस्त्व्-अन्तरङ्गळुक्क् उम् इवर्गळुक्क् उञ् शेर  
+नारायणादि-शब्द-सामानाधिकरण्यत्ताल् ए सिद्धम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं वस्त्वन्तरवत् एताव् अपि  
+सर्वशरीररिणः सर्वेश्वरस्य प्रकार-भूताव् इत्य् एतत्  
+वस्त्व्-अन्तराणाम् एतयोश् चाविशेषेण नारायणादि-शब्द-सामानाधिकरण्यात् सिद्धम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+These gods (Brahma, Rudra etc.) are, like others,  
+the modes or prakāras of the Lord of all  
+who has all things as His body.  
+This is clear from the grammatical apposition or co-ordination (sāmānādhikaranya)  
+in which they are used,  
+just like other substances,  
+in connection with such words as Nārāyaṇa .  
+(For example it is said that Rudra is Nārāyaṇa ,  
+Brahma is Nārāyaṇa ,  
+the earth is Nārāyaṇa  and so on.)
+</details>
+
+<details><summary>Español</summary>
+
+These gods (Brahma, Rudra etc.) are, like others,  
+the modes or prakāras of the Lord of all  
+who has all things as His body.  
+This is clear from the grammatical apposition or co-ordination (sāmānādhikaranya)  
+in which they are used,  
+just like other substances,  
+in connection with such words as Nārāyaṇa .  
+(For example it is said that Rudra is Nārāyaṇa ,  
+Brahma is Nārāyaṇa ,  
+the earth is Nārāyaṇa  and so on.)
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि इति । ब्रह्मा दक्षादयः कालः ऎण्ड्रु दक्षादिकळोडे सहपाठत्ताले ब्रह्मादिकळुक्कुम् दक्षादितुल्यमुख्य-विभूतित्वम् सिद्धित्ताप्पोले ऎण्ड्रबडि. वस्त्वन्तरङ्गळ् पोले - दिक्कालेन्द्रादि-वस्तुक्कळ् पोले.  
+इवर्गळुम् - ब्रह्मरुद्रर्गळुम्.  
+सर्वशरीरियान सर्वेश्वरनुक्कु इति । इङ्गु सर्वेश्वरनुक्कु ऎन्बदे अमैन्दिरुक्क सर्वशरीरियान ऎण्ड्रु अधिकम् सॊन्नदु इवन् ब्रह्मादिशरीरकनालुम् इवनुक्कु ऒरु शरीरियुण्डोवॆन्गिऱ शङ्कावारणार्थम्.  
+प्रकारभूतरॆन्नुमिडम् - उपसर्जनतया अपृथक्सिद्धविशेषणभूतरॆन्गिऱ विषयम्. वस्त्वन्तरङ्गळुक्कुमिवर्गळुक्कुम् सेर नारायणादिशब्दसामाधिकरण्यत् ताले सिद्धमिति ।  
+‘‘विश्वं नारायणं देवं’’ ‘‘विश्वमेवेदं पुरुषः’’ सब्रह्म स शिवस्सेन्द्रः’’ ‘‘ब्रह्मा नारायणः ।शिवश्च नारायणः । दिशश्च नारायणः । कालश्च नारायणः’’ ‘‘ज्योतींषि विष्णुर्भुवनानि विष्णुः’’ इत्यादिकळिले ब्रह्मरुद्रर्गळागिऱ वस्त्वन्तरङ्गळोडे कूड निर्देशित्तु ब्रह्मादिशब्दङ्गळुक्कु नारायणादिशब्दसामानाधिकरण्यम् सॊल्लियिरुप्पदाले सिद्धमॆण्ड्रबडि.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि वस्त्वन्तरम् पोले इवर्गळुम् सर्वशरीरियान सर्वेश्वरनुक्कु प्रकारभूतरॆन्नुमिडम् वस्त्वन्तरङ्गळुक्कु मिवर्गळुक्कुञ् जेर नारायणादिशब्दसामानाधिकरण्यत्ताले सिद्धम्.
+</details>
+
+
+
 
 That these are His bodies and that He is their inner self or goal is evident from these words of Brahma to Rudra :- "He is [^f198] the inner self of you, of me and of all those who are called embodied beings. He sees all but cannot be apprehended by any one, anywhere." These are śeṣas who exist solely for the fulfilment of His purposes and He is their śeṣī. This truth was expressed by the all-knowing Rudra himself in Mantrarājapadastotra, where he says, "All beings are, by their nature, the servants of the Supreme Self. Therefore I am also Thy servant and, with this knowledge, I bow to Thee."
 
