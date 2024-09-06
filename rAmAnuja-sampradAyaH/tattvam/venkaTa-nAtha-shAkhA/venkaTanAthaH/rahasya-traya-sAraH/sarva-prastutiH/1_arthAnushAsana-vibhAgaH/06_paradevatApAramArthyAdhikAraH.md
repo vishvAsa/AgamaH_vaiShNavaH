@@ -2437,15 +2437,508 @@ the earth is Nārāyaṇa  and so on.)
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् शरीरम् आय् अवन् आत्माव् आय् इरुक्किऱप् पडियै
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतयोः शरीरतया तस्यात्मतया चावस्थितिं
+</details>
+
+<details><summary>English</summary>
+
+That these are His bodies and that He is their inner self or goal is evident from these words of Brahma to Rudra :- 
+</details>
+
+<details><summary>Español</summary>
+
+That these are His bodies and that He is their inner self or goal is evident from these words of Brahma to Rudra :- 
+</details>
 
 
-That these are His bodies and that He is their inner self or goal is evident from these words of Brahma to Rudra :- "He is [^f198] the inner self of you, of me and of all those who are called embodied beings. He sees all but cannot be apprehended by any one, anywhere." These are śeṣas who exist solely for the fulfilment of His purposes and He is their śeṣī. This truth was expressed by the all-knowing Rudra himself in Mantrarājapadastotra, where he says, "All beings are, by their nature, the servants of the Supreme Self. Therefore I am also Thy servant and, with this knowledge, I bow to Thee."
+<details><summary>मूलम्</summary>
+
+इवर्गळ् शरीरमाय् अवन् आत्मावायिरुक्किऱप्पडियै
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तवान्तरात्मा मम च  
+> ये चान्ये देहि-संज्ञिताः ।  
+> सर्वेषां साक्षि-भूतोऽसौ  
+> न ग्राह्यः केनचित् क्वचित्”  
+> (भारतम् शान्तिपर्व 361-4)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “तवान्तरात्मा मम च  
+> ये चान्ये देहि-संज्ञिताः ।  
+> सर्वेषां साक्षि-भूतोऽसौ  
+> न ग्राह्यः केनचित् क्वचित्”  
+> (भारतम् शान्तिपर्व 361-4)  
+</details>
+
+
+<details><summary>English</summary>
+
+"He is [^f198] the inner self of you, of me and of all those who are called embodied beings.  
+He sees all but cannot be apprehended by any one, anywhere." 
+</details>
+
+<details><summary>Español</summary>
+
+"He is [^f198] the inner self of you, of me and of all those who are called embodied beings.  
+He sees all but cannot be apprehended by any one, anywhere." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि सामानाधिकरण्यनिर्देशत्ताले  
+ब्रह्मादिकळुक्कु नारायणप्रकारत्वम् सिद्धित्तालुम्  
+नारायणशरीरत्वम् सिद्धिक्कुमो?  
+नीलो घटः ऎन्गिऱविडत्तिल् नीलत्तिऱ्‌कु घटप्रकारत्वमिरुन्दालुम् घटशरीरत्वमिल्लैये?  
+अङ्गु अदु गुणमागैयाल् शरीरत्वमिल्लै.  
+इवर्गळ् द्रव्यमागैयाल् उम्  
+इवर्गळुक्कु अवन् आत्मावॆण्ड्रु सॊल्लुगैयाल् उम्,  
+इवर्गळ् अवनुक्कु शरीरमागलाम् ऎन्निल् अप्पडिच्चॊल्लुम् वचनमुण्डोव् ऎन्न  
+इवर्गळुक्क् उम् अवनुक्क् उम्  
+शरीरात्मभावत्तैच् चॊल्लुम् वचनङ्गळै उदाहरिरिक्किऱार् तवान्तरात्मेत्यादियाल्.  
+इदु नारायणीयस्थवचनम्.  
+इङ्गु अन्तरात्माव् ऎण्ड्रु सॊल्लुगैयाल् अवर्गळुक्कु शरीरत्वम् सिद्धम्.  
+असौ – नारायणः ।  
+उपरि ‘‘तत्र यः परमात्मा तु स नित्यो निर्गुणः स्मृतः । स हि नारायणो ज्ञेयस्स आत्मा पुरुषो हि सः’’ इत्युक्तेः ।  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तवान्तरात्मा मम च ये चान्ये देहिसंज्ञिताः । सर्वेषां साक्षिभूतोऽसौ न ग्राह्यः केनचित् क्वचित्” (भारतम् शान्तिपर्व 361-4)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु ब्रह्मा रुद्रनैक् कुऱित्तुच् चॊन्नान्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति ब्रह्मा रुद्रं प्रति अवोचत् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु ब्रह्मा रुद्रनैक् कुऱित्तुच् चॊन्नान्. 
+</details>
+
+
+### शेषत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् शेषभूतर् अवन् शेषी ऎन्नुमिडत्तै  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमौ शेषभृतौ स शेषीत्येतमर्थं 
+</details>
+
+<details><summary>English</summary>
+
+These are śeṣas who exist solely for the fulfilment of His purposes  
+and He is their śeṣī. 
+</details>
+
+<details><summary>Español</summary>
+
+These are śeṣas who exist solely for the fulfilment of His purposes  
+and He is their śeṣī. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् शेषभूतर् अवन् शेषी ऎन्नुमिडत्तै  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “दासभूताः स्वतस् सर्वे  
+ह्यात्मानः परमात्मनः ।  
+अतोऽहमपि ते दास  
+इति मत्वा नमाम्यहम्”  
+(मन्त्रराजपदस्तोत्रम्.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “दासभूताः स्वतस् सर्वे  
+ह्यात्मानः परमात्मनः ।  
+अतोऽहमपि ते दास  
+इति मत्वा नमाम्यहम्”  
+(मन्त्रराजपदस्तोत्रम्.)  
+</details>
+
+<details><summary>English</summary>
+
+"All beings are, by their nature, the servants of the Supreme Self.  
+Therefore I am also Thy servant and, with this knowledge, I bow to Thee."
+</details>
+
+<details><summary>Español</summary>
+
+"All beings are, by their nature, the servants of the Supreme Self.  
+Therefore I am also Thy servant and, with this knowledge, I bow to Thee."
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ब्रह्मरुद्रर्गळ् भगवच्छेषर्गळॆण्ड्रुम् भगवान् शेषियॆन्नुम् विषयत्तिले वचनमुदाहरिक्किऱार् दासभूतास्स्वतस्सर्वे इति । चेतनत्वे सति शेषत्वमे दासत्वरूपमागैयाल् शेषत्वत्तै उपक्षेपित्तु दासत्वबोधक-वचनत्तै उदाहरित्तदाल् बाधकलेशमुमिल्लै. इन्द वचनत्तिल् स्वतः ऎन्बदाल् दासत्वम् निरुपाधिकमॆण्ड्रदायिट्रु. इन्द सर्वचेतनरुडैय दासत्वमे सर्वघटकनान तनक्कु भगवद्दासत्वज्ञानप्रयोजकमॆण्ड्रुम्, अदनाले नमस्काररूपमानवात्मनिवेदनत्तैप् पण्णुगिऱेन् ऎण्ड्रुम् उत्तरार्धत्तिनर्थम्. इन्द वचनत्तिऱ्‌कु आकरत्तैयुम् कर्तावै युमुदाहरिक्किऱार् मन्त्रराजपदस्तोत्रत्तिल् सर्वज्ञनान रुद्रन् ताने सॊन्नानिदि. मन्त्रराजः – श्री नृसिंहानुष्टुप्मन्त्रः ।  
+पदस्तोत्रम् अदिनुडैय पदङ्गळुक्कु प्रत्येकं व्याख्यानतया ईश्वरसंहितैयिल् रुद्रन् सॊन्न ‘‘वृत्तोत्फुल्लविशालाक्ष’’ मित्यादियान नृसिंहस्तोत्रम्. सर्वज्ञनान रुद्रनॆन्गैयाल् भारतादिवचनम्बोले इदुवुम् आप्ततमप्रणीतमागैयाल् प्रमाणमॆण्ड्रु ज्ञापिक्कप्पट्टदु.  
+ताने सॊन्नान् ऎन्बदालिन्द वचनमुम् विवादविषयनान रुद्रनुडैय विडुदलैच्चीट्टॆण्ड्रु ज्ञापितमागिऱदु. इप्पडि - पूर्वोदाहृतवचनङ्गळिल् सॊल्लप्पट्टबडि. सर्वप्रकारत्तालुमिति । सर्वजगत्कारणत्व, नित्यविग्रहविशिष्टत्व, ब्रह्मरुद्रजनकत्व, तत्पदप्रदत्व, तन्मोहापादकत्वादि-सर्वधर्मङ्गळालुमॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“दासभूताः स्वतस्सर्वे ह्यात्मानः परमात्मनः । अतोऽहमपि ते दास इति मत्वा नमाम्यहम्” (मन्त्रराजपदस्तोत्रम्.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु मन्त्र-राज-पद-स्तोत्रत्तिल् ए  
+सर्वज्ञन् आन रुद्रन्  
+ताने सॊन्नान्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति मन्त्रराजपद-स्तोत्रे सर्वज्ञो रुद्रः स्वयमेवावोचत् ॥
+</details>
+
+
+<details><summary>English</summary>
+
+This truth was expressed by the all-knowing Rudra himself in Mantrarājapadastotra, (where he says,) 
+</details>
+
+<details><summary>Español</summary>
+
+This truth was expressed by the all-knowing Rudra himself in Mantrarājapadastotra, (where he says,) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु मन्त्रराजपदस्तोत्रत्तिले सर्वज्ञनान रुद्रन् ताने सॊन्नान्.
+</details>
+
 
 [^f198]: Mahābhārata: Śāntiparva 361-4
 
-BHAGAVĀN HAS NEITHER EQUALS NOR SUPERIORS :
+## समाधिक-दारिद्र्यम्
 
-Thus Nārāyaṇa  is destitute, in every way, of equals and superiors. This may be seen from the following śloka s :- "O best [^f199] of men, there is no one superior to (Nārāyaṇa)   the god of the lotus-like eyes;" "There was[^f200] no one superior to Him in the past nor will there be any one superior to Him in the future : “There is no[^f201] god superior to Viṣṇu , O best of kings; " "There is nothing[^f202] more auspicious than Vāsudeva, there is nothing more purifying than Vāsudeva. There is no greater divinity than Vāsudeva. No one who adores Vāsudeva ever perishes." "In all [^f203] the three worlds, there was no one like Him ever born and there will be no one like Him born in the future." " There[^f204] is no divinity higher than Keśava." "He is the [^f205] King of all kings, Viṣṇu , the great Brahman. We know Him to be Iśvara. He is the Father, the Creator." Those who are lucky, even while in their mother's womb and have received, while in the state of being born, the glance of Madhusūdana will become desirous of mokṣa ; for His glance dispels rajas and tamas. Those who are looked at by Brahma and Rudra just before birth will become subject to the influence of rajas and tamas. This difference is brought out in the following passages - "He who[^f206] is looked at by Madhusūdana just as he is being born should be considered to be a pure soul (sātvika) and he will ever think of the goal of mokṣa . Jf, on the other hand, a person is looked at immediately at birth by Brahma or Rudra, his mind will be overcome by rajas and tamas."
+<details><summary>English</summary>
+
+BHAGAVĀN HAS NEITHER EQUALS NOR SUPERIORS :
+</details>
+
+<details><summary>Español</summary>
+
+BHAGAVĀN HAS NEITHER EQUALS NOR SUPERIORS :
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि सर्व-प्रकारत्ताल् उम्  
+नारायणन् समाधिक-दरिद्रन् ऎन्नुम् इडत्तै
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं सर्वैः प्रकारैर्नारायणः समाधिकदरिद्र इत्येतम् अर्थं
+</details>
+
+<details><summary>English</summary>
+
+Thus Nārāyaṇa  is destitute, in every way, of equals and superiors.  
+This may be seen from the following śloka s :- 
+</details>
+
+<details><summary>Español</summary>
+
+Thus Nārāyaṇa  is destitute, in every way, of equals and superiors.  
+This may be seen from the following śloka s :- 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सर्वप्रकारत्तालुम् नारायणन् समाधिकदरिद्रनॆन्नुमिडत्तै
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “न परं पुण्डरीकाक्षाद्  
+> +++(वर्तमान-काले)+++ दृश्यते पुरुषर्षभ ।"  
+> (भारतम् - भीष्मपर्व 67-2.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “न परं पुण्डरीकाक्षाद्  
+> दृश्यते पुरुषर्षभ ।"  
+> (भारतम् - भीष्मपर्व 67-2.)
+</details>
+
+<details><summary>English</summary>
+
+"O best [^f199] of men, there is no one superior to (Nārāyaṇa)  the god of the lotus-like eyes;" 
+</details>
+
+<details><summary>Español</summary>
+
+"O best [^f199] of men, there is no one superior to (Nārāyaṇa)  the god of the lotus-like eyes;" 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+समाधिकदरिद्रनॆन्नुमिडत्तै - नारायणन् समरालुम् अधिकरालुम् रहितनॆण्ड्रु अनुमित्त विषयत्तै. 
+न परं पुण्डरीकाक्षाद्दृश्यत इत्यादि । इङ्गु पुण्डरीकाक्षात्परं न दृश्यते ऎण्ड्रु वाचनिकमागवे वर्तमानकालिकाधिकनिषेधम् सॊल्लप्पडुगिऱदु.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+“न परं पुण्डरीकाक्षाद्दृश्यते पुरुषर्षभ ।"(भारतम् - भीष्मपर्व 67-2.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "परं हि पुण्डरीकाक्षान्  
+> न भूतं न भविष्यति ।  
+> न विष्णोः परमो देवो  
+> विद्यते नृपसत्तम” 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[६०]]
+
+> "परं हि पुण्डरीकाक्षान्  
+> न भूतं न भविष्यति ।  
+> न विष्णोः परमो देवो  
+> विद्यते नृपसत्तम”
+</details>
+
+<details><summary>English</summary>
+
+"There was[^f200] no one superior to Him in the past  
+nor will there be any one superior to Him in the future :  
+There is no[^f201] god superior to Viṣṇu , O best of kings;" 
+</details>
+
+<details><summary>Español</summary>
+
+"There was[^f200] no one superior to Him in the past  
+nor will there be any one superior to Him in the future :  
+There is no[^f201] god superior to Viṣṇu , O best of kings;" 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+‘‘परं हि पुण्डरीकाक्षान्न भूतं न भविष्यति’’ ऎण्ड्रु पुण्डरीकाक्षनुक्कु भूतभविष्यत्कालाधिकनिषेधम् सॊल्लप्पडुगिऱदु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"परं हि पुण्डरीकाक्षान्न भूतं न भविष्यति । न विष्णोः परमो देवो विद्यते नृपसत्तम” 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "न वासुदेवात् परम् अस्ति मङ्गलं  
+> न वासुदेवात् परम् अस्ति पावनम् ।  
+> न वासुदेवात् परम् अस्ति दैवतं  
+> न वासुदेवं प्रणिपत्य सीदति” ॥  
+> (भारतम् - भीष्मपर्व 67-17.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "न वासुदेवात् परम् अस्ति मङ्गलं  
+> न वासुदेवात् परम् अस्ति पावनम् ।  
+> न वासुदेवात् परम् अस्ति दैवतं  
+> न वासुदेवं प्रणिपत्य सीदति” ॥  
+> (भारतम् - भीष्मपर्व 67-17.) 
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+मङ्गळं – श्रेयःप्रदम्. पावनं – अनिष्टनिवर्तकम्. त्रैलोक्ये तादृशः कश्चिन्न जातो न जनिष्यते इति । इन्द वचनम् वाचनिकमान त्रैकालिकसमनिषेधपरम्. 
+</details>
+
+<details><summary>English</summary>
+
+"There is nothing[^f202] more auspicious than Vāsudeva,  
+there is nothing more purifying than Vāsudeva.  
+There is no greater divinity than Vāsudeva.  
+No one who adores Vāsudeva ever perishes." 
+</details>
+
+<details><summary>Español</summary>
+
+"There is nothing[^f202] more auspicious than Vāsudeva,  
+there is nothing more purifying than Vāsudeva.  
+There is no greater divinity than Vāsudeva.  
+No one who adores Vāsudeva ever perishes." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"न वासुदेवात्परमस्ति मङ्गळं न वासुदेवात्परमस्ति पावनम् । न वासुदेवात्परमस्ति दैवतं न वासुदेवं प्रणिपत्य सीदति” ॥ (भारतम् - भीष्मपर्व 67-17.) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “त्रैलोक्ये तादृशः कश्चिन्  
+न जातो न जनिष्यते” 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “त्रैलोक्ये तादृशः कश्चिन्  
+न जातो न जनिष्यते” 
+</details>
+
+<details><summary>English</summary>
+
+"In all [^f203] the three worlds,  
+there was no one like Him ever born  
+and there will be no one like Him born in the future." 
+</details>
+
+<details><summary>Español</summary>
+
+"In all [^f203] the three worlds,  
+there was no one like Him ever born  
+and there will be no one like Him born in the future." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“त्रैलोक्ये तादृशः कश्चिन्न जातो न जनिष्यते” 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“न दैवं केशवात्परम्” (नारदीय पुराणम् 18-33.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“न दैवं केशवात्परम्” (नारदीय पुराणम् 18-33.)
+</details>
+
+<details><summary>English</summary>
+
+" There[^f204] is no divinity higher than Keśava." 
+</details>
+
+<details><summary>Español</summary>
+
+" There[^f204] is no divinity higher than Keśava." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“न दैवं केशवात्परम्” (नारदीय पुराणम् 18-33.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “राजाधिराजस् सर्वेषां  
+> विष्णुर् ब्रह्ममयो महान् ।  
+> ईश्वरं तं विजानीमस्  
+> स पिता स प्रजापतिः”  
+> (भारतम् आच्वमे. 43-13.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “राजाधिराजस् सर्वेषां  
+> विष्णुर् ब्रह्ममयो महान् ।  
+> ईश्वरं तं विजानीमस्  
+> स पिता स प्रजापतिः”  
+> (भारतम् आच्वमे. 43-13.)  
+</details>
+
+<details><summary>English</summary>
+
+"He is the [^f205] King of all kings, Viṣṇu, the great Brahman.  
+We know Him to be Iśvara.  
+He is the Father, the Creator." 
+</details>
+
+<details><summary>Español</summary>
+
+"He is the [^f205] King of all kings, Viṣṇu, the great Brahman.  
+We know Him to be Iśvara.  
+He is the Father, the Creator." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+राजाधिराजस्सर्वेषां – राजानः – ब्रह्मादयः, तेषामप्यधिराजः – अधिकराजः ।
+ब्रह्ममयो महान् – ब्रह्ममयः – परब्रह्मभूतः । स्वार्थे मयट् ।
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“राजाधिराजस्सर्वेषां विष्णुर्ब्रह्ममयो महान् । ईश्वरं तं विजानीमस्स पिता स प्रजापतिः” (भारतम् आच्वमे. 43-13.)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादिगळाले पलप्पडियुञ्चॊन्नार्गळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्यादिभिर् बहुधा प्रतिपादयामासुः ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पलबडियुम् सॊन्नार्गळिति ।  
+कालत्रयत्तिलुमवनुक्कधिकरिल्लै यॆण्ड्रुम्, देवर्गळिले ऒरुवनुमवनुक्कु अधिकरिल्लै यॆण्ड्रुम्, अवनुक्कुमेल् मङ्गळमुम् पावनमुमिल्लैयॆण्ड्रुम्, कालत्रयत्तिलुमवनुक्कु समनिल्लैयॆण्ड्रुम्, राजाधिराजत्वेन निस्समाभ्यधिकनॆण्ड्रुम् इप्पडिये पलबडिगळिलुम् सॊन्नार्गळॆण्ड्रबडि.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळाले पलप्पडियुञ्चॊन्नार्गळ्.
+</details>
+
+
+Those who are lucky, even while in their mother's womb and have received, while in the state of being born, the glance of Madhusūdana will become desirous of mokṣa ; for His glance dispels rajas and tamas. Those who are looked at by Brahma and Rudra just before birth will become subject to the influence of rajas and tamas. This difference is brought out in the following passages - "He who[^f206] is looked at by Madhusūdana just as he is being born should be considered to be a pure soul (sātvika) and he will ever think of the goal of mokṣa . Jf, on the other hand, a person is looked at immediately at birth by Brahma or Rudra, his mind will be overcome by rajas and tamas."
 
 [^f199]: Mahābhārata: Bhishmaparva 67-2
 
