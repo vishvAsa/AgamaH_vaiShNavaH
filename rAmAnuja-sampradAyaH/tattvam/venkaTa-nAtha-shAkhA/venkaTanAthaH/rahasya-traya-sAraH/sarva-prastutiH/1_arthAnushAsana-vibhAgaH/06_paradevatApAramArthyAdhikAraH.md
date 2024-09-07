@@ -3284,7 +3284,7 @@ for the fruit of their worship is very limited,”
 **उपायोऽस्मि** हरेः स्मृतौ”  
 > (हरिवंशं ३.८९.९)
 
-ऎण्ड्र् उञ् चॊल्लप्पट्टदु.
+ऎण्ड्र् उञ् +++(शिवेन)+++ चॊल्लप्पट्टदु.
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -3295,7 +3295,7 @@ for the fruit of their worship is very limited,”
 **उपायोऽस्मि** हरेः स्मृतौ”  
 > (हरिवंशं ३.८९.९)
 
-इति च प्रत्यपादि ॥
+इति +++(शिवेन)+++ च प्रत्यपादि ॥
 </details>
 
 
@@ -3332,10 +3332,457 @@ and I am the means for enabling you to remember Hari.”
 “हरिरेकस्सदा ध्येयो भवद्भिस्सत्त्वसंस्थितैः । उपास्योऽयं सदा विप्रा उपायोऽस्मि हरेः स्मृतौ” (हरिवंशं ३.८९.९) ऎण्ड्रुञ्चॊल्लप्पट्टदु.
 </details>
 
+### परम्परया मोक्षोपायता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् ए इवर्गळै मोक्षोपकारकर् आगच् चॊन्नव् इडङ्गळ् उम्
+आचार्यादिगळैप् पोल् ए  
+ज्ञानादि-हेतुक्कळ् आगैयाल् एय्  
+ऎण्ड्रु निर्णीतम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतेनैतेषां मोक्षोपकारकत्वस्य प्रतिपादकानि वचनानि  
+आचार्यादिवत् ज्ञानादिहेतुत्व-पराणीति निर्णीतं भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+If, in some places,  
+these gods are spoken of as assisting in the attainment of mokṣa ,  
+it should be understood to mean that they, like ācārya s,  
+assist by imparting knowledge and in such other ways. 
+</details>
+
+<details><summary>Español</summary>
+
+If, in some places,  
+these gods are spoken of as assisting in the attainment of mokṣa ,  
+it should be understood to mean that they, like ācārya s,  
+assist by imparting knowledge and in such other ways. 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इदनाले रुद्रादिकळै मोक्षप्रदरॆण्ड्रु सॊल्लुगिऱ वचनमुम्  
+निर्व्यूढमॆन्गिऱार् इत्ताले इत्यादिना ।  
+इवर्गळै मोक्षोपकारकरागच् चॊन्नविडङ्गळुमिति ।  
+पुराणङ्गळिल् रुद्रं प्रस्तुत्य ‘‘त्वमेकस्सर्वजगतामीश्वरो बन्धमोक्षयोः । तं त्वामर्चन्ति कुशलाः प्रपन्नार्तिहरं गुरुम्’’ इत्यादिवचनङ्गळु मॆण्ड्रबडि. आचार्यादिकळैप्पोले - आचार्यादिकळुक्कु भगवत्स्वरूपोपायादिकळुडैय उपदेशमुखत्ताले ‘‘आचार्यवत्तया मुक्ता’’ वित्यादिस्थलङ्गळिले मोक्षोपकारत्वम् सॊल्लुगिऱाप् पोले यॆण्ड्रबडि. ज्ञानादिहेतुक्कळागैयाले - मोक्षापायमान उपासनादिकळुक्कु उपदेशमुखत्ताले उपायङ्गळागैयाले ऎण्ड्रबडि. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्ताले इवर्गळै मोक्षोपकारकरागच् चॊन्न विडङ्गळुम् आचार्यादिगळैप्पोले ज्ञानादिहेतुक्कळागैयालेयॆण्ड्रु निर्णीतम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्वर्थम् 
+
+> सूर्यस्यैव तु यो भक्तस्  
+> सप्त-जन्मान्तरं नरः ।  
+> तस्यैव तु प्रसादेन  
+> रुद्रभक्तः प्रजायते ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयमर्थः
+
+> सूर्यस्यैव तु यो भक्तस्  
+> सप्त-जन्मान्तरं नरः ।  
+> तस्यैव तु प्रसादेन  
+> रुद्रभक्तः प्रजायते ॥
+</details>
+
+<details><summary>English</summary>
+
+This is also the purport of the following passage ;  
+
+> " The man[^f210] who is a devotee of the god of the sun (Surya)  
+> will, after seven more births,  
+> become a devotee of Rudra by the Sun's grace. 
+</details>
+
+<details><summary>Español</summary>
+
+This is also the purport of the following passage ;  
+
+> " The man[^f210] who is a devotee of the god of the sun (Surya)  
+> will, after seven more births,  
+> become a devotee of Rudra by the Sun's grace. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि रुद्रादिकळ् परम्परया मोक्षोप-कारकरॆन्गिऱवर्थम् इतरवचनङ्गळिलुम् विवक्षितमॆन्गिऱार् इव्वर्थमिति । सूर्यस्यैवेत्यादि ।  
+इव् वचनङ्गळिल् ऎवन् सप्तजन्मान्तरं सूर्यभक्तनो, अवन् अवनुडैय प्रसादत्तालेये रुद्रभक्तनागिऱानॆण्ड्रुम्,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् “सूर्यस्यैव तु यो भक्तस्सप्तजन्मान्तरं नरः । तस्यैव तु प्रसादेन रुद्रभक्तः प्रजायते ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शङ्करस्य तु यो भक्तस्  
+> सप्तजन्मान्तरं नरः ।  
+> तस्यैव तु प्रसादेन  
+> विष्णुभक्तः प्रजायते ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> शङ्करस्य तु यो भक्तस्  
+> सप्तजन्मान्तरं नरः ।  
+> तस्यैव तु प्रसादेन  
+> विष्णुभक्तः प्रजायते ॥ 
+
+</details>
+
+<details><summary>English</summary>
+
+> He who is a devotee of Saṅkara will,  
+> after seven more births,  
+> become a devotee of Viṣṇu  
+> by the grace of Saṅkara." 
+</details>
+
+<details><summary>Español</summary>
+
+> He who is a devotee of Saṅkara will,  
+> after seven more births,  
+> become a devotee of Viṣṇu  
+> by the grace of Saṅkara." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎवन् रुद्रभक्तनोः, अवन् अवनुडैय प्रसादत् तालेये विष्णुभक्तनागिऱानॆण्ड्रुम्,
+</details>
+
+<details><summary>मूलम्</summary>
+
+शङ्करस्य तु यो भक्तस्सप्तजन्मान्तरं नरः । तस्यैव तु प्रसादेन विष्णुभक्तः प्रजायते ॥ 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वासुदेवस्य यो भक्तस्  
+> सप्तजन्मान्तरं नरः ।  
+> तस्यैव तु प्रसादेन  
+> वासुदेवे प्रलीयते ॥
+</details>
+
+<details><summary>English</summary>
+
+And again :--- 
+
+> "He who is a devotee of Vāsudeva will, after those seven births,  
+> become one with Vāsudeva by His grace." 
+</details>
+
+<details><summary>Español</summary>
+
+And again :--- 
+
+> "He who is a devotee of Vāsudeva will, after those seven births,  
+> become one with Vāsudeva by His grace." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वासुदेवस्य यो भक्तस्सप्तजन्मान्तरं नरः । तस्यैव तु प्रसादेन वासुदेवे प्रलीयते ॥”
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱव् इडत्तिल् उम् विवक्षितम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ इत्यत्रापि विवक्षितः ॥ 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎवन् वासुदेवभक्तनो? अवन् अवनुडैय प्रसादत्तालेये अवनिडत्तिल् लयिक्किऱानॆण्ड्रुम् सॊल्लियिरुप्पदाल् वासुदेवनुक्के मोक्षार्थमाग उपास्यत्वमुम् अवनुक्के मोक्षप्रदत्वमुम् आदित्यरुद्रादिकळुक्कु परम्परया अदावदु भक्तिजननद्वारा मोक्षोपकारकत्वमुम् विवक्षितम्. तस्यैव तु प्रसादेन ऎण्ड्रु रुद्रनुडैय प्रसादत्तालेये विष्णुभक्तनागिऱान्. अदावदु देवतान्तरप्रसादमे विष्णुभक्तिक्कुक् कारणमॆन्बदु विवक्षितमण्ड्रु. अपसिद्धान्तप्रसङ्गात् । ऎवनॊरुवन् रुद्रनुक्के भक्तनागिऱानो अवनुडैय विष्णुभक्तिक्के रुद्रप्रसादम् कारणमानालुम् विष्णुभक्तिसामान्यत्तिऱ्‌कु रुद्रप्रसादम् कारणमण्ड्रिऱे. वासुदेवे प्रळीयत इति । इङ्गु वासुदेवभक्तनुक्कु वासुदेवप्राप्तियिल् सप्तजन्मव्यवधानम् सॊन्नदु ‘‘सूर्यस्यैव तु यो भक्तः’’ इत्यादिवचनोक्तक्रमेण वासुदेवभक्त-विषयमागैयाले वासुदेवभक्तसामान्यत्तिऱ्‌के सप्तजन्मव्यवधाननियममिल्लै. प्राकृतनाम-रूपङ्गळै विट्टु आविर्भूतगुणाष्टकङ्गळाले वासुदेवतुल्यनागिऱानॆण्ड्रबडि. देवतान्तर-परर्गळुक्कु मोक्षमे किडैयादॆण्ड्रण्ड्रो सिद्धान्तम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱविडत्तिलुम् विवक्षिदम्. 
+</details>
+
+### भ्रान्तोपासकेषु न
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि सूर्य-भक्त्य्-आदिगळ्  
+परम्परया भगवद्-भक्त्य्-आदिगळिल् ए मूट्टुवद्+++(=संयोजनम्)+++ उम्,  
+
+परावर-तत्त्वङ्गळिल् ए ऐक्य-बुद्धिय् उम्, व्यत्यय-बुद्धिय् उम्, समत्व-बुद्धिय् उम् मट्रुम्  
+इप्-पुडैगळिल्+++(=पार्श्वभिः)+++ ए वरुम् मति-मयक्कङ्गळ्+++(=मोहङ्गळ्)+++ उम्,  
+आसुर-स्वभावत्ताल् ए ऒरु विषयत्तिल् प्रद्वेषादिगळ् उम्  
+
+अण्ड्रिक्क् ए सूर्यादिगळैप् पट्रुम् अवर्गळुक्क् एय्  
+ऎन्नुम् इडत्तै
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं सूर्य-भक्त्यादेः परम्परया भगवद्-भक्त्य्-आदाव् उद्योजकत्वम् अपि,  
+
+ऐक्यबुद्धिः व्यत्यय-बुद्धिः समत्व-बुद्धिर्  
+इत्य्-एवं जायमानान् मति-व्यामोहान्,  
+आसुर--स्व-भावात् विषय-विशेषे प्रद्वेषादिकं च,  
+
+**विनैव** सूर्यादीन् **आश्रयतां** विषये एवेत्य् अयम् अर्थः - 
+</details>
+
+<details><summary>English</summary>
+
+In this context it has to be stated that  
+devotion to Surya and others leads gradually to devotion to Bhagavān,  
+only in the case of those who are not subject to mental delusions about the Supreme Self and the Self's that are below it -  
+such delusions as holding that they are all one  
+or that the lower self is the Supreme Self  
+or that all these divinities are of equal power,  
+and provided they are not filled with the hatred natural to the asuric or demoniac Nature. 
+</details>
+
+<details><summary>Español</summary>
+
+In this context it has to be stated that  
+devotion to Surya and others leads gradually to devotion to Bhagavān,  
+only in the case of those who are not subject to mental delusions about the Supreme Self and the Self's that are below it -  
+such delusions as holding that they are all one  
+or that the lower self is the Supreme Self  
+or that all these divinities are of equal power,  
+and provided they are not filled with the hatred natural to the asuric or demoniac Nature. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अप्पडियिरुक्क सूर्यादिभक्तर् कळुक्कुम् मोक्षम् परम्परया उण्डॆण्ड्रु सॊल्लप्पोमोवॆन्निल्, अदु सूर्या-दिभक्तर्गळिल् अधिकारिविशेषत्तिऱ्‌कॆण्ड्रु अरुळिच्चॆय्गिऱार् इप्पडि सूर्यभक्त्यादिकळित्यादिना । परम्परया – रुद्रभक्त्यादिद्वारा । मूट्टुवदु - प्रवेशनम्. परावरतत्त्वङ्गळिल् - नारायणनिडत्तिलुम् रुद्रादिकळिडत्तिलुम्. व्यत्ययबुद्धियुम् – परतत्त्वत्तिल् अवरतत्वबुद्धियुम् अवरतत्त्वत्तिल् परतत्त्वबुद्धियुम्. मट्रुमिप्पुडैगळिले वरुम् - वेऱान एवंप्रकारमाग उण्डागुम्. मदिमयक्कङ्गळुम् - त्रिमूर्त्युत्तीर्णनुण्डॆण्ड्रुम्, यादवन् सॊल्लुगिऱबडि ब्रह्मम् सविकारमॆण्ड्रुम् उण्डागुम् मोहङ्गळॆण्ड्रबडि. ऒरु विषयत्तिल् - परतत्त्वविषयत्तिलो अवरतत्वविषयत्तिलो वॆण्ड्रबडि. प्रद्वेषादिकळुमिति । इङ्गु आदिपदत्ताल् प्रद्वेषकार्यङ्गळुक्कु ग्रहणम्. अण्ड्रिक्के - कीऴे सॊन्न दोषङ्गळ् ऒण्ड्रुमण्ड्रिक्के. सूर्यादिकळैप्पट्रुमवर्गळुक्के - अन्द अधिकारविशेषत्तिऱ्‌के यॆण्ड्रबडि. ऒरुवन् परावरतत्वङ्गळै यथावस्थितमागवऱिन्दालुम् आदित्यादिकळ् परंपरया मोक्षसाधकर्गळॆण्ड्रऱिन्दाल् आचार्यादिकळैप्पट्रुम् कणक्किले आदित्यादिकळैयुम् पट्रलामिऱे. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सूर्यभक्त्यादिगळ् परम्परया भगवद्भक्त्यादिगळिले मूट्टुवदुम् परावरतत्त्वङ्गळिले ऐक्यबुद्धियुम् व्यत्ययबुद्धियुम् समत्वबुद्धियुम् मट्रुमिप्पुडैगळिले वरुम् मदिमयक्कङ्गळुम् आसुरस्वभावत्ताले ऒरु विषयत्तिल् प्रद्वेषादिगळुमण्ड्रिक्के सूर्यादिगळैप्पट्रुमवर्गळुक्के यॆन्नुमिडत्तै
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ये तु सामान्यभावेन  
+> **मन्यन्ते** पुरुषोत्तमम् ।  
+> ते वै पाषण्डिनो **ज्ञेयास्**  
+> सर्वकर्म-बहिष्कृताः” 
+
+इत्यादिगळिल् ए कण्डु-गॊळ्वदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “ये तु सामान्यभावेन  
+> **मन्यन्ते** पुरुषोत्तमम् ।  
+> ते वै पाषण्डिनो **ज्ञेयास्**  
+> सर्वकर्म-बहिष्कृताः” 
+
+इत्यादिषु द्रष्टव्यः ।
+</details>
+
+<details><summary>English</summary>
+
+This is evident from the śloka  : 
+
+> "Those who[^f211] hold Parushottama as being similar to the other deities  
+> are to be considered heretics  
+> unfit for any kind of karma or rite." 
+
+</details>
+
+<details><summary>Español</summary>
+
+This is evident from the śloka  : 
+
+> "Those who[^f211] hold Parushottama as being similar to the other deities  
+> are to be considered heretics  
+> unfit for any kind of karma or rite." 
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+सूर्यस्यैव तु यो भक्तः इत्यादिवचनङ्गळिल् सामान्यमाग सूर्यादिभक्तर्गळुक्के परंपरया मोक्षमॆण्ड्रु तोण्ड्रानिऱ्‌क  
+अवर्गळै पूर्वोक्तदोषरहितभक्तर्गळाग विशेषिक्कक् कूडुम् ओव्? ऎन्निल्  
+इवैगळिल् सामान्यम् आगव् इरुन्दाल् उम्  
+वचनान्तरबलत्ताले विशेषिक्कक्कूडुमॆन्निल्;  
+अन्द वचनमॆदुवॆन्नवरुळिच्चॆय्गिऱार् ये तु इत्यादिना ।  
+सामान्यभावेन – समत्वेन । पुरुषोत्तमनान परतत्वत्तै अवरतत्वतुल्यतयेति यावत् । इन्द वचनत्तिल् साम्यबुद्धियुळ्ळवर्गळै पाषण्डिकळागवुम् सर्वकर्मबहिष्कृतर्गळागवुम् सॊल्लियिरुप्पदाल् इन्द साम्यादिबुद्धिरहितर्गळे सूर्याद्युपासनकर्माधिकारिकळागक् कॊळ्ळवेण्डुमागैयाल् सूर्यस्यैव तु यो भक्तः ऎन्गिऱविडङ्गळिल् भक्तपदम् पूर्वोक्तदोषरहितभक्तविशेषपरमॆण्ड्रे कॊळ्ळवेण्डुमॆण्ड्रुगरुत्तु. 
+
+इत्यादिकळिले इति । इङ्गु आदिपदत्ताल् ‘‘अस्मादन्यं परत्वेन चेतयानो ह्यचेतनः । स पाषण्डीति विज्ञेयस्सर्वकर्मबहिष्कृतः ॥’’ इत्यादिकळान रुद्रादिकळुक्कु भगवत्परत्वचिन्तनम् पण्णुगिऱवनै पाषण्डियॆण्ड्रु निन्दिक्कुम् वचनङ्गळुक्कु ग्रहणम्.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ये तु सामान्यभावेन मन्यन्ते पुरुषोत्तमम् । ते वै पाषण्डिनोज्ञेया-स्सर्वकर्मबहिष्कृताः” इत्यादिगळिले कण्डुगॊळ्वदु. 
+</details>
+
+### निग्रहानिवार्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि ज्ञानादिगळिल् माऱाट्टम्-उडैयार्क्कु  
+देवतान्तर-भक्तिय् उण्ड्-आगिल् उम्  
+भगवन्-निग्रहत्ताल् ए प्रत्यवायम् ए फलिक्कुम्.+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं ज्ञानादिष्व् अन्यथात्वम् आप्तवतां  
+देवतान्तरभक्तौ सत्याम् अपि  
+भगवन्-निग्रहेण प्रत्यवाय एव फलम् । 
+</details>
+
+<details><summary>English</summary>
+
+People who have such delusions in their knowledge (and worship)  
+will meet with defeat due to the punishment inflicted by Bhagavān,  
+although they have devotion to other deities. 
+</details>
+
+<details><summary>Español</summary>
+
+People who have such delusions in their knowledge (and worship)  
+will meet with defeat due to the punishment inflicted by Bhagavān,  
+although they have devotion to other deities. 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि व्यत्ययबुद्धियोडे रुद्राद्युपासनम् पण्णुमवनुक्कु  
+परंपरया मोक्षमिल्लाविट्टालुम्  
+रुद्रादिभक्तिक्कनुगुणमान फलम् किडैक्काद् ओव् ऎन्नव् अरुळिच्चॆय्गिऱार् -  
+इप्पडि ज्ञानादिकळिल् माऱाट्टमुडैयार्क्कु इति ।  
+
+भगवन्निग्रहत्ताले इति ।  
+बुद्धि माऱाट्टत्तोडु रुद्रादिभक्ति पण्णुमवनुक्कु सर्वकर्मबहिष्कृतत्वम् वचनसिद्धमागैयाले अवनुक्कु रुद्रादिभक्तियिलुम् अधिकारमिल्लामैयाले अनधिकारिणा कृतमकृतमॆन्गिऱ न्यायत्तिनाले अन्द भक्ति फलजनकमागाद तोडु भगवन्निग्रहहेतुवाय् प्रत्यवायाऽऽपादकमागवे आगुमॆण्ड्रु करुत्तु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ज्ञानादिगळिल् माऱाट्टमुडैयार्क्कु देवतान्तरभक्तियुण्डागिलुम् भगवन्निग्रहत्ताले प्रत्यवायमे फलिक्कुम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> “त्वं हि रुद्र महाबाहो  
+> मोहशास्त्राणि **कारय** ।  
+> **दर्शयित्वाल्पम्** आयासं  
+> फलं शीघ्रं **प्रदर्शय**”  
+> (वराहपुराणम् 70-36.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतः,
+
+> “त्वं हि रुद्र महाबाहो  
+> मोहशास्त्राणि **कारय** ।  
+> **दर्शयित्वाल्पम्** आयासं  
+> फलं शीघ्रं **प्रदर्शय**”  
+> (वराहपुराणम् 70-36.) 
+
+</details>
+
+<details><summary>English</summary>
+
+From the following śloka  :  
+
+> "O mighty Rudra[^f212] , get Śāstras of deluding import composed  
+> and by prompting men to slight effort,  
+> show the fruit of these actions as soon as possible"
+</details>
+
+<details><summary>Español</summary>
+
+From the following śloka  :  
+
+> "O mighty Rudra[^f212] , get Śāstras of deluding import composed  
+> and by prompting men to slight effort,  
+> show the fruit of these actions as soon as possible"
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि अनधिकारिकृतमागैयाले रुद्रभक्तिफलजनकमण्ड्रॆण्ड्रुम् प्रत्यवायमेयुण्डॆण्ड्रुम् सॊल्लिल्; पाशुपतादिशास्त्रङ्गळिल् रुद्रभक्तनुक्के सिल कर्मङ्गळाल् फलम् सॊल्लियिरुप्पदु कूडुमोवॆन्न वरुळिच्चॆय्गिऱार् आगैयालित्यादिना ।  
+आगैयाल् - वैदिक-कर्मानर्हर्गळाय्प्पोन्द इवर्गळुक्कु अवैगळैयनुष्ठित्ताल् भगवन्निग्रहमुम् तन्मूलपापविशेषमुमे वरुमॆण्ड्रु निष्कर्षित्तदालॆण्ड्रबडि. त्वं हीत्यादि । इदु वराहपुराणवचनम्.  
+वरदानसमयत्तिलेये ‘‘मोहशास्त्राणि कारय’’ ऎन्बदाल् पाशुपतादिशास्त्रङ्गळिऱ्‌चॊन्न कर्मविशेषङ्गळुम् तत्फलङ्गळुम् भगवन्निग्रहकार्यङ्गळॆण्ड्रु ज्ञापिक्कप्पडुगिऱदु. वचनतात्पर्यत्तै विस्तरेण विवरिक्किऱार् ऎन्गिऱबडिये इत्यादिना । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् “त्वं हि रुद्र महाबाहो मोहशास्त्राणि कारय । दर्शयित्वाल्पमायासं फलं शीघ्रं प्रदर्शय” (वराहपुराणम् 70-36.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप्-पडिय् ए  
+मोहन-शास्त्रङ्गळिल् ए दृष्ट-फल-सिद्धियैय् उण्डाक्किनदुव् उम्  
+अवट्रैय् इट्टु मोहिप्पित्तु  
+नरकत्तिल् ए विऴ-विडुगैक्क् आगव् इत्तनै. +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-उक्तरीत्या मोहन-शास्त्रेषु दृष्ट-फल-सिद्धेर् उत्पादनम् अपि  
+तद्-द्वारा विमोह्य  
+नरके पातनार्थम् एव ।
+</details>
+
+<details><summary>English</summary>
+
+-from this śloka , we may infer that,  
+if there is success in achieving taṅgīble fruits  
+by following these false śāstra s,  
+it is only for making men fall into delusion and thence into hell.
+</details>
+
+<details><summary>Español</summary>
+
+-from this śloka , we may infer that,  
+if there is success in achieving taṅgīble fruits  
+by following these false śāstra s,  
+it is only for making men fall into delusion and thence into hell.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये मोहनशास्त्रङ्गळिले दृष्टफलसिद्धियै युण्डाक्किनदुवुम् अवट्रैयिट्टु मोहिप्पित्तु नरकत्तिले विऴविडुगैक्कागवित्तनै. 
+</details>
 
 
 
-If, in some places, these gods are spoken of as assisting in the attainment of mokṣa , it should be understood to mean that they, like ācārya s, assist by imparting knowledge and in such other ways. This is also the purport of the following passage ; " The man[^f210] who is a devotee of the god of the sun (Surya) will, after seven more births, become a devotee of Rudra by the Sun's grace. He who is a devotee of Saṅkara will, after seven more births, become a devotee of Viṣṇu  by the grace of Saṅkara." And again :--- "He who is a devotee of Vāsudeva will, after those seven births, become one with Vāsudeva by His grace." In this context it has to be stated that devotion to Surya and others leads gradually to devotion to Bhagavān, only in the case of those who are not subject to mental delusions about the Supreme Self and the Self's that are below it - such delusions as holding that they are all one or that the lower self is the Supreme Self or that all these divinities are of equal power, and provided they are not filled with the hatred natural to the asuric or demoniac Nature. This is evident from the śloka  : "Those who[^f211] hold Parushottama as being similar to the other deities are to be considered heretics unfit for any kind of karma or rite." People who have such delusions in their knowledge (and worship) will meet with defeat due to the punishment inflicted by Bhagavān, although they have devotion to other deities. From the following śloka  : "O mighty Rudra[^f212] , get Śāstras of deluding import composed and by prompting men to slight effort, show the fruit of these actions as soon as possible"-from this śloka , we may infer that, if there is success in achieving taṅgīble fruits by following these false śāstra s, it is only for making men fall into delusion and thence into hell.
 
 [^f207]: Viṣṇudharmam: 1-59
 
@@ -3349,7 +3796,129 @@ If, in some places, these gods are spoken of as assisting in the attainment of m
 
 [^f212]: Varāha purāṇa: 70-36
 
-If Bhagavān, whose will is irresistible, decides that some one deserves His punishment, then that person will find no other god capable of protecting him. It is said in the Rāmāyana " If a man has [^f213] deserved death at the hands of Rāma, neither the four-faced Brahma, who was born of no mortal, nor the three-eyed Rudra who destroyed Tripura, nor the great Indra, who is the leader of the gods, will be able to shield him in battle." If, on the other hand, a man seeks refuge under Bhagavān, even if all the gods and intimate friends of His, like Sugrīva, the great king, propose to injure him, Iśvara will protect him by overcoming wicked men like Ravana who should be overcome, and helping, by persuasion, such good people as the leaders of the monkeys who bad spoken against Vibhishana, as they deserve that course. For has he not said :-"To him who[^f214] has sought my protection even once and begged of me saying, "I am thine" -- to him I afford protection from all beings. This is my vow" and is He not one who ever keeps his word and sees that His vows do not fail ?
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्य-सङ्कल्पन् आन भगवान् ऒरुवनै  
+निग्राह्यन् आगक् कोलिनाल्+++(=मन्यते चेत्)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सत्यसंकल्परूपे भगवति  
+केचिन् निग्राह्यतया संकल्पितवति सति 
+</details>
+
+<details><summary>English</summary>
+
+If Bhagavān, whose will is irresistible,  
+decides that some one deserves His punishment,
+</details>
+
+<details><summary>Español</summary>
+
+If Bhagavān, whose will is irresistible,  
+decides that some one deserves His punishment,
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि रुद्रादिभक्तर्गळै भगवान् निग्रहित्ताल् स्वभक्तर्गळै रुद्रादिकळ् रक्षित्तुक् कॊळ्ळमाट्टार्गळोवॆन्न वरुळिच्चॆय्गिऱार् सत्यसङ्कल्पनान इत्यादियाल्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्यसङ्कल्पनान भगवान् ऒरुवनै निग्राह्यनागक्कोलिनाल्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ब्रह्मा स्वयंभूश् चतुराननो वा  
+> रुद्रस् त्रिनेत्रस् त्रिपुरान्तको वा ।  
+> इन्द्रो महेन्द्रस् सुरनायको वा  
+> त्रातुं न शक्ता युधि रामवध्यम्”  
+> (रामायणम् सुन्दरकाण्डम् 51-45.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “ब्रह्मा स्वयंभूश् चतुराननो वा  
+> रुद्रस् त्रिनेत्रस् त्रिपुरान्तको वा ।  
+> इन्द्रो महेन्द्रस् सुरनायको वा  
+> त्रातुं न शक्ता युधि रामवध्यम्”  
+> (रामायणम् सुन्दरकाण्डम् 51-45.)  
+</details>
+
+<details><summary>English</summary>
+
+It is said in the Rāmāyana  
+
+> " If a man has [^f213] deserved death at the hands of Rāma,  
+> neither the four-faced Brahma, who was born of no mortal,  
+> nor the three-eyed Rudra who destroyed Tripura,  
+> nor the great Indra, who is the leader of the gods,  
+> will be able to shield him in battle." 
+</details>
+
+<details><summary>Español</summary>
+
+It is said in the Rāmāyana  
+
+> " If a man has [^f213] deserved death at the hands of Rāma,  
+> neither the four-faced Brahma, who was born of no mortal,  
+> nor the three-eyed Rudra who destroyed Tripura,  
+> nor the great Indra, who is the leader of the gods,  
+> will be able to shield him in battle." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ब्रह्मा – अण्डाधिपतित्वरूपबृहत्ववान् । अदावदु उत्कर्षवान् । स्वयंभूः – अयोनिजः । चतुराननः – नालु वेदङ्गळुक्कुम् प्रवर्तकङ्गळान नालुमुगत्तैयुडैयवन्. इन्द पदङ्गळाल् स्वरूपत्तालुम् जन्मत्तालुम् वृत्तत्तालुमुत्कर्षम् विवक्षितम्. रुद्रः – रावयतीति रुद्रः । अदावदु संहारकालत्तिल् सर्वजगत्तैयुम् आक्रन्दनम् पण्णुम्बडि सॆय्गिऱवन्. त्रिनेत्रः – त्रिलोकविजयियान मन्मथनै भस्मीकरित्त ललाटनेत्रत्ताले नेत्रत्रयत्तैयुडैयवन्. त्रिपुरान्तकः – ‘‘तेषामसुराणां तिस्रः पुर आसन्’’ ऎण्ड्रु श्रुतिप्रसिद्धङ्गळान मूण्ड्रु पुरङ्गळै नाशम् सॆय्दवन्. इन्द्रः – निरुपपदेन्द्रशब्दवाच्यः । परमैश्वर्यवानित्यर्थः । महेन्द्रः – ‘‘महान्वाऽयमभूद्यो वृत्रमवधीत्’’ऎण्ड्रुम्, ‘‘तन्महेन्द्रस्य महेन्द्रत्व’’ मॆण्ड्रुम् श्रुतिकळिले प्रसिद्धमान वृत्रवधजनितमहोत्कर्षविशिष्टः । सुरनायकः – स्वेतरदिक्पालादिसर्वदेवतैकळुक्कुम् नियन्ता । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ब्रह्मा स्वयंभूश्चतुराननो वा रुद्रस्त्रिनेत्रस्त्रिपुरान्तको वा । इन्द्रो महेन्द्रस्सुरनायको वा त्रातुं न शक्ता युधि रामवध्यम्” (रामायणम् सुन्दरकाण्डम् 51-45.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप्पडिये देवतान्तरङ्गळ् रक्षिक्क शक्तर् अल्लर्गळ्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[६२]]
+
+इत्युक्त्या देवतान्तराणि रक्षितुं नैव शक्तानि ।
+</details>
+
+<details><summary>English</summary>
+
+then that person will find no other god capable of protecting him.
+</details>
+
+<details><summary>Español</summary>
+
+then that person will find no other god capable of protecting him.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+देवतान्तरङ्गळ् रक्षिक्क शक्तरल्लर्गळिति । इवर्गळे रक्षिक्क शक्तरिल्लैयॆन्निल् इतरदेवतैकळ् अशक्तर्गळॆन्बदु कैमुतिकन्यायसिद्धमागैयाले देवतान्तरसामान्यम् रक्षिक्क शक्तरल्लरॆण्ड्रु करुत्तु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये देवतान्तरङ्गळ् रक्षिक्क शक्तरल्लर्गळ्. 
+</details>
+
+
+
+
+If, on the other hand, a man seeks refuge under Bhagavān, even if all the gods and intimate friends of His, like Sugrīva, the great king, propose to injure him, Iśvara will protect him by overcoming wicked men like Ravana who should be overcome, and helping, by persuasion, such good people as the leaders of the monkeys who bad spoken against Vibhishana, as they deserve that course. For has he not said :-"To him who[^f214] has sought my protection even once and begged of me saying, "I am thine" -- to him I afford protection from all beings. This is my vow" and is He not one who ever keeps his word and sees that His vows do not fail ?
 
 [^f213]: Sundarakāṇḍa: 51-45
 
