@@ -2937,8 +2937,168 @@ He is the Father, the Creator."
 इत्यादिगळाले पलप्पडियुञ्चॊन्नार्गळ्.
 </details>
 
+## भगवद्-वीक्षण-वैशिष्ट्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Those who are lucky, even while in their mother's womb and have received, while in the state of being born, the glance of Madhusūdana will become desirous of mokṣa ; for His glance dispels rajas and tamas. Those who are looked at by Brahma and Rudra just before birth will become subject to the influence of rajas and tamas. This difference is brought out in the following passages - "He who[^f206] is looked at by Madhusūdana just as he is being born should be considered to be a pure soul (sātvika) and he will ever think of the goal of mokṣa . Jf, on the other hand, a person is looked at immediately at birth by Brahma or Rudra, his mind will be overcome by rajas and tamas."
+करुविल्+++(=गर्भे)+++ ए तिरुव्-उडैयार्गळ् आय्  
+जायमान-दशैयिल् ए रजस्-तमः-प्रशम-हेतुव् आन मधु-सूदनन्-उडैय कटाक्षम् उडैयवर्गळ्  
+मुमुक्षुक्कळ् आवार्गळ् ऎन्नुम् इडम् उम्  
+ब्रह्म-रुद्र-दृष्टर् आन्-अवर्गळ्  
+रजस्-तमः-परतन्त्रर् आवार्गळ् ऎन्नुम् इडम् उम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+गर्भे श्रीमन्तो जायमान-दशायां  
+रजस्-तमः-प्रशमहेतु--मधु-सूदन-कटाक्ष-भाजो मुमुक्षवः स्युर्  
+इत्य् एषोऽर्थः,  
+ब्रह्म-रुद्र-दृष्टा रजस्-तमः-परतन्त्राः स्युर् इत्य् एषोऽर्थश् च 
+</details>
+
+
+<details><summary>English</summary>
+
+Those who are lucky,  
+even while in their mother's womb  
+and have received, while in the state of being born, the glance of Madhusūdana  
+will become desirous of mokṣa ;  
+for His glance dispels rajas and tamas.  
+Those who are looked at by Brahma and Rudra just before birth  
+will become subject to the influence of rajas and tamas.  
+This difference is brought out in the following passages - 
+</details>
+
+<details><summary>Español</summary>
+
+Those who are lucky,  
+even while in their mother's womb  
+and have received, while in the state of being born, the glance of Madhusūdana  
+will become desirous of mokṣa ;  
+for His glance dispels rajas and tamas.  
+Those who are looked at by Brahma and Rudra just before birth  
+will become subject to the influence of rajas and tamas.  
+This difference is brought out in the following passages - 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इनि जायमानदशैयिल् भगवत्कटाक्षम् मोक्षेच्छैक्कुक् कारणमॆण्ड्रुम् ब्रह्मरुद्रर्गळुडैय दर्शनम् संसारकारणमॆण्ड्रुम् सॊल्लुगिऱ वचनङ्गळै इवर्गळुडैय उत्कर्षापकर्षार्थ मुदाहरिक्कप् पोगिऱवरायवैगळिनर्थत्तै युपक्षेपिक्किऱार् करुविले इत्यादियाल्. करुविले - गर्भदशैयिले तुडङ्गि. तिरुवुडैयार्गळाय् - श्रीमान्गळाय्, जायमानदशैयिले भगवत्कटाक्षम् पॆऱुम्बडि यान सम्बन्दत्तैयुडैयवर्गळायॆण्ड्रबडि.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+करुविले तिरुवुडैयार्गळाय् जायमान दशैयिले रजस्तमःप्रशमहेतुवान मधुसूदननुडैय कटाक्षमुडैयवर्गळ् मुमुक्षुक्कळावार्गळॆन्नुमिडमुम् ब्रह्मरुद्रदृष्टरानवर्गळ् रजस्तमःपरतन्त्ररावार्गळॆन्नुमिडमुम्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> जायमानं हि पुरुषं  
+> यं पश्येन् मधुसूदनः ।  
+> सात्विकस् स तु विज्ञेयस्  
+> स वै मोक्षार्थ-चिन्तकः ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> जायमानं हि पुरुषं  
+> यं पश्येन् मधुसूदनः ।  
+> सात्विकस् स तु **विज्ञेयस्**  
+> स वै मोक्षार्थ-चिन्तकः ॥
+</details>
+
+<details><summary>English</summary>
+
+He who[^f206] is looked at by Madhusūdana  
+just as he is being born  
+should be considered to be a pure soul (sātvika)  
+and he will ever think of the goal of mokṣa . 
+</details>
+
+<details><summary>Español</summary>
+
+He who[^f206] is looked at by Madhusūdana  
+just as he is being born  
+should be considered to be a pure soul (sātvika)  
+and he will ever think of the goal of mokṣa . 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+जायमानदशैयिलेय् ऎण्ड्रदु ‘‘जायमानं हि पुरुष’’म् ऎन्गिऱदिनर्थम्.  
+‘‘रजस्तमःप्रशमहेतुवान" ऎण्ड्रदु मधुसूदनशब्दत्तिऱ्‌कु द्योत्यार्थम्.  
+‘‘मधुसूदननुडैय कटाक्षमुडैयवर्ग"ळॆन्बदु यं पश्येत् ऎन्बदऱ्‌कर्थम्.  
+‘‘मुमुक्षुक्कळावार्गळ्" ऎन्बदु ‘‘सात्विकस्स तु विज्ञेयस्स वै मोक्षार्थचिन्तकः’’ ऎन्गिऱ उत्तरार्धत्तिनर्थम्.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जायमानं हि पुरुषं यं पश्येन्मधुसूदनः । सात्विकस्स तु विज्ञेयस्स वै मोक्षार्थचिन्तकः ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पश्यत्येनं जायमानं  
+> ब्रह्मा रुद्रोऽथ वा पुनः ।  
+> रजसा तमसा चास्य  
+> मानसं **समभिप्लुतम्**  
+> (भारतम् शान्तिपर्व 358-73-77)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> पश्यत्येनं जायमानं  
+> ब्रह्मा रुद्रोऽथ वा पुनः ।  
+> रजसा तमसा चास्य  
+> मानसं **समभिप्लुतम्**  
+> (भारतम् शान्तिपर्व 358-73-77)
+
+</details>
+
+<details><summary>English</summary>
+
+> If, on the other hand, a person is looked at immediately at birth by Brahma or Rudra,  
+> his mind will be overcome by rajas and tamas.
+</details>
+
+<details><summary>Español</summary>
+
+> If, on the other hand, a person is looked at immediately at birth by Brahma or Rudra,  
+> his mind will be overcome by rajas and tamas.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ब्रह्मरुद्रदृष्टर्गळॆन्बदु ‘‘पश्यत्येनं जायमानं ब्रह्मा रुद्रोऽथ वा पुनः’’ ऎन्बदिनर्थम्. रजस्तमःपरतन्त्ररावार्गळॆन्बदु ‘‘रजसा तमसा चास्य मानसं समभिप्लुतं’’ ऎन्गिऱ उत्तरार्धत्तिनर्थम्. ऎण्ड्रु विभजिक्कप्पट्टदु.  
+उत्कृष्टापकृष्टफलप्रदत्वेन पिरिक्कप्पट्टद् ऎण्ड्रबडि.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पश्यत्येनं जायमानं ब्रह्मा रुद्रोऽथ वा पुनः । रजसा तमसा चास्य मानसं समभिप्लुतम् (भारतम् शान्तिपर्व 358-73-77)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु विभजिक्कप्पट्टदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति व्यभज्यत ॥
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु विभजिक्कप्पट्टदु. 
+</details>
+
 
 [^f199]: Mahābhārata: Bhishmaparva 67-2
 
@@ -2956,11 +3116,226 @@ Those who are lucky, even while in their mother's womb and have received, while 
 
 [^f206]: Mahābhārata: Śāntiparva: 358-73--77
 
-THE ASPIRANT FOR MUKTI SHOULD WORSHIP
+## मुमुक्षुभिर् ब्रह्म-रुद्राद्य्-अनुपास्यता
+<details><summary>English</summary>
 
-ONLY BHAGAVĀN.
+THE ASPIRANT FOR MUKTI SHOULD WORSHIP ONLY BHAGAVĀN.
+</details>
 
-That these gods are not to be worshipped by those who desire mokṣa  (and that Nārāyaṇa , the Lord of all, who is the cause of these gods, is alone the deity to be worshipped by all those who desire mokṣa , including these gods) may be seen from the following śloka s :- "To those[^f207] who are sunk in the sea of saṁsāra and whose minds are overpowered by the objects of sense pleasures, there is no other refuge than the ship of Viṣṇu ," "Those who [^f208] have a discriminating intelligence never worship Brahma, or Rudra or any of the other gods, for the fruit of their worship is very limited,” “Hari alone[^f209] is fit to be meditated upon, O Brabmins, by you who are noted for your sattvam. He is always to be adored and I am the means for enabling you to remember Hari.” If, in some places, these gods are spoken of as assisting in the attainment of mokṣa , it should be understood to mean that they, like ācārya s, assist by imparting knowledge and in such other ways. This is also the purport of the following passage ; " The man[^f210] who is a devotee of the god of the sun (Surya) will, after seven more births, become a devotee of Rudra by the Sun's grace. He who is a devotee of Saṅkara will, after seven more births, become a devotee of Viṣṇu  by the grace of Saṅkara." And again :--- "He who is a devotee of Vāsudeva will, after those seven births, become one with Vāsudeva by His grace." In this context it has to be stated that devotion to Surya and others leads gradually to devotion to Bhagavān, only in the case of those who are not subject to mental delusions about the Supreme Self and the Self's that are below it - such delusions as holding that they are all one or that the lower self is the Supreme Self or that all these divinities are of equal power, and provided they are not filled with the hatred natural to the asuric or demoniac Nature. This is evident from the śloka  : "Those who[^f211] hold Parushottama as being similar to the other deities are to be considered heretics unfit for any kind of karma or rite." People who have such delusions in their knowledge (and worship) will meet with defeat due to the punishment inflicted by Bhagavān, although they have devotion to other deities. From the following śloka  : "O mighty Rudra[^f212] , get Śāstras of deluding import composed and by prompting men to slight effort, show the fruit of these actions as soon as possible"-from this śloka , we may infer that, if there is success in achieving taṅgīble fruits by following these false śāstra s, it is only for making men fall into delusion and thence into hell.
+<details><summary>Español</summary>
+
+THE ASPIRANT FOR MUKTI SHOULD WORSHIP ONLY BHAGAVĀN.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवर्गळ् मुमुक्षुक्कळुक्कु अनुपास्यर्  
+
+ऎन्नुम् इडम् उम्,  
+
+> इवर्गळुक्कुक् कारण-भूतनान सर्वेश्वरन् एय्  
+इवर्गळुक्क् उम् मट्रुम्+++(=अन्य)+++-उळ्ळ मुमुक्षुक्कळुक्क् उम् उपास्यन्  
+
+ऎन्नुम् इडम् उम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"एते मुमुक्षूणाम् अनुपास्या" इत्य् अयम् अर्थः  
+"एषां कारण-भूतः सर्वेश्वर एव एषाम् अन्येषाञ् च मुमुक्षूणाम् उपास्य"  
+इत्य् अयम् अर्थश् च 
+</details>
+
+<details><summary>English</summary>
+
+That these gods are not to be worshipped by those who desire mokṣa,  
+and that Nārāyaṇa , the Lord of all,  
+who is the cause of these gods,  
+is alone the deity to be worshipped by all those who desire mokṣa, (including these gods)  
+may be seen from the following śloka s :-
+</details>
+
+<details><summary>Español</summary>
+
+That these gods are not to be worshipped by those who desire mokṣa,  
+and that Nārāyaṇa , the Lord of all,  
+who is the cause of these gods,  
+is alone the deity to be worshipped by all those who desire mokṣa, (including these gods)  
+may be seen from the following śloka s :-
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सर्वमुमुक्षुक्कळुक्कुम्  
+भगवाने उपास्यनॆण्ड्रुम् ब्रह्मरुद्रादिकळनुपास्यरॆण्ड्रुम् सप्रमाणमाग उपपादिक्किऱार् इवर्गळ् मुमुक्षुक्कळुक्कु इत्यादिना ।  
+इवर्गळुक्कु कारणभूतनान इति । इदु हेतुगर्भविशेषणम्.  
+सर्वमुमुक्षुक्कळुक्कुमॆण्ड्रु सॊल्लादे इवर्गळुक्कुम् मट्रुमुळ्ळ मुमुक्षुक्कळुक्कुमॆण्ड्रु सॊन्नदु इदरर्गळुम् भगवावानै उपासित्ते मोक्षम् पॆऱवेण्डियिरुप्पदाल् इवर्गळ् अनुपास्यरॆण्ड्रु स्पष्टीकरिक्कैक्कागवुम्,  
+उपासकर्गळान इवर्गळुक्कु उपास्यनान भगवानोडु साम्यैक्यादिकळ् घटियातॆण्ड्रु ज्ञापिक्कैक्कागवुम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळ् मुमुक्षुक्कळुक्कु अनुपास्यरॆन्नुमिडमुम्,  
+इवर्गळुक्कुक् कारणभूतनान सर्वेश्वरनेय् इवर्गळुक्कुम् मट्रुमुळ्ळ मुमुक्षुक्कळुक्कुम् उपास्यनॆन्नुमिडमुम्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “संसारार्णव-मग्नानां  
+> विषयाक्रान्त-चेतसाम् ।  
+> विष्णु-पोतं विना **नान्यत्**  
+> किञ्चिद् **अस्ति** परायणम् ॥” (विष्णु तर्मम् 1-59.) 
+
+ऎण्ड्रुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “संसारार्णव-मग्नानां  
+> विषयाक्रान्त-चेतसाम् ।  
+> विष्णु-पोतं विना **नान्यत्**  
+> किञ्चिद् **अस्ति** परायणम् ॥” (विष्णु तर्मम् 1-59.) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+"To those[^f207] who are sunk in the sea of saṁsāra  
+and whose minds are overpowered by the objects of sense pleasures,  
+there is no other refuge than the ship of Viṣṇu ," 
+</details>
+
+<details><summary>Español</summary>
+
+"To those[^f207] who are sunk in the sea of saṁsāra  
+and whose minds are overpowered by the objects of sense pleasures,  
+there is no other refuge than the ship of Viṣṇu ," 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+संसारार्णवमग्नानामिति संसारार्णवमग्नत्वं आब्रह्मस्तंबपर्यन्ताः ऎन्गिऱ वचनत्तिल् ब्रह्मरुद्रादिकळुक्कुम् सॊल्लप्पट्टदिऱे.  
+परायणं – ईयते अनेनेत्ययनं, श्रेष्ठमान उबायम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“संसारार्णवमग्नानां विषयाक्रान्तचेतसाम् । विष्णुपोतं विना नान्यत् किञ्चिदस्ति परायणम् ॥” (विष्णु तर्मम् 1-59.) ऎण्ड्रुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ब्रह्माणं शितिकण्ठञ् च  
+> याश्चान्या देवतास् स्मृताः ।  
+> प्रतिबुद्धा **न सेवन्ते**  
+> यस्मात् परिमितं फलम्”  
+> (भारतम् शान्तिपर्व 350-36.) 
+
+ऎण्ड्रुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “ब्रह्माणं शितिकण्ठञ् च  
+> याश्चान्या देवतास् स्मृताः ।  
+> प्रतिबुद्धा **न सेवन्ते**  
+> यस्मात् परिमितं फलम्”  
+> (भारतम् शान्तिपर्व 350-36.) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+"Those who [^f208] have a discriminating intelligence  
+never worship Brahma, or Rudra or any of the other gods,  
+for the fruit of their worship is very limited,” 
+</details>
+
+<details><summary>Español</summary>
+
+"Those who [^f208] have a discriminating intelligence  
+never worship Brahma, or Rudra or any of the other gods,  
+for the fruit of their worship is very limited,” 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+याश्चान्या देवतास्स्मृताः । ता इत्यध्याहारः ।  
+प्रतिबुद्धाः – उपास्यस्वरूपज्ञाः ।  
+यस्मात्परिमितं फलमिति । यस्मात्तत्सेवनस्य फलम् परिमितमो तस्मान्न सेवन्त इत्यर्थः । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“ब्रह्माणं शितिकण्ठञ्च याश्चान्या देवतास्स्मृताः । प्रतिबुद्धा न सेवन्ते यस्मात्परिमितं फलम्” (भारतम् शान्तिपर्व 350-36.) ऎण्ड्रुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “हरिरेकस् सदा **ध्येयो**  
+भवद्भिस् सत्त्व-संस्थितैः ।  
+**उपास्यो** ऽयं सदा विप्रा  
+**उपायोऽस्मि** हरेः स्मृतौ”  
+> (हरिवंशं ३.८९.९)
+
+ऎण्ड्र् उञ् चॊल्लप्पट्टदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “हरिरेकस् सदा **ध्येयो**  
+भवद्भिस् सत्त्व-संस्थितैः ।  
+**उपास्यो** ऽयं सदा विप्रा  
+**उपायोऽस्मि** हरेः स्मृतौ”  
+> (हरिवंशं ३.८९.९)
+
+इति च प्रत्यपादि ॥
+</details>
+
+
+<details><summary>English</summary>
+
+“Hari alone[^f209] is fit to be meditated upon, O Brabmins,  
+by you who are noted for your sattvam.  
+He is always to be adored  
+and I am the means for enabling you to remember Hari.” 
+</details>
+
+<details><summary>Español</summary>
+
+“Hari alone[^f209] is fit to be meditated upon, O Brabmins,  
+by you who are noted for your sattvam.  
+He is always to be adored  
+and I am the means for enabling you to remember Hari.” 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+‘‘**हरिरेकस्सदा ध्येयः**’’ ‘‘**उपास्योऽयं सदा विप्राः**’’  
+ऎण्ड्रु अवनुक्के ध्येयत्वादिकळ् सॊल्लप्पट्टदुगळ्.  
+"एवन् तर्हि भवत उपास्यत्वं नास्ति किम्?" इत्यत्राह  
+"**उपायोऽस्मि हरेः स्मृताव्**" इति ।  
+हरेः स्मृतौ –  
+हरियिनुडैय निरन्तर-स्मृति-रूपोपासनत्तिल् ए.  
+**उपायोऽस्मि** – उपदेशादिमुखत्तालेयॆण्ड्रु करुत्तु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“हरिरेकस्सदा ध्येयो भवद्भिस्सत्त्वसंस्थितैः । उपास्योऽयं सदा विप्रा उपायोऽस्मि हरेः स्मृतौ” (हरिवंशं ३.८९.९) ऎण्ड्रुञ्चॊल्लप्पट्टदु.
+</details>
+
+
+
+
+If, in some places, these gods are spoken of as assisting in the attainment of mokṣa , it should be understood to mean that they, like ācārya s, assist by imparting knowledge and in such other ways. This is also the purport of the following passage ; " The man[^f210] who is a devotee of the god of the sun (Surya) will, after seven more births, become a devotee of Rudra by the Sun's grace. He who is a devotee of Saṅkara will, after seven more births, become a devotee of Viṣṇu  by the grace of Saṅkara." And again :--- "He who is a devotee of Vāsudeva will, after those seven births, become one with Vāsudeva by His grace." In this context it has to be stated that devotion to Surya and others leads gradually to devotion to Bhagavān, only in the case of those who are not subject to mental delusions about the Supreme Self and the Self's that are below it - such delusions as holding that they are all one or that the lower self is the Supreme Self or that all these divinities are of equal power, and provided they are not filled with the hatred natural to the asuric or demoniac Nature. This is evident from the śloka  : "Those who[^f211] hold Parushottama as being similar to the other deities are to be considered heretics unfit for any kind of karma or rite." People who have such delusions in their knowledge (and worship) will meet with defeat due to the punishment inflicted by Bhagavān, although they have devotion to other deities. From the following śloka  : "O mighty Rudra[^f212] , get Śāstras of deluding import composed and by prompting men to slight effort, show the fruit of these actions as soon as possible"-from this śloka , we may infer that, if there is success in achieving taṅgīble fruits by following these false śāstra s, it is only for making men fall into delusion and thence into hell.
 
 [^f207]: Viṣṇudharmam: 1-59
 
