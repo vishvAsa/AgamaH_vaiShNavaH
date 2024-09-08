@@ -4726,7 +4726,7 @@ But there is delay in such cases as may be seen in the above (following) passage
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मोक्षरुचि पिऱन्दु  
-वल्लद् ऒरु उपायत्तिले मूण्डाल्
+वल्लद् ऒरु उपायत्तिले मूण्डाल्+++(=प्रवृत्ते)+++
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -4747,15 +4747,143 @@ When the desire for mokṣa  has become ardent
 and when the man practises  upāya which is within his power,  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि ऐश्वर्यार्थिक्कु अन्ततो मोक्षम् सिद्धित्तालुम् ऐश्वर्यरुचि माऱि मोक्षत्तिल् रुचि वरुवदऱ्‌कुम् मोक्षोपायप्रवृत्ति वरुवदऱ्‌कुम् बहुकालविळम्बत्तै वचनङ्गळाले काट्टि, मुदलिलेये उत्कटसुकृतविशेषत्ताल् मोक्षरुचि पिऱन्दु मोक्षार्थं भगवानै आश्रयित्तवनुक्कु मोक्षसिद्धियिल् विळम्बमिल्लै यॆन्गिऱार् मोक्षरुचि पिऱन्दु इत्यादिना । मोक्षरुचि पिऱन्दु ऎन्बदाल् मोक्षरुचिहेतुभूतबहुजन्मविळम्बमिवनुक्कु इल्लैयॆन्बदु सूचितम्. वल्लदॊरु उपायमिति । वल्लदु - शक्यमानदु. सद्विद्यादिभक्तिभेदङ्गळिल् तन् शक्तिक्कनुगुणमानदु ऎण्ड्रबडि. मूण्डालिति । मूळुगै - प्रवृत्तिक्कै. 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
 मोक्षरुचि पिऱन्दु वल्लदॊरु उपायत्तिले मूण्डाल्
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तेषाम् अहं **समुद्धर्ता**  
+> मृत्यु-संसार-सागरात् ।  
+> **भवामि न** चिरात् पार्थ  
+> मय्य् आवेशित-चेतसाम्”  
+> (गीता 12-7.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘तेषाम् अहं **समुद्धर्ता**  
+> मृत्यु-संसार-सागरात् ।  
+> **भवामि न** चिरात् पार्थ  
+> मय्य् आवेशित-चेतसाम्”  
+> (गीता 12-7.)
+
+</details>
+
+<details><summary>English</summary>
+
+> "To those who have fixed their minds on me -  
+to them I become the redeemer  
+> and save them quickly out of the sea of saṁsāra". 
+</details>
+
+<details><summary>Español</summary>
+
+> "To those who have fixed their minds on me -  
+to them I become the redeemer  
+> and save them quickly out of the sea of saṁsāra". 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तेषामित्यादि । अनन्यप्रयोजनयोगत्तालेऎन्नै ध्यानम् पण्णुगिऱवर्गळै मोक्षविरोधिसंसारसागरत्तिल् निण्ड्रुम् स्वल्पकालत्तिलेये समुद्धरणम् पण्णुगिऱेन् ऎन्गै. 
+</details>
 
 
-there will be no delay in the attainment of mokṣa , for He has declared:[^f224] "To those who have fixed their minds on me - to them I become the redeemer and save them quickly out of the sea of saṁsāra". To him who adopts prapatti as the independent means, there is neither delay nor absence of delay, except in accordance with his own desire These distinctions will be accepted by all who have regard for the pramāṇas and they have their effect by the will of Iśvara which cannot be questioned, for has it not been said, " The [^f225] lordship of Iśvara is absolutely independent and brooks no questioning ?" To those who do not clearly understand these principles in this way, the worship of other deities is prescribed in such passages as the following: "They may [^f226] be worshipped by men other than those who have discriminating intelligence,"
+<details><summary>मूलम्</summary>
+
+‘‘तेषामहं समुद्धर्ता मृत्युसंसारसागरात् । भवामि न चिरात्पार्थ मय्यावेशितचेतसाम्”(गीता 12-7.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप्पडिये मोक्षसिद्धिक्कु विळम्बमिल्लै.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्तरीत्या मोक्षसिद्धौ विलम्बो न भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+there will be no delay in the attainment of mokṣa , for He has declared +++(the above)+++:[^f224] 
+</details>
+
+<details><summary>Español</summary>
+
+there will be no delay in the attainment of mokṣa , for He has declared +++(the above)+++:[^f224] 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मोक्षसिद्धिक्कु विळम्बमिल्लै इति । ऐश्वर्यार्थिक्कुप्पोले ऐश्वर्यानुभवत्तालुण्डान विळम्बमुम् मोक्षरुचियुण्डावदऱ्‌काग बहुपुण्यजन्मविळम्बमुमिल्लैयॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप्पडिये मोक्षसिद्धिक्कु विळम्बमिल्लै.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्र-प्रपत्ति-निष्ठनुक्कुत्  
+तान् कोलिनद्+++(=वृतम्)+++ एय् अळवु,  
+वेऱु विलम्बाविलम्बङ्गळुक्कुक् कुऱिय्+++(=गमकं)+++ इल्लै. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वतन्त्रप्रपत्तिनिष्टस्य स्वोद्दिष्ट एवावधिः ।  
+अन्यत् विलम्बाविलम्बगमकं नास्ति । 
+</details>
+
+<details><summary>English</summary>
+
+To him who adopts prapatti as the independent means,  
+there is neither delay nor absence of delay,  
+except in accordance with his own desire.  
+</details>
+
+<details><summary>Español</summary>
+
+To him who adopts prapatti as the independent means,  
+there is neither delay nor absence of delay,  
+except in accordance with his own desire.  
+</details>
+
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि मुदलिलेये मोक्षरुचि पिऱन्दु सद्विद्यादिकळिलिऴिबवनुक्कुम् ‘‘भवामि न चिरात्’’ ऎन्गिऱबडि मोक्षमविळम्बेन वरुमॆण्ड्राल् स्वतन्त्रप्रपत्तिक्कु अविळम्बेन मोक्षजनकत्वप्रथै ऎङ्ङनेयॆन्नवरुळिच्चॆय्गिऱार् स्वतन्त्र-प्रपत्तिनिष्ठनुक्कुत् तान् कोलिनदेयळवु इति ।  
+तान्गोलिनदेयळवु - तान् कोलिन क्षणान्तर दिवसान्तर देहावसानादिकळिल् इवन् कोलिनगालमे मोक्षावधियॆण्ड्र पडि. वेऱु विळम्बाविळम्बङ्गळुक्कुक् कुऱियिल्लै इति ।  
+सद्विद्यादिनिष्ठर्गळुक्कु ‘‘तस्य तावदेव चिरं यावन्न विमोक्ष्ये’’ ऎन्गिऱबडि तङ्गळ् तङ्गळ् प्रारब्धकर्मनाशावधि विळम्बाविळम्बङ्गळ् वरुवदुबोल् इवनुक्कु वेऱु विळम्बाविळम्बहेतुविल्लै यॆन्नबडि.  
+तथा च भक्तनुक्कु भवामि न चिरात् ऎन्गिऱबडिये मोक्षम् कडुग वरुमॆण्ड्रालुम् ‘‘तस्य तावदेव’’ ऎन्गिऱबडि प्रारब्धकर्मावधि विळम्बमुण्डु.  
+प्रारब्धत्तुक्कुम् नाशकमान स्वतन्त्रप्रपत्ति यिलिऴिन्दवनुक्कु इवन् कोलिनगालत्तिल् प्रारब्धमुम् नशित्तु मोक्षमुण्डागैयाल् भक्ति, विळम्बेन मोक्षजनकमॆण्ड्रुम्, स्वतन्त्रप्रपत्ति कोलिनगालत्तिले अविळम्बेन मोक्षजनकमॆण्ड्रुम् शास्त्रङ्गळिल् प्रथै ऎण्ड्रु करुत्तु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रप्रपत्तिनिष्ठनुक्कुत् तान् कोलिनदेयळवु, वेऱु विळम्बाविळम्बङ्गळुक्कुक् कुऱियिल्लै. 
+</details>
+
+
+
+These distinctions will be accepted by all who have regard for the pramāṇas and they have their effect by the will of Iśvara which cannot be questioned, for has it not been said, " The [^f225] lordship of Iśvara is absolutely independent and brooks no questioning ?" To those who do not clearly understand these principles in this way, the worship of other deities is prescribed in such passages as the following: "They may [^f226] be worshipped by men other than those who have discriminating intelligence,"
 
 [^f215]: Bhagavadgītā: 4-12
 
