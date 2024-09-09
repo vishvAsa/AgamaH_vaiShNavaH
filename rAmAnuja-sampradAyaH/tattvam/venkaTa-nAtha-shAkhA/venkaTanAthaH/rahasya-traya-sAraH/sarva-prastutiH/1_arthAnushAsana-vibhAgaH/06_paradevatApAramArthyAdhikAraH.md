@@ -5198,19 +5198,47 @@ offers worship to them owing to a special desire for obtaining quickly the small
 the fruit will be fully and completely realised in perfect measure.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडियागिल् देवतान्तर-भक्तर्गळुक्क् उम् फलसिद्धियुण्डॆण्ड्रुम् अदु भगवानालेये दत्तमॆण्ड्रुम् ‘‘मयैव विहितान् हि तान्’’ इत्यादिकळिले सॊन्नदु ऎङ्ङने यॆन्न वरुळिच्चॆय्गिऱार् भगवच्छरीरङ्गळ् ऎण्ड्रऱिन्दु इत्यादिना । सर्वं भगवच्छरीरमॆण्ड्रु तॆरिन्दाल् अवर्गळ् शरीरियान आत्मावै विट्टु शरीरभूतरान अवर्गळै आश्रयिप्पार्गळो वॆन्न वरुळिच्चॆय्गिऱार् क्षुद्रफलङ्गळैक् कडुगप् पॆऱवेणुमॆन्गिऱ रागविशेषत्ताले इति । भगवान् सर्वशरीरी, अवनुक्कु सर्वम् शरीरम् ऎण्ड्रु तत्त्वज्ञानमुळ्ळवनुक्कुम् प्रारब्धकर्मवशत्ताले क्षुद्रफलङ्गळिलासैयुम् देवतान्तरङ्गळ् शीघ्रफलप्रदङ्गळॆन्गिऱ ऎण्णमुमुण्डागुमादलाल् तदर्थमाग देवतान्तरङ्गळै आश्रयिक्कलामॆण्ड्रु करुत्तु. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 भगवच्छरीरङ्गळॆण्ड्रऱिन्दु क्षुद्रफलङ्गळैक् कडुगप् पॆऱवेणुमॆन्गिऱ रागविशेषत्ताले अवर्गळै उपासिप्पार्क्कु अव्वो फलङ्गळ् पूर्णङ्गळाम्. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडियऱिन्दाल् भगवान् तन्नैये ‘‘आर्तो जिज्ञासुरर्थार्थी” (गीता 7-16.) ऎन्गिऱप्पडिये फलान्तरङ्गळुक्कागवुम् पट्रिनाल् अन्द फलङ्गळ् अतिशयितङ्गळाम्. अनन्यप्रयोजनराय्प् पट्रिनार्क्कुम् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडियऱिन्दाल् भगवान् तन्नैये ‘‘आर्तो जिज्ञासुरर्थार्थी” (गीता 7-16.) ऎन्गिऱप्पडिये फलान्तरङ्गळुक्कागवुम् पट्रिनाल् अन्द फलङ्गळ् अतिशयितङ्गळाम्. अनन्यप्रयोजनराय्प् पट्रिनार्क्कुम् 
+</details>
 
 
 
 
 [^f227]: Bhagavadgītā: 9-23
 
-The Gita thus speaks of those who approach Bhagavān for minor fruits :-" The man[^f228] who has lost his wealth but seeks to recover it, the man who wants to enjoy his own soul, and the man who wants to acquire prosperity” All these will have their reward in even greater measure." Of those who adore Bhagavān without any such desire for minor fruits and only for the sake of mokṣa , it is said, "Hari[^f229] , who confers mokṣa , gives to His worshippers who meditate on Him, health of body, wealth, and enjoyment, in addition to what they desire viz., mokṣa ". These are, so to say, adventitious or incidental rewards (ānushaṅgīka ) not sought by them. Śrī Kulasekhara Perumal, to whom such adventitious prosperity was vouchsafed, says in this connection:-"The man[^f230] who desires only Thee and does not seek great prosperity -  prosperity comes and seeks him." Isandan also has stated this in his stotra thus "Those enjoyments which were formerly desired but could not be obtained come to us, of their own accord, without any effort or exertion on our part, like rivers flowing into the ocean, (although we do not desire them now)." (It may be asked why all those who desire only mokṣa  are not blessed with the good things of this life ). (The answer is):- This is due to the special form of meditation or vidyā practised by the devotee and the special desires of his earlier life. (Some vidyās secure worldly prosperity in addition to mokṣa  after death, while others secure only mokṣa .)
+The Gita thus speaks of those who approach Bhagavān for minor fruits :-  
+
+> " The man[^f228] who has lost his wealth but seeks to recover it,  
+> the man who wants to enjoy his own soul,  
+> and the man who wants to acquire prosperity   
+> All these will have their reward in even greater measure." 
+
+Of those who adore Bhagavān without any such desire for minor fruits  
+and only for the sake of mokṣa , it is said, 
+
+> "Hari[^f229] , who confers mokṣa ,  
+> gives to His worshippers who meditate on Him, health of body, wealth, and enjoyment,  
+> in addition to what they desire viz., mokṣa ". 
+
+These are, so to say, adventitious or incidental rewards (ānushaṅgīka ) not sought by them. Śrī Kulasekhara Perumal, to whom such adventitious prosperity was vouchsafed, says in this connection:-"The man[^f230] who desires only Thee and does not seek great prosperity -  prosperity comes and seeks him." Isandan also has stated this in his stotra thus "Those enjoyments which were formerly desired but could not be obtained come to us, of their own accord, without any effort or exertion on our part, like rivers flowing into the ocean, (although we do not desire them now)." (It may be asked why all those who desire only mokṣa  are not blessed with the good things of this life ). (The answer is):- This is due to the special form of meditation or vidyā practised by the devotee and the special desires of his earlier life. (Some vidyās secure worldly prosperity in addition to mokṣa  after death, while others secure only mokṣa .)
 
 [^f228]: Bhagavadgītā: 7-16
 
