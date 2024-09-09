@@ -4990,13 +4990,10 @@ other than those who have discriminating intelligence,"
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इव्वर्थङ्गळिप्पडि तॆळियादार्क्के देवतान्तरङ्गळ् सेव्यङ्गळॆन्नुमिडम् ‘‘प्रतिबुद्धवर्जं सेव्यं तु” () ऎण्ड्रु व्यवस्थै पण्णप् पट्टदु. 
 </details>
-
-
 
 [^f215]: Bhagavadgītā: 4-12
 
@@ -5022,7 +5019,64 @@ other than those who have discriminating intelligence,"
 
 [^f226]: ?
 
-Those who worship these other deities without knowing that they are the bodies of Bhagavān are like a follower of Charvaka (a materialist who believes that there is nothing other than the body called the soul) who anoints the body of the king, his master, without knowing that his master has a soul. It is true that the soul of the king is pleased with the service done to his body. In the same way, as a matter of fact, the devotion to these other deities is really the worship of Bhagavān, as they are only His bodies. Notwithstanding this, the fruit of this devotion to the lower deities would be only partial and incomplete. (We may remember in this connection the śloka  in the Gita) which says:- " Those [^f227] who sacrifice with faith and earnestness to other deities -- they, too, sacrifice only to me, but not in the manner and according to the rules prescribed for it." Since the rite is performed in an irregular manner without the observance of all the rules, the fruit will be partial and incomplete, If, on the other hand, a man, knowing that these other gods are only the bodies of Bhagavān, offers worship to them owing to a special desire for obtaining quickly the smaller goods of life, the fruit will be fully and completely realised in perfect measure.
+## देवतान्तर-फलाल्पत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद्-देवतान्तरङ्गळै भगवच्-छरीरम् ऎण्ड्रु अऱियाद् ए पट्रिनार्क्कु+++(=संयुक्तेभ्यः)+++  
+चार्वाकन् आय् इरुप्पान् ऒरु सेवकन्  
+राजाविन्-उडम्बिल् ए चन्दनादिगळै प्रयोगिक्क  
+राज-शरीरत्तिल् आत्मा प्रीतम् आन् आप्-पोल् ए  
+वस्तु-वृत्तियिल् सर्वेश्वरन् ए आराध्यन् आनाल् उम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमानि देवतान्तराणि भगवच्-छरीरत्वेनाबुध्वा आश्रयताम्  
+— चार्वाकेण सता केनचित् सेवकेन  
+राजशरीरे चन्दनादौ प्रयुक्ते सति,  
+राजशरीरे यथाऽऽत्मा प्रीतो भवति  
+तथा वस्तुगत्या सर्वेश्वरे आराध्ये सत्यपि …
+</details>
+
+<details><summary>English</summary>
+
+Those who worship these other deities  
+without knowing that they are the bodies of Bhagavān  
+are like a follower of Charvaka (a materialist who believes that there is nothing other than the body called the soul)  
+who anoints the body of the king, his master,  
+without knowing that his master has a soul.  
+
+</details>
+
+<details><summary>Español</summary>
+
+Those who worship these other deities  
+without knowing that they are the bodies of Bhagavān  
+are like a follower of Charvaka (a materialist who believes that there is nothing other than the body called the soul)  
+who anoints the body of the king, his master,  
+without knowing that his master has a soul.  
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इप्पडि प्रतिबुद्धेतरर्गळुक्के देवतान्तरमाराध्य मॆण्ड्रालुम्, अन्द आराधनत्ताल् तत्तद्देवतान्तरान्तर्यामियान भगवाने वस्तुतः आराध्यनागैयाले अवनुक्कुम् प्रतिबुद्धनुक्कुम् सममागवे ईश्वरन् फलप्रदानम् पण्ण वेण्डुगैयालिरुवरुक्कुम् फलांशत्तिल् साम्यमे सिद्धिक्कादोवॆण्ड्रु शङ्कित्तु समाधानमरुळिच्चॆय्गिऱार् इत्देवतान्तरङ्गळै भगवच्छरीरमॆण्ड्रु अऱियादे पट्रिनार्क्कु इत्यादिना । इदऱ्‌कु वस्तुवृत्तियिल् सर्वेश्वरने आराद्ध्यनानालुमॆन्ब तोडन्वयम्.  
+इदऱ्‌कु अनुरूपदृष्टान्तमरुळिच्चॆय्गिऱार् चार्वाकनायिरुप्पानॊरुसेवकनित्यादिना ।  
+चार्वाकन् - प्रत्यक्षसिद्धङ्गळान शरीरादिकळैत् तविर अदिलुळ्ळे आत्मा ऎन्गिऱ वस्तु ऒण्ड्रुण्डॆण्ड्रु ऒप्पुक्कॊळ्ळादवन्. इदनाल् राजाविनुडैय आत्मप्रीतियै उद्देशित्तु अवन् राजशरीरत्तिल् चन्दनादिकळैप् पूसुगिऱानल्लनॆण्ड्रु ज्ञापिक्कप्पडुगिऱदु.  
+राजशरीरत्तिल् आत्मा प्रीतमानाप्पोले इति ।  
+चन्दनम् पूसुगिऱ चार्वाकनुक्कु राजाविनुडैय आत्मप्रीति उद्देश्यमिल्लाविडिलुम् वस्तुतः राजाविनुडैय आत्मावे प्रीतनागिऱानागैया लदुबोलेयॆन्नबडि. इदै दार्ष्टान्तिकत्तिल् काट्टुगिऱार् वस्तुवृत्तियिल् सर्वेश्वरने आराध्यन् आनालुमिति ।  
+आनालुमित्यनेन दृष्टान्तदार्ष्टान्तिकयोः आराध्यत्वांशत्तिल् साम्यमङ्गीकरिक्कप्पट्टदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इद्देवतान्तरङ्गळै भगवच्छरीरम् ऎण्ड्रु अऱियादे पट्रिनार्क्कु चार्वाकनायिरुप्पानॊरु सेवकन् राजाविनुडम्बिले चन्दनादिगळै प्रयोगिक्क राजशरीरत्तिल् आत्मा प्रीतमानाप्पोले वस्तुवृत्तियिल् सर्वेश्वरने आराध्यनानालुम्
+</details>
+
+
+
+It is true that the soul of the king is pleased with the service done to his body. In the same way, as a matter of fact, the devotion to these other deities is really the worship of Bhagavān, as they are only His bodies. Notwithstanding this, the fruit of this devotion to the lower deities would be only partial and incomplete. (We may remember in this connection the śloka  in the Gita) which says:- " Those [^f227] who sacrifice with faith and earnestness to other deities -- they, too, sacrifice only to me, but not in the manner and according to the rules prescribed for it." Since the rite is performed in an irregular manner without the observance of all the rules, the fruit will be partial and incomplete, If, on the other hand, a man, knowing that these other gods are only the bodies of Bhagavān, offers worship to them owing to a special desire for obtaining quickly the smaller goods of life, the fruit will be fully and completely realised in perfect measure.
 
 [^f227]: Bhagavadgītā: 9-23
 
