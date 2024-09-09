@@ -5019,7 +5019,7 @@ other than those who have discriminating intelligence,"
 
 [^f226]: ?
 
-## देवतान्तर-फलाल्पत्वम्
+## देवतान्तर-द्वारा-भगवद्-अर्चनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद्-देवतान्तरङ्गळै भगवच्-छरीरम् ऎण्ड्रु अऱियाद् ए पट्रिनार्क्कु+++(=संयुक्तेभ्यः)+++  
@@ -5045,7 +5045,9 @@ without knowing that they are the bodies of Bhagavān
 are like a follower of Charvaka (a materialist who believes that there is nothing other than the body called the soul)  
 who anoints the body of the king, his master,  
 without knowing that his master has a soul.  
-
+It is true that the soul of the king is pleased with the service done to his body.  
+In the same way, as a matter of fact, the devotion to these other deities is really the worship of Bhagavān,  
+as they are only His bodies.
 </details>
 
 <details><summary>Español</summary>
@@ -5055,6 +5057,9 @@ without knowing that they are the bodies of Bhagavān
 are like a follower of Charvaka (a materialist who believes that there is nothing other than the body called the soul)  
 who anoints the body of the king, his master,  
 without knowing that his master has a soul.  
+It is true that the soul of the king is pleased with the service done to his body.  
+In the same way, as a matter of fact, the devotion to these other deities is really the worship of Bhagavān,  
+as they are only His bodies.
 
 </details>
 
@@ -5074,9 +5079,134 @@ without knowing that his master has a soul.
 इद्देवतान्तरङ्गळै भगवच्छरीरम् ऎण्ड्रु अऱियादे पट्रिनार्क्कु चार्वाकनायिरुप्पानॊरु सेवकन् राजाविनुडम्बिले चन्दनादिगळै प्रयोगिक्क राजशरीरत्तिल् आत्मा प्रीतमानाप्पोले वस्तुवृत्तियिल् सर्वेश्वरने आराध्यनानालुम्
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ये त्व् अन्य-देवता-भक्ता  
+> **यजन्ते** श्रद्धया ऽन्विताः ।  
+> तेऽपि माम् एव कौन्तेय  
+> **यजन्त्य्** अविधिपूर्वकम्” (गीता 9-23.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘ये त्व् अन्य-देवता-भक्ता  
+> **यजन्ते** श्रद्धया ऽन्विताः ।  
+> तेऽपि माम् एव कौन्तेय  
+> **यजन्त्य्** अविधिपूर्वकम्” (गीता 9-23.)
+</details>
+
+<details><summary>English</summary>
+
+(We may remember in this connection the śloka  in the Gita) which says:- 
+
+> " Those [^f227] who sacrifice with faith and earnestness to other deities  -- they, too, sacrifice only to me,  
+> but not in the manner and according to the rules prescribed for it."  
+
+</details>
+
+<details><summary>Español</summary>
+
+(We may remember in this connection the śloka  in the Gita) which says:- 
+
+> " Those [^f227] who sacrifice with faith and earnestness to other deities  -- they, too, sacrifice only to me,  
+> but not in the manner and according to the rules prescribed for it."  
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडियानालुम् अप्रतिबुद्धनुक्कु फलवैकल्यम् वचनसिद्धमॆन्गिऱार् ये त्वन्यदेवताभक्ताः इत्यादि । इदिल् मामेव कौन्तेय यजन्ति ऎन्गिऱ पर्यन्तम् सर्वेश्वरने आराध्यनानालुमॆन्बदाल् पूर्वमेव विवरिक्कप् पट्टदु. अविधिपूर्वकमिति । कर्मङ्गळुक्कु पूर्णफलोत्पादनसिद्ध्यर्थमाग देवतैकळुक्कु भगवच्छरीरत्वानुसन्धानम् शास्त्रङ्गळिल् विधिक्कप्पट्टदु. अन्द भगवच्छरीरत्वानुसन्धानमिल्लाविडिल् अन्द यजनम् विधिपूर्वकमण्ड्रॆण्ड्रु करुत्तु. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘ये त्वन्यदेवताभक्ता यजन्ते श्रद्धयान्विताः । तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम्” (गीता 9-23.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱप् पडिय् ए  
+शास्त्रार्थ-वैकल्यम् उण्ड् आनप्-पडियाल् ए  
+अवट्रिऱ् ‌चॊन्न फलम् विकलम् आम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्तरीत्या  
+शास्त्रार्थ-वैकल्यस्य जातत्वात्  
+तत्रोक्तं फलम् अपि विकलं भवति । 
+</details>
 
 
-It is true that the soul of the king is pleased with the service done to his body. In the same way, as a matter of fact, the devotion to these other deities is really the worship of Bhagavān, as they are only His bodies. Notwithstanding this, the fruit of this devotion to the lower deities would be only partial and incomplete. (We may remember in this connection the śloka  in the Gita) which says:- " Those [^f227] who sacrifice with faith and earnestness to other deities -- they, too, sacrifice only to me, but not in the manner and according to the rules prescribed for it." Since the rite is performed in an irregular manner without the observance of all the rules, the fruit will be partial and incomplete, If, on the other hand, a man, knowing that these other gods are only the bodies of Bhagavān, offers worship to them owing to a special desire for obtaining quickly the smaller goods of life, the fruit will be fully and completely realised in perfect measure.
+<details><summary>English</summary>
+
+Notwithstanding this, the fruit of this devotion to the lower deities would be only partial and incomplete.
+
+Since the rite is performed in an irregular manner without the observance of all the rules,  
+the fruit will be partial and incomplete,
+</details>
+
+<details><summary>Español</summary>
+
+Notwithstanding this, the fruit of this devotion to the lower deities would be only partial and incomplete.
+
+Since the rite is performed in an irregular manner without the observance of all the rules,  
+the fruit will be partial and incomplete,
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि यिवर्गळुडैय यजनत्तिल् विधिवैकल्यमुण्डागैयाल् फलवैकल्यमुमुण्डॆन्गिऱार् ऎन्गिऱबडिये शास्त्रार्थ-वैकल्यमुण्डानबडियालवट्रिल् सॊन्न फलं विकलमामिति । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱप् पडिय् ए  
+शास्त्रार्थ-वैकल्यम् उण्ड् आनप्-पडियाल् ए  
+अवट्रिऱ् ‌चॊन्न फलम् विकलम् आम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवच्-छरीरङ्गळ् ऎण्ड्र् अऱिन्दु  
+क्षुद्र-फलङ्गळैक् कडुगप्+++(=शीघ्रं)+++ पॆऱ+++(=प्राप्तुम्)+++-वेणुम् ऎन्गिऱ राग-विशेषत्ताल् ए  
+अवर्गळै उपासिप्पार्क्कु  
+अव्वो फलङ्गळ् पूर्णङ्गळ् आम्.+++(5)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भगवच्-छरीरतां बुद्ध्वा  
+क्षुद्र-फलानि झट् इति प्राप्तव्यानि  
+इति राग-विशेषेण तानि ( देवतान्तराणि) उपासीनानां  
+तत्-तत्-फलानि पूर्णानि भवन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+If, on the other hand, a man, knowing that these other gods are only the bodies of Bhagavān,  
+offers worship to them owing to a special desire for obtaining quickly the smaller goods of life,  
+the fruit will be fully and completely realised in perfect measure.
+</details>
+
+<details><summary>Español</summary>
+
+If, on the other hand, a man, knowing that these other gods are only the bodies of Bhagavān,  
+offers worship to them owing to a special desire for obtaining quickly the smaller goods of life,  
+the fruit will be fully and completely realised in perfect measure.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवच्छरीरङ्गळॆण्ड्रऱिन्दु क्षुद्रफलङ्गळैक् कडुगप् पॆऱवेणुमॆन्गिऱ रागविशेषत्ताले अवर्गळै उपासिप्पार्क्कु अव्वो फलङ्गळ् पूर्णङ्गळाम्. 
+</details>
+
+
+
+
 
 [^f227]: Bhagavadgītā: 9-23
 
