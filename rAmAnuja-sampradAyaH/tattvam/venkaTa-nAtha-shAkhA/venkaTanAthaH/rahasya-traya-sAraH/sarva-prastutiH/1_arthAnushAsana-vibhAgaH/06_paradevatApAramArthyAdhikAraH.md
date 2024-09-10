@@ -5419,6 +5419,25 @@ prosperity comes and seeks him."
 > जलधिम् इव जलौघास् ते विशन्ति स्वयं नः”
 </details>
 
+<details><summary>English</summary>
+
+"Those enjoyments which were formerly desired  
+but could not be obtained come to us,  
+of their own accord, without any effort or exertion on our part,  
+like rivers flowing into the ocean, (although we do not desire them now)."  
+
+</details>
+
+<details><summary>Español</summary>
+
+"Those enjoyments which were formerly desired  
+but could not be obtained come to us,  
+of their own accord, without any effort or exertion on our part,  
+like rivers flowing into the ocean, (although we do not desire them now)."  
+
+</details>
+
+
 <details><summary>सायण-टीका</summary>
 
 अभिलषितेति । ये कामभोगाः पुरा – अनन्यप्रयोजननाय् भगवानै याश्रयिप्पदऱ्‌कु मुन्बु, अभिलषिता अपि दुरापा अभवन् – दुर्लभा अभवन्, ते, नः – अनन्यप्रयोजननाय् भगवानैप् पट्रिन नम्मै, जलधिं जलौघा इव स्वयं अस्मदपेक्षां विनैव विशन्ति । 
@@ -5443,6 +5462,12 @@ prosperity comes and seeks him."
 स्वानुगृहीते स्तोत्रे निर्बबन्ध । 
 </details>
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+ईशानाण्डान् इत्यसौ रामानुजाय नृसिंहमन्त्रम् उपादिशद् इति विजयेन श्रुतम्। 
+</details>
+
+
 <details><summary>English</summary>
 
 Isandan also has stated this in his stotra thus. 
@@ -5465,9 +5490,69 @@ Isandan also has stated this in his stotra thus.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु विद्या-विशेष--राग-विशेषादि-नियतम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं विद्याविशेषरागविशेषादिनियतम् ॥
+</details>
 
 
-"Those enjoyments which were formerly desired but could not be obtained come to us, of their own accord, without any effort or exertion on our part, like rivers flowing into the ocean, (although we do not desire them now)." (It may be asked why all those who desire only mokṣa  are not blessed with the good things of this life ). (The answer is):- This is due to the special form of meditation or vidyā practised by the devotee and the special desires of his earlier life. (Some vidyās secure worldly prosperity in addition to mokṣa  after death, while others secure only mokṣa .)
+<details><summary>English</summary>
+
+(It may be asked  
+why all those who desire only mokṣa  are not blessed with the good things of this life ).  
+(The answer is):-  
+This is due to the special form of meditation or vidyā practised by the devotee  
+and the special desires of his earlier life.  
+(Some vidyās secure worldly prosperity in addition to mokṣa after death,  
+while others secure only mokṣa .)
+</details>
+
+<details><summary>Español</summary>
+
+(It may be asked  
+why all those who desire only mokṣa  are not blessed with the good things of this life ).  
+(The answer is):-  
+This is due to the special form of meditation or vidyā practised by the devotee  
+and the special desires of his earlier life.  
+(Some vidyās secure worldly prosperity in addition to mokṣa after death,  
+while others secure only mokṣa .)
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इव्वानुषङ्गिकैश्वर्यादिसिद्धि, अनन्यप्रयोजनरॆल्लार्क्कुमुण्डो वॆन्न वरुळिच् चॆय्गिऱार् इदु विद्याविशेषेति ।  
+विद्याविशेषङ्गळ् - उपकोसलादि-विद्यैकळ्.  
+अवैगळिले ‘‘ज्योग् जीवति’’, ‘‘अन्नवानन्नादो भवति’’,  
+‘‘भाति च तपति च कीर्त्या यशसा ब्रह्मवर्चसेन’’,  
+ऎण्ड्रु आनुषङ्गिकफलम् सॊल्लप्पट्टदिऱे.  
+रागविशेषेति । अनन्यप्रयोजननाग भगवानैय् आश्रयिप्पदऱ्‌कु मुन्ब् उण्डान राग-विशेषम् ऎन्न-बडि.  
+अनन्यप्रयोजननाग भगवानैय् आश्रयित्त पिऱगु  
+इतर-विषयक-रागम् इल्लामल् बोनालुम्  
+आश्रयणत्तिऱ्‌कु मुन्बु ‘‘अभिलषित-दुरापाः’’ ऎन्गिऱ बडि  
+दुरापङ्गळ् आन ऐश्वर्यादिकळिल् रागम् इरुक्क-गूडुम् आगैयाल्  
+अवनुक्के अन्द फलत्तै आनुषङ्गिकम् आग आश्रयणानन्तरम् नियतम् आगक् कॊडुप्पान्  
+ऎण्ड्रु तिरुवुळ्ळम्.  
+
+इङ्गु आदिपदत्ताल् राग-विशेष-हेतु-भूत-कर्म-ग्रहणम्.  
+इदनाल् आनुषङ्गिक-फलङ्गळैच् चॊल्लाद विद्या-विशेषत्तिल् इऴिबवनुक्कुम्  
+पूर्वत्तिल् राग-विशेषादिकळ् इल्लाद अनन्य-प्रयोजननुक्क् उम्  
+आनुषङ्गिक-फलम् नियतम् अण्ड्र् ऎण्ड्रु ज्ञापिक्कप्-पट्टदु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु विद्याविशेषरागविशेषादिनियतम्.
+</details>
+
+
+
 
 [^f228]: Bhagavadgītā: 7-16
 
@@ -5475,7 +5560,167 @@ Isandan also has stated this in his stotra thus.
 
 [^f230]: Perumal Thirumoli: 5-9
 
-The Alwars, too, have spoken of these differences between the Lord of all on one side and Brahma, Rudra and the other gods on the other side, in passages such as the following: “The gods[^f231] are only the food eaten by Bhagavān and vomited afterwards, (eaten during pralaya and vomited after creation); are there any (gods) who are not of the nature of this vomit?" "Nārāyaṇa[^f232] created the god with four faces, and the god with four faces created Saṅkara." "O Thou[^f233] that art the original bulb of the lotus of the navel, from which arose Brahma, Siva, Indra and the others who worship you with reverence.” “ Arjuna[^f234] saw on Siva's head, the flowers of the garland that he had placed at the feet of the holy Bhagavān which had measured the whole world, and understood clearly that Śrīkṛṣṇa was the Supreme Deity wearing garland of green tulasi." "Indra[^f235] who rules over the gods, Brahma the god with four faces, and the great Siva with his matted locks of hair - (all these) meditate with earnestness and
+## द्राविड-गाथा-वचनानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि सर्वेश्वरनुक्कुम् ब्रह्मरुद्रादिगळुक्कुमुण्डान विशेषङ्गळै
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं सर्वेश्वरस्य ब्रह्मरुद्रादीनां च सिध्यतो विशेषान् 
+</details>
+
+
+<details><summary>English</summary>
+
+The Alwars, too, have spoken of these differences between the Lord of all on one side and Brahma, Rudra and the other gods on the other side, in passages such as the following: 
+</details>
+
+<details><summary>Español</summary>
+
+The Alwars, too, have spoken of these differences between the Lord of all on one side and Brahma, Rudra and the other gods on the other side, in passages such as the following: 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि भगवानुक्कुम् ब्रह्मरुद्रादिकळुक्कुम् सॊन्न विशेषङ्गळॆल्लाम् आऴ्वार्गळिन् पासुरङ्गळिले सिद्धङ्गळॆण्ड्रु काट्टुगिऱार् इप्पडि सर्वेश्वरनुक्कु मित्यादिना । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि सर्वेश्वरनुक्कुम् ब्रह्मरुद्रादिगळुक्कुमुण्डान विशेषङ्गळै
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "ऎम्बॆरुमान् उण्डुम्+++(←प्रलये)+++ इऴ्न्दव्+++(=वान्त ←सृष्टौ)+++ ऎच्चिल् देवर् अल्लादार् ताम् उळर्+++(=सन्ति)+++ ए?" (पॆरियदिरुमॊऴि 11-6-2.) 
+
+यॆण्ड्रुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “अस्मत्-स्वामि-भुक्त+++(←प्रलये)+++-वान्तोच्छिष्ट+++(←सृष्टौ)+++-देव-व्यतिरिक्ता अपि किं सन्ति " 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+“The gods[^f231] are only the food eaten by Bhagavān and vomited afterwards,  
+(eaten during pralaya and vomited after creation);  
+are there any (gods) who are not of the nature of this vomit?" 
+</details>
+
+<details><summary>Español</summary>
+
+“The gods[^f231] are only the food eaten by Bhagavān and vomited afterwards,  
+(eaten during pralaya and vomited after creation);  
+are there any (gods) who are not of the nature of this vomit?"
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎम्बॆरुमानित्यादि । ऎम्बॆरुमानाले प्रलयदशैयिलुण्डु सृष्टिकालम् वन्दवाऱे उमिऴप्पट्टवर्गळाय् अदनाले उच्छिष्टम्बोल् अनुपादेयरान देवर्गळैक्काट्टिलुम् वेऱुबट्टवर्गळ् ब्रह्मादिकळिल् यारेनुमुण्डो? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ऎम्बॆरुमानुण्डुमिऴ्न्द वॆच्चिल् तेवरल्लादार् तामुळरे" (पॆरियदिरुमॊऴि 11-6-2.) यॆण्ड्रुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"नान्+++(ल्)+++-मुखनै नारायणन् पडैत्तान्  
+नान्-मुखन् उम् तान्-मुखम् आय्च् शङ्करनैत् तान् पडैत्तान्" (नान्मुखन् तिरुवन्दादि 1.) 
+
+ऎण्ड्रुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "चतुर्मुखं नारायणः ससर्ज  
+> चतुर्मुखोऽपि द्वारभूतः सन्  
+> स्वयं शंकरं ससर्ज” 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+"Nārāyaṇa[^f232] created the god with four faces,  
+and the god with four faces created Saṅkara." 
+
+</details>
+
+<details><summary>Español</summary>
+
+"Nārāyaṇa[^f232] created the god with four faces,  
+and the god with four faces created Saṅkara." 
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+नान्-मुगनै नारायणन् पडैत्तान् - नारायणन् सृष्टित्तान्. नान्मुगनुम् तान्मुगमाय् - नारायणनुक्कु शङ्करादिसृष्टियिल् द्वारभूतनायिरुन्दु शङ्गरनैत् तान्बडैत्तान्. स्वयमाग सृष्टित्तान्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"नान्मुगनै नारायणन् पडैत्तान् नान्मुगनुम् तान्मुगमाय्च् चङ्गरनैत्तान् पडैत्तान्" (नान्मुगन् तिरुवन्दादि 1.) ऎण्ड्रुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "मेवित्+++(=आहत्य)+++-तॊऴुम्+++(=सेविक्कुम्)+++ बिरमन्-शिवन्-इन्दिरन्-आदिक्क् ऎल्लाम् नाभिक्-कमल-मुदऱ्+++(ल्)+++-‌किऴङ्गे+++(=कन्द)+++" (तिरुवाय्मॊऴि 10-10-3.) 
+
+ऎण्ड्रुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “68 आहत्य प्रणमतां ब्रह्म-शिवेन्द्रादीनां सर्वेषां नाभी-कमलादि-कन्द" 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+"O Thou[^f233] that art the original bulb of the lotus of the navel,  
+from which arose Brahma, Siva, Indra and the others  
+who worship you with reverence.” 
+</details>
+
+<details><summary>Español</summary>
+
+"O Thou[^f233] that art the original bulb of the lotus of the navel,  
+from which arose Brahma, Siva, Indra and the others  
+who worship you with reverence.” 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मेवीत्यादि । मेवि - पॊरुन्दि. अदावदु एक-कण्ठराय्. तॊऴुम् - सेविक्कुम्. पिरमन् सिवनिन्दिरनादिक् कॆल्लाम्. कारणमान इत्यध्याहार्यम्. नाबिक्कमलमुदऱ्‌किऴङ्गे - नाभी- कमलत्तिऱ्‌कु मूलकन्दमे. मूलमान उपादानमेयॆण्ड्रबडि. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+"मेवित्तॊऴुम् पिरमन् सिवनिन्दिरनादिक्कॆल्लाम् नाबिक्कमल मुदऱ्‌किऴङ्गे" (तिरुवाय्मॊऴि 10-10-3.) ऎण्ड्रुम्, 
+</details>
+
+
+
+
+“ Arjuna[^f234] saw on Siva's head, the flowers of the garland that he had placed at the feet of the holy Bhagavān which had measured the whole world, and understood clearly that Śrīkṛṣṇa was the Supreme Deity wearing garland of green tulasi." "Indra[^f235] who rules over the gods, Brahma the god with four faces, and the great Siva with his matted locks of hair - (all these) meditate with earnestness and
 
 [^f231]: Periya Tirumozhi: 11-6-2
 
