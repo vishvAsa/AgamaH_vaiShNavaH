@@ -12,7 +12,7 @@ title = "०१ उपोद्घाताधिकारः"
 (1) INTRODUCTORY CHAPTER. page70
 </details>
 
-
+## परिचयः
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 आभगवत्तः प्रथिताम्  
@@ -87,6 +87,16 @@ Lucky indeed are we in having an opportunity, in this world and every day, of me
 विधिपरिणति-भेदाद् वीक्षितस् तेन +++(भगवता)+++ काले,  
 गुरु-परिषद्-उपज्ञं +++(ज्ञानं)+++ **प्राप्य गोपायति** स्वम् ॥ ६ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मणिवर इव शौरेर्+++(←शूरः वसुदेवः)+++ नित्य-हृद्योऽपि **जीवः**  
+कलुष-मतिर् अविन्दन् किङ्करत्वाधिराज्यम् +++(, न श्ववृत्तिर् मनूक्ता दुःखदा)+++।  
+विधिपरिणति-भेदाद् वीक्षितस् तेन +++(भगवता)+++ काले,  
+गुरु-परिषद्-उपज्ञं +++(ज्ञानं)+++ **प्राप्य गोपायति** स्वम् ॥ ६ ॥
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -937,7 +947,7 @@ They have as much love to him as the cow to its calf on the day of its birth whe
 इद्देशिकरिव्वात्मावुक्कु अज्ञान संशयविपर्ययङ्गळ् तीरवेण्डुम् ऎण्ड्रु मिगुदि कुऱैवऱच् चुरक्कुम् पासुरङ्गळैक् कॊण्डु 
 </details>
 
-
+## रहस्य-त्रये सङ्ग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(यामुन-स्तोत्ररत्नोक्त-विष्णुपुराणकृत्-पराशर-प्रशंसोक्त)+++  
@@ -952,15 +962,20 @@ They have as much love to him as the cow to its calf on the day of its birth whe
 अध्यात्म-विषय-शब्द-राशियिल् सार-तमम् आन रहस्य-त्रयत्तिल् ए  
 प्रतितन्त्र-सारोद्धारेण **संग्रहिक्कप्पडुगिऱदुगळ्**.
 </details>
+<details><summary>English</summary>
+
+As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (sentient being) acit (non-sentient matter) and Iśvara and their essential character etc.", they (the gurus ) teach him the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him, of their respective character and of their mutual relations to one another, of enjoyment or experience in saṁsāra (including svarga) and of release from that bondage and of the respective means for attaining them (one to be rejected and the other to be adopted), of the routes by which the soul travels to its destined abodes and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
+
+All these things that should be known to every mumukṣu are found concisely stated in ‘the three mysteries or secrets' (mantras) which are, as it were, the quintessence of all passages treating of the Jīva   and Iśvara and which contain the best part of all the main doctrines.
+
+</details>
 
 <details><summary>मूलम्</summary>
 
 “तत्त्वेन यश्चिदचिदीश्वर तत्स्वभावे” त्यादिगळिऱ्‌पडिये ईश्वरनुडैयवुम् ईशितव्यङ्गळुडैयवुम् स्वरूपस्वभावसंबन्धङ्गळुम्, भोगापवर्गङ्गळुम्, त्याज्योपादेयङ्गळान इवट्रिनुडैयवुबायङ्गळुम्, अवट्रिन् गतिप्रकारङ्गळुम्, उक्तानुक्तङ् गळान मोक्षविरोधिगळागिऱ इव्वर्थङ्गळ् मुमुक्षुवान इव्वात्मावुक्कु ज्ञातव्यङ्गळ्, इव्वर्थङ्गळॆल्लाम् अध्यात्मविषयशब्दराशियिल् सारतममान रहस्यत्रयत्तिले प्रतितन्त्रसारोद्धारेण संग्रहिक्कप्पडुगिऱदुगळ्. 
 </details>
 
-<details><summary>English</summary>
 
-As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (sentient being) acit (non-sentient matter) and Iśvara and their essential character etc.", they (the gurus ) teach him the true nature of the Lord who is the ruler of sentient and non-sentient things that are ruled by Him, of their respective character and of their mutual relations to one another, of enjoyment or experience in saṁsāra (including svarga) and of release from that bondage and of the respective means for attaining them (one to be rejected and the other to be adopted), of the routes by which the soul travels to its destined abodes and of the obstacles, expressed and unexpressed, that stand in the way of salvation; for these are matters that should be known to every one desirous of release.
 
 [^f34]: Viṣṇupurāṇa   : 2-13-98
 
@@ -968,17 +983,19 @@ As stated in the śloka . "He[^f37]  who teaches the truth concerning cit (senti
 
 [^f37]: Aḷavandār: Stotram
 
-All these things that should be known to every mumukṣu are found concisely stated in ‘the three mysteries or secrets' (mantras) which are, as it were, the quintessence of all passages treating of the Jīva   and Iśvara and which contain the best part of all the main doctrines.
-
-</details>
- 
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 तिरुव्-उडन् वन्द सॆऴु+++(=शुद्ध)+++-+++(=कौस्तुभ-)+++मणि-पोल्+ तिरु-माल्+++(=मत्त)+++--इदयम्+++(=हृदयम्)+++  
 मरुव्+++(=सुख)+++-इडम् ऎन्न मलर्+++(=पुष्प)+++-अडि +++(शिरसि)+++ चूटुम्+++(=धरणम्)+++ वगै+++(=प्रकार)+++ बॆऱु+++(=प्राप्या)+++ नाम्,  
 +++(यतः -)+++ करुव्+++(=गर्भ)+++-उडन्-वन्द कडु+++(=क्रूर)+++-विनैय्+++(=कर्म)+++ आट्रिल्+++(=प्रवाहे)+++ विऴुन्द् ऒऴुगाद्+++(=गमनं विना)+++ अरुव्+++(=सूक्ष्म)+++-उडन्-ऐन्द्+++(=५ →प्राप्य, प्रापक, फलम्, उपाया, विरोधिनः)+++-अऱिवार् अरुळ्-सॆय्यव् अमैन्दनर्+++(=पर्याप्ता)+++ ए. ( 8 )
+</details>
+<details><summary>English</summary>
+
+We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha[^18] which rose from the sea along with Lakṣmī  at the time of the great churning, we that are competent to wear, on the crown of our head, the flower-like feet of God, were in peril of being swept away by the current of the stream of karma which caught us up even while in our mother's womb, when, fortunately for us, certain great souls proficient in the knowledge of the five things that ought to be understood and likewise of the subtle doctrine that the relation of the Jīvatma to the Lord is that of the body to the soul, came to us out of compassion to save us from being lost (in that stream).
+
+[^18]: Kaustubha: This gem is stated in certain treatises to stand allegorically for the Jīva  .
+
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -989,13 +1006,6 @@ All these things that should be known to every mumukṣu are found concisely sta
 तरुवुडनैन्दऱिवा ररुळ्सॆय्य वमैन्दनरे. ( 8 )
 </details>
 
-<details><summary>English</summary>
-
-We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha[^18] which rose from the sea along with Lakṣmī  at the time of the great churning, we that are competent to wear, on the crown of our head, the flower-like feet of God, were in peril of being swept away by the current of the stream of karma which caught us up even while in our mother's womb, when, fortunately for us, certain great souls proficient in the knowledge of the five things that ought to be understood and likewise of the subtle doctrine that the relation of the Jīvatma to the Lord is that of the body to the soul, came to us out of compassion to save us from being lost (in that stream).
-
-[^18]: Kaustubha: This gem is stated in certain treatises to stand allegorically for the Jīva  .
-
-</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
@@ -1006,13 +1016,6 @@ We that deserve a place near the heart of Viṣṇu  even like the gem Kaustubha
 मुक्तैश्वर्यान्त-संपन्-निधिर् अपि **भविता** कश्चिद् इत्थं विपश्चित् ॥ ७ ॥
 </details>
 
-<details><summary>मूलम् (सं॰प॰)</summary>
-
-कर्माविद्यादिचक्रे प्रतिपुरुषमिहानादिचित्रप्रवाहे  
-तत्तत्काले विपक्तिर्भवति हि विविधा सर्वसिद्धान्तसिद्धा ।  
-तल्लब्धस्वावकाशप्रथमगुरुकृपागृह्यमाणः कदाचि  
-न्मुक्तैश्वर्यान्तसंपन्निधिरपि भविता कश्चिदित्थं विपश्चित् ॥ ७ ॥
-</details>
 <details><summary>English</summary>
 
 In the cycle of karma, avidyā and others[^19] which succeed one another, as in the revolution of a wheel, in the varied streams of Samsāra peculiar to each individual and beginning from time immemorial, all systems of religious thought declare that, when the proper time comes, there is varied fruition resulting from past karma. At the time of this fruition, the Lord, who is the first ācārya , finds his opportunity, catches the Jīva   and bestows His grace on him. Sach Jīvas are indeed rare and they become the repositories of all forms of wealth (like discrimination and freedom from desires) extending up to the sovereignty enjoyed by the freed souls in mokṣa  (viz, the enjoyment of Bhagavān and service to Him).
@@ -1020,6 +1023,14 @@ In the cycle of karma, avidyā and others[^19] which succeed one another, as in 
 [^19]: The word ‘others’ refers to vāsanas or impressions left in the mind in previous births, ruci
 or tastes and aptitudes and prakṛti sambandha or association with matter.
 
+</details>
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
+कर्माविद्यादिचक्रे प्रतिपुरुषमिहानादिचित्रप्रवाहे  
+तत्तत्काले विपक्तिर्भवति हि विविधा सर्वसिद्धान्तसिद्धा ।  
+तल्लब्धस्वावकाशप्रथमगुरुकृपागृह्यमाणः कदाचि  
+न्मुक्तैश्वर्यान्तसंपन्निधिरपि भविता कश्चिदित्थं विपश्चित् ॥ ७ ॥
 </details>
 
 

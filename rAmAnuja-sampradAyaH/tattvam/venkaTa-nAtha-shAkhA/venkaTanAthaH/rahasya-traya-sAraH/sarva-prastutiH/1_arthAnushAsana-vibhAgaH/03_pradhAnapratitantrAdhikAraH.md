@@ -292,7 +292,7 @@ como con, [^22] cada uno de estos dos (svarūpa y saṅkalpa).
 </details>
 
 
-## आधारतायास् सद्वाकता?
+## आधारतायास् सद्वारकता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "अद् ऎङ्ङन् एय्" ऎन्निल्,  
