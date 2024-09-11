@@ -805,7 +805,7 @@ En referencia a esto, el Maharshi, Śuka, dice,
 
 [^f21]: Bhāgavatam XI, 5-38,39
 
-## वैष्णवाचार्य
+## वैष्णवाचार्य-ततिः
 
 <details><summary>English</summary>
 

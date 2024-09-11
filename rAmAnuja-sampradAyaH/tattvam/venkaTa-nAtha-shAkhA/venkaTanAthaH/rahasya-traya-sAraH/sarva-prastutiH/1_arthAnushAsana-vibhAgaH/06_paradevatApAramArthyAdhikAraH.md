@@ -6133,7 +6133,7 @@ For men other than those who have this conviction about the Supreme Deity,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> "आविक्क्+++(=प्राणाय)+++ ओर् पट्रुक्+++(=आलम्बन)+++-कॊम्बु+++(=शाखां)+++ निन्नलाल्+++(=??)+++ अऱिगिण्ड्रिलेन्+++(=न वेद्मि)+++ यान्" (तिरुवाय्मॊऴि 10-10-3.) 
+> "आविक्क्+++(=प्राणाय)+++ ओर् पट्रुक्+++(=आलम्बन)+++-कॊम्बु+++(=शाखां)+++ निन्न् अलाल्+++(=विना)+++ अऱिगिण्ड्रिलेन्+++(=न वेद्मि)+++ यान्" (तिरुवाय्मॊऴि 10-10-3.) 
 
 ऎण्ड्रुम्,
 </details>
@@ -6488,9 +6488,97 @@ and decides on the remaining deity who is Supreme Light[^f245]
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इन्द रूप-विशेषत्तैय्-उडैय परम-पुरुषन् ए  
+सर्व-वेद-प्रतिपाद्यम् आन पर-तत्त्वम्  
+
+ऎन्नुम् इडत्तै  
+सर्व-वेद-सार-भूत-प्रणव-प्रतिपाद्यतैयाल् ए 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतद्-रूप-विशिष्टः परमपुरुष एव  
+सर्व-वेद-प्रतिपाद्यं पर-तत्त्वम् 
+
+इत्य् एतम् अर्थं  
+सर्व-वेद-सार-भूतप्रणव-प्रतिपाद्यतया 
+
+</details>
+
+<details><summary>English</summary>
+
+Periāḻvār also declares in the following verse  
+that the deity who is of this form and complexion is the Supreme Reality (Tattva)  
+described in all the Vedas ;  
+
+</details>
+
+<details><summary>Español</summary>
+
+Periāḻvār also declares in the following verse  
+that the deity who is of this form and complexion is the Supreme Reality (Tattva)  
+described in all the Vedas ;  
+
+</details>
 
 
-Periāḻvār also declares in the following verse that the deity who is of this form and complexion is the Supreme Reality (Tattva) described in all the Vedas ; "If "you [^f246] meditate on the god who is of the colour of the ocean by uttering the origin of all Veda, namely, the syllable aum with three mātras (metrical units) etc. etc."
+<details><summary>सायण-टीका</summary>
+
+इन्द नीलमेघश्यामळरूपैयान देवतैये सर्ववेदसारप्रणवप्रतिपाद्यतया सर्ववेदप्रतिपाद्यैयॆण्ड्रुम् अदुवे आश्रयणीयै ऎण्ड्रुम् पॆरियाऴ्वार् अरुळिच्चॆय्दारॆन्गिऱार् इन्द रूपविशेषत्तैयुडैय परमपुरुषने इत्यादियाल्.  
+रूपविशेषम् - श्यामळरूपम्, परतत्त्वमॆन्नुमिडत्तै - परतत्त्वमॆन्गिऱ विषयत्तै, सर्ववेदसारभूतप्रणवप्रतिपाद्यतैयाले इति ।  
+सकलवेदसारभूतप्रणवप्रतिपाद्यपरतत्वम् नीलरूपमॆण्ड्राल् अन्द नीलरूपभगवाने सर्ववेदप्रतिपाद्यपरतत्त्वमॆण्ड्रु सिद्धिक्कुमिऱे.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्द रूपविशेषत्तैयुडैय परमपुरुषने सर्ववेदप्रतिपाद्यमान परतत्वमॆन्नुमिडत्तै सर्ववेदसारभूतप्रणवप्रतिपाद्यतैयाले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "मूलम् आगियव् ऒट्रैय्+++(=एकम्)+++ ऎऴुत्तै+++(=अक्षरं)+++  
+> मूण्ड्रुम् आत्-तिरैय् उळ्ळ्-ऎऴ+++(=उदय)+++-वाङ्गि  
+> +++(समुद्र-)+++वेलै-वण्णनै मेवुद्+++(=ध्यानम्)+++-इर् आगिल्"  
+> (पॆरियाऴ्वार् तिरुमॊऴि 4-5-4.) 
+
+ऎण्ड्रु पॆरियाऴ्वार् अरुळिच् चॆय्दार्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> मूलभूतम् एकाक्षरं त्रि-मात्रोन्मेषगर्भम् उच्चार्य  
+> समुद्रवर्णं भावयत चेत्
+
+इति महादिव्यसूरिः ( श्रीविष्णुचित्तसूरिः ) अनुजग्राह ॥ 
+</details>
+
+<details><summary>English</summary>
+
+"If you [^f246] meditate on the god who is of the colour of the ocean  
+by uttering the origin of all Veda, namely, the syllable aum with three mātras (metrical units) etc. etc."
+</details>
+
+<details><summary>Español</summary>
+
+"If you [^f246] meditate on the god who is of the colour of the ocean  
+by uttering the origin of all Veda, namely, the syllable aum with three mātras (metrical units) etc. etc."
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मूलमागियवित्यादि । मूलमागिय - सकलवेदमूलमागिय, ऒट्रैयॆऴुत्तै - 'गिरामस्म्येकमक्षर'मॆण्ड्रु सॊल्लप्पट्ट प्रणवत्तै, मूण्ड्रु मात्तिरैयुळ्ळॆऴ - ‘‘यः पुनरेतं त्रिमात्रेणोमित्येतेनैवाक्षरेण परं पुरुषमभिध्यायीत’’ ऎण्ड्रु श्रुतियिल् सॊन्नबडि त्रिमात्रमाग हृदयत्तुक्कुळ्ळे विळङ्गुम्बडियाग, उपांशुवाग यॆण्ड्रबडि. वाङ्गि - उच्चरित्तुक्कॊण्डु, वेलैवण्णनै - अन्द प्रणवप्रतिपाद्यनान समुद्रश्यामळनान भगवानै, मेवुदिरागिल् - आदरवोडु ध्यानम् पण्णुवीर्गळागिल्, इङ्गु सर्ववेदसारमान त्रिमात्रप्रणवत्ताले ध्येयनुम्, प्रतिपाद्यनुम् समुद्रम् पोण्ड्रवन् ऎण्ड्रदाल् अप्पडि प्रणवप्रतिपाद्यनाय् समुद्रम्बोण्ड्रवने सर्ववेदप्रतिपाद्यनॆण्ड्रु स्वरसतः प्रतीतमागुमिऱे.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"मूलमागिय वॊट्रैयॆऴुत्तै मूण्ड्रुमात्तिरै युळ्ळॆऴवाङ्गि वेलैवण्णनै मेवुदिरागिल्" (पॆरियाऴ्वार् तिरुमॊऴि 4-5-4.) ऎण्ड्रु पॆरियाऴ्वाररुळिच् चॆय्दार्.
+</details>
+
+
+
 
 [^f239]: Tiruvoymozhi: 3-2-1
 
@@ -6508,15 +6596,402 @@ Periāḻvār also declares in the following verse that the deity who is of this
 
 [^f246]: Periāḻvār Tirumozhi: 4-5-4
 
-Having in mind the passage in Taittiriya which describes the Supreme Deity as being the Lord of Lakṣmī , the Alwar understands that this description excludes other gods and exclaims:-"I have [^f247] seen Lakṣmī  and the form of the Lord shining like gold on which she rests." Beginning with this verse he concludes with the statement that " for wise men it is only Bhagavān who ever acts in conjunction with Lakṣmī  that is both refuge and goal." This he declares in the following verse :- "Our refuge[^f248] is the goddess residing in the beautiful lotus covered with honey, who has long eyes and shines with a splendour which throws into the shade the lightning seated in the black cloud and who fascinates (with her beauty) the God armed with the discus and wearing the garland of tulasi on his broad chest." The conclusion has been arrived at that this couple (Bhagavān and Śrī) are our goal of attainment and our refuge.
+## दिव्यदम्पत्योरेव पारम्ये प्रमाणानि
+### भूत-सूरिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तैत्तरीयत्तिल् +++("ह्रीश्च ते लक्ष्मीश्च पत्न्यौ"→)+++ श्रियः-पतित्व-चिह्नत्ताल् ए  
+महा-पुरुषनुक्कु व्यावृत्तिय् ओदिनप्-पडियै निनैत्तु
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तैत्तिरीये +++("ह्रीश्च ते लक्ष्मीश्च पत्न्यौ"→)+++ श्रियः-पतित्वेन चिह्नेन  
+परम-पुरुषस्य व्यावृत्तेर् आम्नान-प्रकारम् अनुसंधाय  
+</details>
+
+
+<details><summary>English</summary>
+
+Having in mind the passage in Taittiriya  
+which describes the Supreme Deity as being the Lord of Lakṣmī ,  
+the Alwar understands that this description excludes other gods and exclaims:-
+</details>
+
+<details><summary>Español</summary>
+
+Having in mind the passage in Taittiriya  
+which describes the Supreme Deity as being the Lord of Lakṣmī ,  
+the Alwar understands that this description excludes other gods and exclaims:-
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+श्रियःपतित्वलिङ्गत्ताले परतत्वत्तुक्कु तैत्तिरीयत्तिले देवतान्तरव्यावृत्तियैच्चॊल्लुम् श्रुतियै अनुसरित्तु पेयाऴ्वारुम् श्रियःपतिये शरण्यनुम् प्राप्यनुमॆण्ड्रु निष्कर्षित्तारॆन्गिऱार् तैत्तिरीयत्तिलित्यादिना । श्रियः पतित्वचिह्नत्ताले - ‘‘ह्रीश्च ते लक्ष्मीश्च पत्न्यौ’’ ऎन्गिऱ विडत्तिल् सॊन्न लक्ष्मीपतित्वरूपमान वडैयाळत्ताले; व्यावर्तकधर्मत्ताले यॆण्ड्रबडि. महापुरुषनुक्कु - ‘‘वेदाहमेतं पुरुषं महान्तं’’ ऎण्ड्रु कीऴनुवाकत्तिल् सॊन्न परमपुरुषनुक्कु. व्यावृत्तियोदिनबडियै निनैत्तु - देवतान्तरव्यावृत्तिसॊन्नबडियै निनैत्तु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तैत्तरीयत्तिल् श्रियः पतित्वचिह्नत्ताले महापुरुषनुक्कु व्यावृत्तियोदिनप्पडियै निनैत्तु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तिरुक् कण्डेन् पॊन्-मेनि +++(विष्णुं)+++ कण्डेन्" (मूण्ड्राम् तिरुवन्दादि 1.) ऎण्ड्रु उपक्रमित्तु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“71 श्रियम् अद्राक्षं हिरण्मय-विग्रहम् अद्राक्षम्" इत्य् उपक्रम्य 
+</details>
+
+
+<details><summary>English</summary>
+
+"I have [^f247] seen Lakṣmī  
+and the form of the Lord shining like gold on which she rests."
+</details>
+
+<details><summary>Español</summary>
+
+"I have [^f247] seen Lakṣmī  
+and the form of the Lord shining like gold on which she rests."
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तिरुक्कण्डेन् पॊन्मेनि कण्डेन् इति । ऎन्नाऴिवण्णन्बाल् - ऎनक्कु असाधारणस्वामियाय् समुद्रम्बोले श्यामळमान देवताविशेषत्तिन् पक्कल्, मुदलिले तिरुवैक्कण्डेन् - अदावदु लक्ष्मियैक् कण्डेन्. अनन्तरम् ‘‘हिरण्मयः पुरुषः आदित्यवर्णमित्यादिकळिल् सॊल्लप्पट्ट पॊन् मेनि कण्डेन्; पॊन् - पॊन्बोले स्पृहणीयमान, मेनि - दिव्यमङ्गळविग्रहत्तै, कण्डेनॆण्ड्रबडि, ऎण्ड्रुपक्रमित्तु - मूण्ड्राम् तिरुवन्दादियै आरम्बित्तु, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"तिरुक्कण्डेन् पॊन्मेनि कण्डेन्" (मूण्ड्राम् तिरुवन्दादि 1.) ऎण्ड्रु उपक्रमित्तु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "सार्वु+++(=शरणम्)+++ नमक्कु" (मूण्ड्राम् तिरुवन्दादि 1.100.) 
+
+ऎन्गिऱ पाट्टिल् ए 
+
+> प्रतिबुद्धर् आन नमक्कुप्  
+पॆरिय-बिराट्टियार्-उडनेय् इरुन्दु  
+ऎण्ड्रुम्+++(=सदा)+++ ऒक्कप् परिमाऱुगिऱव्+++(=व्याप्रियमाणम्)+++ इवनैय् ऒऴिय+++(=विना)+++  
+प्राप्यान्तरम् उम् शरण्यान्तरम् उम् इल्लै. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“72 शार्वुनमक्कु " ( अपाश्रयोऽस्माकम् ) इति गाथायाम्, 
+
+> 'प्रतिबुद्धानाम् अस्माकं श्रीमहालक्ष्म्या सहावस्थाय  
+> (रक्षणे ) व्याप्रियमाणम् इमं विना  
+> प्राप्यान्तरं शरण्यान्तरं च नास्ति ; 
+</details>
+
+<details><summary>English</summary>
+
+Beginning with this verse he concludes with the statement that 
+
+> " for wise men it is only Bhagavān  
+> who ever acts in conjunction with Lakṣmī  
+> that is both refuge and goal." 
+
+This he declares in the following verse :- 
+
+> "Our refuge[^f248] is the goddess  
+> residing in the beautiful lotus covered with honey,  
+> who has long eyes and shines with a splendour  
+> which throws into the shade the lightning seated in the black cloud  
+> and who fascinates (with her beauty) the God armed with the discus  
+> and wearing the garland of tulasi on his broad chest." 
+
+</details>
+
+<details><summary>Español</summary>
+
+Beginning with this verse he concludes with the statement that 
+
+> " for wise men it is only Bhagavān  
+> who ever acts in conjunction with Lakṣmī  
+> that is both refuge and goal." 
+
+This he declares in the following verse :- 
+
+> "Our refuge[^f248] is the goddess  
+> residing in the beautiful lotus covered with honey,  
+> who has long eyes and shines with a splendour  
+> which throws into the shade the lightning seated in the black cloud  
+> and who fascinates (with her beauty) the God armed with the discus  
+> and wearing the garland of tulasi on his broad chest." 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सार्वु नमक्कॆन्गिऱबाट्टिले - सार्वु नमक्कॆन्गिऱ समापनगाथैयिले, तण्डुऴाय्दार्वाऴ्वरैमार्बन् - कुळिर्न्द तिरुत्तुऴायैयुडैय पुष्पमालैवर्तिक्कुमदाय् पर्वतवद्विस्तीर्णमान तिरुमार्बैयुडैय सर्वेश्वरनुम्, तान् मयङ्गुम् - अवन् तानुम् मयङ्गुम्बडियान, वण्दामरैनॆडुङ्गण् - विलक्षणतामरसदीर्घनेत्रैयान, तेनमरुम्बूमेल् तिरु - मधुस्यन्दियान कमलपुष्पत्तिल् वसिक्कुमवळानबिराट्टियुमे, नमक्कु - प्रतिबुद्धरान नमक्कु, ऎण्ड्रुम् - आश्रयणीयदशैयिलुम् प्राप्यदशैयिलुम्, सार्वु - प्रतिसंबन्धियान शरण्यमुम् प्राप्यमुम्, वेऱिल्लै यॆण्ड्रबडि. इत्येतादृशार्थकमान समापनगाथैयिले यॆण्ड्रबडि. प्रतिबुद्धरान नमक्कु इति । पाट्टिल् नमक्कु ऎण्ड्रुसॊन्न अस्मच्छब्दम् सर्वनामशब्दमागैयाले भगवानुम् पिराट्टियुमे सर्वदा अपाश्रयमॆण्ड्रु निष्कर्षिक्कुम्बडियान बोधवत्परमागैयाले प्रतिबुद्धरान नमक्कु ऎण्ड्रु विशेषित्तुच् चॊन्नदु. ऎण्ड्रुमॊक्कप्परिमाऱुगिऱ - ऎक्कालत्तिलुम् तुल्यमागवे अनुग्रहम् पण्णुगिऱ. ऎण्ड्रुम् सार्वु ऎन्बदाल् फलितमान ववधारणत्तिनर्थत्तै मुदलिले काट्टुगिऱार् - इवनै यॊऴिय प्राप्यान्तरमुम् शरण्यान्तरमुमिल्लै इति । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"सार्वु नमक्कु" (मूण्ड्राम् तिरुवन्दादि 1.100.) ऎन्गिऱ पाट्टिले प्रतिबुद्धरान नमक्कुप् पॆरियबिराट्टियारुडनेयिरुन्दु ऎण्ड्रुमॊक्कप् परिमाऱुगिऱ विवनैयॊऴिय प्राप्यान्तरमुम् शरण्यान्तरमुमिल्लै. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इद्-दम्-पतिगळ् ए प्राप्यर् उम् शरण्यर् उम् 
+
+ऎण्ड्रु निगमिक्कप्पट्टदु.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> इमौ दम्पती एव प्राप्यौ शरण्यौ च' 
+
+इति न्यगम्यत । 
+
+</details>
+ 
+<details><summary>English</summary>
+
+The conclusion has been arrived at that this couple (Bhagavān and Śrī) are our goal of attainment and our refuge.
+</details>
+
+<details><summary>Español</summary>
+
+The conclusion has been arrived at that this couple (Bhagavān and Śrī) are our goal of attainment and our refuge.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अपाश्रयार्थकमान सार्वु शब्दत्तिनर्थत्तै प्रकृतानुगुणमाग विवरिक्किऱार् - इत्दंपतिकळे प्राप्यरुम् शरण्यरुमॆण्ड्रु निगमिक्कप् पट्टदु इति । इदनाल् प्रबन्धोपक्रमत्तिले ‘‘आकारिणस्तु विज्ञानमाकारज्ञानपूर्वकं । तेनाकारं श्रियं ज्ञात्वा’’ ऎन्गिऱबडिये स्वरूपनिरूपकधर्मङ्गळिल् प्रधानैयान पिराट्टियै मुदलिले कण्डु भगवत्स्वरूपादिकळैप् परक्कप्पेसि उपसंहारत्तिल् अन्द श्रियःपतिये नमक्कु सार्वॆण्ड्रु निगमनम् सॆय्दिरुप्पदाल् उपक्रमोपसंहारलिङ्गङ्गळाले इव्वाऴ्वार्, तिरुमङ्गैयाऴ्वारुम् पॆरियाऴ्वारुम् नीलमेघश्यामलरूपने परतत्त्वमॆण्ड्रु निष्कर्षित्तदुबोल् श्रियःपतिये परतत्त्वमॆण्ड्रु निष्कर्षित्तारॆन्नुमिडम् सुव्यक्तमागिऱदु.   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इद्दम्पतिगळे प्राप्यरुम् शरण्यरुम् ऎण्ड्रु निगमिक्कप्पट्टदु.  
+</details>
+
+
+
+
 
 [^f247]: Third Tiruvandadi: 1
 
 [^f248]: Third Tiruvandadi: 100
 
-This truth regarding the Supreme Deity was taught at great length by the great sage, Parāśara, to his worthy disciple who was fit to receive the great spiritual secrets, in the following śloka  -
+### पराशरः
 
-“Io all beings,[^f249] gods, men and animals, all that is masculine is Bhagavān, Hari, and all that is feminine is Lakṣmī, O Maitreya, and there is no one other than they," This sage, Parāśara, obtained the knowledge concerning the Supreme Deity by the grace of Pulastya and Vasiṣṭa who gave him this boon :-"You will[^f250] understand the truth about the Supreme Deity." "What Was[^f251] said to you by Pulastya will certainly become true." Our great ācārya , ŚrīYamunamuni, also speaks of Parāśara with the greatest regard in 'I bow to Parāśara[^f252] the best of sages." And Nammāḻvār, who received the gift of knowledge free from all delusion and bhakti from Bhagavān and who occupies the highest place in the line of those who have performed prapatti, has stated the same truth (namely, that Lakṣmī  should also be considered along with Bhagavān as our refuge and our goal): "You have[^f253] enabled me to have a vision of Thyself and Thy consort (Lakṣmī ) with the shining bracelets, standing together."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तै 
+
+> ‘‘देवता-पारमार्थ्यञ् च  
+> यथावद् वेत्स्यते भवान्"  
+> (विष्णुपुराणम् 1-1-26)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इममर्थं
+
+> ‘‘देवता-पारमार्थ्यञ् च  
+> यथावद् वेत्स्यते भवान्"  
+> (विष्णुपुराणम् 1-1-26)
+
+</details>
+
+<details><summary>English</summary>
+
+"You will[^f250] understand the truth about the Supreme Deity." 
+</details>
+
+<details><summary>Español</summary>
+
+"You will[^f250] understand the truth about the Supreme Deity." 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै ‘‘देवतापारमार्थ्यञ्च यथावद्वेत्स्यते भवान्" (विष्णुपुराणम् 1-1-26)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "पुलस्त्येन यदुक्तं ते  
+> सर्वथैतद् भविष्यति (विष्णुपुराणम् 1-1-28.)” 
+
+ऎण्ड्रु
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "पुलस्त्येन यदुक्तं ते  
+> सर्वथैतद् भविष्यति (विष्णुपुराणम् 1-1-28.)” 
+</details>
+
+<details><summary>English</summary>
+
+"What Was[^f251] said to you by Pulastya will certainly become true."  
+</details>
+
+<details><summary>Español</summary>
+
+"What Was[^f251] said to you by Pulastya will certainly become true."  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"पुलस्त्येन यदुक्तं ते सर्वथैतद्भविष्यति (विष्णुपुराणम् 1-1-28.)” ऎण्ड्रु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुलस्त्यवसिष्ठ-वरप्रसादत्ताले परदेवतापारमार्थ्यज्ञानम् उडैयनाय्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति पुलस्त्यवसिष्ठप्रसादलब्ध-परदेवता-पारमार्थ्य-ज्ञानवान्,  
+</details>
+
+
+<details><summary>English</summary>
+
+(This sage, Parāśara, obtained the knowledge concerning the Supreme Deity  
+by the grace of Pulastya and Vasiṣṭa who gave him this boon.)
+</details>
+
+<details><summary>Español</summary>
+
+(This sage, Parāśara, obtained the knowledge concerning the Supreme Deity  
+by the grace of Pulastya and Vasiṣṭha who gave him this boon.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुलस्त्यवसिष्ठ-वरप्रसादत्ताले परदेवतापारमार्थ्यज्ञानमुडैयनाय्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पॆरियमुदलियार् ‘‘तस्मै नमो मुनिवराय पराशराय” (आळवन्दार् स्तोत्रम् 4.) ऎण्ड्रु आदरिक्कुम्बडियान श्रीपराशरब्रह्मर्षि  
+परक्कप्+++(=विस्तरेण)+++ पेसि 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+श्रीभगवद्यासुनपादैः "85 तस्मै नमो मुनिवराय पराशराय" इत्याद्रियमाणः श्री-पराशरब्रह्मर्पिर् विस्तरेण प्रतिपाद्य, 
+</details>
+
+<details><summary>English</summary>
+
+Our great ācārya , ŚrīYamunamuni, also speaks of Parāśara with the greatest regard in 'I bow to Parāśara[^f252] the best of sages." 
+
+
+</details>
+
+<details><summary>Español</summary>
+
+Our great ācārya , ŚrīYamunamuni, also speaks of Parāśara with the greatest regard in 'I bow to Parāśara[^f252] the best of sages." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पॆरियमुदलियार् ‘‘तस्मै नमो मुनिवराय पराशराय” (आळवन्दार् स्तोत्रम् 4.) ऎण्ड्रु आदरिक्कुम्बडियान श्रीपराशरब्रह्मर्षि परक्कप् पेसि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘देव-तिर्यङ्-मनुष्येषु  
+> पुन्नामा भगवान् हरिः ।  
+> स्त्रीनाम्नी लक्ष्मीर् मैत्रेय  
+> नानयोर्विद्यते परम्’’  
+> (विष्णुपुराणम् 1-8-35.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘देव-तिर्यङ्-मनुष्येषु  
+> पुन्नामा भगवान् हरिः ।  
+> स्त्रीनाम्नी लक्ष्मीर् मैत्रेय  
+> नानयोर्विद्यते परम्’’  
+> (विष्णुपुराणम् 1-8-35.)
+
+</details>
+
+<details><summary>English</summary>
+
+“To all beings,[^f249] gods, men and animals,  
+all that is masculine is Bhagavān, Hari,  
+and all that is feminine is Lakṣmī, O Maitreya,  
+and there is no one other than they," 
+
+</details>
+
+<details><summary>Español</summary>
+
+“To all beings,[^f249] gods, men and animals,  
+all that is masculine is Bhagavān, Hari,  
+and all that is feminine is Lakṣmī, O Maitreya,  
+and there is no one other than they," 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘देवतिर्यङ्मनुष्येषु पुन्नामा भगवान् हरिः । स्त्रीनाम्नी लक्ष्मीर्मैत्रेय नानयोर्विद्यते परम्’’ (विष्णुपुराणम् 1-8-35.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु परमरहस्ययोग्यनान सच्छिष्यनुक्कु उपदेशित्तान्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति परमरहस्य योग्याय सच्छिष्यायोपदिदेश ।
+</details>
+
+
+<details><summary>English</summary>
+
+This truth regarding the Supreme Deity was taught at great length by the great sage, Parāśara, to his worthy disciple who was fit to receive the great spiritual secrets, in the above (following) śloka
+</details>
+
+<details><summary>Español</summary>
+
+This truth regarding the Supreme Deity was taught at great length by the great sage, Parāśara, to his worthy disciple who was fit to receive the great spiritual secrets, in the above (following) śloka
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु परमरहस्ययोग्यनान सच्छिष्यनुक्कु उपदेशित्तान्. 
+</details>
+
+
+### शठकोपः
+
+
+
+
+
+
+And Nammāḻvār, who received the gift of knowledge free from all delusion and bhakti from Bhagavān and who occupies the highest place in the line of those who have performed prapatti, has stated the same truth (namely, that Lakṣmī  should also be considered along with Bhagavān as our refuge and our goal): "You have[^f253] enabled me to have a vision of Thyself and Thy consort (Lakṣmī ) with the shining bracelets, standing together."
 
 [^f249]: Viṣṇupurāṇa: 1-8-35
 
