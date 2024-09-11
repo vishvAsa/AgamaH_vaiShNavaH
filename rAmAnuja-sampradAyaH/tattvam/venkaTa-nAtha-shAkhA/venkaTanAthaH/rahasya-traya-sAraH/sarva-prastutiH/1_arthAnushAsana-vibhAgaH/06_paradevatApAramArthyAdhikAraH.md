@@ -6089,8 +6089,255 @@ For men other than those who have this conviction about the Supreme Deity,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-it is not possible to be in the state of having Bhagavān alone exclusively as their protector, a state such as is described in the following and other words of the Alwars: "Whether you[^f240]  weed out my suffering or whether you do not weed it out, I have no other means of getting it removed." "I know[^f241] of no other staff of support for my soul". (We may see also) the ten stanzas beginning with: “If you do not [^f242] withhold the suffering due to my karma", The Alwar[^f243] who learnt all spiritual truths directly from the Lord of all discerned the truth about the Supreme Deity in Tirumantra, gave up all devotion to other deities and became well established in exclusive devotion to Bhagavān, which extends to His devotees and also in rendering exclusive service to the Lord and His devotees. He gives expression to this in the following verse. "I cannot [^f244] live in agreement with those who hold that there is any other deity (than the Lord); I have also obtained the privilege of rendering service to Thy devotees." In the verse beginning with "The earth, water, fire, air, ether--having created these," the Alwar places (before himself) the three gods concerned in this controversy and, after a consideration of pramāṇas, ignores two of them and decides on the remaining deity who is Supreme Light[^f245] "as His god having a complexion resembling that of a cloud." Periāḻvār also declares in the following verse that the deity who is of this form and complexion is the Supreme Reality (Tattva) described in all the Vedas ; "If "you [^f246] meditate on the god who is of the colour of the ocean by uttering the origin of all Veda, namely, the syllable aum with three mātras (metrical units) etc. etc."
+> "कळैवाय् तुन्बङ्+++(=दुःखम्)+++, कळैयाद् ऒऴिवाय्+++(=त्यज)+++, कळै-गण्+++(=रक्षक)+++-मट्रिलेन्" (तिरुवाय्मॊऴि 5-8-8.) 
+
+ऎण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[६७]]  
+
+> “75 निवर्तय दुःखम् मा वा निवर्तय;  
+> निवर्तकान्तर-शून्योऽहम् " 
+
+इति 
+</details>
+
+<details><summary>English</summary>
+
+> "Whether you[^f240]  weed out my suffering  
+> or whether you do not weed it out,  
+> I have no other means of getting it removed." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Whether you[^f240]  weed out my suffering  
+> or whether you do not weed it out,  
+> I have no other means of getting it removed." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कळैवायित्यादि । तुन्बम् - संसारदुःखत्तै, कळैवाय् - पोक्कडित्तरुळुवाय्; अण्ड्रिये कळैयादॊऴिवाय् - पोक्कडिक्कामल् पोवायागिल्, कळैगण्मट्रिलेन् - अदैप् पोक्कडिप्पदऱ्‌कु उपायम् वेऱुडैयेनल्लेन्. त्वद्व्यतिरिक्तरक्षकरॆनक्कॊरुवरुमिल्लै यॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"कळैवाय् तुन्बङ् गळैयादॊऴिवाय् कळैगण्मट्रिलेन्" (तिरुवाय्मॊऴि 5-8-8.) ऎण्ड्रुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "आविक्क्+++(=प्राणाय)+++ ओर् पट्रुक्+++(=आलम्बन)+++-कॊम्बु+++(=शाखां)+++ निन्नलाल्+++(=??)+++ अऱिगिण्ड्रिलेन्+++(=न वेद्मि)+++ यान्" (तिरुवाय्मॊऴि 10-10-3.) 
+
+ऎण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "76 प्राणस्यैकाम् अवलम्बन-शाखां  
+> त्वां विना न जानाम्यहम् " 
+
+इति 
+</details>
+
+<details><summary>English</summary>
+
+"I know[^f241] of no other staff of support for my soul". 
+</details>
+
+<details><summary>Español</summary>
+
+"I know[^f241] of no other staff of support for my soul". 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आविक्कु इत्यादि । आविक्कु - संसारमागिऱ नदियिले अडित्तुक्कॊण्डुबोगिऱ ऎन्नात्मावुक्कु, ओर् पट्रुक्कॊम्बु - ऒरु हस्तावलंबनशाखै, शरणमॆण्ड्रबडि. निन्नलाल् - ‘‘अमृतस्यैष सेतुः’’ ‘‘विष्णुपोतं विना नान्यत्’’ ऎण्ड्रु सॊल्लप्पट्ट उन्नैयॊऴिय, अऱिगिण्ड्रिलेन् - अऱियमाट्टुगिऱिलेन्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"आविक्कोर् पट्रुक्कॊम्बु निन्नलालऱिगिण्ड्रिलेन् यान्" (तिरुवाय्मॊऴि 10-10-3.) ऎण्ड्रुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "तरु+++(=प्राप्त)+++-तुयरन्+++(=दुःख्हं)+++ तडायेल्+++(=न निवारयसि चेत्)+++" (पॆरुमाळ् तिरुमॊऴि 5-1.) 
+
+ऎन्गिऱ तिरुमॊऴि मुदलानवट्रिलुञ् चॊल्लुम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+
+> "77 तरुतुयरंतडा येल" ( प्राप्तं दुःखं न निवारयसि चेत् — त्वच्चरणमन्तरा शरणं नास्ति ) " 
+
+इत्युपक्रमक-श्री-सूक्त-प्रभृतिषु च  
+
+</details>
+
+
+<details><summary>English</summary>
+
+(We may see also) the ten stanzas beginning with:  
+
+> “If you do not [^f242] withhold the suffering due to my karma", 
+</details>
+
+<details><summary>Español</summary>
+
+(We may see also) the ten stanzas beginning with:  
+“If you do not [^f242] withhold the suffering due to my karma", 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+तरुदुयरमित्यादि । तरुदुयरम् - कर्मानुगुणमाग नी तरुम् तुयरत्तै, अक्करुमङ्गळै नीक्कि नीये तडुक्कवेणुम्. अप्पडित् तडायेल् - पोक्कडिक्काविडिल्, उन् सरणल्लाल् सरणिल्लै - तेवरीर् तिरुवडिगळैयॊऴिय वेऱु शरणमिल्लै. ऎन्गिऱ तिरुमॊऴि मुदलानवट्रिलुम् - इदै उपक्रमगाथैयागवुडैय दशगाथापरिमितमान तिरुमॊऴि प्रभृतिकळिलुम्, मुदलान ऎन्बदाल् "कॊण्डबॆण्डिर्" इत्यादिग्रहणम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"तरुदुयरन् दडायेल्" (पॆरुमाळ् तिरुमॊऴि 5-1.) ऎन्गिऱ तिरुमॊऴि मुदलानवट्रिलुञ् चॊल्लुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिपाद्यमाना अनन्य-शरणत्वावस्था न सिद्ध्यति ।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रतिपाद्यमाना अनन्यशरणत्वावस्था न सिद्ध्यति ।
+</details>
+
+
+<details><summary>English</summary>
+
+it is not possible to be in the state of having Bhagavān alone exclusively as their protector, a state such as is described in the preceding (following) and other words of the Alwars.
+</details>
+
+<details><summary>Español</summary>
+
+it is not possible to be in the state of having Bhagavān alone exclusively as their protector, a state such as is described in the preceding (following) and other words of the Alwars.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अनन्यशरणत्वावस्थै किडैयादु इति । अनन्यगतित्वरूपप्रपत्त्यधिकारमे सिद्धियादॆण्ड्रबडि.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्य-शरणत्वावस्थै किडैयादु.
+</details>
+
+
+
+## सांप्रदायिकत्वनिरूपणम् 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द पर-देवता-पारमार्थ्यत्तैत्  
+तिरु-मन्त्रत्तिल् ए कण्डु  
+तदीय-पर्यन्तम् आग देवतान्तर-त्यागम् उम् +++(5)+++  
+तदीय-पर्यन्तम् आग भगवच्-छेषत्वम् उम्  
+प्रतिष्ठितम् आन पडियै
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं परदेवतापारमार्थ्यं  
+श्रीमन्त्रे साक्षात्कृत्य  
+तदीय-पर्यन्ततया देवतान्तर-त्यागस्य  
+तदीय-पर्यन्ततया भगवच्-छेषत्वस्य च प्रतिष्ठितत्व-प्रकारम्, 
+</details>
+
+<details><summary>English</summary>
+
+The Alwar[^f243] who learnt all spiritual truths directly from the Lord of all  
+discerned the truth about the Supreme Deity in Tirumantra,  
+gave up all devotion to other deities  
++++(which extends to their devotees)+++  
+and became well established in exclusive devotion to Bhagavān,  
+which extends to His devotees  
+and also in rendering exclusive service to the Lord and His devotees.  
+</details>
+
+<details><summary>Español</summary>
+
+The Alwar[^f243] who learnt all spiritual truths directly from the Lord of all  
+discerned the truth about the Supreme Deity in Tirumantra,  
+gave up all devotion to other deities  
++++(which extends to their devotees)+++  
+and became well established in exclusive devotion to Bhagavān,  
+which extends to His devotees  
+and also in rendering exclusive service to the Lord and His devotees.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि देवतापारमार्थ्यनिश्चयमिल्लादवनुक्कु अनन्यशरणत्वम् सिद्धियादॆण्ड्रु सॊल्लि इन्द देवतापारमार्थ्यत्तैत् तिरुमन्त्रत्तिले यऱिन्दवनुक्कु सिद्धिक्कुम् प्रयोजनङ् गळैत् तिरुमङ्गैयाऴ्वार् तन् पासुरत्ताले अरुळिच्चॆय्दारॆन्गिऱार् इन्द परदेवतापारमार्थ्यत्तै इत्यादिना । तिरुमन्त्रत्तिले कण्डु इति । तिरुमन्त्रत्तिल् कण्डे "मट्रुमो" रॆन्गिऱ पासुरत्तैयरुळिसॆय्दारॆन्बदु अन्दप्पासुरत् तिन् उत्तरार्धत्तिल् "निन् तिरुवॆट्टॆऴुत्तुम् कट्रु नान्" ऎन्बदाले सुव्यक्त मागिऱदु.  
+तदीयपर्यन्तमाग देवतान्तरत्यागम् प्रतिष्ठितम् आगैयावदु  
+सैवर्गळ् सॊल्लुम् रुद्रोत्कर्षवादत्तालुम्,  
+पाशुपतादिकळिल् सिद्धिप्पदागच् चॊन्न क्षुद्रफलङ्गळिले आसैयालुम्  
+कलङ्गामल् यावदायुषम् निलै निऱ्‌कै.+++(5)+++  
+तदीयपर्यन्तमाग भगवच्छेषत्वम् प्रतिष्ठितमागैयावदु स्वतन्त्रात्मज्ञानत्तालुम्, अन्यशेषत्वज्ञानत्तालुम् कलक्कमट्रु "उन्नडि यार्क्काट्पडुत्ताय्" ऎण्ड्रु प्रार्थिक्कुम्बडियाय् निऱ्‌कै. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द परदेवतापारमार्थ्यत्तैत् तिरुमन्त्रत्तिले कण्डु तदीयपर्यन्तमाग देवतान्तरत्यागमुम् तदीयपर्यन्तमाग भगवच्छेषत्वमुम् प्रतिष्ठितमान पडियै
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"मट्रुम् ओर् दॆय्वम् उळद्+++(=अस्ति)+++ ऎण्ड्र् इरुप्पार्-ओडु उट्रिलेन्+++(=न संयुञ्जे)+++  
+उट्रद् उम् उन्न्-अडियार्क्क् अडिमै" (पॆरिय तिरुमॊऴि 8-10-3.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “78 अन्यत् किमपि दैवम् अस्तीत्य् आतिष्ठमानैः सह न संसृज्येय,  
+> अङ्गीकृतं च त्वद्-दास-दास्यम्” 
+</details>
+
+<details><summary>English</summary>
+
+He gives expression to this in the following verse. 
+
+> "I cannot [^f244] live in agreement with those who hold  
+> that there is any other deity (than the Lord);  
+> I have also obtained the privilege of rendering service to Thy devotees." 
+</details>
+
+<details><summary>Español</summary>
+
+He gives expression to this in the following verse. 
+
+> "I cannot [^f244] live in agreement with those who hold  
+> that there is any other deity (than the Lord);  
+> I have also obtained the privilege of rendering service to Thy devotees." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"मट्रुमोर् तॆय्वमुळदॆण्ड्रिरुप्पारोडु उट्रिलेन् उट्रदुमुन्नडियार्क्कडिमै" (पॆरिय तिरुमॊऴि 8-10-3.)  
+</details>
+
+
+In the verse beginning with "The earth, water, fire, air, ether--having created these," the Alwar places (before himself) the three gods concerned in this controversy and, after a consideration of pramāṇas, ignores two of them and decides on the remaining deity who is Supreme Light[^f245] "as His god having a complexion resembling that of a cloud." Periāḻvār also declares in the following verse that the deity who is of this form and complexion is the Supreme Reality (Tattva) described in all the Vedas ; "If "you [^f246] meditate on the god who is of the colour of the ocean by uttering the origin of all Veda, namely, the syllable aum with three mātras (metrical units) etc. etc."
 
 [^f239]: Tiruvoymozhi: 3-2-1
 
