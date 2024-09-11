@@ -5560,7 +5560,7 @@ while others secure only mokṣa .)
 
 [^f230]: Perumal Thirumoli: 5-9
 
-## द्राविड-गाथा-वचनानि
+## देवतान्तरे द्राविड-गाथाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि सर्वेश्वरनुक्कुम् ब्रह्मरुद्रादिगळुक्कुमुण्डान विशेषङ्गळै
@@ -6243,8 +6243,8 @@ it is not possible to be in the state of having Bhagavān alone exclusively as t
 
 
 
-## सांप्रदायिकत्वनिरूपणम् 
-
+## सांप्रदायिकत्व-निरूपणम् 
+### पर-काल-सूरिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इन्द पर-देवता-पारमार्थ्यत्तैत्  
@@ -6487,6 +6487,7 @@ and decides on the remaining deity who is Supreme Light[^f245]
 "मुगिलुरुवमॆम्मडिगळुरुवम्" (तिरुनॆडुन्दाण्डगम् 2.) ऎण्ड्रु निष्कर्षित्तार्.
 </details>
 
+### विष्णु-चित्तः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6596,8 +6597,7 @@ by uttering the origin of all Veda, namely, the syllable aum with three mātras 
 
 [^f246]: Periāḻvār Tirumozhi: 4-5-4
 
-## दिव्यदम्पत्योरेव पारम्ये प्रमाणानि
-### भूत-सूरिः
+### उन्मत्त-सूरिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैत्तरीयत्तिल् +++("ह्रीश्च ते लक्ष्मीश्च पत्न्यौ"→)+++ श्रियः-पतित्व-चिह्नत्ताल् ए  
@@ -6985,10 +6985,6 @@ This truth regarding the Supreme Deity was taught at great length by the great s
 
 
 ### शठकोपः
-
-
-
-
 
 
 And Nammāḻvār, who received the gift of knowledge free from all delusion and bhakti from Bhagavān and who occupies the highest place in the line of those who have performed prapatti, has stated the same truth (namely, that Lakṣmī  should also be considered along with Bhagavān as our refuge and our goal): "You have[^f253] enabled me to have a vision of Thyself and Thy consort (Lakṣmī ) with the shining bracelets, standing together."
