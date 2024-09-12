@@ -896,8 +896,335 @@ and found relief."
 </details>
 
 
-"The world is all misery”.  
-“Even in Svarga, since there is fear of a fall after the expiry of the ordained period, there is no happiness". "It is only fools who hanker after kingdoms, thinking that they are theirs. Men like me never long for them, because they are not intoxicated by the strong liquor of egotism the sense of 'I')." "From the mansion of Brahma downwards, O sage, these evils exist; therefore the wise never desire the attainment of Svarga." "Above the mansion of Brahma, there lies the supreme world of Viṣṇu, which is pure, eternal, full of supreme splendour and is called the Supreme Brahman. Fools, deluded by the pleasures of the senses and tormented by vanity, covetousness, arrogance, anger, perfidy and delusion never go to that world. Only good men without possessiveness and egotism, who remain indifferent to the pairs of opposites (like pleasure and pain, heat and cold and the like), who have full control over their senses, and who are devoted to Yogic meditation go there." "In that world are beautiful vimanas (airships) which can travel as they please, Assembly halls, gardens of varied kinds, O king, and, likewise lotus tanks, full of pellucid water.” “ Compared with that world of the Supreme Being, these lower worlds (of Brahma and Indra) are like hell." From these and other sayings, the Jīva   should realise the seven kinds of evil inherent in the enjoyment of non-sentient things, viz. their littleness, their instability, their origin in pain, their being mingled with pain, their resulting ultimately in pain, their origin being due to a perverse egotism and their being opposed to the bliss which is his nature. He should also realise such of these evils as are inherent in the enjoyment of one's self, ātmānubhava. He should then realise, with clear vision, the unique character of the enjoyment of the bliss of Bhagavān, which, in every one of these respects, is opposed to them. He would then attain the condition of "one who longs eagerly for the Supreme Being and who, consequently, is averse from things that are other than the Supreme Being. He would then abstain from activity whose characteristics Brahma is said to have described (as leading to fruits other than mokṣa ) and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“सर्वं दुःखमयं जगत्” (विष्णुपुराणम् 1-17-69.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“सर्वं दुःखमयं जगत्” (विष्णुपुराणम् 1-17-69.)
+</details>
+
+<details><summary>English</summary>
+
+"The world is all misery”.
+</details>
+
+<details><summary>Español</summary>
+
+"The world is all misery”.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सर्वं दुःखमयमिति । दुःखमयं – प्राचुर्ये मयट् ।+++(5)+++  
+दुःखमूलत्वेन दुःखमिश्रत्वेन दुःखोदर्कत्वेन च दुःखप्रचुरमिति यावत् । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सर्वं दुःखमयं जगत्” (विष्णुपुराणम् 1-17-69.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “स्वर्गेऽपि पात-भीतस्य  
+क्षयिष्णोर् नास्ति निर्वृतिः” (विष्णुपुराणम् 7-5-50.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “स्वर्गेऽपि पात-भीतस्य  
+क्षयिष्णोर् नास्ति निर्वृतिः” (विष्णुपुराणम् 7-5-50.)  
+</details>
+
+
+<details><summary>English</summary>
+
+> “Even in Svarga, since there is fear of a fall  
+> after the expiry of the ordained period,  
+> there is no happiness". 
+</details>
+
+<details><summary>Español</summary>
+
+> “Even in Svarga, since there is fear of a fall  
+> after the expiry of the ordained period,  
+> there is no happiness". 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+स्वर्गेऽपि पातभीतस्येति । इदु पतनरूपदुःखोदर्कत्वे पतनभयरूपदुःखमिश्रत्वे च प्रमाणम्. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“स्वर्गेऽपि पातभीतस्य क्षयिष्णोर्नास्ति निर्वृतिः” (विष्णुपुराणम् 7-5-50.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “राज्ये गृध्नन्त्य् अविद्वांसो  
+> ममत्वाहृत-चेतसः ।  
+> अहं-मान-महापान-  
+> मदमत्ता, न मादृशाः”  
+> (विष्णुपुराणम् 6-7-7.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “राज्ये गृध्नन्त्य् अविद्वांसो  
+> ममत्वाहृत-चेतसः ।  
+> अहं-मान-महापान-  
+> मदमत्ता, न मादृशाः”  +++(5)+++
+> (विष्णुपुराणम् 6-7-7.)  
+</details>
+
+<details><summary>English</summary>
+
+"It is only fools who hanker after kingdoms,  
+thinking that they are theirs.  
+Men like me never long for them,  
+because they are not intoxicated by the strong liquor of egotism (the sense of 'I')." 
+</details>
+
+<details><summary>Español</summary>
+
+"It is only fools who hanker after kingdoms,  
+thinking that they are theirs.  
+Men like me never long for them,  
+because they are not intoxicated by the strong liquor of egotism (the sense of 'I')." 
+</details>
+
+
+
+<details><summary>सायण-टीका</summary>
+
+राज्ये गृध्नन्त्यविद्वांस इति । इदु विपरीताभिमानमूलत्वे प्रमाणम्. गृध्नन्ति – अभिलषन्ति । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“राज्ये गृध्नन्त्यविद्वांसो ममत्वाहृतचेतसः । अहंमान महापान मदमत्ता न मादृशाः” (विष्णुपुराणम् 6-7-7.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “आब्रह्म-भवनाद् एते  
+> दोषास् सन्ति महामुने ।  
+> अत एव हि नेच्छन्ति  
+> स्वर्ग-प्राप्तिं मनीषिणः”  
+> (इतिहाससमुच्चयम् 4-49.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “आब्रह्म-भवनाद् एते  
+> दोषास् सन्ति महामुने ।  
+> अत एव हि नेच्छन्ति  
+> स्वर्ग-प्राप्तिं मनीषिणः”  
+> (इतिहाससमुच्चयम् 4-49.)  
+</details>
+
+<details><summary>English</summary>
+
+> "From the mansion of Brahma downwards, O sage,  
+> these evils exist;  
+> therefore the wise never desire the attainment of Svarga." 
+</details>
+
+<details><summary>Español</summary>
+
+> "From the mansion of Brahma downwards, O sage,  
+> these evils exist;  
+> therefore the wise never desire the attainment of Svarga." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आब्रह्मभवनादिति । एते दोषाः – इन्द अल्पत्वास्थिरत्वादिदोषङ्गळ्. इन्द वचनत्तै यिङ्गुदाहरित्तदु चतुर्मुखैश्वर्यत्तुक्कुङ्गूड इन्द दोषङ्गळ् समानङ्गळॆण्ड्रु ज्ञापिक्कैक्काग. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> “आब्रह्मभवनादेते दोषास्सन्ति महामुने । अत एव हि नेच्छन्ति स्वर्गप्राप्तिं मनीषिणः” (इतिहाससमुच्चयम् 4-49.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ब्रह्मणस् सदनाद् ऊर्ध्वं  
+तद् विष्णोः परमं पदं ।  
+शुद्धं सनातनं ज्योतिः  
+परं ब्रह्मेति तद् **विदुः** ॥  
+न तत्र मूढा **गच्छन्ति**  
+पुरुषा विषयात्मकाः ।  
+डंभ-लोभ-मद-क्रोध-  
+द्रोह-मोहैर् **अभिद्रुताः** ॥  
+> 
+> निर्ममा निरहङ्कारा  
+निर्द्वन्द्वास् संयतेन्द्रियाः ।  
+ध्यान-योग-रताश् चैव  
+तत्र **गच्छन्ति** साधवः”  
+(भारतम् अरण्यपर्व 262-37, 38, 39.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “ब्रह्मणस् सदनाद् ऊर्ध्वं  
+तद् विष्णोः परमं पदं ।  
+शुद्धं सनातनं ज्योतिः  
+परं ब्रह्मेति तद् **विदुः** ॥  
+न तत्र मूढा **गच्छन्ति**  
+पुरुषा विषयात्मकाः ।  
+डंभ-लोभ-मद-क्रोध-  
+द्रोह-मोहैर् **अभिद्रुताः** ॥  
+> 
+> निर्ममा निरहङ्कारा  
+निर्द्वन्द्वास् संयतेन्द्रियाः ।  
+ध्यान-योग-रताश् चैव  
+तत्र **गच्छन्ति** साधवः”  
+(भारतम् अरण्यपर्व 262-37, 38, 39.)  
+</details>
+
+<details><summary>English</summary>
+
+> "Above the mansion of Brahma,  
+> there lies the supreme world of Viṣṇu,  
+> which is pure, eternal, full of supreme splendour  
+> and is called the Supreme Brahman.  
+> Fools, deluded by the pleasures of the senses and tormented by vanity, covetousness, arrogance, anger, perfidy and delusion never go to that world.  
+> Only good men without possessiveness and egotism,  
+> who remain indifferent to the pairs of opposites  
+> (like pleasure and pain, heat and cold and the like),  
+> who have full control over their senses,  
+> and who are devoted to Yogic meditation go there." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि इतरपुरुषार्थङ्गळिल् वैराग्यमुण्डावदऱ्‌काग अवैगळिल् दोषसप्तकङ्गळुक्कु प्रमाणङ्गळैयुदाहरित्तु भगवदनुभवत्तिलनुरागमुण्डावदऱ्‌काग परमपदवैलक्षण्यत्तिल् उभयलिङ्गपादन्यायत्ताले प्रमाणङ्गळैक् काट्टुगिऱार् ब्रह्मणस्सदनादूर्ध्वमिति । शुद्धं – कीऴ्च्चॊन्न सर्वदोषङ्गळालुम् अस्पृष्टम्. सनातनं – नित्यम्. ज्योतिः – स्वयं प्रकाशम्. तत् – परमपदं, परब्रह्मप्रापकत्वात् परं ब्रह्म इति विदुः । न तत्रेति । परमपदत्तिऱ्‌कु उत्कर्षम् सॊल्लवन्द इव्विडत्तिल् विषयानुभवसक्तर्गळुक्कु अगम्यत्वादिकळ् सॊन्नदुविषयानुभवत्तिऱ्‌कु स्वाभाविकानन्दविरुद्धत्वज्ञापनार्थम्. विषयात्मकाः – विषयासक्तमनस्काः । अभिद्रुताः – उपद्रविक्कप्पट्टवर्गळ्. इप्पडि परमपदत्तिऱ्‌कुप् पोगक्कूडादवर्गळैच् चॊल्लिप् पोगक्कूडियवर्गळैक् काट्टुगिऱार् निर्ममा इत्यादिना । निर्द्वंद्वाः – शीतोष्ण-सहनशीलाः । 
+</details>
+
+<details><summary>Español</summary>
+
+> "Above the mansion of Brahma,  
+> there lies the supreme world of Viṣṇu,  
+> which is pure, eternal, full of supreme splendour  
+> and is called the Supreme Brahman.  
+> Fools, deluded by the pleasures of the senses and tormented by vanity, covetousness, arrogance, anger, perfidy and delusion never go to that world.  
+> Only good men without possessiveness and egotism,  
+> who remain indifferent to the pairs of opposites  
+> (like pleasure and pain, heat and cold and the like),  
+> who have full control over their senses,  
+> and who are devoted to Yogic meditation go there." 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+“ब्रह्मणस् सदनादूर्ध्वं तद्विष्णोः परमं पदं ।  
+शुद्धं सनातनं ज्योतिः परं ब्रह्मेति तद्विदुः ॥  
+न तत्र मूढा गच्छन्ति पुरुषा विषयात्मकाः ।  
+डंभलोभमदक्रोधद्रोहमोहैरभिद्रुताः ॥  
+निर्ममा निरहङ्कारा निर्द्वंद्वास्संयतेन्द्रियाः ।  
+ध्यानयोगरताश्चैव तत्र गच्छन्ति साधवः”  
+(भारतम् अरण्यपर्व 262-37, 38, 39.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “रम्याणि काम-चाराणि  
+विमानानि सभास् तदा ।  
+आक्रीडा विविधा राजन्  
+पद्मिन्यश् चामलोदकाः”  
+> (भारतम् शान्तिपर्व 196-4.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “रम्याणि काम-चाराणि  
+विमानानि सभास् तदा ।  
+आक्रीडा विविधा राजन्  
+पद्मिन्यश् चामलोदकाः”  
+> (भारतम् शान्तिपर्व 196-4.)  
+
+</details>
+
+
+<details><summary>English</summary>
+
+"In that world are beautiful vimanas (airships)  
+which can travel as they please, Assembly halls, gardens of varied kinds, O king,  
+and, likewise lotus tanks, full of pellucid water.” 
+</details>
+
+<details><summary>Español</summary>
+
+"In that world are beautiful vimanas (airships)  
+which can travel as they please, Assembly halls, gardens of varied kinds, O king,  
+and, likewise lotus tanks, full of pellucid water.” 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+रम्याणीति । सभाः – आस्थानमण्डबङ्गळ्. आक्रीडाः – उद्यानङ्गळ्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“रम्याणि कामचाराणि  
+विमानानि सभास्तदा ।  
+आक्रीडा विविधा राजन्  
+पद्मिन्यश्चामलोदकाः” (भारतम् शान्तिपर्व 196-4.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “एते +++(स्वर्गादयः)+++ वै निरयास्+++(=नरकास्)+++ तात  
+> स्थानस्य परमात्मनः +++(अपेक्षया)+++”  
+> (भारतम् शान्तिपर्व 196-6.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “एते +++(स्वर्गादयः)+++ वै निरयास्+++(=नरकास्)+++ तात  
+> स्थानस्य परमात्मनः +++(अपेक्षया)+++”  
+> (भारतम् शान्तिपर्व 196-6.)
+</details>
+
+<details><summary>English</summary>
+
+> “ Compared with that world of the Supreme Being,  
+these lower worlds (of Brahma and Indra) are like hell." 
+</details>
+
+<details><summary>Español</summary>
+
+> “ Compared with that world of the Supreme Being,  
+these lower worlds (of Brahma and Indra) are like hell." 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+एते वै निरया इति । इङ्गु एतच्छब्दत्ताले ‘‘अमूनि यानि स्थानानि देवानाममरात्मनाम् । रम्याणि कामचाराणि’’ ऎण्ड्रु मुदलिल् सॊल्लप्पट्ट स्वर्गादिदेवस्थानङ्गळै परामर्शित्तु, अदऱ्‌कु निरया इति परमात्मस्थानापेक्षया निरयप्रायत्वम् सॊल्लप्पट्टदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“एते वै निरयास्तात स्थानस्य परमात्मनः” (भारतम् शान्तिपर्व 196-6.)
+</details>
+
+
+
+
+From these and other sayings, the Jīva   should realise the seven kinds of evil inherent in the enjoyment of non-sentient things, viz. their littleness, their instability, their origin in pain, their being mingled with pain, their resulting ultimately in pain, their origin being due to a perverse egotism and their being opposed to the bliss which is his nature. He should also realise such of these evils as are inherent in the enjoyment of one's self, ātmānubhava. He should then realise, with clear vision, the unique character of the enjoyment of the bliss of Bhagavān, which, in every one of these respects, is opposed to them. He would then attain the condition of "one who longs eagerly for the Supreme Being and who, consequently, is averse from things that are other than the Supreme Being. He would then abstain from activity whose characteristics Brahma is said to have described (as leading to fruits other than mokṣa ) and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
