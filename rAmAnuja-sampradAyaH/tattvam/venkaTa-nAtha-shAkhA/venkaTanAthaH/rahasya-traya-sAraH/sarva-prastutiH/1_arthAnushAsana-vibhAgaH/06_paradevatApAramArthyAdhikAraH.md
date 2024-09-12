@@ -101,7 +101,7 @@ WHY SHOULD WE DETERMINE WHO THE SUPREME DEITY IS:
 प्रकृति-पुरुषेश्वर-विवेकम् पण्णिनाल् उम्  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 उक्त-वैधर्म्यैः सामान्यतः प्रकृति-पुरुषेश्वर-विवेके कृतेऽपि
 </details>
@@ -147,7 +147,7 @@ on the basis of the differences among them pointed out before.
 ऎन्गिऱ परमैकान्तित्वङ् कूडामैयाल् उम्,  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 "ऒण्ड्रुन्देवुम्" ("एकीभवन्त्या देवजातेः " ) इत्य्-आद्य्-उक्त-रीत्या  
 परदेवता-विशेष-निश्चयस्याभावे  
@@ -227,7 +227,7 @@ as in the words of the Alwar:
 "ईश्वरन् इन्न-देवता-विशेषम्" ऎण्ड्रु निष्कर्षिक्क-वेणुम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 परमैकान्ति-व्यतिरिक्तस्य व्यवधान-रहित-मोक्षासिद्धेः  
 "ईश्वरो ऽमुक-देवता-विशेष"  
@@ -292,7 +292,7 @@ CRITICISM OF ERRONEOUS VIEWS:
 ऎन्गिऱ पक्षम् घटियादु.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 तत्र चेतनाचेतनयोर् अत्यन्तभेदस्य प्रमाण-सिद्धत्वात्  
 "सर्वं परदेवतात्मक-ब्रह्म-द्रव्यम्"  
@@ -340,7 +340,7 @@ since sentient and non-sentient things are known by the pramāṇas to be entire
 स्व-भाव-सिद्धम् आन जीवेश्वर-भेदम् उम्   
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 स्व-भाव-सिद्धस्य जीवेश्वर-भेदस्य
 </details>
@@ -378,7 +378,7 @@ the essential differences between the jīva and Iśvara cannot be ignored
 सुख-दुःखादि-व्यवस्थैयाल् ए प्रामाणिकम् आगैयाल्
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 तथा देवादिरूपाणां जीवानामन्योन्य भेदस्य च  
 सुख-दुःखादि-व्यवस्थया प्रामणिकत्वात्  
@@ -421,7 +421,7 @@ because of their association with varied pleasures and pains.
 ऎन्गिऱ पक्षङ् गूडादु. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 सर्वान्तर्यामिण एकत्वे सत्य् अपि  
 ब्रह्म-रुद्रेन्द्रादि-सर्व-देवता ईश्वरेण सह  
@@ -477,7 +477,7 @@ BRAHMĀ, RUDRA AND OTHERS ARE CREATED BEINGS:
 कार्यत्व-कर्मवश्यत्वङ्गळ् प्रामाणिकङ्गळ् आगैयाल् उम्,
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 आसु देवतासु प्रधानत्वेन प्रतिपाद्यमानानां ब्रह्मरुद्रेन्द्रादीनां कार्यत्व-कर्मवश्यत्वयोः प्रामाणिकत्वात् 
 </details>
@@ -520,7 +520,7 @@ as can be proved by pramāṇas.
 (भारतम् शान्तिपर्वम् 210-24.)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “आभूत-संप्लवे प्राप्ते  
 प्रलीने प्रकृतौ महान् ।  
@@ -571,7 +571,7 @@ It has been said,
 (वराहपुराणम् 25-6.)  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 “आद्यो नारायणो देवस्  
 तस्माद्ब्रह्मा ततो भवः ।"  
@@ -617,7 +617,7 @@ Again it is said,
 इत्यादिगळिले
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “परो नारायणो देवस्  
 तस्माज् जातश् चतुर्मुखः ।  
@@ -665,7 +665,7 @@ Again it is said,
 (रामायणम् उत्तरकाण्डम् 101-26.) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “ततस् त्वम् अपि दुर्द्धर्षस्  
 तस्माद् भावात् सनातनात् ।  
@@ -734,7 +734,7 @@ for the protection of all beings."
 ऎन्गैयाल् उम्
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्युक्तरीत्या (यः) स्वेच्छावतीर्णः त्रिमूर्तिमध्यस्थो विष्णुनारायणादिशब्द-वाच्य ( स ) एव  
 स्वपूर्वावस्थया सर्वस्य जगतः कारणम् इत्यभिधानात्, 
@@ -782,7 +782,7 @@ in His previous and original state.
 > (भारतम् शान्तिपर्व 347-32) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “नित्यं हि नास्ति जगति  
 > भूतं स्थावर-जङ्गमम् ।  
@@ -828,7 +828,7 @@ It is also said elsewhere,
 अवने नित्यनॆन्गैयालुम् 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्युक्तरीत्या स एव नित्य इत्यभिधानाच्च,
 </details>
@@ -856,7 +856,7 @@ It is also said elsewhere,
 चॊल्लुगिऱ साम्यैक्योत्तीर्ण-व्यक्त्य्-अन्तर-पक्षङ्गळ् घटियादु.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[५७]]
 
@@ -931,7 +931,7 @@ are against the pramāṇas.
 ब्रह्मरुद्रादिगळ् सर्वेश्वरनुक्कुक् कार्यभूतर् ऎन्नुम् इडम्,  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 ब्रह्मरुद्रादयः सर्वेश्वरस्य कार्यभूता इत्येतत्-
 </details>
@@ -961,7 +961,7 @@ That Brahma, Rudra, and the like are created beings subject to karma may be seen
 इत्यादिगळाल् उम्,
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “तद्-विसृष्टस् स पुरुषो  
 > लोके ब्रह्मेति कीर्त्यते” (मनुस्मृति 1-11.) 
@@ -1004,7 +1004,7 @@ That Brahma, Rudra, and the like are created beings subject to karma may be seen
 (रामा -उत्. 104-4.), 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “संक्षिप्य च पुरा लोकान्  
 मायया स्वयमेव हि ।  
@@ -1046,7 +1046,7 @@ and created me at first by your Māya (will)",
 तस्मात् केशव-नामवान्" (हरिवंशम् 134-48.),  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 “क इति ब्रह्मणो नाम  
 ईशोऽहं सर्व-देहिनाम् ।  
@@ -1090,7 +1090,7 @@ Therefore you are called Keśava (Ka and Isa)".
 > पूर्वसर्गे सनातने” (भारतम् शान्तिपर्व 352-62.)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “अहं प्रसादजस् तस्य  
 > कस्मिंश्चित् कारणान्तरे ।  
@@ -1133,7 +1133,7 @@ Further Brahma says,
 अवर्गळ् तङ्गळ् पासुरङ्गळाल् उम् सिद्धम्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति प्रतिवादि-हस्त-लिखित-विवाद-त्याग-पत्र-नीत्या  
 तेषाम् एव वचोभिश् च सिद्धम् ।
@@ -1168,7 +1168,7 @@ declare this truth.
 सर्वेश्वरनै आराधित्तुत् तन्-दाम् पदङ्गळ् पॆट्रार्गळ् ऎन्नुम् इडम् …
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एते कर्मवश्याः सन्तः  
 कैश्चित् कर्मविशेषैः  
@@ -1212,7 +1212,7 @@ may be seen from the following passages : --
 सर्वे देवा वासुदेवं नमन्ते”
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “सर्वे देवा वासुदेवं यजन्ते  
 सर्वे देवा वासुदेवं नमन्ते”
@@ -1283,7 +1283,7 @@ worship the divine Nārāyaṇa  or Hari, the greatest of Gods ",
 तम् अस्मि शरणं गतः” (भारतम् शान्तिपर्व 210-33),
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “चिन्तयन्तो हि यं नित्यं  
 ब्रह्मेशानादयः प्रभुम् ।  
@@ -1356,7 +1356,7 @@ It is He whose protection I seek."
 त्वाम् **उपासे** जगत्पतिम्” (रामा-उत्. 104-7,8), 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “पद्मे दिव्ये ऽर्कसङ्काशे  
 नाभ्याम् **उत्पाद्य** माम् अपि ।  
@@ -1405,7 +1405,7 @@ And Brahma says :-
 **प्राप्तवान्** इति **शुश्रुम**”(पार-कुण्डधरोपाख्यानम्),
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “युग-कोटि-सहस्राणि  
 विष्णुम् **आराध्य** पद्म-भूः ।  
@@ -1455,7 +1455,7 @@ This is what we have heard."
 स्वयम् आत्मानम् आत्मना ॥ (भारतम् शान्तिपर्व 8-37),
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “विश्वरूपो महादेवस्  
 सर्वमेधे महाक्रतौ ।  
@@ -1485,7 +1485,7 @@ and then sacrificed himself also mentally",
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 रुद्रविषयत्तिल् तादृशवचनङ्गळैक् काट्टुगिऱार् विश्वरूपो महादेवः इत्यादिना । सर्वमेधे – सर्वं मेध्यत्वेन हविष्ट्वेन कल्प्यते यस्मिन् यागे सः सर्वमेधः सर्वभूतहविष्कः क्रतुविशेषः । तस्मिन् महाक्रतौ । विश्वरूपनान महादेवः – रुद्रः, सर्वभूतानि जुहाव । स्वयमेवात्मानमपि । आत्मना – मनसा जुहाव । रुद्रन् भगवानाले तनक्कु विधिक्कप्पट्ट सर्वभूतसंहाररूपयागत्तिल् सर्वभूतङ्गळैयुम् तन्नात्मावैयुम् संहरित्तानॆण्ड्रबडि. इन्द वचनत्ताल् विचित्रकर्मानुष्ठातृत्वरूपमान कर्मवश्यत्वम् सॊल्लप्पट्टदु. 
 </details>
@@ -1505,7 +1505,7 @@ and then sacrificed himself also mentally",
 विराजते द्युतिमान् कृत्तिवासाः (भारतम् शान्तिपर्व 20-12), 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > महादेवस् सर्वमेधे महात्मा  
 हुत्वाऽऽत्मानं देवदेवो बभूव ।  
@@ -1555,7 +1555,7 @@ reaches all the worlds with his knowledge and shines with his fame".
 इत्य्-आदिगळिल् ए प्रसिद्धम्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “यो मे यथा कल्पितवान्  
 भागम् अस्मिन् महाक्रतौ ।  
@@ -1604,7 +1604,7 @@ he has been authorised by me, in the Vedas and the Sūtras, as fit to receive hi
 ऎन्नुम् इडम् +++(महाभारतस्थ-)+++वेदापहारादि-वृत्तान्तङ्गळिल् उम्,
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एते भगवन्-माया-परतन्त्राः गुण-वश्याः  
 ज्ञान-संकोच-विकासवन्तश् च सन्तीत्य् एतत्  
@@ -1627,7 +1627,7 @@ Their knowledge is also subject to contraction and expansion.
 All this may be understood from the incidents of the loss of the Vedas and others and also from the following śloka  :-
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इप्पडि कर्मवश्यतैयिल् वचनङ्गळै युदाहरित्तु इवर्गळुक्कु मायापारवश्यादिकळुमुण्डॆन्बदै वृत्तान्तमुखत्तालुम्, वचनविशेषत्तालुम् निरूपिक्किऱार् इवर्गळित्यादिना । माया – प्रकृतिः । इङ्गु मायापरतन्त्ररॆण्ड्रिव्वळवे सॊल्लामल् भगवन्मायापरतन्त्ररॆण्ड्रु सॊन्नदु तन्मायापरतन्त्रर्गळुक्कु तत्साम्यम् तदैक्यङ्गूडादॆन्गैक्काग. अन्द पारतन्त्र्यकार्यत्तैक् काट्टुगिऱार् गुणवश्यरायिदि. अदिन् कार्यत्तै यरुळिच्चॆय्गिऱार् ज्ञानसङ्कोचविकासवान्गळा यिरुप्पार्गळिदि. इदिल् ज्ञानसङ्कोचविकासङ्गळुक्कु वेदापहारादि-वृत्तान्तम् प्रमाणमॆन्गिऱार् वेदापहारादि वृत्तान्तङ्गळिलुमिदि. वेदापहारवृत्तान्तमावदु शान्तिपर्वत्तिल् तिरुनारायणीयत्तिल् सॊल्लप्पट्टदु. 
 
@@ -1660,7 +1660,7 @@ All this may be understood from the incidents of the loss of the Vedas and other
 गर्तान्ध-तमसा वृताः” (विष्णुपुराणम् 5-30-47)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “ब्रह्माद्यास् सकला देवा  
 मनुष्याः पशवस्तथा ।  
@@ -1705,7 +1705,7 @@ arising from the whirlwind of Viṣṇu 's Maya (Prakṛti),"
 +++(कर्म-)+++गतिम् आहुर् मनीषिणः” (मनुस्मृति 12-50)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “ब्रह्मा विश्वसृजो धर्मो  
 महान् अव्यक्तम् एव च +++(←तद्-अभिमानि-देवता-पदानि)+++।  
@@ -1749,7 +1749,7 @@ and the deities presiding over karma, mahat and avyaktam"
 इत्यादिगळिलुम् सुव्यक्तम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्यादिषु च सुव्यक्तम् ॥
 </details>
@@ -1787,7 +1787,7 @@ THE OTHER GODS ARE THE SERVANTS OF BHAGAVĀN.
 अवनुक्केवल् तेवै+++(=??)+++ सॆय्गिऱार्गळ् ऎन्नुम् इडम् …  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एते स्वेषामन्तरात्मना तेन प्रत्तानि ज्ञानादीन्य् अवलम्ब्य  
 तस्याऽऽज्ञा-कैङ्कर्यं कुर्वन्तीत्य् एतत् 
@@ -1811,7 +1811,7 @@ may be seen from the following śloka  :
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इप्पडि ब्रह्मरुद्रर्गळ् कर्मवश्यर्गळाय् मायापरवशर्गळाय् ज्ञानसङ्कोचवान्गळायिरुन्दालवर्गळुक्कु सृष्टिसंहारकर्तृत्वङ् गूडुमो? ब्रह्मविष्णुरुद्रर्गळिल् मध्यवर्तियान विष्णुवे पूर्वावस्थैयिले सृष्ट्यादिकर्तृत्वेन ‘‘आद्यो नारायणो देवः’’ इत्यादिकळिले स्थापिक्कप्पट्टिरुक्क ब्रह्मादिकळुक्कु सृष्टिसंहारकर्तृत्वङ् गूडुम्बडिदानॆङ्ङनेयॆन्न वरुळिच्चॆय्गिऱार् इवर्गळित्यादिना । "तङ्गळुक्कु अन्तरात्मावान" ऎण्ड्रदाल् अन्तर्यामियान ऒरुवनुक्के साक्षात्सृष्ट्यादिकर्तृत्व मॆण्ड्रुम्, इवर्गळुक्कु प्रयोज्यकर्तृत्वम् मात्तिरमेयुळ्ळ तॆण्ड्रुम् ज्ञापितमागिऱदु. 
 </details>
@@ -1830,7 +1830,7 @@ may be seen from the following śloka  :
 सृष्टिसंहारकारकौ” (भारतम् शान्तिपर्व 350-19)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “एतौ द्वौ विबुध-श्रेष्ठौ  
 प्रसाद-क्रोधजौ स्मृतौ ।  
@@ -1870,7 +1870,7 @@ and they perform the duties of creation and destruction in accordance with the l
 ऎण्ड्रु सॊल्लप्पट्टदु. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति प्रत्यपादि ॥
 </details>
@@ -1888,7 +1888,7 @@ and they perform the duties of creation and destruction in accordance with the l
 इवर्गळुक्कु शुभाश्रयत्वमिल्लैय् ऎन्नुमिडत्तै 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एषां शुभाश्रयत्वं नास्तीतीमम् अर्थं 
 </details>
@@ -1929,7 +1929,7 @@ They are not pure and are not objects for spiritual meditation (subhasraya), for
 ऎण्ड्र् उम्, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “हिरण्यगर्भो भगवान् वासवोऽथ प्रजापतिः” (विष्णुधर्मम् 6-7) 
 
@@ -1978,7 +1978,7 @@ their births being due to past karma"
 (विष्णुधर्मम् 104-23) ऎण्ड्रुम्,  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “आ-ब्रह्म-स्तम्ब-पर्यन्ता  
 > जगद्-अन्तर्-व्यवस्थिताः ।  
@@ -2030,7 +2030,7 @@ and again,
 ऎण्ड्रुम्,  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “कर्मणां परिपाकत्वाद्  
 आविरिञ्चाद् अमङ्गलम् ।  
@@ -2073,7 +2073,7 @@ and further,
 पराशर-शौनक-शुकादिगळ् प्रतिपादित्तार्गळ्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 पराशर-शौनक-शुकादयः प्रतिपादयामासुः ॥
 </details>
@@ -2100,7 +2100,7 @@ These statements have been made by Parāśara, Śaunaka, Śuka  and others.
 भगवानुक्कु ओर् आश्रयणीयर् इल्लैय् ऎन्नुम् इडत्तैय् उम् -  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[५२]]
 
@@ -2144,7 +2144,7 @@ and Bhagavān has to seek nobody else's protection.
 > (पार. आश्वमेदिगपर्व 118-37, 38.) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “रुद्रं समाश्रिता देवा  
 > रुद्रो ब्रह्माणम् आश्रितः ।  
@@ -2196,7 +2196,7 @@ for I am the refuge of all."
 ऎण्ड्रु तानेय् अरुळिच्-चॆय्दान्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति स्वयमेवानुजग्राह ॥ 
 </details>
@@ -2225,7 +2225,7 @@ This is clear from His own words :
 इवर्गळ् उभयविभूति-नाथन् आन सर्वेश्वरनुक्कु विभूतिभूतर् ऎन्नुम् इडम्
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इमौ उभयविभूतिनाथस्य सर्वेश्वरस्य विभृति-भूताव्  
 इत्य् एतत् 
@@ -2257,7 +2257,7 @@ who is the Lord of both lilāvibhūti and nitya-vibhūti,) --- for it is said,
 +++(विभूतयो हरेरेताः)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 “ब्रह्मा दक्षादयः कालः" (विष्णुपुराणम् 1-22-39)  
 +++(विभूतयो हरेरेताः)+++
@@ -2292,7 +2292,7 @@ who is the Lord of both lilāvibhūti and nitya-vibhūti,) --- for it is said,
 +++(विभूतयो हरेरेताः)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 "रुद्रः कालान्तकाद्याश्च” (विष्णुपुराणम् 1-22-33)
 </details>
@@ -2321,7 +2321,7 @@ all these are among the vibhūtis of Bhagavān,"
 इत्यादिगळिले +++(दक्षादि)+++ मट्र्-उळ्ळार् ओडु तुल्यमागच् चॊल्लप्पट्टदु.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इतीतरनिर्विशेषं प्रत्यपादि ।
 </details>
@@ -2385,7 +2385,7 @@ THE OTHER GODS ARE THE PRAKĀRAS OR MODES OF BHAGAVĀN.
 नारायणादि-शब्द-सामानाधिकरण्यत्ताल् ए सिद्धम्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्थं वस्त्वन्तरवत् एताव् अपि  
 सर्वशरीररिणः सर्वेश्वरस्य प्रकार-भूताव् इत्य् एतत्  
@@ -2442,7 +2442,7 @@ the earth is Nārāyaṇa  and so on.)
 इवर्गळ् शरीरम् आय् अवन् आत्माव् आय् इरुक्किऱप् पडियै
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एतयोः शरीरतया तस्यात्मतया चावस्थितिं
 </details>
@@ -2473,7 +2473,7 @@ That these are His bodies and that He is their inner self or goal is evident fro
 > (भारतम् शान्तिपर्व 361-4)  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “तवान्तरात्मा मम च  
 > ये चान्ये देहि-संज्ञिताः ।  
@@ -2525,7 +2525,7 @@ He sees all but cannot be apprehended by any one, anywhere."
 ऎण्ड्रु ब्रह्मा रुद्रनैक् कुऱित्तुच् चॊन्नान्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति ब्रह्मा रुद्रं प्रति अवोचत् ॥
 </details>
@@ -2542,7 +2542,7 @@ He sees all but cannot be apprehended by any one, anywhere."
 इवर्गळ् शेषभूतर् अवन् शेषी ऎन्नुमिडत्तै  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इमौ शेषभृतौ स शेषीत्येतमर्थं 
 </details>
@@ -2574,7 +2574,7 @@ and He is their śeṣī.
 (मन्त्रराजपदस्तोत्रम्.)  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “दासभूताः स्वतस् सर्वे  
 ह्यात्मानः परमात्मनः ।  
@@ -2595,7 +2595,7 @@ Therefore I am also Thy servant and, with this knowledge, I bow to Thee."
 Therefore I am also Thy servant and, with this knowledge, I bow to Thee."
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 ब्रह्मरुद्रर्गळ् भगवच्छेषर्गळॆण्ड्रुम् भगवान् शेषियॆन्नुम् विषयत्तिले वचनमुदाहरिक्किऱार् दासभूतास्स्वतस्सर्वे इति । चेतनत्वे सति शेषत्वमे दासत्वरूपमागैयाल् शेषत्वत्तै उपक्षेपित्तु दासत्वबोधक-वचनत्तै उदाहरित्तदाल् बाधकलेशमुमिल्लै. इन्द वचनत्तिल् स्वतः ऎन्बदाल् दासत्वम् निरुपाधिकमॆण्ड्रदायिट्रु. इन्द सर्वचेतनरुडैय दासत्वमे सर्वघटकनान तनक्कु भगवद्दासत्वज्ञानप्रयोजकमॆण्ड्रुम्, अदनाले नमस्काररूपमानवात्मनिवेदनत्तैप् पण्णुगिऱेन् ऎण्ड्रुम् उत्तरार्धत्तिनर्थम्. इन्द वचनत्तिऱ्‌कु आकरत्तैयुम् कर्तावै युमुदाहरिक्किऱार् मन्त्रराजपदस्तोत्रत्तिल् सर्वज्ञनान रुद्रन् ताने सॊन्नानिदि. मन्त्रराजः – श्री नृसिंहानुष्टुप्मन्त्रः ।  
 पदस्तोत्रम् अदिनुडैय पदङ्गळुक्कु प्रत्येकं व्याख्यानतया ईश्वरसंहितैयिल् रुद्रन् सॊन्न ‘‘वृत्तोत्फुल्लविशालाक्ष’’ मित्यादियान नृसिंहस्तोत्रम्. सर्वज्ञनान रुद्रनॆन्गैयाल् भारतादिवचनम्बोले इदुवुम् आप्ततमप्रणीतमागैयाल् प्रमाणमॆण्ड्रु ज्ञापिक्कप्पट्टदु.  
@@ -2615,7 +2615,7 @@ Therefore I am also Thy servant and, with this knowledge, I bow to Thee."
 ताने सॊन्नान्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति मन्त्रराजपद-स्तोत्रे सर्वज्ञो रुद्रः स्वयमेवावोचत् ॥
 </details>
@@ -2658,7 +2658,7 @@ BHAGAVĀN HAS NEITHER EQUALS NOR SUPERIORS :
 नारायणन् समाधिक-दरिद्रन् ऎन्नुम् इडत्तै
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्थं सर्वैः प्रकारैर्नारायणः समाधिकदरिद्र इत्येतम् अर्थं
 </details>
@@ -2689,7 +2689,7 @@ This may be seen from the following śloka s :-
 > (भारतम् - भीष्मपर्व 67-2.)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “न परं पुण्डरीकाक्षाद्  
 > दृश्यते पुरुषर्षभ ।"  
@@ -2726,7 +2726,7 @@ This may be seen from the following śloka s :-
 > विद्यते नृपसत्तम” 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[६०]]
 
@@ -2771,7 +2771,7 @@ There is no[^f201] god superior to Viṣṇu , O best of kings;"
 > (भारतम् - भीष्मपर्व 67-17.) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > "न वासुदेवात् परम् अस्ति मङ्गलं  
 > न वासुदेवात् परम् अस्ति पावनम् ।  
@@ -2816,7 +2816,7 @@ No one who adores Vāsudeva ever perishes."
 न जातो न जनिष्यते” 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “त्रैलोक्ये तादृशः कश्चिन्  
 न जातो न जनिष्यते” 
@@ -2848,7 +2848,7 @@ and there will be no one like Him born in the future."
 “न दैवं केशवात्परम्” (नारदीय पुराणम् 18-33.)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 “न दैवं केशवात्परम्” (नारदीय पुराणम् 18-33.)
 </details>
@@ -2879,7 +2879,7 @@ and there will be no one like Him born in the future."
 > (भारतम् आच्वमे. 43-13.)  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “राजाधिराजस् सर्वेषां  
 > विष्णुर् ब्रह्ममयो महान् ।  
@@ -2920,7 +2920,7 @@ He is the Father, the Creator."
 इत्यादिगळाले पलप्पडियुञ्चॊन्नार्गळ्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्यादिभिर् बहुधा प्रतिपादयामासुः ॥
 </details>
@@ -2947,7 +2947,7 @@ He is the Father, the Creator."
 रजस्-तमः-परतन्त्रर् आवार्गळ् ऎन्नुम् इडम् उम्  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 गर्भे श्रीमन्तो जायमान-दशायां  
 रजस्-तमः-प्रशमहेतु--मधु-सूदन-कटाक्ष-भाजो मुमुक्षवः स्युर्  
@@ -3001,7 +3001,7 @@ This difference is brought out in the following passages -
 > स वै मोक्षार्थ-चिन्तकः ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > जायमानं हि पुरुषं  
 > यं पश्येन् मधुसूदनः ।  
@@ -3048,7 +3048,7 @@ and he will ever think of the goal of mokṣa .
 > (भारतम् शान्तिपर्व 358-73-77)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > पश्यत्येनं जायमानं  
 > ब्रह्मा रुद्रोऽथ वा पुनः ।  
@@ -3088,7 +3088,7 @@ and he will ever think of the goal of mokṣa .
 ऎण्ड्रु विभजिक्कप्पट्टदु. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति व्यभज्यत ॥
 </details>
@@ -3141,7 +3141,7 @@ THE ASPIRANT FOR MUKTI SHOULD WORSHIP ONLY BHAGAVĀN.
 ऎन्नुम् इडम् उम्  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 "एते मुमुक्षूणाम् अनुपास्या" इत्य् अयम् अर्थः  
 "एषां कारण-भूतः सर्वेश्वर एव एषाम् अन्येषाञ् च मुमुक्षूणाम् उपास्य"  
@@ -3192,7 +3192,7 @@ may be seen from the following śloka s :-
 ऎण्ड्रुम्, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “संसारार्णव-मग्नानां  
 > विषयाक्रान्त-चेतसाम् ।  
@@ -3216,7 +3216,7 @@ and whose minds are overpowered by the objects of sense pleasures,
 there is no other refuge than the ship of Viṣṇu ," 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 संसारार्णवमग्नानामिति संसारार्णवमग्नत्वं आब्रह्मस्तंबपर्यन्ताः ऎन्गिऱ वचनत्तिल् ब्रह्मरुद्रादिकळुक्कुम् सॊल्लप्पट्टदिऱे.  
 परायणं – ईयते अनेनेत्ययनं, श्रेष्ठमान उबायम्. 
@@ -3239,7 +3239,7 @@ there is no other refuge than the ship of Viṣṇu ,"
 ऎण्ड्रुम्,  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “ब्रह्माणं शितिकण्ठञ् च  
 > याश्चान्या देवतास् स्मृताः ।  
@@ -3289,7 +3289,7 @@ for the fruit of their worship is very limited,”
 ऎण्ड्र् उञ् +++(शिवेन)+++ चॊल्लप्पट्टदु.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “हरिरेकस् सदा **ध्येयो**  
 भवद्भिस् सत्त्व-संस्थितैः ।  
@@ -3343,7 +3343,7 @@ and I am the means for enabling you to remember Hari.”
 ऎण्ड्रु निर्णीतम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एतेनैतेषां मोक्षोपकारकत्वस्य प्रतिपादकानि वचनानि  
 आचार्यादिवत् ज्ञानादिहेतुत्व-पराणीति निर्णीतं भवति । 
@@ -3390,7 +3390,7 @@ assist by imparting knowledge and in such other ways.
 > रुद्रभक्तः प्रजायते ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अयमर्थः
 
@@ -3438,7 +3438,7 @@ This is also the purport of the following passage ;
 > विष्णुभक्तः प्रजायते ॥ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > शङ्करस्य तु यो भक्तस्  
 > सप्तजन्मान्तरं नरः ।  
@@ -3510,7 +3510,7 @@ And again :---
 ऎन्गिऱव् इडत्तिल् उम् विवक्षितम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
  इत्यत्रापि विवक्षितः ॥ 
 </details>
@@ -3540,7 +3540,7 @@ And again :---
 ऎन्नुम् इडत्तै
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्थं सूर्य-भक्त्यादेः परम्परया भगवद्-भक्त्य्-आदाव् उद्योजकत्वम् अपि,  
 
@@ -3595,7 +3595,7 @@ and provided they are not filled with the hatred natural to the asuric or demoni
 इत्यादिगळिल् ए कण्डु-गॊळ्वदु. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “ये तु सामान्यभावेन  
 > **मन्यन्ते** पुरुषोत्तमम् ।  
@@ -3652,7 +3652,7 @@ This is evident from the śloka  :
 भगवन्-निग्रहत्ताल् ए प्रत्यवायम् ए फलिक्कुम्.+++(5)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्थं ज्ञानादिष्व् अन्यथात्वम् आप्तवतां  
 देवतान्तरभक्तौ सत्याम् अपि  
@@ -3702,7 +3702,7 @@ although they have devotion to other deities.
 > (वराहपुराणम् 70-36.) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अतः,
 
@@ -3754,7 +3754,7 @@ From the following śloka  :
 नरकत्तिल् ए विऴ-विडुगैक्क् आगव् इत्तनै. +++(4)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्य्-उक्तरीत्या मोहन-शास्त्रेषु दृष्ट-फल-सिद्धेर् उत्पादनम् अपि  
 तद्-द्वारा विमोह्य  
@@ -3804,7 +3804,7 @@ it is only for making men fall into delusion and thence into hell.
 निग्राह्यन् आगक् कोलिनाल्+++(=मन्यते चेत्)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 सत्यसंकल्परूपे भगवति  
 केचिन् निग्राह्यतया संकल्पितवति सति 
@@ -3842,7 +3842,7 @@ decides that some one deserves His punishment,
 > (रामायणम् सुन्दरकाण्डम् 51-45.)  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “ब्रह्मा स्वयंभूश् चतुराननो वा  
 > रुद्रस् त्रिनेत्रस् त्रिपुरान्तको वा ।  
@@ -3889,7 +3889,7 @@ It is said in the Rāmāyana
 ऎन्गिऱप्पडिये देवतान्तरङ्गळ् रक्षिक्क शक्तर् अल्लर्गळ्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[६२]]
 
@@ -3936,7 +3936,7 @@ then that person will find no other god capable of protecting him.
 सर्वेश्वरन् **रक्षिक्कुम्**.+++(5)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 सर्वेषु देवेषु सुग्रीवमहाराजादिवत् स्वान्तरङ्गभूतेष्व् अपि च  
 स्वाश्रितं कंचित् हिंसितुं संकल्पयत्सु सत्सु  
@@ -4038,7 +4038,7 @@ THE BOONS GRANTED BY OTHER DEITIES ARE DEPENDENT ON THE GRACE OF BHAGAVĀN.
 ऎन्गिऱप्पडिये 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 देवतान्तरसमीपे 
 
@@ -4103,7 +4103,7 @@ for it is said,
 विष-मधु-तुल्यङ्गळ् आन क्षुद्र-फलङ्गळ् कडुग+++(=शीघ्रं)+++ सिद्धिक्कुम्.+++(5)+++ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 विषमधुतुल्यानि क्षुद्रफलानि झटिति सिध्यन्ति । 
 </details>
@@ -4143,7 +4143,7 @@ they will soon obtain minor rewards which are like poison mixed with honey,
 > मयैव विहितान् हि तान्” (श्री गीता 7-22.)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 तान्यपि,
 
@@ -4226,7 +4226,7 @@ and will, under instructions from me, grant boons to all beings,
 > सर्व-सत्त्व-वर-प्रदः” (भारतम् शान्तिपर्व 349-76-77.) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > अस्य चैवानुजो रुद्रो  
 > ललाटाद् यस् समुत्थितः ।  
@@ -4258,7 +4258,7 @@ and will, under instructions from me, grant boons to all beings,
 इत्यादिगळ् इऱ्‌पडिय् ए भगवद्-अधीनङ्गळ्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्याद्युक्तरीत्या भगवदधीनानि ।
 </details>
@@ -4289,7 +4289,7 @@ As stated in these passages, these are dependent upon Bhagavān.
 > (भारतम् शान्तिपर्व 350-36.) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > (“ब्रह्माणं शितिकण्ठञ् च  
 > याश्चान्या देवतास् स्मृताः ।  
@@ -4334,7 +4334,7 @@ It is said :-- "The rewards[^f218] (obtained from these deities) are of a very l
 > (मात्स्य-पुराणम् 290-16)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘सात्विकेषु तु कल्पेषु  
 > माहात्म्यम् अधिकं हरेः ।  
@@ -4380,7 +4380,7 @@ It is said :-- "The rewards[^f218] (obtained from these deities) are of a very l
 ऎन्गैयाले अवर्गळ् पक्कल् मोक्षम् विळम्बित्त् उङ् गिडैयादु. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्युक्ततया तत्सन्निधौ मोक्षो विलम्बेनापि न लभ्यते ।
 </details>
@@ -4428,7 +4428,7 @@ Therefore, from these other deities, mokṣa  cannot be attained even after a le
 </details>
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘युग-कोटि-सहस्राणि  
 > विष्णुम् आराध्य पद्मभूः  
@@ -4462,7 +4462,7 @@ even as [^f220] Brahma attained his high position after worshipping Viṣṇu  f
 इत्यादिगळिऱ् ‌पडिय् ए अतिशयितम् आन ऐश्वर्यादिगळ् उम् वरुम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्याद्युक्तरीत्या अतिशयितान्यैश्वर्यादीन्य् अपि लभ्यन्ते । 
 </details>
@@ -4501,7 +4501,7 @@ From the Lord of all, on the other hand, a man obtains unsurpassed wealth and th
 क्रमेण **मोक्ष-पर्यन्तम् आय् विडुम्**. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 ततः श्रमपरिहारार्थेन गङ्गास्नानेन पाप-क्षय-सिद्धिवत्  
 विषय--स्व-भावेन आनुषङ्गिके **पाप-क्षये उत्पन्ने**  
@@ -4557,7 +4557,7 @@ and, in course of time, he will attain mokṣa like Janaka, Ambarisha, Kekaya an
 > ज्ञानवान् मां प्रपद्यते” (गीता 7.19) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 मोक्षोपायनिष्ठताविषये, 
 
@@ -4609,7 +4609,7 @@ the man attains spiritual wisdom and seeks my protection”
 > (पौष्करसंहिता)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘ये जन्मकोटिभिस् सिद्धास्  
 > तेषाम् अन्तेऽत्र संस्थितिः”  
@@ -4655,7 +4655,7 @@ will at length become well established here."
 > (पाञ्चरात्रम्.)  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘जन्मान्तरसहस्रेषु  
 > तपोध्यान-समाधिभिः ।  
@@ -4694,7 +4694,7 @@ will acquire devotion to Kṛṣṇa,"
 ऎन्गिऱप्पडिये विळम्बमुण्डु. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्युक्तरीत्या विलम्बो भवति । 
 </details>
@@ -4729,7 +4729,7 @@ But there is delay in such cases as may be seen in the above (following) passage
 वल्लद् ऒरु उपायत्तिले मूण्डाल्+++(=प्रवृत्ते)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 मोक्षरुचौ जातायां  
 शक्ये कस्मिंश्चिदुपाये प्रवृत्तौ संपन्नायाम्
@@ -4768,7 +4768,7 @@ and when the man practises  upāya which is within his power,
 > (गीता 12-7.)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘तेषाम् अहं **समुद्धर्ता**  
 > मृत्यु-संसार-सागरात् ।  
@@ -4809,7 +4809,7 @@ to them I become the redeemer
 ऎन्गिऱप्पडिये मोक्षसिद्धिक्कु विळम्बमिल्लै.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्युक्तरीत्या मोक्षसिद्धौ विलम्बो न भवति । 
 </details>
@@ -4844,7 +4844,7 @@ there will be no delay in the attainment of mokṣa , for He has declared +++(th
 वेऱु विलम्बाविलम्बङ्गळुक्कुक् कुऱिय्+++(=गमकं)+++ इल्लै. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 स्वतन्त्रप्रपत्तिनिष्टस्य स्वोद्दिष्ट एवावधिः ।  
 अन्यत् विलम्बाविलम्बगमकं नास्ति । 
@@ -4891,7 +4891,7 @@ except in accordance with his own desire.
 ऎण्ड्रु प्रमाण-परतन्त्ररुक्कु सिद्धम्.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > इमे नियमाः सर्वेऽपि  
 > 
@@ -4951,7 +4951,7 @@ for has it not been said,
 ऎण्ड्रु व्यवस्थै पण्णप् पट्टदु. +++(5)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इमान् अर्थान्  
 इत्थं विशदम् अ-प्रबुद्ध्यमानानाम्  
@@ -5029,7 +5029,7 @@ other than those who have discriminating intelligence,"
 वस्तु-वृत्तियिल् सर्वेश्वरन् ए आराध्यन् आनाल् उम्
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इमानि देवतान्तराणि भगवच्-छरीरत्वेनाबुध्वा आश्रयताम्  
 — चार्वाकेण सता केनचित् सेवकेन  
@@ -5063,7 +5063,7 @@ as they are only His bodies.
 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इप्पडि प्रतिबुद्धेतरर्गळुक्के देवतान्तरमाराध्य मॆण्ड्रालुम्, अन्द आराधनत्ताल् तत्तद्देवतान्तरान्तर्यामियान भगवाने वस्तुतः आराध्यनागैयाले अवनुक्कुम् प्रतिबुद्धनुक्कुम् सममागवे ईश्वरन् फलप्रदानम् पण्ण वेण्डुगैयालिरुवरुक्कुम् फलांशत्तिल् साम्यमे सिद्धिक्कादोवॆण्ड्रु शङ्कित्तु समाधानमरुळिच्चॆय्गिऱार् इत्देवतान्तरङ्गळै भगवच्छरीरमॆण्ड्रु अऱियादे पट्रिनार्क्कु इत्यादिना । इदऱ्‌कु वस्तुवृत्तियिल् सर्वेश्वरने आराद्ध्यनानालुमॆन्ब तोडन्वयम्.  
 इदऱ्‌कु अनुरूपदृष्टान्तमरुळिच्चॆय्गिऱार् चार्वाकनायिरुप्पानॊरुसेवकनित्यादिना ।  
@@ -5087,7 +5087,7 @@ as they are only His bodies.
 > **यजन्त्य्** अविधिपूर्वकम्” (गीता 9-23.) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘ये त्व् अन्य-देवता-भक्ता  
 > **यजन्ते** श्रद्धया ऽन्विताः ।  
@@ -5130,7 +5130,7 @@ as they are only His bodies.
 अवट्रिऱ् ‌चॊन्न फलम् विकलम् आम्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्युक्तरीत्या  
 शास्त्रार्थ-वैकल्यस्य जातत्वात्  
@@ -5176,7 +5176,7 @@ the fruit will be partial and incomplete,
 अव्वो फलङ्गळ् पूर्णङ्गळ् आम्.+++(5)+++ 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 भगवच्-छरीरतां बुद्ध्वा  
 क्षुद्र-फलानि झट् इति प्राप्तव्यानि  
@@ -5221,7 +5221,7 @@ the fruit will be fully and completely realised in perfect measure.
 अन्द फलङ्गळ् अतिशयितङ्गळ् आम्.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एवं ज्ञाते सति भगवन्तम् एव "62 आर्तो जिज्ञासुर् अर्थार्थी” इत्य् उक्त-रीत्या  
 फलान्तरार्थम् अपि समाश्रयेच् चेत्,  
@@ -5294,7 +5294,7 @@ The Gita thus speaks of those who approach Bhagavān for minor fruits :-
 फलान्तरङ्गळ् आनुषङ्गिकम् आग वरुम्.+++(4)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अनन्यप्रयोजनतया आश्रयतामपि, 
 
@@ -5356,7 +5356,7 @@ These are, so to say, adventitious or incidental rewards (ānushaṅgīka ) not 
 ऎण्ड्र् अरुळिच् चॆय्दार्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इमम् अर्थम् अनुषङ्ग-सिद्धेश्वर्यः श्री-कुल-शेखर-वर-स्वाम्य् अपि 
 
@@ -5413,7 +5413,7 @@ prosperity comes and seeks him."
 > जलधिम् इव जलौघास् ते विशन्ति स्वयं नः”
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘अभिलषित-दुर्-आपा ये पुरा काम-भोगा  
 > जलधिम् इव जलौघास् ते विशन्ति स्वयं नः”
@@ -5454,7 +5454,7 @@ like rivers flowing into the ocean, (although we do not desire them now)."
 ऎण्ड्रु ईसाण्डानुम् तामरुळिच् चॆय्द स्तोत्रत्तिले निबन्धित्तार्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[६५]]
 
@@ -5495,7 +5495,7 @@ Isandan also has stated this in his stotra thus.
 इदु विद्या-विशेष--राग-विशेषादि-नियतम्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इदं विद्याविशेषरागविशेषादिनियतम् ॥
 </details>
@@ -5566,7 +5566,7 @@ while others secure only mokṣa .)
 इप्पडि सर्वेश्वरनुक्कुम् ब्रह्मरुद्रादिगळुक्कुमुण्डान विशेषङ्गळै
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्थं सर्वेश्वरस्य ब्रह्मरुद्रादीनां च सिध्यतो विशेषान् 
 </details>
@@ -5600,7 +5600,7 @@ The Alwars, too, have spoken of these differences between the Lord of all on one
 यॆण्ड्रुम्, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “अस्मत्-स्वामि-भुक्त+++(←प्रलये)+++-वान्तोच्छिष्ट+++(←सृष्टौ)+++-देव-व्यतिरिक्ता अपि किं सन्ति " 
 
@@ -5640,7 +5640,7 @@ are there any (gods) who are not of the nature of this vomit?"
 ऎण्ड्रुम्, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > "चतुर्मुखं नारायणः ससर्ज  
 > चतुर्मुखोऽपि द्वारभूतः सन्  
@@ -5683,7 +5683,7 @@ and the god with four faces created Saṅkara."
 ऎण्ड्रुम्, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “68 आहत्य प्रणमतां ब्रह्म-शिवेन्द्रादीनां सर्वेषां नाभी-कमलादि-कन्द" 
 
@@ -5728,7 +5728,7 @@ who worship you with reverence.”
 ऎण्ड्रुम्, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > तीर्थस्य लोक-विक्रान्त-रक्त-चरणयोर् उपरि  
 > सुन्दर-पुष्प-दाम **समर्प्य**  
@@ -5777,7 +5777,7 @@ wearing garland of green tulasi."
 ऎण्ड्रुम्,  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > "20 दिविषदामीशिता चतुर्मुखो जटा-मौलि-स्वामी च  
 > आर्जवेन तत्-पाद-पङ्क-जं ध्यात्वा स्तुत्वा संचरन्ति" 
@@ -5837,7 +5837,7 @@ and go about praising Him."
 पिऱर्क्क् उम् नायकन् अवन् ए" (तिरुवाय्मॊऴि 4-10-4.) ऎण्ड्रुम्,  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[६६]]
 
@@ -5881,7 +5881,7 @@ of Brahma and of all others."
 ऎण्ड्रुम्,
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 “72 एक-वृषभकश् चतुर्मुखश् च त्वां यथा न जानीतस्  
 तथा माहात्म्ययुक्त " 
@@ -5922,7 +5922,7 @@ even by him who rides on the unique bull and by Brahma,"
 ऎण्ड्रुम् पल-मुखङ्गळाल् एय् अरुळिच्-चॆय्दार्गळ्.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > वृषभध्वजो ब्रह्मेन्द्रोऽन्यः कश्चिद् अप्य् अस्य जन्म-रूपस्य व्याधेर् औषधं न जानाना अपि भवन्ति”
 
@@ -5982,7 +5982,7 @@ And again,
 चरम-श्लोकत्तिल् ‘‘माम्” ‘‘अहम्” ऎन्गिऱ शब्दङ्गळिल् उम् अनुसन्धेयम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इदं देवतापारमार्थ्यं  
 श्रीमन्त्रे प्रथमाक्षरे +++(अकारे)+++, नारायण-शब्दे च,  
@@ -6029,7 +6029,7 @@ and likewise in the words 'me' and 'I' occurring in the Carama Śloka.
 इद्-देवता-विशेष-निश्चयम् उळ्ळवनुक्क् अल्लदु  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एतद्-देवता-विशेष-निश्चय-शून्यानाम्, 
 </details>
@@ -6062,7 +6062,7 @@ For men other than those who have this conviction about the Supreme Deity,
 > "कण्णन्-कण्ण्+++(=रक्षक)+++-अल्लद् इल्लैय् ओर् कण्ण्+++(=रक्षक)+++ ए"(तिरुवाय्मॊऴि 2-2-1.) ऎण्ड्रुम्,
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 "74 कृष्णात् रक्षकादन्यो रक्षको नास्ति" इति, 
 </details>
@@ -6096,7 +6096,7 @@ For men other than those who have this conviction about the Supreme Deity,
 ऎण्ड्रुम्,
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[६७]]  
 
@@ -6138,7 +6138,7 @@ For men other than those who have this conviction about the Supreme Deity,
 ऎण्ड्रुम्,
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > "76 प्राणस्यैकाम् अवलम्बन-शाखां  
 > त्वां विना न जानाम्यहम् " 
@@ -6174,7 +6174,7 @@ For men other than those who have this conviction about the Supreme Deity,
 ऎन्गिऱ तिरुमॊऴि मुदलानवट्रिलुञ् चॊल्लुम्
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 
 > "77 तरुतुयरंतडा येल" ( प्राप्तं दुःखं न निवारयसि चेत् — त्वच्चरणमन्तरा शरणं नास्ति ) " 
@@ -6214,7 +6214,7 @@ For men other than those who have this conviction about the Supreme Deity,
 प्रतिपाद्यमाना अनन्य-शरणत्वावस्था न सिद्ध्यति ।
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 प्रतिपाद्यमाना अनन्यशरणत्वावस्था न सिद्ध्यति ।
 </details>
@@ -6254,7 +6254,7 @@ it is not possible to be in the state of having Bhagavān alone exclusively as t
 प्रतिष्ठितम् आन पडियै
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इदं परदेवतापारमार्थ्यं  
 श्रीमन्त्रे साक्षात्कृत्य  
@@ -6306,7 +6306,7 @@ and also in rendering exclusive service to the Lord and His devotees.
 उट्रद् उम् उन्न्-अडियार्क्क् अडिमै" (पॆरिय तिरुमॊऴि 8-10-3.)  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “78 अन्यत् किमपि दैवम् अस्तीत्य् आतिष्ठमानैः सह न संसृज्येय,  
 > अङ्गीकृतं च त्वद्-दास-दास्यम्” 
@@ -6350,7 +6350,7 @@ He gives expression to this in the following verse.
 सर्वार्थ-ग्रहणम् पण्णिन आऴ्वार् अरुळिच् चॆय्दार्.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति गाथायां सर्वेश्वरसन्निधौ सर्वार्थग्राही दिव्यसूरिरनुजग्राह । 
 </details>
@@ -6373,7 +6373,7 @@ He gives expression to this in the following verse.
 इवर् "पार्+++(=कठिन)+++-उरुविल्+++(=उर्वी)+++-नीर्-ऎरि-कात्+++(=वयुः)+++" (तिरुनॆडुन्दाण्डगम् 2.) ऎन्गिऱ पाट्टिले
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अयं "78 पारुरुविल् नीरॆरिगाल्" (कठिनोर्वी जलमग्निर्वायुः) इति गाथायां
 </details>
@@ -6412,7 +6412,7 @@ In the verse beginning with "The earth, water, fire, air, ether--having created 
 परिशेषित्त परंज्योतिस्सान ऒरुवनै
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 परिशेषक्रमेण विवादविषयान् त्रीन् स्थापयित्वा  
 तेषु त्रिषु प्रमाणानुसन्धानेन द्वौ निरस्य  
@@ -6459,7 +6459,7 @@ and decides on the remaining deity who is Supreme Light[^f245]
 ऎण्ड्रु निष्कर्षित्तार्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 “मेघसदृशरूपमस्मत्वामिनो रूपम्" इति निश्चकर्ष । 
 </details>
@@ -6498,7 +6498,7 @@ and decides on the remaining deity who is Supreme Light[^f245]
 सर्व-वेद-सार-भूत-प्रणव-प्रतिपाद्यतैयाल् ए 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एतद्-रूप-विशिष्टः परमपुरुष एव  
 सर्व-वेद-प्रतिपाद्यं पर-तत्त्वम् 
@@ -6547,7 +6547,7 @@ described in all the Vedas ;
 ऎण्ड्रु पॆरियाऴ्वार् अरुळिच् चॆय्दार्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > मूलभूतम् एकाक्षरं त्रि-मात्रोन्मेषगर्भम् उच्चार्य  
 > समुद्रवर्णं भावयत चेत्
@@ -6605,7 +6605,7 @@ by uttering the origin of all Veda, namely, the syllable aum with three mātras 
 महा-पुरुषनुक्कु व्यावृत्तिय् ओदिनप्-पडियै निनैत्तु
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 तैत्तिरीये +++("ह्रीश्च ते लक्ष्मीश्च पत्न्यौ"→)+++ श्रियः-पतित्वेन चिह्नेन  
 परम-पुरुषस्य व्यावृत्तेर् आम्नान-प्रकारम् अनुसंधाय  
@@ -6642,7 +6642,7 @@ the Alwar understands that this description excludes other gods and exclaims:-
 "तिरुक् कण्डेन् पॊन्-मेनि +++(विष्णुं)+++ कण्डेन्" (मूण्ड्राम् तिरुवन्दादि 1.) ऎण्ड्रु उपक्रमित्तु 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 “71 श्रियम् अद्राक्षं हिरण्मय-विग्रहम् अद्राक्षम्" इत्य् उपक्रम्य 
 </details>
@@ -6683,7 +6683,7 @@ and the form of the Lord shining like gold on which she rests."
 प्राप्यान्तरम् उम् शरण्यान्तरम् उम् इल्लै. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 “72 शार्वुनमक्कु " ( अपाश्रयोऽस्माकम् ) इति गाथायाम्, 
 
@@ -6749,7 +6749,7 @@ This he declares in the following verse :-
 ऎण्ड्रु निगमिक्कप्पट्टदु.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > इमौ दम्पती एव प्राप्यौ शरण्यौ च' 
 
@@ -6797,7 +6797,7 @@ The conclusion has been arrived at that this couple (Bhagavān and Śrī) are ou
 > (विष्णुपुराणम् 1-1-26)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इममर्थं
 
@@ -6817,6 +6817,10 @@ The conclusion has been arrived at that this couple (Bhagavān and Śrī) are ou
 "You will[^f250] understand the truth about the Supreme Deity." 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इद्दंपतिकळे शरण्यरुम् प्राप्यरुमॆन्नुमिडत्तै पराशरब्रह्मर्षियुम् अरुळिच् चॆय्दारॆन्गिऱार् इव्वर्थत्तै इत्यादिना । ‘‘देवतापारमार्थ्यं च यथावद्वेत्स्यते भवान्’’ऎन्बदु पुलस्त्यरुडैय वरप्रदानवचनम्. ‘‘पुलस्त्येन यदुक्तं ते सर्वथैतद्भविष्यति’’ ऎन्बदु वसिष्ठरुडैय वरप्रदानवचनम्. 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -6832,7 +6836,7 @@ The conclusion has been arrived at that this couple (Bhagavān and Śrī) are ou
 ऎण्ड्रु
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > "पुलस्त्येन यदुक्तं ते  
 > सर्वथैतद् भविष्यति (विष्णुपुराणम् 1-1-28.)” 
@@ -6859,7 +6863,7 @@ The conclusion has been arrived at that this couple (Bhagavān and Śrī) are ou
 पुलस्त्यवसिष्ठ-वरप्रसादत्ताले परदेवतापारमार्थ्यज्ञानम् उडैयनाय्, 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति पुलस्त्यवसिष्ठप्रसादलब्ध-परदेवता-पारमार्थ्य-ज्ञानवान्,  
 </details>
@@ -6877,6 +6881,12 @@ by the grace of Pulastya and Vasiṣṭa who gave him this boon.)
 by the grace of Pulastya and Vasiṣṭha who gave him this boon.)
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ऎण्ड्रु - एतच्छ्लोकप्रतिपाद्यमान, पुलस्त्यवसिष्ठवरप्रसादत्ताले परदेवतापारमार्थ्यज्ञानमुडैयनायिति । कालविशेषत्तिले पराशरब्रह्मर्षि, वसिष्ठर् तमक्कु पितामहनॆण्ड्रुम्, तनक्कु पिदावान शक्ति ऒरु राक्षसनाल् कॊल्लप्पट्टानॆण्ड्रुम् वसिष्ठरिडत्तिले केट्टु कोपाविष्टराय् सर्वराक्षसर्गळैयुम् कॊल्ल निनैत्तु ऒरु यागविशेषत्तैप् पण्णुम्बोदु वसिष्ठभगवान् यागस्थलत्तिऱ्‌कु वन्दु पराशररैप् पार्त्तु, यारो ऒरु राक्षसन् उन् तगप्पनैक् कॊण्ड्रदऱ्‌काग सर्वराक्षसर्गळैयुम् कॊल्वदु ब्रह्मवित्तान उनक्कुत्तगादॆण्ड्रु सॊन्नवुडन्, अवर् यागसंरंभत्तिनिण्ड्रुम् झटिति उपरतराग, अदैक् कण्ड अप्पोदु अङ्गु वन्द पुलस्त्यभगवान् ‘‘देवतापारमार्थ्यं च’’ इत्यादि वचनत्तै प्रसादित्तार्. अप्पोदु वसिष्ठभगवानुम् इन्द वरप्रदानत्तैक् केट्टु ‘‘पुलस्त्येन’’ इत्यादियाल् पुलस्त्यानुगृहीतं यद्देवतापारमार्थ्यादिवेदनं एतत्सर्वं तव भविष्यति ऎण्ड्रु अनुग्रहित्तार् ऎन्गिऱ विष्णुपुराणकथैयै इङ्गे अनुसन्धिप्पदु.  
+इप्पडि इवरै उभयवरप्रसादलब्धज्ञानरॆण्ड्रदाल् इतरमहर्षिकळैक् काट्टिलुमिवर् उत्कृष्टतमरॆण्ड्रुम्, इवररुळिच्चॆय्ददॆल्लाम् परमार्थतममॆण्ड्रुम् ज्ञापिक्कप्पट्टदु.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -6889,7 +6899,7 @@ by the grace of Pulastya and Vasiṣṭha who gave him this boon.)
 परक्कप्+++(=विस्तरेण)+++ पेसि 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 श्रीभगवद्यासुनपादैः "85 तस्मै नमो मुनिवराय पराशराय" इत्याद्रियमाणः श्री-पराशरब्रह्मर्पिर् विस्तरेण प्रतिपाद्य, 
 </details>
@@ -6904,6 +6914,13 @@ Our great ācārya , ŚrīYamunamuni, also speaks of Parāśara with the greates
 <details><summary>Español</summary>
 
 Our great ācārya , ŚrīYamunamuni, also speaks of Parāśara with the greatest regard in 'I bow to Parāśara[^f252] the best of sages." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इवरुक्कु वेऱु विशेषत्तैयुम् काट्टुगिऱार् पॆरियमुदलियार् इत्यादिना । पॆरियमुदलियार् - आळवन्दार्. ऎण्ड्रादरिक्कुम्बडियान - मुनिवररॆण्ड्रु नमस्कारपूर्वकमाग आदरिक्कुम्बडियान. इदनाल् इतरमहर्षिकळैक्काट्टिलुम् इवरुक्कु नम् पूर्वाचार्यादरणरूपमान उत्कर्षम् सॊल्लप्पट्टदु. इदु श्रीभाष्यत्तिल् पुलस्त्यवसिष्ठवरप्रसादलब्धपरदेवतापारमार्थ्यज्ञानवतो भगवतः पराशरात्’’ ऎन्गिऱ भाष्यकारादरणत्तुक्कु मुपलक्षणम्. 
+
+पराशरब्रह्मर्षि इति । इङ्गु ब्रह्मर्षि ऎन्गिऱ पदम् ब्रह्मसाक्षात्कारवत्तैयैच् चॊल्लुगिऱदु. परक्कप्पेसि इति । इव्वर्थत्तै परक्कप्पेसि ऎण्ड्रन्वयम्. ‘‘नित्यैवेषा जगन्माता विष्णोश्श्रीरनपायिनी’’ ऎण्ड्रु प्राप्यप्रापकदशैयिलिवळुक्कु अनपायत्वम् सॊल्लि ‘‘यथा सर्वगतो विष्णुः’’ इत्यादियाले समानधर्मत्वत्तै युपपादित्तु ऎण्ड्रबडि.
 </details>
 
 
@@ -6922,7 +6939,7 @@ Our great ācārya , ŚrīYamunamuni, also speaks of Parāśara with the greates
 > (विष्णुपुराणम् 1-8-35.)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > ‘‘देव-तिर्यङ्-मनुष्येषु  
 > पुन्नामा भगवान् हरिः ।  
@@ -6947,7 +6964,11 @@ and there is no one other than they,"
 all that is masculine is Bhagavān, Hari,  
 and all that is feminine is Lakṣmī, O Maitreya,  
 and there is no one other than they," 
+</details>
 
+<details><summary>सायण-टीका</summary>
+
+देवतीर्यगिति । देवतिर्यङ्मनुष्यसमुदायरूपमान जगत्तिल् पुन्नामा सर्वोऽपि भगवानान हरिः ।  हरेर्विभूतिरित्यर्थः । स्त्रीनाम्नी सर्वापि लक्ष्मीः । लक्ष्म्याः विभूतिरित्यर्थः । अतः अनयोः परं – वेऱानदु, इवर्गळुडैय विभूतियल्लाददु ऒण्ड्रुमिल्लै यॆण्ड्रबडि. इप्पडि इवरुक्कुम् सर्वविभूतिकत्वम् सॊल्लुगैयाल् इवर्गळे परदेवतैयॆण्ड्रुम्, प्राप्यरॆण्ड्रुम्, शरण्यरॆण्ड्रुम् सॊल्लित् तागिऱदु. ऎण्ड्रु - इवर्गळे सर्वविभूतिमान्गळ् इवर्गळुक्कु विभूतियल्लाददु इल्लैयॆण्ड्रु.
 </details>
 
 
@@ -6962,7 +6983,7 @@ and there is no one other than they,"
 ऎण्ड्रु परमरहस्ययोग्यनान सच्छिष्यनुक्कु उपदेशित्तान्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति परमरहस्य योग्याय सच्छिष्यायोपदिदेश ।
 </details>
@@ -6976,6 +6997,11 @@ This truth regarding the Supreme Deity was taught at great length by the great s
 <details><summary>Español</summary>
 
 This truth regarding the Supreme Deity was taught at great length by the great sage, Parāśara, to his worthy disciple who was fit to receive the great spiritual secrets, in the above (following) śloka
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+परमरहस्ययोग्यनान सच्छिष्यनुक्कुपदेशित्तानिति । पराशररिडत्तिलेये सामान्यविशेषशास्त्रङ्गळै अभ्यसित्तु पराशररालेये ‘‘मैत्रेय! कथयिष्यन्ति त्वामन्येनाकृतश्रमं’’ ऎण्ड्रु श्लाघिक्कप्पट्टुम्, अत एव परमरहस्ययोग्यनायुमुळ्ळ मैत्रेयरुक्कु उपदेशित् तानॆण्ड्रबडि.  
 </details>
 
 
@@ -6994,7 +7020,7 @@ This truth regarding the Supreme Deity was taught at great length by the great s
 प्रपन्न-सन्तान-कूट-स्थर् आन नम्माऴ्वार् उम् 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इममर्थम् अज्ञानराहित्येन ज्ञानभक्ती अनुग्रहेण प्राप्तवान्  
 “आद्यस्य नः कुलपतेः" इत्य्-उक्तरीत्या प्रपन्न-जन-संतान-कूट-स्थः श्री-शष्कोप-सूरिर् अपि  
@@ -7016,6 +7042,12 @@ has stated the same truth
 (namely, that Lakṣmī  should also be considered along with Bhagavān as our refuge and our goal):  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+नम्माऴ्वारुम् इप्पडिये अरुळिच्चॆय्दारॆन्गिऱार् इत्तै मयर्वऱ मदि नलमित्यादिना । इत्तै - इद्दंपतिकळे प्राप्यरुम् शरण्यरुमॆन्नुमिव्वर्थत्तै. आऴ्वार्गळिल् नम्माऴ्वार्क्कु उळ्ळ एट्रत्तै यरुळिच्चॆय्गिऱार् मयर्वऱ मदि नलमरुळप्पॆट्रु इति । मयर्वु - अज्ञानम्, अऱ - पोगुम्बडियाय्, गर्भत्तिले तुडङ्गि अज्ञानगन्धमिल्लादबडि यॆन्गै. मदि - ज्ञानत्तैयुम्, नलम् - भक्तियैयुम्, अरुळप्पॆट्रु - सर्वेश्वरन् ताने तन् कृपैयाले प्रसादिक्कप्पॆट्रु, इदै मुदऱ्‌पाट्टिले इव्वाऴ्वार् सॊल्लुगैयाले मट्र आऴ्वारैक् काट्टिलुमिवरुक्कु अभ्यर्हितत्वम् तोण्ड्रुगिऱदु.  
+प्रपन्नसन्तानेति । नाथमुनिप्रभृतिकळान प्रपन्नपरंपरैक्कु कूटस्थरान ‘‘आद्यस्य नः कुलपतेः’’ ऎन्गिऱबडि आद्यभूतरान, इदनाल् प्रपन्नर्गळुक्कॆल्लाम् कूटस्थवचनम् मिगवुमादरणीयमॆण्ड्रु ज्ञापितमागिऱदु.  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -7032,7 +7064,7 @@ has stated the same truth
 ऎण्ड्ररुळिच्चॆय्दार्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 “88 उज्ज्वलाग्रहस्त-वलयायां श्रियां,  
 त्वयि चाधिवसतोर् दृश्यं चातुर्यं दृष्टा "  
@@ -7049,6 +7081,11 @@ has stated the same truth
 "You have[^f253] enabled me to have a vision of Thyself and Thy consort (Lakṣmī ) with the shining bracelets, standing together."
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ऒण्डॊडियाळित्यादि । ऒण् - उज्ज्वलमान, तॊडियाळ् - हस्ताभरणङ्गळैयुडैयवळान, तिरुमगळुम् - लक्ष्मियॆन्गिऱ युवदियुम्, नीयुमे - सर्वेश्वरनान नीयुमे, निलानिऱ्‌प - स्वतन्त्रमान वेऱु वस्तुवण्ड्रिक्के नीङ्गळ् इरुवरुमे ईश्वरर्गळाग निऱ्‌कुम्बडियै, कण्डसदिर् - नी पार्त्तुवैत्त सामर्थ्यत्तै, अदावदु नित्यसूरिकळोडु तुल्यानुभाव्यमाग सर्वात्माक्कळुक्कुम् नी अनादियाग संकल्पित्तुवैत्त पुरुषार्थत्तै यॆन्नबडि. कण्डु - नान् साक्षात्करित्तु. इप्पडि नीङ्गळिरुवरुमे ईश्वरत्वेन निऱ्‌कुम् निलैयैक् कण्डेनॆण्ड्रदाले इव्विरुवरुमे प्राप्यरॆण्ड्रुम् शरण्यरॆण्ड्रुम् इदिल् निष्कर्षिक्कप्पट्टदॆण्ड्रु करुत्तु. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -7062,7 +7099,7 @@ has stated the same truth
 अङ्ग् ए कण्डु-गॊळ्वदु.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अत्र विषये वक्तव्यं सर्वम् अपि चतुः-श्लोकी-व्याख्याने  
 पर-पक्ष-प्रतिक्षेपपूर्वकं विस्तरेणावोचाम ।  
@@ -7081,6 +7118,12 @@ and refer the reader to the same.
 We have already stated all that should be said in this connection in our commentary on The Four śloka s (of Yāmunācārya)  
 with a refutation of the views of opponents  
 and refer the reader to the same.
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि इरुवरुमे ईश्वरर्गळॆण्ड्रुम् उपायभूतर्गळॆण्ड्रुम् निष्कर्षित्ताल् ईश्वरद्वित्वोपायद्वित्वादिप्रसङ्गमुम्, पिराट्टिक्कु पारतन्त्र्यम् सॊल्लुगिऱ प्रमाणविरोधमुम् वरुमॆण्ड्रु वादिकळ् सॊल्लुम् पूर्वपक्षङ्गळुक्कु समाधानम् सॊल्लवेण्डावोवॆन्न वरुळिच्चॆय्गिऱार् इव् विषयत्तिल् वक्तव्यमॆल्लामित्यादिना । चतुश्लोकीव्याख्यानत्तिले - आळवन्दाराल् लक्ष्मीविषयमाग अरुळिच्चॆय्यप्पट्ट ‘‘कान्तस्ते’’ इत्यादिश्लोकचतुष्टयव्याख्यानत्तिले, परपक्षप्रतिक्षेपपूर्वकमाग परक्कच्चॊन्नोम् अङ्गे कण्डुगॊळ्वदु - इङ्गु रहस्यत्रयव्याख्यानत्तिलेये नमक्कु नोक्कागैयालुम् इङ्गु प्रसक्तमान पूर्वपक्षादि कळुक्कु चतुश्लोकीव्याख्यानत्तिल् पूर्वमेव खण्डनम् सॊल्लप्पट्टिरुप्पदाल् पुनरपि इन्द ग्रन्थत्तिल् अदै विस्तरिक्किऱोमल्लोम्. बुद्धिमान्गळ् लोकप्रसिद्धमान चतुश्लोकीभाष्यत्तिलेये तिनैवडङ्गत् तॆळियलामॆण्ड्रु करुत्तु.  
 </details>
 
 
@@ -7109,10 +7152,10 @@ and refer the reader to the same.
 वादियर् मन्नुन्+++(=स्थिर)+++-तरुक्कच्+++(=तर्क)+++ चॆरुक्किन्+++(=गर्वेण)+++ मऱै+++(=वेदा)+++-कुलैयच्,  
 साधु-जनङ्गळ् अडङ्ग+++(=कार्त्स्न्येन)+++ नडुङ्गत्+++(=कम्पनम् प्रति)+++ तनित् तनिय् ए  
 आदिय् ऎना+++(=अवचन)+++-वगैय्, आरण+++(ण्यक)+++-देशिकर् साट्रिनर्+++(=प्राकाशयन्)+++ - नम्  
-पोदमरुन् तिरु-माद्-उड-निण्ड्र पुराणनैय् ए. // 13 //
+पोद्+++(=पुष्प)+++-अमरुन्+++(=वसत्)+++ तिरु-माद्+++(=युवती)+++-उड-निण्ड्र पुराणनैय् ए. // 13 //
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 ( अधिकारार्थसंग्राहिका गाथा)  
 वेदा यथा व्याकुला भवेयुः,  
@@ -7151,6 +7194,11 @@ thus causing dread to the Vedas[^es41] * and trepidation to all devotees.
 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इव्वधिकारत्तिल् सॊन्नबडि श्रीमानान नारायणने परदेवतैयॆण्ड्रुम् परम-कारणनॆण्ड्रुम् नम् पूर्वाचार्यर्गळे निष्कर्षित्तु जयघोषणम् पण्णिनार्गळॆन्बदै प्रकाशिप्पित्तुगॊण्डे अधिकारार्थत्तै पाट्टाले संग्रहिक्किऱार् वादियरित्यादिना । वादियर् - दुर्वादिकळ्, मन्नुम् तरुक्कच्चॆरुक्किल् - स्थिरमान अदावदु तडुक्कमुडियाददान तर्कमूलमान गर्वत्ताले, तृतीयार्थे सप्तमी । मऱै कुलैय - वेदङ्गळ् कुलैन्दुबोम्बडि, स्वार्थसमर्थनाशक्तमाम्बडि ऎण्ड्रबडि. सादुसनङ्गळ् - तर्कपरिश्रममिल्लाद परमास्तिकर्गळान भगवद्भक्तर्गळ्, अडङ्ग - कार्त्स्न्येन, नडुङ्ग - भयत्ताले कंपत्तैयडैयुम्बडि, तनित्तनिये आदियॆनावगै - वादियर् ऎन्बदै इङ्गे अन्वयिप्पदु. अदावदु ब्रह्मा परदेवतै जगत्कारणम्, रुद्रन् जगत्कारणम्, इन्द्रन् जगत्कारणम् ऎन्गिऱबडि वॆव्वेऱाग जगत्कारणत्तैच् चॊल्लादबडि, अदावदु दुर्वादिकळ् तन् तमक्कुत् तोत्तिनबडि वेऱे वेऱे जगत्कारणमॆण्ड्रु सॊल्लादबडि. इदनालिन्द परदेवतानिर्णयत्तिऱ्‌कु वेदभयनिवृत्तियुम् महान्गळुडैय कंपनिवृत्तियुम् प्रथमप्रयोजनमागक्काट्टप्पट्टदु. आरणदेसिगर् - वेदान्तोपदेष्टाक्कळान नम्माचार्यर्गळ्, नम् - परत्वेन सर्वशास्त्रप्रसिद्धनाय्, इङ्गु नम् शब्दम् प्रसिद्धपरम्. पोदु - पुष्पत्तिल्, अदावदु तामरसत्तिले, अमरुम् - नित्यवासम् पण्णुमवळान, तिरु –लक्ष्मियॆन्गिऱ, मादुडने - युवदियुडने, निण्ड्र - सर्वकालमुम् सर्वरुक्कुम् प्राप्यरुम् शरण्यरुमाय् निण्ड्र, पुराणनैये - ब्रह्मादिकळैप्पोले उत्पाद्यमण्ड्रिक्के ‘‘त्वमादिदेवः पुरुषः पुराणः’’ ऎन्गिऱबडि प्रसिद्धनान पुराणपुरुषनैये, साट्रिनर् - जगत्कारणमॆण्ड्रुम्, परदेवतैयॆण्ड्रुम् सात्तिनर्. अदावदु ‘‘सत्यं सत्यं पुनस्सत्यमुद्धृत्य भुजमुच्यते’’ ऎन्गिऱबडिये कैदूक्कि प्रतिज्ञै पण्णिनार्गळॆण्ड्रबडि. तनित् तनिये आदियॆनावगै नम्बुराणनैये साट्रिनरॆन्गिऱ समभिव्याहारत्ताले "आदि ऎण्ड्रु साट्रिनर्" ऎन्बदु स्वरससिद्धमिऱे. आदियानवनुक्कु परदेवतात्वम् सहजसिद्धमिऱे.  
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -7169,7 +7217,7 @@ thus causing dread to the Vedas[^es41] * and trepidation to all devotees.
 जगति गतिम् अ-विद्या-दन्तुरे जन्तुर् एकः ॥१७॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 जन-पद--भुवनादि-स्थान-जैत्रासन-स्थेष्व्  
 अनुगत-निज-वार्तं +++(यथा तथा)+++ नश्वरेष्व् ईश्वरेषु ।  
@@ -7198,6 +7246,13 @@ and who can realise that
 Nārāyaṇa with His consort Śrī is the only refuge,  
 when rulers sitting on victorious thrones as sovereigns of countries, of the whole world, and of Brahmanda itself  
 perish utterly along with the story of their lives.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप् परदेवतापारमार्थ्यनिश्चयम् कोडियिल् ऒरुवनुक्कावदु वरुमागैयाल् इन्द निष्कर्षम् सफलमॆण्ड्रु ऒरु श्लोकत्ताले निगमिक्किऱार् जनपदेत्यादिना । अविद्यादन्तुरे – अविद्यैयिनाले विषमितमान, कर्मत्ताले निम्नोन्नतमायिरुक्किऱ यॆण्ड्रबडि. जगति – इन्द लोकत्तिले, एकः – कोडियिलॊरुवनान, जन्तुः – पुण्यतममान जन्मत्तै युडैयवन्, परिचितनिगमान्तस्सन् – आचार्यानुग्रहलब्धवेदान्तङ्गळिल् बहुपरिश्रमङ्गळै युडैयवनाय्क्कॊण्डु, जनपदः – देशम्, भुवनं – लोकम्, आदिपदत्ताले अण्डादिकळुक्कु ग्रहणम्. तान्येव स्थानानि तेषु यानि जैत्रासनानि । अदावदु सिह्मासनङ्गळ्, तेषु तिष्ठन्तीति तत्स्थाः तेषु । ईश्वरेषु – देशाधिपलोकाधिपत्रैलोक्याधिपाण्डाधिपतिषु, अनुगतनिजवार्तं यथा तथा । अनुगता – तन्नै अनुमरणम् पण्णिन, निजवार्ता – स्वीयकथा यस्मिन्कर्मणि । तन्नुडैय कथैकळुम् तन्नै अनुमरणम् पण्णिप्पोम्बडि, नश्वरेषु सत्सु – नश्वरेषु ज्ञातेषु सत्स्वित्यर्थः, ‘‘येनाश्रुतं श्रुत’’ मित्यत्र श्रुतेन येनेतिवत् । श्रीसहायं – लक्ष्मीसहायनान नारायणनैये, गतिं – प्राप्यनागवुम् प्रापकनागवुम्, पश्यति – साक्षात्करोति, साक्षात्कारतुल्यमान नारायणविषयकप्राप्यत्वप्रापकत्वनिर्णयवानाग आगिऱानॆण्ड्रबडि.  
+  
+इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्धाभिषिक्तस्य निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक श्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ श्री सारबोधिन्याख्यायां व्याख्यायां परदेवतापारमार्थ्याधिकारः षष्ठः ॥
 </details>
 
 
