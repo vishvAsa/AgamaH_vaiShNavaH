@@ -728,11 +728,176 @@ and found relief."
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “तस्मिन् प्रसन्ने किम् इहास्त्य् अलभ्यं  
+> धर्मार्थ-कामैर् अलम् - अल्पकास् ते” (विष्णुपुराणम् 1-27-91.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “तस्मिन् प्रसन्ने किम् इहास्त्य् अलभ्यं  
+> धर्मार्थ-कामैर् अलम् - अल्पकास् ते” (विष्णुपुराणम् 1-27-91.)
+</details>
 
 
-> “When He is gracious, what is there difficult of attainment? I have had enough of dharma, artha and kama. They are petty." 
+<details><summary>English</summary>
 
-> "The fruits obtained by these weak-minded men are temporary and end after a short time.' "Having come into this world which is not eternal and is full of misery, seek me as your refuge." "Having heard of those who were mighty and valiant and of those who had immense treasures of wealth and who, after the lapse of some time, have left nothing behind them but tales of their lives, the wise man never considers as 'his', sons, wives, houses, land and the like, nor Wealth". "The world is all misery”. “Even in Svarga, since there is fear of a fall after the expiry of the ordained period, there is no happiness". "It is only fools who hanker after kingdoms, thinking that they are theirs. Men like me never long for them, because they are not intoxicated by the strong liquor of egotism the sense of 'I')." "From the mansion of Brahma downwards, O sage, these evils exist; therefore the wise never desire the attainment of Svarga." "Above the mansion of Brahma, there lies the supreme world of Viṣṇu, which is pure, eternal, full of supreme splendour and is called the Supreme Brahman. Fools, deluded by the pleasures of the senses and tormented by vanity, covetousness, arrogance, anger, perfidy and delusion never go to that world. Only good men without possessiveness and egotism, who remain indifferent to the pairs of opposites (like pleasure and pain, heat and cold and the like), who have full control over their senses, and who are devoted to Yogic meditation go there." "In that world are beautiful vimanas (airships) which can travel as they please, Assembly halls, gardens of varied kinds, O king, and, likewise lotus tanks, full of pellucid water.” “ Compared with that world of the Supreme Being, these lower worlds (of Brahma and Indra) are like hell." From these and other sayings, the Jīva   should realise the seven kinds of evil inherent in the enjoyment of non-sentient things, viz. their littleness, their instability, their origin in pain, their being mingled with pain, their resulting ultimately in pain, their origin being due to a perverse egotism and their being opposed to the bliss which is his nature. He should also realise such of these evils as are inherent in the enjoyment of one's self, ātmānubhava. He should then realise, with clear vision, the unique character of the enjoyment of the bliss of Bhagavān, which, in every one of these respects, is opposed to them. He would then attain the condition of "one who longs eagerly for the Supreme Being and who, consequently, is averse from things that are other than the Supreme Being. He would then abstain from activity whose characteristics Brahma is said to have described (as leading to fruits other than mokṣa ) and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
+> “When He is gracious, what is there difficult of attainment?  
+> I have had enough of dharma, artha and kama.  
+> They are petty." 
+</details>
+
+<details><summary>Español</summary>
+
+> “When He is gracious, what is there difficult of attainment?  
+> I have had enough of dharma, artha and kama.  
+> They are petty."
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि ऐन्द्रियिकसुखत्तिऱ्‌कुम्, आत्मानुभवरूपकैवल्यसुखत्तिऱ्‌कुम् अत्यल्पतै यैक्काट्टि ऐश्वर्यसुखत्तिल् अल्पतैयैक्काट्टुगिऱार् तस्मिन् प्रसन्न इत्यादिना । तस्मिन् – भगवति । प्रसन्ने सति, अलभ्यं किमिहास्ति – अडैयक्कूडाद पुरुषार्थमॊण्ड्रुण्डो? अपरिमितसुखमान मोक्षमुम् किडैक्कुमॆण्ड्रबडि. अतएव धर्मार्थकामैरलं – धर्मार्थकामङ् गळाले पोरुम्.  
+पर्याप्तमिति यावत् । यतस्ते अत्यल्पकाः – अत्यल्पङ्गळो? आगैयालवैगळ् वेण्डामॆण्ड्रबडि.  
+इव्वळवाल् ऐश्वर्यकैवल्याद्यनुभवङ्गळुक्कु परिमि-तत्वमुम् भगवदनुभवत्तिऱ्‌कु अपरिमितत्वमुम् सॊल्लप्पट्टदु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तस्मिन् प्रसन्ने किमिहास्त्यलभ्यं धर्मार्थकामैरलमल्पकास्ते” (विष्णुपुराणम् 1-27-91.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अन्तवत्तु फलं तेषां  
+> तद् भवत्य् अल्प-मेधसां” (गीता 7-23.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “अन्तवत्तु फलं तेषां  
+> तद् भवत्य् अल्प-मेधसां” (गीता 7-23.)
+
+</details>
+
+
+<details><summary>English</summary>
+
+> "The fruits obtained by these weak-minded men are temporary and end after a short time."
+</details>
+
+<details><summary>Español</summary>
+
+> "The fruits obtained by these weak-minded men are temporary and end after a short time."
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अन्तवदित्यादिना ममत्वं कुरुते नरः इत्यन्तेन कीऴ्च्चॊन्न अवैगळुक्कु अस्थिरत्वे प्रमाणङ्गाट्टप्पडुगिऱदु. अल्पमेधसां – अल्पबुद्धीनां, इन्द्रादिमात्रयाजिनां तत् – आराधनफलं अल्पमन्तवच्च भवति । इदु अल्पत्वत्तिऱ्‌कुम् अस्थिरत्वत्तिऱ्‌कुम् प्रमाणम्.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> “अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसां” (गीता 7-23.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “अनित्यम् असुखं लोकम्  
+> इमं प्राप्य भजस्व मां” (गीता 9-33)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “अनित्यम् असुखं लोकम्  
+> इमं प्राप्य भजस्व मां” (गीता 9-33)
+</details>
+
+<details><summary>English</summary>
+
+> "Having come into this world which is not eternal and is full of misery, 
+> seek me as your refuge." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Having come into this world which is not eternal and is full of misery, 
+> seek me as your refuge." 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अनित्यमसुखं लोकमित्यादि । इदिल् अनित्यमिति अस्थिरत्वमुम् असुखमिति दुःखमिश्रत्वमुम् सॊल्लप्पडुगिऱदु. इमं लोकं प्राप्य वर्तमानः मां भजस्वेत्यन्वयः । इङ्गु इन्द पादत्तै उदाहरित्तदु अनित्यत्वादिदोषानुसन्धानम् मोक्षोपायाधिकारसंपादकमॆण्ड्रु ज्ञापिक्कैक्काग. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> “अनित्यमसुखं लोकमिमं प्राप्य भजस्व मां” (गीता 9-33)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “महाबलान् महावीर्यान्  
+> अनन्त-धन-सञ्चयान् ।  
+> गतान् कालेन महता  
+> कथा-शेषान् नराधिपान् ॥  
+> श्रुत्वा न पुत्र-दारादौ  
+> गृह-क्षेत्रादिकेऽपि वा ।  
+> द्रव्यादौ वा कृत-प्रज्ञो  
+> ममत्वं कुरुते नरः”  
+> (विष्णुपुराणम् 4-24-142, 143)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “महाबलान् महावीर्यान्  
+> अनन्त-धन-सञ्चयान् ।  
+> गतान् कालेन महता  
+> कथा-शेषान् नराधिपान् ॥  
+> श्रुत्वा न पुत्र-दारादौ  
+> गृह-क्षेत्रादिकेऽपि वा ।  
+> द्रव्यादौ वा कृत-प्रज्ञो  
+> ममत्वं कुरुते नरः”  
+> (विष्णुपुराणम् 4-24-142, 143)  
+
+</details>
+
+<details><summary>English</summary>
+
+> "Having heard of those who were mighty and valiant  
+> and of those who had immense treasures of wealth  
+> and who, after the lapse of some time, have left nothing behind them but tales of their lives,  
+> the wise man never considers as 'his', sons, wives, houses, land and the like, nor Wealth". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Having heard of those who were mighty and valiant  
+> and of those who had immense treasures of wealth  
+> and who, after the lapse of some time, have left nothing behind them but tales of their lives,  
+> the wise man never considers as 'his', sons, wives, houses, land and the like, nor Wealth". 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+महाबलानित्यादि । ‘‘श्रुत्वा न पुत्रदारादौ’’ ऎन्गिऱ श्लोकत्तैयिङ्गु ऎडुत्तदु इन्द अनित्यत्वादिदोषानुसन्धानत्ताले वैराग्यमुण्डागुमॆन्बदु लोकानुभवसिद्धमॆण्ड्रु ज्ञापिक्कैक्काग. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> “महाबलान् महावीर्याननन्तधनसञ्चयान् । गतान् कालेन महता कथाशेषान्नराधिपान् ॥ श्रुत्वा न पुत्रदारादौ गृहक्षेत्रादिकेऽपि वा । द्रव्यादौ वा कृतप्रज्ञो ममत्वं कुरुते नरः” (विष्णुपुराणम् 4-24-142, 143)  
+</details>
+
+
+"The world is all misery”.  
+“Even in Svarga, since there is fear of a fall after the expiry of the ordained period, there is no happiness". "It is only fools who hanker after kingdoms, thinking that they are theirs. Men like me never long for them, because they are not intoxicated by the strong liquor of egotism the sense of 'I')." "From the mansion of Brahma downwards, O sage, these evils exist; therefore the wise never desire the attainment of Svarga." "Above the mansion of Brahma, there lies the supreme world of Viṣṇu, which is pure, eternal, full of supreme splendour and is called the Supreme Brahman. Fools, deluded by the pleasures of the senses and tormented by vanity, covetousness, arrogance, anger, perfidy and delusion never go to that world. Only good men without possessiveness and egotism, who remain indifferent to the pairs of opposites (like pleasure and pain, heat and cold and the like), who have full control over their senses, and who are devoted to Yogic meditation go there." "In that world are beautiful vimanas (airships) which can travel as they please, Assembly halls, gardens of varied kinds, O king, and, likewise lotus tanks, full of pellucid water.” “ Compared with that world of the Supreme Being, these lower worlds (of Brahma and Indra) are like hell." From these and other sayings, the Jīva   should realise the seven kinds of evil inherent in the enjoyment of non-sentient things, viz. their littleness, their instability, their origin in pain, their being mingled with pain, their resulting ultimately in pain, their origin being due to a perverse egotism and their being opposed to the bliss which is his nature. He should also realise such of these evils as are inherent in the enjoyment of one's self, ātmānubhava. He should then realise, with clear vision, the unique character of the enjoyment of the bliss of Bhagavān, which, in every one of these respects, is opposed to them. He would then attain the condition of "one who longs eagerly for the Supreme Being and who, consequently, is averse from things that are other than the Supreme Being. He would then abstain from activity whose characteristics Brahma is said to have described (as leading to fruits other than mokṣa ) and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
