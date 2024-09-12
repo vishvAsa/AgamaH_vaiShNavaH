@@ -7106,11 +7106,51 @@ and refer the reader to the same.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-वादियर्मन्नुन् दरुक्कच्चॆरुक्किन् मऱैगुलैयच्  
-चादुसनङ्गळडङ्ग नडुङ्गत् तनित्तनिये  
-आदियॆनावगै यारणदेसिगर् साट्रिनर् नम्  
-पोदमरुन् दिरुमादुडनिण्ड्र पुराणनैये. // 13 //
+वादियर् मन्नुन्+++(=स्थिर)+++-तरुक्कच्+++(=तर्क)+++ चॆरुक्किन्+++(=गर्वेण)+++ मऱै+++(=वेदा)+++-कुलैयच्,  
+साधु-जनङ्गळ् अडङ्ग+++(=कार्त्स्न्येन)+++ नडुङ्गत्+++(=कम्पनम् प्रति)+++ तनित् तनिय् ए  
+आदिय् ऎना+++(=अवचन)+++-वगैय्, आरण+++(ण्यक)+++-देशिकर् साट्रिनर्+++(=प्राकाशयन्)+++ - नम्  
+पोदमरुन् तिरु-माद्-उड-निण्ड्र पुराणनैय् ए. // 13 //
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+( अधिकारार्थसंग्राहिका गाथा)  
+वेदा यथा व्याकुला भवेयुः,  
+साधुजनाः कार्त्स्न्येन यथा कम्पेरन्,  
+तथा वादिनः स्थिर-तर्क-गर्वेण - पृथक् पृथक् ( स स देवः) आदिर्  
+इति यथा न वदेयुः,  
+तथा आरण्यक-देशिकाः  
+पुष्पे-स्थितया श्रीदेव्या सह स्थितं  
+पुराण-[पुरुष]म् एव साधयाम् आसुः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Our ācārya s have proclaimed, in no uncertain terms,  
+that our eternal Lord with His Consort seated on the lotus is the Supreme Deity,  
+so that disputants, proud of their knowledge of reasoning and argumentation,  
+may not, each according to his own will,  
+declare that the ultimate cause is this or that (Brahma, Rudra or Indra)  
+thus causing dread to the Vedas[^41] * and trepidation to all devotees.
+
+[^41]: The Veda is afraid of the man who has only a little knowledge of it. (Bibheti alpa śruteh vedaḥ)
+
+</details>
+
+<details><summary>Español</summary>
+
+Our ācārya s have proclaimed, in no uncertain terms,  
+that our eternal Lord with His Consort seated on the lotus is the Supreme Deity,  
+so that disputants, proud of their knowledge of reasoning and argumentation,  
+may not, each according to his own will,  
+declare that the ultimate cause is this or that (Brahma, Rudra or Indra)  
+thus causing dread to the Vedas[^es41] * and trepidation to all devotees.
+
+[^es41]: The Veda is afraid of the man who has only a little knowledge of it. (Bibheti alpa śruteh vedaḥ)
+
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -7120,23 +7160,54 @@ and refer the reader to the same.
 पोदमरुन् दिरुमादुडनिण्ड्र पुराणनैये. // 13 //
 </details>
 
-Our ācārya s have proclaimed, in so uncertain terms, that our eternal Lord with His Consort seated on the lotus is the Supreme Deity, so that disputants, proud of their knowledge of reasoning and argumentation, may not, each according to his own will, declare that the ultimate cause is this or that (Brahma, Rudra or Indra) thus causing dread to the Vedas[^41] * and trepidation to all devotees.
-
-[^41]: The Veda is afraid of the man who has only a little knowledge of it. (Bibheti alpa śruteh vedah)
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-जनपदभुवनादिस्थानजैत्रासनस्थेषु अनुगतनिजवार्तं नश्वरेष्वीश्वरेषु ।  
-परिचितनिगमान्तः पश्यति श्रीसहायं जगति गतिमविद्यादन्तुरे जन्तुरेकः ॥१७॥
+जन-पद--भुवनादि-स्थान-जैत्रासन-स्थेष्व्  
+अनुगत-निज-वार्तं +++(यथा तथा)+++ नश्वरेष्व् ईश्वरेषु ।  
+परिचित-निगमान्तः **पश्यति** श्री-सहायं  
+जगति गतिम् अ-विद्या-दन्तुरे जन्तुर् एकः ॥१७॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+जन-पद--भुवनादि-स्थान-जैत्रासन-स्थेष्व्  
+अनुगत-निज-वार्तं +++(यथा तथा)+++ नश्वरेष्व् ईश्वरेषु ।  
+परिचित-निगमान्तः **पश्यति** श्री-सहायं  
+जगति गतिम् अ-विद्या-दन्तुरे जन्तुर् एकः ॥१७॥
+</details>
+
+
+<details><summary>English</summary>
+
+In this world which is enveloped in avidyā or karma,  
+there may be found, here and there,  
+a single individual who has closely studied Vedānta  
+and who can realise that  
+Nārāyaṇa with His consort Śrī is the only refuge,  
+when rulers sitting on victorious thrones as sovereigns of countries, of the whole world, and of Brahmanda itself  
+perish utterly along with the story of their lives.
+</details>
+
+<details><summary>Español</summary>
+
+In this world which is enveloped in avidyā or karma,  
+there may be found, here and there,  
+a single individual who has closely studied Vedānta  
+and who can realise that  
+Nārāyaṇa with His consort Śrī is the only refuge,  
+when rulers sitting on victorious thrones as sovereigns of countries, of the whole world, and of Brahmanda itself  
+perish utterly along with the story of their lives.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-जनपदभुवनादिस्थानजैत्रासनस्थेषु अनुगतनिजवार्तं नश्वरेष्वीश्वरेषु ।  
+जनपदभुवनादिस्थानजैत्रासनस्थेष्वनुगतनिजवार्तं नश्वरेष्वीश्वरेषु ।  
 परिचितनिगमान्तः पश्यति श्रीसहायं जगति गतिमविद्यादन्तुरे जन्तुरेकः ॥१७॥
 </details>
 
-In this world which is enveloped in avidyā or karma, there may be found, here and there, a single individual who has closely studied Vedānta  and who can realise that Nārāyaṇa with His consort Śrī is the only refuge, when rulers sitting on victorious thrones as sovereigns of countries, of the whole world, and of Brahmanda itself perish utterly along with the story of their lives.
+
 
 इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे परदेवतापारमार्थ्याधिकारः षष्ठः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥
