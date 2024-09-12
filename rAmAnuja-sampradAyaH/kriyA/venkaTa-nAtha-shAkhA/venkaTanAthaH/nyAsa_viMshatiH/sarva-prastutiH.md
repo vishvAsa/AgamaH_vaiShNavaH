@@ -1,10 +1,12 @@
 +++
-title = "न्यासविंशतिः"
+title = "सर्व-प्रस्तुतिः"
 +++
 
 Source: [TW](https://archive.org/details/in.ernet.dli.2015.487401/page/201/mode/1up)
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+Source: [TA](https://archive.org/details/in.ernet.dli.2015.495546)
+
+<details><summary>प्रदीपः (द्रष्टुं नोद्यम्)</summary>
 
 This stotra of 22 shlokas all in sragdharA metre, stresses several aspects of nyAsa or prapatti not covered by zaraNAgati dIpikA and nyAsa tilaka. To start with, the qualifications an AchArya should possess are set out in 896, such a one should be worshipped as if he were God Himself; [897] then the traits the shiShya must possess are mentioned in 898. The unflinching and unshakable faith in the efficacy of prapatti which is a vital part in the pursuit of that path is stressed in 902. shlokas 910 and 911 refute some wrong meanings attributed to certain words in the charama-shloka. siddhopAya and sAdhyopAya are clearly defined in 912. The stotra concludes with expressing a feeling of a sense of security and fearlessness after a proper performance of Prapatti.
 
@@ -13,6 +15,69 @@ Lord varadarAja of kA~nchIpuram is the Deity to whom this Stotra and the next ar
 nyAsa viMshati -- vyAkhyA.
 
 “At the desire of good and godly men” svAmI deshika has himself written a commentary on nyAsa viMshati by way of “di~NmAtra᳚, indicating the way or method. That commentary which is in Sanskrit Prose is given separately at pages 201 to 208. tattva-muktAkalApa is the only other work of deshika in Sanskrit for which he himself has furnished a commentary. That is for tattva, this is for upAya.
+</details>
+
+<details><summary>shaThakopa - Intro</summary>
+
+OVERVIEW OF NYASA VIMSATI 
+
+Among the three Sri Sookthis known as nyAsa thrayee, Sri nyAsa vimSati has the distinction of being blessed with Swamy Desikan’s own commentary. KumAra VaradAcchAr, the precocious son of Swamy Desikan wrote a commentary for SrI nyAsa tilakam. Sri Saila TatAchAr has given us a detailed commentary on nyAsa Dasakam. 
+
+**Different commentators of nyAsa vimSati** Sri nyAsa vimSati has Swamy Desikan’s succinct commentary. Oppiliappan Koil Srirama DesikAcchAr Swamy has elaborated on Swamy Desikan’s commentary. 
+
+adiyEn will follow latter mostly. Then, there are two more commentaries by: 
+
+1. Sakala Veda VedAntha darSee Sri SrinivAsAcchAr Swamy in Sanskrit and   
+2. Sri VenkatarAmAcchAr Swamy. 
+
+Dr. V.N. VedAntha Desikan Swamy has edited all these commentaries and has given us a beautiful summary for each of these slOkams. adiyEn will attempt to include the highlights from all these commentaries.
+</details>
+
+
+<details><summary>shaThakopa - meters</summary>
+
+**The different meters used by Swamy Desikan in Sri nyAsa trayee**  
+The ten slOkams of nyAsa Dasakam are in the short anushtub meter. The twenty two slOkams of nyAsa vimSati are in majestic Sragdhara meter and the 32 slOkams of SrI nyAsa tilakam are in seven different meters. 
+
+1. anushtub 
+2. NathkuDakam, 
+3. MandaakrAnthaa 
+4. Maalini 
+5. Vasantha tilakam 
+6. Sragdharaa and 
+7. SaardhUla Vikreetitham 
+
+
+
+One is inclined to think that Swami Desikan chose seven meters to perform his SaraNaagathy to the Saptha PrAkAra Madhyan, Sri RanganAthan. 
+
+</details>
+
+
+<details><summary>shaThakopa - topics, org</summary>
+
+**The topics covered in Sri nyAsa vimSati**  SrI nyAsa VimSati is a Sri Sookthi of Swamy Desikan consisting of twenty slOkams about Prapatthi or nyAsam. VimSati means twenty; in actuality, nyAsa VimSati has 22 slOkams. The legend has it that Swamy Desikan acceded to the request of either PiLLai LokAcchAr or PeriyavAcchAn PiLLai to compose a grantham on the subject of nyAsam and created this Sri Sookthi dealing with: 
+
+1 AcArya lakshaNam 
+
+2 Sishya LakshaNam 
+
+3 AcAryan’s MahOpakAram 
+
+4 Instructions of AcAryan to the Sishyan about the daily observances 5 Fitness for Bhakthi and Prapatthi 
+
+6 The Vaibhavam of Prapatthi 
+
+7 The samAdhAnam about the objections raised by the different angams of Prapatthi and 
+
+8 The kinds of upAyams for Moksha phalan. 
+
+**The Organization of SrI nyAsa vimSati** 
+
+The first two of the twenty two slOkams focus on AcArya lakshaNam, while the third slOkam deals with Sishya lakshaNam. 
+
+The next 17 slOkams cover the svaroopam of Prapatthi, its five angams, doubts about these angams and samAdhAnam for those doubts. It has been suggested that the magnum opus of Swamy Desikan, Srimad Rahasya thraya Saaram is an elaboration of these seventeen slOkams. 
+
 </details>
 
 
@@ -36,6 +101,58 @@ nyAsa viMshati -- vyAkhyA.
 एतेषामाचायगुणानां प्रमाणानि "तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत्  समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठं" इत्यादीनि (/ इत्यादीनि द्रष्टव्यानि ।) । **श्रोत्रियं** - श्रुतवेदान्तम् । **समयानियतया** - यथाकालं प्रवृत्तया; यद्वा धर्मज्ञसमय-व्यवस्थितया । **जितविषयगणं** - स्ववशेन्द्रियवर्गम् । सम्यक् ज्ञानार्थतया गुर्वभिगमनेऽपि स्वेच्छया प्रवर्तमनस्य (/ प्रवृत्तस्य) नियमांशमात्रे विधिरिति ज्ञापनार्थम् (/ विधिज्ञापनार्थं) ईप्सेत् इति  "सन् प्रयोगः" ॥ १॥
 </details>
 
+<details><summary>English</summary>
+
+**Introductory remarks: **
+
+This slOkam is about the fourteen guNams that an ideal AcAryan must have to help the sishyAs interested to learn about Prapatthi vidyA and to observe it. 
+
+These guNams are essential for a SadAcAryan and are stressed by Vedam, VedAntham and Smruthi as necessities for a SadAcAryan to possess. The sishyAs eager for a clear comprehension of the aspects of Prapatthi vidhyA and its anushtAnam should seek such a qualified AcAryan for success in their efforts. 
+
+**Meaning: **
+
+The sishyan desirous of gaining superior knowledge \(Jn~Anam\) about Prapatthi vidyA should seek the sacred feet of a SadAcAryan. He will be the right upadEshtA for nyAsa vidyA and can instruct the sishyan on nyAsa vidyA’s 7 
+
+
+
+
+
+angams, angi and phalan clearly. AcArya Jn~Ana roopa MangaLam is sung here. 
+
+Such a srEshtAcAryan would have the following fourteen auspicious attributes \(guNams\): 
+
+1. **sat-sampradAyE siddham -** He must be firmly established in the lofty Sath sampradhAyam that descended hierarchically from Swamy NammAzhwAr-Swamy Naatha Muni- Swamy AlavanthAr-Periya Nambi-Acarya RaamAnujaa- MadaipaLLi AacchAn. 
+
+2. **sthira dhiyam - **He should be of firm mind even when Kudhrushtis and Kumathis try to agitate him with their kuyukthi Vaadhams \(debates based on deceitful reasoning\). 
+
+3. **anagam **- The AcAryan should be free from any kind of blemishes/sins; He should never swerve away from Bhagavath SaasthrAs \(“akruthyA karaNaadhi roopa paapa rahithan”\). He should thus be free of sins \(aga rahithan = anagan\). 
+
+4. **SrOtriyam **- He should be fully conversant with VedAs and VedAnthAs through knowledge of SrI BhAshyam. Swamy Desikan describes such an AcAryan as “Srutha VedAntham”. 
+
+5. **brahma nishTham -** It is not enough to be knowledgeable about the VedAs and the VedAnthAs; a SadAcAryan should have in addition asanchala Bhagavath bhakthi. He should have firm, blemishless bhakthi for SrinivAsa roopa Brahman saluted by Bhagavad RaamAnujA in his MangaLa slOkam of Sri BhAshyam \(brahmaNi SrInivAsE\). 
+
+6. **sattvastham -** This AcAryan should have the dominance of Satthva guNam among his aathma guNams. He must be sathva guNa nishtar. 
+
+7. **satya vaacam -** He should be truthful always and stay away from deceitful speech. He should be a master at Sathya Vaak, which is  comforting to the jeevans \(bhUtha hitham\). 
+
+8. **samaya niyatayA sAdu vruttyA samEtam **- He should be adept at anushtAnams defined by pious ones that are appropriate for the different occasions. For instance, the SadAcAryan should perform the anushtAnams prescribed by Pancha Kaala PrakriyA vidhAnam \(abhigamanam, upAdhAnam, ijyai, SvAdhyAyam and yOgam\) prescribed for the five different times of the day such as early morning, forenoon, noon, afternoon and late evening\). 
+
+9. **Dambha asooyAdhi muktam -** He should not have egotism, jealousy and other inauspicious guNams. The fifth chapter of Sankalpa SooryOdhayam elaborates on this subject. 
+
+10. **jita vishayi gaNam -** He will not have pravrutthi in Saashtra-nishiddha vishayams \(entry into observances prohibited by Bhagavath Saasthrams\). He will have full control over His indhriyams \(Karma and Jn~AnEndhriyams\). In other words, he will have indhriya nigraham. 
+
+11. **deerga bandhum -** He should be an all weather friend and guide for those who seek His rakshaNam; He should seek the welfare of those who have sought his refuge both here and the hereafter 9 \(avichAlyAnugraha yukthar\). He should be both a Maarga Bhandhu in this world and a dheerga Bhandhu for lifting his sishyAs up to sathgathy. 
+
+12. **dayaaLum -** He should be most compassionate \(Dayaa Moorthy\). His kindness for his sishyAs is spontaneous \(nirhEthukam\). He will be an avyAja karuNA moorthy for his sishyan. 
+
+13. **skhAlityE SaasitAram -** Whenever his sishyans commit trespasses against Bhagavath Saasthrams, the SadAcAryan corrects his sishyan from those harmful ways and recommends appropriate PrAyaschitthams to eliminate those sins. 
+
+14. **Sva para hita param -** He will determine what is mutually good for him and his sishyan and act accordingly. 
+
+Swamy Desikan instructs that one who seeks sathgathi \(bhUshNu:\) should seek a SadAcAryan having these fourteen auspicious guNams. 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -50,6 +167,7 @@ nyAsa viMshati -- vyAkhyA.
 </details>
 
 
+### उपास्यता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -85,6 +203,59 @@ nyAsa viMshati -- vyAkhyA.
 </details>
 
 
+<details><summary>English</summary>
+
+REASONS FOR WORSHIPPING ACAARYAN LIKE BHAGAVAN
+
+**Meaning: **
+
+An AcAryan, who blesses a sishyan with Brahma VidhyA pradhAnam should be worshipped in a manner equivalent to worshipping BhagavAn Himself. “AcAryam dEvamiva upaaseetha” is the instruction of the VedAs \(AcArya dEvO bhava\) 
+
+“MantranAtham gurum mantram samathvEna abhiveekshayEth” \(One should revere the AcAryan, who instructs one on the rahasya mantrams and the Lord associated with the mantrams with the same reverence\). The eight reasons for worshipping AcAryan in this manner equivalent to the Lord are: 
+
+1. **ajn~Ana dhvAnta rOdhAt **- Both banish the nescience of ajn~Anam. 
+
+AcAryan chases away the incorrect knowledge through sadhupadEsams. ajn~Anam is the enveloping darkness \(andhakAram\). BhagavAn banishes 11 this darkness as “ajn~Ana dhvAnta nirOdhanan”. The Guru \(AcAryan\) performs a similar function as is to be inferred from the combination of the two letters, “gu” and “ru”. “gu” sabdham stands for andhakAram and “ru” sabdham refers to its removal \(nirOdhanam\). “andhakAra nirOdhanaath guru iti abhidheeyathE” is the definition of sakala vEda vEdAntha darsee Swamy. 
+
+2. **agha pariharaNAt** **-** Both destroy our sins arising from that ajn~Anam and Vipareetha Jn~Anam. AcAryan destroys the sins even the most undeserving sishyans by correcting them from their harmful ways and chases away their sins through recommending proper parihArams. 
+
+3. **Aatma sAmya AavahatvAt** **-** Through initiation into upAya anushtAnam, AcAryan like the Lord helps the sishyan secure Moksha Sukham. 
+
+Upanishads say: “niranjana: paramam sAmyam upaithi”. The SadAcAryan makes it possible for the Sishyan to gain a level of knowledge similar to him through significant effort to realize spiritual perfection of Jn~Anam, GuNam and anushtAnam. Bhagavaan helps the ChEtanan in a similar way to reach a level of enjoyment equal to him at Srivaikuntam 
+
+for the Muktha Jeevans \(**“**mama Saadharmyam AagathA**:” **is the Lord’s statement\). 
+
+4. **janma pradvamsi janma prada garimatayA -** Both of them help us to gain release from the cycles of births and deaths. AcAryan helps to end birth in this samsAric world and makes their sishyan enjoy MokshAnandham through a new birth to serve the Lord in Sri Vaikuntam. Like Bhagavaan, who grants MokshAnandham, the AcAryan blesses the sishyan with tatthva Jn~Anam and makes it possible to have a new birth \(Jn~Ana piRavi\). “SadAcAryENa sandhrushtA: prApnuvanthy parAm gathim” \(Those who have been benficiaries of the auspicious glances of a SadAcAryan attain Sathgathi. 
+
+5. **dhivya dhrushTi prabhAvAt** **-** Both cast their merciful glances \(KaruNA KaTAksham\) on the chetanan and through the power of that dhivya dhrushti raise the growth of satthva guNam in the sishyan. The 12 
+
+
+
+
+
+dhivya kaTAksham of BhagavAn creates an yearning in the chEtanan to seek a SadAcAryan for Sathgathy. The AcAryan labors to qualify that chEtanan to be prepared to receive and enjoy that MokshAnandham. 
+
+6. **nishprathyooha AanruSamsyAt -** The SadAcAryan like BhagavAn overlook the Jaathi, Kulam of the sishyan who seeks sathgathy and showers his uninterrupted dayaa on him. The AcAryan does not pay attention to that sishyan’s low birth or the level of preparation to receive such a lofty blessing. The dayaa pravAham of the Lord and the AcAryan flow without any let towards the sishyan. 
+
+7. **niyata rasatayA** - Both the AcAryan and BhagavAn are delectable to enjoy as insatiable nectar and are a delight to be with. In this as well  as in the other world, both the AcAryan and the Lord are experienced as “Aaraa amudham / aparyApthAmrutham”. 
+
+8. **nitya SEshitva yOgAt** - The relationship of the AcAryan and Bhagavaan is indispensable and can never be severed. That relationship with them does not undergo any changes. Our Lord \(Sarva SEshi\) is the nitya SEshi. The bonds with Him for us \(as SEsha bhUtharkaL\) are indissoluble. Similarly the AcArya sambhandham cannot be broken forever. The relationship of AcAryan to the Lord is very clearly articulated in the slOkams below:
+
+saakshnnArAyaNO dEva: krutA martyamayeem tanum |  
+magnAn uddharatE lOkAn kaaruNyAcchAstrapANinA ||
+
+**GururEva Param brahma GururEva Param dhanam **\(Guru is the Para Brahman and He is the supreme wealth\)
+
+**GururEva Param SrEyO GururEva ParAyanam **\(Guru is the supreme wealth and He is the one to be reflected upon\)
+
+**GururEva Paraa Vidhyaa GururEva Paraa gathi**: \(Guru is the supreme knowledge and He is the supreme path\)
+
+**archaneeyasya vandhyasccha pujaneeyasccha sarvadhA** \(He \(Guru\) should always be saluted, meditated upon and worshipped\). ** **
+
+It is therefore impossible for us to discharge our debt of gratitude \(indebtedness\) to both the AcAryan and Bhagavaan, who need to be worshipped at the same level. AcAryan is our “nadamAdum dhaivam”.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अज्ञानध्वान्तरोधादघपरिहरणादात्मसाम्यावहत्वात्  
@@ -111,6 +282,53 @@ nyAsa viMshati -- vyAkhyA.
 **अभिमतं**  -  मोक्षोपयुक्तमर्थजातम्   (/ इदं न दृश्यते) ॥ ३॥
 </details>
 
+<details><summary>English</summary>
+
+**Meaning: **
+
+
+In this slOkam, the marks \(lakshaNams\) of an ideal sishyan are described; approach of such an ideal sishyan beseeching the AcAryan and the duties of an AcAryan according to the Saasthrams are covered in this and the next slOkam. 
+
+Sacchishya lakshaNams and AcArya Kruthyam for preparing that Sishyan for sathgathy \(Brahma Vidhyaa upadEsam\) are described here. This slOkam and the next one are succinct summaries of the two chapters \(30 and 31\) of Srimath Rahasya thraya Saaram \(Sishya Kruthyam and AcArya Kruthyam\). 
+
+**The criteria that a sishyan should possess to approach a** **SadAcAryan are: **
+
+1. **sadh buddhi: -** “**samyak Jn~AvAn**”. He has good Jn~Anam and is a good buddhisAlee. 
+
+2. **sAdhu sEvee **- He has the good disposition to mingle with BhAgavathAs. 
+
+He is a BhAgavatha sEvAparan. BhAgavatha Kaimkaryam comes natural to him. 
+
+3. **samucita carita: -** He is marked for his righteous conduct and strict adherence to VarNAsrama dharmam \(sva-varNAsrama niyatha AachAra paran\). 
+
+4. **tattva bOdha abhilAshee** - He has the eagerness to learn about the true meanings of tatthva-Hitha-PurushArthams. 
+
+5. **SuSrUshu:** - He excels in AcArya Kaimkaryam and pleases his AcAryan through SuSrUshais such as collecting flowers and saamagriyAs for AcAryan’s AarAdhanam. 
+
+6. **tyakta mAna: **- He has gotten rid of his ahankAra-mamakArams, while 16 serving his AcAryan during his daily routines. 
+
+7. **praNipatana para:** - Disposition to display his total, implicit obedience to his AcAryan on every available occasion to prostrate before his AcAryan. 
+
+8. **praSna kAla prateeksha:** - He would be awaiting the right time to clear his doubts about what he has learnt from his AcAryan. 
+
+9. **Saanta: -** He would have full control over his external indhriyams \(five senses\). 
+
+10. **dAnta: - **He would have total control over his mind. 
+
+11. **anasooyu: -** He would be free of jealousy. 
+
+12. **SaraNam upagata: -** He would be at the AcArya’s front door with prayer for VidhyA dhanam and the anugraham of upadEsam for sathgathy. 
+
+13. **saastra viSvAsa Saalee** - He would have total faith in Bhagavath Saasthrams interpreted by his AcAryan. 
+
+14. **pareekshAm prApta: -** He will be ready to undergo any tests \(Pasreekshai\) by the chosen AcAryan for assessing his state of preparedness to be accepted as a deserving sishyan. 
+
+15. **kruta-vid Sishya: -** He will be a grateful sishyan for the MahOpakAram to be received from the SadAcAryan. He will have kruthajn~athai. 
+
+**tattvata: abhimatam SikshaNeeya: -** Truly, a sishyan with above fifteen guNams \(attributes/Sishya lakshaNams\) becomes fit for instruction by the SadAcAryan on Brahma vidyA. 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -121,7 +339,7 @@ nyAsa viMshati -- vyAkhyA.
 </details>
 
 
-## प्राप्यः
+## मुख्योपदेशाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वाधीनाशेष-सत्ता-स्थिति-यतन-फलं **विद्धि** लक्ष्मीशम् एकं  
@@ -134,6 +352,60 @@ nyAsa viMshati -- vyAkhyA.
 
 मुक्तिकामस्य  मूलमन्त्राद्यभिभिधेयतया शिक्षणीये  
 अथ प्रधानांशं, तस्य च नित्यानुसन्धेयत्वमाह  (/ मूलमन्त्राद्यभिप्रेततया शिक्षणीये प्रधान्ंशं तस्य नित्यत्वं चाह ) - **स्वाधीन**  इति ॥ ४॥
+</details>
+
+<details><summary>English</summary>
+
+**Meaning: **
+
+This slOkam points out that the SadAcAryan should impart first the knowledge \(inner meanings\) about the three rahasyams \(Moola Mantram, dvayam and Carama slOkam\) in privacy to the sishyan desiring mOksham. The slOkam also reminds the sishyan that he should reflect on the essential meanings of the three rahasyams single mindedly and conduct his life accordingly. The correct understanding of the meanings of the three rahasyams, etching those meanings in one’s mind and shaping one’s life according to the purport of the three rahasyams will help the mumukshu \(one desirous of Moksham\) to gain a clear comprehension of his svaroopam, his duties during the post-Prapatthi period. The conductance of one’s life here with strict adherence to AcArya upadEsam would release him from all sins and permit him to live in a state free from fear about anything. 
+
+18 
+
+
+
+
+
+
+
+****
+
+**yEkAntha upadESam **
+
+**The FOUR key private upadEsams of the AcAryan to a qualified** **Sishyan are: **
+
+1. The creation, sustenance and dissolution of all chEtanams and achEtanams are under the total control of the Lord and His divine consort . We have to comprehend the Lord as: 
+
+♦ Jagath KaaraNan - Creator of all. 
+
+♦ Jagath Rakshakan - Protector of all 
+
+♦ sarva samhArakan - Destroyer of all creations 
+
+♦ karma pravrutthi niyAmakan - Commander of acts initiated by the chEtanan as Indweller 
+
+♦ sarva karma phala dhAyakan - grantor of fruits for all karmas \(lakshmeeSam yEkam sva-adheena aSEsha sattA sthiti yatana phalam viddhi\). 
+
+2. Understanding this unique role of Sriman nArAyaNan, please do not consider anyone else as your goal \(prApyam, upEyam\): anyam prApyam na 19 
+
+
+
+
+
+prateeyaa. 
+
+3. Do not seek anyone other than Sriman nArAyaNan as upAyam: anyam kancid SaraNatayA na ca vruNeeyA: 
+
+4. Knowing that the fear and the fearlessness about samsAram arises from Him, please do not trespass His commands enshrined in His sAsthraas: pumsAm bhayam itarat api yEtasmAt yEva prEkshya tat Ajn~Am maa ujjee: 
+
+**Swamy Desikan’s succinct introduction to this slOkam is:** mui´kamSy 
+
+mUlmNÇa\*iÉàettya iz\]\[Iye 
+
+àxana<z< , tSy c inTyanusNxeyTvmah mukti-kaamasya moola mantraAdi abhiprEtatayaa SikshaNeeyE 
+
+pradhAna amsam, tasya ca nityAnusandhEyatvam Aaha \(For the one, who desires Moksham, the yOjanais relating to the padhams of Moola mantram and the other two rahasyams should be taught before upAya anushtAnam by the AcAryan and he should stress the need for reflection  every day on these upadEsams\). 
+
 </details>
 
 
@@ -158,6 +430,56 @@ nyAsa viMshati -- vyAkhyA.
 <details><summary>स्व-टीका</summary>
 
 ईदृशोपदेशलब्धसम्यग्ज्ञानस्य पुरुषस्य "अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्", " मामेकं शरणं व्रज" इत्यादिभिरपवर्गोपायतया विहितयोः भक्तिप्रपत्त्योः अधिकारिव्यवस्थामाह    (/ अधिकारव्यवस्था) - **मोक्षोपय** इति ॥ ५॥
+</details>
+
+
+<details><summary>English</summary>
+
+QUALIFICATIONS FOR BHAKTHI AND PRAPATTI YOGAM
+
+**Meaning: **
+
+Bhakthi-Prapatthi yOga adhikAri vyavasthai \(fitness to follow either Bhakthi or Prapatthi yOgam\) is the subject matter of this slOkam. Both Bhakthi yOgam and Prapatthi yOgam yield the same phalan, Moksham. The routes adopted by a sishyan after being blessed with the Rahasya thraya mantra upadEsam from a SadAcAryan is however different for the two yOgams pursued for Moksha; the chEtana adhikAri \(the seeking sentient being\) would have some confusions about which yOgam is appropriate for him. Only one route would be appropriate for the chEtanan based on his intrinsic Jn~Anam, sakthi, kulam and sense of urgency to gain moksham. The upAyam of Bhakthi is the best for the one born in a high kulam, Jaathi \(birth in one of the three varNams\) and equipped with superior Jn~Anam as well as sakthi; such a person is qualified to pursue bhakthi yOgam; he must be prepared however to wait for 21 
+
+
+
+
+
+the fruit of Moksham. For them, the fruit of Moksham may not be realized in one life time. Such a person would be prepared to wait for the perfection of Bhakthi yOgam during successive births. 
+
+
+Those who cannot wait for Moksham beyond their current life span will choose Prapatthi path. They can belong to any one of the four varNams. The strict \(severe\) discipline of Bhakthi does not fit this saadhakA. He will not have the sakthi and Jn~Anam needed to pursue Bhakthi yOgam with its “constant meditation, performance of rituals, yOga, dhyAna and other aspects of ashtAnga yOgam“. An indigent, untutored adhikAri who is incapable of practicing Bhakthi yOgam and eager to gain Moksham at the end of the current life will choose Prapatthi as the upAyam that is tailor made for him. 
+
+Although the end result from the practice of bakthi or Prapatthi yOgam are the same \(mOksham\), one can not choose the upAyam for gaining the phalan indiscriminately. The two routes are not interchangeable and one has to choose either Bhakthi or Prapatthi yOgam based on one’s sum total of intrinsic capabilities \(sakthi, Jn~Anam, durability and patience to wait for the end result\). It is not correct to say that both the Moksha upAyams are the same. 
+
+22 
+
+
+
+
+
+Only the end result is the same but to get there, the paths are quite different in hardships. Prapatthi is easier to perform by chEtanans, who are not blessed with superior Jn~Anam, sakthi, perseverance and patience to wait for the phalan of Moksham. 
+
+**Elaboration on the individual slOkam passages:** 
+
+1. **yEvam bhava bhrutAm kasyacit kvApi kAlE mOkshOpAya arhatA** **bhavati **-For those fortunate samsAris, who have received rahasya mantrOpadEsam from a SadAcAryan and perfected it \(that Jn~Anam\) through kaalakshEpam and reflection, there comes a time when they become fit to pursue the upAyam for mOksham \(upAya anushtAnam\). 
+
+The saadhakAs’ satthva guNam grows. 
+
+2. **tadvat tAdrusA niyatyA bhakti-prapattyO: adhikruti niyama: syAt **- 
+
+
+
+similar to arriving at the stage to practice the upAyam for mOksham \(tadvat\) through the anugraham of the Lord, one is blessed by the same Lord to benefit from either bhakthi yOgam or Prapatthi yOgam as the means \(upAyam\) for Moksham. The boundaries for practicing one or the other are sharply drawn so that the aspiring saadhakan does not choose an upAyam that is unfit for him. This boundary is bound to be because of the differences in the qualifications of the two kinds of adhikAris. 
+
+This is what Swamy Desikan refers to in his commentary as “bhakti-prapattyO: adhikAri vyavasthaa” \(adhikruti niyamam\)”. 
+
+3. **tad-vyavasthA Sakta-aSaktAdi tattat purusha vishayata:** **sthApyatE** - These two determinations \(vyavasthais\) on who is fit for what originates from the sakthi \(ability\) or asakthi \(powerlessness\) of the individual SaadhakAs. One who does not have the superior Jn~Anam, high birth and patience to wait for moksham is guided to choose the Prapatthi yOgam. It is custom tailored based on the wherewithal of the SaadhakA’s attributes \(tattat purusha vishayata: sthApyatE\). 
+
+4. **tat vikalpa sama iti yat ca aahu:, tat phalasya aviSEshAt** - These 23 
+
+two paths to mOksham are not equal as some say; they are not indiscriminately available to all saadhakAs. The end result \(phalan\) from practicing one or the other is still the same. UpAyams are not the same but the phalan is. The different paths to gain the same result is known as vikalpams. The individual saadhakAs’ predispositions and innate qualifications \(sakthi, Jn~Anam, high birth\) are determining factors in the choice of the appropriate upAyam suited to them. 
+
 </details>
 
 
@@ -187,6 +509,34 @@ nyAsa viMshati -- vyAkhyA.
 वानर-वायस-राक्षस-द्रौपदी-गजेन्द्र-  
 सुमुख-त्रिशङ्कु-शुनश्शेफाद्य्-उपख्यनैः इति शेषः ।  
 **धर्मस्थेयाः**  - विवाद-गोचर-धर्म-निर्णेतारः ।  **पूर्वे** - भगवद्यामुनादयः ॥ ६॥
+</details>
+
+<details><summary>English</summary>
+
+**Meaning: **
+
+In the previous slOkam, Swamy Desikan pointed out that those with sakthi can engage in Bhakthi yOgam and those who do not have that sakthi can resort to Prapatthi yOgam. Now, to encourage youngsters who are unsure about the glories of Prapatthi, Swamy Desikan elaborates on the vaibhavam of Prapatthi. 
+
+**sAnukrOSE samarthE abheeshTa siddhyai: prapadanam rishibhi:** **smaryatE -** The Rishis in their smrithis have referred extensively to people wishing to gain the desired phalans seeking the refuge of one who has compassion and sakthi. 
+
+**yEtat lOkE api prasiddham - **These rishi vaakyams \(yEtat\) is well known to the people of the world \(lOkE prasiddham\) from various Sruthi Vaakyams, ithihAsa, PurANams; examples are SaraNaagathy done by 25 
+
+
+
+
+
+Kaakam, VibheeshaNan, Dhroupathy, GajEndhran, Sugreevan and others. 
+
+SaraNaagathy done at the feet of a Samartha-KaaruNeekan \(capable and merciful one\) will result in the winning of the desired boons. 
+
+**iha vimati: kvaa api tantrE na ca prEkshyatE -** There is no difference of opinion \(vimati\) seen \(prEkshyatE\) in any one of the sAsthrAs \(kvaa api tantrE na ca prEkshyatE\). Both the SaasthrAs and lOka nyAyam support this view of the efficacy of SaraNaagathy performed at the feet of an adhikAri, who has both power and compassion \(Samartha KaruNeekan\). 
+
+**tasmAt bhagavati kaimutya siddham bharanyAsa vidyA yEvam** **sthApayAmcakru: -** Therefore, using Kaimuti nyAyam \(is there any need to speak about it further since it is crystal clear in reasoning\), the vaibhavam of Bhara nyAsam has been established by poorvAcAryas like Swamy AlavanthAr in this manner \(yEvam\) on the basis of Sruthi and Smruthi vaakyams. 
+
+**dharma sthEyA: purvE ca sva-krutishu bahudhA yEvam** 
+
+**sthAapayAmcakru: ** Who are those that established the Sruthi, smruthi PramANams? They were PoorvAcAryas like Swamy NammAzhwAr, AlavanthAr, Naatha Muni, Udayavar et al. \(poorvE ca\), who included in their own Sri Sookthis \(sva-krutishu\) many references to such pramANams \(bahudha sthApyancakru\). They were well qualified to refer to such connections since they had the skills to determine the meaning of the various dharmams \(dharmasthEyaa=dharma nirNEthAra**:**\). In their Sri Sookthis like ThiruvAimozhi, Sthothra Rathnam, ChathusslOki, Gadhya thrayam et al, the above PoorvAcAryaas established that the SaraNaagathy done at the sacred feet of Sriya:Pathi will undoubtedly bear fruit. 
+
 </details>
 
 
@@ -221,6 +571,81 @@ nyAsa viMshati -- vyAkhyA.
 विश्वास-प्रकर्षः संपाद्य इति भावः ॥ ७॥
 </details>
 
+<details><summary>English</summary>
+
+THE IMPORANCE OF MAHAA VISWAASA
+
+**Introductory remarks: **
+
+This slOkam deals with the uniqueness of Mahaa ViswAsam as an essential angam of Prapatthi. The questions are: 
+
+What is the difference between SaasthrArtha ViswAsam and faith in the Lord, which a non-prapannan might have in abundance? Why is the viswAsam stressed in Prapatthi as Mahaa ViswAsam and how it is different from the normal viswAsam in Bhagavath Sasthrams and normal faith in BhagavAn displayed by a non-prapannan? 
+
+He may ask: “I believe in dhaivam; I am not a nAsthikan; I am not a koutaskuthan \(asking constantly why, what for and how like a hythukan\). I have tremendous Bhagavath viswAsam. I have full faith in Bhagavath sAsthrams. 
+
+27 
+
+
+
+
+
+With these credentials, I am ready to perform my Prapatthi. Even then, the stress is made about the absolute need for Mahaa ViswAsam for successful Prapatthi. What is the significance of this emphasis on “mahaa” viswAsam? 
+
+**The answer to this legitimate question is given in this slOkam by touching** **upon the five kinds of doubts **that a chEtanan can have that interferes with the cultivation of Mahaa ViswAsam. These five nagging doubts will pull away one who is seriously interested in performing Prapatthi and pull his leg from behind and interfere with successful Prapatthi. For overcoming these five-fold doubts, mahaa viswAsam \(mighty, unassailable faith\) becomes essential. 
+
+**Word by Word meaning: **
+
+**Saastra prAmANya vEdee nirviSanka: vidhi vishayE adhikAree nanu? -** Is it not one who knows about the validity of the Bhagavath sAsthrams a fit agent to perform karmas recommended by the sAsthrams without any doubts about them? 
+
+**iha viSvAsasya angabhAvE vidhushA puna: mahatvam kim prasAdhyam? - **
+
+ In this matter of Prapatthi, where ViswAsam is an angam of Prapatthi, why should one who is knowledgeable about Prapatthi yOgam learn again about the greatness \(mahathvam\) of ViswAsam? Why should such a knowledgeable person earn afresh the mighty faith \(mahaa viswAsam\)? 
+
+**\(hE vidushA\!\) yEvam maa -** Oh learned person\! Please do not ask like this\! 
+
+**nyAsa mAtrENa guru phalE ghOra aparAdhai: sapadi labhyE -** Through the performance of the easy to practice Prapatthi, even those who have acquired horrible sins could gain the lofty phalan of mOksham immediately. 
+
+**pArshNigraha arhA SankA tat tat arhai: hEtubhi: samayitum ucitA** - While such a magnificent phalan is within reach through upAya anushtAnam \(Prapatthi\), the doubts about its efficacy \(sankA\) would pull one’s leg back and prevent an adhikAri from going forward with Prapatthi. These doubts will hold him back. Therefore, appropriate answers to clear these doubts become 28 
+
+
+
+
+
+essential to develop Mahaa ViswAsam in Prapatthi’s efficacy. If one reflects on the auspicious attributes of Sriman nArAyaNan, the rakshakan, all these doubts will be destroyed and Mahaa ViswAsam will take root to make Prapatthi effective. 
+
+**Explanatory Notes on the Five doubts that assail us:** Even a God-fearing man is likely to develop a five-fold doubt that would pull his leg from behind, when he decides to adopt Prapatthi yOgam . For avoiding this pitfall, an enormous emphasis is laid on Mahaa ViswAsam \(**unassailable** **confidence**\).
+
+1. The term Mahaa ViswAsam is intriguing. How is this different from a religious person’s faith \(viswAsam\) in God? Yes: Note that on five counts, a person develops reservations about Prapatthi.
+
+2. How it is possible for a mighty sinner, who has committed heinous crimes, be redeemed?
+
+
+
+3. It is understandable that the Lord can give small boons for our good deeds. How can one hope to gain the greatest of all Phalans \(Moksham\) from the Lord by us, the sinners?
+
+4. Prapatthi is a least time consuming, trivial act that does not need mighty penance. How can such an insignificant act secure the incomparable bliss of Moksham?
+
+
+
+5. Prapatthi assures moksham at the end of one’s life here or if one longs for it Moksham is possible at the time chosen by the Prapannan. In contrast, the adoption of Bhakthi yOgam demands severe discipline, austerities and it takes a very long time to bear the fruit of Moksham.
+
+How can Prapatthi be so quick yielding in its phalans?
+
+6. How can Prapatthi be valid for all irrespective of their Jn~Anam level, Kulam, VarNam?
+
+**One has to draw the answers for these doubts from reflection on the** **sakthi and kaaruNyam of the Lord**. There is no one who is equal to or greater than our Lord in compassion or sakthi. He can and will grant Moksham as a Svatantra Purushan. He is aided in this process by the intercession of Mahaa Lakshmi on behalf of the sinners. She appeals to Her Lord to overlook the sins of the chEtanan. He can not say no to Her. Our Lord has indissoluble 30
+
+
+
+
+
+relationship to us. He can not cut that relationship asunder. He becomes overcome by the Prapatthi performed by the chEtanan and grants him even the loftiest of phalan \(Moksham\). Our Lord does not need anything. He has every thing . In spite of being an avAptha samastha Kaaman \(One who has all wishes fulfilled\), our Lord out of His infinite mercy grants the phalan without expecting anything in return. He has kruthajn~athai \(gratitude\) for the act of Prapatthi done by the ChEtanan and showers all anugrahams including Moksha sukham. Our Lord is sarva sakthan and Sathya Sankalpan. Unlike other gods, who derive their power from Him, He can grant moksham whenever the chEtanan wishes, He is matchless and is sarva swatantran. He considers the phalan granted for the chEtanan as His own prayOjanam and does not hesitate to bless the Prapannan.
+
+
+
+Reflections on the episodes relating to SaraNaagathy in Srimath RaamAyaNam \(VibheeshaNa SaraNaagathy\), Mahaa BhAratham \(Lord KrishNaa’s charama slOkam\) and PurANams \(VarAha charama slOkam\) strengthen our Mahaa ViwAsam. **The merciful glances of the SadAcAryan also yield the same** **results. **
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -231,11 +656,11 @@ nyAsa viMshati -- vyAkhyA.
 </details>
 
 
-## तस्य मन्त्र-बीजम्
+## मन्त्रतो ऽभिक्रमानाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नेहाभिक्रान्ति-नाशो, **न** च **विहतिर्** इह, प्रत्यवायो भवेद् इत्य्  
-उक्तं कैमुत्य-नीत्या प्रपदन-विषये **योजितं** शास्त्र-विद्भिः ।  
++++(भक्ति-विषयय्)+++ उक्तं कैमुत्य-नीत्या प्रपदन-विषये **योजितं** शास्त्र-विद्भिः ।  
 तस्मात् क्षेत्रे तद्-अर्हे सुविदित-समयैर् देशिकैः सम्यग् **उप्तं**  
 मन्त्राख्यं मुक्ति-बीजं परिणति-वशतः **कल्पते** सत्-फलाय ॥ 8 ॥
 </details>
@@ -268,6 +693,40 @@ nyAsa viMshati -- vyAkhyA.
 </details>
 
 
+<details><summary>English</summary>
+
+MANTRA GRANTING MOKSHAM THROUGH PRAPATTI
+
+**Introductory remarks: **
+
+Another question is raised and answered here. The question is: It is said that Bhakthi yOgam is harder to observe than Prapatthi yOgam, which is easy to practice. Yet, Prapatthi yOgam has Mahaa viswAsam as an important angam for successful Prapatthi. Since Mahaa ViswAsam \(enduring, unassailable trust in the Lord as an unfailing rakshakan\) is hard to cultivate, how can we accept that Prapatthi yOgam is easier to practice? Some PramANa vachanams and the utterances of some AcAryAs state that dhvayam, the Prapatthi mantram, can be uttered once to gain Moksham. If that were so, why would we want to go through Prapatthi route, which has the need for mastery over MahA viswAsam? This slOkam addresses this question. 
+
+
+**Meaning: **
+
+In Geethai, while explaining the features of Karma yOgam, BhagavAn states that the karma yOgam done as a prerequisite for Moksham granting Bhakthi yOgam has the steps of Jn~Ana yOgam and Aathma SaakshAthkAram. If the initiated Karma yOgam is not completed during one’s life time, it does not go to waste. There is no sin associated with that incompletion. It will be resumed in the next birth or at a later stage of this life. Karma yOgam has this much glory. If that were to be so, one can imagine how much more glorious would Prapatthi yOgam be? In the practice of the farmers, planting of the good seed at the favorable time yields excellent crop at the right time. Similarly, the AcAryAs knowing the right time for the upadEsam to the sishyan instruct him on the mantram for moksham, which kindles his sraddhA and leads to the stage of performing Prapatthi for gaining Moksham. Even if the MahA viswAsam is difficult to cultivate, the power of upadEsam from a sadAcAryan will gradually perfect the Mahaa ViswAsam and help to realize successful Prapatthi. 
+
+Therefore, one has to recognize that the recitation alone of dhvaya mantram once will not lead directly to Moksham. 
+
+ **Word by Word meaning: **
+
+**iha abhikrAnti nASa: na **- The begun and yet incomplete Karma yOgam does not go to waste. 
+
+**vihati: pratyavAyO na bhavEt iti uktam** - it will not result in paapams, if it is interrupted in the middle. It has been stated thus in GeethA by BhagavAn Himself \(Chapter 2.40\). 
+
+**kaimutya neetyA prapadana vishayE Saastra vidhbhi: yOjitam** - 
+
+Following the logic of Kaimutya neethi, learned people have agreed to the above view on the Karma yOgam’s progress / interruption and its effects in the above manner. 
+
+**tasmAt tadarhE kshEtrE** - Therefore, when planted in the fit field of 34 chEtanan appropriate to receive the upadEsam. 
+
+**suvidita samayai: dEsikai: samyak uptam** - from an AcAryan, who knows the right time to plant this seed \(dhvaya mantram\) well. 
+
+**mantrAkhyam mukti bheejam pariNati vaSata:** - this seed of Prapatthi mantram that yields the fruit of moksham matures **sat phalAya kalpatE** - and becomes powerful to bless us with the phalan of Moksham following Prapatthi anushtAnam. 
+
+
+</details>
+
 <details><summary>मूलम्</summary>
 
 नेहाभिक्रान्तिनाशो न च विहतिरिह प्रत्यवायो भवेदित्युक्तं कैमुत्यनीत्या प्रपदनविषये योजितं शास्त्रविद्भिः ।  
@@ -275,7 +734,7 @@ nyAsa viMshati -- vyAkhyA.
 </details>
 
 
-## न्यास-स्तुतिः
+## साक्षान्-मोक्ष-कारणता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यासः **प्रोक्तो** "ऽतिरिक्तं तप" इति, **कथितः** स्वध्वरश् चास्य कर्ता,  
@@ -319,6 +778,46 @@ nyAsa viMshati -- vyAkhyA.
 
 </details>
 
+<details><summary>English</summary>
+
+SLOKAM 9 
+
+PRAPATTI BEING A DIRECT CAUSE FOR MOKSHAM 
+
+
+**Introductory remarks: **
+
+**Yet another doubt arises.** The previous slOkam pointed out the route of reciting dhvaya mantram directly by the chEtanan will not lead him to mOksham directly. It has been said that dhvayam will some how lead one to perform Prapatthi and through that anushtAnam lead to mOksham. Here a question arises: How can Prapatthi be a direct cause for mOksham, when it is said that it is an angam of Bhakthi yOgam and it is latter that is the direct cause for mOksham? This slOkam answers this question. 
+
+**Meaning: **
+
+The Sruthi itself states that Prapatthi is the direct cause for Moksham. The 36 Upanishads assert that Prapatthi is far superior to Karma, Jn~Ana and Bhakthi yOgams. Vedam Salutes one that has performed Prapatthi as the one who has completed a Yaagam \(Yajn~am\). Ahirbudhnyan concurs about the superior status of one who has completed Prapatthi in his own Samhithai. Upanishad also states that nyAsa vidyA is a parama rahasyam \(supreme secret\). That is not understood clearly even by the dEvAs. Therefore, it is futile carping to put down the glories of Prapatthi, when Sruthi and Upanishad portions hail it as a direct route to Moksham and as the loftiest one among MokshOpAyams. One can not deemphasize the Vaibhavam of Prapatthi. The PaancharAthra Samhithai states that the greatness of the one who has performed Prapatthi is crores of time superior to those who adopt other upAyams to gain Moksham. 
+
+**There is one more doubt **arising from upanishadic statement that Prapatthi has to be performed with PraNavam as mantram during the samarpaNam of the Aathma at the sacred feet of the Lord. **The question here is:** How can all be equally eligible to use PraNavam for performing their Prapatthi? **The answer** **is**: Those who are not eligible to use PraNavam due to VarNa dharmams can follow the way shown by the Aagamams, namely, the use of dhvaya vaakyams to perform their Prapatthi. 
+
+**Word by Word meaning: **
+
+**nyAsa: atiriktam tapa: iti prOktam **- Prapatthi has been declared the loftiest among all penances by the Upanishad \(TaitthirIya Upanishad: 49th anuvAkam\). 
+
+
+
+**asya kartA svadhvara: ca kathita: **- The one who has performed this Prapatthi has been recognized as the performer of a great yajn~am \(TaitthirIya Upanishad\). 
+
+**ahirbudhnya api anvavAdeet** - even Lord Siva endorses this view 
+
+\(Ahirbudhnya Samhithai: 37.37\). 
+
+**yEtat divishadAm uttamam guhyam agaNi **- This SaraNaagathy is considered even for the DevAs beyond their reach \(TaitthirIyam 79th anuvAkam\). 
+
+**asau sAkshAt mOkshAya ca Sruta: **- VedAs declare this Prapatthi as the direct cause for Moksham. 
+
+**guNa AaDhyE iha bAdha SankA tu mudhA **- It is futile to have the doubt that this lofty SaraNaagathy will not yield the fruit of Moksham. 
+
+**tannishTO anya-nishThAn kOTi kOTi amsata: atiSayitum prabhu: hi **
+
+- The one who has performed SaraNaagathy is crores of times superior to the others who follow other upAyams for Moksham \(Lakshmi Tantram: 16.62\). 
+
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -331,7 +830,7 @@ nyAsa viMshati -- vyAkhyA.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "नाना शब्दादि-भेदाद्" इति तु **कथयता** सूत्र-कारेण सम्यक्  
-+++(आदि-शब्देन)+++ न्यासोपासे **विभक्ते**, यजन-हवनवच् छब्द-भेदाद् अ-भाक्तात् ।  
++++(आदि-शब्देन)+++ न्यासोपासे **विभक्ते**, यजन-हवनवच् छब्द-भेदाद् अ-भाक्तात्+++(=गौणात्??)+++ ।  
 आख्या-रूपादि-भेदः श्रुत इतर-समः किञ् च भिन्नो ऽधिकारः  
 शीघ्र-प्राप्त्य्-आदिभिः **स्याज् जगुर्** इति च मधूपासनादौ व्यवस्थाम् ॥ 10 ॥
 </details>
@@ -353,6 +852,33 @@ nyAsa viMshati -- vyAkhyA.
 **आदि** शाब्देन परिकर-प्रकरणयोः ग्रहणम् ।  
 **इतरसमः**  - विद्यान्तरसमः । **किं च** इत्यादिना प्राग्दरिताधिकारि भेद स्मारणम् (/ किं चेत्यादि प्राग्दर्शितधिकारिभेदस्मारणम् । भाष्ये तु प्रपत्तेः …) ) । स्वातन्त्र्येण मोक्षोपायत्वेन व्यावृत्त इहाधिकारो न स्यादिति शङ्कायां मधुविद्याद्य्दाहरणम् । भाष्ये तु प्रपत्तेः भक्त्यङ्गत्वोक्तिः न स्वातन्त्र्य बाधिका; विषय भेदादुभयाकारयोगिषु (/ स्वातन्त्र्यविषयबाधिक, … उभयाधिकारयोगिषु) क्वचिदन्यतरोक्तरविरोध्हात् ॥ १०॥
 
+</details>
+
+
+<details><summary>English</summary>
+
+PRAPATTI BECOMING A DISTINCT UPAAYAM 
+
+
+**Introductory remarks: **
+
+In this slOkam Swamy Desikan gives his response to two other objections. 
+
+While we accept the glories of Prapatthi, we are bothered by two things: 
+
+1. In the charama slOka vyAkhyAanam in AcArya RaamAnujA’s GeethA bhAshyam, Prapatthi yOgam is described as an angam of bhakthi yOgam. The glories of Prapatthi must then be for that anga Prapatthi. Is it not so? 
+
+2. In Sri BhAshyam, AcArya RaamAnujaa has not established Prapatthi as a direct upAyam for Moksham. How can we accept Prapatthi as a distinct and direct upAyam for Moksham? 
+
+**Swamy Desikan responds to these two questions here. **
+
+**Meaning: **
+
+In Brahma soothram, Sage VyAsa refers to many vidhyAs for Moksham such as Sadh Vidhya, Dhahara Vidhya, VaiswAnara Vidhya. They differ from each other insofar as there are differences in the particular guNam of the BhagavAn is chosen for the upAsanaa. The predicates for each of the vidhyAs are therefore different although the target of these different upAsanAs are still the same BhagavAn with countless guNams. The instructions for bhakthi yOgam \(upAseetha, yajEtha, juhUyAth\) and Prapatthi yOgam \(saraNam vraja\) are examples of use of two different sets of predicates \(vinai pahuthi\) and are yet direct routes to moksham. nyAsa Vidhya \(Prapatthi\) is one of the 32 Brahma vidyAs for moksham cited by the Upanishads. The guNams of  BhagavAn chosen for Prapatthi as an independent upAyam for direct moksham are His sakthi and KaaruNyam. Its angams are different from Bhakthi yOgam to fit in with the need for differences in its form. For instance, Prapatthi has five angams, whereas Bhakthi yOgam has VarNaasrama dharma anushtAnam as its angam. Therefore, both are different and yet are distinct and direct MokshOpAayams. There are other variations in the features of two yOgams that mark their distinction as direct and independent upAyams. Prapatthi has the power to be an independent upAyam as well as an angam for bhakthi yOgam. Therefore one can not dismiss Prapatthi yOgam as an independent upAyam for Moksham because GeethA bhAshyam chose to highlight only one of the two features of Prapatthi \(viz\), its role as an angam for bhakthi yOgam. 
+
+Further, AcArya RaamAnuja has explicitly stated in His SaraNaagathy Gadhyam that Prapatthi is the direct upAyam for Moksham and observed it in front of Srirangam dhivya dampathis on a Panguni Uttharam day. GadhyA specifically advocates independent Prapatthi. It is of a different shade from what is portrayed in GithA’s charama slOkam: 18.66. Prapatthi is done once. 
+
+Bhakthi is a continuous observance. The time of fruition of bhakthi and Prapatthi are different. Prapatthi bears fruit at the end of one’s life or earlier if desired. Bhakthi yields fruit in a delayed manner. Bhakthi upAyam demands 41 a candidate to be able and knowledgeable. Prapatthi expects the opposite: inability to pursue the rigorous Bhakthi upAyam and inadequacy in intellectual equipment. 
 </details>
 
 
