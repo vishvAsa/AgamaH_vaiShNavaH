@@ -533,10 +533,206 @@ and the notion of 'mine' in thinking that this act or activity for securing prot
 मध्यमपदत्तिल् प्रतिपन्नमान निषेधविशेषत्ताले स्वरक्षणव्यापारत्तैप् पट्र वरुम् निरपेक्षस्वातन्त्र्यनिरुपाधिकशेषित्वाभिमानरूपङ्गळान वहङ्कारममकारङ्गळैयुम्,
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्-निषेध-सामर्थ्यन्-तन्नाल् ए  
+
+तृतीय-पदत्तिल् चतुर्थियाल् एय् अभिप्रेतम् आय्  
+भाविय् आन कैङ्कर्य-पर्यन्तानुभवम् आगिऱ फलत्तैप् पट्र  
+
+इप्-पोदु फलान्तरानुभव-न्यायत्ताल् ए वरुम्  
+स्वाधीन-कर्तृत्व-भोक्तृत्व--स्वार्थ-कर्तृत्व-भोक्तृत्व-भ्रम-रूपङ्गळ् आनव्  
+अहङ्कार-ममकारङ्गळैय् उम्  
+यथा-योग्यम् आर्थम् आगव् उम्, शाब्दम् आगव् उम् **अडिय् अऱुत्तु**,  
+इप्-पडि स्थिर-प्रतिष्ठित-ज्ञानर् आय्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतन्-निषेध-सामथ्येनैव  
+तृतीय-पदे चतुर्थ्य्-अभिप्रेते भाविनि-कैङ्कर्य-पर्यन्तानुभव-रूपे फले विषये  
+इदानीन्तन-फलान्तरानुभव-न्यायेन प्रवर्तमानौ  
+स्वाधीन-कर्तृत्व--भोक्तृत्व--स्वार्थ-कर्तृत्व--भोक्तृत्व-भ्रम-रूपौ अहंकार-ममकारौ च  
+यथार्हम् अर्थ-विधया शाब्द-विधया च **समुन्मूल्य**  
+इत्थं **प्रतिष्ठित-ज्ञानाः**- 
+</details>
+
+<details><summary>English</summary>
+
+By the force of this very negation (na mama ),  
+we should give up erroneous notions that may exist  
+in regard to the fruit (of the upāya),  
+which consists in future enjoyment (in Vaikuṇṭha  ) extending up to the service of the Lord,  
+which is the meaning of the dative in the third word (Nārāyanāya) -  
+erroneous notions of 'I' in thinking on the analogy of other fruits enjoyed here (in this world),  
+
+- "I will be the independent doer”  
+- and “I will be the enjoyer subject to no one else "  
+
+and "mine" in thinking  
+
+- "I do this for myself"  
+- and "I enjoy this for myself". 
+  
+(These notions of 'I' and 'mine' in varied situations  
+should be completely rooted out by considering the meanings, implicit and explicit,  
+in the several words of the Tirumantra.) 
+
+Thus one should become well established in right knowledge  
+and should say to oneself in the words of the Alwars,
+</details>
+
+<details><summary>Español</summary>
+
+By the force of this very negation (na mama ),  
+we should give up erroneous notions that may exist  
+in regard to the fruit (of the upāya),  
+which consists in future enjoyment (in Vaikuṇṭha  ) extending up to the service of the Lord,  
+which is the meaning of the dative in the third word (Nārāyanāya) -  
+erroneous notions of 'I' in thinking on the analogy of other fruits enjoyed here (in this world),  
+
+- "I will be the independent doer”  
+- and “I will be the enjoyer subject to no one else "  
+
+and "mine" in thinking  
+
+- "I do this for myself"  
+- and "I enjoy this for myself". 
+  
+(These notions of 'I' and 'mine' in varied situations  
+should be completely rooted out by considering the meanings, implicit and explicit,  
+in the several words of the Tirumantra.) 
+
+Thus one should become well established in right knowledge  
+and should say to oneself in the words of the Alwars,
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन् निषेधसामर्थ्यन्दन्नाले - मुन्बु स्वातन्त्र्यपदत्तोडुम् शेषित्वपदत्तोडुम् योजित्त नकारत्तिन् निषेधसामर्थ्यत्ताले ऎण्ड्रबडि. ऎन्द पदत्तैत् तन्नोडु योजित्तालुम् तदर्थत्तै निषेधिक्क नञस्सामर्थ्यमुण्डिऱे. तृतीयपदम् - नारायणाय ऎन्गिऱ पदम्. अदिल् चतुर्थी आय ऎन्गिऱदु. 
+
+अभिप्रेतमायिति । तादर्थ्यचतुर्थी शेषत्वत्तैयॊऴिय अदिन् कार्यमान कैङ्गर्यत्तैच् चॊल्लमाट्टादागैयाल् चतुर्थियिलभिप्रेतमाय् ऎन्गिऱदु. भावियान मोक्षदशै यिलुण्डागप्पोगिऱदान. कैङ्कर्यपर्यन्तानुभवमागिऱ - कैङ्गर्यत्तैप् परीवाह मागवुडैय अनुभवमागिऱ. फलत्तैप्पट्र - उपायफलत्तैप्पट्र. इङ्गु उभयविभूतिविशिष्टभगवदनुभवमे मुमुक्षुवुक्कुप् फलम्. 
+
+अव्वनुभवजनितप्रीतियाले वरुमङ्गुळ्ळ भगवत्कैङ्गर्यम् अदऱ्‌कुप् परीवाहमॆण्ड्रु करुत्तु.  
+अन्द भगवदनुभवरूपफलम् मुक्तिदशैयिल् वरुवदॊण्ड्रागैयाल् अदिलप्पोदु अहङ्कारममकारङ्गळ् वर प्रसक्ति यिल्लैये यॆन्निल्, अदु मुमुक्षुदशैयिल् वरक्कूडुमॆन्गिऱार् इप्पोदु इति ।  
+मुमुक्षुदशैयिल् तान् अज्ञातमान अन्द फलत्तिल् अहङ्कारममकारङ्गळ् वरक्कूडुमो वॆन्न वरुळिच्चॆय्गिऱार् फलान्तरानुभवन्यायत्ताले इत्यादिना । भावियान फलम् अज्ञातमायिरुन्दालुम् तद्भिन्नमान इदानीन्तनफलानुभवत्तिल् ‘‘अहं स्वतन्त्रकर्ता’’ ‘‘स्वाधीन-भोक्ता’’ ऎन्गिऱवहङ्गारमुण्डावदुबोल् भावियान भगवदनुभवत्तिलुम् स्वाधीनकर्तृत्वभ्रममुम् स्वार्थकर्तृत्वभ्रममुम् वरक्कूडुमॆण्ड्रु करुत्तु. 
+
+स्वाधीनकर्तृत्वभ्रममावदु स्वाधीनोऽहं कैङ्कर्यं करिष्यामीत्येवंरूपः । स्वाधीनभोक्तृत्वभ्रममावदु स्वाधीनोऽहं भोक्ष्य इत्येवंरूपः । स्वार्थकर्तृत्वभोक्तृत्वभ्रममावदु स्वार्थं कैङ्कर्यं करिष्यामि; स्वार्थं फलं भोक्ष्य इत्येवंरूपम्. इवैगळ् अहङ्गारङ्गळ्. मम स्वाधीनं कर्तृत्वं, मम स्वाधीनं भोक्तृत्वमित्यादिकळ् ममकारङ्गळ्.  
+
+यथायोग्यमार्थमागवुम् शाब्दमागवुमिति ।  
+देहतदनुबन्धिविषयाहङ्कारममकारङ्गळुक्कु जीवनुडैय ज्ञानस्वरूपाद्यनुसन्धानत्ताल् निवृत्तिसॊन्नदु आर्थम्. शेषत्वाद्यनुसन्धानत्ताले स्वरूपतदनुबन्धिकळिले वरुम् अहङ्कारममकारनिवृत्तियुमार्थम्. अन्यद्यथायोग्यम् शाब्दम्.  
+अडियऱुत्तु - मूलङ्गळान वासनैगळोडे छेदित्तु.  
+इप्पडि - कीऴ्च्चॊन्न अहङ्गारममगारङ्गळॆल्लाम् सवासनमागक् कऴियुम्बडि.  
+स्थिरप्रतिष्ठितज्ञानरायिति ।ज्ञानस्य स्थिरप्रतिष्ठितत्वमावदु वादिकळाल् अचञ्चलमाय् यावत्फलमनुवर्तिक्कै.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्निषेधसामर्थ्यन् दन्नाले तृतीयपदत्तिल् चतुर्थियाले यभिप्रेतमाय् भावियान कैङ्कर्यपर्यन्तानुभवमागिऱ फलत्तैप्पट्र इप्पोदु फलान्तरानुभवन्यायत्ताले वरुम् स्वाधीनकर्तृत्वभोक्तृत्वस्वार्थकर्तृत्वभोक्तृत्वभ्रमरूपङ्गळान वहङ्कारममकारङ्गळैयुम् यथायोग्यमार्थमागवुम् शाब्दमागवुमडियऱुत्तु, इप्पडि स्थिरप्रतिष्ठितज्ञानराय्, 
+</details>
+
+
+## सदोष-निर्दोष-फल-विवेचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अऱ्‌प-सारङ्गळ्-अवै सुवैत्त्+++(=आस्वाद्य)+++ अगण्ड्र्+++(=सुदूरं)+++ ऒऴिन्देन्+++(=त्यक्तवान्)+++"  
+(तिरुवाय्मॊऴि 3-2-6.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"अल्प-सार-भूतान् आस्वाद्य दूरेऽभवम्"
+</details>
+
+<details><summary>English</summary>
+
+" Having enjoyed the pleasures of sense  
+and found them petty,  
+I have now given them up  
+and found relief."  
+
+</details>
+
+<details><summary>Español</summary>
+
+" Having enjoyed the pleasures of sense  
+and found them petty,  
+I have now given them up  
+and found relief."  
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि स्थिरप्रतिष्ठितज्ञानवान्गळुम् क्षद्रपुरुषार्थासत्तियाले मुमुक्षुक्कळागामै लोकत्तिल् काण विल्लैयो?  
+अदनाल् अन्वयव्यभिचारम् वारादोवॆन्निल्, मुमुक्षारूपकार्यत्तिल् दोषसप्तकानुसन्धानजन्यवैराग्यरूपसामग्रयन्तरमपेक्षितमागैयाल् व्यभिचारमिल्लैयॆण्ड्रु परिहारम् पण्णप्पोगिऱवराय् दोषसप्तकानुसन्धानप्रकारत्तैयुम् वैराग्यस्वरूपत्तैयुम् सप्रमाण मागक्काट्टुगिऱार् अऱ्‌पसारङ्गळित्यादि - ऎन्गिऱ अवस्थैयैयुडैय इत्यन्तेन । 
+
+अऱ्‌पसारङ्गळवै - अल्बसारङ्गळान अन्द विषयङ्गळै. सुवैत्तु - रुचित्तु. अगण्ड्रॊऴिन्देन् - उन्नै विट्टॊऴिन्देनॆण्ड्रबडि.  
+</details>
 
 
 
-By the force of this very negation (na mama ), we should give up erroneous notions that may exist in regard to the fruit (of the upāya), which consists in future enjoyment (in Vaikuṇṭha  ) extending up to the service of the Lord, which is the meaning of the dative in the third word (Nārāyanāya) - erroneous notions of 'I' in thinking on the analogy of other fruits enjoyed here (in this world), "I will be the independent doer” and “I will be the enjoyer subject to no one else " and "mine" in thinking "I do this for myself" and "I enjoy this for myself". (These notions of 'I' and 'mine' in varied situations should be completely rooted out by considering the meanings, implicit and explicit, in the several words of the Tirumantra.) Thus one should become well established in right knowledge and should say to oneself in the words of the Alwars, " Having enjoyed the pleasures of sense and found them petty, I have now given them up and found relief." "The pleasures of the five senses in seeing, hearing, touching, smelling and tasting and, so also, the unlimited but inferior enjoyment of one's own self (ātmānubhava), which is not capable of being realised by the senses, have been given up by me.” “When He is gracious, what is there difficult of attainment? I have had enough of dharma, artha and kama. They are petty." "The fruits obtained by these weak-minded men are temporary and end after a short time.' "Having come into this world which is not eternal and is full of misery, seek me as your refuge." "Having heard of those who were mighty and valiant and of those who had immense treasures of wealth and who, after the lapse of some time, have left nothing behind them but tales of their lives, the wise man never considers as 'his', sons, wives, houses, land and the like, nor Wealth". "The world is all misery”. “Even in Svarga, since there is fear of a fall after the expiry of the ordained period, there is no happiness". "It is only fools who hanker after kingdoms, thinking that they are theirs. Men like me never long for them, because they are not intoxicated by the strong liquor of egotism the sense of 'I')." "From the mansion of Brahma downwards, O sage, these evils exist; therefore the wise never desire the attainment of Svarga." "Above the mansion of Brahma, there lies the supreme world of Viṣṇu, which is pure, eternal, full of supreme splendour and is called the Supreme Brahman. Fools, deluded by the pleasures of the senses and tormented by vanity, covetousness, arrogance, anger, perfidy and delusion never go to that world. Only good men without possessiveness and egotism, who remain indifferent to the pairs of opposites (like pleasure and pain, heat and cold and the like), who have full control over their senses, and who are devoted to Yogic meditation go there." "In that world are beautiful vimanas (airships) which can travel as they please, Assembly halls, gardens of varied kinds, O king, and, likewise lotus tanks, full of pellucid water.” “ Compared with that world of the Supreme Being, these lower worlds (of Brahma and Indra) are like hell." From these and other sayings, the Jīva   should realise the seven kinds of evil inherent in the enjoyment of non-sentient things, viz. their littleness, their instability, their origin in pain, their being mingled with pain, their resulting ultimately in pain, their origin being due to a perverse egotism and their being opposed to the bliss which is his nature. He should also realise such of these evils as are inherent in the enjoyment of one's self, ātmānubhava. He should then realise, with clear vision, the unique character of the enjoyment of the bliss of Bhagavān, which, in every one of these respects, is opposed to them. He would then attain the condition of "one who longs eagerly for the Supreme Being and who, consequently, is averse from things that are other than the Supreme Being. He would then abstain from activity whose characteristics Brahma is said to have described (as leading to fruits other than mokṣa ) and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
+<details><summary>मूलम्</summary>
+
+"अऱ्‌पसारङ्गळवै सुवैत्तगण्ड्रॊऴिन्देन्"  
+(तिरुवाय्मॊऴि 3-2-6.)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "कण्डु केट्टुट्रु मोन्द्+++(=घ्रात्वा)+++ उण्ड् उऴलुम्+++(=वर्तमानम्)+++ ऐङ्-करुवि+++(=इन्द्रिय)+++-कण्डव् इन्बन्+++(=प्रीतिं)+++,  
+> तॆरिव् अरियव् अळव्-इल्लाच् +++(स्वात्मानुभव-रूपम्)+++ चिट्र्-इन्बम्"  
+(तिरुवाय्मॊऴि 4-9-10.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> दृष्ट्वा श्रुत्वा स्पृष्ट्वा घ्रात्वा भुक्त्वा संचरद्भिः पञ्चभिर् इन्द्रियैर् दृष्टम् आनन्दम्,  
+> ज्ञातुम् अशक्यं निरवधिकं क्षुद्रानन्दं (च)", 
+</details>
+
+
+
+<details><summary>English</summary>
+
+> "The pleasures of the five senses in seeing, hearing, touching, smelling and tasting  
+> and, so also, the unlimited but inferior enjoyment of one's own self (ātmānubhava),  
+> which is not capable of being realised by the senses,  
+> have been given up by me.” 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "The pleasures of the five senses in seeing, hearing, touching, smelling and tasting  
+> and, so also, the unlimited but inferior enjoyment of one's own self (ātmānubhava),  
+> which is not capable of being realised by the senses,  
+> have been given up by me.” 
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+कण्डु केट्टु इत्यादि । कण्डु - रूपवद्वस्तुक्कळैक् कण्णाले कण्डु. केट्टु – शब्दङ्गळैक् कादाल् केट्टु, उट्रु - स्रक्चन्दनादिकळै स्पर्शित्तु. मोन्दु - गन्ध-वस्तुक्कळै घ्राणत्ताले मुगर्न्दु. उण्डु - रसङ्गळै रसनया आस्वादनम् पण्णि, उऴलुम् ऐङ्गरुवि - उऴलुगिऱ पञ्चेन्द्रियङ्गळ्, उऴलुगैयावदु - अनेककष्टङ्गळ् वन्दालुम् तन् व्यापारत्तै विडामै. कण्डविन्बम् - इन्द इन्द्रियङ्गळ् कण्ड विषयसुखम्. इदनाल् चक्षुरादीन्द्रियङ्गळ् रूपादिकळिल् "कण्डु केट्टु" ऎन्गिऱबडि एकैकग्राहकङ्गळागैयाल् अवट्राल् वरुम् सुखम् अत्यल्पमॆण्ड्रु सूचितमागिऱदु. तॆरिवरिय - पञ्चेन्द्रियङ्गळाले काणवॊण्णाद. अत एव अळविल्ला - इन्द्रियङ्गळ् काट्टिन सुखम् पोले अल्पमिल्लाद. सिट्रिन्बम् - अल्पमान सुखम्. ऐन्द्रियिकसुखापेक्षया अळविल्लाददाय् भगवदनुभवापेक्षया अत्यल्पमानदान कैवल्यसुख मॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"कण्डु केट्टुट्रु मोन्दुण्डुऴलु मैङ्गरुवि कण्ड विन्बन् दॆरिवरिय वळविल्लाच् चिट्रिन्बम्" (तिरुवाय्मॊऴि 4-9-10.)  
+</details>
+
+
+
+
+> “When He is gracious, what is there difficult of attainment? I have had enough of dharma, artha and kama. They are petty." 
+
+> "The fruits obtained by these weak-minded men are temporary and end after a short time.' "Having come into this world which is not eternal and is full of misery, seek me as your refuge." "Having heard of those who were mighty and valiant and of those who had immense treasures of wealth and who, after the lapse of some time, have left nothing behind them but tales of their lives, the wise man never considers as 'his', sons, wives, houses, land and the like, nor Wealth". "The world is all misery”. “Even in Svarga, since there is fear of a fall after the expiry of the ordained period, there is no happiness". "It is only fools who hanker after kingdoms, thinking that they are theirs. Men like me never long for them, because they are not intoxicated by the strong liquor of egotism the sense of 'I')." "From the mansion of Brahma downwards, O sage, these evils exist; therefore the wise never desire the attainment of Svarga." "Above the mansion of Brahma, there lies the supreme world of Viṣṇu, which is pure, eternal, full of supreme splendour and is called the Supreme Brahman. Fools, deluded by the pleasures of the senses and tormented by vanity, covetousness, arrogance, anger, perfidy and delusion never go to that world. Only good men without possessiveness and egotism, who remain indifferent to the pairs of opposites (like pleasure and pain, heat and cold and the like), who have full control over their senses, and who are devoted to Yogic meditation go there." "In that world are beautiful vimanas (airships) which can travel as they please, Assembly halls, gardens of varied kinds, O king, and, likewise lotus tanks, full of pellucid water.” “ Compared with that world of the Supreme Being, these lower worlds (of Brahma and Indra) are like hell." From these and other sayings, the Jīva   should realise the seven kinds of evil inherent in the enjoyment of non-sentient things, viz. their littleness, their instability, their origin in pain, their being mingled with pain, their resulting ultimately in pain, their origin being due to a perverse egotism and their being opposed to the bliss which is his nature. He should also realise such of these evils as are inherent in the enjoyment of one's self, ātmānubhava. He should then realise, with clear vision, the unique character of the enjoyment of the bliss of Bhagavān, which, in every one of these respects, is opposed to them. He would then attain the condition of "one who longs eagerly for the Supreme Being and who, consequently, is averse from things that are other than the Supreme Being. He would then abstain from activity whose characteristics Brahma is said to have described (as leading to fruits other than mokṣa ) and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
