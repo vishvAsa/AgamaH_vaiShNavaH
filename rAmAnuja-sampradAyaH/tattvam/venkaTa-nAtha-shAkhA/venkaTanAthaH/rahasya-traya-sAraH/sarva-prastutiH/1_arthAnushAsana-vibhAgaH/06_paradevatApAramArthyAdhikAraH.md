@@ -6597,6 +6597,7 @@ by uttering the origin of all Veda, namely, the syllable aum with three mātras 
 
 [^f246]: Periāḻvār Tirumozhi: 4-5-4
 
+## लक्ष्मी-सहिततया विशेषः
 ### उन्मत्त-सूरिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -6986,8 +6987,109 @@ This truth regarding the Supreme Deity was taught at great length by the great s
 
 ### शठकोपः
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-And Nammāḻvār, who received the gift of knowledge free from all delusion and bhakti from Bhagavān and who occupies the highest place in the line of those who have performed prapatti, has stated the same truth (namely, that Lakṣmī  should also be considered along with Bhagavān as our refuge and our goal): "You have[^f253] enabled me to have a vision of Thyself and Thy consort (Lakṣmī ) with the shining bracelets, standing together."
+इत्तै मयर्व्+++(=भ्रान्ति)+++-अऱ+++(=इल्लाद)+++ मति-नलम्+++(=गुणम्|आनन्द)+++ अमरुळप् पॆट्रु  
+‘‘आद्यस्य नः कुलपतेः’’ ऎन्गिऱप्-पडिय् ए  
+प्रपन्न-सन्तान-कूट-स्थर् आन नम्माऴ्वार् उम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इममर्थम् अज्ञानराहित्येन ज्ञानभक्ती अनुग्रहेण प्राप्तवान्  
+“आद्यस्य नः कुलपतेः" इत्य्-उक्तरीत्या प्रपन्न-जन-संतान-कूट-स्थः श्री-शष्कोप-सूरिर् अपि  
+</details>
+
+<details><summary>English</summary>
+
+And Nammāḻvār, who received the gift of knowledge free from all delusion and bhakti from Bhagavān  
+and who occupies the highest place in the line of those who have performed prapatti,  
+has stated the same truth  
+(namely, that Lakṣmī  should also be considered along with Bhagavān as our refuge and our goal):  
+</details>
+
+<details><summary>Español</summary>
+
+And Nammāḻvār, who received the gift of knowledge free from all delusion and bhakti from Bhagavān  
+and who occupies the highest place in the line of those who have performed prapatti,  
+has stated the same truth  
+(namely, that Lakṣmī  should also be considered along with Bhagavān as our refuge and our goal):  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्तै मयर्वऱ मदि नलमरुळप्पॆट्रु ‘‘आद्यस्य नः कुलपतेः’’ ऎन्गिऱप्पडिये प्रपन्नसन्तानकूटस्थरान नम्माऴ्वारुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "ऒण्+++(=भा)+++-+तॊडियाळ्+++(=कुवलयवती)+++ तिरु-मगळ् उम्, नीय् उम् ए निला-निऱ्‌पक्  
+> कण्ड सदिर्+++(=कौशलम्)+++ कण्डु"  
+> (तिरुवाय्मॊऴि 4-9-10.) 
+
+ऎण्ड्ररुळिच्चॆय्दार्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“88 उज्ज्वलाग्रहस्त-वलयायां श्रियां,  
+त्वयि चाधिवसतोर् दृश्यं चातुर्यं दृष्टा "  
+इत्ऒण्-मैनुजग्राह । 
+</details>
+
+<details><summary>English</summary>
+
+"You have[^f253] enabled me to have a vision of Thyself and Thy consort (Lakṣmī ) with the shining bracelets, standing together."
+</details>
+
+<details><summary>Español</summary>
+
+"You have[^f253] enabled me to have a vision of Thyself and Thy consort (Lakṣmī ) with the shining bracelets, standing together."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्‌पक्कण्ड सदिर्गण्डु" (तिरुवाय्मॊऴि 4-9-10.) ऎण्ड्ररुळिच्चॆय्दार्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-विषयत्तिल् वक्तव्यम् ऎल्लाम्  
+चतुश्-श्लोकी-व्याख्यानत्तिल् ए पर-पक्ष-प्रतिक्षेप-पूर्वकम् आगप् परक्कच्+++(=विस्तारेण)+++ चॊन्नोम्.  
+अङ्ग् ए कण्डु-गॊळ्वदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र विषये वक्तव्यं सर्वम् अपि चतुः-श्लोकी-व्याख्याने  
+पर-पक्ष-प्रतिक्षेपपूर्वकं विस्तरेणावोचाम ।  
+तत्रैव द्रष्टव्यम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+We have already stated all that should be said in this connection in our commentary on The Four śloka s (of Yāmunācārya)  
+with a refutation of the views of opponents  
+and refer the reader to the same.
+</details>
+
+<details><summary>Español</summary>
+
+We have already stated all that should be said in this connection in our commentary on The Four śloka s (of Yāmunācārya)  
+with a refutation of the views of opponents  
+and refer the reader to the same.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विषयत्तिल् वक्तव्यमॆल्लाम् चतुश्श्लोकीव्याख्यानत्तिले परपक्षप्रतिक्षेपपूर्वकमागप् परक्कच्चॊन्नोम्. अङ्गे कण्डुगॊळ्वदु.
+</details>
+
+
 
 [^f249]: Viṣṇupurāṇa: 1-8-35
 
@@ -6999,7 +7101,8 @@ And Nammāḻvār, who received the gift of knowledge free from all delusion and
 
 [^f253]: Tiruvoymozhi: 4-9-10
 
-We have already stated all that should be said in this connection in our commentary on The Four śloka s (of Yāmunācārya) with a refutation of the views of opponents and refer the reader to the same.
+
+## उपसंहारः
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
