@@ -285,8 +285,8 @@ to desire the glory due to his essential nature (of rendering service to Bhagav�
 आधेयत्वविधेयत्वशेषत्वाल्प शक्ति-त्वाणुत्वाज्ञानसंशयविपर्ययदुःखादियोग्यत्वाशुभाश्रयत्वादिगळाले युण्डान विशेष्य-भूतेश्वरव्यावृत्तिनिश्चयत्ताले भगवत्कैङ्कर्यरूपमान स्वरूपप्राप्तवैभवत्तै यपेक्षि क्कैक्कु योग्यराय्, 
 </details>
 
-## श्री-मन्त्रार्थतो नाना-विधाहं-कार--मम-कार-निवृत्तिः
-
+## श्री-मन्त्रार्थतो ऽहं-कार-निवृत्तिः
+### म्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वापेक्षित-संग्रहम् आन तिरु-मन्त्रत्तैक् कॊण्डु  
@@ -342,46 +342,201 @@ and of 'mine' in regard to those things that are connected with the body.
 सर्वापेक्षितसंग्रहमान तिरुमन्त्रत्तैक्कॊण्डु सारतमार्थङ्गळै यनुसन्धिक्कुम्-पोदु प्रथमपदत्तिल् तृतीयाक्षरत्ताले प्रतिपन्नमान ज्ञानत्वाद्यनुसन्धानत्ताले देहतदनुबन्धिगळिल् वरुमहङ्कारममकारङ्गळैयुम्,  
 </details>
 
+### आय
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रथमाक्षरत्तिल् लुप्तचतुर्थियाले प्रतिपन्नमान तादर्त्थ्यत्ताले देहातिरिक्तात्मस्वरूप तद्गुणङ्गळिल् “त्वं मेऽहं मे” ऎन्गिऱ श्लोकत्तिन्बडिये तनक्कु उरिमै युण्डाग निनैक्किऱ वहङ्कारममकारङ्गळैयुम्,
+प्रथमाक्षरत्तिल् लुप्त-चतुर्थियाल् ए प्रतिपन्नम् आन तादर्थ्यत्ताल् ए  
+देहातिरिक्तात्म-स्वरूप--तद्-गुणङ्गळिल्  
+“त्वं मे, ऽहं मे” ऎन्गिऱ श्लोकत्तिन्-पडिय् ए  
+तनक्कु उरिमैय्+++(=स्वामित्वम्)+++ उण्ड्-आग निनैक्किऱव् अहङ्कार--ममकारङ् **कळैयुम्**,
+
+(“त्वं मे” “ऽहं मे” “कुतस् तत्” “तद् अपि कुत” “इदं वेद-मूल-प्रमाणात्”
+“एतच् चानादि-सिद्धाद् अनुभव-विभवात्”, “(वेदादिग्रन्थः) सोऽपि साक्रोश एव” ।
+“क्वाक्रोशः, कस्य”, “गीतादिषु, मम”, “विदितः कोऽत्र साक्षी”, “सुधीः स्यात्”
+“हन्त! त्वत्-पक्ष-पाती स” इति नृ-कलहे मृग्य-मध्य-स्थवत् त्वम् (जीव!) ॥ ५॥
+(इति पराशरभट्टाभिषेक-श्लोकः))
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रथमाक्षरे लुप्त-चतुर्थी-प्रतिपन्नेन तादर्थ्येन  
+देहातिरिक्तात्म-स्वरूप--तद्-गुणेषु  
+"त्वं मेऽहं मे" इति श्लोकोक्त-रीत्या  
+स्व-शेषत्वाभिमान-रूपाव् अहं-कार--मम-कारौ,
+
+(“त्वं मे” “ऽहं मे” “कुतस् तत्” “तद् अपि कुत” “इदं वेद-मूल-प्रमाणात्”
+“एतच् चानादि-सिद्धाद् अनुभव-विभवात्”, “(वेदादिग्रन्थः) सोऽपि साक्रोश एव” ।
+“क्वाक्रोशः, कस्य”, “गीतादिषु, मम”, “विदितः कोऽत्र साक्षी”, “सुधीः स्यात्”
+“हन्त! त्वत्-पक्ष-पाती स” इति नृ-कलहे मृग्य-मध्य-स्थवत् त्वम् (जीव!) ॥ ५॥
+(इति पराशरभट्टाभिषेक-श्लोकः))
+</details>
+
+<details><summary>English</summary>
+
+Similarly from the dative or the fourth case of the first syllable "a"  
+where the dative termination has been dropped ((i.e.) from aya),  
+we should learn that the Jīva exists for Iśvara  
+and thereby, completely and without any trace,  
+give up the erroneous notion implicit and explicit in the words 'I' and 'mine' in regard to the following -  
+
+- the action of 'I' in regard (even) to the soul as distinct from the body,  
+- that it is śeṣa to oneself and the notion of 'mine' in regard to the attributes of the soul (such as this jñāna is mine). 
+
+In this connection we should remember (Bhattar's) śloka  (written in the form of an imaginary dialogue between Iśvara and the Jīva   which reads as follows:-)
+
+> "Bhagavān: You are mine.  
+The Jīva   : I exist (only) for myself.  
+Bhagavān: Where is it stated ?  
+The Jīva: Where is the opposite stated ?  
+Bhagavān: In the original pramāṇa : the Veda.  
+The Jīva  : The opposite view is based on the strength of my own enjoyment of myself from beginning less time.  
+Bhagavān: But protests have been recorded then and there.  
+The Jīva   : Where is it objected to ? and by whom?'  
+Bhagavān: The protest or objection was made in such works as the Gita and it was made by me.  
+The Jīva  : Is there any witness ?  
+Bhagavān: The wise man.  
+The Jīva   : But he is an interested witness.  
+Thus in this dispute between Bhagavān and the Jīva  , the need arises for an arbitrator."
+</details>
+
+<details><summary>Español</summary>
+
+Similarly from the dative or the fourth case of the first syllable "a"  
+where the dative termination has been dropped ((i.e.) from aya),  
+we should learn that the Jīva exists for Iśvara  
+and thereby, completely and without any trace,  
+give up the erroneous notion implicit and explicit in the words 'I' and 'mine' in regard to the following -  
+
+- the action of 'I' in regard (even) to the soul as distinct from the body,  
+- that it is śeṣa to oneself and the notion of 'mine' in regard to the attributes of the soul (such as this jñāna is mine). 
+
+In this connection we should remember (Bhattar's) śloka  (written in the form of an imaginary dialogue between Iśvara and the Jīva   which reads as follows:-)
+
+> "Bhagavān: You are mine.  
+The Jīva   : I exist (only) for myself.  
+Bhagavān: Where is it stated ?  
+The Jīva: Where is the opposite stated ?  
+Bhagavān: In the original pramāṇa : the Veda.  
+The Jīva  : The opposite view is based on the strength of my own enjoyment of myself from beginning less time.  
+Bhagavān: But protests have been recorded then and there.  
+The Jīva   : Where is it objected to ? and by whom?'  
+Bhagavān: The protest or objection was made in such works as the Gita and it was made by me.  
+The Jīva  : Is there any witness ?  
+Bhagavān: The wise man.  
+The Jīva   : But he is an interested witness.  
+Thus in this dispute between Bhagavān and the Jīva  , the need arises for an arbitrator."
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तनक्कुरिमैयुण्डाग निनैक्किऱ - उरिमै - शेषत्वम्; तनक्कु शेषत्वमुळ्ळ ताग निनैक्किऱ, स्वभिन्नवस्तुक्कळिल् स्वशेषत्वज्ञानम् अयं मम पुत्रः, इदं मम गृहं इत्यादिकळिले प्रसिद्धमानालुम् स्वस्वरूपत्तिल् स्वशेषत्वज्ञानमुण्डागुमोवॆण्ड्रु शङ्गियामैक्काग मुन्बे अभियुक्तश्लोकत्तैक् काट्टियरुळिनार्. त्वमेऽहं मे ऎन्गिऱ श्लोकत्तिन् पडिये इति । ‘‘त्वम्मेऽहम्मे कुतस्तत्तदपि कुत इदं वेदमूलप्रमाणादेतच्चानादिसिद्धादनुभवविभवात्तर्हि साक्रोश एव । क्वाक्रोशः कस्य गीतादिषु मम विदितः कोऽत्र साक्षी सुधीः (नरः) स्याद्धन्त त्वत्पक्षपाती स इति नृकलहे मृग्यमध्यस्थवत्त्वम् ॥’’ ऎन्गिऱ श्लोकत्तिन्बडिये ऎण्ड्रबडि. इदिल् अहम्मे ऎन्गिऱ कलहत्तैच् चॊल्लियिरुप्पदाल् शब्दव्यवहाररूपमान इन्द कलहम् अहंमे ऎन्गिऱ व्यवहर्तव्यज्ञानमण्ड्रिक्के उण्डागादागैयाल् तनक्कु स्वशेषत्वज्ञानमुण् डॆन्बदिलिदु प्रमाणमागलाम्. साक्रोशः – आक्षेपयुक्तमानदु. मृग्यमध्यस्थवत् – ‘‘प्रमाणं कर्तमुद्युक्तो मृग्यमध्यस्थ ईरितः’’, तद्वत् । अहङ्कारममकारङ्गळै – स्वस्वरूपत्तिल् तनक्कुरिमै युण्डाग निनैक्कै अहङ्कारम्. स्वभिन्नवस्तुविल् तनक्कुरिमैयुण्डाग निनैक्कै ममकारम्. 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 प्रथमाक्षरत्तिल् लुप्तचतुर्थियाले प्रतिपन्नमान तादर्त्थ्यत्ताले देहातिरिक्तात्मस्वरूप तद्गुणङ्गळिल् “त्वं मेऽहं मे” ऎन्गिऱ श्लोकत्तिन्बडिये तनक्कु उरिमै युण्डाग निनैक्किऱ वहङ्कारममकारङ्गळैयुम्,
 </details>
 
+### उ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Similarly from the dative or the fourth case of the first syllable a where the dative termination has been dropped ((i.e.) from aya), we should learn that the Jīva   exists for Iśvara and thereby, completely and without any trace, give up the erroneous notion implicit and explicit in the words 'I' and 'mine' in regard to the following the action of 'I' in regard (even) to the soul as distinct from the body, that it is śeṣa to oneself and the notion of 'mine' in regard to the attributes of the soul (such as this jñāna is mine). In this connection we should remember (Bhattar's) śloka  (written in the form of an imaginary dialogue between Iśvara and the Jīva   which reads as follows:-)
+मध्यमाक्षरत्तिल् अवधारणार्थत्ताल् ए  
+"अन्य-शेष-भूतोऽहं" ऎण्ड्रुम्,  
+"ममान्यश् शेषी" ऎण्ड्रुम्  
+वरुम् अहङ्कार--ममकारङ्गळैय् उम्,
+</details>
 
-"Bhagavān: You are mine.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-The Jīva   : I exist (only) for myself.
+मध्यमाक्षरेऽवधारणार्थेन "अन्यशेषभूतोऽहम् " इति  
+" ममान्यः शेषी" इति च प्रवर्तमानाव् अहंकार-ममकारौ,  
+</details>
 
-Bhagavān: Where is it stated ?
 
-The Jīva: Where is the opposite stated ?
+<details><summary>English</summary>
 
-Bhagavān: In the original pramāṇa : the Veda.
+With a knowledge of the meaning of u in aum, which means 'only',  
+we should root out the notion of 'I' in thinking "I am the śeṣa of others (those other than Bhagavān)  
+and the notion of ‘mine' in thinking, "Another (and not Bhagavān ) is my śeṣī."  
+</details>
 
-The Jīva  : The opposite view is based on the strength of my own enjoyment of myself from beginning less time.
+<details><summary>Español</summary>
 
-Bhagavān: But protests have been recorded then and there.
+With a knowledge of the meaning of u in aum, which means 'only',  
+we should root out the notion of 'I' in thinking "I am the śeṣa of others (those other than Bhagavān)  
+and the notion of ‘mine' in thinking, "Another (and not Bhagavān ) is my śeṣī."  
+</details>
 
-The Jīva   : Where is it objected to ? and by whom?'
+<details><summary>सायण-टीका</summary>
 
-Bhagavān: The protest or objection was made in such works as the Gita and it was made by me.
+मध्यमाक्षरत्तिल् अवधारणार्थत्ताले - उकारप्रतिपाद्यमान अवधारणत्ताले. 
 
-The Jīva  : Is there any witness ?
+उकारत्तुक्कु लक्ष्मीयुम् अर्थमागैयाल् मध्यमाक्षरत्तिल् अर्थत्ताले ऎण्ड्रु सॊल्लामल् अवधारणार्थत्ताले ऎण्ड्रदु. इदऱ्‌कुम् अडियऱुत्तु ऎन्बदोडन्वयम्. 
 
-Bhagavān: The wise man.
+अन्यशेषभूतोऽहमॆण्ड्रुम् ममान्यश्शेषीयॆण्ड्रुम् वरुम् अहङ्कारममकारङ्गळैयुमिति । उभयत्राप्यन्यपदम् भगवद्व्यतिरिक्तपरम्. अन्यशेषभूतोऽहमॆन्गिऱ अभिलापकशब्दत्तिल् अहं पदम् घटक मायिरुप्पदाल् इदनाल् वरुम् ज्ञानविशेषत्तै अहङ्कारमॆन्गिऱदु. ममान्यश्शेषी ऎन्गिऱ अभिलापकशब्दत्तिल् ममपदम् घटकमायिरुप्पदाल् इदनाल् वरुम् ज्ञानविशेषत्तै ममकारमॆन्गिऱदु. 
 
-The Jīva   : But he is an interested witness.
+</details>
 
-Thus in this dispute between Bhagavān and the Jīva  , the need arises for an arbitrator."
 
-With a knowledge of the meaning of u in aum, which means 'only', we should root out the notion of 'I' in thinking "I am the śeṣa of others (those other than Bhagavān) and the notion of ‘mine' in thinking, "Another (and not Bhagavān ) is my śeṣī." By an understanding of the negation contained in the middle word (viz. namo, na mama ) which declares that there is no such thing as independence for the Jīva  , we should rid ourselves of the notion of 'I' in thinking that in respect of the means of securing one's own protection, one is wholly independent' and the notion of 'mine' in thinking that this act or activity for securing protection is unconditionally 'one's.' By the force of this very negation (na mama ), we should give up erroneous notions that may exist in regard to the fruit (of the upāya), which consists in future enjoyment (in Vaikuṇṭha  ) extending up to the service of the Lord, which is the meaning of the dative in the third word (Nārāyanāya) - erroneous notions of 'I' in thinking on the analogy of other fruits enjoyed here (in this world), "I will be the independent doer” and “I will be the enjoyer subject to no one else " and "mine" in thinking "I do this for myself" and "I enjoy this for myself". (These notions of 'I' and 'mine' in varied situations should be completely rooted out by considering the meanings, implicit and explicit, in the several words of the Tirumantra.) Thus one should become well established in right knowledge and should say to oneself in the words of the Alwars, " Having enjoyed the pleasures of sense and found them petty, I have now given them up and found relief." "The pleasures of the five senses in seeing, hearing, touching, smelling and tasting and, so also, the unlimited but inferior enjoyment of one's own self (ātmānubhava), which is not capable of being realised by the senses, have been given up by me.” “When He is gracious, what is there difficult of attainment? I have had enough of dharma, artha and kama. They are petty." "The fruits obtained by these weak-minded men are temporary and end after a short time.' "Having come into this world which is not eternal and is full of misery, seek me as your refuge." "Having heard of those who were mighty and valiant and of those who had immense treasures of wealth and who, after the lapse of some time, have left nothing behind them but tales of their lives, the wise man never considers as 'his', sons, wives, houses, land and the like, nor Wealth". "The world is all misery”. “Even in Svarga, since there is fear of a fall after the expiry of the ordained period, there is no happiness". "It is only fools who hanker after kingdoms, thinking that they are theirs. Men like me never long for them, because they are not intoxicated by the strong liquor of egotism the sense of 'I')." "From the mansion of Brahma downwards, O sage, these evils exist; therefore the wise never desire the attainment of Svarga." "Above the mansion of Brahma, there lies the supreme world of Viṣṇu, which is pure, eternal, full of supreme splendour and is called the Supreme Brahman. Fools, deluded by the pleasures of the senses and tormented by vanity, covetousness, arrogance, anger, perfidy and delusion never go to that world. Only good men without possessiveness and egotism, who remain indifferent to the pairs of opposites (like pleasure and pain, heat and cold and the like), who have full control over their senses, and who are devoted to Yogic meditation go there." "In that world are beautiful vimanas (airships) which can travel as they please, Assembly halls, gardens of varied kinds, O king, and, likewise lotus tanks, full of pellucid water.” “ Compared with that world of the Supreme Being, these lower worlds (of Brahma and Indra) are like hell." From these and other sayings, the Jīva   should realise the seven kinds of evil inherent in the enjoyment of non-sentient things, viz. their littleness, their instability, their origin in pain, their being mingled with pain, their resulting ultimately in pain, their origin being due to a perverse egotism and their being opposed to the bliss which is his nature. He should also realise such of these evils as are inherent in the enjoyment of one's self, ātmānubhava. He should then realise, with clear vision, the unique character of the enjoyment of the bliss of Bhagavān, which, in every one of these respects, is opposed to them. He would then attain the condition of "one who longs eagerly for the Supreme Being and who, consequently, is averse from things that are other than the Supreme Being. He would then abstain from activity whose characteristics Brahma is said to have described (as leading to fruits other than mokṣa ) and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
+<details><summary>मूलम्</summary>
+
+मध्यमाक्षरत्तिल वधारणार्त्थत्ताले अन्यशेषभूतोऽहं ऎण्ड्रुम्,  
+ममान्यश्शेषी ऎण्ड्रुम् वरुमहङ्कार-ममकारङ्गळैयुम्,
+</details>
+
+### न
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मध्यम-पदत्तिल्  
+प्रतिपन्नम् आन निषेध-विशेषत्ताल् ए  
+स्व-रक्षण-व्यापारत्तैप् पट्र वरुम्  
+निरपेक्ष-स्वातन्त्र्य--निरुपाधिक-शेषित्वाभिमान-रूपङ्गळ् आनव् अहङ्कार-ममकारङ् **कळैयुम्**,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मध्यम-पद-प्रतिपन्नेन निषेध-विशेषेण  
+स्व-रक्षण-व्यापार-विषये पर्वतमानौ  
+निरपेक्ष-स्वातन्त्र्य--निरुपाधिक-शेषित्वाभिमान--रूपाव् अहंकार-ममकारौ,  
+</details>
+
+<details><summary>English</summary>
+
+By an understanding of the negation contained in the middle word (viz. namo, na mama )  
+which declares that there is no such thing as independence for the Jīva  ,  
+we should rid ourselves of the notion of 'I' in thinking that  
+in respect of the means of securing one's own protection, one is wholly independent  
+and the notion of 'mine' in thinking that this act or activity for securing protection is unconditionally 'one's.' 
+</details>
+
+<details><summary>Español</summary>
+
+By an understanding of the negation contained in the middle word (viz. namo, na mama )  
+which declares that there is no such thing as independence for the Jīva  ,  
+we should rid ourselves of the notion of 'I' in thinking that  
+in respect of the means of securing one's own protection, one is wholly independent  
+and the notion of 'mine' in thinking that this act or activity for securing protection is unconditionally 'one's.' 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मध्यमपदम् - नमस्सु । निषेधविशेषत्ताले इति । स्वातन्त्र्यमॆन्गिऱ ओर् पदत्तै इत्तुडन् योजित्तु अदनाल् वरुम् न मम स्वातन्त्र्यमॆन्गिऱ निषेधविशेषत्तालुम्, शेषित्वमॆन्गिऱ पदत्तै योजित्तु अदनाल् वरुम् न मम शेषित्व मॆन्गिऱ निषेधविशेषत्तालुमॆण्ड्रबडि. इदऱ्‌कुम् अडियऱुत्तु ऎन्बदोडन्वयम्. स्वरक्षणव्यापारत्तैप्पट्रवरुम् - स्वरक्षणार्थस्वव्यापारमान उपायत्तैप् पट्र वरुम्. निरपेक्षस्वातन्त्र्यनिरुपाधिकशेषित्वाभिमानरूपङ्गळान - स्वरक्षणव्यापारे निरपेक्षस्वतन्त्रोऽहं, निरुपाधिकशेष्यहमॆण्ड्रु वरुमदु अहङ्कारम्. स्वरक्षार्थव्यापारे मम निरपेक्षस्वातन्त्र्यं, ममनिरुपाधिकशेषित्वमॆण्ड्रु वरुमदु ममकारम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मध्यमपदत्तिल् प्रतिपन्नमान निषेधविशेषत्ताले स्वरक्षणव्यापारत्तैप् पट्र वरुम् निरपेक्षस्वातन्त्र्यनिरुपाधिकशेषित्वाभिमानरूपङ्गळान वहङ्कारममकारङ्गळैयुम्,
+</details>
+
+
+
+
+By the force of this very negation (na mama ), we should give up erroneous notions that may exist in regard to the fruit (of the upāya), which consists in future enjoyment (in Vaikuṇṭha  ) extending up to the service of the Lord, which is the meaning of the dative in the third word (Nārāyanāya) - erroneous notions of 'I' in thinking on the analogy of other fruits enjoyed here (in this world), "I will be the independent doer” and “I will be the enjoyer subject to no one else " and "mine" in thinking "I do this for myself" and "I enjoy this for myself". (These notions of 'I' and 'mine' in varied situations should be completely rooted out by considering the meanings, implicit and explicit, in the several words of the Tirumantra.) Thus one should become well established in right knowledge and should say to oneself in the words of the Alwars, " Having enjoyed the pleasures of sense and found them petty, I have now given them up and found relief." "The pleasures of the five senses in seeing, hearing, touching, smelling and tasting and, so also, the unlimited but inferior enjoyment of one's own self (ātmānubhava), which is not capable of being realised by the senses, have been given up by me.” “When He is gracious, what is there difficult of attainment? I have had enough of dharma, artha and kama. They are petty." "The fruits obtained by these weak-minded men are temporary and end after a short time.' "Having come into this world which is not eternal and is full of misery, seek me as your refuge." "Having heard of those who were mighty and valiant and of those who had immense treasures of wealth and who, after the lapse of some time, have left nothing behind them but tales of their lives, the wise man never considers as 'his', sons, wives, houses, land and the like, nor Wealth". "The world is all misery”. “Even in Svarga, since there is fear of a fall after the expiry of the ordained period, there is no happiness". "It is only fools who hanker after kingdoms, thinking that they are theirs. Men like me never long for them, because they are not intoxicated by the strong liquor of egotism the sense of 'I')." "From the mansion of Brahma downwards, O sage, these evils exist; therefore the wise never desire the attainment of Svarga." "Above the mansion of Brahma, there lies the supreme world of Viṣṇu, which is pure, eternal, full of supreme splendour and is called the Supreme Brahman. Fools, deluded by the pleasures of the senses and tormented by vanity, covetousness, arrogance, anger, perfidy and delusion never go to that world. Only good men without possessiveness and egotism, who remain indifferent to the pairs of opposites (like pleasure and pain, heat and cold and the like), who have full control over their senses, and who are devoted to Yogic meditation go there." "In that world are beautiful vimanas (airships) which can travel as they please, Assembly halls, gardens of varied kinds, O king, and, likewise lotus tanks, full of pellucid water.” “ Compared with that world of the Supreme Being, these lower worlds (of Brahma and Indra) are like hell." From these and other sayings, the Jīva   should realise the seven kinds of evil inherent in the enjoyment of non-sentient things, viz. their littleness, their instability, their origin in pain, their being mingled with pain, their resulting ultimately in pain, their origin being due to a perverse egotism and their being opposed to the bliss which is his nature. He should also realise such of these evils as are inherent in the enjoyment of one's self, ātmānubhava. He should then realise, with clear vision, the unique character of the enjoyment of the bliss of Bhagavān, which, in every one of these respects, is opposed to them. He would then attain the condition of "one who longs eagerly for the Supreme Being and who, consequently, is averse from things that are other than the Supreme Being. He would then abstain from activity whose characteristics Brahma is said to have described (as leading to fruits other than mokṣa ) and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
