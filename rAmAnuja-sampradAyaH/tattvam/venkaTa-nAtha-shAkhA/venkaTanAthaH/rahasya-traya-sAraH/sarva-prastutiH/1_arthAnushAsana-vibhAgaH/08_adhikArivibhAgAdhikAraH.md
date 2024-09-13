@@ -378,19 +378,138 @@ who seek the protection of the emperor by repeating the words taught to them by 
 पूर्णप्रपत्तिगर्भम् आनव् आचार्योपदिष्ट-वाक्यत्तैच् चॊल्लुगै इत्यनुक्त्वा  
 वाक्यत्ताले ऎण्ड्रु तृतीयोक्तियालुम्  
 ऎन्नुडैय रक्षै इत्याद्यधिकोक्तियालुम् वाक्यत्तिऱ्‌कु पूर्णप्रपत्तिगर्भत्वम्बोले निरपेक्षरक्षाभरस्वीकरणयाच्नात्मकत्वमप्यावश्यकमॆण्ड्रु द्योतितमागिऱदु. तथा च पूर्णप्रपत्तिगर्भनिरपेक्षरक्षाभरस्वीकरणयाच्नात्मकवाक्योच्चारणमेव उक्तिनिष्ठेति निर्णीतं भवति ।
+
+स्वतन्त्रनिष्ठैयिल् भरसमर्पणत्तिऱ्‌कुप्पोल् ए  
+उक्तिनिष्ठैयिल् याच्ञाया एव प्राधान्यं आचार्याभिमतम्.  
+आगैयालेयिऱे श्रीमद्-अभय-प्रदान-सारे सकृदेवेति श्लोकव्याख्यानावसरे  
+‘‘प्रपन्नाय ऎण्ड्रु मानसमाय्, याचते ऎण्ड्रु वाचिकमागवुमाम्" ऎण्ड्रनुगृहीतम्.  
+इप्पडिये निक्षेपरक्षैयिलुम्.  
+ऎन्नुडैय रक्षै इत्यादिवाक्यत्तिल् उक्त्यधिकारिक्कुम् भरसमर्पणमे कर्तव्यतया विवक्षितमॆण्ड्रु सॊल्लक्कूडादोवॆन्निल्, अप्पडियागिल्
+
+> ‘‘अहम् मद्रक्षण भरो मद्-रक्षण-फलन् तथा । न मम श्रीपतेर् एव’’
+
+ऎन्गिऱव् इडत्तिऱ्-‌पोल्  
+"ऎन्नुडैय रक्षै उनक्के भरम्" ऎन्गै ऎण्ड्रे वचनव्यक्तियिरुक्कवेण्डुम्.  
+न तु "ऎन्नुडैय रक्षै उनक्के भरमाग एऱिट्टुक्कॊळ्ळवेणुम्" इति ।   
+न हि भर-स्वीकर्तृत्व-प्रार्थना भरन्यासो भवितुम् अर्हति -  
+तस्याः मानस-प्रपत्ताव् अङ्गि-विशेषणत्वात् ।  
+तथा च उपायत्व-प्रार्थनानुष्ठेयत्वोक्तेस्  
+सर्वत्र अधिकारि-कोटि-निविष्ट-साधारण-फल-प्रार्थनायां तात्पर्यम्  
+इति वदतां मते तु  
+तस्यास् सुतरां न भर-समर्पणत्व-गन्धोऽपि ।  
+किञ्च, "उक्तिय् आवदु" ऎण्ड्र् आरम्बित्तु "ऎन्न्-उडैय रक्षै उनक्के भरमाग एऱिट्टुक् कॊळ्ळवेण्डुम् ऎण्ड्रनुसन्धिक्कै" ऎण्ड्रु सॊन्नाल् उक्तिक्कु अनुसन्धानरूपत्वाभावाद्वह्निना सिञ्चतीति वदेतद्वाक्यमप्रमाणं स्यात् ।  
+एऱिट्टुक्कॊळ्ळवेणुम् ऎन्गै इत्यस्य एऱिट्टुक् कॊळ्ळवेणुमॆण्ड्रु याचिक्कै इत्यर्थकरणे च याच्ञायाश्शब्दशक्तिप्रकाशिकादिनिर्णीतप्रकारेण शब्दरूपत्वेनान्वययोग्यत्वाऽबाधः ।  
+‘‘तवास्मीति च याचते’’  
+‘‘बद्धाञ्जलिपुटं दीनं याचन्तं शरणागतं’’  
+‘‘भक्तिः प्रपत्तिरथवा भगवंस् तदुक्तिः’’  
+‘‘सिद्धा तदुक्तिरनघा’’  
+‘‘शरणमित्यपि वाचमुदैरिरम्’’   इत्यादि प्रमाणश्रीसूक्तीनामुक्तिनिष्ठायामुक्तिप्राधान्यवादिनीनामत्यन्तानुगुण्यञ्च भवति ।  
+न हि सर्वत्रोक्तिशब्दस्यानुसन्धानलक्षणास्वीकरणं प्रामाणिकम् ।  
+तथा सति ‘‘भगवंस्तदुक्तिः’’ ‘‘सिद्धा तदुक्तिः’’ ‘‘शरणागतिशब्दभाजः’’ । इत्यादि स्थलङ्गळिल् तच्छब्दाद्यर्थमुम् भरसमर्पणमाय्, उक्तिशब्दाद्यर्थमुम् भरसमर्पणमानाल् विषयिविषयभावबोधनमण्ड्रिक्के प्रपत्ति प्रपत्ति ऎण्ड्रनन्वितशब्दोच्चारणमाग मुडियुम्. इङ्गु सॊल्लवेण्डिय विशेषविषयङ्गळैयॆल्लाम् अस्मत्कृतोक्तिनिष्ठाभरणादिकळिल् कण्डुगॊळ्वदु. 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
 इवट्रिल् उक्तियावदु आनुकूल्यसङ्कल्पाद्यङ्गङ्गळिल् वैशद्यमिल्लादार् अवनैयॊऴियप् पोक्कट्रु निऱ्‌किऱ अधिकारमुम्
-अपेक्षित्ताल् रक्षिक्कुमॆन्गिऱ विश्वासमुमुडैयराय्क्कॊण्डु शरण्यनऱिय पूर्णप्रपत्तिगर्भमान आचार्योपदिष्टवाक्यत्ताले तादिमार्सॊन्न पासुरत्तैच् चॊल्लि सार्वभौमनै शरणम्बुगुम् मुग्धरान सामन्तकुमारर्गळैप्पोले यॆन्नुडैय रक्षैयुनक्के भरमाग वेऱिट्टुक्कॊळ्ळवेणुमॆन्गै.
+अपेक्षित्ताल् रक्षिक्कुमॆन्गिऱ विश्वासमुमुडैयराय्क्कॊण्डु शरण्यनऱिय पूर्णप्रपत्तिगर्भमान आचार्योपदिष्टवाक्यत्ताले तादिमार्सॊन्न पासुरत्तैच् चॊल्लि सार्वभौमनै शरणम्बुगुम् मुग्धरान सामन्तकुमारर्गळैप्पोले यॆन्नुडैय रक्षैयुनक्के भरमागवेऱिट्टुक्कॊळ्ळवेणुमॆन्गै.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पद-वाक्यादि-वृत्तान्तम् अऱियाद बालन्  
+ऒरुक् काल् "भवति! भिक्षां देहि" ऎण्ड्राल्  
+आढ्यर् आन सत्तुक्कळ् अगत्तिल् ए  
+अप्पोद् ए अपेक्षित-सिद्धिय् उण्डाम् आप्-पोल् ए  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पद-वाक्यादि-वृत्तान्तानभिज्ञेन बालेन जातु,  
+"भवति भिक्षां देहि" इत्युक्ते सति  
+आढ्यानां सतां गृहेषु तदैवापेक्षित-सिद्धिर् यथा भवति —  
+</details>
 
 
-If a little boy who does not understand the meaning of words and sentences says, once, " Madam, give me food as alms", it meets: with immediate and favourable response in the houses of good men who are well.to do. In the same way, it has been said, The Lord, whose wealth never suffers any diminution, however much He may give, will also grant whatever is prayed for". Since He is supremely rich and generous, even this utterance or ukti will never be fruitless. In the case of those who are ignorant and who depend entirely on this utterance, the compassion of the Lord, who is the refuge of all, cannot ignore even this mere utterance (as it cannot digest it); for it has been said, “Whatever may be the manner or form, you have uttered the Dvaya Mantra. Therefore your redemption is my responsibility." This truth has been stated by those who are well versed (in the śāstra s) in such śloka s as the following: "Though I am a sinner, it will not become Thee, who art the Lord of all, to neglect me when I utter the words stating that I seek Thy refuge." "This speech of mine expressing the thought that I seek refuge under Thee is not uttered with all my mind and with all my heart. I can be saved only if even this mere utterance will secure Thy compassion." "I long to see Thee by merely uttering the words of prapatti - Thee who canst not be attained by bhakti." The state of one who performs prapatti by utterance (ukti), and that of one who depends solely on the ācārya  have both been described in the same śloka  as follows:- "I have been made Thy responsibility by my ācārya s who follow the way of dharma. I have also (myself) uttered the word seeking refuge. Taking this into consideration, O, Lord of Śrīraṅgam, make me Thy burden or responsibility" The word api (also) in the śloka  indicates that any one of the two will suffice.
+<details><summary>English</summary>
+
+If a little boy who does not understand the meaning of words and sentences says  once,  
+" Madam, give me food as alms",  
+it meets with immediate and favourable response in the houses of good men who are well to do. 
+</details>
+
+<details><summary>Español</summary>
+
+If a little boy who does not understand the meaning of words and sentences says  once,  
+" Madam, give me food as alms",  
+it meets with immediate and favourable response in the houses of good men who are well to do. 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि अज्ञातार्थमान इव्वुक्तिमात्रत्तुक्कुम् फलसिद्धियुण्डोवॆन्न दृष्टान्तप्रदर्शनत्ताले फलसिद्धियैयुपपादिक्किऱार् पदवाक्यवृत्तान्तमऱियाद इत्यादियाल्.  
+बालर्गळुक्कु भिक्षामन्त्रत्तिनुडैय पदार्थज्ञानमुम् वाक्यार्थज्ञानमुमिल्लाविडिनुम् इन्द मन्त्रत्तैच्चॊन्नाल् भिक्षै पोडुवार्गळॆन्गिऱ सामान्यज्ञानत्तैक्कॊण्डु ‘‘भवति भिक्षान्देहि’’ ऎन्गिऱ मन्त्रत्तैच् चॊन्नाल् लोकत्तिल् फलसिद्धि काण्गैयाल् वैदिकधर्मङ्गळॆल्लावट्रिऱ्‌कुम् मन्त्रङ्गळिल् सम्यक्ज्ञानापेक्षानियममिल्लैयॆण्ड्रु करुत्तु. दरिद्रर्गळान सत्तुक्कळ् वीट्टिल् अन्नाभावत्ताले भिक्षाप्रत्याख्यानम् काणविल्लै योवॆण्ड्रु शङ्कियामैक्काग आढ्यरान इति । असत्तुक्कळान आढ्यर्गळगत्तिलुम् भिक्षाप्रत्याख्यानम् काणविल्लैयोवॆण्ड्रु शङ्कियामैक्काग सत्तुक्कळिति. अगत्तिले - गृहत्तिले. अप्पोदे - अपेक्षितकालत्तिलेये. अपेक्षितसिद्धि – भिक्षारूप-फलसिद्धि, उण्डामाप्पोले इति । इदु पूर्णोपमै. ऎन्गैयॆन्बदै ऎण्ड्रनुसन्धिक्कैयॆण्ड्रु सॊल्लुमवर्गळुक्कु भवति भिक्षान्देहि ऎन्गिऱ वाक्यदृष्टान्तत्ताले फलाविनाभावसमर्थनम् कथञ्चिदपि घटियादु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पदवाक्यादिवृत्तान्तमऱियाद बालन् ऒरुक्काल् "भवति! भिक्षां देहि" ऎण्ड्राल् आढ्यरान सत्तुक्कळगत्तिले अप्पोदे अपेक्षितसिद्धि युण्डामाप्पोले  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "+++(परैः)+++ कॊळ्ळक् कुऱैव्+++(=न्यूनता)+++-इलन्  
+> वेण्ड्-इट्र् ऎल्लान् तरुम्"(तिरुवाय्मॊऴि 3-9-5.)   
+
+ऎन्नुम् पडिय् इरुक्किऱ परिपूर्ण--परमोदार-+++(ब्रह्म)+++-विषयत्तिल्  
+इव्व्-उक्तिक्क् उम् फलाविनाभावम् उण्डु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथा, 
+
+> "+++(परैर्)+++ ग्रहणेऽपि न्यूनता-हीनो  
+> ऽपेक्षितं सर्वं ददत् " 
+
+इत्य्-उक्त--स्व-भावस्य परिपूर्ण-परमोदारस्य +++(ब्रह्मणो)+++ विषये  
+ऽस्याः उक्तेर् अपि फलाविनाभावो भवति ।  
+</details>
+
+<details><summary>English</summary>
+
+In the same way, it has been said, 
+
+> The Lord, whose wealth never suffers any diminution,  
+> however much He may give,  
+> will also grant whatever is prayed for. 
+
+</details>
+
+<details><summary>Español</summary>
+
+In the same way, it has been said, 
+
+> The Lord, whose wealth never suffers any diminution,  
+> however much He may give,  
+> will also grant whatever is prayed for. 
+
+Since He is supremely rich and generous,  
+even this utterance or ukti will never be fruitless.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"कॊळ्ळक्कुऱैविलन् वेण्डिट्रॆल्लान्दरु"(तिरुवाय्मॊऴि 3-9-5.) मॆन्नुम्बडियिरुक्किऱ परिपूर्णपरमोदारविषयत्तिलिव्वुक्तिक्कुम् फलाविनाभावमुण्डु. 
+</details>
+
+
+In the case of those who are ignorant and who depend entirely on this utterance, the compassion of the Lord, who is the refuge of all, cannot ignore even this mere utterance (as it cannot digest it); for it has been said, “Whatever may be the manner or form, you have uttered the Dvaya Mantra. Therefore your redemption is my responsibility." This truth has been stated by those who are well versed (in the śāstra s) in such śloka s as the following: "Though I am a sinner, it will not become Thee, who art the Lord of all, to neglect me when I utter the words stating that I seek Thy refuge." "This speech of mine expressing the thought that I seek refuge under Thee is not uttered with all my mind and with all my heart. I can be saved only if even this mere utterance will secure Thy compassion." "I long to see Thee by merely uttering the words of prapatti - Thee who canst not be attained by bhakti." The state of one who performs prapatti by utterance (ukti), and that of one who depends solely on the ācārya  have both been described in the same śloka  as follows:- "I have been made Thy responsibility by my ācārya s who follow the way of dharma. I have also (myself) uttered the word seeking refuge. Taking this into consideration, O, Lord of Śrīraṅgam, make me Thy burden or responsibility" The word api (also) in the śloka  indicates that any one of the two will suffice.
 
 ĀCĀRYANISHȚHĀ ;
 
