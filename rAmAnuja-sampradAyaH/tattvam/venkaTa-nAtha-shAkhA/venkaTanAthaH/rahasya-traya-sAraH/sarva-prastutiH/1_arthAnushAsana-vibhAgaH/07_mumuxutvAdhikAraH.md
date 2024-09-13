@@ -1877,7 +1877,19 @@ it is only these that will secure the glory described in passages like the follo
 
 <details><summary>Español</summary>
 
-> The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
+> The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings).
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+> द्रवन्ति दैत्याः प्रणमन्ति देवताः  
+> नश्यन्ति रक्षांस्य् अपयान्त्यथारयः ।  
+> यत्कीर्तनात् सोऽद्भुतरूपकेसरी  
+> ममाऽस्तु माङ्गल्यविवृद्धये हरिः, 
+
+इत्यादिकळिल् सॊल्लुमेट्रम् पॆऱुवर्गळिति ।  
+देवतैगळुमवने ब्राह्मणन् ऎण्ड्र् अऱियुम्बडिय् आयुम्  
+देवतैगळॆल्लाम् नमस्करिक्कुम्बडियायुमुळ्ळ एट्रत्तैप् पॆऱुवर्गळॆण्ड्रबडि.  
 </details>
 
 
@@ -1893,15 +1905,57 @@ it is only these that will secure the glory described in passages like the follo
 </details>
 
 
-
+## उपसंहारः
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-निण्ड्रबुराणनडियिणैयेन्दु नॆडुम्बयनुम्  
-पॊण्ड्रुदले निलैयॆण्ड्रिडप् पॊङ्गुम् पवक्कडलुम्  
-नण्ड्रिदु तीयदिदॆण्ड्रु नविण्ड्रवर् नल्लरुळाल्  
-वॆण्ड्रु पुलन्गळै वीडिनै वेण्डुम् पॆरुम्बयने. // 14 //
+"निण्ड्र पुराणन् अडिय्-इणैय्+++(=युग्म)+++ एन्दु+++(=उन्नीय)+++ नॆडुम्+++(=नित्य)+++ पयन्+++(=फलम्)+++ उम्,  
+पॊण्ड्रुदल्+++(=नाश)+++ ए निलैय् ऎण्ड्र् इडप्+++(=वाच्य)+++ पॊङ्गुम् भवक्-कडलुम्,  
+नण्ड्र्+++(=साध्व्)+++ इदु, तीयद्+++(=दुष्टम्)+++ इद्" ऎण्ड्रु नविण्ड्र्+++(=वाचक)+++-अवर् नल्ल्-अरुळाल्  
+वॆण्ड्रु+++(=जिवा)+++ पुलन्गळै+++(=इन्द्रियाणि)+++ वीडिनै+++(=मोक्षम्)+++ वेण्डुम् पॆरुम्-बयन्+++(=फलम्)+++ ए. // 14 //
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(अधिकारार्थसंग्राहकगाथा )  
+( श्रिया ) स्थित-पुराण-(पुरुष)-पाद-द्वन्द्वोत्तंसन-रूपं नित्य-फलम्  
+नाश एव स्वभाव इति कथनार्हतया जृम्भमाणं भव-समुद्रम्,  
+सद् इदं, दुष्टम् इदम् इत्य् उपदिष्टवतां  
+समीचीन-कृपया जित्वेन्द्रियाणि मोक्षम् एवापेक्षेत महाफलम् ॥
+</details>
+
+
+<details><summary>English</summary>
+
+The wise man longs for mokṣa ,  
+which is the supreme goal or aim of life,  
+having conquered the senses by the grace of those ācārya s  
+who have taught him  
+of the eternal bliss of holding the feet of Bhagavān, who stands ever ready to redeem him,  
+of the sea of saṁsāra whose essential nature is to perish  
+and of that which is good and that which is evil.
+
+</details>
+
+<details><summary>Español</summary>
+
+The wise man longs for mokṣa ,  
+which is the supreme goal or aim of life,  
+having conquered the senses by the grace of those ācārya s  
+who have taught him  
+of the eternal bliss of holding the feet of Bhagavān, who stands ever ready to redeem him,  
+of the sea of saṁsāra whose essential nature is to perish  
+and of that which is good and that which is evil.
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्वधिकारत्तिल् सॊन्न भगवदनुभवपूर्वकमान भगवत्कैङ्कर्यवैलक्षण्यत्तैयुम् सांसारिकफलत्तिन् हेयत्वत्तैयुमुपदेशम् पण्णिन आचार्यनुडैय कृपाविशेषत्तालेये ऒरुवन् इन्द्रियादिकळै जयित्तु मोक्षत्तै यभिलषिप्पनॆण्ड्रॊरु पाट्टाले यरुळिच्चॆय्गिऱार् निण्ड्रबुराणनित्यादियाल्.  
+निण्ड्रबुराणन् - तिरुमादुडन् निण्ड्र पुराणनॆण्ड्रु कीऴधिकारगाथैयिल् सॊल्लप्पट्ट पॆरियबिराट्टियोडु सर्वस्मात्परनाग निण्ड्र पुराणबुरुषनुडैय, अडियिणै - परस्परसादृश्यसौन्दर्यत्ताले इणैन्दिरुक्किऱ तिरुवडिगळै, एन्दुम् - शिरसा वहित्तु कैङ्कर्यम् पण्णुकैयागिऱ, नॆडुम्बयनुम् - नीण्ड पुरुषार्थत्तैयुम् नित्यमान पुरुषार्थत्तैयुम् ऎण्ड्रबडि.  
+पॊण्ड्रुदले - नशिक्कैये, निलैयॆण्ड्रिड - स्वाभाविकधर्म मॆण्ड्रु सॊल्लुम्बडि, पॊङ्गुम् - बाधकमाम्बडि अडिक्कडि अभिवृद्धमागुम्, पवक्कडलुम् - संसारसमुद्रत्तैयुम्, नण्ड्रिदु - इदु नॆडुम्बयनान इदु, नण्ड्रु - नल्लदु, तीयदिदु - इदु – बाधकमान इन्द संसारसागरम्, तीयदु - पॊल्लाददु, हेयमॆण्ड्रबडि. ऎण्ड्रु नविण्ड्रवर् - ऎण्ड्रुपदेशित्त आचार्यर्गळुडैय, नल्ल रुळाल् - नल्लदान कृपैयाले, इङ्गु कृपैक्कु नन्मैयावदु परोज्जीवनैकप्रयोजनतै. पुलन्गळै वॆण्ड्रु – इन्द्रियङ्गळै जयित्तु, शब्दादिविषयङ्गळिल् निण्ड्रुम्सर्वात्मना निवर्तिप्पित्तॆण्ड्रबडि. पॆरुम्बयने - परमपुरुषार्थमान, वीडिनै - मोक्षत्तैये, वेण्डुम् - अपेक्षिक्कुम्. मुमुक्षुवान ऒरुवन् ऎण्ड्रु अध्याहरिक्कवुम्.  
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1911,15 +1965,57 @@ it is only these that will secure the glory described in passages like the follo
 वॆण्ड्रु पुलन्गळै वीडिनै वेण्डुम् पॆरुम्बयने. // 14 //
 </details>
 
-The wise man longs for mokṣa , which is the supreme goal or aim of life, having conquered the senses by the grace of those ācārya s who have taught him of the eternal bliss of holding the feet of Bhagavān, who stands ever ready to redeem him, of the sea of saṁsāra whose essential nature is to perish and of that which is good and that which is evil.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-विषमधुबहिष्कुर्वन्धीरो बहिर्विषयात्मकं  
-परिमितरसस्वात्मप्राप्तिप्रयासपराङ्मुखः ।  
-निरवधिमहानन्दब्रह्मानुभूतिकुतूहली  
-जगति भविता दैवात्कश्चिज्जिहासितसंसृतिः ॥ १९ ॥
+विष-मधु--बहिष्-कुर्वन् धीरो बहिर्-विषयात्मकं  
+परिमित-रस-स्वात्म-प्राप्ति-प्रयास-पराङ्मुखः ।  
+निरवधि-महानन्द-ब्रह्मानुभूति-कुतूहली  
+जगति **भविता** दैवात् कश्चिज् जिहासित-संसृतिः ॥ १९ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विष-मधु--बहिष्-कुर्वन् धीरो बहिर्-विषयात्मकं  
+परिमित-रस-स्वात्म-प्राप्ति-प्रयास-पराङ्मुखः ।  
+निरवधि-महानन्द-ब्रह्मानुभूति-कुतूहली  
+जगति **भविता** दैवात् कश्चिज् जिहासित-संसृतिः ॥ १९ ॥
+</details>
+
+
+<details><summary>English</summary>
+
+There may be born somewhere in this world  
+someone who, being lucky and wise  
+and desirous of obtaining release from saṁsāra,  
+gives up the pleasures of external objects  
+which are like honey mixed with poison  
+and who, being averse, also, to the limited delight of realising or experiencing his self (atmānubhava),  
+longs for the enjoyment of the infinite bliss of Brahman.
+</details>
+
+<details><summary>Español</summary>
+
+There may be born somewhere in this world  
+someone who, being lucky and wise  
+and desirous of obtaining release from saṁsāra,  
+gives up the pleasures of external objects  
+which are like honey mixed with poison  
+and who, being averse, also, to the limited delight of realising or experiencing his self (atmānubhava),  
+longs for the enjoyment of the infinite bliss of Brahman.
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आयिरत्तिलॊरुवन् जन्मान्तरशतार्जितादृष्टविशेषत्ताले ऐश्वर्य कैवल्यविरक्तनाय् भगदनुभवकुतूहलियाय् मुमुक्षुवावानॆण्ड्रु ऒरु श्लोकत्ताले यरुळिच्चॆय्गिऱार् विषमधु इत्यादिना । जगति कश्चित् – आयिरत्तिलॊरुवन्, दैवात् – विलक्षणादृष्टविशेषत्ताले, धीरस्सन् – चित्तप्रमाथिकळान विषयङ्गळालुम् कलक्कमुडियादवनाय्क्कॊण्डु, बहिर्विषयात्मकं – शब्दादि विषयरूपङ्गळान, विषमधु – विषत्तोडु कलन्द मधुऎण्ड्रबडि, इदनाल् शब्दादिविषयङ्गळ् अनुभवदशैयिल् भोग्यमायिरुन्दालुम् विपाकदशैयिल् विषमिश्रमधुपोल् अनर्थावहमागैयाल् बहिष्कार्यमे ऎण्ड्रु ज्ञापितमागिऱदु. बहिष्कुर्वन् – परित्यजित्तवनाय्, परिमितरस – भगवदनुभवापेक्षया अत्यल्परसत्तैयुडैय, स्वात्मप्राप्ति – केवलस्वात्मानुभवत्तिनुडैय, कैवल्यानुभवत्तिनुडैय ऎण्ड्रबडि. प्रयास – हेतुभूतमान प्राणाद्युपासनप्रयासत्तिल्, पराङ्मुखः – आदरविल्लादवन्, अन्द प्रयासत्तैये पार्क्कादवनाय् ऎण्ड्रबडि. निरवधिमहानन्दब्रह्मानुभूतिकुतूहलीति । निरवधि – इदु अनुभूतिक्कु विशेषणम्. स्वापेक्षया उत्कृष्टावधिरहितमान महानन्द – इदु ब्रह्मविशेषणम्. ब्रह्मरूपानन्दत्तिऱ्‌कु महत्वमावदु स्वरूपत्तालुम् गुणत्तालुम् विभूतियालुम् परिच्छित्तियिल्लामै. इङ्गु ब्रह्मत्तुक्कु आनन्दत्वम् सॊन्नदु ब्रह्मानुभवत्तिऱ्‌कु भोगरूपत्वम् सॊल्लुगैक्काग. महत्वम् सॊन्नदु अन्द भोगत्तिऱ्‌कु अनवधिकत्वम् सॊल्लुगैक्काग. कुतूहली – अन्द ब्रह्मानुभवत्तिलुत्कटप्रीतिमानाग, इन्द ब्रह्मानुभवम् ऐश्वर्यकैवल्यानुभवम्बोल् परिमितत्वनश्वरत्वादिदोषवत्तण्ड्रा कैयालुम् स्वयं निरतिशयानन्दरूपमागैयालुम् अदिल् उत्कटाभिलाषैयैयुडैयवनायॆण्ड्रबडि. जिहासितसंसृतिः – हातुमिष्टा जिहासिता, जिहासिता संसृतिः प्रकृतिसंबन्धः येन सः जिहासितसंसृतिः । भविता । इङ्गु कश्चिद्भविता ऎन्गिऱ समभिव्याहारत्ताले एतादृशपुरुषनुक्कु दौर्लभ्यम् द्योतितमागिऱदु. जगति कश्चिद्धीरः दैवाद्बहिर्विषयात्मकं विषमधु बहिष्कुर्वन्दैवात्परिमितरसस्वात्मप्राप्तिप्रयासपराङ्मुखस्सन् दैवात् निरवधिमहानन्दब्रह्मानुभूतिकूतूहली च सन् दैवाज्जिहासितसंसृतिश्च भविता इत्यन्वयः ।  
+निगमान्तमहादेशिकन् तनक्कु अव्यवहितकालत्तिलवदरिक्कप्पोगिऱ श्रीमदादिवण्शठकोप-यतीन्द्रमहादेशिकनै उत्तेसित्ते इन्द श्लोकत्तै यरुळिच्चॆय्दारॆण्ड्रु श्रीवण्शठकोपश्रीवीरराघवशठकोपयतीन्द्रमहादेशिकन् (श्रीबिळ्ळैबाक्कम् श्री अऴगियसिङ्गर्) अरुळिच्चॆय्वाराम्. इन्द श्लोकत्तिल् प्रथमपादत्तिले ‘‘बहिर्विषयात्मकं विषमधु बहिष्कुर्वन्’’ ऎण्ड्रु सॊल्लियिरुप्पदाल् विषयानुभवसंभावनैयुळ्ळ गृहस्थाश्रमत्तैप् पट्रादे ब्रह्मचर्यत्तिल् निण्ड्रे धीरराय् सन्यसित्तुप्पोन्द स्वामियिन् प्रभावम् स्पष्टीकृतमागिऱदु. ‘‘जिहासितसंसृतिः भविष्यति भवति ऎण्ड्रु इप्पडिच्चॊल्लामल् भविता ऎन्बदालुम् देशिकनुक्कुप्पिऱगु समीपकालत्तिलवदरिक्कप्पोगिऱ सन्यासियाय् कुटुम्बपरित्यागम् पण्णिन नम् स्वामिये विवक्षितरॆण्ड्रु उपपत्तिकळैयुम् अरुळिच्चॆय्वाराम्.  
+  
+इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्धाभिषिक्तस्य निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक  
+श्रीवण्शठकोप श्रीश्रीरङ्गशठकोपयतीन्द्रस्य कृतौ श्रीसारबोधिन्याख्यायां व्याख्यायां मुमुक्षुत्वाधिकारः सप्तमः ॥
+</details>
+
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -1929,7 +2025,6 @@ The wise man longs for mokṣa , which is the supreme goal or aim of life, havin
 जगति भविता दैवात्कश्चिज्जिहासितसंसृतिः ॥ १९ ॥
 </details>
 
-There may be born somewhere in this world someone who, being lucky and wise and desirous of obtaining release from saṁsāra, gives up the pleasures of external objects which are like honey mixed with poison and who, being averse, also, to the limited delight of realising or experiencing his self (atmānubhava), longs for the enjoyment of the infinite bliss of Brahman.
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
