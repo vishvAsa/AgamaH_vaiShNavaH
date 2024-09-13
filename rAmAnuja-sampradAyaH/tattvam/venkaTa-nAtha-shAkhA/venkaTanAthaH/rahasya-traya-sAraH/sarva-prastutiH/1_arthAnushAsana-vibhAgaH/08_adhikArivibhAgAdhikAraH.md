@@ -421,14 +421,14 @@ who seek the protection of the emperor by repeating the words taught to them by 
 पद-वाक्यादि-वृत्तान्तम् अऱियाद बालन्  
 ऒरुक् काल् "भवति! भिक्षां देहि" ऎण्ड्राल्  
 आढ्यर् आन सत्तुक्कळ् अगत्तिल् ए  
-अप्पोद् ए अपेक्षित-सिद्धिय् उण्डाम् आप्-पोल् ए  
+अप्पोद् ए अपेक्षित-सिद्धिय् उण्डाम् आप्-पोल् ए  +++(5)+++
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 पद-वाक्यादि-वृत्तान्तानभिज्ञेन बालेन जातु,  
 "भवति भिक्षां देहि" इत्युक्ते सति  
-आढ्यानां सतां गृहेषु तदैवापेक्षित-सिद्धिर् यथा भवति —  
+आढ्यानां सतां गृहेषु तदैवापेक्षित-सिद्धिर् यथा भवति —  +++(5)+++
 </details>
 
 
@@ -502,6 +502,11 @@ Since He is supremely rich and generous,
 even this utterance or ukti will never be fruitless.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि दृष्टान्तत्तिल् फलाविनाभावत्तैच्चॊल्लि दार्ष्टान्तिकत्तिलदैयुपपादिक्किऱार् कॊळ्ळक्कुऱैविलनित्यादिना । कॊळ्ळक्कुऱै विलनॆण्ड्रदु परिपूर्णत्वत्तिल् प्रमाणम्. वेण्डिट्रॆल्लान्दरुमॆन्बदु परमोदारत्वत्तिल् प्रमाणम्. इङ्गु सर्वेश्वरविषयत्तिल् ऎण्ड्रु सॊल्लामल् ‘‘परिपूर्णपरमोदारविषयत्ति" लॆण्ड्रु पॊदुवागच् चॊल्लियिरुप्पदाल् लोगत्तिलुम् परिपूर्णपरमोदाररान राजाक्कळ् विषयत्तिलुम् इम्मादिरियान उक्तिक्कु साफल्यमेयुण्डॆण्ड्रु द्योतितमागिऱदु. इव्वुक्तिक्कुम् - अज्ञातकरणमन्त्रार्थनायुम्, महाविश्वासशालियायुम्, अकिञ्चननायुमिरुक्किऱ इवन् सॊल्लुम् द्वयाद्युक्तिक्कुम् फलाविनाभावमुण्डु - अनुष्ठातावान इवनुक्कु संयक् ज्ञानमिल्लाविडिनुम् सर्वज्ञनान सर्वेश्वरन् इव्वुक्तियिनर्थङ्गळै नण्ड्रागवऱिन्दु तन्नुडैय महौदार्यत्ताले मोक्षान्तमान फलत्तैत् तरुवानागैयाल् इव्वुक्तिक्कुम् फलाविनाभावमुण्डॆण्ड्रु करुत्तु.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -509,9 +514,303 @@ even this utterance or ukti will never be fruitless.
 </details>
 
 
-In the case of those who are ignorant and who depend entirely on this utterance, the compassion of the Lord, who is the refuge of all, cannot ignore even this mere utterance (as it cannot digest it); for it has been said, “Whatever may be the manner or form, you have uttered the Dvaya Mantra. Therefore your redemption is my responsibility." This truth has been stated by those who are well versed (in the śāstra s) in such śloka s as the following: "Though I am a sinner, it will not become Thee, who art the Lord of all, to neglect me when I utter the words stating that I seek Thy refuge." "This speech of mine expressing the thought that I seek refuge under Thee is not uttered with all my mind and with all my heart. I can be saved only if even this mere utterance will secure Thy compassion." "I long to see Thee by merely uttering the words of prapatti - Thee who canst not be attained by bhakti." The state of one who performs prapatti by utterance (ukti), and that of one who depends solely on the ācārya  have both been described in the same śloka  as follows:- "I have been made Thy responsibility by my ācārya s who follow the way of dharma. I have also (myself) uttered the word seeking refuge. Taking this into consideration, O, Lord of Śrīraṅgam, make me Thy burden or responsibility" The word api (also) in the śloka  indicates that any one of the two will suffice.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ĀCĀRYANISHȚHĀ ;
+अऱिविलिगळ् आय्  
+इव्व् उक्ति-मात्रम् ए पट्रा+++(→आलम्बन)+++-सान्+++(=धनुः)+++-अवर्गळ् तिऱत्तिल्+++(=उद्घाटने)+++ 
+
+> “येन केनापि प्रकारेण  
+> द्वयवक्ता त्वं”  
+> (शरणागतिगद्यम्) 
+
+ऎण्ड्रु सॊल्लुगिऱप् पडिय् एय्  
+इव्व् उक्ति-मात्रम् उम्  
+उण्ड्-अऱुक्क+++(=जरणं)+++ माट्टादु शरण्यन् कृपै +++(प्रत्युत सफलं करोतिस्स्स्)+++. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ज्ञानहीनानाम् इदम् उक्ति-मात्रम् अवलम्बमानानां विषये,  
+""येन केनापि प्रकारेण द्वयवक्ता त्वम् " इत्य्-उक्त-रीत्या  
+इदम् उक्ति-मात्रम् अपि  
+न जरयेत् शरण्यस्य कृपा । 
+</details>
+
+<details><summary>English</summary>
+
+In the case of those who are ignorant  
+and who depend entirely on this utterance,  
+the compassion of the Lord, who is the refuge of all,  
+cannot ignore even this mere utterance (as it cannot digest it);  
+for it has been said,  
+
+> ‌“Whatever may be the manner or form, you have uttered the Dvaya Mantra.  
+> Therefore your redemption is my responsibility." 
+</details>
+
+<details><summary>Español</summary>
+
+In the case of those who are ignorant  
+and who depend entirely on this utterance,  
+the compassion of the Lord, who is the refuge of all,  
+cannot ignore even this mere utterance (as it cannot digest it);  
+for it has been said,  
+
+> ‌“Whatever may be the manner or form, you have uttered the Dvaya Mantra.  
+> Therefore your redemption is my responsibility." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+परमदयाळुविषयमागैयालुम् इव्वुक्तिमात्रम् सफलमागामल् पोगादॆन्गिऱार् अऱिविलिगळायित्यादिना । अऱिविलिगळ् - ज्ञानमिल्लादवर्गळ्. इदनाल् परिपूर्ण-ज्ञानमुळ्ळ स्वनिष्ठाधिकारियानवन् इव्वुक्तियैच् चॊन्नाल् दयनीयनल्लाद अवनुक्कु फलम् सिद्धियाविडिलुम् ज्ञानदरिद्रनान इव्वधिकारि भगवानुक्कु दयनीय-तमनागैयाले इवन् सॊल्लुमिव्वुक्तिक्कु फलसिद्धियिल् सन्देहमिल्लैयॆन्बदु सूचितम्. पट्रासानवर्गळ् तिऱत्तिल् - अवलम्बनमाग वुडैयवर्गळ् विषयत्तिल्. इदऱ्‌कु उण्डऱुक्कमाट्टादॆन्बदोडन्वयम्. फलसिद्धियैच्चॊल्वदऱ्‌कु मुन्बे अदिल् शरण्यकण्ठोक्तियैक्काण्बिक्किऱार् येनकेनापि प्रकारेण द्वयवक्ता त्वमिति । येनकेनापि – आर्तनायादल्, दृप्तनायादल्, पूर्वं मित्रमायिरुन्दुवैत्तादल्, शत्रुवायिरुन्दुवैत्तादल्, अङ्गाङ्गिकळिल् विशदज्ञानयुक्तनायादल्, समुदायज्ञानयुक्तनायादल्. इव्वुक्तिमात्रम् - समुदायज्ञानपूर्वकमान इव्वुक्तिमात्रत्तै, उण्डऱुक्कमाट्टादु - उण्डु - भुजित्तु, अऱुक्कमाट्टादु - जरिप्पित्तुक्कॊळ्ळमाट्टादु, इदै आराधनमाग स्वीकरित्तु अदिल् ज्ञानवैशद्यमागिऱ पूर्तियिल्लामैयैप् पार्त्तु फलम् कॊडुक्कामल् अनृणमागमाट्टादॆण्ड्रबडि. शरण्यन् कृपै – रक्षणसमर्थनान भगवानुडैय दयै. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अऱिविलिगळायिव्वुक्तिमात्रमे पट्रासानवर्गळ् तिऱत्तिल् “येन केनापि प्रकारेण द्वयवक्ता त्वं”(शरणागतिगद्यम्.) ऎण्ड्रु सॊल्लुगिऱप्पडियेय् इव्वुक्तिमात्रमुमुण्डऱुक्कमाट्टादु शरण्यन् कृपै. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तै  
+
+> “पापीयसोऽपि शरणागति-शब्द-भाजः” (अतिमानुषस्तवम् 61.) 
+
+ऎण्ड्रुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इमम् अर्थं
+
+> “पापीयसोऽपि शरणागति-शब्द-भाजः” (अतिमानुषस्तवम् 61.) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+This truth has been stated by those who are well versed (in the śāstra s) in such śloka s as the following: 
+
+> "Though I am a sinner,  
+> it will not become Thee, who art the Lord of all, to neglect me  
+> when I utter the words stating that I seek Thy refuge." 
+</details>
+
+<details><summary>Español</summary>
+
+This truth has been stated by those who are well versed (in the śāstra s) in such śloka s as the following: 
+
+> "Though I am a sinner,  
+> it will not become Thee, who art the Lord of all, to neglect me  
+> when I utter the words stating that I seek Thy refuge." 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इदिल् संप्रदायश्रीसूक्तियै प्रमाणीकरिक्किऱार् इव्वर्थत्तै पापीयसोऽपीत्यादिना । इव्वर्थत्तै - समुदायज्ञानपूर्वकसकृदुक्तिमात्रमे फलप्रदमॆन्गिऱवर्थत्तै. इदु अतिमानुषस्तवत्तिल् आऴ्वान् श्रीसूक्ति । ‘‘नोपेक्षणं मम तवोचितमीश्वरस्य’’ ऎन्बदु इदिन् मेल् पादम्. शरणागतिशब्दः – शरणागतिप्रतिपादकशब्दः, द्वयादिशब्द इति यावत् । इङ्गु अवधारणं गर्भितं; शब्दमात्रभाजः ऎन्नबडि.+++(5)+++ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै “पापीयसोऽपि शरणागतिशब्दभाजः” (अतिमानुषस्तवम् 61.) ऎण्ड्रुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “शरण-वरण-वाग् इयं योदिता  
+> न भवति बत सापि धीपूर्विका”(वरदराजस्तवम् 84.) 
+
+ऎण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “शरण-वरण-वाग् इयं योदिता  
+> न भवति बत सापि धीपूर्विका”(वरदराजस्तवम् 84.) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+"This speech of mine expressing the thought  
+that I seek refuge under Thee  
+is not uttered with all my mind and with all my heart.  
+I can be saved only if even this mere utterance will secure Thy compassion." 
+</details>
+
+<details><summary>Español</summary>
+
+"This speech of mine expressing the thought  
+that I seek refuge under Thee  
+is not uttered with all my mind and with all my heart.  
+I can be saved only if even this mere utterance will secure Thy compassion." 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+शरणवरणवागित्यादि । शरणवरणवाग् – शरणवरणप्रतिपादकवाक्यम्. न भवति बत सापि धीपूर्विका – सापि वाक् सम्यक् ज्ञानपूर्विका न भवतीत्यर्थः । 
+
+> इति यदि दयनीयता मय्यहो वरद तव भवेत्ततः प्राणिमि’’ 
+
+ऎन्बदु इदिन् उत्तरार्धम्.  
+‘‘इति यदि’’ – इत्थं सत्यपीत्यर्थः । प्रपत्तिवाचैव निरीक्षितुं वृण इति । ‘‘तथाविधं त्वां बत भक्तिदुर्ग्रहं’’ ऎन्बदु इदिन् पूर्वपादम्. द्वयोच्चारणमात्रत्ताले भक्तिदुर्ग्रहनान उन्नै परिपूर्णमाग साक्षात्करिक्क वासैप्पडुगिण्ड्रे नॆण्ड्रबडि. इवैगळिरण्डुम् वरदराजस्तवङ्गळ्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“शरणवरणवागियं योदिता न भवति बत सापि धीपूर्विका”(वरदराजस्तवम् 84.) ऎण्ड्रुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “प्रपत्तिवाचैव निरीक्षितुं वृणे”(वरदराजस्तवम् 92.) 
+
+ऎण्ड्रुम् अभियुक्तर् पेसिनार्गळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “प्रपत्तिवाचैव निरीक्षितुं वृणे”(वरदराजस्तवम् 92.) 
+
+इति चाभियुक्ता आचचक्षरे । 
+</details>
+
+<details><summary>English</summary>
+
+"I long to see Thee  
+by merely uttering the words of prapatti -  
+Thee who canst not be attained by bhakti."
+</details>
+
+<details><summary>Español</summary>
+
+"I long to see Thee  
+by merely uttering the words of prapatti -  
+Thee who canst not be attained by bhakti."
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अभियुक्तर् - भगवत्स्वरूपगुणविभूतिकळिल् सर्वप्रकार-संबन्धमुळ्ळवरान आऴ्वान्. इङ्गु शरणागतिशब्दमॆण्ड्रुम्, शरणवरणवाक्कॆण्ड्रुम्, प्रपत्तिवाक्कॆण्ड्रुमुक्तिक्के फलजनकत्वम् सॊल्लप्पट्टदु. इवैगळुक्कॆल्लामनुसन्धानत्तिल् लक्षणै सॊल्वदु प्रामाणिकमागादु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“प्रपत्तिवाचैव निरीक्षितुं वृणे”(वरदराजस्तवम् 92.) ऎण्ड्रुमभियुक्तर् पेसिनार्गळ्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-उक्ति-मात्र-निष्ठन्-उडैयव् उम्  
+आचार्य-निष्ठन्-उडैयव् उम्  
+निलैगळ् इरण्डैय् उम्  
+
+> तव भरोऽहम् **अकारिषि** धार्मिकैश्,  
+"शरणम्" इत्य् अपि वाचम् **उदैरिरम्** ।  
+इति स **साक्षिकयन्न्** इदम् अद्य मां  
+**कुरु** भरं तव रङ्ग-धुरन्-धर! ॥ १०२ ॥  
+(श्रीरङ्गराजस्तवम् 2-102.)  
+
+ऎण्ड्रु +++(अपि-शब्देन)+++ सेर्त्त् अनुसन्धित्तार्गळ्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्योक्तिमात्र-निष्ठस्य, आचार्य-निष्ठस्य च स्थिती द्वे अपि 
+
+> तव भरोऽहम् **अकारिषि** धार्मिकैश्,  
+"शरणम्" इत्य् अपि वाचम् **उदैरिरम्** ।  
+इति स **साक्षिकयन्न्** इदम् अद्य मां  
+**कुरु** भरं तव रङ्ग-धुरन्-धर! ॥ १०२ ॥  
+(श्रीरङ्गराजस्तवम् 2-102.)
+
+इति समुच्चित्यानुसंदधिरे ।
+</details>
+
+<details><summary>English</summary>
+
+The state of one who performs prapatti by utterance (ukti),  
+and that of one who depends solely on the ācārya   
+have both been described in the same śloka  as follows:-  
+
+> "I have been made Thy responsibility by my ācārya-s who follow the way of dharma.  
+> I have also (myself) uttered the word seeking refuge.  
+> Taking this into consideration, O, Lord of Śrīraṅgam,  
+> make me Thy burden or responsibility" 
+</details>
+
+<details><summary>Español</summary>
+
+The state of one who performs prapatti by utterance (ukti),  
+and that of one who depends solely on the ācārya   
+have both been described in the same śloka  as follows:-  
+
+> "I have been made Thy responsibility by my ācārya-s who follow the way of dharma.  
+> I have also (myself) uttered the word seeking refuge.  
+> Taking this into consideration, O, Lord of Śrīraṅgam,  
+> make me Thy burden or responsibility" 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्वुक्तिमात्रत्तिऱ्‌के फलाविनाभावमुण्डागिल् श्रीपराशरभट्टर् तान् आचार्यनिष्ठनागप्पोन्दे उक्तियैयुम् अनुष्ठित्तदाग सॊल्लुवानेनॆन्न वदिन् भावत्तै विशदीकरिक्किऱार् इव्वुक्तिमात्रनिष्ठनुडैयवुमित्यादिना ।  
+निलैगळिरण्डैयुम् - भरत्वेनाचार्यसमर्पितत्वशरणशब्दोच्चारण कर्तृत्वरूपमान स्वभावङ्गळिरण्डैयुम्.  
+तव भरोऽहमित्यादि । धार्मिकैः – आचार्यैः । रङ्गधुरन्धर! (त्वं) लोकमॆल्लामिरुक्क उन्नै ऒरुवनैये निर्हेतुकमाग स्वीकरित्ताल् लोकत्तार् ऎनक्कु वैषम्यनैर्घण्यत्तैच् चॊल्वार्गळो यॆण्ड्रु भयन्द नीर्, इतीदं – अवन् आचार्यनाल् समर्पितभरन् शरणशब्दवक्ता ऎन्गिऱ इन्द व्याजत्तै, ससाक्षिकयन् – लोगत्तारुक्कु साक्षियागक् काण्बित्तु, तव भरं कुरु – ऎन्नै उनक्कु भरमाक्किक्कॊळ्, उनक्कु रक्ष्यमाग स्वीकुरु ऎण्ड्रबडि. सेर्त्त नुसन्धित्तार्गळिति । तथा च तन्नुडैय स्तोत्रत्तिल् तत्त्वहितपुरुषार्थङ्गळैयुम् भक्तिप्रपत्तिनिष्ठर्गळान अधिकारिकळैयुम् निरूपिक्कत् तुडङ्गिन विवर् उक्तिनिष्ठनुडैयवुम् आचार्यनिष्ठनुडैयवुम् स्वभावङ्गळै लाघवात् ऒरु श्लोकत्तिल् अनुसन्धित्तारे यॊऴिय तानिरण्डैयु मनुष्ठित्तारिल्लैयॆण्ड्रु करुत्तु.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुक्तिमात्र-निष्ठनुडैयवुमाचार्यनिष्ठनुडैयवुम् निलैगळिरण्डैयुम्  
+“तव भरोऽहमकारिषि धार्मिकैश्शरणमित्यपि वाचमुदैरिरम् ।  
+इति ससाक्षिकयन्निदमद्य मां कुरु भरन्तव रङ्गधुरन्धर”(श्रीरङ्गराजस्तवम् 2-102.)  
+ऎण्ड्रु सेर्त्तनुसन्धित्तार्गळ्. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् मिगुदि+++(=आधिक्यं)+++ काट्टुगिऱ अपि-शब्दत्ताल् एय्  
+ओर्-ऒण्ड्रेय् अमैयुम्+++(=अलम्)+++ ऎण्ड्रु सूचितम् आयिट्रु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्राधिक्य-द्योतकेन अपि-शब्देन  
+एकैकम् एव पर्याप्तम् इति सूचितं भवति ।
+</details>
+
+
+<details><summary>English</summary>
+
+The word api (also) in the śloka  indicates that any one of the two will suffice.
+</details>
+
+<details><summary>Español</summary>
+
+The word api (also) in the śloka  indicates that any one of the two will suffice.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् मिगुदि काट्टुगिऱ अपिशब्दत्ताले योरॊण्ड्रे यमैयुम् ऎण्ड्रु सूचितमायिट्रु.
+</details>
+
+
+## आचार्य-निष्ठा
+
 
 Of the two, the one who depends solely on the ācārya  is included in the ācārya 's own prapatti as part of it, for it has been laid down in Śāṇḍilya Smṛti and other treatises as follows: “He should also state thus: “This is my son, my servant, my disciple (who is to be saved)". It has been said: “There may be doubts concerning (the redemption of) those that serve Acyuta, but there is absolutely no doubt about the (redemption) of those who delight in the service of His devotees". So, in the case of those who depend solely on the ācārya , there is no doubt at all concerning the fruition of prapatti, by the principle of "How much more, then" (kaimutika nyāya).
 
