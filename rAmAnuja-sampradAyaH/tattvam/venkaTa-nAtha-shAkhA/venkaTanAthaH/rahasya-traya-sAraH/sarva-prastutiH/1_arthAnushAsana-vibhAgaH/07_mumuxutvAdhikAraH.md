@@ -1221,10 +1221,209 @@ these lower worlds (of Brahma and Indra) are like hell."
 “एते वै निरयास्तात स्थानस्य परमात्मनः” (भारतम् शान्तिपर्व 196-6.)
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादि प्रमाणङ्गळाल् ए  
+अल्पत्वास्थिरत्व--  
++++(प्रयासतः→)+++दुःख-मूलत्व--दुःख-मिश्रत्व--दुःखोदर्कत्व-  
+विपरीताभिमानमूलत्व--स्वाभाविकानन्द-विरुद्धत्वङ्गळ् आगिऱव्  
+**अ-चिद्**--विषयानुभव--**दोष-सप्तकत्तैय्** उम्,  
+इवट्रिल् यथा-संभवम् उण्ड् आन **+++(स्व-)+++चेतन-मात्रानुभव-दोषङ्गळैय्** उम्,  
+इव्व्-अनुभवङ्गळुक्क् ऎदिर्त्-तट्ट् आन **भगवद्-अनुभवत्तिन्** वैलक्षण्यत्तैय् उम्  
+विशदम् आगव् **अनुसन्धित्तु**,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-आदि-प्रमाणैः  
+अल्पत्वास्थिरत्व-  
++++(प्रयासतः→)+++दुःख-मूलत्व--दुःख-मिश्रत्व--दुःखोदर्कत्व--  
+विपरीताभिमान-मूलत्व--स्वाभाविकानन्द-विरुद्धत्व--रूपाचिद्-**विषयानुभव-दोष-सप्तकम्**,  
+यथा-संभवं घटमानान् **+++(स्व-)+++चेतन-मात्रानुभव-दोषांश्** च,  
+एतद्-अनुभव-प्रतिकोटि-भूतस्य **भगवद्-अनुभवस्य वैलक्षण्यं** च  
+विशदम् **अनुसन्धाय** -  
+</details>
+
+<details><summary>English</summary>
+
+From these and other sayings,  
+the Jīva   should realise the seven kinds of evil  
+inherent in the enjoyment of non-sentient things, viz.  
+their littleness,  
+their instability,  
+their origin in pain,  
+their being mingled with pain,  
+their resulting ultimately in pain,  
+their origin being due to a perverse egotism  
+and their being opposed to the bliss which is his nature. 
+
+He should also realise such of these evils  
+as are inherent in the enjoyment of one's self, ātmānubhava.  
+He should then realise, with clear vision,  
+the unique character of the enjoyment of the bliss of Bhagavān,  
+which, in every one of these respects, is opposed to them.  
+</details>
 
 
 
-From these and other sayings, the Jīva   should realise the seven kinds of evil inherent in the enjoyment of non-sentient things, viz. their littleness, their instability, their origin in pain, their being mingled with pain, their resulting ultimately in pain, their origin being due to a perverse egotism and their being opposed to the bliss which is his nature. He should also realise such of these evils as are inherent in the enjoyment of one's self, ātmānubhava. He should then realise, with clear vision, the unique character of the enjoyment of the bliss of Bhagavān, which, in every one of these respects, is opposed to them. He would then attain the condition of "one who longs eagerly for the Supreme Being and who, consequently, is averse from things that are other than the Supreme Being. He would then abstain from activity whose characteristics Brahma is said to have described (as leading to fruits other than mokṣa ) and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
+<details><summary>Español</summary>
+
+From these and other sayings,  
+the Jīva   should realise the seven kinds of evil  
+inherent in the enjoyment of non-sentient things, viz.  
+their littleness,  
+their instability,  
+their origin in pain,  
+their being mingled with pain,  
+their resulting ultimately in pain,  
+their origin being due to a perverse egotism  
+and their being opposed to the bliss which is his nature. 
+
+He should also realise such of these evils  
+as are inherent in the enjoyment of one's self, ātmānubhava.  
+He should then realise, with clear vision,  
+the unique character of the enjoyment of the bliss of Bhagavān,  
+which, in every one of these respects, is opposed to them.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+**दुःखमूलत्वं** – भोग-दशैयिलेय् ए करण-कलेवरङ्गळ्-उडैय प्रेरण-प्रयासत्ताल् ए उण्डान दुःखत्तै मूलम् आगव्-उडैत्ताय् इरुक्कै.  
+**दुःखमिश्रत्वं** – विरोधिभयादिजनितदुःखसमानकालिकत्वम् ।  
+**विपरीताभिमानः** – स्वाधीनभोक्तृत्व-स्वार्थत्वादिभ्रमः ।  
+**स्वाभाविकानन्दविरुद्धत्वम्** – विषयासक्तमनस्कादिनिष्ठम् ।  
+‘‘न तत्र मूढा गच्छन्ति पुरुषा विषयात्मकाः’’ ऎन्गिऱबडि परमपददेशत्तिल् अनुभाव्यमान **आनन्दविरुद्धत्वम्** ।  
+**अचिद्विषयानुभवम्** – कामिनीस्रक्चन्दनाद्यैश्वर्यानुभवम्.  
+
+**यथासंभवम्** इति ।  
+कैवल्यभोगत्तिऱ्‌कु करणकळेबरप्रेरणायासरूप-दुःखमूलत्वमिल्लै; दुःखमिश्रत्वमुमिल्लै. पञ्चाग्निविद्यानिष्ठनुडैय कैवल्यानुभवत्तिऱ्‌कु दुःखोदर्कत्वमुमिल्लै.  
+भगवद्-अनुभवत्तिन् वैलक्षण्यत्तैय् उम् इति ।  
+भगवद्-अनुभवत्तिऱ्‌कु वैलक्षण्यमावदु अप्राकृतस्थानविशिष्टभगवत्स्वरूपरूपगुणविषयकत्वम्. विशदमागवनुसन्धित्तु इति । दोषानुसन्धानत्तिल् वैशद्यमावदु अदऱ्‌कु यादृशावस्थै वन्दाल् दोषयुक्तङ्गळान चिदचिद-नुभवङ्गळिल् सद्य एव जिहासैयुण्डागुमो तादृशावस्थै । भगवद्वैलक्षण्यानुसन्धानत्तिल् वैशद्य मावदु अदऱ्‌कु ऎन्द अवस्थै वन्दाल् उपायप्रवृत्तिपर्यन्तमान भगवदनुरागविशेषम् सिद्धिक् कुमो तादृशावस्थै । 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादि प्रमाणङ्गळाले अल्पत्वास्थिरत्वदुःखमूलत्वदुःखमिश्रत्वदुःखोदर्कत्वविपरीताभिमानमूलत्व-स्वाभाविकानन्दविरुद्धत्वङ् गळागिऱ वचिद्विषयानुभवदोषसप्तकत्तैयुम्, इवट्रिल् यथासंभवमुण्डान चेतनमात्रानुभवदोषङ्गळैयुम्, इव्वनुभवङ्गळुक् कॆदिर्त्तट्टान भगवदनुभवत्तिन् वैलक्षण्यत्तैयुम् विशदमागवनुसन्धित्तु,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “परमात्मनि यो रक्तो  
+> विरक्तो ऽपरम्-आत्मनि”  
+> (बार्हस्पत्य-स्मृतिः) 
+
+ऎन्गिऱव् अवस्थैयैय् उडैयर् आय्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “परमात्मनि यो रक्तो  
+> विरक्तो ऽपरम्-आत्मनि”  
+> (बार्हस्पत्य-स्मृतिः)
+
+इत्य्-उक्ताम् अवस्थां प्राप्ताः,
+</details>
+
+<details><summary>English</summary>
+
+He would then attain the condition of  
+
+> "one who longs eagerly for the Supreme Being  
+> and who, consequently, is averse from things that are other than the Supreme Being."
+</details>
+
+<details><summary>Español</summary>
+
+He would then attain the condition of  
+
+> "one who longs eagerly for the Supreme Being  
+> and who, consequently, is averse from things that are other than the Supreme Being."
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+परमात्मनि यो रक्त इति । परमात्मनि रक्तत्वावस्थैयावदु 
+
+> ‘‘ज्ञानी तु परमैकान्ती  
+> परायत्तात्म-जीवनः ।  
+> तत्-संश्लेष-वियोगैक-  
+> सुख-दुःखस् तद्-एकधीः ॥  
+> भगवद्-ध्यान-योगोक्ति-  
+> वन्दन-स्तुति-कीर्तनैः ।  
+> लब्धात्मा तद्-गत-प्राण-  
+> मनो-बुद्धीन्द्रिय-क्रियः ॥’’+++(5)+++ 
+
+इत्यादिकळिऱ्‌ चॊल्लप्पट्टबडि तदेकभोगनायिरुक्कै.  
+विरक्तोऽपरमात्मनि – परमात्मभिन्नत्तिल् विरक्तत्वावस्थैयावदु  
+
+> ‘‘न देहं न प्राणान् न च सुखम् अशेषाभिलषितं  
+> न चात्मानन् नान्यत् किम् अपि तव शेषत्व-विभवात् ।  
+> बहिर्-भूतं नाथ क्षणम् अपि सहे’’ +++(5)+++
+
+ऎण्ड्रु सॊल्लप्पण्णि वैक्कुम् वैराग्यावस्थै ।  
+इङ्गु विशदम् आगव् अनुसन्धित्तु परमात्मनीत्याद्युक्तावस्थैयैयुडैयवराय् ऎन्गिऱ समभिव्याहारत्ताले  
+इव्विशदानुसन्धानमिल्लादार्क्कु इव्वैराग्यावस्थै पिऱवादॆण्ड्रेऱ्‌पडुवदाल् सिलर्क्कु परावरतत्त्वविवेकम् मात्तिरम् पिऱन्दिरुन्दुम् मोक्षोपायत्तिल् प्रवृत्तियिल्लाविट्टालुम् विशदज्ञानतत्फलवैराग्यमुळ्ळवर्गळुक्कु सिद्धमाग मोक्षोपायप्रवृत्ति उण्डागलामॆण्ड्रु सूचितमागिऱदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“परमात्मनि यो रक्तो विरक्तोऽपरमात्मनि” (बार्हस्पत्य-स्मृतिः) ऎन्गिऱ ववस्थैयैयुडैयराय्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “प्रवृत्तिलक्षणं धर्मं  
+> प्रजापतिर् अथाब्रवीत्”  
+> (भारतम् शान्तिपर्व 219-4-2.) 
+
+ऎन्गिऱ प्रवृत्ति-धर्मङ्गळि-निण्ड्रुम् निवृत्तर् आय्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “प्रवृत्तिलक्षणं धर्मं  
+> प्रजापतिर् अथाब्रवीत्”  
+> (भारतम् शान्तिपर्व 219-4-2.) 
+
+इत्युक्तेभ्यः प्रवृत्तिधर्मेभ्यो निवृत्ताः 
+</details>
+
+
+<details><summary>English</summary>
+
+He would then abstain from activity  
+whose characteristics Brahma is said to have described  
+(as leading to fruits other than mokṣa )  
+
+</details>
+
+<details><summary>Español</summary>
+
+He would then abstain from activity  
+whose characteristics Brahma is said to have described  
+(as leading to fruits other than mokṣa )  
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि परमात्मभिन्नत्तिल् वैराग्यमुम् परमात्मनि अनुरागविशेषमुम् वन्दाल् वरुम् अवस्थाविशेषङ्गळै अडैवे अरुळिच् चॆय्गिऱार् प्रवृत्तिलक्षणमित्यादिना । प्रवृत्तिः – धर्मार्थकामङ्गळुडैय संपादनानुकूलमान प्रयत्नम्. सा विषयतासंबन्धेन लक्षणं यस्य धर्मस्य सः प्रवृत्तिलक्षणः । धर्मार्थकामसाधनानुकूलप्रवृत्तिविषयत्वत्तै लक्षणमागवुडैयदु. प्रवृत्तिलक्षणधर्ममॆण्ड्रबडि. बन्धकं काम्यं कर्मेति यावत् । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“प्रवृत्तिलक्षणं धर्मं प्रजापतिरथाब्रवीत्” (भारतम् शान्तिपर्व 219-4-2.) ऎन्गिऱ प्रवृत्तिधर्मङ्गळिनिण्ड्रुम् निवृत्तराय्,  
+</details>
+
+
+
+and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
