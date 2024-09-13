@@ -1443,7 +1443,7 @@ In spite of these ordinances, we should also consider such passages as the follo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“स्मृतस् संभाषितोऽपि वा”(इतिहाससमुच्चयम् 31-55) ऎण्ड्रुम्,  
+“स्मृतस् संभाषितोऽपि वा”(इतिहाससमुच्चयः 31-55) ऎण्ड्रुम्,  
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -1453,7 +1453,7 @@ In spite of these ordinances, we should also consider such passages as the follo
 
 <details><summary>मूलम्</summary>
 
-“स्मृतस्संभाषितोऽपि वा”(इतिहाससमुच्चयम् 31-55) ऎण्ड्रुम्,  
+“स्मृतस्संभाषितोऽपि वा”(इतिहाससमुच्चयः 31-55) ऎण्ड्रुम्,  
 </details>
 
 
@@ -1464,7 +1464,7 @@ In spite of these ordinances, we should also consider such passages as the follo
 वीक्षते जाति-सामान्यात्  
 स याति नरकन्नरः”  
 
-(इतिहाससमुच्चयम् 27-26.) ऎण्ड्रुम्,  
+(इतिहाससमुच्चयः 27-26.) ऎण्ड्रुम्,  
 </details>
 
 <details><summary>English</summary>
@@ -1474,7 +1474,7 @@ In spite of these ordinances, we should also consider such passages as the follo
 
 <details><summary>मूलम्</summary>
 
-“यश्शूद्रं भगवद्भक्तं निषादं श्वपचं तथा । वीक्षते जातिसामान्यात्स याति नरकन्नरः”(इतिहाससमुच्चयम् 27-26.) ऎण्ड्रुम्,  
+“यश्शूद्रं भगवद्भक्तं निषादं श्वपचं तथा । वीक्षते जातिसामान्यात्स याति नरकन्नरः”(इतिहाससमुच्चयः 27-26.) ऎण्ड्रुम्,  
 
 </details>
 
@@ -1485,7 +1485,7 @@ In spite of these ordinances, we should also consider such passages as the follo
 वैष्णवान् परितोषयेत् ।  
 प्रसाद-सुमुखो विष्णुस्  
 तेनैव स्यान्न संशयः”  
-(इतिहाससमुच्चयम् 27-27.) ऎण्ड्रुम्,
+(इतिहाससमुच्चयः 27-27.) ऎण्ड्रुम्,
 </details>
 
 <details><summary>English</summary>
@@ -1495,7 +1495,7 @@ In spite of these ordinances, we should also consider such passages as the follo
 
 <details><summary>मूलम्</summary>
 
-“तस्माद्विष्णुप्रसादाय वैष्णवान् परितोषयेत् । प्रसादसुमुखो विष्णुस्तेनैव स्यान्न संशयः”(इतिहाससमुच्चयम् 27-27.) ऎण्ड्रुम्,
+“तस्माद्विष्णुप्रसादाय वैष्णवान् परितोषयेत् । प्रसादसुमुखो विष्णुस्तेनैव स्यान्न संशयः”(इतिहाससमुच्चयः 27-27.) ऎण्ड्रुम्,
 </details>
 
 

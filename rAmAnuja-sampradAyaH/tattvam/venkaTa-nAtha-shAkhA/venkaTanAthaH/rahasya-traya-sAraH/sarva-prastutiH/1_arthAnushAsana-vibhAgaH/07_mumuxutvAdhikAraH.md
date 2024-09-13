@@ -1017,7 +1017,7 @@ because they are not intoxicated by the strong liquor of egotism (the sense of '
 > दोषास् सन्ति महामुने ।  
 > अत एव हि नेच्छन्ति  
 > स्वर्ग-प्राप्तिं मनीषिणः”  
-> (इतिहाससमुच्चयम् 4-49.)  
+> (इतिहाससमुच्चयः 4-49.)  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -1026,7 +1026,7 @@ because they are not intoxicated by the strong liquor of egotism (the sense of '
 > दोषास् सन्ति महामुने ।  
 > अत एव हि नेच्छन्ति  
 > स्वर्ग-प्राप्तिं मनीषिणः”  
-> (इतिहाससमुच्चयम् 4-49.)  
+> (इतिहाससमुच्चयः 4-49.)  
 </details>
 
 <details><summary>English</summary>
@@ -1050,7 +1050,7 @@ because they are not intoxicated by the strong liquor of egotism (the sense of '
 
 <details><summary>मूलम्</summary>
 
-> “आब्रह्मभवनादेते दोषास्सन्ति महामुने । अत एव हि नेच्छन्ति स्वर्गप्राप्तिं मनीषिणः” (इतिहाससमुच्चयम् 4-49.)  
+> “आब्रह्मभवनादेते दोषास्सन्ति महामुने । अत एव हि नेच्छन्ति स्वर्गप्राप्तिं मनीषिणः” (इतिहाससमुच्चयः 4-49.)  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1308,7 +1308,7 @@ which, in every one of these respects, is opposed to them.
 इत्यादि प्रमाणङ्गळाले अल्पत्वास्थिरत्वदुःखमूलत्वदुःखमिश्रत्वदुःखोदर्कत्वविपरीताभिमानमूलत्व-स्वाभाविकानन्दविरुद्धत्वङ् गळागिऱ वचिद्विषयानुभवदोषसप्तकत्तैयुम्, इवट्रिल् यथासंभवमुण्डान चेतनमात्रानुभवदोषङ्गळैयुम्, इव्वनुभवङ्गळुक् कॆदिर्त्तट्टान भगवदनुभवत्तिन् वैलक्षण्यत्तैयुम् विशदमागवनुसन्धित्तु,
 </details>
 
-
+## ब्रह्मैकानुरागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “परमात्मनि यो रक्तो  
@@ -1421,9 +1421,479 @@ whose characteristics Brahma is said to have described
 “प्रवृत्तिलक्षणं धर्मं प्रजापतिरथाब्रवीत्” (भारतम् शान्तिपर्व 219-4-2.) ऎन्गिऱ प्रवृत्तिधर्मङ्गळिनिण्ड्रुम् निवृत्तराय्,  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “निवृत्ति-लक्षणं धर्मम्  
+> ऋषिर् नारायणो ऽब्रवीत्” 
+
+ऎन्गिऱ निवृत्ति-धर्मङ्गळिल् ए प्रवृत्तर् आनवर्गळ्  
+मुमुक्षुक्कळ् आनव् अधिकारिगळ्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “निवृत्ति-लक्षणं धर्मम्  
+> ऋषिर् नारायणो ऽब्रवीत्”
+
+इत्युक्तेषु निवृत्तिधर्मेषु प्रवृत्ता ये,  
+ते मुमुक्षवो ऽधिकारिणः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+and embrace renunciation  
+whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ).  
+It is only men of this type  
+that can be described as competent aspirants for mukti.  
+</details>
+
+<details><summary>Español</summary>
+
+and embrace renunciation  
+whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ).  
+It is only men of this type  
+that can be described as competent aspirants for mukti.  
+</details>
 
 
-and embrace renunciation whose characteristics are said to have been described by the sage Nārāyaṇa  (as leading to mokṣa ). It is only men of this type that can be described as competent aspirants for mukti. Even if a man knows clearly what is high and what is low among the tattvas and what is high and what is low among the aims and objects desired as the goal of life as explained above, if he does not adopt the upāya which can become the supreme goal of life, after acquiring a distaste for other pleasures (vairāgya), he will be an object of ridicule like the dog whose tail does not hide its private parts nor drives flies and mosquitoes. His learning will be of no use to him. So has it been said : "Learning is "fruitful when it leads to purity of character and of conduct:" "The śāstra s have been enjoined by wise men for securing serenity of mind. Therefore only he who has attained serenity of mind should be considered as having a knowledge of all the śāstras". Therefore, "men "should conduct themselves in a manner which will be in keeping with their age, with the duties which they undertake, with their goal in life, with their learning, and with their birth, so that their appearance, speech and action are all alike" - it is only these that will secure the glory described in passages like the following: when a man performs his duties, he is lauded by others. "The gods consider him as a Brahmin who is clad in whatever rags he can obtain, eats whatever food comes to him and has his bed wherever he can find it;" " The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
+<details><summary>सायण-टीका</summary>
+
+उक्तप्रवृत्तिभिन्नाकृतिः - निवृत्तिः; मोक्षसाधनानुकूलप्रवृत्तिरिति यावत् । सा विषयतासंबन्धेन लक्षणं यस्य सः । मोक्षसाधनानुकूलप्रवृत्तिविषयत्वत्तै लक्षणमागवुडैयदु निवृत्तिलक्षणधर्ममॆण्ड्रबडि. मोक्षोपयुक्तं कर्मेति यावत् ।  
+नारायणः – बदरिकाश्रमवासी।  
+मुमुक्षुक्कळान अधिकारिकळिति । कीऴ् देवतापारमार्थ्यनिष्कर्षन् दॊडङ्गि एतावत्पर्यन्तम् क्रममागच् चॊन्न दशैकळै यॆल्लामुडैयवर्गळे मुमुक्षुक्कळान अधिकारिकळॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“निवृत्तिलक्षणं धर्ममृषिर्नारायणोऽब्रवीत्” ऎन्गिऱ निवृत्तिधर्मङ्गळिले प्रवृत्तरानवर्गळ् मुमुक्षुक्कळानवधिकारिगळ्,  
+</details>
+
+## केवल-तत्वज्ञानं निष्फलम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कीऴ्च् चॊन्नप्-पडियिल् ए  
+परावरङ्गळ् आन तत्त्वङ्गळ् उम्  
+पुरुषार्थङ्गळ् उन् तॆळिन्दाल् उम्  
+इप्-पडि वैराग्य-पूर्वकम् आग परम-पुरुषार्थोपायानुष्ठानत्तिल् प्रवृत्तिय् आन्-आगिल्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पूर्वोक्तरीत्या परावर-तत्त्वेषु पुरुषार्थेषु सम्यग्-**ज्ञातेष्व्** आपि  
+इत्थं वैराग्य-पूर्वकं परम-पुरुषार्थोपायानुष्ठाने चेद् अप्रवृत्तः,  
+</details>
+
+<details><summary>English</summary>
+
+Even if a man knows clearly what is high and what is low among the tattvas  
+and what is high and what is low among the aims and objects desired as the goal of life as explained above,  
+if he does not adopt the upāya which can become the supreme goal of life,  
+after acquiring a distaste for other pleasures (vairāgya),  
+</details>
+
+<details><summary>Español</summary>
+
+Even if a man knows clearly what is high and what is low among the tattvas  
+and what is high and what is low among the aims and objects desired as the goal of life as explained above,  
+if he does not adopt the upāya which can become the supreme goal of life,  
+after acquiring a distaste for other pleasures (vairāgya),  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि परावरतत्त्वङ्गळिलुम् परावरपुरुषार्थङ्गळिलुम् तॆळिवु उण्डायिरुक्कच् चॆय्देयुम् ऒरुवन् अनादिपापविशेषवशाद्वैराग्यपूर्वकमाग मोक्षोपायत्तिल् प्रवृत्तियानागिल् अवनुक्कु ऐहिकत्तिल् वरुम् फलहानियै अरुळिच् चॆय्गिऱार् कीऴ्च्चॊन्नबडियिले इत्यादिना । कीऴ्च्चॊन्नबडि - प्रधानप्रतितन्त्राधिकारत्तिऱ्‌चॊन्नबडि. परावरतत्त्वङ्गळ् - चिदचिदीश्वरतत्त्वङ्गळ्. परावरङ्गळान पुरुषार्थङ्गळ् - धर्मार्थकामङ्गळुम् मोक्षमुम्. "तॆळिन्दालुम्" ऎन्गिऱविडत्तिल् उम् विरोधद्योतकम्. तॆळिन्दवनुक्कु वैराग्यपूर्वकोपायानुष्ठानप्रवृत्त्यभावम् विरुद्धमिऱे. "इप्पडि" ऎण्ड्रदु इव्वधिकारत्तिऱ्‌चॊन्न क्रमत्तालेयॆण्ड्रबडि. इङ्गु कीऴ्च्चॊन्नदऱ्‌कु ऎदिर् तट्टाग ‘‘निवृत्तिधर्मत्तिल् प्रवृत्तियानागिल्" ऎण्ड्रे सॊल्लवेण्डियिरुक्क ‘‘परमपुरुषार्थोपायानुष्ठानत्तिल् प्रवृत्तियानागिल्" ऎण्ड्रु निर्देशित्तदु इदु इतरधर्म-प्रवृत्त्यभावम्बोल् स्वल्पफलहानिहेतुवण्ड्रिक्के महाफलमान मोक्षत्तिऱ्‌के हानिकरमॆण्ड्रु ज्ञापिक्कैक्काग. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+कीऴ्च्चॊन्नप्पडियिले परावरङ्गळान तत्त्वङ्गळुम् पुरुषार्थङ्गळुन्दॆळिन्दालुमिप्पडि वैराग्यपूर्वकमाग परमपुरुषार्थोपायानुष्ठानत्तिल् प्रवृत्तियानागिल्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“शीलवृत्तफलं श्रुतं +++(→तत्त्वज्ञानम्)+++” (भारतम् सबापर्व 5-116.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“शीलवृत्तफलं श्रुतं +++(→तत्त्वज्ञानम्)+++” (भारतम् सबापर्व 5-116.)
+</details>
+
+<details><summary>English</summary>
+
+As [So] has it been said :  
+
+> "Learning is fruitful  
+> when it leads to purity of character and of conduct" 
+</details>
+
+<details><summary>Español</summary>
+
+As [So] has it been said :  
+
+> "Learning is fruitful  
+> when it leads to purity of character and of conduct" 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+शीलं – आत्मगुणम्. वृत्तं – सदाचारम् इवैगळै फलमागवुडैयदु श्रुतं– शास्त्रश्रवणजन्यज्ञानम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“शीलवृत्तफलं श्रुतं” (भारतम् सबापर्व 5-116.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “शमार्थं सर्व-शास्त्राणि  
+> विहितानि मनीषिभिः ।  
+> तस्मात् स सर्व-शास्त्र-ज्ञो  
+> यस्य शान्तं मनस् सदा”  
+> (इतिहाससमुच्चयः 12-37) 
+
+ऎन्गिऱ श्रुत-फलत्तैय् उम् इऴन्दु
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “शमार्थं सर्व-शास्त्राणि  
+> विहितानि मनीषिभिः ।  
+> तस्मात् स सर्व-शास्त्र-ज्ञो  
+> यस्य शान्तं मनस् सदा”  
+> (इतिहाससमुच्चयः 12-37) 
+
+इत्य्-उक्तं श्रुत-फलम् अप्य् अलब्ध्वा
+</details>
+
+<details><summary>English</summary>
+
+> "The śāstra s have been enjoined by wise men for securing serenity of mind.  
+> Therefore only he who has attained serenity of mind  
+> should be considered as having a knowledge of all the śāstras". 
+</details>
+
+<details><summary>Español</summary>
+
+> "The śāstra s have been enjoined by wise men for securing serenity of mind.  
+> Therefore only he who has attained serenity of mind  
+> should be considered as having a knowledge of all the śāstras".
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+शमार्थं – शमादिगुणसिद्ध्यर्थम्. सर्वशास्त्राणि विहितानि । तस्माद्यस्य मनः सदा शान्तं – प्राचीनसुकृतविशेषत्ताले संसारविरक्तम्. स एव सर्वशास्त्रज्ञः – शास्त्रज्ञानफलभूतशान्त्यादिमत्वात् अवन् सर्वशास्त्रार्थत्तैयुमऱिन्दवनॆण्ड्रबडि. श्रुतफलत्तैयुमिऴन्दु इति । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“शमार्थं सर्व-शास्त्राणि विहितानि मनीषिभिः । तस्मात्स सर्वशास्त्रज्ञो यस्य शान्तं मनस्सदा” (इतिहाससमुच्चयः 12-37) ऎन्गिऱ श्रुतफलत्तैयुमिऴन्दु
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “नाच्छादयति कौपीनं  
+> न दंश-मशकापहम् ।  
+> शुनः पुच्छम् इवानर्थं  
+> पाण्डित्यं धर्मवर्जितम्॥” 
+> (मनुस्मृतिः 4-1.)
+
+ऎन्गिऱप्पडिये हास्यन् आम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “नाच्छादयति कौपीनं  
+> न दंश-मशकापहम् ।  
+> शुनः पुच्छम् इवानर्थं  
+> पाण्डित्यं धर्मवर्जितम्॥” 
+> (मनुस्मृतिः 4-1.)
+
+इत्येवं हास्यो भवति ।
+</details>
+
+<details><summary>English</summary>
+
+he will be an object of ridicule  
+like the dog whose tail does not hide its private parts  
+nor drives flies and mosquitoes.+++(5)+++  
+His learning will be of no use to him. 
+
+</details>
+
+<details><summary>Español</summary>
+
+he will be an object of ridicule  
+like the dog whose tail does not hide its private parts  
+nor drives flies and mosquitoes.+++(5)+++  
+His learning will be of no use to him. 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+परम-पुरुषार्थमान मोक्षफलत्तैयिऴन्दुबोवदुमात्तिरमण्ड्रिक्के इङ्गु वरक्कूडिय शीलवृत्तशमादिकळैयुमिऴन्दु पोवानॆण्ड्रबडि; इङ्गुट्र फलहानिमात्रमण्ड्रिक्के शास्त्रज्ञनायिरुन्दे परिहास्यनावानॆन्गिऱार् नाच्छादयतीत्यादिना । शुनःपुच्छं कौपीनं – गुह्यप्रदेशं नाच्छादयति । दंशमशकापहञ्च न भवति । तदिव धर्मवर्जितं पाण्डित्यं, अनर्थं – स्वल्पप्रयोजनत्तैयु मुडैयदण्ड्रु. आगैयाल् - परमपुरुषार्थोपायानुष्ठानप्रवृत्त्यभावत्ताले परमपुरुषार्थम् किट्टादागैयालुम् शीलवृत्तशमादिरूपङ्गळान श्रुतफलङ्गळुक्कु हानियुण्डागुमागै यालुम् लोकपरिहास्यतारूपानिष्टत्तिऱ्‌कु अवश्यम् प्राप्तियुण्डागुमागैयालुमॆण्ड्रबडि. इदऱ्‌कु त्वरिक्कुमवर्गळ् ऎन्बदोडन्वयम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“नाच्छादयति कौपीनं न दंशमशकापहम् । शुनः पुच्छमिवानर्थं पाण्डित्यं धर्मवर्जितं” (मनुस्मृतिः 4-1.)
+
+ऎन्गिऱप्पडिये हास्यनाम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्  
+
+> “वयसः कर्मणोऽर्थस्य  
+> श्रुतस्याभिजनस्य च ।  
+> वेष-वाग्-वृत्ति-सारूप्यम्  
+> आचरन् विचरेद् इह”  
+> (मनुस्मृतिः 4-8)
+
+ऎन्गिऱप् पडिय् ए 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतः,
+
+> “वयसः कर्मणोऽर्थस्य  
+> श्रुतस्याभिजनस्य च ।  
+> वेष-वाग्-वृत्ति-सारूप्यम्  
+> आचरन् विचरेद् इह”  
+> (मनुस्मृतिः 4-8)
+
+इत्य्-उक्त-रीत्या
+</details>
+
+<details><summary>English</summary>
+
+Therefore, 
+
+> "men should conduct themselves in a manner  
+> which will be in keeping  
+> with their age,  
+> with the duties which they undertake,  
+> with their goal in life,  
+> with their learning,  
+> and with their birth,  
+> so that their appearance, speech and action are all alike" 
+</details>
+
+<details><summary>Español</summary>
+
+Therefore, 
+
+> "men should conduct themselves in a manner  
+> which will be in keeping  
+> with their age,  
+> with the duties which they undertake,  
+> with their goal in life,  
+> with their learning,  
+> and with their birth,  
+> so that their appearance, speech and action are all alike" 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वयस इति । वयःप्रभृतिकळुक्कु वेषवा-ग्वृत्तिकळ् सदृशङ्गळाग इरुक्कुम्बडि कर्मानुष्ठानङ्गळैच्चॆय्दुगॊण्डु इङ्गु सञ्चरिक्कक्कडवन्. ऎन्गिऱबडिये – इत्यादिप्रमाणोक्तप्रकारमागवे. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल्  
+“वयसः कर्मणोऽर्थस्य श्रुतस्याभिजनस्य च । वेषवाग्वृत्तिसारूप्यमाचरन्विचरेदिह” (मनुस्मृतिः 4-8) ऎन्गिऱप्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रुतानुरूपम् आग, स्वोचितम् आन, परम-पुरुषार्थोपायानुष्ठानत्तिल् ए त्वरिक्कुम् अवर्गळ् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+श्रुतानुरूपे स्वोचिते परमपुरुषर्थोपायानुष्ठाने त्वरमाणा 
+</details>
+
+
+<details><summary>English</summary>
+
+it is only these that will secure the glory described in passages like the following: 
+</details>
+
+<details><summary>Español</summary>
+
+it is only these that will secure the glory described in passages like the following: 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+श्रुतानुरूपमाग - शास्त्रजन्यज्ञानानुरूपमाग स्वोचितमान - तन्नुडैय शक्त्यशक्तिक्कनुगुणमान; इदऱ्‌कु उपाय मॆन्बदोडन्वयम्. परमपुरुषार्थोपायानुष्ठानत्तिल् - परमपुरुषार्थोपायमान भक्तिप्रपत्त्यन्य-तरानुष्ठानत्तिल्, त्वरिक्कुमवर्गळ् - इङ्गु उपायत्तै अनुष्ठिक्कुमवर्गळॆण्ड्रु सॊल् लादे अनुष्ठानत्तिले त्वरिक्कुमवर्गळॆण्ड्रु सॊन्नदु उपायानुष्ठानपूर्वावस्थैये श्लाघ्यता हेतुवॆण्ड्रु ज्ञापिक्कैक्काग. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रुतानुरूपमाग स्वोचितमान परमपुरुषार्थोपायानुष्ठानत्तिले त्वरिक्कुमवर्गळ् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "तन् करुमञ् जॆय्यप् पिऱर् उगन्दार्" 
+
+ऎन्गिऱप्पडिये  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“२२ (सति) स्वं कर्म कुर्वाणे परेऽभिनन्दन्ति" इत्युक्तरीत्या 
+</details>
+
+<details><summary>English</summary>
+
+> when a man performs his duties, he is lauded by others. 
+</details>
+
+<details><summary>Español</summary>
+
+> when a man performs his duties, he is lauded by others. 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+तन्गरुमम् सॆय्य - तनक्कु विहितमान तनक्के फलजनकमुमान करुमत्तै अनुष्ठिक्क, पिऱर् - अन्द कर्मत्ताले वरुम् फलत्तै यडैयाद साधुक्कळ्, उगन्दार् -  
+‘‘यत्त्वार्याः क्रियमाणं प्रशंसन्ति स धर्मः’’+++(5)+++ ऎन्गिऱबडि प्रशंंसापूर्वकमाग सन्तोषित्तार्,  
+ऎन्गिऱबडिये - इत्युक्तप्रकारेण, इदऱ्‌कु एट्रम्बॆऱुवर्गळ् ऎन्बदोडन्वयम्. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+"तन् करुमञ्जॆय्यप् पिऱरुगन्दार्" ऎन्गिऱप्पडिये  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> (येनकेनचिद् आच्छन्नः  
+> येनकेनचिद् आशितः ।  
+> यत्रक्वचनशायी स्यात्  
+> तं देवा ब्राह्मणं विदुः ॥  
+> सर्वद्वंद्वसहो धीरः  
+> सर्वसङ्गविवर्जितः ।  
+> सर्वभूतहिते रक्तः)  
+> तन्देवा ब्राह्मणं विदुः ॥  
+> (भारतम् शान्तिपर्व 118-11.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> (येनकेनचिद् आच्छन्नः  
+> येनकेनचिद् आशितः ।  
+> यत्रक्वचनशायी स्यात्  
+> तं देवा ब्राह्मणं विदुः ॥  
+> सर्वद्वंद्वसहो धीरः  
+> सर्वसङ्गविवर्जितः ।  
+> सर्वभूतहिते रक्तः)  
+> तन्देवा ब्राह्मणं विदुः ॥  
+> (भारतम् शान्तिपर्व 118-11.)
+</details>
+
+<details><summary>English</summary>
+
+> "The gods consider him as a Brahmin  
+> who is clad in whatever rags he can obtain,  
+> eats whatever food comes to him  
+> and has his bed wherever he can find it;" 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "The gods consider him as a Brahmin  
+> who is clad in whatever rags he can obtain,  
+> eats whatever food comes to him  
+> and has his bed wherever he can find it;" 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तन्देवा ब्राह्मणं विदुरिति ।  
+
+> येनकेनचिद् आच्छन्नः  
+> येनकेनचिद् आशितः ।  
+> यत्रक्वचनशायी स्यात्  
+> तं देवा ब्राह्मणं विदुः ॥  
+> सर्वद्वंद्वसहो धीरः  
+> सर्वसङ्गविवर्जितः ।  
+> सर्वभूतहिते रक्तः  
+> तन्देवा ब्राह्मणं विदुः ॥  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> “तन्देवा ब्राह्मणं विदुः” (भारतम् शान्तिपर्व 118-11.)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> (द्रवन्ति दैत्याः) प्रणमन्ति देवताः  
+> (नश्यन्ति रक्षांस्य् अपयान्त्यथारयः ।  
+> यत्कीर्तनात् सोऽद्भुतरूपकेसरी  
+> ममाऽस्तु माङ्गल्यविवृद्धये हरिः,)
+(विष्णुधर्मम् 43-28.)
+
+इत्य्-आदिगळिऱ्‌ चॊल्लुम् एट्रम् पॆऱुवर्गळ्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> (द्रवन्ति दैत्याः) प्रणमन्ति देवताः  
+> (नश्यन्ति रक्षांस्य् अपयान्त्यथारयः ।  
+> यत्कीर्तनात् सोऽद्भुतरूपकेसरी  
+> ममाऽस्तु माङ्गल्यविवृद्धये हरिः,)
+(विष्णुधर्मम् 43-28.)
+
+इत्यादिषु प्रतिपाद्यमानं समुत्कर्षं प्राप्नुयुः ॥
+</details>
+
+<details><summary>English</summary>
+
+> The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
+</details>
+
+<details><summary>Español</summary>
+
+> The gods bow to him (who is free from the pairs of opposites, who has no attachment to anything in life and who ever delights in doing good to all beings").
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> (द्रवन्ति दैत्याः) प्रणमन्ति देवताः  
+> (नश्यन्ति रक्षांस्य् अपयान्त्यथारयः ।  
+> यत्कीर्तनात् सोऽद्भुतरूपकेसरी  
+> ममाऽस्तु माङ्गल्यविवृद्धये हरिः,)
+(विष्णुधर्मम् 43-28.)
+
+इत्यादिगळिऱ्‌ चॊल्लुमेट्रम् पॆऱुवर्गळ्.
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
