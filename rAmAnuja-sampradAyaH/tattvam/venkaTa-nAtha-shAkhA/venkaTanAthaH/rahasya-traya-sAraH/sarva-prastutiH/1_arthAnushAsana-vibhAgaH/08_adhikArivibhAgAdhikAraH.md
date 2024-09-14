@@ -1005,6 +1005,27 @@ The word api (also) in the śloka  indicates that any one of the two will suffic
 इति विहितत्वरूपस्य तदितरगङ्गामरणादिरूपव्यापारस्य निषिद्धत्वरूपस्य च वैषम्यस्य पूर्वोक्तस्य विवक्षितत्वेन कायिकवाचिकप्रपत्त्योरपि साक्षात्साधनत्वं स्थापितमिति प्रतीयते । इत्यलमतिविस्तरेण ।  
 </details>
 
+<details><summary>सायण-टीका - तुल्य-फलत्वम्</summary>
+
+इङ्गु "यथाधिकारं तुल्य-फलङ्गळ् आन" ऎन्गिऱ इरण्डु पदङ्गळैयुं    
++++(स्नान-भेदापेक्षया)+++ दार्ष्टान्तिकत्तिल् उङ् कूट्टि उक्ति-निष्ठै,  
+आचार्यनिष्ठै ऎन्गिऱ इवैयुं  
+यथाऽधिकारं तुल्य-फलङ्गळ् आन प्रपत्तियिल् मुख-भेदङ्गळ् ऎण्ड्रु  
+अन्वयित्तुक्कॊळ्ळ-वेण्डियद् ऎण्ड्रु तिरुवुळ्ळम्.  
+अन्यथा "तुल्य-फल-स्नान-भेदङ्गळ् आनाऱ्‌-पोल्" ए ऎण्ड्रु लाघवात् प्रयोगित्त् इरुप्पाऱ् इऱे.  
+इदिन् व्याख्यान-सारास्वादिनियिल्  
+
+> ‘‘मुख्यम् आनव् आरुण-स्नानत्तोड् ए  
+> तत्-तद्-अधिकरानुगुण-मान्त्र-मानसादि-स्नानादिकळ्  
+> तुल्य-फलङ्गळ् आगिऱाप् पोल् ए  
+> मुख्य-प्रपत्तिक्कु तुल्य-फलङ्गळ् आन प्रपत्ति-भेदङ्गळ् ऎन्गै  
+> ऎण्ड्रु इम्-मूण्ड्रु निष्ठैकळुक्क् उम् फल-भेदम् इल्लै' 
+
+यॆण्ड्रु काण्बिक्कप्पट्टदु.  
+इदनाल् आचार्यनिष्ठैक्कु प्रसादाधिक्य-रूप-फल-भेदं सॊल्लुगिऱ नवीन-मतं निरस्तम्.+++(5)+++  
+इनि आचार्यनिष्ठनैक् काण्बिक्किऱार् इवर्गळिलाचार्यनिष्ठनित्यादियाल्.  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1014,9 +1035,154 @@ The word api (also) in the śloka  indicates that any one of the two will suffic
 
 ## आचार्य-निष्ठा
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळिल् आचार्य-निष्ठन्  
+
+> “पुत्रः प्रेष्यस् तथा शिष्य  
+> इत्य् एवञ् च निवेदयेत्”  
+> (शाण्डिल्य-स्मृतिः 3-75.) 
+
+ऎण्ड्रु शाण्डिल्य-स्मृत्यादिगळिऱ् ‌चॊल्लुगिऱप्-पडिय् ए  
+आचार्यन्-उडैयव् आत्मात्मीय-भर-समर्पणत्तिल् ए तानुम् अन्तर्-भूतन्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनयोर् आचार्य-निष्ठः,
+
+> “पुत्रः प्रेष्यस् तथा शिष्य  
+> इत्य् एवञ् च निवेदयेत्”  
+> (शाण्डिल्य-स्मृतिः 3-75.) 
+
+इति शाण्डिल्य-स्मृत्य्-आद्य्-उक्त-रीत्या  
+आचार्य-कृते आत्मात्मीय-भर-समर्पणे  
+स्वयम् अप्य् अन्तर्भूतः ।
+</details>
+
+<details><summary>English</summary>
+
+Of the two,  
+the one who depends solely on the ācārya   
+is included in the ācārya 's own prapatti as part of it,  
+for it has been laid down in Śāṇḍilya Smṛti and other treatises as follows: 
+
+> “He should also state thus: 
+> 
+> > “This is my son, my servant, my disciple (who is to be saved)". 
+</details>
+
+<details><summary>Español</summary>
+
+Of the two,  
+the one who depends solely on the ācārya   
+is included in the ācārya 's own prapatti as part of it,  
+for it has been laid down in Śāṇḍilya Smṛti and other treatises as follows: 
+
+> “He should also state thus: 
+> 
+> > “This is my son, my servant, my disciple (who is to be saved)".
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इवर्गळिल् - उक्तिनिष्ठाचार्यनिष्ठयोर्मद्ध्ये, आचार्यनिष्ठन् - आचार्यनिष्ठशब्दवाच्यन्.  
+पुत्रः प्रेष्यस्तथा शिष्य इत्येवञ्च निवेदयेदिति । कुटुम्बीति शेषः । अथवा इदऱ्‌कुमुन् 
+
+> ‘‘कुटुम्बिनोऽपि कर्तव्यं  
+> कर्म कुर्युर् अतन्द्रिताः’’ 
+
+ऎण्ड्रु कुडुम्बिगळायिरुन्दाल् उं  
+तङ्गळ् तङ्गळुक्कवश्यकर्तव्यम् आन कर्मत्तै सोम्बल्-अण्ड्रिय् ए पण्णक्-कडवर्गळ् ऎण्ड्रु  
+सामान्यम् आगच् चॊल्लि पिऱगु  
+
+> ‘‘उत्थाय पूर्वं गृहिणी  
+> सुस्नाता यतमानसा ।  
+> स्नुषा-दुहितृ-पुत्राद्यान्  
+> यथार्हं शुचितान् नयेत्’’ 
+
+ऎण्ड्रु गृहिणिय् आनवळ्  
+तां स्नानं सॆय्दु निश्चल-चित्तैय् आय्  
+स्नुषा-दुहितृ-पुत्रादिकळुक्कु अवर्-अवर्गळुक्कुत् तक्कप्-पडि स्नानत्ताल् शुद्धियैय् उण्डु-बण्णिय् उम्  
+ऊर्ध्वप-ुण्ड्र-वस्त्र-भूषणादिकळाल् ए अलङ्करिक्कक्-कडवळ् ऎण्ड्रु गृहिणी-व्यापारत्तैच् चॊल्लि,  
+पिऱगु 
+
+> ‘‘ऊर्ध्व-पुण्ड्र-धराश् शुद्धा  
+> वस्त्राभरण-भूषिताः ।  
+> स्व्-आचान्ताः प्रयता  
+> देवम् अभिगच्छेयुर् आदृताः’’ 
+
+ऎण्ड्रु अलङ्कृतर्गळ् आन पुत्रादिकळ्  
+आचमनादिकळैप् पण्णि  
+यत-मनस्कर्गळ् आय्  
+स्व-गृहत्तिल् कोयिल्-आऴ्वार्गळिल् उळ्ळ भगवानै अभिमुखी-कृत्य पोगक्-कडवर्गळ्  
+ऎण्ड्रु बालर्गळ्-उडैय कर्मत्तैच् चॊल्लि,  
+मेल् 
+
+> ‘‘त्रिसन्ध्यं कारयेद् बालान्  
+> वन्दनं देवपादयोः ।  
+> पुत्रः प्रेष्यस्तथा शिष्य  
+> इत्येवञ्च निवेदयेत्’’ 
+
+ऎण्ड्रु बालर्गळै भगवत्-पादारविन्दङ्गळिल् वन्दनम् पण्णुम्-बडि सॆय्-विक्क-वेण्डुम् ऎण्ड्रुम्,  
+तमक्कुम् अवर्गळुक्कुम् उळ्ळ सम्बन्ध-निवेदन-पूर्वकम्  
+अभिगमन-कालिक-सायम्-अभिगमन-पर्यन्त--  कैङ्कर्य-सिद्धि-हेतु-भूतात्मात्मीय-भर-समर्पणत्तै  
+
+> अहम्, अयं पुत्रः, अयं प्रेष्यः, अयं शिष्यः 
+
+ऎन्गिऱ क्रमम् आगव् अनुष्टिक्कक्-कडवन् ऎण्ड्रुं सॊल्लप्-पट्ट् इरुक्किऱदु.  
+
+इङ्गु ‘‘कुटुम्बिनः’’ ऎण्ड्र् आरम्भत्तिल् सॊल्लिय् इरुप्पदाल् उम्,  
+इन्द श्लोकत्तिल् कर्ता सॊल्लप्-पडव्-इल्लैय् आगैयाल् उम्,  
+इदिल् शिष्यनैच् चॊल्लिय् इरुप्पदाल्  
+तत्-प्रतिसम्बन्धिय् आग आचार्यन् ऒरुवन् तोण्ड्रुगैयाल् उम्  
+आरम्भत्तिल् सॊन्न बहु-वचनान्त-कुटुम्बि-शब्दत्तै  
+कुटुम्बी ऎण्ड्रु एक-वचनान्तम् आग विपरिणमित्तु  
+अनुषङ्गित्तु कॊळ्वदु.  
+
+इन्द श्लोकत्तिल् ‘‘च’’कारत्ताल्  
+आत्म-निवेदनम् उम् अभिप्रेतम्  
+ऎण्ड्रु शाण्डिल्यस्मृत्यादिकळिल् सॊल्गिऱबडिय् ए -  
+उक्त-प्रकारत्ताल् ए शाण्डिल्य-स्मृतियिल्  
+अभिगमन-कालत्तिल् कर्तव्यम् आगच् चॊल्लुगिऱ आत्मात्मीय-भर-समर्पणम् पोल् एय् इरुक्किऱ,  
+आचार्यनुडैय आत्मात्मीय-भर-समर्पणत्तिल् ए -  
+आचार्यकर्तृकम् आन मोक्षार्थम् आन आत्मात्मीय-भर-समर्पणत्तिले तानुम् अन्तर्भूतन् इति ।  
+अन्तर्भूतो यः स आचार्यनिष्ठः ऎण्ड्रबडि.  
+</details>
 
 
-Of the two, the one who depends solely on the ācārya  is included in the ācārya 's own prapatti as part of it, for it has been laid down in Śāṇḍilya Smṛti and other treatises as follows: “He should also state thus: “This is my son, my servant, my disciple (who is to be saved)". It has been said: “There may be doubts concerning (the redemption of) those that serve Acyuta, but there is absolutely no doubt about the (redemption) of those who delight in the service of His devotees". So, in the case of those who depend solely on the ācārya , there is no doubt at all concerning the fruition of prapatti, by the principle of "How much more, then" (kaimutika nyāya).
+<details><summary>मूलम्</summary>
+
+इवर्गळिलाचार्यनिष्ठन् “पुत्रः प्रेष्यस्तथा शिष्य इत्येवञ्च निवेदयेत्”(शाण्डिल्य-स्मृतिः 3-75.) ऎण्ड्रु शाण्डिल्यस्मृत्यादिगळिऱ्‌चॊल्लुगिऱप्पडिये आचार्यनुडैय वात्मात्मीयभर-समर्पणत्तिले तानुमन्तर्भूतन्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “सिद्धिर् भवति वा नेति  
+> संशयोऽच्युत-सेविनाम् ।  
+> न संशयोऽत्र तद्-भक्त-  
+> परिचर्यारतात्मनाम्”(शाण्डिल्य-स्मृतिः 1-95.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “सिद्धिर् भवति वा नेति  
+> संशयोऽच्युत-सेविनाम् ।  
+> न संशयोऽत्र तद्-भक्त-  
+> परिचर्यारतात्मनाम्” (शाण्डिल्य-स्मृतिः 1-95.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“सिद्धिर्भवति वा नेति संशयोऽच्युतसेविनाम् । न संशयोऽत्र तद्भक्तपरिचर्यारतात्मनाम्”(शाण्डिल्य-स्मृतिः 1-95.) 
+</details>
+
+
+
+It has been said: 
+
+> “There may be doubts concerning (the redemption of) those that serve Acyuta, but there is absolutely no doubt about the (redemption) of those who delight in the service of His devotees". So, in the case of those who depend solely on the ācārya , there is no doubt at all concerning the fruition of prapatti, by the principle of "How much more, then" (kaimutika nyāya).
 
 Mudali Andan said: "When a lion leaps from one hill to another, the little creatures (like bugs and lice) on his body are also taken over from that hill to the other. So also when the author of Śrī Bhāṣya performed prapatti (the surrender of his responsibility or bhara), we "too have been saved (by that act)[^44] owing to our intimate connection with him." We, too, have expressed this idea in Nyāsa Tilaka as follows:- " The blind man walks on being led by one who is not blind; the lame man is taken (across the stream) by the boatman, being placed within the boat; the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king. So also my ācārya , who is compassionate, is capable of making me attain Thee, O Lord of Śrīraṅgam". It comes to this that the Lord of all will not be gracious enough to grant us the supreme goal of existence, unless prapatti is performed in some manner or other and by some one or other.
 
