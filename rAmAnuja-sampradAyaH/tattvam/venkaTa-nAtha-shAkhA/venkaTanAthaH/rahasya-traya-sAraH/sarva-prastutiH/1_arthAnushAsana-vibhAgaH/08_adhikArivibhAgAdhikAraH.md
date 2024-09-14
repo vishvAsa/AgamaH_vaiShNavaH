@@ -1172,19 +1172,158 @@ for it has been laid down in Śāṇḍilya Smṛti and other treatises as follo
 > परिचर्यारतात्मनाम्” (शाण्डिल्य-स्मृतिः 1-95.)
 </details>
 
+<details><summary>English</summary>
+
+It has been said: 
+
+> “There may be doubts concerning (the redemption of) those that serve Acyuta,  
+> but there is absolutely no doubt about the (redemption) of those  
+> who delight in the service of His devotees".
+</details>
+
+<details><summary>Español</summary>
+
+It has been said: 
+
+> “There may be doubts concerning (the redemption of) those that serve Acyuta,  
+> but there is absolutely no doubt about the (redemption) of those  
+> who delight in the service of His devotees".
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+श्लोकत्तिल् आचार्य-शुश्रूषा-निरतनै आचार्य-निष्ठन् ऎण्ड्रु व्यवहरित्ताल् उम्  
+अवन् मुक्त्य्-उपाय-निष्ठन् अल्लामैयाल् ए  
+उक्ति-निष्ठनोडु सेर्न्दॆ् ऎडुक्कप्-पट्ट इवन्  
+आचार्यन्-उडैय भरसमर्पणान्तर्गतन् एय् ऎण्ड्रु तिरुवुळ्ळम्.  
+इव्वाचार्यनिष्ठनुक्कु फलसिद्धियिल् सन्देहमिल्लै ऎन्गिऱार्  
+सिद्धिर्भवति वा नेतीति । इन्द श्लोकं शाण्डिल्यस्मृतियिलुळ्ळदु. इदिन् कीऴ् ‘‘वस्त्रगोभूमिदानेन धनधान्यादिभिस्तथा । तोषयेत्परया भक्त्या नित्यं भागवतान्नरान्’’ ऎण्ड्रु भागवताराधनं सॊल्लप्पट्टदु. अदिन् मेल् फलदानसामर्थ्यमिल्लाद भक्तपरिचर्यैयिनाल् फलसिद्धियुण्डागुमोवॆण्ड्रु ऒरुवन् शङ्गिक्क निश्चितार्थव्यतिरेकसम्भावनाप्रयोगत्ताले भागवतसमाश्रयणमुळ्ळवनुक्कु फलसिद्धियिल् सन्देहमिल्लै यॆण्ड्रु सॊल्ल वन्ददु इन्द श्लोकम्. अच्युतसेविनां – भगवत्सेवानिरतर्गळुक्कु सिद्धिर्भवति वा नेति संशयस्स्यात् । फलसिद्धियिल् संशयमॊरुवनुक्कु उण्डागक्कूडुम्. तद्भक्तपरिचर्यारतात्मनां न संशयः । अत्र फलसिद्धौ न संशयः । न कस्याप्यस्तीत्यर्थः । इङ्गु ‘‘अस्तिर्भवतीत्येतदप्रयुज्यमानमप्यस्ती’’ति न्यायत्ताले स्यात् ऎन्गिऱ पदत्तै आर्थमागक् कॊळ्ळवेण्डुम्. अथवा सिद्धिर्भवति वा ऎन्गिऱ विडत्तिलिरुक्कुम् भवति ऎन्गिऱ पदत्तै लिङ्व्यत्यासेन संशयपदत्तिऱ्‌कुप्पिऱगु अनुषङ्गित्तुक् कॊळ्वदु. ऎन्गिऱ कणक्किले - ऎण्ड्रु इतरफलसिद्धिसॊन्न प्रकारत्ताले. 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
 “सिद्धिर्भवति वा नेति संशयोऽच्युतसेविनाम् । न संशयोऽत्र तद्भक्तपरिचर्यारतात्मनाम्”(शाण्डिल्य-स्मृतिः 1-95.) 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎन्गिऱ कणक्किल् ए  
+आचार्य-निष्ठनुक्कु कैमुतिक-न्यायत्ताल् ए  
+फल-सिद्धियिल् सन्देहम् इल्लै.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[७७]]
+
+इत्युक्तन्यायेन आचार्य निष्ठस्य कैमुतिक-न्यायेन फलसिद्धौ न सन्देहः । 
+
+</details>
 
 
-It has been said: 
+<details><summary>English</summary>
 
-> “There may be doubts concerning (the redemption of) those that serve Acyuta, but there is absolutely no doubt about the (redemption) of those who delight in the service of His devotees". So, in the case of those who depend solely on the ācārya , there is no doubt at all concerning the fruition of prapatti, by the principle of "How much more, then" (kaimutika nyāya).
+So, in the case of those who depend solely on the ācārya ,  
+there is no doubt at all concerning the fruition of prapatti,  
+by the principle of "How much more, then" (kaimutika nyāya).
+</details>
 
-Mudali Andan said: "When a lion leaps from one hill to another, the little creatures (like bugs and lice) on his body are also taken over from that hill to the other. So also when the author of Śrī Bhāṣya performed prapatti (the surrender of his responsibility or bhara), we "too have been saved (by that act)[^44] owing to our intimate connection with him." We, too, have expressed this idea in Nyāsa Tilaka as follows:- " The blind man walks on being led by one who is not blind; the lame man is taken (across the stream) by the boatman, being placed within the boat; the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king. So also my ācārya , who is compassionate, is capable of making me attain Thee, O Lord of Śrīraṅgam". It comes to this that the Lord of all will not be gracious enough to grant us the supreme goal of existence, unless prapatti is performed in some manner or other and by some one or other.
+<details><summary>Español</summary>
+
+So, in the case of those who depend solely on the ācārya ,  
+there is no doubt at all concerning the fruition of prapatti,  
+by the principle of "How much more, then" (kaimutika nyāya).
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आचार्यनिष्ठनुक्कु - आचार्यनुडैय मोक्षार्थमान आत्मात्मीयभरसमर्पणत्तिलन्तर्भूतनान आचार्यनिष्ठनुक्कु कैमुतिकन्यायत्ताले फलसिद्धियिल् सन्देहमिल्लै इति । केवलभागवतपरिचर्यारतनुक्के फलसिद्धियिल् सन्देहमिल्लै यॆण्ड्राल् कैमुतिकन्यायत्ताले आचार्यनुडैय मोक्षार्थमान आत्मात्मीयभरसमर्पणत्तिलन्तर्गतनुक्कु मोक्षरूपफलसिद्धिविषयत्तिल् सन्देहमे यिल्लै यॆण्ड्रबडि.
+
+इङ्गु सारदीपिकैयिल् "इव्वाचार्यनिष्ठैक्कु फलाविनाभावत्तिल् प्रमाणं काट्टुगिऱार् सिद्धिरित्यादि । अच्युतसेविनां फलसिद्धौ संशयः कर्तुं शक्यते; तद्भक्तपरिचर्यारतात्मनां फलसिद्धौ संशयो न कस्याप्यस्ती’’ति व्याख्यानं सॆय्यप्पट्टिरुक्किऱदु. इङ्गु संशयः कर्तुं शक्यते ऎण्ड्रु सॊन्नप्पडियाल् केऴ्क्किऱ शिष्यनुक्कुं सॊल्लुगिऱ वाचार्यनुक्कुम् अच्युतसेविकळ् विषयत्तिल् फलसिद्धियिल् संशयमेयिल्लै यॆण्ड्रेऱ्‌पडुगिऱदु. लोकत्तिल् हरिश्चन्द्रनिडत्तिल् सत्यवदननिश्चयमुळ्ळवनाय् श्रीरामनिडत्तिल् सत्यवदनसंशयमुडैयवनान ऒरु पुरुषनुक्कु श्रीरामनुं सत्यवादी यॆण्ड्रु स्थापिक्क प्रवृत्तनान मट्रॊरु वाक्यकुशलन् हरिश्चन्द्रस्य सत्यवदनं भवति वा न वेति संशयः कर्तुं शक्यते न रामस्य तस्मिन्न कस्यापि संशयस्सम्भवति ऎण्ड्रुसॊन्नाल् अव्वाक्यत्तिल् इरण्डुबेर्गळुक्कुं सिद्धमान हरिश्चन्द्र सत्यवदन निश्चयत्तिन् व्यतिरेकप्रयोगत्ताल् रामनिडत्तिल् सत्यवदन निश्चयमुण्डागुमेयॊऴिय हरिश्चन्द्रनिडत्तिल् सत्यवदन संशयमॊरुवरुक्कुमुण्डागादु. इन्द श्लोकत्तिलनुषङ्गिक्क वेण्डियदागच् चॊन्न भवेत् ऎन्गिऱ पदम् ‘‘द्यौः पतेत्’’ ऎन्नुमिडत्तिल्बोल् सम्भावनायां लिङ् । इप्पडि सम्भावनार्थकलिङ्प्रयोगस्थलङ्गळिल् सम्भावितार्थव्यतिरेकनिश्चयं तर्कत्तिल् आपाद्यव्यतिरेकनिश्चयम्बोल् आवश्यकमॆन्बदु
+
+> ‘‘द्यौः पतेत् पृथिवी शीर्येद्  
+> +धिमवान् शकली-भवेत् ।  
+> शुष्येत् तोयनिधिः, कृष्णे  
+> न मे मोघं वचो भवेत्’’
+
+इत्यादि शास्त्रज्ञर्गळुक्कु विशदम्. इन्द स्थलत्तिल् कृष्णनुक्कु आकाशादिकळ् पतनाद्यनर्हङ्गळॆण्ड्रुम्, तन्नुडैय वार्त्तै व्यर्थमागा तॆण्ड्रुम् इरण्डु निश्चयमुमुण्डु. कृष्णे ऎण्ड्रु सम्बोधिक्कप्पट्ट द्रौपदिक्कु आकाशादिकळ् पतनाद्यनर्हङ्गळॆन्गिऱ विषयत्तिल् मात्तिरं निश्चयमुं कृष्णन् वाक्यं व्यर्थमागुमो वॆन्गिऱ संशयमुमुण्डु. इवळुडैय इन्द संशयत्तैप् पोक्कुगैक्कु अवळुक्कु निश्चितङ्गळान अकाशादिकळुडैय पतनाद्यर्हत्वाभावादिकळुक्कु व्यतिरेकसम्भावनाद्योतकङ्गळान ‘‘द्यौः पतेत्पृथिवी शीर्येत्’’ इत्यादिवाक्यङ्गळै प्रयोगित्तुत् तन् वार्त्तै व्यर्थमागादॆन्गिऱ निश्चयत्तै द्रौपदिक्कु कण्णन् उण्डुबण्णिनारॆन्गिऱ विषयं सर्वालङ्कारिकहृदयविदितम्. इप्पडिये
+
+> ‘‘अप्यहं जीवितं जह्यां  
+> त्वां वा सीते! सलक्ष्मणाम् ।  
+> न हि प्रतिज्ञां संश्रुत्य  
+> ब्राह्मणेभ्यो विशेषतः ॥’’+++(5)+++
+
+ऎन्गिऱ श्लोकत्तिलुं निश्चिततर-निश्चिततमार्थङ्गळुक्कु व्यतिरेक-सम्भावना-प्रयोगं सॆय्दु  
+ताम् ब्राह्मण-निमित्तम् आगप्-पण्णिन प्रतिज्ञैयै विड-माट्टोम् ऎन्गिऱ निश्चयत्तै  
+श्रीबिराट्टिक्कु चक्रवर्तित्-तिरुमगन् उण्डुबण्णिनारॆण्ड्रुं सहृदयहृदयङ्गमम्. इव्विडत्तिल् सॊल्लवेण्डिय विशेषविषयङ्गळैयुम्, सारास्वादिनीयोजनाऽस्वारस्यादिकथनङ्गळैयुम् अस्मदुक्तन्यासनिष्ठामीमांसैयिल् कण्डुगॊळ्वदु.
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎन्गिऱ कणक्किले आचार्यनिष्ठनुक्कु कैमुतिकन्यायत्ताले फलसिद्धियिल् सन्देहमिल्लै.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऒरु मलैयि-निण्ड्रुम् ऒरु-मलैयिल् ए धावुम् सिंह-शरीरत्तिल् जन्तुक्कळैप् पोल् ए  
+भाष्य-कारर् संसारातिलङ्घनम् पण्ण  
+अवरोड् उण्डान कुडल्+++(=गर्भ)+++-तुवक्काल्+++(=सम्बन्धात्)+++ ए  
+नाम् उत्तीर्णर् आवुदोम्  
+
+ऎण्ड्रु मुदलिय्-आण्डानरुळिच् चॆय्द पासुरम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> एकस्मात् गिरेर् गिर्य्-अन्तरं धावतः सिंहस्य शरीरे जन्तव इव  
+> भाष्यकारे संसारं लङ्घयति सति  
+> तत्-सहज-संबन्धात् वयम् अपि उत्तीर्णा भविष्यामः" 
+
+इति दाशरथि-नाम्नः स्वामिनो ( मुदलिय्-आण्डान् ) वाणी । 
+</details>
+
+<details><summary>English</summary>
+
+Mudali Andan said: 
+
+> "When a lion leaps from one hill to another,  
+> the little creatures (like bugs and lice) on his body are also taken over from that hill to the other.  
+> So also when the author of Śrī Bhāṣya performed prapatti (the surrender of his responsibility or bhara),  
+> we "too have been saved (by that act)[^44] owing to our intimate connection with him."
+
+</details>
+
+<details><summary>Español</summary>
+
+Mudali Andan said: 
+
+> "When a lion leaps from one hill to another,  
+> the little creatures (like bugs and lice) on his body are also taken over from that hill to the other.  
+> So also when the author of Śrī Bhāṣya performed prapatti (the surrender of his responsibility or bhara),  
+> we "too have been saved (by that act)[^44] owing to our intimate connection with him."
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+आचार्यनिष्ठनुक्कु फलसिद्धियुण्डॆन्बदिल् सम्प्रदायत्तैक् काट्टुगिऱार् ऒरुमलैयिनिण्ड्रुमित्यादि । भाष्यकारर् संसारातिलङ्घनम् पण्ण - आत्मात्मीयभरसमर्पणत्ताले भाष्यकारर् मोक्षम् पॆऱ, अवरोडुण्डान कुडल्दुवक्काले - कुडल् तुवक्कु - शरीरसम्बन्धम्; अवरुडैय आत्मात्मीयभरसमर्पणत्तिलन्तर्भावत्ताले यॆण्ड्रबडि. नामुम् उत्तीर्णरावुदोम् - उत्तीर्णर्गळागप् पॆट्रोम्. इदनाल् ज्ञानशक्त्यादिकळिल्लाद इव्वधिकारिक्कुम् आचार्यसम्बन्धम् अतिशयितफलप्रदमॆण्ड्रु सूचितमागिऱदु.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऒरुमलैयिनिण्ड्रुमॊरुमलैयिले तावुम् सिंहशरीरत्तिल् जन्तुक् कळैप्पोले भाष्यकारर् संसारातिलङ्घनम् पण्ण अवरोडुण्डान कुडल् तुवक्काले नामुत्तीर्णरावुदोम् ऎण्ड्रु मुदलियाण्डानरुळिच् चॆय्द पासुरम्.
+</details>
+
+
+
+
+We, too, have expressed this idea in Nyāsa Tilaka as follows:- " The blind man walks on being led by one who is not blind; the lame man is taken (across the stream) by the boatman, being placed within the boat; the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king. So also my ācārya , who is compassionate, is capable of making me attain Thee, O Lord of Śrīraṅgam". It comes to this that the Lord of all will not be gracious enough to grant us the supreme goal of existence, unless prapatti is performed in some manner or other and by some one or other.
 
 [^44]: This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school. The former hold that since Śrī Rāmānuja has already performed prapatti, even his followers of a later day who acknowledge him as their ācārya  will benefit by it and they need not perform prapatti; the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it
 
