@@ -1461,7 +1461,18 @@ and by some-one or other.
 एदेनुमॊरु प्रकारमागवुमाम् आरे नुमॊरुवरनुष्ठिक्कवुमाम् प्रपत्तिक्कल्लदु सर्वेश्वरन् परमपुरुषार्थङ्गॊडुक्क इरङ्गानॆण्ड्रदायिट्रु.  
 </details>
 
-### भागवताभिमानादिना नालम्
+## भागवताभिमानादिना नालम्
+
+<details><summary>English</summary>
+
+The favour of Bhāgavatas, residence in holy places and the like are not direct and independent means for attaining mokṣa .
+</details>
+
+<details><summary>Español</summary>
+
+The favour of Bhāgavatas, residence in holy places and the like are not direct and independent means for attaining mokṣa .
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1520,11 +1531,198 @@ and by some-one or other.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “ते वयं भवता  
+> रक्ष्या भवद्-विषय-वासिनः ।  
+> नगर-स्थो वन-स्थो वा  
+> त्वन् नो राजा जनेश्वर” 
+> (रामायणम्-आरण्य 1-20.) 
+
+ऎण्ड्रुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “ते वयं भवता  
+> रक्ष्या भवद्-विषय-वासिनः ।  
+> नगर-स्थो वन-स्थो वा  
+> त्वन् नो राजा जनेश्वर” 
+> (रामायणम्-आरण्य 1-20.) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> “We, who live in your territories, should be protected by you,  
+> for you are our king, O ruler of men,  
+> whether you are in the town or in the forests''. 
+</details>
+
+<details><summary>Español</summary>
+
+> “We, who live in your territories, should be protected by you,  
+> for you are our king, O ruler of men,  
+> whether you are in the town or in the forests''. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ते वयमित्यादि । इदुदण्डकारण्यवासिकळिन् वार्त्तै. भवद्विषयवासिनः ते वयं तत एव हेतोः भवता रक्ष्याः; इदनाल् भगवद्विषयवासत्तिऱ्‌कु भगवद्रक्षणहेतुत्वं सॊल्लप्पट्टदु.
+</details>
 
 
-The favour of Bhāgavatas, residence in holy places and the like are not direct and independent means for attaining mokṣa . 
+<details><summary>मूलम्</summary>
 
-“We, who live in your territories, should be protected by you, for you are our king, O ruler of men, whether you are in the town or in the forests''. "All the beings in Ayodhya which contained (many) good regions - whether they were beings that moved or beings that could not move - he enabled them (all) to acquire nobility of nature". The nobility was that of feeling delight in the company of ŚrīRāma and grief in separation from him. "The strength that lies in living in places where Thou hast temples is the strength that enables a man to attain mokṣa ". (From these passages, it might appear, at first sight, that the favour of Bhāgavatas or God's devotees and the fact of living in places belonging to the Lord would lead of themselves to the supreme goal.) But even here there is always some connection with either prapatti by one's owa utterance or prapatti through the ācārya  or bhakti or prapatti which existed before or bhakti or prapatti which followed. It may be asked how this could be. (The answer is as follows:-) They will lead to bhakti or prapatti. In the case of one who has already adopted bhakti or upāsanā, they will promote the further development of the upāya or means. In the case of one who has performed prapatti as an independent means, they will promote the eagerness for service while in this world. It is in this way they render help.
+“ते वयं भवता रक्ष्या भवद्विषयवासिनः । नगरस्थो वनस्थो वा त्वन्नो राजा जनेश्वर”(रामायणम्-आरण्य 1-20.) ऎण्ड्रुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "नऱ्-‌पाल् अयोद्धियिल्  
+> **वाऴुञ्** चराचरम् मुट्रव् उम्  
+> नऱ्-+++(स्वभाव-)+++‌पालुक्क् **उय्त्तनन्**"  
+
+ऎण्ड्र् उम्(तिरुवाय्मॊऴि 7-5-1),
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “18 समीचीन-स्थाने ऽयोध्यायां  
+> जीवितवन्ति चराचराणि सर्वाणि  
+> सत्-स्वभावं प्रापितवन्तम् " 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+> "All the beings in Ayodhya which contained (many) good regions -  
+> whether they were beings that moved or beings that could not move -  
+> he enabled them (all) to acquire nobility of nature". 
+
+The nobility was that of feeling  
+delight in the company of ŚrīRāma  
+and grief in separation from him.
+</details>
+
+<details><summary>Español</summary>
+
+> "All the beings in Ayodhya which contained (many) good regions -  
+> whether they were beings that moved or beings that could not move -  
+> he enabled them (all) to acquire nobility of nature". 
+
+The nobility was that of feeling  
+delight in the company of ŚrīRāma  
+and grief in separation from him.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+नऱ्‌पालित्यादि । नऱ्‌पालयोत्तियिल् - नल्ल भागत्तै युडैयवयोत्तियिल्, वाऴुम् - सुखमाग वसित्तु कॊण्डिरुक्कुम्, सरासरम् मुट्रवुम् - जङ्गमस्थावरङ्गळैयॆल्लाम्, नऱ्‌पालुक्कु - नल्लस्वभावत्तिऱ्‌कु, स्वसंश्लेषविश्लेषैकसुखदुःखङ्गळान स्वभावत्तिऱ्‌कु, उय्त्तनन् - सॆलुत्तिनान्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"नऱ्‌पालयोत्तियिल् वाऴुञ्जरासरम् मुट्रवुम् नऱ्‌पालुक्कुय्त्तनन्"  ऎण्ड्रुम्(तिरुवाय्मॊऴि 7-5-1),
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ""+++(मोक्ष-प्रापक-)+++वन्मैय्+++(=बलम्)+++ आवदु  
+> निन्-कोयिलिल् वाऴुम् वैट्टणवन् ऎन्नुम् वन्मैय् ""(पॆरिय-ति-5-1-3.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "14 +++(मोक्ष-प्रापक-)+++बलं नाम त्वदालय-वासी वैष्णव इति बलम् " 
+</details>
+
+<details><summary>English</summary>
+
+> "The strength that lies in living in places where Thou hast temples  
+> is the strength that enables a man to attain mokṣa ".
+</details>
+
+<details><summary>Español</summary>
+
+> "The strength that lies in living in places where Thou hast temples  
+> is the strength that enables a man to attain mokṣa ".
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वन्मैयावदित्यादि । वन्मैयावदु - मोक्षम् पॆऱुगैक्कु बलमावदु, निन् - उन्नुडैय, कोयिलिल् - उगन्दरुळिन निलत्तिल्, वाऴुम् - वसिक्कुम्वनान, वैट्टणवनॆन्नुं वन्मै - वैष्णवनॆन्नुम् बलमॆन्गै. इदनाल् दिव्यदेशवासम् मोक्षम् पॆऱुगैक्कुक् कारणमॆण्ड्रु सॊल्लित्तायिट्रु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+""वन्मैयावदु निन्गोयिलिल् वाऴुम् वैट्टणवनॆन्नुम् वन्मैय्""(पॆरिय-ति-5-1-3.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्र उं सॊल्लुगिऱ -  
+साक्षान्-मोक्षोपायम् बोल् सॊल्लुगिऱ  
+भागवताभिमानम्, केवल-भागवताभिमानम्, भगवद्-विषय-वासादिकळुक्क् उम् –  
+दिव्य-देश-वासादिकळुक्क् उम्  
+तन्-बक्कलिलेय् आदल्, पिऱर्-पक्कलिल् एय् आदल्,  
+मुन्बेय् आदल्, पिन्ब् +++(करिष्यमाणम्)+++ एय् आदल्  
+ऒरु उपायत् तुवक्क् उण्डु.+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य् उच्यमानानां भागवताभिमान--भगवद्-विषय-वासादीनां  
+स्व-कृतेन परकृतेन वा  
+पूर्व-कृतेन पश्चात् करिष्यमाणेन वा  
+केनचिद् उपायेन संबन्धो भवति । +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+(From these passages, it might appear, at first sight,  
+that the favour of Bhāgavatas or God's devotees  
+and the fact of living in places belonging to the Lord  
+would lead of themselves to the supreme goal.)  
+But even here there is always some connection  
+with either prapatti by one's own utterance  
+or prapatti through the ācārya   
+or bhakti or prapatti which existed before  
+or bhakti or prapatti which followed. 
+</details>
+
+<details><summary>Español</summary>
+
+(From these passages, it might appear, at first sight,  
+that the favour of Bhāgavatas or God's devotees  
+and the fact of living in places belonging to the Lord  
+would lead of themselves to the supreme goal.)  
+But even here there is always some connection  
+with either prapatti by one's own utterance  
+or prapatti through the ācārya   
+or bhakti or prapatti which existed before  
+or bhakti or prapatti which followed. 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ऎण्ड्रुं सॊल्लुगिऱ - साक्षान्मोक्षोपायम्बोल् सॊल्लुगिऱ, भागवताभिमानम् - केवलभागवताभिमानम्, भगवद्विषयवासादिकळुक्कुम् – दिव्यदेशवासादिकळुक्कुम् तन्बक्कलिलेयादल्, पिऱर् पक्कलिलेयादलॆन्बदु प्रपत्तिविषयम्; मुन्बेयादल् पिन्बेयादलॆन्बदु भक्तिप्रपत्त्युभयविषयम्. पिऱर्बक्कलिले - आत्मात्मीयभरसमर्पणम् पण्णुगिऱ आचार्यन् पक्कलिले, उपायत्तुवक्कुण्डु - उपायसम्बन्धमुण्डु. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रुं सॊल्लुगिऱ - साक्षान्मोक्षोपायम्बोल् सॊल्लुगिऱ, भागवताभिमानम् - केवलभागवताभिमानम्, भगवद्विषयवासादिकळुक्कुम् – दिव्यदेशवासादिकळुक्कुम् तन्बक्कलिलेयादल्, पिऱर् पक्कलिलेयादल्, मुन्बेयादल् पिन्बेयादलॊरु उपायत्तुवक्कुण्डु.
+</details>
+
+
+
+
+It may be asked how this could be. (The answer is as follows:-) They will lead to bhakti or prapatti. In the case of one who has already adopted bhakti or upāsanā, they will promote the further development of the upāya or means. In the case of one who has performed prapatti as an independent means, they will promote the eagerness for service while in this world. It is in this way they render help.
 
 DIFFERENCE BETWEEN BHAKTI AND PRAPATTI
 
