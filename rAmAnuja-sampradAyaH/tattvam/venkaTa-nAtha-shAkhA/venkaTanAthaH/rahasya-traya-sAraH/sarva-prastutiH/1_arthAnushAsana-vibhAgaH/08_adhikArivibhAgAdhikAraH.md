@@ -1320,10 +1320,64 @@ Mudali Andan said:
 ऒरुमलैयिनिण्ड्रुमॊरुमलैयिले तावुम् सिंहशरीरत्तिल् जन्तुक् कळैप्पोले भाष्यकारर् संसारातिलङ्घनम् पण्ण अवरोडुण्डान कुडल् तुवक्काले नामुत्तीर्णरावुदोम् ऎण्ड्रु मुदलियाण्डानरुळिच् चॆय्द पासुरम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्धोऽनन्ध-ग्रहण-वशगो **याति** रङ्गेश यद्वत्  
+पङ्गुर् नौका-कुहर-निहितो **नीयते** नाविकेन ।  
+**भुङ्क्ते** भोगान् अ-विदित-नृपः सेवकस्यार्भकादिः  
+त्वत्-सम्प्राप्तौ **प्रभवति** तथा देशिको मे दयालुः ॥ २१॥
+
+ऎण्ड्रु न्यासतिलकत्तिले सॊन्नोम्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अन्धोऽनन्ध-ग्रहण-वशगो **याति** रङ्गेश यद्वत्  
+पङ्गुर् नौका-कुहर-निहितो **नीयते** नाविकेन ।  
+**भुङ्क्ते** भोगान् अ-विदित-नृपः सेवकस्यार्भकादिः  
+त्वत्-सम्प्राप्तौ **प्रभवति** तथा देशिको मे दयालुः ॥ २१॥
+
+इति न्यासतिलकेऽवोचाम । 
+</details>
+
+
+<details><summary>English</summary>
+
+We, too, have expressed this idea in Nyāsa Tilaka as follows:- 
+
+> " The blind man walks on being led by one who is not blind;  
+> the lame man is taken (across the stream) by the boatman, being placed within the boat;  
+> the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king.  
+> So also my ācārya , who is compassionate, is capable of making me attain Thee, O Lord of Śrīraṅgam". 
+
+</details>
+
+<details><summary>Español</summary>
+
+We, too, have expressed this idea in Nyāsa Tilaka as follows:- 
+
+> " The blind man walks on being led by one who is not blind;  
+> the lame man is taken (across the stream) by the boatman, being placed within the boat;  
+> the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king.  
+> So also my ācārya , who is compassionate, is capable of making me attain Thee, O Lord of Śrīraṅgam". 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> अन्धोऽनन्ध-ग्रहण-वशगो **याति** रङ्गेश यद्वत्  
+पङ्गुर् नौका-कुहर-निहितो **नीयते** नाविकेन ।  
+**भुङ्क्ते** भोगान् अ-विदित-नृपः सेवकस्यार्भकादिः  
+त्वत्-सम्प्राप्तौ **प्रभवति** तथा देशिको मे दयालुः ॥ २१॥
+
+ऎण्ड्रु न्यासतिलकत्तिले सॊन्नोम्.
+</details>
 
 
 
-We, too, have expressed this idea in Nyāsa Tilaka as follows:- " The blind man walks on being led by one who is not blind; the lame man is taken (across the stream) by the boatman, being placed within the boat; the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king. So also my ācārya , who is compassionate, is capable of making me attain Thee, O Lord of Śrīraṅgam". It comes to this that the Lord of all will not be gracious enough to grant us the supreme goal of existence, unless prapatti is performed in some manner or other and by some one or other.
+
+It comes to this that the Lord of all will not be gracious enough to grant us the supreme goal of existence, unless prapatti is performed in some manner or other and by some one or other.
 
 [^44]: This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school. The former hold that since Śrī Rāmānuja has already performed prapatti, even his followers of a later day who acknowledge him as their ācārya  will benefit by it and they need not perform prapatti; the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it
 
