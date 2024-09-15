@@ -2032,9 +2032,6 @@ for attaining the fruit.
 परिपूर्णानुभवत्तुक्कु वेऱु प्रतिबन्धकम् इल्लाद पडियाल् ए  
 प्रपत्ति-क्षणम् मुदलाग  
 
-> ""इङ्ग् ए तिरिन्देऱ्क्+++(=सञ्चरद्भ्यः)+++  इऴुक्+++(=हीन)+++-कुट्र्+++(=न्यूनता)+++ ऎन्""(तिरुवाय्मॊऴि 8-10-4.) 
-
-ऎण्ड्रुम्, 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -2042,10 +2039,6 @@ for attaining the fruit.
 स्वाधिकारानुगुणम् अद्वारकं स्वीकृतवतः पुंसः -  
 परिपूर्णानुभव-प्रतिबन्धकस्यान्यस्य कस्याप्य् अभावात्  
 प्रपत्ति-क्षणम् आरभ्य,  
-
-> “15 अत्र संचरतो मम हीनता का" 
-
-इति
 </details>
 
 <details><summary>English</summary>
@@ -2053,42 +2046,219 @@ for attaining the fruit.
 The man who has resorted to prapatti as the direct and independent means  
 will have no hindrances at all in the way of his attaining the perfect enjoyment (of the bliss of Bhagavān).  
 Therefore from the moment of the performance of prapatti,  
-there is nothing in the way of his attaining mokṣa  
-but his own desire to live till the death of this body  
-so that he may enjoy such things as the rendering of service with this body  
-to the images of the Lord (arcā) to which he has an attachment. 
 </details>
 
 <details><summary>Español</summary>
 
 The man who has resorted to prapatti as the direct and independent means  
 will have no hindrances at all in the way of his attaining the perfect enjoyment (of the bliss of Bhagavān).  
-Therefore from the moment of the performance of prapatti,  
-there is nothing in the way of his attaining mokṣa  
-but his own desire to live till the death of this body  
-so that he may enjoy such things as the rendering of service with this body  
-to the images of the Lord (arcā) to which he has an attachment. 
-
+Therefore from the moment of the performance of prapatti,
 </details>
-
-
 
 <details><summary>सायण-टीका</summary>
 
-तन्न धिकारानुरूपमाग अद्वारकमागप्पट्रिनवनुक्किति । आकिञ्चन्यानन्यगतित्वमिल्लामैयाल् सद्वारकप्रपत्तियैप्पट्रिन उपासनाधिकारिपोलण्ड्रिक्के आकिञ्चन्यानन्यगतित्वरूप तन्नधिकारानुगुणमाग अद्वारकप्रपत्तियैप्पट्रिनवनुक्कॆण्ड्रबडि. स्वप्रपत्तिक्कु फलमागक् कोलिन परिपूर्णब्रह्मानुभवत्तिऱ्‌कु. वेऱु प्रतिबन्धकमिल्लादबडियाले - मेल् सॊल्लप्पोगिऱ स्वानुमतियाले स्थापितमान शरीरत्तैक्काट्टिलुं वेऱान प्रतिबन्धकमिल्लामैयाल्, प्रारब्धादिकळुक्कुं नाशकमान इप्प्रपत्तिक्कु प्रारब्धादिकळ् प्रतिबन्धकमागादुगळॆण्ड्रु करुत्तु. प्रपत्तिक्षणम् मुदलाग इति । इदु कैङ्गर्यत्तुक्कु पूर्वावधि । इदऱ्‌कु ‘‘शरीरत्तिन् अवसानत्तै ऎल्लैयाग उडैत्ताय्" ऎन्बदोडन्वयम्. अद्वारकप्रपत्ति तत्क्षणत्तिलेये निष्पन्नैयावदाल् तदुत्तरक्षणमे कैङ्गर्य रूबफलोद्गमक्षणमॆण्ड्रु करुत्तु. इप्पडि परिपूर्णब्रह्मानुभवत्तिऱ्‌कु प्रतिबन्धकमान शरीरस्थितियिननुमतियैप्पामरर्गळ् पण्णिनालुम् महान्गळ् पण्णुवार्गळो? इङ्गु इत्तनै कालम् अनुभूतमाय् पररूपत्तैक्काट्टिलुं सुलभतममाय्, पट्टिनि यॊरु शरीरत्तिऱ्‌कु, पारणैयॊरु शरीरत्तिऱ्‌कु ऎन्गिऱबडि आर्तनाय् प्रपत्त्यनुष्ठानम्बण्ण इन्द शरीरत्तैक्काट्टिलुम् भिन्नमान आगामिशरीरत्तिल् अनुभाव्यम् पोलण्ड्रिक्के उपायानुष्ठानम्बण्णिन इन्द शरीरत्तिलेयनुभाव्यमान अर्चावतारादिसङ्गविशेषत्ताले महान्गळुं तन् शरीरस्थितियैयनुमदिप्पार्गळॆन्निल् अदऱ्‌कु सूचकमान प्रमाणन्दानुण्डोवॆन्न वरुळिच्चॆय्गिऱार् इङ्गे तिरिन्देर्क्कित्यादिना । इङ्गे तिरिन्देर्क्कु - इन्द लोगत्तिले सञ्चरित्तुप् पोरुगिण्ड्र नमक्कु. इऴुक्कुट्रॆन् - हीनमान कुट्रमॆन्न?  
-तन् कल्याणगुणङ्गळै वायिनाल् सॊल्लवुम्, दृष्टिचित्तापहारियान तन् तिरुमेनियै मनत् तिनाल् ध्यानं सॆय्यवुम्, अङ्गाङ्गुळ्ळ पुष्पङ्गळैक्कॊण्डु कैयिनालर्च्चिक्कवुं वऴिबडुम्बडि भगवान् कृपै पण्णिनानागिल् इङ्गेयिरुन्दालुम् ऒरु कुट्रमुमिल्लैयॆण्ड्रबडि.  
+तन्न धिकारानुरूपमाग अद्वारकमागप्पट्रिनवनुक्किति । आकिञ्चन्यानन्यगतित्वमिल्लामैयाल् सद्वारकप्रपत्तियैप्पट्रिन उपासनाधिकारिपोलण्ड्रिक्के आकिञ्चन्यानन्यगतित्वरूप तन्नधिकारानुगुणमाग अद्वारकप्रपत्तियैप्पट्रिनवनुक्कॆण्ड्रबडि. स्वप्रपत्तिक्कु फलमागक् कोलिन परिपूर्णब्रह्मानुभवत्तिऱ्‌कु. वेऱु प्रतिबन्धकमिल्लादबडियाले - मेल् सॊल्लप्पोगिऱ स्वानुमतियाले स्थापितमान शरीरत्तैक्काट्टिलुं वेऱान प्रतिबन्धकमिल्लामैयाल्, प्रारब्धादिकळुक्कुं नाशकमान इप्प्रपत्तिक्कु प्रारब्धादिकळ् प्रतिबन्धकमागादुगळॆण्ड्रु करुत्तु. प्रपत्तिक्षणम् मुदलाग इति । इदु कैङ्गर्यत्तुक्कु पूर्वावधि । इदऱ्‌कु ‘‘शरीरत्तिन् अवसानत्तै ऎल्लैयाग उडैत्ताय्" ऎन्बदोडन्वयम्. अद्वारकप्रपत्ति तत्क्षणत्तिलेये निष्पन्नैयावदाल् तदुत्तरक्षणमे कैङ्गर्य रूबफलोद्गमक्षणमॆण्ड्रु करुत्तु.   
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-अद्वारकमागप् पट्रिनवनुक्कु परिपूर्णानुभवत्तुक्कु वेऱु प्रतिबन्धकमिल्लाद पडियाले प्रपत्तिक्षणम् मुदलाग ""इङ्गे तिरिन्देऱ्‌किऴुक्कुट्रॆन्""(तिरुवाय्मॊऴि 8-10-4.) ऎण्ड्रुम्, 
+अद्वारकमागप् पट्रिनवनुक्कु परिपूर्णानुभवत्तुक्कु वेऱु प्रतिबन्धकमिल्लाद पडियाले प्रपत्तिक्षणम् मुदलाग  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ""इङ्ग् ए +++(अर्चाराधने)+++ तिरिन्देऱ्क्+++(=सञ्चरद्भ्यः)+++  इऴुक्+++(=हीन)+++-कुट्र्+++(=न्यूनता)+++ ऎन्""(तिरुवाय्मॊऴि 8-10-4.) 
+
+ऎण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “15 अत्र +++(अर्चाराधने)+++ संचरतो मम हीनता का" 
+
+इति
 </details>
 
 
+<details><summary>English</summary>
+
+"What is there wrong in us  
+who go about here having already won  
+the grace of being permitted to serve Thee " 
+</details>
+
+<details><summary>Español</summary>
+
+"What is there wrong in us  
+who go about here having already won  
+the grace of being permitted to serve Thee " 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि परिपूर्णब्रह्मानुभवत्तिऱ्‌कु प्रतिबन्धकमान शरीरस्थितियिननुमतियैप्पामरर्गळ् पण्णिनालुम् महान्गळ् पण्णुवार्गळो? इङ्गु इत्तनै कालम् अनुभूतमाय् पररूपत्तैक्काट्टिलुं सुलभतममाय्, पट्टिनि यॊरु शरीरत्तिऱ्‌कु, पारणैयॊरु शरीरत्तिऱ्‌कु ऎन्गिऱबडि आर्तनाय् प्रपत्त्यनुष्ठानम्बण्ण इन्द शरीरत्तैक्काट्टिलुम् भिन्नमान आगामिशरीरत्तिल् अनुभाव्यम् पोलण्ड्रिक्के उपायानुष्ठानम्बण्णिन इन्द शरीरत्तिलेयनुभाव्यमान अर्चावतारादिसङ्गविशेषत्ताले महान्गळुं तन् शरीरस्थितियैयनुमदिप्पार्गळॆन्निल् अदऱ्‌कु सूचकमान प्रमाणन्दानुण्डोवॆन्न वरुळिच्चॆय्गिऱार् इङ्गे तिरिन्देर्क्कित्यादिना । इङ्गे तिरिन्देर्क्कु - इन्द लोगत्तिले सञ्चरित्तुप् पोरुगिण्ड्र नमक्कु. इऴुक्कुट्रॆन् - हीनमान कुट्रमॆन्न?  
+तन् कल्याणगुणङ्गळै वायिनाल् सॊल्लवुम्, दृष्टिचित्तापहारियान तन् तिरुमेनियै मनत् तिनाल् ध्यानं सॆय्यवुम्, अङ्गाङ्गुळ्ळ पुष्पङ्गळैक्कॊण्डु कैयिनालर्च्चिक्कवुं वऴिबडुम्बडि भगवान् कृपै पण्णिनानागिल् इङ्गेयिरुन्दालुम् ऒरु कुट्रमुमिल्लैयॆण्ड्रबडि.
+</details>
 
 
-So his mokṣa  has to await only the death of this body and will consist in the rendering, in Vaikuṇṭha  , of perfect and full service which has begun even here in the performance of service limited by the conditions of place, time and the nature of bodily life (svarūpa ). The state of the prapanna who is prepared to continue in this world till the dissolution of the body is referred to in passages like the following: "What is there" wrong in us who go about here having already won the grace of being permitted to serve Thee " "Leaving this bliss of uttering Thy names, I do not want even the bliss of going to Paramapada and ruling over it." "Can I indeed give up the hare and go in pursuit of the crow !" (That is--- it would be foolish to give up hare's flesh which is excellent as food and go after crow's flesh. So also the service of the image here in temples is superior even to the bliss of serving the Lord in Paramapada). “My deep love to Thee, "O King, is always staunch. So also my devotion to Thee, O valiant Sire, is always firnı. Nowhere else can my mind turn". (In these words Hanuman expresses his love and devotion to ŚrīRāma and states that this love and devotion are greater towards Rāma than even to the Lord of Paramapada).
+<details><summary>मूलम्</summary>
+
+""इङ्गे तिरिन्देऱ्‌किऴुक्कुट्रॆन्""(तिरुवाय्मॊऴि 8-10-4.) ऎण्ड्रुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ""+++(अर्चाराधने)+++ इच्-चुवै+++(=रसं)+++ तविर+++(=विहाय)+++  
+> यान् पोय् इन्दिर-लोकम् आळुम् +++(परमपदम्→)+++ अच्-चुवै पॆऱिन्+++(=प्राप्यम्)+++ उम् वेण्डेन्""(तिरुमालै 2.) 
+
+ऎण्ड्रुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "16 इमं रस विहायाहं गत्वेन्द्रलोकपालनजं रसं प्राप्यम् अपि नेच्छेयम् " 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+"Leaving this bliss of uttering Thy names,  
+I do not want even the bliss of going to Paramapada and ruling over it." 
+</details>
+
+<details><summary>Español</summary>
+
+"Leaving this bliss of uttering Thy names,  
+I do not want even the bliss of going to Paramapada and ruling over it." 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इदनाल् अर्चावतारादिसङ्गिकळुक्कु इन्द शरीरत्तोडु सिऱिदुगालम् इङ्गु स्थितियुम् अनुमतप्रायमिऱे. इच्चुवैयित्यादि । "पच्चैमामलैबोल्मेनि, पवळवाय्, कमलच्चॆङ्गण्, अच्चुदा, अमररेऱे" ऎण्ड्रबडिये अवन् नामकीर्तनम्बण्णुगैयागिऱ, इच्चुवै - इन्द रसत्तै, तविर - ऒऴिय, यान् पोय् - नान् अर्चिरादिमार्गत्ताले सॆण्ड्रु. इन्दिरलोग माळुम् - परमपदत्तैयाळुगैयागिऱ, अच्चुवै - अन्द परिपूर्णब्रह्मानुभवरसत्तै. पॆऱिनुम् - शास्त्रत्तिल् सॊल्वदु मात्तिरमण्ड्रिक्के साक्षात्तागप्पॆऱिनुम्, वेण्डेन् - प्रार्थियेनॆन्गै. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+""इच्चुवै तविर यान् पोयिन्दिरलोगमाळुमच्चुवै पॆऱिनुम् वेण्डे""(तिरुमालै 2.) नॆण्ड्रुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ""एर्+++(=शोभन)+++-आर्+++(=पूर्ण)+++-मुयल्+++(=शशं)+++ विट्टुक्  
+> काक्कैप् पिन् पोवद् एय्""(सिऱिय तिरुमडल् 16.) 
+
+ऎण्ड्र् उम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[७९]]  
+
+> "17 अनुरूपं परिपूर्णं शशं +++(मांसं ← अर्चनम् अत्र)+++ हित्वा  
+> +++(परमपदम्→)+++ काकानुधावनं कुतः" +++(5)+++
+
+इति 
+</details>
+
+<details><summary>English</summary>
+
+> "Can I indeed give up the hare  
+> and go in pursuit of the crow !"  
+
+(That is--- it would be foolish to give up hare's flesh which is excellent as food  
+and go after crow's flesh.  
+So also the service of the image here in temples  
+is superior even to the bliss of serving the Lord in Paramapada). 
+</details>
+
+<details><summary>Español</summary>
+
+> "Can I indeed give up the hare  
+> and go in pursuit of the crow !"  
+
+(That is--- it would be foolish to give up hare's flesh which is excellent as food  
+and go after crow's flesh.  
+So also the service of the image here in temples  
+is superior even to the bliss of serving the Lord in Paramapada). 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+एरार् मुयल्विट्टुक् काक्कैप्पिन् पोवदे इत्यादि । एर् - एट्रदान, अत्यन्तभोग्यमानवॆण्ड्रबडि. आर् -पूर्णमान, मुयल्विट्टु - मुयल्माम्सत्तैविट्टु, काक्कैप्पिन् पोवदे - काक्कै माम्सार्थं काक्कै पिन् पोवदो? अत्यन्तभोग्यमान मुयल्माम्सम्बोल् सौशील्यसौलभ्यवात्सल्यादिकळाले भोग्यतममानवर्चारूपत्तैविट्टु सौशील्यसौलभ्यादिकळ् प्रकाशियाद परररूपत्तैयभिलषिप्पदोवॆण्ड्रु भावम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+""एरार्मुयल् विट्टुक् काक्कैप् पिन् पोवदेय्""(सिऱिय तिरुमडल् 16.) ऎण्ड्रुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “स्नेहो मे परमो राजन्  
+> त्वयि नित्यं **प्रतिष्ठितः** ।  
+> भक्तिश्च नियता वीर  
+> भावो **नान्यत्र गच्छति**”  
+> (रामायणम् उत्तरकाण्डम् 40-15.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “स्नेहो मे परमो राजन्  
+> त्वयि नित्यं **प्रतिष्ठितः** ।  
+> भक्तिश्च नियता वीर  
+> भावो **नान्यत्र गच्छति**”  
+> (रामायणम् उत्तरकाण्डम् 40-15.)
+</details>
+
+<details><summary>English</summary>
+
+“My deep love to Thee, O King, is always staunch.  
+So also my devotion to Thee, O valiant Sire, is always first.  
+Nowhere else can my mind turn". 
+
+(In these words Hanuman expresses his love and devotion to ŚrīRāma  
+and states that this love and devotion are greater towards Rāma  
+than even to the Lord of Paramapada).
+</details>
+
+<details><summary>Español</summary>
+
+“My deep love to Thee, O King, is always staunch.  
+So also my devotion to Thee, O valiant Sire, is always first.  
+Nowhere else can my mind turn". 
+
+(In these words Hanuman expresses his love and devotion to ŚrīRāma  
+and states that this love and devotion are greater towards Rāma  
+than even to the Lord of Paramapada).
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+स्नेह इत्यादि । राजन् - रञ्जनोपयुक्त सौशील्यवात्सल्यादिगुणनिधे! त्वयि – तण्णियरान अस्मदादिकळोडु कलन्दु परिमाऱुगिऱउन्निडत्तिल्, मे - उन्नुडैय सौशील्यादिकळिलीडुबट्ट ऎनक्कु, स्नेहः – ‘‘समाने मित्रादौ प्रीतिः स्नेहः’’ ऎण्ड्रु निर्वचनं सॆय्यप्पट्ट प्रीतिविशेषम्. नित्यं प्रतिष्ठितः – नित्यमाग स्थापिक्कप्पट्टिरुक्किऱदु. नी रञ्जकनागविरुप्पदाल् रञ्जकत्वानुगुणमान उन्नुडैय सौशील्यत्ताले तोऴन्मार्बक्कलिले पोल् नीरन्ध्रमाग प्रीतिविशेषत्तैप्पण्णिप् पोन्देनॆण्ड्रबडि. इदु ‘‘राजन्, स्नेहः’’ ऎन्गिऱ पदङ्गळाल् सूचितम्. वीर- सर्वजेतावे! त्वयीत्यनुषङ्गः । त्वयि – सर्वजेतृत्वानुगुणशौर्यवीर्यादिगुणशालियान रामावताररूपनान उन्निडत्तिल् भक्तिश्च – ‘‘पूज्येष्वनुरागो भक्तिः’’ ऎण्ड्रु निर्वचिक्कप्पट्ट प्रीतिविशेषमुं नियता – अचञ्चलमाग स्थापिक्कप्पट्टदु. अनायासेन रावणादिजेतावान उम्मिडत्तिल् सर्वस्मात्परत्वबुद्धियाले यॊरु प्रीतिविशेषं स्थापिक्कप्पट्टदॆण्ड्रबडि. इदु ‘‘वीर, भक्तिः’’ ऎन्गिऱ पदङ्गळाले सूचितम्. इप्पडि स्नेहभक्तिकळ् उन्निडत्तिल् स्थापिक्कप्पट्टबडियाल्, मे भावः – ऎन्नुडैयवभिप्रायम्. अन्यत्र न गच्छति - इन्द कालतत्त्वमुळ्ळवरैयिलुं रामावदारमान उम्मैये अनुभविक्कवेण्डुमॆन्गिऱ ऎण्णमेयॊऴिय रामावतारभिन्नमान सौशील्यादिप्रकाशमिल्लाद पररूपत्तिल् बलात्करित्तालुम् पोगिऱदिल्लैयॆण्ड्रबडि. इदु रामायणत्तिल् उत्तरकाण्डत्तिल् हनुमद्वाक्यम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“स्नेहो मे परमो राजन् त्वयि नित्यं प्रतिष्ठितः । भक्तिश्च नियता वीर भावो नान्यत्र गच्छति”(रामायणम् उत्तरकाण्डम् 40-15.)
+</details>
+
+
+there is nothing in the way of his attaining mokṣa  
+but his own desire to live till the death of this body  
+so that he may enjoy such things as the rendering of service with this body  
+to the images of the Lord (arcā) to which he has an attachment.
+
+
+So his mokṣa  has to await only the death of this body and will consist in the rendering, in Vaikuṇṭha  , of perfect and full service which has begun even here in the performance of service limited by the conditions of place, time and the nature of bodily life (svarūpa ). The state of the prapanna who is prepared to continue in this world till the dissolution of the body is referred to in passages like the above (~~following~~). 
+
 
 Since the Supreme Ruler is the giver of all things, and since prapatti at His feet is capable of yielding all kinds of fruit, it becomes the means of securing whatever fruit is desired respectively by these two (bhakta and prapanna [^45] ). The Śāstras say, "Ask any boon that you want, when I am in the range of one's vision, all (good) things will follow." "O Thou that hast created all the worlds! Is there anything that is difficult to obtain, when Thou art pleased ? "   " When He is graciously disposed, is there anything here that cannot be obtained ? "   " What is there in this world or in the world above, O Dalbhya, that cannot be accomplished by those men whose minds are directed towards Viṣṇu  ?" "The fruit is from Him. It stands to reason ". (Brahma Sūtras 3 - 2 - 37). Bhakti or upāsana is the means of securing the four kinds of objects that may be desired in accordance with one's aim as stated in the Bhagavad Gitā (7 - 16). "Four types of men who have performed meritorious deeds worship me. He who has lost his wealth and is anxious to recover it, he who wants to have a vision of his own self (ātmā) and to enjoy it (ātmānubhava ), he who wants to acquire wealth anew, and he who is a Jnāni, who desires to be for ever with the Lord and practises bhakti for attaining Him." Similarly have not the great rishis declared that prapatti is also the means of attaining the four kinds of objects or aims as is stated in the śloka  : "Only so long as one does not perform prapatti to Thee that canst destroy all sins, will there be the anxiety to recover lost wealth, only so long will there be the desire to acquire new wealth, only so long will there be the absence of the enjoyment of one's self as something different from the body; only so long will there be the sorrow of saṁsāra". From the words " that destroyest all sins” and the repetition of "only so long" repeated in every case with great consideration, it is made clear that the fruit which is desired by the man will all become his, in accordance with his desire and at the very time when he desires to have it. It is in consideration of this superior efficacy of prapatti that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-" Those who practise Jñāna Yoga and Bhakti Yoga with a pure mind and those who perform karma which would discipline the soul in renunciation are not worth even one ten-millionth part of the man who has performed prapatti. The difference in the kinds of service done here (in this life) by the prapanna is due to the difference in the desire of the prapanna and that difference in the desire is due to the difference in the meritorious deeds of the past which have begun to operate in this life (Prārabdha karma ). There will be no difference at all in the bliss that will be attained after casting off the last body.
 
