@@ -1720,15 +1720,375 @@ or bhakti or prapatti which followed.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"ऎङ्ङनेय्" ऎन्निल्; इवैय् उपासनत्तिले् एय् आदल्  
+प्रपत्तियिल् एय् आदल् मूट्टिय् उम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[७८]]  
+"कथम्" इति चेत् - इमानि उपासने प्रपत्तौ वा प्रवर्तनेन, 
+</details>
 
 
-It may be asked how this could be. (The answer is as follows:-) They will lead to bhakti or prapatti. In the case of one who has already adopted bhakti or upāsanā, they will promote the further development of the upāya or means. In the case of one who has performed prapatti as an independent means, they will promote the eagerness for service while in this world. It is in this way they render help.
+<details><summary>English</summary>
+
+It may be asked how this could be.  
+(The answer is as follows:-)  
+They will lead to bhakti or prapatti.  
+
+</details>
+
+<details><summary>Español</summary>
+
+It may be asked how this could be.  
+(The answer is as follows:-)  
+They will lead to bhakti or prapatti.  
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+भागवताभिमानादिकळुक्कु उपायसम्बन्धम् ऎप्पडियॆण्ड्रु शङ्किक्किऱार् ऎङ्ङनेयॆन्निलिति ।  
+सम्बन्धत्तै युपपादिक्किऱार् इवै वुपासनत्तिले यादलित्यादियाल्.  
+दिव्यदेशत्तिल् ऒरुवन् वसित्ताल्  
+दिव्यदेश-प्रभावत्ताल् अवनुक्कु मनदु निर्मलम् आय्  
+भक्ति प्रपत्तिकळिल् मूट्टुम् आगैयाल्  
+परम्परया भक्तिप्रपत्ति-प्रयोजकत्व-रूप-सम्बन्धं  
+दिव्य-देश-वासत्तिऱ्‌कु उण्ड् ऎण्ड्रु करुत्तु.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङनेयॆन्निल्; इवैयुपासनत्तिलेयादल् प्रपत्तियिलेयादल् मूट्टियुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्पन्नोपासननुक्कु उत्तरोत्तरोपचयत्तैप् पण्णियुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उत्पन्नोपासनस्योत्तरोत्तरोपचयापादनेन, 
+</details>
+
+<details><summary>English</summary>
+
+In the case of one who has already adopted bhakti or upāsanā,  
+they will promote the further development of the upāya or means. 
+</details>
+
+<details><summary>Español</summary>
+
+In the case of one who has already adopted bhakti or upāsanā,  
+they will promote the further development of the upāya or means. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उत्पन्नोपासननुक्कु उत्तरोत्तरोपचयत्तैप् पण्णियुमिति ।  
+उपासनम् अभ्यासाधेयातिशयमाय् आप्रयाणादनुवर्तनीयमायिरुक्कवेण्डुमागैयाल् दिव्यदेशवासम् पापनिवृत्त्यादि द्वारा उपासनत्तिनुत्तरोत्तरोपचयत्तैप् पण्णियुपकारकमाम्. इदनाल् दिव्यदेशवासत्तिऱ्‌कु उपासनत्तोडु उत्तरोत्तरोपचयहेतुत्वरूपसम्बन्धं सॊल्लप्पट्टदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उत्पन्नोपासननुक्कु उत्तरोत्तरोपचयत्तैप् पण्णियुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-तन्त्र-प्रपत्त्य्-अनुष्ठानम् पण्णिन्-अवनुक्कु  
+इङ्ग्-उट्र+++(=अर्थक)+++ कैङ्कर्याभिवृद्धियैय् उण्डाक्किय् उम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-तन्त्र-प्रपत्त्य्-अनुष्ठानं कृतवतः  
+ऐहिक-कैङ्कर्याभिवृद्धि-संपादनेन 
+</details>
+
+<details><summary>English</summary>
+
+In the case of one who has performed prapatti as an independent means,  
+they will promote the eagerness for service while in this world.  
+</details>
+
+<details><summary>Español</summary>
+
+In the case of one who has performed prapatti as an independent means,  
+they will promote the eagerness for service while in this world.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+स्वतन्त्रप्रपत्तीत्यादि । दिव्यदेशवासप्रभावत्ताले प्रपत्त्यनुष्ठानम् पण्णिनवनुक्कु सकृदनुष्ठेयमान प्रपत्तिविषयत्तिल् दिव्यदेशवासप्रयोज्यमान अतिशयादिकळिल्लामैयाले प्रपत्तिकार्यमान इङ्गुट्र कैङ्कर्याभिवृद्धियै उण्डाक्कुमागैयाल् दिव्यदेशवासत्तिऱ्‌कु प्रपत्तियोडे स्वाभिवर्द्धितकैङ्कर्यहेतुत्वरूपमायुं स्वजन्यत्वराविषय भगवत्प्राप्तिजनकत्वरूपमायुं सम्बन्धमुण्डॆण्ड्रु करुत्तु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतन्त्रप्रपत्त्यनुष्ठानम् पण्णिनवनुक्कु इङ्गुट्र कैङ्कर्याभिवृद्धियैयुण्डाक्कियुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-प्राप्तियिल् ए त्वरैयैय् उण्डाक्किय् उम्  
+उपकारकङ्गळ् आम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भगवत्-प्राप्तौ त्वरोत्पादनेन चोपकारकाणि भवन्ति ॥
+</details>
+
+<details><summary>English</summary>
+
+(It is in this way they render help.)
+</details>
+
+<details><summary>Español</summary>
+
+(It is in this way they render help.)
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्प्राप्तियिले त्वरैयैयुण्डाक्कियुमुपकारकङ्गळाम्.
+</details>
+
+## अङ्ग-प्रधान-प्रपत्ति-फल-भेदः
+<details><summary>English</summary>
 
 DIFFERENCE BETWEEN BHAKTI AND PRAPATTI
+IN SECURING THE GOAL:  
+</details>
 
-IN SECURING THE GOAL: Among these, he who has adopted prapatti as the means to bhakti is capable, like Vyāsa and others, of other means or upāyas than prapatti and is therefore not absolutely helpless (akiñcana ). Since he can bear delay (in attaining mokṣa ), he is not averse to other interests (in life). He will attain mokṣa  only at the expiry of the karma which has already begun to yield fruit (prārabdha), when he will have the intense thought of the last moment before death. Since the primary upāya or means (aṅgī) which he has chosen is upăsana or bhakti, he attains the fruit thereof, namely, mokṣa , when it is performed fully and in accordance with the rules and injunctions prescribed for it. On the other hand, prapatti adopted as the primary or direct means (aṅgī) is open to all adhikārīs, is capable of averting all hindrances (to mokṣa), can further the attainment of all that is desired, is easy of performance, has to be performed only once, can bring about the fulfilment (of what is aimed at ) quickly and will not countenance any opposition or obstacle. Like the missile, Brahmāstra, it will not tolerate the adoption of any other means or upāya for attaining the fruit. The man who has resorted to prapatti as the direct and independent means will have no hindrances at all in the way of his attaining the perfect enjoyment (of the bliss of Bhagavān). Therefore from the moment of the performance of prapatti, there is nothing in the way of his attaining mokṣa  but his own desire to live till the death
+<details><summary>Español</summary>
 
-of this body so that he may enjoy such things as the rendering of service with this body to the images of the Lord (arcā) to which he has an attachment. So his mokṣa  has to await only the death of this body and will consist in the rendering, in Vaikuṇṭha  , of perfect and full service which has begun even here in the performance of service limited by the conditions of place, time and the nature of bodily life (svarūpa ). The state of the prapanna who is prepared to continue in this world till the dissolution of the body is referred to in passages like the following: "What is there" wrong in us who go about here having already won the grace of being permitted to serve Thee " "Leaving this bliss of uttering Thy names, I do not want even the bliss of going to Paramapada and ruling over it." "Can I indeed give up the hare and go in pursuit of the crow !" (That is--- it would be foolish to give up hare's flesh which is excellent as food and go after crow's flesh. So also the service of the image here in temples is superior even to the bliss of serving the Lord in Paramapada). “My deep love to Thee, "O King, is always staunch. So also my devotion to Thee, O valiant Sire, is always firnı. Nowhere else can my mind turn". (In these words Hanuman expresses his love and devotion to ŚrīRāma and states that this love and devotion are greater towards Rāma than even to the Lord of Paramapada).
+DIFFERENCE BETWEEN BHAKTI AND PRAPATTI
+IN SECURING THE GOAL:  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळिल् व्यासादिगळैप् पोल् ए उपायान्तर-समर्थन् आगैयाल् ए  
+अकिञ्चनन् उम् अण्ड्रिक्क् ए  
+
+विळम्ब-क्षमन् आगैयाल् ए  
++++(प्रारब्ध-कर्म-फल-रूप-पुरुषार्थान्तर-सद्भावात्)+++ अनन्य-गतिय् उम् अण्ड्रिक्क् एय्  
+
+इरुक्किऱ स-द्वारक-प्रपत्ति-निष्ठनुक्कु  
+प्रारब्ध-कर्म-पर्यवसान-भाविय् आन अन्तिम-प्रत्ययत्तै अवधिय् आग उडैत्त् आन  
+उपासन-रूपाङ्गियिन्-उडैय यथावन्+++(=यथाविधि)+++-निष्पत्ति-पूर्वकम् आन **मोक्षम् फलम्**.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतयोर् अधिकारिणोः  
+व्यासादिवद् उपायान्तर-समर्थत्वाद् आकिञ्चन्यम् अन्तरा,  
+विलम्ब-क्षमत्वाद् +++(प्रारब्ध-कर्म-फल-रूप-पुरुषार्थान्तर-सद्भावाद्)+++ अनन्य-गतिकत्वं च विना  
+वर्तमानस्य सद्वारकप्रपत्तिनिष्ठस्य  
+प्रारब्ध-कर्म-पर्यवसान-भाव्य्-अन्तिम-प्रत्ययावधिकस्योपासन-रूपाङ्गिनो  
+यथावन्-निष्पत्ति-पूर्वको मोक्षः फलम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+Among these, he who has adopted prapatti as the means to bhakti is capable, like Vyāsa and others,  
+of other means or upāyas than prapatti  
+and is therefore not absolutely helpless (akiñcana ).  
+Since he can bear delay (in attaining mokṣa ),  
+he is not averse to other interests (in life).  
+He will attain mokṣa  
+only at the expiry of the karma which has already begun to yield fruit (prārabdha),  
+when he will have the intense thought of the last moment before death.  
+Since the primary upāya or means (aṅgī) which he has chosen is upăsana or bhakti,  
+he attains the fruit thereof, namely, mokṣa ,  
+when it is performed fully  
+and in accordance with the rules and injunctions prescribed for it. 
+</details>
+
+<details><summary>Español</summary>
+
+Among these, he who has adopted prapatti as the means to bhakti is capable, like Vyāsa and others,  
+of other means or upāyas than prapatti  
+and is therefore not absolutely helpless (akiñcana ).  
+Since he can bear delay (in attaining mokṣa ),  
+he is not averse to other interests (in life).  
+He will attain mokṣa  
+only at the expiry of the karma which has already begun to yield fruit (prārabdha),  
+when he will have the intense thought of the last moment before death.  
+Since the primary upāya or means (aṅgī) which he has chosen is upăsana or bhakti,  
+he attains the fruit thereof, namely, mokṣa ,  
+when it is performed fully  
+and in accordance with the rules and injunctions prescribed for it. 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इनि सद्वारकाद्वारकप्रपत्तिनिष्ठर्गळुक्कु मधुविद्यान्यायत्ताले व्यवस्थासिद्धिहेतुभूतमान अवान्तरफलघटितप्रधानफलङ्गळै प्रसङ्गान्निरूपिक्किऱार् इवर्गळिलित्यादियाल्. इक्कालत्तिल् सद्वारकप्रपत्तिनिष्ठनेयिल्लैयेयॆण्ड्रु शङ्गियामैक्काग व्यासादिकळैप् पोलेयॆण्ड्रु दृष्टान्तं सॊन्नदु. उपायान्तरसमर्थनागैयाले अकिञ्चननु मण्ड्रिक्के इति । इङ्गु उपायान्तरशब्दं कर्मयोगज्ञानयोगभक्तियोगपरम्. कर्मज्ञानोपासनङ्गळै सद्वारकाद्वारकसन्मार्गङ्गळाग मेले सॊल्लप्पोगिऱारिऱे. अदुगळिल् समर्थनागैयाल् तदभावरूपमान आकिञ्चन्यरूपाधिकारवानण्ड्रिक्केयॆण्ड्रबडि. विळम्बक्षमनागैयाले इति । प्रारब्धकर्मपर्यवसानपर्यन्तकालविळम्बत्तै सहिक्किऱवनागैयालेयॆण्ड्रबडि. अनन्यगतियुमण्ड्रिक्के इति ।  
+अनन्यगतिः – प्रयोजनान्तरविमुखन्.  
+प्रारब्धकर्मपर्यवसानत्तिऱ्‌क् उळ् वरुम् प्रयोजनान्तरङ्गळै सहियादवनॆण्ड्रबडि.  
+अवन्-अण्ड्रिक्के तद्भिन्ननाय् प्रारब्धकर्मावसानत्तिऱ्‌क् उळ् वरुम् फलङ्गळै सहिक्किऱवनॆण्ड्रबडि. सद्वारकप्रपत्तिनिष्ठनुक्कु - भक्तिरूपमुक्तिद्वारसहितमान अङ्गप्रपत्तिनिष्ठनुक्कु ऎण्ड्रबडि. प्रारब्धकर्म – फलदानत्तिऱ्‌कु आरम्बित्त कर्मम्. पर्यवसानभावियान - मुडिविले उण्डागप्पोगिऱ. अन्तिमप्रत्ययत्तै - अन्तिमभगवत्स्मरणत्तै. अवधियाग उडैत्तान - चरमाङ्गमागवुडैत्तान. उपासनरूपाङ्गियिनुडैय - सद्वारकप्रपत्तिक्कु अदावदु अङ्गप्रपत्तिक्कु अङ्गियान उपासनत्तिनुडैय यथावन्निष्पत्तिपूर्वकमान - चरमाङ्गसाचिव्यविशिष्टनिष्पत्तिपूर्वकमान, मोक्षं फलमिति । इदनाल् ‘‘मुमुक्षुर्वै शरणमहं प्रपद्ये’’ ऎन्गिऱ सामान्येनाङ्गाङ्गिप्रपत्तिविधायक वाक्यत्ताले मोक्षकामनैयैये अङ्गप्रपत्तिक्कु अधिकारमागच् चॊल्लुगैयाल् अङ्गप्रपत्तिनिष्ठनुक्कुम् मोक्षमे प्रधानफलमॆण्ड्रुम्, चरमाङ्गसचिवोपासनरूपाङ्गियिनुडैय यथावन्निष्पत्ति अवान्तरफलमॆण्ड्रुम्, अन्द चरमाङ्गमान अन्तिमस्मृति प्रारब्धकर्मत्तिन् मुडिविलेये उण्डागुमॆण्ड्रु सॊल्लप्पट्टबडियाल् प्रारब्धकर्मपर्यवसानभावियान मोक्षकामनैये सद्वारकप्रपत्तिनिष्ठनुक्कु अधिकारमॆण्ड्रु व्यवस्थितमागिऱदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळिल् व्यासादिगळैप्पोले उपायान्तरसमर्थनागैयाले अकिञ्चननुमण्ड्रिक्के विळम्बक्षमनागैयाले अनन्यगतियुमण्ड्रिक्केयिरुक्किऱ सद्वारकप्रपत्तिनिष्ठनुक्कु प्रारब्धकर्मपर्यवसानभावियान अन्तिमप्रत्ययत्तै अवधियाग उडैत्तान उपासनरूपाङ्गियिनुडैय यथावन्निष्पत्तिपूर्वकमान मोक्षम् फलम्.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वाधिकारम् आय्, सर्वानिष्ट-निवर्तन-क्षमम् आय्, सर्वेष्ट-साधनम् आगवट्र् आय्, सु-करम् आय्, सकृत्-कर्तव्यम् आय्, आशु-कारिय् आय्, प्रतिबन्धानर्हम् आय्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सर्वाधिकारां सर्वानिष्ट-निवर्तनक्ष-मां सर्वेष्ट-साधन-भूतां सु-करां सकृत्-कर्तव्याम् आशु-कारिणीं प्रतिबन्धानर्हाम् 
+</details>
+
+<details><summary>English</summary>
+
+On the other hand, prapatti adopted as the primary or direct means (aṅgī) is open to all adhikārīs,  
+is capable of averting all hindrances (to mokṣa),  
+can further the attainment of all that is desired,  
+is easy of performance,  
+has to be performed only once,  
+can bring about the fulfilment (of what is aimed at ) quickly  
+and will not countenance any opposition or obstacle. 
+</details>
+
+<details><summary>Español</summary>
+
+On the other hand, prapatti adopted as the primary or direct means (aṅgī) is open to all adhikārīs,  
+is capable of averting all hindrances (to mokṣa),  
+can further the attainment of all that is desired,  
+is easy of performance,  
+has to be performed only once,  
+can bring about the fulfilment (of what is aimed at ) quickly  
+and will not countenance any opposition or obstacle. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अद्वारकप्रपत्तिनिष्ठनुक्कु फलभेदत् तैयुपपादिक्कक्करुदि अद्वारकप्रपत्तियिल् भक्तिवैलक्षण्यत्तैक् काट्टुगिऱार् सर्वाधिकार-मायित्यादिना । भक्तिपोले इव्वद्वारकप्रपत्ति त्रैवर्णिकाधिकारमण्ड्रिऱे. सर्वानिष्टनिवर्तनक्षम-मायिति । भक्तिपोलेयिदु प्रारब्धेतरकर्ममात्रनिवर्तकमण्ड्रिऱे. सर्वेष्टसाधनमागवट्रायिति । भक्तीतरसाधकभक्ति पोलण्ड्रिक्के भक्तिक्कुं साधकमिऱेयिदु. सुकरमायिति । इदु भक्ति पोल् दुष्करमण्ड्रिऱे. सकृत्त्कर्तव्यमायिति । इदु आप्रयाणादनुवर्तनीयमण्ड्रिऱे. आशुकारि-यायिति । इदु विळम्ब्यफलप्रदमण्ड्रिऱे. प्रतिबन्धानर्हमायिति । निरन्तरस्मृतिसन्ततिरूपभक्तियिल् ‘‘यदा ह्येवैष एतस्मिन्नुदरमन्तरं कुरुते’’ ऎन्गिऱबडि नैरन्तर्यप्रतिबन्धसम्भावनैयुण्डिऱे. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वाधिकारमाय् सर्वानिष्टनिवर्तनक्षममाय् सर्वेष्टसाधनमागवट्राय् सुकरमाय् सकृत्कर्तव्यमाय् आशुकारियाय् प्रतिबन्धानर्हमाय् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ब्रह्मास्त्र-बन्धम् पोल् ए  
+स्व-फलत्तिल् उपायान्तर-प्रयोगासहम् आय् इरुन्द्-उळ्ळ प्रपत्तियै   
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ब्रह्मास्त्रवत् स्व-फल-विषये उपायान्तर-प्रयोगम् अ-सहमानां प्रपत्तिं
+</details>
+
+<details><summary>English</summary>
+
+Like the missile, Brahmāstra,  
+it will not tolerate the adoption of any other means or upāya  
+for attaining the fruit. 
+</details>
+
+<details><summary>Español</summary>
+
+Like the missile, Brahmāstra,  
+it will not tolerate the adoption of any other means or upāya  
+for attaining the fruit. 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ब्रह्मा-स्त्रबन्धम्बोले स्वफलत्तिलुपायान्तरप्रयोगासहमायिरुन्दुळ्ळ इति । भक्ति अङ्गप्रपत्ति सहमायुम् ‘‘सहकारित्वेन च’’ ऎन्गिऱबडि सर्ववर्णाश्रमकर्मप्रयोगसहमायुमिरुक्कुमिऱे. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ब्रह्मास्त्रबन्धम् पोले स्वफलत्तिलुपायान्तरप्रयोगासहमायिरुन्दुळ्ळ प्रपत्तियैत् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-द्वारकम् आगप् पट्रिन्-अवनुक्कु  
+परिपूर्णानुभवत्तुक्कु वेऱु प्रतिबन्धकम् इल्लाद पडियाल् ए  
+प्रपत्ति-क्षणम् मुदलाग  
+
+> ""इङ्ग् ए तिरिन्देऱ्क्+++(=सञ्चरद्भ्यः)+++  इऴुक्+++(=हीन)+++-कुट्र्+++(=न्यूनता)+++ ऎन्""(तिरुवाय्मॊऴि 8-10-4.) 
+
+ऎण्ड्रुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वाधिकारानुगुणम् अद्वारकं स्वीकृतवतः पुंसः -  
+परिपूर्णानुभव-प्रतिबन्धकस्यान्यस्य कस्याप्य् अभावात्  
+प्रपत्ति-क्षणम् आरभ्य,  
+
+> “15 अत्र संचरतो मम हीनता का" 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+The man who has resorted to prapatti as the direct and independent means  
+will have no hindrances at all in the way of his attaining the perfect enjoyment (of the bliss of Bhagavān).  
+Therefore from the moment of the performance of prapatti,  
+there is nothing in the way of his attaining mokṣa  
+but his own desire to live till the death of this body  
+so that he may enjoy such things as the rendering of service with this body  
+to the images of the Lord (arcā) to which he has an attachment. 
+</details>
+
+<details><summary>Español</summary>
+
+The man who has resorted to prapatti as the direct and independent means  
+will have no hindrances at all in the way of his attaining the perfect enjoyment (of the bliss of Bhagavān).  
+Therefore from the moment of the performance of prapatti,  
+there is nothing in the way of his attaining mokṣa  
+but his own desire to live till the death of this body  
+so that he may enjoy such things as the rendering of service with this body  
+to the images of the Lord (arcā) to which he has an attachment. 
+
+</details>
+
+
+
+<details><summary>सायण-टीका</summary>
+
+तन्न धिकारानुरूपमाग अद्वारकमागप्पट्रिनवनुक्किति । आकिञ्चन्यानन्यगतित्वमिल्लामैयाल् सद्वारकप्रपत्तियैप्पट्रिन उपासनाधिकारिपोलण्ड्रिक्के आकिञ्चन्यानन्यगतित्वरूप तन्नधिकारानुगुणमाग अद्वारकप्रपत्तियैप्पट्रिनवनुक्कॆण्ड्रबडि. स्वप्रपत्तिक्कु फलमागक् कोलिन परिपूर्णब्रह्मानुभवत्तिऱ्‌कु. वेऱु प्रतिबन्धकमिल्लादबडियाले - मेल् सॊल्लप्पोगिऱ स्वानुमतियाले स्थापितमान शरीरत्तैक्काट्टिलुं वेऱान प्रतिबन्धकमिल्लामैयाल्, प्रारब्धादिकळुक्कुं नाशकमान इप्प्रपत्तिक्कु प्रारब्धादिकळ् प्रतिबन्धकमागादुगळॆण्ड्रु करुत्तु. प्रपत्तिक्षणम् मुदलाग इति । इदु कैङ्गर्यत्तुक्कु पूर्वावधि । इदऱ्‌कु ‘‘शरीरत्तिन् अवसानत्तै ऎल्लैयाग उडैत्ताय्" ऎन्बदोडन्वयम्. अद्वारकप्रपत्ति तत्क्षणत्तिलेये निष्पन्नैयावदाल् तदुत्तरक्षणमे कैङ्गर्य रूबफलोद्गमक्षणमॆण्ड्रु करुत्तु. इप्पडि परिपूर्णब्रह्मानुभवत्तिऱ्‌कु प्रतिबन्धकमान शरीरस्थितियिननुमतियैप्पामरर्गळ् पण्णिनालुम् महान्गळ् पण्णुवार्गळो? इङ्गु इत्तनै कालम् अनुभूतमाय् पररूपत्तैक्काट्टिलुं सुलभतममाय्, पट्टिनि यॊरु शरीरत्तिऱ्‌कु, पारणैयॊरु शरीरत्तिऱ्‌कु ऎन्गिऱबडि आर्तनाय् प्रपत्त्यनुष्ठानम्बण्ण इन्द शरीरत्तैक्काट्टिलुम् भिन्नमान आगामिशरीरत्तिल् अनुभाव्यम् पोलण्ड्रिक्के उपायानुष्ठानम्बण्णिन इन्द शरीरत्तिलेयनुभाव्यमान अर्चावतारादिसङ्गविशेषत्ताले महान्गळुं तन् शरीरस्थितियैयनुमदिप्पार्गळॆन्निल् अदऱ्‌कु सूचकमान प्रमाणन्दानुण्डोवॆन्न वरुळिच्चॆय्गिऱार् इङ्गे तिरिन्देर्क्कित्यादिना । इङ्गे तिरिन्देर्क्कु - इन्द लोगत्तिले सञ्चरित्तुप् पोरुगिण्ड्र नमक्कु. इऴुक्कुट्रॆन् - हीनमान कुट्रमॆन्न?  
+तन् कल्याणगुणङ्गळै वायिनाल् सॊल्लवुम्, दृष्टिचित्तापहारियान तन् तिरुमेनियै मनत् तिनाल् ध्यानं सॆय्यवुम्, अङ्गाङ्गुळ्ळ पुष्पङ्गळैक्कॊण्डु कैयिनालर्च्चिक्कवुं वऴिबडुम्बडि भगवान् कृपै पण्णिनानागिल् इङ्गेयिरुन्दालुम् ऒरु कुट्रमुमिल्लैयॆण्ड्रबडि.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अद्वारकमागप् पट्रिनवनुक्कु परिपूर्णानुभवत्तुक्कु वेऱु प्रतिबन्धकमिल्लाद पडियाले प्रपत्तिक्षणम् मुदलाग ""इङ्गे तिरिन्देऱ्‌किऴुक्कुट्रॆन्""(तिरुवाय्मॊऴि 8-10-4.) ऎण्ड्रुम्, 
+</details>
+
+
+
+
+So his mokṣa  has to await only the death of this body and will consist in the rendering, in Vaikuṇṭha  , of perfect and full service which has begun even here in the performance of service limited by the conditions of place, time and the nature of bodily life (svarūpa ). The state of the prapanna who is prepared to continue in this world till the dissolution of the body is referred to in passages like the following: "What is there" wrong in us who go about here having already won the grace of being permitted to serve Thee " "Leaving this bliss of uttering Thy names, I do not want even the bliss of going to Paramapada and ruling over it." "Can I indeed give up the hare and go in pursuit of the crow !" (That is--- it would be foolish to give up hare's flesh which is excellent as food and go after crow's flesh. So also the service of the image here in temples is superior even to the bliss of serving the Lord in Paramapada). “My deep love to Thee, "O King, is always staunch. So also my devotion to Thee, O valiant Sire, is always firnı. Nowhere else can my mind turn". (In these words Hanuman expresses his love and devotion to ŚrīRāma and states that this love and devotion are greater towards Rāma than even to the Lord of Paramapada).
 
 Since the Supreme Ruler is the giver of all things, and since prapatti at His feet is capable of yielding all kinds of fruit, it becomes the means of securing whatever fruit is desired respectively by these two (bhakta and prapanna [^45] ). The Śāstras say, "Ask any boon that you want, when I am in the range of one's vision, all (good) things will follow." "O Thou that hast created all the worlds! Is there anything that is difficult to obtain, when Thou art pleased ? "   " When He is graciously disposed, is there anything here that cannot be obtained ? "   " What is there in this world or in the world above, O Dalbhya, that cannot be accomplished by those men whose minds are directed towards Viṣṇu  ?" "The fruit is from Him. It stands to reason ". (Brahma Sūtras 3 - 2 - 37). Bhakti or upāsana is the means of securing the four kinds of objects that may be desired in accordance with one's aim as stated in the Bhagavad Gitā (7 - 16). "Four types of men who have performed meritorious deeds worship me. He who has lost his wealth and is anxious to recover it, he who wants to have a vision of his own self (ātmā) and to enjoy it (ātmānubhava ), he who wants to acquire wealth anew, and he who is a Jnāni, who desires to be for ever with the Lord and practises bhakti for attaining Him." Similarly have not the great rishis declared that prapatti is also the means of attaining the four kinds of objects or aims as is stated in the śloka  : "Only so long as one does not perform prapatti to Thee that canst destroy all sins, will there be the anxiety to recover lost wealth, only so long will there be the desire to acquire new wealth, only so long will there be the absence of the enjoyment of one's self as something different from the body; only so long will there be the sorrow of saṁsāra". From the words " that destroyest all sins” and the repetition of "only so long" repeated in every case with great consideration, it is made clear that the fruit which is desired by the man will all become his, in accordance with his desire and at the very time when he desires to have it. It is in consideration of this superior efficacy of prapatti that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-" Those who practise Jñāna Yoga and Bhakti Yoga with a pure mind and those who perform karma which would discipline the soul in renunciation are not worth even one ten-millionth part of the man who has performed prapatti. The difference in the kinds of service done here (in this life) by the prapanna is due to the difference in the desire of the prapanna and that difference in the desire is due to the difference in the meritorious deeds of the past which have begun to operate in this life (Prārabdha karma ). There will be no difference at all in the bliss that will be attained after casting off the last body.
 
