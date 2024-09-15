@@ -1377,9 +1377,9 @@ Your benevolence \(Isvarasya souhArtham\) is the prime factor for AchArya Prapat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्धोऽनन्ध-ग्रहण-वशगो **याति** रङ्गेश यद्वत्  
-पङ्गुर् नौका-कुहर-निहितो **नीयते** नाविकेन ।  
-**भुङ्क्ते** भोगान् अ-विदित-नृपः सेवकस्यार्भकादिः  
++++(अनुष्ठानाज्ञान-दृष्टान्तः→)+++ अन्धोऽनन्ध-ग्रहण-वशगो **याति** रङ्गेश यद्वत्  
++++(शक्त्यभाव-दृष्टान्तः→)+++ पङ्गुर् नौका-कुहर-निहितो **नीयते** नाविकेन ।  
++++(उभयाभाव-दृष्टान्तः→)+++ **भुङ्क्ते** भोगान् अ-विदित-नृपः सेवकस्यार्भकादिः  
 त्वत्-सम्प्राप्तौ **प्रभवति** तथा देशिको मे दयालुः ॥ २१॥
 </details>
 
@@ -1418,6 +1418,28 @@ This shloka emphasizes the importance of AchArya nishtai. This shloka praises th
 Oh RanganAtha\! It is customary for a blind man to seek the help of a man with good eye sight to take him to his desired destination. A lame man with limited mobility is lifted and placed in the center of the boat by a boatman to ferry the lame man across the river. The child of a servant of the King enjoys the benefits of its father’s position \(presents from the royal household\), even if it 71 is not aware of the King.  Similarly, an aspirant  for Moksham, who does  not have the Jn~Anam  \(as in the case of the  blind man\) or physical  power \(as in the case of  the lame man\) for  Prapatthi can entrust  his prapatthi to a  SadAchAryan. That  SadAchAryan serves  the roles of the helper  for the blind man and  the boatman for the  lame man and gets the  sishyan across the ocean  of samsAram. It is  s u g g e s t e d t h a t  AchAryan helps the  sishyan, who is deficient  in Jn~Anam just as a  **The merciful jagadAchAryan ** man with good eye sight  helps a blind man. The AchAryan serves as a boatman by placing the sishyan on the boat of AchArya nishtai and ferries him across the sea of samsAram to the safe shore of Moksham. Even if the sishyan does not know the subtelities of Prapatthi, AchAryan blesses the sishyan to enjoy the Bhagavath bhOga anubhavam. AchArya KaTaaAksham accomplishes all these things. The key passage of this shloka is: 
 
 “mE tvat samprAptou dayALu: desika: prabhavati” \(Oh Lord\! In attaining You, the merciful AchAryan becomes the powerful instrument\). 
+</details>
+
+<details><summary>राजगोपालः (En)</summary>
+
+" The blind man walks on being led by one who is not blind;  
+the lame man is taken (across the stream) by the boatman, being placed within the boat;  
+the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king.  
+So also my ācārya , who is compassionate, is capable of making me attain Thee, O Lord of Śrīraṅgam".
+</details>
+
+<details><summary>सारास्वादिनी</summary>
+
+‘‘प्रपत्त्यनुष्ठानोपयुक्तज्ञानाभावे प्रथमदृष्टान्तः,  
+शक्त्य्-अभावे द्वितीयः;  
+उभयाभावे तृतीयः’’ 
+</details>
+
+<details><summary>सार-दीपिका</summary>
+
+‘‘प्रथमदृष्टान्तम् आचार्यानुष्ठापित-प्रपत्ति-निष्ठरैप् पट्र;  
+द्वितीय-दृष्टान्तं स्वाभ्यर्थना-पूर्वकाचार्यानुष्ठित-प्रपत्ति-निष्ठरैप् पट्र;  
+तृतीय-दृष्टान्तं तान् अपेक्षिक्कैय्-अण्ड्रिक्क् एय् इरुक्क कृपा-मात्रत्ताल् आचार्यानुष्ठित-प्रपत्ति-विषयी-भूतरैप् पट्र"
 </details>
 
 

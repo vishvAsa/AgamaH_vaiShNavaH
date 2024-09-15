@@ -1295,6 +1295,11 @@ Mudali Andan said:
 > So also when the author of Śrī Bhāṣya performed prapatti (the surrender of his responsibility or bhara),  
 > we "too have been saved (by that act)[^44] owing to our intimate connection with him."
 
+[^44]:
+
+    This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school.  
+    The former hold that since Śrī Rāmānuja has already performed prapatti, even his followers of a later day who acknowledge him as their ācārya  will benefit by it and they need not perform prapatti;  
+    the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it .
 </details>
 
 <details><summary>Español</summary>
@@ -1304,8 +1309,13 @@ Mudali Andan said:
 > "When a lion leaps from one hill to another,  
 > the little creatures (like bugs and lice) on his body are also taken over from that hill to the other.  
 > So also when the author of Śrī Bhāṣya performed prapatti (the surrender of his responsibility or bhara),  
-> we "too have been saved (by that act)[^44] owing to our intimate connection with him."
+> we "too have been saved (by that act)[^es44] owing to our intimate connection with him."
 
+[^es44]:
+
+    This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school.  
+    The former hold that since Śrī Rāmānuja has already performed prapatti, even his followers of a later day who acknowledge him as their ācārya  will benefit by it and they need not perform prapatti;  
+    the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it .
 </details>
 
 
@@ -1359,7 +1369,40 @@ We, too, have expressed this idea in Nyāsa Tilaka as follows:-
 > " The blind man walks on being led by one who is not blind;  
 > the lame man is taken (across the stream) by the boatman, being placed within the boat;  
 > the children of the king's servants enjoy the pleasures (of the palace), although they do not know the king.  
-> So also my ācārya , who is compassionate, is capable of making me attain Thee, O Lord of Śrīraṅgam". 
+> So also my ācārya , who is compassionate, is capable of making me attain Thee, O Lord of Śrīraṅgam".
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि ज्ञानशक्त्यादिकळिल्लाद अधिकारिक्कुम् आचार्यसम्बन्धत्ताल् फलसिद्धियुण्डॆन्बदै मुदलियाण्डान् पासुरत्तैक्कॊण्डु सिंहशरीरजन्तुदृष्टान्तत्ताले उपपादित्तु इवनुक्कुप्पोल् शक्तियिरुन्दु ज्ञानमिल्लाद वधिकारिक्कुम्, ज्ञानमिरुन्दु शक्तियिल्लाद वधिकारिक्कुम्, मुन्बोल् उभयमिल्लाद अधिकारिक्कुम् फलसिद्धियुण्डॆन्बदै तत्तदुचितदृष्टान्तत्ताले न्यासतिलकत्तिले सॊन्नोमॆन्गिऱार् अन्धोऽनन्ध इत्यादियाल्. अन्धोऽनन्धग्रहणवशगस्सन् स्वाभिमतदेशं यद्वद्याति, तथा पङ्गुः नौकाकुहरनिहितः यद्वत् नाविकेन नीयते, अविदितनृपस्सेवकस्यार्भकादिः यद्वद्भोगान् भुङ्क्ते तथा मे त्वत्सम्प्राप्तौ दयाळुः देशिकः प्रभवतीत्यन्वयः । इन्द श्लोकत्तिल् 
+
+> ‘‘प्रथमदृष्टान्तम् आचार्यानुष्ठापित-प्रपत्ति-निष्ठरैप् पट्र;  
+> द्वितीय-दृष्टान्तं स्वाभ्यर्थना-पूर्वकाचार्यानुष्ठित-प्रपत्ति-निष्ठरैप् पट्र;  
+> तृतीय-दृष्टान्तं तान् अपेक्षिक्कैय्-अण्ड्रिक्क् एय् इरुक्क कृपा-मात्रत्ताल् आचार्यानुष्ठित-प्रपत्ति-विषयी-भूतरैप् पट्र" +++(5)+++
+
+ऎण्ड्रु सार-दीपिकैयिल् इम्-मूण्ड्रु दृष्टान्तप्रदर्शनत्तिऱ्‌कुम् अभिप्रायं वर्णिक्कप्पट्टिरुक्किऱदु.  
+उक्तिनिष्ठाप्रस्तावत्तिल् निष्ठाद्वयप्रतिपादकमान 
+
+> ‘‘तव भरोऽहम् आकारिषि धार्मिकैश् शरणम् इत्य् अपि वाचम् उदैरिरम्’’  
+
+ऎन्गिऱ श्लोकत्तै उदाहरित्ताऱ्‌पोल् आचार्यनिष्ठाप्रस्तावत्तिलुं निष्ठाद्वयप्रतिपादकश्लोकत्तै उदाहरित्ताल् बाधकमिल्लैयॆन्बदु इवर् तिरुवुळ्ळम्. मुदल् दृष्टान्तमुम् आचार्यनिष्ठन् विषयमानाल् अन्धोऽनन्धग्रहणाद्याति ऎन्बदे पोदुमायिरुक्क ‘‘वशगः’’ऎन्गिऱ पदं व्यर्थमाम्.  
+उक्तिनिष्ठन् विषयमानाल् ‘‘अनन्धग्रहणवशाद्गच्छति अनन्धग्रहणवशगः’’ ऎण्ड्रु व्युप्तत्ति पण्णि गत्यर्थानां बुद्ध्यर्थत्वत्तै अङ्गीकरित्तु दार्ष्टान्तिकत्तिल् आचार्यसम्बन्धवशात् ज्ञानवानाय्क् कॊण्डु अदावदु - आचार्यानुष्ठापितप्रपत्तिनिष्ठनाय्क् कॊण्डु याति – स्वानुष्ठितोपायेन स्वयमेव याति ऎण्ड्रर्थं कॊळ्ळिल् वशगपदं सार्थमागुमॆण्ड्रुम्, इप्पडि अधिकारभेदवर्णनत्ताल् वशगो याति, निहितो नीयते ऎण्ड्रु स्वाधीनपराधीनव्यापारबोधकमाग प्रयोगमुं सार्थमागुमॆण्ड्रुं दीपिकाचार्यर् तिरुवुळ्ळम्.  
+इवरिप्पडि आचार्यसम्बन्धविशेषङ्गळै यिट्टु मूण्ड्रु दृष्टान्तङ्गळुक्कुम् भाववर्णनम् पण्णिनार्. 
+
+सारास्वादिनियिल् 
+
+> ‘‘प्रपत्त्यनुष्ठानोपयुक्तज्ञानाभावे प्रथमदृष्टान्तः,  
+> शक्त्य्-अभावे द्वितीयः;  
+> उभयाभावे तृतीयः’’ +++(5)+++
+
+ऎण्ड्रु मूण्ड्रु दृष्टान्तङ्गळुक्कुम् प्रयोजनमरुळिच्चॆय्दार्.  
+इवरुक्कु आचार्यनिष्ठन् प्रकरणत्तिलुमुदाहरिक्कप्पट्ट इन्द श्लोकत्तिल् मूण्ड्रु दृष्टान्तङ्गळुं तद्विषयङ्गळागवे सम्भावितङ्गळायिरुक्क मुदल् दृष्टान्तत्तै अन्यपरमाक्क वेण्डामॆण्ड्रु तिरुवुळ्ळम्. केवलज्ञानाभावशक्त्यभावङ्गळ् नास्तिकादिसाधारणङ्गळागैयाल् दीपिकैयिल् सॊन्न आचार्यसम्बन्धसहितङ्गळान ज्ञानाभावशक्त्यभावङ्गळेप्रत्येकम् आचार्य निष्ठैक्कु अधिकारङ्गळॆन्बदु सारास्वादिनीकर्ताविन् तिरुवुळ्ळम्. इदै निक्षेपचिन्तामणियिल् 
+
+> ‘‘पूर्वोक्तोक्ति-निष्ठायाम् अप्य् असमर्थस्य  
+> प्रपदन-विषयक-ज्ञान-सामान्य-रहितस्य  
+> +आचार्य-वरिवस्या-निरतस्याचार्येण प्रपदनानुष्ठानम्" +++(4)+++
+
+ऎण्ड्रु स्पष्टमागव् अरुळिच्चॆय्दार्.  
 
 </details>
 
@@ -1374,16 +1417,114 @@ We, too, have expressed this idea in Nyāsa Tilaka as follows:-
 ऎण्ड्रु न्यासतिलकत्तिले सॊन्नोम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एद् एन् उम् ऒरु प्रकारम् आगव् उम् आम्  
++++(स्व-पक्षतः)+++ आर् एन् उम् ऒरुवर् अनुष्ठिक्कव् उम् आम्  
+प्रपत्तिक्क् अल्लदु सर्वेश्वरन् परम-पुरुषार्थङ् गॊडुक्क इरङ्गान्+++(=न दयते)+++  
+ऎण्ड्रद् आयिट्रु.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+येन केनापि वा प्रकारेण भवतु ;  
++++(स्व-पक्षतः)+++ येन केनापि च पुंसाऽनुष्ठिता भवतु ;  
+प्रपत्तिं विना तु सर्वेश्वरः परम-पुरुषार्थदानार्थं न दयेतेति सिद्धम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+It comes to this that  
+the Lord of all will not be gracious enough  
+to grant us the supreme goal of existence,  
+unless prapatti is performed in some manner or other  
+and by some-one or other.
+</details>
+
+<details><summary>Español</summary>
+
+It comes to this that  
+the Lord of all will not be gracious enough  
+to grant us the supreme goal of existence,  
+unless prapatti is performed in some manner or other  
+and by some-one or other.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि उक्त्याचार्यनिष्ठैकळुक्कु साक्षान्मोक्षजनकत्वमुण्डॆण्ड्राल् केवलनामसङ्कीर्तनत्तिऱ्‌कुं केवलभागवतसमाश्रयणत्तिऱ्‌कुं साक्षात्फलजनकत्वं कूडादोवॆन्न? अवैगळ् प्रपत्तिरूपङ्गळल्लामैयाल् अवैगळाल् भगवान् इरङ्गि फलं कॊडानॆगिऱार् एदॆनुमित्यादिना । ऒरु प्रकारमागवुमामिति । स्वतन्त्रमादल्, अङ्गमादल्, विशदानुसन्धानमादल्, समुदायज्ञानपूर्वक सकृदुक्तिमात्रमादल्, आरेनुमॊरुवरनुष्टिक्कवुमाम् - तान् शक्तनाय् विशदभरसमर्पणमागवो किञ्चिदशक्तनाय् समुदायज्ञानपूर्वकसकृदुक्तिमात्रमागवो अनुष्ठिक्कवुमाम्, तनक्कागवाचार्यादिकळ् विशदभरसमर्पणमागवो समुदायज्ञानपूर्वकसकृदुक्तिमात्रमागवो अनुष्ठिक्कवुमाम्. प्रपत्तिक्कल्लदु - प्रपत्तिभिन्नङ्गळुक्कु, सर्वेश्वरन् - ‘‘भक्त्या परमया वापि प्रपत्त्या वा महामते । प्राप्योऽहं नान्यथा प्राप्यो मम कैङ्कर्यलिप्सुभिः ॥’’ ऎण्ड्रु शासनम् पण्णिवैत्त सर्वेश्वरन्, परमपुरुषार्थं कॊडुक्क - देशविशेषावच्छिन्नभगवदनुभवपूर्वकभगवत्कैङ्कर्यरूप पुरुषार्थत्तै साक्षात्तागक् कॊडुक्क. इरङ्गानॆण्ड्रदायिट्रु इति । इप्पडि उक्तियैयुम् आचार्यनिष्ठैयैयुम् प्रपत्तियिन् मुखभेदमाग निरूपित्तबडियाले यवैगळुक्किरङ्गि साक्षात्फलप्रदानं सॆय्वने यॊऴिय तदितरङ्गळुक्किरङ्गि साक्षात्फलप्रदानं सॆय्य माट्टानॆण्ड्रु इव्वधिकारं तॊडङ्गि एतावत्पर्यन्तग्रन्थसन्दर्भत्ताल् निष्कर्षिक्कप्पट्ट तायिट्रॆन्गै.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एदेनुमॊरु प्रकारमागवुमाम् आरे नुमॊरुवरनुष्ठिक्कवुमाम् प्रपत्तिक्कल्लदु सर्वेश्वरन् परमपुरुषार्थङ्गॊडुक्क इरङ्गानॆण्ड्रदायिट्रु.  
+</details>
+
+### भागवताभिमानादिना नालम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि 
+
+> “पशुर् मनुष्यः पक्षी वा  
+> ये च वैष्णव-**संश्रयाः** ।  
+> तेनैव ते **प्रयास्यन्ति**  
+> तद्-विष्णोः परमं पदम्”  
+> (शाण्डिल्यस्मृति 1-15.) 
+
+ऎण्ड्रुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं
+
+> “पशुर् मनुष्यः पक्षी वा  
+> ये च वैष्णव-**संश्रयाः** ।  
+> तेनैव ते **प्रयास्यन्ति**  
+> तद्-विष्णोः परमं पदम्”  
+> (शाण्डिल्यस्मृति 1-15.) 
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+(It is true that we find such passages as the following in the śāstra s):-
+
+> "Whether it be a beast or a man or a bird -  
+> those who are held by Bhāgavatas as their own  
+> will go to the supreme abode of Viṣṇu  for that very reason". 
+</details>
+
+<details><summary>Español</summary>
+
+(It is true that we find such passages as the following in the śāstra s):-
+
+> "Whether it be a beast or a man or a bird -  
+> those who are held by Bhāgavatas as their own  
+> will go to the supreme abode of Viṣṇu  for that very reason". 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ननु भागवताभिमानादिकळुक्कुम् भगवान् इरङ्गुवानॆण्ड्रदिल्लैयोवॆन्न वरुळिच्चॆय्गिऱार् इप्पडि पशुर्मनुष्य इत्यादिना । इप्पडि - उक्त्याचार्यनिष्ठाविषयत्तिल् सॊन्नबडि. इदऱ्‌कु "ऎण्ड्रुं सॊल्लुगिऱ" ऎन्बदोडन्वयम्. वैष्णवसंश्रयाः – वैष्णवनै आश्रयमागवुडैयवर्गळ्. भागवतनाले मदीयनॆण्ड्रभिमानिक्कप् पॆट्रवर्गळिति यावत् । तैनैव - अन्द वैष्णवसंश्रयणत्तालेये. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि “पशुर्मनुष्यः पक्षी वा ये च वैष्णवसंश्रयाः । तेनैव ते प्रयास्यन्ति तद्विष्णोः परमं पदम्”(शाण्डिल्यस्मृति 1-15.) ऎण्ड्रुम्, 
+</details>
 
 
 
-It comes to this that the Lord of all will not be gracious enough to grant us the supreme goal of existence, unless prapatti is performed in some manner or other and by some one or other.
 
-[^44]: This is interpreted in two different ways by the southern school of Viśiṣṭādvaitins and the northern school. The former hold that since Śrī Rāmānuja has already performed prapatti, even his followers of a later day who acknowledge him as their ācārya  will benefit by it and they need not perform prapatti; the latter hold, on the other hand, that only those who were his śiṣyas then would benefit by it
+The favour of Bhāgavatas, residence in holy places and the like are not direct and independent means for attaining mokṣa . 
 
-.
-
-The favour of Bhāgavatas, residence in holy places and the like are not direct and independent means for attaining mokṣa . (It is true that we find such passages as the following in the śāstra s):-"Whether it be a beast or a man or a bird - those who are held by Bhāgavatas as their own will go to the supreme abode of Viṣṇu  for that very reason". “We, who live in your territories, should be protected by you, for you are our king, O ruler of men, whether you are in the town or in the forests''. "All the beings in Ayodhya which contained (many) good regions - whether they were beings that moved or beings that could not move - he enabled them (all) to acquire nobility of nature". The nobility was that of feeling delight in the company of ŚrīRāma and grief in separation from him. "The strength that lies in living in places where Thou hast temples is the strength that enables a man to attain mokṣa ". (From these passages, it might appear, at first sight, that the favour of Bhāgavatas or God's devotees and the fact of living in places belonging to the Lord would lead of themselves to the supreme goal.) But even here there is always some connection with either prapatti by one's owa utterance or prapatti through the ācārya  or bhakti or prapatti which existed before or bhakti or prapatti which followed. It may be asked how this could be. (The answer is as follows:-) They will lead to bhakti or prapatti. In the case of one who has already adopted bhakti or upāsanā, they will promote the further development of the upāya or means. In the case of one who has performed prapatti as an independent means, they will promote the eagerness for service while in this world. It is in this way they render help.
+“We, who live in your territories, should be protected by you, for you are our king, O ruler of men, whether you are in the town or in the forests''. "All the beings in Ayodhya which contained (many) good regions - whether they were beings that moved or beings that could not move - he enabled them (all) to acquire nobility of nature". The nobility was that of feeling delight in the company of ŚrīRāma and grief in separation from him. "The strength that lies in living in places where Thou hast temples is the strength that enables a man to attain mokṣa ". (From these passages, it might appear, at first sight, that the favour of Bhāgavatas or God's devotees and the fact of living in places belonging to the Lord would lead of themselves to the supreme goal.) But even here there is always some connection with either prapatti by one's owa utterance or prapatti through the ācārya  or bhakti or prapatti which existed before or bhakti or prapatti which followed. It may be asked how this could be. (The answer is as follows:-) They will lead to bhakti or prapatti. In the case of one who has already adopted bhakti or upāsanā, they will promote the further development of the upāya or means. In the case of one who has performed prapatti as an independent means, they will promote the eagerness for service while in this world. It is in this way they render help.
 
 DIFFERENCE BETWEEN BHAKTI AND PRAPATTI
 
