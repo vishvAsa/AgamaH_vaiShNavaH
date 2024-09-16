@@ -2557,6 +2557,12 @@ it becomes the means of securing
 whatever fruit is desired respectively  
 by these two (bhakta and prapanna [^45] ). 
 
+[^45]: 
+
+    The sentence means that the 'direct' prapanna gets mokṣa which he desires  
+    and the prapanna who performs prapatti for the sake of bhakti  
+    gets bhakti which he desires,  
+    for prapatti can secure whatever is desired.+++(5)+++
 </details>
 
 <details><summary>Español</summary>
@@ -2566,7 +2572,14 @@ and since prapatti at His feet
 is capable of yielding all kinds of fruit,  
 it becomes the means of securing  
 whatever fruit is desired respectively  
-by these two (bhakta and prapanna [^45] ).
+by these two (bhakta and prapanna [^es45] ).
+
+[^es45]: 
+
+    The sentence means that the 'direct' prapanna gets mokṣa which he desires  
+    and the prapanna who performs prapatti for the sake of bhakti  
+    gets bhakti which he desires,  
+    for prapatti can secure whatever is desired.+++(5)+++
 </details>
 
 
@@ -2590,7 +2603,7 @@ by these two (bhakta and prapanna [^45] ).
 “चतुर्विधा भजन्ते माम्”(गीता 7-16.) 
 
 ऎन्गिऱप्-पडिय् ए  
-उपासनम् याद्-ऒरु-बडि चतुर्-विध-फलत्तुक्क् उम् साधनम् आय् इरुक्कुगिऱदु; 
+उपासनम् याद्-ऒरु-बडि चतुर्-विध-फलत्तुक्क् उम् साधनम् आय् इरुक्किऱदु; 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -2647,7 +2660,7 @@ as stated in the Bhagavad Gitā (7 - 16).
 
 <details><summary>मूलम्</summary>
 
-“चतुर्विधा भजन्ते माम्”(गीता 7-16.) ऎन्गिऱप्पडिये उपासनम् यादॊरुबडि चतुर्विधफलत्तुक्कुम् साधनमायिरुक्कुगिऱदु; 
+“चतुर्विधा भजन्ते माम्”(गीता 7-16.) ऎन्गिऱप्पडिये उपासनम् यादॊरुबडि चतुर्विधफलत्तुक्कुम् साधनमायिरुक्किऱदु; 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2749,12 +2762,236 @@ that prapatti is also the means of attaining the four kinds of objects or aims.
 प्रपत्तियुम् इच्चतुर्विधफलत्तुक्कुम् साधनमागविऱे महर्षिगळ् अऱुदियिडुवदु.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् “अशेषाघ-नाशनम्” ऎन्गैयाल् उम्,  
+
++++(प्रत्येकस्मिन् वाक्यखण्डे)+++ आदरन् तोट्र “तावत्” ऎण्ड्रु  
+अधिकारन् तोऱुम् आवर्तिक्कैयाल् उम्,  
+
+इवन् अपेक्षित्त फलम् ऎल्लाम्  
+इवन् कोलिन+++(=वृत)+++ कालत्तिल् ए  
+यथा-मनो-रथम् सिद्धिक्कुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र "अ-शेषाघ-नाशनम्" इत्य् उक्तेः,  
++++(प्रत्येकस्मिन् वाक्यखण्डे)+++ " तावत्" इत्य्-अस्य आदर-प्रत्यायनाय  
+प्रत्यधिकारम् आवर्तनाच् च,  
++एतद् अपेक्षित-फलं सर्वम्  
+एतन्-निर्दिष्ट-काले यथा-मनो-रथं सिध्येत् (इति प्रतीयते) ॥ 
+</details>
+
+<details><summary>English</summary>
+
+From the words " that destroyest all sins”  
+and the repetition of "only so long"  
+repeated in every case with great consideration,  
+it is made clear  
+that the fruit which is desired by the man will all become his,  
+in accordance with his desire  
+and at the very time when he desires to have it. 
+</details>
+
+<details><summary>Español</summary>
+
+From the words " that destroyest all sins”  
+and the repetition of "only so long"  
+repeated in every case with great consideration,  
+it is made clear  
+that the fruit which is desired by the man will all become his,  
+in accordance with his desire  
+and at the very time when he desires to have it. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द प्रमाणत्तै नोक्किनाल् भक्तियैक्काट्टिलुम् प्रपत्तिक्कु उत्कर्षं तोट्रुगिऱदॆन्गिऱार् इदिलित्यादिना । इदिल् - इन्द श्लोकत्तिल्, अशेषाघनाशनमॆन्गैयालुम् - अविळम्बेन फलप्राप्तिक्कु प्रतिबन्धकमान प्रारब्धाघत्तैयुं सेर्त्तु अशेषाघनाशनमॆण्ड्रु उपपत्ति सॊल्लुगैयालुम्, आदरं तोट्र - प्रपत्त्युत्तरकालत्तिलेये फलसिद्धियिल् आदरं तोट्र, अधिकारन्दोऱुम् - आर्तनधिकारियागिल् आर्त्यधिकारम्, कामनावानधिकारियागिल् वाञ्छै अधिकारम्, अवैगळॆल्लावट्रिलुम्, आवृत्तिक्कैयालुम् - अभ्यसिक्कैयालुम्, अभ्यासरूपलिङ्गत्तैच् चॊल्लुगैयालुम् ऎण्ड्रबडि. इवनपेक्षित्तफलमॆल्लाम् - अद्वारकप्रपत्तिनिष्ठनपेक्षित्तफलमॆल्लाम्,  
+इवन्गोलिनगालत्तिल् - सद्वारकप्रपत्तिनिष्ठनुक्कुप् पोल् ए 
+प्रारब्धावसान-पर्यन्त-विळम्बम् अण्ड्रिक्क् ए  
+इवन् अपेक्षित्त कालत्तिलेये. 
+
+यथामनोरथं सिद्धिक्कुमिति । इवन् ऐश्वर्यत्तै मनोरथित्ताल् ऐश्वर्यमुम्, कैवल्यत्तै मनोरथित्ताल् कैवल्यमुम्, मुक्तियै अपेक्षित्ताल् मुक्तियुं सिद्धिक्कुमॆण्ड्रबडि. इप्पडिप्पट्ट एट्रत्तै निनैत्तु - इवन् कोलिनगालत्तिले यथामनोरथं फलिक्कु मॆन्गिऱ उत्कर्षत्तै निनैत्तु.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिल् “अशेषाघनाशनम्” ऎन्गैयालुम् आदरन्दोट्र “तावत्” ऎण्ड्रु अधिकारन्दोऱुम् आवर्तिक्कैयालुम् इवन् अपेक्षित्त फलमॆल्लामिवन् कोलिन कालत्तिले यथामनोरथम् सिद्धिक्कुम्. 
+</details>
+
+
+## स्वतन्त्र-प्रपत्तेर् उत्कर्षः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडिप्-पट्ट एट्रत्तै निनैत्तु  
+
+> “सत्-कर्म-निरताश् शुद्धास्  
+> साङ्ख्य-योग-विदस् तथा ।  
+> नार्हन्ति शरण-स्थस्य  
+> कलां कोटितमीम् अपि”  
+> (लष्मीतन्त्रम् 17-62.) 
+
+ऎण्ड्रु सॊल्लुगिऱदु.
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवविधं समुत्कर्षम् अभिसन्धायैव, 
+
+> “सत्-कर्म-निरताश् शुद्धास्  
+> साङ्ख्य-योग-विदस् तथा ।  
+> नार्हन्ति शरण-स्थस्य  
+> कलां कोटितमीम् अपि”  
+> (लष्मीतन्त्रम् 17-62.) 
+
+इत्युच्यते ।
+</details>
+
+<details><summary>English</summary>
+
+It is in consideration of this superior efficacy of prapatti  
+that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-
+
+> " Those who practise Jñāna Yoga and Bhakti Yoga with a pure mind  
+> and those who perform karma which would discipline the soul in renunciation  
+> are not worth even one ten-millionth part of the man who has performed prapatti. 
+
+</details>
+
+<details><summary>Español</summary>
+
+It is in consideration of this superior efficacy of prapatti  
+that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-
+
+> " Those who practise Jñāna Yoga and Bhakti Yoga with a pure mind  
+> and those who perform karma which would discipline the soul in renunciation  
+> are not worth even one ten-millionth part of the man who has performed prapatti. 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सत्कर्मेत्यादि । सत्कर्मनिरताः – सात्विकत्यागपुरस्सरमागवनुष्ठिक्कुं निवृत्ति धर्मरूपमान कर्मयोगत्तिले निष्ठैयुडैयवर्गळ्. अत एव शुद्धाः । ‘‘धर्मेणपापमपनुदति’’ ऎन्गिऱ प्रकारम् पापं कऴिगैयाले परिशुद्धर्गळ्. तथा – परिशुद्धर्गळान, साङ्ख्यविदः – आत्मावलोकननिष्ठाः, योगविदः – भक्तियोगनिष्ठाश्च । शरणस्थस्य – अद्वारकप्रपत्तिनिष्ठस्य, कोटितमीं कलां प्रत्यपि नार्हन्ति – योग्या न भवन्ति । ऎण्ड्रु सॊल्लुगिऱदु इति । इङ्गु नहि निन्दान्यायत्ताले अद्वारकप्रपत्तिक्कु प्रारब्धनाशकत्वरूपोत्कर्षत्तालुम् प्रारब्धावसानप्रतीक्षैयण्ड्रिक्के अपेक्षितकालत्तिलेये अपेक्षितफल साधनत्वरूपोत्कर्षत्तालुं कर्मयोगज्ञानयोगभक्तियोगादिकळैक् काट्टिलुम् एट्रं सॊल्लवन्ददत्तनै पोक्कि ‘‘चतुर्विधा भजन्ते मां’’ इत्यादिकळिल् सर्वफलसाधनमागच् चॊन्न भक्तियै निन्दिक्क वन्ददण्ड्रॆण्ड्रु तिरुवुळ्ळम्.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिप्पट्ट एट्रत्तै निनैत्तु “सत्कर्मनिरताश्शुद्धास्साङ्ख्ययोगविदस्तथा । नार्हन्ति शरणस्थस्य कलां कोटितमीमपि”(लष्मीतन्त्रम् 17-62.) ऎण्ड्रु सॊल्लुगिऱदु.
+</details>
+
+## प्रपन्नेषु वैषम्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवनुक्क् इङ्ग् इरुन्द कालत्तिल् कैङ्कर्यत्तिल् वैषम्यम्  
+तन् कोलुदलिल् वैषम्यत्ताल् ए वन्ददु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्येह जीवन-काले कैङ्कर्ये वैषम्यं  
+स्वाभिप्राय-वैषम्यात् प्राप्तम् ।  
+</details>
+
+<details><summary>English</summary>
+
+The difference in the kinds of service done here (in this life) by the prapanna  
+is due to the difference in the desire of the prapanna  
+</details>
+
+<details><summary>Español</summary>
+
+The difference in the kinds of service done here (in this life) by the prapanna  
+is due to the difference in the desire of the prapanna  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि अद्वारकप्रपत्ति, प्रपन्ननुक्कुक्कोलिन सर्वफलत्तैयुं कॊडुक्कुमॆण्ड्राल् इङ्गुळ्ळगालत्तिल् प्रपन्नर्गळुक्कु अन्योन्यं कैङ्कर्यत्तिले वैषम्यं वरक्कूडुमो वॆन्नवरुळिच्चॆय्गिऱार् इवनुक्किङ्गिरुन्दगालत्तिलित्यादिना । तन्गोलुदलिल् वैषम्यत्ताले इति । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवनुक्किङ्गिरुन्द कालत्तिल् कैङ्कर्यत्तिल् वैषम्यम् तन् कोलुदलिल् वैषम्यत्ताले वन्ददु.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदु-तनक्क् अडि प्रारब्ध-सुकृत-विशेषम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तस्य हेतुः प्रारब्धसुकृतविशेषः । 
+</details>
+
+<details><summary>English</summary>
+
+and that difference in the desire  
+is due to the difference in the meritorious deeds of the past  
+which have begun to operate in this life (Prārabdha karma ). 
+</details>
+
+<details><summary>Español</summary>
+
+and that difference in the desire  
+is due to the difference in the meritorious deeds of the past  
+which have begun to operate in this life (Prārabdha karma ). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदुदनक्कडि प्रारब्धसुकृतविशेषम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्तिम-शरीरानन्तरम् पॆरुम् पेट्रिलॊरु वैषम्यमिल्लै.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अन्तिम-शरीरानन्तरं प्राप्ये पुरुषार्थे  
+किम् अपि वैषम्यं नास्ति । 
+</details>
+ 
+<details><summary>English</summary>
+
+There will be no difference at all in the bliss  
+that will be attained after casting off the last body.
+</details>
+
+<details><summary>Español</summary>
+
+There will be no difference at all in the bliss  
+that will be attained after casting off the last body.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अन्तिम-शरीरानन्तरम् पॆरुम् पेट्रिलॊरु वैषम्यमिल्लै.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पारतन्त्र्यमुम् एकरूपम्. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+पारतन्त्र्यमुम् एकरूपम्. 
+</details>
 
 
 
-From the words " that destroyest all sins” and the repetition of "only so long" repeated in every case with great consideration, it is made clear that the fruit which is desired by the man will all become his, in accordance with his desire and at the very time when he desires to have it. It is in consideration of this superior efficacy of prapatti that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-" Those who practise Jñāna Yoga and Bhakti Yoga with a pure mind and those who perform karma which would discipline the soul in renunciation are not worth even one ten-millionth part of the man who has performed prapatti. The difference in the kinds of service done here (in this life) by the prapanna is due to the difference in the desire of the prapanna and that difference in the desire is due to the difference in the meritorious deeds of the past which have begun to operate in this life (Prārabdha karma ). There will be no difference at all in the bliss that will be attained after casting off the last body.
-
-[^45]: The sentence means that the direct' prapanna gets mokṣa  which he desires and the prapanna who performs prapatti for the sake of bhakti gets bhakti which he desires, for prapatti can secure whatever is desired.]
 
 THE BLISS IN MOKṣA  IS THE SAME FOR BOTH.
 
