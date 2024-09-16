@@ -1461,7 +1461,6 @@ and by some-one or other.
 एदेनुमॊरु प्रकारमागवुमाम् आरे नुमॊरुवरनुष्ठिक्कवुमाम् प्रपत्तिक्कल्लदु सर्वेश्वरन् परमपुरुषार्थङ्गॊडुक्क इरङ्गानॆण्ड्रदायिट्रु.  
 </details>
 
-## भागवताभिमानादिना नालम्
 
 <details><summary>English</summary>
 
@@ -1862,7 +1861,7 @@ they will promote the eagerness for service while in this world.
 भगवत्प्राप्तियिले त्वरैयैयुण्डाक्कियुमुपकारकङ्गळाम्.
 </details>
 
-## अङ्ग-प्रधान-प्रपत्ति-फल-भेदः
+## फलोद्गमः भक्तौ
 <details><summary>English</summary>
 
 DIFFERENCE BETWEEN BHAKTI AND PRAPATTI
@@ -2025,6 +2024,8 @@ for attaining the fruit.
 
 ब्रह्मास्त्रबन्धम् पोले स्वफलत्तिलुपायान्तरप्रयोगासहमायिरुन्दुळ्ळ प्रपत्तियैत् 
 </details>
+
+## फलोद्गमः प्रपत्तौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2250,6 +2251,36 @@ than even to the Lord of Paramapada).
 “स्नेहो मे परमो राजन् त्वयि नित्यं प्रतिष्ठितः । भक्तिश्च नियता वीर भावो नान्यत्र गच्छति”(रामायणम् उत्तरकाण्डम् 40-15.)
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्र् उञ् चॊल्लुगिऱ पडिगळिल् ए  
+
+> इच्-चरीरत्त्-ओड् एय् इरुन्दु  
+कैङ्कर्याद्य्-अनुभवम् पण्ण-वेणुम् +++(5)+++
+
+ऎन्गिऱ अभिसन्धिक्कुक् कारणम् आन  
++++(5)+++ अर्चावतारादि-सङ्गम् अडिय् आग वन्द स्वानुमतियाल् ए  
+स्थापितम् आन शरीरत्तिन् अवसानत्तैय् ऎल्लैय् आग उडैत्त् आय्  
+देश-काल--स्व-रूप--परिच्छेदवत्त् आय्क्-कॊण्डु  
+
+इङ्ग्-उण्ड् आम् कैङ्कर्य-फलोद्गमत्तै मुदल् आग उडैत्त् आन  
+परिपूर्ण-कैङ्कर्य-पर्यन्त-मोक्षम् फलम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति चोक्त-रीत्या  
+
+> अनेन शरीरेण सह स्थित्वा कैङ्कर्यानुभवः कर्तव्य 
+
+इत्य्-अभिसन्धेर् हेतु-भूतादर्चावतारादि-सङ्गाद् उपनतया स्वानुमत्या+++(5)+++  
+स्थापितस्य शरीरस्यावसानेनैवावधिमान् देश-काल--स्व-रूप--परिच्छेदवता  
+ऐहिकेन कैङ्कर्य-फलोद्गमेन प्रथमेन सहितः पतिपूर्ण-कैङ्कर्य-पर्यन्त-मोक्षः फलम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+(The state of the prapanna who is prepared to continue in this world till the dissolution of the body is referred to in passages like the above (~~following~~).)
 
 there is nothing in the way of his attaining mokṣa  
 but his own desire to live till the death of this body  
@@ -2257,10 +2288,471 @@ so that he may enjoy such things as the rendering of service with this body
 to the images of the Lord (arcā) to which he has an attachment.
 
 
-So his mokṣa  has to await only the death of this body and will consist in the rendering, in Vaikuṇṭha  , of perfect and full service which has begun even here in the performance of service limited by the conditions of place, time and the nature of bodily life (svarūpa ). The state of the prapanna who is prepared to continue in this world till the dissolution of the body is referred to in passages like the above (~~following~~). 
+So his mokṣa  has to await only the death of this body  
+and will consist in the rendering, in Vaikuṇṭha, of perfect and full service  
+which has begun even here in the performance of service  
+limited by the conditions of place, time and the nature of bodily life (svarūpa ).  
+
+</details>
+
+<details><summary>Español</summary>
+
+(The state of the prapanna who is prepared to continue in this world till the dissolution of the body is referred to in passages like the above (~~following~~).)
+
+there is nothing in the way of his attaining mokṣa  
+but his own desire to live till the death of this body  
+so that he may enjoy such things as the rendering of service with this body  
+to the images of the Lord (arcā) to which he has an attachment.
 
 
-Since the Supreme Ruler is the giver of all things, and since prapatti at His feet is capable of yielding all kinds of fruit, it becomes the means of securing whatever fruit is desired respectively by these two (bhakta and prapanna [^45] ). The Śāstras say, "Ask any boon that you want, when I am in the range of one's vision, all (good) things will follow." "O Thou that hast created all the worlds! Is there anything that is difficult to obtain, when Thou art pleased ? "   " When He is graciously disposed, is there anything here that cannot be obtained ? "   " What is there in this world or in the world above, O Dalbhya, that cannot be accomplished by those men whose minds are directed towards Viṣṇu  ?" "The fruit is from Him. It stands to reason ". (Brahma Sūtras 3 - 2 - 37). Bhakti or upāsana is the means of securing the four kinds of objects that may be desired in accordance with one's aim as stated in the Bhagavad Gitā (7 - 16). "Four types of men who have performed meritorious deeds worship me. He who has lost his wealth and is anxious to recover it, he who wants to have a vision of his own self (ātmā) and to enjoy it (ātmānubhava ), he who wants to acquire wealth anew, and he who is a Jnāni, who desires to be for ever with the Lord and practises bhakti for attaining Him." Similarly have not the great rishis declared that prapatti is also the means of attaining the four kinds of objects or aims as is stated in the śloka  : "Only so long as one does not perform prapatti to Thee that canst destroy all sins, will there be the anxiety to recover lost wealth, only so long will there be the desire to acquire new wealth, only so long will there be the absence of the enjoyment of one's self as something different from the body; only so long will there be the sorrow of saṁsāra". From the words " that destroyest all sins” and the repetition of "only so long" repeated in every case with great consideration, it is made clear that the fruit which is desired by the man will all become his, in accordance with his desire and at the very time when he desires to have it. It is in consideration of this superior efficacy of prapatti that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-" Those who practise Jñāna Yoga and Bhakti Yoga with a pure mind and those who perform karma which would discipline the soul in renunciation are not worth even one ten-millionth part of the man who has performed prapatti. The difference in the kinds of service done here (in this life) by the prapanna is due to the difference in the desire of the prapanna and that difference in the desire is due to the difference in the meritorious deeds of the past which have begun to operate in this life (Prārabdha karma ). There will be no difference at all in the bliss that will be attained after casting off the last body.
+So his mokṣa  has to await only the death of this body  
+and will consist in the rendering, in Vaikuṇṭha, of perfect and full service  
+which has begun even here in the performance of service  
+limited by the conditions of place, time and the nature of bodily life (svarūpa ).  
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+सॊल्लुगिऱ पडिये - पूर्वोक्तपासुरश्लोकङ्गळिल् सॊल्लुगिऱबडिये. इच्चरीरत्तोडे - शरीरान्तरपरिग्रहमण्ड्रिक्के आर्तियोडु पण्णिन उपायानुष्ठानत्तिऱ्‌कु अनुगुणमायिरुन्द इन्द शरीरत्तोडे. इरुन्दु - चिरकालमिरुन्दु. कैङ्कर्याद्यनुभवम् - पादारविन्दसंवहनम् पण्णि अदिनुडैयवुम् आदिपदग्राह्यतिरुमेनियिनुडैयवुमनुभवत्तैयुम्. पण्णवेणुमॆन्गिऱ अभिसन्धिक्कु - पण्णवेण्डुमॆन्गिऱ महाभिलाषैक्कु. कारणमान अर्चावतारादिसङ्गमिति । आदिपदत्ताल् रामादिविभवावतारसङ्ग्रहः । सङ्गमडियाग - अनवरतानुभवरूपसम्बन्धमडियाग. **वन्द** प्राप्तमान. पामरर्गळुक्कुप् पोले प्रयोजनान्तरानुभवत्तिनासैयिनालण्ड्रिक्के भगवदनुभवरूपसम्बन्धत्ताल् प्राप्तमान वॆण्ड्र पडि. स्वानुमतियाले - 
+
+> ‘‘करीश वर्तेय सदा त्वद्-अन्तिके  
+> करीश पश्येम परश्शतं समाः’’ 
+
+इत्यादिरूपमान स्वानुमतियाले. स्थापितमान - सिऱिदुगालमिवनुडैय इसैवुक्कीडाग भगवानालेस्थापिक्कप्पट्टदान. शरीरत्तिनवसानत्तै - ‘‘एतद्देहावसाने मां’’ ऎन्गिऱबडि प्रपत्ति-क्षणत्तिल् स्वाभ्युपगतमान शरीरत्तिनवसानत्तै. ऎल्लैयागवुडैत्ताय् - चरमा-वधियाग उडैत्ताय्. देशकालस्वरूपपरिच्छेदवत्तायिति । यत्किञ्चिद्देशविशेषनियतमायिरुप्पदाल् देशपरिच्छेदवत्; निद्राद्यन्तरितत्वेन कालपरिच्छेदवत्; अल्पशक्तित्वत्तालुम्, शास्त्रतो व्यवस्थितमागैयालुं सर्वविधकैङ्कर्यालाभत्तालुं स्वरूपपरिच्छेदवत् ।+++(5)+++  
+इङ्गुण्डाम् - इन्द लीलाविभूतियिलेये उण्डाम्. कैङ्कर्यफलोद्गमत्तै - कैङ्कर्यमागिऱ फलत्तिनुडैय आरम्बत्तै. मुदलागवुडैत्तान - आद्यमागवुडैय परिपूर्णकैङ्कर्यपर्यन्त – परिपूर्णकैङ्कर्यत्तै उत्तरावधियागवुडैत्तान, परिपूर्णकैङ्कर्यत्तै परिवाहमागवुडैत्तान वॆण्ड्रबडि. मोक्षम् फलमिति । मोक्षम् - प्रकृतिसम्बन्धनिवृत्ति, भावान्तराभाववादिकळान नमक्कु अदु परिपूर्णब्रह्मानुभवरूपम्. इदनाल् सद्वारकप्रपत्तिनिष्ठनुक्कुच् चॊन्न प्रारब्धकर्मावसानभावियान मोक्षत्तैक्काट्टिलुम् अद्वारकप्रपत्तिनिष्ठनुक्कु प्रपत्त्युत्तरक्षणन्दॊडङ्गि तानिसैन्द इन्द शरीरावसानपर्यन्तमागवरुं कैङ्कर्यपूर्वकमान मोक्षत्तिऱ्‌कु भेदं सॊल्लप्पट्टदु.  
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रुञ्चॊल्लुगिऱबडिगळिले इच्चरीरत्तोडेयिरुन्दु कैङ्कर्याद्यनुभवम् पण्णवेणुमॆन्गिऱ अभिसन्धिक्कुक् कारणमान अर्चावतारादिसङ्गमडियाग वन्द स्वानुमतियाले स्थापितमान शरीरत्तिनवसानत्तैयॆल्लैयाग उडैत्ताय् देशकालस्वरूपपरिच्छेदवत्ताय्क्कॊण्डु इङ्गुण्डाम् कैङ्कर्यफलोद्गमत्तै मुदलाग उडैत्तान परिपूर्णकैङ्कर्यपर्यन्तमोक्षम् फलम्.
+</details>
+
+
+## फलं यथाभिमतम् 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “वरं **वरय** तस्मात् त्वं  
+> यथाभिमतम् आत्मनः ।  
+> सर्वं **संपत्स्यते** पुंसां  
+> मयि दृष्टिपथं गते”(विष्णुपुराणम् 1-12-76.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “वरं **वरय** तस्मात् त्वं  
+> यथाभिमतम् आत्मनः ।  
+> सर्वं **संपत्स्यते** पुंसां  
+> मयि दृष्टिपथं गते”(विष्णुपुराणम् 1-12-76.)
+</details>
+
+
+<details><summary>English</summary>
+
+The Śāstras say, 
+
+> "Ask any boon that you want,  
+> when I am in the range of one's vision,  
+> all (good) things will follow." 
+
+</details>
+
+<details><summary>Español</summary>
+
+The Śāstras say, 
+
+> "Ask any boon that you want,  
+> when I am in the range of one's vision,  
+> all (good) things will follow." 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि मोक्षार्थमाग विहितमान प्रपत्तियानदु अधिकारिभेदत्ताले सद्वारकमायुम्, अद्वारकमायुम्, अवान्तरफलपूर्वकमाग मोक्षसाधनमानालुं विळम्बित्तुं विळम्बमिल्लामलुम् फलदानम् पण्णुमोवॆन्निल्? भगवत्प्रपत्ति सर्वफलसाधनमागैयाले विळम्बाविळम्बङ्गळुम् फलङ्गळागैयाले अवैगळैयुं सेर्त्तु परमफलत्तै आसैप् पट्टाल् अदै अप्पडिये तरुमॆन्गिऱार् वरं वरयेत्यादिना ।  
+
+इदु विष्णुपुराणत्तिल् ध्रुवनैक्कुऱित्तु भगवद्वाक्यम्. तस्मात् - ऎन्नुडैय दर्शनं विफलमागादागैयाल्, त्वं - ऎन्नै साक्षात्करित्त नी, आत्मनः यथाभिमतं वरं - उनक्किष्टमान वरत्तै, वरय - वेण्डिक्कॊळ्. मयि दृष्टिपथं गते - नान् कण्णुक्कु इलक्कानाल्, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“वरंवरय तस्मात्त्वं यथाभिमतमात्मनः । सर्वं संपत्स्यते पुंसां मयिदृष्टिपथं गते”(विष्णुपुराणम् 1-12-76.)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “किं वा सर्व-जगत्-स्रष्टः  
+> प्रसन्ने त्वयि दुर्लभम्”  
+> (विष्णुपुराणम् 1-1-79.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “किं वा सर्व-जगत्-स्रष्टः  
+> प्रसन्ने त्वयि दुर्लभम्”  
+> (विष्णुपुराणम् 1-1-79.)
+</details>
+
+<details><summary>English</summary>
+
+> "O Thou that hast created all the worlds!  
+> Is there anything that is difficult to obtain,  
+> when Thou art pleased ? "
+</details>
+
+<details><summary>Español</summary>
+
+> "O Thou that hast created all the worlds!  
+> Is there anything that is difficult to obtain,  
+> when Thou art pleased ? "
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पुंसां - ऎन्नै साक्षात्करिक्कुमवर्गळुक्कु, सर्वं सम्पत्स्यते – सर्वफलमुमुण्डागुमिऱे; सर्वजगत्स्रष्टः – सर्वजगत्तैयुम् उण्डुबण्णिन भगवाने. त्वयि प्रसन्ने – नी प्रसादयुक्तनाग वानाल्, किं वा दुर्लभं – ऎदु तान् किडैक्कमाट्टादु. इदु विष्णुपराणत्तिल् भगवानैक् कुऱित्तु ध्रुववाक्यम्. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“किं वा सर्वजगत्स्रष्टः प्रसन्ने त्वयि दुर्लभम्”(विष्णुपुराणम् 1-1-79.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“तस्मिन् प्रसन्ने किम् इहास्त्य् अलभ्यम्”  
+(विष्णुपुराणम् 1-17-91.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“तस्मिन् प्रसन्ने किम् इहास्त्य् अलभ्यम्”  
+(विष्णुपुराणम् 1-17-91.)  
+</details>
+
+<details><summary>English</summary>
+
+> " When He is graciously disposed,  
+> is there anything here that cannot be obtained ? "
+</details>
+
+<details><summary>Español</summary>
+
+> " When He is graciously disposed,  
+> is there anything here that cannot be obtained ? "
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तस्मिन् प्रसन्न इति । इदु विष्णुपुराणत्तिल् प्रथमांशत्तिल् 77-वदु अध्यायत्तिल् दैत्यबालर्गळैक् कुऱित्तु प्रह्लादवचनम्. भगवत्प्रसादमुण्डानाल् किडैक्काददॊण्ड्रुमिल्लैयॆण्ड्रबडि. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+“तस्मिन् प्रसन्ने किम् इहास्त्य् अलभ्यम्”  (विष्णुपुराणम् 1-17-91.)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “किं लोके तदिह परत्र चास्ति पुंसां  
+> यद् विष्णु-प्रवण-धियां न दाल्भ्य साध्यम्”  
+> (वि-त 43-46.)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “किं लोके तदिह परत्र चास्ति पुंसां  
+> यद् विष्णु-प्रवण-धियां न दाल्भ्य साध्यम्”  
+> (वि-त 43-46.)  
+</details>
+
+<details><summary>English</summary>
+
+> " What is there in this world or in the world above, O Dalbhya,  
+> that cannot be accomplished by those men  
+> whose minds are directed towards Viṣṇu  ?" 
+</details>
+
+<details><summary>Español</summary>
+
+> " What is there in this world or in the world above, O Dalbhya,  
+> that cannot be accomplished by those men  
+> whose minds are directed towards Viṣṇu  ?" 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+किं लोक इति । इदु शौनकोक्तमान विष्णुधर्मत्तिल् 43 -वदु अध्यायत्तिल् 46-वदु श्लोकम्. हे दाल्भ्य! विष्णुप्रवणधियां – विष्णुभक्तानां, यन्न साध्यं तदिह लोके परत्र च – परलोकत्तिलुम् **अस्ति किम्**? – विष्णुभक्तर्गळुक्कु साधिक्कक्कूडाद फलम् इन्द लोकत्तिलुम् परलोकत्तिलुमिल्लै यॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“किं लोके तदिह परत्र चास्ति पुंसां यद्विष्णुप्रवणधियां न दाल्भ्य साध्यम्”(वि-त 43-46.)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“फलम् अत +++(ब्रह्मणः, युक्त्यादिभिर्)+++ उपपत्तेः” (ब्र-सू 3-2-37.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“फलम् अत +++(ब्रह्मणः, युक्त्यादिभिर्)+++ उपपत्तेः” (ब्र-सू 3-2-37.)
+</details>
+
+<details><summary>English</summary>
+
+"The fruit is from Him.  
+It stands to reason ". (Brahma Sūtras 3 - 2 - 37). 
+</details>
+
+<details><summary>Español</summary>
+
+"The fruit is from Him.  
+It stands to reason ". (Brahma Sūtras 3 - 2 - 37). 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+फलमत उपपत्तेरिति । अतः – परस्मात्पुंसः, फलं भवति – ऐहिकामुष्मिकमपवर्गरूपं च फलं भवति, उपपत्तेः – स एव हि सर्वज्ञत्वात्सर्व शक्तित्वान्महोदारत्वात् यागदानहोमादिभिरुपासनेनचाराधित ऐहिकामुष्मिकभोगजातं स्वस्वरूपावाप्तिरूपमपवर्गं च दातुमीष्टे । इदनाल् सर्वज्ञत्वादिगुणमिरुप्पदाल् सर्वफलत्तैयुमवने कॊडुक्क समर्थनॆन्गिऱ उपपत्तिसॊल्लप्पट्टदु.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+“फलमत उपपत्तेः” (ब्र-सू 3-2-37.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रुञ् चॊल्लुगिऱप् पडिय् ए  
+सर्वेश्वरन् स-कल-फल-प्रदनागैयाल् ए,  
+अवन्-तिरुव्-अडिगळिल् प्रपत्ति  
+स-कल-फल-साधनम् आगैयाल्,  
+इव्व्-अधिकारिगळ् इरुवरुक्क् उम्  
+इदु यथाभिमत-फल-हेतुव् आयिट्रु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्तरीत्या सर्वेश्वरस्य स-कल-फल-प्रदत्वात्  
+तच्-चरणयोः प्रपत्तेः  
+स-कल-फल-साधनत्वाद्  
+एषाम् अधिकारिणाम् उभयेषाम्  
+इयं स-कल-फल-हेतुर् भवति । 
+
+</details>
+
+<details><summary>English</summary>
+
+Since the Supreme Ruler is the giver of all things,  
+and since prapatti at His feet  
+is capable of yielding all kinds of fruit,  
+it becomes the means of securing  
+whatever fruit is desired respectively  
+by these two (bhakta and prapanna [^45] ). 
+
+</details>
+
+<details><summary>Español</summary>
+
+Since the Supreme Ruler is the giver of all things,  
+and since prapatti at His feet  
+is capable of yielding all kinds of fruit,  
+it becomes the means of securing  
+whatever fruit is desired respectively  
+by these two (bhakta and prapanna [^45] ).
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ऎण्ड्रुं सॊल्लुगिऱबडिये - पूर्वोक्तवचनङ्गळ् सॊल्लुगिऱबडिये.  
+सर्वेश्वरन् सकलफलप्रदनागैयाले अवन् तिरुवडिगळिल् प्रपत्ति इति ।  
+इतरभगवद्धर्मङ्गळ्बोलण्ड्रिक्के अवन् तिरुवडिगळिले प्रपत्तियागैयाले अवनुक्कु इरक्कत्तै युण्डाक्कि सकलफलत्तैयुं तरप्पण्णुमॆण्ड्रु सूचि प्पिक्कैक्काग अवन् तिरुवडिगळिलॆण्ड्रदु.  
+प्रपत्ति – तनक्कभिमतफलसाधनमान उपायान्तरस्थानत्तिले स्वाभीष्टसाधनसमर्थपुरुषनै निऱुत्तुगिऱ व्यापारम्. सकलफलसाधनमागैयाल् - ऎन्दॆन्द फलसाधनस्थानत्तिल् ऎवन् भगवानै निऱुत्तुगिऱानो अवनुक्कु अन्दन्द सकलफलत्तैयुं साधिक्कुमागैयाल्. इव्वधिकारिकळिरुवरुक्कुम् - सद्वारकाद्वारकप्रपत्तिनिष्ठर्गळान यिरुवर्गळुक्कुम्, इदु - इन्द प्रपत्तिये, यथाभिमतफलहेतुवायिट्रु - तत्तदधिकारिकळुक्कभिमतमान प्रारब्धकर्मावसानभावियान उपासननिष्पत्तिपूर्वकमान विळबितमोक्षत्तिऱ्‌कुम्, अभ्युपगतप्रारब्धांशानुभाव्यभगवत्कैङ्कर्यपूर्वकमान देहावसानभावियान अविळम्बितमोक्षत्तिऱ्‌कुं कारणमायिट्रु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रुञ् चॊल्लुगिऱप्पडिये सर्वेश्वरन् सकलफलप्रदनागैयाले अवन् तिरुवडिगळिल् प्रपत्ति सकलफलसाधनमागैयाल् इव्वधिकारिगळिरुवरुक्कुमिदु यथाभिमतफलहेतुवायिट्रु. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“चतुर्विधा भजन्ते माम्”(गीता 7-16.) 
+
+ऎन्गिऱप्-पडिय् ए  
+उपासनम् याद्-ऒरु-बडि चतुर्-विध-फलत्तुक्क् उम् साधनम् आय् इरुक्कुगिऱदु; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“24 चतुर्विधा भजन्ते माम्" इत्य्-उक्ततयोपासनं यथा चतुर्-विध-फल-साधनं भवति,
+</details>
+
+<details><summary>English</summary>
+
+Bhakti or upāsana is the means of securing the four kinds of objects  
+that may be desired in accordance with one's aim  
+as stated in the Bhagavad Gitā (7 - 16). 
+
+> "Four types of men who have performed meritorious deeds worship me.  
+> He who has lost his wealth and is anxious to recover it,  
+> he who wants to have a vision of his own self (ātmā) and to enjoy it (ātmānubhava ),  
+> he who wants to acquire wealth anew,  
+> and he who is a Jnāni,  
+> who desires to be for ever with the Lord  
+> and practises bhakti for attaining Him." 
+
+</details>
+
+<details><summary>Español</summary>
+
+Bhakti or upāsana is the means of securing the four kinds of objects  
+that may be desired in accordance with one's aim  
+as stated in the Bhagavad Gitā (7 - 16). 
+
+> "Four types of men who have performed meritorious deeds worship me.  
+> He who has lost his wealth and is anxious to recover it,  
+> he who wants to have a vision of his own self (ātmā) and to enjoy it (ātmānubhava ),  
+> he who wants to acquire wealth anew,  
+> and he who is a Jnāni,  
+> who desires to be for ever with the Lord  
+> and practises bhakti for attaining Him." 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि प्रपत्ति सकलफलसाधनमागै याले तत्तत्फलकामनावानुक्कु यथाभिमतफलसाधनमॆण्ड्रु सॊल्लक्कूडुमो?  
+प्रपत्ति सकलफलसाधनमॆन्बदिल् अनन्यथासिद्धवचनमुण्डोवॆन्न? दृष्टान्तप्रदर्शनपूर्वकम् प्रमाण मरुळिच्चॆय्गिऱार् चतुर्विधा भजन्ते माम् ऎन्गिऱबडिये इत्यादिना ।  
+
+> ‘‘चतुर्विधा भजन्ते मां  
+> जनास् सुकृतिनोऽर्जुन ।  
+> आर्तो जिज्ञासुर् अर्थार्थी  
+> ज्ञानी च भरतर्षभ ॥’’. 
+
+सुकृतिनः – पुण्यवान्गळे, मां भजन्तेऎन्नै उपासिक्किऱार्गळ्, ते च सुकृततारतम्याच्चतुर्विधाः । आर्तः – भ्रष्टैश्वर्यः पुनस्तत्कामनावान् । अर्थार्थी – नूतनैश्वर्यकामनावान्, जिज्ञासुः – प्रकृति-वियुक्तात्मस्वरूपानुभवकामनावान्, ज्ञानी – भगवत्प्राप्ति-कामनावान्, ऎन्गिऱबडिये – श्लोकोक्तप्रकारत्ताले, उपासनम् - सर्वफलसाधनमान उपासनम्, यादॊरुबडि- यादॊरु प्रकारत्ताले, तत्तदधिकारियिन् कामनै यॆप्पडियो अप्पडि यॆण्ड्रबडि.  
+चतुर्विधफलत्तुक्कुं नष्टैश्वर्यनूतनैश्वर्यात्मस्वरूपानुभवभगवत्प्राप्तिरूप-चतुर्विधफलत्तिऱ्‌कुम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“चतुर्विधा भजन्ते माम्”(गीता 7-16.) ऎन्गिऱप्पडिये उपासनम् यादॊरुबडि चतुर्विधफलत्तुक्कुम् साधनमायिरुक्कुगिऱदु; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्पडिये  
+
+> “तावद् आर्तिस् तथा वाञ्छा  
+> तावन् मोहस् तथाऽसुखम् ।  
+> यावन् न याति शरणं  
+> त्वाम् अ-शेषाघ-नाशनम्”  
+> (विष्णुपुराणम् 1-9-73.) 
+
+ऎन्गिऱप्-पडिय् ए  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथा
+
+> “तावद् आर्तिस् तथा वाञ्छा  
+> तावन् मोहस् तथाऽसुखम् ।  
+> यावन् न याति शरणं  
+> त्वाम् अ-शेषाघ-नाशनम्”  
+> (विष्णुपुराणम् 1-9-73.) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+as is stated in the śloka  : 
+
+> "Only so long as one does not perform prapatti to Thee  
+> that canst destroy all sins,  
+> will there be the anxiety to recover lost wealth,  
+> only so long will there be the desire to acquire new wealth,  
+> only so long will there be the absence of the enjoyment of one's self  
+> as something different from the body;  
+> only so long will there be the sorrow of saṁsāra". 
+</details>
+
+<details><summary>Español</summary>
+
+as is stated in the śloka  : 
+
+> "Only so long as one does not perform prapatti to Thee  
+> that canst destroy all sins,  
+> will there be the anxiety to recover lost wealth,  
+> only so long will there be the desire to acquire new wealth,  
+> only so long will there be the absence of the enjoyment of one's self  
+> as something different from the body;  
+> only so long will there be the sorrow of saṁsāra". 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अप्पडिये इति । इदऱ्‌कु प्रपत्तियुमॆन्बदोडन्वयम्. तावदार्तिरिति । तावदेव – अव्वळवु कालपर्यन्तमे, आर्तिः – भ्रष्टैश्वर्यनुक्कु पुनस्तत्प्राप्तीच्छैयाले युण्डान कष्टम्. तथा - तावदेवेत्यर्थः । अव्ययानामनेकार्थत्वात् । वाञ्छा – अपूर्वैश्वर्यवाञ्छा, तावन्मोहः – आत्मस्वरूपानुभवेच्छुक्कु अव्वळवु पर्यन्तमे देहात्मभ्रमम्; उन्नै शरणमडैन्दाल् देहाद्विविक्तमान आत्मस्वरूपानुभवमे यॆण्ड्रु करुत्तु. असुखं – दुःखरूपमान संसारमुम्, तथा – तावदेव, उन्नै शरणमडैन्दाल् आनन्दात्मकमान ब्रह्मानुभवमे यॆण्ड्रु करुत्तु. अशेषाघनाशनं त्वां यावत् शरणं न याति तावदार्तिरित्यन्वयः । उन्नै शरणमडैन्दाल् कोलिन कालत्तिलेये फलसिद्धियॆण्ड्रु करुत्तु. ऎन्गिऱबडिये - ऎण्ड्रु इन्द वचनं सॊल्लुगिऱबडिये, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये  
+“तावदार्तिस्तथा वाञ्छा तावन्मोहस्तथाऽसुखम् । यावन्न याति शरणं त्वामशेषाघनाशनम्”(विष्णुपुराणम् 1-9-73.) ऎन्गिऱप्पडिये  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रपत्तिय् उम् इच्-चतुर्-विध-फलत्तुक्क् उम् साधनम् आगव् इऱे  
+मह-र्षिगळ् अऱुदिय्+++(=निश्चित्य)+++ इडुवदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रपत्तिर् अप्य् अस्य चतुर्-विध-फलस्य साधनम्  
+इति किल महर्षयः सिद्धान्तयन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+Similarly have not the great rishis declared  
+that prapatti is also the means of attaining the four kinds of objects or aims.
+</details>
+
+<details><summary>Español</summary>
+
+Similarly have not the great rishis declared  
+that prapatti is also the means of attaining the four kinds of objects or aims.
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+प्रपत्तियुम् - अद्वारकप्रपत्तियुम्, इच् चतुर्विधफलत्तुक्कुम् - इन्द ऐश्वर्यादि नान्गु फलङ्गळुक्कुम्, महर्षिकळ् - (विष्णुपुराणादिकळिल्) पराशरादिकळ्, अऱुदियिडुवदु - निश्चयित्तदु. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रपत्तियुम् इच्चतुर्विधफलत्तुक्कुम् साधनमागविऱे महर्षिगळ् अऱुदियिडुवदु.
+</details>
+
+
+
+
+From the words " that destroyest all sins” and the repetition of "only so long" repeated in every case with great consideration, it is made clear that the fruit which is desired by the man will all become his, in accordance with his desire and at the very time when he desires to have it. It is in consideration of this superior efficacy of prapatti that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-" Those who practise Jñāna Yoga and Bhakti Yoga with a pure mind and those who perform karma which would discipline the soul in renunciation are not worth even one ten-millionth part of the man who has performed prapatti. The difference in the kinds of service done here (in this life) by the prapanna is due to the difference in the desire of the prapanna and that difference in the desire is due to the difference in the meritorious deeds of the past which have begun to operate in this life (Prārabdha karma ). There will be no difference at all in the bliss that will be attained after casting off the last body.
 
 [^45]: The sentence means that the direct' prapanna gets mokṣa  which he desires and the prapanna who performs prapatti for the sake of bhakti gets bhakti which he desires, for prapatti can secure whatever is desired.]
 
