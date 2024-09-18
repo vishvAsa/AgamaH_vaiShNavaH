@@ -69,7 +69,7 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
 विरोधाद् एव ।  
 
 
-सूक्ष्मा-टीकायाम् - 
+सूक्ष्मा-टीकायाम् विशिष्य श्रद्धा-शब्देन भगवद्-आज्ञाऽऽदरो व्यपदिश्यते - 
 
 > सूक्ष्मा - टीका - अनभिभवम् इति । सर्वमिति ।  
 > एष ब्रह्मनिष्ठपुरुषः **सर्वं पाप्मानं** स्वधर्मा+++(न)+++नुष्ठान-जनितं प्रत्यवायं तरति ब्रह्म-निष्ठा-प्रभावेणोल्लङ्घयति ।  
@@ -170,21 +170,50 @@ There is no "vaDakalai" type faction among gauDIya-s.
 
 
 ## प्रत्युक्तिः
-### शृति-स्मृत्योर् वैष्णवत्वम्
-Other flaws aside, jIva should've applied his own logic properly:
+### धर्म-परित्याग-वचनानि
+The karma-dharma-tyAga conception of bhakti itself is incorrect. What would you say about the bhakti of a servant who refuses to obey your express commands and praises you instead?
 
-> अथ यदि वैष्णव-शास्त्रोक्तौ तौ,  
-तर्हि विष्णु-सन्तोषैक-प्रयोजनाव् एव भवतः ।  
-तयोश् च तादृशत्वे श्रुते सति  
-तदीय-राग-रुचिमतः  
-स्वत एव प्रवृत्त्य्-अप्रवृत्ती स्याताम् -   
-तत्-सन्तोषैक-जीवनत्वात् प्रीति-जातेः ।
+Even in gIta bhagavAn says "sarva-dharmAn parityajya" without asking arjuna to abondon the fight (<- tAmasika-tyAga)
 
-Why didn't it occur to him that  
-shruti and smRti are vaiShNava-shAstra-s only!?  
-bhagavAn and service to him is the essence of all shruti and smRti. 
-Hence, nityakarmas (unlike kAmyas) therein are instructions to "paramaikAntins" only (ममैवाज्ञा), even if via indra, agni, rudra & co. Obv excludes tAmasika-shAstras.  
-If bhakti were perfected, the bhakta would certainly perform svadharma to the best of his abilities.
+> > "तावत् कर्माणि **कुर्वीत**  
+> **न निर्विद्येत** यावता ।  
+> मत्-कथा-श्रवणादौ वा  
+> श्रद्धा यावन् **न जायते**"
+
+karma/ dharma should be taken to refer to various non nitya karmas.  
+Particularly, rAmAnuja takes such verses to refer to "karma-yoga" - which is understood to be daily scheduled performance of specific services to the Lord - separate from nitya-naimittika-karma-s  
+(where there is no question of abandonment by any dhArmika).
+
+#### लोक-सङ्ग्रह-विषयः
+Indeed, even this karma yoga (not nitya-naimittika) is urged on to jNAna-yogins for loka-sangraha/ guidance of karma-yogins in -
+
+> **सक्ताः** कर्मण्य् अ-विद्वांसो  
+**यथा कुर्वन्ति** भारत।  
+**कुर्याद्** +++(ज्ञान-योग-निष्ठो)+++ विद्वांस् तथा **ऽसक्तश्**  
+चिकीर्षुर् **लोक-संग्रहम्**॥3.25॥
+
+If in a forest (no lokasangraha),  
+should one do nitya-karma? Yes.
+
+
+#### न स्व-धर्मत्यागः प्रशस्तः
+> **त्यक्त्वा** स्व-धर्मं चरणाम्बुजं हरेर्  
+भजन्न् अपक्‍वोऽथ **पतेत्** ततो यदि ।
+यत्र क्‍व वा **ऽभद्रम् अभूद्** अमुष्य किं
+को वार्थ आप्तो **ऽभजतां** स्वधर्मतः ॥
+
+does not impel svadharma-tyAga. The hierarchy is -
+
+भजन् स्वधर्मकर्ता > भजन् स्वधर्मत्यक्ता (>?) अभजन् स्वधर्मकर्ता  > अभजन् स्वधर्मत्यक्ता
+
+It only expresses the भजन् स्वधर्मत्यक्ता , अभजन् स्वधर्मकर्ता ambiguity. It doesn't say: भजन् स्वधर्मकर्ता = भजन् स्वधर्मत्यक्ता .
+
+People mistake relative statement for absolute; and consolation for approval. For, if he is "sinless", whence the "fall"?
+
+
+#### Reconciliation technique
+sAmAnya-visheSha-vyavasthA is indeed a good way to resolve the verse conflict -  
+however, it is superior to make the differentiation in action (as SV-s have done), rather than the performer (as gauDIya-s have done).
 
 ### भक्तेष्व् अपि प्रत्यवाय-सद्भावः
 vedAntadeshika would say - disobeying AjNA is contrary to sharaNAgati, and will have consequences - albeit smaller.  
@@ -211,66 +240,26 @@ That case would be subsumed under "yathA-shakti"ness of nitya-karmas,
 and does not contradict the compulsory nature of nitya-karmas.
 
 ### श्रद्धया कार्यत्वम्
-नारद-पञ्चरात्रे नारायण-वाक्यं श्राद्ध-कथनारम्भे-
-
-> **नाचरेद्** यस्तु सिद्धोऽपि  
-> लौकिकं धर्मम् अग्रतः।  
-> **उपप्लवाच्** च धर्मस्य  
-> **ग्लानिर् भवति** नारदः ॥  
-> 
-> विवेकज्ञैर् अतः सर्वैर्  
-> लोकाचारो यथास्थितः।  
-> आ देह-पाताद् यत्नेन  
-> **रक्षणीयः** प्रयत्नतः॥ 
-
-इति।
-
-श्रद्धया हि कार्यं श्राद्धम् इति नारदपाञ्चरात्राभिप्रायः।  
 न च कृष्णो "अश्रद्धया युद्ध्यस्वार्जुन" +इति ब्रूते।  
-अयं तु विश्वनाथार्योऽन्यथा जगाद।
+गौडीय-सूक्ष्मा-टीकायाम् अपि श्रद्धा-शब्देन भगवद्-आज्ञाऽऽदरो व्यपदिश्यते।  
+अतो येन केनापि श्रद्धार्थ-ग्रहणेन  
+लोकसङ्ग्रहार्थम् अपि क्रियमाणं कर्म सश्रद्धम् एव सन्तिष्ठते।  
 
-If in a forest (no lokasangraha),  
-should one do nitya-karma? Yes.
+### शृति-स्मृत्योर् वैष्णवत्वम्
+Other flaws aside, jIva should've applied his own logic properly:
 
+> अथ यदि वैष्णव-शास्त्रोक्तौ तौ,  
+तर्हि विष्णु-सन्तोषैक-प्रयोजनाव् एव भवतः ।  
+तयोश् च तादृशत्वे श्रुते सति  
+तदीय-राग-रुचिमतः  
+स्वत एव प्रवृत्त्य्-अप्रवृत्ती स्याताम् -   
+तत्-सन्तोषैक-जीवनत्वात् प्रीति-जातेः ।
 
-### धर्म-परित्याग-वचनानि
-The karma-dharma-tyAga conception of bhakti itself is incorrect. What would you say about the bhakti of a servant who refuses to obey your express commands and praises you instead?
-
-Even in gIta bhagavAn says "sarva-dharmAn parityajya" without asking arjuna to abondon the fight (<- tAmasika-tyAga) 
-
-> > "तावत् कर्माणि **कुर्वीत**  
-> **न निर्विद्येत** यावता ।  
-> मत्-कथा-श्रवणादौ वा  
-> श्रद्धा यावन् **न जायते**"
-
-karma/ dharma should be taken to refer to various non nitya karmas.  
-Particularly, rAmAnuja takes such verses to refer to "karma-yoga" - which is understood to be daily scheduled performance of specific services to the Lord - separate from nitya-naimittika-karma-s  
-(where there is no question of abandonment by any dhArmika).
-
-Indeed, even this karma yoga (not nitya-naimittika) is urged on to jNAna-yogins for loka-sangraha/ guidance of karma-yogins in -
-
-> **सक्ताः** कर्मण्य् अ-विद्वांसो  
-**यथा कुर्वन्ति** भारत।  
-**कुर्याद्** +++(ज्ञान-योग-निष्ठो)+++ विद्वांस् तथा **ऽसक्तश्**  
-चिकीर्षुर् **लोक-संग्रहम्**॥3.25॥
-
-sAmAnya-visheSha-vyavasthA indeed is a good way to resolve the verse conflict - however, it is superior to make the differentiation in action (as SV-s have done), rather than the performer (as gauDIya-s have done). 
-
-
-
-
-> **त्यक्त्वा** स्व-धर्मं चरणाम्बुजं हरेर्  
-भजन्न् अपक्‍वोऽथ **पतेत्** ततो यदि ।
-यत्र क्‍व वा **ऽभद्रम् अभूद्** अमुष्य किं
-को वार्थ आप्तो **ऽभजतां** स्वधर्मतः ॥ 
-
-does not impel svadharma-tyAga. The hierarchy is - 
-
-भजन् स्वधर्मकर्ता > भजन् स्वधर्मत्यक्ता (>?) अभजन् स्वधर्मकर्ता  > अभजन् स्वधर्मत्यक्ता
-
-It only expresses the भजन् स्वधर्मत्यक्ता , अभजन् स्वधर्मकर्ता ambiguity. It doesn't say: भजन् स्वधर्मकर्ता = भजन् स्वधर्मत्यक्ता .  
-
-People mistake relative statement for absolute; and consolation for approval. For, if he is "sinless", whence the "fall"?
+Why didn't it occur to him that  
+shruti and smRti are vaiShNava-shAstra-s only!?  
+bhagavAn and service to him is the essence of all shruti and smRti.
+Hence, nityakarmas (unlike kAmyas) therein are instructions to "paramaikAntins" only (ममैवाज्ञा), even if via indra, agni, rudra & co. Obv excludes tAmasika-shAstras.  
+If bhakti were perfected, the bhakta would certainly perform svadharma to the best of his abilities.
 
 
 ## गौडीय-प्रशंसा
