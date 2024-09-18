@@ -22,11 +22,67 @@ page162
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-उपायः स्व-प्राप्तेर् उपनिषद्-अधीतस् स भगवान्  
-प्रसत्त्यै तस्योक्ते प्रपदन-निदिध्यासन-गती ।  
-तदारोहः पुंसस्सुकृतपरिपाकेन महता  
-निदानं तत्राऽपि स्वयमखिलनिर्माण निपुणः ॥ २२ ॥
+**उपायः** स्व-प्राप्तेर् उपनिषद्-अधीतस् स **भगवान्**,  
+**प्रसत्त्यै**+++(=प्रसादाय)+++ **तस्योक्ते** प्रपदन-निदिध्यासन-गती ।  
+तद्+++(→भक्ति-प्रपत्ती)+++-**आरोहः** पुंसस् सु-कृत-परिपाकेन महता  
+**निदानं** तत्राऽपि स्वयम् अ-खिल-निर्माण-निपुणः ॥ २२ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**उपायः** स्व-प्राप्तेर् उपनिषद्-अधीतस् स **भगवान्**,  
+**प्रसत्त्यै**+++(=प्रसादाय)+++ **तस्योक्ते** प्रपदन-निदिध्यासन-गती ।  
+तद्+++(→भक्ति-प्रपत्ती)+++-**आरोहः** पुंसस् सु-कृत-परिपाकेन महता  
+**निदानं** तत्राऽपि स्वयम् अ-खिल-निर्माण-निपुणः ॥ २२ ॥
+</details>
+
+<details><summary>English</summary>
+
+Bhagavān is declared in the Upaniṣads to be  
+Himself the means (upāya) of attaining Him.  
+The ways of bhakti and prapatti are indicated for winning His grace.  
+The adoption of these [^46] *ways  
+is the result of the great ripening of meritorious deeds (done in the past )  
+and, even for this, Bhagavān, who has the ability to create everything, is Himself the cause.
+
+[^46]: 
+
+    These ways: The commentary Sārāsvādinī says that the Sanskrit  word Gati does not mean here ways or upāyas but forms of knowledge.
+
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān is declared in the Upaniṣads to be  
+Himself the means (upāya) of attaining Him.  
+The ways of bhakti and prapatti are indicated for winning His grace.  
+The adoption of these [^es46] *ways  
+is the result of the great ripening of meritorious deeds (done in the past )  
+and, even for this, Bhagavān, who has the ability to create everything, is Himself the cause.
+
+[^es46]: 
+
+    These ways: The commentary Sārāsvādinī says that the Sanskrit  word Gati does not mean here ways or upāyas but forms of knowledge.
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+॥ श्रीः ॥  
+श्रीसारबोधिनीव्याख्यायाम्  
+उपायविभागाधिकारः ॥  
+इप्पडि सद्वारकप्रपत्ति विळम्बेन मोक्षजनकोपायमॆण्ड्रुम्, अद्वारकप्रपत्ति अविलम्बेन मोक्षजनकोपाय मॆण्ड्रुं सॊल्ललामो? भगवानैयण्ड्रो भगवत्प्राप्तिक्कु हेतुवाग उपनिषत्तुक्कळ् सॊल्लुगिण्ड्रन. अप्पडि केवलभगवाने उपायमानाल् अवन् सर्वत्र सर्वदायिरुप्पदाल् सर्वदा सर्वरुक्कुम् भगवत्प्राप्तियुण्डागप् प्रसङ्गिक्कुमागैयाल् अवन् प्रसादविशिष्टवेषेण उपायनागिऱानॆण्ड्रे कॊळ्ळवेण्डुम्. अप्पोदु अवनुडैय प्रसादहेतुक्कळाय्क् कॊण्डु सद्वारकाद्वारकप्रपत्तियॆन्गिऱ भक्तिप्रपदनङ्गळै व्यवहितोपायङ्गळाग अवश्यमङ्गीकरिक्कवेण्डुमॆन्निल्? इप्पडि इरण्डुमुपायमॆन्बदिल् प्रमाणमुण्डो? उपायस्वरूपन्दानॆदु? ऎण्ड्रु वरुम् आशङ्कैकळै इव्वधिकारत्तिल् परिहरिक्कक्करुदि मुन्बु अधिकारार्थत्तै श्लोकत्ताले सङ्ग्रहिक्किऱार् उपायस्स्वप्राप्तेरित्यादिना ।  
+
+सः – शेषियागैयालुम्, सहजकारुण्यवानागैयालुं सर्वरक्षकनाग प्रसिद्धनान, भगवान् – रक्षणोपयुक्तषाड्गुण्यपरिपूर्णनान भगवान्, स्वप्राप्तेः– तन्नैयडैवदऱ्‌कु, स्वविषयकपरिपूर्णानुभवत्तिऱ्‌कॆण्ड्रबडि. उपायः– उपायमाग, उपनिषदधीतः– खिलश्रुतिकळिलण्ड्रिक्के ‘‘अमृतस्यैष सेतुः’’ ‘‘य आत्मदा बलदा’’ ‘‘यमेवैष वृणुते तेन लभ्यः’’ ‘‘धातुः प्रसादान्महिमानमीशं’’ इत्यादिपठ्यमान उपनिषत्तुक्कळिलेये सॊल्लप्पट्टान्. इदनाल् साध्योपायमिरण्डे पोरादो? सिद्धोपायत्तैयुं कल्पिक्कवेण्डुमोवॆन्गिऱ चोद्यं साध्योपायङ् गळचेतनङ्गळागैयाल् फलप्रदङ्गळागमाट्टादागैयालुम् अवैगळाले प्रसन्ननान भगवान् ज्ञानादिषाड्गुण्यपरिपूर्णनागैयाल् फलप्रदानसामर्थ्यमुळ्ळवनागैयालुम् अवन् एतादृशोपपत्तिमात्रकल्प्यनण्ड्रिक्के मुन्सॊन्न उपनिषत्तुक्कळालेये सिद्धनागैयालुम् परिहृतमॆण्ड्रु ज्ञापिक्कप्पट्टदु. इप्पडि भगवानॊरुवने स्वप्राप्त्युपायमानाल् प्रपदननिदिध्यासनङ्गळॆदऱ्‌कॆन्नवरुळिच्चॆय्गिऱार् प्रसत्त्यै तस्योक्ते प्रपदननिदिध्यासनगती इति । 
+
+**तस्य प्रसत्त्यै** – जीवर्गळुडैय अपराधविशेषत्ताले कलुषितन् आन भगवान्  
+सर्व-मुक्ति-प्रसङ्गं वारामैक्क् आग  
+प्रसन्नन् आय्क् कॊण्ड् ए  
+उपायम् आग वेण्डि वरुवदाल्  
+अन्द भगवान्-उडैय प्रसादत्तिन् बॊरुट्टु, प्रसत्तिप्रयोजकङ्गळाग वॆण्ड्रबडि. प्रपदननिदिध्यासनगती – प्रपदननिदिध्यासनरूपङ्गळान मार्गङ्गळ्, उक्ते – ‘‘ओमित्यात्मानं ध्यायथ’’ ‘‘ओमित्यात्मानं युञ्जीत’’ ‘‘भजस्व मां’’ ‘‘तमेव शरणं गच्छ’’ ‘‘मामेकं शरणं व्रज’’ ‘‘अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि माशुचः’’ इत्यादिश्रुति स्मृतिकळिल् सॊल्लप्पट्टदुगळ्. तथा च सर्वज्ञनाय् अत एव फलप्रदानसमर्थनायिरुक्किऱ भगवानॊरुवने सिद्धोपायमाग इरुन्दालुम् अनाद्याज्ञातिलङ्घनकुपितनान अवन् अन्द कोबं तीर्न्दु प्रसन्ननाय्क्कॊण्डे स्वप्राप्तियैत् तरवेण्डुमागैयालवनुडैय प्रसादसिद्ध्यर्थम् अप्रधानङ्गळायुं व्यवहितङ्गळायुमुळ्ळ उपनिषद्विहितङ्गळान भक्तिप्रपत्तिकळुमवश्यापेक्षितङ्गळॆण्ड्रु तिरुवुळ्ळम्. इप्पडि प्रपदननिदिध्यासनङ्गळ् प्रसादनङ्गळागिल् अदिल् सर्वरुम् प्रवर्तिक्कलागादो वॆन्नवरुळिच् चॆय्गिऱार् तदारोहः पुंसामित्यादिना तदारोहः– भक्तिप्रपत्त्यारोहः, भक्तिप्रपत्तिप्रवृत्तिरिति यावत् । पुंसः– अनादिचित्रप्रवाहमान कर्माविद्यादिचक्रत्तिल् परिवर्तमाननान पुरुषनुक्कु, सुकृतपरिपाकेन महता – मोक्षोपयुक्तमान यादृच्छिकसुकृतादिकळुडैयवतिशयितपरिपाकत्ताले, भवतीति शेषः । भगवावान् सहजसौहार्दमुळ्ळवनाय् सर्वरक्षणदीक्षितनायिरुन्दालुमवन् साधारणकारण मागैयाल् तत्तत्पुरुषनुडैय सुकृतपरिपाकरूपविशेषकारणमण्ड्रिक्के भक्तिप्रपत्तिकळिल् प्रवृत्ति युण्डागादॆण्ड्रु करुत्तु. इप्पडियानाल् सुकृतपरिपाकमे मूलकारणमॆन्नदागादो वॆन्न वरुळिच्चॆय्गिऱार् निदानमित्यादिना । तत्रापि – भक्तिप्रपत्तिकळिलुम्, तत्प्रवृत्तियिलुम्, सुकृतपरिपाकादिरूपमान सर्वत्तिलुम्, अखिलनिर्माणनिपुणः – इदु हेतुगर्भविशेषणम्. स्वयं निदानं– सकलजगत्सृष्टिकारणमागैयाले सिद्धोपायनान ताने, स्वप्राप्तिक्कु हेतुवानाप् पोले तत्प्रतिबन्धकनिवर्तकभक्तिप्रपत्तिप्रवृत्तिक्कुं तन्निर्वत्तिक्कुं तद्धेतुभूतसुकृतपरिपाकत्तुक्कुं स्वयमेव निदानमित्यर्थः । इदनाल् भक्तिप्रपत्तिनिर्वत्त्यादिकळुक्कुक् कारणमान सुकृतपरिपाकादि कळुक्कुम् भगवाने कारणमागैयाले अवने स्वप्राप्तिक्कु अव्यवहितसिद्धोपायमायुम् प्रधानोपायमायुं स्थापिक्कप्पट्टानॆण्ड्रदायिट्रु.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -36,13 +92,48 @@ page162
 निदानं तत्राऽपि स्वयमखिलनिर्माण निपुणः ॥ २२ ॥
 </details>
 
-Bhagavān is declared in the Upaniṣads to be Himself the means (upāya) of attaining Him. The ways of bhakti and prapatti are indicated for winning His grace. The adoption of these [^46] *ways is the result of the great ripening of meritorious deeds (done in the past ) and, even for this, Bhagavān, who has the ability to create everything, is Himself the cause.
 
-[^46]: These ways: The commentary Sārāsvādinī says that the Sanskrit   word Gati does not mean here ways or upāyas but forms of knowledge.
+## उपायोपेयौ
 
-UPĀYA AND UPEYA:
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The means or upāya to be adopted by them (i.e.) the seekers after mukti) is a special kind of expansion of knowledge. The upeya or object of attainment which can be realised by this means is another special kind of expansion of knowledge. Of these, the special kind of expansion of knowledge which is the means requires the help of instruments of knowledge (karaṇa ) and has been prescribed in the Śāstras. It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam ) which define His essential nature or substance ( svarūpa), along with the qualities Associated invariably with the respective vidyā or form of meditation. The object of attainment (upeya) which is a special kind of expansion of knowledge does not require any instruments of knowledge. It is the natural heritage of the jīvātmā and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
+इवर्गळुक्कुक् +++(मुमुक्षुभ्यः)+++ कर्तव्यम् आन उपायम् आवदु  
+ऒरु ज्ञान-विकास-विशेषम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषां +++(मुमुक्षूणां)+++ कर्तव्य उपायस् तावत्  
+कश्चिज् ज्ञान-त्विकास-विशेषः । 
+</details>
+
+<details><summary>English</summary>
+
+The means or upāya to be adopted by them (i.e.) the seekers after mukti)  
+is a special kind of expansion of knowledge. 
+</details>
+
+<details><summary>Español</summary>
+
+The means or upāya to be adopted by them (i.e.) the seekers after mukti)  
+is a special kind of expansion of knowledge. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इनि अद्वारकप्रपत्तिनिष्ठनुक्कुं सद्वारकप्रपत्तिनिष्ठनुक्कुम् भगवत्प्रसाद हेतुतया साध्यमागच् चॊन्न प्रपदननिदिध्यासनरूपमान उपायङ्गळै सपरिकरमाय् मेले सॊल्लप् पोगिऱवराय् मुन्दर अवैगळिन् स्वरूपत्तै उपपादिक्किऱार् इवर्गळुक्कु कर्तव्यमान उपायमावदु इति । इवर्गळुक्कु - कीऴधिकारत्तिऱ्‌चॊन्न सद्वारकाद्वारकप्रपत्तिनिष्ठर्गळिरुवर्क्कुम्. कर्तव्यमान - विधियाले कर्तव्यमाग चोदितमान. उपायमावदु - अद्वारकमायुम् मुख्यमायुमुळ्ळ भगवत्प्रसादजनकमान भक्तिभरसमर्पणरूपोपायमावदु. इङ्गु अद्वारकमॆण्ड्रदाल् सद्वारकोपायमागच्चॊल्लप्पोगिऱ कर्मयोगं ज्ञानविकास मल्लाविडिनुम् मुख्यमॆण्ड्रदाल् गौणमान वाचिककायिकप्रपत्तिकळ् ज्ञानविकासकङ्गळल्लाविडिनुम्, प्रतिज्ञैक्कु हानियिल्लै. ऒरु ज्ञानविकासविशेषमिति । इङ्गु ज्ञानपदेन ज्ञानेतरक्रियाव्यावृत्तिः । विकासपदेन सिद्धोपायनान भगवत्स्वरूपव्यावृत्तिः । विशेषपदेन उपेयमान भगवदनुभवरूपमान ज्ञानव्यावृत्तिः । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळुक्कुक् कर्तव्यमान उपायमावदु ऒरु ज्ञानविकास विशेषम्.
+</details>
+
+
+
+
+The upeya or object of attainment which can be realised by this means is another special kind of expansion of knowledge. Of these, the special kind of expansion of knowledge which is the means requires the help of instruments of knowledge (karaṇa ) and has been prescribed in the Śāstras. It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam ) which define His essential nature or substance ( svarūpa), along with the qualities Associated invariably with the respective vidyā or form of meditation. The object of attainment (upeya) which is a special kind of expansion of knowledge does not require any instruments of knowledge. It is the natural heritage of the jīvātmā and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
 
 ŚLOKA:
 
