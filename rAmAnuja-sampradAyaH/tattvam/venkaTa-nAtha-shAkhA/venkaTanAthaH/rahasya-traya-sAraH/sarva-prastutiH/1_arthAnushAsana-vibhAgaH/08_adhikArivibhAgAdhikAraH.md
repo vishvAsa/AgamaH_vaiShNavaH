@@ -20,7 +20,7 @@ page153
 </details>
 
 
-## नित्यत्या व्यवस्था
+## नियत्या व्यवस्था
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 मुमुक्षुत्वे तुल्ये सति च मधु-विद्यादिषु यथा  
@@ -106,7 +106,7 @@ which brooks no questioning.
 नियत्या वैयात्यं नियमयितुमेवं प्रभवति ॥ २० ॥
 </details>
 
-## द्वैविध्यम्
+### द्वैविध्यम्
 <details><summary>English</summary>
 
 TWO KINDS OF ADHIKARĪS:
@@ -224,8 +224,8 @@ and sādhana or means for the other,
 भक्तावपि च दर्शितौ ॥ 
 </details>
 
-
-## उक्तिनिष्ठाचार्यनिष्ठयोः प्रपत्त्यन्तर्भावः
+## प्रपत्तौ
+### उक्तिनिष्ठाचार्यनिष्ठयोः प्रपत्त्यन्तर्भावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “स्नानं सप्तविधं स्मृतं” ऎन्गिऱप् पडिय् ए  
@@ -289,7 +289,7 @@ the forms known as Uktiniṣṭhā (by one's utterance) and ācārya niṣṭhā
 </details>
 
 
-## उक्ति-निष्ठा
+### उक्ति-निष्ठा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1033,7 +1033,7 @@ The word api (also) in the śloka  indicates that any one of the two will suffic
 </details>
 
 
-## आचार्य-निष्ठा
+### आचार्य-निष्ठा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1861,7 +1861,8 @@ they will promote the eagerness for service while in this world.
 भगवत्प्राप्तियिले त्वरैयैयुण्डाक्कियुमुपकारकङ्गळाम्.
 </details>
 
-## फलोद्गमः भक्तौ
+## फलोद्गमः 
+### भक्तौ
 <details><summary>English</summary>
 
 DIFFERENCE BETWEEN BHAKTI AND PRAPATTI
@@ -2025,7 +2026,7 @@ for attaining the fruit.
 ब्रह्मास्त्रबन्धम् पोले स्वफलत्तिलुपायान्तरप्रयोगासहमायिरुन्दुळ्ळ प्रपत्तियैत् 
 </details>
 
-## फलोद्गमः प्रपत्तौ
+### प्रपत्तौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2331,7 +2332,7 @@ limited by the conditions of place, time and the nature of bodily life (svarūpa
 </details>
 
 
-## फलं यथाभिमतम् 
+### फलं यथाभिमतम् 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “वरं **वरय** तस्मात् त्वं  
@@ -2820,7 +2821,7 @@ and at the very time when he desires to have it.
 </details>
 
 
-## स्वतन्त्र-प्रपत्तेर् उत्कर्षः
+### स्वतन्त्र-प्रपत्तेर् उत्कर्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडिप्-पट्ट एट्रत्तै निनैत्तु  
@@ -2882,7 +2883,7 @@ that it is stated (in Lakṣmī  Tantra 17 - 62) as follows:-
 इप्पडिप्पट्ट एट्रत्तै निनैत्तु “सत्कर्मनिरताश्शुद्धास्साङ्ख्ययोगविदस्तथा । नार्हन्ति शरणस्थस्य कलां कोटितमीमपि”(लष्मीतन्त्रम् 17-62.) ऎण्ड्रु सॊल्लुगिऱदु.
 </details>
 
-## प्रपन्नेषु वैषम्यम्
+## प्रपन्नेषु साम्य-वैषम्ये
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवनुक्क् इङ्ग् इरुन्द कालत्तिल् कैङ्कर्यत्तिल् वैषम्यम्  
@@ -3026,7 +3027,7 @@ Entire dependence on the Lord is uniformly the same for all.
 पारतन्त्र्यमुम् एकरूपम्. 
 </details>
 
-
+### मोक्षे साम्यम्
 <details><summary>English</summary>
 
 THE BLISS IN MOKṣA  IS THE SAME FOR BOTH.

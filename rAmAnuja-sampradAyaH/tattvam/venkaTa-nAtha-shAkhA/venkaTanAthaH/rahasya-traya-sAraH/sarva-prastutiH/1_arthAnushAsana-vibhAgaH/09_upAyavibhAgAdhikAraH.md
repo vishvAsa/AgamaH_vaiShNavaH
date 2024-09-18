@@ -1,5 +1,5 @@
 +++
-title = "०९ उपायविभागाधिकारः"
+title = "०९ उपाय-विभागाधिकारः"
 
 +++
 
@@ -7,12 +7,23 @@ title = "०९ उपायविभागाधिकारः"
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे उपायविभागाधिकारः ॥ ९ ॥
 
-(9) THE CHAPTER ON THE CLASSIFICATION OF THE MEANS OR UPĀYA FOR ATTAINING (MUKTI). page162
+<details><summary>English</summary>
+
+(9) THE CHAPTER ON THE CLASSIFICATION OF THE MEANS OR UPĀYA FOR ATTAINING (MUKTI).  
+page162
+</details>
+
+<details><summary>Español</summary>
+
+(9) THE CHAPTER ON THE CLASSIFICATION OF THE MEANS OR UPĀYA FOR ATTAINING (MUKTI).  
+page162
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-उपायः स्वप्राप्तेरुपनिषदधीतस्स भगवान्  
-प्रसत्त्यै तस्योक्ते प्रपदननिदिध्यासनगती ।  
+उपायः स्व-प्राप्तेर् उपनिषद्-अधीतस् स भगवान्  
+प्रसत्त्यै तस्योक्ते प्रपदन-निदिध्यासन-गती ।  
 तदारोहः पुंसस्सुकृतपरिपाकेन महता  
 निदानं तत्राऽपि स्वयमखिलनिर्माण निपुणः ॥ २२ ॥
 </details>
@@ -84,7 +95,9 @@ That the two are different from each other is evident from the adhikaraṇa or s
 
 It may be seen that, as in upāsanās there are differences in mantras and the like (aṅgas), there are, in Nyāsa Vidyā also, differences stated in the different branches of the vedas (Shakhas) and in the different samhitas of the agamas. Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily, so prapatti, too, is said to be of different kinds owing to the excess of one or other of these differences. It has been stated by some that, just as obeisance becomes complete when all the three, verbal, mental and bodily are combined, prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jñāna. This statement of theirs should be understood as meaning that mental prapatti is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jñāna). (It should not be taken to mean that prapatti is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them,
 
-110 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
+110 
+
+<details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 निण्ड्रनिलैक्कुऱ निऱ्‌कुङ् गरुममुनेर्मदियाल्  
 नण्ड्रॆन नाडिय ञानमुनल्गुमुट्कण्णुडैयार्  
