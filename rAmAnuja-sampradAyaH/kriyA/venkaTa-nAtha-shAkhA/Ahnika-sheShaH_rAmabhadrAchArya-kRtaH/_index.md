@@ -3,7 +3,7 @@ title = "+आह्निकशेषः रामभद्राचार्य
 
 +++
 
-Sourceः [TW](https://archive.org/details/gopala-desika-ahnikam-ahnikartha-prakashika-ahnika-shesha-low/page/282/mode/2up?view=theater)
+Source: [TW](https://archive.org/details/gopala-desika-ahnikam-ahnikartha-prakashika-ahnika-shesha-low/page/282/mode/2up?view=theater)
 
 ॥ श्रीः ॥  
 श्रीमते श्रीनिवासमहादेशिकाय नमः ।  
