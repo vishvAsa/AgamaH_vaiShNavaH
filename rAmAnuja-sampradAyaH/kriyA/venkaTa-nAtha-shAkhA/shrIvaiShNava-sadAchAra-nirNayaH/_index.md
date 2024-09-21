@@ -22,3 +22,17 @@ WITH COMMENTARY
 ANUBANDHA, ASOUCHASATAKA AND PRACHINACHARA SANGRAHA
 
 Edited by: H.H. the 45th Srimad Azhagiyasingar Sri Ahobila Math  
+
+## 1990
+श्रीमद्-अहोबिलमठीयास्थान-विदुषा, विद्वन्-मणिना, न्याय-वेदान्त-विशारदेन  
+विल्लिवलं-कृष्णमाचार्येण विरचिताभ्यां  
+सुधी-प्रियाख्य-टिप्पणी-द्राविडानुवादाभ्याम् उल्लसितः ।  
+अनुबन्धेन स-व्याख्या-शौच-शतकेन च सहितः । 
+
+SRI VAISHNAVASADACHARANIRNAYA  
+WITH COMMENTARY  
+ANUBANDHA AND AASOUCHASATAKA  
+Edited and Published by:  
+Sri Villivalam. KRISHNAMACHARYA  
+1990
+
