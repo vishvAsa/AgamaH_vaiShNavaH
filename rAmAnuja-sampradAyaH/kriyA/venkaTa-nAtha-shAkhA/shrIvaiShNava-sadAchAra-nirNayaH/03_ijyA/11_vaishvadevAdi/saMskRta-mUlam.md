@@ -1,7 +1,7 @@
 +++
-title = "+वैश्वदेवम्"
-unicode_script = "devanagari"
+title = "संस्कृत-मूलम्"
 +++
+
 
 वैश्वदेवप्रकारः
 
