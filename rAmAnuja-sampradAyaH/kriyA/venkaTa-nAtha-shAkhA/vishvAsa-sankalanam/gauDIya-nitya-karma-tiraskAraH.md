@@ -81,7 +81,11 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
 तस्य स्व-चेष्टान्तरेणाच्छन्न-स्वभावस्य भागवतत्वाज्ञानाद् एव मन्तव्यः ।
 
 ##### श्रद्धा
-सूक्ष्मा-टीकायाम् विशिष्य श्रद्धा-शब्देन भगवद्-आज्ञाऽऽदरो व्यपदिश्यते - 
+"किम् ओषधेस् स्थाने भगवत्-पाद-तीर्थम् अवलम्बते?" इत्यादिभिः श्रद्धा-पूर्णता मानम् उक्तम्। 
+
+सूक्ष्मा-टीकायाम् विशिष्य लोकसङ्ग्रहकृत्सु श्रद्धा-शब्देन भगवद्-आज्ञाऽऽदरो व्यपदिश्यते।  
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 > सूक्ष्मा - टीका - अनभिभवम् इति । सर्वमिति ।  
 > एष ब्रह्मनिष्ठपुरुषः **सर्वं पाप्मानं** स्वधर्मा+++(न)+++नुष्ठान-जनितं प्रत्यवायं तरति ब्रह्म-निष्ठा-प्रभावेणोल्लङ्घयति ।  
@@ -134,6 +138,31 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
 > तिस्रः कोट्यो महर्षयः" 
 > 
 > इति
+</details>
+
+
+##### सम्भ्रमः
+नित्य-नैमित्तिक-कर्मादि त्याज्यं वा न वा?
+
+- एषु न त्याज्यम् 
+  - अजात-श्रद्धेषु
+  - जात-श्रद्धेषु 
+    - प्रतिष्ठितेषु (लोकसङ्ग्रहकृत्सु)
+    - वैशिष्ट्यकामेषु ("स्वर्ण-सिद्धि-लिप्सोर् इव सदा तद्-अनुवृत्ति-चेष्टैव …")
+    - महद्-अपराध-विवारयिषुषु ("अत एव चित्रकेतोः श्री-महादेवापराधस् …")
+- एषु त्याज्यम्
+  - जात-श्रद्धेष्व् अप्रतिष्ठितेषु 
+
+अजात-श्रद्धेषु श्रद्धाङ्कुरवत्सु तु (भविष्ये?) नित्य-नैमित्तिक-कर्मादि-त्यागो बोधनीयः ("स्वयं निःश्रेयसं विद्वान् …", "जुगुप्सितं धर्म-कृते ऽनुशासतः …" ) । 
+
+इत्थं श्रद्धायां जातायाम् अजातायां वा महान् सम्भ्रमः - 
+
+> अस्य जनस्य श्रद्धा ऽस्ति न वा?  
+> किम् ओषधेस् स्थाने भगवत्-पाद-तीर्थम् अवलम्बते?  
+> नास्ति चेत् श्रद्धाङ्कुरम् अस्ति प्राचीनसंस्कारतः? 
+> कर्म त्याज्यं न वा? कदा?
+
+इत्यादौ। 
 
 #### विश्वनाथ-चक्रवर्ती
 
@@ -192,7 +221,7 @@ There is no prominent "vaDakalai" type faction among gauDIya-s.
 ### धर्म-परित्याग-वचनानि
 The karma-dharma-tyAga conception of bhakti itself is incorrect. What would you say about the bhakti of a servant who refuses to obey your express commands and praises you instead?
 
-Even in gIta bhagavAn says "sarva-dharmAn parityajya" without asking arjuna to abondon the fight (<- tAmasika-tyAga)
+Even in gIta bhagavAn says "sarva-dharmAn parityajya" without asking arjuna to abondon the fight (<- tAmasika-tyAga).
 
 > > "तावत् कर्माणि **कुर्वीत**  
 > **न निर्विद्येत** यावता ।  
@@ -202,6 +231,8 @@ Even in gIta bhagavAn says "sarva-dharmAn parityajya" without asking arjuna to a
 karma/ dharma should be taken to refer to various non nitya karmas.  
 Particularly, rAmAnuja takes such verses to refer to "karma-yoga" - which is understood to be daily scheduled performance of specific services to the Lord - separate from nitya-naimittika-karma-s  
 (where there is no question of abandonment by any dhArmika).
+
+This approach is far simpler to understand, defend and practice compared to the confusion and complexity of the approach proposed by bhakti-sandarbha 173.
 
 #### लोक-सङ्ग्रह-विषयः
 Indeed, even this karma yoga (not nitya-naimittika) is urged on to jNAna-yogins for loka-sangraha/ guidance of karma-yogins in -
