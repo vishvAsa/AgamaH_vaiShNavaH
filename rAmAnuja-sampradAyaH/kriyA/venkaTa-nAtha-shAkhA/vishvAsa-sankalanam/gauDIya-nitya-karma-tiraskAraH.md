@@ -160,7 +160,10 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
 > अस्य जनस्य श्रद्धा ऽस्ति न वा?  
 > किम् ओषधेस् स्थाने भगवत्-पाद-तीर्थम् अवलम्बते?  
 > नास्ति चेत् श्रद्धाङ्कुरम् अस्ति प्राचीनसंस्कारतः? 
-> कर्म त्याज्यं न वा? कदा?
+> 
+> कर्म त्याज्यं न वा? कदा?  
+> अहम् समाजे प्रतिष्ठितः?  
+> कर्मस्व् अनुवर्ते चेन् मम दोषो भवति वा? अहं कर्मण्य् अधिकारी वा?
 
 इत्यादौ। 
 
@@ -223,16 +226,34 @@ The karma-dharma-tyAga conception of bhakti itself is incorrect. What would you 
 
 Even in gIta bhagavAn says "sarva-dharmAn parityajya" without asking arjuna to abondon the fight (<- tAmasika-tyAga).
 
-> > "तावत् कर्माणि **कुर्वीत**  
+> "तावत् कर्माणि **कुर्वीत**  
 > **न निर्विद्येत** यावता ।  
 > मत्-कथा-श्रवणादौ वा  
 > श्रद्धा यावन् **न जायते**"
 
-karma/ dharma should be taken to refer to various non nitya karmas.  
+In such verses, karma/ dharma should be taken to refer to various non nitya karmas.  
 Particularly, rAmAnuja takes such verses to refer to "karma-yoga" - which is understood to be daily scheduled performance of specific services to the Lord - separate from nitya-naimittika-karma-s  
 (where there is no question of abandonment by any dhArmika).
 
-This approach is far simpler to understand, defend and practice compared to the confusion and complexity of the approach proposed by bhakti-sandarbha 173.
+This approach is far simpler to understand, defend and practice compared to the confusion and complexity of the approach proposed by bhakti-sandarbha 173. The decision tree instead would be:
+
+सर्वैर् अपि नित्य-नैमित्तिक-कर्माण्य् अवश्यम् अनुष्ठेयानि।  
+वर्णाश्रमधर्मो न त्याज्यः - योद्धव्यम् एवार्जुनेन।  
+
+कर्म-योगस् त्याज्यो वा न वा?  
+कस्मिन्न् अपि त्याज्यम् इति प्रतिबन्धो नास्ति (अतोऽनुवर्तने न हानिः)।  
+एषु तु **न त्याज्यम्** एव -
+
+- ज्ञान-भक्ति-योगयोर् **अनर्हेषु**।  
+- ज्ञान-योगे ऽर्हेषु **सुप्रतिष्ठितेषु** (लोकसङ्ग्रहार्थम्)
+
+
+अत्रैतावान् एव विचारः भक्तियोग-मार्गगश् चेत् - 
+
+> मया ऽऽत्म-साक्षात्कारो लब्धः? शरीर-सम्बद्ध-पुत्रादिभिर् न मुह्यामि?  
+> अहम् समाजे प्रतिष्ठितः?
+
+शरणागति-मार्ग-ग्राहिषु सा ऽपि चिन्ता नास्ति। 
 
 #### लोक-सङ्ग्रह-विषयः
 Indeed, even this karma yoga (not nitya-naimittika) is urged on to jNAna-yogins for loka-sangraha/ guidance of karma-yogins in -
