@@ -104,7 +104,7 @@ and, even for this, Bhagavān, who has the ability to create everything, is Hims
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 एषां +++(मुमुक्षूणां)+++ कर्तव्य उपायस् तावत्  
-कश्चिज् ज्ञान-त्विकास-विशेषः । 
+कश्चिज् ज्ञान-विकास-विशेषः । 
 </details>
 
 <details><summary>English</summary>
