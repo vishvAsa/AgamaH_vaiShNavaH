@@ -91,9 +91,28 @@ If parityajya (having given up) is to be considered (at all) as enjoining what s
 
 therefore a little strained, is better than the meanings given by Saṅkara and others that what is intended here is such as the giving up of the dharmas themselves in their essential nature (svarūpa), because it is not out of keeping with any pramāṇas (for in the chapters on prapatti, it is enjoined that the rites and observances of castes and ās'ramas should (always) be performed).
 
-When we take partyajya as a vidhi or injunction, it would be appropriate to say that the meaning of sarva dharmān parityajya is - "No dharma of any kind need be performed for the sake of prapatti", in the sense that prapatti does not require any of them (as aṅgas). In that case, the use of the preposition pari would suggest that even such observances as are stated in " This should be done after performing achamana" and "This should be done with bodily purity", which are requisite for securing fitness for all rites in common, are not to be accepted as aṅgas for prapatti.
+When we take parityajya as a vidhi or injunction,  
+it would be appropriate to say that  
+the meaning of sarva dharmān parityajya is -  
 
-Notwithstanding this, if it is maintained that the giving up of such dharmas as karma yoga, jñāna yoga and bhakti  yoga in their essential forın (svarūpa) is an aṅga or accessory to prapatti, it would follow that prapatti is not in the competence of any one. The abandonment of a dharma can be enjoined only in the case of a person who is capable of performing it. This would be opposed to the thought of helplessness ( kārpaṇya ), which is called an aṅga ( of prapatti ) according to many pramāṇas. It would also be opposed to the tradition that prapatti is for those who are destitute of upāyas, which is evident from such passages as the following: "I am without any upāyas and have no other saviour". "I was not born into any of the four castes so as to be competent for the performance of dharma". "I have given up the rites to be performed by a Brahmin who has the mark of worshipping the three fires after ablution", and "I am not well established in the performance of dharma, nor have I realised the nature of my self etc.
+> "No dharma of any kind need be performed for the sake of prapatti", 
+
+in the sense that prapatti does not require any of them (as aṅgas).  
+In that case, the use of the preposition pari would suggest that  
+even such observances as are stated in  
+
+> " This should be done after performing achamana" 
+
+and 
+
+> "This should be done with bodily purity", 
+
+which are requisite for securing fitness for all rites in common,  
+are not to be accepted as aṅgas for prapatti.
+
+Notwithstanding this, if it is maintained that the giving up of such dharmas as karma yoga, jñāna yoga and bhakti  yoga in their essential forın (svarūpa) is an aṅga or accessory to prapatti, it would follow that prapatti is not in the competence of any one. The abandonment of a dharma can be enjoined only in the case of a person who is capable of performing it. This would be opposed to the thought of helplessness ( kārpaṇya ), which is called an aṅga ( of prapatti ) according to many pramāṇas. 
+
+It would also be opposed to the tradition that prapatti is for those who are destitute of upāyas, which is evident from such passages as the following: "I am without any upāyas and have no other saviour". "I was not born into any of the four castes so as to be competent for the performance of dharma". "I have given up the rites to be performed by a Brahmin who has the mark of worshipping the three fires after ablution", and "I am not well established in the performance of dharma, nor have I realised the nature of my self etc.
 
 To state that the jīva (kṣetrajna) is eternally incapable of all other upāyas, since he is entirely dependent on and subject to the control of Iśvara and (in the same breath) to state that the giving up of these dharmas or upāyas is enjoined on him is against all s'astras and is opposed also to the very words of these writers and their actual practice. (For how can a man give up a dharma which he is not capable of performing? How can a man proceed to perform kaiṅkarya, if he is incapable of it owing to otter dependence and subjection?). It would, therefore, be extremely ridiculous to hold this view. If this view were right, then by the same logic, even the vidhi contained in vraja (seek me etc.) would be impossible of performance.
 
