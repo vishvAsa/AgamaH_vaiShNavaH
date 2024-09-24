@@ -179,6 +179,17 @@ The upeya or object of attainment which can be realised by this means is another
 इत्ताले साध्यमाय् प्राप्तिरूपमान उपेयमावदु ऒरु ज्ञानविकासविशेषम्. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् उपायम् आगिऱ ज्ञान-विकास-विशेषम्  
+करण-सापेक्षम् उम् आय्  
+शास्त्रविहितमुमाय् सत्यत्वादिगळान स्वरूपनिरूपकधर्मङ्गळञ्जोडे कूडिन अव्वो विद्याविशेष प्रति नियतगुणादि नियतब्रह्मविषयमुमायिरुक्कुम्.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवट्रिलुपाय मागिऱ ज्ञानविकासविशेषम् करणसापेक्षमुमाय् शास्त्रविहितमुमाय् सत्यत्वादिगळान स्वरूपनिरूपकधर्मङ्गळञ्जोडे कूडिन अव्वो विद्याविशेष प्रति नियतगुणादि नियतब्रह्मविषयमुमायिरुक्कुम्.  
+</details>
 
 
 Of these, the special kind of expansion of knowledge which is the means requires the help of instruments of knowledge (karaṇa ) and has been prescribed in the Śāstras. It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam ) which define His essential nature or substance ( svarūpa), along with the qualities Associated invariably with the respective vidyā or form of meditation. The object of attainment (upeya) which is a special kind of expansion of knowledge does not require any instruments of knowledge. It is the natural heritage of the jīvātmā and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
