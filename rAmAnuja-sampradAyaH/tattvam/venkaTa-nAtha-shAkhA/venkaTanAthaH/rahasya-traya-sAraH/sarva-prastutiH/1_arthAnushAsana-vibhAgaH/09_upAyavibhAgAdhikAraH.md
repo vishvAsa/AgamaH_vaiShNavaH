@@ -104,7 +104,7 @@ and, even for this, Bhagavān, who has the ability to create everything, is Hims
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 एषां +++(मुमुक्षूणां)+++ कर्तव्य उपायस् तावत्  
-कश्चिज् ज्ञान-त्विकास-विशेषः । 
+कश्चिज् ज्ञान-विकास-विशेषः । 
 </details>
 
 <details><summary>English</summary>
@@ -130,10 +130,69 @@ is a special kind of expansion of knowledge.
 इवर्गळुक्कुक् कर्तव्यमान उपायमावदु ऒरु ज्ञानविकास विशेषम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् ए साध्यम् आय् प्राप्ति-रूपम् आन उपेयम् आवदु  
+ऒरु ज्ञान-विकास-विशेषम् +++(भगवद्-अनुभव-रूपम्)+++. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनेन साध्यः प्राप्ति-रूप उपेयश्च तावत् — कश्चिज् ज्ञानविकास-विशेषः +++(भगवद्-अनुभव-रूपः)+++ ।
+</details>
+
+<details><summary>English</summary>
+
+The upeya or object of attainment which can be realised by this means is another special kind of expansion of knowledge. 
+</details>
+
+<details><summary>Español</summary>
+
+The upeya or object of attainment which can be realised by this means is another special kind of expansion of knowledge. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उपेयत्तै शब्दतः निर्देशित्तुक् कॊण्डु  
+अदिन् स्वरूपत्तैक् काट्टुगिऱार् इत्ताले इत्यादिना ।  
+साध्यम् आय् ऎण्ड्रदाल्  
+उपेयत्तुक्कु उपाय-कार्यत्वं सॊल्लप्पडुगैयाल् व्यावृत्ति सॊल्लप्पडुगिऱदु.  
+
+> भगवत्-प्राप्तियैक् काट्टिल् उम्  
+उपेयं वेऱु-बट्टद् ओव् 
+
+ऎण्ड्रु शङ्गियामैक्क् आग प्राप्तिरूपमान उपेयमॆण्ड्रदु.  
+प्रपूर्वक आप्लुधातु गत्यर्थकम् आगैयाल् ए  
+ज्ञानार्थकम् आय्क् कॊण्डु  
+भगवद्-अनुभव-रूपोपेयम् आग मुडिगिऱदु  
+ऎण्ड्रु करुत्तु. 
+
+ऒरु ज्ञानविकाशविशेषमिति ।  
+इङ्गु ज्ञानपदत्ताल् ज्ञान-भिन्न-संयोगैक्यादि-व्यावृत्तिः ।  
+विकास-पदत्ताल् ए सिद्धोपाय--स्व-रूप-व्यावृत्तिः ।  
+विशेष-पदत्ताल् साध्योपाय-रूप-ज्ञान-विकास-व्यावृत्तिः ।
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-The upeya or object of attainment which can be realised by this means is another special kind of expansion of knowledge. Of these, the special kind of expansion of knowledge which is the means requires the help of instruments of knowledge (karaṇa ) and has been prescribed in the Śāstras. It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam ) which define His essential nature or substance ( svarūpa), along with the qualities Associated invariably with the respective vidyā or form of meditation. The object of attainment (upeya) which is a special kind of expansion of knowledge does not require any instruments of knowledge. It is the natural heritage of the jīvātmā and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
+इत्ताले साध्यमाय् प्राप्तिरूपमान उपेयमावदु ऒरु ज्ञानविकासविशेषम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रिल् उपायम् आगिऱ ज्ञान-विकास-विशेषम्  
+करण-सापेक्षम् उम् आय्  
+शास्त्रविहितमुमाय् सत्यत्वादिगळान स्वरूपनिरूपकधर्मङ्गळञ्जोडे कूडिन अव्वो विद्याविशेष प्रति नियतगुणादि नियतब्रह्मविषयमुमायिरुक्कुम्.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवट्रिलुपाय मागिऱ ज्ञानविकासविशेषम् करणसापेक्षमुमाय् शास्त्रविहितमुमाय् सत्यत्वादिगळान स्वरूपनिरूपकधर्मङ्गळञ्जोडे कूडिन अव्वो विद्याविशेष प्रति नियतगुणादि नियतब्रह्मविषयमुमायिरुक्कुम्.  
+</details>
+
+
+Of these, the special kind of expansion of knowledge which is the means requires the help of instruments of knowledge (karaṇa ) and has been prescribed in the Śāstras. It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam ) which define His essential nature or substance ( svarūpa), along with the qualities Associated invariably with the respective vidyā or form of meditation. The object of attainment (upeya) which is a special kind of expansion of knowledge does not require any instruments of knowledge. It is the natural heritage of the jīvātmā and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
 
 ŚLOKA:
 
