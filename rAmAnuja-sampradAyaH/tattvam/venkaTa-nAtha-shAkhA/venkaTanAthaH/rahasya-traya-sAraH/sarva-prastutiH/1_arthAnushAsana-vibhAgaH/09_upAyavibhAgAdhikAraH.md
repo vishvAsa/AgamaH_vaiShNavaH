@@ -434,6 +434,15 @@ and, likewise, He is Upeya
 because He is Himself the object that is to be enjoyed. 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि साध्योपायसाध्योपेयङ्गळ् भिन्नङ्गळाय् विलक्षणधर्मवत्तुक्कळायिरुप्पदाल् अवैगळिलॊण्ड्रु पूर्वकालवृत्तियागैयाल् कारणमाय्, ऒण्ड्रु उत्तरकालवृत्तियागैयाल् कार्यमायिरुप्पदालुम् अवैगळै साद्ध्योपायमॆण्ड्रुं साद्ध्योपेयमॆण्ड्रुं व्यवहरिप्पदु युक्तमानालुम्, पूर्वापरकालवृत्तियाय् नित्यनाय् ऒरुवनायिरुक्किऱ भगवानै सिद्धोपायमॆण्ड्रुं सिद्धोपेयमॆण्ड्रुं सॊल्वदु युक्तमागुमो वॆन्न वरुळिच्चॆय्गिऱार् इव्वुपायरूपमायुमित्यादिना । ज्ञानत्तुक्कु विषयमाय्क् कॊण्डु फलप्रदत्वभोग्यत्वादिवेषत्ताले इति । भगवान् उपायज्ञानविषयमाम्बोदु मोक्षयिष्यामि ऎण्ड्रु सङ्कल्पित्तु फलप्रदानम् पण्णुगैयालवनै अन्द वेषत्ताले उपायमॆन्गिऱदु. उपेयज्ञानविषयनाय्क्कॊण्डु ‘‘रसह्येवायं लब्ध्वाऽऽनन्दी भवति’’ ऎन्गिऱ पडि मुक्तरुक्कु रसतया अदावदु आनन्दतया भोग्यनागैयाले अदावदु अनुभाव्यनाआगैयाले अन्द वेषत्ताले अदावदु भोग्यत्ववेषत्ताले अवनैये उपेयमॆन्गिऱदु.  
+तथाच नित्यनान भगवान् ऒरुवनुक्के तन्नैक्कुऱित्तु  
+कार्यत्वमुं कारणत्वमुमिल्लाविडिलुं कारणमान उपाय-ज्ञान-विषयत्वात्  
+अत एव फल-प्रदत्वाच् च उपायत्वमुम्,  
+कार्यम् आन उपेय-ज्ञान-विषयत्वाद् भोग्यत्वाच् च उपेयत्वमुं वरलामागैयाल् ऒरुवनैये सिद्धोपायमॆण्ड्रुं सिद्धोपेयमॆण्ड्रुं व्यवहरिक्कलामॆण्ड्रु तिरुवुळ्ळम्. 
+भोग्यत्वादीत्यत्रादिपदात् उपायदशायां प्रतिबन्धकनिवर्तकत्वत्तुक्कुम्, उपेयदशायां कैङ्कर्यप्रतिसम्बन्धित्वत्तिऱ्‌कुं ग्रहणम्. 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -441,13 +450,215 @@ because He is Himself the object that is to be enjoyed.
 इव्वुपायरूपमायुम् प्राप्तिरूपमायुमिरुक्किऱ ज्ञानत्तुक्कु विषयमाय्क् कॊण्डु फलप्रदत्वभोग्यत्वादिवेषत्ताले ईश्वरनुक्कु उपायत्वमुम् उपेयत्वमुम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् ईश्वरन्-उडैय उपायत्वम्  
+अ-द्वारक-प्रपत्ति-निष्ठन् पक्कल्  
+उपायान्तर-स्थान-निवेशत्ताल् ए विशिष्टम् आय् इरुक्कुम्.+++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदम् ईश्वरस्योपायत्वम् अ-द्वारक-प्रपत्ति-निष्ठ-विषये  
+उपायान्तर-स्थान-निवेशेन विशिष्टं भवति । 
+</details>
+
+<details><summary>English</summary>
+
+In the case of the mumukṣu who has adopted prapatti as the sole and independent means,  
+Iśvara takes the place of other upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+In the case of the mumukṣu who has adopted prapatti as the sole and independent means,  
+Iśvara takes the place of other upāyas. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ईश्वरनुडैय इन्द उपायत्वमिरण्डु अधिकारिकळुक्कुं तुल्यन्दानोवॆन्न वरुळिच्चॆय्गिऱार् इव्वीश्वरनुडैय उपायत्वमित्यादिना । अद्वारकप्रपत्तिनिष्ठन्बक्कल् - स्वतन्त्रप्रपत्तिनिष्ठन् पक्कल्. उपायान्तरस्थाननिवेशत्ताले विशिष्टमायिरुक्कुमिति । सद्वारक-प्रपन्नन्विषयत्तिल् अङ्गप्रपत्तियैयुम् पण्णि पिऱगु भक्तियोगत्तैयुम् अनुष्ठित्ताल् फलं कॊडुक्कक्कडवनान ईश्वरन् स्वतन्त्रप्रपत्तिनिष्ठनुक्कु प्रपत्त्यनुष्ठानानन्तरं भक्तियोगम् पण्णवेण्डादबडि अन्द भक्तियोगमागिऱ उपायान्तरत्तिनुडैय स्थानत्तिले ‘‘त्वमेवोपायो भव’’ अदावदु- त्वमेवोपायान्तरस्थाने स्थित्वा रक्षको भव ऎन्गिऱ प्रार्थनैयिनाले निवेशिक्कप्पट्टवनाय् अन्निवेशत्ताले विशिष्टमायिरुक्कुमॆण्ड्र पडि. तथाच स्वतन्त्रप्रपन्नन् विषयत्तिल् ईश्वरनुक्कु साधारणमाग उपायदशैयिल् सॊन्न प्रपत्तिरूपज्ञानविषयत्वफलप्रदत्वङ्गळागिऱ इव्विरण्डु धर्मङ्गळुम् उपायान्तरस्थाननिवेशरूपधर्मत्तोडुं कूडियिरुक्कुमॆण्ड्रबडि. इदुवे, भक्तनुक्कु भक्तिये उपायम्; प्रपन्ननुक्कु भगवाने उपायमॆण्ड्रु विशेषित्तुच् चॊल्लुवदऱ्‌कुक् कारणमाम्. 
+</details>
 
 
-In the case of the mumukṣu who has adopted prapatti as the sole and independent means, Iśvara takes the place of other upāyas. In the case of others also (i, e.) those who adopt bhakti, Iśvara whose favour has been won by prapatti (adopted as an auxiliary means to bhakti) intervenes and, standing in the place of rites and duties which are too hard for them in those situations which lie between the beginning of karma yoga and the completion of the (prescribed) meditation, brings about the removal of sins and the manifestation of sattvam which can result from their performance. He sees to it that the meditation or worship which has been adopted as an upāya is so complete as to bear fruit.
+<details><summary>मूलम्</summary>
 
-KARMA YOGA:
+इव्वीश्वरनुडैय उपायत्वम् अद्वारकप्रपत्तिनिष्ठन्बक्कल् उपायान्तरस्थाननिवेशत्ताले विशिष्टमायिरुक्कुम्.
+</details>
 
-Karma Yoga means the performance of certain kinds of karma or rites and duties as the result of knowledge acquired from the śāstras in regard to the true nature of the Jīvātmā and the Paramātmā. The rites and duties consist of the following: (1) nitya karna or regular duties to be performed compulsorily (like the daily sandhya vandana) (2) naimittika karma or rites to be compulsorily performed on specific occasions (like the eclipse of the sun or the moon) and (3) such kārya karmās or rites as are optional and as have been chosen to be within one's ability. Though these kāıya rites are ordained for obtaining certain specified fruits like svarga, they have to be performed without any desire for those fruits. All these rites and duties, 1, 2 and 3, have to be performed regularly and in accordance with the prescribed rules by the Karma-yogin.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मट्र अधिकारिक्क् उम्  
+कर्म-योगारम्भम् मुदल् आग उपासन-पूर्ति-पर्यन्तम् आग नडुव्-उळ्ळ कर्तव्यङ्गळिल्  
+अत्यन्ताशक्यम् आन नेर्गळिल् ए  
+इप्-प्रपत्ति-वशीकृतन् आन ईश्वरन् **पुगुन्दु+++(=प्रविश्य)+++ निण्ड्रु**  
+अन्द दुष्कर-कर्तव्यङ्गळाल् ए वरुम्  
++++(साध्यम् आन)+++ पाप-निवृत्तियैय् उम्, सत्त्वोन्मेषादिगळैय् उम् **उण्डाक्किक् कॊडुत्तु**  
+अव्व् उपासनम् आगिऱ उपायत्तै  
+फल-पर्यन्तम् आक्किक् कॊडुक्कुम्.   
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अधिकार्य्-अन्तर-विषयेऽपि  
+कर्म-योगारम्भ-काल-प्रभृताव् उपासन-पूर्ति-पर्यन्ते काले  
+अन्तराल-कर्तव्येष्व् अत्यन्ताशक्य-विषयेषु एतत्-प्रपत्ति-वशीकृत ईश्वरः **प्रविश्य स्थित्वा**  
+तैर् दुष्कर-कर्तव्यैः साध्यां पाप-निवृत्तिं सत्त्वोन्मेषादीनि **चोत्पाद्य**  
+तम् उपासन-रूपम् उपायं **फल-पर्यन्तं करोति** ॥ 
+
+</details>
+
+<details><summary>English</summary>
+
+In the case of others also (i, e.) those who adopt bhakti,  
+Iśvara whose favour has been won by prapatti  
+(adopted as an auxiliary means to bhakti)  
+intervenes and, standing in the place of rites and duties which are too hard for them in those situations  
+which lie between the beginning of karma yoga  
+and the completion of the (prescribed) meditation,  
+brings about the removal of sins  
+and the manifestation of sattvam  
+which can result from their performance.  
+He sees to it that the meditation or worship  
+which has been adopted as an upāya is so complete as to bear fruit.
+</details>
+
+<details><summary>Español</summary>
+
+In the case of others also (i, e.) those who adopt bhakti,  
+Iśvara whose favour has been won by prapatti  
+(adopted as an auxiliary means to bhakti)  
+intervenes and, standing in the place of rites and duties which are too hard for them in those situations  
+which lie between the beginning of karma yoga  
+and the completion of the (prescribed) meditation,  
+brings about the removal of sins  
+and the manifestation of sattvam  
+which can result from their performance.  
+He sees to it that the meditation or worship  
+which has been adopted as an upāya is so complete as to bear fruit.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+भक्तर्गळिडत्तिल् ईश्वरनुडैय उपायत्वप्रकारत्तैक् काट्टुगिऱार् मट्र अधिकारिक्कुमित्यादिना । मट्रवधिकारि – सद्वारकप्रपत्तिनिष्ठन्, भक्त इति यावत् । कर्मयोगारम्भम् मुदलाग - वक्ष्यमाणकर्मयोगप्रारम्भम्मुदल्, उपासनपूर्तिपर्यन्तमाग - भक्तियोगत्तिनुडैय यथावस्थितनिष्पत्तिपर्यन्तमाग, नडुवुळ्ळ - मध्यत्तिलेयुळ्ळ, कर्तव्यङ्गळिल् - अनुष्ठेयत्वेन प्राप्तमान शास्त्रार्थङ्गळिल्, अत्यन्ताशक्यमान नेर्गळिले - सर्वात्मना पण्णमुडियाद कर्मङ्गळिन् स्थानङ्गळिले, इप्प्रपत्तिवशीकृतनान ईश्वरन् - इन्द दुष्करकर्मस्थानत्तिले इरुन्दु इन्द कर्मसाध्यफलत्तैत् तरवेणुमॆन्गिऱ प्रार्थनापूर्वकप्रपत्तियिनाले वशीकरिक्कप्पट्ट ईश्वरन्, पुगुन्दु निण्ड्रु - अन्द दुष्करकर्मङ्गळै अपेक्षिक्कामल् तानेअवट्रिन् कार्यङ्गळै सॆय्यवेण्डुमॆण्ड्रु निण्ड्रु, अन्द दुष्करकर्तव्यङ्गळाले वरुम् - नमक्कुप् पण्णमुडियाददाय् अवश्यम् पण्णित् तीर वेण्डि यदान कर्मङ्गळाले वरुम्, पापनिवृत्तियैयुम् - उपायविरोधिपापनिवृत्तियैयुम्, सत्वोन्मेषादिकळैयुम् - उपायाभिवर्धकसत्वोन्मेषादिकळैयुम्, आदिपदग्राह्योत्तरोत्तरज्ञानवैशद्यादिकळैयुम्, उण्डाक्किक्कॊडुत्तु - अन्द कर्मनिरपेक्षमाग ताने उण्डाक्किक्कॊडुत्तु, अव्वुपासनमागिऱवुपायत्तै - अङ्गियाय् भक्तिरूपमान उपायत्तै, फलपर्यन्तमाक्किक्कॊडुक्कुम् - उपेयज्ञानविकासपूर्वककैङ्कर्यपर्यन्तमाक्किक्कॊडुक्कुम्. कर्मयोगादिकळ् उपायनिष्पत्तिविरोधिपापनिवृत्तिसत्वोन्मेषाद्यर्थङ्गळागैयालवट्रिल् सिल अत्यन्ताशक्यङ्गळान पोदु तत्स्थानत्तिले निवेशिक्कप्पट्ट ईश्वरन् अन्द दुष्करकर्मकार्यङ्गळान पापनिवृत्त्यादिकळैयुं सॆय्युमागैयाल् इव्वधिकारिक्कुम् उपासननिष्पत्तिविरोधिपापनिवृत्त्यर्थमुं तत्तत्कालङ्गळिल् अशक्यमान कर्मनिर्वर्त्यपापनिवृत्तिसत्वोन्मेषाद्यर्थमागवुं तत्तत्कालङ्गळिल् अङ्गमान प्रपत्तिविशेषङ्गळ् पण्णवेण्डुमॆण्ड्रुम्, तद्वशीकृतनान भगवान् उपासनानिर्वृत्तिपूर्वकमाय् कैङ्कर्यपर्यन्तमान भगवदनुभवत्तैक् कॊडुप्पनॆण्ड्रुं सॊल्लित्तायिट्रु.   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मट्र अधिकारिक्कुम् कर्मयोगारम्भम् मुदलाग उपासनपूर्ति-पर्यन्तमाग नडुवुळ्ळ कर्तव्यङ्गळिल् अत्यन्ताशक्यमान नेर्गळिले इप्प्रपत्तिवशीकृतनान ईश्वरन् पुगुन्दु निण्ड्रु अन्ददुष्करकर्तव्यङ्गळाले वरुम् पापनिवृत्तियैयुम् सत्त्वोन्मेषादिगळैयुमुण्डाक्किक्कॊडुत्तु अव्वुपासनमागिऱ उपायत्तै फलपर्यन्तमाक्किक्कॊडुक्कुम्.   
+</details>
+
+
+## कर्म-योगः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गु कर्म-योगम् आवदु -  
+शास्त्रत्ताल् ए जीव-परमात्म-याथात्म्य-ज्ञानं पिऱन्दाल् तनक्कु शक्यङ्गळ् आय्  
+फल-सङ्गादि-रहितङ्गळ् आन काम्य-कर्मङ्गळोड् उम् +++(←यत्राकरणे प्रत्यवायाभावः, करणे ऽभ्युदयः)+++  
+नित्य-नैमित्तिकङ्गळोड् उङ् कूडिन  
+स-नियमम् आग परिगृहीतम् आय् इरुक्कुम् कर्म-विशेषम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्र कर्मयोगो नाम -  
+शास्त्रेण जीव-परमात्म-याथाम्य-ज्ञाने निष्पन्ने  
+स्व-शक्यैः फल-सङ्गादि-रहितैः काम्य-कर्मभिः +++(←यत्राकरणे प्रत्यवायाभावः, करणे ऽभ्युदयः)+++,  
+नित्य-नैमित्तिकैश् च सह  
+स-नियमं परिगृहीतः कर्म-विशेषः । 
+</details>
+
+<details><summary>English</summary>
+
+Karma Yoga means the performance of certain kinds of karma or rites and duties  
+as the result of knowledge acquired from the śāstras in regard to the true nature of the Jīvātmā and the Paramātmā.  
+The rites and duties consist of the following:  
+(1) nitya karna or regular duties to be performed compulsorily (like the daily sandhya vandana)  
+(2) naimittika karma or rites to be compulsorily performed on specific occasions (like the eclipse of the sun or the moon) and  
+(3) such kāmya karmās or rites as are optional and as have been chosen to be within one's ability.  
+Though these kāmya rites are ordained for obtaining certain specified fruits like svarga,  
+they have to be performed without any desire for those fruits.
+[(4) Some other duty] ~~All these rites and duties, 1, 2 and 3, have~~ to be performed regularly and in accordance with the prescribed rules by the Karma-yogin.
+</details>
+
+<details><summary>Español</summary>
+
+Karma Yoga means the performance of certain kinds of karma or rites and duties  
+as the result of knowledge acquired from the śāstras in regard to the true nature of the Jīvātmā and the Paramātmā.  
+The rites and duties consist of the following:  
+(1) nitya karna or regular duties to be performed compulsorily (like the daily sandhya vandana)  
+(2) naimittika karma or rites to be compulsorily performed on specific occasions (like the eclipse of the sun or the moon) and  
+(3) such kāmya karmās or rites as are optional and as have been chosen to be within one's ability.  
+Though these kāmya rites are ordained for obtaining certain specified fruits like svarga,  
+they have to be performed without any desire for those fruits.
+[(4) Some other duty] ~~All these rites and duties, 1, 2 and 3, have~~ to be performed regularly and in accordance with the prescribed rules by the Karma-yogin.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इनि कर्मयोगारम्भम् मुदल् आग ऎण्ड्रु सामान्यम् आग प्रसक्तङ्गळ् आन कर्मयोगज्ञानयोगादिकळैयुम्,  
+अवैगळुक्कु भक्तियोगत्तिल् उपयोग-प्रकारत्तैय् उम् अरुळिच् चॆय्यक् करुदि  
+मुन्दर कर्मयोगत्तिन्-उडैय स्वरूपत्तैयुम्, भेदत्तैयुम्, कार्यत्तैयुम्, क्रममाग वरुळिच्चॆय्गिऱार् अङ्गु कर्मयोगमावदु इत्यादियाल्. 
+
+अङ्गु उपासकनुक्कु कर्तव्यङ्गळ् आग शास्त्रङ्गळिल् विहितङ्गळुक्क्-उळ्ळ् ए -  
+कर्मयोगम् आवद् ऎन्बदऱ्‌कु  
+‘‘सनियममाग परिगृहीतमायिरुक्कुं कर्मविशेषम्" ऎन्बद्-ओड् अन्वयम्.  
+इदु अङ्गिस्वरूपनिर्देशम्.  
+
+> नित्य-नैमित्तिकादिकळुक्क् उळ्ळ् ए यावत्-फल-प्राप्ति इत्तैय् ए अनुष्टिक्कक् कडव् एन् 
+
+ऎण्ड्र्  
+इप्पडि सङ्कल्पत्तोडु परिग्रहिक्कप्पट्ट  
+ऒरु कर्म-विशेषम् ऎन्न-बडि. आनाल् इतरनित्यनैमित्तिकङ्गळ् अनुष्ठेयङ्गळण्ड्रोवॆन्न?  
+ऎल्ला कर्मङ्गळ् उम् अ-प्रधानतया - अद्-आवदु अङ्गतया - ऽनुष्ठेयम् ऎन्गिऱार् "शास्त्रत्ताल् ए" इत्यादियाल्.  
+एतद्-अनुष्ठानोपयुक्ताधिकारत्तैक् काट्टुगिऱार्  
+जीव-परमात्म-याथात्म्य-ज्ञानम् पिऱन्दाल् इति ।  
+इन्द ज्ञानम् इल्लाविडिल्  
+निवृत्ति-धर्म-रूपम् आन कर्म-योगत्तिन्-उडैय अनुष्ठानत्तिऱ्‌कु अधिकारिय् आग-माट्टान् इऱे.  
+
+तनक्कु शक्यङ्गळ् आय् इति ।  
+‘‘न ह्यशक्ये नियोजयति शास्त्रं’’ ।+++(5)+++  
+
+"फल-सङ्गादि-रहितङ्गळ् आन" इति ।  
+इङ्गु आदि-पदत्ताल् ए कर्तृत्वादिकं विवक्षितं  
+यद्यपि काम्य-कर्मङ्गळ् फलार्थम् आगव् ए विहितङ्गळ्;  
+आनालुं कर्म-योग-रूप-निवृत्ति-धर्म-निष्ठन्  
+अन्द फलङ्गळिल् सङ्गम् इल्लाद्-अवन् आय्  
+अद्-आवदु आसैय् इल्लाद्-अवन् आय्  
+अवैगळैय् अनुष्ठिक्क-वेण्डुम् आगैयाल्  
+अवैगळै फल-सङ्ग-रहितङ्गळ् ऎण्ड्रदु.  
+
+काम्य-कर्मङ्गळ्-ओड् उम् इति ।  
+अ-करणे प्रत्यवायापादकम् अल्लादद् आय्  
+करणे अभ्युदयावहङ्गळ् आन कर्मङ्गळ्-ओड् ऎण्ड्र बडि.+++(5)+++  
+इङ्गु ‘‘सहयुक्तेऽप्रधाने’’ ऎण्ड्रु सॊल्लप्पट्ट तृतीयाप्रयोगत्ताल् ए  
+काम्यङ्गळुक्कु अ-प्राधान्यम् अदावदु अङ्गत्वं तोट्रुगिऱदु.  
+
+नित्यनैमित्तिकङ्गळोडुं कूड ऎन्गिऱविडत्तिलुम् इप्पडिये कण्डुगॊळ्वदु.  
+
+तथा च भगवानुक्कुं तनक्कुं शेष-शेषि-भाव-ज्ञानम् उळ्ळवन् आय्  
+नित्य-नैमित्तिकादिकळ्-उडैय मध्यत्तिल् ए  
+तनक्कु शक्यम् आनद् ऒरु कर्म-विशेषत्तै  
+"यावत्-फलम् इदैय् ए अनुष्टिक्कक् कडवेन्" ऎण्ड्रु सङ्कल्प-पूर्वकम् आग  
+अङ्गिय् आग परिग्रहित्तु  
+अदऱ्‌कु अङ्गङ्गळ् आग तनक्कु शक्यङ्गळ् आन काम्य-कर्मङ्गळैय् उम्  
+इतर-नित्य-नैमित्तिकङ्गळैय् उम् परिग्रहित्तु  
+अनुष्ठिक्क् उम्  
+अदु कर्मयोगम् ऎण्ड्रद् आयिट्रु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गु कर्मयोगमावदु -  
+शास्त्रत्ताले जीवपरमात्मयाथात्म्य ज्ञानं पिऱन्दाल् तनक्कु शक्यङ्गळाय् फलसङ्गादिरहितङ्गळान काम्यकर्मङ्गळोडुम् नित्य-नैमित्तिकङ्गळोडुङ्गूडिन सनियममाग परिगृहीतमायिरुक्कुम् कर्मविशेषम्. 
+</details>
+
+
+
+
 
 This karma yoga has several subdivisions described in the śloka s beginning with "Some perform the rites or sacrifices (Yajna) which are of the nature of the worship of the Gods" (Bhagavadgītā IV 25.) They include such (items) as the adoration of the gods, the performance of austerities (tapas), pilgrimage to sacred places, giving in charity, and sacrifices.
 
