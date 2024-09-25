@@ -93,12 +93,13 @@ and, even for this, Bhagavān, who has the ability to create everything, is Hims
 </details>
 
 
-## उपायोपेयौ
+## उपायोपेयौ 
+### ज्ञान-विकासौ
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवर्गळुक्कुक् +++(मुमुक्षुभ्यः)+++ कर्तव्यम् आन उपायम् आवदु  
-ऒरु ज्ञान-विकास-विशेषम्.
+ऒरु ज्ञान-विकास-विशेषम् +++(वक्ष्यमाण-भक्त्य्-आख्यम्)+++.
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -181,33 +182,268 @@ The upeya or object of attainment which can be realised by this means is another
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवट्रिल् उपायम् आगिऱ ज्ञान-विकास-विशेषम्  
+इवट्रिल् +++(→एतयः)+++ **उपायम्** आगिऱ ज्ञान-विकास-विशेषम्  
 करण-सापेक्षम् उम् आय्  
 शास्त्र-विहितम् उम् आय्  
 सत्यत्वादिगळ् आन स्व-रूप-निरूपक-धर्मङ्गळ्-अञ्ज्-ओड् ए कूडिन  
-अव्व्-ओ विद्या-विशेष--प्रति-नियत-गुणादि--नियत-ब्रह्म-विषयम् उम् आय् इरुक्कुम्.  
+अव्व्-ओ विद्या-विशेष--प्रति-नियत-गुणादि--**नियत-ब्रह्म-विषयम्** उम् आय् इरुक्कुम्.  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतयोर् **उपाय**-भूतो ज्ञान-विकास-विशेषः  
+करण-सापेक्षः शास्त्र-विहितः  
+सत्यत्वादि--स्व-रूप--निरूपक-धर्म-पञ्चक-संवलित-  
+तत्-तद्--विद्या-विशेष--प्रतिनियत-गुणादि-**नियत--ब्रह्म-विषयश्** च भवति ।  
+
+</details>
+
+<details><summary>English</summary>
+
+Of these, the special kind of expansion of knowledge which is the means  
+requires the help of instruments of knowledge (karaṇa )  
+and has been prescribed in the Śāstras.  
+It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam )  
+which define His essential nature or substance ( svarūpa),  
+along with the qualities Associated invariably with the respective vidyā or form of meditation. 
+</details>
+
+<details><summary>Español</summary>
+
+Of these, the special kind of expansion of knowledge which is the means  
+requires the help of instruments of knowledge (karaṇa )  
+and has been prescribed in the Śāstras.  
+It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam )  
+which define His essential nature or substance ( svarūpa),  
+along with the qualities Associated invariably with the respective vidyā or form of meditation. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इवट्रिलुपाय मागिऱ ज्ञानविकासविशेषम् करणसापेक्षमुमाय् शास्त्रविहितमुमाय् सत्यत्वादिगळान स्वरूपनिरूपकधर्मङ्गळञ्जोडे कूडिन अव्वो विद्याविशेष प्रति नियतगुणादि नियतब्रह्मविषयमुमायिरुक्कुम्.  
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-Of these, the special kind of expansion of knowledge which is the means requires the help of instruments of knowledge (karaṇa ) and has been prescribed in the Śāstras. It has for its object Brahman who is always endowed with the five attributes like satyam, (satyam, jñānam, anantan,anandam, amalatvam ) which define His essential nature or substance ( svarūpa), along with the qualities Associated invariably with the respective vidyā or form of meditation. The object of attainment (upeya) which is a special kind of expansion of knowledge does not require any instruments of knowledge. It is the natural heritage of the jīvātmā and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
+इन्द इरण्डु ज्ञानविकासविशेषङ्गळिलुं विशेषशब्दवाच्यमान वैलक्षण्यत्तैक् काट्टुगिऱार् इवट्रिल् उपायमागिऱ ज्ञानविकाविशेषमित्यादिना । इवट्रिल् - इन्द इरण्डु ज्ञानविकासविशेषङ्गळुडैय मध्यत्तिल्. उपायमागिऱ ज्ञानविकासविशेषम् - भगवत्प्राप्तिक्कु उपायमान भक्तिभरसमर्पणरूपज्ञानविकासविशेषम्. करण सापेक्षमुमायिति । भक्ति-प्रपत्तियिरण्डुम् मनोरूप करणसापेक्षमिऱे. शास्त्रविहितमुमाय् - ‘‘ओमित्यात्मानं ध्यायथ’’ ‘‘भजस्व मां’’ ‘‘शरणं व्रज’’ इत्यादि शास्त्रङ्गळाले कर्तव्यतया विहितमाय्. सत्यत्वेत्यादि । स्वरूपनिरूपकधर्मङ्गळ् - ऎन्द धर्मङ्गळ् ज्ञातमागाविडिल् ब्रह्मस्वरूपमे ज्ञातमागादो, अवैगळ्. अञ्जोडे कूडिन - सत्यत्वज्ञानत्वानन्तत्वानन्दत्वामलत्वरूपपञ्चकङ्गळोडु कूडिन. इदऱ्‌कु गुणादिकळिनालेयॆन्बदोडन्वयम्. अव्वो विद्याविशेषेति । सद्विद्यादहरविद्याशाण्डिल्यविद्यान्यासकळिनालेविद्यारूपमान विद्याविशेषङ्गळिले. प्रतिनियतगुणादिकळिनाले इति । तत्तद्विद्याप्रतिनियतगुणङ्गळै भाष्यादिकळिल् कण्डुगॊळ्वदु. प्रपत्तिविद्यैक्कु निरपेक्षोपायत्वम् प्रतिनियतवेद्याकारम्. गुणादीत्यत्रादिपदेन विग्रहादिपरिग्रहः । नियत – व्याप्त । ब्रह्मविषयमुमायिरुक्कुमिति । तथाच उपायमान ज्ञानविकासविशेषं शारीरकशास्त्रत्तिल् सर्वविद्यानुयायियाग निर्णयिक्कप्पट्ट सत्यत्वादिपञ्चकविषयमायुम्, तत्तद्विद्याप्रतिनियतगुणविग्रहविषयमायुम्, इवैगळुक्कु धर्मियान ब्रह्मविषयमायुमिरुक्कुमॆण्ड्रबडि. 
+</details>
 
-ŚLOKA:
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**उपेयम्** आगिऱ ज्ञान-विकास-विशेषम्  
+करण-निरपेक्षम् उम् आय्  
+स्व-भाव-प्राप्तम् उम् आय्  
+गुण-विभूत्य्-आदिगळ्-ऎल्लात्ताल् उम्  
+**परिपूर्ण-ब्रह्म-विषयम्** उम् आय् इरुक्कुम्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**उपेय**-भूतो ज्ञान-विकास-विशेषः  
+करण-निरपेक्षः स्व-भाव-प्राप्तो गुण-विभूत्य्-आदि--सर्व-**परिपूर्ण-ब्रह्म-विषयो** भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+The object of attainment (upeya) which is a special kind of expansion of knowledge  
+does not require any instruments of knowledge.  
+It is the natural heritage of the jīvātmā  
+and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
+</details>
+
+<details><summary>Español</summary>
+
+The object of attainment (upeya) which is a special kind of expansion of knowledge  
+does not require any instruments of knowledge.  
+It is the natural heritage of the jīvātmā  
+and has for its object Brahman perfect with all qualities and glorious possessions (vibhūtis).
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+उपेयज्ञानविकासम् इदैक् काट्टिलुं विलक्षण मॆन्गिऱार् उपेयमागिऱ ज्ञानविकासविशेषमित्यादिना । करणनिरपेक्षमुमायिति । मुक्तियिल् अप्राकृतङ्गळान चक्षुरादिकरणङ्गळिरुन्दालुं ज्ञानविकासत्तिऱ्‌कु तदपेक्षैयिल्लैयिऱे. अङ्गु सिल मुक्तर्गळ् विदेहर्गळायुं कैङ्गर्यं सॆय्वदाग शास्त्रसिद्धमागैयाल् अवर्गळुडैय ज्ञानविकासत्तिल् करणनिरपेक्षत्वमे ऒप्पुक् कॊळ्ळवेण्डुमागैयाल् सशरीररान मुक्तर्गळुडैय ज्ञानविकासत्तिलुं करणनिरपेक्षत्वम् ऒप्पुक्कॊळ्ळ वेण्डुमॆण्ड्रु तिरुवुळ्ळम्. स्वभावप्राप्तमुमायिति । ‘‘यथा न क्रियते ज्योत्स्ना’’ ऎन्गिऱ पडिये प्रतिबन्धकनिवृत्तियुण्डानाल् ज्ञानविकासं स्वभावतः प्राप्तमामिऱे. गुणविभूत्यादि कळॆल्लात्तालुम् परिपूर्णब्रह्मविषयमुमायिरुक्कुमिति । मुक्तिदशैयिले सर्वप्रतिबन्धकमुं निश्शेषमाग निवृत्तमागैयाले ज्ञानप्रसरं सर्वत्र उण्डागुमागैयाले गुणविभूत्यादिकळिल् अज्ञातांशत्तिऱ्‌कु प्रसक्तियेयिल्लामैयाले गुणविभूत्यादिकळॆल्लात्तालुम् परिपूर्णब्रह्मविषयमायुं विशेषणीभूतगुणविभूत्यादिकळॆल्ला विषयमुमायिरुक्कुमॆण्ड्र पडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपेयमागिऱ ज्ञानविकासविशेषम् करणनिरपेक्षमुमाय् स्वभावप्राप्तमुमाय् गुणविभूत्यादिगळॆल्लात्तालुम् परि-पूर्णब्रह्मविषयमुमायिरुक्कुम्.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपासित-गुणादेर् या  
+**प्राप्ताव्** अप्य् **अ-बहिष्क्रिया** ।  
+सा तत् +++("तं यथायथोपासते तथैव भवति"→)+++ क्रतु-नय-ग्राह्या  
+नाकारान्तर-वर्जनम् ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपासित-गुणादेर् या  
+**प्राप्ताव्** अप्य् **अ-बहिष्क्रिया** ।  
+सा तत् +++("तं यथायथोपासते तथैव भवति"→)+++ क्रतु-नय-ग्राह्या  
+नाकारान्तर-वर्जनम् ॥
+</details>
+
+<details><summary>English</summary>
+
+The principle of tatkratu[^47] states only that   
+the qualities (and forms) meditated upon would not be excluded in the attainment;  
+it does not exclude other qualities (and forms ). 
+
+[^47]:
+
+    The principle of tatkratu or tatkratu nyaya is to the effect that  
+    in whatever form or manner and with whatever qualities one meditates on God -   
+    in that very form and with those very qualities will one attain Him.  
+    Though service to the Lord is not specifically prescribed in a vidyā,  
+    it will be attained after mukti.
+
+</details>
+
+<details><summary>Español</summary>
+
+The principle of tatkratu[^es47] states only that   
+the qualities (and forms) meditated upon would not be excluded in the attainment;  
+it does not exclude other qualities (and forms ). 
+
+[^es47]:
+
+    The principle of tatkratu or tatkratu nyaya is to the effect that  
+    in whatever form or manner and with whatever qualities one meditates on God -   
+    in that very form and with those very qualities will one attain Him.  
+    Though service to the Lord is not specifically prescribed in a vidyā,  
+    it will be attained after mukti.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+> ‘‘तं यथायथोपासते तथैव भवति,  
+> यथा-क्रतुर् अस्मिन् लोके पुरुषो भवति  
+> तथेतः प्रेत्य भवति’’
+
+ऎण्ड्रु यथो-पासनमण्ड्रो फलमिरुप्पदु.
+
+
+आगैयाल् तत्तद्विद्याप्रतिनियत-गुणादिविषयकोपासनत्ताले गुणविभूत्यादिकळॆल्लात्तालुम् परिपूर्णब्रह्मप्राप्ति वरक्कूडुमो वॆन्नवरुळिच्चॆय् किऱार् उपासितगुणादेरित्यादि । उपासितगुणादेः – तत्तद्विद्यैयिलुपासिक्कप्पट्ट प्रतिनियतगुणादिकळुक्कु. आदिशब्दात् विग्रहविभूतिपरिग्रहः । प्राप्तावपि – प्राप्तिरूपोपेयज्ञानत्तिलुम्. या अबहिष्क्रिया–यादॊरु बहिष्काराभावमुण्डो? अदावदु उपासनविषयङ्गळान गुणादिकळ् प्राप्तिरूपानुभवत्तिलुम् अवश्यं विषयमामेयॊऴिय विषयमागादॊऴियादॆन्गिऱ अयोगव्यवच्छेदमुण्डो? सा – अन्द अबहिष्क्रियैये. तत्क्रतुनयग्राह्या – तत्क्रतुन्याय-शिक्षितार्थमागक् कॊळ्ळवेण्डुम्. नाकारान्तरवर्जनं – उपासनविषयमिल्लाद गुणादिकळुक्कु प्राप्तिरूपानुभवत्तिल् अविषयत्वं तत्क्रतुन्यायत्ताले ग्राह्यमण्ड्रु. अप्पडियागिल् प्रतिब्रह्मविद्यानिष्ठनुक्कुं तत्तद्ब्रह्मविद्याप्रतिनियतगुणानुभवमे वरवेण्डुमागैयालुं गुणविभूत्यादिकळाले परिपूर्णमान ब्रह्मानुभवम् मुक्तर्गळिल् ऒरुवनुक्कुं घटियातागैयालुम् अनुभवतारतम्यादानन्दतारतम्यं वरुमागैयालुम् मध्वमतप्रवेशं वरुम्. मेलुम् ‘‘सर्वं ह पश्यः पश्यति’’ ‘‘निरञ्जनः परमं साम्यमुपैति’’ ‘‘सोऽश्नुते सर्वान् कामान्’’ इत्यादि श्रुतिविरोधं दुष्परिहरम्. लघुसिद्धान्तारम्भ श्रुतप्रकाशिकायां 
+
+> ‘‘यदुक्तम् अविद्यानिवृत्तिरेव मोक्ष इति, तदभ्युपगम्यते’’ 
+
+इति श्रीभाष्य श्रीसूक्तिव्याख्यानावसरे 
+
+> ‘‘स्वत एव सर्व-साक्षात्-कार-क्षमं ज्ञानं  
+> प्रतिबन्धके निवृत्ते सति  
+> ब्रह्म--स्व-रूप--रूप-गुण-विभूत्य्-आदिकं सर्वं साक्षात् करोति’’ 
+
+ऎण्ड्रु सर्वमुक्तर्गळुक्क् उम् प्रतिबन्धक-निवृत्ति वन्दाल्  
+स्व-रूप--रूप-गुण-विभवादि-सर्व-साक्षात्कारं स्वत एव वरुम्  
+ऎण्ड्रु सॊल्लियिरुप्पदालुम् अनुपासित गुणङ्गळुक्कु प्राप्तियिले विषयत्वमिल्लैयॆण्ड्रु अन्ययोगव्यवच्छेदं सॊल्लुगिऱवर्गळुक्कु स्पष्टमान श्रुतप्रकाशिकाविरोधं वरुम्.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 उपासितगुणादेर्या प्राप्तावप्यबहिष्क्रिया ।  
 सा तत्क्रतुनयग्राह्या नाकारान्तरवर्जनम् ॥
+</details>
 
-The principle of tatkratu[^47] states only that  the qualities (and forms) meditated upon would not be excluded in the attainment; it does not exclude other qualities (and forms ). Service to the Lord is also the object of attainment (upeya ) as it is the overflow of the experience (of Bhagavān ) which is attained.
 
-[^47]: The principle of tatkratu or tatkratu nyaya is to the effect that in whatever form or manner and with whatever qualities one meditates on God - in that very form and with those very qualities will one attain Him. Though service to the Lord is not specifically prescribed in a vidyā, it will be attained after mukti.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्ति-रूपम् आन इव्व्-अनुभवत्तिन्-उडैय परीवाहम् आय्क् कॊण्डु कैङ्कर्यम् उपेयम्.+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्राप्ति-रूपस्यानुभवस्य परीवाहात्मना कैङ्कर्यम् उपेयम् ।
+</details>
+
+<details><summary>English</summary>
+
+Service to the Lord is also the object of attainment (upeya )  
+as it is the overflow of the experience (of Bhagavān ) which is attained.
+</details>
+
+<details><summary>Español</summary>
+
+Service to the Lord is also the object of attainment (upeya )  
+as it is the overflow of the experience (of Bhagavān ) which is attained.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि प्राप्तिरूपोपेयं ज्ञानविकासविशेषमॆण्ड्राल् ‘‘नित्यकिङ्करो भवानि’’ ऎण्ड्रु गद्यत्तिल् भगवत्कैङ्कर्यत्तै उपेयमाग प्रार्थित्तदऱ्‌कु भावमॆन्नॆन्न वरुळिच्चॆय्गिऱार् प्राप्तिरूपमान इत्यादिना । इव्वनुभवत्तिनुडैय परीवाहमाय् कॊण्डु - अवर्जनीयमान कार्यमाय्क्कॊण्डु. कैङ्कर्यमुपेयमिति । इन्द प्राप्तिरूपमान ज्ञानविकासविशेषं निरतिशयभोग्यवस्त्वनुभवरूपमागैयाले कैङ्कर्यपर्यन्त मिल्लामल् निल्लादागैयाले कैङ्कर्यमुम् भक्त्यादिसाध्यमान प्राप्तिरूपानुभवत्तिनुडैय कार्यमाय्क् कॊण्डु उपेयमागिऱदॆण्ड्रबडि.   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्तिरूपमान इव्वनुभवत्तिनुडैय परीवाहमाय्क् कॊण्डु कैङ्कर्यमुपेयम्.
+</details>
+
+
+### भगवान्
+
+<details><summary>English</summary>
 
 BHAGAVÃN IS BOTH UPĀYA AND UPEYA:
+</details>
 
-Iśvara is the object of the knowledge which is the means, upāya, and is also the object of the knowledge which is attainment : He is the means or Upāya as being the giver of the (desired) fruit and, likewise. He is Upeya because He is Himself the object that is to be enjoyed. In the case of the mumukṣu who has adopted prapatti as the sole and independent means, Iśvara takes the place of other upāyas. In the case of others also (i, e.) those who adopt bhakti, Iśvara whose favour has been won by prapatti (adopted as an auxiliary means to bhakti) intervenes and, standing in the place of rites and duties which are too hard for them in those situations which lie between the beginning of karma yoga and the completion of the (prescribed) meditation, brings about the removal of sins and the manifestation of sattvam which can result from their performance. He sees to it that the meditation or worship which has been adopted as an upāya is so complete as to bear fruit.
+<details><summary>Español</summary>
+
+BHAGAVÃN IS BOTH UPĀYA AND UPEYA:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् उपाय-रूपम् आय् उम्  
+प्राप्ति-रूपम् आय् उम् इरुक्किऱ ज्ञानत्तुक्कु विषयम् आय्क् कॊण्डु  
+फल-प्रदत्व--भोग्यत्वादि-वेषत्ताल् ए ईश्वरनुक्कु  
+उपायत्वम् उम् उपेयत्वम् उम्.+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्योपाय-रूपस्य प्राप्ति-रूपस्य च ज्ञानस्य विषय-भूतस्य सत ईश्वरस्य  
+फल-प्रदत्व-भोग्यत्वादि वेषेणोपायत्वोपेयत्वे भवतः ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+Iśvara is the object of the knowledge which is the means, upāya,  
+and is also the object of the knowledge which is attainment :  
+He is the means or Upāya as being the giver of the (desired) fruit  
+and, likewise, He is Upeya  
+because He is Himself the object that is to be enjoyed. 
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara is the object of the knowledge which is the means, upāya,  
+and is also the object of the knowledge which is attainment :  
+He is the means or Upāya as being the giver of the (desired) fruit  
+and, likewise, He is Upeya  
+because He is Himself the object that is to be enjoyed. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इव्वुपायरूपमायुम् प्राप्तिरूपमायुमिरुक्किऱ ज्ञानत्तुक्कु विषयमाय्क् कॊण्डु फलप्रदत्वभोग्यत्वादिवेषत्ताले ईश्वरनुक्कु उपायत्वमुम् उपेयत्वमुम्.
+</details>
+
+
+
+In the case of the mumukṣu who has adopted prapatti as the sole and independent means, Iśvara takes the place of other upāyas. In the case of others also (i, e.) those who adopt bhakti, Iśvara whose favour has been won by prapatti (adopted as an auxiliary means to bhakti) intervenes and, standing in the place of rites and duties which are too hard for them in those situations which lie between the beginning of karma yoga and the completion of the (prescribed) meditation, brings about the removal of sins and the manifestation of sattvam which can result from their performance. He sees to it that the meditation or worship which has been adopted as an upāya is so complete as to bear fruit.
 
 KARMA YOGA:
 
