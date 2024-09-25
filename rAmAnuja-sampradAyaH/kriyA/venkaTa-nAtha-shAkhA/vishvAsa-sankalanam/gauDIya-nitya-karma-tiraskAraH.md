@@ -1,9 +1,15 @@
 +++
 title = "गौडीय-नित्य-कर्म-तिरस्कारोऽनुचितः"
 +++
-गौडीयैर् अङ्गीकृतस्य नित्यकर्मत्यागस्य वैष्णवम् प्रत्याख्यानं किञ्चन सतां रञ्जनायात्र प्रस्तुतम् ।   
+गौडीयैर् अङ्गीकृतस्य नित्यकर्मत्यागस्य  
+वैष्णवम् प्रत्याख्यानं किञ्चन  
+सतां रञ्जनायात्र प्रस्तुतम् ।   
 
-## महाभक्तैः नित्य-नैमित्तिक-कर्म-हानम्
+## गौडीय-पक्षः 
+महाभक्तैः नित्य-नैमित्तिक-कर्म-हानम् उक्तं गौडीय-गुरुभिः।  
+तस्य विस्तारः, आकराश् चात्र दीयन्ते।  
+सारो ऽधः "सम्भ्रमः" इति विभागे सुलभः।
+
 ### प्राचीनाः
 #### जीवगोस्वामी 
 ##### नित्य-नैमित्तिक-कर्म-त्यागः
@@ -175,11 +181,6 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
 
 
 
-### मायावाद-प्रभावः
-shrIdhara-svAmI's TIKA of bhAgavata forms the basis of gauDIya commentaries. Hence, their karma-tyAga views are consistent with mAyAvAda.  
-shrIdharI is not more natural at all. It's more a lazy annotation, rather than a proper commentary (many a time he explains one word in a verse and leaves it).  
-Early commentators likely did not have access to - say - vIrarAghava's bhAgavata commentary (0 hits in ShaT-sandarbha).
-
 ### अर्वाचीनाः
 #### सर्व-कर्म-त्याग-पक्षः
 > "A bhakta has no faith in varṇāśrama duties."
@@ -222,6 +223,9 @@ There is no prominent "vaDakalai" type faction among gauDIya-s.
 
 ## प्रत्युक्तिः
 ### धर्म-परित्याग-वचनानि
+धर्म-परित्याग-वचनान्य् एवम् ऋजुतरं स्वारस्येनावगम्यन्ते।  
+सम्भ्रमो दोष-सूचकः। 
+
 The karma-dharma-tyAga conception of bhakti itself is incorrect. What would you say about the bhakti of a servant who refuses to obey your express commands and praises you instead?
 
 Even in gIta bhagavAn says "sarva-dharmAn parityajya" without asking arjuna to abondon the fight (<- tAmasika-tyAga).
@@ -232,8 +236,11 @@ Even in gIta bhagavAn says "sarva-dharmAn parityajya" without asking arjuna to a
 > श्रद्धा यावन् **न जायते**"
 
 In such verses, karma/ dharma should be taken to refer to various non nitya karmas.  
+
 Particularly, rAmAnuja takes such verses to refer to "karma-yoga" - which is understood to be daily scheduled performance of specific services to the Lord - separate from nitya-naimittika-karma-s  
-(where there is no question of abandonment by any dhArmika).
+(where there is no question of abandonment by any dhArmika).  
+Even non-forbidden kAmya-karma-s, without attachment to the fruit or primary doership, is allowed.  
+(यत्राकरणे प्रत्यवायाभावः, करणे ऽभ्युदयो यत्र, तद् अनिषिद्धं काम्यं कर्म। यथा - देवालय-गमनादि।)
 
 This approach is far simpler to understand, defend and practice compared to the confusion and complexity of the approach proposed by bhakti-sandarbha 173. The decision tree instead would be:
 
@@ -331,6 +338,11 @@ shruti and smRti are vaiShNava-shAstra-s only!?
 bhagavAn and service to him is the essence of all shruti and smRti.
 Hence, nityakarmas (unlike kAmyas) therein are instructions to "paramaikAntins" only (ममैवाज्ञा), even if via indra, agni, rudra & co. Obv excludes tAmasika-shAstras.  
 If bhakti were perfected, the bhakta would certainly perform svadharma to the best of his abilities.
+
+### मायावाद-प्रभावः
+shrIdhara-svAmI's TIKA of bhAgavata forms the basis of gauDIya commentaries. Hence, their karma-tyAga views are consistent with mAyAvAda.  
+shrIdharI is not more natural at all. It's more a lazy annotation, rather than a proper commentary (many a time he explains one word in a verse and leaves it).  
+Early commentators likely did not have access to - say - vIrarAghava's bhAgavata commentary (0 hits in ShaT-sandarbha).
 
 
 ## गौडीय-प्रशंसा

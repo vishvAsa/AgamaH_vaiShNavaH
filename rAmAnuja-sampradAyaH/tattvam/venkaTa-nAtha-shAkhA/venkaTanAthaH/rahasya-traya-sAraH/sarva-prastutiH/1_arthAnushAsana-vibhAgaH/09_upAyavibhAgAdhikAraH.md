@@ -615,7 +615,7 @@ they have to be performed without any desire for those fruits.
 ऎल्ला कर्मङ्गळ् उम् अ-प्रधानतया - अद्-आवदु अङ्गतया - ऽनुष्ठेयम् ऎन्गिऱार् "शास्त्रत्ताल् ए" इत्यादियाल्.  
 एतद्-अनुष्ठानोपयुक्ताधिकारत्तैक् काट्टुगिऱार्  
 जीव-परमात्म-याथात्म्य-ज्ञानम् पिऱन्दाल् इति ।  
-इन्द ज्ञानम् इल्लाविडिल्  
+इन्द ज्ञानम् इल्ला-विडिल्  
 निवृत्ति-धर्म-रूपम् आन कर्म-योगत्तिन्-उडैय अनुष्ठानत्तिऱ्‌कु अधिकारिय् आग-माट्टान् इऱे.  
 
 तनक्कु शक्यङ्गळ् आय् इति ।  
@@ -656,19 +656,208 @@ they have to be performed without any desire for those fruits.
 शास्त्रत्ताले जीवपरमात्मयाथात्म्य ज्ञानं पिऱन्दाल् तनक्कु शक्यङ्गळाय् फलसङ्गादिरहितङ्गळान काम्यकर्मङ्गळोडुम् नित्य-नैमित्तिकङ्गळोडुङ्गूडिन सनियममाग परिगृहीतमायिरुक्कुम् कर्मविशेषम्. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् अवान्तर-भेदङ्गळ्  
+“दैवम् एवापरे यज्ञं”(गीता 4-25) ऎण्ड्रु तुडङ्गिच् चॊल्लप्पट्ट  
+देवार्चन-तपस्-तीर्थ-दान-यज्ञादिगळ्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्रावान्तर-भेदाः,  
+"दैवम् एवापरे यज्ञम् " इत्य्-उपक्रम्य गीता  
+देवार्चन-तपस्-तीर्थ-दान-यज्ञादयः । 
+</details>
+
+<details><summary>English</summary>
+
+This karma yoga has several subdivisions  
+described in the śloka s beginning with 
+
+> "Some perform the rites or sacrifices (Yajna)  
+> which are of the nature of the worship of the Gods"  
+> (Bhagavadgītā IV 25.) 
+
+They include such (items) as  
+the adoration of the gods,  
+the performance of austerities (tapas),  
+pilgrimage to sacred places,  
+giving in charity, and sacrifices.
+</details>
+
+<details><summary>Español</summary>
+
+This karma yoga has several subdivisions  
+described in the śloka s beginning with 
+
+> "Some perform the rites or sacrifices (Yajna)  
+> which are of the nature of the worship of the Gods"  
+> (Bhagavadgītā IV 25.) 
+
+They include such (items) as  
+the adoration of the gods,  
+the performance of austerities (tapas),  
+pilgrimage to sacred places,  
+giving in charity, and sacrifices.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्-पडि कर्म-विशेषम् ऎण्ड्रु पॊदुविल् ए सॊन्नाल्  
+अदैय् इन्नद् ऎण्ड्र् अऱिन्दु अनुष्ठिप्पदु शक्यमामोवॆन्न वदिन् स्वरूपभेदङ्गळै सप्रमाणमरुळिच्चॆय्गिऱार् अदिलवान्तरभेदङ्गळित्यादिना । अदिल् - कर्मयोगत्तिल् अवान्तरभेदङ्गळ् - व्याप्यधर्मवत्तुक्कळ्, दैवमेवापरे यज्ञं – देवसम्बन्धिनं यज्ञं, तदर्चनरूपयज्ञमिति यावत् । योगिनः पर्यपासते – वक्ष्यमाणभिन्नाः कर्मयोगनिष्ठा अनुतिष्ठन्तीत्यर्थः । सॊल्लप्पट्ट - श्रीमद्गीतैयिल् नान्गावदु अध्यायत्तिल् सॊल्लप्पट्ट तपः – कृच्छ्र चान्द्रायणादि, तीर्थं – तीर्थयात्रा, दानं – स्वीयार्थस्यस्वस्वत्वनिवृत्तिपूर्वकपरस्वत्वापादनं, यज्ञं – ज्योतिष्टोमादिकळ्. आदिपदात् प्राणायामादिपरिग्रहः ।   
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिलवान्तरभेदङ्गळ् “दैवमेवापरे यज्ञं”(गीता 4-25) ऎण्ड्रु तुडङ्गिच् चॊल्लप्पट्ट देवार्चनतपस्तीर्थदानयज्ञादिगळ्.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अधिकारि-भेदत्ताल् ए प्रपत्ति तान् ए  
+भक्तियैय् इडैय्+++(=मार्गं)+++ इट्ट् उम्  
+इडैय्+++(=मार्गं)+++ इडाद् एय् उम्  
+मोक्ष-हेतुव् आनाऱ्‌ पोल् ए  
+
+इक् कर्म-योगम् ज्ञान-योगत्तैय् इट्ट् उम्  
+इडैय् इडाद् एय् उम्  
+स-परिकरम् आन योगत्तैक् कॊण्डु  
+**आत्मावलोकन-साधनम् आम्**.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अधिकारि-भेदेन प्रपत्तिः स्वयं भक्तिं द्वारी कृत्य अद्वारीकृत्य च यथा मोक्ष-हेतुर् भवति,  
+तथाऽयं कर्म-योगो ज्ञान-योगं द्वारी-कृत्याद्वारी-कृत्य च  
+स-परिकर-योग-मुखेनाऽऽत्मावलोकन-साधनं भवति ॥ 
+</details>
+
+<details><summary>English</summary>
+
+In the same way as,  
+in accordance with the differences of competence,  
+prapatti becomes the means of attaining mukti,  
+either through bhakti  
+or directly by itself and without the intervention of bhakti, 
+
+so also karma yoga,  
+either through Jñāna Yoga or without it,  
+becomes the means of having a vision of one's own ātmā  
+with the help of yogic auxiliaries like yama (self-restraint), niyama (observance of rites) and prāṇāyāma (the control of the breath).
+</details>
+
+<details><summary>Español</summary>
+
+In the same way as,  
+in accordance with the differences of competence,  
+prapatti becomes the means of attaining mukti,  
+either through bhakti  
+or directly by itself and without the intervention of bhakti, 
+
+so also karma yoga,  
+either through Jñāna Yoga or without it,  
+becomes the means of having a vision of one's own ātmā  
+with the help of yogic auxiliaries like yama (self-restraint), niyama (observance of rites) and prāṇāyāma (the control of the breath).
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इनि कर्मयोगत्तिन् कार्यत्तैक् काट्टुगिऱार् अधिकारीति । मेले सॊल्लप् पोगिऱबडि ऒण्ड्रे ऒरु फलत्तिऱ्‌कु सद्वारकमायुम् अद्वारकमायुं साधकमागक् कूडुमो? ओर् अधिकारिक्कु अप्पडि साधकमागादानालुम् अधिकारिभेदत्ताले अप्पडि साधकमागक्कूडुमॆन्निल्? अदु यॆङ्ङने ऎन्नवरुळिच्चॆय्गिऱार् अधिकारिभेदत्ताले इत्यादिना । सद्वारकप्रपत्तिनिष्ठनुक्कु सकिञ्चनत्वरूपाधिकारिभेदत्तालुम्.अद्वारकप्रपत्तिनिष्ठनुक्कु अकिञ्चनत्वरूपाधिकारिभेदत्तालुम्. प्रपत्ति ताने - ऒरु प्रपत्तिये, भक्तियै यिडैयिट्टुम् - भक्तियै द्वारमागक्कॊण्डुम्, सकिञ्चनन् विषयत्तिल् भक्तियै द्वारकमागक्कॊण्डुम्, इडैयिडादेयुम् - अकिञ्च्नन् विषयत्तिल् भक्तियै यिडैयिडादेयुम्, साक्षात्ताकवे यॆण्ड्रबडि. मोक्षहेतुवानाऱ्‌पोले - मोक्षरूप ऒरु फलत्तुक्कुक् कारणमानाप्पोले.  
+इक् कर्मयोगमिति । अधिकारिभेदत्ताले इत्यनुषज्यते ।  
+
+इङ्गु कर्मयोगानुष्ठातावुक्कु शिष्टतया व्यपदेश्यत्वम् उम्,  
+निष्प्रमाद-सुकरोपायाभिलाषित्वम् उम् अधिकारिभेदम्.  
+
+ज्ञानयोगानुष्ठातावुक्कु शिष्टतया व्यपदेश्यत्वम् इल्लामैय् उम्,  
+दुष्करोपायत्तैय् उम् मुडिक्कलाम् ऎण्ड्र धैर्यम् उम्,  
+तन्-निर्वहण-सामर्थ्यम् उम् अधिकारिभेदम्.+++(5)+++  
+इप्-पडिप्-पट्ट अधिकारि-भेदत्ताल् ऎण्ड्र-बडि.  
+
+ज्ञान-योगत्तैय् इडैय् इट्टुम् -  
+दुष्करोपाय-निर्वहण-समर्थन् विषयत्तिल्  
+ज्ञानयोगत्तै द्वारीकरित्तुम्,  
+इडैयिडादेयुम् - शिष्टतया व्यपदेश्यनाय् निष्प्रमाद-सुकरोपायाभिलाषिय् उम् आन कर्म-योगाधिकारि-विषयत्तिल्  
+ज्ञान-योगत्तै द्वारीकरिक्कामल् उम्,  
+साक्षात्ताकव् एय् ऎण्ड्र बडि.  
+
+सपरिकरमान योगत्तैक्कॊण्डु इति ।  
+इङ्गु परिकरम् आवदु - यम-नियमासनादिगळ्.  
+योगम् आवदु - भविष्यद्-आत्म-साक्षात्कारानुगुण--चित्त-वृत्ति-निरोध-रूपम् आन व्यापारम्.  
+अदैक् कॊण्डु - अदै द्वारी-करित्तु,  
+आत्मावलोकन-साधनम् आम् -  
+स्व--स्व-रूप-साक्षात्कारत्तिऱ्‌कु साधनम् आम् ऎन्गै.  
+तथाच ऎप्पडि ऒरु प्रपत्तितान् ए स-किञ्चनाकिञ्चनाधिकारि-भेदत्ताल्  
+भक्तियै द्वारीकरित्तुं साक्षात्तायुम् मोक्षसाधनमागलामॆण्ड्रु शास्त्रसिद्धमो  
+अप्पडिये इक्कर्मयोगमुं शक्ताशक्ताधिकारिभेदत्ताले ज्ञानयोगत्तै द्वारीकरित्तुं साक्षात्तागवुं सपरिकरयोगसहकारत्ताले आत्मसाक्षात्कारसाधनमागलामॆन् पदुं शास्त्रसिद्धमॆण्ड्रु करुत्तु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अधिकारिभेदत्ताले प्रपत्तिताने भक्तियै यिडैयिट्टु मिडैयिडादेयुम् मोक्षहेतुवानाऱ्‌पोले इक्कर्मयोगम् ज्ञानयोगतैयिट्टुमिडैयिडादेयुम् सपरिकरमान योगत्तैक्कॊण्डु आत्मावलोकनसाधनमाम्.
+</details>
+
+
+## ज्ञान-योगः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-योगम् आवदु—  
+कर्म-योगत्ताल् **अन्तः-करण-जयम्** पिऱन्दवनुक्कु  
+
+प्रकृत्य्-आदि-विलक्षणम् आय्,  
+ईश्वरनैप् पट्र आधेयत्व-विधेयत्व-शेषत्वङ्गळाल् ए  
+शरीरतया प्रकारम् आन तन्-स्वरूपत्तै  
+
+**निरन्तर-चिन्तनम्** पण्णुगै. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ज्ञानयोगो नाम -  
+कर्म-योगोत्पन्नान्तः-करण-जयेन पुंसा  
+प्रकृत्य्-आदि-विलक्षणस्य,  
+ईश्वरं प्रत्य् आधेयत्व-विधेयत्व-शेषत्वैः शरीरतया  
+स्वस्वरूपस्य निरन्तर-चिन्तन-करणम् । 
+</details>
+
+<details><summary>English</summary>
+
+Jñāna Yoga is the constant and uninterrupted contemplation,  
+by one who has conquered his mind by karna-yoga,  
+of his svarūpa or essential nature or the self as being distinct from matter, (the body, the senses and the like) -  
+his svarūpa which is the mode or prakāra of Iśvara  
+in virtue of its relation to Him as His body or śarīra.  
+The self is the body of Iśvara ( as has been already pointed out)  
+because it is supported and controlled by Him and serves His purposes.
+</details>
+
+<details><summary>Español</summary>
+
+Jñāna Yoga is the constant and uninterrupted contemplation,  
+by one who has conquered his mind by karna-yoga,  
+of his svarūpa or essential nature or the self as being distinct from matter, (the body, the senses and the like) -  
+his svarūpa which is the mode or prakāra of Iśvara  
+in virtue of its relation to Him as His body or śarīra.  
+The self is the body of Iśvara ( as has been already pointed out)  
+because it is supported and controlled by Him and serves His purposes.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इनि ज्ञानयोगत्तै अरुळिच्चॆय्गिऱार् ज्ञानयोगमावदु इत्यादिना । इदऱ्‌कु तन् स्वरूपत्तै निरन्तरचिन्तनम् पण्णुगै यॆन्बदोडन्वयम्. तन् स्वरूपत्तै यॆण्ड्रदाल् भगवत्स्वरूपचिन्तनरूपभक्तियोगव्यावृत्तिः । निरन्तर ऎन्बदाल् श्रवणमनन रूप कादाचित्कात्मचिन्तनव्यावृत्तिः । चिन्तनमॆण्ड्रदाल् ज्ञानयोगफलमान आत्मावलोकनव्यावृत्तिः । इन्द ज्ञानयोगाधिकारिक्कुं कर्मयोगं वेण्डुमोवॆण्ड्रु शङ्कियामैक्काग कर्मयोगत्तालि त्यादि । अन्तःकरणजयम् पिऱन्दालल्लदु ज्ञानयोगं सिद्धियादागैयाल् अदऱ्‌काग अवनुक्कुं कर्मयोगमावश्यकमॆण्ड्रु सूचिप्पिक्कैक्काग कर्मयोगत्ताल् अन्तःकरणजयम् पिऱन्दवनुक्कॆण्ड्रु हेतुहेतुमद्भावेन निर्देशित्तदु. अन्द निरन्तरचिन्तनत्तिल् विजातीयभ्रमं कलसामैक्काग प्रकृत्यादिविलक्षणमायिदि स्वरूपविशेषणम्. आदिपदात् बुद्धिपरिग्रहः । स्वतन्त्रात्मभ्रमं कलसामैक्काग ईश्वरनैप्पट्र आधेयत्वेति । इङ्गु आधेयत्वविधेयत्वशेषत्वङ्गळाले शरीरतया चिन्तनम् पण्णुगैयॆण्ड्रु चिन्तनविशेषणतया निर्देशिक्कामल् शरीरतया प्रकारमान तन् स्वरूपत्तै यॆण्ड्रु स्वरूपविशेषणतया निर्देशित्तदाल् आधेयत्वादिकळ् ज्ञानयोगत्तिले चिन्तनीयगुणङ्गळण्ड्रु ऎण्ड्रु ज्ञापिक्कप्पट्टदु. ज्ञानयोगत्तिल् नित्यत्वज्ञानत्वादि कळॊऴिय आधेयत्वादिकळ् वेद्यङ्गळण्ड्रॆन्नुमिडं श्रीमत्तात्पर्यचन्द्रिकैयिल् स्पष्टम्. तन् स्वरूपत्तै इति । स्वरूपनिरूपकङ्गळान नित्यत्वज्ञानत्वानन्दत्वामलत्वाहन्त्वादिकळाले विशिष्टस्वस्वरूपत्तै यॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानयोगमावदु— कर्मयोगत्ताल् अन्तःकरणजयम् पिऱन्दवनुक्कु प्रकृत्यादि-विलक्षणमाय् ईश्वरनैप्पट्र आधेयत्वविधेयत्वशेषत्वङ्गळाले शरीरतया प्रकार मान तन्स्वरूपत्तै निरन्तरचिन्तनम् पण्णुगै. 
+</details>
 
 
 
 
-This karma yoga has several subdivisions described in the śloka s beginning with "Some perform the rites or sacrifices (Yajna) which are of the nature of the worship of the Gods" (Bhagavadgītā IV 25.) They include such (items) as the adoration of the gods, the performance of austerities (tapas), pilgrimage to sacred places, giving in charity, and sacrifices.
-
-In the same way as, in accordance with the differences of competence, prapatti becomes the means of attaining mukti, either through bhakti or directly by itself and without the intervention of bhakti, so also karma yoga, either through Jñāna Yoga or without it, becomes the means of having a vision of one's
-
-or ātmā with the help of yogic auxiliaries like yama (self-rest raint), niyama (observance of rites) and prāṇāyāma (the control of the breath).
-
-JÑĀNA YOGA:
-
-Jñāna Yoga is the constant and uninterrupted contemplation, by one who has conquered his mind by karna-yoga, of his svarūpa or essential nature or the self as being distinct from matter, (the body, the senses and the like) - his svarūpa which is the mode or prakāra of Iśvara in virtue of its relation to Him as His body or śarīra. The self is the body of Iśvara ( as has been already pointed out) because it is supported and controlled by Him and serves His purposes.
 
 If a person has succeeded in attaining to a vision of his self ( ātmāvalokana) by the practice of yoga preceded by karma yoga and Jñāna yoga and if he escapes the spare of being (permanently) attracted by the pleasure of enjoying this vision which is so great as to create a distaste for all sense-pleasures - then he begins the practice of bhakti yoga which is (the direct) means for the attainment of the supreme goal of enjoying Bhagavān. While practising bhaktiyoga, the aspirant contemplates on Bhagavān as the Inner Self, or antaryāmin of his own self which is His body. The vision that he has (already ) acquired of his own pure self is then useful, for it is only through it that he reaches its Inner Self, just as the cloth within which a gem is tied up is first to be seen before the gem itself can be seen. In this way the vision of one's self serves as a qualification for the practice of bhakti yoga.
 
