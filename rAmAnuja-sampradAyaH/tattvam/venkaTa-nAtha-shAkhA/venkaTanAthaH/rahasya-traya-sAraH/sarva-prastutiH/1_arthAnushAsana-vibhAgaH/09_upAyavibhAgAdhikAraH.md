@@ -818,7 +818,7 @@ with the help of yogic auxiliaries like yama (self-restraint), niyama (observanc
 ज्ञानयोगो नाम -  
 कर्म-योगोत्पन्नान्तः-करण-जयेन पुंसा  
 प्रकृत्य्-आदि-विलक्षणस्य,  
-ईश्वरं प्रत्य् आधेयत्व-विधेयत्व-शेषत्वैः शरीरतया  
+ईश्वरं प्रत्य् आधेयत्व-विधेयत्व-शेषत्वैः शरीरतया प्रकारभूतस्य  
 स्वस्वरूपस्य निरन्तर-चिन्तन-करणम् । 
 </details>
 
@@ -856,14 +856,153 @@ because it is supported and controlled by Him and serves His purposes.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक्-कर्म-योग--ज्ञान-योगङ्गळाल् ए  
+योग-मुखत्ताल् ए आत्मावलोकनम् **पिऱन्दाल्**  
+वैषयिक-सुख-वैतृष्ण्यावहम् आन आत्मानुभव-सुखम् आगिऱ आकर्षकत्तिल्  **अगप्+++(=अन्तः)+++-पट्ट्-इलन् आगिल्**  
+परम-पुरुषार्थम् आन भगवद्-अनुभवत्तुक्कु उपायम् आन भक्ति-योगत्तिल् एय् **इऴियुम्-पोदु**  
+उळ्ळ् इरुक्किऱ रत्नङ्-काण्गैक्कुक् किऴिच्-चीरैक्+++(=शाटीं)+++ कण्डाऱ्‌-पोल् ए+++(5)+++  
+अन्तर्-यामियैप् पार्क्कुम्-पोदैक्कु  
+अवन्-उडैय शरीर-भूतन् आन जीवात्माविन्-उडैय दर्शनम् **उपयुक्तम्** आय्क्-कॊण्डु  
+भक्ति-योगत्तुक्कु अधिकार-कोटियिल् एय् **एऱ्-इट्टुक् किडक्कुम्**.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आभ्यां +++(कर्म-योग--ज्ञान-योगाभ्यां)+++  
+योग-मुखेनाऽऽत्मावलोकने निष्पन्ने सति —  
+वैषयिक-सुख-वैतृष्ण्यावहे आत्मानुभव-सुख-रूपे आकर्षके अनिमग्नश् चेत् (अलग्नश् चेत् ),  
+तर्हि परम-पुरुषार्थ-भूतस्य भगवद्-अनुभवस्योपाये भक्ति-योगे प्रवृत्तस्य  
+तदा, अन्तः-स्थ-रत्न-दर्शनार्थं वस्त्र-ग्रन्थि-दर्शनवत्,+++(5)+++  
+अन्तर्यामि-दर्शनार्थं तच्-छरीर-भूत--जीवात्म-दर्शनम् **उपयुक्तं**  
+भक्ति-योगाधिकार-कोटौ **निविशते** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+If a person has succeeded in attaining to a vision of his self ( ātmāvalokana)  
+by the practice of yoga preceded by karma yoga and Jñāna yoga  
+and if he escapes the snare of being (permanently) attracted by the pleasure of enjoying this vision  
+which is so great as to create a distaste for all sense-pleasures -  
+then he begins the practice of bhakti yoga  
+which is (the direct) means for the attainment of the supreme goal of enjoying Bhagavān.  
+While practising bhaktiyoga, the aspirant contemplates on Bhagavān  
+as the Inner Self, or antaryāmin of his own self which is His body.  
+The vision that he has (already ) acquired of his own pure self is then useful,  
+for it is only through it that he reaches its Inner Self,  
+just as the cloth within which a gem is tied up is first to be seen  
+before the gem itself can be seen.  
+In this way the vision of one's self  
+serves as a qualification for the practice of bhakti yoga.
+</details>
+
+<details><summary>Español</summary>
+
+If a person has succeeded in attaining to a vision of his self ( ātmāvalokana)  
+by the practice of yoga preceded by karma yoga and Jñāna yoga  
+and if he escapes the snare of being (permanently) attracted by the pleasure of enjoying this vision  
+which is so great as to create a distaste for all sense-pleasures -  
+then he begins the practice of bhakti yoga  
+which is (the direct) means for the attainment of the supreme goal of enjoying Bhagavān.  
+While practising bhaktiyoga, the aspirant contemplates on Bhagavān  
+as the Inner Self, or antaryāmin of his own self which is His body.  
+The vision that he has (already ) acquired of his own pure self is then useful,  
+for it is only through it that he reaches its Inner Self,  
+just as the cloth within which a gem is tied up is first to be seen  
+before the gem itself can be seen.  
+In this way the vision of one's self  
+serves as a qualification for the practice of bhakti yoga.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इक्कर्मयोगज्ञानयोगङ्गळुक्कु आत्मावलोकनसाधनत्वमिरुन्दालुम् भगवदुपासनोपयोगित्वमुण्डो? उण्डागिलदॆप्पडियॆन्नवरुळिच् चॆय्गिऱार् इक्कर्मयोगेत्यादिना । आत्मावलोकनम् पिऱन्दालित्यन्तम् पूर्वोक्तानुवादम्. पिऱन् दाल् - पिऱन्दबिन्, आत्मावलोकनम् पिऱन्दालिदु ‘‘सुखमात्यन्तिकं यत्तत्’’ ‘‘यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः’’ ऎन्गिऱबडि स्वेतरसमस्तसुखवैतृष्ण्यावहमान आत्मानुभवसुखत्तोडु सेर्न्दे यिरुक्कुमागैयाल् स्वविषयत्तिलेये आकर्षकमाग मुडियुमागैयाल् उपासनोपयुक्तमागुमो? वॆन्नवरुळिच्चॆय्गिऱार् वैषयिकसुखेत्यादि । वैषयिकसुखं – शब्दादिविषयानुभवत्तालुण्डागुं सुखम्. वैतृष्ण्यावहमान - अदिनासैयैप् पोक्कडिक्कक्कूडियदान, आकर्षकत्तिल् - वलैयिल्. अगप्पट्टिलनागिलिति । इदिलगप्पडाद धीरनुमॊरुवन् सम्भावितनागैयाल् अवनुक्किदु उपासनोपयुक्त मागुमॆण्ड्रु तिरुवुळ्ळम्.  
+परमपुरुषार्थमान भगवदनुभवत्तुक्कु उपायमान भक्तियोगत् तिले इति ।  
+आत्मानुभवं वैषयिकसुखातिशयितमागैयाले तद्वैतृष्ण्यावहमाय्,  आकर्षकम् आयिरुन्दालुं  
+सर्वातिशायियाय् परमपुरुषार्थमान भगवदनुभवम् आत्मानुभववैतृष्ण्यावहमायुम् आत्मानुभवरसिकनैयुम् 
+
+> ‘‘भोगा इमे विधि-शिवादि-पदं च किञ्च  
+> स्वात्मानुभूतिरिति या किल मुक्तिरुक्ता ।  
+> सर्वं तद् ऊष+++(र)+++-जल+++(=मृग-तृष्णिका)+++-जोषम् अहं जुषेय’’ 
+
+ऎन्नुम्बडि आकर्षिक्कवल्लदायुमिरुप्पदाल् तादृशानुभवत्तिऱ्‌कु उपायमान भक्तियोगत्तिलेयॆन्नबडि.  
+इदनाल् कर्म-योग--ज्ञान-योगङ्गळाल् योग-द्वारा आत्मानुभवत्तैय् अडैन्द ऒरुवन्,  
+"इदु अल्प-सुखम्, भगवद्-अनुभवं सर्वापेक्षयाप्य् अतिशयित सुखम्"  
+ऎण्ड्रु तॆळिन्द् आनागिल्  
+अवन् आत्मावलोकनत्तै विट्टु  
+भगवदनुभवोपायमान भक्तियोगत् तैयेयवलम्बिप्पनॆण्ड्रु सूचिप्पिक्कप्पट्टदु.  
+इऴियुम् पोदु - भक्तियोगत्तैप् पण्णवारम्भिक्कुम्बोदु. इप्पडि आत्मानुभवमुळ्ळ ऒरुवन् आत्मानुभवसुखत्तिल् अगप्पडामल् भगवदनुभवसुखहेतुवान भक्तियोगत्तिलिऴिवनॆण्ड्राल् आत्मानुभवत्ताल् भक्तियोगविषयत्तिल् सॆय्यप्पडुम् उपकारमॆन् ऎन्न? अन्द उपाकारप्रकारत्तै सदृष्टान्तमाग वरुळिच्चॆय्गिऱार् उळ्ळिरुक्किऱ रत्नङ्गाण्गैक्कु इत्यादिना ।  
+ऒरुवन् अत्युत्कृष्टमान रत्नत्तै ऒरु सिन्न वस्त्रत्तिले मुडिन्दु मडियिले वैत्तिरुन्दु अदै कैसोरविट्टु अदैक् काणवेणुमॆन्गिऱ आसैयिनाल् तेडिक्कॊण्डिरुक्कुम्बोदु भाग्यवशत्ताल् अन्द रत्नसंवरणमान अन्द वस्त्रत्तैक् कण्डाल् अदिनुळ्ळिरुक्कुं रत्नत्तैक् काण्बदऱ्‌कु अधिकारियानाप्पोले यॆन्बदु दृष्टान्तवाक्यत्तिन् तात्पर्यम्. इनि दार्ष्टान्तिकत्तै उपपादित्तु आत्मदर्शनत्तै भक्तियोगाधिकारापादकमॆन्गिऱार् अन्तर्यामीत्यादिना ।  
+अन्तर्यामियैप् पार्क्कुम्बोदैक्कॆण्ड्रदु उळ्ळिरुक्किऱ रत्नङ्गाण्गैक्कु ऎन्गिऱ दृष्टान्ततुल्यम्; अदिलन्तर्यामि रत्नतुल्यम्. अवनुडैय शरीरभूतनान जीवात्माविनुडैय दर्शनमॆन्बदु किऴिच्चीरैक् कण्डाप्पोले ऎन्गिऱ दृष्टान्ततुल्यम्. शरीरभूतनान जीवात्मा किऴिच्चीरै तुल्यम्, उपयुक्त माय्क्कॊण्डु - हेतुवाय्क्कॊण्डु. भक्तियोगत्तिले परमात्मस्वरूपमात्र मण्ड्रिक्के यवनुक्कु जीवान्तर्यामित्वमुं ध्येयमागैयाले अदिल् प्रतिसम्बन्धिज्ञानत्वेन जीवात्मदर्शनमुम् उपयुक्तमागैयाले अन्यनान जीवात्माविनुडैय दर्शनत्तिऱ्‌कु अन्यनान भगवानुडैय भक्त्युपयुक्तत्वम् ऎप्पडि यॆन्गिऱ चोद्यत्तिऱ्‌कु इङ्गु अवकाशमिल्लै. 
+भक्तियोगत्तुक्कु अधिकारकोटियिलेयेऱिट्टुक्किडक्कुमिति ।  
+इतरविरक्तनाय् परमपुरुषार्थैकरसिकनान इवन् बुद्धियाले तनक्कु भक्तियोगाधिकारत्वेन उपयुक्ताकारङ्गळिल् इदुवुमॊण्ड्रॆण्ड्रु अप्राधान्येन निनैक्कप्पट्टिरुक्कुमॆन्नबडि. इदनाल् ‘‘परमात्मनि यो रक्तो विरक्तोऽपरमात्मनि’’ ऎन्नुम्बडियिरुक्किऱ परमैकान्तियान इव्वधिकारिक्कु इज्जीवदर्शनम् प्रयोज-नान्तरमाग मुडियादोवॆन्गिऱ चोद्यत्तिऱ्‌कवगाशमिल्लै. आगैयालेयिऱे इजीजीवदर्शनत्तुक्कु अत्यन्तानुपयुक्तमान किऴिच् चीरैयिनुडैय दर्शनं दृष्टान्तमागच् चॊल्लप्पट्टदु. इव्वधिकारिक्कु जीवदर्शनं किऴिच्चीरै दर्शनम्बोलिरुक्कुमत्तनै पोक्कि सुखमाग तोट्रादु ऎण्ड्रभिप्रायम्.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इक्कर्मयोगज्ञानयोगङ् गळाले योगमुखत्ताले आत्मावलोकनम् पिऱन्दाल् वैषयिकसुखवैतृष्ण्यावहमान आत्मानुभवसुखमागिऱ आकर्षकत्तिल् अगप्पट्टिलनागिल् परमपुरुषार्थमान भगवदनुभवत्तुक्कु उपायमान भक्तियोगत्तिलेयिऴियुम्-पोदु उळ्ळिरुक्किऱ रत्नङ्गाण्गैक्कुक् किऴिच्चीरैक् कण्डाऱ्‌पोले अन्तर्यामियैप् पार्क्कुम्बोदैक्कु अवनुडैय शरीरभूतनान जीवात्माविनुडैय दर्शनम् उपयुक्तमाय्क्कॊण्डु भक्तियोगत्तुक्कु अधिकारकोटियिले येऱिट्टुक् किडक्कुम्.
+</details>
+
+
+## भक्ति-योगः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**भक्ति-योगम्** आवदु —  
+अन्-अन्य-निष्ठन् आय्, अन्-अन्याधीनन् आय्, अन्-अन्य-शेष-भूतन् आन भगवान्-उडैय स्वरूपादिगळै  
+विषयम् आगव्-उडैत्त् आय्  
+निरतिशय-प्रीति-रूपम् आन **ध्यान-विशेषम्**. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भक्तियोगो नाम -  
+अनन्य-निष्ठ-अनन्याधीन-अनन्य-शेष-भूत--भगवत्-स्वरूपादि-विषयको  
+निरतिशय-प्रीति-रूपो ध्यान-विशेषः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Bhakti yoga is the special form of meditation  
+which is of the nature of unsurpassed love  
+and which has, for its object, the essential nature and the like (form, qualities, etc.) of Bhagavān  
+who is not dependent on any one else,  
+who is not subject to the authority of any one else  
+and who does not exist for the fulfilment of the purposes of any one else.  
+</details>
+
+<details><summary>Español</summary>
+
+Bhakti yoga is the special form of meditation  
+which is of the nature of unsurpassed love  
+and which has, for its object, the essential nature and the like (form, qualities, etc.) of Bhagavān  
+who is not dependent on any one else,  
+who is not subject to the authority of any one else  
+and who does not exist for the fulfilment of the purposes of any one else.  
+</details>
+
+<details><summary>हिन्दी</summary>
+
+इनि आत्मावलोकनसाध्यमान भक्तियोगत्तै निरूपिक्किऱार् भक्तियोगमावदु इत्यादिना । इदऱ्‌कु भगवानुडैय स्वरूपादिकळै विषयमागवुडैत्ताय् निरतिशयप्रीतिरूपमान ध्यानविशेषमॆन्बदोडु अन्वयम्. ध्यानशब्दत्ताले स्तुतिनमस्कारादिरूपमान प्रेमभक्तिव्यावृत्तिः । विशेषशब्दत्ताले प्राप्यदशैयिल् वरक्कूडिय फलरूपभक्तिव्यावृत्तिः । निरतिशय ऎण्ड्रदाल् आत्मावलोकनसाधनसातिशयप्रीतिरूपापन्नध्यानव्यावृत्तिः ।  
+प्रीतिरूपत्वोक्त्या ध्यानत्तिऱ्‌कु भक्तिरूपत्वमप्युक्तं भवति ।  
+‘‘प्रीति-पूर्वम् अनुध्यानं भक्तिर् इत्य् अभिधीयते’’ ऎन्नप्पट्टदिऱे.  
+भगवत्स्वरूपादिविषयत्वोक्त्या जीवविषयक ज्ञानयोगव्यावृत्तिः ।  
+इङ्गु आदिशब्दत्ताल् गुणविग्रहादिसङ्ग्रहः ।  
+अनन्यनिष्ठत्वादि विशेषणत्रयम् मूलमन्त्रत्तिल् प्रातिलोम्येन पदत्रयविवक्षितार्थम्.+++(5)+++ इदनाल् स्वरूपत्तै विशेषिक्कामल् भगवच्छब्दार्थत्तै विशेषित्तदालिदु भगवानुडैय स्वरूपकथनमेयॊऴिय ध्यानत्तिल् विषयमागवेण्डिय गुणकथनमण्ड्रॆण्ड्रु ज्ञापितमागिऱदु. आनालिदैयिङ्गु सॊल्लु वानेनॆनिल् ध्यानत्तिल् परावरतत्त्वङ्गळिल् माऱाट्टं कलसामैक्काग.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भक्तियोगमावदु — अनन्यनिष्ठनाय् अनन्याधीननाय् अनन्यशेषभूतनान भगवानुडैय स्वरूपादिगळै विषयमागवुडैत्ताय् निरतिशयप्रीतिरूपमान ध्यानविशेषम्. 
+</details>
 
 
 
-If a person has succeeded in attaining to a vision of his self ( ātmāvalokana) by the practice of yoga preceded by karma yoga and Jñāna yoga and if he escapes the spare of being (permanently) attracted by the pleasure of enjoying this vision which is so great as to create a distaste for all sense-pleasures - then he begins the practice of bhakti yoga which is (the direct) means for the attainment of the supreme goal of enjoying Bhagavān. While practising bhaktiyoga, the aspirant contemplates on Bhagavān as the Inner Self, or antaryāmin of his own self which is His body. The vision that he has (already ) acquired of his own pure self is then useful, for it is only through it that he reaches its Inner Self, just as the cloth within which a gem is tied up is first to be seen before the gem itself can be seen. In this way the vision of one's self serves as a qualification for the practice of bhakti yoga.
-
-BHAKTI YOGA:
-
-Bhakti yoga is the special form of meditation which is of the nature of unsurpassed love and which has, for its object, the essential nature and the like (form, qualities, etc.) of Bhagavān who is not dependent on any one else, who is not subject to the authority of any one else and who does not exist for the fulfilment of the purposes of any one else. Bhakti is of the form of a continuous stream of knowledge which is of the nature of uninterrupted memory like oil streaming down continuously; it has clearness similar to that of visual perception; it grows from strength to strength by being practised every day until the day of journey to Paramapada and terminates in the remembrance of the last moment. The performance of the rites and duties of one's varṇa and āśrama is auxiliary to it (bhakti yoga ), as it dispels sins that cause rajas and tamas, which, like weeds, impede the growth of sattvam so necessary for the expansion of knowledge. This bhakti yoga is also a means or sadhana in accordance with the specific desire of the sādhaka, for acquiring lordship (in this world or in svarga) and other fruits (like kaivalya). This is. calculated to strengthen the faith of the weak-minded as stated in the śloka  ; "Worldly' benefits have also been mentioned as arising from bhakti-yoga. They produce confidence in the attainment of mukti (by verifying what is stated in the śāstra  from the example of these worldly benefits). This idea is expressed in the śloka  in the Gita (7-16) which says: "Four kinds of persons worship me etc.” The superiority of the Jnāni which is stated there in the words, " Among them, the Jñāni is the best because he desires to be always with Bhagavān and is devoted solely and exclusively to Him" is thus described by Bhagavān Himself com " Four *kinds of people are my men. They are all devotees (bhaktas). Of them they who worship me alone exclusively are the best, for they do not approach other deities. They perform the prescribed rites and duties without caring for their fruits and desire to attain me alone. The other three kinds of devotees desire ( worldly) fruits which have an end and they are subject to lapses. The wise man who worships me with sole and exclusive devotion attains mokṣa ."
+Bhakti is of the form of a continuous stream of knowledge which is of the nature of uninterrupted memory like oil streaming down continuously; it has clearness similar to that of visual perception; it grows from strength to strength by being practised every day until the day of journey to Paramapada and terminates in the remembrance of the last moment. The performance of the rites and duties of one's varṇa and āśrama is auxiliary to it (bhakti yoga ), as it dispels sins that cause rajas and tamas, which, like weeds, impede the growth of sattvam so necessary for the expansion of knowledge. This bhakti yoga is also a means or sadhana in accordance with the specific desire of the sādhaka, for acquiring lordship (in this world or in svarga) and other fruits (like kaivalya). This is. calculated to strengthen the faith of the weak-minded as stated in the śloka  ; "Worldly' benefits have also been mentioned as arising from bhakti-yoga. They produce confidence in the attainment of mukti (by verifying what is stated in the śāstra  from the example of these worldly benefits). This idea is expressed in the śloka  in the Gita (7-16) which says: "Four kinds of persons worship me etc.” The superiority of the Jnāni which is stated there in the words, " Among them, the Jñāni is the best because he desires to be always with Bhagavān and is devoted solely and exclusively to Him" is thus described by Bhagavān Himself com " Four *kinds of people are my men. They are all devotees (bhaktas). Of them they who worship me alone exclusively are the best, for they do not approach other deities. They perform the prescribed rites and duties without caring for their fruits and desire to attain me alone. The other three kinds of devotees desire ( worldly) fruits which have an end and they are subject to lapses. The wise man who worships me with sole and exclusive devotion attains mokṣa ."
 
 Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. Love of the Lord which results from intimacy with sāttvikas (and the scriptures ) and which produces parābhakti is also called bhakti, because it generates an eager desire to know Iśvara with perfect clearness. It has been said: "Owing to smy devotion to the Lord and to my gurus, I have attained spiritual purity and come to know Janārdana with the help of the Śāstras." (So parābhakti is born successively of a knowledge of the truth obtained from the śāstras which leads to karma yoga and the like). It (parābhakti) produces in its turn an eager desire and determination to see the Lord and makes the man cry out as follows- "O Lord, 'who art the abode of attributes like jñāna, be pleased to show Thy whole self 1" “Vouchsafe Thy grace so that I may see Thee": "May I see Thee some day!" By this keen desire alone, he wins the grace of Bhagavān who rewards him with a perfect visual perception of himself for the time being. This visual perception is called parajñāna. From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
 
