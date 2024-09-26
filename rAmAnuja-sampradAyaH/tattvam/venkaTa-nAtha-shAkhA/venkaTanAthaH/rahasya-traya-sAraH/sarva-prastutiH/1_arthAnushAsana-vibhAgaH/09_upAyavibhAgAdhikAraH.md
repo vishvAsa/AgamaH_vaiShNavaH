@@ -1130,9 +1130,91 @@ so necessary for the expansion of knowledge.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-भक्ति-योगन् तान् ए  
+
+> “प्रत्ययार्थं च मोक्षस्य  
+> सिद्धयस् संप्रकीर्तिताः”(सात्त्वत-संहितै.) 
+
+ऎन्गिऱ पडिय् ए  
+इळ+++(=बाल)+++-नॆञ्जरैत्त्+++(=हृदयान्)+++ एट्रुगैक्कु  
+इट्ट विरग्+++(=उपायम्)+++ आन वऴियिल्  
+कामना-भेदत्ताल् ए ऐश्वर्यादिगळुक्क् उम् साधनम्  
+ऎन्नुम् इव्व्-अर्थम्  
+
+“चतुर्विधा भजन्ते मां”(गीता 7-16.) ऎण्ड्रु सॊल्लप्-पट्टदु.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं भक्तियोगः, 
+
+> "प्रत्ययार्थं च मोक्षस्य  
+> सिद्धयः संप्रकीर्तिताः" 
+
+इत्य्-उक्त-रीत्या दुर्बल-चितानां विश्वास-जननार्थं विहितोपाय-नीत्या  
+कामना-भेदेनैश्वर्यादीनां साधनं भवतीत्य् अयम् अर्थः,  
+"" चतुर्विधाः भजन्ते माम्" इति गीतः । 
+</details>
+
+<details><summary>English</summary>
+
+This bhakti yoga is also a means or sadhana  
+in accordance with the specific desire of the sādhaka,  
+for acquiring lordship (in this world or in svarga) and other fruits (like kaivalya).  
+This is calculated to strengthen the faith of the weak-minded as stated in the śloka  ;  
+
+> "Worldly benefits have also been mentioned as arising from bhakti-yoga.  
+They produce confidence in the attainment of mukti  
+> (by verifying what is stated in the śāstra  from the example of these worldly benefits). 
+
+This idea is expressed in the śloka  in the Gita (7-16)  
+which says: "Four kinds of persons worship me etc.”  
+
+</details>
+
+<details><summary>Español</summary>
+
+This bhakti yoga is also a means or sadhana  
+in accordance with the specific desire of the sādhaka,  
+for acquiring lordship (in this world or in svarga) and other fruits (like kaivalya).  
+This is calculated to strengthen the faith of the weak-minded as stated in the śloka  ;  
+
+> "Worldly benefits have also been mentioned as arising from bhakti-yoga.  
+They produce confidence in the attainment of mukti  
+> (by verifying what is stated in the śāstra  from the example of these worldly benefits). 
+
+This idea is expressed in the śloka  in the Gita (7-16)  
+which says: "Four kinds of persons worship me etc.”  
+
+</details>
 
 
-This bhakti yoga is also a means or sadhana in accordance with the specific desire of the sādhaka, for acquiring lordship (in this world or in svarga) and other fruits (like kaivalya). This is. calculated to strengthen the faith of the weak-minded as stated in the śloka  ; "Worldly' benefits have also been mentioned as arising from bhakti-yoga. They produce confidence in the attainment of mukti (by verifying what is stated in the śāstra  from the example of these worldly benefits). This idea is expressed in the śloka  in the Gita (7-16) which says: "Four kinds of persons worship me etc.” The superiority of the Jnāni which is stated there in the words, " Among them, the Jñāni is the best because he desires to be always with Bhagavān and is devoted solely and exclusively to Him" is thus described by Bhagavān Himself com " Four *kinds of people are my men. They are all devotees (bhaktas). Of them they who worship me alone exclusively are the best, for they do not approach other deities. They perform the prescribed rites and duties without caring for their fruits and desire to attain me alone. The other three kinds of devotees desire ( worldly) fruits which have an end and they are subject to lapses. The wise man who worships me with sole and exclusive devotion attains mokṣa ."
+<details><summary>सायण-टीका</summary>
+
+इन्द भक्तियोगमे कामनाभेदत्ताले ऐश्वर्यकैवल्यङ्गळुक्कुं साधनमामॆन्गिऱार् इप्भक्तियोगन्दानेयित्यादियाल्. हितपरमान शास्त्रम् ऐश्वर्यादिकळै बन्धकत्वेन त्याज्यङ् गळागच्चॊल्लिप् पिन्नैयुम् अवट्रैये पुरुषार्थङ्गळागच्चॊल्लियवट्रिऱ्‌कु इन्द भक्तियोगत्तैये साधनमाग विधिक्किऱदॆण्ड्राल् शास्त्रं विश्वसनीयमागुमो वॆन्न वरुळिच्चॆय्गिऱार् प्रत्ययार्थञ्चेत्यादिना. भक्तियोगम् मोक्षसाधनमागुमोवॆण्ड्रु शङ्गिक्कुम् मन्दविश्वासनुक्कु, मोक्षस्य – मोक्षविषयत्तिल् भक्ति साधनमामॆण्ड्रु, प्रत्ययार्थं - नम्बिक्कै वरुवदऱ्‌काग सिद्धयः – 
+
+> ‘‘अणिमा महिमा च तथा  
+> गरिमा लघिमा वशित्वम् ऐश्वर्यम् ।  
+> प्राप्तिः प्राकाम्यञ् चेत्य्  
+> अष्टैश्वर्याणि योगसिद्धस्य’’ 
+
+ऎन्गिऱ अष्टैश्वर्यसिद्धिकळ्.  
+सम्प्रकीर्तिताः – भक्तिक्कु फलङ् गळगच्चॊल्लप्पट्टदुगळ्. इदनाल् ऒरुवन् ऐहिकङ्गळान अष्टैश्वर्यसिद्धिकळ् भक्तिक्कु फलमागच्चॊल्लियिरुप्पदै शास्त्रत्ताल् तॆरिन्दु अन्द भक्तियोगत्तै अनुष्ठित्तु अदनाल् अष्टैश्वर्यसिद्धिक्कळैप् पॆट्राल् अवनुक्कु, मोक्षत्तिऱ्‌कु साधन मागच् चॊल्लप्पट्ट इन्द भक्तियोगत्तै यनुष्ठित्ताल् नमक्कु इन्द ऐहिकैश्वर्यङ्गळ् पोल् आमुष्मिकमान मोक्षमुमवश्यं वरुमॆण्ड्रु महाविश्वासमुम् उण्डागुमॆण्ड्रुं ज्ञापिक्कप्पट्टदु. ऎन्गिऱबडिये - ऎण्ड्रु सात्वतसंहितैयिल् सॊल्लुगिऱबडिये. इळनॆञ्जरै - मन्दविश्वासर्गळै. तेट्रुगैक्कु - वेदविहितमान साधनत्तै अनुष्ठित्ताल् अवश्यम् मोक्षं सिद्धिक्कुमॆन्गिऱ विश्वासशालिकळागप्पण्णुगैक्काग. इट्टविरगान - एऱ्‌पाडुसॆय्यप्पट्ट उपायमान.  
+वऴियिले - मार्गत्तिले, मार्गमवलम्ब्येत्यर्थः । कामनाभेदत्ताल् ऐश्वर्यादिकळुक्कुं साधनमिति । भक्तियोगम् ऒण्ड्रु तानेयागिलुम्, कामनाभेदत्ताले - तत्तत्कामनाविशेषत्ताले, ऐश्वर्यादिकळुक्कुम्साधनम् - ऐश्वर्यादिकामनासहकृतमाय्क्कॊण्डु ऐश्वर्यादिकळुक्कुं साधनम्. ऎन्नुमिव्वर्थम् - ऎन्गिऱ न्यायसिद्धमान इव्वर्थम्. इदु ‘‘चतुर्विधा भजन्ते मां’’ ऎन्गिऱ वचनत्तालुं सॊल्लप्पट्टदॆन्गिऱार् चतुर्विधा भजन्ते माम् ऎण्ड्रु सॊल्लप्पट्टदु इति ।  
+चतुर्विधेत्याद्युक्तार्थः । अव्विडत्तिलित्यादि । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्भक्तियोगन्दाने “प्रत्ययार्थं च मोक्षस्य सिद्धयस्संप्रकीर्तिताः”(सात्त्वत-संहितै.) ऎन्गिऱ पडिये  
+इळनॆञ्जरैत्तेट्रुगैक्कु इट्ट विरगान वऴियिल् कामनाभेदत्ताले ऐश्वर्यादिगळुक्कुम् साधनमॆन्नुमिव्वर्थम् “चतुर्विधा भजन्ते मां”(गीता 7-16.) ऎण्ड्रु सॊल्लप्पट्टदु.  
+</details>
+
+
+The superiority of the Jnāni which is stated there in the words, " Among them, the Jñāni is the best because he desires to be always with Bhagavān and is devoted solely and exclusively to Him" is thus described by Bhagavān Himself com " Four *kinds of people are my men. They are all devotees (bhaktas). Of them they who worship me alone exclusively are the best, for they do not approach other deities. They perform the prescribed rites and duties without caring for their fruits and desire to attain me alone. The other three kinds of devotees desire ( worldly) fruits which have an end and they are subject to lapses. The wise man who worships me with sole and exclusive devotion attains mokṣa ."
 
 Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. Love of the Lord which results from intimacy with sāttvikas (and the scriptures ) and which produces parābhakti is also called bhakti, because it generates an eager desire to know Iśvara with perfect clearness. It has been said: "Owing to smy devotion to the Lord and to my gurus, I have attained spiritual purity and come to know Janārdana with the help of the Śāstras." (So parābhakti is born successively of a knowledge of the truth obtained from the śāstras which leads to karma yoga and the like). It (parābhakti) produces in its turn an eager desire and determination to see the Lord and makes the man cry out as follows- "O Lord, 'who art the abode of attributes like jñāna, be pleased to show Thy whole self 1" “Vouchsafe Thy grace so that I may see Thee": "May I see Thee some day!" By this keen desire alone, he wins the grace of Bhagavān who rewards him with a perfect visual perception of himself for the time being. This visual perception is called parajñāna. From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
 
