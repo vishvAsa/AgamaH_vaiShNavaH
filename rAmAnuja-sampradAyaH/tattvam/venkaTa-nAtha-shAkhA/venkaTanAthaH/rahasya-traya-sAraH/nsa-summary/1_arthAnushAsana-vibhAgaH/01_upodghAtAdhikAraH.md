@@ -63,7 +63,7 @@ Here, the masters give the analogy of the 'Rajakumara Nyaya".
 
 Similarly, the Jivatman who has not known his truc nature and so who considers himself independent, comes to know that he is subservient to paramatman (being related to Him as Dasa, Shishya, Prashishya, etc) and yearns to attain the Supreme Paramatman by, performing the necessary spiritual disciplinc according to the teachings of the Acharya.
 
-When and how one gets an Acharya ? Desika says ईश्वरस्य च सौहार्द यदृच्छासुकृतं तथा । विष्णोः कटाक्षमद्वेषं आभिमुख्यं च सात्विकैः । संभाषणं षडेतानि ह्याचार्यप्राप्तिहेतवः ॥
+When and how one gets an Acharya ? Desika says ईश्वरस्य च सौहार्द यदृच्छासुकृतं तथा । विष्णोः कटाक्षमद्वेषं आभिमुख्यं च सात्त्विकैः । संभाषणं षडेतानि ह्याचार्यप्राप्तिहेतवः ॥
 
 VS "These six namely the good will of Paramatman, some good deed done by the chetana casually, the kind glance of Sri Vishnu, having no hatred towards the Lord, a turn towards the Lord and conversation with the satvik people - are the causes of gaining an acharya".
 

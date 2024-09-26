@@ -16,7 +16,7 @@ The Dvaya Mantra illumincs clearly the particular means of spiritual perfection 
 
 Here, the order of 'varnas' or letters is pointed out. After this, the glory of the 'Dvaya Mantra' is expounded there as follows:
 
-श्रीमन्नारायणस्यैव परस्य परमात्मनः । द्विजानां मुक्तिदं मन्त्रं द्वयम् तत् शुद्धसात्विकम् ॥
+श्रीमन्नारायणस्यैव परस्य परमात्मनः । द्विजानां मुक्तिदं मन्त्रं द्वयम् तत् शुद्धसात्त्विकम् ॥
 
 मन्त्ररत्नाख्यसंदर्भ पंचविंशति वर्णकम् ॥ पंचविंशति तत्त्वाढ्यं पंचोपनिषदात्मकम् ॥
 
