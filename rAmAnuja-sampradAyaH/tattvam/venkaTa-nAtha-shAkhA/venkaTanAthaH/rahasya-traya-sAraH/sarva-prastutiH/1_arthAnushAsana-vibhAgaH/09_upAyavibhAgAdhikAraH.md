@@ -1214,7 +1214,60 @@ which says: "Four kinds of persons worship me etc.”
 </details>
 
 
-The superiority of the Jnāni which is stated there in the words, " Among them, the Jñāni is the best because he desires to be always with Bhagavān and is devoted solely and exclusively to Him" is thus described by Bhagavān Himself com " Four *kinds of people are my men. They are all devotees (bhaktas). Of them they who worship me alone exclusively are the best, for they do not approach other deities. They perform the prescribed rites and duties without caring for their fruits and desire to attain me alone. The other three kinds of devotees desire ( worldly) fruits which have an end and they are subject to lapses. The wise man who worships me with sole and exclusive devotion attains mokṣa ."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व् इडत्तिल् 
+
+> “तेषां ज्ञानी नित्य-युक्त  
+> एक-भक्तिर् विशिष्यते” 
+> (गीता 7-17.) 
+
+ऎण्ड्रु तुडङ्गिच् चॊन्न ज्ञानियिन्-उडैय एट्रत्तै … 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्र "4 तेषां ज्ञानी नित्ययुक्तः एकभक्तिर् विशिष्यते" इत्युपक्रम्य गीतं ज्ञानिनः समुत्कर्षम् …
+</details>
+
+<details><summary>English</summary>
+
+The superiority of the Jnāni which is stated there in the words,  
+
+> " Among them, the Jñāni is the best  
+> because he desires to be always with Bhagavān  
+> and is devoted solely and exclusively to Him" 
+</details>
+
+<details><summary>Español</summary>
+
+The superiority of the Jnāni which is stated there in the words,  
+
+> " Among them, the Jñāni is the best  
+> because he desires to be always with Bhagavān  
+> and is devoted solely and exclusively to Him" 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अव्विडत्तिल् - अङ्गु सॊन्न चतुर्विधाधिकारिमध्यत्तिल्. इदऱ्‌कु ज्ञानियिनुडैय ऎन्बदोडन्वयम्. तेषां - इन्द चतुर्विधाधिकारिकळुडैय मध्यत्तिले. निर्धारणे षष्ठी ।  
+ज्ञानी – भगवदनुभवाकाङ्क्षी ।  
+नित्ययुक्तः – मया सह नित्य-योगं काङ्क्षमाणः,  
+ऐश्वर्यार्थिकळैप् पोल् ए उपासन-कालत्तिल् मात्तिरम् ऎन्नुडैय सम्बन्धत्तैय् अपेक्षित्तवर्गळ् अण्ड्रिक्क् ए  
+नित्यमागव् ए अद् आवदु उपासन-कालत्तिल् उम् फल-कालत्तिलुम् ऎन्नोडु सम्बन्धत्तै काङ्क्षमाणः । +++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्विडत्तिल् “तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते”(गीता 7-17.) ऎण्ड्रु तुडङ्गिच् चॊन्न ज्ञानियिनुडैय एट्रत्तै  
+</details>
+
+
+
+
+is thus described by Bhagavān Himself com " Four *kinds of people are my men. They are all devotees (bhaktas). Of them they who worship me alone exclusively are the best, for they do not approach other deities. They perform the prescribed rites and duties without caring for their fruits and desire to attain me alone. The other three kinds of devotees desire ( worldly) fruits which have an end and they are subject to lapses. The wise man who worships me with sole and exclusive devotion attains mokṣa ."
 
 Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. Love of the Lord which results from intimacy with sāttvikas (and the scriptures ) and which produces parābhakti is also called bhakti, because it generates an eager desire to know Iśvara with perfect clearness. It has been said: "Owing to smy devotion to the Lord and to my gurus, I have attained spiritual purity and come to know Janārdana with the help of the Śāstras." (So parābhakti is born successively of a knowledge of the truth obtained from the śāstras which leads to karma yoga and the like). It (parābhakti) produces in its turn an eager desire and determination to see the Lord and makes the man cry out as follows- "O Lord, 'who art the abode of attributes like jñāna, be pleased to show Thy whole self 1" “Vouchsafe Thy grace so that I may see Thee": "May I see Thee some day!" By this keen desire alone, he wins the grace of Bhagavān who rewards him with a perfect visual perception of himself for the time being. This visual perception is called parajñāna. From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
 
