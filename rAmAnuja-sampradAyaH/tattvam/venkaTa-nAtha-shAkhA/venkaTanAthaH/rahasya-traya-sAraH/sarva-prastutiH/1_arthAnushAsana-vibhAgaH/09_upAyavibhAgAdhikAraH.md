@@ -434,6 +434,15 @@ and, likewise, He is Upeya
 because He is Himself the object that is to be enjoyed. 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि साध्योपायसाध्योपेयङ्गळ् भिन्नङ्गळाय् विलक्षणधर्मवत्तुक्कळायिरुप्पदाल् अवैगळिलॊण्ड्रु पूर्वकालवृत्तियागैयाल् कारणमाय्, ऒण्ड्रु उत्तरकालवृत्तियागैयाल् कार्यमायिरुप्पदालुम् अवैगळै साद्ध्योपायमॆण्ड्रुं साद्ध्योपेयमॆण्ड्रुं व्यवहरिप्पदु युक्तमानालुम्, पूर्वापरकालवृत्तियाय् नित्यनाय् ऒरुवनायिरुक्किऱ भगवानै सिद्धोपायमॆण्ड्रुं सिद्धोपेयमॆण्ड्रुं सॊल्वदु युक्तमागुमो वॆन्न वरुळिच्चॆय्गिऱार् इव्वुपायरूपमायुमित्यादिना । ज्ञानत्तुक्कु विषयमाय्क् कॊण्डु फलप्रदत्वभोग्यत्वादिवेषत्ताले इति । भगवान् उपायज्ञानविषयमाम्बोदु मोक्षयिष्यामि ऎण्ड्रु सङ्कल्पित्तु फलप्रदानम् पण्णुगैयालवनै अन्द वेषत्ताले उपायमॆन्गिऱदु. उपेयज्ञानविषयनाय्क्कॊण्डु ‘‘रसह्येवायं लब्ध्वाऽऽनन्दी भवति’’ ऎन्गिऱ पडि मुक्तरुक्कु रसतया अदावदु आनन्दतया भोग्यनागैयाले अदावदु अनुभाव्यनाआगैयाले अन्द वेषत्ताले अदावदु भोग्यत्ववेषत्ताले अवनैये उपेयमॆन्गिऱदु.  
+तथाच नित्यनान भगवान् ऒरुवनुक्के तन्नैक्कुऱित्तु  
+कार्यत्वमुं कारणत्वमुमिल्लाविडिलुं कारणमान उपाय-ज्ञान-विषयत्वात्  
+अत एव फल-प्रदत्वाच् च उपायत्वमुम्,  
+कार्यम् आन उपेय-ज्ञान-विषयत्वाद् भोग्यत्वाच् च उपेयत्वमुं वरलामागैयाल् ऒरुवनैये सिद्धोपायमॆण्ड्रुं सिद्धोपेयमॆण्ड्रुं व्यवहरिक्कलामॆण्ड्रु तिरुवुळ्ळम्. 
+भोग्यत्वादीत्यत्रादिपदात् उपायदशायां प्रतिबन्धकनिवर्तकत्वत्तुक्कुम्, उपेयदशायां कैङ्कर्यप्रतिसम्बन्धित्वत्तिऱ्‌कुं ग्रहणम्. 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -441,31 +450,963 @@ because He is Himself the object that is to be enjoyed.
 इव्वुपायरूपमायुम् प्राप्तिरूपमायुमिरुक्किऱ ज्ञानत्तुक्कु विषयमाय्क् कॊण्डु फलप्रदत्वभोग्यत्वादिवेषत्ताले ईश्वरनुक्कु उपायत्वमुम् उपेयत्वमुम्.
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् ईश्वरन्-उडैय उपायत्वम्  
+अ-द्वारक-प्रपत्ति-निष्ठन् पक्कल्  
+उपायान्तर-स्थान-निवेशत्ताल् ए विशिष्टम् आय् इरुक्कुम्.+++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदम् ईश्वरस्योपायत्वम् अ-द्वारक-प्रपत्ति-निष्ठ-विषये  
+उपायान्तर-स्थान-निवेशेन विशिष्टं भवति । 
+</details>
+
+<details><summary>English</summary>
+
+In the case of the mumukṣu who has adopted prapatti as the sole and independent means,  
+Iśvara takes the place of other upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+In the case of the mumukṣu who has adopted prapatti as the sole and independent means,  
+Iśvara takes the place of other upāyas. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ईश्वरनुडैय इन्द उपायत्वमिरण्डु अधिकारिकळुक्कुं तुल्यन्दानोवॆन्न वरुळिच्चॆय्गिऱार् इव्वीश्वरनुडैय उपायत्वमित्यादिना । अद्वारकप्रपत्तिनिष्ठन्बक्कल् - स्वतन्त्रप्रपत्तिनिष्ठन् पक्कल्. उपायान्तरस्थाननिवेशत्ताले विशिष्टमायिरुक्कुमिति । सद्वारक-प्रपन्नन्विषयत्तिल् अङ्गप्रपत्तियैयुम् पण्णि पिऱगु भक्तियोगत्तैयुम् अनुष्ठित्ताल् फलं कॊडुक्कक्कडवनान ईश्वरन् स्वतन्त्रप्रपत्तिनिष्ठनुक्कु प्रपत्त्यनुष्ठानानन्तरं भक्तियोगम् पण्णवेण्डादबडि अन्द भक्तियोगमागिऱ उपायान्तरत्तिनुडैय स्थानत्तिले ‘‘त्वमेवोपायो भव’’ अदावदु- त्वमेवोपायान्तरस्थाने स्थित्वा रक्षको भव ऎन्गिऱ प्रार्थनैयिनाले निवेशिक्कप्पट्टवनाय् अन्निवेशत्ताले विशिष्टमायिरुक्कुमॆण्ड्र पडि. तथाच स्वतन्त्रप्रपन्नन् विषयत्तिल् ईश्वरनुक्कु साधारणमाग उपायदशैयिल् सॊन्न प्रपत्तिरूपज्ञानविषयत्वफलप्रदत्वङ्गळागिऱ इव्विरण्डु धर्मङ्गळुम् उपायान्तरस्थाननिवेशरूपधर्मत्तोडुं कूडियिरुक्कुमॆण्ड्रबडि. इदुवे, भक्तनुक्कु भक्तिये उपायम्; प्रपन्ननुक्कु भगवाने उपायमॆण्ड्रु विशेषित्तुच् चॊल्लुवदऱ्‌कुक् कारणमाम्. 
+</details>
 
 
-In the case of the mumukṣu who has adopted prapatti as the sole and independent means, Iśvara takes the place of other upāyas. In the case of others also (i, e.) those who adopt bhakti, Iśvara whose favour has been won by prapatti (adopted as an auxiliary means to bhakti) intervenes and, standing in the place of rites and duties which are too hard for them in those situations which lie between the beginning of karma yoga and the completion of the (prescribed) meditation, brings about the removal of sins and the manifestation of sattvam which can result from their performance. He sees to it that the meditation or worship which has been adopted as an upāya is so complete as to bear fruit.
+<details><summary>मूलम्</summary>
 
-KARMA YOGA:
+इव्वीश्वरनुडैय उपायत्वम् अद्वारकप्रपत्तिनिष्ठन्बक्कल् उपायान्तरस्थाननिवेशत्ताले विशिष्टमायिरुक्कुम्.
+</details>
 
-Karma Yoga means the performance of certain kinds of karma or rites and duties as the result of knowledge acquired from the śāstras in regard to the true nature of the Jīvātmā and the Paramātmā. The rites and duties consist of the following: (1) nitya karna or regular duties to be performed compulsorily (like the daily sandhya vandana) (2) naimittika karma or rites to be compulsorily performed on specific occasions (like the eclipse of the sun or the moon) and (3) such kārya karmās or rites as are optional and as have been chosen to be within one's ability. Though these kāıya rites are ordained for obtaining certain specified fruits like svarga, they have to be performed without any desire for those fruits. All these rites and duties, 1, 2 and 3, have to be performed regularly and in accordance with the prescribed rules by the Karma-yogin.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-This karma yoga has several subdivisions described in the śloka s beginning with "Some perform the rites or sacrifices (Yajna) which are of the nature of the worship of the Gods" (Bhagavadgītā IV 25.) They include such (items) as the adoration of the gods, the performance of austerities (tapas), pilgrimage to sacred places, giving in charity, and sacrifices.
+मट्र अधिकारिक्क् उम्  
+कर्म-योगारम्भम् मुदल् आग उपासन-पूर्ति-पर्यन्तम् आग नडुव्-उळ्ळ कर्तव्यङ्गळिल्  
+अत्यन्ताशक्यम् आन नेर्गळिल् ए  
+इप्-प्रपत्ति-वशीकृतन् आन ईश्वरन् **पुगुन्दु+++(=प्रविश्य)+++ निण्ड्रु**  
+अन्द दुष्कर-कर्तव्यङ्गळाल् ए वरुम्  
++++(साध्यम् आन)+++ पाप-निवृत्तियैय् उम्, सत्त्वोन्मेषादिगळैय् उम् **उण्डाक्किक् कॊडुत्तु**  
+अव्व् उपासनम् आगिऱ उपायत्तै  
+फल-पर्यन्तम् आक्किक् कॊडुक्कुम्.   
+</details>
 
-In the same way as, in accordance with the differences of competence, prapatti becomes the means of attaining mukti, either through bhakti or directly by itself and without the intervention of bhakti, so also karma yoga, either through Jñāna Yoga or without it, becomes the means of having a vision of one's
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-or ātmā with the help of yogic auxiliaries like yama (self-rest raint), niyama (observance of rites) and prāṇāyāma (the control of the breath).
+अधिकार्य्-अन्तर-विषयेऽपि  
+कर्म-योगारम्भ-काल-प्रभृताव् उपासन-पूर्ति-पर्यन्ते काले  
+अन्तराल-कर्तव्येष्व् अत्यन्ताशक्य-विषयेषु एतत्-प्रपत्ति-वशीकृत ईश्वरः **प्रविश्य स्थित्वा**  
+तैर् दुष्कर-कर्तव्यैः साध्यां पाप-निवृत्तिं सत्त्वोन्मेषादीनि **चोत्पाद्य**  
+तम् उपासन-रूपम् उपायं **फल-पर्यन्तं करोति** ॥ 
 
-JÑĀNA YOGA:
+</details>
 
-Jñāna Yoga is the constant and uninterrupted contemplation, by one who has conquered his mind by karna-yoga, of his svarūpa or essential nature or the self as being distinct from matter, (the body, the senses and the like) - his svarūpa which is the mode or prakāra of Iśvara in virtue of its relation to Him as His body or śarīra. The self is the body of Iśvara ( as has been already pointed out) because it is supported and controlled by Him and serves His purposes.
+<details><summary>English</summary>
 
-If a person has succeeded in attaining to a vision of his self ( ātmāvalokana) by the practice of yoga preceded by karma yoga and Jñāna yoga and if he escapes the spare of being (permanently) attracted by the pleasure of enjoying this vision which is so great as to create a distaste for all sense-pleasures - then he begins the practice of bhakti yoga which is (the direct) means for the attainment of the supreme goal of enjoying Bhagavān. While practising bhaktiyoga, the aspirant contemplates on Bhagavān as the Inner Self, or antaryāmin of his own self which is His body. The vision that he has (already ) acquired of his own pure self is then useful, for it is only through it that he reaches its Inner Self, just as the cloth within which a gem is tied up is first to be seen before the gem itself can be seen. In this way the vision of one's self serves as a qualification for the practice of bhakti yoga.
+In the case of others also (i, e.) those who adopt bhakti,  
+Iśvara whose favour has been won by prapatti  
+(adopted as an auxiliary means to bhakti)  
+intervenes and, standing in the place of rites and duties which are too hard for them in those situations  
+which lie between the beginning of karma yoga  
+and the completion of the (prescribed) meditation,  
+brings about the removal of sins  
+and the manifestation of sattvam  
+which can result from their performance.  
+He sees to it that the meditation or worship  
+which has been adopted as an upāya is so complete as to bear fruit.
+</details>
 
-BHAKTI YOGA:
+<details><summary>Español</summary>
 
-Bhakti yoga is the special form of meditation which is of the nature of unsurpassed love and which has, for its object, the essential nature and the like (form, qualities, etc.) of Bhagavān who is not dependent on any one else, who is not subject to the authority of any one else and who does not exist for the fulfilment of the purposes of any one else. Bhakti is of the form of a continuous stream of knowledge which is of the nature of uninterrupted memory like oil streaming down continuously; it has clearness similar to that of visual perception; it grows from strength to strength by being practised every day until the day of journey to Paramapada and terminates in the remembrance of the last moment. The performance of the rites and duties of one's varṇa and āśrama is auxiliary to it (bhakti yoga ), as it dispels sins that cause rajas and tamas, which, like weeds, impede the growth of sattvam so necessary for the expansion of knowledge. This bhakti yoga is also a means or sadhana in accordance with the specific desire of the sādhaka, for acquiring lordship (in this world or in svarga) and other fruits (like kaivalya). This is. calculated to strengthen the faith of the weak-minded as stated in the śloka  ; "Worldly' benefits have also been mentioned as arising from bhakti-yoga. They produce confidence in the attainment of mukti (by verifying what is stated in the śāstra  from the example of these worldly benefits). This idea is expressed in the śloka  in the Gita (7-16) which says: "Four kinds of persons worship me etc.” The superiority of the Jnāni which is stated there in the words, " Among them, the Jñāni is the best because he desires to be always with Bhagavān and is devoted solely and exclusively to Him" is thus described by Bhagavān Himself com " Four *kinds of people are my men. They are all devotees (bhaktas). Of them they who worship me alone exclusively are the best, for they do not approach other deities. They perform the prescribed rites and duties without caring for their fruits and desire to attain me alone. The other three kinds of devotees desire ( worldly) fruits which have an end and they are subject to lapses. The wise man who worships me with sole and exclusive devotion attains mokṣa ."
+In the case of others also (i, e.) those who adopt bhakti,  
+Iśvara whose favour has been won by prapatti  
+(adopted as an auxiliary means to bhakti)  
+intervenes and, standing in the place of rites and duties which are too hard for them in those situations  
+which lie between the beginning of karma yoga  
+and the completion of the (prescribed) meditation,  
+brings about the removal of sins  
+and the manifestation of sattvam  
+which can result from their performance.  
+He sees to it that the meditation or worship  
+which has been adopted as an upāya is so complete as to bear fruit.
+</details>
 
-Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. Love of the Lord which results from intimacy with sāttvikas (and the scriptures ) and which produces parābhakti is also called bhakti, because it generates an eager desire to know Iśvara with perfect clearness. It has been said: "Owing to smy devotion to the Lord and to my gurus, I have attained spiritual purity and come to know Janārdana with the help of the Śāstras." (So parābhakti is born successively of a knowledge of the truth obtained from the śāstras which leads to karma yoga and the like). It (parābhakti) produces in its turn an eager desire and determination to see the Lord and makes the man cry out as follows- "O Lord, 'who art the abode of attributes like jñāna, be pleased to show Thy whole self 1" “Vouchsafe Thy grace so that I may see Thee": "May I see Thee some day!" By this keen desire alone, he wins the grace of Bhagavān who rewards him with a perfect visual perception of himself for the time being. This visual perception is called parajñāna. From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
+<details><summary>सायण-टीका</summary>
+
+भक्तर्गळिडत्तिल् ईश्वरनुडैय उपायत्वप्रकारत्तैक् काट्टुगिऱार् मट्र अधिकारिक्कुमित्यादिना । मट्रवधिकारि – सद्वारकप्रपत्तिनिष्ठन्, भक्त इति यावत् । कर्मयोगारम्भम् मुदलाग - वक्ष्यमाणकर्मयोगप्रारम्भम्मुदल्, उपासनपूर्तिपर्यन्तमाग - भक्तियोगत्तिनुडैय यथावस्थितनिष्पत्तिपर्यन्तमाग, नडुवुळ्ळ - मध्यत्तिलेयुळ्ळ, कर्तव्यङ्गळिल् - अनुष्ठेयत्वेन प्राप्तमान शास्त्रार्थङ्गळिल्, अत्यन्ताशक्यमान नेर्गळिले - सर्वात्मना पण्णमुडियाद कर्मङ्गळिन् स्थानङ्गळिले, इप्प्रपत्तिवशीकृतनान ईश्वरन् - इन्द दुष्करकर्मस्थानत्तिले इरुन्दु इन्द कर्मसाध्यफलत्तैत् तरवेणुमॆन्गिऱ प्रार्थनापूर्वकप्रपत्तियिनाले वशीकरिक्कप्पट्ट ईश्वरन्, पुगुन्दु निण्ड्रु - अन्द दुष्करकर्मङ्गळै अपेक्षिक्कामल् तानेअवट्रिन् कार्यङ्गळै सॆय्यवेण्डुमॆण्ड्रु निण्ड्रु, अन्द दुष्करकर्तव्यङ्गळाले वरुम् - नमक्कुप् पण्णमुडियाददाय् अवश्यम् पण्णित् तीर वेण्डि यदान कर्मङ्गळाले वरुम्, पापनिवृत्तियैयुम् - उपायविरोधिपापनिवृत्तियैयुम्, सत्वोन्मेषादिकळैयुम् - उपायाभिवर्धकसत्वोन्मेषादिकळैयुम्, आदिपदग्राह्योत्तरोत्तरज्ञानवैशद्यादिकळैयुम्, उण्डाक्किक्कॊडुत्तु - अन्द कर्मनिरपेक्षमाग ताने उण्डाक्किक्कॊडुत्तु, अव्वुपासनमागिऱवुपायत्तै - अङ्गियाय् भक्तिरूपमान उपायत्तै, फलपर्यन्तमाक्किक्कॊडुक्कुम् - उपेयज्ञानविकासपूर्वककैङ्कर्यपर्यन्तमाक्किक्कॊडुक्कुम्. कर्मयोगादिकळ् उपायनिष्पत्तिविरोधिपापनिवृत्तिसत्वोन्मेषाद्यर्थङ्गळागैयालवट्रिल् सिल अत्यन्ताशक्यङ्गळान पोदु तत्स्थानत्तिले निवेशिक्कप्पट्ट ईश्वरन् अन्द दुष्करकर्मकार्यङ्गळान पापनिवृत्त्यादिकळैयुं सॆय्युमागैयाल् इव्वधिकारिक्कुम् उपासननिष्पत्तिविरोधिपापनिवृत्त्यर्थमुं तत्तत्कालङ्गळिल् अशक्यमान कर्मनिर्वर्त्यपापनिवृत्तिसत्वोन्मेषाद्यर्थमागवुं तत्तत्कालङ्गळिल् अङ्गमान प्रपत्तिविशेषङ्गळ् पण्णवेण्डुमॆण्ड्रुम्, तद्वशीकृतनान भगवान् उपासनानिर्वृत्तिपूर्वकमाय् कैङ्कर्यपर्यन्तमान भगवदनुभवत्तैक् कॊडुप्पनॆण्ड्रुं सॊल्लित्तायिट्रु.   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मट्र अधिकारिक्कुम् कर्मयोगारम्भम् मुदलाग उपासनपूर्ति-पर्यन्तमाग नडुवुळ्ळ कर्तव्यङ्गळिल् अत्यन्ताशक्यमान नेर्गळिले इप्प्रपत्तिवशीकृतनान ईश्वरन् पुगुन्दु निण्ड्रु अन्ददुष्करकर्तव्यङ्गळाले वरुम् पापनिवृत्तियैयुम् सत्त्वोन्मेषादिगळैयुमुण्डाक्किक्कॊडुत्तु अव्वुपासनमागिऱ उपायत्तै फलपर्यन्तमाक्किक्कॊडुक्कुम्.   
+</details>
+
+
+## कर्म-योगः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्गु कर्म-योगम् आवदु -  
+शास्त्रत्ताल् ए जीव-परमात्म-याथात्म्य-ज्ञानं पिऱन्दाल् तनक्कु शक्यङ्गळ् आय्  
+फल-सङ्गादि-रहितङ्गळ् आन काम्य-कर्मङ्गळोड् उम् +++(←यत्राकरणे प्रत्यवायाभावः, करणे ऽभ्युदयः)+++  
+नित्य-नैमित्तिकङ्गळोड् उङ् कूडिन  
+स-नियमम् आग परिगृहीतम् आय् इरुक्कुम् कर्म-विशेषम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्र कर्मयोगो नाम -  
+शास्त्रेण जीव-परमात्म-याथाम्य-ज्ञाने निष्पन्ने  
+स्व-शक्यैः फल-सङ्गादि-रहितैः काम्य-कर्मभिः +++(←यत्राकरणे प्रत्यवायाभावः, करणे ऽभ्युदयः)+++,  
+नित्य-नैमित्तिकैश् च सह  
+स-नियमं परिगृहीतः कर्म-विशेषः । 
+</details>
+
+<details><summary>English</summary>
+
+Karma Yoga means the performance of certain kinds of karma or rites and duties  
+as the result of knowledge acquired from the śāstras in regard to the true nature of the Jīvātmā and the Paramātmā.  
+The rites and duties consist of the following:  
+(1) nitya karna or regular duties to be performed compulsorily (like the daily sandhya vandana)  
+(2) naimittika karma or rites to be compulsorily performed on specific occasions (like the eclipse of the sun or the moon) and  
+(3) such kāmya karmās or rites as are optional and as have been chosen to be within one's ability.  
+Though these kāmya rites are ordained for obtaining certain specified fruits like svarga,  
+they have to be performed without any desire for those fruits.
+[(4) Some other duty] ~~All these rites and duties, 1, 2 and 3, have~~ to be performed regularly and in accordance with the prescribed rules by the Karma-yogin.
+</details>
+
+<details><summary>Español</summary>
+
+Karma Yoga means the performance of certain kinds of karma or rites and duties  
+as the result of knowledge acquired from the śāstras in regard to the true nature of the Jīvātmā and the Paramātmā.  
+The rites and duties consist of the following:  
+(1) nitya karna or regular duties to be performed compulsorily (like the daily sandhya vandana)  
+(2) naimittika karma or rites to be compulsorily performed on specific occasions (like the eclipse of the sun or the moon) and  
+(3) such kāmya karmās or rites as are optional and as have been chosen to be within one's ability.  
+Though these kāmya rites are ordained for obtaining certain specified fruits like svarga,  
+they have to be performed without any desire for those fruits.
+[(4) Some other duty] ~~All these rites and duties, 1, 2 and 3, have~~ to be performed regularly and in accordance with the prescribed rules by the Karma-yogin.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इनि कर्मयोगारम्भम् मुदल् आग ऎण्ड्रु सामान्यम् आग प्रसक्तङ्गळ् आन कर्मयोगज्ञानयोगादिकळैयुम्,  
+अवैगळुक्कु भक्तियोगत्तिल् उपयोग-प्रकारत्तैय् उम् अरुळिच् चॆय्यक् करुदि  
+मुन्दर कर्मयोगत्तिन्-उडैय स्वरूपत्तैयुम्, भेदत्तैयुम्, कार्यत्तैयुम्, क्रममाग वरुळिच्चॆय्गिऱार् अङ्गु कर्मयोगमावदु इत्यादियाल्. 
+
+अङ्गु उपासकनुक्कु कर्तव्यङ्गळ् आग शास्त्रङ्गळिल् विहितङ्गळुक्क्-उळ्ळ् ए -  
+कर्मयोगम् आवद् ऎन्बदऱ्‌कु  
+‘‘सनियममाग परिगृहीतमायिरुक्कुं कर्मविशेषम्" ऎन्बद्-ओड् अन्वयम्.  
+इदु अङ्गिस्वरूपनिर्देशम्.  
+
+> नित्य-नैमित्तिकादिकळुक्क् उळ्ळ् ए यावत्-फल-प्राप्ति इत्तैय् ए अनुष्टिक्कक् कडव् एन् 
+
+ऎण्ड्र्  
+इप्पडि सङ्कल्पत्तोडु परिग्रहिक्कप्पट्ट  
+ऒरु कर्म-विशेषम् ऎन्न-बडि. आनाल् इतरनित्यनैमित्तिकङ्गळ् अनुष्ठेयङ्गळण्ड्रोवॆन्न?  
+ऎल्ला कर्मङ्गळ् उम् अ-प्रधानतया - अद्-आवदु अङ्गतया - ऽनुष्ठेयम् ऎन्गिऱार् "शास्त्रत्ताल् ए" इत्यादियाल्.  
+एतद्-अनुष्ठानोपयुक्ताधिकारत्तैक् काट्टुगिऱार्  
+जीव-परमात्म-याथात्म्य-ज्ञानम् पिऱन्दाल् इति ।  
+इन्द ज्ञानम् इल्ला-विडिल्  
+निवृत्ति-धर्म-रूपम् आन कर्म-योगत्तिन्-उडैय अनुष्ठानत्तिऱ्‌कु अधिकारिय् आग-माट्टान् इऱे.  
+
+तनक्कु शक्यङ्गळ् आय् इति ।  
+‘‘न ह्यशक्ये नियोजयति शास्त्रं’’ ।+++(5)+++  
+
+"फल-सङ्गादि-रहितङ्गळ् आन" इति ।  
+इङ्गु आदि-पदत्ताल् ए कर्तृत्वादिकं विवक्षितं  
+यद्यपि काम्य-कर्मङ्गळ् फलार्थम् आगव् ए विहितङ्गळ्;  
+आनालुं कर्म-योग-रूप-निवृत्ति-धर्म-निष्ठन्  
+अन्द फलङ्गळिल् सङ्गम् इल्लाद्-अवन् आय्  
+अद्-आवदु आसैय् इल्लाद्-अवन् आय्  
+अवैगळैय् अनुष्ठिक्क-वेण्डुम् आगैयाल्  
+अवैगळै फल-सङ्ग-रहितङ्गळ् ऎण्ड्रदु.  
+
+काम्य-कर्मङ्गळ्-ओड् उम् इति ।  
+अ-करणे प्रत्यवायापादकम् अल्लादद् आय्  
+करणे अभ्युदयावहङ्गळ् आन कर्मङ्गळ्-ओड् ऎण्ड्र बडि.+++(5)+++  
+इङ्गु ‘‘सहयुक्तेऽप्रधाने’’ ऎण्ड्रु सॊल्लप्पट्ट तृतीयाप्रयोगत्ताल् ए  
+काम्यङ्गळुक्कु अ-प्राधान्यम् अदावदु अङ्गत्वं तोट्रुगिऱदु.  
+
+नित्यनैमित्तिकङ्गळोडुं कूड ऎन्गिऱविडत्तिलुम् इप्पडिये कण्डुगॊळ्वदु.  
+
+तथा च भगवानुक्कुं तनक्कुं शेष-शेषि-भाव-ज्ञानम् उळ्ळवन् आय्  
+नित्य-नैमित्तिकादिकळ्-उडैय मध्यत्तिल् ए  
+तनक्कु शक्यम् आनद् ऒरु कर्म-विशेषत्तै  
+"यावत्-फलम् इदैय् ए अनुष्टिक्कक् कडवेन्" ऎण्ड्रु सङ्कल्प-पूर्वकम् आग  
+अङ्गिय् आग परिग्रहित्तु  
+अदऱ्‌कु अङ्गङ्गळ् आग तनक्कु शक्यङ्गळ् आन काम्य-कर्मङ्गळैय् उम्  
+इतर-नित्य-नैमित्तिकङ्गळैय् उम् परिग्रहित्तु  
+अनुष्ठिक्क् उम्  
+अदु कर्मयोगम् ऎण्ड्रद् आयिट्रु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गु कर्मयोगमावदु -  
+शास्त्रत्ताले जीवपरमात्मयाथात्म्य ज्ञानं पिऱन्दाल् तनक्कु शक्यङ्गळाय् फलसङ्गादिरहितङ्गळान काम्यकर्मङ्गळोडुम् नित्य-नैमित्तिकङ्गळोडुङ्गूडिन सनियममाग परिगृहीतमायिरुक्कुम् कर्मविशेषम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् अवान्तर-भेदङ्गळ्  
+“दैवम् एवापरे यज्ञं”(गीता 4-25) ऎण्ड्रु तुडङ्गिच् चॊल्लप्पट्ट  
+देवार्चन-तपस्-तीर्थ-दान-यज्ञादिगळ्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्रावान्तर-भेदाः,  
+"दैवम् एवापरे यज्ञम् " इत्य्-उपक्रम्य गीता  
+देवार्चन-तपस्-तीर्थ-दान-यज्ञादयः । 
+</details>
+
+<details><summary>English</summary>
+
+This karma yoga has several subdivisions  
+described in the śloka s beginning with 
+
+> "Some perform the rites or sacrifices (Yajna)  
+> which are of the nature of the worship of the Gods"  
+> (Bhagavadgītā IV 25.) 
+
+They include such (items) as  
+the adoration of the gods,  
+the performance of austerities (tapas),  
+pilgrimage to sacred places,  
+giving in charity, and sacrifices.
+</details>
+
+<details><summary>Español</summary>
+
+This karma yoga has several subdivisions  
+described in the śloka s beginning with 
+
+> "Some perform the rites or sacrifices (Yajna)  
+> which are of the nature of the worship of the Gods"  
+> (Bhagavadgītā IV 25.) 
+
+They include such (items) as  
+the adoration of the gods,  
+the performance of austerities (tapas),  
+pilgrimage to sacred places,  
+giving in charity, and sacrifices.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्-पडि कर्म-विशेषम् ऎण्ड्रु पॊदुविल् ए सॊन्नाल्  
+अदैय् इन्नद् ऎण्ड्र् अऱिन्दु अनुष्ठिप्पदु शक्यमामोवॆन्न वदिन् स्वरूपभेदङ्गळै सप्रमाणमरुळिच्चॆय्गिऱार् अदिलवान्तरभेदङ्गळित्यादिना । अदिल् - कर्मयोगत्तिल् अवान्तरभेदङ्गळ् - व्याप्यधर्मवत्तुक्कळ्, दैवमेवापरे यज्ञं – देवसम्बन्धिनं यज्ञं, तदर्चनरूपयज्ञमिति यावत् । योगिनः पर्यपासते – वक्ष्यमाणभिन्नाः कर्मयोगनिष्ठा अनुतिष्ठन्तीत्यर्थः । सॊल्लप्पट्ट - श्रीमद्गीतैयिल् नान्गावदु अध्यायत्तिल् सॊल्लप्पट्ट तपः – कृच्छ्र चान्द्रायणादि, तीर्थं – तीर्थयात्रा, दानं – स्वीयार्थस्यस्वस्वत्वनिवृत्तिपूर्वकपरस्वत्वापादनं, यज्ञं – ज्योतिष्टोमादिकळ्. आदिपदात् प्राणायामादिपरिग्रहः ।   
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिलवान्तरभेदङ्गळ् “दैवमेवापरे यज्ञं”(गीता 4-25) ऎण्ड्रु तुडङ्गिच् चॊल्लप्पट्ट देवार्चनतपस्तीर्थदानयज्ञादिगळ्.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अधिकारि-भेदत्ताल् ए प्रपत्ति तान् ए  
+भक्तियैय् इडैय्+++(=मार्गं)+++ इट्ट् उम्  
+इडैय्+++(=मार्गं)+++ इडाद् एय् उम्  
+मोक्ष-हेतुव् आनाऱ्‌ पोल् ए  
+
+इक् कर्म-योगम् ज्ञान-योगत्तैय् इट्ट् उम्  
+इडैय् इडाद् एय् उम्  
+स-परिकरम् आन योगत्तैक् कॊण्डु  
+**आत्मावलोकन-साधनम् आम्**.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अधिकारि-भेदेन प्रपत्तिः स्वयं भक्तिं द्वारी कृत्य अद्वारीकृत्य च यथा मोक्ष-हेतुर् भवति,  
+तथाऽयं कर्म-योगो ज्ञान-योगं द्वारी-कृत्याद्वारी-कृत्य च  
+स-परिकर-योग-मुखेनाऽऽत्मावलोकन-साधनं भवति ॥ 
+</details>
+
+<details><summary>English</summary>
+
+In the same way as,  
+in accordance with the differences of competence,  
+prapatti becomes the means of attaining mukti,  
+either through bhakti  
+or directly by itself and without the intervention of bhakti, 
+
+so also karma yoga,  
+either through Jñāna Yoga or without it,  
+becomes the means of having a vision of one's own ātmā  
+with the help of yogic auxiliaries like yama (self-restraint), niyama (observance of rites) and prāṇāyāma (the control of the breath).
+</details>
+
+<details><summary>Español</summary>
+
+In the same way as,  
+in accordance with the differences of competence,  
+prapatti becomes the means of attaining mukti,  
+either through bhakti  
+or directly by itself and without the intervention of bhakti, 
+
+so also karma yoga,  
+either through Jñāna Yoga or without it,  
+becomes the means of having a vision of one's own ātmā  
+with the help of yogic auxiliaries like yama (self-restraint), niyama (observance of rites) and prāṇāyāma (the control of the breath).
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इनि कर्मयोगत्तिन् कार्यत्तैक् काट्टुगिऱार् अधिकारीति । मेले सॊल्लप् पोगिऱबडि ऒण्ड्रे ऒरु फलत्तिऱ्‌कु सद्वारकमायुम् अद्वारकमायुं साधकमागक् कूडुमो? ओर् अधिकारिक्कु अप्पडि साधकमागादानालुम् अधिकारिभेदत्ताले अप्पडि साधकमागक्कूडुमॆन्निल्? अदु यॆङ्ङने ऎन्नवरुळिच्चॆय्गिऱार् अधिकारिभेदत्ताले इत्यादिना । सद्वारकप्रपत्तिनिष्ठनुक्कु सकिञ्चनत्वरूपाधिकारिभेदत्तालुम्.अद्वारकप्रपत्तिनिष्ठनुक्कु अकिञ्चनत्वरूपाधिकारिभेदत्तालुम्. प्रपत्ति ताने - ऒरु प्रपत्तिये, भक्तियै यिडैयिट्टुम् - भक्तियै द्वारमागक्कॊण्डुम्, सकिञ्चनन् विषयत्तिल् भक्तियै द्वारकमागक्कॊण्डुम्, इडैयिडादेयुम् - अकिञ्च्नन् विषयत्तिल् भक्तियै यिडैयिडादेयुम्, साक्षात्ताकवे यॆण्ड्रबडि. मोक्षहेतुवानाऱ्‌पोले - मोक्षरूप ऒरु फलत्तुक्कुक् कारणमानाप्पोले.  
+इक् कर्मयोगमिति । अधिकारिभेदत्ताले इत्यनुषज्यते ।  
+
+इङ्गु कर्मयोगानुष्ठातावुक्कु शिष्टतया व्यपदेश्यत्वम् उम्,  
+निष्प्रमाद-सुकरोपायाभिलाषित्वम् उम् अधिकारिभेदम्.  
+
+ज्ञानयोगानुष्ठातावुक्कु शिष्टतया व्यपदेश्यत्वम् इल्लामैय् उम्,  
+दुष्करोपायत्तैय् उम् मुडिक्कलाम् ऎण्ड्र धैर्यम् उम्,  
+तन्-निर्वहण-सामर्थ्यम् उम् अधिकारिभेदम्.+++(5)+++  
+इप्-पडिप्-पट्ट अधिकारि-भेदत्ताल् ऎण्ड्र-बडि.  
+
+ज्ञान-योगत्तैय् इडैय् इट्टुम् -  
+दुष्करोपाय-निर्वहण-समर्थन् विषयत्तिल्  
+ज्ञानयोगत्तै द्वारीकरित्तुम्,  
+इडैयिडादेयुम् - शिष्टतया व्यपदेश्यनाय् निष्प्रमाद-सुकरोपायाभिलाषिय् उम् आन कर्म-योगाधिकारि-विषयत्तिल्  
+ज्ञान-योगत्तै द्वारीकरिक्कामल् उम्,  
+साक्षात्ताकव् एय् ऎण्ड्र बडि.  
+
+सपरिकरमान योगत्तैक्कॊण्डु इति ।  
+इङ्गु परिकरम् आवदु - यम-नियमासनादिगळ्.  
+योगम् आवदु - भविष्यद्-आत्म-साक्षात्कारानुगुण--चित्त-वृत्ति-निरोध-रूपम् आन व्यापारम्.  
+अदैक् कॊण्डु - अदै द्वारी-करित्तु,  
+आत्मावलोकन-साधनम् आम् -  
+स्व--स्व-रूप-साक्षात्कारत्तिऱ्‌कु साधनम् आम् ऎन्गै.  
+तथाच ऎप्पडि ऒरु प्रपत्तितान् ए स-किञ्चनाकिञ्चनाधिकारि-भेदत्ताल्  
+भक्तियै द्वारीकरित्तुं साक्षात्तायुम् मोक्षसाधनमागलामॆण्ड्रु शास्त्रसिद्धमो  
+अप्पडिये इक्कर्मयोगमुं शक्ताशक्ताधिकारिभेदत्ताले ज्ञानयोगत्तै द्वारीकरित्तुं साक्षात्तागवुं सपरिकरयोगसहकारत्ताले आत्मसाक्षात्कारसाधनमागलामॆन् पदुं शास्त्रसिद्धमॆण्ड्रु करुत्तु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अधिकारिभेदत्ताले प्रपत्तिताने भक्तियै यिडैयिट्टु मिडैयिडादेयुम् मोक्षहेतुवानाऱ्‌पोले इक्कर्मयोगम् ज्ञानयोगतैयिट्टुमिडैयिडादेयुम् सपरिकरमान योगत्तैक्कॊण्डु आत्मावलोकनसाधनमाम्.
+</details>
+
+
+## ज्ञान-योगः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-योगम् आवदु—  
+कर्म-योगत्ताल् **अन्तः-करण-जयम्** पिऱन्दवनुक्कु  
+
+प्रकृत्य्-आदि-विलक्षणम् आय्,  
+ईश्वरनैप् पट्र आधेयत्व-विधेयत्व-शेषत्वङ्गळाल् ए  
+शरीरतया प्रकारम् आन तन्-स्वरूपत्तै  
+
+**निरन्तर-चिन्तनम्** पण्णुगै. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ज्ञानयोगो नाम -  
+कर्म-योगोत्पन्नान्तः-करण-जयेन पुंसा  
+प्रकृत्य्-आदि-विलक्षणस्य,  
+ईश्वरं प्रत्य् आधेयत्व-विधेयत्व-शेषत्वैः शरीरतया प्रकारभूतस्य  
+स्वस्वरूपस्य निरन्तर-चिन्तन-करणम् । 
+</details>
+
+<details><summary>English</summary>
+
+Jñāna Yoga is the constant and uninterrupted contemplation,  
+by one who has conquered his mind by karna-yoga,  
+of his svarūpa or essential nature or the self as being distinct from matter, (the body, the senses and the like) -  
+his svarūpa which is the mode or prakāra of Iśvara  
+in virtue of its relation to Him as His body or śarīra.  
+The self is the body of Iśvara ( as has been already pointed out)  
+because it is supported and controlled by Him and serves His purposes.
+</details>
+
+<details><summary>Español</summary>
+
+Jñāna Yoga is the constant and uninterrupted contemplation,  
+by one who has conquered his mind by karna-yoga,  
+of his svarūpa or essential nature or the self as being distinct from matter, (the body, the senses and the like) -  
+his svarūpa which is the mode or prakāra of Iśvara  
+in virtue of its relation to Him as His body or śarīra.  
+The self is the body of Iśvara ( as has been already pointed out)  
+because it is supported and controlled by Him and serves His purposes.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इनि ज्ञानयोगत्तै अरुळिच्चॆय्गिऱार् ज्ञानयोगमावदु इत्यादिना । इदऱ्‌कु तन् स्वरूपत्तै निरन्तरचिन्तनम् पण्णुगै यॆन्बदोडन्वयम्. तन् स्वरूपत्तै यॆण्ड्रदाल् भगवत्स्वरूपचिन्तनरूपभक्तियोगव्यावृत्तिः । निरन्तर ऎन्बदाल् श्रवणमनन रूप कादाचित्कात्मचिन्तनव्यावृत्तिः । चिन्तनमॆण्ड्रदाल् ज्ञानयोगफलमान आत्मावलोकनव्यावृत्तिः । इन्द ज्ञानयोगाधिकारिक्कुं कर्मयोगं वेण्डुमोवॆण्ड्रु शङ्कियामैक्काग कर्मयोगत्तालि त्यादि । अन्तःकरणजयम् पिऱन्दालल्लदु ज्ञानयोगं सिद्धियादागैयाल् अदऱ्‌काग अवनुक्कुं कर्मयोगमावश्यकमॆण्ड्रु सूचिप्पिक्कैक्काग कर्मयोगत्ताल् अन्तःकरणजयम् पिऱन्दवनुक्कॆण्ड्रु हेतुहेतुमद्भावेन निर्देशित्तदु. अन्द निरन्तरचिन्तनत्तिल् विजातीयभ्रमं कलसामैक्काग प्रकृत्यादिविलक्षणमायिदि स्वरूपविशेषणम्. आदिपदात् बुद्धिपरिग्रहः । स्वतन्त्रात्मभ्रमं कलसामैक्काग ईश्वरनैप्पट्र आधेयत्वेति । इङ्गु आधेयत्वविधेयत्वशेषत्वङ्गळाले शरीरतया चिन्तनम् पण्णुगैयॆण्ड्रु चिन्तनविशेषणतया निर्देशिक्कामल् शरीरतया प्रकारमान तन् स्वरूपत्तै यॆण्ड्रु स्वरूपविशेषणतया निर्देशित्तदाल् आधेयत्वादिकळ् ज्ञानयोगत्तिले चिन्तनीयगुणङ्गळण्ड्रु ऎण्ड्रु ज्ञापिक्कप्पट्टदु. ज्ञानयोगत्तिल् नित्यत्वज्ञानत्वादि कळॊऴिय आधेयत्वादिकळ् वेद्यङ्गळण्ड्रॆन्नुमिडं श्रीमत्तात्पर्यचन्द्रिकैयिल् स्पष्टम्. तन् स्वरूपत्तै इति । स्वरूपनिरूपकङ्गळान नित्यत्वज्ञानत्वानन्दत्वामलत्वाहन्त्वादिकळाले विशिष्टस्वस्वरूपत्तै यॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानयोगमावदु— कर्मयोगत्ताल् अन्तःकरणजयम् पिऱन्दवनुक्कु प्रकृत्यादि-विलक्षणमाय् ईश्वरनैप्पट्र आधेयत्वविधेयत्वशेषत्वङ्गळाले शरीरतया प्रकार मान तन्स्वरूपत्तै निरन्तरचिन्तनम् पण्णुगै. 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इक्-कर्म-योग--ज्ञान-योगङ्गळाल् ए  
+योग-मुखत्ताल् ए आत्मावलोकनम् **पिऱन्दाल्**  
+वैषयिक-सुख-वैतृष्ण्यावहम् आन आत्मानुभव-सुखम् आगिऱ आकर्षकत्तिल्  **अगप्+++(=अन्तः)+++-पट्ट्-इलन् आगिल्**  
+परम-पुरुषार्थम् आन भगवद्-अनुभवत्तुक्कु उपायम् आन भक्ति-योगत्तिल् एय् **इऴियुम्-पोदु**  
+उळ्ळ् इरुक्किऱ रत्नङ्-काण्गैक्कुक् किऴिच्-चीरैक्+++(=शाटीं)+++ कण्डाऱ्‌-पोल् ए+++(5)+++  
+अन्तर्-यामियैप् पार्क्कुम्-पोदैक्कु  
+अवन्-उडैय शरीर-भूतन् आन जीवात्माविन्-उडैय दर्शनम् **उपयुक्तम्** आय्क्-कॊण्डु  
+भक्ति-योगत्तुक्कु अधिकार-कोटियिल् एय् **एऱ्-इट्टुक् किडक्कुम्**.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आभ्यां +++(कर्म-योग--ज्ञान-योगाभ्यां)+++  
+योग-मुखेनाऽऽत्मावलोकने निष्पन्ने सति —  
+वैषयिक-सुख-वैतृष्ण्यावहे आत्मानुभव-सुख-रूपे आकर्षके अनिमग्नश् चेत् (अलग्नश् चेत् ),  
+तर्हि परम-पुरुषार्थ-भूतस्य भगवद्-अनुभवस्योपाये भक्ति-योगे प्रवृत्तस्य  
+तदा, अन्तः-स्थ-रत्न-दर्शनार्थं वस्त्र-ग्रन्थि-दर्शनवत्,+++(5)+++  
+अन्तर्यामि-दर्शनार्थं तच्-छरीर-भूत--जीवात्म-दर्शनम् **उपयुक्तं**  
+भक्ति-योगाधिकार-कोटौ **निविशते** ॥ 
+</details>
+
+<details><summary>English</summary>
+
+If a person has succeeded in attaining to a vision of his self ( ātmāvalokana)  
+by the practice of yoga preceded by karma yoga and Jñāna yoga  
+and if he escapes the snare of being (permanently) attracted by the pleasure of enjoying this vision  
+which is so great as to create a distaste for all sense-pleasures -  
+then he begins the practice of bhakti yoga  
+which is (the direct) means for the attainment of the supreme goal of enjoying Bhagavān.  
+While practising bhaktiyoga, the aspirant contemplates on Bhagavān  
+as the Inner Self, or antaryāmin of his own self which is His body.  
+The vision that he has (already ) acquired of his own pure self is then useful,  
+for it is only through it that he reaches its Inner Self,  
+just as the cloth within which a gem is tied up is first to be seen  
+before the gem itself can be seen.  
+In this way the vision of one's self  
+serves as a qualification for the practice of bhakti yoga.
+</details>
+
+<details><summary>Español</summary>
+
+If a person has succeeded in attaining to a vision of his self ( ātmāvalokana)  
+by the practice of yoga preceded by karma yoga and Jñāna yoga  
+and if he escapes the snare of being (permanently) attracted by the pleasure of enjoying this vision  
+which is so great as to create a distaste for all sense-pleasures -  
+then he begins the practice of bhakti yoga  
+which is (the direct) means for the attainment of the supreme goal of enjoying Bhagavān.  
+While practising bhaktiyoga, the aspirant contemplates on Bhagavān  
+as the Inner Self, or antaryāmin of his own self which is His body.  
+The vision that he has (already ) acquired of his own pure self is then useful,  
+for it is only through it that he reaches its Inner Self,  
+just as the cloth within which a gem is tied up is first to be seen  
+before the gem itself can be seen.  
+In this way the vision of one's self  
+serves as a qualification for the practice of bhakti yoga.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इक्कर्मयोगज्ञानयोगङ्गळुक्कु आत्मावलोकनसाधनत्वमिरुन्दालुम् भगवदुपासनोपयोगित्वमुण्डो? उण्डागिलदॆप्पडियॆन्नवरुळिच् चॆय्गिऱार् इक्कर्मयोगेत्यादिना । आत्मावलोकनम् पिऱन्दालित्यन्तम् पूर्वोक्तानुवादम्. पिऱन् दाल् - पिऱन्दबिन्, आत्मावलोकनम् पिऱन्दालिदु ‘‘सुखमात्यन्तिकं यत्तत्’’ ‘‘यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः’’ ऎन्गिऱबडि स्वेतरसमस्तसुखवैतृष्ण्यावहमान आत्मानुभवसुखत्तोडु सेर्न्दे यिरुक्कुमागैयाल् स्वविषयत्तिलेये आकर्षकमाग मुडियुमागैयाल् उपासनोपयुक्तमागुमो? वॆन्नवरुळिच्चॆय्गिऱार् वैषयिकसुखेत्यादि । वैषयिकसुखं – शब्दादिविषयानुभवत्तालुण्डागुं सुखम्. वैतृष्ण्यावहमान - अदिनासैयैप् पोक्कडिक्कक्कूडियदान, आकर्षकत्तिल् - वलैयिल्. अगप्पट्टिलनागिलिति । इदिलगप्पडाद धीरनुमॊरुवन् सम्भावितनागैयाल् अवनुक्किदु उपासनोपयुक्त मागुमॆण्ड्रु तिरुवुळ्ळम्.  
+परमपुरुषार्थमान भगवदनुभवत्तुक्कु उपायमान भक्तियोगत् तिले इति ।  
+आत्मानुभवं वैषयिकसुखातिशयितमागैयाले तद्वैतृष्ण्यावहमाय्,  आकर्षकम् आयिरुन्दालुं  
+सर्वातिशायियाय् परमपुरुषार्थमान भगवदनुभवम् आत्मानुभववैतृष्ण्यावहमायुम् आत्मानुभवरसिकनैयुम् 
+
+> ‘‘भोगा इमे विधि-शिवादि-पदं च किञ्च  
+> स्वात्मानुभूतिरिति या किल मुक्तिरुक्ता ।  
+> सर्वं तद् ऊष+++(र)+++-जल+++(=मृग-तृष्णिका)+++-जोषम् अहं जुषेय’’ 
+
+ऎन्नुम्बडि आकर्षिक्कवल्लदायुमिरुप्पदाल् तादृशानुभवत्तिऱ्‌कु उपायमान भक्तियोगत्तिलेयॆन्नबडि.  
+इदनाल् कर्म-योग--ज्ञान-योगङ्गळाल् योग-द्वारा आत्मानुभवत्तैय् अडैन्द ऒरुवन्,  
+"इदु अल्प-सुखम्, भगवद्-अनुभवं सर्वापेक्षयाप्य् अतिशयित सुखम्"  
+ऎण्ड्रु तॆळिन्द् आनागिल्  
+अवन् आत्मावलोकनत्तै विट्टु  
+भगवदनुभवोपायमान भक्तियोगत् तैयेयवलम्बिप्पनॆण्ड्रु सूचिप्पिक्कप्पट्टदु.  
+इऴियुम् पोदु - भक्तियोगत्तैप् पण्णवारम्भिक्कुम्बोदु. इप्पडि आत्मानुभवमुळ्ळ ऒरुवन् आत्मानुभवसुखत्तिल् अगप्पडामल् भगवदनुभवसुखहेतुवान भक्तियोगत्तिलिऴिवनॆण्ड्राल् आत्मानुभवत्ताल् भक्तियोगविषयत्तिल् सॆय्यप्पडुम् उपकारमॆन् ऎन्न? अन्द उपाकारप्रकारत्तै सदृष्टान्तमाग वरुळिच्चॆय्गिऱार् उळ्ळिरुक्किऱ रत्नङ्गाण्गैक्कु इत्यादिना ।  
+ऒरुवन् अत्युत्कृष्टमान रत्नत्तै ऒरु सिन्न वस्त्रत्तिले मुडिन्दु मडियिले वैत्तिरुन्दु अदै कैसोरविट्टु अदैक् काणवेणुमॆन्गिऱ आसैयिनाल् तेडिक्कॊण्डिरुक्कुम्बोदु भाग्यवशत्ताल् अन्द रत्नसंवरणमान अन्द वस्त्रत्तैक् कण्डाल् अदिनुळ्ळिरुक्कुं रत्नत्तैक् काण्बदऱ्‌कु अधिकारियानाप्पोले यॆन्बदु दृष्टान्तवाक्यत्तिन् तात्पर्यम्. इनि दार्ष्टान्तिकत्तै उपपादित्तु आत्मदर्शनत्तै भक्तियोगाधिकारापादकमॆन्गिऱार् अन्तर्यामीत्यादिना ।  
+अन्तर्यामियैप् पार्क्कुम्बोदैक्कॆण्ड्रदु उळ्ळिरुक्किऱ रत्नङ्गाण्गैक्कु ऎन्गिऱ दृष्टान्ततुल्यम्; अदिलन्तर्यामि रत्नतुल्यम्. अवनुडैय शरीरभूतनान जीवात्माविनुडैय दर्शनमॆन्बदु किऴिच्चीरैक् कण्डाप्पोले ऎन्गिऱ दृष्टान्ततुल्यम्. शरीरभूतनान जीवात्मा किऴिच्चीरै तुल्यम्, उपयुक्त माय्क्कॊण्डु - हेतुवाय्क्कॊण्डु. भक्तियोगत्तिले परमात्मस्वरूपमात्र मण्ड्रिक्के यवनुक्कु जीवान्तर्यामित्वमुं ध्येयमागैयाले अदिल् प्रतिसम्बन्धिज्ञानत्वेन जीवात्मदर्शनमुम् उपयुक्तमागैयाले अन्यनान जीवात्माविनुडैय दर्शनत्तिऱ्‌कु अन्यनान भगवानुडैय भक्त्युपयुक्तत्वम् ऎप्पडि यॆन्गिऱ चोद्यत्तिऱ्‌कु इङ्गु अवकाशमिल्लै. 
+भक्तियोगत्तुक्कु अधिकारकोटियिलेयेऱिट्टुक्किडक्कुमिति ।  
+इतरविरक्तनाय् परमपुरुषार्थैकरसिकनान इवन् बुद्धियाले तनक्कु भक्तियोगाधिकारत्वेन उपयुक्ताकारङ्गळिल् इदुवुमॊण्ड्रॆण्ड्रु अप्राधान्येन निनैक्कप्पट्टिरुक्कुमॆन्नबडि. इदनाल् ‘‘परमात्मनि यो रक्तो विरक्तोऽपरमात्मनि’’ ऎन्नुम्बडियिरुक्किऱ परमैकान्तियान इव्वधिकारिक्कु इज्जीवदर्शनम् प्रयोज-नान्तरमाग मुडियादोवॆन्गिऱ चोद्यत्तिऱ्‌कवगाशमिल्लै. आगैयालेयिऱे इजीजीवदर्शनत्तुक्कु अत्यन्तानुपयुक्तमान किऴिच् चीरैयिनुडैय दर्शनं दृष्टान्तमागच् चॊल्लप्पट्टदु. इव्वधिकारिक्कु जीवदर्शनं किऴिच्चीरै दर्शनम्बोलिरुक्कुमत्तनै पोक्कि सुखमाग तोट्रादु ऎण्ड्रभिप्रायम्.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इक्कर्मयोगज्ञानयोगङ् गळाले योगमुखत्ताले आत्मावलोकनम् पिऱन्दाल् वैषयिकसुखवैतृष्ण्यावहमान आत्मानुभवसुखमागिऱ आकर्षकत्तिल् अगप्पट्टिलनागिल् परमपुरुषार्थमान भगवदनुभवत्तुक्कु उपायमान भक्तियोगत्तिलेयिऴियुम्-पोदु उळ्ळिरुक्किऱ रत्नङ्गाण्गैक्कुक् किऴिच्चीरैक् कण्डाऱ्‌पोले अन्तर्यामियैप् पार्क्कुम्बोदैक्कु अवनुडैय शरीरभूतनान जीवात्माविनुडैय दर्शनम् उपयुक्तमाय्क्कॊण्डु भक्तियोगत्तुक्कु अधिकारकोटियिले येऱिट्टुक् किडक्कुम्.
+</details>
+
+
+## भक्ति-योगः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**भक्ति-योगम्** आवदु —  
+अन्-अन्य-निष्ठन् आय्, अन्-अन्याधीनन् आय्, अन्-अन्य-शेष-भूतन् आन भगवान्-उडैय स्वरूपादिगळै  
+विषयम् आगव्-उडैत्त् आय्  
+निरतिशय-प्रीति-रूपम् आन **ध्यान-विशेषम्**. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भक्तियोगो नाम -  
+अनन्य-निष्ठ-अनन्याधीन-अनन्य-शेष-भूत--भगवत्-स्वरूपादि-विषयको  
+निरतिशय-प्रीति-रूपो ध्यान-विशेषः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Bhakti yoga is the special form of meditation  
+which is of the nature of unsurpassed love  
+and which has, for its object, the essential nature and the like (form, qualities, etc.) of Bhagavān  
+who is not dependent on any one else,  
+who is not subject to the authority of any one else  
+and who does not exist for the fulfilment of the purposes of any one else.  
+</details>
+
+<details><summary>Español</summary>
+
+Bhakti yoga is the special form of meditation  
+which is of the nature of unsurpassed love  
+and which has, for its object, the essential nature and the like (form, qualities, etc.) of Bhagavān  
+who is not dependent on any one else,  
+who is not subject to the authority of any one else  
+and who does not exist for the fulfilment of the purposes of any one else.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इनि आत्मावलोकनसाध्यमान भक्तियोगत्तै निरूपिक्किऱार् भक्तियोगमावदु इत्यादिना । इदऱ्‌कु भगवानुडैय स्वरूपादिकळै विषयमागवुडैत्ताय् निरतिशयप्रीतिरूपमान ध्यानविशेषमॆन्बदोडु अन्वयम्. ध्यानशब्दत्ताले स्तुतिनमस्कारादिरूपमान प्रेमभक्तिव्यावृत्तिः । विशेषशब्दत्ताले प्राप्यदशैयिल् वरक्कूडिय फलरूपभक्तिव्यावृत्तिः । निरतिशय ऎण्ड्रदाल् आत्मावलोकनसाधनसातिशयप्रीतिरूपापन्नध्यानव्यावृत्तिः ।  
+प्रीतिरूपत्वोक्त्या ध्यानत्तिऱ्‌कु भक्तिरूपत्वमप्युक्तं भवति ।  
+‘‘प्रीति-पूर्वम् अनुध्यानं भक्तिर् इत्य् अभिधीयते’’ ऎन्नप्पट्टदिऱे.  
+भगवत्स्वरूपादिविषयत्वोक्त्या जीवविषयक ज्ञानयोगव्यावृत्तिः ।  
+इङ्गु आदिशब्दत्ताल् गुणविग्रहादिसङ्ग्रहः ।  
+अनन्यनिष्ठत्वादि विशेषणत्रयम् मूलमन्त्रत्तिल् प्रातिलोम्येन पदत्रयविवक्षितार्थम्.+++(5)+++ इदनाल् स्वरूपत्तै विशेषिक्कामल् भगवच्छब्दार्थत्तै विशेषित्तदालिदु भगवानुडैय स्वरूपकथनमेयॊऴिय ध्यानत्तिल् विषयमागवेण्डिय गुणकथनमण्ड्रॆण्ड्रु ज्ञापितमागिऱदु. आनालिदैयिङ्गु सॊल्लु वानेनॆनिल् ध्यानत्तिल् परावरतत्त्वङ्गळिल् माऱाट्टं कलसामैक्काग.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भक्तियोगमावदु — अनन्यनिष्ठनाय् अनन्याधीननाय् अनन्यशेषभूतनान भगवानुडैय स्वरूपादिगळै विषयमागवुडैत्ताय् निरतिशयप्रीतिरूपमान ध्यानविशेषम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदु तान् तैल-धारैयैप् पोल् ए निरन्तरम् आन **स्मृति-रूपम् आय्**  
+साक्षात्-कार-तुल्यम् आन **वैशद्यत्तैय् उडैत्त् आय्**  
+परम-पदत्तुक्कु प्रयाणम् पण्णुम् दिवसम् अऱुदिय्+++(=विच्छिन्नम्)+++ आग नाळ्-तोऱुम्+++(=प्रति)+++ **अनुष्ठिक्क वळर्न्दु+++(=वृद्ध)+++-वरुवद् आय्**  
++++(मृत्यु-क्षणिक-)+++ अन्तिम-प्रत्ययावधिय् आन ज्ञान-सन्तति-विशेषम् +++(प्रीतिरूपापन्नम्)+++.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[८४]]  
+स च तैलधारावन् निरन्तर-**स्मृति-रूपः** साक्षात्-कार-तुल्य-**वैशद्यवान्**  
+परम-पद-प्रयाण-दिवस-पर्यन्तम् अहर्-अहर् **अनुष्ठानेन वर्धमानो**  
++++(मृत्यु-क्षणिक-)+++ ऽन्तिम-प्रत्ययावधिको ज्ञान-सन्तति-विशेषः +++(प्रीतिरूपापन्नः)+++।  
+</details>
+
+<details><summary>English</summary>
+
+Bhakti is of the form of a continuous stream of knowledge  
+which is of the nature of uninterrupted memory  
+like oil streaming down continuously;  
+it has clearness similar to that of visual perception;  
+it grows from strength to strength by being practised every day  
+until the day of journey to Paramapada  
+and terminates in the remembrance of the last moment.
+</details>
+
+<details><summary>Español</summary>
+
+Bhakti is of the form of a continuous stream of knowledge  
+which is of the nature of uninterrupted memory  
+like oil streaming down continuously;  
+it has clearness similar to that of visual perception;  
+it grows from strength to strength by being practised every day  
+until the day of journey to Paramapada  
+and terminates in the remembrance of the last moment.
+</details>
+ 
+<details><summary>सायण-टीका</summary>
+
+ध्यान विशेषम् ऎण्ड्रु सामान्यमागच्चॊन्न ध्यानत्तिनुडैय विशेषत्तै श्रीभाष्योक्तप्रक्रियैयाले विशदीकरिक्किऱार् अदुदानित्यादिना । तैलधारै ऎप्पडि नडुविल् विच्छेदमण्ड्रिक् केयिरुक्कुमो अदुबोलेयॆण्ड्रबडि. अन्तरं – विच्छित्तिः । अदु इल्लाददु निरन्तरम्. अविच्छिन्नमॆण्ड्रबडि. स्मृतिरूपमाय् - शास्त्रश्रवणजन्यानुभवजन्याविच्छिन्नस्मृतिरूप माय्. इदनाल् ‘‘ध्रुवा स्मृतिः’’ ऎन्गिऱविडत्तिल् ध्रुवशब्दं स्मृतिसन्ततिरूपमान ध्यानत्तुक्कु तैलधारैबोल् अविच्छिन्नत्वत्तै सॊल्लवन्ददेयॊऴिय स्थायियाग ऒरु स्मृति उण्डॆण्ड्रु सॊल्लवन्ददण्ड्रु ऎण्ड्रदायिट्रु.  
+साक्षात्कारतुल्यमान वैशद्यत्तैयुडैत्तायिति ।  
+वैशद्यं – विषयिताविशेषम्. अदऱ्‌कु साक्षात्कारतुल्यत्वमावदु पश्यामीतिव्यवहारहेतुत्वम्. अदावदु ऒरुवन् घटत्तै साक्षात्करित्तबिऱगु अन्द साक्षात्कारनिष्ठघटनिरूपितविषयितै घटं पश्यामि ऎन्गिऱ व्यवहारत्तिऱ्‌कु ऎप्पडि प्रयोजकमागिऱदो अदु पोलवे ऒरुवनुक्कु ऒरु वस्तुविनुडैय अविच्छिन्नस्मृतिसन्ततियिले अनवरतभावनैयाले पश्यामीतिव्यवहारप्रयोजकवैशद्यम् अदावदु विषयिताविशेषम् उण्डागुम् आगैयाल् इदै साक्षात्कारतुल्यमान वैशद्यमॆन्गिऱदु. इदु श्रीभाष्यत्तिल् 
+
+> ‘‘भवति च स्मृतेर् भावना-प्रकर्षाद् दर्शनरूपता’’ 
+
+ऎण्ड्रु सॊल्लप्पट्टदु.  
+रामत्रस्तनान मारीचन् अन्द भयत्ताले सर्वदा रामस्मरणम् पण्णियदाल्  
+अन्द स्मरणम् प्रत्यक्षतुल्यमान वैशद्यत्तै उडैत्तानद् आय्क्-कॊण्डु,  
+अवनै, रामनै स्मरिक्किऱेन् ऎण्ड्रु व्यवहरिक्कुम् बडि पण्णामल् 
+
+> ‘‘वृक्षे वृक्षे च पश्यामि  
+> चीरकृष्णाजिनाम्बरम् ।  
+> गृहीतधनुषं रामं  
+> पाशहस्तमिवान्तकम्’’ 
+
+ऎण्ड्रु व्यवहरिक्कुम् पडि पण्णिट्रिऱे.+++(5)+++ 
+
+इदनाल् ‘‘भिद्यते हृदयग्रन्थिः .....तस्मिन् दृष्टे परावरे’’ इत्यादिकळुं  
+साक्षात्कारत्तिऱ्‌कु मोक्षोपायत्वत्तै विधिक्कवन्दद् अण्ड्रु,  
+किन्तु इन्द स्मृतिसन्ततिक्के साक्षात्कार-तुल्यवैशद्य-रूप-गुणत्तै विधिक्क वन्दद् ऎण्ड्रु अभिप्रायं वॆळियिडप्पट्टदु. 
+
+परमपदत्तुक्कु प्रयाणम् पण्णुं दिवसमऱुदियाग इति । अऱुदि - पर्यन्तम्. इदु ‘‘स खल्वेवं वर्तयन् यावदायुषम्’’ ‘‘आप्रयाणात्तत्राऽपि हि दृष्टम्’’ ऎन्गिऱ श्रुतिसूत्रङ्गळिल् अभिप्रेतार्थकथनम्. नाळ्दोऱुम् - प्रतिदिनमुम्. अनुष्ठिक्क - योगकालत्तिलेययनुष्ठिक्क वळर्न्दु वरुवादायिति ।  
+उत्तरोत्तरदिनङ्गळिल् पूर्वपूर्वदिनापेक्षया अधिककालानुवृत्तमायुं वैशद्यातिशयवत्तायुमॆण्ड्रबडि.  
+अन्तिमप्रत्ययावधियान इति । अन्तिमप्रत्ययमावदु चरमशरीरवियोगकालत्तिल् वागिन्द्रियोपरतिक्कुप् पिन्नुम् मन इन्द्रियोपरतिक्कु मुन्बुं वरुम् भगवत् ज्ञानम्. तदवधियानः- तत्पर्यन्तमान. अदु चरमाङ्गमागैयाल् अदु पर्यन्तम् इव्वुपासनम् अनुष्ठेय मॆण्ड्रु करुत्तु.  
+ज्ञानसन्ततिविशेषमिति ।  
+इङ्गु विशेषशब्दत्ताले प्रीतिरूपापन्नत्वं विवक्षितम्.  
+तथा च श्रुतिसिद्धम् आन उपाय-शरीरं साक्षात्-कार-तुल्य--स्मृति-सन्तति-मात्रम् अण्ड्रिक्के आप्रयाणम् अहर्-अहर् अभ्यासाधेयातिशयम् आय्,  
+अन्तिमप्रत्ययावधियान ज्ञानसन्ततिरूपमागैयाले ऒरु दिनत्तिले यनुष्ठेयमागादॆण्ड्रुम्, अन्तिमप्रत्यमुम् इदऱ्‌कु चरमाङ्गमागुमॆण्ड्रुं स्थापिक्कप्पट्टदु.  
+यद्यपि उपायविधायकवाक्यङ्गळिल् ‘‘तमेव विदित्वा’’ ‘‘तमेवं विद्वान्’’ ‘‘ध्यायीत’’ ‘‘उपासीत’’ इत्यादि सामान्यशब्दङ्गळ् श्रुतङ्गळ्;  
+आनालुम् ‘‘ध्रुवा स्मृतिः’’ ‘‘स्मृतिलम्भे सर्वग्रन्थीनां विप्रमोक्षः’’ ऎण्ड्रु विशेषविधिस्मरणात्  
+सामान्य-विशेष-न्यायत्तालेय् अवैगळॆल्लां स्मृत्य्-आत्मक-ज्ञानसन्ततिविशेषत्तिल् पर्यवसन्नङ्गळ् आगुम् ऎण्ड्रु  
+श्रीभाष्यत्तिल् निर्णयिक्कप्पट्टदिऱे.+++(5)+++  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदु तान् तैलधारैयैप्पोले निरन्तरमान स्मृतिरूपमाय् साक्षात्कारतुल्यमान वैशद्यत्तैयुडैत्ताय् परमपदत्तुक्कु प्रयाणम् पण्णुम् दिवसमऱुदियाग नाळ्दोऱुम् अनुष्ठिक्क वळर्न्दुवरुवदाय् अन्तिमप्रत्ययावधियान ज्ञानसन्ततिविशेषम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु वर्णाश्रम-धर्मङ्गळ्  
+ज्ञान-विकास-हेतुव् आन सत्त्व-विवृद्धिक्कुक् कळैय्+++(=दूषकम्)+++ आन रजस्-तमस्सुक्कळुक्कु  
+मूलम् आन पापङ्गळैक् **कऴित्तुक्-कॊण्डु**  
+**इति-कर्तव्यतैय्** +++(→अङ्गभूतम्)+++ आय् इरुक्कुम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य **वर्णाश्रम-धर्माः**  
+ज्ञान-विकास-हेतु-भूत--सत्त्व-विवृद्धि-प्रतिबन्धक--  
+रजस्-तमो-मूल-भूत--**पाप-निबर्हण-द्वारा इति-कर्तव्यता +++(→अङ्गभूता)+++ भवन्ति** । 
+</details>
+
+
+<details><summary>English</summary>
+
+The performance of the rites and duties of one's varṇa and āśrama is auxiliary to it (bhakti yoga ),  
+as it dispels sins that cause rajas and tamas,  
+which, like weeds, impede the growth of sattvam  
+so necessary for the expansion of knowledge. 
+</details>
+
+<details><summary>Español</summary>
+
+The performance of the rites and duties of one's varṇa and āśrama is auxiliary to it (bhakti yoga ),  
+as it dispels sins that cause rajas and tamas,  
+which, like weeds, impede the growth of sattvam  
+so necessary for the expansion of knowledge. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द ज्ञानसन्ततिक्कु वर्णाश्रमधर्मङ्गळ् अङ्गङ्गळॆण्ड्रु सॊल्लप्पोगिऱवराय् योगाभ्यासत्ताले वरुगिऱ इन्द ज्ञानसन्ततिरूपोपायत्तिऱ्‌कु इवैगळ् उपयुक्तङ्गळागुम्बडियॆङ्ङनेयॆन्न वरुळिच्चॆय्गिऱार् इदुक्कु वर्णाश्रमधर्मङ्गळित्यादिना – इतिकर्तव्यतैयायिरुक्कुमित्यन्तेन ।  
+ज्ञानविकासहेतुवान सत्त्वविवृद्धिक्कु इति । ‘‘सत्वात्सञ्जायते ज्ञानम्’’ ऎन्गिऱबडि आप्रयाणादनुवर्तनीयमान इन्द ज्ञानविकासत्तिऱ्‌कुक् कारणमान सत्वविवृद्धियै सम्पादिक्कवेण्डुम्. अदऱ्‌कुक्कळैयाग (प्रतिबन्धकमाग) रजस्तमस्सुक्कळ् वरुम्. अदऱ्‌कु मूलकारणम् पापविशेषङ्गळ्. अवैगळैक्कऴित्तुक्कॊण्डु - अन्द पापनिरासद्वारकम् आय्क्-कॊण्डु, इतिकर्तव्यतैयाय् - अङ्गमायिरुक्कुमॆण्ड्रबडि.  
+तथाच उपायविरोधिपापविशेषम् अङ्गप्रपत्तियाले कऴिन्दालुम् भक्तियोगानुष्ठानदशैयिले अहरहः सम्पादनीयमान ज्ञानविकासत् तिऱ्‌कु विरोधियान पापविशेषङ्गळै वर्णाश्रमधर्मानुष्ठानङ्गळाल् कऴिक्कवेण्डुम्. अदु कऴिन्दाल् सत्वाभिवृद्धिप्रतिबन्धकमान रजस्तमस्सुक्कळ् कारणाभावात्कार्याभावः ऎन्गिऱ कणक्किले कऴिन्दुबोम्. प्रतिबन्धकङ्गळान अवैगळ् कऴिन्दाल् सत्वं स्वतः अभिवृद्धमाम्. सत्त्वम् अभिवृद्धमानाल् ज्ञानविकासं दिनेदिने अभिवृद्धमामॆण्ड्रु तिरुवुळ्ळम्.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु वर्णाश्रमधर्मङ्गळ् ज्ञानविकासहेतुवान सत्त्वविवृद्धिक्कुक् कळैयान रजस्तमस्सुक्कळुक्कु मूलमान पापङ्गळैक् कऴित्तुक्कॊण्डु इतिकर्तव्यतैयायिरुक्कुम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-भक्ति-योगन् तान् ए  
+
+> “प्रत्ययार्थं च मोक्षस्य  
+> सिद्धयस् संप्रकीर्तिताः”(सात्त्वत-संहितै.) 
+
+ऎन्गिऱ पडिय् ए  
+इळ+++(=बाल)+++-नॆञ्जरैत्त्+++(=हृदयान्)+++ एट्रुगैक्कु  
+इट्ट विरग्+++(=उपायम्)+++ आन वऴियिल्  
+कामना-भेदत्ताल् ए ऐश्वर्यादिगळुक्क् उम् साधनम्  
+ऎन्नुम् इव्व्-अर्थम्  
+
+“चतुर्विधा भजन्ते मां”(गीता 7-16.) ऎण्ड्रु सॊल्लप्-पट्टदु.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं भक्तियोगः, 
+
+> "प्रत्ययार्थं च मोक्षस्य  
+> सिद्धयः संप्रकीर्तिताः" 
+
+इत्य्-उक्त-रीत्या दुर्बल-चितानां विश्वास-जननार्थं विहितोपाय-नीत्या  
+कामना-भेदेनैश्वर्यादीनां साधनं भवतीत्य् अयम् अर्थः,  
+"" चतुर्विधाः भजन्ते माम्" इति गीतः । 
+</details>
+
+<details><summary>English</summary>
+
+This bhakti yoga is also a means or sadhana  
+in accordance with the specific desire of the sādhaka,  
+for acquiring lordship (in this world or in svarga) and other fruits (like kaivalya).  
+This is calculated to strengthen the faith of the weak-minded as stated in the śloka  ;  
+
+> "Worldly benefits have also been mentioned as arising from bhakti-yoga.  
+They produce confidence in the attainment of mukti  
+> (by verifying what is stated in the śāstra  from the example of these worldly benefits). 
+
+This idea is expressed in the śloka  in the Gita (7-16)  
+which says: "Four kinds of persons worship me etc.”  
+
+</details>
+
+<details><summary>Español</summary>
+
+This bhakti yoga is also a means or sadhana  
+in accordance with the specific desire of the sādhaka,  
+for acquiring lordship (in this world or in svarga) and other fruits (like kaivalya).  
+This is calculated to strengthen the faith of the weak-minded as stated in the śloka  ;  
+
+> "Worldly benefits have also been mentioned as arising from bhakti-yoga.  
+They produce confidence in the attainment of mukti  
+> (by verifying what is stated in the śāstra  from the example of these worldly benefits). 
+
+This idea is expressed in the śloka  in the Gita (7-16)  
+which says: "Four kinds of persons worship me etc.”  
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इन्द भक्तियोगमे कामनाभेदत्ताले ऐश्वर्यकैवल्यङ्गळुक्कुं साधनमामॆन्गिऱार् इप्भक्तियोगन्दानेयित्यादियाल्. हितपरमान शास्त्रम् ऐश्वर्यादिकळै बन्धकत्वेन त्याज्यङ् गळागच्चॊल्लिप् पिन्नैयुम् अवट्रैये पुरुषार्थङ्गळागच्चॊल्लियवट्रिऱ्‌कु इन्द भक्तियोगत्तैये साधनमाग विधिक्किऱदॆण्ड्राल् शास्त्रं विश्वसनीयमागुमो वॆन्न वरुळिच्चॆय्गिऱार् प्रत्ययार्थञ्चेत्यादिना. भक्तियोगम् मोक्षसाधनमागुमोवॆण्ड्रु शङ्गिक्कुम् मन्दविश्वासनुक्कु, मोक्षस्य – मोक्षविषयत्तिल् भक्ति साधनमामॆण्ड्रु, प्रत्ययार्थं - नम्बिक्कै वरुवदऱ्‌काग सिद्धयः – 
+
+> ‘‘अणिमा महिमा च तथा  
+> गरिमा लघिमा वशित्वम् ऐश्वर्यम् ।  
+> प्राप्तिः प्राकाम्यञ् चेत्य्  
+> अष्टैश्वर्याणि योगसिद्धस्य’’ 
+
+ऎन्गिऱ अष्टैश्वर्यसिद्धिकळ्.  
+सम्प्रकीर्तिताः – भक्तिक्कु फलङ् गळगच्चॊल्लप्पट्टदुगळ्. इदनाल् ऒरुवन् ऐहिकङ्गळान अष्टैश्वर्यसिद्धिकळ् भक्तिक्कु फलमागच्चॊल्लियिरुप्पदै शास्त्रत्ताल् तॆरिन्दु अन्द भक्तियोगत्तै अनुष्ठित्तु अदनाल् अष्टैश्वर्यसिद्धिक्कळैप् पॆट्राल् अवनुक्कु, मोक्षत्तिऱ्‌कु साधन मागच् चॊल्लप्पट्ट इन्द भक्तियोगत्तै यनुष्ठित्ताल् नमक्कु इन्द ऐहिकैश्वर्यङ्गळ् पोल् आमुष्मिकमान मोक्षमुमवश्यं वरुमॆण्ड्रु महाविश्वासमुम् उण्डागुमॆण्ड्रुं ज्ञापिक्कप्पट्टदु. ऎन्गिऱबडिये - ऎण्ड्रु सात्वतसंहितैयिल् सॊल्लुगिऱबडिये. इळनॆञ्जरै - मन्दविश्वासर्गळै. तेट्रुगैक्कु - वेदविहितमान साधनत्तै अनुष्ठित्ताल् अवश्यम् मोक्षं सिद्धिक्कुमॆन्गिऱ विश्वासशालिकळागप्पण्णुगैक्काग. इट्टविरगान - एऱ्‌पाडुसॆय्यप्पट्ट उपायमान.  
+वऴियिले - मार्गत्तिले, मार्गमवलम्ब्येत्यर्थः । कामनाभेदत्ताल् ऐश्वर्यादिकळुक्कुं साधनमिति । भक्तियोगम् ऒण्ड्रु तानेयागिलुम्, कामनाभेदत्ताले - तत्तत्कामनाविशेषत्ताले, ऐश्वर्यादिकळुक्कुम्साधनम् - ऐश्वर्यादिकामनासहकृतमाय्क्कॊण्डु ऐश्वर्यादिकळुक्कुं साधनम्. ऎन्नुमिव्वर्थम् - ऎन्गिऱ न्यायसिद्धमान इव्वर्थम्. इदु ‘‘चतुर्विधा भजन्ते मां’’ ऎन्गिऱ वचनत्तालुं सॊल्लप्पट्टदॆन्गिऱार् चतुर्विधा भजन्ते माम् ऎण्ड्रु सॊल्लप्पट्टदु इति ।  
+चतुर्विधेत्याद्युक्तार्थः । अव्विडत्तिलित्यादि । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्भक्तियोगन्दाने “प्रत्ययार्थं च मोक्षस्य सिद्धयस्संप्रकीर्तिताः”(सात्त्वत-संहितै.) ऎन्गिऱ पडिये  
+इळनॆञ्जरैत्तेट्रुगैक्कु इट्ट विरगान वऴियिल् कामनाभेदत्ताले ऐश्वर्यादिगळुक्कुम् साधनमॆन्नुमिव्वर्थम् “चतुर्विधा भजन्ते मां”(गीता 7-16.) ऎण्ड्रु सॊल्लप्पट्टदु.  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व् इडत्तिल् 
+
+> “तेषां ज्ञानी नित्य-युक्त  
+> एक-भक्तिर् विशिष्यते” 
+> (गीता 7-17.) 
+
+ऎण्ड्रु तुडङ्गिच् चॊन्न ज्ञानियिन्-उडैय एट्रत्तै … 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्र "4 तेषां ज्ञानी नित्ययुक्तः एकभक्तिर् विशिष्यते" इत्युपक्रम्य गीतं ज्ञानिनः समुत्कर्षम् …
+</details>
+
+<details><summary>English</summary>
+
+The superiority of the Jnāni which is stated there in the words,  
+
+> " Among them, the Jñāni is the best  
+> because he desires to be always with Bhagavān  
+> and is devoted solely and exclusively to Him" 
+</details>
+
+<details><summary>Español</summary>
+
+The superiority of the Jnāni which is stated there in the words,  
+
+> " Among them, the Jñāni is the best  
+> because he desires to be always with Bhagavān  
+> and is devoted solely and exclusively to Him" 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अव्विडत्तिल् - अङ्गु सॊन्न चतुर्विधाधिकारिमध्यत्तिल्. इदऱ्‌कु ज्ञानियिनुडैय ऎन्बदोडन्वयम्. तेषां - इन्द चतुर्विधाधिकारिकळुडैय मध्यत्तिले. निर्धारणे षष्ठी ।  
+ज्ञानी – भगवदनुभवाकाङ्क्षी ।  
+नित्ययुक्तः – मया सह नित्य-योगं काङ्क्षमाणः,  
+ऐश्वर्यार्थिकळैप् पोल् ए उपासन-कालत्तिल् मात्तिरम् ऎन्नुडैय सम्बन्धत्तैय् अपेक्षित्तवर्गळ् अण्ड्रिक्क् ए  
+नित्यमागव् ए अद् आवदु उपासन-कालत्तिल् उम् फल-कालत्तिलुम् ऎन्नोडु सम्बन्धत्तै काङ्क्षमाणः । +++(5)+++  
+आशंसायां – भूतवच्च इति क्तः ।  
+
+एकभक्तिः – मय्येकस्मिन्नेव भक्तियैयुडैयवन्. ऐश्वर्याद्यर्थङ्गळ् फलमागैयाले ऐश्वर्यादिकळिल् भक्तियैयुम्, अदऱ्‌कु साधनमागैयाले ऎन्निडत्तिल् भक्तियैयुम् उडैयवर्गळ्, अवर्गळ्बोलण्ड्रिक्के ज्ञानिक्कु फलमुं साधनमुं यानेयागैयाले मयि एकस्मिन्नेव फलतया साधनतया च भक्तियैयुडैयवनॆण्ड्रबडि. इव्विरण्डुं हेतुगर्भविशेषणङ्गळ्. नित्ययॊगाकाङ्क्षित्वात्, प्रयोजनान्तरं विहाय मय्येकस्मिन्नेव भक्तियुक्तत्वाच्च, विशिष्यते – उत्कृष्टो भवतीत्यर्थः । ऎण्ड्रु तुडङ्गिच्चॊन्न - ऎण्ड्रारम्बित्तुच्चॊन्न, ज्ञानियिनुडैय एट्रत्तै - ज्ञानियिनुडैय उत्कर्षत्तै. इदनाल् इन्द ज्ञानिक्कु एकभक्तिर्विशिष्यते ऎण्ड्रु कामनाभेदकृतमान उत्कर्षं सॊल्लुगिऱदेयॊऴिय भक्तिवैलक्षण्यकृतवैलक्षण्यं सॊल्लविल्लैयागैयाल् इव्वधिकारिकळ् पण्णुम् भक्तिस्वरूपत्तिल् वैलक्षण्यमिल्लैयॆण्ड्रु ज्ञापिक्कप्पट्टदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्विडत्तिल् “तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते”(गीता 7-17.) ऎण्ड्रु तुडङ्गिच् चॊन्न ज्ञानियिनुडैय एट्रत्तै  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “चतुर्विधा मम जना  
+भक्ता एव हि ते स्मृताः ।  
+तेषाम् एकान्तिनश् श्रेष्ठास्  
+ते चैवानन्य-देवताः ।  
+(भारतम् शान्तिपर्व 350-33-35.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “चतुर्विधा मम जना  
+भक्ता एव हि ते स्मृताः ।  
+तेषाम् एकान्तिनश् श्रेष्ठास्  
+ते चैवानन्य-देवताः ।  
+</details>
+
+<details><summary>English</summary>
+
+… is thus described by Bhagavān Himself  
+
+> " Four *kinds of people are my men.  
+> They are all devotees (bhaktas).  
+> Of them they who worship me alone exclusively are the best,  
+> for they do not approach other deities.  
+</details>
+
+<details><summary>Español</summary>
+
+… is thus described by Bhagavān Himself  
+
+> " Four *kinds of people are my men.  
+> They are all devotees (bhaktas).  
+> Of them they who worship me alone exclusively are the best,  
+> for they do not approach other deities.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+चतुर्विधेति । चतस्त्रःविधाः आर्तत्वादयः येषां, नान्गु वगैप्पट्ट आर्तादिकळ्. मम जनाः – मया – मदीयत्वेनादृताः जनाः, ते सर्वेऽपि भक्ता एव हि शास्त्रेषु स्मृता इति प्रसिद्धम्. तेषां – तेषां मध्ये, एकान्तिनः – एकस्मिन् मयि अन्तः साधनतया फलतया च निश्चयो येषां, ते एकान्तिनः । इदनाल् एकभक्तिशब्दार्थं विवरिक्कप्पट्टदु. श्रेष्ठाः – उत्कृष्टाः । इदनाल् विशिष्यते ऎन्गिऱ शब्दार्थं वॆळियिडप्पट्टदु. ते चैवानन्यदेवताः – अनन्या देवता येषाम् । प्राप्यभूतदेवतैसाधनदेवतानन्यमो ते अनन्यदेवताः । एवकारो भिन्नक्रमः । अनन्यदेवता एवेत्यर्थः इदनालिवर्गळुक्कु अनन्यदेवताकत्वं नित्यमॆण्ड्रु सॊल्लप्पडुगिऱदु. इतरर्गळ् मूवरुक्कुम् फललाभपर्यन्तं नान् देवतै । ऐश्वर्यादिफलं किडैत्तबिऱगु मदन्यदेवताकत्वमुम्सम्भविक्कलामॆण्ड्रु करुत्तु. इदनाल् नित्ययुक्तशब्दार्थं वॆळियिडप्पट्टदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“चतुर्विधा मम जना भक्ता एव हि ते स्मृताः ।  
+तेषामेकान्तिनश्श्रेष्ठास्ते चैवानन्यदेवताः ।(भारतम् शान्तिपर्व 350-33-35.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहम् एव गतिस् तेषां  
+निराशीः कर्म-कारिणाम् ।  
+ये तु शिष्टास् त्रयो भक्ताः  
+फलकामा हि ते मताः ।  
+सर्वे च्यवन-धर्माणः  
+प्रतिबुद्धस् तु मोक्षभाक्”  
+
+ऎण्ड्रु तान् ए वॆळियिट्टान्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अहम् एव गतिस् तेषां  
+निराशीः कर्म-कारिणाम् ।  
+ये तु शिष्टास् त्रयो भक्ताः  
+फलकामा हि ते मताः ।  
+सर्वे च्यवन-धर्माणः  
+प्रतिबुद्धस् तु मोक्षभाक्”  
+
+इति स्वयमेव प्रकाशयाम् आस ।
+</details>
+
+<details><summary>English</summary>
+
+> They perform the prescribed rites and duties  
+> without caring for their fruits  
+> and desire to attain me alone.  
+> The other three kinds of devotees desire ( worldly) fruits  
+> which have an end and they are subject to lapses.  
+> The wise man who worships me with sole and exclusive devotion attains mokṣa ."
+
+</details>
+
+<details><summary>Español</summary>
+
+> They perform the prescribed rites and duties  
+> without caring for their fruits  
+> and desire to attain me alone.  
+> The other three kinds of devotees desire ( worldly) fruits  
+> which have an end and they are subject to lapses.  
+> The wise man who worships me with sole and exclusive devotion attains mokṣa ."
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अहमेवेत्यादि । निराशीः कर्म - फलसङ्गादिरहितं कर्म, तत्कारिणां प्रयोजनान्तरानाकाङ्क्षया मत्सेवारूपकर्मकारिणामित्यर्थः । अहमेव गतिः – गम्यत इति, गम्यते अनेनेति कर्मणिव्युत्पत्त्या, करणव्युत्पत्त्या चाहमेव प्राप्यः, साधनञ्चेत्यर्थः । ये तु शिष्टास्त्रयो भक्ताः – मिगुन्द आर्तादिकळानमूण्ड्रु भक्तर् ऎवरो? ते फल कामा हि – ऐश्वर्यादिफलकामा मता इति प्रसिद्धम्. सर्वे च्यवनधर्माण इति । इङ्गु धर्मशब्दम् फलपरम्. तत्तत्फलभाक्कान अधिकारिरूपधर्म्यपेक्षया फलं धर्ममिऱे. तत्तत्फलानुभवानन्तरम् अन्द मूण्ड्रु अधिकारिकळुक्कुम् फलं नश्वरमागुमॆण्ड्रबडि. प्रतिबुद्धस्तु - इवर्गळिल् विलक्षणनागच् चॊल्लप्पट्ट ज्ञानियो वॆण्ड्राल्! मोक्षभाक् – नित्यमान मोक्षत्तैयडैगिऱवन्. भावान्तराभाववादिकळान नं सिद्धान्तत्तिल् संसारविमोचनं, भगवत्प्राप्तिरूपमान अदावदु - भगवदनुभवरूपमान भावमाग मुडिगैयाल् भगवदनुभवरूपभगवत्प्राप्तिमानाग आगिऱानॆण्ड्रबडि.   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अहमेव गतिस्तेषां निराशीः कर्मकारिणाम् ।  
+ये तु शिष्टास्त्रयो भक्ताः फलकामा हि ते मताः ।  
+सर्वे च्यवनधर्माणः प्रति बुद्धस्तु मोक्षभाक्”  
+ऎण्ड्रु ताने वॆळियिट्टान्.  
+</details>
+
+### परभक्ति--पर-ज्ञान--परम-भक्ति-निरूपणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि मोक्षोपायम् आग विधित्त भक्ति-योगम्  
+**पर-भक्तिय्** ऎण्ड्रु पेसप्-पट्टदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं मोक्षोपायत्वेन विहितो भक्ति-योगः **पर-भक्तिर्** इत्य् अभ्यधायि । 
+</details>
+
+<details><summary>English</summary>
+
+Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. 
+</details>
+
+<details><summary>Español</summary>
+
+Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि मोक्षोपायमाग विधित्त भक्तियोगम् परभक्तियॆण्ड्रु पेसप्पट्टदु. 
+</details>
+
+
+Love of the Lord which results from intimacy with sāttvikas (and the scriptures ) and which produces parābhakti is also called bhakti, because it generates an eager desire to know Iśvara with perfect clearness. It has been said: "Owing to smy devotion to the Lord and to my gurus, I have attained spiritual purity and come to know Janārdana with the help of the Śāstras." (So parābhakti is born successively of a knowledge of the truth obtained from the śāstras which leads to karma yoga and the like). It (parābhakti) produces in its turn an eager desire and determination to see the Lord and makes the man cry out as follows- "O Lord, 'who art the abode of attributes like jñāna, be pleased to show Thy whole self 1" “Vouchsafe Thy grace so that I may see Thee": "May I see Thee some day!" By this keen desire alone, he wins the grace of Bhagavān who rewards him with a perfect visual perception of himself for the time being. This visual perception is called parajñāna. From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
 
 BHAKTI AND PRAPATTI:
 
