@@ -1733,10 +1733,94 @@ and makes the man cry out as above ~~follows~~-
 ऎण्ड्रु विलपिक्कुम् बडि पण्णि 
 </details>
 
+### पर-ज्ञानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
- 
+इव्व्-अपेक्षामात्रम् अडिय् आग वन्द भगवत्-प्रसाद-विशेषत्ताल् ए  
+तत्-काल-नियतम् आन परिपूर्ण-साक्षात्-कारत्तैय् उण्डाक्कुम्. 
+</details>
 
-By this keen desire alone, he wins the grace of Bhagavān who rewards him with a perfect visual perception of himself for the time being. This visual perception is called parajñāna. From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतद्-अपेक्षा-मात्र-निबन्धनेन भगवत्-प्रसाद-विशेषेण  
+तत्-काल-नियतं परिपूर्ण-**साक्षात्-कारम् उमुत्पादयति** । 
+</details>
+
+<details><summary>English</summary>
+
+By this keen desire alone,  
+he wins the grace of Bhagavān who rewards him  
+with a perfect visual perception of himself for the time being. 
+</details>
+
+<details><summary>Español</summary>
+
+By this keen desire alone,  
+he wins the grace of Bhagavān who rewards him  
+with a perfect visual perception of himself for the time being. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वन्द - उण्डान, भगवत्प्रसादविशेषत्ताले इति । उपायनिष्पत्त्यनन्तरं देशविशेषत्तिलुण्डागुम् परिपूर्णभगवत्साक्षात्कारत्तिऱ्‌कु हेतुवान प्रसादत्तैक् काट्टिलुं वेऱुबट्ट प्रसादविशेषत्ताले यॆण्ड्रबडि. तथा च उपायनिष्पत्तिजन्यपरिपूर्णसाक्षात्कारहेतुभूत प्रसादविशेषरूपकारणम् इप्पोदिल्लाविट्टालुं तद्विलक्षणमान इन्द प्रसादविशेषत्ताल् इङ्गेये साक्षात्कारम् पिऱक्कलामॆण्ड्रु करुत्तु. तत्कालनियतमान - इवनुडैयवबेक्षै यॆव्वळवु कालमिरुक्किऱदो, अव्वळवु पर्यन्तमान. परिपूर्णसाक्षात्कारत्तैयुण्डाक्कुम् - देशविशेषावच्छिन्नसाक्षात्कारम्बोलिरुक्किऱ पूर्णसाक्षात्कारत्तै युण्डाक्कुम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वपेक्षामात्रमडियाग वन्द भगवत्प्रसादविशेषत्ताले तत्कालनियतमान परिपूर्णसाक्षात्कार त्तैयुण्डाक्कुम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस्साक्षात्कारम् परज्ञानम् ऎण्ड्रु पेसप्पट्टदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एष साक्षात्कारः परज्ञानम् इत्य् अभ्यधायि । 
+</details>
+
+
+<details><summary>English</summary>
+
+This visual perception is called parajñāna. 
+</details>
+
+<details><summary>Español</summary>
+
+This visual perception is called parajñāna. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इस्साक्षात्कारम् परज्ञानमॆण्ड्रु पेसप्पट्टदु - इदुवे परज्ञानमॆण्ड्रु ‘‘परज्ञानन्तु तस्यैव साक्षात्कारः परिस्फुटः’’ इत्यादौ सॊल्लप्पट्टदॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस्साक्षात्कारम् परज्ञानम् ऎण्ड्रु पेसप्पट्टदु.
+</details>
+
+### परम-भक्तिः 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि निरतिशय-भोग्यम् आन भगवत्-स्वरूपत्तै साक्षात्-करित्त-वाऱ्+++(=रीत्या)+++ ए  
+पॆरु-विडाय्प् पट्टवन् तटाकत्तैक् कण्ड्-आप्-पोल् ए पिऱन्द प्रीत्य्-अतिशयम् परम-भक्ति । 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि निरतिशयभोग्यमान भगवत्स्वरूपत्तै साक्षात्करित्तवाऱे पॆरुविडाय्प्पट्टवन् तटाकत्तैक्कण्डाप्पोले पिऱन्द प्रीत्यतिशयम् परमभक्ति । 
+</details>
+
+
+
+From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
 
 BHAKTI AND PRAPATTI:
 
