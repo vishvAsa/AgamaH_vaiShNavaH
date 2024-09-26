@@ -1255,7 +1255,10 @@ The superiority of the Jnāni which is stated there in the words,
 ज्ञानी – भगवदनुभवाकाङ्क्षी ।  
 नित्ययुक्तः – मया सह नित्य-योगं काङ्क्षमाणः,  
 ऐश्वर्यार्थिकळैप् पोल् ए उपासन-कालत्तिल् मात्तिरम् ऎन्नुडैय सम्बन्धत्तैय् अपेक्षित्तवर्गळ् अण्ड्रिक्क् ए  
-नित्यमागव् ए अद् आवदु उपासन-कालत्तिल् उम् फल-कालत्तिलुम् ऎन्नोडु सम्बन्धत्तै काङ्क्षमाणः । +++(5)+++
+नित्यमागव् ए अद् आवदु उपासन-कालत्तिल् उम् फल-कालत्तिलुम् ऎन्नोडु सम्बन्धत्तै काङ्क्षमाणः । +++(5)+++  
+आशंसायां – भूतवच्च इति क्तः ।  
+
+एकभक्तिः – मय्येकस्मिन्नेव भक्तियैयुडैयवन्. ऐश्वर्याद्यर्थङ्गळ् फलमागैयाले ऐश्वर्यादिकळिल् भक्तियैयुम्, अदऱ्‌कु साधनमागैयाले ऎन्निडत्तिल् भक्तियैयुम् उडैयवर्गळ्, अवर्गळ्बोलण्ड्रिक्के ज्ञानिक्कु फलमुं साधनमुं यानेयागैयाले मयि एकस्मिन्नेव फलतया साधनतया च भक्तियैयुडैयवनॆण्ड्रबडि. इव्विरण्डुं हेतुगर्भविशेषणङ्गळ्. नित्ययॊगाकाङ्क्षित्वात्, प्रयोजनान्तरं विहाय मय्येकस्मिन्नेव भक्तियुक्तत्वाच्च, विशिष्यते – उत्कृष्टो भवतीत्यर्थः । ऎण्ड्रु तुडङ्गिच्चॊन्न - ऎण्ड्रारम्बित्तुच्चॊन्न, ज्ञानियिनुडैय एट्रत्तै - ज्ञानियिनुडैय उत्कर्षत्तै. इदनाल् इन्द ज्ञानिक्कु एकभक्तिर्विशिष्यते ऎण्ड्रु कामनाभेदकृतमान उत्कर्षं सॊल्लुगिऱदेयॊऴिय भक्तिवैलक्षण्यकृतवैलक्षण्यं सॊल्लविल्लैयागैयाल् इव्वधिकारिकळ् पण्णुम् भक्तिस्वरूपत्तिल् वैलक्षण्यमिल्लैयॆण्ड्रु ज्ञापिक्कप्पट्टदु. 
 </details>
 
 
@@ -1264,12 +1267,146 @@ The superiority of the Jnāni which is stated there in the words,
 अव्विडत्तिल् “तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते”(गीता 7-17.) ऎण्ड्रु तुडङ्गिच् चॊन्न ज्ञानियिनुडैय एट्रत्तै  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “चतुर्विधा मम जना  
+भक्ता एव हि ते स्मृताः ।  
+तेषाम् एकान्तिनश् श्रेष्ठास्  
+ते चैवानन्य-देवताः ।  
+(भारतम् शान्तिपर्व 350-33-35.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “चतुर्विधा मम जना  
+भक्ता एव हि ते स्मृताः ।  
+तेषाम् एकान्तिनश् श्रेष्ठास्  
+ते चैवानन्य-देवताः ।  
+</details>
+
+<details><summary>English</summary>
+
+… is thus described by Bhagavān Himself  
+
+> " Four *kinds of people are my men.  
+> They are all devotees (bhaktas).  
+> Of them they who worship me alone exclusively are the best,  
+> for they do not approach other deities.  
+</details>
+
+<details><summary>Español</summary>
+
+… is thus described by Bhagavān Himself  
+
+> " Four *kinds of people are my men.  
+> They are all devotees (bhaktas).  
+> Of them they who worship me alone exclusively are the best,  
+> for they do not approach other deities.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+चतुर्विधेति । चतस्त्रःविधाः आर्तत्वादयः येषां, नान्गु वगैप्पट्ट आर्तादिकळ्. मम जनाः – मया – मदीयत्वेनादृताः जनाः, ते सर्वेऽपि भक्ता एव हि शास्त्रेषु स्मृता इति प्रसिद्धम्. तेषां – तेषां मध्ये, एकान्तिनः – एकस्मिन् मयि अन्तः साधनतया फलतया च निश्चयो येषां, ते एकान्तिनः । इदनाल् एकभक्तिशब्दार्थं विवरिक्कप्पट्टदु. श्रेष्ठाः – उत्कृष्टाः । इदनाल् विशिष्यते ऎन्गिऱ शब्दार्थं वॆळियिडप्पट्टदु. ते चैवानन्यदेवताः – अनन्या देवता येषाम् । प्राप्यभूतदेवतैसाधनदेवतानन्यमो ते अनन्यदेवताः । एवकारो भिन्नक्रमः । अनन्यदेवता एवेत्यर्थः इदनालिवर्गळुक्कु अनन्यदेवताकत्वं नित्यमॆण्ड्रु सॊल्लप्पडुगिऱदु. इतरर्गळ् मूवरुक्कुम् फललाभपर्यन्तं नान् देवतै । ऐश्वर्यादिफलं किडैत्तबिऱगु मदन्यदेवताकत्वमुम्सम्भविक्कलामॆण्ड्रु करुत्तु. इदनाल् नित्ययुक्तशब्दार्थं वॆळियिडप्पट्टदु. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“चतुर्विधा मम जना भक्ता एव हि ते स्मृताः ।  
+तेषामेकान्तिनश्श्रेष्ठास्ते चैवानन्यदेवताः ।(भारतम् शान्तिपर्व 350-33-35.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहम् एव गतिस् तेषां  
+निराशीः कर्म-कारिणाम् ।  
+ये तु शिष्टास् त्रयो भक्ताः  
+फलकामा हि ते मताः ।  
+सर्वे च्यवन-धर्माणः  
+प्रतिबुद्धस् तु मोक्षभाक्”  
+
+ऎण्ड्रु तान् ए वॆळियिट्टान्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अहम् एव गतिस् तेषां  
+निराशीः कर्म-कारिणाम् ।  
+ये तु शिष्टास् त्रयो भक्ताः  
+फलकामा हि ते मताः ।  
+सर्वे च्यवन-धर्माणः  
+प्रतिबुद्धस् तु मोक्षभाक्”  
+
+इति स्वयमेव प्रकाशयाम् आस ।
+</details>
+
+<details><summary>English</summary>
+
+> They perform the prescribed rites and duties  
+> without caring for their fruits  
+> and desire to attain me alone.  
+> The other three kinds of devotees desire ( worldly) fruits  
+> which have an end and they are subject to lapses.  
+> The wise man who worships me with sole and exclusive devotion attains mokṣa ."
+
+</details>
+
+<details><summary>Español</summary>
+
+> They perform the prescribed rites and duties  
+> without caring for their fruits  
+> and desire to attain me alone.  
+> The other three kinds of devotees desire ( worldly) fruits  
+> which have an end and they are subject to lapses.  
+> The wise man who worships me with sole and exclusive devotion attains mokṣa ."
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अहमेवेत्यादि । निराशीः कर्म - फलसङ्गादिरहितं कर्म, तत्कारिणां प्रयोजनान्तरानाकाङ्क्षया मत्सेवारूपकर्मकारिणामित्यर्थः । अहमेव गतिः – गम्यत इति, गम्यते अनेनेति कर्मणिव्युत्पत्त्या, करणव्युत्पत्त्या चाहमेव प्राप्यः, साधनञ्चेत्यर्थः । ये तु शिष्टास्त्रयो भक्ताः – मिगुन्द आर्तादिकळानमूण्ड्रु भक्तर् ऎवरो? ते फल कामा हि – ऐश्वर्यादिफलकामा मता इति प्रसिद्धम्. सर्वे च्यवनधर्माण इति । इङ्गु धर्मशब्दम् फलपरम्. तत्तत्फलभाक्कान अधिकारिरूपधर्म्यपेक्षया फलं धर्ममिऱे. तत्तत्फलानुभवानन्तरम् अन्द मूण्ड्रु अधिकारिकळुक्कुम् फलं नश्वरमागुमॆण्ड्रबडि. प्रतिबुद्धस्तु - इवर्गळिल् विलक्षणनागच् चॊल्लप्पट्ट ज्ञानियो वॆण्ड्राल्! मोक्षभाक् – नित्यमान मोक्षत्तैयडैगिऱवन्. भावान्तराभाववादिकळान नं सिद्धान्तत्तिल् संसारविमोचनं, भगवत्प्राप्तिरूपमान अदावदु - भगवदनुभवरूपमान भावमाग मुडिगैयाल् भगवदनुभवरूपभगवत्प्राप्तिमानाग आगिऱानॆण्ड्रबडि.   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अहमेव गतिस्तेषां निराशीः कर्मकारिणाम् ।  
+ये तु शिष्टास्त्रयो भक्ताः फलकामा हि ते मताः ।  
+सर्वे च्यवनधर्माणः प्रति बुद्धस्तु मोक्षभाक्”  
+ऎण्ड्रु ताने वॆळियिट्टान्.  
+</details>
+
+### परभक्ति--पर-ज्ञान--परम-भक्ति-निरूपणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि मोक्षोपायम् आग विधित्त भक्ति-योगम्  
+**पर-भक्तिय्** ऎण्ड्रु पेसप्-पट्टदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं मोक्षोपायत्वेन विहितो भक्ति-योगः **पर-भक्तिर्** इत्य् अभ्यधायि । 
+</details>
+
+<details><summary>English</summary>
+
+Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. 
+</details>
+
+<details><summary>Español</summary>
+
+Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. 
+</details>
 
 
 
-is thus described by Bhagavān Himself com " Four *kinds of people are my men. They are all devotees (bhaktas). Of them they who worship me alone exclusively are the best, for they do not approach other deities. They perform the prescribed rites and duties without caring for their fruits and desire to attain me alone. The other three kinds of devotees desire ( worldly) fruits which have an end and they are subject to lapses. The wise man who worships me with sole and exclusive devotion attains mokṣa ."
+<details><summary>मूलम्</summary>
 
-Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. Love of the Lord which results from intimacy with sāttvikas (and the scriptures ) and which produces parābhakti is also called bhakti, because it generates an eager desire to know Iśvara with perfect clearness. It has been said: "Owing to smy devotion to the Lord and to my gurus, I have attained spiritual purity and come to know Janārdana with the help of the Śāstras." (So parābhakti is born successively of a knowledge of the truth obtained from the śāstras which leads to karma yoga and the like). It (parābhakti) produces in its turn an eager desire and determination to see the Lord and makes the man cry out as follows- "O Lord, 'who art the abode of attributes like jñāna, be pleased to show Thy whole self 1" “Vouchsafe Thy grace so that I may see Thee": "May I see Thee some day!" By this keen desire alone, he wins the grace of Bhagavān who rewards him with a perfect visual perception of himself for the time being. This visual perception is called parajñāna. From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
+इप्पडि मोक्षोपायमाग विधित्त भक्तियोगम् परभक्तियॆण्ड्रु पेसप्पट्टदु. 
+</details>
+
+
+Love of the Lord which results from intimacy with sāttvikas (and the scriptures ) and which produces parābhakti is also called bhakti, because it generates an eager desire to know Iśvara with perfect clearness. It has been said: "Owing to smy devotion to the Lord and to my gurus, I have attained spiritual purity and come to know Janārdana with the help of the Śāstras." (So parābhakti is born successively of a knowledge of the truth obtained from the śāstras which leads to karma yoga and the like). It (parābhakti) produces in its turn an eager desire and determination to see the Lord and makes the man cry out as follows- "O Lord, 'who art the abode of attributes like jñāna, be pleased to show Thy whole self 1" “Vouchsafe Thy grace so that I may see Thee": "May I see Thee some day!" By this keen desire alone, he wins the grace of Bhagavān who rewards him with a perfect visual perception of himself for the time being. This visual perception is called parajñāna. From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
 
 BHAKTI AND PRAPATTI:
 
