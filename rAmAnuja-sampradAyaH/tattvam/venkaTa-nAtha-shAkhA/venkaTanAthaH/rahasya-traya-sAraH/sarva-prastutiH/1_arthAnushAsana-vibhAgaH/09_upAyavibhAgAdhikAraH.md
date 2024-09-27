@@ -1376,7 +1376,7 @@ The superiority of the Jnāni which is stated there in the words,
 ऎण्ड्रु ताने वॆळियिट्टान्.  
 </details>
 
-### परभक्ति--पर-ज्ञान--परम-भक्ति-निरूपणम्
+### भक्ति--पर-भक्ती
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि मोक्षोपायम् आग विधित्त भक्ति-योगम्  
@@ -1398,6 +1398,24 @@ Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  ha
 Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  has been called parābhakti. 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+> शास्त्रज्ञानजन्यमाय् कर्मयोग--ज्ञानयोग-साध्य-भक्ति-योगम् आनदु  
+एतादृशम् आय् मोक्ष-साधनम् आनाल्  
+सम्प्रदायत्तिल् पर-भक्तिय् ऎण्ड्रुम् पर-ज्ञानमॆण्ड्रुम् परम-भक्तियॆण्ड्रुं सॊल्लुगिऱदु ऎदै?  
+इदु निऱ्‌क  
+>
+> > ‘‘शुद्धभावङ् गतो भक्त्या  
+> शास्त्राद् वेद्मि जनार्दनं’’ 
+>
+> ऎण्ड्रु शास्त्रत्ताले भगवानैय् अऱिगैक्कु हेतुवागच् चॊल्लप्-पट्ट भक्तिय् ऎन्बदु-दान् ऎदु? 
+
+ऎन्गिऱ मध्य-स्थ-शङ्कैयिल् अवैगळै विवरिक्किऱार् इप्पडि इत्यादिना - वीडुबॆऱप्पण्णुमित्यन्तेन ।  
+इप्पडि - भक्तियोगमावदु ऎण्ड्रारम्बित्तु ज्ञानसन्ततिविशेषमॆन्नुमळवाले सॊल्लप्-पट्ट विशेषण-विशिष्टम् आय् ऎण्ड्र बडि.  
+मोक्षोपायम् आय् इत्यनेन साक्षात्कारसमानाकारताप्राप्तिक्कु मुन्बट्ट स्मृतिव्यावृत्तिः ।  
+
+विधित्त इत्य् अनेन इन्द भक्तिकार्यमागत्तानागवरुम् परमभक्तिव्यावृत्तिः । भक्तियोगम् - एतावता उपपादितमान भक्तियोगमे, परभक्तियॆण्ड्रु पेसप्पट्टदु - ‘‘मद्भक्तिं लभते परां’’ इत्यादिकळिले सॊल्लप्पट्टदु.
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -1405,8 +1423,525 @@ Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  ha
 इप्पडि मोक्षोपायमाग विधित्त भक्तियोगम् परभक्तियॆण्ड्रु पेसप्पट्टदु. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Love of the Lord which results from intimacy with sāttvikas (and the scriptures ) and which produces parābhakti is also called bhakti, because it generates an eager desire to know Iśvara with perfect clearness. It has been said: "Owing to smy devotion to the Lord and to my gurus, I have attained spiritual purity and come to know Janārdana with the help of the Śāstras." (So parābhakti is born successively of a knowledge of the truth obtained from the śāstras which leads to karma yoga and the like). It (parābhakti) produces in its turn an eager desire and determination to see the Lord and makes the man cry out as follows- "O Lord, 'who art the abode of attributes like jñāna, be pleased to show Thy whole self 1" “Vouchsafe Thy grace so that I may see Thee": "May I see Thee some day!" By this keen desire alone, he wins the grace of Bhagavān who rewards him with a perfect visual perception of himself for the time being. This visual perception is called parajñāna. From this perfect vision of the svarūpa of the Lord is born an excessive and unsurpassed love for the Lord similar to the yearning feltt by a man suffering from great thirst at the sight of a tank. This (excessive and unsurpassed love for the Lord) is called parama bhakti, Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations, as the bhakta feels that it is impossible to live any longer without this experience of the Lord as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him) and that he must become one with the Lord and declares all this with an oath that cannot be ignored by the Lord. It causes (likewise) an excessive eagerness in the Lord to give him mokṣa  immediately and makes him attain mokṣa  after quenching his great thirst for union.
+इदिन्-उडैय हेतुव् आय्  
+सात्त्विक-परिशीलनादिगळाल् ए वन्द भगवद्-विषयत्तिल् **प्रीति-विशेषम्**  
+सर्वेश्वरनैत् तॆळियव् अऱिय-वेणुम् ऎन्नुम् **अभिनिवेशत्तुक्कुक् कारणम्** आय्  
+**भक्तिय्** ऎण्ड्रु पेर् पॆट्र् इरुक्कुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतद्-धेतु-भूतः सात्त्विक-परिशीलनादि-जनितो भगवद्-विषये प्रीति-विशेषः,  
+'सर्वेश्वरो विशदं ज्ञातव्यः' इत्य् अभिनिवेशस्य कारणं सन्  
+भक्तिर् इति समाख्यायते । 
+</details>
+
+
+<details><summary>English</summary>
+
+Love of the Lord which results from intimacy with sāttvikas (and the scriptures )  
+and which produces parābhakti is also called bhakti,  
+because it generates an eager desire to know Iśvara with perfect clearness. 
+</details>
+
+<details><summary>Español</summary>
+
+Love of the Lord which results from intimacy with sāttvikas (and the scriptures )  
+and which produces parābhakti is also called bhakti,  
+because it generates an eager desire to know Iśvara with perfect clearness. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडियिदै परभक्तियॆण्ड्राल् इदऱ्‌कुक् कीऴ्प्पट्टदाग अवरभक्तियॊण्ड्रुण्डोवॆन्न वरुळिच्चॆय्गिऱार् इदिनुडैय हेतुवायित्यादिना ।  
+भक्तियॆण्ड्रु पेर् पॆट्रिरुक्कुमित्यन्तेन ।  
+इदिनुडैय हेतुवाय् इति ।  
+भक्तिय् ऎण्ड्राल् भगवान्-इडत्तिल् उण्डागुम् प्रीति-विशेषम्.  
+अदऱ्‌कु नान्गु अवस्थैकळुण्डु.  
+मुदलवस्थै इरण्ड् आवदु अवस्थैक्कुक् कारणम्;  
+अप्पडिये इरण्डावदु मूण्ड्रावदऱ्‌कुम्, मूण्ड्रावदु नान्गावदऱ्‌कुं कारणम्.  
+अदिल् एतावत्-पर्यन्तं निरूपित्तु-वन्द पर-भक्तिय् ऎन्नुम् अवस्थैय् ए इरण्ड्-आवदु अवस्थै ।  
+अदऱ्‌कु हेतुव् आय् ऎण्ड्रबडि.  
+इप्पडि हेतुवान प्रीति ऎदनाल् वन्ददॆण्ड्रु शङ्गियामैक्काग सात्त्विकपरिशीलनादिकळाले वन्द ऎण्ड्रदु. सात्त्विकाः – सत्वोत्तरर्गळान ज्ञानिकळ्. अवर्गळुडैय परीशीलनम् - अनवरतपरिचयम्; अदनाल् - सत्सङ्गादिकळालॆण्ड्रबडि. आदिपदात् पुराणश्रवणसुकृतविशेषादिपरिग्रहः । वन्द - वेदान्तशास्त्र श्रवणात्पूर्वमेयुण्डान, भगवद्विषयत्तिल् - दोषरहितनाय् ज्ञानादिषाड्गुण्यपरिपूर्णनान भगवानिडत्तिल्. दोषरहितत्वमुं गुणपरिपूर्णत्वमुम् प्रीतिविशेषत्तिऱ्‌कुक् कारणमॆण्ड्रु ज्ञापिक्कैक्काग इङ्गु भगवच्छब्दप्रयोगम्.  
+प्रीतिविशेषमिति । इङ्गु प्रीतिक्कु विशेषमावदु जिज्ञासाजनकतावच्छेदकधर्मवत्वम्.+++(4)+++  
+सर्वेश्वरनैत् तॆळियवऱियवेणुमॆन्नुम् अभिनिवेशत्तुक्कु शास्त्रङ्गळै श्रवणम्बण्णि भगवानै नण्ड्राग स्वरूपरूपगुणविभूतिकळोडे अऱिय वेणुमॆन्गिऱवभिनिवेशत्तिऱ्‌कु, अदावदु इच्छाविशेषत्तिऱ्‌कु. अऱिन्दालल्लदु धरिक्कमुडियाद अवस्थाजनकमान इच्छाविशेषत्तिऱ्‌कॆण्ड्रबडि. कारणमाय् - जनकमाय्, भक्तियॆण्ड्रु पेर् पॆट्रिरुक्कुमिति ।
+
+परभक्ति-पोल् ए इदुव् उम् प्रीति-रूपापन्न-ज्ञानम् आगैयाल् उम्  
+पर-भक्ति वक्ष्यमाणरीत्या भगवत्-साक्षात्काराभिनिवेश-हेतुव् आन् आप्-पोल् एय्  
+इदुवुं शास्त्र-जन्य-भगवद्-विषयक-विशद-ज्ञानाभिनिवेश-हेतुव् आगैयाल् उम्,  
+यथावस्थित-ग्रहणाभिनिवेश-हेतुत्वम् उम् प्रीति-रूपत्वम् उम्  
+इरण्डुक्क् उं समानम् आगैयाल् ए
+पर-भक्ति-सादृश्यत्ताल् इदुव् उम् भक्ति-शब्द-वाच्यम् आय् इरुक्कुम् ऎण्ड्र-बडि.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिनुडैय हेतुवाय् सात्त्विकपरिशीलनादिगळाले वन्द भगवद्विषयत्तिल् प्रीतिविशेषम् सर्वेश्वरनैत् तॆळियवऱियवेणुमॆन्नुम् अभिनिवेशत्तुक्कुक् कारणमाय् भक्तियॆण्ड्रु पेर् पॆट्रिरुक्कुम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताल् ए 
+
+> "शुद्ध-भावं गतो भक्त्या  
+> शास्त्राद्वेद्मि जनार्दनम्”(भारतम् उद्योगपर्व 68-5.) 
+
+ऎन्गिऱप्-पडिय् ए 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनेन, ""शुद्धभावं गतो भक्तया शास्त्राद्वेद्मि जनार्दनम् " इत्युक्तरीत्या 
+</details>
+
+
+<details><summary>English</summary>
+
+It has been said: 
+
+> "Owing to my devotion to the Lord and to my gurus,  
+> I have attained spiritual purity  
+> and come to know Janārdana with the help of the Śāstras." 
+
+(So parābhakti is born successively of a knowledge of the truth  
+obtained from the śāstras which leads to karma yoga and the like). 
+</details>
+
+<details><summary>Español</summary>
+
+It has been said: 
+
+> "Owing to my devotion to the Lord and to my gurus,  
+> I have attained spiritual purity  
+> and come to know Janārdana with the help of the Śāstras." 
+
+(So parābhakti is born successively of a knowledge of the truth  
+obtained from the śāstras which leads to karma yoga and the like). 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इत्ताले - इन्द प्रेमभक्तियाले. इदऱ्‌कु पिऱन्द ऎन्- पदोडन्वयम्. शुद्धेति । इदु भारतत्तिल् उद्योगपर्वत्तिल् धृतराष्ट्रनैक्कुऱित्तु सञ्जयन् वाक्यम्. भक्त्या – कीऴ्च्चॊन्न प्रेमभक्तियाले, शुद्धभावं – शुद्धमान मनोभाववत्तै, गतस्सन् शास्त्राज्जनार्दनं वेद्मीत्यर्थः । ऎन्गिऱबडिये - इन्द श्लोकत्तिल् सॊल्लियिरुक्किऱबडिये. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताले
+
+> "शुद्धभावं गतो भक्त्या  
+> शास्त्राद्वेद्मि जनार्दनम्”(भारतमुद्योगपर्व 685.)
+
+ऎन्गिऱप्पडिये
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-जन्य-तत्त्व-ज्ञान--कर्म-योगादि परंपरैयाल् ए पिऱन्द पर-भक्तिय् आन्-अदु  
+"साक्षात्-करिक्क-वेणुम्" ऎन्नुम् अभिनिवेशत्तैय् उण्डाक्कि  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शास्त्र-जन्य-तत्त्व-ज्ञान--कर्म-योगादि--परम्-परया जाता पर-भक्तिः  
+"साक्षात्-कर्तव्य" इत्य् अभिनिवेशम् उत्पाद्य, 
+</details>
+
+<details><summary>English</summary>
+
+It (parābhakti) produces in its turn  
+an eager desire and determination to see the Lord  
+</details>
+
+<details><summary>Español</summary>
+
+It (parābhakti) produces in its turn  
+an eager desire and determination to see the Lord  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+शास्त्रजन्यतत्त्वज्ञानम् - शास्त्रत्तालेयुण्डान यथावस्थितचिदचिदीश्वरतत्त्वज्ञानम्, अदनालुण्डान,  
+कर्मयोगादिपरम्परैयाले पिऱन्द - कर्मयोग--ज्ञानयोग--चित्त-समाधान-रूप-योग-- आत्मावलोकन-रूप-परम्परैयाले पिऱन्द,  
+
+तथाच प्रेमभक्तियाले विशदज्ञानाभिनिवेशम्,  
+अदनाले विशदम् आन शास्त्र-जन्य-तत्त्व-ज्ञानम्,  
+अदनाल् ए कर्मयोग--ज्ञानयोगाद्य्-अनुष्ठानम्,  
+अदनाल् ए चित्त-समाधान-रूप-योगम्,  
+अदनाल् आत्मवलोकनम्,  
+अदावदु एतादृश-परम्परया पिऱन्द ऎण्ड्र बडि.  
+
+परभक्तियानदु -  
+कीऴ् निरूपिक्कप्पट्ट परभक्तियानदु.  
+साक्षात्करिक्क-वेणुम् ऎन्नुम् अभिनिवेशत्तैयुण्डाक्कि इति । 
+
+> ‘‘परभक्तिरदृष्टार्थ-  
+> प्रत्यक्षाभिनिवेशनम् ।  
+> पर-ज्ञानन्तु तस्यैव  
+> साक्षात्कारः परिस्फुटः ॥  
+> पुनर्-विश्लेष-भीरुत्वं  
+> परमा भक्तिर् इष्यते’’ 
+
+ऎन्गिऱ-बडि इप्-पोद् ए भगवानै साक्षात् करिक्क-वेण्डुम् ऎन्नुम् अभिनिवेशत्तैय् उण्डाक्किय् ऎण्ड्र-बडि,  
+अभिनिवेशम् आवदु, साक्षात्कारं वन्दाल् अल्लदु विडव्-ऒण्णाद तीव्रम् आन आशा-विशेषम्.+++(5)+++  
+इन्द परभक्तिय् आनदु अन्तिम-प्रत्ययानन्तरं यथावन् निष्पन्नम् आय्  
+देहवियोगानन्तरं देश-विशेषावच्छिन्न--परिपूर्ण-भगवद्-अनुभवत्तिऱ्‌कु जनकम् आगप्-पोगिऱद् आनाल् उम्  
+इङ्गिरुन्द कालत्तिलेय् ए साक्षात्-कारम् पॆऱ-वेणुम् ऎन्गिऱव् अभिनिवेशत्तिऱ्‌कुं कारणम् आम् ऎण्ड्रु करुत्तु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रजन्यतत्त्वज्ञानकर्मयोगादि परंपरैयाले पिऱन्द परभक्तियानदु साक्षात्करिक्कवेणुमॆन्नुमभिनिवेशत्तैयुण्डाक्कि
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “योगेश्वर ततो मे त्वं  
+> दर्शयात्मानम् अव्ययम्”(गीता 11-4.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “योगेश्वर ततो मे त्वं  
+> दर्शयात्मानम् अव्ययम्”(गीता 11-4.) 
+
+</details>
+
+<details><summary>English</summary>
+
+"O Lord, who art the abode of attributes like jñāna,  
+be pleased to show Thy whole self 1" 
+</details>
+
+<details><summary>Español</summary>
+
+"O Lord, who art the abode of attributes like jñāna,  
+be pleased to show Thy whole self 1" 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अभिनिवेशकार्यत्तैक् काट्टुगिऱार् योगेश्वरेति ।  
+चेतनाचेतनङ्गळ् उडैय उच्चावचम् आन स्वभाव-योगङ्गळुक्कु नियन्तावान भगवाने! ततो मे त्वमव्ययमात्मानं दर्शय । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“योगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम्”(गीता 11-4.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+""काणुम् आऱ्+++(=मार्गम्)+++ अरुळाय्""(तिरुवा. 8-1-1.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[८५]]
+" दर्शनोपायम् अनुगृहाण", 
+</details>
+
+<details><summary>English</summary>
+
+“Vouchsafe Thy grace so that I may see Thee"
+</details>
+
+<details><summary>Español</summary>
+
+“Vouchsafe Thy grace so that I may see Thee"
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+काणुमाऱरुळाय् - काणुम्बडि कृपै पण्णवेण्डुम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+""काणुमाऱरुळाय्""(तिरुवा. 8-1-1.) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ""ऒरु नाळ् काण वाराय् ए""(तिरुवा. 6-9-4.)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"एकस्मिन् दिने दर्शनार्थम् आगच्छ" 
+</details>
+
+
+<details><summary>English</summary>
+
+"May I see Thee some day!" 
+</details>
+
+<details><summary>Español</summary>
+
+"May I see Thee some day!" 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऒरु नाळ् काणवाराये - ऒरु नाळागिलुं काणुम्बडि वन्दरुळाय्. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+""ऒरु नाळ् काणवाराये""(तिरुवा. 6-9-4.)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎण्ड्रु विलपिक्कुम् बडि पण्णि 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति विलापदशाम् आपाद्य 
+</details>
+
+
+<details><summary>English</summary>
+
+and makes the man cry out as above ~~follows~~-
+</details>
+
+<details><summary>Español</summary>
+
+and makes the man cry out as above ~~follows~~-
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎण्ड्रु - एवं प्रकारेण, विलपिक्कुम्बडि पण्णि इति । इव्विलाबमण्ड्रिक्के इव्वभिनिवेशं सहिक्क मुडियादॆण्ड्रु तिरुवुळ्ळम्. इव्वपेक्षामात्रमडियाग - विलापपर्यन्तमान अभिनिवेशरूपेच्छामात्रकारणमाग. उपायनिष्पत्ति यण्ड्रिक्केयिरुक्क इङ्गिरुन्द कालत्तिलेयुण्डान इव्वभिनिवेशमात्रहेतुकमाय् ऎण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎण्ड्रु विलपिक्कुम् बडि पण्णि 
+</details>
+
+### पर-ज्ञानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अपेक्षामात्रम् अडिय् आग वन्द भगवत्-प्रसाद-विशेषत्ताल् ए  
+तत्-काल-नियतम् आन परिपूर्ण-साक्षात्-कारत्तैय् उण्डाक्कुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतद्-अपेक्षा-मात्र-निबन्धनेन भगवत्-प्रसाद-विशेषेण  
+तत्-काल-नियतं परिपूर्ण-**साक्षात्-कारम् उमुत्पादयति** । 
+</details>
+
+<details><summary>English</summary>
+
+By this keen desire alone,  
+he wins the grace of Bhagavān who rewards him  
+with a perfect visual perception of himself for the time being. 
+</details>
+
+<details><summary>Español</summary>
+
+By this keen desire alone,  
+he wins the grace of Bhagavān who rewards him  
+with a perfect visual perception of himself for the time being. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वन्द - उण्डान, भगवत्प्रसादविशेषत्ताले इति । उपायनिष्पत्त्यनन्तरं देशविशेषत्तिलुण्डागुम् परिपूर्णभगवत्साक्षात्कारत्तिऱ्‌कु हेतुवान प्रसादत्तैक् काट्टिलुं वेऱुबट्ट प्रसादविशेषत्ताले यॆण्ड्रबडि. तथा च उपायनिष्पत्तिजन्यपरिपूर्णसाक्षात्कारहेतुभूत प्रसादविशेषरूपकारणम् इप्पोदिल्लाविट्टालुं तद्विलक्षणमान इन्द प्रसादविशेषत्ताल् इङ्गेये साक्षात्कारम् पिऱक्कलामॆण्ड्रु करुत्तु. तत्कालनियतमान - इवनुडैयवबेक्षै यॆव्वळवु कालमिरुक्किऱदो, अव्वळवु पर्यन्तमान. परिपूर्णसाक्षात्कारत्तैयुण्डाक्कुम् - देशविशेषावच्छिन्नसाक्षात्कारम्बोलिरुक्किऱ पूर्णसाक्षात्कारत्तै युण्डाक्कुम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वपेक्षामात्रमडियाग वन्द भगवत्प्रसादविशेषत्ताले तत्कालनियतमान परिपूर्णसाक्षात्कार त्तैयुण्डाक्कुम्. 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस्साक्षात्कारम् परज्ञानम् ऎण्ड्रु पेसप्पट्टदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एष साक्षात्कारः परज्ञानम् इत्य् अभ्यधायि । 
+</details>
+
+
+<details><summary>English</summary>
+
+This visual perception is called parajñāna. 
+</details>
+
+<details><summary>Español</summary>
+
+This visual perception is called parajñāna. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इस्साक्षात्कारम् परज्ञानमॆण्ड्रु पेसप्पट्टदु - इदुवे परज्ञानमॆण्ड्रु ‘‘परज्ञानन्तु तस्यैव साक्षात्कारः परिस्फुटः’’ इत्यादौ सॊल्लप्पट्टदॆण्ड्रबडि. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस्साक्षात्कारम् परज्ञानम् ऎण्ड्रु पेसप्पट्टदु.
+</details>
+
+### परम-भक्तिः 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि निरतिशय-भोग्यम् आन भगवत्-स्वरूपत्तै साक्षात्-करित्त-वाऱ्+++(=रीत्या)+++ ए  
+पॆरु-विडाय्प्+++(=तृषां)+++ पट्टवन् तटाकत्तैक् कण्ड्-आप्-पोल् ए पिऱन्द प्रीत्य्-अतिशयम् परम-भक्ति । 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं निरतिशय-भोग्य-भगवत्--स्व-रूप--साक्षात्-कार--समनन्तरम् एव
+अतिताप-श्रमार्तस्य जलाशय-दर्शनेनेव जातः प्रीत्य्-अतिशयः परम-भक्तिः ।
+</details>
+
+<details><summary>English</summary>
+
+From this perfect vision of the svarūpa of the Lord  
+is born an excessive and unsurpassed love for the Lord  
+similar to the yearning felt by a man suffering from great thirst  
+at the sight of a tank.
+This (excessive and unsurpassed love for the Lord) is called parama bhakti.  
+</details>
+
+<details><summary>Español</summary>
+
+From this perfect vision of the svarūpa of the Lord  
+is born an excessive and unsurpassed love for the Lord  
+similar to the yearning felt by a man suffering from great thirst  
+at the sight of a tank.
+This (excessive and unsurpassed love for the Lord) is called parama bhakti.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्-पडि पर-भक्तियाले अभिनिवेश, विलाप, भगवत्-प्रसाद-क्रमत्ताल् एय् उण्डु-बण्णप्-पट्ट  
+परिपूर्ण-साक्षात्-कार-रूप--पर-ज्ञानत्तै उपपादित्तु  
+एतत्-कार्यम् आन परमभक्तियिन् स्वरूपत्तै उपपपादिक्किऱार् इप्पडियित्यादिना । 
+इप्पडि - परिपूर्णमाग, इदऱ्‌कु साक्षात्करित्तवाऱे ऎन्बदोडन् वयम्.  
+इन्द साक्षात्-कारत्तिऱ्‌कु प्रीत्य्-अतिशय-हेतुत्वं सॊल्लुगैक्क् आग  
+इदिन् विषयमान भगवत्-स्वरूपत्तिन् वैलक्षण्यत्तै मुदलिल् उपपादिक्किऱार्  
+निरतिशयभोग्यमान इति ।  
+साक्षात्करित्तवाऱे - साक्षात्करियानिण्ड्रव् अळविल्.  
+इदऱ्‌कु पिऱन्द ऎन्बदोडन्वयम्.  
+नडुविल् अनुरूपदृष्टान्तत्तैक् काट्टुगिऱार् पॆरुविडाय्प्पट्टवनित्यादियाल्.  
+विडाय्क्कुप्पॆरुमैयावदु जलावगाहनपानादिकळण्ड्रिक्के ताङ्ग मुडियामै.  
+तडागत्तैक् कण्डाप्पोले - परिपूर्णोदकमाय् तनक्कवगाहनादियोग्यमान तडागत्तैसाक्षात्करित्ताप्पोले.  
+पॆरुविडाय्प्पट्टवनुक्कु तटाकदर्शनम्बोल् तापत्रयाभिहतनानविवनुक्कु भगवत्साक्षात्कारम् ऎण्ड्रभिप्रायम्.  
+पिऱन्द प्रीत्यतिशयम् परमभक्ति इति ।  
+पर-भक्तियुम् प्रीत्यतिशयमानाल् उम् अदु साक्षात्कारजन्यम् इल्लामैयाल् ए परभक्तिय् ऎण्ड्रुम्,  
+इदु साक्षात्-कारत्ताल् उम् अन्द पर-भक्ति-परम्परैय् आयालुं जन्य-प्रीत्यतिशयमागैयाल् ए  
+परम-भक्तियॆण्ड्रुं सॊल्लप्पट्टदॆण्ड्रु करुत्तु.  
++++(5)+++ "परो मा यस्या" इति व्युत्पत्त्या  
+इदुवे स्वावधिकोत्कर्ष-रहितम् आग एऱ्‌-पडुवदाल्  
+इन्द परम-भक्तिय् ए पर-भक्ति--पर-ज्ञानम् पोल् अण्ड्रिक्क् ए  
+साक्षाद्-भगवत्-प्राप्ति-हेतुव् ऎण्ड्रु ज्ञापितम् आगिऱदु.  
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि निरतिशयभोग्यमान भगवत्स्वरूपत्तै साक्षात्करित्तवाऱे पॆरुविडाय्प्पट्टवन् तटाकत्तैक्कण्डाप्पोले पिऱन्द प्रीत्यतिशयम् परमभक्ति । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु ""मुनिये नान्-मुखन्""(तिरुवा. 10-10-1) +इऱ्‌पडिय् ए  
+सङ्कोचम् अऱ अनुभवित्त् अल्लदु  
+धरिक्क-वॊण्णाद **अभिनिवेशत्तै उण्डाक्कि**  
+मऱुक्कव्+++(=निगूहनम्)+++ ऒण्णाद तिरुव्+++(=लक्षी)+++ **आणैय् इट्टु, वळैत्तुक्**+++(=वलयित्वा)+++  
+कूप्पिडुगैयाल् ए इवनुक्कुक् कडुग प्राप्तियैक् कॊडुक्कुम्-बडि  
+सर्वेश्वरनुक्कु **त्वरातिशयत्तै उण्डाक्कि**  
+इवनैय् अवाव्+++(=अभिनिवेसम्)+++ अट्रु वीडु+++(=मुक्तिं)+++ **पॆऱप्-पण्णुम्**.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इयं "मुने चतुर्मुख" इति दशकोक्त-रीत्या  
+अ-संकुचितानुभवम् अन्तरा  
+ऽऽत्म-चारणस्याशक्यताम् **आपादयन्तम्** अभिनिवेशम् **उत्पाद्य**  
+अ-प्रत्याख्येय-लक्ष्मी-विषयक-शपथ-पूर्व--स-निर्बन्धाह्वान-साधनात्  
+अस्य झटिति स्व-प्राप्ति-दानार्थं  
+सर्वेश्वरस्य त्वरातिशयम् उत्पाद्य  
+एनम् अभिनिवेशोपशमनेन मोक्षं प्रापयति । 
+</details>
+
+<details><summary>English</summary>
+
+Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations,  
+as the bhakta feels that it is impossible to live any longer without this experience of the Lord  
+as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him)  
+and that he must become one with the Lord  
+and declares all this with an oath that cannot be ignored by the Lord.  
+It causes (likewise) an excessive eagerness in the Lord  
+to give him mokṣa  immediately  
+and makes him attain mokṣa  
+after quenching his great thirst for union.
+
+</details>
+
+<details><summary>Español</summary>
+
+Parama bhakti produces an eager desire and determination to enjoy the Lord without any limitations,  
+as the bhakta feels that it is impossible to live any longer without this experience of the Lord  
+as described in the Tiruvoymozhi 10.10-1 (where the Alwar cries out that he will not hereafter allow the Lord to leave him)  
+and that he must become one with the Lord  
+and declares all this with an oath that cannot be ignored by the Lord.  
+It causes (likewise) an excessive eagerness in the Lord  
+to give him mokṣa  immediately  
+and makes him attain mokṣa  
+after quenching his great thirst for union.
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इन्द परम-भक्ति अप्-पडि व्यवधानम् अऱ हेतुव् आगुम्  
+प्रकारत्तै उपपादिक्किऱार् इदु मुनिये नान्मुगनिऱ्‌पडिये इत्यादिना । मुनिये नान्मुगने ऎन्गिऱ तिरुवाय्मॊऴियिल् सॊन्नबडि. सङ्कोचमऱ - मुन्बु सॊन्न तत्कालनियतसाक्षात्कारानुभवम्बोल् कालसङ्कोच मण्ड्रिक्के. अनुभवित्तल्लदु - कैङ्कर्यपर्यन्तमान भोगरूपसाक्षात्कारानुवर्तियण्ड्रिक्के. धरिक्कवॊण्णादवभिनिवेशत्तैयुण्डाक्कि - फलसिद्धियिल्लामल् शरीरधारणम् पण्णमुडियाद ऒरु आशाविशेषत्तैयुण्डाक्कि. मऱुक्कवॊण्णाद - अति-क्रमिक्कमुडियाद. तिरुवाणैयिट्टु - पिराट्टियिन्मेल् आणैयिट्टु, शपथमिट्टु ऎण्ड्रबडि. इदु "वासम्सॆय् पूङ्गुऴलाळ् तिरुवाणै निन्नाणै कण्डाय्" ऎन्बदिन् अनुवादम्. वळैत्तु - अप्पाल् पोगविडादबडि निर्बन्धि त्तु,इदु "इनि नान् पोगलॊट्टेन् ऒण्ड्रुम् मायं सॆय्येल्" ऎन्बदै निनैत्तुच् चॊन्नबडि. कूप्पिडुगैयाले - आक्रन्दनम् पण्णुगैयाले. इदऱ्‌कु त्वरातिशयत्तैयुण्डाक्कियॆन्बदोडन्वयम्. इवनुक्कु - परमभक्ति मानान इवनुक्कु. कडुग - व्यवधानमिल्लामल्. प्राप्तियैक्कॊडुक्कुम्बडि - तन्नुडैय निरतिशयभोग्यमान स्वरूपसाक्षात्काररूपप्राप्तियैक् कॊडुक्कैक्कु. प्राप्तिं दातुमित्यर्थः । सर्वेश्वरनुक्कु - परमदयाळुवान सर्वेश्वरनुक्कु. त्वरातिशयत्तैयुण्डाक्कि - उत्तरक्षण एव प्राप्तिप्रदानेच्छाविशेषत्तै उण्डाक्कि, इवनाणैयिट्टु वळैत्तुक् कूप्पिडुगैयाल् साक्षात्कृतनान भगवानुक्कु प्राप्तियैक् कॊडुत्तालल्लदु ताङ्ग मुडियाद त्वरैयुण्डागुमिऱे. इवनै - परमभक्तिभरितनान इन्द अधिकारियै. अवा - महत्तान आसै, अदु अट्रु - निश्शेषमाग नशित्तु, वीडुबॆऱ - मोक्षत् तैयडैय, सिद्धेऽर्थे इच्छा नोदेति ऎन्गिऱबडिये परिपूर्णब्रह्मानुभवमोक्षत्तैयडैन्दबिन् ऒरुविधमान अवावुमिरादॆण्ड्रबडि. इङ्गु दीपिकाचार्यर् सॊल्लुं क्रमम् - 
+
+> ‘‘सात्त्विक-सङ्गादिकळाल् भगवान्-इडत्तिल् प्रीति-विशेष-रूप-भक्तिय् उण्ड् आम्;  
+> अत्ताल् शास्त्रतो ज्ञातुम् इच्छैय् उण्डाम्;  
+> अत्ताल् भगवत्-प्रसादम् अडिय् आग शास्त्रज्ञानं वरुम्;  
+> अत्ताल् उपाय-भक्ति;  
+> अत्ताल् साक्षात्-कारेच्छै;  
+> अथ भगवत्-प्रसादात् तत्-साक्षात्-कारम्;  
+> अत्ताल् परम-भक्ति-रूप-निरतिशय-प्रीति;  
+> इत्ताल् प्राप्त्य्-अभिनिवेशम्;  
+> अनन्तरम्; भगवत्-प्रसादात् तत्-प्राप्तिः’’ 
+
+ऎण्ड्रु.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु ""मुनिये नान्मुगन्""(तिरुवा. 10-10-1) +इऱ्‌पडिये सङ्कोचमऱ अनुभवित्तल्लदु धरिक्कवॊण्णाद अभिनिवेशत्तै उण्डाक्कि मऱुक्कवॊण्णाद तिरुवाणैयिट्टु वळैत्तुक्कूप्पिडुगैयाले इवनुक्कुक्कडुग प्राप्तियैक्कॊडुक्कुम्बडि सर्वेश्वरनुक्कु त्वरातिशयत्तै उण्डाक्कि इवनैयवावट्रु वीडु पॆऱप्पण्णुम्.  
+</details>
+
+
+
 
 BHAKTI AND PRAPATTI:
 
