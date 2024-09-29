@@ -54,13 +54,102 @@ Therefore birth in the three higher castes or the absence of it is no compliance
 
 MISCONCEPTIONS ABOUT THE NATURE OR SVARUPA OF PRAPATTI:
 
-The statement of learned men that the śaraṇāgati referred to in Dvaya means only faith in the two feet of Nārāyaṇa being the only upāya for the attainment of Nārāyaṇa with His Spouse----- this statement should be taken to mean only that faith in śaraṇāgati in the mind of the person and faith as an accessory to prapatti are very important. (It does not mean that faith alone is enough). So also the words of the author of Śrī Bhāṣya .--"Prapatti is faith; it is prayer accompanied by a faith that Bhagavān will grant whatever is desired on account of a single act of prayer" come these words of the Bhāṣyakara emphasise the importance of faith at the beginning and then declare in the words of Bharatamuni which define prapatti that prapatti is a prayer (for help) with faith (in the person whose help is sought). (It has been shown already that) surrender of self is the aṅgī and that the others (like kārpaṇya) are aṅgas (i...) Accessories. "Nyāsa bastol been declared as having five accessories or aṅgas." Therefore these words of the Bhāṣya. kara that prapatti consists in prayer (for help) which might mean that the Lord expects only the prayer for help should be understood only as emphasising the importance of one of the aṅgas (namely, the seeking of the Lord's protection ), for it is said "The Lord expects the expression of the desire for protection". This is only one of the aṅgas (and not the aṅgī). (The Bhāṣyakara should not be taken as stating that the prayer alone will do). In the shorter Gadya also (Śrīraṅgagadya), Śrī Rāmānuja makes the prayer with faith preceding it and concludes with the words namostu te (i.e.) "I bow to Thee". Further he uses the word s'aranam which means seeking (the Lord) as upāya. From these two, it is evident that self-surrender is present. That the word namas in namostute means surrender of self is well-known from such passages as the following:-- "I bow" to Bhagavao to whom, having surrendered his self which is what is meant by namaskāra, a man gets rid of his suffering and enjoys whatever he desires." In Śrī Vaikuṇṭha Gadya the surrender of self preceded by prayer is explicit. Therefore (since Śrī Rāmānuja states in Vaikuṇṭha - Gadya: "Praying for protection), the person should surrender his (or her) self to Bhagaven after bowing to Him,") it is clear that surrender of self is different from the prayer for protection and is the angī with the prayer as an aṅga. It has therefore to be concladed that in the words: "One should" surrender one's self by uttering this mantra", and "the surrender" of one's self and of what belongs to one's self", the aṅgī which is surrender of self, is declared as a vidhi or injunction.
+The statement of learned men  
+that the śaraṇāgati referred to in Dvaya  
+means only faith in the two feet of Nārāyaṇa  
+being the only upāya for the attainment of Nārāyaṇa with His Spouse-----  
+this statement should be taken to mean only that  
+faith in śaraṇāgati in the mind of the person  
+and faith as an accessory to prapatti are very important.  
+(It does not mean that faith alone is enough).  
 
-If this were not accepted (as true), it would lead to construing the sentence "Saranāgati is of six kinds" in its apparent meaning and thinking that the five accessories or aṅgas of prapatti are, every one of them, a form of prapatti or angī, in the same way as we conclude that there are seven different kinds of ablution (snāna) from the sentence :- "Ablution is said to be of seven kinds".
+So also the words of the author of Śrī Bhāṣya --  
 
-If it is argued that the aṅgas are not considered to be aṅgīs on account of the statement: “One should perform prapatti with its five aṅgas or accessories," then by the force of the same argument and in accordance with the statement "Nyása is accompanied by five aṅgas", we should, in reason, correct such statements as "Prapatti is prayer" and "Prapatti is faith", and hold that " Nikṣepa or surrender is the augi", and that the rest are ( only) aṅgas,
+> "Prapatti is faith;  
+> it is prayer accompanied by a faith that  
+> Bhagavān will grant whatever is desired  
+> on account of a single act of prayer" 
 
-Even if we judge by the principle that, (when there is a difference in the statements ), that statement which is made in a larger number of contexts should be accepted as true, it would be evident, from a study of the chapters on Prapatti in Sātvika Tantra, Lakṣmī Tantra, Ahirbudhriya Saṁhitā, and the like, that Nikṣepa or self-surrender is the aṅgī. Even in the śloka :-"Thou alone, shouldst be my upāya. It is this idea of prayer that is called śaraṇāgati", it is indicated by suggestion in the word upāya coming along with the word 'alone' that what is referred to is bharanyāsa or surrender of responsibility which is the main theme in that context. Even in ordinary life, an accessory is often spoken of as if it were the main thing in order to emphasise some one aspect or other. The word ülambha, which means 'killing' is employed to mean also 'yāga or sacrifice in a wider sense; so also in "seek refuge" in the Carama śloka and the like, the verbs signify the sacrifice of the self or ātma yiiga, which is usually expressed by such words as vyāsa, nikṣepa and tyāga (surrender), This is in keeping with Vedic usage.
+These words of the Bhāṣyakara emphasise the importance of faith at the beginning  
+and then declare in the words of Bharatamuni  
+which define prapatti that prapatti is a prayer (for help) with faith (in the person whose help is sought).  
+(It has been shown already that) surrender of self is the aṅgī  
+and that the others (like kārpaṇya) are aṅgas (ie Accessories) .  
+"Nyāsa (bastol??) been declared as having five accessories or aṅgas."  
+Therefore these words of the Bhāṣyakāra  
+that prapatti consists in prayer (for help)  
+which might mean that the Lord expects only the prayer for help  
+should be understood only as emphasising the importance of one of the aṅgas  
+(namely, the seeking of the Lord's protection ),  
+for it is said "The Lord expects the expression of the desire for protection". 
+This is only one of the aṅgas (and not the aṅgī).  
+(The Bhāṣyakara should not be taken as stating that the prayer alone will do).  
+In the shorter Gadya also (Śrīraṅgagadya),  
+Śrī Rāmānuja makes the prayer with faith preceding it  
+and concludes with the words namostu te (i.e.) "I bow to Thee".  
+Further he uses the word śaraṇam which means seeking (the Lord) as upāya.  
+From these two,  
+it is evident that self-surrender is present.  
+That the word namas in namostute means surrender of self  
+is well-known from such passages as the following:--  
+> "I bow to Bhagavan to whom,  
+> having surrendered his self  
+> which is what is meant by namaskāra,  
+> a man gets rid of his suffering and enjoys whatever he desires." 
+
+In Śrī Vaikuṇṭha Gadya the surrender of self preceded by prayer is explicit.  
+Therefore (since Śrī Rāmānuja states in Vaikuṇṭha - Gadya:  
+"Praying for protection, the person should surrender his (or her) self to Bhagavan  
+after bowing to Him,")  
+it is clear that surrender of self  
+is different from the prayer for protection  
+and is the angī with the prayer as an aṅga. 
+
+It has therefore to be concluded that in the words:  
+
+> "One should surrender one's self by uttering this mantra", 
+
+and 
+
+> "the surrender of one's self and of what belongs to one's self", 
+
+the aṅgī which is surrender of self,  
+is declared as a vidhi or injunction.
+
+If this were not accepted (as true),  
+it would lead to construing the sentence  
+"Saranāgati is of six kinds"  
+in its apparent meaning  
+and thinking that the five accessories or aṅgas of prapatti are, every one of them, a form of prapatti or angī,  
+in the same way as we conclude that there are seven different kinds of ablution (snāna) from the sentence :- 
+
+> "Ablution is said to be of seven kinds".
+
+If it is argued that the aṅgas are not considered to be aṅgīs on account of the statement: 
+
+> “One should perform prapatti with its five aṅgas or accessories," 
+
+then by the force of the same argument  
+and in accordance with the statement  
+"Nyása is accompanied by five aṅgas",  
+we should, in reason, correct such statements as  
+"Prapatti is prayer" and "Prapatti is faith", and hold that "Nikṣepa or surrender is the angi", and that the rest are ( only) aṅgas.
+
+Even if we judge by the principle that,  
+(when there is a difference in the statements ),  
+that statement which is made in a larger number of contexts should be accepted as true,  
+it would be evident,  
+from a study of the chapters on Prapatti in Sātvika Tantra, Lakṣmī Tantra, Ahirbudhriya Saṁhitā, and the like, that Nikṣepa or self-surrender is the aṅgī.  
+Even in the śloka :-"Thou alone, shouldst be my upāya. It is this idea of prayer that is called śaraṇāgati",  
+it is indicated by suggestion in the word upāya coming along with the word 'alone'  
+that what is referred to is bharanyāsa or surrender of responsibility which is the main theme in that context.  
+Even in ordinary life, an accessory is often spoken of  
+as if it were the main thing in order to emphasise some one aspect or other.  
+The word ālambha, which means 'killing'  
+is employed to mean also 'yāga or sacrifice' in a wider sense;  
+so also in "seek refuge" in the Carama śloka and the like,  
+the verbs signify the sacrifice of the self or ātma yāga, which is usually expressed by such words as nyāsa, nikṣepa and tyāga (surrender).  
+This is in keeping with Vedic usage.
 
 What is called yāga is a special form of thought indicating that a particular offering (havis) is made to a particular deity. Ātmayāga or the sacrifice (or surrender of self) is (likewise) a special form of thought indicating this : « My soul, which is the most delicious of offerings (havis ), is for Śrīman Nārāyaṇa. We have already stated (on page ) that in this surrender of self, the nature of the action to be performed which is common to all .who desire benefits of whatever kind is the surrender of the responsibility for protection.
 
