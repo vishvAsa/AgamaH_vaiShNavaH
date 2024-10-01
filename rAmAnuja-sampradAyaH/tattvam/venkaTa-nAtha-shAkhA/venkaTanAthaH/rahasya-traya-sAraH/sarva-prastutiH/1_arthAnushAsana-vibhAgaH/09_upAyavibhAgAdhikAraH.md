@@ -1193,7 +1193,7 @@ which says: "Four kinds of persons worship me etc.”
 
 <details><summary>सायण-टीका</summary>
 
-इन्द भक्तियोगमे कामनाभेदत्ताले ऐश्वर्यकैवल्यङ्गळुक्कुं साधनमामॆन्गिऱार् इप्भक्तियोगन्दानेयित्यादियाल्. हितपरमान शास्त्रम् ऐश्वर्यादिकळै बन्धकत्वेन त्याज्यङ् गळागच्चॊल्लिप् पिन्नैयुम् अवट्रैये पुरुषार्थङ्गळागच्चॊल्लियवट्रिऱ्‌कु इन्द भक्तियोगत्तैये साधनमाग विधिक्किऱदॆण्ड्राल् शास्त्रं विश्वसनीयमागुमो वॆन्न वरुळिच्चॆय्गिऱार् प्रत्ययार्थञ्चेत्यादिना. भक्तियोगम् मोक्षसाधनमागुमोवॆण्ड्रु शङ्गिक्कुम् मन्दविश्वासनुक्कु, मोक्षस्य – मोक्षविषयत्तिल् भक्ति साधनमामॆण्ड्रु, प्रत्ययार्थं - नम्बिक्कै वरुवदऱ्‌काग सिद्धयः – 
+इन्द भक्तियोगमे कामनाभेदत्ताले ऐश्वर्यकैवल्यङ्गळुक्कुं साधनमामॆन्गिऱार् इब् भक्तियोगन्दानेयित्यादियाल्. हितपरमान शास्त्रम् ऐश्वर्यादिकळै बन्धकत्वेन त्याज्यङ् गळागच्चॊल्लिप् पिन्नैयुम् अवट्रैये पुरुषार्थङ्गळागच्चॊल्लियवट्रिऱ्‌कु इन्द भक्तियोगत्तैये साधनमाग विधिक्किऱदॆण्ड्राल् शास्त्रं विश्वसनीयमागुमो वॆन्न वरुळिच्चॆय्गिऱार् प्रत्ययार्थञ्चेत्यादिना. भक्तियोगम् मोक्षसाधनमागुमोवॆण्ड्रु शङ्गिक्कुम् मन्दविश्वासनुक्कु, मोक्षस्य – मोक्षविषयत्तिल् भक्ति साधनमामॆण्ड्रु, प्रत्ययार्थं - नम्बिक्कै वरुवदऱ्‌काग सिद्धयः – 
 
 > ‘‘अणिमा महिमा च तथा  
 > गरिमा लघिमा वशित्वम् ऐश्वर्यम् ।  
@@ -1209,7 +1209,7 @@ which says: "Four kinds of persons worship me etc.”
 
 <details><summary>मूलम्</summary>
 
-इप्भक्तियोगन्दाने “प्रत्ययार्थं च मोक्षस्य सिद्धयस्संप्रकीर्तिताः”(सात्त्वत-संहितै.) ऎन्गिऱ पडिये  
+इब् भक्तियोगन्दाने “प्रत्ययार्थं च मोक्षस्य सिद्धयस्संप्रकीर्तिताः”(सात्त्वत-संहितै.) ऎन्गिऱ पडिये  
 इळनॆञ्जरैत्तेट्रुगैक्कु इट्ट विरगान वऴियिल् कामनाभेदत्ताले ऐश्वर्यादिगळुक्कुम् साधनमॆन्नुमिव्वर्थम् “चतुर्विधा भजन्ते मां”(गीता 7-16.) ऎण्ड्रु सॊल्लप्पट्टदु.  
 </details>
 
@@ -1940,22 +1940,301 @@ after quenching his great thirst for union.
 इदु ""मुनिये नान्मुगन्""(तिरुवा. 10-10-1) +इऱ्‌पडिये सङ्कोचमऱ अनुभवित्तल्लदु धरिक्कवॊण्णाद अभिनिवेशत्तै उण्डाक्कि मऱुक्कवॊण्णाद तिरुवाणैयिट्टु वळैत्तुक्कूप्पिडुगैयाले इवनुक्कुक्कडुग प्राप्तियैक्कॊडुक्कुम्बडि सर्वेश्वरनुक्कु त्वरातिशयत्तै उण्डाक्कि इवनैयवावट्रु वीडु पॆऱप्पण्णुम्.  
 </details>
 
+## प्रपत्तिः पर-भक्ति-स्थाने
+
+<details><summary>English</summary>
+
+(Prapatti stands in the place of parābhakti  
+to the man who adopts it as the direct and independent means).  
+
+</details>
+
+<details><summary>Español</summary>
+
+(Prapatti stands in the place of parābhakti  
+to the man who adopts it as the direct and independent means).  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् भक्ति-योगम् त्रैवर्णिकरैय् ऒऴिन्दार्क्क् उम्  
+त्रैवर्णिकर्-तङ्गळिल् ज्ञानत्तिल् एय् आदल्, शक्तियिल् एय् आदल्, इरण्डिल् उम् आदल् कुऱैय्-उडैयार्क्क् उम्,  
+फल-विळम्बम् पॊऱुक्क इसैयाद तीव्र-संवेगम् उडैयार्क्क् उम्  
+योग्यम् अल्लामैयाल् ए
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं भक्तियोगस् त्रैवर्णिकेतरेषाम्,  
+त्रैवर्णिकेष्व् अपि ज्ञानतः शक्तित उभयतोऽपि वा न्यूनतावताम्  
+फल-विलम्ब-सहनानिच्छापादक-तीव्र-संवेगवतां चायोग्य इति  
+</details>
+
+<details><summary>English</summary>
+
+Since bhakti yoga is not suitable  
+for those who do not belong to the three higher castes  
+and (likewise) also for those in these three castes  
+who are wanting in jñāna or ability or both  
+and since it will not suit those  
+who cannot endure any delay in the attainment of its fruit (namely, mokṣa)  
+and are therefore extremely impatient,  
+
+</details>
+
+<details><summary>Español</summary>
+
+Since bhakti yoga is not suitable  
+for those who do not belong to the three higher castes  
+and (likewise) also for those in these three castes  
+who are wanting in jñāna or ability or both  
+and since it will not suit those  
+who cannot endure any delay in the attainment of its fruit (namely, mokṣa)  
+and are therefore extremely impatient,  
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+भक्तियोगनिष्ठनुक्कु उपायमान परभक्तियिन् स्वरूपादिकळैयुम्, अदिन् फलमान पर-ज्ञानपरभक्तियिनुडैय क्रमप्राप्तियैयुमुपपादित्तु, इदऱ्‌कनधिकारियान एतत्स्थानत्तिले चोदितैयान अद्वारकप्रपत्तियै अनुष्ठित्तवनुक्कुम् प्रपत्तिफलमाग कैङ्कर्यपर्यन्तपरभक्तिपरज्ञानपरमभक्तिकळ् तत्तदिच्छानुगुणमाग फलमाग वरुमॆन्गिऱार् इप्भक्तियोगमित्यादिना । इदऱ्‌कु योग्यमिल्लामैयाले यॆन्बदोडन्वयम्. त्रैवर्णीकरै यॊऴिन्दार्क्कुमिति । त्रैवर्णिकर् - ब्राह्मणक्षत्रियवैश्यर् । तद्भिन्नर्क्कुम् अदावदु शूद्रादिकळुक्कुमॆण्ड्रबडि. त्रैवर्णि कर्दङ्गळिल् - त्रैवर्णिकमध्ये । ज्ञानत्तिलेयादलित्यादि । भक्त्यनुष्ठानोपयोगिज्ञानत्तिलेयो शक्तियिलेयो इरण्डिलुमो कुऱैयुळ्ळवर्गळुक्कुमॆन्गै. ज्ञानशक्तत्यादिकळ् परिपूर्णमाग इरुक्कच्चॆय्देयुम् फलविळम्बम् - प्रारब्धकर्मपर्यवसानभावियान फलविळम्बत्तै,पॊऱुक्क - सहिक्क, इसैयाद - इच्छैयिल्लाद, तीव्रसंवेगमुडैयार्क्कुम् - अत्यन्तत्वरैयुडैयार्क्कुम्, इव्वळवाल् मेल् प्रपत्तियोग्याधिकारत्तिल् सॊल्लप्पोगिऱ प्रपत्त्यधिकारङ्गळ्  
+‘‘अङ्कान्त-पात्रैर् अङ्कास्यम् उत्तराङ्कार्थसूचनं’’  
+ऎन्गिऱ अङ्कास्यन्यायत्तालेय् इङ्गेये सूचितङ्गळ्.  
+योग्यमल्लामैयाले - अनुष्ठिक्क शक्यमल्लामैयाले,  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इब् भक्तियोगम् त्रैवर्णिकरैयॊऴिन्दार्क्कुम् त्रैवर्णिकर्दङ्गळिल् ज्ञानत्तिलेयादल् शक्तियिलेयादल् इरण्डिलुमादल् कुऱैयुडैयार्क्कुम् फलविळम्बम् पॊऱुक्क इसैयाद तीव्रसंवेगमुडैयार्क्कुम् योग्यमल्लामैयाले
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तङ्गळ् अळवुगळैत् तॆळिन्दु  
+अ-द्वारकम् आग प्रपत्तियै  
+मोक्षोपायम् आगप् पट्रुम् अवर्गळुक्कु  
+सर्व-फल-साधनम् आन **प्रपत्ति-तान्** ए  
+**पर-भक्ति-स्थानत्तिल्** ए चोदितैय् आगैयाल् ए  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वस्थितीः विशदं विज्ञाय  
+अ-द्वारकतया प्रपत्ति मोक्षोपायत्वेन परिगृह्णतां विषये  
+सर्व-फल-साधन-भूतायाः प्रपत्तेः पर-भक्ति-स्थाने चोदितत्वात्
+</details>
+
+<details><summary>English</summary>
+
+prapatti is prescribed as the sole and independent means of mokṣa  for them.  
+Since it will be the means of securing all desired objects,  
+it has been prescribed in the place of parābhakti for those who know their limitations.  
+
+</details>
+
+<details><summary>Español</summary>
+
+prapatti is prescribed as the sole and independent means of mokṣa  for them.  
+Since it will be the means of securing all desired objects,  
+it has been prescribed in the place of parābhakti for those who know their limitations.  
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तङ्गळळवुगळै - तङ्गळ् तङ्गळ् सामर्थ्यत्तिन् इयत्तैयै, तॆळिन्दु - नण्ड्राग निर्धारणम् पण्णि, अद्वारकप्रपत्तियै - साक्षान्मोक्षसाधनमान स्वतन्त्रप्रपत्तियै, मोक्षोपायमाग - साक्षान्मोक्षसाधनमाग, पट्रुमवर्गळुक्कु - अवलम्बिक्कुमधिकारिकळुक्कु, मुख्यमान भक्तियोगत्तिल् तङ्गळुक्कु सामर्थ्यमिल्लामैयैत् तॆळिन्दालत्तै विट्टु गौणमान अद्वारकप्रपत्तियै साक्षान्मोक्षसाधनमाग अवलम्बिप्पारिऱे. सर्वफलसाधनमान प्रपत्तिताने - ‘‘तावदार्तिः’’ इत्यादिषु सर्वफलसाधनतया ज्ञातमान अद्वारकप्रपत्तिये. परभक्तिस्थानत्तिले चोदितै यागैयाले - 
+
+> ‘‘यद् येन काम-कामेन  
+> न साध्यं साधनान्तरैः ।  
+> मुमुक्षुणा यत् साङ्ख्येन  
+> योगेन न च भक्तितः ॥  
+> तेन तेनाप्यते तत् तन्  
+> न्यासेनैव महामुने’’ 
+
+इत्यादिकळिल् चोदितैयागैयाले, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तङ्गळ् अळवुगळैत् तॆळिन्दु अद्वारकमाग प्रपत्तियै मोक्षोपायमागप् पट्रुमवर्गळुक्कु सर्वफलसाधनमान प्रपत्तिताने परभक्तिस्थानत्तिले चोदितैयागैयाले  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपासकनुक्कु पर-भक्तिक्कु मेल् वरुम् अवस्थैगळ् पोल् ए -  
+इस् स्व-तन्त्र-प्रपत्ति-निष्ठन्-उडैय कोलुदलुक्क् ईड् आग  
+इप् प्रपत्तिक्कु मेल् वरुम् अनुकूलावस्थैगळ्  
+इदिन् फलम् आय् इरुक्कुम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपासकस्य परभक्तेः परस्ताज् जायमाना अवस्था इव,  
+अस्य स्व-तन्त्र-प्रपत्ति-निष्ठस्य प्रार्थनानुगुणम्  
+एतत्-प्रपत्त्यनन्तरं जायमाना अनुकूलावस्था  
+अस्याः फलभूताः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+Just as in the case of the man who practises the vidyās,  
+parābhakti is followed by (certain) stages of attainment (like para jñāna ),  
+this prapatti will be followed by certain favourable results or states  
+in accordance with the desire of the man who adopts it as the independent upāya.  
+These states are to be considered as part of the fruits of prapatti.
+
+</details>
+
+<details><summary>Español</summary>
+
+Just as in the case of the man who practises the vidyās,  
+parābhakti is followed by (certain) stages of attainment (like para jñāna ),  
+this prapatti will be followed by certain favourable results or states  
+in accordance with the desire of the man who adopts it as the independent upāya.  
+These states are to be considered as part of the fruits of prapatti.
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+परभक्तिक्कु मेल् वरुमवस्थैकळ् पोले - परज्ञानपरमभक्ति मुदलानववस्थैकळ् पोले, इदऱ्‌कु अनुकूलावस्थैकळॆन्बदोडन्वयम्. कोलुदलुक्कीडाग - प्रपत्तिकालसङ्कल्पत्तुक्कीडाग, इदनाल् स्वतन्त्रप्रपत्तिनिष्ठरॆल्लारुक्कुम् मेल् सॊल्लप्पोगिऱ अनुकूलावस्थैकळ् काणविल्लैये ऎन्गिऱ शङ्गै परास्तम्. इप्प्रपत्तिक्कुमेल्वरुम् - इस् स्वतन्त्रप्रपत्तिक्कुमेलुण्डागुम्, अनुकूलावस्थैकळ् - परभक्तिपरज्ञानपरमभक्तिकळुम्, कैङ्कर्यङ्गळुम्, इदिन् फलमायिरुक्कुम् - परभक्तिस्थानत्तिल् चोदितैयान इप्प्रपत्तियिन् फलमायिरुक्कुम्. परभक्तियानदु परज्ञानपरमभक्तिरूपफलजनकमानाप्पोले तत्स्थानत्तिले चोदितैयाय् सर्वफलप्रदैयान इन्द प्रपत्ति कोलुदलुक्कीडाग अन्द परभक्तियैयुमुण्डाक्कि तत्कार्यङ्गळान परज्ञान परमभक्तिकळैयुं कैङ्कर्यपर्यन्तमान भगवत्प्राप्तियैयुमुण्डाक्कुमॆण्ड्रु करुत्तु.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासकनुक्कु परभक्तिक्कु मेल् वरुम् अवस्थैगळ् पोले इस्स्वतन्त्रप्रपत्तिनिष्ठनुडैय कोलुदलुक्कीडाग इप्प्रपत्तिक्कु मेल् वरुम् अनुकूलावस्थैगळ् इदिन् फलमायिरुक्कुम्.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि प्रपत्तिक्क् उम् भक्तिक्क् उम्  
+अधिकारि-विशेषत्तैप् पट्रि तुल्य-फलत्वम् उण्डागैयाल् ए  
+विकल्पम् आगक् कडवदु. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं भक्ति-प्रपत्योर् अधिकारिविशेषं प्रति तुल्यफलत्वाद्  
+विकल्पो भवति । 
+</details>
 
 
 
-BHAKTI AND PRAPATTI:
+<details><summary>English</summary>
 
-(Prapatti stands in the place of parābhakti to the man who adopts it as the direct and independent means). Siace bhakti yoga is not suitable for those who do not belong to the three higher castes and (likewise) also for those in these three castes who are wanting in jñāna or ability or both and since it will not suit those who cannot endure any delay in the attainment of its fruit (namely, mokṣa) and are therefore extremely impatient, prapatti is prescribed as the sole and independent means of mokṣa  for them. Since it will be the means of securing all desired objects, it has been prescribed in the place of parābhakti for those who know their limitations. Just as in the case of the man who practises the vidyās, parābhakti is followed by (certain) stages of attainment (like para jñāna ), this prapatti will be followed by certain favourable results or states in accordance with the desire of the man who adopts it as the independent upāya. These states are to be considered as part of the fruits of prapatti.
+Thus prapatti and bhakti are said to be optional  
+in relation to those who are qualified for them  
+as they secure the same final goal or fruit.
 
-CLASSIFICATION OF UPĀYAS
+</details>
 
-Thus prapatti and bhakti are said to be optional in relation to those who are qualified for them as they secure the same final goal or fruit.
+<details><summary>Español</summary>
+
+Thus prapatti and bhakti are said to be optional  
+in relation to those who are qualified for them  
+as they secure the same final goal or fruit.
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि गुरुवान भक्तियोगत्तुक्कुं तत्स्थानत्तिले चोदितैयान लघुवान स्वतन्त्रप्रपत्तिक्कुम्, कैङ्कर्यपर्यन्तभगवत्प्राप्तियुम् इङ्गिरुन्द कालत्तिल् परज्ञानादिफलङ्गळुं तुल्यमाग वुण्डागुमॆण्ड्राल् लघुवान प्रपत्तियै विट्टु गुरुवान भक्तियिल् ऎवनावदु प्रवृत्तिप्पानो? भक्तियोगत्तिऱ्‌कु अधिकारिकळ्दान् तेट्टमागादो? गुरुलघुवान इव्विरण्डुक्कुं विकल्पन्दान् कूडुवदॆङ्ङनेयॆन्नवरुळिच्चॆय्गिऱार् इप्पडि प्रपत्तिक्कुमित्यादिना । इप्पडि - कीऴ् उपपादित्तबडि, प्रपत्तिक्कुम् भक्तिक्कुम् - लघुवान प्रपत्तिक्कुं गुरुवान भक्तिक्कुम्, अधिकारिविशेषत्तैप्पट्रि - अकिञ्चनसकिञ्चन-रूपाधिकारिविशेषत्तैयुत्तेशित्तु. तुल्यफलत्वमुण्डागैयाले इति । शरीरत्तिल् गुरुलघुभावमुण्डानालुम् फलत्तिल् तौल्यमुण्डागैयाले यॆण्ड्रबडि. विकल्प मागक्कडवदु - विकल्पः - भिन्नकल्पः, अन्यतरानुष्ठानमेव; न तु समुच्चय इति भावः ।  
+
+तथाच शक्तनुक्के गुरुवायुं लघुवायुमुळ्ळ भक्ति-प्रपत्तिकळाल् ए  
+समान-फलसिद्धिय् उण्डागुम् ऎण्ड्राल्  
+अवन् विषयत्तिल् गुरुवैयर्थ्य-प्रसङ्गेन  
+गुरु-लघु-विकल्पं कूडाद् आनालुं  
+स-किञ्चनाकिञ्चनाधिकारि-विषयत्तिल् ए गुरु-लघुक्कळ् उडैयव् अनुष्ठानत्ताल् ए  
+तुल्य-फलं वरुगिऱद् ऎण्ड्राल्  
+शक्तन् गुरुवैय् एय् अनुष्टिक्कक् कडवन्,  
+अशक्तन् लघुवैयेय् अनुष्टिक्कक् कडवन् ऎण्ड्रु व्यवस्थित-विकल्पम् ए एऱ्‌-पडुम् आगैयाल्  
+गुरु-वैयर्थ्यत्तिऱ्‌को समुच्चयत्तिऱ्‌को प्रसक्तिय् ए एऱ्-‌पडाद् ऎण्ड्रु तिरुव्-उळ्ळम्.+++(4)+++ 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि प्रपत्तिक्कुम् भक्तिक्कुम् अधिकारिविशेषत्तैप्पट्रि तुल्यफलत्व मुण्डागैयाले विकल्पमागक्कडवदु. 
+</details>
+
+### भेदः
+<details><summary>English</summary>
 
 BHAKTI IS DIFFERENT FROM PRAPATTI:
+</details>
 
-That the two are different from each other is evident from the adhikaraṇa or section. "The Brahma Vidyās are different as their *[^48] names and the like are different ". Brahma sūtras (III-3.56). That there is option (to choose any of them) is also evident from the section : " There is option (to adopt any of them ) because the result or (final) fruit is the same". Brahnia sītras (III - 3. 57).
+<details><summary>Español</summary>
+
+BHAKTI IS DIFFERENT FROM PRAPATTI:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवट्रुक्कु 
+
+> “+++(मोक्षार्थ-विद्या)+++ नाना +++(उपासनासु शब्दभेदाः←)+++शब्दादि+++(→प्रपत्त्युपासनयोर् अन्य-भेदाः)+++-भेदात्”(ब्रह्मसूत्रम्3-3-56) 
+
+ऎन्गिऱ अधिकरणत्तिल् ए भेदम् सिद्धम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतयोः 
+
+> “+++(मोक्षार्थ-विद्या)+++ नाना +++(उपासनासु शब्दभेदाः←)+++शब्दादि+++(→प्रपत्त्युपासनयोर् अन्य-भेदाः)+++-भेदात्”(ब्रह्मसूत्रम्3-3-56)
+
+इत्यधिकरणे भेदः सिद्धः। 
+</details>
+
+<details><summary>English</summary>
+
+That the two are different from each other is evident from the adhikaraṇa or section -  
+
+> "The Brahma Vidyās are different as their *[^48] names and the like are different ".  
+> Brahma sūtras (III-3.56). 
 
 [^48]: Bhakti leads through yoga to para-bhakti which leads to para-Jñāna, which, in its turn, leads to parama-bhakti.
+</details>
+
+<details><summary>Español</summary>
+
+That the two are different from each other is evident from the adhikaraṇa or section -  
+
+> "The Brahma Vidyās are different as their *[^es48] names and the like are different ".  
+> Brahma sūtras (III-3.56). 
+
+[^es48]: Bhakti leads through yoga to para-bhakti which leads to para-Jñāna, which, in its turn, leads to parama-bhakti.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+भक्तिक्क् उम् प्रपत्तिक्क् उम् भेदम् उण्डागिल् अण्ड्र् ओ  
+विकल्पं सॊल्लल् आवदु;  
+
+> ‘‘अर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् ।  
+> .............भक्तिश्चेन्नव लक्षणा’’ 
+
+इत्यादिकळिल् भक्तिप्रपत्तिशब्दवाच्यङ्गळॊण्ड्रुबोल् तोण्ड्रुगिऱदेयॆन्न वरुळिच्चॆय्गिऱार् इवट्रुक्कु इत्यादिना । विद्या नाना – परस्परं भिन्ना शब्दादिभेदात् –‘‘उपासीत’’ ‘‘ओमित्यात्मानं युञ्जीत’’ इति शब्दभेदात् । आदिपदादभ्यासनामधेयगुणप्रकरणसङ्ग्रहः । ऎन्गिऱ अधिकरणत्तिले भेदं सिद्धमिति । तथाच सूत्रकारैरेव भक्तिप्रपत्तिकळुक्कु भेदकहेतुक्कळाले भेदस्य व्यवस्थापितत्वेन ‘‘सख्यमात्मनिवेदनम्’’ इत्यादिकळिल् अभेदप्रतीतिरन्यथा नेया ऎण्ड्रु तिरुवुळ्ळम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवट्रुक्कु “नाना शब्दादि भेदात्”(ब्रह्मसूत्रम्3-3-56) ऎन्गिऱ अधिकरणत्तिले भेदम् सिद्धम्. 
+</details>
+
+
+
+That there is option (to choose any of them) is also evident from the section : " There is option (to adopt any of them ) because the result or (final) fruit is the same". Brahnia sītras (III - 3. 57).
 
 It may be seen that, as in upāsanās there are differences in mantras and the like (aṅgas), there are, in Nyāsa Vidyā also, differences stated in the different branches of the vedas (Shakhas) and in the different samhitas of the agamas. Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily, so prapatti, too, is said to be of different kinds owing to the excess of one or other of these differences. It has been stated by some that, just as obeisance becomes complete when all the three, verbal, mental and bodily are combined, prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jñāna. This statement of theirs should be understood as meaning that mental prapatti is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jñāna). (It should not be taken to mean that prapatti is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them,
 
