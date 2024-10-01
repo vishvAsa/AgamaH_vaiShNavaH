@@ -2232,11 +2232,165 @@ That the two are different from each other is evident from the adhikaraṇa or s
 इवट्रुक्कु “नाना शब्दादि भेदात्”(ब्रह्मसूत्रम्3-3-56) ऎन्गिऱ अधिकरणत्तिले भेदम् सिद्धम्. 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+“विकल्पोऽविशिष्ट-फलत्वात्”(ब्रह्मसूत्रम्3-3-57.)  
+ऎन्गिऱ अधिकरणत्तिल् ए विकल्पम् उम् सिद्धम्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[95]]
+
+“12 विकल्पोऽविशिष्टफलत्वात्" इत्यधिकरणे विकल्पः सिद्धः । 
+</details>
 
 
-That there is option (to choose any of them) is also evident from the section : " There is option (to adopt any of them ) because the result or (final) fruit is the same". Brahnia sītras (III - 3. 57).
+<details><summary>English</summary>
 
-It may be seen that, as in upāsanās there are differences in mantras and the like (aṅgas), there are, in Nyāsa Vidyā also, differences stated in the different branches of the vedas (Shakhas) and in the different samhitas of the agamas. Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily, so prapatti, too, is said to be of different kinds owing to the excess of one or other of these differences. It has been stated by some that, just as obeisance becomes complete when all the three, verbal, mental and bodily are combined, prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jñāna. This statement of theirs should be understood as meaning that mental prapatti is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jñāna). (It should not be taken to mean that prapatti is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them,
+That there is option (to choose any of them) is also evident from the section :  
+
+> " There is option (to adopt any of them )  
+> because the result or (final) fruit is the same".  
+> Brahma sutras (III - 3. 57).
+
+</details>
+
+<details><summary>Español</summary>
+
+That there is option (to choose any of them) is also evident from the section :  
+
+> " There is option (to adopt any of them )  
+> because the result or (final) fruit is the same".  
+> Brahma sutras (III - 3. 57).
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि भेदत्तै स्थापित्त सूत्रकाररे विकल्पाधिकरणत्तिल् विकल्पत्तैयुं निर्णयित्तारॆन्गिऱार् विकल्पोऽविशिष्टफलत्वात् ऎन्गिऱ अधिकरणत्तिले विकल्पमुं सिद्धमिति । विकल्पः – विभिन्नकल्प एव, न तु समुच्चयः । कुतः? अविशिष्टफलत्वात् – परस्परासहायेन तुल्यफलजनकत्वात् । उपासनत्तिल्भेदम्बोले शाखाभेदसंहिताभेदङ्गळिल् न्यासविद्यैकळिलुम् मन्त्रादिभेदत्ताले भेदं सिद्ध मॆन्गिऱार्. अथवा साङ्गमान प्रपदनमॊण्ड्रागैयाले ऒरु प्रपदनत्तिल् ‘‘वसुरण्य’’, ‘‘श्रीमन्नारायण स्वामिन्’’, ‘‘भगवन्’’, ‘‘सर्वविजयिन्’’, ‘‘श्रीमन्नारायणचरणौ’’ इत्यादिकळान अनेकमन्त्रङ्गळ् करणमन्त्रङ्गळाग आगवेण्डुमागैयाल् अवैगळुक्कु करणमन्त्रतया विनियोगविकल्पं कॊळ्ळवेण्डुम्. विकल्पमो अष्टदोषदुष्टम्. ऒण्ड्रिनालेये प्रपदननिष्पत्तौ बहुमन्त्रश्रवणं व्यर्थमागवुम् प्रसङ्गिक्कुम्. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“विकल्पोऽविशिष्टफलत्वात्”(ब्रह्मसूत्रम्3-3-57.) ऎन्गिऱ अधिकरणत्तिले विकल्पमुम् सिद्धम्.  
+</details>
+
+## प्रपत्ति-भेदाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपासनत्तिल् विशेषङ्गळ् पोल् ए  
+शाखा-भेदङ्गळिल् उम् भगवच्-छास्त्र-संहिता-भेदङ्गळिल् उञ् चॊल्लुम् न्यास-विद्यैयिल्  
+**मन्त्रादि-विशेषङ्गळ्** कण्डु-गॊळ्वदु.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपासने विशेषा इव  
+शाखा-भेदेषु भगवच्-छास्त्र-संहिता-भेदेषु च प्रतिपाद्यमानाः  
+न्यास-विद्यायां मन्त्रादि-विशेषा द्रष्टव्याः । 
+</details>
+
+
+<details><summary>English</summary>
+
+It may be seen that, as in upāsanās there are differences in mantras and the like (aṅgas),  
+there are, in Nyāsa Vidyā also, differences stated in the different branches of the vedas (Shakhas) and in the different samhitas of the agamas.  
+</details>
+
+<details><summary>Español</summary>
+
+It may be seen that, as in upāsanās there are differences in mantras and the like (aṅgas),  
+there are, in Nyāsa Vidyā also, differences stated in the different branches of the vedas (Shakhas) and in the different samhitas of the agamas.  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+आगैयाल् बहुमन्त्रङ्गळुक्कु उपनिषद्भेदेन करणत्वं सॊन्नदऱ्‌कु गति ऎन्नॆन्निल्? सर्व श्रुतिकळिलुम् पाञ्चरात्रादिकळिलुम् पठितमान ऎल्ला भरन्यासत्तिलुम् आनुकूल्यसङ्कल्पाद्यङ्गङ्गळ् अविशिष्टमानालुं तत्तच्छाखैकळिलुम् अहिर्बुध्नयसंहितादिकळिलुं गुणविग्रहादिविशेषविशिष्टनुक्के प्रपत्तव्यत्वं सॊल्लियि रुप्पदाल् रूपभेदत्ताले तत्तत्प्रपदनभेदं सिद्धिक्कैयाल् तत्तत्प्रपदनविशेषे तत्तन्मन्त्रस्य करणतयान्वयात् मन्त्राणां बहुत्वेऽपि न वैयर्थ्य मॆन्गिऱ वभिप्रायत्ताले यरुळिच्चॆय्गिऱार् उपासनत्तिल् इत्यादिना ।  
+उपासनत्तिल् विशेषङ्गळ् पोले - उपासनत्वव्याप्यधर्मवत्तुक्कळान दहरशाण्डि-ल्यद्युपासनङ्गळ्बोल्, शाखाभेदङ्गळिलुम् - तैत्तिरीयश्वेताश्वतरादिवेदशाखाभेदङ्गळिलुम्, भगवच्छास्त्रासंहिताभेदङ्गळिलुम् - पाञ्चरात्रसम्बन्धिकळान लक्ष्मीतन्त्राहिर्बुध्नयादिसंहिताभेदङ्गळिलुम्, सॊल्लुं न्यासविद्यैयिल् - प्रतिपाद्यमान न्यासविद्यैयिल्, मन्त्रादिविशेषङ्गळ् कण्डु कॊळ्वदु - मन्त्रादिकृतभेदङ्गळ् कण्डुगॊळ्वदु. इङ्गु आदिपदादनुसन्धेयगुणविग्रहादि परिग्रहः । इप्पडि प्रतिशाखैयिलुम् प्रतिसंहितैयिलुम् मन्त्रङ्गळुम् अनुसन्धेयगुणविग्रहादिकळुम् भिन्नङ्गळाग इरुप्पदाल् रूपभेदं तोण्ड्रानिऱ्‌क न्यासविद्यैयिल् मन्त्रादिविशेषङ्गळ् कण्डुगॊळ्वदॆन्गिऱविडत्तिलुळ्ळ न्यासविद्याशब्दोत्तरमान एकवचनत्तैमात्तिर मवलम्बित्तु, 
+
+> ‘‘न्यासविद्यै इति ।  
+> इङ्गु एकवचनत्ताल् कर्मैक्यं ज्ञापितम् आगिऱदु.  
+> ततश् च प्रकरणान्तरादिकळ् इरुन्दालुं  
+> शाखाभेदादिकळिल् सॊल्लुगिऱ न्यासम् ऎल्लां  
+> सर्व-वेदान्त-प्रत्यय-न्यायत्ताल् ए  
+> एक-कर्मम् एय् ऒऴिय  
+> भिन्न-कर्मम् अण्ड्र् ऎण्ड्रु करुत्तु" 
+
+ऎण्ड्रु सिलर् सॊल्लुवदु ऎप्पडि सङ्गतमागुम्?  
+इप्पडि न्यासविद्यै ऒण्ड्रानाल्  
+अनेकमन्त्रङ्गळै ऎप्पडि उपसंहारम् पण्णिक्कॊळ्वदु?  
+अनेकविग्रहचिन्तनं तान् ऒण्ड्रिल् ऎप्पडि शक्यमागुम्?  
+अप्पडि न्यासविद्यैयॆल्लाम् ऒण्ड्रॆण्ड्राल्  
+
+> ‘‘यद्य् अपि अनन्य-प्रयोजनस्यापि  
+> तत्र-तत्रोक्त-न्यास-विद्या-भेदात्  
+> स्व-निष्ठा-विषय-तत्-तत्-संहितोक्त-प्रक्रिया-भेदाच् च  
+> अनुसन्धेय-रूप-गुण-विग्रह-विभूत्य्-आदिकन् नाना भवति’’ 
+
+ऎन्गिऱ योगप्रकरणस्थ श्रीपाञ्चरात्र-रक्षा-वाक्यं विरुद्धम् आम्.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपासनत्तिल् विशेषङ्गळ् पोले शाखाभेदङ्गळिलुम् भगवच्छास्त्रसंहिताभेदङ्गळिलुञ्चॊल्लुम् न्यासविद्यैयिल् मन्त्रादिविशेषङ्गळ् कण्डुगॊळ्वदु.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमस्कारम्  
+वाचिकम्, मानसम्, कायिकम्  
+ऎण्ड्रु पिरिन्दाप्-पोल् ए  
+प्रपत्तियिल् उम् ओर्-ऒण्ड्रै मुन्न् इट्टु  
+इव् **विभागङ्गळ् सॊल्लप् पट्टदु**.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नमस्कारे वाचिक-मानसिक-कायिक-विभागवत्  
+प्रपत्ताव् अपि +एकैकं पुरस्-कृत्येमे विभागा उक्ताः । 
+</details>
+
+<details><summary>English</summary>
+
+Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily,  
+so prapatti, too, is said to be of different kinds owing to the excess of one or other of these differences. 
+</details>
+
+<details><summary>Español</summary>
+
+Just as obeisance (namaskāra) is divided into three forms, verbal, mental and bodily,  
+so prapatti, too, is said to be of different kinds  
+owing to the excess of one or other of these differences. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उपायमान इन्द प्रपत्ति ज्ञानविकासविशेषमायिरुक्क इदऱ्‌कु वाचिकादि विभागं सॊल्लुवदऱ्‌कु दृष्टान्तपूर्वकमाग अभिप्रायमरुळिच्चॆय्गिऱार् नमस्कारमित्यादिना । नमस्कारं – शेषत्वज्ञानम्; नमस्कारनिष्ठशेषितानिरूपितशेषत्वानुसन्धानमिति यावत्, वाचिकं कायिकम् मानसमॆण्ड्रु पिरिन्दाप्पोले इति । शेषित्वानुसन्धानमे मानसव्यापारमागैयाले मानसिकनमस्कारमाय् स्वपुरस्कृतशेषिप्रसादजनकवाग्व्यापाररूप नमश्शब्दोच्चारणजनकत्वेन वाचिकनमस्कारमाय्, स्वपुरस्कृतशेषि-प्रसादजनककायिकप्रणिपतनादिजनकत्वेन कायिक नमस्कारमाय् पिरिन्दाप्पोलेयॆण्ड्रबडि. तथाच शेषत्व ज्ञानरूपनमस्कारं स्वकार्यमान नमश्शब्दोच्चारणविशिष्टतादशायां वाचिकमॆण्ड्रुम्, स्वकार्यभूतप्रणिपतनादिविशिष्टतादशायां कायिकमॆण्ड्रुं विभागवत्ताग ऎप्पडिप् पिरिन्दिरुक्किऱदो अप्पडिये ऎण्ड्रबडि. प्रपत्तियिलुम् भरसमर्पणरूपप्रपत्तियिलुम्, ओरॊण्ड्रै मुन्निट्टु - भगवत्प्रसादजनकमान भरसमर्पण द्वयोच्चारण प्रणिपतनरूपमान मानसवाचिककायिकव्यापारङ्गळिल् ओरॊण्ड्रै प्रधानीकरित्तु; अदावदु - स्वनिष्ठैयिल् करणमन्त्रोच्चारणपूर्वकभरसमर्पणत्तै प्रधानीकरित्तुम्, भरसमर्पणपूर्वकमान द्वयोच्चारणरूपवाचिकप्रपत्तियिल् प्रसादजनकमान द्वयोच्चारणत्तै प्रधानीकरित्तुम्, भरसमर्पणपूर्वकप्रणिपतनरूपकायिकप्रपत्तियिल् प्रसाद जनकप्रणिपतनादिरूपकायव्यापारत्तै प्रधानीकरित्तुम् ऎण्ड्रबडि. इव्विभागङ्गळ् - मानसिकवाचिककायिक विभागङ्गळ्. सॊल्लप्पट्टदु - भरद्वाज संहितायां ‘‘एषैव त्रिविधा ज्ञेया करणत्रय भेदतः’’ ऎण्ड्रु सॊल्लप्पट्टदु. यद्यपि भरसमर्पणपुरस्कृतमन्त्रोच्चारणरूपैव वाचिकी प्रपत्तिः; भरसमर्पणपुरस्कृत-प्रणामादिरूपैव कायिकीप्रपत्तिः; वाचिककायिक प्रपत्तित्वरूपधर्मौ च तयोरेव वर्तेते । तथाऽपि विशेषणीभूते भरसमर्पणेऽपि तयोर्धर्मयोः स्वाश्रयज्ञाप्यत्वसम्बन्धेन वा स्वाश्रयविशेषणत्वरूपसम्बन्धेन वा सत्वेन भरद्वाजसंहितैयिल् भरसमर्पणात्मकप्रपत्तिक्के वाचिकादिविभागकथनमॆण्ड्रु कण्डुगॊळ्वदु. इप्पडि साक्षात्सम्बद्धमान मानसप्रपत्तित्वरूपधर्मत्तैयुं स्वाश्रयविशेषणत्वसम्बन्धेनसम्बद्धङ्गळान वाचिकप्रपत्तित्वकायिकप्रपत्तित्वरूपधर्मङ्गळैयुमिट्टु मानसिकादिविभागं सॊल्लक्कूडुमो? ‘द्रव्यं द्वेधा विभक्तं जडमजड’’ मित्यादौ जडत्वाजडत्वरूपसाक्षात्सम्बद्धविभाजकधर्मङ्गळैयिट्टण्ड्रो विभागं सॊल्लप्पडुगिऱदॆन्निल्; सर्वत्र तादृशनियममिल्लै यॆण्ड्रु ज्ञापिक्कैक्कागवे मुदलिलेये सर्वात्मना तुल्यमान नमस्कारदृष्टान्तत्तैच् चॊन्नदु. अङ्गुं शेषत्व ज्ञानत्तिल् मानसत्वं साक्षात्सम्बन्धत्तालुम्, नमश्शब्दोच्चारणत्तिलिरुक्किऱ वाचिकत्वं स्वाश्रयजनकत्वरूपपरम्परासम्बन्धत्तालुम् प्रणिपतनवृत्ति कायिकत्वं स्वाश्रय प्रणिपतन जनकत्व रूप परम्परा सम्बन्धत् तालुमिरुप्पदैयिट्टे वाचिककायिकमानसिकविभागं लोकसिद्धमॆण्ड्रु करुत्तु.यत्तु सारास्वादिन्यामेतद्वाक्यव्याख्यानावसरे 
+
+> "ओरॊण्ड्रै इति । प्रपत्तिमानसमायिरुक्कच् चॆय्देयुम् प्रपत्तिवाक्योच्चारणादिमुखेन वाक्कायान्वयियायुमिरुप्पदाले इन्द करणत्रयव्यापारङ्गळिल् तत्तदधिकारिषु शक्तिभेदादेकैकव्यापारं विञ्जियिरुक्कैयाल् अव्वभिप्रायत्ताले यवट्रिलोरॊण्ड्रै पुरस्करित्तु इप्पडि प्रपत्तिक्कु त्रैविध्येन भेदं सॊल्लुगिऱदत् तनैयागैयाले प्रपत्ति ज्ञानैकरूपैयॆन्नक् कुऱैयिल्लै ऎण्ड्रु करुत्तु" 
+
+इत्युक्तम् । अदिल् सॊल्लवेण्डिय साधकबाधकयुक्तिकळै अस्मत्कृत उक्तिनिष्ठाभरणोद्योतत्तिले कण्डुगॊळ्वदु.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नमस्कारम् वाचिकम् मानसम् कायिकम् ऎण्ड्रु पिरिन्दाप्पोले प्रपत्तियिलु मोरॊण्ड्रै मुन्निट्टु इव्विभागङ्गळ् सॊल्लप्पट्टदु.  
+</details>
+
+
+It has been stated by some that,  
+just as obeisance becomes complete when all the three, verbal, mental and bodily are combined,  
+prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jñāna.  
+
+This statement of theirs should be understood as meaning that mental prapatti is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jñāna). (It should not be taken to mean that prapatti is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them,
 
 110 
 
