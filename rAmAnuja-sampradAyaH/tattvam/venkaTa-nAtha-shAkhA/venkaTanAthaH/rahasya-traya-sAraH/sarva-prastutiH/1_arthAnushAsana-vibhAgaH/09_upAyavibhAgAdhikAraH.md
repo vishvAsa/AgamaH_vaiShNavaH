@@ -2347,13 +2347,14 @@ there are, in Nyāsa Vidyā also, differences stated in the different branches o
 वाचिकम्, मानसम्, कायिकम्  
 ऎण्ड्रु पिरिन्दाप्-पोल् ए  
 प्रपत्तियिल् उम् ओर्-ऒण्ड्रै मुन्न् इट्टु  
-इव् **विभागङ्गळ् सॊल्लप् पट्टदु**.  
+इव् **विभागङ्गळ् सॊल्लप् पट्टदु** +++(यथा सत्त्व-बाहुल्य-मात्रे सात्त्विक इति)+++.  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 नमस्कारे वाचिक-मानसिक-कायिक-विभागवत्  
-प्रपत्ताव् अपि +एकैकं पुरस्-कृत्येमे विभागा उक्ताः । 
+प्रपत्ताव् अपि +एकैकं **पुरस्-कृत्येमे विभागा उक्ताः**  
++++(यथा सत्त्व-बाहुल्य-मात्रे सात्त्विक इति)+++। 
 </details>
 
 <details><summary>English</summary>
@@ -2385,22 +2386,182 @@ owing to the excess of one or other of these differences.
 नमस्कारम् वाचिकम् मानसम् कायिकम् ऎण्ड्रु पिरिन्दाप्पोले प्रपत्तियिलु मोरॊण्ड्रै मुन्निट्टु इव्विभागङ्गळ् सॊल्लप्पट्टदु.  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवै मूण्ड्रुम् पॊरुन्दिन+++(=समवेत)+++-पोदु पूर्ण-नमस्-कारम् आनाऱ्‌ पोल् ए  
+पूर्ण-प्रपत्तिय् आगक् कडवद्  
+
+ऎण्ड्र्-अवर्गळ् पा-सुरङ्गळुक्क् उम्  
+वाचिक-कायिकङ्गळ् आन व्यापार-विशेषङ्गळ् परीवाहम् आम् पडिय् आन  
+**मानस+++(-प्रधान)+++-प्रपत्तियिन्-उडैय पूर्तियिल्** ए  
+तात्पर्यम् आगक् कडवदु +++(न तु प्रपत्ति-मात्रस्य)+++.+++(5)+++  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"एषां त्रयाणां समवाये पूर्ण-नमस्-कारवत्  
+पूर्ण प्रपत्तिर् भवती"ति प्रतिपादयतां वाचाम् अपि  
+वाचिक-कायिक-व्यापार-विशेषौ परीवाहयन्त्याः **मानस+++(-प्रधान)+++-प्रपत्तेः पूर्तौ** तात्पर्यं ग्रह्यम् +++(न तु प्रपत्ति-मात्रस्य)+++। 
+</details>
+
+<details><summary>English</summary>
 
 It has been stated by some that,  
-just as obeisance becomes complete when all the three, verbal, mental and bodily are combined,  
+
+> just as obeisance becomes complete when all the three, verbal, mental and bodily are combined,  
 prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jñāna.  
 
-This statement of theirs should be understood as meaning that mental prapatti is full and complete and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jñāna). (It should not be taken to mean that prapatti is incomplete when verbal and bodily actions are absent). We have already stated that all these are productive of the desired result or fruit in accordance with the competency of those who adopt them,
+This statement of theirs should be understood as meaning that  
 
-110 
+> mental prapatti is full and complete  
+and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jñāna).  
+(~~It should not be taken to mean that prapatti is incomplete  
+when verbal and bodily actions are absent~~).
+</details>
+
+<details><summary>Español</summary>
+
+It has been stated by some that,
+
+> just as obeisance becomes complete when all the three, verbal, mental and bodily are combined,  
+prapatti, too, becomes complete when verbal and bodily actions are combined with mental states or jñāna.
+
+This statement of theirs should be understood as meaning that
+
+> mental prapatti is full and complete  
+and that verbal and bodily activities are, as it were, the overflow of the mental prapatti (jñāna).  
+(~~It should not be taken to mean that prapatti is incomplete  
+when verbal and bodily actions are absent~~).
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडियानाल् प्रपत्तियिल् एय् ए  
+एकैक-पुरस्कारत्ताल् ए त्रेधा विभाग कथनं कूडुम् ओ?  
+
+> इवै मूण्ड्रुम् पॊरुन्दिन बोदु  
+पूर्ण-नमस्-कारम् आनाऱ्‌-पोल् ए  
+पूर्ण-प्रपत्तिय् आगक् कडवद्  
+
+ऎन्गिऱ अभियुक्त-श्री-सूक्तियिल् ए  
+
+> मानसादि-व्यापार-त्रय-समुच्चय-रूपम् आय् उम्  
+पूर्वोक्त-वाचिकादि-त्रय-व्यतिरिक्तम् आय् उम्  
+प्रपत्त्य्-अन्तरम् इरुप्पद् आगत् तोण्ड्रव् इल्लैय् ओव् 
+
+ऎन्नव् अरुळिच् चॆय्गिऱार्  
+**इवै मूण्ड्रुम्** इत्य्-आदिना ।  
+
+**इवै मूण्ड्रुम्** - मानसिक-वाचिक-कायिक-व्यापारङ्गळ् मूण्ड्रुम्.  
+**पॊरुन्दिन पोदु** - परस्-परं सेर्न्द-बोदु.  
+इदऱ्‌कु "पूर्णप्रपत्तिय् आगक् कडवद्" ऎन्बद्-ओड् अन्वयम्.  
+**ऎण्ड्र्-अवर्गळ् पासुरङ्गळुक्क् उम्** -  
+ऎण्ड्रु अभियुक्तर्गळ् सॊल्लुं वार्त्तैगळुक्कुम्.  
+
+**वाचिक-कायिकङ्गळ् आन व्यापार-विशेषङ्गळ् परीवाहम् आम् बडिय् आन** -  
+स्तुति-नमस्-कारादि-रूपङ्गळ् आन वाचिक-कायिक-व्यापार-विशेषङ्गळ् तडुक्क-मुडियाद कार्यम् आम् बडिय् आन.  
+**मानस-प्रपत्तियिन् उडैय** - मुन्बु सॊन्न मूण्ड्रिल् ऒण्ड्र् आन मानस-प्रपत्तियिनुडैय.  
+**पूर्तियिले तात्पर्यम् आगक् कडवदु** इति ।
+
+तथा च 
+
+> मुन् सॊन्न मानस-प्रपत्तिय् ए ऒरुवनुक्कु  
+स्तुति--नमस्-कारादि-रूपम् आन वाक्-काय-व्यापारङ्गळोडु **सेर्न्दाल्**  
+अदुव् ए **पूर्ण-मानस-प्रपत्तिय् आगक्-कडवद्** 
+
+ऎण्ड्रु तात्पर्यम् एय्, ऒऴिय  
+
+> वाचिक-कायिक-व्यापार-रूप-प्रपत्तिकळ् **सेर्न्दाल् पूर्ण-प्रपत्तिय्**  
+
+ऎण्ड्रु तात्पर्यम् इल्लामैयाल् उं  
+
+> व्यापार-त्रय-समुच्चय-रूप प्रपत्त्य्-अन्तरम् उण्ड् 
+
+ऎण्ड्रु तात्पर्यम् इल्लामैयाल् उम्  
+
+> पूर्वोक्तम् आन त्रेधा-विभागत्तिऱ्‌कु  
+ऒरु विधम् आन अनुपपत्तिय् उम् इल्लैय्  
+
+ऎण्ड्रु करुत्तु.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवै मूण्ड्रुम् पॊरुन्दिन-पोदु पूर्णनमस्कारमानाऱ्‌पोले पूर्णप्रपत्तियागक् कडवदॆण्ड्रवर्गळ् पासुरङ्गळुक्कुम् वाचिककायिकङ्गळान व्यापारविशेषङ्गळ् परीवाहमाम्बडियान मानसप्रपत्तियिनुडैय पूर्तियिले तात्पर्यमागक् कडवदु.  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथाऽधिकारम् इवैय् ऎल्लाम् +++(प्राध्यान्य-भिन्न-प्रपत्ति-त्रयम्)+++ फल-प्रदङ्गळ्  
+ऎन्नुम् इडम् मुन्ब् ए सॊन्नोम्.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यथाऽधिकारम् एते सर्वेऽपि (विभागाः) फल-प्रदा  
+इत्य् एतम् अर्थं पूर्वम् एवावोचाम ॥ 
+</details>
+
+<details><summary>English</summary>
+
+We have already stated that  
+all these are productive of the desired result or fruit  
+in accordance with the competency of those who adopt them.  
+[[110]] 
+
+</details>
+
+<details><summary>Español</summary>
+
+We have already stated that  
+all these are productive of the desired result or fruit  
+in accordance with the competency of those who adopt them.  
+[[110]] 
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+यथाधिकारमिवैयॆल्लाम् फलप्रदङ्गळॆन्नुमिडम् मुन्बे सॊन्नोम्.
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-निण्ड्रनिलैक्कुऱ निऱ्‌कुङ् गरुममुनेर्मदियाल्  
-नण्ड्रॆन नाडिय ञानमुनल्गुमुट्कण्णुडैयार्  
-ऒण्ड्रियबत्तियुमॊण्ड्रुमिलाविरैवार्क्करुळाल्  
-अण्ड्रु पयण्ड्ररुमाऱुमऱिन्दवरन्दणरे. (16)
+निण्ड्र निलैक्क् उऱ+++(=उप)+++ निऱ्‌कुङ् करुमम् उ+++(म्)+++, नेर्-मतियाल्  
+नण्ड्र् ऎन नाडिय ञानम् उ+++(म्)+++, नल्गुम्+++(=काङ्क्षि)+++ उट्+++(←ळ्)+++कण्ण्-उडैयार्  
+ऒण्ड्रिय+++(=एकान्त)+++ भत्तिय् उम्, ऒण्ड्रुम् इलाव् इरैवार्क्क्, अरुळाल्  
+अण्ड्रु पयण्ड्र् अरुमाऱुम् अऱिन्दवर् अन्दणर् ए. (16)
 </details>
+
+<details><summary>English</summary>
+
+They are Brahmins who know the following :--  
+(1) Karma Yoga is suited to one's state (viz. varṇa, āśrama and the like);  
+(2) Jñāna Yoga adopted with keen intelligence on account of its beneficial results:  
+(3) Bhakti Yoga adopted by those with an inner vision which is delightful and  
+(4) Prapatti which yields immediate fruit by the grace of God  
+to those who are destitute of the qualifications (for the other three )  
+and who cannot endure delay in attaining mokṣa .
+
+</details>
+
+<details><summary>Español</summary>
+
+They are Brahmins who know the following :--  
+(1) Karma Yoga is suited to one's state (viz. varṇa, āśrama and the like);  
+(2) Jñāna Yoga adopted with keen intelligence on account of its beneficial results:  
+(3) Bhakti Yoga adopted by those with an inner vision which is delightful and  
+(4) Prapatti which yields immediate fruit by the grace of God  
+to those who are destitute of the qualifications (for the other three )  
+and who cannot endure delay in attaining mokṣa .
+
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -2410,7 +2571,6 @@ This statement of theirs should be understood as meaning that mental prapatti is
 अण्ड्रु पयण्ड्ररुमाऱुमऱिन्दवरन्दणरे. (16)
 </details>
 
-They are Brahmins who know the following :-- (1) Karma Yoga is suited to one's state (viz. varṇa, āśrama and the like); (2) Jñāna Yoga adopted with keen intelligence on account of its beneficial results: (3) Bhakti Yoga adopted by those with an inner vision which is delightful and (4) Prapatti which yields immediate fruit by the grace of God to those who are destitute of the qualifications (for the other three ) and who cannot endure delay in attaining mokṣa .
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
