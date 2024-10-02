@@ -25,15 +25,14 @@ consiste en ser los hacedores y los disfrutadores
 Sujeto a la voluntad y el propósito de Iśvara.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इप्पडियिरुक्किऱ चेतनरुक्कुप् प्रवृत्तियावदु पराधीनमुमाय् परार्थमुमान कर्तृत्वमुम् भोक्तृत्वमुम्.  
+इप्पडियिरुक्किऱ चेतनरुक्कुप् प्रवृत्तियावदु पराधीनमुमाय् परार्थमुमाऩ कर्तृत्वमुम् भोक्तृत्वमुम्.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ईश्वरन् तन्-भोक्तृत्वार्थम् आग  
+ईश्वरऩ् तऩ्-भोक्तृत्वार्थम् आग  
 इवर्गळुक्कु कर्तृत्व-भोक्तृत्वङ्गळै उण्डाक्कुगैयाल्  
 इवै **परार्थङ्गळ्**.+++(4)+++ 
 </details>
@@ -50,8 +49,8 @@ Dado que esta actividad y esta capacidad de disfrute les son dados por él,
 Son para sus propósitos y no suyos.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ईश्वरन् तन् भोक्तृत्वार्थमाग इवर्गळुक्कु कर्तृत्वभोक्तृत्वङ्गळै उण्डाक्कुगैयालिवै परार्थङ्गळ्. 
+ईश्वरऩ् तऩ् भोक्तृत्वार्थमाग इवर्गळुक्कु कर्तृत्वभोक्तृत्वङ्गळै उण्डाक्कुगैयालिवै परार्थङ्गळ्. 
 </details>
+

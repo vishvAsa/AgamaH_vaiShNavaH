@@ -27,10 +27,9 @@ y nuestro ācārya s (śrī yāmunācārya y Śrī rāmānujācārya) lo han dec
 > y de cosas no sensibles con todas sus diferencias".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इव्वीशेशितव्यरूपमान तत्त्वत्रयम् निऱ्‌कुम् निलैयै “स्वाधीनत्रिविधचेतनाचेतनस्वरूपस्थितिप्रवृत्तिभेदम्” ऎऩ्ऱु सुरुङ्ग अरुळिच्चॆय्दार्.
+इव्वीशेशितव्यरूपमाऩ तत्त्वत्रयम् निऱ्‌कुम् निलैयै “स्वाधीनत्रिविधचेतनाचेतनस्वरूपस्थितिप्रवृत्तिभेदम्” ऎऩ्ऱु सुरुङ्ग अरुळिच्चॆय्दार्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -48,7 +47,6 @@ The three kinds of sentient beings are those that are in bondage (baddha), those
 
 Los tres tipos de seres sintientes son los que están en esclavitud (Baddha), los que han obtenido la liberación (MUKTA) y los que son eternamente libres (NITYA).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -71,10 +69,9 @@ The three kinds of non-sentient things are Prakṛti with its three qualities (s
 Los tres tipos de cosas no sensibles son Prakṛti con sus tres cualidades (Sattvam, Rajas y Tamas), Time y Śuddhasattvam.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-त्रिविधाचेतनमॆऩ्ऱदु त्रिगुणद्रव्यत्तैयुम् कालत्तैयुम् शुद्धसत्त्वमान द्रव्यत्तैयुम्.
+त्रिविधाचेतनमॆऩ्ऱदु त्रिगुणद्रव्यत्तैयुम् कालत्तैयुम् शुद्धसत्त्वमाऩ द्रव्यत्तैयुम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -93,16 +90,15 @@ La naturaleza esencial (svarūpa) significa la sustancia o cosa
 que se define por atributos peculiares y únicos.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-स्वरूपमॆऩ्ऱदु स्वासाधारणधर्मत्ताले निरूपितमान धर्मियै.
+स्वरूपमॆऩ्ऱदु स्वासाधारणधर्मत्ताले निरूपितमाऩ धर्मियै.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्थितिय् आवदु  
-इदिन्-उडैय कालान्तरानुवृत्ति.
+इदिऩ्-उडैय कालान्तरानुवृत्ति.
 </details>
 
 <details><summary>English</summary>
@@ -115,7 +111,6 @@ Continuance (sthiti) means continuance of the thing or object in time.
 Continuancia (sthiti) significa continuar la cosa u objeto en el tiempo.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स्थितियावदु इदिनुडैय कालान्तरानुवृत्ति.
@@ -123,7 +118,7 @@ Continuancia (sthiti) significa continuar la cosa u objeto en el tiempo.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु-दान् +++(→स्थितिः)+++ नित्यवस्तुक्कळुक्कु नित्यैय् आय् इरुक्कुम्.
+इदु-दाऩ् +++(→स्थितिः)+++ नित्यवस्तुक्कळुक्कु नित्यैय् आय् इरुक्कुम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -136,12 +131,10 @@ This is eternal for eternal things.
 Esto es eterno para las cosas eternas.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इदुदान् नित्यवस्तुक्कळुक्कु नित्यैयायिरुक्कुम्.
+इदुदाऩ् नित्यवस्तुक्कळुक्कु नित्यैयायिरुक्कुम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,12 +154,10 @@ esta continuación está sujeta a expansión y contracción
 de acuerdo con la voluntad de Iśvara.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अनित्य-वस्तुक्कळुक्कु ईश्वरसङ्कल्पत्तुक्कीडाग एऱियुञ् जुरुङ्गियुमिरुक्कुम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,10 +173,9 @@ Activity or pravṛtti includes action and abstention from action.
 
 Actividad o Pravṛtti incluye acción y abstención de la acción.
 </details>
- 
-
 
 <details><summary>मूलम्</summary>
 
-इङ्गु प्रवृत्तियावदु प्रवृत्तिनिवृत्तिरूपमान व्यापारम्.
+इङ्गु प्रवृत्तियावदु प्रवृत्तिनिवृत्तिरूपमाऩ व्यापारम्.
 </details>
+

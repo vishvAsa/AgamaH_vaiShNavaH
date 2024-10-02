@@ -12,7 +12,6 @@ THE THREE KINDS OF NON-SENTIENT BEINGS :
 THE THREE KINDS OF NON-SENTIENT BEINGS :
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि-विधाचेतनङ्गळ् उम् पररुक्क् ए तोऩ्ऱक् कडवनव् आय् इरुक्कुम्.
@@ -23,7 +22,6 @@ THE THREE KINDS OF NON-SENTIENT BEINGS :
 त्रिविधान्य् अप्य् अचेतनानि  
 परान् प्रत्येव प्रकाशमानानि भवन्ति । 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -37,12 +35,10 @@ The three classes of non-sentient things
 are capable of being apprehended only by others, (and not by themselves). 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 त्रिविधाचेतनङ्गळुम् पररुक्के तोऩ्ऱक् कडवनवायिरुक्कुम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,7 +49,6 @@ are capable of being apprehended only by others, (and not by themselves).
 
 अचेतनत्वं नाम - ज्ञानाश्रयत्वाभावः ।
 </details>
-
 
 <details><summary>English</summary>
 
@@ -66,7 +61,6 @@ being without the possession of knowledge.
 Non sentience means being without the possession of knowledge. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अचेतनमावदु ज्ञानाश्रयमऩ्ऱिक्केयॊऴिगै.
@@ -75,7 +69,7 @@ Non sentience means being without the possession of knowledge.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "**पिऱरुक्क् ए तोऩ्ऱुगैय्**" आवदु  
-तन् प्रकाशत्तुक्कुत् तान् फलिय् अऩ्ऱिक्क् एय् ऒऴिगै. 
+तऩ् प्रकाशत्तुक्कुत् ताऩ् फलिय् अऩ्ऱिक्क् एय् ऒऴिगै. 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -83,7 +77,6 @@ Non sentience means being without the possession of knowledge.
 परान् प्रत्येव प्रकाशमानत्वं नाम –  
 स्वप्रकाशं प्रति स्वस्य फलित्वाभावः ।
 </details>
-
 
 <details><summary>English</summary>
 
@@ -99,10 +92,9 @@ means that their apprehension is not to themselves
 or for their own benefit. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-पिऱरुक्के तोऩ्ऱुगैयावदु तन् प्रकाशत्तुक्कुत् तान् फलियऩ्ऱिक्केयॊऴिगै. 
+पिऱरुक्के तोऩ्ऱुगैयावदु तऩ् प्रकाशत्तुक्कुत् ताऩ् फलियऩ्ऱिक्केयॊऴिगै. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -116,7 +108,6 @@ or for their own benefit.
 इदम् उभयं धर्मभूत-ज्ञानादीनाम् +++(→अद्रव्याणाम्)+++ अपि तुल्यम् ।
 </details>
 
-
 <details><summary>English</summary>
 
 These two  
@@ -135,11 +126,11 @@ are true also of attributive knowledge (dharmabhūta jñāna),
 which is thus a non-sentient thing.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवैयिरण्डुम् धर्मभूतज्ञानादिगळुक्कुम् तुल्यम्.
 </details>
+
 
 ## प्रकृति-कालौ जडौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -167,11 +158,11 @@ matter (Prakṛti) and time (Kala) are jaḍa
 (i.e.) not luminous by themselves. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 त्रिविधाचेतनङ्गळॆऩ्ऱॆडुत्तवऱ्ऱिल् प्रकृतियुम् कालमुम् जडङ्गळ्.
 </details>
+
 
 ## शुद्ध-सत्त्वम् अजडम्
 
@@ -196,10 +187,9 @@ There are some who hold that Śuddha-sattvam is also jaḍa.
 There are some who hold that Śuddha-sattvam is also jaḍa.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-शुद्धसत्त्वमान द्रव्यत्तैयुम् जडम् ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्.  
+शुद्धसत्त्वमाऩ द्रव्यत्तैयुम् जडम् ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -222,12 +212,10 @@ To be jaḍa is to be without self-luminosity.
 To be jaḍa is to be without self-luminosity. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 जडत्वमावदु स्वयं-प्रकाशमऩ्ऱिक्केयिरुक्कै.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,7 +245,6 @@ would say that Śuddhasattvam is luminous by itself,
 as it is declared to be so in that śāstra. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 भगवच्छास्त्रादिपरामर्शम् पण्णिनवर्गळ् ज्ञानात्मकत्वम् शास्त्रसिद्धमागैयाले शुद्धसत्त्वद्रव्यत्तै स्वयंप्रकाशमॆन्बर्गळ्.
@@ -267,9 +254,9 @@ as it is declared to be so in that śāstra.
 
 > इप्-पडि स्वयं-प्रकाशम् आगिल्  
 संसारिगळुक्कु शास्त्र-वेद्यम् आग-वेण्डाद् ए  
-तान् ए तोऩ्ऱ-वेण्डाव् ओव् 
+ताऩ् ए तोऩ्ऱ-वेण्डाव् ओव् 
 
-ऎन्निल्;
+ऎऩ्ऩिल्;
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -295,10 +282,9 @@ it is not directly perceived by beings in the state of saṁsāra,
 without having to be known through śāstra only. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इप्पडि स्वयंप्रकाशमागिल् संसारिगळुक्कु शास्त्रवेद्यमागवेण्डादे ताने तोऩ्ऱवेण्डावोवॆन्निल्;
+इप्पडि स्वयंप्रकाशमागिल् संसारिगळुक्कु शास्त्रवेद्यमागवेण्डादे ताने तोऩ्ऱवेण्डावोवॆऩ्ऩिल्;
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -336,7 +322,6 @@ and not to other souls,
 who have to know it with the help of their own attributive knowledge. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सर्वात्माक्कळुडैयवुम् स्वरूपमुम् धर्मभूतज्ञानमुम् स्वयंप्रकाशमायिरुक्क स्वरूपन्दनक्के स्वयंप्रकाशमाय् वेऱॆल्लार्क्कुम् ज्ञानान्तरवेद्यमानाऱ्‌पोलवुम्,
@@ -366,12 +351,10 @@ Attributive knowledge, though luminous to its substrate, namely the soul,
 is not luminous to others.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 धर्मभूतज्ञानम् स्वाश्रयत्तुक्के स्वयंप्रकाशमाय् इतररुक्कु स्वयंप्रकाशमल्लादाप्पोलवुम् 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -397,12 +380,10 @@ In the same way, the Śuddha sattvam may be luminous by itself only to Iśvara, 
 There is nothing unreasonable in this view.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इदुवुम् नियतविषयमाग स्वयंप्रकाशमानाल् विरोधमिल्लै.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -412,7 +393,7 @@ There is nothing unreasonable in this view.
 न्याय-तत्त्वं प्रचक्ष्महे ॥”  
 > (न्यायतत्त्वम्)
 
-ऎन्गिऱप्-पडिये  
+ऎऩ्गिऱप्-पडिये  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -422,7 +403,6 @@ There is nothing unreasonable in this view.
 
 इत्य्-उक्त-रीत्या 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -440,20 +420,19 @@ It has been said in the following śloka  :
 to Hari who sees, directly by perception and of His own accord, all things simultaneously."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “यो वेत्ति युगपत्सर्वं प्रत्यक्षेण सदा स्वतः । तं प्रणम्य हरिं शास्त्रं न्यायतत्त्वं प्रचक्ष्महे ॥” (न्यायतत्त्वम्)
 
-ऎन्गिऱप्-पडिये  
+ऎऩ्गिऱप्-पडिये  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > धर्म-भूत-ज्ञानत्ताल् ए सर्वत्तैयुम् साक्षाङ्करित्तुक्-कॊण्ड् इरुक्किऱ ईश्वरनुक्कु  
-शुद्ध-सत्त्व-द्रव्यम् स्वयं-प्रकाशम् आय् इरुक्किऱ पडि ऎङ्ङन् एय् 
+शुद्ध-सत्त्व-द्रव्यम् स्वयं-प्रकाशम् आय् इरुक्किऱ पडि ऎङ्ङऩ् एय् 
 
-ऎन्निल् …
+ऎऩ्ऩिल् …
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -463,7 +442,6 @@ to Hari who sees, directly by perception and of His own accord, all things simul
 
 इति चेत्
 </details>
-
 
 <details><summary>English</summary>
 
@@ -485,15 +463,14 @@ when it is illuminated by the attributive knowledge of Iśvara.
 [^es35]: A pot is not luminous, because it becomes visible or is seen only when lighted up by the flame of a lamp. The flame of a lamp is luminous, because it does not require anything else to become visible.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ऎन्गिऱप्पडिये धर्मभूतज्ञानत्ताले सर्वत्तैयुम् साक्षाङ्करित्तुक्कॊण्डिरुक्किऱ ईश्वरनुक्कु शुद्धसत्त्वद्रव्यम् स्वयंप्रकाशमायिरुक्किऱबडि ऎङ्ङनेयॆन्निल्
+ऎऩ्गिऱप्पडिये धर्मभूतज्ञानत्ताले सर्वत्तैयुम् साक्षाङ्करित्तुक्कॊण्डिरुक्किऱ ईश्वरनुक्कु शुद्धसत्त्वद्रव्यम् स्वयंप्रकाशमायिरुक्किऱबडि ऎङ्ङनेयॆऩ्ऩिल्
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवन्-उडैय धर्म-भूत-ज्ञानम् दिव्यात्म-स्वरूपम् मुदलाग सर्वत्तैय् उम् विषयी-करिया निऱ्‌क,  
+इवऩ्-उडैय धर्म-भूत-ज्ञानम् दिव्यात्म-स्वरूपम् मुदलाग सर्वत्तैय् उम् विषयी-करिया निऱ्‌क,  
 इद्-दिव्यात्म-स्वरूपम् स्वयं-प्रकाशम् आगिऱ् आप्-पोल् एय्  
 इदुव् उम् स्वयं-प्रकाशम् आय् इरुक्कलाम्.
 </details>
@@ -523,7 +500,6 @@ So also it is possible that Śuddhasattvam is self-luminous,
 though it is apprehended also by the attributive knowledge of Iśvara.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवनुडैय धर्मभूतज्ञानम् दिव्यात्म-स्वरूपम् मुदलाग सर्वत्तैयुम् विषयीकरिया निऱ्‌क,  
@@ -541,8 +517,6 @@ though it is apprehended also by the attributive knowledge of Iśvara.
 वरम् शुद्ध-सत्त्वं सर्वेषाम् अबद्धानां धर्मभूतज्ञानस्याङ्गं मन्यताम् -  
 अ-बद्धात्मनो धर्म-भूत-ज्ञानम् = लीलाविभूतिविषयकं धर्मभूतज्ञानम् + शुद्ध-सत्त्वम् + व्यक्ति-गतानुमानादि ।
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -563,7 +537,6 @@ This is true also of nityas.
 
 This is true also of nityas. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -587,7 +560,6 @@ This is true also of nityas.
 न विरोधः । 
 </details>
 
-
 <details><summary>English</summary>
 
 When lighting up an object (like a pot),  
@@ -610,7 +582,6 @@ to those that have attained release in their new state.
 There is nothing inconceivable in this.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 विषयप्रकाशकालत्तिले धर्मभूतज्ञानम् स्वाश्रयत्तुक्के स्वयंप्रकाशमानाऱ्‌पोले मुक्तरुक्कु अव्ववस्थैयिलेयिदुवुम् स्वयंप्रकाशमानाल् विरोधमिल्लै.
@@ -618,10 +589,10 @@ There is nothing inconceivable in this.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्म-भूत-ज्ञानत्तिन्-उडैय स्वात्म-प्रकाशन-शक्तिय् आनदु  
+धर्म-भूत-ज्ञानत्तिऩ्-उडैय स्वात्म-प्रकाशन-शक्तिय् आनदु  
 विषय-प्रकाशम् इल्लाद कालत्तिल्  
 कर्म-विशेषङ्गळाल् ए प्रतिबद्धैय् आनाऱ्‌-पोल् ए  
-शुद्ध-सत्त्वत्तिन् उडैय स्वात्म-प्रकाशन-शक्तिय् उम्  
+शुद्ध-सत्त्वत्तिऩ् उडैय स्वात्म-प्रकाशन-शक्तिय् उम्  
 बद्ध-दशैयिल् प्रतिबद्धैय् आगैयाल् ए  
 शुद्ध-सत्त्वम् बद्धर्क्कुप् प्रकाशिया-तॊऴिगिऱदु.
 </details>
@@ -635,7 +606,6 @@ There is nothing inconceivable in this.
 शुद्ध-सत्त्वं बद्धान् प्रति न प्रकाशते । 
 </details>
 
-
 <details><summary>English</summary>
 
 The luminosity of attributive knowledge is obstructed at the time  
@@ -654,11 +624,11 @@ may meet with obstruction in the state of bondage
 and may not, therefore, be apprehended by those in saṁsāra.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 धर्मभूतज्ञानत्तिनुडैय स्वात्मप्रकाशनशक्तियानदु विषयप्रकाशमिल्लाद कालत्तिल् कर्मविशेषङ्गळाले प्रतिबद्धैयानाऱ्‌पोले शुद्धसत्त्वत्तिनुडैय स्वात्मप्रकाशनशक्तियुम् बद्धदशैयिल् प्रतिबद्धैयागैयाले शुद्धसत्त्वम् बद्धर्क्कुप् प्रकाशियातॊऴिगिऱदु.
 </details>
+
 
 
 
@@ -684,7 +654,6 @@ and may not, therefore, be apprehended by those in saṁsāra.
 तथाऽत्राऽपि नियम्यते ॥”१४-अ॥
 </details>
 
-
 <details><summary>English</summary>
 
 The luminosity of (attributive) knowledge is natural to it (svabhavika), after release from saṁsāra,  
@@ -698,7 +667,6 @@ The luminosity of (attributive) knowledge is natural to it (svabhavika), after r
 but is obstructed some times during bondage.  
 So also in this case, (there may be obstruction during saṁsāra and luminousness after release).
 </details>
-
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -735,7 +703,6 @@ while being non-luminous to those in bondage.)
 There is no contradiction in this. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इव्वळवु अवस्थान्तरापत्ति विकारि-द्रव्यत्तुक्कु विरुद्धमऩ्ऱु.
@@ -765,7 +732,6 @@ it is ~~no use pointing~~ +++(not possible to point out)+++ out inconsistency ba
 it is ~~no use pointing~~ +++(not possible to point out)+++ out inconsistency based on analogy.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आगैयाले प्रमाणप्रतिपन्नार्थत्तुक्कु युक्तिविरोधञ् चॊल्ल वऴियिल्लै.  
@@ -773,7 +739,7 @@ it is ~~no use pointing~~ +++(not possible to point out)+++ out inconsistency ba
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्ङन्-अऩ्ऱिक्क् ए उपचारत्ताल् ए निर्वहिक्कप् पार्क्किल्  
+इङ्ङऩ्-अऩ्ऱिक्क् ए उपचारत्ताल् ए निर्वहिक्कप् पार्क्किल्  
 आत्म-स्वरूपत्तिल् उम् ज्ञानादि-शब्दङ्गळै उपचारत्ताल् ए  
 अन्य-परङ्गळ् आक्कलाम्.+++(5)+++
 </details>
@@ -784,7 +750,6 @@ it is ~~no use pointing~~ +++(not possible to point out)+++ out inconsistency ba
 आत्म--स्व-रूप--विषये ऽपि  
 ज्ञानादि-शब्दानाम् उपचारेण +अन्यपर्य-करणम् आपद्येत ।  
 </details>
-
 
 <details><summary>English</summary>
 
@@ -804,7 +769,6 @@ it might become possible to argue that knowledge, bliss etc. are also true of th
 only figuratively and not in truth. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इङ्ङनऩ्ऱिक्के उपचारत्ताले निर्वहिक्कप् पार्क्किल् आत्मस्वरूपत्तिलुम् ज्ञानादिशब्दङ्गळै उपचारत्ताले अन्यपरङ्गळाक्कलाम्.
@@ -816,8 +780,8 @@ only figuratively and not in truth.
 अवैय् अडिय् आग वन्द पृथिव्य्-आदि-विभागम् उम्  
 परिणामादिगळुङ् कूडुम् ओव् ?
 
-ऎन्गिऱ चोद्यम् उम्  
-धर्म-भूत-ज्ञानत्तुक्क् उम्, धर्मि-ज्ञानत्तुक्क् उम् उण्डान वैषम्यङ्गळै  
+ऎऩ्गिऱ चोद्यम् उम्  
+धर्म-भूत-ज्ञानत्तुक्क् उम्, धर्मि-ज्ञानत्तुक्क् उम् उण्डाऩ वैषम्यङ्गळै  
 प्रतिबन्धिय् आगक् कॊण्डु,  
 प्रमाण-बलत्ताल् ए परिहृतम्. 
 </details>
@@ -877,13 +841,10 @@ So this objection can be given a counter-check (pratibandhi)
 and cannot hold good in a matter where the authority of the śāstra  must be accepted.
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
-स्वयंप्रकाशत्तुक्कु रूपरसादिगुणङ्गळुमवैयडियाग वन्द पृथिव्यादिविभागमुम् परिणामादिगळुङ् गूडुमोव् ऎन्गिऱ चोद्यमुम् धर्मभूतज्ञानत्तुक्कुम् धर्मिज्ञानत्तुक्कुमुण्डान वैषम्यङ्गळै प्रतिबन्धियागक् कॊण्डु, प्रमाणबलत्ताले परिहृतम्. 
+स्वयंप्रकाशत्तुक्कु रूपरसादिगुणङ्गळुमवैयडियाग वन्द पृथिव्यादिविभागमुम् परिणामादिगळुङ् गूडुमोव् ऎऩ्गिऱ चोद्यमुम् धर्मभूतज्ञानत्तुक्कुम् धर्मिज्ञानत्तुक्कुमुण्डाऩ वैषम्यङ्गळै प्रतिबन्धियागक् कॊण्डु, प्रमाणबलत्ताले परिहृतम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -912,11 +873,11 @@ is included among the three classes of non-sentient things,
 because it has not the quality of sentience or being the knower. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इप्पडि स्वयंप्रकाशमान शुद्धसत्त्वद्रव्यत्तै ज्ञातृत्वमिल्लामैयाले त्रिविधाचेतनङ्गळॆऩ्ऱु सेरक्कोत्तदु.
+इप्पडि स्वयंप्रकाशमाऩ शुद्धसत्त्वद्रव्यत्तै ज्ञातृत्वमिल्लामैयाले त्रिविधाचेतनङ्गळॆऩ्ऱु सेरक्कोत्तदु.
 </details>
+
 
 ## प्रवृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -944,9 +905,8 @@ The activities (pravṛtti) of these three kinds of non-sentient things
 are of the nature of varied modifications (pariṇāma) in accordance with the will of Iśvara.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इव्वचेतनङ्गळ् मूऩ्ऱुक्कुम् प्रवृत्तियावदु ईश्वरसङ्कल्पानुरूपङ्गळान विचित्रपरिणामादिगळ्.
+इव्वचेतनङ्गळ् मूऩ्ऱुक्कुम् प्रवृत्तियावदु ईश्वरसङ्कल्पानुरूपङ्गळाऩ विचित्रपरिणामादिगळ्.
 </details>
 

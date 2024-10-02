@@ -33,13 +33,14 @@ title = "१३ धर्म-भूत-ज्ञानम्"
     (See foot-note before the previous foot-note)
 </details>
 
+
 ## परिगणना
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् आत्माक्कळ् ऎल्लार्क्क् उम्  
 धर्मि-स्वरूपम् पोल् ए  
 धर्म-भूत-ज्ञानम् उम् +++(सङ्कोच-विकास-भाक्तया)+++ द्रव्यम् आय् इरुक्क  
-इदिन् स्वरूपत्तैत् तनित्तु  
+इदिऩ् स्वरूपत्तैत् तनित्तु  
 इङ्गु +++(←"त्रि-विध…अचेतन…")+++ अरुळिच् चॆय्याद् ऒऴिन्ददु+++(=त्यागः)+++  
 चेतनर् ऎऩ्ऱ् ऎडुत्त विशिष्टत्तिल् ए +++(धर्म-भूत-ज्ञानम् इति)+++ विशेषणम् आय्च् चॊरुगि+++(=विद्ध्वा)+++ निऱ्‌कैय् अडिय्+++(=बीजम्)+++ आग. 
 </details>
@@ -64,11 +65,11 @@ Its essential nature has not been separately referred to in the [^es148] passage
 [^es148]: the passage which refers to the three kinds of achetana in Aḷavandār’s Atmasiddhi and Rāmānuja’s Vaikuṇṭhagadyam .)*
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इव्वात्माक्कळॆल्लार्क्कुम् धर्मिस्वरूपम् पोले धर्मभूतज्ञानमुम् द्रव्यमायिरुक्क इदिन् स्वरूपत्तैत् तनित्तु इङ्गु अरुळिच् चॆय्यादॊऴिन्ददु चेतनरॆऩ्ऱॆडुत्त विशिष्टत्तिले विशेषणमाय्च् चॊरुगि निऱ्‌कैयडियाग. 
+इव्वात्माक्कळॆल्लार्क्कुम् धर्मिस्वरूपम् पोले धर्मभूतज्ञानमुम् द्रव्यमायिरुक्क इदिऩ् स्वरूपत्तैत् तनित्तु इङ्गु अरुळिच् चॆय्यादॊऴिन्ददु चेतनरॆऩ्ऱॆडुत्त विशिष्टत्तिले विशेषणमाय्च् चॊरुगि निऱ्‌कैयडियाग. 
 </details>
+
 
 ## स्व-प्रकाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,6 +109,7 @@ it reveals its own existence as well).
 इद्धर्मभूतज्ञानम् विषयप्रकाशदशैयिले स्वाश्रयत्तुक्कु स्वयंप्रकाशमायिरुक्कुम्.  
 </details>
 
+
 ## विस्तारः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -126,7 +128,6 @@ this attributive knowledge is eternally all-pervasive.
 To Iśvara and the nityas (the eternally free),  
 this attributive knowledge is eternally all-pervasive.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -159,11 +160,11 @@ it is all pervasive for all released souls,
 owing to perfect expansion and remains so throughout.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मऱ्ऱुळ्ळारुक्कु संसारावस्थैयिल् कर्मानुरूपमाग बहुविधसङ्कोच-विकासवत्ताय् मुक्तावस्थैयिले नैजविकासत्ताले पिन्बु यावत्कालम् विभुवायिरुक्कुम्.  
 </details>
+
 
 ## प्रवृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -173,7 +174,7 @@ owing to perfect expansion and remains so throughout.
 प्रयत्नावस्थैयिल् ए शरीरादिगळै **प्रेरिक्कैय्** उम्,  
 बद्ध-दशैयिल् सङ्कोच-विकासङ्गळ् उम्,  
 आनुकूल्य-प्रातिकूल्य-प्रकाशन-मुखत्ताल् ए  
-भोगम् ऎन्गिऱव् अवस्थैयैय् अडैगैय्+++(=प्राप्ति)+++ उम्.
+भोगम् ऎऩ्गिऱव् अवस्थैयैय् अडैगैय्+++(=प्राप्ति)+++ उम्.
 </details>
 
 <details><summary>English</summary>
@@ -200,14 +201,14 @@ it undergoes experiences (bhoga)
 which reveal objects as agreeable or disagreeable. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इदऱ्‌कुप् प्रवृत्तियावदु विषयङ्गळै प्रकाशिप्पिक्कैयुम्,  
 प्रयत्नावस्थैयिले शरीरादिगळै प्रेरिक्कैयुम्,  
 बद्धदशैयिल् सङ्कोचविकासङ्गळुम्,  
-आनुकूल्यप्रातिकूल्यप्रकाशनमुखत्ताले भोगमॆन्गिऱववस्थैयैयडैगैयुम्.
+आनुकूल्यप्रातिकूल्यप्रकाशनमुखत्ताले भोगमॆऩ्गिऱववस्थैयैयडैगैयुम्.
 </details>
+
 
 ## भोगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,7 +231,6 @@ Experience or Bhoga is the process of feeling a thing
 as agreeable or disagreeable.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 भोगमावदु तनक्कनुकूलमागवादल् प्रतिकूलमागवादलॊऩ्ऱैयनुभविक्कै.
@@ -240,7 +240,7 @@ as agreeable or disagreeable.
 
 ईश्वर-विभूतिय् आऩ सर्व-वस्तुवुक्क् उम्  
 आनुकूल्यम् स्व-भावम् आय्+++(5)+++  
-इप्-पडि ईश्वरन् उम् नित्यर् उम् मुक्तर् उम् अनुभविया-निऱ्‌क,  
+इप्-पडि ईश्वरऩ् उम् नित्यर् उम् मुक्तर् उम् अनुभविया-निऱ्‌क,  
 </details>
 
 <details><summary>English</summary>
@@ -259,13 +259,11 @@ and are enjoyed as being Agreeable
 by Iśvara, the nityas and the souls that have attained mokṣa . 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ईश्वरविभूतियान सर्ववस्तुवुक्कुमानुकूल्यम् स्वभावमायिप्पडि  
+ईश्वरविभूतियाऩ सर्ववस्तुवुक्कुमानुकूल्यम् स्वभावमायिप्पडि  
 ईश्वरनुम् नित्यरुम् मुक्तरुम् अनुभविया निऱ्‌क,  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -295,18 +293,18 @@ as slightly agreeable, or disagreeable, or indifferent,
 but these variations do not belong to them by nature.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 संसारिगळुक्कु कालभेदत्तालुम् पुरुषभेदत्तालुम् देशभेदत्तालुमल्पानुकूलमायुम् प्रतिकूलमायुमुदासीनमायुमिरुक्किऱ विभागङ्गळॆल्लामिव्वस्तुगळुक्कु स्वभावसिद्धङ्गळऩ्ऱु.
 </details>
 
+
 ### कर्म-वश्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इद् इवर्गळ्-उडैय कर्मङ्गळुक्क् ईड्+++(=समम्)+++ आग  
-सत्य-संकल्पन् आऩ ईश्वरन्  
-इवर्गळुक्कु फल-प्रदानम् पण्णिन प्रकारम्.  
+सत्य-संकल्पऩ् आऩ ईश्वरऩ्  
+इवर्गळुक्कु फल-प्रदानम् पण्णिऩ प्रकारम्.  
 </details>
 
 <details><summary>English</summary>
@@ -323,10 +321,9 @@ is the fruit of the past actions of the jīvas awarded to them by Iśvara,
 whose will is irresistible. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इदिवर्गळुडैय कर्मङ्गळुक्कीडाग सत्यसंकल्पनान ईश्वरनिवर्गळुक्कु फलप्रदानम् पण्णिन प्रकारम्.  
+इदिवर्गळुडैय कर्मङ्गळुक्कीडाग सत्यसंकल्पनाऩ ईश्वरनिवर्गळुक्कु फलप्रदानम् पण्णिऩ प्रकारम्.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -348,7 +345,6 @@ The jīvas that are in bondage
 are subject to the experience of the fruits of their karma,  
 both by nature and by auxiliary causes. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -372,7 +368,6 @@ By nature they are subject to it,
 because they are sentient beings entirely under the control of another (Iśvara). 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स्वरूपयोग्यतै परतन्त्रचेतनत्वम्.
@@ -395,11 +390,11 @@ The auxiliary causes are
 their having committed offences against the Lord. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सहकारियोग्यतै सापराधत्वम्.
 </details>
+
 
 #### नित्य-मुक्ताः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -429,17 +424,17 @@ there are no auxiliary causes for such experiences.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नित्यरुक्कुम् मुक्तरुक्कुम् परतन्त्रचेतनतैयाले स्वरूपयोग्यतैयुण्डे यागिलुम् ईश्वरानभिमतविपरीतानुष्ठानमिल्लामैयाले सहकारियोग्यतैयिल्लै.  
 </details>
 
+
 #### ईश्वरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ईश्वरन् सर्व-प्रशासिताव् आय्  
-तान् ऒरुत्तरुक्कु शासनीयन् अऩ्ऱिक्क् ए निऱ्‌कैयाल् ए  
+ईश्वरऩ् सर्व-प्रशासिताव् आय्  
+ताऩ् ऒरुत्तरुक्कु शासनीयऩ् अऩ्ऱिक्क् ए निऱ्‌कैयाल् ए  
 पर-तन्त्र-चेतनत्वम् आगिऱ स्व-रूप-योग्यतैय् उम् इल्लै.
 </details>
 
@@ -459,15 +454,14 @@ since He stands as the Ruler over all
 and with no one else to command Him. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ईश्वरन् सर्वप्रशासितावाय् तानॊरुत्तरुक्कु शासनीयनऩ्ऱिक्के निऱ्‌कैयाले परतन्त्रचेतनत्वमागिऱ स्वरूपयोग्यतैयुमिल्लै.
+ईश्वरऩ् सर्वप्रशासितावाय् तानॊरुत्तरुक्कु शासनीयनऩ्ऱिक्के निऱ्‌कैयाले परतन्त्रचेतनत्वमागिऱ स्वरूपयोग्यतैयुमिल्लै.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व-तन्त्रन् आगैयाल् ए स्व-तन्त्राज्ञातिलङ्घनम् आगिऱ सह-कारि-योग्यतैय् उम् इल्लै.
+स्व-तन्त्रऩ् आगैयाल् ए स्व-तन्त्राज्ञातिलङ्घनम् आगिऱ सह-कारि-योग्यतैय् उम् इल्लै.
 </details>
 
 <details><summary>English</summary>
@@ -484,8 +478,8 @@ as there is no one whose commands
 He may be said to have disobeyed.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 स्वतन्त्रनागैयाले स्वतन्त्राज्ञातिलङ्घनमागिऱ सहकारियोग्यतैयुमिल्लै.
 </details>
+

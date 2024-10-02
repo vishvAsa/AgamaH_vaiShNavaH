@@ -19,7 +19,6 @@ Jñāna or knowledge, (which is the character of both of them),
 may be defined as that which makes a thing laminous;  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ज्ञानत्वमावदु कस्यचित्प्रकाशकत्वम्.
@@ -28,8 +27,8 @@ may be defined as that which makes a thing laminous;
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद् +++(=कस्यचित् प्रकाशकत्वम्)+++ आवदु -  
-तन्न्-उडैयव् आगवुमाम्, वेऱ्-ऒऩ्ऱिन्-उडैयव् आगव् उम् आम् - 
-एद्-एनुम् ऒऩ्ऱिन्-उडैय व्यवहारानुगुण्यत्तैप् पण्णुगै.
+तऩ्ऩ्-उडैयव् आगवुमाम्, वेऱ्-ऒऩ्ऱिऩ्-उडैयव् आगव् उम् आम् - 
+एद्-एनुम् ऒऩ्ऱिऩ्-उडैय व्यवहारानुगुण्यत्तैप् पण्णुगै.
 </details>
 
 <details><summary>English</summary>
@@ -44,17 +43,17 @@ that is, it makes either itself or something else
 fit for being spoken out and acted upon (vyavahāra).  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-अदावदु - तन्नुडैयवागवुमाम्, वेऱॊऩ्ऱिनुडैयवागवुमाम् - एदेनुमॊऩ्ऱिनुडैय व्यवहारानुगुण्यत्तैप् पण्णुगै.
+अदावदु - तऩ्ऩुडैयवागवुमाम्, वेऱॊऩ्ऱिनुडैयवागवुमाम् - एदेनुमॊऩ्ऱिनुडैय व्यवहारानुगुण्यत्तैप् पण्णुगै.
 </details>
+
 
 ## स्वयं-प्रकाशत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **स्वयं-प्रकाशत्वम्** आवदु  
-तन्नै विषयीकरिप्पद् ऒरु ज्ञानान्तरत्ताल् अपेक्षैय् अऱत्  
+तऩ्ऩै विषयीकरिप्पद् ऒरु ज्ञानान्तरत्ताल् अपेक्षैय् अऱत्  
 ताने प्रकाशिक्कै.
 </details>
 
@@ -70,17 +69,17 @@ Self-luminosity is the capability of being luminous
 without the need of any other known ledge to illumine it. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-स्वयंप्रकाशत्वमावदु तन्नै विषयीकरिप्पदॊरु ज्ञानान्तरत्तालबेक्षैयऱत् ताने प्रकाशिक्कै.
+स्वयंप्रकाशत्वमावदु तऩ्ऩै विषयीकरिप्पदॊरु ज्ञानान्तरत्तालबेक्षैयऱत् ताने प्रकाशिक्कै.
 </details>
+
 
 ## विषयत्व-प्रत्यक्त्वे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्म-भूत-ज्ञानत्तुक्कु **विषयित्वम्** आवदु  
-तन्नैय्-ऒऴिन्दद् ऒऩ्ऱैक् काट्टुगै.
+तऩ्ऩैय्-ऒऴिन्दद् ऒऩ्ऱैक् काट्टुगै.
 </details>
 
 <details><summary>English</summary>
@@ -95,10 +94,9 @@ Attributive knowledge has vishayitva,
 because it discloses objects other than itself (like pots, cloths etc.)  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-धर्मभूतज्ञानत्तुक्कु विषयित्वमावदु तन्नैयॊऴिन्ददॊऩ्ऱैक् काट्टुगै.
+धर्मभूतज्ञानत्तुक्कु विषयित्वमावदु तऩ्ऩैयॊऴिन्ददॊऩ्ऱैक् काट्टुगै.
 </details>
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -122,27 +120,25 @@ The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in th
 The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in their being luminous to themselves ; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आत्माक्कळुक्कु प्रत्यक्त्वमावदु स्वस्मै भासमानत्वम्.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अद्+++(=स्वस्मै भासमानत्वम्)+++ आवदु तन् प्रकाशत्तुक्कुत् तान् फलिय् आय् इरुक्कै.
+अद्+++(=स्वस्मै भासमानत्वम्)+++ आवदु तऩ् प्रकाशत्तुक्कुत् ताऩ् फलिय् आय् इरुक्कै.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अदावदु तन् प्रकाशत्तुक्कुत् तान् फलियायिरुक्कै.
+अदावदु तऩ् प्रकाशत्तुक्कुत् ताऩ् फलियायिरुक्कै.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एद्-एनुम् ऒरु "वस्तुविन् प्रकाशत्तुक्कु फलिय्" ऎन्गिऱ सामान्याकारत्तैत्,
-"तन्-प्रकाशत्तुक्कुत् तान् फलिय्" ऎऩ्ऱु विशेषित्त  
+एद्-एनुम् ऒरु "वस्तुविऩ् प्रकाशत्तुक्कु फलिय्" ऎऩ्गिऱ सामान्याकारत्तैत्,
+"तऩ्-प्रकाशत्तुक्कुत् ताऩ् फलिय्" ऎऩ्ऱु विशेषित्त  
 वाऱ्+++(=रीतिय्)+++ ए प्रत्यक्त्वम् आम्.
 </details>
 
@@ -162,12 +158,10 @@ Pratyaktva is only a special instance of this general statement,
 for in it, the self receives the benefit of its own disclosure or revelation.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-एद्-एनुम् ऒरु वस्तुविन् प्रकाशत्तुक्कु फलिय् ऎन्गिऱ सामान्याकारत्तैत् तन् प्रकाशत्तुक्कुत् तान् फलियॆऩ्ऱु विशेषित्तवाऱे प्रत्यक्त्वमाम्.
+एद्-एनुम् ऒरु वस्तुविऩ् प्रकाशत्तुक्कु फलिय् ऎऩ्गिऱ सामान्याकारत्तैत् तऩ् प्रकाशत्तुक्कुत् ताऩ् फलियॆऩ्ऱु विशेषित्तवाऱे प्रत्यक्त्वमाम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -192,9 +186,8 @@ It cannot, therefore, be called sentient.
 
 <details><summary>मूलम्</summary>
 
-इव्विशेषमिल्लाद वस्तुवुक्कु इस्सामान्यमुमित्तोडु व्याप्तमान चेतनत्वमुमिल्लै.
+इव्विशेषमिल्लाद वस्तुवुक्कु इस्सामान्यमुमित्तोडु व्याप्तमाऩ चेतनत्वमुमिल्लै.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -218,7 +211,6 @@ yet they are also capable of being apprehended by other forms of knowledge (like
 as being endowed with attributes like being eternal.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इद् धर्मधर्मिगळिरण्डुम् स्वयंप्रकाशमायिरुन्दालुम् नित्यत्वादिधर्मविशेषविशिष्टरूपङ्गळाले ज्ञानान्तरवेद्यङ्गळुमाम्
@@ -226,7 +218,7 @@ as being endowed with attributes like being eternal.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्न्-उडैय धर्म-भूत-ज्ञानम्  
+तऩ्ऩ्-उडैय धर्म-भूत-ज्ञानम्  
 तनक्कु +++(शास्त्रादि-)+++ज्ञानान्तर-वेद्यम् आम् पोदु  
 +++(स्व-विषयत्व-रूप-)+++प्रसरण-भेद-मात्रत्ताल् ए "ज्ञानान्तर"-व्यपदेशम्  
 +++(किञ्च वस्तुतस् स्वयं धर्मभूतज्ञानाङ्गम् एव)+++.
@@ -256,10 +248,8 @@ but when the dharmabhūta jñāna itself becomes the object of knowledge,
 it is revealed to the self by a part of it.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-तन्नुडैय धर्मभूतज्ञानम् तनक्कु ज्ञानान्तरवेद्यमाम्-पोदु प्रसरण-भेदमात्रत्ताले ज्ञानान्तरव्यपदेशम्.
+तऩ्ऩुडैय धर्मभूतज्ञानम् तनक्कु ज्ञानान्तरवेद्यमाम्-पोदु प्रसरण-भेदमात्रत्ताले ज्ञानान्तरव्यपदेशम्.
 </details>
-
 

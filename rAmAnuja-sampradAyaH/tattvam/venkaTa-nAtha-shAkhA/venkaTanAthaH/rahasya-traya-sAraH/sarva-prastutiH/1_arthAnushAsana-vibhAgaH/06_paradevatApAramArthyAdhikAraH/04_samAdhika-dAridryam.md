@@ -16,7 +16,7 @@ BHAGAVĀN HAS NEITHER EQUALS NOR SUPERIORS :
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि सर्व-प्रकारत्ताल् उम्  
-नारायणन् समाधिक-दरिद्रन् ऎन्नुम् इडत्तै
+नारायणऩ् समाधिक-दरिद्रऩ् ऎऩ्ऩुम् इडत्तै
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -36,12 +36,10 @@ Thus Nārāyaṇa  is destitute, in every way, of equals and superiors.
 This may be seen from the following śloka s :- 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इप्पडि सर्वप्रकारत्तालुम् नारायणन् समाधिकदरिद्रनॆन्नुमिडत्तै
+इप्पडि सर्वप्रकारत्तालुम् नारायणऩ् समाधिकदरिद्रनॆऩ्ऩुमिडत्तै
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,7 +75,6 @@ This may be seen from the following śloka s :-
 
 “न परं पुण्डरीकाक्षाद्दृश्यते पुरुषर्षभ ।"(भारतम् - भीष्मपर्व 67-2.)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -116,12 +113,10 @@ There is no[^f201] god superior to Viṣṇu , O best of kings;"
 ‘‘परं हि पुण्डरीकाक्षान्न भूतं न भविष्यति’’ ऎऩ्ऱु पुण्डरीकाक्षनुक्कु भूतभविष्यत्कालाधिकनिषेधम् सॊल्लप्पडुगिऱदु.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "परं हि पुण्डरीकाक्षान्न भूतं न भविष्यति । न विष्णोः परमो देवो विद्यते नृपसत्तम” 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -141,7 +136,6 @@ There is no[^f201] god superior to Viṣṇu , O best of kings;"
 > (भारतम् - भीष्मपर्व 67-17.) 
 
 </details>
-
 
 <details><summary>सारबोधिनी</summary>
 
@@ -164,12 +158,10 @@ There is no greater divinity than Vāsudeva.
 No one who adores Vāsudeva ever perishes." 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "न वासुदेवात्परमस्ति मङ्गळं न वासुदेवात्परमस्ति पावनम् । न वासुदेवात्परमस्ति दैवतं न वासुदेवं प्रणिपत्य सीदति” ॥ (भारतम् - भीष्मपर्व 67-17.) 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -196,14 +188,12 @@ and there will be no one like Him born in the future."
 there was no one like Him ever born  
 and there will be no one like Him born in the future." 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 “त्रैलोक्ये तादृशः कश्चिन्न जातो न जनिष्यते” 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “न दैवं केशवात्परम्” (नारदीय पुराणम् 18-33.)
@@ -224,12 +214,10 @@ and there will be no one like Him born in the future."
 " There[^f204] is no divinity higher than Keśava." 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “न दैवं केशवात्परम्” (नारदीय पुराणम् 18-33.)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -269,16 +257,14 @@ He is the Father, the Creator."
 ब्रह्ममयो महान् – ब्रह्ममयः – परब्रह्मभूतः । स्वार्थे मयट् ।
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “राजाधिराजस्सर्वेषां विष्णुर्ब्रह्ममयो महान् । ईश्वरं तं विजानीमस्स पिता स प्रजापतिः” (भारतम् आच्वमे. 43-13.)  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्यादिगळाले पलप्पडियुञ्चॊन्नार्गळ्.
+इत्यादिगळाले पलप्पडियुञ्चॊऩ्ऩार्गळ्.
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -292,8 +278,8 @@ He is the Father, the Creator."
 कालत्रयत्तिलुमवनुक्कधिकरिल्लै यॆऩ्ऱुम्, देवर्गळिले ऒरुवनुमवनुक्कु अधिकरिल्लै यॆऩ्ऱुम्, अवनुक्कुमेल् मङ्गळमुम् पावनमुमिल्लैयॆऩ्ऱुम्, कालत्रयत्तिलुमवनुक्कु समनिल्लैयॆऩ्ऱुम्, राजाधिराजत्वेन निस्समाभ्यधिकनॆऩ्ऱुम् इप्पडिये पलबडिगळिलुम् सॊन्नार्गळॆऩ्ऱबडि.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इत्यादिगळाले पलप्पडियुञ्चॊन्नार्गळ्.
+इत्यादिगळाले पलप्पडियुञ्चॊऩ्ऩार्गळ्.
 </details>
+

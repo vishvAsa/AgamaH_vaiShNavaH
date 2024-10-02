@@ -24,16 +24,16 @@ the former have attained their essential nature in a manifest condition
 by the removal of obstacles. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मुक्तरुक्कु नीक्कियुळ्ळारिल् भेदम् प्रतिबन्धकनिवृत्तियाले आविर्भूतस्वरूपमायिरुक्कै.
 </details>
 
+
 ## स्थिति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्थिति-भेदम् पूर्वावधिय् उण्डान आविर्-भावत्तुक्कु उत्तरावधिय्-अऩ्ऱिक्क् एय् इरुक्कै.
+स्थिति-भेदम् पूर्वावधिय् उण्डाऩ आविर्-भावत्तुक्कु उत्तरावधिय्-अऩ्ऱिक्क् एय् इरुक्कै.
 </details>
 
 <details><summary>English</summary>
@@ -52,16 +52,15 @@ which has become manifest,
 will continue to be so without any end. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-स्थितिभेदम् पूर्वावधि युण्डान आविर्भावत्तुक्कु उत्तरावधियऩ्ऱिक्केयिरुक्कै.
+स्थितिभेदम् पूर्वावधि युण्डाऩ आविर्भावत्तुक्कु उत्तरावधियऩ्ऱिक्केयिरुक्कै.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवर्गळुक्कु अन्योऽन्यं स्थिति-भेदम्  
-आविर्-भावत्तिल् मुऱ्‌-पाडु--पिऱ्‌-पाडुगळाल् उण्डान  
+आविर्-भावत्तिल् मुऱ्‌-पाडु--पिऱ्‌-पाडुगळाल् उण्डाऩ  
 मुन्ब्-उऱ्ऱव्+++(=प्राप्त)+++ एऱ्ऱच्+++(=वृद्धिः)+++ चुरुक्कम्+++(=सङ्कोचः)+++.  
 </details>
 
@@ -77,11 +76,11 @@ Among souls that have attained mukti or release,
 the mutual difference is their having attained the manifestation of their essential nature earlier or later.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इवर्गळुक्कु अन्योन्यं स्थितिभेदम् आविर्भावत्तिल् मुऱ्‌पाडु पिऱ्‌पाडुगळालुण्डान मुन्बुऱ्ऱ वेऱ्ऱच् चुरुक्कम्.  
+इवर्गळुक्कु अन्योन्यं स्थितिभेदम् आविर्भावत्तिल् मुऱ्‌पाडु पिऱ्‌पाडुगळालुण्डाऩ मुन्बुऱ्ऱ वेऱ्ऱच् चुरुक्कम्.  
 </details>
+
 
 ## प्रवृत्ति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -107,9 +106,8 @@ which has resulted from the perfect enjoyment of Bhagavān
 gained after the loss of it from time immemorial.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-प्रवृत्तिभेदम् अनादिकालमिऴन्दु पॆऱ्ऱ परिपूर्णभगवदनुभवजनितप्रीतिकारितमान यथाभिमतकैङ्कर्यतद्विशेषङ्गळ्.  
+प्रवृत्तिभेदम् अनादिकालमिऴन्दु पॆऱ्ऱ परिपूर्णभगवदनुभवजनितप्रीतिकारितमाऩ यथाभिमतकैङ्कर्यतद्विशेषङ्गळ्.  
 </details>
 

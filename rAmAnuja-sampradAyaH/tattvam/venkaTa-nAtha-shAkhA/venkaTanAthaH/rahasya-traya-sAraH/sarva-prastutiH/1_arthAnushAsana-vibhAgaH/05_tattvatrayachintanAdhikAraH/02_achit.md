@@ -19,6 +19,7 @@ son de tres tipos
 </details>
 
 
+
 ## प्रकृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,11 +54,11 @@ Tiene tres cualidades Sattvam, Rajas y Tamas
 y es el campo de acción (karma) para el jīva ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवऱ्ऱिल् वैत्तुक्कॊण्डु “अचेतना परार्था च नित्या सततविक्रिया । त्रिगुणा कर्मिणां क्षेत्रं प्रकृते रूपमुच्यते ॥” (परमसंहिता.) 
 </details>
+
 
 ## कालः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -79,11 +80,11 @@ La naturaleza de (2) kala o tiempo se describe así:-
 > "Bhagavān [^f135] kala (es decir) el tiempo, que es el cuerpo de bhagavān, no tiene comienzo ni fin".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “अनादिर्भगवान् कालो नान्तोऽस्य द्विज विद्यते” (वि-पु. 1-2-26),
 </details>
+
 
 
 ## शुद्ध-सत्त्वम्
@@ -105,7 +106,6 @@ La naturaleza de (2) kala o tiempo se describe así:-
 que respectivamente 1-3/8 minutos y 1/30 de un día (y es la causa de las modificaciones de la materia).  
 Pero no causa cambios o modificación en el mundo trascendental (aprākritaloka) más allá de la materia ".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -131,7 +131,6 @@ El mundo [^f137] hecho de él
 es de la naturaleza de jñāna y dicha.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “ज्ञानानन्दमया लोकाः” (पाञ्चरात्रम्),
@@ -154,7 +153,6 @@ Dios controla el tiempo allí;
 El tiempo no es la causa [^f138] de cualquier cambio o modificación en el mundo de Śuddha-Sattvam  
 (como lo es en el mundo de la materia).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -179,11 +177,11 @@ la naturaleza de Prakṛti, Kāla y Śuddha Sattva
 que pertenecen a tres clases de cosas no sensibles (Achetana).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इत्यादिगळिले त्रिगुणकालशुद्धसत्त्वरूपङ्गळान त्रिविधाचेतनङ्गळुडैय स्वभावञ् चॊल्लिऱ्ऱु.
+इत्यादिगळिले त्रिगुणकालशुद्धसत्त्वरूपङ्गळाऩ त्रिविधाचेतनङ्गळुडैय स्वभावञ् चॊल्लिऱ्ऱु.
 </details>
+
 
 
 

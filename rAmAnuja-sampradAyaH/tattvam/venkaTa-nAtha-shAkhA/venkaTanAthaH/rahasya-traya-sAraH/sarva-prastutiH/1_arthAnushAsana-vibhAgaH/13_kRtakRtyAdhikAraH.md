@@ -43,13 +43,13 @@ Since one of the qualifications for the performance of prapatti, is sorrow or gr
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वान्गरुत्तोर्  
+मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वाऩ्गरुत्तोर्  
 अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वान्गरुत्तोर्  
+मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वाऩ्गरुत्तोर्  
 अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
 </details>
 
@@ -58,7 +58,9 @@ Since one of the qualifications for the performance of prapatti, is sorrow or gr
 
 Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken into His protection after endeavouring for a long time to find out what boon He should confer on those who loved Him. They are like kings and gods (to us), for they have, ever in their minds, the abode of the Lord of the eternal suris and they are like Paramahamsas, because they have completed all rites that have to be performed, (or like swans in their purity or in their capacity to separate the essential from the non-essential).
 
-140 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+140 
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 भगवति हरौ पारं गन्तुं भरन्यसनं कृतं  
 परिमितसुखप्राप्त्यै कृत्यं प्रहीणमकृत्यवत् ।  

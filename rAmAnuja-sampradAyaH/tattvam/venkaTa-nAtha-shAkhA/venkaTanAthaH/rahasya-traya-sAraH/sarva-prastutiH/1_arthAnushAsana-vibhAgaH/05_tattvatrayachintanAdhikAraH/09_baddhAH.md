@@ -27,7 +27,6 @@ Las inclinaciones debido a ellos (Ruchi o gusto por el disfrute mundano)
 y asociación con prakṛti o materia.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 बद्धचेतनरुक्कु नीक्कियुळ्ळारिल् भेदम् अविद्याकर्मवासनारुचिप्रकृति-संबन्धयुक्तरायिरुक्कै. 
@@ -38,7 +37,6 @@ y asociación con prakṛti o materia.
 इवर्गळुक्कु अन्योऽन्यं वरुम् ज्ञान-सुखादि-भेदत्तै  
 ब्रह्मादि-स्तम्ब-पर्यन्तङ्गळ् आऩ वगुप्पुक्कळिल्+++(=विभागेभ्यः)+++ ए कण्डु-गॊळ्वदु.  
 </details>
-
 
 <details><summary>English</summary>
 
@@ -58,14 +56,15 @@ desde Brahma hasta una cuchilla de hierba.
 
 <details><summary>मूलम्</summary>
 
-इवर्गळुक्कु अन्योन्यम् वरुम् ज्ञानसुखादिभेदत्तै ब्रह्मादिस्तंबपर्यन्तङ्गळान वगुप्पुक्कळिले कण्डुगॊळ्वदु.  
+इवर्गळुक्कु अन्योन्यम् वरुम् ज्ञानसुखादिभेदत्तै ब्रह्मादिस्तंबपर्यन्तङ्गळाऩ वगुप्पुक्कळिले कण्डुगॊळ्वदु.  
 </details>
+
 
 ## आधारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इब्-बद्ध-चेतनर् तन्-दामुक्कु कर्मानुरूपम् आग  
-ईश्वरन्-अडैत्त शरीरङ्गळै  
+इब्-बद्ध-चेतनर् तऩ्-दामुक्कु कर्मानुरूपम् आग  
+ईश्वरऩ्-अडैत्त शरीरङ्गळै  
 धर्मि-स्वरूपत्ताल् उम्  
 धर्म-भूत-ज्ञानत्ताल् उम् धरिया-निऱ्‌पर्गळ् +++(वक्ष्यमाण-रीत्या)+++.
 </details>
@@ -86,7 +85,6 @@ Ambos por su naturaleza esencial (svarūpa) como jñāna
 y por su conocimiento atributivo (dharma bhūta jñāna).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इब्बद्धचेतनर् तन्दामुक्कु कर्मानुरूपमाग ईश्वरनडैत्त शरीरङ्गळै धर्मिस्वरूपत्तालुम् धर्मभूतज्ञानत्तालुम् धरियानिऱ्‌पर्गळ्.
@@ -95,7 +93,7 @@ y por su conocimiento atributivo (dharma bhūta jñāna).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मियाल् वरुगिऱ धारणम्  
-शरीरत्तिन्-उडैय सत्तैक्कुप् प्रयोजकम् आय् इरुक्कुम्.  
+शरीरत्तिऩ्-उडैय सत्तैक्कुप् प्रयोजकम् आय् इरुक्कुम्.  
 +++(तद् इदं सुषुप्तौ, मूर्च्छायां च व्यक्तम्। )+++
 </details>
 
@@ -111,7 +109,6 @@ El apoyo dado al cuerpo por la naturaleza esencial (svarūpa)
 Sirve para hacer que exista.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 धर्मियाल् वरुगिऱ धारणम् शरीरत्तिनुडैय सत्तैक्कुप् प्रयोजकमायिरुक्कुम्.
@@ -122,7 +119,7 @@ Sirve para hacer que exista.
 जाग्रद्-आद्य्-अवस्थैयिल्  
 धर्म-भूत-ज्ञानत्ताल् ए वरुगिऱ शरीर-धारणम्  
 +++(नाना-विध-)+++पुरुषार्थ--तद्-उपायानुष्ठानङ्गळुक्क् उम् -  
-+++(यथा)+++ कृतोपायन् आऩ परमैकान्तिक्कु  
++++(यथा)+++ कृतोपायऩ् आऩ परमैकान्तिक्कु  
 भगवद्-अनुभव-कैङ्कर्यङ्गळुक्क् उम् -  
 उपयुक्तम् आय् इरुक्कुम्. +++(5)+++
 </details>
@@ -156,12 +153,10 @@ hace que el cuerpo sea útil para el disfrute de Bhagavān
 y por prestarle servicio a él.+++(5)+++
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-जाग्रदाद्यवस्थैयिल् धर्मभूतज्ञानत्ताले वरुगिऱ शरीरधारणम् पुरुषार्थतदुपायानुष्ठानङ्गळुक्कुम् कृतोपायनान परमैकान्तिक्कु भगवदनुभवकैङ्कर्यङ्गळुक्कुम् उपयुक्तमायिरुक्कुम्. 
+जाग्रदाद्यवस्थैयिल् धर्मभूतज्ञानत्ताले वरुगिऱ शरीरधारणम् पुरुषार्थतदुपायानुष्ठानङ्गळुक्कुम् कृतोपायनाऩ परमैकान्तिक्कु भगवदनुभवकैङ्कर्यङ्गळुक्कुम् उपयुक्तमायिरुक्कुम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -182,17 +177,17 @@ Este apoyo brindado al cuerpo
 es productivo de experiencias adversas.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पापकृत्तुक्कळुक्कु पापकृत्तुक्कळुक्कु इच्शरीरधारणम् विपरीतफलत्तुक्कु हेतुवायिरुक्कुम्.  
 </details>
 
+
 ## विघटनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इज्जीवर्गळ् इच्शरीरत्तै विट्टाल्  
-इदिन् +++(अवयव-)+++सङ्घातङ् कुलैयुम्+++(=नश्यति)+++ इत्तनै.  
+इदिऩ् +++(अवयव-)+++सङ्घातङ् कुलैयुम्+++(=नश्यति)+++ इत्तनै.  
 </details>
 
 <details><summary>English</summary>
@@ -207,12 +202,10 @@ Cuando el Jīva deja el cuerpo,
 Este último sufre desintegración.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इज्जीवर्गळ् इच्शरीरत्तै विट्टालिदिन् सङ्घातङ्गुलैयुमित्तनै.  
+इज्जीवर्गळ् इच्शरीरत्तै विट्टालिदिऩ् सङ्घातङ्गुलैयुमित्तनै.  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -235,17 +228,17 @@ en el que se desintegra
 Sigue siendo el cuerpo de Iśvara.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-शरीरत्तुक्कु उपादानमान द्रव्यङ्गळ् ईश्वरशरीरमाय्क्कॊण्डु किडक्कुम्.
+शरीरत्तुक्कु उपादानमाऩ द्रव्यङ्गळ् ईश्वरशरीरमाय्क्कॊण्डु किडक्कुम्.
 </details>
+
 
 ## स्थिति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्ध-चेतनरुक्कु इतररिऱ्‌ काट्टिल् स्थिति-भेदं  
-संसार-बन्धम् यावन्-मोक्षम् अनुवर्तिक्कै.
+संसार-बन्धम् यावऩ्-मोक्षम् अनुवर्तिक्कै.
 </details>
 
 <details><summary>English</summary>
@@ -264,11 +257,11 @@ as distinguished from others,
 is continuous association with the body until mukti. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 बद्धचेतनरुक्कु इतररिऱ्‌ काट्टिल् स्थितिभेदं संसारबन्धम् यावन्मोक्षमनुवर्तिक्कै.
 </details>
+
 
 ## प्रवृत्ति-भेदः
 
@@ -291,10 +284,8 @@ these jīvas in bondage have three kinds:
 puṇya, papa and that which is neither of these two.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-प्रवृत्तिभेदम् पुण्यपापानुभयरूपङ्गळान त्रिविधप्रवृत्तिगळुम्.
+प्रवृत्तिभेदम् पुण्यपापानुभयरूपङ्गळाऩ त्रिविधप्रवृत्तिगळुम्.
 </details>
-
 

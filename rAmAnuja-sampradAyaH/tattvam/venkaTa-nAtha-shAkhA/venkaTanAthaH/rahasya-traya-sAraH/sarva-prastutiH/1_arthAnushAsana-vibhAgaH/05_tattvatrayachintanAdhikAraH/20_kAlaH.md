@@ -34,7 +34,6 @@ non-sentient or non luminous and all-pervasive (vibhu).
 Time or Kāla is, in its essential nature, non-sentient or non luminous and all-pervasive (vibhu). 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कालत्तुक्कु स्वरूपभेदम् जडमाय् विभुवायिरुक्कै. 
@@ -43,7 +42,7 @@ Time or Kāla is, in its essential nature, non-sentient or non luminous and all-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 
-इदिन् **स्थिति** कालावच्छेदम् इल्लामैयाल् ए  
+इदिऩ् **स्थिति** कालावच्छेदम् इल्लामैयाल् ए  
 नित्यैय् आय् इरुक्कुम्.
 </details>
 
@@ -63,12 +62,10 @@ It is eternal because its continued existence ( sthiti) is not limited by time.
 It is eternal because its continued existence ( sthiti) is not limited by time. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इदिन् स्थिति कालावच्छेदमिल्लामैयाले नित्यैयायिरुक्कुम्.
+इदिऩ् स्थिति कालावच्छेदमिल्लामैयाले नित्यैयायिरुक्कुम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -95,8 +92,8 @@ Its activity consists in its being accessory to creation and the like
 by such divisions as kală (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रवृत्तिभेदम् कलाकाष्ठादिविभागत्ताले सृष्ट्यादिगळुक्कु उपकरणमायिरुक्किऱप्पडियिले कण्डुगॊळ्वदु. 
 </details>
+
