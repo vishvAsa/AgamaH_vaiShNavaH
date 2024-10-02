@@ -87,7 +87,7 @@ the mutual difference is their having attained the manifestation of their essent
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रवृत्ति-भेदम् अनादि-कालम् इऴन्दु+++(=लुप्त्वा)+++ पॆऱ्ऱ  
-परिपूर्ण-भगवद्-अनुभव-जनित--प्रीति-कारितम् आन  
+परिपूर्ण-भगवद्-अनुभव-जनित--प्रीति-कारितम् आऩ  
 यथाऽभिमत-कैङ्कर्य--तद्-विशेषङ्गळ्.  
 </details>
 

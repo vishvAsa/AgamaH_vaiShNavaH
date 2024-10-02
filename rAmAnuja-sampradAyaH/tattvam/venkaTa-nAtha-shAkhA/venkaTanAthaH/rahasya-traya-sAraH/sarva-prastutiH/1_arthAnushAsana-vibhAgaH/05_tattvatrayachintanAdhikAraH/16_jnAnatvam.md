@@ -173,7 +173,7 @@ for in it, the self receives the benefit of its own disclosure or revelation.
 
 इव् +++(प्रत्यक्त्वाख्य-)+++विशेषम् इल्लाद वस्तुवुक्कु  
 इस्-सामान्यम् +++(→प्रकाश-फलित्वम्)+++ उम्  
-इत्तोडु व्याप्तम् आन चेतनत्वम् उम् इल्लै.
+इत्तोडु व्याप्तम् आऩ चेतनत्वम् उम् इल्लै.
 </details>
 
 <details><summary>English</summary>

@@ -196,7 +196,7 @@ In the Rahasyaśāstras, what should be known is stated to be seven.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव्व्-ओ ज्ञानानुष्ठान-प्रतिष्ठा-रूपङ्गळ् आन प्रयोजन-विशेषङ्गळ् कण्डु कॊळ्वदु.  
+अव्व्-ओ ज्ञानानुष्ठान-प्रतिष्ठा-रूपङ्गळ् आऩ प्रयोजन-विशेषङ्गळ् कण्डु कॊळ्वदु.  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -279,7 +279,7 @@ This does not mean that one should make no attempt to learn the śāstras.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎन्गिऱदु उपयुक्ततमम् आन सारांशत्तैक् कडुग+++(=त्वरया)+++ श्रवणम् बण्णि, 
+ऎन्गिऱदु उपयुक्ततमम् आऩ सारांशत्तैक् कडुग+++(=त्वरया)+++ श्रवणम् बण्णि, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>

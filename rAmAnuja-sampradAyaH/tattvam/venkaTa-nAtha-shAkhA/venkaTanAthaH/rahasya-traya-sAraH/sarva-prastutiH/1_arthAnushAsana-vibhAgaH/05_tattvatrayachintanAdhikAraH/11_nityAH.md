@@ -36,7 +36,7 @@ and also their absolute dependence (on the Lord)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवर्गळुक्कु नीक्किय्-उळ्ळारिऱ्-काट्टिल्  
-स्थिति-भेदम् अनाद्य्-अनुवृत्तम् आन शेषि-तत्त्वानुभवम्.
+स्थिति-भेदम् अनाद्य्-अनुवृत्तम् आऩ शेषि-तत्त्वानुभवम्.
 </details>
 
 <details><summary>English</summary>
@@ -91,7 +91,7 @@ between their respective states of continuous existence in time.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवर्गळुक्कुप् प्रवृत्ति-भेदम्  
-अनादि-प्रवाह-नित्यङ्गळ् आन कैङ्कर्य-विशेषङ्गळ्.
+अनादि-प्रवाह-नित्यङ्गळ् आऩ कैङ्कर्य-विशेषङ्गळ्.
 </details>
 
 <details><summary>English</summary>

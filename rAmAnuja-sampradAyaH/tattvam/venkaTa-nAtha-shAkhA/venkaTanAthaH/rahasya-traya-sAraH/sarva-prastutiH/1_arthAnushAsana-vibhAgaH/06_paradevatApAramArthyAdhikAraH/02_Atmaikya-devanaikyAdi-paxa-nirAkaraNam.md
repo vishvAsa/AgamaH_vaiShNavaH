@@ -65,7 +65,7 @@ since sentient and non-sentient things are known by the pramāṇas to be entire
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्व-भाव-सिद्धम् आन जीवेश्वर-भेदम् उम्   
+स्व-भाव-सिद्धम् आऩ जीवेश्वर-भेदम् उम्   
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -102,7 +102,7 @@ the essential differences between the jīva and Iśvara cannot be ignored
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्-पडिय् ए देवादि-रूपर् आन जीवर्गळ्-उडैय अन्योन्य-भेदम् उम्  
+अप्-पडिय् ए देवादि-रूपर् आऩ जीवर्गळ्-उडैय अन्योन्य-भेदम् उम्  
 सुख-दुःखादि-व्यवस्थैयाल् ए प्रामाणिकम् आगैयाल्
 </details>
 

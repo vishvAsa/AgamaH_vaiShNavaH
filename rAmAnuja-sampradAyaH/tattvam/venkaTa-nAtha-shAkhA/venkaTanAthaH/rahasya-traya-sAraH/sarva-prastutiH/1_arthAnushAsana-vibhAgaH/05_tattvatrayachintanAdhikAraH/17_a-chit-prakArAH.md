@@ -177,7 +177,7 @@ matter (Prakṛti) and time (Kala) are jaḍa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुद्ध-सत्त्वम् आन द्रव्यत्तैय् उम्  
+शुद्ध-सत्त्वम् आऩ द्रव्यत्तैय् उम्  
 जडम् ऎऩ्ऱु सिलर् सॊल्लुवर्गळ्.  
 </details>
 
@@ -887,7 +887,7 @@ and cannot hold good in a matter where the authority of the śāstra  must be ac
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि स्वयं-प्रकाशम् आन शुद्ध-सत्त्व-द्रव्यत्तै  
+इप्-पडि स्वयं-प्रकाशम् आऩ शुद्ध-सत्त्व-द्रव्यत्तै  
 ज्ञातृत्वम् इल्लामैयाल् ए  
 त्रि-विधाचेतनङ्गळ् ऎऩ्ऱु सेरक्क् ओत्तदु+++(=पाठनम्)+++.
 </details>
@@ -922,7 +922,7 @@ because it has not the quality of sentience or being the knower.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् अचेतनङ्गळ् मूऩ्ऱुक्क् उम् प्रवृत्तिय् आवदु  
-ईश्वर-सङ्कल्पानुरूपङ्गळ् आन  
+ईश्वर-सङ्कल्पानुरूपङ्गळ् आऩ  
 विचित्र-परिणामादिगळ्.
 </details>
 
