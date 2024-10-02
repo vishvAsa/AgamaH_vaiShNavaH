@@ -373,18 +373,18 @@ Similarly answers to other misconceptions that might arise in regard to sūdhyop
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-वरिक्किण्ड्रनन् परन् यावरैयॆन्नु मऱैयदनिल्  
-विरिक्किण्ड्रदुङ्गुऱियॊण्ड्राल् विनैयरैयादलिनाम्  
-उरैक्किण्ड्र नन्नॆऱियोरुम्बडिगळिलोर्न्दुलगम्  
-तरिक्किण्ड्र तारगनार् तगवाऱ्‌ ऱरिक्किण्ड्रनमे. ( 35 )
+वरिक्किऩ्ऱनन् परन् यावरैयॆन्नु मऱैयदनिल्  
+विरिक्किऩ्ऱदुङ्गुऱियॊऩ्ऱाल् विनैयरैयादलिनाम्  
+उरैक्किऩ्ऱ नन्नॆऱियोरुम्बडिगळिलोर्न्दुलगम्  
+तरिक्किऩ्ऱ तारगनार् तगवाऱ्‌ ऱरिक्किऩ्ऱनमे. ( 35 )
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-वरिक्किण्ड्रनन् परन् यावरैयॆन्नु मऱैयदनिल्  
-विरिक्किण्ड्रदुङ्गुऱियॊण्ड्राल् विनैयरैयादलिनाम्  
-उरैक्किण्ड्र नन्नॆऱियोरुम्बडिगळिलोर्न्दुलगम्  
-तरिक्किण्ड्र तारगनार् तगवाऱ्‌ ऱरिक्किण्ड्रनमे. ( 35 )
+वरिक्किऩ्ऱनन् परन् यावरैयॆन्नु मऱैयदनिल्  
+विरिक्किऩ्ऱदुङ्गुऱियॊऩ्ऱाल् विनैयरैयादलिनाम्  
+उरैक्किऩ्ऱ नन्नॆऱियोरुम्बडिगळिलोर्न्दुलगम्  
+तरिक्किऩ्ऱ तारगनार् तगवाऱ्‌ ऱरिक्किऩ्ऱनमे. ( 35 )
 </details>
 
 The Śruti states at length that the Supreme Being chooses those who should win His grace; but this choice (of the jīva bound by karma for the bestowal of His grace) is based on some consideration. Therefore we obtain redemption by the mercy of the Lord who, as antaryāmī, supports the world and, as Saviour, helps us cross the sea of saṁsāra and by understanding clearly the good paths for winning His grace (bhakti and prapatti) as described in the śāstras.

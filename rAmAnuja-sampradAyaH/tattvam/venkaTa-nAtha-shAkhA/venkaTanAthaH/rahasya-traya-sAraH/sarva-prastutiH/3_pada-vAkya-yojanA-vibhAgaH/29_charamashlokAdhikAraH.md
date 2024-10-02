@@ -42,21 +42,21 @@ THE CHAPTER ON THE CARAMA ŚLOKA.  page524
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 ऒण्डॊडियाळ् तिरुमगळुन्दानुमागि यॊरुनिनैवा  
-लीण्ड्र वुयिरॆल्लामुय्य  
+लीऩ्ऱ वुयिरॆल्लामुय्य  
 वण्डुवरै नगर् वाऴ वसुदेवऱ्‌काय् मन्न वर्क्कुत्तेर्प्पागनागि  
-निण्ड्र तण्डुळवमलर्मार्बन् ऱाने सॊन्नतनित्तरुम न्दानॆमक्काय्त् तन्नै  
-यॆण्ड्रुङ् गण्डु कळित्तडि सूड विलक्काय्  
-निण्ड्र कण्बुदैयल् विळैयाट्टैक् कऴिक्किण्ड्राने. ॥ 41 ॥
+निऩ्ऱ तण्डुळवमलर्मार्बन् ऱाने सॊन्नतनित्तरुम न्दानॆमक्काय्त् तन्नै  
+यॆऩ्ऱुङ् गण्डु कळित्तडि सूड विलक्काय्  
+निऩ्ऱ कण्बुदैयल् विळैयाट्टैक् कऴिक्किऩ्ऱाने. ॥ 41 ॥
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
 ऒण्डॊडियाळ् तिरुमगळुन्दानुमागि यॊरुनिनैवा  
-लीण्ड्र वुयिरॆल्लामुय्य  
+लीऩ्ऱ वुयिरॆल्लामुय्य  
 वण्डुवरै नगर् वाऴ वसुदेवऱ्‌काय् मन्न वर्क्कुत्तेर्प्पागनागि  
-निण्ड्र तण्डुळवमलर्मार्बन् ऱाने सॊन्नतनित्तरुम न्दानॆमक्काय्त् तन्नै  
-यॆण्ड्रुङ् गण्डु कळित्तडि सूड विलक्काय्  
-निण्ड्र कण्बुदैयल् विळैयाट्टैक् कऴिक्किण्ड्राने. ॥ 41 ॥
+निऩ्ऱ तण्डुळवमलर्मार्बन् ऱाने सॊन्नतनित्तरुम न्दानॆमक्काय्त् तन्नै  
+यॆऩ्ऱुङ् गण्डु कळित्तडि सूड विलक्काय्  
+निऩ्ऱ कण्बुदैयल् विळैयाट्टैक् कऴिक्किऩ्ऱाने. ॥ 41 ॥
 </details>
 
 In order to afford salvation to all the beings created with one mind by Himself and Lakṣmī of shining bracelets, He became the son of Vāsudeva so that the beautiful city of Dwaraka might prosper. He was then pleased to be the charioteer of the princes (the Pandavas) and He has become for us the unique dharma (Siddhopāya ) which He, with Tulasi flowers adorning His chest, has Himself declared to us and puts a stop to the game of blind-man's buff which stood in the way of our seeing, enjoying and bearing His feet (in Vaikuṇṭha) on our head.
@@ -492,16 +492,16 @@ The interpretation (which is given by some) that what is asked to be given up is
 
 मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
 वेण्डादु सरणनॆऱि वेऱोर्गूट्टु वेण्डि लयनत्तिरम्बोल् वॆळ्गि निऱ्‌कुम्  
-नीण्डागुनिऱैमदियोर् नॆऱियिऱ्‌कूडा निण्ड्रनिमै तुणैयाग वॆण्ड्रन् पादम्  
-पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆण्ड्र पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. || 42 ||
+नीण्डागुनिऱैमदियोर् नॆऱियिऱ्‌कूडा निऩ्ऱनिमै तुणैयाग वॆऩ्ऱन् पादम्  
+पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆऩ्ऱ पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. || 42 ||
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
 मूण्डालु मरियदनिन् मुयलवेण्डा मुन्नमदिलासैदनै विडुगै तिण्मै  
 वेण्डादु सरणनॆऱि वेऱोर्गूट्टु वेण्डि लयनत्तिरम्बोल् वॆळ्गि निऱ्‌कुम्  
-नीण्डागुनिऱैमदियोर् नॆऱियिऱ्‌कूडा निण्ड्रनिमै तुणैयाग वॆण्ड्रन् पादम्  
-पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆण्ड्र पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. || 42 ||
+नीण्डागुनिऱैमदियोर् नॆऱियिऱ्‌कूडा निऩ्ऱनिमै तुणैयाग वॆऩ्ऱन् पादम्  
+पूण्डा लुन्बिऴैगळॆल्लाम् पॊऱुप्पेनॆऩ्ऱ पुण्णियनार् पुगऴनैत्तुम् पुगऴुवोमे. || 42 ||
 </details>
 
 "Do not endeavour to do what is beyond your power though you have begun the attempt; at the outset, it is the part of wisdom to give up the desire to do what lies beyond your ability; the path of prapatti does not require any aids ; if you desire other aids for it, it will lose its potency like the Brahma missile ; you are not among those who have the full knowledge required to follow the path of bhakti  or upāsana, which takes a long time to bear fruit; hence if you seek my feet as your refuge reflecting on your being destitute of other upāyas, I will pardon all your sins": Let us extol the great and good qualities of the holy Śrī Kṛṣṇa who spoke these words.
@@ -817,23 +817,23 @@ If this is admitted, the knowledge of the relationship between the jīva and Iś
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 सादनमु नऱ्‌पयनु नाने यावन्  
-सादगनु मॆन्वसमा यॆन्नैप् पट्रुम्  
-सादनमुञ् जरणनॆऱि यण्ड्रुमक्कुच्  
+सादगनु मॆन्वसमा यॆन्नैप् पऱ्ऱुम्  
+सादनमुञ् जरणनॆऱि यऩ्ऱुमक्कुच्  
 चादनङ्गळिन्निलैक्कोरिडैयिनिल्ला  
 वेदनैसेर् वेऱङ्गमिदनिल् वेण्डा वेऱॆल्ला निऱ्‌कुनिलै नाने निऱ्‌पन्  
-तूदनुमा नादनुमा मॆन्नैप् पट्रिच्  
-चोगन्दीरॆन वुरैत्तान् सूऴ्गिण्ड्राने. // 43 //
+तूदनुमा नादनुमा मॆन्नैप् पऱ्ऱिच्  
+चोगन्दीरॆन वुरैत्तान् सूऴ्गिऩ्ऱाने. // 43 //
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
 सादनमु नऱ्‌पयनु नाने यावन्  
-सादगनु मॆन्वसमा यॆन्नैप् पट्रुम्  
-सादनमुञ् जरणनॆऱि यण्ड्रुमक्कुच्  
+सादगनु मॆन्वसमा यॆन्नैप् पऱ्ऱुम्  
+सादनमुञ् जरणनॆऱि यऩ्ऱुमक्कुच्  
 चादनङ्गळिन्निलैक्कोरिडैयिनिल्ला  
 वेदनैसेर् वेऱङ्गमिदनिल् वेण्डा वेऱॆल्ला निऱ्‌कुनिलै नाने निऱ्‌पन्  
-तूदनुमा नादनुमा मॆन्नैप् पट्रिच्  
-चोगन्दीरॆन वुरैत्तान् सूऴ्गिण्ड्राने. // 43 //
+तूदनुमा नादनुमा मॆन्नैप् पऱ्ऱिच्  
+चोगन्दीरॆन वुरैत्तान् सूऴ्गिऩ्ऱाने. // 43 //
 </details>
 
 "I am the means as well as the end to be attained. The aspirant (to.mukti) should become subject to me and seek my protection. The upāya called śaraṇāgati is not the direct means for the attainment. Sadhanas or means like bhakti  yoga and karma  yoga are no aids to prapatti; other troublesome aṅgas are not required for prapatti. I will myself stand in the place of all such means (as are prescribed for attaining the desired fruits). I am the messenger and the master. Seek me as your refuge and be free from all anxiety". So says the Lord and surrounds me on all sides).
@@ -972,11 +972,11 @@ Even by associating with one who has offended against the devotees of Brahman, a
 
 TAMIL VERSE
 
-तन्निनैविल्विलक्किण्ड्रित् तन्नै नण्णार् निनैवनैत्तुन् दान्विळैत्तुम् विलक्कुनादन्  
-ऎन्निनैवै यिप्पवत्ति लिण्ड्रु माट्रि  
-यिणैयडिक्की ऴडैक्कलमॆण्ड्रॆन्नैवैत्तु  
-मुन्निनैवाल् यान् मुयण्ड्र विनैयाल् वन्द मुनिवयर्न्दु मुत्तिदर मुन्ने तोण्ड्रि  
-नन्निनैवानामिसैयुङ्गालमिण्ड्रो नाळैयोवॆण्ड्रु नगै सॆय्गिण्ड्राने. ॥ 44 ॥
+तन्निनैविल्विलक्किऩ्ऱित् तन्नै नण्णार् निनैवनैत्तुन् दान्विळैत्तुम् विलक्कुनादन्  
+ऎन्निनैवै यिप्पवत्ति लिऩ्ऱु माऱ्ऱि  
+यिणैयडिक्की ऴडैक्कलमॆऩ्ऱॆन्नैवैत्तु  
+मुन्निनैवाल् यान् मुयऩ्ऱ विनैयाल् वन्द मुनिवयर्न्दु मुत्तिदर मुन्ने तोऩ्ऱि  
+नन्निनैवानामिसैयुङ्गालमिऩ्ऱो नाळैयोवॆऩ्ऱु नगै सॆय्गिऩ्ऱाने. ॥ 44 ॥
 
 The Lord, whose will is irresistible and who creates, in the minds of those who do not care for him, all their desires and who also frustrates them -- the Lord has turned my mind today froni saṁsāra or bondage and has placed me beneath His two feet for protection. He has been pleased to forget His wrath caused by my actions in the past prompted by my mind before the performance of prapatti and has appeared already (as avatars and arcā) to grant me mukti. He smiles gently, wondering whether we shall accept His grace today or tomorrow.
 
@@ -1319,18 +1319,18 @@ This path (prapatti) has been disclosed (to us) byācāryas who resorted to that
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-कुऱिप्पुडन् मेवुन् दरुमङ्गळिण्ड्रि यक्कोवलनार्  
-वॆऱित्तुळवक्कऴल् मॆय्यरणॆण्ड्रु विरैन्दडैन्दु  
-पिरित्त विनैत्तिरळ् पिण्ड्रुडरावगैयप्पॆरियोर्  
-मऱिप्पुडै मन्नरुळ् वासगत्तान् मरुळट्रनमे. ( 45 )
+कुऱिप्पुडन् मेवुन् दरुमङ्गळिऩ्ऱि यक्कोवलनार्  
+वॆऱित्तुळवक्कऴल् मॆय्यरणॆऩ्ऱु विरैन्दडैन्दु  
+पिरित्त विनैत्तिरळ् पिऩ्ऱुडरावगैयप्पॆरियोर्  
+मऱिप्पुडै मन्नरुळ् वासगत्तान् मरुळऱ्ऱनमे. ( 45 )
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-कुऱिप्पुडन् मेवुन् दरुमङ्गळिण्ड्रि यक्कोवलनार्  
-वॆऱित्तुळवक्कऴल् मॆय्यरणॆण्ड्रु विरैन्दडैन्दु  
-पिरित्त विनैत्तिरळ् पिण्ड्रुडरावगैयप्पॆरियोर्  
-मऱिप्पुडै मन्नरुळ् वासगत्तान् मरुळट्रनमे. ( 45 )
+कुऱिप्पुडन् मेवुन् दरुमङ्गळिऩ्ऱि यक्कोवलनार्  
+वॆऱित्तुळवक्कऴल् मॆय्यरणॆऩ्ऱु विरैन्दडैन्दु  
+पिरित्त विनैत्तिरळ् पिऩ्ऱुडरावगैयप्पॆरियोर्  
+मऱिप्पुडै मन्नरुळ् वासगत्तान् मरुळऱ्ऱनमे. ( 45 )
 </details>
 
 Giving up those dharmas which have to be performed with extreme care, we were convinced that the true refuge for us is the feet of that Gopala which are fragrant with tulasi and we resorted to them at once. By the gracious and fascinating words of that Supreme Person, we have become free from ignorance so that the karma  which has been separated from us can never follow us.

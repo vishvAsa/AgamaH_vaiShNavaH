@@ -51,20 +51,20 @@ Thus (both) in the state of endeavour (upāya) and in the state of attainment, t
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-उऱुसगडमुडैय वॊरु कालुट्रुणर्न्दन उडन्मरुदमॊडिय वॊरु पोदिट्रवऴ्न्दन उऱिदडवुमळवि लुरलूडुट्रु निण्ड्रन  
+उऱुसगडमुडैय वॊरु कालुऱ्ऱुणर्न्दन उडन्मरुदमॊडिय वॊरु पोदिऱ्ऱवऴ्न्दन उऱिदडवुमळवि लुरलूडुऱ्ऱु निऩ्ऱन  
 उऱुनॆऱियोर् तरुमन्विडु तूदुक्कुगन्दन मऱनॆऱियर् मुऱियबिरदानत्तुवन्दन  
 मलर्मगळ् कैवरुड मलर्बोदिऱ्‌चिवन्दन मऱुबिऱवियऱुमुनिवर् मालुक्किसैन्दन मनुमुऱैयिल् वरुवदोर् विमानत्तुऱैन्दन  
-अऱमुडैय विसयनमर् तेरिट्रिगऴ्न्दन अडलुरगबड मडियवाडिक् कडिन्दन  
+अऱमुडैय विसयनमर् तेरिऱ्ऱिगऴ्न्दन अडलुरगबड मडियवाडिक् कडिन्दन  
 अऱुसमय मऱिवरिय तानत्तमर्न्दन अणिगुरुगै नगर्मुनिवर् नावुक्कमैन्दन वॆऱियुडैय तुळवमलर् वीऱुक्कणिन्दन विऴुगरियोर् कुमरनॆन मेविच्चिऱन्दन विऱलसुरर् पडैयडैय वीयत्तुडर्न्दन  
 विडलरिय पॆरियबॆरुमाळ् मॆय्प्पदङ्गळे. (49)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-उऱुसगडमुडैय वॊरु कालुट्रुणर्न्दन उडन्मरुदमॊडिय वॊरु पोदिट्रवऴ्न्दन उऱिदडवुमळवि लुरलूडुट्रु निण्ड्रन  
+उऱुसगडमुडैय वॊरु कालुऱ्ऱुणर्न्दन उडन्मरुदमॊडिय वॊरु पोदिऱ्ऱवऴ्न्दन उऱिदडवुमळवि लुरलूडुऱ्ऱु निऩ्ऱन  
 उऱुनॆऱियोर् तरुमन्विडु तूदुक्कुगन्दन मऱनॆऱियर् मुऱियबिरदानत्तुवन्दन  
 मलर्मगळ् कैवरुड मलर्बोदिऱ्‌चिवन्दन मऱुबिऱवियऱुमुनिवर् मालुक्किसैन्दन मनुमुऱैयिल् वरुवदोर् विमानत्तुऱैन्दन  
-अऱमुडैय विसयनमर् तेरिट्रिगऴ्न्दन अडलुरगबड मडियवाडिक् कडिन्दन  
+अऱमुडैय विसयनमर् तेरिऱ्ऱिगऴ्न्दन अडलुरगबड मडियवाडिक् कडिन्दन  
 अऱुसमय मऱिवरिय तानत्तमर्न्दन अणिगुरुगै नगर्मुनिवर् नावुक्कमैन्दन वॆऱियुडैय तुळवमलर् वीऱुक्कणिन्दन विऴुगरियोर् कुमरनॆन मेविच्चिऱन्दन विऱलसुरर् पडैयडैय वीयत्तुडर्न्दन  
 विडलरिय पॆरियबॆरुमाळ् मॆय्प्पदङ्गळे. (49)
 </details>
@@ -101,18 +101,18 @@ When its sprouts which were relished by quails and which are (said to be) the ar
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मुन्बॆट्र ञानमुमोगन्दुऱक्किलुमूण्ड्रुरैयिल्  
-तन्बट्र तन्मैयुन् दाऴ्न्दवर्क्कीयुन् दनित्तगवुम्  
-मन्बट्रि निण्ड्रवगै युरैक्किण्ड्र मऱैयवर्बाल्  
-सिन्बट्रियॆन्बयन् सीरऱिवोर्क्किवै सॆप्पिनमे. (50)
+मुन्बॆऱ्ऱ ञानमुमोगन्दुऱक्किलुमूऩ्ऱुरैयिल्  
+तन्बऱ्ऱ तन्मैयुन् दाऴ्न्दवर्क्कीयुन् दनित्तगवुम्  
+मन्बऱ्ऱि निऩ्ऱवगै युरैक्किऩ्ऱ मऱैयवर्बाल्  
+सिन्बऱ्ऱियॆन्बयन् सीरऱिवोर्क्किवै सॆप्पिनमे. (50)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-मुन्बॆट्र ञानमुमोगन्दुऱक्किलुमूण्ड्रुरैयिल्  
-तन्बट्र तन्मैयुन् दाऴ्न्दवर्क्कीयुन् दनित्तगवुम्  
-मन्बट्रि निण्ड्रवगै युरैक्किण्ड्र मऱैयवर्बाल्  
-सिन्बट्रियॆन्बयन् सीरऱिवोर्क्किवै सॆप्पिनमे. (50)
+मुन्बॆऱ्ऱ ञानमुमोगन्दुऱक्किलुमूऩ्ऱुरैयिल्  
+तन्बऱ्ऱ तन्मैयुन् दाऴ्न्दवर्क्कीयुन् दनित्तगवुम्  
+मन्बऱ्ऱि निऩ्ऱवगै युरैक्किऩ्ऱ मऱैयवर्बाल्  
+सिन्बऱ्ऱियॆन्बयन् सीरऱिवोर्क्किवै सॆप्पिनमे. (50)
 </details>
 
 Of what avail is anger towards those Vedic scholars who teach the knowledge which they have of the truths, and the way of casting off illusions and errors, as also the nature of the self (as the śeṣa of the Lord), the unique compassion of the Lord shown to those who are destitute of upāyas, and the carefree state arising from holding on to the Lord as a refuge as taught in the three mysteries (mantras)? We have spoken (thus far) to those who can appreciate excellence.
@@ -137,14 +137,14 @@ Our youth has been spent in the enjoyment resulting from repetitions of the word
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-सॆप्पच्चॆविक्कमुदॆन्नत्तिगऴुञ्जॆऴुङ्गुणत्तुत् तप्पट्रवर्क्कुत् तामे युगन्दु तरुन्दगवाल्  
-ऒप्पट्र नान् मऱैयुळ्ळक्करुत्तिलुऱैत्तुरैत्त मुप्पत्तिरण्डिवै मुत्तमिऴ्सेर्न्दमॊऴित्तिरुवे. (51)
+सॆप्पच्चॆविक्कमुदॆन्नत्तिगऴुञ्जॆऴुङ्गुणत्तुत् तप्पऱ्ऱवर्क्कुत् तामे युगन्दु तरुन्दगवाल्  
+ऒप्पऱ्ऱ नान् मऱैयुळ्ळक्करुत्तिलुऱैत्तुरैत्त मुप्पत्तिरण्डिवै मुत्तमिऴ्सेर्न्दमॊऴित्तिरुवे. (51)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-सॆप्पच्चॆविक्कमुदॆन्नत्तिगऴुञ्जॆऴुङ्गुणत्तुत् तप्पट्रवर्क्कुत् तामे युगन्दु तरुन्दगवाल्  
-ऒप्पट्र नान् मऱैयुळ्ळक्करुत्तिलुऱैत्तुरैत्त मुप्पत्तिरण्डिवै मुत्तमिऴ्सेर्न्दमॊऴित्तिरुवे. (51)
+सॆप्पच्चॆविक्कमुदॆन्नत्तिगऴुञ्जॆऴुङ्गुणत्तुत् तप्पऱ्ऱवर्क्कुत् तामे युगन्दु तरुन्दगवाल्  
+ऒप्पऱ्ऱ नान् मऱैयुळ्ळक्करुत्तिलुऱैत्तुरैत्त मुप्पत्तिरण्डिवै मुत्तमिऴ्सेर्न्दमॊऴित्तिरुवे. (51)
 </details>
 
 These thirty-two Tamil verses, which, when recited, are like nectar to the ears (that hear them), which explain clearly, the truths that lie deep within the four Vedas the like of which cannot be seen elsewhere and which became possible only owing to the compassion of thoseācāryas who delight, of their own accord, to impart instruction to śiṣyas, when they find in them integrity of character and freedom from faults like envy ---- these thirty-two verses form an ornament to this treatise by virtue of these three qualities viz., their beautiful diction, their wealth of ideas and their fitness for being sung.
@@ -163,41 +163,41 @@ There will be found someone (or other) who has faith in religion, who is keen of
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆण्ड्रोर्वार्  
+मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆऩ्ऱोर्वार्  
 मन्निय कूर्मदियुडैयार् वण्गुणत्तिल्  
 कुऱैयुरैक्क निनैविल्लार् कुरुक्कडम्बाल्  
-कोदट्र मनम्बॆट्रार् कॊळ्वार् नम्मैच्  
+कोदऱ्ऱ मनम्बॆऱ्ऱार् कॊळ्वार् नम्मैच्  
 चिऱैवळर्क्कुञ् जिलमान्दर् सङ्गेदत्ताऱ्‌
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆण्ड्रोर्वार्  
+मऱैयुरैक्कुम् पॊरुळॆल्ला मॆय्यॆऩ्ऱोर्वार्  
 मन्निय कूर्मदियुडैयार् वण्गुणत्तिल्  
 कुऱैयुरैक्क निनैविल्लार् कुरुक्कडम्बाल्  
-कोदट्र मनम्बॆट्रार् कॊळ्वार् नम्मैच्  
+कोदऱ्ऱ मनम्बॆऱ्ऱार् कॊळ्वार् नम्मैच्  
 चिऱैवळर्क्कुञ् जिलमान्दर् सङ्गेदत्ताऱ्‌
 </details>
 
 सिदैयाद तिण्मदियोर् तॆरिन्ददोवार्  
 पॊऱै निलत्तिल् मिगुम् पुनिदर् काट्टुमॆङ्गळ्  
-पॊण्ड्राद नन्नॆऱियिऱ्‌ पुगुदुवारे. (52)
+पॊऩ्ऱाद नन्नॆऱियिऱ्‌ पुगुदुवारे. (52)
 
 Those who have faith in the truths revealed in the Vedas, who have keepness of intellect, who would never think of speaking in depreciation of real merit, whose minds have become pure by the training which they have received from their gurus, who have lofty aims, who, being firm of mind, would never swerve from the right path owing to the fear of perverted judgements and who would never care for what is worthless -- these men will enter the righteous path which will never become obsolete and which has been indicated by our pure-minded ācāryas who had inore forbearance than even the Earth.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-इदुवऴि यिन्नमुदॆण्ड्रवरिन्बुलन् वेऱिडुवार्  
-इदुवऴिया मलवॆण्ड्रऱिवा रॆङ्गडेसिगरे  
-इदुवऴि यॆय्दुग वॆण्ड्रुगप्पा लॆन् पिऴै पॊऱुप्पार्  
+इदुवऴि यिन्नमुदॆऩ्ऱवरिन्बुलन् वेऱिडुवार्  
+इदुवऴिया मलवॆऩ्ऱऱिवा रॆङ्गडेसिगरे  
+इदुवऴि यॆय्दुग वॆऩ्ऱुगप्पा लॆन् पिऴै पॊऱुप्पार्  
 इदुवऴि यामऱैयोररुळाल् यामिसै न्दनमे. (53)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-इदुवऴि यिन्नमुदॆण्ड्रवरिन्बुलन् वेऱिडुवार्  
-इदुवऴिया मलवॆण्ड्रऱिवा रॆङ्गडेसिगरे  
-इदुवऴि यॆय्दुग वॆण्ड्रुगप्पा लॆन् पिऴै पॊऱुप्पार्  
+इदुवऴि यिन्नमुदॆऩ्ऱवरिन्बुलन् वेऱिडुवार्  
+इदुवऴिया मलवॆऩ्ऱऱिवा रॆङ्गडेसिगरे  
+इदुवऴि यॆय्दुग वॆऩ्ऱुगप्पा लॆन् पिऴै पॊऱुप्पार्  
 इदुवऴि यामऱैयोररुळाल् यामिसै न्दनमे. (53)
 </details>
 
@@ -207,16 +207,16 @@ Those who have faith in the truths revealed in the Vedas, who have keepness of i
 
 ऎट्टुमिरण्डु मऱियादवॆम्मै यिवैयऱिवित्  
 तॆट्टवॊण्णाद विडन्दरु मॆङ्गळम्मादवनार्  
-मुट्ट विनैत्तिरण्माळ मुयण्ड्रिडु मञ्जलॆण्ड्रार्  
-कट्टॆऴिल् वासगत्ताऱ्‌ कलङ्गा निलै पॆट्रनमे. (54)
+मुट्ट विनैत्तिरण्माळ मुयऩ्ऱिडु मञ्जलॆऩ्ऱार्  
+कट्टॆऴिल् वासगत्ताऱ्‌ कलङ्गा निलै पॆऱ्ऱनमे. (54)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
 ऎट्टुमिरण्डु मऱियादवॆम्मै यिवैयऱिवित्  
 तॆट्टवॊण्णाद विडन्दरु मॆङ्गळम्मादवनार्  
-मुट्ट विनैत्तिरण्माळ मुयण्ड्रिडु मञ्जलॆण्ड्रार्  
-कट्टॆऴिल् वासगत्ताऱ्‌ कलङ्गा निलै पॆट्रनमे. (54)
+मुट्ट विनैत्तिरण्माळ मुयऩ्ऱिडु मञ्जलॆऩ्ऱार्  
+कट्टॆऴिल् वासगत्ताऱ्‌ कलङ्गा निलै पॆऱ्ऱनमे. (54)
 </details>
 
 I was so ignorant that I did not know even that eight and two make ten[^125] * ; Our Madhava who is eager to bestow on us Paramapada, which is most difficult of access, has taught me (through the ācāryas) the mantra of eight syllables and the other two mantras (Dvaya and Carama śloka). By His brilliant and noble speech saying: "I will see to the absolution of all your sids; Do not be afraid "-By these words I have attained the state of staunch faith,
@@ -227,7 +227,7 @@ I was so ignorant that I did not know even that eight and two make ten[^125] * ;
 
 वानुळमर्न्दवरुक्कु वरुन्दवरुमिन्निलैगळ्  
 तानुळनायुगक्कुन्दर मिङ्गु नमक्कुळदे  
-कूनुळ नॆञ्जुगळाऱ्‌ कुट्रमॆण्णियिगऴ्न्दिडिनुम्  
+कूनुळ नॆञ्जुगळाऱ्‌ कुऱ्ऱमॆण्णियिगऴ्न्दिडिनुम्  
 तेनुळबादमलर्त् तिरुमालुक्कुत् तित्तिक्कुमे. (55)
 </details>
 
@@ -235,7 +235,7 @@ I was so ignorant that I did not know even that eight and two make ten[^125] * ;
 
 वानुळमर्न्दवरुक्कु वरुन्दवरुमिन्निलैगळ्  
 तानुळनायुगक्कुन्दर मिङ्गु नमक्कुळदे  
-कूनुळ नॆञ्जुगळाऱ्‌ कुट्रमॆण्णियिगऴ्न्दिडिनुम्  
+कूनुळ नॆञ्जुगळाऱ्‌ कुऱ्ऱमॆण्णियिगऴ्न्दिडिनुम्  
 तेनुळबादमलर्त् तिरुमालुक्कुत् तित्तिक्कुमे. (55)
 </details>
 

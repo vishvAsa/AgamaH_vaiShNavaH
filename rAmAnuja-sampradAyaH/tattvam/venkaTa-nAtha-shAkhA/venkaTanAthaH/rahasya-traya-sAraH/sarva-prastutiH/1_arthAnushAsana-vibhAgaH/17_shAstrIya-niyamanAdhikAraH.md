@@ -77,18 +77,18 @@ In rites (karmas or services) prescribed for the attainment of certain benefits,
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-निण्ड्रनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
-नण्ड्रिदु तीयदिदॆण्ड्रु नडत्तिय नान्मऱैयाल्  
-इण्ड्रु नमक्किरवादलि लिम्मदि यिन्निलवे  
-अण्ड्रि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
+निऩ्ऱनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
+नऩ्ऱिदु तीयदिदॆऩ्ऱु नडत्तिय नान्मऱैयाल्  
+इऩ्ऱु नमक्किरवादलि लिम्मदि यिन्निलवे  
+अऩ्ऱि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-निण्ड्रनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
-नण्ड्रिदु तीयदिदॆण्ड्रु नडत्तिय नान्मऱैयाल्  
-इण्ड्रु नमक्किरवादलि लिम्मदि यिन्निलवे  
-अण्ड्रि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
+निऩ्ऱनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
+नऩ्ऱिदु तीयदिदॆऩ्ऱु नडत्तिय नान्मऱैयाल्  
+इऩ्ऱु नमक्किरवादलि लिम्मदि यिन्निलवे  
+अऩ्ऱि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
 </details>
 
 By following the four Vedas (and the Smṛtis and other śāstras) in which the Supreme Being who measured the three worlds with His feet has ordained what is right and what is wrong, we have attained the state of service similar to that of the eternal sūris who are full of the love (of God). To us who live in the dark night (of saṁsāra), there is no other light than that of this moon (viz. the śāstras) to dispel the darkness that grows denser and denser at every step.

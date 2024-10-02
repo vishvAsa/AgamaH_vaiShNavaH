@@ -54,7 +54,7 @@ and being self-luminous (i.e.) being luminous without requiring anything else to
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्म-भूत-ज्ञानत्तुक्कु **विषयित्वम्** एट्रम्+++(=अधिकम्)+++.
+धर्म-भूत-ज्ञानत्तुक्कु **विषयित्वम्** एऱ्ऱम्+++(=अधिकम्)+++.
 </details>
 
 
@@ -72,13 +72,13 @@ of revealing or disclosing objects (vishayitva).
 
 <details><summary>मूलम्</summary>
 
-धर्मभूतज्ञानत्तुक्कु विषयित्वमेट्रम्.
+धर्मभूतज्ञानत्तुक्कु विषयित्वमेऱ्ऱम्.
 </details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्मिय् आनव् आत्म--स्व-रूपत्तुक्कु **प्रत्यक्त्वम्** एट्रम्+++(=अधिकम्)+++.
+धर्मिय् आनव् आत्म--स्व-रूपत्तुक्कु **प्रत्यक्त्वम्** एऱ्ऱम्+++(=अधिकम्)+++.
 </details>
 
 <details><summary>English</summary>
@@ -96,5 +96,5 @@ is subjectiveness or inwardness (pratyaktva).
 
 <details><summary>मूलम्</summary>
 
-धर्मियानवात्मस्वरूपत्तुक्कु प्रत्यक्त्वम् एट्रम्.
+धर्मियानवात्मस्वरूपत्तुक्कु प्रत्यक्त्वम् एऱ्ऱम्.
 </details>

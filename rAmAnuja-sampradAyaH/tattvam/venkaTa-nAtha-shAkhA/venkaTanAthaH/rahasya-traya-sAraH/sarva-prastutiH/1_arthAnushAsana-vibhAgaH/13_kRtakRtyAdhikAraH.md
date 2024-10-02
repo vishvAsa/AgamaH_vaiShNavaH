@@ -43,17 +43,17 @@ Since one of the qualifications for the performance of prapatti, is sorrow or gr
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मन्नवर् विण्णवर् वानोरिऱैयॊण्ड्रुम् वान्गरुत्तोर्  
+मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वान्गरुत्तोर्  
 अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-मन्नवर् विण्णवर् वानोरिऱैयॊण्ड्रुम् वान्गरुत्तोर्  
+मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वान्गरुत्तोर्  
 अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
 </details>
 
-कॆन्नवरन्दरवॆण्ड्रु नम्मत्तिगिरित्तिरुमाल्  
+कॆन्नवरन्दरवॆऩ्ऱु नम्मत्तिगिरित्तिरुमाल्  
 मुन्नम् वरुन्दि यडैक्कलङ्गॊण्ड नम्मुक्कियरे. (20)
 
 Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken into His protection after endeavouring for a long time to find out what boon He should confer on those who loved Him. They are like kings and gods (to us), for they have, ever in their minds, the abode of the Lord of the eternal suris and they are like Paramahamsas, because they have completed all rites that have to be performed, (or like swans in their purity or in their capacity to separate the essential from the non-essential).

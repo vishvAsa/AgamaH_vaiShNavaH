@@ -80,17 +80,17 @@ The word upāya stands for "the means to secure an end" and this means may be ei
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 अऱिवित्तनरन्बरैयम्बऱैयुमुबायमिल्लात्  
-तुऱवित्तुनियिट्रुणैयाम् परनै वरिक्कुम् वगै  
-उऱवित्तनैयिण्ड्रियॊत्तारॆन निण्ड्र वुम्बरै नाम्  
-पिऱवित्तुयर् सॆगुवीरॆण्ड्रिरक्कुम् पिऴैयऱवे. (18 )
+तुऱवित्तुनियिऱ्ऱुणैयाम् परनै वरिक्कुम् वगै  
+उऱवित्तनैयिऩ्ऱियॊत्तारॆन निऩ्ऱ वुम्बरै नाम्  
+पिऱवित्तुयर् सॆगुवीरॆऩ्ऱिरक्कुम् पिऴैयऱवे. (18 )
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
 अऱिवित्तनरन्बरैयम्बऱैयुमुबायमिल्लात्  
-तुऱवित्तुनियिट्रुणैयाम् परनै वरिक्कुम् वगै  
-उऱवित्तनैयिण्ड्रियॊत्तारॆन निण्ड्र वुम्बरै नाम्  
-पिऱवित्तुयर् सॆगुवीरॆण्ड्रिरक्कुम् पिऴैयऱवे. (18 )
+तुऱवित्तुनियिऱ्ऱुणैयाम् परनै वरिक्कुम् वगै  
+उऱवित्तनैयिऩ्ऱियॊत्तारॆन निऩ्ऱ वुम्बरै नाम्  
+पिऱवित्तुयर् सॆगुवीरॆऩ्ऱिरक्कुम् पिऴैयऱवे. (18 )
 </details>
 
 Our kind ācārya s have taught us the way of seeking, as an upāya, the Supreme Being who is (ever) ready to help us in our state of helplessness, when we are without such upāyas as bhakti yoga which give rise to doubts (concerning our ability to adopt them with success). They have taught it to us so well that we shall never commit the mistake of begging, for deliverance from the sorrows of saṁsāra, the (other) gods who are bound by karma and are therefore like ourselves and who are not related in any way to us.
