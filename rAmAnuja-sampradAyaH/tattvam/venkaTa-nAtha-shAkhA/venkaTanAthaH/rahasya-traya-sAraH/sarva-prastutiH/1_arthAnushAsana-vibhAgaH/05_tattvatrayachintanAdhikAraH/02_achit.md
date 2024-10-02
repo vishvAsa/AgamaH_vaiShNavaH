@@ -18,8 +18,6 @@ son de tres tipos
 (3) Śuddha Satvam, la sustancia deque se hace la región trascendental más allá de la materia, llamada vaikuṇṭha.
 </details>
 
-
-
 ## प्रकृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -59,7 +57,6 @@ y es el campo de acción (karma) para el jīva ".
 इवऱ्ऱिल् वैत्तुक्कॊण्डु “अचेतना परार्था च नित्या सततविक्रिया । त्रिगुणा कर्मिणां क्षेत्रं प्रकृते रूपमुच्यते ॥” (परमसंहिता.) 
 </details>
 
-
 ## कालः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -84,8 +81,6 @@ La naturaleza de (2) kala o tiempo se describe así:-
 
 “अनादिर्भगवान् कालो नान्तोऽस्य द्विज विद्यते” (वि-पु. 1-2-26),
 </details>
-
-
 
 ## शुद्ध-सत्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -182,10 +177,6 @@ que pertenecen a tres clases de cosas no sensibles (Achetana).
 इत्यादिगळिले त्रिगुणकालशुद्धसत्त्वरूपङ्गळाऩ त्रिविधाचेतनङ्गळुडैय स्वभावञ् चॊल्लिऱ्ऱु.
 </details>
 
-
-
-
-
 [^f134]: Parama Saṁhitā: 2
 
 [^f135]: Viṣṇupurāṇa: 1-2-26
@@ -195,5 +186,4 @@ que pertenecen a tres clases de cosas no sensibles (Achetana).
 [^f137]: Pāñcarātra
 
 [^f138]: Mahābhārata: Śāntiparva 196-9
-
 

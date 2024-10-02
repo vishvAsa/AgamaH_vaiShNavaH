@@ -41,7 +41,6 @@ Time or Kāla is, in its essential nature, non-sentient or non luminous and all-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-
 इदिऩ् **स्थिति** कालावच्छेदम् इल्लामैयाल् ए  
 नित्यैय् आय् इरुक्कुम्.
 </details>

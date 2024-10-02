@@ -59,7 +59,6 @@ y que tienen el significado más profundo.
 गंभीराणामकृतकगिरां गाहते चित्तवृत्तिम् ॥ १० ॥
 </details>
 
-
 ## प्रतितन्त्रत्वम्
 
 <details><summary>English</summary>
@@ -99,7 +98,6 @@ exclusivo de todos los demás.
 
 प्रतितन्त्रमावदु मऱ्ऱुळ्ळ सिद्धान्तिगळॊरुवरुमिसैयादे तऩ्ऩुडैय सिद्धान्तत्तिऱ्‌के असाधारणमाऩ अर्थम्.  
 </details>
-
 
 ## प्रधान-प्रतितन्त्रम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -156,8 +154,6 @@ como su alma más interna).
 
 इङ्गु वेदान्तिगळाऩ नम्मुडैय दर्शनत्तिऱ्‌के असाधारणमाय् प्रधानमुमाऩ अर्थम् ऎदॆऩ्ऩिल् चेतनाचेतनङ्गळुक्कुम् ईश्वरनुक्कुमुण्डाऩ शरीरात्मभावसंबन्धादिगळ्.  
 </details>
-
-
 
 ## आत्म-शरीर-भावः
 <details><summary>English</summary>
@@ -266,7 +262,6 @@ because from His swarupa or essential nature and His saṅkalpa or will,
 they derive their existence, continuance and activities  
 as  befitting[^22] each of these two (svarūpa and saṅkalpa).  
 
-
 [^22]: As befitting each of these two - By His svarūpa, He is the cause of their existence and continuance; this is because of being their support; by His Saṅkalpa or will also, He is the cause of their existence, continuance and activities; this is because of being their controller.
 
 </details>
@@ -286,8 +281,6 @@ como con, [^22] cada uno de estos dos (svarūpa y saṅkalpa).
 
 चेतनाचेतनङ्गळैप्पऱ्ऱ धारकनुमाय् नियन्तावुमागैयावदु, तऩ् स्वरूपत्तालुम् सङ्कल्पत्तालुम् यथार्हं सत्ता-स्थिति-प्रवृत्तिगळुक्कु प्रयोजकनायिरुक्कै. 
 </details>
-
-
 
 ## आधारतायास् सद्वारकता?
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -410,7 +403,6 @@ e indirectamente a través de los Jīvas,
 
 जीवनै द्वारमागक् कॊण्डुम् स्वरूपत्तालुम् आधारमाग इरुक्कुम् ऎऩ्ऱु सिल आचार्यर्गळ् सॊल्लुवार्गळ्.  
 </details>
-
 
 ## सङ्कल्पाधीनता
 <details><summary>English</summary>
@@ -828,9 +820,6 @@ Se dice que está controlado y dirigido por este último (niyāmyatva).
 इदिल् स्वरूपाश्रितमायिरुक्किऱप्पडियै आधेयत्वम् ऎऩ्ऱुम्, संकल्पाधीनमायिरुक्किऱप्पडियै नियाम्यत्वम् ऎऩ्ऱुम् सॊल्लुगिऱदु.
 </details>
 
-
-
-
 [^f48]: Mahābhārata  : Anusasanika parva 254-136.
 
 ## शेष-शेषि-भावः
@@ -946,8 +935,6 @@ Esto está siendo Śeṣī.
 
 तऩ् प्रयोजनत्तुक्कागवे पारार्थ्यैकस्वभावङ्गळाऩ विवऱ्ऱै उपादानम्बण्णि अवऱ्ऱाले अतिश-यवानागै.
 </details>
-
-
 
 ## ज्ञान-फलम्
 <details><summary>English</summary>
@@ -1113,7 +1100,6 @@ y no tiene otro protector que Bhagavān.
 आग इवऱ्ऱाल् इच्चेतनऩ् अनन्याधारऩ्, अनन्यप्रयोजनऩ्, अनन्यशरणऩ् ऎऩ्ऱदायिऱ्ऱु.  
 </details>
 
-
 ## रहस्य-त्रये ऽर्थाः
 <details><summary>English</summary>
 
@@ -1125,7 +1111,6 @@ THE PRESENCE OF THESE IDEAS IN THE THREE MYSTERIES OR MANTRAS.
 La presencia de estas ideas  
 en los tres misterios o mantras.
 </details>
-
 
 ### अष्टाक्षरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1208,7 +1193,6 @@ y que no tiene otro refugio ni protector que él.
 नारायणशब्दत्तिल् तत्पुरुष बहुव्रीहि समासद्वयत्तालुमुण्डाऩ धारकत्व व्यापकत्वादिगळाले अनन्याधारत्वादि विशिष्ट स्वरूपलाभमुम्, पारार्थ्य पारतन्त्र्यगर्भमाऩ कीऴिल् पदद्वयत्ताले अनन्यप्रयोजनत्वमुम् अनन्यशरणत्वमुम् फलिक्कुम्.
 </details>
 
-
 ### द्वय-मन्त्रः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1242,7 +1226,6 @@ La idea de que el Jīva no tenga otro apoyo (ādhāra) es evidente (de la palabr
 
 प्रपत्त्यनुष्ठानप्रकाशकमाऩ मन्त्ररत्नत्तिल् पूर्वखण्डत्ताले अनन्यशरणत्वमुम्, उत्तरखण्डत्ताले अनन्यप्रयोजनत्वमुम् उभयभागत्तालुम् अनन्याधारत्वमुम् प्रकाशिक्किऱदु.
 </details>
-
 
 ### चरमश्लोके ऽनुकथनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1280,7 +1263,6 @@ or by implication or purport arising indirectly from the meaning of the words.
 
 इप्पडि शाब्दमागवुम् आर्थमागवुम् चरमश्लोकत्तिलुम् इव्वगुप्पुक् कण्डुगॊळ्वदु.
 </details>
-
 
 ### आदर्शोपमा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1330,7 +1312,6 @@ Como en un pequeño espejo que refleja formas más grandes. +++(5)+++
 
 इप्पडि चरमश्लोकत्तिले सिद्धोपाय वशीकरणार्थमाग विहितमाऩ साद्ध्योपाय विशेषत्तै द्वयत्ताले अनुष्ठिक्कुम् पोदैक्कु अनुसन्धेयङ्गळाय्क्कॊण्डु अवश्यापेक्षितङ्गळाऩ अर्थङ्गळैयॆल्लाम् सिऱिय कण्णाडि पॆरिय उरुक्कळैक् काट्टुमाप्पोले सुरुङ्गत् तॆळिविक्कुम् तिरुमन्त्रम्.
 </details>
-
 
 ### इतिहास-रूपकाणि
 #### ॐ
@@ -1408,8 +1389,6 @@ Y luego el Jīva que requiere su protección.
 ‘अग्रतः प्रययौ रामः’ ऎऩ्गिऱ श्लोकत्तिलुम् कण्डुगॊळ्वदु.
 </details>
 
-
-
 #### नमो
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1458,7 +1437,6 @@ y este último en obedecer y servir a Bharata).
 
 द्वितीयपदत्तिल् शब्दत्तालुम् अर्थस्वभावत्तालुम् वरुम् अर्थङ्गळै श्रीभरताताऴ्वानुडैयवुम् श्रीशत्रुघ्नाऴ्वानुडैयवुम् वृत्तान्तङ्गळिले अऱिवदु. 
 </details>
-
 
 #### नारायणाय
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1653,7 +1631,6 @@ debe entenderse en la misma línea.
 इदिन्बडियिले द्वयत्तिलुम् चरमश्लोकत्तिलुमुळ्ळ अर्थङ्गळ् तॆळिन्दुगॊळ्वदु.
 </details>
 
-
 ## शेषत्वं दास्यम्
 
 <details><summary>English</summary>
@@ -1665,7 +1642,6 @@ IN REGARD TO BEINGS ENDOWED WITH INTELLI GENCE, ŚEṣATVA MEANS DĀSATVA
 
 IN REGARD TO BEINGS ENDOWED WITH INTELLI GENCE, ŚEṣATVA MEANS DĀSATVA
 </details>
-
 
 ### साधारण-विशेषौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1736,7 +1712,6 @@ Pero somos Śeṣas en el sentido especial también de ser sus siervos (dāsāh)
 
 इप्पडित् तऩ्ऩुडैय शेषत्वमुम् सामान्यमागैयाले दासत्वमागिऱ विशेषत्तिले विश्रमिप्पित्तु अनुसन्धिक्कवेणुम्.  
 </details>
-
 
 ### अभिधानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1820,7 +1795,6 @@ y la relación específica de Swami o Master que se obtiene en el caso de Jivās
 इप्पडि नारायणशब्दत्तिलुम् सामान्यमुम् विशेषमुम् कण्डुगॊळ्वदु.
 </details>
 
-
 ### पुरुषार्थ-प्राप्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1876,7 +1850,6 @@ Esta gloria consiste en el disfrute del servicio, que es su puruṣārtha.
 
 इप्पडि शेषित्वत्ताले वन्द ईश्वरनुडैय अतिशययोगमुम् स्वामित्वमागिऱ विशेषत्ताले अवनुक्कु पुरुषार्थमाय् फलिक्किऱदु.  
 </details>
-
 
 ### रक्षणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1981,9 +1954,6 @@ a la Ley del Karma).
 रक्षिक्कुम्-पोदु कर्मवश्यरै ऒरु उपायत्तिले मूट्टि रक्षिक्कै ईश्वरनुक्कु स्वसङ्कल्पनियतम्.
 </details>
 
-
-
-
 ## उपसंहारः
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
@@ -2066,8 +2036,6 @@ disminuirán de inmediato.
 तत्रैकत्र झटित्युपैति विलयं तत्तन्मतस्थापना-  
 हेवाक-प्रथमान-हैतुक-कथा-कल्लोल-कोलाहलः ॥ ११ ॥
 </details>
-
-
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे प्रधानप्रतितन्त्राधिकारस्तृतीयः ॥  

@@ -24,7 +24,6 @@ The attributive knowledge (dharmabhūtajñāna) of all ātmās is luminous to it
 सर्वात्माक्कळुडैयवुम् धर्मभूतज्ञानम् विषयप्रकाशनवेळैयिले स्वाश्रयत्तुक्कु स्वयंप्रकाशमायिरुक्कुम्.  
 </details>
 
-
 ## धर्मि-ज्ञान-व्यत्यासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

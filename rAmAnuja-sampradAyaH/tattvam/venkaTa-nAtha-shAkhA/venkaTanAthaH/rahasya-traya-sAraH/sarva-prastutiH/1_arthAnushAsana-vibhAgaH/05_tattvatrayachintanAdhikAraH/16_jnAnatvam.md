@@ -48,7 +48,6 @@ fit for being spoken out and acted upon (vyavahāra).
 अदावदु - तऩ्ऩुडैयवागवुमाम्, वेऱॊऩ्ऱिनुडैयवागवुमाम् - एदेनुमॊऩ्ऱिनुडैय व्यवहारानुगुण्यत्तैप् पण्णुगै.
 </details>
 
-
 ## स्वयं-प्रकाशत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -73,7 +72,6 @@ without the need of any other known ledge to illumine it.
 
 स्वयंप्रकाशत्वमावदु तऩ्ऩै विषयीकरिप्पदॊरु ज्ञानान्तरत्तालबेक्षैयऱत् ताने प्रकाशिक्कै.
 </details>
-
 
 ## विषयत्व-प्रत्यक्त्वे
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

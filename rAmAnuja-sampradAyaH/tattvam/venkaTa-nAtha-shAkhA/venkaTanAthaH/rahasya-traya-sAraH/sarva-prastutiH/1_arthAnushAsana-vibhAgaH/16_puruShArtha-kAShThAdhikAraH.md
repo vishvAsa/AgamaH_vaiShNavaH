@@ -120,5 +120,3 @@ With our words which emit a fragrance that would be eagerly desired by the lotus
 पुरुषार्थकाष्ठाधिकारः षोडशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 
-
-

@@ -56,7 +56,6 @@ no tiene tales distinciones).
 “नायं देवो न मर्त्यो वा”(),
 </details>
 
-
 ## बद्धः, मुक्तः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -96,7 +95,6 @@ y se llama Akṣara o Kootastha (porque es imputable).
 
 “क्षरस्सर्वाणि भूतानि कुटस्थोऽक्षर उच्यते” (गीता 15-16)
 </details>
-
 
 ## नित्य-सूरिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

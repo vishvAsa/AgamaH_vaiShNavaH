@@ -31,7 +31,6 @@ and also their absolute dependence (on the Lord)
 नित्यरुक्कु नीक्कियुळ्ळारिल् भेदम् अनाद्याविर्भूतस्वरूपराय् परतन्त्ररायिरुक्कै.  
 </details>
 
-
 ## स्थिति-भिदा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -84,7 +83,6 @@ between their respective states of continuous existence in time.
 
 इदु नित्यर्क्कॆल्लाम् पॊदुवानप्पडियालेय् इवर्गळुक्कु अन्योन्यम् स्थितियिल् वैषम्यमिल्लै. 
 </details>
-
 
 ## प्रवृत्ति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

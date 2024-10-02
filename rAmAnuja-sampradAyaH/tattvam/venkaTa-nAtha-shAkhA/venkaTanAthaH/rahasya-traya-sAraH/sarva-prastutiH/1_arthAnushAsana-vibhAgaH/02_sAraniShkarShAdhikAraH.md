@@ -63,9 +63,6 @@ What is opposed to the way of the Vedas is like poison; even in the Śrutis or V
 न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
 </details>
 
-
-
-
 ## मन्त्र-त्रय-माहात्म्यम्
 <details><summary>English</summary>
 
@@ -168,9 +165,6 @@ It has been said, “One should ignore what is of no value, what is only of slig
 असारमल्पसारञ्च सारं सारतरन्त्यजेत् ।  
 भजेत् सारतमं शास्त्रे रत्नाकर इवामृतम् ॥  
 </details>
-
-
-
 
 [^f39]: Nāradīya Kalpa 1-9.
 
@@ -292,7 +286,6 @@ El único pramāṇa que existe para nuestra guía es Śabda o lo que se revela 
 
 ऎऩ्ऱुञ् चॊल्लुगिऱ-पडिये शब्दमे प्रमाणम्. 
 </details>
-
 
 ## सारतम-ग्राहिता
 
@@ -486,9 +479,6 @@ y, por lo tanto, debe preferirse.
 परमात्म–तत्प्राप्ति–तदुपायङ्गळै वॆळियिडुम् प्रदेशं सारतममागैयाले विवेकिक्कु उपादेयम्. 
 </details>
 
-
-
-
 [^f40]: Mahābhārata   : Udyoga Parva: 68-5.
 
 [^f41]: Bhagavadgītā: 16–24
@@ -499,7 +489,6 @@ y, por lo tanto, debe preferirse.
 
 [^20]: ( Alternative meaning): "what should be attained and what should be rejected ( see Tatparya
 Chandrika: Gita; XVI: 24)
-
 
 ## रहस्य-त्रय-प्रामुख्यम्
 <details><summary>English</summary>

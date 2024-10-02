@@ -10,7 +10,6 @@ THAT SHOULD BE KNOWN TO EVERY SEEKER AFTER SALVATION.
 page 91
 </details>
 
-
 ## अर्थपञ्चकम्
 
 <details><summary>Español</summary>
@@ -88,7 +87,6 @@ Será considerado por todos como alguien que lo sabe todo.
 तद्व्याघातं ममकृतिगिरि व्यञ्जयन्तं मनुं तं  
 तत्प्रायं च द्वयमपि विदन् संमतस्सर्ववेदी ॥ १२ ॥
 </details>
-
 
 ### अर्थपञ्चकम् = अर्थषट्कम्
 
@@ -191,7 +189,6 @@ La respuesta es la siguiente:
 इस् संबन्धम्पोले मुमुक्षुवुक्कु विशेषित्तऱिय वेण्डुवदागच् चेर्त्त अर्थपञ्चकम् ऎदॆऩ्ऩिल्
 </details>
 
-
 ### हारित-स्मृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -234,8 +231,6 @@ La respuesta es la siguiente:
 
 “प्राप्यस्य ब्रह्मणो रूपं प्राप्तुश्च प्रत्यगात्मनः । प्राप्त्युपायं फलं चैव तथा प्राप्तिविरोधि च ॥ वदन्ति सकला वेदास्सेतिहासपुराणकाः ॥”(हारीतसंहितै) ऎऩ्ऱु सॊल्लप्पट्टन.  
 </details>
-
-
 
 ## प्राप्यम्
 <details><summary>English</summary>
@@ -285,8 +280,6 @@ Es de esta manera que deben ser considerados.
 द्वयत्तिल् सविशेषणङ्गळाऩ नारायण शब्दङ्गळिलुम्,  
 चरमश्लोकत्तिल् ‘माम्’ ‘अहम्’ ऎऩ्गिऱ पदङ्गळिलुमनुसन्धेयम्.
 </details>
-
-
 
 ### श्री-साहित्यम्
 
@@ -448,7 +441,6 @@ y Śrī está con él eternamente".
 “विष्णोः श्रीरनपायिनी” (विष्णुपुराणम् 1-8-17)  
 </details>
 
-
 #### पुरुष-कारिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -561,7 +553,6 @@ a esta gran cantidad de rākṣasis de (la ira de) raghava".
 
 “भवेयं शरणं हि वः”(रामायणम् सुन्दरकाण्डम् 58-90)
 </details>
-
 
 #### साहचर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -931,8 +922,6 @@ dice Śrī y permanece en tu pecho."
 "अगलगिल्लेनिऱैयुम्"(तिरुवाय्मॊऴि 6-10-10)  
 </details>
 
-
-
 ### ज्ञानानन्द-मयत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1015,7 +1004,6 @@ en apoyo de esta contemplación prescrita.)
 सर्वावस्थैयिलुम् सहधर्म-चारिणियाऩ  
 पॆरिय पिराट्टियारोडु पिरिविल्लाद मुऴु नलमाऩ अनन्त-ज्ञानानन्दस्वरूपमाग अनुसन्धिक्कवेणुम्.
 </details>
-
 
 [^f58]: Rāmāyaṇa : Yuddha kāṇḍa 114-15
 
@@ -1118,8 +1106,6 @@ porque se ha dicho así
 
 ऎऩ्गिऱप्पडिये हेयप्रत्यनीकमाग अनुसन्धेयम्.  
 </details>
-
-
 
 [^f81]: Viṣṇupurāṇa:  1-22-53
 
@@ -1577,7 +1563,6 @@ y no debidoa ninguna deficiencia en sus cualidades ".
 “इषुक्षयान्निवर्तन्ते नान्तरिक्षक्षितिक्षयात् । मतिक्षयान्निवर्तन्ते न गोविन्दगुणक्षयात् ॥”
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "वल्+++(=बल)+++-विनैयेनै+++(=कर्मवन्तम् →पापिनम् [अपि विरहकाले])+++ ईर्गिऩ्ऱ+++(=पीडयद्-)+++-गुणङ्गळैय् उडैयाय्" (तिरुवाय्मॊऴि 8-1-8) 
@@ -1652,7 +1637,6 @@ que hablan de las cualidades de Bhagavān.
 
 ऎऩ्गिऱप्पडिये प्राप्यत्व-प्रापकत्वोपयुक्तङ्गळाऩ गुणङ्गळाले विशिष्टमाग अनुसन्धेयम्.
 </details>
-
 
 ### विग्रहाः
 <details><summary>English</summary>
@@ -2052,8 +2036,6 @@ del Pāñcarātra Śāstra y de la tradición.
 इव्विग्रहम् - पर-व्यूह-विभव-हार्दार्चावताररूपेण पञ्च-प्रकारमायिरुक्कुम्बडियुम्, इवऱ्ऱिलुळ्ळ विशेषङ्गळुम्, भगवच्छास्त्र-संप्रदाय-त्ताले अऱियप्पडुम्.
 </details>
 
-
-
 ### विभूती
 <details><summary>English</summary>
 
@@ -2244,7 +2226,6 @@ Aunque todos tienen amabilidad (o ānukulyam) en común.
 आनुकूल्यमात्रम् पॊदुवायिरुक्क रसवैषम्यत्ताले लीला-भोग-विभागम् यथालोकङ् गण्डु कॊळ्वदु.
 </details>
 
-
 #### लीलायै प्रपञ्चः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2408,8 +2389,6 @@ ya que se ha dicho como anteriormente.
 ऎऩ्गिऱप्पडिये लीलारूप-जगद्वयापार-लक्षणमाग अनुसन्धेयम्.
 </details>
 
-
-
 ### सारः
 
 <details><summary>English</summary>
@@ -2473,9 +2452,6 @@ de mantenerlo y controlarlo y similares.
 इप्पडि लक्ष्मीसहायमाय् अपरिमित-ज्ञानानन्दमाय् हेयप्रत्यनीकमाय् ज्ञान-शक्त्याद्यनन्त-मङ्गळगुणविशिष्टमाय् दिव्यमङ्गळ-विग्रहोपेतमाय् शरीरभूत-विभूतिद्वययुक्तमाय् जगत्सृष्ट्यादि-व्यापारलीलमाय्क् कॊण्डु प्राप्यमाऩ ब्रह्मत्तै  
 </details>
 
-
-
-
 ## प्राप्ता
 <details><summary>English</summary>
 
@@ -2528,7 +2504,6 @@ Como buscador de los medios de Mukti, de otros Baddhas.
 
 प्रापिक्कुम् प्रत्यगात्माविनुडैय बद्ध-मुक्त-नित्य-साधारणरूपमुम् उपायाधिकारियाऩ तनक्किप्पोदु असाधारणमाऩ रूपमुम् अऱियवेणुम्. 
 </details>
-
 
 ### नित्य-मुक्त-बद्ध-भेदाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2647,8 +2622,6 @@ p.ej. Ananta (es decir) Adiśeṣa, Garuḍa y Viṣvaksena.
 ऎऩ्गिऱप्पडिये अस्पृष्टसंसारराय्क्कॊण्डु नित्यकैङ्कर्यम् पण्णुगिऱ अनन्त-गरुड-विष्वक्सेनादिगळ्.  
 </details>
 
-
-
 ### साधारण-धर्माः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2681,7 +2654,6 @@ y están completamente sujetos a su voluntad.
 
 इवर्गळ् ऎल्लार्क्क् उम्  साधारणम् आऩ रूपम् अणुत्व-ज्ञानानन्द-अमलत्वादिगळुम्, भगवच्छेषत्व-पारतन्त्र्यादिगळुम्. 
 </details>
-
 
 ### मुमुक्षु-विशेषाः
 
@@ -2757,7 +2729,6 @@ y en la oración "desesperación no" en el Caramaśloka.
 इप्प्राप्ताविनुडैय स्वरूपम् प्रणवनमस्सुक्कळिल् मकारङ्गळिलुम्, नार-शब्दङ्गळिलुम्, ‘प्रपद्ये’ ऎऩ्गिऱ उत्तमनिलुम्, ‘व्रज’ ऎऩ्गिऱ मध्यमनिलुम्, ‘त्वा’ऎऩ्गिऱ पदत्तिलुम् ‘मा शुचः’ ऎऩ्गिऱ वाक्यत्तिलुम् अनुसन्धेयम्.
 </details>
 
-
 ## उपायः
 <details><summary>English</summary>
 
@@ -2826,12 +2797,10 @@ En Dvayam - en la primera parte,
 y en el Carama Śloka en la primera mitad.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवऱ्ऱिल् उपायम् तिरुमन्त्रत्तिल् नमस्सिलुम् अयन-शब्दत्तिलुम्, द्वयत्तिल् पूर्वखण्डत्तिलुम् चरमश्लोकत्तिल् पूर्वार्द्धत्तिलुम् अनुसन्धेयम्.  
 </details>
-
 
 ## फलम्
 
@@ -2876,7 +2845,6 @@ y en el carama Śloka en las palabras
 द्वयत्तिल् नमस्सिल् उम्,  
 "सर्व-पापेभ्यो मोक्षयिष्यामि” ऎऩ्गिऱव् इडत्तिल् उम् अनुसन्धेयम्.  
 </details>
-
 
 ## प्राप्ति-विरोधि
 <details><summary>English</summary>
@@ -3447,10 +3415,6 @@ en la suciedad y la inmundicia.+++(5)+++
 अवर्गळ् कॊडुत्त जुगुप्सावह-क्षुद्र-पुरुषार्थङ्गळाले कृमिगळैप्पोले कृतार्थराग मयक्कियुम्,  
 </details>
 
-
-
-
-
 [^f128]: Sri Rāmānuja: Periya Gadyam
 
 [^f129]: Tiruvoymozhi: 6-9-9
@@ -3473,7 +3437,6 @@ or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahm
 and are made to fall therefrom  
 in the acquisition of minor results.  
 
-
 [f130]:  
 
     In the Chandogya Upaniṣad VII chapter, it is stated as follows:- 
@@ -3493,7 +3456,6 @@ o en las meditaciones de cosas inanimadas
 como [^f130] nāma siendo brahman  
 y se hacen caer de eso  
 en la adquisición de resultados menores.
-
 
 [ES130]: 
 
@@ -3770,10 +3732,6 @@ El Jīva no ha trascendido a Saṁsāra.
 मुप्पत्तिरण्डडियाऩ तुरवुदत्तुवार् मुऩ्ऩडियिले विऴुन्ददोडु मुप्पत्तोरामडियिले विऴुन्ददोडु वासियिल्लादाप्पोले एदेनुमॊरु पर्वत्तिले अन्तरायमुण्डानालुम् इवऩ् संसारत्तैक् कडन्दानागाऩ्.
 </details>
 
-
-
-
-
 ### विलम्बः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3914,8 +3872,6 @@ que causa demora.
 विळंबहेतुवाऩ निग्रहत्तुक्कुक् कारणङ्गळाऩ दुष्कर्म-विशेषङ्गळुम् आर् पक्कलिले किडक्कुम् ऎऩ्ऱुम् तॆरियादु.  
 </details>
 
-
-
 ### शरणागतिः
 <details><summary>English</summary>
 
@@ -3982,7 +3938,6 @@ deben controlarse como se indica en Kaṭha Upaniṣad [^f133].
 
 इप्पडि अनिष्ट-परंपरैक्कु मूलङ्गळान आज्ञातिलङ्घनङ्गळाले वन्द भगवन्निग्रहविशेषमागिऱ प्रधानविरोधिक्कुच्चॆय्युम् परिहारत्तै ‘‘तस्य च वशीकरणं तच्छरणागतिरेव” ऎऩ्ऱु कठवल्लियिल् वशीकार्य-परंपरैयै वगुत्तविडत्तिल् श्रीभाष्यकारर् अरुळिच्चॆय्दार्.
 </details>
-
 
 ### रहस्य-त्रयोक्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

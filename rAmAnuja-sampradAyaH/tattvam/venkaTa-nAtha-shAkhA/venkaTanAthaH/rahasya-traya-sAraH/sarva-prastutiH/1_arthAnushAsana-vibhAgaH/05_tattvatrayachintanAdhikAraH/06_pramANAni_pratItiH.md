@@ -22,8 +22,6 @@ Todos estos tres: la naturaleza esencial (svarūpa), la continuación en el tiem
 इवैयॆल्लाम् वस्तुक्कळ् तोऱुम् प्रमाणप्रतिनियतमायिरुक्कुम्. 
 </details>
 
-
-
 [^30]: Aḷavandār: Atmasiddhi and Rāmānuja’s Vaikuṇṭha gadyam.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

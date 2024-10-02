@@ -158,12 +158,9 @@ Our princely ācārya s, who wear the crown of proficiency in the Vedas, have pl
 The horse, the chariot and the charioteer -- the end of the Vedas (the Upaniṣads) shows that the three tattvas, cit, acit, and Iśvara are related to one another respectively like the three mentioned above and have always had varied activities in accordance with their respective nature. In connection with these activities, all the three are of the nature of being the (material) causes; two, cit and Iśvara, are of the nature of doers, and one (1.) Iśvara is alone independent (of all others). Therefore the jīva, the responsibility for whose protection has been undertaken by Iśvara who is the Master, is carefree and has no further responsibility of his own in the matter of his protection.
 </details>
 
-
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे  
 साङ्गप्रपदनाधिकारो द्वादशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
-
 

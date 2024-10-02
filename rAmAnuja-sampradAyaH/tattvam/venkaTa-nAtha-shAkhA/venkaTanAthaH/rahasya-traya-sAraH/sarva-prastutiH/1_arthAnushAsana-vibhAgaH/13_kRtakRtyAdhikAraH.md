@@ -80,8 +80,6 @@ Bharanyāsa (or the surrender of the responsibility of protection) has been made
 
 [^54]: This means that the nitya and naimittika karmas which are ordained by the Lord in the śāstra s have still to be performed after prapatti, as, otherwise, there would be transgression of His command.
 
-
-
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे  

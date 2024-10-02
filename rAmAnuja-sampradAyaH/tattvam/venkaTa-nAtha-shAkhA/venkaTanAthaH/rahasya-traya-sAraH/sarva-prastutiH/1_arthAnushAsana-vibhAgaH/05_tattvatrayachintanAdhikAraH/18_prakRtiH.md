@@ -31,7 +31,6 @@ possessed of three qualities or attributes.
 इवऱ्ऱिल् त्रिगुणद्रव्यत्तुक्कु स्वरूपभेदम् गुणत्रयाश्रयत्वम्.  
 </details>
 
-
 ## २४ तत्त्वानि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -161,7 +160,6 @@ in accordance with the terms or basis of classification.
 
 सिल विवक्षाविशेषङ्गळाले योरॊरु विधङ्गळिले तत्त्वङ्गळै येऱवुञ्जुरुङ्गवुञ् चॊल्ला निऱ्‌कुम्. 
 </details>
-
 
 ## तत्त्व-देवतादि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -337,7 +335,6 @@ is endowed with these and protects all from the top of Hastigiri.
 ऎऩ्गिऱ कट्टळैयिले अऱिगैयुचितम्.
 </details>
 
-
 ## तत्त्व-स्वरूप-स्थिती
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -406,8 +403,6 @@ and these differences may be understood from a study of the purānas.
 
 इवऱ्ऱिल् कार्यमाऩ इरुबत्तिमूऩ्ऱु तत्त्वङ्गळुक्कु मिवऱ्ऱा लारब्धङ्गळानवऱ्ऱुक्कुम् स्थितियिल् वरुमेऱ्ऱच्चुरुक्कङ्गळ् पुराणङ्गळिले प्रसिद्धमानप्पडिये कण्डु कॊळ्वदु. 
 </details>
-
-
 
 ## मूल-प्रकृतेर् आनन्त्यम्
 
@@ -560,7 +555,7 @@ It is endless and incapable of being measured”
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्यादिगळ् नित्य-विभूतियाल् अवच्छिऩ्ऩम् अल्लाद प्रदेशत्ताल् ए  
+इत्यादिगळ् नित्य-विभूतियाल् अवच्छिन्नम् अल्लाद प्रदेशत्ताल् ए  
 मूल-प्रकृतिक्कु आनन्त्यञ् चॊल्लुगिऩ्ऱऩ.  
 </details>
 
@@ -588,12 +583,8 @@ except for the region covered by the nitya vibhūti (the region of eternal glory
 
 <details><summary>मूलम्</summary>
 
-इत्यादिगळ् नित्यविभूतियालवच्छिऩ्ऩमल्लाद प्रदेशत्ताले मूलप्रकृतिक्कु आनन्त्यञ् चॊल्लुगिऩ्ऱऩ.  
+इत्यादिगळ् नित्यविभूतियालवच्छिन्नमल्लाद प्रदेशत्ताले मूलप्रकृतिक्कु आनन्त्यञ् चॊल्लुगिऩ्ऱऩ.  
 </details>
-
-
-
-
 
 [^f152]: Rāmāyaṇa: Yuddhakāṇḍa: 114-15
 

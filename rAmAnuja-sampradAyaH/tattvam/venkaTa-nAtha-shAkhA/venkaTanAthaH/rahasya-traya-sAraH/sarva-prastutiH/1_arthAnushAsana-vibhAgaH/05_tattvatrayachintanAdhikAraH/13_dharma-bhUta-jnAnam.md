@@ -33,7 +33,6 @@ title = "१३ धर्म-भूत-ज्ञानम्"
     (See foot-note before the previous foot-note)
 </details>
 
-
 ## परिगणना
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -69,7 +68,6 @@ Its essential nature has not been separately referred to in the [^es148] passage
 
 इव्वात्माक्कळॆल्लार्क्कुम् धर्मिस्वरूपम् पोले धर्मभूतज्ञानमुम् द्रव्यमायिरुक्क इदिऩ् स्वरूपत्तैत् तनित्तु इङ्गु अरुळिच् चॆय्यादॊऴिन्ददु चेतनरॆऩ्ऱॆडुत्त विशिष्टत्तिले विशेषणमाय्च् चॊरुगि निऱ्‌कैयडियाग. 
 </details>
-
 
 ## स्व-प्रकाशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -108,7 +106,6 @@ it reveals its own existence as well).
 
 इद्धर्मभूतज्ञानम् विषयप्रकाशदशैयिले स्वाश्रयत्तुक्कु स्वयंप्रकाशमायिरुक्कुम्.  
 </details>
-
 
 ## विस्तारः
 
@@ -165,7 +162,6 @@ owing to perfect expansion and remains so throughout.
 मऱ्ऱुळ्ळारुक्कु संसारावस्थैयिल् कर्मानुरूपमाग बहुविधसङ्कोच-विकासवत्ताय् मुक्तावस्थैयिले नैजविकासत्ताले पिन्बु यावत्कालम् विभुवायिरुक्कुम्.  
 </details>
 
-
 ## प्रवृत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -208,7 +204,6 @@ which reveal objects as agreeable or disagreeable.
 बद्धदशैयिल् सङ्कोचविकासङ्गळुम्,  
 आनुकूल्यप्रातिकूल्यप्रकाशनमुखत्ताले भोगमॆऩ्गिऱववस्थैयैयडैगैयुम्.
 </details>
-
 
 ## भोगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -298,7 +293,6 @@ but these variations do not belong to them by nature.
 संसारिगळुक्कु कालभेदत्तालुम् पुरुषभेदत्तालुम् देशभेदत्तालुमल्पानुकूलमायुम् प्रतिकूलमायुमुदासीनमायुमिरुक्किऱ विभागङ्गळॆल्लामिव्वस्तुगळुक्कु स्वभावसिद्धङ्गळऩ्ऱु.
 </details>
 
-
 ### कर्म-वश्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -323,7 +317,7 @@ whose will is irresistible.
 
 <details><summary>मूलम्</summary>
 
-इदिवर्गळुडैय कर्मङ्गळुक्कीडाग सत्यसंकल्पनाऩ ईश्वरनिवर्गळुक्कु फलप्रदानम् पण्णिऩ प्रकारम्.  
+इदिवर्गळुडैय कर्मङ्गळुक्कीडाग सत्यसंकल्पऩाऩ ईश्वरनिवर्गळुक्कु फलप्रदानम् पण्णिऩ प्रकारम्.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -395,7 +389,6 @@ their having committed offences against the Lord.
 सहकारियोग्यतै सापराधत्वम्.
 </details>
 
-
 #### नित्य-मुक्ताः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -428,7 +421,6 @@ there are no auxiliary causes for such experiences.
 
 नित्यरुक्कुम् मुक्तरुक्कुम् परतन्त्रचेतनतैयाले स्वरूपयोग्यतैयुण्डे यागिलुम् ईश्वरानभिमतविपरीतानुष्ठानमिल्लामैयाले सहकारियोग्यतैयिल्लै.  
 </details>
-
 
 #### ईश्वरः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

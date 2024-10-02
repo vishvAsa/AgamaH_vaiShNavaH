@@ -29,7 +29,6 @@ by the removal of obstacles.
 मुक्तरुक्कु नीक्कियुळ्ळारिल् भेदम् प्रतिबन्धकनिवृत्तियाले आविर्भूतस्वरूपमायिरुक्कै.
 </details>
 
-
 ## स्थिति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,7 +79,6 @@ the mutual difference is their having attained the manifestation of their essent
 
 इवर्गळुक्कु अन्योन्यं स्थितिभेदम् आविर्भावत्तिल् मुऱ्‌पाडु पिऱ्‌पाडुगळालुण्डाऩ मुन्बुऱ्ऱ वेऱ्ऱच् चुरुक्कम्.  
 </details>
-
 
 ## प्रवृत्ति-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
