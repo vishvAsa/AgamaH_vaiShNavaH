@@ -115,7 +115,7 @@ If it be so, it may be asked whether the mukta  who is not independent (of God) 
 एऱि ऎऴिऱ्‌पदमॆल्लावुयिर्क्कुमिदमुगक्कुम्  
 नाऱुदुऴाय्मुडि नादनै नण्णि यडिमैयिल् नम्  
 कूऱुगवर्न्दु कुरुक्कळ् कुऴाङ्गळ् कुरैगऴऱ्‌ कीऴ्  
-माऱुदलिण्ड्रि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
+माऱुदलिऩ्ऱि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -123,7 +123,7 @@ If it be so, it may be asked whether the mukta  who is not independent (of God) 
 एऱि ऎऴिऱ्‌पदमॆल्लावुयिर्क्कुमिदमुगक्कुम्  
 नाऱुदुऴाय्मुडि नादनै नण्णि यडिमैयिल् नम्  
 कूऱुगवर्न्दु कुरुक्कळ् कुऴाङ्गळ् कुरैगऴऱ्‌ कीऴ्  
-माऱुदलिण्ड्रि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
+माऱुदलिऩ्ऱि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
 </details>
 
 Having reached the dazzling region of Paramapada and approached the Lord crowned with fragrant tulasī, who is ever delighted in doing what is good to all beings, and having obtained our share in service (to them), we shall ever live under the sounding anklets of the assembly of our ācāryas and enjoy delights which will never change and which will spring (from within us) to our great joy.

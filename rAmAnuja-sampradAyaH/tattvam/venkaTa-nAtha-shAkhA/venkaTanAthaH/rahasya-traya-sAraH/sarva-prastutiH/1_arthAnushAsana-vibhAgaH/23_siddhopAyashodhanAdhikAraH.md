@@ -227,18 +227,18 @@ The Lord of Śrī, who is the embodiment of compassion and who secures, for them
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मन्नुमनैत्तुऱवाय् मरुण्माट्ररुळाऴियुमाय्त्  
+मन्नुमनैत्तुऱवाय् मरुण्माऱ्ऱरुळाऴियुमाय्त्  
 तन्निनैवालनैत्तुन् दरित्तोङ्गुन्दनियिऱैयाय्  
 इन्नमुदत्तमुदालिरङ्गुन् दिरुनारणने  
-मन्नियवन्सरण्मट्रोर्बट्रिण्ड्रि वरिप्पवर्क्के. (34)
+मन्नियवन्सरण्मऱ्ऱोर्बऱ्ऱिऩ्ऱि वरिप्पवर्क्के. (34)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-मन्नुमनैत्तुऱवाय् मरुण्माट्ररुळाऴियुमाय्त्  
+मन्नुमनैत्तुऱवाय् मरुण्माऱ्ऱरुळाऴियुमाय्त्  
 तन्निनैवालनैत्तुन् दरित्तोङ्गुन्दनियिऱैयाय्  
 इन्नमुदत्तमुदालिरङ्गुन् दिरुनारणने  
-मन्नियवन्सरण्मट्रोर्बट्रिण्ड्रि वरिप्पवर्क्के. (34)
+मन्नियवन्सरण्मऱ्ऱोर्बऱ्ऱिऩ्ऱि वरिप्पवर्क्के. (34)
 </details>
 
 Nārāyaṇa , with His Spouse Lakṣmī , who is staunch in being every kind of relation (to us ), who is the sea of compassion that dispels ignorance (and delusion), who shines sustaining all (things and all beings ) with His mere will, being the Supreme Lord without a second and who takes compassion on us on account of ( Śrī), the nectar born of sweet nectar - Nārāyaṇa  with Śrī is the firm refuge of all who seek His protection having no other support.

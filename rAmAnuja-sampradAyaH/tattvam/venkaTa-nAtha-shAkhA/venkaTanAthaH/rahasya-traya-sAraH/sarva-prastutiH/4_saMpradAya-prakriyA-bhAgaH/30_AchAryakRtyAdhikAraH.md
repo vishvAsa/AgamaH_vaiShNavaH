@@ -85,18 +85,18 @@ Those lamps (of spiritual wisdom) which lighted the threshold of a certain house
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मरुळट्र तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्  
+मरुळऱ्ऱ तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्  
 इरुळऱ्‌ ऱिऱैयवनिणैयडि पूण्डिड वॆण्णुदलाल्  
-तॆरुळुट्र सॆन्दॊऴिऱ्‌चॆल्वम् पॆरुगिच् चिऱन्दवर्बाल्  
-अरुळुट्र सिन्दैयिना लऴिया विळक्केट्रिनरे. ( 47 )
+तॆरुळुऱ्ऱ सॆन्दॊऴिऱ्‌चॆल्वम् पॆरुगिच् चिऱन्दवर्बाल्  
+अरुळुऱ्ऱ सिन्दैयिना लऴिया विळक्केऱ्ऱिनरे. ( 47 )
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-मरुळट्र तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्  
+मरुळऱ्ऱ तेसिगर् वानुगप्पालिन्द वैयमॆल्लाम्  
 इरुळऱ्‌ ऱिऱैयवनिणैयडि पूण्डिड वॆण्णुदलाल्  
-तॆरुळुट्र सॆन्दॊऴिऱ्‌चॆल्वम् पॆरुगिच् चिऱन्दवर्बाल्  
-अरुळुट्र सिन्दैयिना लऴिया विळक्केट्रिनरे. ( 47 )
+तॆरुळुऱ्ऱ सॆन्दॊऴिऱ्‌चॆल्वम् पॆरुगिच् चिऱन्दवर्बाल्  
+अरुळुऱ्ऱ सिन्दैयिना लऴिया विळक्केऱ्ऱिनरे. ( 47 )
 </details>
 
 Our great ācāryas, who were absolutely free from ignorance and error, lighted this undying lamp out of compassionate grace, in the minds of worthy disciples who had grown rich in the true wealth of the performance of ordained rites in a manner which would accord with their knowledge. (They did so) because they desired that the whole world (of men) should become free from ignorance and adorn their heads with the Lord's feet owing to their longing for Paramapada,

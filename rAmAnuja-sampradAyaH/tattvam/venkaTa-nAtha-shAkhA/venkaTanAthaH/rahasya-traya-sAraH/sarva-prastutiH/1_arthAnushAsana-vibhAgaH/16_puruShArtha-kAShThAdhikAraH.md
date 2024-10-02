@@ -92,7 +92,7 @@ The relationship of being a servant (dása) to Bhagavān and Bhāgavatas owing t
 </details>
 
 कादरमिक्क वडिमै यिसैन्दऴियामऱैनूल्  
-नीदि निऱुत्त निलैगुलैया वगै निण्ड्रनमे. (23 )
+नीदि निऱुत्त निलैगुलैया वगै निऩ्ऱनमे. (23 )
 
 We that accept the code of conduct prescribed by the Lord, whose auspicious qualities fill, with astonishment, Bhāgavatas who have understood the meaning of the Vedas - We conduct ourselves in such a way that we do not deviate from the righteous path ordained in the eternal Vedas in rendering service to His good devotees with extreme reverence to them.
 

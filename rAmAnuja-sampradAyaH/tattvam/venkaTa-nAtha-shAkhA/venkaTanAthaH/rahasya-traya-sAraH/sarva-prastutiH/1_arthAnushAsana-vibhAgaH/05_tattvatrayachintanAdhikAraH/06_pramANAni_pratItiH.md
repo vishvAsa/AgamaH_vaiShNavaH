@@ -110,7 +110,7 @@ excepto en términos de los atributos respectivos.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवट्रैक् कऴित्तुप् पार्क्किल्  
+अवऱ्ऱैक् कऴित्तुप् पार्क्किल्  
 शश-विषाण तुल्यम् आम्.
 </details>
 
@@ -129,5 +129,5 @@ como para hablar de los cuernos de una liebre.
 
 <details><summary>मूलम्</summary>
 
-अवट्रैक् कऴित्तुप्पार्क्किल् शशविषाण तुल्यमाम्.
+अवऱ्ऱैक् कऴित्तुप्पार्क्किल् शशविषाण तुल्यमाम्.
 </details>
