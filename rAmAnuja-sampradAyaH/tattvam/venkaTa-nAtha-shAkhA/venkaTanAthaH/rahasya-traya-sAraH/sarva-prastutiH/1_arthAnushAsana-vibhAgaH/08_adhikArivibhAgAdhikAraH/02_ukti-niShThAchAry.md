@@ -1293,14 +1293,14 @@ The favour of Bhāgavatas, residence in holy places and the like are not direct 
 
 > “We, who live in your territories, should be protected by you,  
 > for you are our king, O ruler of men,  
-> whether you are in the town or in the forests''. 
+> whether you are in the town or in the forestś'. 
 </details>
 
 <details><summary>Español</summary>
 
 > “We, who live in your territories, should be protected by you,  
 > for you are our king, O ruler of men,  
-> whether you are in the town or in the forests''. 
+> whether you are in the town or in the forestś'. 
 </details>
 
 <details><summary>सारबोधिनी</summary>

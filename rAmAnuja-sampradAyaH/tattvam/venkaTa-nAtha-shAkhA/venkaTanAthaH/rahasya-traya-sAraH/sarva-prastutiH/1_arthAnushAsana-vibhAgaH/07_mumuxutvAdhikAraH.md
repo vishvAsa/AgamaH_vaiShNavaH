@@ -841,7 +841,7 @@ and found relief."
 > "Having heard of those who were mighty and valiant  
 > and of those who had immense treasures of wealth  
 > and who, after the lapse of some time, have left nothing behind them but tales of their lives,  
-> the wise man never considers as 'his', sons, wives, houses, land and the like, nor Wealth". 
+> the wise man never considers as 'hiś, sons, wives, houses, land and the like, nor Wealth". 
 </details>
 
 <details><summary>Español</summary>
@@ -849,7 +849,7 @@ and found relief."
 > "Having heard of those who were mighty and valiant  
 > and of those who had immense treasures of wealth  
 > and who, after the lapse of some time, have left nothing behind them but tales of their lives,  
-> the wise man never considers as 'his', sons, wives, houses, land and the like, nor Wealth". 
+> the wise man never considers as 'hiś, sons, wives, houses, land and the like, nor Wealth". 
 </details>
 
 <details><summary>सारबोधिनी</summary>

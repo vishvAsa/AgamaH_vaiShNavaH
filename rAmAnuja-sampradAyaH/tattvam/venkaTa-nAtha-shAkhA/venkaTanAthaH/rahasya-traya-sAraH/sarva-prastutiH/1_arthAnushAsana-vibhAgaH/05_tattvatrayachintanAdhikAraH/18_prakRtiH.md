@@ -506,12 +506,12 @@ and is revered by the gods".
 
 <details><summary>English</summary>
 
-These and other passages declare the existence of a region (of s'uddha sattvam) beyond tamas.
+These and other passages declare the existence of a region (of śuddha sattvam) beyond tamas.
 </details>
 
 <details><summary>Español</summary>
 
-These and other passages declare the existence of a region (of s'uddha sattvam) beyond tamas.
+These and other passages declare the existence of a region (of śuddha sattvam) beyond tamas.
 </details>
 
 <details><summary>मूलम्</summary>

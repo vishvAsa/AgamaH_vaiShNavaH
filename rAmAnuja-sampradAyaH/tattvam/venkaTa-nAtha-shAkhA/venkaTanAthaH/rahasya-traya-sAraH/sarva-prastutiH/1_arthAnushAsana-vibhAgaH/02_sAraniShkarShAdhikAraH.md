@@ -105,7 +105,7 @@ Among these three mysteries (mantras), Tirumantra or aṣṭākṣara has[^f39] 
 
 <details><summary>English</summary>
 
-the carama śloka , which says (in its first half) “having given up all rites and activities as means of attaining mokṣa , surrender thyself to me", establishes that the adoption of the single means taught in it, viz, self-surrender (or s'aranagati) would secure the benefits of all other means prescribed elsewhere; 
+the carama śloka , which says (in its first half) “having given up all rites and activities as means of attaining mokṣa , surrender thyself to me", establishes that the adoption of the single means taught in it, viz, self-surrender (or śaranagati) would secure the benefits of all other means prescribed elsewhere; 
 </details>
 
 <details><summary>मूलम्</summary>

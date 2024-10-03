@@ -48,7 +48,7 @@ he is not averse to other interests (in life).
 He will attain mokṣa  
 only at the expiry of the karma which has already begun to yield fruit (prārabdha),  
 when he will have the intense thought of the last moment before death.  
-Since the primary upāya or means (aṅgī) which he has chosen is upăsana or bhakti,  
+Since the primary upāya or means (aṅgī) which he has chosen is upāsana or bhakti,  
 he attains the fruit thereof, namely, mokṣa ,  
 when it is performed fully  
 and in accordance with the rules and injunctions prescribed for it. 
@@ -64,7 +64,7 @@ he is not averse to other interests (in life).
 He will attain mokṣa  
 only at the expiry of the karma which has already begun to yield fruit (prārabdha),  
 when he will have the intense thought of the last moment before death.  
-Since the primary upāya or means (aṅgī) which he has chosen is upăsana or bhakti,  
+Since the primary upāya or means (aṅgī) which he has chosen is upāsana or bhakti,  
 he attains the fruit thereof, namely, mokṣa ,  
 when it is performed fully  
 and in accordance with the rules and injunctions prescribed for it. 

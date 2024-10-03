@@ -82,7 +82,7 @@ Therefore the statement in the following śloka  :-- "The man " who performs pra
 विण्णवरु मण्णवरुम् विरुम्बुम् वॆऱ्‌पु  
 वेङ्गडवॆऱ्‌पॆन विळङ्गुम् वेदवॆऱ्‌पे.
 
-(2) The mountain which reveals to us the two feet of Śrīkṛṣṇa, the mountain where wicked sinners get rid of both their puiya and papa, the mountain which is renowned as being indeed mokṣa  itself, the mountain on which flow holy streams with pellucid walers, the mountain that is extolled as the abode of all righteous actions, the mountain that secures all the enjoyments of Paramapada (the region of dazzling gold), the mountain that is longed for by the eternal săiris and the people of this earth - that mountain is only the mountain described in the Vedas and famous as lhe Venkata Hills.
+(2) The mountain which reveals to us the two feet of Śrīkṛṣṇa, the mountain where wicked sinners get rid of both their puiya and papa, the mountain which is renowned as being indeed mokṣa  itself, the mountain on which flow holy streams with pellucid walers, the mountain that is extolled as the abode of all righteous actions, the mountain that secures all the enjoyments of Paramapada (the region of dazzling gold), the mountain that is longed for by the eternal sāiris and the people of this earth - that mountain is only the mountain described in the Vedas and famous as lhe Venkata Hills.
 
 उत्तम वमर्त्तल ममैत्तदो रॆऴिऱ्‌ ऱनुवुनुयर्त्त कणैयाल्  
 अत्तिरवरक्कन् मुडिबत्तु मॊरुगॊत्तॆन वुदिर्त्त तिऱलोन्  

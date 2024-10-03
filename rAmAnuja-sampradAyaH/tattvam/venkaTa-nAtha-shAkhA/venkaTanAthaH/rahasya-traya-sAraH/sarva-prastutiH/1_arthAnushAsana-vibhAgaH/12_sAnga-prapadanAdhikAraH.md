@@ -79,9 +79,9 @@ So from these two śloka s, it is clear that the essence of the śāstras which 
 
 ## THE MEANING OF THE AÑGĪ IN DVAYAM :
 
-Thus in the first part of the Dvaya which deals with the upāya or means, the surrender to the Lord of the responsibility (for one's protection) accompanied by the thought that one is śeṣa to the Lord and exists only for Him is to be understood in connection with the verb (prapadye) joined with the word s'aranam which treats of the upāya preceded by supreme faith ( mahavisvāsa ) and which contains within it, in an implicit form, the supplication for protection.
+Thus in the first part of the Dvaya which deals with the upāya or means, the surrender to the Lord of the responsibility (for one's protection) accompanied by the thought that one is śeṣa to the Lord and exists only for Him is to be understood in connection with the verb (prapadye) joined with the word śaranam which treats of the upāya preceded by supreme faith ( mahavisvāsa ) and which contains within it, in an implicit form, the supplication for protection.
 
-Thus (from what has been said in this chapter and in the foregoing chapters), although these six (the five aṅgas and the angī) may be understood separately, while considering, in detail, the meaning of each part of the sentence, yet they constitute only a single mental act while understanding the whole sentence, just like the understanding of other sentences having several parts. Therefore, in accordance with the s'astras, this principal action with its aṅgas is performed only once.
+Thus (from what has been said in this chapter and in the foregoing chapters), although these six (the five aṅgas and the angī) may be understood separately, while considering, in detail, the meaning of each part of the sentence, yet they constitute only a single mental act while understanding the whole sentence, just like the understanding of other sentences having several parts. Therefore, in accordance with the śastras, this principal action with its aṅgas is performed only once.
 
 ## PRAPATTI IS A MOMENTARY ACTION.
 

@@ -2446,13 +2446,28 @@ in accordance with the competency of those who adopt them.
 यथाधिकारमिवैयॆल्लाम् फलप्रदङ्गळॆऩ्ऩुमिडम् मुन्बे सॊऩ्ऩोम्.
 </details>
 
+
+## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 निऩ्ऱ निलैक्क् उऱ+++(=उप)+++ निऱ्‌कुङ् करुमम् उ+++(म्)+++, नेर्-मतियाल्  
 नऩ्ऱ् ऎऩ नाडिय+++(=अन्विष्टं)+++ ञानम् उ+++(म्)+++, नल्गुम्+++(=काङ्क्षि/सुखि)+++ उट्+++(←ळ्)+++कण्ण्-उडैयार्  
 ऒऩ्ऱिय+++(=एकान्त)+++ भत्तिय् उम्, ऒऩ्ऱुम् इलाव् इरैवार्क्क्, अरुळाल्  
-अऩ्ऱु पयऩ्ऱ् अरुमाऱुम् अऱिन्दवर् अन्दणर्+++(=ब्राह्मणाः)+++ ए. (16)
+अऩ्ऱु+++(=तदा)+++ **पयऩ्+++(=फलम्)++++तरुम्** आऱ्+++(=प्रयासम्)+++ उम् अऱिन्दवर् अन्दणर्+++(=ब्राह्मणाः)+++ ए. (16)
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+( अधिकारार्थसंग्राहिका गाथा) 
+
+सिद्ध-स्वाधिकारानुरूपतया स्थितं कर्म,  
+सूक्ष्म-बुद्धया समीचीनम् इति अन्विष्टं ज्ञानम्,  
+सुखमयान्तर्-दृष्टि-वहद्भिर् ऐदम्-पर्यं परिगृहीतां भक्तिम्,  
+अ-किञ्चनानां त्वरमाणानां भगवत्-कृपया  
+तत्-काल एव फल-प्रदम् उपायं च  
+विजानन्तो ब्राह्मणाः ॥
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2478,6 +2493,12 @@ and who cannot endure delay in attaining mokṣa .
 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इव्वधिकारत्तिल् सॊऩ्ऩ कर्मयोगज्ञानयोगभक्तियोगप्रपत्तियोगङ्गळिऩ् स्वरूपङ्गळै संग्रहमाग अनुवदित्तुक्कॊण्डु इवैगळुडैय ज्ञानत्तिऱ्कु ब्राह्मणोत्तमत्वप्राप्ति फल मॆऩ्ऱु पाट्टाले यरुळिच्चॆय्गिऱार् निऩ्ऱ निलैक्कु इत्यादिना । निऩ्ऱ निलैक्कु - चेतनर् स्थिरमाग निऩ्ऱ स्थितिक्कु। उऱ निऱ्कुम् - योग्यमाग इरुक्किऱ ऎऩ्ऱबडि। करुममुम् - कर्मयोगत्तैयुम्, प्रकृतिसंबद्धरुक्कु अनुष्ठितलौकिककर्मसजातीय मागैयाले सुकरमायुम्, अप्रमादमायुमिरुक्किऱ कर्मयोगत्तैयुमॆऩ्ऱबडि। नेर्मदियाल् - सूक्ष्ममाऩ बुद्धियाले, दुष्करज्ञानयोगत्तैयुम् निष्प्रमादमाग निर्वहिक्कवल्ल सूक्ष्मबुद्धियालॆऩ्ऱबडि। इदऩाल् एतादृशसूक्ष्मबुद्धियिल्लादवऩे योगद्वारा आत्मावलोकनसाधनकर्मयोगत्तिऱ्कु अधिकारि; अदु उळ्ळवऩ् ज्ञानयोगाधिकारियॆऩ्ऱु अधिकारिभेदम् सूचितमागिऱदु। नऩ्ऱॆऩ नाडिय ञाऩमुम् - नल्लदॆऩ्ऱु तेडप्पडुम् ज्ञानयोगत्तैयुम्। कर्मयोगम् अभ्यस्तसजातीयमागैयाले सुकरमाय्, निष्प्रमादमाय् इरुन्दालुम् अदु विजातीयव्यापारमागैयाले आत्मावलोकनत्तिऱ्कु बहिरङ्गम्। अदैक्काट्टिलुम् ज्ञानयोगम् विषयव्यापारशून्यमागैयालुम्, ज्ञानत्वेन सजातीयमागैयालुम् अन्तरङ्गमागैयाले नल्लदॆऩ्ऱु आत्मवलोकनेच्छुक्कळाल् तेडप्पडुगिऱदॆऩ्ऱु करुत्तु। नल्गु मुट्कण्णुडैयार् - नल्गुगै - स्नेहिक्कै। स्वस्वरूपत्तिल् स्नेहत्तैयुण्डाक्कुमदाऩ ऎऩ्ऱबडि। इदु आत्मावलोकनम् पिऱन्दालित्यादि कीऴ्च्चॊऩ्ऩदऱ्कु ज्ञापकम्। उट्कण्णुडैयार् - आत्मावलोकनमुडैयार्। ऒऩ्ऱिय - ध्यातृध्यानाविभागेनस्वीकरित्त, निरतिशयप्रियमागैयाले ध्यानत्तोडॊऩ्ऱाऩाप्पोले अविच्छिन्नमागप् पऱ्ऱिऩ ऎऩ्ऱबडि। पत्तियुम् - भक्तियोगत्तैयुम्। ऒऩ्ऱुमिला विरैवार्क्कु - इन्द कर्मयोगादिकळॊऩ्ऱुमिल्लादवराय् शीघ्रमागवे मोक्षम् पॆऱवेणुमॆऩ्ऱु त्वरिप्पार्क्कु। (विरैवार् - त्वरिप्पार्) कर्मयोगाद्यसमर्थर्गळुक्कुम्, अदु इरुन्दालुम् शीघ्रमागवे मोक्षम् पॆऱवेण्डुमॆऩ्ऱु तीव्रसंवेगमुडैयार्क्कुम्। प्रपन्नर्गळुक्कॆऩ्ऱबडि। अरुळाल् - उपायान्तरस्थाननिवेशजन्यमाऩ कृपैयाले। अऩ्ऱु पयऩ् तरुम् - ईश्वरप्रसादत्तैयुण्डुबण्णि इवऩ् कोलिऩ कालत्तिलेये फलत्तैक् कॊडुक्कुम्। आऱुम् - उपायत्तैयुम्, प्रपत्तियैयुमॆऩ्ऱबडि। अऱिन्दवर् - पूर्वोक्ताकारविशिष्टङ्गळागत् तॆरिन्दवर्गळे। अन्दणर् - ब्राह्मणोत्तमर्। इदऱ्कु विबरीदमागवऱिन्दवर्गळ् ब्राह्मणरल्लरॆऩ्ऱु करुत्तु।
+</details>
+
+
 <details><summary>मूलम् (त॰प॰)</summary>
 
 निऩ्ऱनिलैक्कुऱ निऱ्‌कुङ् गरुममुनेर्मदियाल्  
@@ -2488,10 +2509,78 @@ and who cannot endure delay in attaining mokṣa .
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-कर्मज्ञानमुपासनञ्च शरणव्रज्येति चावस्थितान्  
-सन्मार्गानपवर्गसाधनविधौ सद्वारकाद्वारकान् ।  
-एकद्व्याकृतियोगसंभृतपृथग्भावानुभावानिमान्  
-सम्यक्प्रेक्ष्य शरण्यसारथिगिरामन्ते रमन्ते बुधाः ॥ २३ ॥
+कर्म-ज्ञानम् उपासनञ् च शरण-व्रज्येति चावस्थितान्  
+सन्-मार्गान् अपवर्ग-साधन-विधौ स-द्वारकाद्वारकान् ।  
++++(सद्वारकत्वाद्वारत्व-प्रकार-गणनया→)+++ एक-द्व्य्+++(←प्रपत्तिः)+++-आकृति--योग-संभृत--पृथग्-भाव-+अनुभावान् इमान्  
+सम्यक् **प्रेक्ष्य** शरण्य-सारथि-गिराम् अन्ते **रमन्ते** बुधाः ॥ २३ ॥
+</details>
+
+<details><summary>English</summary>
+
+Karma, Jñāna, Upāsana (bhakti ) and likewise śaraṇāgati are the good ways prescribed in the Vedas for securing mokṣa[^49] ;  
+of these some are indirect and auxiliary means (namely, karma and jñāna )  
+while the others, bhakti and śaraṇāgati are direct and independent upāyas for mukti.  
+
+Of these, some (i.e. karma and jñāna), have only one form (that of being indirect and auxiliary means );  
+bhakti has only one form (that of being the direct and independent means for mukti,  
+
+while śaraṇāgati or prapatti has two forms,  
+that of being an indirect and auxiliary means as leading to bhakti  
+and also that of being the direct and independent means or upāya for obtaining mukti. 
+
+The wise (who know the śāstras), having understood well the difference among these upāyas  
+due to their having this single or twofold nature,  
+delight in the last words (caramaśloka  ) of the charioteer  
+who is the Saviour of all, (i.e.) they prefer śaraṇāgati),
+
+[^49]: 
+
+    Commentators of Brahma sūtras like Sudarśana Bhatta point out that  
+    this difference in names applies especially to nyāsa,  
+    since it is a different word from 'contemplate', ‘meditate', and 'adore'  
+    which are used in connection with the other vidyās  
+    and which mean the same thing, whereas nyāsa has a different meaning (altogether).
+</details>
+
+<details><summary>Español</summary>
+
+Karma, Jñāna, Upāsana (bhakti ) and likewise śaraṇāgati are the good ways prescribed in the Vedas for securing mokṣa[^es49] ;  
+of these some are indirect and auxiliary means (namely, karma and jñāna )  
+while the others, bhakti and śaraṇāgati are direct and independent upāyas for mukti.  
+
+Of these, some (i.e. karma and jñāna), have only one form (that of being indirect and auxiliary means );  
+bhakti has only one form (that of being the direct and independent means for mukti,  
+
+while śaraṇāgati or prapatti has two forms,  
+that of being an indirect and auxiliary means as leading to bhakti  
+and also that of being the direct and independent means or upāya for obtaining mukti. 
+
+The wise (who know the śāstras), having understood well the difference among these upāyas  
+due to their having this single or twofold nature,  
+delight in the last words (caramaśloka  ) of the charioteer  
+who is the Saviour of all, (i.e.) they prefer śaraṇāgati),
+
+[^es49]: 
+
+    Commentators of Brahma sūtras like Sudarśana Bhatta point out that  
+    this difference in names applies especially to nyāsa,  
+    since it is a different word from 'contemplate', ‘meditate', and 'adore'  
+    which are used in connection with the other vidyās  
+    and which mean the same thing, whereas nyāsa has a different meaning (altogether).
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+कीऴ्च्चॊऩ्ऩ कर्मयोगादिकळिल् प्रपत्तिये सद्वारकमायुम् अद्वारकमायुम् अपवर्गसाधन मागैयाल् अदु तऩ्ऩैये पण्डिदर्गळ् पऱ्ऱुगिऱार्गळ् ऎऩ्ऱु श्लोकत्ताले यरुळिच्चॆय्गिऱार् कर्मज्ञानमुपासनञ्च शरणव्रज्येति इत्यादिना । इङ्गु इतिशब्दम् इदुगळिल् प्रत्येकम् अन्वयिक्किऱदु। तथाच, कर्मेति – कर्मयोगमॆऩ्ऱुम्, ज्ञानमिति – ज्ञानयोगमॆऩ्ऱुम्, उपासनञ्चेति – भक्तियोगमॆऩ्ऱुम्, इङ्गु चकारत्तै प्रयोगित्तदु इवैगळ् एकाकृतियोगत्ताले एकराशिकळॆऩ्ऱु तॆरिविक्कैक्काग। शरणव्रज्येति च – शरणवरणमॆऩ्ऱुम्। इङ्गु चकारप्रयोगमुम् इदु ऒरु विलक्षणोपायमॆऩ्ऱु तॆरिविक्कैक्काग। अपवर्ग साधनविधौ – अपवर्गसाधनं – मोक्षोपायः । तद्विधौ – तद्विधाने, विधायकवाक्ये इति यावत् । अवस्थितान् – विषयतयाऽवस्थितान् । उपनिषत्तुक्कळिलुम् गीतैयिलुम् अपवर्गसाधनत्वेन विहितानिति यावत् । सन्मार्गान् - समीचीनमोक्षोपायान् । इवैगळुक्कॆल्लाम् सन्मार्गत्वकथनत्ताले कर्मयोगज्ञानयोगभक्तियोगङ्गळ् स्वरूपविरुद्धङ्गळॆऩ्ऱु सॊल्लुगिऱ पक्षम् निरस्तमॆऩ्बदागक् कण्डुगॊळ्वदु। इवैगळ् नाऩ्गुम् सन्मार्गमाऩाल् ‘‘भक्त्या परमया वाऽपि प्रपत्त्या वा महामते । प्राप्योऽहं’’ ऎऩ्गिऱ वचनत्तिल् इरण्डुक्के प्राधान्यम् सॊऩ्ऩदु ऎदऩाले यॆऩ्ऩवरुळिच् चॆय्गिऱार् सद्वारकाद्वारकानिति । कर्मयोगज्ञानयोगङ्गळ् भक्तिद्वारा मोक्षसाधनङ्गळागैयाले अप्रधानङ्गळ्। भक्तियोगमुम् स्वतन्त्रप्रपत्तियोगमुम् अद्वारकमाग अदावदु साक्षात्तागवे मोक्षसाधनमागैयाले प्रधानङ्गळ्। ‘‘भक्त्या परमया’’ ऎऩ्गिऱ श्लोकम् तदभिप्रायकमागैयाले पूर्वोक्तशङ्गैक्कु अवगाशमिल्लै।  
+**एकेत्यादि** । एका च द्वे च आकृतयः एकद्व्याकृतयः; तासां योगः ।  
+तत्र भक्तिक्कु अद्वारकत्व-रूपम् आऩ एकाकृति-योगम् उम्  
+कर्म-ज्ञानङ्गळुक्कु सद्वारकत्व-रूपम् आऩ एकाकृतियोगमुम्  
+प्रपत्तिक्कु अद्वारकत्व-सद्वारकत्वरूपद्व्याकृतियोगमुमॆऩ्ऱु विवेकङ् कण्डुगॊळ्वदु।  
+इन्द एकद्व्याकृतियोगत्ताले, **संभृत** – संपादितङ्गळाऩ। पृथग्भावानुभावान् – पृथक्त्वमॆऩ्ऩ, माहात्म्यङ्गळॆऩ्ऩ इवैगळैयुडैत्ताऩ। **इमान्** – कर्मयोगादीन् । **सम्यक्प्रेक्ष्य** – न्यायोपेतङ्गळाऩ श्रुतिस्मृतिप्रमाणङ्गळाले नऩ्ऱाग निरूपणम् पण्णि। प्रपत्तिक्कु इरण्डाकृतियोगत्तालेयुळ्ळ प्रभावातिशयत्तैयुम्, मऱ्ऱवैगळुक्कु अदिल्लामैयैयुम् नऩ्ऱागक् कण्डु। बुधाः – सारासारविवेकज्ञर्गळाऩ पण्डिदर्गळ्। शरण्यसारथिगिरां – शरणे साधुः शरण्यः, सारथि सर्वशरण्यऩागवैत्ते आश्रितवात्सल्यत्ताले पार्थसारथियाग इरुन्द कण्णऩुडैय। गिरां – गीतावाक्यङ्गळुडैय। अन्ते – मुडिवाऩ चरमश्लोकत्तिले। चरमश्लोकविहितमाऩ प्रपत्तियिले यॆऩ्ऱबडि। रमन्ते – रमिक्किऱार्गळ्। प्रपत्तिक्कु इरण्डाकृतियिरुप्पदाल् भक्तर्गळ् अङ्गप्रपत्तियिलुम्, प्रपन्नर्गळ् स्वतन्त्रप्रपत्तियिलुम् रमिक्किऱार्गळॆऩ्ऱबडि। इङ्गु प्रपत्तौ रमन्ते ऎऩ्ऱु सॊल्लामल् सारथिगिरामन्ते रमन्ते ऎऩ्ऱु सॊऩ्ऩदु चरमश्लोकत्तै गीताभाष्यत्तिल् सद्वारकप्रपत्तिपरमायुम्, गद्यत्तिल् अद्वारकप्रपत्तिपरमायुम् श्रीभाष्यकारर् अरुळिच्चॆय्दबडियाल् प्रपत्तिक्कु उभायाकृतियोगत्तै स्पष्टीकरिक्कैक्काग।  
+  
+इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्धाभिषिक्तस्य निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवकश्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ श्री सारबोधिन्याख्यायां व्याख्यायां उपायविभागाधिकारो नवमः ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -2502,9 +2591,6 @@ and who cannot endure delay in attaining mokṣa .
 सम्यक्प्रेक्ष्य शरण्यसारथिगिरामन्ते रमन्ते बुधाः ॥ २३ ॥
 </details>
 
-Karma, Jñāna, Upāsana (bhakti ) and likewise śaraṇāgati are the good ways prescribed in the Vedas for securing mokṣa[^49] ; of these some are indirect and auxiliary means (namely, karma and jñāna ) while the others, bhakti and śaraṇāgati are direct and independent upāyas for mukti. Of these, some (i.e. karma and jñāna), have only one form (that of being in. direct and auxiliary means ); bhakti has only one form (that of being the direct and independent means for mukti, while śaraṇāgati or prapatti has two forms, that of being an indirect and auxiliary means as leading to bhakti and also that of being the direct and independent means or upāya for obtaining mukti. The wise (who know the s'ăstras), having understood well the difference among these upāyas due to their having this single or twofold nature, delight in the last words (caramaśloka  ) of the charioteer who is the Saviour of all, (i.e.) they prefer śaraṇāgati),
-
-[^49]: Commentators of Brahma sūtras like Sudarśana Bhatta point out that this difference in names applies especially to nyāsa, since it is a different word from 'contemplate', ‘meditate', and 'adore' which are used in connection with the other vidyās and which mean thc same thing, whereas nyāsa has a different meaning (altogether).
 
 इति कवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  

@@ -406,7 +406,7 @@ There is nothing unreasonable in this view.
 
 It has been said in the following śloka  :
 
-“We [^f149] bow to Hari and proceed to expound the s'astra called Nyāya-Tattva :-  
+“We [^f149] bow to Hari and proceed to expound the śastra called Nyāya-Tattva :-  
 to Hari who sees, directly by perception and of His own accord, all things simultaneously."
 </details>
 
@@ -414,7 +414,7 @@ to Hari who sees, directly by perception and of His own accord, all things simul
 
 It has been said in the following śloka  :
 
-“We [^f149] bow to Hari and proceed to expound the s'astra called Nyāya-Tattva :-  
+“We [^f149] bow to Hari and proceed to expound the śastra called Nyāya-Tattva :-  
 to Hari who sees, directly by perception and of His own accord, all things simultaneously."
 </details>
 
@@ -790,7 +790,7 @@ only figuratively and not in truth.
 
 It may be asked :-  
 
-> " How could there be, in a luminous object (viz. s'uddhasattvam),  
+> " How could there be, in a luminous object (viz. śuddhasattvam),  
 > qualities like form and taste  
 > and classifications like earth and water and also modifications.  
 > Self luminous things like the soul and attributive knowledge do not, in general,  
@@ -813,7 +813,7 @@ and cannot hold good in a matter where the authority of the śāstra  must be ac
 
 It may be asked :-  
 
-> " How could there be, in a luminous object (viz. s'uddhasattvam),  
+> " How could there be, in a luminous object (viz. śuddhasattvam),  
 > qualities like form and taste  
 > and classifications like earth and water and also modifications.  
 > Self luminous things like the soul and attributive knowledge do not, in general,  

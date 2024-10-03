@@ -82,13 +82,13 @@ It is eternal because its continued existence ( sthiti) is not limited by time.
 <details><summary>English</summary>
 
 Its activity consists in its being accessory to creation and the like  
-by such divisions as kală (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
+by such divisions as kalā (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
 </details>
 
 <details><summary>Español</summary>
 
 Its activity consists in its being accessory to creation and the like  
-by such divisions as kală (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
+by such divisions as kalā (1/30 of muhūrta ), kāṣṭha (1/30 of kāla) and the like.
 </details>
 
 <details><summary>मूलम्</summary>

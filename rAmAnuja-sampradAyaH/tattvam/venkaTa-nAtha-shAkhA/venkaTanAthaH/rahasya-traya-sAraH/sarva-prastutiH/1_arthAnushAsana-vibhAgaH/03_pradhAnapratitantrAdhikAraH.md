@@ -1284,7 +1284,7 @@ Bhagavān is Himself the already existing and established means (siddha upāya) 
 for He is ever ready to help us to attain Him,  
 and that, in order to secure His help,  
 we have yet to accomplish or adopt a means (sādhya upāya),  
-which is self-surrender (s'aranāgati) to the lord.  
+which is self-surrender (śaranāgati) to the lord.  
 This Sādhyopāya, namely, self surrender or śaraṇāgati  
 is performed by uttering the Dvayam  
 and the thoughts that we should bear in mind at that time  
@@ -1299,7 +1299,7 @@ Bhagavān es él mismo el medio ya existente y establecido (Siddha upāya) por l
 porque siempre está listo para ayudarnos a alcanzarlo,  
 y eso, para asegurar su ayuda,  
 Todavía tenemos que lograr o adoptar un medio (sādhya upāya),  
-que es auto-curandero (s'aranāgati) para el Señor.  
+que es auto-curandero (śaranāgati) para el Señor.  
 
 Este sādhyopāya, a saber, la autovención o śaraṇāgati  
 se realiza pronunciando el dvayam,  

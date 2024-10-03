@@ -114,7 +114,7 @@ Pero no causa cambios o modificación en el mundo trascendental (aprākritaloka)
 
 <details><summary>English</summary>
 
-The nature of the transcendental world beyond matter is such that it is made of s'uddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. 
+The nature of the transcendental world beyond matter is such that it is made of śuddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. 
 </details>
 
 <details><summary>Español</summary>

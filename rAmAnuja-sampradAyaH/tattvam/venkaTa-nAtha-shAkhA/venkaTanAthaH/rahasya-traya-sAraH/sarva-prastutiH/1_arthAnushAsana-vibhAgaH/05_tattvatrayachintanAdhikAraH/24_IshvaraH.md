@@ -1238,16 +1238,16 @@ Therefore this One (Hārda) is spoken as Antaryāmi.
 
 <details><summary>English</summary>
 
-All these forms of incarnation are constituted of the substance called s'uddhasattvam  
+All these forms of incarnation are constituted of the substance called śuddhasattvam  
 and have no connection with karma or its fruits.  
-They are therefore called pure creation (s'uddha śrīshti). 
+They are therefore called pure creation (śuddha śrīshti). 
 </details>
 
 <details><summary>Español</summary>
 
-All these forms of incarnation are constituted of the substance called s'uddhasattvam  
+All these forms of incarnation are constituted of the substance called śuddhasattvam  
 and have no connection with karma or its fruits.  
-They are therefore called pure creation (s'uddha śrīshti). 
+They are therefore called pure creation (śuddha śrīshti). 
 </details>
 
 <details><summary>मूलम्</summary>

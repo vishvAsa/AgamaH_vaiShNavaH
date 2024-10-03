@@ -20,7 +20,7 @@ So also the disputes on such questions as the unity of the jīva and God will no
 when the characteristic features of each of them are marked out.  
 Our ācārya-s, whose wisdom never failed,  
 teach us about the existence of three realities (Tattvas)  
-classified in the s'āstrās  
+classified in the śāstrās  
 as the experiencing subjects (bhoktā), 
  the objects of experience and enjoyment (bhogyam)  
 and He who rules over both of them (Iśvara).
@@ -36,7 +36,7 @@ como la unidad del Jīva y Dios ya no continuarán,
 Cuando los rasgos característicos de cada uno de ellos están marcados.  
 Nuestro ācārya-s, cuya sabiduría nunca falló,  
 Enséñanos sobre la existencia de tres realidades (tattvas)  
-clasificado en los s'āstrās como  
+clasificado en los śāstrās como  
 los sujetos que experimentan (bhoktā),  
 Los objetos de la experiencia y el disfrute (bhogyam)
 y el que gobierna sobre los dos (Iśvara).
