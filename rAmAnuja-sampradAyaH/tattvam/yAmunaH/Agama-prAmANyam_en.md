@@ -8,7 +8,7 @@ title = "Agama-prAmANyam en"
 
 
 
-Of course, if Perception did not have this function of perceiving what exists at present as its natural function, it would cease to be Perception at all. Therefore, it is not reasonable to say that a superior kind of Perception, defined as encompassing all objects, is a priori impossible because it is limited to being Perception! 
+
 8. The objection is refuted: 
 If from finite Perception you conclude to infinite Perception, then I ask you to explain: can a finite quantity ever attain to such expansion that it cannot be further expanded? You insist, as it were, on full maturity in a little boy! even as a boy, after attaining the full growth, cannot grow physically further?' There are two possibilities: either the infinite exists in the finite, or the finite gradually becomes infinite. 
 The former cannot stand, for there is no Perception to support it: we have never seen a bowl or a similar finite object which had the same expansion as space. 

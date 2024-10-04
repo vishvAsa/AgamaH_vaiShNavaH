@@ -517,13 +517,27 @@ is directed toward the perceiving of what exists at present.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अ-सति हि स्व-भावानुबन्धिनि विद्यमानोपलम्भनत्वे  
-प्रत्यक्षतैव परावर्तते,  
-न ह्य् अ-जात-मति-वृत्तं वा ऽगमयद् अनुमानादि प्रत्यक्ष-पक्ष-निक्षेपं,  
++++(प्रत्यक्षस्य)+++ प्रत्यक्षतैव परावर्तते।   
+न ह्य् अ-जात-मति-वृत्तं+++(=??)+++ वा ऽगमयद् अनुमानादि  
+प्रत्यक्ष-पक्ष-निक्षेपं,  
 तेन अशेष-विषयिता-लक्षण-प्रत्यक्ष-प्रकर्षः  
 स्व-भाव-नियम-निर्मूलितोदय 
 
-इति न हृदयमधिरोहति ।  
+इति न हृदयम् अधिरोहति ।  
 </details>
+
+<details><summary>English</summary>
+
+Of course, if Perception did not have this function of perceiving what exists at present as its natural function,  
+it would cease to be Perception at all.  
+Therefore, it is not reasonable to say  
+that a superior kind of Perception,  
+defined as encompassing all objects,  
+is a priori impossible  
+because it is limited to being Perception! 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
