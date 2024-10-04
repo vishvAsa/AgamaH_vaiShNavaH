@@ -24,9 +24,6 @@ title = "०२ सारनिष्कर्षाधिकारः"
 (2) THE CHAPTER ON THE DETERMINATION OF WHAT IS BEST ? page77
 </details>
 
-
-
-
 <details open><summary>प्रस्तावः</summary>
 
 "The Three Mysteries" have been occasionally referred to in previous chapters. ŚrīVedānta desika presumes that everyone of his readers knows what they are. It is just possible that some of them are not in the know of these mysteries. So a brief account may be necessary of these mantras.
@@ -45,14 +42,17 @@ These, then, are the "three mysteries or mantras" which are the best of what sho
 
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 श्रुति–पथ–विपरीतं क्ष्वेड+++(=विष)+++–कल्पं, +++(सागरनिभायां)+++ श्रुतौ च,  
 +++(तत्रैव)+++ प्रकृति–-+++(कैवल्य-फल-)+++पुरुष–भोग–प्रापकांशो न पथ्यः ।  
 तद् इह विबुध-गुप्तं मृत्यु+++(→संसार)+++-भीता विचिन्वन्त्य् +++(अस्मभ्यम्)+++  
 उपनिषद्-अमृताब्धेर् उत्तमं सारम् आर्याः ॥
+</details>
+
+<details><summary>English</summary>
+
+What is opposed to the way of the Vedas is like poison; even in the Śrutis or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (Prakṛti bhoga) and of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of the cycle of births and deaths ( saṁsāra) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous ācāryas for our benefit
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -63,18 +63,11 @@ These, then, are the "three mysteries or mantras" which are the best of what sho
 न्त्युपनिषदमृताब्धेरुत्तमं सारमार्याः ॥
 </details>
 
-<details><summary>English</summary>
-
-What is opposed to the way of the Vedas is like poison; even in the Śrutis or Vedas, those parts which treat of the means of attaining the enjoyment of material goods (Prakṛti bhoga) and of the enjoyment of one's own atma or self (purusha-bhoga) or (Kaivalya) are not salutary. Therefore the wise who are afraid of the cycle of births and deaths ( saṁsāra) seek the best essence extracted out of the ocean of nectar called the Upaniṣads which has been guarded with great care by sages (i.e.) previous ācāryas for our benefit
-</details>
-
-
 ## मन्त्र-त्रय-माहात्म्यम्
 <details><summary>English</summary>
 
 THE GREAT VALUE OF THE THREE MANTRAS:
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -82,8 +75,8 @@ THE GREAT VALUE OF THE THREE MANTRAS:
 
 > “सर्वम् अष्टाक्षरान्तस्-स्थं” 
 
-ऎन्गिऱप्-पडिय् ए  
-तन्न्-अर्थत्तै अऱिय  
+ऎऩ्गिऱप्-पडिय् ए  
+तऩ्ऩ्-अर्थत्तै अऱिय  
 ऎल्लाव् अर्थङ्गळैय् उम् अऱिन्दु-तरुम्-बडिय् आय् इरुक्कैयाल् उम्,  
 </details>
 
@@ -94,7 +87,7 @@ Among these three mysteries (mantras), Tirumantra or aṣṭākṣara has[^f39] 
 
 <details><summary>मूलम्</summary>
 
-इन्द रहस्यत्रयत्तिल् तिरुमन्त्रम् “सर्वमष्टाक्षरान्तस्थं” ऎन्गिऱप्पडिये तन्नर्थत्तै अऱिय ऎल्लावर्थङ्गळैयुम् अऱिन्दुदरुम्बडियायिरुक्कैयालुम्,  
+इन्द रहस्यत्रयत्तिल् तिरुमन्त्रम् “सर्वमष्टाक्षरान्तस्थं” ऎऩ्गिऱप्पडिये तऩ्ऩर्थत्तै अऱिय ऎल्लावर्थङ्गळैयुम् अऱिन्दुदरुम्बडियायिरुक्कैयालुम्,  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -105,29 +98,29 @@ Among these three mysteries (mantras), Tirumantra or aṣṭākṣara has[^f39] 
 > माम् एकं शरणं व्रज”
 
 ऎऩ्ऱु  
-तान् सॊल्लुगिऱव् उपायम् ऒऩ्ऱैय् उम् ए अवलंबिक्क  
+ताऩ् सॊल्लुगिऱव् उपायम् ऒऩ्ऱैय् उम् ए अवलंबिक्क  
 सर्वोपाय-फल-सिद्धिय् उण्ड् आम्  
 ऎऩ्ऱु स्थापिक्कैयाल् उम्,  
 </details>
 
 <details><summary>English</summary>
 
-the carama śloka , which says (in its first half) “having given up all rites and activities as means of attaining mokṣa , surrender thyself to me", establishes that the adoption of the single means taught in it, viz, self-surrender (or s'aranagati) would secure the benefits of all other means prescribed elsewhere; 
+the carama śloka , which says (in its first half) “having given up all rites and activities as means of attaining mokṣa , surrender thyself to me", establishes that the adoption of the single means taught in it, viz, self-surrender (or śaranagati) would secure the benefits of all other means prescribed elsewhere; 
 </details>
 
 <details><summary>मूलम्</summary>
 
-चरमश्लोकम् “सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज”ऎऩ्ऱु तान् सॊल्लुगिऱ वुबायमॊऩ्ऱैयुमे अवलंबिक्क सर्वोपायफलसिद्धियुण्डाम् ऎऩ्ऱु स्थापिक्कैयालुम्,  
+चरमश्लोकम् “सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज”ऎऩ्ऱु ताऩ् सॊल्लुगिऱ वुबायमॊऩ्ऱैयुमे अवलंबिक्क सर्वोपायफलसिद्धियुण्डाम् ऎऩ्ऱु स्थापिक्कैयालुम्,  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्वयम् उम्  
 कठ-श्रुत्य्-आदिगळिऱ्‌ चॊल्लुगिऱप्-पडिय् ए  
-तन्नैय् ऒरुक्-काल् उच्चरित्तवनै  
+तऩ्ऩैय् ऒरुक्-काल् उच्चरित्तवनै  
 
 सर्व-प्रकारत्ताल् उम्  
-कृत-कृत्यन् आक्क-वल्ल वैभवत्तैय् उडैत्त् आय् इरुक्कैयाल् उम्  
+कृत-कृत्यऩ् आक्क-वल्ल वैभवत्तैय् उडैत्त् आय् इरुक्कैयाल् उम्  
 </details>
 
 <details><summary>English</summary>
@@ -137,8 +130,7 @@ the Dvayam, as has been stated in Kaṭha śruti  and elsewhere, is capable of m
 
 <details><summary>मूलम्</summary>
 
-द्वयमुम् कठश्रुत्यादिगळिऱ्‌ चॊल्लुगिऱप्पडिये तन्नै यॊरुक्कालुच्चरित्तवनै सर्वप्रकारत्तालुम् कृतकृत्यनाक्कवल्ल वैभवत्तै युडैत्तायिरुक्कैयालुम् </details>
-
+द्वयमुम् कठश्रुत्यादिगळिऱ्‌ चॊल्लुगिऱप्पडिये तऩ्ऩै यॊरुक्कालुच्चरित्तवनै सर्वप्रकारत्तालुम् कृतकृत्यनाक्कवल्ल वैभवत्तै युडैत्तायिरुक्कैयालुम् </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -149,7 +141,6 @@ the Dvayam, as has been stated in Kaṭha śruti  and elsewhere, is capable of m
 
 Therefore these three mysteries alone are of value to the seeker after salvation. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -163,19 +154,17 @@ Therefore these three mysteries alone are of value to the seeker after salvation
 भजेत् सारतमं शास्त्रे  
 रत्नाकर इवामृतम् ॥  
 </details>
+
 <details><summary>English</summary>
 
 It has been said, “One should ignore what is of no value, what is only of slight value, and, likewise, what is valuable and even what is more valuable. It is only what is most valuable that one should prefer in the śāstra , like ambrosia in the Ocean,
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 असारमल्पसारञ्च सारं सारतरन्त्यजेत् ।  
 भजेत् सारतमं शास्त्रे रत्नाकर इवामृतम् ॥  
 </details>
-
-
 
 [^f39]: Nāradīya Kalpa 1-9.
 
@@ -187,7 +176,6 @@ THE ONLY PRAMĀṆA IN REGARD TO MOKṢA  AND
 THE MEANS OF ATTAINING IT IS ŚĀSTRA:
 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -208,12 +196,10 @@ El objetivo o objetivo final de la vida (Puruṣārtha) (a saber, mokṣa)
 y los medios para lograrlo no son capaces de ser entendidos por la percepción sensorial (pratyakṣa) o (anumāna) inferencia.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 परमपुरुषार्थमुम् तदुपायमुम् प्रत्यक्षादि प्रमाणङ्गळालऱियवॊण्णाद पडियालेय् इवऱ्ऱिऱ्‌कु
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -233,12 +219,10 @@ Como se indica en pasajes como
 "es del [^f40] śāstra que conozco janārdana",
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “शास्त्राद्वेद्मि जनार्दनं” 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -257,7 +241,6 @@ al determinar qué [^20] debe hacerse
 y lo que no se debe hacer,  
 la única autoridad que debería guiarlo es Śāstra"
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -279,7 +262,6 @@ and "He who is well [^f43] versed in the Āgamas or Vedas will attain Brahman",
 y "El que está bien [^f43] versado en los āgamas o vedas alcanzará a Brahman",  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “शब्दब्रह्मणि निष्णातः परं ब्रह्माधिगच्छति ॥” 
@@ -300,7 +282,6 @@ the only pramāṇa that exists for our guidance is śabda or what is revealed i
 El único pramāṇa que existe para nuestra guía es Śabda o lo que se revela en los Śāstra s.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ऎऩ्ऱुञ् चॊल्लुगिऱ-पडिये शब्दमे प्रमाणम्. 
@@ -315,7 +296,7 @@ El único pramāṇa que existe para nuestra guía es Śabda o lo que se revela 
 यत् सारभूतं तदुपाददीत  
 हंसो यथा क्षीरमिवांबुमिश्रम् ॥”
 
-ऎन्गिऱ श्लोकत्तिल्
+ऎऩ्गिऱ श्लोकत्तिल्
 
 </details>
 
@@ -334,7 +315,6 @@ Los obstáculos son muchos;
 Por lo tanto, prefiere solo lo que es valioso, como el cisne que separa la leche del agua con el que se mezcla ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 > “अनन्तपारं बहुवेदितव्यम्  
@@ -342,14 +322,13 @@ Por lo tanto, prefiere solo lo que es valioso, como el cisne que separa la leche
 यत् सारभूतं तदुपाददीत  
 हंसो यथा क्षीरमिवांबुमिश्रम् ॥”
 
-ऎन्गिऱ श्लोकत्तिल्
+ऎऩ्गिऱ श्लोकत्तिल्
 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सार-भूतम् ऎन्गिऱ पदत्ताल् ए  
+सार-भूतम् ऎऩ्गिऱ पदत्ताल् ए  
 प्रतिपन्नम् आऩ निरुपाधिक-सारत्तै विषयी-करिक्किऱ  
 सारतम-शब्दम् उपादेयम् +++("सार-भूत"-विवक्षितम् इति)+++. 
 </details>
@@ -366,10 +345,9 @@ porque se refiere a
 lo que siempre es e incondicionalmente valioso.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-सारभूतमॆन्गिऱ पदत्ताले प्रतिपन्नमान निरुपाधिक सारत्तै विषयीकरिक्किऱ सारतमशब्दमुपादेयम्. 
+सारभूतमॆऩ्गिऱ पदत्ताले प्रतिपन्नमाऩ निरुपाधिक सारत्तै विषयीकरिक्किऱ सारतमशब्दमुपादेयम्. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -388,7 +366,6 @@ Los Śāstras de aquellos que están fuera del pálido de los Vedas (como los bu
 y también de los herejes (como Advaitins) no son valiosos y,  
 por lo tanto, deben ser ignorados.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -416,17 +393,16 @@ es solo de muy ligero valor y,
 por lo tanto, no se recurrirá.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-वेदत्तिल् पूर्वभागत्तिल् ऐहिकफलसाधन कर्मप्रतिपादकमान प्रदेशम् अल्पसारमागैयालनुपादेयम्.  
+वेदत्तिल् पूर्वभागत्तिल् ऐहिकफलसाधन कर्मप्रतिपादकमाऩ प्रदेशम् अल्पसारमागैयालनुपादेयम्.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आमुष्मिक प्रतिपादकांशम्  
 ऐहिक-फलत्तिऱ्‌ काट्टिल् अतिशयित फलत्तैय् उडैत्त्-आगैयाल् ए  
-सिलर्क्कु सारम् ऎन्नव् आय् इरुन्दद् एय् आगिल् उम्  
+सिलर्क्कु सारम् ऎऩ्ऩव् आय् इरुन्दद् एय् आगिल् उम्  
 दुःख-मूलत्वादि दोष-दुष्टम् आगैयाल् ए अनुपादेयम्.  
 </details>
 
@@ -445,12 +421,10 @@ ya que, en la estimación final,
 se basan en la tristeOtras características objetables.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-आमुष्मिक प्रतिपादकांशम् ऐहिकफलत्तिऱ्‌ काट्टिल् अतिशयित फलत्तैयुडैत्तागैयाले सिलर्क्कु सारमॆन्न वायिरुन्ददेयागिलुम् दुःखमूलत्वादि दोषदुष्टमागैयाले अनुपादेयम्.  
+आमुष्मिक प्रतिपादकांशम् ऐहिकफलत्तिऱ्‌ काट्टिल् अतिशयित फलत्तैयुडैत्तागैयाले सिलर्क्कु सारमॆऩ्ऩ वायिरुन्ददेयागिलुम् दुःखमूलत्वादि दोषदुष्टमागैयाले अनुपादेयम्.  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -473,12 +447,10 @@ no es de valor para aquellos
 que desean el disfrute del ser supremo.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-आत्म तत्प्राप्तिसाधनमात्रत्तै प्रतिपादिक्कुम् अंशमुम् सारतरमाग इरुन्ददेयागिलुम् अदिलुम् अत्यन्तातिशयितमान परमात्मानुभवसापेक्षर्क्कु अनुपादेयम्. 
+आत्म तत्प्राप्तिसाधनमात्रत्तै प्रतिपादिक्कुम् अंशमुम् सारतरमाग इरुन्ददेयागिलुम् अदिलुम् अत्यन्तातिशयितमाऩ परमात्मानुभवसापेक्षर्क्कु अनुपादेयम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -502,13 +474,10 @@ es el más valioso
 y, por lo tanto, debe preferirse.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 परमात्म–तत्प्राप्ति–तदुपायङ्गळै वॆळियिडुम् प्रदेशं सारतममागैयाले विवेकिक्कु उपादेयम्. 
 </details>
-
-
 
 [^f40]: Mahābhārata   : Udyoga Parva: 68-5.
 
@@ -520,7 +489,6 @@ y, por lo tanto, debe preferirse.
 
 [^20]: ( Alternative meaning): "what should be attained and what should be rejected ( see Tatparya
 Chandrika: Gita; XVI: 24)
-
 
 ## रहस्य-त्रय-प्रामुख्यम्
 <details><summary>English</summary>
@@ -554,10 +522,9 @@ que son las doctrinas distintivas, únicas y exclusivas (de nuestro sistema Viś
 y, por lo tanto, para ser más preferido.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-अव्वंशत्तिलुम् प्रधानप्रतितन्त्रङ्गळान तत्त्वहितङ्गळुडैय संग्रह मागैयाले मिगवुम् सारतममायिरुक्कुम् रहस्यत्रयम् .  
+अव्वंशत्तिलुम् प्रधानप्रतितन्त्रङ्गळाऩ तत्त्वहितङ्गळुडैय संग्रह मागैयाले मिगवुम् सारतममायिरुक्कुम् रहस्यत्रयम् .  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -569,7 +536,7 @@ y, por lo tanto, para ser más preferido.
 सर्वतस् सारम् आदद्यात्  
 पुष्पेभ्य इव षट्पदः ॥” 
 
-ऎन्गिऱप् पडिय् ए  +++(5)+++
+ऎऩ्गिऱप् पडिय् ए  +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -594,17 +561,14 @@ debe preferir como invaluable
 Estos tres misterios (mantrās).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-आगैयाले “बहुभ्यश्च महद्भ्यश्च शास्त्रेभ्यो मतिमान्नरः । सर्वतस्सारमादद्यात् पुष्पेभ्य इव षट्पदः ॥” ऎन्गिऱप्पडिये  
+आगैयाले “बहुभ्यश्च महद्भ्यश्च शास्त्रेभ्यो मतिमान्नरः । सर्वतस्सारमादद्यात् पुष्पेभ्य इव षट्पदः ॥” ऎऩ्गिऱप्पडिये  
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-"अमैया+++(=अपर्याप्तम्)+++ इवै" ऎन्नुम् आसैयिनाल् अऱु+++(=६*)+++-मूऩ्ऱ्+++(=३)+++-उलगिल् +++(→१४ विद्यास्थानानि, ४ उपवेदाः)+++  
+"अमैया+++(=अपर्याप्तम्)+++ इवै" ऎऩ्ऩुम् आसैयिनाल् अऱु+++(=६*)+++-मूऩ्ऱ्+++(=३)+++-उलगिल् +++(→१४ विद्यास्थानानि, ४ उपवेदाः)+++  
 सुमैय्+++(=भार)+++ आऩ कल्विगळ् सूऴ+++(=पूर्ण)+++-वन्दाल् उम् "तॊगैय्+++(=गणना[मात्रम्])+++ इवैय्" ऎऩ्ऱु  
 इमैया+++(=अनिमेशक)+++ इमैयवर्+++(=निमेश-चर्म-वन्तः)+++ +++(→उत्कृष्ट-ज्ञानवन्तो नित्यसूरयः)+++ एत्तिय+++(=स्तुत)+++ ऎट्ट्+++(-अक्षर)+++-इरण्ड् ऎण्णिय+++(=गणयन्तः)+++ नम्-  
 समयासिरियर्+++(=समयाचार्याः)+++ सदिर्क्कुम्+++(=चतुरता)+++ तनि-निलै तन्दनर् ए. (9)
@@ -634,15 +598,13 @@ el 'ocho' (aṣṭākṣara)
 y elDos '(a saber) el dvayam y el carama śloka'
 </details>
 
-
 <details><summary>मूलम् (त॰प॰)</summary>
 
-अमैया इवै ऎन्नुमासैयिनाल् अऱुमूऩ्ऱुलगिल्  
-सुमैयान कल्विगळ् सूऴवन्दालुम् तॊगैयिवैयॆऩ्ऱु  
+अमैया इवै ऎऩ्ऩुमासैयिनाल् अऱुमूऩ्ऱुलगिल्  
+सुमैयाऩ कल्विगळ् सूऴवन्दालुम् तॊगैयिवैयॆऩ्ऱु  
 इमैया इमैयवरेत्तिय ऎट्टिरण्डॆण्णिय नम्  
 समयासिरियर् सदिर्क्कुम् तनि निलै तन्दनरे. (9)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -656,7 +618,6 @@ y elDos '(a saber) el dvayam y el carama śloka'
 
 सारनिष्ठा भाष्यादिज्ञानाद् अपि मुख्या। 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -680,7 +641,6 @@ si hay alguna persona (en absoluto) en el mundo,
 será el líder de todos nuestros anfitriones.
 </details>
 
-
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 शाखानामुपरि स्थितेन मनुना मूलेन लब्धात्मकः  
@@ -688,5 +648,4 @@ será el líder de todos nuestros anfitriones.
 वेदोत्तंस विहार सारथि दया गुंभेन विस्रंभितः  
 सारज्ञो यदि कश्चिदस्ति भुवने नाथस्स यूथस्य नः ॥ ९ ॥
 </details>
-
 

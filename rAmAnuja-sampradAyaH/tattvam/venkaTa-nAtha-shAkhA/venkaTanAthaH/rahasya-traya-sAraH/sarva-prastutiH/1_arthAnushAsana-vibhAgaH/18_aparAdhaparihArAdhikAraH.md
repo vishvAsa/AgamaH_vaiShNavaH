@@ -12,7 +12,6 @@ title = "१८ अपराधपरिहाराधिकारः"
 (18) THE CHAPTER ON THE ATONEMENT FOR OFFENCES. page235
 </details>
 
-
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -35,12 +34,10 @@ This embodied being (the Jīva  ) obtains the grace of Madhava by the result of 
 पङ्कैरेव कलङ्कयन्निजतनुं प्राज्ञैर्न संश्लिष्यते ॥ ४० ॥
 </details>
 
-
 ## अपराध-सम्भावना, जाते भावः
 
 THE PRAPANNA IS NOT LIKELY TO OFFEND;  
 IF HE OFFENDS, HE SHOULD PERFORM PRĀYASCHITTA.
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -70,8 +67,6 @@ as it would be opposed to his adopted state of being the exclusive servant of th
 इप्पडि भगवच्छेषतैकस्वभावनागैयाले शास्त्रनियत तत्कैङ्कर्यैकरसनान इव्वधिकारिक्कुप् पिन्बनापत्तिल् बुद्धिपूर्वकमान वपराधम् वरुगै पऱ्ऱिन कैङ्कर्यैकनिष्ठैक्कु विरुद्धमागैयाले प्रायेण संभावितमऩ्ऱु.
 </details>
 
-
-
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -82,7 +77,6 @@ __________
 अपराध-लेशङ्गळ् उळ्ळवै अ-श्लेष-विषयम् आय्क्  
 कऴिन्दु-बोम्. 
 </details>
-
 
 <details><summary>राजगोपालः (En)</summary>
 
@@ -99,7 +93,6 @@ these offences will disappear without causing any stain.
 सुषुप्त्याद्य्-अवस्था-वशाच्च  
 सम्भवन्न् अपि  अ-श्लेष-विषयतया  विनश्यति  ॥
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -141,13 +134,10 @@ If sach lapses do occur,
 बुद्धि-पूर्वके ऽपि  क्वचिद् **विपरीतानुष्ठाने  सति**
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 बुद्धिपूर्वकपापारंभकपापङ्गळुक्कञ्जि यवैयुङ्गऴियवेण्डुम् ऎऩ्ऱु प्रपत्ति पण्णादे पाम्बोडॊरु कूरैयिले पयिऩ्ऱाऱ्‌पोले प्रकृतियोडे कूडविरुक्किऱविवनुक्कु आत्मगुणपूर्तियिल्लामैयाले मन्दधैर्यरान ऋषि कळुक्कुप् पोले बुद्धिपूर्वकमागवुम् सिल स्वनिष्ठाविपरीतङ्गळ् वन्दालुम् 
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -188,13 +178,10 @@ __________
 he will quickly reflect on these lapses from his state as a prapanna, feel ashamed at them, repent of them, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अवैयऩ्ऱिक्के अक्कालत्तिल् पिऱन्द स्वनिष्ठावैपरीत्यमागिऱविऴवैक्कडुग अनुसन्धित्तु यथोचितमाग लज्जानुतापङ्गळ् पिऱन्दु 
 </details>
-
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -206,7 +193,6 @@ __________
 > +++(कर्मयोगाद्य्-)+++उपायानाम् उपायत्व-  
 > स्वीकारे ऽप्य् एतद् एव हि +++(प्रपत्तिकर्म प्रायश्चित्तम्)+++” 
 > (लक्ष्मीतन्त्रम् 17-91.) 
-
 
 > “अज्ञानाद् अथवा ज्ञानाद्  
 > अपराधेषु सत्स्वपि ।  
@@ -242,10 +228,8 @@ and perform the proper atonement (prāyaścitta) that is suited to his competenc
 > In order that this offence might disappear,  
 > prapatti alone should be performed again". 
 
-
 > "Whether a man commits an offence knowing that it is an offence or does it without knowing it to be one,  
 > the only atonement (prāyaścitta) that has to be performed is to beg in these words :- "Pardon the offence". 
-
 
 > So also Sītā says:  
 > “It is well known that ŚrīRāma knows what Dharma is  
@@ -255,8 +239,6 @@ and perform the proper atonement (prāyaścitta) that is suited to his competenc
 > see that I am returned to him."
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 “अपायसंप्लवे सद्यः प्रायश्चित्तं समाचरेत् । प्रायश्चित्तिरियं सात्र यत्पुनश्शरणं व्रजेत् ॥ उपायानामुपायत्वस्वीकारेऽप्येतदेव हि”(लक्ष्मीतन्त्रम् 17-91.) “अज्ञानादथवा ज्ञानादपराधेषु सत्स्वपि । प्रायश्चित्तं क्षमस्वेति प्रार्थनैकैव केवलम्”(वङ्गीपुरत्तु नम्बिकारिकै) “विदितस्स हि धर्मज्ञः शरणागतवत्सलः । तेन मैत्री
@@ -264,7 +246,6 @@ and perform the proper atonement (prāyaścitta) that is suited to his competenc
 भवतु ते यदि जीवितुमिच्छसि । प्रसादयस्व त्वञ्चैनं शरणागतवत्सलम् । माञ्चास्मै प्रयतो भूत्वा निर्यातयितुमर्हसि”(रामायणम् सुन्दरकाण्डम् 21-20) इत्यादिकळिऱ्‌चॊल्लुगिऱप्पडिये यथाधिकारम् प्रायश्चित्तावलम्बन मुण्डाम्.
 
 </details>
-
 
 ## यमदण्डवारणम्
 THE PRAPANNA WILL NEVER GO TO THE WORLD
@@ -276,7 +257,6 @@ __________
 प्रारब्ध-कर्म-विशेष-वशत्ताले कठिन-प्रकृतिय् आय्  
 क्षमै-कॊळ्ळुगैयुङ् गैदप्-पिन पोदु
 </details>
-
 
 <details><summary>राजगोपालः (En)</summary>
 
@@ -359,7 +339,7 @@ __________
 ऎऩ्ऱु वैष्णव-वामनादि-पुराणङ्गळिन् पासुरङ्गळुक्कु मूल-मान श्रुतियिऱ्‌ चॊल्लुगिऱप् पडिये+++(=प्रकारेण)+++  
 यम-विषय-गमनम् इऩ्ऱिक्के+++(=इल्लादे)+++ वेल् इट्टुप् पाय+++(→हाय्)+++ वेण्डुमदु  
 मुळ्ळिट्टुप् पाय्न्दु,  
-कऴियुम् ऎन्गिऱ+++(=ऎम्बुव)+++ कणक्किले  
+कऴियुम् ऎऩ्गिऱ+++(=ऎम्बुव)+++ कणक्किले  
 +++(अन्धता-स्थानत्तिल्)+++ काणन्,  
 +++(द्वि-पाद-हति-स्थानत्तिल्)+++ खञ्जन् ऎऩ्ऱु  
 मुदल्-आगव्-ओदुगिऱ+++(=पठित)+++-विङ्गुऱ्ऱैय्+++(=पुष्कल)+++-उप-क्लेश-मुखत्ताले  
@@ -377,13 +357,10 @@ As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the
 काणत्व-खञ्जत्वादि-लक्षणोपक्लेश-रूप-पापनिवर्तकोपायान्  पुरस्कृत्य  
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
-ऎऩ्ऱु वैष्णववामनादिपुराणङ्गळिन् पासुरङ्गळुक्कु मूलमान श्रुतियिऱ्‌चॊल्लुगिऱप्पडिये यमविषयगमनमिऩ्ऱिक्के वेलिट्टुप्पाय वेण्डुमदु मुळ्ळिट्टुप्पाय्न्दु कऴियुमॆन्गिऱ कणक्किले काणन् खञ्जन् ऎऩ्ऱु मुदलागवोदुगिऱ विङ्गुऱ्ऱैयुपक्लेशमुखत्ताले
+ऎऩ्ऱु वैष्णववामनादिपुराणङ्गळिन् पासुरङ्गळुक्कु मूलमान श्रुतियिऱ्‌चॊल्लुगिऱप्पडिये यमविषयगमनमिऩ्ऱिक्के वेलिट्टुप्पाय वेण्डुमदु मुळ्ळिट्टुप्पाय्न्दु कऴियुमॆऩ्गिऱ कणक्किले काणन् खञ्जन् ऎऩ्ऱु मुदलागवोदुगिऱ विङ्गुऱ्ऱैयुपक्लेशमुखत्ताले
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -400,8 +377,6 @@ __________
 The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger (and protects the prapanna after a light punishment in this very life for his offence.) 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 सिगैयऱुक्कुम् विरगुगळै मुन्निट्टु सर्वेश्वरन् क्षमाप्रेमदयावात्सल्यङ्गळाले तणिन्द प्रतापत्तैयुडैयनाय् मिगवुम् दण्डिक्कवेण्डुमपराधत्तुक्कु
@@ -411,7 +386,6 @@ The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-
 
 क्षमाप्रेमदयावात्सल्यादिना  मन्दीभूतप्रतापः  
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -430,13 +404,10 @@ An emperor, who is to be duly served, punishes his attendants (like those who ca
 (He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness.  
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 सेव्यनान सार्वभौमन्, अडैयाळक्कारर् अन्तः पुरपरिजन कूनर् कुऱळर् कुमारर्गळ् विषयत्तिलपराधङ्गळुक्कीडागवुम्, अन्तरङ्गत्वादितारतम्यत्तुक्कीडागवुम्, संबन्धानृशंस्यादिगळाले प्रीति नडक्कच् चॆय्देय्
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -454,7 +425,6 @@ __________
 
 अवर्गळ् तप्पिनदुक्कु क्षमैकॊळ्ळुगैक्कागवुम्, मेलैक्कुम् शिक्षैयागैक्कागवुम्
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -506,8 +476,6 @@ To emphasise this point, some said that the Lord would pardon even those sins th
 भगवान्  लघुना  दण्डेन  संरक्षति  ।  एवं-करणम् अपि  पूर्व-प्रपत्ति-फली-भूत-क्षमा-प्रकार-भेद  इति  भगवति  कृतज्ञताम् एव  परिपोषयेत्  ॥
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 इप्पडि मृदु-प्रकृतिगळै क्षमैगॊळ्ळप्-पण्णु-वित्तल्  
@@ -538,7 +506,6 @@ It should not be thought that, because sins committed deliberately after prapatt
 प्रारब्धकर्मत्तिल् पापांशम्पोले बुद्धिपूर्वोत्तराघम् प्रायश्चित्तम् पण्णाद-पोदु सफलमानालुम् पण्णिन प्रपत्ति मोक्षङ्गॊडादॊऴियुमोवॆऩ्ऱु शङ्किक्कवॊण्णादु;
 </details>
 
-
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -552,13 +519,10 @@ __________
 When asafoetida is applied to the root of a tree for making it wither, the tree is sure to wither sooner or later, according to the nature of the soil and other conditions; (but there is no doubt that it will wither; it will do so, perhaps after a little more time). 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 पॆरुङ्गायम् वैत्त मरङ्गळुक्कु स्थलादिविशेषङ्गळाले वाट्टत्तुक्कु कालतारतम्यमुळ्ळमात्रम्;
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -590,13 +554,10 @@ __________
 If they desire to have mokṣa at the end of this life and cannot brook delay and if the period of their life-time is not previously fixed, there will be delay in mokṣa  by the life-time being extended. To those whose period of life-time is already fixed, prapatti will certainly bear fruit within that time.
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 इद्देहानन्तरम् मोक्षम् पॆऱवेणुमॆऩ्ऱ पेक्षित्तालुमनियतायुस्सुक्कळाय्विळंबाक्षमरायिरुप्पार्क्कायुर्वद्धियाले विळंबम् वरुम्. नियतायुस्सुक्कळुक्कु उळ्ळ वायुस्सुक्कुळ्ळे फलित्तुविडुम्.
 </details>
-
 
 ## बुद्धिपूर्वकापराध-प्रभावः
 DISCUSSION OF THE VIEW THAT EVEN DELIBERATE OFFENCES COMMITTED BY A PRAPANNA WILL NOT AFFECT HIM ADVERSELY.
@@ -610,7 +571,7 @@ __________
 “पापानां वा शुभानां वा  
 वधार्हाणां प्लवङ्गम”(रामायणम् यु.का. 116-44) 
 
-ऎन्गिऱप् पडिये+++(=प्रकारेण)+++ पिराट्टिक्कु+++(→श्रीकु)+++ क्षमा-विषयमाय्-इऱ्ऱ् इल्लैयोव् ऎन्निल्; 
+ऎऩ्गिऱप् पडिये+++(=प्रकारेण)+++ पिराट्टिक्कु+++(→श्रीकु)+++ क्षमा-विषयमाय्-इऱ्ऱ् इल्लैयोव् ऎन्निल्; 
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -620,20 +581,17 @@ It may be asked
 > “Even after Sītā Devi promised protection to the Rākṣasis by saying "I will protect you," when these Rākṣasis offended her again deliberately, were their sins not forgiven when Sītā? Devi said, " I forgive their offences as I cannot bear their sufferings" and "Whether they deserve punishment for their sins or whether they have not committed any sins (deserving of punishment), you should pardon them because of your generous Nature -- There is no one that is above fault"? 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
-“भवेयं शरणं हि वः”(रामायणम् सु.का. 58-90) ऎऩ्ऱबिन्बुमुण्डान राक्षसिगळुडैय बुद्धिपूर्वापचारङ्गळ् “मर्षयामीह दुर्बला”(रामायणम् यु.का. 116-40) “पापानां वा शुभानां वा वधार्हाणां प्लवङ्गम”(रामायणम् यु.का. 116-44) ऎन्गिऱबडिये पिराट्टिक्कु क्षमाविषयमायिऱ्ऱिल्लैयोवॆन्निल्;
+“भवेयं शरणं हि वः”(रामायणम् सु.का. 58-90) ऎऩ्ऱबिन्बुमुण्डान राक्षसिगळुडैय बुद्धिपूर्वापचारङ्गळ् “मर्षयामीह दुर्बला”(रामायणम् यु.का. 116-40) “पापानां वा शुभानां वा वधार्हाणां प्लवङ्गम”(रामायणम् यु.का. 116-44) ऎऩ्गिऱबडिये पिराट्टिक्कु क्षमाविषयमायिऱ्ऱिल्लैयोवॆन्निल्;
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव् विडत्तिलुम्  
 अवर्गळुक्कु तिरुव्-अडि-नलियप्+++(=पीडा)+++-पुगुगिऱार्+++(=प्रापयति)+++  
-ऎन्गिऱ भयम् विळैन्दु  
+ऎऩ्गिऱ भयम् विळैन्दु  
 नलिवुक्कु विलक्क्+++(=रोध)+++ उण्ड्-आनप्-पडियाले  
 वाळालेय्+++(=खड्गेन)+++ ओङ्गि+++(=उन्नीय)+++ विडुमाप्-पोले  
 दण्ड-लेशमुम् क्षमैयुम् सिद्धम्.
@@ -646,10 +604,9 @@ The answer is as follows:- Even here, the Rākṣasis were afraid that Hanuman w
 So there was, as in the raising of the sword (to strike a person), a slight punishment (fear) and (then ) forgiveness. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-अव् विडत्तिलुमवर्गळुक्कु तिरुवडि नलियप्पुगुगिऱारॆन्गिऱ भयम् विळैन्दु नलिवुक्कु विलक्कुण्डानप्पडियाले वाळालेयोङ्गि विडुमाप् पोले दण्डलेशमुम् क्षमैयुम् सिद्धम्.
+अव् विडत्तिलुमवर्गळुक्कु तिरुवडि नलियप्पुगुगिऱारॆऩ्गिऱ भयम् विळैन्दु नलिवुक्कु विलक्कुण्डानप्पडियाले वाळालेयोङ्गि विडुमाप् पोले दण्डलेशमुम् क्षमैयुम् सिद्धम्.
 </details>
 
 __________
@@ -668,7 +625,6 @@ Therefore, when it is sometimes stated that even sins committed deliberately by 
 आगैयाल् प्रपन्ननुक्कु बुद्धिपूर्वोत्तराघम् लेपियातॆऩ्ऱु विशेषित्तुच् चॊल्लुवदॊरु प्रमाणमऩ्ऱिक्केय् इरुक्क
 </details>
 
-
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -685,7 +641,6 @@ It is also sometimes stated that the prapanna need not atone for his sins even w
 
 इवनुक्कुप् पिन्बु बुद्धिपूर्वापराधम् पिऱन्दालुम् क्षमै कॊळ्ळ वेण्डावॆऩ्ऱुम्, क्षमै कॊळ्ळाविट्टालुम् शिक्षारूपदण्डविशेष मिल्लैयॆऩ्ऱुम्, विळंबाक्षमरुक्कुम् परमफलत्तुक्कु विळंबम् वारादॆऩ्ऱुम्,
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -704,13 +659,11 @@ It is sometimes maintained also that when such offences have been committed, the
 These propositions maintained by some (should not be taken as literally true); they are made just to glorify the attributes and qualities of the Saviour and the power of prapatti.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 विळंबाक्षमरुक्कुम् परमफलत्तुक्कु विळंबम् वारादॆऩ्ऱुम्,  
 प्रारब्धसुकृतविशेषादिगळाले वरुमिङ्गुऱ्ऱ कैङ्कर्यत्तुक्कु विच्छेदसङ्कोचङ्गळ् वारादॆऩ्ऱुञ्चॊल्लुगिऱ पक्षङ्गळ् शरण्यनुडैय गुणङ्गळैयुम् शरणागतियिनुडैय प्रभावत्तैयुञ् चॊल्लुगैक्कागवत्तनै.
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -733,8 +686,6 @@ __________
 Otherwise there would be no meaning in the continued tradition of the observance, by previous prapannas, of the code of conduct prescribed for the prapanna, in the śāstras which prescribe methods of atonement for sins in the case of prapannas, and in the texts which say that there will be delay in the attainment of mokṣa  for those who did not perform prapatti indicating the time when they wanted to have it and are also impatient of delay while sinning deliberately. 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 इप्पडिय् अल्लाद पोदु प्रपन्नरान पूर्वर्गळुडैय अनुष्ठानपरम्परैक्कुम् प्रपन्नरैप् पऱ्ऱवे प्रायश्चित्तम् विधिक्किऱ शास्त्रत्तुक्कुम् मोक्षम्बॆऱुगैक्कुक् कालङ् कुऱित्तु प्रपत्तिपण्णादे यनुवृत्तबुद्धिपूर्वापराधरुमाय् विळंबाक्षमरुमायिरुप्पार्क्कु विळंबञ्चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ्जेरादु. 
@@ -753,7 +704,6 @@ Otherwise there would be no meaning in the continued tradition of the observance
 
 Though it is said as a general statement, "I will release you from all sins", since it is qualified by a passage standing as a special case: "This atonement consists in the performance of prapatti once again", it is evident that the atonement for sins committed deliberately after prapatti is the performance of another prapatti.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -774,7 +724,6 @@ It cannot be argued that this passage prescribing another prapatti is only for t
 
 बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमागप् प्रपत्ति पण्णादार् विषयत्तिले नियमित्तालोव् ऎन्नवॊण्णादु
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -805,7 +754,6 @@ This argument would carry weight, only if there were an explicit statement that 
 If a man knows that the original prapatti may be made in such a way as to cover also future sins of a deliberate nature, there will be no one who will care to give up this easier method and thus the text prescribing a further prapatti will find none to adopt it. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इप्प्रपत्ति बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमॆऩ्ऱऱिन्दाल् इच्चॆट्टै विडुवारैयुङ्गिडैयामैयाले पुनःप्रपत्तिवचनम् निर्विषयमाम्.
@@ -826,7 +774,6 @@ A general statement cannot contradict a statement made for a special or specific
 
 सामान्यवचनत्तळवैप्पऱ्ऱि विशेषवचनत्तै बाधिक्क वॊण्णादु. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -890,12 +837,10 @@ It is evident from the authority of the following śloka  that those who are exc
 There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
  ऒरु पाबन्दाने जातिगुणाद्यधिकारभेदत्ताले गुरुलघुफलभेदवत्तायिरुक्कुमॆन्नुमिडम् सर्वसंप्रतिपन्नम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -907,13 +852,10 @@ There is general agreement also that the same sin will meet with either heavy or
 This is also consistent with what obtains in the world in cases like the offences committed by princes.
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 इव्वर्थम् राजपुत्रापराधादिगळिऱ्‌पोले लोकमर्यादैयालुमुपपन्नम्. 
 </details>
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
@@ -951,7 +893,6 @@ Therefore to avoid even this light punishment which would follow as the conseque
 आगैयालधिकारानुरूपमाग लघुफलमुम् वारामैक्काग पुनःप्रपदनम् विधिक्कप् पडुगिऱदु. 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिष्टतया व्यपदेश्यर् आऩ समर्थरुक्कु  
@@ -985,7 +926,6 @@ If it were not done, it would be a transgression of (the Lord's) command stated 
 अदु तविरुगैयुम् मुन् सॊन्न आज्ञातिलङ्घनमाम्. 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सैरन्ध्रिकैक्कु+++(=अन्तःपुर-सेविकैक्कु)+++ सेवै तप्पिन-पोदु  
@@ -999,12 +939,10 @@ If it were not done, it would be a transgression of (the Lord's) command stated 
 The violation of the command is injurious in two ways. When the waiting woman [woman attendant] is suspended from service, she loses what she obtains (from the service ) such as scents and has to experience also dread (of punishment).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सैरन्ध्रिकैक्कु सेवै तप्पिन-पोदु तादात्विकमान परिमळादिगळैयुमिऴन्दु भयानुभवमुमुण्डामाप्पोले आज्ञातिलङ्घनमिरण्डुप्पडियनर्थम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1021,13 +959,12 @@ It may (now) be asked :-"What if the original or first prapatti is made on one's
 स्वेच्छामात्रत्ताले बुद्धिपूर्वोत्तराघत्तैयुम् पऱ्ऱ वडियिले प्रपदनम् पण्णिनालोव् ऎन्निल्; 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु उपासनत्तैय् उम्  
 बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम्-आगप् पण्णिनालो  
 अङ्ग-प्रपत्तियुम् अदुक्कुच् चेरप् पण्णिनालोव्  
-ऎन्गिऱ प्रतिबन्धियाले निरस्तम्.
+ऎऩ्गिऱ प्रतिबन्धियाले निरस्तम्.
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -1037,13 +974,12 @@ This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is p
 
 <details><summary>मूलम्</summary>
 
-इदु उपासनत्तैयुम् बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमागप् पण्णिनालो अङ्गप्रपत्तियुमदुक्कुच् चेरप्पण्णिनालोव् ऎन्गिऱ प्रतिबन्धियाले निरस्तम्.
+इदु उपासनत्तैयुम् बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमागप् पण्णिनालो अङ्गप्रपत्तियुमदुक्कुच् चेरप्पण्णिनालोव् ऎऩ्गिऱ प्रतिबन्धियाले निरस्तम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इरुवरुक्कुम्+++(=इर्वरिगू)+++ इप्पडियाग् इडुव् ऎन्गै  
+इरुवरुक्कुम्+++(=इर्वरिगू)+++ इप्पडियाग् इडुव् ऎऩ्गै  
 भाष्यादि-विरुद्धम् आगैयाले अपसिद्धान्तम्. 
 </details>
 
@@ -1054,9 +990,8 @@ If it is stated that in these two cases (of counter-check) also, it may be held 
 
 <details><summary>मूलम्</summary>
 
-इरुवरुक्कुम् इप्पडियागिडुवॆन्गै भाष्यादिविरुद्धमागैयाले अपसिद्धान्तम्. 
+इरुवरुक्कुम् इप्पडियागिडुवॆऩ्गै भाष्यादिविरुद्धमागैयाले अपसिद्धान्तम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1070,18 +1005,16 @@ It is also opposed to the code of conduct observed by such (holy men ) as Ushast
 [^U]: Ushasti ate a morsel of cooked gram given by a mahout but refused to drink the water which was afterwards offered by him. He justified his action by saying that he ate the gram to avoid death by starvation, but refused the water because there was then no fear of death.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 उषस्ति-प्रभृतिगळान ब्रह्मनिष्ठर्गळुडैय अनुष्ठानत्तुक्कुम् विरुद्धम्.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाले विशेष-वचनम् इल्लामैयाले  
 “कृते पापेऽनुतापो वै”(विष्णुपुराणम् 2-6-40.) इत्यादिगळ् कणक्किले  
-"निमित्तम् उदित्तालल्लदु+++(=??)+++ नैमित्तिकम् प्राप्तम्" अऩ्ऱ् ऎन्गिऱ न्यायम्  
+"निमित्तम् उदित्तालल्लदु+++(=??)+++ नैमित्तिकम् प्राप्तम्" अऩ्ऱ् ऎऩ्गिऱ न्यायम्  
 बुद्धिपूर्वोत्तराघत्तिल् बाधितम् आगादु.
 </details>
 
@@ -1092,7 +1025,7 @@ There is no special ordinance to contradict the general statement that when a si
 
 <details><summary>मूलम्</summary>
 
-आगैयाले विशेषवचनमिल्लामैयाले “कृते पापेऽनुतापो वै”(विष्णुपुराणम् 2-6-40.) इत्यादिगळ् कणक्किले निमित्तमुदित्तालल्लदु नैमित्तिकम् प्राप्तमऩ्ऱॆन्गिऱ न्यायम् बुद्धिपूर्वोत्तराघत्तिल् बाधितमागादु.
+आगैयाले विशेषवचनमिल्लामैयाले “कृते पापेऽनुतापो वै”(विष्णुपुराणम् 2-6-40.) इत्यादिगळ् कणक्किले निमित्तमुदित्तालल्लदु नैमित्तिकम् प्राप्तमऩ्ऱॆऩ्गिऱ न्यायम् बुद्धिपूर्वोत्तराघत्तिल् बाधितमागादु.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1154,9 +1087,6 @@ It has also been said :- "The sins committed in previous births afflict a man (i
 “जन्मान्तरकृतं पापं व्याधिरूपेण बाधते । तच्छान्तिरौषधैर्दानैर्जपहोमार्चनादिभि”() रित्यादिगळिल् दानजपादिगळिलुमगप्पडप् प्रारब्धपापनाशञ् चॊल्लप्पट्टदिऱे.
 </details>
 
-
-
-
 <details open><summary >विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् पापारंभक-पापत्तुक्क् अञ्जि  
@@ -1168,7 +1098,6 @@ It has also been said :- "The sins committed in previous births afflict a man (i
 
 Therefore if a man performs prapatti in dread of the possibilities of future sins which might be caused by the sins of the past, these can be got rid of and no such future sin will be deliberately committed.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1188,14 +1117,10 @@ Therefore if a man performs prapatti in dread of the possibilities of future sin
 From such episodes as that of Sandili in which even Garuḍa who has been described in Aḷavandār's Stotra as Bhagavān's servant, friend, vehicle, seat and device on the banner, committed an offence against the righteous Sandili and had to undergo the evil consequences of it until he obtained pardon from her -- from such episodes, it is evident that even for those who are in immediate contact with Bhagavān, even slight offences against the righteous are productive of evil consequences. 
 </details>
 
-
-
-
 <details><summary>मूलम्</summary>
 
 “दासस्सखा वाहनमासनं ध्वज”(आळवन्दार् स्तोत्तिरम् 41.) इत्यादिगळिऱ्‌पडिये अत्यन्तभगवदन्तरङ्गर्क्कुम् सात्त्विकापराधलेशमुम् प्रत्यवायकरमॆन्नुमिडम् शाण्डिलीवृत्तान्तादिगळिले प्रसिद्धम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1242,7 +1167,6 @@ So, in order that one may not lose the grace of God and thereby incur the need f
 In general, the root cause of all offences is want of discrimination (aviveka). 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अपराधङ्गळॆल्लावऱ्ऱुक्कुमडि अविवेकम्. 
@@ -1284,8 +1208,6 @@ The sharp-edged saw that cuts off this want of discrimination is a clear knowled
 
 इव्व् अविवेगत्तैय् अऱुक्कैक्कुत् तॆळिवाळायिरुप्पदु एऱ्ऱच् चुरुक्कमऱत् तन्नळविलुण्डान तॆळिवु.
 </details>
-
-
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
@@ -1331,13 +1253,12 @@ or the performance of a further prapatti for the purpose.
 इवैय् ऎल्लात्तुक्कुम् अडि फलप्रदानोन्मुखमायिरुप्पदॊरु पूर्वाघमागैयाले अदिनुडैय निवृत्तिक्कुमाग वडियिले प्रपत्तिपण्णुदल् इदुक्कॆऩ्ऱु पिन्बॊरु प्रपत्तिपण्णुदल्, सॆय्दार्क्किवैयॆल्लाम् परिहृतङ्गळाम्.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि इवनुक्कु परिहरणीयङ्गळ् आऩ वऱ्ऱिल्+++(=??)+++  
 राज-दारापराधम् पोले भागवतापचारम् प्रधानम् ऎन्नुम् इडत्तै  
 “एवं मुक्ति-फलानियमस् तद्-अवस्थावधृतेस् तद्-अवस्थावधृतेः”(ब्रह्मसूत्रम्3-4-51)  
-ऎन्गिऱ सूत्रत्तिल् भाष्यकारर् अरुळिच् चॆय्दार्. 
+ऎऩ्गिऱ सूत्रत्तिल् भाष्यकारर् अरुळिच् चॆय्दार्. 
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -1358,11 +1279,9 @@ Of these sins which have to be atoned for, the Bhāṣyakāra (Śrī Rāmānuja)
 )
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
-इप्पडि इवनुक्कु परिहरणीयङ्गळानवऱ्ऱिल् राजदारापराधम् पोले भागवतापचारम् प्रधानमॆन्नुमिडत्तै “एवं मुक्तिफलानियमस्तदवस्थावधृतेस्तदवस्थावधृतेः”(ब्रह्मसूत्रम्3-4-51) ऎन्गिऱ सूत्रत्तिल् भाष्यकारररुळिच्चॆय्दार्.
+इप्पडि इवनुक्कु परिहरणीयङ्गळानवऱ्ऱिल् राजदारापराधम् पोले भागवतापचारम् प्रधानमॆन्नुमिडत्तै “एवं मुक्तिफलानियमस्तदवस्थावधृतेस्तदवस्थावधृतेः”(ब्रह्मसूत्रम्3-4-51) ऎऩ्गिऱ सूत्रत्तिल् भाष्यकारररुळिच्चॆय्दार्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1396,12 +1315,11 @@ Such points of excellence and inferiority, which are likely to cause envy, shoul
 आऩ पिन्बु जातिगुणवृत्तादिगळाले उत्कृष्टरान पराशरव्यासशुकशौनकनाथमुनिप्रभृतिगळुक्कुम् तनक्कुम् भागवतत्वादिगळुम् परमपुरुषार्थलाभमुम् तुल्यमायिरुन्दालुम् भगवत्परिग्रहमान गोगोपजातिगळुडैयवुम् तुळसीचंपकादिगळुडैयवुम् गोमयमृगमदादिगळुडैयवुम् वैषम्यम्पोले भगवत्सङ्कल्पविशेषप्रयुक्तमान तत्तदुपाधिस्वभावत्ताले सिद्धङ्गळान उत्कर्षापकर्षङ्गळै असूयाप्रादुर्भावप्रकरणत्तिला म्नातमानप्पडिये तिरस्करिक्क निनैयादॊऴियवुम्
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जात्याद्य्-उपाधिगळाले भागवतर् तिऱत्तिल्+++(=स्तरे)+++  
 “अनुज्ञा-परिहारौ देह-संबन्धाज् ज्योतिर्+++(→अग्नि)+++-आदिवत्”(ब्रह्मसूत्रम्2-3-47)  
-ऎन्गिऱ न्यायत्ताले  
+ऎऩ्गिऱ न्यायत्ताले  
 प्रवृत्ति-निवृत्ति-विशेषङ्गळुक्कु यथा-शास्त्रं नियमम् उण्डानालुम्
 </details>
 
@@ -1419,9 +1337,8 @@ In spite of these ordinances, we should also consider such passages as the follo
 
 <details><summary>मूलम्</summary>
 
-जात्याद्युपाधिगळाले भागवतर् तिऱत्तिल् “अनुज्ञापरिहारौ देहसंबन्धाज्ज्योतिरादिवत्”(ब्रह्मसूत्रम्2-3-47) ऎन्गिऱ न्यायत्ताले प्रवृत्तिनिवृत्तिविशेषङ्गळुक्कु यथाशास्त्रं नियममुण्डानालुम्
+जात्याद्युपाधिगळाले भागवतर् तिऱत्तिल् “अनुज्ञापरिहारौ देहसंबन्धाज्ज्योतिरादिवत्”(ब्रह्मसूत्रम्2-3-47) ऎऩ्गिऱ न्यायत्ताले प्रवृत्तिनिवृत्तिविशेषङ्गळुक्कु यथाशास्त्रं नियममुण्डानालुम्
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1440,7 +1357,6 @@ In spite of these ordinances, we should also consider such passages as the follo
 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “स्मृतस् संभाषितोऽपि वा”(इतिहाससमुच्चयः 31-55) ऎऩ्ऱुम्,  
@@ -1455,7 +1371,6 @@ In spite of these ordinances, we should also consider such passages as the follo
 
 “स्मृतस्संभाषितोऽपि वा”(इतिहाससमुच्चयः 31-55) ऎऩ्ऱुम्,  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1478,7 +1393,6 @@ In spite of these ordinances, we should also consider such passages as the follo
 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “तस्माद्विष्णु-प्रसादाय  
@@ -1498,14 +1412,13 @@ In spite of these ordinances, we should also consider such passages as the follo
 “तस्माद्विष्णुप्रसादाय वैष्णवान् परितोषयेत् । प्रसादसुमुखो विष्णुस्तेनैव स्यान्न संशयः”(इतिहाससमुच्चयः 27-27.) ऎऩ्ऱुम्,
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पयिलुञ्+++(=अभ्यस्त-वाक्)+++ जुडर् ऒळि,  
 नॆडुमाऱ्+++(=विष्णोः)+++ कडिमैगळिलुम्+++(=अल्पेष्व् अपि)+++ विशेषित्तप् पडिये+++(=प्रकारेण)+++ प्रतिपत्तियिल् कुऱैय् अऱ्ऱ् इरुक्कवुम्,  
 इप् प्रपत्ति-मात्रत्तालुम्  
 “तस्येदम् इति धी-हेतुर् अप्य् उपकारी”()  
-ऎन्गिऱप् पडिये+++(=प्रकारेण)+++ परिपूर्ण-विषयत्तिल्  
+ऎऩ्गिऱप् पडिये+++(=प्रकारेण)+++ परिपूर्ण-विषयत्तिल्  
 शेषत्वाचित-किञ्चित्-कारम् आऩ कैङ्कर्यम् सिद्धम् ऎऩ्ऱ् इरुक्कवुम्. 
 </details>
 
@@ -1516,15 +1429,14 @@ So also has it been said (by the Alwar) that those who are the devoted servants 
 
 <details><summary>मूलम्</summary>
 
-पयिलुञ्जुडरॊळि, नॆडुमाऱ्‌ कडिमैगळिलुम् विशेषित्तप्पडिये प्रतिपत्तियिल् कुऱैयऱ्ऱिरुक्कवुम्, इप्प्रपत्तिमात्रत्तालुम् “तस्येदमिति धीहेतुरप्युपकारी”() ऎन्गिऱप्पडिये परिपूर्णविषयत्तिल् शेषत्वाचितकिञ्चित्कारमान कैङ्कर्यम् सिद्धमॆऩ्ऱिरुक्कवुम्. 
+पयिलुञ्जुडरॊळि, नॆडुमाऱ्‌ कडिमैगळिलुम् विशेषित्तप्पडिये प्रतिपत्तियिल् कुऱैयऱ्ऱिरुक्कवुम्, इप्प्रपत्तिमात्रत्तालुम् “तस्येदमिति धीहेतुरप्युपकारी”() ऎऩ्गिऱप्पडिये परिपूर्णविषयत्तिल् शेषत्वाचितकिञ्चित्कारमान कैङ्कर्यम् सिद्धमॆऩ्ऱिरुक्कवुम्. 
 </details>
-
 
 In the same way it is our duty not to fail in reverence towards the Lord's servants. Even if there is only this mental reverence, it would amount to the śeṣa's service to the Lord who is perfect and self-sufficient. The thought that " This man is of the Lord” is itself capable of doing good. If there is any deviation from this path, one should tremble in fear as if one has entered into the jaws of Death, as it has been said: Whatever is crooked (in conduct) leads to death ( saṁsāra): whatever is straight leads to the attainment of Brahman". (When there has been such deviation from right conduct) one should at once beg pardon of these devoted servants of the Lord as exemplified in the following: " Since  you have offended, I see no other atonement for you than to be Lakṣmaṇa's pardon, with folded hands", and again "If I have offended you in any way, either on account of overconfidence or love, this fault of your servant should be pardoned by you: There is no one who is above committing an offence", and further, "The harsh words that I uttered to you after hearing the speech of Rāma who is overwhelmed with grief - these words should be forgiven by you". We should reflect on the manner in which Sugrīva, the great king, and Lakṣmaṇa apologise to each other in these śloka s and we should get reconciled to the devotees of the Lord (whom we have offended), as if the split that occurred has been glued up without any trace of its being seen.
 
 Even if one who knows the tattva has deliberately entered on a course of conduct unfavourable (to the Lord), the Supreme Ruler will pardon him, if he performs prapatti subsequently. This may be seen from the following episode :- When Brahma saw Rudra in Badarikāśrama aiming his arrow at Bhagavān who had incarnated as the son of Dharma, he explained matters to Rudra and stopped him from the fight. Rudra  then apologised to Nārāyaṇa  who was his Lord to win His favour. He also performed prapatti to Hari, the Creator of the World, The Supreme Ruler, the giver of boons, became gracious, controlled His anger, became pleased and associated there with Rudra".
 
-Whether a man has offended Bhāgavatas (in this life) or whether some Bhāgavatas hate him owing to his wicked deeds in past lives though he has committed no offence in this life, he should obtain the pardon of Bhagavān by obtaining the pardon of such Bhāgavatas by some means or other : This is evident in the passage which describes the characteristics of a ŚrīVaiṣṇava : "He is a devotee of Viṣṇu who, on hearing harsh words uttered by a Bhāgavata, prostrates before him and begs his pardon." If a man does not do so, he will pass beyond the reach of the grace of the Lord and will lose also what is essential to his nature as a Viṣṇu bhakta, namely, his being a śeṣa to Bhāgavatas and, likewise, his qualities of self-restraint and patience; for it has been said :-“Those who are Brahmins (Bhāgavatas absorbed in the contemplations of Brahman) they are myself. There is no doubt about this O, King; when they are adored, I am adored; when they are pleased, I am also pleased. He who hates them hates me also." "Though the Brahmana strikes him, curses him and utters cruel words to him, he who does not bow to him as I did (to Bhrigu) - he is a sinner. He will be consumed by the wild fire of the Brahmin's anger. He deserves to be killed and punished. He is not mine." To lose these (his being a śeṣa to Bhāgavatas and his self-restraint and patience) is itself, in his case, being killed and punished. Thondaradippodi Alwar [ That is why he calls himself Tondaradippodi, The Dust at the Feet of the Devotecs'.] , who realised and enjoyed his relationship of being a śeṣa to Bhāgavatas, which he considered as his distinctive feature, has described how miserable it is to be outside the pale of the Lord's grace as follows:- "My Lord has not said: “ This is a lad deserving of my affection". How wicked are my sins!"
+Whether a man has offended Bhāgavatas (in this life) or whether some Bhāgavatas hate him owing to his wicked deeds in past lives though he has committed no offence in this life, he should obtain the pardon of Bhagavān by obtaining the pardon of such Bhāgavatas by some means or other : This is evident in the passage which describes the characteristics of a ŚrīVaiṣṇava : "He is a devotee of Viṣṇu who, on hearing harsh words uttered by a Bhāgavata, prostrates before him and begs his pardon." If a man does not do so, he will pass beyond the reach of the grace of the Lord and will lose also what is essential to his nature as a Viṣṇu bhakta, namely, his being a śeṣa to Bhāgavatas and, likewise, his qualities of self-restraint and patience; for it has been said :-“Those who are Brahmins (Bhāgavatas absorbed in the contemplations of Brahman) they are myself. There is no doubt about this O, King; when they are adored, I am adored; when they are pleased, I am also pleased. He who hates them hates me also." "Though the Brahmana strikes him, curses him and utters cruel words to him, he who does not bow to him as I did (to Bhrigu) - he is a sinner. He will be consumed by the wild fire of the Brahmin's anger. He deserves to be killed and punished. He is not mine." To lose these (his being a śeṣa to Bhāgavatas and his self-restraint and patience) is itself, in his case, being killed and punished. Thondaradippodi Alwar [ That is why he calls himself Tondaradippodi, The Dust at the Feet of the Devotecś.] , who realised and enjoyed his relationship of being a śeṣa to Bhāgavatas, which he considered as his distinctive feature, has described how miserable it is to be outside the pale of the Lord's grace as follows:- "My Lord has not said: “ This is a lad deserving of my affection". How wicked are my sins!"
 
 The word Brahmin occurring in these ślokas has a special significance, as has been said in the śloka : "He who knows, aright, the truth concerning Bhagavān, who is called Viṣṇu  that measured the world ( with His feet) and is also called Vāsudeva he becomes a Brahmin". Even if it is used in its general sense, since the offence to the Brahmin is condemned, much more worthy of condemnation would be the offence to a Bhāgavata or devotee of Bhagavān.
 

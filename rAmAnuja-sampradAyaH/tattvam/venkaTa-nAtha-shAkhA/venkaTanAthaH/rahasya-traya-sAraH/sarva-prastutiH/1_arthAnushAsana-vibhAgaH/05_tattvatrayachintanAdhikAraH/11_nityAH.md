@@ -26,7 +26,6 @@ is without any beginning
 and also their absolute dependence (on the Lord)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नित्यरुक्कु नीक्कियुळ्ळारिल् भेदम् अनाद्याविर्भूतस्वरूपराय् परतन्त्ररायिरुक्कै.  
@@ -55,10 +54,9 @@ their enjoyment of the [^es146] śeṣī  is beginningless.
 [^es146]: “ Instead of śeṣī  the author's use of the word seshitatva is to include Śrī or Lakṣmī  also as śeṣī ". Chetlur commentary.  *
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इवर्गळुक्कु नीक्कियुळ्ळारिऱ्‌काट्टिल् स्थितिभेदम् अनाद्यनुवृत्तमान शेषितत्त्वानुभवम्.
+इवर्गळुक्कु नीक्कियुळ्ळारिऱ्‌काट्टिल् स्थितिभेदम् अनाद्यनुवृत्तमाऩ शेषितत्त्वानुभवम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -80,7 +78,6 @@ Since this is common to all nityas,
 there is no mutual difference  
 between their respective states of continuous existence in time. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -110,8 +107,8 @@ specific kinds of service to the Lord from beginningless time
 which, though different, yet form a continuous stream of service. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इवर्गळुक्कुप् प्रवृत्तिभेदम् अनादिप्रवाहनित्यङ्गळान कैङ्कर्यविशेषङ्गळ्.
+इवर्गळुक्कुप् प्रवृत्तिभेदम् अनादिप्रवाहनित्यङ्गळाऩ कैङ्कर्यविशेषङ्गळ्.
 </details>
+

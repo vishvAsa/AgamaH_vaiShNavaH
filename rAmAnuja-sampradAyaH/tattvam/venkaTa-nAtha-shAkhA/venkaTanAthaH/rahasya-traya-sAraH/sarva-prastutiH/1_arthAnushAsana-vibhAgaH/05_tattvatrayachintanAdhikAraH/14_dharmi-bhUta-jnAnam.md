@@ -20,12 +20,10 @@ The essential nature (svarūpa) of all ātmās, jīvās as well as Iśvara,
 is being selfluminous to oneself.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-जीवेश्वररूपरान आत्माक्कळॆल्लारुडैयवुम् स्वरूपम् स्वस्मै स्वयंप्रकाशम्.
+जीवेश्वररूपराऩ आत्माक्कळॆल्लारुडैयवुम् स्वरूपम् स्वस्मै स्वयंप्रकाशम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -48,8 +46,8 @@ even in the case of those in bondage,
 no contraction or expansion at any time. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इद्धर्मिस्वरूपप्रकाशत्तुक्कु बद्धरुक्कुमुळ्बड वॊरुगालत्तिलुम् सङ्कोचविकासङ्गळिल्लै.
 </details>
+

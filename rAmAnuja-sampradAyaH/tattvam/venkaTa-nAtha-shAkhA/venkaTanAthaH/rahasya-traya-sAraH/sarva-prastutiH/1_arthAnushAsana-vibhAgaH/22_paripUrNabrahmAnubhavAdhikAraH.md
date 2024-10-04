@@ -170,7 +170,6 @@ End of the Part which forms the Exposition
 
 of Doctrine.
 
-
 PART II
 
 The Discussion and clarification of Doubts

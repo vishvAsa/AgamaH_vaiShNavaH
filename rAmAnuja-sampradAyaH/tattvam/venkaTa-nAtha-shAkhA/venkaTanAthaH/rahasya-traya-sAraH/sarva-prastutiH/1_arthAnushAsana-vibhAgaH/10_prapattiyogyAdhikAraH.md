@@ -7,14 +7,23 @@ title = "१० प्रपत्तियोग्याधिकारः"
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे प्रपत्तियोग्याधिकारः ॥ १० ॥
 
+<details><summary>English</summary>
+
 (10) THE CHAPTER ON FITNESS FOR PRAPATTI. page170
+</details>
+
+<details><summary>Español</summary>
+
+(10) THE CHAPTER ON FITNESS FOR PRAPATTI. page170
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अर्थित्वेन समर्थता त्रिकतनुस्संपिण्डिताधिक्रिया  
-सा चाष्टाङ्गषडङ्गयोगनियतावस्था व्यवस्थापिता ।  
-श्रौती सर्वशरण्यता भगवतः स्मृत्याऽपि सत्यापिता  
-सत्यादिष्विव नैगमेष्वधिकृतिस्सर्वास्पदे सत्पथे ॥ २४ ॥
+अर्थित्वेन समर्थता, त्रिक-तनुस् संपिण्डिताऽधिक्रिया  
+सा चाष्टाङ्ग--षड्-अङ्ग-योग-नियताऽवस्था **व्यवस्थापिता** ।  
+श्रौती सर्व-शरण्यता, भगवतः स्मृत्याऽपि **सत्यापिता**  
+सत्यादिष्व् इव नैगमेष्व् अधिकृतिस् सर्वास्पदे सत्-पथे ॥ २४ ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
@@ -25,9 +34,16 @@ title = "१० प्रपत्तियोग्याधिकारः"
 सत्यादिष्विव नैगमेष्वधिकृतिस्सर्वास्पदे सत्पथे ॥ २४ ॥
 </details>
 
-Fitness (for Bhakti or Prapatti) consists in a combination of desire (for the fruits of a course of action and of ability which is threefold[^50] . This fitness of man is differentiated as consisting in conditions prescribed for the yoga of eight aṅgas or auxiliaries (bhakti yoga) and for the yoga of six aṅgas or auxiliaries (prapatti). That Bhagavān is the refuge or Saviour of all has been declared in the śruti  and confirmed in the smṛtis। In adopting this righteous path viz., prapatti, there is competence for all as in the matter of speaking the truth and such other injunctions as are ordained in the Vedas (for all men , without any difference of caste or āśrama).
+Fitness (for Bhakti or Prapatti) consists in a combination of desire (for the fruits of a course of action)  
+and of ability which is threefold[^50] .  
+This fitness of man is differentiated as consisting in conditions prescribed for the yoga of eight aṅgas or auxiliaries (bhakti yoga) and for the yoga of six aṅgas or auxiliaries (prapatti). That Bhagavān is the refuge or Saviour of all has been declared in the śruti  and confirmed in the smṛtis। In adopting this righteous path viz., prapatti, there is competence for all as in the matter of speaking the truth and such other injunctions as are ordained in the Vedas (for all men , without any difference of caste or āśrama).
 
-[^50]: 1: Ability which is threefold - The ability to understand the meaning of śāstra s: the ability to perform what is ordained in them and the competence as laid down in the śāstra s according to caste, qualities and the like.
+[^50]: 
+
+    Ability which is threefold -  
+    The ability to understand the meaning of śāstras  
+    the ability to perform what is ordained in them   
+    and the competence as laid down in the śāstras according to caste, qualities and the like.
 
 (Those who are not of the three higher castes are prohibited from the performance of certain rites and duties ordained in the śruti s, but this prohibition does not apply to such injunctions as "speak the truth ", and " look upon your mother as divine" etc. which are also ordained in the Vedas. So also prapatti, though prescribed in the Vedas, is open to all castes ).
 

@@ -31,7 +31,7 @@ AND HAS ATTAINED HIS GOAL:
 
 Therefore when he has to pronounce their names in the performance of *such compulsory and regularly recurrent and occasional rites as the five great yajnas (pañcamaha yajnas), he would realise that these names refer really to Iśvara (Bhagavān) etymologically: as has been stated by the sages in passages like :-" Those who worship the pitṛs (the spirits of their fore-fathers), the gods, the Brahmins and Agni - they (in reality) worship only Viṣṇu , who is the Inner Self of all beings." When the king's servants place a garland and a jewel on the coat worn by the king, their object is not to please the coat but to gain the favour of the king.
 
-The same idea has been expressed in such places as the chapter called Yajnagrahara in the Mahābhārata   (Ch. 349 Śānti Parva:"The Great Padmanabha receives the quintessences of all the offerings made in sacrifices" and when the gods asked Brahma who was performing a sacrifice to Bhagavān he replied: "Neither by me nor by any one else who wants to cross the sea of saṁsāra are you adored with sacrifices. It is only Bhagavān who receives our offerings”)[The idea is that Prajāpati, Pasupati. Agni and others are only like the coat of a king and that, within them, there is the Inner Ruler, Immortal, who alone is Parameśvara or the Supreme Ruler.] and in Hastigiri Māhātmya. In the Brahma Sūtras also (1-2-29), it is said : "Since words like Agni refer directly also to Brahman, Jaimini is of the opinion that there is nothing unreasonable in it". Such words as gods and pitṛs have no connection with the coats called gods and pitṛs and by the full significance contained in their parts (i.e.) etymology or derivation, they stand for Iśvara (Bhagavān), in the same way as words like Nārāyaṇa  do. In pronouncing such words (Prajāpati, Pasupati, Agni), the prapanna would realise that there is no violation of his sole and exclusive devotion to Bhagavān, in the same way as, when the pure Sacrificers (s'uddhayaji) who live in Swetadvipa pronounce the word Nārāyaṇa  (Nārānam ayanam), they do not go against their exclusive devotion to Bhagavān by using the word Nāra. Bhagavān has willed to accept him as His servant to render service in accordance with his varṇa, āśrama, occasions (like the birth of a child) and qualities (like being a Vaiṣṇava). Therefore by service to Him who is the Ruler and the śeṣī-service which consists in obedient performance of His commands and permissions as understood from the Śāstras, the prapanna would do his little bit of service like the freed souls who understand the mind of the Lord by direct perception and be like the muktas; he would be extolled, according to the śāstra s and those who stand by them, as one who, by the completion of the upāya (prapatti), has done his duty and who, by the completion of his aim in life, has attained satisfaction.
+The same idea has been expressed in such places as the chapter called Yajnagrahara in the Mahābhārata   (Ch. 349 Śānti Parva:"The Great Padmanabha receives the quintessences of all the offerings made in sacrifices" and when the gods asked Brahma who was performing a sacrifice to Bhagavān he replied: "Neither by me nor by any one else who wants to cross the sea of saṁsāra are you adored with sacrifices. It is only Bhagavān who receives our offerings”)[The idea is that Prajāpati, Pasupati. Agni and others are only like the coat of a king and that, within them, there is the Inner Ruler, Immortal, who alone is Parameśvara or the Supreme Ruler.] and in Hastigiri Māhātmya. In the Brahma Sūtras also (1-2-29), it is said : "Since words like Agni refer directly also to Brahman, Jaimini is of the opinion that there is nothing unreasonable in it". Such words as gods and pitṛs have no connection with the coats called gods and pitṛs and by the full significance contained in their parts (i.e.) etymology or derivation, they stand for Iśvara (Bhagavān), in the same way as words like Nārāyaṇa  do. In pronouncing such words (Prajāpati, Pasupati, Agni), the prapanna would realise that there is no violation of his sole and exclusive devotion to Bhagavān, in the same way as, when the pure Sacrificers (śuddhayaji) who live in Swetadvipa pronounce the word Nārāyaṇa  (Nārānam ayanam), they do not go against their exclusive devotion to Bhagavān by using the word Nāra. Bhagavān has willed to accept him as His servant to render service in accordance with his varṇa, āśrama, occasions (like the birth of a child) and qualities (like being a Vaiṣṇava). Therefore by service to Him who is the Ruler and the śeṣī-service which consists in obedient performance of His commands and permissions as understood from the Śāstras, the prapanna would do his little bit of service like the freed souls who understand the mind of the Lord by direct perception and be like the muktas; he would be extolled, according to the śāstra s and those who stand by them, as one who, by the completion of the upāya (prapatti), has done his duty and who, by the completion of his aim in life, has attained satisfaction.
 
 Śrī Rāmānuja has conclusively described the prapanna's reflection on his satisfactory fulfilment of his duty thus in his Śaraṇāgati Gadya :-"Therefore rest happy in the assurance free from all doubt that you will know me, see me, and attain me As I truly am". This is what it means:-"We were wandering in saṁsāra owing to Bhagavān's punishment inflicted on us for transgressing His commands from beginningless time. By the compassion of Bhagavān ever waiting for an opportunity (to save us), we came into the reach of the kind glances of our good ācārya s and by repeating after them their utterance of Dvaya, we have completed our prapatti. There is no further means needed for obtaining the Saviour. Therefore He will pardon (all the sins) which were the cause of the punishment. The Lord of Śrī(Lakṣmī ) who is the śeṣī  of all and who is capable of purifying His devotees and obtaining their service, will, for His own glory, protect us. With this faith, the prapanna would be free from all care or anxiety or responsibility." (This is the purport of ŚrīRāmānuja's words in the Gadya). This idea is the conclusive meaning which is surely contained also in the Saviour's words "Do not grieve" (in the carama śloka).
 
@@ -43,13 +43,13 @@ Since one of the qualifications for the performance of prapatti, is sorrow or gr
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वान्गरुत्तोर्  
+मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वाऩ्गरुत्तोर्  
 अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वान्गरुत्तोर्  
+मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वाऩ्गरुत्तोर्  
 अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
 </details>
 
@@ -58,7 +58,9 @@ Since one of the qualifications for the performance of prapatti, is sorrow or gr
 
 Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken into His protection after endeavouring for a long time to find out what boon He should confer on those who loved Him. They are like kings and gods (to us), for they have, ever in their minds, the abode of the Lord of the eternal suris and they are like Paramahamsas, because they have completed all rites that have to be performed, (or like swans in their purity or in their capacity to separate the essential from the non-essential).
 
-140 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+140 
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 भगवति हरौ पारं गन्तुं भरन्यसनं कृतं  
 परिमितसुखप्राप्त्यै कृत्यं प्रहीणमकृत्यवत् ।  
@@ -77,8 +79,6 @@ Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken 
 Bharanyāsa (or the surrender of the responsibility of protection) has been made (at the feet of) Bhagavān (Hari) for reaching beyond saṁsāra. So also actions that can produce only limited pleasures have been given up just like forbidden actions. The sustenance of the body will continue in accordance with past karma (which has begun to operate). So nothing needs to be done for it. Thereafter (i.e) after prapatti the bounds[^54] * imposed by the Lord's command are scrupulously observed by wise men, (merely because it is the Lord's command.)
 
 [^54]: This means that the nitya and naimittika karmas which are ordained by the Lord in the śāstra s have still to be performed after prapatti, as, otherwise, there would be transgression of His command.
-
-
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  

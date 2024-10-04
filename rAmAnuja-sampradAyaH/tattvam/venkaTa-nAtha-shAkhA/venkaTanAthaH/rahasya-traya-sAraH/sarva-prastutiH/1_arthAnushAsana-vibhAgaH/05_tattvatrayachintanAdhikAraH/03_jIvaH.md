@@ -27,7 +27,6 @@ Ahora para el sujeto experimentado o Jīva:
 "El Jivātma no es [^f139] ni un dios ni un hombre";
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “पुमान्न देवो न नरः” (वि-पु. 2-13-98.),
@@ -51,7 +50,6 @@ Ahora para el sujeto experimentado o Jīva:
 mientras que el alma dentro  
 no tiene tales distinciones).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -93,7 +91,6 @@ ya no está sujeto a cambios
 y se llama Akṣara o Kootastha (porque es imputable).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “क्षरस्सर्वाणि भूतानि कुटस्थोऽक्षर उच्यते” (गीता 15-16)
@@ -117,7 +114,6 @@ son los Sūris [^F142]
 que se describen como viendo eternamente  
 el mundo trascendental más allá de la materia.
 </details>
-
 
 <details><summary>मूलम्</summary>
 

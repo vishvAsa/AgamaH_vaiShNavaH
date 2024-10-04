@@ -18,7 +18,6 @@ page 91
 Eso debería ser conocido por cada buscador después de la salvación.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 +++(ॐ, नारायण [←नारः ←न रिष्यत इति नरः ब्रह्म] →)+++ अ+आदौ _प्राप्यं_ परमम् अनघं, _प्राप्तृ_-रूपं च म्-आदौ +++("नरः जीवः → नार" इत्यत्र च)+++,  
@@ -81,7 +80,6 @@ Será considerado por todos como alguien que lo sabe todo.
 
 </details>
 
-
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 आदौ प्राप्यं परममनघं प्राप्तृरूपं च मादौ  
@@ -105,7 +103,6 @@ No hay diferencia real entre
 Los que hablan de cinco cosas  
 Y los que hablan de seis.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -135,12 +132,10 @@ que deberían ser conocidas por todos
 los que desean mokṣa.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-नारायणादिशब्दङ्गळिले विवक्षितमान संबन्धविशेषत्तै सिद्धान्तत्तुक्कुत् तळमाक्कि इत्तै अनुबन्धित्तिरुक्कुम् अर्थपञ्चकत्तै सिलर् विचारित्तार्गळ्.
+नारायणादिशब्दङ्गळिले विवक्षितमाऩ संबन्धविशेषत्तै सिद्धान्तत्तुक्कुत् तळमाक्कि इत्तै अनुबन्धित्तिरुक्कुम् अर्थपञ्चकत्तै सिलर् विचारित्तार्गळ्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -168,7 +163,7 @@ y, por lo tanto, hablaron de las seis cosas a conocer.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इस् संबन्धम् पोल् ए  
-मुमुक्षुवुक्कु विशेषित्त् अऱिय वेण्डुवद् आगच् शेर्त्त+++(←प्रेरणार्थरूपम्)+++ अर्थ-पञ्चकम् ऎद् ऎन्निल् …
+मुमुक्षुवुक्कु विशेषित्त् अऱिय वेण्डुवद् आगच् शेर्त्त+++(←प्रेरणार्थरूपम्)+++ अर्थ-पञ्चकम् ऎद् ऎऩ्ऩिल् …
 </details>
 
 <details><summary>English</summary>
@@ -189,10 +184,9 @@ junto con la relación en sí,
 La respuesta es la siguiente:
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इस् संबन्धम्पोले मुमुक्षुवुक्कु विशेषित्तऱिय वेण्डुवदागच् चेर्त्त अर्थपञ्चकम् ऎदॆन्निल्
+इस् संबन्धम्पोले मुमुक्षुवुक्कु विशेषित्तऱिय वेण्डुवदागच् चेर्त्त अर्थपञ्चकम् ऎदॆऩ्ऩिल्
 </details>
 
 ### हारित-स्मृतिः
@@ -207,7 +201,7 @@ La respuesta es la siguiente:
 > 
 > (हारीतसंहितै) 
 
-ऎऩ्ऱु सॊल्लप्-पट्टन.  
+ऎऩ्ऱु सॊल्लप्-पट्टऩ.  
 </details>
 
 <details><summary>English</summary>
@@ -233,12 +227,10 @@ La respuesta es la siguiente:
 > Todos los Vedas con sus (elucidatorios) Itihāsās y Purānās hablan de estos cinco ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “प्राप्यस्य ब्रह्मणो रूपं प्राप्तुश्च प्रत्यगात्मनः । प्राप्त्युपायं फलं चैव तथा प्राप्तिविरोधि च ॥ वदन्ति सकला वेदास्सेतिहासपुराणकाः ॥”(हारीतसंहितै) ऎऩ्ऱु सॊल्लप्पट्टन.  
 </details>
-
 
 ## प्राप्यम्
 <details><summary>English</summary>
@@ -251,14 +243,13 @@ BRAHMAN, THE END TO BE ATTAINED:
 Brahman, el final a alcanzar:
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवऱ्ऱिल् प्राप्यमान ब्रह्मत्तिन्-उडैय स्वरूपम्  
+इवऱ्ऱिल् प्राप्यमाऩ ब्रह्मत्तिऩ्-उडैय स्वरूपम्  
 तिरुमन्त्रत्तिल् प्रथमाक्षरत्तिल् +++(→अकारतः)+++ उम्  
 नारायण-शब्दत्तिल् उम्,  
 द्वयत्तिल् +++("श्रीमन्" इति)+++ स-विशेषणङ्गळ् आऩ नारायण शब्दङ्गळिल् उम्,  
-चरम-श्लोकत्तिल् ‘माम्’ ‘अहम्’ ऎन्गिऱ पदङ्गळिल् उम् अनुसन्धेयम्.
+चरम-श्लोकत्तिल् ‘माम्’ ‘अहम्’ ऎऩ्गिऱ पदङ्गळिल् उम् अनुसन्धेयम्.
 </details>
 
 <details><summary>English</summary>
@@ -283,14 +274,12 @@ y en las palabras 'mi' y 'yo' ocurriendo en el carama Śloka.
 Es de esta manera que deben ser considerados.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इवऱ्ऱिल् प्राप्यमान ब्रह्मत्तिनुडैय स्वरूपम् तिरुमन्त्रत्तिल् प्रथमाक्षरत्तिलुम् नारायणशब्दत्तिलुम्, 
-द्वयत्तिल् सविशेषणङ्गळान नारायण शब्दङ्गळिलुम्,  
-चरमश्लोकत्तिल् ‘माम्’ ‘अहम्’ ऎन्गिऱ पदङ्गळिलुमनुसन्धेयम्.
+इवऱ्ऱिल् प्राप्यमाऩ ब्रह्मत्तिनुडैय स्वरूपम् तिरुमन्त्रत्तिल् प्रथमाक्षरत्तिलुम् नारायणशब्दत्तिलुम्, 
+द्वयत्तिल् सविशेषणङ्गळाऩ नारायण शब्दङ्गळिलुम्,  
+चरमश्लोकत्तिल् ‘माम्’ ‘अहम्’ ऎऩ्गिऱ पदङ्गळिलुमनुसन्धेयम्.
 </details>
-
 
 ### श्री-साहित्यम्
 
@@ -345,7 +334,6 @@ En Vaikuṇṭha, el mundo más allá "
 (Aquí la referencia es al Señor Supremo ("para") en Vaikuṇṭha.)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “श्रिया सार्धं जगत्पतिः” (लैङ्ग पुराणम्)
@@ -374,7 +362,6 @@ Ahora ha venido a la ciudad de Madhura
 dejando su cama (adiśeṣa) "  
 (La referencia está aquí al Vyūha)
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -407,12 +394,10 @@ y eres omnipresente ".
 (La referencia es a Vibhava o Avatāra.)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “भवान्नारायणो देवः श्रीमांश्चक्रधरो विभुः”(रामायणम् युद्धकाण्डम् 120-13)  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -430,7 +415,6 @@ y eres omnipresente ".
 "Bhagavān tiene el topo [^f58], Śrīvatsa, en su pecho  
 y Śrī está con él eternamente".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -479,7 +463,6 @@ en presencia de Sītā".
 (Aquí Śrī se indica como Purushakāra).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “सीतासमक्षं काकुत्स्थमिदं वचनमब्रवीत्” (रामायणम् अरण्यकाण्डम् 15-6.)  
@@ -508,12 +491,10 @@ y a Rāma que tenía el gran voto (de proteger a sus suplicantes) ".
 (Aquí Śrī está indicado en el estado de que sea el upāya).  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “सीतामुवाचातियशा राघवं च महाव्रतम्” (रामायणम् अयोध्या 31-2)  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -538,7 +519,6 @@ a esta gran cantidad de rākṣasis de (la ira de) raghava".
 Śrī se indica como el upāya)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “अलमेषा परित्रातुं राघवाद्राक्षसीगणम्” (रामायणम् सुन्दरकाण्डम् 58-87)
@@ -557,7 +537,6 @@ a esta gran cantidad de rākṣasis de (la ira de) raghava".
 "अभयं सर्वभूतेभ्यो ददामी"ति राम-वचनं सीतयैवाधिकं पालितम्।
 </details>
 
-
 <details><summary>English</summary>
 
 "I will be [^f63] your protector"  
@@ -569,7 +548,6 @@ a esta gran cantidad de rākṣasis de (la ira de) raghava".
 "Seré [^f63] tu protector"  
 (Palabras de Sītā al rākṣasis).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -599,7 +577,6 @@ te brindaré el servicio" (dice Lakṣmaṇa):
 (Aquí está la oración por la fruta, a saber, Kaiṅkarya).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “भवांस्तु सह वैदेह्या” (रामायणम् अयोध्या 31-27) 
@@ -619,7 +596,6 @@ te brindaré el servicio" (dice Lakṣmaṇa):
 
 "Él está [^f65] sentado en la serpiente Ananta (Śeṣa), junto con ella (Lakṣmī)";
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -643,12 +619,10 @@ y, por lo tanto, encontraré deleite?"
 (Esto también es oración por el servicio).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 (??)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -666,7 +640,6 @@ y, por lo tanto, encontraré deleite?"
 
 "Tu [^f67] esposa es Puruṣottama".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -695,12 +668,10 @@ se complace por el servicio que le prestó
 el eterno Sūris que se deleita en ese servicio".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “स्वपरिचरणभोगैः श्रीमति प्रीयमाणे” (आत्मसिद्धि)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -721,12 +692,10 @@ el eterno Sūris que se deleita en ese servicio".
 él es el mar de pureza y dicha"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “श्रीमते निर्मलानन्दोदन्वते विष्णवे नमः” (वेदान्तसारम्)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -754,7 +723,6 @@ de todas las cualidades auspiciosas"
 “श्रियः कान्तोऽनन्तो वरगुणगणैकास्पदवपुः” (वेदान्तदीपम्)
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “ब्रह्मणि श्रीनिवासे” (श्रीभाष्यम्)
@@ -774,7 +742,6 @@ may my mind be ever centred "
 Que mi mente esté siempre centrada "
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “ब्रह्मणि श्रीनिवासे” (श्रीभाष्यम्)
@@ -782,7 +749,7 @@ Que mi mente esté siempre centrada "
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“श्रियःपतिर् निखिल-हेय-प्रत्यनीक-कल्याणैकतान--अनन्त-ज्ञानानन्द-स्वरूपः” (गीताभाष्यम्)  
+“श्रियःपतिर् निखिल-हेय-प्रत्यनीक-कल्याणैकताऩ--अनन्त-ज्ञानानन्द-स्वरूपः” (गीताभाष्यम्)  
 </details>
 
 <details><summary>English</summary>
@@ -803,15 +770,14 @@ y que posee cualidades auspiciosas
 y es (al mismo tiempo) infinito jnāna y una dicha infinita ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-“श्रियःपतिर्निखिल-हेयप्रत्यनीक-कल्याणैकतान-अनन्तज्ञानानन्दस्वरूपः” (गीताभाष्यम्)  
+“श्रियःपतिर्निखिल-हेयप्रत्यनीक-कल्याणैकताऩ-अनन्तज्ञानानन्दस्वरूपः” (गीताभाष्यम्)  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"नीय् उन् तिरु-मगळ् उम् निऩ्ऱायाल्" (मुदल् तिरुवन्दादि 86)
+"नीय् उऩ् तिरु-मगळ् उम् निऩ्ऱायाल्" (मुदल् तिरुवन्दादि 86)
 </details>
 
 <details><summary>English</summary>
@@ -831,15 +797,10 @@ y la diosa Lakṣmī".
 [^f73]: Mudal Tiruvandadi: 86
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "नीयुन्दिरुमगळुम् निऩ्ऱायाल्" (मुदल् तिरुवन्दादि 86)
 </details>
-
-
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -860,16 +821,14 @@ y la diosa Lakṣmī".
 adornado con una llave brillante"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "ऒण्डॊडियाळ् तिरुमगळुम् नीयुमे निलानिऱ्‌प" (तिरुवाय्मॊऴि 4-9-1)  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"कोलत्-तिरु-मा-मगळ्-ओडु उन्नै"(तिरुवाय्मॊऴि 6-9-3)
+"कोलत्-तिरु-मा-मगळ्-ओडु उऩ्ऩै"(तिरुवाय्मॊऴि 6-9-3)
 </details>
 
 <details><summary>English</summary>
@@ -885,16 +844,14 @@ adornado con una llave brillante"
 sin disfrutarte tu en compañía de Lakṣmī?"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-"कोलत्तिरुमामगळोडु उन्नै"(तिरुवाय्मॊऴि 6-9-3)
+"कोलत्तिरुमामगळोडु उऩ्ऩै"(तिरुवाय्मॊऴि 6-9-3)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"निन् तिरुव्-अरुळ् उम् पङ्कयत्ताळ् तिरुव्-अरुळुम्" (तिरुवाय्मॊऴि 9-2-1)
+"निऩ् तिरुव्-अरुळ् उम् पङ्कयत्ताळ् तिरुव्-अरुळुम्" (तिरुवाय्मॊऴि 9-2-1)
 </details>
 
 <details><summary>English</summary>
@@ -910,16 +867,14 @@ sin disfrutarte tu en compañía de Lakṣmī?"
 con estos barreré el piso de tu templo".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-"निन् तिरुवरुळुम् पङ्गयत्ताळ् तिरुवरुळुम्" (तिरुवाय्मॊऴि 9-2-1)
+"निऩ् तिरुवरुळुम् पङ्गयत्ताळ् तिरुवरुळुम्" (तिरुवाय्मॊऴि 9-2-1)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"उन् तामरै-मङ्गैय् उम् नीयुम्" (तिरुवाय्मॊऴि 9-2-3)
+"उऩ् तामरै-मङ्गैय् उम् नीयुम्" (तिरुवाय्मॊऴि 9-2-3)
 </details>
 
 <details><summary>English</summary>
@@ -938,16 +893,14 @@ deberían estar encantados
 de aceptar el servicio de los tres mundos".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-"उन् तामरैमङ्गैयुम् नीयुम्" (तिरुवाय्मॊऴि 9-2-3)
+"उऩ् तामरैमङ्गैयुम् नीयुम्" (तिरुवाय्मॊऴि 9-2-3)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अगल्-अगिल्ल् एन् इऱैय् उम्"(तिरुवाय्मॊऴि 6-10-10)  
+"अगल्-अगिल्ल् एऩ् इऱैय् उम्"(तिरुवाय्मॊऴि 6-10-10)  
 </details>
 
 <details><summary>English</summary>
@@ -964,12 +917,10 @@ incluso por un momento ",
 dice Śrī y permanece en tu pecho."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "अगलगिल्लेनिऱैयुम्"(तिरुवाय्मॊऴि 6-10-10)  
 </details>
-
 
 ### ज्ञानानन्द-मयत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -994,7 +945,6 @@ dice Śrī y permanece en tu pecho."
 "उणर्मुऴु नलम्" (तिरुवाय्मॊऴि 1-1-2)  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "नन्दा-विळक्केय् अळत्तऱ्‌क् अरिय् आय्" (पॆरियदिरुमॊऴि 3-8-1)
@@ -1014,12 +964,10 @@ que nunca sale
 y el eres más allá de todas las limitaciones".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "नन्दाविळक्के यळत्तऱ्‌करियाय्" (पॆरियदिरुमॊऴि 3-8-1)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1050,12 +998,11 @@ participa en todas sus acciones.
 en apoyo de esta contemplación prescrita.)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ऎऩ्ऱुम् प्रमाणङ्गळ् सॊल्लुगिऱप्पडिये सर्वप्रकारत्तालुम्,  
-सर्वावस्थैयिलुम् सहधर्म-चारिणियान  
-पॆरिय पिराट्टियारोडु पिरिविल्लाद मुऴु नलमान अनन्त-ज्ञानानन्दस्वरूपमाग अनुसन्धिक्कवेणुम्.
+सर्वावस्थैयिलुम् सहधर्म-चारिणियाऩ  
+पॆरिय पिराट्टियारोडु पिरिविल्लाद मुऴु नलमाऩ अनन्त-ज्ञानानन्दस्वरूपमाग अनुसन्धिक्कवेणुम्.
 </details>
 
 [^f58]: Rāmāyaṇa : Yuddha kāṇḍa 114-15
@@ -1107,7 +1054,6 @@ Bhagavān posee todas las cualidades auspiciosas:
 > está libre de todas las imperfecciones".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इप्पडि “समस्तहेयरहितं विष्ण्वाख्यं परमं पदं” (विष्णुपुराणम् 1-22-53)  
@@ -1132,7 +1078,6 @@ en el Señor del Grande y el Bajo,
 no hay cosas como dolor".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “परः पराणां सकला न यत्र क्लेशादयस्सन्ति परावरेशे” (विष्णुपुराणम् 6-5-85)  
@@ -1140,9 +1085,8 @@ no hay cosas como dolor".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎन्गिऱप्पडिये हेय-प्रत्यनीकम् आग अनुसन्धेयम्.  
+ऎऩ्गिऱप्पडिये हेय-प्रत्यनीकम् आग अनुसन्धेयम्.  
 </details>
-
 
 <details><summary>English</summary>
 
@@ -1160,9 +1104,8 @@ porque se ha dicho así
 
 <details><summary>मूलम्</summary>
 
-ऎन्गिऱप्पडिये हेयप्रत्यनीकमाग अनुसन्धेयम्.  
+ऎऩ्गिऱप्पडिये हेयप्रत्यनीकमाग अनुसन्धेयम्.  
 </details>
-
 
 [^f81]: Viṣṇupurāṇa:  1-22-53
 
@@ -1186,7 +1129,6 @@ Escuchar [^f83] ahora de un hombre (Śrī Rāma)
 poseído de estas cualidades.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “तैर्युक्तश्श्रूयतां नरः” (रामायणम् पा-का 1-7.)
@@ -1209,12 +1151,10 @@ poseído de estas cualidades.
 "El que [^f84] posee estas cualidades".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “तमेवं गुणसंपन्नं” (रामायणम् अ-का 2-48.)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1240,7 +1180,6 @@ y que posee todas las cualidades nobles".
 “ज्येष्ठं श्रेष्ठगुणैर्युक्तं” (रामायणम् पा-का 1-20)  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “एवं श्रेष्ठगुणैर्युक्तं” (रामायणम् अ-का 1-32) 
@@ -1258,12 +1197,10 @@ y que posee todas las cualidades nobles".
 "El que está [^f86] posee así cualidades nobles"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “एवं श्रेष्ठगुणैर्युक्तं” (रामायणम् अ-का 1-32) 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1282,12 +1219,10 @@ y que posee todas las cualidades nobles".
 "Rāma [^f87] brilló con (todas estas) cualidades".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “गुणैर्विरुरुचे रामः” (रामायणम् अ-का 2-47)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1307,7 +1242,6 @@ and of irresistible valour."
 "El que [^f88] poseía tales cualidades  
 y de valor irresistible".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1333,7 +1267,6 @@ O King, in your son."
 "Hay [^f89] muchas cualidades nobles,  
 oh rey, en tu hijo".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1362,13 +1295,10 @@ these six qualities adorn Rāma, the best of men."
 estas seis cualidades adornan a Rāma, el mejor de los hombres".
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 “आनृशंस्यमनुक्रोशः श्रुतं शीलं दमश्शमः । राघवं शोभयन्त्येते षड्गुणाः पुरुषोत्तमम्” (रामायणम् अ-का 33-12)  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1388,7 +1318,6 @@ estas seis cualidades adornan a Rāma, el mejor de los hombres".
 "Se sabe que [^f91] es serio en el asunto del dharma;  
 es cariñoso con los que buscan su protección".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1415,12 +1344,10 @@ y eres también el refugio de todos.
 Esto es declarado por los sabios divinos".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “शरण्यं शरणं च त्वाम् आहुर्दिव्या महर्षयः” (रामायणम् युद्धकाण्डम् 120-18)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1447,12 +1374,10 @@ y eres el refugio supremo
 de todos los que están en peligro ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “निवासवृक्षस्साधूनां आपन्नानां परा गतिः” (रामायणम् किष् काण्डम् 15-19)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1472,12 +1397,10 @@ de todos los que están en peligro ".
 como esplendor, fuerza, señorío, gran sabiduría, valor supremo y poder".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “तेजो-बलैश्वर्य-महावबोध-सुवीर्य-शक्त्यादि-गुणैकराशिः” (विष्णुपुराणम् 6-5-85)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1499,12 +1422,10 @@ las cualidades de Viṣṇu,
 quién es el ser interno de todos los seres?
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “सर्वभूतात्मभूतस्य विष्णोः को वेदितुं गुणान्”(ब्राह्मपुराणम्)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1528,7 +1449,6 @@ así como las gemas en el océano son innumerables,
 las cualidades del Señor armadas con chakra  
 son innumerables".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1573,14 +1493,12 @@ para enumerar una diez mil millones de tus cualidades
 o no ser capaz ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “वर्षायुतैर्यस्य गुणा न शक्या वक्तुं समेतैरपि सर्वदेवैः ।  
 चतुर्मुखायुर्यदि कोटिवक्त्रो भवेन्नरः क्वापि विशुद्धचेताः ।  
 स ते गुणानाम् अयुतैकमंशं वदेन्न वा देववर प्रसीद ॥”(भारतम् कर्णपर्व 83-15)  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1604,7 +1522,6 @@ seis de ellas están más importantes entre ellas;
 Incluso cuando el universo se lleva dentro de tu cuerpo,  
 las otras cualidades también están contenidas dentro de ellas ".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1641,12 +1558,10 @@ debidoa nuestra deficiencia de inteligencia
 y no debidoa ninguna deficiencia en sus cualidades ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “इषुक्षयान्निवर्तन्ते नान्तरिक्षक्षितिक्षयात् । मतिक्षयान्निवर्तन्ते न गोविन्दगुणक्षयात् ॥”
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1666,16 +1581,14 @@ y no debidoa ninguna deficiencia en sus cualidades ".
 me afligen durante tu separación - me el gran pecador".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "वल्विनैयेनै ईर्गिऩ्ऱ कुणङ्गळैयुडैयाय्" (तिरुवाय्मॊऴि 8-1-8) 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"उयर्व्+++(=औन्नत्य)+++-अऱव्+++(=इल्लाद)+++ उयर्-नलम्+++(=गुणम्|आनन्द)+++ उडैयवन्" (तिरुवाय्मॊऴि 1-1-1)  
+"उयर्व्+++(=औन्नत्य)+++-अऱव्+++(=इल्लाद)+++ उयर्-नलम्+++(=गुणम्|आनन्द)+++ उडैयवऩ्" (तिरुवाय्मॊऴि 1-1-1)  
 </details>
 
 <details><summary>English</summary>
@@ -1693,13 +1606,12 @@ que son ilimitadas en extensión".
 
 <details><summary>मूलम्</summary>
 
-"उयर्वऱवुयर् नलमुडैयवन्" (तिरुवाय्मॊऴि 1-1-1)  
+"उयर्वऱवुयर् नलमुडैयवऩ्" (तिरुवाय्मॊऴि 1-1-1)  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎन्गिऱप् पडिय् ए प्राप्यत्व-प्रापकत्वोपयुक्तङ्गळ् आऩ गुणङ्गळाल् ए  
+ऎऩ्गिऱप् पडिय् ए प्राप्यत्व-प्रापकत्वोपयुक्तङ्गळ् आऩ गुणङ्गळाल् ए  
 विशिष्टम् आग अनुसन्धेयम्.+++(5)+++
 </details>
 
@@ -1721,10 +1633,9 @@ Muchos son los pasajes
 que hablan de las cualidades de Bhagavān.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ऎन्गिऱप्पडिये प्राप्यत्व-प्रापकत्वोपयुक्तङ्गळान गुणङ्गळाले विशिष्टमाग अनुसन्धेयम्.
+ऎऩ्गिऱप्पडिये प्राप्यत्व-प्रापकत्वोपयुक्तङ्गळाऩ गुणङ्गळाले विशिष्टमाग अनुसन्धेयम्.
 </details>
 
 ### विग्रहाः
@@ -1737,7 +1648,6 @@ BHAGAVĀN HAS A DIVINE AND AUSPICIOUS FORM:
 
 Bhagavān tiene una forma divina y auspiciosa:
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1756,12 +1666,10 @@ Bhagavān tiene una forma divina y auspiciosa:
 "Para él [^f102] cuya forma siempre sigue siendo la misma"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “सदैकरूपरूपाय” (वि-पु. 1-2-1)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1788,13 +1696,11 @@ y en su ser la deidad suprema -
 él se acerca Bhagavān pronto, oh Pauṣkara ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “नित्यसिद्धे तदाकारे तत्परत्वे च पौष्कर । यस्यास्ति सत्ता हृदये तस्यासौ सन्निधिं व्रजेत् ॥”
 (पौ॰ सम्)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1821,12 +1727,10 @@ completamente diferente de todas las formas vistas en el universo,
 en el que respetan todos estos saktīs ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “समस्ताश्शक्तयश्चैता नृप यत्र प्रतिष्ठिताः । तद्विश्वरूप-वैरूप्यं रूपमन्यद्धरेर्महत्” (विष्णुपुराणम् 6-7-70.)  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1846,7 +1750,6 @@ a form that is immense and that is pleasing."
 "Él [^f105] asume por su voluntad  
 Una forma inmensa y agradable ".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1897,12 +1800,10 @@ nor formed of flesh, lymph or bone."
 ni formado de carne, linfa o hueso ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “न तस्य प्राकृता मूर्तिर्मांसमेदोस्थिसंभवा” (वराहपुराणम् 34-40)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1923,7 +1824,6 @@ ni formado de carne, linfa o hueso ".
 "Esta forma [^f108] tiene cuatro brazos,  
 es supremamente excelente y está en vaikuṇṭha".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1948,7 +1848,6 @@ and capable of being seen by the mind as in a dream."
 "Tiene una forma [^f109] resplandeciente como el oro  
 y capaz de ser visto por la mente como en un sueño".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1992,12 +1891,10 @@ y capaz de ser visto por la mente como en un sueño".
 "En tu forma [^f110], oh Señor, veo a los dioses".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “पश्यामि देवांस्तव देवदेहे” (गीता 11-15)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2016,7 +1913,6 @@ y capaz de ser visto por la mente como en un sueño".
 "Tiene [^f111] un cuerpo  
 en el que las armas y adornos de descanso".
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2042,12 +1938,10 @@ en el que las armas y adornos de descanso".
 como armas y adornos ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “भूषणास्त्र-स्वरूपस्थं यथेदमखिलं जगत्” (विष्णुपुराणम् 1-22-66)  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2070,16 +1964,14 @@ is in the region beyond the universe of matter (tamas)"
 está en la región más allá del universo de la materia (tamas) "
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “तमसः परमो धाता शङ्खचक्रगदाधरः”(रामायणम्-युद्धकाण्डम् 114-15)
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎन्गिऱप्पडिये सर्व-जगद्-आश्रयम् आऩ  
+ऎऩ्गिऱप्पडिये सर्व-जगद्-आश्रयम् आऩ  
 अ-प्राकृत-दिव्य-मङ्गळ-विग्रह-विशिष्टम् आग अनुसन्धेयम्. 
 </details>
 
@@ -2099,12 +1991,10 @@ que es el lugar de descanso (āsraya) del universo,
 porque hay muchos pasajes que se refieren a esta forma suya.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ऎन्गिऱप्पडिये सर्वजगदाश्रयमान अप्राकृत-दिव्यमङ्गळ-विग्रह-विशिष्टमाग अनुसन्धेयम्. 
+ऎऩ्गिऱप्पडिये सर्वजगदाश्रयमाऩ अप्राकृत-दिव्यमङ्गळ-विग्रह-विशिष्टमाग अनुसन्धेयम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2141,12 +2031,10 @@ se pueden aprender
 del Pāñcarātra Śāstra y de la tradición.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इव्विग्रहम् - पर-व्यूह-विभव-हार्दार्चावताररूपेण पञ्च-प्रकारमायिरुक्कुम्बडियुम्, इवऱ्ऱिलुळ्ळ विशेषङ्गळुम्, भगवच्छास्त्र-संप्रदाय-त्ताले अऱियप्पडुम्.
 </details>
-
 
 ### विभूती
 <details><summary>English</summary>
@@ -2181,7 +2069,6 @@ Los VIBHŪTIS de Bagavān: LILÃ AND BHOGA:
 “विष्णोरेता विभूतयः”(विष्णुपुराणम् 1-22-32)
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “महा-विभूति+++(=वैकुण्ठ)+++-संस्थान!” (विष्णुपुराणम् 5-6-50)
@@ -2199,7 +2086,6 @@ Los VIBHŪTIS de Bagavān: LILÃ AND BHOGA:
 "Tiene, porque [^f116] su morada,  
 la región de la gloria eterna llamada Mahā Vibhūti.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2224,7 +2110,6 @@ la región de la gloria eterna llamada Mahā Vibhūti.
 "No hay [^f117] sin fin, oh guerrero poderoso,  
 a mis glorias divinas" (vibhūtis).
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2254,15 +2139,14 @@ Estas ideas se expresan de manera concisa en el Śloka:
 > son sus vibhūtis".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इत्यादिगळुडैय संग्रहमान “यदण्डमण्डान्तरगोचरञ्च यत्”(आळ-स्तो 17)
+इत्यादिगळुडैय संग्रहमाऩ “यदण्डमण्डान्तरगोचरञ्च यत्”(आळ-स्तो 17)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎन्गिऱ श्लोकत्तिन् पडिय् ए  
+ऎऩ्गिऱ श्लोकत्तिऩ् पडिय् ए  
 अनन्त-विभूति-विशिष्टम् आग अनुसन्धेयम्.
 </details>
 
@@ -2280,12 +2164,10 @@ Porque hay pasajes
 como los siguientes que describen sus vibhūtis.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ऎन्गिऱ श्लोकत्तिन् बडिये अनन्तविभूति-विशिष्टमाग अनुसन्धेयम्.
+ऎऩ्गिऱ श्लोकत्तिऩ् बडिये अनन्तविभूति-विशिष्टमाग अनुसन्धेयम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2312,12 +2194,10 @@ algunos existentes para su līlā o deporte
 y otros para su disfrute (bhoga).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इव्विभूतिगळिल् चेतनङ्गळायुम् अचेतनङ्गळायुमुळ्ळ इरण्डुवगैयुम् लीलार्थङ्गळायुम्, भोगार्थङ्गळायुम्, विभक्तङ्गळायिरुक्कुम्.  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2340,7 +2220,6 @@ y cosas para disfrutar (bhoga)
 se basa en la diferencia en el RASA o la delección,  
 Aunque todos tienen amabilidad (o ānukulyam) en común.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2368,13 +2247,11 @@ Aunque todos tienen amabilidad (o ānukulyam) en común.
 "De [^f119] quién es el origen, etc. de este mundo"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अप्पडिये  
 “जन्माद्यस्य यतः”(शा-सू 1-1-2.)  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2399,7 +2276,6 @@ Aunque todos tienen amabilidad (o ānukulyam) en común.
 “ क्रीडा हरेरिदं सर्वं”(भारतम् शान्तिपर्व 206-58)
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 “ क्रीडतो बालकस्येव”(विष्णुपुराणम् 1-2-18)  
@@ -2416,7 +2292,6 @@ Aunque todos tienen amabilidad (o ānukulyam) en común.
 
 "De [^ f121] El que juega como una niña"
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2439,7 +2314,6 @@ Aunque todos tienen amabilidad (o ānukulyam) en común.
 
 "[^F122] jugando como un niño con sus juguetes"
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -2464,12 +2338,10 @@ Aunque todos tienen amabilidad (o ānukulyam) en común.
 como si fueran bolas para el deporte".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “हरे विहरसि क्रीडा-कन्दुकैरिव जन्तुभिः”(वि-त.)
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2489,7 +2361,6 @@ como si fueran bolas para el deporte".
 como en el mundo (Kings juega con bolas).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “लोकवत्तु लीलाकैवल्यं”(शा-सू. 2-1-33)
@@ -2497,7 +2368,7 @@ como en el mundo (Kings juega con bolas).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎन्गिऱप्पडिये लीलारूप-जगद्वयापार-लक्षणमाग अनुसन्धेयम्.
+ऎऩ्गिऱप्पडिये लीलारूप-जगद्वयापार-लक्षणमाग अनुसन्धेयम्.
 </details>
 
 <details><summary>English</summary>
@@ -2513,12 +2384,10 @@ simplemente por su juego o deporte (līlā),
 ya que se ha dicho como anteriormente.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ऎन्गिऱप्पडिये लीलारूप-जगद्वयापार-लक्षणमाग अनुसन्धेयम्.
+ऎऩ्गिऱप्पडिये लीलारूप-जगद्वयापार-लक्षणमाग अनुसन्धेयम्.
 </details>
-
 
 ### सारः
 
@@ -2543,7 +2412,7 @@ RESUMEN.
 दिव्य-मङ्गळ-विग्रहोपेतम् आय्  
 शरीर-भूत-विभूति-द्वय-युक्तम् आय्  
 जगत्-सृष्ट्य्-आदि-व्यापार-लीलम् आय्क् कॊण्डु  
-प्राप्यमान ब्रह्मत्तै…  
+प्राप्यमाऩ ब्रह्मत्तै…  
 </details>
 
 <details><summary>English</summary>
@@ -2580,10 +2449,8 @@ de mantenerlo y controlarlo y similares.
 
 <details><summary>मूलम्</summary>
 
-इप्पडि लक्ष्मीसहायमाय् अपरिमित-ज्ञानानन्दमाय् हेयप्रत्यनीकमाय् ज्ञान-शक्त्याद्यनन्त-मङ्गळगुणविशिष्टमाय् दिव्यमङ्गळ-विग्रहोपेतमाय् शरीरभूत-विभूतिद्वययुक्तमाय् जगत्सृष्ट्यादि-व्यापारलीलमाय्क् कॊण्डु प्राप्यमान ब्रह्मत्तै  
+इप्पडि लक्ष्मीसहायमाय् अपरिमित-ज्ञानानन्दमाय् हेयप्रत्यनीकमाय् ज्ञान-शक्त्याद्यनन्त-मङ्गळगुणविशिष्टमाय् दिव्यमङ्गळ-विग्रहोपेतमाय् शरीरभूत-विभूतिद्वययुक्तमाय् जगत्सृष्ट्यादि-व्यापारलीलमाय्क् कॊण्डु प्राप्यमाऩ ब्रह्मत्तै  
 </details>
-
-
 
 ## प्राप्ता
 <details><summary>English</summary>
@@ -2598,7 +2465,7 @@ La naturaleza del yo individual
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… प्रापिक्कुम् प्रत्यग्-आत्माविन्-उडैय  
+… प्रापिक्कुम् प्रत्यग्-आत्माविऩ्-उडैय  
 बद्ध-मुक्त-नित्य-**साधारण-रूपम्** उम्  
 
 उपायाधिकारिय् आऩ तनक्क्  
@@ -2633,10 +2500,9 @@ las características peculiares que lo distinguen
 Como buscador de los medios de Mukti, de otros Baddhas.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-प्रापिक्कुम् प्रत्यगात्माविनुडैय बद्ध-मुक्त-नित्य-साधारणरूपमुम् उपायाधिकारियान तनक्किप्पोदु असाधारणमान रूपमुम् अऱियवेणुम्. 
+प्रापिक्कुम् प्रत्यगात्माविनुडैय बद्ध-मुक्त-नित्य-साधारणरूपमुम् उपायाधिकारियाऩ तनक्किप्पोदु असाधारणमाऩ रूपमुम् अऱियवेणुम्. 
 </details>
 
 ### नित्य-मुक्त-बद्ध-भेदाः
@@ -2667,10 +2533,9 @@ y se llaman kṣetrajnāh.
 (Brahma, dioses, hombres, bestias, árboles, hierba, etc.).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इवर्गळिल् बद्धरावार्, अनादि-कर्म-प्रवाहत्ताले अनुवृत्त-संसारराय् ब्रह्मादि-स्तंब-पर्यन्त-विभागभागिगळान क्षेत्रज्ञर्.  
+इवर्गळिल् बद्धरावार्, अनादि-कर्म-प्रवाहत्ताले अनुवृत्त-संसारराय् ब्रह्मादि-स्तंब-पर्यन्त-विभागभागिगळाऩ क्षेत्रज्ञर्.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2702,12 +2567,10 @@ y han obtenido la dicha sin igual
 como resultado del disfrute sin restricciones de Bhagavān.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-मुक्तरावार् शास्त्रचोदितङ्गळान उपायविशेषङ्गळालुण्डान भगवत्प्रसादत्ताले अत्यन्त-निवृत्त-संसारराय् सङ्कोच-रहित-भगवदनुभवत्ताले निरतिशयानन्द रायिरुक्कुमवर्गळ्.  
+मुक्तरावार् शास्त्रचोदितङ्गळाऩ उपायविशेषङ्गळालुण्डाऩ भगवत्प्रसादत्ताले अत्यन्त-निवृत्त-संसारराय् सङ्कोच-रहित-भगवदनुभवत्ताले निरतिशयानन्द रायिरुक्कुमवर्गळ्.  
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2716,7 +2579,7 @@ como resultado del disfrute sin restricciones de Bhagavān.
 
 > “सवयस इव ये नित्य-निर्दोष-गन्धाः” (श्री-गुण-रत्न-कोषम् 27)  
 
-ऎन्गिऱप्-पडिय् ए  
+ऎऩ्गिऱप्-पडिय् ए  
 अ-स्पृष्ट-संसारर् आय्क्-कॊण्डु  
 नित्य-कैङ्कर्यम् पण्णुगिऱ अनन्त-गरुड-विष्वक्सेनादिगळ्.  
 </details>
@@ -2752,14 +2615,12 @@ p.ej. Ananta (es decir) Adiśeṣa, Garuḍa y Viṣvaksena.
 [^es27]: nunca ha sufrido contracción
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नित्यरावार् ईश्वरनैप्पोले अनादियाग ज्ञानसङ्कोचमिल्लामैयाले  
 “सवयस इव ये नित्य-निर्दोष-गन्धाः” (श्रीगुणरत्नकोषम् 27)  
-ऎन्गिऱप्पडिये अस्पृष्टसंसारराय्क्कॊण्डु नित्यकैङ्कर्यम् पण्णुगिऱ अनन्त-गरुड-विष्वक्सेनादिगळ्.  
+ऎऩ्गिऱप्पडिये अस्पृष्टसंसारराय्क्कॊण्डु नित्यकैङ्कर्यम् पण्णुगिऱ अनन्त-गरुड-विष्वक्सेनादिगळ्.  
 </details>
-
 
 ### साधारण-धर्माः
 
@@ -2789,7 +2650,6 @@ Todos son Śeṣas a Bhagavān
 y están completamente sujetos a su voluntad.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवर्गळ् ऎल्लार्क्क् उम्  साधारणम् आऩ रूपम् अणुत्व-ज्ञानानन्द-अमलत्वादिगळुम्, भगवच्छेषत्व-पारतन्त्र्यादिगळुम्. 
@@ -2799,9 +2659,9 @@ y están completamente sujetos a su voluntad.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुमुक्षुवान तनक्कु  
+मुमुक्षुव् आऩ तनक्कु  
 अ-साधारणम् आग अऱिय-वेण्डुम् आकारङ्गळ्  
-उपोद्घातत्तिल् ए +++(भ्रष्ट-राजकुमारकथायाम् स्वजन-प्राप्त्य्-उत्कण्ठया)+++ सॊन्नोम्;  
+उपोद्घातत्तिल् ए +++(भ्रष्ट-राजकुमारकथायाम् स्वजन-प्राप्त्य्-उत्कण्ठया)+++ सॊऩ्ऩोम्;  
 मेलुङ् गण्डु कॊळ्वदु.  
 </details>
 
@@ -2821,23 +2681,21 @@ en el capítulo introductorio
 y se describirá más adelante también.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-मुमुक्षुवान तनक्कु असाधारणमाग अऱियवेण्डुम् आकारङ्गळ् उपोद्घातत्तिले सॊन्नोम्;  
+मुमुक्षुवाऩ तनक्कु असाधारणमाग अऱियवेण्डुम् आकारङ्गळ् उपोद्घातत्तिले सॊऩ्ऩोम्;  
 मेलुङ् गण्डु कॊळ्वदु.  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-प्राप्ताविन्-उडैय स्व-रूपम्  
+इप्-प्राप्ताविऩ्-उडैय स्व-रूपम्  
 प्रणव-नमस्सुक्कळिल् **म**-कारङ्गळिल् उम्,  
 **नार**-शब्दङ्गळिल् उम्,  
-‘प्रपद्ये’ ऎन्गिऱ उत्तमनिल् उम्,  
-‘व्रज’ ऎन्गिऱ मध्यमनिल् उम्,  
-‘त्वा’ ऎन्गिऱ पदत्तिल् उम्  
-‘मा शुचः’ ऎन्गिऱ वाक्यत्तिल् उम् अनुसन्धेयम्.
+‘प्रपद्ये’ ऎऩ्गिऱ उत्तमनिल् उम्,  
+‘व्रज’ ऎऩ्गिऱ मध्यमनिल् उम्,  
+‘त्वा’ ऎऩ्गिऱ पदत्तिल् उम्  
+‘मा शुचः’ ऎऩ्गिऱ वाक्यत्तिल् उम् अनुसन्धेयम्.
 </details>
 
 <details><summary>English</summary>
@@ -2866,10 +2724,9 @@ y en la palabra tu (tva)
 y en la oración "desesperación no" en el Caramaśloka.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इप्प्राप्ताविनुडैय स्वरूपम् प्रणवनमस्सुक्कळिल् मकारङ्गळिलुम्, नार-शब्दङ्गळिलुम्, ‘प्रपद्ये’ ऎन्गिऱ उत्तमनिलुम्, ‘व्रज’ ऎन्गिऱ मध्यमनिलुम्, ‘त्वा’ऎन्गिऱ पदत्तिलुम् ‘मा शुचः’ ऎन्गिऱ वाक्यत्तिलुम् अनुसन्धेयम्.
+इप्प्राप्ताविनुडैय स्वरूपम् प्रणवनमस्सुक्कळिल् मकारङ्गळिलुम्, नार-शब्दङ्गळिलुम्, ‘प्रपद्ये’ ऎऩ्गिऱ उत्तमनिलुम्, ‘व्रज’ ऎऩ्गिऱ मध्यमनिलुम्, ‘त्वा’ऎऩ्गिऱ पदत्तिलुम् ‘मा शुचः’ ऎऩ्गिऱ वाक्यत्तिलुम् अनुसन्धेयम्.
 </details>
 
 ## उपायः
@@ -2885,7 +2742,7 @@ THE MEANS OF ATTAINMENT.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राप्त्य्-उपायम् उम्, इदिन् परिकरङ्गळ् उम्, फल--स्व-रूपम् इरुक्कुम्-बडिय् उम्  
+प्राप्त्य्-उपायम् उम्, इदिऩ् परिकरङ्गळ् उम्, फल--स्व-रूपम् इरुक्कुम्-बडिय् उम्  
 मेले प्राप्त-स्थलङ्गळिल् ए परक्कच्+++(=विस्तारतः)+++-चॊल्लक्-कडवोम्+++(=चोदयामः)+++.
 </details>
 
@@ -2905,10 +2762,9 @@ y también la naturaleza de la fruta a alcanzar
 en su contexto apropiado más tarde.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-प्राप्त्युपायमुम् इदिन् परिकरङ्गळुम् फलस्वरूपमिरुक्कुम्बडियुम् मेले प्राप्तस्थलङ्गळिले परक्कच्चॊल्लक्कडवोम्.
+प्राप्त्युपायमुम् इदिऩ् परिकरङ्गळुम् फलस्वरूपमिरुक्कुम्बडियुम् मेले प्राप्तस्थलङ्गळिले परक्कच्चॊल्लक्कडवोम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2941,7 +2797,6 @@ En Dvayam - en la primera parte,
 y en el Carama Śloka en la primera mitad.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवऱ्ऱिल् उपायम् तिरुमन्त्रत्तिल् नमस्सिलुम् अयन-शब्दत्तिलुम्, द्वयत्तिल् पूर्वखण्डत्तिलुम् चरमश्लोकत्तिल् पूर्वार्द्धत्तिलुम् अनुसन्धेयम्.  
@@ -2959,12 +2814,11 @@ THE GOAL OF ATTAINMENT.
 El objetivo de logro.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 फल--स्व-रूपम् चतुर्थ्य्-अन्त-पदङ्गळिल् उम्  
 द्वयत्तिल् नमस्सिल् उम्,  
-"सर्व-पापेभ्यो मोक्षयिष्यामि” ऎन्गिऱव् इडत्तिल् उम् अनुसन्धेयम्.  
+"सर्व-पापेभ्यो मोक्षयिष्यामि” ऎऩ्गिऱव् इडत्तिल् उम् अनुसन्धेयम्.  
 </details>
 
 <details><summary>English</summary>
@@ -2985,12 +2839,11 @@ y en el carama Śloka en las palabras
 "Te liberaré de todos los pecados".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 फल--स्व-रूपम् चतुर्थ्य्-अन्त-पदङ्गळिल् उम्  
 द्वयत्तिल् नमस्सिल् उम्,  
-"सर्व-पापेभ्यो मोक्षयिष्यामि” ऎन्गिऱव् इडत्तिल् उम् अनुसन्धेयम्.  
+"सर्व-पापेभ्यो मोक्षयिष्यामि” ऎऩ्गिऱव् इडत्तिल् उम् अनुसन्धेयम्.  
 </details>
 
 ## प्राप्ति-विरोधि
@@ -3026,10 +2879,9 @@ como la ignorancia (avidyā), el karma y el vāsana o la impresión dejada en la
 por el karma en nacimientos anteriores
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-प्राप्तिविरोधियावदु अविद्या-कर्म-वासनादि-रूपमान मोक्ष-प्रतिबन्धकवर्गम्.
+प्राप्तिविरोधियावदु अविद्या-कर्म-वासनादि-रूपमाऩ मोक्ष-प्रतिबन्धकवर्गम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3057,7 +2909,7 @@ continuamente desde tiempos inmemoriales.
 
 <details><summary>मूलम्</summary>
 
-अदिल् प्रधानम् अनादियाग सन्तन्यमानमान आज्ञातिलङ्घनमडियागप् पिऱन्द भगवन्निग्रहम्.
+अदिल् प्रधानम् अनादियाग सन्तन्यमानमाऩ आज्ञातिलङ्घनमडियागप् पिऱन्द भगवन्निग्रहम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3082,7 +2934,7 @@ y así contracción del conocimiento.
 
 <details><summary>मूलम्</summary>
 
-इदु क्षेत्रज्ञर्क्कु ज्ञानसङ्कोचकरमान त्रिगुणात्मक-प्रकृतिसंसर्ग-विशेषत्तै उण्डाक्कियुम्, 
+इदु क्षेत्रज्ञर्क्कु ज्ञानसङ्कोचकरमाऩ त्रिगुणात्मक-प्रकृतिसंसर्ग-विशेषत्तै उण्डाक्कियुम्, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3105,14 +2957,14 @@ que son modificaciones específicas de la materia (o prakṛti) por el otro.
 
 <details><summary>मूलम्</summary>
 
-प्रकृति-परिणाम-विशेषङ्गळान शरीरेन्द्रियादिगळोडे तुवक्कि, 
+प्रकृति-परिणाम-विशेषङ्गळाऩ शरीरेन्द्रियादिगळोडे तुवक्कि, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > "तिण्णम्+++(=दृढम्)+++ अऴुन्दक्+++(=निपीड्य)+++ **कट्टिप्**  
-पल-सॆय्विनै+++(=कर्म)+++-वन्+++(=बलवत्)+++-कयिऱ्ऱाल्+++(=कयिराल्)+++  
-+++(शरीराख्य-)+++पुण्णै+++(=व्रणम्)+++ +++(चर्म-रूपेण)+++ **मऱैय वरिन्द्**+++(=वलयित्वा)+++ ऎन्नैप् **पोर-वैत्ताय्** पुऱम्+++(=बहिः)+++ ए"+++(5)+++
+पल-सॆय्विनै+++(=कर्म)+++-वऩ्+++(=बलवत्)+++-कयिऱ्ऱाल्+++(=कयिराल्)+++  
++++(शरीराख्य-)+++पुण्णै+++(=व्रणम्)+++ +++(चर्म-रूपेण)+++ **मऱैय वरिन्द्**+++(=वलयित्वा)+++ ऎऩ्ऩैप् **पोर-वैत्ताय्** पुऱम्+++(=बहिः)+++ ए"+++(5)+++
 (तिरुवाय्मॊऴि 5-1-5) 
 
 ऎऩ्ऱुम्, 
@@ -3124,7 +2976,6 @@ que son modificaciones específicas de la materia (o prakṛti) por el otro.
 
 इत्यपि प्रसिद्धोक्तिः। 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -3146,15 +2997,14 @@ cubrió las llagas dentro del cuerpo (como carne, grasa y sangre) con la piel
 y déjame alejarte de ti ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-""तिण्णमऴुन्दक्कट्टिप् पलसॆय्विनै वन्गयिऱ्ऱाल् पुण्णै मऱैय वरिन्दॆन्नैप् पोरवैत्ताय् पुऱमे""(तिरुवाय्मॊऴि 5-1-5) ऎऩ्ऱुम्, 
+""तिण्णमऴुन्दक्कट्टिप् पलसॆय्विनै वऩ्गयिऱ्ऱाल् पुण्णै मऱैय वरिन्दॆऩ्ऩैप् पोरवैत्ताय् पुऱमे""(तिरुवाय्मॊऴि 5-1-5) ऎऩ्ऱुम्, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अन्+++(→सृष्टि)+++-नाळ् नी +++(हितैषी)+++ तन्द +++(कायाख्य-)+++वाक्कैयिन् वऴिय् उऴल्वेन्+++(=वर्तयामि)+++"(तिरुवाय्मॊऴि 3-2-1) 
+"अऩ्+++(→सृष्टि)+++-नाळ् नी +++(हितैषी)+++ तन्द +++(कायाख्य-)+++वाक्कैयिऩ् वऴिय् उऴल्वेऩ्+++(=वर्तयामि)+++"(तिरुवाय्मॊऴि 3-2-1) 
 
 ऎऩ्ऱुञ्
 </details>
@@ -3173,16 +3023,15 @@ I have been wandering about to the satisfaction of the body."
 He estado deambulando por la satisfacción del cuerpo ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-""अन्नाळ् नी तन्दवाक्कैयिन् वऴियुऴल्वेन्""(तिरुवाय्मॊऴि 3-2-1) ऎऩ्ऱुञ्
+""अऩ्ऩाळ् नी तन्दवाक्कैयिऩ् वऴियुऴल्वेऩ्""(तिरुवाय्मॊऴि 3-2-1) ऎऩ्ऱुञ्
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चॊल्लुगिऱप् पडिय् ए  
-देहेन्द्रियादि-पर-तन्त्रन् आक्किय् उम्,
+देहेन्द्रियादि-पर-तन्त्रऩ् आक्किय् उम्,
 </details>
 
 <details><summary>English</summary>
@@ -3221,7 +3070,6 @@ en el cuerpo de animales que no pueden tener conocimiento de los Śāstras
 y no puede actuar de acuerdo con ellos.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अव्ववस्थैयिलुम् शास्त्रवश्यतै कूडाद तिर्यगादि-दशैगळिले निऱुत्तियुम्,
@@ -3245,10 +3093,9 @@ Incluso en nacimientos como los de los hombres,
 confunde la mente con las opiniones de los infieles y los herejes. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-शास्त्रयोग्यङ्गळान मनुष्यादि-जन्मङ्गळिल् बाह्य-कुदृष्टि-मतङ्गळाले कलक्कियुम्,
+शास्त्रयोग्यङ्गळाऩ मनुष्यादि-जन्मङ्गळिल् बाह्य-कुदृष्टि-मतङ्गळाले कलक्कियुम्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3259,9 +3106,9 @@ confunde la mente con las opiniones de los infieles y los herejes.
 स्व-विषयायाश् च भोग्य-बुद्धेर् जननीम्”  
 > (पॆरिय गद्यम्) 
 
-ऎन्गिऱ पडिय् ए  
+ऎऩ्गिऱ पडिय् ए  
 इम्-मूल-प्रकृति-मुदल् आऩ मोहन-पिञ्छिकै+++(=पिच्छिकै = पर्णगुच्छम्)+++  
-तन्नाल् ए तत्त्वाज्ञान--विपरीत-ज्ञान--विषय--प्रावण्यङ्गळैप् पण्णिय् उम्,  
+तऩ्ऩाल् ए तत्त्वाज्ञान--विपरीत-ज्ञान--विषय--प्रावण्यङ्गळैप् पण्णिय् उम्,  
 </details>
 
 <details><summary>English</summary>
@@ -3304,11 +3151,10 @@ Como dice Śrīrāmānuja,
 > Esta asociación es encantadora ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अवऱ्ऱिल् इऴियादवर्गळैयुम् उळ्बड  
-“भगवत्स्वरूप-तिरोधानकरीं विपरीत-ज्ञानजननीं स्वविषयायाश्च भोग्यबुद्धेर्जननीम्”(पॆरिय गद्यम्) ऎन्गिऱ पडिये इम्मूलप्रकृति मुदलान मोहन-पिञ्छिकै तन्नाले तत्त्वाज्ञान-विपरीत-ज्ञान-विषय-प्रावण्यङ्गळैप् पण्णियुम्,  
+“भगवत्स्वरूप-तिरोधानकरीं विपरीत-ज्ञानजननीं स्वविषयायाश्च भोग्यबुद्धेर्जननीम्”(पॆरिय गद्यम्) ऎऩ्गिऱ पडिये इम्मूलप्रकृति मुदलाऩ मोहन-पिञ्छिकै तऩ्ऩाले तत्त्वाज्ञान-विपरीत-ज्ञान-विषय-प्रावण्यङ्गळैप् पण्णियुम्,  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3319,7 +3165,7 @@ Como dice Śrīrāmānuja,
 सिऱ्ऱ्-इन्बम्+++(=सुखम्)+++ पावियेनैप् पल नी काट्टिप् पडुप्पाय्+++(=पीडयसि)+++ ओ" +++(5)+++
 (तिरुवाय्मॊऴि 6-9-9.) 
 
-ऎन्गिऱप् पडिय् ए  
+ऎऩ्गिऱप् पडिय् ए  
 </details>
 
 <details><summary>English</summary>
@@ -3342,10 +3188,9 @@ mostrándome, quién es un pecador,
 todo tipo de placeres pequeños?"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इवैयडियाग "आवि तिगैक्क ऐवर्गुमैक्कुम् सिऱ्ऱिन्बम् पावियेनैप्पल नी काट्टिप्पडुप्पायो"(तिरुवाय्मॊऴि 6-9-9.) ऎन्गिऱप्पडिये  
+इवैयडियाग "आवि तिगैक्क ऐवर्गुमैक्कुम् सिऱ्ऱिन्बम् पावियेनैप्पल नी काट्टिप्पडुप्पायो"(तिरुवाय्मॊऴि 6-9-9.) ऎऩ्गिऱप्पडिये  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3368,10 +3213,9 @@ induce al Jīva desobedecer sus órdenes
 y hacer cosas prohibidas por el bien de los pequeños placeres.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-सुखलवार्थमान अकृत्यकरणादिरूपमान आज्ञाति-लङ्घनत्तैप् पण्णुवित्तुम्,
+सुखलवार्थमाऩ अकृत्यकरणादिरूपमाऩ आज्ञाति-लङ्घनत्तैप् पण्णुवित्तुम्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3403,7 +3247,6 @@ Bueno, se ha dicho
 > comienza a más actos de naturaleza pecaminosa".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “पापं प्रज्ञां नाशयति क्रियमाणं पुनःपुनः । नष्टप्रज्ञः पापमेव पुनरारभते नरः ॥”(भारतम्-उद्योगपर्व 35-73.) 
@@ -3411,7 +3254,7 @@ Bueno, se ha dicho
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎन्गिऱप् पडिय् ए  
+ऎऩ्गिऱप् पडिय् ए  
 मेलुम् अपराध-परं-परैगळिल् ए **मूट्टि**+++(=प्रवेश्य)+++
 </details>
 
@@ -3427,15 +3270,14 @@ Un acto de desobediencia
 conduce a otros actos de pecado.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ऎन्गिऱप्पडिये मेलुम् अपराधपरंपरैगळिले मूट्टि
+ऎऩ्गिऱप्पडिये मेलुम् अपराधपरंपरैगळिले मूट्टि
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदिन् फलम् आग  
+अदिऩ् फलम् आग  
 “क्षिपाम्य् अजस्रं”(की. 16-19.) इत्यादिगळ् इऱ्‌-पडिय् ए  
 गर्भ-जन्म-जरा-मरण-नरकादि-चक्र-परिवृत्तियिल् ए परिभ्रमिप्पित्तुम्,
 </details>
@@ -3456,10 +3298,9 @@ Como dijo él mismo,
 "los lanzo siempre en nacimientos asúricos"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-अदिन् फलमाग “क्षिपाम्यजस्रं”(की. 16-19.) इत्यादिगळिऱ्‌पडिये गर्भ-जन्म-जरा-मरण-नरकादि-चक्र-परिवृत्तियिले परिभ्रमिप्पित्तुम्,
+अदिऩ् फलमाग “क्षिपाम्यजस्रं”(की. 16-19.) इत्यादिगळिऱ्‌पडिये गर्भ-जन्म-जरा-मरण-नरकादि-चक्र-परिवृत्तियिले परिभ्रमिप्पित्तुम्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3483,7 +3324,7 @@ que muestran el camino para asegurar placeres mezquinos,
 
 <details><summary>मूलम्</summary>
 
-क्षुद्र-सुखादिगळुक्कु साधनमान राजस-तामस-शास्त्रार्थङ्गळैक्कॊण्डु
+क्षुद्र-सुखादिगळुक्कु साधनमाऩ राजस-तामस-शास्त्रार्थङ्गळैक्कॊण्डु
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3492,7 +3333,7 @@ que muestran el camino para asegurar placeres mezquinos,
 प्रेतान् भूत-गणांश् चान्ये  
 यजन्ते तामसा जनाः”(ग्. 17-4) 
 
-ऎन्गिऱप् पडिये  
+ऎऩ्गिऱप् पडिये  
 </details>
 
 <details><summary>English</summary>
@@ -3515,15 +3356,14 @@ y aquellos que son actuados por tamas
 Adora a los espíritus muertos y los espíritus elementales (Bhūtagana) ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-‘‘यक्ष-रक्षांसि राजसाः । प्रेतान् भूतगणां-श्चान्ये यजन्ते तामसा जनाः”(ग्. 17-4) ऎन्गिऱप्पडिये  
+‘‘यक्ष-रक्षांसि राजसाः । प्रेतान् भूतगणां-श्चान्ये यजन्ते तामसा जनाः”(ग्. 17-4) ऎऩ्गिऱप्पडिये  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्न्-ओड् ऒक्क +++(धान्य-तैलाद्य्-उत्पादने वृषा इव)+++ ऒऴुगु+++(=सन्तत)+++-सङ्गिलियिल्+++(=शृङ्खलया)+++ ए कट्ट् उण्डु  
+तऩ्ऩ्-ओड् ऒक्क +++(धान्य-तैलाद्य्-उत्पादने वृषा इव)+++ ऒऴुगु+++(=सन्तत)+++-सङ्गिलियिल्+++(=शृङ्खलया)+++ ए कट्ट् उण्डु  
 उऴलुगिऱ+++(=भ्राम्यत्)+++ क्षेत्रज्ञर् कालिले विऴप्-पण्णिय् उम्,+++(5)+++ 
 </details>
 
@@ -3540,12 +3380,10 @@ que caiga a los pies de las pequeñas deidades
 que son las almas (kṣetrajna) fetteradas con cadenas similares.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-तन्नोडॊक्क ऒऴुगु सङ्गिलियिले कट्टुण्डु उऴलुगिऱ क्षेत्रज्ञर् कालिले विऴप्पण्णियुम्, 
+तऩ्ऩोडॊक्क ऒऴुगु सङ्गिलियिले कट्टुण्डु उऴलुगिऱ क्षेत्रज्ञर् कालिले विऴप्पण्णियुम्, 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3572,14 +3410,10 @@ que los gusanos encuentran placer
 en la suciedad y la inmundicia.+++(5)+++
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अवर्गळ् कॊडुत्त जुगुप्सावह-क्षुद्र-पुरुषार्थङ्गळाले कृमिगळैप्पोले कृतार्थराग मयक्कियुम्,  
 </details>
-
-
-
 
 [^f128]: Sri Rāmānuja: Periya Gadyam
 
@@ -3603,7 +3437,6 @@ or in the meditations of such inanimate things as [^f130] nāma[^28] being Brahm
 and are made to fall therefrom  
 in the acquisition of minor results.  
 
-
 [f130]:  
 
     In the Chandogya Upaniṣad VII chapter, it is stated as follows:- 
@@ -3624,7 +3457,6 @@ como [^f130] nāma siendo brahman
 y se hacen caer de eso  
 en la adquisición de resultados menores.
 
-
 [ES130]: 
 
     En el capítulo Chandogya Upaniṣad VII,  
@@ -3637,19 +3469,18 @@ en la adquisición de resultados menores.
     con estos nombres ". \*
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 योग-प्रवृत्तरानवर्गळैयुम् क्षुद्र-देवता-योगङ्गळिलेयादल्  
 नामादि अचेतनोपासनङ्गळिलेयादल् मूळप्पण्णि  
-सिल्वानङ्गळान फलङ्गळाले योगत्तैत् तलैसाय्प्पित्तुम्, 
+सिल्वानङ्गळाऩ फलङ्गळाले योगत्तैत् तलैसाय्प्पित्तुम्, 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्म-प्रवणरैय् उम्  
 
-प्रकृति-संसृष्टम्, प्रकृति-वियुक्तम् ऎन्गिऱ इव्व् इरण्डुप्-पडियिल् उम् ब्रह्म-दृष्टियाल् एय् आदल्,  
+प्रकृति-संसृष्टम्, प्रकृति-वियुक्तम् ऎऩ्गिऱ इव्व् इरण्डुप्-पडियिल् उम् ब्रह्म-दृष्टियाल् एय् आदल्,  
 स्व-रूप-मात्रत्ताल् एय् आदल् उपासिक्क मूट्टि  
 
 अवै +++(??→)+++ नालु-वगैक्क् उम् फलम् आग  
@@ -3684,16 +3515,15 @@ El Jīva obtiene menores placeres
 después de lo cual regresa a Saṁsāra.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-आत्मप्रवणरैयुम् प्रकृति-संसृष्टम् प्रकृति-वियुक्तमॆन्गिऱ इव्विरण्डुप्पडियिलुम्
+आत्मप्रवणरैयुम् प्रकृति-संसृष्टम् प्रकृति-वियुक्तमॆऩ्गिऱ इव्विरण्डुप्पडियिलुम्
 ब्रह्मदृष्टियालेयादल्, स्वरूपमात्रत्तालेयादल् उपासिक्क मूट्टि अवै नालुवगैक्कुम् फलमाग अल्पास्वादङ्गळैक् कॊडुत्तु पुनरावृत्तियैप्पण्णियुम्,  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ब्रह्मात्मक-स्वात्म-चिन्तन-प्रवृत्तर् आन्-अवर्गळैय् उम्  
+ब्रह्मात्मक-स्वात्म-चिन्तन-प्रवृत्तर् आऩ्-अवर्गळैय् उम्  
 स्वात्म-शरीरक-परमात्म-चिन्तन-पररैय् उम्  
 </details>
 
@@ -3713,7 +3543,6 @@ por tener a Brahman para su ser interior
 o que piensan principalmente en Brahman,  
 quien tiene para su cuerpo a sí mismo,
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -3770,16 +3599,15 @@ o por la entrada al cuerpo de Brahma y similares.
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-अन्तरायमान आत्मानुभवत्तालेयादल्, अष्टैश्वर्यसिद्धिगळालेयादल्, वस्वादिपद प्राप्ति ब्रह्मकाय-निषेवणादिगळालेयादल्,
+अन्तरायमाऩ आत्मानुभवत्तालेयादल्, अष्टैश्वर्यसिद्धिगळालेयादल्, वस्वादिपद प्राप्ति ब्रह्मकाय-निषेवणादिगळालेयादल्,
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेकत्तुक्कु नाळ्-इट्ट राज-कुमारनुक्कुच्  
-चिऱैयिल्+++(=कारागारतः)+++ ए +++(दुग्धादि)+++ ऎडुत्तुक् कै-नीट्टिन चेटिमार् पक्कलिल् ए  
+चिऱैयिल्+++(=कारागारतः)+++ ए +++(दुग्धादि)+++ ऎडुत्तुक् कै-नीट्टिऩ चेटिमार् पक्कलिल् ए  
 कण्-णोट्टम् उण्डाम् आप्-पोल् ए  +++(5)+++
 </details>
 
@@ -3803,12 +3631,10 @@ Lanzando los ojos sobre las criadas sirvientes
 que lo atendieron mientras estaban en prisión.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-अभिषेकत्तुक्कु नाळिट्ट राजकुमारनुक्कुच् चिऱैयिले ऎडुत्तुक् कैनीट्टिन चेटिमार् पक्कलिले कण्णोट्टमुण्डामाप्पोले
+अभिषेकत्तुक्कु नाळिट्ट राजकुमारनुक्कुच् चिऱैयिले ऎडुत्तुक् कैनीट्टिऩ चेटिमार् पक्कलिले कण्णोट्टमुण्डामाप्पोले
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3843,11 +3669,10 @@ a otros placeres
 que el objetivo final.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-प्रारब्ध-कर्म-फलमान देहेन्द्रियङ्गळिलुम्  
-तदनुबन्धिगळान परिग्रहङ्गळिलुम् तन्मूल-भोगङ्गळिलुम्  
+प्रारब्ध-कर्म-फलमाऩ देहेन्द्रियङ्गळिलुम्  
+तदनुबन्धिगळाऩ परिग्रहङ्गळिलुम् तन्मूल-भोगङ्गळिलुम्  
 काल्दाऴप् पण्णियादल् अन्यपरराक्कियुम्,  
 </details>
 
@@ -3869,7 +3694,6 @@ hay muchas formas de obstáculo
 en el camino del logro de Bhagavān.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इप्पडिप् पलमुखङ्गळाले भगवत्प्राप्तिक्कु विलक्कायिरुक्कुम्,  
@@ -3878,11 +3702,11 @@ en el camino del logro de Bhagavān.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुप्-पत्त्-इरण्ड्-अडिय् आऩ तुरवु+++(=दीर्घ-कूप)+++ दत्तुवार्+++(=कुर्दकाः)+++  
-मुन्न्-अडियिल् ए विऴुन्दद्-ओडु  
+मुऩ्ऩ्-अडियिल् ए विऴुन्दद्-ओडु  
 मुप्-पत्त्-ओराम् अडियिल् ए विऴुन्दद्-ओडु वासिय् इल्लाद्-आप्-पोल् ए  
 एद् एनुम् ऒरु पर्वत्तिल् ए  
 अन्तरायम् उण्डानाल् उम्  
-इवन् संसारत्तैक् कडन्-दान् आगान्.
+इवऩ् संसारत्तैक् कडऩ्-दाऩ् आगाऩ्.
 </details>
 
 <details><summary>English</summary>
@@ -3903,14 +3727,10 @@ De la misma manera donde o en cualquier etapa ocurre el obstáculo,
 El Jīva no ha trascendido a Saṁsāra.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-मुप्पत्तिरण्डडियान तुरवुदत्तुवार् मुन्नडियिले विऴुन्ददोडु मुप्पत्तोरामडियिले विऴुन्ददोडु वासियिल्लादाप्पोले एदेनुमॊरु पर्वत्तिले अन्तरायमुण्डानालुम् इवन् संसारत्तैक् कडन्दानागान्.
+मुप्पत्तिरण्डडियाऩ तुरवुदत्तुवार् मुऩ्ऩडियिले विऴुन्ददोडु मुप्पत्तोरामडियिले विऴुन्ददोडु वासियिल्लादाप्पोले एदेनुमॊरु पर्वत्तिले अन्तरायमुण्डानालुम् इवऩ् संसारत्तैक् कडन्दानागाऩ्.
 </details>
-
-
-
 
 ### विलम्बः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3920,7 +3740,7 @@ El Jīva no ha trascendido a Saṁsāra.
 इत्य्-आदिगळ् इऱ्‌-पडिय् ए  
 "इट्ट-पडै+++(=प्रतिष्ठिका/foundation)+++ कऱ्‌+++(ल्)+++-पडैय् आय् +++(न शीघ्रं वर्धनीया मृत्-प्रतिष्ठिकेव)+++" ऎऩ्ऱ्  
 एनुम् ऒरु-नाळ् फल-सिद्धिय् उण्ड् आम्  
-ऎन्गिऱव् इदुव् उम्  
+ऎऩ्गिऱव् इदुव् उम्  
 कल्पान्तर-मन्वन्तर-युगान्तर-जन्मान्तरादिगळिल्  
 ऎदिल् एय् ऎऩ्ऱु तॆरियादु.+++(5)+++ 
 </details>
@@ -3947,12 +3767,10 @@ cuándo se alcanzará la fruta,
 ya sea al final de un kalpa o de un manvantara o de un yuga. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-कर्मयोगादिगळिल् प्रवृत्तनुक्कु ‘‘नेहाभिक्रमनाशोऽस्ति”(की. 2-40) इत्यादिगळिऱ्‌पडिये इट्टबडै कऱ्‌पडैयाय् ऎऩ्ऱेनुमॊरुनाळ् फलसिद्धियुण्डाम् ऎन्गिऱविदुवुम् कल्पान्तर-मन्वन्तर-युगान्तर-जन्मान्तरादिगळिल् ऎदिलेयॆऩ्ऱु तॆरियादु. 
+कर्मयोगादिगळिल् प्रवृत्तनुक्कु ‘‘नेहाभिक्रमनाशोऽस्ति”(की. 2-40) इत्यादिगळिऱ्‌पडिये इट्टबडै कऱ्‌पडैयाय् ऎऩ्ऱेनुमॊरुनाळ् फलसिद्धियुण्डाम् ऎऩ्गिऱविदुवुम् कल्पान्तर-मन्वन्तर-युगान्तर-जन्मान्तरादिगळिल् ऎदिलेयॆऩ्ऱु तॆरियादु. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3973,12 +3791,10 @@ Quien actuó de tal manera que le agradara a Dios,
 Tuve que esperar mucho.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आनुकूल्यम् मिगवुम् उण्डायिरुक्क वसिष्ठादिगळुक्कु विळम्बङ्गाणानिऩ्ऱोम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4001,7 +3817,6 @@ como Vritra y Kshatrabandhu
 alcanzó mokṣa sin ningún retraso. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 प्रातिकूल्यम् मिगवुम् उण्डायिरुक्क वृत्र-क्षत्रबन्धुप्रभृतिगळुक्कुक् कडुग मोक्षमुण्डागक्काणा निऩ्ऱोम्.
@@ -4010,7 +3825,7 @@ alcanzó mokṣa sin ningún retraso.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आदलाल् विळम्ब-रहित-मोक्ष-हेतुक्कळ् आऩ सु-कृत-विशेषङ्गळ्  
-आर् पक्कलिल् ए किडक्कुम् ऎऩ्ऱुन् दॆरियादु. 
+आर् पक्कलिल् ए किडक्कुम् ऎऩ्ऱुऩ् दॆरियादु. 
 </details>
 
 <details><summary>English</summary>
@@ -4027,12 +3842,10 @@ que los individuos han hecho actos meritorios
 Eso conduciría a mokṣa sin demora.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-आदलाल् विळम्ब-रहित-मोक्षहेतुक्कळान सुकृतविशेषङ्गळ् आर् पक्कलिले किडक्कुम् ऎऩ्ऱुन् दॆरियादु. 
+आदलाल् विळम्ब-रहित-मोक्षहेतुक्कळाऩ सुकृतविशेषङ्गळ् आर् पक्कलिले किडक्कुम् ऎऩ्ऱुऩ् दॆरियादु. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4054,12 +3867,10 @@ que conducen al castigo divino
 que causa demora.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-विळंबहेतुवान निग्रहत्तुक्कुक् कारणङ्गळान दुष्कर्म-विशेषङ्गळुम् आर् पक्कलिले किडक्कुम् ऎऩ्ऱुम् तॆरियादु.  
+विळंबहेतुवाऩ निग्रहत्तुक्कुक् कारणङ्गळाऩ दुष्कर्म-विशेषङ्गळुम् आर् पक्कलिले किडक्कुम् ऎऩ्ऱुम् तॆरियादु.  
 </details>
-
 
 ### शरणागतिः
 <details><summary>English</summary>
@@ -4123,7 +3934,6 @@ mientras comenta sobre el orden en que los sentidos, La mente y similares
 deben controlarse como se indica en Kaṭha Upaniṣad [^f133].
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इप्पडि अनिष्ट-परंपरैक्कु मूलङ्गळान आज्ञातिलङ्घनङ्गळाले वन्द भगवन्निग्रहविशेषमागिऱ प्रधानविरोधिक्कुच्चॆय्युम् परिहारत्तै ‘‘तस्य च वशीकरणं तच्छरणागतिरेव” ऎऩ्ऱु कठवल्लियिल् वशीकार्य-परंपरैयै वगुत्तविडत्तिल् श्रीभाष्यकारर् अरुळिच्चॆय्दार्.
@@ -4176,22 +3986,17 @@ y deseo de apresurarse hacia
 el camino que conduce a la dicha.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इव्विरोधिवर्गत्तैयॆल्लाम् रहस्यत्रयत्तिल् विधिक्किऱ अर्थङ्गळुडैय व्यवच्छेद-शक्तियालुम्, नमस्सुक्कळिल् मकारङ्गळिल् षष्ठिगळालुम्, सर्व-पापशब्दत्तालुम् अनुसन्धित्तु संसारत्तिल् अडिच् चूट्टाले पेऱ्ऱुक्कु उऱुप्पान वऴिगळिले त्वरिक्क प्राप्तम्.
+इव्विरोधिवर्गत्तैयॆल्लाम् रहस्यत्रयत्तिल् विधिक्किऱ अर्थङ्गळुडैय व्यवच्छेद-शक्तियालुम्, नमस्सुक्कळिल् मकारङ्गळिल् षष्ठिगळालुम्, सर्व-पापशब्दत्तालुम् अनुसन्धित्तु संसारत्तिल् अडिच् चूट्टाले पेऱ्ऱुक्कु उऱुप्पाऩ वऴिगळिले त्वरिक्क प्राप्तम्.
 </details>
-
-
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-पॊरुळ् ऒऩ्ऱ् ऎन निऩ्ऱ पू-मगळ्-नाथन् +++(ब्रह्म)+++, अवन्-अडि-सेर्न्दु  
-अरुळ्-ऒऩ्ऱुम्+++(=मेलनम्)+++-अन्बन्+++(=स्नेही [जीवः])+++, अवन् कॊळ् उपायम् +++(भक्ति-प्रपत्ती)+++, अमैन्द+++(=योग्य)+++ पयन्+++(=फलम्)+++,  
+पॊरुळ् ऒऩ्ऱ् ऎऩ निऩ्ऱ पू-मगळ्-नाथऩ् +++(ब्रह्म)+++, अवऩ्-अडि-सेर्न्दु  
+अरुळ्-ऒऩ्ऱुम्+++(=मेलनम्)+++-अन्बऩ्+++(=स्नेही [जीवः])+++, अवऩ् कॊळ् उपायम् +++(भक्ति-प्रपत्ती)+++, अमैन्द+++(=योग्य)+++ पयऩ्+++(=फलम्)+++,  
 मरुळ्+++(=अविद्या)+++-ऒऩ्ऱिय+++(=प्रापक)+++-विनै+++(=पापम्)+++--वल्+++(=बल)+++-विलङ्ग्+++(=शृङ्खला [इति प्राप्तिविरोधि])+++ ऎऩ्ऱु इवैय् ऐन्द् अऱिवार्  
-इरुळ् ऒऩ्ऱ् इला-वगै ऎन्-मनन् तेऱ+++(=स्वच्छ)+++ इयम्बिनर्+++(=उपदेशकाः)+++ ए. // 11 //
+इरुळ् ऒऩ्ऱ् इला-वगै ऎऩ्-मनऩ् तेऱ+++(=स्वच्छ)+++ इयम्बिनर्+++(=उपदेशकाः)+++ ए. // 11 //
 </details>
 
 <details><summary>English</summary>
@@ -4223,16 +4028,13 @@ quien se destaca como la única cosa que se puede alcanzar,
 - como también las fuertes grifos del pecado debido a la ilusión o la ignorancia (que son obstáculos).
 </details>
 
-
 <details><summary>मूलम् (त॰प॰)</summary>
 
-पॊरुळॊऩ्ऱॆन निऩ्ऱ पूमगळ् नादन् अवनडिसेर्न्दु  
-अरुळॊऩ्ऱुम् अन्बनवन् कॊळुबायम् अमैन्द पयन्  
+पॊरुळॊऩ्ऱॆऩ निऩ्ऱ पूमगळ् नादऩ् अवनडिसेर्न्दु  
+अरुळॊऩ्ऱुम् अन्बनवऩ् कॊळुबायम् अमैन्द पयऩ्  
 मरुळॊऩ्ऱिय विनै वल्विलङ्गॆऩ्ऱु इवैयैन्दऱिवार्  
 इरुळॊऩ्ऱिलावगै ऎन्मनन्देऱ इयम्बिनरे. // 11 //
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -4268,7 +4070,6 @@ al entregarme a la pareja divina, que son mis Śeṣīs,
 Ahora puedo alcanzarlo.
 </details>
 
-
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 प्राप्यं ब्रह्म समस्तशेषि परमं प्राप्ताऽहमस्योचितः  
@@ -4276,8 +4077,6 @@ Ahora puedo alcanzarlo.
 हन्तैनामतिवृत्तवान् अहमहंमत्या विमत्याश्रयः  
 सेतुस्संप्रति शेषि-दंपति-भरन्यासस्तु मे शिष्यते ॥१३॥
 </details>
-
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4290,5 +4089,4 @@ Ahora puedo alcanzarlo.
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु श्रीमद्रहस्यत्रयसारे अर्थपञ्चकाधिकारश्चतुर्थः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 </details>
-
 

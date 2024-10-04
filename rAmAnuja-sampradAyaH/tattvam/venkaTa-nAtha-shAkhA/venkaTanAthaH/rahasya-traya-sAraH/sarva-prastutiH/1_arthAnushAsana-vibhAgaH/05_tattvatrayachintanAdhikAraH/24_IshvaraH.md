@@ -5,8 +5,8 @@ title = "२४ ईश्वरः"
 ## स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि स्वाधीन-सत्तादिगळैय् उडैयवन् आय् इरुक्किऱ  
-ईश्वरन्-उडैय स्व-रूपम्  
+इप्-पडि स्वाधीन-सत्तादिगळैय् उडैयवऩ् आय् इरुक्किऱ  
+ईश्वरऩ्-उडैय स्व-रूपम्  
 सत्यत्वादिगळ् आगिऱ स्व-रूप--निरूपक-धर्मङ्गळाल् ए  
 सत्यम् आय्, ज्ञानम् आय्, अनन्तम् आय्, आनन्दम् आय्, अ-मलम् आय् इरुक्कुम्. 
 </details>
@@ -38,7 +38,6 @@ These attributes define His svarūpa or essential nature.
 
 इप्पडि स्वाधीनसत्तादिगळैयुडैयवनायिरुक्किऱ ईश्वरनुडैय स्वरूपम् सत्यत्वादिगळागिऱ स्वरूपनिरूपकधर्मङ्गळाले सत्यमाय् ज्ञानमाय् अनन्तमाय् आनन्दमाय् अमलमायिरुक्कुम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -77,7 +76,6 @@ This truth is brought out by the Alwars in the following passages:
 (where His essential nature as Truth and knowledge is revealed as also His infiniteness ) 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इव्वर्थत्तै "नन्दाविळक्के यळत्तऱ्‌करियाय्" ऎऩ्ऱुम् 
@@ -104,7 +102,6 @@ This truth is brought out by the Alwars in the following passages:
 
 " Thou that [^f156] art perfect knowledge and bliss" 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -142,16 +139,14 @@ and
 > being both knowledge and bliss" 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "सूऴ्न्द तनिऱ्‌पॆरिय सुडर्ञानविन्बम्" ऎऩ्ऱुम् 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"अ-मलन्" ऎऩ्ऱुम्  
+"अ-मलऩ्" ऎऩ्ऱुम्  
 इत्य्-आदिगळाल् ए आऴ्वार्गळ् अनुसन्धित्तार्गळ्.
 </details>
 
@@ -159,7 +154,6 @@ and
 
 "अमलः" इत्य्-आदिभिर् दिव्य-सूरयोऽनुसन्दधिरे ।
 </details>
-
 
 <details><summary>English</summary>
 
@@ -172,7 +166,6 @@ In these and other ways the Alwars meditated on Him.
 "He is the [^f158] Pure".  
 In these and other ways the Alwars meditated on Him.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -209,7 +202,6 @@ are attributes of His essential nature ( svarūpa) already defined by those attr
 मऱ्ऱुळ्ळ गुणङ्गळुम् दिव्य-मङ्गलविग्रहादिगळुमॆल्लाम् ईश्वरनुक्कु निरूपितस्वरूपविशेषणङ्गळायिरुक्कुम्.
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इग्-गुणङ्गळिल्  
@@ -232,7 +224,6 @@ Among these qualities knowledge, strength, lordship, valour, energy, splendour-t
 Among these qualities knowledge, strength, lordship, valour, energy, splendour-these six are associated with His nature as the Supreme Being. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इग्गुणङ्गळिल् ज्ञानबलैश्वर्यवीर्यशक्तितेजस्सुक्कळॆऩ्ऱु आऱु गुणङ्गळ् परत्वोपयुक्तङ्गळायिरुक्कुम्. 
@@ -249,7 +240,6 @@ Among these qualities knowledge, strength, lordship, valour, energy, splendour-t
 सौशील्यवात्सल्यादयः सौलभ्योपयुक्ता भवन्ति । 
 </details>
 
-
 <details><summary>English</summary>
 
 Goodness, spontaneous love, and the like are qualities that make him easily accessible to all. 
@@ -259,7 +249,6 @@ Goodness, spontaneous love, and the like are qualities that make him easily acce
 
 Goodness, spontaneous love, and the like are qualities that make him easily accessible to all. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -290,7 +279,6 @@ These qualities are, at all times,
 connected with His essential nature (svarūpa ). 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इग्गुणङ्गळॆल्लाम् सर्वकालत्तिलुम् स्वरूपाश्रितङ्गळायिरुक्कुम्. 
@@ -300,9 +288,9 @@ connected with His essential nature (svarūpa ).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पर-व्यूहादि-विभागङ्गळिल्  
-गुण-नियमञ् चॊल्लुगिऱद् ऎल्लाम्  
+गुण-नियमञ् चॊल्लुगिऱत् ऎल्लाम्  
 अव्व्-ओ-रूपङ्गळै अनुसन्धिप्पार्क्कु  
-सर्वेश्वरन् आविष्करिक्कुम् गुण-विशेषङ्गळ् सॊल्लुगैक्क् आगव् अत्तनै. 
+सर्वेश्वरऩ् आविष्करिक्कुम् गुण-विशेषङ्गळ् सॊल्लुगैक्क् आगव् अत्तनै. 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -337,10 +325,9 @@ to those who are devoted to any of these manifestations of His.
 are absent in any of these forms). 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-परव्यूहादिविभागङ्गळिल् गुणनियमञ्चॊल्लुगिऱदॆल्लाम् अव्वोरूपङ्गळै अनुसन्धिप्पार्क्कु सर्वेश्वरन् आविष्करिक्कुम् गुणविशेषङ्गळ् सॊल्लुगैक्कागवत्तनै. 
+परव्यूहादिविभागङ्गळिल् गुणनियमञ्चॊल्लुगिऱदॆल्लाम् अव्वोरूपङ्गळै अनुसन्धिप्पार्क्कु सर्वेश्वरऩ् आविष्करिक्कुम् गुणविशेषङ्गळ् सॊल्लुगैक्कागवत्तनै. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -374,10 +361,9 @@ in connection with particular forms of the Lord
 as revealed in Pūñcarātra or the Scripture of the Lord. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-औपनिषदविद्याविशेषङ्गळ्दोऱुम् अनुसन्धेयगुणविशेषङ् गळ् नियतङ्गळानाऱ्‌पोले भगवच्छास्त्रोक्तमान रूपविशेषानुसन्धानत्तुक्कुम् गुणविशेषङ्गळ् नियतङ्गळ्. 
+औपनिषदविद्याविशेषङ्गळ्दोऱुम् अनुसन्धेयगुणविशेषङ् गळ् नियतङ्गळानाऱ्‌पोले भगवच्छास्त्रोक्तमाऩ रूपविशेषानुसन्धानत्तुक्कुम् गुणविशेषङ्गळ् नियतङ्गळ्. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -425,7 +411,6 @@ all the six [^es159] qualities beginning with knowledge are to be thought of.
     6. tejas splendour, might, the power to overcome others.*
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अव्विडत्तिल् पररूपत्तिल् ज्ञानादिगुणङ्गळ् आऱुम् वेद्यङ्गळ्. 
@@ -453,7 +438,6 @@ The śāstras sometimes say that the vyuhas (or emanations ) are four
 and in some places that they are three. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 व्यूहङ्गळ् नालॆऩ्ऱुम् मूऩ्ऱॆऩ्ऱुम् शास्त्रङ्गळ् सॊल्लुम्.
@@ -463,7 +447,7 @@ and in some places that they are three.
 
 नालु व्यूहम् उण्ड् आय् इरुक्क व्यूह-वासुदेव-रूपत्तुक्कु  
 पर-रूपत्तिऱ्‌ काट्टिल् अनुसन्धेय-गुण-भेदम् इल्लामैयाल् ए  
-त्रि-व्यूहम् ऎन्गिऱदु.
+त्रि-व्यूहम् ऎऩ्गिऱदु.
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -491,12 +475,10 @@ between the Supreme Vāsudeva and the Vyūha Vāsudeva,
 it is tantamount to saying that there are three vyuhas. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-नालु व्यूहमुण्डायिरुक्क व्यूहवासुदेवरूपत्तुक्कु पररूपत्तिऱ्‌ काट्टिल् अनुसन्धेय गुणभेदमिल्लामैयाले त्रिव्यूहमॆन्गिऱदु.
+नालु व्यूहमुण्डायिरुक्क व्यूहवासुदेवरूपत्तुक्कु पररूपत्तिऱ्‌ काट्टिल् अनुसन्धेय गुणभेदमिल्लामैयाले त्रिव्यूहमॆऩ्गिऱदु.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -507,7 +489,7 @@ it is tantamount to saying that there are three vyuhas.
 +++(ज्ञान-बले → सङ्कर्षण, ऐश्वर्य-वीर्ये → प्रद्युम्नः, शक्ति-तेजसी → अनिरुद्ध इति)+++।
 > (वरदराजस्तवम् - 16) 
 
-ऎन्गिऱ श्लोकत्तिल् ए संग्रहित्तार्गळ्. 
+ऎऩ्गिऱ श्लोकत्तिल् ए संग्रहित्तार्गळ्. 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -539,13 +521,10 @@ Those who hold that the vyūhas are three state their view briefly in the follow
 > which had, each of them, a couple of these attributes."
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
-इप्पक्षत्तै “गुणैष्षड्भिस्त्वेतैः प्रथमतरमूर्तिस्तव बभौ ततस्तिस्रस्तेषां त्रियुग युगळैर्हि त्रिभिरभुः” (वरदराजस्तवम् - 16) ऎन्गिऱ श्लोकत्तिले संग्रहित्तार्गळ्. 
+इप्पक्षत्तै “गुणैष्षड्भिस्त्वेतैः प्रथमतरमूर्तिस्तव बभौ ततस्तिस्रस्तेषां त्रियुग युगळैर्हि त्रिभिरभुः” (वरदराजस्तवम् - 16) ऎऩ्गिऱ श्लोकत्तिले संग्रहित्तार्गळ्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -556,7 +535,7 @@ Those who hold that the vyūhas are three state their view briefly in the follow
 **बिभ्राणः पासि** तत्त्वं, **गमयसि** च तथा **व्यूह्य** रङ्गाधिराज! ॥ ३९ ॥  
 (रङ्गराजस्तवम्-उत्तरशतकम् 39) 
 
-ऎन्गिऱ श्लोकत्तिल् ए संग्रहिक्कप्-पट्टन.
+ऎऩ्गिऱ श्लोकत्तिल् ए संग्रहिक्कप्-पट्टऩ.
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -604,18 +583,12 @@ Their respective qualities and activities are epitomised in the following śloka
 > In this way you divide yourself."
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 इप्परव्यूहङ्गळिल् गुणक्रियाविभागङ्गळ् “षाड्गुण्याद्वासुदेवः पर इति स भवान् मुक्तभोग्यो बलाढ्याद्बोधात्सङ्कर्षणस्त्वं हरसि वितनुषे
 
-शास्त्रमैश्वर्यवीर्यात् । प्रद्युम्नस्सर्गधर्मौ नयसि च भगवन् शक्तितेजोऽनिरुद्धो बिभ्राणः पासि तत्त्वं गमयसि च तथा व्यूह्य रङ्गाधिराज” (रङ्गराजस्तवम्-उत्तरशतकम् 39) ऎन्गिऱ श्लोकत्तिले संग्रहिक्कप्पट्टन.
+शास्त्रमैश्वर्यवीर्यात् । प्रद्युम्नस्सर्गधर्मौ नयसि च भगवन् शक्तितेजोऽनिरुद्धो बिभ्राणः पासि तत्त्वं गमयसि च तथा व्यूह्य रङ्गाधिराज” (रङ्गराजस्तवम्-उत्तरशतकम् 39) ऎऩ्गिऱ श्लोकत्तिले संग्रहिक्कप्पट्टऩ.
 </details>
-
-
-
-
 
 [^f155]: Peria Tirumozhi: 3-8-1
 
@@ -626,7 +599,6 @@ Their respective qualities and activities are epitomised in the following śloka
 [^f158]: Amalan Adi Peran: (Tiruppanalvar) 1
 
 [^f160]: Rangarajastavam: Uttara shatakam: 40
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -700,10 +672,9 @@ and art meditated upon with attributes and weapons suited to each."
 [^37]: This śloka cannot be understood without the account given in the Appendix.
 </details>
 
-
 <details><summary>सार-बोधिनी</summary>
 
-इप्पडि त्रिव्यूहपक्षत्तिल् प्रमाणत्तैक्काण्बित्तु पुनरपि चातुर्व्यूहविशेषसंग्राहकमान श्रीपराशरभट्टरुडैय श्लोकत्तैयरुळिच्चॆय्गिऱार् जाग्रदिति ।  
+इप्पडि त्रिव्यूहपक्षत्तिल् प्रमाणत्तैक्काण्बित्तु पुनरपि चातुर्व्यूहविशेषसंग्राहकमाऩ श्रीपराशरभट्टरुडैय श्लोकत्तैयरुळिच्चॆय्गिऱार् जाग्रदिति ।  
 इन्द श्लोकत्तिल् सदृशार्थम् आऩ प्राय-शब्दं द्वन्द्वान्त-स्थम् आगैयाल् जाग्रद्-आदि-प्रत्येकङ्गळिल् अन्वयिक्किऱदु.  
 स्वप्नशब्दम् उम् समभिव्याहारात् धर्मिपरम् ।  
 तथा च जाग्रत्प्रायाः स्वप्नवत्प्रायाः ।  
@@ -713,26 +684,26 @@ and art meditated upon with attributes and weapons suited to each."
 अद् आवदु चातुर्व्यूह-ध्यानम् सॆय्गिऱवर्गळ् नाल्वर्गळ्.  
 अदिल् ऒरुवनै आरंभ-दशैयिल् ध्यानत्तोडु जाग्रत्-पुरुषनुक्कुप् पोल्  
 प्रायशो बाह्यानुभवम् उम् कलसिय् इरुप्पदाल्  
-**जाग्रत्-प्रायन्** ऎन्गिऱदु.  
+**जाग्रत्-प्रायऩ्** ऎऩ्गिऱदु.  
 
 मऱ्ऱ् ऒरुवनै स्वल्पम् आऩ योग-विपाकत्ताल् ए  
-स्वप्न-दशैयिल् बोल् बाह्येन्द्रियानुभवम् इल्लामल्  
+स्वप्ऩ-दशैयिल् बोल् बाह्येन्द्रियानुभवम् इल्लामल्  
 ध्यानत्तोडु विषयङ्गळिल् मानसानुभव-मात्रम् इरुप्पदाल्  
-**स्वप्नवत्-पुरुष-प्रायन्** ऎन्गिऱदु.  
+**स्वप्नवत्-पुरुष-प्रायऩ्** ऎऩ्गिऱदु.  
 
 मऱ्ऱ् ऒरुवनै ततो ऽप्य् अधिक-विपाकत्ताल् ए  
 सुषुप्तनुक्कुप् पोल् सर्वेन्द्रिय-जन्यानुभवम् इल्लामल्  
-तद्-अर्हता-मात्र-सूचकोच्छ्वासादिमात्रम् इरुप्पदाल् अत्यलसन्.  
-अदावदु **सुषुप्त-प्रायन्** ऎन्गिऱदु. 
+तद्-अर्हता-मात्र-सूचकोच्छ्वासादिमात्रम् इरुप्पदाल् अत्यलसऩ्.  
+अदावदु **सुषुप्त-प्रायऩ्** ऎऩ्गिऱदु. 
 
-मऱ्ऱ् ऒरुवनै पुष्कल-ध्यान-विपाक-महिमवत्तया  
+मऱ्ऱ् ऒरुवनै पुष्कल-ध्याऩ-विपाक-महिमवत्तया  
 विषयानुभवार्हता-सूचक-चिह्नम् उम् इल्लामैयाल्  
-**तुरीय-प्रायन्** अद् आवदु मूर्च्छित-प्रायन् ऎन्गिऱदु.  
+**तुरीय-प्रायऩ्** अद् आवदु मूर्च्छित-प्रायऩ् ऎऩ्गिऱदु.  
 
-इङ्गु यतमान-व्यतिरेकैकेन्द्रिय-वशीकार-संज्ञक-योगावस्थाचतुष्टय-न्यायो ऽभिप्रेतः ।  
+इङ्गु यतमाऩ-व्यतिरेकैकेन्द्रिय-वशीकार-संज्ञक-योगावस्थाचतुष्टय-न्यायो ऽभिप्रेतः ।  
 तेषां क्रमवत् इदऱ्‌कु ‘‘**चतुर्धा**’’ ऎन्बदोडु अन्वयम्.  
 
-हे स्वामिन् **तत्-तद्-गुण-परिबर्हः**  
+हे स्वामिऩ् **तत्-तद्-गुण-परिबर्हः**  
 गुणाश्च परिबर्हाश्च – गुणपरिबर्हाः,  
 ते ते गुण-परिबर्हाः यस्य **तत्तद्गुणपरिबर्हः** ।  
 इङ्गु **गुणङ्गळ्** आवदु चातुर्-व्यूहङ्गळ्-उडैय सित-रक्तादिवर्ण-विशेषङ्गळ्.  
@@ -741,15 +712,14 @@ and art meditated upon with attributes and weapons suited to each."
 इत्थम्-उपास्यस्त्वम् ।  
 
 चातुर्व्यूहं – चतुर्व्यूहङ्गळै चतुर्धा – **जाग्रत्-स्वप्नात्यलस-तुरीय-प्रायावस्थावत्तया वहसि** ।  
-अदावदु परम-पदत्तिल् शुद्ध-सत्व-द्रव्यत्तिन् परिणाम-रूपम् आय्  
+अदावदु परम-पदत्तिल् शुद्ध-सत्व-द्रव्यत्तिऩ् परिणाम-रूपम् आय्  
 कर-चरणादि-रहितम् आय्,  
 स्थूलाकारम् आय्,  
 अधिकायाम-विस्तारमाय्,  
-विशाख-यूपम् ऎन्गिऱ भगवान्-उडैय रूप-विशेषम् ऒऩ्ऱु इरुक्किऱदु.  
-अदिल् किञ्चिदुपरि जाग्रत्संज्ञकमान स्थानम्. ततोऽपि किञ्चदुपरि स्वप्नसंज्ञकं स्थानम्. ततोऽपि किञ्चिदुपरि सुषुप्तिसंज्ञकं स्थानम्. अग्रदेशत्तिल् तुरीयसंज्ञकं स्थानमिरुक्किऱदु. अदिल् जाग्रत्स्थानत्तिल् जाग्रद्व्यूहसंज्ञकम्. वासुदेवसङ्कर्षणप्रद्युम्नानिरुद्धरूपमूर्तिचतुष्टयम् विशाखयूपत्तिऱ्‌कु किळैगळ् पोल् प्रागादिक्रमत्ताले नालु दिक्किलुमिरुक्किऱदु. अदऱ्‌कु विशेषम् सृष्टिस्थित्यादिव्यापारङ्गळ् अत्युत्कृष्टसितरक्तादिवर्णङ्गळ् सर्वायुधाद्युपकरणङ्गळ्. स्वप्नस्थानत्तिलुम् स्वप्नसंज्ञकम् वासुदेवादिव्यूहचतुष्टयमुम् पूर्वम्बोल विशाखयूपत्तिऱ्‌कु परितः इरुक्किऱदु. अदऱ्‌कु विशेषम् सृष्टिस्थित्यादिव्यापारेच्छामात्रमेयॊऴिय व्यापारमिल्लामै. जाग्रद्व्यूहत्तैक्कुऱित्तु हेतुतयाऽवस्थानमुम् ऒरु विशेषम्. उत्कृष्टमिल्लाद सितरक्तादिवर्णङ्गळुम्, आयुधादिकळिरुन्दालुम् ध्वजाद्युपकरणराहित्यमुम्, सुषुप्तिस्थानत्तिल् सुषुप्तसंज्ञकम् चातुर्व्यूहम् मुन्बोलवे नान्गु पक्कत्तिलुमिरुक्किऱदु. अदऱ्‌कु विशेषम् सृष्ट्यादीच्छैयुमिल्लामल् स्वानन्दानुभवमात्रम्. अदिल् प्राग्भागत्तिलिरुक्कुम् वासुदेवनुक्कु करचरणादिविग्रहमु मिल्लै. आनाल् विशाखयूपत्तिऱ्‌कु किळैबोल् परिणतमान शुद्धसत्वद्रव्यैकदेशत्ताल् शरीरसंबन्धिपोल् तोऩ्ऱुम् षाड्गुण्यप्रकाशनमात्रमुमुण्डु. दक्षिणादिदिक्स्थितानां सङ्कर्षणादीनां करचरणादियुक्तविग्रहमिरुन्दालुम् आयुधादिकळिल्लै. कैगळिल् रेखारूपङ्गळान शङ्खचक्रलांगलादिचिह्नमुण्डु. वर्णभेदमिल्लै. तुरीयस्थानत्तिल् तुरीयसंज्ञकम् व्यूहचतुष्टयम् मुन्बोलवे इरुक्किऱदु. अदऱ्‌कु विशेषम् प्रागादि नालु व्यूहङ्गळुक्कुम् करचरणादियुक्तविग्रहमिल्लै. सुषुप्तवासुदेवतुल्यं अदावदु किळैबोल् इरुक्किऱ शरीरमात्रम्. आगैयालेये चेतनव्यापारचिद्राहित्यम्. प्राग्भागत्तिलिरुक्कुम् वासुदेवनुक्कु षाड्गुण्य-प्रकाशनम्. इतरर्गळुक्कु अवरवर्गळुक्कु नियतमान गुणद्वयप्रकाशनं च । इन्द नालु व्यूहङ्गळुक्कुम् जाग्रदादिसंज्ञै व्यापारबाहुळ्यत्तालुम् तदल्पतैयालुम् तदत्यन्ताभावत्तालुम् लोकदृष्टप्रक्रियैयाले वन्ददत्तनै. तत्तद्व्यूहसंबन्धत्ताले विशाखयूपत्तिन् स्थानङ्गळिल् जाग्रत्स्थानादिसंज्ञै । इप्पडि भगवान् चातुर्व्यूहत्तै जाग्रदादिभेदभिन्नमाग वहिक्कैयाल् ‘‘चतुर्धा वहसि’’ ऎऩ्ऱु सॊल्लप्पट्टदु. इदिन् विशेषङ्गळैयॆल्लाम् लक्ष्मीतन्त्रत्तिलुम् इन्द विशाखयूपत्तै हृदयत्तिल् द्ध्येयमागच्चॊन्न सात्वतसंहितैयिलुम् अप्पडिये हृदयारूढमाग अनुसन्धेयमागच्चॊन्न वरदराजपञ्चाशत्तिन् ‘‘रूढस्य चिन्मयतया’’ ऎन्गिऱ श्लोकत्तिलुम् कण्डुगॊळ्वदु.  
+विशाख-यूपम् ऎऩ्गिऱ भगवान्-उडैय रूप-विशेषम् ऒऩ्ऱु इरुक्किऱदु.  
+अदिल् किञ्चिदुपरि जाग्रत्संज्ञकमाऩ स्थानम्. ततोऽपि किञ्चदुपरि स्वप्नसंज्ञकं स्थानम्. ततोऽपि किञ्चिदुपरि सुषुप्तिसंज्ञकं स्थानम्. अग्रदेशत्तिल् तुरीयसंज्ञकं स्थानमिरुक्किऱदु. अदिल् जाग्रत्स्थानत्तिल् जाग्रद्व्यूहसंज्ञकम्. वासुदेवसङ्कर्षणप्रद्युम्नानिरुद्धरूपमूर्तिचतुष्टयम् विशाखयूपत्तिऱ्‌कु किळैगळ् पोल् प्रागादिक्रमत्ताले नालु दिक्किलुमिरुक्किऱदु. अदऱ्‌कु विशेषम् सृष्टिस्थित्यादिव्यापारङ्गळ् अत्युत्कृष्टसितरक्तादिवर्णङ्गळ् सर्वायुधाद्युपकरणङ्गळ्. स्वप्नस्थानत्तिलुम् स्वप्नसंज्ञकम् वासुदेवादिव्यूहचतुष्टयमुम् पूर्वम्बोल विशाखयूपत्तिऱ्‌कु परितः इरुक्किऱदु. अदऱ्‌कु विशेषम् सृष्टिस्थित्यादिव्यापारेच्छामात्रमेयॊऴिय व्यापारमिल्लामै. जाग्रद्व्यूहत्तैक्कुऱित्तु हेतुतयाऽवस्थानमुम् ऒरु विशेषम्. उत्कृष्टमिल्लाद सितरक्तादिवर्णङ्गळुम्, आयुधादिकळिरुन्दालुम् ध्वजाद्युपकरणराहित्यमुम्, सुषुप्तिस्थानत्तिल् सुषुप्तसंज्ञकम् चातुर्व्यूहम् मुन्बोलवे नाऩ्गु पक्कत्तिलुमिरुक्किऱदु. अदऱ्‌कु विशेषम् सृष्ट्यादीच्छैयुमिल्लामल् स्वानन्दानुभवमात्रम्. अदिल् प्राग्भागत्तिलिरुक्कुम् वासुदेवनुक्कु करचरणादिविग्रहमु मिल्लै. आनाल् विशाखयूपत्तिऱ्‌कु किळैबोल् परिणतमाऩ शुद्धसत्वद्रव्यैकदेशत्ताल् शरीरसंबन्धिपोल् तोऩ्ऱुम् षाड्गुण्यप्रकाशनमात्रमुमुण्डु. दक्षिणादिदिक्स्थितानां सङ्कर्षणादीनां करचरणादियुक्तविग्रहमिरुन्दालुम् आयुधादिकळिल्लै. कैगळिल् रेखारूपङ्गळाऩ शङ्खचक्रलांगलादिचिह्नमुण्डु. वर्णभेदमिल्लै. तुरीयस्थानत्तिल् तुरीयसंज्ञकम् व्यूहचतुष्टयम् मुन्बोलवे इरुक्किऱदु. अदऱ्‌कु विशेषम् प्रागादि नालु व्यूहङ्गळुक्कुम् करचरणादियुक्तविग्रहमिल्लै. सुषुप्तवासुदेवतुल्यं अदावदु किळैबोल् इरुक्किऱ शरीरमात्रम्. आगैयालेये चेतनव्यापारचिद्राहित्यम्. प्राग्भागत्तिलिरुक्कुम् वासुदेवनुक्कु षाड्गुण्य-प्रकाशनम्. इतरर्गळुक्कु अवरवर्गळुक्कु नियतमाऩ गुणद्वयप्रकाशनं च । इन्द नालु व्यूहङ्गळुक्कुम् जाग्रदादिसंज्ञै व्यापारबाहुळ्यत्तालुम् तदल्पतैयालुम् तदत्यन्ताभावत्तालुम् लोकदृष्टप्रक्रियैयाले वन्ददत्तनै. तत्तद्व्यूहसंबन्धत्ताले विशाखयूपत्तिऩ् स्थानङ्गळिल् जाग्रत्स्थानादिसंज्ञै । इप्पडि भगवान् चातुर्व्यूहत्तै जाग्रदादिभेदभिन्नमाग वहिक्कैयाल् ‘‘चतुर्धा वहसि’’ ऎऩ्ऱु सॊल्लप्पट्टदु. इदिऩ् विशेषङ्गळैयॆल्लाम् लक्ष्मीतन्त्रत्तिलुम् इन्द विशाखयूपत्तै हृदयत्तिल् द्ध्येयमागच्चॊऩ्ऩ सात्वतसंहितैयिलुम् अप्पडिये हृदयारूढमाग अनुसन्धेयमागच्चॊऩ्ऩ वरदराजपञ्चाशत्तिऩ् ‘‘रूढस्य चिन्मयतया’’ ऎऩ्गिऱ श्लोकत्तिलुम् कण्डुगॊळ्वदु.  
 ऎऩ्ऱु संगृहीतङ्गळायिऱ्ऱु इति । उक्तोऽर्थः ।
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -850,7 +820,6 @@ he is like one in a swoon, not even breathing in or out.
 केशवादीनि द्वादश रूपाण्यपि व्यूहान्तराणि ।
 </details>
 
-
 <details><summary>English</summary>
 
 The twelve forms that begin with Keśava are other forms derived from the vyūhas. 
@@ -861,10 +830,9 @@ The twelve forms that begin with Keśava are other forms derived from the vyūha
 The twelve forms that begin with Keśava are other forms derived from the vyūhas. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-केशवादिगळान पन्निरण्डु रूपङ्गळुम् व्यूहान्तरङ्गळ्.
+केशवादिगळाऩ पन्निरण्डु रूपङ्गळुम् व्यूहान्तरङ्गळ्.
 </details>
 
 ## विभवाः
@@ -878,10 +846,9 @@ The twelve forms that begin with Keśava are other forms derived from the vyūha
 (Bhagavān also manifests Himself as vibhavas.)
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विभवङ्गळ् आवन पद्मनाभादिगळ् आऩ मुप्-पत्तुच्-चिल्व् आऩ रूपङ्गळ्.  
+विभवङ्गळ् आवऩ पद्मनाभादिगळ् आऩ मुप्-पत्तुच्-चिल्व् आऩ रूपङ्गळ्.  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -899,17 +866,16 @@ These vibhavas are thirty odd forms like Padmanabha.
 These vibhavas are thirty odd forms like Padmanabha. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-विभवङ्गळावन पद्मनाभादिगळान मुप्पत्तुच्चिल्वान रूपङ्गळ्.  
+विभवङ्गळावऩ पद्मनाभादिगळाऩ मुप्पत्तुच्चिल्वाऩ रूपङ्गळ्.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इवऱ्ऱिल् मत्स्य-कूर्मादिगळ् आऩ अवतारङ्गळ्  
-ऒरु प्रयोजन-वशत्ताल् ए  
-विशेषित्तुच् चॊल्लप्-पट्टन. 
+ऒरु प्रयोजऩ-वशत्ताल् ए  
+विशेषित्तुच् चॊल्लप्-पट्टऩ. 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -917,7 +883,6 @@ These vibhavas are thirty odd forms like Padmanabha.
 एषु मत्स्य-कूर्मादयो ऽवताराः  
 प्रयोजन-विशेषेण केनापि विशिष्य परिगणिताः । 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -931,18 +896,17 @@ Among them Avatars like Matsya and Kurma
 are specified in relation to some specific purpose.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इवऱ्ऱिल् मत्स्यकूर्मादि कळान अवतारङ्गळॊरु प्रयोजनवशत्ताले विशेषित्तुच् चॊल्लप्पट्टन. 
+इवऱ्ऱिल् मत्स्यकूर्मादिकळाऩ अवतारङ्गळॊरु प्रयोजनवशत्ताले विशेषित्तुच् चॊल्लप्पट्टऩ. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव् विभवङ्गळिल् ईश्वरन्  
-अव्व्-ओ कार्य-विशेषङ्गळुक्क् ईडागत् तान्  
-वेण्डिन गुणङ्गळै वेण्डिन-पोदु मऱैत्तुम्  
-वेण्डिन-पोदु प्रकाशिप्पित्तुम् नडत्तुम्.  
+इव् विभवङ्गळिल् ईश्वरऩ्  
+अव्व्-ओ कार्य-विशेषङ्गळुक्क् ईडागत् ताऩ्  
+वेण्डिऩ गुणङ्गळै वेण्डिऩ-पोदु मऱैत्तुम्  
+वेण्डिऩ-पोदु प्रकाशिप्पित्तुम् नडत्तुम्.  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -952,7 +916,6 @@ are specified in relation to some specific purpose.
 यथा-च्छन्दं प्रच्छादनं प्रकाशनं च करोति । 
 </details>
 
-
 <details><summary>English</summary>
 
 In these vibhavas or avatārs,  
@@ -973,10 +936,9 @@ which He wants to reveal
 to suit the special mission which He has undertaken in them. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इव् विभवङ्गळिल् ईश्वरनव्वो कार्यविशेषङ्गळुक्कीडागत्तान् वेण्डिन गुणङ्गळै वेण्डिन-पोदु मऱैत्तुम् वेण्डिन-पोदु प्रकाशिप्पित्तुम् नडत्तुम्.  
+इव् विभवङ्गळिल् ईश्वरनव्वो कार्यविशेषङ्गळुक्कीडागत्ताऩ् वेण्डिऩ गुणङ्गळै वेण्डिऩ-पोदु मऱैत्तुम् वेण्डिऩ-पोदु प्रकाशिप्पित्तुम् नडत्तुम्.  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1003,7 +965,6 @@ Among them, there are varied manifestations which are countless.
 So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवऱ्ऱिल् अवान्तरभेदङ्गळ् “कृष्णरूपाण्यसङ्ख्यानि” (पाञ्चरात्रम्.) इत्यादिगळिऱ्‌पडिये अनन्तङ्गळ्.
@@ -1024,7 +985,6 @@ So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable"
 इत्थम् एव विभवान्तराण्य् अपि द्रष्टव्यानि ।
 </details>
 
-
 <details><summary>English</summary>
 
 Other forms similarly derived from the vibhavas  
@@ -1037,12 +997,10 @@ Other forms similarly derived from the vibhavas
 can also be seen in the śāstras. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इप्पडि विभवान्तरङ्गळुम् कण्डु कॊळ्वदु.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1056,7 +1014,6 @@ can also be seen in the śāstras.
 अतिशयित-कार्याणां निर्वहणमपि विभवभेदः । 
 </details>
 
-
 <details><summary>English</summary>
 
 Sometimes the Lord enters into some jīvas  
@@ -1073,23 +1030,21 @@ and into others with His energy (śakti) and accomplishes wonderful things.
 These belong to another class of vibhavas. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सिल जीवर्गळै विग्रहविशेषत्तालुम् शक्तिविशेषत्तालुम् अधिष्ठित्तु अतिशयितकार्यङ्गळै नडत्तुगिऱदुवुम् विभवभेदम्.
 </details>
 
-
 ## अर्चावतारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पर-व्यूहादि-रूपङ्गळ्-तान् ए  
+पर-व्यूहादि-रूपङ्गळ्-ताऩ् ए  
 आश्रितर्क्क् आग अवर्गळ् अपेक्षित्तप्-पडिय् ए  
 
 > “बिम्बाकृत्य्-आत्मना बिम्बे  
 > समागत्यावतिष्ठते”
 
-ऎन्गिऱप् पडिये निऱ्‌किऱ निलै **अर्चावतारम्**.
+ऎऩ्गिऱप् पडिये निऱ्‌किऱ निलै **अर्चावतारम्**.
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1123,14 +1078,12 @@ This is arcāvatara.
 [^es164]: Sātvatasamhita: 6-22 This is stated in the following passage: "He assumes a form similar to that of the image, enters into it, and remains there”.*
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 परव्यूहादिरूपङ्गळ्दाने आश्रितर्क्काग अवर्गळपेक्षित्तप्पडिये  
 “बिम्बाकृत्यात्मना बिम्बे समागत्यावतिष्ठते”
-ऎन्गिऱप्पडिये निऱ्‌किऱ निलै अर्चावतारम्.
+ऎऩ्गिऱप्पडिये निऱ्‌किऱ निलै अर्चावतारम्.
 </details>
-
 
 ## अन्तर्यामी
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1157,12 +1110,10 @@ The Lord is (also) present in a subtle form in the hearts of all jīvas.
 This form is called Antaryāmi Avatāra, 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 सर्वरुडैयवुम् हृदयङ्गळिले सूक्ष्ममायिरुप्पदॊरु रूपविशेषत्तैक्कॊण्डु निऱ्‌किऱ निलै अन्तर्याम्यवतारम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1191,10 +1142,9 @@ those who wish to enter into the meditation of the Antaryāmin or the divine all
 It has been said of this meditation: 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इदु सर्वान्तर्यामियान दिव्यात्मस्वरूपत्तै अनुसन्धिक्क इऴिवार्क्कुत् तुऱैयाग  
+इदु सर्वान्तर्यामियाऩ दिव्यात्मस्वरूपत्तै अनुसन्धिक्क इऴिवार्क्कुत् तुऱैयाग  
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1232,7 +1182,6 @@ who dwells in the heart
 are fit to meditate on the one (i.e.)  
 the form in which He dwells in the hearts of all." 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1260,19 +1209,12 @@ Therefore this One (Hārda) is spoken as Antaryāmi.
 Therefore this One (Hārda) is spoken as Antaryāmi.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इत्यादिगळिले सॊल्लुगैयाले अन्तर्यामिरूपम् ऎऩ्ऱु सॊल्लप्पट्टदु. 
 </details>
 
-
-
-
-
 [^f163]: Pāñcarātra
-
-
 
 [^f165]: Sātvatasamhita: 2-7-8
 
@@ -1296,18 +1238,17 @@ Therefore this One (Hārda) is spoken as Antaryāmi.
 
 <details><summary>English</summary>
 
-All these forms of incarnation are constituted of the substance called s'uddhasattvam  
+All these forms of incarnation are constituted of the substance called śuddhasattvam  
 and have no connection with karma or its fruits.  
-They are therefore called pure creation (s'uddha śrīshti). 
+They are therefore called pure creation (śuddha śrīshti). 
 </details>
 
 <details><summary>Español</summary>
 
-All these forms of incarnation are constituted of the substance called s'uddhasattvam  
+All these forms of incarnation are constituted of the substance called śuddhasattvam  
 and have no connection with karma or its fruits.  
-They are therefore called pure creation (s'uddha śrīshti). 
+They are therefore called pure creation (śuddha śrīshti). 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1334,7 +1275,6 @@ These avatārs (vibhava, arcā and Hārda ) are all real;
 These avatārs (vibhava, arcā and Hārda ) are all real; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इव् अवतारङ्गळॆल्लाम् सत्यङ्गळॆऩ्ऱुम्,
@@ -1359,7 +1299,6 @@ in them there is no contraction or abridgement of jñāna and the other attribut
 
 in them there is no contraction or abridgement of jñāna and the other attributes of Iśvara; 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1386,7 +1325,6 @@ the bodies of these avatārs are made of Śuddha-sattvam;
 the bodies of these avatārs are made of Śuddha-sattvam; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इव्विग्रहङ्गळ् शुद्धसत्त्वमयङ्गळॆऩ्ऱुम्,
@@ -1412,12 +1350,10 @@ the reason for these avatars is only the Lord's will;
 the reason for these avatars is only the Lord's will; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवऱ्ऱिऱ्‌कु ईश्वरेच्छामात्रमे कारणम् ऎऩ्ऱुम्,
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1439,12 +1375,10 @@ their time of manifestation is the time when dharma has to be safe-guarded;
 their time of manifestation is the time when dharma has to be safe-guarded; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 धर्मरक्षणम् पण्णवेण्डुम् कालमे कालम् ऎऩ्ऱुम्,
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1466,7 +1400,6 @@ their purpose is the protection of the good and the like;
 their purpose is the protection of the good and the like; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 साधुपरित्राणादिगळे प्रयोजनङ्गळॆऩ्ऱुम् 
@@ -1474,7 +1407,7 @@ their purpose is the protection of the good and the like;
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व्-अर्थन् तॆळिन्दु अनुसन्धिप्पार्क्कु  
+इव्व्-अर्थं तॆळिन्दु अनुसन्धिप्पार्क्कु  
 एक-जन्मत्तिल् ए स्वाधिकारानुगुण-समीहितोपाय-पूर्तियाल् ए  
 जन्मान्तरम् अनुभवियाद् ए  
 मुक्तर् आगलाम् ऎऩ्ऱुम्  
@@ -1506,8 +1439,6 @@ by their successful adoption of the right means
 suited to their competency and capacity. 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 इव्वर्थन्दॆळिन्दु अनुसन्धिप्पार्क्कु एकजन्मत्तिले स्वाधिकारानुगुणसमीहितोपायपूर्तियाले जन्मान्तरमनुभवियादे मुक्तरागलाम् ऎऩ्ऱुम्  
@@ -1517,7 +1448,7 @@ suited to their competency and capacity.
 
 “बहूनि मे व्यतीतानि” (भगवद्गीतै 4-5.)  
 ऎऩ्ऱु तुडङ्गि  
-ऐन्दु श्लोकत्ताल् ए गीताचार्यन् अरुळिच्चॆय्दान्. 
+ऐन्दु श्लोकत्ताल् ए गीताचार्यऩ् अरुळिच्चॆय्दाऩ्. 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1543,10 +1474,9 @@ All these truths have. been explained by the Gitācharya in five śloka s beginn
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-“बहूनि मे व्यतीतानि” (भगवद्गीतै 4-5.) ऎऩ्ऱु तुडङ्गि ऐन्दु श्लोकत्ताले गीताचार्यनरुळिच्चॆय्दान्. 
+“बहूनि मे व्यतीतानि” (भगवद्गीतै 4-5.) ऎऩ्ऱु तुडङ्गि ऐन्दु श्लोकत्ताले गीताचार्यनरुळिच्चॆय्दाऩ्. 
 </details>
 
 [^f166]: Bhagavadgītā: IV 5
@@ -1585,18 +1515,16 @@ who is sought as the refuge
 and this at the moment when he adopts prapatti as the means. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इदु स्वतन्त्रप्रपत्तिनिष्ठनुक्कु शरण्यगुणविशेषज्ञानमुखत्ताले उपायानुष्ठानक्षणत्तिले महाविश्वासादिगळै स्थिरीकरित्तु उपकारकमाम्. 
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इप्-पडिय् ए अर्चावतारम् उम् मिऱुक्कऱ मोक्षत्तैत् तरुम् 
 
-ऎन्नुम् इडत्तै …
+ऎऩ्ऩुम् इडत्तै …
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1615,10 +1543,9 @@ So also the worship of Archāvatāra (the image) will lead easily to mokṣa.
 So also the worship of Archāvatāra (the image) will lead easily to mokṣa. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इप्पडिये अर्चावतारमुम् मिऱुक्कऱ मोक्षत्तैत्तरुम् ऎन्नुमिडत्तै 
+इप्पडिये अर्चावतारमुम् मिऱुक्कऱ मोक्षत्तैत्तरुम् ऎऩ्ऩुमिडत्तै 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1676,7 +1603,6 @@ and will have all one's sins dispelled."
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “सुरूपां प्रतिमां विष्णोः प्रसन्नवदनेक्षणाम् । कृत्वात्मनः प्रीतिकरीं सुवर्णरजतादिभिः ॥ तामर्चयेत्तां प्रणमेत्तां यजेत्तां विचिन्तयेत् । विशत्यपास्तदोषस्तु तामेव ब्रह्मरूपिणीम् ॥”(विष्णुधर्मम् 106-16.) 
@@ -1685,7 +1611,7 @@ and will have all one's sins dispelled."
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्ऱु श्रीशौनकभगवानरुळिच्चॆय्दान्.
+ऎऩ्ऱु श्रीशौनकभगवानरुळिच्चॆय्दाऩ्.
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1703,10 +1629,9 @@ Bhagavān Śaunaka has said (thus)
 Bhagavān Śaunaka has said (thus)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ऎऩ्ऱु श्रीशौनकभगवानरुळिच्चॆय्दान्.
+ऎऩ्ऱु श्रीशौनकभगवानरुळिच्चॆय्दाऩ्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1744,21 +1669,17 @@ in the form of arcā or consecrated images
 and considered the Supreme Self (in Vaikuṇṭha  ) as their original cause.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आऴ्वार्गळुमिव्ववदार रहस्यत्तैयुम् अर्चावतारवैलक्षण्यत्तैयुम् प्रचुरमाग अनुसन्धित्तु इदऱ्‌कुप्पेरणियाग परत्वत्तैक् कण्डु पोन्दार्गळ्.
 </details>
 
-
-
-
 [^f167]: Viṣṇudharma: 103-16
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडिय् इरुक्किऱ ईश्वरन्  
-तन् _आनन्दत्तुक्कुप् परीवाहम्_ आगप् पण्णुम् व्यापारङ्गळ्  
+इप्-पडिय् इरुक्किऱ ईश्वरऩ्  
+तऩ् _आनन्दत्तुक्कुप् परीवाहम्_ आगप् पण्णुम् व्यापारङ्गळ्  
 स-कल--जगत्-सृष्टि-स्थिति-संहार--मोक्ष-प्रदत्वादिगळ्.+++(5)+++
 </details>
 
@@ -1785,17 +1706,16 @@ is also the giver of mokṣa  and has such other activities.
 These activities of His are due to the overflow of His bliss or ānanda.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इप्पडियिरुक्किऱ ईश्वरन् तन् आनन्दत्तुक्कुप् परीवाहमागप् पण्णुम् व्यापारङ्गळ् सकलजगत्सृष्टिस्थितिसंहार मोक्षप्रदत्वादिगळ्.
+इप्पडियिरुक्किऱ ईश्वरऩ् तऩ् आनन्दत्तुक्कुप् परीवाहमागप् पण्णुम् व्यापारङ्गळ् सकलजगत्सृष्टिस्थितिसंहार मोक्षप्रदत्वादिगळ्.
 </details>
 
 ## लक्ष्मीः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व् ईश्वरन् 
+इव्व् ईश्वरऩ् 
 
 > “नित्यैवैषा जगन्-माता  
 विष्णोः श्रीर् अनपायिनी”  
@@ -1811,7 +1731,6 @@ These activities of His are due to the overflow of His bliss or ānanda.
 (विष्णुपुराणम् 1-8-17.)
 </details>
 
-
 <details><summary>English</summary>
 
 "Lakṣmī , the [^f168] mother of the world,  
@@ -1823,16 +1742,15 @@ is eternal and inseparable from Viṣṇu ."
 "Lakṣmī , the [^f168] mother of the world, is eternal and inseparable from Viṣṇu ." 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इव्वीश्वरन् “नित्यैवैषा जगन्माता विष्णोः श्रीरनपायिनी”(विष्णुपुराणम् 1-8-17.) 
+इव्वीश्वरऩ् “नित्यैवैषा जगन्माता विष्णोः श्रीरनपायिनी”(विष्णुपुराणम् 1-8-17.) 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्य्-आदिगळिऱ्‌-पडिय् ए  
-सर्वावस्थैयिल् उम् सपत्नीकन् आय्क् कॊण्ड् एय् इरुक्कुम् 
+सर्वावस्थैयिल् उम् सपत्नीकऩ् आय्क् कॊण्ड् एय् इरुक्कुम् 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -1854,7 +1772,6 @@ Iśvara is with His consort in all situations as stated in passages like (the ab
 Iśvara is with His consort in all situations as stated in passages like (the above). 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इत्यादिगळिऱ्‌पडिये सर्वावस्थैयिलुम् सपत्नीकनाय्क् कॊण्डेय् इरुक्कुम् 
@@ -1862,7 +1779,7 @@ Iśvara is with His consort in all situations as stated in passages like (the ab
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎन्नुम् इडत्तै 
+ऎऩ्ऩुम् इडत्तै 
 
 “तत्त्वेन यः” (आळ-स्तो. 4.) 
 
@@ -1902,12 +1819,10 @@ their distinctive nature, swarga, mokṣa
 and the means of attaining them"
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ऎन्नुमिडत्तै “तत्त्वेन यः” (आळ-स्तो. 4.) 
+ऎऩ्ऩुमिडत्तै “तत्त्वेन यः” (आळ-स्तो. 4.) 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1947,21 +1862,14 @@ fragrant with vakula flowers,
 for they are, to all those who are connected with me, mother, father, wives, 8008 and all forms of wealth and lordship."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “माता पिता” (आळ-स्तो. 5.)  
-
-(माता पिता युवतयस् तनया विभूतिस्  
-सर्वं यद् एव नियमेन मद्-अन्वयानाम् ।  
-आद्यस्य नः कुल-पतेर् वकुलाभिरामं  
-श्रीमत्-तदङ्घ्रि-युगलं +++(शठकोपरूपं)+++ **प्रणमामि** मूर्ध्ना ॥) 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎन्गिऱ श्लोकङ्गळिल् ए  
+ऎऩ्गिऱ श्लोकङ्गळिल् ए  
 +++(यामुनेन)+++ उपकार-विशेषत्ताल् ए सादरम् आग विशेषित्तुच् चॊल्लप्-पट्ट  
 पराशर-पराङ्कुश-प्रबन्धङ्गळिल् ए तॆळिन्दु-गॊळ्वदु.
 </details>
@@ -1987,10 +1895,9 @@ who, for the help which they have rendered,
 have been spoken of by Aḷavandār with great regard in these terms.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-ऎन्गिऱ श्लोकङ्गळिले उपकारविशेषत्ताले सादरमाग विशेषित्तुच् चॊल्लप्पट्ट पराशरपराङ्कुशप्रबन्धङ्गळिले तॆळिन्दुगॊळ्वदु.
+ऎऩ्गिऱ श्लोकङ्गळिले उपकारविशेषत्ताले सादरमाग विशेषित्तुच् चॊल्लप्पट्ट पराशरपराङ्कुशप्रबन्धङ्गळिले तॆळिन्दुगॊळ्वदु.
 </details>
 
 [^f168]: Viṣṇupurāṇa: 1-22-53
@@ -2023,7 +1930,6 @@ for the Lord is concerned with the punishment (of the evildoer)
 and Lakṣmī with pleading to Him for mercy on behalf of the sinner; 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इव्विडत्तिल् दण्ड-धरत्वमुम् पुरुषकारत्वादिगळुम् ऎम्बॆरुमानुक्कुम् पिराट्टिक्कुङ्गूऱाग विभजित्तव्यापारङ्गळ्.  
@@ -2033,8 +1939,8 @@ and Lakṣmī with pleading to Him for mercy on behalf of the sinner;
 
 +++("नित्यं तद्धर्मधर्मिणी" इत्य्-आदिष्व् अतिदेशेषु)+++
 
-> उपदिश्यमान-धर्माधारत्तिऱ् ‌काट्टिल्  
-अतिदिश्यमान धर्माधारत्तुक्कु विशेषम् स्वतःप्राप्तम् 
+> उपदिश्यम् आऩ धर्माधारत्तिऱ् ‌काट्टिल्  
+अतिदिश्यम् आऩ धर्माधारत्तुक्कु विशेषम् स्वतःप्राप्तम् 
 
 ऎऩ्ऱु  
 उवर् +++(मीमांसका)+++ अरुळिच्-चॆय्ददुक्क् उम्  
@@ -2065,7 +1971,6 @@ there should be a difference between Bhagavān and Lakṣmī .
 This difference should be understood as referring (here)  
 only to the difference in their functions or activities.  
 
-
 [^39]: Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.
 </details>
 
@@ -2082,16 +1987,13 @@ there should be a difference between Bhagavān and Lakṣmī .
 This difference should be understood as referring (here)  
 only to the difference in their functions or activities.
 
-
 [^es39]: Without requiring any other authority to prove it. The different activities shared by Lakṣmī  and Her Lord are determined by their own will and not by difference in the nature of the two.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
 उपदिश्यमानधर्माधारत्तिऱ्‌काट्टिल् अतिदिश्यमानधर्माधारत्तुक्कु विशेषम् स्वतःप्राप्तम् ऎऩ्ऱु उवर् अरुळिच्चॆय्ददुक्कुमिप्पडि विभागत्ताल् वन्द वैषम्यत्तिले तात्पर्यम्. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2102,7 +2004,7 @@ only to the difference in their functions or activities.
 त्वयि स्त्रीत्वैकान्तान् म्रदिम--पति-पारार्थ्य--करुणा-  
 क्षमादीन् वा **भोक्तुम् भवति** युवयोर् आत्मनि भिदा ॥)
 
-ऎन्गिऱ श्लोकत्तिल् ए निर्णीतम्.  
+ऎऩ्गिऱ श्लोकत्तिल् ए निर्णीतम्.  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2136,10 +2038,9 @@ Thus you two have taken diverse qualities."
 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इदु “युवत्वादौ तुल्येऽपि”(श्रीगुणरत्नकोशम् 34-वदु श्लोकम्) ऎन्गिऱ श्लोकत्तिले निर्णीतम्.  
+इदु “युवत्वादौ तुल्येऽपि”(श्रीगुणरत्नकोशम् 34-वदु श्लोकम्) ऎऩ्गिऱ श्लोकत्तिले निर्णीतम्.  
 </details>
 
 ## यद्-ऋच्छता
@@ -2180,7 +2081,6 @@ says Nammalvar in (1-3-6).
 So in a matter like this, vain assertion or insistence is not proper,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 "इऱै निलैयुणर्वरिदु" (तिरुवाय्मॊऴि 1-3-6.) ऎऩ्ऱाऴ्वाररुळिच् चॆय्द निलत्तिले एदेनुमॊरु वृथा निर्बन्धमागादु. 
@@ -2215,7 +2115,6 @@ As has been said:
 > "Some make [^f171] weak cases appear strong."
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ‘‘कृशानर्थांस्ततः केचिदकृशांस्तत्र कुर्वते” (भारतम्-सबापर्व 39-2) 
@@ -2223,7 +2122,7 @@ As has been said:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-… ऎन्गिऱप् पडिय् ए  
+… ऎऩ्गिऱप् पडिय् ए  
 तर्क-पाण्डित्यत्ताल् ए निनैत्तद् ऎल्लाम् साधिक्कल् आय् इरुक्कच् चॆय्द् एय् इऱे  
 नाम् प्रमाण-शरणराय्प् पोरुगिऱदु. +++(5)+++
 </details>
@@ -2249,10 +2148,9 @@ with the help of our proficiency in logical disputation,
 we submit to the Authority of the śāstras. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-… ऎन्गिऱप्पडिये तर्कपाण्डित्यत्ताले निनैत्तदॆल्लाम् साधिक्कलायिरुक्कच् चॆय्देयिऱे नाम् प्रमाणशरणराय्प् पोरुगिऱदु. 
+… ऎऩ्गिऱप्पडिये तर्कपाण्डित्यत्ताले निनैत्तदॆल्लाम् साधिक्कलायिरुक्कच् चॆय्देयिऱे नाम् प्रमाणशरणराय्प् पोरुगिऱदु. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2285,20 +2183,19 @@ only in accordance with the pramāṇas.
 
 <details><summary>मूलम्</summary>
 
-आगैयालिव्वीश्वर तत्त्वत्तैयुम् ईशितव्यतत्त्वङ्गळैयुम् यथाप्रमाणन् दॆळियप् प्राप्तम्. 
+आगैयालिव्वीश्वर तत्त्वत्तैयुम् ईशितव्यतत्त्वङ्गळैयुम् यथाप्रमाणऩ् दॆळियप् प्राप्तम्. 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व् इडत्तिल्  
-सर्व-ज्ञन् आगव् उम् वेण्डा,
+सर्व-ज्ञऩ् आगव् उम् वेण्डा,
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 अत्र सार्वश्यमपि नापेक्ष्यते ।
 </details>
-
 
 <details><summary>English</summary>
 
@@ -2343,7 +2240,6 @@ In matters which are only of limited use,
 we need not be so curious to obtain knowledge.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अत्यन्तानुपयुक्तङ्गळिऱ्‌ पोले स्वल्पोपयुक्तङ्गळानवऱ्ऱिल् अभिसन्धि पण्णवुम् वेण्डा, 
@@ -2352,7 +2248,7 @@ we need not be so curious to obtain knowledge.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपरिच्छेद्यम् आऩ कडलिल् ए  
-पडग्+++(=नौका)+++-ओडुवार्+++(=चालकाः)+++ वऴि मुदल् आग वेण्डुवन तॆळियुम् आप्-पोल् ए  
+पडग्+++(=नौका)+++-ओडुवार्+++(=चालकाः)+++ वऴि मुदल् आग वेण्डुवऩ तॆळियुम् आप्-पोल् ए  
 इव्व् अळवु विवेकिक्कैय् अवश्यापेक्षितम्. +++(5)+++
 </details>
 
@@ -2382,16 +2278,15 @@ Similarly we have to understand, necessarily,
 as much as has been said here.  
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-अपरिच्छेद्यमान कडलिले पडगोडुवार् वऴि मुदलाग वेण्डुवन तॆळियुमाप्पोले इव्वळवु विवेकिक्कैयवश्यापेक्षितम्.
+अपरिच्छेद्यमाऩ कडलिले पडगोडुवार् वऴि मुदलाग वेण्डुवऩ तॆळियुमाप्पोले इव्वळवु विवेकिक्कैयवश्यापेक्षितम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु प्रतिष्ठितम् आगैक्क् आग  
-इवऱ्ऱिन् विरिवुगळ्+++(=विस्तराः)+++ ऎण्णुगिऱदु+++(=विचार्यन्ते)+++.
+इवऱ्ऱिऩ् विरिवुगळ्+++(=विस्तराः)+++ ऎण्णुगिऱदु+++(=विचार्यन्ते)+++.
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2409,12 +2304,10 @@ In order to obtain unshakable conviction (about these truths), more elaborate tr
 In order to obtain unshakable conviction (about these truths), more elaborate treatises may be studied.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इदु प्रतिष्ठितमागैक्काग इवऱ्ऱिन् विरिवुगळॆण्णुगिऱदु.
+इदु प्रतिष्ठितमागैक्काग इवऱ्ऱिऩ् विरिवुगळॆण्णुगिऱदु.
 </details>
-
 
 [^f171]: Mahābhārata: Sabhaparva 39-5
 

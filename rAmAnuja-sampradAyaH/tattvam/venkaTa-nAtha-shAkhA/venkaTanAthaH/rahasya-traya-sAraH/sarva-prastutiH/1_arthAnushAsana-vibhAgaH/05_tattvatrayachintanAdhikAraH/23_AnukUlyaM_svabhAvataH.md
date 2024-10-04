@@ -19,7 +19,6 @@ title = "२३ आनुकूल्यं स्वभावतः"
 अबद्धापेक्षया ऽऽनुकूल्यं स्वभावत आनुकूल्यम् उच्यते।
 </details>
 
-
 <details><summary>English</summary>
 
 Therefore it is due to Iśvara's will that all substances are, by their very nature, agreeable. 
@@ -30,12 +29,10 @@ Therefore it is due to Iśvara's will that all substances are, by their very nat
 Therefore it is due to Iśvara's will that all substances are, by their very nature, agreeable. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 आगैयाल् समस्तवस्तुक्कळुक्कुम् स्वभावसिद्धानुकूल्यम् ईश्वरेच्छायत्तम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -60,12 +57,10 @@ From this it follows that to Iśvara, to the eternally free and to the released 
 they are all agreeable.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इत्ताले ईश्वरनुक्कुम् नित्यरुक्कुम् मुक्तरुक्कुम् सर्वमुम् अनुकूलमायिरुक्कुम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -95,12 +90,10 @@ they appear as disagreeable or as only slightly agreeable at different times and
 in accordance with the karma of those persons. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 बद्धरुक्कु कर्मानुरूपमाग पुरुषभेदत्तालुम् कालभेदत्तालुमिवऱ्ऱिल् प्रातिकूल्यङ्गळुम् अल्पानुकूल्यङ्गळुम् नडवा निऱ्‌कुम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -124,7 +117,6 @@ as such is the will of Iśvara.
 Even to bound souls, the essential Nature of their own self or soul is always to be agreeable,  
 as such is the will of Iśvara. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -162,10 +154,9 @@ that the body which is disagreeable
 appears agreeable to those who are ignorant.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इप्पडि अनुकूलमान आत्मस्वरूपत्तोडे एकत्वभ्रमत्तालुम् कर्मवशत्तालुमिऱे हेयमान शरीरम् ज्ञानहीनर्क्कु अनुकूलमाय्त् तोऱ्ऱुगिऱदु.
+इप्पडि अनुकूलमाऩ आत्मस्वरूपत्तोडे एकत्वभ्रमत्तालुम् कर्मवशत्तालुमिऱे हेयमाऩ शरीरम् ज्ञानहीनर्क्कु अनुकूलमाय्त् तोऱ्ऱुगिऱदु.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -194,10 +185,9 @@ the man who desires release from bondage
 should abandon the attachment to them. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इवऱ्ऱुक्कु कर्मोपाधिकमान प्रतिकूलरूपत्ताले मुमुक्षुवैप् पऱ्ऱ त्याज्यत्वम्.
+इवऱ्ऱुक्कु कर्मोपाधिकमाऩ प्रतिकूलरूपत्ताले मुमुक्षुवैप् पऱ्ऱ त्याज्यत्वम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -225,16 +215,14 @@ To those that have attained mokṣa, however,
 these very things are agreeable and not to be rejected. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-स्वाभाविकमान अनुकूलरूपत्ताले मुक्तनैप्पऱ्ऱ अवै तनक्के उपादेयत्वम्.
+स्वाभाविकमाऩ अनुकूलरूपत्ताले मुक्तनैप्पऱ्ऱ अवै तनक्के उपादेयत्वम्.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहङ्-कार--मम-कार--युक्तन् आय्क्-कॊण्डु  
+अहङ्-कार--मम-कार--युक्तऩ् आय्क्-कॊण्डु  
 तनक्क् ऎऩ्ऱु स्वीकरिक्कुम् अवैय् ऎल्लाम् प्रतिकूलङ्गळ् आम्.+++(5)+++ 
 </details>
 
@@ -258,7 +246,6 @@ All those things that are taken for one's own
 with the notion of 'I' and 'Mine'  
 are harmful. 
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -293,25 +280,24 @@ when a man has come to understand his real nature
 and (has come) to realise that these things exist for the purposes of the Lord. 
 </details>
 
-
 <details><summary>सारबोधिनी</summary>
 
 > मुक्तनुक्कु ऎल्लाम् अनुकूलतया उपादेयम् ऎऩ्ऱदु कूडुम् ओ?  
 अवनुक्क् ए बद्ध-दशैयिल् प्रतिकूलम् आगव् इरुन्द् अवै  
 इव्व्-अवस्थैयिल् उम् प्रतिकूलम् आगत् तोऩ्ऱलाम् ए 
 
-ऎन्नव् अरुळिच् चॆय्गिऱार् - स्वरूपज्ञानम् पिऱन्दु इत्य्-आदिना ।  
+ऎऩ्ऩव् अरुळिच् चॆय्गिऱार् - स्वरूपज्ञानम् पिऱन्दु इत्य्-आदिना ।  
 स्वामि-शेषम् ऎऩ्ऱु काणप्-पुक्काल् ऎल्लाम् अनुकूलम् आम् इति.  
 काणप्पुक्काल् - मुक्त-दशैयिल् साक्षात्-करिक्कप्-पुक्काल्.  
 
-तथा च ऒरुवनुक्कुत् तान् भगवच्-छेषम् ऎऩ्ऱु ज्ञानम् उण्ड् आय्  
+तथा च ऒरुवनुक्कुत् ताऩ् भगवच्-छेषम् ऎऩ्ऱु ज्ञानम् उण्ड् आय्  
 "नं शेषिय् आऩ अदावदु स्वामिय् आऩ भगवानुक्कु ऎल्लां शेषम्"  
-ऎन्गिऱ साक्षात्-कारम् उण्डानाल्  
+ऎऩ्गिऱ साक्षात्-कारम् उण्डानाल्  
 मुन्बु प्रतिकूलङ्गळ् आऩ वस्तुक्कळ् उं  
 सिऱैश्-शालैयिल् इरुन्द ऒरु राजकुमारनुक्कु प्रतिकूलम् आय् इरुन्द  
 सिऱैक्-कूडम्+++(=भवनम्)+++ ए राजा अवनै सिऱैयिनिऩ्ऱुं विडुवित्तु  
 यौवराज्यत्तैय् उं कॊडुत्तु  
-तनक्कु दासन् आक्किनव् अळविल् ए  
+तनक्कु दासऩ् आक्किनव् अळविल् ए  
 
 > राज्यत्तिल् उळ्ळ +++(कारागार-सहित-)+++ वस्तुक्कळ् ऎल्लां  
 नं स्वामिय् आऩ राजावुक्कु शेष-भूतम् 
@@ -319,7 +305,6 @@ and (has come) to realise that these things exist for the purposes of the Lord.
 ऎऩ्ऱु ज्ञानम् पिऱन्दव् आऱ्+++(=अध्वना)+++ ए अनुकूलम् आगुम् आप्-पोल् ए  
 अनुकूलङ्गळ् आगुम् ऎऩ्ऱु करुत्तु.+++(5)+++  
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -354,7 +339,6 @@ when we come to speak of the perfect and complete enjoyment of (the bliss of ) B
 
 इव्व्-अर्थत्तैय् ए मेल् ए विस्तरिप्पद् आगव् अरुळिच्चॆय्गिऱार् इव्वर्थमित्यादियाल्.  
 </details>
-
 
 <details><summary>मूलम्</summary>
 

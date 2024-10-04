@@ -40,13 +40,10 @@ Sin miedo, sin ira, sin deseo y otros (imperfecciones).
 Así se ha enseñado la naturaleza de Iśvara,
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “सर्वज्ञस्सर्वदृक्सर्वशक्ति-ज्ञानबलर्द्धिमान् । क्लमतन्द्री भयक्रोधकामादिभिरसंयुतः ॥” (वि-पु. 5-1-46) इत्यादिगळाले ईश्वरस्वभावम् उपदिष्टमायिऱ्ऱु. 
 </details>
-
-
 
 [^f139]: Viṣṇupurāṇa: 2-13-98
 

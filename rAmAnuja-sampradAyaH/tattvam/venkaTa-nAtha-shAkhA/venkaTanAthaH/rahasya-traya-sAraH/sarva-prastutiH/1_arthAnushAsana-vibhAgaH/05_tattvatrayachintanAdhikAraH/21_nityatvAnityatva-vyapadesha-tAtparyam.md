@@ -24,18 +24,15 @@ All these substances (dravya ) are, in their essential nature (svarūpa), eterna
 All these substances (dravya ) are, in their essential nature (svarūpa), eternal. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इद्द्रव्यङ्गळॆल्लाम् स्वरूपेण नित्यङ्गळायिरुक्कुम्. 
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामान्तर-भजनार्हावस्था-विशेष-विशिष्टतैयैय् इट्टुच्  
-चिलवऱ्ऱै अनित्यङ्गळ् ऎन्गिऱदु. 
+चिलवऱ्ऱै अनित्यङ्गळ् ऎऩ्गिऱदु. 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -58,12 +55,10 @@ owing to their assuming a new state or condition (avastha),
 which justifies their being called by a new name. 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-नामान्तरभजनार्हावस्थाविशेषविशिष्टतैयैयिट्टुच् चिलवऱ्ऱै अनित्यङ्गळॆन्गिऱदु. 
+नामान्तरभजनार्हावस्थाविशेषविशिष्टतैयैयिट्टुच् चिलवऱ्ऱै अनित्यङ्गळॆऩ्गिऱदु. 
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -95,8 +90,8 @@ they are said to be eternal in the sense of a stream or current of water
 (retaining the same form, though the water at any time may be different ).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-अऴिन्ददोडु सजातीयङ्गळान अवस्थान्तरङ्गळ् मेलुम् मुऴुक्क वरुगैयाले प्रवाहनित्यङ्गळॆऩ्ऱु सॊल्लुगिऱदु.
+अऴिन्ददोडु सजातीयङ्गळाऩ अवस्थान्तरङ्गळ् मेलुम् मुऴुक्क वरुगैयाले प्रवाहनित्यङ्गळॆऩ्ऱु सॊल्लुगिऱदु.
 </details>
+

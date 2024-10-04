@@ -18,7 +18,6 @@ son de tres tipos
 (3) Śuddha Satvam, la sustancia deque se hace la región trascendental más allá de la materia, llamada vaikuṇṭha.
 </details>
 
-
 ## प्रकृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -53,7 +52,6 @@ Tiene tres cualidades Sattvam, Rajas y Tamas
 y es el campo de acción (karma) para el jīva ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवऱ्ऱिल् वैत्तुक्कॊण्डु “अचेतना परार्था च नित्या सततविक्रिया । त्रिगुणा कर्मिणां क्षेत्रं प्रकृते रूपमुच्यते ॥” (परमसंहिता.) 
@@ -79,12 +77,10 @@ La naturaleza de (2) kala o tiempo se describe así:-
 > "Bhagavān [^f135] kala (es decir) el tiempo, que es el cuerpo de bhagavān, no tiene comienzo ni fin".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “अनादिर्भगवान् कालो नान्तोऽस्य द्विज विद्यते” (वि-पु. 1-2-26),
 </details>
-
 
 ## शुद्ध-सत्त्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -106,7 +102,6 @@ que respectivamente 1-3/8 minutos y 1/30 de un día (y es la causa de las modifi
 Pero no causa cambios o modificación en el mundo trascendental (aprākritaloka) más allá de la materia ".
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “कलामुहूर्तादिमयश्च कालो न यद्विभूतेः परिणामहेतुः” (वि-पु. 4-1-84),
@@ -119,7 +114,7 @@ Pero no causa cambios o modificación en el mundo trascendental (aprākritaloka)
 
 <details><summary>English</summary>
 
-The nature of the transcendental world beyond matter is such that it is made of s'uddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. 
+The nature of the transcendental world beyond matter is such that it is made of śuddha sattvam. The world [^f137] made of it is of the nature of jñāna and bliss. 
 </details>
 
 <details><summary>Español</summary>
@@ -130,7 +125,6 @@ está hecha de suddha sattvam.
 El mundo [^f137] hecho de él  
 es de la naturaleza de jñāna y dicha.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -155,7 +149,6 @@ El tiempo no es la causa [^f138] de cualquier cambio o modificación en el mundo
 (como lo es en el mundo de la materia).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 “कालं स पचते तत्र न कालस्तत्र वै प्रभुः” (भार-शान्ति. 196-9.)
@@ -179,14 +172,10 @@ la naturaleza de Prakṛti, Kāla y Śuddha Sattva
 que pertenecen a tres clases de cosas no sensibles (Achetana).
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इत्यादिगळिले त्रिगुणकालशुद्धसत्त्वरूपङ्गळान त्रिविधाचेतनङ्गळुडैय स्वभावञ् चॊल्लिऱ्ऱु.
+इत्यादिगळिले त्रिगुणकालशुद्धसत्त्वरूपङ्गळाऩ त्रिविधाचेतनङ्गळुडैय स्वभावञ् चॊल्लिऱ्ऱु.
 </details>
-
-
-
 
 [^f134]: Parama Saṁhitā: 2
 
@@ -197,5 +186,4 @@ que pertenecen a tres clases de cosas no sensibles (Achetana).
 [^f137]: Pāñcarātra
 
 [^f138]: Mahābhārata: Śāntiparva 196-9
-
 

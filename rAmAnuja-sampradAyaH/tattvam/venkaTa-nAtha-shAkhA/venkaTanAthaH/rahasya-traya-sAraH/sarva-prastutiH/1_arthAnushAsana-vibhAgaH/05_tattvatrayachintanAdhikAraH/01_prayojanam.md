@@ -20,7 +20,7 @@ So also the disputes on such questions as the unity of the jīva and God will no
 when the characteristic features of each of them are marked out.  
 Our ācārya-s, whose wisdom never failed,  
 teach us about the existence of three realities (Tattvas)  
-classified in the s'āstrās  
+classified in the śāstrās  
 as the experiencing subjects (bhoktā), 
  the objects of experience and enjoyment (bhogyam)  
 and He who rules over both of them (Iśvara).
@@ -36,12 +36,11 @@ como la unidad del Jīva y Dios ya no continuarán,
 Cuando los rasgos característicos de cada uno de ellos están marcados.  
 Nuestro ācārya-s, cuya sabiduría nunca falló,  
 Enséñanos sobre la existencia de tres realidades (tattvas)  
-clasificado en los s'āstrās como  
+clasificado en los śāstrās como  
 los sujetos que experimentan (bhoktā),  
 Los objetos de la experiencia y el disfrute (bhogyam)
 y el que gobierna sobre los dos (Iśvara).
 </details>
-
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -61,8 +60,6 @@ CLASSIFICATION OF TATVAS OR REALS AND ITS USE:
 Clasificación de tatvas o reales y su uso:
 </details>
 
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(शरीर-शरीरि-)+++संबन्धमुम्, +++(प्राप्य-प्राप्तृ-फलोपाय-विघ्नाः→)+++ अर्थ-पञ्चकम् उङ् +गूड,  
@@ -70,7 +67,7 @@ Clasificación de tatvas o reales y su uso:
 इवऱ्ऱिल् एकदेशम् आऩ +++(चिद्-अचिद्-ईश्वर←)+++**तत्व-त्रयत्तै**  
 मुमुक्षुवुक्कु **विशेषित्त् अऱिय वेणुम्** ऎऩ्ऱु  
 आचार्यर्गळ् उपदेशित्तुप् पोरुगैक्  
-कडिय्+++(=बीजम्)+++ ऎन्न् ऎन्निल्;  
+कडिय्+++(=बीजम्)+++ ऎऩ्ऩ् ऎऩ्ऩिल्;  
 
 अदुक्क् अडि प्रकृत्य्-आत्म-भ्रमम् उम्  
 स्वतन्त्रात्म-भ्रमम् उम्  
@@ -115,10 +112,9 @@ que es la causa de ese engaño,
 porque estos son grandes obstáculosa mokṣa.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-संबन्धमुम् अर्थपञ्चकमुङ्गूड आऱु अर्थमऱियवेण्डियिरुक्क इवऱ्ऱिल् एकदेशमान तत्वत्रयत्तै मुमुक्षुवुक्कु विशेषित्तऱिय वेणुम् ऎऩ्ऱु आचार्यर्गळुपदेशित्तुप्पोरुगैक् कडियॆन्नॆन्निल्; अदुक्कडि प्रकृत्यात्मभ्रममुम् स्वतन्त्रात्मभ्रममुम् इदुक्कु निदानमान अनीश्वरवादरुचियुमागिऱ महाविरोधिगळै मुऱ्‌पडक्कऴिक्क प्राप्तमागै.
+संबन्धमुम् अर्थपञ्चकमुङ्गूड आऱु अर्थमऱियवेण्डियिरुक्क इवऱ्ऱिल् एकदेशमाऩ तत्वत्रयत्तै मुमुक्षुवुक्कु विशेषित्तऱिय वेणुम् ऎऩ्ऱु आचार्यर्गळुपदेशित्तुप्पोरुगैक् कडियॆऩ्ऩॆऩ्ऩिल्; अदुक्कडि प्रकृत्यात्मभ्रममुम् स्वतन्त्रात्मभ्रममुम् इदुक्कु निदानमाऩ अनीश्वरवादरुचियुमागिऱ महाविरोधिगळै मुऱ्‌पडक्कऴिक्क प्राप्तमागै.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -146,3 +142,4 @@ y el gobernante que los controla y dirige los dirige.
 
 इत्तै निनैत्तु भोक्तृभोग्य-नियन्तृरूपत्ताले शास्त्रङ्गळिले तत्वविवेकम् पण्णुगिऱदु.
 </details>
+

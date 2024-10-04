@@ -17,19 +17,17 @@ All these three : the essential nature (svarūpa), the continuance in time (sthi
 Todos estos tres: la naturaleza esencial (svarūpa), la continuación en el tiempo (sthithi) y la actividad (pravṛtti) se ve (por percepción y otros pramaṇas) como diferentes en el caso de cada cosa u objeto.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इवैयॆल्लाम् वस्तुक्कळ् तोऱुम् प्रमाणप्रतिनियतमायिरुक्कुम्. 
 </details>
-
 
 [^30]: Aḷavandār: Atmasiddhi and Rāmānuja’s Vaikuṇṭha gadyam.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप् प्रमाणङ्गळ् वस्तुक्कळैक् काट्टुम् पोदु  
-अव्वो वस्तुक्कळिन् स्व-रूपत्तैय् उम्,  
+अव्वो वस्तुक्कळिऩ् स्व-रूपत्तैय् उम्,  
 स्व-रूप-निरूपक-धर्मङ्गळैय् उम्,  
 निरूपित--स्व-रूप--विशेषणङ्गळैय् उम्,  
 व्यापारङ्गळैय् उङ् काट्टुम्.+++(4)+++
@@ -55,10 +53,9 @@ las (otras) cualidades del objeto tan definidas
 y también sus actividades.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
-इप्प्रमाणङ्गळ् वस्तुक्कळैक् काट्टुम् पोदु अव्वो वस्तुक्कळिन् स्वरूपत्तैयुम्, स्वरूपनिरूपकधर्मङ्गळैयुम्, निरूपितस्वरूपविशेषणङ्गळैयुम्, व्यापारङ्गळैयुङ् गाट्टुम्.
+इप्प्रमाणङ्गळ् वस्तुक्कळैक् काट्टुम् पोदु अव्वो वस्तुक्कळिऩ् स्वरूपत्तैयुम्, स्वरूपनिरूपकधर्मङ्गळैयुम्, निरूपितस्वरूपविशेषणङ्गळैयुम्, व्यापारङ्गळैयुङ् गाट्टुम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -101,12 +98,10 @@ No es posible hablar de la naturaleza esencial de una cosa (svarūpa),
 excepto en términos de los atributos respectivos.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अन्द स्वरूपत्तैच् चॊल्लुम् पोदु अव्वो धर्मङ्गळैयिट्टल्लदु सॊल्लवॊण्णादु.
 </details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -126,8 +121,8 @@ sería tan sin sentido
 como para hablar de los cuernos de una liebre.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 अवऱ्ऱैक् कऴित्तुप्पार्क्किल् शशविषाण तुल्यमाम्.
 </details>
+
