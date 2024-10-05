@@ -411,7 +411,7 @@ So what remains unproved? (is improper).
 अतो यस्यैतदखिलभुवनावलम्बिभावभेदसाक्षात्कारिप्रत्यक्षं स तत्समीक्षितदीक्षाराधनादिधर्मभावो भगवानेवं व्याचष्टेति किमनुपपन्नमिति ।  
 </details>
 
-#### भगवत्-प्रत्यक्षत्व-तिरस्कारः
+#### भगवन्-निरतिशय-प्रत्यक्षत्व-तिरस्कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन् न प्रत्यक्ष-विज्ञान-  
@@ -530,6 +530,7 @@ is directed toward the perceiving of what exists at present.
 
 Of course, if Perception did not have this function of perceiving what exists at present as its natural function,  
 it would cease to be Perception at all.  
+
 Therefore, it is not reasonable to say  
 that a superior kind of Perception,  
 defined as encompassing all objects,  
@@ -544,13 +545,91 @@ because it is limited to being Perception!
 असति हि स्वभावानुबन्धिनि विद्यमानोपलम्भनत्वे प्रत्यक्षतैव परावर्तते, न ह्यजातमतिवृत्तं वाऽगमयदनुमानादि प्रत्यक्षपक्षनिक्षेपं, तेन अशेषविषयितालक्षणप्रत्यक्षप्रकर्षः स्वभावनियमनिर्मूलितोदय इति न हृदयमधिरोहति ।  
 </details>
   
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदम् अपि सातिशयेन निरतिशयम् अनुमिमानः  
+पृष्टो व्याचष्टां -  
+
+> सातिशय एव किन् नु तां दशाम् अनुभवति  
+यतः परं न संभवति महिमा -  
+
+इत्य् अभिनिविशसे  
+बाल इव स्थविर-भावम् ।  
+</details>
+
+<details><summary>English</summary>
+
+8\. The objection is refuted:  
+If from finite Perception you conclude to infinite Perception,  
+then I ask you to explain:  
+can a finite quantity ever attain to such expansion that it cannot be further expanded?  
+You insist, as it were, on full maturity in a little boy!  
+even as a boy, after attaining the full growth, cannot grow physically further?'
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 इदमपि सातिशयेन निरतिशयमनुमिमानः पृष्टो व्याचष्टां सातिशय एव किन्नु तां दशामनुभवति यतः परं न संभवति महिमेत्यभिनिविशसे बाल इव स्थविरभावम् ।  
-अथैकस्मिन् सातिशये केनाप्यन्येन निरतिशयेन भवितव्यमिति आहोस्वित्समानजातीयेनान्येन निरतिशयदशामधिरूढेन भवितव्यति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथैकस्मिन् सातिशये  
+केनाप्य् अन्येन निरतिशयेन भवितव्यम् इति  
+आहोस्वित् समान-जातीयेनान्येन निरतिशय-दशाम् अधिरूढेन भवितव्यम् इति ।  
+</details>
+
+<details><summary>English</summary>
+
+There are two possibilities:  
+either the infinite exists in the finite,  
+or the finite gradually becomes infinite. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथैकस्मिन् सातिशये केनाप्यन्येन निरतिशयेन भवितव्यमिति आहोस्वित्समानजातीयेनान्येन निरतिशयदशामधिरूढेन भवितव्यमिति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तावद् अग्रिमः कल्पः  
+कल्पते ऽनुपलम्भतः ।  
+न हि दृष्टं शरावादि  
+व्योमेव प्राप्तवैभवम् ॥
+</details>
+
+<details><summary>English</summary>
+
+The former cannot stand,  
+for there is no Perception to support it:  
+we have never seen a bowl or a similar finite object  
+which had the same expansion as space. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न तावदग्रिमः कल्पः कल्पतेऽनुपलम्भतः ।  
 न हि दृष्टं शरावादि व्योमेव प्राप्तवैभवम् ॥
+</details>
 
-यदि च तदेव सातिशयमसंभावनीयपरप्रकर्षं परिनितिष्ठेत्, हन्तः? तर्ह्येकैकेन घटमणिकादिना ब्रह्माण्डोदरविवरमापूरितमिति तत्प्रतिहततयेतरभावभङ्गप्रसङ्ग
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि च तद् एव सातिशयम् असंभावनीय-पर-प्रकर्षं परिनितिष्ठेत्,  
+हन्तः! तर्ह्येकैकेन घटमणिकादिना ब्रह्माण्डोदरविवरमापूरितमिति तत्प्रतिहततयेतरभावभङ्गप्रसङ्गः
+</details>
+
+<details><summary>मूलम्</summary>
+
+यदि च तदेव सातिशयमसंभावनीयपरप्रकर्षं परिनितिष्ठेत्, हन्तः? तर्ह्येकैकेन घटमणिकादिना ब्रह्माण्डोदरविवरमापूरितमिति तत्प्रतिहततयेतरभावभङ्गप्रसङ्गः
+</details>
+
+
+
 
 व्योम्नैव लब्धसाध्यत्त्वान्मध्यमः सिद्धसाधनः ।  
 कल्पान्तरेऽपि दुर्वारं प्रागुदीरितदूषणम् ॥

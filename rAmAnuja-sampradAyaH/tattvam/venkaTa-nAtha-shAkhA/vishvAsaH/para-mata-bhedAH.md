@@ -73,6 +73,11 @@ title = "पर-मत-भेदाः"
 अयं तर्हि प्रसिद्धः ब्रह्म-परिणामवादः - रामानुजार्येण सामान्यतो निरस्तः।  
 पुनस् तत्र ब्रह्माज्ञानवादो ऽपि वर्तते - स्व-स्वातन्त्र्येण ब्रह्म स्वीयैकदेशे ऽज्ञानम् आरोप्य बद्धो भवतीति।
 
+अथवा त्रिकशैवैर् अप्य् अवयवावयविरूपा जीवेश्वरभिदोच्यतय् एव, यथाह स्थानेश्वरार्यः - 
+
+> You feel pain and pleasure because you are finite. I feel pure pleasure, no matter what happens. I do not have the nerves to translate some sensation as pain and the others as pleasure. I am the totality experiencing all the experiences as blissful. 
+
+अयम् परिहारस् तदीयशास्त्रेषु क्वोक्तः??
 
 ### वल्लभ-पुष्टि-मार्गः शुद्धाद्वैतम्
 सच्-चिद्-आनन्दात्मकम् ब्रह्म।  
