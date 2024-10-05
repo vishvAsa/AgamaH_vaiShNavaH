@@ -8,18 +8,10 @@ title = "Agama-prAmANyam en"
 
 
 
-of the three estates  
-do not accept the doctrines of Traditions of this kind. 
 
-13\. OBJECTION: 
-Nevertheless, the fact that Bhāgavata Brahmins, who wear the hair-tuft, the sacred thread etc. prescribed in Scripture, perform daily the rites of Pañcarätra should then justify the presumption that these rites likewise ultimately derive from the Veda. On what grounds, then, are we to assume that this same Pañcarātra Tradition really has its origins in error, deceit and the like, the very negation of valid authority?. 
-14\. REFUTATION: 
-We reply: Well! So you really argue that the Bhāgavatas, who are hated by the three estates, are exemplary and hence authoritative?! 
-Objection: 
-But they are Brahmins, and Brahmins arc considered to be the highest estate: why should they not be exemplary? 
-1 
-Refutation: 
-Brahmins? Far from it! We do not regard Brahmins as a distinct species, different from the species man, with specific characteristics which mere sensory perception permits us to recognize as present in some specific bodies and absent in others. Hair-tuft, sacred thread etc. which are prescribed for Brahmins and the other two estates, do not make a man a Brahmin Nor do they demonstrate that a man is a Brahmin, for we see them worn illegally by blackguards, outcastes and the like. Therefore, the sole criterion by which we can tell whether a man 
+
+
+Hair-tuft, sacred thread etc. which are prescribed for Brahmins and the other two estates, do not make a man a Brahmin Nor do they demonstrate that a man is a Brahmin, for we see them worn illegally by blackguards, outcastes and the like. Therefore, the sole criterion by which we can tell whether a man 
 
 11 
 is indeed a Brahmin is acceptance of undisputed expressions by older persons, which give us irrefutable proof. Nor do ordinary people, use without hesitation the term Brahmin to describe Bhāgavatas. 
@@ -32,19 +24,6 @@ Persons of certain inferior castes are commonly referred to as Satvatas; the nam
 The grammarians have the rule that it is improper to use a certain word in its etymological sense if it can also be taken in a customary sense which is more common, e.g., rathakāra 21. 
 If there were no such rule, how could the word *rathakara give up its etymological meaning of "chariotmaker" to become the name of a particular caste, even to the extent of cancelling all connotations which we have learnt? Similarly, Satvata refers to a person who has been born from a orutya vaiya and belongs to the lowest castes, and is thus excluded from the sacraments of initiation, etc. Manu says: "The issue of a vaisya vratya extraction is called Sudhanvā or Bharuşa or Nijangha or Maitra or Salvata" " 
 It cannot 
-8 
-
-that cognitions are invariably true. But when certain notions which are produced by the false cognitions of people whose judgement is clouded by hatred, prejudice and obstinacy, cause such "traditions" to be written in accordance with these false cognitions, could these traditions possibly be true? 
-11\. Here an objection may be raised: 
-However, the same arguments may be advanced against the authority of the traditions of Manu etc. The observation of the aṣṭaka rite does not produce any perceptual knowledge that this rite is indeed a means to realize the postulated end. Nor can it be inferred, because no relation is perceptually given. Nor is there any scriptural evidence for it, for it cannot be found. Nor again can such evidence be inferred from Scripture where it is not found explicitly, because no relation is perceptually given. Nor can it be proved, through Analogy, as there is no apparent analogue. 
-Nor through circumstantial Implication, because of the reasons given above against the argument that it is otherwise unprovable. Now, if it is legitimate in one case to presume scriptural authority in support of it because there happens to be a well-established tradition about it among Vedic experts, well, in Paficarãtra, too, great sages are traditionally known as the founders of the sacred transmission, sages like Narada, Sinḍilya' and others. The same objections and the same justifications can be advanced about both the tradition of Manu etc. and the tradition of Pancarătra. Either both are authoritative or neither is. There are no grounds to show that the two traditions differ in some essential respect. Either we must reject the authorityIGAMA PRĀMINYAM 
-9 
-of Manu's tradition as well, or we must indeed show in which respect the Paficarãtra tradition is different from Manu's. 
-12\. This objection is refuted: 
-ין 
-The author of the Sutras, by making the Sutra: "Tradition is also valid, because it has the same agent as Scripture"7", has clearly indicated that in his opinion no essential difference exists between Scriptural and Traditional validity. 
-Accordingly, we find that those who are qualified for the three Vedas perform equally for purposes of higher benefits both the ritual acts which are enjoined by Scripture (e.g., agnihōtra, pūrṇaderšamāsa, ivolistoma 18,etc.) and the ritual acts enjoined by Tradition (e.g., aṣṭakā, ācamana, sandhya worship", etc.), because they have been instructed in both varieties of acts by their fathers or preceptors. The firmness with which so highly qualified exemplary persons have adopted these traditional rites as incumbent upon the three higher estates goes to show that the knowledge that rites of this kind, astaka etc., obviously found to exist, are mandatory ultimately derives from Scripture itself. On the other hand, we find that those who observe the scriptural rites of agnihotra etc. do not observe the Tantric customs in the same manner as they observe such traditional customs as acamana investiture with the sacred thread etc. On the contrary, the Vedic experts condemn those who do. 
-It follows that the validity which we attribute to different Traditions "because", as the Sutra says, "they have the same agent as Scripture", cannot well. apply to heterodox Traditions as the Pañcaratra; for exemplary exponents 
 2 
 12 
 ADAMA PRĀKĀṆYAṀ 
@@ -67,7 +46,7 @@ Further, the assertion that those who have already been consecrated by the sacra
 ADAMA PRIMĀṆYAṀ 
 15 
 agnihotra etc., must yet undergo another sacrament, called Consecration," in order to be qualified for the worship of the Bhagavan, demonstrates that the system is non-Vedic; for if it were Vedic, they would be qualified for Tantric ritual by the regular sacraments. 
-Again, another indication of its non-Vedic character is the fact that the system is not included among the fourteen sources of knowledge, which all orthodox people recognize as giving authoritative information on the Law." If it were authoritative, then it would have been recognized as such by tradition; but as it is not so recognized, this proves that the Pañcarātra tradition is non-Vedic. For this reason the venerable Badarāyaṇa, when he has occasion to refute the heterodox doctrines of Kanāda, Akṣapada, the Buddha etc. as inimical to the Way of the Veda, also refutes the Paficarãtra in his Sutra: "Because of the impossibility of origin." Therefore, as the Vedic experts regard the Pañcaratra doctrine as non-Vedic since it is not included among the Vedic systems and because of other reasons which will be advanced in the sequel, it cannot be compared with the Tradition of Manu etc. 
+Again, another indication of its non-Vedic character is the fact that the system is not included among the fourteen sources of knowledge, which all orthodox people recognize as giving authoritative information on the Law." If it were authoritative, then it would have been recognized as such by tradition; but as it is not so recognized, this proves that the Pañcarātra tradition is non-Vedic. For this reason the venerable Badarāyaṇa, when he has occasion to refute the heterodox doctrines of Kanāda, Akṣapada, the Buddha etc. as inimical to the Way of the Veda, also refutes the Pancarãtra in his Sutra: "Because of the impossibility of origin." Therefore, as the Vedic experts regard the Pañcaratra doctrine as non-Vedic since it is not included among the Vedic systems and because of other reasons which will be advanced in the sequel, it cannot be compared with the Tradition of Manu etc. 
 In view of all this it is our opinion that such infrequent good rites-e.g., the worship of the Bhagavān -which are described by the Pañcaratricas (who teach a good many others, mostly black arts of exciting hatred, haunting a person out of his occupation, envoutement etc.) are merely added to deceive people about their real attentions and do not deserve our faith or consideration: they are like milk that is put in a dog's bladder ! 
 16 
 AGAMA PRIMARYAM 
@@ -84,7 +63,7 @@ could they exist at all? If it is objected that the significance of the Book cal
 20\. OBJECTION. But since the applicability' of the dharma cannot be shown by any of the means of knowledge, how can a book on it be composed? 
 REPLY. Don't argue like that: for the Bhagavan who, of course, has an immediate intuition of dharma and adharma through the knowledge which is natural to Him has had this Book called Veda composed out of compassion for the world. 
 21\. OBJECTION. But does this intuition or perception also encompass dharma and adharma? 
-REPLY. Certainly. How else would the Bhagavän be able to give rise to such effects as body, world etc.? For the maker of such effects must be one who is capable of perceiving their material and instrumental causes. Now, dharma and adharma are the instrumental causes of the world"; this is also the consensus of the Mimāmsakas. Consequently we must postulate a certain person who has this perceptual knowledge; and that person must also be the one who created the Veda at the beginning. 
+REPLY. Certainly. How else would the Bhagavān be able to give rise to such effects as body, world etc.? For the maker of such effects must be one who is capable of perceiving their material and instrumental causes. Now, dharma and adharma are the instrumental causes of the world"; this is also the consensus of the Mimāmsakas. Consequently we must postulate a certain person who has this perceptual knowledge; and that person must also be the one who created the Veda at the beginning. 
 22\. If one contends that such entities as mountains, earth and the like are not effects, the "answer is as follows: 
 L 
 3 
@@ -109,7 +88,7 @@ Therefore we must admit a Person of absolute omnipotence who is able to take in 
 Mantras, arthavadas," epic and purana corroborate this point; e.g. "The one god, Prajapati, creating heaven and earth, created the Vedas," etc. At the moment of inception the great Grace of this Person who is the Bhagavan is evoked by a glance at the aggregate of individual souls who are almost in a state of non-spiritual stupor, their instruments for the experiencing of karmic results-body, senses and other organs-being completely dissolved. His Grace evoked, 
 **20 
 AOAMA TRAMANYAM 
-he originates the entire universe and simultaneously He creates the triple Veda which states pellucidly the means by which the souls in transmigration can realize the objects of their desires. Then again, perceiving that they are in a pitiable condition, being immersed in the ocean of existence which is perturbed by wave upon wave of all manner of iniquities, His heart burns with supreme compassion and He promulgates, through Sanatkumara, Narada etc., the Paficarãtra Sambitās which constitute the sources of knowledge about the manner in which He should be propitiated to attain to perfect bliss. 
+he originates the entire universe and simultaneously He creates the triple Veda which states pellucidly the means by which the souls in transmigration can realize the objects of their desires. Then again, perceiving that they are in a pitiable condition, being immersed in the ocean of existence which is perturbed by wave upon wave of all manner of iniquities, His heart burns with supreme compassion and He promulgates, through Sanatkumara, Narada etc., the Pancarãtra Sambitās which constitute the sources of knowledge about the manner in which He should be propitiated to attain to perfect bliss. 
 Forasmuch as the Tantras are therefore based upon an immediate cognition of the Lord and are consequently self-sufficient like the Vedas, can they belong in the company of any Tradition, that of Manu of anyone? 
 REFUTATION.52 
 24\. If this is true, then on what authority is such a creator of the Vedas known to exist? He is not directly perceived. 
@@ -126,7 +105,7 @@ Moreover, in that case it would be impossible to establish the authority of the 
 REPLY. That has indeed been asserted, but the assertion is fallacious: for no creator of the entire universe can be found of whom this can be assumed. 
 To your argument that the world must be effected because it has a complex construction can be objected that empiricists distinguish three kinds of entities: 
 Those whose makers are evident to perception, e.g. pots and the like; those which are not found to be made at all; and those whose creation remained doubtful, like the earth etc. 
-In the two first-mentioned cases there is no room for God's activity. As to the third, the earth etc. are not involved in a total origination or disintegrations, but merely, as now, subject to varying degrees of increase and decrease which are adventitious. To say that the Mimärhsakas accept origination and annihilation in this sense is to prove the proved.* 
+In the two first-mentioned cases there is no room for God's activity. As to the third, the earth etc. are not involved in a total origination or disintegrations, but merely, as now, subject to varying degrees of increase and decrease which are adventitious. To say that the Mimārhsakas accept origination and annihilation in this sense is to prove the proved.* 
 In our opinion, too, these intelligent agents bring about various results by means of sacrifices and other acts, in order to enjoy these results themselves; and 
 22 
 MOAVA PRĀMĀŅYAN 
@@ -274,8 +253,8 @@ Pafcaratra Tantra is not authoritative because it derives from the cognition of 
 If the God has composed the Tantra after having, like manu etc., learnt the meaning of the Veda from a teacher who was satisfied with his pupil's obedience, then the assumption that He was independent is purposeless and false. It is not borne out by human experience that the Veda was immediately manifest to him, even though he never learnt it. The defects 
 which the Author of the Varttika enumerates, those of personal superiority and inferiority etc.," 
 102 are all to be presumed in the case of Pañicarātra, 
-48\. Moreover, the Saivite, Pasupata, Buddhist, Jainist, Käpälika and Pañcarātra teachings are traditionally known as heretical. On the basis of the 
-distinction between Vedic and Tantric we arrive at the conclusion that Pañcarātra is outside the Veda. "Tantra is of four kinds: Saiva, Pasupata, Saumya and Laguḍa; thus are described the divisions of Tantra; one should not confuse them." Likewise: "There are three distinct doctrines, the Bhakta, the Bhagavata and the Satvata;" this description of the divisions of Tantra is also found in Pancarătra. 
+48\. Moreover, the Saivite, Pasupata, Buddhist, Jainist, Kāpālika and Pañcarātra teachings are traditionally known as heretical. On the basis of the 
+distinction between Vedic and Tantric we arrive at the conclusion that Pañcarātra is outside the Veda. "Tantra is of four kinds: Saiva, Pasupata, Saumya and Laguḍa; thus are described the divisions of Tantra; one should not confuse them." Likewise: "There are three distinct doctrines, the Bhakta, the Bhagavata and the Satvata;" this description of the divisions of Tantra is also found in Pancarātra. 
 49\. Furthermore, that a doctrine destitute of all logic and embracing the view that the soul knows birth, which is rejected by Revelation and Tradition, should be Truth is a highly ludicrous contention. Thus we find the śruti, "Verily, this soul is unperishing, essentially indestructible; it is not conjoined with sizes and, "This dies without the soul; the soul does not die."*104 
 OBJECTION. This is all very well, but all that this statement says is that the soul is not destroyed, not that it is not born. 
 40 
@@ -460,7 +439,7 @@ Likewise in the Manavadharmaśāstra,167
 "Nārāyaṇa is higher than the unmanifest; the World-Egg originates from the unmanifest. 
 Within the Egg are all these worlds as well as the earth with her seven continents." 
 Therefore, the study of these and similar śrutis, smrtis, epical texts and purāņas proves that Vasudeva is the universal cause, the Supreme Soul. 
-80\. Nor do the śrutis declare that Rudra is the Supreme Soul, or that any other deity is. On the contrary, the followers of the Ekayana säkhä'6" say that he has an origin, and the same is found in the Veda itself: "Darkness was here.... from which Rudra is born; that is the greatest in all the worlds, that indeed is the oldest in the worlds." "Similarly, Rudra's position is clearly known to bea result of his karman: "He obtained his greatness by propitiating Visnu." "From the forehead sprang a drop; from that Rudra was born, '2169 
+80\. Nor do the śrutis declare that Rudra is the Supreme Soul, or that any other deity is. On the contrary, the followers of the Ekayana sākhā'6" say that he has an origin, and the same is found in the Veda itself: "Darkness was here.... from which Rudra is born; that is the greatest in all the worlds, that indeed is the oldest in the worlds." "Similarly, Rudra's position is clearly known to bea result of his karman: "He obtained his greatness by propitiating Visnu." "From the forehead sprang a drop; from that Rudra was born, '2169 
 These and other śrutis declare that Rudra was born. This being so, the statements that in appearance convey the greatness of Rudra and others really serve as laudatory statements, like the śruti: "the car is 
 • 
 brahman." 
@@ -489,21 +468,21 @@ All this has already been explained in great detail in the Purusanirnayals and i
 83\. This argument cannot be extended to other Tantras, for in the various authors of those Tantras error etc. is possible. It is impossible that PerceptionAGAMA PRAMANYANI 
 69 
 or another means of knowledge forms the basis for the other Tantras, and they themselves do also not claim that Scripture is the basis. Besides, because they communicate a meaning that is incompatible with the conclusions of the upanisads the view that these Tantras are based on Perception or Scripture is sublated. 
-For there are four kinds of followers of the way of life set forth in those Tantras, the Käpälikas, Kālamukhas, Pasupatas and Saivas. The Kapalika doctrine is described as follows: the reward of release is attained by knowing what the six mudrikas are and by wearing them, not by knowing Brahman. As they say, "He who knows the identities of the six mudrikas and is expert in the supreme Mudra, and meditates upon the self in the vulva posture, attains nirvana." 
+For there are four kinds of followers of the way of life set forth in those Tantras, the Kāpālikas, Kālamukhas, Pasupatas and Saivas. The Kapalika doctrine is described as follows: the reward of release is attained by knowing what the six mudrikas are and by wearing them, not by knowing Brahman. As they say, "He who knows the identities of the six mudrikas and is expert in the supreme Mudra, and meditates upon the self in the vulva posture, attains nirvana." 
 The six 
 mudrikas of the Kāpālikas are stated to be the earring, necklace, pendent, head ornament, ashes and the sacrificial theread: there are two more subsidiary mudras described, namely skull and skull-staff. One whose body is marked by these mudras will not be reborn in the world." Now, the śrutis do not bear out their view that the knowledge of such paraphernalia, the wearing of them and the concentration on the body in the immoral vulva posture are means to attain release, for the śrutis expound that release is attainable only by one who has renounced all sensual desires of this world and the other world and who concentrates on the soul Vasudeva as the cause of the entire Universe: "knowing Him one goes beyond death; there is no other path to tread ctc." 
 The same is. true of the Kalamukhas who teach 
 that certain practices, which are condemned by all the 
 70 
 
-sästras, like eating from a skull, bathing in and tasting of ashes of cremated corpses, carrying a laguḍa staff, putting up wine-cups and worshipping the deity in them, will secure all material and immaterial desires: these teachings are outside the Veda. 
+sāstras, like eating from a skull, bathing in and tasting of ashes of cremated corpses, carrying a laguḍa staff, putting up wine-cups and worshipping the deity in them, will secure all material and immaterial desires: these teachings are outside the Veda. 
 84\. Also some of the teachings of the Pasupatas and the Saivas in which compatible and incompatible elements are indiscriminately mixed are likewise outside the Veda, The Pasupata system is as follows: there are individual souls which are called pašus, cattle, and their overlord is Siva, the Lord of Cattle. To assist the souls Siva has composed the Paficādhyāyi.100 There the five Categories are explained, namely, Cause, Effect, Injunction, Yoga and the Cessation of Misery. The Cause is of two kinds, material and instrumental. Rudra is the instrumental cause and a sixteenth part of him is the material cause. The Effect comprises the elements from Mahaf to earth. The Injunction is stated to comprehend principally a number of rites, secret practices, bathing and lying in ashes etc. 182 The Yoga is said to be concentration and the muttering of formula, OM etc. The Cessation of Misery is held to be release; thus the five Categories are enumerated.--The term "cessation' of misery" means total and final cessation of misery. The system holds that this cessation or release is defined by the annihilation of all the qualities of the differential soul. 
 This conception of God is held by the Saivas as well as the others. And this view of God is entirely, incompatible with Scripture, for it is revealed in śruti that the Supreme Brahman is both the material and the 
 
 71 
 instrumental cause of the Universe. Also, it is repeatedly revealed in the scriptures that release consists in perfect bliss. As the authoritativeness of these Tantras is already vitiated by their mutual contradictions, it is not really necessary for them to be rejected with the stick of the Veda. 
 · 
-85\. Moreover, the Saivas etc. accept stages of life etc. that are outside the varnasrama system that is proved by the Veda and are consequently outside the Veda. As they say," merely by entering Consecration one becomes instantly a Brahmin. A man becomes an ascetic by accepting the Käpälika vow." 
+85\. Moreover, the Saivas etc. accept stages of life etc. that are outside the varnasrama system that is proved by the Veda and are consequently outside the Veda. As they say," merely by entering Consecration one becomes instantly a Brahmin. A man becomes an ascetic by accepting the Kāpālika vow." 
 86\. Let it not be said, How could Rudra, who is very trustworthy, promulgate such a vast collection of texts which are not authoritative? Nor is it right to hold that these texts are based upon the recollection of an author of the same name as Siva, because the ground is overextensive. For the theory that the author was in error and could be in error, because he was not Siva but some other person with the same name, can only follow if the Veda sublates the system; this latter ground is sufficient to prove the lack of authority of these texts and entails no overextension to other texts. And error is not entirely impossible in the case of such persons as Rudra etc. Or else one may reason that since Rudra may have composed such a system for the purpose of deceiving the world because he is known as a promulgator of deceitful doctrines, it is not even necessary to assume error on his part. For thus it reads in the Varaha Purana, 
 "For Thou, strong-armed Rudra, must cause deluding doctrines to be expounded, the deceptions of 
 72 
@@ -541,7 +520,7 @@ The other objections made, which are equally applicable to all Traditions of Man
 ADAMIA PRAMAYYAM 
 90\. OBJECTION. The thesis that the Pancaratra Tantras are based on the Veda is disproved by the fact that we find in these very Tantras a condemnation of the Veda. For it is said that Sandilya, failing to find a meaning of human importance in the four Vedas, learnt this distra. 
 For 
-REFUTATION. This is the objection of someone who does not know the distinct meaning of the statement. For this censure does not mean to censure something deserving of censure, but rather to praise something else than that which is censured. instance, in the Aitareya Brahmana the censure passed on the pre-dawn oblation "Morning upon morning they speak untruth," is understood to praise the post-dawn oblation. It is as in the ManavadharmaSistra: "The Rgveda is of gods and deities, the Yajurveda of man, and the Samaveda of the deceased; therefore its sound is impure;" here the censure of the Samaveda serves to praise the other Vedas. Or as in the Mahabharata: "Formerly the assembled seers placed the four Vedas and the Mahabharata in the balance, one at one side, the other at the other side. And since in bulk and in weight the latter preponderated, it is called the Great Bharata for its bulk and weight." This is said, notto belittle the Vedas, but to bestow praise on the Mahabharata. In this same way the above statement must be taken as praise of the Paficarãtra. Just as the censure of the pre-dawn oblation etc. does not really intend censure, since elsewhere in the same texts they are praised, so will it be in our case too. In Pañcaratra, too, we frequently find praise of the Veda; for example: "Nothing that 
+REFUTATION. This is the objection of someone who does not know the distinct meaning of the statement. For this censure does not mean to censure something deserving of censure, but rather to praise something else than that which is censured. instance, in the Aitareya Brahmana the censure passed on the pre-dawn oblation "Morning upon morning they speak untruth," is understood to praise the post-dawn oblation. It is as in the ManavadharmaSistra: "The Rgveda is of gods and deities, the Yajurveda of man, and the Samaveda of the deceased; therefore its sound is impure;" here the censure of the Samaveda serves to praise the other Vedas. Or as in the Mahabharata: "Formerly the assembled seers placed the four Vedas and the Mahabharata in the balance, one at one side, the other at the other side. And since in bulk and in weight the latter preponderated, it is called the Great Bharata for its bulk and weight." This is said, notto belittle the Vedas, but to bestow praise on the Mahabharata. In this same way the above statement must be taken as praise of the Pancarãtra. Just as the censure of the pre-dawn oblation etc. does not really intend censure, since elsewhere in the same texts they are praised, so will it be in our case too. In Pañcaratra, too, we frequently find praise of the Veda; for example: "Nothing that 
 
 77 
 is made up of words is superior to the Veda, thou who art seated on the Lotus. That is said by the Upanisads which set forth the knowledge of truth" etc. 
@@ -552,14 +531,14 @@ REFUTATION. Don't argue like that, for there is no negation in the sentence. For
 Or if the ground for its non-Vedic character is the injunction of sacraments other than the Vedic ones, 
 78 
 AGAMA PRAUINYAM 
-the ground is inappropriate, because of the circular argument it involves: only if the non-Vedic character of Pancarätra Sastra is proved, it is proved that these sacraments arc rcally different; and if the latter is proved, it is proved that Pañcaratra Sastra is nonVedic. 
-Moreover, the ground is either that the Pancarătra sacraments are different from all Vedic sacraments, or that they are different from some Vedic sacraments. Not the latter alternative, for this would mean that the sacrament of Initiation ctc. is non-Vedic because it is different from the sacrament of Tonsure; nor the first alternative, because it does not escape the said defect? for the sacrament of Initiation is not different from all 
+the ground is inappropriate, because of the circular argument it involves: only if the non-Vedic character of Pancarātra Sastra is proved, it is proved that these sacraments arc rcally different; and if the latter is proved, it is proved that Pañcaratra Sastra is nonVedic. 
+Moreover, the ground is either that the Pancarātra sacraments are different from all Vedic sacraments, or that they are different from some Vedic sacraments. Not the latter alternative, for this would mean that the sacrament of Initiation ctc. is non-Vedic because it is different from the sacrament of Tonsure; nor the first alternative, because it does not escape the said defect? for the sacrament of Initiation is not different from all 
 Vedic sacraments; and we have said that the difference (of Pañcarātra sacraments) from Vedic sacraments is disproved on the ground that Pañcarātra Sastra is Vedic. 
 93\. The objection202 that Pancarātra is outside the Veda, because like the Pasupata Tantra it is not included among the fourteen sciences which are held to be authoritative of dharma, would also have an occasional application to the texts of the Bharata and Rāmāyaṇa composed by Dvaipayana and Valmiki. 
 94\. The objection that Pañicarātra is non-Vedic because it is rejected by the blessed Badarayana is incorrect. For how could the blessed Dvaipayana 20 be thought to reject the Bhagavata doctrine, while he himself is a supreme Bhagavata, model for all the world? It was he who said, "This has been extracted from the Bharata in its full length of one hundredAGAMA PRAMANYAM 
 79 
 thousand Slokas after it had been churned with the stick of thought, as butter is extracted from curds, and curds from milk, the Brahmin from the bipeds, the Aranyaka from the Vedas, and the amṛta from the herbs this Maho panisada which is consistent with the four Vedas and the demonstrations of Sarpkhya.and Yoga is called the Pañcaratra. This is bliss, this is 
-brahman, this is the summum bonum. Being consistent with Rk, Yajuh and Saman and the Atharvängirasas, this discipline will of a certainty be authoritative."+ 
+brahman, this is the summum bonum. Being consistent with Rk, Yajuh and Saman and the Atharvāngirasas, this discipline will of a certainty be authoritative."+ 
 And in the Bhismaparvan too: "Brahmins, Ksatriyas, Vaisyas and Sūdras as described are all to worship, serve and honour Madhava according to the Satvata ritual that has been promulgated by Samkarṣaṇa, at the end of the Dvapara age and the beginning of the Kali age."205 
 Also in the Santiparavan: "Certainly, the Vaisnava must undergo Consecration with all effort: for Hari will be particularly graceful to one who has been consecrated and to no one else. One should consecrate a Brahmin in spring, a Ksatriya in summer, a Vaisya in the autumn, a Sudra in winter, a woman in the rainy season according to the Pañcarātra doctrine."206 And likewise: "It has been made commensurate with the four Vedas on the great 
 Mountain Meru."20 
@@ -576,7 +555,7 @@ REPLY. NO. The personal manifestation of God is described as being constituted b
 AGAMA PRAMANYAN 
 81\. 
 from the order he superintends. Birth is described as the acquisition of various bodies, as is said in the statement toyena jioan in the Yajurmurdhan." 
-Besides, the Author of the Sutras has already discarded the śruti, smṛti and profane views concerning the origination and reabsorption of the individual soul in the sutra caracara paparayas tu syat tadayapadefo bhāktas tadbhacabḥācitrāt.212 And since, moreover, the origination of the individual soul out of Brahman has been rejected in the sūtras nätmā śrutch nityatvāc ca tabhpal, it does not occasion a renewed exposition: an issue which does not need being made a topic would then be made a topic. 
+Besides, the Author of the Sutras has already discarded the śruti, smṛti and profane views concerning the origination and reabsorption of the individual soul in the sutra caracara paparayas tu syat tadayapadefo bhāktas tadbhacabḥācitrāt.212 And since, moreover, the origination of the individual soul out of Brahman has been rejected in the sūtras nātmā śrutch nityatvāc ca tabhpal, it does not occasion a renewed exposition: an issue which does not need being made a topic would then be made a topic. 
 96\. This also explains the sūtra na ca kartuḥ karanam; for it is not said here that the instrument, Sc. the mind, originates from the agent, sc. Samkarsana. For we have already stated that these names solely refer to the persons who superintendent these orders but are themselves different from them, 
 OBJECTION. Then why this sutra at all? For we do not find that instruments, like a batchet, originate from an agent, like Devadatta, so that an instrument out of an agent makes no sense. 
 REFUTATION. Well, then you reject the general view that all instruments, vital airs, mind etc. have their origin in Brahman which itself is without the entire collection of all instruments and rests solely on its own power; this view is stated in the text: "From it springs the vital air, the mind and all the senses.""215 
@@ -594,20 +573,20 @@ and
 83 
 Samkarṣaṇa, Pradyumna and Aniruddha, too, are unconflicting. 
 either 
-98\. Furthermore, vipratiṣedhat7 may mean "because of conflict with Revelation", on the basis of the citation "failing to find in the four Vedas..." or "because of mutual conflict between the Tanti as themselves". The former alternative, incompatibility with Revelation has already been refuted as being without valid basis. Mutual conflict between the Pañcarätra Tantras themselves, whose terminological precision has been perfected by the rules of logic governing principal matter, generality, peculiarity, quality and the like, does not exist. On the other hand, statements that lack the corroboration of logic can have no cogency; as the maxim says: "A statement must have precision perfected by logic before it can communicate its meaning." 
-Consequently, the Author of the Sutras gives the lie to those exegetes who, hy superimposing on the Pañcarätra Tantras (whose validity he strongly affirms as no less than that of the Vedas, in such assertions as "idam mahopanisadam," etc.) the non-existent doctrine of the soul's origination, explain that the sūtra means to reject the Pañcaratra Tantras. Enough. 
+98\. Furthermore, vipratiṣedhat7 may mean "because of conflict with Revelation", on the basis of the citation "failing to find in the four Vedas..." or "because of mutual conflict between the Tanti as themselves". The former alternative, incompatibility with Revelation has already been refuted as being without valid basis. Mutual conflict between the Pañcarātra Tantras themselves, whose terminological precision has been perfected by the rules of logic governing principal matter, generality, peculiarity, quality and the like, does not exist. On the other hand, statements that lack the corroboration of logic can have no cogency; as the maxim says: "A statement must have precision perfected by logic before it can communicate its meaning." 
+Consequently, the Author of the Sutras gives the lie to those exegetes who, hy superimposing on the Pañcarātra Tantras (whose validity he strongly affirms as no less than that of the Vedas, in such assertions as "idam mahopanisadam," etc.) the non-existent doctrine of the soul's origination, explain that the sūtra means to reject the Pañcaratra Tantras. Enough. 
 of the book! 
-99\. The meaning of the sutras is this. First the Author has set forth that the doctrines of Kapila, Kasyapa, Buddha, Jina and Pasupati, who oppose the Author's own accepted doctrine, are unnatural" because they conflict with Revelation and logic. Now, in order to remove the suspicion that the Paficarãtra 
+99\. The meaning of the sutras is this. First the Author has set forth that the doctrines of Kapila, Kasyapa, Buddha, Jina and Pasupati, who oppose the Author's own accepted doctrine, are unnatural" because they conflict with Revelation and logic. Now, in order to remove the suspicion that the Pancarãtra 
 84 
 AGAMA PRĀMINYAṀ 
 Tantras (which are his own accepted doctine) are equally unnatural with the other doctrines because their usual enumeration on an equal plane with the others has made them closely associated with them in people's thinking, he elicits their validity. 
-In the first two sutras the prima-facie case is laid down: the Paficarãtra likewise has no validity, ulpallyasambhavat, i.e., on account of the impossibility of Sarıkarṣaṇa's origination which is taught there. Why should it be impossible? Because it cannot be established in either of two possible cases; either the four has are equally sovereign, or else one God exists in four persons; and in either case there is impossibility of origination. If they are equally sovereign, they cannot be created because they are equal; if only one being is admitted no origination is possible either, since a distribution within one being of creating and created parts is inconceivable. 
+In the first two sutras the prima-facie case is laid down: the Pancarãtra likewise has no validity, ulpallyasambhavat, i.e., on account of the impossibility of Sarıkarṣaṇa's origination which is taught there. Why should it be impossible? Because it cannot be established in either of two possible cases; either the four has are equally sovereign, or else one God exists in four persons; and in either case there is impossibility of origination. If they are equally sovereign, they cannot be created because they are equal; if only one being is admitted no origination is possible either, since a distribution within one being of creating and created parts is inconceivable. 
 100\. Similarly na ca kartuḥ karanam: Pañcarātra has no validity for the further reason that it is impossible that the instrument, sc. the mind called Pradyumna, originates from the agent, sc. the individual soul called Samkarsana, for the hatchet does not originate from Devadatta. Or there is this alternative explanation of na ca kartuḥ karanam: and for the further reason that the instrument does not originate from the agent Samkarsana, since according to the text: "From it spring the vital air, the mind and all the senses," it is revealed that all instruments really originate from Brahman. 
 101\. Then 
 AGAMA FRAMANYAM 
 85 
 follows: vijñānādibhāre va tadapratisedhali. By the particle ca this prima-facie case is now reversed. What has been said, viz., that there is no validity since in neither case origination of Sankarṣaṇa etc. is possible, is untrue: it is not contradictory that Samkarṣaṇa etc. have originated. Indeed, it would be contradictory if they were not oijnanadi. 
-Vijñānādi is a dvandva compound: "knowledge and beginning," that means: Brahman; thus mijnānädibhāve means brahmabhave. Inasmuch as they are Brahman (brahmabhave), the origination is not contradictory. That is to say by virtue of the fact that the unique Supreme Soul Vasudeva, whose omnipotence is unbounded, enters into them through His māyā, a cause-effect relation is justified. The objection that the mind cannot originate from Samkarsana, on the authority of the śruti that the mind originates from Brahman, is invalidated by the fact that he, sc. Samkarsana is vijänadi, i.e., Brahman. 
+Vijñānādi is a dvandva compound: "knowledge and beginning," that means: Brahman; thus mijnānādibhāve means brahmabhave. Inasmuch as they are Brahman (brahmabhave), the origination is not contradictory. That is to say by virtue of the fact that the unique Supreme Soul Vasudeva, whose omnipotence is unbounded, enters into them through His māyā, a cause-effect relation is justified. The objection that the mind cannot originate from Samkarsana, on the authority of the śruti that the mind originates from Brahman, is invalidated by the fact that he, sc. Samkarsana is vijānadi, i.e., Brahman. 
 102\. Furthermore, what is being said in the argument na ca kartuḥ karanam? Is it that the instru ment of a certain action does not originate from the agent of that same action; or that no instrument of any action whatever originates from any agent whatsoever? If the first view is taken, we have a conflict with Inference, because the argument contains the fallacy of proving the proved. The mind, originating from the agent Samkarsana cannot be the instrument of Samkarsana's action of originating it, since it itself is the object of the action; nor can it be the instrument of the action of being originated, since it itself is the 
 86 
 AGAMA PRAMANYAN 
@@ -654,12 +633,12 @@ Moreover, in the case of the self-valid Vedas, too, we find this same dependence
 92 
 
 REFUTATION. Why, in the case of Pañcarátra too no question can arise about its validity, since the absence of defects is easily proved by the fact that the omniscient and omnipotent God is its speaker; so the argument is the same. 
-In other words, in both cases of self-validity there is positive certainty that there are no defects; in the case of the Veda because there is positive certainty that no person is involved who could possess these defects; in the case of Pañcarätra because there is positive certainty that its speaker possesses virtues which preclude defects. It is here as in the following two cases of absence of heat: there is no heat in ether because it is certain that there is no locus for heat in ether; nor is there heat in cold water because there is coldness which precludes heat. 
+In other words, in both cases of self-validity there is positive certainty that there are no defects; in the case of the Veda because there is positive certainty that no person is involved who could possess these defects; in the case of Pañcarātra because there is positive certainty that its speaker possesses virtues which preclude defects. It is here as in the following two cases of absence of heat: there is no heat in ether because it is certain that there is no locus for heat in ether; nor is there heat in cold water because there is coldness which precludes heat. 
 113\. Moreover, neither dependence nor independence is by itself a cause of invalidation.29 The independent cognition that some substance is silver while in reality it is nacre is invalidated by the cognition: "This is not silver:" this cognition itself is consi. dered as dependent. The cognition "This is that flame," is found to be invalidated by the inferential cognition that arises from the disappearance of oil"; the latter cognition itself is dependent because it arises from a sense-perception. The simple truth therefore is that which is susceptible to invalidation is invalidated by that which is not so susceptible; in our present case there is no such susceptibility either of Scripture or of Pañcaratra. 
 114\. Or if you think that it is impossible to give positive certainty that the Tantra is promulgated by 
 AGAMA PRĀMĀṆYAN 
 93 
-Vasudeva, as it is in conflict with Scripture, I ask you : Why then does the knowledge arise that Scripture is preterpersonal, while it is invalidated because it conflicts with Pañcaratra? They accept it that the Veda is preterpersonal just because it is Veda; but then one can equally claim that Pañcaratra is promulgated by Vasudeva just because it is Pañcaratra. If the preterpersonal origin of the Veda is proved by the fact that there is no recollection of an author, then why not agree that Pañcaratra is promulgated by Vasudeva just because there is recollection of his authorship? For there exists a strong transmission of the recollection, extending to women and children, that Kesava is the author of the Paficarãtra. So great a faith do people have in His authorship that they erect monuments according to the precepts of Pañcarātra, donating elephants, horses and great wealth in various fees, 
+Vasudeva, as it is in conflict with Scripture, I ask you : Why then does the knowledge arise that Scripture is preterpersonal, while it is invalidated because it conflicts with Pañcaratra? They accept it that the Veda is preterpersonal just because it is Veda; but then one can equally claim that Pañcaratra is promulgated by Vasudeva just because it is Pañcaratra. If the preterpersonal origin of the Veda is proved by the fact that there is no recollection of an author, then why not agree that Pañcaratra is promulgated by Vasudeva just because there is recollection of his authorship? For there exists a strong transmission of the recollection, extending to women and children, that Kesava is the author of the Pancarãtra. So great a faith do people have in His authorship that they erect monuments according to the precepts of Pañcarātra, donating elephants, horses and great wealth in various fees, 
 In the Skanda Purana it is said that "Kapila is the promulgator of Samkhya, Kesava of Pañcaratra." Likewise in the Mahabharata: "Narayana Himself is the promulgator of the entire Pañcaratra. This great Upanisada, consistent with the four Vedas, as well as with the doctrines of Samkhya and Yoga, called Pañcaratra, which was revealed by Nārāyaṇa's tongue, has been taught to the sages by Narada as he had seen it and heard it in the abode of Brahma." From these and thousands of other statements in the Puranas, which are supported by the rules of interpretation, the conclusion follows naturally that Pañcaratra was indeed composed by Vasudeva Himself. On the other hand, some experts dispute that the Veda is eternal,235 
 91 
 
@@ -670,7 +649,7 @@ ADAMA PRAMANYAM
 95 
 suprasensible, took away from Brahma etc. also the power of recollecting that He was the creator of the Vedas, and from then onward set in motion the transmission of Vedic instruction until the present day: how can we be sure about it? 
 Or the position can be taken that since there is no evidence that, while He is indeed omnipotent, He acted up to the full measure of His omnipotence, since there is no purpose for Him to deceive people because He is satisfied in all His desires, and since He is not in the least affected by defects of partiality and cruelty etc. because He abides with natural affection for all living beings; and since, if He had composed the Pañcaratra in order to deceive, it would be impossible to demonstrate that the wise men who, up to now, learn its instructions and perform the contents of these instructions have forgotten the defects of its author, it must follow that such a suspicion does not arise; and if this view is taken, all this will equally apply to the Vedas as well. 
-Therefore, what possible purpose could He who is satisfied in all His desires, who is omniscient and a treasury of compassion have in deceiving the poor people who have failed to understand the meaning (of the Veda)? Or how could the supreme sages everywhere praise the Tantra as being equal to the Upanisads, if it had been composed in order to deceive? For thus the saints declare in Väräha Purana, the Ramayana and the Bharata etc. that this Tantra is an equally esoteric doctrine as the Vedas; and wc declare the same. "Through Veda, Pañcaratra, through devotion and sacrifice, O Brahmin, I can be 
+Therefore, what possible purpose could He who is satisfied in all His desires, who is omniscient and a treasury of compassion have in deceiving the poor people who have failed to understand the meaning (of the Veda)? Or how could the supreme sages everywhere praise the Tantra as being equal to the Upanisads, if it had been composed in order to deceive? For thus the saints declare in Vārāha Purana, the Ramayana and the Bharata etc. that this Tantra is an equally esoteric doctrine as the Vedas; and wc declare the same. "Through Veda, Pañcaratra, through devotion and sacrifice, O Brahmin, I can be 
 96 
 ADAMA PRAMANYAM 
 attained, and not in any other way, even in hundreds of lacs of years. If one among thousands will grasp the Pafcaratra and, at the expiry of his karman, will die my devotee, the Vedas and the Pañcarātra will dwell in his heart forever.237 This supreme Pañcarātra doctrine of mine, which is not difficult to grasp, that you shall reach to all the world by my grace, doubtless.25 The Yogins mediate upon the Eternal One with Puranas, Vedas and Pañcaratras, and worship Him with the proper rites. Thus Samkhya and Yoga on the one hand, and Veda and Aranyaka on the other hand are one and the same; all together they are the members that constitute Pañcaratra, O excellent one. He who sees through Veda and Pañcaratra sees truly; this great Upanisada, consistent with the four Vedas...." Since the number of these and similar statements is infinite, we stop here. If you still raise the question if there cannot be ruin in such a Tantra, then there can be no faith in anything. It is with this view in mind that the Author sets forth: vipratised hat. 
@@ -681,7 +660,7 @@ REFUTATION. This statement means that those of frail minds, who are not strong e
 56 
 97 
 disrespectful to the Veda. This is comparable to the venerable Jaimini's exposition that the fruits of acts serve to increase people's faith in the acts. 
-117\. The contention has been voiced that Paficaratra is invalid because it is accepted by those who are outside the Veda." But why could one not equally well contend that the Vedas are invalid because they are accepted by those who are outside Pancarătra? 
+117\. The contention has been voiced that Paficaratra is invalid because it is accepted by those who are outside the Veda." But why could one not equally well contend that the Vedas are invalid because they are accepted by those who are outside Pancarātra? 
 Furthermore, what exactly does this mean, being "outside the Veda," and what means "accepted by those who are outside the Veda?" Does "being outside the Veda" mean "being different from the Veda" or "doing what is forbidden by the Veda" or "being hostile to the Vedas?" 
 Likewise we must inquire whether "accepted" 
 means learnt" or "known" or "observed." cases the ground proves to be defective, 
@@ -705,8 +684,8 @@ Now, the first alternative cannot be adopted, because the ground is not proved. 
 Nor can the second alternative be adopted that the Tantras are invalid because they are accepted by people who are unqualified for certain Vedic rites, because that would entail the conclusion that all Vedic statements are invalid. For every man has some Vedic rites for which he is not qualified: the brahmin is not qualified for the Royal Consecration, the ksatriya not for the ritual drinking of soma. Consequently, this ground has an occasional application to the Vedic statements, which are accepted by qualified persons belonging to the three estates, and is therefore inconclusive. As to the illustration, the view that heaven is attained. by worshipping a caitya is not invalidated by its being accepted by heretics, but by the deficiency of its cause, 
 100 
 
-119\. We have already said that Pancarâtra has been accepted by the Vedic, and among all orthodox pre-eminent, sages Bhṛgu, Bharadvāja, Dvaipāyaṇa etc. And in the present day we can also observe how exemplary persons of great learning, believing that these rites are most effective in attaining bliss, perform the rites of temple-building, erection of idols, prostration, circumambulation and particular festival ceremonies, just as they perform the agnihotra and other rituals enjoined directly by Scripture. And it is improper to maintain that their conduct has no foundation, for that would entail that such smärta rites as crepuscular worship, astaka etc., are similarly without foundation. It has been said that the conduct of exemplary people is authoritative,26 and also that even when they do not know the cause of their custom, they do know what is proper custom. 
-120\. If the ground for the invalidity of Pañcaratra is that it is accepted by Bhagavatas, well, then the scriptural statements of the Ekayana Sakha and the Vājasaneyaka sakhas and the means of knowledge Perception, Inference etc., would also be invalid since the Bhagavatas accept those too! This same ground, moreover, namely that Paficarãtra is invalid because it is accepted by the Bhagavatas, suffers from two defects; it is both specially-occasional and unproved.249 Why is Pancaratra rendered invalid by their acceptance? If it is because they do not belong to the three estates, then the Atharvanic statements whose content is accepted and observed by rathakaras, nisadas and other groups which do not belong to the three estates (Statements like "The rathakara must add fuel," "With 
+119\. We have already said that Pancarâtra has been accepted by the Vedic, and among all orthodox pre-eminent, sages Bhṛgu, Bharadvāja, Dvaipāyaṇa etc. And in the present day we can also observe how exemplary persons of great learning, believing that these rites are most effective in attaining bliss, perform the rites of temple-building, erection of idols, prostration, circumambulation and particular festival ceremonies, just as they perform the agnihotra and other rituals enjoined directly by Scripture. And it is improper to maintain that their conduct has no foundation, for that would entail that such smārta rites as crepuscular worship, astaka etc., are similarly without foundation. It has been said that the conduct of exemplary people is authoritative,26 and also that even when they do not know the cause of their custom, they do know what is proper custom. 
+120\. If the ground for the invalidity of Pañcaratra is that it is accepted by Bhagavatas, well, then the scriptural statements of the Ekayana Sakha and the Vājasaneyaka sakhas and the means of knowledge Perception, Inference etc., would also be invalid since the Bhagavatas accept those too! This same ground, moreover, namely that Pancarãtra is invalid because it is accepted by the Bhagavatas, suffers from two defects; it is both specially-occasional and unproved.249 Why is Pancaratra rendered invalid by their acceptance? If it is because they do not belong to the three estates, then the Atharvanic statements whose content is accepted and observed by rathakaras, nisadas and other groups which do not belong to the three estates (Statements like "The rathakara must add fuel," "With 
 
 101 
 that he must sacrifice for the chief of the Nişādas,""""" 
@@ -769,7 +748,7 @@ Moreover, when knowledge of the thing meant by a word is obtained from the denot
 AGAMA PRAMANYAṀ 
 111 
 which the meanings of the component members are lost, namely in prokṣanisu arthasamyogāt.274 
-Therefore, those eminent brahmins are called sätvatas and bhagavatas who because of their pure character (sattva) devote themselves to the Bhagavān who is the Supreme Person. Later on we shall show that other smṛtis set forth the eminent brahminhood of the Bhagavatas. 
+Therefore, those eminent brahmins are called sātvatas and bhagavatas who because of their pure character (sattva) devote themselves to the Bhagavān who is the Supreme Person. Later on we shall show that other smṛtis set forth the eminent brahminhood of the Bhagavatas. 
 131\. The further objection," namely why these people should invariably be denoted by the exclusive names of Satvata and Bhagavata, if their brahminhood were the same as that of others, can be answered thus: there is no defect in that, for it is as it is in the case of the names parivrajaka and nigadu. Certain brahmins are called bhāgavatas, just as certain brahmins are called pariurájakas, and certain yajul formulae nigadas, though both are equally brahmins and equally ya juḥ formulae; namely in the statements: The brahmins should remain, the parivrajakas must be fetched;"76 "the yajul formulae take place, not the nigadas; the nigadas take place, not the yajuh formulae;"""" and this is so because of the interpretation: "the nigadas are the fourth mantra collection, or the yajul formulac, because they are identical." 
 132\. The contention that the Bhagavatas arc bad brahmins because they perform pūjā to the God, partake of the offering substance etc. for a livelihood, is countered in the following manner: Surely not all Bhagavatas worship Hari for their profession, for many Satvatas are found who perform puja for themselves. If there are certain people who, while being Satvatas, 
 112 
@@ -800,7 +779,7 @@ In other words, inasmuch as the offering up of mere flowers, cakes etc.209 is no
 JOAMA PRAMANYAM 
 nor smell them, nor step over them."-How then can one accept the purity of the utilization of the nirmalya when we thus know from several Samhitas that it is prohibited? 
 REFUTATION. To this he says: The utilization of a proffered substance which has been offered up to the deity is not condemned if it is done within a period of ten nāḍikās.” Thus in the same Indraratra: "The wise one must let the offering-cake stand for ten nāḍikās. This period of time has been prescribed both for night and for day. They condemn the nirmalya that has stood for more than this period of time; thereupon he must throw it in water, or in fire, or bury it in the ground." 
-OBJECTION. But what is said here is not to praise the tasting etc. of the nirmalya, but to prescribe that the substance of the cake pūjā is thrown away after a period of ten nāḍikās. In the statement: "He must let the offering cake stand for over ten näḍikās,” the injunction is laid down that when the proffered flowers, cake etc. in general have been taken off as nirmalya, because they have now fulfilled their ritual function, they must be kept by way of accessory puja rite for a period of ten nädikas. And consequently even a study of the conclusions of your own Tantras shows that the touching etc. of the turmeric powder, the food offerings and the water used to clean the idol's feet is not established by Tantric doctrine. Now, where are you! 
+OBJECTION. But what is said here is not to praise the tasting etc. of the nirmalya, but to prescribe that the substance of the cake pūjā is thrown away after a period of ten nāḍikās. In the statement: "He must let the offering cake stand for over ten nāḍikās,” the injunction is laid down that when the proffered flowers, cake etc. in general have been taken off as nirmalya, because they have now fulfilled their ritual function, they must be kept by way of accessory puja rite for a period of ten nādikas. And consequently even a study of the conclusions of your own Tantras shows that the touching etc. of the turmeric powder, the food offerings and the water used to clean the idol's feet is not established by Tantric doctrine. Now, where are you! 
 REFUTATION. Where are you, loquacious debaters, witless fools who have been swallowed by your own tongue which plays around with a grain of 
 AGAMA PRAMANYAṀI 
 117 
@@ -813,7 +792,7 @@ time subsequent to that when the (offerings to) the chief of the Bhagavan's reti
 For instance it is said in the Brahma Puriņa: "The nicedia of Visnu is declared by the sages to be pure and fit for consumption; one who eats other nirmalya and nicedja must perform the candrayana in expiation. The malya which is taken from the body of Visņu takes away evil and is holy. He who wears iton his head goes to supreme bliss." It follows that the smrti statement that a man who eats nirmalja and nivedya must perform the candranos should be takenAGAMA PRĀMĀṆYAṀ 
 119 
 to bear 
-upon the nirmalya of Rudra, Kali etc. Thusin the Mahabharata: "Meditating in one's heart upon Hari, one must offer food to Him with full attention, thereupon pick up this food again with the middlefinger and the thumb, and then sacrifice it bit by bit, saying: "Prāṇāya svāhā, Apānāyasvāhā, Vyānāya svāhā, Udanaya svālā, Samänāya svähä." Likewise in another passage, "what has been offered to the god must be given to a brahmacarin." Thus in the Mahabharata: "The saintly knowers of the Pañcaratra ate in his house that which had been left over by the Bhagavan, as a means to attain to bliss, as supreme nourishment."**" And likewise the blessed Saunaka: "He himself eats the nivedya." He who condemns Visnu's nivedya, whose purity is proved by hundreds of similar smrtis and which dispels the fear of rebirth, really ignores the statements of the smṛti because of his heterodoxy and ought to have his tongue cut off 
+upon the nirmalya of Rudra, Kali etc. Thusin the Mahabharata: "Meditating in one's heart upon Hari, one must offer food to Him with full attention, thereupon pick up this food again with the middlefinger and the thumb, and then sacrifice it bit by bit, saying: "Prāṇāya svāhā, Apānāyasvāhā, Vyānāya svāhā, Udanaya svālā, Samānāya svāhā." Likewise in another passage, "what has been offered to the god must be given to a brahmacarin." Thus in the Mahabharata: "The saintly knowers of the Pañcaratra ate in his house that which had been left over by the Bhagavan, as a means to attain to bliss, as supreme nourishment."**" And likewise the blessed Saunaka: "He himself eats the nivedya." He who condemns Visnu's nivedya, whose purity is proved by hundreds of similar smrtis and which dispels the fear of rebirth, really ignores the statements of the smṛti because of his heterodoxy and ought to have his tongue cut off 
 137\. OBJECTION. But how can the nivedya be a means for the prāṇāgnihotra? The exemplary people do not approve of a means for homa etc. for which no building bricks are used. Nor can a substitution of another substance do duty as a homa, because he lives off food that has been obtained according to taste. Nor can a substitution of another consumption be made to replace the nivedya, for scripture enjoins upon the twiceborn a meal in the evening and a meal in the morning, as follows from the prohibition: "One should not take food in between.** 
 REFUTATION. That is no defect, since the multitude of deitics, like prana etc. are revealed to be parts of Visnu, in the same way as Viśvaksena, the chief 
 120 
@@ -834,10 +813,10 @@ Printed at Prabha Printing House, Bangalore-4, India
 NOTES 
 1\. To Yamuna, God's omniscience consists in this unlimited percipience, so that, as he will argue below (§ 109), the 
 validity of Pancarātra does not rest only on Scripture, but also on Perception. 
-2\. In the purva paksa the principal opponents introduced are what one may already call smärta brahmins, and among them especially the orthodox followers of Mimāmsi. Vedanta opposition will be discussed. 
+2\. In the purva paksa the principal opponents introduced are what one may already call smārta brahmins, and among them especially the orthodox followers of Mimāmsi. Vedanta opposition will be discussed. 
 No 
 3\. fabda, and its synonyms, have been translated variously as Verbal Testimony, Verbal Evidence in general, or Scripture in particular, depending on the context. 
-4\. prämäna has generally been rendered with "means of 
+4\. prāmāna has generally been rendered with "means of 
 knowledge," sometimes with "criterion." 
 5\. jagati or toke: "in the world of experience, in common 
 experience." 
@@ -865,7 +844,7 @@ synonymous.
 NOTES 
 125 
 component parts. Rathakara means by poga "cbariotmaker, cartwright." by ridhi a caste which is not at all characterized by this profession, 
-22\. adhyayanasiddhabuddhyangatoabkangenäpi. Such a "connotation" is, for example, that the rathakara in the literal sense of cartwright is disqualified for Vedic ritual, because a cartwright is a füdra; on this point see infra. 
+22\. adhyayanasiddhabuddhyangatoabkangenāpi. Such a "connotation" is, for example, that the rathakara in the literal sense of cartwright is disqualified for Vedic ritual, because a cartwright is a füdra; on this point see infra. 
 23\. upanapana, which is the first step to his acquisition of 
 Vedic knowledge. 
 24\. Manu 10.23. 
@@ -890,7 +869,7 @@ not in Atrismpti: Avaluka is unknown to me, kalpa. devalaka can be explained as 
 126 
 37\. namely, dīkṣā. 
 
-38\. namely, the four Vedas, six Vedängas, the Purapas, 
+38\. namely, the four Vedas, six Vedāngas, the Purapas, 
 Mimans5, Nyaya and Dharmasastra. 
 39\. BrS. 2.2.42. 
 40\. A Naiyayika. Traditionally, Nyaya does not accept the Mimāns view that the Vedas have not originated from 
@@ -900,13 +879,13 @@ a person.
 43\. This envisages the world as the sum total of the fruits (phala) brought about by observance or non-observance of dharma, which is thus instrumental to world creation. 
 44\. cf. Udayana, Kusumanjali4.1. 
 45\. Since they are products, they have been produced by a person (God) who knew the means by which to produce them (dharma and adharma). 
-46\. This is the Mimasă view which holds that the dharma and adharma as instruments in creation are always the dharma and adharma of a particular intelligent being whose body is itself the product of dharms and adharma and can therefore never, however intelligent he may be, control them. The Mimimsaka admits that the universe, being made up of parts, is subject to origination and destruction, but never at one time, since all entities presuppose former acts that have brought them about. 
+46\. This is the Mimasā view which holds that the dharma and adharma as instruments in creation are always the dharma and adharma of a particular intelligent being whose body is itself the product of dharms and adharma and can therefore never, however intelligent he may be, control them. The Mimimsaka admits that the universe, being made up of parts, is subject to origination and destruction, but never at one time, since all entities presuppose former acts that have brought them about. 
 NOTES 
 127 
-The law of dharma and adharma necessarily operates eternally. No agency is possible which can intervene in this eternal operation fromact to act, by either beginning or ending the universe. On this cf. Prakarapapafcikā, p. 137 ff. for the Prabhakara view, and Slokavirttika, Sambandhäkṣepaparihara 47-116 for the Bhitta view. 47. lit. "that which is unprecedented, not known before, se. by other means of knowledge" in Mimämsä it describes especially that suprasensible power inherent in the act which makes it produce its result. 
+The law of dharma and adharma necessarily operates eternally. No agency is possible which can intervene in this eternal operation fromact to act, by either beginning or ending the universe. On this cf. Prakarapapafcikā, p. 137 ff. for the Prabhakara view, and Slokavirttika, Sambandhākṣepaparihara 47-116 for the Bhitta view. 47. lit. "that which is unprecedented, not known before, se. by other means of knowledge" in Mimāmsā it describes especially that suprasensible power inherent in the act which makes it produce its result. 
 48\. The argument is that one cannot know that the act will indeed produce an effect until this effect has materialized; thus the act's power-apurea-cannot be known beforehand as the instrument of effectuation. By the Naiyayika's definition only one who knows what instruments are effective in production can actually produce. 49. unidentified. 
-50\. mantra and arthavada: the terms indicate that the Naiyayika continues to address the Mimimsaka, for these of course are Mimämsä terms, mantra being the Vedic formula used at the ritual, arthavada the descriptive, noninjunctive passages of Brahmana and later Vedic texts. 51. RV. 10. 90. 14. 
-52\. Yamuna concurs in the Mimämsaka's refutation of the Naiyayika's views, to the extent that he too rejects that the existence of God can be proved by reason; but he will counter the Mimagisa assertion that God cannot be proved at all, that in fact there is neither room nor purpose for a God in the universe. For Yamuna, God has all the characteristics He has for the Naiyayika, but he proves them from Scripture, not reason. 
+50\. mantra and arthavada: the terms indicate that the Naiyayika continues to address the Mimimsaka, for these of course are Mimāmsā terms, mantra being the Vedic formula used at the ritual, arthavada the descriptive, noninjunctive passages of Brahmana and later Vedic texts. 51. RV. 10. 90. 14. 
+52\. Yamuna concurs in the Mimāmsaka's refutation of the Naiyayika's views, to the extent that he too rejects that the existence of God can be proved by reason; but he will counter the Mimagisa assertion that God cannot be proved at all, that in fact there is neither room nor purpose for a God in the universe. For Yamuna, God has all the characteristics He has for the Naiyayika, but he proves them from Scripture, not reason. 
 53\. That which makes the Veda authoritative, i.e., a means of valid knowledge, is just this that it communicates knowledge of apurva facts, e.g., that a soma sacrifice is a means of attaining heaven, i.e., generally matters pertaining to dharma. 
 20 
 120 
@@ -918,9 +897,9 @@ perceived, and the assumption of a God who 'supervises' and controls this power 
 59\. It is the contention of Mimamsa that words and their 
 capacity of conveying meaning are eternal. 
 60\. Sequence, of course, supposes priority and posteriority of the entities in sequence, while eternals are co-eternal. 
-61\. kramaväntarajati; the difference resides in the createdness of the Pancarătra and the uncreatedness of the Veda, which introduces a difference of degree between the word sequences of both corpora of verbal statements. 
-62\. This is Yamuna's objection, which states the extent to which he concurs in the preceding Mimämsä argument against Nyaya. 
-€3. This starts the discussion of the Prabhakara theory on the limitations of the validity of verbal statements. First general Mimämsä views on the subject are discussed. 64. The validity of fabda lies in its communicating contents that cannot be known through other means of knowledge. What I translate as 'facts" are more literally "establishedNOTES 
+61\. kramavāntarajati; the difference resides in the createdness of the Pancarātra and the uncreatedness of the Veda, which introduces a difference of degree between the word sequences of both corpora of verbal statements. 
+62\. This is Yamuna's objection, which states the extent to which he concurs in the preceding Mimāmsā argument against Nyaya. 
+€3. This starts the discussion of the Prabhakara theory on the limitations of the validity of verbal statements. First general Mimāmsā views on the subject are discussed. 64. The validity of fabda lies in its communicating contents that cannot be known through other means of knowledge. What I translate as 'facts" are more literally "establishedNOTES 
 129 
 entities," established, that is, by other means of knowledge than fabda. A scriptural statement of the kind "grass is green" is not strictly valid in the sense that, in order to know that grass is green, we need a scriptural statement to that effect. Another proving factor, c.g., the means of knowledge Perception, may turn up conceivably and thus make the scriptural statement superfluous; or we may find that grass is not invariably green, but changes its colour, which would reverse the scriptural statement. Scriptural validity, i.e., Scripture's being a means of knowledge, is to the Prabhakara Mimimsaka, its being the sole means of knowing a particular thing. To the Prabhakara this validity is ideal in the case of injunctions concerning actions which, suprasensibly, lead to a certain desired end. 
 65\. The injunction concerning the odana oblation includes an injunction concerning the preparation of the odana and the fetchingof firewood for the cooking. Since experience shows that for a cooking fire one needs firewood, this karya is not strictly known on scriptural authority. 
@@ -934,13 +913,13 @@ entities," established, that is, by other means of knowledge than fabda. A scrip
 70\. Thus Šalikanatha, Prakarapapahciki, p. 182: niyo yali 
 sarvakarye yaft soakiyalvena budhyate. 
 71\. That is to say that the denotativeness of the words composing the statement is dependent upon the injunctive denotation of the statement as a whole. 
-72\. The linädi verbal terminations of Sanskrit to which in English correspond verbs compounded with auxiliaries like "should, must, to be to, ought to." 
+72\. The linādi verbal terminations of Sanskrit to which in English correspond verbs compounded with auxiliaries like "should, must, to be to, ought to." 
 NOTES 
 131 
 73\. For example, a sentence: "He desires to go to heaven," which has the verb in the indicative, followed by a statement "he should sacrifice with a soma sacrifice," where the verb is injunctive, is truly denotative in spite of its indicative form, since it is obviously subordinated to the injunctive sentence, to which it describes the performer's qualification: only one who desires to go to heaven has title to, is qualified for, the performance of a soma sacrifice. 
 74\. This is an example like "it is hot today;" the young father's happy countenance is not considered an action, 75. E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," is an injunctive statement in indicative form. 
 76\. This is the Prabhakara view of the denotativeness of 
-single words, summarized in the formula anditabhidhāna, which is short for käryänvitäbhidhana "denotation of words syntactically connected in an injunctive sentence," 
+single words, summarized in the formula anditabhidhāna, which is short for kāryānvitābhidhana "denotation of words syntactically connected in an injunctive sentence," 
 77\. This point will be taken up and confirmed infra §04. 78. E.g., a statement "there are fruits on the river bank" 
 does not by itself, self-sufficiently, create in the hearer the knowledge that there are fruits on the river bank; the means of knowledge here really is inference, since the hearer must infer that the speaker knows what he is talking about, that he knows that fruit means "fruit", river bank 'river bank," etc. 
 79\. This is again the Prabhakara view. The Bhatta view is somewhat different; according to the latter the upanisads are arthacadas (subsidiary substantive statements laudatory of elements of injunctions) to the eternality of the performer's personality (diman), which eternality is presupposed by the efficacy of the injunction: e.g., the injunction be who desires heaven must offer with the soma sacrifice" supposes the immortality of the performer. 
@@ -963,7 +942,7 @@ unidentified.
 89\. RV. 10.90 14 
 90\. 
 91\. 
-Mahānär Up 11.12. 
+Mahānār Up 11.12. 
 92\. Kath Up. 3.9. 
 93\. Svet Up. 6.9. 
 91\. Visnu Pur. 1.1.31. 
@@ -976,7 +955,7 @@ I read tatha pi.
 99\. unidentified. 
 100\. supra § 12. 
 101\. supra §11. 
-102\. Kumзrila, Slokavärttika 2.114. 
+102\. Kumзrila, Slokavārttika 2.114. 
 103\. BA Up. 4.5.14. 
 3 
 NOTES 
@@ -992,7 +971,7 @@ The whole sentence includes tena jioanti, on which the present exegesis of bhuta
 113\. Kath Up. 2.17. 
 114\. sc. of knowledge. 
 115\. here used as synonymous with Pasupata. 
-116\. I read rityä. 
+116\. I read rityā. 
 117\. pratijñārthah, the object or content of the pratijñā, which is the first step of the five-membered syllogism, e.g., "the mountain has fire" (parvatasya grimattuam). It does not therefore coincide with the Subject. In the proposition both S and P must be siddha, established as existing somewhere; a non-thing like a harc's horn can be neither S nor P. 
 118\. this "non-apprehension of what should be there (yogānu pa
 lambha) is the criterion by which we know the absence of a thing. Here it is the absence of truth in Pancaratra that needs be proved by yoganupalambha, if the objector's contention that Pancaratra is invalid-through-reversion 
@@ -1001,7 +980,7 @@ be correct.
 134 
 120\. 
 
-invalid, but even goes so far as accepting that it is valid in other words, confuse non-invalidity with validity. Then, because of this validity (svarthasya tathātvävabodhanät), there arises a conflict with a deviating statement of the Veda which has its own validity; since only one can be true, it follows that when Paficarãtra is true by inference, it is untrue by Veda. But I don't see how the objector can reasonably infer the validity of Pañcarätra, since its meaning or content is admittedly suprasensible. Yamuna himself has not argued that Inference proves the validity, but that Inference cannot disprove the correctness of the thesis. 
+invalid, but even goes so far as accepting that it is valid in other words, confuse non-invalidity with validity. Then, because of this validity (svarthasya tathātvāvabodhanāt), there arises a conflict with a deviating statement of the Veda which has its own validity; since only one can be true, it follows that when Pancarãtra is true by inference, it is untrue by Veda. But I don't see how the objector can reasonably infer the validity of Pañcarātra, since its meaning or content is admittedly suprasensible. Yamuna himself has not argued that Inference proves the validity, but that Inference cannot disprove the correctness of the thesis. 
 a hetvantaram constitutes on the part of the debator a confession of importance since the ground which he gave does not hold and he has to produce a different ground. By the rules of debate this means a defeat.
 121\. infra §§ 76 F. 
 122\. The founder of the school of logic. 
@@ -1018,7 +997,7 @@ NOTES
 stated. 
 128\. This objection seems to speak to the summary denial that 
 the ground is unestablished through reversion. 
-129\. Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, fabdapramänja) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning. Among these thingsmeant Yamuna includes facts as well as kargas, hence the following debate with the Prabhakara, 
+129\. Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, fabdapramānja) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning. Among these thingsmeant Yamuna includes facts as well as kargas, hence the following debate with the Prabhakara, 
 
 130\. supra § 37. 
 131\. Yamuna here takes up the Prabhakara's theory that a child learns the meaning of language through the action his elders take on hearing a statement, so that the denotativeness of language is defined by its injunctiveness. He uses the Prabhakara's example of the factual statement: "A child is born to you." A child who does not know language has no way of understanding the meaning of this statement because the young father's happiness conveys nothing specific But, asks Yamuna, suppose the same child has witnessed his father reception of the cheering news and the subsequent preparations for a birth ceremony. Since one follows immediately upon the other, the child associates one with the other and can thus understand the meaning of the statement, though the statement itself was no injunction, but a communication of an established fact, 
@@ -1031,11 +1010,11 @@ tions of the verb denote the injunction as their thingmeant (padartha); but what
 
 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction soargakāmo jajeta. The injunctive yajua has no meaning or purpose unless there is a "desire for heaven;" the meaning of the injunction thus is connected with the consequence of this desire of heaven, namely, that somebody who has this desire is prepared to do something about it. 
 136\. ardhajarati is a half-old woman; the ardhajaraliyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way. 
-137\. Misra's text here has pady api prartly anu papattisamadhigamaniyaiva Sabdaŝaktis "the denoting power of language is to be known only through the impossibility of operation," which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of yulpatti, in pracrtti perhaps a corruption of käryärthe or käryärtha-. I read conjecturally karjar the vyutpatti. samadhigamaniyaiva, which gives the required sense. 
+137\. Misra's text here has pady api prartly anu papattisamadhigamaniyaiva Sabdaŝaktis "the denoting power of language is to be known only through the impossibility of operation," which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of yulpatti, in pracrtti perhaps a corruption of kāryārthe or kāryārtha-. I read conjecturally karjar the vyutpatti. samadhigamaniyaiva, which gives the required sense. 
 138\. This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no incans of knowledge in their own right. 
-139\. read na hi kriyakärye vyut pannaḥ sthāji karyam. 
+139\. read na hi kriyakārye vyut pannaḥ sthāji karyam. 
 141\. 
-140\. athayi; the Prabhakara view is that the karya has a lasting efficacy beyond the inevitably transient action it involves; for the karya must remain in order to effect the fruit of the action at any time after the completion of the action. Yamuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of laktand "figurative usage," which remains related to the mukhjä "principal usage." But he will deny the entire construction (67). 
+140\. athayi; the Prabhakara view is that the karya has a lasting efficacy beyond the inevitably transient action it involves; for the karya must remain in order to effect the fruit of the action at any time after the completion of the action. Yamuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of laktand "figurative usage," which remains related to the mukhjā "principal usage." But he will deny the entire construction (67). 
 NOTES 
 137 
 142\. This is the Pribhikara view, which holds that in the injunction nijaga seargakāmo yajeta the sadhya (object to be realized) is not sparge, but the entire niyoga (cf. Prakarapapañcika, p. 190), so that the statement of the injunction would become the means (sadhana) to realize that sadhya, sc. the injunction. 
@@ -1057,11 +1036,11 @@ Prakarapapañcikā, p 183 f
 158\. supra § 36. 
 159\. This must refer to the śruti sa yo ha voi tat param veda 
 น 
-brahma veda brahma bhavati (quoted Ramanuja, Vedärthasarngraha, 91), which I have been unable to locate. 
+brahma veda brahma bhavati (quoted Ramanuja, Vedārthasarngraha, 91), which I have been unable to locate. 
 160\. Taitt Up. 2.1.1. brahmatid apnoti param. 
 138 
 
-161\. This must refer to Taitt Up. 2.1.1 so'fnute sarpan kāmān saha brahmaṇā vipaściṭā, but sa samagaḥ is obscure, unless one may regard it as a corruption of vipafcită. 
+161\. This must refer to Taitt Up. 2.1.1 so'fnute sarpan kāmān saha brahmaṇā vipaściṭā, but sa samagaḥ is obscure, unless one may regard it as a corruption of vipafcitā. 
 162\. 
 Partial quotations from Taitt Up. 2.1.1, Mund Up. and an unidentified source. 
 162a Nrsimhapurvatapani Up. 2.4 (which reads purastad for 
@@ -1084,18 +1063,18 @@ Purana that Yamuna's text had different readings, not all of them better.
 175\. The Linga, Vayu and Bhavisyat quotations could not be 
 verified. 
 176\. Title of one of Yamuna's treatises. 
-177\. read sa hi saha jasamnedanasäkṣālkṛtadikṣärädhonödidharmah 178. External signs worn by Saiva sectarians. 
+177\. read sa hi saha jasamnedanasākṣālkṛtadikṣārādhonödidharmah 178. External signs worn by Saiva sectarians. 
 179\. Svet Up. 3.8. 
 180\. "The Doctrine of the Five Chapters." 
 181\. The highest material evolute; the dloka is out of order,NOTES 
 139 
-182\. The text reads güṭhācāramukhasmasānabhasitävasānaḥ pareļi, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaša yanādikrijāparaḥ. 
+182\. The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaša yanādikrijāparaḥ. 
 183\. The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems out of order. The sense is clear 
 however. 
-184\. corresponds to Varaha Purana. 70.36 foam ca rudra mahabaho mokatasträni kärayal al pajasam dartayitva mahajätu 
+184\. corresponds to Varaha Purana. 70.36 foam ca rudra mahabaho mokatastrāni kārayal al pajasam dartayitva mahajātu 
 mahetoarah. 
-185\. ef. Varäha Pur., 70.41, which in cd reads nayasiddhanta
-sam jñabhir ma ya fästran tu darfitam. 
+185\. ef. Varāha Pur., 70.41, which in cd reads nayasiddhanta
+sam jñabhir ma ya fāstran tu darfitam. 
 186\. cf. Variha Pur., 70.38, which reads in cd fastrejoabkirato 
 loko bahuljena bhaved atah. 
 187\. nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate 
@@ -1113,7 +1092,7 @@ vedasanjaitam.
 199\. Mahabharata 1.265 f 
 199\. supra §17 
 200\. Supra § 17 
-201\. ägnavaispava, name of a sacrificial cake offered at the 
+201\. āgnavaispava, name of a sacrificial cake offered at the 
 dikşaniyeşti. 
 18 
 140 
@@ -1129,7 +1108,7 @@ Mahabharata not identified.
 208\. BrS, 2.2.42. 
 209\. 'Divisions' of the Supreme God as Vasudeva, Sankarṣapa, 
 Pradyumna and Aniruddha. 
-210, tanmatras here in the sense of the "higher evolutes." 211. toyena jivän visasarja bhūmyām, MahānārUp., 1.4. 
+210, tanmatras here in the sense of the "higher evolutes." 211. toyena jivān visasarja bhūmyām, MahānārUp., 1.4. 
 212\. 
 BrS. 2.3.16 (17). Translation: "A word descriptive of moving or unmoving beings, has not a secondary meaning [in referring to Brahman], because such a being's existence depends on Brahman's existence."" 
 213\. BrS., 2.3.17 (18). Translation: "The atman is not born because there is no śruti to that effect, and because of its eternality, which is proved by the śrutis." 
@@ -1143,7 +1122,7 @@ In BrS., 2,2.
 219\. asamañjasya, taken from BrS., 2.2.37. 
 220, supra 5596, 97. 
 221\. ie., as a fat purusa compound "the beginning (source) of 
-(valid) knowledge:" aijäänddibkor "since He (God) is a source of valid knowledge." 
+(valid) knowledge:" aijāānddibkor "since He (God) is a source of valid knowledge." 
 222\. cf. supra § 18. 
 223\. Karmani Lyu! Papini. 
 224\. 
@@ -1154,11 +1133,11 @@ NOTES
 will be accurate. 
 227\. gunataḥ prāmāṇyasyājuktateūd anabhjupagamãe; my understanding is that a statement has its validity by itself, and no secondary validity in the sense that its content must first be validated by some other means. The validity itself must be proved (namely by the character of the personal author or by its preterpersonal origin), but once proved, the statement itself is valid. 
 228\. Vaisnava rite observed five times a day: pañcakáliké. 
-229\. Šlokavärttika, 2.6 7 ab. 
+229\. Šlokavārttika, 2.6 7 ab. 
 230\. ib. 2.67 cd. 
 231\. 
 not identified. 
-232\. this speaks to 108, that the independent cognition cancels the dependent cognition, if there is conflict between them. Yamuna makes the point that this is not invariably true; that neither dependence nor independence is a cause of invalidation, sapeksanira peksatve is a dual and requires the correction of karanam into kärane, If my understanding of the text is correct. 
+232\. this speaks to 108, that the independent cognition cancels the dependent cognition, if there is conflict between them. Yamuna makes the point that this is not invariably true; that neither dependence nor independence is a cause of invalidation, sapeksanira peksatve is a dual and requires the correction of karanam into kārane, If my understanding of the text is correct. 
 233\. namely, because it requires another cognition in order to 
 be denied. 
 234\. namely, in the example of the burning lamp: is it the same flame that burns at six o'clock and at seven o'clock? We don't see the flame change or be succeeded by another flame. Only inference shows that since there is a different amount of oil in the lamp at different times, it is different oil that is burning as a flame, so that the flame is really different. The sense perception is of the varying amounts of oil. 
@@ -1170,7 +1149,7 @@ AGAMA PRAMAṆYAM
 238\. 
 not identified. 
 239\. Sabarabhasya and KMS. 
-240\. supra § 17: vedabahyagrhitaträt. I have rendered grhito by "accepted' to cover approximately the variety of meanings that Yamuna detects in the word. 
+240\. supra § 17: vedabahyagrhitatrāt. I have rendered grhito by "accepted' to cover approximately the variety of meanings that Yamuna detects in the word. 
 241\. 
 Manusmrti, 8.107. 
 242\. People who do prohibited acts follow Vedic expiations; but if acceptance by people who commit forbidden acts is sufficient to deny the validity of what they accept, this means that the validity of the Veda would be denied. 
@@ -1192,7 +1171,7 @@ düdras, and yet by Vedic injunction have to observe, ie., to accept, the few Ve
 NOTES 
 143 
 254\. ie., is the same name used for several groups or only one? 255. The argument is: if S is P, then P is not therefore S. 
-The example is 'parvato 'gnimin dhumavattvät if we interchange S and P, we get parvato dhumavin agnimattvåt, but this is not true, for though there is no fireless smoke, there is smokeless fire. Similarly here: the fifth may be a sitvata or a vaidya vratya, but being the fifth does not make the sitvata a vaidya vratya, 
+The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get parvato dhumavin agnimattvåt, but this is not true, for though there is no fireless smoke, there is smokeless fire. Similarly here: the fifth may be a sitvata or a vaidya vratya, but being the fifth does not make the sitvata a vaidya vratya, 
 256\. In the Manu quotation supra § 15. 
 257, explained below, § 130. 
 258\. Hari has apparently a meaning 'lion. Or did Yamuna 
@@ -1243,9 +1222,9 @@ own terms.
 without divine utilisation. 
 290\. The pancagavya is a substance in which the 5 products 
 of the cow are mingled. 
-291\. one nädika is a half muhurta. 
+291\. one nādika is a half muhurta. 
 292\. cake used at Vedic offerings. 
-293\. namely, in the above statement on the 10 năḍikās. 
+293\. namely, in the above statement on the 10 nāḍikās. 
 294\. Visvaksena, to whom puja is performed after the main 
 pūjā. 
 295\. 
@@ -1258,7 +1237,7 @@ the praṇignihotra.
 298\. The hotar is the principal reciting priest at the soma 
 sacrifice, the adhvaryu the main executive 
 299\. supra § 17. 
-300\. namely, at the upanayana ceremony. 301. aindrägneya, name of a srauta ritual. 302. Name of a work of Yamuna. 
+300\. namely, at the upanayana ceremony. 301. aindrāgneya, name of a srauta ritual. 302. Name of a work of Yamuna. 
 303\. Predecessor of Yamuna at Sriranga. 
 304, Nathamuni compiled the sayings of the Vaisnava saints, 
-the Alvärs. 
+the Alvārs. 
