@@ -8,22 +8,6 @@ title = "Agama-prAmANyam en"
 
 
 
-
-And suppose a finite quantity could assume inconceivable infinitude: why, then any single jar or pitcher could fill up the entire space within the Egg of 
-JOAMA PRALINTAS 
-5 
-Brahma, so that all other things would be pushed out and perish accordingly! 
-If you take space itself as the subject, you merely prove the proved. In the alternative you cannot avoid the illogicality we have pointed out: as a matter of fact, never before has anybody seen a finite pillar which was pervaded by an infinite pillar Consequently, there remains the defect of 
-mutual exclusion. 
-Let us also consider your illustration, namely that in space we have an example of a finite extent becoming infinite. Extent is by definition a limited extension of space, a relative quantity, something that can be entirely circumscribed. Extent in this 
-definition does not subsist in space as such, so how can you adduce it as an example? Besides, if one were to infer extent in space, one would simultaneously infer the possibility that space might be surpassed in extent by another quantity. And so the illustration again falls short of the thesis. 
-Nor is there any evidence for the thesis that a superior perception reveals that Consecration, worship etc. are actually dharma. 
-To sum up: For all these reasons it would appear to us that the supposition that some, otherwise unperceived, supreme spiritual being exists with a superior sensibility is very weak; and this being so, we conclude that Perception offers no authority for the postulated relation of means to ends; and since the authority of Pañcaratra is based upon the Perception of this supposed relation, its authority is entirely non-existent. 
-6 
-
-9\. Not only is there no Perception, but there cannot possibly be an Inference to support the thesis in question, for it is wholly suprasensible: and Inference, of course, can only take place after an invariable concomitance has been observed by means of Perception. If no fires have ever been observed before, they cannot prove that smoke is invariably concomitant with them." 
-10\. Nor do we find scriptural evidence which sets forth that the performance of all the rites which are established in the Satvata" doctrine is mandatory; such evidence would have proved that the Pañcaratra Tradition, being based upon this mandate,1 carried authority. 
-Nor is it possible, in the absence of explicit revelation, to infer such evidence from Scripture. For just as the relation of means to certain ends which are their fruits, c.g., heaven, as Pafcarātra maintains Consecration, worship etc. to be, does not allow of being inferred because no such relation can be verified by Perception, just so no scriptural authority to furnish the basis of such a relation can be inferred from Scripture. 
 י 
 Nor is any verbal testimony capable of providing valid knowledge that Scripture is the basis of the Tradition concerned, Verbal testimony is of two kinds, originating from a person or not originating from a person." 
 Personal speech cannot be proof of it, for persons may lie in order to deceive their hearers. For even today, we find philosophers who pretend to be scriptural and yet expound an interpretation which is wholly unscriptural, 
