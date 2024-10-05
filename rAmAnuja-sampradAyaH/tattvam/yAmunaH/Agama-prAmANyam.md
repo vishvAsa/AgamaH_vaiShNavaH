@@ -2,6 +2,8 @@
 title = "आगम-प्रामाण्यम्"
 +++
 
+Source: [EN](https://archive.org/details/yamunacharya/page/n7/mode/2up)
+
 **श्रीः**
 
 **श्रीयै नमः**
@@ -856,7 +858,6 @@ carried authority.
 न चागमस् सात्त्वतसमयसिद्धक्रियाकलापकर्तव्यतोपस्थापनपरः परिदृश्यते, येन तन्मूलतया पञ्चरात्रस्मृताः प्रमाणं स्युः।
 </details>
 
-### नानुमानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चादृश्यमानो ऽप्य् +++(निगमतः)+++ अनुमान-गोचरः,  
@@ -882,49 +883,420 @@ can be inferred from Scripture.
 न चादृश्यमानोऽप्यनुमानगोचरः, यथैव हि तन्त्रप्रसिद्धदीक्षाराधनतत्फलाभिमतस्वर्गादिसाध्यसाधनभावो नानुमानगोचरः सम्बन्धावधारणविरहात्, एवं तन्मूलागमोऽपि तत एव नानुमातुं शक्यः ।  
 </details>
 
-
+### न पौरुषागमः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चागमेनापि प्रस्तुत-स्मरण-मूल-भूतागमावगमः सम्भवति -  
 स हि द्वेधा पौरुषेयापौरुषेय-भेदात् ।
 </details>
 
+<details><summary>English</summary>
+
+Nor is any verbal testimony  
+capable of providing valid knowledge  
+that Scripture is the basis of the Tradition concerned -  
+Verbal testimony is of two kinds,  
+originating from a person  
+or not originating from a person.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 न चागमेनापि प्रस्तुतस्मरणमूलभूतागमावगमः सम्भवति स हि द्वेधा पौरुषेयापौरुषेयभेदात् ।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-  
+**न** तावत् पौरुषेयेण  
+वचसा तस्य **सम्भवाः** ।  
+विप्रलब्धुम् अपि **ब्रूयुर्**  
+मृषैव पुरुषाः यतः ॥  
+</details>
+
+<details><summary>English</summary>
+
+Personal speech cannot be proof of it,  
+for persons may lie in order to deceive their hearers. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 न तावत्पौरुषेयेण वचसा तस्य सम्भवाः ।  
 विप्रलब्धुमपि ब्रूयुर्मृषैव पुरुषाः यतः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्यत्वेऽपि हि **दृश्यन्ते** 
+केचिद् आगमिकच्-छलात् ।  
+अनागमिकम् एवार्थं  
+**व्याचक्षाणा** विचक्षणाः ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+For even today, we find philosophers  
+who pretend to be scriptural  
+and yet expound an interpretation which is wholly unscriptural.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अद्यत्वेऽपि हि दृश्यन्ते केचिदागमिकच्छलात् ।  
 अनागमिकमेवार्थं व्याचक्षाणा विचक्षणाः ॥
 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् इह 
+
+> पञ्च-रात्र-ग्रन्थ-प्रबन्द्धृणाम् अपि -  
+तन्-मूल-भूतागमावगम-पुरःसरी किं स्व-निबन्धनानां वेद-मूलत्त्व-प्रतिज्ञा?  
+किं वा यथा-रुचि रचयतां प्ररोचनाय तथा वचनम्?  
+
+इति शङ्कामहे ।  
+</details>
+
+<details><summary>English</summary>
+
+[[7]]  
+So we have our doubts whether the claim made by the authors of the Pañcaratra texts  
+that their own compositions are founded in the Veda  
+is really the result of an honest conviction  
+that such is indeed the case,  
+or nothing but the self-glorification of authors  
+who write as their fancy takes them! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तदिह पञ्चरात्रग्रन्थप्रबन्द्धृणामपि तन्मूलभूतागमावगमपुरःसरी किं स्वनिबन्धनानां वेदमूलत्त्वप्रतिज्ञा, किं वा यथारुचि रचयतां प्ररोचनाय तथा वचनमिति शङ्कामहे ।  
+</details>
+
+### न श्रुति-सिद्धः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तावता च प्रमाणत्वं  
+**व्याहन्येत** समीहितम् ।  
+**न** हि +++(पाञ्चरात्रप्रतिख्यापको)+++ **नित्यागमः** कश्चिद्  
+अस्ति तादृशगोचरः ॥
+</details>
+
+<details><summary>English</summary>
+
+This argumentation by itself suffices to disprove the contended authority of Pañcarātra,  
+for there is no eternal Scripture to support the claim. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तावता च प्रमाणत्वं व्याहन्येत समीहितम् ।  
-न हि नित्यागमः कश्चिदस्ति तादृशगोचरः ॥  
+न हि नित्यागमः कश्चिदस्ति तादृशगोचरः ॥
+</details>
+
+### नोपमानात्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चोपमानात् तन्-मूल-  
+श्रुति-सिद्धिर् अ-सम्भवात् ।  
+कथं ह्य् अ-दृष्ट-पूर्वा सा +++(श्रुति-सिद्धिर्)+++  
+स-दृश-ज्ञान-गोचरा ॥  
+</details>
+
+<details><summary>English</summary>
+
+Nor can Analogy prove that Scripture is its basis,  
+for this criterion cannot be properly applied;  
+for how could the proof we need,  
+which cannot be found by the other means of knowledge,  
+be within the scope of the mere knowledge of similitude? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न चोपमानात्तन्मूलश्रुतिसिद्धिरसम्भवात् ।  
 कथं ह्यदृष्टपूर्वा सा सदृशज्ञानगोचरा ॥  
-न चार्थापत्तितस्तन्मूलश्रुतिसिद्धिः, अनुपपत्त्यभावात्, स्मरणन्यथाऽनुपपत्त्या हि तत्कल्पना प्रादुर्भवति ।  
+</details>
+  
+#### नार्थापत्तेः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चार्थापत्तितस् तन्-मूल-श्रुति-सिद्धिः,  
+अनुपपत्त्य्-अभावात्,  
+स्मरणान्यथाऽनुपपत्त्या हि  
+तत्-कल्पना प्रादुर्-भवति ।  
+</details>
+
+<details><summary>English</summary>
+
+Nor can it be argued that,  
+since the Tradition cannot be proved by other means,  
+Implication's proves that Scripture is its basis.
+
+The argument is as follows,  
+circumstantial Implication must prove the tradition,  
+as it cannot be proved otherwise.  
+…
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चार्थापत्तितस्तन्मूलश्रुतिसिद्धिः, अनुपपत्त्यभावात्, स्मरणान्यथाऽनुपपत्त्या हि तत्कल्पना प्रादुर्भवति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> समरन्ति हि पञ्च-रात्र-प्रणेतारः दीक्षाऽऽराधनाऽऽदि धर्मतया  
+ऽष्टकादीन् इव मन्व्-आदयः ।  
+</details>
+
+<details><summary>English</summary>
+
+the authors of the Pañcaratra, clearly have this tradition  
+that Consecration, worship, etc. are dharma  
+and this tradition is comparable to the tradition of Manu and others  
+that certain non-Vedic rites, as the astaka etc., are dharma; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 समरन्ति हि पञ्चरात्रप्रणेतारः-दीक्षाऽऽराधनादि धर्मतयाऽष्टकादीनिव मन्वादयः ।  
-न चाननुभूते वस्तुनि स्मरणशक्तिराविर्भवति, अनुभवश्चेन्द्रियलिङ्गशब्दसदृशानुपपद्यमानार्थपूर्वकः, ईदृशविषयेऽनुभवः प्रमाणान्तरेभ्योऽनाविर्भव/श्चोदनामेव मूलमुपकल्पयतीति सिध्येदप्ययं मनोरर्थः यदि हि यथार्थत्वनियमोऽनुभवानां प्रामाणिकः स्यात्, यदा पुनारागद्वेषाभिनिवेशादिवशोकृतान्तःकरणानामयथार्थानुभवभाविता भावनाः स्वानुरूपाः स्मृतीरारचयन्ति कथमिव तदा स्मरणानुपपत्तितः प्रमाणभूता श्रुतिरुपकल्प्येत अन्यथाऽपि स्मरणोपपत्तेः, मन्वादिस्मरणेष्विदानीं का वार्ता ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चाननुभूते वस्तुनि स्मरण-शक्तिर् आविर् भवति,
+</details>
+
+<details><summary>English</summary>
+
+now there can be no tradition of a fact unless that fact has been cognized before; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चाननुभूते वस्तुनि स्मरणशक्तिराविर्भवति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनुभवश् चेन्द्रिय-लिङ्ग-शब्द--स-दृशानुपपद्यमानार्थ-पूर्वकः, 
+</details>
+
+<details><summary>English</summary>
+
+but here we have the tradition of a fact  
+that cannot be proved by Perception, Inference, Verbal Testimony or Analogy; 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+अनुभवश्चेन्द्रियलिङ्गशब्दसदृशानुपपद्यमानार्थपूर्वकः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ईदृश-विषये ऽनुभवः प्रमाणान्तरेभ्यो ऽनाविर्भवश्  
+चोदनाम् एव मूलम् उपकल्पयतीति
+</details>
+
+<details><summary>English</summary>
+
+therefore the cognition of the fact can only have originated from Scripture... 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईदृशविषयेऽनुभवः प्रमाणान्तरेभ्योऽनाविर्भवश्चोदनामेव मूलमुपकल्पयतीति
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिध्येद् अप्य् अयं मनोरर्थः  
+यदि हि यथार्थत्व-नियमो ऽनुभवानां प्रामाणिकः स्यात्,  
+</details>
+
+<details><summary>English</summary>
+
+However, this argument would only prove its point  
+if there were any authority for the assumption ..?? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिध्येदप्ययं मनोरर्थः  
+यदि हि यथार्थत्व-नियमो ऽनुभवानां प्रामाणिकः स्यात्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदा पुना राग-द्वेषाभिनिवेशादि-वशी-कृतान्तः-करणानाम्  
+अ-यथाऽर्थानुभव-भाविता भावनाः  
+स्वानुरूपाः स्मृतीर् **आरचयन्ति**,  
+**कथम्** इव तदा स्मरणानुपपत्तितः  
+प्रमाण-भूता श्रुतिर् **उपकल्प्येत** -  
+अन्यथाऽपि स्मरणोपपत्तेः।  
+मन्वादि-स्मरणेष्व् इदानीं का वार्ता ।  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+यदा पुना रागद्वेषाभिनिवेशादिवशीकृतान्तःकरणानामयथार्थानुभवभाविता भावनाः स्वानुरूपाः स्मृतीरारचयन्ति कथमिव तदा स्मरणानुपपत्तितः प्रमाणभूता श्रुतिरुपकल्प्येत अन्यथाऽपि स्मरणोपपत्तेः, मन्वादिस्मरणेष्विदानीं का वार्ता ।
+</details>
+
+##### अष्टकादौ भेदः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु तत्रापि प्रागुक्ता युक्तयः पराक्रमन्ते - 
+न ह्य् "अष्टकां दृष्टवताम् इष्ट-साधनम्"  
+इति मतिर् आविर् अस्ति ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
 ननु तत्रापि प्रागुक्ता युक्तयः पराक्रमन्ते न ह्यष्टकां दृष्टवतामिष्टसाधनमिति मतिराविरस्ति ।  
-न चानुमानं, सबन्धादर्शनात्, न च शब्दः, तदनुपलम्भात्, न चानुपलब्धोऽनुमातुं शक्यः, संबन्धादर्शनादेव, न चोपमेयः, सदृशानिरूपणात्, न च कल्पयितुं शक्यः, अनन्तरोक्तत्वात् स्मृत्यन्यथोपपत्तेः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चानुमानं, सबन्धादर्शनात्,  
+> न च शब्दः, तद्-अनुपलम्भात्।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चानुमानं, सबन्धादर्शनात्, न च शब्दः, तदनुपलम्भात्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चानुपलब्धो ऽनुमातुं शक्यः, संबन्धादर्शनाद् एव, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> न चानुपलब्धोऽनुमातुं शक्यः, संबन्धादर्शनादेव, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चोपमेयः, सदृशानिरूपणात्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> न चोपमेयः, सदृशानिरूपणात्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न च कल्पयितुं शक्यः, अनन्तरोक्तत्वात् स्मृत्यन्यथोपपत्तेः ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+> न च कल्पयितुं शक्यः, अनन्तरोक्तत्वात् स्मृत्यन्यथोपपत्तेः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेद-संयोगि-पुरुष-  
+स्मरणानुपपत्तितः ।  
+**कल्प्यते** चेच् छ्रुतिस् तत्र  
+ततोऽन्यत्रापि **कल्प्यताम्** ॥
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 वेदसंयोगिपुरुषस्मरणानुपपत्तितः ।  
-कल्प्यते चेच् श्रुतिस्तत्र ततोऽन्यत्रापि कल्प्यताम् ॥  
+कल्प्यते चेच् श्रुतिस्तत्र ततोऽन्यत्रापि कल्प्यताम् ॥
+</details>
+
+  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यतो नारद-शाण्डिल्य-  
+प्रमुखाः परमर्षयः ।  
+**स्मर्यन्ते** पञ्चरात्रेऽपि  
+संप्रदाय-प्रवर्तकाः ॥+++(4)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
 यतोनारदशाण्डिल्यप्रमुखाः परमर्षयः ।  
 स्मर्यन्ते पञ्चरात्रेऽपि संप्रदायप्रवर्तकाः ॥
+</details>
 
-ततश्च ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ततश् च -  
+>
+> तुल्याक्षेप-समाधाने  
+पञ्च-रात्र--मनु-स्मृती ।  
+प्रमाणम् अप्रमाणं वा  
+स्यातां भेदो न युक्तिमान् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततश् च -  
+
 तुल्याक्षेपसमाधाने पञ्चरात्रमनुस्मृती ।  
 प्रमाणमप्रमाणं वा स्यातां भेदो न युक्तिमान् ॥  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **त्यज्यतां** वा प्रमाणत्वं  
+मन्व्-आदि-स्मृति-गोचरम् ।  
+विशेषः पञ्च-रात्रस्य  
+**वक्तव्यो** वा, स **उच्यते** ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
 त्यज्यतां वा प्रमाणत्वं मन्वादिस्मृतिगोचरम् ।  
 विशेषः पञ्चरात्रस्य वक्तव्यो वा स उच्यते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अपि वा "कर्तृ-सामान्यात्  
+प्रमाणम्" इति सूत्रयन् ।  
+सूत्र-कारः +++(जैमिनिः)+++ स्फुटी-चक्रे  
+वैलक्षणण्यं विवक्षितम् ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
 अपि वा कर्तृसामान्यात् प्रमाणमिति सूत्रयन् ।  
 सूत्रकारः स्फुटीचक्रे वैलक्षणण्यं विवक्षितम् ॥
+</details>
 
-तथा हि थ्रुतिविहितानामग्निहोत्रदर्शपूर्णमासज्योतिष्टोमादिकर्मणां स्मृतिविहितानामष्टकाचमन  संध्योपासनादिकर्मणां च पित्राद्युपदिष्टत्वात् परमहितबुद्ध्या त्रैविद्यवृद्धानां निर्विशेषमनुष्ठानं दृष्टं, तेन तादृशशिष्टत्रैवर्णिकपरिग्रहद्रढिम्ना स्पष्टदृष्टाष्टकादिकर्तव्यताप्रतीतिः स्वोपपादनपटीयसीं श्रुतिमेव भूलभूतामवलम्बते ।  
+
+तथा हि श्रुतिविहितानामग्निहोत्रदर्शपूर्णमासज्योतिष्टोमादिकर्मणां स्मृतिविहितानामष्टकाचमन  संध्योपासनादिकर्मणां च पित्राद्युपदिष्टत्वात् परमहितबुद्ध्या त्रैविद्यवृद्धानां निर्विशेषमनुष्ठानं दृष्टं, तेन तादृशशिष्टत्रैवर्णिकपरिग्रहद्रढिम्ना स्पष्टदृष्टाष्टकादिकर्तव्यताप्रतीतिः स्वोपपादनपटीयसीं श्रुतिमेव भूलभूतामवलम्बते ।  
 न चैवमाचमनोपनयनादीनिव श्रुतिविहिताग्निहोत्रादिपदार्थानुष्ठायिनस्तान्त्रिकाचारानुपचरतः पश्यामः ।  
 प्रत्युतैनान् विगर्हन्ते कुर्वाणान् वेदवादिनः ।  
 तस्माद् यत्कर्तृसामान्यात् प्रामाण्यं स्मृतिषूदितम् ॥  

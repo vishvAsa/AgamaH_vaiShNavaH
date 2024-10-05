@@ -8,20 +8,9 @@ title = "Agama-prAmANyam en"
 
 
 
-י 
-Nor is any verbal testimony capable of providing valid knowledge that Scripture is the basis of the Tradition concerned, Verbal testimony is of two kinds, originating from a person or not originating from a person." 
-Personal speech cannot be proof of it, for persons may lie in order to deceive their hearers. For even today, we find philosophers who pretend to be scriptural and yet expound an interpretation which is wholly unscriptural, 
-ADAMA PRAMANYAN 
-7 
-So we have our doubts whether the claim made by the authors of the Pañcaratra texts that their own compositions are founded in the Veda is really the result of an honest conviction that such is indeed the case, or nothing but the self-glorification of authors who write as their fancy takes them! 
-This argumentation by itself suffices to disprove the contended authority of Pañcarātra, for there is no eternal Scripture' to support the claim. 
-Nor can Analogy prove that Scripture is its basis, for this criterion cannot be properly applied; for how could the proof we need, which cannot be found by the other means of knowledge, be within the scope of the mere knowledge of similitude? 
-Nor can it be argued that, since the Tradition cannot be proved by other means, Implication's proves that Scripture is its basis. The argument is as follows, circumstantial Implication must prove the tradition, as it cannot be proved otherwise; the authors of the Pañcaratra, clearly have this tradition that Consecration, worship, etc. are dharma and this tradition is comparable to the tradition of Manu and others that certain non-Vedic rites, as the astaka etc., are dharma; now there can be no tradition of a fact unless that fact has been cognized before; but here we have the tradition of a fact that cannot be proved by Perception, Inference, Verbal Testimony or Analogy; therefore the cognition of the fact can only have originated from Scripture... 
-וי 
-However, this argument would only prove its point if there were any authority for the assumption 
-10 
+of the three estates  
+do not accept the doctrines of Traditions of this kind. 
 
-of the three estates do not accept the doctrines of Traditions of this kind. 
 13\. OBJECTION: 
 Nevertheless, the fact that Bhāgavata Brahmins, who wear the hair-tuft, the sacred thread etc. prescribed in Scripture, perform daily the rites of Pañcarätra should then justify the presumption that these rites likewise ultimately derive from the Veda. On what grounds, then, are we to assume that this same Pañcarātra Tradition really has its origins in error, deceit and the like, the very negation of valid authority?. 
 14\. REFUTATION: 
