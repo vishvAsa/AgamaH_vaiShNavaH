@@ -26,7 +26,7 @@ J
 Nor can we infer from the fact that the Veda is word that it therefore must have an author, for that would entail the total reversion of your special 
 contentions. 
 For an utterance that is perceived to depend for its composition on the agency of some being is also perceived to be uttered by no one but an embodied being. 
-Now for all embodied beings the body is the instrument for good and for evil; so the assumption that the Veda is utterance would occasion the inference that it has been created by an embodied being whoseAGAMA PRAMANYAM 
+
 22 
 21 
 happiness and unhappiness resulted from his good and evil karman, and who therefore cannot be God. 
@@ -48,7 +48,7 @@ Also, there is no invariable rule that only an agent to whom the material and in
 4 
 Such a conclusion is 
 evidence against it. 
-JOAMA PRAMANYAM 
+
 23 
 cancelled by stronger perceptual For the knowledge that does arise in the world of here and now is plainly this: 'Here is the meru; here is the sun; here is the earth.' 
 Recognition conveys to us the knowledge that these entities are related to different times; and certainly both in former and later ages there arise similar persons who have the same notion of these entities' present existence. To put it in syllogistic form: 
@@ -148,7 +148,7 @@ syllable OM, which is not the udgitha, is the udgitha." All statements that set 
 Therefore, no verbal statement whatever is a means of knowing a thing as such. Thus, by denying thatthe arthavādas, too, can serve to convey knowledge of facts like Rudra's weeping, it is shown that they merely serve to give praise in contextual connection with an injunction, which may be comparatively remote." 
 41\. To conclude, it follows that the postulated divine person, whose personality is the product of the baseless beliefs of people that have failed to consider the true denotation of preceding or succeeding statements, is eliminated, with which we conclude our extensive discussion. 
 42\. It is proved now that the pre-eminence of that postulated person cannot be borne out by Scripture. Let us, further, suppose that Scripture can indeed convey knowledge of facts; even so, what possible basis is there for the assumption that there exists a person who knows dharma and adharma, when we take into account the cognition that arises from injunction? Omniscience is possible only if the omniscient person knows the objects exactly as they are known by means of the different means of knowledge; for there is no statement which declares omniscience by cancelling the normal means of knowledge. Even if there were such a statement, it would have to be explained as an 
-JOAMA PRAMANYAM 
+
 35 
 arthavada since its word-meanings would not allow of mutual relation. A cognition about a sentence-meaning arises from the individual words and it presupposes in these words such properties as appropriateness etc. which are learnt through other means of knowledge; now we wonder how such a cognition could arise at all, if there were a conflict with these other means of knowledge that are required primarily for the cognition to arise! If a statement concerning an object that is contradicted by perception etc., were authoritative, who could then reject the identity of sun and sacrificial pole? And if there is a person who possesses this peculiar excellency, what happens to the authority of the texts which is sought to be proved?87 
 43\. OBJECTION. However, those who follow the Pancaratra clan have the tradition that this Pañcaratra has been composed by this person. 
@@ -253,7 +253,7 @@ What I mean to say is this. Our position is that in language as such there are n
 61\. OBJECTION. However, I have said that language statements have no authority when they concern established facts, on the ground that when terms are applied to such facts they do not have proper denotative power. 
 7 
 50 
-AOAMA PRAMANYAM 
+
 Profane 
 REFUTATION. This view is not correct, language, eliciting a fact by direct application, even though this fact is established, really operates its denoting power as fully as it does by applications which concern karyas. Consider the illustration that has been given abovels, When certain manifestations (of joy) in ā man's face, which follow on his hearing the statement "A son has been born to you," make it appear that the man spoken-to is happy, one instantly understands that his happiness is the result of his receiving from this statement a knowledge of an agreeable meaning, and one then infers that, for a medium-aged person too, this happiness derives from the statement. Thus one concludes that, since this happiness came to exist upon the existence of the statement, the statement itself has the power to convey an agreeable meaning. If there arises a doubt as to which particular ground of happiness among t 
 the many different grounds that may occur according to past, present and future, then consider this. A young boy, who wants to understand the meaning of speech, immediately upon hearing the same statement receives knowledge that a birth ceremony is being held. He thinks to himself, "There must be a reason for this." Then he considers, "Is the agreeable meaning which has been understood from the statement the cause of this knowledge that a birth ceremony is to be held ?" and he realizes that this meaning was precisely this that a son had been born. 13 
@@ -315,7 +315,7 @@ If the meaning of a statement is not known, the listener wants to discover it: "
 The suspicion that a fire may not burn in other cases because in one case, when obstructed by mantras, it fails to burn, does not make fire fail to burn! And the fact that the sense of vision may give rise to a cognition which does not correspond to reality-e.g. that nacre is silver-as the result of some optical error does not signify that the visual sense cannot produce true cognition of the visible presence of a pitcher etc. 
 Therefore, a statement does indeed instantly convey a certain meaning to the listener if he knows the relation between the words and their meanings. It does not require knowledge of the basis. Before there is complete knowledge on the part of the listener about the basic knowledge of the speaker, and, further, when the meaning has been expressed, the question rises: "How does he know this?" and Inference proceeds to resolve that question. You want to infer: "Did the speaker know something?" or wish to infer his knowledge of the connection of the different meanings. But the mere knowledge that the speaker knew something is not enough for utterance and action concerning a statement-meaning to proceed. Inference of a cognition concerning the connection of different meanings is impossible without a prior cognition of such a connection. This being so, the meaning of the statement must be known first. For cognitions whose particular objects are not connected, are not connected themselves. Nor is a particular meaning established by cognitions that are inferred to be such. If yousay that any word combination which is able to convey a certain connection produces knowledge of just this connection, I maintain that the connection of the particular meanings must be 
 60 
-AOAMA PRAMANYAM 
+
 known previously; unless a connection has already reached the level of cognition it cannot give rise to being expressed in a statement. 
 74\. To conclude, the cognition of an established fact in statements like "there is a fruit on the riverbank" is strictly of verbal origin and does not arise from Inference. Therefore the position that statements produce valid knowledge only if they deal with a previously unknown karya is taken only by people whose judgments are'stultified by their continuous preoccupation with their own theories. In the manner set forth above it is true that statements may bear meaningfully and informatively on other meanings as well. 
 Consequently, all the statements of the Upanisads which set forth the existence of a categorically different Person (e.g. "He is the overlord of the Universe, sovereign of all. He commands all the world"," "All this is manifest to Him150 etc.") are authoritative etc.") are authoritative as to what they state, since they produce indubitable and unreversed knowledge of their 
@@ -465,7 +465,7 @@ the ground is inappropriate, because of the circular argument it involves: only 
 Moreover, the ground is either that the Pancarātra sacraments are different from all Vedic sacraments, or that they are different from some Vedic sacraments. Not the latter alternative, for this would mean that the sacrament of Initiation ctc. is non-Vedic because it is different from the sacrament of Tonsure; nor the first alternative, because it does not escape the said defect? for the sacrament of Initiation is not different from all 
 Vedic sacraments; and we have said that the difference (of Pañcarātra sacraments) from Vedic sacraments is disproved on the ground that Pañcarātra Sastra is Vedic. 
 93\. The objection202 that Pancarātra is outside the Veda, because like the Pasupata Tantra it is not included among the fourteen sciences which are held to be authoritative of dharma, would also have an occasional application to the texts of the Bharata and Rāmāyaṇa composed by Dvaipayana and Valmiki. 
-94\. The objection that Pañicarātra is non-Vedic because it is rejected by the blessed Badarayana is incorrect. For how could the blessed Dvaipayana 20 be thought to reject the Bhagavata doctrine, while he himself is a supreme Bhagavata, model for all the world? It was he who said, "This has been extracted from the Bharata in its full length of one hundredAGAMA PRAMANYAM 
+
 79 
 thousand Slokas after it had been churned with the stick of thought, as butter is extracted from curds, and curds from milk, the Brahmin from the bipeds, the Aranyaka from the Vedas, and the amṛta from the herbs this Maho panisada which is consistent with the four Vedas and the demonstrations of Sarpkhya.and Yoga is called the Pañcaratra. This is bliss, this is 
 brahman, this is the summum bonum. Being consistent with Rk, Yajuh and Saman and the Atharvāngirasas, this discipline will of a certainty be authoritative."+ 
@@ -493,7 +493,7 @@ Or if you do agree on this because it is clearly proved in Revelation, 1 ask you
 11 
 20 
 82 
-AOAMA PRAMANYAM 
+
 on it because it is clearly proved in Pañcaratra. 
 It is not a very proper procedure to deny things that are proved by smrti; since both śruti and smrti spring from perfect knowledge, they are equally valid. 
 97\. OBJECTION. The sutra vijanadibhāve vā tadapratisedhal216 is explained as follows: The Author raises the question which one of two alternatives may be true: Are these four equally and independently sovereign, or has one a quaternity of personalities which he has assumed at his own desire? and then he points out the defect: if they are equally sovereign, none of them can be effects because they are equal; when they are different forms of one, what is the purpose of this division ? 
@@ -667,7 +667,7 @@ true brahmin be not made into a low-caste man because he is also denoted by the 
 We find that the word hari also means 'frog.' Does it follow that a lion is a frog because both are denoted by the same word? Then word itself would be horned, since 'word' is denoted by gauli !" 
 Consequently, just as the words sudhanvan, ācārya etc., which denote more than one meaning, are also used for someone born from a vaiśya vratya, so also the words Bhagavata and Satvata. 
 128\. 
-The contention that when the conventional meaning and the etymological meaning of a word collide, it is right to assume the conventional meaning of the term, in this case of the terms Bhagavata and Satvata, is not correct; for when a denotation is appropriate which is the composite of the denotations of the component elements of the words, then it is not right to assume a non-composite denotation. For he who theorizes that the words satrata and bhagavata have their conventional meaning in denoting someone born from a vaiŝya vratya, must also theorize that the words sattvavat and bhagarat, which are the stem and the taddhita suffix built on the stem,261 have a different meaning in a sentence like, "having observed the satvata rules, a man becomes a Bhagavata because of the merits he has won in a previous existence.":162 This goes to prove the assumption that in this case the word may have a double meaning by etymology alone, because it is possible for it to be used in the sense of "issue of a vaiśya vratya." And it is possible that those vratyas too, despite the fact that they fail toAGAMA PRAMANYAM 
+
 109 
 worship the Bhagavan directly, yet may be denoted by the words satcata and bhagavala, because of their work discipline of cleaning up Vasudeva's temple, clearing away the bali offerings, guarding the idol etc., for it is taught that the can suffix may occur in the sense of a simple relation, "this is of that." And it is declared that the issue of a vaiśya vratya has the work discipline of cleaning the Bhagavan's temple etc., "and (the task) of the satvatas is the cleaning of the deity's temple, the eating of the offerings, the guarding of the idol;" and "he must worship Visnu's sanctuaries."'264 
 129\. Herewith is also rejected the contention that the Bhāgavatas are vratyas because they would have the same profession. For it is one thing to clean the temple, clear away the bali offerings, guard the idol, and quite another thing to perform the variety of actions that are daily observed by the Bhagavatas: the cleaning of the way to the idol, the preparation for worship, offering, daily study, and meditation. It is as it is in the case of the jyotistoma etc. In the jyotistoma, too, a carpenter has a task in making the various receptacles, soma-cups, soma-decanters, ladles etc., while the officiating priests have their tasks in reciting various different mantra recitations, representing the deity, pressing of the soma etc. And this occupational similarity, limited as it is, does not raise the question whether the priests have the same caste as the carpenters! So here, too, there is a difference between those who perform the pañcakālikā ritual, which is established by the Bhagavan's doctrine, and the low-caste people who do the cleaning-up of the temple and are also called temple-guards. 
@@ -706,7 +706,7 @@ you opine that the Pañcaratrikas have adopted someone who is not really a deity
 In other words, inasmuch as the offering up of mere flowers, cakes etc.209 is not approved, and because it is impossible to particularize the prohibition of utilizing these substances according to the terms of one's own doctrine, therefore the particularization must be determined in the terms of the others', i.e. the Pañcarātrikas', doctrine; and thus the offering up becomes greatly purifying. And inasmuch as therefore the utilization of nirmalya and nivedya becomes most purifying, it must needs be accepted by those who admit the validity of the Pañcaratra Tantra as well by others who do not. 
 135\. OBJECTION. But how is it possible then that even one who admits the validity of Pancarātra should reject nevertheless the nirmalya and nivedya? For in the Tantras the tasting etc. of the nirmalya is prohibited. For instance, it is said in the Sanatkumāriya Samhita: "The offering that is proffered (to the deity), flower or fruit, is called nirmaly a; that must be avoided meticulously." Similarly in another passage: "When one has eaten nirmalya, or the foodrests of someone who is not one's guru, one must observe a milk-vow for a month, continuously recite the eight-syllable formula, and drink the pañcagavya, in order to be purified." **290 Likewise in the Indraratra: "One should not live off the Supreme God, nor eat the nirmalya offerings." Also: "And the nirmalya offerings are never fit for consumption." Similarly in another Samhita: "One should not eat the nirmalya offerings, 
 116 
-JOAMA PRAMANYAM 
+
 nor smell them, nor step over them."-How then can one accept the purity of the utilization of the nirmalya when we thus know from several Samhitas that it is prohibited? 
 REFUTATION. To this he says: The utilization of a proffered substance which has been offered up to the deity is not condemned if it is done within a period of ten nāḍikās.” Thus in the same Indraratra: "The wise one must let the offering-cake stand for ten nāḍikās. This period of time has been prescribed both for night and for day. They condemn the nirmalya that has stood for more than this period of time; thereupon he must throw it in water, or in fire, or bury it in the ground." 
 OBJECTION. But what is said here is not to praise the tasting etc. of the nirmalya, but to prescribe that the substance of the cake pūjā is thrown away after a period of ten nāḍikās. In the statement: "He must let the offering cake stand for over ten nāḍikās,” the injunction is laid down that when the proffered flowers, cake etc. in general have been taken off as nirmalya, because they have now fulfilled their ritual function, they must be kept by way of accessory puja rite for a period of ten nādikas. And consequently even a study of the conclusions of your own Tantras shows that the touching etc. of the turmeric powder, the food offerings and the water used to clean the idol's feet is not established by Tantric doctrine. Now, where are you! 
@@ -736,11 +736,13 @@ It is not
 people's Sakha. For everywhere among brahmins we find customs that differ according to birth, caraṇa, gotra, qualification etc. Even though one ritual is understood for all śākhās, still all the various dharmas relating to mutually different qualified performers do not all together accumulate in anyone place. And the Aspirants who are distinct from those brahmins who are qualified for rites of the aindragneya etc., which are means leading to the enjoyment of rewards like heaven etc., as enjoined by the three Vedas, and who themselves are qualified for the rites of the Ekayana, rites which alone are the means of attaining to the Bhagavan, viz. knowledge, cleansing the way to the Lord, preparation of worship and oblation, as enjoined by the Ekayana scripture, are brahmins too. It follows that the non-observance of certain rites enjoined by different sākhās does not mean that either one forfeits his brahminhood-that the Ekāyana sākhā is preterpersonal scripture has been enlarged upon in the Treatise on the Validity of Kasmira Agama,* and is therefore here not further discussed. But since it is quite obvious that the Bhagavatas, which we are discussing here, are connected with the dharmas of the three Vedas, like the savitri recitation, there is no possible support for the suspicion that they are really vratyas because they would have abandoned these Vedic dharmas. 
 139\. May Nathamunis be victorious, he to whom the Three Principles are immediately evident by virtue of his own miraculous power, he by whose pupils the arrogance of the rivals of the Satvata Doctrine is terminated after their own view was rent to pieces by 
 122 
-XGAMA PRAMANYAM 
+
 variously apposite arguments, he whose spirit is for ever the abode of the feet of Mukunda. 
 May, for the length of this Aeon, play on the pious, enchanting and irreproachable sayings of the extensive collection of prose and verse compositions which eclipse the cleverness of the befuddled, conceited and witless assembly of the evil crowd of the rivals of the Satvata doctrine, whose spirit has been increased by the glorious Nathamunindra, 30 and by which all the unholy powers are cleansed, 
-Printed at Prabha Printing House, Bangalore-4, India 
-NOTES 
+
+
+
+## NOTES 
 1\. To Yamuna, God's omniscience consists in this unlimited percipience, so that, as he will argue below (§ 109), the 
 validity of Pancarātra does not rest only on Scripture, but also on Perception. 
 2\. In the purva paksa the principal opponents introduced are what one may already call smārta brahmins, and among them especially the orthodox followers of Mimāmsi. Vedanta opposition will be discussed. 
@@ -775,8 +777,7 @@ NOTES
 125 
 component parts. Rathakara means by poga "cbariotmaker, cartwright." by ridhi a caste which is not at all characterized by this profession, 
 22\. adhyayanasiddhabuddhyangatoabkangenāpi. Such a "connotation" is, for example, that the rathakara in the literal sense of cartwright is disqualified for Vedic ritual, because a cartwright is a füdra; on this point see infra. 
-23\. upanapana, which is the first step to his acquisition of 
-Vedic knowledge. 
+23\. upanapana, which is the first step to his acquisition of Vedic knowledge. 
 24\. Manu 10.23. 
 25\. the term "by royal decree" shows that it is a caste profes 
 sion. Quotation not identified 
@@ -819,7 +820,7 @@ The law of dharma and adharma necessarily operates eternally. No agency is possi
 53\. That which makes the Veda authoritative, i.e., a means of valid knowledge, is just this that it communicates knowledge of apurva facts, e.g., that a soma sacrifice is a means of attaining heaven, i.e., generally matters pertaining to dharma. 
 20 
 120 
-AOAMA PRAMANYAM 
+
 51\. the individual soul. 
 *55. supra note. 
 56\. Since the aparea power is suprasensible, it can never be 
@@ -921,8 +922,8 @@ Since pots are knowable, the ground would also apply to prove the eternality of 
 ground has no general applicability. 
 126\. Like the ground "because it is knowable" which applics 
 to things regardless of whether they are eternal or not. 
-NOTES 
-135 
+
+[[135]] 
 127\. Obviously, if the ground were not known, it could not be 
 stated. 
 128\. This objection seems to speak to the summary denial that 
@@ -1124,7 +1125,7 @@ carts.""
 d. Amarakosa, 10.4. 
 272\. not verified. 
 144 
-AOAMA PRAMANYAM 
+
 273\. which is the prerogative only of the three varnas. 
 274\. KMS. 
 275\. supra § 15. 
