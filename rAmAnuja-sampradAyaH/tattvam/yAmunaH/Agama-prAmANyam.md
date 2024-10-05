@@ -3131,14 +3131,80 @@ the "answer is as follows:
 प्रतिब्रूयादेनम् -  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विवाद-गोचरा भावाः  
+**कार्या** +++(भू=)+++विश्वम्-भरादयः ।  
+विचित्र-सन्-निवेशत्वान्  
+नरेन्द्र-भवनादिवत् ।  
+तथा सावयवत्वेन  
+**विनाशो** ऽप्य् अवसीयते ॥  
+</details>
+
+<details><summary>English</summary>
+
+[[18]]  
+The entities in question, earth etc., are effects,  
+because they have a complex construction, like a king's palace.  
+Similarly, from the fact that they are made up of parts  
+we conclude that they are subject to destruction. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 विवादगोचरा भावाः कार्या विश्वम्भरादयः ।  
 विचित्रसन्निवेशत्वान्नरेन्द्रभवनादिबत् ।  
 तथा सावयवत्वेन विनाशोऽप्यवसीयते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> विनश्यन्ति च ये भावास्  
+ते तत्-साधन-वेदिना ।  
+विनाश्यन्ते यथा तज्-ज्ञैर्  
+अस्माभिः +++(कमण्डलु=)+++करकादयः ॥
+</details>
+
+<details><summary>English</summary>
+
+Entities that can be destroyed are destroyed by someone who knows the means by which they can be destroyed,  
+just as we can destroy clay vessels etc.  
+when we know by what means to destroy them. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 विनश्यन्ति च ये भावास्ते तत्साधनवेदिना ।  
 विनाश्यन्ते यथा तज्ज्ञैरस्माभिः करकादयः ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये पुनर् अ-परिदृष्ट-बुद्धिमद्-अधिष्ठान--तरु-पतनादि-शकलिता भावाः  
+तेऽपि विमत्य्-आक्रान्ता  
+इति नानैकान्तिकत्वम् आवहन्ति ।  
+</details>
+
+<details><summary>English</summary>
+
+In the case of entities that are shattered, for instance, by a falling tree,  
+that is without perceptible intelligent agency,  
+the cause of their destruction remains dubious:  
+but because of this very dubiety  
+there can also be not positive certainty that the cause of their destruction is entirely occasional. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 ये पुनरपरिदृष्टबुद्धिमदधिष्ठानतरुपतनादिशकलिता भावाः तेऽपि विमत्याक्रान्ता इति नानैकान्तिकत्वमावहन्ति ।  
+</details>
+
+
 किं च ।  
 महत्तया सनाथेन स्पन्दमानत्वहेतुना ।  
 उत्पत्तिभङ्गौ भावानामनुमातुमिहोचितौ ॥

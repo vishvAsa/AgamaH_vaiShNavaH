@@ -4,16 +4,6 @@ title = "Agama-prAmANyam en"
 
 …
 
-
-L 
-3 
-The entities in question, earth etc., are effects, because they have a complex construction, like a king's palace." 
-• 
-18 
-
-Similarly, from the fact that they are made up of parts we conclude that they are subject to destruction. 
-Entities that can be destroyed are destroyed by someone who knows the means by which they can be destroyed, just as we can destroy clay vessels etc. when we know by what means to destroy them. 
-In the case of entities that are shattered, for instance, by a falling tree, that is without perceptible intelligent agency, the cause of their destruction remains dubious: but because of this very dubiety there can also be not positive certainty that the cause of their destruction is entirely occasional. 
 Motion, when there is mass, is sufficient ground to infer in this world that an entity which has mass and can move is subject to origination and to destruction. 
 It being thus established that earth etc. are indeed effects, on the grounds adduced above, it follows that the Bhagavan has knowledge of dharma and adharma which are the instrumental causes of origination and annihilation.* 
 Consequently, the entities here in question, earth, mountains and the like, have been created by a maker who possesses the described knowledge. 
