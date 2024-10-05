@@ -1527,7 +1527,7 @@ the very negation of valid authority?.
 
 </details>
 
-
+#### भागवतानाम् अब्राह्मण्यम्
 <details><summary>मूलम्</summary>
 
 > ननु तत्रापि श्रुतिस्मृतिप्राप्तशिखायज्ञोपवीतादिधारयद्भिर्भागवतब्राह्मणैरहरहरनुष्ठीयमानार्थत्वेन चोदनामूलत्त्वे संभाव्य माने कथमिव प्रामाण्यप्रत्यनीकभूता भ्रमविप्रलम्भादयः स्मरणकारणतया कल्प्यन्ते ।  
@@ -1623,48 +1623,634 @@ and absent in others.
 न हीन्द्रियसंप्रयोगसमनन्तरं केषुचिदेव देहविशेषेषु अनुवर्तमानमन्यतो व्यावर्तमानं नरत्वातिरेकिणं ब्राह्मण्यं नाम जातिविशेषमपरोक्षयामः,
 </details>
 
-  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शिखा-यज्ञोपवीतादयस् तु ब्राह्मणदीनां विधीयमाना  
+**न** तद्-भावम् **आपादयितुं क्षमन्ते**,  
+नाप्य् अवगमयन्ति,  
+दुष्ट-शूद्रादिषु व्यभिचार-दर्शनात्,  
+अतो ऽनिर्विवाद-सिद्ध-वृद्ध-व्यवहार एवात्रावगम-निदानम् ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+Hair-tuft, sacred thread etc. which are prescribed for Brahmins and the other two estates,  
+do not make a man a Brahmin.  
+Nor do they demonstrate that a man is a Brahmin,  
+for we see them worn illegally by blackguards, outcastes and the like.  
+[[11]]  
+Therefore, the sole criterion by which we can tell whether a man is indeed a Brahmin  
+is acceptance of undisputed expressions by older persons,  
+which give us irrefutable proof. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 शिखायज्ञोपवीतादयस्तु ब्राह्मणदीनां विधीयमाना न तद्भावमापादयितुं क्षमन्ते, नाप्यवगमयन्ति, दुष्टशूद्रादिषु व्यभिचारदर्शनात्, अतोनिर्विवादसिद्धवृद्धव्यवहार एवात्रावगमनिदानम् ।  
+</details>
+
+##### लौकिकाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च भागवतेषु ब्राह्मण-पदम् अविशङ्कं लौकिकाः प्रयुञ्जते ।  
+</details>
+
+<details><summary>English</summary>
+
+Nor do ordinary people, use without hesitation the term Brahmin to describe Bhāgavatas. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 न च भागवतेषु ब्राह्मणपदमविशङ्कं लौकिकाः प्रयुञ्जते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भवति च भेदेन व्यपदेशः - "इतो ब्राह्मणा, इतो भागवता" इति ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+There is also a distinct difference in the two appellations: here Brahmins, there Bhāgavatas. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 भवति च भेदेन व्यपदेशः -इतो ब्राह्मणा इतो भागवता इति ।  
-स्यादेतद् ब्राह्मणेष्वेव कुतश्चिद् गुणयोगात् सात्त्वतभागवतादिव्यपदेशः यथा तेष्वेव परिब्राजकादिशब्दा इति तन्न ।  
+</details>
+
+##### अब्राह्मणेषु रूढिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स्याद् एतद्  
+> ब्राह्मणेष्व् एव कुतश्चिद् गुण-योगात्  
+> सात्त्वत-भागवतादि-व्यपदेशः  
+> यथा तेष्व् एव परिव्राजकादि-शब्दा 
+
+इति …
+</details>
+
+<details><summary>English</summary>
+
+15\. OBJECTION: 
+
+> The people do not use the word Brahmin' to refer to Bhāgavatas.  
+> The reference is only difference as this much Brahmins and this much Bhāgavatas.  
+> Be that as it may, still, the appellations Satvata, Bhāgavata etc. are also used to name Brahmins,  
+> by some sort of transference of properties, just as the word parivrajaka is used to designate a Brahmin20.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> स्यादेतद् ब्राह्मणेष्वेव कुतश्चिद् गुणयोगात् सात्त्वतभागवतादिव्यपदेशः यथा तेष्वेव परिब्राजकादिशब्दा इति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तन् न ।  
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION: The argument is false.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन् न ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रूढ्या सात्त्वत-शब्देन  
+केचित् कुत्सित-योनयः ।  
+**उच्यन्ते** तेषु सत्स्व् एष  
+शब्दो **नान्यत्र वर्तते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Persons of certain inferior castes are commonly referred to as Satvatas; 
+the name is used to denote these castes,  
+and not anything else. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 रूढ्या सात्त्वतशब्देन केचित् कुत्सितयोनयः ।  
 उच्यन्ते तेषु सत्स्वेष शब्दो नान्यत्र वर्तते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+रूढि-शक्ति-प्रतिद्वन्द्वि-  
+योग-शक्ति-परिग्रहः ।  
+अ-युक्त इति युक्ति-ज्ञा  
+रथ-कार-पदे तथा । +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+The grammarians have the rule  
+that it is improper to use a certain word in its etymological sense  
+if it can also be taken in a customary sense which is more common, e.g., rathakāra 21.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 रूढिशक्तिप्रतिद्वन्द्वियोगशक्तिपरिग्रहः ।  
 अयुक्त इति युक्तिज्ञा रथकारपदे तथा ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपरथा कथम् इव रथ-कार-शब्दो  
+ऽध्ययन-सिद्ध-बुद्ध्य्-अङ्गत्व-भङ्गेनापि  
+यौगिकीं वृत्तिम् अपहाय  
+जाति-विशेषम् अभिनिविशते ।  
+</details>
+
+<details><summary>English</summary>
+
+If there were no such rule,  
+how could the word *rathakara give up its etymological meaning of "chariotmaker" to become the name of a particular caste,  
+even to the extent of cancelling all connotations which we have learnt? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अपरथा कथमिव रथकारशब्दोऽध्ययनसिद्धबुद्ध्यङ्गत्वभङ्गेनापि यौगिकीं वृत्तिमपहाय जातिविशेषमभिनिविशते ।  
-सन्ति च सात्त्वता नाम उपनयनादिसंस्कारहीना वैशव्रात्यान्वयिनोऽवरजन्मानः केचिद् यथाऽह मनुः ।  
+</details>
+
+##### अद्विजत्वं शास्त्रोक्तम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सन्ति च सात्त्वता नाम उपनयनादि-संस्कार-हीना वैश्य-व्रात्यान्वयिनो ऽवर-जन्मानः केचिद्,   
+</details>
+
+<details><summary>English</summary>
+
+Similarly, Satvata refers to a person who has been born from a vrutya vaishya  
+and belongs to the lowest castes,  
+and is thus excluded from the sacraments of initiation, etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सन्ति च सात्त्वता नाम उपनयनादिसंस्कारहीना वैश्यव्रात्यान्वयिनोऽवरजन्मानः केचिद् यथाऽह मनुः  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथाऽऽह मनुः -
+
+> वैश्यात् तु जायते व्रात्यात्  
+सुधन्वाचार्य एव च ।  
+भारुषश् च निजङ्घश् च  
+मैत्र-सात्त्वत एव च ॥
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+Manu says: 
+
+> "The issue of a vaisya vratya extraction  
+> is called Sudhanvā or Bharuşa or Nijangha or Maitra or Salvata" " 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथाऽऽह मनुः -
+
 वैश्यात्तु जायते व्रात्यात् सुधन्वाचार्य एव च ।  
 भारुषश्च निजङ्घश्च मैत्रसात्त्वत एव च ॥
 
 इति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भागवत-शब्दश् च सात्त्वतेषु वर्तते इति नात्र कश्चिद् विवादः ॥
+</details>
+
+<details><summary>English</summary>
+
+[[12]]
+
+It cannot be disputed  
+that Bhagavata is another name for Satvata; 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 भागवतशब्दश्च सात्त्वतेषु वर्तते इति नात्र कश्चिद् विवादः ॥
+</details>
 
-स्मरन्ति च ।  
-पञ्चमः सात्त्वतो नाम विष्णोरायतनानि सः ।  
-पूजयेदाज्ञया राज्ञां स तु भागवतः स्मृतः ॥ इति
 
-तथाचोदीरितव्रात्यप्रसूतिवृत्त्युपायतयेदमेव स्मरन्ति यदमी ह प्रत्यक्षमेव वृत्त्यर्थमनुतिष्ठन्तो दृश्यन्ते तथा चोशना सर्वेषां कृषि शस्त्रोपजीवनम् आचार्यसात्त्वतयोर्देवपूजनम् इति, तथा ब्राह्मे पुराणो विष्णोरायतनानि स पूजयेदाज्ञया राज्ञाम् ।  
-इति, तथाऽन्यत्रापि सात्त्वतानां च देवायतनशोधनं नैवेद्यशोधनं प्रतिमासंरक्षणम् इति, तथा चेदृशसंदेहव्युदासाय मनोर्वचः ।  
-प्रच्छन्ना वा प्रकाशा वा वेदितव्याः स्वकर्मभिः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मरन्ति च -  
+
+> पञ्चमः सात्त्वतो नाम  
+विष्णोर् आयतनानि सः ।  
+**पूजयेद्** आज्ञया राज्ञां  
+स तु भागवतः स्मृतः ॥ 
+
+इति
+
+</details>
+
+<details><summary>English</summary>
+
+Smrti has it that 
+
+> "the fifth, called Satvata,  
+> worships the temples and sanctuaries of Viṣṇu by royal decree;  
+> he is also called Bhagavata." 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मरन्ति च -  
+
+पञ्चमः सात्त्वतो नाम  
+विष्णोरायतनानि सः ।  
+पूजयेदाज्ञया राज्ञां  
+स तु भागवतः स्मृतः ॥ 
+
+इति
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा चोदीरित--व्रात्य-प्रसूति-वृत्त्य्-उपायतयेदम् एव स्मरन्ति 
+यद् अमी ह प्रत्यक्षम् एव वृत्त्य्-अर्थम् अनुतिष्ठन्तो दृश्यन्ते  
+</details>
+
+<details><summary>English</summary>
+
+The Smrti thus describes which profession the descendants of the said vratya vaisya pursue  
+and with our own eyes we indeed see them pursue this profession. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा चोदीरितव्रात्यप्रसूतिवृत्त्युपायतयेदमेव स्मरन्ति  
+यदमी ह प्रत्यक्षमेव वृत्त्यर्थमनुतिष्ठन्तो दृश्यन्ते
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा चोशना 
+
+> सर्वेषां कृषि शस्त्रोपजीवनम्  
+> आचार्य-सात्त्वतयोर् देव-पूजनम् 
+
+इति,  
+</details>
+
+<details><summary>English</summary>
+
+Thus Uśanas: 
+
+> "They all live by the plough and the sword,  
+> the Acaryas and the Satvatas live on the worship of the Deity." 
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा चोशना सर्वेषां कृषि शस्त्रोपजीवनम् आचार्यसात्त्वतयोर्देवपूजनम् इति,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा ब्राह्मे पुराणे  
+
+> विष्णोर् आयतनानि स पूजयेद् आज्ञया राज्ञाम् ।  
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+Similarly, in the Brahma Purāṇa-
+
+"He worships the sanctuaries of Visnu by royal decree." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा ब्राह्मे पुराणे  
+
+> विष्णोरायतनानि स पूजयेदाज्ञया राज्ञाम् ।  
+
+इति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथाऽन्यत्रापि 
+
+> सात्त्वतानां च देवायतन-शोधनं  
+> नैवेद्य-शोधनं प्रतिमा-संरक्षणम् 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+Elsewhere the same is stated thus: 
+
+> "The profession of the Satvatas  
+> is to clean up the sanctuaries of the Deity  
+> and the eatables offered to the idol, 
+> as well as to guard it." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथाऽन्यत्रापि सात्त्वतानां च देवायतनशोधनं नैवेद्यशोधनं प्रतिमासंरक्षणम् इति, 
+</details>
+
+##### वृत्ति-भेदः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा चेदृशसंदेहव्युदासाय मनोर्वचः -  
+
+> प्रच्छन्ना वा प्रकाशा वा  
+> वेदितव्याः स्व-कर्मभिः ।  
+
 इति ।  
+</details>
+
+<details><summary>English</summary>
+
+And, to dispel the last doubt about the sort of people they are,  
+Manu declares: 
+
+> "Whether disguised or not, they can be known by their deeds." 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा चेदृशसंदेहव्युदासाय मनोर्वचः -  
+
+> प्रच्छन्ना वा प्रकाशा वा वेदितव्याः स्वकर्मभिः ।  
+
+इति ।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि चाचारतस् तेषाम्  
+अब्राह्मण्यं **प्रतीयते** ।  
+वृत्तितो देवता-**पूजा**  
+दीक्षा नैवेद्य-भक्षणम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+16\. Their conduct, moreover, proves that they cannot be Brahmins.  
+For a living they perform pūjā to the Deity, undergo their Consecration,  
+eat themselves the food which is offered to the idols, 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अपि चाचारतस्तेषामब्राह्मण्यं प्रतीयते ।  
-वृत्तितो देवतापूजा दीक्षानैवेद्यभक्षणम् ॥  
+वृत्तितो देवतापूजा दीक्षा नैवेद्यभक्षणम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गर्भाधानादि-दाहान्त-  
+संस्कारान्तर-सेवनम् ।  
+श्रौत-क्रियाऽननुष्ठानं  
+द्विजैस् सम्बन्ध-वर्जनम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+observe deviating sacraments-  
+from the prenatal garbhadhāna rite to the funerary rituals-,  
+omit to perform the shrauta ritual  
+and avoid contact with Brahmins.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 गर्भाधानादिदाहान्तसंस्कारान्तरसेवनम् ।  
 श्रौतक्रियाऽननुष्ठानं द्विजैस्सम्बन्धवर्जनम् ॥  
-इत्यादिभिरनाचारैरब्राह्मण्यं सुनिर्णयम् ।  
-स्मरन्ति हि वृत्तितो देवपूजाया ब्रह्मकर्मस्वनधिकारहेतुत्वं यथा ।  
-येषां वंशक्रमादेव देवार्चावृत्तितो भवेत् ।  
-तेषामध्ययने यज्ञे याजने नास्ति योग्यता ॥ इति ।  
-तथा च परमसंहितायां
+</details>
 
-तेषामेव वचः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादिभिर् अनाचारैर् अब्राह्मण्यं सुनिर्णयम् ।
+</details>
+
+<details><summary>English</summary>
+
+These and other habits show conclusively that they cannot be Brahmins.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिभिरनाचारैरब्राह्मण्यं सुनिर्णयम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मरन्ति हि वृत्तितो देवपूजाया  
+ब्रह्म-कर्मस्व् अनधिकारहेतुत्वं, यथा -
+</details>
+
+<details><summary>English</summary>
+
+Smrtis declare that the reason of their disqualification for Vedic rites  
+is this that they perform pūjā to the Deity in order to earn a living: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मरन्ति हि वृत्तितो देवपूजाया ब्रह्मकर्मस्वनधिकारहेतुत्वं यथा -
+</details>
+  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> येषां वंश-क्रमाद् एव  
+देवार्चा-वृत्तितो भवेत् ।  
+तेषाम् अध्ययने यज्ञे  
+याजने **नास्ति योग्यता** ॥ 
+
+इति ।
+</details>
+
+<details><summary>English</summary>
+
+[[13]]  
+"Those who from generation to generation  
+have worshipped the Deity professionally  
+are disqualified for the study of the Veda,  
+for participation in the sacrifices  
+and for officiating in sacrifices." 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+येषां वंशक्रमादेव देवार्चावृत्तितो भवेत् ।  
+तेषामध्ययने यज्ञे याजने नास्ति योग्यता ॥ 
+
+इति ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च परमसंहितायां तेषाम् एव वचः -  
+
+> आपद्य् अपि च कष्टायां  
+भीतो वा दुर्गतोऽपि वा ।  
+पूजयेन् नैव वृत्त्य्-अर्थं  
+देवदेवं कदाचन ॥ 
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+Their own Parama Samhita states the same prohibition: 
+
+> "Whether in disaster or emergency,  
+> in terror or in straits,  
+> one must never worship the God of gods for a living."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च परमसंहितायां तेषाम् एव वचः -  
+
 आपद्यपि च कष्टायां भीतो वा दुर्गतोऽपि वा ।  
-पूजयेन्नैव वृत्त्यर्थं देवदेवं कदाचन ॥ इति ।  
+पूजयेन्नैव वृत्त्यर्थं देवदेवं कदाचन ॥ 
+
+इति ।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अपि समस्त-विशिष्ट-विगर्हित--निर्माल्य-धारण--नैवेद्य-भक्षणाद्य्-अनुष्ठानं  
+तद् अपि तेषाम् अब्राह्मण्यम् एवाभिद्योतयति  
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+Such habits as wearing the garlands that are offered to the God  
+and eating the food that is presented to the idol  
+and other practices of that kind, which are condemned by all right-thinking people,  
+shows plainly that they are not Brahmins. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 यदपि समस्तविशिष्टविगर्हितनिर्माल्यधारणनैवेद्यभक्षणाद्यनुष्ठानं तदपि तेषामब्राह्मण्यमेवाभिद्योतयति इति ।  
+</details>
+
+##### शिष्ट-गर्ह्यता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च यद् अवलोकनादाव् अपि  
+विशिष्टाश् चान्द्रायणादि-प्रायश्चित्तानि विदधति  
+कथं तत्-परिग्रहः श्रुति-मूलत्वम् अवगयतीति संभावयामः?  
+</details>
+
+<details><summary>English</summary>
+
+Furthermore, we wonder how it can be presumed  
+that the authority of these people proves  
+that Scripture is the basis of their way of life:  
+at the mere sight of them  
+all respectable men perform expiatory rites such as candrayana 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अपि च यदवलोकनादावपि विशिष्टाश्चान्द्रायणादिप्रायश्चित्तानि विदधति कथं तत्परिग्रहः श्रुतिमूलत्वमवगयतीति संभावयामः ।  
-स्मरन्ति हि देवलकावलोकने प्रायश्चित्तं देवलकाश्चामी देवकोशोप जीवित्वाद् वृत्त्यर्थं देवपूजनात् ।  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मरन्ति हि देवलकावलोकने प्रायश्चित्तम्।  
+</details>
+
+<details><summary>English</summary>
+
+Smrti declares that if one sets eyes on a devalaka,  
+it is necessary to perform an expiation.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मरन्ति हि देवलकावलोकने प्रायश्चित्तम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवलकाश् चामी देव-कोशोपजीवित्वाद्  
+वृत्त्यर्थं देवपूजनात् ।  
+
+</details>
+
+<details><summary>English</summary>
+
+A devalaka is someone who lives on temple treasure  
+and worships the idol for a livelihood.
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवलकाश् चामी देव-कोशोपजीवित्वाद्  
+वृत्त्यर्थं देवपूजनात् ।  
+
+</details>
+
+
 तथा च देवलः ।  
 देवकोशोपजीवी यस्स देवलक उच्यते ।  
 इति,

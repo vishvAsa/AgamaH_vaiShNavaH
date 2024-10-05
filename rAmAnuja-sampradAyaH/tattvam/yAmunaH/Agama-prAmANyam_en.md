@@ -11,31 +11,12 @@ title = "Agama-prAmANyam en"
 
 
 
-Hair-tuft, sacred thread etc. which are prescribed for Brahmins and the other two estates, do not make a man a Brahmin Nor do they demonstrate that a man is a Brahmin, for we see them worn illegally by blackguards, outcastes and the like. Therefore, the sole criterion by which we can tell whether a man 
 
-11 
-is indeed a Brahmin is acceptance of undisputed expressions by older persons, which give us irrefutable proof. Nor do ordinary people, use without hesitation the term Brahmin to describe Bhāgavatas. 
-There is also a distinct difference in the two appellations: here Brahmins, there Bhāgavatas. 
-15\. OBJECTION: 
-ווי 
-The people do not use the word Brahmin' to refer to Bhāgavatas. The reference is only difference as this much Brahmins and this much Bhāgavatas. Be that as it may, still, the appellations Satvata, Bhāgavata etc. are also used to name Brahmins, by some sort of transference of properties, just as the word parivrajaka is used to designate a Brahmin20. 
-REFUTATION: The argument is false. 
-Persons of certain inferior castes are commonly referred to as Satvatas; the name is used to denote these castes, and not anything else. 
-The grammarians have the rule that it is improper to use a certain word in its etymological sense if it can also be taken in a customary sense which is more common, e.g., rathakāra 21. 
-If there were no such rule, how could the word *rathakara give up its etymological meaning of "chariotmaker" to become the name of a particular caste, even to the extent of cancelling all connotations which we have learnt? Similarly, Satvata refers to a person who has been born from a orutya vaiya and belongs to the lowest castes, and is thus excluded from the sacraments of initiation, etc. Manu says: "The issue of a vaisya vratya extraction is called Sudhanvā or Bharuşa or Nijangha or Maitra or Salvata" " 
-It cannot 
-2 
-12 
-ADAMA PRĀKĀṆYAṀ 
-be disputed that Bhagavata is another name for Satvata; Smrti has it that "the fifth, called Satvata, worships the temples and sanctuaries of Viṣṇu by royal decree; he is also called Bhagavata." 
-The 'Smrti. thus describes' which profession the descendants of the said vratya vaisya pursue and with our own eyes we indeed see them pursue this profession. Thus Ušanas: "They all live by the plough and the sword, the Acaryas and the Satvatas live on the worship of the Deity." Similarly, in the Brahma Purāṇa-"He worships the sanctuaries of Visnu by royal decree." Elsewhere the same is stated. thus: "The profession of the Satvatas is to clean up the sanctuaries of the Deity and the eatables offered to the idol, as well as to guard it." And, to dispel the last doubt about the sort of people they are, Manu declares: "Whether disguised or not, they can be known by their deeds." 
-1 
-16\. Their conduct, moreover, proves that they cannot be Brahmins. For a living they perform pūjā to the Deity, undergo their Consecration, eat themselves the food which is offered to the idols, observe deviating sacraments-from the prenatal garbhadhāna rite to the funerary rituals-, omit to perform the frauta ritual and avoid contact with Brahmins. These and other habits show conclusively that they cannot be Brahmins. 
-Smetis declare that the reason of their disqualification for Vedic rites is this that they perform pūjā to the Deity in order to earn a living: "Those who from generation to generation have worshipped the Deity professionally are disqualified for the study of the Veda, 
 
-13 
-for participation in the sacrifices and for officiating in sacrifices." Their own Parama Samhita states the same prohibition: "Whether in disaster or emergency, in terror or in straits, one must never worship the God of gods for a living."" Such habits as wearing the garlands that are offered to the God and eating the food that is presented to the idol and other practices of that kind, which are condemned by all right-thinking people, shows plainly that they are not Brahmins. 
-Furthermore, we wonder how it can be presumed that the authority of these people proves that Scripture is the basis of their way of life: at the mere sight of them all respectable men perform expiatory rites such as candrayana Smrti declares that if one sets eyes on a devalaka, it is necessary to perform an expiation. A devalaka is someone who lives on temple treasure and worships the idol for a livelihood. Thus Devala: "One who lives on temple treasure. is called a devalaka. Likewise: "A Brahmin who has worshipped the deity for three years in order to make a living is called a devalaka and he is held to be unworthy to partake in any ritual." Those who have been known to worship the God as a hereditary profession are automatically regarded as devalakas. The rite of expiation is set forth in the precept: "A Brahmin who is taking his meal should not look at ordure, a pig, a eunuch, a sacrificial pole, a devalaka or a corpse; if he does he must observe the candrayana." Atri, too, very explicitly declares that they are not Brahmins: "The Avalukas, Devalakas, Kalpadevalakas, Ganabhogadevalakas and fourthly those of the Bhagavata profession are corrupt Brahmins."" Also the venerable Vyasa: 
+
+
+
+Thus Devala: "One who lives on temple treasure. is called a devalaka. Likewise: "A Brahmin who has worshipped the deity for three years in order to make a living is called a devalaka and he is held to be unworthy to partake in any ritual." Those who have been known to worship the God as a hereditary profession are automatically regarded as devalakas. The rite of expiation is set forth in the precept: "A Brahmin who is taking his meal should not look at ordure, a pig, a eunuch, a sacrificial pole, a devalaka or a corpse; if he does he must observe the candrayana." Atri, too, very explicitly declares that they are not Brahmins: "The Avalukas, Devalakas, Kalpadevalakas, Ganabhogadevalakas and fourthly those of the Bhagavata profession are corrupt Brahmins."" Also the venerable Vyasa: 
 14 
 AGAMA PRĀMIŅYAM 
 "The Ahvāyakas, Devalakas, Nakṣatragrāmayājakas and Mahapathikas are outcaste Brahmins.""15 
@@ -227,7 +208,7 @@ REFUTATION. But why do the Pasupatas then not agree with their view? They, too, 
 
 'doctrines and if for each of them the arguments are equally valid, then whom can we elicit as the true and only one ?" When each omniscient being is assumed on the basis of one's own Tantra doctrine since the various tantric doctrines are mutually in conflict, the result will be that none of them is authoritative, ! 
 44\. OBJECTION. How can the teaching of Vasudeva himself, who is well-known in Revelation and Tradition, be brought to the same level as other Tantras? For the manifestation of His power has been revealed in the Purusa Hymn, "The earth sprang from his feet, the quarters of the sky from his ears;" 
-9999 and again, "The creator created sun and moon as before;" likewise, He is Brahma, he is Šiva;" "Visnu's highest step" "No one is his lord in this world, no one his commander; he has no sign. 
+9999 and again, "The creator created sun and moon as before;" likewise, He is Brahma, he is śiva;" "Visnu's highest step" "No one is his lord in this world, no one his commander; he has no sign. 
 5 
 In this way, the statements of Revelation describe his manifestation characterized by His origination, maintenance and annihilation of the world. Similarly, the Tradition: "From Visnu arose the world, in him does it subsist; he is the one who causes it to exist and to perish," said Parāśara; Manu, too, declared that He is the lord: "Nārāyaṇa is above the unmanifest, and the World-egg is produced by the unmanifest."93 
 This Supreme Person who is continually praised for His knowledge and supremacy in the statements of: Revelation and of the sages has created Pañcaratra. If this Tantra is then on a level with Tantras that are apostate from the path of Revelation, then one might as well reason that a soma-drinker is on a level with a winc-drinker, just because he is a drinker! Is this 
@@ -476,7 +457,7 @@ that certain practices, which are condemned by all the
 70 
 
 sāstras, like eating from a skull, bathing in and tasting of ashes of cremated corpses, carrying a laguḍa staff, putting up wine-cups and worshipping the deity in them, will secure all material and immaterial desires: these teachings are outside the Veda. 
-84\. Also some of the teachings of the Pasupatas and the Saivas in which compatible and incompatible elements are indiscriminately mixed are likewise outside the Veda, The Pasupata system is as follows: there are individual souls which are called pašus, cattle, and their overlord is Siva, the Lord of Cattle. To assist the souls Siva has composed the Paficādhyāyi.100 There the five Categories are explained, namely, Cause, Effect, Injunction, Yoga and the Cessation of Misery. The Cause is of two kinds, material and instrumental. Rudra is the instrumental cause and a sixteenth part of him is the material cause. The Effect comprises the elements from Mahaf to earth. The Injunction is stated to comprehend principally a number of rites, secret practices, bathing and lying in ashes etc. 182 The Yoga is said to be concentration and the muttering of formula, OM etc. The Cessation of Misery is held to be release; thus the five Categories are enumerated.--The term "cessation' of misery" means total and final cessation of misery. The system holds that this cessation or release is defined by the annihilation of all the qualities of the differential soul. 
+84\. Also some of the teachings of the Pasupatas and the Saivas in which compatible and incompatible elements are indiscriminately mixed are likewise outside the Veda, The Pasupata system is as follows: there are individual souls which are called paśus, cattle, and their overlord is Siva, the Lord of Cattle. To assist the souls Siva has composed the Paficādhyāyi.100 There the five Categories are explained, namely, Cause, Effect, Injunction, Yoga and the Cessation of Misery. The Cause is of two kinds, material and instrumental. Rudra is the instrumental cause and a sixteenth part of him is the material cause. The Effect comprises the elements from Mahaf to earth. The Injunction is stated to comprehend principally a number of rites, secret practices, bathing and lying in ashes etc. 182 The Yoga is said to be concentration and the muttering of formula, OM etc. The Cessation of Misery is held to be release; thus the five Categories are enumerated.--The term "cessation' of misery" means total and final cessation of misery. The system holds that this cessation or release is defined by the annihilation of all the qualities of the differential soul. 
 This conception of God is held by the Saivas as well as the others. And this view of God is entirely, incompatible with Scripture, for it is revealed in śruti that the Supreme Brahman is both the material and the 
 
 71 
@@ -693,7 +674,7 @@ etc.) would also be invalid.
 Or, be it granted that the acceptance of certain rites by outcastes renders them invalid; yet, in view of the fact that the eminent brahminhood of these Bhagavatas who follow the doctrine of the Bhagavān is evident by all criteria of knowledge, their acceptance of Pañcaratra rather confirms its validity. 
 He says: By the same means of knowledge by which the brahminhood of one set of people is evident the brahminhood of another set of people is evident. 
 121\. OBJECTION. But when one sees the small sons of the twice-born who wear the customary hairtuft, sacred thread, palasa wood stick and munjagrass girdle, one knows, the moment the eyes fall on them, that they are brahmins. 
-REFUTATION. And in our case, when one sees learned people who day after day study the Vajasaneyaka and Ekāyana šākhās, wear prominently their sacred threads, upper garments and hairtufts, impart teaching, sacrifice, receive priestly stipends---does one not instantly know that they are brahmins? If it be held that outcastes, low-caste people etc., may also illegitimately sacrifice, teach, carry palata sticks etc. and that they behave as though they were legitimate brahmins, and that therefore neither costume nor conduct provides positive certainty that a man is a brahmin, then the same applies to other priests than Bhagavatas. 
+REFUTATION. And in our case, when one sees learned people who day after day study the Vajasaneyaka and Ekāyana śākhās, wear prominently their sacred threads, upper garments and hairtufts, impart teaching, sacrifice, receive priestly stipends---does one not instantly know that they are brahmins? If it be held that outcastes, low-caste people etc., may also illegitimately sacrifice, teach, carry palata sticks etc. and that they behave as though they were legitimate brahmins, and that therefore neither costume nor conduct provides positive certainty that a man is a brahmin, then the same applies to other priests than Bhagavatas. 
 Or be it granted that there are cases where people illegitimately display the marks of brahminhood; still, 
 102 
 ADAMA PRAMANYAM 
@@ -910,7 +891,7 @@ entities," established, that is, by other means of knowledge than fabda. A scrip
 130 
 
 69\. "Denotation, denoting power, denotativeness" in the following Prabhakara discussions have to be understood as the power of verbal statements to provide unprece= dented and non-superfluous knowledge concerning their contents. In the Prabhakara view, a verbal statement by itself is denotative only in injunctive forms, while substantive statements have denotation either through contextual connection with injunctive statements, or (but this is not strictly "true" denotation) through repetition of otherwise knowable facts. This view, which has obviously been developed for scriptural statements in the first place, is thereupon extended to ordinary language as well, and is thus expressed in the following theory about learning language which is here understood, A child learns what certain sentences 'mean' by observing the action which his elders take upon hearing these sentences, When he knows no language meaning (yuthatti), he may acquire knowledge by first hearing one adult tell another to "get the cow," and subsequently observing that the other is getting the cow: by associating the two events he knows that an order to get the cow was the content of the first adult's statement "get the cow."" A remark without consequent action (e.g., "It is hot today,") cannot convey any such knowledge to one who does not know language. The process of the child knowing the sentence meaning is here described as arthapatti "reasoning by circumstantial implication;" since there is no other ground for the second man's getting the cow, it must have been the first man's statement. 
-70\. Thus Šalikanatha, Prakarapapahciki, p. 182: niyo yali 
+70\. Thus śalikanatha, Prakarapapahciki, p. 182: niyo yali 
 sarvakarye yaft soakiyalvena budhyate. 
 71\. That is to say that the denotativeness of the words composing the statement is dependent upon the injunctive denotation of the statement as a whole. 
 72\. The linādi verbal terminations of Sanskrit to which in English correspond verbs compounded with auxiliaries like "should, must, to be to, ought to." 
@@ -1068,7 +1049,7 @@ verified.
 180\. "The Doctrine of the Five Chapters." 
 181\. The highest material evolute; the dloka is out of order,NOTES 
 139 
-182\. The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaša yanādikrijāparaḥ. 
+182\. The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaśa yanādikrijāparaḥ. 
 183\. The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems out of order. The sense is clear 
 however. 
 184\. corresponds to Varaha Purana. 70.36 foam ca rudra mahabaho mokatastrāni kārayal al pajasam dartayitva mahajātu 
@@ -1133,7 +1114,7 @@ NOTES
 will be accurate. 
 227\. gunataḥ prāmāṇyasyājuktateūd anabhjupagamãe; my understanding is that a statement has its validity by itself, and no secondary validity in the sense that its content must first be validated by some other means. The validity itself must be proved (namely by the character of the personal author or by its preterpersonal origin), but once proved, the statement itself is valid. 
 228\. Vaisnava rite observed five times a day: pañcakáliké. 
-229\. Šlokavārttika, 2.6 7 ab. 
+229\. ślokavārttika, 2.6 7 ab. 
 230\. ib. 2.67 cd. 
 231\. 
 not identified. 
