@@ -2250,57 +2250,888 @@ and worships the idol for a livelihood.
 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा च देवलः ।  
+तथा च देवलः -   
+
+> देवकोशोपजीवी यस्  
+स देवलक उच्यते ।  
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+Thus Devala:  
+"One who lives on temple treasure. is called a devalaka." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा च देवलः -   
+
 देवकोशोपजीवी यस्स देवलक उच्यते ।  
+
 इति,
 
-तथा, वृत्त्यर्थं पूजयेद्देवं त्रीणि वर्णाणि यो द्विजः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा, 
+
+> वृत्त्यर्थं पूजयेद् देवं  
+त्रीणि वर्षाणि यो द्विजः ।  
+स वै देवलको नाम  
+सर्वकर्मसु गर्हितः ॥
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+Likewise:  
+
+> "A Brahmin who has worshipped the deity for three years  
+> in order to make a living is called a devalaka  
+> and he is held to be unworthy to partake in any ritual." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा, 
+
+> वृत्त्यर्थं पूजयेद् देवं त्रीणि वर्षाणि यो द्विजः ।  
 स वै देवलको नाम सर्वकर्मसु गर्हितः ॥
 
 इति ।  
-अमी पुनर्वंशानुपरम्परया वृत्त्यर्थमेव देवमाराधयन्तो दृश्यन्ते, अतो देवलकत्त्वमकामेनाप्यभ्यनुज्ञातव्यं तथा च ।  
-विड्वराहं च षण्डं च यूपं देवलकं शवम् ।  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अमी पुनर् वंशानुपरम्परया वृत्त्य्-अर्थम् एव देवम् आराधयन्तो दृश्यन्ते,  
+अतो देवलकत्त्वम् अकामेनाप्य् अभ्यनुज्ञातव्यम् 
+</details>
+
+<details><summary>English</summary>
+
+Those who have been known to worship the God as a hereditary profession are automatically regarded as devalakas. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अमी पुनर्वंशानुपरम्परया वृत्त्यर्थमेव देवमाराधयन्तो दृश्यन्ते, अतो देवलकत्त्वमकामेनाप्यभ्यनुज्ञातव्यम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च ।  
+
+> विड्-वराहं च षण्डं च  
+यूपं देवलकं शवम् ।  
+**भुञ्जानो नेक्षयेद्** विप्रो  
+**दृष्ट्वा** चान्द्रायणं चरेत् ॥
+
+इति प्रायश्चित्तं स्मरन्ति, 
+</details>
+
+<details><summary>English</summary>
+
+The rite of expiation is set forth in the precept: 
+
+> "A Brahmin who is taking his meal should not look at ordure, a pig, a eunuch, a sacrificial pole, a devalaka or a corpse;  
+> if he does he must observe the candrayana."
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा च ।  
+
+> विड्वराहं च षण्डं च यूपं देवलकं शवम् ।  
 भुञ्जानो नेक्षयेद्विप्रो दृष्ट्वा चान्द्रायणं चरेत् ॥
 
-इति प्रायश्चित्तं स्मरन्ति, तथा च विषदतरममीषामेवोपब्राह्मण्यं वर्णयत्यत्रिः ।  
-अवालुका देवलकाः कल्पदेवलका गणभोगदेवलका भागवतवृत्तिरिति चतुर्थः एते उपब्राह्मणा इति, तथा च भगवान् व्यासः ।  
+इति प्रायश्चित्तं स्मरन्ति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च विषदतरम् अमीषाम् एवोपब्राह्मण्यं वर्णयत्यत्रिः ।  
+
+> अ-वालुका देवलकाः कल्प-देवलका गण-भोग-देवलका भागवत-वृत्तिर् इति चतुर्थः - एते उपब्राह्मणा +++(5)+++
+
+इति, 
+
+</details>
+
+<details><summary>English</summary>
+
+Atri, too, very explicitly declares that they are not Brahmins: 
+
+> "The Avalukas, Devalakas, Kalpadevalakas, Ganabhogadevalakas and fourthly those of the Bhagavata profession are corrupt Brahmins."" 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च विषदतरम् अमीषाम् एवोपब्राह्मण्यं वर्णयत्यत्रिः ।  
+
+> अ-वालुका देवलकाः कल्प-देवलका गण-भोग-देवलका भागवत-वृत्तिर् इति चतुर्थः - एते उपब्राह्मणा +++(5)+++
+
+इति, 
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च भगवान् व्यासः  -  
+
+> आह्वायका देवलका  
+नक्षत्र-ग्राम-याजकाः ।  
+एते ब्राह्मण-चण्डाला  
+महा-पथिक-पञ्चमाः ॥
+
+इति, 
+
+</details>
+
+<details><summary>English</summary>
+
+[[14]]  
+Also the venerable Vyasa: 
+
+> "The Ahvāyakas, Devalakas, Nakṣatragrāmayājakas and Mahapathikas are outcaste Brahmins." 15 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च भगवान् व्यासः  -  
+
 आह्वायका देवलका नक्षत्रग्रामयाजकाः ।  
 एते ब्राह्मणचण्डाला महापथिकपञ्चमाः ॥
 
-इति, एवं जात्या कर्मणा च त्रयीमार्गादपभ्रष्टभागवतजनपरिग्रह्व एव पञ्चरात्रशास्त्रप्रामाण्यप्रतिक्षेपाय पर्याप्तो हेतुः, तथा हि ।  
-विवादाध्यासितं तन्त्रं न मानं पुण्यपापयोः ।  
-त्रयीवाह्यैर्गृहीतत्वाच् चैत्यवन्दनवाक्यवत् ॥
+इति, 
 
-अपि च तेषां त्रयीमार्गत्यागपुरस्सरः सर्वधर्मोपदेश इति स्ववाक्यान्येव उपख्यापयन्ति चतुर्षु वेदेषु परं श्रेयोऽलब्ध्वा शाण्डिल्य इदं शास्त्रमधीतवात् इत्यादीन् तदिह कथं चतुर्णामपि वेदानां निश्रेयससाधनावबोधकत्वव्युदासेन आरभमाणः तत्प्रसादावगतमर्थं पुमर्थतया कथयतीत्युत्प्रेक्ष्येत ।  
-मन्वादयो हि विवक्षितसकलसमीहितसाधनावबोधकमागमैकमूलमभिदधाना दृश्यन्ते ।  
+</details>
+
+### बाह्य-परिग्रहः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं जात्या कर्मणा च  
+त्रयी-मार्गाद् अपभ्रष्ट-भागवत-जन-परिग्रह एव  
+पञ्च-रात्र-शास्त्र-प्रामाण्य-प्रतिक्षेपाय पर्याप्तो हेतुः,
+</details>
+
+<details><summary>English</summary>
+
+Therefore, the fact that Pañcarātra recognizes the authority of the Bhagavatas  
+who by birth and by deeds have deviated from the Way of the Veda  
+is sufficient ground to deny authority to the Pañcaratra Scriptures. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं जात्या कर्मणा च त्रयीमार्गादपभ्रष्टभागवतजनपरिग्रह एव पञ्चरात्रशास्त्रप्रामाण्यप्रतिक्षेपाय पर्याप्तो हेतुः,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि -  
+
+विवादाध्यासितं तन्त्रं  
+**न मानं** पुण्य-पापयोः ।  
+त्रयी-बाह्यैर् गृहीतत्वाच्  
+चैत्य-वन्दन-वाक्यवत् ॥
+</details>
+
+<details><summary>English</summary>
+
+17\. Furthermore, the class of texts  
+with which we are here concerned  
+are not valid means of knowing  
+which acts are good and which are evil  
+inasmuch as they are accepted by heretics,  
+and thus are of the same kind as the Buddhist statements on stupa worship. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि -  
+
+विवादाध्यासितं तन्त्रं न मानं पुण्यपापयोः ।  
+त्रयीबाह्यैर्गृहीतत्वाच् चैत्यवन्दनवाक्यवत् ॥
+</details>
+
+### वेद-तिरस्कारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च तेषां  
+त्रयी-मार्ग-त्याग--पुरस्-सरः सर्व-धर्मोपदेश  
+इति स्व-वाक्यान्य् एव उपख्यापयन्ति 
+</details>
+
+<details><summary>English</summary>
+
+Besides, their own texts relate that  
+the instruction in all their dharmas  
+presupposes the abandoning of the Way of the Veda; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपि च तेषां त्रयीमार्गत्यागपुरस्सरः सर्वधर्मोपदेश इति स्ववाक्यान्येव उपख्यापयन्ति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> चतुर्षु वेदेषु परं श्रेयोऽलब्ध्वा  
+शाण्डिल्य इदं शास्त्रमधीतवान्  
+
+इत्यादीनि 
+</details>
+
+<details><summary>English</summary>
+
+> "having failed to find the supreme good in the four Vedas,  
+> Sandilya learnt this doctrine...." 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> चतुर्षु वेदेषु परं श्रेयोऽलब्ध्वा  
+शाण्डिल्य इदं शास्त्रमधीतवान्  
+
+इत्यादीनि 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् इह  
+कथं चतुर्णाम् अपि वेदानां निश्रेयस-साधनावबोधकत्व-व्युदासेन आरभमाणः  
+तत्-प्रसादावगतम् +++(मोक्षाख्यम्)+++ अर्थं  
+पुम्-अर्थतया कथयतीत्य् उत्प्रेक्ष्येत ?+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+But how can we presume that a certain text can teach that a certain object,  
+which is known from the four Vedas,  
+is man's supreme goal in life  
+if he rejects at the outset the very authority of the Vedas as sources of knowledge  
+about the means which lead to bliss? 
+</details>
+
+<details><summary>Español</summary>
+
+But how can we presume that a certain text can teach that a certain object,  
+which is known from the four Vedas,  
+is man's supreme goal in life  
+if he rejects at the outset the very authority of the Vedas as sources of knowledge  
+about the means which lead to bliss? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदिह कथं चतुर्णामपि वेदानां निश्रेयससाधनावबोधकत्वव्युदासेन आरभमाणः तत्प्रसादावगतमर्थं पुमर्थतया कथयतीत्युत्प्रेक्ष्येत ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मन्व्-आदयो हि  
+विवक्षित-सकल-समीहित-साधनावबोधकम्  
+आगमैक-मूलम् अभिदधाना दृश्यन्ते ।
+</details>
+
+<details><summary>English</summary>
+
+On the contrary,  
+we find that Manu and other authors of Traditions  
+declare that their works which expound as their teaching the means of attaining all kinds of desirable ends  
+derive solely from Scripture: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मन्वादयो हि विवक्षितसकलसमीहितसाधनावबोधकमागमैकमूलमभिदधाना दृश्यन्ते ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेदोऽखिलो धर्ममूलं  
+> स्मृतिशीले च तद्विदाम् ।  
+</details>
+
+<details><summary>English</summary>
+
+> "The Veda in its entirety is the basis of the Law,  
+> as well as of the traditions and customs of those who are expert in Law"; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 वेदोऽखिलो धर्ममूलं स्मृतिशीले च तद्विदाम् ।  
+</details>
+  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> श्रुतिस्मृतिविहितो धर्मः ।  
+</details>
+
+<details><summary>English</summary>
+
+> "the Law is enjoined by Scripture and Tradition"; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 श्रुतिस्मृतिविहितो धर्मः ।  
-स सर्वोऽभिहितोवेदे सर्वज्ञानमयो हि सः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स सर्वो ऽभिहितो वेदे  
+सर्व-ज्ञानमयो हि सः ।  
+
 इति च ।  
-यदपरम् उपनयनादिसंस्कृतानामधिकृतानां च अग्निहोत्रादिसमस्तवैदिककर्मसु पुनरपि भगवदाराधनाधिकारसिद्धये दीक्षालक्षणसंस्कारवर्णनं तदवैदिकतामेवानुकारयति, वैदिकत्वे हि तैरेवसंस्कारैर्भगवदाराधनादावप्यधिक्रियेरन् ।  
+</details>
+
+<details><summary>English</summary>
+
+"it is entirely expressed in the Veda;  
+for the Veda contains all knowledge." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स सर्वोऽभिहितोवेदे सर्वज्ञानमयो हि सः ।  
+
+इति च ।  
+</details>
+
+### पृथक्-संस्कर-लिङ्गम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अपरम्  
+उपनयनादि-संस्कृतानाम् अधिकृतानां च  
+अग्नि-होत्रादि-समस्त-वैदिक-कर्मसु  
+पुनर् अपि भगवद्-आराधनाधिकार-सिद्धये  
+दीक्षा-लक्षण-संस्कार-वर्णनं,  
+तद् अवैदिकताम् एवानुकारयति, 
+</details>
+
+
+<details><summary>English</summary>
+
+[[15]]  
+Further, the assertion that those who have already been consecrated by the sacraments of Investiture etc.  
+and are thereby qualified for all the Vedic rituals, agnihotra etc.,  
+must yet undergo another sacrament, called Consecration,  
+in order to be qualified for the worship of the Bhagavan,  
+demonstrates that the system is non-Vedic;  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदपरम् उपनयनादिसंस्कृतानामधिकृतानां च अग्निहोत्रादिसमस्तवैदिककर्मसु पुनरपि भगवदाराधनाधिकारसिद्धये दीक्षालक्षणसंस्कारवर्णनं तदवैदिकतामेवानुकारयति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैदिकत्वे हि तैर् एव संस्कारैर् भगवद्-आराधनादाव् अप्य् अधिक्रियेरन् ।  
+</details>
+
+<details><summary>English</summary>
+
+for if it were Vedic,  
+they would be qualified for Tantric ritual by the regular sacraments. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वैदिकत्वे हि तैरेवसंस्कारैर्भगवदाराधनादावप्यधिक्रियेरन् ।  
+</details>
+
+### १४-विद्यास्थानेष्व् अनन्तर्भावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अपि धर्म-प्रमाणतया  
+समस्तास्तिक-जन-परिगृहीतेषु चतुर्-दश-विद्यास्थानेष्व् अपरिगणनं  
+तद् अप्य् अवैद्कत्त्वे लिङ्गम् - 
+अन्यथा हीदम् अपि तद्-अन्यतमत्वेन स्मर्येत ।  
+</details>
+
+<details><summary>English</summary>
+
+Again, another indication of its non-Vedic character is the fact  
+that the system is not included among the fourteen sources of knowledge,  
+which all orthodox people recognize as giving authoritative information on the Law.  
+If it were authoritative,  
+then it would have been recognized as such by tradition;  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यदपि धर्मप्रमाणतया समस्तास्तिकजनपरिगृहीतेषु चतुर्दशविद्यास्थानेष्वपरिगणनं तदप्यवैद्कत्त्वे लिङ्गम् अन्यथा हीदमपि तदन्यतमत्वेन स्मर्येत ।  
-न च स्मर्यते, तदवसीयते अवैदिकमेवेदं पञ्चरात्रस्मरणमिति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च स्मर्यते,  
+तद् अवसीयते - "अ-वैदिकम् एवेदं पञ्च-रात्र-स्मरणम्" इति । 
+</details>
+
+<details><summary>English</summary>
+
+but as it is not so recognized, this proves that the Pañcarātra tradition is non-Vedic. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च स्मर्यते, तदवसीयते अवैदिकमेवेदं पञ्चरात्रस्मरणमिति । 
+</details>
+
+### बादरायणोक्तिः 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत एव च भगवता बादरायणेन  
+त्रयी-मार्ग-प्रत्यनीक-भूत--कण-भुग्--अक्ष-चरण--सु-गत-मतादि--  
+बाह्य-समय-निरासावसरे  
+ऽस्य तन्त्रस्य निरासः ।  
+"उत्पत्त्य्-असंभवात्" इति ।  
+</details>
+
+<details><summary>English</summary>
+
+For this reason the venerable Badarāyaṇa,  
+when he has occasion to refute the heterodox doctrines of Kanāda, Akṣapada, the Buddha etc. as inimical to the Way of the Veda,  
+also refutes the Pancarãtra in his Sutra:  
+"Because of the impossibility of origin."  
+</details>
+
+<details><summary>मूलम्</summary>
+
 अत एव च भगवता बादरायणेन त्रयीमार्गप्रत्यनीकभूतकणभुगक्षचरणसुगतमतादिबाह्यसम् अयनिरासावसरेऽस्य तन्त्रस्य निरासः ।  
 उत्पत्त्यसंभवात् इति ।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+त्रयी-विदाम् इत्थम् अ-सङ्ग्रहेण  
+तथा त्रयी-बाह्य-परिग्रहेण ।  
+अनन्तरोक्तैर् अपि हेतुभिस् तन्  
+न मानवादि-स्मरणैस् समानम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Therefore, as the Vedic experts regard the Pañcaratra doctrine as non-Vedic  
+since it is not included among the Vedic systems  
+and because of other reasons which will be advanced in the sequel,  
+it cannot be compared with the Tradition of Manu etc. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 त्रयीविदामित्थमसङ्ग्रहेण तथा त्रयीबाह्यपरिग्रहेण ।  
 अनन्तरोक्तैरपि हेतुभिस्तन्न मानवादिस्मरणैस्समानम् ॥
+</details>
 
-एवं सति यान्यपि लोकं व्यामोहयितुं विद्वेषणोच्चाटनवशीकरणादिक्षुद्रविद्याप्रायमेव बहुलमुपदिशद्भिर्भगवदाराधनादिकतिपयवैदिककर्माणि पाञ्चरात्रिकैर्निर्दिश्यन्ते तान्यनुपयोग्यान्यविस्रम्भणीयानि च श्वदृतिनिक्षिप्तक्षीरवदिति मन्यामहे ।  
+### क्षुद्र-विद-परता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं सति  
+यान्य् अपि लोकं व्यामोहयितुं  
+विद्वेषणोच्चाटन-वशीकरणादि--क्षुद्र-विद्या-प्रायम् एव बहुलम् उपदिशद्भिर्  
+भगवद्-आराधनादि--कतिपय-वैदिक-कर्माणि पाञ्चरात्रिकैर् निर्दिश्यन्ते  
+तान्य् अनुपयोग्यान्य् अविस्रम्भणीयानि च  
+श्व-दृति+++(=bag)+++-निक्षिप्त-क्षीरवद्  
+इति मन्यामहे । 
+</details>
+
+<details><summary>English</summary>
+
+In view of all this it is our opinion that such infrequent good rites- e.g., the worship of the Bhagavān - which are described by the Pañcaratricas  
+(who teach a good many others,  
+mostly black arts of exciting hatred, haunting a person out of his occupation, envoutement etc.)  
+are merely added to deceive people about their real attentions and do not deserve our faith or consideration: they are like milk that is put in a dog's bladder ! 
+
+[[16]]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं सति यान्यपि लोकं व्यामोहयितुं विद्वेषणोच्चाटनवशीकरणादिक्षुद्रविद्याप्रायमेव बहुलमुपदिशद्भिर्भगवदाराधनादिकतिपयवैदिककर्माणि पाञ्चरात्रिकैर्निर्दिश्यन्ते तान्यनुपयोग्यान्यविस्रम्भणीयानि च श्वदृतिनिक्षिप्तक्षीरवदिति मन्यामहे । 
+</details>
+
+ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो न वेद-मूलत्त्वं  
+पञ्चरात्रस्य युज्यते ।  
+प्रामाण्यं प्रतिपद्येत  
+येन मन्व्-आदि-शास्त्रवत् ॥
+</details>
+
+<details><summary>English</summary>
+
+To sum up,  
+it is not proper to assume that Pancarātra is based on the Veda  
+and therefore equally authoritative as the doctrinal works of Manu' and others. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अतो न वेदमूलत्त्वं पञ्चरात्रस्य युज्यते ।  
 प्रामाण्यं प्रतिपद्येत येन मन्वादिशास्त्रवत् ॥
+</details>
 
-अत्र कश्चिदाह कामं कक्ष्यान्तरितप्रामाण्येषु मन्वादिस्मरणेषु कारणतया वेदाः परिकल्प्यन्ताम्,  पञ्चरात्रस्मरणस्य तु किं वेदेन तन्मूलतयाऽवलम्बितेन वेदानामपि यदनुभवनिबन्धनं प्रामाण्यं तदनुभव एव हि पञ्चरात्रस्मरणस्य निदानम्,  न खलु तुल्यमूलयोरष्टकाचमनस्मरणयोर्मिथोमूलमूलिभावः ।  
+### वेदैक-तुल्य-प्रमाणत्वम्?
+#### पूर्व-पक्षः (नैय्यायिकः)
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र कश्चिद् आह 
+
+> कामं कक्ष्यान्तरित-प्रामाण्येषु मन्व्-आदिस्मरणेषु कारणतया वेदाः परिकल्प्यन्ताम्,  
+पञ्च-रात्र-स्मरणस्य तु किं वेदेन?
+</details>
+
+<details><summary>English</summary>
+
+DISCURSUS: 
+
+18\. At this point someone interjects:  
+If you please, by all means assume that the Vedas constitute the cause  
+of the delegated and indirect authority of the Tradition of Manu etc.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र कश्चिदाह कामं कक्ष्यान्तरितप्रामाण्येषु मन्वादिस्मरणेषु कारणतया वेदाः परिकल्प्यन्ताम्, पञ्चरात्रस्मरणस्य तु किं वेदेन?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तन्-मूलतया ऽवलम्बितेन  
+वेदानाम् अपि यद्+++(←ईश्वर)+++-अनुभव-निबन्धनं प्रामाण्यं  
+तद्-अनुभव एव हि पञ्च-रात्र-स्मरणस्य निदानम्,  
+</details>
+
+<details><summary>English</summary>
+
+But is there any reason why we should have to depend exclusively on the Veda  
+as the basis of the Pañcarātra tradition too?  
+The same direct knowledge which is the very foundation of the authority of the Vedas themselves  
+is also the foundation of the authority of the Pañcarâtra doctrine;  
+
+the authority of the latter is not based upon the relation of supporting authority  
+and supported authority which characterizes typical smarta injunctions,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तन्मूलतयाऽवलम्बितेन वेदानामपि यदनुभवनिबन्धनं प्रामाण्यं तदनुभव एव हि पञ्चरात्रस्मरणस्य निदानम्,  न खलु तुल्यमूलयोरष्टकाचमनस्मरणयोर्मिथोमूलमूलिभावः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न खलु तुल्य-मूलयोर् अष्टकाचमन-स्मरणयोर्  
+मिथो-मूल-मूलि-भावः ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+e.g., astakā and acamana which have their common basis in the Veda. 
+In fact, the two traditions of the aştaka rite and the acamana rite are not interdependent, but, they are equally and independently authoritative. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न खलु तुल्यमूलयोरष्टकाचमनस्मरणयोर्मिथोमूलमूलिभावः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परस्-परम् अपेक्षेते  
+तुल्य-कक्ष्ये न हि स्मृती ।  
+पञ्च-रात्र--श्रुती तद्वन्  
+नापेक्षते परस्परम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Similarly, Pañcarātra and Scripture are not interdependent.  
+</details>
+
+<details><summary>मूलम्</summary>
+
 परस्परमपेक्षेते तुल्यकक्ष्ये न हि स्मृती ।  
 पञ्चरात्रश्रुती तद्वन्नापेक्षते परस्परम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वेद-मूलत्व-हानेन  
+पञ्चरात्रे ऽवसीदति ।  
+कुतस् तन्-मूलता-हानाद्  
+आगमो नावसीदति ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If Pancaratra collapses as soon as it is denied the support of the Veda,  
+why then should the Veda not collapse when the support of Pañcaratra is taken away from it? 
+</details>
+
+<details><summary>मूलम्</summary>
+
 वेदमूलत्वहानेन पञ्चरात्रेऽवसीदति ।  
 कुतस्तन्मूलताहानादागमो नावसीदति ॥
+</details>
 
-आह किमेवं वेदा अपि पुरुषानुभवाधीनप्रामाण्याः पौरुषेया एव कस्संशयः, वाक्यत्वं हि पराधीनरचनत्वस्वभावमुपलभ्यमानं कथमपरथाऽवतिष्ठेत वेदनाम्नो ग्रन्थस्यायं महिमा यत्केनचिद् असन्दृब्धोऽपि वाक्यत्वेनावतिष्ठत इति चेत्, हन्त तर्हि पर्वतवर्तिनो धूमस्यायं महिमा यज्ज्बलनमन्तरेणानुच्छिन्नसन्तानो गगनतलमधिरोहतीति किमिति न स्यात् ।  
-ननु कथमतिक्रान्तमानान्तरावतारे धर्मे ग्रन्थः सन्दृभ्यते, मैवं यतस्सहजसंवेदनसाक्षात्कृतधर्माधर्म एव भगवान् जगदनुकम्पया वेदनामानं ग्रन्थमारचयतीति ।  
-किमस्ति धर्माधर्मगोचरमपि प्रत्यक्षम्,  बाढं कथमन्यथा तनुभुवनादिकार्यमुपजनयति, स हि तत्र कर्ता भवति यो यस्योपादानमुपकरणञ्च साक्षात्कर्तुं प्रभवति धर्माधर्मौ च जगदुपकरणमिति मीमांसकानामपि सम्मतमेव ।  
-अतस्तत्साक्षात्कारी कोऽप्याश्रयणीयः स च वेदानादौ निरमिमीतेति ।  
-यस्तु ब्रूते गिरिभुवनाऽऽदयो भावा न कार्या इति प्रतिब्रूयादेनम् ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आह - "किम् एवं वेदा अपि पुरुषानुभवाधीनप्रामाण्याः पौरुषेया एव?"
+</details>
+
+<details><summary>English</summary>
+
+19\. The Vedas derive their authority  
+from direct knowledge which originates from a person  
+and must therefore naturally derive from a person?
+</details>
+
+<details><summary>मूलम्</summary>
+
+आह - किमेवं वेदा अपि पुरुषानुभवाधीनप्रामाण्याः पौरुषेया एव?
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कस् संशयः?  
+वाक्यत्वं हि पराधीन-रचनत्व-स्वभावम् उपलभ्यमानं  
+कथम् अपरथा ऽवतिष्ठेत? 
+</details>
+
+<details><summary>English</summary>
+
+Who can doubt it?  
+For we perceive that words, from their very nature, depend for their composition  
+on some entity that is different from themselves. 
+
+[[17]]  
+How else could they exist at all?
+</details>
+
+<details><summary>मूलम्</summary>
+
+कस्संशयः, वाक्यत्वं हि पराधीनरचनत्वस्वभावमुपलभ्यमानं कथमपरथाऽवतिष्ठेत   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> वेदनाम्नो ग्रन्थस्यायं महिमा -  
+> यत् केनचिद् असन्दृब्धो ऽपि वाक्यत्वेनावतिष्ठत 
+> 
+> इति चेत्,
+</details>
+
+<details><summary>English</summary>
+
+If it is objected that 
+
+> the significance of the Book called Veda  
+just consists in this that  
+it does in fact exist as Word 
+though nobody has composed it, 
+
+then we reply; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+>> वेदनाम्नो ग्रन्थस्यायं महिमा   
+> यत्केनचिदसन्दृब्धोऽपि वाक्यत्वेनावतिष्ठत
+> 
+> इति चेत्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> हन्त तर्हि पर्वत-वर्तिनो धूमस्यायं महिमा  
+यज् ज्वलनम् अन्तरेणानुच्छिन्न-सन्तानो गगन-तलम् अधिरोहतीति  
+किम् इति न स्यात्?+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+why, if this were true,  
+then the significance of smoke on a mountain consists in this  
+that it whirls irrepressibly sky-high without fire!  
+It is utterly out of the question.11 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+हन्त तर्हि पर्वतवर्तिनो धूमस्यायं महिमा यज्ज्वलनमन्तरेणानुच्छिन्नसन्तानो गगनतलमधिरोहतीति किमिति न स्यात् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> ननु कथम् अतिक्रान्त-मानान्तरावतारे धर्मे  
+> ग्रन्थः सन्दृभ्यते?  
+> 
+> मैवं - यतस् सहज-संवेदन--साक्षात्-कृत-धर्माधर्म एव  
+> भगवान् जगद्-अनुकम्पया वेदम्-अनामानं ग्रन्थम् आरचयतीति ।  
+</details>
+
+<details><summary>English</summary>
+
+>> 20\. OBJECTION. But since the applicability' of the dharma  
+> cannot be shown by any of the means of knowledge,  
+> how can a book on it be composed?   
+>
+> REPLY. Don't argue like that:  
+> for the Bhagavan who, of course, has an immediate intuition of dharma and adharma  
+> through the knowledge which is natural to Him  
+> has had this Book called Veda composed out of compassion for the world. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु कथमतिक्रान्तमानान्तरावतारे धर्मे ग्रन्थः सन्दृभ्यते,  
+मैवं यतस्सहजसंवेदनसाक्षात्कृतधर्माधर्म एव भगवान् जगदनुकम्पया वेदनामानं ग्रन्थमारचयतीति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>>किम् अस्ति धर्माधर्म-गोचरम् अपि प्रत्यक्षम्?  
+</details>
+
+<details><summary>English</summary>
+
+21\. OBJECTION. But does this intuition or perception also encompass dharma and adharma? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किमस्ति धर्माधर्मगोचरमपि प्रत्यक्षम्?  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> बाढं कथम् अन्यथा तनु-भुवनादि-कार्यम् उपजनयति?  
+</details>
+
+<details><summary>English</summary>
+
+> REPLY. Certainly. How else would the Bhagavān be able to give rise to such effects as body, world etc.? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बाढं कथमन्यथा तनुभुवनादिकार्यमुपजनयति?  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स हि तत्र कर्ता भवति  
+> यो यस्योपादानम् उपकरणञ् च साक्षात्-कर्तुं प्रभवति।  
+</details>
+
+<details><summary>English</summary>
+
+For the maker of such effects must be one who is capable of perceiving their material and instrumental causes.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+स हि तत्र कर्ता भवति यो यस्योपादानमुपकरणञ्च साक्षात्कर्तुं प्रभवति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> धर्माधर्मौ च जगद्-उपकरणम्  
+> इति मीमांसकानाम् अपि सम्मतमेव ।  
+</details>
+
+<details><summary>English</summary>
+
+Now, dharma and adharma are the instrumental causes of the world";  
+this is also the consensus of the Mimāmsakas. 
+
+Consequently we must postulate a certain person who has this perceptual knowledge;  
+and that person must also be the one who created the Veda at the beginning. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> धर्माधर्मौ च जगदुपकरणमिति मीमांसकानामपि सम्मतमेव ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यस्तु ब्रूते  
+> "गिरि-भुवनाऽऽदयो भावा न कार्या" इति,  
+प्रतिब्रूयादेनम् -  
+</details>
+
+<details><summary>English</summary>
+
+22\. If one contends that such entities as mountains, earth and the like are not effects,  
+the "answer is as follows: 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> यस्तु ब्रूते गिरिभुवनाऽऽदयो भावा न कार्या इति,  
+प्रतिब्रूयादेनम् -  
+</details>
+
+
 विवादगोचरा भावाः कार्या विश्वम्भरादयः ।  
 विचित्रसन्निवेशत्वान्नरेन्द्रभवनादिबत् ।  
 तथा सावयवत्वेन विनाशोऽप्यवसीयते ॥  
