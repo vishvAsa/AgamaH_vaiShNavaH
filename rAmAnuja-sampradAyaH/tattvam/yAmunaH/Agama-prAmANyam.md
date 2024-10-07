@@ -3298,7 +3298,7 @@ just because it is subject to origination and annihilation, like a house.
 दृष्टन्तत्तादृशा कर्त्रा निर्मितन्तद्यथा गृहम् ॥
 </details>
 
-##### सकर्तृकत्वम्
+##### सृष्टेः सकर्तृकत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > न च वाच्यं -
@@ -3362,7 +3362,7 @@ an adze is incapable of effecting by itself such objects as a sacrificial pole,
 न हि चेतनेन तक्ष्णाऽनधिष्ठिता वासी स्वयमेव यूपादीन्यापादयितुमलम् ।
 </details>
   
-
+##### अपूर्व-निर्वाहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** चापूर्वाण्य् अधिष्ठाय  
@@ -3511,7 +3511,7 @@ Mantras, arthavadas, epic and purana corroborate this point; e.g.
 इत्येवमादयः ।
 </details>
 
-
+##### पाञ्चरात्रस्य साक्षात् प्रणयनम् 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > स चायम् आदिकाले भगवान्  
@@ -3619,30 +3619,275 @@ can they belong in the company of any Tradition, that of Manu or anyone?
 इति त्रयीसमानस्वतन्त्रानुभवमूलानि तन्त्राणि कथमिव यादृशतादृशमन्वादिस्मरणगोष्ठीमधितिष्ठन्ति ।  
 </details>
 
+#### वेदापौरुषेयत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**स्याद् एवं** यदि वेदानां  
+निर्माताऽपि प्रमाणतः ।  
+कुतश्चिद् उपलभ्येत -  
+**न** चासाव् **उपलभ्यते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. [[52]]  
+24\. If this is true, then on what authority is such a creator of the Vedas known to exist?  
+He is not directly perceived. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 स्यादेवं यदि वेदानां निर्माताऽपि प्रमाणतः ।  
 कुतश्चिदुपलभ्येत न चासावुपलभ्यते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**न** च वाक्यत्व-लिङ्गेन  
+वेद-कारो **ऽनुमीयते** ।  
+अभिप्रेत-विशेषाणां  
+विपर्यास-प्रसङ्गतः ।
+</details>
+
+<details><summary>English</summary>
+
+Nor can we infer from the fact that the Veda is word  
+that it therefore must have an author,  
+for that would entail the total reversion of your special contentions.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न च वाक्यत्वलिङ्गेन वेदकारोऽनुमीयते ।  
 अभिप्रेतविशेषाणां विपर्यासप्रसङ्गतः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वाक्यं हि यत् पराधीन-  
+रचनं **संप्रदृश्यते** ॥  
+शरीरिणैव तत् सर्वम्  
+**उच्यमानं विलोक्यते** ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+For an utterance that is perceived to depend for its composition on the agency of some being  
+is also perceived to be uttered by no one but an embodied being …
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 वाक्यं हि यत् पराधीनरचनं संप्रदृश्यते ॥  
 शरीरिणैव तत्सर्वमुच्यमानं विलोक्यते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुण्य-पाप-निमित्तञ् च  
+शरीरं सर्व-देहिनाम् ॥  
+एवं पुण्येतराधीन-  
+सुख-दुःखस्य देहिनः ।  
+अनीश्वरस्य निर्माणं  
+वाक्यत्वम् अनुमापयेत् ॥+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+[[21]]  
+whose happiness and unhappiness resulted from his good and evil karman,  
+and who therefore cannot be God.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 पुण्यपापनिमित्तञ्च शरीरं सर्वदेहिनाम् ॥  
 एवं पुण्येतराधीनसुखदुःखस्य देहिनः ।  
 अनीश्वरस्य निर्माणं वाक्यत्वमनुमापयेत् ॥  
+</details>
+
+##### धर्म-प्रामाण्यता-हानि-प्रङ्गः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि चैवं प्रमाणत्वं  
+वेदानाम् अपि दुर्लभम् ।  
+**न** हि मानान्तरापूर्वे  
+धर्मे तस्यास्ति **संभवः** ॥
+</details>
+
+<details><summary>English</summary>
+
+Moreover, in that case it would be impossible  
+to establish the authority of the Vedas themselves;  
+for if dharma-the Law-is not independent of other means of knowledge,  
+there is no exclusive authority of the Vedas." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अपि चैवं प्रमाणत्वं वेदानामपि दुर्लभम् ।  
 न हि मानान्तरापूर्वे धर्मे तस्यास्ति संभवः ॥
+</details>
 
-ननु कथं मानान्तरापूर्वो धर्मः, उक्तं हि साक्षात्करोति धर्माधर्मौ कथमन्यथा तदुपकरणं जगज्जनयति इति,
+### अकर्तृकं जगत्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु कथं मानान्तरापूर्वो धर्मः,  
+> उक्तं हि 
+> 
+> > साक्षात्-करोति धर्माधर्मौ -  
+> कथम् अन्यथा तद्-उपकरणं जगज् जनयति 
+> 
+> इति।
+</details>
+
+<details><summary>English</summary>
+
+25\. OBJECTION.  
+But why should dharma be independent of other means of knowledge?  
+For we have asserted that  
+
+> He has actual knowledge of dharma and adharma:  
+how else could He produce the world of which dharma and adharma are the instrumental causes? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननु कथं मानान्तरापूर्वो धर्मः, उक्तं हि साक्षात्करोति धर्माधर्मौ कथमन्यथा तदुपकरणं जगज्जनयति इति,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्यम् **उक्तं** - "कोऽपि निर्माता  
+तद्+++(=ततः)+++ विश्वस्य जगतो", **न** हि ।  
+**विद्यते** कोऽपि निर्माता  
+येनैवम् अपि **कल्प्यते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+REPLY.  
+That has indeed been asserted,  
+but the assertion is fallacious:  
+for no creator of the entire universe can be found  
+of whom this can be assumed. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 सत्यमुक्तं कोऽपि निर्माता तद् विश्वस्य जगतो न हि ।  
 विद्यते कोऽपि निर्माता येनैवमपि कल्प्यते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(लोकस्य→)+++ विचित्र-सन्निवेशत्व-  
+युक्त्या यद् अपि साधितम् +++(सकर्तृकत्वम्)+++ ।  
+तत्रोच्यते त्रिधा भावा  
+लौकिकैः परिलोकिताः ॥  
+</details>
+
+<details><summary>English</summary>
+
+To your argument that the world must be effected  
+because it has a complex construction  
+can be objected that empiricists distinguish three kinds of entities: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 विचित्रसन्निवेशत्वयुक्त्या यदपि साधितम् ।  
 तत्रोच्यते त्रिधा भावा लौकिकैः परिलोकिताः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यक्ष-दृष्ट-कर्तारः  
+केचिद् एते घटादयः ।  
+अ-विद्यमान-निर्माणास्  
+तथाऽन्ये गगनादयः ॥  
+सन्दिह्यमान-निर्माणाः  
+केचिद् विश्वम्-भरादयः ।  
+</details>
+
+<details><summary>English</summary>
+
+Those whose makers are evident to perception, e.g. pots and the like;  
+those which are not found to be made at all +++(eg. sky)+++;  
+and those whose creation remained doubtful, like the earth etc. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 प्रत्यक्षदृष्टकर्तारः केचिदेते घटादयः ।  
 अविद्यमाननिर्माणास्तथाऽन्ये गगनादयः ॥  
 सन्दिह्यमाननिर्माणाः केचिद् विश्वम्भरादयः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र प्रथम-सन्दर्शित-राशि-द्वये ऽनवकाश एवेश्वर-व्यापारः ।  
+</details>
+
+<details><summary>English</summary>
+
+In the two first-mentioned cases  
+there is no room for God's activity. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तत्र प्रथमसन्दर्शितराशिद्वयेऽनवकाश एवेश्वरव्यापारः ।  
-अद्यवदेव विश्वम्भरादयः क्रमप्राप्तागन्तुकोपचयापचययोर्न युगपदुदयविलयभागिनः ईदृशोत्पत्तिभङ्गौ मीमांसकानामपि सम्मतावेवेति सिद्धसाधनत्वम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्यवद् एव विश्वम्-भरादयः क्रम-प्राप्तागन्तुकोपचयापचययोर्  
+न युगपद् उदय-विलय-भागिनः। 
+</details>
+
+<details><summary>English</summary>
+
+As to the third, the earth etc. are not involved in a total origination or disintegrations,  
+but merely, as now, subject to varying degrees of increase and decrease which are adventitious. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अद्यवदेव विश्वम्भरादयः क्रमप्राप्तागन्तुकोपचयापचययोर्न युगपदुदयविलयभागिनः  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईदृशोत्पत्तिभङ्गौ मीमांसकानाम् अपि सम्मताव् एवेति सिद्ध-साधनत्वम् ।  
+</details>
+
+<details><summary>English</summary>
+
+To say that the Mimāmsakas accept origination and annihilation in this sense is to prove the proved.\* 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ईदृशोत्पत्तिभङ्गौ मीमांसकानामपि सम्मतावेवेति सिद्धसाधनत्वम् ।  
+</details>
+
+
 बुद्धिमत्कर्तृता याऽपि प्रयासेन समर्थिता ।  
 साध्यते साऽपि सिद्धैव बुद्धिमन्तो हि चेतनाः ॥  
 यागादिभिः स्वभोगाय तत्तदुत्पादयन्ति नः ॥  

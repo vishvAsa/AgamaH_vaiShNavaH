@@ -9,22 +9,6 @@ title = "Agama-prAmANyam en"
 
 
 
-REFUTATION.52 
-24\. If this is true, then on what authority is such a creator of the Vedas known to exist? He is not directly perceived. 
-J 
-Nor can we infer from the fact that the Veda is word that it therefore must have an author, for that would entail the total reversion of your special 
-contentions. 
-For an utterance that is perceived to depend for its composition on the agency of some being is also perceived to be uttered by no one but an embodied being. 
-
-22 
-21 
-happiness and unhappiness resulted from his good and evil karman, and who therefore cannot be God. 
-Moreover, in that case it would be impossible to establish the authority of the Vedas themselves; for if dharma-the Law-is not independent of other means of knowledge, there is no exclusive authority of the Vedas," 
-25\. OBJECTION. But why should dharma be independent of other means of knowledge? For we have asserted that He has actual knowledge of dharma and adharma: how else could He produce the world of which dharma and adharma are the instrumental causes? 
-REPLY. That has indeed been asserted, but the assertion is fallacious: for no creator of the entire universe can be found of whom this can be assumed. 
-To your argument that the world must be effected because it has a complex construction can be objected that empiricists distinguish three kinds of entities: 
-Those whose makers are evident to perception, e.g. pots and the like; those which are not found to be made at all; and those whose creation remained doubtful, like the earth etc. 
-In the two first-mentioned cases there is no room for God's activity. As to the third, the earth etc. are not involved in a total origination or disintegrations, but merely, as now, subject to varying degrees of increase and decrease which are adventitious. To say that the Mimārhsakas accept origination and annihilation in this sense is to prove the proved.\* 
 In our opinion, too, these intelligent agents bring about various results by means of sacrifices and other acts, in order to enjoy these results themselves; and 
 22 
 MOAVA PRĀMĀŅYAN 
