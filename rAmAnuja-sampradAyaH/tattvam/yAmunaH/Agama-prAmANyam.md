@@ -2819,6 +2819,7 @@ and therefore equally authoritative as the doctrinal works of Manu' and others.
 
 ### वेदैक-तुल्य-प्रमाणत्वम्?
 #### पूर्व-पक्षः (नैय्यायिकः)
+##### पौरुषेयत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्र कश्चिद् आह 
@@ -3012,7 +3013,7 @@ It is utterly out of the question.11
 हन्त तर्हि पर्वतवर्तिनो धूमस्यायं महिमा यज्ज्वलनमन्तरेणानुच्छिन्नसन्तानो गगनतलमधिरोहतीति किमिति न स्यात् ।  
 </details>
 
-
+##### धर्म-साक्षात्-कारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> ननु कथम् अतिक्रान्त-मानान्तरावतारे धर्मे  
@@ -3110,6 +3111,7 @@ and that person must also be the one who created the Veda at the beginning.
 > धर्माधर्मौ च जगदुपकरणमिति मीमांसकानामपि सम्मतमेव ।
 </details>
 
+##### जगत्-कार्यता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > यस्तु ब्रूते  
@@ -3183,7 +3185,7 @@ when we know by what means to destroy them.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ये पुनर् अ-परिदृष्ट-बुद्धिमद्-अधिष्ठान--तरु-पतनादि-शकलिता भावाः  
+> ये पुनर् अ-परिदृष्ट-बुद्धिमद्-अधिष्ठान--तरु-पतनादि-शकलिता भावाः  
 तेऽपि विमत्य्-आक्रान्ता  
 इति नानैकान्तिकत्वम् आवहन्ति ।  
 </details>
@@ -3204,32 +3206,339 @@ there can also be not positive certainty that the cause of their destruction is 
 ये पुनरपरिदृष्टबुद्धिमदधिष्ठानतरुपतनादिशकलिता भावाः तेऽपि विमत्याक्रान्ता इति नानैकान्तिकत्वमावहन्ति ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं च ।  
+> किं च -  
+>
+> महत्तया सनाथेन  
+स्पन्दमानत्व-हेतुना ।  
+उत्पत्ति-भङ्गौ भावानाम्  
+अनुमातुम् इहोचितौ ॥
+</details>
+
+<details><summary>English</summary>
+
+Motion, when there is mass, is sufficient ground to infer in this world  
+that an entity which has mass and can move is subject to origination and to destruction. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किं च -  
+
 महत्तया सनाथेन स्पन्दमानत्वहेतुना ।  
 उत्पत्तिभङ्गौ भावानामनुमातुमिहोचितौ ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद् एवम् उदीरित-न्याय-प्रसिद्धे विश्वम्-भरादि-कार्यत्वे  
+**सिध्यत्य् एव** भगवतस् तद्-उपकरण-धर्माधर्म-साक्षात्-कारित्वम् ।  
+</details>
+
+<details><summary>English</summary>
+
+It being thus established that earth etc. are indeed effects, on the grounds adduced above,  
+it follows that the Bhagavan has knowledge of dharma and adharma  
+which are the instrumental causes of origination and annihilation.\* 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तदेवमुदीरितन्यायप्रसिद्धे विश्वम्भरादिकार्यत्वे सिध्यत्येव भगवतस्तदुपकरणधर्माधर्मसाक्षात्कारित्वम् ।  
-तथा हि ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तथा हि -  
+>
+> विवादाध्यासिता भावा  
+येऽमी भू-भूधरादयः ।  
+ते यथोक्तावबोधेन  
+कर्त्रा केनापि **निर्मिताः** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Consequently, the entities here in question, earth, mountains and the like,  
+have been created by a maker who possesses the described knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि -  
+
 विवादाध्यासिता भावा येऽमी भूभूधरादयः ।  
 ते यथोक्तावबोधेन कर्त्रा केनापि निर्मिताः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उत्पत्ति-नाश-भागित्वाद्  
+यद्-उत्पत्ति-विनाशवद् ।  
+**दृष्टन्** तत्, तादृशा कर्त्रा  
+**निर्मितन्** - तद् यथा गृहम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Everything that has origin and end is, in our experience, created by such a maker,  
+just because it is subject to origination and annihilation, like a house. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 उत्पत्तिनाशभागित्वाद्यदुत्पत्तिविनाशवद् ।  
 दृष्टन्तत्तादृशा कर्त्रा निर्मितन्तद्यथा गृहम् ॥
+</details>
 
-न च वाच्यं कर्मणामेव स्वानुष्ठातृ पुरुषसमीहितानि संपादयतामन्तरा नान्तरीयकं तनुभुवनादिकार्यनिर्माणमिति यतश्चेतनानधिष्ठितानि तानि न कार्याणि जनयितुमुत्सहन्ते अचेतनत्वाद् वासीवत्, न हि चेतनेन तक्ष्णाऽनधिष्ठिता वासी स्वयमेव यूपादीन्यापादयितुमलम् ।  
+##### सकर्तृकत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न च वाच्यं -
+>
+> > कर्मणाम् एव स्वानुष्ठातृ-पुरुष-समीहितानि संपादयताम् अन्तरा  
+नान्तरीयकं +++(→कर्त्र्-आदि-युक्तं)+++ तनु-भुवनादि-कार्य-निर्माणम् 
+>
+> इति …  
+</details>
+
+<details><summary>English</summary>
+
+[[19]]  
+23\. Let it not be argued that  
+
+> there is no intermediate production of effects like body, world etc.  
+between acts that bring about the desires of the person who undertakes them, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च वाच्यं कर्मणामेव स्वानुष्ठातृ पुरुषसमीहितानि संपादयतामन्तरा नान्तरीयकं तनुभुवनादिकार्यनिर्माणमिति …  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यतश् चेतनानधिष्ठितानि तानि  
+**न** कार्याणि **जनयितुम्** उत्सहन्ते  
+अ-चेतनत्वाद् वासीवत्,  
+</details>
+
+<details><summary>English</summary>
+
+for these acts are unable to produce anything 
+unless they are used as an instrument by a spiritual being,  
+since they are non-spiritual themselves, like an adze:  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यतश्चेतनानधिष्ठितानि तानि न कार्याणि जनयितुमुत्सहन्ते अचेतनत्वाद् वासीवत्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न हि चेतनेन तक्ष्णाऽनधिष्ठिता वासी  
+स्वयम् एव यूपादीन्य् आपादयितुम् अलम् ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+without the operation of a spiritual being-- the carpenter-  
+an adze is incapable of effecting by itself such objects as a sacrificial pole, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि चेतनेन तक्ष्णाऽनधिष्ठिता वासी स्वयमेव यूपादीन्यापादयितुमलम् ।
+</details>
+  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **न** चापूर्वाण्य् अधिष्ठाय  
+वयं **निर्मातुम्** ईश्वराः ।  
+**न** हि कर्मोदयात् पूर्वं  
+साक्षात्-कर्तुं **क्षमामहे** ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+And we are not able to create through the instrumentality of apurva factors:  
+for before the actual fruition of the ritual act we cannot know their instrumentality,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न चा पूर्वाण्यधिष्ठाय वयं निर्मातुमीश्वराः ।  
 न हि कर्मोदयात् पूर्वं साक्षात्कर्तुं क्षमामहे ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उक्तं हि उपादानोपकरण-साक्षात्-कारिण एव  
+तत्र तत्र कर्तृत्वम् इति ।  
+</details>
+
+<details><summary>English</summary>
+
+and it has been said that only a person who has actual knowledge of the material and instrumental causes  
+can be a maker with respect to these causes. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 उक्तं हि उपादानोपकरणसाक्षात्कारिण एव तत्र तत्र कर्तृत्वमिति ।  
-न च कर्मजन्यापूर्वसाक्षात्कारक्षमः क्षेत्रज्ञः कश्चित् प्रज्ञायते प्रतिज्ञायते वा, अतः क्षेत्रज्ञतदुपभोगतत्साधनधर्माधर्मादिनिखिललोकावलोकनच तुरः कोऽपि निरतिशयशक्तिवैचित्र्यः पुरुषोभ्युपगन्तव्यः तस्य चाप्रतिघज्ञानत्वादयस्सहजाः ।  
-यथाऽहुः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न च कर्मजन्यापूर्व-साक्षात्-कार-क्षमः क्षेत्र-ज्ञः कश्चित् प्रज्ञायते प्रतिज्ञायते वा, 
+</details>
+
+<details><summary>English</summary>
+
+And there is no embodied soul which is known, or claimed, to be capable of having the required actual knowledge of the apurva that is to arise from the act. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च कर्मजन्यापूर्वसाक्षात्कारक्षमः क्षेत्रज्ञः कश्चित् प्रज्ञायते प्रतिज्ञायते वा, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अतः क्षेत्र-ज्ञ--तद्-उपभोग--तत्-साधन-धर्माधर्मादि--  
+> निखिल-लोकावलोकन-चतुरः कोऽपि निरतिशय-शक्ति-वैचित्र्यः पुरुषो **ऽभ्युपगन्तव्यः**,  
+> तस्य चाप्रतिघ-ज्ञानत्वादयस् सहजाः ।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore we must admit a Person of absolute omnipotence 
+who is able to take in at a glance the entire Universe with dharma and adharma of all embodied souls, their experiencing of karmic results etc.,  
+and in whose nature such properties as unrestricted knowledge etc. subsist. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः क्षेत्रज्ञतदुपभोगतत्साधनधर्माधर्मादिनिखिललोकावलोकनच तुरः कोऽपि निरतिशयशक्तिवैचित्र्यः पुरुषोभ्युपगन्तव्यः तस्य चाप्रतिघज्ञानत्वादयस्सहजाः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यथाऽहुः -  
+>
+> > ज्ञानम् अप्रतिघं तस्य  
+वैराग्यञ् च जगत्पतेः ।  
+ऐश्वर्यञ् चैव धर्मश् च  
+सहसिद्धं चतुष्टयम् ॥
+>
+> इति, 
+</details>
+
+<details><summary>English</summary>
+
+As they say: 
+"The unobstructed knowledge, perfect impartiality, omnipotence of a universal lord and dharma are all four established together." 
+</details>
+
+<details><summary>Español</summary>
+
+As they say: 
+"The unobstructed knowledge, perfect impartiality, omnipotence of a universal lord and dharma are all four established together." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथाऽहुः -  
+
 ज्ञानमप्रतिघं तस्य वैराग्यञ्च जगत्पतेः ।  
 ऐश्वर्यञ्चैव धर्मश्च सहसिद्धं चतुष्टयम् ॥
 
-इति, इममेवार्थं मन्त्रार्थवादेतिहासपुराणवादा उपोद्वलयन्तिद्यावापृथिवी जनयन् देव एकः ।  
-प्रजापतिर्वेदानसृजत ।  
-इत्येबमादयः ।  
-स चाय (प्रलयकाले)मादिकाले भगवान् प्रलीननिखिलकरणकलेवरादिभोगोपकरणचेतनेत (यथा हि जडास्तथैव चेतना अपि करणकलेवरविकला भोगभाजोनाभूवन्निति ते चेतनेतरायमाणा इत्युच्यन्ते ।)रायमाणजीवजालावलोकनजनितमहानुग्रहः सकलमपि जगदुपजनय्य तदभिलषितसमस्तसांसारिकसम्पत्प्राप्त्युपायप्रकाशानबहुला. म् त्रयीमेकतो निर्माय पुनरपि विविधदुरितपरम्पराकीर्णभवार्णवनिमग्ननुद्विग्नानुद्विग्नावलिकयन् परमकरुणतया तप्तमानसः परमनिश्रेयससाधनस्वाराधानावबोधसाधनीभूताः पञ्चरात्रसंहिताः सनत्कुमार-नारदादिभ्योऽभ्यवोचदिति त्रयीसमानस्वतन्त्रानुभवमूलानि तन्त्राणि कथमिव यादृशतादृशमन्वादिस्मरणगोष्ठीमधितिष्ठन्ति ।  
+इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इमम् एवार्थं मन्त्रार्थवादेतिहास-पुराण-वादा उपोद्वलयन्ति -
+</details>
+
+<details><summary>English</summary>
+
+Mantras, arthavadas, epic and purana corroborate this point; e.g. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इममेवार्थं मन्त्रार्थवादेतिहासपुराणवादा उपोद्वलयन्ति
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> द्यावा-पृथिवी जनयन् देव एकः ।  
+प्रजापतिर्वेदानसृजत ।
+
+इत्य् एवम् आदयः ।
+</details>
+
+<details><summary>English</summary>
+
+"The one god, Prajapati, creating heaven and earth, created the Vedas," etc. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+द्यावापृथिवी जनयन् देव एकः ।  
+प्रजापतिर्वेदानसृजत ।
+
+इत्येवमादयः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स चायम् आदिकाले भगवान्  
+प्रलीन-निखिल-करण-कलेवरादि--भोगोपकरण--  
+चेतनेतरायमाण-जीव-जालावलोकन-जनित-महानुग्रहः … 
+</details>
+
+<details><summary>English</summary>
+
+At the moment of inception  
+the great Grace of this Person who is the Bhagavan  
+is evoked by a glance at the aggregate of individual souls  
+who are almost in a state of non-spiritual stupor,   
+their instruments for the experiencing of karmic results- body, senses and other organs-being completely dissolved.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स चायमादिकाले (प्रलयकाले) भगवान् प्रलीननिखिलकरणकलेवरादिभोगोपकरणचेतनेतरायमाणजीवजालावलोकनजनितमहानुग्रहः 
+</details>
+
+
+सकलमपि जगदुपजनय्य तदभिलषितसमस्तसांसारिकसम्पत्प्राप्त्युपायप्रकाशानबहुलां त्रयीमेकतो निर्माय पुनरपि विविधदुरितपरम्पराकीर्णभवार्णवनिमग्ननुद्विग्नानुद्विग्नावलिकयन् परमकरुणतया तप्तमानसः परमनिश्रेयससाधनस्वाराधानावबोधसाधनीभूताः पञ्चरात्रसंहिताः सनत्कुमार-नारदादिभ्योऽभ्यवोचदिति त्रयीसमानस्वतन्त्रानुभवमूलानि तन्त्राणि कथमिव यादृशतादृशमन्वादिस्मरणगोष्ठीमधितिष्ठन्ति ।  
+
+(यथा हि जडास्तथैव चेतना अपि करणकलेवरविकला भोगभाजोनाभूवन्निति ते चेतनेतरायमाणा इत्युच्यन्ते ।)
+
 स्यादेवं यदि वेदानां निर्माताऽपि प्रमाणतः ।  
 कुतश्चिदुपलभ्येत न चासावुपलभ्यते ॥  
 न च वाक्यत्वलिङ्गेन वेदकारोऽनुमीयते ।  
