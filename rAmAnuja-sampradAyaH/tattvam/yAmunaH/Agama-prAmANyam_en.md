@@ -6,11 +6,9 @@ title = "Agama-prAmANyam en"
 
 
 
-His Grace evoked, 
-\*\*20 
-AOAMA TRAMANYAM 
-he originates the entire universe and simultaneously He creates the triple Veda which states pellucidly the means by which the souls in transmigration can realize the objects of their desires. Then again, perceiving that they are in a pitiable condition, being immersed in the ocean of existence which is perturbed by wave upon wave of all manner of iniquities, His heart burns with supreme compassion and He promulgates, through Sanatkumara, Narada etc., the Pancarãtra Sambitās which constitute the sources of knowledge about the manner in which He should be propitiated to attain to perfect bliss. 
-Forasmuch as the Tantras are therefore based upon an immediate cognition of the Lord and are consequently self-sufficient like the Vedas, can they belong in the company of any Tradition, that of Manu of anyone? 
+
+
+
 REFUTATION.52 
 24\. If this is true, then on what authority is such a creator of the Vedas known to exist? He is not directly perceived. 
 J 

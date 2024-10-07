@@ -3514,10 +3514,19 @@ Mantras, arthavadas, epic and purana corroborate this point; e.g.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स चायम् आदिकाले भगवान्  
+> स चायम् आदिकाले भगवान्  
 प्रलीन-निखिल-करण-कलेवरादि--भोगोपकरण--  
-चेतनेतरायमाण-जीव-जालावलोकन-जनित-महानुग्रहः … 
+चेतनेतरायमाण-जीव-जालावलोकन-जनित-महानुग्रहः +++(5)+++… 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आदिकले - प्रलयकाले।  
+यथा हि जडास्  
+तथैव चेतना अपि करण-कलेवर-विकला भोग-भाजोनाभूवन्न्  
+इति ते चेतनेतरायमाणा इत्य् उच्यन्ते ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3534,10 +3543,82 @@ their instruments for the experiencing of karmic results- body, senses and other
 स चायमादिकाले (प्रलयकाले) भगवान् प्रलीननिखिलकरणकलेवरादिभोगोपकरणचेतनेतरायमाणजीवजालावलोकनजनितमहानुग्रहः 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सकलमपि जगदुपजनय्य तदभिलषितसमस्तसांसारिकसम्पत्प्राप्त्युपायप्रकाशानबहुलां त्रयीमेकतो निर्माय पुनरपि विविधदुरितपरम्पराकीर्णभवार्णवनिमग्ननुद्विग्नानुद्विग्नावलिकयन् परमकरुणतया तप्तमानसः परमनिश्रेयससाधनस्वाराधानावबोधसाधनीभूताः पञ्चरात्रसंहिताः सनत्कुमार-नारदादिभ्योऽभ्यवोचदिति त्रयीसमानस्वतन्त्रानुभवमूलानि तन्त्राणि कथमिव यादृशतादृशमन्वादिस्मरणगोष्ठीमधितिष्ठन्ति ।  
+> सकलम् अपि जगद् उपजनय्य  
+तद्-अभिलषित-समस्त-सांसारिक-सम्पत्-प्राप्त्युपाय-प्रकाशन-बहुलां त्रयीम् एकतो निर्माय  
+</details>
 
-(यथा हि जडास्तथैव चेतना अपि करणकलेवरविकला भोगभाजोनाभूवन्निति ते चेतनेतरायमाणा इत्युच्यन्ते ।)
+<details><summary>English</summary>
+
+[[20]]  
+His Grace evoked, he originates the entire universe  
+and simultaneously He creates the triple Veda  
+which states pellucidly the means  
+by which the souls in transmigration can realize the objects of their desires.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+सकलमपि जगदुपजनय्य तदभिलषितसमस्तसांसारिकसम्पत्प्राप्त्युपायप्रकाशनबहुलां त्रयीमेकतो निर्माय  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पुनर् अपि विविध-दुरित--+++(तरङ्ग-)+++परम्-पराऽऽकीर्ण--भवार्णव-निमग्नान् उद्विग्नान् अवलोकयन् 
+</details>
+
+<details><summary>English</summary>
+
+Then again, perceiving that they are in a pitiable condition,  
+being immersed in the ocean of existence  
+which is perturbed by wave upon wave of all manner of iniquities,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुनरपि विविधदुरितपरम्पराकीर्णभवार्णवनिमग्ननुद्विग्नानवलोकयन्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परम-करुणतया तप्त-मानसः  
+परम-निश्रेयस-साधन-स्वाराधनावबोध-साधनी-भूताः पञ्च-रात्र-संहिताः सनत्-कुमार--नारदादिभ्यो **ऽभ्यवोचद्** 
+</details>
+
+<details><summary>English</summary>
+
+His heart burns with supreme compassion  
+and He promulgates, through Sanatkumara, Narada etc., the Pancarãtra Samhitās  
+which constitute the sources of knowledge  
+about the manner in which He should be propitiated to attain to perfect bliss. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+परमकरुणतया तप्तमानसः परमनिश्रेयससाधनस्वाराधनावबोधसाधनीभूताः पञ्चरात्रसंहिताः सनत्कुमार-नारदादिभ्योऽभ्यवोचद् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इति त्रयी-समान--स्व-तन्त्रानुभव-मूलानि तन्त्राणि  
+कथम् इव यादृश-तादृश-मन्व्-आदि-स्मरण-गोष्ठीम् अधितिष्ठन्ति ?+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+Forasmuch as the Tantras are therefore based upon an immediate cognition of the Lord  
+and are consequently self-sufficient like the Vedas,  
+can they belong in the company of any Tradition, that of Manu or anyone? 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति त्रयीसमानस्वतन्त्रानुभवमूलानि तन्त्राणि कथमिव यादृशतादृशमन्वादिस्मरणगोष्ठीमधितिष्ठन्ति ।  
+</details>
+
 
 स्यादेवं यदि वेदानां निर्माताऽपि प्रमाणतः ।  
 कुतश्चिदुपलभ्येत न चासावुपलभ्यते ॥  
