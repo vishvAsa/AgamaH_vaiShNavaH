@@ -5,33 +5,9 @@ title = "Agama-prAmANyam en"
 …
 
 
+ 
 
 
-
-
-[[22]]  
-In our opinion, too,  
-these intelligent agents bring about various results  
-by means of sacrifices and other acts,  
-in order to enjoy these results themselves;  
-and the assumption that they are indeed,  
-as is proved for both of us, instrumental therein is quite correct,  
-for we can have direct knowledge of these acts, sacrifices, donations and the like. However, the special power described with terms like apurva can never be open to perception. How then can we have use for a supervis ing God?55 
-26\. Certainly, it is not true that an agent, for instance a potter, when he wishes to produce a certain product-pots-must first have direct knowledge of the power of their material cause-clay-and instrumental cause-stick-to produce these products before he can actually undertake their production. Else people who are unaware of the power of the requisite causes would never be able to employ these causes in order to produce the results they want. In the case under discussion the persons concerned do indeed know which causes. are required to bring about the results they want, for they know these causes, such as sacrifices etc., through the knowledge they have obtained from eternal ScripThus, aided by these causes, they render mani
-ture. 
-fest such products as earth etc. 
-Also, there is no invariable rule that only an agent to whom the material and instrumental causes are fully known is capable of undertaking an action and nobody else. A man can still be an agent in the action of knowing without perceiving in his own mind the material and instrumental causes that go into the making of this action of knowing. Why, then, contend that the causes must be known first? 
-27\. The contention that the entire Universe is subject to annihilation because it has parts is incorrect. 
-4 
-Such a conclusion is 
-evidence against it. 
-
-23 
-cancelled by stronger perceptual For the knowledge that does arise in the world of here and now is plainly this: 'Here is the meru; here is the sun; here is the earth.' 
-Recognition conveys to us the knowledge that these entities are related to different times; and certainly both in former and later ages there arise similar persons who have the same notion of these entities' present existence. To put it in syllogistic form: 
-A 
-The past has persons who recognize earth, sun and mountain, because the past is time, like the present. 
-The same syllogism can be constructed with regard to the future. This reasoning does not entail the fallacious conclusion that pots etc. are eternal, for in their case origination and annihilation are directly evident. 
 It does not follow that, when a certain fact cannot be proved on the strength of a certain ground, since this ground involves a contradiction, this same ground cannot prove the same fact when it does not involve a contradiction.ST 
 The other inference that has been given to prove that the world is subject to origination and annihilation, namely on the ground of motion when there is mass, is likewise incorrect; for this ground, too, is cancelled by the greater cogency of recognition. Consequently, inference cannot provide positive proof that the world is subject to origination and annihilation. 
 28\. Further, you contend that there is a God, on the ground that the world is a product; but this ground precludes a specially qualified producer. For a product generally implies on the part of its producer a number 
