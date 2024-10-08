@@ -9,10 +9,14 @@ title = "Agama-prAmANyam en"
 
 
 
-In our opinion, too, these intelligent agents bring about various results by means of sacrifices and other acts, in order to enjoy these results themselves; and 
-22 
-MOAVA PRĀMĀŅYAN 
-the assumption that they are indeed, as'is proved for both of us, instrumental therein is quite correct, for we can have direct knowledge of these acts, sacrifices, donations and the like. However, the special power described with terms like apurva can never be open to perception. How then can we have use for a supervis ing God?55 
+[[22]]  
+In our opinion, too,  
+these intelligent agents bring about various results  
+by means of sacrifices and other acts,  
+in order to enjoy these results themselves;  
+and the assumption that they are indeed,  
+as is proved for both of us, instrumental therein is quite correct,  
+for we can have direct knowledge of these acts, sacrifices, donations and the like. However, the special power described with terms like apurva can never be open to perception. How then can we have use for a supervis ing God?55 
 26\. Certainly, it is not true that an agent, for instance a potter, when he wishes to produce a certain product-pots-must first have direct knowledge of the power of their material cause-clay-and instrumental cause-stick-to produce these products before he can actually undertake their production. Else people who are unaware of the power of the requisite causes would never be able to employ these causes in order to produce the results they want. In the case under discussion the persons concerned do indeed know which causes. are required to bring about the results they want, for they know these causes, such as sacrifices etc., through the knowledge they have obtained from eternal ScripThus, aided by these causes, they render mani
 ture. 
 fest such products as earth etc. 

@@ -3881,17 +3881,45 @@ but merely, as now, subject to varying degrees of increase and decrease which ar
 To say that the Mimāmsakas accept origination and annihilation in this sense is to prove the proved.\* 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ईदृशोत्पत्तिभङ्गौ मीमांसकानामपि सम्मतावेवेति सिद्धसाधनत्वम् ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बुद्धिमत् कर्तृता याऽपि  
+प्रयासेन **समर्थिता** ।  
+**साध्यते** साऽपि सिद्धैव  
+बुद्धिमन्तो हि चेतनाः ॥  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 बुद्धिमत्कर्तृता याऽपि प्रयासेन समर्थिता ।  
 साध्यते साऽपि सिद्धैव बुद्धिमन्तो हि चेतनाः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यागादिभिः स्व-भोगाय  
+तत् तद् **उत्पादयन्ति** नः ॥  
+युक्तञ् चोभय-सिद्धानां  
+तत्राधिष्ठान-कल्पनम् ।  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 यागादिभिः स्वभोगाय तत्तदुत्पादयन्ति नः ॥  
 युक्तञ्चोभयसिद्धानां तत्राधिष्ठानकल्पनम् ।  
+</details>
+
+
 वयञ्च यागदानादि साक्षात्कर्तुं क्षमा यतः ॥  
 कर्मणः शक्तिरूपं यदपूर्वादिपदास्पदम् ।  
 माभूत् प्रत्यक्षता तस्य किन्तेनाध्यक्षितेन नः ॥
