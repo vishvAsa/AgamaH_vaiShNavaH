@@ -8,8 +8,6 @@ title = "Agama-prAmANyam en"
  
 
 
-It does not follow that, when a certain fact cannot be proved on the strength of a certain ground, since this ground involves a contradiction, this same ground cannot prove the same fact when it does not involve a contradiction.ST 
-The other inference that has been given to prove that the world is subject to origination and annihilation, namely on the ground of motion when there is mass, is likewise incorrect; for this ground, too, is cancelled by the greater cogency of recognition. Consequently, inference cannot provide positive proof that the world is subject to origination and annihilation. 
 28\. Further, you contend that there is a God, on the ground that the world is a product; but this ground precludes a specially qualified producer. For a product generally implies on the part of its producer a number 
 24 
 ADAMA PRIMAṆYAM 

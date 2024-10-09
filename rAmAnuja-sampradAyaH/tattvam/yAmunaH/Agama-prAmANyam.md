@@ -4004,7 +4004,7 @@ Thus, aided by these causes, they render manifest such products as earth etc.
 इह तु नित्यागमजन्मना प्रत्ययेन संप्रत्याकलितयागादितत्तदुत्पादनपाटवाः पुरुषास्तैरेव विश्वम्भरादिभावानाविर्भावयन्ति,
 </details>
 
-
+### अकृतं जगत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा च,  
@@ -4151,22 +4151,54 @@ for in their case origination and annihilation are directly evident.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विरोधे सति येनात्मा  
-हेतुना नैव लभ्यते ।  
-न लभ्यते विरोधेऽपि  
-तेनात्मेत्यस्त्यसम्भवः ॥
+विरोधे सति येनात्मा +++(→तर्क-फलम्)+++  
+हेतुना **नैव लभ्यते** ।  
+**न लभ्यते** ऽविरोधेऽपि  
+तेनात्मेत्य् अस्त्य् **असम्भवः** ॥
 </details>
+
+<details><summary>English</summary>
+
+It does not follow that,  
+when a certain fact cannot be proved on the strength of a certain ground,  
+since this ground involves a contradiction,  
+this same ground cannot prove the same fact  
+when it does not involve a contradiction.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 विरोधे सति येनात्मा हेतुना नैव लभ्यते ।  
-न लभ्यते विरोधेऽपि तेनात्मेत्यस्त्यसम्भवः ॥
+न लभ्यते ऽविरोधेऽपि तेनात्मेत्यस्त्यसम्भवः ॥
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महत्त्वे सति स्पन्दमानत्व-युक्त्या  
+जगज्-जन्म-भङ्गश् च यः **प्रत्यपादि** ।  
+स च प्रत्यभिज्ञा-बल-ध्वस्त-हेतुर्  
+**न** हृद्यत्वम् अद्य **प्रपद्येत** युक्त्या ॥
+</details>
+
+<details><summary>English</summary>
+
+The other inference that has been given to prove that the world is subject to origination and annihilation,  
+namely on the ground of motion when there is mass,  
+is likewise incorrect;  
+for this ground, too, is cancelled by the greater cogency of recognition.  
+Consequently, inference cannot provide positive proof  
+that the world is subject to origination and annihilation.
+</details>
+
+<details><summary>मूलम्</summary>
 
 महत्त्वे सति स्पन्दमानत्वयुक्त्या जगज्जन्मभङ्गश्च यः प्रत्यपादि ।  
 स च प्रत्यभिज्ञाबलध्वस्तहेतुर्न हृद्यत्वमद्य प्रपद्येत युक्त्या ॥
+</details>
+
+
 
 अपि च धर्मिविशेषविरुद्धश्चायं हेतुः कार्यत्वादिति कार्यत्वं हि स्वभावदृष्टविग्रहवत्त्वानाप्तकामत्वानीश्वरत्वासार्वज्ञ्यादिव्याप्तिवित्युपयुक्ततरानेकविशेषानुषक्तं कथमिव तत्प्रत्यनीकभूताशरीरनित्यतृप्तसर्त्रज्ञत्वाद्यभिमतविशेषान् साध्यधर्मिण्यवगमयति, स्वशरीरप्रेरणमपि शरीरसम्बन्धासमवायिकारणकप्रयत्नवतो नान्यस्येति न कथंचिदशरीरिणः कर्तृत्वसंभवः ॥
 
