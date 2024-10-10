@@ -5,35 +5,16 @@ title = "Agama-prAmANyam en"
 …
 
 
-29\. OBJECTION. But if even a well-considered invariable concomitance cannot demonstrate that the cause of the earth etc. is an intelligent being, then all 
- 
-25 
-logical process of deduction is done with. But if deduction can indeed convey true knowledge, that it must also convey that there is a producer capable of creating 
-the entire universe. 
-T 
-REPLY. We do not say that your deduction fails to demonstrate that there is such a producer, but that it also demonstrates without discrimination as, many properties in this producer as, at the moment of grasping the concomitance, are known to obtain in any producer. 
-Nor do we carry our point too far. In a case where the term which we seek to establish through deduction can also be known through another means of knowledge, then this other means of knowledge may exclude from our term certain contrary properties which would have applied on the strength of our inferential mark alone. In the present instance, however, we are seeking to demonstrate God whose agency falls completely outside the scope of other means of knowledge; in his case therefore all the properties that participate in an invariable concomitance elicited through positive and negative consideration are indiscriminately established by the deduction, 
-A similarly occasional relationship between producer and product occurs, for instance, with grass that has grown just outside a house-garden. We cannot be positive that this grass has sprung from a person's action. In this instance, too, the assumption that a person, beyond the ken of our senses, has in fact been instrumental to the creation etc. of the world 'must remain entirely conjectural, 
-+ 
-24 
 
-of properties which are natural to him and therefore indispensable for the precise knowledge of the concomitance between him and his product. Properties like being in possession of a body, having something left to desire, being deprived of omnipotence and omniscience, etc. How, then, can the fact that the world is a product convey to us the knowledge that the producer proposed for it possesses the postulated properties, of being bodiless, eternally satisfied, omniscient etc., properties, that is, which are the opposite of what would naturally follow? The production of a product requires the activation of the body, which requires on the producer's part an effort whose inherent cause is his relation with a body and is impossible of any but just such a producer. It follows that under no condi
-tion bodiless person can be an agent. 
-Or if, in order to remove this fault from the argument, it is assumed that the producer indeed possesses a body, then the question arises, Is that body itself subject to origination or not? If it be subject to origination, there is infinite regress. If it be eternal, then your contention that whatever has parts must come to an end is not universally true. The solution of others, namely that God's special properties can be demonstrated by an ad-hoc conclusion, does not hold good either. For that rule holds only of a case where a conflict follows from a means of knowledge but does not actually exist. In our case, however, the conflict 
-is plain enough. 
-29\. OBJECTION. But if even a 'well-considered invariable concomitance cannot demonstrate that the cause of the earth etc, is an intelligent being, then all 
- 
-25 
-logical process of deduction is done with. But if deduction can indeed convey true knowledge, that it must also convey that there is a producer capable of creating the entire universe. 
-"ו: 
-لم 
-REPLY. We do not say that your deduction fails to demonstrate that there is such a producer, but that it also demonstrates without discrimination as many properties in this producer as, at the moment of grasping the concomitance, are known to obtain in any producer. 
-Nor do we carry our point too far. In a case where the term which we seek to establish through deduction can also be known through another means of knowledge, then this other means of knowledge may exclude from our term certain contrary properties which would have applied on the strength of our inferential mark alone. In the present instance, how. ever, we are seeking to demonstrate God whose agency falls completely outside the scope of other means of knowledge; in his case therefore all the properties that participate in an invariable concomitance elicited through positive and negative consideration are indiscriminately established by the deduction. 
-A similarly occasional relationship between producer and product occurs, for instance, with grass that has grown just outside a house-garden. We cannot be positive that this grass has sprung from a person's action. In this instance, too, the assumption that a person, beyond the ken of our senses, has in fact been instrumental to the creation etc. of the world must remain entirely conjectural. 
-4 
-26 
-AGAMA PRAMANYANI 
-30\. Another question to be considered is from what point in space, at what point in time, and to what purpose a person who is satisfied in all eternity would produce the universe. Every agent, c.g., a potter, produces a product by means of certain instruments, while occupying a certain space at a certain time and aiming at a certain result which he wants. If the production of the world is purely sport and without ulterior motivation, since God does not want anything, beware, for this states clearly that the Lord is by nature independent from anything beside Himself. Yet willynilly, without regard for anything He might wish, He shoulders the vast task of creating, sustaining and destroying the world. Is He in creating the creatures prompted by His compassion? But why, then, does He not create them happy? If you reply, because God takes karman into account, then you deny his complete independence. Besides, if their karman provides sufficient causes for these creatures' variety, why assume God at all? 
+
+
+
+
+
+
+
+Is He in creating the creatures prompted by His compassion?  
+But why, then, does He not create them happy? If you reply, because God takes karman into account, then you deny his complete independence. Besides, if their karman provides sufficient causes for these creatures' variety, why assume God at all? 
 Therefore, there cannot be such a person who is capable of creating the universe, of perceiving immediately dharma and adharma, and of composing the Vedas. 
 31\. Moreover, if the Vedas were created by someone, this creator would be remembered: 'He is the one who has composed them." 
 It is not proper to assume that he has been forgotten, just as the digger of an exhausted well is forgotten. The latter is justifiable because the well no longer serves a purpose. But in the case of the Vedas, who, without remembering that 
@@ -337,7 +318,7 @@ Likewise in the Bhavisyat Puraṇa,
 Visnu is traditionally known to be the Sepreme in the pathways of the Vedic doctrine. Visnu is the greatest among persons, the most exalted Supreme Person.""" 
 All this has already been explained in great detail in the Purusanirnayals and is therefore not further enlarged upon here. Therefore, how can our tongue endeavour to say that the Tantra which is revealed by Visanu who is known from the Upanisads is false? For He is such that He has an immediate insight into the dharma of Consecration, Propitiation etc., by virtue of the omniscience that is natural to Him.""" 
 82\. Considering that the sensual pleasure to be had from attainment of heaven, the birth of a son etc. is inseparable from various forms of misery and does not, continue for long, the supreme sages Sandilya,. Narada and others have rejected this pleasure, which in their view was really misery, and in order to attain the release left their dwellings to become mendicants; and they have decided definitively that He has created the Pancaratra Sastra which sets forth the knowledge and manner of propitiation of Himself which constitute the sole means of attaining the unparalleled beatitude they sought. 
-83\. This argument cannot be extended to other Tantras, for in the various authors of those Tantras error etc. is possible. It is impossible that PerceptionAGAMA PRAMANYANI 
+83\. This argument cannot be extended to other Tantras, for in the various authors of those Tantras error etc. is possible. It is impossible that Perception 
 69 
 or another means of knowledge forms the basis for the other Tantras, and they themselves do also not claim that Scripture is the basis. Besides, because they communicate a meaning that is incompatible with the conclusions of the upanisads the view that these Tantras are based on Perception or Scripture is sublated. 
 For there are four kinds of followers of the way of life set forth in those Tantras, the Kāpālikas, Kālamukhas, Pasupatas and Saivas. The Kapalika doctrine is described as follows: the reward of release is attained by knowing what the six mudrikas are and by wearing them, not by knowing Brahman. As they say, "He who knows the identities of the six mudrikas and is expert in the supreme Mudra, and meditates upon the self in the vulva posture, attains nirvana." 

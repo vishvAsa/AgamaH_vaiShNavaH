@@ -4004,14 +4004,14 @@ Thus, aided by these causes, they render manifest such products as earth etc.
 इह तु नित्यागमजन्मना प्रत्ययेन संप्रत्याकलितयागादितत्तदुत्पादनपाटवाः पुरुषास्तैरेव विश्वम्भरादिभावानाविर्भावयन्ति,
 </details>
 
-### अकृतं जगत्
+#### धर्म-साक्षात्-काराभावेऽपि सृष्टिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा च,  
+तथा च,
 
-> प्रत्यक्ष-प्रकृति+++(=उपादान)-+++-करणः कर्म-करण-प्रवीणो, नैवान्यः क्षम  
+> प्रत्यक्ष-प्रकृति+++(=उपादान)-+++-करणः कर्म-करण-प्रवीणो, नैवान्यः क्षम
 
-इति च नास्त्यत्र नियमः ॥  
+इति च नास्त्यत्र नियमः ॥
 </details>
 
 <details><summary>English</summary>
@@ -4019,15 +4019,15 @@ Thus, aided by these causes, they render manifest such products as earth etc.
 Also, there is no invariable rule  
 that only an agent to whom the material and instrumental causes are fully known  
 is capable of undertaking an action  
-and nobody else. 
+and nobody else.
 </details>
 
 
 <details><summary>मूलम्</summary>
 
 तथा च -  
-प्रत्यक्षप्रकृतिकरणः कर्मकरणप्रवीणो 
-नैवान्यः क्षम इति च नास्त्यत्र नियमः ॥  
+प्रत्यक्षप्रकृतिकरणः कर्मकरणप्रवीणो
+नैवान्यः क्षम इति च नास्त्यत्र नियमः ॥
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -4047,7 +4047,7 @@ without perceiving in his own mind the material and instrumental causes
 that go into the making of this action of knowing.  
 Why, then, contend that the causes must be known first?  
 27\. The contention that the entire Universe is subject to annihilation  
-because it has parts is incorrect. 
+because it has parts is incorrect.
 Such a conclusion is [[23]] cancelled by stronger perceptual evidence against it.
 
 For the knowledge that does arise in the world of here and now is plainly this:  
@@ -4065,6 +4065,8 @@ For the knowledge that does arise in the world of here and now is plainly this:
 धरित्री सैवेति स्फुटमिह यतोधीरुदयते ॥
 </details>
 
+#### अकृतं जगत्
+##### अनुमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्नोति हि प्रत्यभिज्ञैव  
@@ -4113,7 +4115,7 @@ because the past is time, like the present.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमनागतेऽपि प्रयोगो दर्शयितव्यः ।  
+एवम् अनागतेऽपि प्रयोगो दर्शयितव्यः ।  
 </details>
 
 <details><summary>English</summary>
@@ -4173,7 +4175,7 @@ when it does not involve a contradiction.
 न लभ्यते ऽविरोधेऽपि तेनात्मेत्यस्त्यसम्भवः ॥
 </details>
 
-
+##### महत्त्वादिना न कृतत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महत्त्वे सति स्पन्दमानत्व-युक्त्या  
@@ -4198,9 +4200,10 @@ that the world is subject to origination and annihilation.
 स च प्रत्यभिज्ञाबलध्वस्तहेतुर्न हृद्यत्वमद्य प्रपद्येत युक्त्या ॥
 </details>
 
+##### अनिष्ट-गुणापत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि च धर्मि-विशेष-विरुद्धश् "चायं हेतुः कार्यत्वाद्" इति  
+अपि च +++(कर्त्रन्मानेऽपि)+++ धर्मि-विशेष-विरुद्धश् चायं +++(ईश्वराख्यो)+++ हेतुः कार्यत्वाद् इति  
 कार्यत्वं हि  
 +++(कर्तृ-)+++स्वभाव--दृष्ट-विग्रहवत्त्व-+अनाप्त-कामत्व-+अनीश्वरत्वासार्वज्ञ्यादि-  
 व्याप्ति-वित्त्य्-उपयुक्ततरानेक-विशेषानुषक्तं,  
@@ -4336,21 +4339,196 @@ In our case, however, the conflict is plain enough.
 विरोधोऽस्यादृष्टः पुनरपि विरोधः स्फुटतरः ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च अवधृताविनाभाव-नियमम् अपि यदि  
+> न विश्वम्-भरादि-बुद्धिमन्-निमित्तताम् अवगमयति  
+> प्रत्यस्तिम् इतस् तर्ह्य् अनुमेयव्यवहारः।  
+> अथावगमयति - अवगमयत्य् एवासाव्  
+> अ-खिल-त्रैलोक्य-निर्माण-प्रवीणन् तमपि कर्तारम्,  
+</details>
+
+<details><summary>English</summary>
+
+[[25]]  
+29\. OBJECTION. But if even a well-considered invariable concomitance cannot demonstrate that the cause of the earth etc. is an intelligent being,  
+then all logical process of deduction is done with.  
+But if deduction can indeed convey true knowledge,  
+that it must also convey that there is a producer capable of creating the entire universe. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ननु च अवधृताविनाभावनियममपि यदि न विश्वम्भरादिबुद्धिमन्निमित्ततामवगमयति प्रत्यस्तिमितस्तर्ह्यनुमेयव्यवहारः, अथावगमयति, अवगमयत्येवासावखिलत्रैलोक्यनिर्माणप्रवीणन्तमपि कर्तारम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ब्रूमो नावगमयतीति -  
+किन्तु, यावन्तो +++(स-शरीरत्वादि-)+++विशेषाः व्याप्ति-ग्रहण-समय-संविदिताः  
+तान् अप्य् अ-विशेषेणोपस्थापयतीति ।  
+</details>
+
+<details><summary>English</summary>
+
+REPLY. We do not say  
+that your deduction fails to demonstrate that there is such a producer,  
+but that it also demonstrates without discrimination as many properties in this producer  
+as at the moment of grasping the concomitance, are known to obtain in any producer. 
+</details>
 
 
-ननु च अवधृताविनाभावनियममपि यदि न विश्वम्भरादिबुद्धिमन्निमित्ततामवगमयति प्रत्यस्तिमितस्तर्ह्यनुमेयव्यवहारः, अथावगमयति, अवगमयत्येवासावखिलत्रैलोक्यनिर्माणप्रवीणन्तमपि कर्तारम्,  न ब्रूमो नावगमयतीति किन्तु यावन्तो विशेषाः व्याप्तिग्रहणसमयसंविदिताः तानप्यविशेषेणोपस्थापयतीति ।  
-न च तावताऽतिप्रसङ्गः प्रमाणान्तरगोचरे हि लिङ्गिनि लिङ्गबलादापततोविपरीतविशेषा/स्तत्प्रमाणमेव प्रतिरुणद्धि अत्र पुनरतिपतितमानान्तरकर्मभावे भगवति सिषाधयिषिते यावन्तोऽन्वयव्यतिरेकावधारिताविनाभावभाजो धर्मास्तानप्यविशेषेणोपस्थापयतीति, तथा च प्राङ्गणनिकटवर्तिदूर्वाङ्कुरादिष्वनवसितपुरुषव्यापारजन्मस्वनैकान्तः, तत्राप्यतीन्द्रियपुरुषाधिष्ठानकल्पना कल्पनामात्रमेव ।  
-क्व वा देशे तिष्ठन्नवर (तिष्ठन्ननवरततृप्त) ततृप्तिः किमिति वा ।  
+<details><summary>मूलम्</summary>
+
+न ब्रूमो नावगमयतीति किन्तु यावन्तो विशेषाः व्याप्तिग्रहणसमयसंविदिताः तानप्यविशेषेणोपस्थापयतीति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तावताऽतिप्रसङ्गः 
+</details>
+
+<details><summary>English</summary>
+
+Nor do we carry our point too far. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च तावताऽतिप्रसङ्गः 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रमाणान्तर-गोचरे हि लिङ्गिनि  
+लिङ्ग-बलाद् आपततो विपरीत-विशेषांस्  
+तत्-प्रमाणम् एव प्रतिरुणद्धि
+</details>
+
+<details><summary>English</summary>
+
+In a case where the term  
+which we seek to establish through deduction  
+can also be known through another means of knowledge,  
+then this other means of knowledge may exclude from our term certain contrary properties  
+which would have applied on the strength of our inferential mark alone. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रमाणान्तरगोचरे हि लिङ्गिनि लिङ्गबलादापततोविपरीतविशेषांस्तत्प्रमाणमेव प्रतिरुणद्धि
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र पुनर् अतिपतित-मानान्तर-कर्म-भावे भगवति सिषाधयिषिते  
+यावन्तो ऽन्वय-व्यतिरेकावधारिताविनाभाव-भाजो धर्मास्  
+तान् अप्य् अ-विशेषेणोपस्थापयतीति, 
+</details>
+
+<details><summary>English</summary>
+
+In the present instance, however, we are seeking to demonstrate God whose agency falls completely outside the scope of other means of knowledge;  
+in his case therefore all the properties that participate in an invariable concomitance  
+elicited through positive and negative consideration  
+are indiscriminately established by the deduction, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र पुनरतिपतितमानान्तरकर्मभावे भगवति सिषाधयिषिते यावन्तोऽन्वयव्यतिरेकावधारिताविनाभावभाजो धर्मास्तानप्यविशेषेणोपस्थापयतीति, 
+</details>
+
+##### कल्पना-गौरवम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च प्राङ्गण-निकट-वर्ति-दूर्वाङ्कुरादिष्व् अनवसित-पुरुष-व्यापार-जन्मस्व् अनैकान्तः,  
+तत्राप्य् अतीन्द्रिय-पुरुषाधिष्ठान-कल्पना कल्पना-मात्रम् एव ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+A similarly occasional relationship between producer and product occurs,  
+for instance, with grass that has grown just outside a house-garden.  
+We cannot be positive that this grass has sprung from a person's action.  
+In this instance, too, the assumption that a person, beyond the ken of our senses, has in fact been instrumental to the creation etc. of the world   
+must remain entirely conjectural, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा च प्राङ्गणनिकटवर्तिदूर्वाङ्कुरादिष्वनवसितपुरुषव्यापारजन्मस्वनैकान्तः, तत्राप्यतीन्द्रियपुरुषाधिष्ठानकल्पना कल्पनामात्रमेव ।  
+</details>
+
+##### सृष्टि-कारणाभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्व वा देशे **तिष्ठन्न्**, अनवरत-तृप्तिः किम् इति वा   
+कदा वा निश्शेषञ् **जनयति** तद् एतद् **विमृशतु** ॥  
+क्वचित् **तिष्ठन्न्** इष्टं, किम् अपि फलम् उद्दिश्य करणैः   
+कदाचिद् यत्-किञ्चिज् **जनयति** कुलालादिर् अखिलः ॥
+</details>
+
+<details><summary>English</summary>
+
+[[26]] 
+ 
+30\. Another question to be considered is  
+from what point in space,  
+at what point in time,  
+and to what purpose  
+a person who is satisfied in all eternity would produce the universe.  
+Every agent, e.g., a potter, produces a product  
+by means of certain instruments,  
+while occupying a certain space at a certain time  
+and aiming at a certain result which he wants.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+क्व वा देशे तिष्ठन्ननवरतततृप्तिः किमिति वा   
 कदा वा निश्शेषञ्जनयति तदेताद्विमृशतु ॥  
-क्वचित्तिष्ठन्निष्टं किमपि फलमुद्दिश्य करणैः ।  
-कदाचिद्यत्किञ्चिज्जनयति कुलालादिरखिलः ॥  
-कृतार्थत्वात्क्रीडा न च भवति हेतुर्यदि खलु ।  
+क्वचित्तिष्ठन्निष्टं किमपि फलमुद्दिश्य करणैः   
+कदाचिद्यत्किञ्चिज्जनयति कुलालादिरखिलः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृतार्थत्वात् **क्रीडा**, **न** च भवति **हेतुर्** यदि खलु   
+स्व-भाव--स्वातन्त्र्यं प्रकटितम् अहो सम्प्रति विभोः ॥  
+**अभिप्रेतं** किञ्चिद् यद् अयम् **असमीक्ष्यैव कुरुते**   
+जगज्-जन्म-स्थेम-प्रविलय-महायासम् अवशः ॥  
+</details>
+
+<details><summary>English</summary>
+
+If the production of the world is purely sport and without ulterior motivation,  
+since God does not want anything, beware,  
+for this states clearly that the Lord is by nature independent from anything beside Himself.  
+Yet willynilly, without regard for anything He might wish, He shoulders the vast task of creating, sustaining and destroying the world.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कृतार्थत्वात्क्रीडा न च भवति हेतुर्यदि खलु   
 स्वभावस्वातन्त्र्यं प्रकटितमहो सम्प्रति विभोः ॥  
-अभिप्रेतं किञ्चिद्यदयमसमीक्ष्यैव कुरुते ।  
-जगज्जन्मस्थेमप्रविलयमहायासमवशः ॥  
-अनुकम्पाप्रयुक्तेन सृज्यमानाश्च जन्तवः ।  
+अभिप्रेतं किञ्चिद्यदयमसमीक्ष्यैव कुरुते   
+जगज्जन्मस्थेमप्रविलयमहायासमवशः ॥
+</details>
+
+
+अनुकम्पाप्रयुक्तेन सृज्यमानाश्च जन्तवः   
 सुखिनः किन्न सृज्यन्ते तत्कर्मापेक्षया यदि ॥  
-ततः स्वतन्त्रताहानिः किञ्च तैरेव हेतुभिः ।  
+ततः स्वतन्त्रताहानिः किञ्च तैरेव हेतुभिर्  
 उपपन्नेऽपि वैचित्र्ये किन्तत्कल्पनयाऽनया ॥
 
 अतो नास्ति तादृशः पुरुषः यस्समस्तजगन्निर्माणक्षमः साक्षात्कृतधर्माधर्मो वेदानारचयति ।  
