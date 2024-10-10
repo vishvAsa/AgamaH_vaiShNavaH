@@ -5,9 +5,6 @@ title = "Agama-prAmANyam en"
 …
 
 
-
-
-
 29\. OBJECTION. But if even a well-considered invariable concomitance cannot demonstrate that the cause of the earth etc. is an intelligent being, then all 
  
 25 
