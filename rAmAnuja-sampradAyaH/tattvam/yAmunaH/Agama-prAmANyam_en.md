@@ -13,22 +13,17 @@ title = "Agama-prAmANyam en"
 
 
 
-Is He in creating the creatures prompted by His compassion?  
-But why, then, does He not create them happy? If you reply, because God takes karman into account, then you deny his complete independence. Besides, if their karman provides sufficient causes for these creatures' variety, why assume God at all? 
-Therefore, there cannot be such a person who is capable of creating the universe, of perceiving immediately dharma and adharma, and of composing the Vedas. 
-31\. Moreover, if the Vedas were created by someone, this creator would be remembered: 'He is the one who has composed them." 
-It is not proper to assume that he has been forgotten, just as the digger of an exhausted well is forgotten. The latter is justifiable because the well no longer serves a purpose. But in the case of the Vedas, who, without remembering that 
 
-27\. 
-the author was reliable, would give credence to all the Vedic rites which are to be performed at the expense of great trouble involving the loss of various properties? Consequently, if it cannot be proved of the Vedas that they have been composed by a person, because this person, however worthy of remembrance, is not remembered, they can no more prove that God was their author than the Mahabharata and similar books can. Therefore the Vedas do not originate from a person. In consequence, the contention that the validity of Pañcaratra is based upon the same immediate cognition which is the basis of the validity of the Veda itself is the contention of those whose discrimination has been warped by their bias in favour of their own conclusions. 
-32\. OBJECTION. But in what does this 'preterpersonal' character of the Veda consist? If it consists in this that the Vedas are composed of eternal words, the same holds true of the Pañicarātra Tantra." Or if it is the eternity of the words that constitute it, again the same is true. It could not be the eternity of the word-sequence, for sequence cannot be natural to eternal entities. If it is said that it is the sequence of the sounds in so far as these sounds are pronounced in one particular sequence, then we reply that since a sequence of pronunciation is non-eternal, the sequence of the sounds pronounced cannot be eternal. So where does the difference lie between Pañçaratra and Vedic revelation? 
-REPLY. The difference lies herein that in the case of the Pañcaratra the sequence is created by an 
-28 
- 
-independent person, whereas in the case of the Veda, a dependent person invariably wishes to repeat the exact sequence which had been laid down before him by students who preceded him. A category of a different degree which is established on the strength of recognition should not be denied. And with this we conclude our lengthy disquisition. 
-33\. The preceding has proved that the proposition that the Pañcaratra is authoritative because it is based upon an immediate cognition of a person categorically different from other persons, is not viable at all. Since there is no means of knowledge by which the existence of a person who has immediate knowledge of good and evil can be proved, it follows that this Tantra must have been promulgated by some human being with the purpose of deceiving the world. 
-34\. OBJECTION. This would be true if proof of the existence of the Lord could only be sought on the strength of logical argumentation. As it is, this is a 
-fallacy, for the great Lord is known on the authority of the upaniṣads. When we hear the multitudinous statements of the eternal Scriptures which set forth the existence of an omniscient and omnipotent supreme Personality who is capable of creating the entire universe, how then can we refuse to accept the authority of a tradition which derives from His immediate cognition? 
+
+
+
+
+
+
+
+
+
+
 35\. To continue this topic," these scriptural statements do not exceed the bounds of their authority just because they are concerned with facts; for similarADAMA PRAMANYANI 
 29 
 statements made by persons concerning facts that are extremely remote from a connection with other means of knowledge cannot be denied the authority which is afforded them naturally. 

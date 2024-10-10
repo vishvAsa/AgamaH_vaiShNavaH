@@ -4525,28 +4525,400 @@ Yet willynilly, without regard for anything He might wish, He shoulders the vast
 जगज्जन्मस्थेमप्रविलयमहायासमवशः ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुकम्पा-प्रयुक्तेन **सृज्यमानाश्** च जन्तवः   
+सुखिनः किन् **न सृज्यन्ते** तत्-कर्मापेक्षया यदि ॥  
+ततः स्व-तन्त्रता-**हानिः**, किञ्च तैर् एव +++(कर्माख्यैर्)+++ हेतुभिर्  
+**उपपन्ने**ऽपि वैचित्र्ये किन् तत् +++(ईश्वर इति)+++ कल्पनयाऽनया ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Is He in creating the creatures prompted by His compassion?  
+But why, then, does He not create them happy?  
+If you reply, because God takes karman into account,  
+then you deny his complete independence.  
+Besides, if their karman provides sufficient causes for these creatures' variety,  
+why assume God at all? 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अनुकम्पाप्रयुक्तेन सृज्यमानाश्च जन्तवः   
 सुखिनः किन्न सृज्यन्ते तत्कर्मापेक्षया यदि ॥  
 ततः स्वतन्त्रताहानिः किञ्च तैरेव हेतुभिर्  
 उपपन्नेऽपि वैचित्र्ये किन्तत्कल्पनयाऽनया ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो नास्ति तादृशः पुरुषः  
+यस् समस्त-जगन्-निर्माण-क्षमः  
+साक्षात्-कृत-धर्माधर्मो वेदान् आरचयति ।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore, there cannot be such a person  
+who is capable of creating the universe,  
+of perceiving immediately dharma and adharma,  
+and of composing the Vedas. 
+</details>
+
+<details><summary>मूलम्</summary>
 
 अतो नास्ति तादृशः पुरुषः यस्समस्तजगन्निर्माणक्षमः साक्षात्कृतधर्माधर्मो वेदानारचयति ।  
+</details>
+
+#### वेद-कत्र्-अस्मरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च यदि वेदाः केनचिद् असृज्यन्त  
+ततस् तेनामी विरचिता इति  
+तत्-कर्ता स्मर्येत ।  
+</details>
+
+<details><summary>English</summary>
+
+31\. Moreover, if the Vedas were created by someone,  
+this creator would be remembered:  
+'He is the one who has composed them." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अपि च यदि वेदाः केनचिदसृज्यन्त ततस्तेनामी विरचिता इति तत्कर्ता स्मर्येत ।  
-न च जीर्णकूपादविवास्मरणं युक्तम्,  युज्यते हि तत्र प्रयोजनाभावात् कर्त्तुरस्मरणम्,  वेदे त्वनेकद्रव्यत्यागात्मकबहुतरायाससाध्यानि कर्माणि प्रत्ययिततरनिर्मातृस्मरणमन्तरेण के वा श्रद्दधीरन्, तथा हि नित्या वेदाः अस्मर्यमाणस्मरणार्हकर्त्तृकत्वाद् ये यथोक्तसाध्या न भवन्ति ते यथोक्तसाधना अपि न भवन्ति यथा भारतादयः, अमी तु यथोक्तसाधना इति यथोक्तसाध्या एव, तस्मादपौरुषेया वेदा इति ।  
-स्वसिद्धान्ताभिनिवेशव्यामुग्धबुद्धिभिरभिहितमिदम् ।  
-यदनुभवनिबन्धनं वेदप्रामाण्यं तदनुभवनिबन्धनं पञ्चरात्रप्रामाण्यमिति ।  
-ननु च किमिदमपौरुषेयत्वं वेदानाम्,  यदि नित्यवर्णारभ्दत्वं समानमिदं पञ्चरात्रतन्त्राणाम् ।  
-अथ पदानां नित्यता, सापि समानैव, न चानुपूर्वी नित्यता, न हि नित्यानामानुपूर्वी स्वभाव उपपद्यते, उच्चारणानुपूर्व्यादानुपूर्वी वर्णानामिति चेत् सा तर्हि तदनित्यत्वादेव अनित्येति कः खलु विशेषः पञ्चरात्रश्रुत्योः ।  
-अयममेव विशेषो यदेकत्र स्वतन्त्र एव पुरुषस्तां तामानुपूर्वी रचयति इतरत्र परतन्त्रो नियमेन पूर्वाध्येतृसिद्धामेव विवक्षति, क्रमावान्तरजातिश्च प्रत्यभिज्ञाबलप्रतिष्ठिता नापलापमर्हतीत्यलं प्रविस्तरेण ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च जीर्णकूपादाव् इवास्मरणं युक्तम्,  
+युज्यते हि तत्र +++(कूपादि-)+++प्रयोजनाभावात् कर्त्तुरस्मरणम्,  
+</details>
+
+<details><summary>English</summary>
+
+It is not proper to assume  
+that he has been forgotten,  
+just as the digger of an exhausted well is forgotten.  
+The latter is justifiable  
+because the well no longer serves a purpose.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च जीर्णकूपादाविवास्मरणं युक्तम्,  
+युज्यते हि तत्र प्रयोजनाभावात् कर्त्तुरस्मरणम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेदे त्व्  
+अनेक-द्रव्य-त्यागात्मक--बहुतरायास-साध्यानि कर्माणि  
+प्रत्ययिततर-निर्मातृ-स्मरणम् अन्तरेण के वा श्रद्दधीरन्, 
+</details>
+
+<details><summary>English</summary>
+
+But in the case of the Vedas, who,  
+without remembering that the author was reliable,  
+would give credence to all the Vedic rites  
+which are to be performed at the expense of great trouble  
+involving the loss of various properties? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वेदे त्वनेकद्रव्यत्यागात्मकबहुतरायाससाध्यानि कर्माणि प्रत्ययिततरनिर्मातृस्मरणमन्तरेण के वा श्रद्दधीरन्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि नित्या वेदाः  
+अ-स्मर्यमाण-स्मरणार्ह-कर्तृकत्वात्।   
+ये यथोक्त+++(←सकर्तृक??)+++-साध्या न भवन्ति,  
+ते यथोक्त+++(←ईश्वर-कर्तृत्व)+++-साधना अपि न भवन्ति  
+यथा भारतादयः,  
+अमी तु यथोक्त+++(←स्मृत-कर्तृ)+++-साधना इति यथोक्त+++(←सकर्तृक)+++-साध्या एव,
+</details>
+
+<details><summary>English</summary>
+
+Consequently, if it cannot be proved of the Vedas  
+that they have been composed by a person,  
+because this person, however worthy of remembrance, is not remembered,  
+they can no more prove that God was their author  
+than the Mahabharata and similar books can.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि नित्या वेदाः अस्मर्यमाणस्मरणार्हकर्तृकत्वाद् ये यथोक्तसाध्या न भवन्ति ते यथोक्तसाधना अपि न भवन्ति यथा भारतादयः, अमी तु यथोक्तसाधना इति यथोक्तसाध्या एव,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् अ-पौरुषेया वेदा इति ।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore the Vedas do not originate from a person. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तस्मादपौरुषेया वेदा इति ।  
+</details>
+
+#### न तुल्यापौरुषेयता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-सिद्धान्ताभिनिवेश-व्यामुग्ध-बुद्धिभिर् अभिहितम् इदम् -  
+यद्-अनुभव-निबन्धनं वेद-प्रामाण्यं  
+तद्-अनुभव-निबन्धनं पञ्च-रात्र-प्रामाण्यमिति ।
+</details>
+
+<details><summary>English</summary>
+
+In consequence, the contention that the validity of Pañcaratra is based upon the same immediate cognition  
+which is the basis of the validity of the Veda itself  
+is the contention of those whose discrimination  
+has been warped by their bias in favour of their own conclusions. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वसिद्धान्ताभिनिवेशव्यामुग्धबुद्धिभिरभिहितमिदम् - यदनुभवनिबन्धनं वेदप्रामाण्यं तदनुभवनिबन्धनं पञ्चरात्रप्रामाण्यमिति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च किम् इदम् अपौरुषेयत्वं वेदानाम्?  
+यदि नित्य-वर्णारब्धत्वं, समानम् इदं पञ्च-रात्र-तन्त्राणाम् ।  
+</details>
+
+<details><summary>English</summary>
+
+32\. OBJECTION. But in what does this 'preterpersonal' character of the Veda consist?  
+If it consists in this that the Vedas are composed of eternal words,  
+the same holds true of the Pañicarātra Tantra."  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च किमिदमपौरुषेयत्वं वेदानाम्,  यदि नित्यवर्णारब्धत्वं समानमिदं पञ्चरात्रतन्त्राणाम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अथ पदानां नित्यता, सापि समानैव।  
+</details>
+
+<details><summary>English</summary>
+
+Or if it is the eternity of the words that constitute it,  
+again the same is true. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+> अथ पदानां नित्यता, सापि समानैव।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न चानुपूर्वी-नित्यता, न हि नित्यानाम् आनुपूर्वी-स्वभाव उपपद्यते।  
+</details>
+
+<details><summary>English</summary>
+
+It could not be the eternity of the word-sequence,  
+for sequence cannot be natural to eternal entities. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> न चानुपूर्वीनित्यता, न हि नित्यानामानुपूर्वीस्वभाव उपपद्यते।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "उच्चारणानुपूर्व्याद् आनुपूर्वी वर्णानाम्" इति चेत्  
+सा तर्हि तद्+++(=आनुपूर्व्य्)+++-अनित्यत्वाद् एव अनित्येति  
+कः खलु विशेषः पञ्चरात्रश्रुत्योः ।  
+</details>
+
+<details><summary>English</summary>
+
+If it is said that it is the sequence of the sounds  
+in so far as these sounds are pronounced in one particular sequence,  
+then we reply that since a sequence of pronunciation is non-eternal,  
+the sequence of the sounds pronounced cannot be eternal.  
+So where does the difference lie between Pañçaratra and Vedic revelation? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उच्चारणानुपूर्व्यादानुपूर्वी वर्णानामिति चेत् सा तर्हि तदनित्यत्वादेव अनित्येति कः खलु विशेषः पञ्चरात्रश्रुत्योः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अयममेव विशेषो यद्  
+एकत्र स्व-तन्त्र एव पुरुषस् तां ताम् आनुपूर्वीं **रचयति**  
+इतरत्र पर-तन्त्रो नियमेन पूर्वाध्येतृ-सिद्धाम् एव **विवक्षति**,+++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+[[28]]  
+REPLY.  
+The difference lies herein that in the case of the Pañcaratra the sequence is created by an independent person,  
+whereas in the case of the Veda,  
+a dependent person invariably wishes to repeat the exact sequence  
+which had been laid down before him by students who preceded him. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अयममेव विशेषो यदेकत्र स्वतन्त्र एव पुरुषस्तां तामानुपूर्वीं रचयति इतरत्र परतन्त्रो नियमेन पूर्वाध्येतृसिद्धामेव विवक्षति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्रमावान्तर-जातिश् +++(=आनुपूर्वी??)+++ च प्रत्यभिज्ञा-बल-प्रतिष्ठिता नापलापम् अर्हतीत्य् अलं प्रविस्तरेण ।  
+</details>
+
+<details><summary>English</summary>
+
+A category of a different degree  
+which is established on the strength of recognition  
+should not be denied.  
+And with this we conclude our lengthy disquisition. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+क्रमावान्तरजातिश्च प्रत्यभिज्ञाबलप्रतिष्ठिता नापलापमर्हतीत्यलं प्रविस्तरेण ।  
+</details>
+
+#### निगमनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिद्धम् इदं न विलक्षण-पुरुषानुभव-निबन्धन-प्रामाण्य-वर्णनं साधीय इति ।  
+</details>
+
+<details><summary>English</summary>
+
+33\. The preceding has proved  
+that the proposition that the Pañcaratra is authoritative  
+because it is based upon an immediate cognition of a person  
+categorically different from other persons,  
+is not viable at all. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 सिद्धमिदं न विलक्षणपुरुषानुभवनिबन्धनप्रामाण्यवर्णनं साधीय इति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यतो न साक्षात्-कृत-पुण्य-पापः  
+पुमान् प्रमाण-प्रतिपन्न-सत्त्वः ।  
+अतो जगन्-मोहयितुं **प्रणीतं**  
+नरेण केनापि हि तन्त्रम् एतत् ॥  
+</details>
+
+<details><summary>English</summary>
+
+Since there is no means of knowledge  
+by which the existence of a person who has immediate knowledge of good and evil can be proved,  
+it follows that this Tantra must have been promulgated  
+by some human being with the purpose of deceiving the world. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यतो न साक्षात्कृतपुण्यपापः पुमान् प्रमाणप्रतिपन्नसत्त्वः ।  
 अतो जगन्मोहयितुं प्रणीतं नरेण केनापि हि तन्त्रमेतत् ॥  
+</details>
+
+#### ईश्वरे शब्द-प्रमाणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च केवल-तर्क-बलाद् अयं  
+यदि **सिषाधयिषा**-पदम् ईश्वरः ।  
+**भवतु** नाम तथा सति **दूषणं**  
+श्रुति-शिरः-**प्रमितो** हि महेश्वरः ॥
+</details>
+
+<details><summary>English</summary>
+
+34\. OBJECTION. This would be true if proof of the existence of the Lord  
+could only be sought on the strength of logical argumentation.  
+As it is, this is a fallacy,  
+for the great Lord is known on the authority of the upaniṣads. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ननु च केवलतर्कबलादयं यदि सिषाधयिषापदमीश्वरः ।  
 भवतु नाम तथा सति दूषणं श्रुतिशिरःप्रमितो हि महेश्वरः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यदा तु सकल-भुवन-निर्माण-क्षम--  
+सर्व-ज्ञ--सर्वेश्वर--परम-पुरुष-प्रतिपादकानि नित्यागम-वचनान्य् एव बहुलम् उपलभ्यन्ते  
+कथं तदा तद्-अनुभव-मूल-स्मरण-प्रामाण्यानङ्गीकरणम्?  
+</details>
+
+<details><summary>English</summary>
+
+When we hear the multitudinous statements of the eternal Scriptures  
+which set forth the existence of an omniscient and omnipotent supreme Personality  
+who is capable of creating the entire universe,  
+how then can we refuse to accept the authority of a tradition which derives from His immediate cognition? 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 यदा तु सकलभुवननिर्माणक्षमसर्वज्ञसर्वेश्वरपरमपुरुषप्रतिपादकानि नित्यागमवचनान्येव बहुलमुपलभ्यन्ते कथं तदा तदनुभवमूलस्मरणप्रामाण्यानङ्गीकरणम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च परिनिष्ठत-वस्तु-गोचरतया  
+तानि प्रमाण-मर्यादाम् अतिपतन्ति तादृशामपि प्रमाणान्तरसम्भेदातिदूरगोचराणां पौरुषेयवचसां स्वरससमासादितप्रामाण्यवारणायोगात् ।  
+</details>
+
+<details><summary>मूलम्</summary>
+
 न च परिनिष्ठतवस्तुगोचरतया तानि प्रमाणमर्यादामतिपतन्ति तादृशामपि प्रमाणान्तरसम्भेदातिदूरगोचराणां पौरुषेयवचसां स्वरससमासादितप्रामाण्यवारणायोगात् ।  
+</details>
+
+
 न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भवप्रसक्तेर्भावितानुबादविपर्ययपर्यालोचनया तद्गोचरवचसः प्रामाण्यप्रच्युतिः कार्यनिष्ठस्यापि तत्प्रसङ्गात्, कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेदमोदनपाकवादित्यभ्युपगमात् ।  
 अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
 अपि च प्रवृत्तप्रमाणान्तरमपि स्वगोचरं तद्गोचरतया नावभासयतीति परमपि प्रमाणमेव कुतस्तदुपनिपातसम्भावनयाऽनुवादत्वम्,  कथं वा प्रत्यस्तमितसमस्तपुरुषाशयदोषसंस्पर्शनित्यागमभुवः प्रत्ययस्य पूर्वोपमर्दकतयोन्नियमानस्य सम्भाव्यमानविविधविप्लवैः प्रमाणान्तररैपवादापादनमिति यत्किञ्चिदेतत् ।  
