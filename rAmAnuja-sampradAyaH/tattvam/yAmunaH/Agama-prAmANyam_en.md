@@ -5,15 +5,9 @@ title = "Agama-prAmANyam en"
 …
 
 
- 
 
 
-28\. Further, you contend that there is a God, on the ground that the world is a product; but this ground precludes a specially qualified producer. For a product generally implies on the part of its producer a number 
-24 
-ADAMA PRIMAṆYAM 
-of properties which are natural to him and therefore indispensable for the precise knowledge of the concomitance between him and his product. Properties like being in possession of a body, having something left to desire, being deprived of omnipotence and omniscience, etc. How, then, can the fact that the world is a product convey to us the knowledge that the producer proposed for it possesses the postulated properties, of being bodiless, eternally satisfied, omniscient etc., properties, that is, which are the opposite of what would naturally follow? The production of a product requires the activation of the body, which requires on the producer's part an effort whose inherent cause is his relation with a body and is impossible of any but just such a producer. It follows that under no condition bodiless person can be an agent. 
-Or if, in order to remove this fault from the argument, it is assumed that the producer indeed possesses a body, then the question arises, Is that body itself subject to origination or not? If it be subject to origination, there is infinite regress. If it be eternal, then your contention that whatever has parts must come to an end is not universally true. The solution of others, namely that God's special properties can be demonstrated by an ad-hoc conclusion, does not hold good either. For that rule holds only of a case where a conflict follows from a means of knowledge but does not actually exist. In our case, however, the conflict 
-is plain enough. 
+
 29\. OBJECTION. But if even a well-considered invariable concomitance cannot demonstrate that the cause of the earth etc. is an intelligent being, then all 
  
 25 
@@ -146,7 +140,7 @@ OBJECTION. Nonetheless, from the emphasis which in the statement "only sat was h
 REFUTATION. The reply to this is that here the emphasis on sat's uniqueness is with regard to the elements of wind, water and ether that were about to be created by sat. Were the soul excluded by this statement of sat's solitariness, then the soul's origin would have been described in the sequel, just as the creation of ether is described. This is not done; therefore the soul does not know birth, since in the sequel "That sat created fire, etc. we do not hear of the creation of the individual soul. 
 OBJECTION. However, in the text yato va imani bhūtāni etc. we hear that the souls too know origin, continuance and reabsorption. Iere the word bhita denotes the jiva, the individual soul; for thus we find the word used in the passage bhrāmayan sarvabhūtāni,ios The verb jianti "they live" in the text can only apply to the souls, the expression tena jayante "by whom they are born" evidently refers to these same souls. 
 REFUTATION. This is not right. The word bhito commonly denotes only the elements ether, wind, fire, water and earth. If the word is used for something 
-AGAMA PRAMANYAMI 
+I 
 41 
 Of these elements, 
 else, it is used metaphorically. ether etc. which are primarily understood by the word bhute, it is stated that they are variously modified and that they live. The verb "they live" describes a condition of being analogous to living. 
@@ -411,7 +405,7 @@ REFUTATION. Don't argue like that, for there is no negation in the sentence. For
 92\. The further objection that Pañcaratra is non-Vedic because of the injunction that those who are qualified for Vedic sacraments etc. must undergo such sacraments described as Consecration because they are propitiations of the Lord, does not hold good. For such statements as agnavaiṣṇavam.. 201 which enjoin the sacrament of consecration upon those qualified for Initiation etc. as accessory to the ritual of the jyotiştoma etc. do not therefore become non-Vedic. 
 Or if the ground for its non-Vedic character is the injunction of sacraments other than the Vedic ones, 
 78 
-AGAMA PRAUINYAM 
+ 
 the ground is inappropriate, because of the circular argument it involves: only if the non-Vedic character of Pancarātra Sastra is proved, it is proved that these sacraments arc rcally different; and if the latter is proved, it is proved that Pañcaratra Sastra is nonVedic. 
 Moreover, the ground is either that the Pancarātra sacraments are different from all Vedic sacraments, or that they are different from some Vedic sacraments. Not the latter alternative, for this would mean that the sacrament of Initiation ctc. is non-Vedic because it is different from the sacrament of Tonsure; nor the first alternative, because it does not escape the said defect? for the sacrament of Initiation is not different from all 
 Vedic sacraments; and we have said that the difference (of Pañcarātra sacraments) from Vedic sacraments is disproved on the ground that Pañcarātra Sastra is Vedic. 
@@ -485,7 +479,7 @@ Thus the sutra utpallyasambhavat means: "because it is impossible that a valid k
 root. 
 106\. OBJECTION. But why should the Vedas themselves be independent, since their validity, too, depends on the direct cognition of the Bhagavan, because this cognition is their cause? Just as the Pancaratra Traditions are dependent on His cognition, so are the Vedas too dependent on His cognition. 222 
 83 
-ADAMA PRIMINYAM 
+ 
 RITUTATION. To refute this view, the statement is made: na ca kartuḥ karaṇam: "The Vedas are not the product of a maker, i.c. the Bhagavan. Karana here in the sense of "things that are made or produced," by the rule "suffix-aia in the sense of the object of the action."2" This then means that the 
 Vedas are preterhuman. 
 107\. Vijñānādibhrive vai tadapratised halt. If, on the other hand, it is not true that the Pañcaratra Sastra is invalid, then what? tadapratised hali, i e. non-rejection of the origination of valid knowledge (namely, even when partly conflicting, the conflicting statement may be valid optionally), because it is based upon the direct cognition of the Bhagavan in whom error and deceit are impossible as He is a source of vijñāna (vijñānādibhāve): Vijñāna means "knowledge par excellence in which no mistake is possible. For since all other authors of Dharmasastras are not omniscient, as they are involved in samsara, and since therefore they are also not entirely selfsufficient, various lapses are con ceivable in their knowledge. Whereas in the case of the Bhagavan, whose supremacy is natural and unlimited, His knowledge is the immediate insight in all dharma and adharma, which is natural to Him and true, as is known from hundreds of śrutis; it is this knowledge which in the sutra is described as vijñāna, When such knowledge is the 'beginning,' i.e. the basis, there is non-rejection, sc. the Sastra is valid. 
@@ -591,7 +585,7 @@ JOAMA PRAMANYAN
 fore by Circumstantial-Implication furnish proof that a man is a brahmin; for knowledge of that sentencemeaning presupposes knowledge of the word-meaning of brahminhood etc. 
 125\. REFUTATION. All this does not make for a defect in my argument. There is no invariable rule that Perception becomes manifest only at the first contact between sense and object and not otherwise Perception is that which illumines the unmanifest while there is continuity of the operation of the senses. Thus there can be Perception of brahminhood; for when we keep our eyes open we note, immediately upon observing the particular differentiae of the genus brahminhood, that the brahminhood is quite clearly noticeable in those who belong to the families of the different gotras-Vasistha, Kasyapiya Sathamarṣaṇa etc.--, who are pure in their conduct, and who display the sacred thread, upper cloth, hairtuft and munja grass girdle. Nor does it run counter to ordinary experience that the eyes can convey brahminhood in dependence on the observation of the peculiarities of genus. every case the sense becomes the cause of the rise of determination of sense-object when favoured by the accompanying circumstances of place, time, configuration etc. It is the natural function of the sense-organ as such to relate itself to these accompanying circum. stances. As the author says: "No organ of knowledge, whether in Veda or in ordinary process, becomes efficacious in determining the object that is to be realized through the accompanying circumstances unless it is favoured by these circumstances, Consequently the visual sense, when favoured by the recollection 
 In 
-AGAMA PRIMIYYAM 
+ 
 105 
 of genus, gives knowledge of brahminhood without the object giving up its perceptuality. So it is evident that the visual sense can be the instrument of knowledge of genus in dependence on a variety of accompanying factors. Gold becomes manifest through its colour fromcopper etc., gheeis differentiated from oil, through its smell and taste; fire, which is hidden by ashes, perceived through touching the ashes. 
 Sound may provide us with proof that there is a horse in the distance; a pitcher etc. are known through their configuration; brahminhood through descent, and also through conduct in certain particulars, which is completely protected by the king. 
@@ -1025,7 +1019,7 @@ be denied.
 234\. namely, in the example of the burning lamp: is it the same flame that burns at six o'clock and at seven o'clock? We don't see the flame change or be succeeded by another flame. Only inference shows that since there is a different amount of oil in the lamp at different times, it is different oil that is burning as a flame, so that the flame is really different. The sense perception is of the varying amounts of oil. 
 142 
 235\. The Naiyayikas. 
-AGAMA PRAMAṆYAM 
+ 
 236\. Since Brahma is the creator of the world, he can know whether there were Vedas or not before creation; by taking away Brahma's memory, God in His omnipotence could start the myth of the preterpersonal origin of the Veda.. 
 237\. not identified. 
 238\. 

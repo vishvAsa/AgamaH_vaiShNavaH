@@ -4202,9 +4202,23 @@ that the world is subject to origination and annihilation.
 
 अपि च धर्मि-विशेष-विरुद्धश् "चायं हेतुः कार्यत्वाद्" इति  
 कार्यत्वं हि  
-स्वभाव--दृष्ट-विग्रहवत्त्व-+अनाप्त-कामत्व-+अनीश्वरत्वासार्वज्ञ्यादि-  
++++(कर्तृ-)+++स्वभाव--दृष्ट-विग्रहवत्त्व-+अनाप्त-कामत्व-+अनीश्वरत्वासार्वज्ञ्यादि-  
 व्याप्ति-वित्त्य्-उपयुक्ततरानेक-विशेषानुषक्तं,  
 </details>
+
+<details><summary>English</summary>
+
+[[24]]  
+28\. Further, you contend that there is a God, on the ground that the world is a product;  
+but this ground precludes a specially qualified producer.  
+For a product generally implies on the part of its producer  
+a number of properties which are natural to him  
+and therefore indispensable for the precise knowledge of the concomitance between him and his product -  
+Properties like being in possession of a body,  
+having something left to desire,  
+being deprived of omnipotence and omniscience, etc.  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -4213,23 +4227,116 @@ that the world is subject to origination and annihilation.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथमिव तत्प्रत्यनीकभूताशरीरनित्यतृप्तसर्त्रज्ञत्वाद्यभिमतविशेषान् साध्यधर्मिण्यवगमयति,
+**कथम्** इव तत्-प्रत्यनीक-भूताशरीर-नित्य-तृप्त-सर्वज्ञत्वाद्य्-अभिमत-विशेषान् साध्य-धर्मिण्य् **अवगमयति**?+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+How, then, can the fact that the world is a product  
+convey to us the knowledge that the producer proposed for it  
+possesses the postulated properties, of being bodiless, eternally satisfied, omniscient etc., properties,  
+that is, which are the opposite of what would naturally follow? 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 कथमिव तत्प्रत्यनीकभूताशरीरनित्यतृप्तसर्त्रज्ञत्वाद्यभिमतविशेषान् साध्यधर्मिण्यवगमयति,
-
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-शरीर-प्रेरणम् अपि शरीर-सम्बन्धासमवायि-कारणक-प्रयत्नवतो नान्यस्येति  
+न कथंचिद् अशरीरिणः कर्तृत्व-संभवः ॥
+</details>
+
+<details><summary>English</summary>
+
+The production of a product requires the activation of the body,  
+which requires on the producer's part an effort  
+whose inherent cause is his relation with a body 
+and is impossible of any but just such a producer. 
+It follows that under no condition bodiless person can be an agent. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 स्वशरीरप्रेरणमपि शरीरसम्बन्धासमवायिकारणकप्रयत्नवतो नान्यस्येति न कथंचिदशरीरिणः कर्तृत्वसंभवः ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथैतद्-दोष-हानाय  
+देहवान् इत्य् उपेयते ।  
+स देहो जन्मवान् मा वा?  
+जन्मवत्त्वे ऽनवस्थितिः ॥  
+नित्यत्वेऽवयवित्वञ्च  
+स्याद् अनैकान्तिकन् तव +++("सावयवम् अनित्यम्" इति वदतः)+++ ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+Or if, in order to remove this fault from the argument,  
+it is assumed that the producer indeed possesses a body,  
+then the question arises,  
+Is that body itself subject to origination or not?  
+If it be subject to origination,  
+there is infinite regress.  
+If it be eternal, then your contention that  
+whatever has parts must come to an end is not universally true.  
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अथैतद्दोषहानाय देहवानित्युपेयते ।  
 स देहो जन्मवान् मा वा जन्मवत्त्वेऽनवस्थितिः ॥  
-नित्यत्वेऽवयवित्वञ्च स्यादनैककान्तिकन्तव ।  
-यदप्येतेऽवोचन्नधिकरणसिद्धान्तबलतोविशेषास्सिध्यन्तीत्ययमपि च पन्था न घटते ।  
+नित्यत्वेऽवयवित्वञ्च स्यादनैकान्तिकन्तव ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अप्य् एतेऽवोचन्न्  
+"अधिकरण-सिद्धान्त-बलतो विशेषास् सिध्यन्ती"त्य्  
+अयम् अपि च पन्था न घटते ।
+</details>
+
+<details><summary>English</summary>
+
+The solution of others, namely that God's special properties can be demonstrated by an ad-hoc conclusion, does not hold good either. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदप्येतेऽवोचन्नधिकरणसिद्धान्तबलतोविशेषास्सिध्यन्तीत्ययमपि च पन्था न घटते ।
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स हि न्यायो जीवेद् अपि यदि च मानान्तरकृतो ।  
+विरोधो ऽस्यादृष्टः, पुनर् +++(अत्र)+++ अपि विरोधः स्फुटतरः ॥
+</details>
+
+<details><summary>English</summary>
+
+For that rule holds only of a case where  
+a conflict follows from a means of knowledge  
+but does not actually exist.  
+In our case, however, the conflict is plain enough. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 स हि न्यायो जीवेदपि यदि च मानान्तरकृतो ।  
 विरोधोऽस्यादृष्टः पुनरपि विरोधः स्फुटतरः ॥
+</details>
+
+
 
 ननु च अवधृताविनाभावनियममपि यदि न विश्वम्भरादिबुद्धिमन्निमित्ततामवगमयति प्रत्यस्तिमितस्तर्ह्यनुमेयव्यवहारः, अथावगमयति, अवगमयत्येवासावखिलत्रैलोक्यनिर्माणप्रवीणन्तमपि कर्तारम्,  न ब्रूमो नावगमयतीति किन्तु यावन्तो विशेषाः व्याप्तिग्रहणसमयसंविदिताः तानप्यविशेषेणोपस्थापयतीति ।  
 न च तावताऽतिप्रसङ्गः प्रमाणान्तरगोचरे हि लिङ्गिनि लिङ्गबलादापततोविपरीतविशेषा/स्तत्प्रमाणमेव प्रतिरुणद्धि अत्र पुनरतिपतितमानान्तरकर्मभावे भगवति सिषाधयिषिते यावन्तोऽन्वयव्यतिरेकावधारिताविनाभावभाजो धर्मास्तानप्यविशेषेणोपस्थापयतीति, तथा च प्राङ्गणनिकटवर्तिदूर्वाङ्कुरादिष्वनवसितपुरुषव्यापारजन्मस्वनैकान्तः, तत्राप्यतीन्द्रियपुरुषाधिष्ठानकल्पना कल्पनामात्रमेव ।  
