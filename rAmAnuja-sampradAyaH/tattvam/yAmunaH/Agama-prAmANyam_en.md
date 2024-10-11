@@ -659,31 +659,10 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 
 
-## 
+## Notes
  
-[^41]: 
 
- 
-[^42]: 
-
-
-[^43]:  
-[^44]:  
-[^45]: Since they are products, they have been produced by a person (God) who knew the means by which to produce them (dharma and adharma). 
-[^46]: This is the Mimasā view which holds that the dharma and adharma as instruments in creation are always the dharma and adharma of a particular intelligent being whose body is itself the product of dharms and adharma and can therefore never, however intelligent he may be, control them. The Mimimsaka admits that the universe, being made up of parts, is subject to origination and destruction, but never at one time, since all entities presuppose former acts that have brought them about. 
-
-127 
-The law of dharma and adharma necessarily operates eternally. No agency is possible which can intervene in this eternal operation fromact to act, by either beginning or ending the universe. On this cf. Prakarapapafcikā, p. 137 ff. for the Prabhakara view, and Slokavirttika, Sambandhākṣepaparihara 47-116 for the Bhitta view. 47. lit. "that which is unprecedented, not known before, se. by other means of knowledge" in Mimāmsā it describes especially that suprasensible power inherent in the act which makes it produce its result. 
-[^48]: The argument is that one cannot know that the act will indeed produce an effect until this effect has materialized; thus the act's power-apurea-cannot be known beforehand as the instrument of effectuation. By the Naiyayika's definition only one who knows what instruments are effective in production can actually produce. 49. unidentified. 
-[^50]: mantra and arthavada: the terms indicate that the Naiyayika continues to address the Mimimsaka, for these of course are Mimāmsā terms, mantra being the Vedic formula used at the ritual, arthavada the descriptive, noninjunctive passages of Brahmana and later Vedic texts. 51. RV. 10. 90. 14. 
-[^52]: Yamuna concurs in the Mimāmsaka's refutation of the Naiyayika's views, to the extent that he too rejects that the existence of God can be proved by reason; but he will counter the Mimagisa assertion that God cannot be proved at all, that in fact there is neither room nor purpose for a God in the universe. For Yamuna, God has all the characteristics He has for the Naiyayika, but he proves them from Scripture, not reason. 
-[^53]: That which makes the Veda authoritative, i.e., a means of valid knowledge, is just this that it communicates knowledge of apurva facts, e.g., that a soma sacrifice is a means of attaining heaven, i.e., generally matters pertaining to dharma. 
-20 
-120 
-
-[^51]: the individual soul. 
-\*55. supra note. 
-[^56]: Since the aparea power is suprasensible, it can never be 
+[^56]: Since the apūrva power is suprasensible, it can never be 
 perceived, and the assumption of a God who 'supervises' and controls this power because he perceives it is absurd. 57. read na labhyate "oirodhe" pi; the meaning is this: when a certain fact (the eternality of pots) cannot be proved by a ground (recollection) because this ground contains a contradiction (it is recollected that pots having existed cease to exist), this does not prove that the same ground (recollection) cannot prove the eternality of earth, mountains, etc., when there is no contradiction contained in it (nobody has recollection of a vanishing mountain). 50. adhikaranasiddhanta is a conclusion which, as soon as one thing is established (e.g., that there is a world creator), establishes another topic discussed (e.g., omniscience). On this question, ef. Tarkabhāṣā 43. 
 [^59]: It is the contention of Mimamsa that words and their capacity of conveying meaning are eternal. 
 [^60]: Sequence, of course, supposes priority and posteriority of the entities in sequence, while eternals are co-eternal. 

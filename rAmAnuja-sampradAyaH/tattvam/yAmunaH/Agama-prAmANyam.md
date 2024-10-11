@@ -3440,8 +3440,13 @@ that an entity which has mass and can move is subject to origination and to dest
 
 It being thus established that earth etc. are indeed effects, on the grounds adduced above,  
 it follows that the Bhagavan has knowledge of dharma and adharma  
-which are the instrumental causes of origination and annihilation.\* 
+which are the instrumental causes of origination and annihilation. 
 
+</details>
+
+<details><summary>English - Notes</summary>
+
+Since they are products, they have been produced by a person (God) who knew the means by which to produce them (dharma and adharma).
 </details>
 
 
@@ -3516,6 +3521,27 @@ just because it is subject to origination and annihilation, like a house.
 between acts that bring about the desires of the person who undertakes them, 
 </details>
 
+<details><summary>English</summary>
+
+This is the Mimaṁsā view  
+which holds that the dharma and adharma as instruments in creation  
+are always the dharma and adharma of a particular intelligent being  
+whose body is itself the product of dharma and adharma  
+and can therefore never, however intelligent he may be, control them.  
+The Mimimsaka admits that the universe, being made up of parts, is subject to origination and destruction,  
+but never at one time, since all entities presuppose former acts that have brought them about.
+
+[[127]]  
+The law of dharma and adharma necessarily operates eternally.  
+No agency is possible which can intervene in this eternal operation from act to act,  
+by either beginning or ending the universe.  
+On this cf. Prakaraṇapañcikā, p. 137 ff. for the Prabhakara view, and Slokavārttika, Sambandhākṣepaparihāra 47-116 for the Bhitta view.[[127]]  
+The law of dharma and adharma necessarily operates eternally.  
+No agency is possible which can intervene in this eternal operation from act to act,  
+by either beginning or ending the universe.  
+On this cf. Prakaraṇapañcikā, p. 137 ff. for the Prabhakara view, and Slokavārttika, Sambandhākṣepaparihāra 47-116 for the Bhāṭṭa view.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3575,6 +3601,11 @@ And we are not able to create through the instrumentality of apurva factors:
 for before the actual fruition of the ritual act we cannot know their instrumentality,
 </details>
 
+<details><summary>English - Notes</summary>
+
+apūrva lit. "that which is unprecedented, not known before, se. by other means of knowledge" in Mimāmsā it describes especially that suprasensible power inherent in the act which makes it produce its result.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3593,6 +3624,16 @@ for before the actual fruition of the ritual act we cannot know their instrument
 
 and it has been said that only a person who has actual knowledge of the material and instrumental causes  
 can be a maker with respect to these causes. 
+</details>
+
+<details><summary>English</summary>
+
+The argument is that one cannot know that the act will indeed produce an effect until this effect has materialized;  
+thus the act's power- apūrva- cannot be known beforehand  
+as the instrument of effectuation.+++(5)+++  
+By the  Naiyayika's definition  
+only one who knows what instruments are effective in production  
+can actually produce. 
 </details>
 
 
@@ -3651,7 +3692,7 @@ and in whose nature such properties as unrestricted knowledge etc. subsist.
 
 <details><summary>English</summary>
 
-As they say: 
+As they say (unidentified source): 
 "The unobstructed knowledge, perfect impartiality, omnipotence of a universal lord and dharma are all four established together." 
 </details>
 
@@ -3682,6 +3723,11 @@ As they say:
 Mantras, arthavadas, epic and purana corroborate this point; e.g. 
 </details>
 
+<details><summary>English - Notes</summary>
+
+mantra and arthavada: the terms indicate that the Naiyayika continues to address the Mimimsaka, for these of course are Mimāmsā terms, mantra being the Vedic formula used at the ritual, arthavada the descriptive, noninjunctive passages of Brahmana and later Vedic texts. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3698,7 +3744,7 @@ Mantras, arthavadas, epic and purana corroborate this point; e.g.
 
 <details><summary>English</summary>
 
-"The one god, Prajapati, creating heaven and earth, created the Vedas," etc. 
+"The one god, Prajapati, creating heaven and earth, created the Vedas," etc. (RV. 10. 90. 14)
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3828,9 +3874,20 @@ can they belong in the company of any Tradition, that of Manu or anyone?
 
 <details><summary>English</summary>
 
-REFUTATION. [[52]]  
+REFUTATION.   
 24\. If this is true, then on what authority is such a creator of the Vedas known to exist?  
 He is not directly perceived. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+Yamuna concurs in the Mimāmsaka's refutation of the Naiyayika's views,  
+to the extent that  
+he too rejects that the existence of God can be proved by reason;  
+but he will counter the Mimagisa assertion that God cannot be proved at all,  
+that in fact there is neither room nor purpose for a God in the universe.  
+For Yamuna, God has all the characteristics He has for the Naiyayika,  
+but he proves them from Scripture, not reason.+++(5)+++
 </details>
 
 
@@ -3922,8 +3979,14 @@ and who therefore cannot be God.
 Moreover, in that case it would be impossible  
 to establish the authority of the Vedas themselves;  
 for if dharma-the Law-is not independent of other means of knowledge,  
-there is no exclusive authority of the Vedas." 
+there is no exclusive authority of the Vedas. 
 </details>
+
+<details><summary>English - Notes</summary>
+
+That which makes the Veda authoritative, i.e., a means of valid knowledge, is just this that it communicates knowledge of apurva facts, e.g., that a soma sacrifice is a means of attaining heaven, i.e., generally matters pertaining to dharma.
+</details>
+
 
 
 <details><summary>मूलम्</summary>
@@ -4021,7 +4084,7 @@ can be objected that empiricists distinguish three kinds of entities:
 <details><summary>English</summary>
 
 Those whose makers are evident to perception, e.g. pots and the like;  
-those which are not found to be made at all +++(eg. sky)+++;  
+those which are not found to be made at all (the individual soul) +++(eg. sky)+++;  
 and those whose creation remained doubtful, like the earth etc. 
 </details>
 
@@ -4076,8 +4139,15 @@ but merely, as now, subject to varying degrees of increase and decrease which ar
 
 <details><summary>English</summary>
 
-To say that the Mimāmsakas accept origination and annihilation in this sense is to prove the proved.\* 
+To say that the Mimāmsakas accept origination and annihilation in this sense is to prove the proved.
 </details>
+
+<details><summary>English - Notes</summary>
+
+The Mimimsaka admits that the universe, being made up of parts, is subject to origination and destruction,  
+but never at one time, since all entities presuppose former acts that have brought them about. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
