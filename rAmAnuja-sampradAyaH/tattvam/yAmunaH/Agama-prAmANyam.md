@@ -5169,6 +5169,7 @@ by some human being with the purpose of deceiving the world.
 </details>
 
 ### ईश्वरे शब्द-प्रमाणम्
+#### पूर्वपक्षः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च केवल-तर्क-बलाद् अयं  
@@ -5219,6 +5220,7 @@ how then can we refuse to accept the authority of a tradition which derives from
 यदा तु सकलभुवननिर्माणक्षमसर्वज्ञसर्वेश्वरपरमपुरुषप्रतिपादकानि नित्यागमवचनान्येव बहुलमुपलभ्यन्ते कथं तदा तदनुभवमूलस्मरणप्रामाण्यानङ्गीकरणम् ।  
 </details>
 
+##### प्रमाणान्तर-गोचरता-सम्भावना न बाधते
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **न** च परिनिष्ठत-वस्तु-गोचरतया  
@@ -5251,7 +5253,7 @@ First general Mimāmsā views on the subject are discussed.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> **न** च सिद्धे वस्तुनि  
+> **न** च +++(ईश्वर-निभे)+++ सिद्धे वस्तुनि  
 > +++(तद्-वस्तु-)+++साधक-बाधकयोर् अन्यतरोपनिपात-सम्भव-प्रसक्तेर्  
 > +++(तद्-वस्तु-)+++भावितानुवाद-विपर्यय-पर्यालोचनया  
 > तद्+++(वस्तु)+++-गोचर-वचसः **प्रामाण्य-प्रच्युतिः**  
@@ -5408,6 +5410,7 @@ as in the case of Pancaratra.
 कथं वा प्रत्यस्तमितसमस्तपुरुषाशयदोषसंस्पर्शनित्यागमभुवः प्रत्ययस्य पूर्वोपमर्दकतयन्नीयमानस्य सम्भाव्यमानविविधविप्लवैः प्रमाणान्तरैरपवादापादनमिति यत्किञ्चिदेतत् ।  
 </details>
 
+##### निगमनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इत्थञ् च श्रुति-शत-समधिगत--विविध-बोधैश्वर्यादि-वैभवे भगवति  
@@ -5464,6 +5467,8 @@ while it is composed by the Omniscient One Himself
 तन्त्रं मिथ्येति वक्तुं नः कथं जिह्वा प्रवर्तते ॥  
 </details>
 
+##### न कार्य-सम्बन्धे हि व्युत्पत्तिः
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अहो मन्दस्य मीमांसा-  
@@ -5514,13 +5519,12 @@ only concerning such karyas as cannot presuppose any other authority.
 प्रमाणमिति हि प्राज्ञाः मन्यन्ते मान्यबुद्धयः ॥  
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > पदानां तत्+++(→प्रमाणान्तरागोचर-कार्य)+++-परत्वेन  
-व्युत्पत्तेर् अवधारणात् ।  
-न खल्व् अन्य-परे शब्दे  
-व्युत्पत्तेर् अस्ति सम्भवः ॥
+व्युत्पत्तेर् **अवधारणात्** ।  
+**न** खल्व् अन्य-परे शब्दे  
+व्युत्पत्तेर् अस्ति **सम्भवः** ॥
 </details>
 
 <details><summary>English</summary>
@@ -5540,18 +5544,76 @@ if it concerns something else than a karya.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा हि वृद्धयोर् व्यवहरतोर् एकतर-वृद्ध-प्रयुक्त-शब्द-श्रवण-समनन्तर--  
+> तथा हि वृद्धयोर् व्यवहरतोर् एकतर-वृद्ध-प्रयुक्त-शब्द+++(←"गाम् आनय")+++-श्रवण-समनन्तर--  
 जनितान्यतर-वृद्ध-समवेत-चेष्टां **दृष्ट्वा**  
-अन्यथा ऽनुपप्रत्युन्नीयमाना शब्दशक्तिस्तदुपपादककार्यपर्यवसायिन्येवावसीयते,
+अन्यथा+++(→कारणान्तरैर्)+++ऽनुपपत्त्य्-उन्नीयमाना शब्द-शक्तिस्  
+तद्-उपपादक-कार्य-पर्यवसायिन्य् +++(इत्य्)+++ **एवावसीयते**,
 </details>
+
+<details><summary>English</summary>
+
+Therefore, when a man has observed that in an exchange between two adult persons  
+a certain inherently related action of one of them takes place  
+immediately upon his hearing a sentence uttered by the other,  
+he concludes with certainty that the denoting power of the sentence as inferred by means of circumstantial-implication  
+terminates completely in the karya that has been conveyed by that sentence.
+</details>
+
+<details><summary>English - Notes</summary>
+
+"Denotation, denoting power, denotativeness" in the following Prabhakara discussions  
+have to be understood as the power of verbal statements to provide unprecedented and non-superfluous knowledge  
+concerning their contents.  
+In the Prabhakara view, a verbal statement by itself is denotative only in injunctive forms,  
+while substantive statements have denotation either through contextual connection with injunctive statements,  
+or (but this is not strictly "true" denotation) through repetition of otherwise knowable facts.  
+This view, which has obviously been developed for scriptural statements in the first place,  
+is thereupon extended to ordinary language as well,  
+and is thus expressed in the following theory about learning language which is here understood.  
+A child learns what certain sentences 'mean'  
+by observing the action which his elders take upon hearing these sentences,  
+When he knows no language meaning (vyutpatti),  
+he may acquire knowledge by first hearing one adult tell another to "get the cow,"  
+and subsequently observing that the other is getting the cow:  
+by associating the two events he knows that an order to get the cow  
+was the content of the first adult's statement "get the cow."  
+A remark without consequent action (e.g., "It is hot today,")  
+cannot convey any such knowledge to one who does not know language.  
+The process of the child knowing the sentence meaning  
+is here described as arthapatti "reasoning by circumstantial implication;"  
+since there is no other ground for the second man's getting the cow,  
+it must have been the first man's statement. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-तथा हि वृद्धयोर्व्यवहरतोरेकतरवृद्धप्रयुक्तशब्दश्रवणसमनन्तरजनितान्यतरवृद्धसमवेतचेष्टां दृष्ट्वा अन्यथाऽनुपप्रत्युन्नीयमाना शब्दशक्तिस्तदुपपादककार्यपर्यवसायिन्येवावसीयते,
+तथा हि वृद्धयोर्व्यवहरतोरेकतरवृद्धप्रयुक्तशब्दश्रवणसमनन्तरजनितान्यतरवृद्धसमवेतचेष्टां दृष्ट्वा अन्यथाऽनुपपत्त्युन्नीयमाना शब्दशक्तिस्तदुपपादककार्यपर्यवसायिन्येवावसीयते,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **प्रतीता** हि स्व-कार्य-सन्ताने  
+> कार्य-संविद् एव तत्-तद्-विशिष्ट-चेष्टा-हेतुतया।  
+> तद् अयम् इहापि तादृशीं **प्रवृत्तिं पश्यन्न्**  
+> एवम् **आकलयति** ।  
+</details>
+
+<details><summary>English</summary>
+
+The very awareness of karya  
+is known to relate to one's own karya;  
+so the onlooker, observing the same process in the present case,  
+realizes that the one person's action has been caused by the other person's variously differentiated behaviour. 
 </details>
 
 
+<details><summary>मूलम्</summary>
+
 प्रतीता हि स्वकार्यसन्ताने कार्यसंविदेव तत्तद्विशिष्टचेष्टाहेतुतया तदयमिहापि तादृशीं प्रवृत्तिं पश्यन्नेवमाकलयति ।  
+</details>
+
+
 नूनमितस्सकाशादस्य कार्यसंविदाविरासीत् यदयमेतदनन्तरं प्रवर्तत इति, एवं च समस्तव्यवहारानुगतप्रवृत्तिनिमित्तकार्यप्रतिपादनपरतया व्युत्पन्ने शब्दे यत्पदावापोद्धारानुयायिनोयेऽर्थभागास्ते प्रथमावगतप्रधानभूतकार्यानुगुणतया तैस्तैरभिधीयन्ते इत्यध्यवस्यति, तत्र च लिङादयोऽव्यभिचरितकार्यसंविदः कार्यशरीरमेव साक्षात्समर्पयन्ति तिङादयस्तु तदपेक्षिताधिकाराद्यनुबन्धप्रतिपादनमुखेन तत्समन्वयमनुभवन्तीति ।  
 न च पुत्रजननादिस्वरूपावेदनपर्यवसायिनः पदनिचयस्याविरलपुलकोदयवदनविकासादिभिरभिमतसुतजन्मादिप्रतिपादनशक्तिनिश्चयः अजातातिवृत्तप्रत्युत्पन्नविविधहर्षहेतूपनीपातेयममुयेति निर्धृत्य प्रतिपत्तुमशक्यत्वात् ।  
 एतेन व्युत्पन्नेतरपदसमभिव्याहृतवर्तमाननिर्देशेऽपि कार्यैदम्पर्यविरहितपदशक्तिनिश्चयप्रतिविधिरनुसंधातव्य ।  
