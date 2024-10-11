@@ -6031,18 +6031,223 @@ one must know the omniscient soul which is beatitude, i.e. an injunction.
 </details>
 
 
+<details><summary>English - Notes</summary>
+
+This is again the Prabhakara view. The Bhatta view is somewhat different;  
+according to the latter the upanisads are arthavadas (subsidiary substantive statements laudatory of elements of injunctions) to the eternality of the performer's personality (atman),+++(5)+++  
+which eternality is presupposed by the efficacy of the injunction:  
+e.g., the injunction "he who desires heaven must offer with the soma sacrifice"  
+supposes the immortality of the performer. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 एवञ्चोपनिषदामपि तत्रतत्राम्नायमानज्ञानोपासनादिविधिशेषतयाऽर्थो व्याकरणीयः, तदयमर्थः सर्वज्ञमानन्दमात्मानं जानीयात् इति ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**न** च तावता स्वरूपम् अपि सिध्यतीत्य् **अध्यवसेयम्** -  
+अ-सत्य् एव रूपे तादृशि  
+तथा विधानोपपत्तेः ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+That the soul is the object of an injunction  
+does not by itself however prove  
+that the soul exists as an established fact;  
+for there can also be an injunction that  
+a certain thing be such while actually it is not so; 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 न च तावता स्वरूपमपि सिध्यतीत्यध्यवसेयम् असत्येव रूपे तादृशि तथा विधानोपपत्तेः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथैतद् अ-पितर्य् एव "पितरञ् जानीयाद्" इति  
+तथा चानुद्गीथ ओङ्कार उद्गीथ-विधानम् इति ।  
+</details>
+
+<details><summary>English</summary>
+
+for example the injunction, "Know your father in someone who is not your father,"  
+or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." (Ch Up. 1.5.1. [[132]])
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यथैतदपितर्येव पितरञ्जानीयादिति तथा चानुद्गीथ ओङ्कार उद्गीथविधानमिति ।  
-यानि पुनरात्मसत्यत्वनित्यत्ववादीनि वाक्यानि तान्यविशेषितकालकर्मविधानाक्षिप्यमाणामुष्मिकफलभोगोचितचेतनकर्तृप्रतिपादनपराणि अतो न किञ्चिदपि वचो भूतेऽर्थे प्रमाणम् ।  
-अतः (अत एवार्थवादानाममीति पा. ।) सर्वार्थवादानामपि परिनिष्ठितरुद्ररोदनादिप्रतिपादनपरतावारणोपपादनेन विदूरतरवर्तिविधिपदान्वयस्तावकतयाऽपि प्रदर्शितः तस्मादपर्यालोचितपूर्वापरपदतात्पर्याणामापातायातश्रद्धाविरचितविग्रहोऽयमुद्ग्राहितः पुरुष इत्यलमतिविस्तरेण ।  
-सिद्धमिदं न श्रुतितोऽप्यभिमतपुरुषातिशयः सिध्यतीति ।  
-अपि च भवतु भूतमपि वस्तु शास्त्रस्य विषयः, अथ च कथमिव चोदनाजनितधियमवधीर्य धर्माधर्मौ विजानाति कश्चिदित्यभ्युपेयते सर्वज्ञता हि प्रसिद्धैरेव प्रमाणैः यथायथमर्थानवगच्छतोऽपि संगच्छते, न हि तदस्ति वचनं यदस्य प्रसिद्धबुद्ध्युत्पादनहेतुहानमुखेन सार्वज्ञ्यं ज्ञापयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यानि पुनर् आत्म-सत्यत्व-नित्यत्व-वादीनि वाक्यानि  
+तान्य् +++(विधि-वाक्ये→)+++अ-विशेषित-काल--कर्म-विधानाक्षिप्यमाण+-  
++आमुष्मिक-फल-भोगोचित-चेतन-कर्तृ-प्रतिपादन-पराणि +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+All statements that set forth the reality and the eternality of the soul  
+only serve to convey that there is a spiritual agent,  
+who is required in order to experience the otherworldly fruits  
+that are mentioned in ritual injunctions  
+where the time of fruition is not specified.  
+
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+In this the Prabhakara concurs with the Bhatta. Injunctions without time of fruition specified are not guaranteed to bring about the desired effect during the present lifetime of the performer.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यानि पुनरात्मसत्यत्वनित्यत्ववादीनि वाक्यानि तान्यविशेषितकालकर्मविधानाक्षिप्यमाणामुष्मिकफलभोगोचितचेतनकर्तृप्रतिपादनपराणि 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो न किञ्चिद् अपि वचो भूते +++(←सिद्धे)+++ ऽर्थे प्रमाणम् ।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore, no verbal statement whatever is a means of knowing a thing as such.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतो न किञ्चिदपि वचो भूतेऽर्थे प्रमाणम् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतः सर्वार्थवादानाम् अपि  
+परिनिष्ठित-रुद्र-रोदनादि-प्रतिपादन-परता-वारणोपपादनेन  
+विदूरतर-वर्ति-विधि-पदान्वय-स्तावकतयाऽपि प्रदर्शितः 
+</details>
+
+<details><summary>English</summary>
+
+Thus, by denying that the arthavādas, too,  
+can serve to convey knowledge of facts like Rudra's weeping,  
+it is shown that they merely serve to give praise in contextual connection with an injunction,  
+which may be comparatively remote.
+</details>
+
+<details><summary>English - Notes</summary>
+
+I read ata avarthavādānām.
+
+On this point see KMS 1.2.1. with Sabara's bhāṣya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अतः (अत एवार्थवादानाममीति पा. ।) सर्वार्थवादानामपि परिनिष्ठितरुद्ररोदनादिप्रतिपादनपरतावारणोपपादनेन विदूरतरवर्तिविधिपदान्वयस्तावकतयाऽपि प्रदर्शितः 
+</details>
+
+#### उपसंहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्माद् **अ-पर्यालोचित**-पूर्वापर-पद-तात्पर्याणाम्  
+आपातायात-श्रद्धा-**विरचित**-विग्रहो ऽयम् **उद्ग्राहितः** पुरुष  
+इत्य् अलम् अतिविस्तरेण ।  
+</details>
+
+<details><summary>English</summary>
+
+41\. To conclude, it follows that the postulated divine person,  
+whose personality is the product of the baseless beliefs of people  
+that have failed to consider the true denotation of preceding or succeeding statements,  
+is eliminated,  
+with which we conclude our extensive discussion. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तस्मादपर्यालोचितपूर्वापरपदतात्पर्याणामापातायातश्रद्धाविरचितविग्रहोऽयमुद्ग्राहितः पुरुष इत्यलमतिविस्तरेण ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिद्धम् इदं - न श्रुतितो ऽप्य् अभिमत-पुरुषातिशयः सिध्यतीति ।
+</details>
+
+<details><summary>English</summary>
+
+42\. It is proved now that the pre-eminence of that postulated person cannot be borne out by Scripture. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिद्धमिदं न श्रुतितोऽप्यभिमतपुरुषातिशयः सिध्यतीति ।
+</details>
+
+#### सिद्ध-वस्तु-परत्वेऽपि नेश्वरः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च भवतु भूतम् अपि वस्तु शास्त्रस्य विषयः, 
+</details>
+
+<details><summary>English</summary>
+
+Let us, further, suppose that Scripture can indeed convey knowledge of facts; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च भवतु भूतमपि वस्तु शास्त्रस्य विषयः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ च कथम् इव चोदना-जनित-धियम् **अवधीर्य**  
+धर्माधर्मौ **विजानाति** कश्चिद् इत्य् **अभ्युपेयते**? 
+</details>
+
+<details><summary>English</summary>
+
+even so, what possible basis is there  
+for the assumption that there exists a person  
+who knows dharma and adharma,  
+when we take into account the cognition that arises from injunction?
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ च कथमिव चोदनाजनितधियमवधीर्य धर्माधर्मौ विजानाति कश्चिदित्यभ्युपेयते  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वज्ञता हि प्रसिद्धैर् एव प्रमाणैः यथायथमर्थानवगच्छतोऽपि संगच्छते, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+सर्वज्ञता हि प्रसिद्धैरेव प्रमाणैः यथायथमर्थानवगच्छतोऽपि संगच्छते, 
+</details>
+
+
+न हि तदस्ति वचनं यदस्य प्रसिद्धबुद्ध्युत्पादनहेतुहानमुखेन सार्वज्ञ्यं ज्ञापयति ।  
 यद्यपि किञ्चिदभविष्यत् तथाऽपि परस्परान्वयाऽनुचितपदार्थतयाऽर्थवादतयैव समर्थनीयं प्रमाणान्तरावगतयोग्यतादिपुरस्सरी पदेभ्यो वाक्यार्थबुद्धिरुपजायमाना प्रथमतरनिपतितापेक्षितप्रमाणान्तरविरोधे कथमिव जनिमनुभवतीति सम्भावयामः ।  
 प्रत्यक्षादिप्रतिक्षिप्तगोचरं वचनं यदि ।  
 अपि को नु तादात्म्यं विहन्त्यादित्ययूपयोः ॥  
