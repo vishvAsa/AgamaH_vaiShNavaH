@@ -6,15 +6,11 @@ title = "Agama-prAmANyam en"
 
 ## 
 
-Omniscience is possible only if the omniscient person knows the objects exactly as they are known by means of the different means of knowledge; for there is no statement which declares omniscience by cancelling the normal means of knowledge. Even if there were such a statement, it would have to be explained as an 
 
-35 
-arthavada since its word-meanings would not allow of mutual relation. A cognition about a sentence-meaning arises from the individual words and it presupposes in these words such properties as appropriateness etc. which are learnt through other means of knowledge; now we wonder how such a cognition could arise at all, if there were a conflict with these other means of knowledge that are required primarily for the cognition to arise! If a statement concerning an object that is contradicted by perception etc., were authoritative, who could then reject the identity of sun and sacrificial pole? And if there is a person who possesses this peculiar excellency, what happens to the authority of the texts which is sought to be proved?87 
-43\. OBJECTION. However, those who follow the Pancaratra clan have the tradition that this Pañcaratra has been composed by this person. 
-REFUTATION. But why do the Pasupatas then not agree with their view? They, too, claim that the Sovereign of the universe is the promulgator of their own system, and others have the same claims. Now they cannot all of them be omniscient, because then it would be impossible for them to set forth mutually contradictory teachings. The same ground which allows one among several discussants to prove an omniscient promulgator must hold equally for all of them. But which one among the many omniscient beings who propound mutually conflicting teachings while claiming each for himself the prerogative of omniscience, which one do we conclude is the one and only omniscient God? As the text says, "If there are several omniscient beings who propound incompatible 
-36 
 
-'doctrines and if for each of them the arguments are equally valid, then whom can we elicit as the true and only one ?" When each omniscient being is assumed on the basis of one's own Tantra doctrine since the various tantric doctrines are mutually in conflict, the result will be that none of them is authoritative, ! 
+
+
+When each omniscient being is assumed on the basis of one's own Tantra doctrine since the various tantric doctrines are mutually in conflict, the result will be that none of them is authoritative, ! 
 44\. OBJECTION. How can the teaching of Vasudeva himself, who is well-known in Revelation and Tradition, be brought to the same level as other Tantras? For the manifestation of His power has been revealed in the Purusa Hymn, "The earth sprang from his feet, the quarters of the sky from his ears;" 
 9999 and again, "The creator created sun and moon as before;" likewise, He is Brahma, he is śiva;" "Visnu's highest step" "No one is his lord in this world, no one his commander; he has no sign. 
 5 
@@ -603,14 +599,8 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 ## Notes
 
- 
-[84]: On the Bhatta view of omniscience, cf. Kumārila, Samb. 
-47-59; 114-116. 
-[85]: i.e, the appropriateness or propriety of a word in collocation with other words; in the sentence "his mother is barren," "barren" is obviously inappropriate. 86. The identification is considered an arthavada, i,c., lauda. 
-tory of the sacrificial pole 
-[87]: The relation between God and the texts has to be proved. 
-I read jadi ca for api ca. 
-[88]: unidentified. 
+
+
 [89]: RV. 10.90 14 
 [90]: 
 [91]: Mahānār Up 11.12. 

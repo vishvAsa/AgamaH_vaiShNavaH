@@ -6238,31 +6238,265 @@ when we take into account the cognition that arises from injunction?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वज्ञता हि प्रसिद्धैर् एव प्रमाणैः यथायथमर्थानवगच्छतोऽपि संगच्छते, 
+सर्वज्ञता हि प्रसिद्धैर् एव प्रमाणैः यथा-यथम् अर्थान् अवगच्छतोऽपि संगच्छते, 
 </details>
+
+<details><summary>English</summary>
+
+Omniscience is possible  
+only if the omniscient person knows the objects  
+exactly as they are known by means of the different means of knowledge; 
+</details>
+
+<details><summary>English - Notes</summary>
+
+On the Bhatta view of omniscience, cf. Kumārila, Samb. 47-59; 114-116.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 सर्वज्ञता हि प्रसिद्धैरेव प्रमाणैः यथायथमर्थानवगच्छतोऽपि संगच्छते, 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि तद् अस्ति वचनं  
+यद् अस्य  
+प्रसिद्ध-बुद्ध्य्-उत्पादन-हेतु+++(←श्रम)+++-हान-मुखेन  
+सार्वज्ञ्यं ज्ञापयति ।  
+</details>
+
+<details><summary>English</summary>
+
+for there is no statement which declares omniscience  
+by cancelling the normal means of knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 न हि तदस्ति वचनं यदस्य प्रसिद्धबुद्ध्युत्पादनहेतुहानमुखेन सार्वज्ञ्यं ज्ञापयति ।  
-यद्यपि किञ्चिदभविष्यत् तथाऽपि परस्परान्वयाऽनुचितपदार्थतयाऽर्थवादतयैव समर्थनीयं प्रमाणान्तरावगतयोग्यतादिपुरस्सरी पदेभ्यो वाक्यार्थबुद्धिरुपजायमाना प्रथमतरनिपतितापेक्षितप्रमाणान्तरविरोधे कथमिव जनिमनुभवतीति सम्भावयामः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् अपि किञ्चिद् अभविष्यत्  
+तथाऽपि परस्परान्वयाऽनुचित-पदार्थतया  
+ऽर्थवादतयैव समर्थनीयम्
+</details>
+
+<details><summary>English</summary>
+
+[[35]]  
+Even if there were such a statement,  
+it would have to be explained as an arthavada  
+since its word-meanings would not allow of mutual relation.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्यपि किञ्चिदभविष्यत् तथाऽपि परस्परान्वयाऽनुचितपदार्थतयाऽर्थवादतयैव समर्थनीयम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रमाणान्तरावगत-योग्यतादि-**पुरस्-सरी**  
+पदेभ्यो वाक्यार्थ-बुद्धिर् **उपजायमाना** -  
+प्रथमतर-निपतितापेक्षित-प्रमाणान्तर-विरोधे  
+**कथम् इव जनिम्** अनुभवतीति सम्भावयामः ।  
+</details>
+
+<details><summary>English</summary>
+
+A cognition about a sentence-meaning arises from the individual words  
+and it presupposes in these words  
+such properties as appropriateness etc.  
+which are learnt through other means of knowledge;  
+now we wonder how such a cognition could arise at all,  
+if there were a conflict with these other means of knowledge  
+that are required primarily for the cognition to arise! 
+</details>
+
+<details><summary>English - Notes</summary>
+
+i.e, the appropriateness or propriety of a word in collocation with other words; in the sentence "his mother is barren," "barren" is obviously inappropriate. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+प्रमाणान्तरावगतयोग्यतादिपुरस्सरी पदेभ्यो वाक्यार्थबुद्धिरुपजायमाना प्रथमतरनिपतितापेक्षितप्रमाणान्तरविरोधे कथमिव जनिमनुभवतीति सम्भावयामः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्यक्षादि-**प्रतिक्षिप्त**-  
+गोचरं वचनं यदि ।  
+अपि को नु तादात्म्यं  
+**विहन्त्य्** आदित्य-यूपयोः +++(यद्-विषयकार्थवादः प्रसिद्धः)+++ ॥  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+If a statement concerning an object that is contradicted by perception etc., were authoritative,  
+who could then reject the identity of sun and sacrificial pole? +++(5)+++
+</details>
+
+<details><summary>English - Notes</summary>
+
+The identification is considered an arthavada, i,e., laudatory of the sacrificial pole
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 प्रत्यक्षादिप्रतिक्षिप्तगोचरं वचनं यदि ।  
 अपि को नु तादात्म्यं विहन्त्यादित्ययूपयोः ॥  
+</details>
+
+### नेश्वर-प्रणीतता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि चास्ति नरः कश्चित्  
+तादृशातिशयाश्रयः ।  
+सिषाधयिषित-ग्रन्थ-  
+प्रामाण्यस्य किम् आगतम् +++(ईश्वर-ग्रन्थ-सम्बन्धः कुतः?)+++ ॥
+</details>
+
+<details><summary>English</summary>
+
+And if there is a person who possesses this peculiar excellency,  
+what happens to the authority of the texts which is sought to be proved?87 
+</details>
+
+<details><summary>English - Notes</summary>
+
+The relation between God and the texts has to be proved. 
+I read yadi ca for api ca.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अपि चास्ति नरः कश्चित् तादृशातिशयाश्रयः ।  
 सिषाधयिषितग्रन्थप्रामाण्यस्य किमागतम् ॥
+</details>
 
-ननु च तादृशपुरुषेण विरचितमिदमिति पञ्चरात्रगोत्रानुसारिणः स्मरन्ति ।  
+#### सर्व-ज्ञ-वादि-नैकान्तता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च तादृश-पुरुषेण विरचितम् इदम्  
+> इति पञ्चरात्र-गोत्रानुसारिणः स्मरन्ति ।
+</details>
+
+<details><summary>English</summary>
+
+43\. OBJECTION. However, those who follow the Pancaratra clan have the tradition that this Pañcaratra has been composed by this person. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च तादृशपुरुषेण विरचितमिदमिति पञ्चरात्रगोत्रानुसारिणः स्मरन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पाशुपता वा किन् न स्मरन्ति,  
+तेऽपि स्व-दर्शनादर्शकम् अखिल-जगद्-अध्यक्षम् आचक्षते, तथाऽन्येऽपि ।  
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. But why do the Pasupatas then not agree with their view?  
+They, too, claim that the Sovereign of the universe is the promulgator of their own system,  
+and others have the same claims. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 पाशुपता वा किन्न स्मरन्ति, तेऽपि स्वदर्शनादर्शकमखिलजगदध्यक्षमाचक्षते तथाऽन्येऽपि ।  
-न च सर्वेऽमी सर्वज्ञा विरुद्धार्थोपदेशानुपपत्तेः ।  
+</details>
+  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च सर्वेऽमी सर्वज्ञा - विरुद्धार्थोपदेशानुपपत्तेः ।  
+</details>
+
+<details><summary>English</summary>
+
+Now they cannot all of them be omniscient,  
+because then it would be impossible for them to set forth mutually contradictory teachings. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च सर्वेऽमी सर्वज्ञा - विरुद्धार्थोपदेशानुपपत्तेः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य एव च वादिनाम् एकस्य वादिनः सर्व-ज्ञ-सिद्धौ हेतुर् भवति  
+स सर्वेषां साधारणः।  
+तद् इह बहुषु परस्पर-विरुद्धम् अर्थम् अहम्-अहमिकयोपदिशत्सु  
+कतमं सर्व-ज्ञम् **अध्यवसामः** ।  
+</details>
+
+<details><summary>English</summary>
+
+The same ground which allows one among several discussants to prove an omniscient promulgator  
+must hold equally for all of them.  
+But which one among the many omniscient beings  
+who propound mutually conflicting teachings  
+while claiming each for himself the prerogative of omniscience,  
+which one do we conclude is the one and only omniscient God? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 य एव च वादिनामेकस्य वादिनः सर्वज्ञसिद्धौ हेतुर्भवति स सर्वेषां साधारणः तदिह बहुषु परस्परविरुद्धमर्थमहमहमिकयोपदिशत्सु कतमं सर्वज्ञमध्यवसामः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथाऽह -  
+
+> सर्वज्ञेषु च भूयस्सु  
+विरुद्धार्थोपदेशिषु ।  
+तुल्य-हेतुषु सर्वेषु  
+को नामैको निरूप्यताम् ॥
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+[[36]]  
+As the (unidentified) text says,  
+
+> "If there are several omniscient beings who propound incompatible doctrines  
+> and if for each of them the arguments are equally valid,  
+> then whom can we elicit as the true and only one ?" 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यथाऽह ।  
 सर्वज्ञेषु च भूयस्सु विरुद्धार्थोपदेशिषु ।  
 तुल्यहेतुषु सर्वेषु को नामैकोनिरूप्यताम् ॥
 
-इति, ।  
+इति । 
+</details>
+
+
 स्वतन्त्राधिगमाधीनं सर्वज्ञपरिकल्पनम् ।  
 परस्परप्रतीघातात्सर्वाप्रामाण्यमावहेत् ॥  
 ननु, श्रुतिस्मृतिप्रसिद्धेन वासुदेवेन भाषितम् ।  
