@@ -4,39 +4,12 @@ title = "Agama-prAmANyam en"
 
 …
 
+## 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Or if it be claimed that, inasmuch as a karya concerning a categorically different thing like the agnihotra etc. cannot conceivably find any other authority, therefore the verbal testimony which sets forth such a thing must needs be its authority,-well, then we may say that there is not a ghost of another authority for the Bhagavan whose form consists in unsurpassed knowledge, supremacy and beatitude; so that it should follow that everything is entirely the same in both cases, depending on one's particular partisan views. 
-Moreover, the theory is that since another means of knowledge can apply to a fact, a verbal statement concerning this fact cannot validly prove it: but why should not this other means of knowledge itself be the repetitious one since verbal testimony concerning its fact may conceivably turn up? or, why should other means of knowledge which themselves are liable to 
-30 
-JOANA PRAMNYAM 
-various deficiencies entail the negation of a notion that arises from eternal Scripture untouched by all defects inherent in persons, merely because it is deduced that its validity is cancelled by a prior means of knowledge? This is absurd. 
-Thus, therefore, the imperfections that necessarily follow from the induction, c.g. absence of omniscience", possession of a body etc., find no room in the Bhagavan whose supernal manifestation of miraculous knowledge, supremacy and so forth is known from hundreds of fruits, just as cold can find no place in firc. 
-And, in consequence, 
-How can our tongue endeavour to state that the Tantra is false, while it is composed by the Omniscient One Himself who is known through the Upanisads? Alas for the fool's grand exhibition of labour in Mimāmsā! How can a mind schooled in Mimāmsā be so mistaken? 
-63 
-36\. Learned thinkers, whose intellectual powers command respect, maintain that all Vedic testimony carrics authority only concerning such karyas as cannot presuppose any other authority. Since words arc considered to have their true sense only when they concern such a karya, it is impossible that any statement can be denotative if it concerns something else than a karya. Therefore, when a man has observed that in an exchange between two adult persons a certain inherently related action of one of them takes place immediately upon his hearing a sentence uttered by the other, he concludes with certainty that the denoting 
+Therefore, when a man has observed that in an exchange between two adult persons a certain inherently related action of one of them takes place immediately upon his hearing a sentence uttered by the other, he concludes with certainty that the denoting 
 KOMIA PRAMANYAṀ 
 SI 
 power of the sentence as inferred by means of circumstantial-implication terminates completely in the karja that has been conveyed by that sentence." The very awareness of karja is known to relate to one's own karya; so the onlooker, observing the same process in the present case, realizes that the one person's action has been caused by the other person's variously differentiated behaviour: "Surely this person has been made aware by the other of this kaya that he proceed to his action immediately upon become aware of what he has to do." This leads the observer to the conclusion that if therefore the verbal statement is truly denotative in so far as it serves to convey a karya whose specific motivation conforms to the entire statement, then whatever bits of meaning come to mind as a result of the addition or omission of words are denoted by these words only in strict accordance to this kārya, 71 which thus constitutes the primarily known principal element of the statement. In such a statement the imperative and optative verbal terminations," which unvaryingly give rise to a knowledge of karya, convey by themselves the body of the karya, whereas the indicative etc. terminations are subject to a contextual relation with the karya by describing consequent matters which required by the karya, c.g. a person's qualification to accomplish it etc.73 
@@ -662,10 +635,7 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 ## Notes
 
 
-[^66]: This objection ignores the priorities among pramanas, or means of knowledge; for the Prabhakara, Perception, etc. are prior to, take precedence of, Scripture in case of perceptible, etc. contents. Generally Perception is prior to Inference. To Yamuna, therefore, no priority of Perception to Scripture is given, which is expected since in his view Scripture may also be an account of (God's) Perception, as in the case of Pancaratra. 
-\*67. This sums up the conclusion of the refutations of both the Naiyayika's and Mimamsaka's views: the defects consequent upon the Nyaya proofs of God are avoided on the basis of scriptural examination, since Scripture can indeed validly pronounce on God. 
-[^68]: The Prabhakaras, who are notorious for the gaurava 
-'complicatedness" of their argumentations. 
+[^68]:  
 130 
 
 [^69]: "Denotation, denoting power, denotativeness" in the following Prabhakara discussions have to be understood as the power of verbal statements to provide unprece= dented and non-superfluous knowledge concerning their contents. In the Prabhakara view, a verbal statement by itself is denotative only in injunctive forms, while substantive statements have denotation either through contextual connection with injunctive statements, or (but this is not strictly "true" denotation) through repetition of otherwise knowable facts. This view, which has obviously been developed for scriptural statements in the first place, is thereupon extended to ordinary language as well, and is thus expressed in the following theory about learning language which is here understood, A child learns what certain sentences 'mean' by observing the action which his elders take upon hearing these sentences, When he knows no language meaning (yuthatti), he may acquire knowledge by first hearing one adult tell another to "get the cow," and subsequently observing that the other is getting the cow: by associating the two events he knows that an order to get the cow was the content of the first adult's statement "get the cow."" A remark without consequent action (e.g., "It is hot today,") cannot convey any such knowledge to one who does not know language. The process of the child knowing the sentence meaning is here described as arthapatti "reasoning by circumstantial implication;" since there is no other ground for the second man's getting the cow, it must have been the first man's statement. 

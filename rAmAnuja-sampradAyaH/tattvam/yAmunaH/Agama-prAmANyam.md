@@ -5255,7 +5255,7 @@ First general Mimāmsā views on the subject are discussed.
 > +++(तद्-वस्तु-)+++साधक-बाधकयोर् अन्यतरोपनिपात-सम्भव-प्रसक्तेर्  
 > +++(तद्-वस्तु-)+++भावितानुवाद-विपर्यय-पर्यालोचनया  
 > तद्+++(वस्तु)+++-गोचर-वचसः **प्रामाण्य-प्रच्युतिः**  
-> कार्य-निष्ठस्यापि तत्+++(←प्रच्युति)+++-प्रसङ्गात्, 
+> +++(समिद्-आहरणादि-)+++कार्य-निष्ठस्यापि तत्+++(←प्रच्युति)+++-प्रसङ्गात्, 
 </details>
 
 <details><summary>English</summary>
@@ -5290,7 +5290,7 @@ To the Prabhakara this validity is ideal in the case of injunctions concerning a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कार्यम् अपि हि मानान्तर-वेद्यम् एव - +++("ओदनेन होतव्यम्" इत्यत्र)+++ लौकिकं समिद्-आहरणादि,  
+> +++(लौकिकं←)+++कार्यम् अपि हि मानान्तर-वेद्यम् एव +++("ओदनेन होतव्यम्" इत्यत्र)+++ लौकिकं समिद्-आहरणादि,  
 तच् च मानान्तरेणापि **वेद्यम्** ओदन-पाकवद् इत्य् अभ्युपगमात् ।  
 </details>
 
@@ -5307,27 +5307,251 @@ as in the case of the cooking of the odana.
 (The injunction concerning the odana oblation includes an injunction concerning the preparation of the odana and the fetching of firewood for the cooking. Since experience shows that for a cooking fire one needs firewood, this karya is not strictly known on scriptural authority.)
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
 </details>
 
 
-अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
-अपि च प्रवृत्तप्रमाणान्तरमपि स्वगोचरं तद्गोचरतया नावभासयतीति परमपि प्रमाणमेव कुतस्तदुपनिपातसम्भावनयाऽनुवादत्वम्,  कथं वा प्रत्यस्तमितसमस्तपुरुषाशयदोषसंस्पर्शनित्यागमभुवः प्रत्ययस्य पूर्वोपमर्दकतयोन्नियमानस्य सम्भाव्यमानविविधविप्लवैः प्रमाणान्तररैपवादापादनमिति यत्किञ्चिदेतत् ।  
-इत्थञ्च श्रुतिशतसमधिगतविविधबोधैश्वर्यादिवैभवे भगवति सामान्यदर्शनावसितासार्वक्ष्यविग्रहवत्तादयो दोषा नावकाशमश्नुवते हुतभुजीव शैत्यादयः ।  
-ततश्च ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> अथ विलक्षणाग्नि-होत्रादि-विषय-कार्यस्यासम्भावित-मानान्तरतया  
+> तत्-प्रतिपादयद् वचः प्रमाणम्,  
+</details>
+
+<details><summary>English</summary>
+
+Or if it be claimed that,  
+inasmuch as a karya concerning a categorically different thing like the agnihotra etc. cannot conceivably find any other authority,  
+therefore the verbal testimony which sets forth such a thing must needs be its authority,
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+> अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> हन्त तर्हि निरतिशयावबोधैश्वर्य-महाऽऽनन्द-सन्दोह-वपुषि भगवति  
+> न मानान्तर-गन्ध-सम्बन्ध  
+> इति सर्वं समानम् अन्यत्राभिनिवेशात् ।  
+</details>
+
+<details><summary>English</summary>
+
+well, then we may say that there is not a ghost of another authority for the Bhagavan  
+whose form consists in unsurpassed knowledge, supremacy and beatitude;  
+so that it should follow that everything is entirely the same in both cases,  
+depending on one's particular partisan views. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अपि च प्रवृत्त-प्रमाणान्तरम् अपि  
+> स्व-गोचरं तद्-गोचरतया नावभासयतीति  
+> परम् अपि प्रमाणम् एव  
+> कुतस् तद्-उपनिपात-सम्भावनया ऽनुवादत्वम्,  
+</details>
+
+<details><summary>English</summary>
+
+Moreover, the theory is that since another means of knowledge can apply to a fact,  
+a verbal statement concerning this fact cannot validly prove it:  
+but why should not this other means of knowledge itself be the repetitious one  
+since verbal testimony concerning its fact may conceivably turn up?  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च प्रवृत्तप्रमाणान्तरमपि स्वगोचरं तद्गोचरतया नावभासयतीति परमपि प्रमाणमेव कुतस्तदुपनिपातसम्भावनयाऽनुवादत्वम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कथं वा प्रत्यस्तमित-समस्त-पुरुषाशय-दोष-संस्पर्श--नित्यागम-भुवः प्रत्ययस्य पूर्वोपमर्दकतयन्नीयमानस्य  
+सम्भाव्यमान-विविध-विप्लवैः प्रमाणान्तरैर् अपवादापादनम्  
+इति यत् किञ्चिद् +++(क्षुद्रम्)+++ एतत् ।  
+</details>
+
+<details><summary>English</summary>
+
+or, why should other means of knowledge which themselves are liable to [[30]]various deficiencies  
+entail the negation of a notion that arises from eternal Scripture  
+untouched by all defects inherent in persons,  
+merely because it is deduced that its validity is cancelled by a prior means of knowledge?  
+This is absurd. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+This objection ignores the priorities among pramanas, or means of knowledge;  
+for the Prabhakara, Perception, etc. are prior to, take precedence of, Scripture in case of perceptible, etc. contents.  
+Generally Perception is prior to Inference.  
+To Yamuna, therefore, no priority of Perception to Scripture is given,  
+which is expected since in his view Scripture may also be an account of (God's) Perception,  
+as in the case of Pancaratra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कथं वा प्रत्यस्तमितसमस्तपुरुषाशयदोषसंस्पर्शनित्यागमभुवः प्रत्ययस्य पूर्वोपमर्दकतयन्नीयमानस्य सम्भाव्यमानविविधविप्लवैः प्रमाणान्तरैरपवादापादनमिति यत्किञ्चिदेतत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्थञ् च श्रुति-शत-समधिगत--विविध-बोधैश्वर्यादि-वैभवे भगवति  
+> सामान्य-दर्शनावसितासार्वज्ञ्य-विग्रहवत्तादयो दोषा  
+> **नावकाशम् अश्नुवते** हुत-भुजीव शैत्यादयः ।  
+</details>
+
+<details><summary>English</summary>
+
+Thus, therefore, the imperfections that necessarily follow from the induction, e.g. absence of omniscience", possession of a body etc.,  
+find no room in the Bhagavan whose supernal manifestation of miraculous knowledge, supremacy and so forth is known from hundreds of shrutis,  
+just as cold can find no place in fire.
+</details>
+
+<details><summary>English - Notes</summary>
+
+This sums up the conclusion of the refutations of both the Naiyayika's and Mimamsaka's views:  
+the defects consequent upon the Nyaya proofs of God are avoided  
+on the basis of scriptural examination,  
+since Scripture can indeed validly pronounce on God. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इत्थञ्च श्रुतिशतसमधिगतविविधबोधैश्वर्यादिवैभवे भगवति सामान्यदर्शनावसितासार्वज्ञ्यविग्रहवत्तादयो दोषा नावकाशमश्नुवते हुतभुजीव शैत्यादयः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ततश् च -  
+> 
+> श्रुति-मूर्ध्नि प्रसिद्धेन  
+सर्वज्ञेनैव **निर्मितम्** ।  
+तन्त्रं मिथ्येति **वक्तुं** नः  
+**कथं** जिह्वा **प्रवर्तते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+And, in consequence, 
+
+> How can our tongue endeavour to state that the Tantra is false,  
+while it is composed by the Omniscient One Himself  
+> who is known through the Upanisads? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततश्च -  
 श्रुतिमूर्ध्नि प्रसिद्धेन सर्वज्ञेनैव निर्मितम् ।  
 तन्त्रं मिथ्येति वक्तुं नः कथं जिह्वा प्रवर्तते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अहो मन्दस्य मीमांसा-  
+श्रम-हानिर् **विजृम्भते** ।  
+मीमांसा-मांसलञ् चेतः  
+कथमित्थं **प्रमाद्यति** ॥  
+</details>
+
+<details><summary>English</summary>
+
+> Alas for the fool's grand exhibition of labour in Mimāmsā!  
+> How can a mind schooled in Mimāmsā be so mistaken? 
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+The Prabhakaras, who are notorious for the gaurava 'complicatedness" of their argumentations.+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अहो मन्दस्य मीमांसाश्रमहानिर्विजृम्भते ।  
 मीमांसामांसलञ्चेतः कथमित्थं प्रमाद्यति ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कार्ये मानान्तरापूर्वे  
+समस्तं वैदिकं वचः ।  
+प्रमाणम् इति हि प्राज्ञाः  
+**मन्यन्ते** मान्य-बुद्धयः ॥  
+</details>
+
+<details><summary>English</summary>
+
+36\. Learned thinkers, whose intellectual powers command respect,  
+maintain that all Vedic testimony carries authority  
+only concerning such karyas as cannot presuppose any other authority. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 कार्ये मानान्तरापूर्वे समस्तं वैदिकं वचः ।  
 प्रमाणमिति हि प्राज्ञाः मन्यन्ते मान्यबुद्धयः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> पदानां तत्+++(→प्रमाणान्तरागोचर-कार्य)+++-परत्वेन  
+व्युत्पत्तेर् अवधारणात् ।  
+न खल्व् अन्य-परे शब्दे  
+व्युत्पत्तेर् अस्ति सम्भवः ॥
+</details>
+
+<details><summary>English</summary>
+
+Since words are considered to have their true sense  
+only when they concern such a karya,  
+it is impossible that any statement can be denotative  
+if it concerns something else than a karya. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 पदानां तत्परत्वेन व्युत्पत्तेरवधारणात् ।  
 न खल्वन्यपरे शब्दे व्युत्पत्तेरस्ति सम्भवः ॥
+</details>
 
-तथा हि वृद्धयोर्व्यवहरतोरेकतरवृद्धप्रयुक्तशब्दश्रवणसमनन्तरजनितान्यतरवृद्धसमवेतचेष्टां दृष्ट्वा अन्यथाऽनुपप्रत्युन्नीयमाना शब्दशक्तिस्तदुपपादककार्यपर्यवसायिन्येवावसीयते, प्रतीता हि स्वकार्यसन्ताने कार्यसंविदेव तत्तद्विशिष्टचेष्टाहेतुतया तदयमिहापि तादृशीं प्रवृत्तिं पश्यन्नेवमाकलयति ।  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि वृद्धयोर् व्यवहरतोर् एकतर-वृद्ध-प्रयुक्त-शब्द-श्रवण-समनन्तर--  
+जनितान्यतर-वृद्ध-समवेत-चेष्टां **दृष्ट्वा**  
+अन्यथा ऽनुपप्रत्युन्नीयमाना शब्दशक्तिस्तदुपपादककार्यपर्यवसायिन्येवावसीयते,
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हि वृद्धयोर्व्यवहरतोरेकतरवृद्धप्रयुक्तशब्दश्रवणसमनन्तरजनितान्यतरवृद्धसमवेतचेष्टां दृष्ट्वा अन्यथाऽनुपप्रत्युन्नीयमाना शब्दशक्तिस्तदुपपादककार्यपर्यवसायिन्येवावसीयते,
+</details>
+
+
+प्रतीता हि स्वकार्यसन्ताने कार्यसंविदेव तत्तद्विशिष्टचेष्टाहेतुतया तदयमिहापि तादृशीं प्रवृत्तिं पश्यन्नेवमाकलयति ।  
 नूनमितस्सकाशादस्य कार्यसंविदाविरासीत् यदयमेतदनन्तरं प्रवर्तत इति, एवं च समस्तव्यवहारानुगतप्रवृत्तिनिमित्तकार्यप्रतिपादनपरतया व्युत्पन्ने शब्दे यत्पदावापोद्धारानुयायिनोयेऽर्थभागास्ते प्रथमावगतप्रधानभूतकार्यानुगुणतया तैस्तैरभिधीयन्ते इत्यध्यवस्यति, तत्र च लिङादयोऽव्यभिचरितकार्यसंविदः कार्यशरीरमेव साक्षात्समर्पयन्ति तिङादयस्तु तदपेक्षिताधिकाराद्यनुबन्धप्रतिपादनमुखेन तत्समन्वयमनुभवन्तीति ।  
 न च पुत्रजननादिस्वरूपावेदनपर्यवसायिनः पदनिचयस्याविरलपुलकोदयवदनविकासादिभिरभिमतसुतजन्मादिप्रतिपादनशक्तिनिश्चयः अजातातिवृत्तप्रत्युत्पन्नविविधहर्षहेतूपनीपातेयममुयेति निर्धृत्य प्रतिपत्तुमशक्यत्वात् ।  
 एतेन व्युत्पन्नेतरपदसमभिव्याहृतवर्तमाननिर्देशेऽपि कार्यैदम्पर्यविरहितपदशक्तिनिश्चयप्रतिविधिरनुसंधातव्य ।  
