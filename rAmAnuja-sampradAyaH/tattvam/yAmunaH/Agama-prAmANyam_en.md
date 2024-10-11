@@ -24,10 +24,9 @@ title = "Agama-prAmANyam en"
 
 
 
-35\. To continue this topic," these scriptural statements do not exceed the bounds of their authority just because they are concerned with facts; for similarADAMA PRAMANYANI 
-29 
-statements made by persons concerning facts that are extremely remote from a connection with other means of knowledge cannot be denied the authority which is afforded them naturally. 
-Nor do statements concerning a fact lack authority because of the consideration that since either a proving or disproving factor may unexpectedly turn up there remains the possibility that this fact is thus repeated or reversed; for the same may equally well happen to a statement concerning, not a fact, but a karja. A kārya, too, may be known from other means of knowledge, for it must be admitted that ordinary karyas, like 'fetch firewood' are also known through other means of knowledge, as in the case of the cooking of the odana.65 
+
+
+
 Or if it be claimed that, inasmuch as a karya concerning a categorically different thing like the agnihotra etc. cannot conceivably find any other authority, therefore the verbal testimony which sets forth such a thing must needs be its authority,-well, then we may say that there is not a ghost of another authority for the Bhagavan whose form consists in unsurpassed knowledge, supremacy and beatitude; so that it should follow that everything is entirely the same in both cases, depending on one's particular partisan views. 
 Moreover, the theory is that since another means of knowledge can apply to a fact, a verbal statement concerning this fact cannot validly prove it: but why should not this other means of knowledge itself be the repetitious one since verbal testimony concerning its fact may conceivably turn up? or, why should other means of knowledge which themselves are liable to 
 30 
@@ -111,8 +110,8 @@ REFUTATION. No, hy stating that it cannot be destroyed, it also decides that it 
 OBJECTION. Nonetheless, from the emphasis which in the statement "only sat was here is laid on the uniqueness of sat, it follows that there were no souls before the time of creation. Had the individual soul existed before why then this emphasis of "only sat" on sat's absolute solitariness? 
 + 
 REFUTATION. The reply to this is that here the emphasis on sat's uniqueness is with regard to the elements of wind, water and ether that were about to be created by sat. Were the soul excluded by this statement of sat's solitariness, then the soul's origin would have been described in the sequel, just as the creation of ether is described. This is not done; therefore the soul does not know birth, since in the sequel "That sat created fire, etc. we do not hear of the creation of the individual soul. 
-OBJECTION. However, in the text yato va imani bhūtāni etc. we hear that the souls too know origin, continuance and reabsorption. Iere the word bhita denotes the jiva, the individual soul; for thus we find the word used in the passage bhrāmayan sarvabhūtāni,ios The verb jianti "they live" in the text can only apply to the souls, the expression tena jayante "by whom they are born" evidently refers to these same souls. 
-REFUTATION. This is not right. The word bhito commonly denotes only the elements ether, wind, fire, water and earth. If the word is used for something 
+OBJECTION. However, in the text yato va imani bhūtāni etc. we hear that the souls too know origin, continuance and reabsorption. Iere the word bhita dethe jiva, the individual soul; for thus we find the word used in the passage bhrāmayan sarvabhūtāni,ios The verb jianti "they live" in the text can only apply to the souls, the expression tena jayante "by whom they are born" evidently refers to these same souls. 
+REFUTATION. This is not right. The word bhito commonly deonly the elements ether, wind, fire, water and earth. If the word is used for something 
 I 
 41 
 Of these elements, 
@@ -194,7 +193,7 @@ person en joined etc. Or if it is said that in their case there is denotation of
 of the speaker, the extent of space in which a statement can be heard etc. The logicians hold the view that the meaning of a language statement cannot be known except by language statement. Consequently, there exists no inherent relationship with karya as cause of denotation in uses of words that have their proper signification, just as is the case with floating precious stones on water. Just as this floating, however helpful be to determine the identity of certain diamonds, e.g. the brahmin diamond, serves no purpose when a stone is being transacted which has already been properly identified, similarly the karya,however helpful to understand the proper signification of a word, serves no purpose once its proper signification has been identified. 
 it 
 may 
-65\. Moreover, if words denote their meanings only as connected with karya, then how can we know from them that, for example, there is a relation between a fruit and a river-bank, is in a statement : "There is a fruit on the river-bank?" If you say that a statement of such a substantive relation does not denote the relation it states through its primary sense, but through secondary sense, then, we may ask, where do statements then have their primary sense? If you answer in a karya which is not previously known through other means of knowledge, we reply: no, for then no use of words would be possible, since their meaning would not yet have been identified. Naturally there can be no knowledge of the meaning of a word when that word denotes a meaning not previously known through other means of knowledge, and no cognition can arise from words with unknown meanings, for that would entail over-extension. 
+65\. Moreover, if words denote their meanings only as connected with karya, then how can we know from them that, for example, there is a relation between a fruit and a river-bank, is in a statement : "There is a fruit on the river-bank?" If you say that a statement of such a substantive relation does not denote the relation it states through its primary sense, but through secondary sense, then, we may ask, where do statements then have their primary sense? If you answer in a karya which is not previously known through other means of knowledge, we reply: no, for then no use of words would be possible, since their meaning would not yet have been identified. Naturally there can be no knowledge of the meaning of a word when that word dea meaning not previously known through other means of knowledge, and no cognition can arise from words with unknown meanings, for that would entail over-extension. 
 54 
  
 66\. OBJECTION. My position is this. In ordinary language a statement is understood to have its proper signification when it bears on a karya that is to be accomplished with a certain action. In Vedic language a statement enjoys a special power of denotation which transcends the transitory root-sense of the word "sacrificing ", and it has this power of denotation because it is the means of realizing a certain fruit and acquires this power on account of the collocation of words describing this fruit; whereas in ordinary language, since there verbal exchange is possible also to the unsophisticated, this determination of the nature of word and meaning is not attended to. 
@@ -576,8 +575,8 @@ It is impossible to make it a rule that the words Bhagavata and Satvata denote a
 AGAMA FRAMANYAṀ 
 100 
 107 
-127\. If it be argued that since these two words also may denote another caste (namely of the vaisya vratyas), then the mere fact that certain brahmins are denoted by these words proves that these brahmins belong to that caste, even though they follow the doctrine of the Bbagavan, it would also follow that, since we find the collocated word acaryas also used to denote the issue of a lowly vaisya, therefore an eminent brahmin who is an acarya imparting teaching of the Veda with its ancillae and its esoteric teachings is thereby denoted as being a vaisya vratya! If, on the other hand, even though a true brahmin is denoted by the word ācārya which denotes a vratya, there still can be no suspicion that he actually is a vratya, because there is positive certainty of his brabminhood which is clearly proved by other means of knowledge, and because it is possible that the word acarya is used figuratively (ācārya as one who "accumulates"— acinoti the pupil's knowledge) for a Brahmin teacher, then in our case, too, the same argument can be made, namely thus: even though they are denoted by the terms Satvata and Bhagavata, which denote another caste, yet there can rise no suspicion that they actually are vratyas, because the brahminhood of these followers of the Bhagavan's doctrine is firmly known from the recollection of completely obvious clans, Vedic ancestry etc., and because it is possible that the terms Sātvata and Bhāgavata have a figurative denotation of sattva-val57 and bhaga-vat. 
-In other words, the fact that the same word denotes both classes of people does not mean that therefore both belong to one and the same caste, lest the 
+127\. If it be argued that since these two words also may denote another caste (namely of the vaisya vratyas), then the mere fact that certain brahmins are denoted by these words proves that these brahmins belong to that caste, even though they follow the doctrine of the Bbagavan, it would also follow that, since we find the collocated word acaryas also used to denote the issue of a lowly vaisya, therefore an eminent brahmin who is an acarya imparting teaching of the Veda with its ancillae and its esoteric teachings is thereby denoted as being a vaisya vratya! If, on the other hand, even though a true brahmin is denoted by the word ācārya which dea vratya, there still can be no suspicion that he actually is a vratya, because there is positive certainty of his brabminhood which is clearly proved by other means of knowledge, and because it is possible that the word acarya is used figuratively (ācārya as one who "accumulates"— acinoti the pupil's knowledge) for a Brahmin teacher, then in our case, too, the same argument can be made, namely thus: even though they are denoted by the terms Satvata and Bhagavata, which denote another caste, yet there can rise no suspicion that they actually are vratyas, because the brahminhood of these followers of the Bhagavan's doctrine is firmly known from the recollection of completely obvious clans, Vedic ancestry etc., and because it is possible that the terms Sātvata and Bhāgavata have a figurative denotation of sattva-val57 and bhaga-vat. 
+In other words, the fact that the same word deboth classes of people does not mean that therefore both belong to one and the same caste, lest the 
 100 
 " 
 AGAMA FRAMANYAṀ 
@@ -591,7 +590,7 @@ worship the Bhagavan directly, yet may be denoted by the words satcata and bhaga
 129\. Herewith is also rejected the contention that the Bhāgavatas are vratyas because they would have the same profession. For it is one thing to clean the temple, clear away the bali offerings, guard the idol, and quite another thing to perform the variety of actions that are daily observed by the Bhagavatas: the cleaning of the way to the idol, the preparation for worship, offering, daily study, and meditation. It is as it is in the case of the jyotistoma etc. In the jyotistoma, too, a carpenter has a task in making the various receptacles, soma-cups, soma-decanters, ladles etc., while the officiating priests have their tasks in reciting various different mantra recitations, representing the deity, pressing of the soma etc. And this occupational similarity, limited as it is, does not raise the question whether the priests have the same caste as the carpenters! So here, too, there is a difference between those who perform the pañcakālikā ritual, which is established by the Bhagavan's doctrine, and the low-caste people who do the cleaning-up of the temple and are also called temple-guards. 
 110 
 
-130\. Further, the contention that, if the words bhāgavata and satvata have their etymological meaning, this entails that the word rathakara in the injunction the rathakara must build a fire" denotes someone belonging to the three varias on account of its etymology of chariot-making,268 is not correct. For in the case of rathakara it is correct that the term refers to someone belonging to the three varnas, because otherwise the springtime etc., which are given in the statement on the origin of this fire-building, would be invalidated, and because usages of a word in the sense of different castes, which is given in the mantra "saud hanyana ṛbhavaḥ stiracakṣasalp would be invalidated. Despite the fact that rathakara is also a name for another caste-as learnt from the smrti "the rathakara is born out of a kariņi by a mahiṣya" (so that the rathakara is born from an anuloma marriage of a kṣatriya man and a vaidya woman), nevertheless, since, on Sankha's evidence" that the rathakara is not forbidden to perform rites of sacrificing, fire-building and initiation, there is no conflict of qualification for rites that can only be realized through knowledge of the Veda,273 and since the word rathakara (in its etymological meaning) is inappropriate for members of the three varnas because they are forbidden to follow an artisan's profession, therefore we can only conclude that in both cases different castes are denoted by the term, and so there is no conflict. 
+130\. Further, the contention that, if the words bhāgavata and satvata have their etymological meaning, this entails that the word rathakara in the injunction the rathakara must build a fire" desomeone belonging to the three varias on account of its etymology of chariot-making,268 is not correct. For in the case of rathakara it is correct that the term refers to someone belonging to the three varnas, because otherwise the springtime etc., which are given in the statement on the origin of this fire-building, would be invalidated, and because usages of a word in the sense of different castes, which is given in the mantra "saud hanyana ṛbhavaḥ stiracakṣasalp would be invalidated. Despite the fact that rathakara is also a name for another caste-as learnt from the smrti "the rathakara is born out of a kariņi by a mahiṣya" (so that the rathakara is born from an anuloma marriage of a kṣatriya man and a vaidya woman), nevertheless, since, on Sankha's evidence" that the rathakara is not forbidden to perform rites of sacrificing, fire-building and initiation, there is no conflict of qualification for rites that can only be realized through knowledge of the Veda,273 and since the word rathakara (in its etymological meaning) is inappropriate for members of the three varnas because they are forbidden to follow an artisan's profession, therefore we can only conclude that in both cases different castes are denoted by the term, and so there is no conflict. 
 Moreover, when knowledge of the thing meant by a word is obtained from the denotation of the separate members that compose the word, then the Author of the Sutras rules out the validity of a denotation in 
  
 111 
@@ -602,7 +601,7 @@ Therefore, those eminent brahmins are called sātvatas and bhagavatas who becaus
 112 
 
 follow a reprehensible profession and perform sacrifices for respectable Bhāgavatas professionally, this fact alone does not mean that one may say that they are not brahmins. A vedic priest who officiates as an adhvaryu at a jyotistoma does not thereby lose caste. If the priest were not to receive fees, the puja itself would remain fruitless; they take fees in order to realize completely the excellence of the pūjā. At the conclusion of the 
-worship one must give gold to the priest according to capacity; otherwise the fruit will go to the puja priest himself, as is shown by the smrti: "A sacrifice for which a small fee is given kills (the sacrificer)."279 It is however prohibited that a covetous Vedic priest officiate as a priest after he himself has put up his demands for a fee, c.g. in the statement: ("There is an error called 'garbage""). When the sacrificer appoints as a officiant priest who covets the office, thinking either "He should give me (a fee)" or "He should choose me." "This is as far from the sacrificer as garbage; this does not benefit the sacrificer."'280 donation of the sacerdotal fee which is purified by faith is felicitous for both, as according to the smrti, "He who receives the offering and he who denotes it both go to heaven.\*\*281 
+worship one must give gold to the priest according to capacity; otherwise the fruit will go to the puja priest himself, as is shown by the smrti: "A sacrifice for which a small fee is given kills (the sacrificer)."279 It is however prohibited that a covetous Vedic priest officiate as a priest after he himself has put up his demands for a fee, c.g. in the statement: ("There is an error called 'garbage""). When the sacrificer appoints as a officiant priest who covets the office, thinking either "He should give me (a fee)" or "He should choose me." "This is as far from the sacrificer as garbage; this does not benefit the sacrificer."'280 donation of the sacerdotal fee which is purified by faith is felicitous for both, as according to the smrti, "He who receives the offering and he who deit both go to heaven.\*\*281 
 The 
 133\. The statements that professional worship of the deity and living off the god's treasure makes a man a devalaka must be taken to refer to the profes sional worship of, and the living off the treasure of, other deities than Vasudeva. Thus the blessed Vyāsa: "A devalaka is he who lives on Rudra etc."\*\*\*\* And there is also Sandilya's word: "All those who perform sacrifices professionally and are also not consecrated 
 
@@ -660,433 +659,372 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 
 
-## NOTES 
-1\. To Yamuna, God's omniscience consists in this unlimited percipience, so that, as he will argue below (§ 109), the 
-validity of Pancarātra does not rest only on Scripture, but also on Perception. 
-2\. In the purva paksa the principal opponents introduced are what one may already call smārta brahmins, and among them especially the orthodox followers of Mimāmsi. Vedanta opposition will be discussed. 
-No 
-3\. fabda, and its synonyms, have been translated variously as Verbal Testimony, Verbal Evidence in general, or Scripture in particular, depending on the context. 
-4\. prāmāna has generally been rendered with "means of 
-knowledge," sometimes with "criterion." 
-5\. jagati or toke: "in the world of experience, in common 
-experience." 
-6\. Punctuate after iti which closes the question introduced in prsto vyācasṭām; abhi-ni-vis "to stick to a partisan view (in the teeth of contrary evidence)." I take bala iva as sandhi for böle iva, the meaning being that the objector takes the view that something limited (the boy) is really unlimited (mature adult). 
-7\. siddhasadhana, one of the defects of an argumentation by which proof is sought of that which is already proved or established. Space (akāta) is, by definition, unlimited and cannot illustrate the thesis that something finite can be infinite. 
-8\. ribhu in the sense of "omnipresent, infinite." 
-9\. namely, the Pañcaratra postulation that such tantric ceremonies as consecration (ditsa), etc, are means leading to the summum bonum. 
-10\. In the standard inference: the mountain has fire, because 
-it has smoke, as in the case of the kitchen. 
-123 
-16 
-124 
+## 
+ 
+[^41]: 
 
-11\. Yamuna throughout treats Satvata and Bhāgavata as 
-synonymous. 
-12\. pauruşėja and apauruseya; the latter has in the sequel been rendered with "preterpersonal." Person here does not inean only "human person" but "any being endowed with personal features, including God." 
-13\. "Eternal Scripture" (õgama) is preter-personal scripture, since any verbal statement originating from a person is cotemporal with that person, and the purvapaksin does not admit the existence of an eternal personal deity. 
-14\. arthapatti, throughout translated "circumstantial-implication". It is a kind of inference by which is established something that must be established, yet is not established by another means of knowledge; for example: "Devadatta, who is well-fed, does not eat by day:" since he cannot be well-fed without eating at all, it is deduced, by circumstantial implication, that he eats by night, 
-15\. namely, the relation of being a means to a certain end. 16. KMS 1.3.2 api od kartrsamanyāt pramāṇam anumānam syat "mpti is authoritative, because both ampli and Veda have the same agent performing its mandates," 
-17\. The morning and evening oblations, the New and Full Moon oblations, and the soma sacrifice, examples respectively of nitya (daily recurring), naimilika (occasional) and kamya (desiderative) rites. 
-18\. aştaka is the name of the 8th day after Full Moon in the winter and fifira months, on which an oblation is performed for the deceased (Manu 4.119; 150). 
-19\. the crepuscular observances. 
-20\. the point is taken up in detail infra §§ 119 f. 
-21\. respectively yoga, whereby the component parts of the word are given their own meaning; and rudi, the total meaning of a word that has become conventional and does not necessarily correspond to the meanings of its 
-NOTES 
-125 
-component parts. Rathakara means by poga "cbariotmaker, cartwright." by ridhi a caste which is not at all characterized by this profession, 
-22\. adhyayanasiddhabuddhyangatoabkangenāpi. Such a "connotation" is, for example, that the rathakara in the literal sense of cartwright is disqualified for Vedic ritual, because a cartwright is a füdra; on this point see infra. 
-23\. upanapana, which is the first step to his acquisition of Vedic knowledge. 
-24\. Manu 10.23. 
-25\. the term "by royal decree" shows that it is a caste profes 
-sion. Quotation not identified 
-26\. not found in Ausanasasmrti (AAS 48). 
-27\. 
-unidentified. 
-28\. 
-unidentified. 
-29\. Manu 10.40. 
-30\. 
-31\. 
-32\. 
-This point is detailed upon infra § 134 f 
-unidentified. 
-unidentified. 
-not in Devalasmptl. 
-33\. unidentified. 
-31\. 
-not in Atrismpti: Avaluka is unknown to me, kalpa. devalaka can be explained as a professional kalpa priest, kalpa either in the sense of ("unorthodox) ritual," or 'astrological mansion"; gapabhogadevalaka is likewise obscure, but probably referato unorthodox priest engad in gapa worship. 
-126 
-37\. namely, dīkṣā. 
+ 
+[^42]: 
 
-38\. namely, the four Vedas, six Vedāngas, the Purapas, 
-Mimans5, Nyaya and Dharmasastra. 
-39\. BrS. 2.2.42. 
-40\. A Naiyayika. Traditionally, Nyaya does not accept the Mimāns view that the Vedas have not originated from 
-a person. 
-41\. The argument is thus: The Veda is of personal origin, because it is language; language is invariably found to originate from persons. The Naiyayika compares the Mimasaka's view in the terms of this argument with the standard inference: the mountain has fire, because it has smoke. 
-42\. avatara "descent, emergence." The meaning is as follows: Dharma is by definition that action which leads to a certain end by suprasensible law. Since the process (the Incans-end relation) is suprasensible, there can be no other authority for it than Scriptural authority. 
-43\. This envisages the world as the sum total of the fruits (phala) brought about by observance or non-observance of dharma, which is thus instrumental to world creation. 
-44\. cf. Udayana, Kusumanjali4.1. 
-45\. Since they are products, they have been produced by a person (God) who knew the means by which to produce them (dharma and adharma). 
-46\. This is the Mimasā view which holds that the dharma and adharma as instruments in creation are always the dharma and adharma of a particular intelligent being whose body is itself the product of dharms and adharma and can therefore never, however intelligent he may be, control them. The Mimimsaka admits that the universe, being made up of parts, is subject to origination and destruction, but never at one time, since all entities presuppose former acts that have brought them about. 
-NOTES 
+
+[^43]:  
+[^44]:  
+[^45]: Since they are products, they have been produced by a person (God) who knew the means by which to produce them (dharma and adharma). 
+[^46]: This is the Mimasā view which holds that the dharma and adharma as instruments in creation are always the dharma and adharma of a particular intelligent being whose body is itself the product of dharms and adharma and can therefore never, however intelligent he may be, control them. The Mimimsaka admits that the universe, being made up of parts, is subject to origination and destruction, but never at one time, since all entities presuppose former acts that have brought them about. 
+
 127 
 The law of dharma and adharma necessarily operates eternally. No agency is possible which can intervene in this eternal operation fromact to act, by either beginning or ending the universe. On this cf. Prakarapapafcikā, p. 137 ff. for the Prabhakara view, and Slokavirttika, Sambandhākṣepaparihara 47-116 for the Bhitta view. 47. lit. "that which is unprecedented, not known before, se. by other means of knowledge" in Mimāmsā it describes especially that suprasensible power inherent in the act which makes it produce its result. 
-48\. The argument is that one cannot know that the act will indeed produce an effect until this effect has materialized; thus the act's power-apurea-cannot be known beforehand as the instrument of effectuation. By the Naiyayika's definition only one who knows what instruments are effective in production can actually produce. 49. unidentified. 
-50\. mantra and arthavada: the terms indicate that the Naiyayika continues to address the Mimimsaka, for these of course are Mimāmsā terms, mantra being the Vedic formula used at the ritual, arthavada the descriptive, noninjunctive passages of Brahmana and later Vedic texts. 51. RV. 10. 90. 14. 
-52\. Yamuna concurs in the Mimāmsaka's refutation of the Naiyayika's views, to the extent that he too rejects that the existence of God can be proved by reason; but he will counter the Mimagisa assertion that God cannot be proved at all, that in fact there is neither room nor purpose for a God in the universe. For Yamuna, God has all the characteristics He has for the Naiyayika, but he proves them from Scripture, not reason. 
-53\. That which makes the Veda authoritative, i.e., a means of valid knowledge, is just this that it communicates knowledge of apurva facts, e.g., that a soma sacrifice is a means of attaining heaven, i.e., generally matters pertaining to dharma. 
+[^48]: The argument is that one cannot know that the act will indeed produce an effect until this effect has materialized; thus the act's power-apurea-cannot be known beforehand as the instrument of effectuation. By the Naiyayika's definition only one who knows what instruments are effective in production can actually produce. 49. unidentified. 
+[^50]: mantra and arthavada: the terms indicate that the Naiyayika continues to address the Mimimsaka, for these of course are Mimāmsā terms, mantra being the Vedic formula used at the ritual, arthavada the descriptive, noninjunctive passages of Brahmana and later Vedic texts. 51. RV. 10. 90. 14. 
+[^52]: Yamuna concurs in the Mimāmsaka's refutation of the Naiyayika's views, to the extent that he too rejects that the existence of God can be proved by reason; but he will counter the Mimagisa assertion that God cannot be proved at all, that in fact there is neither room nor purpose for a God in the universe. For Yamuna, God has all the characteristics He has for the Naiyayika, but he proves them from Scripture, not reason. 
+[^53]: That which makes the Veda authoritative, i.e., a means of valid knowledge, is just this that it communicates knowledge of apurva facts, e.g., that a soma sacrifice is a means of attaining heaven, i.e., generally matters pertaining to dharma. 
 20 
 120 
 
-51\. the individual soul. 
+[^51]: the individual soul. 
 \*55. supra note. 
-56\. Since the aparea power is suprasensible, it can never be 
+[^56]: Since the aparea power is suprasensible, it can never be 
 perceived, and the assumption of a God who 'supervises' and controls this power because he perceives it is absurd. 57. read na labhyate "oirodhe" pi; the meaning is this: when a certain fact (the eternality of pots) cannot be proved by a ground (recollection) because this ground contains a contradiction (it is recollected that pots having existed cease to exist), this does not prove that the same ground (recollection) cannot prove the eternality of earth, mountains, etc., when there is no contradiction contained in it (nobody has recollection of a vanishing mountain). 50. adhikaranasiddhanta is a conclusion which, as soon as one thing is established (e.g., that there is a world creator), establishes another topic discussed (e.g., omniscience). On this question, ef. Tarkabhāṣā 43. 
-59\. It is the contention of Mimamsa that words and their 
-capacity of conveying meaning are eternal. 
-60\. Sequence, of course, supposes priority and posteriority of the entities in sequence, while eternals are co-eternal. 
-61\. kramavāntarajati; the difference resides in the createdness of the Pancarātra and the uncreatedness of the Veda, which introduces a difference of degree between the word sequences of both corpora of verbal statements. 
-62\. This is Yamuna's objection, which states the extent to which he concurs in the preceding Mimāmsā argument against Nyaya. 
-€3. This starts the discussion of the Prabhakara theory on the limitations of the validity of verbal statements. First general Mimāmsā views on the subject are discussed. 64. The validity of fabda lies in its communicating contents that cannot be known through other means of knowledge. What I translate as 'facts" are more literally "establishedNOTES 
-129 
-entities," established, that is, by other means of knowledge than fabda. A scriptural statement of the kind "grass is green" is not strictly valid in the sense that, in order to know that grass is green, we need a scriptural statement to that effect. Another proving factor, c.g., the means of knowledge Perception, may turn up conceivably and thus make the scriptural statement superfluous; or we may find that grass is not invariably green, but changes its colour, which would reverse the scriptural statement. Scriptural validity, i.e., Scripture's being a means of knowledge, is to the Prabhakara Mimimsaka, its being the sole means of knowing a particular thing. To the Prabhakara this validity is ideal in the case of injunctions concerning actions which, suprasensibly, lead to a certain desired end. 
-65\. The injunction concerning the odana oblation includes an injunction concerning the preparation of the odana and the fetchingof firewood for the cooking. Since experience shows that for a cooking fire one needs firewood, this karya is not strictly known on scriptural authority. 
-66\. This objection ignores the priorities among pramapas, or means of knowledge; for the Prabhakara, Perception, etc. are prior to, take precedence of, Scripture in case of perceptible, etc. contents. Generally Perception is prior to Inference. To Yamuna, therefore, no priority of Perception to Scripture is given, which is expected since in his view Scripture may also be an account of (God's) Perception, as in the case of Pancaratra. 
+[^59]: It is the contention of Mimamsa that words and their capacity of conveying meaning are eternal. 
+[^60]: Sequence, of course, supposes priority and posteriority of the entities in sequence, while eternals are co-eternal. 
+[^61]: kramavāntarajati; the difference resides in the createdness of the Pancarātra and the uncreatedness of the Veda, which introduces a difference of degree between the word sequences of both corpora of verbal statements. 
+[^62]: This is Yamuna's objection, which states the extent to which he concurs in the preceding Mimāmsā argument against Nyaya.
+[^63]: 
+
+    This starts the discussion of the Prabhakara theory on the limitations of the validity of verbal statements.  
+    First general Mimāmsā views on the subject are discussed. 
+
+
+[^66]: This objection ignores the priorities among pramanas, or means of knowledge; for the Prabhakara, Perception, etc. are prior to, take precedence of, Scripture in case of perceptible, etc. contents. Generally Perception is prior to Inference. To Yamuna, therefore, no priority of Perception to Scripture is given, which is expected since in his view Scripture may also be an account of (God's) Perception, as in the case of Pancaratra. 
 \*67. This sums up the conclusion of the refutations of both the Naiyayika's and Mimamsaka's views: the defects consequent upon the Nyaya proofs of God are avoided on the basis of scriptural examination, since Scripture can indeed validly pronounce on God. 
-68\. The Prabhakaras, who are notorious for the gaurava 
+[^68]: The Prabhakaras, who are notorious for the gaurava 
 'complicatedness" of their argumentations. 
 130 
 
-69\. "Denotation, denoting power, denotativeness" in the following Prabhakara discussions have to be understood as the power of verbal statements to provide unprece= dented and non-superfluous knowledge concerning their contents. In the Prabhakara view, a verbal statement by itself is denotative only in injunctive forms, while substantive statements have denotation either through contextual connection with injunctive statements, or (but this is not strictly "true" denotation) through repetition of otherwise knowable facts. This view, which has obviously been developed for scriptural statements in the first place, is thereupon extended to ordinary language as well, and is thus expressed in the following theory about learning language which is here understood, A child learns what certain sentences 'mean' by observing the action which his elders take upon hearing these sentences, When he knows no language meaning (yuthatti), he may acquire knowledge by first hearing one adult tell another to "get the cow," and subsequently observing that the other is getting the cow: by associating the two events he knows that an order to get the cow was the content of the first adult's statement "get the cow."" A remark without consequent action (e.g., "It is hot today,") cannot convey any such knowledge to one who does not know language. The process of the child knowing the sentence meaning is here described as arthapatti "reasoning by circumstantial implication;" since there is no other ground for the second man's getting the cow, it must have been the first man's statement. 
-70\. Thus śalikanatha, Prakarapapahciki, p. 182: niyo yali 
+[^69]: "Denotation, denoting power, denotativeness" in the following Prabhakara discussions have to be understood as the power of verbal statements to provide unprece= dented and non-superfluous knowledge concerning their contents. In the Prabhakara view, a verbal statement by itself is denotative only in injunctive forms, while substantive statements have denotation either through contextual connection with injunctive statements, or (but this is not strictly "true" denotation) through repetition of otherwise knowable facts. This view, which has obviously been developed for scriptural statements in the first place, is thereupon extended to ordinary language as well, and is thus expressed in the following theory about learning language which is here understood, A child learns what certain sentences 'mean' by observing the action which his elders take upon hearing these sentences, When he knows no language meaning (yuthatti), he may acquire knowledge by first hearing one adult tell another to "get the cow," and subsequently observing that the other is getting the cow: by associating the two events he knows that an order to get the cow was the content of the first adult's statement "get the cow."" A remark without consequent action (e.g., "It is hot today,") cannot convey any such knowledge to one who does not know language. The process of the child knowing the sentence meaning is here described as arthapatti "reasoning by circumstantial implication;" since there is no other ground for the second man's getting the cow, it must have been the first man's statement. 
+[^70]: Thus śalikanatha, Prakarapapahciki, p. 182: niyo yali 
 sarvakarye yaft soakiyalvena budhyate. 
-71\. That is to say that the denotativeness of the words composing the statement is dependent upon the injunctive denotation of the statement as a whole. 
-72\. The linādi verbal terminations of Sanskrit to which in English correspond verbs compounded with auxiliaries like "should, must, to be to, ought to." 
-NOTES 
-131 
-73\. For example, a sentence: "He desires to go to heaven," which has the verb in the indicative, followed by a statement "he should sacrifice with a soma sacrifice," where the verb is injunctive, is truly denotative in spite of its indicative form, since it is obviously subordinated to the injunctive sentence, to which it describes the performer's qualification: only one who desires to go to heaven has title to, is qualified for, the performance of a soma sacrifice. 
-74\. This is an example like "it is hot today;" the young father's happy countenance is not considered an action, 75. E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," is an injunctive statement in indicative form. 
-76\. This is the Prabhakara view of the denotativeness of 
-single words, summarized in the formula anditabhidhāna, which is short for kāryānvitābhidhana "denotation of words syntactically connected in an injunctive sentence," 
-77\. This point will be taken up and confirmed infra §04. 78. E.g., a statement "there are fruits on the river bank" 
-does not by itself, self-sufficiently, create in the hearer the knowledge that there are fruits on the river bank; the means of knowledge here really is inference, since the hearer must infer that the speaker knows what he is talking about, that he knows that fruit means "fruit", river bank 'river bank," etc. 
-79\. This is again the Prabhakara view. The Bhatta view is somewhat different; according to the latter the upanisads are arthacadas (subsidiary substantive statements laudatory of elements of injunctions) to the eternality of the performer's personality (diman), which eternality is presupposed by the efficacy of the injunction: e.g., the injunction be who desires heaven must offer with the soma sacrifice" supposes the immortality of the performer. 
-17 
-132 
-80\. Ch Up. 1.5.1. 
+[^71]: That is to say that the denotativeness of the words composing the statement is dependent upon the injunctive denotation of the statement as a whole. 
+[^72]: The linādi verbal terminations of Sanskrit to which in English correspond verbs compounded with auxiliaries like "should, must, to be to, ought to." 
 
-81\. In this the Prabhakara concurs with the Bhatta. Injunctions without time of fruition specified are not guaranteed to bring about the desired effect during the present lifetime of the performer. 
-82\. 
+131 
+[^73]: For example, a sentence: "He desires to go to heaven," which has the verb in the indicative, followed by a statement "he should sacrifice with a soma sacrifice," where the verb is injunctive, is truly denotative in spite of its indicative form, since it is obviously subordinated to the injunctive sentence, to which it describes the performer's qualification: only one who desires to go to heaven has title to, is qualified for, the performance of a soma sacrifice. 
+[^74]: This is an example like "it is hot today;" the young father's happy countenance is not considered an action, 75. E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," is an injunctive statement in indicative form. 
+[^76]: This is the Prabhakara view of the denotativeness of 
+single words, summarized in the formula anditabhidhāna, which is short for kāryānvitābhidhana "denotation of words syntactically connected in an injunctive sentence," 
+[^77]: This point will be taken up and confirmed infra §04. 78. E.g., a statement "there are fruits on the river bank" does not by itself, self-sufficiently, create in the hearer the knowledge that there are fruits on the river bank; the means of knowledge here really is inference, since the hearer must infer that the speaker knows what he is talking about, that he knows that fruit means "fruit", river bank 'river bank," etc. 
+[^79]: This is again the Prabhakara view. The Bhatta view is somewhat different; according to the latter the upanisads are arthacadas (subsidiary substantive statements laudatory of elements of injunctions) to the eternality of the performer's personality (diman), which eternality is presupposed by the efficacy of the injunction: e.g., the injunction be who desires heaven must offer with the soma sacrifice" supposes the immortality of the performer. 
+ 
+[^80]: Ch Up. 1.5.1. [^[^132]]
+
+[^81]: In this the Prabhakara concurs with the Bhatta. Injunctions without time of fruition specified are not guaranteed to bring about the desired effect during the present lifetime of the performer. 
+[^82]: 
 I read ata avarthavādānām. 
-83\. On this point see KMS 1.2.1. with Sabara's bhāṣya, 
-84\. On the Bhatta view of omniscience, cf. Kumārila, Samb. 
+[^83]: On this point see KMS 1.2.1. with Sabara's bhāṣya, 
+[^84]: On the Bhatta view of omniscience, cf. Kumārila, Samb. 
 47-59; 114-116. 
-85\. i.e, the appropriateness or propriety of a word in collocation with other words; in the sentence "his mother is barren," "barren" is obviously inappropriate. 86. The identification is considered an arthavada, i,c., lauda. 
+[^85]: i.e, the appropriateness or propriety of a word in collocation with other words; in the sentence "his mother is barren," "barren" is obviously inappropriate. 86. The identification is considered an arthavada, i,c., lauda. 
 tory of the sacrificial pole 
-87\. The relation between God and the texts has to be proved. 
+[^87]: The relation between God and the texts has to be proved. 
 I read jadi ca for api ca. 
-88\. 
-unidentified. 
-89\. RV. 10.90 14 
-90\. 
-91\. 
-Mahānār Up 11.12. 
-92\. Kath Up. 3.9. 
-93\. Svet Up. 6.9. 
-91\. Visnu Pur. 1.1.31. 
-95\. 
-96\. 
-Not in Manusmrti; reference perhaps to Manu 1.9-10? 
+[^88]: unidentified. 
+[^89]: RV. 10.90 14 
+[^90]: 
+[^91]: Mahānār Up 11.12. 
+[^92]: Kath Up. 3.9. 
+[^93]: Svet Up. 6.9. 
+[^91]: Visnu Pur. 1.1.31. 
+[^95]: 
+[^96]: Not in Manusmrti; reference perhaps to Manu 1.9-10? 
 I read tatha pi. 
-97\. Mund Up. 1.1.9. 
-98\. Svet Up. 6.7. 
-99\. unidentified. 
-100\. supra § 12. 
-101\. supra §11. 
-102\. Kumзrila, Slokavārttika 2.114. 
-103\. BA Up. 4.5.14. 
+[^97]: Mund Up. 1.1.9. 
+[^98]: Svet Up. 6.7. 
+[^99]: unidentified. 
+[^100]: supra § 12. 
+[^101]: supra §11. 
+[^102]: Kumзrila, Slokavārttika 2.114. 
+[^103]: BA Up. 4.5.14. 
 3 
-NOTES 
+
 133 
 104 Ch Up. 6.11.3. 105. ChUp.6.2.1. 106. Ch Up. 6.2.3. 
-107\. Taitt Up. 3.1.1. 
+[^107]: Taitt Up. 3.1.1. 
 The whole sentence includes tena jioanti, on which the present exegesis of bhuta is based. 
-108\. Bh G. 18.61. 
-109\. namely, that they are born (jātāri) and die (prayanti). 
-110\. Svet Up. 4.5. 
-111\. Bh G. 13.19. 
-112\. Kath Up. 2.18. 
-113\. Kath Up. 2.17. 
-114\. sc. of knowledge. 
-115\. here used as synonymous with Pasupata. 
-116\. I read rityā. 
-117\. pratijñārthah, the object or content of the pratijñā, which is the first step of the five-membered syllogism, e.g., "the mountain has fire" (parvatasya grimattuam). It does not therefore coincide with the Subject. In the proposition both S and P must be siddha, established as existing somewhere; a non-thing like a harc's horn can be neither S nor P. 
-118\. this "non-apprehension of what should be there (yogānu pa
+[^108]: Bh G. 18.61. 
+[^109]: namely, that they are born (jātāri) and die (prayanti). 
+[^110]: Svet Up. 4.5. 
+[^111]: Bh G. 13.19. 
+[^112]: Kath Up. 2.18. 
+[^113]: Kath Up. 2.17. 
+[^114]: sc. of knowledge. 
+[^115]: here used as synonymous with Pasupata. 
+[^116]: I read rityā. 
+[^117]: pratijñārthah, the object or content of the pratijñā, which is the first step of the five-membered syllogism, e.g., "the mountain has fire" (parvatasya grimattuam). It does not therefore coincide with the Subject. In the proposition both S and P must be siddha, established as existing somewhere; a non-thing like a harc's horn can be neither S nor P. 
+[^118]: this "non-apprehension of what should be there (yogānu pa
 lambha) is the criterion by which we know the absence of a thing. Here it is the absence of truth in Pancaratra that needs be proved by yoganupalambha, if the objector's contention that Pancaratra is invalid-through-reversion 
 be correct. 
-119\. I have difficulty in understanding the argument unless I assume an illogicality. By stating as his ground since in agama we have its meaning exactly conveyed as it is" the objector not only agrees with the preceding argumentation that on inferential grounds Pañcaratra is not 
+[^119]: I have difficulty in understanding the argument unless I assume an illogicality. By stating as his ground since in agama we have its meaning exactly conveyed as it is" the objector not only agrees with the preceding argumentation that on inferential grounds Pañcaratra is not 
 134 
-120\. 
+[^120]: 
 
 invalid, but even goes so far as accepting that it is valid in other words, confuse non-invalidity with validity. Then, because of this validity (svarthasya tathātvāvabodhanāt), there arises a conflict with a deviating statement of the Veda which has its own validity; since only one can be true, it follows that when Pancarãtra is true by inference, it is untrue by Veda. But I don't see how the objector can reasonably infer the validity of Pañcarātra, since its meaning or content is admittedly suprasensible. Yamuna himself has not argued that Inference proves the validity, but that Inference cannot disprove the correctness of the thesis. 
 a hetvantaram constitutes on the part of the debator a confession of importance since the ground which he gave does not hold and he has to produce a different ground. By the rules of debate this means a defeat.
-121\. infra §§ 76 F. 
-122\. The founder of the school of logic. 
-123\. The Vedic injunction na hinṇsyāt sarvabhūtāni "one should not injure any being" raises the question of the validity of injunctions which do require injury to beings. But this is a secondary question which does not affect the validity of the Veda as a whole. Similarly, the thesis "Pañcaratra is valid" is not disproved by the possible mention in the valid Veda of something that conflicts with something in Pañcaratra. So far the argument is not for validity but against invalidity. 
-124\. 
+[^121]: infra §§ 76 F. 
+[^122]: The founder of the school of logic. 
+[^123]: The Vedic injunction na hinṇsyāt sarvabhūtāni "one should not injure any being" raises the question of the validity of injunctions which do require injury to beings. But this is a secondary question which does not affect the validity of the Veda as a whole. Similarly, the thesis "Pañcaratra is valid" is not disproved by the possible mention in the valid Veda of something that conflicts with something in Pañcaratra. So far the argument is not for validity but against invalidity. 
+[^124]: 
 Since pots are knowable, the ground would also apply to prove the eternality of pots and all things that are knowable. 
-125\. Since only earth (as an element) possesses smell, this 
+[^125]: Since only earth (as an element) possesses smell, this 
 ground has no general applicability. 
-126\. Like the ground "because it is knowable" which applics 
+[^126]: Like the ground "because it is knowable" which applics 
 to things regardless of whether they are eternal or not. 
 
-[[135]] 
-127\. Obviously, if the ground were not known, it could not be 
+[^[^135]] 
+[^127]: Obviously, if the ground were not known, it could not be 
 stated. 
-128\. This objection seems to speak to the summary denial that 
+[^128]: This objection seems to speak to the summary denial that 
 the ground is unestablished through reversion. 
-129\. Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, fabdapramānja) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning. Among these thingsmeant Yamuna includes facts as well as kargas, hence the following debate with the Prabhakara, 
+[^129]: Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, fabdapramānja) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning. Among these thingsmeant Yamuna includes facts as well as kargas, hence the following debate with the Prabhakara, 
 
-130\. supra § 37. 
-131\. Yamuna here takes up the Prabhakara's theory that a child learns the meaning of language through the action his elders take on hearing a statement, so that the denotativeness of language is defined by its injunctiveness. He uses the Prabhakara's example of the factual statement: "A child is born to you." A child who does not know language has no way of understanding the meaning of this statement because the young father's happiness conveys nothing specific But, asks Yamuna, suppose the same child has witnessed his father reception of the cheering news and the subsequent preparations for a birth ceremony. Since one follows immediately upon the other, the child associates one with the other and can thus understand the meaning of the statement, though the statement itself was no injunction, but a communication of an established fact, 
-132\. Then, one may suppose, the child would not so readily associate the birth ceremony with the previous com. mueniation. 
-133\. supra §36. 
-134\. The things-meant or denoted by the word, 
-135\. Yamuna's argument is that the injunctive, etc. termina
+[^130]: supra § 37. 
+[^131]: Yamuna here takes up the Prabhakara's theory that a child learns the meaning of language through the action his elders take on hearing a statement, so that the denotativeness of language is defined by its injunctiveness. He uses the Prabhakara's example of the factual statement: "A child is born to you." A child who does not know language has no way of understanding the meaning of this statement because the young father's happiness conveys nothing specific But, asks Yamuna, suppose the same child has witnessed his father reception of the cheering news and the subsequent preparations for a birth ceremony. Since one follows immediately upon the other, the child associates one with the other and can thus understand the meaning of the statement, though the statement itself was no injunction, but a communication of an established fact, 
+[^132]: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous com. mueniation. 
+[^133]: supra §36. 
+[^134]: The things-meant or denoted by the word, 
+[^135]: Yamuna's argument is that the injunctive, etc. termina
 tions of the verb denote the injunction as their thingmeant (padartha); but what makes this injunction 
 136 
 
 'meaningful' is not that it is an injunction, but that it is connected with someone who is qualified to accept the injunction, e.g., in the injunction soargakāmo jajeta. The injunctive yajua has no meaning or purpose unless there is a "desire for heaven;" the meaning of the injunction thus is connected with the consequence of this desire of heaven, namely, that somebody who has this desire is prepared to do something about it. 
-136\. ardhajarati is a half-old woman; the ardhajaraliyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way. 
-137\. Misra's text here has pady api prartly anu papattisamadhigamaniyaiva Sabdaŝaktis "the denoting power of language is to be known only through the impossibility of operation," which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of yulpatti, in pracrtti perhaps a corruption of kāryārthe or kāryārtha-. I read conjecturally karjar the vyutpatti. samadhigamaniyaiva, which gives the required sense. 
-138\. This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no incans of knowledge in their own right. 
-139\. read na hi kriyakārye vyut pannaḥ sthāji karyam. 
-141\. 
-140\. athayi; the Prabhakara view is that the karya has a lasting efficacy beyond the inevitably transient action it involves; for the karya must remain in order to effect the fruit of the action at any time after the completion of the action. Yamuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of laktand "figurative usage," which remains related to the mukhjā "principal usage." But he will deny the entire construction (67). 
-NOTES 
+[^136]: ardhajarati is a half-old woman; the ardhajaraliyanyāya is used to indicate that the opponent wants to have it both ways and that consequently his argument, like a half-old and half-young woman, is useless either way. 
+[^137]: Misra's text here has pady api prartly anu papattisamadhigamaniyaiva Sabdaŝaktis "the denoting power of language is to be known only through the impossibility of operation," which makes no sense. The reading must be corrupt, in anu papatti we may find a corruption of yulpatti, in pracrtti perhaps a corruption of kāryārthe or kāryārtha-. I read conjecturally karjar the vyutpatti. samadhigamaniyaiva, which gives the required sense. 
+[^138]: This holds for those statements which are not verifiable by other means of knowledge, for if they are verifiable, they are no incans of knowledge in their own right. 
+[^139]: read na hi kriyakārye vyut pannaḥ sthāji karyam. 
+[^141]: 
+[^140]: athayi; the Prabhakara view is that the karya has a lasting efficacy beyond the inevitably transient action it involves; for the karya must remain in order to effect the fruit of the action at any time after the completion of the action. Yamuna objects that we cannot have two altogether different denoting powers in langauge, one to convey a transitory thing, another to convey a non-transitory thing. The only possible explanation is that of laktand "figurative usage," which remains related to the mukhjā "principal usage." But he will deny the entire construction (67). 
+
 137 
-142\. This is the Pribhikara view, which holds that in the injunction nijaga seargakāmo yajeta the sadhya (object to be realized) is not sparge, but the entire niyoga (cf. Prakarapapañcika, p. 190), so that the statement of the injunction would become the means (sadhana) to realize that sadhya, sc. the injunction. 
-143\. Cr. Prakaraṇapañcikā p. 182. 
-144\. Nothing can become a fact (siddha) as long as it is still to be made a fact (sadhya) by a factualizing" means (sadhana); thus as long as it is related with such a means it cannot be a fact. 
-145\. This is the principle of ekarakyata: a statement can contain only one injunction, otherwise there is aakyabheda: what should be one sentence is split up into two. 
-146\. Quotations not identified; but for the argument, see 
+[^142]: This is the Pribhikara view, which holds that in the injunction nijaga seargakāmo yajeta the sadhya (object to be realized) is not sparge, but the entire niyoga (cf. Prakarapapañcika, p. 190), so that the statement of the injunction would become the means (sadhana) to realize that sadhya, sc. the injunction. 
+[^143]: Cr. Prakaraṇapañcikā p. 182. 
+[^144]: Nothing can become a fact (siddha) as long as it is still to be made a fact (sadhya) by a factualizing" means (sadhana); thus as long as it is related with such a means it cannot be a fact. 
+[^145]: This is the principle of ekarakyata: a statement can contain only one injunction, otherwise there is aakyabheda: what should be one sentence is split up into two. 
+[^146]: Quotations not identified; but for the argument, see 
 Prakarapapañcikā, p 183 f 
-147\. No specific fruits are attached to nitya rites. 
-148\. mahatmya, which corresponds to pradhanya, pradhānatā 149. BA Up. 5.6.1. 
-150\. Not to be found in the major Upanisads. 
-151\. supra §35. 
+[^147]: No specific fruits are attached to nitya rites. 
+[^148]: mahatmya, which corresponds to pradhanya, pradhānatā 149. BA Up. 5.6.1. 
+[^150]: Not to be found in the major Upanisads. 
+[^151]: supra §35. 
 152, supra §42. 
-153\. read ity asal for iliyat. 
-154\. Svet Up. 3.19. 
-155\. Svet Up. 6.8. 
-156\. cf supra note. 
-157\. supra note 86. 
-158\. supra § 36. 
-159\. This must refer to the śruti sa yo ha voi tat param veda 
+[^153]: read ity asal for iliyat. 
+[^154]: Svet Up. 3.19. 
+[^155]: Svet Up. 6.8. 
+[^156]: cf supra note. 
+[^157]: supra note 86. 
+[^158]: supra § 36. 
+[^159]: This must refer to the śruti sa yo ha voi tat param veda 
 น 
 brahma veda brahma bhavati (quoted Ramanuja, Vedārthasarngraha, 91), which I have been unable to locate. 
-160\. Taitt Up. 2.1.1. brahmatid apnoti param. 
+[^160]: Taitt Up. 2.1.1. brahmatid apnoti param. 
 138 
 
-161\. This must refer to Taitt Up. 2.1.1 so'fnute sarpan kāmān saha brahmaṇā vipaściṭā, but sa samagaḥ is obscure, unless one may regard it as a corruption of vipafcitā. 
-162\. 
+[^161]: This must refer to Taitt Up. 2.1.1 so'fnute sarpan kāmān saha brahmaṇā vipaściṭā, but sa samagaḥ is obscure, unless one may regard it as a corruption of vipafcitā. 
+[^162]: 
 Partial quotations from Taitt Up. 2.1.1, Mund Up. and an unidentified source. 
 162a Nrsimhapurvatapani Up. 2.4 (which reads purastad for 
 parastad) and Svet Up. 3.9. 
-163\. not identified. 
-164\. 
+[^163]: not identified. 
+[^164]: 
 not identified. 
-165\. Could this refer to Varaha Purana? Cf. infra. 
-166\. Visnu Pur., 1.1.31. 
-167\. Not in Manusmrti. 
-168\. A little known Vedic branch (if it was a Vedic tradition), from which certain Vaisnava sects derive their authority; 
+[^165]: Could this refer to Varaha Purana? Cf. infra. 
+[^166]: Visnu Pur., 1.1.31. 
+[^167]: Not in Manusmrti. 
+[^168]: A little known Vedic branch (if it was a Vedic tradition), from which certain Vaisnava sects derive their authority; 
 cf. infra §138. 
-169\. These quotations could not be identified. 
-170\. BA Up 4.1.5. 
-171\. Visnu Pur. 6.4.40. 
-172\. cf. Varaha Pur., 72.4, which reads padrate in b. 
-173\. cf. Varaha Pur. 7026 na tasmat parato devo bhavita na bhavisyati. It is clear from several quotations from this 
+[^169]: These quotations could not be identified. 
+[^170]: BA Up 4.1.5. 
+[^171]: Visnu Pur. 6.4.40. 
+[^172]: cf. Varaha Pur., 72.4, which reads padrate in b. 
+[^173]: cf. Varaha Pur. 7026 na tasmat parato devo bhavita na bhavisyati. It is clear from several quotations from this 
 Purana that Yamuna's text had different readings, not all of them better. 
-174\. Matsya Pur. 290.15. 
-175\. The Linga, Vayu and Bhavisyat quotations could not be 
+[^174]: Matsya Pur. 290.15. 
+[^175]: The Linga, Vayu and Bhavisyat quotations could not be 
 verified. 
-176\. Title of one of Yamuna's treatises. 
-177\. read sa hi saha jasamnedanasākṣālkṛtadikṣārādhonödidharmah 178. External signs worn by Saiva sectarians. 
-179\. Svet Up. 3.8. 
-180\. "The Doctrine of the Five Chapters." 
-181\. The highest material evolute; the dloka is out of order,NOTES 
+[^176]: Title of one of Yamuna's treatises. 
+[^177]: read sa hi saha jasamnedanasākṣālkṛtadikṣārādhonödidharmah 178. External signs worn by Saiva sectarians. 
+[^179]: Svet Up. 3.8. 
+[^180]: "The Doctrine of the Five Chapters." 
+[^181]: The highest material evolute; the dloka is out of order,
 139 
-182\. The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaśa yanādikrijāparaḥ. 
-183\. The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems out of order. The sense is clear 
+[^182]: The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaśa yanādikrijāparaḥ. 
+[^183]: The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems out of order. The sense is clear 
 however. 
-184\. corresponds to Varaha Purana. 70.36 foam ca rudra mahabaho mokatastrāni kārayal al pajasam dartayitva mahajātu 
+[^184]: corresponds to Varaha Purana. 70.36 foam ca rudra mahabaho mokatastrāni kārayal al pajasam dartayitva mahajātu 
 mahetoarah. 
-185\. ef. Varāha Pur., 70.41, which in cd reads nayasiddhanta
+[^185]: ef. Varāha Pur., 70.41, which in cd reads nayasiddhanta
 sam jñabhir ma ya fāstran tu darfitam. 
-186\. cf. Variha Pur., 70.38, which reads in cd fastrejoabkirato 
+[^186]: cf. Variha Pur., 70.38, which reads in cd fastrejoabkirato 
 loko bahuljena bhaved atah. 
-187\. nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate 
+[^187]: nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate 
 vedasanjaitam. 
-188\. cf. Varaha Pur., 70.21, yad vedabāḥpam karma ṣṣācchāstram udditya senzate I tad raudram iti cikk yatam tan nestam gaditam nṛṇām. 
-189\. cf. Varaha Pur., 70.40, mam vimor oyatiriktam ye brahmasiat ca doijottama bhajante pāpakarmāņas te panti narakam narāḥ, 
-190\. not identified. 
-191\. read pesom for eṣām. 
-192\. not identified. 
-193\. supra §52. 
-194\. Taitt Up. 2.8.1. 
-195\. supra 12. 
-196\. Aitareya Br. 
-197\. Manusmrti, 4.124. 
-199\. Mahabharata 1.265 f 
-199\. supra §17 
-200\. Supra § 17 
-201\. āgnavaispava, name of a sacrificial cake offered at the 
+[^188]: cf. Varaha Pur., 70.21, yad vedabāḥpam karma ṣṣācchāstram udditya senzate I tad raudram iti cikk yatam tan nestam gaditam nṛṇām. 
+[^189]: cf. Varaha Pur., 70.40, mam vimor oyatiriktam ye brahmasiat ca doijottama bhajante pāpakarmāņas te panti narakam narāḥ, 
+[^190]: not identified. 
+[^191]: read pesom for eṣām. 
+[^192]: not identified. 
+[^193]: supra §52. 
+[^194]: Taitt Up. 2.8.1. 
+[^195]: supra 12. 
+[^196]: Aitareya Br. 
+[^197]: Manusmrti, 4.124. 
+[^199]: Mahabharata 1.265 f 
+[^199]: supra §17 
+[^200]: Supra § 17 
+[^201]: āgnavaispava, name of a sacrificial cake offered at the 
 dikşaniyeşti. 
 18 
 140 
-202\. supra § 17. 
+[^202]: supra § 17. 
 AGAMA PRAMANYAK 
-203\. The author of the Brahmasutras is identified with Vyasa. 
+[^203]: The author of the Brahmasutras is identified with Vyasa. 
 Dvaipayana, composer of the Mahabharata 
-204\. Mahabharata, 12 340 (129.76) ff. 
-205\. Mahabharata, 6.66 (3012). 
-206\. Mahabharata not identified. 
+[^204]: Mahabharata, 12 340 (129.76) ff. 
+[^205]: Mahabharata, 6.66 (3012). 
+[^206]: Mahabharata not identified. 
 207, 
 Mahabharata not identified. 
-208\. BrS, 2.2.42. 
-209\. 'Divisions' of the Supreme God as Vasudeva, Sankarṣapa, 
+[^208]: BrS, 2.2.42. 
+[^209]: 'Divisions' of the Supreme God as Vasudeva, Sankarṣapa, 
 Pradyumna and Aniruddha. 
 210, tanmatras here in the sense of the "higher evolutes." 211. toyena jivān visasarja bhūmyām, MahānārUp., 1.4. 
-212\. 
-BrS. 2.3.16 (17). Translation: "A word descriptive of moving or unmoving beings, has not a secondary meaning [in referring to Brahman], because such a being's existence depends on Brahman's existence."" 
-213\. BrS., 2.3.17 (18). Translation: "The atman is not born because there is no śruti to that effect, and because of its eternality, which is proved by the śrutis." 
-214\. BrS, 2.2.43. 
-215\. Mund Up., 2.1.3. 
+[^212]: 
+BrS. 2.3.16 (17). Translation: "A word descriptive of moving or unmoving beings, has not a secondary meaning [^in referring to Brahman], because such a being's existence depends on Brahman's existence."" 
+[^213]: BrS., 2.3.17 (18). Translation: "The atman is not born because there is no śruti to that effect, and because of its eternality, which is proved by the śrutis." 
+[^214]: BrS, 2.2.43. 
+[^215]: Mund Up., 2.1.3. 
 216, BrS., 2.2.44. 
-217\. 
+[^217]: 
 BrS., 2.2.45. 
-218\. 
+[^218]: 
 In BrS., 2,2. 
-219\. asamañjasya, taken from BrS., 2.2.37. 
+[^219]: asamañjasya, taken from BrS., 2.2.37. 
 220, supra 5596, 97. 
-221\. ie., as a fat purusa compound "the beginning (source) of 
+[^221]: ie., as a fat purusa compound "the beginning (source) of 
 (valid) knowledge:" aijāānddibkor "since He (God) is a source of valid knowledge." 
-222\. cf. supra § 18. 
-223\. Karmani Lyu! Papini. 
-224\. 
+[^222]: cf. supra § 18. 
+[^223]: Karmani Lyu! Papini. 
+[^224]: 
 not identified. 
-NOTES 
+
 141 
 225, in order to understand any statement, one must first know the meaning of the words that compose it; this may be called dependence, so that to this extent any statement is dependent for its informativeness on other and prior knowledge; but this must also apply to Vedic statements. 226. If the cause (here: God) is above suspicion, the statement 
 will be accurate. 
-227\. gunataḥ prāmāṇyasyājuktateūd anabhjupagamãe; my understanding is that a statement has its validity by itself, and no secondary validity in the sense that its content must first be validated by some other means. The validity itself must be proved (namely by the character of the personal author or by its preterpersonal origin), but once proved, the statement itself is valid. 
-228\. Vaisnava rite observed five times a day: pañcakáliké. 
-229\. ślokavārttika, 2.6 7 ab. 
-230\. ib. 2.67 cd. 
-231\. 
+[^227]: gunataḥ prāmāṇyasyājuktateūd anabhjupagamãe; my understanding is that a statement has its validity by itself, and no secondary validity in the sense that its content must first be validated by some other means. The validity itself must be proved (namely by the character of the personal author or by its preterpersonal origin), but once proved, the statement itself is valid. 
+[^228]: Vaisnava rite observed five times a day: pañcakáliké. 
+[^229]: ślokavārttika, 2.6 7 ab. 
+[^230]: ib. 2.67 cd. 
+[^231]: 
 not identified. 
-232\. this speaks to 108, that the independent cognition cancels the dependent cognition, if there is conflict between them. Yamuna makes the point that this is not invariably true; that neither dependence nor independence is a cause of invalidation, sapeksanira peksatve is a dual and requires the correction of karanam into kārane, If my understanding of the text is correct. 
-233\. namely, because it requires another cognition in order to 
+[^232]: this speaks to 108, that the independent cognition cancels the dependent cognition, if there is conflict between them. Yamuna makes the point that this is not invariably true; that neither dependence nor independence is a cause of invalidation, sapeksanira peksatve is a dual and requires the correction of karanam into kārane, If my understanding of the text is correct. 
+[^233]: namely, because it requires another cognition in order to 
 be denied. 
-234\. namely, in the example of the burning lamp: is it the same flame that burns at six o'clock and at seven o'clock? We don't see the flame change or be succeeded by another flame. Only inference shows that since there is a different amount of oil in the lamp at different times, it is different oil that is burning as a flame, so that the flame is really different. The sense perception is of the varying amounts of oil. 
+[^234]: namely, in the example of the burning lamp: is it the same flame that burns at six o'clock and at seven o'clock? We don't see the flame change or be succeeded by another flame. Only inference shows that since there is a different amount of oil in the lamp at different times, it is different oil that is burning as a flame, so that the flame is really different. The sense perception is of the varying amounts of oil. 
 142 
-235\. The Naiyayikas. 
+[^235]: The Naiyayikas. 
  
-236\. Since Brahma is the creator of the world, he can know whether there were Vedas or not before creation; by taking away Brahma's memory, God in His omnipotence could start the myth of the preterpersonal origin of the Veda.. 
-237\. not identified. 
-238\. 
+[^236]: Since Brahma is the creator of the world, he can know whether there were Vedas or not before creation; by taking away Brahma's memory, God in His omnipotence could start the myth of the preterpersonal origin of the Veda.. 
+[^237]: not identified. 
+[^238]: 
 not identified. 
-239\. Sabarabhasya and KMS. 
-240\. supra § 17: vedabahyagrhitatrāt. I have rendered grhito by "accepted' to cover approximately the variety of meanings that Yamuna detects in the word. 
-241\. 
+[^239]: Sabarabhasya and KMS. 
+[^240]: supra § 17: vedabahyagrhitatrāt. I have rendered grhito by "accepted' to cover approximately the variety of meanings that Yamuna detects in the word. 
+[^241]: 
 Manusmrti, 8.107. 
-242\. People who do prohibited acts follow Vedic expiations; but if acceptance by people who commit forbidden acts is sufficient to deny the validity of what they accept, this means that the validity of the Veda would be denied. 
-243\. Manusmrti. 
-244\. supra § 17: this Buddhist injunction is outside the Veda 
-245\. 
+[^242]: People who do prohibited acts follow Vedic expiations; but if acceptance by people who commit forbidden acts is sufficient to deny the validity of what they accept, this means that the validity of the Veda would be denied. 
+[^243]: Manusmrti. 
+[^244]: supra § 17: this Buddhist injunction is outside the Veda 
+[^245]: 
 in one sense. 
 For the observance of a prohibition is as much a ritual action as the observance of an injunction. 
-246\. supra §14. 
-247\. supra § 16. 
+[^246]: supra §14. 
+[^247]: supra § 16. 
 248 
 supra § 59. 
-249\. Quotations not identified; the groups enumerated are 
+[^249]: Quotations not identified; the groups enumerated are 
 düdras, and yet by Vedic injunction have to observe, ie., to accept, the few Vedic injunctions addressed to them Do they by their acceptance invafifate these injunctions? 
-250\. not identified. 
-251\. read desaklasamsthaniditi. 
-252\. not identified. 
-253\. supra § 15. 
-NOTES 
+[^250]: not identified. 
+[^251]: read desaklasamsthaniditi. 
+[^252]: not identified. 
+[^253]: supra § 15. 
+
 143 
-254\. ie., is the same name used for several groups or only one? 255. The argument is: if S is P, then P is not therefore S. 
+[^254]: ie., is the same name used for several groups or only one? 255. The argument is: if S is P, then P is not therefore S. 
 The example is 'parvato 'gnimin dhumavattvāt if we interchange S and P, we get parvato dhumavin agnimattvåt, but this is not true, for though there is no fireless smoke, there is smokeless fire. Similarly here: the fifth may be a sitvata or a vaidya vratya, but being the fifth does not make the sitvata a vaidya vratya, 
-256\. In the Manu quotation supra § 15. 
+[^256]: In the Manu quotation supra § 15. 
 257, explained below, § 130. 
-258\. Hari has apparently a meaning 'lion. Or did Yamuna 
+[^258]: Hari has apparently a meaning 'lion. Or did Yamuna 
 think of Nrsimha ? 
-259\. gauḥ can mean 'cow' and 'word." 
-260\. supra §15. 
-261\. taddhita suffix, cf. Panini. 
-262\. "conventionally the two words are synonymous, 'etymo
+[^259]: gauḥ can mean 'cow' and 'word." 
+[^260]: supra §15. 
+[^261]: taddhita suffix, cf. Panini. 
+[^262]: "conventionally the two words are synonymous, 'etymo
 logically' they have difl'erent meanings. 
 263, Pipini. 
-264\. quoted supra. 
-265\. supra note. 
-266\. supra § 15. 
-267\. not identified. 
-268\. For the word means etymologically "maker of chariots, 
+[^264]: quoted supra. 
+[^265]: supra note. 
+[^266]: supra § 15. 
+[^267]: not identified. 
+[^268]: For the word means etymologically "maker of chariots, 
 carts."" 
-269\. not identified. 
-270\. By refusing to accept a rudhi meaning the authority of the Vedic statements concerning all the features of the sacrifice made by the now disqualified chariot-maker would be lost, and the authority of the statement that caste names may designate more than one caste would also be lost. 
-271\. 
+[^269]: not identified. 
+[^270]: By refusing to accept a rudhi meaning the authority of the Vedic statements concerning all the features of the sacrifice made by the now disqualified chariot-maker would be lost, and the authority of the statement that caste names may designate more than one caste would also be lost. 
+[^271]: 
 d. Amarakosa, 10.4. 
-272\. not verified. 
+[^272]: not verified. 
 144 
 
-273\. which is the prerogative only of the three varnas. 
-274\. KMS. 
-275\. supra § 15. 
-276\. 
+[^273]: which is the prerogative only of the three varnas. 
+[^274]: KMS. 
+[^275]: supra § 15. 
+[^276]: 
 not identified. 
-277\. not identified. 
-278\. supra § 16. 
-279\. cf. Manu, 11.40. 
-280\. AitBr., 3.46. 
-281\. 
+[^277]: not identified. 
+[^278]: supra § 16. 
+[^279]: cf. Manu, 11.40. 
+[^280]: AitBr., 3.46. 
+[^281]: 
 not identified. 
-282\. supra § 16. 
-283\. This and the following quotations could 
+[^282]: supra § 16. 
+[^283]: This and the following quotations could 
 identified. 
-284\. supra § 16. 
+[^284]: supra § 16. 
 not be 
-285\. a Brahman erudite in the Veda and following its 
+[^285]: a Brahman erudite in the Veda and following its 
 observances. 
-286\. If he does not believe that God is present in the effigie, the offerings are obviously not used and cannot be characterized as left-overs. The priest's avoidance of them would simply amount to sinful waste. 
-287\. 
+[^286]: If he does not believe that God is present in the effigie, the offerings are obviously not used and cannot be characterized as left-overs. The priest's avoidance of them would simply amount to sinful waste. 
+[^287]: 
 He must make his prohibition specific, in order not to prohibit the priest from using food that is otherwise. wasted. But he cannot determine the specification on his 
 own terms. 
-288\. used flowers and used food offerings. 
-289\. 
+[^288]: used flowers and used food offerings. 
+[^289]: 
 without divine utilisation. 
-290\. The pancagavya is a substance in which the 5 products 
+[^290]: The pancagavya is a substance in which the 5 products 
 of the cow are mingled. 
-291\. one nādika is a half muhurta. 
-292\. cake used at Vedic offerings. 
-293\. namely, in the above statement on the 10 nāḍikās. 
-294\. Visvaksena, to whom puja is performed after the main 
+[^291]: one nādika is a half muhurta. 
+[^292]: cake used at Vedic offerings. 
+[^293]: namely, in the above statement on the 10 nāḍikās. 
+[^294]: Visvaksena, to whom puja is performed after the main 
 pūjā. 
-295\. 
+[^295]: 
 as quoted supra § 16. 
 NOTE! 
-296\. Mahabhirata quotations not verifiable. 
+[^296]: Mahabhirata quotations not verifiable. 
 145 
-297\. The ritual taking of food is considered a performance of 
+[^297]: The ritual taking of food is considered a performance of 
 the praṇignihotra. 
-298\. The hotar is the principal reciting priest at the soma 
+[^298]: The hotar is the principal reciting priest at the soma 
 sacrifice, the adhvaryu the main executive 
-299\. supra § 17. 
-300\. namely, at the upanayana ceremony. 301. aindrāgneya, name of a srauta ritual. 302. Name of a work of Yamuna. 
-303\. Predecessor of Yamuna at Sriranga. 
+[^299]: supra § 17. 
+[^300]: namely, at the upanayana ceremony. 301. aindrāgneya, name of a srauta ritual. 302. Name of a work of Yamuna. 
+[^303]: Predecessor of Yamuna at Sriranga. 
 304, Nathamuni compiled the sayings of the Vaisnava saints, 
 the Alvārs. 

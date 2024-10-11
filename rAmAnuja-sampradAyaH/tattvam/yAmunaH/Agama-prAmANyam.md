@@ -47,6 +47,13 @@ Source: [EN](https://archive.org/details/yamunacharya/page/n7/mode/2up)
 1. Homage to Visņu, the sole cause of the origin, subsistence and annihilation of the world, the sole cause of perfect bliss, for whom everything is as instantly evident as a myrobala in the hand.
 </details>
 
+<details><summary>English - Notes</summary>
+
+To Yamuna, God's omniscience consists in this unlimited percipience,  
+so that, as he will argue below (§ 109), the validity of Pancarātra does not rest only on Scripture, but also on Perception. 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -113,6 +120,11 @@ Source: [EN](https://archive.org/details/yamunacharya/page/n7/mode/2up)
 4. There are certain people whose minds are confused by the noise of multitudes of sophisms and falsehoods which are borrowed from anyone that comes and claiming superiority for their own studies and learning, and pretending to protect the Way of the Veda,' they refuse to accept the authority of Pañcaratra Tantra which, being composed by the Supreme Person Himself, leads to unparalleled beatitude. 
 </details>
 
+<details><summary>English - Notes</summary>
+
+In the purva paksa the principal opponents introduced are what one may already call smārta brahmins, and among them especially the orthodox followers of Mimāmsa. Vedanta opposition will be discussed. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -147,7 +159,12 @@ And they contend:
 
 <details><summary>English</summary>
 
-It has been decided that Verbal Testimony' is a means of knowledge in two ways: dependent testimony which depends on other authority, and independent testimony. 
+It has been decided that Verbal Testimony is a means of knowledge in two ways: dependent testimony which depends on other authority, and independent testimony. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+shabda, and its synonyms, have been translated variously as Verbal Testimony, Verbal Evidence in general, or Scripture in particular, depending on the context. 
 </details>
 
 
@@ -209,6 +226,11 @@ That is to say: verbal evidence which originates from a person
 carries authority only then when it is used to corroborate a fact  
 which has already been truly established by other means of knowledge,  
 and which enables the speaker to take this fact for granted. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+prāmāna has generally been rendered with "means of knowledge," sometimes with "criterion." 
 </details>
 
 
@@ -354,6 +376,11 @@ This indeed is the uppermost limit of knowledge
 where it encompasses every knowable thing;  
 for we know from experience  
 that knowledges exceed one another as their contents exceed one another. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+jagati or toke??: "in the world of experience, in common experience." 
 </details>
 
 
@@ -574,6 +601,15 @@ You insist, as it were, on full maturity in a little boy!
 even as a boy, after attaining the full growth, cannot grow physically further?'
 </details>
 
+<details><summary>English - Notes</summary>
+
+Punctuate after iti which closes the question introduced in prsto vyācasṭām;  
+abhi-ni-vis "to stick to a partisan view (in the teeth of contrary evidence)."  
+I take bala iva as sandhi for bāle iva,  
+the meaning being that the objector takes the view that  
+something limited (the boy) is really unlimited (mature adult). 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -660,8 +696,15 @@ If you take space itself as the subject,
 you merely prove the proved.  
 
 In the alternative  
-you cannot avoid the illogicality we have pointed out:  
+you cannot avoid the illogicality we have pointed out:
+</details>
 
+<details><summary>English - Notes</summary>
+
+siddhasadhana, one of the defects of an argumentation  
+by which proof is sought of that which is already proved or established.  
+Space (akāta) is, by definition, unlimited  
+and cannot illustrate the thesis that something finite can be infinite. 
 </details>
 
 
@@ -689,6 +732,10 @@ Consequently, there remains the defect of
 mutual exclusion. 
 </details>
 
+<details><summary>English</summary>
+
+vibhu in the sense of "omnipresent, infinite." 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -809,6 +856,12 @@ its authority is entirely non-existent.
 
 </details>
 
+<details><summary>English - Notes</summary>
+
+Relation of means to ends - namely, the Pañcaratra postulation that such tantric ceremonies as consecration (ditsa), etc, are means leading to the summum bonum. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तस्मादस्मदादिषु अनालोचितपरचेतनातिरेकपरिकल्पनाऽल्पीयसीति नाभिप्रेतसाध्यसाधनसम्बन्धे प्रत्यक्षं प्रमाणं, नतरां तन्मूलतया पञ्चरात्रस्मृतिः प्रमाणम् ।  
@@ -832,6 +885,13 @@ If no fires have ever been observed before,
 they cannot prove that smoke is invariably concomitant with them." 
 </details>
 
+<details><summary>English - Notes</summary>
+
+In the standard inference:  
+the mountain has fire, because it has smoke,  
+as in the case of the kitchen. 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -852,8 +912,18 @@ they cannot prove that smoke is invariably concomitant with them."
 that the performance of all the rites which are established in the Satvata doctrine is mandatory;  
 such evidence would have proved that the Pañcaratra Tradition,  
 being based upon this mandate,  
-carried authority. 
+carried authority.
+</details>
 
+<details><summary>English - Notes</summary>
+
+Yamuna throughout treats Satvata and Bhāgavata as 
+synonymous. 
+
+pauruşėya and apauruseya;  
+the latter has in the sequel been rendered with "preterpersonal."  
+Person here does not mean only "human person"  
+but "any being endowed with personal features, including God." 
 </details>
 
 
@@ -902,6 +972,13 @@ that Scripture is the basis of the Tradition concerned -
 Verbal testimony is of two kinds,  
 originating from a person  
 or not originating from a person.
+</details>
+
+<details><summary>English</summary>
+
+"Eternal Scripture" (āgama) is preter-personal scripture,  
+since any verbal statement originating from a person is cotemporal with that person,  
+and the purvapaksin does not admit the existence of an eternal personal deity. 
 </details>
 
 
@@ -997,6 +1074,8 @@ for there is no eternal Scripture to support the claim.
 </details>
 
 
+
+
 <details><summary>मूलम्</summary>
 
 तावता च प्रमाणत्वं व्याहन्येत समीहितम् ।  
@@ -1042,12 +1121,27 @@ be within the scope of the mere knowledge of similitude?
 
 Nor can it be argued that,  
 since the Tradition cannot be proved by other means,  
-Implication's proves that Scripture is its basis.
+Implication proves that Scripture is its basis.
 
 The argument is as follows,  
 circumstantial Implication must prove the tradition,  
 as it cannot be proved otherwise.  
 …
+</details>
+
+<details><summary>English - Notes</summary>
+
+Implication - namely, the relation of being a means to a certain end.
+
+arthapatti, throughout translated "circumstantial-implication".  
+It is a kind of inference  
+by which is established something  
+that must be established,  
+yet is not established by another means of knowledge; for example:  
+"Devadatta, who is well-fed,  
+does not eat by day:"  
+since he cannot be well-fed without eating at all,  
+it is deduced, by circumstantial implication, that he eats by night. 
 </details>
 
 
@@ -1069,6 +1163,15 @@ that Consecration, worship, etc. are dharma
 and this tradition is comparable to the tradition of Manu and others  
 that certain non-Vedic rites, as the astaka etc., are dharma; 
 </details>
+
+<details><summary>English</summary>
+
+KMS 1.3.2 api od kartrsamanyāt pramāṇam anumānam syat - "smr̥ti is authoritative, because both smr̥ti and Veda have the same agent performing its mandates,"
+
+aştaka is the name of the 8th day after Full Moon in the winter and śiśira months,  
+on which an oblation is performed for the deceased (Manu 4.119; 150).
+</details>
+
 
 
 <details><summary>मूलम्</summary>
@@ -1208,7 +1311,7 @@ could these traditions possibly be true?
 > Nor can it be inferred,  
 > because no relation is perceptually given.  
 Nor is there any scriptural evidence for it,  
-for it cannot be found.Nor is there any scriptural evidence for it, for it cannot be found.
+for it cannot be found. Nor is there any scriptural evidence for it, for it cannot be found.
 </details>
 
 
@@ -1407,9 +1510,17 @@ no essential difference exists between Scriptural and Traditional validity.
 <details><summary>English</summary>
 
 Accordingly, we find that those who are qualified for the three Vedas  
-perform equally for purposes of higher benefits both the ritual acts which are enjoined by Scripture (e.g., agnihōtra, pūrṇaderšamāsa, ivolistoma 18,etc.)  
-and the ritual acts enjoined by Tradition (e.g., aṣṭakā, ācamana, sandhya worship", etc.),  
+perform equally for purposes of higher benefits both the ritual acts which are enjoined by Scripture (e.g., agnihōtra, pūrṇaderšamāsa, ivolistoma,etc.)  
+and the ritual acts enjoined by Tradition (e.g., aṣṭakā, ācamana, sandhya worship, etc.),  
 because they have been instructed in both varieties of acts by their fathers or preceptors. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+The morning and evening oblations, the New and Full Moon oblations, and the soma sacrifice,  
+examples respectively of nitya (daily recurring), naimittika (occasional) and kamya (desiderative) rites.
+
+sandhya worship = the crepuscular observances.
 </details>
 
 
@@ -1698,7 +1809,12 @@ There is also a distinct difference in the two appellations: here Brahmins, ther
 > The people do not use the word Brahmin' to refer to Bhāgavatas.  
 > The reference is only difference as this much Brahmins and this much Bhāgavatas.  
 > Be that as it may, still, the appellations Satvata, Bhāgavata etc. are also used to name Brahmins,  
-> by some sort of transference of properties, just as the word parivrajaka is used to designate a Brahmin20.
+> by some sort of transference of properties, just as the word parivrajaka is used to designate a Brahmin.
+</details>
+
+<details><summary>English - Notes</summary>
+
+The point is taken up in detail infra §§ 119 f.
 </details>
 
 
@@ -1757,7 +1873,16 @@ and not anything else.
 
 The grammarians have the rule  
 that it is improper to use a certain word in its etymological sense  
-if it can also be taken in a customary sense which is more common, e.g., rathakāra 21.
+if it can also be taken in a customary sense which is more common, e.g., rathakāra.
+</details>
+
+<details><summary>English - Notes</summary>
+
+Respectively yoga, whereby the component parts of the word are given their own meaning;  
+and rūḍhi, the total meaning of a word that has become conventional  
+and does not necessarily correspond to the meanings of its [[125]]component parts.  
+
+Rathakara means by yoga "chariot-maker, cartwright." by rūḍhi a caste which is not at all characterized by this profession
 </details>
 
 
@@ -1782,6 +1907,16 @@ how could the word *rathakara give up its etymological meaning of "chariotmaker"
 even to the extent of cancelling all connotations which we have learnt? 
 </details>
 
+<details><summary>English - Notes</summary>
+
+adhyayanasiddhabuddhyangato??abkangenāpi.  
+Such a "connotation" is, for example, that the rathakara in the literal sense of cartwright  
+is disqualified for Vedic ritual,  
+because a cartwright is a śūdra;  
+on this point see infra. 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -1799,6 +1934,11 @@ even to the extent of cancelling all connotations which we have learnt?
 Similarly, Satvata refers to a person who has been born from a vrutya vaishya  
 and belongs to the lowest castes,  
 and is thus excluded from the sacraments of initiation, etc. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+upanayana, which is the first step to his acquisition of Vedic knowledge.
 </details>
 
 
@@ -1821,13 +1961,11 @@ and is thus excluded from the sacraments of initiation, etc.
 
 <details><summary>English</summary>
 
-Manu says: 
+Manu (Manu 10.23.) says: 
 
 > "The issue of a vaisya vratya extraction  
-> is called Sudhanvā or Bharuşa or Nijangha or Maitra or Salvata" " 
-
+> is called Sudhanvā or Bharuşa or Nijangha or Maitra or Satvata" "
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -1878,8 +2016,12 @@ Smrti has it that
 
 > "the fifth, called Satvata,  
 > worships the temples and sanctuaries of Viṣṇu by royal decree;  
-> he is also called Bhagavata." 
+> he is also called Bhagavata."
+</details>
 
+<details><summary>English</summary>
+
+the term "by royal decree" shows that it is a caste profession. Quotation not identified
 </details>
 
 
@@ -1934,6 +2076,12 @@ Thus Uśanas:
 
 </details>
 
+<details><summary>English - Notes</summary>
+
+not found in Ausanasasmrti (AAS 48). 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तथा चोशना सर्वेषां कृषि शस्त्रोपजीवनम् आचार्यसात्त्वतयोर्देवपूजनम् इति,  
@@ -1977,7 +2125,7 @@ Similarly, in the Brahma Purāṇa-
 
 <details><summary>English</summary>
 
-Elsewhere the same is stated thus: 
+Elsewhere (unidentified) the same is stated thus: 
 
 > "The profession of the Satvatas  
 > is to clean up the sanctuaries of the Deity  
@@ -2006,7 +2154,7 @@ Elsewhere the same is stated thus:
 <details><summary>English</summary>
 
 And, to dispel the last doubt about the sort of people they are,  
-Manu declares: 
+Manu (Manu 10.40) declares: 
 
 > "Whether disguised or not, they can be known by their deeds." 
 
@@ -2035,8 +2183,7 @@ Manu declares:
 
 16\. Their conduct, moreover, proves that they cannot be Brahmins.  
 For a living they perform pūjā to the Deity, undergo their Consecration,  
-eat themselves the food which is offered to the idols, 
-
+eat themselves the food which is offered to the idols
 </details>
 
 
@@ -2156,6 +2303,11 @@ Their own Parama Samhita states the same prohibition:
 > one must never worship the God of gods for a living."
 </details>
 
+<details><summary>English - Notes</summary>
+
+This point is detailed upon infra § 134 f
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2266,6 +2418,12 @@ Thus Devala:
 "One who lives on temple treasure. is called a devalaka." 
 </details>
 
+<details><summary>English</summary>
+
+not in Devalasmr̥ti.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 तथा च देवलः -   
@@ -2374,6 +2532,15 @@ Atri, too, very explicitly declares that they are not Brahmins:
 
 > "The Avalukas, Devalakas, Kalpadevalakas, Ganabhogadevalakas and fourthly those of the Bhagavata profession are corrupt Brahmins."" 
 
+</details>
+
+<details><summary>English - Notes</summary>
+
+not in Atrismr̥ti:  
+Avaluka is unknown to me.  
+kalpa devalaka can be explained as a professional kalpa priest,  
+kalpa either in the sense of ("unorthodox) ritual," or 'astrological mansion"; gapabhogadevalaka is likewise obscure,  
+but probably refers to unorthodox priest engaged in gap??a worship.
 </details>
 
 
@@ -2646,7 +2813,7 @@ for the Veda contains all knowledge."
 [[15]]  
 Further, the assertion that those who have already been consecrated by the sacraments of Investiture etc.  
 and are thereby qualified for all the Vedic rituals, agnihotra etc.,  
-must yet undergo another sacrament, called Consecration,  
+must yet undergo another sacrament, called Consecration ( namely, dīkṣā),  
 in order to be qualified for the worship of the Bhagavan,  
 demonstrates that the system is non-Vedic;  
 
@@ -2693,6 +2860,11 @@ If it were authoritative,
 then it would have been recognized as such by tradition;  
 </details>
 
+<details><summary>English - Notes</summary>
+
+fourteen sources of knowledge - namely, the four Vedas, six Vedāngas, the Purāṇas, Mimansā, Nyāya and Dharmaśāstra.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2730,8 +2902,8 @@ but as it is not so recognized, this proves that the Pañcarātra tradition is n
 
 For this reason the venerable Badarāyaṇa,  
 when he has occasion to refute the heterodox doctrines of Kanāda, Akṣapada, the Buddha etc. as inimical to the Way of the Veda,  
-also refutes the Pancarãtra in his Sutra:  
-"Because of the impossibility of origin."  
+also refutes the Pancarãtra in his Sutra (BrS. 2.2.42.):  
+"Because of the impossibility of origin.  
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2836,6 +3008,11 @@ DISCURSUS:
 If you please, by all means assume that the Vedas constitute the cause  
 of the delegated and indirect authority of the Tradition of Manu etc.  
 
+</details>
+
+<details><summary>English</summary>
+
+A Naiyayika. Traditionally, Nyaya does not accept the Mimānsā view that the Vedas have not originated from a person.
 </details>
 
 
@@ -3004,9 +3181,18 @@ then we reply;
 why, if this were true,  
 then the significance of smoke on a mountain consists in this  
 that it whirls irrepressibly sky-high without fire!  
-It is utterly out of the question.11 
+It is utterly out of the question. 
 </details>
 
+<details><summary>English - Notes</summary>
+
+The argument is thus:  
+The Veda is of personal origin, because it is language;  
+language is invariably found to originate from persons.  
+The Naiyayika compares the Mimasaka's view in the terms of this argument  
+with the standard inference:  
+the mountain has fire, because it has smoke.
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3035,6 +3221,11 @@ It is utterly out of the question.11
 > has had this Book called Veda composed out of compassion for the world. 
 </details>
 
+
+<details><summary>English - Notes</summary>
+
+avatara "descent, emergence." The meaning is as follows: Dharma is by definition that action which leads to a certain end by suprasensible law. Since the process (the Incans-end?? relation) is suprasensible, there can be no other authority for it than Scriptural authority. 
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -3099,12 +3290,18 @@ For the maker of such effects must be one who is capable of perceiving their mat
 
 <details><summary>English</summary>
 
-Now, dharma and adharma are the instrumental causes of the world";  
+Now, dharma and adharma are the instrumental causes of the world;  
 this is also the consensus of the Mimāmsakas. 
 
 Consequently we must postulate a certain person who has this perceptual knowledge;  
 and that person must also be the one who created the Veda at the beginning. 
 </details>
+
+<details><summary>English - Notes</summary>
+
+This envisages the world as the sum total of the fruits (phala) brought about by observance or non-observance of dharma, which is thus instrumental to world creation.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3147,11 +3344,12 @@ the "answer is as follows:
 
 [[18]]  
 The entities in question, earth etc., are effects,  
-because they have a complex construction, like a king's palace.  
+because they have a complex construction, like a king's palace (cf. Udayana, Kusumanjali 4.1.).  
 Similarly, from the fact that they are made up of parts  
 we conclude that they are subject to destruction. 
 
 </details>
+
 
 
 <details><summary>मूलम्</summary>
@@ -4909,10 +5107,20 @@ how then can we refuse to accept the authority of a tradition which derives from
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> न च परिनिष्ठत-वस्तु-गोचरतया  
-तानि प्रमाण-मर्यादाम् अतिपतन्ति -  
+> **न** च परिनिष्ठत-वस्तु-गोचरतया  
+तानि प्रमाण-मर्यादाम् **अतिपतन्ति** -  
 तादृशाम् अपि प्रमाणान्तर-सम्भेदातिदूर-गोचराणां पौरुषेय-वचसां  
-स्व-रस-समासाधितप्रामाण्य-वारणायोगात् ।  
+स्व-रस-समासाधित-प्रामाण्य-वारणायोगात् ।  
+</details>
+
+<details><summary>English</summary>
+
+[[29]]  
+35\. To continue this topic,  
+these scriptural statements do not exceed the bounds of their authority  
+just because they are concerned with facts;  
+for similar statements made by persons concerning facts that are extremely remote from a connection with other means of knowledge  
+cannot be denied the authority which is afforded them naturally. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -4920,8 +5128,72 @@ how then can we refuse to accept the authority of a tradition which derives from
 न च परिनिष्ठतवस्तुगोचरतया तानि प्रमाणमर्यादामतिपतन्ति तादृशामपि प्रमाणान्तरसम्भेदातिदूरगोचराणां पौरुषेयवचसां स्वरससमासाधितप्रामाण्यवारणायोगात् ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भवप्रसक्तेर्भावितानुबादविपर्ययपर्यालोचनया तद्गोचरवचसः प्रामाण्यप्रच्युतिः कार्यनिष्ठस्यापि तत्प्रसङ्गात्, कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेदमोदनपाकवादित्यभ्युपगमात् ।  
+> **न** च सिद्धे वस्तुनि  
+> +++(तद्-वस्तु-)+++साधक-बाधकयोर् अन्यतरोपनिपात-सम्भव-प्रसक्तेर्  
+> +++(तद्-वस्तु-)+++भावितानुवाद-विपर्यय-पर्यालोचनया  
+> तद्+++(वस्तु)+++-गोचर-वचसः **प्रामाण्य-प्रच्युतिः**  
+> कार्य-निष्ठस्यापि तत्+++(←प्रच्युति)+++-प्रसङ्गात्, 
+</details>
+
+<details><summary>English</summary>
+
+Nor do statements concerning a fact lack authority  
+because of the consideration that since either a proving or disproving factor may unexpectedly turn up  
+there remains the possibility that this fact is thus repeated or reversed;  
+for the same may equally well happen to a statement concerning, not a fact, but a karya.  
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+The validity of shabda lies in its communicating contents that cannot be known through other means of knowledge.  
+What I translate as 'facts" are more literally "established [[129]] entities," established, that is, by other means of knowledge than shabda.  
+A scriptural statement of the kind "grass is green" is not strictly valid  
+in the sense that, in order to know that grass is green, we need a scriptural statement to that effect.
+
+Another proving factor, c.g., the means of knowledge Perception, may turn up conceivably  
+and thus make the scriptural statement superfluous;  
+or we may find that grass is not invariably green, but changes its colour,  
+which would reverse the scriptural statement.
+
+Scriptural validity, i.e., Scripture's being a means of knowledge, is to the Prabhakara Mimimsaka, its being the sole means of knowing a particular thing.  
+To the Prabhakara this validity is ideal in the case of injunctions concerning actions which, suprasensibly, lead to a certain desired end.
+
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च सिद्धे वस्तुनि साधकबाधकयोरन्यतरोपनिपातसम्भवप्रसक्तेर्भावितानुवादविपर्ययपर्यालोचनया तद्गोचरवचसः प्रामाण्यप्रच्युतिः कार्यनिष्ठस्यापि तत्प्रसङ्गात्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कार्यम् अपि हि मानान्तर-वेद्यम् एव - +++("ओदनेन होतव्यम्" इत्यत्र)+++ लौकिकं समिद्-आहरणादि,  
+तच् च मानान्तरेणापि **वेद्यम्** ओदन-पाकवद् इत्य् अभ्युपगमात् ।  
+</details>
+
+<details><summary>English</summary>
+
+A kārya, too, may be known from other means of knowledge,  
+for it must be admitted that ordinary karyas, like 'fetch firewood'  
+are also known through other means of knowledge,  
+as in the case of the cooking of the odana.
+</details>
+
+<details><summary>English - Notes</summary>
+
+(The injunction concerning the odana oblation includes an injunction concerning the preparation of the odana and the fetching of firewood for the cooking. Since experience shows that for a cooking fire one needs firewood, this karya is not strictly known on scriptural authority.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कार्यमपि हि मानान्तरवेद्यमेव लौकिकं समिदाहरणादि, तच्च मानान्तरेणापि वेद्यमोदनपाकवदित्यभ्युपगमात् ।  
+</details>
+
+
 अथ विलक्षणाग्निहोत्रादिविषयकार्यस्यासम्भावितमानान्तरतया तत्प्रतिपादयद्वचः प्रमाणम्,  हन्त तर्हि निरतिशयावबोधैश्वर्यमहानन्दसन्दोहवपुषि भगवति न मानान्तरगन्धसम्बन्ध इति सर्वं समानमन्यत्राभिनिवेशात् ।  
 अपि च प्रवृत्तप्रमाणान्तरमपि स्वगोचरं तद्गोचरतया नावभासयतीति परमपि प्रमाणमेव कुतस्तदुपनिपातसम्भावनयाऽनुवादत्वम्,  कथं वा प्रत्यस्तमितसमस्तपुरुषाशयदोषसंस्पर्शनित्यागमभुवः प्रत्ययस्य पूर्वोपमर्दकतयोन्नियमानस्य सम्भाव्यमानविविधविप्लवैः प्रमाणान्तररैपवादापादनमिति यत्किञ्चिदेतत् ।  
 इत्थञ्च श्रुतिशतसमधिगतविविधबोधैश्वर्यादिवैभवे भगवति सामान्यदर्शनावसितासार्वक्ष्यविग्रहवत्तादयो दोषा नावकाशमश्नुवते हुतभुजीव शैत्यादयः ।  
