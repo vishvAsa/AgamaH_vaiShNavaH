@@ -8,31 +8,31 @@ title = "Agama-prAmANyam en"
 
 
 
-"Surely this person has been made aware by the other of this karya that he proceed to his action immediately upon become aware of what he has to do." This leads the observer to the conclusion that if therefore the verbal statement is truly denotative in so far as it serves to convey a karya whose specific motivation conforms to the entire statement, then whatever bits of meaning come to mind as a result of the addition or omission of words are denoted by these words only in strict accordance to this kārya, 71 which thus constitutes the primarily known principal element of the statement. In such a statement the imperative and optative verbal terminations," which unvaryingly give rise to a knowledge of karya, convey by themselves the body of the karya, whereas the indicative etc. terminations are subject to a contextual relation with the karya by describing consequent matters which required by the karya, c.g. a person's qualification to accomplish it etc.73 
-37\. Take for example the statement that a son has been born to the person spoken to, a purely substantive statement; the aggregate of words which convey nothing more than this bare fact that a son has been born, is not definitely proved to possess the 
-power 
-32 
-32 
+This leads the observer to the conclusion that if therefore the verbal statement is truly denotative in so far as it serves to convey a karya whose specific motivation conforms to the entire statement, then whatever bits of meaning come to mind as a result of the addition or omission of words are denoted by these words only in strict accordance to this kārya, 71 which thus constitutes the primarily known principal element of the statement. In such a statement the imperative and optative verbal terminations," which unvaryingly give rise to a knowledge of karya, convey by themselves the body of the karya, whereas the indicative etc. terminations are subject to a contextual relation with the karya by describing consequent matters which required by the karya, c.g. a person's qualification to accomplish it etc.73 
 
-of denoting the postulated birth of the son by means of such resultant effects as cheerful looks or joyfully bristling hairs on the part of the father." For, it is impossible to establish definitely that the occurrence of a cause for various joys in future, past and present is really due to the denotative power of the statement. Therefore, also in the case when we have a verb in the present indicative collocated with words that have their proper signification (in that they refer to things that presuppose no other means of knowledge), it must be assumed that in it we have a substitute with a positive (i.e. injunctive) denotation of words without actually having explícit reference to a kārya” 
+37\. Take for example the statement that a son has been born to the person spoken to, a purely substantive statement; the aggregate of words which convey nothing more than this bare fact that a son has been born, is not definitely proved to possess the power [[32]] of denoting the postulated birth of the son by means of such resultant effects as cheerful looks or joyfully bristling hairs on the part of the father." 
+
+For, it is impossible to establish definitely that the occurrence of a cause for various joys in future, past and present is really due to the denotative power of the statement. 
+
+Therefore, also in the case when we have a verb in the present indicative collocated with words that have their proper signification (in that they refer to things that presuppose no other means of knowledge), it must be assumed that in it we have a substitute with a positive (i.e. injunctive) denotation of words without actually having explícit reference to a kārya” 
+
 38\. A person knows that a certain word has a certain denotation, when it is known what is the denotation, of the other words with which it is collocated. " It is proved that words have the power of denoting things only in so far as they are contextually connected with a karya; consequently, their validity concerning an established fact is based on this that they give rise to the notion of karya. 
+
 It is contended that this denotation of karya is only occasional in words," but this contention is incorrect; the ground for words to be denotative is that they deal with a karya, so that the contention suffers of the vice of being unproved. For a notion that arises from a verbal statement can never terminate in any object whatsoever that is not a karya. 
-The cognitions of contextual relations which arise immediately upon hearing a profane statement are said to derive, not from Verbal Testimony, but from 
-JOAMA PRĀMIN YANI 
-33 
-Thus it is right that these cognitions do 
-Inference.78 not terminate in karyas. 
+
+[[33]]  
+The cognitions of contextual relations which arise immediately upon hearing a profane statement are said to derive, not from Verbal Testimony, but from Inference 78  
+Thus it is right that these cognitions do not terminate in karyas. 
+
 39\. If it were not accepted that verbal statements always bear on karyas, on what grounds then could an indicative statement like agnihotram juhoti "he offers the agnihotra" be accepted as an injunction? Or if it be claimed that in this case, even though the statement as it stands has no complete validity, it is accepted as an injunction in order to ensure that it subserves a purpose, we reply that this claim is incorrect, since the operation of means of knowledge is not dependent on purpose, but rather is the acceptance of purpose dependent on the operation of the means of knowledge. is not proper to assume that since one does not like to find rocks when one is looking for gold therefore one finds gold! As long as we do not assume that a statement is denotative only when it bears on a karya, we cannot assume that a verb in the present indicative contains an injunction. 
 It 
-40\. In the same manner the meaning of the upaniṣads must also be interpreted as being subordinate to such injunctions as "One must know the soul, meditate on it, etc." which are expressed in differnt passages; this meaning, then, is that one must know the omniscient soul which is beatitude, i.e. an injunction. That the soul is the object of an injunction does not by itself however prove that the soul exists as an established fact; for there can also be an injunction that a certain thing be such while actually it is not so; for example the injunction, "Know your father in someone who is not your father," or "Know that the 
-5 
 
-34 
+40\. In the same manner the meaning of the upaniṣads must also be interpreted as being subordinate to such injunctions as "One must know the soul, meditate on it, etc." which are expressed in differnt passages; this meaning, then, is that one must know the omniscient soul which is beatitude, i.e. an injunction. That the soul is the object of an injunction does not by itself however prove that the soul exists as an established fact; for there can also be an injunction that a certain thing be such while actually it is not so; for example the injunction, "Know your father in someone who is not your father," or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." All statements that set forth the reality and the eternality of the soul only serve to convey that there is a spiritual agent, who is required in order to experience the otherworldly fruits that are mentioned in ritual injunctions where the time of fruition is not specified."1 
 
-syllable OM, which is not the udgitha, is the udgitha." All statements that set forth the reality and the eternality of the soul only serve to convey that there is a spiritual agent, who is required in order to experience the otherworldly fruits that are mentioned in ritual injunctions where the time of fruition is not specified."1 
-02 
-Therefore, no verbal statement whatever is a means of knowing a thing as such. Thus, by denying thatthe arthavādas, too, can serve to convey knowledge of facts like Rudra's weeping, it is shown that they merely serve to give praise in contextual connection with an injunction, which may be comparatively remote." 
+Therefore, no verbal statement whatever is a means of knowing a thing as such. Thus, by denying that the arthavādas, too, can serve to convey knowledge of facts like Rudra's weeping, it is shown that they merely serve to give praise in contextual connection with an injunction, which may be comparatively remote." 
+
 41\. To conclude, it follows that the postulated divine person, whose personality is the product of the baseless beliefs of people that have failed to consider the true denotation of preceding or succeeding statements, is eliminated, with which we conclude our extensive discussion. 
+
 42\. It is proved now that the pre-eminence of that postulated person cannot be borne out by Scripture. Let us, further, suppose that Scripture can indeed convey knowledge of facts; even so, what possible basis is there for the assumption that there exists a person who knows dharma and adharma, when we take into account the cognition that arises from injunction? Omniscience is possible only if the omniscient person knows the objects exactly as they are known by means of the different means of knowledge; for there is no statement which declares omniscience by cancelling the normal means of knowledge. Even if there were such a statement, it would have to be explained as an 
 
 35 
