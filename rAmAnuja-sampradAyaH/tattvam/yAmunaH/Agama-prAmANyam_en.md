@@ -7,27 +7,10 @@ title = "Agama-prAmANyam en"
 ## 
 
 
+ 
 
-This leads the observer to the conclusion that if therefore the verbal statement is truly denotative in so far as it serves to convey a karya whose specific motivation conforms to the entire statement, then whatever bits of meaning come to mind as a result of the addition or omission of words are denoted by these words only in strict accordance to this kārya, 71 which thus constitutes the primarily known principal element of the statement. In such a statement the imperative and optative verbal terminations," which unvaryingly give rise to a knowledge of karya, convey by themselves the body of the karya, whereas the indicative etc. terminations are subject to a contextual relation with the karya by describing consequent matters which required by the karya, c.g. a person's qualification to accomplish it etc.73 
 
-37\. Take for example the statement that a son has been born to the person spoken to, a purely substantive statement; the aggregate of words which convey nothing more than this bare fact that a son has been born, is not definitely proved to possess the power [[32]] of denoting the postulated birth of the son by means of such resultant effects as cheerful looks or joyfully bristling hairs on the part of the father." 
-
-For, it is impossible to establish definitely that the occurrence of a cause for various joys in future, past and present is really due to the denotative power of the statement. 
-
-Therefore, also in the case when we have a verb in the present indicative collocated with words that have their proper signification (in that they refer to things that presuppose no other means of knowledge), it must be assumed that in it we have a substitute with a positive (i.e. injunctive) denotation of words without actually having explícit reference to a kārya” 
-
-38\. A person knows that a certain word has a certain denotation, when it is known what is the denotation, of the other words with which it is collocated. " It is proved that words have the power of denoting things only in so far as they are contextually connected with a karya; consequently, their validity concerning an established fact is based on this that they give rise to the notion of karya. 
-
-It is contended that this denotation of karya is only occasional in words," but this contention is incorrect; the ground for words to be denotative is that they deal with a karya, so that the contention suffers of the vice of being unproved. For a notion that arises from a verbal statement can never terminate in any object whatsoever that is not a karya. 
-
-[[33]]  
-The cognitions of contextual relations which arise immediately upon hearing a profane statement are said to derive, not from Verbal Testimony, but from Inference 78  
-Thus it is right that these cognitions do not terminate in karyas. 
-
-39\. If it were not accepted that verbal statements always bear on karyas, on what grounds then could an indicative statement like agnihotram juhoti "he offers the agnihotra" be accepted as an injunction? Or if it be claimed that in this case, even though the statement as it stands has no complete validity, it is accepted as an injunction in order to ensure that it subserves a purpose, we reply that this claim is incorrect, since the operation of means of knowledge is not dependent on purpose, but rather is the acceptance of purpose dependent on the operation of the means of knowledge. is not proper to assume that since one does not like to find rocks when one is looking for gold therefore one finds gold! As long as we do not assume that a statement is denotative only when it bears on a karya, we cannot assume that a verb in the present indicative contains an injunction. 
-It 
-
-40\. In the same manner the meaning of the upaniṣads must also be interpreted as being subordinate to such injunctions as "One must know the soul, meditate on it, etc." which are expressed in differnt passages; this meaning, then, is that one must know the omniscient soul which is beatitude, i.e. an injunction. That the soul is the object of an injunction does not by itself however prove that the soul exists as an established fact; for there can also be an injunction that a certain thing be such while actually it is not so; for example the injunction, "Know your father in someone who is not your father," or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." All statements that set forth the reality and the eternality of the soul only serve to convey that there is a spiritual agent, who is required in order to experience the otherworldly fruits that are mentioned in ritual injunctions where the time of fruition is not specified."1 
+That the soul is the object of an injunction does not by itself however prove that the soul exists as an established fact; for there can also be an injunction that a certain thing be such while actually it is not so; for example the injunction, "Know your father in someone who is not your father," or "Know that the[[34]] syllable OM, which is not the udgitha, is the udgitha." All statements that set forth the reality and the eternality of the soul only serve to convey that there is a spiritual agent, who is required in order to experience the otherworldly fruits that are mentioned in ritual injunctions where the time of fruition is not specified."1 
 
 Therefore, no verbal statement whatever is a means of knowing a thing as such. Thus, by denying that the arthavādas, too, can serve to convey knowledge of facts like Rudra's weeping, it is shown that they merely serve to give praise in contextual connection with an injunction, which may be comparatively remote." 
 
@@ -631,23 +614,7 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 ## Notes
 
 
-[^68]:  
-130 
 
-[^69]: 
-
-
-[^70]: Thus śalikanatha, Prakarapapahciki, p. 182: niyo yali 
-sarvakarye yaft soakiyalvena budhyate. 
-[^71]: That is to say that the denotativeness of the words composing the statement is dependent upon the injunctive denotation of the statement as a whole. 
-[^72]: The linādi verbal terminations of Sanskrit to which in English correspond verbs compounded with auxiliaries like "should, must, to be to, ought to." 
-
-131 
-[^73]: For example, a sentence: "He desires to go to heaven," which has the verb in the indicative, followed by a statement "he should sacrifice with a soma sacrifice," where the verb is injunctive, is truly denotative in spite of its indicative form, since it is obviously subordinated to the injunctive sentence, to which it describes the performer's qualification: only one who desires to go to heaven has title to, is qualified for, the performance of a soma sacrifice. 
-[^74]: This is an example like "it is hot today;" the young father's happy countenance is not considered an action, 75. E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," is an injunctive statement in indicative form. 
-[^76]: This is the Prabhakara view of the denotativeness of 
-single words, summarized in the formula anditabhidhāna, which is short for kāryānvitābhidhana "denotation of words syntactically connected in an injunctive sentence," 
-[^77]: This point will be taken up and confirmed infra §04. 78. E.g., a statement "there are fruits on the river bank" does not by itself, self-sufficiently, create in the hearer the knowledge that there are fruits on the river bank; the means of knowledge here really is inference, since the hearer must infer that the speaker knows what he is talking about, that he knows that fruit means "fruit", river bank 'river bank," etc. 
 [^79]: This is again the Prabhakara view. The Bhatta view is somewhat different; according to the latter the upanisads are arthacadas (subsidiary substantive statements laudatory of elements of injunctions) to the eternality of the performer's personality (diman), which eternality is presupposed by the efficacy of the injunction: e.g., the injunction be who desires heaven must offer with the soma sacrifice" supposes the immortality of the performer. 
  
 [^80]: Ch Up. 1.5.1. [^[^132]]

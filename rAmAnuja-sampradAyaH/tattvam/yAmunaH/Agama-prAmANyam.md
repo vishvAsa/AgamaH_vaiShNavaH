@@ -5495,7 +5495,7 @@ The Prabhakaras, who are notorious for the gaurava 'complicatedness" of their ar
 </details>
 
 
-#### न कार्य-सम्बन्धे हि व्युत्पत्तिः
+#### कार्य-सम्बन्धे हि व्युत्पत्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -5613,35 +5613,430 @@ that he proceed to his action immediately upon become aware of what he has to do
 </details>
 
 
+<details><summary>English - Notes</summary>
+
+[[130]]  
+Thus śalikanatha, Prakaranapancika, p. 182: niyo?? yali?? sarvakarye yaft soakiyalvena?? budhyate. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 प्रतीता हि स्वकार्यसन्ताने कार्यसंविदेव तत्तद्विशिष्टचेष्टाहेतुतया तदयमिहापि तादृशीं प्रवृत्तिं पश्यन्नेवमाकलयति - नूनमितस्सकाशादस्य कार्यसंविदाविरासीत् यदयमेतदनन्तरं प्रवर्तत इति,
 </details>
 
 
-एवं च समस्तव्यवहारानुगतप्रवृत्तिनिमित्तकार्यप्रतिपादनपरतया व्युत्पन्ने शब्दे यत्पदावापोद्धारानुयायिनोयेऽर्थभागास्ते प्रथमावगतप्रधानभूतकार्यानुगुणतया तैस्तैरभिधीयन्ते इत्यध्यवस्यति, तत्र च लिङादयोऽव्यभिचरितकार्यसंविदः कार्यशरीरमेव साक्षात्समर्पयन्ति तिङादयस्तु तदपेक्षिताधिकाराद्यनुबन्धप्रतिपादनमुखेन तत्समन्वयमनुभवन्तीति ।  
-न च पुत्रजननादिस्वरूपावेदनपर्यवसायिनः पदनिचयस्याविरलपुलकोदयवदनविकासादिभिरभिमतसुतजन्मादिप्रतिपादनशक्तिनिश्चयः अजातातिवृत्तप्रत्युत्पन्नविविधहर्षहेतूपनीपातेयममुयेति निर्धृत्य प्रतिपत्तुमशक्यत्वात् ।  
-एतेन व्युत्पन्नेतरपदसमभिव्याहृतवर्तमाननिर्देशेऽपि कार्यैदम्पर्यविरहितपदशक्तिनिश्चयप्रतिविधिरनुसंधातव्य ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं च  
+समस्त-व्यवहारानुगत-प्रवृत्ति-निमित्त--कार्य-प्रतिपादन-परतया व्युत्पन्ने शब्दे  
+यत् पदावापोद्धारानुयायिनो ये ऽर्थ-भागास्  
+ते प्रथमावगत-प्रधान-भूत-कार्यानुगुणतया  
+तैस् तैर् **अभिधीयन्ते** इत्य् **अध्यवस्यति**, 
+</details>
+
+<details><summary>English</summary>
+
+This leads the observer to the conclusion that 
+ if therefore the verbal statement is truly denotative  
+in so far as it serves to convey a karya  
+whose specific motivation conforms to the entire statement,  
+then whatever bits of meaning come to mind  
+as a result of the addition or omission of words  
+are denoted by these words  
+only in strict accordance to this kārya, 71  
+which thus constitutes the primarily known principal element of the statement.  
+</details>
+
+<details><summary>English - Notes</summary>
+
+That is to say that the denotativeness of the words composing the statement  
+is dependent upon the injunctive denotation of the statement as a whole. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं च समस्तव्यवहारानुगतप्रवृत्तिनिमित्तकार्यप्रतिपादनपरतया व्युत्पन्ने शब्दे यत्पदावापोद्धारानुयायिनोयेऽर्थभागास्ते प्रथमावगतप्रधानभूतकार्यानुगुणतया तैस्तैरभिधीयन्ते इत्यध्यवस्यति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र च लिङ्-आदयो  
+ऽव्यभिचरित-कार्य-संविदः कार्य-शरीरम् एव  
+साक्षात् **समर्पयन्ति**।  
+तिङ्-आदयस् तु  
+तद्-अपेक्षिताधिकाराद्य्-अनुबन्ध-प्रतिपादन-मुखेन  
+तत्-समन्वयम् **अनुभवन्तीति** ।  
+</details>
+
+<details><summary>English</summary>
+
+In such a statement the imperative and optative verbal terminations,  
+which unvaryingly give rise to a knowledge of karya,  
+convey by themselves the body of the karya,  
+whereas the indicative etc. terminations are subject to a contextual relation with the karya  
+by describing consequent matters which required by the karya, e.g. a person's qualification to accomplish it etc.
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+The linādi verbal terminations of Sanskrit to which in English correspond verbs compounded with auxiliaries like "should, must, to be to, ought to." 
+
+[[131]]
+
+For example, a sentence:  
+"He desires to go to heaven,"  
+which has the verb in the indicative,  
+followed by a statement  
+"he should sacrifice with a soma sacrifice,"  
+where the verb is injunctive,  
+is truly denotative in spite of its indicative form,  
+since it is obviously subordinated to the injunctive sentence,  
+to which it describes the performer's qualification:  
+only one who desires to go to heaven has title to, is qualified for, the performance of a soma sacrifice.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र च लिङादयोऽव्यभिचरितकार्यसंविदः कार्यशरीरमेव साक्षात्समर्पयन्ति तिङादयस्तु तदपेक्षिताधिकाराद्यनुबन्धप्रतिपादनमुखेन तत्समन्वयमनुभवन्तीति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**न** च पुत्र-जननादि-स्वरूपावेदन-पर्यवसायिनः पद-निचयस्य  
+अविरल-पुलकोदय--वदन-विकासादिभिर् अभिमत-सुत-जन्मादि-प्रतिपादन-**शक्ति-निश्चयः** -  
+अजातातिवृत्त-प्रत्युत्पन्न-विविध-हर्ष-हेतूपनिपाते "ऽयम् अमुने"ति **निर्धृत्य**  
+**प्रतिपत्तुम्** अशक्यत्वात् ।  
+</details>
+
+<details><summary>English</summary>
+
+37\. Take for example the statement that a son has been born to the person spoken to,  
+a purely substantive statement;  
+the aggregate of words which convey nothing more than this bare fact  
+that a son has been born,  
+is not definitely proved to possess the power [[32]] of denoting the postulated birth of the son  
+by means of such resultant effects as cheerful looks  
+or joyfully bristling hairs on the part of the father. 
+
+For, it is impossible to establish definitely  
+that the occurrence of a cause for various joys in future, past and present  
+is really due to the denotative power of the statement. 
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+This is an example like "it is hot today;" the young father's happy countenance is not considered an action, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च पुत्रजननादिस्वरूपावेदनपर्यवसायिनः पदनिचयस्याविरलपुलकोदयवदनविकासादिभिरभिमतसुतजन्मादिप्रतिपादनशक्तिनिश्चयः अजातातिवृत्तप्रत्युत्पन्नविविधहर्षहेतूपनिपातेयममुनेति निर्धृत्य प्रतिपत्तुमशक्यत्वात् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतेन +++("स्वर्गकामः सोमेन यजते"→)+++ व्युत्पन्नेतर-पद-समभिव्याहृत--वर्तमान-निर्देशेऽपि  
+कार्यैदम्पर्य-विरहित-पद--शक्ति--निश्चय-प्रतिविधिर् +++(लिङ्-आक्षेपेण)+++ **अनुसंधातव्यः** ।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore, also in the case  
+when we have a verb in the present indicative  
+collocated with words that have their proper signification  
+(in that they refer to things that presuppose no other means of knowledge),  
+it must be assumed that  
+in it we have a substitute with a positive (i.e. injunctive) denotation of words  
+without actually having explicit reference to a kārya.
+</details>
+
+<details><summary>English - Notes</summary>
+
+E.g., the sentence "he who desires to go to heaven offers the soma sacrifice," is an injunctive statement in indicative form.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतेन व्युत्पन्नेतरपदसमभिव्याहृतवर्तमाननिर्देशेऽपि कार्यैदम्पर्यविरहितपदशक्तिनिश्चयप्रतिविधिरनुसंधातव्यः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"पदान्तराणि यादृङ्क्षि  
+**व्युत्पद्यन्ते** च तादृशम् ।  
+इदञ् च पदम्" इत्य् एव  
+तत्र व्युत्पद्यते नरः ॥  
+</details>
+
+<details><summary>English</summary>
+
+38\. A person knows that a certain word has a certain denotation,  
+when it is known what is the denotation, of the other words with which it is collocated.  
+</details>
+
+<details><summary>English - Notes</summary>
+
+This is the Prabhakara view of the denotativeness of single words,  
+summarized in the formula anvitābhidhāna, which is short for kāryānvitābhidhana "denotation of words syntactically connected in an injunctive sentence,"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 पदान्तराणि यादृङ्क्षि व्युत्पद्यन्ते च तादृशम् ।  
 इदञ्च पदमित्येव तत्र व्युत्पद्यते नरः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तानि कार्यान्वित-स्वार्थ-  
+**बोधकानीति साधितम्** ।  
+अथ तद्-बुद्धि-हेतुत्वात्  
+प्रामाण्यं **भूत-गोचरम्** ॥  
+</details>
+
+<details><summary>English</summary>
+
+It is proved that words have the power of denoting things  
+only in so far as they are contextually connected with a karya;  
+consequently, their validity concerning an established fact  
+is based on this that they give rise to the notion of karya. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तानि कार्यान्वितस्वार्थबोधकानीति साधितम् ।  
 अथ तद्बुद्धिहेतुत्वात् प्रामाण्यं भूतगोचरम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**इष्यते** तद्+++(→कर्य-बोधन)+++-अनेकान्तं+++(=क्वचित्ता)+++  
+पदेष्व् इति **न शोभते** ।  
+अथ तत्+++(→कार्य-बोध)+++-परता हेतुस् +++(व्युत्पत्तेः)+++,  
+ततश् च **स्याद् असिद्धता** ॥  
+</details>
+
+<details><summary>English</summary>
+
+It is contended that this denotation of karya is only occasional in words,  
+but this contention is incorrect;  
+the ground for words to be denotative  
+is that they deal with a karya,  
+so that the contention suffers of the vice of being unproved. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+This point will be taken up and confirmed infra §04. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 इष्यते तदनेकान्तं पदेष्विति न शोभते ।  
 अथ तत्परता हेतुस्ततश्च स्यादसिद्धता ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न ह्य् अकार्यरूपे वस्तुनि क्वचिदपि शाब्दी बुद्धिः प्रर्यवस्यति ।  
+</details>
+
+<details><summary>English</summary>
+
+For a notion that arises from a verbal statement can never terminate in any object whatsoever that is not a karya. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न ह्यकार्यरूपे वस्तुनि क्वचिदपि शाब्दी बुद्धिः प्रर्यवस्यति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+याः पुनर् लौकिक-शब्द-श्रवण-समनन्तर-भाविन्यो ऽन्वयावगतयस्  
+ता आनुमानिक्यो ऽभिहिताः,  
+न शाब्द्य  
+इत्य् उपपद्यत एव तासाम् अ-तत्-पर्यवसानम् ।  
+</details>
+
+<details><summary>English</summary>
+
+[[33]]  
+The cognitions of contextual relations  
+which arise immediately upon hearing a profane statement  
+are said to derive, not from Verbal Testimony, but from Inference. 78  
+Thus it is right that these cognitions do not terminate in karyas. 
+</details>
+
+<details><summary>English</summary>
+
+E.g., a statement "there are fruits on the river bank"  
+does not by itself, self-sufficiently, create in the hearer  
+the knowledge that there are fruits on the river bank;  
+the means of knowledge here really is inference, since the hearer must infer  
+that the speaker knows what he is talking about,  
+that he knows that fruit means "fruit",  
+river bank 'river bank," etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 याः पुनर्लौकिकशब्दश्रवणसमनन्तरभाविन्योऽन्वयावगतयस्ता आनुमानिक्योऽभिहिताः न शाब्द्य इत्युपपद्यत एव तासामतत्पर्यवसानम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि तत्+++(=कार्य)+++-परता-**ग्राहः**  
+शब्दानां **नैव विद्यते** ।  
+"अग्निहोत्रञ् जुहोती"ति  
+विधिः कस्माद् **उपेयते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+39\. If it were not accepted that verbal statements always bear on karyas,  
+on what grounds then could an indicative statement like agnihotram juhoti  
+"he offers the agnihotra"  
+be accepted as an injunction?  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यदि तत्परताग्राहः शब्दानां नैव विद्यते ।  
 अग्निहोत्रञ्जुहोतीति विधिः कस्मादुपेयते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अथ तत्र प्रमाणत्वे  
+**संवृत्ते** ऽपि च तावता ।  
+पुरुषार्थत्व-लाभाय  
+**विधिर् अभ्युपगम्यते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Or if it be claimed that in this case, even though the statement as it stands has no complete validity,  
+it is accepted as an injunction in order to ensure that it subserves a purpose, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अथ तत्र प्रमाणत्वे संवृत्तेऽपि च तावता ।  
 पुरुषार्थत्वलाभाय विधिरभ्युपगम्यते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् असन् - **न** प्रमाणानां  
+**प्रयोजन-वशानुगा** ।  
+प्रवृत्तिः, किन्तु तन्-मूलः  
+प्रयोजन-परिग्रहः ॥
+</details>
+
+<details><summary>English</summary>
+
+we reply that this claim is incorrect,  
+since the operation of means of knowledge  
+is not dependent on purpose,  
+but rather is the acceptance of purpose  
+dependent on the operation of the means of knowledge. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तदसन्न प्रमाणानां प्रयोजनवशानुगा ।  
 प्रवृत्तिः किन्तु तन्मूलः प्रयोजनपरिग्रहः ॥
+</details>
 
-न खलु कनकमभिलषतः शिलावलोकनमनभिमतमिति कनकावलोकनताऽश्रयितुमुचिता ।  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**न** खलु कनकम् **अभिलषतः**  
+शिलावलोकनम् **अनभिमतम्**  
+इति कनकावलोकनता **ऽश्रयितुम् उचिता** ।
+</details>
+
+<details><summary>English</summary>
+
+It is not proper to assume that  
+since one does not like to find rocks  
+when one is looking for gold  
+therefore one finds gold! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न खलु कनकमभिलषतः शिलावलोकनमनभिमतमिति कनकावलोकनताऽश्रयितुमुचिता ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तात्पर्यम् एव शब्दानां  
+यावत् कार्ये **न कल्पितम्** ।  
+न तावद् वर्तमानादि-  
+निर्देशे विधि-कल्पनम् ॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+As long as we do not assume that a statement is denotative  
+only when it bears on a karya,  
+we cannot assume that a verb in the present indicative  
+contains an injunction.+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तात्पर्यमेव शब्दानां यावत्कार्ये न कल्पितम् ।  
 न तावद्वर्तमानादि निर्देशे विधिकल्पनम् ॥
+</details>
+  
 
-एवञ्चोपनिषदामपि तत्रतत्राम्नायमानज्ञानोपासनादिविधिशेषतयाऽर्थो व्याकरणीयः, तदयमर्थः सर्वज्ञामानन्दमात्मानं जानीयात् इति ।  
+#### उपनिषद्-वाक्यावगतिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवञ् चोपनिषदाम् अपि  
+तत्र-तत्राम्नायमान-ज्ञानोपासनादि-विधि-शेषतया ऽर्थो **व्याकरणीयः**,  
+तद् अयम् अर्थः "सर्वज्ञम् आनन्दम् आत्मानं **जानीयात्**" इति ।  
+</details>
+
+<details><summary>English</summary>
+
+40\. In the same manner  
+the meaning of the upaniṣads must also be interpreted  
+as being subordinate to such injunctions as  
+"One must know the soul, meditate on it, etc."  
+which are expressed in differnt passages;  
+this meaning, then, is that  
+one must know the omniscient soul which is beatitude, i.e. an injunction. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवञ्चोपनिषदामपि तत्रतत्राम्नायमानज्ञानोपासनादिविधिशेषतयाऽर्थो व्याकरणीयः, तदयमर्थः सर्वज्ञमानन्दमात्मानं जानीयात् इति ।  
+</details>
+
+
 न च तावता स्वरूपमपि सिध्यतीत्यध्यवसेयम् असत्येव रूपे तादृशि तथा विधानोपपत्तेः ।  
 यथैतदपितर्येव पितरञ्जानीयादिति तथा चानुद्गीथ ओङ्कार उद्गीथविधानमिति ।  
 यानि पुनरात्मसत्यत्वनित्यत्ववादीनि वाक्यानि तान्यविशेषितकालकर्मविधानाक्षिप्यमाणामुष्मिकफलभोगोचितचेतनकर्तृप्रतिपादनपराणि अतो न किञ्चिदपि वचो भूतेऽर्थे प्रमाणम् ।  
