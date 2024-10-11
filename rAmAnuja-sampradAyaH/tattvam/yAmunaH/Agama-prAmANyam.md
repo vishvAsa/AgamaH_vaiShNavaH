@@ -732,7 +732,7 @@ Consequently, there remains the defect of
 mutual exclusion. 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English - Notes</summary>
 
 vibhu in the sense of "omnipresent, infinite." 
 </details>
@@ -974,7 +974,7 @@ originating from a person
 or not originating from a person.
 </details>
 
-<details><summary>English</summary>
+<details><summary>English - Notes</summary>
 
 "Eternal Scripture" (āgama) is preter-personal scripture,  
 since any verbal statement originating from a person is cotemporal with that person,  
@@ -1164,7 +1164,7 @@ and this tradition is comparable to the tradition of Manu and others
 that certain non-Vedic rites, as the astaka etc., are dharma; 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English - Notes</summary>
 
 KMS 1.3.2 api od kartrsamanyāt pramāṇam anumānam syat - "smr̥ti is authoritative, because both smr̥ti and Veda have the same agent performing its mandates,"
 
@@ -2019,7 +2019,7 @@ Smrti has it that
 > he is also called Bhagavata."
 </details>
 
-<details><summary>English</summary>
+<details><summary>English - Notes</summary>
 
 the term "by royal decree" shows that it is a caste profession. Quotation not identified
 </details>
@@ -2418,7 +2418,7 @@ Thus Devala:
 "One who lives on temple treasure. is called a devalaka." 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English - Notes</summary>
 
 not in Devalasmr̥ti.
 </details>
@@ -3010,7 +3010,7 @@ of the delegated and indirect authority of the Tradition of Manu etc.
 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English - Notes</summary>
 
 A Naiyayika. Traditionally, Nyaya does not accept the Mimānsā view that the Vedas have not originated from a person.
 </details>
@@ -3521,7 +3521,7 @@ just because it is subject to origination and annihilation, like a house.
 between acts that bring about the desires of the person who undertakes them, 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English - Notes</summary>
 
 This is the Mimaṁsā view  
 which holds that the dharma and adharma as instruments in creation  
@@ -3626,7 +3626,7 @@ and it has been said that only a person who has actual knowledge of the material
 can be a maker with respect to these causes. 
 </details>
 
-<details><summary>English</summary>
+<details><summary>English - Notes</summary>
 
 The argument is that one cannot know that the act will indeed produce an effect until this effect has materialized;  
 thus the act's power- apūrva- cannot be known beforehand  
@@ -4213,7 +4213,15 @@ for we can have direct knowledge of these acts, sacrifices, donations and the li
 
 However, the special power described with terms like apurva 
 can never be open to perception.  
-How then can we have use for a supervising God? 55  
+How then can we have use for a supervising God?   
+</details>
+
+<details><summary>English - Notes</summary>
+
+Since the apūrva power is suprasensible,  
+it can never be perceived,  
+and the assumption of a God who 'supervises' and controls this power  
+because he perceives it is absurd. 
 </details>
 
 
@@ -4436,6 +4444,15 @@ this same ground cannot prove the same fact
 when it does not involve a contradiction.
 </details>
 
+<details><summary>English - Notes</summary>
+
+read na labhyate .avirodhe" pi; the meaning is this: when a certain fact (the eternality of pots) cannot be proved by a ground (recollection)  
+because this ground contains a contradiction  
+(it is recollected that pots having existed cease to exist),  
+this does not prove that the same ground (recollection) cannot prove the eternality of earth, mountains, etc., when there is no contradiction contained in it (nobody has recollection of a vanishing mountain). 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -4577,6 +4594,13 @@ whatever has parts must come to an end is not universally true.
 <details><summary>English</summary>
 
 The solution of others, namely that God's special properties can be demonstrated by an ad-hoc conclusion, does not hold good either. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+adhikaranasiddhanta is a conclusion which, as soon as one thing is established (e.g., that there is a world creator),  
+establishes another topic discussed (e.g., omniscience).  
+On this question, ef. Tarkabhāṣā 43. 
 </details>
 
 
@@ -4980,7 +5004,12 @@ has been warped by their bias in favour of their own conclusions.
 
 32\. OBJECTION. But in what does this 'preterpersonal' character of the Veda consist?  
 If it consists in this that the Vedas are composed of eternal words,  
-the same holds true of the Pañicarātra Tantra."  
+the same holds true of the Pañicarātra Tantra.  
+</details>
+
+<details><summary>English - Notes</summary>
+
+It is the contention of Mimamsa that words and their capacity of conveying meaning are eternal.
 </details>
 
 
@@ -5014,6 +5043,11 @@ again the same is true.
 
 It could not be the eternity of the word-sequence,  
 for sequence cannot be natural to eternal entities. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+Sequence, of course, supposes priority and posteriority of the entities in sequence, while eternals are co-eternal.
 </details>
 
 
@@ -5077,6 +5111,11 @@ A category of a different degree
 which is established on the strength of recognition  
 should not be denied.  
 And with this we conclude our lengthy disquisition. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+kramāvāntarajati; the difference resides in the createdness of the Pancarātra and the uncreatedness of the Veda, which introduces a difference of degree between the word sequences of both corpora of verbal statements.
 </details>
 
 
@@ -5146,6 +5185,11 @@ As it is, this is a fallacy,
 for the great Lord is known on the authority of the upaniṣads. 
 </details>
 
+<details><summary>English - Notes</summary>
+
+This is Yamuna's objection, which states the extent to which he concurs in the preceding Mimāmsā argument against Nyaya.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -5193,6 +5237,13 @@ for similar statements made by persons concerning facts that are extremely remot
 cannot be denied the authority which is afforded them naturally. 
 </details>
 
+<details><summary>English - Notes</summary>
+
+This starts the discussion of the Prabhakara theory on the limitations of the validity of verbal statements.  
+First general Mimāmsā views on the subject are discussed. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 न च परिनिष्ठतवस्तुगोचरतया तानि प्रमाणमर्यादामतिपतन्ति तादृशामपि प्रमाणान्तरसम्भेदातिदूरगोचराणां पौरुषेयवचसां स्वरससमासाधितप्रामाण्यवारणायोगात् ।  
@@ -5219,7 +5270,7 @@ for the same may equally well happen to a statement concerning, not a fact, but 
 <details><summary>English - Notes</summary>
 
 The validity of shabda lies in its communicating contents that cannot be known through other means of knowledge.  
-What I translate as 'facts" are more literally "established [[129]] entities," established, that is, by other means of knowledge than shabda.  
+What I translate as 'facts' are more literally "established [[129]] entities," established, that is, by other means of knowledge than shabda.  
 A scriptural statement of the kind "grass is green" is not strictly valid  
 in the sense that, in order to know that grass is green, we need a scriptural statement to that effect.
 
@@ -5230,7 +5281,6 @@ which would reverse the scriptural statement.
 
 Scriptural validity, i.e., Scripture's being a means of knowledge, is to the Prabhakara Mimimsaka, its being the sole means of knowing a particular thing.  
 To the Prabhakara this validity is ideal in the case of injunctions concerning actions which, suprasensibly, lead to a certain desired end.
-
 </details>
 
 <details><summary>मूलम्</summary>

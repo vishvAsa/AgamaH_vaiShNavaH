@@ -660,18 +660,6 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 
 ## Notes
- 
-
-[^56]: Since the apūrva power is suprasensible, it can never be 
-perceived, and the assumption of a God who 'supervises' and controls this power because he perceives it is absurd. 57. read na labhyate "oirodhe" pi; the meaning is this: when a certain fact (the eternality of pots) cannot be proved by a ground (recollection) because this ground contains a contradiction (it is recollected that pots having existed cease to exist), this does not prove that the same ground (recollection) cannot prove the eternality of earth, mountains, etc., when there is no contradiction contained in it (nobody has recollection of a vanishing mountain). 50. adhikaranasiddhanta is a conclusion which, as soon as one thing is established (e.g., that there is a world creator), establishes another topic discussed (e.g., omniscience). On this question, ef. Tarkabhāṣā 43. 
-[^59]: It is the contention of Mimamsa that words and their capacity of conveying meaning are eternal. 
-[^60]: Sequence, of course, supposes priority and posteriority of the entities in sequence, while eternals are co-eternal. 
-[^61]: kramavāntarajati; the difference resides in the createdness of the Pancarātra and the uncreatedness of the Veda, which introduces a difference of degree between the word sequences of both corpora of verbal statements. 
-[^62]: This is Yamuna's objection, which states the extent to which he concurs in the preceding Mimāmsā argument against Nyaya.
-[^63]: 
-
-    This starts the discussion of the Prabhakara theory on the limitations of the validity of verbal statements.  
-    First general Mimāmsā views on the subject are discussed. 
 
 
 [^66]: This objection ignores the priorities among pramanas, or means of knowledge; for the Prabhakara, Perception, etc. are prior to, take precedence of, Scripture in case of perceptible, etc. contents. Generally Perception is prior to Inference. To Yamuna, therefore, no priority of Perception to Scripture is given, which is expected since in his view Scripture may also be an account of (God's) Perception, as in the case of Pancaratra. 
