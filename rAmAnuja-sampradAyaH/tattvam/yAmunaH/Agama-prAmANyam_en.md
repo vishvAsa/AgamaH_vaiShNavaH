@@ -8,17 +8,9 @@ title = "Agama-prAmANyam en"
 
 
 
+[[37]]
 
-
-When each omniscient being is assumed on the basis of one's own Tantra doctrine since the various tantric doctrines are mutually in conflict, the result will be that none of them is authoritative, ! 
-44\. OBJECTION. How can the teaching of Vasudeva himself, who is well-known in Revelation and Tradition, be brought to the same level as other Tantras? For the manifestation of His power has been revealed in the Purusa Hymn, "The earth sprang from his feet, the quarters of the sky from his ears;" 
-9999 and again, "The creator created sun and moon as before;" likewise, He is Brahma, he is śiva;" "Visnu's highest step" "No one is his lord in this world, no one his commander; he has no sign. 
-5 
-In this way, the statements of Revelation describe his manifestation characterized by His origination, maintenance and annihilation of the world. Similarly, the Tradition: "From Visnu arose the world, in him does it subsist; he is the one who causes it to exist and to perish," said Parāśara; Manu, too, declared that He is the lord: "Nārāyaṇa is above the unmanifest, and the World-egg is produced by the unmanifest."93 
-This Supreme Person who is continually praised for His knowledge and supremacy in the statements of: Revelation and of the sages has created Pañcaratra. If this Tantra is then on a level with Tantras that are apostate from the path of Revelation, then one might as well reason that a soma-drinker is on a level with a winc-drinker, just because he is a drinker! Is this 
-ADAMA PRIMNYASI 
-37 
-Tantra not superior? Wherefore, then, are the qualities of immaculate knowledge, supremacy etc. of the Bhagavan not currently attributed also to the Destroyer of the Three Cities in thic texts of Revelation? Therefore. it is absurd to hold the equality of the Tantras promulgated by both. Or, since He is the God who is the cause of the origination, protection and destruction of the universe and for whom the entire Vedanta furnishes evidence to the exclusion of anyone else, how could He promulgate a doctrine that is outside the palcs of the Veda? 
+Is this Tantra not superior? Wherefore, then, are the qualities of immaculate knowledge, supremacy etc. of the Bhagavan not currently attributed also to the Destroyer of the Three Cities in thic texts of Revelation? Therefore. it is absurd to hold the equality of the Tantras promulgated by both. Or, since He is the God who is the cause of the origination, protection and destruction of the universe and for whom the entire Vedanta furnishes evidence to the exclusion of anyone else, how could He promulgate a doctrine that is outside the palcs of the Veda? 
 96 
 45\. OBJECTION. Nevertheless, a fair number of śrutis are found which ascribe omniscience and omnipotence to lord Pasupati as well: "He who is allknowing, omniscient;" "The supreme great sovereign of sovereigns."'sa 
 REPLY. By secondary denotation these two words "omniscient" and "sovereign" apply not only to the one who actually is omniscient and sovereign, but also to others, not excepting God Siva, who are as it were all-knowing and supreme. Besides, if in the above. quotation ya sarvajriah sarvavit the word sarvajiia were indeed used to describe the omniscient one, there would be tautology of sarvanit. 
@@ -599,17 +591,7 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 ## Notes
 
-
-
-[89]: RV. 10.90 14 
-[90]: 
-[91]: Mahānār Up 11.12. 
-[92]: Kath Up. 3.9. 
-[93]: Svet Up. 6.9. 
-[91]: Visnu Pur. 1.1.31. 
-[95]: 
-[96]: Not in Manusmrti; reference perhaps to Manu 1.9-10? 
-I read tatha pi. 
+[96]:  
 [97]: Mund Up. 1.1.9. 
 [98]: Svet Up. 6.7. 
 [99]: unidentified. 

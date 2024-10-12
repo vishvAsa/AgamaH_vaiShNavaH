@@ -6496,24 +6496,199 @@ As the (unidentified) text says,
 इति । 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वतन्त्राधिगमाधीनं  
++++(नाना)+++ सर्व-ज्ञ-परिकल्पनम् ।  
+परस्-पर-प्रतीघातात्  
+सर्वाप्रामाण्यम् आवहेत् ॥  
+</details>
+
+<details><summary>English</summary>
+
+When each omniscient being is assumed on the basis of one's own Tantra doctrine  
+since the various tantric doctrines are mutually in conflict,  
+the result will be that none of them is authoritative, ! 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 स्वतन्त्राधिगमाधीनं सर्वज्ञपरिकल्पनम् ।  
 परस्परप्रतीघातात्सर्वाप्रामाण्यमावहेत् ॥  
-ननु, श्रुतिस्मृतिप्रसिद्धेन वासुदेवेन भाषितम् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु, 
+
+> श्रुति-स्मृति-प्रसिद्धेन  
+वासुदेवेन **भाषितम्** ।  
+कथं तन्त्रान्तरैर् एतत्  
+तुल्य-कक्ष्यां **निवेक्ष्यते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+44\. OBJECTION.  
+How can the teaching of Vasudeva himself,  
+who is well-known in Revelation and Tradition,  
+be brought to the same level as other Tantras? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननु, 
+
+> श्रुतिस्मृतिप्रसिद्धेन वासुदेवेन भाषितम् ।  
 कथं तन्त्रान्तरैरेतत् तुल्यकक्ष्यां निवेक्ष्यते ॥  
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तथा हि पौरुषे सूक्ते  
+**श्रूयते** तस्य वैभवम् ।  
+पद्भ्यां भूमिर् दिशश् श्रोत्राद्  
+इत्य्-आदीदन् तथा परम् ॥  
+सूर्या-चन्द्रमसौ धाता  
+यथा-पूर्वम् अकल्पयत् 
+
+> इति, तथा 
+
+> > स ब्रह्मा स शिव इति,  
+> तद् विष्णोः परमम् पदम् ।
+</details>
+
+<details><summary>English</summary>
+
+For the manifestation of His power has been revealed in the Purusa Hymn (RV. 10.90 14),  
+"The earth sprang from his feet,  
+the quarters of the sky from his ears;"  
+and again,   
+"The creator created sun and moon as before;"   
+likewise, "He is Brahma, he is śiva;" (Mahānār Up 11.12.)  
+"Visnu's highest step" (Kath Up. 3.9.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तथा हि पौरुषे सूक्ते श्रूयते तस्य वैभवम् ।  
 पद्भ्यां भूमिर्दिशश्श्रोत्रादित्यादीदन्तथा परम् ॥  
 सूर्याचन्द्रमसौ धाता यथापूर्वमकल्पयत् इति, ।  
-तथा स ब्रह्मा स शिव इति, तद्विष्णोः परमम्पदम् ।  
+तथा स ब्रह्मा स शिव इति, तद्विष्णोः परमम्पदम् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "न तस्य कश्चित् पतिर् अस्ति लोके  
+न चेशिता तस्य च नैव लिङ्गम्" ।  
+**इतीरयन्ति** श्रुतयोऽस्य भूतिं  
+जगज्-जनि-स्थेम-पिधान-चिह्नाम् ॥
+</details>
+
+<details><summary>English</summary>
+
+> No one is his lord in this world, no one his commander; he has no sign. (Svet Up. 6.9.)
+
+In this way, the statements of Revelation describe his manifestation  
+characterized by His origination, maintenance and annihilation of the world. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न तस्य कश्चित् पतिरस्ति लोके न चेशिता तस्य च नैव लिङ्गम् ।  
-इतीरयन्ति श्रुतयोऽस्य भूतिं जगज्जनिस्थेमपिधाचिन्हाम् ॥
+इतीरयन्ति श्रुतयोऽस्य भूतिं जगज्जनिस्थेमपिधानचिह्नाम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > विष्णोस् सकाशाद् **उद्भूतं**  
+जगत् तत्रैव च **स्थितम्** ।  
+स्थिति-संयम-कर्ताऽसाव्  
+इत्य् **आह** स्म पराशरः ॥  
+</details>
+
+<details><summary>English</summary>
+
+Similarly, the Tradition: 
+
+> "From Visnu arose the world, in him does it subsist;  
+> he is the one who causes it to exist and to perish,"  
+> (Visnu Pur. 1.1.31.)
+
+said Parāśara; 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 विष्णोस्सकाशादुद्भूतं जगत्तत्रैव च स्थितम् ।  
 स्थितिसंयमकर्ताऽसावित्याह स्म पराशरः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्थं तम् एव सर्वेशं मनुर् अप्य् आह, तद् यथा ।  
+>
+> > नारायणः परोऽव्यक्ताद्  
+> अण्डम् अ-व्यक्त-सम्भवम् ।  
+>
+> इति, 
+</details>
+
+<details><summary>English</summary>
+
+Manu, too, declared that He is the lord: 
+
+> "Nārāyaṇa is above the unmanifest, and the World-egg is produced by the unmanifest."93 
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+Not in Manusmrti; reference perhaps to Manu 1.9-10? 
+I read tatha pi.
+</details>
+
+<details><summary>मूलम्</summary>
+
 इत्थं तमेव सर्वेशं मनुरप्याह तद्यथा ।  
 नारायणः परोऽव्यक्तादण्डमव्यक्तसम्भवम् ।  
-इति, इत्थं नानाश्रुतिमुनिवचस्सन्ततस्तूयमानज्ञानैश्वर्यः परमपुरुषः पञ्चरात्रं व्यधत्त ।  
+इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इत्थं नाना-श्रुति-मुनि-वचस्-सन्तत-स्तूयमान-  
+ज्ञानैश्वर्यः परम-पुरुषः पञ्च-रात्रं व्यधत्त ।  
+तच् चेद् एतच् छ्रुति-पथ-परिभ्रष्ट-तन्त्रैः समानं  
+पातृत्वेन **प्रसजति** तदा सोमपस् ते सुरा-पैः ॥ +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+This Supreme Person  
+who is continually praised for His knowledge and supremacy in the statements of Revelation and of the sages  
+has created Pañcaratra.  
+If this Tantra is then on a level with Tantras that are apostate from the path of Revelation,  
+then one might as well reason that a soma-drinker is on a level with a ~~wine~~beer-drinker,  
+just because he is a drinker! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्थं नानाश्रुतिमुनिवचस्सन्ततस्तूयमानज्ञानैश्वर्यः परमपुरुषः पञ्चरात्रं व्यधत्त ।  
 तच्चेदेतच्छुतिपथपरिभ्रष्टतन्त्रैः समानं पातृत्वेन प्रसजति तदा सोमपस्ते सुरापैः ॥  
+</details>
+
+
 नैतज्ज्यायः किमङ्ग श्रुतिषु भगवतो न प्रसिद्धा विशुद्धज्ञानैश्वर्यादिधर्मास्त्रिपुरविजयिनस्तेन यत्किञ्चिदेतत् ।  
 यद्वा देवस्स एव त्रिभुवनभवनत्राणविध्वंसहेतुः ।  
 वेदान्तैकप्रमाणः कथयति स कथं वेदगोष्ठीबहिःष्ठम् ॥
