@@ -1,4 +1,4 @@
-+++
+v+++
 title = "Agama-prAmANyam en"
 +++
 
@@ -8,28 +8,9 @@ title = "Agama-prAmANyam en"
 
 
 
- Thus we find the śruti, "Verily, this soul is unperishing, essentially indestructible; it is not conjoined with sizes and, "This dies without the soul; the soul does not die."\*104 
-OBJECTION. This is all very well, but all that this statement says is that the soul is not destroyed, not that it is not born. 
-40 
 
-REFUTATION. No, hy stating that it cannot be destroyed, it also decides that it cannot be born; it is impossible that an entity that has been born does not perish. 
-OBJECTION. Nonetheless, from the emphasis which in the statement "only sat was here is laid on the uniqueness of sat, it follows that there were no souls before the time of creation. Had the individual soul existed before why then this emphasis of "only sat" on sat's absolute solitariness? 
-+ 
-REFUTATION. The reply to this is that here the emphasis on sat's uniqueness is with regard to the elements of wind, water and ether that were about to be created by sat. Were the soul excluded by this statement of sat's solitariness, then the soul's origin would have been described in the sequel, just as the creation of ether is described. This is not done; therefore the soul does not know birth, since in the sequel "That sat created fire, etc. we do not hear of the creation of the individual soul. 
-OBJECTION. However, in the text yato va imani bhūtāni etc. we hear that the souls too know origin, continuance and reabsorption. Iere the word bhita dethe jiva, the individual soul; for thus we find the word used in the passage bhrāmayan sarvabhūtāni,ios The verb jianti "they live" in the text can only apply to the souls, the expression tena jayante "by whom they are born" evidently refers to these same souls. 
-REFUTATION. This is not right. The word bhito commonly deonly the elements ether, wind, fire, water and earth. If the word is used for something 
-I 
-41 
-Of these elements, 
-else, it is used metaphorically. ether etc. which are primarily understood by the word bhute, it is stated that they are variously modified and that they live. The verb "they live" describes a condition of being analogous to living. 
-And if the word bhuta be used in the sense of individual soul, then too the statement declares that the soul is born only in the sense that its entrance into a body is a birth. Therefore, when the word bhiita refers to the individual soul, it can rightly be said that the souls are born, just as it is said that the cow, once born walks about. There are śrutis to this effect, like "For the soul, unborn, alone and we also have other Śrutis which declare that the soul is unborn. Similarly, the word of the Lord: "Know that both matter and spirit are without beginning;" " "this ancient spirit is unborn, eternal, everlasting;" "it is never born nor does it dic" etc. Finally there is the syllogism: the individual soul in question never knows birth; for, while being substantial, it is bodiless, as it consists of spirit, like the Supreme Soul. 
-50\. There are some who notice the logical defects inherent in the view that Scripture of a personal origin, which we have explained above, and having no other course open posit that Tantra too must be eternal. Against this position, we state that it is sublated by the fact that its author, who is patent euough and tacitly remembered, is not forgotten at all; and hence this position does not deserve our 
-notice. 
-51\. Besides, why has the argument about the Pasupatas etc. been swept aside with a stick? If one 
-6 
-42 
-AGAMA TRAMANYAM 
-replies, let the argument stand, we shall have the defect of mutual exclusion. And Vasudeva's authorship of the Tantra, which is commonly known to everybody, can no more be rejected than the preferpersonal origin of the Veda. Or else, if someone says that any of the three means of knowledge is in the case of Pasupata Tantra cancelled by non-appearance," reversion and dubiety, the answer is, your own postulation applies equally well to the Laguḍa doctrine", and once you know this, it is refuted. Your worship better keep quiet. 
+[[42]]  
+51\. Besides, why has the argument about the Pasupatas etc. been swept aside with a stick? If one replies, let the argument stand, we shall have the defect of mutual exclusion. And Vasudeva's authorship of the Tantra, which is commonly known to everybody, can no more be rejected than the preferpersonal origin of the Veda. Or else, if someone says that any of the three means of knowledge is in the case of Pasupata Tantra cancelled by non-appearance," reversion and dubiety, the answer is, your own postulation applies equally well to the Laguḍa doctrine", and once you know this, it is refuted. Your worship better keep quiet. 
 52\. To sum up. For the reasons set forth above we maintain that the exposure of this Tantra's incompatibility with Revelation, Tradition, Epic and Purana as well as with the conclusions of our logical demonstration, and the inacceptability of this Tantra to all exemplary persons go to show that the Pañcaratra texts must have been composed by someone who pretended to teach a path that would lead to heaven and salvation, but actually wished to deceive the world. Concerning.its apocryphal character,' which we have now exposed, we have the declaration: "The traditional teachings that are outside the Veda and all other false doctrines remain fruitless in the afterworld, for they are considered to derive from tamas." Those who follow the Veda are forbidden to speak with those who follow such evil paths: "The following are not to be honoured even with a word: heretics, criminals, impostors, crooks, thieves and hypocrites are not to be honoured even with a word." 
 53\. In the manner116 presented above the primafacie case can be made that the Pañcaritra in its 
  
@@ -568,18 +549,6 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 ## Notes
 
  
-[103]: BA Up. 4.5.14. 
-3 
-
-133 
-104 Ch Up. 6.11.3. 105. ChUp.6.2.1. 106. Ch Up. 6.2.3. 
-[107]: Taitt Up. 3.1.1. 
-The whole sentence includes tena jioanti, on which the present exegesis of bhuta is based. 
-[108]: Bh G. 18.61. 
-[109]: namely, that they are born (jātāri) and die (prayanti). 
-[110]: Svet Up. 4.5. 
-[111]: Bh G. 13.19. 
-[112]: Kath Up. 2.18. 
 [113]: Kath Up. 2.17. 
 [114]: sc. of knowledge. 
 [115]: here used as synonymous with Pasupata. 
