@@ -8,14 +8,7 @@ title = "Agama-prAmANyam en"
 
 
 
- 
-
-It is not borne out by human experience that the Veda was immediately manifest to him, even though he never learnt it. The defects 
-which the Author of the Varttika enumerates, those of personal superiority and inferiority etc.," 
-102 are all to be presumed in the case of Pañcarātra, 
-48\. Moreover, the Saivite, Pasupata, Buddhist, Jainist, Kāpālika and Pañcarātra teachings are traditionally known as heretical. On the basis of the 
-distinction between Vedic and Tantric we arrive at the conclusion that Pañcarātra is outside the Veda. "Tantra is of four kinds: Saiva, Pasupata, Saumya and Laguḍa; thus are described the divisions of Tantra; one should not confuse them." Likewise: "There are three distinct doctrines, the Bhakta, the Bhagavata and the Satvata;" this description of the divisions of Tantra is also found in Pancarātra. 
-49\. Furthermore, that a doctrine destitute of all logic and embracing the view that the soul knows birth, which is rejected by Revelation and Tradition, should be Truth is a highly ludicrous contention. Thus we find the śruti, "Verily, this soul is unperishing, essentially indestructible; it is not conjoined with sizes and, "This dies without the soul; the soul does not die."\*104 
+ Thus we find the śruti, "Verily, this soul is unperishing, essentially indestructible; it is not conjoined with sizes and, "This dies without the soul; the soul does not die."\*104 
 OBJECTION. This is all very well, but all that this statement says is that the soul is not destroyed, not that it is not born. 
 40 
 
@@ -574,10 +567,7 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 ## Notes
 
-[99]: . 
-[100]:  
-[101]: supra §11. 
-[102]: Kumarila, Slokavārttika 2.114. 
+ 
 [103]: BA Up. 4.5.14. 
 3 
 

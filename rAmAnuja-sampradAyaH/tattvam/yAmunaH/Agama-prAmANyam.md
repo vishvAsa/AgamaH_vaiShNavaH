@@ -7007,6 +7007,11 @@ supra § 12.
 47\. Nor is it proper to argue the validity of the Pancaratra Tradition "like the Manu Tradition etc. 101
 </details>
 
+<details><summary>English - Notes</summary>
+
+supra §11.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -7039,25 +7044,157 @@ then the assumption that He was independent is purposeless and false.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनधीतोऽपि वेदोऽस्य  
+**प्रतिभातीत्य्** अलौकिकम् +++(ततोऽसम्भाव्यम्)+++॥  
+अत्र वार्त्तिककारेण  
+ये दोषास् **समुदीरिताः** ।  
+ते च सर्वे **ऽनुसंधेयाः**  
+पुरुषातिशयादयः ॥
+</details>
+
+<details><summary>English</summary>
+
+It is not borne out by human experience that the Veda was immediately manifest to him, even though he never learnt it. The defects 
+which the Author of the Varttika enumerates, those of personal superiority and inferiority etc., (Kumarila, Slokavārttika 2.114)  
+are all to be presumed in the case of Pañcarātra, 
+
+</details>
+
+<details><summary>मूलम्</summary>
 
 अनधीतोऽपि वेदोऽस्य प्रतिभातीत्यलौकिकम् ॥  
 अत्र वार्त्तिककारेण ये दोषास्समुदीरिताः ।  
 ते च सर्वेऽनुसंधेयाः पुरुषातिशयादयः ॥
+</details>
 
-किञ्च ।  
+### बाह्यत्वोक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च -   
+
+शैवं पाशुपतञ् चैव  
+बौद्धम् अप्य् आर्हतं तथा ।  
+कापालं पञ्चरात्रञ् चेत्य्  
+एवं **पाषण्डता** स्मृतेः ॥  
+</details>
+
+<details><summary>English</summary>
+
+48\. Moreover, the Saivite, Pasupata, Buddhist, Jainist, Kāpālika and Pañcarātra teachings are traditionally known as heretical. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+किञ्च -   
+
 शैवं पाशुपतञ्चैव बौद्धमप्यार्हतं तथा ।  
 कापालं पञ्चरात्रञ्चेत्येवं पाषण्डता स्मृतेः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैदिकं तान्त्रिकं चेति  
+**विभाग-करणाद्** अपि ।  
+**गम्यते** पञ्चरात्रस्य  
+वेद-बाह्यत्व-निश्चयः ॥  
+</details>
+
+<details><summary>English</summary>
+
+On the basis of the distinction between Vedic and Tantric  
+we arrive at the conclusion that Pañcarātra is outside the Veda. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 वैदिकं तान्त्रिकं चेति विभागकरणादपि ।  
 गम्यते पञ्चरात्रस्य वेदबाह्यत्वनिश्चयः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शैवं पाशुपतं सौम्यं  
+लागुडञ्च चतुर्विधम् ।  
+तन्त्रभेदः समुद्दिष्टः  
+सङ्करं न समाचरेत् ॥ 
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+"Tantra is of four kinds: Saiva, Pasupata, Saumya and Laguḍa;  
+thus are described the divisions of Tantra;  
+one should not confuse them." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 शैवं पाशुपतं सौम्यं लागुडञ्च चतुर्विधम् ।  
 तन्त्रभेदः समुद्दिष्टः सङ्करं न समाचरेत् ॥ इति , ।  
-तथा ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा -  
+
+भाक्तं भागवतञ्चैव  
+सात्त्वतं च त्रिधा मतम् ।  
+इत्य् एवं **तन्त्रभेदोक्तिः**  
+पञ्चरात्रेऽपि **दृश्यते** ॥
+</details>
+
+<details><summary>English</summary>
+
+Likewise:  
+"There are three distinct doctrines, the Bhakta, the Bhagavata and the Satvata;"  
+this description of the divisions of Tantra is also found in Pancarātra. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा -  
+
 भाक्तं भागवतञ्चैव सात्त्वतं च त्रिधा मतम् ।  
 इत्येवं तन्त्रभेदोक्तिः पञ्चरात्रेऽपि दृश्यते ॥
+</details>
 
-किञ्च ।  
+### जीव-जन्मोक्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च -  
+
+श्रुति-स्मृति-प्रतिक्षिप्त-  
+जीव-जन्मादि-गोचरम् ।  
+न्याय-हीनं वचस् तथ्यम्  
+इति **हास्यम्** इदम् महत् ॥  
+</details>
+
+<details><summary>English</summary>
+
+49\. Furthermore, that a doctrine destitute of all logic  
+and embracing the view that the soul knows birth,  
+which is rejected by Revelation and Tradition,  
+should be Truth is a highly ludicrous contention.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+किञ्च -  
+
 श्रुतिस्मृतिप्रतिक्षिप्तजीवजन्मादिगोचरम् ।  
-न्यायहीनं वचस्तथ्यमिति हास्यमिदम्महत् ॥  
+न्यायहीनं वचस्तथ्यमिति हास्यमिदम्महत् ॥
+</details>
+
+
 तथा च श्रुतिः अविनाशी वा अरेऽयमात्मा अनुच्छित्तिधर्मा मात्रासंसर्गस्तस्य भवति इति तथा जीवापेतं वाब किलेदम्म्रियते न जीवो म्रियते इति ।  
 स्यादेतत् उच्छेदाभावमात्रप्रतिपादकमेतद्वचनं न जन्माभावमवगमयतीति ।  
 न, अनुच्छेदाभिधानेन जन्माभावोऽवसीयते ।  
