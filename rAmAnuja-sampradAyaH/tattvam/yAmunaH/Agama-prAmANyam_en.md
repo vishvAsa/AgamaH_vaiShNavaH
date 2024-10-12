@@ -1,4 +1,4 @@
-v+++
++++
 title = "Agama-prAmANyam en"
 +++
 
@@ -8,16 +8,7 @@ title = "Agama-prAmANyam en"
 
 
 
-
-[[42]]  
-51\. Besides, why has the argument about the Pasupatas etc. been swept aside with a stick? If one replies, let the argument stand, we shall have the defect of mutual exclusion. And Vasudeva's authorship of the Tantra, which is commonly known to everybody, can no more be rejected than the preferpersonal origin of the Veda. Or else, if someone says that any of the three means of knowledge is in the case of Pasupata Tantra cancelled by non-appearance," reversion and dubiety, the answer is, your own postulation applies equally well to the Laguḍa doctrine", and once you know this, it is refuted. Your worship better keep quiet. 
-52\. To sum up. For the reasons set forth above we maintain that the exposure of this Tantra's incompatibility with Revelation, Tradition, Epic and Purana as well as with the conclusions of our logical demonstration, and the inacceptability of this Tantra to all exemplary persons go to show that the Pañcaratra texts must have been composed by someone who pretended to teach a path that would lead to heaven and salvation, but actually wished to deceive the world. Concerning.its apocryphal character,' which we have now exposed, we have the declaration: "The traditional teachings that are outside the Veda and all other false doctrines remain fruitless in the afterworld, for they are considered to derive from tamas." Those who follow the Veda are forbidden to speak with those who follow such evil paths: "The following are not to be honoured even with a word: heretics, criminals, impostors, crooks, thieves and hypocrites are not to be honoured even with a word." 
-53\. In the manner116 presented above the primafacie case can be made that the Pañcaritra in its 
- 
-43 
-entirety has no validity whatever as a means of knowledge. Against this prima-facie case we now submit that the Tantra in question must be accepted as valid, because it produces faultless knowledge, like the scriptural statements on the Vedic sacrifices jyotiştoma 
-etc. 
-54\. Now, such defects as are elicited by the science of logic cannot be detected in this inference. Let us consider the Object of the Proposition. The Object of the Proposition is, by definition, the content of a certain thesis is proposed; it is a term which itself is established, and of which it is now to be proved that it is particularized by another term, which is also established." In the present case the term which particularizes the object is not unknown, for this term, sc. "validity," is for both parties cstablished with regard to the valid means of knowledge, Perception, Inference, Verbal Testimony etc. Nor is the subject itself unknown, for the Pañcaratra system is known universally. Nor is the Object to be proved already proved, for this Object, "The Pañcaratra is valid," is not proved for the opponent. Nor is this Object incompatible with Perception, since its opposite, sc. nonvalidity, is beyond perceptual verifiability. Nor is this Object incompatible with Inference, because no inference proving non-validity is found. 
+In the present case the term which particularizes the object is not unknown, for this term, sc. "validity," is for both parties cstablished with regard to the valid means of knowledge, Perception, Inference, Verbal Testimony etc. Nor is the subject itself unknown, for the Pañcaratra system is known universally. Nor is the Object to be proved already proved, for this Object, "The Pañcaratra is valid," is not proved for the opponent. Nor is this Object incompatible with Perception, since its opposite, sc. nonvalidity, is beyond perceptual verifiability. Nor is this Object incompatible with Inference, because no inference proving non-validity is found. 
 55\. OBJECTION. But such an inference is actually found: Pañcarātra Sastra is non-authoritative, because it is non-Vedic, like Buddhism, 
 REFUTATION. We reply, What is this nonauthoritativeness which this reasoning seeks to prove? 
 44 
@@ -548,11 +539,8 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 ## Notes
 
+
  
-[113]: Kath Up. 2.17. 
-[114]: sc. of knowledge. 
-[115]: here used as synonymous with Pasupata. 
-[116]: I read rityā. 
 [117]: pratijñārthah, the object or content of the pratijñā, which is the first step of the five-membered syllogism, e.g., "the mountain has fire" (parvatasya grimattuam). It does not therefore coincide with the Subject. In the proposition both S and P must be siddha, established as existing somewhere; a non-thing like a harc's horn can be neither S nor P. 
 [118]: this "non-apprehension of what should be there (yogānu pa
 lambha) is the criterion by which we know the absence of a thing. Here it is the absence of truth in Pancaratra that needs be proved by yoganupalambha, if the objector's contention that Pancaratra is invalid-through-reversion 
