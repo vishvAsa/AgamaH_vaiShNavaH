@@ -6688,41 +6688,358 @@ just because he is a drinker!
 तच्चेदेतच्छुतिपथपरिभ्रष्टतन्त्रैः समानं पातृत्वेन प्रसजति तदा सोमपस्ते सुरापैः ॥  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नैतज् ज्यायः किम् अङ्ग? श्रुतिषु भगवतो **न प्रसिद्धा** विशुद्ध-  
+ज्ञानैश्वर्यादि-धर्मास् त्रिपुर-विजयिनस् - तेन यत् किञ्चिदेतत् ।  
+यद् वा देवस् स एव त्रि-भुवन-भवन-त्राण-विध्वंस-हेतुर्  
+वेदान्तैक-प्रमाणः **कथयति** स, कथं वेद-गोष्ठी-बहिः-ष्ठम् ॥
+</details>
+
+<details><summary>English</summary>
+
+[[37]]
+
+Is this Tantra not superior?  
+Wherefore, then, are the qualities of immaculate knowledge, supremacy etc. of the Bhagavan  
+not currently attributed also to the Destroyer of the Three Cities in the texts of Revelation?  
+Therefore it is absurd to hold the equality of the Tantras promulgated by both.  
+Or, since He is the God who is the cause of the origination, protection and destruction of the universe  
+and for whom the entire Vedanta furnishes evidence to the exclusion of anyone else,  
+how could He promulgate a doctrine that is outside the pale of the Veda? 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 नैतज्ज्यायः किमङ्ग श्रुतिषु भगवतो न प्रसिद्धा विशुद्धज्ञानैश्वर्यादिधर्मास्त्रिपुरविजयिनस्तेन यत्किञ्चिदेतत् ।  
 यद्वा देवस्स एव त्रिभुवनभवनत्राणविध्वंसहेतुः ।  
 वेदान्तैकप्रमाणः कथयति स कथं वेदगोष्ठीबहिःष्ठम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि भगवतः पशुपतेर् अपि  
+सार्वज्ञ्य-सर्वैश्वर्यावेदिकाः श्रुतयो  
+बहुलम् उपलभ्यन्ते -  
+
+> यस् सर्वज्ञस् स सर्ववित् ।  
+
+> तमीश्वराणां परमं महेश्वरम् 
+
+इत्याद्याः ।  
+</details>
+
+<details><summary>English</summary>
+
+
+45\. OBJECTION.  
+Nevertheless, a fair number of śrutis are found  
+which ascribe omniscience and omnipotence to lord Pasupati as well:  
+
+"He who is allknowing, omniscient;" (Mund Up. 1.1.9.)
+
+"The supreme great sovereign of sovereigns." (Svet Up. 6.7.)
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तथा हि भगवतः पशुपतेरपि सार्वज्ञ्यसर्वैश्वर्यावेदिकाः श्रुतयो बहुलमुपलभ्यन्ते यस्सर्वज्ञस्स सर्ववित् ।  
 तमीश्वराणां परमं महेश्वरम् इत्याद्याः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्व-ज्ञेश्वर-शब्दौ च  
+न र्ते देवात् पिनाकिनः +++(→तस्मिन्न् अपि)+++ ।  
++++(पदार्थ-ज्ञान+-)+++उत्पत्ति-शक्त्या वर्तेते  
+सत्य् अप्य् अन्यत्र तद्वति ॥  
+</details>
+
+<details><summary>English</summary>
+
+REPLY. By secondary denotation  
+these two words "omniscient" and "sovereign" apply  
+not only to the one who actually is omniscient and sovereign,  
+but also to others, not excepting God Siva,  
+who are as it were all-knowing and supreme.  
+</details>
+
+<details><summary>मूलम्</summary>
+
 सर्वज्ञेश्वरशब्दौ च नर्ते देवात्पिनाकिनः ।  
-उत्पत्तिशक्त्या वर्तेते सत्यप्यन्यत्र तद्वति ॥  
+उत्पत्तिशक्त्या वर्तेते सत्यप्यन्यत्र तद्वति / सर्वज्ञादिनामवत्यपि॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च सर्व-ज्ञ-शब्देन  
+सर्वज्ञे **प्रतिपादिते** ।  
+**पौनर्-उक्त्यं** प्रसज्येत  
+सर्व-विद्-ग्रहणस्य वः ॥+++(5)+++  
+अतः सर्वज्ञशब्दोऽयं  
+महादेवैकगोचरः ।  
+</details>
+
+<details><summary>English</summary>
+
+Besides, if in the above quotation "ya sarvajnah sarvavit"  
+the word sarvajiia were indeed used to describe the omniscient one,  
+there would be tautology of sarvavit. 
+
+Consequently, the word sarvajia refers only to Mahadeva;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 किञ्च सर्वज्ञशब्देन सर्वज्ञे प्रतिपादिते ।  
 पौनरुक्त्यं प्रसज्येत सर्वविद्ग्रहणस्य वः ॥  
 अतः सर्वज्ञशब्दोऽयं महादेवैकगोचरः ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च स्कन्द-लिङ्गादि-  
+पुराणानि पिनाकिनः ॥  
+**उपक्षीणानि** सार्वज्ञ्य-  
+सर्वैश्वर्योपपादने ।  
+</details>
+
+<details><summary>English</summary>
+
+and so the Skanda-Purana, Linga-Purāņa and other Purāņas exhaust themselves  
+in describing this all knowing and sovereign character of Siva. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 तथा च स्कन्दलिङ्गादिपुराणानि पिनाकिनः ॥  
 उपक्षीणानि सार्वज्ञ्यसर्वैश्वर्योपपादने ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश् च तत्-प्रणीतत्वात्  
+प्रामाण्यम् अनया दिशा ॥  
+प्राप्तं पाशुपतं तन्त्रं  
+तत्रान्योन्य-विरोधतः ।  
+सर्व-तन्त्र-प्रमाणत्व-  
+**विपर्यासः प्रसज्यते** ॥
+</details>
+
+<details><summary>English</summary>
+
+[[38]]  
+Therefore, since the Pasupata Tantra has been promulgated by this Pasupati,  
+it acquires authority in this way;  
+but the reversion of the authority of all Tantras in consequence of their mutual contradictions  
+applies to this Pasupata Tantra too. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ततश्च तत्प्रणीतत्वात् प्रामाण्यमनया दिशा ॥  
 प्राप्तं पाशुपतं तन्त्रं तत्रान्योन्यविरोधतः ।  
 सर्वतन्त्रप्रमाणत्वविपर्यासः प्रसज्यते ॥
+</details>
 
-अपि च भवतु भगवान् वासुदेव एवौपनिषदः पुरुषः, अथ च स कथमिव श्रुतिपरिपन्थितन्त्रमेतत्प्रणयेतेत्युत्प्रेक्ष्येत य एवमाह श्रुतिस्मृती ममैवाज्ञे इति ततश्च ।  
+
+### श्रुति-विरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च भवतु भगवान् वासुदेव एवौपनिषदः पुरुषः,  
+अथ च स कथम् इव श्रुति-परिपन्थि-तन्त्रम् एतत् प्रणयेतेत्य् उत्प्रेक्ष्येत  
+य एवम् आह श्रुति-स्मृती ममैवाज्ञे इति ?
+</details>
+
+<details><summary>English</summary>
+
+46\. Further, granted that the Lord Vasudeva is the Person known in the upaniṣads,  
+how then can the theory be held of him that he has promulgated the Pañcarātra Tantra  
+which conflicts with Revelation of him who said, "Revelation and Tradition are my commands ?'' (unidentified) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च भवतु भगवान् वासुदेव एवौपनिषदः पुरुषः,  
+अथ च स कथमिव श्रुतिपरिपन्थितन्त्रमेतत्प्रणयेतेत्युत्प्रेक्ष्येत य एवमाह श्रुतिस्मृती ममैवाज्ञे इति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश्च -  
+
+> वासुदेवाभिधानेन  
+केनचिद् **विप्रलिप्सुना** ।  
+**प्रणीतं** प्रस्तुतं तन्त्रम्  
+इति **निश्चिनुमो** वयम् ॥
+</details>
+
+<details><summary>English</summary>
+
+Thus we conclude that there has been a deceiver  
+who assumed the name of 'Vasudeva'  
+and under that name composed the Tantra under 
+discussion. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ततश्च -  
 वासुदेवाभिधानेन केनचिद् विप्रलिप्सुना ।  
 प्रणीतं प्रस्तुतं तन्त्रमिति निश्चिनुमो वयम् ॥
+</details>
 
-अस्तु वा समस्तजगदध्यक्षो वासुदेव एवास्य तन्त्रस्य प्रणेता तथाऽपि ।  
+### मोहनोद्देशः?
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्तु वा समस्तजगदध्यक्षो वासुदेव एवास्य तन्त्रस्य प्रणेता,  तथाऽपि -
+</details>
+
+<details><summary>English</summary>
+
+Or else, suppose that Vasudeva Himself, ruler of the entire universe, was the promulgator of this Tantra; they still say that
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्तु वा समस्तजगदध्यक्षो वासुदेव एवास्य तन्त्रस्य प्रणेता,  तथाऽपि -
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+माया-मोहन-विग्रहेण हरिणा देव-द्रुहां संहतिम्   
+**हन्तुं** मोहयता ऽहितान्य् **अभिहितान्य्** आहुर् हि तच्छद्मना ।  
+एवं किन् नु **नयन् नयन्** निज-महा-माया-गुहा-गव्हरम् ।  
+**व्याजह्रे** किम् इदं न वेति विशये जाते, कथं निर्णयः ॥
+</details>
+
+<details><summary>English</summary>
+
+Hari, whose personal manifestations are deceptive  
+because of his power of illusion,  
+has promulgated these unholy texts deceivingly  
+under the guise of holy texts  
+in order to destroy the whole mass of enemies of the gods.  
+Now, has he indeed composed this Tantra,  
+leading the faithful into the mysterious abyss of his grand power of illusion, or not?  
+This is the question that now arises.  
+How are we to resolve it? 
+</details>
+
+<details><summary>मूलम्</summary>
+
 मायामोहनविग्रहेण हरिणा देवद्रुहां संहतिम् ।  
 हन्तुं मोहयताऽहितान्यभिहितान्याहुर्हि तच्छद्मना ॥  
 एवं किन्नु नयन्नयन्निजमहामायागुहागव्हरम् ।  
-व्याजहे? किमिदं न वेति विशये जाते कथं निर्णयः ॥  
+व्याजह्रे किमिदं न वेति विशये जाते कथं निर्णयः ॥
+</details>
+
+### वैदिकैर् अनङ्गीकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रत्त्युत **भ्रमयन्न्** एव  
+**व्याजहारेति** गम्यते ।  
+वैदिकैर् अगृहीतत्त्वात्  
+तथा ऽर्हतमतं यथा ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+Or are we rather to understand that  
+he composed this Tantra  
+while he himself was in error,  
+since it is not accepted by the followers of the Veda,  
+just as the doctrine of the Jainas is not accepted?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 प्रत्त्युत भ्रमयन्नेव व्याजहारेति गम्यते ।  
-वैदिकैरगृहीतत्त्वात् तथाऽर्हतमतः यथा ॥
+वैदिकैरगृहीतत्त्वात् तथाऽर्हतमतं यथा ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वैदिकापरिग्रहश् च प्राग् एव प्रपञ्चित इति,  
+तस्मान् न +++(वेदापेक्षया→)+++स्व-तन्त्रानुभव-मूलतया प्रमाणम् ।  
+</details>
+
+<details><summary>English</summary>
+
+That the followers of the Veda do not accept it has been set forth at length above.100   
+Consequently, then,  Pancaratra Tantra is not authoritative  
+because it derives from the cognition of an independent Person. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+supra § 12.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 वैदिकापरिग्रहश्च प्रागेव प्रपञ्चित इति, तस्मान्न स्वतन्त्रानुभवमूलतया प्रमाणम् ।  
+</details>
+
+### न मन्वादि-स्मृतिवत्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि मन्वादि-स्मरणवद् इत्य् - अनुपपन्नं पञ्चरात्रस्मरणम् ।  
+</details>
+
+<details><summary>English</summary>
+
+47\. Nor is it proper to argue the validity of the Pancaratra Tradition "like the Manu Tradition etc. 101
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 नापि मन्वादिस्मरणवदित्यनुपपन्नं पञ्चरात्रस्मरणम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि मन्वादिवद् देवः  
+शुश्रूषा-**परितोषितात्** ।  
+आचार्याल् **लब्ध**-वेदार्थस्  
+तन्त्रम् एतद् **अचीक्लपत्** ॥  
+स्वातन्त्र्य-**कल्पना** ऽमुष्य  
+व्यर्था मिथ्या तथा सति ।
+</details>
+
+<details><summary>English</summary>
+
+[[39]]   
+If the God has composed the Tantra after having, like manu etc., learnt the meaning of the Veda from a teacher who was satisfied with his pupil's obedience,  
+then the assumption that He was independent is purposeless and false.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यदि मन्वादिवद्देवः शुश्रूषापरितोषितात् ।  
 आचार्याल्लब्धवेदार्थस्तन्त्रमेतदचीक्लपत् ॥  
-स्वातन्त्र्यकल्पनाऽमुष्य व्यर्था मिथ्या तथा सति ।  
+स्वातन्त्र्यकल्पनाऽमुष्य व्यर्था मिथ्या तथा सति ।
+</details>
+
+
+
 अनधीतोऽपि वेदोऽस्य प्रतिभातीत्यलौकिकम् ॥  
 अत्र वार्त्तिककारेण ये दोषास्समुदीरिताः ।  
 ते च सर्वेऽनुसंधेयाः पुरुषातिशयादयः ॥

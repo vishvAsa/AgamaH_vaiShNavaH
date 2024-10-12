@@ -8,28 +8,11 @@ title = "Agama-prAmANyam en"
 
 
 
-[[37]]
+ 
 
-Is this Tantra not superior? Wherefore, then, are the qualities of immaculate knowledge, supremacy etc. of the Bhagavan not currently attributed also to the Destroyer of the Three Cities in thic texts of Revelation? Therefore. it is absurd to hold the equality of the Tantras promulgated by both. Or, since He is the God who is the cause of the origination, protection and destruction of the universe and for whom the entire Vedanta furnishes evidence to the exclusion of anyone else, how could He promulgate a doctrine that is outside the palcs of the Veda? 
-96 
-45\. OBJECTION. Nevertheless, a fair number of śrutis are found which ascribe omniscience and omnipotence to lord Pasupati as well: "He who is allknowing, omniscient;" "The supreme great sovereign of sovereigns."'sa 
-REPLY. By secondary denotation these two words "omniscient" and "sovereign" apply not only to the one who actually is omniscient and sovereign, but also to others, not excepting God Siva, who are as it were all-knowing and supreme. Besides, if in the above. quotation ya sarvajriah sarvavit the word sarvajiia were indeed used to describe the omniscient one, there would be tautology of sarvanit. 
-Consequently, the word sarvajia refers only to Mahadeva; and so the Skanda-Purana, Linga-Purāņa and other Purāņas exhaust themselves in describing this all knowing and sovereign character of Siva. Thercfore, since the Pasupata Tantra has been promulgated by this Pasupati, it acquires authority in this way; but 
-38 
-88 
-
-the reversion of the authority of all Tantras in consequence of their mutual contradictions applies to this Pasupata Tantra too. 
-46\. Further, granted that the Lord Vasudeva is the Person known in the upaniṣads, how then can the theory be held of him that he has promulgated the Pañcarātra Tantra which conflicts with Revelation of him who said, "Revelation and Tradition are 'my commands ?'' Thus we conclude that there has been a deceiver who assumed the name of Vasudeva' and 
-under that name composed the Tantra under 
-discussion. 
-Or else, suppose that Vasudeva Himself, ruler of the entire universe, was the promulgator of this Tantra; they still say that Hari, whose personal manifestations are deceptive because of his power of 'illusion, has promulgated these unholy texts deceivingly under the guise of holy texts in order to destroy the whole mass of enemies of the gods. Now, has he indeed composed this Tantra, leading the faithful into the mysterious abyss of his grand power of illusion, or not? This is the question that now arises. How are we to resolve 
-it? Or are we rather to understand that he composed this Tantra while he himself was in crror, since it is not accepted by the followers of the Veda, just as the doctrine of the Jainas is not accepted? That the followers of the Veda do not accept it has been set forth at length above.100 Consequently, then, 
-Pancaratra Tantra is not authoritative because it derives from the cognition of an independent Person. 
-47\. Nor is it proper to argue the validity of the Pancaratra Tradition "like the Manu Tradition etc. \*#101AOAKA PRAMANYAMI 
-39 
-If the God has composed the Tantra after having, like manu etc., learnt the meaning of the Veda from a teacher who was satisfied with his pupil's obedience, then the assumption that He was independent is purposeless and false. It is not borne out by human experience that the Veda was immediately manifest to him, even though he never learnt it. The defects 
+It is not borne out by human experience that the Veda was immediately manifest to him, even though he never learnt it. The defects 
 which the Author of the Varttika enumerates, those of personal superiority and inferiority etc.," 
-102 are all to be presumed in the case of Pañicarātra, 
+102 are all to be presumed in the case of Pañcarātra, 
 48\. Moreover, the Saivite, Pasupata, Buddhist, Jainist, Kāpālika and Pañcarātra teachings are traditionally known as heretical. On the basis of the 
 distinction between Vedic and Tantric we arrive at the conclusion that Pañcarātra is outside the Veda. "Tantra is of four kinds: Saiva, Pasupata, Saumya and Laguḍa; thus are described the divisions of Tantra; one should not confuse them." Likewise: "There are three distinct doctrines, the Bhakta, the Bhagavata and the Satvata;" this description of the divisions of Tantra is also found in Pancarātra. 
 49\. Furthermore, that a doctrine destitute of all logic and embracing the view that the soul knows birth, which is rejected by Revelation and Tradition, should be Truth is a highly ludicrous contention. Thus we find the śruti, "Verily, this soul is unperishing, essentially indestructible; it is not conjoined with sizes and, "This dies without the soul; the soul does not die."\*104 
@@ -591,13 +574,10 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 ## Notes
 
-[96]:  
-[97]: Mund Up. 1.1.9. 
-[98]: Svet Up. 6.7. 
-[99]: unidentified. 
-[100]: supra § 12. 
+[99]: . 
+[100]:  
 [101]: supra §11. 
-[102]: Kumзrila, Slokavārttika 2.114. 
+[102]: Kumarila, Slokavārttika 2.114. 
 [103]: BA Up. 4.5.14. 
 3 
 
