@@ -6,20 +6,13 @@ title = "Agama-prAmANyam en"
 
 ## 
 
-Nor is the ground precluded, since there is no concomitance of its opposite; being a cause of faultless knowledge is not invariably accompanied by nonauthoritativeness. Nor is the ground cancelled by lapse of time, since there is no conflict with Perception and in this it is analogous with Scripture. 
-Nor is the ground itself unproved or unestablished. If a ground is unestablished, this is because either its locus or its essence is unestablished. The first does not apply, for its locus is Pañicarātra Sastra, which is proved to exist. Nor does the second apply: for there are three ways in which a ground may be unestablished as to its essence: through ignorance, through dubiety, or through reversion. Ignorance does not apply, as follows from the fact that the words describing the ground are pronounced." Nor does dubiety apply, for that the ground is correct is undoubted and selfevident to the defender of the proposition, while for the opponent the same is easily proved by the fact thatADAMA PRĀMĀṆYANI 
-no defects are apprehended in it. 
-49 
-That the ground would be unestablished through reversal is utterly out of the question. 
-60\. OBJECTION. But how can we discard the supposition that the Pañcaratra texts are faulty?128 This supposition arises instantly since the texts are of personal origin. 
-REFUTATION. How do you avoid the same supposition in the case of the Vedas? There too it arises instantly, since the Vedas are language-statements. When you reply, it is avoided because the Vedas have no personal author, then you may realize that in our case, too, it is avoided, since the Tantras have been composed by the Supreme Person, who is omniscient and eternally satisfied, and you may keep quiet! 
-What I mean to say is this. Our position is that in language as such there are no defects that invalidate its authority; as language, language is authoritative, Its authority is in certain cases invalidated by defects in the character of the speaker, for instance in a language statement, There is a herd of elephants on my finger-tip." The statements in the upanisad portion of the Veda remove whatever suspicion we may have about any defects in the character of the speaker in the text collection here under discussion. For the Vedanta texts set forth that the omniscient Lord of the world is supremely compassionate; then how can we suppose Him to be deceitful etc.? 
-61\. OBJECTION. However, I have said that language statements have no authority when they concern established facts, on the ground that when terms are applied to such facts they do not have proper denotative power. 
-7 
-50 
+
+
 
 Profane 
-REFUTATION. This view is not correct, language, eliciting a fact by direct application, even though this fact is established, really operates its denoting power as fully as it does by applications which concern karyas. Consider the illustration that has been given abovels, When certain manifestations (of joy) in ā man's face, which follow on his hearing the statement "A son has been born to you," make it appear that the man spoken-to is happy, one instantly understands that his happiness is the result of his receiving from this statement a knowledge of an agreeable meaning, and one then infers that, for a medium-aged person too, this happiness derives from the statement. Thus one concludes that, since this happiness came to exist upon the existence of the statement, the statement itself has the power to convey an agreeable meaning. If there arises a doubt as to which particular ground of happiness among t 
+
+
+Consider the illustration that has been given abovels, When certain manifestations (of joy) in ā man's face, which follow on his hearing the statement "A son has been born to you," make it appear that the man spoken-to is happy, one instantly understands that his happiness is the result of his receiving from this statement a knowledge of an agreeable meaning, and one then infers that, for a medium-aged person too, this happiness derives from the statement. Thus one concludes that, since this happiness came to exist upon the existence of the statement, the statement itself has the power to convey an agreeable meaning. If there arises a doubt as to which particular ground of happiness among t 
 the many different grounds that may occur according to past, present and future, then consider this. A young boy, who wants to understand the meaning of speech, immediately upon hearing the same statement receives knowledge that a birth ceremony is being held. He thinks to himself, "There must be a reason for this." Then he considers, "Is the agreeable meaning which has been understood from the statement the cause of this knowledge that a birth ceremony is to be held ?" and he realizes that this meaning was precisely this that a son had been born. 13 
 And on that issue: Definite knowledge of the donation of words in a sentence is had through the words that are included or excluded. This being so, 
  
@@ -513,7 +506,7 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 [126]:  
 
 [[135]] 
-[127]: Obviously, if the ground were not known, it could not be stated. 
+[127]:  
 [128]: This objection seems to speak to the summary denial that 
 the ground is unestablished through reversion. 
 [129]: Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, fabdapramānja) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning. Among these thingsmeant Yamuna includes facts as well as kargas, hence the following debate with the Prabhakara, 

@@ -833,7 +833,7 @@ so that we conclude that the proposition is presentable.
 अतो वा नागमविरोधः, तदेवं प्रतिपन्नः पक्षः ।  
 </details>
 
-## हेतु-सौष्टवम्
+## हेतु-सौष्ठवम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नापि हेतोर् अनैकान्तिकत्वादयो दोषाः ।  
@@ -961,26 +961,356 @@ shows its connection with other instances on the same side of the argument.
 नाप्यसाधारणः ज्योतिष्टोमादिवाक्यदृष्टान्ताभिधानेनैव सपक्षान्वयस्य प्रदर्शितत्वात् ।  
 </details>
   
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि विरुद्धः,  
+विपरीत-व्याप्त्य्-अभावात्,  
+न हि निर्दोष-ज्ञान-कारणत्वम् अप्रामाण्येन व्याप्तम् ।  
+</details>
+
+<details><summary>English</summary>
+
+Nor is the ground precluded,  
+since there is no concomitance of its opposite; being a cause of faultless knowledge is not invariably accompanied by nonauthoritativeness.  
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 नापि विरुद्धः, विपरीतव्याप्त्यभावात्, न हि निर्दोषज्ञानकारणत्वमप्रामाण्येन व्याप्तम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च कालात्ययापदिष्टः -  
+प्रत्यक्ष-विरोधाभावात्  
+आगमानुगुण्याच् च ।  
+</details>
+
+<details><summary>English</summary>
+
+Nor is the ground cancelled by lapse of time,  
+since there is no conflict with Perception  
+and in this it is analogous with Scripture. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 न च कालात्ययापदिष्टः प्रत्यक्षविरोधाभावात् आगमानुगुण्याच्च ।  
-न चासिद्धत्वम्, असिद्धिर्हि आश्रयतः स्वरूपतो वा तावदाश्रयासिद्धिः, पञ्चरात्रशास्त्रस्याश्रयत्वात्, नापि स्वरूपासिद्धः, सोऽपि त्रेधा अज्ञान -सन्देह -विपर्ययभेदात्, न तावदज्ञानासिद्धिः, तत्प्रतिपादकशब्दोच्चारणात्, नापि संदिग्धासिद्धः, निर्दोषत्वस्य वादिनः स्वयं सिद्धत्वात्, प्रतिवादिनोऽपि दोषानुपलम्भादेवानायाससिद्धत्वात्, विपर्ययासिद्धिस्तु दूरोत्सारितैव ।  
-ननु कथं पौरुषेयत्वसामान्यादापतन्ती दोषसंभावना अपनीयते पञ्चरात्रमन्त्राणां कथं वाक्यत्वसामान्यादापतन्ती वेदेषु सा वार्यते, अपौरुषेयत्वादिति चेत्तादिहापि सर्वज्ञावाप्तकामपरमपुरुषप्रणीततयेत्यवगम्य शाम्यतु भवान् ।  
-एतदुक्तं भवति ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चासिद्धत्वम्,  
+अ-सिद्धिर् हि आश्रयतः स्वरूपतो वा तावद् आश्रयासिद्धिः,  
+पञ्च-रात्र-शास्त्रस्याश्रयत्वात्, 
+</details>
+
+<details><summary>English</summary>
+
+Nor is the ground itself unproved or unestablished.  
+If a ground is unestablished,  
+this is because either its locus or its essence is unestablished.  
+The first does not apply, for its locus is Pañicarātra Sastra, which is proved to exist. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चासिद्धत्वम्, असिद्धिर्हि आश्रयतः स्वरूपतो वा तावदाश्रयासिद्धिः, पञ्चरात्रशास्त्रस्याश्रयत्वात्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि स्व-रूपासिद्धः,  
+सोऽपि त्रेधा - अज्ञान-सन्देह-विपर्ययभेदात्,  
+</details>
+
+<details><summary>English</summary>
+
+Nor does the second apply:  
+for there are three ways in which a ground may be unestablished as to its essence:  
+through ignorance, through dubiety, or through reversion. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि स्वरूपासिद्धः, सोऽपि त्रेधा अज्ञान-सन्देह-विपर्ययभेदात्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न तावद् अ-ज्ञानासिद्धिः,  
+तत्-प्रतिपादक-शब्दोच्चारणात्, 
+</details>
+
+<details><summary>English</summary>
+
+Ignorance does not apply,  
+as follows from the fact that the words describing the ground are pronounced.
+</details>
+
+<details><summary>English - Notes</summary>
+
+Obviously, if the ground were not known, it could not be stated.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तावदज्ञानासिद्धिः, तत्प्रतिपादकशब्दोच्चारणात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि संदिग्धासिद्धः,  
+निर्दोषत्वस्य वादिनः स्वयं सिद्धत्वात्,  
+प्रतिवादिनो ऽपि दोषानुपलम्भाद् एवानायास-सिद्धत्वात्,
+</details>
+
+<details><summary>English</summary>
+
+Nor does dubiety apply,  
+for that the ground is correct is undoubted and self-evident to the defender of the proposition,  
+while for the opponent the same is easily proved by the fact that no defects are apprehended in it. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि संदिग्धासिद्धः, निर्दोषत्वस्य वादिनः स्वयं सिद्धत्वात्, प्रतिवादिनोऽपि दोषानुपलम्भादेवानायाससिद्धत्वात्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विपर्ययासिद्धिस्तु दूरोत्सारितैव ।  
+</details>
+
+<details><summary>English</summary>
+
+[[49]]  
+That the ground would be unestablished through reversal is utterly out of the question.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विपर्ययासिद्धिस्तु दूरोत्सारितैव ।  
+</details>
+
+## स-दोषता न
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु कथं पौरुषेयत्व-सामान्याद् आपतन्ती दोष-संभावना अपनीयते 
+</details>
+
+<details><summary>English</summary>
+
+60\. OBJECTION. But how can we discard the supposition that the Pañcaratra texts are faulty?128  
+This supposition arises instantly since the texts are of personal origin. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु कथं पौरुषेयत्वसामान्यादापतन्ती दोषसंभावना अपनीयते 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्चरात्रमन्त्राणां कथं वाक्यत्व-सामान्याद् आपतन्ती वेदेषु सा +++(दोषसंभावना)+++ वार्यते, 
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. How do you avoid the same supposition in the case of the Vedas?  
+There too it arises instantly, since the Vedas are language-statements.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पञ्चरात्रमन्त्राणां कथं वाक्यत्वसामान्यादापतन्ती वेदेषु सा वार्यते, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपौरुषेयत्वाद् इति चेत्  
+तद् इहापि सर्व-ज्ञावाप्त-काम--परम-पुरुष-प्रणीततयेत्य् अवगम्य शाम्यतु भवान् ।  
+</details>
+
+<details><summary>English</summary>
+
+When you reply, it is avoided because the Vedas have no personal author,  
+then you may realize that in our case, too, it is avoided, since the Tantras have been composed by the Supreme Person,  
+who is omniscient and eternally satisfied,  
+and you may keep quiet! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपौरुषेयत्वादिति चेत्तदिहापि सर्वज्ञावाप्तकामपरमपुरुषप्रणीततयेत्यवगम्य शाम्यतु भवान् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एतदुक्तं भवति -  
+
+नैव शब्दे स्वतो दोषाः  
+प्रामाण्य-परिपन्थिनः ।  
+सन्ति किन्तु स्वतस् तस्य  
+प्रमाणत्वम् इति स्थितिः ॥  
+</details>
+
+<details><summary>English</summary>
+
+What I mean to say is this.  
+
+Our position is that in language as such there are no defects that invalidate its authority;   
+as language, language is authoritative, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एतदुक्तं भवति -  
+
 नैव शब्दे स्वतो दोषाः प्रामाण्यपरिपन्थिनः ।  
 सन्ति किन्तु स्वतस्तस्य प्रमाणत्वमिति स्थितिः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वक्तुर् आशय-दोषेण  
+केषुचित् तद् **अपोद्यते** ।  
+अङ्गुल्य्-अग्रे **ऽस्ति** मातङ्ग-  
+यूथम् इत्य्-एवम्-आदिषु ॥  
+</details>
+
+<details><summary>English</summary>
+
+Its authority is in certain cases invalidated by defects in the character of the speaker,  
+for instance in a language statement,  
+"There is a herd of elephants on my finger-tip." 
+</details>
+
+<details><summary>मूलम्</summary>
+
 वक्तुराशयदोषेण केषुचित्तदपोद्यते ।  
 अङ्गुल्यग्रेऽस्ति मातङ्गयूथमित्येवमादिषु ॥  
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रस्तुत-ग्रन्थ-संदर्भे  
+वक्तुर् आशय-गामिनीम् ।  
+दोष-शङ्कां त्रयी-मूर्ध-  
+ध्वनिर् **एवापमार्ष्टि** नः ॥  
+</details>
+
+<details><summary>English</summary>
+
+The statements in the upanisad portion of the Veda  
+remove whatever suspicion we may have  
+about any defects in the character of the speaker in the text collection here under discussion.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 प्रस्तुतग्रन्थसंदर्भे वक्तुराशयगामिनीम् ।  
 दोषशङ्कां त्रयीमूर्द्धध्वनिरेवापमार्ष्टि नः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वदन्ति खलु वेदान्ताः  
+सर्वज्ञं जगतः पतिम् ।  
+महाकारुणिकं तस्मिन्  
++++(वञ्चन=)+++विप्रलम्भादयः कथम् ॥
+</details>
+
+<details><summary>English</summary>
+
+For the Vedanta texts set forth that the omniscient Lord of the world is supremely compassionate;  
+then how can we suppose Him to be deceitful etc.? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 वदन्ति खलु वेदान्ताः सर्वज्ञं जगतः पतिम् ।  
 महाकारुणिकं तस्मिन् विप्रलम्भादयः कथम् ॥
+</details>
+ 
+## सिद्ध-वस्तुनि शब्द-प्रामाण्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च   
+> 
+> सिद्धे वस्तुनि शब्दानां  
+प्रामाण्यं नेत्यवादिषम् ।  
+तत्-परेषु प्रयोगेषु  
+व्युत्पत्त्यग्रहणाद् इति ॥
+</details>
+
+<details><summary>English</summary>
+
+61\. OBJECTION.  
+However, I have said that language statements have no authority  
+when they concern established facts,  
+on the ground that when terms are applied to such facts  
+they do not have proper denotative power. 
+
+[[50]] 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 ननु च ।  
 सिद्धे वस्तुनि शब्दानां प्रामाण्यं नेत्यवादिषम् ।  
-तत्परेषु प्रयोगेषु व्युत्प्रत्यग्रहणादिति ॥  
+तत्परेषु प्रयोगेषु व्युत्पत्त्यग्रहणादिति ॥  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् असत् सिद्धम् अप्य् अर्थम्  
+**आचक्षाणाः** प्रयोगतः ।  
+लौकिकाः **प्रतिपद्यन्तेः**  
+शक्तिं, कार्यपराद् इव ॥
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION.  
+This view is not correct, language, eliciting a fact by direct application,  
+even though this fact is established,  
+really operates its denoting power  
+as fully as it does  
+by applications which concern karyas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तदसत्सिद्धमप्यर्थमाचक्षाणाः प्रयोगतः ।  
 लौकिकाः प्रतिपद्यन्तेः शक्तिं कार्यपरादिव ॥
+</details>
+
 
 तद्यथा पुत्रस्ते जात इति वचनश्रवणानन्तरजनितविशिष्टवदनविकासावसानसमनन्तरं हृष्टोऽयमिति प्रतिपद्य हर्षोऽयं प्रियार्थावगमनिबन्धन इति स्वात्मन्याकलयन् मध्यमवृद्धस्यापि तन्निबन्धनमेव हर्षमनुमिमानस्तद्भावभावितया शब्दस्यैव प्रियार्थाऽवबोधकतामव्यवस्यति ।  
 तत्राप्यतीतानागतादिभेदभिन्नेषु हर्षहेतुषूपप्लवमानेषु कस्य वक्ताऽयमिति विचिकित्सोदये सति ।  
@@ -1443,7 +1773,7 @@ shows its connection with other instances on the same side of the argument.
 तत्रैष सूत्रार्थः पूर्वं स्वाभिप्रेतसमयपरिपन्थिकपिल -काश्यपसुगत जिन -पशुपतिमतानां श्रुतिन्यायविओरोधादसामञ्जस्यं प्रतिपाद्य अधुना स्वाभिप्रेतपञ्चरात्रतन्त्राणामपि इतरसमयसमानपरिगणनाद् बुद्धौ सन्निहितानामितरसमयवदसामञ्जस्यमाशङ्क्य प्रामाण्यं (स्थूणानिखननन्यायेनेत्यर्थः यथा हि स्थूणां द्रढयितुमिच्छवस्तां स्वयमेव हस्तेन परिचाल्य परीक्षन्ते ।)व्युत्पाद्यते ।  
 तत्राद्येन सूत्रद्वयेन पूर्वपक्ष उपक्षिप्यते तथा हि पञ्चरात्रशास्त्रमप्रमाणम् उत्प्रत्यसंभवात् प्रतिपाद्यमानायाः संकर्षणाद्युत्पत्तेरसंभवात्, कथमसंभवः, उभयथाऽप्यनुपपत्तेः तथा हि ।  
 किन्तु चत्वार एवैते समानैश्वर्यभागिनः ।  
-एको वा स्याच्चतुर्भेदे द्वेधा व्युत्प्रत्यसंभवः ॥  
+एको वा स्याच्चतुर्भेदे द्वेधा व्युत्पत्त्यसंभवः ॥  
 समानैश्वर्यभागित्वे तुल्यत्वान्नैव सृज्यते ।  
 एकात्मत्वेऽभ्युपेतेऽपि तथोत्पत्तेरसंभवः ।  
 स्रष्टृसृज्यविभागो हि नैकस्मिन्नवकल्पते ।  
