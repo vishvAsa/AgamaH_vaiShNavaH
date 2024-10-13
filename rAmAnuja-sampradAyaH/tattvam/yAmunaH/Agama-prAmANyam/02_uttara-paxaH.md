@@ -2,6 +2,8 @@
 title = "०२ उत्तर-पक्षः"
 
 +++
+## निर्दोष-ज्ञान-जन्यता
+### प्रतिज्ञा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > विवादाध्यासितं तन्त्रं  
@@ -25,7 +27,7 @@ like the scriptural statements on the Vedic sacrifices jyotiştoma etc.
 निर्दोषज्ञानजन्मत्वाज्ज्योतिष्टोमादिवाक्यवत्॥
 </details>
 
-
+### अनुमानय् अवयवाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **न** तावद् अनुमानेऽस्मिन्  
@@ -53,7 +55,7 @@ Let us consider the Object of the Proposition.
 पक्षो नाम प्रतिज्ञाऽर्थः  
 स च सिद्धेन केनचित् ।  
 स्वयं सिद्धो विशिष्टस् सन्  
-यः साधयितुम् ईप्सितः ॥
+यः साधयितुम् ईप्सितः ॥+++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -63,9 +65,17 @@ the content of a certain thesis is proposed;
 it is a term which itself is established,  
 and of which it is now to be proved that it is particularized by another term,  
 which is also established." 
-
 </details>
 
+<details><summary>English - Notes</summary>
+
+pratijñārthah, the object or content of the pratijñā,  
+which is the first step of the five-membered syllogism,  
+e.g., "the mountain has fire" (parvatasya agnimattvam).  
+It does not therefore coincide with the Subject.  
+In the proposition both S and P must be siddha, established as existing somewhere;  
+a non-thing like a hare's horn can be neither S nor P. 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -74,26 +84,475 @@ which is also established."
 स्वयं सिद्धो विशिष्टस्सन् यः साधयितुमीप्सितः ॥
 </details>
 
+### पक्ष-सौष्ठवम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र न तावदप्रसिद्धविशेषणः पक्षः, प्रामाण्यनाम्नः पदार्थस्य उभयवादिसिद्धत्वात् प्रत्यक्षादौ, नाप्यप्रसिद्धविशेष्यः पञ्चरात्रशास्त्रस्य सर्वलोकप्रसिद्धत्वात्, नापि सिद्धसाधनः, प्रस्तुतशास्त्रप्रामण्यस्य प्रतिवादिनोऽसिद्धत्वात्, न च प्रत्यक्षविरुद्धः अप्रामाण्यस्यातीन्द्रियत्वात्, नाप्यनुमानविरुद्धः, अनुपलम्भनात् ।  
-ननूपलभ्यत एवानुमानम् -पञ्चरात्रशास्त्रमप्रमाणम् वेदबाह्यत्वात् बौद्धागमवत् ।  
-अत्र ब्रूमः कतरदिहाप्रामाण्यं सिषाधयिषितं यदि ज्ञानानुत्पत्तिलक्षणं ततः प्रत्यक्षविरोधः, प्रत्यक्षं हि विदितपदतदर्थसङ्गतेः श्रोतुः पञ्चरात्रशास्त्रवाक्यश्रवणसमनन्तरमुपजायमानं तदर्थविषयं ज्ञानम् ।  
-नापि संशयलक्षणं तत एव विरोधात् न खलु पद्ममध्ये चतुर्बाहुं पूजयेत्पुरुषोत्तमम् इतीदं वचनं पूजयेन्न वेति संशयितं प्रत्ययमुत्पादयति, नापि विपर्यपलक्षणं योग्यानुपलम्भाभावात्, अनागतविपर्ययोत्प्रेक्षायाः प्रत्यक्षविरोधात् अशेषव्यवहारोच्छेदहेतुत्वाच्च, प्रपञ्चयिष्यते चैतदुपरिष्टात् ।  
-आगमविरुद्धञ्च ।  
+तत्र न तावद् अ-प्रसिद्ध-विशेषणः पक्षः -  
+प्रामाण्य-नाम्नः पदार्थस्य उभय-वादि-सिद्धत्वात् प्रत्यक्षादौ,  
+</details>
+
+<details><summary>English</summary>
+
+In the present case the term which particularizes the object is not unknown,  
+for this term, ie. "validity," is for both parties established with regard to the valid means of knowledge, Perception, Inference, Verbal Testimony etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र न तावदप्रसिद्धविशेषणः पक्षः,  
+प्रामाण्यनाम्नः पदार्थस्य उभयवादिसिद्धत्वात् प्रत्यक्षादौ,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाप्य् अ-प्रसिद्ध-विशेष्यः +++(सविशेषणः पक्षः)+++ पञ्च-रात्र-शास्त्रस्य सर्व-लोक-प्रसिद्धत्वात्, 
+</details>
+
+<details><summary>English</summary>
+
+Nor is the subject itself unknown, for the Pañcaratra system is known universally. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाप्यप्रसिद्धविशेष्यः पञ्चरात्रशास्त्रस्य सर्वलोकप्रसिद्धत्वात्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि सिद्ध-साधनः +++(सविशेषणः पक्षः)+++,  
+प्रस्तुत-शास्त्र-प्रामण्यस्य प्रतिवादिनो ऽसिद्धत्वात्,+++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+Nor is the Object to be proved already proved,  
+for this Object, "The Pañcaratra is valid," is not proved for the opponent. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि सिद्धसाधनः, प्रस्तुतशास्त्रप्रामण्यस्य प्रतिवादिनोऽसिद्धत्वात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च प्रत्य-क्षविरुद्धः +++(सविशेषणः पक्षः)+++ अ-प्रामाण्यस्यातीन्द्रियत्वात्, 
+</details>
+
+<details><summary>English</summary>
+
+Nor is this Object incompatible with Perception,  
+since its opposite, ie. nonvalidity, is beyond perceptual verifiability. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च प्रत्यक्षविरुद्धः अप्रामाण्यस्यातीन्द्रियत्वात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाप्य् अनुमानविरुद्धः +++(सविशेषणः पक्षः)+++, अनुपलम्भनात् ।  
+</details>
+
+<details><summary>English</summary>
+
+Nor is this Object incompatible with Inference,  
+because no inference proving non-validity is found. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाप्यनुमानविरुद्धः, अनुपलम्भनात् ।  
+</details>
+
+### न बाह्यत्वानुमानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **ननूपलभ्यत** एवानुमानम् -  
+> पञ्च-रात्र-शास्त्रमप्रमाणम् वेद-बाह्यत्वात् बौद्धागमवत् ।  
+</details>
+
+<details><summary>English</summary>
+
+55\. OBJECTION. But such an inference is actually found: Pañcarātra Sastra is non-authoritative,  
+because it is non-Vedic, like Buddhism, 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ननूपलभ्यत एवानुमानम् -पञ्चरात्रशास्त्रमप्रमाणम् वेदबाह्यत्वात् बौद्धागमवत् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र ब्रूमः कतरद् इहाप्रामाण्यं सिषाधयिषितम्  
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. We reply, What is this nonauthoritativeness which this reasoning seeks to prove? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र ब्रूमः कतरदिहाप्रामाण्यं सिषाधयिषितं  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि +++(अप्रामाण्यम्)+++ ज्ञानानुत्पत्ति-लक्षणं, ततः प्रत्यक्षविरोधः।  
+प्रत्यक्षं हि  
+विदित-पद--तद्-अर्थ--सङ्गतेः श्रोतुः  
+पञ्च-रात्र-शास्त्र-वाक्य-श्रवण-समनन्तरम् उपजायमानं तद्-अर्थ-विषयं ज्ञानम् ।  
+</details>
+
+<details><summary>English</summary>
+
+[[44]] 
+
+If it is defined by the fact that the Tantra does not produce knowledge,  
+then this definition militates against Perception;  
+for the knowledge which arises in a student, who is able to comprehend the relation between word and meaning, concerning the meaning of the sentences of Pañcaratra Sastra  
+he hears is perceptually evident. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदि ज्ञानानुत्पत्ति-लक्षणं ततः प्रत्यक्षविरोधः, प्रत्यक्षं हि विदितपदतदर्थसङ्गतेः श्रोतुः पञ्चरात्रशास्त्रवाक्यश्रवणसमनन्तरमुपजायमानं तदर्थविषयं ज्ञानम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि +++(अप्रामाण्यम्)+++ संशयलक्षणं - तत +++(→प्रत्यक्षतः)+++ एव विरोधात्।  
+न खलु  
+
+> पद्ममध्ये चतुर्बाहुं  
+> पूजयेत् पुरुषोत्तमम् 
+
+इतीदं वचनं "पूजयेन् न वे"ति संशयितं प्रत्ययमुत्पादयति, 
+</details>
+
+<details><summary>English</summary>
+
+Nor is the predicate, sc. "nonauthoritativeness," defined by dubiety,  
+since then we have the same conflict with Perception;  
+for the statement, "One must worship the four-armed Supreme Person in the centre of the lotus,"  
+does not occasion a doubtful cognition:  
+"Must one worship Him thus or not?" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि संशयलक्षणं तत एव विरोधात् न खलु पद्ममध्ये चतुर्बाहुं पूजयेत्पुरुषोत्तमम् इतीदं वचनं पूजयेन्न वेति संशयितं प्रत्ययमुत्पादयति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि विपर्यय-लक्षणं योग्यानुपलम्भाभावात्,  
+अनागत-विपर्ययोत्प्रेक्षायाः प्रत्यक्ष-विरोधात्, अशेष-व्यवहारोच्छेद-हेतुत्वाच् च।  
+प्रपञ्चयिष्यते चैतदुपरिष्टात् ।  
+</details>
+
+<details><summary>English</summary>
+
+Nor, in the third place, is the predicate, defined by reversion,  
+since there is no non-apprehension of what should be there,  
+and since, the presumption of future reversion militates against Perception  
+and would put an end to all operations.  
+This point shall be discussed in detail later on. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+this "non-apprehension of what should be there (yogānupalambha) is the criterion by which we know the absence of a thing. Here it is the absence of truth in Pancaratra that needs be proved by yoganupalambha, if the objector's contention that Pancaratra is invalid-through-reversion be correct. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि विपर्ययलक्षणं योग्यानुपलम्भाभावात्, अनागतविपर्ययोत्प्रेक्षायाः प्रत्यक्षविरोधात् अशेषव्यवहारोच्छेदहेतुत्वाच्च, प्रपञ्चयिष्यते चैतदुपरिष्टात् ।  
+</details>
+
+## वेद-भिन्नत्वान् नाप्रामाण्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगम+++(=वेद)+++-विरुद्धञ् च -  
+>
+> पञ्च-रात्रागमे स्वार्थस्  
+तथैवेत्य् **अवबोधनात्** ।  
+अथ तस्याप्रमाणत्वे  
+तद्-विरोधो न दूषणम् ॥
+</details>
+
+<details><summary>English</summary>
+
+56\. OBJECTION. Still, the proposed validity of Pancaratra militates against Scripture.  
+Since in Pañcarātra Agama we have its meaning conveyed exactly as it is, this conflict between Scripture and Pañcarātra is not vicious only if Pañcaratra is not authoritative.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगमविरुद्धञ् च -  
+
 पञ्चरात्रागमे स्वार्थस्तथैवेत्यवबोधनात् ।  
 अथ तस्याप्रमाणत्वे तद्विरोधो न दूषणम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+हन्त एवं सति  
+तद्+++(→शब्दतः)+++-अप्रामाण्ये ऽनुमान-प्रामाण्यम् +++(इष्यते)+++,  
+अनुमान-प्रामाण्ये +++(प्रदर्शिते)+++ तद्+++(→शब्दतः)+++-अप्रामण्यम् +++(इष्यते)+++  
+इत्य् अन्योन्याश्रयणम् ।  
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION.  
+Why, if that were so, that would mean that  
+if its authority is disproved by Scripture  
+it is proved by Inference,  
+and if it is proved by inference  
+it is disproved by Scripture;  
+which is a vicious circle.
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+I have difficulty in understanding the argument unless I assume an illogicality. By stating as his ground since in agama we have its meaning exactly conveyed as it is the objector not only agrees with the preceding argumentation that on inferential grounds Pañcaratra is not invalid, but even goes so far as accepting that it is valid in other words, confuse non-invalidity with validity. 
+
+Then, because of this validity (svarthasya tathātvāvabodhanāt), there arises a conflict with a deviating statement of the Veda which has its own validity; since only one can be true, it follows that when Pancarãtra is true by inference, it is untrue by Veda. 
+
+But I don't see how the objector can reasonably infer the validity of Pañcarātra, since its meaning or content is admittedly suprasensible. Yamuna himself has not argued that Inference proves the validity, but that Inference cannot disprove the correctness of the thesis.
+[[134]]
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 हन्त एवं सति तदप्रामाण्येऽनुमानप्रामाण्यम् अनुमानप्रामाण्ये तदप्रामण्यमित्यन्योन्याश्रयणम् ।  
-अपि च किमिदं वेदबाह्यत्वं यदि वेदान्यत्वं ततः प्रत्यक्षादिभिरनैकान्तः ।  
-अथ शब्दत्वे सतीति हेतुर्विशेष्यते ततो निग्रहस्थानम्,  यथाऽहुः निर्विशेषहेतुप्रयोगे पुनर्विशेषणोपादानं निग्रहः, इति, अनैकान्तिकश्च मन्वादिवाक्यै ।  
-अथैतद्दोषहानाय वेदबाह्यत्वशब्दतः ।  
-आवेदमूलतां मन्द मन्यसे किन्नु तार्किक? ॥
+</details>
 
-तेनायमर्थः शब्दत्वे सत्यवेदमूलत्वादिति, ततो वेदैरनैकान्त्यम्, अथवा अवेदत्वे सति शब्दत्वे सति अवेदमूलत्वादिति हेतुः, तथापि ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपि च किमिदं वेद-बाह्यत्वम्?   
+</details>
+
+<details><summary>English</summary>
+
+57\. Besides, what does this mean, "being nonVedic, or outside the Veda?" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपि च किमिदं वेदबाह्यत्वं  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदि वेदान्यत्वं ततः +++(वेद-भिन्नत्वात्)+++ प्रत्यक्षादिभिर् अनैकान्तः ।
+</details>
+
+<details><summary>English</summary>
+
+[[45]]  
+If it means that Pañcaratra is different from the Veda,  
+we have an occasional application to Perception etc.,  
+which are also different from the Veda. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदि वेदान्यत्वं ततः प्रत्यक्षादिभिरनैकान्तः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ "शब्दत्वे सती"ति हेतुर् विशेष्यते ततो निग्रहस्थानम्,  
+यथाऽहुः 
+
+> निर्विशेष-हेतु-प्रयोगे पुनर् विशेषणोपादानं निग्रहः, 
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+If, in order to avoid this defect, the ground is thus specified, 'because, while being language, it is different from the Veda,' we have a hetvantaram deadlock,  
+which, as they say, occurs when into a syllogism with an unqualified ground  
+and additional qualification is accepted 120
+</details>
+
+<details><summary>English - Notes</summary>
+
+a hetvantaram constitutes on the part of the debator a confession of importance  
+since the ground which he gave does not hold  
+and he has to produce a different ground.  
+By the rules of debate this means a defeat.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ शब्दत्वे सतीति हेतुर्विशेष्यते ततो निग्रहस्थानम्,  
+यथाऽहुः निर्विशेषहेतुप्रयोगे पुनर्विशेषणोपादानं निग्रहः, इति,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनैकान्तिकश्च मन्वादिवाक्यै ।  
+</details>
+
+<details><summary>English</summary>
+
+Also, we then have an occasional application to the statements of Manu, 
+which also are language and different from the Veda, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनैकान्तिकश्च मन्वादिवाक्यै ।  
+</details>
+
+## अ-वेद-मूलत्वान् न
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथैतद्-दोष-हानाय  
+वेद-बाह्यत्व-शब्दतः ।  
+अवेद-मूलतां मन्द  
+**मन्यसे** किन् नु तार्किक? ॥
+</details>
+
+<details><summary>English</summary>
+
+If then, my slow-witted opponent, in order to remove this defect from your ground  
+you claim that being outside the Veda means  
+"not deriving from the Veda,"  
+then what do you, logician, think of it? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथैतद्दोषहानाय वेदबाह्यत्वशब्दतः ।  
+अवेदमूलतां मन्द मन्यसे किन्नु तार्किक? ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेनायम् अर्थः  -  
+"शब्दत्वे सत्य् अ-वेद-मूलत्वाद्" इति,  
+ततो वेदैर् अनैकान्त्यम्,   
+</details>
+
+<details><summary>English</summary>
+
+Well, by this definition of the ground we get meaning,  
+
+> "something, namely in case there is question of language-statements, is non-Vedic,  
+> because it does not derive from the Veda." 
+
+But then there is an occasional application to the Veda itself,  
+which does not derive from the Veda! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेनायमर्थः शब्दत्वे सत्यवेदमूलत्वादिति, ततो वेदैरनैकान्त्यम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथवा अ-वेदत्वे सति शब्दत्वे सति अ-वेद-मूलत्वाद् इति हेतुः,
+</details>
+
+<details><summary>English</summary>
+
+When the ground is redefined as 
+
+> "because it does not derive from the Veda,  
+> in case of a language-statement but not a Vedic statement," 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथवा अवेदत्वे सति शब्दत्वे सति अवेदमूलत्वादिति हेतुः,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथापि ।  
+
+> सन्ति नद्यास् तटे  
+वृक्षा इत्य्-आद्याप्तोपदेशनैः ।  
+अ-वेद-मूलैर् दुर्वारम्  
+अनैकान्त्यं **प्रसज्यते** ॥
+</details>
+
+<details><summary>English</summary>
+
+then again there would inevitably be an occasional application to statements of reliable persons  
+which do not derive from the Veda  
+and yet are valid, like  
+"There are trees on the river-bank." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथापि ।  
 सन्ति नद्यास्तटे वृक्षा इत्याद्याप्तोपदेशनैः ।  
 अवेदमूलैर्दुर्वारमनैकान्त्यं प्रसज्यते ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ 
+
+> अवेदत्वे सति, शब्दत्वे सति, कार्य-विषयत्वे सति, अ-वेद-मूलत्वं हेतुः, 
+
+अत्रापि "अजीर्णे मन्दम् अश्नीयाद्" इत्यादौ व्यभिचारिता ।  
+</details>
+
+<details><summary>English</summary>
+
+If the reason is further corrected into:  
+"because it does not derive from the Veda, namely, in case of a language-statement -but not a Vedic statement-  
+and this statement concerns an action to be taken,"  
+then still we have a vicious applicability to such precepts as  
+"One must eat little when one has indigestion."  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अथ अवेदत्वे सति शब्दत्वे सति कार्यविषयत्वे सति अवेदमूलत्वं हेतुः, अत्रापि अजीर्णे मन्दमश्नीयादित्यादौ व्यभिचारिता ।  
+</details>
+
+
 अथोक्तविशेषणविशिष्टत्वे धर्माधर्मविषयत्वेऽपि सत्यवेदमूलत्वादिति हेतुः, ततो भागासिद्धो हेतुः, न हि पञ्चरात्रशास्त्रं कृत्स्नं धर्माधर्मविषयम् ।  
 ब्रह्मविषयाणामेव वचसां बाहुल्यात् ।  
 अथ प्रमाणान्तरायोग्यार्थत्वे सतीति विशेषः तत्रापि सैवासिद्धिः, भगवत्प्रत्यक्षस्य धर्माधर्मादिसमस्तवस्तुगोचरस्य श्रुतिशतप्रसिद्धत्वात् तच्चैतदनन्तरमेव वक्ष्यामः, तदलमनेनाशिक्षिताक्षपादमतानामप्रतिष्ठितप्रतिभाविजृम्भिते न ।  

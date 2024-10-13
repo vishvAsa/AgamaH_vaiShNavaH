@@ -8,23 +8,9 @@ title = "Agama-prAmANyam en"
 
 
 
-In the present case the term which particularizes the object is not unknown, for this term, sc. "validity," is for both parties cstablished with regard to the valid means of knowledge, Perception, Inference, Verbal Testimony etc. Nor is the subject itself unknown, for the Pañcaratra system is known universally. Nor is the Object to be proved already proved, for this Object, "The Pañcaratra is valid," is not proved for the opponent. Nor is this Object incompatible with Perception, since its opposite, sc. nonvalidity, is beyond perceptual verifiability. Nor is this Object incompatible with Inference, because no inference proving non-validity is found. 
-55\. OBJECTION. But such an inference is actually found: Pañcarātra Sastra is non-authoritative, because it is non-Vedic, like Buddhism, 
-REFUTATION. We reply, What is this nonauthoritativeness which this reasoning seeks to prove? 
-44 
 
-If it is defined by the fact that the Tantra does not produce knowledge, then this definition militates against Perception; for the knowledge which arises in a student, who is able to comprehend the relation between. word and meaning, concerning the meaning of the sentences of Pañcaratra Sastra he hears is perceptually evident. Nor is the predicate, sc. "nonauthoritativeness," defined by dubiety, since then we have the same conflict with Perception; for the statement, "One must worship the four-armed Supreme Person in the centre of the lotus," does not occasion a doubtful cognition: "Must one worship Him thus or not?" Nor, in the third place, is the predicate, defined by reversion, since there is no non-apprehension of what should be there, and since, the presumption of future reversion militates against Perception and would put an end to all operations. This point shall be discussed in detail later on. 
-56\. OBJECTION. Still, the proposed validity of Pancaratra militates against Scripture. Since in Pañcarātra Agama we have its meaning conveyed exactly as it is, this conflict between Scripture and Pañcarātra is not vicious only if Pañcaratra is not authoritative. 
-REFUTATION. Why, if that were so, that would mean that if its authority is disproved by Scripture it is proved by Inference, and if it is proved by inference it is disproved by Scripture; which is a vicious circle. 
-57\. Besides, what does this mean, "being nonVedic, or outside the Veda?" If it means that 
- 
-45 
-Pañcaratra is different from the Veda, we have an occasional application to Perception etc., which are also different from the Veda. If, in order to avoid this defect, the ground is thus specified, 'because, while being language, it is different from the Veda,' we have a hetvantaram deadlock, which, as they say, occurs when into a syllogism with an unqualified ground and additional qualification is accepted 120 Also, we then have an occasional application to the statements of Manu, which also are language and different from the Veda, If then, my slow-witted opponent, in order to remove this defect from your ground you claim that being outside the Veda means "not deriving from the Veda," then what do you, logician, think of it? 
-the 
-Well, by this definition of the ground we get meaning, "something, namely in case there is question of language-statements, is non-Vedic, because it does not derive from the Veda." But then there is an occasional application to the Veda itself, which does not derive from the Veda! When the ground is redefined as "because it does not derive from the Veda, in case of a language-statement but not a Vedic statement," then again there would inevitably be an occasional application to statements of reliable persons which do not derive from the Veda and yet are valid, like "Thereare trees on the river-bank." If the reason is further corrected into: "because it does not derive from the Veda, namely, in case of a language-statement -but not a Vedic statement-and this statement concerns an action to be taken," then still we have a vicious applicability to such precepts as "One must eat little when one has indigestion." Again, if the ground is 
-46 
- 
-then reformulated as "because it does not derive from the Veda, in case of a statement specified by all the above specifications and also concerned with dharma and adharma," then this ground is partly impertinent, because Paficarātra Sastra does not deal with dharma and adharma exclusively, since the great majority of its Statements concern Brahman. If then, the specification is added "....when it deals with objects that are outside the scope of other pramāņas," then again the ground does not fully apply, for hundreds of śrutis demonstrate that the Perception of God encompasses all things related to dharma and adharma. We shall discuss this point presently; this suffices for the time being to expose the baseless fancies of those who have not made a study of Akṣapada's system. Other conceivable inferences will be presented; and refuted, later on. 
+[[46]]  
+Again, if the ground is then reformulated as "because it does not derive from the Veda, in case of a statement specified by all the above specifications and also concerned with dharma and adharma," then this ground is partly impertinent, because Paficarātra Sastra does not deal with dharma and adharma exclusively, since the great majority of its Statements concern Brahman. If then, the specification is added "....when it deals with objects that are outside the scope of other pramāņas," then again the ground does not fully apply, for hundreds of śrutis demonstrate that the Perception of God encompasses all things related to dharma and adharma. We shall discuss this point presently; this suffices for the time being to expose the baseless fancies of those who have not made a study of Akṣapada's system. Other conceivable inferences will be presented; and refuted, later on. 
 الله 
 We conclude therefore, that the proposition "Pancaratra is authoritative," is not in conflict with Inference. 
 58\. Nor is it in conflict with Scripture, for hundreds of scriptural statements, like idam mahopaniṣadam, will be adduced which set forth that Pañcarātra is authoritative. There are no grounds to suspect in our proposition anyone of the three kinds of contradiction of language-statements; namely, contradiction within the terms of the statement; contradiction with one's own thesis; or contradiction with universally accepted facts. 
@@ -540,17 +526,13 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 ## Notes
 
 
- 
-[117]: pratijñārthah, the object or content of the pratijñā, which is the first step of the five-membered syllogism, e.g., "the mountain has fire" (parvatasya grimattuam). It does not therefore coincide with the Subject. In the proposition both S and P must be siddha, established as existing somewhere; a non-thing like a harc's horn can be neither S nor P. 
-[118]: this "non-apprehension of what should be there (yogānu pa
-lambha) is the criterion by which we know the absence of a thing. Here it is the absence of truth in Pancaratra that needs be proved by yoganupalambha, if the objector's contention that Pancaratra is invalid-through-reversion 
-be correct. 
-[119]: I have difficulty in understanding the argument unless I assume an illogicality. By stating as his ground since in agama we have its meaning exactly conveyed as it is" the objector not only agrees with the preceding argumentation that on inferential grounds Pañcaratra is not 
-134 
+
+
+[119]: 
 [120]: 
 
-invalid, but even goes so far as accepting that it is valid in other words, confuse non-invalidity with validity. Then, because of this validity (svarthasya tathātvāvabodhanāt), there arises a conflict with a deviating statement of the Veda which has its own validity; since only one can be true, it follows that when Pancarãtra is true by inference, it is untrue by Veda. But I don't see how the objector can reasonably infer the validity of Pañcarātra, since its meaning or content is admittedly suprasensible. Yamuna himself has not argued that Inference proves the validity, but that Inference cannot disprove the correctness of the thesis. 
-a hetvantaram constitutes on the part of the debator a confession of importance since the ground which he gave does not hold and he has to produce a different ground. By the rules of debate this means a defeat.
+
+
 [121]: infra §§ 76 F. 
 [122]: The founder of the school of logic. 
 [123]: The Vedic injunction na hinṇsyāt sarvabhūtāni "one should not injure any being" raises the question of the validity of injunctions which do require injury to beings. But this is a secondary question which does not affect the validity of the Veda as a whole. Similarly, the thesis "Pañcaratra is valid" is not disproved by the possible mention in the valid Veda of something that conflicts with something in Pañcaratra. So far the argument is not for validity but against invalidity. 
