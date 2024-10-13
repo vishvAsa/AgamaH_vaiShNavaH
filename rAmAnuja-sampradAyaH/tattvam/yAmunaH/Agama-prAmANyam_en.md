@@ -7,18 +7,8 @@ title = "Agama-prAmANyam en"
 ## 
 
 
-
-
-[[46]]  
-Again, if the ground is then reformulated as "because it does not derive from the Veda, in case of a statement specified by all the above specifications and also concerned with dharma and adharma," then this ground is partly impertinent, because Paficarātra Sastra does not deal with dharma and adharma exclusively, since the great majority of its Statements concern Brahman. If then, the specification is added "....when it deals with objects that are outside the scope of other pramāņas," then again the ground does not fully apply, for hundreds of śrutis demonstrate that the Perception of God encompasses all things related to dharma and adharma. We shall discuss this point presently; this suffices for the time being to expose the baseless fancies of those who have not made a study of Akṣapada's system. Other conceivable inferences will be presented; and refuted, later on. 
-الله 
-We conclude therefore, that the proposition "Pancaratra is authoritative," is not in conflict with Inference. 
-58\. Nor is it in conflict with Scripture, for hundreds of scriptural statements, like idam mahopaniṣadam, will be adduced which set forth that Pañcarātra is authoritative. There are no grounds to suspect in our proposition anyone of the three kinds of contradiction of language-statements; namely, contradiction within the terms of the statement; contradiction with one's own thesis; or contradiction with universally accepted facts. 
-First, there is no contradiction within the statement. This type of contradiction is of three kinds of 
-التي 
-AGAMA PRAMANYAN 
-47 
-mere utterance; or utterance of property; and of utterance of substance. Firstly, the proposition is not contradicted by its mere utterance, for the statement of the thesis "Pañcarātra Sastra is authoritative" does not cancel its own content, as does, for instance, the statement: "During my entire life I have kept silence." Secondly, there is no contradiction through utterance of property, as for example the statement: "All statements are untrue;" for the authoritativeness predicated of Pañcarātra does not cancel the proposition. Thirdly, there is no contradiction through utterance of substance, since in the given substance a connection with the given property is not contradictory: Pancarātra is not contradicted by its property authoritativeness, as motherhood is contradicted by the property sterility. For upon the assertion of the authoritativeness of the substance in question, it is not contradicted by any particular substance named in Revelation, since the imputation of questionableness is secondary, as in the case of the assertion that certain acts of violence which are enjoined are against the dharma,12 There is, therefore, no contradiction by languagestatement; so that we conclude that the proposition is presentable. 
+For upon the assertion of the authoritativeness of the substance in question,  
+it is not contradicted by any particular substance named in Revelation, since the imputation of questionableness is secondary, as in the case of the assertion that certain acts of violence which are enjoined are against the dharma,12 There is, therefore, no contradiction by languagestatement; so that we conclude that the proposition is presentable. 
 59\. Nor is the ground affected by logical defects, like occasional application etc. The ground is not occasionally applicable to other terms. This fallacy of occasionalness is of two kinds, general occasionalness and special occasionalness. An instance of the first kind provides the ground in the argument: "The earth is eternal, because it is knowable." Of the second kind: "The earth is eternal, because it, possesses 
 48 
 AGAMA FRAMANYAṀ 
@@ -524,17 +514,7 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 
 ## Notes
-
-
-
-
-[119]: 
-[120]: 
-
-
-
-[121]: infra §§ 76 F. 
-[122]: The founder of the school of logic. 
+ 
 [123]: The Vedic injunction na hinṇsyāt sarvabhūtāni "one should not injure any being" raises the question of the validity of injunctions which do require injury to beings. But this is a secondary question which does not affect the validity of the Veda as a whole. Similarly, the thesis "Pañcaratra is valid" is not disproved by the possible mention in the valid Veda of something that conflicts with something in Pañcaratra. So far the argument is not for validity but against invalidity. 
 [124]: 
 Since pots are knowable, the ground would also apply to prove the eternality of pots and all things that are knowable. 

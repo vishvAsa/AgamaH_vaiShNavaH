@@ -552,14 +552,251 @@ then still we have a vicious applicability to such precepts as
 अथ अवेदत्वे सति शब्दत्वे सति कार्यविषयत्वे सति अवेदमूलत्वं हेतुः, अत्रापि अजीर्णे मन्दमश्नीयादित्यादौ व्यभिचारिता ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथोक्तविशेषणविशिष्टत्वे धर्माधर्मविषयत्वेऽपि सत्यवेदमूलत्वादिति हेतुः, ततो भागासिद्धो हेतुः, न हि पञ्चरात्रशास्त्रं कृत्स्नं धर्माधर्मविषयम् ।  
+अथ
+
+> उक्त-विशेषण-विशिष्टत्वे धर्माधर्म-विषयत्वेऽपि सत्य् अ-वेदमूलत्वाद् इति हेतुः, 
+
+ततो भागासिद्धो हेतुः, न हि पञ्चरात्रशास्त्रं कृत्स्नं धर्माधर्म-विषयम् -  
 ब्रह्मविषयाणामेव वचसां बाहुल्यात् ।  
-अथ प्रमाणान्तरायोग्यार्थत्वे सतीति विशेषः तत्रापि सैवासिद्धिः, भगवत्प्रत्यक्षस्य धर्माधर्मादिसमस्तवस्तुगोचरस्य श्रुतिशतप्रसिद्धत्वात् तच्चैतदनन्तरमेव वक्ष्यामः, तदलमनेनाशिक्षिताक्षपादमतानामप्रतिष्ठितप्रतिभाविजृम्भिते न ।  
++++(अतः पक्षोऽसिद्धो भवति)+++
+</details>
+
+<details><summary>English</summary>
+
+[[46]]  
+Again, if the ground is then reformulated as 
+
+> "because it does not derive from the Veda, in case of a statement specified by all the above specifications  
+> and also concerned with dharma and adharma,"  
+
+then this ground is partly impertinent, because Pancarātra Sastra does not deal with dharma and adharma exclusively,  
+since the great majority of its Statements concern Brahman.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथोक्तविशेषणविशिष्टत्वे धर्माधर्मविषयत्वेऽपि सत्यवेदमूलत्वादिति हेतुः, ततो भागासिद्धो हेतुः, न हि पञ्चरात्रशास्त्रं कृत्स्नं धर्माधर्मविषयम् ब्रह्मविषयाणामेव वचसां बाहुल्यात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ "प्रमाणान्तरायोग्यार्थत्वे सती"ति विशेषः  
++++("अवेदत्वे सति, शब्दत्वे सति, अ-वेद-मूलत्वं हेतुः," इत्यत्र)+++  
+तत्रापि सैवासिद्धिः,  
+भगवत्-प्रत्यक्षस्य धर्माधर्मादि-समस्त-वस्तु-गोचरस्य श्रुति-शत-प्रसिद्धत्वात्।  
+तच्-चैतद् अनन्तरम् एव वक्ष्यामः। 
+</details>
+
+<details><summary>English</summary>
+
+If then, the specification is added  
+"....when it deals with objects that are outside the scope of other pramāņas,"  
+then again the ground does not fully apply,  
+for hundreds of śrutis demonstrate  
+that the Perception of God encompasses all things related to dharma and adharma. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ प्रमाणान्तरायोग्यार्थत्वे सतीति विशेषः तत्रापि सैवासिद्धिः, भगवत्प्रत्यक्षस्य धर्माधर्मादिसमस्तवस्तुगोचरस्य श्रुतिशतप्रसिद्धत्वात् तच्चैतदनन्तरमेव वक्ष्यामः  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् अलम् अनेनाशिक्षिताक्षपाद-मतानाम् अ-प्रतिष्ठित-प्रतिभा-विजृम्भितेन ।  
+</details>
+
+<details><summary>English</summary>
+
+We shall discuss this point presently (infra §§ 76 F.);  
+this suffices for the time being to expose the baseless fancies  
+of those who have not made a study of Akṣapada's system.  
+</details>
+
+<details><summary>English - Notes</summary>
+
+Akshapada - The founder of the school of logic.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदलमनेनाशिक्षिताक्षपादमतानामप्रतिष्ठितप्रतिभाविजृम्भितेन ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संभाव्यमानान्य् अप्य् अनुमानान्तराणि  
+परस्ताद् उपन्यस्य निरस्यन्ते  
+अतो नानुमान-विरुद्धः पक्षः ।  
+</details>
+
+<details><summary>English</summary>
+
+Other conceivable inferences will be presented; and refuted, later on.  
+We conclude therefore, that the proposition "Pancaratra is authoritative," is not in conflict with Inference.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 संभाव्यमानान्यप्यनुमानान्तराणि परस्तादुपन्यस्य निरस्यन्ते अतो नानुमानविरुद्धः पक्षः ।  
+</details>
+
+## नागम-विरोधः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाप्य् आगम-विरुद्धः -  
+पञ्च-रात्र-शास्त्र-प्रामाण्य-प्रतिपादकस्य "इदम् महोपनिषदम्" इत्य्-आद्य्-आगम-शतस्य प्रदर्शयिष्यमाणत्वात् ।  
+</details>
+
+<details><summary>English</summary>
+
+58\. Nor is it in conflict with Scripture,  
+for hundreds of scriptural statements, like idam mahopaniṣadam,  
+will be adduced which set forth that Pañcarātra is authoritative. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 नाप्यागमविरुद्धः पञ्चरात्रशास्त्रप्रामाण्यप्रतिपादकस्य इदम्महोपनिषदम् इत्याद्यागमशतस्य प्रदर्शयिष्यमाणत्वात् ।  
-स्ववचन -स्वाभ्युपगम -सर्वलोकप्रसिद्धिविरोधाश्शब्दविरोधप्रकारास्त्वनाशङ्कनीया एव, तथा हि न तावत् स्ववचनविरोधः, स हि त्रेधा उक्तिमात्रविरोधः, धर्मोक्तिविरोधः, धर्म्युक्तिविरोधश्चेति, तत्र न तावदुक्तिमात्रविरुद्धोऽयं पक्षः, न हि पञ्चरात्रशास्त्रं प्रमाणमिति प्रतिज्ञावचनं स्वार्थं व्याहन्ति यथा यावज्जीवमहं मौनी इति, नापि धर्मोक्तिविरोधः, न हि प्रामाण्यं पञ्चरात्रोद्देशेन विधीयमानं पक्षं प्रतिक्षिपति सर्ववाक्यानामिव मिथ्यात्ववचनम्, नापि धर्म्युक्तिविरोधः, सत्यपि धर्मिणि धर्मान्वयस्याऽविरुद्धत्वात्, न हि जननीत्वमिव वन्ध्यात्वेन पञ्चरात्रशास्त्रत्वं प्रामाण्येन विरुद्धम्, (प्. ३२) न हि विवादाध्यासितस्य प्रामाण्यप्रतिज्ञाने तत्र श्रुत्युक्तधर्मिविशेषविरोधः ।  
-विहितर्हिसानामिवाधर्मत्वप्रतिज्ञाने विवादाध्यासस्योपलक्षत्वात्, अतो वा नागमविरोधः, तदेवं प्रतिपन्नः पक्षः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-वचन+++(→विरोधः)+++--स्वाभ्युपगम+++(→विरोधः)+++--सर्व-लोक-प्रसिद्धि-विरोधाश्  
+**शब्द-विरोध**-प्रकारास् त्व् अनाशङ्कनीया एव, 
+</details>
+
+<details><summary>English</summary>
+
+There are no grounds to suspect in our proposition  
+anyone of the three kinds of contradiction of language-statements;  
+namely, contradiction within the terms of the statement;  
+contradiction with one's own thesis;  
+or contradiction with universally accepted facts. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्ववचन-स्वाभ्युपगम-सर्वलोकप्रसिद्धिविरोधाश्शब्दविरोधप्रकारास्त्वनाशङ्कनीया एव, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि न तावत् स्ववचनविरोधः,  
+स हि त्रेधा - उक्तिमात्रविरोधः, धर्मोक्तिविरोधः, धर्म्युक्तिविरोधश् चेति, 
+</details>
+
+<details><summary>English</summary>
+
+[[47]]  
+First, there is no contradiction within the statement.  
+This type of contradiction is of three kinds of mere utterance;  
+or utterance of property;  
+and of utterance of substance. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि न तावत् स्ववचनविरोधः, स हि त्रेधा उक्तिमात्रविरोधः, धर्मोक्तिविरोधः, धर्म्युक्तिविरोधश्चेति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र न तावद् उक्तिमात्र-विरुद्धोऽयं पक्षः,  
+न हि "पञ्च-रात्र-शास्त्रं प्रमाणम्" इति प्रतिज्ञा-वचनं  
+स्वार्थं व्याहन्ति -  
+यथा "यावज्-जीवम् अहं मौनी" इति,+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+Firstly, the proposition is not contradicted by its mere utterance,  
+for the statement of the thesis "Pañcarātra Sastra is authoritative"  
+does not cancel its own content, as does, for instance, the statement:  
+"During my entire life I have kept silence." 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्र न तावदुक्तिमात्रविरुद्धोऽयं पक्षः,  
+न हि पञ्चरात्रशास्त्रं प्रमाणमिति प्रतिज्ञावचनं स्वार्थं व्याहन्ति यथा यावज्जीवमहं मौनी इति,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि धर्मोक्ति-विरोधः,  
+**न** हि प्रामाण्यं  
+पञ्च-रात्रोद्देशेन विधीयमानं पक्षं **प्रतिक्षिपति**  
+सर्ववाक्यानाम् इव मिथ्यात्व-वचनम्,+++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+Secondly, there is no contradiction through utterance of property,  
+as for example the statement: "All statements are untrue;"  
+for the authoritativeness predicated of Pañcarātra  
+does not cancel the proposition. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि धर्मोक्तिविरोधः, न हि प्रामाण्यं पञ्चरात्रोद्देशेन विधीयमानं पक्षं प्रतिक्षिपति सर्ववाक्यानामिव मिथ्यात्ववचनम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि धर्म्य्-उक्ति-विरोधः,  
+सत्य् अपि धर्मिणि,  
+धर्मान्वयस्याऽविरुद्धत्वात्।   
+न हि जननीत्वम् इव वन्ध्यात्वेन  
+पञ्च-रात्र-शास्त्रत्वं प्रामाण्येन विरुद्धम्, (प्. ३२)+++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+Thirdly, there is no contradiction through utterance of substance,  
+since in the given substance a connection with the given property is not contradictory:  
+Pancarātra is not contradicted by its property authoritativeness,  
+as motherhood is contradicted by the property sterility. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नापि धर्म्युक्तिविरोधः, सत्यपि धर्मिणि धर्मान्वयस्याऽविरुद्धत्वात्, न हि जननीत्वमिव वन्ध्यात्वेन पञ्चरात्रशास्त्रत्वं प्रामाण्येन विरुद्धम्, (प्. ३२) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि विवादाध्यासितस्य प्रामाण्य-प्रतिज्ञाने  
+तत्र श्रुत्य्-उक्त-धर्मि-विशेष-विरोधः  
+विहित-हिंसानाम् इवाधर्मत्व-प्रतिज्ञाने  
+विवादाध्यासस्योपलक्षत्वात्,
+</details>
+
+<details><summary>मूलम्</summary>
+
+न हि विवादाध्यासितस्य प्रामाण्यप्रतिज्ञाने तत्र श्रुत्युक्तधर्मिविशेषविरोधः  
+विहितहिंसानामिवाधर्मत्वप्रतिज्ञाने विवादाध्यासस्योपलक्षत्वात्,
+</details>
+  
+
+अतो वा नागमविरोधः, तदेवं प्रतिपन्नः पक्षः ।  
 नापि हेतोरनैकान्तिकत्वादयो दोषाः ।  
 तथा हि न तावदनैकान्तिकः, स हि द्वेधा साधारणासाधारणभेदात् यथा पृथिवी नित्यत्वसाधने प्रमेयत्वं साधारणः, असाधारणस्यतत्रैव गन्धवत्त्वम्,  तत्र न तावन्निर्दोषज्ञानकारणत्वं प्रमाणाप्रमाणसाधारणं येन साधारणानैकान्तिकं स्यात्, न हि निर्द्दोषज्ञानकारणत्वमप्रमाणभूतविप्रलम्भकवचनादिषु विपक्षेषु दृष्टचरम् ।  
 नाप्यसाधारणः ज्योतिष्टोमादिवाक्यदृष्टान्ताभिधानेनैव सपक्षान्वयस्य प्रदर्शित् ।  
