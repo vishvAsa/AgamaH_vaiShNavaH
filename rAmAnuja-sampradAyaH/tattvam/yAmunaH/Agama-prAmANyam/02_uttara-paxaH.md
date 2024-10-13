@@ -1311,9 +1311,43 @@ by applications which concern karyas.
 लौकिकाः प्रतिपद्यन्तेः शक्तिं कार्यपरादिव ॥
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद् यथा "पुत्रस् ते जात"  
+इति वचन-श्रवणानन्तर-जनित-विशिष्ट-वदन-**विकासावसान**-समनन्तरं  
+'हृष्टोऽयम्' इति **प्रतिपद्य**  
+"हर्षोऽयं प्रियार्थावगम-निबन्धन" इति स्वात्मन्य् **आकलयन्**  
+मध्यम-वृद्धस्यापि तन्-निबन्धनम् एव हर्षम् **अनुमिमानस्**  
+तद्-भाव-भावितया शब्दस्यैव प्रियार्थाऽवबोधकताम् **अव्यवस्यति** ।  
+</details>
+
+<details><summary>English</summary>
+
+Consider the illustration that has been given above,  
+When certain manifestations (of joy) in a man's face,  
+which follow on his hearing the statement  
+"A son has been born to you,"  
+make it appear that the man spoken-to is happy,  
+one instantly understands  
+that his happiness is the result of his receiving from this statement  
+a knowledge of an agreeable meaning,  
+and one then infers that,  
+for a medium-aged person too,  
+this happiness derives from the statement.  
+Thus one concludes that,  
+since this happiness came to exist upon the existence of the statement,  
+the statement itself has the power to convey an agreeable meaning.  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 तद्यथा पुत्रस्ते जात इति वचनश्रवणानन्तरजनितविशिष्टवदनविकासावसानसमनन्तरं हृष्टोऽयमिति प्रतिपद्य हर्षोऽयं प्रियार्थावगमनिबन्धन इति स्वात्मन्याकलयन् मध्यमवृद्धस्यापि तन्निबन्धनमेव हर्षमनुमिमानस्तद्भावभावितया शब्दस्यैव प्रियार्थाऽवबोधकतामव्यवस्यति ।  
-तत्राप्यतीतानागतादिभेदभिन्नेषु हर्षहेतुषूपप्लवमानेषु कस्य वक्ताऽयमिति विचिकित्सोदये सति ।  
+</details>
+
+
+तत्राप्यतीतानागतादिभेदभिन्नेषु हर्षहेतुषूपप्लवमानेषु कस्य वक्ताऽयमिति विचिकित्सोदये सति   
 तदनन्तरसंजातजातकर्मावबोधतः ।  
 तद्धेतुभूतः कोऽपीति निश्चिन्वन्नात्मनः पुरा ॥  
 कर्तव्यं जातकर्मेति प्रतीतेः किन्नु कारणम् ।  

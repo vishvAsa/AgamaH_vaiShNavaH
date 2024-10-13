@@ -8,11 +8,7 @@ title = "Agama-prAmANyam en"
 
 
 
-
-Profane 
-
-
-Consider the illustration that has been given abovels, When certain manifestations (of joy) in ā man's face, which follow on his hearing the statement "A son has been born to you," make it appear that the man spoken-to is happy, one instantly understands that his happiness is the result of his receiving from this statement a knowledge of an agreeable meaning, and one then infers that, for a medium-aged person too, this happiness derives from the statement. Thus one concludes that, since this happiness came to exist upon the existence of the statement, the statement itself has the power to convey an agreeable meaning. If there arises a doubt as to which particular ground of happiness among t 
+If there arises a doubt as to which particular ground of happiness among t 
 the many different grounds that may occur according to past, present and future, then consider this. A young boy, who wants to understand the meaning of speech, immediately upon hearing the same statement receives knowledge that a birth ceremony is being held. He thinks to himself, "There must be a reason for this." Then he considers, "Is the agreeable meaning which has been understood from the statement the cause of this knowledge that a birth ceremony is to be held ?" and he realizes that this meaning was precisely this that a son had been born. 13 
 And on that issue: Definite knowledge of the donation of words in a sentence is had through the words that are included or excluded. This being so, 
  
