@@ -898,10 +898,71 @@ Since only earth (as an element) possesses smell, this ground has no general app
 असाधारणस्यतत्रैव गन्धवत्त्वम्,  
 </details>
 
+<details><summary>English</summary>
 
-तत्र न तावन्निर्दोषज्ञानकारणत्वं प्रमाणाप्रमाणसाधारणं येन साधारणानैकान्तिकं स्यात्, न हि निर्द्दोषज्ञानकारणत्वमप्रमाणभूतविप्रलम्भकवचनादिषु विपक्षेषु दृष्टचरम् ।  
-नाप्यसाधारणः ज्योतिष्टोमादिवाक्यदृष्टान्ताभिधानेनैव सपक्षान्वयस्य प्रदर्शित् ।  
-नापि विरुद्धः, विपरीतव्याप्त्यभावात्, न हि निर्द्दोषज्ञानकारणत्वमप्रामाण्येन व्याप्तम् ।  
+Our ground, namely,  
+'Pañcaratra is authoritative, because it produces faultless knowledge',  
+does not apply equally whether it is authoritative or not,  
+which would render the ground generally-occasional.126 
+</details>
+
+<details><summary>English - Notes</summary>
+
+Like the ground "because it is knowable" which applies to things regardless of whether they are eternal or not.
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र न तावन् निर्दोष-ज्ञान-कारणत्वं प्रमाणाप्रमाण-साधारणं,  
+येन साधारणानैकान्तिकं स्यात्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तत्र न तावन्निर्दोषज्ञानकारणत्वं प्रमाणाप्रमाणसाधारणं येन साधारणानैकान्तिकं स्यात्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न हि निर्द्दोष-ज्ञानकारणत्वम् अ-प्रमाण-भूत--विप्रलम्भक-वचनादिषु विपक्षेषु दृष्टचरम् ।
+</details>
+
+<details><summary>English</summary>
+
+For this ground, namely its being a cause of faultless knowledge,  
+has not been found before in the alternative propositions  
+that Pañcaratra is deceptive and hence nonauthoritative.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि निर्द्दोषज्ञानकारणत्वमप्रमाणभूतविप्रलम्भकवचनादिषु विपक्षेषु दृष्टचरम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नाप्य् असाधारणः -  
++++(पाञ्चरात्रं प्रामाणिकं निर्दोष-ज्ञान-जननात् - ज्योतिष्-टोमादि-वाक्यवत् इत्यत्र)+++  
+ज्योतिष्-टोमादि-वाक्य-दृष्टान्ताभिधानेनैव स-पक्षान्वयस्य प्रदर्शितत्वात् ।  
+</details>
+
+<details><summary>English</summary>
+
+Neither does the ground have a specially occasional application,  
+because the illustration "like statements on Vedic sacrifices such as jyotiṣṭoma etc."  
+shows its connection with other instances on the same side of the argument. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नाप्यसाधारणः ज्योतिष्टोमादिवाक्यदृष्टान्ताभिधानेनैव सपक्षान्वयस्य प्रदर्शितत्वात् ।  
+</details>
+  
+
+नापि विरुद्धः, विपरीतव्याप्त्यभावात्, न हि निर्दोषज्ञानकारणत्वमप्रामाण्येन व्याप्तम् ।  
 न च कालात्ययापदिष्टः प्रत्यक्षविरोधाभावात् आगमानुगुण्याच्च ।  
 न चासिद्धत्वम्, असिद्धिर्हि आश्रयतः स्वरूपतो वा तावदाश्रयासिद्धिः, पञ्चरात्रशास्त्रस्याश्रयत्वात्, नापि स्वरूपासिद्धः, सोऽपि त्रेधा अज्ञान -सन्देह -विपर्ययभेदात्, न तावदज्ञानासिद्धिः, तत्प्रतिपादकशब्दोच्चारणात्, नापि संदिग्धासिद्धः, निर्दोषत्वस्य वादिनः स्वयं सिद्धत्वात्, प्रतिवादिनोऽपि दोषानुपलम्भादेवानायाससिद्धत्वात्, विपर्ययासिद्धिस्तु दूरोत्सारितैव ।  
 ननु कथं पौरुषेयत्वसामान्यादापतन्ती दोषसंभावना अपनीयते पञ्चरात्रमन्त्राणां कथं वाक्यत्वसामान्यादापतन्ती वेदेषु सा वार्यते, अपौरुषेयत्वादिति चेत्तादिहापि सर्वज्ञावाप्तकामपरमपुरुषप्रणीततयेत्यवगम्य शाम्यतु भवान् ।  

@@ -6,8 +6,6 @@ title = "Agama-prAmANyam en"
 
 ## 
 
-
-Our ground, namely, 'Pañcaratra is authoritative, because it produces faultless knowledge', does not apply equally whether it is authoritative or not, which would render the ground generally-occasional.126 For this ground, namely its being a cause of faultless knowledge, has not been found before in the alternative propositions that Pañcaratra is deceptive and hence nonauthoritative. Neither does the ground have a speciallyoccasional application, because the illustration "like statements on Vedic sacrifices such as jyotiṣṭoma etc." shows its connection with other instances on the same side of the argument. 
 Nor is the ground precluded, since there is no concomitance of its opposite; being a cause of faultless knowledge is not invariably accompanied by nonauthoritativeness. Nor is the ground cancelled by lapse of time, since there is no conflict with Perception and in this it is analogous with Scripture. 
 Nor is the ground itself unproved or unestablished. If a ground is unestablished, this is because either its locus or its essence is unestablished. The first does not apply, for its locus is Pañicarātra Sastra, which is proved to exist. Nor does the second apply: for there are three ways in which a ground may be unestablished as to its essence: through ignorance, through dubiety, or through reversion. Ignorance does not apply, as follows from the fact that the words describing the ground are pronounced." Nor does dubiety apply, for that the ground is correct is undoubted and selfevident to the defender of the proposition, while for the opponent the same is easily proved by the fact thatADAMA PRĀMĀṆYANI 
 no defects are apprehended in it. 
@@ -512,12 +510,10 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
  
 
 [124]: 
-[126]: Like the ground "because it is knowable" which applics 
-to things regardless of whether they are eternal or not. 
+[126]:  
 
 [[135]] 
-[127]: Obviously, if the ground were not known, it could not be 
-stated. 
+[127]: Obviously, if the ground were not known, it could not be stated. 
 [128]: This objection seems to speak to the summary denial that 
 the ground is unestablished through reversion. 
 [129]: Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, fabdapramānja) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning. Among these thingsmeant Yamuna includes facts as well as kargas, hence the following debate with the Prabhakara, 
