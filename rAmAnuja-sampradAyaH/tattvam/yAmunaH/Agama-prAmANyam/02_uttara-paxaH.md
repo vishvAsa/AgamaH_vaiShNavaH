@@ -174,7 +174,8 @@ because no inference proving non-validity is found.
 नाप्यनुमानविरुद्धः, अनुपलम्भनात् ।  
 </details>
 
-### न बाह्यत्वानुमानम्
+## बाह्यत्वादौ
+### न बाह्यत्वाद् अप्रामाण्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **ननूपलभ्यत** एवानुमानम् -  
@@ -287,7 +288,7 @@ this "non-apprehension of what should be there (yogānupalambha) is the criterio
 नापि विपर्ययलक्षणं योग्यानुपलम्भाभावात्, अनागतविपर्ययोत्प्रेक्षायाः प्रत्यक्षविरोधात् अशेषव्यवहारोच्छेदहेतुत्वाच्च, प्रपञ्चयिष्यते चैतदुपरिष्टात् ।  
 </details>
 
-## वेद-भिन्नत्वान् नाप्रामाण्यम्
+### वेद-भिन्नत्वान् नाप्रामाण्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -433,7 +434,7 @@ which also are language and different from the Veda,
 अनैकान्तिकश्च मन्वादिवाक्यै ।  
 </details>
 
-## अ-वेद-मूलत्वान् न
+### अ-वेद-मूलत्वान् न
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -648,7 +649,7 @@ We conclude therefore, that the proposition "Pancaratra is authoritative," is no
 संभाव्यमानान्यप्यनुमानान्तराणि परस्तादुपन्यस्य निरस्यन्ते अतो नानुमानविरुद्धः पक्षः ।  
 </details>
 
-## नागम-विरोधः
+### नागम-विरोधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाप्य् आगम-विरुद्धः -  
@@ -784,9 +785,28 @@ as motherhood is contradicted by the property sterility.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि विवादाध्यासितस्य प्रामाण्य-प्रतिज्ञाने  
-तत्र श्रुत्य्-उक्त-धर्मि-विशेष-विरोधः  
-विहित-हिंसानाम् इवाधर्मत्व-प्रतिज्ञाने  
-विवादाध्यासस्योपलक्षत्वात्,
+तत्र श्रुत्य्-उक्त-धर्मि-विशेष-विरोधः -  
++++(वेद-)+++विहित-हिंसानाम् इवाधर्मत्व-प्रतिज्ञाने +++(तत्-तत्-परिहारेण)+++ विवादाध्यासस्योपलक्षत्वात्,
+</details>
+
+<details><summary>English</summary>
+
+For upon the assertion of the authoritativeness of the substance in question,  
+it is not contradicted by any particular substance named in Revelation,  
+since the imputation of questionableness is secondary,  
+as in the case of the assertion that  
+certain acts of violence which are enjoined are against the dharma,12  
+</details>
+
+<details><summary>English - Notes</summary>
+
+The Vedic injunction na hinṇsyāt sarvabhūtāni "one should not injure any being"  
+raises the question of the validity of injunctions which do require injury to beings.  
+But this is a secondary question which does not affect the validity of the Veda as a whole.  
+Similarly, the thesis "Pañcaratra is valid" is not disproved  
+by the possible mention in the valid Veda  
+of something that conflicts with something in Pañcaratra.  
+So far the argument is not for validity but against invalidity. 
 </details>
 
 <details><summary>मूलम्</summary>
@@ -795,10 +815,91 @@ as motherhood is contradicted by the property sterility.
 विहितहिंसानामिवाधर्मत्वप्रतिज्ञाने विवादाध्यासस्योपलक्षत्वात्,
 </details>
   
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अतो वा नागमविरोधः,  
+तद् एवं प्रतिपन्नः पक्षः ।  
+</details>
+
+<details><summary>English</summary>
+
+There is, therefore, no contradiction by language statement;  
+so that we conclude that the proposition is presentable. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 अतो वा नागमविरोधः, तदेवं प्रतिपन्नः पक्षः ।  
+</details>
+
+## हेतु-सौष्टवम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि हेतोर् अनैकान्तिकत्वादयो दोषाः ।  
+</details>
+
+<details><summary>English</summary>
+
+59\. Nor is the ground affected by logical defects, like occasional application etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 नापि हेतोरनैकान्तिकत्वादयो दोषाः ।  
-तथा हि न तावदनैकान्तिकः, स हि द्वेधा साधारणासाधारणभेदात् यथा पृथिवी नित्यत्वसाधने प्रमेयत्वं साधारणः, असाधारणस्यतत्रैव गन्धवत्त्वम्,  तत्र न तावन्निर्दोषज्ञानकारणत्वं प्रमाणाप्रमाणसाधारणं येन साधारणानैकान्तिकं स्यात्, न हि निर्द्दोषज्ञानकारणत्वमप्रमाणभूतविप्रलम्भकवचनादिषु विपक्षेषु दृष्टचरम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा हि न तावद् अनैकान्तिकः, 
+</details>
+
+<details><summary>English</summary>
+
+The ground is not occasionally applicable to other terms. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा हि न तावदनैकान्तिकः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स हि द्वेधा साधारणासाधारणभेदात् -  
+यथा "पृथिवी-नित्यत्व-साधने प्रमेयत्वं" +++(इत्य् अनित्येष्व् अपि वर्तमानो हेतुः)+++ साधारणः,  
+असाधारणस्य "तत्रैव गन्धवत्त्वम्" +++(इत्य् अन्यत्रादृश्यमानो हेतुः)+++,  
+</details>
+
+<details><summary>English</summary>
+
+[[48]]  
+This fallacy of occasionalness is of two kinds, general occasionalness and special occasionalness.  
+An instance of the first kind provides the ground in the argument:  
+"The earth is eternal, because it is knowable."  
+Of the second kind: "The earth is eternal, because it, possesses smell." 
+</details>
+
+<details><summary>English - Notes</summary>
+
+Since pots are knowable, the ground would also apply to prove the eternality of pots and all things that are knowable. 
+
+Since only earth (as an element) possesses smell, this ground has no general applicability.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स हि द्वेधा साधारणासाधारणभेदात्  
+यथा पृथिवी नित्यत्वसाधने प्रमेयत्वं साधारणः,  
+असाधारणस्यतत्रैव गन्धवत्त्वम्,  
+</details>
+
+
+तत्र न तावन्निर्दोषज्ञानकारणत्वं प्रमाणाप्रमाणसाधारणं येन साधारणानैकान्तिकं स्यात्, न हि निर्द्दोषज्ञानकारणत्वमप्रमाणभूतविप्रलम्भकवचनादिषु विपक्षेषु दृष्टचरम् ।  
 नाप्यसाधारणः ज्योतिष्टोमादिवाक्यदृष्टान्ताभिधानेनैव सपक्षान्वयस्य प्रदर्शित् ।  
 नापि विरुद्धः, विपरीतव्याप्त्यभावात्, न हि निर्द्दोषज्ञानकारणत्वमप्रामाण्येन व्याप्तम् ।  
 न च कालात्ययापदिष्टः प्रत्यक्षविरोधाभावात् आगमानुगुण्याच्च ।  

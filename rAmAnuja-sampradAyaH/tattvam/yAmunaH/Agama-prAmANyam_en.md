@@ -7,12 +7,7 @@ title = "Agama-prAmANyam en"
 ## 
 
 
-For upon the assertion of the authoritativeness of the substance in question,  
-it is not contradicted by any particular substance named in Revelation, since the imputation of questionableness is secondary, as in the case of the assertion that certain acts of violence which are enjoined are against the dharma,12 There is, therefore, no contradiction by languagestatement; so that we conclude that the proposition is presentable. 
-59\. Nor is the ground affected by logical defects, like occasional application etc. The ground is not occasionally applicable to other terms. This fallacy of occasionalness is of two kinds, general occasionalness and special occasionalness. An instance of the first kind provides the ground in the argument: "The earth is eternal, because it is knowable." Of the second kind: "The earth is eternal, because it, possesses 
-48 
-AGAMA FRAMANYAṀ 
-smell." Our ground, namely, 'Pañcaratra is authoritative, because it produces faultless knowledge', does not apply equally whether it is authoritative or not, which would render the ground generally-occasional.126 For this ground, namely its being a cause of faultless knowledge, has not been found before in the alternative propositions that Pañcaratra is deceptive and hence nonauthoritative. Neither does the ground have a speciallyoccasional application, because the illustration "like statements on Vedic sacrifices such as jyotiṣṭoma etc." shows its connection with other instances on the same side of the argument. 
+Our ground, namely, 'Pañcaratra is authoritative, because it produces faultless knowledge', does not apply equally whether it is authoritative or not, which would render the ground generally-occasional.126 For this ground, namely its being a cause of faultless knowledge, has not been found before in the alternative propositions that Pañcaratra is deceptive and hence nonauthoritative. Neither does the ground have a speciallyoccasional application, because the illustration "like statements on Vedic sacrifices such as jyotiṣṭoma etc." shows its connection with other instances on the same side of the argument. 
 Nor is the ground precluded, since there is no concomitance of its opposite; being a cause of faultless knowledge is not invariably accompanied by nonauthoritativeness. Nor is the ground cancelled by lapse of time, since there is no conflict with Perception and in this it is analogous with Scripture. 
 Nor is the ground itself unproved or unestablished. If a ground is unestablished, this is because either its locus or its essence is unestablished. The first does not apply, for its locus is Pañicarātra Sastra, which is proved to exist. Nor does the second apply: for there are three ways in which a ground may be unestablished as to its essence: through ignorance, through dubiety, or through reversion. Ignorance does not apply, as follows from the fact that the words describing the ground are pronounced." Nor does dubiety apply, for that the ground is correct is undoubted and selfevident to the defender of the proposition, while for the opponent the same is easily proved by the fact thatADAMA PRĀMĀṆYANI 
 no defects are apprehended in it. 
@@ -515,11 +510,8 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 
 ## Notes
  
-[123]: The Vedic injunction na hinṇsyāt sarvabhūtāni "one should not injure any being" raises the question of the validity of injunctions which do require injury to beings. But this is a secondary question which does not affect the validity of the Veda as a whole. Similarly, the thesis "Pañcaratra is valid" is not disproved by the possible mention in the valid Veda of something that conflicts with something in Pañcaratra. So far the argument is not for validity but against invalidity. 
+
 [124]: 
-Since pots are knowable, the ground would also apply to prove the eternality of pots and all things that are knowable. 
-[125]: Since only earth (as an element) possesses smell, this 
-ground has no general applicability. 
 [126]: Like the ground "because it is knowable" which applics 
 to things regardless of whether they are eternal or not. 
 
