@@ -1757,6 +1757,7 @@ The Kapalika doctrine is described as follows:
 शैवास्तत्र च कापालं मतमेवं प्रचक्षते ॥  
 </details>
 
+### कापालिकाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुद्रिका-षट्क-विज्ञानात्  
@@ -1813,41 +1814,456 @@ As they say,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा -  
-कर्णिका रुचकञ्चैव कुण्डलञ्च शिखामणिम् ।  
+
+> कर्णिकां रुचकञ्+++(=हारं)+++ चैव  
+कुण्डलञ् च शिखा-मणिम् ।  
+भस्म यज्ञो-पवीतञ्  
+च मुद्रा-षट्कं **प्रचक्षते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+The six mudrikas of the Kāpālikas are stated to be the earring, necklace, pendent, head ornament, ashes and the sacrificial thread: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा -  
+कर्णिकां रुचकञ्चैव कुण्डलञ्च शिखामणिम् ।  
 भस्म यज्ञोपवीतञ्च मुद्राषट्कं प्रचक्षते ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कपालम् अथ खट्वाङ्गम्  
+उपमुद्रे **प्रकीर्तिते** ।  
+आभिर् **मुद्रित**-देहस् तु  
+**न** भूय इह **जायते** ॥
+</details>
+
+<details><summary>English</summary>
+
+there are two more subsidiary mudras described, namely skull and skull-staff.  
+One whose body is marked by these mudras will not be reborn in the world." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 कपालमथ खट्वाङ्गमुपमुद्रे प्रकीर्तिते ।  
 आभिर्मुद्रितदेहस्तु न भूय इह जायते ॥
+</details>
 
-न चेदृशमुद्रिकाषट्कपरिज्ञान -तद्धारण -निन्दितभगासनस्थदेहध्यानस्यापवर्गसाधनत्वं श्रुतयो मृष्यन्ति, ता ह्यैहिकामुष्मिकसकलविषयाभिलाषविमुखस्य अखिलजगत्कारणवासुदेवात्मभावैकलभ्यं मोक्षमाचक्षते ।  
-तमेव विदित्वा अतिमृत्युमेति नान्यः पन्था अयनाय विद्यते इत्याद्याः, एवं कालामुखा अपि समस्तशास्त्रप्रतिषिद्धकपालभोजन -शवभस्मस्नान तत्प्राशन -लगुडधारण सुराकुम्भस्थापन तत्स्थदेवतार्चनादेरेव दृष्टादृष्टाभीष्टसिद्धिमभिदधानाः श्रुतिबहिष्कृता एव ।  
-यदपि पाशुपतशैवाभ्यां विरुधाविरुद्धसममुग्धं किञ्चिदभिहितं तदपि श्रुतिबहिष्कृतमेव ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**न** चेदृश-मुद्रिका-षट्क-परिज्ञान--तद्-धारण--  
+निन्दित-भगासन-स्थ-देह-ध्यानस्यापवर्ग-साधनत्वं श्रुतयो **मृष्यन्ति**,  
+</details>
+
+<details><summary>English</summary>
+
+Now, the śrutis do not bear out their view that the knowledge of such paraphernalia, the wearing of them  
+and the concentration on the body in the immoral vulva posture  
+are means to attain release,  
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+न चेदृशमुद्रिकाषट्कपरिज्ञान -तद्धारण -निन्दितभगासनस्थदेहध्यानस्यापवर्गसाधनत्वं श्रुतयो मृष्यन्ति, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ता ह्य् ऐहिकामुष्मिक-सकल-विषयाभिलाष-विमुखस्य  
+अ-खिल--जगत्-कारण-वासुदेवात्म-भावैक-लभ्यं मोक्षम्  
+**आचक्षते** -
+</details>
+
+<details><summary>English</summary>
+
+for the śrutis expound that  
+release is attainable only by one who has renounced all sensual desires of this world and the other world  
+and who concentrates on the soul Vasudeva as the cause of the entire Universe: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ता ह्यैहिकामुष्मिकसकलविषयाभिलाषविमुखस्य अखिलजगत्कारणवासुदेवात्मभावैकलभ्यं मोक्षमाचक्षते ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तमेव विदित्वा अतिमृत्युमेति 
+
+> नान्यः पन्था अयनाय विद्यते 
+
+इत्य्-आद्याः, 
+</details>
+
+<details><summary>English</summary>
+
+"knowing Him one goes beyond death;  
+there is no other path to tread etc." (Svet Up. 3.8.) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तमेव विदित्वा अतिमृत्युमेति नान्यः पन्था अयनाय विद्यते इत्याद्याः, 
+</details>
+
+### कालामुखाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं कालामुखा अपि  
+समस्त-शास्त्र-प्रतिषिद्ध--कपाल-भोजन--शव-भस्म-स्नान--  
+तत्-प्राशन--लगुड-धारण--सुरा-कुम्भ-स्थापन--तत्-स्थ-देवतार्चनादेर् एव  
+दृष्टादृष्टाभीष्ट-**सिद्धिम् अभिदधानाः** श्रुति-बहिष्कृता एव ।  
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+इह कापालिक-कालामुखयोर् भ्रमो भाति।  
+तद् एव श्रीभाष्ये ऽनुवर्तितं रामानुजेनेति च श्रीभाष्ये (ii.2.35-37)।??  
+
+सम्बद्धम् - [TW](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/)
+</details>
+
+
+<details><summary>English</summary>
+
+The same is. true of the Kalamukhas who teach 
+that certain practices,  
+which are condemned by all the [[70]] sāstras,  
+like eating from a skull,  
+bathing in and tasting of ashes of cremated corpses,  
+carrying a laguḍa staff,  
+putting up wine-cups and worshipping the deity in them,  
+will secure all material and immaterial desires:  
+these teachings are outside the Veda. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+एवं कालामुखा अपि समस्तशास्त्रप्रतिषिद्धकपालभोजन-शवभस्मस्नान तत्प्राशन -लगुडधारण सुराकुम्भस्थापन तत्स्थदेवतार्चनादेरेव दृष्टादृष्टाभीष्टसिद्धिमभिदधानाः श्रुतिबहिष्कृता एव ।  
+</details>
+
+### पाशुपताः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अपि पाशुपत-शैवाभ्यां विरुद्धाविरुद्ध-सम-+++(मिश्रण-)+++मुग्धं किञ्चिद् अभिहितं  
+तद् अपि श्रुति-बहिष्-कृतम् एव ।  
+</details>
+
+<details><summary>English</summary>
+
+84\. Also some of the teachings of the Pasupatas and the Saivas  
+in which compatible and incompatible elements are indiscriminately mixed  
+are likewise outside the Veda, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदपि पाशुपतशैवाभ्यां विरुद्धाविरुद्धसममुग्धं किञ्चिदभिहितं तदपि श्रुतिबहिष्कृतमेव ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 तत्रैषा पाशुपतप्रक्रिया ।  
+</details>
+
+<details><summary>English</summary>
+
+The Pasupata system is as follows: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्रैषा पाशुपतप्रक्रिया ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जीवाः पशव **उच्यन्ते**  
+तेषाम् अधिपतिश् शिवः ।  
+स तेषाम् **उपकाराय**  
+पञ्चाध्यायीम् **अचीकॢपत्** ॥  
+</details>
+
+<details><summary>English</summary>
+
+there are individual souls which are called paśus, cattle,  
+and their overlord is Siva, the Lord of Cattle.  
+To assist the souls Siva has composed the Paficādhyāyi. ("The Doctrine of the Five Chapters.")
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 जीवाः पशव उच्यन्ते तेषामधिपतिश्शिवः ।  
 स तेषामुपकाराय पञ्चाध्यायीमचीकॢपत् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र पञ्च पदार्थास् तु  
+व्याख्याताः कारणादयः ।  
+कारणं कार्यं विधिर् योगो  
+दुःखान्तः …॥  
+
+इति,  
+</details>
+
+<details><summary>English</summary>
+
+There the five Categories are explained, namely,  
+Cause, Effect, Injunction, Yoga and the Cessation of Misery. 
+</details>
+
+<details><summary>मूलम्</summary>
+
 तत्र पञ्च पदार्थास्तु व्याख्याताः कारणादयः ।  
-कारणं कार्यं विधिर्योगो दुःखान्तः ॥ इति, उपादानं निमित्तञ्च व्याख्यातं कारणं द्विधा ।  
+कारणं कार्यं विधिर्योगो दुःखान्तः ॥  
+
+इति,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपादानं निमित्तञ् च  
+व्याख्यातं **कारणं** द्विधा ।  
+निमित्त-कारणं रुद्रस्  
+तत्-कला कारणान्तरम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+The Cause is of two kinds, material and instrumental.  
+Rudra is the instrumental cause  
+and a sixteenth part of him is the material cause.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपादानं निमित्तञ्च व्याख्यातं कारणं द्विधा ।  
 निमित्तकारणं रुद्रस्तत्कला कारणान्तरम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मह्य्-अन्तं महद्-आदि कार्यम् **उदितं**, तद्वद् विधिर् **गीयते** ।  
+गूढाचार-मुख-स्मशान-भसित-स्नानावसानः परः+++(??)+++ ॥  
++++(छन्दः??)+++
+</details>
+
+<details><summary>English</summary>
+
+The Effect comprises the elements from Mahat to earth.  
+The Injunction is stated to comprehend principally a number of rites, secret practices, bathing and lying in ashes etc. 182  
+</details>
+
+<details><summary>English - Notes</summary>
+
+Mahat - The highest material evolute; the sloka is out of order.
+
+The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi??, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaśa yanādikrijāparaḥ.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 मह्यन्तं महदादिकार्यमुदितं तद्वद्विधिर्गीयते ।  
 गूढाचारमुखस्मशानभसितस्नानावसानः परः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+योगो धारणम् **उच्यते**  
+हृदि धियाम् ओङ्कार-पूर्वन् तथा ।  
+**दुःखान्तो** हि मतो ऽपवर्ग  
+इति ते पञ्चापि संकीर्तिताः ॥
+</details>
+
+<details><summary>English</summary>
+
+The Yoga is said to be concentration and the muttering of formula, OM etc.   
+The Cessation of Misery is held to be release;   
+The term "cessation' of misery" means total and final cessation of misery.  
+thus the five Categories are enumerated.
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems out of order. The sense is clear however.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 योगो धारणमुच्यते हृदि धियामोङ्कारपूर्वन्तथा ।  
 दुःखान्तो हि मतोऽपवर्ग इति ते पञ्चापि संकीर्तिताः ॥
+</details>
 
-आत्यान्तिकी दुःखनिवृत्तिर्दुखान्तशब्देनोक्ता तामेव निश्शेषवैशेषिकात्मगुणोच्छेदलक्षणां मुक्तिं मन्यते इयमेव चेश्वरकल्पना शैवानामन्येषां च ।  
-सेयं सर्वा श्रुतिविरुद्धा कल्पना यतः ।  
+### मुक्ति-कल्पना
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्यान्तिकी दुःख-निवृत्तिर् दुखान्त-शब्देनोक्ता  
+ताम् एव निश्शेष-वैशेषिकात्म-गुणोच्छेद-लक्षणां मुक्तिं **मन्यते**। 
+</details>
+
+<details><summary>English</summary>
+
+The system holds that this cessation or release is defined by the annihilation of all the qualities of the differential soul. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्यान्तिकी दुःखनिवृत्तिर्दुखान्तशब्देनोक्ता तामेव निश्शेषवैशेषिकात्मगुणोच्छेदलक्षणां मुक्तिं मन्यते
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इयमेव चेश्वरकल्पना शैवानामन्येषां च ।  
+</details>
+
+<details><summary>English</summary>
+
+This conception of God is held by the Saivas as well as the others. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इयमेव चेश्वरकल्पना शैवानामन्येषां च ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सेयं सर्वा श्रुति-विरुद्धा कल्पना यतः -  
+</details>
+
+<details><summary>English</summary>
+
+[[71]]  
+And this view of God is entirely, incompatible with Scripture, for   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सेयं सर्वा श्रुतिविरुद्धा कल्पना यतः -  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जगन्-निमित्तोपादानं  
+परं ब्रह्म श्रुतौ श्रुतम् ।  
+महानन्दात्मको मोक्षस्  
+तत्र तत्रासकृच् छृतः ॥  
+</details>
+
+<details><summary>English</summary>
+
+it is revealed in śruti that the Supreme Brahman is both the material and the instrumental cause of the Universe.  
+Also, it is repeatedly revealed in the scriptures that release consists in perfect bliss. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 जगन्निमित्तोपादानं परं ब्रह्म श्रुतौ श्रुतम् ।  
-महानन्दात्मको मोक्षस्तत्रतत्रासकृच्छुतः ॥  
+महानन्दात्मको मोक्षस्तत्रतत्रासकृच्छृतः ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परस्परविरोधेन  
+**व्याहतैषां** प्रमाणता ।  
+त्रयी-दण्ड-प्रतिक्षेपं  
+किञ्चिन् नैव **प्रतीक्षते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+As the authoritativeness of these Tantras is already vitiated by their mutual contradictions,  
+it is not really necessary for them to be rejected with the stick of the Veda. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 परस्परविरोधेन व्याहतैषां प्रमाणता ।  
 त्रयीदण्डप्रतिक्षेपं किञ्चिन्नैव प्रतीक्षते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किञ्च शैवादयो वेद-  
+सिद्धवर्णाश्रमाद् बहिः ।  
+**कल्पयन्त्य्** आश्रमादीनि  
+ततोऽपि श्रुति-बाह्यता ॥
+</details>
+
+<details><summary>English</summary>
+
+85\. Moreover, the Saivas etc. accept stages of life etc.  
+that are outside the varnasrama system  
+that is proved by the Veda  
+and are consequently outside the Veda. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 किञ्च शैवादयोवेदसिद्धवर्णाश्रमाद्बहिः ।  
 कल्पयन्त्याश्रमादीनि ततोऽपि श्रुतिबाह्यता ॥
+</details>
 
-यदाहुः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यदाहुः -  
+
+> दीक्षा-प्रवेश-मात्रेण  
+ब्राह्मणो **भवति** क्षणात् ।  
+कापालं व्रतम् आस्थाय  
+यतिर् **भवति** मानवः ॥
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+As they say," merely by entering Consecration one becomes instantly a Brahmin.  
+A man becomes an ascetic by accepting the Kāpālika vow." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदाहुः -  
+
 दीक्षाप्रवेशमात्रेण ब्राह्मणो भवति क्षणात् ।  
 कापालं व्रतमास्थाय यतिर्भवति मानवः ॥
 
 इति ।  
+</details>
+
+### शिवाप्रणीतता
 न च वाच्यम् अप्रमाणभूतमियन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयतीति ।  
 न च समाननमनिर्मातृस्मरणनिबन्धनमिति युक्तम् अति प्रसङ्गादिति, यतः-
 

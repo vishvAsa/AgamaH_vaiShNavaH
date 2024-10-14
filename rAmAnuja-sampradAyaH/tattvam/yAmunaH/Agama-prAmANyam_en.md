@@ -153,20 +153,10 @@ All this has already been explained in great detail in the Purusanirnayals and i
 
 
 
-The six 
-mudrikas of the Kāpālikas are stated to be the earring, necklace, pendent, head ornament, ashes and the sacrificial theread: there are two more subsidiary mudras described, namely skull and skull-staff. One whose body is marked by these mudras will not be reborn in the world." Now, the śrutis do not bear out their view that the knowledge of such paraphernalia, the wearing of them and the concentration on the body in the immoral vulva posture are means to attain release, for the śrutis expound that release is attainable only by one who has renounced all sensual desires of this world and the other world and who concentrates on the soul Vasudeva as the cause of the entire Universe: "knowing Him one goes beyond death; there is no other path to tread ctc." 
-The same is. true of the Kalamukhas who teach 
-that certain practices, which are condemned by all the 
-70 
 
-sāstras, like eating from a skull, bathing in and tasting of ashes of cremated corpses, carrying a laguḍa staff, putting up wine-cups and worshipping the deity in them, will secure all material and immaterial desires: these teachings are outside the Veda. 
-84\. Also some of the teachings of the Pasupatas and the Saivas in which compatible and incompatible elements are indiscriminately mixed are likewise outside the Veda, The Pasupata system is as follows: there are individual souls which are called paśus, cattle, and their overlord is Siva, the Lord of Cattle. To assist the souls Siva has composed the Paficādhyāyi.100 There the five Categories are explained, namely, Cause, Effect, Injunction, Yoga and the Cessation of Misery. The Cause is of two kinds, material and instrumental. Rudra is the instrumental cause and a sixteenth part of him is the material cause. The Effect comprises the elements from Mahaf to earth. The Injunction is stated to comprehend principally a number of rites, secret practices, bathing and lying in ashes etc. 182 The Yoga is said to be concentration and the muttering of formula, OM etc. The Cessation of Misery is held to be release; thus the five Categories are enumerated.--The term "cessation' of misery" means total and final cessation of misery. The system holds that this cessation or release is defined by the annihilation of all the qualities of the differential soul. 
-This conception of God is held by the Saivas as well as the others. And this view of God is entirely, incompatible with Scripture, for it is revealed in śruti that the Supreme Brahman is both the material and the 
-
-71 
-instrumental cause of the Universe. Also, it is repeatedly revealed in the scriptures that release consists in perfect bliss. As the authoritativeness of these Tantras is already vitiated by their mutual contradictions, it is not really necessary for them to be rejected with the stick of the Veda. 
 · 
-85\. Moreover, the Saivas etc. accept stages of life etc. that are outside the varnasrama system that is proved by the Veda and are consequently outside the Veda. As they say," merely by entering Consecration one becomes instantly a Brahmin. A man becomes an ascetic by accepting the Kāpālika vow." 
+
+
 86\. Let it not be said, How could Rudra, who is very trustworthy, promulgate such a vast collection of texts which are not authoritative? Nor is it right to hold that these texts are based upon the recollection of an author of the same name as Siva, because the ground is overextensive. For the theory that the author was in error and could be in error, because he was not Siva but some other person with the same name, can only follow if the Veda sublates the system; this latter ground is sufficient to prove the lack of authority of these texts and entails no overextension to other texts. And error is not entirely impossible in the case of such persons as Rudra etc. Or else one may reason that since Rudra may have composed such a system for the purpose of deceiving the world because he is known as a promulgator of deceitful doctrines, it is not even necessary to assume error on his part. For thus it reads in the Varaha Purana, 
 "For Thou, strong-armed Rudra, must cause deluding doctrines to be expounded, the deceptions of 
 72 
@@ -573,15 +563,15 @@ Purana that Yamuna's text had different readings, not all of them better.
 [176]: Title of one of Yamuna's treatises. 
 [177]: read sa hi saha jasamnedanasākṣālkṛtadikṣārādhonödidharmah 
  
-[179]: Svet Up. 3.8. 
-[180]: "The Doctrine of the Five Chapters." 
-[181]: The highest material evolute; the dloka is out of order,
+
+### 
+
+[180]:  
+[181]: 
 139 
-[182]: The text reads güṭhācāramukhasmasānabhasitāvasānaḥ pareļi, which is a corruption; I read, wholly conjecturally gūḍhācabhasmasnānaśa yanādikrijāparaḥ. 
-[183]: The text reads yogo dharanam ucjate hydi dhiyām onkarapuream tatha, and seems out of order. The sense is clear 
-however. 
-[184]: corresponds to Varaha Purana. 70.36 foam ca rudra mahabaho mokatastrāni kārayal al pajasam dartayitva mahajātu 
-mahetoarah. 
+[182]:  
+[183]:  
+[184]: corresponds to Varaha Purana. 70.36 foam ca rudra mahabaho mokatastrāni kārayal al pajasam dartayitva mahajātu mahetoarah. 
 [185]: ef. Varāha Pur., 70.41, which in cd reads nayasiddhanta
 sam jñabhir ma ya fāstran tu darfitam. 
 [186]: cf. Variha Pur., 70.38, which reads in cd fastrejoabkirato 
