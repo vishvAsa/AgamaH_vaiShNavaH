@@ -147,11 +147,12 @@ Likewise in the Bhavisyat Puraṇa,
 44 
 Visnu is traditionally known to be the Sepreme in the pathways of the Vedic doctrine. Visnu is the greatest among persons, the most exalted Supreme Person.""" 
 All this has already been explained in great detail in the Purusanirnayals and is therefore not further enlarged upon here. Therefore, how can our tongue endeavour to say that the Tantra which is revealed by Visanu who is known from the Upanisads is false? For He is such that He has an immediate insight into the dharma of Consecration, Propitiation etc., by virtue of the omniscience that is natural to Him.""" 
-82\. Considering that the sensual pleasure to be had from attainment of heaven, the birth of a son etc. is inseparable from various forms of misery and does not, continue for long, the supreme sages Sandilya,. Narada and others have rejected this pleasure, which in their view was really misery, and in order to attain the release left their dwellings to become mendicants; and they have decided definitively that He has created the Pancaratra Sastra which sets forth the knowledge and manner of propitiation of Himself which constitute the sole means of attaining the unparalleled beatitude they sought. 
-83\. This argument cannot be extended to other Tantras, for in the various authors of those Tantras error etc. is possible. It is impossible that Perception 
-69 
-or another means of knowledge forms the basis for the other Tantras, and they themselves do also not claim that Scripture is the basis. Besides, because they communicate a meaning that is incompatible with the conclusions of the upanisads the view that these Tantras are based on Perception or Scripture is sublated. 
-For there are four kinds of followers of the way of life set forth in those Tantras, the Kāpālikas, Kālamukhas, Pasupatas and Saivas. The Kapalika doctrine is described as follows: the reward of release is attained by knowing what the six mudrikas are and by wearing them, not by knowing Brahman. As they say, "He who knows the identities of the six mudrikas and is expert in the supreme Mudra, and meditates upon the self in the vulva posture, attains nirvana." 
+
+### ...
+
+
+
+
 The six 
 mudrikas of the Kāpālikas are stated to be the earring, necklace, pendent, head ornament, ashes and the sacrificial theread: there are two more subsidiary mudras described, namely skull and skull-staff. One whose body is marked by these mudras will not be reborn in the world." Now, the śrutis do not bear out their view that the knowledge of such paraphernalia, the wearing of them and the concentration on the body in the immoral vulva posture are means to attain release, for the śrutis expound that release is attainable only by one who has renounced all sensual desires of this world and the other world and who concentrates on the soul Vasudeva as the cause of the entire Universe: "knowing Him one goes beyond death; there is no other path to tread ctc." 
 The same is. true of the Kalamukhas who teach 
@@ -568,10 +569,10 @@ cf. infra §138.
 [173]: cf. Varaha Pur. 7026 na tasmat parato devo bhavita na bhavisyati. It is clear from several quotations from this 
 Purana that Yamuna's text had different readings, not all of them better. 
 [174]: Matsya Pur. 290.15. 
-[175]: The Linga, Vayu and Bhavisyat quotations could not be 
-verified. 
+[175]: The Linga, Vayu and Bhavisyat quotations could not be verified. 
 [176]: Title of one of Yamuna's treatises. 
-[177]: read sa hi saha jasamnedanasākṣālkṛtadikṣārādhonödidharmah 178. External signs worn by Saiva sectarians. 
+[177]: read sa hi saha jasamnedanasākṣālkṛtadikṣārādhonödidharmah 
+ 
 [179]: Svet Up. 3.8. 
 [180]: "The Doctrine of the Five Chapters." 
 [181]: The highest material evolute; the dloka is out of order,
