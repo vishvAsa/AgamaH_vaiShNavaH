@@ -153,37 +153,6 @@ All this has already been explained in great detail in the Purusanirnayals and i
 
 
 
-
-· 
-
-
-86\. Let it not be said, How could Rudra, who is very trustworthy, promulgate such a vast collection of texts which are not authoritative? Nor is it right to hold that these texts are based upon the recollection of an author of the same name as Siva, because the ground is overextensive. For the theory that the author was in error and could be in error, because he was not Siva but some other person with the same name, can only follow if the Veda sublates the system; this latter ground is sufficient to prove the lack of authority of these texts and entails no overextension to other texts. And error is not entirely impossible in the case of such persons as Rudra etc. Or else one may reason that since Rudra may have composed such a system for the purpose of deceiving the world because he is known as a promulgator of deceitful doctrines, it is not even necessary to assume error on his part. For thus it reads in the Varaha Purana, 
-"For Thou, strong-armed Rudra, must cause deluding doctrines to be expounded, the deceptions of 
-72 
- 
-jugglers and the like as well as conflicting practices. Having shown that the fruit can be won with little effort, you must delude all these people quickly."84 
-Similarly, the venerable Rudra himself shows in the same Purana that the Saiva and the like scriptures which are there being discussed are apostate from the Veda, that only apostates from the Veda are qualified for these doctrines and that their only purpose is just to deceive them. "I have propounded this sastra as though it were correct doctrine in order to deceive those who have deserted the Way of the Veda.185 From that time onward, O excellent Ones, the people who believe in the scriptures promulgated by myself do not respect the Vedas.16 Thus the Pasupata and like doctrines are active in the Kali Age.""" 
-Likewise he shows that the worship concerning himself as it is propounded in the Pasupata Tantras and other such Tantras is different and does not form part of the worship of the Bhagavan: "The said act of worship concerning me which is being observed is really outside the Veda. This ritual called Pasupata is the lowliest and deceives men.188" Only the lowest people worship me with exclusion of Visņu." 
-The large numbers of statements like the preceding ones will not be written out here, because they are too numerous. It is clear enough that those who follow these scriptures are outside the Veda, as is stated in the same Purana: "He cursed those who kept the observances of hairtuft, ashes and skull, Be you outside the Veda and disqualified for Vedic rites. In the Kali Age all those who assume that appearance, wearing hairtuft and carrying a laguḍa stick, exhibitng arbitrary observances and 
-
-73 
-carrying false lingas about, all these hair-tuft wearing devotees of Rudra are consumed by the fire of Brahma's curse." These practices are well-known in the Saiva scriptures: "Rosary, and bracelet in the hand, a hair-tuft on the head, a skull, bathing in ashes etc," 
-Similarly, he declares in the Aditya Purana that along with relinquishing the Bhagavan they relinquish the Veda: "Others, those that wear ashes and hair-tufts as described have formerly been made to relinquish the Veda as well as God Nārāyaṇa on account of Gautama's curse."\*19: 
-Moreover, those fools who pass censure on Vasudeva are to be regarded as heretics, for thus it is declared in the Linga Puriņa, "Those who consider the Supreme Person to be equal (to Siva) are to be regarded as heretics who are expelled from the Wayof the Veda,"192 
-To conclude, it is these followers of other Tantras of whom it is said, in the smrtis: "Heretics, criminals etc.", that they should not be honoured even with a word; and the declaration "Which are outside the Veda..." 
-." refers to them. Consequently, since it cannot properly be said of the other Tantras that they are based either on Veda or on Perception, another cause must be assumed for them. 
-87\. OBJECTION. If it is true that for these Tantras another basis must be assumed, let the defect be granted. 
-But is in your own view knowledge not self-proved? 
-10 
-74 
-REFUTATION. 
-ĀDAMA PRĀMĀṆYAM 
-Certainly; but this self-validity of knowledge is here negated by these two defects of sublation, namely, sublation through Perception and through Scripture, for both these defects are plain in their case. 
-The equality of Pañcaratra Tantra and those other Tantras which has been postulated on the ground that both happen to be Tantra, while in fact one of the two is incompatible with Scripture and plainly shows a different provenance, would mean that Brahmin Murder and Horse Sacrifice are on the same level because both are actions: For in the case of Pañcaratra Sastra we have positive certainty that it is based on Scripture and Perception. 
-88\. OBJECTION. I made the objections that if its being based on Scripture follows from its being established by the Veda, then it cannot be assumed that the author was independent. 
-REFUTATION. No. Surely, we can assume no independence in man, but for God it is revealed in Scripture, e.g., "To Him all the world is manifest..." "From fear for Him..." 
-89\. OBJECTION. But if the Pañcaratra traditions are really derived from the Veda, then how is it that no recollection of the Vedic words which furnishes this basis has persisted among the Pañcaratrikas, whereas the meaning of these words apparently does persist? It is not right to contend that only the recollection of the meaning is important because that has purpose while the recollection of the actual Vedic statements is to be disregarded because it is purposeless; for it is not proper to forget that from which the meaning's authority derives. 
-
 75 
 Or if, in order to justify this oblivion, the standpoint is taken that the doctrine is based on a Vedic sakha which has been lost or which is always deducible, then whatever doctrine a person adopts he can always make authoritative simply by attributing it to a lost śākhā; however, it is hard to prove what a lost or deducible śākhā actually contain. 
 Or if these traditions are based on an extant Sakha, then others would know it as well as the author, and hence his taking the trouble of promulgating these texts would be purposeless. 
@@ -489,14 +458,9 @@ May, for the length of this Aeon, play on the pious, enchanting and irreproachab
 ## Notes
  
 
-[124]: 
-[126]:  
-
 [[135]] 
-[127]:  
-[128]: This objection seems to speak to the summary denial that 
-the ground is unestablished through reversion. 
-[129]: Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, fabdapramānja) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning. Among these thingsmeant Yamuna includes facts as well as kargas, hence the following debate with the Prabhakara, 
+[128]: This objection seems to speak to the summary denial that the ground is unestablished through reversion. 
+[129]: Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, shabdapramāna) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning. Among these thingsmeant Yamuna includes facts as well as kargas, hence the following debate with the Prabhakara, 
 
 [130]: supra § 37. 
 [131]: Yamuna here takes up the Prabhakara's theory that a child learns the meaning of language through the action his elders take on hearing a statement, so that the denotativeness of language is defined by its injunctiveness. He uses the Prabhakara's example of the factual statement: "A child is born to you." A child who does not know language has no way of understanding the meaning of this statement because the young father's happiness conveys nothing specific But, asks Yamuna, suppose the same child has witnessed his father reception of the cheering news and the subsequent preparations for a birth ceremony. Since one follows immediately upon the other, the child associates one with the other and can thus understand the meaning of the statement, though the statement itself was no injunction, but a communication of an established fact, 
@@ -566,27 +530,15 @@ Purana that Yamuna's text had different readings, not all of them better.
 
 ### 
 
-[180]:  
-[181]: 
-139 
-[182]:  
-[183]:  
-[184]: corresponds to Varaha Purana. 70.36 foam ca rudra mahabaho mokatastrāni kārayal al pajasam dartayitva mahajātu mahetoarah. 
-[185]: ef. Varāha Pur., 70.41, which in cd reads nayasiddhanta
-sam jñabhir ma ya fāstran tu darfitam. 
-[186]: cf. Variha Pur., 70.38, which reads in cd fastrejoabkirato 
-loko bahuljena bhaved atah. 
-[187]: nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate 
-vedasanjaitam. 
-[188]: cf. Varaha Pur., 70.21, yad vedabāḥpam karma ṣṣācchāstram udditya senzate I tad raudram iti cikk yatam tan nestam gaditam nṛṇām. 
-[189]: cf. Varaha Pur., 70.40, mam vimor oyatiriktam ye brahmasiat ca doijottama bhajante pāpakarmāņas te panti narakam narāḥ, 
-[190]: not identified. 
-[191]: read pesom for eṣām. 
-[192]: not identified. 
-[193]: supra §52. 
-[194]: Taitt Up. 2.8.1. 
-[195]: supra 12. 
-[196]: Aitareya Br. 
+
+
+
+[191]:  
+[192]:  
+[193]:  
+[194]:  
+[195]:  
+[196]:  
 [197]: Manusmrti, 4.124. 
 [199]: Mahabharata 1.265 f 
 [199]: supra §17 

@@ -1600,7 +1600,7 @@ the statement itself has the power to convey an agreeable meaning.
 श्रुतिमूर्ध्नि प्रसिद्धेन वासुदेवेन भाषितम् ।  
 तन्त्रं मिथ्येति वक्तुन्नः कथं जिह्वा प्रवर्तते ॥  
 
-## पाञ्चरात्र-वैशिष्ट्यम्
+### पाञ्चरात्र-दानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न हि सहज-संवेदन-साक्षात्-कृत--दीक्षाऽऽराधनादि-धर्मः  
@@ -1650,7 +1650,7 @@ which constitute the sole means of attaining the unparalleled beatitude they sou
 
 
 
-### तन्त्रान्तराद् भेदः
+## तन्त्रान्तराद् भेदः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2263,76 +2263,795 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 इति ।  
 </details>
 
-### शिवाप्रणीतता
+### तन्त्रान्तर-मूलम्
+#### शिवाप्रणीतता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च वाच्यम् अ-प्रमाण-भूतम् इयन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयतीति ।
+</details>
+
+<details><summary>English</summary>
+
+86\. Let it not be said, How could Rudra, who is very trustworthy, promulgate such a vast collection of texts which are not authoritative?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 न च वाच्यम् अप्रमाणभूतमियन्तं ग्रन्थराशिं कथं प्रत्ययिततरो रुद्रः प्रणयतीति ।  
-न च समाननमनिर्मातृस्मरणनिबन्धनमिति युक्तम् अति प्रसङ्गादिति, यतः-
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च समान-नाम-निर्मातृ-स्मरण-निबन्धनम् इति युक्तम्  
+अति-प्रसङ्गादिति, यतः-
+</details>
+
+<details><summary>English</summary>
+
+ Nor is it right to hold  
+ that these texts are based upon the recollection of an author of the same name as Siva,  
+ because the ground is overextensive. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न च समाननामनिर्मातृस्मरणनिबन्धनमिति युक्तम् अति-प्रसङ्गादिति, यतः-
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(शिवाख्योऽपरः कर्तेति)+++ नामैकत्व-कृत-भ्रान्ति-  
+कल्पना ऽप्य् **उपपद्यते** ।  
+वेद-बाधान्, **न** चान्यत्र +++(पाञ्चरात्रादौ)+++  
+तावता **ऽतिप्रसज्यते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+For the theory that the author was in error  
+and could be in error,  
+because he was not Siva  
+but some other person with the same name,  
+can only follow if the Veda sublates the system;  
+this latter ground is sufficient to prove the lack of authority of these texts  
+and entails no overextension to other texts. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 नामैकत्वकृतभ्रान्तिकल्पनाऽप्युपपद्यते ।  
 वेदबाधान्न चान्यत्र तावताऽतिप्रसज्यते ॥  
+</details>
+
+#### प्रमादः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रमादोऽपि च नात्यन्तं रुद्रादिषु न सम्भवी ।+++(4)+++  
+</details>
+
+<details><summary>English</summary>
+
+And error is not entirely impossible in the case of such persons as Rudra etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 प्रमादोऽपि च नात्यन्तं रुद्रादिषु न सम्भवी ।  
+</details>
+
+#### मोह-शास्त्रम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् वा रुद्रस्य मोह-शास्त्र-प्रणेतृतया ऽवगतत्वाद्  
+व्यामोहयितुम् एव हीदृश-शास्त्र-प्रणयनम् उपपद्यत 
+इति नावश्यं प्रमाद एवाश्रयितव्यः,
+</details>
+
+<details><summary>English</summary>
+
+Or else one may reason that since Rudra may have composed such a system  
+for the purpose of deceiving the world  
+because he is known as a promulgator of deceitful doctrines,  
+it is not even necessary to assume error on his part. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यद्वा रुद्रस्य मोहशास्त्रप्रणेतृतयाऽवगतत्वाद् व्यामोहयितुमेव हीदृशशास्त्रप्रणयनमुपपद्यत इति नावश्यं प्रमाद एवाश्रयितव्यः,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च वाराहे ।  
+
+> त्वं हि रुद्र! महाबाहो!  
+मोहशास्त्राणि कारय ।  
+कुहकादीन्द्र-जालानि  
+विरुद्धाचरणानि च ॥  
+</details>
+
+<details><summary>English</summary>
+
+[[72]]  
+For thus it reads in the Varaha Purana, 
+
+> "For Thou, strong-armed Rudra, must cause deluding doctrines to be expounded, 
+> the deceptions of jugglers (sic) and the like as well as conflicting practices.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तथा च वाराहे ।  
 त्वं हि रुद्र! महाबाहो! मोहशास्त्राणि कारय ।  
 कुहकादीन्द्रजालानि विरुद्धाचरणानि च ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दर्शयित्वाऽल्पमायासं  
+फलं शीघ्रं प्रदर्शय ।  
+दर्शयित्वा जनं सर्वं  
+मोहयाशु महेश्वर! ॥
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+> Having shown that the fruit can be won with little effort,  
+> you must delude all these people quickly."84
+</details>
+
+<details><summary>English - Notes</summary>
+
+[[139]]  
+corresponds to Varaha Purana. 70.36 tvam ca rudra mahabaho mokatastrāni kāraya al pajasam?? darsayitva mahajātu mahetoarah. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 दर्शयित्वाऽल्पमायासं फलं शीघ्रं प्रदर्शय ।  
 दर्शयित्वा जनं सर्वं मोहयाशु महेश्वर! ॥
 
 इति ।  
-तथा तत्रैव भगवान् रुद्रः प्रस्तुतशैवाद्यागमानां स्वयमेव वेदवाह्यत्वं वेदमार्गापभ्रष्टजनाधिकारित्वं तद्व्यामोहैकप्रयोजनतां च दर्शयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा तत्रैव भगवान् रुद्रः  
+प्रस्तुत-शैवाद्य्-आगमानां स्वयम् एव  
+वेद-बाह्यत्वं वेद-मार्गाप-भ्रष्ट-जनाधिकारित्वं तद्-व्यामोहैक-प्रयोजनतां च **दर्शयति** ।  
+</details>
+
+<details><summary>English</summary>
+
+Similarly, the venerable Rudra himself shows in the same Purana  
+that the Saiva and the like scriptures which are there being discussed  
+are apostate from the Veda,  
+that only apostates from the Veda are qualified for these doctrines 
+and that their only purpose is just to deceive them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा तत्रैव भगवान् रुद्रः प्रस्तुतशैवाद्यागमानां स्वयमेव वेदबाह्यत्वं वेदमार्गापभ्रष्टजनाधिकारित्वं तद्व्यामोहैकप्रयोजनतां च दर्शयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ये वेद-मार्ग-निर्मुक्तास्  
+तेषाम् **मोहार्थम्** एव च ।  
+नय-सिद्धान्त-मार्गेण  
+मया शास्त्रं **प्रदर्शितम्** ॥  
+</details>
+
+<details><summary>English</summary>
+
+"I have propounded this sastra  
+as though it were correct doctrine  
+in order to deceive those who have deserted the Way of the Veda.185 
+</details>
+
+<details><summary>English - Notes</summary>
+
+cf. Varāha Pur., 70.41, which in cd reads nayasiddhanta sam jñabhir maya shāstran tu darshitam.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ये वेदमार्गनिर्मुक्तास्तेषाम्मोहार्थमेव च ।  
 नयसिद्धान्तमार्गेण मया शास्त्रं प्रदर्शितम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तस्माद् आरभ्य कालात् तु  
+मत्-प्रणीतेषु सत्तमाः ।  
+शास्त्रेष्व् अभिरतो लोको  
+**न** वेदान् बहु **मन्यते** ।  
+</details>
+
+<details><summary>English</summary>
+
+From that time onward, O excellent Ones,  
+the people who believe in the scriptures promulgated by myself  
+do not respect the Vedas.16 
+</details>
+
+<details><summary>English - Notes</summary>
+
+cf. Variha Pur., 70.38, which reads in cd shastrejo?? abhirato loko bahuljena bhaved atah. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तस्मादारभ्य कालात्तु मत्प्रणीतेषु सत्तमाः ।  
 शास्त्रेष्वभिरतो लोको न वेदान् बहु मन्यते ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तथा पाशुपतादीनि  
+> प्रवर्तन्ते कलौ युगे ॥
+</details>
+
+<details><summary>English</summary>
+
+Thus the Pasupata and like doctrines are active in the Kali Age.
+</details>
+
+<details><summary>English - Notes</summary>
+
+nearest is Varaha Pur., 70.42, tada pasupatam sastram jāyate vedasanjaitam.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तथा पाशुपतादीनि प्रवर्तन्ते कलौ युगे ॥
+</details>
+
+### विरुद्धाचरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा च भगवत्-परिवारत्व-व्यतिरेकेण  
+स्व-प्रधान-पूजां पाशुपतादि-तन्त्र-सिद्धां वेद-बाह्यां दर्शयति । +++(4)+++ 
+</details>
+
+<details><summary>English</summary>
+
+Likewise he shows that the worship concerning himself  
+as it is propounded in the Pasupata Tantras and other such Tantras  
+is different  
+and does not form part of the worship of the Bhagavan: 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तथा च भगवत्परिवारत्वव्यतिरेकेण स्वप्रधानपूजां पाशुपतादितन्त्रसिद्धां वेदबाह्यां दर्शयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद्वेदबाह्यं कर्मोक्तं  
+माम् उद्दिश्योपसेव्यते ।  
+तद् वै पाशुपतं नाम  
+कनिष्ठम् मोहनं नृणाम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+"The said act of worship concerning me which is being observed is really outside the Veda.  
+This ritual called Pasupata is the lowliest and deceives men.188" 
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+cf. Varaha Pur., 70.21, yad vedabāḥyam karma ṣṣācchāstram udditya senzate I tad raudram iti cikk?? yatam tan nestam gaditam nṛṇām.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तद्वेदबाह्यं कर्मोक्तं मामुद्दिश्योपसेव्यते ।  
-तद्वै पाशुपतं नाम मनिष्ठम्मोहनं नृणाम् ॥  
+तद्वै पाशुपतं नाम कनिष्ठम्मोहनं नृणाम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"मां विष्णु--व्यतिरेकेण  
+पूजयन्ति नराधमाः ।"  
+इत्य्-आदि-वाक्य-जातानि  
+न लिख्यन्तेऽतिगौरवात् ॥  
+</details>
+
+<details><summary>English</summary>
+
+"Only the lowest people worship me with exclusion of Visņu."  
+The large numbers of statements like the preceding ones will not be written out here,  
+because they are too numerous. 
+</details>
+
+<details><summary>English - Notes</summary>
+
+[189]: cf. Varaha Pur., 70.40, mam vimor oyatiriktam ye brahmasiat ca doijottama bhajante pāpakarmāņas te panti narakam narāḥ, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 मां विष्णुव्यतिरेकेण पूजयन्ति नराधमाः ।  
 इत्यादिवाक्यजातानि न लिख्यन्तेऽतिगौरवात् ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+व्यक्तञ्च वेदबाह्यत्वम् एतच्-छास्त्रानुगामिनाम् ।  
+</details>
+
+<details><summary>English</summary>
+
+It is clear enough that those who follow these scriptures  
+are outside the Veda, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 व्यक्तञ्च वेदबाह्यत्वमेतच्छास्त्रानुगामिनाम् ।  
-यथा तत्रैव ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा तत्रैव -  
+
+> शशाप ताञ् जटा-भस्म-  
+कपाल-व्रत-धारिणः ।  
+**भविष्यथ** त्रयी-बाह्या  
+वेद-कर्म-बहिष्-कृताः ॥  
+</details>
+
+<details><summary>English</summary>
+
+as is stated in the same Purana: 
+
+> "He cursed those who kept the observances of hairtuft, ashes and skull,  
+> Be you outside the Veda and disqualified for Vedic rites. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा तत्रैव -  
 शशाप ताञ्जटाभस्मकपालव्रतधारिणः ।  
 भविष्यथ त्रयीबाह्या वेदकर्मबहिष्कृताः ॥  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कलौ तद्-रूपिणस् सर्वे  
+जटा-लगुड-**धारिणः** ।  
+स्व-च्छन्द-व्रत-**वेषाश्** च  
+मिथ्या-लिङ्ग-**धरास्** तथा ।  
+ब्रह्म-शापाग्नि-**निर्दग्धा**  
+रुद्र-भक्ता जटा-धराः ॥ 
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+[[73]]
+In the Kali Age all those who assume that appearance,  
+wearing hairtuft and carrying a laguḍa stick, exhibitng arbitrary observances and carrying false lingas about,  
+all these hair-tuft wearing devotees of Rudra are consumed by the fire of Brahma's curse."  
+(not identified.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 कलौ तद्रूपिणस्सर्वे जटालगुडधारिणः ।  
 स्वच्छन्दव्रतवेषाश्च मिथ्यालिङ्गधरास्तथा ।  
-ब्रह्मशापाग्निनिर्दग्धा रुद्रभक्ता जटाधराः ॥ इति, प्रसिद्धञ्चैतच्छैवागमेषु ।  
+ब्रह्मशापाग्निनिर्दग्धा रुद्रभक्ता जटाधराः ॥ इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रसिद्धञ् चैतच् छैवागमेषु ।  
+</details>
+
+<details><summary>English</summary>
+
+These practices are well-known in the Saiva scriptures: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रसिद्धञ्चैतच्छैवागमेषु ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> रुद्राक्षं कङ्कणं हस्ते  
+जटा चैका च मस्तके ।  
+कपालं भस्मना स्नानम् 
+
+इत्यादि ।  
+</details>
+
+<details><summary>English</summary>
+
+"Rosary, and bracelet in the hand, a hair-tuft on the head, a skull, bathing in ashes etc," 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 रुद्राक्षं कङ्कणं हस्ते जटा चैका च मस्तके ।  
 कपालं भस्मना स्नानम् इत्यादि ।  
-तथा चैतेषामादित्यपुराणेऽपि भगवत्त्यागेन समं वेदत्यागं कथयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तथा चैतेषामादित्य-पुराणेऽपि  
+भगवत्-त्यागेन समं वेद-त्यागं कथयति ।
+</details>
+
+<details><summary>English</summary>
+
+Similarly, he declares in the Aditya Purana that  
+along with relinquishing the Bhagavan they relinquish the Veda: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तथा चैतेषामादित्यपुराणेऽपि भगवत्त्यागेन समं वेदत्यागं कथयति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्ये भस्मजटोपेता  
+यथोक्ता गौतमात् पुरा ।  
+शापात् सन्त्याजिता वेदं  
+देवं नारायणं तथा ॥
+
+इति ।  
+</details>
+
+<details><summary>English</summary>
+
+"Others, those that wear ashes and hair-tufts as described  
+have formerly been made to relinquish the Veda  
+as well as God Nārāyaṇa on account of Gautama's curse."
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 अन्ये भस्मजटोपेता यथोक्ता गौतमात् पुरा ।  
 शापात्सन्त्याजिता वेदं देवं नारायणं तथा ॥
 
 इति ।  
+</details>
+  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> किञ्चैते वासुदेवस्य  
+मन्दा **निन्दां वितन्वते** ।  
+ते च पाषण्डिनो **ज्ञेया**  
+यथा लैङ्गै **समीरितम्** ॥  
+</details>
+
+<details><summary>English</summary>
+
+Moreover, those fools who pass censure on Vasudeva  
+are to be regarded as heretics,  
+for thus it is declared in the Linga Puriņa, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 किञ्चैते वासुदेवस्य मन्दा निन्दां वितन्वते ।  
 ते च पाषण्डिनो ज्ञेया यथा लैङ्गै समीरितम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ये तु सामान्यभावेन  
+**मन्यन्ते** पुरुषोत्तमम् ।  
+ते वै पाषण्डिनो **ज्ञेया**  
+वेद-मार्ग-बहिष्कृताः ॥+++(5)+++
+
+इति,
+</details>
+
+<details><summary>English</summary>
+
+"Those who consider the Supreme Person to be equal (to Siva)  
+are to be regarded as heretics who are expelled from the Way of the Veda," (not identified.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ये तु सामान्यभावेन मन्यन्ते पुरुषोत्तमम् ।  
 ते वै पाषण्डिनो ज्ञेया वेदमार्गबहिष्कृताः ॥
 
-इति, ततश्च ।  
+इति,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ततश्च -  
+
+> एत एव च ते एषां  
+"वाङ्मात्रेणापि नार्चनम् ।  
+पाषण्डिनो विकर्मस्थान्"  
+इत्य्-आदि-स्मृतिषूदितम् ॥  
+"या वेद-बाह्या" इत्य्-एतद्  
+अपि चेदृशगोचरम् ।
+</details>
+
+<details><summary>English</summary>
+
+To conclude, it is these followers of other Tantras of whom it is said, in the smrtis:  
+"Heretics, criminals etc.", that they should not be honoured even with a word;  
+
+</details>
+
+
+<details><summary>English - Notes</summary>
+
+read yesAm for eṣām.
+
+supra §52.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ततश्च -  
+
 एत एव च ते एषां वाङ्मात्रेणापि नार्चनम् ।  
 पाषण्डिनोविकर्मस्थानित्यादिस्मृतिषूदितम् ॥  
-या वेदबाह्या इत्येतदपि चेदृशगोचरम् ।  
+
+</details>
+
+### न स्वतः प्रामाण्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तस्मान् न वेदमूलत्वं  
+नापि प्रत्यक्ष-मूलता ॥  
+तन्त्रान्तराणां युक्तेति  
+**कल्प्यते** कारणान्तरम् ।
+</details>
+
+<details><summary>English</summary>
+
+and the declaration "Which are outside the Veda..."  refers to them.  
+Consequently, since it cannot properly be said of the other Tantras  
+that they are based either on Veda or on Perception,  
+another cause must be assumed for them. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तस्मान्न वेदमूलत्वं नापि प्रत्यक्षमूलता ॥  
-तन्त्रान्तराणां युक्तेति कल्प्यते कारणान्तरम् ।  
+तन्त्रान्तराणां युक्तेति कल्प्यते कारणान्तरम् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु मूलान्तरापेक्षा  
+यदि स्याद् अस्तु +++(अवेद-मूलत्व-)दूषणम् ॥  
+स्वतःप्रमाणं विज्ञानं  
+भवतां ननु दर्शने ।  
+</details>
+
+<details><summary>English</summary>
+
+87\. OBJECTION. If it is true that for these Tantras another basis must be assumed,  
+let the defect be granted. 
+But is in your own view knowledge not self-proved? 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ननु मूलान्तरापेक्षा यदि स्यादस्तु दूषणम् ॥  
 स्वतःप्रमाणं विज्ञानं भवतां ननु दर्शने ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सत्यं तद् एव विज्ञान-  
+प्रामाण्यम् **अपनीयते** ॥  
+बाध-कारण-दोषाभ्यां  
+ताव् अपि द्वाव् इह स्फुटौ ।  
+</details>
+
+<details><summary>English</summary>
+
+[[74]]   
+REFUTATION.  
+Certainly; but this self-validity of knowledge is here negated by these two defects of sublation,  
+namely, sublation through ~~Perception~~ origin and through Scripture,  
+for both these defects are plain in their case. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 सत्यं तदेव विज्ञानप्रामाण्यमपनीयते ॥  
 बाधकारणदोषाभ्यां तावपि द्वाविह स्फुटौ ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+एवं श्रुतिविरुद्धस्य  
+स्फुट-मूलान्तरस्य यत् ॥  
+पञ्च-रात्रेण साधर्म्यं  
++++(हेतुना ←)+++ तन्त्रत्वेनाभिधित्सितम् ।  
+</details>
+
+<details><summary>English</summary>
+
+The equality of Pañcaratra Tantra and those other Tantras  
+which has been postulated on the ground that both happen to be Tantra,  
+while in fact one of the two is incompatible with Scripture and plainly shows a different provenance,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 एवं श्रुतिविरुद्धस्य स्फुटमूलान्तरस्य यत् ॥  
 पञ्चरात्रेण साधर्म्म्यं तन्त्रत्वेनाभिधित्सितम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्रियात्वेन तु साधर्म्यं  
+ब्रह्म-हत्याऽश्वमेधयोः ॥+++(5)+++  
+श्रुति-प्रत्यक्षयोस् तत्र +++(→पाञ्चरात्रे)+++  
+यतो मूलत्व-निश्चयः ।  
+</details>
+
+<details><summary>English</summary>
+
+would mean that Brahmin Murder and Horse Sacrifice are on the same level because both are actions:  
+For in the case of Pañcaratra Sastra we have positive certainty that it is based on Scripture and Perception. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 क्रियात्वेन तु साधर्म्म्यं ब्रह्महत्याऽश्वमेधयोः ॥  
 श्रुतिप्रत्यक्षयोस्तत्र यतोमूलत्वनिश्चयः ।  
-ननु च श्रुतिमूलत्वे वेदादेवार्थसिद्धितः ॥  
-तत्प्रणेतृस्वतन्त्रत्वकल्पना नेत्यचूचुदम् ।  
-नैवं न कल्प्यते पुंसि स्वातन्त्र्यं श्रूयते हि तत् ॥  
-तस्याध्यक्षमिदं सर्वं भीषाऽस्मादिदमादिषु ।  
+</details>
 
-### वेद-मूलता
+## वेद-मूलता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु च श्रुतिमूलत्वे  
+वेदाद् एवार्थ-सिद्धितः ॥  
+तत्-प्रणेतृ--स्व-तन्त्रत्व-  
+कल्पना नेत्य् **अचूचुदम्** ।
+</details>
+
+<details><summary>English</summary>
+
+88\. OBJECTION. I made the objections (supra 12) that  
+if its being based on Scripture follows from its being established by the Veda,  
+then it cannot be assumed that the author was independent.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु च श्रुतिमूलत्वे वेदादेवार्थसिद्धितः ॥  
+तत्प्रणेतृस्वतन्त्रत्वकल्पना नेत्यचूचुदम् ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नैवं **न कल्प्यते** पुंसि  
+स्वातन्त्र्यं, **श्रूयते** हि तत् ॥  
+"तस्याध्यक्षम् इदं सर्वं"  
+"भीषाऽस्माद् इदम्" आदिषु ।
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. No. Surely, we can assume no independence in man,  
+but for God it is revealed in Scripture, e.g.,  
+"To Him all the world is manifest..." (Taitt Up. 2.8.1.)  
+"From fear for Him..." (Aitareya Br.) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नैवं न कल्प्यते पुंसि स्वातन्त्र्यं श्रूयते हि तत् ॥  
+तस्याध्यक्षमिदं सर्वं भीषाऽस्मादिदमादिषु ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु वेदमूला एव चेदेताः पञ्चरात्र-स्मृतयः -  
+> किं तर्हि तद्-अर्थ-स्मरणवत् तन्-मूल-भूत-वेद-वाक्य-स्मरणं नानुवर्तते पाञ्च-रात्रिकाणाम् ?  
+</details>
+
+<details><summary>English</summary>
+
+89\. OBJECTION.  
+But if the Pañcaratra traditions are really derived from the Veda,  
+then how is it that no recollection of the Vedic words which furnishes this basis  
+has persisted among the Pañcaratrikas,  
+whereas the meaning of these words apparently does persist?  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 ननु वेदमूला एव चेदेताः पञ्चरात्रस्मृतयः किं तर्हि तदर्थस्मरणवत्तन्मूलभूतवेदवाक्यस्मरणं नानुवर्तते पाञ्चरात्रिकाणाम् ।  
-न चार्थस्मरणस्य प्रयोजनवत्त्वात् तस्य विफलत्वात् तदनादरणीयमिति युक्तम्,  न हि यतः प्रामाण्यं तदेव विस्मर्तुं युक्तम् ।  
-अथ विस्मरणोपपत्तये प्रलीननित्यानुमेयशाखामूलता आश्रीयते तदा यदेव येन प्रमाणतया परिगृहीतं स तत्प्रलीनशाखामस्तके निक्षिप्य प्रमाणीकुर्यात् नित्यानुमेयप्रलीनशाखयोस्तु स्वरूपसिद्धिरेव दुर्लभा ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न "चार्थस्मरणस्य प्रयोजनवत्त्वात्  
+> तस्य विफलत्वात्, तद्-अनादरणीयम्"  
+> इति युक्तम्,   
+न हि यतः प्रामाण्यं तदेव विस्मर्तुं युक्तम् ।  
+</details>
+
+<details><summary>English</summary>
+
+It is not right to contend that  
+only the recollection of the meaning is important  
+because that has purpose  
+while the recollection of the actual Vedic statements is to be disregarded  
+because it is purposeless;  
+for it is not proper to forget that from which the meaning's authority derives. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चार्थस्मरणस्य प्रयोजनवत्त्वात् तस्य विफलत्वात् तदनादरणीयमिति युक्तम्,   
+न हि यतः प्रामाण्यं तदेव विस्मर्तुं युक्तम् ।  
+</details>
+
+
+अथ विस्मरणोपपत्तये प्रलीननित्यानुमेयशाखामूलता आश्रीयते।  
+तदा यदेव येन प्रमाणतया परिगृहीतं स तत्प्रलीनशाखामस्तके निक्षिप्य प्रमाणीकुर्यात् नित्यानुमेयप्रलीनशाखयोस्तु स्वरूपसिद्धिरेव दुर्लभा ।  
 अथ विद्यमानशाखामूला एव ताः स्मृतयः तदा तत्प्रणेतृवदन्येऽपि तत एवोपलभेरन् इति ग्रन्थप्रणयनप्रयासवैयर्थ्यम् ।  
 अत्रोच्यते स खलु भगवान् अमोघसहजसंवेदनसाक्षाद्भवदखिलवेदराशिर्विप्रकीर्णविविधविध्यर्थवादमन्त्रात्मकानेकशाखाध्ययनधारणादिष्वधीरधियो भक्तानवलोक्य तदनुकम्पया लघुनोपायेन तदर्थं संक्षिप्योपदिदेशेति न किञ्चिदनुपपन्नम् ।  
 यथाऽहुः ।  
@@ -2602,7 +3321,7 @@ A man becomes an ascetic by accepting the Kāpālika vow."
 
 ## शिष्ट-ग्राह्यतादि
 वेदबाह्यगृहीतत्त्वादप्रामाण्यमवादि यत् ।  
-एतद्वाह्यगृहीतत्वाद् वेदानां वा कुतो न तत् ॥
+एतद्बाह्यगृहीतत्वाद् वेदानां वा कुतो न तत् ॥
 
 
 अपि च ।  
