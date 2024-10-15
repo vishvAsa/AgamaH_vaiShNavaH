@@ -137,13 +137,16 @@ title = "Notes"
 
 [223]: Karmani Lyu! Papini.
 
-[224]: not identified.
+## 
+[[141]] 
+225, 
+226. 
 
-141 225, in order to understand any statement, one must first know the meaning of the words that compose it; this may be called dependence, so that to this extent any statement is dependent for its informativeness on other and prior knowledge; but this must also apply to Vedic statements. 226. If the cause (here: God) is above suspicion, the statement will be accurate.
+[227]: 
 
-[227]: gunataḥ prāmāṇyasyājuktateūd anabhjupagamãe; my understanding is that a statement has its validity by itself, and no secondary validity in the sense that its content must first be validated by some other means. The validity itself must be proved (namely by the character of the personal author or by its preterpersonal origin), but once proved, the statement itself is valid.
 
-[228]: Vaisnava rite observed five times a day: pañcakáliké.
+
+[228]: Vaisnava rite observed five times a day: pañcakálika.
 
 [229]: ślokavārttika, 2.6 7 ab.
 
@@ -165,7 +168,7 @@ title = "Notes"
 
 [238]: not identified.
 
-[239]: Sabarabhasya and KMS.
+[239]: 
 
 [240]: supra § 17: vedabahyagrhitatrāt. I have rendered grhito by "accepted' to cover approximately the variety of meanings that Yamuna detects in the word.
 

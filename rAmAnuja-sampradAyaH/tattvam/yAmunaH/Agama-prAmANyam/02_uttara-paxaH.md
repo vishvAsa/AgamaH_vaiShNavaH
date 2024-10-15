@@ -3979,19 +3979,390 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 
 ननु कथं वेदा वा निरपेक्षा यावता तेषामपि भगवदनुभवसापेक्षमेव प्रमाणत्वं तत्कारणत्वात्, यथैव हि पञ्चरात्रस्मृतयः तदनुभवसापेक्षाः एवं वेदा अपीति तत्रोच्यते न च कर्त्तुः करणं न कर्त्तुरीश्वरस्य करणं वेदाः क्रियन्त इति करणम्,  कर्णि ल्युट्, अपौरुषेया वेदा इति यावत् ।  
 विज्ञानादिभावे वा तदप्रतिषेध, न चेदस्ति पञ्चरात्रशास्त्रमप्रमाणैति किन्तर्हि तदप्रतिषेधः प्रमित्युत्पत्तेरप्रतिषेधः विरुद्धार्धमपि विकल्पेन प्रमाणमित्यर्थः असम्भवद्भ्रमविप्रलम्भगवदनुभवमूलत्वाद्, विज्ञानादिभावे विज्ञानं -विशिष्टं ज्ञानम् असम्भवत्स्खलनमिति यावत्, अन्येषां हि सर्वधर्मशास्त्रनिबन्धणां सांसारिकत्त्वेनासार्वज्ञ्यात् अनवाप्तकामत्वाच्च सम्भाव्यमानविविधविप्लवं ज्ञानम्,  भगवतस्तु स्वाभाविकनिरङ्कुशैश्वर्यस्य श्रुतिशतसमधिगतावितथसहजसमस्तधर्माधर्मादिसाक्षात्कार ं ज्ञानमिति विज्ञानमित्युक्तम्,  तादृशस्य (अस्मिन्नर्थे विज्ञानस्यादिभावोविज्ञानादिभाव इति षष्ठीतत्पुरुषो ज्ञेयः)तस्यादिभावे मूलत्वे सति तदप्रतिषेधः प्रमाणमेवेति ।  
-ननु कथं श्रुतिविरुद्धस्य तन्त्रस्य प्रामाण्याभ्युपगमः तत्प्रामाण्ये हि श्रुत्या सह विकल्पः प्राप्नोति, विकल्पश्च अष्टदोषदुष्टः, स च क्वचिदन्यतरपरित्यागकारणाभावादगत्याऽभ्यनुज्ञायते, यथा व्रीहिभिर्यजेत् यवैर्यजेत इति, न हि तत्रान्यतरदपहर्तुं शक्यम् उभयोरप्यनपेक्षत्वाविशिष्टत्वात् ।  
-न चैवमपि पञ्चरात्रश्रुत्योर्विकल्पेन भवितव्यम् अतुल्यत्वात्, निरपेक्षं हि वैदिकं वचनं अपौरुषेयत्वात्, सापेक्षं च पञ्चरात्रवचनमिति कथमनयोर्विकल्पः ।  
+
+## वेद-पाञ्चरात्र-विकल्पः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु कथं श्रुतिविरुद्धस्य तन्त्रस्य प्रामाण्याभ्युपगमः?  
+</details>
+
+<details><summary>English</summary>
+
+108\. OBJECTION. But how can it be assumed that the Tantra,  
+which conflicts with scripture, has validity? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु कथं श्रुतिविरुद्धस्य तन्त्रस्य प्रामाण्याभ्युपगमः?  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्प्रामाण्ये हि श्रुत्या सह विकल्पः प्राप्नोति, 
+</details>
+
+<details><summary>English</summary>
+
+For if it is valid,  
+it becomes optional beside 89 scripture;  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तत्प्रामाण्ये हि श्रुत्या सह विकल्पः प्राप्नोति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(पाञ्चरात्रेण)+++ विकल्पश्च अष्टदोषदुष्टः, 
+</details>
+
+<details><summary>English</summary>
+
+and optionality is deficient in the case of the Tantras by eight defects. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विकल्पश्च अष्टदोषदुष्टः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> स च क्वचिद् अन्यतर-परित्याग-कारणाभावाद् **अगत्या ऽभ्यनुज्ञायते**,  
+यथा "व्रीहिभिर् यजेत यवैर् यजेत" इति, 
+</details>
+
+<details><summary>English</summary>
+
+Option is assumed  
+when there is no invariable rule that something should be such and not otherwise,  
+because there is no reason to reject, in one case or another, an alternative statement;  
+for instance: "He must sacrifice with rice,"  
+beside "he must sacrifice with barley." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स च क्वचिदन्यतरपरित्यागकारणाभावादगत्याऽभ्यनुज्ञायते, यथा व्रीहिभिर्यजेत यवैर्यजेत इति, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न हि तत्रान्यतरद् अपहर्तुं शक्यम् - उभयोर् अप्य् अनपेक्षत्वाविशिष्टत्वात् ।
+</details>
+
+<details><summary>English</summary>
+
+In the latter case it is impossible to eliminate one or the other  
+because both ~~neither~~ of these statements is characterized by independence. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न हि तत्रान्यतरदपहर्तुं शक्यम् उभयोरप्यनपेक्षत्वाविशिष्टत्वात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **न** चैवम् अपि पञ्च-रात्र-श्रुत्योर् **विकल्पेन भवितव्यम्** अतुल्यत्वात्, 
+</details>
+
+<details><summary>English</summary>
+
+In the former case, however, there can be no such option between scripture and Pafcarātra,  
+because the two are not equal; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चैवमपि पञ्चरात्रश्रुत्योर्विकल्पेन भवितव्यम् अतुल्यत्वात्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निरपेक्षं हि वैदिकं वचनं - अपौरुषेयत्वात्,  
+सापेक्षं च पञ्च-रात्र-वचनम् इति।  
+कथम् अनयोर् विकल्पः?  
+</details>
+
+<details><summary>English</summary>
+
+for the Vedic statement is independent, because it is preterhuman,  
+whereas the Pañcaratra statement is dependent.  
+So how can they be alternatives and optional? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निरपेक्षं हि वैदिकं वचनं - अपौरुषेयत्वात्,  
+सापेक्षं च पञ्चरात्रवचनमिति।  
+कथमनयोर्विकल्पः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्रूयतां - पञ्च-रात्र-शास्त्रस्यापि निरपेक्षत्वाद् एव +++(विकल्पत्वम्)+++।  
+</details>
+
+<details><summary>English</summary>
+
+109\. REFUTATION. Listen: because Pañcarātra too is independent.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 श्रूयतां पञ्चरात्रशास्त्रस्यापि निरपेक्षत्वादेव ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> कथन्नु पौरुषेयस्य  
+> वचसो निरपेक्षता ।  
+</details>
+
+<details><summary>English</summary>
+
+OBJECTION. How can a statement deriving from a person be independent? 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 कथन्नु पौरुषेयस्य वचसो निरपेक्षता ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इति चेद् इदम् **आचष्टां**  
+**पृष्टस्** सन्न् एष तार्किकः ॥  
+किम् अस्य बोधकत्वाय  
+परापेक्षा **ऽभ्युपेयते** ।  
+किं वा निश्चायकत्त्वाय  
+यथार्थज्ञापनाय वा ॥  
+पुमर्थत्वाय वा तत्र  
+चतुर्णाम् अप्य् असम्भवः ।
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION.  
+Let us ask the logician to explain this must dependence on something else  
+be assumed for a statement to be informative,  
+to give positive certainty,  
+or to state the truth about its content,  
+or to serve a purpose of human importance?  
+All four are impossible. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 इति चेदिदमाचष्टां पृष्टस्सन्नेष तार्किकः ॥  
 किमस्य बोधकत्वाय परापेक्षाऽभ्युपेयते ।  
 किं वा निश्चायकत्त्वाय यथार्थज्ञापनाय वा ॥  
-पुमर्थत्वाय वा तत्र चतुर्णामप्यसम्भवः ।  
-न खलु चक्रवर्त्त्युपचारेण भगवन्तं समर्चयेदितीदं वचनं श्रूयमाणं बोधकत्वाय किञ्चिदपेक्षते अन्यत्र व्युत्पत्तिग्रहणात्, न च तावता सापेक्षत्वेन दौर्बल्यं श्रुतावपि दौर्बल्यप्रसङ्गात् ।  
-नापि निश्चयजननाय, न हि अर्चयेदित्येतत् अर्चयेन्न वेति संशयितं प्रत्ययमुत्पादयति व्युत्पत्तिप्रतिपत्तिव्याकोपप्रसङ्गात् ।  
+पुमर्थत्वाय वा तत्र चतुर्णामप्यसम्भवः ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न खलु "चक्रवर्त्य्-उपचारेण भगवन्तं समर्चयेद्" इतीदं वचनं श्रूयमाणं  
+बोधकत्वाय किञ्चिद् अपेक्षते  
+अन्यत्र व्युत्पत्ति-ग्रहणात्, 
+</details>
+
+<details><summary>English</summary>
+
+When the statement is heard,  
+"One must worship the Bhagavan with the attendance due an emperor," (not identified)  
+nothing else is required for this statement to be informative,  
+because the meaning of the words has already become known from other contexts. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न खलु चक्रवर्त्त्युपचारेण भगवन्तं समर्चयेदितीदं वचनं श्रूयमाणं बोधकत्वाय किञ्चिदपेक्षते अन्यत्र व्युत्पत्तिग्रहणात्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च तावता सापेक्षत्वेन दौर्बल्यं श्रुतावपि दौर्बल्यप्रसङ्गात् ।
+</details>
+
+<details><summary>English</summary>
+
+Nor does this small measure of dependence prove the weakness of the statement's [[90]] validity, for the same weakness would follow for śruthi too.
+</details>
+
+<details><summary>English - Notes</summary>
+
+in order to understand any statement, one must first know the meaning of the words that compose it;  
+this may be called dependence,  
+so that to this extent any statement is dependent for its informativeness on other and prior knowledge;  
+but this must also apply to Vedic statements. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च तावता सापेक्षत्वेन दौर्बल्यं श्रुतावपि दौर्बल्यप्रसङ्गात् ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि निश्चय-जननाय,  
+न हि "अर्चयेद्" इत्य् एतत् "अर्चयेन् न वे"ति संशयितं प्रत्ययम् उत्पादयति -  
+व्युत्पत्ति-प्रतिपत्ति-व्याकोप-प्रसङ्गात् ।  
+</details>
+
+<details><summary>English</summary>
+
+Nor is anything else required for the statement to give positive certainty;  
+for the statement "One must worship...." does not occasion doubt  
+whether one must or must not worship,  
+since that would entail a negation of the direct declaration of the real sense.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नापि निश्चयजननाय,  
+न हि अर्चयेदित्येतत् अर्चयेन्न वेति संशयितं प्रत्ययमुत्पादयति व्युत्पत्तिप्रतिपत्तिव्याकोपप्रसङ्गात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नापि यथार्थत्वाय,  
+**न** ह्य् **उत्पन्नं** ज्ञानं  
+स्व-कारण-व्यतिरेकेण यथार्थत्वाय अपरम् **अपेक्षते** -  
++++(वेद-वाक्य-??)+++गुणतः प्रामाण्यस्यायुक्तत्वात् अनभ्युपगमाच् च ।  
+</details>
+
+<details><summary>English</summary>
+
+Nor is anything required for the statement to be true to the facts,  
+for the knowledge produced by the statement does not require anything outside its own cause226 to be true to the facts,  
+because secondary validity is inappropriate and not admitted.
+</details>
+
+<details><summary>English - Notes</summary>
+
+If the cause (here: God) is above suspicion, the statement will be accurate.
+
+gunataḥ prāmāṇyasyājuktateūd anabhjupagamãe; my understanding is that a statement has its validity by itself,  
+and no secondary validity in the sense that its content must first be validated by some other means.  
+The validity itself must be proved (namely by the character of the personal author or by its preterpersonal origin), but once proved, the statement itself is valid.
+</details>
+
+<details><summary>मूलम्</summary>
+
 नापि यथार्थत्वाय, न ह्युत्पन्नं ज्ञानं स्वकारणव्यतिरेकेण यथार्थत्वाय अपरमपेक्षते गुणतः प्रामाण्यस्यायुक्तत्वात् अनभ्युपगमाच्च ।  
-न च पुरुषार्थत्वाय परापेक्षा शास्त्रशरीरपर्यालोचनादेव तत्सिद्धेः, इह हि यथोक्तसंस्कारवतां शास्त्रश्रवणात् तदर्थज्ञानं ततस्तदर्थंपाञ्चकालिकानुष्ठानम्,  ततो निरतिशयसंपत्प्राप्तिरिति शास्त्रादेवावगम्यते ।  
-अथोच्येत सत्यपि पञ्चरात्रतन्त्राणां स्वतःप्रामाण्ये यावत्तद्वक्तुराप्तिनिश्चयपुरस्सरं दोषाभावो नावधार्यते न तावत्प्रामाण्यं निष्पाद्यत इति तदसत्, न हि दोषाभावाज्ञानं प्रामाण्यं निष्पादयति निर्दोषज्ञानकारणादेव तदुत्पत्तेः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न च पुरुषार्थत्वाय परापेक्षा -  
+शास्त्र-शरीर-पर्यालोचनाद् एव तत्-सिद्धेः, 
+</details>
+
+<details><summary>English</summary>
+
+Nor is it necessary for the statement to be dependent on something else  
+in order to serve a purpose of human importance,  
+for the proof of this purpose follows from a consideration of the entire body of doctrine. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न च पुरुषार्थत्वाय परापेक्षा शास्त्रशरीरपर्यालोचनादेव तत्सिद्धेः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह हि यथोक्त-संस्कारवतां शास्त्र-श्रवणात् तद्-अर्थ-ज्ञानं,  
+ततस् तद्-अर्थं पाञ्चकालिकानुष्ठानम्,  
+ततो निरतिशय-संपत्-प्राप्तिर्  
+इति शास्त्राद् एवावगम्यते ।  
+</details>
+
+<details><summary>English</summary>
+
+In this case, those who have undergone the afore-mentioned sacraments have knowledge of the content of the statement  
+when they have heard the doctrine,  
+and hence they perform the "five-timesa-day" rites, which form this content,  
+and hence they attain to supreme perfection;  
+this is learnt solely from the Sastra itself.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इह हि यथोक्तसंस्कारवतां शास्त्रश्रवणात् तदर्थज्ञानं ततस्तदर्थंपाञ्चकालिकानुष्ठानम्,  ततो निरतिशयसंपत्प्राप्तिरिति शास्त्रादेवावगम्यते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथोच्येत 
+
+> सत्य् अपि पञ्च-रात्र-तन्त्राणां स्वतः-प्रामाण्ये  
+> यावत् तद्-वक्तुर् आप्ति-निश्चय-पुरस्सरं दोषाभावो नावधार्यते  
+> न तावत् प्रामाण्यं निष्पाद्यत 
+
+इति 
+</details>
+
+<details><summary>English</summary>
+
+110\. Or if the objection is raised that,  
+granted the self-validity of Pañcaratra,  
+this validity is not complete  
+as long as it has not been made certain  
+that there are no defects,  
+after it has been made certain that the speaker is reliable,-  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथोच्येत सत्यपि पञ्चरात्रतन्त्राणां स्वतःप्रामाण्ये यावत्तद्वक्तुराप्तिनिश्चयपुरस्सरं दोषाभावो नावधार्यते न तावत्प्रामाण्यं निष्पाद्यत इति 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तदसत्, **न** हि दोषाभाव-ज्ञानं प्रामाण्यं **निष्पादयति**  
+निर्दोष-ज्ञान-कारणाद् एव तद्-उत्पत्तेः ।  
+</details>
+
+<details><summary>English</summary>
+
+I reply that this view is not correct;  
+knowledge that there are no defects does not completely establish validity,  
+since the validity arises from the cause itself of defectless knowledge  
+and not from the defectlessness of this knowledge.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदसत्, न हि दोषाभावज्ञानं प्रामाण्यं निष्पादयति निर्दोषज्ञानकारणादेव तदुत्पत्तेः ।  
+</details>
+
+
 न च निर्दोषत्वायाप्तत्वादिगुणनिश्चयः सत्तामात्रेण तत्सिद्धेः, यथाह वार्तिककारः ।  
 तदा न व्याप्रियन्ते तु ज्ञायमानतया गुणाः ।  
 इति, दोषाभावज्ञानेऽपि गुणानां सत्तयोपयोगो दर्शितः, दोषाभावे तु विज्ञेये सत्तामात्रोपकारिणः ।  
@@ -4079,8 +4450,68 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 विरोधेऽपि विकल्पः स्याद् भगवच्छास्त्रवेदयोः ।  
 विरोध एव नास्तीति प्रागेव प्रत्यपादयम् ॥
 
-## वेद-विरोधि-वाक्यानि
-नन्वत्र भवतां भाष्यकाराणां विरुद्धांशप्रामाण्याभिधानं कथमिव, यद्यपि विरोधः कृत्वा चिन्तया परिहृतस्तदपि गम्भीरन्यायसागरमवगाठुग्रपरिबृढानां कोमलमनसां वेदानादरो माभूदित्येवम्परम्, यथैव हि भगवतो जैमिनेः कर्मफलोपन्यासः कर्मश्रद्धासंवर्द्धनायेति ।  
+### वेद-विरोधि-वाक्यानि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नन्वत्र भवतां भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथम् इव?  
+</details>
+
+<details><summary>English</summary>
+
+116\. OBJECTION. However, how can the venerable Author of the Bhasya239 state that those parts which are in conflict are invalid: 
+</details>
+
+<details><summary>English - Notes</summary>
+
+Sabarabhasya and KMS.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नन्वत्र भवतां भाष्यकाराणां विरुद्धांशाप्रामाण्याभिधानं कथमिव,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् अपि विरोधः - कृत्वा चिन्तया परिहृतस्  
+तद् अपि गम्भीर-न्याय-सागरम् अवगाढुम् अपरिवृढानां कोमल-मनसां  
+वेदानादरो मा भूद् इत्य्-एवम्-परम्, 
+</details>
+
+<details><summary>English</summary>
+
+"If there be conflict, it is carefully eliminated."  
+REFUTATION. This statement means that those of frail minds,  
+who are not strong enough to plunge into the deep ocean of rules of interpretation, 
+must not be [[97]] disrespectful to the Veda. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्यपि विरोधः कृत्वा चिन्तया परिहृतस्तदपि गम्भीरन्यायसागरमवगाढुमपरिवृढानां कोमलमनसां वेदानादरो माभूदित्येवम्परम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथैव हि भगवतो जैमिनेः "कर्म-फलोपन्यासः कर्म-श्रद्धा-संवर्द्धनाये"ति ।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+This is comparable to the venerable Jaimini's exposition  
+that the fruits of acts serve to increase people's faith in the acts.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथैव हि भगवतो जैमिनेः कर्मफलोपन्यासः कर्मश्रद्धासंवर्द्धनायेति ।
+</details>
+  
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -4396,13 +4827,222 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 यथाऽनुष्ठानतन्त्रत्वं नित्यकाम्याग्निहोत्रयोः ।  
 एवं प्राणाग्निहोत्रेऽपि नैवेद्याशनतन्त्रता ॥
 
-यदप्युक्तं गर्भाधानादिदाहान्तसंस्कारान्तसेवनाद् भागवतानामब्रह्मण्यमिति तत्राप्यज्ञानमेवापराध्यति, न पुनरायुष्मतो दोषः, यदेते वंशपरम्परया वाजसनेयशाखामधीयानाः कात्यायनादिगृह्योक्तमार्गेण गर्भाधानादिसंस्कारान् कुर्वते ।  
-ये पुनः सावित्र्यनुवचनप्रभृतित्रयीधर्मत्यागेन एकायनश्रुतिविहितानेव चत्त्वारिंशत् संस्कारान् कुर्वते तेऽपि स्वशाखागृह्योक्तमर्थं यथावदनुति (यद्यपि अनूपसृष्टात्तिष्ठतेर्नात्मनेपदं प्राप्नोतीति अनुतिष्ठन्त इत्येव स्यात्तथापि अनुष्ठानशीला अनुष्ठानपरायणा इत्यर्थस्य प्रतिपिपादथियितत्वेन ताच्छील्यवयोवचनशक्तिषु चानश् इति पाणिनीयेन चानश्प्रत्ययो न तु शानच्प्रत्यय इत्यवधारयन्तु निपुणाः ।)ष्ठमानाः न शाखान्तरीयकर्माननुष्ठानाद् ब्राह्मण्यात् प्रच्यवन्ते, अन्येषामपि परशाखाविहितकर्माननुष्ठाननिमित्ताब्राह्मण्यप्रसङ्गात् सर्वत्र हि जाति -चरण -गोत्राधिकारादिव्यवस्थिता एव समाचारा उपलभ्यन्ते ।  
-यद्यपि सर्वशाखाप्रत्ययमेकं कर्म तथाऽपि न परस्परविलक्षणाधिकारिसंबद्धा धर्माः क्वचित्समुच्चीयन्ते, विलक्षणाश्च त्रयीविहितस्वर्गपुत्रादिविषयोपभोगसाधनैन्द्राग्नेयादिकर्माधिक अरिभ्यो द्विजेभ्यस्त्रय्यन्तेकायनश्रुतिविहितविज्ञानाभिगमनोपादानेज्याप्रभृतिभगवत्प्राप्त्येकोपायककर्माधिकारिणोमुमुक्षवो ब्राह्मणा इतिनोभयेषामप्यन्योन्यशाखाविहितकर्माननुष्ठानमब्राह्मण्यमापादयति, यथा चैकायनशाखाया अपौरुषेयत्वं तथा काश्मीरा (काश्मीरागमपदेन किं विवक्षितमिति न विशिष्य जानीमः काश्मीरागमप्रामाण्यनिरूपणपरोग्रन्थोऽपि चास्मदृष्टेरगोचर इति न किंचिदीश्महे वक्तुम् ।  
-यत्नेन तु तत्सर्वमासास्य समये प्रकाशयिष्यते ।)गमप्रामाण्ये प्रपञ्चितामिति ने प्रस्तूयते ।  
-प्रकृ(एतेनैति श्रीसंप्रदाये सर्ववेदरहस्यार्थानुयायिनि केनाप्यज्ञाततसुकृतेन समुत्पद्यापि शिष्यसंजिवृक्षया वा, शिष्यान् व्यामोह्यार्थलिप्सया वा, शास्त्रतत्त्वार्थानभिज्ञानेन वा, दुरभिमानगरिम्णा वा, लोकधन्धनार्थं वा, पूर्वाचार्यवचस्स्वश्रद्धया वा, तदीयचरमतात्पर्यज्ञानाशक्ततया वा, कलिकल्मषकलुषतया वा, स्वीयदुरदृष्टाकृष्टतया वा, वादिनिगूढातिप्रौढभावार्थानभिज्ञतया वा लिके स्वप्रौढिमख्यापनाय वादिनी मुधैव संनिनत्सया वा, अथवा संभूयैतैः सर्वर्हेतुभिरेव ओतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृत इति भगवदुक्तरीत्या ब्रह्मासाधारण -तदादिपदघटिते परब्रह्मासाधारण -श्रीरामायणारम्भणरूपे गायत्रीमन्त्रे सर्ववाद्यविप्रतिपन्नपरदेवताप्रसादके देवतान्तरार्थकत्वं बलादध्यारोप्य साधारणमन्त्रताप्रसाधनेन तस्य क्षुद्रदेवाराधनपरत्वं वा द्विजानामनावश्यकत्वख्यापनं वा क्षुद्रमन्त्रसाम्यसंभावनं वा कुर्वन्तः परास्ताः ।  
-प्रकृतानां भागवतानां तदत्यागबोधनेन त्यजतां च व्रात्यताबोधनेन पूर्वाचार्याणां गायत्रीमन्त्रे द्विजत्वप्रसाधकतायाः स्पष्टमनुमतत्वेन तन्नित्यत्वे विवदमानानामाचार्यार्थवैमुख्यस्य बालेनापि सुज्ञानत्वात् ।  
-यदपि क्वचित् स्मृतिषु गायत्र्या रविदेवताकत्वं सवितृदेवताकत्वं वा श्रूयते इति न तस्या भगवन्मन्त्रत्वमिति समुत्थानं तत्तु रविःः सुलोचनः सूर्यः सविता रविलोचनः इति श्लोकस्थभगवन्नामानभिज्ञाननिबन्धनमेव ।  
+## वैदिक-कर्मातिरस्कारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अप्य् उक्तं 
+
+> गर्भाधानादि-दाहान्त-संस्कारान्तर-सेवनाद्  
+भागवतानाम् अ-ब्रह्मण्यम् 
+
+इति तत्राप्य् अज्ञानम् एवापराध्यति,  
+न पुनर् आयुष्मतो दोषः,  
+यद् एते वंश-परम्परया वाजसनेय-शाखा-मधीयानाः  
+कात्यायनादि-गृह्योक्त-मार्गेण गर्भाधानादि-संस्कारान् कुर्वते ।
+</details>
+
+<details><summary>English</summary>
+
+138\. As to the remark299 that from the observance of different sacraments,  
+from conception ceremony to cremation,  
+it follows that the Bhagavatas are not brahmins,  
+here again ignorance is to blame.  
+It is not your Honour's fault  
+that the Bhagavatas, who have the Vājasanevasakha in the transmission of their family line,  
+observe the sacraments of conception ceremony etc. according to the manner laid down by the grhyasutras of Katyayana etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यदप्युक्तं गर्भाधानादिदाहान्तसंस्कारान्तरसेवनाद् भागवतानामब्रह्मण्यमिति तत्राप्यज्ञानमेवापराध्यति, न पुनरायुष्मतो दोषः, यदेते वंशपरम्परया वाजसनेयशाखामधीयानाः कात्यायनादिगृह्योक्तमार्गेण गर्भाधानादिसंस्कारान् कुर्वते ।
+</details>
+
+
+### एकायन-शाखा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ये पुनः सावित्र्य्-अनुवचन-प्रभृति--त्रयी-धर्म-**त्यागेन** 
+एकायन-श्रुति-विहितान् एव चत्त्वारिंशत् संस्कारान् **कुर्वते**  
+तेऽपि स्व-शाखा-गृह्योक्तम् अर्थं यथावद् अनुतिष्ठमानाः  
+न शाखान्तरीय--कर्माननुष्ठानाद् ब्राह्मण्यात् प्रच्यवन्ते,  
+अन्येषाम् अपि पर-शाखा-विहित-कर्माननुष्ठान-निमित्ताब्राह्मण्य-प्रसङ्गात्
+</details>
+
+<details><summary>English</summary>
+
+Those who perform the forty sacraments  
+which are enjoined by the Ekayana scripture  
+while giving up the dharmas of the Veda,  
+from the recitation of the gayatri onward,300  
+they properly follow the rules laid down by the grhyasutras of their own sakha  
+and do not abdicate their brahminhood  
+because they fail to follow the rites of a different shakha;  
+since otherwise it would follow that other brahmins too would forfeit their brahminhood because they fail to perform the rites enjoined by other [[121]] people's Sakha. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ये पुनः सावित्र्यनुवचनप्रभृतित्रयीधर्मत्यागेन एकायनश्रुतिविहितानेव चत्त्वारिंशत् संस्कारान् कुर्वते  
+तेऽपि स्वशाखागृह्योक्तमर्थं यथावदनुतिष्ठमानाः न शाखान्तरीयकर्माननुष्ठानाद् ब्राह्मण्यात् प्रच्यवन्ते, अन्येषामपि परशाखाविहितकर्माननुष्ठाननिमित्ताब्राह्मण्यप्रसङ्गात्
+</details>
+ 
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यद्यपि अनूपसृष्टात्तिष्ठतेर्नात्मनेपदं प्राप्नोतीति अनुतिष्ठन्त इत्येव स्यात्  
+तथापि अनुष्ठानशीला अनुष्ठानपरायणा इत्यर्थस्य प्रतिपिपादयितत्वेन  
+ताच्छील्यवयोवचनशक्तिषु चानश् इति पाणिनीयेन चानश्प्रत्ययो  
+न तु शानच्प्रत्यय इत्यवधारयन्तु निपुणाः ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वत्र हि जाति-चरण-गोत्राधिकारादि-व्यवस्थिता एव समाचारा उपलभ्यन्ते ।  
+</details>
+
+<details><summary>English</summary>
+
+For everywhere among brahmins we find customs that differ according to birth, caraṇa, gotra, qualification etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वत्र हि जाति-चरण-गोत्राधिकारादिव्यवस्थिता एव समाचारा उपलभ्यन्ते ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद्य् अपि सर्व-शाखा-प्रत्ययम् एकं कर्म  
+तथाऽपि न परस्-पर-विलक्षणाधिकारि-संबद्धा धर्माः  
+क्वचित् समुच्चीयन्ते, 
+</details>
+
+<details><summary>English</summary>
+
+Even though one ritual is understood for all śākhās,  
+still all the various dharmas relating to mutually different qualified performers  
+do not all together accumulate in anyone place.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यद्यपि सर्वशाखाप्रत्ययमेकं कर्म  
+तथाऽपि न परस्परविलक्षणाधिकारिसंबद्धा धर्माः क्वचित्समुच्चीयन्ते, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+विलक्षणाश् च त्रयी-विहित-स्वर्ग-पुत्रादि-विषयोपभोग-साधनैन्द्राग्नेयादि-कर्माधिकारिभ्यो द्विजेभ्यस्  
+ 
+त्रय्य्-अन्तैकायन-श्रुति-विहित-विज्ञानाभिगमनोपादानेज्या-प्रभृति-  
+भगवत्-प्राप्त्य्-एकोपायक-कर्माधिकारिणो मुमुक्षवो ब्राह्मणा  
+इति नोभयेषाम् अप्य् अन्योन्य-शाखा-विहित-कर्माननुष्ठानम् अ-ब्राह्मण्यम् आपादयति।  
+</details>
+
+<details><summary>English</summary>
+
+And the Aspirants who are distinct from those brahmins who are qualified for rites of the aindragneya etc.,  
+which are means leading to the enjoyment of rewards like heaven etc.,  
+as enjoined by the three Vedas,  
+and who themselves are qualified for the rites of the Ekayana,  
+rites which alone are the means of attaining to the Bhagavan,  
+viz. knowledge, cleansing the way to the Lord, preparation of worship and oblation, as enjoined by the Ekayana scripture, are brahmins too.  
+It follows that the non-observance of certain rites enjoined by different sākhās  
+does not mean that either one forfeits his brahminhood-  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विलक्षणाश्च त्रयीविहितस्वर्गपुत्रादिविषयोपभोगसाधनैन्द्राग्नेयादिकर्माधिकारिभ्यो द्विजेभ्यस्  
+त्रय्यन्तैकायनश्रुतिविहितविज्ञानाभिगमनोपादानेज्याप्रभृतिभगवत्प्राप्त्येकोपायककर्माधिकारिणोमुमुक्षवो ब्राह्मणा इतिनोभयेषामप्यन्योन्यशाखाविहितकर्माननुष्ठानमब्राह्मण्यमापादयति,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा चैकायन-शाखाया अपौरुषेयत्वं  
+तथा काश्मीरागम-प्रामाण्ये प्रपञ्चितम् इति  
+नेह प्रस्तूयते ।  
+</details>
+
+<details><summary>English</summary>
+
+that the Ekāyana sākhā is preterpersonal scripture has been enlarged upon in the Treatise on the Validity of Kasmira Agama,\*  
+and is therefore here not further discussed. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+
+यथा चैकायन-शाखाया अपौरुषेयत्वं तथा काश्मीरागमप्रामाण्ये प्रपञ्चितमिति नेह प्रस्तूयते ।  
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+काश्मीरागमपदेन किं विवक्षितमिति न विशिष्य जानीमः काश्मीरागमप्रामाण्यनिरूपणपरोग्रन्थोऽपि चास्मदृष्टेरगोचर इति न किंचिदीश्महे वक्तुम् ।  
+यत्नेन तु तत्सर्वमासास्य समये प्रकाशयिष्यते ।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रकृतानां तु भागवतानां  
+सावित्र्य्-अनुवचनादि-त्रयी-धर्म-बन्धस्य स्फुटतरम् उपलब्धेर्  
+न तत्-त्याग-निमित्त-व्रात्यत्वादि-संदेहं सहते ॥
+</details>
+
+<details><summary>English</summary>
+
+But since it is quite obvious that the Bhagavatas, which we are discussing here,  
+are connected with the dharmas of the three Vedas, like the savitri recitation,  
+there is no possible support for the suspicion  
+that they are really vratyas  
+because they would have abandoned these Vedic dharmas.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+प्रकृतानां तु भागवतानां सावित्र्यनुवचनादित्रयीधर्मबन्धस्य स्फुटतरमुपलब्धेर्न तत्त्यागनिमित्तव्रात्यत्वादिसंदेहं सहते ॥
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतेनैति श्रीसंप्रदाये सर्ववेदरहस्यार्थानुयायिनि केनाप्य् अज्ञात-सुकृतेन समुत्पद्यापि  
+शिष्यसंजिघृक्षया वा, शिष्यान् व्यामोह्यार्थ-लिप्सया वा,  
+शास्त्र-तत्त्वार्थानभिज्ञानेन वा, दुरभिमानगरिम्णा वा, लोक-धन्धनार्थं वा,  
+पूर्वाचार्य-वचस्-स्वश्रद्धया वा, तदीय-चरम-तात्पर्य-ज्ञानाशक्ततया वा,  
+कलि-कल्मष-कलुषतया वा, स्वीय-दुर्-अदृष्टाकृष्टतया वा,  
+वादि-निगूढातिप्रौढ-भावार्थानभिज्ञतया वा  
+लिके स्वप्रौढिम-ख्यापनाय वादिनि मुधैव संनिनत्सया वा, 
+अथवा संभूयैतैः सर्वैर् हेतुभिर् एव 
+
+> "ओं तत् सद्" इति निर्देशो  
+ब्रह्मणस् त्रिविधः स्मृत 
+
+इति भगवद्-उक्त-रीत्या  
+ब्रह्मासाधारण-"तद्"-आदि-पद-घटिते पर-ब्रह्मासाधारण-श्री-रामायणारम्भण-रूपे+++(5)+++ गायत्री-मन्त्रे  
+सर्व-वाद्य्-अविप्रतिपन्न-पर-देवता-प्रसादके देवतान्तरार्थकत्वं बलाद् अध्यारोप्य  
+साधारण-मन्त्रता-प्रसाधनेन  
+तस्य क्षुद्र-देवाराधन-परत्वं वा  
+द्विजानाम् अनावश्यकत्व-ख्यापनं वा  
+क्षुद्र-मन्त्र-साम्य-संभावनं वा कुर्वन्तः परास्ताः -  
+
+प्रकृतानां भागवतानां तद्-अत्याग-बोधनेन  
+त्यजतां च व्रात्यता-बोधनेन  
+पूर्वाचार्याणां गायत्री-मन्त्रे द्विजत्व-प्रसाधकतायाः स्पष्टम् अनुमतत्वेन  
+तन्-नित्यत्वे विवदमानानाम् आचार्यार्थ-वैमुख्यस्य बालेनापि सुज्ञानत्वात् ।  
+
+यदपि क्वचित् स्मृतिषु गायत्र्या रविदेवताकत्वं सवितृदेवताकत्वं वा श्रूयते इति न तस्या भगवन्मन्त्रत्वमिति समुत्थानं तत्तु रविः सुलोचनः सूर्यः सविता रविलोचनः इति श्लोकस्थभगवन्नामानभिज्ञाननिबन्धनमेव ।  
 यत्र ब्रह्मासाधारणलिङ्गदर्शनेन भौतिकाकाशादिवाचकाकाशादिपदानामाकाशस्तल्लिङ्गादिति परब्रह्मोपस्थाकत्वमास्तिषताचार्याः किमु तत्र भगवन्नामगणान्तःपातिनो रविसवितृपदयोर्भगवद्वाचकत्वविप्रतिपत्तिसमुत्थानशङ्काऽपि विदुषाम् ।  
 न च यानि नामानि गौणानि विख्यातानि महात्मनः ।  
 इत्यादिना सहस्रनामाचार्य एव गौणनामतामवोचदिति न तयोर्भगवद्रढत्वं किन्तु रवि -सवितृपदयोः कोशादिना दिवाकर एव रूढिरिति कथं भगवदसाधारण्यसंभावनापीति वाच्यम् ।  
@@ -4411,7 +5051,9 @@ at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 
 परिगीतानीत्यत्र परिपदमपि सहस्रनाम्नां रूढत्वमुपोद्वलयति ।  
 किंच सर्वधीप्रेरयितृत्वलक्षणान्तर्यामिकृत्यालिङ्गोपलम्भसामर्थ्येन अपि तस्या ब्रह्मासाधारण्यसिद्धिः ।  
 किं च प्रिय एव हि सर्वथा वरणीयो भवति नाप्रिय इति वरणीयत्वलिङ्गलिङ्गितत्वेनापि निरतिशयप्रियतमत्वेन ब्रह्मासाधारण्यसिद्धिरिति प्रव्यक्तम् ।  
-ततश्चर्षीणां लक्षणाग्रहाजन्यभूयःप्रयोगयोगेन नाम्नां रूढत्वसिद्ध्या सावित्रादिदेवताकत्वं परब्रह्मासाधारणदेवताकत्वसाधकमिति सुपुष्कलमवशिष्टं चास्मच्छिष्यैः सुनिरूपितमन्यत्रेति कृतमनभिज्ञनिग्रहसंनहनेन वैदिकमार्गनिष्कण्ठकीकरणप्रवृत्तानां सुदूरदृशाम् ॥)तानां तु भागवतानां सावित्र्यनुवचनादित्रयीधर्मबन्धस्य स्फुटतरमुपलब्धेर्न तत्त्यागनिमित्तव्रात्यत्वादिसंदेहं सहते ॥
+ततश्चर्षीणां लक्षणाग्रहाजन्यभूयःप्रयोगयोगेन नाम्नां रूढत्वसिद्ध्या सावित्रादिदेवताकत्वं परब्रह्मासाधारणदेवताकत्वसाधकमिति सुपुष्कलमवशिष्टं चास्मच्छिष्यैः सुनिरूपितमन्यत्रेति कृतमनभिज्ञनिग्रहसंनहनेन वैदिकमार्गनिष्कण्ठकीकरणप्रवृत्तानां सुदूरदृशाम् ॥
+</details>
+
 
 तत्तत्कल्पितयुक्तिभिस्शकलशः कृत्वा तदीअं मतं ।  
 यच्छिष्यैरुदमर्दि सात्त्वतमतस्पर्द्धावतामुद्धतिः ॥  
