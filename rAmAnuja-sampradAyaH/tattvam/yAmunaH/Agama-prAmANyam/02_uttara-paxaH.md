@@ -2956,7 +2956,8 @@ For in the case of Pañcaratra Sastra we have positive certainty that it is base
 श्रुतिप्रत्यक्षयोस्तत्र यतोमूलत्वनिश्चयः ।  
 </details>
 
-## वेद-मूलता
+## न वेद-बाह्यम्
+### वेद-मूलता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च श्रुतिमूलत्वे  
@@ -3193,7 +3194,7 @@ are easily answered by all those who have made a diligent study of the commentar
 एते च मन्वादिसमस्तस्मरणसाधारणाः पर्यनुयोगास्तन्त्रटीकाकृतपरिश्रमाणामनायासपरिहार्या इति नेह प्रपञ्च्यते ।  
 </details>
 
-## न वेद-निन्दा
+### न वेद-निन्दा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु चेदं वेद-मूलत्वं पञ्च-रात्र-तन्त्राणाम् अनुपपन्नं वेद-निन्दा-दर्शनात्, 
@@ -3527,7 +3528,7 @@ conveys that both Revelation and Pañcaratra have the same meaning.
 न हि वेदेष्वेवायं पुरुषार्थो न लभ्यते अतो वेदेषु यः पुरुषार्थस्तमलभमानः तदभिलाषी पञ्चरात्रशास्त्रमधीतवानिति पञ्चरात्रश्रुत्योरैकार्थ्यमेव प्रतीयते ।  
 </details>
 
-## दीक्षादौ
+### दीक्षादौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् पुनर् उक्तम् 
@@ -3590,10 +3591,15 @@ and if the latter is proved, it is proved that Pañcaratra Sastra is non Vedic.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किञ्च समस्तवैदिकसंस्कारेभ्यः संस्कारान्तरत्वं वा हेतुः,  
+किञ्च समस्त-वैदिक-संस्कारेभ्यः संस्कारान्तरत्वं वा हेतुः,  
 उत कतिपयेभ्यः संस्कारेभ्यः?  
 </details>
 
+<details><summary>English</summary>
+
+Moreover, the ground is either that the Pancarātra sacraments are different from all Vedic sacraments,  
+or that they are different from some Vedic sacraments. 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -3602,28 +3608,272 @@ and if the latter is proved, it is proved that Pañcaratra Sastra is non Vedic.
 उत कतिपयेभ्यः संस्कारेभ्यः?  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तावदनन्तरः कल्पः उपनयनादिसंस्कारस्यापि चौलादिसंस्कारात् संस्कारान्तरत्वेनावैदिकत्वप्रसङ्गात्, न चान्त्यः कल्पः, उक्तदोषानतिवृत्तेः, न ह्युपनयनं समस्तवैदिकसंस्कारेभ्यः संस्कारान्तरमसिद्धश्च समस्तविदिकसंस्कारव्यतिरेकः पञ्चरात्रशास्त्रस्यापि वैदिकत्वादित्युक्तमेव ।  
+न तावद् अनन्तरः कल्पः  
+उपनयनादि-संस्कारस्यापि चौलादि-संस्कारात् संस्कारान्तरत्वेनावैदिकत्व-प्रसङ्गात्, 
+</details>
+
+<details><summary>English</summary>
+
+Not the latter alternative,  
+for this would mean that the sacrament of Initiation ctc. is non-Vedic  
+because it is different from the sacrament of Tonsure; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न तावदनन्तरः कल्पः उपनयनादिसंस्कारस्यापि चौलादिसंस्कारात् संस्कारान्तरत्वेनावैदिकत्वप्रसङ्गात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चान्त्यः कल्पः - उक्त-दोषानतिवृत्तेः,  
+न ह्य् उपनयनं समस्त-वैदिक-संस्कारेभ्यः संस्कारान्तरम्।  
+असिद्धश्च समस्त-वैदिक-संस्कार-व्यतिरेकः -  
+पञ्च-रात्र-शास्त्रस्यापि वैदिकत्वाद् इत्य् उक्तम् एव ।  
+</details>
+
+<details><summary>English</summary>
+
+nor the first alternative,  
+because it does not escape the said defect?  
+for the sacrament of Initiation is not different from all Vedic sacraments;  
+and we have said that the difference (of Pañcarātra sacraments) from Vedic sacraments  
+is disproved on the ground that Pañcarātra Sastra is Vedic. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चान्त्यः कल्पः, उक्तदोषानतिवृत्तेः, न ह्युपनयनं समस्तवैदिकसंस्कारेभ्यः संस्कारान्तरमसिद्धश्च समस्तवैदिकसंस्कारव्यतिरेकः पञ्चरात्रशास्त्रस्यापि वैदिकत्वादित्युक्तमेव ।  
+</details>
+
+### विद्या-स्थान-परिगणना
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यद् अपि 
+
+> धर्म-प्रमाणत्वाभिमत-चतुर्-दश-विद्या-स्थानेष्व् अ-परिगणितत्वात्  
+> पाशुपतादितन्त्रवत् त्रयी-बाह्यत्त्वम् 
+
+इति तद् अपि द्वैपायन-वाल्मीकि-प्रणीत-भारत-रामायणादि-ग्रन्थैर् अनैकान्तिकम् ।  
+</details>
+
+<details><summary>English</summary>
+
+93\. The objection (supra § 17) that Pancarātra is outside the Veda,  
+because like the Pasupata Tantra it is not included among the fourteen sciences  
+which are held to be authoritative of dharma,  
+would also have an occasional application to the texts of the Bharata and Rāmāyaṇa composed by Dvaipayana and Valmiki. 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 यदपि धर्मप्रमाणत्वाभिमतचतुर्दशविद्यास्थानेष्वपरिगणितत्वात् पाशुपतादितन्त्रवत् त्रयीबाह्यत्त्वमिति तदपि द्वैपायन -वाल्मीकिप्रणीतभारतरामायणादिग्रन्थैरनैकान्तिकम् ।  
-यत्तु भगवता बादरायणेन निरस्तत्वादिति तदसत्, कथं हि भगवान् द्वैपायनः सकललोकादर्शभूतपरमभागवतो भागवतं शास्त्रं निरस्यतीत्युत्प्रेक्ष्येत ।  
-य एवमाह ।  
+</details>
+
+### व्यासेनाङ्गीकारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यत्तु "भगवता बादरायणेन निरस्तत्वाद्" इति तद् असत्,  
+कथं हि भगवान् द्वैपायनः सकल-लोकादर्श-भूत-परम-भागवतो  
+भागवतं शास्त्रं निरस्यतीत्य् उत्प्रेक्ष्येत ।  
+</details>
+
+<details><summary>English</summary>
+
+The objection that Pancharatra is non-Vedic  
+because it is rejected by the blessed Badarayana is incorrect.  
+For how could the blessed dvaipAyana be thought to reject the Bhagavata doctrine,  
+while he himself is a supreme Bhagavata,  
+model for the all the world?
+</details >
+
+<details><summary>English - Notes</summary>
+
+[[140]] The author of the Brahmasutras is identified with Vyasa Dvaipayana, composer of the Mahabharata
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+यत्तु भगवता बादरायणेन निरस्तत्वादिति तदसत्,  
+कथं हि भगवान् द्वैपायनः सकललोकादर्शभूतपरमभागवतो भागवतं शास्त्रं निरस्यतीत्युत्प्रेक्ष्येत ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+य एवमाह -  
+
+> इदं शतसहस्राद्धि  
+भारताख्यानविस्तरात् ।  
+**आविध्य** मतिमन्थानं  
+दघ्नो घृतम् **इवोद्धृतम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+[[79]] 
+This has been extracted from the Bharata in its full length of thousand Slokas after it had been churned with the stick of thought,  
+as butter is extracted from curds, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+य एवमाह -  
 इदं शतसहस्राद्धि भारताख्यानविस्तरात् ।  
-आविध्य मतिमन्थानं दघ्नो घृतमिवोद्धृतम् ॥  
+आविध्य मतिमन्थानं दघ्नो घृतमिवोद्धृतम् ॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> नवनीतं यथा दघ्नो  
+द्विपदां ब्राह्मणो यथा ।  
+आरण्यकं च वेदेभ्य  
+ओषधीभ्यो यथाऽमृतम् ॥  
+</details>
+
+<details><summary>English</summary>
+
+and curds from milk,  
+the Brahmin from the bipeds,  
+the Aranyaka from the Vedas,  
+and the amṛta from the herbs 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 नवनीतं यथा दघ्नो द्विपदां ब्राह्मणो यथा ।  
 आरण्यकं च वेदेभ्य ओषधीभ्यो यथाऽमृतम् ॥  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदं महोपनिषदं  
+चतुर्-वेद-समन्वितम् ।  
+साङ्ख्य-योग-कृतान्तेन  
+पञ्च-रात्रानु-**शब्दितम्** ॥
+</details>
+
+<details><summary>English</summary>
+
+this Mahopanisada which is consistent with the four Vedas and the demonstrations of Sankhya and Yoga is called the Pañcaratra. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 इदं महोपनिषदं चतुर्वेदसमन्वितम् ।  
-साङ्ख्ययोगकृतान्तेन पञ्चरात्रानुशब्दितम् ॥  
+साङ्ख्ययोगकृतान्तेन पञ्चरात्रानुशब्दितम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदं श्रेय इदं ब्रह्म  
+इदं हितम् अनुत्तमम् ।  
+ऋग्-यजुस्-सामभिर् जुष्टम्  
+अथर्वाङ्गिरसैस् तथा ॥  
+</details>
+
+<details><summary>English</summary>
+
+This is bliss, this is brahman,  
+this is the summum bonum.  
+Being consistent with Rk, Yajuh and Saman and the Atharvāngirasas,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 इदं श्रेय इदं ब्रह्म इदं हितमनुत्तमम् ।  
 ऋग्यजुस्सामभिर्जुष्टमथर्वाङ्गिरसैस्तथा ॥  
+</details>
+  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भविष्यति प्रमाणं वै एतदेवानुशासनम् ।  
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+this discipline will of a certainty be authoritative. (Mahabharata, 12 340 (129.76) ff.)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 भविष्यति प्रमाणं वै एतदेवानुशासनम् ।  
-इति, भीष्मपर्वण्यपि ।  
+इति, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भीष्म-पर्वण्य् अपि -  
+
+> ब्रह्मणैः क्षत्रियैर् वैश्यैः  
+शूद्रैश् च कृत-लक्षणैः ।  
+**अर्चनीयश्** च **सेव्यश्च**  
+**पूजनीयश्** च माधवः ॥  
+</details>
+
+<details><summary>English</summary>
+
+And in the Bhismaparvan too: 
+
+"Brahmins, Ksatriyas, Vaisyas and Sūdras as described are all to worship, serve and honour Madhava  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भीष्मपर्वण्यपि -  
+
 ब्रह्मणैः क्षत्रियैर्वैश्यैः शूद्रैश्च कृतलक्षणैः ।  
 अर्चनीयश्च सेव्यश्च पूजनीयश्च माधवः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सात्त्वतं विधिम् आस्थाय  
+**गीतस्** संकर्षणेन यः ।  
+द्वापरस्य युगस्यान्ते  
+आदौ कलियुगस्य च ॥
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+according to the Satvata ritual that has been promulgated by Samkarṣaṇa,  
+at the end of the Dvapara age and the beginning of the Kali age." (Mahabharata, 6.66 (3012).) 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 सात्त्वतं विधिमास्थाय गीतस्संकर्षणेन यः ।  
 द्वापरस्य युगस्यान्ते आदौ कलियुगस्य च ॥
 
-इति ।  
-तथा शान्तिपर्वण्यपि ।  
+इति । 
+</details>
+
+
+ 
+तथा शान्तिपर्वण्यपि  -  
 अवश्यं वैष्णवो दीक्षां प्रविशेत् सर्वयत्नतः ।  
 दीक्षिताय विशेषेण प्रसीदेन्नान्यथा हरिः ॥  
 वसन्ते दीक्षयेद्विप्रं ग्रीष्मे राजन्यमेव च ।  
@@ -3636,7 +3886,7 @@ and if the latter is proved, it is proved that Pañcaratra Sastra is non Vedic.
 वेदान्तसारसर्वस्वमात्मीयं परमं मतम् ।  
 पञ्चरात्रं निराकुर्यात् कथं द्वैपायनः स्वयम् ।  
 
-## ब्रह्म-सूत्रे ऽनिराकारः
+### ब्रह्म-सूत्रे ऽनिराकारः
 कथं तर्हीदं सूत्रम् उत्प्रत्यसंभवात् इति किं वाऽस्य सूत्रस्य हृदयम् इदमस्य सूत्रस्य, भागवतशास्त्रे जीवोत्पत्तेः प्रतिपाद्यमानत्वात् तस्याश्च श्रुतिन्यायविरोधेनासम्भवादसमीचीनं शास्त्रमिति, यद्येष सूत्रार्थस्तर्हि पञ्चरात्रशास्त्रनिराकरणपरं सूत्रम्,  न हि पञ्चरात्रशास्त्रेषु जीवोत्पत्तिरङ्गीकृता येनैवमुच्यते ।  
 नन्वस्तीदं वचनं वासुदेवः परा प्रकृतिः परमात्मा ततस्संकर्षणो नाम जीवो जायते सङ्कर्णात् प्रद्युम्नसंज्ञं मनो जायते ततोऽनिरुद्धनामा अहङ्कारो जायते ।  
 इति,
