@@ -1,6 +1,7 @@
 +++
 title = "यतिराजोपाख्यानम्"
 +++
+[[TODO - proofread]]
 
 11 : 11 श्रीमते भगवद्रामानुजाय नमः 
 SRI PADUKAMANDIRAM SERIAL NO 1. 
