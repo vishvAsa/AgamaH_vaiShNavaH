@@ -151,30 +151,7 @@ All this has already been explained in great detail in the Purusanirnayals and i
 ### ...
 
 
-
-
-75 
-Or if, in order to justify this oblivion, the standpoint is taken that the doctrine is based on a Vedic sakha which has been lost or which is always deducible, then whatever doctrine a person adopts he can always make authoritative simply by attributing it to a lost śākhā; however, it is hard to prove what a lost or deducible śākhā actually contain. 
-Or if these traditions are based on an extant Sakha, then others would know it as well as the author, and hence his taking the trouble of promulgating these texts would be purposeless. 
-REFUTATION. The reply to this is as follows: The Bhagavan, who has an immediate presentation of the entire collection of the Veda by virtue of the perfect knowledge that is natural to Him, observed that his devotees were not firm enough in their minds to retain and transmit the lessons of all the various sakhas which consist of widely scattered injunctions, artharadas and mantras of many different kinds, and having observed this he was moved by his compassion to condense the meaning of the Veda in an easily comprehensible way and to teach it so. On this showing nothing is unestablished. As they say "The blessed Hari took the essence of the Upanisads and condensed it, the Sage, out of compassion with his devotees for their con
-venience." 
-The other objections made, which are equally applicable to all Traditions of Manu and the others, are easily answered by all those who have made a diligent study of the commentaries on the Tantras and are not further enlarged upon here. 
-76 
-ADAMIA PRAMAYYAM 
-90\. OBJECTION. The thesis that the Pancaratra Tantras are based on the Veda is disproved by the fact that we find in these very Tantras a condemnation of the Veda. For it is said that Sandilya, failing to find a meaning of human importance in the four Vedas, learnt this distra. 
-For 
-REFUTATION. This is the objection of someone who does not know the distinct meaning of the statement. For this censure does not mean to censure something deserving of censure, but rather to praise something else than that which is censured. instance, in the Aitareya Brahmana the censure passed on the pre-dawn oblation "Morning upon morning they speak untruth," is understood to praise the post-dawn oblation. It is as in the ManavadharmaSistra: "The Rgveda is of gods and deities, the Yajurveda of man, and the Samaveda of the deceased; therefore its sound is impure;" here the censure of the Samaveda serves to praise the other Vedas. Or as in the Mahabharata: "Formerly the assembled seers placed the four Vedas and the Mahabharata in the balance, one at one side, the other at the other side. And since in bulk and in weight the latter preponderated, it is called the Great Bharata for its bulk and weight." This is said, notto belittle the Vedas, but to bestow praise on the Mahabharata. In this same way the above statement must be taken as praise of the Pancarãtra. Just as the censure of the pre-dawn oblation etc. does not really intend censure, since elsewhere in the same texts they are praised, so will it be in our case too. In Pañcaratra, too, we frequently find praise of the Veda; for example: "Nothing that 
-
-77 
-is made up of words is superior to the Veda, thou who art seated on the Lotus. That is said by the Upanisads which set forth the knowledge of truth" etc. 
-91\. Besides in the quotation caturşu vedeşul99 the meaning is not that there is no purpose of human importance in the Vedas but simply "failing to find the purpose of human importance which is in the Vedas..." 
-OBJECTION. However, the principal connection in this sentence is between "failing to find" and "a purpose of human importance;" not between "purpose of human importance" and "in the Vedas." 
-REFUTATION. Don't argue like that, for there is no negation in the sentence. For it is not so that this purpose of human importance is absent from the Vedas; hence the sentence "failing to find that purpose of human importance which is in the Vedas, and desirous of finding it, he learnt the Pañcarātra Sastra," conveys that both Revelation and Pañcaratra have the same meaning. 
-92\. The further objection that Pañcaratra is non-Vedic because of the injunction that those who are qualified for Vedic sacraments etc. must undergo such sacraments described as Consecration because they are propitiations of the Lord, does not hold good. For such statements as agnavaiṣṇavam.. 201 which enjoin the sacrament of consecration upon those qualified for Initiation etc. as accessory to the ritual of the jyotiştoma etc. do not therefore become non-Vedic. 
-Or if the ground for its non-Vedic character is the injunction of sacraments other than the Vedic ones, 
-78 
  
-the ground is inappropriate, because of the circular argument it involves: only if the non-Vedic character of Pancarātra Sastra is proved, it is proved that these sacraments arc rcally different; and if the latter is proved, it is proved that Pañcaratra Sastra is nonVedic. 
 Moreover, the ground is either that the Pancarātra sacraments are different from all Vedic sacraments, or that they are different from some Vedic sacraments. Not the latter alternative, for this would mean that the sacrament of Initiation ctc. is non-Vedic because it is different from the sacrament of Tonsure; nor the first alternative, because it does not escape the said defect? for the sacrament of Initiation is not different from all 
 Vedic sacraments; and we have said that the difference (of Pañcarātra sacraments) from Vedic sacraments is disproved on the ground that Pañcarātra Sastra is Vedic. 
 93\. The objection202 that Pancarātra is outside the Veda, because like the Pasupata Tantra it is not included among the fourteen sciences which are held to be authoritative of dharma, would also have an occasional application to the texts of the Bharata and Rāmāyaṇa composed by Dvaipayana and Valmiki. 
@@ -533,18 +510,11 @@ Purana that Yamuna's text had different readings, not all of them better.
 
 
 
-[191]:  
-[192]:  
-[193]:  
-[194]:  
-[195]:  
-[196]:  
-[197]: Manusmrti, 4.124. 
-[199]: Mahabharata 1.265 f 
-[199]: supra §17 
-[200]: Supra § 17 
-[201]: āgnavaispava, name of a sacrificial cake offered at the 
-dikşaniyeşti. 
+[197]:  
+[199]:  
+[199]:  
+[200]:  
+[201]:  
 18 
 140 
 [202]: supra § 17. 
