@@ -176,7 +176,9 @@ title = "Notes"
 
 248 supra § 59.
 
-[249]: Quotations not identified; the groups enumerated are düdras, and yet by Vedic injunction have to observe, ie., to accept, the few Vedic injunctions addressed to them Do they by their acceptance invafifate these injunctions? [250]: not identified.
+[249]: Quotations not identified; the groups enumerated are shüdras, and yet by Vedic injunction have to observe, ie., to accept, the few Vedic injunctions addressed to them. Do they by their acceptance invalidate these injunctions? 
+
+[250]: not identified.
 
 [251]: read desaklasamsthaniditi.
 

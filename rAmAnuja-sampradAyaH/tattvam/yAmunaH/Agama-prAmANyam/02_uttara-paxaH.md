@@ -5061,11 +5061,182 @@ but by the deficiency of its cause, [[100]]
 </details>
 
 ### ऋषि-परिग्रहः
-उक्तश्च वैदिकसमस्तास्तिकप्रवरभृगु -भरद्वाज -द्वैपायनप्रभृति -महर्षिजनपरिग्रहः, अद्यत्वेऽपि हि पञ्चरात्रतन्त्रविहितमार्गेण प्रासादकरण -प्रतिमाप्रतिष्ठापन -प्रणाम -प्रदक्षिणोत्सवादीनि प्रत्यक्षश्रुतिविहिताग्निहोत्रादिवत् श्रेयस्करतरबुद्ध्याऽनुतिष्ठतः शिष्टान् पश्यामः, न चैतदाचरणं निर्म्मूलमिति युक्तं सन्ध्यावन्दनाष्टकाचरणादेरपि निर्मूलत्वप्रसङ्गात्, उक्तं च शिष्टाचारस्य प्रामाण्यम् अपि वा कारणाग्रहणे प्रयुक्तानि प्रतीयेरन्निति ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्तश्च वैदिक-समस्तास्तिक-प्रवर-भृगु-भरद्वाज-द्वैपायन-प्रभृति-मह-र्षि-जन-परिग्रहः, 
+</details>
+
+<details><summary>English</summary>
+
+119\. We have already said that Pancarâtra has been accepted by the Vedic, and among all orthodox pre-eminent, sages Bhṛgu, Bharadvāja, Dvaipāyaṇa etc. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उक्तश्च वैदिकसमस्तास्तिकप्रवरभृगु -भरद्वाज -द्वैपायनप्रभृति -महर्षिजनपरिग्रहः, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्यत्वेऽपि हि पञ्च-रात्र-तन्त्र-विहित-मार्गेण  
+प्रासाद-करण--प्रतिमा-प्रतिष्ठापन--प्रणाम-प्रदक्षिणोत्सवादीनि प्रत्यक्ष-श्रुति-विहिताग्निहोत्रादिवत् श्रेयस्-करतर-बुद्ध्या ऽनुतिष्ठतः शिष्टान् पश्यामः, 
+</details>
+
+<details><summary>English</summary>
+
+And in the present day we can also observe how exemplary persons of great learning,  
+believing that these rites are most effective in attaining bliss,  
+perform the rites of temple-building, erection of idols, prostration, circumambulation and particular festival ceremonies,  
+just as they perform the agnihotra and other rituals enjoined directly by Scripture. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अद्यत्वेऽपि हि पञ्चरात्रतन्त्रविहितमार्गेण प्रासादकरण -प्रतिमाप्रतिष्ठापन -प्रणाम -प्रदक्षिणोत्सवादीनि प्रत्यक्षश्रुतिविहिताग्निहोत्रादिवत् श्रेयस्करतरबुद्ध्याऽनुतिष्ठतः शिष्टान् पश्यामः, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चैतदाचरणं निर्मूलम् इति युक्तं  
+सन्ध्या-वन्दनाष्टका-चरणादेर् अपि निर्मूलत्व-प्रसङ्गात्, 
+</details>
+
+<details><summary>English</summary>
+
+And it is improper to maintain that their conduct has no foundation,  
+for that would entail that such smārta rites as crepuscular worship, astaka etc., are similarly without foundation. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न चैतदाचरणं निर्म्मूलमिति युक्तं सन्ध्यावन्दनाष्टकाचरणादेरपि निर्मूलत्वप्रसङ्गात्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उक्तं च शिष्टाचारस्य प्रामाण्यम् - अपि वा कारणाग्रहणे -  
+प्रयुक्तानि प्रतीयेरन्न् इति ।
+</details>
+
+<details><summary>English</summary>
+
+It has been said that the conduct of exemplary people is authoritative,26  
+and also that even when they do not know the cause of their custom,  
+they do know what is proper custom.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उक्तं च शिष्टाचारस्य प्रामाण्यम् अपि वा कारणाग्रहणे प्रयुक्तानि प्रतीयेरन्निति ।
+</details>
+
+### भागवत-परिग्रहे ऽदोषः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ भागवत-जन-परिगृहीतत्वाद् इति +++(अप्रामाण्ये)+++ हेतुः,  
+हन्त तर्हि तत्-परिगृहीतत्वाद् वाजसनेयकैकायन-शाखा-वचसां प्रत्यक्षादीनां चाप्रामाण्यप्रसङ्गः ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+120\. If the ground for the invalidity of Pañcaratra is that it is accepted by Bhagavatas, well, then the scriptural statements of the Ekayana Sakha and the Vājasaneyaka sakhas and the means of knowledge Perception, Inference etc., would also be invalid since the Bhagavatas accept those too! 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अथ भागवतजनपरिगृहीतत्वादिति हेतुः, हन्त तर्हि तत्परिगृहीतत्वाद् वाजसनेयकैकायनशाखावचसां प्रत्यक्षादीनां चाप्रामाण्यप्रसङ्गः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ "तैर् एव परिगृहीतत्वाद्" इति +++(अप्रामाण्ये)+++ हेतुः  
+तद्-असाधारणानैकान्तिकम्, असिद्धञ्च ।  
+</details>
+
+
+<details><summary>English</summary>
+
+This same ground, moreover, namely that Pancarãtra is invalid because it is accepted by the Bhagavatas, suffers from two defects; it is both specially-occasional and unproved.249
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
 अथ तैरेव परिगृहीतत्वादिति हेतुः तदसाधारणानैकान्तिकम्, असिद्धञ्च ।  
-किमिति वा तत्परिग्रहादप्रामाण्यम् अत्रैवर्णिकत्वादिति चेत् किं भोः त्रैवर्णिकेतरसवर्णरथकारनिषादादिपरिगृहीतानुष्ठीयमानार्थानामाथर्वणवचसां रथकार आदधीत एतया निषादस्थपतिं याजयेत् इत्यादिवचसां प्रामाण्यं नास्ति ।  
-अस्तुवाऽत्रवर्णिकपरिग्रहोऽप्रामाण्यहेतुः, एतेषां तु भगच्छास्त्रानुगामिनां भागवतानामुत्कृष्टब्राह्मण्यं सर्वप्रमाणसमवगतमिति तत्परिग्रहः प्रामाण्यमेव द्रढयति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+किमिति वा तत्परिग्रहादप्रामाण्यम्? 
+</details>
+
+<details><summary>English</summary>
+
+Why is Pancaratra rendered invalid by their acceptance? 
+</details>
+
+<details><summary>मूलम्</summary>
+
+किमिति वा तत्परिग्रहादप्रामाण्यम्? 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"अत्रैवर्णिकत्वाद्" इति चेत्  
+किं भोः त्रैवर्णिकेतर-सवर्ण-रथकार-निषादादि-परिगृहीतानुष्ठीयमानार्थानाम् आथर्वणवचसां  
+"रथकार आदधीत" "एतया निषादस्थपतिं याजयेत्" इत्यादि-वचसां प्रामाण्यं नास्ति ?  
+</details>
+
+<details><summary>English</summary>
+
+If it is because they do not belong to the three estates,  
+then the Atharvanic statements whose content is accepted and observed by rathakaras, nisadas and other groups  
+which do not belong to the three estates  
+(Statements like "The rathakara must add fuel,"  
+"With [[101]] that he must sacrifice for the chief of the Nişādas," etc.)  
+would also be invalid.
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+अत्रैवर्णिकत्वादिति चेत् किं भोः त्रैवर्णिकेतरसवर्णरथकारनिषादादिपरिगृहीतानुष्ठीयमानार्थानामाथर्वणवचसां रथकार आदधीत एतया निषादस्थपतिं याजयेत् इत्यादिवचसां प्रामाण्यं नास्ति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अस्तुवाऽत्रवर्णिक-परिग्रहो ऽप्रामाण्य-हेतुः,  
+एतेषां तु भगवच्-छास्त्रानुगामिनां भागवतानाम्  
+उत्कृष्ट-ब्राह्मण्यं सर्व-प्रमाण-समवगतम् इति  
+तत्-परिग्रहः प्रामाण्यम् एव द्रढयति ।  
+</details>
+
+<details><summary>English</summary>
+
+Or, be it granted that the acceptance of certain rites by outcastes renders them invalid;  
+yet, in view of the fact that the eminent brahminhood of these Bhagavatas  
+who follow the doctrine of the Bhagavān  
+is evident by all criteria of knowledge,  
+their acceptance of Pañcaratra rather confirms its validity.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अस्तुवाऽत्रवर्णिकपरिग्रहोऽप्रामाण्यहेतुः, एतेषां तु भगवच्छास्त्रानुगामिनां भागवतानामुत्कृष्टब्राह्मण्यं सर्वप्रमाणसमवगतमिति तत्परिग्रहः प्रामाण्यमेव द्रढयति ।  
+</details>
+
+
 आह केन पुनः प्रमाणेनैषां ब्राह्मण्यमवगतम्,  केन वाऽन्येषाम् ।  
 ननु चक्षुर्विस्फारणसमनन्तरं शिखा -यज्ञोपवीत -पालाशदण्ड -मौञ्जीयुजो द्विजकुमारकान् पश्यन्तो ब्राह्मणा इत्यवगच्छन्ति इह वा किमहरहरधीयमानवाजसनेयकैकायनशाखान् विलसदुपवीतोत्तरीयशिखाशालिनोऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः पश्यन्तो ब्राह्मणा इति नावयन्ति ।  
 अथ याजन -प्रवचन -पालाशदण्डादीनां दुष्टशूद्रादिषु व्यभिचारसंभवाद् ब्राह्मण्यसिद्धवत्कारेण प्रवृत्तेश्च न तेभ्यो ब्राह्मण्य निर्णयः, तद्भागवतेतरविप्राणमपि समानम् ।  
