@@ -139,12 +139,6 @@ title = "Notes"
 
 ## 
 [[141]] 
-225, 
-226. 
-
-[227]: 
-
-
 
 [228]: Vaisnava rite observed five times a day: pañcakálika.
 
@@ -174,13 +168,7 @@ title = "Notes"
 
 [241]: Manusmrti, 8.107.
 
-[242]: People who do prohibited acts follow Vedic expiations; but if acceptance by people who commit forbidden acts is sufficient to deny the validity of what they accept, this means that the validity of the Veda would be denied.
-
-[243]: Manusmrti.
-
-[244]: supra § 17: this Buddhist injunction is outside the Veda [245]: in one sense.
-
-For the observance of a prohibition is as much a ritual action as the observance of an injunction.
+## 
 
 [246]: supra §14.
 
