@@ -3659,7 +3659,7 @@ mantra and arthavada: the terms indicate that the Naiyayika continues to address
 चेतनेतरायमाण-जीव-जालावलोकन-जनित-महानुग्रहः +++(5)+++… 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>राममिश्रशास्त्री</summary>
 
 आदिकले - प्रलयकाले।  
 यथा हि जडास्  

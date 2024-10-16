@@ -9,6 +9,14 @@ Source: [SA EN](https://archive.org/details/AgamaPramanyamSktEng/page/7/mode/1up
 
 Source: [EN](https://archive.org/details/yamunacharya/page/n7/mode/2up)
 
+<details><summary>राममिश्रशास्त्री</summary>
+
+The āgamaprāmānyam by śrī yāmunācāryaswāmin the Paramaguru of śrībhāśyācārya.  
+Edited by A.S.T.S.P.S.M.M. M. rāmamiśraśāstri, Professor Sanskrit College  
+1937
+</details>
+
+
 **श्रीः**
 
 **श्रीयै नमः**
