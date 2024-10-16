@@ -5060,7 +5060,7 @@ but by the deficiency of its cause, [[100]]
 न तत्परिग्रहान्मिथ्या किन्तु कारणदोषतः ॥
 </details>
 
-### ऋषि-परिग्रहः
+### शिष्ट-परिग्रहः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उक्तश्च वैदिक-समस्तास्तिक-प्रवर-भृगु-भरद्वाज-द्वैपायन-प्रभृति-मह-र्षि-जन-परिग्रहः, 
@@ -5236,22 +5236,232 @@ their acceptance of Pañcaratra rather confirms its validity.
 अस्तुवाऽत्रवर्णिकपरिग्रहोऽप्रामाण्यहेतुः, एतेषां तु भगवच्छास्त्रानुगामिनां भागवतानामुत्कृष्टब्राह्मण्यं सर्वप्रमाणसमवगतमिति तत्परिग्रहः प्रामाण्यमेव द्रढयति ।  
 </details>
 
+### ब्राह्मण्य-प्रमाणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आह केन पुनः प्रमाणेनैषां ब्राह्मण्यमवगतम्,  केन वाऽन्येषाम् ।  
-ननु चक्षुर्विस्फारणसमनन्तरं शिखा -यज्ञोपवीत -पालाशदण्ड -मौञ्जीयुजो द्विजकुमारकान् पश्यन्तो ब्राह्मणा इत्यवगच्छन्ति इह वा किमहरहरधीयमानवाजसनेयकैकायनशाखान् विलसदुपवीतोत्तरीयशिखाशालिनोऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः पश्यन्तो ब्राह्मणा इति नावयन्ति ।  
+</details>
+
+<details><summary>English</summary>
+
+He says: By the same means of knowledge by which the brahminhood of one set of people is evident  
+the brahminhood of another set of people is evident.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+आह केन पुनः प्रमाणेनैषां ब्राह्मण्यमवगतम्,  केन वाऽन्येषाम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ननु चक्षुर्-विस्फारण-समनन्तरं शिखा-यज्ञोपवीत--पालाश-दण्ड--मौञ्जी-युजो द्विज-कुमारकान् **पश्यन्तो**  
+"ब्राह्मणा" इत्य् **अवगच्छन्ति**।  
+</details>
+
+<details><summary>English</summary>
+
+121\. OBJECTION. But when one sees the small sons of the twice-born who wear the customary hairtuft, sacred thread, palasa wood stick and munjagrass girdle, one knows, the moment the eyes fall on them, that they are brahmins.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ननु चक्षुर्विस्फारणसमनन्तरं शिखा -यज्ञोपवीत -पालाशदण्ड -मौञ्जीयुजो द्विजकुमारकान् पश्यन्तो ब्राह्मणा इत्यवगच्छन्ति 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इह वा किम् अहर् अहर् अधीयमान-वाजसनेयकैकायन-शाखान् विलसद्-उपवीतोत्तरीय-शिखा-शालिनो ऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः **पश्यन्तो** ब्राह्मणा इति नावयन्ति ।  
+</details>
+
+<details><summary>English</summary>
+
+REFUTATION. And in our case, when one sees learned people who day after day study the Vajasaneyaka and Ekāyana śākhās, wear prominently their sacred threads, upper garments and hairtufts, impart teaching, sacrifice, receive priestly stipends---does one not instantly know that they are brahmins? 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इह वा किमहरहरधीयमानवाजसनेयकैकायनशाखान् विलसदुपवीतोत्तरीयशिखाशालिनोऽध्यापयतो याजयत प्रतिगृह्णतो विदुषः ****पश्यन्तो**** ब्राह्मणा इति नावयन्ति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ 
+
+> याजन-प्रवचन-पालाश-दण्डादीनां दुष्ट-शूद्रादिषु व्यभिचार-संभवाद्  
+ब्राह्मण्य-सिद्धवत्-कारेण प्रवृत्तेश् च  
+न तेभ्यो ब्राह्मण्य निर्णयः, 
+
+तद्-भागवतेतर-विप्राणम् अपि समानम् ।  
+</details>
+
+<details><summary>English</summary>
+
+If it be held that outcastes, low-caste people etc., may also illegitimately sacrifice, teach, carry palata sticks etc. and that they behave as though they were legitimate brahmins, and that therefore neither costume nor conduct provides positive certainty that a man is a brahmin, then the same applies to other priests than Bhagavatas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 अथ याजन -प्रवचन -पालाशदण्डादीनां दुष्टशूद्रादिषु व्यभिचारसंभवाद् ब्राह्मण्यसिद्धवत्कारेण प्रवृत्तेश्च न तेभ्यो ब्राह्मण्य निर्णयः, तद्भागवतेतरविप्राणमपि समानम् ।  
-अथ सत्यपि तेषां क्वचिद्व्यभिचारे तत्सामान्यादन्यत्र व्यभिचारशङ्कायां शुक्तौ रजतधियो व्यभिचारात् रजते रजतधियां व्यभिचारशङ्कावत् प्रत्यक्षविरोधात् अनवस्थानाच्च अनुपलभ्यमानव्यभिचारोदाहरणेषु तथात्वनिश्चयस्तदन्यत्रापि समानम् ।  
-अथ मतम् अन्येषां ब्राह्मण्यं तदसाधारंअगोत्रस्मरणादिति, तद् भागवतानामपि समानम्, स्मरन्ति हि भागवताः ।  
-वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।  
-न चेदं गोत्रस्मरणं निर्मूलं साम (आधुनिकम्)यिकं वा सर्वगोत्रस्मरणानां तथाभावप्रसङ्गात् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ सत्यपि तेषां क्वचिद् व्यभिचारे,  
+तत्-सामान्याद् अन्यत्र व्यभिचार-शङ्कायां  
+शुक्तौ रजत-धियो व्यभिचारात्,  
+रजते रजत-धियां व्यभिचार-शङ्कावत् प्रत्यक्ष-विरोधात् अनवस्थानाच् च  
+अनुपलभ्यमान-व्यभिचारोदाहरणेषु तथात्व-निश्चयस्,  
+तद्-अन्यत्रापि समानम् ।+++(5)+++  
+</details>
+
+<details><summary>English</summary>
+
+Or be it granted that there are cases where people illegitimately display the marks of brahminhood;  
+still, [[102]] though there may be doubt about the legitimacy of these marks in others because of their resemblance to pretenders  
+(just as when there is a doubt that one may be mistaken about real silver too because one has mistaken nacre for silver),  
+then there can be certainty of their being genuine brahmins  
+in all cases when no misapprehension occurs,  
+because otherwise doubt would conflict with Perception  
+and lead to infinite regress.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अथ सत्यपि तेषां क्वचिद्व्यभिचारे  
+तत्सामान्यादन्यत्र व्यभिचारशङ्कायां शुक्तौ रजतधियो व्यभिचारात् रजते रजतधियां व्यभिचारशङ्कावत् प्रत्यक्षविरोधात् अनवस्थानाच्च अनुपलभ्यमानव्यभिचारोदाहरणेषु तथात्वनिश्चयस्तदन्यत्रापि समानम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अथ मतम् अन्येषां ब्राह्मण्यं तद्-असाधारण-गोत्र-स्मरणाद् इति,  
+तद् भागवतानामपि समानम्,   
+</details>
+
+<details><summary>English</summary>
+
+122\. Or if it be held that the others are genuine brahmins because they recollect those gotras which are peculiar to brahmins, the same applies to the Bhagavatas; 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अथ मतम् अन्येषां ब्राह्मण्यं तदसाधारणगोत्रस्मरणादिति, तद् भागवतानामपि समानम्,   
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्मरन्ति हि भागवताः -  
+वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।
+</details>
+
+<details><summary>English</summary>
+
+for the Bhagavatas have the tradition: "We are descendants of Bharadvaja, of Kasyapa, of Gotama, of Upagava." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्मरन्ति हि भागवताः -  
+वयं भारद्वाजाः वयं काश्यपाः वयं गौतमाः वयमौपगवा इति ।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न चेदं गोत्रस्मरणं निर्मूलं सामयिकं (आधुनिकम्) वा  
+सर्वगोत्रस्मरणानां तथाभावप्रसङ्गात् ।  
+</details>
+
+<details><summary>English</summary>
+
+Nor is this recollection or tradition of gotras unfounded or merely contemporary, for the same can be argued for all tradition of gotras. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+न चेदं गोत्रस्मरणं निर्मूलं सामयिकं (आधुनिकम्) वा सर्वगोत्रस्मरणानां तथाभावप्रसङ्गात् ।  
+</details>
+  
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संभाव्यमान-दोषत्वाद्  
+वंशानां यदि संशयः ।  
+तद्-ब्राह्मण्ये ततो लोकं  
+सर्वं **व्याकुलयेद्** अयम् ॥
+</details>
+
+<details><summary>English</summary>
+
+If there were doubt about descent since error could conceivably occur,  
+this would confuse the whole world about the authenticity of their brahminhood. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 संभाव्यमानदोषत्वाद् वंशानां यदि संशयः ।  
 तद्ब्राह्मण्ये ततो लोकं सर्वं व्याकुलयेदयम् ॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा हि ।  
+
+जननी-जार-सन्देह-  
+**जातश्** चण्डाल-संशयः ।  
+**निर्विशङ्कः** कथं वेदम्  
+**अधीषे** साधु सत्तम +++(प्रतिवादिन्)+++? ॥
+</details>
+
+<details><summary>English</summary>
+
+After all, anyone may fear that he really is a candala  
+if he suspects his mother of having had a lover;   
+and how, my excellent opponent, can you be quite sure yourself that your birth entitled you to Veda-study? 
+</details>
+
+<details><summary>मूलम्</summary>
+
+तथा हि ।  
+
 जननीजारसन्देहजातश्चण्डालसंशयः ।  
 निर्विशङ्कः कथं वेदमधीषे साधु सत्तम? ॥
+</details>
 
-तेन भागवतानामविच्छिन्नपरम्पराप्राप्तविचित्रगोत्रस्मरणपर्यवस्थापितं ब्राह्मण्यमनपोदितमास्ते इति न भागवतानामम्येषाञ्च ब्राह्मण्ये कश्चिद्विशेषः ।  
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तेन भागवतानाम् अ-विच्छिन्न-परम्-परा-प्राप्त--विचित्र-गोत्र-**स्मरण--पर्यवस्थापितं**  
+ब्राह्मण्यम् **अनपोदितम् आस्ते**  
+इति न भागवतानाम् अन्येषाञ्च ब्राह्मण्ये कश्चिद् विशेषः ।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore if the brahminhood of Bhagavatas,  
+which is completely established by the recollection of the various gotras  
+which has been passed on in uninterrupted transmission, stands unchallenged,  
+then there is no difference whatever in this  
+between the brahminhood of Bhagavatas and of others.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तेन भागवतानामविच्छिन्नपरम्पराप्राप्तविचित्रगोत्रस्मरणपर्यवस्थापितं ब्राह्मण्यमनपोदितमास्ते इति न भागवतानामन्येषाञ्च ब्राह्मण्ये कश्चिद्विशेषः ।  
+</details>
+
+
 यदि परं ते परमपुरुषमेवाश्रिता एकान्तिनः, अन्ये क्षुद्रदैवतिका (तांस्तु भगवानेव तेष्पि मामेव कौन्तेय यजन्त्यविधिपूर्वकमिति विनिनिन्द ।)स्साधारणा इति, किं पुनरेतेषां ब्राह्मण्ये प्रमाणमभिहितं यदेवान्येषाम्,  केन वा तेषां ब्राह्मण्यमवगतम् किन्न (न केवलं ममैव ब्राह्मण्यनिरूपण्यनिरुपणभार आवयोरुभयोरेव तस्य निरूपणीयत्वेन समत्वादिति भावः ।) एतेन, यदि च कौतूहलम् ।  
 श्रूयतामुभयत्रापि ब्राह्मण्यस्यावधारकम् ।  
 प्रत्यक्षं वाऽनुमानं वा यद्वाऽर्थापत्तिरेव वा ॥
