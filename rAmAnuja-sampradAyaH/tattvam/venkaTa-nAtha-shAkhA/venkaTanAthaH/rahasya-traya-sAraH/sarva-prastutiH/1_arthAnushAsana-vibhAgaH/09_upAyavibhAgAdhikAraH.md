@@ -2515,6 +2515,15 @@ and who cannot endure delay in attaining mokṣa .
 सम्यक् **प्रेक्ष्य** शरण्य-सारथि-गिराम् अन्ते **रमन्ते** बुधाः ॥ २३ ॥
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कर्म-ज्ञानम् उपासनञ् च शरण-व्रज्येति चावस्थितान्  
+सन्-मार्गान् अपवर्ग-साधन-विधौ स-द्वारकाद्वारकान् ।  
++++(सद्वारकत्वाद्वारत्व-प्रकार-गणनया→)+++ एक-द्व्य्+++(←प्रपत्तिः)+++-आकृति--योग-संभृत--पृथग्-भाव-+अनुभावान् इमान्  
+सम्यक् **प्रेक्ष्य** शरण्य-सारथि-गिराम् अन्ते **रमन्ते** बुधाः ॥ २३ ॥
+</details>
+
+
 <details><summary>English</summary>
 
 Karma, Jñāna, Upāsana (bhakti ) and likewise śaraṇāgati are the good ways prescribed in the Vedas for securing mokṣa[^49] ;  
