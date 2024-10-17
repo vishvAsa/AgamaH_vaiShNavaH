@@ -169,7 +169,7 @@ in the quest for the goal that is desired.
 अधिकारम् आवदु  
 अव्व्-ओ फलोपायङ्गळिल् ए प्रवृत्तऩ् आम् पुरुषऩुक्कु  
 फलत्तिल् अर्थित्वम् उम्  
-उपायत्तिल् सामर्थ्यमउम् अ्।+++(5)+++ 
+उपायत्तिल् सामर्थ्यम् उम्।+++(5)+++ 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -182,13 +182,166 @@ in the quest for the goal that is desired.
 
 
 
+<details><summary>सायण-टीका</summary>
+
+सामान्यमाऩ अधिकारत्तै यरुळिच्चॆय्गिऱार् अधिकारमावदु इत्यादिना । अव्वो फलोपायङ्गळिल् प्रवृत्तऩाम् पुरुषऩुक्कु इति । ऒरु फलत्तिले अर्थित्वमुम्, मऱ्ऱॊरु उपायत्तिले सामर्थ्यमुम् तद्भिन्नोपायानुष्ठानत्तिऱ्कु अधिकारमागामैक्काग अव्वो ऎऩ्ऱदु, अन्दन्द ऎऩ्ऱबडि। ऎन्द उपायानुष्ठानत्ताल् ऎन्द फलम् वरुमो? अन्द फलोपायङ्गळिले प्रवृत्तऩाम् पुरुषऩुक्कु ऎऩ्ऱबडि। फलत्तिल् अर्थित्वमुम् - इवऩ् अनुष्ठिक्किऱ उपायत्तिऩ् फलत्तिल् अर्थित्वमुम्। उपायत्तिल् सामर्थ्यमुम् - इवऩासैप्पडुम् फलोपायत्तिल् सामर्थ्यमुम्। 
+</details>
+
+<details><summary>English</summary>
+
+Competency (adhikāra ) consists in the attribute of desiring the end  
+on the part of the person who adopts an upāya  
+for the sake of a certain desired result  
+and also ability to adopt it. 
+</details>
+
+<details><summary>Español</summary>
+
+Competency (adhikāra ) consists in the attribute of desiring the end  
+on the part of the person who adopts an upāya  
+for the sake of a certain desired result  
+and also ability to adopt it. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 अधिकारमावदु अव्वो फलोपायङ्गळिले प्रवृत्तऩाम् पुरुषऩुक्कु फलत्तिल् अर्थित्वमुम् उपायत्तिल् सामर्थ्यमुम्। 
 </details>
 
 
-Competency (adhikāra ) consists in the attribute of desiring the end on the part of the person who adopts an upāya for the sake of a certain desired result and also ability to adopt it. Ability means the capacity to understand the meaning of the śāstras and the capacity to perform what is ordained therein and, likewise, fitness or competency in accordance with what is prescribed in the śāstras, such as, caste, quality and the like (āchāra - samskāra). This competency exists already (before the adoption of the upāya). To the man who has this competency, what is stated to be the object to be obtained by the means, is the desired result or fruit. Upāya is the means prescribed or ordained for securing that fruit or result. The person who has become desirous of mukti (mumukṣu) and who adopts the special upāya for mokṣa  called direct and independent prapatti should have, in common with the upāsaka ( who has adopted bhakti), a knowledge obtained from the Śāstras of such things as the relationship (between Jīvātmā and Paramatma as that between the body and the soul) and he should have in addition, the special qualifications of ākiñcanya and ananyagatitva ; ākiñcanya means the absence (in a person) of the ability for other upāyas. Ananyagatitvam means an aversion to all other interests (than mokṣa) and a turning away from all other refuge than Bhagavān. The latter is implicit in the former, namely, aversion to all other interests. This may be seen from such passages as the following :-"Wise men never worship Brahma, Rudra and others who are called gods, for the boons that they could grant are limited."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् सामर्थ्यम् आवदु -  
+शास्त्रार्थत्तैय् अऱिगैय् उम्  
+अऱिन्द बडि अनुष्ठिक्क-वल्लऩ् आगैय् उम्  
+शास्त्रानुमत-जाति-गुणादि-योग्यतैय् उम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र सामर्थ्य नाम —  
+शास्त्रार्थस्य ज्ञानं, यथाज्ञानम् अनुष्ठाने शक्तिः, शास्त्रानुमत-जाति-गुणादि-योग्यता च ।  
+</details>
+
+
+<details><summary>English</summary>
+
+Ability means the capacity to understand the meaning of the śāstras  
+and the capacity to perform what is ordained therein and,  
+likewise, fitness or competency in accordance with what is prescribed in the śāstras, such as, caste, quality and the like (āchāra - samskāra). 
+</details>
+
+<details><summary>Español</summary>
+
+Ability means the capacity to understand the meaning of the śāstras  
+and the capacity to perform what is ordained therein and,  
+likewise, fitness or competency in accordance with what is prescribed in the śāstras, such as, caste, quality and the like (āchāra - samskāra). 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सामर्थ्यत्तै निरूपिक्किऱार् इवऱ्ऱिलित्यादिना । इवऱ्ऱिल् - अर्थित्वसामर्थ्ययोर्मध्ये । सामर्थ्यमावदु - सामर्थ्यशब्दवाच्यमाऩदु। शास्त्रार्थत्तैयऱिगैयुम् - शास्त्रत्तिल् सॊल्लप्पट्ट अव्वो उपायस्वरूपत्तैयुम्, अदिऩ् परिकरादिस्वरूपत्तैयुम् नऩ्ऱागत् तॆळिगैयुम्। अऱिन्दबडि यनुष्ठिक्क वल्लऩागैयुम् - यथाज्ञानम् अनुष्ठिक्क समर्थऩागुगैयुम्। शास्त्रानुमतजातिगुणादीति । ‘‘वसन्ते ब्राह्मणोऽग्नीनादधीत’’ इत्यादि शास्त्रत्तिल् सॊऩ्ऩ ब्राह्मणत्वादिजातिगळुम्, ‘‘जातपुत्रः कृष्णकेशी अग्नीनादधीत’’ इत्यादि शास्त्रत्तिल् सॊऩ्ऩ कृष्णकेशित्वास्तिक्यादिगुणङ्गळुम् ऎऩ्ऱबडि। इङ्गु आदिपदादाचारपरिग्रहः । योग्यतैयुम् - एतादृशमाऩ कर्मानुष्ठानार्हतैयुम्। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् सामर्थ्यमावदु - शास्त्रार्थत्तै यऱिगैयुम् अऱिन्दबडि अनुष्ठिक्कवल्लऩागैयुम् शास्त्रानुमतजातिगुणादियोग्यतैयुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अधिकारम् +++(उपाय-ग्रहणात्)+++ मुऩ्ब् ए सिद्धम् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयम् अधिकारः पूर्वमेव सिद्धो भवति । 
+</details>
+
+<details><summary>English</summary>
+
+This competency exists already (before the adoption of the upāya). 
+</details>
+
+<details><summary>Español</summary>
+
+This competency exists already (before the adoption of the upāya). 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द अधिकारत्तिऱ्कु उपायफलङ्गळैक् काट्टिलुम् वैलक्षण्यत्तै यरुळिच्चॆय्गिऱार् इव्वधिकारम् मुऩ्बे सिद्धमायिरुक्कुमिति । मुऩ्बे – उपायानुष्ठानसङ्कल्पत्तिऱ्कु मुऩ्बे। तथाच अधिकारत्तिऱ्कु उपायपूर्वकालिकत्वमुम् सिद्धत्वमुम् वैलक्षण्यमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वधिकारम् मुऩ्बे सिद्धमायिरुक्कुम्। 
+</details>
+
+## फलोपायौ
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इद्+++(→अधिकारम्)+++ उडैयवऩुक्कु प्रयोजनम् आय्क् कॊण्डु  
+साध्यम् आग अनुवदिक्कप्पडुम् अदु फलम्।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++++(अधिकार←)+++एतद्वतः प्रयोजनं सत्, साध्यत्वेनानूद्यमानं यत्, तत् फलम् । 
+</details>
+
+<details><summary>English</summary>
+
+To the man who has this competency,  
+what is stated to be the object to be obtained by the means,  
+is the desired result or fruit. 
+</details>
+
+<details><summary>Español</summary>
+
+To the man who has this competency,  
+what is stated to be the object to be obtained by the means,  
+is the desired result or fruit. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इदुडैयवऩुक्कु प्रयोजनमाय्क् कॊण्डु साध्यमाग अनुवदिक्कप्पडुमदु फलम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तद्-अर्थम् आग साध्यम् आग विधिक्कप्-पडुम् अदु उपायम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तदर्थं साध्यत्वेन विधीयमानोऽर्थः उपायः । 
+</details>
+
+<details><summary>English</summary>
+
+Upāya is the means prescribed or ordained for securing that fruit or result. 
+</details>
+
+<details><summary>Español</summary>
+
+Upāya is the means prescribed or ordained for securing that fruit or result. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तदर्थमाग साध्यमाग विधिक्कप्पडुमदु उपायम्। 
+</details>
+
+
+The person who has become desirous of mukti (mumukṣu) and who adopts the special upāya for mokṣa  called direct and independent prapatti should have, in common with the upāsaka ( who has adopted bhakti), a knowledge obtained from the Śāstras of such things as the relationship (between Jīvātmā and Paramatma as that between the body and the soul) and he should have in addition, the special qualifications of ākiñcanya and ananyagatitva ; ākiñcanya means the absence (in a person) of the ability for other upāyas. Ananyagatitvam means an aversion to all other interests (than mokṣa) and a turning away from all other refuge than Bhagavān. The latter is implicit in the former, namely, aversion to all other interests. This may be seen from such passages as the following :-"Wise men never worship Brahma, Rudra and others who are called gods, for the boons that they could grant are limited."
 
 If, without an eager and impatient desire for immediate mokṣa, a person who wants such things as the continuance of the body (or the continuance of the worship of arcāvatāra) adopts prapatti for the sake of mokṣa , his mukti will be delayed in proportion to these other interests,
 
