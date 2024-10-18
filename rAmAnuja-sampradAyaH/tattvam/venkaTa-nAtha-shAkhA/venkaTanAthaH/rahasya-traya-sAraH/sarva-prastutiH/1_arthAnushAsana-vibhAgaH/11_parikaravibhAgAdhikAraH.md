@@ -90,22 +90,262 @@ THE AÑGAS OR ACCESSORIES OF PRAPATTI :
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्विद्यैक्कुप् परिकरमावदु - आनुकूल्यसङ्कल्पमुम्, प्रातिकूल्यवर्जनमुम्, कार्पण्यमुम्, महाविश्वासमुम्, गोप्तृत्ववरणमुम्। 
+इव्-विद्यैक्कुप् परिकरम् आवदु -  
+आनुकूल्य-सङ्कल्पम् उम्, प्रातिकूल्य-वर्जनम् उम्, कार्पण्यम् उम्, महा-विश्वासम् उम्, गोप्तृत्व-वरणम् उम्। 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्यां विद्यायाः परिकरस् तावत् —  
+आनुकूल्य-संकल्पः प्रातिकूल्यवर्जनं कार्पण्यं महाविश्वासो गोप्तृत्ववरणं च । 
+</details>
+
+<details><summary>English</summary>
+
+The accessories or aṅgas of this vidyā (nyāsavidyā or prapatti) are the following:  
+the intention or will to do (thereafter) whatever is agreeable ( to the Lord),  
+the avoidance of whatever is displeasing (to Him,  
+helplessness (kārpaṇya), supreme faith, and supplication or seeking His protection.
+</details>
+
+<details><summary>Español</summary>
+
+The accessories or aṅgas of this vidyā (nyāsavidyā or prapatti) are the following:  
+the intention or will to do (thereafter) whatever is agreeable ( to the Lord),  
+the avoidance of whatever is displeasing (to Him,  
+helplessness (kārpaṇya), supreme faith, and supplication or seeking His protection.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रपत्तिपरिकरङ्गळै क्रमेण नाम्ना सङ्कीर्तनम् पण्णुगिऱार् इव्विद्यैक्कुप् परिकरमावदु इत्यादिना । इव्विद्यैक्कु – प्रपत्तिविद्यैक्कु। इङ्गु प्रपत्तिक्कु ऎऩ्ऱु सॊल्लामल् विद्यैक्कु ऎऩ्ऱु सॊऩ्ऩदाल् विद्यात्वसामान्यात् भक्तिविद्यैक्कुप् पोलिदऱ्कुम् परिकरम् अपेक्षितमॆऩ्ऱु ज्ञापिक्कप्पट्टदु। भक्तिपरिकरत्तैक् काट्टिलुम् इदऩ् परिकरम् विलक्षणमॆऩ्ऱु ज्ञापिक्कैक्काग इव्विद्यैक्कॆऩ्ऱदु। परिकरम् - अङ्गम्। आनुकूल्येत्यादि । आनुकूल्यसंङ्कल्पमुम् - इतःपरं तवानुकूलोऽस्मि ऎऩ्गिऱ सङ्गल्बमुम्। प्रातिकूल्यवर्जनमुम् - प्रातिकूल्यस्य परित्यागमुम्। कार्पण्यमुम् - कृपणस्य भावः कार्पण्यम्; अदुवुम्; आकिञ्चन्यानुसन्धानमुम् ऎऩ्ऱबडि। महाविश्वासमुम् - स्वसमानाधिकरणसंशयप्रागभावासमानकालिकविश्वासमुम्। गोप्तृत्ववरणमुम् - त्वमेव गोप्ता भव अदावदु रक्षको भव ऎऩ्गिऱ वरणमुम्, अदावदु प्रार्थऩैयुम्। 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इव्विद्यैक्कुप् परिकरमावदु - आनुकूल्यसङ्कल्पमुम्, प्रातिकूल्यवर्जनमुम्, कार्पण्यमुम्, महाविश्वासमुम्, गोप्तृत्ववरणमुम्। 
 </details>
 
+### षाड्विध्योक्तिः
 
-The accessories or aṅgas of this vidyā (nyāsavidyā or prapatti) are the following: the intention or will to do (thereafter) whatever is agreeable ( to the Lord), the avoidance of whatever is displeasing (to Him, helplessness (kārpaṇya), supreme faith, and supplication or seeking His protection.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-It has (sometimes) been said that śaraṇāgati is of six kinds : intention to do whatever is pleasing ( to the Lord) (ānukūlyasaṅkalpa), the avoidance of whatever is displeasing to Him (prātikūlyavarjanam), the faith that He will afford protection (mahāviśvāsa), begging His protection (goptṛtvavaraṇa), the surrender of the self (ātmanikṣepa) and the feeling of helplessness (kārpaṇya). It is stated to be six-fold in this and other passages by the inclusion of the aṅgī, namely prapatti or self surrender among its aṅgas or accessories as in the word aṣṭāṅga[^52] yoga.
+इव्विडत्तिल्  
 
-[^52]: Aṣṭāṅga Yoga is really dhyānayoga. It is said to consist of yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi, Samādhi which is the aṅgī is included among its aṅgas or accessories  .
+> ‘‘आनुकूल्यस्य सङ्कल्पः  
+प्रातिकूल्यस्य वर्जनम् ।  
+रक्षिष्यतीति विश्वासो  
+गोप्तृत्ववरणं तथा ॥  
+आत्मनिक्षेपकार्पण्ये  
+षड्विधा शरणागतिः’’  
+(अहिर्बुध्न्य संहिता ३७-१८।)  
 
-That one of these is angī and that the others are aṅgas are evident from the following śloka  and (this does not require any argument) :  “Nyāsa or 'self-surrender which has the word nikṣepa for a synonym has five aṅgas and is called also sannyāsa, tyāga and śaraṇāgati.” In the Ahirbudhnya Saṁhitā, it is stated as follows:--- "The prapatti that I perform to the Lord is itself eternal fruition to me: I desire no other fruit than this. This absence of the desire for any other fruit (than prapatti) is itself considered as the chief aṅga. The desire for the fruit is opposed to this." This other aṅga (described in the Ahi. Saṁhitā), namely, the absence of any desire for ulterior results or fruit is essential in the surrender of the self for the sake of mokṣa , (and not in every form of prapatti). The giving up of all attachment to the fruit or consequence and also of the thought of one's doer- ship is common to all forms of renunciation such as karma yoga, This thought or reflection should therefore be entertained by the person desirous of mokṣa , at the time of his surrender of His self to the Lord with all the aṅgas.
+इत्यादिगळिऱ् सॊल्लुगिऱ षाड्विध्यम् उम्  
++++(अङ्गि-भूत-ध्यान-समुच्चयेन)+++ अष्टाङ्ग-योगम् ऎऩ्ऩुम् आप् पोल् ए  
+अङ्गाङ्गि-समुच्चयत्ताल् एय् आगक् कडवद् ऎऩ्ऩुम् इडम् उम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र  
+
+> ‘‘आनुकूल्यस्य सङ्कल्पः  
+प्रातिकूल्यस्य वर्जनम् ।  
+रक्षिष्यतीति विश्वासो  
+गोप्तृत्ववरणं तथा ॥  
+आत्मनिक्षेपकार्पण्ये  
+षड्विधा शरणागतिः’’  
+(अहिर्बुध्न्य संहिता ३७-१८।)  
+
+इत्यादिषूच्यमानं षाड्-विध्यम् अपि  
++++(अङ्गि-भूत-ध्यान-समुच्चयेन)+++ अष्टाङ्ग-योग-व्यवहारवत् अङ्गाङ्गि-समुच्चय-निबन्धनम् इत्य् अयम् अर्थः।
+</details>
+
+<details><summary>English</summary>
+
+It has (sometimes) been said that śaraṇāgati is of six kinds :  
+intention to do whatever is pleasing ( to the Lord) (ānukūlyasaṅkalpa),  
+the avoidance of whatever is displeasing to Him (prātikūlyavarjanam),  
+the faith that He will afford protection (mahāviśvāsa),  
+begging His protection (goptṛtvavaraṇa),  
+the surrender of the self (ātmanikṣepa)  
+and the feeling of helplessness (kārpaṇya).  
+
+It is stated to be six-fold in this and other passages  
+by the inclusion of the aṅgī, namely prapatti or self surrender among its aṅgas or accessories  
+as in the word aṣṭāṅga[^52] yoga.
+
+[^52]: 
+
+    Aṣṭāṅga Yoga is really dhyānayoga.  
+    It is said to consist of yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi.  
+    Samādhi which is the aṅgī is included among its aṅgas or accessories  .
+</details>
+
+<details><summary>Español</summary>
+
+It has (sometimes) been said that śaraṇāgati is of six kinds :  
+intention to do whatever is pleasing ( to the Lord) (ānukūlyasaṅkalpa),  
+the avoidance of whatever is displeasing to Him (prātikūlyavarjanam),  
+the faith that He will afford protection (mahāviśvāsa),  
+begging His protection (goptṛtvavaraṇa),  
+the surrender of the self (ātmanikṣepa)  
+and the feeling of helplessness (kārpaṇya).  
+
+It is stated to be six-fold in this and other passages  
+by the inclusion of the aṅgī, namely prapatti or self surrender among its aṅgas or accessories  
+as in the word aṣṭāṅga[^es52] yoga.
+
+[^es52]: 
+
+    Aṣṭāṅga Yoga is really dhyānayoga.  
+    It is said to consist of yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhyāna, dhāraṇa and samādhi.  
+    Samādhi which is the aṅgī is included among its aṅgas or accessories  .
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आनुकूल्यसङ्कल्पादिगळै ‘‘आनुकूल्यस्य सङ्कल्पः’’ ऎऩ्गिऱ श्लोकत्तिले षड्विधा शरणागतिः ऎऩ्ऱु शरणागतियागवे सॊल्लियिरुक्क, इदै शरणागतिपरिकरमागच् चॊल्ललामोवॆऩ्गिऱ शङ्कैयै अन्द वचनोपन्यासपूर्वकं अदिऩ् भावत्तै प्रदर्शनम् पण्णि परिहरिक्किऱार् इव्विडत्तिलित्यादिना । कीऴ् मूऩ्ऱावदु अङ्गमाग कार्पण्यत्तैच् चॊल्लियिरुक्क श्लोकत्तिल् आत्मनिक्षेपानन्तराङ्गमाग पाठक्रमम् कूडुवदॆङ्ङऩेयॆऩ्ऩिल्; अङ्गङ्गळिल् उत्पत्तिक्रमम् पूर्वोक्तप्रकारमेयाऩालुम् करणमन्त्रमाऩ द्वयत्तिल् प्रतिपाद्यक्रमत्तैयनुसरित्तु इव्वचनत्तिल् पाठक्रममॆऩ्ऱु परिहारम् कण्डु कॊळ्वदु। द्वयत्तिल् प्रपूर्वकपदॢ धातूत्तरमाऩ उत्तमऩिलेये कार्पण्यम् प्रतिपाद्यमिऱे। इत्यादिगळिऱ्सॊल्लुगिऱ - इत्यादिप्रमाणवचनङ्गळिल् सॊल्लुगिऱ।  
+षाड्विध्यं – शरणागतिषाड्विध्यम्।  
+अङ्गाङ्गिसमुच्चयत्ताले - अङ्गङ्गळाऩ आनुकूल्यसङ्कल्पादिगळुडैयवुम्, आत्मनिक्षेपरूपमाऩ अङ्गियाऩ शरणागतियिऩुडैयवुम् समुच्चयत्ताले।  
+छत्रिस्थलवत् शरणागतिघटितसमुदायघटकत्वरूपलक्ष्यतावच्छेदकधर्मत्ताले यॆऩ्ऱबडि। इदिल् अनुरूपदृष्टान्तत्तैयरुळिच्चॆय्गिऱार् अष्टाङ्गयोगमॆऩ्ऩुमाप् पोले इति ।  
+अष्टाङ्गम् ऎऩ्गिऱविडत्तिल् अङ्गियाऩ समाधियैयुम् अङ्गघटितसमुदायघटकत्वरूपधर्मत्ताले सेर्त्तु अष्टाङ्गयोगमॆऩ्ऱु व्यवहरिक्किऱाप्पोलेयॆऩ्ऱबडि।  
+दृष्टान्तत्तिल् अङ्गघटितसमुदायघटकत्वरूपधर्मत्ताले अङ्गियैयुम् सेर्त्तु अष्टाङ्गमॆऩ्गिऱदु।  
+दार्ष्टान्तिकत्तिल् शरणागतियाऩ अङ्गिघटितसमुदायघटकत्वरूपधर्मत्ताले अङ्गङ्गळैयुम् अङ्गियैयुम् सेर्त्तु शरणागतियॆऩ्ऱु व्यवहरिक्कप्पडुगिऱदॆऩ्ऱु तिरुवुळ्ळम्।  
+आगक् कडवदॆऩ्ऩुमिडमुमिति । श्लोकत्तिल् प्रयोगङ्गळ् नानातात्पर्यङ्गळागविरुप्पदालितर-प्रमाणङ्गळै यनुसरित्तु प्रकरणतात्पर्यादियोगेन इदु इप्पडिये यागक्कडवदॆऩ्ऱबडि। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल्  
+‘‘आनुकूल्यस्य सङ्कल्पः  
+प्रातिकूल्यस्य वर्जनम् ।  
+रक्षिष्यतीति विश्वासो  
+गोप्तृत्ववरणं तथा ॥  
+आत्मनिक्षेपकार्पण्ये  
+षड्विधा शरणागतिः’’  
+(अहिर्बुध्न्य संहिता ३७-१८।)  
+
+इत्यादिगळिऱ्सॊल्लुगिऱ षाड्विध्यमुम्  
+अष्टाङ्गयोगमॆऩ्ऩुमाप् पोले अङ्गाङ्गिसमुच्चयत्तालेयागक् कडवदॆऩ्ऩुमिडमुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् इऩ्ऩद् ऒऩ्ऱुम् ए अङ्गि,  
+इतरङ्गळ् अङ्गङ्गळ् ऎऩ्ऩुम् इडम् उम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषु किञ्चिद् एकम् एवाङ्गि,  
+इतराणि अङ्गानीत्य् अयम् अर्थश् च , 
+</details>
+
+
+<details><summary>English</summary>
+
+That one of these is angī  
+and that the others are aṅgas  
+are evident from the following śloka  
+</details>
+
+<details><summary>Español</summary>
+
+That one of these is angī  
+and that the others are aṅgas  
+are evident from the following śloka  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्विडत्तिऱ्सॊऩ्ऩ आऱु पदार्थङ्गळिल् इऩ्ऩदु अङ्गियाऩ शरणागतियॆऩ्ऱु एऱ्पट्टालल्लवो तद्घटितसमुदायघटकत्वत्ताले अजहत्स्वार्थलक्षणया अङ्गङ्गळिलुम् शरणागतिशब्दप्रयोगमॆऩ्ऱु सॊल्ललावदु? अदऱ्कु विनिगमकमाऩ प्रमाणमुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इवऱ्ऱिलित्यादिना ॥ इवऱ्ऱिल् - आनुकूल्यसङ्कल्पादिषट्कत्तिल् 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् इऩ्ऩदॊऩ्ऱुमे अङ्गि,  
+इतरङ्गळ् अङ्गङ्गळॆऩ्ऩुमिडमुम्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘निक्षेपापरपर्यायो  
+न्यासः पञ्चाङ्ग-संयुतः ।  
+सन्न्यासस् त्याग इत्य् उक्तश्  
+शरणागतिर् इत्य् अपि’’  
+(लक्ष्मीतन्त्रम् १७-७४।)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘निक्षेपापरपर्यायो  
+न्यासः पञ्चाङ्ग-संयुतः ।  
+सन्न्यासस् त्याग इत्य् उक्तश्  
+शरणागतिर् इत्य् अपि’’  
+(लक्ष्मीतन्त्रम् १७-७४।)
+</details>
+
+<details><summary>English</summary>
+
+“Nyāsa or self-surrender which has the word nikṣepa for a synonym has five aṅgas  
+and is called also sannyāsa, tyāga and śaraṇāgati.” 
+</details>
+
+<details><summary>Español</summary>
+
+“Nyāsa or self-surrender which has the word nikṣepa for a synonym has five aṅgas  
+and is called also sannyāsa, tyāga and śaraṇāgati.” 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘निक्षेपापरपर्यायो  
+न्यासः पञ्चाङ्गसंयुतः ।  
+सन्न्यासस्त्याग इत्युक्तश्  
+शरणागतिरित्यपि’’  
+(लक्ष्मीतन्त्रम् १७-७४।)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ श्लोकत्ताल् ए न्यायनिरपेक्षम् आग सिद्धम्।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति श्लोकेन न्यायनिरपेक्षं सिद्धौ ।
+</details>
+
+<details><summary>English</summary>
+
+and this does not require any argument :
+</details>
+
+<details><summary>Español</summary>
+
+and this does not require any argument :
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+निक्षेपेत्यादि । निक्षेपापरपर्यायः – निक्षेप इति अपरं पर्यायनाम यस्य सः, निक्षेपमॆऩ्गिऱ पर्यायनामत्तै युडैयदॆऩ्ऱबडि। न्यासः – आत्मरक्षाभरन्यास एव अङ्गी । पञ्चाङ्गसंयुतः – इतरङ्गळाऩ ऐन्दु अङ्गङ्गळोडे कूडिऩदागवागिऱदु। इदु सन्न्यासमॆऩ्ऱुम्, त्यागमॆऩ्ऱुम्, शरणागतियॆऩ्ऱुम् पर्यायशब्दत्ताले सॊल्लप्पट्टदॆऩ्गिऱार् सन्न्यास इत्यादि । न्यायनिरपेक्षमाग सिद्धमिति । आनुकूल्यस्य सङ्कल्पः ऎऩ्गिऱ श्लोकत्तिल् अजहल्लक्षणैयाले अङ्गाङ्गि कळै सेर्त्तु शरणागतियॆऩ्ऱु सॊल्लि ‘‘निक्षेपापरपर्यायो न्यासः पञ्चाङ्गसंयुतः’’ ऎऩ्गिऱ श्लोकत्तिल् इव्वाऱिल् घटकमाऩ आत्मनिक्षेपत्तैये भरन्यासरूपाङ्गियॆऩ्ऱुम्, अङ्गङ्गळाऩ ऐन्दोडु सेर्न्ददॆऩ्ऱुम्, ‘‘सन्न्यासस्त्याग इत्युक्तश्शरणागतिरित्यपि’’ ऎऩ्ऱु अदुवे शरणागतियॆऩ्ऱुम् निष्कर्षिक्कैयाल् अङ्गत्वज्ञापकश्रुतिलिङ्गादितात्पर्यलिङ्गसहकृत- न्यायापेक्षैयऩ्ऱिक्के आत्मनिक्षेपमे अङ्गी । अदुवे शरणागति; मऱ्ऱ ऐन्दुम् अदऱ्कुअङ्गङ्गळॆऩ्ऱु सिद्धिक्कुमॆऩ्ऱु करुत्तु। निक्षेप’ ऎऩ्गिऱ श्लोकत्ताले इऩ्ऩदु अङ्गम्, इऩ्ऩदु अङ्गी ऎऩ्बदु न्यायनिरेपक्षमाग सिद्धिक्कुमॆऩ्बदाल् ‘‘आनुकूल्यस्य सङ्कल्पः’’ ऎऩ्गिऱ श्लोकत्तिलुम् इन्द आऱिल् ऎदिऩुडैय स्वरूपम् ऎदऩाले निर्वर्त्यमामॆऩ्ऱु श्लोकन्यायसहकृतमाऩ विचारम् पण्णिऩाल् सिद्धिक्कुमॆऩ्ऱु सूचितम्।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ श्लोकत्ताले न्यायनिरपेक्षमाग सिद्धम्।
+</details>
+
+
+
+In the Ahirbudhnya Saṁhitā, it is stated as follows:--- "The prapatti that I perform to the Lord is itself eternal fruition to me: I desire no other fruit than this. This absence of the desire for any other fruit (than prapatti) is itself considered as the chief aṅga. The desire for the fruit is opposed to this." This other aṅga (described in the Ahi. Saṁhitā), namely, the absence of any desire for ulterior results or fruit is essential in the surrender of the self for the sake of mokṣa , (and not in every form of prapatti). The giving up of all attachment to the fruit or consequence and also of the thought of one's doer- ship is common to all forms of renunciation such as karma yoga, This thought or reflection should therefore be entertained by the person desirous of mokṣa , at the time of his surrender of His self to the Lord with all the aṅgas.
 
 1  2. ANUKÜLYA SANKALPA AND PRĀTIKūLYA VARJANAM:
 
