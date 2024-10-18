@@ -7,27 +7,97 @@ title = "११ परिकरविभागाधिकारः"
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे परिकरविभागाधिकारः ॥ ११ ॥
 
+## उपोद्घातः
+<details><summary>English</summary>
+
 (11) THE CHAPTER ON THE CLASSIFICATION OF ACCESSORIES OR AÑGAS: page174
+</details>
+
+<details><summary>Español</summary>
+
+(11) THE CHAPTER ON THE CLASSIFICATION OF ACCESSORIES OR AÑGAS: page174
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-इयानित्थंभूतस्सकृदयमवश्यंभवनवान्  
-दयादिव्याम्भोधौ जगदखिलमन्तर्यमयति ।  
-भवध्वंसोद्युक्ते भगवति भरन्यासवपुषः  
-प्रपत्तेरादिष्टः परिकरविशेषः श्रुति मुखैः ॥ २६ ॥
+इयान् इत्थं-भूतस् सकृद् अयम् अवश्यं-भवनवान् +++(→परिकर-विशेषः)+++  
+दया-दिव्याम्भो-धौ, जगद् अ-खिलम् **अन्तर्यमयति** ।  
+भव-ध्वंसोद्युक्ते, भगवति - भर-न्यास-वपुषः  
+प्रपत्तेर् **आदिष्टः** परिकर-विशेषः श्रुति-मुखैः ॥ २६ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इयान् इत्थं-भूतस् सकृद् अयम् अवश्यं-भवनवान् +++(→परिकर-विशेषः)+++  
+दया-दिव्याम्भो-धौ, जगद् अ-खिलम् **अन्तर्यमयति** ।  
+भव-ध्वंसोद्युक्ते, भगवति - भर-न्यास-वपुषः  
+प्रपत्तेर् **आदिष्टः** परिकर-विशेषः श्रुति-मुखैः ॥ २६ ॥
+</details>
+
+<details><summary>English</summary>
+
+Prapatti to Bhagavān which is of the nature of bharanyāsa (the surrender to the Lord of the responsibility of one's protection) 
+is ordained in such śāstras as the Vedas  
+as having certain distinctive accessories or aṅgas,  
+which are of a certain specific nature and of a certain specific extent  
+and it is to be necessarily performed only once to Bhagavān,  
+who is the celestial ocean of mercy  
+who controls the whole universe from within it  
+and who is already bent on the destruction of saṁsāra.
+</details>
+
+<details><summary>Español</summary>
+
+Prapatti to Bhagavān which is of the nature of bharanyāsa (the surrender to the Lord of the responsibility of one's protection) 
+is ordained in such śāstras as the Vedas  
+as having certain distinctive accessories or aṅgas,  
+which are of a certain specific nature and of a certain specific extent  
+and it is to be necessarily performed only once to Bhagavān,  
+who is the celestial ocean of mercy  
+who controls the whole universe from within it  
+and who is already bent on the destruction of saṁsāra.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+॥ श्रीः ॥  
+श्रीसारबोधिनीव्याख्यायां  
+ परिकरविभागाधिकारः ॥  
+पूर्वाधिकारत्तिऩ् आरम्भत्तिल् ‘‘न्यासविद्यैयिलिऴियुमवऩुक्कु अधिकारविशेषम् मुदलाऩवै इरुक्कुम्बडि' ऎऩ्गिऱविडत्तिल् मुदलाऩ ऎऩ्गिऱ पदत्ताले संगृहीतमाऩ परिकरविशेषङ्गळै इव्वधिकारत्तिल् निरूपिक्कक्कोलि अधिकारार्थत्तै श्लोकत्ताले संग्रहिक्किऱार् इयानित्यादिना । दयादिव्याम्भोधौ – दयैक्कु दिव्यसमुद्रमाऩ। इङ्गु दिव्यशब्दत् ताल् वृद्धिह्रासरहितत्वम् सूचितम्। इदु हेतुगर्भविशेषणम्। इदऩाल् अनादियाग सन्तन्यमान महापराधशालिक्कु सर्वज्ञऩाऩ भगवाऩिडत्तिल् भरन्यासमुम् तत्परिकरङ्ळुम् ऎप्पडिक् कूडुवदॆऩ्गिऱ शङ्गै परमदयालुवागैयाले अवऩ् विषयत्तिल् भरन्यासमुम् तत्परिकरङ्गळुम् कूडलामॆऩ्ऱु परिहृतमागिऱदु। जगदखिलमन्तर्यमयति - इप्पडि सहजकारुण्यमिरुप्पदाल् तदनुगुणमाग चेतनङ्गळिल् अन्तः प्रवेशम् पण्णि सत्कार्यङ्गळिल् प्रवृत्तिक्कुमवऩाय्। भवध्वंसोद्युक्ते – सत्कार्यप्रवृत्तिरूपसामान्यव्याजत्तैयुम्, यादृच्छिकसुकृतादिरूपविशेषव्याजत्तैयुमिट्टु तत्प्रवृत्तर्गळुडैय संसारनाशत्तिले उद्योगमुळ्ळवऩायु मिरुक्किऱ। इन्द विशेषणङ्गळाल् मुदलिल् सहजकारुण्यमुम्, अदऩाल् सत्कार्य प्रवर्तनमुम्, तद्व्याजत्ताल् भवध्वंसोद्योगमुम् भगवाऩुक्कुच् चॊल्लप्पट्टदु। भगवति – ज्ञानादि-षाड्गुण्यपरिपूर्णऩाऩ भगवाऩिडत्तिले। इप्पडि प्रपत्तव्यगुणकथनत्ताले प्रपत्तेः फलाविनाभावम् सूचितम्। क्रियमाणाया इति शेषः । भरन्यासवपुषः – भरसमर्पणस्वरूपायाः । प्रपत्तेः – न्यासविद्यायाः । परिकरविशेषः – अङ्गविशेषः । इङ्गु विशेषशब्दत्ताल् ‘‘प्रपत्तेः क्वचिदप्येवं परापेक्षा न विद्यते’’ ऎऩ्ऱु सामान्यतः परापेक्षै इल्लै ऎऩ्ऱु सॊऩ्ऩदु विहिताङ्गव्यतिरिक्तभक्त्यङ्गतुल्याङ्गापेक्षा निषेधपरमॆऩ्ऱु सूचितमायिऱ्ऱु। श्रुतिमुखैः – ‘‘मुमुक्षुर्वै शरणमहं प्रपद्ये’’ इत्यादिश्वेताश्वतरादिश्रुतिकळालुम् लक्ष्मीतन्त्रादिगळालुमॆऩ्ऱबडि। अथवा अङ्गत्वज्ञापकैः तत्तत्संहितागतश्रुतिलिङ्गवाक्यप्रकरणादिभिः ऎऩ्ऩवुमाम्। अयं - इन्द परिकरविशेषमाऩदु। इयान् - इव्वळवु संख्यैयैयुडैयदागवुम्, इत्थंभूतः – ‘‘आनुकूल्येतराभ्यान्तु विनिवृत्तिरपायतः’’ इत्याद्युक्तमाऩ उपयोगत्तैयुडैयदायुम्, सकृद्भवनवान् – अङ्गिना सह अङ्गिपोले सकृत्कर्तव्यमायुम्, अवश्यंभवनवान् – संभवित्ताल् सॆय्यलामॆऩ्ऱु सिलर् सॊल्लुवदु पोलऩ्ऱिक्के अङ्गियोडे अवश्यानुष्ठेयतयाऽविनाभूतमायुम्, आदिष्टः – विहितमॆऩ्ऱबडि।  
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 इयानित्थंभूतस्सकृदयमवश्यंभवनवान्  
 दयादिव्याम्भोधौ जगदखिलमन्तर्यमयति ।  
 भवध्वंसोद्युक्ते भगवति भरन्यासवपुषः  
-प्रपत्तेरादिष्टः परिकरविशेषः श्रुति मुखैः ॥ २६ ॥
+प्रपत्तेरादिष्टः परिकरविशेषः श्रुतिमुखैः ॥ २६ ॥
 </details>
 
-Prapatti to Bhagavān which is of the nature of bharanyāsa (the surrender to the Lord of the responsibility of one's protection) is ordained in such śāstras as the Vedas as having certain distinctive accessories or aṅgas, which are of a certain specific nature and of a certain specific extent and it is to be necessarily performed and only once to Bhagavān, who is the celestial ocean of mercy who controls the whole universe from within it and who is already bent on the destruction of saṁsāra.
+## अङ्गानि
+<details><summary>English</summary>
 
 THE AÑGAS OR ACCESSORIES OF PRAPATTI :
+</details>
+
+<details><summary>Español</summary>
+
+THE AÑGAS OR ACCESSORIES OF PRAPATTI :
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्विद्यैक्कुप् परिकरमावदु - आनुकूल्यसङ्कल्पमुम्, प्रातिकूल्यवर्जनमुम्, कार्पण्यमुम्, महाविश्वासमुम्, गोप्तृत्ववरणमुम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विद्यैक्कुप् परिकरमावदु - आनुकूल्यसङ्कल्पमुम्, प्रातिकूल्यवर्जनमुम्, कार्पण्यमुम्, महाविश्वासमुम्, गोप्तृत्ववरणमुम्। 
+</details>
+
 
 The accessories or aṅgas of this vidyā (nyāsavidyā or prapatti) are the following: the intention or will to do (thereafter) whatever is agreeable ( to the Lord), the avoidance of whatever is displeasing (to Him, helplessness (kārpaṇya), supreme faith, and supplication or seeking His protection.
 

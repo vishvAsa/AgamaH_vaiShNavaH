@@ -11,14 +11,14 @@ It is a widespread problem to think "My bhakti or prapatti gives me the license 
 This bhakti-based degeneracy is sad fact - but it has no basis in shrIbhAShyam or bhagavadgIta. I am reminded of ["राम का नाम बदनाम न करो"](https://www.youtube.com/watch?v=xl5AWfMZavA) song - modulo replacing rAma with rAmAnuja in the pallavi. Expectations from a prapanna are made explicit in uttarakriyAdhikAra of rahasya-traya-sAra by vedAnta-deshika (NAS summary [here](/AgamAH/hinduism/branches/vaiShNavaH/rAmAnuja-sampradAyaH/venkaTanAthaH/rahasya-traya-sAraH/nsa-summary/1_arthAnushAsana-vibhAgaH/15_uttarakRtyAdhikAraH/)).
 
 ### Genuine surrender
-kRShNa will give you moxa at a speed commensurate with your prapatti. So, if you say "I've done prapatti. Let's abandon our AchAra, have a drink, ignore shAstra-s, forget sandhyAvandanam" etc.. etc.. ", it indicates that your prapatti to kRShNa is very shallow - I mean, what kind of "surrender" is it, if you ignore and act contrary to the words of the entity you're surrendering to. Still, kRShNa will "save" you all right - just that might give you a few janma-s time for your "bhakti" to mature. 
+kRShNa will give you moxa at a speed commensurate with your prapatti. So, if you say "I've done prapatti. Let's abandon our AchAra, have a drink, ignore shAstra-s, forget sandhyAvandanam" etc.. etc.. ", it indicates that your prapatti to kRShNa is very shallow - I mean, what kind of "surrender" is it, if you wilfully ignore and act contrary to the words of the entity you're surrendering to. Still, kRShNa will "save" you all right - just that you might have to suffer more grief before that happens. 
 
 > अहं त्वां मोक्षयिष्यामि  
 सर्वपापेभ्यो मा शुचः 
 
 applies to pApa-s prior to genuine prapatti (can be confirmed by reading the second case in the bhAShya of that shloka). Because if one's prapatti is genuine, why would the prapanna go do pApa-s deliberately?
 
-The first two angas of Prapatti are: आनुकूल्यस्य सङ्कल्पः and प्रातिकूल्यस्य वर्जनम्. The others are रक्षिष्यतीति विश्वासः, गोप्तृत्व वरणम् and कार्पण्यम्. Additionally the qualifications for prapatti are आकिञ्चन्यम् and अनन्यगतित्वम्. Today people don't talk about the first two and only talk about the rest.
+The first two angas of Prapatti are: आनुकूल्यस्य सङ्कल्पः and प्रातिकूल्यस्य वर्जनम्. The others are रक्षिष्यतीति विश्वासः, गोप्तृत्व वरणम् and कार्पण्यम् (incl. आकिञ्चन्यम् and अनन्यगतित्वम्). Today people don't talk about the first two and only talk about the rest.
 
 ### Allowance for ignorance
 
