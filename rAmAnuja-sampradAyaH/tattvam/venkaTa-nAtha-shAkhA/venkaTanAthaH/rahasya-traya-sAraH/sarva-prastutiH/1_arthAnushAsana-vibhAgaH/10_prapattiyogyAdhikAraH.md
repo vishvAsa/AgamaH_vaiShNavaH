@@ -392,8 +392,12 @@ and he should have in addition, the special qualifications of ākiñcanya and an
 The person who has become desirous of mukti (mumukṣu)  
 and who adopts the special upāya for mokṣa  called direct and independent prapatti  
 should have, in common with the upāsaka ( who has adopted bhakti), a knowledge obtained from the Śāstras of such things as the relationship (between Jīvātmā and Paramatma as that between the body and the soul)  
-and he should have in addition, the special qualifications of ākiñcanya and ananyagatitva ; 
+and he should have in addition, the special qualifications of ākiñcanya and ananyagatitva ;
+</details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि सामान्यमाऩ अधिकारत्तैयुम् अधिकारफलोपायङ्गळिऩ् स्वरूपवैलक्षण्यत्तैयुम् निरूपित्तु, भक्तऩुक्कुम् प्रपन्नऩुक्कुमुळ्ळ साधारणाकारत्तै अनुवदित्तुक्कॊण्डु प्रपन्नऩुक्कसाधारणमाऩ अधिकारत्तै निरूपिक्किऱार् इङ्गु इत्यादिना । इङ्गु - प्रपत्तौ, इदऱ्कु विशेषित्तु अधिकारमॆऩ्बदोडन्वयम्। मुमुक्षुत्वमुण्डाय् - इदु भक्तप्रपन्नोभयसाधारणम्। स्वतन्त्र प्रपत्तिरूपऎऩ्ऱदाल् अङ्गप्रपत्तिनिष्ठव्यावृत्तिः । मोक्षोपाय ऎऩ्ऱदाल् प्रयोजनान्तरार्थप्रपत्तिनिष्ठऩुक्कु व्यावृत्तिः । अङ्गप्रपत्तिनिष्ठऩुक्कुम् प्रयोजनान्तरार्थप्रपत्तिनिष्ठऩुक्कुम् वक्ष्यमाणप्रयोजनान्तरवैमुख्यरूपानन्यगतित्वमुम् भक्तऩुक्कु उपायान्तरसामर्थ्याभावरूपाकिञ्चन्यमुम् घटियातिऱे। शास्त्रजन्य संबन्धज्ञानादिकळ् - प्रधानप्रतितन्त्राधिकारादिनिरूपितङ्गळाऩ शास्त्रजन्यसंबन्धज्ञानादिकळ्। इङ्गु आदिपदत्ताल् अर्थपञ्चकज्ञान तत्त्वत्रयज्ञानपरदेवतापारमार्थ्यज्ञानङ्गळुम् मुमुक्षुत्वमुम् विवक्षितङ्गळ्। उपासकऩोडु साधारणमायिरुक्क - उपासकऩोडु तुल्यमायिरुक्क। विशेषित्त अधिकारम् - असाधारणमाऩ वधिकारम्। तऩ्ऩुडैय आकिञ्चन्यमुम् - स्वसंबन्धियाऩ वाकिञ्चन्यमुम् अनन्यगतित्वमुम् - स्वसंबन्धियाऩवनन्यगतित्वमुम्। इङ्गु उम्मैयालिरण्डुम् सेर्न्दे अधिकारमॆऩ्ऱु ज्ञापिक्कप्पडुगिऱदु। यद्यपि प्रयोजनान्तरार्थमाग स्वतन्त्रप्रपत्तियै पण्णुमवऩुक्कु अनन्यगतित्वम् संभविक्कादु। तथाऽपि मोक्षोपायमाग स्वतन्त्रप्रपत्तियैप् पण्णुमवऩुक्कु इव्विरण्डुम् सेर्न्दे अधिकारमॆऩ्ऱु करुत्तु। 
 </details>
 
 
@@ -402,8 +406,137 @@ and he should have in addition, the special qualifications of ākiñcanya and an
 इङ्गु मुमुक्षुत्वमुण्डाय् स्वतन्त्रप्रपत्तिरूपमोक्षोपायविशेषनिष्ठऩुक्कु शास्त्रजन्यसंबन्धज्ञानादिकळ् उपासकऩोडु साधारणमायिरुक्क विशेषित्त अधिकारम् - तऩ्ऩुडैय आकिञ्चन्यमुम् अनन्यगतित्वमुम्।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ākiñcanya means the absence (in a person) of the ability for other upāyas. Ananyagatitvam means an aversion to all other interests (than mokṣa) and a turning away from all other refuge than Bhagavān. The latter is implicit in the former, namely, aversion to all other interests. This may be seen from such passages as the following :-"Wise men never worship Brahma, Rudra and others who are called gods, for the boons that they could grant are limited."
+आकिञ्चन्यम् आवदु उपायान्तर-सामर्थ्याभावम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आकिञ्चन्यं नामउपायान्तरसामर्थ्याभावः । 
+</details>
+
+<details><summary>English</summary>
+
+ākiñcanya means the absence (in a person) of the ability for other upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+ākiñcanya means the absence (in a person) of the ability for other upāyas. 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+आकिञ्चन्यत्तै निरूपिक्किऱार् आकिञ्चन्यमावदु इति ।  
+उपायान्तरसामर्थ्याभावमिति । सामर्थ्याभावम् आकिञ्चन्यमॆऩ्ऩिल्, भक्तऩुक्कुम् यत्किञ्चित्सामर्थ्याभावमिरुक्कु मागैयाल् अतिप्रसक्तमाम्। अतः उपायान्तरपदम्। उपायान्तरसामर्थ्याभावम् भक्तऩुक्कु इरादिऱे। उपायसामर्थ्याभावमात्तिरम् सॊऩ्ऩाल् इवऩुक्कु प्रपत्त्युपायत्तिल् सामर्थ्यमिरुप्पदाल् असंभवम् संभविक्कुम्। अतः अन्तरपदम्। इवऩुक्कु उपायान्तरत्तिल् सामर्थ्यमिल्लैयिऱे। सामर्थ्यपदत्तै नीक्कि उपायान्तराभावमॆऩ्ऩिल्, अदु उपासकऩुक्कुम् उपासनानुष्ठानात्पूर्वम् उपायान्तरमिल्लामैयाल् अतिप्रसक्तमामिऱे। अतस्सामर्थ्यपदम्। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आकिञ्चन्यमावदु उपायान्तरसामर्थ्याभावम्।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्-अन्य-गतित्वम् आवदु  
+प्रयोजनान्तर-वैमुख्यम्  
+शरण्यान्तर-वैमुख्यम् आगव् उम् आम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनन्यगतित्वं नाम — प्रयोजनान्तर-वैमुख्यम्, शरण्यान्तर-वैमुख्यं वा ; 
+</details>
+
+<details><summary>English</summary>
+
+Ananyagatitvam means an aversion to all other interests (than mokṣa)  
+and a turning away from all other refuge than Bhagavān.  
+</details>
+
+<details><summary>Español</summary>
+
+Ananyagatitvam means an aversion to all other interests (than mokṣa)  
+and a turning away from all other refuge than Bhagavān.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अनन्यगतित्वत्तै निरूपिक्किऱार् अनन्यगतित्वमावदु इत्यादिना ।  
+प्रयोजनान्तरवैमुख्यमिति ।  
+अनन्यगतित्वम् इत्य्-अत्र गतिशब्दः "गम्यत इदम्" इति कर्मणि व्युत्पत्त्या फलपरः।  
+अन्या गतिः फलं यस्य सः अन्यगतिः,  
+तस्य भावः अन्यगतित्वं, फलान्तरवत्वं, प्रयोजनान्तरवत्वमिति यावत् ।  
+तस्याभावः; स्वविषयकेच्छावत्वसंबन्धेन प्रयोजनान्तरशून्यत्वमित्यर्थः । तथाच प्रयोजनान्तरवैमुख्यमिति फलितम्। भक्तऩ् विळंबसहऩागैयाले प्रारब्धावसानात्पूर्वम् प्रयोजनान्तरम् वरिल् अदै विलक्कामल् अनुभवित्तालुम् तद्विषयकेच्छैयिल्लामैयाले तद्विषयकेच्छावत्वसंबन्धेन प्रयोजनान्तरशून्यत्वरूपानन्यगतित्वम् अवऩुक्कुम् वरुमागैयाले तद्व्यावृत्त्यर्थम् आकिञ्चन्यत्तैयुमधिकारकोटियिल् सेर्त्तदु। गतिशब्दत्तिऱ्कु गम्यते अनेनेति करणव्युत्पत्त्या प्रापकपरत्वत्तै अङ्गीकरित्तुच् चॊल्लुगिऱार् शरण्यान्तरवैमुख्यमागवुमामिति । अन्या गतिः प्रापकं यस्य सः अन्यगतिः । तस्य भावः अन्यगतित्वम्। प्रापकान्तरवत्वमिति यावत् । तस्य स्वविशेष्यकप्रापकत्वप्रकारकेच्छावत्वसंबन्धेनाभावः अनन्यगतित्वमिति फलितम्; ऎऩ्गिऱवभिप्रायत्ताले शरण्यान्तरवैमुख्यमागवुमामॆऩ्ऱदु। इदु शरण्यान्तरवैमुख्यम्। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनन्यगतित्वमावदुप्रयोजनान्तरवैमुख्यम् शरण्यान्तरवैमुख्यमागवुमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु +++(शरण्यान्तर-वैमुख्यं)+++ प्रयोजनान्तर-वैमुख्यत्ताल् उम् अर्थ-सिद्धम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं प्रयोजनान्तर-वैमुख्येनाप्य् अर्थ-सिद्धम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The latter is implicit in the former,  
+namely, aversion to all other interests. 
+</details>
+
+<details><summary>Español</summary>
+
+The latter is implicit in the former,  
+namely, aversion to all other interests. 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+प्रयोजनान्तरवैमुख्यत्तालुम् अर्थसिद्धमिति । प्रयोजनान्तरत्तिल् आसैयुळ्ळवऩुक्के शरण्यान्तराश्रयणम् संभविक्कुमागै याले प्रयोजनान्तरवैमुख्यमिरुन्दाल् मोक्षप्रदानसमर्थरल्लाद शरण्यान्तरत्तिल् वैमुख्यम् अर्थस्वभावत्तालेये सिद्धमामॆऩ्ऱबडि। इप्पडि अर्थसिद्धमागिल् प्रयोजनान्तरवैमुख्यमॊऩ्ऱे यमैयादो? अर्थसिद्धमाऩ शरण्यान्तरवैमुख्यमुम् अनन्यगतित्वशब्दार्थमागच् चॊल्ल वेण्डुमो वॆऩ्ऩिल्; गतिशब्दत्तिऱ्कु कर्मव्युत्पत्तियाले प्रयोजनान्तरवैमुख्यरूपार्थमुम् करणव्युत्पत्तियाले शरण्यान्तरवैमुख्यरूपार्थमुम् अनन्यगतित्वशब्दार्थमामॆऩ्ऱु तॆरियबडुत्तिऩ मात्तिरमे यॊऴिय शरण्यान्तरवैमुख्यरूपार्थसिद्धियाले सॊऩ्ऩदऩ्ऱु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु प्रयोजनान्तरवैमुख्यत्तालुम् अर्थसिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थम्  
+
+> ‘‘ब्रह्माणं शितिकण्ठं च  
+> याश् चान्या देवताः स्मृताः ।  
+> प्रतिबुद्धा न सेवन्ते  
+> यस्मात् परिमितं फलम्’’  
+> (भारतम् शान्ति-पर्व ३५०-३६।) 
+
+इत्य्-आदिगळिले कण्डुगॊळ्वदु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् ‘‘ब्रह्माणं शितिकण्ठं च याश्चान्या देवताः स्मृताः । प्रतिबुद्धा न सेवन्ते यस्मात्परिमितं फलम्’’(भारतम् शान्ति-पर्व ३५०-३६।) इत्यादिकळिले कण्डुगॊळ्वदु। 
+</details>
+
+
+
+This may be seen from such passages as the following :-
+
+"Wise men never worship Brahma, Rudra and others who are called gods, for the boons that they could grant are limited."
 
 If, without an eager and impatient desire for immediate mokṣa, a person who wants such things as the continuance of the body (or the continuance of the worship of arcāvatāra) adopts prapatti for the sake of mokṣa , his mukti will be delayed in proportion to these other interests,
 
