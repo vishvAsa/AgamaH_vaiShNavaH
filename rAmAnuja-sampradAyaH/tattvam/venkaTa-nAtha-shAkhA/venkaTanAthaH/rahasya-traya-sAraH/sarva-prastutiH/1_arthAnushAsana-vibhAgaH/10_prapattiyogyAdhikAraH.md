@@ -406,9 +406,10 @@ and he should have in addition, the special qualifications of ākiñcanya and an
 इङ्गु मुमुक्षुत्वमुण्डाय् स्वतन्त्रप्रपत्तिरूपमोक्षोपायविशेषनिष्ठऩुक्कु शास्त्रजन्यसंबन्धज्ञानादिगळ् उपासकऩोडु साधारणमायिरुक्क विशेषित्त अधिकारम् - तऩ्ऩुडैय आकिञ्चन्यमुम् अनन्यगतित्वमुम्।  
 </details>
 
+### आकिञ्चन्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आकिञ्चन्यम् आवदु उपायान्तर-सामर्थ्याभावम्।  
+**आकिञ्चन्यम्** आवदु उपायान्तर-सामर्थ्याभावम्।  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -438,6 +439,8 @@ and he should have in addition, the special qualifications of ākiñcanya and an
 
 आकिञ्चन्यमावदु उपायान्तरसामर्थ्याभावम्।  
 </details>
+
+### अनन्य-गतिकता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -571,15 +574,227 @@ This may be seen from such passages as the following :-
 इव्वर्थम् ‘‘ब्रह्माणं शितिकण्ठं च याश्चान्या देवताः स्मृताः । प्रतिबुद्धा न सेवन्ते यस्मात्परिमितं फलम्’’(भारतम् शान्ति-पर्व ३५०-३६।) इत्यादिगळिले कण्डुगॊळ्वदु। 
 </details>
 
+#### दृप्त-प्रपत्त्या विलम्बः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तीव्रतमम् आऩ मुमुक्षुत्वम् अऩ्ऱिक्क् ए  
+देहानुवृत्त्य्-आदि-**प्रयोजनान्तर-सक्तऩ्** आऩवऩ्  
+मोक्षार्थम् आग प्रपत्तियैप् **पऱ्ऱिऩाल्**  
+अव्व्-ओ प्रयोजनान्तरङ्गळिल् अळवुक्क् ईडाग  
+मोक्षम् **विलम्बिक्कुम्**।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तीव्रतमं मुमुक्षुत्वम् अन्तरा  
+देहानुवृत्त्य्-आदि-प्रयोजनान्तर-सक्तो  
+मोक्षार्थं प्रपत्तिं परिगृहीतवांश् चेत्,  
+तत्-तत्-प्रयोजनान्तरावध्य्-अनुरोधेन मोक्षो विलम्बेत । 
+</details>
 
 
-If, without an eager and impatient desire for immediate mokṣa, a person who wants such things as the continuance of the body (or the continuance of the worship of arcāvatāra) adopts prapatti for the sake of mokṣa , his mukti will be delayed in proportion to these other interests,
+<details><summary>सायण-टीका</summary>
 
-ĀKINCHANYA AND ANANYAGATITVA:
+इन्द प्रयोजनान्तर-वैमुख्यरूपानन्यगतित्वत्तिल् न्यूनतैक्कु अनुगुणमाग फलम् विळंबिक्कु मॆऩ्गिऱार् तीव्रेत्यादिना ।  
+मुमुक्षुत्वम् सर्वसाधारणम्। अदिल् तीव्रतमत्वं क्षणान्तरदिवसान्तरजन्मान्तरविळंबासहिष्णुत्वविशिष्टत्वम्; क्षणान्तरदिवसान्तरजन्मान्तरजन्य फलासहिष्णुत्वविशिष्टत्वमिति यावत् । इदऩ्ऱिक्के - तीव्रतममुमुक्षुत्वरूपानन्यगतित्वमऩ्ऱिक्के। देहानुवृत्त्यादि इति । देहानुवृत्तिः – देहस्य उत्तरकालसंबन्धः । इङ्गु आदि-पदात् अर्चावतार सेवानुवृत्त्यादिसंग्रहः । प्रयोजनान्तरसक्तऩाऩवऩ् - प्रयोजनान्तरत्तिले रुसियुडैयवऩ्। प्रयोजनान्तरसहिष्णुवाऩवऩॆऩ्ऱबडि। दृप्तऩाऩ अधिकारीति यावत् । मोक्षार्थमाग प्रपत्तियैप् पऱ्ऱिऩाल् - कालत्तैक् कुऱित्तु मोक्षार्थमाग प्रपत्तियैप् पऱ्ऱिऩाल्। अव्वो प्रयोजनान्तरङ्गळिल् अळवुक्कीडाग - अव्वो प्रयोजनान्तरत्तिऩ् इयत्तैक् कीडाग। अवसानपर्यन्तमिति यावत् । मोक्षम् विळंबिक्कुमिति । प्रपत्ति अभ्युपगतप्रारब्धनाशकमऩ्ऱिऱे। 
+</details>
 
-Ākiñcanya and ananyagatitva are conditioned by the ignorance of and inability to adopt other upāyas on the part of the person adopting this means, as also his inability to endure delay in attaining mukti. His turning away from other saviours than Bhagavān is conditioned by his conviction of the absolute dependence on Bhagavān alone, which is common to himself and to others (including other deities than the Lord), as is stated in the śloka : “ Just as, O 'Bharata, tips of grass are entirely subject to (the force of) the wind, even so are all beings subject to the sway of the Lord ", and it is conditioned also by his aversion to other interests than mukti,
+<details><summary>English</summary>
+
+If, without an eager and impatient desire for immediate mokṣa,  
+a person who wants such things as the continuance of the body  
+(or the continuance of the worship of arcāvatāra)  
+adopts prapatti for the sake of mokṣa ,  
+his mukti will be delayed in proportion to these other interests,
+</details>
+
+<details><summary>Español</summary>
+
+If, without an eager and impatient desire for immediate mokṣa,  
+a person who wants such things as the continuance of the body  
+(or the continuance of the worship of arcāvatāra)  
+adopts prapatti for the sake of mokṣa ,  
+his mukti will be delayed in proportion to these other interests,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तीव्रतममाऩ मुमुक्षुत्वमऩ्ऱिक्के देहानुवृत्त्यादिप्रयोजनान्तरसक्तऩाऩवऩ् मोक्षार्थमाग प्रपत्तियैप् पऱ्ऱिऩाल् अव्वो प्रयोजनान्तरङ्गळिल् अळवुक्कीडाग मोक्षम् विलम्बिक्कुम्।  
+</details>
+
+## अधिकार-निबन्धनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् आकिञ्चन्यत्तुक्क् उम्, अनन्य-गतित्वत्तुक्क् उम् निबन्धनम्  
+उपायान्तरङ्गळिल् इव्व्-अधिकारियिऩ्-उडैय अज्ञानाशक्तिगळुम्, फल-विलम्बासहत्वम् उम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्याऽऽकिञ्चन्यस्यानन्यगतित्वस्य च निबन्धनम्  
+उपायान्तरेष्व् अस्याधिकारिणो ऽज्ञानाशक्ती, फलविलम्बासहत्वं च । 
+</details>
+
+<details><summary>English</summary>
+
+Ākiñcanya and ananyagatitva are conditioned by the ignorance of and inability to adopt other upāyas  
+on the part of the person adopting this means,  
+as also his inability to endure delay in attaining mukti. 
+</details>
+
+<details><summary>Español</summary>
+
+Ākiñcanya and ananyagatitva are conditioned by the ignorance of and inability to adopt other upāyas  
+on the part of the person adopting this means,  
+as also his inability to endure delay in attaining mukti. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उपायान्तरसामर्थ्याभावरूपाकिञ्चन्यत्तिऱ्कुम् प्रयोजनान्तरवैमुख्यरूपानन्यगतित्वत्तिऱ्कुम् मूलमरुळिच् चॆय्गिऱार् इव्वाकिञ्चन्यत्तुक्कुमित्यादिना । उपायान्तरङ्गळिल् - सपरिकरमाऩ कर्मयोगज्ञानयोगभक्तियोगङ्गळिल्। इव्वधिकारियिऩुडैय अज्ञानाशक्तिगळुम् - प्रपत्त्यधिकारियिऩुडैय ज्ञानमिल्लामैयुम् शक्तियिल्लामैयुम्। उपायान्तरसामर्थ्यमॆऩ्बदु उपायान्तरज्ञानमॆऩ्ऩ, शक्तियॆऩ्ऩ, शास्त्रानुमतजातिगुणादिगळॆऩ्ऩ, इवैगळुडैय समुदायम्; इन्द समुदायाभावरूपाकिञ्चन्यत्तिऱ्कु ज्ञानशक्त्यादिगळुडैय प्रत्येकाभावमे कारणमागुमॆऩ्ऱु करुत्तु। फलविळंबासहत्वमुम् – फलविळंबत्तै सहिक्कादवऩुक्कु प्रयोजनान्तरानुभवत्तिल् आसैयुण्डागादागैयाल् अदिल् वैमुख्यम् सिद्धमामॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वाकिञ्चन्यत्तुक्कुम् अनन्यगतित्वत्तुक्कुम् निबन्धनम् उपायान्तरङ्गळिल् इव्वधिकारियिऩुडैय अज्ञानाशक्तिकळुम् फलविलम्बासहत्वमुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् शरण्यान्तर-वैमुख्यत्तुक्कु निबन्धनम्,  
+
+> ‘‘यथा वायोस् तृणाग्राणि  
+वशं **यान्ति** बलीयसः ।  
+धातुर् एवं वशं **यान्ति**  
+सर्वभूतानि भारत’’ (भारतम् आरण्य ३०-२९।)  
+
+ऎऩ्गिऱ बडिय् ए 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र शरण्यान्तर-वैमुख्यस्य निबन्धनम्,  
+
+> ‘‘यथा वायोस् तृणाग्राणि  
+वशं **यान्ति** बलीयसः ।  
+धातुर् एवं वशं **यान्ति**  
+सर्वभूतानि भारत’’ (भारतम् आरण्य ३०-२९।)
+
+इत्य्-उक्त-रीत्या
+</details>
+
+
+<details><summary>English</summary>
+
+His turning away from other saviours than Bhagavān, as is stated in the śloka : 
+
+> “ Just as, O 'Bharata, tips of grass are entirely subject to (the force of) the wind,  
+> even so are all beings subject to the sway of the Lord ",
+</details>
+
+<details><summary>Español</summary>
+
+His turning away from other saviours than Bhagavān, as is stated in the śloka : 
+
+> “ Just as, O 'Bharata, tips of grass are entirely subject to (the force of) the wind,  
+> even so are all beings subject to the sway of the Lord ",
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+गतिशब्दकरणव्युत्पत्तियाले सिद्धमाऩ शरण्यान्तरवैमुख्यरूपानन्यगतित्वत्तिऱ्कु मूलमरुळिच् चॆय्गिऱार् इदिल् शरण्यान्तरवैमुख्यत्तुक्कु निबन्धनमिति । इदिल् - गतिशब्दत्तिऩुडैयकर्मकरणव्युत्पत्तिसिद्धमाऩ अनन्यगतित्वशब्दार्थङ्गळुडैय मध्यत्तिले। यथा वायोरित्यादि । बलीयस्साऩ वायुवुक्कु तृणाग्रङ्गळ् ऎप्पडि वशङ्गळागुमो अप्पडिये ब्रह्मादि-स्तंबपर्यन्तमाऩ सर्वभूतङ्गळुम् सर्वस्रष्टावाऩ भगवाऩुक्कु, वशं यान्ति – स्वस्वाधीनमऱ्ऱु परतन्त्रङ्गळागिऱदुगळॆऩ्ऱबडि। ऎऩ्गिऱबडिये - इन्द श्लोकत्तिल् सॊल्लि यिरुक्किऱबडिये। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् शरण्यान्तरवैमुख्यत्तुक्कु निबन्धनम्,  
+‘‘यथा वायोस्तृणाग्राणि वशं यान्ति बलीयसः ।  
+धातुरेवं वशं यान्ति सर्वभूतानि भारत’’ (भारतम् आरण्य ३०-२९।)  
+ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्क् उम् पिऱरुक्क् उम् ऒत्त् इरुक्किऱ  
+भगवद्-एक-पारतन्त्र्याध्यवसायम् उम्  
+प्रयोजनान्तर-वैमुख्यम् उम्।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-पर-साधारणस्य भगवद्-एक-पारतन्त्र्यस्याध्यवसायः  
+प्रयोजनान्तर-वैमुख्यं च ॥ 
+</details>
+
+<details><summary>English</summary>
+
+is conditioned by his conviction of the absolute dependence on Bhagavān alone,  
+which is common to himself and to others (including other deities than the Lord)  
+and it is conditioned also by his aversion to other interests than mukti,
+</details>
+
+<details><summary>Español</summary>
+
+is conditioned by his conviction of the absolute dependence on Bhagavān alone,  
+which is common to himself and to others (including other deities than the Lord)  
+and it is conditioned also by his aversion to other interests than mukti,
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+तऩक्कुम् पिऱरुक्कुम् - स्वस्य स्वभिन्नर्गळाऩ ब्रह्मादिगळुक्कुम्। ऒत्तिरुक्किऱ - समानमाऩ। भगवदेकपारतन्त्र्याध्यवसायमुम् प्रयोजनान्तरवैमुख्यमुम् - भगवत्पारतन्त्र्यमॊत्तिरुन्दालुम्, लोकेश्वरर्गळाग प्रसिद्धर्गळाऩ ब्रह्मादिगळुक्कु प्रयोजनान्तरप्रदानसामर्थ्यमिरुप्पदाल् प्रयोजनान्तरपररुक्कु तद्वैमुख्यम् कूडुमोवॆऩ्ऱु शङ्गियामैक्काग प्रयोजनान्तरवैमुख्यमुम्, भगवत्पारतन्त्र्याध्यवसायमुम् सेर्न्दे शरण्यान्तरवैमुख्यत्तिऱ्कु निबन्धनमॆऩ्ऱु सॊऩ्ऩदु।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+तऩक्कुम् पिऱरुक्कु मॊत्तिरुक्किऱ भगवदेकपारतन्त्र्याध्यवसायमुम् प्रयोजनान्तरवैमुख्यमुम्।
+</details>
+
+
+### प्रमाणानि
+<details><summary>English</summary>
 
 THE PRAMĀṆAS IN SUPPORT :
+</details>
+
+<details><summary>Español</summary>
+
+THE PRAMĀṆAS IN SUPPORT :
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्रपत्त्य्-अधिकार-विशेषम् 
+
+> ‘‘स पित्रा च परित्यक्तस्  
+> सुरैश्च स-महर्षिभिः ।  
+> त्रीन् लोकान् संपरिक्रम्य  
+> तम् एव शरणं गतः’’  
+> (रामा॰ सुन्दर ३८-३३।)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं प्रपत्यधिकारविशेषः, 
+
+> ‘‘स पित्रा च परित्यक्तस्  
+> सुरैश्च स-महर्षिभिः ।  
+> त्रीन् लोकान् संपरिक्रम्य  
+> तम् एव शरणं गतः’’  
+> (रामा॰ सुन्दर ३८-३३।)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रपत्त्यधिकारविशेषम् ‘‘स पित्रा च परित्यक्तस्सुरैश्च समहर्षिभिः । त्रीन् लोकान् संपरिक्रम्य तमेव शरणं गतः’’ (रामा॰ सुन्दर ३८-३३।)
+</details>
+
 
 The nature of the specific competency for prapatti is evident from the following authoritative passages and from spiritual tradition : "Having been abandoned by his own father (Indra), the gods and the great sages, he, (i.e.) Kakasura, wandered about the three worlds and finally took refuge under Rāma alone", "I am the abode of all transgressions; I have no means or upāya to save myself and I have nothing else to attain besides Thee"; "I seek" the refuge of Thy feet, O Śaraṇya (Saviour): I have no other upāya and nothing else to attain than Thee": "*Finding that there is no upāya for leaping over saṁsāra even in all the endless future, etc." : "I, who am aware that there is no upāya for me in all the thousands of crores of kalpas other than performing prapatti at Thy two lotus-like feet", and, “I who have no other refuge and no other saviour etc."
 
