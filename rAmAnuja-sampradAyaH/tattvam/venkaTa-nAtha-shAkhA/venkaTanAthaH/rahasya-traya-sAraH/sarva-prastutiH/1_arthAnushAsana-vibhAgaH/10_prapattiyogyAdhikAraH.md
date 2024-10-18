@@ -7,6 +7,7 @@ title = "१० प्रपत्तियोग्याधिकारः"
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे प्रपत्तियोग्याधिकारः ॥ १० ॥
 
+## उपोद्घातः
 <details><summary>English</summary>
 
 (10) THE CHAPTER ON FITNESS FOR PRAPATTI. page170
