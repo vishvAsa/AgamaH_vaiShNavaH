@@ -284,8 +284,8 @@ This competency exists already (before the adoption of the upāya).
 ## फलोपायौ
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इद्+++(→अधिकारम्)+++ उडैयवऩुक्कु प्रयोजनम् आय्क् कॊण्डु  
-साध्यम् आग अनुवदिक्कप्पडुम् अदु फलम्।
+इद्+++(→अधिकारम्)+++ उडैय्-अवऩुक्कु प्रयोजनम् आय्क् कॊण्डु  
+साध्यम् आग +++(साध्यत्वं रागतः प्राप्तम्→)+++अनुवदिक्कप्-पडुम् अदु फलम्।
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -307,7 +307,24 @@ what is stated to be the object to be obtained by the means,
 is the desired result or fruit. 
 </details>
 
+<details><summary>सायण-टीका</summary>
 
+इप्पडियाऩाल् तदनन्तरकालिकत्वम् फलोपायङ्गळिरण्डिऱ्कुम् तुल्यमागैयाले अवैगळिल् परस्परवैलक्षण्यम् सिद्धिक्कुमोवॆऩ्ऩ उपायत्तैक्काट्टिलुम् फलत्तिऱ्कु वैलक्षण्यत्तै मुदलिल् काट्टुगिऱार् इदुडैयवऩुक्कु इत्यादिना ।  
+इदुडैयवऩुक्कु - इन्द अधिकारमुडैयवऩुक्कु।  
+
+**प्रयोजनमाय्क्कॊण्डु साध्यमाग** इति ।  
+**प्रयोजनम् आय्क् कॊण्ड्** ऎऩ्गिऱदु साभिप्राय-विशेषणम्।  
+तथा च प्रयोजनम् आगिल् स्वतः-सुन्दरम् आय् इरुक्कुम् आगैयाल् एय्  
+अदऱ्कु साध्यत्वम् उपाय-साध्यत्वम्-बोल्  
+विधि-व्यापारापेक्षम् अऩ्ऱिक्क् ए,  
+रागतः सिद्धमायिरुक्कुम् ऎऩ्ऱबडि - **अनुवदिक्कप्पडुमदु** इति ।  
+उपायम्-बोल् विधेयम् आय् व्यापार-साध्यम् अऩ्ऱिक्क् ए  
+राग-सिद्धम् आय् अनुवाद्यम् आय् इरुक्कुम्  
+अदुव् ए फल--स्व-रूपम् ऎऩ्ऱ-बडि।  
+
+इदऩाल् प्रयोजनत्वेन राग-सिद्धत्वाद् अनुवाद्यत्वम् फलत्तिऱ्कु,  
+उपायाद्-वैलक्षण्यम् ऎऩ्ऱु ज्ञापितम् आगिऱदु।+++(4)+++  
+</details>
 
 <details><summary>मूलम्</summary>
 
@@ -334,14 +351,59 @@ Upāya is the means prescribed or ordained for securing that fruit or result.
 Upāya is the means prescribed or ordained for securing that fruit or result. 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपायवैलक्षण्यत्तैक् काट्टुगिऱार् तदर्थमाग साध्यमाग विधिक्कप्पडुमदु उपायमिति । तदर्थमाग ऎऩ्बदुम् साभिप्रायविशेषणम्। स्वर्गोपायमाऩ यागमुम् ‘‘कष्टं कर्म’’ ऎऩ्गिऱबडिये फलम्बोल् रागतस्साध्यमल्लामैयाल् फलार्थत्वादेव साध्यमॆऩ्ऱबडि। ‘‘अग्निहोत्रञ्जुहुयात्’’ ‘‘यजेत स्वर्गकामः’’ इत्यादिकळिल् विधेयमागच् चॊल्लप्पडुमदु उपायमॆऩ्ऱु करुत्तु। तथाच रागतस्साध्यमाग अनुवाद्यम् फलमॆऩ्ऱुम् फलार्थमाग साध्यतया विधेयम् उपायमॆऩ्ऱुम् निष्कर्षिक्कप्पट्टदु। 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 तदर्थमाग साध्यमाग विधिक्कप्पडुमदु उपायम्। 
 </details>
 
+## प्रपत्त्य्-अधिकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The person who has become desirous of mukti (mumukṣu) and who adopts the special upāya for mokṣa  called direct and independent prapatti should have, in common with the upāsaka ( who has adopted bhakti), a knowledge obtained from the Śāstras of such things as the relationship (between Jīvātmā and Paramatma as that between the body and the soul) and he should have in addition, the special qualifications of ākiñcanya and ananyagatitva ; ākiñcanya means the absence (in a person) of the ability for other upāyas. Ananyagatitvam means an aversion to all other interests (than mokṣa) and a turning away from all other refuge than Bhagavān. The latter is implicit in the former, namely, aversion to all other interests. This may be seen from such passages as the following :-"Wise men never worship Brahma, Rudra and others who are called gods, for the boons that they could grant are limited."
+इङ्गु मुमुक्षुत्वम् **उण्डाय्**  
+स्व-तन्त्र--प्रपत्ति-रूप--मोक्षोपाय-विशेष-निष्ठऩुक्कु  
+शास्त्र-जन्य-संबन्ध-ज्ञानादिगळ् उपासकऩोडु +++(भक्त-प्रपन्नयोः)+++ साधारणम् आय् **इरुक्क**  
+विशेषित्त अधिकारम् - तऩ्ऩ्-उडैय आकिञ्चन्यम् उम्, अन्-अन्य-गतित्वम् उम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र मुमुक्षुत्वे संपन्ने  
+स्व-तन्त्र-प्रपत्ति-रूपोपाय-विशेष-निष्ठस्य  
+शास्त्र-जन्य-सम्बन्ध-ज्ञानादिषु उपासक-साधारणेषु सत्सु  
+विशिष्यमाणोऽधिकारः स्वस्याऽऽकिञ्चन्यम् अनन्यगतित्वं च । 
+</details>
+
+<details><summary>English</summary>
+
+The person who has become desirous of mukti (mumukṣu)  
+and who adopts the special upāya for mokṣa  called direct and independent prapatti  
+should have, in common with the upāsaka ( who has adopted bhakti), a knowledge obtained from the Śāstras of such things as the relationship (between Jīvātmā and Paramatma as that between the body and the soul)  
+and he should have in addition, the special qualifications of ākiñcanya and ananyagatitva ; 
+</details>
+
+<details><summary>Español</summary>
+
+The person who has become desirous of mukti (mumukṣu)  
+and who adopts the special upāya for mokṣa  called direct and independent prapatti  
+should have, in common with the upāsaka ( who has adopted bhakti), a knowledge obtained from the Śāstras of such things as the relationship (between Jīvātmā and Paramatma as that between the body and the soul)  
+and he should have in addition, the special qualifications of ākiñcanya and ananyagatitva ; 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु मुमुक्षुत्वमुण्डाय् स्वतन्त्रप्रपत्तिरूपमोक्षोपायविशेषनिष्ठऩुक्कु शास्त्रजन्यसंबन्धज्ञानादिकळ् उपासकऩोडु साधारणमायिरुक्क विशेषित्त अधिकारम् - तऩ्ऩुडैय आकिञ्चन्यमुम् अनन्यगतित्वमुम्।  
+</details>
+
+
+ākiñcanya means the absence (in a person) of the ability for other upāyas. Ananyagatitvam means an aversion to all other interests (than mokṣa) and a turning away from all other refuge than Bhagavān. The latter is implicit in the former, namely, aversion to all other interests. This may be seen from such passages as the following :-"Wise men never worship Brahma, Rudra and others who are called gods, for the boons that they could grant are limited."
 
 If, without an eager and impatient desire for immediate mokṣa, a person who wants such things as the continuance of the body (or the continuance of the worship of arcāvatāra) adopts prapatti for the sake of mokṣa , his mukti will be delayed in proportion to these other interests,
 
