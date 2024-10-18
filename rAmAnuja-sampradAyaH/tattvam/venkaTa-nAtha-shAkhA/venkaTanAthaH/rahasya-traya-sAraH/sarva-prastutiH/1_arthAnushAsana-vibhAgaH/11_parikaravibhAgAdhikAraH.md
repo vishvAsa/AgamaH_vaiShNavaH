@@ -7,7 +7,16 @@ title = "११ परिकरविभागाधिकारः"
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे परिकरविभागाधिकारः ॥ ११ ॥
 
+<details><summary>English</summary>
+
 (11) THE CHAPTER ON THE CLASSIFICATION OF ACCESSORIES OR AÑGAS: page174
+</details>
+
+<details><summary>Español</summary>
+
+(11) THE CHAPTER ON THE CLASSIFICATION OF ACCESSORIES OR AÑGAS: page174
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
