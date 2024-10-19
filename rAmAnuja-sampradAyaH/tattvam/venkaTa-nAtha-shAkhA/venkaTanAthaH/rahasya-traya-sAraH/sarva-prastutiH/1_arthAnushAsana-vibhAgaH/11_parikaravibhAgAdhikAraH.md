@@ -59,7 +59,7 @@ who controls the whole universe from within it
 and who is already bent on the destruction of saṁsāra.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सार-बोधिनी</summary>
 
 ॥ श्रीः ॥  
 श्रीसारबोधिनीव्याख्यायां  
@@ -116,7 +116,7 @@ the avoidance of whatever is displeasing (to Him,
 helplessness (kārpaṇya), supreme faith, and supplication or seeking His protection.
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सार-बोधिनी</summary>
 
 प्रपत्तिपरिकरङ्गळै क्रमेण नाम्ना सङ्कीर्तनम् पण्णुगिऱार् इव्विद्यैक्कुप् परिकरमावदु इत्यादिना । इव्विद्यैक्कु – प्रपत्तिविद्यैक्कु। इङ्गु प्रपत्तिक्कु ऎऩ्ऱु सॊल्लामल् विद्यैक्कु ऎऩ्ऱु सॊऩ्ऩदाल् विद्यात्वसामान्यात् भक्तिविद्यैक्कुप् पोलिदऱ्कुम् परिकरम् अपेक्षितमॆऩ्ऱु ज्ञापिक्कप्पट्टदु। भक्तिपरिकरत्तैक् काट्टिलुम् इदऩ् परिकरम् विलक्षणमॆऩ्ऱु ज्ञापिक्कैक्काग इव्विद्यैक्कॆऩ्ऱदु। परिकरम् - अङ्गम्। आनुकूल्येत्यादि । आनुकूल्यसंङ्कल्पमुम् - इतःपरं तवानुकूलोऽस्मि ऎऩ्गिऱ सङ्गल्बमुम्। प्रातिकूल्यवर्जनमुम् - प्रातिकूल्यस्य परित्यागमुम्। कार्पण्यमुम् - कृपणस्य भावः कार्पण्यम्; अदुवुम्; आकिञ्चन्यानुसन्धानमुम् ऎऩ्ऱबडि। महाविश्वासमुम् - स्वसमानाधिकरणसंशयप्रागभावासमानकालिकविश्वासमुम्। गोप्तृत्ववरणमुम् - त्वमेव गोप्ता भव अदावदु रक्षको भव ऎऩ्गिऱ वरणमुम्, अदावदु प्रार्थऩैयुम्। 
 </details>
@@ -204,7 +204,7 @@ as in the word aṣṭāṅga[^es52] yoga.
     Samādhi which is the aṅgī is included among its aṅgas or accessories  .
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सार-बोधिनी</summary>
 
 आनुकूल्यसङ्कल्पादिगळै ‘‘आनुकूल्यस्य सङ्कल्पः’’ ऎऩ्गिऱ श्लोकत्तिले षड्विधा शरणागतिः ऎऩ्ऱु शरणागतियागवे सॊल्लियिरुक्क, इदै शरणागतिपरिकरमागच् चॊल्ललामोवॆऩ्गिऱ शङ्कैयै अन्द वचनोपन्यासपूर्वकं अदिऩ् भावत्तै प्रदर्शनम् पण्णि परिहरिक्किऱार् इव्विडत्तिलित्यादिना । कीऴ् मूऩ्ऱावदु अङ्गमाग कार्पण्यत्तैच् चॊल्लियिरुक्क श्लोकत्तिल् आत्मनिक्षेपानन्तराङ्गमाग पाठक्रमम् कूडुवदॆङ्ङऩेयॆऩ्ऩिल्; अङ्गङ्गळिल् उत्पत्तिक्रमम् पूर्वोक्तप्रकारमेयाऩालुम् करणमन्त्रमाऩ द्वयत्तिल् प्रतिपाद्यक्रमत्तैयनुसरित्तु इव्वचनत्तिल् पाठक्रममॆऩ्ऱु परिहारम् कण्डु कॊळ्वदु। द्वयत्तिल् प्रपूर्वकपदॢ धातूत्तरमाऩ उत्तमऩिलेये कार्पण्यम् प्रतिपाद्यमिऱे। इत्यादिगळिऱ्सॊल्लुगिऱ - इत्यादिप्रमाणवचनङ्गळिल् सॊल्लुगिऱ।  
 षाड्विध्यं – शरणागतिषाड्विध्यम्।  
@@ -259,7 +259,7 @@ and that the others are aṅgas
 are evident from the following śloka  
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सार-बोधिनी</summary>
 
 इव्विडत्तिऱ्सॊऩ्ऩ आऱु पदार्थङ्गळिल् इऩ्ऩदु अङ्गियाऩ शरणागतियॆऩ्ऱु एऱ्पट्टालल्लवो तद्घटितसमुदायघटकत्वत्ताले अजहत्स्वार्थलक्षणया अङ्गङ्गळिलुम् शरणागतिशब्दप्रयोगमॆऩ्ऱु सॊल्ललावदु? अदऱ्कु विनिगमकमाऩ प्रमाणमुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इवऱ्ऱिलित्यादिना ॥ इवऱ्ऱिल् - आनुकूल्यसङ्कल्पादिषट्कत्तिल् 
 </details>
@@ -333,7 +333,7 @@ and this does not require any argument :
 and this does not require any argument :
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सार-बोधिनी</summary>
 
 निक्षेपेत्यादि । निक्षेपापरपर्यायः – निक्षेप इति अपरं पर्यायनाम यस्य सः, निक्षेपमॆऩ्गिऱ पर्यायनामत्तै युडैयदॆऩ्ऱबडि। न्यासः – आत्मरक्षाभरन्यास एव अङ्गी । पञ्चाङ्गसंयुतः – इतरङ्गळाऩ ऐन्दु अङ्गङ्गळोडे कूडिऩदागवागिऱदु। इदु सन्न्यासमॆऩ्ऱुम्, त्यागमॆऩ्ऱुम्, शरणागतियॆऩ्ऱुम् पर्यायशब्दत्ताले सॊल्लप्पट्टदॆऩ्गिऱार् सन्न्यास इत्यादि । न्यायनिरपेक्षमाग सिद्धमिति । आनुकूल्यस्य सङ्कल्पः ऎऩ्गिऱ श्लोकत्तिल् अजहल्लक्षणैयाले अङ्गाङ्गि कळै सेर्त्तु शरणागतियॆऩ्ऱु सॊल्लि ‘‘निक्षेपापरपर्यायो न्यासः पञ्चाङ्गसंयुतः’’ ऎऩ्गिऱ श्लोकत्तिल् इव्वाऱिल् घटकमाऩ आत्मनिक्षेपत्तैये भरन्यासरूपाङ्गियॆऩ्ऱुम्, अङ्गङ्गळाऩ ऐन्दोडु सेर्न्ददॆऩ्ऱुम्, ‘‘सन्न्यासस्त्याग इत्युक्तश्शरणागतिरित्यपि’’ ऎऩ्ऱु अदुवे शरणागतियॆऩ्ऱुम् निष्कर्षिक्कैयाल् अङ्गत्वज्ञापकश्रुतिलिङ्गादितात्पर्यलिङ्गसहकृत- न्यायापेक्षैयऩ्ऱिक्के आत्मनिक्षेपमे अङ्गी । अदुवे शरणागति; मऱ्ऱ ऐन्दुम् अदऱ्कुअङ्गङ्गळॆऩ्ऱु सिद्धिक्कुमॆऩ्ऱु करुत्तु। निक्षेप’ ऎऩ्गिऱ श्लोकत्ताले इऩ्ऩदु अङ्गम्, इऩ्ऩदु अङ्गी ऎऩ्बदु न्यायनिरेपक्षमाग सिद्धिक्कुमॆऩ्बदाल् ‘‘आनुकूल्यस्य सङ्कल्पः’’ ऎऩ्गिऱ श्लोकत्तिलुम् इन्द आऱिल् ऎदिऩुडैय स्वरूपम् ऎदऩाले निर्वर्त्यमामॆऩ्ऱु श्लोकन्यायसहकृतमाऩ विचारम् पण्णिऩाल् सिद्धिक्कुमॆऩ्ऱु सूचितम्।  
 </details>
@@ -374,6 +374,8 @@ and this does not require any argument :
 
 <details><summary>English</summary>
 
+In the Ahirbudhnya Saṁhitā, it is stated as follows:---  
+
 "The self-offering ~~prapatti~~ that I perform to the Lord  
 is itself eternal fruition to me:  
 I desire no other fruit than this.  
@@ -384,6 +386,8 @@ The desire for the fruit is opposed to this."
 
 <details><summary>Español</summary>
 
+In the Ahirbudhnya Saṁhitā, it is stated as follows:---  
+
 "The self-offering ~~prapatti~~ that I perform to the Lord  
 is itself eternal fruition to me:  
 I desire no other fruit than this.  
@@ -392,7 +396,7 @@ The desire for the fruit is opposed to this."
 </details>
 
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सार-बोधिनी</summary>
 
 अहिर्बुध्न्योक्तमाऩ फलत्यागरूपाङ्गान्तरम्  
 मोक्षार्थम् आऩ आत्मनिक्षेपत्तिल् नियतमॆऩ्ऱु अरुळिच् चॆय्गिऱार् इव्विडत्तिल् इत्यादिना ।  
@@ -424,17 +428,247 @@ The desire for the fruit is opposed to this."
 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In the Ahirbudhnya Saṁhitā, it is stated as above ~~follows~~:---  
+ऎऩ्ऱु अहिर्बुध्न्योक्तम् आऩ फल-त्याग-रूपाङ्गान्तरम्  
+मोक्षार्थम् आऩ आत्म-निक्षेपत्तिल् ए नियतम्।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य् अहिर्-बुध्न्योक्तं फल-त्याग-रूपाङ्गान्तरं  
+मोक्षार्थे आत्म-निक्षेपे नियतम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+This other aṅga (described in the Ahi. Saṁhitā), namely, the absence of any desire for ulterior results or fruit  
+is essential in the surrender of the self for the sake of mokṣa , (and not in every form of prapatti). 
+</details>
+
+<details><summary>Español</summary>
+
+This other aṅga (described in the Ahi. Saṁhitā), namely, the absence of any desire for ulterior results or fruit  
+is essential in the surrender of the self for the sake of mokṣa , (and not in every form of prapatti). 
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+ऎऩ्ऱु अहिर्बुध्न्योक्तमाऩ फलत्यागरूपाङ्गान्तरम् - ऎऩ्गिऱ इन्द श्लोकत्तिले अहिर्बुध्न्यराल् सॊल्लप्पट्ट फलत्यागरूपाङ्गान्तरम्। मोक्षार्थमाऩ आत्मनिक्षेपत्तिले नियतम् - फलत्यागरूपेति हेतुगर्भविशेषणम्। इदु फलत्यागरूपमागैयाले अन्द फलत्यागम् आत्मयाथात्म्यज्ञानप्रयुक्तमागैयाल् मोक्षार्थप्रपत्तियिलेये नियतम्। प्रयोजनान्तरार्थप्रपत्तियिले आत्मज्ञानमपेक्षितमल्लामैयालुम् प्रयोजनान्तरत्तैये फलमाग उद्देशिक्कैयाले अदऩ् त्यागम् संभविक्कादागैयालुम् प्रपत्तिसामान्यानुयायियाग आगमाट्टादु। आगैयाले फलत्यागत्तै अङ्गमागच् चॊल्लुगिऱ वचनम् मोक्षार्थप्रपत्ति विषयमागैयालुम्, ‘न्यासः पञ्चाङ्गसंयुतः’’ ऎऩ्गिऱ पूर्वोदाहृतवचनम् प्रपत्तिसामान्य विषयमागैयालुम्, विरोधमुमिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
 
 
-This other aṅga (described in the Ahi. Saṁhitā), namely, the absence of any desire for ulterior results or fruit is essential in the surrender of the self for the sake of mokṣa , (and not in every form of prapatti). The giving up of all attachment to the fruit or consequence and also of the thought of one's doer- ship is common to all forms of renunciation such as karma yoga, This thought or reflection should therefore be entertained by the person desirous of mokṣa , at the time of his surrender of His self to the Lord with all the aṅgas.
+<details><summary>मूलम्</summary>
 
-1  2. ANUKÜLYA SANKALPA AND PRĀTIKūLYA VARJANAM:
+ऎऩ्ऱु अहिर्बुध्न्योक्तमाऩ फलत्यागरूपाङ्गान्तरम् मोक्षार्थमाऩ आत्मनिक्षेपत्तिले नियतम्।
+</details>
 
-Among these aṅgas, the essential condition for the will to do what is pleasing (to the Lord) (ānukülya saṅkalpa) and the avoidance of what would be displeasing to Him, (prātikulya. varjanam) is the knowledge that the person exists solely for the Lord of Lakṣmī for whom all things and all beings exist and should therefore do whatever would please Him by performance and by abstention from performance. From this it follows: that by the determination to do whatever is pleasing and the other (the avoidance of whatever is displeasing) one would avoid transgressing the command of the Lord.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(3) KĀRPANYAM:
+फल-सङ्ग--कर्तृत्वादि-त्यागम्  
+कर्म-योगम् मुदल्-आग निवृत्ति-धर्मङ्गळ् ऎल्लात्तिल् उं वरुगैयाल् ए  
+इव्व्-अनुसन्धानम् मुमुक्षुवुक्कु साङ्ग-समर्पण-दशैयिल् ए कर्तव्यम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+फल-सङ्ग--कर्तृत्वादि-त्यागस्य  
+कर्म-योगप्रभृतिषु निवृत्तिधर्मेषु सर्वेषु अनुवृत्तेः  
+एतद्-अनुसंधानं मुमुक्षोः साङ्ग-समर्पण-दशायां कर्तव्यम् । 
+</details>
+
+<details><summary>English</summary>
+
+The giving up of all attachment to the fruit or consequence  
+and also of the thought of one's doer-ship  
+is common to all forms of renunciation such as karma yoga,  
+This thought or reflection should therefore be entertained  
+by the person desirous of mokṣa,  
+at the time of his surrender of His self to the Lord with all the aṅgas.
+</details>
+
+<details><summary>Español</summary>
+
+The giving up of all attachment to the fruit or consequence  
+and also of the thought of one's doer-ship  
+is common to all forms of renunciation such as karma yoga,  
+This thought or reflection should therefore be entertained  
+by the person desirous of mokṣa,  
+at the time of his surrender of His self to the Lord with all the aṅgas.
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इन्द फलत्यागमाऩदु मोक्षार्थप्रपत्तियिल् नियतमाग वरुमॆऩ्बदिल् उपपत्तियैयुम् अदिऩ् अनुष्ठानकालत्तैयु मरुळिच्चॆय्गिऱार् फलसङ्गकर्तृत्वादित्यागमित्यादियाल्। फलं च सङ्गश्च कर्तृत्वं च फलसङ्गकर्तृत्वानि । सङ्गमावदु कर्मणि ममताबुद्धिः । आदिशब्दत्ताल् कर्मणि फलोपायत्वबुद्धिक्कु संग्रहः । त्यागशब्दम् प्रत्येकत्तिलुमन्वयिक्किऱदु। तथा च फलत्यागम्, सङ्गत्यागम्, कर्तृत्वत्यागम्, कर्मणि फलोपायत्वबुद्धित्यागमॆऩ्ऱदायिऱ्ऱु। कर्मयोगम् मुदलाग निवृत्तिधर्मङ्गळॆल्लात्तिलुम् वरुगैयाले इति । यद्यपि एतादृशसात्विकत्यागम् गीतैयिल् कर्मयोगप्रकरणत्तिल् ‘‘मयि सर्वाणि कर्माणि सन्न्यस्याध्यात्मचेतसा’’ इत्यादिगळिल् पठितमायिरुन्दालुम् इदु आत्मयाथात्म्यज्ञानकार्यमागैयाले प्रकरणात् बलीयस्साऩ अर्थसामर्थ्यरूपलिङ्गबलत्ताले निवृत्तिधर्मङ्गळॆल्लावऱ्ऱिऱ्कुम् अङ्गमाय्क्कॊण्डु अनुवर्तिक्कुमॆऩ्ऱु करुत्तु। इव्वनुसन्धानम् - इप्पडि निवृत्तिधर्मसामान्यत्तिल् वरुम् सात्विकत्यागत्तिल् घटकमाऩ अहिर्बुध्न्योक्तमाऩ फलत्यागानुसन्धानम्। मुमुक्षुवुक्कु - फलान्तरविरक्तऩाय् मोक्षत्तैये इच्छिक्कुमवऩुक्कु, साङ्गसमर्पणदशैयिले - अङ्गपञ्चकसंपन्नमाऩ स्वरूपभरफलसमर्पणकालत्तिले। कर्तव्यम् - सङ्कल्पानन्तरम् सात्विकत्यागघटकतया कर्तव्यमित्यर्थः । अङ्गङ्गळुम् निवृत्तिधर्मङ्गळागैयाल् अवैगळुक्कुम् सात्विकत्यागमबेक्षिदमागैयाल् साङ्गसमर्पणदशैयिल् कर्तव्यमॆऩ्ऱदु।  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलसङ्गकर्तृत्वादित्यागम् कर्मयोगम् मुदलाग निवृत्तिधर्मङ्ग ळॆल्लात्तिलुंवरुगैयाले इव्वनुसन्धानम् मुमुक्षुवुक्कु साङ्गसमर्पणदशैयिले कर्तव्यम्। 
+</details>
+
+
+## शेष्य्-अभिमत-वृत्तिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु परिकरङ्गळ् आऩ् अवऱ्ऱिल्  
+आनुकूल्य-सङ्कल्पत्तुक्क् उम्  
+प्रातिकूल्य-वर्जनत्तुक्क् उम् **निबन्धनम्**,  
+सर्व-शेषिय् आऩ श्रियः-पतियैप् पऱ्ऱ  
+प्रवृत्ति-निवृत्तिगळाल् ए अभिमतानुवर्तनम् **पण्ण-वेण्डुम्** बडिय्  
+इवऩुक्क् उण्ड् आऩ **पारार्थ्य-ज्ञानम्**।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र परिकर-भूतेष्व् आनुकूल्य-संकल्प--प्रतिकूल्य-वर्जनयोर् **निबन्धनं**  
+सर्वशेषिणः श्रियः पत्युर् विषये  
+प्रवृत्ति-निवृत्तिभ्याम् अभिमतानुवर्तनस्य **कर्तव्यतायाः प्रयोजकम्**  
+एतद्-गतं **पारार्थ्य-ज्ञानम्** । 
+</details>
+
+<details><summary>English</summary>
+
+Among these aṅgas, the essential condition for the will to do what is pleasing (to the Lord) (ānukülya saṅkalpa)  
+and the avoidance of what would be displeasing to Him, (prātikulya. varjanam)  
+is the knowledge that the person exists solely for the Lord of Lakṣmī  
+for whom all things and all beings exist  
+and should therefore do whatever would please Him by performance and by abstention from performance. 
+</details>
+
+<details><summary>Español</summary>
+
+Among these aṅgas, the essential condition for the will to do what is pleasing (to the Lord) (ānukülya saṅkalpa)  
+and the avoidance of what would be displeasing to Him, (prātikulya varjanam)  
+is the knowledge that the person exists solely for the Lord of Lakṣmī  
+for whom all things and all beings exist  
+and should therefore do whatever would please Him by performance and by abstention from performance. 
+</details>
+
+
+<details><summary>सार-बोधिनी</summary>
+
+इऩि परिकरङ्गळुक्कु निबन्धनत्तैयुम्, फलत्तैयुम्, अवान्तरफलत्तैयुमरुळिच् चॆय्गिऱार् इङ्गु परिकरङ्गळाऩवऱ्ऱिलित्यादिना, इङ्गु - प्रपत्तियिल्। परिकरङ् गळाऩवऱ्ऱिल् - न्यासः पञ्चाङ्गसंयुतः ऎऩ्गिऱ वचनत्तिले परिकरङ्गळाग सिद्धङ्गळाऩ वऱ्ऱिल्। परिकरङ्गळाग सिद्धङ्गळुडैय मध्यत्तिलेयॆऩ्ऱबडि। आनुकूल्यसङ्कल्पत्तुक्कुम् प्रातिकूल्यवर्जनत्तुक्कुम् निबन्धनमिति । निबन्धनम् - मूलम्। सर्वशेषियाऩ श्रियःप्रतियैप् पऱ्ऱ इति । इङ्गु सर्वशेषियॆऩ्ऱदाल् शेष्यनुकूलाचरणम् शेषऩुक्कु स्वतःप्राप्तमॆऩ्ऱु सूचितम्। श्रियःपतियैप्पऱ्ऱ ऎऩ्ऱदु अङ्गिपोले अङ्गङ्गळुम् विशिष्टविषयङ्गळॆऩ्ऱु सूचिप्पिक्कैक्काग। प्रवृत्तिनिवृत्तिकळाले इति । प्रवृत्तिरनुकूलेषु । निवृत्तिः प्रतिकूलेषु । तथा च, आनुकूल्यसङ्कल्प प्रातिकूल्यवर्जनत्तै निऩैत्तु प्रवृत्तिनिवृत्तिकळालेयॆऩ्ऱदु। अभिमतानुवर्तनम् पण्णवेण्डुम्बडि - स्वामिक्कु अभिमतमाऩ कैङ्गर्यङ्गळै प्रवृत्तियालेयुम्, स्वामिक्कनभिमतमाऩ निषिद्धङ्गळै निवृत्तियालेयुम् पण्णवेण्डुगैक्कु हेदुवाऩ। इवऩुक्कुण्डाऩ पारार्थ्यज्ञानम् - इवऩुक्कुण्डाऩ शेषत्वज्ञानम्। तथा च सर्वशेषियाऩ श्रियःपतिक्कु इवऩुडैय आनुकूल्यसङ्कल्पप्रातिकूल्यवर्जनङ्गळाले वरुवदोर् इष्टप्राप्त्यनिष्टनिवृत्तिरूपमाऩ लाभमिल्लाविट्टालुम् शेषऩाऩ इवऩुक्कु प्रवृत्तिनिवृत्तिकळाले शेष्यभिमताचरणमिष्टमागैयाले भगवाऩ् शेषी, नाऩ्शेषऩ् ऎऩ्गिऱ ज्ञानमिल्लाविडिल् अदु सिद्धिक्कादागैयाल् भगवच्छेषत्वज्ञानमे इव्विरण्डङ्गङ्गळुक्कुम् निबन्धनमॆऩ्ऱु करुत्तु। 
+</details>
+
+<details><summary>सार-प्रकाशिका</summary>
+
+(सा।प्र) इङ्गु परिकरङ्गळाऩवऱ्ऱिल् इत्यादिना । 
+
+> “अन्तस्थितोऽहं सर्वेषां  
+> भावनाम् इति निश्चयात् ।  
+> मयीव सर्वभूतेषु  
+> ह्यानुकूल्यं समाचरेत् ।  
+> तथैव प्रातिकूल्यं च  
+> भूतेषु परिवर्जयेत् ।  
+> चराचराणि भूतानि  
+> सर्वाणि भगवद्-वपुः ।  
+> अतस् तद्-आनुकूल्यं मे  
+> कार्यम् इत्येव निश्चयः 
+
+इत्यादि प्रमाण-बोधितयोस्  
+स्वस्य भगवद्-अत्यन्त-पारार्थ्य-ज्ञान-पूर्वकम्  
+"श्रुति-स्मृती ममैवाज्ञा" इत्युक्त-विहितानुष्ठान--निषिद्ध-निवृत्तिभ्यां सिद्ध्यत्--स्व-रूपयोस्  
+सर्वानुकूल्य--प्रातिकूल्य-वर्जनयोः प्रयोजकानुकूल्य-सङ्कल्प--प्रातिकूल्य-वर्जन-सङ्कल्पयोर्  
+भर-न्यास-पूर्व-कालीनयोस् सङ्कल्पितानुष्ठापन-द्वारा  
+
+> “उपायापायसंयोगे  
+> निष्ठया हीयते न या" 
+
+इत्य्-उक्ताधिकारान्तर्गत-मध्य-मवृत्ति-प्रतिबन्धकस्य  
+तादात्विक-विहिताननुष्ठान--निषिद्धानुष्ठान-रूपापायस्य निवर्तकत्वेनोपयोग इत्यर्थः ।  
+सङ्कल्पविषयस्याङ्गत्वेऽपि तादात्विकस्यैव तस्याङ्गत्वाद् अयम् एवोपयोगः । 
+</details>
+
+<details><summary>सार-प्रकाशिका-सङ्ग्रहः</summary>
+
+तद्-धेतुस् तद्विरोध्य्-अ-प्रवर्तकं च यत् तत् तन्-निबन्धनम् ।  
+
+**इत्ताले** - पारार्थ्यज्ञानेन सिद्धाङ्गद्वय-मनः प्रधानम्  
+एतद् +++(अपाय-वर्जनम्)+++ अपि निष्पद्यत इति भावः ।  
+एतद्-उक्तं भवति -  
+अनाद्य्-अपराधेन  
+परं स्वञ् च जानन्  
+
+> बद्धोऽद्दं हन्त  
+>
+> > “चराचराणि भूतानि  
+सर्वाणि भगवद्वपुः" 
+>
+> इत्युक्तः परः ।  
+एवं विध-परस्यार्थः - अतिशय एवार्थः - परमप्रयोजनं ममेति  
+अहं परार्थः ।  
+तस्य भावः पारार्थ्यम् = शेषत्वम्,  
+एवं स्वपरज्ञोऽहं कथम् अननुकूलः प्रतिकूलश् च स्याम्?  
+अथ मुमुक्षुर् अहं  
+सर्व-भूतानुकूल्य-रूप--त्वद्-आनुकूल्ये वर्तिष्ये  
+सर्व-भूत--प्रातिकूल्य-रूप--त्वत्-प्रातिकूल्यान् निवृत्तश् 
+
+चेत्य् अङ्ग-द्वय-सिद्धौ  
+विहिताकरण--निषिद्ध-करण-रूपापाय-निवृत्तिस् सिद्ध्यतीति  
+एवम् अङ्ग-द्वय-स्वरूपं तन्-निबन्धनम् ।  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु परिकरङ्गळाऩवऱ्ऱिल् आनुकूल्यसङ्कल्पत्तुक्कुम् प्रातिकूल्यवर्जनत्तुक्कुम् निबन्धनम्, सर्वशेषियाऩ श्रियःपतियैप्पऱ्ऱ प्रवृत्तिनिवृत्तिकळाले अभिमतानुवर्तनम् पण्णवेण्डुम्बडि यिवऩुक्कुण्डाऩ पारार्थ्यज्ञानम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्ताले 
+
+> ‘‘आनुकूल्य++++(प्रातिकूलवर्जन←)+++इतराभ्यां तु  
+> विनिवृत्तिर् अपायतः’’  
+> (लक्ष्मीतन्त्रम् १७-७६।) 
+
+ऎऩ्गिऱ बडिय् ए  
+अपाय-परिहारं सिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+From this it follows that  
+by the determination to do whatever is pleasing  
+and the other (the avoidance of whatever is displeasing)  
+one would avoid transgressing the command of the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+From this it follows that  
+by the determination to do whatever is pleasing  
+and the other (the avoidance of whatever is displeasing)  
+one would avoid transgressing the command of the Lord.
+</details>
+
+<details><summary>सार-बोधिनी</summary>
+
+इप्पडि इव्विरण्डिऱ्कुम् निबन्धनत्तैच् चॊल्लि  
+फलत्तैयुमुपपादिक्किऱार् इत्तालित्यादिना । 
+इत्ताल् - इन्द अङ्गद्वयत्ताल्, ऎऩ्गिऱबडिये - इव्वचनोक्तप्रकारत्ताले। अपाय-परिहारम् सिद्धमिति ।  
+**अपायम्** आवदु आज्ञातिलङ्घनम्।  
+मुऩ्बु इव्वधिकारि सॆय्द आज्ञातिलङ्घनसामान्यत्तै भगवदानुकूल्याचरणप्रातिकूल्यवर्जनङ्गळाले भगवाऩ् पॊऱुप्पाऩॆऩ्ऱबडि।  
+</details>
+
+
+<details><summary>सार-प्रकाशिका-सङ्ग्रहः</summary>
+
+अपायनिवृत्तेस् तत्-फलत्वं चोक्तम् ।
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्ताले ‘‘आनुकूल्येतराभ्यां तु विनिवृत्तिरपायतः’’ (लक्ष्मीतन्त्रम् १७-७६।) ऎऩ्गिऱबडिये अपायपरिहारम् सिद्धम्। 
+</details>
+
+## कार्पण्यम्
 
 Karpanyam , or helplessness is meditation on one's ākiñcanya and other attributes (like ananyagatitvam) described in the previous chapter, or the freedom from pride to which it gives rise. These generate a feeling of wretchedness or helplessness. In any one of these ways, it would serve to heighten the compassion of the Saviour (śaraṇya ) and would be useful later on for the promotion of the knowledge that there is no other upāya. For it is said :- "Kārpanya is abstention from seeking any other upāya"
 

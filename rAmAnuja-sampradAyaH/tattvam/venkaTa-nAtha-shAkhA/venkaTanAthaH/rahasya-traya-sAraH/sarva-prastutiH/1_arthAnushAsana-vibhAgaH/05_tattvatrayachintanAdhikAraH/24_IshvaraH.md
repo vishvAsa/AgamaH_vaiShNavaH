@@ -972,7 +972,7 @@ Among them, there are varied manifestations which are countless.
 So has it been said, "The [^f163] forms of Kṛṣṇa are innumerable"
 </details>
 
-<details><summary>सायण-टीका</summary>
+<details><summary>सार-बोधिनी</summary>
 
 इवैगळ् अनन्तङ्गळॆऩ्ऱु सप्रमाणमरुळिच् चॆय्गिऱार् ‘‘कृष्णरूपाण्यसङ्ख्यानि’’ इत्यादिगळिऱ्पडिये अनन्तङ्गळ् इति ।  
 लक्ष्मीनृसिंहऩ् योगानन्दनृसिंहऩ् चतुर्भुजाष्टभुजनृसिंहऩ् इत्यादि नृसिंहभेदङ्गळुम्  
