@@ -685,7 +685,7 @@ one would avoid transgressing the command of the Lord.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्पण्यम् आवदु  
-मुऩ्बु सॊऩ्ऩ आकिञ्चन्यादिगळ् उडैय अनुसन्धानम् आदल्,  
+मुऩ्बु +++(प्रपत्त्य्-अधिकारत्वेन)+++ सॊऩ्ऩ आकिञ्चन्यादिगळ् उडैय अनुसन्धानम् आदल्,  
 अद्-अडिय्-आग वन्द गर्व-हानिय् आदल्,  
 कृपा-जनक-कृपण-वृत्तिय् आदल् **आय्**  
 
@@ -694,7 +694,7 @@ one would avoid transgressing the command of the Lord.
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-कार्पण्यं तावत् पूर्वोक्तस्याऽऽकिञ्चन्यादेर् अनुसन्धान-रूपं वा  
+कार्पण्यं तावत् +++(प्रपत्त्य्-अधिकारत्वेन)+++ पूर्वोक्तस्या ऽऽकिञ्चन्यादेर् अनुसन्धान-रूपं वा  
 तन्-निबन्धन-गर्व-हानि-रूपं वा  
 कृपा-जनक-कृपण-वृत्ति-रूपं वा **भवत्**  
 शरण्य-कारुण्योत्तम्भनार्थं च सत्  
@@ -1024,6 +1024,7 @@ and " Suppliancy or seeking the Lord as Saviour is to make our mind known (to Hi
 </details>
 
 
+## अङ्गापेक्षा स-निदर्शनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि इव्व् ऐन्दुम् इव्-विद्याऽनुष्ठान-कालत्तिल्  
@@ -1061,11 +1062,198 @@ they are essential for the surrender of one's self, atma nikṣepa.
 </details>
 
 
-
+### त्रिजटा
+<details><summary>English</summary>
 
 ILLUSTRATION OF THE PRESENCE OF THESE AÑGAS IN SARANĀGATI:
+</details>
 
-These aṅgas that are essential for prapatti may be seen in the words of the good Trijata to the Rākṣasis advising them to seek refuge under Sītādevi. "Enough of your cruel words." This states the avoidance of what is displeasing. " Use only conciliatory language". This states implicitly the intention or will to do what is pleasing, since the utterance of speech is impossible without being preceded by mental resolution. “Terrible dread has, indeed, befallen the Rākṣasās from Rāma." By describing the state of helplessness in which they stand, this shows their ākiñcanya which is a qualification (for prapatti) and it reveals their kārpaṇya also, for, by reflecting on their helplessness they would give up their arrogance and the like, which leads to kārpaṇya, one of the aṅgas." She is capable of protecting us, O Rākṣasis, from this great danger", which is elaborated by Hanuman into " She is  capable of protecting these Rākṣasis from Rāma". This shows the great faith or mahavisvāsa that she will protect, for even when the Lord is intent on punishing one (for his or her mis-deeds ) she can turn his mind from anger. "Let us beg Sītā (to protect us). This is what I consider proper. Though you threatened her before, beg of her now; O Rākṣasis, do not ask whether she will protect. Sach talk is vain." This is supplication for protection. The surrender of the self, ātma nikṣepa, which is the aṅgī and which has these five as ita aṅgas is intended in the word pranipāta (obeisance ) which states the cause that produces the graciousness, in the śloka : "Sītā, the daughter of Janaka, is surely bent on showing her graciousness to those who do her obeisance". Therefore the statement in the śāstrās that Nyāsa has five aṅgas' ' is seen in its completeness here (in the prapatti of the Rākṣasis ). The Rākṣasis did not reject this advice and even this (mere) acquiescence (namely, non-rejection ) made Sītā become their refuge owing to her extreme love and graciously say:- "I will be your refuge." That these words were from the very heart and ultimately bore fruit has been declared by the great Parāśara Bhattar renowned for his learning and wisdom in the śloka : “O Mother Maithili, by the protection which you gave to the offending Rākṣasis from Hanuman, you reduced Rāma and His council (Sugrīva and others) to a lower position, (for Rāma protected Vibhishana (who had committed no offence) and Kakasura (who had offended) when they were able to ask for protection whereas you protected the Rākṣasis while they were in the very act of offending, and even when they did not themselves beg of you to do so, (at the intercession of Trijata)," In this surrender, by Trijata, of the responsibility (for protection) of herself and of others connected with her, the Rakṣ asis who were related to Trijata by birth and who had won her affection, were included. So also the four Rākṣasas who came along with Vibhishana were included in the upāya adopted by him. In that context also where protection was granted (by Rāma ), it is possible to fit in the aṅgī and the aṅgas. And it is in this way - Since (Vibhishana) tells Ravana who is determined to continue in his evil career, “Let "Sītā be given back to Rāma", and "Let us give Sītā Devi to Rāma and live here, O King, free from all anxiety," Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disclosed. This wholesome speech caused anger in Ravana's mind in the same way as milk tastes bitter to the person suffering from (excess of) bile. The intention to avoid what is displeasing (prātikulya varjanam) is revealed in his coming (to ŚrīRāma) having given up all attachment to Lanka in accordance with his words, "I seek refuge under Rāma having given up (my) sons and wives", and "Lanka, friends, and all kinds of wealth have been abandoned by me," (These words were uttered by him) after Ravana cursed him saying: "Shame on thee, O thou that bringest disgrace to our race." He then came to the conclusion that there was no use of giving him advice any more, that he should not enjoy any further the glories of being with him and that he should not even stay in the place where he was. Vibhishana's karpanya or feeling of helplessness is stated in his words beginning with, “The wicked Ravana" and in his saying that he has no other course left open owing to his enmity with the all-conquering Ravana and in his declaring a short while after: "I am the younger brother of Ravana and have been put to disgrace by him; I have sought Thy protection, O Thou Saviour of all." His supreme faith (mahāvisvāsa) which made him approach without fear and say: "I have sought, as my refuge or upāya, Raghava who is the protector of the whole world " is indicated in the words “ Vibhishana who was great in wisdom" as being the cause (of this faith). The world "great " which qualifies " wisdom" is intended also to show his supreme faith; his supplication for protection (Goptritva varaṇam) is conveyed in the words, “I have sought Raghava ", for it is included within them. Besides the indirect suggestion of the supplication for protection, his speech, "Offer me ( Vibhishana) to him at once " shows the surrender of his self (atmanikṣepa) done with the help of those who could promote this surrender (ghatake). The word Nivedayata, which here means "offer to Him" would be of no use, if it were interpreted as 'inform'.
+<details><summary>Español</summary>
+
+ILLUSTRATION OF THE PRESENCE OF THESE AÑGAS IN SARANĀGATI:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् अर्थम्  
+
+> पिराट्टियै शरणम् आगप् पऱ्ऱ वारुङ्गोळ्  
+
+ऎऩ्ऱु सात्त्विक-प्रकृतिय् आऩ त्रिजटै राक्षसिगळुक्कुच् चॊल्लुगिऱ वाक्यत्तिलुङ् काणलाम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयम् अर्थः "श्रीजानकीं शरणत्वेन वरीतुम् आगच्छते"ति  
+सात्त्विक-प्रकृतिकया त्रि-जटया  
+राक्षसीः प्रति उच्यमाने वाक्येऽपि सुदर्शः । 
+</details>
+
+
+<details><summary>English</summary>
+
+These aṅgas that are essential for prapatti may be seen  
+in the words of the good Trijata  
+to the Rākṣasis advising them to seek refuge under Sītādevi. 
+</details>
+
+<details><summary>Español</summary>
+
+These aṅgas that are essential for prapatti may be seen  
+in the words of the good Trijata  
+to the Rākṣasis advising them to seek refuge under Sītādevi. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि इवै आत्मनिक्षेपाविनाभूतमॆऩ्ऩिल् शरणागतिप्रस्तावप्रकरणत्तिलॆल्लाम् सूचितङ्गळागवादल् इरुक्कवेण्डुमे यॆऩ्ऩ त्रिजटैयिऩुडैय शरणागतिप्रकरणत्तिल् इवैगळैक्काणलामॆऩ्गिऱार् इव्वर्थमित्यादिना । इव्वर्थम् - अङ्गियाऩ निक्षेपत्तिऱ्कु इव्वङ्गङ्गळ् ऐन्दुम् अविनाभूतङ्गळॆऩ्गिऱवर्थम्। पिराट्टियै -सीदैयै। त्रिजटै राक्षसिकळुक्कुच्चॊल्लुगिऱ वाक्यत्तिलुम् काणलामिति । शरणागतिप्रस्ताववाक्यत्तिलेये अङ्गङ्गळ् काणलामॆऩ्ऱाल् तदनुष्ठानवाक्यत्तिल् तत्सत्वम् किमुत ऎऩ्ऱबडि। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थम् पिराट्टियै शरणमागप्पऱ्ऱ वारुङ्गोळॆऩ्ऱु सात्विकप्रकृतियाऩ त्रिजटै राक्षसिकळुक्कुच् चॊल्लुगिऱ वाक्यत्तिलुङ् गाणलाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘तद् अलं क्रूर-वाक्यैर् वः’’ (रामायणम् सुन्दरगाण्डम् २७-४१।) 
+
+ऎऩ्ऱु प्रातिकूल्य-वर्जनञ् चॊल्लप्-पट्टदु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“ तदलं क्रूरवार्यैर्वः" इति प्रातिकूल्य-वर्जनम् अभ्यधायि । 
+</details>
+
+<details><summary>English</summary>
+
+"Enough of your cruel words."  
+This states the avoidance of what is displeasing. 
+</details>
+
+<details><summary>Español</summary>
+
+"Enough of your cruel words."  
+This states the avoidance of what is displeasing. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अन्द प्रकरणत्तिल् तत्तदङ्गव्यञ्जकवाक्यङ्गळै उदाहरिक्किऱार् तदलं क्रूरवाक्यैर्वः इत्यादियाल् तत् – दुःस्वप्नदर्शनत्ताले राक्षसर्गळुक्कु भयमुपस्थितमागैयाले ऎऩ्ऱबडि। क्रूरवाक्यैः ऎऩ्ऱदु प्रातिकूल्यङ्गळ् ऎल्लावऱ्ऱिऱ्कुमुपलक्षकम्। ऎऩ्गैयाले - ऎऩ्ऱु सॊल्लुगैयाले। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तदलं क्रूरवाक्यैर्वः’’ (रामायणम् सुन्दरगाण्डम् २७-४१।) ऎऩ्ऱु प्रातिकूल्यवर्जनञ् जॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘सान्त्वम् एवाभिधीयताम्’’ ऎऩ्गैयाल् ए  
+मनः-पूर्वकम् आग-वल्लदु वाक्-प्रवृत्तिय् इल्लामैयाल् ए  
+**आनुकल्य-संकल्पम्** आकृष्टम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“10 सान्त्वम् एवाभिधीयताम् ” इत्युक्तेः,  
+मनःपूर्वकत्वम् अन्तरा वाक्-प्रवृत्तेर् अ-संभवात्  
+आनुकूल्य-संकल्पाकर्षणं फलितम् । 
+</details>
+
+<details><summary>English</summary>
+
+" Use only conciliatory language".  
+This states implicitly the intention or will to do what is pleasing,  
+since the utterance of speech is impossible  
+without being preceded by mental resolution.  
+</details>
+
+<details><summary>Español</summary>
+
+" Use only conciliatory language".  
+This states implicitly the intention or will to do what is pleasing,  
+since the utterance of speech is impossible  
+without being preceded by mental resolution.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आनुकूल्यसङ्कल्पद्योतकवाक्यत्तैक् काट्टुगिऱार् सान्त्वमेवाभिधीयतां ऎऩ्गैयाले इति । इदऩाल् सान्त्ववचनम् विधिक्कप्पडुगिऱदेयॊऴिय आनुकूल्यसङ्कल्पम् ज्ञापिक्कप्पडविल्लैयेयॆऩ्ऩ, इदु ज्ञापकमागुम् प्रकारत्तैक् काट्टुगिऱार् मनःपूर्वकमागवल्लदु वाक्प्रवृत्तियिल्लामैयाले इति । इदऩाल् आनुकूल्यसङ्कल्पो यदि न स्यात्, वाचि सान्त्ववचनाभिधानप्रवृत्तिर्न स्यात् । तस्मात् मनसि आनुकूल्यसङ्कल्पम् सिद्धमिति अर्थापत्तिप्रमाणत्ताले इन्द वचनम् आनुकूल्यसङ्कल्पत्तिऱ्कु ज्ञापकमागुमॆऩ्ऱु ज्ञापिक्कप् पट्टदु। आनुकूल्यसङ्कल्पम् आकृष्टमायिऱ्ऱु इति । वाचकशब्दमिल्लाविडिलुम् अर्थतः सिद्धमायिऱ्ऱु ऎऩ्ऱबडि। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सान्त्वमेवाभिधीयताम्’’ ऎऩ्गैयाले मनःपूर्वकमागवल्लदु वाक्प्रवृत्तियिल्लामैयालेआनुकल्यसंकल्पम् आकृष्टमायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘राघवाद्धि भयं घोरं  
+राक्षसानाम् उपस्थितम्’’  
+(रामायणम् सुन्दरगाण्डम् २७-४३) 
+
+ऎऩ्ऱु पोक्क् अऱ्ऱु निऱ्किऱ निलैयैच् +++(→अन्-अन्य-गतिकता)+++ चॊल्लुगैयाल् ए   
+अधिकारम् आऩ **आकिञ्चन्यम्** उम्  
+अदिऩ् उडैय अनुसन्धान-मुखत्ताल् ए वन्द  
+गर्व-हान्य्-आदि-रूपम् आय् अङ्गमाऩ **कार्पण्यम्** उञ् **जॊल्ल्-इऱ्ऱ् आय्-इऱ्ऱु**।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "11 राघवाद्धि भयं घोरं  
+राक्षसानाम् उपस्थितम्" 
+
+इत्य् अनन्य-गतिकत्वावस्थायाः प्रतिपादनाद्  
+अधिकार-भूतम् आकिञ्चन्यम्,  
+तद्-अनुसन्धान-मुखेन प्राप्तं गर्व-हान्य्-आदि-रूपम् अङ्गभूतकार्पण्यं चाभिहितं भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+“Terrible dread has, indeed, befallen the Rākṣasās from Rāma."  
+By describing the state of helplessness in which they stand,  
+this shows their ākiñcanya which is a qualification (for prapatti)  
+and it reveals their kārpaṇya also,  
+for, by reflecting on their helplessness  
+they would give up their arrogance and the like,  
+which leads to kārpaṇya, one of the aṅgas.  
+</details>
+
+<details><summary>Español</summary>
+
+“Terrible dread has, indeed, befallen the Rākṣasās from Rāma."  
+By describing the state of helplessness in which they stand,  
+this shows their ākiñcanya which is a qualification (for prapatti)  
+and it reveals their kārpaṇya also,  
+for, by reflecting on their helplessness  
+they would give up their arrogance and the like,  
+which leads to kārpaṇya, one of the aṅgas.  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+कार्पण्य प्रकाशकमायुम् तद्विषयीभूताकिञ्चन्यादिरूपाधिकारप्रदर्शकमायुमुळ्ळ वाक्यत्तैक् काट्टुगिऱार् राघवाद्धीत्यादियाल्। ऎऩ्ऱु - इति । इदु सॊल्लुगैयाल् ऎऩ्बदोडन्वयिक्किऱदु। पोक्कऱ्ऱु निऱ्किऱ निलैयैच् चॊल्लुगैयाले इति । पोक्कु - सीताशरणवरणभिन्नमार्गगतिः । अऱ्ऱु - इल्लामल्। निऱ्किऱ स्थितमाऩ। निलैयै - अवस्थैयै। गत्यन्तरशून्यत्वावस्थैयैच् चॊल्लुगैयाले यॆऩ्ऱबडि। अधिकारमाऩ आकिञ्चन्यमुमिति । इदऱ्कु सॊल्लिऱ्ऱायिऱ्ऱु ऎऩ्बदोडन्वयम्। अदिऩुडैय अनुसन्धानमुखत्ताले - अदिऩ् अनुसन्धानरूपकार्पण्यमुखत् ताले। वन्द - प्राप्तमाऩ, गर्वहान्यादि रूपमाय् - गर्वहान्यादिस्वरूपमायिरुक्किऱ। अङ्गमाऩ कार्पण्यमुम् - इङ्गु उम्मै उक्तमाऩ अधिकारसमुच्चायकम्। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘राघवाद्धि भयं घोरं  
+राक्षसानामुपस्थितम्’’ (रामायणम् सुन्दरगाण्डम् २७-४३) ऎऩ्ऱु पोक्कऱ्ऱु निऱ्किऱ निलैयैच् चॊल्लुगैयाले अधिकारमाऩ आकिञ्चन्यमुम् अदिऩुडैय अनुसन्धानमुखत्ताले वन्द गर्वहान्यादिरूपमाय् अङ्गमाऩ कार्पण्यमुञ्जॊल्लिऱ्ऱायिऱ्ऱु।  
+</details>
+
+
+
+"She is capable of protecting us, O Rākṣasis, from this great danger", which is elaborated by Hanuman into " She is  capable of protecting these Rākṣasis from Rāma". This shows the great faith or mahavisvāsa that she will protect, for even when the Lord is intent on punishing one (for his or her mis-deeds ) she can turn his mind from anger. "Let us beg Sītā (to protect us). This is what I consider proper. Though you threatened her before, beg of her now; O Rākṣasis, do not ask whether she will protect. Sach talk is vain." This is supplication for protection. The surrender of the self, ātma nikṣepa, which is the aṅgī and which has these five as ita aṅgas is intended in the word pranipāta (obeisance ) which states the cause that produces the graciousness, in the śloka : "Sītā, the daughter of Janaka, is surely bent on showing her graciousness to those who do her obeisance". Therefore the statement in the śāstrās that Nyāsa has five aṅgas' ' is seen in its completeness here (in the prapatti of the Rākṣasis ). The Rākṣasis did not reject this advice and even this (mere) acquiescence (namely, non-rejection ) made Sītā become their refuge owing to her extreme love and graciously say:- "I will be your refuge." That these words were from the very heart and ultimately bore fruit has been declared by the great Parāśara Bhattar renowned for his learning and wisdom in the śloka : “O Mother Maithili, by the protection which you gave to the offending Rākṣasis from Hanuman, you reduced Rāma and His council (Sugrīva and others) to a lower position, (for Rāma protected Vibhishana (who had committed no offence) and Kakasura (who had offended) when they were able to ask for protection whereas you protected the Rākṣasis while they were in the very act of offending, and even when they did not themselves beg of you to do so, (at the intercession of Trijata)," In this surrender, by Trijata, of the responsibility (for protection) of herself and of others connected with her, the Rakṣ asis who were related to Trijata by birth and who had won her affection, were included. So also the four Rākṣasas who came along with Vibhishana were included in the upāya adopted by him. In that context also where protection was granted (by Rāma ), it is possible to fit in the aṅgī and the aṅgas. And it is in this way - Since (Vibhishana) tells Ravana who is determined to continue in his evil career, “Let "Sītā be given back to Rāma", and "Let us give Sītā Devi to Rāma and live here, O King, free from all anxiety," Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disclosed. This wholesome speech caused anger in Ravana's mind in the same way as milk tastes bitter to the person suffering from (excess of) bile. The intention to avoid what is displeasing (prātikulya varjanam) is revealed in his coming (to ŚrīRāma) having given up all attachment to Lanka in accordance with his words, "I seek refuge under Rāma having given up (my) sons and wives", and "Lanka, friends, and all kinds of wealth have been abandoned by me," (These words were uttered by him) after Ravana cursed him saying: "Shame on thee, O thou that bringest disgrace to our race." He then came to the conclusion that there was no use of giving him advice any more, that he should not enjoy any further the glories of being with him and that he should not even stay in the place where he was. Vibhishana's karpanya or feeling of helplessness is stated in his words beginning with, “The wicked Ravana" and in his saying that he has no other course left open owing to his enmity with the all-conquering Ravana and in his declaring a short while after: "I am the younger brother of Ravana and have been put to disgrace by him; I have sought Thy protection, O Thou Saviour of all." His supreme faith (mahāvisvāsa) which made him approach without fear and say: "I have sought, as my refuge or upāya, Raghava who is the protector of the whole world " is indicated in the words “ Vibhishana who was great in wisdom" as being the cause (of this faith). The world "great " which qualifies " wisdom" is intended also to show his supreme faith; his supplication for protection (Goptritva varaṇam) is conveyed in the words, “I have sought Raghava ", for it is included within them. Besides the indirect suggestion of the supplication for protection, his speech, "Offer me ( Vibhishana) to him at once " shows the surrender of his self (atmanikṣepa) done with the help of those who could promote this surrender (ghatake). The word Nivedayata, which here means "offer to Him" would be of no use, if it were interpreted as 'inform'.
 
 These ideas can be found either briefly or at length in all other contexts of prapatti and in all deposits of property on trust with others in ordinary life. When depositing, with a capable person, property or wealth which one is oneself unable to keep safe, has it not been seen that one intends to do what is pleasing and to give up the intention to displease that person ? One believes that the person ( so trusted ) can keep it safe and will do so if required, tells him of one's inability to take care of it and begs him to be its custodian. Then one leaves it with him and sleeps care-free, with.' out any fear and with one's arms on one's chest.
 

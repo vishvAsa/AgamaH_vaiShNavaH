@@ -377,7 +377,7 @@ Upāya is the means prescribed or ordained for securing that fruit or result.
 अत्र मुमुक्षुत्वे संपन्ने  
 स्व-तन्त्र-प्रपत्ति-रूपोपाय-विशेष-निष्ठस्य  
 शास्त्र-जन्य-सम्बन्ध-ज्ञानादिषु उपासक-साधारणेषु सत्सु  
-विशिष्यमाणोऽधिकारः स्वस्याऽऽकिञ्चन्यम् अनन्यगतित्वं च । 
+विशिष्यमाणोऽधिकारः स्वस्या **ऽऽकिञ्चन्यम् अनन्यगतित्वं** च । 
 </details>
 
 <details><summary>English</summary>
@@ -446,8 +446,8 @@ and he should have in addition, the special qualifications of ākiñcanya and an
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्-अन्य-गतित्वम् आवदु  
-प्रयोजनान्तर-वैमुख्यम्  
-शरण्यान्तर-वैमुख्यम् आगव् उम् आम्। 
+प्रयोजनान्तर-**वैमुख्यम्**  
+शरण्यान्तर-**वैमुख्यम्** आगव् उम् आम्। 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
