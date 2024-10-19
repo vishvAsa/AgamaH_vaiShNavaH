@@ -343,8 +343,7 @@ and this does not require any argument :
 ऎऩ्गिऱ श्लोकत्ताले न्यायनिरपेक्षमाग सिद्धम्।
 </details>
 
-
-## फल-त्याग-रूपाङ्गान्तरम्
+### फल-त्याग-रूपाङ्गान्तरम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्विडत्तिल्  
@@ -509,7 +508,8 @@ at the time of his surrender of His self to the Lord with all the aṅgas.
 </details>
 
 
-## शेष्य्-अभिमत-वृत्तिः
+## अङ्ग-हेतु-फले
+### शेष्य्-अभिमत-वृत्तिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -631,6 +631,18 @@ and should therefore do whatever would please Him by performance and by abstenti
 अपाय-परिहारं सिद्धम्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतेन, 
+
+> ‘‘आनुकूल्य++++(प्रातिकूलवर्जन←)+++इतराभ्यां तु  
+> विनिवृत्तिर् अपायतः’’  
+> (लक्ष्मीतन्त्रम् १७-७६।)
+
+इत्युक्तरीत्या अपायपरिहारः सिद्धः । 
+</details>
+
+
 <details><summary>English</summary>
 
 From this it follows that  
@@ -668,13 +680,153 @@ one would avoid transgressing the command of the Lord.
 इत्ताले ‘‘आनुकूल्येतराभ्यां तु विनिवृत्तिरपायतः’’ (लक्ष्मीतन्त्रम् १७-७६।) ऎऩ्गिऱबडिये अपायपरिहारम् सिद्धम्। 
 </details>
 
-## कार्पण्यम्
+### कार्पण्यम्
 
-Karpanyam , or helplessness is meditation on one's ākiñcanya and other attributes (like ananyagatitvam) described in the previous chapter, or the freedom from pride to which it gives rise. These generate a feeling of wretchedness or helplessness. In any one of these ways, it would serve to heighten the compassion of the Saviour (śaraṇya ) and would be useful later on for the promotion of the knowledge that there is no other upāya. For it is said :- "Kārpanya is abstention from seeking any other upāya"
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(4) MAHAVISVASA:
+कार्पण्यम् आवदु  
+मुऩ्बु सॊऩ्ऩ आकिञ्चन्यादिगळ् उडैय अनुसन्धानम् आदल्,  
+अद्-अडिय्-आग वन्द गर्व-हानिय् आदल्,  
+कृपा-जनक-कृपण-वृत्तिय् आदल् **आय्**  
 
-Supreme faith or mahāviśvāsa is necessary for the performance of prapatti free from all doubts and it leads later on to freedom from all care or anxiety. For it is said. "From the faith that He will protect arises the performance of the desired upāya."
+निऩ्ऱु शरण्यऩ्-उडैय कारुण्योत्तंभनार्थम् उम् **आय्**,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कार्पण्यं तावत् पूर्वोक्तस्याऽऽकिञ्चन्यादेर् अनुसन्धान-रूपं वा  
+तन्-निबन्धन-गर्व-हानि-रूपं वा  
+कृपा-जनक-कृपण-वृत्ति-रूपं वा **भवत्**  
+शरण्य-कारुण्योत्तम्भनार्थं च सत्  
+</details>
+
+<details><summary>English</summary>
+
+Karpanyam , or helplessness is meditation on one's ākiñcanya and other attributes (like ananyagatitvam) described in the previous chapter,  
+or the freedom from pride to which it gives rise.   
+These generate a feeling of wretchedness or helplessness.  
+In any one of these ways, it would serve to heighten the compassion of the Saviour (śaraṇya )  
+</details>
+
+<details><summary>Español</summary>
+
+Karpanyam , or helplessness is meditation on one's ākiñcanya and other attributes (like ananyagatitvam) described in the previous chapter,  
+or the freedom from pride to which it gives rise.   
+These generate a feeling of wretchedness or helplessness.  
+In any one of these ways, it would serve to heighten the compassion of the Saviour (śaraṇya )  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इऩि कार्पण्यस्वरूपभेदत्तैयुम् अदऩाल् पूर्वापरादिकालङ्गळिलुण्डागुम् फलत्तै युमरुळिच्चॆय्गिऱार् कार्पण्यमावदु इत्यादिना ।  
+मुऩ्बु सॊऩ्ऩ - प्रपत्तियोग्याधिकारत्तिले सॊऩ्ऩ।  
+आकिञ्चन्यादिगळुडैय। इङ्गु आदिपदत्ताल् अनन्यगतित्वसंग्रहः । अनुसन्धानमादलिदि। इदऩाल् आकिञ्चन्यादिसत्वमे तदनुसन्धानरूपकार्पण्यत्तिऱ्कु निबन्धन मॆऩ्ऱु ज्ञापिक्कप्पट्टदु। ‘‘त्यागो गर्वस्य कार्पण्यं’’ ऎऩ्ऱु प्रमाणम् सॊल्लुगिऱदेयॆऩ्ऩ विकल्पेन अदुवुम् कार्पण्यमागलामॆऩ्गिऱार् अदडियाग वन्द गर्वहानियातलॆऩ्ऱु। कृपणस्य वृत्तिः कार्पण्यम् ऎऩ्गिऱ विग्रहत्तैयवलंबित्ताल् कृपणऩुडैय व्यापारसामान्यम् प्रपत्त्यङ्गकार्पण्यमागवेण्डिवरुमागैयाल् अदै कृपाजनकत्वेन विशेषिप्पित्तु कृपाजनक कृपणवृत्तियुम् कार्पण्यमागलामॆऩ्गिऱार् कृपाजनककृपणवृत्तियादलाय् ऎऩ्ऱु कृपणो-दरिद्रः कृपाजनकमाऩ अवऩुडैय वृत्तियावदु पुनः पुनः प्रणिपतनमुम् दन्तदर्शनमुम्, ‘‘बद्धाञ्जलिपुटं दीनं याचन्तं’’ इत्यादिगळिऱ् सॊल्लुगिऱ व्यापारमुम्। निऩ्ऱु - बहुप्रकारमाय् निऩ्ऱु। 
+
+इदऱ्कु तात्कालिकमाऩ प्रयोजनत्तै यरुळिच्चॆय्गिऱार् शरण्यऩुडैय इत्यादिना । कारुण्योत्तंभनार्थमुमाय् इति । भगवाऩ् स्वयम् शरणागतरक्षणदीक्षितऩाय् सहजकारुण्यवाऩाय् इरुन्दालुम् अवऩुडैय स्वापराधप्रतिबद्धमाऩ सहजकारुण्यत्तुक्कुम् इदु उत्तंभनमाम्। अदावदु उत्तेजकमामॆऩ्ऱबडि। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कार्पण्यमावदु मुऩ्बु सॊऩ्ऩ आकिञ्चन्यादिगळुडैय अनुसन्धानमादल्, अदडियाग वन्द गर्वहानियादल्, कृपाजनककृपणवृत्तियादलाय् निऩ्ऱु शरण्यऩुडैय कारुण्योत्तंभनार्थमुमाय्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कार्पण्येनाप्य् उपायानां  
+**विनिवृत्तिर्** इहेरिता’’  
+(लक्ष्मीतन्त्रम् १७-७७।) 
+
+ऎऩ्गिऱ-बडिय् ए  
+पिऩ्ब् उम् अनन्योपायतैक्क् उम् **उपयुक्तम्** आय् इरुक्कुम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘कार्पण्येनाप्य् उपायानां  
+**विनिवृत्तिर्** इहेरिता’’  
+(लक्ष्मीतन्त्रम् १७-७७।)
+
+इत्य् उक्त-रीत्या पश्चाद् अप्य् अनन्योपायताया उपयुक्तं भवति ।
+</details>
+
+<details><summary>English</summary>
+
+and would be useful later on for the promotion of the knowledge  
+that there is no other upāya.  
+For it is said :- "Kārpanya is abstention from seeking any other upāya"
+</details>
+
+<details><summary>Español</summary>
+
+and would be useful later on for the promotion of the knowledge  
+that there is no other upāya.  
+For it is said :- "Kārpanya is abstention from seeking any other upāya"
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदिऩ् अङ्ग्यनुष्ठानोत्तरकालिकप्रयोजनत्तैक् काट्टप् पोगिऱवराय् मुदलिल् प्रमाणत्तैक् काट्टुगिऱार् कार्पण्येनाप्युपायानामित्यादिना । उपायानां – कर्मयोगज्ञानयोगभक्तियोगानाम् । विनिवृत्तिः – स्वविषयकेच्छावत्वसंबन्धेन विनिवृत्तिः । अभाव इति यावत् । इहेरिता – इन्द अधिकारिविषयत्तिल् सॊल्लप्पट्टदु। ऎऩ्गिऱबडिये - ऎऩ्ऱु इप्प्रमाणवचनत्तिल् सॊल्लुगिऱबडिये। पिऩ्बुम् - प्रपत्त्यनुष्ठानोत्तरकालत्तिलुम्, अनन्योपायतैक्कुम् - उपायान्तरस्पर्शराहित्यत्तिऱ्कुम्, स्वविषयकेच्छावत्वसंबन्धेनापि उपायाभावत्तिऱ्कुम्। उपयुक्तमायिरुक्कुमिदि। तात्कालिकोपायान्तरस्पर्शाभावम् अङ्गत्वोपयुक्तमाऩालुम् पिऩ्बुम् उपायान्तरस्पर्शाभावम् वेण्डुमोवॆऩ्ऩिल्, अदु अङ्गत्वेनोपयुक्तमागाविट्टालुम् ‘‘उपायापायसन्त्यागी मध्यमां वृत्तिमाश्रितः’’ ऎऩ्ऱु प्रपन्नऩुक्कुच्चॊऩ्ऩ मध्यमवृत्तियिल् घटकमागैयाले उत्तरकालमुम् उपायान्तरस्पर्शाभावम् अवश्यापेक्षितमिति भावः ।   
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कार्पण्येनाप्युपायानां विनिवृत्तिरिहेरिता’’ (लक्ष्मीतन्त्रम् १७-७७।) ऎऩ्गिऱबडिये पिऩ्बुम् अनन्योपायतैक्कुम् उपयुक्तमायिरुक्कुम्।  
+</details>
+
+
+### महाविश्वासः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महा-विश्वासम्, 
+
+> ‘‘रक्षिष्यतीति विश्वासाद्  
++++(प्रपत्त्य्-आख्य-)+++अभीष्टोपाय-कल्पनम्’’  
+(लक्ष्मीतन्त्रम् १७-७७।) 
+
+ऎऩ्गिऱ बडिय् एय् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+महाविश्वासः, 
+
+> ‘‘रक्षिष्यतीति विश्वासाद्  
++++(प्रपत्त्य्-आख्य-)+++अभीष्टोपाय-कल्पनम्’’  
+(लक्ष्मीतन्त्रम् १७-७७।)
+
+इत्य् उक्त-रीत्या
+</details>
+
+
+<details><summary>English</summary>
+
+For it is said.  
+"From the faith that He will protect  
+arises the performance of the desired upāya."
+</details>
+
+<details><summary>Español</summary>
+
+For it is said.  
+"From the faith that He will protect  
+arises the performance of the desired upāya."
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+महाविश्वासम्, ‘‘रक्षिष्यतीति विश्वासादभीष्टोपायकल्पनम्’’ (लक्ष्मीतन्त्रम् १७-७७।) ऎऩ्गिऱबडियेय् 
+</details>
+
+
+Supreme faith or mahāviśvāsa is necessary for the performance of prapatti free from all doubts and it leads later on to freedom from all care or anxiety. 
+
+
 
 (5) GOPTṚTVA VARAṆAM :
 
