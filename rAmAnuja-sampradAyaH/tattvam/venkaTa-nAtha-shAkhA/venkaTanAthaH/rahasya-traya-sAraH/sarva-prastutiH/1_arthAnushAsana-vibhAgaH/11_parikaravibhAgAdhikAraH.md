@@ -76,7 +76,7 @@ and who is already bent on the destruction of saṁsāra.
 प्रपत्तेरादिष्टः परिकरविशेषः श्रुतिमुखैः ॥ २६ ॥
 </details>
 
-## अङ्गानि
+## अङ्ग-कलनम्
 <details><summary>English</summary>
 
 THE AÑGAS OR ACCESSORIES OF PRAPATTI :
@@ -344,8 +344,91 @@ and this does not require any argument :
 </details>
 
 
+## फल-त्याग-रूपाङ्गान्तरम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In the Ahirbudhnya Saṁhitā, it is stated as follows:--- "The prapatti that I perform to the Lord is itself eternal fruition to me: I desire no other fruit than this. This absence of the desire for any other fruit (than prapatti) is itself considered as the chief aṅga. The desire for the fruit is opposed to this." This other aṅga (described in the Ahi. Saṁhitā), namely, the absence of any desire for ulterior results or fruit is essential in the surrender of the self for the sake of mokṣa , (and not in every form of prapatti). The giving up of all attachment to the fruit or consequence and also of the thought of one's doer- ship is common to all forms of renunciation such as karma yoga, This thought or reflection should therefore be entertained by the person desirous of mokṣa , at the time of his surrender of His self to the Lord with all the aṅgas.
+इव्विडत्तिल्  
+
+> ‘‘शाश्वती मम **संसिद्धिर्**** +++(=फलम्)+++  
+इयं - +++(शाश्वत-कैङ्कर्येण)+++ **प्रह्वी भवामि** यत् ।  
+पुरुषं परम् **उद्दिश्य**  
+**न** मे **सिद्धिर्** +++(=फलम्)+++ इतो ऽन्यथा ॥  
+इत्य् अङ्गम् **उदितं** श्रेष्ठं  
+फलेप्सा तद्-विरोधिनी’’  
+(अहिर्बुध्न्य संहिता ५२-१४।)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र,
+
+> ‘‘शाश्वती मम **संसिद्धिर्**** +++(=फलम्)+++  
+इयं +++(शाश्वत-कैङ्कर्येण)+++ **प्रह्वी भवामि** यत् ।  
+पुरुषं परम् **उद्दिश्य**  
+**न** मे **सिद्धिर्** +++(=फलम्)+++ इतो ऽन्यथा ॥  
+इत्य् अङ्गम् **उदितं** श्रेष्ठं  
+फलेप्सा तद्-**विरोधिनी**’’  
+(अहिर्बुध्न्य संहिता ५२-१४।)  
+
+</details>
+
+<details><summary>English</summary>
+
+"The self-offering ~~prapatti~~ that I perform to the Lord  
+is itself eternal fruition to me:  
+I desire no other fruit than this.  
+This absence of the desire for any other fruit (than self-offering ~~prapatti~~) is itself considered as the chief aṅga.  
+The desire for the fruit is opposed to this."  
+
+</details>
+
+<details><summary>Español</summary>
+
+"The self-offering ~~prapatti~~ that I perform to the Lord  
+is itself eternal fruition to me:  
+I desire no other fruit than this.  
+This absence of the desire for any other fruit (than self-offering ~~prapatti~~) is itself considered as the chief aṅga.  
+The desire for the fruit is opposed to this."
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अहिर्बुध्न्योक्तमाऩ फलत्यागरूपाङ्गान्तरम्  
+मोक्षार्थम् आऩ आत्मनिक्षेपत्तिल् नियतमॆऩ्ऱु अरुळिच् चॆय्गिऱार् इव्विडत्तिल् इत्यादिना ।  
+इव्विडत्तिल् - प्रपत्तिविषयत्तिल्। 
+
+परं पुरुषमुद्दिश्य प्रह्वीभवामीति यत्,  
+इयं मम शाश्वती संसिद्धिः ।  
+"शैत्यं हि यत् सा प्रकृतिर् जलस्य" ऎऩ्गिऱविडत्तिऱ्पोल् विधेयप्राधान्यात् इयमिति स्त्रीलिङ्गनिर्देशः ।  
+इतोऽन्यथा – इन्द प्रह्वीभवनातिरिक्तमाग।  
+सिद्धिः – इन्द प्रह्वीभावजन्यफलम्।  
+मे नास्ति – शेषतैकरसिकऩ् आऩ ऎऩक्कु  
+स्वर्गादिगळ् स्वरूपानुचितङ्गळ् आगैयाल् उम्,  
+अपवर्ग-कैङ्कर्यम् शेषिक्के प्रधान-प्रयोजनम् आगैयाल् ए  
+अदिल् ममताबुद्धिय् अनुचितम् आगैयाल् उम्  
+इन्द प्रह्वी-भावम् ए उत्तरोत्तरम् अनुसन्धीयमानम् आय्क्-कॊण्डु  
+भोग्यतमम् आय् इरुप्पदाल्  
+इदुव् ए ऎऩक्कु फलम्;  
+वेऱु फलम् उद्देश्यमिल्लैयॆऩ्ऱु करुत्तु। इतीदं श्रेष्ठमङ्गं – मोक्षार्थप्रपत्तिक्कु इदु श्रेष्ठमाऩ अङ्गम्। उदितं – शास्त्रङ्गळिल् निवृत्तिधर्मसामान्यत्तिल् फलत्यागम् अङ्गमागच् चॊल्लप्पट्टबडियाल् इदऱ्कुम् सॊल्लप्पट्ट तॆऩ्ऱबडि।  
+फलेप्सा तद्विरोधिनी – फलेच्छैयाऩदु अन्द अङ्गत्तिऱ्कु विरोधिनियागु मॆऩ्ऱबडि। फलेच्छैयिरुन्दाल् फलत्यागरूपाङ्गत्तैयनुष्ठिक्कमाट्टाऩिऱे। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल्  
+‘‘शाश्वती मम संसिद्धिरियंप्रह्वीभवामि यत् ।  
+पुरुषं परमुद्दिश्य न मे सिद्धिरितोऽन्यथा ॥  
+इत्यङ्गमुदितं श्रेष्ठं फलेप्सा तद्विरोधिनी’’  
+(अहिर्बुध्न्य संहिता ५२-१४।)  
+
+</details>
+
+
+In the Ahirbudhnya Saṁhitā, it is stated as above ~~follows~~:---  
+
+
+This other aṅga (described in the Ahi. Saṁhitā), namely, the absence of any desire for ulterior results or fruit is essential in the surrender of the self for the sake of mokṣa , (and not in every form of prapatti). The giving up of all attachment to the fruit or consequence and also of the thought of one's doer- ship is common to all forms of renunciation such as karma yoga, This thought or reflection should therefore be entertained by the person desirous of mokṣa , at the time of his surrender of His self to the Lord with all the aṅgas.
 
 1  2. ANUKÜLYA SANKALPA AND PRĀTIKūLYA VARJANAM:
 
