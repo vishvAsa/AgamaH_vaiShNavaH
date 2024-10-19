@@ -816,6 +816,10 @@ For it is said.
 arises the performance of the desired upāya."
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इतरशास्त्रार्थानुष्ठानत्तिल्बोल् इङ्गुम् शास्त्रार्थविश्वासमे यमैयादो? अदिल् महत्वनिवेशत्तुक्कु प्रयोजनम् ताऩुण्डो वॆऩ्ऩ, महाविश्वासत्तै सप्रयोजनमाग निरूपिक्किऱार् महाविश्वासमित्यादिना । ऎऩ्गिऱबडिये - ऎऩ्ऱु प्रमाणम् सॊल्लुगिऱबडिये, 
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -824,15 +828,240 @@ arises the performance of the desired upāya."
 </details>
 
 
-Supreme faith or mahāviśvāsa is necessary for the performance of prapatti free from all doubts and it leads later on to freedom from all care or anxiety. 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(सन्देहाभावात्)+++ अणिय्+++(=उपकरणान्तरम्)+++ इडाद अनुष्ठान-सिद्ध्य्-अर्थम् उम् आय्प्  
+पिऩ्बु निर्भरतैक्कु मुऱुप्प् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++++(सन्देहाभावात्)+++ सहायान्तर-निरपेक्षानुष्ठान-सिद्धयर्थः सन्  
+पश्चात् निर्भरताया अपि प्रयोजको भवति ।
+</details>
+
+<details><summary>English</summary>
+
+Supreme faith or mahāviśvāsa is necessary for the performance of prapatti free from all doubts  
+and it leads later on to freedom from all care or anxiety. 
+</details>
+
+<details><summary>Español</summary>
+
+Supreme faith or mahāviśvāsa is necessary for the performance of prapatti free from all doubts  
+and it leads later on to freedom from all care or anxiety. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अणियिडाद - सन्देहियाद, मेल् सॊल्लप्पोगिऱ शङ्का-पञ्चकम् प्रपत्त्य्-अनुष्ठान-विरोधिय् आगैयाल् ए  
+तन्-निवारण-पूर्वकम् आग ऎऩ्ऩबडि।  
+इदऩाल् स्व-समानाधिकरण-सन्देह-प्राग्-अभावासमान-कालिकत्वम् विश्वासत्तिल् महत्त्वम् ऎऩ्ऱद् आयिऱ्ऱु।  
+अनुष्ठान-सिद्ध्य्-अर्थम् उम् आय् इति। अङ्गियिऩुडैय अनुष्ठानसिद्ध्यर्थमुमाय्। इङ्गु उम्मैयाल् विवक्षितमाऩ प्रयोजनान्तरत्तैक् काट्टुगिऱार् पिऩ्बु निर्भरतैक्कुमुऱुप्पायिरुक्कुमिति । पिऩ्बु - प्रपत्त्युत्तरकालम्, निर्भरतैक्कुमुऱुप्पायिरुक्कुमिति - प्रपत्त्युत्तरकालम् रक्षिष्यति न वेति सन्देहम् पिऱन्दाल् निर्भरोऽस्मि ऎऩ्गिऱ निश्चयम् घटियातागैयाले उत्तरकालम् सन्देहमुण्डागादबडि निर्भरत्वनिश्चयत्तिऱ्कु हेतुवायिरुक्कुमॆऩ्ऱबडि। इदऩाल् स्वसमानाधिकरणसंशयप्रागभावासमानकालिकत्वमुम् महत्वशब्दार्थमॆऩ्ऱु ज्ञापितमागिऱदु। ऒरुवऩुक्कु निर्भरत्वनिश्चयमिल्लाविडिल् इरुन्दगालम् मनस्सिल् सौख्यमिरादागैयालुम् उपायान्तरस्पर्शम् सम्भावितमागैयालुम् उत्तरकालम् निर्भरत्वनिश्चयम् वेण्डुमिऱे। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अणियिडाद अनुष्ठानसिद्ध्यर्थमुमाय्प् पिऩ्बु निर्भरतैक्कु मुऱुप्पायिरुक्कुम्। 
+</details>
+
+### गोप्तृत्व-वरणम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्व-रूपानुचित-पुरुषार्थङ्गळ् पोल् ए  
+स्व-रूप-प्राप्तम् आऩ अपवर्गम् उम् पुरुषार्थम् आम् पोदु  
+पुरुषऩ् अर्थिक्कक् कॊडुक्क-वेण्डुगैयाल् ए  
+इङ्गु गोप्तृत्व-वरणम् उम् **अपेक्षितम्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वरूपानुचित-पुरुषार्थवत् स्व-रूप-प्राप्तो ऽपवर्गो ऽपि पुरुषार्थत्वात्  
+पुरुषेणार्थितत्वे सत्य् एव दातव्य इत्य्-अतो  
+ऽत्र गोप्तृत्व-वरणम् अप्य् अपेक्षितम् । 
+</details>
+
+<details><summary>English</summary>
+
+Though mokṣa  is the appropriate goal of our essential nature, (svarūpa),  
+yet when it is sought as the desired end (puruṣārtha),  
+it has to be asked for, just like other desired objects not so appropriate.  
+
+Supplication for protection is necessary  
+since the thing (viz. mokṣa ) would be given only to one who asks for it.
+</details>
+
+<details><summary>Español</summary>
+
+Though mokṣa  is the appropriate goal of our essential nature, (svarūpa),  
+yet when it is sought as the desired end (puruṣārtha),  
+it has to be asked for, just like other desired objects not so appropriate.  
+
+Supplication for protection is necessary  
+since the thing (viz. mokṣa ) would be given only to one who asks for it.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हितैषियाऩ भगवाऩ् प्रयोजनान्तरङ्गळै अपेक्षैयऩ्ऱिक्के कॊडुक्कमाट्टाऩागिलुम् स्वरूपानुगुणमाऩ अपवर्गत्तै त्वं गोपायिता भव ऎऩ्गिऱ अपेक्षैयऩ्ऱिक्के कॊडुक्कक्कूडादो, आगैयाल् गोप्तृत्ववरणमावश्यकमोवॆऩ्ऩ, अदै सप्रयोजनमाग निरूपिक्किऱार् स्वरूपानुचितेत्यादिना । स्वरूपानुचितपुरुषार्थङ्गळ् पोले - धर्मार्थकामङ्गळ्बोले, स्वरूपप्राप्तमाऩ - शेषत्वस्वरूपत्तिऱ्कु अनुगुणमाग वन्द, अपवर्गमुम् - मोक्षमुम्, पुरुषार्थमाम्बोदु - पुरुषार्थव्यवहार विषयमाम्बोदु, पुरुषऩ् अर्थिक्कक् कॊडुक्कवेण्डुगैयाले - पुरुषऩाल् अर्थ्यमानमाय्क्कॊण्डे देयमागैयाले, इङ्गु - इन्द प्रपत्तियिले, गोप्तृत्व-वरणम् - त्वं मे गोपायिता भव इति प्रकर्षेणार्थनं प्रार्थनम्, अपेक्षितम् - अङ्गतयापेक्षितमॆऩ्ऱबडि। तथाच अपवर्गम् स्वरूपोचितमागैयाले स्वरूपोचितमॆऩ्गिऱ व्यवहारविषयमाऩालुम् पुरुषऩ् अर्थिक्कामल् कॊडुत्ताल् अदु पुरुषार्थमॆऩ्गिऱ व्यवहारविषयमागादागैयाल् ‘‘चतुर्णां पुरुषार्थानां दाता विष्णुश्चतुर्भुजः’’ इत्यादिगळिल् सॊल्लुगिऱ चतुर्विधपुरुषार्थदायित्वम् भगवाऩुक्कु घटियातॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वरूपानुचितपुरुषार्थङ्गळ् पोले स्वरूपप्राप्तमाऩ अपवर्गमुम् पुरुषार्थमाम् पोदुपुरुषऩ् अर्थिक्कक् कॊडुक्कवेण्डुगैयाले इङ्गु गोप्तृत्ववरणमुम् अपेक्षितम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नऩ्ऱ् आय् इरुप्पद् ऒऩ्ऱैय् उम्  
+इप्-पुरुषऩ् **अर्थिक्कक् कॊडाद** पोदु  
+पुरुषार्थङ् **कॊडुत्ताऩ् आगाऩ्** इऱे। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+समीचीनम् अपि कञ्चिद् अर्थं  
+पुरुषे ऽर्थ्यमाने सत्य् एव ददातीत्य्  
+अस्याभावे हि न पुरुषार्थं दत्तवान् स्यात् । 
+</details>
+
+<details><summary>English</summary>
+
+No good thing is ever given without its being asked for.  
+Therefore mokṣa  will not be puruṣārtha,  
+unless it is asked for by the purusha.  
+</details>
+
+<details><summary>Español</summary>
+
+No good thing is ever given without its being asked for.  
+Therefore mokṣa  will not be puruṣārtha,  
+unless it is asked for by the purusha.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि कीऴ् स्वरूपप्राप्तमाऩ अपवर्गमुम् पुरुषार्थमाम्बोदु ऎऩ्ऱु नल्लदाऩ अपवर्गरूपविशेषत्तिऱ्कु पुरुषार्थत्वप्राप्तेरावश्यकत्वे पुरुषऩ् अर्थित्ते कॊडुक्कवेण्डु मॆऩ्ऱुबपादित्तु अन्द न्यायत्तै नल्लदाऩ वस्तुसामान्यत्तिल् व्यतिरेकप्रदर्शनत्ताले दृढीकरिक्किऱार् नऩ्ऱायिरुप्पदॊऩ्ऱैयुमित्यादिना । इन्द न्यायम् अपवर्गेतरविषय मागादोवॆऩ्ऱु शङ्कियामैक्काग नऩ्ऱायिरुप्पदॊऩ्ऱैयुमॆऩ्ऱदु। नल्लदायिरुप्पदु त्रिवर्गमाऩालुम्, अपवर्गमाऩालुमदै यॆऩ्ऱबडि। इप्पुरुषऩ् अर्थिक्कगॊडादबोदु - इदु विशेषणत्तिल् व्यतिरेकनिर्देशम्। पुरुषऩ् अर्थिक्कामल् कॊडुत्तबोदु ऎऩ्ऱबडि। पुरुषार्थङ्गॊडुत्ताऩागाऩिऱे इति । इवऩ् अर्थिक्कादबोदु अवऩ् कॊडुक्कुम् नल्ल वस्तुविऱ्कुम् पुरुषार्थत्वम् किडैयादागैयाल् इदऱ्कु पुरुषार्थत्वम् सिद्धियाददोडु इदैक्कॊडुक्कुमवऩुक्कुम् पुरुषार्थप्रदायित्वम् सिद्धियातॆऩ्ऱबडि। तथाच गोप्तृत्ववरणत्तिऱ्कु भगवता दीयमानमाऩ अपवर्गत्तिल् पुरुषार्थत्वापादकत्वमुम्, अदडियाग दातावाऩ भगवाऩुक्कु पुरुषार्थप्रदायित्वापादनमुम् फलमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नऩ्ऱायिरुप्पदॊऩ्ऱैयुमिप् पुरुषऩ् अर्थिक्कक् कॊडादबोदु पुरुषार्थङ् गॊडुत्ताऩागाऩिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयालेयिऱे ‘‘अप्रार्थितो न गोपायेत्’’ (लक्ष्मी-तन्त्रम् १७-७२।) ऎऩ्ऱुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत एव हि "7 अप्रार्थितो न गोपायेत्" इति, 
+</details>
+
+<details><summary>English</summary>
+
+That is why it has been stated as follows :-  
+"No protection would be given when it is not sought", 
+</details>
+
+<details><summary>Español</summary>
+
+That is why it has been stated as follows :-  
+"No protection would be given when it is not sought", 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आगैयालेयिऱे इति । इप्पडि पुरुषऩ् अर्थिक्कादबोदु अपवर्गत्तुक्कु पुरुषार्थत्वमुम्, भगवाऩुक्कु पुरुषार्थदायित्वमुम् सिद्धिक्कादागैयालेयिऱे। अप्रार्थितो न गोपायेदिति । इन्द वस्तु ऎऩक्कु वेण्डुमॆऩ्ऱु याचिक्कादबोदु ऒऩ्ऱिलुम् पुरुषैरर्थ्य-मानत्वरूपपुरुषार्थसिद्धियिल्लामैयाल् पुरुषार्थप्रदानरूपरक्षैयैप् पण्णमाट्टाऩॆऩ्ऱ पडि। ऎऩ्ऱुम् - इति । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयालेयिऱे ‘‘अप्रार्थितो न गोपायेत्’’ (लक्ष्मी-तन्त्रम् १७-७२।) ऎऩ्ऱुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘गोप्तृत्ववरणं नाम  
+> स्वाभिप्राय-निवेदनम्’’  
+> (लक्ष्मी-तन्त्रम् १७-७८।) 
+
+ऎऩ्ऱुञ् चॊल्लुगिऱदु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘गोप्तृत्ववरणं नाम  
+> स्वाभिप्राय-निवेदनम्’’  
+> (लक्ष्मी-तन्त्रम् १७-७८।) 
+
+इति चोच्यते ।
+</details>
+
+<details><summary>English</summary>
+
+and " Suppliancy or seeking the Lord as Saviour is to make our mind known (to Him)."
+</details>
+
+<details><summary>Español</summary>
+
+and " Suppliancy or seeking the Lord as Saviour is to make our mind known (to Him)."
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+गोप्तृत्ववरणं नाम स्वाभिप्राय निवेदनमिति । गोप्तृत्ववरणं नाम – गोप्तृत्ववरण-शब्दार्थम्, स्वाभिप्रायनिवेदनम् - नी ऎऩक्कु इन्द फलत्तैक् कॊडुत्तु इन्द फलप्रदानरूपरक्षैयैप् पण्णवेण्डुमॆऩ्गिऱ स्वाभिप्रायत्तुक्कु बोधकमाऩ शब्दकथनम्। ऎऩ्ऱुम् - इति च । सॊल्लुगिऱदु - वचनङ्गळ् सॊल्लुगिऱदु। इदऩाल् नल्लदाऩ इष्टवस्तुवुमिवऩ् अर्थियादबोदु पुरुषार्थमागादागैयालुम्, इवऩ् याच्नाविज्ञापनादिगळाले स्वाभिप्रायत्तै निवेदनम् पण्णादबोदु भगवाऩुक्कु इवऩ् विषयत्तिल् इष्टप्रदित्सा-पूर्वकपुरुषार्थप्रदायित्वम् सिद्धियादागैयालुम्, गोप्तृत्ववरणम् आवश्यकमॆऩ्ऱु ज्ञापिक्कप्पट्टदु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘गोप्तृत्ववरणं नाम स्वाभिप्रायनिवेदनम्’’ (लक्ष्मी-तन्त्रम् १७-७८।) ऎऩ्ऱुञ् जॊल्लुगिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि इव्व् ऐन्दुम् इव्-विद्याऽनुष्ठान-कालत्तिल्  
+**उपयुक्तङ्गळ्** आगैयाल्  
+इवै इव्व् आत्म-निक्षेपत्तुक्कु अ-विना-भूत--स्व-भावङ्गळ्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थम् इमानि पञ्चापि एतद्-विद्यानुष्ठान-काले उपयुक्तानीति  
+इमानि अस्यात्म-निक्षेपस्याविनाभूत-स्व-भावानि । 
+</details>
+
+
+<details><summary>English</summary>
+
+Since these five are of use at the time of the performance of prapatti,  
+they are essential for the surrender of one's self, atma nikṣepa.
+</details>
+
+<details><summary>Español</summary>
+
+Since these five are of use at the time of the performance of prapatti,  
+they are essential for the surrender of one's self, atma nikṣepa.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्वैन्दु अङ्गङ्गळुम् अवश्यम् वेण्डुमॆऩ्ऱु निर्बन्धमुण्डो? सयूथ्यर् सॊल्लुगिऱबडि सम्भवस्थलाभिप्रायङ्गळॆऩ्ऱो, यथा कथञ्चित् इवैगळ् उदवुगिऱ मात्तिरमॆऩ्ऱो कॊळ्ळलागादोवॆऩ्ऩवरुळिच्चॆय्गिऱार् इप्पडि इव् वैन्दुमित्यादिना । इप्पडि - परस्परविलक्षणमाय्, सनिबन्धनमाय्, सप्रयोजनमाय्, कीऴे उपपादिक्कप्पट्टबडि। इव्वैन्दुम् - इन्द अङ्गपञ्चकमुम्। इव्विद्यानुष्ठानकालत् तिल् - प्रपत्तिविद्यानुष्ठानसमयत्तिल्। उपयुक्तङ्गळागैयाल् - ‘‘रक्षिष्यतीति विश्वासादभीष्टोपाय-कल्पनम्’’ इत्यादिगळिऱ् सॊल्लुगिऱबडि प्रपत्तिस्वरूपनिष्पत्तिक्के उपयुक्तङ्गळागैयाले। आरादुपकारकङ्गळ्बोल् अदृष्टार्थङ्गळऩ्ऱिक्के सन्निपत्योपकारकङ्गळागैयालॆऩ्ऱ पडि। इवै - इव्वैन्दुम्। इव्वात्मनिक्षेपत्तुक्कु अविनाभूतस्वभावङ्गळिति । इदिल् ओरॊऩ्ऱिऩुबयोगमुम् विलक्षणमायिरुप्पदाल् इदिलॊऩ्ऱिल्लाविडिलुम् आत्मनिक्षेपम् सिद्धिक्कादागैयाल् इवै ऐन्दुम् आत्मनिक्षेपत्तोडु अविनाभूतस्वभावङ् गळ् ऎऩ्ऱबडि।   
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इव्वैन्दुम् इव्विद्यानुष्ठानकालत्तिल् उपयुक्तङ्गळागैयाल् इवै इव्वात्मनिक्षेपत्तुक्कु अविनाभूतस्वभावङ्गळ्।  
+</details>
 
 
 
-(5) GOPTṚTVA VARAṆAM :
-
-Though mokṣa  is the appropriate goal of our essential nature, (svarūpa), yet when it is sought as the desired end (puruṣārtha), it has to be asked for, just like other desired objects not so appropriate. Supplication for protection is necessary since the thing (viz. mokṣa ) would be given only to one who asks for it. No good thing is ever given without its being asked for. Therefore mokṣa  will not be puruṣārtha, unless it is asked for by the purusha. That is why it has been stated as follows :-"No protection would be given when it is not sought", and " Suppliancy or seeking the Lord as Saviour is to make our mind known (to Him)."
-
-Since these five are of use at the time of the performance of prapatti, they are essential for the surrender of one's self, atma nikṣepa.
 
 ILLUSTRATION OF THE PRESENCE OF THESE AÑGAS IN SARANĀGATI:
 
