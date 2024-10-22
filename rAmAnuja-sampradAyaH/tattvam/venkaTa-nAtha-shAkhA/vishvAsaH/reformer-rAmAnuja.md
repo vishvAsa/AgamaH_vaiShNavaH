@@ -3,12 +3,13 @@ title = "Reformer rAmAnuja"
 +++
 
 ## Data
-tanjamma story (denying sheSha of his non-v1 teacher to R) and such are reliable (though it's been boosted to the point of making it about some "social reform" thing). The recorders are near-contemporaries. As far as rAmAnuja was concerned he was acting within the confines of varNAshrama-dharma, as was his wife (albeit overly influenced by shiShTAchAra and less by actual shAstra study). Ditto with mantra-broadcast story.
+### tanjamma story
+tanjamma story (denying sheSha - not uchChiShTa- of his non-v1 teacher to R) and such are reliable (though it's been boosted to the point of making it about some "social reform" thing). The recorders are near-contemporaries. As far as rAmAnuja was concerned he was acting within the confines of varNAshrama-dharma, as was his wife (albeit overly influenced by shiShTAchAra and less by actual shAstra study). Ditto with mantra-broadcast story.
+
+The yajnopavIta granting story ("8 yo R did so to perform antya-karma to a v4"), quoted as "family record" by K shrIkRShNa, is utterly insane - not from any reliable record. As a matter of fact, it is well known that R questioned his teacher about him performing final rites (without violating shAstra but violating common practice) to a v4 student and receiving a satisfactory answer citing final rite to jaTAyuSh by rAma.
 
 ## Hype
 "Statue of equality" hype and quotes in its website are not reliable. All orthodox shrIvaiShNava-s - definitely all belonging to the vaDakalai sect detest such lies, even if it is good propaganda to bring wokes into dharma.
-
-The yajnopavIta granting story ("8 yo R did so to perform antya-karma to a v4"), quoted as "family record" by K shrIkRShNa, is utterly insane - not from any reliable record. As a matter of fact, it is well known that R questioned his teacher about him performing final rites (without violating shAstra but violating common practice) to a v4 student and receiving a satisfactory answer citing final rite to jaTAyuSh by rAma.
 
 ## Instructions of Agamas
 The following injuctions about adherence to varNAshrama-dharma are heavily quoted by R, VD etc..
