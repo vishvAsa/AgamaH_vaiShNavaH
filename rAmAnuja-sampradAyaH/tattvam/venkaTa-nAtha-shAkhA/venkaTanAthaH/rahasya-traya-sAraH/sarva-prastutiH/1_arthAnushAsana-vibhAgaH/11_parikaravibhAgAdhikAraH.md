@@ -1636,10 +1636,68 @@ and ultimately bore fruit has been declared
 इप्पासुरम् सहृदयमाय् फलपर्यन्तमाऩबडियै
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मातर् मैथिलि राक्षसीस् त्वयि तथैवार्द्र+++(→क्रियमाण-)++++अपराधास् त्वया  
+> रक्षन्त्या +++(←)+++पवनात्मजाल्, **लघुतरा** +++(शुष्कापराध-क्षामकी)+++ रामस्य गोष्ठी **कृता** ’’  
+> (श्रीगुणकोशम् ५०।)
+
+ऎऩ्ऱु अभियुक्तर् वॆळियिट्टार्गळ्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘मातर् मैथिलि राक्षसीस् त्वयि तथैवार्द्र+++(→क्रियमाण-)++++अपराधास् त्वया  
+> रक्षन्त्या +++(←)+++पवनात्मजाल्, **लघुतरा** +++(शुष्कापराध-क्षामकी)+++ रामस्य गोष्ठी **कृता** ’’  
+> (श्रीगुणकोशम् ५०।)
+
+इत्य् अभियुक्ताः प्रकाशयाम् आसुः । 
+</details>
 
 
-  
-by the great Parāśara Bhattar renowned for his learning and wisdom in the śloka : “O Mother Maithili, by the protection which you gave to the offending Rākṣasis from Hanuman, you reduced Rāma and His council (Sugrīva and others) to a lower position, (for Rāma protected Vibhishana (who had committed no offence) and Kakasura (who had offended) when they were able to ask for protection whereas you protected the Rākṣasis while they were in the very act of offending, and even when they did not themselves beg of you to do so, (at the intercession of Trijata)," In this surrender, by Trijata, of the responsibility (for protection) of herself and of others connected with her, the Rakṣ asis who were related to Trijata by birth and who had won her affection, were included. So also the four Rākṣasas who came along with Vibhishana were included in the upāya adopted by him. In that context also where protection was granted (by Rāma ), it is possible to fit in the aṅgī and the aṅgas. And it is in this way - Since (Vibhishana) tells Ravana who is determined to continue in his evil career, “Let "Sītā be given back to Rāma", and "Let us give Sītā Devi to Rāma and live here, O King, free from all anxiety," Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disclosed. This wholesome speech caused anger in Ravana's mind in the same way as milk tastes bitter to the person suffering from (excess of) bile. The intention to avoid what is displeasing (prātikulya varjanam) is revealed in his coming (to ŚrīRāma) having given up all attachment to Lanka in accordance with his words, "I seek refuge under Rāma having given up (my) sons and wives", and "Lanka, friends, and all kinds of wealth have been abandoned by me," (These words were uttered by him) after Ravana cursed him saying: "Shame on thee, O thou that bringest disgrace to our race." He then came to the conclusion that there was no use of giving him advice any more, that he should not enjoy any further the glories of being with him and that he should not even stay in the place where he was. Vibhishana's karpanya or feeling of helplessness is stated in his words beginning with, “The wicked Ravana" and in his saying that he has no other course left open owing to his enmity with the all-conquering Ravana and in his declaring a short while after: "I am the younger brother of Ravana and have been put to disgrace by him; I have sought Thy protection, O Thou Saviour of all." His supreme faith (mahāvisvāsa) which made him approach without fear and say: "I have sought, as my refuge or upāya, Raghava who is the protector of the whole world " is indicated in the words “ Vibhishana who was great in wisdom" as being the cause (of this faith). The world "great " which qualifies " wisdom" is intended also to show his supreme faith; his supplication for protection (Goptritva varaṇam) is conveyed in the words, “I have sought Raghava ", for it is included within them. Besides the indirect suggestion of the supplication for protection, his speech, "Offer me ( Vibhishana) to him at once " shows the surrender of his self (atmanikṣepa) done with the help of those who could promote this surrender (ghatake). The word Nivedayata, which here means "offer to Him" would be of no use, if it were interpreted as 'inform'.
+<details><summary>English</summary>
+
+by the great Parāśara Bhattar renowned for his learning and wisdom in the śloka : 
+
+> “O Mother Maithili, by the protection which you gave to the offending Rākṣasis from Hanuman,  
+> you reduced Rāma and His council (Sugrīva and others) to a lower position,  
+> (for Rāma protected Vibhishana (who had committed no offence)  
+> and Kakasura (who had offended)  
+> when they were able to ask for protection  
+> whereas you protected the Rākṣasis while they were in the very act of offending, and even when they did not themselves beg of you to do so, (at the intercession of Trijata)," 
+
+</details>
+
+<details><summary>Español</summary>
+
+by the great Parāśara Bhattar renowned for his learning and wisdom in the śloka : 
+
+> “O Mother Maithili, by the protection which you gave to the offending Rākṣasis from Hanuman,  
+> you reduced Rāma and His council (Sugrīva and others) to a lower position,  
+> (for Rāma protected Vibhishana (who had committed no offence)  
+> and Kakasura (who had offended)  
+> when they were able to ask for protection  
+> whereas you protected the Rākṣasis while they were in the very act of offending, and even when they did not themselves beg of you to do so, (at the intercession of Trijata)," 
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+मातर्मैथिलीत्यादि । इदु श्रीगुणरत्नकोशत्तिल् भट्टर् अरुळिच्चॆय्ददु। ‘‘काकन्तं च विभीषणं शरणमित्युक्तिक्षमौ रक्षतस्सानस्सान्द्रमहागसस्सुखयतु क्षान्तिस्तवाकस्मिकी’’ ऎऩ्बदिदिऩुत्तरार्धम्। 
+
+इदिऩर्थम्, हे मातः मैथिलि - तायाराऩ मिथिलाधिपऩ् पुत्रियाऩ पिराट्टिये। त्वयि - उऩ् विषयत्तिल्, तथैवार्द्रापराधाः – वाचामगोचरमाऩ तदानीन्तनमाऩ अपराधङ्गळैयुडैय, राक्षसीः – राक्षसिकळै, पवनात्मजात् – हनुमारिडत्तिल् निऩ्ऱुम्, रक्षन्त्या – शरणमॆऩ्गिऱ उक्तियैच् चॊल्लाम लिरुक्कच्चॆय्देयुम् विलक्कामैये पऱ्ऱासागक् कॊण्डु रक्षित्त, त्वया - उऩ्ऩाल्, काकं - कागत्तैयुम्, तं च विभीषणं - अन्द विभीषणऩैयुम्, शरणमित्युक्तिक्षमौ – राघवं शरणं गतः इत्याद्युक्तिक्षमौ, काकासुरऩ् मूऩ्ऱु उलगङ्गळैयुम् सुऱ्ऱि तिरुवडिगळिल् विऴुगैयालुम्, अक्कालत्तिल् पक्षिकळुम् शरणमॆऩ्गिऱ उक्तियैच् चॊल्ल समर्थङ्गळागैयालुम्, ‘‘त्रींल्लोकान् सम्परिक्रम्य तमेव शरणं गतः’’ ऎऩ्ऱु वाल्मीगि भगवाऩ् अरुळिच्चॆय्गैयालुम् कागत्तिऱ्कुम् शरणमित्युक्तिक्षमत्वम् सॊऩ्ऩदु। रक्षतो रामस्य गोष्ठी – रामसम्बन्धियाऩ तिरुवोलक्कम्, लघुतरा कृता – अनादरविषयीकृता ।  
+
+ऎऩ्गै। अभि-युक्तर् - पराशरभट्टर्, वॆळियिट्टार्गळ् - प्रकाशप्पडुत्तिऩार्गळ्। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मातर्मैथिलि राक्षसीस्त्वयि तथैवार्द्रापराधास्त्वया रक्षन्त्या पवनात्मजाल्लघुतरा रामस्य गोष्ठी कृता’’ (श्रीगुणकोशम् ५०।) ऎऩ्ऱु अभियुक्तर् वॆळियिट्टार्गळ्।  
+</details>
+
+In this surrender, by Trijata, of the responsibility (for protection) of herself and of others connected with her, the Rakṣ asis who were related to Trijata by birth and who had won her affection, were included. So also the four Rākṣasas who came along with Vibhishana were included in the upāya adopted by him. In that context also where protection was granted (by Rāma ), it is possible to fit in the aṅgī and the aṅgas. And it is in this way - Since (Vibhishana) tells Ravana who is determined to continue in his evil career, “Let "Sītā be given back to Rāma", and "Let us give Sītā Devi to Rāma and live here, O King, free from all anxiety," Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disclosed. This wholesome speech caused anger in Ravana's mind in the same way as milk tastes bitter to the person suffering from (excess of) bile. The intention to avoid what is displeasing (prātikulya varjanam) is revealed in his coming (to ŚrīRāma) having given up all attachment to Lanka in accordance with his words, "I seek refuge under Rāma having given up (my) sons and wives", and "Lanka, friends, and all kinds of wealth have been abandoned by me," (These words were uttered by him) after Ravana cursed him saying: "Shame on thee, O thou that bringest disgrace to our race." He then came to the conclusion that there was no use of giving him advice any more, that he should not enjoy any further the glories of being with him and that he should not even stay in the place where he was. Vibhishana's karpanya or feeling of helplessness is stated in his words beginning with, “The wicked Ravana" and in his saying that he has no other course left open owing to his enmity with the all-conquering Ravana and in his declaring a short while after: "I am the younger brother of Ravana and have been put to disgrace by him; I have sought Thy protection, O Thou Saviour of all." His supreme faith (mahāvisvāsa) which made him approach without fear and say: "I have sought, as my refuge or upāya, Raghava who is the protector of the whole world " is indicated in the words “ Vibhishana who was great in wisdom" as being the cause (of this faith). The world "great " which qualifies " wisdom" is intended also to show his supreme faith; his supplication for protection (Goptritva varaṇam) is conveyed in the words, “I have sought Raghava ", for it is included within them. Besides the indirect suggestion of the supplication for protection, his speech, "Offer me ( Vibhishana) to him at once " shows the surrender of his self (atmanikṣepa) done with the help of those who could promote this surrender (ghatake). The word Nivedayata, which here means "offer to Him" would be of no use, if it were interpreted as 'inform'.
 
 These ideas can be found either briefly or at length in all other contexts of prapatti and in all deposits of property on trust with others in ordinary life. When depositing, with a capable person, property or wealth which one is oneself unable to keep safe, has it not been seen that one intends to do what is pleasing and to give up the intention to displease that person ? One believes that the person ( so trusted ) can keep it safe and will do so if required, tells him of one's inability to take care of it and begs him to be its custodian. Then one leaves it with him and sleeps care-free, with.' out any fear and with one's arms on one's chest.
 
