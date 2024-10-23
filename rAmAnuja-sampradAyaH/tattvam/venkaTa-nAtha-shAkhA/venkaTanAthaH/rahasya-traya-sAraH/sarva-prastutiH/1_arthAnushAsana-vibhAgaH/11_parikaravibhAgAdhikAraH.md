@@ -1681,7 +1681,6 @@ by the great Parāśara Bhattar renowned for his learning and wisdom in the ślo
 
 </details>
 
-
 <details><summary>सायण-टीका</summary>
 
 मातर्मैथिलीत्यादि । इदु श्रीगुणरत्नकोशत्तिल् भट्टर् अरुळिच्चॆय्ददु। ‘‘काकन्तं च विभीषणं शरणमित्युक्तिक्षमौ रक्षतस्सानस्सान्द्रमहागसस्सुखयतु क्षान्तिस्तवाकस्मिकी’’ ऎऩ्बदिदिऩुत्तरार्धम्। 
@@ -1691,13 +1690,405 @@ by the great Parāśara Bhattar renowned for his learning and wisdom in the ślo
 ऎऩ्गै। अभि-युक्तर् - पराशरभट्टर्, वॆळियिट्टार्गळ् - प्रकाशप्पडुत्तिऩार्गळ्। 
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 ‘‘मातर्मैथिलि राक्षसीस्त्वयि तथैवार्द्रापराधास्त्वया रक्षन्त्या पवनात्मजाल्लघुतरा रामस्य गोष्ठी कृता’’ (श्रीगुणकोशम् ५०।) ऎऩ्ऱु अभियुक्तर् वॆळियिट्टार्गळ्।  
 </details>
 
-In this surrender, by Trijata, of the responsibility (for protection) of herself and of others connected with her, the Rakṣ asis who were related to Trijata by birth and who had won her affection, were included. So also the four Rākṣasas who came along with Vibhishana were included in the upāya adopted by him. In that context also where protection was granted (by Rāma ), it is possible to fit in the aṅgī and the aṅgas. And it is in this way - Since (Vibhishana) tells Ravana who is determined to continue in his evil career, “Let "Sītā be given back to Rāma", and "Let us give Sītā Devi to Rāma and live here, O King, free from all anxiety," Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disclosed. This wholesome speech caused anger in Ravana's mind in the same way as milk tastes bitter to the person suffering from (excess of) bile. The intention to avoid what is displeasing (prātikulya varjanam) is revealed in his coming (to ŚrīRāma) having given up all attachment to Lanka in accordance with his words, "I seek refuge under Rāma having given up (my) sons and wives", and "Lanka, friends, and all kinds of wealth have been abandoned by me," (These words were uttered by him) after Ravana cursed him saying: "Shame on thee, O thou that bringest disgrace to our race." He then came to the conclusion that there was no use of giving him advice any more, that he should not enjoy any further the glories of being with him and that he should not even stay in the place where he was. Vibhishana's karpanya or feeling of helplessness is stated in his words beginning with, “The wicked Ravana" and in his saying that he has no other course left open owing to his enmity with the all-conquering Ravana and in his declaring a short while after: "I am the younger brother of Ravana and have been put to disgrace by him; I have sought Thy protection, O Thou Saviour of all." His supreme faith (mahāvisvāsa) which made him approach without fear and say: "I have sought, as my refuge or upāya, Raghava who is the protector of the whole world " is indicated in the words “ Vibhishana who was great in wisdom" as being the cause (of this faith). The world "great " which qualifies " wisdom" is intended also to show his supreme faith; his supplication for protection (Goptritva varaṇam) is conveyed in the words, “I have sought Raghava ", for it is included within them. Besides the indirect suggestion of the supplication for protection, his speech, "Offer me ( Vibhishana) to him at once " shows the surrender of his self (atmanikṣepa) done with the help of those who could promote this surrender (ghatake). The word Nivedayata, which here means "offer to Him" would be of no use, if it were interpreted as 'inform'.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-इडत्तिल् त्रिजटैय्-उडैय आत्मात्मीय-भर-समर्पणत्तिल् एय्  
+अवळुक्कुप् पिऱवित्-तुवक्काल्+++(=अनुबन्धतः)+++ ए  
+नम्म्-अवर्गळ् ऎऩ्ऱु कण्-णोट्टम्  
+पिऱक्क् उम् राक्षसिकळ् उम् अन्तर्-भूतैगळ्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यत्र त्रिजटाया आत्मात्मीय-समर्पणे  
+तस्या औत्पत्तिक-संबन्धात्  
+"अस्मदीया" इति **कटाक्षस्य विषय-भूता** राक्षस्यो ऽप्य् **अन्तर्भूताः** । 
+</details>
+
+<details><summary>English</summary>
+
+In this surrender, by Trijata, of the responsibility (for protection) of herself and of others connected with her,  
+the Rakṣasis who were related to Trijata by birth  
+and who had won her affection, were included.
+</details>
+
+<details><summary>Español</summary>
+
+In this surrender, by Trijata, of the responsibility (for protection) of herself and of others connected with her,  
+the Rakṣasis who were related to Trijata by birth  
+and who had won her affection, were included.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि उक्तियुमऩ्ऱिक्के विलक्कामैमात्रत्तैयवलम्बित्तु रक्षित्ताळॆऩ्ऱाल् अतिप्रसङ्गम् वारादोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् इव्विडत्तिलित्यादिना । इव्विडत्तिल् - त्रिजटैयिऩुडैय शरणागति प्रस्तावप्रकरणत्तिल्। त्रिजटैयिऩुडैय आत्मात्मीयभरसमर्पणत्तिले इति । त्रिजटै ‘‘प्रणिपातप्रसन्ना हि’’ ऎऩ्ऱु सॊऩ्ऩदालुम् ‘‘मनः पूर्वो वागुत्तरः’’ ऎऩ्गिऱ न्यायत्ताले इन्द वार्त्तैक्कु हेतुभूतमाऩ भरसमर्पणम् अवळ् हृदयत्तिल् सिद्धमाग यिरुक्कवेण्डुमागैयालुम्, अदैयऱिन्द सर्वज्ञैयाऩ पिराट्टि ‘‘भवेयं शरणं हि वः’’ ऎऩ्ऱु अवर्गळैच् चेर्त्तुच् चॊल्लुगैयालुम् त्रिजटैयिऩुडैय आत्मात्मीयभरसमर्पणत्तिलेयॆऩ्ऱु सिद्धवत्करित्तुच् चॊऩ्ऩदु।  
+अवळुडैय आत्मीयभरसमर्पणत्तिल् हेतुवरुळिच्चॆय्गिऱार् अवळुक्कित्यादिना ।  
+पिऱवित्तुवक्कु - जन्म-सम्बन्धम्, नम्मवर् कळ् ऎऩ्ऱु कण्णोट्टम्बिऱक्कुम् - मदीया इति दृष्टिविशेषविषयत्वत्तिऱ्कु आश्रयिकळाऩ। राक्षसिकळुमन्तर्भूतैकळ् - इदऱ्कु आत्मात्मीयभरसमर्पणत्तिलेयॆऩ्ऱु सॊऩ्ऩ तोडन्वयम्। अन्तर्भूतैकळ् - घटकैकळ्। इप्पडि राक्षसिकळुक्कुम् त्रिजटैयिऩुडैय आत्मात्मीयभरसमर्पणमागिऱ उपायत्तोडु तुवक्किरुप्पदाल् अतिप्रसक्तियिल्लै यॆऩ्ऱु करुत्तु। इप्पडियाऩाल् विलक्कामैयैये पऱ्ऱासागक्कॊण्डॆऩ्ऱु विलक्कामैक्के रक्षणत्वम् सॊऩ्ऩदऱ्कभिप्रायमॆऩ्ऩॆऩ्ऩिल् अवर्गळिडत्तिलुळ्ळ व्याजम् तावन्मात्रमॆऩ्ऱभिप्रायम्।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् त्रिजटैयुडैय आत्मात्मीयभरसमर्पणत्तिले यवळुक्कुप् पिऱवित्तुवक्काले नम्मवर्गळॆऩ्ऱु कण्णोट्टम् पिऱक्कुम् राक्षसिकळु मन्तर्भूतैकळ्। 
+</details>
+
+### विभीषणः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिय् ए श्री-विभीषणाऴ्वाऩोडु कूड वन्द नालु राक्षसर् उम्  
+अवर्-उडैय उपायत्तिल् ए अन्तर्-भूतर्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवम् एव श्री-विभीषणेन सहाऽऽगताश् चत्वारो राक्षसा अपि  
+तदीयोपाये ऽन्तर्भूताः । 
+</details>
+
+<details><summary>English</summary>
+
+So also the four Rākṣasas  
+who came along with Vibhishana  
+were included in the upāya adopted by him.  
+</details>
+
+<details><summary>Español</summary>
+
+So also the four Rākṣasas  
+who came along with Vibhishana  
+were included in the upāya adopted by him.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि राक्षसिकळुक्कु त्रिजटैयिऩुडैय आत्मात्मीयभरसमर्पणत्तिल् अन्तर्भावम् सॊल्लि, इन्द न्यायत्तै विभीषणऩोडु कूड वन्द मन्त्रिकळ् विषयत्तिलु मतिदेशिक्किऱार् अप्पडिये इत्यादिना । नालु राक्षसरुम् - ‘‘उत्पपात गदापाणिः चतुर्भिस्सह राक्षसैः’’ ऎऩ्ऱु सॊल्लप्पट्ट नालु राक्षसर्गळुम्, अवरुडैय उपायत्तिले - अवरुडैय आत्मात्मीयभरसमर्पणत्तिले। अन्तर्भूतरिति ।  
+
+> ‘‘सर्वलोकशरण्याय  
+> राघवाय महात्मने ।  
+> **निवेदयत** मां क्षिप्रं  
+> विभीषणमुपस्थितम् ॥’’ 
+
+ऎऩ्गिऱ भरसमर्पणद्योतकश्लोकत्तिले ‘‘मां’’ ऎऩ्ऱु सर्वनामशब्दम् प्रयुक्तमागैयालुम् बुद्धिविषयतावच्छेदकत्वोपलक्षितधर्मावच्छिन्नशक्तमाऩ अन्द पदम् नालु राक्षसर्गळोडु विशिष्टऩाऩ विभीषणऩैये सॊल्लुमागैयालुम् ‘‘मां निवेदयत’’ ऎऩ्बदाल् विभीषणाऴ्वाऩ्-उडैय आत्मात्मीयभरसमर्पणम् द्योतितमागैयाले अदिले अन्तर्गतर्गळॆऩ्ऱबडि। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये श्रीविभीषणाऴ्वाऩोडु कूड वन्द नालु राक्षसरुम् अवरुडैय उपायत्तिले अन्तर्भूतर्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अङ्ग्-उऱ्ऱ+++(=ळ्ळ??)+++ अभय-प्रदान-प्रकरणत्तिल् उम्  
+इव्व्-अङ्गाङ्गि-वर्गम् अडैक्कल् आम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्रत्ये अभय-प्रदान-प्रकरणे ऽप्य्  
+अयम् अङ्गाङ्गि-वर्गः अन्तर्गमयितुं शक्यः । 
+</details>
+
+<details><summary>English</summary>
+
+In that context also where protection was granted (by Rāma ),  
+it is possible to fit in the aṅgī and the aṅgas. 
+</details>
+
+<details><summary>Español</summary>
+
+In that context also where protection was granted (by Rāma ),  
+it is possible to fit in the aṅgī and the aṅgas. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द अतिदेशवाक्यत्ताले अभयप्रदानप्रकरणम् बुद्धिस्थमाऩदाल् अन्दप्रकरणत्तिलुम् इव्वङ्गाङ्गिवर्गत्तै यडैक्कलामॆऩ्गिऱार् अङ्गुऱ्ऱ अभयप्रदान-प्रकरणत्तिलुमिव्वङ्गाङ्गिवर्गमडैक्कलामिति । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अङ्गुऱ्ऱ अभयप्रदानप्रकरणत्तिलुम् इव्वङ्गाङ्गिवर्गमडैक्कलाम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+प्रातिकूल्यत्तिल् ए व्यवस्थितऩ् आऩ रावणऩुक्क् उङ् कूड  
+
+> ‘‘प्रदीयतां दाशरथाय मैथिली’’ (रामायणम् युद्ध-काण्डम् १४-३।) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[20]]  
+कथमिति चेत् — प्रातिकूल्ये व्यवस्थितस्य रावणस्यापि
+
+> ‘‘प्रदीयतां दाशरथाय मैथिली’’ (रामायणम् युद्ध-काण्डम् १४-३।) 
+
+</details>
+
+<details><summary>English</summary>
+
+And it is in this way - Since (Vibhishana) tells Ravana who is determined to continue in his evil career,  
+“Let "Sītā be given back to Rāma", 
+
+</details>
+
+<details><summary>Español</summary>
+
+And it is in this way - Since (Vibhishana) tells Ravana who is determined to continue in his evil career,  
+“Let "Sītā be given back to Rāma", 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अडैक्कुम् प्रकारत्तै प्रश्नपूर्वकमाग उपपादिक्किऱार् ऎङ्ङऩेयॆऩ्ऩिलित्यादि । ऎङ्ङऩेयॆऩ्ऩिल् - कथमित्यर्थः । प्रातिकूल्यत्तिले व्यवस्थितऩाऩ रावणऩुक्कुम् कूड इति । इदऱ्कु हितञ्जॊल्लुगैयाल् ए ऎऩ्बदोडन्वयम्। इङ्गु प्रतिकूलऩाऩ रावणऩुक्कुमॆऩ्ऱु अपिशब्दप्रयोगत्ताले अनुकूलर्गळुक्कु इवऩ् सॊल्लुवाऩॆऩ्बदु कैमुतिकन्यायसिद्धमागैयाले ‘‘आनुकूल्यमिति प्रोक्तं सर्वभूतानुकूलता’’ ऎऩ्गिऱ आनुकूल्यत्तिल् इवरुक्कु सङ्कल्पमुण्डॆऩ्ऱु तोऱ्ऱुगिऱदु ऎऩ्ऱु तिरुवुळ्ळम्।+++(5)+++  
+हितवचनत्तै उदाहरिक्किऱार् प्रदीयतामित्यादियाल्। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; प्रातिकूल्यत्तिलेव्यवस्थितऩाऩ रावणऩुक्कुङ्गूड ‘‘प्रदीयतां दाशरथाय मैथिली’’ (रामायणम् युद्ध-काण्डम् १४-३।) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सीताञ्च रामाय निवेद्य देवीं  
+> वसेम राजन्निह वीतशोकाः’’  
+> (रामायणम् युद्ध-काण्डम् १५-१४।) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘सीताञ्च रामाय निवेद्य देवीं  
+> वसेम राजन्निह वीतशोकाः’’  
+> (रामायणम् युद्ध-काण्डम् १५-१४।) 
+</details>
+
+<details><summary>English</summary>
+
+and "Let us give Sītā Devi to Rāma  
+and live here, O King, free from all anxiety," 
+</details>
+
+<details><summary>Español</summary>
+
+and "Let us give Sītā Devi to Rāma  
+and live here, O King, free from all anxiety," 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सीताञ्च रामाय निवेद्य देवीं वसेम राजन्निह वीतशोकाः’’ (रामायणम् युद्ध-काण्डम् १५-१४।) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु हितञ् चॊल्लुगैयाल् ए आनुकूल्य-सङ्कल्पन् तोऱ्ऱिऱ्ऱु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति हितवचनात् आनुकूल्य संकल्पः सिद्धः । 
+</details>
+
+<details><summary>English</summary>
+
+Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disclosed. 
+</details>
+
+<details><summary>Español</summary>
+
+Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disclosed. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु हितञ्जॊल्लुगैयाले आनुकूल्यसङ्कल्पन्दोऱ्ऱिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द हितवचनम् पित्तोपहतऩुक्कुप् पाल् कैक्कुम्+++(=कटु??)+++ आप्-पोल् एय्  
+अवऩुक्कु उद्वेग-हेतुव् आयिऱ्ऱु।+++(5)+++  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं हित-वचनं तिक्ततया भासमानं क्षीरम् इव तस्योद्वेगहेतुः समपद्यत । 
+</details>
+
+
+<details><summary>English</summary>
+
+This wholesome speech caused anger in Ravana's mind  
+in the same way as milk tastes bitter to the person suffering from (excess of) bile. 
+</details>
+
+<details><summary>Español</summary>
+
+This wholesome speech caused anger in Ravana's mind  
+in the same way as milk tastes bitter to the person suffering from (excess of) bile. 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदु रावणऩुक्कु हितवचनमागिल् उद्वेगहेतुवावाऩेऩ्? अदु अवऩुडैय दोषत्ताले यॆऩ्ऩिल्, नल्लदाऩ ऒरु वस्तु पुरुषदोषत्ताले विपरीतमागत् तोऩ्ऱक्कूडुमोव् ऎऩ्ऩ, अदिलनुरूपदृष्टान्तत्तै यरुळिच्चॆय्दु इदऩुडैय हितत्वत्तै स्थापिक्किऱार् इन्द हितवचनम् पित्तोपहतऩुक्कु पाल् कैक्कुमाप्पोले यवऩुक्कु उद्वेगहेतुवायिऱ्ऱु इति । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द हितवचनम् पित्तोपहतऩुक्कुप्पाल् कैक्कुमाप्पोले यवऩुक्कु उद्वेगहेतुवायिऱ्ऱु।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘त्वां तु धिक् कुल-पांसनम्’’ (रामायणम् युद्ध-काण्डम् १६-१५)  
+
+ऎऩ्ऱु धिक्-कारम् पण्णिऩ पिऩ्बु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+‘‘त्वां तु धिक् कुल-पांसनम्’’ (रामायणम् युद्ध-काण्डम् १६-१५)  
+
+इति धिक्कारे कृते सति,
+</details>
+
+
+<details><summary>English</summary>
+
+(Forthcoming~~These~~ words were uttered by him) after Ravana cursed him saying: "Shame on thee, O thou that bringest disgrace to our race." 
+</details>
+
+<details><summary>Español</summary>
+
+(Forthcoming~~These~~ words were uttered by him) after Ravana cursed him saying: "Shame on thee, O thou that bringest disgrace to our race." 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रातिकूल्यवर्जनाभिसन्धियै उपपादिक्कक् करुदि अङ्गुळ्ळ सिल वचनङ्गळुक्कु भावमरुळिच्चॆय्गिऱार् ‘‘त्वान्तु धिक्कुलपांसनं’’ ऎऩ्ऱु धिक्कारम् पण्णिऩ पिऩ्बु इत्यादिना । कुलपांसनः– कुलदूषकः । इङ्गु विभीषणविषयक रावणकर्तृकधिक्कारवचनत्तै उदाहरित्तदु ऐम्बदु लक्षम् वरुषमाग ज्येष्ठभ्रातावाऩ रावणऩाले पोषितऩाऩ विभीषणऩ् अवऩै निष्कारणमाग युद्धसमयत्तिल् विडक्कूडुमो वॆऩ्ऱु धर्मसौक्ष्म्यम् तॆरियाद मन्दर्गळुडैय मदिमयक्कत्तै मात्तुगैक्काग। इन्द वचनत्ताल् ‘‘परमापद्गतस्यापि धर्मे मम मतिर्भवेत्’’ ऎऩ्ऱु वरम् वाङ्गिऩ विभीषणाऴ्वाऩ्, ज्येष्ठऩुडैय अपन्यायङ्गळै यॆल्लाम् सहित्तुवन्दुम् लोगमादाविऩ् विषयत्तिल् अवऩ् पण्णिऩ अपराधत्तै सहिक्क मुडियामल् मन्त्रालोचनसमयत्तिलावदु अवऩुक्कु हितञ्जॊल्ल प्रतीक्षित्तिरुन्दु मन्त्रालोचनम् प्राप्तमाऩवाऱे ‘‘प्रदीयतां दाशरथाय मैथिली’’ ऎऩ्ऱु हितोपदेशम् पण्ण, अदैक्केळाददोडु, ‘‘अन्यस्त्वेवंविधो ब्रूयात्’’ ‘‘अस्मिन्मुहूर्ते नभवेत्’’ ‘‘त्वां तु धिक्कुलपासन्नम्’’ ऎऩ्ऱु धिक्कारम् पण्णुगैयालुम्, लोकमाताविऩ् विषयत्तिल् महापाराधप्पडुगैयालुम् विभीषणकर्तृकरावणपरित्यागम् निष्कारणमऩ्ऱॆऩ्ऱुम्, अवऩै त्यजिप्पदे धर्ममॆऩ्ऱुम् स्पष्टमाग ज्ञापिक्कप्पडुगैयाल् पूर्वोक्तमन्दमतिकळुडैय शङ्गै निरस्तमायिऱ्ऱु। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वां तु धिक्कुलपांसनम्’’ (रामायणम् युद्ध-काण्डम् १६-१५) ऎऩ्ऱुधिक्कारम् पण्णिऩ पिऩ्बु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इऩिय् इवऩुक्कु उपदेशिक्कव् उम् आगादु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इतः परम् अस्मै नोपदेशो युक्तः, 
+</details>
+
+
+<details><summary>English</summary>
+
+He then came to the conclusion that there was no use of giving him advice any more, 
+</details>
+
+<details><summary>Español</summary>
+
+He then came to the conclusion that there was no use of giving him advice any more, 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इऩि इवऩुक्कु उपदेशिक्कवुमागादु इति । इऩि - उपदेशम् निरर्थमाऩवळवऩ्ऱिक्के धिक्कारपर्यवसानमाऩ पिऱगु, इवऩुक्कु - परमहितम् सॊऩ्ऩ तऩ्विषयत्तिल् आचार्यविषयत्तिल्बोल् बहुमति पण्णवेण्डियिरुक्क धिक्कारपर्यन्तमाग अवमानम् पण्णिऩ इवऩुक्कु। उपदेशिक्कवुमागादु - ‘‘न जिह्मबुद्धये प्रदेयमेतत्’’ ऎऩ्ऱु सॊऩ्ऩबडि इवऩुक्कु उपदेशमे प्रत्यवायावहमॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इऩि यिवऩुक्कु उपदेशिक्कवुमागादु, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩोडु अनुबन्धित्त विभूतिगळ् उम् आगादु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतेनानुबद्धा विभूतयोऽपि नोचिताः, 
+</details>
+
+<details><summary>English</summary>
+
+that he should not enjoy any further the glories of being with him 
+</details>
+
+<details><summary>Español</summary>
+
+that he should not enjoy any further the glories of being with him 
+</details>
+ 
+<details><summary>सायण-टीका</summary>
+
+इवऩोडु अनुबन्धित्त विभूतिकळुमागादु -‘‘न तेषां पुण्यतीर्थेषु गतिस्संसर्गिणामपि’’ ऎऩ्गिऱबडिये इवऩ् संसर्गत्ताल् दुष्टङ्गळाऩ विभूतिकळुमागादु। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩोडु अनुबन्धित्त विभूतिकळुमागादु, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ् इरुन्दव् इडत्तिल् इरुक्कव् उम् आगाद् ऎऩ्ऱ् अऱुदिय्+++(=निश्चयम्)+++ इट्टु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतदधिष्ठितस्थाने निवासोऽपि न युक्त इति निश्चित्य 
+</details>
+
+<details><summary>English</summary>
+
+and that he should not even stay in the place where he was. 
+</details>
+
+<details><summary>Español</summary>
+
+and that he should not even stay in the place where he was. 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अऱुदियिट्टु - निश्चयित्तु 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩिरुन्द विडत्तिलिरुक्कवुमागा तॆऩ्ऱऱुदियिट्टु 
+</details>
+
+
+
+The intention to avoid what is displeasing (prātikulya varjanam) is revealed in his coming (to ŚrīRāma) having given up all attachment to Lanka in accordance with his words, "I seek refuge under Rāma having given up (my) sons and wives", and "Lanka, friends, and all kinds of wealth have been abandoned by me," 
+
+
+Vibhishana's karpanya or feeling of helplessness is stated in his words beginning with, “The wicked Ravana" and in his saying that he has no other course left open owing to his enmity with the all-conquering Ravana and in his declaring a short while after: "I am the younger brother of Ravana and have been put to disgrace by him; I have sought Thy protection, O Thou Saviour of all." His supreme faith (mahāvisvāsa) which made him approach without fear and say: "I have sought, as my refuge or upāya, Raghava who is the protector of the whole world " is indicated in the words “ Vibhishana who was great in wisdom" as being the cause (of this faith). The world "great " which qualifies " wisdom" is intended also to show his supreme faith; his supplication for protection (Goptritva varaṇam) is conveyed in the words, “I have sought Raghava ", for it is included within them. Besides the indirect suggestion of the supplication for protection, his speech, "Offer me ( Vibhishana) to him at once " shows the surrender of his self (atmanikṣepa) done with the help of those who could promote this surrender (ghatake). The word Nivedayata, which here means "offer to Him" would be of no use, if it were interpreted as 'inform'.
 
 These ideas can be found either briefly or at length in all other contexts of prapatti and in all deposits of property on trust with others in ordinary life. When depositing, with a capable person, property or wealth which one is oneself unable to keep safe, has it not been seen that one intends to do what is pleasing and to give up the intention to displease that person ? One believes that the person ( so trusted ) can keep it safe and will do so if required, tells him of one's inability to take care of it and begs him to be its custodian. Then one leaves it with him and sleeps care-free, with.' out any fear and with one's arms on one's chest.
 
