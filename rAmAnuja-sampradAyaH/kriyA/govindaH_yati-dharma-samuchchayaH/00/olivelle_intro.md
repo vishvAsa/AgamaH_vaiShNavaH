@@ -14,15 +14,13 @@ This critical edition of Yādava Prakāśa’s *Yatidharmasamuccaya* is based on
 
 **A2**	Adyar Library and Research Center, Madras. Ms. no. 73486. *A Catalogue of the Sanskrit Manuscripts in the Adyar Library* (Madras, 1926), part I, p. 115. Palm leaf. Grantha script. 47 folios. Approximately 39 x 4 cms Between 10 and 11 lines per page. Between 55 and 71 *akṣara*s per line. Complete. The date in the colophon is given according to the Jupiter cycle, and without additional data it cannot to be translated into a unique date of the common era. Excellent condition. A photocopy was used. Two additional folios written in a different hand and containing astrological material are inserted at the end of the ms. Carefully written with few corrections. This was the original of the variants recorded in Schrader’s copy (Schr. 45). Colophon:
 
-
-    श्रीनारायणगुरवे नमः । श्रीमते रामानुजाय नमः । श्रियै नमः । श्रीमते नारायणाय नमः । श्रीगोदायै नमः । करकृतमपराधं क्षन्तुमर्हन्ति सन्तः । हेविलम्बि शरत्पुष्यमासि प्रथमातिथौ । मयेदं लिखितं सम्यग्यतिधर्मसमुच्चयम् । यदक्षरपदभ्रष्टं यत्पादप्रच्युतं यदा । तत्सर्वं क्षम्यतां यूयं कृपापूरवशंवदाः ॥
+> श्रीनारायणगुरवे नमः । श्रीमते रामानुजाय नमः । श्रियै नमः । श्रीमते नारायणाय नमः । श्रीगोदायै नमः । करकृतमपराधं क्षन्तुमर्हन्ति सन्तः । हेविलम्बि शरत्पुष्यमासि प्रथमातिथौ । मयेदं लिखितं सम्यग्यतिधर्मसमुच्चयम् । यदक्षरपदभ्रष्टं यत्पादप्रच्युतं यदा । तत्सर्वं क्षम्यतां यूयं कृपापूरवशंवदाः ॥
 
 **A3**	Adyar Library and Research Center, Madras. Ms. no. 71573. *A Catalogue of the Sanskrit Manuscripts in the Adyar Library* (Madras, 1926), part I, p. 115. Palm leaf. Grantha script. 91 folios (many are in bits and pieces). 38 x 3 cms (difficult to measure because most edges are broken). Between 7 and 8 lines per page. The *akṣara*s per line cannot be accurately estimated because ends of folios are damaged. No date. Incomplete. A photocopy was used. Extremely poor condition. A significant section of almost every page cannot be read because of broken sections of palmleaf, and after Ch. 7 the ms becomes almost unreadable. The ms begins with Ch. 2. After the conclusion of Ch. 7 the ms inserts a large amount of extraneous material. This addition begins with the passage from Parāśara (Ch. 5.11). Most of this material, however, cannot be identified due to the poor condition of the ms A3 thus could be used only for Chapters 2–7 of the edition.
 
 **A4**	Adyar Library and Research Center, Madras. Ms. no. VB 157. *Descriptive Catalogue of Sanskrit Manuscripts*. Vol. 13: Viśvabhāratī Collection—I. Compiled by Dr. E. R. Sreekrishna Sarma (Madras, 1976), p. 150, ser. no. 813E. Palm leaf. Telugu script. 31 folios. 42 x 3.5 cms 7 lines per page. 64 *akṣara*s per line. Complete. A photocopy was used. Good condition. Carefully written. According to Dr. David Pingree, the date of the Jupiter cycle given in the colophon corresponds plausibly with Wednesday, July 6, 1474. This is a rather early date for a South Indian palm leaf ms. Often, however, mss were copied together with their original dates. Thus, the date in a colophon is not necessarily an indication of the date of the ms in question. Colophon:
 
-
-    श्रीकृष्णाय नमः । श्रीनिवासब्रह्मणे नमः । श्रीमन्निलाद्रिपतये जगन्नाथाय नमः । जयवर्षे नभोमासि कृष्णपक्षेऽष्टमीतिथौ । बुधवारेऽग्निनक्षत्रे योगे व्याघातवर्जिते । श्रीनिवासमुदे तेन प्रेरितेन यथामति । लिखितो वरदार्येण यतिधर्मसमुच्चयः । कृत्वानवद्यं निगमान्तभाष्यं निराकृतं येन भयं श्रुतीनाम् । प्रतारितानामबहुश्रुतैस्तं रामानुजं योगिनमाश्रयामः ॥
+> श्रीकृष्णाय नमः । श्रीनिवासब्रह्मणे नमः । श्रीमन्निलाद्रिपतये जगन्नाथाय नमः । जयवर्षे नभोमासि कृष्णपक्षेऽष्टमीतिथौ । बुधवारेऽग्निनक्षत्रे योगे व्याघातवर्जिते । श्रीनिवासमुदे तेन प्रेरितेन यथामति । लिखितो वरदार्येण यतिधर्मसमुच्चयः । कृत्वानवद्यं निगमान्तभाष्यं निराकृतं येन भयं श्रुतीनाम् । प्रतारितानामबहुश्रुतैस्तं रामानुजं योगिनमाश्रयामः ॥
 
 **A5**	Adyar Library and Research Center, Madras. Ms. no. PM 726. Paper. Telugu script. 31 folios. 34 x 21 cms Between 21 and 25 lines per page. 45 *akṣara*s per line. Complete. No date. A photocopy was used. Written in several hands with frequent errors and corrections. Some of the folios are ruled and the ms appears to be rather recent. This was probably the Telugu original of Schrader’s copy of Chapters 1-6 (Schr. 46).
 
@@ -42,8 +40,7 @@ This critical edition of Yādava Prakāśa’s *Yatidharmasamuccaya* is based on
 
 **R1**	University of Mysore Oriental Research Institute. Ms. no. P 2776. *Descriptive Catalogue of Sanskrit Manuscripts*. Ed. Dr. G. Marulasiddaiah (Mysore, 1979), vol. 3, ser. no. 8959. Palm leaf. Grantha script. 45 x 3.5 cms 61 folios. Between 5 and 9 lines on a page. 62 *akṣara*s on a line. Complete. Written in at least two different hands. Colophon:
 
-
-    इति यतिधर्मसमुच्चयं समाप्तम्  ।  हरिः ॐ । शुभमस्तु । यादृशं पुस्तकं दृा तादृशं लिखितं मया । अबद्धं वा सुबद्धं वा मम दोषो न विद्यते । The rest is unreadable on the microfilm.
+> इति यतिधर्मसमुच्चयं समाप्तम्  ।  हरिः ॐ । शुभमस्तु । यादृशं पुस्तकं दृा तादृशं लिखितं मया । अबद्धं वा सुबद्धं वा मम दोषो न विद्यते । The rest is unreadable on the microfilm.
 
 **R2**	University of Mysore Oriental Research Institute. Ms. no. P 6872. *Descriptive Catalogue of Sanskrit Manuscripts*. Ed. Dr. G. Marulasiddaiah (Mysore, 1979), vol. 3, ser. no. 3961. Palm leaf. Grantha script. 39.5 x 3.5 cms 60 folios. Between 6 and 8 lines on a page. 70 *akṣara*s on a line. Complete. Carelessly written in at least two hands.
 
@@ -61,20 +58,14 @@ Four mss in the Government Oriental Manuscripts Library, Madras (Ms. nos. D 2949
 
 O. F. Schrader had several mss of the Ysam copied during his residence at the Adyar Library, Madras, early this century. These copies are now in the library of the University of GR_o_diaeresisttingen. Schr. 45 is a copy of A1, described above, prepared by V. Krishnamachari and N. Ramanatha Sastri and dated Dec. 12, 1911; this copy also contains variants from A2 recorded on the margins. Schr. 47 is a copy of G1 (both, for example, share the same lacuna at Ch. 6.3) made by K. Gopalaiyer and dated Nov. 26, 1909. Schr. 46 contains only Chapters 1-6 and is probably a copy of A5. Variant readings from a ms of the short recension are noted on this copy. Schr. 55 is an original ms containing extracts from the Ysam; see Klaus L. Janert and N. Narasimhan Poti, *Indische Handschriften* (Wiesbaden: Franz Steiner, 1979), 5: 450-51. This ms contains a variety of sundry material listed by Janert. The extracts from the Ysam are found on pp. 90–96 of the ms and follow the long recension (X*); most of the readings follow the subrecension X1*. I list here the chapter and verse numbers from the current edition according to the sequence in which they appear in this ms:
 
-
-    **3**.65(1, a-d), 62(2), 63, 64, 73; जन्तुनिवारणं जलपवित्रं कार्पासतन्तुवस्त्रमित्यर्थः (cf. variant in A6 at 3.73n), अष्टाङ्गयोगक्रमलक्षणानि वक्ष्यन्ते (cf. 5.47); **5.**51, 52, 53(a-d), 54, 55, 60, 82-91, 106-12; **6.**35, हारीतः, **6.**47, 243, 257, 259, 304; **7.**106, 138-39, अयने विषुवे चैव ग्रसने चन्द्रसूर्ययोः । उपवासमकुर्वाणः यतिश्चान्द्रायणं चरेत् ॥ विष्णुः **7.**22, शातातपः **6.**243, 249, 250(1), देवलः **7.**110, 111(a-b), 73, गर्गः **7.**130-36; सनत्कुमारसंहितै [sic] । प्रपत्तेः किंचिदप्येवं परापेक्षा न विद्यते । सा हि सर्वत्र सर्वेषां सर्वकामफलप्रदा । श्रुतिः । पूर्णस्य पूर्णमादाय पूर्णमेवावतिष्ठते । सर्वं पूर्णं सहों वासुदेवोऽसि पूर्णः । **7.**140; ताम्बूले भर्तृहीनायाः . . . संभूय सुरासमम् [cf. App. 1.8]; **7.**141; इति यतिधर्मसमुच्चये जमदग्निः ।
+> **3**.65(1, a-d), 62(2), 63, 64, 73; जन्तुनिवारणं जलपवित्रं कार्पासतन्तुवस्त्रमित्यर्थः (cf. variant in A6 at 3.73n), अष्टाङ्गयोगक्रमलक्षणानि वक्ष्यन्ते (cf. 5.47); **5.**51, 52, 53(a-d), 54, 55, 60, 82-91, 106-12; **6.**35, हारीतः, **6.**47, 243, 257, 259, 304; **7.**106, 138-39, अयने विषुवे चैव ग्रसने चन्द्रसूर्ययोः । उपवासमकुर्वाणः यतिश्चान्द्रायणं चरेत् ॥ विष्णुः **7.**22, शातातपः **6.**243, 249, 250(1), देवलः **7.**110, 111(a-b), 73, गर्गः **7.**130-36; सनत्कुमारसंहितै [sic] । प्रपत्तेः किंचिदप्येवं परापेक्षा न विद्यते । सा हि सर्वत्र सर्वेषां सर्वकामफलप्रदा । श्रुतिः । पूर्णस्य पूर्णमादाय पूर्णमेवावतिष्ठते । सर्वं पूर्णं सहों वासुदेवोऽसि पूर्णः । **7.**140; ताम्बूले भर्तृहीनायाः . . . संभूय सुरासमम् [cf. App. 1.8]; **7.**141; इति यतिधर्मसमुच्चये जमदग्निः ।
 
 **Genealogical Relation of the Manuscripts**
 
 The following *stemma codicum*, in which Z* stands for the hypothetical original of the Ysam, presents the genealogy of the mss used to constitute the text:
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+...
 
 **Recension X***
 
