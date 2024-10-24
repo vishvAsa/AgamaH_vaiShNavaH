@@ -2287,9 +2287,267 @@ and in his declaring a short while after:
 पिऩ्बुम् ‘‘अनुजो रावणस्याहं तेन चास्म्यवमानितः । भवन्तं सर्वभूतानां शरण्यं शरणं गतः’’ (रामायणम् युद्ध-काण्डम् १९-४) ऎऩ्गैयालुम् कार्पण्यञ्जॊल्लप्पट्टदु।
 </details>
 
+#### महाविश्वासः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अञ्जादे वन्दु किट्टि  
+
+> ‘‘सर्व-लोक-शरण्याय  
+> राघवाय महात्मने’’  
+> (रामायणम् युद्ध-काण्डम् १७-१५।) 
+
+ऎऩ्ऱु सॊल्लुम् पडि पण्णिऩ महाविश्वासम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+निर्भयम् आगत्योपसृत्य,
+
+> ‘‘सर्व-लोक-शरण्याय  
+> राघवाय महात्मने’’  
+> (रामायणम् युद्ध-काण्डम् १७-१५।) 
+
+इत्येवं प्रार्थनस्य प्रयोजको महा-विश्वासः,
+</details>
+
+<details><summary>English</summary>
+
+His supreme faith (mahāvisvāsa) which made him approach without fear and say:  
+
+> "I have sought, as my refuge or upāya, Raghava  
+> who is the protector of the whole world " 
+
+</details>
+
+<details><summary>Español</summary>
+
+His supreme faith (mahāvisvāsa) which made him approach without fear and say:  
+
+> "I have sought, as my refuge or upāya, Raghava  
+> who is the protector of the whole world " 
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदु कारणकथनत्तालुम् सॊल्लप्पट्टदॆऩ्गिऱार् अञ्जादे वन्दु किट्टि इत्यादिना । अञ्जादे वन्दु किट्टि ऎऩ्बदु विश्वासकार्यम्। मऩस्सिल् रक्षिष्यतीति विश्वासमिल्लाविट्टाल् ‘‘आजगाम मुहूर्तेन यत्र रामस्सलक्ष्मणः’’ ऎऩ्गिऱबडि शङ्कैयऱ्ऱु तऩ् स्थलत्तिऱ्कु वरुवदुबोल् वरमाट्टाऩिऱे। जगाम ऎऩ्ऱु सॊल्लामल् आजगाम ऎऩ्ऱु सॊल्लुगैयाल् शङ्कैयऱ्ऱु स्वस्थानत्तिऱ्कु वरुवदुबोल् आगमनम् तोऱ्ऱुगिऱदिऱे। ‘‘सर्वलोकशरण्याय राघवाय महात्मने’’ ऎऩ्ऱु सॊल्लुगैयुम् विश्वासकार्यमिऱे। महाविश्वासमे सर्वलोकशरण्याय ऎऩ्ऱु सॊल्लप् पण्णिऱ्ऱिऱे। 
+</details>
 
 
-His supreme faith (mahāvisvāsa) which made him approach without fear and say: "I have sought, as my refuge or upāya, Raghava who is the protector of the whole world " is indicated in the words “ Vibhishana who was great in wisdom" as being the cause (of this faith). The world "great " which qualifies " wisdom" is intended also to show his supreme faith; his supplication for protection (Goptritva varaṇam) is conveyed in the words, “I have sought Raghava ", for it is included within them. Besides the indirect suggestion of the supplication for protection, his speech, "Offer me ( Vibhishana) to him at once " shows the surrender of his self (atmanikṣepa) done with the help of those who could promote this surrender (ghatake). The word Nivedayata, which here means "offer to Him" would be of no use, if it were interpreted as 'inform'.
+
+<details><summary>मूलम्</summary>
+
+अञ्जादे वन्दु किट्टि ‘‘सर्वलोकशरण्याय राघवाय महात्मने’’ (रामायणम् युद्ध-काण्डम् १७-१५।) ऎऩ्ऱु सॊल्लुम्बडि पण्णिऩ महाविश्वासम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘विभीषणो महाप्राज्ञः’’ (रामायणम् युद्ध-काण्डम् १९-३५।) 
+
+ऎऩ्ऱु कारण-मुखत्ताले सॊल्लप्पट्टदु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+‘‘विभीषणो महाप्राज्ञः’’ (रामायणम् युद्ध-काण्डम् १९-३५।) 
+
+इति कारणमुखेन प्रत्यपादि । 
+</details>
+
+<details><summary>English</summary>
+
+is indicated in the words  
+“ Vibhishana who was great in wisdom"  
+as being the cause (of this faith). 
+</details>
+
+<details><summary>Español</summary>
+
+is indicated in the words  
+“ Vibhishana who was great in wisdom"  
+as being the cause (of this faith). 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+‘‘विभीषणो महाप्राज्ञः’’ ऎऩ्ऱु कारणमुखत्ताले सॊल्लप्पट्टदु इति । महाप्राज्ञत्वरूपकारणमिल्लाविडिल् महाविश्वासम् पिऱवादिऱे। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विभीषणो महाप्राज्ञः’’ (रामायणम् युद्ध-काण्डम् १९-३५।) ऎऩ्ऱु कारणमुखत्ताले सॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राज्ञतैयै विशेषिक्किऱ महच्-छब्दत्ताले  
+विश्वासातिशयन्-दाऩे विवक्षितम् आगवुम् आम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्राज्ञता-विशेषकेन महच्-छब्देन विश्वासातिशय एव विवक्षित इति वा । 
+</details>
+
+<details><summary>English</summary>
+
+The world "great " which qualifies " wisdom"  
+is intended also to show his supreme faith;  
+</details>
+
+<details><summary>Español</summary>
+
+The world "great " which qualifies " wisdom"  
+is intended also to show his supreme faith;  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि महाविश्वासकारण माऩ महाप्राज्ञतैयैच् चॊल्लुगैयाल् तत्कार्यमाऩ महाविश्वासम् महाप्राज्ञशब्दत्ताले लक्षणया सॊल्लप्पट्टदॆऩ्ऱु सॊल्लि महाप्राज्ञशब्दम् अभिधावृत्तियाले महाविश्वासत्तै सॊल्लुमॆऩ्गिऱार् प्राज्ञतैयै इत्यादिना ।  
+यद्यपि महच्छब्दम् प्राज्ञविशेषणम्।  
+तथापि परमसुन्दर इत्यादौ सुन्दरऩै विशेषिक्किऱ परम-शब्दम् सौन्दर्यत्तिलुम् अन्वयित्तु  
+परमसौन्दर्यवान् ऎऩ्गिऱ बोधत्तै युण्डुबण्णुमाप् पोले  
+इङ्गुम् महांश्चासौ प्राज्ञश्च ऎऩ्गिऱ व्युत्पत्तियाले  
+प्राज्ञऩै विशेषिक्किऱ महच्छब्दम्  
+
+> ‘‘असति बाधके  
+सति चावश्यकत्वे  
+विशिष्टान्वयिनः विशेषणान्वयित्वं’’ 
+
+ऎऩ्गिऱ न्यायत्ताले विशेषणत्तिलुमन्वयित्तु महत्ताऩ प्राज्ञतैयै अदावदु महत्ताऩ विश्वासत्तै युडैयवऩॆऩ्गिऱ बोधत्तै वाच्यवृत्तियिऩालेये सॊल्लु मॆऩ्ऱु करुत्तु।+++(5)+++ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राज्ञतैयै विशेषिक्किऱ महच्छब्दत्ताले विश्वासातिशयन्दाऩे विवक्षितमागवुमाम्। 
+</details>
+
+#### गोप्तृत्व-वरणम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘राघवं शरणं गतः’’ (रामायणम् युद्ध-काण्डम् १७-१४।) ऎऩ्गैयाले  
+उपाय-वरणान्तर्-नीतम् आऩ गोप्तृत्व-वरणञ् जॊल्लिऱ्ऱ् आयिऱ्ऱु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+‘‘राघवं शरणं गतः’’ (रामायणम् युद्ध-काण्डम् १७-१४।)  
+इत्य् उक्तया उपाय-वरणान्तर्-नीतं गोप्तृत्व-वरणम् उक्तं भवति ।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+गोप्तृत्ववरणप्रकाशकमाऩ वाक्यत्तै उदाहरिक्किऱार् राघवं शरणं गतः इत्यादि याल्। ऎऩ्गैयाले - ऎऩ्ऱु सॊल्लुगैयाले, उपायवरणान्तर्नीतमाऩ - शरणं गतः ऎऩ्गिऱविडत्तिल् शरणशब्दम् उपायपरम्। गतः ऎऩ्ऱु गत्यर्थानां बुद्ध्यर्थत्वात् वरणपरम्। प्रार्थनात्मकबुद्धिपरमॆऩ्ऱबडि। तदन्तर्नीतमाऩ - तद्घटकमाऩ। 
+</details>
+
+<details><summary>English</summary>
+
+his supplication for protection (Goptritva varaṇam) is conveyed in the words,  
+“I have sought Raghava ",  
+for it is included within them. 
+</details>
+
+<details><summary>Español</summary>
+
+his supplication for protection (Goptritva varaṇam) is conveyed in the words,  
+“I have sought Raghava ",  
+for it is included within them. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘राघवं शरणं गतः’’ (रामायणम् युद्ध-काण्डम् १७-१४।) ऎऩ्गैयाले उपायवरणान्तर्नीतमाऩ गोप्तृत्ववरणञ्जॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+
+#### आत्म-निक्षेपः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-वरण-शब्दत्ताले व्यञ्जितम् आगिऱव् अळव् अऩ्ऱिक्के  
+
+> ‘‘निवेदयत मां क्षिप्रं  
+> विभीषणम् उपस्थितम्’’ (रामायणम् युद्ध-काण्डम् १७-१५।) 
+
+ऎऩ्गैयाले घटक-पुरस्-सरम् आऩ आत्म-निक्षेपम् सॊल्लिऱ्ऱु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपाय-वरण-शब्देन व्यञ्जितत्व-मात्रातिरेकेण,
+
+> ‘‘निवेदयत मां क्षिप्रं  
+> विभीषणम् उपस्थितम्’’ (रामायणम् युद्ध-काण्डम् १७-१५।) 
+
+इत्य् उक्तया घटक-पुरस्--सर आत्म-निक्षेपः प्रतिपादितो भवति । 
+</details>
+
+<details><summary>English</summary>
+
+Besides the indirect suggestion of the supplication for protection, his speech,  
+
+"Offer me ( Vibhishana) to him at once " 
+
+shows the surrender of his self (atmanikṣepa)  
+done with the help of those who could promote this surrender (ghatake). 
+</details>
+
+<details><summary>Español</summary>
+
+Besides the indirect suggestion of the supplication for protection, his speech,  
+
+"Offer me ( Vibhishana) to him at once " 
+
+shows the surrender of his self (atmanikṣepa)  
+done with the help of those who could promote this surrender (ghatake). 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+गोप्तृत्ववरणम् सॊल्लिऱ्ऱा यिऱ्ऱु इति । उपायवरणमावदु अकिञ्चनऩ् चेतनऩाऩ भगवाऩै मोक्षोपायमाग वरिक्किऱदु। अदावदु अकिञ्चनऩाऩ ऎऩक्कु मोक्षोपायमाऩ भक्तियैप् पण्ण शक्तियिल्लै। अन्द भक्तिरूपोपायस्थानत्तिले नीरे निऩ्ऱु। अदावदु अन्द भक्तिरूपोपायान्तरनिरपेक्षऩाय्क्कॊण्डु रक्षिक्क वेण्डुमॆऩ्गिऱ प्रार्थनै । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायवरणशब्दत्ताले व्यञ्जितमागिऱवळवऩ्ऱिक्के ‘‘निवेदयत मां क्षिप्रं विभीषणमुपस्थितम्’’ (रामायणम् युद्ध-काण्डम् १७-१५।) ऎऩ्गैयाले घटकपुरस्सरमाऩ आत्मनिक्षेपम् सॊल्लिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्रकरणत्तिले निवेदन-शब्दं विज्ञापन-मात्र-परम् आऩाल् निष्प्रयोजनम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्मिन् प्रकरणे निवेदन-शब्दो विज्ञापन-मात्र-परत्वे निष्प्रयोजनः ।
+</details>
+
+<details><summary>English</summary>
+
+The word Nivedayata, which here means "offer to Him" would be of no use,  
+if it were interpreted as 'inform'.
+</details>
+
+<details><summary>Español</summary>
+
+The word Nivedayata, which here means "offer to Him" would be of no use,  
+if it were interpreted as 'inform'.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रकरणत्तिले निवेदनशब्दम् विज्ञापनमात्रपरमाऩाल् निष्प्रयोजनम्। 
+</details>
+
+
 
 These ideas can be found either briefly or at length in all other contexts of prapatti and in all deposits of property on trust with others in ordinary life. When depositing, with a capable person, property or wealth which one is oneself unable to keep safe, has it not been seen that one intends to do what is pleasing and to give up the intention to displease that person ? One believes that the person ( so trusted ) can keep it safe and will do so if required, tells him of one's inability to take care of it and begs him to be its custodian. Then one leaves it with him and sleeps care-free, with.' out any fear and with one's arms on one's chest.
 
