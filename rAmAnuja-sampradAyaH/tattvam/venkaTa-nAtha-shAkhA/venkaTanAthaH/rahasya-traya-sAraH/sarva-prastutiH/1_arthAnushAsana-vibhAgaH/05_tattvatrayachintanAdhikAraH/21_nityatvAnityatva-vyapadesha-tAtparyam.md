@@ -63,7 +63,7 @@ which justifies their being called by a new name.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अऴिन्ददोडु सजातीयङ्गळ् आऩ अवस्थान्तरङ्गळ्  
-मेलुम् मुऴुक्क वरुगैयाल् ए  
+मेलुम् मुऴुक्क वरुगैयाले  
 प्रवाह-नित्यङ्गळ् ऎऩ्ऱु सॊल्लु-गिऱदु.
 </details>
 

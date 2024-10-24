@@ -41,7 +41,7 @@ Time or Kāla is, in its essential nature, non-sentient or non luminous and all-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदिऩ् **स्थिति** कालावच्छेदम् इल्लामैयाल् ए  
+इदिऩ् **स्थिति** कालावच्छेदम् इल्लामैयाले  
 नित्यैय् आय् इरुक्कुम्.
 </details>
 
@@ -69,8 +69,8 @@ It is eternal because its continued existence ( sthiti) is not limited by time.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रवृत्ति-भेदम्**  
-कला-काष्ठादि-विभागत्ताल् ए  
-सृष्ट्य्-आदिगळुक्कु उपकरणम् आय् इरुक्किऱप् पडियिल् ए कण्डु-गॊळ्वदु. 
+कला-काष्ठादि-विभागत्ताले  
+सृष्ट्य्-आदिगळुक्कु उपकरणम् आय् इरुक्किऱप् पडियिले कण्डु-गॊळ्वदु. 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
