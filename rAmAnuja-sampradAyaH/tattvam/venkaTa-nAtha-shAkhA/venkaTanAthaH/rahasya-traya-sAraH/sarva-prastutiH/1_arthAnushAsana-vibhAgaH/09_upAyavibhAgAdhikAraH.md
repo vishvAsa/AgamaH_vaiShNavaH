@@ -27,7 +27,7 @@ page162
 **निदानं** तत्राऽपि स्वयम् अ-खिल-निर्माण-निपुणः ॥ २२ ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 **उपायः** स्व-प्राप्तेर् उपनिषद्-अधीतस् स **भगवान्**,  
 **प्रसत्त्यै**+++(=प्रसादाय)+++ **तस्योक्ते** प्रपदन-निदिध्यासन-गती ।  
@@ -98,7 +98,7 @@ and, even for this, Bhagavān, who has the ability to create everything, is Hims
 ऒरु ज्ञान-विकास-विशेषम् +++(वक्ष्यमाण-भक्त्य्-आख्यम्)+++.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एषां +++(मुमुक्षूणां)+++ कर्तव्य उपायस् तावत्  
 कश्चिज् ज्ञान-विकास-विशेषः । 
@@ -132,7 +132,7 @@ is a special kind of expansion of knowledge.
 ऒरु ज्ञान-विकास-विशेषम् +++(भगवद्-अनुभव-रूपम्)+++. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अनेन साध्यः प्राप्ति-रूप उपेयश्च तावत् — कश्चिज् ज्ञानविकास-विशेषः +++(भगवद्-अनुभव-रूपः)+++ ।
 </details>
@@ -183,7 +183,7 @@ The upeya or object of attainment which can be realised by this means is another
 अव्व्-ओ विद्या-विशेष--प्रति-नियत-गुणादि--**नियत-ब्रह्म-विषयमुम्** आय् इरुक्कुम्.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एतयोर् **उपाय**-भूतो ज्ञान-विकास-विशेषः  
 करण-सापेक्षः शास्त्र-विहितः  
@@ -231,7 +231,7 @@ along with the qualities Associated invariably with the respective vidyā or for
 **परिपूर्ण-ब्रह्म-विषयमुम्** आय् इरुक्कुम्.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 **उपेय**-भूतो ज्ञान-विकास-विशेषः  
 करण-निरपेक्षः स्व-भाव-प्राप्तो गुण-विभूत्य्-आदि--सर्व-**परिपूर्ण-ब्रह्म-विषयो** भवति । 
@@ -271,7 +271,7 @@ and has for its object Brahman perfect with all qualities and glorious possessio
 नाकारान्तर-वर्जनम् ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 उपासित-गुणादेर् या  
 **प्राप्ताव्** अप्य् **अ-बहिष्क्रिया** ।  
@@ -345,7 +345,7 @@ it does not exclude other qualities (and forms ).
 प्राप्ति-रूपम् आऩ इव्व्-अनुभवत्तिऩ्-उडैय परीवाहम् आय्क् कॊण्डु कैङ्कर्यम् उपेयम्.+++(5)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 प्राप्ति-रूपस्यानुभवस्य परीवाहात्मना कैङ्कर्यम् उपेयम् ।
 </details>
@@ -392,7 +392,7 @@ BHAGAVÃN IS BOTH UPĀYA AND UPEYA:
 उपायत्वमुम् उपेयत्वम् उम्.+++(5)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अस्योपाय-रूपस्य प्राप्ति-रूपस्य च ज्ञानस्य विषय-भूतस्य सत ईश्वरस्य  
 फल-प्रदत्व-भोग्यत्वादि वेषेणोपायत्वोपेयत्वे भवतः ।+++(5)+++
@@ -438,7 +438,7 @@ because He is Himself the object that is to be enjoyed.
 उपायान्तर-स्थान-निवेशत्ताले विशिष्टम् आय् इरुक्कुम्.+++(4)+++
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इदम् ईश्वरस्योपायत्वम् अ-द्वारक-प्रपत्ति-निष्ठ-विषये  
 उपायान्तर-स्थान-निवेशेन विशिष्टं भवति । 
@@ -478,7 +478,7 @@ Iśvara takes the place of other upāyas.
 फल-पर्यन्तम् आक्किक् कॊडुक्कुम्.   
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अधिकार्य्-अन्तर-विषयेऽपि  
 कर्म-योगारम्भ-काल-प्रभृताव् उपासन-पूर्ति-पर्यन्ते काले  
@@ -539,7 +539,7 @@ which has been adopted as an upāya is so complete as to bear fruit.
 स-नियमम् आग परिगृहीतम् आय् इरुक्कुम् कर्म-विशेषम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 तत्र कर्मयोगो नाम -  
 शास्त्रेण जीव-परमात्म-याथाम्य-ज्ञाने निष्पन्ने  
@@ -640,7 +640,7 @@ they have to be performed without any desire for those fruits.
 देवार्चऩ-तपस्-तीर्थ-दाऩ-यज्ञादिगळ्.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 तत्रावान्तर-भेदाः,  
 "दैवम् एवापरे यज्ञम् " इत्य्-उपक्रम्य गीता  
@@ -703,7 +703,7 @@ giving in charity, and sacrifices.
 **आत्मावलोकन-साधनम् आम्**.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अधिकारि-भेदेन प्रपत्तिः स्वयं भक्तिं द्वारी कृत्य अद्वारीकृत्य च यथा मोक्ष-हेतुर् भवति,  
 तथाऽयं कर्म-योगो ज्ञान-योगं द्वारी-कृत्याद्वारी-कृत्य च  
@@ -787,7 +787,7 @@ with the help of yogic auxiliaries like yama (self-restraint), niyama (observanc
 **निरन्तर-चिन्तनम्** पण्णुगै. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 ज्ञानयोगो नाम -  
 कर्म-योगोत्पन्नान्तः-करण-जयेन पुंसा  
@@ -840,7 +840,7 @@ because it is supported and controlled by Him and serves His purposes.
 भक्ति-योगत्तुक्कु अधिकार-कोटियिलेय् **एऱ्-इट्टुक् किडक्कुम्**.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 आभ्यां +++(कर्म-योग--ज्ञान-योगाभ्यां)+++  
 योग-मुखेनाऽऽत्मावलोकने निष्पन्ने सति —  
@@ -926,7 +926,7 @@ serves as a qualification for the practice of bhakti yoga.
 निरतिशय-प्रीति-रूपम् आऩ **ध्यान-विशेषम्**. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 भक्तियोगो नाम -  
 अनन्य-निष्ठ-अनन्याधीन-अनन्य-शेष-भूत--भगवत्-स्वरूपादि-विषयको  
@@ -977,7 +977,7 @@ and who does not exist for the fulfilment of the purposes of any one else.
 +++(मृत्यु-क्षणिक-)+++ अन्तिम-प्रत्ययावधिय् आऩ ज्ञान-सन्तति-विशेषम् +++(प्रीतिरूपापन्नम्)+++.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[८४]]  
 स च तैलधारावन् निरन्तर-**स्मृति-रूपः** साक्षात्-कार-तुल्य-**वैशद्यवान्**  
@@ -1058,7 +1058,7 @@ and terminates in the remembrance of the last moment.
 **इति-कर्तव्यतैय्** +++(→अङ्गभूतम्)+++ आय् इरुक्कुम्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अस्य **वर्णाश्रम-धर्माः**  
 ज्ञान-विकास-हेतु-भूत--सत्त्व-विवृद्धि-प्रतिबन्धक--  
@@ -1109,7 +1109,7 @@ so necessary for the expansion of knowledge.
 “चतुर्विधा भजन्ते मां”(गीता 7-16.) ऎऩ्ऱु सॊल्लप्-पट्टदु.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अयं भक्तियोगः, 
 
@@ -1185,7 +1185,7 @@ which says: "Four kinds of persons worship me etc.”
 ऎऩ्ऱु तुडङ्गिच् चॊऩ्ऩ ज्ञानियिऩ्-उडैय एऱ्ऱत्तै … 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 तत्र "4 तेषां ज्ञानी नित्ययुक्तः एकभक्तिर् विशिष्यते" इत्युपक्रम्य गीतं ज्ञानिनः समुत्कर्षम् …
 </details>
@@ -1234,7 +1234,7 @@ The superiority of the Jnāni which is stated there in the words,
 (भारतम् शान्तिपर्व 350-33-35.)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “चतुर्विधा मम जना  
 भक्ता एव हि ते स्मृताः ।  
@@ -1285,7 +1285,7 @@ The superiority of the Jnāni which is stated there in the words,
 ऎऩ्ऱु ताऩे वॆळियिट्टाऩ्.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > अहम् एव गतिस् तेषां  
 निराशीः कर्म-कारिणाम् ।  
@@ -1339,7 +1339,7 @@ The superiority of the Jnāni which is stated there in the words,
 **पर-भक्तिय्** ऎऩ्ऱु पेसप्-पट्टदु. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्थं मोक्षोपायत्वेन विहितो भक्ति-योगः **पर-भक्तिर्** इत्य् अभ्यधायि । 
 </details>
@@ -1386,7 +1386,7 @@ Bhakti yoga which has thus been prescribed as the means of obtaining mokṣa  ha
 **भक्तिय्** ऎऩ्ऱु पेर् पॆऱ्ऱ् इरुक्कुम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एतद्-धेतु-भूतः सात्त्विक-परिशीलनादि-जनितो भगवद्-विषये प्रीति-विशेषः,  
 'सर्वेश्वरो विशदं ज्ञातव्यः' इत्य् अभिनिवेशस्य कारणं सन्  
@@ -1446,7 +1446,7 @@ because it generates an eager desire to know Iśvara with perfect clearness.
 ऎऩ्गिऱप्-पडिये 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अनेन, ""शुद्धभावं गतो भक्तया शास्त्राद्वेद्मि जनार्दनम् " इत्युक्तरीत्या 
 </details>
@@ -1496,7 +1496,7 @@ obtained from the śāstras which leads to karma yoga and the like).
 "साक्षात्-करिक्क-वेणुम्" ऎऩ्ऩुम् अभिनिवेशत्तैय् उण्डाक्कि  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 शास्त्र-जन्य-तत्त्व-ज्ञान--कर्म-योगादि--परम्-परया जाता पर-भक्तिः  
 "साक्षात्-कर्तव्य" इत्य् अभिनिवेशम् उत्पाद्य, 
@@ -1555,7 +1555,7 @@ an eager desire and determination to see the Lord
 > दर्शयात्मानम् अव्ययम्”(गीता 11-4.) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 > “योगेश्वर ततो मे त्वं  
 > दर्शयात्मानम् अव्ययम्”(गीता 11-4.) 
@@ -1590,7 +1590,7 @@ be pleased to show Thy whole self 1"
 ""काणुम् आऱ्+++(=मार्गम्)+++ अरुळाय्""(तिरुवा. 8-1-1.) 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[८५]]
 " दर्शनोपायम् अनुगृहाण", 
@@ -1621,7 +1621,7 @@ be pleased to show Thy whole self 1"
 > ""ऒरु नाळ् काण वाराय् ए""(तिरुवा. 6-9-4.)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 "एकस्मिन् दिने दर्शनार्थम् आगच्छ" 
 </details>
@@ -1651,7 +1651,7 @@ be pleased to show Thy whole self 1"
 ऎऩ्ऱु विलपिक्कुम् बडि पण्णि 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इति विलापदशाम् आपाद्य 
 </details>
@@ -1683,7 +1683,7 @@ and makes the man cry out as above ~~follows~~-
 तत्-काल-नियतम् आऩ परिपूर्ण-साक्षात्-कारत्तैय् उण्डाक्कुम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एतद्-अपेक्षा-मात्र-निबन्धनेन भगवत्-प्रसाद-विशेषेण  
 तत्-काल-नियतं परिपूर्ण-**साक्षात्-कारम् उमुत्पादयति** । 
@@ -1718,7 +1718,7 @@ with a perfect visual perception of himself for the time being.
 इस्साक्षात्कारम् परज्ञानम् ऎऩ्ऱु पेसप्पट्टदु.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एष साक्षात्कारः परज्ञानम् इत्य् अभ्यधायि । 
 </details>
@@ -1751,7 +1751,7 @@ This visual perception is called parajñāna.
 पॆरु-विडाय्प्+++(=तृषां)+++ पट्टवऩ् तटाकत्तैक् कण्ड्-आप्-पोले पिऱन्द प्रीत्य्-अतिशयम् परम-भक्ति । 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्थं निरतिशय-भोग्य-भगवत्--स्व-रूप--साक्षात्-कार--समनन्तरम् एव
 अतिताप-श्रमार्तस्य जलाशय-दर्शनेनेव जातः प्रीत्य्-अतिशयः परम-भक्तिः ।
@@ -1817,7 +1817,7 @@ This (excessive and unsurpassed love for the Lord) is called parama bhakti.
 इवनैय् अवाव्+++(=अभिनिवेसम्)+++ अऱ्ऱु वीडु+++(=मुक्तिं)+++ **पॆऱप्-पण्णुम्**.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इयं "मुने चतुर्मुख" इति दशकोक्त-रीत्या  
 अ-संकुचितानुभवम् अन्तरा  
@@ -1903,7 +1903,7 @@ to the man who adopts it as the direct and independent means).
 योग्यम् अल्लामैयाल् ए
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 अयं भक्तियोगस् त्रैवर्णिकेतरेषाम्,  
 त्रैवर्णिकेष्व् अपि ज्ञानतः शक्तित उभयतोऽपि वा न्यूनतावताम्  
@@ -1957,7 +1957,7 @@ and are therefore extremely impatient,
 **पर-भक्ति-स्थानत्तिले**चोदितैय् आगैयाले  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 स्वस्थितीः विशदं विज्ञाय  
 अ-द्वारकतया प्रपत्ति मोक्षोपायत्वेन परिगृह्णतां विषये  
@@ -2007,7 +2007,7 @@ it has been prescribed in the place of parābhakti for those who know their limi
 इदिऩ् फलम् आय् इरुक्कुम्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 उपासकस्य परभक्तेः परस्ताज् जायमाना अवस्था इव,  
 अस्य स्व-तन्त्र-प्रपत्ति-निष्ठस्य प्रार्थनानुगुणम्  
@@ -2052,7 +2052,7 @@ These states are to be considered as part of the fruits of prapatti.
 विकल्पम् आगक् कडवदु. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 इत्थं भक्ति-प्रपत्योर् अधिकारिविशेषं प्रति तुल्यफलत्वाद्  
 विकल्पो भवति । 
@@ -2115,7 +2115,7 @@ BHAKTI IS DIFFERENT FROM PRAPATTI:
 ऎऩ्गिऱ अधिकरणत्तिले भेदम् सिद्धम्. 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 एतयोः 
 
@@ -2166,7 +2166,7 @@ That the two are different from each other is evident from the adhikaraṇa or s
 ऎऩ्गिऱ अधिकरणत्तिले विकल्पमुम् सिद्धम्.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 [[95]]
 
@@ -2211,7 +2211,7 @@ That there is option (to choose any of them) is also evident from the section :
 **मन्त्रादि-विशेषङ्गळ्** कण्डु-गॊळ्वदु.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 उपासने विशेषा इव  
 शाखा-भेदेषु भगवच्-छास्त्र-संहिता-भेदेषु च प्रतिपाद्यमानाः  
@@ -2272,7 +2272,7 @@ there are, in Nyāsa Vidyā also, differences stated in the different branches o
 इव् **विभागङ्गळ् सॊल्लप् पट्टदु** +++(यथा सत्त्व-बाहुल्य-मात्रे सात्त्विक इति)+++.  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 नमस्कारे वाचिक-मानसिक-कायिक-विभागवत्  
 प्रपत्ताव् अपि +एकैकं **पुरस्-कृत्येमे विभागा उक्ताः**  
@@ -2318,7 +2318,7 @@ owing to the excess of one or other of these differences.
 तात्पर्यम् आगक् कडवदु +++(न तु प्रपत्ति-मात्रस्य)+++.+++(5)+++  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 "एषां त्रयाणां समवाये पूर्ण-नमस्-कारवत्  
 पूर्ण प्रपत्तिर् भवती"ति प्रतिपादयतां वाचाम् अपि  
@@ -2417,7 +2417,7 @@ when verbal and bodily actions are absent~~).
 ऎऩ्ऩुम् इडम् मुन्बे सॊऩ्ऩोम्.
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 यथाऽधिकारम् एते सर्वेऽपि (विभागाः) फल-प्रदा  
 इत्य् एतम् अर्थं पूर्वम् एवावोचाम ॥ 
@@ -2456,7 +2456,7 @@ in accordance with the competency of those who adopt them.
 अऩ्ऱु+++(=तदा)+++ **पयऩ्+++(=फलम्)++++तरुम्** आऱ्+++(=प्रयासम्)+++ उम् अऱिन्दवर् अन्दणर्+++(=ब्राह्मणाः)+++ ए. (16)
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 ( अधिकारार्थसंग्राहिका गाथा) 
 
@@ -2515,7 +2515,7 @@ and who cannot endure delay in attaining mokṣa .
 सम्यक् **प्रेक्ष्य** शरण्य-सारथि-गिराम् अन्ते **रमन्ते** बुधाः ॥ २३ ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 कर्म-ज्ञानम् उपासनञ् च शरण-व्रज्येति चावस्थितान्  
 सन्-मार्गान् अपवर्ग-साधन-विधौ स-द्वारकाद्वारकान् ।  

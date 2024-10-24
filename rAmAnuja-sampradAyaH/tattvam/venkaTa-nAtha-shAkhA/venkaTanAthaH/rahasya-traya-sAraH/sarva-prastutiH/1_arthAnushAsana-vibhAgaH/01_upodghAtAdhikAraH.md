@@ -84,7 +84,7 @@ Lucky indeed are we in having an opportunity, in this world and every day, of me
 गुरु-परिषद्-उपज्ञं +++(ज्ञानं)+++ **प्राप्य गोपायति** स्वम् ॥ ६ ॥
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 मणिवर इव शौरेर्+++(←शूरः वसुदेवः)+++ नित्य-हृद्योऽपि **जीवः**  
 कलुष-मतिर् अविन्दन् किङ्करत्वाधिराज्यम् +++(, न श्ववृत्तिर् मनूक्ता दुःखदा)+++।  
@@ -371,7 +371,7 @@ and was brought up in a hamlet by tribesmen who found him wandering about (helpl
 तनक्क् इल्लाद शबरत्वादि-जातिगळैय् एऱ्-इट्टुक् कॊण्डु 
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 As he grew older, he identified himself with the people who brought him up and thought that he, too, was a savage tribesman, 
 </details>
@@ -483,7 +483,7 @@ he found his good and his evil, his joys and sorrows, in extremely gruesome thin
 अवर्गळुक्कुङ् किट्टव् ऒण्णाद+++(=योग्येतर)+++ अवस्थैय् उडैयनाय्,  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>नीलमेघः (सं)</summary>
 
 Though there were some wise and sage-like men who knew him as a prince, he was not accessible to them 
 </details>
