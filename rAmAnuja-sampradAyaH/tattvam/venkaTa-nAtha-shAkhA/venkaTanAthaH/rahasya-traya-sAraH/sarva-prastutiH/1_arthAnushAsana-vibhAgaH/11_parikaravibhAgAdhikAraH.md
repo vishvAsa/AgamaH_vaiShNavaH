@@ -1918,7 +1918,7 @@ Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द हितवचनम् पित्तोपहतऩुक्कुप् पाल् कैक्कुम्+++(=कषाय)+++ आप्-पोलेय्  
+इन्द हितवचनम् पित्तोपहतऩुक्कुप् पाल् कैक्कुम्+++(=तिक्तम्)+++ आप्-पोलेय्  
 अवऩुक्कु उद्वेग-हेतुव् आयिऱ्ऱु।+++(5)+++  
 </details>
 
@@ -1931,13 +1931,13 @@ Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disc
 <details><summary>English</summary>
 
 This wholesome speech caused anger in Ravana's mind  
-in the same way as milk tastes bitter to the person suffering from (excess of) bile. 
+in the same way as milk tastes bitter to the person suffering from (excess of) pitta ~~bile~~. 
 </details>
 
 <details><summary>Español</summary>
 
 This wholesome speech caused anger in Ravana's mind  
-in the same way as milk tastes bitter to the person suffering from (excess of) bile. 
+in the same way as milk tastes bitter to the person suffering from (excess of) pitta ~~bile~~. 
 </details>
 
 <details><summary>सार-बोधिनी</summary>
