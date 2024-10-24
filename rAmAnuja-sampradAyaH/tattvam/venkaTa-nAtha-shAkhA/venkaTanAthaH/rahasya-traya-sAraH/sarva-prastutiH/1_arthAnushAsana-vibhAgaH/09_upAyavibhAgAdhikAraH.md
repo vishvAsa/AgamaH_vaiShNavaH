@@ -2146,7 +2146,7 @@ That the two are different from each other is evident from the adhikaraṇa or s
 
 <details><summary>सार-बोधिनी</summary>
 
-भक्तिक्कुम् प्रपत्तिक्कुम् भेदम् उण्डागिल् अऩ्ऱ् ओ  
+भक्तिक्कुम् प्रपत्तिक्कुम् भेदम् उण्डागिल् अऩ्ऱो  
 विकल्पं सॊल्लल् आवदु;  
 
 > ‘‘अर्चनं वन्दनं दास्यं सख्यमात्मनिवेदनम् ।  

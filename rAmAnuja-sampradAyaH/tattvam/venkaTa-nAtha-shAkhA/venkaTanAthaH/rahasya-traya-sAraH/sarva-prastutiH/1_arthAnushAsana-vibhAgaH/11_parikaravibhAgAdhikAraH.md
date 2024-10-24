@@ -1815,7 +1815,7 @@ it is possible to fit in the aṅgī and the aṅgas.
 अङ्गुऱ्ऱ अभयप्रदानप्रकरणत्तिलुम् इव्वङ्गाङ्गिवर्गमडैक्कलाम्। 
 </details>
 
-
+#### प्रातिकूल्य-वर्जनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎङ्ङऩेय् ऎऩ्ऩिल्;  
@@ -1918,7 +1918,7 @@ Vibhishana's intention to do whatever is pleasing (anukulya saṅkalpa ) is disc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इन्द हितवचनम् पित्तोपहतऩुक्कुप् पाल् कैक्कुम्+++(=कटु??)+++ आप्-पोलेय्  
+इन्द हितवचनम् पित्तोपहतऩुक्कुप् पाल् कैक्कुम्+++(=कषाय)+++ आप्-पोलेय्  
 अवऩुक्कु उद्वेग-हेतुव् आयिऱ्ऱु।+++(5)+++  
 </details>
 
@@ -2152,21 +2152,144 @@ and
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्गिऱ स्ववाक्यत्तिऩ् पडियेय्  
-अङ्गु तुवक्कऱ्ऱुप्पोरुगैयाले प्रातिकूल्यवर्जनाभिसन्धि तोऱ्ऱिऱ्ऱु। 
+अङ्गु तुवक्क्+++(=सम्बन्ध)+++-अऱ्ऱुप्-पोरुगैयाले  
+प्रातिकूल्य-वर्जनाभिसन्धि तोऱ्ऱिऱ्ऱु। 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति स्व-वाक्योक्त-रीत्या तत्रत्य-संबन्ध-विच्छेदेनावस्थानात्  
+प्रातिकूल्य-वर्जनाभिसन्धिः सिद्धः ।  
+</details>
+
+<details><summary>English</summary>
+
+The intention to avoid what is displeasing (prātikulya varjanam) is revealed  
+in his coming (to ŚrīRāma) having given up all attachment to Lanka  
+in accordance with his words.  
+</details>
+
+<details><summary>Español</summary>
+
+The intention to avoid what is displeasing (prātikulya varjanam) is revealed  
+in his coming (to ŚrīRāma) having given up all attachment to Lanka  
+in accordance with his words.  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अङ्गु - लङ्कापुत्रदारादिगळिले तुवक्कऱ्ऱु - सम्बन्धमऱ्ऱु, पोरुगै याले - पोगैयाले। प्रातिकूल्यवर्जनाभिसन्धि तोऱ्ऱिऱ्ऱु इति । प्रातिकूल्यवर्जनाभिसन्धि यिल्लाविट्टाल् अङ्गु तुवक्कऱुत्तुप्पोरमाट्टादिऱे। 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 ऎऩ्गिऱ स्ववाक्यत्तिऩ् पडिये यङ्गु तुवक्कऱ्ऱुप्पोरुगैयाले प्रातिकूल्यवर्जनाभिसन्धि तोऱ्ऱिऱ्ऱु। 
 </details>
 
+#### कार्पण्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘रावणो नाम दुर्वृत्तः’’ (रामायणम् युद्ध-काण्डम् १७-१०)  
+ऎऩ्ऱु तुडङ्गि  
+सर्व-जित्-आऩ रावणऩ्-ओट्टै विरोधत्ताले  
+ताम् पोक्क् अऱ्ऱु निऱ्किऱ निलैयैच् चॊल्लुगैयालुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“२ रावणो नाम दुर्वृत्तः" इत्य् आरभ्य  
+सर्वजिता रावणेन सह विरोधात् स्वस्यागतिकतयाऽवस्थितेर्वर्णनेन, 
+</details>
+
+<details><summary>English</summary>
+
+Vibhishana's karpanya or feeling of helplessness is stated  
+in his words beginning with,  
+“The wicked Ravana" 
+</details>
+
+<details><summary>Español</summary>
+
+Vibhishana's karpanya or feeling of helplessness is stated  
+in his words beginning with,  
+“The wicked Ravana" 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कार्पण्यद्योतकवचनङ् गळै उदाहरिक्किऱार् रावणो नाम दुर्वृत्तः ऎऩ्ऱु तुडङ्गि इत्यादिना । सर्वजित्ताऩ रावण ऩोट्टै विरोधत्ताले - दिक्पालजेतावाऩ रावणऩोडु विरोधत्ताले, पोक् कऱ्ऱु निऱ्किऱ निलैयै - गत्यन्तरशून्यावस्थैयै। सॊल्लुगैयालुम् - इदऱ्कु कार्पण्यम् सॊल्लप्पट्टदॆऩ्बदोडन्वयम्।
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘रावणो नाम दुर्वृत्तः’’ (रामायणम् युद्ध-काण्डम् १७-१०) ऎऩ्ऱु तुडङ्गि सर्वजित्ताऩ रावणऩोट्टै विरोधत्ताले ताम् पोक्कऱ्ऱु निऱ्किऱ निलैयैच् चॊल्लुगैयालुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिऩ्बुम् 
+
+> ‘‘अनुजो रावणस्याहं  
+> तेन चास्म्य् अवमानितः ।  
+> भवन्तं सर्व-भूतानां  
+> शरण्यं शरणं गतः’’  
+> (रामायणम् युद्ध-काण्डम् १९-४) 
+
+ऎऩ्गैयालुम् कार्पण्यञ् चॊल्लप्पट्टदु।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पश्चाद् अपि
+
+> ‘‘अनुजो रावणस्याहं  
+> तेन चास्म्य् अवमानितः ।  
+> भवन्तं सर्व-भूतानां  
+> शरण्यं शरणं गतः’’  
+> (रामायणम् युद्ध-काण्डम् १९-४) 
+
+इत्युक्तया च कार्पण्यं प्रत्यपादि ।
+</details>
+
+<details><summary>English</summary>
+
+and in his saying that he has no other course left open owing to his enmity with the all-conquering Ravana  
+and in his declaring a short while after: 
+
+> "I am the younger brother of Ravana 
+> and have been put to disgrace by him;  
+> I have sought Thy protection, O Thou Saviour of all." 
+
+</details>
+
+<details><summary>Español</summary>
+
+and in his saying that he has no other course left open owing to his enmity with the all-conquering Ravana  
+and in his declaring a short while after: 
+
+> "I am the younger brother of Ravana 
+> and have been put to disgrace by him;  
+> I have sought Thy protection, O Thou Saviour of all." 
+
+</details>
 
 
-The intention to avoid what is displeasing (prātikulya varjanam) is revealed in his coming (to ŚrīRāma) having given up all attachment to Lanka in accordance with his words,  
+<details><summary>सायण-टीका</summary>
+
+पिऩ्बुम् - शरणागतियैप् पण्ण पिऩ्बुम्। अनुज इत्यादि । ऎऩ्गैयालुम् - गत्यन्तरशून्यत्वावस्थैयै अनुवदिक्कैयालुम्, विश्वासानुमापकङ्गळाऩ विश्वासकार्यङ्गळैच् चॊल्लि। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पिऩ्बुम् ‘‘अनुजो रावणस्याहं तेन चास्म्यवमानितः । भवन्तं सर्वभूतानां शरण्यं शरणं गतः’’ (रामायणम् युद्ध-काण्डम् १९-४) ऎऩ्गैयालुम् कार्पण्यञ्जॊल्लप्पट्टदु।
+</details>
 
 
 
-Vibhishana's karpanya or feeling of helplessness is stated in his words beginning with, “The wicked Ravana" and in his saying that he has no other course left open owing to his enmity with the all-conquering Ravana and in his declaring a short while after: "I am the younger brother of Ravana and have been put to disgrace by him; I have sought Thy protection, O Thou Saviour of all." His supreme faith (mahāvisvāsa) which made him approach without fear and say: "I have sought, as my refuge or upāya, Raghava who is the protector of the whole world " is indicated in the words “ Vibhishana who was great in wisdom" as being the cause (of this faith). The world "great " which qualifies " wisdom" is intended also to show his supreme faith; his supplication for protection (Goptritva varaṇam) is conveyed in the words, “I have sought Raghava ", for it is included within them. Besides the indirect suggestion of the supplication for protection, his speech, "Offer me ( Vibhishana) to him at once " shows the surrender of his self (atmanikṣepa) done with the help of those who could promote this surrender (ghatake). The word Nivedayata, which here means "offer to Him" would be of no use, if it were interpreted as 'inform'.
+His supreme faith (mahāvisvāsa) which made him approach without fear and say: "I have sought, as my refuge or upāya, Raghava who is the protector of the whole world " is indicated in the words “ Vibhishana who was great in wisdom" as being the cause (of this faith). The world "great " which qualifies " wisdom" is intended also to show his supreme faith; his supplication for protection (Goptritva varaṇam) is conveyed in the words, “I have sought Raghava ", for it is included within them. Besides the indirect suggestion of the supplication for protection, his speech, "Offer me ( Vibhishana) to him at once " shows the surrender of his self (atmanikṣepa) done with the help of those who could promote this surrender (ghatake). The word Nivedayata, which here means "offer to Him" would be of no use, if it were interpreted as 'inform'.
 
 These ideas can be found either briefly or at length in all other contexts of prapatti and in all deposits of property on trust with others in ordinary life. When depositing, with a capable person, property or wealth which one is oneself unable to keep safe, has it not been seen that one intends to do what is pleasing and to give up the intention to displease that person ? One believes that the person ( so trusted ) can keep it safe and will do so if required, tells him of one's inability to take care of it and begs him to be its custodian. Then one leaves it with him and sleeps care-free, with.' out any fear and with one's arms on one's chest.
 
