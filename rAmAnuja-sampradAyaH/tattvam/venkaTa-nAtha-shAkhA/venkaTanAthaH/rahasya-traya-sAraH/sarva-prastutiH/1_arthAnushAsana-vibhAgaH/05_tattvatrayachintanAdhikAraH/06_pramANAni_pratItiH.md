@@ -60,8 +60,8 @@ y también sus actividades.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदिल् स्वरूपत्तै स्व-रूप--निरूपक-धर्मङ्गळाल् ए  
-विशिष्टम् आगव् ए काट्टुम्.
+अदिल् स्वरूपत्तै स्व-रूप--निरूपक-धर्मङ्गळाले  
+विशिष्टम् आगवे काट्टुम्.
 </details>
 
 <details><summary>English</summary>

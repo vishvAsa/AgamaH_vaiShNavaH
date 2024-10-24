@@ -15,7 +15,7 @@ BHAGAVĀN HAS NEITHER EQUALS NOR SUPERIORS :
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि सर्व-प्रकारत्ताल् उम्  
+इप्-पडि सर्व-प्रकारत्तालुम्  
 नारायणऩ् समाधिक-दरिद्रऩ् ऎऩ्ऩुम् इडत्तै
 </details>
 

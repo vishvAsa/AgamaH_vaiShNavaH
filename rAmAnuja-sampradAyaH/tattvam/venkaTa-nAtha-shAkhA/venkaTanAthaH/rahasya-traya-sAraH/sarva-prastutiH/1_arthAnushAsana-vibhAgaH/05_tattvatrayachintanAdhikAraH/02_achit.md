@@ -156,7 +156,7 @@ El tiempo no es la causa [^f138] de cualquier cambio o modificación en el mundo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्यादिगळिल् ए  
+इत्यादिगळिले  
 त्रि-गुण--काल--शुद्ध-सत्त्व-रूपङ्गळ् आऩ त्रि-विधाचेतनङ्गळ्-उडैय स्वभावञ् चॊल्लिऱ्ऱु.
 </details>
 

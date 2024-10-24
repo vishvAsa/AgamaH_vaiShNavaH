@@ -35,7 +35,7 @@ y nuestro ācārya s (śrī yāmunācārya y Śrī rāmānujācārya) lo han dec
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि-विध-चेतनर् ऎऩ्ऱदु  
-बद्धरैय् उम् मुक्तरैय् उम् नित्यरैय् उम्. 
+बद्धरैयुम् मुक्तरैयुम् नित्यरैय् उम्. 
 </details>
 
 <details><summary>English</summary>
@@ -76,7 +76,7 @@ Los tres tipos de cosas no sensibles son Prakṛti con sus tres cualidades (Satt
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वरूपम् ऎऩ्ऱदु स्वासाधारण-धर्मत्ताल् ए निरूपितम् आऩ धर्मियै.
+स्वरूपम् ऎऩ्ऱदु स्वासाधारण-धर्मत्ताले निरूपितम् आऩ धर्मियै.
 </details>
 
 <details><summary>English</summary>
