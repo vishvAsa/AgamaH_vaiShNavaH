@@ -122,7 +122,7 @@ Due to the exigencies of preparing camera-ready copy on a computer, I have been 
 
 **Grammatical Peculiarities**
 
-We must, of course, assume that Yādava knew his Sanskrit. On the whole, correct grammar may be a reason to prefer a particular reading, yet there are times in this genre of literature, especially in verses quoted from sundry sources, when the established rules of Pāṇinian grammar are violated. I have not attempted to correct any of them; for example, accusative *mātrāṃ* when we would have expected the nominative (3.22) or *spr̥ṣṭvā* with instrumental (8.43). The most common such “error€ is found in the gerund, where the -*ya* ending is used with uncompounded verbs: *gr̥hya* (8.44, 45; 9.34); *sthāpya* (10.31). There are several occasions when “double sandhi€ is used in verses for metrical reasons (e.g., 6.156, 266).
+We must, of course, assume that Yādava knew his Sanskrit. On the whole, correct grammar may be a reason to prefer a particular reading, yet there are times in this genre of literature, especially in verses quoted from sundry sources, when the established rules of Pāṇinian grammar are violated. I have not attempted to correct any of them; for example, accusative *mātrāṃ* when we would have expected the nominative (3.22) or *spr̥ṣṭvā* with instrumental (8.43). The most common such “error" is found in the gerund, where the -*ya* ending is used with uncompounded verbs: *gr̥hya* (8.44, 45; 9.34); *sthāpya* (10.31). There are several occasions when “double sandhi" is used in verses for metrical reasons (e.g., 6.156, 266).
 
 
 <!-- Footnotes themselves at the bottom. -->

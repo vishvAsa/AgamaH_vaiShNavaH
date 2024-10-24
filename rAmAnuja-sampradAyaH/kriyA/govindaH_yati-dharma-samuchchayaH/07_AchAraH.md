@@ -917,7 +917,7 @@ title = "07 आचारः"
 
         स्थूलसूक्ष्मशरीराभ्यां मुच्यते दशषट्कवित् ॥[^137]॥
 
-**जमदᐋः**<sup>1</sup>** **।
+**जमदग्निः**<sup>1</sup>** **।
 
 
         धान्यवृक्षलतावल्लीः स्थावरं जङ्गमं तथा ।
@@ -1299,7 +1299,7 @@ title = "07 आचारः"
     **.**  Y* A3  insert at 7.145;  d)—तीव्र<sup>°</sup> A1 2 5 R1B M; <sup>°</sup>संवेददारु<sup>°</sup> A1 2 R1
 
 [^109]:
-    **.**  om Y* A3;  2)—माङ्गल्य<sup>°</sup> B M; संस्कारो om B M; <sup>°</sup>पर्केदर्प<sup>°</sup> A1 2; <sup>°</sup>पर्के [lacuna] दर्प<sup>°</sup> R1; <sup>°</sup>पर्केषु दर्प<sup>°</sup> B M; <sup>°</sup>त्रासवितर्जतर्कादि<sup>°</sup> A1; <sup>°</sup>त्रासवि [lacuna] तर्कादि<sup>°</sup> A2; <sup>°</sup>त्रासवित [lacuna] तादि<sup>°</sup> A5;<sup>°</sup>त्रासवि [damaged] र्कादि R1; <sup>°</sup>त्रासवितर्जतास्त्रीवर्जनमिति R2; <sup>°</sup>त्रासवितर्कज्ञद्रीवर्ज<sup>°</sup> R4; <sup>°</sup>त्रासवितर्कतᐋंद्रवर्ज<sup>°</sup> A6 G6 R3; यति<sup>°</sup> om A5 R2; <sup>°</sup>धर्मः A1 2 R1 B M
+    **.**  om Y* A3;  2)—माङ्गल्य<sup>°</sup> B M; संस्कारो om B M; <sup>°</sup>पर्केदर्प<sup>°</sup> A1 2; <sup>°</sup>पर्के [lacuna] दर्प<sup>°</sup> R1; <sup>°</sup>पर्केषु दर्प<sup>°</sup> B M; <sup>°</sup>त्रासवितर्जतर्कादि<sup>°</sup> A1; <sup>°</sup>त्रासवि [lacuna] तर्कादि<sup>°</sup> A2; <sup>°</sup>त्रासवित [lacuna] तादि<sup>°</sup> A5;<sup>°</sup>त्रासवि [damaged] र्कादि R1; <sup>°</sup>त्रासवितर्जतास्त्रीवर्जनमिति R2; <sup>°</sup>त्रासवितर्कज्ञद्रीवर्ज<sup>°</sup> R4; <sup>°</sup>त्रासवितर्कतग्निंद्रवर्ज<sup>°</sup> A6 G6 R3; यति<sup>°</sup> om A5 R2; <sup>°</sup>धर्मः A1 2 R1 B M
 
 [^110]:
     **.**  om Y* A3;  at the beginning A5 R1 add तथा
