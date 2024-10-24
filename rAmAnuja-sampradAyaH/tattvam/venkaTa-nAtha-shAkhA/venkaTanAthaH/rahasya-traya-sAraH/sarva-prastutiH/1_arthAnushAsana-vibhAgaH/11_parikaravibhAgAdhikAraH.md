@@ -1200,7 +1200,7 @@ without being preceded by mental resolution.
 (रामायणम् सुन्दरकाण्डम् २७-४३) 
 
 ऎऩ्ऱु पोक्क् अऱ्ऱु निऱ्किऱ निलैयैच् +++(→अन्-अन्य-गतिकता)+++ चॊल्लुगैयाले   
-अधिकारम् आऩ **आकिञ्चन्यम्** उम्  
+अधिकारम् आऩ **आकिञ्चन्यमुम्**  
 अदिऩ् उडैय अनुसन्धान-मुखत्ताले वन्द  
 गर्व-हान्य्-आदि-रूपम् आय् अङ्गमाऩ **कार्पण्यम्** उञ् **जॊल्ल्-इऱ्ऱ् आय्-इऱ्ऱु**।  
 </details>
@@ -2472,7 +2472,8 @@ for it is included within them.
 उपाय-वरण-शब्दत्ताले व्यञ्जितम् आगिऱव् अळव् अऩ्ऱिक्के  
 
 > ‘‘निवेदयत मां क्षिप्रं  
-> विभीषणम् उपस्थितम्’’ (रामायणम् युद्ध-काण्डम् १७-१५।) 
+> विभीषणम् उपस्थितम्’’  
+> (रामायणम् युद्ध-काण्डम् १७-१५।) 
 
 ऎऩ्गैयाले घटक-पुरस्-सरम् आऩ आत्म-निक्षेपम् सॊल्लिऱ्ऱु। 
 </details>
@@ -2511,6 +2512,44 @@ done with the help of those who could promote this surrender (ghatake).
 <details><summary>सायण-टीका</summary>
 
 गोप्तृत्ववरणम् सॊल्लिऱ्ऱा यिऱ्ऱु इति । उपायवरणमावदु अकिञ्चनऩ् चेतनऩाऩ भगवाऩै मोक्षोपायमाग वरिक्किऱदु। अदावदु अकिञ्चनऩाऩ ऎऩक्कु मोक्षोपायमाऩ भक्तियैप् पण्ण शक्तियिल्लै। अन्द भक्तिरूपोपायस्थानत्तिले नीरे निऩ्ऱु। अदावदु अन्द भक्तिरूपोपायान्तरनिरपेक्षऩाय्क्कॊण्डु रक्षिक्क वेण्डुमॆऩ्गिऱ प्रार्थनै । 
+
+उपायान्तरनिरपेक्षरक्षकत्वप्रार्थनेति यावत् ।  
+अन्द विशिष्टत्तिल् रक्षकत्वप्रार्थनै विशेष्यम् आय्गॊण्डु अन्तर्नीतम्।  
+तथाच निरपेक्षरक्षकत्वप्रार्थनारूपोपायवरणत्तिल् रक्षकत्वप्रार्थनारूपगोप्तृत्ववरणम् अन्तर्नीतमॆऩ्ऱबडि। एवमेवानुगृहीतं निक्षेपरक्षायाम् –
+
+> ‘‘तत्र गोप्तृत्वसमानार्थ एव ।  
+> गोप्तृत्व-बहिष्ठोपायत्वस्य दुर्निरूपत्वात् ।  
+> कथं तर्हि रक्षितृत्व-व्युदासेन  
+> ‘‘साम्प्रतं त्व् एष उपायार्थैक-वाचकः’’ इति निष्कर्ष इति चेत् – श्रूयताम् अवधानेन ।  
+> उपायान्तर-शून्यस्य हि प्रपदने अधिकारः ।  
+> भगवतश् च रक्षितृत्वं उपायान्तरवति तद्-रहिते च समानम् ।  
+> प्रपद्यमानेन च स्वस्य निरुपायत्वं पुरस्कार्यम् ।  
+> तद्-अभिप्रायेण हि
+>
+> >‘‘अहम् अस्म्य् अपराधानाम्  
+> आलयो ऽकिञ्चनो ऽगतिः’’,
+>
+> > ‘‘त्वम् एवोपायभूतो मे  
+> भवेति प्रार्थनामतिः’’
+>
+> इत्यादिकम् उच्यते ।  
+> तदेवं गोप्तर्य् एव भगवति  
+> प्रपित्सोर् उपायान्तर-निवृत्तिम् अभिसन्धाय  
+> उपायत्व-वाचो युक्तिः ।  
+> तेन निरपेक्ष-रक्षकत्वम् अनुसंहितं भवति’’
+
+इति । 
+
+
+आत्मनिक्षेपप्रकाशकवाक्यत्तैक् काट्टुगिऱार् निवेदयत इत्यादिना । इन्द आत्मनिक्षेपम्
+
+> ‘‘आकिञ्चन्य--भर-न्यासोपायत्व-प्रार्थनात्मनाम् ।  
+> त्रयाणां सौहृदं सूक्ष्मं’’
+
+ऎऩ्ऱु मेले सॊल्लप्पोगिऱ पडि उपायवरणमुम् आत्मनिक्षेपमुम् एकाधिकारिनियतमागैयाले ‘‘राघवं शरणं गतः’’ ऎऩ्ऱु उपायवरणम् सॊऩ्ऩदालेये व्यञ्जितमाऩालुम् वाचकशब्दमुमिरुप्पदाल् बोद्ध्यवृत्ति यिऩालुम् सॊल्लक्कूडुमॆऩ्गिऱ अभिप्रायत्ताल् उपायवरणशब्दत्ताले व्यञ्जितमागिऱ वळवऩ्ऱिक्के ऎऩ्ऱदु।
+
+इङ्गु निवेदयत ऎऩ्ऱु विज्ञापनमेयऩ्ऱो शीघ्रं प्रतीतमागिऱदु; आत्मनिक्षेपम् प्रतीतमागविल्लैये यॆऩ्ऩवरुळिच्चॆय्गिऱार् घटकपुरस्सरमाऩ आत्मनिक्षेपम् सॊल्लिऱ्ऱु इति । इङ्गु निवेदयत ऎऩ्गिऱ शब्दम् आत्मनिक्षेपपरमॆऩ्ऱु तिरुवुळ्ळम्। अप्पडियाऩाल् निवेदयामि ऎऩ्ऱु स्वकर्तृकमागच् चॊल्लवेण्डामो वॆऩ्ऱु शङ्कियामैक्काग घटकपुरस्सरमाऩ ऎऩ्ऱदु। स्वकर्तृकमाऩ भरसमर्पणत्तै आचार्यपुरस्सरमाग अनुष्ठिप्पदु पोल् घटकर्गळ् नेरुमिडत्तिल् घटकपुरस्सरमाग अनुष्ठिप्पदु उचितमागैयाले निवेदयत ऎऩ्ऱदु। ‘‘सख्यमात्मनिवेदनं’’ ‘‘निवेदयीत स्वात्मानं विष्णावमलतेजसि’’ ‘‘आत्मानं देवाय विनिवेदयेत्’’ ऎऩ्ऱु आत्मनिक्षेपत्तिलुम् निवेदनशब्दप्रयोगप्राचुर्यमिरुप्पदाल् इप्प्रकरणत्तिल् अदुवे विवक्षितमागक्कडवदु।
+
 </details>
 
 
@@ -2541,19 +2580,270 @@ The word Nivedayata, which here means "offer to Him" would be of no use,
 if it were interpreted as 'inform'.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+निवेदनशब्दम् विज्ञापनपरमॆऩ्ऱाल् प्रकरणानौचित्यमुम् उण्डॆऩ्गिऱार् इप्प्रकरणत्तिलित्यादिना ।  
+प्रपत्ति-प्रकरणत्तिल् अङ्गाङ्गि-विवक्षैये उचितम् आगैयाले  
+अपेक्षितम् आऩ अङ्गि-प्रतिपादनत्तै विट्टु  
+अनपेक्षित-विज्ञापनपरत्वे प्रयोजनम् इल्लै यॆऩ्ऱु करुत्तु। 
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इप्प्रकरणत्तिले निवेदनशब्दम् विज्ञापनमात्रपरमाऩाल् निष्प्रयोजनम्। 
 </details>
 
+### लौकिक-निक्षेपे
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि मऱ्ऱुम् उळ्ळ प्रपत्ति-प्रकरणङ्गळिलुम्  
+लौकिक-द्रव्य-निक्षेपङ्गळिलुम्  
+संक्षेप-विस्तर-प्रक्रियैयालेय् इव्वर्थङ्गळ् काणलाम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[९५]]
+
+इत्थमन्यान्येषु प्रपत्तिप्रकरणेषु  
+लौकिक-द्रव्य-निक्षेपेषु च  
+संक्षेप-विस्तर-प्रक्रियया इमेऽर्थाः सुदर्शाः । 
+</details>
+
+<details><summary>English</summary>
+
+These ideas can be found either briefly or at length in all other contexts of prapatti  
+and in all deposits of property on trust with others in ordinary life. 
+</details>
+
+<details><summary>Español</summary>
+
+These ideas can be found either briefly or at length in all other contexts of prapatti  
+and in all deposits of property on trust with others in ordinary life. 
+</details>
 
 
-These ideas can be found either briefly or at length in all other contexts of prapatti and in all deposits of property on trust with others in ordinary life. When depositing, with a capable person, property or wealth which one is oneself unable to keep safe, has it not been seen that one intends to do what is pleasing and to give up the intention to displease that person ? One believes that the person ( so trusted ) can keep it safe and will do so if required, tells him of one's inability to take care of it and begs him to be its custodian. Then one leaves it with him and sleeps care-free, with.' out any fear and with one's arms on one's chest.
+<details><summary>सायण-टीका</summary>
+
+इप्पडि सिलविडङ्गळिल् अङ्गङ्गळुक्कु अङ्गियोडु नैयत्यम् कण्ड मात्रत्ताले सर्वत्र नैयत्यम् सॊल्लक्कूडुमोवॆऩ्ऩवरुळिच्चॆय्गिऱार् इप्पडि मऱ्ऱुमुळ्ळ प्रपत्तिप्रकरणङ्गळिलुमित्यादिना । मऱ्ऱुमुळ्ळ प्रपत्तिप्रकरणङ्गळिल् - काककपोतगजेन्द्रादिप्रपत्तिप्रकरणङ्गळिल्। इप्पडि भूयोदर्शनमिरुन्दालुम् क्वचिदनैकान्त्यमुम् कूडादोवॆऩ्ऩिल्, अङ्गाङ्गिकळुडैय स्वभावत्तै निरूपित्तुप् पार्त्ताल् ओरिडत्तिलुम् अनैकान्त्यम् वारादॆऩ्गिऱ अभिप्रायत्ताले अरुळिच्चॆय्गिऱार् लौकिकद्रव्यनिक्षेपङ्गळिलुम् सङ्क्षेपविस्तरप्रक्रियैयाले इव्वर्थम् काणलामिति । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि मऱ्ऱुमुळ्ळ प्रपत्तिप्रकरणङ्गळिलुम् लौकिकद्रव्यनिक्षेपङ्गळिलुम् संक्षेपविस्तरप्रक्रियैयाले यिव्वर्थङ्गळ् काणलाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताऩ् रक्षिक्क-माट्टादद् ऒरु वस्तुवै  
+रक्षिक्क-वल्लऩ् ऒरुवऩ् पक्कलिले समर्पिक्कुम् पोदु  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वेन रक्षितुम् अशक्यस्य कस्यचिद् वस्तुनः  
+रक्षण-समर्थस्य कस्यचित् सन्निधौ समर्पणावसरे 
+</details>
+
+<details><summary>English</summary>
+
+When depositing, with a capable person, property or wealth  
+which one is oneself unable to keep safe,  
+</details>
+
+<details><summary>Español</summary>
+
+When depositing, with a capable person, property or wealth  
+which one is oneself unable to keep safe,  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+लौकिकद्रव्यनिक्षेपप्रकारत्तैक् काट्टुगिऱार् ताऩित्यादियाल्। सिल वस्तुक्कळैत् तामे रक्षित्तुक्कॊळ्ळविल्लैयो? अप्पडिये इदुवुमागादोवॆऩ्ऱु शङ्गियामैक्काग वस्तुवै विशेषिक्किऱार् ताऩ् रक्षिक्कमाट्टाददु ऎऩ्ऱु। तथाच तऩ्ऩाल् रक्षिक्कमुडियाद वस्तुवुक्के ऎङ्गुम् समर्पणम् ऎऩ्ऱदायिऱ्ऱु। अन्द वस्तु सीरिय धनम् मुदलाऩवै। रक्षिक्कवल्लऩॊरुवऩ् पक्कलिले - दुष्प्रवेशमाऩ गृहमुम्, दुर्भेद्यमाऩ अयःपेटिकादिगळुमुळ्ळवऩायुम्, अत एव रक्षिक्क सामर्थ्यमुळ्ळवऩायुमिरुक्किऱ ऒरुवऩ् पक्कलिले। इदऩाल् असमर्थऩ् समर्थऩिडत्तिल् निक्षेपम् पण्ण वेण्डुमॆऩ्ऱदायिऱ्ऱु। समर्पिक्कुम्बोदु - समर्पिक्किऱ कालत्तिल्। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ताऩ् रक्षिक्कमाट्टाद तॊरु वस्तुवै रक्षिक्कवल्लऩॊरुवऩ् पक्कलिले समर्पिक्कुम्बोदु  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताऩ् अवऩ्-तिऱत्तिल्+++(=विषये)+++  
+अनुकूलाभिसन्धियैय् उडैयऩ् आय्  
+प्रतिकूलाभिसन्धियैत् तविर्न्दु+++(=हित्वा)+++  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वयं तद्-विषये अनुकूलाभिसन्धिमान् भूत्वा  
+प्रतिकूलाभिसन्धिं हित्वा 
+</details>
+
+<details><summary>English</summary>
+
+has it not been seen that  
+one intends to do what is pleasing  
+and to give up the intention to displease that person ? 
+</details>
+
+<details><summary>Español</summary>
+
+has it not been seen that  
+one intends to do what is pleasing  
+and to give up the intention to displease that person ? 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ताऩवऩ् तिऱत्तिल् अनुकूलाभिसन्धियै युडैयऩायिति । इदऩाल् आनुकूल्यसङ्कल्पम् काट्टप्पट्टदु। रक्षगऩिडत्तिल् अनुकूलाभिसन्धियिल्लाविट्टाल् रक्ष्यवस्तुवै ताऩ् समर्पिक्कमाट्टाऩिऱे। प्रतिकूलाभिसन्धियैत् तविर्न्दु इति । रक्षकऩिडत्तिल् तमक्कु प्रातिकूल्याचरणमिरुप्पदाल् प्रतिकूलाचरणम् पण्णुगिऱ नम् वस्तुवै रक्षित्तुत् तरमाट्टाऩोवॆऩ्गिऱ सन्देहत्ताल् समर्पिक्कमाट्टाऩिऱे। इदऩाल् लौकिकद्रव्यसमर्पणत्तिलुम् रक्षगविषयत्तिल् प्रातिकूल्याभिसन्धिवर्जनम् आवश्यकमॆऩ्ऱदायिऱ्ऱु। तविर्न्दु - विट्टु, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ताऩवऩ्दिऱत्तिल् अनुकूलाभिसन्धियै युडैयऩाय्  
+प्रतिकूलाभिसन्धियैत् तविर्न्दु  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवऩ् रक्षिक्क-वल्लऩ्  
+अपेक्षित्ताल् रक्षिप्पदुञ् सॆय्युम्  
+
+ऎऩ्ऱु तेऱित्,  
+ताऩ् रक्षित्तुक्-कॊळ्ळ-माट्टामैयैय् अऱिवित्तु  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं रक्षण-समर्थः,  
+अपेक्षायां कृतायां रक्षणं कुर्याच्चेति विश्वस्य,  
+स्वस्य रक्षणासामर्थ्यं विनिवेद्य  
+</details>
+
+
+<details><summary>English</summary>
+
+One believes that the person ( so trusted ) can keep it safe  
+and will do so if required,  
+tells him of one's inability to take care of it  
+</details>
+
+<details><summary>Español</summary>
+
+One believes that the person ( so trusted ) can keep it safe  
+and will do so if required,  
+tells him of one's inability to take care of it  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इवऩ् रक्षिक्क वल्लऩ् - रक्षिक्क समर्थऩ् अपेक्षित्ताल् रक्षिप्पदुम् सॆय्युमॆऩ्ऱु तेऱि इति । तेऱि - विश्वसित्तु, इदऩाल् रक्षगऩिडत्तिल् रक्षणसामर्थ्यबुद्धिपूर्वकरक्षिष्यतीति महाविश्वासम् वेण्डुमॆऩ्ऱदायिऱ्ऱु। प्रधानमाऩ इव् विश्वासमिल्लाविट्टाल्रक्ष्यवस्तुवै समर्पिक्कमाट्टाऩिऱे। ताऩ् रक्षित्तुक्कॊळ्ळ माट्टामैयैयऱिवित्तु इति । इदऩाल् कार्पण्यम् सॊल्लप्पट्टदु। इप्पडि तऩ्ऩुडैय असामर्थ्यत्तै वॆळियिडाविट्टाल् रक्षकऩ् नीये रक्षित्तुक्कॊळ्, उऩक्कुम् सामर्थ्यमिरुक्किऱदे यॆऩ्ऱु सॊल्लि रक्षणभरत्तै स्वीगरिक्कमाट्टाऩिऱे। 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इवऩ् रक्षिक्कवल्लऩ् अपेक्षित्ताल् रक्षिप्पदुञ् जॆय्युमॆऩ्ऱु तेऱित् ताऩ् रक्षित्तुक्कॊळ्ळमाट्टामैयै यऱिवित्तु  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नी रक्षिक्क-वेणुम् ऎऩ्ऱ् अपेक्षित्तु  
+रक्ष्य-वस्तुवैय् अवऩ्-पक्कलिले समर्पित्तु  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+त्वया संरक्षितव्यमिति प्रार्थ्य  
+रक्ष्यवस्तु तत्-सन्निधौ समर्प्य 
+</details>
+
+<details><summary>English</summary>
+
+and begs him to be its custodian.  
+Then one leaves it with him  
+</details>
+
+<details><summary>Español</summary>
+
+and begs him to be its custodian.  
+Then one leaves it with him  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+नी रक्षिक्क वेण्डुमॆऩ्ऱु अपेक्षित्तु इति । इदऩाल् गोप्तृत्ववरणम् सॊल्लप्पट्टदु। इन्दवबेक्षैयिल्लाविट्टाल् रक्षगऩ्, उऩ्ऩुडैय असामर्थ्यमुम् उऩक्कु ऎऩ्ऩिडत्तिलुळ्ळ महाविश्वासमुम् ऎऩक्कुत् तॆरिन्दिरुन्दालुम्, नी अबेक्षिक्कामल् नाऩाग ऎप्पडि रक्षिप्पदॆऩ्ऱु सॊल्लि, रक्षणत्तिल् उदासीनऩाग निऱ्पाऩिऱे। इव्वळविरुन्दुम् रक्ष्यवस्तुवै समर्पिक्काविडिल् अवऩुक्कु रक्ष्यवस्तु स्वीगारमुम् इवऩुक्कु निर्भरतैयुमुण्डागादागैयाल् प्रधानमाऩ रक्ष्यवस्तुसमर्पणत्तैयवऩ् पक्कलिले सॆय्यवेण्डुमॆऩ्गिऱार् रक्ष्यवस्तुवै अवऩ् पक्कलिले समर्पित्तु इति । 
+</details>
+
+<details><summary>मूलम्</summary>
+
+नी रक्षिक्कवेणुमॆऩ्ऱबेक्षित्तु रक्ष्यवस्तुवै यवऩ्बक्कलिले समर्पित्तु  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताऩ् निर्भरऩ् आय्  
+भयङ् कॆट्टु  
+मार्बिले+++(=उरसि)+++ कैवैत्तुक्-कॊण्डु  
+किडन्द्+++(=शयित्वा??)+++ उऱङ्गक्+++(=स्वापं)+++  
+काणा निऩ्ऱोम् इऱे।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वयं निर्भरः  
+निर्भयम् उरसि हस्तं निधाय  
+शयित्वा स्वपितीत्य् एतद् अध्यक्षयामः किल । 
+</details>
+
+<details><summary>English</summary>
+
+and sleeps care-free, without any fear  
+and with one's arms on one's chest.
+</details>
+
+<details><summary>Español</summary>
+
+and sleeps care-free, without any fear  
+and with one's arms on one's chest.
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ताऩ् निर्भरऩाय् भयङ्गॆट्टु - मडियिलिरुन्द भरत्तै रक्षकऩिडत्तिले समर्पित्ताल् निर्भरऩाय्, इदऱ्कॆऩ्ऩ तीङ्गुवरुमोवॆऩ्गिऱ भयमुम् पोय्। मार्बिले कै वैत्तुक्कॊण्डु किडन्दुऱङ्गक् काणानिऩ्ऱोमिऱे इति । इदऩाल् निर्भरत्वकार्यम् सॊल्लप्पट्टदु। मडियिले भरमिरुन्दाल् सर्वदा अदिल् कैवैत्तुक् कॊण्डुम् तूङ्गवुम् माट्टाऩिऱे। अदु कऴिन्दमैयाल् स्वच्छन्दमाग मार्बिले कैवैत्तुक् कॊण्डु तूङ्गवुम् काण्गिऱोमिऱे। इदु लोकदृष्टियैच् चॊल्लुगिऱदु। इन्द लौकिकद्रव्यसमर्पणत्तिल् कीऴ्च्चॊऩ्ऩ आनुकूल्यादिगळिलॊऩ्ऱिल्ला विडिलुम् समर्पणम् घटियातॆऩ्ऱु उपपादित्तबडियाल् इव्वैन्दुगळुम् समर्पणत्तिऱ्कु अविनाभूतङ्गळॆऩ्ऱुम्, इव्वङ्गङ्गळुम् अङ्गियुम् अनुष्ठितमाऩ पिऱगु ताऩ् निर्भरतै युण्डागुमॆऩ्ऱुम् ज्ञापिक्कप्पट्टदु।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ताऩ् निर्भरऩाय् भयङ्गॆट्टु मार्बिले कैवैत्तुक्कॊण्डु किडन्दुऱङ्गक् काणा निऩ्ऱोमिऱे।
+</details>
+
+
+## द्वयेऽनुसन्धानम्
+
+<details><summary>English</summary>
 
 THE PRESENCE OF THESE AṅGAS AND
-
 THE AṅGĪ IN DVAYA:
+</details>
+
+<details><summary>Español</summary>
+
+THE PRESENCE OF THESE AṅGAS AND
+THE AṅGĪ IN DVAYA:
+</details>
+
 
 It may be asked how these aṅgas are to be understood in the mantra called Dvaya which reveals the meaning of the action (prapatti) to be performed. The answer is as follows:--Doubts might arise whether the Lord of all (1) who is omniscient and omnipotent, (2) who rewards in proportion to the karma (performed by one), (3) who does not require any help or assistance, (4) who does not take action immediately like minor deities and (5) who is destitute of equals and superiors-- (1) whether the Lord who is of such a nature could ( at all) be accessible to those who have committed unlimited transgressions (2) whether He would grant fruits beyond all measure to those who have committed unlimited transgressions which are hindrances to their attainment, (3) whether He would give (these blessings ) in return for insignificant actions (on the part of the persons concerned), (4) whether - he would grant them without delay and (5) whether He would be absolutely indifferent to the status of the suppliant. To remove these doubts one should know that the Lord has certain features like (1) helpful recommendation (purushakāra) from Lakṣmī, (2) the relationship of the Master to his servants, (3) attributes and qualities like love (to His creatures ). (4) the will or determination (to redeem them) and (5) His own satisfaction in saving them. These features of the śeṣī  (Bhagavān ) which are needed, respectively, for the upāya or means and for the attainment. lie imbedded, as it were, in the words Śrīmat (with Śrī or Lakṣmī ) and Nārāyaṇa  (the refuge of all men ) and these features will not, in reason, be available for salvation if there is no determination on the part of the Jīva   to do what is pleasing: (anukulya saṅkalpa) and the avoidance of what is displeasing · (prātikulya varjana). This should be considered as referred to in those two words in Dvaya. These words which show that the master has these features reveal by their appropriateness (the need for) the determination to perform what would please Him and the avoidance of what would cause displeasure.
 
