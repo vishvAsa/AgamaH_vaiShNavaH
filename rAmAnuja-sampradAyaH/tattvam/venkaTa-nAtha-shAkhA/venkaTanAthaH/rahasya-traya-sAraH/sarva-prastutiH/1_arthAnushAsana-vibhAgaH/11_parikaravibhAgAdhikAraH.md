@@ -3162,16 +3162,17 @@ To remove these doubts one should know that
 तरम्बारादे तरुगैयुङ्गूडुमो वॆऩ्गिऱ शङ्कैकळुक्कु निवर्तकङ्गळुमाय्, 
 </details>
 
+### ५ आकाराः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा-संभवम् उपायत्व-प्राप्यत्वोपयुक्तङ्गळुम् आय् इरुन्द्-उळ्ळ  
-पुरुष-कार--सम्बन्ध--गुण-व्यापार-प्रयोजन-विशेषङ्गळ् आगिऱ शेषियिऩुडैय आकारङ्गळैप्
+पुरुष-कार--सम्बन्ध--गुण--व्यापार--प्रयोजन+++(इति ५)+++-विशेषङ्गळ् आगिऱ शेषियिऩुडैय आकारङ्गळैप्
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 यथा-संभवम् उपायत्व-प्राप्यत्वोपयुक्ततया स्थितान्  
-पुरुष-कार--संबन्ध--गुण-व्यापार-प्रयोजन-विशेष-रूपान् शेषिण आकारान् 
+पुरुष-कार--संबन्ध--गुण--व्यापार--प्रयोजन-विशेष-रूपान् शेषिण आकारान् 
 </details>
 
 
@@ -3209,13 +3210,13 @@ the Lord has certain features like
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पॊदिन्दु+++(=संवृत्य)+++ कॊण्ड् इरुक्किऱ श्रीमच्-छब्दत्तिलुम् नारायण-शब्दत्तिलुम्  
-+++(एतद्-गुण-प्रयोजनम् आनुकूयम् अन्तरा न भवतीति)+++ आर्थम् आग आनुकूल्य-सङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् अनुसन्धेयम् आगक्-कडवदु।  
++++(वक्ष्यमाण-रीत्या)+++ आर्थम् आग आनुकूल्य-सङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् अनुसन्धेयम् आगक्-कडवदु।  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 गर्भीकुर्वति श्रीमच्छन्दे नारायणशब्दे च  
-+++(एतद्-गुण-प्रयोजनम् आनुकूयम् अन्तरा न भवतीति)+++ अर्थितयाऽऽनुकूल्य संकल्पः प्रातिकूल्य-वर्जनं चानुसन्धेयं भवितुम् अईतः । 
++++(वक्ष्यमाण-रीत्या)+++ अर्थितयाऽऽनुकूल्य संकल्पः प्रातिकूल्य-वर्जनं चानुसन्धेयं भवितुम् अईतः । 
 </details>
 
 
@@ -3253,12 +3254,133 @@ This should be considered as referred to in those two words in Dvaya.
 पॊदिन्दुगॊण्डिरुक्किऱ श्रीमच्छब्दत्तिलुम् नारायणशब्दत्तिलुम् आर्थमाग आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् अनुसन्धेय मागक्कडवदु।  
 </details>
 
+### आनुकूल्य-सङ्कल्पादि
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि विशिष्टऩ् आऩ स्वामियैक् काट्टुगिऱ शब्दङ्गळ्  
+औचित्यत्ताले अवऩ् तिऱत्तिल् प्राप्तम् आऩ  
+अभिमतानुवर्तन-सङ्कल्पत्तैयुम्  
+अनभिमत-निवर्तनत्तैयुम् प्रकाशिप्पिक्किऩ्ऱऩ। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवं विशिष्टं स्वामिनं प्रकाशयन्तौ शब्दौ  
+औचित्यात् तद्-विषये प्राप्तम् अभिमतानुवर्तन संकल्पम्  
+अनभिमत-निवर्तनं च प्रकाशयतः । 
+
+[[१६]]
+
+</details>
+
+
+<details><summary>English</summary>
+
+These words which show that the master has these features  
+reveal by their appropriateness (the need for) the determination to perform what would please Him  
+and the avoidance of what would cause displeasure.
+</details>
+
+<details><summary>Español</summary>
+
+These words which show that the master has these features  
+reveal by their appropriateness (the need for) the determination to perform what would please Him  
+and the avoidance of what would cause displeasure.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आनुकूल्यसङ्कल्पादिगळ् आर्थमाग सिद्धिक्कुम् प्रकारत्तैक् काट्टुगिऱार् इप्पडि विशिष्टऩाऩ स्वामियै इत्यादिना । इप्पडि विशिष्टऩाऩ स्वामियै - पूर्वोक्तप्रकारविशिष्टऩाऩ स्वामियै, पुरुषकारादिविशिष्टऩाऩ स्वामियै यॆऩ्ऱबडि। काट्टुगिऱ शब्दङ्गळ् - श्रीमच्छब्दनारायणशब्दङ्गळ्। औचित्यत्ताले इति । इत्तऩैगालम् आनुकूल्यवर्जनप्रातिकूल्यानुवर्तनङ्गळाले वन्द निग्रहनिवृत्त्यर्थमे पुरुषकारसम्बन्धादिगळ् अपेक्षितङ्गळायिऱ्ऱु। इन्द शब्दङ्गळिल् पुरुषकारादिपञ्चकङ्गळैयुमनुसन्धित्तबिऱगु अदैयुडैयवऩिडत्तिल् अनुकूलऩाय् प्रातिकूल्यान्निवृत्तऩाय्प्पोरुवदु उचितमामिऱे। आगैयाल् अवैयिरण्डिऱ्कुम् इव्विरण्डु पदङ्गळ् आर्थमाग प्रकाशकङ्गळ् ऎऩ्ऱु करुत्तु। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि विशिष्टऩाऩ स्वामियैक् काट्टुगिऱ शब्दङ्गळ् औचित्यत्ताले अवऩ् तिऱत्तिल् प्राप्तमाऩ अभिमतानुवर्तनसङ्कल्पत्तैयुम् अनभिमतनिवर्तनत्तैयुम् प्रकाशिप्पिक्किऩ्ऱऩ। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पुरुष-कारादिगळ् अञ्जुक्कुम् विशेषङ्गळ् आवऩ:- 
+</details>
+
+<details><summary>English</summary>
+
+These five,  
+namely helpful recommendation from Śrī,  
+the relationship of the Master to His servants,  
+His attributes and qualities,  
+His activity in redeeming and the satisfaction (prayojana) He receives  
+have, respectively, the following specific properties: 
+
+</details>
+
+<details><summary>Español</summary>
+
+These five,  
+namely helpful recommendation from Śrī,  
+the relationship of the Master to His servants,  
+His attributes and qualities,  
+His activity in redeeming and the satisfaction (prayojana) He receives  
+have, respectively, the following specific properties: 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पुरुषकारादिगळञ्जुक्कुम् विशेषङ्गळावऩ:- 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(पुरुष-कारस्य)+++ मऱुक्कव् ऒण्णामैयुम्,  
++++(सम्बन्धस्य)+++ ऒऴिक्कव् ऒऴियामैयुम्,  
++++(गुणानां)+++ निरुपाधिकम् आगैयुम्,  
++++(व्यापारस्य)+++ सहकारियैप् पार्त्त् इरुक्क वेण्डामैयुम्,  
++++(प्रयोजनस्य)+++ तण्णियर् आऩ पिऱर्-उडैय पेऱे+++(=पुरुषार्थं हि)+++ तऩ् पेऱ् आगैयुम्।+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+(1) inability to refuse,  
+(2) impossibility of dissociating (Himself from His servants),  
+(3) the unconditioned Nature of His grace,  
+(4) the absence of the need for accessory help and  
+(5) His feeling that the gain of those who are below Him is His own gain. 
+</details>
+
+<details><summary>Español</summary>
+
+(1) inability to refuse,  
+(2) impossibility of dissociating (Himself from His servants),  
+(3) the unconditioned Nature of His grace,  
+(4) the absence of the need for accessory help and  
+(5) His feeling that the gain of those who are below Him is His own gain. 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषां पुरुषकारादीनां पञ्चानां विशेषास् तावत् -  
++++(पुरुष-कारस्य)+++ अ-प्रत्याख्येयत्वं,  
++++(सम्बन्धस्य)+++ नाशयितुम् अशक्यत्वं,  
++++(गुणानां)+++ निरुपाधिकत्वं,  
++++(व्यापारस्य)+++ सहकारि-प्रतीक्षा-राहित्यम्,  
++++(प्रयोजनस्य)+++ अतिनीचाना परेषां पुरुषार्थस्यैव स्व-प्ररुषार्थत्वं चेति ( यथासंख्यम् ) । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मऱुक्कवॊण्णामैयुम्, ऒऴिक्कवॊऴियामैयुम्, निरुपाधिकमागैयुम्, सहकारियैप् पार्त्तिरुक्कवेण्डामैयुम्, तण्णियराऩ पिऱरुडैय पेऱे तऩ्बेऱागैयुम्।
+</details>
 
 
 
-These words which show that the master has these features reveal by their appropriateness (the need for) the determination to perform what would please Him and the avoidance of what would cause displeasure.
-
-These five, namely (helpful recommendation from Śrī, the relationship of the Master to His servants, His attributes and qualities, His activity in redeeming and the satisfaction (prayojana) He receives have, respectively, the following specific properties: (1) inability to refuse, (2) impossibility of dissociating (Himself from His servants), (3) the unconditioned Nature of His grace, (4) the absence of the need for accessory help and (5) His feeling that the gain of those who are below Him is His own gain. If it is asked how the doubts (about salvation by prapatti) stated before are removed by these specific properties, the answer is as follows:- (1) Though He is omniscient and omnipotent, He can not ignore recommendations of certain kinds and will pardon all faults which stand in the way of His accessibility in the same way as a king will pardon the faults of servants of the zenaną (on the recommendation of the royal ladies). He will appear as if he is unaware of these faults and be easily accessible. (2) Though He rewards in accordance with one's karma, he will become gracious owing to the performance of prapatti, which is something like an apology for greater things, a vyāja or gesture, and grant even that fruit which is beyond all measure and which is one's natural right like an inheritance, on account of its being due to the relationship of master and servant. (3) Although He has all objects of desire and does not require any help or assistance, He looks upon the little action (prapatti) performed by one as if it were an act of supreme help to Him because of His supreme and unconditioned compassion; for He is like a generous emperor who is easily won over by even little tokens of homage. Thus he becomes grateful and acts
+If it is asked how the doubts (about salvation by prapatti) stated before are removed by these specific properties, the answer is as follows:- (1) Though He is omniscient and omnipotent, He can not ignore recommendations of certain kinds and will pardon all faults which stand in the way of His accessibility in the same way as a king will pardon the faults of servants of the zenaną (on the recommendation of the royal ladies). He will appear as if he is unaware of these faults and be easily accessible. (2) Though He rewards in accordance with one's karma, he will become gracious owing to the performance of prapatti, which is something like an apology for greater things, a vyāja or gesture, and grant even that fruit which is beyond all measure and which is one's natural right like an inheritance, on account of its being due to the relationship of master and servant. (3) Although He has all objects of desire and does not require any help or assistance, He looks upon the little action (prapatti) performed by one as if it were an act of supreme help to Him because of His supreme and unconditioned compassion; for He is like a generous emperor who is easily won over by even little tokens of homage. Thus he becomes grateful and acts
 
 ( accordingly). (4) Though He does not (in general) act quickly like inferior deities and rewards those who adopt other means laid down in the Śāstras only after (some) delay, yet when a man who has no other protector or refuge has performed prapatti, He grants whatever is desired at the very time when it is wanted, as He did in the case of Kakasura and Vibhishana, by His mere will which is accompanied with generosity and which does not require any other help or aid. (5) Though He is destitute of equals and superiors, He has such attributes as independence and does what is desired by His dependants for His own satisfaction; so He grants (their request ) without any consideration of their status or rank as ( ŚrīRāma did) in the case of all creatures in Kosala and in the same way as a man feeds his parrot and his child alike with milk. Thus the doubts (regarding the efficacy of prapatti ) arising from analogy with everyday life are removed also by the same analogy. Therefore there is nothing to hinder prapatti from being the upāya for the desired object, as ordained in the śāstras. Supreme faith or Mahāvisvāsa is not possible for one who has not understood, from the special grace of a good ācharya, these five, namely, helpful recommendation and the like, qualified by such attributes as have been mentioned before. This is how it happens: The man finds that he is unfit to adopt such upāyas as karma yoga and the like on account of his great sins resulting from Iśvara's being unfavourably disposed towards him. His condition is such as is described in the following śloka : "Shame on me that have neither purity, nor modesty, neither compassion nor shame; for, O Supreme Person, I desire to aspire to Thy service which even such great yogis, as Brahma, Rudra and Sanaka find far beyond the reach of their meditation." Thus he has a hankering for attaining an object that is hard to attain; but for securing it, he adopts an upāya which does not involve physical strain, expenditure of money or length of time and which is easy of performance, since it involves only a single mental act or even a single utterance with only a general understanding of the meaning of the words as a whole. With this easy upāya he desires to attain that supremely great object (namely, mokṣa  ) and that, too, when he wants it. He knows that, by birth, conduct and the like, be is unfit to enjoy that fruit, like a dog which is unfit to eat the offering made to the gods, and yet he longs to attain this glory not only for himself but also for those who are connected with him. Embar has, therefore, illustrated the difficulty of having such faith by saying that to expect this man who dreads bhaktiyoga to have this supreme faith (regarding the efficacy of prapatti) is “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds to pay instead a kalam of oil".
 
