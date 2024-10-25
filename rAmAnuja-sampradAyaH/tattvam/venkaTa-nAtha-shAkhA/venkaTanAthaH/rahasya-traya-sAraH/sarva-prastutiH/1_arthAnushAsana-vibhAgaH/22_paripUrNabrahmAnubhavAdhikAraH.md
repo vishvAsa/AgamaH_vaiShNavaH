@@ -115,7 +115,7 @@ If it be so, it may be asked whether the mukta  who is not independent (of God) 
 एऱि ऎऴिऱ्‌पदमॆल्लावुयिर्क्कुमिदमुगक्कुम्  
 नाऱुदुऴाय्मुडि नादनै नण्णि यडिमैयिल् नम्  
 कूऱुगवर्न्दु कुरुक्कळ् कुऴाङ्गळ् कुरैगऴऱ्‌ कीऴ्  
-माऱुदलिण्ड्रि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
+माऱुदलिऩ्ऱि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
@@ -123,7 +123,7 @@ If it be so, it may be asked whether the mukta  who is not independent (of God) 
 एऱि ऎऴिऱ्‌पदमॆल्लावुयिर्क्कुमिदमुगक्कुम्  
 नाऱुदुऴाय्मुडि नादनै नण्णि यडिमैयिल् नम्  
 कूऱुगवर्न्दु कुरुक्कळ् कुऴाङ्गळ् कुरैगऴऱ्‌ कीऴ्  
-माऱुदलिण्ड्रि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
+माऱुदलिऩ्ऱि मगिऴ्न्दॆऴुम् पोगत्तु मन्नुवमे. (29)
 </details>
 
 Having reached the dazzling region of Paramapada and approached the Lord crowned with fragrant tulasī, who is ever delighted in doing what is good to all beings, and having obtained our share in service (to them), we shall ever live under the sounding anklets of the assembly of our ācāryas and enjoy delights which will never change and which will spring (from within us) to our great joy.
@@ -169,16 +169,6 @@ May varied forms of service which are the overflow of the blissful enjoyment of 
 End of the Part which forms the Exposition
 
 of Doctrine.
-
-APPENDIX ( Chapter V Page 65 )
-
-THE VISĀKHASTAMBHA AS DESCRIBED IN THE SATVATA SAMHITĀ AND
-
-THE LAKṣMĪ  TANTRA.
-
-In the region of eternal glory (nitya vibhūti), there is a huge column constituted of śuddhasattvam. It is a special form in which Bhagavān appears there. This column or pillar is called Visakha yoopa. The column consists of four parts called, respectively, jāgrat, (the waking state ), svapna (the dream ), suṣupti (dreamless sleep) and turīya (the fourth stage, counting from below upwards). In the part called jāgratsthana, which is somewhere above the base of the column, there are four divine forms on the four sides called, respectively, Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha facing the east, the south the west and the north and shining like branches around that part of the column. This collection of four forms is called Jāgratvyuha. The activity of this vynha is the creation, maintenance and destruction of the world. The four forms are bright in colours, white, red and the like. They have also arms or weapons. Above this part of the column is the part called svapnasthāna. Here, too, there are four divine forms Vāsudeva, Saṅkarshna, Pradyumna and Aniruddha shining like branches, as before, to the east, the south, the west and the north. This collection of four vyuhas in the second part of the column from below is called svapnavyuha. These four forms have no activities like creation and maintenance, but have only the will to do so. Their colours, too, are not so bright as those of the lower vyūha. They have weapons but no banners and other accessories. Above the svapnasthana, which is the second part from below, is the third part or sthāna called suṣuptisthāna. Here too there are four divine forms with the same aan es as in the two other parts already described and in the same order. This collection of four forms is called suṣuptivyuha. These forms have neither activities nor even the will or the desire to act. They have just the experience of their owa bliss and nothing else. In the form of Vāsudeva which is like a branch of the column shooting on the eastern side, there is no such thing as a body with limbs and the like and it shines with all the six qualities. The other three forms, Saṅkarṣaṇa and the like on the other three sides have a body with hands, feet and the like. But they have no weapons; on the palms they bear lines resembling the conch, and the weapons. These forms have no colours. The uppermost or fourth part of the column (Turīya sthāna) has also similar four forms with the same names as in the former parts. This collection of four is the Turīya vyūha. They have no bodies with limbs and the like but resemble the Vāsudeva form of the suṣupti vyūha. They have no activities, no will, no weapons and no lines on the palm resembling arms. All the six qualities shine in the form called Vāsudeva and the other three have, each, only two of these qualities. The names jāgrat, svapna, suṣupti and turīya are given to them on the analogy of these states in man in the ordinary world, according to the greater or the lesser activity found in each. The turīya state is like that in a swoon when even the breath is suspended, whereas in the suṣupti state, the man just breathes in or breathes out; in the svapna, his external senses cease to act, only the mind is active, in the jāgrat state, both the mind and the external senses act.
-
-These four parts with four vyūhas in each correspond to the four stages of development that may be found in the worshipper who meditates on them. On the lowest stage of meditation, there is no full control of the external senses and the mind; in the second stage of development, control of the external senses has been attained but not of the mind; in the next stage, the mind, too, has been controlled and the man who meditates is seen just breathing in and breathing out with no other activity or sign of life; in the last or perfect development of meditation, he is like one in a swoon, not even breathing in or out:
 
 PART II
 

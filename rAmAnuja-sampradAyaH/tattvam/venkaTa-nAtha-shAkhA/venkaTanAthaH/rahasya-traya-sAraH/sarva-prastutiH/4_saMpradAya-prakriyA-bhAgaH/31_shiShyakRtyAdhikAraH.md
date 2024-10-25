@@ -93,18 +93,18 @@ The Vedas declare that a man attains mokṣa by having anācārya and the same i
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-एट्रि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
-माट्रिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
-पोट्रियुगप्पदुम् पुन्दियिऱ्‌कॊळ्वदुम् पॊङ्गुबुगऴ्च्  
-चाट्रि वळर्प्पदुञ् जट्रल्लवो मुन्नम् पॆट्रदऱ्‌के. (48)
+एऱ्ऱि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
+माऱ्ऱिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
+पोऱ्ऱियुगप्पदुम् पुन्दियिऱ्‌कॊळ्वदुम् पॊङ्गुबुगऴ्च्  
+चाऱ्ऱि वळर्प्पदुञ् जऱ्ऱल्लवो मुन्नम् पॆऱ्ऱदऱ्‌के. (48)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-एट्रि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
-माट्रिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
-पोट्रियुगप्पदुम् पुन्दियिऱ्‌कॊळ्वदुम् पॊङ्गुबुगऴ्च्  
-चाट्रि वळर्प्पदुञ् जट्रल्लवो मुन्नम् पॆट्रदऱ्‌के. (48)
+एऱ्ऱि मनत्तॆऴिन् ञानविळक्कै यिरुळनैत्तुम्  
+माऱ्ऱिनवर्क्कॊरु कैम्माऱु मायनुङ् गाणगिल्लान्  
+पोऱ्ऱियुगप्पदुम् पुन्दियिऱ्‌कॊळ्वदुम् पॊङ्गुबुगऴ्च्  
+चाऱ्ऱि वळर्प्पदुञ् जऱ्ऱल्लवो मुन्नम् पॆऱ्ऱदऱ्‌के. (48)
 </details>
 
 Even (the omniscient and omnipotent) Mayan cannot requite the ācārya who dispelled all the darkness (in the mind) by lighting the bright lamp of wisdom therein. (Therefore) for what was received before (from the ācārya), it is indeed very little (that is done by the śiṣya) in recounting his praise with delight, in constant meditation of him, and in extending his growing renown.

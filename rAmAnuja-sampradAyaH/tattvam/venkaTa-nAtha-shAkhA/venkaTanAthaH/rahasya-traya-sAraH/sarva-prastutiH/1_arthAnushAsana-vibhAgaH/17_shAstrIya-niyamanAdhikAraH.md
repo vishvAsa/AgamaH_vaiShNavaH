@@ -69,7 +69,7 @@ Since this violation of the Lord's command is opposed to the Lord's pleasure whi
 
 The paths indicated in the śāstras deal with acts or rites of two kinds: obligatory and permissive. The former have to be done for avoiding the Lord's punishment and the latter for obtaining the respective benefits.
 
-Even when a permissible act is performed, if there is violation of the prescribed method, it becomes an offence or violation of the command. Therefore transgression of the rule prescribed in the s'astra is nowhere countenanced.
+Even when a permissible act is performed, if there is violation of the prescribed method, it becomes an offence or violation of the command. Therefore transgression of the rule prescribed in the śastra is nowhere countenanced.
 
 When the same rite is prescribed both for avoiding a transgression and for obtaining a benefit - in that rite, there is a mingling  of competency (adhikāra) according to scholars. When the same karma or rite is prescribed as nitya (obligatory) and also kamya (for the sake of a benefit), the act or rite performed for the specific benefit will serve (also) as the performance of the nitya (by that single performance).
 
@@ -77,18 +77,18 @@ In rites (karmas or services) prescribed for the attainment of certain benefits,
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-निण्ड्रनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
-नण्ड्रिदु तीयदिदॆण्ड्रु नडत्तिय नान्मऱैयाल्  
-इण्ड्रु नमक्किरवादलि लिम्मदि यिन्निलवे  
-अण्ड्रि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
+निऩ्ऱनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
+नऩ्ऱिदु तीयदिदॆऩ्ऱु नडत्तिय नान्मऱैयाल्  
+इऩ्ऱु नमक्किरवादलि लिम्मदि यिन्निलवे  
+अऩ्ऱि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-निण्ड्रनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
-नण्ड्रिदु तीयदिदॆण्ड्रु नडत्तिय नान्मऱैयाल्  
-इण्ड्रु नमक्किरवादलि लिम्मदि यिन्निलवे  
-अण्ड्रि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
+निऩ्ऱनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
+नऩ्ऱिदु तीयदिदॆऩ्ऱु नडत्तिय नान्मऱैयाल्  
+इऩ्ऱु नमक्किरवादलि लिम्मदि यिन्निलवे  
+अऩ्ऱि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
 </details>
 
 By following the four Vedas (and the Smṛtis and other śāstras) in which the Supreme Being who measured the three worlds with His feet has ordained what is right and what is wrong, we have attained the state of service similar to that of the eternal sūris who are full of the love (of God). To us who live in the dark night (of saṁsāra), there is no other light than that of this moon (viz. the śāstras) to dispel the darkness that grows denser and denser at every step.

@@ -82,7 +82,7 @@ Therefore the statement in the following śloka  :-- "The man " who performs pra
 विण्णवरु मण्णवरुम् विरुम्बुम् वॆऱ्‌पु  
 वेङ्गडवॆऱ्‌पॆन विळङ्गुम् वेदवॆऱ्‌पे.
 
-(2) The mountain which reveals to us the two feet of Śrīkṛṣṇa, the mountain where wicked sinners get rid of both their puiya and papa, the mountain which is renowned as being indeed mokṣa  itself, the mountain on which flow holy streams with pellucid walers, the mountain that is extolled as the abode of all righteous actions, the mountain that secures all the enjoyments of Paramapada (the region of dazzling gold), the mountain that is longed for by the eternal săiris and the people of this earth - that mountain is only the mountain described in the Vedas and famous as lhe Venkata Hills.
+(2) The mountain which reveals to us the two feet of Śrīkṛṣṇa, the mountain where wicked sinners get rid of both their puiya and papa, the mountain which is renowned as being indeed mokṣa  itself, the mountain on which flow holy streams with pellucid walers, the mountain that is extolled as the abode of all righteous actions, the mountain that secures all the enjoyments of Paramapada (the region of dazzling gold), the mountain that is longed for by the eternal sāiris and the people of this earth - that mountain is only the mountain described in the Vedas and famous as lhe Venkata Hills.
 
 उत्तम वमर्त्तल ममैत्तदो रॆऴिऱ्‌ ऱनुवुनुयर्त्त कणैयाल्  
 अत्तिरवरक्कन् मुडिबत्तु मॊरुगॊत्तॆन वुदिर्त्त तिऱलोन्  
@@ -92,7 +92,7 @@ Therefore the statement in the following śloka  :-- "The man " who performs pra
 (3) Hastigiri (Kañcīpuram ) where dwells ŚrīRāma who, with his might and with his arrow discharged from his beautiful bow in the great battle-field, sh ook down the bunch of ten heads of the Rākṣasa who was powerful in the use of missiles and where dwells also Śrīkṛṣṇa, the great friend of man, who ate the rising batter kept by Yasoda, after churning the abundant curd into which the chura was pressed – this Hastigiri cuts off the sins of devotees leaving no trace of them behind. It does, of itself, the work of the Lord's chakra and lets the latter remain as a mere ornament to His hand :
 
 तेनार् कमलत् तिरुमगणादन् ऱिगऴ्न्दुऱैयुम्  
-वानाडुगन्दवर् वैयत्तिरुप्पिडम् वण्ड्ररुमक्  
+वानाडुगन्दवर् वैयत्तिरुप्पिडम् वऩ्ऱरुमक्  
 कानारिमयमुङ् गङ्गैयुङ् गाविरियुङ् गडलुम्  
 नानानगरमु नागमुङ् गूडिय नन्निलमे. (26)
 

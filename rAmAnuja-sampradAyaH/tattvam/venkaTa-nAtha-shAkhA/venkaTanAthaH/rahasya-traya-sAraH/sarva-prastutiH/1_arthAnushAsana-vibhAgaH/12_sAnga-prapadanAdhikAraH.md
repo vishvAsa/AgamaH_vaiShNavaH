@@ -79,9 +79,9 @@ So from these two śloka s, it is clear that the essence of the śāstras which 
 
 ## THE MEANING OF THE AÑGĪ IN DVAYAM :
 
-Thus in the first part of the Dvaya which deals with the upāya or means, the surrender to the Lord of the responsibility (for one's protection) accompanied by the thought that one is śeṣa to the Lord and exists only for Him is to be understood in connection with the verb (prapadye) joined with the word s'aranam which treats of the upāya preceded by supreme faith ( mahavisvāsa ) and which contains within it, in an implicit form, the supplication for protection.
+Thus in the first part of the Dvaya which deals with the upāya or means, the surrender to the Lord of the responsibility (for one's protection) accompanied by the thought that one is śeṣa to the Lord and exists only for Him is to be understood in connection with the verb (prapadye) joined with the word śaranam which treats of the upāya preceded by supreme faith ( mahavisvāsa ) and which contains within it, in an implicit form, the supplication for protection.
 
-Thus (from what has been said in this chapter and in the foregoing chapters), although these six (the five aṅgas and the angī) may be understood separately, while considering, in detail, the meaning of each part of the sentence, yet they constitute only a single mental act while understanding the whole sentence, just like the understanding of other sentences having several parts. Therefore, in accordance with the s'astras, this principal action with its aṅgas is performed only once.
+Thus (from what has been said in this chapter and in the foregoing chapters), although these six (the five aṅgas and the angī) may be understood separately, while considering, in detail, the meaning of each part of the sentence, yet they constitute only a single mental act while understanding the whole sentence, just like the understanding of other sentences having several parts. Therefore, in accordance with the śastras, this principal action with its aṅgas is performed only once.
 
 ## PRAPATTI IS A MOMENTARY ACTION.
 
@@ -121,17 +121,17 @@ Therefore wise are they who perform prapatti in order to render faultless servic
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-अऱवे परमॆण्ड्रडैक्कलम् वैत्तनरण्ड्रु नम्मैप्  
-पॆऱवे करुदिप् पॆरुन्दगवुट्र पिरानडिक्कीऴ्  
-उऱवेयिवनुयिर् काक्किण्ड्र वोरुयिरुण्मैयै नी  
+अऱवे परमॆऩ्ऱडैक्कलम् वैत्तनरऩ्ऱु नम्मैप्  
+पॆऱवे करुदिप् पॆरुन्दगवुऱ्ऱ पिरानडिक्कीऴ्  
+उऱवेयिवनुयिर् काक्किऩ्ऱ वोरुयिरुण्मैयै नी  
 मऱवेलॆन नम्मऱैमुडिसूडिय मन्नवरे. (19)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
-अऱवे परमॆण्ड्रडैक्कलम् वैत्तनरण्ड्रु नम्मैप्  
-पॆऱवे करुदिप् पॆरुन्दगवुट्र पिरानडिक्कीऴ्  
-उऱवेयिवनुयिर् काक्किण्ड्र वोरुयिरुण्मैयै नी  
+अऱवे परमॆऩ्ऱडैक्कलम् वैत्तनरऩ्ऱु नम्मैप्  
+पॆऱवे करुदिप् पॆरुन्दगवुऱ्ऱ पिरानडिक्कीऴ्  
+उऱवेयिवनुयिर् काक्किऩ्ऱ वोरुयिरुण्मैयै नी  
 मऱवेलॆन नम्मऱैमुडिसूडिय मन्नवरे. (19)
 </details>
 
@@ -158,12 +158,9 @@ Our princely ācārya s, who wear the crown of proficiency in the Vedas, have pl
 The horse, the chariot and the charioteer -- the end of the Vedas (the Upaniṣads) shows that the three tattvas, cit, acit, and Iśvara are related to one another respectively like the three mentioned above and have always had varied activities in accordance with their respective nature. In connection with these activities, all the three are of the nature of being the (material) causes; two, cit and Iśvara, are of the nature of doers, and one (1.) Iśvara is alone independent (of all others). Therefore the jīva, the responsibility for whose protection has been undertaken by Iśvara who is the Master, is carefree and has no further responsibility of his own in the matter of his protection.
 </details>
 
-
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे  
 साङ्गप्रपदनाधिकारो द्वादशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
-
-
 

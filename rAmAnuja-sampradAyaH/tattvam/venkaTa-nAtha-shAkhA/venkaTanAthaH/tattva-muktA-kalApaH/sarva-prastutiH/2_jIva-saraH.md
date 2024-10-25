@@ -451,8 +451,9 @@ unicode_script = "devanagari"
 ## असत्यात् सत्य-सिद्धि-निरासः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-छायादिर्न त्वसत्यस्सदवगतिकरस्तत्र हेतुर्हि तद्धीस्साध्यज्ञप्त्यादिवत्सा स्वयमिह न मृषा नास्ति धीरित्यबाधात् ।  
-सत्येनैव प्रसूता घट इव विमता शेमुषी कार्यभावाद्धेतुत्वालीकभावौ कथमिव विहतावेकमेवाश्रयेताम् ॥ ४९ ॥
+छायादिर्न त्वसत्यस्सदवगतिकरस्तत्र हेतुर्हि तद्धीस्साध्यज्ञप्त्यादिवत्सा स्वयमिह न मृषा, "नास्ति +++(स्वप्नादि-)+++धीर्" इत्य् अबाधात् ।  
+सत्येनैव प्रसूता घट इव विमता शेमुषी कार्यभावाद्  
++हेतुत्वालीक-भावौ कथम् इव विहताव् एकम् एवाश्रयेताम् ॥ ४९ ॥
 </details>
 
 <div class="js_include " url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/venkaTa-nAtha-shAkhA/venkaTanAthaH/tattva-muktA-kalApaH/sarvASh_TIkAH/2_jIva-saraH/049_ChAyAdirna_tvasatyassadavagatikarastatra.md"  newLevelForH1="3" includeTitle="false"  > </div>
