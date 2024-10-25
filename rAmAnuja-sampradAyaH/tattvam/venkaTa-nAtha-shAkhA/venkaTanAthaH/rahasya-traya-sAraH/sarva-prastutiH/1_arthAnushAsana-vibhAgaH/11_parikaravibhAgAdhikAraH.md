@@ -2885,9 +2885,10 @@ The answer is as follows:--
 इक् कट्टळैयॆल्लाम् क्रियमाणार्थप्रकाशकमाऩ द्वयाख्यमन्त्रत्तिले अनुसन्धिक्कुम्बडि यॆङ्ङऩेयॆऩ्ऩिल्; 
 </details>
 
+### भगवत्-स्वरूपम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सार्वज्ञ-सर्वशक्ति-युक्तऩ् आय्,  
+> सार्वज्ञ-सर्वशक्ति-युक्तऩ् आय्,  
 कर्मानुरूप-फल-प्रदऩ् आय्,  
 सर्वोपकार-निरपेक्षऩ् आय्,
 </details>
@@ -2934,7 +2935,7 @@ Doubts might arise whether the Lord of all
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षुद्र-देवतैगळैप्-पोले क्षिप्र-कारिय् अऩ्ऱिक्केय् इरुप्पाऩ् आय्, 
+> … क्षुद्र-देवतैगळैप्-पोले क्षिप्र-कारिय् अऩ्ऱिक्केय् इरुप्पाऩ् आय्, 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -2973,8 +2974,289 @@ Doubts might arise whether the Lord of all
 क्षुद्रदेवतैगळैप्पोले क्षिप्रकारि यऩ्ऱिक्के यिरुप्पाऩाय्, 
 </details>
 
+### शङ्का
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(5) who is destitute of equals and superiors-- (1) whether the Lord who is of such a nature could ( at all) be accessible to those who have committed unlimited transgressions (2) whether He would grant fruits beyond all measure to those who have committed unlimited transgressions which are hindrances to their attainment, (3) whether He would give (these blessings ) in return for insignificant actions (on the part of the persons concerned), (4) whether - he would grant them without delay and (5) whether He would be absolutely indifferent to the status of the suppliant. To remove these doubts one should know that the Lord has certain features like (1) helpful recommendation (purushakāra) from Lakṣmī, (2) the relationship of the Master to his servants, (3) attributes and qualities like love (to His creatures ). (4) the will or determination (to redeem them) and (5) His own satisfaction in saving them. These features of the śeṣī  (Bhagavān ) which are needed, respectively, for the upāya or means and for the attainment. lie imbedded, as it were, in the words Śrīmat (with Śrī or Lakṣmī ) and Nārāyaṇa  (the refuge of all men ) and these features will not, in reason, be available for salvation if there is no determination on the part of the Jīva   to do what is pleasing: (anukulya saṅkalpa) and the avoidance of what is displeasing · (prātikulya varjana). This should be considered as referred to in those two words in Dvaya. These words which show that the master has these features reveal by their appropriateness (the need for) the determination to perform what would please Him and the avoidance of what would cause displeasure.
+> … समाधिक-दरिद्रऩ् आऩ सर्वेश्वरऩ्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+समाधिक-दरिद्रस्य सर्वेश्वरस्य 
+</details>
+
+<details><summary>English</summary>
+
+(5) who is destitute of equals and superiors-- 
+</details>
+
+<details><summary>Español</summary>
+
+(5) who is destitute of equals and superiors-- 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+समाधिकदरिद्रऩाऩ सर्वेश्वरऩ् इति ।  
+इदु तरम् पारादे अदावदु तारतम्यमिल्लादे तरुगै कूडुमोवॆऩ्गिऱ शङ्गैक्कुक् कारणम्। निस्समाभ्यधिकऩाऩवऩ् तारदम्यम् पारादे तरमाट्टाऩॆऩ्बदु शङ्काभिप्रायम्। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+समाधिकदरिद्रऩाऩ सर्वेश्वरऩ् अनन्तापराधङ्गळै युडैयार्क्कु अभिगम्यऩागैयुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनन्तापराधङ्गळैय् उडैयार्क्कु अभिगम्यऩ् आगैयुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ अनन्तापराधवद्भिर् अभिगन्तव्यत्वम्,
+</details>
+
+<details><summary>English</summary>
+
+(1) whether the Lord who is of such a nature could ( at all) be accessible to those who have committed unlimited transgressions
+</details>
+
+<details><summary>Español</summary>
+
+(1) whether the Lord who is of such a nature could ( at all) be accessible to those who have committed unlimited transgressions
+</details>
+
+<details><summary>मूलम्</summary>
+
+> अनन्तापराधङ्गळैय् उडैयार्क्कु अभिगम्यऩ् आगैयुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्राप्ति-विरोधिय् आऩ अनन्तापराधङ्गळैय्-उडैयार्क्कु  
+अळव्-इल्लाद फलत्तैत् तरुगैयुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्राप्ति-विरोध्य्-अनन्तापराधवद्-भ्यो ऽपरिमित-फल-दातृत्वम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+(2) whether He would grant fruits beyond all measure  
+to those who have committed unlimited transgressions  
+which are hindrances to their attainment,
+</details>
+
+<details><summary>Español</summary>
+
+(2) whether He would grant fruits beyond all measure  
+to those who have committed unlimited transgressions  
+which are hindrances to their attainment,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्तिविरोधियाऩ अनन्तापराधङ्गळैयु टैयार्क्कु अळविल्लाद फलत्तैत् तरुगैयुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> … अल्पव्यापारत्तुक्कुत् तरुगैयुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अल्पव्यापारस्य कृते दानम्, 
+</details>
+
+<details><summary>English</summary>
+
+(3) whether He would give (these blessings ) in return for insignificant actions (on the part of the persons concerned),
+</details>
+
+<details><summary>Español</summary>
+
+(3) whether He would give (these blessings ) in return for insignificant actions (on the part of the persons concerned),
+</details>
+
+<details><summary>मूलम्</summary>
+
+अल्पव्यापारत्तुक्कुत् तरुगैयुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> … ताऴादे तरुगैयुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अविलम्बेन दानम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+(4) whether - he would grant them without delay and
+</details>
+
+<details><summary>Español</summary>
+
+(4) whether - he would grant them without delay and
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ताऴादे तरुगैयुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> … तरम् पारादे+++(=??-)+++ तरुगैयुङ्  
+कूडुमोव्? 
+
+ऎऩ्गिऱ शङ्कैकळुक्कु निवर्तकङ्गळुमाय्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> तारतम्यानादरेण दानं च  
+कथं घटेरन् 
+
+इति शङ्कानां निवर्तकान् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+(5) whether He would be absolutely indifferent to the status of the suppliant.  
+
+To remove these doubts one should know that  
+</details>
+
+<details><summary>मूलम्</summary>
+
+(5) whether He would be absolutely indifferent to the status of the suppliant.  
+
+To remove these doubts one should know that  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+शङ्कैकळुक्कु निवर्तकङ्गळुमायिति । वक्ष्यमाणरीत्या शङ्कानिवर्तनसमर्थङ्गळा यॆऩ्ऱबडि। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तरम्बारादे तरुगैयुङ्गूडुमो वॆऩ्गिऱ शङ्कैकळुक्कु निवर्तकङ्गळुमाय्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यथा-संभवम् उपायत्व-प्राप्यत्वोपयुक्तङ्गळुम् आय् इरुन्द्-उळ्ळ  
+पुरुष-कार--सम्बन्ध--गुण-व्यापार-प्रयोजन-विशेषङ्गळ् आगिऱ शेषियिऩुडैय आकारङ्गळैप्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यथा-संभवम् उपायत्व-प्राप्यत्वोपयुक्ततया स्थितान्  
+पुरुष-कार--संबन्ध--गुण-व्यापार-प्रयोजन-विशेष-रूपान् शेषिण आकारान् 
+</details>
+
+
+<details><summary>English</summary>
+
+the Lord has certain features like  
+(1) helpful recommendation (purushakāra) from Lakṣmī,  
+(2) the relationship of the Master to his servants,  
+(3) attributes and qualities like love (to His creatures ).  
+(4) the will or determination (to redeem them) and  
+(5) His own satisfaction in saving them.
+</details>
+
+<details><summary>Español</summary>
+
+the Lord has certain features like  
+(1) helpful recommendation (purushakāra) from Lakṣmī,  
+(2) the relationship of the Master to his servants,  
+(3) attributes and qualities like love (to His creatures ).  
+(4) the will or determination (to redeem them) and  
+(5) His own satisfaction in saving them.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यथासम्भवं – यथायोग्यम्। पुरुषकारम् उपायत्वोपयुक्तम्; सम्बन्धगुणङ्गळ् उभयत्रोपयुक्तङ्गळ्। पुरुषकारमावदु अपेक्षितत्तैक् कॊडुक्कक्कूडिय आश्रयणीयऩुक्कुम् आश्रयिप्पवऩुक्कुम् घटकमाऩ चेतनान्तरम्। सम्बन्धमावदु स्वामित्वदासत्वरूपम्। गुणङ्गळ् दयावात्सल्यादिगळ् व्यापारम् सृष्ट्यादिगळ्। प्रयोजनम् आश्रितप्रयोजनैकप्रयोजनत्वम्। प्रयोजनविशेषङ्गळागिऱऎऩ्गिऱ विडत्तिल् विशेषपदम् द्वन्द्वान्ते श्रूयमाणमागैयाल् पुरुषकारादि प्रत्येकङ्गळिलुमन् वयिक्किऱदु। शेषियिऩुडैय - भरसमर्पणोद्देश्यऩाऩ स्वामियिऩुडैय। 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथासंभवम् उपायत्वप्राप्यत्वोपयुक्तङ्गळुमायिरुन्दुळ्ळ पुरुषकारसम्बन्धगुणव्यापारप्रयोजन विशेषङ्गळागिऱ शेषियिऩुडैय आकारङ्गळैप्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पॊदिन्दु+++(=संवृत्य)+++ कॊण्ड् इरुक्किऱ श्रीमच्-छब्दत्तिलुम् नारायण-शब्दत्तिलुम्  
++++(एतद्-गुण-प्रयोजनम् आनुकूयम् अन्तरा न भवतीति)+++ आर्थम् आग आनुकूल्य-सङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् अनुसन्धेयम् आगक्-कडवदु।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+गर्भीकुर्वति श्रीमच्छन्दे नारायणशब्दे च  
++++(एतद्-गुण-प्रयोजनम् आनुकूयम् अन्तरा न भवतीति)+++ अर्थितयाऽऽनुकूल्य संकल्पः प्रातिकूल्य-वर्जनं चानुसन्धेयं भवितुम् अईतः । 
+</details>
+
+
+<details><summary>English</summary>
+
+These features of the śeṣī  (Bhagavān ) which are needed, respectively, for the upāya or means and for the attainment  
+lie imbedded, as it were, in the words Śrīmat (with Śrī or Lakṣmī ) and Nārāyaṇa  (the refuge of all men )  
+and these features will not, in reason, be available for salvation  
+if there is no determination on the part of the Jīva  
+to do what is pleasing: (anukulya saṅkalpa)  
+and the avoidance of what is displeasing  (prātikulya varjana).  
+This should be considered as referred to in those two words in Dvaya.  
+</details>
+
+<details><summary>Español</summary>
+
+These features of the śeṣī  (Bhagavān ) which are needed, respectively, for the upāya or means and for the attainment  
+lie imbedded, as it were, in the words Śrīmat (with Śrī or Lakṣmī ) and Nārāyaṇa  (the refuge of all men )  
+and these features will not, in reason, be available for salvation  
+if there is no determination on the part of the Jīva  
+to do what is pleasing: (anukulya saṅkalpa)  
+and the avoidance of what is displeasing  (prātikulya varjana).  
+This should be considered as referred to in those two words in Dvaya.  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+पॊदिन्दु कॊण्डिरुक्किऱ - तात्पर्यविषयङ्गळाऩ अर्थङ्गळैयन्तर्भवित्तुक्कॊण्डिरुक्किऱ। इदु हेतुगर्भविशेषणम्। पॊदिन्दु कॊण्डिरुप्पदाल् श्रीमच्छब्दत्तिलुम् नारायण शब्दत्तिलुम् आर्थमाग आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् अनुसन्धेयमागक् कडवदॆऩ्ऱबडि।  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पॊदिन्दुगॊण्डिरुक्किऱ श्रीमच्छब्दत्तिलुम् नारायणशब्दत्तिलुम् आर्थमाग आनुकूल्यसङ्कल्पमुम् प्रातिकूल्यवर्जनमुम् अनुसन्धेय मागक्कडवदु।  
+</details>
+
+
+
+
+These words which show that the master has these features reveal by their appropriateness (the need for) the determination to perform what would please Him and the avoidance of what would cause displeasure.
 
 These five, namely (helpful recommendation from Śrī, the relationship of the Master to His servants, His attributes and qualities, His activity in redeeming and the satisfaction (prayojana) He receives have, respectively, the following specific properties: (1) inability to refuse, (2) impossibility of dissociating (Himself from His servants), (3) the unconditioned Nature of His grace, (4) the absence of the need for accessory help and (5) His feeling that the gain of those who are below Him is His own gain. If it is asked how the doubts (about salvation by prapatti) stated before are removed by these specific properties, the answer is as follows:- (1) Though He is omniscient and omnipotent, He can not ignore recommendations of certain kinds and will pardon all faults which stand in the way of His accessibility in the same way as a king will pardon the faults of servants of the zenaną (on the recommendation of the royal ladies). He will appear as if he is unaware of these faults and be easily accessible. (2) Though He rewards in accordance with one's karma, he will become gracious owing to the performance of prapatti, which is something like an apology for greater things, a vyāja or gesture, and grant even that fruit which is beyond all measure and which is one's natural right like an inheritance, on account of its being due to the relationship of master and servant. (3) Although He has all objects of desire and does not require any help or assistance, He looks upon the little action (prapatti) performed by one as if it were an act of supreme help to Him because of His supreme and unconditioned compassion; for He is like a generous emperor who is easily won over by even little tokens of homage. Thus he becomes grateful and acts
 
