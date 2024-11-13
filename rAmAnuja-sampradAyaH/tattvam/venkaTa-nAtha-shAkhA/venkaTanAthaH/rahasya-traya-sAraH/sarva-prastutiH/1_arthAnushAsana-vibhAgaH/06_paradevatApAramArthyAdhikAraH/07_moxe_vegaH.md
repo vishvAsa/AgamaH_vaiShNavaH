@@ -276,7 +276,7 @@ there will be no delay in the attainment of mokṣa , for He has declared +++(th
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-तन्त्र-प्रपत्ति-निष्ठनुक्कुत्  
-ताऩ् कोलिनद्+++(=वृतम्)+++ एय् अळवु,  
+ताऩ् कोलिनदे+++(=वृतम्)+++य् अळवु,  
 वेऱु विलम्बाविलम्बङ्गळुक्कुक् कुऱिय्+++(=गमकं)+++ इल्लै. 
 </details>
 
