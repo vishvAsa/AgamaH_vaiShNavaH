@@ -35,7 +35,7 @@ For men other than those who have this conviction about the Supreme Deity,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> "कण्णऩ्-कण्ण्+++(=रक्षक)+++-अल्लद् इल्लैय् ओर् कण्ण्+++(=रक्षक)+++ ए"(तिरुवाय्मॊऴि 2-2-1.) ऎऩ्ऱुम्,
+> "कण्णऩ्-कण्ण्+++(=रक्षक)+++-अल्लद् इल्लैय् ओर् कण्णे+++(=रक्षक)+++"(तिरुवाय्मॊऴि 2-2-1.) ऎऩ्ऱुम्,
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>

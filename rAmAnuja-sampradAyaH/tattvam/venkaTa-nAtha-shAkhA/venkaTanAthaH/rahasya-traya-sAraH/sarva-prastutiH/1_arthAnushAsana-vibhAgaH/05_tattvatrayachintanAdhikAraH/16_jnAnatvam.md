@@ -137,7 +137,7 @@ The subjectiveness or inwardness of souls or ātmās (pratyaktva) consists in th
 
 एद्-एनुम् ऒरु "वस्तुविऩ् प्रकाशत्तुक्कु फलिय्" ऎऩ्गिऱ सामान्याकारत्तैत्,
 "तऩ्-प्रकाशत्तुक्कुत् ताऩ् फलिय्" ऎऩ्ऱु विशेषित्त  
-वाऱ्+++(=रीतिय्)+++ ए प्रत्यक्त्वम् आम्.
+वाऱे+++(=रीतिय्)+++ प्रत्यक्त्वम् आम्.
 </details>
 
 <details><summary>English</summary>
