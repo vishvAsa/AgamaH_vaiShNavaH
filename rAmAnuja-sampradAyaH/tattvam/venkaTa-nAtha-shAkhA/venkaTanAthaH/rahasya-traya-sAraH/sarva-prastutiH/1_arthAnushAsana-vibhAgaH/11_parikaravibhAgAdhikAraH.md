@@ -4286,9 +4286,158 @@ Therefore the supplication (or prayer for protection ) is implicit in the words 
 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अहम् अस्म्य् अपराधानाम्  
+आलयो ऽकिञ्चनो ऽगतिः’’  
+(अहिर्बुध्न्य संहिता ३७-३०।) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘अहम् अस्म्य् अपराधानाम्  
+आलयो ऽकिञ्चनो ऽगतिः’’  
+(अहिर्बुध्न्य संहिता ३७-३०।) 
+</details>
 
 
-It has been said " I am the abode of transgressions; I am without any other means of protecting myself, I have nothing else to attain than Thee." "Be pleased to be my upāya. This thought of prayer is called śaraṇāgati. Let it be performed to the Lord.” Further " this word śaranam is employed to mean any one of the following : upāya, house and protector; here it means only upāya." The Lord of all, besides being the protector in the general sense, as stated in all śāstras should, in the case of the prapanna, be thought of steadfastly as being an upāya, since he has accepted the responsibility of protecting him and stands therefore in the place of other upāyas. Besides, the Lord should be thought of as an upāya in order that this adhikārī (namely, the prapanna) who has surrendered the responsibility for his protection to the Lord may remain steadfast without seeking other upāyas.
+<details><summary>English</summary>
+
+It has been said 
+
+> " I am the abode of transgressions;  
+> I am without any other means of protecting myself,  
+> I have nothing else to attain than Thee." 
+
+</details>
+
+<details><summary>Español</summary>
+
+It has been said 
+
+> " I am the abode of transgressions;  
+> I am without any other means of protecting myself,  
+> I have nothing else to attain than Thee." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अहमस्म्यपराधानामालयोऽकिञ्चनोऽगतिः’’ (अहिर्बुध्न्य संहिता ३७-३०।) 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ननु शरणशब्दम् रक्षकऩैक् काट्टुगैयिलुम् समर्थमागैयाल् इदिल् रक्षकत्वाद्ध्यवसायत्तै वाच्यमागच् चॊल्लि रक्षकत्वप्रार्थनारूपमाऩ अदावदु गोप्तृत्ववरणरूपमाऩ अदिऩ् कार्यत्तै आर्थिकमॆऩ्ऱु सॊल्लक्कूडादो? शरणशब्दोपश्लिष्टक्रियापदत्तुक्कु उपायत्वाद्ध्यवसायत्तै अदावदु निरपेक्षरक्षकत्वाद्ध्यवसायत्तै वाच्यमागक्कॊण्डु तत्कार्यमाऩ निरपेक्षरक्षकत्वप्रार्थनैयाल् रक्षकत्वप्रार्थनारूपगोप्तृत्ववरणत्तै आर्थिकमागच् चॊल्ल वेण्डुमोऎऩ्ऩ? अप्पडि सॊल्लुवदिल् वचनङ्गळैयुम् वचनसिद्धयुक्तिकळैयुम् काट्टुगिऱार् अहमस्मीत्यादिना । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘त्वमेवोपायभूतो मे  
+> भवेति प्रार्थना-मतिः ।  
+> शरणागतिर् इत्य् उक्ता  
+> सा देवे ऽस्मिन् प्रयुज्यताम्’’  
+> (अहिर्बुध्न्य संहिता ३७-३१।) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘त्वमेवोपायभूतो मे  
+> भवेति प्रार्थना-मतिः ।  
+> शरणागतिर् इत्य् उक्ता  
+> सा देवे ऽस्मिन् प्रयुज्यताम्’’  
+> (अहिर्बुध्न्य संहिता ३७-३१।) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> "Be pleased to be my upāya.  
+> This thought of prayer is called śaraṇāgati.  
+> Let it be performed to the Lord.” 
+</details>
+
+<details><summary>Español</summary>
+
+> "Be pleased to be my upāya.  
+> This thought of prayer is called śaraṇāgati.  
+> Let it be performed to the Lord.” 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘त्वमेवोपायभूतो मे भवेति प्रार्थनामतिः । शरणागतिरित्युक्ता सा देवेऽस्मिन् प्रयुज्यताम्’’ (अहिर्बुध्न्य संहिता ३७-३१।) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+त्वमेवोपायभूतो मे भवेति । इङ्गु एवकारत्ताल् उपायान्तरनैरपेक्ष्यम् सॊल्लप्पडुगिऱदु। उपायभूतः – इङ्गु उपायमाग वरिक्कप्पडुगिऱवऩ् चेतनऩागैयाले अवऩिडत्तिलिरुक्कुम् सामान्यमाऩ उपायत्वम् चेतनैकान्तमाऩ रक्षकत्वे पर्यवसिप्पदाल् रक्षको भवेत्यर्थः । इति प्रार्थनामतिः– उपायान्तरनिरपेक्षरक्षको भवेति प्रार्थनाबुद्धिः, शरणागतिरित्युक्ता – याच्नान्वितमभिवदन्ति प्रपदनमॆऩ्ऱु सॊल्लप्पोगिऱबडि शरणागतिशब्दशक्यतावच्छेदिका, सा – उपायान्तरनिरपेक्षरक्षकत्वप्रार्थना । देवेऽस्मिन् प्रयुज्यतां – भगवति निरपेक्षरक्षकत्वमिव्विद्यैक्कु वेद्याकारमागैयाले तत्प्रार्थनै भगवाऩिडत्तिल् अवश्यकर्तव्येत्यर्थः ।  
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उपाये गृह-रक्षित्रोश्  
+शब्दश् शरणम् इत्य् अयम् ।  
+वर्तते, सांप्रतं त्व् एष  
+उपायार्थैकवाचकः’’  
+(अहिर्बुध्न्य संहिता ३७-२९।) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘उपाये गृह-रक्षित्रोश्  
+शब्दश् शरणम् इत्य् अयम् ।  
+वर्तते, सांप्रतं त्व् एष  
+उपायार्थैकवाचकः’’  
+(अहिर्बुध्न्य संहिता ३७-२९।)
+</details>
+
+
+<details><summary>English</summary>
+
+Further 
+
+> "this word śaranam is employed to mean  
+> any one of the following :  
+> upāya, house and protector;  
+> here it means only upāya." 
+
+</details>
+
+<details><summary>Español</summary>
+
+Further 
+
+> "this word śaranam is employed to mean  
+> any one of the following :  
+> upāya, house and protector;  
+> here it means only upāya." 
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ‘‘उपाये गृहरक्षित्रोश्शब्दश्शरणमित्ययम् । वर्तते, सांप्रतं त्वेष उपायार्थैकवाचकः’’ (अहिर्बुध्न्य संहिता ३७-२९।) 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तथाच ‘‘अकिञ्चनोऽगतिः’’ ऎऩ्ऱु उपायान्तरशून्यत्वत्तै मुदलिले सॊल्लि अवऩ् भगवाऩैये उपायमाग प्रार्थिक्क वेण्डुमॆऩ्ऱुम्, अन्द प्रार्थऩै अवश्यकर्तव्यै यॆऩ्ऱुम् सॊल्लियिरुप्पदाल् शरणशब्दोपश्लिष्ट पदॢ धातुविल् उपायत्वाद्ध्यवसायमे अदावदु निरपेक्षरक्षकत्वाद्ध्यवसायमे वाच्यमाग अवश्यमङ्गीकर्तव्यमागैयालदऩाल् तत्कार्यमाऩ उपायत्वप्रार्थऩै अर्थसिद्धमाम् पोदु रक्षकत्वप्रार्थनारूपगोप्तृत्ववरणमुम् आर्थिकमॆऩ्ऱु सॊल्लवेण्डुमेयॊऴिय शरणशब्दम् रक्षितावैयुम् बोधिक्कुमागैयाल् शरणशब्दोपश्लिष्ट पदॢ धातुवुक्कु रक्षकत्वाद्ध्यवसायम् वाच्यमॆऩ्ऱुगॊण्डु अदिल् रक्षकत्वप्रार्थनारूपगोप्तृत्ववरणम् आर्थिकमॆऩ्ऱु सॊल्वदु वचनविरुद्धमॆऩ्ऱु ज्ञापितमागिऱदु। ‘‘उपाये गृहरक्षित्रोः … उपायार्थैकवाचकः’’ ऎऩ्बदुम् अहिर्बुध्न्यवचनम्। इदिलुम् शरणमॆऩ्गिऱ शब्दम् उपायत्तैयुम्, गृहत्तैयुम्, रक्षितावैयुम् सॊल्लुगिऱदु। आऩालुम्, साम्प्रतं – उपायान्तररहितऩुक्कु कर्तव्यमागच् चॊऩ्ऩ प्रपत्तिप्रकरणत्तिल्, एषः – अनुष्ठेयार्थप्रकाशककरणमन्त्रघटकमाऩ इन्द शरणशब्दम्, उपायार्थैकवाचकः – गृहरक्षितृव्युदासेन उपायमॆऩ्गिऱ अर्थमॊऩ्ऱैये सॊल्लुगिऱदु।  
+कीऴ् उदाहरित्त वचनप्पडि उपायान्तरशून्यऩाऩ ऎऩक्कु नीये उपायमाग वेण्डुमॆऩ्ऱु अदावदु उपायान्तरनिरपेक्षरक्षकऩागवेण्डुमॆऩ्ऱु प्रार्थऩैये विहितमागैयाल् शरणशब्दस्य गृहरक्षित्रादिवाचकत्वे अदु सिद्धिक्कादागैयाल् शरणशब्दत्तुक्कु उपायार्थैकवाचकत्वम् नियमिक्कप्पडुगिऱदु।  
+उपायत्वमुम् रक्षितृत्वमुम् अनतिभिन्नमॆऩ्ऱु सॊल्लुगिऱवर् पक्षत्तिल् इन्द नियमत्ताल् विलक्षणमाऩ ऒरु फलसिद्धियुम् सॊल्लमुडियादिऱे।
+</details>
+
+
+
+
+The Lord of all, besides being the protector in the general sense, as stated in all śāstras should, in the case of the prapanna, be thought of steadfastly as being an upāya, since he has accepted the responsibility of protecting him and stands therefore in the place of other upāyas. Besides, the Lord should be thought of as an upāya in order that this adhikārī (namely, the prapanna) who has surrendered the responsibility for his protection to the Lord may remain steadfast without seeking other upāyas.
 
 The word upāya stands for "the means to secure an end" and this means may be either sentient or non-sentient. It has been said:-"Among the aṅgas to prapatti are the faith that He will protect and the supplication or prayer for protection " " The Lord who controls everything, though He is omniscient and always compassionate expects a prayer for protection, since He has to look after the process of saṁsāra". Since the upāya or means in this case is a sentient being (namely, the Lord), and the prayer for protection (or goptṛtva varaṇam) which is applicable only to sentient beings is necessary here, the word saranam in Dvaya, which means upāya, implies also the prayer for protection. Since the word saranam cannot have two meanings when it is used only once, (we should understand that) in the Dvaya, the steadfast thought of the Lord being an upāya which is peculiar to the adhikārī called prapanna is brought out by the word saranam itself and that the prayer for protection which is common to all adhikārīs is understood by implication from the meaning.
 
