@@ -4211,9 +4211,84 @@ the root pad in prapadye occurring with the word śaranam and in the first perso
 इप्पडिप्पट्ट महाविश्वासमुम् कार्पण्यमुम् द्वयत्तिल् अनुसन्धिक्कुमिडत्तैयरुळिच् चॆय्गिऱार् इप्पडियित्यादिना । विश्वासमहत्वम् प्र ऎऩ्गिऱ उपसर्गत्तिलुम्, रक्षकत्वाध्यवसायरूपमाऩ विश्वासस्वरूपम् शरणशब्दोपश्लिष्टमाऩ पदॢ धातुविलुम्, कार्पण्यम् उत्तमऩिलुम् अनुसन्धेयमॆऩ्ऱबडि। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् उत्तमऩिल् विवक्षितत्तै  
+‘‘अनन्य-शरणः’’ (शरणागति-गद्यम्) ऎऩ्ऱु गद्यत्तिले व्याख्यानम् पण्णिऩार्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्रोत्तमे विवक्षितम् अर्थम्  
+"अनन्यशरणः " इति गद्ये व्याचचक्षे । 
+</details>
+
+<details><summary>English</summary>
+
+In Saranāgati Gadya, Śrī Rāmānuja explains the implication contained in the first person singular (prapadye) as meaning "I  have no other refuge". 
+</details>
+
+<details><summary>Español</summary>
+
+In Saranāgati Gadya, Śrī Rāmānuja explains the implication contained in the first person singular (prapadye) as meaning "I  have no other refuge". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिलुत्तमऩिल् विवक्षितत्तै ‘‘अनन्यशरणः’’ (शरणागति-गद्यम्।) ऎऩ्ऱु गद्यत्तिले व्याख्यानम् पण्णिऩार्।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कर्तृवाचकमाऩ उत्तमऩिल् कार्पण्यम् कथं अनुसन्धेयमॆऩ्ऩवरुळिच्चॆय्गिऱार् इदिल् उत्तमऩिल् विवक्षितत्तै इति । उत्तमऩुक्कु कर्ता वाच्यऩाऩालुम् शरणवरणम् पण्णुगिऱ इक्कर्ता अकिञ्चनऩागैयाले अवऩ् ‘‘अकिञ्चनऩाऩ नाऩ् शरणमाग वरिक्किऩ्ऱेऩ्' ऎऩ्ऱनुसन्धिक्कुम्बोदु आकिञ्चन्यानुसन्धानरूपकार्पण्यम् अनुसंहितमागुमागैयाल् तात्पर्यवृत्त्या विवक्षितमागैयाले अनुसन्धेयमॆऩ्ऱु करुत्तु। इदु इङ्गु विवक्षित मॆऩ्बदिल् सम्प्रदायत्तैक् काट्टुगिऱार् अनन्यशरणः इत्यादिना । अनन्यशरणः – अनन्योपायः, उपायान्तरशून्य इत्यर्थः । 
+</details>
 
 
-In Sarasāgati Gadya, Śrī Rāmānuja explains the implication contained in the first person singular (prapadye) as meaning "I  have no other refuge". In Dvaya the words Saranam prapadye express supreme faith in the Lord's protection. Therefore the supplication (or prayer for protection ) is implicit in the words which express supreme faith in the upāya (though not actually stated in so many words ). It has been said " I am the abode of transgressions; I am without any other means of protecting myself, I have nothing else to attain than Thee." "Be pleased to be my upāya. This thought of prayer is called śaraṇāgati. Let it be performed to the Lord.” Further " this word śaranam is employed to mean any one of the following : upāya, house and protector; here it means only upāya." The Lord of all, besides being the protector in the general sense, as stated in all śāstras should, in the case of the prapanna, be thought of steadfastly as being an upāya, since he has accepted the responsibility of protecting him and stands therefore in the place of other upāyas. Besides, the Lord should be thought of as an upāya in order that this adhikārī (namely, the prapanna) who has surrendered the responsibility for his protection to the Lord may remain steadfast without seeking other upāyas.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-इडत्तिल् +++("शरणं प्रपद्ये"→)+++ उपायत्वाध्यवसाय-वाचक-शब्दत्तिले  
+गोप्तृत्व-वरणम् अन्तर् नीतम्।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्रोपायाध्यवसाय-वाचक-शब्दे +++(←"शरणं प्रपद्ये")+++ गोप्तृत्ववरणम् अन्तर्नीतम् । 
+</details>
+
+<details><summary>English</summary>
+
+In Dvaya the words Saranam prapadye express supreme faith in the Lord's protection.  
+Therefore the supplication (or prayer for protection ) is implicit in the words which express supreme faith in the upāya (though not actually stated in so many words ).  
+</details>
+
+<details><summary>Español</summary>
+
+In Dvaya the words Saranam prapadye express supreme faith in the Lord's protection.  
+Therefore the supplication (or prayer for protection ) is implicit in the words which express supreme faith in the upāya (though not actually stated in so many words ).  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिलुपायत्वाध्यवसायवाचकशब्दत्तिले गोप्तृत्ववरणमन्तर्नीतम्। 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+गोप्तृत्ववरणानुसन्धानत्तिऱ्कु स्थलमरुळिच्चॆय्गिऱार् इव्विडत्तिल् उपायत्वाध्यवसायवाचकशब्दत्तिले इति । निरपेक्षरक्षकत्वाध्यवसायवाचक ‘‘शरणं प्रपद्ये’’ ऎऩ्गिऱ शब्दत्तिलेयॆऩ्ऱबडि। गोप्तृत्ववरणम् - रक्षकत्वप्रार्थऩै। अन्तर्नीतम् - आर्थिकमाग अनुसन्धेय मॆऩ्ऱबडि। निरपेक्षरक्षकत्वाध्यवसायत्तिल् रक्षकत्वाध्यवसायम् घटकमागैयाले निरपेक्षरक्षकत्वाध्यवसायकार्यमाऩ निरपेक्षरक्षकत्वप्रार्थऩै सिद्धिक्कुमिडत्तिल् रक्षकत्व प्रार्थनात्मक गोप्तृत्ववरणमुम् अर्थात्सिद्धिक्कुमॆऩ्ऱु करुत्तु।  
+यत्तु अत्र उपायत्वाध्यवसायवाचकशब्दत्तिले गोप्तृत्ववरणम् अन्तर्नीतमॆऩ्बदऱ्कु 
+
+> ‘उपायेति । अध्यवसायो महाविश्वासः । उऩ्ऩै उबायमाग अध्यवसिक्किऱेऩ् ऎऩ्गिऱ महाविश्वासम् नी ऎऩक्कु अभिमतफलत्तैत् तरवेण्डुमॆऩ्गिऱ गोप्तृत्ववरणत्तिऱ्कु अव्यवहितकारणमागैयाले तद्वाचकशब्दत्तिल् इदु अवश्यम् सिद्धिक्कुमॆऩ्ऱु करुत्तु। इव्वर्थम् तोऱ्ऱु कैक्कागवे इङ्गु शरणशब्दोपश्लिष्टक्रियापदत्तिले ऎऩ्ऱु प्रयोगिक्कादे इप्पडि प्रयोगित्तदु, इङ्गु अन्तर्नीतमॆऩ्ऱदु अर्थसिद्धमॆऩ्ऩबडि। अर्थत्तुक्कु शब्दत्तोडु अनतिभिन्नत्वमिल्लामैयाल् उपायवरणान्तर्नीतमॆऩ्ऱु मुऩ्बु सॊऩ्ऩविडत्तिल् पोल् इङ्गु अर्थम् कॊळ्ळक्कूडादिऱे' 
+
+ऎऩ्ऱु व्याख्यानम्। तत्पक्षे महाविश्वासवाचकशब्दत्तिले अल्लदु रक्षकत्वाध्यवसायवाचकशब्दत्तिले गोप्तृत्ववरणमन्तर्नीतमॆऩ्ऱु स्पष्टमागच् चॊल्लि यिरुक्कवेण्डुमिऱे। 
+
+महाविश्वासमावदु:- रक्षिष्यतीति विश्वासः । अदावदु रक्षकत्वाध्यवसायम्। इन्द विश्वासमिरुन्दालुम् अव्यवहितोत्तरम् रक्षको भव ऎऩ्गिऱ गोप्तृत्ववरणमार्थिकमाग सिद्धिक्कुमिऱे। अप्पडिच् चॊल्लामल् उपायत्वाध्यवसायवाचकशब्दत्तिले अदावदु निरपेक्षरक्षकत्वाध्यवसायवाचकशब्दत्तिले ऎऩ्ऱु निर्देशित्तदु कूडादिऱे। रक्षिष्यतीति विश्वासमे महाविश्वासस्वरूपमेयॊऴिय उपायान्तरनिरपेक्षरक्षकत्वाध्यवसायम् महाविश्वासस्वरूपमऩ्ऱिऱे। पूर्वं विभीषणशरणागतिप्रकरणत्तिलुम् ‘‘विभीषणो महाप्राज्ञः’’ ऎऩ्गिऱ विश्वासवाचकशब्दत्तिले गोप्तृत्ववरणमन्तर्नीतमॆऩ्ऱु सॊल्लामल् ‘‘राघवं शरणं गतः’’ ऎऩ्गैयाले उपायवरणान्तर्नीतमाऩ गोप्तृत्ववरणञ् जॊल्लित्तायिऱ्ऱु ऎऩ्ऱु शरणशब्दोपश्लिष्ट गमॢ धातुवालेये उपायवरणम् अदावदु निरपेक्षरक्षकत्वप्रार्थऩै सॊल्लप्पट्टदॆऩ्ऱुम् अदिऩालेये तदन्तर्गतरक्षकत्वप्रार्थनारूपगोप्तृत्ववरणम् सॊल्लित्तायिऱ्ऱु ऎऩ्ऱुम् सॊल्लप्पट्टदु। आगैयालिव्विडत्तिल् उपायत्वाध्यवसायवाचकशब्दत्तिल् ऎऩ्ऱदाल् निरपेक्षरक्षकत्वाध्यवसायरूपोपायत्वाध्यवसायमे सॊल्लप्पट्टदॆऩ्ऱु कॊळ्ळवेणुम्। इव्वध्यवसाय मुण्डाऩाल् निरपेक्षरक्षकत्वप्रार्थऩैयुमदिलन्तर्गतमाऩ रक्षकत्व प्रार्थनारूपगोप्तृत्ववरणमुम् आर्थिकमाग सिद्धिक्कुमिऱे। उपायत्वाध्यवसायमुम् महाविश्वासमुम् ऒऩ्ऱॆऩ्ऱु सॊल्लुगिऱवर् पक्षत्तिल् इन्द महाविश्वासम् शरणशब्दोपश्लिष्टमाऩ धातुविले अनुसन्धेयमाग मुऩ्बे सॊल्लियिरुक्क, मेल् अहमस्मीत्यादियाले प्रमाणोपपत्तिकळैक् काट्टि ‘‘उपायत्वाध्यवसायमिव्विडत्तिले विवक्षितमायिऱ्ऱु' ऎऩ्ऱु पुनरपि महाविश्वासानुसन्धानस्थलत्तैक् काट्टवेण्डामिऱे। निक्षेपरक्षायां ‘‘तदेवं गोप्तर्येव भगवति प्रपित्सोरुपायान्तरनिवृत्तिमभिसन्धायोपायत्ववाचो युक्तिः । तेन निरपेक्षरक्षकत्वमनुसंहितं भवति’’ ऎऩ्ऱु अरुळिच्चॆय्गैयाल् निरेपक्षरक्षकत्वमे उपायत्वमॆऩ्ऱु सिद्धिक्कैयाल् अन्द उपायत्वाध्यवसायमुम्, केवलरक्षकत्वाध्यवसायरूपमहाविश्वासमुमॊऩ्ऱागादिऱे। मेल् सॊल्लुम् ‘‘त्वमेवोपायभूतो मे भवेति प्रार्थनामतिः’’ ऎऩ्गिऱ उपायप्रार्थऩैक्कु हेतुभूतमाऩ उपायत्वाद्ध्यवसायम् निरपेक्षरक्षकत्वाद्ध्यवसायमे यॊऴिय महाविश्वासमागादु। उपायत्वमुम् गोप्तृत्वमुम् अनतिभिन्नमॆऩ्ऱु सॊल्लुम् अन्द पक्षत्तिल् ‘‘उपाये गृहरक्षित्रोश्शब्दश्शरणमित्ययम् । वर्तते साम्प्रतं त्वेष उपायार्थैकवाचकः’’ ऎऩ्ऱु नियमम् सॊऩ्ऩदुम् कूडादिऱे। रक्षितृत्वत्तुक्कुम् उपायत्वत्तुक्कुम् यत्किञ्चिद्भेदमुमिल्लै यॆऩ्ऱु सॊल्लुमप्पक्षत्तिल् रक्षितृत्वव्युदासेन ‘‘साम्प्रतं त्वेष उपायार्थैकवाचकः’’ ऎऩ्ऱु शरणशब्दत्तुक्कु उपायमात्रवाचकत्वम् सॊऩ्ऩदु निष्फलमामिऱे। किञ्च महाविश्वासमुम् गोप्तृत्ववरणमुम् शाब्दमागवुम् आर्थमागवुम् इङ्गु अनुसन्धेयमाग विवक्षितमॆऩ्ऩिल्, इन्द प्रपत्तिक्कु असाधारणवेद्याकारमाऩ निरपेक्षरक्षकत्वानुसन्धानत्तुक्कु इम् मन्त्रत्तिल् स्थलान्तरमिल्लामैयाल् प्रपत्तिये अपूर्णमाग प्रसङ्गिक्कुम्। आगैयाल् उपायत्वाध्यवसायवाचकशब्दत्तिल् ऎऩ्बदऱ्कु निरपेक्षरक्षकत्वाद्ध्यवसायवाचकशब्दत्तिल् ऎऩ्ऱे अर्थम् कॊळ्ळ वेणुम्। इत्यलमधिकेन ।   
+
+</details>
+
+
+
+It has been said " I am the abode of transgressions; I am without any other means of protecting myself, I have nothing else to attain than Thee." "Be pleased to be my upāya. This thought of prayer is called śaraṇāgati. Let it be performed to the Lord.” Further " this word śaranam is employed to mean any one of the following : upāya, house and protector; here it means only upāya." The Lord of all, besides being the protector in the general sense, as stated in all śāstras should, in the case of the prapanna, be thought of steadfastly as being an upāya, since he has accepted the responsibility of protecting him and stands therefore in the place of other upāyas. Besides, the Lord should be thought of as an upāya in order that this adhikārī (namely, the prapanna) who has surrendered the responsibility for his protection to the Lord may remain steadfast without seeking other upāyas.
 
 The word upāya stands for "the means to secure an end" and this means may be either sentient or non-sentient. It has been said:-"Among the aṅgas to prapatti are the faith that He will protect and the supplication or prayer for protection " " The Lord who controls everything, though He is omniscient and always compassionate expects a prayer for protection, since He has to look after the process of saṁsāra". Since the upāya or means in this case is a sentient being (namely, the Lord), and the prayer for protection (or goptṛtva varaṇam) which is applicable only to sentient beings is necessary here, the word saranam in Dvaya, which means upāya, implies also the prayer for protection. Since the word saranam cannot have two meanings when it is used only once, (we should understand that) in the Dvaya, the steadfast thought of the Lord being an upāya which is peculiar to the adhikārī called prapanna is brought out by the word saranam itself and that the prayer for protection which is common to all adhikārīs is understood by implication from the meaning.
 
