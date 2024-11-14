@@ -8,13 +8,25 @@ title = "Olivelle intro"
 
 This critical edition of Yādava Prakāśa’s *Yatidharmasamuccaya* is based on sixteen manuscripts and two printed versions. They are described here according to the sigla ascribed to them in the critical apparatus.
 
-**Description of the Manuscripts **
+## Description of the Manuscripts
 
 **A1**	Adyar Library and Research Center, Madras. Ms. no. 73570. *A Catalogue of the Sanskrit Manuscripts in the Adyar Library* (Madras, 1926), part I, p. 115. Palm leaf. Grantha script. 54 folios. Approximately 30.5 x 3.5 cms (lengths vary; folio 8 is 22.5 x 3.5 cms). Between 11 and 9 lines per page. Approximately 57 *akṣara*s per line. Complete. No date. A photocopy was used. Somewhat carelessly written with frequent corrections. Folios 47-48 are partly written in a different hand. A reader appears to have gone through the entire ms and made numerous marginal corrections. This was the original of Schrader’s copy (Schr. 45) described below. 
 
 **A2**	Adyar Library and Research Center, Madras. Ms. no. 73486. *A Catalogue of the Sanskrit Manuscripts in the Adyar Library* (Madras, 1926), part I, p. 115. Palm leaf. Grantha script. 47 folios. Approximately 39 x 4 cms Between 10 and 11 lines per page. Between 55 and 71 *akṣara*s per line. Complete. The date in the colophon is given according to the Jupiter cycle, and without additional data it cannot to be translated into a unique date of the common era. Excellent condition. A photocopy was used. Two additional folios written in a different hand and containing astrological material are inserted at the end of the ms. Carefully written with few corrections. This was the original of the variants recorded in Schrader’s copy (Schr. 45). Colophon:
 
-> श्रीनारायणगुरवे नमः । श्रीमते रामानुजाय नमः । श्रियै नमः । श्रीमते नारायणाय नमः । श्रीगोदायै नमः । करकृतमपराधं क्षन्तुमर्हन्ति सन्तः । हेविलम्बि शरत्पुष्यमासि प्रथमातिथौ । मयेदं लिखितं सम्यग्यतिधर्मसमुच्चयम् । यदक्षरपदभ्रष्टं यत्पादप्रच्युतं यदा । तत्सर्वं क्षम्यतां यूयं कृपापूरवशंवदाः ॥
+> श्रीनारायणगुरवे नमः ।  
+> श्रीमते रामानुजाय नमः ।  
+> श्रियै नमः ।  
+> श्रीमते नारायणाय नमः ।  
+> श्रीगोदायै नमः ।  
+> करकृतम् अपराधं क्षन्तुमर्हन्ति सन्तः।  
+> हेविलम्बि शरत्-पुष्य-मासि प्रथमा-तिथौ ।  
+> मयेदं लिखितं सम्यग्  
+> यतिधर्मसमुच्चयम् ।  
+> यद् अक्षर-पद-भ्रष्टं  
+> यत्-पाद-प्रच्युतं यदा ।  
+> तत् सर्वं क्षम्यतां यूयं  
+> कृपा-पूर-वशं-वदाः ॥
 
 **A3**	Adyar Library and Research Center, Madras. Ms. no. 71573. *A Catalogue of the Sanskrit Manuscripts in the Adyar Library* (Madras, 1926), part I, p. 115. Palm leaf. Grantha script. 91 folios (many are in bits and pieces). 38 x 3 cms (difficult to measure because most edges are broken). Between 7 and 8 lines per page. The *akṣara*s per line cannot be accurately estimated because ends of folios are damaged. No date. Incomplete. A photocopy was used. Extremely poor condition. A significant section of almost every page cannot be read because of broken sections of palmleaf, and after Ch. 7 the ms becomes almost unreadable. The ms begins with Ch. 2. After the conclusion of Ch. 7 the ms inserts a large amount of extraneous material. This addition begins with the passage from Parāśara (Ch. 5.11). Most of this material, however, cannot be identified due to the poor condition of the ms A3 thus could be used only for Chapters 2–7 of the edition.
 
@@ -36,7 +48,7 @@ This critical edition of Yādava Prakāśa’s *Yatidharmasamuccaya* is based on
 
 **G5**	 Government Oriental Manuscripts Library, Madras. Ms. no. D 2954. *A Descriptive Catalogue of the Sanskrit Manuscripts in the Government Oriental Manuscripts Library*, Madras. Ed. by M. Raṅgācārya. Vol. V—Dharma-śāstra (Madras, 1909), p. 2190. Palm leaf. Grantha script. 38 x 4 cms 7 lines on a page. 45 *akṣara*s per line. Contains only Chapter 11, which begins on p. 9 of the ms. The first eight pages contain a text on penances, beginning अथ संन्यासिनां प्रतिग्रहप्रायश्चित्तमाह. After Ch. 11, the ms contains a text on the procedure of renunciation that begins अथ संन्यासविधिरुच्यते.
 
-**G6	**Government Oriental Manuscripts Library, Madras. Ms. no. D 2950. *A Descriptive Catalogue of the Sanskrit Manuscripts in the Government Oriental Manuscripts Library*, Madras. Ed. by M. Raṅgācārya. Vol. V—Dharma-śāstra (Madras, 1909), pp. 2188-89. Palm leaf. Kanarese script. 49 x 3.5 cms 8 lines on a page. 45–50 *akṣara*s per line. First two pages are lost. The ms begins at Ch. 1.14(21).
+**G6**	Government Oriental Manuscripts Library, Madras. Ms. no. D 2950. *A Descriptive Catalogue of the Sanskrit Manuscripts in the Government Oriental Manuscripts Library*, Madras. Ed. by M. Raṅgācārya. Vol. V—Dharma-śāstra (Madras, 1909), pp. 2188-89. Palm leaf. Kanarese script. 49 x 3.5 cms 8 lines on a page. 45–50 *akṣara*s per line. First two pages are lost. The ms begins at Ch. 1.14(21).
 
 **R1**	University of Mysore Oriental Research Institute. Ms. no. P 2776. *Descriptive Catalogue of Sanskrit Manuscripts*. Ed. Dr. G. Marulasiddaiah (Mysore, 1979), vol. 3, ser. no. 8959. Palm leaf. Grantha script. 45 x 3.5 cms 61 folios. Between 5 and 9 lines on a page. 62 *akṣara*s on a line. Complete. Written in at least two different hands. Colophon:
 
@@ -52,7 +64,7 @@ This critical edition of Yādava Prakāśa’s *Yatidharmasamuccaya* is based on
 
 **M**	Printed version in Grantha characters edited by Mādapūsi Ramanujacāryāṃ and published in Madras in 1905 (139 pages). The editor states that he used sixteen mss in preparing his edition. These mss are not properly identified, and their variants are recorded only in Ch. 1. From Ch. 2 on the editor records few variants, listing them merely as *pāṭhāntara*. I have listed all variants recorded in this edition with the siglum M+. This is clearly not a critical edition, and a careful comparison of its readings with those of my mss shows that the editor has created a hybrid version. This edition is also rare; I used a microfilm of the copy in the British Library.
 
-**Other Manuscripts**
+## Other Manuscripts
 
 Four mss in the Government Oriental Manuscripts Library, Madras (Ms. nos. D 2949; D 2952; D 2953; R 4957) and one ms in the University of Mysore Oriental Research Institute (Ms. no. P 2080) were too damaged and brittle to be copied or collated.
 
@@ -60,7 +72,7 @@ O. F. Schrader had several mss of the Ysam copied during his residence at the Ad
 
 > **3**.65(1, a-d), 62(2), 63, 64, 73; जन्तुनिवारणं जलपवित्रं कार्पासतन्तुवस्त्रमित्यर्थः (cf. variant in A6 at 3.73n), अष्टाङ्गयोगक्रमलक्षणानि वक्ष्यन्ते (cf. 5.47); **5.**51, 52, 53(a-d), 54, 55, 60, 82-91, 106-12; **6.**35, हारीतः, **6.**47, 243, 257, 259, 304; **7.**106, 138-39, अयने विषुवे चैव ग्रसने चन्द्रसूर्ययोः । उपवासमकुर्वाणः यतिश्चान्द्रायणं चरेत् ॥ विष्णुः **7.**22, शातातपः **6.**243, 249, 250(1), देवलः **7.**110, 111(a-b), 73, गर्गः **7.**130-36; सनत्कुमारसंहितै [sic] । प्रपत्तेः किंचिदप्येवं परापेक्षा न विद्यते । सा हि सर्वत्र सर्वेषां सर्वकामफलप्रदा । श्रुतिः । पूर्णस्य पूर्णमादाय पूर्णमेवावतिष्ठते । सर्वं पूर्णं सहों वासुदेवोऽसि पूर्णः । **7.**140; ताम्बूले भर्तृहीनायाः . . . संभूय सुरासमम् [cf. App. 1.8]; **7.**141; इति यतिधर्मसमुच्चये जमदग्निः ।
 
-**Genealogical Relation of the Manuscripts**
+## Genealogical Relation of the Manuscripts
 
 The following *stemma codicum*, in which Z* stands for the hypothetical original of the Ysam, presents the genealogy of the mss used to constitute the text:
 
@@ -71,19 +83,19 @@ The following *stemma codicum*, in which Z* stands for the hypothetical original
 
 This recension contains the long version of the Ysam. Although the mss belonging to X* differ among themselves, their common readings stand in sharp contrast to those of the mss of Y*. I have identified two subrecensions of X*. The mss of X2* have numerous unique readings that differ substantially from those of X1*. Among the mss of X2*, G6, R2, and R3 appear to form a group with many unique readings, while R4 often has readings in common with mss of X1*. The subrecension X2* is also notable for several attempts to shorten the text, as at 2.48, 49; 3.65; and 5.136, 155. It shares this propensity with Y*, and in several places Y* and X2* show identical omissions, e.g., 5.117-19, 130-35, 137-43, 149-50. Among the mss of subrecension X1*, A1, A2, and R1 have many common readings and appear to be derived from a common ancestor. These three mss also share many common readings with Y* (e.g., 5.105; 6.54 and App. 1.4; 6.61; 7.129, 139), and it appears that the editor who made the short version used a ms derived from the same ancestor.
 
-**Recension Y***
+**Recension Y\***
 
 This recension contains the short version of the Ysam. In contrast to the mss of X*, those belonging to Y* show a remarkable uniformity in their readings. I believe that all can be traced to a common source, which, as I will argue below, is the abbreviated version of the Ysam deliberately produced by an editor.
 
-**Composite Manuscripts**
+## Composite Manuscripts
 
 Two mss, A3 and A6, are hybrid versions of the two recensions. After Ch. 7, as we have seen, A3 appends a variety of other material from diverse sources regarding *yatidharma*. The scribe or editor of A3 appears to have used a variety of manuscript material, including some belonging to the two recensions. In the early sections, A3 follows recension X1*, but at 6.139 it switches to Y* until the end of Ch. 7. A similar switch between the two recensions is found also in A6, which follows X1* from the beginning until 8.30, Y* from 8.31 to 10.127, and again X1* from 10.128 until the end. Because the switching between recensions occurs quite suddenly in the middle of chapters, the presumption must be that these mss do not represent deliberate attempts to create hybrid versions. This is certainly true of A6. In all likelihood, some folios were missing in the exemplars used by the scribe, who then used other mss belonging to the short recension to supply the missing sections. The case is less clear with regard to A3, which frequently follows the readings of Y* even in those sections where it agrees overall with X1* (e.g., 2.15–17). It is possible that the scribe/editor of A3 used a ms of Y* to make a hybrid version of the entire text. 
 
-**Constitution of the Text**
+## Constitution of the Text
 
 The manuscript genealogy I have constructed is tentative at best and on its own does not provide an adequate basis for constituting the text. Most mss of the Ysam are in extremely poor condition, and it is very difficult to obtain a clear picture of the ms tradition from the available evidence. The constituted text presented here is the best that can be done without the discovery of new and significant mss.
 
-The major issue to be resolved in constituting as far as possible the original text written by Yādava Prakāśa is the priority of the two recensions.[^1] Numerous Indian texts, such as the *Mahābhārata *and the *Manusmr̥ti*, profess to be abridgments of earlier and longer versions. It is, nevertheless, a common scholarly assumption based on good evidence that most Indian texts, especially the Epics, Purāṇas, and Dharmaśāstras, were subjected to alteration principally by addition and accretion.[^2] The assumption, therefore, is that longer versions are relatively more recent than shorter ones. The Ysam, however, proves to be an exception. The long recension, X*, in my estimate, is closer to the original than the short recension Y*, even though the priority of X* cannot be proved conclusively. The arguments I present taken together, however, suggest strongly that Y* is a later abridgment of the Ysam.
+The major issue to be resolved in constituting as far as possible the original text written by Yādava Prakāśa is the priority of the two recensions.[^1] Numerous Indian texts, such as the *Mahābhārata* and the *Manusmr̥ti*, profess to be abridgments of earlier and longer versions. It is, nevertheless, a common scholarly assumption based on good evidence that most Indian texts, especially the Epics, Purāṇas, and Dharmaśāstras, were subjected to alteration principally by addition and accretion.[^2]+++(5)+++ The assumption, therefore, is that longer versions are relatively more recent than shorter ones. The Ysam, however, proves to be an exception. The long recension, X*, in my estimate, is closer to the original than the short recension Y*, even though the priority of X* cannot be proved conclusively. The arguments I present taken together, however, suggest strongly that Y* is a later abridgment of the Ysam.
 
 First, when the general principles of textual criticism, such as lectio difficilior and internal coherence, are applied, X* (especially X1*) most frequently presents the superior readings. An examination of 5.26, where Yādava explains the obscure half-verse 5.23c-d, shows how Y* and X2* have failed to understand the Sanskrit and attempted to emend the text. Likewise, the inability to perceive the reference to a later section (6.5) makes Y* delete the statement at 5.69.
 
@@ -105,18 +117,19 @@ There are times, however, when one has to follow one’s instinct. After working
 
 The two printed versions were of little use in constituting the text. They follow X2* sometimes, the ms tradition of A1, A2, R1 at other times, and sometimes even Y*, as in Ch. 11. Further, they introduce new readings without any foundation in the available mss.
 
-**The Critical Apparatus**
+## The Critical Apparatus
 
-The critical apparatus lists all the significant variant readings, except obvious scribal errors. Longer variants that could not be conveniently listed at the foot of a page are placed in Appendix 1. Most Indian scribes, but especially those writing in Grantha and Telugu scripts, are altogether inconsistent in their notation of *anusvāra*s, *visarga*s (especially before conjunct consonants), and *avagraha*s; neither are they consistent in the use of sandhi*.* These variants are not noted in the critical apparatus. I have attempted to establish some consistency in these areas, except when the absence of sandhi is obviously used as punctuation. The spelling of the term *pārivrājya* is totally inconsistent, even within the same ms: *parivrājya, pārivrajya, parivrajya*. I have consistently used the standard *pārivrājya*.
+The critical apparatus lists all the significant variant readings, except obvious scribal errors. Longer variants that could not be conveniently listed at the foot of a page are placed in Appendix 1. Most Indian scribes, but especially those writing in Grantha and Telugu scripts, are altogether inconsistent in their notation of *anusvāra*s, *visarga*s (especially before conjunct consonants), and *avagraha*s; neither are they consistent in the use of _sandhi_. These variants are not noted in the critical apparatus. 
+
+I have attempted to establish some consistency in these areas, except when the absence of sandhi is obviously used as punctuation.+++(5)+++ The spelling of the term *pārivrājya* is totally inconsistent, even within the same ms: *parivrājya, pārivrajya, parivrajya*. I have consistently used the standard *pārivrājya*.
 
 Due to the exigencies of preparing camera-ready copy on a computer, I have been forced to place the entire critical apparatus for a verse or a prose passage at the bottom of the page on which the verse number appears. Thus, the variant readings of sections of some passages may be listed at the bottom of the following page when those passages span two pages.
 
-**Grammatical Peculiarities**
+## Grammatical Peculiarities
 
-We must, of course, assume that Yādava knew his Sanskrit. On the whole, correct grammar may be a reason to prefer a particular reading, yet there are times in this genre of literature, especially in verses quoted from sundry sources, when the established rules of Pāṇinian grammar are violated. I have not attempted to correct any of them; for example, accusative *mātrāṃ* when we would have expected the nominative (3.22) or *spr̥ṣṭvā* with instrumental (8.43). The most common such “error" is found in the gerund, where the -*ya* ending is used with uncompounded verbs: *gr̥hya* (8.44, 45; 9.34); *sthāpya* (10.31). There are several occasions when “double sandhi" is used in verses for metrical reasons (e.g., 6.156, 266).
+We must, of course, assume that Yādava knew his Sanskrit. On the whole, correct grammar may be a reason to prefer a particular reading, yet there are times in this genre of literature, especially in verses quoted from sundry sources, when the established rules of Pāṇinian grammar are violated. I have not attempted to correct any of them; for example, accusative *mātrāṃ* when we would have expected the nominative (3.22) or *spr̥ṣṭvā* with instrumental (8.43). The most common such “error" is found in the gerund, where the -*ya* ending is used with uncompounded verbs: *gr̥hya* (8.44, 45; 9.34); *sthāpya* (10.31).+++(5)+++ There are several occasions when “double sandhi" is used in verses for metrical reasons (e.g., 6.156, 266).
 
 
-<!-- Footnotes themselves at the bottom. -->
 ## Notes
 
 [^1]:

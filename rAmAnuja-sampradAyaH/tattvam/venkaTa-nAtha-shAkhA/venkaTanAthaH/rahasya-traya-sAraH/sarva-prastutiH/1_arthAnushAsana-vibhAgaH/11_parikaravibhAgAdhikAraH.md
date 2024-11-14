@@ -3973,8 +3973,127 @@ and that, too, when he wants it.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-He knows that, by birth, conduct and the like, be is unfit to enjoy that fruit, like a dog which is unfit to eat the offering made to the gods, and yet he longs to attain this glory not only for himself but also for those who are connected with him. Embar has, therefore, illustrated the difficulty of having such faith by saying that to expect this man who dreads bhaktiyoga to have this supreme faith (regarding the efficacy of prapatti) is “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds to pay instead a kalam of oil".
+इप्-फलत्तुक्कु ‘‘शुनाम् इव पुरोडाशः’’ (पाद्म-संहिता चर्या-पादः १२-८३) ऎऩ्गिऱ बडिये  
+जन्म-वृत्तादिगळाले ताऩ् अनर्हऩाय् वैत्तुत्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतस्य फलस्य " शुनाम् इव पुरोडाशः " इति रीत्या  
+जन्म-वृत्तादिभिर् वस्तुतः स्वयम नार्ह इति ज्ञातवतः कस्यचित् 
+</details>
+
+<details><summary>English</summary>
+
+He knows that, by birth, conduct and the like,  
+he is unfit to enjoy that fruit,  
+like a dog which is unfit to eat the offering made to the gods,  
+</details>
+
+<details><summary>Español</summary>
+
+He knows that, by birth, conduct and the like,  
+he is unfit to enjoy that fruit,  
+like a dog which is unfit to eat the offering made to the gods,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्फलत्तुक्कु ‘‘शुनामिव पुरोडाशः’’ (पाद्म-संहिता चर्या-पादः १२-८३) ऎऩ्गिऱबडिये जन्मवृत्तादिगळाले ताऩ् अनर्हऩाय् वैत्तुत्  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्फलत्तुक्कु - इम्महाफलत्तिऱ्कु, ‘‘शुनामिव पुरोडाशः’’ ऎऩ्गिऱबडिये - देवार्हमाय् पावनतममाऩ पुरोडाशम् श्वावुक्कु निऩैक्कवुमनर्हमॆऩ्गिऱबडिये। जन्मवृत्तादिगळाले ताऩ् अनर्हऩाय् वैत्तु इति । इदऩाल् निहीनमाऩ तऩ् जन्मवृत्तादिगळै निऩैत्तालुम् महाविश्वासम् घटियातॆऩ्ऱदायिऱ्ऱु। इप्पडि तऩक्के फलसिद्धियिल् विश्वासमिल्लादबोदु इन्द लघूपायत्तालेये तऩ् अनुबन्धिकळुक्कुम् फलसिद्धियुण्डा मॆऩ्गिऱ महाविश्वासमुण्डागादिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩ् अनुबन्धिगळैयुङ् कॊण्डु  
+इप्-पेऱु पॆऱुवद् आग ऒरुत्तऩुक्कु महा-विश्वासम् पिऱक्कैयिल् अरुमैयै निऩैत्तु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“सानुबन्धिकेन स्वेनायं पुरुषार्थः प्राप्स्यते " इति महाविश्वासोत्पत्तौ दौर्लभ्यम् अभिसन्धाय, 
+</details>
+
+<details><summary>English</summary>
+
+and yet he longs to attain this glory  
+not only for himself  
+but also for those who are connected with him.  
+</details>
+
+<details><summary>Español</summary>
+
+and yet he longs to attain this glory  
+not only for himself  
+but also for those who are connected with him.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ् अनुबन्धिकळैयुङ्गॊण्डु इप्पेऱु पॆऱुवदाग ऒरुत्तऩुक्कु महाविश्वासम् पिऱक्कैयिल् अरुमैयै निऩैत्तु 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि इम्महाविश्वासम् पिऱक्कैयिल् कष्टत्तै नोक्कि इदऱ्कु ऒरु लौकिकदृष्टान्तत्तै ऎम्बाररुळिच्चॆय्दारॆऩ्गिऱार् महाविश्वासम् पिऱक्कैयिल् अरुमैयै निऩैत्तु इत्यादिना । 'कल ऎळ् कट्टुबोय्क् कल ऎण्णॆयायिऱ्ऱु' ऎऩ्बदु ऎम्बार् वचनम्। इदिऩर्थम्, ऒरु राजा ऒरु कुडिमगऩुक्कु कल ऎळ्ळुक्कट्टु अदावदु कल ऎळ्ळागुम्बडियाऩ सुमै कॊडुक्कवेणुमॆऩ्ऱु सॊल्लिविट्टाऩाय् अदऱ्कु अवऩ् मऩ्ऩाड वर अदु माट्टायागिल् कलत्तैलमावदु वरक्काट्टु ऎऩ्ऱदायिऱ्ऱु। मऩ्ऩाडिऩवऩुक्कु कल ऎळ्ळु सुमैबोय् अदिलुङ्गाट्टिल् गुरुवाऩ कलत्तैलम् वन्दु प्राप्तमायिऱ्ऱाम्। अप्पडिये यिङ्गुम् गुरुवाऩ भक्तियोगत्तैक् कुऱित्तु अञ्जिऩ अधिकारिक्कु ‘‘शरणं व्रज’’ ऎऩ्ऱु अत्यन्तदुःशकमहाविश्वासाङ्गक लघूपायत्तिऩुडैय विधानम् वन्दु विऴुन्ददु ऎऩ्ऱबडि।   
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> '+++(अत्रैवाशक्तेः←)+++ कल+++(=१२-आढक-भार)+++-ऎळ्-कट्टुप् पोय्क्  
+कल ऎण्णैय् आय् इऱ्ऱु' 
+
+ऎऩ्ऱु ऎम्बार् अरुळिच्-चॆय्दार् इऱे।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "+++(अत्रैवाशक्तेः←)+++ आढक-द्वादशक-तिल-भार-स्थाने  
+> तावत् तैलम् आसीत् (आपन्नम् ) ” 
+
+इति श्रीगोविन्दाचार्योऽनुजग्राह किल । 
+</details>
+
+<details><summary>English</summary>
+
+Embar has, therefore, illustrated the difficulty of having such faith by saying that  
+to expect this man who dreads bhaktiyoga  
+to have this supreme faith (regarding the efficacy of prapatti) is  
+
+> “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds  
+> to pay instead a kalam of oil".
+
+</details>
+
+<details><summary>Español</summary>
+
+Embar has, therefore, illustrated the difficulty of having such faith by saying that  
+to expect this man who dreads bhaktiyoga  
+to have this supreme faith (regarding the efficacy of prapatti) is  
+
+> “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds  
+> to pay instead a kalam of oil".
+
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+'कल ऎळ्गट्टुप् पोय्क् कल ऎण्णैयायिऱ्ऱु' ऎऩ्ऱु ऎम्बाररुळिच्चॆय्दारिऱे।
+</details>
+
+
 
 In this connection Appullar stated that the man who, like the gopis, has little discrimination but knows that the Lord is easily accessible and who seeks Him as having this quality has greater faith than the man who thinks only of the Lord's supreme greatness and remoteness and avoids Him; for the latter is called in the Gita the worst of men (narādhama) as the birth of his knowledge has only led to his ruin. The greatness of this supreme faith born of a knowledge of such things as helpful recommendation (purushakāra) from Lakṣmī , the essential nature of this faith and the feeling of helplessness are to be seen respectively in the preposition pra in prapadye (in Dvaya ), the root pad in prapadye occurring with the word śaranam and in the first person singular in prapadye.
 
