@@ -2900,8 +2900,6 @@ The answer is as follows:--
 सर्वोपकार-निरपेक्षस्य 
 </details>
 
-
-
 <details><summary>English</summary>
 
 Doubts might arise whether the Lord of all  
@@ -3036,13 +3034,13 @@ Doubts might arise whether the Lord of all
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राप्ति-विरोधिय् आऩ अनन्तापराधङ्गळैय्-उडैयार्क्कु  
+> प्राप्ति-विरोधिय् आऩ अनन्तापराधङ्गळैय्-उडैयार्क्कु  
 अळव्-इल्लाद फलत्तैत् तरुगैयुम्, 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-प्राप्ति-विरोध्य्-अनन्तापराधवद्-भ्यो ऽपरिमित-फल-दातृत्वम्, 
+> प्राप्ति-विरोध्य्-अनन्तापराधवद्-भ्यो ऽपरिमित-फल-दातृत्वम्, 
 </details>
 
 
@@ -3215,8 +3213,8 @@ the Lord has certain features like
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-गर्भीकुर्वति श्रीमच्छन्दे नारायणशब्दे च  
-+++(वक्ष्यमाण-रीत्या)+++ अर्थितयाऽऽनुकूल्य संकल्पः प्रातिकूल्य-वर्जनं चानुसन्धेयं भवितुम् अईतः । 
+गर्भीकुर्वति श्रीमच्छब्दे नारायणशब्दे च  
++++(वक्ष्यमाण-रीत्या)+++ अर्थितयाऽऽनुकूल्य संकल्पः प्रातिकूल्य-वर्जनं चानुसन्धेयं भवितुम् अर्हतः । 
 </details>
 
 
@@ -3300,11 +3298,17 @@ and the avoidance of what would cause displeasure.
 इप्पडि विशिष्टऩाऩ स्वामियैक् काट्टुगिऱ शब्दङ्गळ् औचित्यत्ताले अवऩ् तिऱत्तिल् प्राप्तमाऩ अभिमतानुवर्तनसङ्कल्पत्तैयुम् अनभिमतनिवर्तनत्तैयुम् प्रकाशिप्पिक्किऩ्ऱऩ। 
 </details>
 
-
+### ५ आकार-विशेषाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पुरुष-कारादिगळ् अञ्जुक्कुम् विशेषङ्गळ् आवऩ:- 
+इप्-पुरुष-कारादिगळ् अञ्जुक्कुम् विशेषङ्गळ् आवऩ - 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषां पुरुषकारादीनां पञ्चानां विशेषास् तावत् -
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3334,6 +3338,12 @@ have, respectively, the following specific properties:
 इप्पुरुषकारादिगळञ्जुक्कुम् विशेषङ्गळावऩ:- 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप् पुरुषकारादिगळिऩ् विशेषत्तै अनुसन्धित्तालुम् आनुकूल्यसङ्कल्पप्रातिकूल्यवर्जनङ्गळ् सिद्धङ्गळामॆऩ्गिऱ अभिप्रायत्ताले यवैगळैक्काट्टुगिऱार् इप्पुरुषकारादिगळञ्जुक्कुम् विशेषङ्गळावऩ इत्यादिना । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 +++(पुरुष-कारस्य)+++ मऱुक्कव् ऒण्णामैयुम्,  
@@ -3342,6 +3352,16 @@ have, respectively, the following specific properties:
 +++(व्यापारस्य)+++ सहकारियैप् पार्त्त् इरुक्क वेण्डामैयुम्,  
 +++(प्रयोजनस्य)+++ तण्णियर् आऩ पिऱर्-उडैय पेऱे+++(=पुरुषार्थं हि)+++ तऩ् पेऱ् आगैयुम्।+++(5)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+- +++(पुरुष-कारस्य)+++ अ-प्रत्याख्येयत्वं 
+- +++(सम्बन्धस्य)+++ नाशयितुम्-अशक्यत्वं  
+- +++(गुणानां)+++ निरुपाधिकत्वं  
+- +++(व्यापारस्य)+++ सहकारि-प्रतीक्षा-राहित्यम् 
+- +++(प्रयोजनस्य)+++ अतिनीचानां परेषां पुरुषार्थस्यैव स्व-प्ररुषार्थत्वं चेति ( यथा-संख्यम् ) ।
+</details>
+
 
 <details><summary>English</summary>
 
@@ -3378,11 +3398,365 @@ have, respectively, the following specific properties:
 मऱुक्कवॊण्णामैयुम्, ऒऴिक्कवॊऴियामैयुम्, निरुपाधिकमागैयुम्, सहकारियैप् पार्त्तिरुक्कवेण्डामैयुम्, तण्णियराऩ पिऱरुडैय पेऱे तऩ्बेऱागैयुम्।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+मऱुक्कवॊण्णामै - अतिक्रमिक्कक्कूडामै। इदु पुरुषकारत्तुक्कु विशेषम्। लोकत्तिल् सिल लौकिकेश्वरर्गळ् पुरुषकारत्तिऩ् वार्तैयै अनादरित्तु अवऩै मऱुत्तुविडुवार्गळिऱे। अप्पडियऩ्ऱिऱे वाल्लभ्यातिशयमुळ्ळ पिराट्टि। ऒऴिक्कवॊऴियामैयुमिति ।  
+ऒऴिक्क निऩैक्किलुम् ऒऴियामैयुमॆऩ्ऱबडि। ऒरुवऩ् भगवच्छेषत्वत्तै विट्टु देवतान्तरशेषत्वत्तै आश्रयिक्क निऩैत्तालुम् इन्द स्वाभाविकशेषत्वम् पोगादॆऩ्ऱु करुत्तु। इदु भगवच्छेषत्वादि सम्बन्धत्तिऱ्कु विशेषम्। भृति-दानप्रयुक्तङ्गळाऩ अन्यशेषत्वादिसम्बन्धङ्गळ् भृत्यदाने भृतिग्रहणानिच्छायां वा ताऩागवे ऒऴिन्दु पोमिऱे। निरुपाधिकम् आगैयायुमिति । इदु गुणङ्गळुक्कु विशेषम्। भगवाऩुडैय दयाकारुण्यादिगळ् सोपाधिकङ्गळऩ्ऱिऱे। अप्पडियाऩाल् उपाधिनिवृत्तियाले यवैगळ् निवृत्तङ्गळागवेण्डिवरुमिऱे। सहकारियैप् पार्त्तिरुक्क वेण्डामैयुमिति । इदु व्यापारत्तिऱ्कु विशेषम्। भगवाऩ् सृष्ट्यादिव्यापारङ्गळैच् चॆय्वदऱ्को रक्षणादिसङ्कल्परूपव्यापारत्तैच् चॆय्वदऱ्को सहकार्यन्तरम् वेण्डामिऱे। तण्णियराऩ पिऱरुडैय पेऱे तऩ् पेऱागैयुमिति । इदु प्रयोजनत्तिऱ्कु विशेषम्। तण्णियराऩ - अत्यन्तम् नीचऩाऩ, पिऱरुडैय - इतरऩुडैय, पेऱे - लाभमे, इतरऩुक्कु वरुम् लाबमे यॆऩ्ऱबडि। तऩ्बेऱागैयुम् - इतरर्गळ्बोलऩ्ऱिक्के भगवाऩ् मिगवुम् ताऴ्न्दवरुक्कु वरुम् लाभत्तैयुम् तऩक्कु पुरुषार्थमाग ऎण्णुवाऩिऱे।  
+</details>
 
 
-If it is asked how the doubts (about salvation by prapatti) stated before are removed by these specific properties, the answer is as follows:- (1) Though He is omniscient and omnipotent, He can not ignore recommendations of certain kinds and will pardon all faults which stand in the way of His accessibility in the same way as a king will pardon the faults of servants of the zenaną (on the recommendation of the royal ladies). He will appear as if he is unaware of these faults and be easily accessible. (2) Though He rewards in accordance with one's karma, he will become gracious owing to the performance of prapatti, which is something like an apology for greater things, a vyāja or gesture, and grant even that fruit which is beyond all measure and which is one's natural right like an inheritance, on account of its being due to the relationship of master and servant. (3) Although He has all objects of desire and does not require any help or assistance, He looks upon the little action (prapatti) performed by one as if it were an act of supreme help to Him because of His supreme and unconditioned compassion; for He is like a generous emperor who is easily won over by even little tokens of homage. Thus he becomes grateful and acts
+### आकार-विशेषैः शङ्का-परिहार-प्रकारः
 
-( accordingly). (4) Though He does not (in general) act quickly like inferior deities and rewards those who adopt other means laid down in the Śāstras only after (some) delay, yet when a man who has no other protector or refuge has performed prapatti, He grants whatever is desired at the very time when it is wanted, as He did in the case of Kakasura and Vibhishana, by His mere will which is accompanied with generosity and which does not require any other help or aid. (5) Though He is destitute of equals and superiors, He has such attributes as independence and does what is desired by His dependants for His own satisfaction; so He grants (their request ) without any consideration of their status or rank as ( ŚrīRāma did) in the case of all creatures in Kosala and in the same way as a man feeds his parrot and his child alike with milk. Thus the doubts (regarding the efficacy of prapatti ) arising from analogy with everyday life are removed also by the same analogy. Therefore there is nothing to hinder prapatti from being the upāya for the desired object, as ordained in the śāstras. Supreme faith or Mahāvisvāsa is not possible for one who has not understood, from the special grace of a good ācharya, these five, namely, helpful recommendation and the like, qualified by such attributes as have been mentioned before. This is how it happens: The man finds that he is unfit to adopt such upāyas as karma yoga and the like on account of his great sins resulting from Iśvara's being unfavourably disposed towards him. His condition is such as is described in the following śloka : "Shame on me that have neither purity, nor modesty, neither compassion nor shame; for, O Supreme Person, I desire to aspire to Thy service which even such great yogis, as Brahma, Rudra and Sanaka find far beyond the reach of their meditation." Thus he has a hankering for attaining an object that is hard to attain; but for securing it, he adopts an upāya which does not involve physical strain, expenditure of money or length of time and which is easy of performance, since it involves only a single mental act or even a single utterance with only a general understanding of the meaning of the words as a whole. With this easy upāya he desires to attain that supremely great object (namely, mokṣa  ) and that, too, when he wants it. He knows that, by birth, conduct and the like, be is unfit to enjoy that fruit, like a dog which is unfit to eat the offering made to the gods, and yet he longs to attain this glory not only for himself but also for those who are connected with him. Embar has, therefore, illustrated the difficulty of having such faith by saying that to expect this man who dreads bhaktiyoga to have this supreme faith (regarding the efficacy of prapatti) is “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds to pay instead a kalam of oil".
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-विशेषङ्गळ्-अञ्जालुम् शङ्का-परिहारम् पिऱन्द बडिय् ऎङ्ङऩेय् ऎऩ्ऩिल्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एभिः पञ्चभिर् विशेषैः शंकापरिहारः कथं जात इति चेत्
+</details>
+
+<details><summary>English</summary>
+
+If it is asked how the doubts (about salvation by prapatti) stated before are removed by these specific properties,  
+the answer is as follows:- 
+</details>
+
+<details><summary>Español</summary>
+
+If it is asked how the doubts (about salvation by prapatti) stated before are removed by these specific properties,  
+the answer is as follows:- 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विशेषङ्गळञ्जालुम् शङ्कापरिहारम् पिऱन्दबडि यॆङ्ङऩेयॆऩ्ऩिल्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्वैन्दु विशेषङ्गळालुम् शङ्कापञ्चकनिवृत्ति ऎप्पडि यॆऩ्ऱु प्रश्नपूर्वकमाग निवृत्तिप्रकारत्तै यरुळिच्चॆय्गिऱार् इव्विशेषङ्गळञ्जालुमित्यादिना । 
+</details>
+
+
+#### अप्रत्याख्येय-पुरुष-कारत्वतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वज्ञऩ् आय् सर्वशक्तिय् आय् इरुन्-दाऩेय् आगिलुम्  
+मऱुक्क-वॊण्णाद पुरुष-कार-विशेषत्ताले  
+अन्तः-पुर-परिजन-विषयत्तिऱ् पोले  
+अभिगन्तव्यता-विरोधिगळाऩ अपराधङ्गळैय् ऎल्लाम् क्षमित्तु  
+इवऱ्ऱिल् "अविज्ञाता" ऎऩ्ऩुम् बडि निऩ्ऱु अभिगन्तव्यऩ् आम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सर्वज्ञः सर्वशक्तिश् च सन्न् अपि  
++++(ततः)+++ अप्रत्याख्येय-पुरुष-कार-विशेषेण  
+अन्तः-पुर-परिजन-विषय इव  
+अभिगन्तव्यता-विरोध्य् अनन्तापराधान् क्षमित्वा,  
+एषां विषये 'अविज्ञाता' इति वर्णनार्हतया ऽवस्थितो ऽभिगन्तव्यो भवति ।  
+</details>
+
+<details><summary>English</summary>
+
+(1) Though He is omniscient and omnipotent,  
+He can not ignore recommendations of certain kinds  
+and will pardon all faults which stand in the way of His accessibility  
+in the same way as a king will pardon the faults of servants of the zenaną (on the recommendation of the royal ladies).  
+He will appear as if he is unaware of these faults and be easily accessible. 
+</details>
+
+<details><summary>Español</summary>
+
+(1) Though He is omniscient and omnipotent,  
+He can not ignore recommendations of certain kinds  
+and will pardon all faults which stand in the way of His accessibility  
+in the same way as a king will pardon the faults of servants of the zenaną (on the recommendation of the royal ladies).  
+He will appear as if he is unaware of these faults and be easily accessible. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वज्ञऩाय् सर्वशक्तियायिरुन्दाऩेयागिलुम् मऱुक्क वॊण्णाद पुरुषकारविशेषत्ताले  
+अन्तःपुरपरिजनविषयत्तिऱ्पोले अभिगन्तव्यताविरोधिकळाऩ अपराधङ्गळैयॆल्लाम् क्षमित्तु  
+इवऱ्ऱिल् अविज्ञाता ऎऩ्ऩुम्बडि निऩ्ऱु अभिगन्तव्यऩाम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सर्वज्ञऩाय् सर्वशक्ति यायिरुन्दाऩेयागिलुमिति । इदऩाल् शङ्काबीजमिरुन्दालुम् शङ्कापरिहारङ्गळै निऩैत्तालदु अकार्यकरमामॆऩ्ऱु द्योतितम्। मऱुक्कवॊण्णाद पुरुषकारविशेषत्ताले इति । पिराट्टियागिऱ पुरुषकारम् पॆरुमाळैक्किट्टि इवऩुडैय अपराधम् उमक्कुत् तॆरियुमागिलुम्, इवऩै तण्डिक्क उमक्कु शक्तियिरुन्दालुम् इवऩ् नम्मुडैय मनुष्यऩागैयाल् दोषत्तै मऱन्दु शक्तियै यडक्कि इवऩै रक्षित्ते तीरवेण्डुम्। अपराधमिल्लादवर्गळ् ऒरुवरुमिल्लै यॆऩ्ऱु पारुमॆऩ्ऱु सॊऩ्ऩाल् अवऩ् दोषत्तै उपेक्षित्तुप्पोगवेण्डुमेयॊऴिय अन्द वार्तैयै अनादरित्तु इन्द पुरुषकारम् भगवाऩुक्कुम् मऱुक्कमुडियादिऱे। इदिल् दृष्टान्तत्तैक् काण्बित्तु अभिगन्तव्यऩागुम् प्रकारत्तै यरुळिच्चॆय्गिऱार् अन्तःपुरपरिजन विषयत्तिऱ्पोले इति । अन्तःपुरपरिजन ऎऩ्ऱदाल् पुरुषकारप्राबल्यम् सूचितम्। पुरुषकारप्राबल्यमिरुन्दालुम् पण्णिऩ अपराधत्तिऱ्कु परिहारम् वेण्डावो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् अभिगन्तव्यताविरोधिकळाऩ अपराधङ्गळैयॆल्लाम् क्षमित्तु इति । पुरुषकारम् प्रबलमाम्बोदु अभिगन्तव्यताविरोधिपापङ्गळुक्कु क्षमैगॊळ्वदे परिहारमॆऩ्ऱु करुत्तु। सर्वज्ञऩाऩ भगवाऩ् तॆरिन्दिरुन्दुम् ऒरुवऩुडैय पापत्तै क्षमै कॊळ्व तॆप्पडि यॆऩ्ऩिल्, अदिऩ् प्रकारत्तैक् काट्टुगिऱार् इवऱ्ऱिल् अविज्ञाता ऎऩ्ऩुम् पडि निऩ्ऱु इति । अपराधङ्गळिले अज्ञऩ् पोल् अत्यन्तनिर्विकारत्वत्तै अभि-नयित्तु अभिगन्तव्यऩामॆऩ्ऱु करुत्तु। अप्पडि अभिनयिक्काविडिल् आश्रयिप्पवऩ् स्वापराधत्तै निऩैत्तु इदु भगवद्विदितमाऩाल् ऎऩ्सॆय्वदॆऩ्ऱु शङ्कित्तु किट्टुगैक्कु भयप्पडुवाऩिऱे।  
+</details>
+
+#### अ-नाश्य-सम्बन्धतः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कर्मानुरूप-फल-प्रदऩेय् आगिलुम्  
+इप्-प्रपत्ति-रूप-व्याजत्ताले प्रसन्नऩ् आय्  
+स्वामित्व-दासत्व-सम्बन्धोपाधिकम् आय्  
+दायम् पोले स्वतः प्राप्तम् आऩ अळव्-इल्लाद फलत्तैयुन् **तरुम्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कर्मानुरूप-फल-प्रदः सन्नपि,  
+अनेन प्रपत्ति-रूप-व्याजेन प्रसन्नः सन्  
+स्वामित्व-दासत्व-संबन्धोपाधिकतया  
+दायवत् स्वतःप्राप्तम् अपरिमितं फलं ददीत ।  
+</details>
+
+<details><summary>English</summary>
+
+(2) Though He rewards in accordance with one's karma,  
+he will become gracious owing to the performance of prapatti,  
+which is something like an apology for greater things, a vyāja or gesture,  
+and grant even that fruit which is beyond all measure  
+and which is one's natural right like an inheritance,  
+on account of its being due to the relationship of master and servant. 
+</details>
+
+<details><summary>Español</summary>
+
+(2) Though He rewards in accordance with one's karma,  
+he will become gracious owing to the performance of prapatti,  
+which is something like an apology for greater things, a vyāja or gesture,  
+and grant even that fruit which is beyond all measure  
+and which is one's natural right like an inheritance,  
+on account of its being due to the relationship of master and servant. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्मानुरूपफलप्रदऩे यागिलुम् इप्प्रपत्तिरूपव्याजत्ताले प्रसन्नऩाय् स्वामित्वदासत्वसम्बन्धोपाधिकमाय् दायम् पोले स्वतः प्राप्तमाऩ अळविल्लाद फलत्तैयुन्दरुम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कर्मानुरूपफलप्रदऩेयागिलुमिति । इतरफलङ्गळैक् कॊडुक्कुम्बोदु स्वतःप्रवृत्तऩागामैयाल् कर्मानुरूपफलप्रदऩेयागिलुमॆऩ्ऱबडि। इदऱ्कु सम्बन्धोपाधिकमाय् अळविल्लाद फलत्तैत् तरुमॆऩ्बदोडन्वयम्। प्राप्ति विरोधिपापङ्गळ् अनन्तङ्गळायिरुक्क तत्फलदानमुम् आवश्यकमायिरुक्क, इप्पडि सम्बन्धमात्रत्ताले अळविल्लाद फलम् तरलामो वॆऩ्ऱु शङ्कियामैक्काग प्रसन्नऩायॆऩ्ऱदु। प्रसन्नऩाय् - प्रसादवाऩाय्। प्राप्तिविरोधिकळाऩ पापङ्गळै यॆल्लाम् पॊऱुत्तवऩायॆऩ्ऱबडि। इदऩाल् प्राप्तिविरोधिपापङ्गळुक्कु फलप्रदानम् वेण्डामॆऩ्ऱदायिऱ्ऱु। इप्पडि आकस्मिकमाग इवऩ् विषयत्तिल् क्षमिक्कलामो वॆऩ्ऱु शङ्कियामैक्काग इप्प्रपत्तिरूपव्याजत्तालेयॆऩ्ऱदु। स्वामित्वदासत्वसम्बन्धोपाधिकमाय् दायम्बोले स्वतःप्राप्तमाऩवळविल्लाद फलत्तैयुम् तरुमिति । प्रपत्तिरूपव्याजत्ताले प्राप्तिविरोधिपापनिवृत्तिये साध्यमागैयालुम्, स्वामित्वदासत्वसम्बन्धोपाधिकमाऩवळविल्लाद फलम् स्वतः प्राप्तमागैयालुम्, कर्मोपाधिकमाग वन्ददिल्लैयागैयालुम् सम्बन्धमात्रत्तै प्रधानमागक्कॊण्डु अदैत् तरक्कूडुमॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+#### निरुपाधिक-गुणेभ्यः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवाप्त-समस्त-कामतैयाले सर्वोपकार-निरपेक्षऩेय् आगिलुम्  
++++(क्षुद्रोपहार-निभ)+++ अल्प-व्याजत्ताले वशी-कार्यऩ् आऩ सु-जन--सार्व-भौमऩैप्-पोले  
+तऩ् निरुपाधिक-कारुण्यादिगळाले  
+इवऩ् सॆय्गिऱ सिल्व् आऩ व्यापारत्तैत्  
+तऩक्कु परमोपकारम् आग **आदरित्तुक्-कॊण्डु** +++(5)+++  
+कृत-ज्ञऩ् आय् कार्यञ् जॆय्युम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अवाप्त-समस्त-कामत्वात् सर्वोपकार-निरपेक्षः सन्न् अपि,  
++++(क्षुद्रोपहार-निभ)+++ अल्प-व्याज--वशी-कार्य--सु-जन--सार्व-भौमवत्  
+स्वकीय-निरुपाधिक-कारुण्यादिभिः  
+एतत्-कृतं क्षुद्र-व्यापारम् अपि  
+स्वस्य परमोपकारतया **ऽऽद्रियमाणः**+++(5)+++ सन्  
+कृतज्ञः कार्यं कुर्वीत । 
+</details>
+
+<details><summary>English</summary>
+
+(3) Although He has all objects of desire  
+and does not require any help or assistance,  
+He looks upon the little action (prapatti) performed by one  
+as if it were an act of supreme help to Him  
+because of His supreme and unconditioned compassion;  
+for He is like a generous emperor  
+who is easily won over by even little tokens of homage.  
+Thus he becomes grateful and acts ( accordingly).
+</details>
+
+<details><summary>Español</summary>
+
+(3) Although He has all objects of desire  
+and does not require any help or assistance,  
+He looks upon the little action (prapatti) performed by one  
+as if it were an act of supreme help to Him  
+because of His supreme and unconditioned compassion;  
+for He is like a generous emperor  
+who is easily won over by even little tokens of homage.  
+Thus he becomes grateful and acts ( accordingly).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवाप्तसमस्तकामतैयाले सर्वोपकारनिरपेक्षऩेयागिलुम् अल्पव्याजत्ताले वशीकार्यऩाऩ सुजनसार्वभौमऩैप्पोले तऩ् निरुपाधिककारुण्यादिगळाले इवऩ् सॆय्गिऱ सिल्वाऩ व्यापारत्तैत् तऩक्कु परमोपकारमाग आदरित्तुक्कॊण्डु कृतज्ञऩाय् कार्यञ्जॆय्युम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अवाप्तसमस्तकामतैयाले सर्वोपकार निरपेक्षऩेयागिलुमिति ।  
+इदऩाल् तऩ्ऩुडैय परिपूर्णतैयाले महोपकारङ्गळैयुम् अपेक्षिक्कादवऩ् कैमुतिकन्यायत्ताले अल्पोपकारत्तै अपेक्षित्तु फल-प्रदानम् पण्णमाट्टाऩॆऩ्गिऱ शङ्काबीजमनूदितम्। तऩ् निरूपाधिककारुण्यादिगळाले इति । कारुण्यादिगळुक्कु निरुपाधिकत्वमावदु आनुषङ्गिकमागवरुवदॊरु फलत्तैक् कणिसियामल् स्वत एव प्रसरिक्कै। इवऩ् सॆय्गिऱ सिल्वाऩ व्यापारत्तै - इवऩनुष्ठिक्कुम् अञ्जलिबन्धभरन्यासादिरूपस्वल्पमाऩ व्यापारत्तै, तऩक्कु परमोपकारमाग आदरित्तुक्कॊण्डु - तऩक्कु वैषम्यनैर्घृण्यनिवारकमागैयालुम् कारुण्यपरवशऩागैयाले इवऩ् सॆय्युम् किञ्चित्कारत्तैयुम् स्वीकरित्तालऩ्ऱि धरिक्कमाट्टामैयालुम् स्वोज्जीवनार्थमवऩ् अनुष्ठिक्किऱ व्यापारत्तै सर्वनिरपेक्षऩाऩ तऩक्कु इदऱ्कुमेल् वेऱु उपकारान्तरमिल्लै यॆऩ्ऱु आदरित्तुक्कॊण्डु। कृतज्ञऩाय् - इवऩाले सॆय्यप्पट्ट इन्द अल्पव्यापारत्तैयुम् बहुवाग ऎण्णिक्कॊण्डु। कार्यञ्जॆय्युमिति । कैङ्कर्यपर्यन्तमाऩ स्वानुभवत्तैत् तरुमॆऩ्ऱबडि। 
+
+इप्पडि लोकत्तिल् परिपूर्णऩाऩवऩ् अल्पव्याजत्तै आदरित्तु कार्यञ्जॆय्यक्कण्डदुण्डो, प्रत्युत उपेक्षकऩायऩ्ऱो काण्गिऱोमॆऩ्गिऱ शङ्कैयै यनुरूपदृष्टान्तप्रदर्शनत्ताले परिहक्किऱार् अल्पव्याजत्ताले वशीकार्यऩाऩ सुजनसार्वभौमऩैप्पोले इति । सौजन्यमिल्लादार् तऩ् परिपूर्णतैयाले उपेक्षकर्गळाऩालुम् सुजनसार्वभौमऩाऩवऩ् परिपूर्णतैयै मऱन्दु तण्णियर्विषयत्तिल् अल्पव्याजत्तालुम् कार्यञ्जॆय्यक् काण्गिऱोमॆऩ्ऱु लोकसिद्धमाऩ दृष्टान्तकथनम्।
+</details>
+
+
+#### सह-कार्य्-अनपेक्ष-व्यापारतः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+क्षुद्र-देवतैगळैप् पोले क्षिप्र-कारिय् अऩ्ऱ् आगिलुम्  
+मऱ्ऱ्-उळ्ळ शास्त्रार्थङ्गळुक्कु विळम्बित्तु फलङ् कॊडुत्-ताऩेय् आगिलुम्  
+अनन्य-शरणऩ्-उडैय प्रपत्तिक्कु  
+औदार्यादि-गुण-सहितम् आय्, सह-कार्य्-अन्तर निरपेक्षम् आऩ तऩ्-सङ्कल्प-मात्रत्ताले  
+काक-विभीषणादिगळुक्कुप् पोलेय्  
+इवऩ् कोलिऩ कालत्तिले अपेक्षितम् कॊडुक्कुम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+क्षुद्र-देवतावत् क्षिप्र-कारी अभवन्न् अपि,  
+इतरेषां शास्त्रार्थानां विलम्बेन फलं ददानोऽपि,  
+अनन्य-शरणस्य प्रपत्तेः,  
+औदार्यादि-गुण-सहितेन सह-कार्य्-अन्तर-निरपेक्षेण स्व-संकल्प-मात्रेण  
+काक-विभीषणादिभ्य इव एतद्-उद्दिष्ट-काले, अपेक्षितं ददीत । 
+</details>
+
+<details><summary>English</summary>
+
+(4) Though He does not (in general) act quickly like inferior deities  
+and rewards those who adopt other means laid down in the Śāstras only after (some) delay,  
+yet when a man who has no other protector or refuge has performed prapatti,  
+He grants whatever is desired  
+at the very time when it is wanted,  
+as He did in the case of Kakasura and Vibhishana,  
+by His mere will  
+which is accompanied with generosity  
+and which does not require any other help or aid. 
+</details>
+
+<details><summary>Español</summary>
+
+(4) Though He does not (in general) act quickly like inferior deities  
+and rewards those who adopt other means laid down in the Śāstras only after (some) delay,  
+yet when a man who has no other protector or refuge has performed prapatti,  
+He grants whatever is desired  
+at the very time when it is wanted,  
+as He did in the case of Kakasura and Vibhishana,  
+by His mere will  
+which is accompanied with generosity  
+and which does not require any other help or aid. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+क्षुद्रदेवतैगळैप्पोले क्षिप्रकारियऩ्ऱागिलुम् मऱ्ऱुळ्ळ शास्त्रार्थङ्गळुक्कु विळम्बित्तु फलङ्गॊडुत्ताऩेयागिलुम् अनन्यशरणऩुडैय प्रपत्तिक्कु औदार्यादिगुणसहितमाय् सहकार्यन्तर निरपेक्षमाऩ तऩ् सङ्कल्पमात्रत्ताले काकविभीषणादिगळुक्कुप् पोलेयिवऩ् कोलिऩ कालत्तिले अपेक्षितम्गॊडुक्कुम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+क्षुद्रदेवतेत्यादि । मऱ्ऱुळ्ळ शास्त्रङ्गळ् - यजनभजनादिगळ्, अनन्यशरणऩुडैय - अनन्योपायऩाऩ प्रपन्नऩुडैय, इदऩाल् भक्तऩुक्कुम् शीघ्रं फलम् वेण्डावो वॆऩ्गिऱ शङ्कै निरस्तमायिऱ्ऱु। अवऩ् उपायान्तररहितऩऩ्ऱिऱे। प्रपत्तिक्कु इति । इदऱ्कु अपेक्षितम् कॊडुक्कुमॆऩ्बदोडन्वयम्। सहकार्यन्तरनिरपेक्षमाऩ इति । सहकार्यन्तरम् - स्वाधीन सहकारिव्यतिरिक्तसहकारी, तन्निरपेक्षमाऩ ऎऩ्ऱबडि। निरपेक्षमाऩ ऎऩ्ऱु सिद्धवदनुवादत्ताल् शरण्यऩुडैय फलप्रदानसङ्कल्पसामान्यम् सहकार्यन्तर निरपेक्षमॆऩ्ऱुम् भक्त्यादिगळिल् विलम्ब्य फलप्रदत्वसङ्कल्पमुम् सहकार्यन्तरापेक्षैयालऩ्ऱु; किन्तु स्वातन्त्र्यात् ऎऩ्ऱु सूचितमागिऱदु। इप्पडि स्वातन्त्र्यत्ताले शीघ्रफलप्रदत्वसङ्कल्पत्तैप् पण्णुगिऱाऩॆऩ्ऩिल्, इदु क्वचिद्व्यभिचरितमागादो वॆऩ्ऱु शङ्कियामैक्काग औदार्यादिगुणसहितमायॆऩ्ऱदु। औदार्यमिल्लादवऩ् विषयत्तिल् स्वातन्त्र्यम् व्यभिचारहेतुवाऩालुम् औदार्यसहितमाऩ इन्द स्वतन्त्रसङ्कल्पत्तुक्कु क्वचिदपि व्यभिचारम् वारादॆऩ्ऱु करुत्तु। इतरर्गळुक्कु विळम्बकारियाऩ इवऩ्प्रपन्नर्गळ् विषयत्तिल् अविळम्बेन फलप्रदऩागक् कण्डदुण्डो वॆऩ्ऱु शङ्कियामैक्काग काकविभीषणादिगळुक्कुप्पोले ऎऩ्ऱदु। इवऩ् कोलिऩ कालत्तिले अपेक्षितम् कॊडुक्कुमिति । मऱ्ऱ विषयङ्गळिल् ईश्वरऩ् स्वतन्त्रऩाऩालुम् कालम् कोलुम् विषयत्तिल् इवऩिच्छैयै अनुसरित्तु अवऩ् कोलिऩ कालत्तिलेये अपेक्षितङ् गॊडुक्कुमॆऩ्ऱबडि। एतावता अल्लाद शास्त्रार्थङ्गळिल् विळम्बमुम् प्रपत्तिक्कु फलाविळम्बमुम् स्वतन्त्रसङ्कल्पनियतमॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+
+#### पर-रक्षण-प्रयोजनत्वतः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+समाधिक-दरिद्रऩेय् आगिलुम्  
+स्वातन्त्र्य्-आदि-गुण-विशिष्टऩ् आय्  
+तऩ् प्रयोजनम् आग आश्रितर्क्कु अपेक्षितञ् जॆय्गिऱाऩ् आगैयाल्  
+कोसल-जन-पदत्तिल् जन्तुक्कळुक्कुप् पोले  
+कुमारऩोड् ऒक्क तिर्यक्क् आऩ किळिक्कुप् पाल् ऊट्टुङ् कणक्किले  
+तरम् पारादे+++(=??)+++ कॊडुक्कुम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+समाधिकदरिद्रः सन्न् अपि  
+यतः स्वातन्त्र्यादि-गुण-विशिष्टः स्व-प्रयोजनतया ऽऽश्रितानाम् अपेक्षितं साधयति  
+अतः, कोसल-जन-पद स्थित-जन्तुभ्य इव  
+कुमारेण सह तिरश्चे शुकाय क्षीर-प्रदान-न्यायेन  
+तार-तम्यम् अनवलोकयन् ददीत ।  
+</details>
+
+<details><summary>English</summary>
+
+(5) Though He is destitute of equals and superiors,  
+He has such attributes as independence  
+and does what is desired by His dependants  
+for His own satisfaction;  
+so He grants (their request ) without any consideration of their status or rank as ( ŚrīRāma did) in the case of all creatures in Kosala  
+and in the same way as a man feeds his parrot and his child alike with milk.  
+</details>
+
+<details><summary>Español</summary>
+
+(5) Though He is destitute of equals and superiors,  
+He has such attributes as independence  
+and does what is desired by His dependants  
+for His own satisfaction;  
+so He grants (their request ) without any consideration of their status or rank as ( ŚrīRāma did) in the case of all creatures in Kosala  
+and in the same way as a man feeds his parrot and his child alike with milk.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+समाधिकदरिद्रऩेयागिलुम् स्वातन्त्र्यादिगुणविशिष्टऩाय् तऩ् प्रयोजनमाग आश्रितर्क्कु अपेक्षितञ्जॆय्गिऱाऩागैयाल् कोसलजनपदत्तिल् जन्तुक्कळुक्कुप्पोले कुमारऩोडॊक्क तिर्यक्काऩ किळिक्कुप्पालूट्टुङ्गणक्किले तरम्बारादे कॊडुक्कुम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+समाधिकदरिद्रऩेयागिलुमिति । निस्समाभ्यधिकऩे यागिलुमॆऩ्ऱबडि। स्वातन्त्र्यादिगुणविशिष्टऩायिति । इङ्गु आदिपदत्ताल् दयावात्सल्यसङ्ग्रहः । स्वातन्त्र्यमिरुन्दालुम् दयावात्सल्यविशिष्टऩे फलप्रदऩावाऩॆऩ्ऱु भावम्। समाभ्यधिकरहितऩागैयाल् स्वतन्त्रऩॆऩ्ऱबडि। तऩ् प्रयोजनमाग आश्रितर्क्कपेक्षितम् सॆय्गिऱाऩागैयाले इति । पिऱर्क्काग सॆय्वदाग ऎण्णिऩालऩ्ऱो अवर्बक्कल् तारतम्यम् पार्प्पदु। इवऩ् स्वार्थमाग ऎण्णि कार्यञ्जॆय्यिल् इतरर्बक्कल् तरम् पार्क्क वेण्डामॆऩ्ऱभिप्रायम्। ईश्वरऩ् इप्पडि तरम् पारादे कॊडुत्तुक्कण्डदुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् कोसलजनपदत्तिल् जन्तुक्कळुक्कुप्पोले इत्यादिना । 'नऱ्पालयोत्तियिल् वाऴुम् सरासरम् मुऱ्ऱवुम् नऱ्पालुक्कुय्त्तऩऩ्' ऎऩ्गिऱबडिये कोसलजनपदजन्तुक्कळुक्कु तरम्बारादे कॊडुत्ताऩिऱे। तऩ् प्रयोजनमाग पिऱर् कार्यम् सॆय्युम्बोदु तरम्बारादे तरुगै साधारणमाग लोकत्तिलुम् काण्गिऱोमॆऩ्गिऱार् कुमारऩोडॊक्क तिर्यक्काऩ किळिक्कुप् पालूट्टुङ्गणक्किले इति । कुमारऩोडॊक्क - अत्यन्तलालनीयऩाय् अन्तरङ्गमायुमिरुक्कुम् कुमारऩुक्कु समानमाग, तिर्यक्काऩ किळिक्कु - भिन्नजातीयमाय् अत एव कुमारऩोडु नॆडुवासियुळ्ळ किळिक्कु, पालूट्टुङ्गणक्किले - तऩक्कु लीलारसजनकमागैयाल् तऩ् प्रयोजनमाग ऎण्णि पालूट्टुङ्गणक्किले, तरम्बारादे कॊडुक्कुम् - किळिक्कु ऒरु प्रयोजनम् सॆय्वदाग निऩैत्तुप् पालूट्टिऩालल्लवो कुमारऩुक्कुम् किळिक्कुम् तरम् पार्प्पदु। तऩ् प्रयोजनमागच् चॆय्युम्बोदु तरम् पार्प् पदिल्लैयिऱे। अप्पडिये भगवाऩुम् प्रपन्नविषयत्तिल् तरम्बारादे कॊडुक्कु मॆऩ्ऱबडि। 
+</details>
+
+### उपसंहारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि यथा-लोकम् पिऱन्द शङ्कैगळुक्कु  
+यथा-लोकम् परिहारम् उण्डागैयाले  
+यथाशास्त्रम् प्रपत्ति अपेक्षित-साधनम् आगक् कुऱैय् इल्लै।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं यथालोकं जातानां शङ्कानां  
+यथालोकं परिहाराणां सत्त्वात्  
+यथा-शास्त्रं प्रपत्तेर् अपेक्षित-साधनत्वे न कापि हानिः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus the doubts (regarding the efficacy of prapatti ) arising from analogy with everyday life  
+are removed also by the same analogy.  
+Therefore there is nothing to hinder prapatti  
+from being the upāya for the desired object,  
+as ordained in the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+Thus the doubts (regarding the efficacy of prapatti ) arising from analogy with everyday life  
+are removed also by the same analogy.  
+Therefore there is nothing to hinder prapatti  
+from being the upāya for the desired object,  
+as ordained in the śāstras. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि यथालोकम् पिऱन्दशङ्कैकळुक्कु यथालोकम् परिहारमुण्डागैयाले यथाशास्त्रम् प्रपत्ति अपेक्षितसाधन मागक् कुऱैयिल्लै।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अत्यन्तातीन्द्रियऩाऩ ईश्वरऩ् प्रपन्नऩुक्कु फलप्रदानम् पण्णुम् विषयत्तिल् पिऱन्द शङ्कैकळै लोकदृष्टान्तत्ताले परिहरिक्कक् कूडुमोवॆऩ्गिऱ शङ्कैयै परिहरियानिऩ्ऱुगॊण्डु प्रक्रान्तार्थत्तै निगमिक्किऱार् इप्पडि यथालोकमित्यादिना । यथालोकमिति हेतुगर्भविशेषणम्। अवऩदीन्द्रियऩेयागिलुम् अवऩ् विषयत्तिल् पिऱन्द शङ्कै लोकदृष्टान्तत्तै अनुसरित्तुप् पिऱन्ददागैयाल् अवैगळुक्कॆऩ्ऱबडि। यथालोकम् परिहार मुण्डागैयाले इति । यथालोकम् परिहारमावदु:- अन्तःपुरपरिजनसुजन सार्वभौम काकविभीषणतिर्यक्कुगळागिऱ दृष्टान्तप्रदर्शनत्ताल् वन्द परिहारम्। यथाशास्त्रं प्रपत्ति अपेक्षितसाधनमागक् कुऱैयिल्लै इति । यथाशास्त्रं – ‘‘आर्तेष्वाशुफला’’ इत्यादि शास्त्रङ्गळिल् सॊऩ्ऩबडि। प्रपत्ति – प्रारब्धनाशकमाऩ प्रपत्ति, अपेक्षितसाधनमागक् कुऱैयिल्लै - शास्त्रान्तरविरोधमुम्, प्रत्यक्षविरोधमुम्, कीऴ् शङ्कितमाऩ लौकिकविरोधमुम् इल्लादबोदु शास्त्रङ्गळिल् सॊल्लु किऱबडि प्रपत्ति अपेक्षितसाधनमागत् तट्टिल्लैयॆऩ्ऱबडि।  
+</details>
+
+
+
+Supreme faith or Mahāvisvāsa is not possible for one who has not understood, from the special grace of a good ācharya, these five, namely, helpful recommendation and the like, qualified by such attributes as have been mentioned before. This is how it happens: The man finds that he is unfit to adopt such upāyas as karma yoga and the like on account of his great sins resulting from Iśvara's being unfavourably disposed towards him. His condition is such as is described in the following śloka : "Shame on me that have neither purity, nor modesty, neither compassion nor shame; for, O Supreme Person, I desire to aspire to Thy service which even such great yogis, as Brahma, Rudra and Sanaka find far beyond the reach of their meditation." Thus he has a hankering for attaining an object that is hard to attain; but for securing it, he adopts an upāya which does not involve physical strain, expenditure of money or length of time and which is easy of performance, since it involves only a single mental act or even a single utterance with only a general understanding of the meaning of the words as a whole. With this easy upāya he desires to attain that supremely great object (namely, mokṣa  ) and that, too, when he wants it. He knows that, by birth, conduct and the like, be is unfit to enjoy that fruit, like a dog which is unfit to eat the offering made to the gods, and yet he longs to attain this glory not only for himself but also for those who are connected with him. Embar has, therefore, illustrated the difficulty of having such faith by saying that to expect this man who dreads bhaktiyoga to have this supreme faith (regarding the efficacy of prapatti) is “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds to pay instead a kalam of oil".
 
 In this connection Appullar stated that the man who, like the gopis, has little discrimination but knows that the Lord is easily accessible and who seeks Him as having this quality has greater faith than the man who thinks only of the Lord's supreme greatness and remoteness and avoids Him; for the latter is called in the Gita the worst of men (narādhama) as the birth of his knowledge has only led to his ruin. The greatness of this supreme faith born of a knowledge of such things as helpful recommendation (purushakāra) from Lakṣmī , the essential nature of this faith and the feeling of helplessness are to be seen respectively in the preposition pra in prapadye (in Dvaya ), the root pad in prapadye occurring with the word śaranam and in the first person singular in prapadye.
 
