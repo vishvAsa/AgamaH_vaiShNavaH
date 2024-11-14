@@ -3754,9 +3754,227 @@ as ordained in the śāstras.
 अत्यन्तातीन्द्रियऩाऩ ईश्वरऩ् प्रपन्नऩुक्कु फलप्रदानम् पण्णुम् विषयत्तिल् पिऱन्द शङ्कैकळै लोकदृष्टान्तत्ताले परिहरिक्कक् कूडुमोवॆऩ्गिऱ शङ्कैयै परिहरियानिऩ्ऱुगॊण्डु प्रक्रान्तार्थत्तै निगमिक्किऱार् इप्पडि यथालोकमित्यादिना । यथालोकमिति हेतुगर्भविशेषणम्। अवऩदीन्द्रियऩेयागिलुम् अवऩ् विषयत्तिल् पिऱन्द शङ्कै लोकदृष्टान्तत्तै अनुसरित्तुप् पिऱन्ददागैयाल् अवैगळुक्कॆऩ्ऱबडि। यथालोकम् परिहार मुण्डागैयाले इति । यथालोकम् परिहारमावदु:- अन्तःपुरपरिजनसुजन सार्वभौम काकविभीषणतिर्यक्कुगळागिऱ दृष्टान्तप्रदर्शनत्ताल् वन्द परिहारम्। यथाशास्त्रं प्रपत्ति अपेक्षितसाधनमागक् कुऱैयिल्लै इति । यथाशास्त्रं – ‘‘आर्तेष्वाशुफला’’ इत्यादि शास्त्रङ्गळिल् सॊऩ्ऩबडि। प्रपत्ति – प्रारब्धनाशकमाऩ प्रपत्ति, अपेक्षितसाधनमागक् कुऱैयिल्लै - शास्त्रान्तरविरोधमुम्, प्रत्यक्षविरोधमुम्, कीऴ् शङ्कितमाऩ लौकिकविरोधमुम् इल्लादबोदु शास्त्रङ्गळिल् सॊल्लु किऱबडि प्रपत्ति अपेक्षितसाधनमागत् तट्टिल्लैयॆऩ्ऱबडि।  
 </details>
 
+## महा-विश्वासोत्पत्तिः
+### आचार्य-कटाक्षापेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-विशिष्टम् आऩ पुरुष-कारादिगळ् अञ्जैयुम्  
+सद्-आचार्य-कटाक्ष-विशेषत्ताले तॆळिन्दवऩुक्क् अल्लदु  
+महा-विश्वासम् पिऱवादु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं विशिष्टं पुरुष-कारादि-पञ्चकं  
+सद्-आचार्य-कटाक्ष-विशेषात् प्रबुद्धवन्तं विना  
+ऽन्यस्य महाविश्वासो नोदियात ।  
+</details>
+
+<details><summary>English</summary>
+
+Supreme faith or Mahāvisvāsa is not possible for one who has not understood, from the special grace of a good ācharya, these five,  
+namely, helpful recommendation and the like,  
+qualified by such attributes as have been mentioned before.  
+</details>
+
+<details><summary>Español</summary>
+
+Supreme faith or Mahāvisvāsa is not possible for one who has not understood, from the special grace of a good ācharya, these five,  
+namely, helpful recommendation and the like,  
+qualified by such attributes as have been mentioned before.  
+</details>
 
 
-Supreme faith or Mahāvisvāsa is not possible for one who has not understood, from the special grace of a good ācharya, these five, namely, helpful recommendation and the like, qualified by such attributes as have been mentioned before. This is how it happens: The man finds that he is unfit to adopt such upāyas as karma yoga and the like on account of his great sins resulting from Iśvara's being unfavourably disposed towards him. His condition is such as is described in the following śloka : "Shame on me that have neither purity, nor modesty, neither compassion nor shame; for, O Supreme Person, I desire to aspire to Thy service which even such great yogis, as Brahma, Rudra and Sanaka find far beyond the reach of their meditation." Thus he has a hankering for attaining an object that is hard to attain; but for securing it, he adopts an upāya which does not involve physical strain, expenditure of money or length of time and which is easy of performance, since it involves only a single mental act or even a single utterance with only a general understanding of the meaning of the words as a whole. With this easy upāya he desires to attain that supremely great object (namely, mokṣa  ) and that, too, when he wants it. He knows that, by birth, conduct and the like, be is unfit to enjoy that fruit, like a dog which is unfit to eat the offering made to the gods, and yet he longs to attain this glory not only for himself but also for those who are connected with him. Embar has, therefore, illustrated the difficulty of having such faith by saying that to expect this man who dreads bhaktiyoga to have this supreme faith (regarding the efficacy of prapatti) is “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds to pay instead a kalam of oil".
+<details><summary>मूलम्</summary>
+
+इव्विशिष्टमाऩ पुरुषकारादिगळ् अञ्जैयुम् सदाचार्यकटाक्षविशेषत्ताले तॆळिन्दवऩुक्कल्लदु+++(5)+++ 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि पुरुषकारादिपञ्चक ज्ञानङ्गळुक्कु शङ्कापञ्चकनिवर्तनद्वारेण महाविश्वासहेतुत्वत्तैक् काट्टि अदै व्यतिरेकप्रदर्शनमुखत्ताले दृढीकरिक्किऱार् इव्विशिष्टमाऩ पुरुषकारादिगळ् अञ्जैयुमित्यादिना । इव्विशिष्टमाऩ - मऱुक्कवॊण्णामै ऒऴिक्कवॊऴियामै मुदलाऩ विशेषणविशिष्टमाऩ, पुरुषकारादिगळ् अञ्जैयुम् - पुरुषकार सम्बन्ध गुणव्यापारप्रयोजनङ्गळागिऱ अञ्जैयुम्। सदाचार्यकटाक्षविशेषत्ताले तॆळिन्दवऩुक्कल्लदु इति । सिलरुक्कु पुरुषकारादिपञ्चकज्ञानमिरुन्दुम् महाविश्वासम् काणविल्लैये यॆऩ्ऱु शङ्कियामैक्काग तॆळिन्दवऩुक्कल्लदॆऩ्ऱदु। तॆळिवावदु:- शङ्का-पञ्चकनिवर्तकतावच्छेदकयावद्धर्मविषयकज्ञानम्। इन्द विशिष्टज्ञानवाऩ्गळ् ऎल्लोरुक्कुम् तॆळिवु उण्डागामैक्कुक् कारणमरुळिच्चॆय्गिऱार् सदाचार्यकटाक्षविशेषत्ताले इति । तथाच सदाचार्यकटाक्षविशेषमिल्लामैये कारणमॆऩ्ऱु सॊल्लप्पट्टदु। ज्ञानत्तिऱ्कु शास्त्रम् सामान्यकारणमाऩालुम् तॆळिवुक्कु आचार्यकटाक्षम् विशेषकारणमागैयाल् अदिल्लादवऩुक्कु अदिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+ईश्वराभिमुखऩ् अल्लामैयाले  
+कर्म-योगादिगळुक्कु अनर्हऩ् आम् बडिय् आऩ महापराधङ्गळैय् उडैयऩ् आय्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कथमिति चेत् —  
+ईश्वरस्यानभिमुखत्वात्  
+कर्म-योगाद्य्-अनर्हतापादक--महापराधान् कृत-वतः,  
+</details>
+
+
+<details><summary>English</summary>
+
+This is how it happens:  
+The man finds that  
+he is unfit to adopt such upāyas as karma yoga and the like  
+on account of his great sins  
+resulting from Iśvara's being unfavourably disposed towards him (sic).  
+</details>
+
+<details><summary>Español</summary>
+
+This is how it happens:  
+The man finds that  
+he is unfit to adopt such upāyas as karma yoga and the like  
+on account of his great sins  
+resulting from Iśvara's being unfavourably disposed towards him (sic).  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎङ्ङऩेयॆऩ्ऩिल्; ईश्वराभिमुखऩल्लामैयाले कर्मयोगादिगळुक्कु अनर्हऩाम्बडियाऩमहापराधङ्गळैयुडैयऩाय्  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रकारान्तरत्ताले महाविश्वासदौर्लभ्यत्तै उपपादिक्किऱार् ऎङ्ङऩेयॆऩ्ऩिलित्यादिना । ईश्वरऩभिमुखऩल्लामैयाले इति । इदऱ्कु महापराधङ्गळैयुडैयऩाय् ऎऩ्बदोडन्वयम्। कर्मयोगादिगळुक्कु इति । आदिपदात् ज्ञानयोगभक्तियोगङ्गळुक्कु ग्रहणम्। अनर्हऩाम्बडियाऩ - अनर्हतापादकमाऩ। महापराधङ्गळै युडैयऩायिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘धिग् अ-शुचिम् अ-विनीतम्’’ (आळवन्दार्-स्तोत्रम् - ४७।)  
+ऎऩ्गिऱ श्लोकत्तिऩ् बडिये  
+ऎट्टव्+++(=दूरता-[मात्रां])+++ अरिय फलत्तैक् कणिसिक्कुम्+++(=दर्शनम्??)+++ पडिय् आऩ चापलत्तैय् उम् उडैयऩ् आय्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+‘‘धिग् अ-शुचिम् अ-विनीतम्’’ (आळवन्दार्-स्तोत्रम् - ४७।)  
+इति श्लोकोक्त-रीत्या  
+सु-दुर्-लभ-फल-प्रेप्सा-जनकं चापलम् आवहतः, 
+</details>
+
+<details><summary>English</summary>
+
+His condition is such as is described in the following śloka :  
+
+> "Shame on me that have neither purity, nor modesty,  
+> neither compassion nor shame;  
+> for, O Supreme Person, I desire to aspire to Thy service  
+> which even such great yogis, as Brahma, Rudra and Sanaka find far beyond the reach of their meditation." 
+</details>
+
+<details><summary>Español</summary>
+
+His condition is such as is described in the following śloka :  
+
+> "Shame on me that have neither purity, nor modesty,  
+> neither compassion nor shame;  
+> for, O Supreme Person, I desire to aspire to Thy service  
+> which even such great yogis, as Brahma, Rudra and Sanaka find far beyond the reach of their meditation."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘धिगशुचिमविनीतम्’’ (आळवन्दार् स्तोत्रम् - ४७।) ऎऩ्गिऱ श्लोकत्तिऩ्बडिये ऎट्टवरिय फलत्तैक् कणिसिक्कुम्बडियाऩ चापलत्तैयुमुडैयऩाय्  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्वळवाल् तऩ् अपराधत्तै निऩैत्ताल् महाविश्वासम् पिऱवादॆऩ्ऱु सॊल्लित्तायिऱ्ऱु। ‘‘धिगशुचिमविनीतम्’’ ऎऩ्गिऱ श्लोकत्तिऩ्बडिये ऎट्टवरिय फलत्तैक् कणिसिक्कुम्बडियाऩ चापल्यत्तैयुमुडैयऩायिति । इदऩाल् तऩ्ऩुडैय अशुचित्वत्तैयुम्, अविनीतत्वत्तैयुम् तऩक्कु स्मरिक्कवुम् कूडाद फलत्तिल् चापल्यत्तैयुम् निऩैत्ताल् महाविश्वासम् घटियातॆऩ्ऱ तायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-फलत्तुक्क् अनुष्ठिक्कप् पुगुगिऱव् उपायम्  
+काय-क्लेशार्थ-व्यय--काल-दैर्घ्यादिगळ् ऒऩ्ऱुम् वेण्डाद् अद् ऒरु  
+सकृद् अनुसन्धानम् आदल्  
++++(अविषद-)+++समुदाय-ज्ञान-पूर्वक--सकृद्-उक्ति-मात्रम् आदल् आय्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतत्-फलार्थम् अनुष्ठेयतया प्रसक्तं साधनं  
+काय-क्लेश-+अर्थ-व्यय- काल-दैर्घ्यादिषु  
+यत् किञ्चिद् एकम् अप्य् अनपेक्षमाणम् एकलं  
+सकृद् अनुसन्धानं वा  
+समुदाय-ज्ञान-पूर्वक--सकृद्-उक्ति-मात्रं वेति  
+</details>
+
+<details><summary>English</summary>
+
+Thus he has a hankering for attaining an object that is hard to attain;  
+but for securing it, he adopts an upāya which does not involve physical strain, expenditure of money or length of time  
+and which is easy of performance, since it involves only a single mental act  
+or even a single utterance with only a general understanding of the meaning of the words as a whole.  
+</details>
+
+<details><summary>Español</summary>
+
+Thus he has a hankering for attaining an object that is hard to attain;  
+but for securing it, he adopts an upāya which does not involve physical strain, expenditure of money or length of time  
+and which is easy of performance, since it involves only a single mental act  
+or even a single utterance with only a general understanding of the meaning of the words as a whole.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्फलत्तुक्कनुष्ठिक्कप् पुगुगिऱ वुपायम् कायक्लेशार्थव्ययकालदैर्घ्यादिगळॊऩ्ऱुम् वेण्डाददॊरु सकृदनुसन्धानमादल् समुदायज्ञानपूर्वकसकृदुक्तिमात्रमादलाय्  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उपायलाघवत्तैप् पार्त्तालुम् महाविश्वासम् घटियातॆऩ्गिऱार् इप् फलत्तु क्कनुष्ठिक्कप्पुगुगिऱ उपायमिति । इप्फलत्तुक्कु - महत्ताऩ इन्द फलत्तुक्कु, कर्मयोगादिवैपरीत्यत्तैयुम्, उपायस्वरूपत्तैयुम् काट्टि इदऩ् लाघवत्तै उपपादिक्किऱार् कायक्लेशेत्यादिना । तपस्तीर्थदानयज्ञादिसेवनरूपकर्मयोगादिगळिल् कायक्लेशार्थव्ययकालदैर्घ्यादिगळुण्डिऱे। अप्पडिक्कु ऒऩ्ऱुम् वेण्डाददाल् इदु लघुतरमिऱे। असकृदनुसन्धेयमाऩ भक्तियोगम् पोलऩ्ऱिक्के स्वतन्त्रप्रपत्तियिऩ् स्वरूपम् सकृदनुसन्धानरूपमागैयालुम् अदिलुमशक्तऩुक्कु समुदायज्ञानपूर्वकमाऩ अदावदु अविशदभरसमर्पणपूर्वकमाऩ सकृदुक्तिमात्रस्वरूपमागैयालुम् अत्यन्तलघुतरमॆऩ्ऱु उपपादितमायिऱ्ऱु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द लघुतरम् आऩव् उपायत्तैक् कॊण्डु  
+अन्द गुरुतरम् आऩ फलत्तैत्  
+ताऩ् कोलिऩ कालत्तिले पॆऱव् आसैप् पट्टु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनेन लघुतरोपायेन  
+तस्य गुरुतरस्य फलस्य  
+स्वोद्दिष्ट-काले प्राप्तिं कामयित्वा
+</details>
+
+
+<details><summary>English</summary>
+
+With this easy upāya  
+he desires to attain that supremely great object (namely, mokṣa  )  
+and that, too, when he wants it. 
+</details>
+
+<details><summary>Español</summary>
+
+With this easy upāya  
+he desires to attain that supremely great object (namely, mokṣa  )  
+and that, too, when he wants it. 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इन्द लघुतरमाऩव् उपायत्तैक् कॊण्डु अन्द गुरुतरमाऩ फलत्तैत् ताऩ् कोलिऩ कालत्तिले पॆऱवासैप्पट्टु 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द उपायलाघवत्तैयुम्, इदऩाल् तऩक्कुम् तऩ् अनुबन्धिकळुक्कुङ्गूड ताऩबेक्षित्त पोदु अन्द महाफलम् सिद्धिक्कु मॆऩ्बदैयुम् निऩैत्तालुम् महाविश्वासम् पिऱप्पदु अरिदु ऎऩ्गिऱार् इन्द लघुतरमाऩ इत्यादिना । अन्द गुरुतरमाऩ फलत्तै - विधिशिवसनकाद्यैर्ध्यातुमत्यन्तदूरमाऩ अन्द फलत्तै, ताऩ् कोलिऩगालत्तिले पॆऱवासैप्पट्टु इति । इन्द आसै गुरुतरमाऩ भक्तियोगनिष्ठऩुक्कुम् तलैक्कट्टक्कूडिऩदऩ्ऱिऱे ऎऩ्ऱु करुत्तु। 
+</details>
+
+
+
+He knows that, by birth, conduct and the like, be is unfit to enjoy that fruit, like a dog which is unfit to eat the offering made to the gods, and yet he longs to attain this glory not only for himself but also for those who are connected with him. Embar has, therefore, illustrated the difficulty of having such faith by saying that to expect this man who dreads bhaktiyoga to have this supreme faith (regarding the efficacy of prapatti) is “to ask a man who pleads inability to pay a bundle of sesamum stalks which would yield a kalam of seeds to pay instead a kalam of oil".
 
 In this connection Appullar stated that the man who, like the gopis, has little discrimination but knows that the Lord is easily accessible and who seeks Him as having this quality has greater faith than the man who thinks only of the Lord's supreme greatness and remoteness and avoids Him; for the latter is called in the Gita the worst of men (narādhama) as the birth of his knowledge has only led to his ruin. The greatness of this supreme faith born of a knowledge of such things as helpful recommendation (purushakāra) from Lakṣmī , the essential nature of this faith and the feeling of helplessness are to be seen respectively in the preposition pra in prapadye (in Dvaya ), the root pad in prapadye occurring with the word śaranam and in the first person singular in prapadye.
 
