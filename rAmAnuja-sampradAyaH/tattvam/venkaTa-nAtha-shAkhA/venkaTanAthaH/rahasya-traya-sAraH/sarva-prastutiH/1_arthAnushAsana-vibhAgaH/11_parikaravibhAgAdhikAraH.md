@@ -3796,6 +3796,7 @@ qualified by such attributes as have been mentioned before.
 </details>
 
 
+### दौर्लभ्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎङ्ङऩेय् ऎऩ्ऩिल्;  
@@ -4093,9 +4094,124 @@ to have this supreme faith (regarding the efficacy of prapatti) is
 'कल ऎळ्गट्टुप् पोय्क् कल ऎण्णैयायिऱ्ऱु' ऎऩ्ऱु ऎम्बाररुळिच्चॆय्दारिऱे।
 </details>
 
+### सौलभ्य-ज्ञानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-इडत्तिल् 
+
+> सर्वेश्वरऩ्-उडैय परत्वमात्रत्तैय् अऱिन्दु अगल्-+++(प्रेरण=)+++उगैयाले  
+नराधमऩॆऩ्ऱु पेर् बॆऱ्ऱ पिऱन्दु कॆट्टाऩिऱ् काट्टिल्  
++++(गोपिका=)+++इडैच्चिगळैप् पोले विवेकम् इल्लैयेय् आगिलुम् सौलभ्यत्तैय् अऱिन्दु  
+अन्-नलऩ्-उडैय् ऒरुवऩै +++(उपगत=)+++नणुगुम् अवऩे परमास्तिकऩ्  
+
+ऎऩ्ऱु अप्पुळ्ळार रुळिच्चॆय्युम् पासुरम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र 
+
+> सर्वेश्वरस्य परत्व-मात्रं बुद्ध्वा दूरी-भवनेन  
+नराधम इति संज्ञां प्राप्तवन्तं जात-नष्टम् अपेक्ष्य  
+गोपिकावत् विवेकाभावेऽपि  
+सौलभ्यं ज्ञात्वा तादृश-कल्याण-गुणकम् एकं (भगवन्तं ) यः समाश्रयति,  
+स एव परमास्तिक 
+
+इति श्रीवादि-हंसाम्बुदाचार्यानुगृहीता सूक्तिः । 
+</details>
 
 
-In this connection Appullar stated that the man who, like the gopis, has little discrimination but knows that the Lord is easily accessible and who seeks Him as having this quality has greater faith than the man who thinks only of the Lord's supreme greatness and remoteness and avoids Him; for the latter is called in the Gita the worst of men (narādhama) as the birth of his knowledge has only led to his ruin. The greatness of this supreme faith born of a knowledge of such things as helpful recommendation (purushakāra) from Lakṣmī , the essential nature of this faith and the feeling of helplessness are to be seen respectively in the preposition pra in prapadye (in Dvaya ), the root pad in prapadye occurring with the word śaranam and in the first person singular in prapadye.
+
+<details><summary>English</summary>
+
+In this connection Appullar stated that 
+
+> the man who, like the gopis, has little discrimination  
+> but knows that the Lord is easily accessible  
+> and who seeks Him as having this quality  
+> has greater faith  
+> than the man who thinks only of the Lord's supreme greatness and remoteness and avoids Him;  
+> for the latter is called in the Gita the worst of men (narādhama)  
+> as the birth of his knowledge has only led to his ruin.
+</details>
+
+<details><summary>Español</summary>
+
+In this connection Appullar stated that 
+
+> the man who, like the gopis, has little discrimination  
+> but knows that the Lord is easily accessible  
+> and who seeks Him as having this quality  
+> has greater faith  
+> than the man who thinks only of the Lord's supreme greatness and remoteness and avoids Him;  
+> for the latter is called in the Gita the worst of men (narādhama)  
+> as the birth of his knowledge has only led to his ruin.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् सर्वेश्वरऩुडैय परत्वमात्रत्तै यऱिन्दु अगलुगैयाले नराधमऩॆऩ्ऱु पेर्बॆऱ्ऱ पिऱन्दु कॆट्टाऩिऱ्काट्टिल्इडैच्चिगळैप्पोले विवेकमिल्लैयेयागिलुम् सौलभ्यत्तैयऱिन्दु अन्नलऩुडैयॊरुवऩै नणुगुमवऩे परमास्तिकऩॆऩ्ऱु अप्पुळ्ळार रुळिच्चॆय्युम् पासुरम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि भगवाऩुडैय सर्वस्मात्परत्वत्तैयुम् तऩ्ऩुडैय अत्यन्तनैच्यत्तैयुम् अनुसन्धित्तु महाविश्वासमऩ्ऱिक्के अवऩै विट्टु अगलुवदे उसिदमो? महाविश्वासत्तै सिल गुणमूलमाग सम्पादित्तु आश्रयिप्पदे उसिदमो वॆऩ्ऱु शङ्गैवर अदऱ्कु अप्पुळ्ळार् समाधानमरुळिच्चॆय्दारॆऩ्गिऱार् इव्विडत्तिलित्यादिना । इव्विडत्तिल् - कीऴ्च्चॊऩ्ऩ सन्देहम् वन्दुविट्टदिल्। सर्वेश्वरऩुडैय परत्वमात्रत्तैयऱिन्दु इति । इङ्गु मात्रपदत्ताले सौलभ्यसौशील्यादिव्यावृत्तिः । अगलुगैयाले - अवऩै विट्टुविडुगैयाले। नराधमऩॆऩ्ऱु पेर्बॆऱ्ऱ - भगवत्परत्वज्ञानादिगळिरुन्दुम् सौलभ्यादिगळैयुम् कूड अनुसन्धियामैयाले ‘‘हरेर्विज्ञाय पारम्यमपगच्छेन्नराधमः’’ ऎऩ्ऱु नराधमत्वेन व्यवह्रियमाणऩाऩ। इप्पडि सर्वोत्कृष्टमाऩ परत्वज्ञानमुडैयवऩै नराधमऩॆऩ्ऱु शास्त्रम् ताऩ् व्यवहरिक्कक्कूडुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार्बिऱन्दुगॆट्टाऩिऱ्काट्टिलिति । पिऱन्दुम् - भगवाऩुडैय परत्वज्ञानम्बिऱन्दुम्। कॆट्टाऩिऱ्काट्टिल् - भगवाऩै आश्रयिप्पदुम् तविर्न्दु विबरीदमाग विट्टगऩ्ऱु कॆट्टुप्पोऩवऩैक्काट्टिलुम्। लोकत्तिल् पुरुषार्थानुभवत्तिऱ्कु हेतुवाऩ पिऱप्पे पापानुष्ठानमात्रत्तिऱ्कु हेतुवाऩाल् अवऩुक्कुप् पिऱप्पे केडाऩाप्पोले इवऩुक्कु श्लाघ्यमाऩ परत्वज्ञानम् आश्रयणीयतैक्कु हेतुवागामल् तद्विपरीतमाय् अगलुगैक्कु हेतुवाऩबोदु इवऩुक्कु परत्वज्ञानम् पिऱन्ददे अनर्थावहमागैयाल् इवऩ् पिऱन्दु कॆट्टाऩॆऩ्ऱु अभिप्रायम्। इप्पडियिवऩ् पिऱन्दु कॆट्टाऩागैयाल् इवऩै शास्त्रम् नराधमऩॆऩ्ऱु व्यवहरित्तदे युक्तमॆऩ्ऱु करुत्तु। इडैच्चिगळैप् पोले विवेकमिल्लैये यागिलुमिति । परमपुरुषऩ् सर्वोत्कृष्टऩॆऩ्ऱुम्, ताऩ् निकृष्टऩॆऩ्ऱुम् स्वपरयाथात्म्यज्ञानमिल्लैयेयागिलुम् ऎऩ्ऱबडि। इङ्गु अपिशब्दत्ताले विवेकमुमिरुन्दु सौलभ्यत्तैयुमऱिन्दु आश्रयिप्पवऩ् विवेकमिल्लामल् सौलभ्यत्तै यऱिन्दु आश्रयिप्पवऩै काट्टिलुम् परमास्तिकऩॆऩ्ऱु सूचितमागिऱदु। सौलभ्यत्तै यऱिन्दु - आश्रयणीयतैक्कु उऱुप्पाऩ सौलभ्यमॊऩ्ऱैये अऱिन्दु। अन्नलऩुडै यॊरुवऩै - अन्द स्वामित्व सौशील्य सौलभ्यादिकल्याणगुणङ्गळैयुडैय ऒरुवऩै। एतादृशगुणवत्तया सजातीयरहितऩाऩ भगवाऩै। नणुगुमवऩे - किट्टुमवऩे। परमास्तिकऩॆऩ्ऱु - आस्तिकोत्तमऩॆऩ्ऱु। अप्पुळ्ळार् - वादिहंसाम्बुवाहाचार्याः । इङ्गु ‘‘सौलभ्यवेदी भजते कश्चित्तं परमास्तिकः’’ ऎऩ्गिऱ वचनार्थम् अभिप्रेतम्। इङ्गु 'अन्नलऩुडै यॊरुवऩै नणुगिऩम् नामे' ऎऩ्गिऱ नम्माऴ्वार् पासुरमुम् प्रत्यभिज्ञातमाय् इव्विषयत्तिल् प्रमाणमुमागिऱदु। इप्पडि सौलभ्यम् तॆळिन्दवऩ् महाविश्वासपूर्वकमाग भगवाऩै नणुगलामॆऩ्ऱु अप्पुळ्ळार् अरुळिच्चॆय्ददालुम्, ‘‘सौलभ्यवेदी भजते’’ ऎऩ्गिऱ वचनमिरुप्पदालुम् ऎम्बार् पासुरम् सौलभ्यमऱियाद परत्वज्ञानमात्रमुडैयवऩ् विषयमॆऩ्ऱु ज्ञापिक्कप्पडुगिऱदु।  
+</details>
+
+### द्वयेऽनुसन्धन्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि पुरुष-कारादि-ज्ञानत्ताले पिऱन्द विश्वास-महत्त्वमुम्, विश्वास-स्वरूपमुम्, कार्पण्यमुम्  
+‘प्रपद्ये’ ऎऩ्गिऱ क्रिया-पदत्तिल् उपसर्गत्तिलुम्, शरण-शब्दोपश्लिष्टम् आऩ +++(पद्←)+++धातुविलुम्, उत्तमऩिलुम् अनुसन्धेयङ्गळ्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[९८]]
+
+इत्थं पुरुषकारादि-ज्ञानेन निष्पन्नं विश्वास-महत्त्वं, विश्वास-स्वरूपं, कार्पण्यं च,  
+"प्रपद्ये" इति क्रियापदोपसर्गे,  
+शरण-शब्दोपश्लिष्टे धातौ,  
+उत्तमे चानुसन्धेयानि । 
+</details>
+
+
+
+<details><summary>English</summary>
+
+The greatness of this supreme faith born of a knowledge of such things as helpful recommendation (purushakāra) from Lakṣmī ,  
+the essential nature of this faith  
+and the feeling of helplessness  
+are to be seen respectively  
+in the preposition pra in prapadye (in Dvaya ),  
+the root pad in prapadye occurring with the word śaranam and in the first person singular in prapadye.
+
+</details>
+
+<details><summary>Español</summary>
+
+The greatness of this supreme faith born of a knowledge of such things as helpful recommendation (purushakāra) from Lakṣmī ,  
+the essential nature of this faith  
+and the feeling of helplessness  
+are to be seen respectively  
+in the preposition pra in prapadye (in Dvaya ),  
+the root pad in prapadye occurring with the word śaranam and in the first person singular in prapadye.
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि पुरुषकारादिज्ञानत्ताले पिऱन्द विश्वासमहत्वमुम् विश्वासस्वरूपमुम् कार्पण्यमुम् ‘प्रपद्ये’ ऎऩ्गिऱ क्रियापदत्तिल् उपसर्गत्तिलुम्शरणशब्दोपश्लिष्टमाऩ धातुविलुम् उत्तमऩिलुमनुसन्धेयङ्गळ्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडिप्पट्ट महाविश्वासमुम् कार्पण्यमुम् द्वयत्तिल् अनुसन्धिक्कुमिडत्तैयरुळिच् चॆय्गिऱार् इप्पडियित्यादिना । विश्वासमहत्वम् प्र ऎऩ्गिऱ उपसर्गत्तिलुम्, रक्षकत्वाध्यवसायरूपमाऩ विश्वासस्वरूपम् शरणशब्दोपश्लिष्टमाऩ पदॢ धातुविलुम्, कार्पण्यम् उत्तमऩिलुम् अनुसन्धेयमॆऩ्ऱबडि। 
+</details>
+
+
 
 In Sarasāgati Gadya, Śrī Rāmānuja explains the implication contained in the first person singular (prapadye) as meaning "I  have no other refuge". In Dvaya the words Saranam prapadye express supreme faith in the Lord's protection. Therefore the supplication (or prayer for protection ) is implicit in the words which express supreme faith in the upāya (though not actually stated in so many words ). It has been said " I am the abode of transgressions; I am without any other means of protecting myself, I have nothing else to attain than Thee." "Be pleased to be my upāya. This thought of prayer is called śaraṇāgati. Let it be performed to the Lord.” Further " this word śaranam is employed to mean any one of the following : upāya, house and protector; here it means only upāya." The Lord of all, besides being the protector in the general sense, as stated in all śāstras should, in the case of the prapanna, be thought of steadfastly as being an upāya, since he has accepted the responsibility of protecting him and stands therefore in the place of other upāyas. Besides, the Lord should be thought of as an upāya in order that this adhikārī (namely, the prapanna) who has surrendered the responsibility for his protection to the Lord may remain steadfast without seeking other upāyas.
 
