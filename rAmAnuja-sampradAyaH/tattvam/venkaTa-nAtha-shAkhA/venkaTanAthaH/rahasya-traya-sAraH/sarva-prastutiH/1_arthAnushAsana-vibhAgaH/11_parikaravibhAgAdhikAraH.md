@@ -139,7 +139,7 @@ helplessness (kārpaṇya), supreme faith, and supplication or seeking His prote
 गोप्तृत्ववरणं तथा ॥  
 आत्मनिक्षेपकार्पण्ये  
 षड्विधा शरणागतिः’’  
-(अहिर्बुध्न्य संहिता ३७-१८।)  
+(अहिर्बुध्न्य-संहिता ३७-१८।)  
 
 इत्यादिगळिऱ् सॊल्लुगिऱ षाड्विध्यमुम्  
 +++(अङ्गि-भूत-ध्यान-समुच्चयेन)+++ अष्टाङ्ग-योगम् ऎऩ्ऩुम् आप् पोले  
@@ -156,7 +156,7 @@ helplessness (kārpaṇya), supreme faith, and supplication or seeking His prote
 गोप्तृत्ववरणं तथा ॥  
 आत्मनिक्षेपकार्पण्ये  
 षड्विधा शरणागतिः’’  
-(अहिर्बुध्न्य संहिता ३७-१८।)  
+(अहिर्बुध्न्य-संहिता ३७-१८।)  
 
 इत्यादिषूच्यमानं षाड्-विध्यम् अपि  
 +++(अङ्गि-भूत-ध्यान-समुच्चयेन)+++ अष्टाङ्ग-योग-व्यवहारवत् अङ्गाङ्गि-समुच्चय-निबन्धनम् इत्य् अयम् अर्थः।
@@ -226,7 +226,7 @@ as in the word aṣṭāṅga[^es52] yoga.
 गोप्तृत्ववरणं तथा ॥  
 आत्मनिक्षेपकार्पण्ये  
 षड्विधा शरणागतिः’’  
-(अहिर्बुध्न्य संहिता ३७-१८।)  
+(अहिर्बुध्न्य-संहिता ३७-१८।)  
 
 इत्यादिगळिऱ्सॊल्लुगिऱ षाड्विध्यमुम्  
 अष्टाङ्गयोगमॆऩ्ऩुमाप् पोले अङ्गाङ्गिसमुच्चयत्तालेयागक् कडवदॆऩ्ऩुमिडमुम्,
@@ -354,7 +354,7 @@ and this does not require any argument :
 **न** मे **सिद्धिर्** +++(=फलम्)+++ इतो ऽन्यथा ॥  
 इत्य् अङ्गम् **उदितं** श्रेष्ठं  
 फलेप्सा तद्-विरोधिनी’’  
-(अहिर्बुध्न्य संहिता ५२-१४।)  
+(अहिर्बुध्न्य-संहिता ५२-१४।)  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -367,7 +367,7 @@ and this does not require any argument :
 **न** मे **सिद्धिर्** +++(=फलम्)+++ इतो ऽन्यथा ॥  
 इत्य् अङ्गम् **उदितं** श्रेष्ठं  
 फलेप्सा तद्-**विरोधिनी**’’  
-(अहिर्बुध्न्य संहिता ५२-१४।)  
+(अहिर्बुध्न्य-संहिता ५२-१४।)  
 
 </details>
 
@@ -423,7 +423,7 @@ The desire for the fruit is opposed to this."
 ‘‘शाश्वती मम संसिद्धिरियंप्रह्वीभवामि यत् ।  
 पुरुषं परमुद्दिश्य न मे सिद्धिरितोऽन्यथा ॥  
 इत्यङ्गमुदितं श्रेष्ठं फलेप्सा तद्विरोधिनी’’  
-(अहिर्बुध्न्य संहिता ५२-१४।)  
+(अहिर्बुध्न्य-संहिता ५२-१४।)  
 
 </details>
 
@@ -4286,18 +4286,19 @@ Therefore the supplication (or prayer for protection ) is implicit in the words 
 
 </details>
 
+#### उपाय-निश्चयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘अहम् अस्म्य् अपराधानाम्  
 आलयो ऽकिञ्चनो ऽगतिः’’  
-(अहिर्बुध्न्य संहिता ३७-३०।) 
+(अहिर्बुध्न्य-संहिता ३७-३०।) 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 > ‘‘अहम् अस्म्य् अपराधानाम्  
 आलयो ऽकिञ्चनो ऽगतिः’’  
-(अहिर्बुध्न्य संहिता ३७-३०।) 
+(अहिर्बुध्न्य-संहिता ३७-३०।) 
 </details>
 
 
@@ -4323,7 +4324,7 @@ It has been said
 
 <details><summary>मूलम्</summary>
 
-‘‘अहमस्म्यपराधानामालयोऽकिञ्चनोऽगतिः’’ (अहिर्बुध्न्य संहिता ३७-३०।) 
+‘‘अहमस्म्यपराधानामालयोऽकिञ्चनोऽगतिः’’ (अहिर्बुध्न्य-संहिता ३७-३०।) 
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -4337,7 +4338,7 @@ It has been said
 > भवेति प्रार्थना-मतिः ।  
 > शरणागतिर् इत्य् उक्ता  
 > सा देवे ऽस्मिन् प्रयुज्यताम्’’  
-> (अहिर्बुध्न्य संहिता ३७-३१।) 
+> (अहिर्बुध्न्य-संहिता ३७-३१।) 
 
 ऎऩ्ऱुम्, 
 </details>
@@ -4348,7 +4349,7 @@ It has been said
 > भवेति प्रार्थना-मतिः ।  
 > शरणागतिर् इत्य् उक्ता  
 > सा देवे ऽस्मिन् प्रयुज्यताम्’’  
-> (अहिर्बुध्न्य संहिता ३७-३१।) 
+> (अहिर्बुध्न्य-संहिता ३७-३१।) 
 
 इति
 </details>
@@ -4369,7 +4370,7 @@ It has been said
 
 <details><summary>मूलम्</summary>
 
-‘‘त्वमेवोपायभूतो मे भवेति प्रार्थनामतिः । शरणागतिरित्युक्ता सा देवेऽस्मिन् प्रयुज्यताम्’’ (अहिर्बुध्न्य संहिता ३७-३१।) ऎऩ्ऱुम्, 
+‘‘त्वमेवोपायभूतो मे भवेति प्रार्थनामतिः । शरणागतिरित्युक्ता सा देवेऽस्मिन् प्रयुज्यताम्’’ (अहिर्बुध्न्य-संहिता ३७-३१।) ऎऩ्ऱुम्, 
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -4386,7 +4387,7 @@ It has been said
 शब्दश् शरणम् इत्य् अयम् ।  
 वर्तते, सांप्रतं त्व् एष  
 उपायार्थैकवाचकः’’  
-(अहिर्बुध्न्य संहिता ३७-२९।) 
+(अहिर्बुध्न्य-संहिता ३७-२९।) 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -4395,7 +4396,7 @@ It has been said
 शब्दश् शरणम् इत्य् अयम् ।  
 वर्तते, सांप्रतं त्व् एष  
 उपायार्थैकवाचकः’’  
-(अहिर्बुध्न्य संहिता ३७-२९।)
+(अहिर्बुध्न्य-संहिता ३७-२९।)
 </details>
 
 
@@ -4424,7 +4425,7 @@ Further
 
 <details><summary>मूलम्</summary>
 
-> ‘‘उपाये गृहरक्षित्रोश्शब्दश्शरणमित्ययम् । वर्तते, सांप्रतं त्वेष उपायार्थैकवाचकः’’ (अहिर्बुध्न्य संहिता ३७-२९।) 
+> ‘‘उपाये गृहरक्षित्रोश्शब्दश्शरणमित्ययम् । वर्तते, सांप्रतं त्वेष उपायार्थैकवाचकः’’ (अहिर्बुध्न्य-संहिता ३७-२९।) 
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -4435,11 +4436,239 @@ Further
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ पडिये  
+उपायान्तराशक्तऩुक्कु सर्वेश्वरऩ् सर्व-शास्त्रार्थ-साधारणम् आऩ रक्षकत्व-मात्रत्तिले **निऱ्कैय् अऩ्ऱिक्के**  
+**स्वीकृत-भरऩ् आय्क्-कॊण्डु**  
+उपायान्तर-स्थानत्तिले **निवेशिक्कैयालुम्** …
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति चोक्त-रीत्या उपायान्तराशक्तस्य सर्वेश्वरः सर्व-शास्त्रार्थ-साधारणे रक्षकत्व-मात्रे **ऽनवस्थाय**,  
+**स्वी-कृत-भरः सन्**  
+उपायान्तर-स्थानेऽपि **निविशते**  
+इत्य् अतोऽपि,  
+</details>
+
+<details><summary>English</summary>
+
+The Lord of all, besides being the protector in the general sense, as stated in all śāstras  
+should, in the case of the prapanna,  
+be thought of steadfastly as being an upāya,  
+since he has accepted the responsibility of protecting him  
+and stands therefore in the place of other upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+The Lord of all, besides being the protector in the general sense, as stated in all śāstras  
+should, in the case of the prapanna,  
+be thought of steadfastly as being an upāya,  
+since he has accepted the responsibility of protecting him  
+and stands therefore in the place of other upāyas. 
+</details>
 
 
-The Lord of all, besides being the protector in the general sense, as stated in all śāstras should, in the case of the prapanna, be thought of steadfastly as being an upāya, since he has accepted the responsibility of protecting him and stands therefore in the place of other upāyas. Besides, the Lord should be thought of as an upāya in order that this adhikārī (namely, the prapanna) who has surrendered the responsibility for his protection to the Lord may remain steadfast without seeking other upāyas.
+<details><summary>मूलम्</summary>
 
-The word upāya stands for "the means to secure an end" and this means may be either sentient or non-sentient. It has been said:-"Among the aṅgas to prapatti are the faith that He will protect and the supplication or prayer for protection " " The Lord who controls everything, though He is omniscient and always compassionate expects a prayer for protection, since He has to look after the process of saṁsāra". Since the upāya or means in this case is a sentient being (namely, the Lord), and the prayer for protection (or goptṛtva varaṇam) which is applicable only to sentient beings is necessary here, the word saranam in Dvaya, which means upāya, implies also the prayer for protection. Since the word saranam cannot have two meanings when it is used only once, (we should understand that) in the Dvaya, the steadfast thought of the Lord being an upāya which is peculiar to the adhikārī called prapanna is brought out by the word saranam itself and that the prayer for protection which is common to all adhikārīs is understood by implication from the meaning.
+ऎऩ्ऱुञ्जॊल्लुगिऱबडियेउपायान्तराशक्तऩुक्कु सर्वेश्वरऩ् सर्वशास्त्रार्थसाधारणमाऩ रक्षकत्वमात्रत्तिले निऱ्कैयऩ्ऱिक्के स्वीकृतभरऩाय्क्कॊण्डु उपायान्तरस्थानत्तिले निवेशिक्कैयालुम् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उक्तवचनार्थङ्गळै परामर्शित्तालुम् युक्त्यन्तरत्तै निऩैत्तालुम् उपायत्वाद्ध्यवसायमे इङ्गु विवक्षितमॆऩ्गिऱार् ऎऩ्ऱुम् सॊल्लुगिऱबडिये इत्यादिना । उपायान्तराशक्तऩुक्कु - भक्तियोगादिगळिलशक्तऩुक्कु। सर्वेश्वरऩ् - सर्वनियन्तावाऩ भगवाऩ्, सर्वशास्त्रार्थसाधारणमाऩ - भक्तिप्रपत्त्यादिगळुक्कु साधारणमाऩ, रक्षकत्वमात्रत्तिले निऱ्कैयऩ्ऱिक्के स्वीकृतभरऩाय्क्कॊण्डु - ऎऩ्ऩाल् भक्तियै अनुष्ठिक्कमुडियादु; अन्द भक्तिरूपोपायस्थानत्तिले नीरे निऩ्ऱु रक्षिक्कवेण्डुम्। अदावदु भक्तियै अनुष्ठिक्कामल् नीरे रक्षिक्कवेण्डुमॆऩ्ऱु प्रार्थित्त पिऱगु, ‘‘मदीयरक्षणभरस्तवैव’’ ऎऩ्ऱु भरसमर्पणम् पण्णुम् प्रपन्नविषयत्तिल् अन्द भरत्तै स्वीकरित्तवऩाय्क्कॊण्डु ऎऩ्ऱबडि। उपायान्तरस्थानत्तिले - भक्तिस्थानत्तिले, निवेशिक्कैयालुम् - निऱ्कैयालुम्, उपायान्तरस्थानत्तिले निऱ्कैयावदु - अदिलॊरु आसनम् समर्पित्तु निऱ्कैयऩ्ऱु। किन्तु भक्तिरूपोपायत्तै यबेक्षिक्कामल् ताऩे रक्षणोपायमागै। चेतनऩागैयाले रक्षकऩागैयॆऩ्ऱबडि। तथाच निक्षेपरक्षा । 
+
+> तदेवं गोप्तर्य् एव भगवति  
+प्रपित्सोर् उपायान्तर-निवृत्तिम् अभिसन्धाय  
+उपायत्व-वाचो युक्तिः ।  
+तेन निरपेक्ष-रक्षकत्वम् अनुसंहितं भवति॥
+>
+> अतः 'उपायार्थैक-वाचकः' इति च तत्-परम् एव ।  
+ततश् चाङ्गि-प्रपत्तौ  
+उपाय-भूताया भक्तेः स्थाने निवेश्य  
+भगवान् उपदिश्यते ।  
+भक्त्याऽपि हि भगवत्-कृपैवोत्तभ्यते ।  
+सा चेद् अकिञ्चने प्रपन्ने  
+स्वयम् एवोत्तिष्ठेत।  
+अतो "भक्ति-साध्यां ताम्  
+ईश्वर-स्वभाव एव निर्वर्तयती"ति  
+अनुपायानां स एवोपायः ॥ 
+
+इति । 
+
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+न्यस्त-भरऩ् आऩ इव्व्-अधिकारिक्कुप्  
++++(भरन्यासात्)+++ पिऩ्बु अनन्योपायत्वम् निलै निऱ्कैक्क् आगवुम्  
+
+उपायत्वाध्यावसायम् इव्व्-इडत्तिले विवक्षितम् आयिऱ्ऱु।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+न्यस्त-भरस्यास्याधिकारिणः  
+पश्चात्-काले ऽप्य् अनन्योपायत्व-दार्ढ्यार्थञ् च  
+उपायत्वाध्यवसायो ऽत्र विवक्षितो भवति । 
+</details>
+
+<details><summary>English</summary>
+
+Besides, the Lord should be thought of as an upāya  
+in order that this adhikārī (namely, the prapanna) who has surrendered the responsibility for his protection to the Lord  
+may remain steadfast without seeking other upāyas.
+</details>
+
+<details><summary>Español</summary>
+
+Besides, the Lord should be thought of as an upāya  
+in order that this adhikārī (namely, the prapanna) who has surrendered the responsibility for his protection to the Lord  
+may remain steadfast without seeking other upāyas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+न्यस्तभरऩाऩ इव्वधिकारिक्कुप् पिऩ्बु अनन्योपायत्वम् निलै निऱ्कैक्कागवुम् उपायत्वाध्यावसायमिव्विडत्तिले विवक्षितमायिऱ्ऱु।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+न्यस्तभरऩाऩ इव्वधिकारिक्कु समर्पितभरऩाऩ अकिञ्चऩाऩ इव्वधिकारिक्कु।  
+पिऩ्बु - भरसमर्पणोत्तरकालम्। अनन्योपायत्वम् निलैनिऱ्कैक्कागवुम् - इतराधिकारिकळैप्पोलऩ्ऱिक्के इवऩ् न्यस्तभरऩागैयाले पिऩ्बुम् इवऩुक्कु अनन्योपायत्वम् निलै निऱ्कवेण्डुम्; अदऱ्कागवुमॆऩ्ऱबडि। उपायत्वाध्यवसायमिव्विडत्तिले विवक्षितमायिऱ्ऱु इति । उपायत्वाध्यवसायमिल्लाविडिल् भगवाऩै उपायान्तरस्थानत्तिले वैक्कैयुम्, इवऩुक्कु सर्वदा अनन्योपायत्वमुम् घटियातिऱे। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायम् ऎऩ्ऱाल्  
+ऒरु विरगु+++(=साधनम्)+++ ऎऩ्ऱ मात्रम् आगैयालेय्  
+इव्व्-उपायत्वम् चेतनाचेतन-साधारणम् आय् इरुक्कैयालुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपाय-शब्दार्थस्य साधन-विशेष-मात्र-रूपत्वेनास्योपायत्वस्य चेतनाचेतन साधारणत्वात्, 
+</details>
+
+<details><summary>English</summary>
+
+The word upāya stands for "the means to secure an end"  
+and this means may be either sentient or non-sentient. 
+</details>
+
+<details><summary>Español</summary>
+
+The word upāya stands for "the means to secure an end"  
+and this means may be either sentient or non-sentient. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायमॆऩ्ऱाल् ऒरु विरगु ऎऩ्ऱ मात्रमागैयालेयिव्वुपायत्वम् चेतनाचेतनसाधारणमायिरुक्कैयालुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आऩाल् गोप्तृत्ववरणमुम् अनुसन्धेयमागवेण्डुमोवॆऩ्ऩ, अदिल् उपपत्तिकळै उपपादिक्किऱार् उपायमॆऩ्ऱाल् ऒरु विरगु ऎऩ्ऱ मात्रमागैयाले इति । ऒरु विरगु ऎऩ्ऱ मात्रम् - ऒरु कारणमॆऩ्ऱ मात्तिरम्। आगैयाले इति । उपायशब्दम् सामान्यमाग कारण-मात्रवाचियागैयालेयॆऩ्ऱबडि। इव्वुपायत्वम् - इन्द कारणत्वम्, चेतनाचेतनसाधारण मायिरुक्कैयालुम् - चेतनऩाऩ भगवाऩुक्कुम् अचेतऩैयाऩ भक्तिक्कुम् साधारण-मायिरुक्कैयालुम्। इन्द उपायत्वरूप साधारणधर्मत्तै परमचेतनऩाऩ भगवाऩिडत्तिल् रक्षकत्वे अदावदु गोप्तृत्वे पर्यवसिप्पिक्कवेण्डुगैयाले ऎऩ्ऱबडि। 
+</details>
+
+#### गोप्तृत्व-वरणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘रक्षिष्यतीति विश्वासो  
+गोप्तृत्व-वरणं तथा’’ (अहिर्बुध्न्य-संहिता ३७-१८।) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘रक्षिष्यतीति विश्वासो  
+गोप्तृत्व-वरणं तथा’’ (अहिर्बुध्न्य-संहिता ३७-१८।) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+It has been said:-  
+
+> "Among the aṅgas to prapatti are the faith that He will protect  
+> and the supplication or prayer for protection "
+</details>
+
+<details><summary>Español</summary>
+
+It has been said:-  
+
+> "Among the aṅgas to prapatti are the faith that He will protect  
+> and the supplication or prayer for protection "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘रक्षिष्यतीति विश्वासो गोप्तृत्ववरणं तथा’’ (अहिर्बुध्न्य-संहिता ३७-१८।) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्वज्ञोऽपि हि विश्वेशस्  
+> सदा कारुणिकोऽपि सन् ।  
+> संसार-तन्त्र-वाहित्वाद्  
+> रक्षापेक्षां प्रतीक्षते’’+++(5)+++  
+> (लक्ष्मीतन्त्रम् १७-७८) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘सर्वज्ञोऽपि हि विश्वेशस्  
+> सदा कारुणिकोऽपि सन् ।  
+> संसार-तन्त्र-वाहित्वाद्  
+> रक्षापेक्षां प्रतीक्षते’’+++(5)+++  
+> (लक्ष्मीतन्त्रम् १७-७८)
+</details>
+
+<details><summary>English</summary>
+
+> " The Lord who controls everything,  
+> though He is omniscient and always compassionate  
+> expects a prayer for protection,  
+> since He has to look after the process of saṁsāra". 
+</details>
+
+<details><summary>Español</summary>
+
+> " The Lord who controls everything,  
+> though He is omniscient and always compassionate  
+> expects a prayer for protection,  
+> since He has to look after the process of saṁsāra". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वज्ञोऽपि हि विश्वेशस्सदा कारुणिकोऽपि सन् । संसारतन्त्रवाहित्वाद्रक्षापेक्षां प्रतीक्षते’’ (लक्ष्मीतन्त्रम् १७-७८) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ-बडिये  
+चेतनैकान्तम् आऩ गोप्तृत्व-वरणम् **अनुसन्धेयम्** आगैयालुम्  
+गोप्तृत्व-वरणमुम् इङ्गे **विवक्षितम्**।  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱुञ् जॊल्लुगिऱबडिये चेतनैकान्तमाऩ गोप्तृत्ववरणमनुसन्धेयमागैयालुम् गोप्तृत्ववरणमुमिङ्गे विवक्षितम्।  
+</details>
+
+
+Since the upāya or means in this case is a sentient being (namely, the Lord), and the prayer for protection (or goptṛtva varaṇam) which is applicable only to sentient beings is necessary here, the word saranam in Dvaya, which means upāya, implies also the prayer for protection. Since the word saranam cannot have two meanings when it is used only once, (we should understand that) in the Dvaya, the steadfast thought of the Lord being an upāya which is peculiar to the adhikārī called prapanna is brought out by the word saranam itself and that the prayer for protection which is common to all adhikārīs is understood by implication from the meaning.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
