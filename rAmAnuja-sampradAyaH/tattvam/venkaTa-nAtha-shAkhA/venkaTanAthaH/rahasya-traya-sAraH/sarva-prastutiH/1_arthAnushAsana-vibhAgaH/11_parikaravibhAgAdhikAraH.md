@@ -136,8 +136,8 @@ helplessness (kārpaṇya), supreme faith, and supplication or seeking His prote
 > ‘‘आनुकूल्यस्य सङ्कल्पः  
 प्रातिकूल्यस्य वर्जनम् ।  
 रक्षिष्यतीति विश्वासो  
-गोप्तृत्ववरणं तथा ॥  
-आत्मनिक्षेपकार्पण्ये  
+गोप्तृत्व-वरणं तथा ॥  
+आत्म-निक्षेप-कार्पण्ये  
 षड्विधा शरणागतिः’’  
 (अहिर्बुध्न्य-संहिता ३७-१८।)  
 
@@ -4655,6 +4655,12 @@ It has been said:-
 ‘‘सर्वज्ञोऽपि हि विश्वेशस्सदा कारुणिकोऽपि सन् । संसारतन्त्रवाहित्वाद्रक्षापेक्षां प्रतीक्षते’’ (लक्ष्मीतन्त्रम् १७-७८) 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सर्वज्ञोपीत्यादि । विश्वेशः – सर्वनियन्तावाऩ भगवाऩ्, सर्वज्ञोऽपिहि – सर्वज्ञऩागैयाले प्रपित्सुवाऩ इवऩुडैय आनुकूल्यसङ्कल्पप्रातिकूल्यवर्जन कार्पण्यमहाविश्वासङ्गळैत् तॆरिन्दवऩायिरुन्दालुम्। इङ्गु अपिर्विरोधे । इव्वळवु तॆरिन्दवऩ् स्वयमे रक्षिक्कामल् रक्षापेक्षैयै प्रतीक्षिप्पदु विरुद्धमऩ्ऱो ऎऩ्गिऱ विरोधत्तिऱ्कु द्योतकम्। हिः प्रसिद्धौ । सर्वज्ञऩायिरुन्दालुम् कारुणिकऩऩ्ऱागैयाले रक्षियाऩॆऩ्ऱु सॊल्लवॊण्णादॆऩ्गिऱार् सदा कारुणिकोऽपि सन्निति । कारुणिकत्वम् अव्याप्यवृत्तियोवॆऩ्ऱु शङ्कियामैक्काग सदेति । इङ्गुम् अपिर्विरोधे । कारुणिकऩायिरुन्दुदाऩे रक्षिक्काददु रक्षापेक्षैयै प्रतीक्षिप्पदु विरुद्धमिऱे। इवैगळ् विरुद्धमल्लवॆऩ्बदिल् हेतुवैक्काट्टुगिऱार् संसारतन्त्रवाहित्वादिति । संसारतन्त्रवाहित्वमावदु वैषम्यनैर्घृण्यमऩ्ऱिक्के संसारत्तै नडत्तिप्पोरुगै। अदावदु रक्षापेक्षैयऩ्ऱिक्के ऒरुवऩै रक्षित्तु ऒरुवऩै रक्षिक्काविट्टाल् वैषम्यनैर्घृण्यम् वरुमागैयाले अदिल्लामल् संसारत्तै नडत्तुवदऱ्काग। रक्षापेक्षां – त्वं मे रक्षको भव; अदावदु गोप्ता भव ऎऩ्गिऱवबेक्षैयै अदावदु प्रार्थऩैयै। प्रतीक्षते – अपेक्षिक्किऱाऩ्। सर्वज्ञऩाय् परमकारुणिकऩायिरुन्दालुम् वैषम्यनैर्घृण्यम् तऩ्ऩिडन्दट्टामल् संसारनिर्वाहम् सॆय्य वेण्डुवदाल् रक्षापेक्षाप्रतीक्षणम् सॆय्गिऱाऩागैयाल् विरोधमिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्ऱुञ् जॊल्लुगिऱ-बडिये  
@@ -4668,21 +4674,131 @@ It has been said:-
 गोप्तृत्व-वरणम् अत्र विवक्षितम् । 
 </details>
 
+<details><summary>English</summary>
+
+Since the upāya or means in this case is a sentient being (namely, the Lord),  
+and the prayer for protection (or goptṛtva varaṇam) which is applicable only to sentient beings is necessary here,  
+the word saranam in Dvaya, which means upāya, implies also the prayer for protection. 
+</details>
+
+<details><summary>Español</summary>
+
+Since the upāya or means in this case is a sentient being (namely, the Lord),  
+and the prayer for protection (or goptṛtva varaṇam) which is applicable only to sentient beings is necessary here,  
+the word saranam in Dvaya, which means upāya, implies also the prayer for protection. 
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 ऎऩ्ऱुञ् जॊल्लुगिऱबडिये चेतनैकान्तमाऩ गोप्तृत्ववरणमनुसन्धेयमागैयालुम् गोप्तृत्ववरणमुमिङ्गे विवक्षितम्।  
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-Since the upāya or means in this case is a sentient being (namely, the Lord), and the prayer for protection (or goptṛtva varaṇam) which is applicable only to sentient beings is necessary here, the word saranam in Dvaya, which means upāya, implies also the prayer for protection. Since the word saranam cannot have two meanings when it is used only once, (we should understand that) in the Dvaya, the steadfast thought of the Lord being an upāya which is peculiar to the adhikārī called prapanna is brought out by the word saranam itself and that the prayer for protection which is common to all adhikārīs is understood by implication from the meaning.
+ऎऩ्ऱुञ्जॊल्लुगिऱबडिये - इन्द वचनङ्गळिल् सॊल्लुगिऱबडिये। चेतनैकान्तमाऩ - चेतनमात्रनिष्ठमाऩ। इङ्गे विवक्षितम् - शरणशब्दोपश्लिष्टक्रियापदत्तिलेये विवक्षितम्। 
+</details>
 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् शरण-शब्दम्  
+ऒरु प्रयोगत्तिले इरण्ड् अर्थत्तैय् अभिधानम् पण्ण-माट्टामैयालेय्  
+इव्व्-अधिकारिक्कु अ-साधारणम् आऩ उपायत्वाध्यवसायम् इव्व्-इडत्तिले शाब्दम् आय्  
+सर्वाधिकारि-साधारणम् आऩ गोप्तृत्व-वरणम्  
+आर्थम् आगक् कडवदु।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्र शरण-शब्देन  
+एकस्मिन् प्रयोगे ऽर्थद्वयाभिधानस्याशक्यत्वात्  
+अस्याधिकारिणो ऽसाधारण उपायत्वाध्यवसायो ऽत्र शाब्दः,  
+सर्वाधिकारि-साधारणं गोप्तृत्व-वरणम् आर्थम्  
+इति भवितुम् अर्हति ॥ 
+</details>
+
+<details><summary>English</summary>
+
+Since the word saranam cannot have two +++(abhidhAna)+++ meanings when it is used only once,  
+(we should understand that) in the Dvaya, the steadfast thought of the Lord being an upāya  
+which is peculiar to the adhikārī called prapanna  
+is brought out by the word saranam itself  
+and that the prayer for protection which is common to all adhikārīs  
+is understood by implication from the meaning.
+</details>
+
+<details><summary>Español</summary>
+
+Since the word saranam cannot have two +++(abhidhAna)+++ meanings when it is used only once,  
+(we should understand that) in the Dvaya, the steadfast thought of the Lord being an upāya  
+which is peculiar to the adhikārī called prapanna  
+is brought out by the word saranam itself  
+and that the prayer for protection which is common to all adhikārīs  
+is understood by implication from the meaning.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिल् शरणशब्दमॊरु प्रयोगत्तिले इरण्डर्थत्तै यभिधानम् पण्णमाट्टामैयालेयिव्वधिकारिक्कु असाधारणमाऩ उपायत्वाद्ध्यवसायम् इव्विडत्तिले शाब्दमाय् सर्वाधिकारिसाधारणमाऩ गोप्तृत्ववरणमार्थमागक्कडवदु।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि उपायत्वाध्यवसायमुम् गोप्तृत्ववरणमुम् शरणशब्दोपश्लिष्टक्रियापदत्तिल् अनुसन्धेय मॆऩ्ऱु सॊऩ्ऩाल् करणमन्त्रघटकमाऩ शरणशब्दम् प्रयोगकालत्तिल् सकृत्ते उच्चरिक्क वेण्डियिरुप्पदाल् ‘‘सकृदुच्चरितश्शब्दस्सकृदेवार्थं गमयति’’ ऎऩ्गिऱ न्यायत्ताले अन्यतरार्थत्तैये बोधिक्कैयाले इरण्डर्थमुम् ऎप्पडि अनुसन्धेयमॆऩ्ऩिल् उत्तरमरुळिच् चॆय्गिऱार् अदिलित्यादिना । अदिल् - शरणशब्दमॆऩ्ऩ, पदॢ धातुवॆऩ्ऩ, इव्विरण्डुगळिले घटकीभूतमाऩ। ऒरु प्रयोगत्तिले - सकृदुच्चारणत्तिले। इरण्डर्थत्तै - उपायत्ववरणरूपार्थत्तैयुम् गोप्तृत्ववरणरूपार्थत्तैयुम्। अभिधानम् पण्ण माट्टामैयाले – अभिधावृत्त्या बोधिक्कमाट्टादागैयाले। अप्पडि बोधिप्पदु सकृदुच्चरितन्यायविरुद्धमागैयाले ऎऩ्ऱबडि। इव्वधिकारिक्कु - उपायान्तरशून्यऩाऩ इव्वधिकारिक्कु। असाधारणमाऩ - गोप्तृत्ववरणम्बोले भक्तसाधारणमऩ्ऱिक्केयिरुक्किऱ। उपायत्वाध्यवसायम् - निरपेक्षरक्षकत्वाध्यवसायम्। इव्विडत्तिले - शरणशब्दोपश्लिष्ट-क्रियापदत्तिले। शाब्दमाय् - अभिधावृत्तियाले बोधितमाय्। सर्वाधिकारिसाधारणमाऩ गोप्तृत्ववरणम् - सर्वाधिकारिसाधारणमाऩ रक्षकत्वप्रार्थनम्। आर्थमागक्कडवदु - अर्थात्सिद्ध मागक्कडवदु। तथाच सकृदुच्चरितश्शब्दस्सकृदेवार्थं गमयति ऎऩ्गिऱ न्यायत्तिऱ्कु एकया वृत्त्या एकार्थमेव गमयति ऎऩ्ऱु अर्थमागैयाल् इङ्गु शरणशब्दत्तिल् उपायत्वाध्यवसायम् अभिधावृत्तियालुम्, गोप्तृत्ववरणम् तात्पर्यवृत्तियालुम्, अदावदु लक्षणैयालुम् बोधिक्कप्पट्टाल् न्यायविरोधमिल्लैयॆऩ्ऱु करुत्तु। इप्पडि निष्कर्षित्तदाल् इव्वधिकारिक्कु असाधारणमाऩ उपायत्वप्रार्थऩै अदावदु निरपेक्षरक्षकत्वप्रार्थऩैयऩ्ऱिक्के सर्वसाधारणमाऩ केवलरक्षकत्वप्रार्थऩैयै मात्तिरम् शरणागत्यनुष्ठानकालत्तिल् अनुसन्धिक्कुमवर्गळुक्कु प्रपत्त्यनुष्ठानम् विकलमागैयाले फलम् सिद्धिक्कादॆऩ्ऱु ज्ञापिक्कप्पडुगिऱदु।  
+</details>
+
+
+## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-अऱिवित्तनरन्बरैयम्बऱैयुमुबायमिल्लात्  
-तुऱवित्तुनियिऱ्ऱुणैयाम् परनै वरिक्कुम् वगै  
-उऱवित्तनैयिऩ्ऱियॊत्तारॆन निऩ्ऱ वुम्बरै नाम्  
-पिऱवित्तुयर् सॆगुवीरॆऩ्ऱिरक्कुम् पिऴैयऱवे. (18 )
+**अऱिव् इत्तनर्** अन्बर् - ऐयम्+++(=संशयं)+++ पऱैयुम्+++(=सॊल्लुगिऱ [भक्तियोगादि])+++ उपायम् इल्लात्  
+तुऱवित्+++(=आकिञ्चन्यम्)+++ तुनियिऱ्+++(=दुःखे)+++ **+तुणैय्**+++(=सहायः)+++ आम् परनै वरिक्कुम् वगै  
+उऱव्+++(=सम्बन्धम्)+++ इत्तनैय् इऩ्ऱिय्, ऒत्तार्+++(=समा)+++ ऎन निऩ्ऱव् उम्बरै +++(देवान्)+++ "नाम्  
+पिऱवित्+++(=जन्मनः)+++ तुयर्+++(=दुःखं)+++ **सॆगुवीर्**+++(=गमयत)+++" ऎऩ्ऱ् इरक्कुम्+++(=अधोगामकं)+++ पिऴैय्+++(=दोषम्)+++ अऱवे+++(=विनाकृत्य)+++. (18 )
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+( गाथा ) चोदयामासुः स्नेहवन्तः  
+सन्देह-हेतु-भूतोपायाभाव-रूप-दारिद्र्य-दुःखे सहाय-भूतस्य परस्य वरण-प्रकारम्,  
+
+संबन्ध-स्वरूपांशेनापि विना-भूतानां  
+सदृशा इति स्थितानां देवानां सविधे  
+"अस्माकं जन्मात्मकं दुःखं नाशयते"त्य् एवं याचन-रूपो ऽपराधो यथा न भवेत् तथा ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+Our kind ācārya s have taught us the way of seeking, as an upāya,  
+the Supreme Being who is (ever) ready to help us in our state of helplessness,  
+when we are without such upāyas as bhakti yoga  
+which give rise to doubts (concerning our ability to adopt them with success).  
+They have taught it to us so well that  
+we shall never commit the mistake of begging, for deliverance from the sorrows of saṁsāra,  
+the (other) gods who are bound by karma  
+and are therefore like ourselves  
+and who are not related in any way to us.
+
+</details>
+
+<details><summary>Español</summary>
+
+Our kind ācārya s have taught us the way of seeking, as an upāya,  
+the Supreme Being who is (ever) ready to help us in our state of helplessness,  
+when we are without such upāyas as bhakti yoga  
+which give rise to doubts (concerning our ability to adopt them with success).  
+They have taught it to us so well that  
+we shall never commit the mistake of begging, for deliverance from the sorrows of saṁsāra,  
+the (other) gods who are bound by karma  
+and are therefore like ourselves  
+and who are not related in any way to us.
+
+</details>
+
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -4692,15 +4808,86 @@ Since the upāya or means in this case is a sentient being (namely, the Lord), a
 पिऱवित्तुयर् सॆगुवीरॆऩ्ऱिरक्कुम् पिऴैयऱवे. (18 )
 </details>
 
-Our kind ācārya s have taught us the way of seeking, as an upāya, the Supreme Being who is (ever) ready to help us in our state of helplessness, when we are without such upāyas as bhakti yoga which give rise to doubts (concerning our ability to adopt them with success). They have taught it to us so well that we shall never commit the mistake of begging, for deliverance from the sorrows of saṁsāra, the (other) gods who are bound by karma and are therefore like ourselves and who are not related in any way to us.
+<details><summary>सायण-टीका</summary>
+
+कटाक्ष-विशेषत्ताले  
+शङ्कापञ्चकनिवृत्तिपूर्वकम् आग महाविश्वासत्तैयुण्डाक्किऩ  
+परम-दयाळुक्कळ् आऩ आचार्यर्गळ्  
+अकिञ्चनर्गळाऩ नमक्कु इव्वङ्गपञ्चकङ्गळैक्कॊण्डु  
+भगवाऩै वरिक्कुम् प्रकारत्तै उपदेशित्तार्गळॆऩ्बदै  
+ऒरु पाट्टाले यरुळिच्चॆय्गिऱार् अऱिवित्तऩरित्यादिना ।  
+अऩ्बर् - स्निग्धर्गळाऩ नम् आचार्यर्गळ्; ऐयम् - संशयत्तै, पऱैयुम् - सॊल्लुगिऱ, संशयत्तैयुण्डु पण्णुमदाऩ ऎऩ्ऱबडि। इन्द उपायम् नम्माल् अनुष्ठित्तुत् तलैक्कट्टक्कूडुमो कूडादोवॆऩ्गिऱ संशयत्तैयुण्डु पण्णुमदाऩ ऎऩ्ऱबडि। दुष्करमाऩ ऎऩ्ऱु तात्पर्यम्।  
+उबायम् - भक्तियोगादिगळ्।  
+इल्लात्तुऱवि - इवैय् इल्लादद् आऩव् आकिञ्चन्यम्। अदागिऱ तुऩियिल् - दुःखावस्थैयिल्, तुणैयाम् - सहायभूतऩाऩ, अभिमतत्तैत् तलैक्कट्टिक्कॊडुक्कुंस्वभावऩाऩ ऎऩ्ऱबडि।  
+परऩै - उत्कृष्टऩाऩ भगवाऩै, शङ्कापञ्चकहेतुभूतमाऩ सार्वज्ञ्यसर्वशक्त्याद्युत्कृष्टगुणङ्गळैयुडैय भगवाऩै ऎऩ्ऱबडि।  
+वरिक्कुम् वगै - शरणमाग वरिक्कुम् प्रकारत्तै। परत्वमात्रत्तैक् कण्डु अगऩ्ऱुबोगादे पुरुषकारसम्बन्धादिगळाल् उण्डाऩ सौलभ्यातिशयत्तैत् तॆळिन्दु महाविश्वासत्तै यडैन्दु अवऩै उपायान्तरस्थानत्तिले निवेशिक्कुम् प्रकारत्तै ऎऩ्ऱबडि।  
+इदऱ्कु अऱिवित्तऩरॆऩ्बदोडन्वयम्।  
+किमर्थमित्यत्राह उऱवित्तऩैयिऩ्ऱि इति ।  
+इत्तऩै उऱविऩ्ऱि - स्वल्पसम्बन्धमुम् इल्लादबडि।  
+शेषशेषिभावादिसम्बन्धमऱ्ऱ ऎऩ्ऱु तात्पर्यम्। ऒत्तारॆऩ निऩ्ऱ - कर्मवश्यत्वादिगळाले नमक्कुत् तुल्यर् ऎऩ्ऩुम्बडि निऩ्ऱ। उम्बरै - देवर्गळै, ब्रह्मरुद्रादिदेवतान्तरङ्गळै यॆऩ्ऱबडि। नाम् - मुमुक्षुक्कळाऩ नाम्। पिऱवित्तुयर् - संसारदुःखत्तै। सॆगुवीरॆऩ्ऱु - पोक्कुङ्गोळॆऩ्ऱु।  
+इरक्कुम् पिऴै - इरक्कैयागिऱ तप्पु। अऱवे - अऱ्ऱुप्पोगुम्बडि। अदऱ्कु प्रसक्तिये इल्लामल् पोम्बडियॆऩ्गै। एतादृशफलार्थमागवे अऩ्बरऱिवित्तऩ रॆऩ्ऱु पूर्वेणान्वयः । आचार्यर्गळ् इप्पडि पुरुषकारसम्बन्धादिज्ञानत्ताले शङ्गैगळैप् पोक्कि महाविश्वासत्तैयुण्डाक्कि, सौलभ्यत्तैयुम् तॆळिवियादबोदु मुमुक्षुक् कळाऩ नामुम् क्षिप्रकारित्वमात्रज्ञानत्ताले देवतान्तरङ्गळ् पक्कलिले मोक्षयाचनरूपमाऩ महाबाबत्तैयुम् सॆय्युम्बडि नेरिडुमॆऩ्ऱु करुत्तु।  
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रख्यातः पञ्चषाङ्गस्सकृदिति भगवच्छासनैरेष योग-  
-स्तत्र द्वाभ्यामपायाद्विरतिरनितरोपायतैकेन बोद्ध्या ।  
-एकेन स्वान्तदार्ढ्यं निजभरविषयेऽन्येन तत्साध्यतेच्छा  
-तत्त्वज्ञानप्रयुक्ता त्विह सपरिकरे तादधीन्यादिबुद्धिः ॥ २७ ॥
+**प्रख्यातः** पञ्चषाङ्गस् सकृद् इति भगवच्-छासनैर् एष +++(प्रपत्ति-)+++योगस्  
+तत्र +++(आनुकूल्यसङ्कल्पः, प्रातिकूल्य-वरम्→)+++ द्वाभ्याम् अपायाद् विरतिर्, अनितरोपायतैकेन +++(कार्पण्येन)+++ बोध्या ।  
+एकेन +++(महाविश्वासेन)+++ स्वान्त-दार्ढ्यं निज-भर-विषये, ऽन्येन +++(गोप्तृत्व-वरणेन [रक्षायाः])+++ तत्+++(→भगवत्)+++-साध्यतेच्छा  
+तत्त्व-ज्ञान-प्रयुक्ता त्व् इह स-परिकरे ताद्+++(→भगवद्)+++-अधीन्यादि-बुद्धिः ॥ २७ ॥
 </details>
+
+<details><summary>English</summary>
+
+In the Scriptures (vouchsafed to us ) by Bhagavān himself (e. in the pañcarātra Āgamas),  
+this yoga called prapatti is proclaimed  
+as having five or six aṅgas  
+and as requiring to be performed only once.  
+In this yoga, abstention from transgressions results from two of the aṅgas,  
+namely, ânukulya saṅkalpa and prātikulya varjana.  
+It may be understood (also ) that from one aṅga, namely, karpanya,  
+one feels that there is no other upāya.  
+From supreme faith, another aṅga arises: firmness of mind.  
+By another aṅga, namely, goptṛtva varaṇam, is generated the Lord's will to save.  
+In this yoga, namely, prapatti, and also in its aṅgas,  
+the thought that all these are dependent upon the Lord  
+should arise from a knowledge of the truth (tattva)  
+(that the jīva is śeṣa to the Lord  
+and that all he does is really done by the Lord  
+and that [it is done] for His own purposes. sāttvika parityāga).  
+
+This last thought is common to prapatti and all other upāyas for securing mokṣa ,  
+(When śaraṇāgati is performed for the sake of worldly goods,  
+this last thought, sāttvika parityāga is absent.)
+
+</details>
+
+<details><summary>Español</summary>
+
+In the Scriptures (vouchsafed to us ) by Bhagavān himself (e. in the pañcarātra Āgamas),  
+this yoga called prapatti is proclaimed  
+as having five or six aṅgas  
+and as requiring to be performed only once.  
+In this yoga, abstention from transgressions results from two of the aṅgas,  
+namely, ânukulya saṅkalpa and prātikulya varjana.  
+It may be understood (also ) that from one aṅga, namely, karpanya,  
+one feels that there is no other upāya.  
+From supreme faith, another aṅga arises: firmness of mind.  
+By another aṅga, namely, goptṛtva varaṇam, is generated the Lord's will to save.  
+In this yoga, namely, prapatti, and also in its aṅgas,  
+the thought that all these are dependent upon the Lord  
+should arise from a knowledge of the truth (tattva)  
+(that the jīva is śeṣa to the Lord  
+and that all he does is really done by the Lord  
+and that [it is done] for His own purposes. sāttvika parityāga).  
+
+This last thought is common to prapatti and all other upāyas for securing mokṣa ,  
+(When śaraṇāgati is performed for the sake of worldly goods,  
+this last thought, sāttvika parityāga is absent.)
+
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -4710,7 +4897,14 @@ Our kind ācārya s have taught us the way of seeking, as an upāya, the Supreme
 तत्त्वज्ञानप्रयुक्ता त्विह सपरिकरे तादधीन्यादिबुद्धिः ॥ २७ ॥
 </details>
 
-In the Scriptures (vouchsafed to us ) by Bhagavān himself (e. in the pañcarātra Āgamas), this yoga called prapatti is proclaimed as having five or six aṅgas and as requiring to be performed only once. In this yoga, abstention from transgressions results from two of the aṅgas, namely, ânukulya saṅkalpa and prātikulya varjana. It may be understood (also ) that from one aṅga, namely, karpanya, one feels that there is no other upāya. From supreme faith, another aṅga arises: firmness of mind. By another aṅga, namely, goptṛtva varaṇam, is generated the Lord's will to save. In this yoga, namely, prapatti, and also in its aṅgas, the thought that all these are dependent upon the Lord should arise from a knowledge of the truth (tattva) (that the jīva is śeṣa to the Lord and that all he does is really done by the Lord and that for His own purposes. sāttvika parityāga). This last thought is common to prapatti and all other upāyas for securing mokṣa , (When śaraṇāgati is performed for the sake of worldly goods, this last thought, sāttvika parityāga is absent.)
+<details><summary>सायण-टीका</summary>
+
+इयानित्थं भूतः ऎऩ्ऱु आरम्भश्लोकत्तिल् सामान्यमागच्चॊऩ्ऩ अङ्गङ्गळिऩ् इयत्तैयैच् चॊल्लि अङ्गिपोले इवैगळुम् सकृत्कर्तव्यङ्गळॆऩ्ऱु सॊल्ला निऩ्ऱुगॊण्डु अङ्गङ्गळाल् वरुम् प्रयोजनत्तै ऒरु श्लोकत्ताले काट्टुगिऱार् प्रख्यात इत्यादिना । एष योगः – इन्द न्यासरूपोपायमाऩदु। भगवच्छासनैः – लक्ष्मीतन्त्राहिर्बुध्न्यसंहितादिरूपङ्गळाऩ भगवच्छास्त्रङ्गळाले। पञ्चषाङ्गः – पञ्च वा षड्वा अङ्गानि यस्य सः पञ्चषाङ्गः । काम्यप्रपत्तियिल् फलत्यागरूपाङ्गमिल्लामैयाले पञ्चाङ्गः; मोक्षार्थप्रपत्तौ तु फलत्यागरूपाङ्गसत्वात् षडङ्ग इति व्यवस्थितोऽयं विकल्पः । अतः ‘‘न्यासः पञ्चाङ्गसंयुतः’’ ऎऩ्बदोडु विरोधमिल्लै। सकृदिति च प्रख्यातः – ‘‘सकृदेव हि शास्त्रार्थः कृतोऽयं तारयेन्नरम्’’ इत्यादिगळ् इङ्गु अभिप्रेतम्। इङ्गु साङ्गभरन्यासरूपमाऩ षडङ्गयोगत्तिऱ्कु सकृत्त्वम् सॊल्लुगैयाल् अङ्गिवत् अङ्गत्तिऱ्कुम् सकृदनुष्ठानम् सॊल्लप् पट्टदु। तत्र – अन्द अङ्गङ्गळुडैय मध्यत्तिले। द्वाभ्यां – आनुकूल्यसङ्कल्पप्रातिकूल्यवर्जनङ्गळाले, अपायाद्विरतिः – अज्ञातिलङ्घनरूपमाऩ अपायत्तिल् निऩ्ऱु, अदावदु पाबत्तिऩिऩ्ऱुम्, विरतिः – अधिकारिणो निवृत्तिः, प्रयोजनतया बोध्येत्यर्थः । एकेन – कार्पण्यरूपाङ्गत्ताल्, अनितरोपायता – प्रपत्त्युत्तरकालम् अनन्योपायता । बोध्या – प्रयोजनतया आपततीति ज्ञेया । एकेन – महाविश्वासरूपमाऩ ऒरु अङ्गत्ताल्। निजभरविषये - फले, स्वान्तदार्ढ्यं – स्वान्तस्य – मनसः, दार्ढ्यं – पूर्वं पश्चाच्च रक्षिष्यति न वेति शङ्कारहितत्वं, शङ्कारहिततया निश्चलत्वमिति यावत् । अन्येन – गोप्तृत्ववरणेन, निजभरविषये इत्यत्राप्यन्वेति । तत्साद्ध्यतेच्छा – तस्य – भगवतः, साद्ध्यतेच्छा — इन्द फलत्तै इवऩुक्कु साधित्तुक् कॊडुक्क वेणुमॆऩ्गिऱ इच्छै । गोप्तृत्ववरणानन्तरम् भगवाऩुक्कु ‘‘तत्तदिष्टप्रदित्सात्मा प्रीतिरेव प्रसाद्ध्यते’’ ऎऩ्गिऱबडि फलप्रदानेच्छैयुण्डागिऱदिऱे। तत्त्वज्ञानप्रयुक्ता – शास्त्रजन्यतत्त्वज्ञानजन्या, तादधीन्यादिबुद्धिस्तु – तादधीन्यम् - भगवदधीनत्वम्, भगवदधीनकर्तृकत्वमिति यावत् । आदिपदत्ताले तच्छेषत्वत्तुक्कुम् फलस्य तदीयत्वत्तुक्कुम् ग्रहणम्। तेषां बुद्धिः – इदऩाल् कर्तृत्वत्यागममतात्यागफलत्यागङ्गळ् सॊल्लप्पट्टदुगळ्। इङ्गु ‘‘तु’’ शब्दत्ताले वैलक्षण्यम् द्योतितमागिऱदु। अदावदु इतरमाऩ आनुकूल्यादिगळ् भरसमर्पणत्तुक्कु अङ्गङ्गळ्। इन्द सात्विकत्यागरूपमाऩ अङ्गमोवॆऩ्ऱाल् सपरिकरे तादधीन्यादिबुद्धिरूपमागैयाल् अङ्गिक्कुप्पोल् अङ्गङ्गळुक्कुम् अङ्गमायिरुक्कुम्। इह सपरिकर इति । सपरिकरे – इन्द ऐन्दु अङ्गङ्गळोडु कूडिऩ, इह – अनुष्ठीयमानप्रपत्तौ, भवति – अङ्गतया भवति। परिकराणामपि तदधीनकर्तृकत्वात् ॥  
+    
+॥ इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्द्धाभिषिक्तस्य निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवकश्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ  
+श्री सारबोधिन्याख्यायां व्याख्यायां परिकरविभागाधिकार एकादशः ॥
+</details>
+
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
