@@ -467,8 +467,7 @@ As stated in the śloka  -
 
 > I am incapable of protecting myself  
 > and those who are said to be mine,  
-> independently (of the Lord) or for the sake of myself as the main person interested in it." 
-
+> independently (of the Lord) or for the sake of myself as the main person interested in it."
 </details>
 
 
