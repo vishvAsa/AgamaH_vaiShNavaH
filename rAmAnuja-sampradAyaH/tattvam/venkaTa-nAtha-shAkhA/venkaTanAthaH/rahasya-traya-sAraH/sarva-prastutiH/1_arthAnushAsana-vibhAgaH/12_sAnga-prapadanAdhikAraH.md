@@ -482,6 +482,8 @@ As stated in the śloka  -
 </details>
 
 
+
+
 Just as the wise Uparicharvasu always felt that his soul, his kingdom, his wealth, his wife, and his vehicles were all for Bhagavān, we should also say, "I and what is mine are His. The responsibility of protecting these is also that of the Lord who is the universal Protector" for it is said : " the surrender of the responsibility for one's self and of what is one's is called atmanikṣepa." " There is no one other than Bhagavān who is capable of affording protection ". The fruit of this protection should also be considered primarily His, for it has been said, "Ātmanikṣepa consists (also) in giving up all relationship to the fruit resulting from His protection and surrendering it (viz the fruit) to Keśava "who is the chief beneficiary".
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
