@@ -7,17 +7,17 @@ title = "१० भगवद्-आश्रयः"
 
 इप्-पडिय् अऱिन्दाल्  
 भगवान् तऩ्ऩैये  
-‘‘आर्तो जिज्ञासुरर्थार्थी” (गीता 7-16.)  
+‘‘आर्तो जिज्ञासुर् अर्थार्थी” (गीता 7-16.)  
 ऎऩ्गिऱप् पडिये  
 फलान्तरङ्गळुक्क् आगवुम् पऱ्ऱिनाल्  
-अन्द फलङ्गळ् अतिशयितङ्गळ् आम्.  
+अन्द फलङ्गळ् +++(मात्रया)+++ अतिशयितङ्गळ् आम्.  
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
 
 एवं ज्ञाते सति भगवन्तम् एव "62 आर्तो जिज्ञासुर् अर्थार्थी” इत्य् उक्त-रीत्या  
 फलान्तरार्थम् अपि समाश्रयेच् चेत्,  
-तानि फलान्य् अतिशयितानि भवन्ति । 
+तानि फलान्य् +++(मात्रया)+++ अतिशयितानि भवन्ति । 
 </details>
 
 <details><summary>English</summary>
@@ -27,8 +27,7 @@ The Gita thus speaks of those who approach Bhagavān for minor fruits :-
 > " The man[^f228] who has lost his wealth but seeks to recover it,  
 > the man who wants to enjoy his own soul,  
 > and the man who wants to acquire prosperity   
-> All these will have their reward in even greater measure." 
-
+> All these will have their reward in even greater measure."
 </details>
 
 <details><summary>Español</summary>
@@ -38,8 +37,7 @@ The Gita thus speaks of those who approach Bhagavān for minor fruits :-
 > " The man[^f228] who has lost his wealth but seeks to recover it,  
 > the man who wants to enjoy his own soul,  
 > and the man who wants to acquire prosperity   
-> All these will have their reward in even greater measure." 
-
+> All these will have their reward in even greater measure."
 </details>
 
 <details><summary>सारबोधिनी</summary>
@@ -77,7 +75,7 @@ The Gita thus speaks of those who approach Bhagavān for minor fruits :-
 > (विष्णुधर्म 74-43) 
 
 ऎऩ्गिऱप् पडिये  
-फलान्तरङ्गळ् आनुषङ्गिकम् आग वरुम्.+++(4)+++
+फलान्तरङ्गळ् आनुषङ्गिकम् आग वरुम्.+++(4 विभीषणाय कैङ्कर्यम् अन्तरा लङ्केव)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -91,7 +89,8 @@ The Gita thus speaks of those who approach Bhagavān for minor fruits :-
 > (विष्णुधर्म 74-43)
 
 इत्युक्तरीत्या  
-फलान्तराण्य् अप्य् आनुषङ्गिकतया सिध्यन्ति ।
+फलान्तराण्य् अप्य् आनुषङ्गिकतया सिध्यन्ति ।  
++++(विभीषणाय कैङ्कर्यम् अन्तरा लङ्केव)+++
 </details>
 
 <details><summary>English</summary>

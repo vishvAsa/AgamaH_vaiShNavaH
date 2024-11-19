@@ -956,8 +956,7 @@ Being the śeṣī  of all, He is the chief beneficiary.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अचेतनमाऩ कुऴ-मणऩैय्+++(=पुत्तलिकां)+++ अऴित्तुप्+++(=अन्यथा)+++ पण्णियुम्  
-आभरणम् पूट्टियुम्  
+अचेतनम् आऩ कुऴ-मणऩैय्+++(=पुत्तलिकां)+++ अऴित्तुप्+++(=नाशयित्वा)+++ पण्णियुम् आभरणम् पूट्टियुम् +++(=अलङ्कृत्य)+++  
 अऴगु कण्डु उगक्किऱदोडु, 
 </details>
 
@@ -969,21 +968,148 @@ Being the śeṣī  of all, He is the chief beneficiary.
 तत्-सौन्दर्यस्य दर्शनेन नन्दने,  
 </details>
 
+<details><summary>English</summary>
+
+the delight in melting dolls made of metals and shaping them into ornaments  
+and wearing them in admiration of their beauty  
+is not different (in kind)  
+</details>
+
+<details><summary>Español</summary>
+
+the delight in melting dolls made of metals and shaping them into ornaments  
+and wearing them in admiration of their beauty  
+is not different (in kind)
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 अचेतनमाऩ कुऴमणऩै यऴित्तुप्पण्णियुम् आभरणम् पूट्टियुमऴगु कण्डु उगक्किऱदोडु, 
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-To a man of cultivated tastes, who is not in need of anything,  
-the delight in melting dolls made of metals and shaping them into ornaments and wearing them in admiration of their beauty is not different (in kind) from the delight enjoyed by him in keeping a sentient being like a parrot in a cage and feeding it with milk and seeing it fly according to His pleasure.
+जीवऩ् चेतनऩागैयाले अवऩुक्कुम् पुरुषार्थसम्बन्धत्ताले उगप्पु उण्डागुमागैयाल् भगवाऩ् प्रधानफलियागक्कूडुमोवॆऩ्ऩ लोकदृष्टप्रक्रियैयाले समाधानमरुळिच्चॆय्गिऱार् अचेतनमाऩ कुऴमणऩै इत्यादिना । कुऴमणऩ् - मृत्-सुवर्णादिगळाले सॆय्यप् पट्ट विग्रहम्। अदावदु प्रतिमै। अऴित्तुप्पण्णियुम् - पूर्वरूपम् पोगुम्बडिय् आग अऴित्तु नवीऩमागप् पण्णियुम्। आभरणम् पूट्टियुम् अदऱ्कु शोभावहमाऩ आभरणत्तैप् पूट्टियुम्, अऴित्तुप् पण्णियुमॆऩ्ऱदु ईश्वरऩ् संहारसृष्ट्यादिगळैप् पण्णि अचित्तुक्कु स्वरूपपरिणामत्तै युण्डाक्कुवदिल् दृष्टान्तम्। आभरणम् पूट्टियुमॆऩ्ऱदु अव्वो भूतङ्गळिऩ् गन्धादिरूपस्वभावपरिणामवैचित्र्यजनकत्वे दृष्टान्तम्। 
+अऴगुगण्डु उगक्किऱदोडु इति । कुऴमणऩ् अचेतनमागैयाले तऩ्ऩुडैय विचित्रमाऩ परिणामत्तालुम् आभरणादिशोभैयालुम् उगक्कमाट्टादागैयाल् तत्सम्बन्धिचेतनऩाऩ शेषिक्के यदऩाल् उगप्पु उण्डागवेण्डुमागैयाल् अङ्गु ऎप्पडि अवऩे प्रधानफलियागिऱाऩो अप्पडिये ऎऩ्बदु दृष्टान्ततात्पर्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चेतनम् आऩ किळियै  
+पञ्जरत्तिल् **वैत्तुप्**, पाल् कॊडुत्तुम्,  
+वेण्डिऩ बडि पऱक्क विट्टुम्  
+अदिऩ् उगप्पु कण्डु उगक्किऱद्-ओडुव्  
+आसिय् इल्लैयिऱे निरपेक्षर् आऩ रसिकर्क्कु।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+चेतनस्य शुकस्य पञ्जरे निधानपूर्वं क्षीरदानेन  
+स्वैरं बहुलं सञ्चारणेन च  
+तदीयानन्दस्य दर्शनेन नन्दने च  
+नास्ति किल तारतम्यं निरपेक्षाणां रसिकानाम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+... from the delight enjoyed by him  
+in keeping a sentient being like a parrot in a cage  
+and feeding it with milk  
+and seeing it fly according to His pleasure,  
+to a man of cultivated tastes,  
+who is not in need of anything.
+</details>
+
+<details><summary>Español</summary>
+
+... from the delight enjoyed by him  
+in keeping a sentient being like a parrot in a cage  
+and feeding it with milk  
+and seeing it fly according to His pleasure,  
+to a man of cultivated tastes,  
+who is not in need of anything.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चेतनमाऩ किळियै पञ्जरत्तिल् वैत्तुप् पाल् कॊडुत्तुम् वेण्डिऩबडि पऱक्कविट्टुम् अदिऩुगप्पु कण्डु उगक्किऱदोडुव् आसिय् इल्लैयिऱे निरपेक्षराऩ रसिकर्क्कु।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+शेषभूतऩ् चेतनऩायिरुन्दालुम् अवऩुक्कु वरुम् पुरुषार्थङ्गळाले शेषिक्के प्रधानमाऩ उगप्पॆऩ्बदिल् दृष्टान्तमरुळिच्चॆय्गिऱार् चेतनमाऩ किळियै इत्यादिना । पञ्जरत्तिल् वैत्तुप् पाल्गॊडुत्तुमिति । पञ्जरम् - कूण्डु। इदु चेतनऩुडैय संहारत्तिल् दृष्टान्तम्। इवऩुक्कुम् स्वरूपनाशमऩ्ऱिक्के सूक्ष्मप्रकृतियिले सङ्कुचितत्वेन इरुक्कैयिऱे संहारम्। पाल् कॊडुत्तुमॆऩ्ऱदु करणकळेबरस्वर्गादिप्रदानत्तिल् दृष्टान्तम्। अथवा पञ्जरत्तिल् वैत्तुप् पाल्गॊडुत्तुमॆऩ्ऱदु शरीरत्तिऱ्कुळ्ळे वैत्तु चेतनऩुक्कु स्वर्गादिभोगङ्गळैक् कॊडुप्पदऱ्कु दृष्टान्तम्। वेण्डिऩबडि पऱक्कविट्टुमिति । इदु ‘‘सर्वेषु लोकेषु कामचारो भवति’’ ऎऩ्गिऱ मोक्षावस्थैयैयुण्डुबण्णुवदिल् दृष्टान्तम्। अदिऩुगप्पु कण्डु उगक्किऱदोडु वासियिल्लैयिऱे इति । अदिऩुगप्पु ऎऩ्बदाल् किळिक्कुम् अवान्तरफलित्वम् सॊल्लप्पट्टदु। कण्डु उगक्किऱदोडु ऎऩ्बदाल् अदैप् पार्त्तु उगक्कैयागिऱ शेषियिऩुडैय प्रधानफलम् सॊल्लप्पट्टदु। लोकत्तिल् किळि वळर्प्पदु किळियिऩुडैय मधुरभाषणस्वच्छन्दविहारादिगळैक्कण्डु ताऩ् उगप्पदऱ्कागवे यॊऴिय किळियिऩ् सन्तोषार्थमऩ्ऱिऱे। शेषिक्कु शेषभूतमाऩ अचेतनत्तिऩुडैय परिणामादिगळैक् कण्डु उगप्पदे यॆप्पडि प्रधानोद्देश्यमो अप्पडिये शेषभूतऩाऩ चेतऩुडैय पुरषार्थानुभवजनितसन्तोषत्तैक्कण्डु उगप्पदे प्रधानमाग लोकत्तिल् काण्गैयाल् रक्षाभरसमर्पणजन्यमाऩ रक्षाफलमाऩ स्वर्गापवर्गादिगळुक्कु चेतनऩ् अवान्तरफलियाऩालुम् अवऩुक्कु वरुम् स्वर्गापवर्गादिगळैक् कण्डु भगवाऩुक्कु वरुम् उगप्पे प्रधानफलमागैयाल् प्रधानफलित्वम् अवऩुक्कु वरत् तट्टिल्लैयॆऩ्ऱु करुत्तु। निरपेक्षराऩ इति । निरपेक्षराऩ - अबेक्षैयिल्लाद। रसिकर्क्कु - लीलारसानुभोक्ताक्कळुक्कु। इदऱ्कु पूर्वोक्तमाऩ वासियिल्लैयिऱे ऎऩ्बदोडन्वयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ पिऩ्बु इङ्गु -   
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतोऽत्र- 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore, 
+</details>
+
+<details><summary>Español</summary>
+
+Therefore, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩ पिऩ्बु इङ्गु -   
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आऩबिऩ्बु इत्यादि । आऩबिऩ्बु - प्रधानफलित्वम् अवऩदागवाऩ पिऩ्बु। इङ्गु मुमुक्षुवाऩ इव्वधिकारिक्कु। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनम् ।  
-त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
+स्व-निर्भरत्व-पर्यन्त-  
+रक्षकैकार्थ्य-भावनम् ।  
+त्यक्त-रक्षा-फल-स्वाम्यं  
+रक्ष्यस्यात्म-**समर्पणम्** ॥ २८-इ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-निर्भरत्व-पर्यन्त-  
+रक्षकैकार्थ्य-भावनम् ।  
+त्यक्त-रक्षा-फल-स्वाम्यं  
+रक्ष्यस्यात्म-**समर्पणम्** ॥ २८-इ॥
+</details>
+
+<details><summary>English</summary>
+
+ātmasamarpanam (the surrendering of the self to the Lord for protection) means here  
+the realisation of the self as existing solely for the purpose of the Saviour  
+and that to such an extent that the self feels no further responsibility, whatever, for its own protection  
+and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. 
+</details>
+
+<details><summary>Español</summary>
+
+ātmasamarpanam (the surrendering of the self to the Lord for protection) means here  
+the realisation of the self as existing solely for the purpose of the Saviour  
+and that to such an extent that the self feels no further responsibility, whatever, for its own protection  
+and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. 
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -991,11 +1117,76 @@ the delight in melting dolls made of metals and shaping them into ornaments and 
 त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
 </details>
 
-Therefore, ātmasamarpanam (the surrendering of the self to the Lord for protection) means here the realisation of the self as existing solely for the purpose of the Saviour and that to such an extent that the self feels no further responsibility, whatever, for its own protection and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. The purport of the śloka  in Aḷavandār's Stotra (52)
+<details><summary>सायण-टीका</summary>
 
-“वपुरादिषु योऽपि कोऽपि वा गुणतोऽसानि यथा तथाविधः । तदयं तव पादपद्मयोरहमद्यैव मया समर्पितः”(आळवन्दार् स्तोत्रम् 52.)
+स्वनिर्भरत्वपर्यन्तेत्यादि । रक्ष्यस्य – रक्ष्यभूतवस्तुवुक्कु; आत्मात्मीय माऩ रक्ष्यभूतवस्तुवुक्कॆऩ्ऱबडि। आत्मसमर्पणम् - ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ आत्मसमर्पणमाऩदु। त्यक्तरक्षाफलस्वाम्यं – रक्षाफल ऎऩ्बदु स्वरूपत्तिऱ्कुम् उपलक्षणम्। तथा च स्वरूपरक्षाफलानां स्वाम्यं त्यक्तं यस्मिन् तत् । इदु भावऩैयिल् अन्वयिक्किऱदु। इदऩाल् स्वरूपभरफलङ्गळिल् स्वसम्बन्धत्यागम् सॊल्लप्पडुगिऱदु। स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनं – स्वनिर्भरत्वपर्यन्तं च तत् रक्षकैकार्थ्यभावनञ्चेति शीतोष्णवत्समासः । ‘‘मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति’’ ऎऩ्ऱु सॊऩ्ऩ निर्भरत्वं पर्यन्तमवसाने यस्य तत् स्वनिर्भरत्वपर्यन्तम् । इतः परं मम रक्षायां भरो नास्तीति यथा दृढाध्यवसायः अन्ते भवेत् तादृशमिति यावत् । रक्षकैकार्थ्यभावनं – रक्षकस्य – भगवतः, ऐकार्थ्यं – तस्यैकस्यैव इमे स्वरूपरक्षाभरफलरूपार्थाः नान्यस्य । इति भावनं – रक्षकैकार्थ्यभावनं, कीऴ् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ विडत्तिल् स्वरूपभरफलानां स्वसम्बन्धत्यागम् सॊल्लियिरुप्पदाल् तेषामेव रक्षकैकार्थ्यभावन मिङ्गु अवश्यम् कॊळ्ळवेण्डुम्। इदऩाल् आत्मसमर्पणम् स्वरूपभरफलङ्गळुक्कु स्वनिर्भरत्वपर्यन्तमाऩ परसम्बन्धानुसन्धानम् ऎऩ्ऱु निगमिक्कप्पट्टदु। तथाच ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ केवलात्मनिक्षेपमात्रमऩ्ऱिक्के, ‘‘आत्मात्मीयभरन्यासः’’ ‘‘केशवार्पण पर्यन्ता’’ ऎऩ्ऱु कीऴ् उदाहरित्त वचनङ्गळ् सॊल्लुवदैयुमनुसरित्तु रक्षकऩिडत्तिल् स्वनिर्भरत्वपर्यन्तमाऩ स्वरूपभरफलसमर्पणमागवे निर्णयिक्कप्पट्टदायिऱ्ऱु। इदिल् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ पदत्ताले इम्मूऩ्ऱुक्कुम् स्वसम्बन्धत्यागमुम् भाविक्कवेण्डुमॆऩ्ऱु सॊल्लप्पट्टदु। स्वरूपभरफलसमर्पणङ्गळै प्रत्येकम् आत्मनिक्षेपमागक् कीऴ्च् चॊऩ्ऩ वचनङ्गळिल् सॊल्लियिरुप्पदाल् स्वरूपभरफलङ्गळुडैय रक्षकैकार्थ्यभावनम् आत्मनिक्षेपशब्दत्ताले मुख्ययैव वृत्त्या अदावदु शक्त्या सॊल्लप्पडुगिऱदॆऩ्ऱु करुत्तु।   
+</details>
 
-which says "Whatever I may be in the body, the senses and the like, and whatever may be the qualities of my Nature, I who know that I am Thy śeṣa hereby surrender myself at this very moment at thy two lotus-like feet" -- the purport of this śloka  is as follows:
+## स्तोत्रेऽनुसन्धानम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्तोत्रत्तिल् 
+
+> ‘‘वपुर्-आदिषु योऽपि कोऽपि वा  
+> गुणतोऽसानि यथा तथा-विधः ।  
+> तद् अयं तव पाद-पद्मयोर्  
+> अहम् अद्यैव मया समर्पितः’’  
+> (आळवन्दार् स्तोत्रम् ५२।) 
+
+ऎऩ्गिऱत्तुक्कुत् तात्पर्यम् ऎऩ्ऩ् ऎऩ्ऩिल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्तोत्रे,
+
+> ‘‘वपुर्-आदिषु योऽपि कोऽपि वा  
+> गुणतोऽसानि यथा तथा-विधः ।  
+> तद् अयं तव पाद-पद्मयोर्  
+> अहम् अद्यैव मया समर्पितः’’  
+> (आळवन्दार् स्तोत्रम् ५२।) 
+
+इत्यस्य किं तात्पर्यम् इति चेत् —
+</details>
+
+<details><summary>English</summary>
+
+The purport of the śloka  in Aḷavandār's Stotra (52) which says 
+
+> "Whatever I may be in the body, the senses and the like,  
+> and whatever may be the qualities of my Nature,  
+> I who know that I am Thy śeṣa  
+> hereby surrender myself at this very moment at thy two lotus-like feet"
+
+-- the purport of this śloka  is as follows:
+</details>
+
+<details><summary>Español</summary>
+
+The purport of the śloka  in Aḷavandār's Stotra (52) which says 
+
+> "Whatever I may be in the body, the senses and the like,  
+> and whatever may be the qualities of my Nature,  
+> I who know that I am Thy śeṣa  
+> hereby surrender myself at this very moment at thy two lotus-like feet"
+
+-- the purport of this śloka  is as follows:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्तोत्रत्तिल् ‘‘वपुरादिषु योऽपि कोऽपि वा गुणतोऽसानि यथा तथाविधः । तदयं तव पादपद्मयोरहमद्यैव मया समर्पितः’’ (आळवन्दार् स्तोत्रम् ५२।) ऎऩ्गिऱत्तुक्कुत् तात्पर्यमॆऩ्ऩॆऩ्ऩिल्, 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि आत्मसमर्पणम् रक्षकैकार्थ्यभावनमाग अदावदु स्वरूपभरफलङ्गळ् रक्षकऩाऩ भगवाऩॊरुवऩुक्के शेषभूतङ्गळॆऩ्ऱु भाविक्कैयाग मुडिन्दाल् तत्त्ववित्तऩ्ऱिक्के अदावदु रक्षकऩ् ईश्वरऩॆऩ्ऱुम् रक्ष्यऩ् ताऩॆऩ्ऱुम् स्वरूपभरफलङ्गळ् ईश्वरशेषभूतङ्गळॆऩ्ऱुम्, ज्ञानवाऩऩ्ऱिक्के इरुक्कुमवऩुक्कुम् इन्द समर्पणम् सॆय्यलामॆऩ्ऱु सॊल्लुगिऱ आळवन्दार् स्तोत्रवचनत्तिऱ्कु तात्पर्यमॆऩ्ऩ वॆऩ्ऱु शङ्गित्तु समाधानमरुळिच्चॆय्गिऱार् स्तोत्रत्तिलित्यादिना । वपुरादिष्वित्यादि । अस्यायमर्थः । वपुरादिषु – शरीरम् मुदलाऩदुगळिल्, इङ्गु आदिशब्दत्ताल् इन्द्रियादिगळुक्कु ग्रहणम्। योऽपि कोऽपि वा – अहं वपुरादिषु यः कश्चन स्यामित्यर्थः । प्रमाणसिद्धमाऩ अहमर्थत्तिऱ्कु सारभूतमाऩत्वच्छेषत्वत्तिल् मम निर्बन्धः न त्वहमर्थः शरीरं वा इन्द्रियं वा प्राणो वा इत्यत्र । इङ्गु देहात्मभ्रमम् अस्तु वा मा वा । ‘‘योऽहमस्मि स सन्यजे’’ ऎऩ्गिऱ न्यायत्तै यिङ्गु आश्रयिक्किऱेऩॆऩ्ऱभिप्रायम्। इप्पडि शेषत्वम् प्रधानमाऩालुम् ज्ञातृत्वादिगळुमऱियवेण्डावो वॆऩ्ऩवरुळिच् चॆय्गिऱार् गुणतोऽसानि यथा तथाविध इति । अणुत्वविभुत्वज्ञातृत्वादिविवेकमाऩदु इङ्गु अतीवापेक्षितमऩ्ऱु। अपेक्षितमाऩालुम् तत्परिज्ञानत्तिलॆऩक्कु शक्तियिल्लै। स्वतस्सर्वज्ञऩाऩ नी ऎप्पडि ऎण्णुगिऱायो नाऩ् अप्पडिप्पट्टवऩॆऩ्गिऱ सामान्यज्ञान मुडैयवऩ्। तत् – एतावतापि प्रस्तुतशास्त्रार्थविरोधाभावादित्यर्थः । अयमहं – त्वदनुसंहितमाऩ यथावस्थिताकारऩाय् शरणवरणानुगुणार्थित्वसामर्थ्यवाऩायिरुक्किऱ नाऩ्, तव पादपद्मयोस्समर्पितः - उऩ्ऩुडैय तिरुवडित्तामरैगळिले ‘‘यस्यास्मि न तमन्तरेमि’’ ऎऩ्गिऱ न्यायत्ताले त्वच्छेषत्वेन समर्पित इत्यर्थः । मया – त्वद्दत्तकरणकळेबरबुद्धिश्रद्धादिशालिना, स्मर्यते हि — ‘‘विचित्रा देहसम्पत्तिः ईश्वराय निवेदितुम् । पूर्वमेव कृता ब्रह्मन् हस्तपादादिसंयुता ॥’’ ऎऩ्ऱु। इतः परं त्वया सह विवादो मे न भविष्यति ऎऩ्गिऱ अभिप्रायत्ताले सॊल्लुगिऱार् अद्यैवेति । ऎऩ्गिऱदुक्कुत् तात्पर्य मॆऩ्ऩॆऩ्ऩिल् - समर्पणीयवस्तुविऩ् स्वरूपगुणादिगळ् नऩ्ऱागत् तॆरियाविडिलुम् शेषियिऩिडत्तिल् अदै समर्पिक्कलामॆऩ्गिऱदऱ्कु तात्पर्यमॆऩ्ऩॆऩ्ऩिल्। 
+</details>
+
+
 
 If a man has (somehow) come into possession of a cloth bag with the king's seal on it, he would return the bag (to the king), even though he does not know for certain the nature and character of the gem contained within it, in the hope that the king would take it back. So also even those who have not the intelligence to know, with perfect clearness, the nature, character and state of the soul as distinguished from the body may surrender their self or soul with the little knowledge that they possess. If they do so, even for that much, Bhagavān will be prepared to remit the punishment for the theft consisting in making away with one's self (i. e. claiming it as one's own) from beginningless time. This idea contained in the śāstras is what (Aḷavandār) has in mind. In the next *śloka  (53)[^53] it might appear as if he revoked the surrender (made before); but its meaning is only this : Even when a person is bent on surrendering his self without a knowledge of such things as the nature of his self, if he surrenders it with the notion that it is his own, like the presentation to a king of something belonging to oneself, it would not completely put an end to the crime of having stolen one's self. It does not mean that Aḷavandār considered his self surrender made in śloka  52 in accordance with the injunctions contained in the śāstras, as having been made in ignorance.
 
