@@ -1080,9 +1080,36 @@ Therefore,
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-स्व-निर्भरत्व-पर्यन्तरक्षकैकार्थ्यभावनम् ।  
-त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
+स्व-निर्भरत्व-पर्यन्त-  
+रक्षकैकार्थ्य-भावनम् ।  
+त्यक्त-रक्षा-फल-स्वाम्यं  
+रक्ष्यस्यात्म-**समर्पणम्** ॥ २८-इ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-निर्भरत्व-पर्यन्त-  
+रक्षकैकार्थ्य-भावनम् ।  
+त्यक्त-रक्षा-फल-स्वाम्यं  
+रक्ष्यस्यात्म-**समर्पणम्** ॥ २८-इ॥
+</details>
+
+<details><summary>English</summary>
+
+ātmasamarpanam (the surrendering of the self to the Lord for protection) means here  
+the realisation of the self as existing solely for the purpose of the Saviour  
+and that to such an extent that the self feels no further responsibility, whatever, for its own protection  
+and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. 
+</details>
+
+<details><summary>Español</summary>
+
+ātmasamarpanam (the surrendering of the self to the Lord for protection) means here  
+the realisation of the self as existing solely for the purpose of the Saviour  
+and that to such an extent that the self feels no further responsibility, whatever, for its own protection  
+and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. 
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -1090,11 +1117,76 @@ Therefore,
 त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
 </details>
 
-ātmasamarpanam (the surrendering of the self to the Lord for protection) means here the realisation of the self as existing solely for the purpose of the Saviour and that to such an extent that the self feels no further responsibility, whatever, for its own protection and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. The purport of the śloka  in Aḷavandār's Stotra (52)
+<details><summary>सायण-टीका</summary>
 
-“वपुरादिषु योऽपि कोऽपि वा गुणतोऽसानि यथा तथाविधः । तदयं तव पादपद्मयोरहमद्यैव मया समर्पितः”(आळवन्दार् स्तोत्रम् 52.)
+स्वनिर्भरत्वपर्यन्तेत्यादि । रक्ष्यस्य – रक्ष्यभूतवस्तुवुक्कु; आत्मात्मीय माऩ रक्ष्यभूतवस्तुवुक्कॆऩ्ऱबडि। आत्मसमर्पणम् - ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ आत्मसमर्पणमाऩदु। त्यक्तरक्षाफलस्वाम्यं – रक्षाफल ऎऩ्बदु स्वरूपत्तिऱ्कुम् उपलक्षणम्। तथा च स्वरूपरक्षाफलानां स्वाम्यं त्यक्तं यस्मिन् तत् । इदु भावऩैयिल् अन्वयिक्किऱदु। इदऩाल् स्वरूपभरफलङ्गळिल् स्वसम्बन्धत्यागम् सॊल्लप्पडुगिऱदु। स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनं – स्वनिर्भरत्वपर्यन्तं च तत् रक्षकैकार्थ्यभावनञ्चेति शीतोष्णवत्समासः । ‘‘मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति’’ ऎऩ्ऱु सॊऩ्ऩ निर्भरत्वं पर्यन्तमवसाने यस्य तत् स्वनिर्भरत्वपर्यन्तम् । इतः परं मम रक्षायां भरो नास्तीति यथा दृढाध्यवसायः अन्ते भवेत् तादृशमिति यावत् । रक्षकैकार्थ्यभावनं – रक्षकस्य – भगवतः, ऐकार्थ्यं – तस्यैकस्यैव इमे स्वरूपरक्षाभरफलरूपार्थाः नान्यस्य । इति भावनं – रक्षकैकार्थ्यभावनं, कीऴ् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ विडत्तिल् स्वरूपभरफलानां स्वसम्बन्धत्यागम् सॊल्लियिरुप्पदाल् तेषामेव रक्षकैकार्थ्यभावन मिङ्गु अवश्यम् कॊळ्ळवेण्डुम्। इदऩाल् आत्मसमर्पणम् स्वरूपभरफलङ्गळुक्कु स्वनिर्भरत्वपर्यन्तमाऩ परसम्बन्धानुसन्धानम् ऎऩ्ऱु निगमिक्कप्पट्टदु। तथाच ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ केवलात्मनिक्षेपमात्रमऩ्ऱिक्के, ‘‘आत्मात्मीयभरन्यासः’’ ‘‘केशवार्पण पर्यन्ता’’ ऎऩ्ऱु कीऴ् उदाहरित्त वचनङ्गळ् सॊल्लुवदैयुमनुसरित्तु रक्षकऩिडत्तिल् स्वनिर्भरत्वपर्यन्तमाऩ स्वरूपभरफलसमर्पणमागवे निर्णयिक्कप्पट्टदायिऱ्ऱु। इदिल् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ पदत्ताले इम्मूऩ्ऱुक्कुम् स्वसम्बन्धत्यागमुम् भाविक्कवेण्डुमॆऩ्ऱु सॊल्लप्पट्टदु। स्वरूपभरफलसमर्पणङ्गळै प्रत्येकम् आत्मनिक्षेपमागक् कीऴ्च् चॊऩ्ऩ वचनङ्गळिल् सॊल्लियिरुप्पदाल् स्वरूपभरफलङ्गळुडैय रक्षकैकार्थ्यभावनम् आत्मनिक्षेपशब्दत्ताले मुख्ययैव वृत्त्या अदावदु शक्त्या सॊल्लप्पडुगिऱदॆऩ्ऱु करुत्तु।   
+</details>
 
-which says "Whatever I may be in the body, the senses and the like, and whatever may be the qualities of my Nature, I who know that I am Thy śeṣa hereby surrender myself at this very moment at thy two lotus-like feet" -- the purport of this śloka  is as follows:
+## स्तोत्रेऽनुसन्धानम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्तोत्रत्तिल् 
+
+> ‘‘वपुर्-आदिषु योऽपि कोऽपि वा  
+> गुणतोऽसानि यथा तथा-विधः ।  
+> तद् अयं तव पाद-पद्मयोर्  
+> अहम् अद्यैव मया समर्पितः’’  
+> (आळवन्दार् स्तोत्रम् ५२।) 
+
+ऎऩ्गिऱत्तुक्कुत् तात्पर्यम् ऎऩ्ऩ् ऎऩ्ऩिल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्तोत्रे,
+
+> ‘‘वपुर्-आदिषु योऽपि कोऽपि वा  
+> गुणतोऽसानि यथा तथा-विधः ।  
+> तद् अयं तव पाद-पद्मयोर्  
+> अहम् अद्यैव मया समर्पितः’’  
+> (आळवन्दार् स्तोत्रम् ५२।) 
+
+इत्यस्य किं तात्पर्यम् इति चेत् —
+</details>
+
+<details><summary>English</summary>
+
+The purport of the śloka  in Aḷavandār's Stotra (52) which says 
+
+> "Whatever I may be in the body, the senses and the like,  
+> and whatever may be the qualities of my Nature,  
+> I who know that I am Thy śeṣa  
+> hereby surrender myself at this very moment at thy two lotus-like feet"
+
+-- the purport of this śloka  is as follows:
+</details>
+
+<details><summary>Español</summary>
+
+The purport of the śloka  in Aḷavandār's Stotra (52) which says 
+
+> "Whatever I may be in the body, the senses and the like,  
+> and whatever may be the qualities of my Nature,  
+> I who know that I am Thy śeṣa  
+> hereby surrender myself at this very moment at thy two lotus-like feet"
+
+-- the purport of this śloka  is as follows:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्तोत्रत्तिल् ‘‘वपुरादिषु योऽपि कोऽपि वा गुणतोऽसानि यथा तथाविधः । तदयं तव पादपद्मयोरहमद्यैव मया समर्पितः’’ (आळवन्दार् स्तोत्रम् ५२।) ऎऩ्गिऱत्तुक्कुत् तात्पर्यमॆऩ्ऩॆऩ्ऩिल्, 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि आत्मसमर्पणम् रक्षकैकार्थ्यभावनमाग अदावदु स्वरूपभरफलङ्गळ् रक्षकऩाऩ भगवाऩॊरुवऩुक्के शेषभूतङ्गळॆऩ्ऱु भाविक्कैयाग मुडिन्दाल् तत्त्ववित्तऩ्ऱिक्के अदावदु रक्षकऩ् ईश्वरऩॆऩ्ऱुम् रक्ष्यऩ् ताऩॆऩ्ऱुम् स्वरूपभरफलङ्गळ् ईश्वरशेषभूतङ्गळॆऩ्ऱुम्, ज्ञानवाऩऩ्ऱिक्के इरुक्कुमवऩुक्कुम् इन्द समर्पणम् सॆय्यलामॆऩ्ऱु सॊल्लुगिऱ आळवन्दार् स्तोत्रवचनत्तिऱ्कु तात्पर्यमॆऩ्ऩ वॆऩ्ऱु शङ्गित्तु समाधानमरुळिच्चॆय्गिऱार् स्तोत्रत्तिलित्यादिना । वपुरादिष्वित्यादि । अस्यायमर्थः । वपुरादिषु – शरीरम् मुदलाऩदुगळिल्, इङ्गु आदिशब्दत्ताल् इन्द्रियादिगळुक्कु ग्रहणम्। योऽपि कोऽपि वा – अहं वपुरादिषु यः कश्चन स्यामित्यर्थः । प्रमाणसिद्धमाऩ अहमर्थत्तिऱ्कु सारभूतमाऩत्वच्छेषत्वत्तिल् मम निर्बन्धः न त्वहमर्थः शरीरं वा इन्द्रियं वा प्राणो वा इत्यत्र । इङ्गु देहात्मभ्रमम् अस्तु वा मा वा । ‘‘योऽहमस्मि स सन्यजे’’ ऎऩ्गिऱ न्यायत्तै यिङ्गु आश्रयिक्किऱेऩॆऩ्ऱभिप्रायम्। इप्पडि शेषत्वम् प्रधानमाऩालुम् ज्ञातृत्वादिगळुमऱियवेण्डावो वॆऩ्ऩवरुळिच् चॆय्गिऱार् गुणतोऽसानि यथा तथाविध इति । अणुत्वविभुत्वज्ञातृत्वादिविवेकमाऩदु इङ्गु अतीवापेक्षितमऩ्ऱु। अपेक्षितमाऩालुम् तत्परिज्ञानत्तिलॆऩक्कु शक्तियिल्लै। स्वतस्सर्वज्ञऩाऩ नी ऎप्पडि ऎण्णुगिऱायो नाऩ् अप्पडिप्पट्टवऩॆऩ्गिऱ सामान्यज्ञान मुडैयवऩ्। तत् – एतावतापि प्रस्तुतशास्त्रार्थविरोधाभावादित्यर्थः । अयमहं – त्वदनुसंहितमाऩ यथावस्थिताकारऩाय् शरणवरणानुगुणार्थित्वसामर्थ्यवाऩायिरुक्किऱ नाऩ्, तव पादपद्मयोस्समर्पितः - उऩ्ऩुडैय तिरुवडित्तामरैगळिले ‘‘यस्यास्मि न तमन्तरेमि’’ ऎऩ्गिऱ न्यायत्ताले त्वच्छेषत्वेन समर्पित इत्यर्थः । मया – त्वद्दत्तकरणकळेबरबुद्धिश्रद्धादिशालिना, स्मर्यते हि — ‘‘विचित्रा देहसम्पत्तिः ईश्वराय निवेदितुम् । पूर्वमेव कृता ब्रह्मन् हस्तपादादिसंयुता ॥’’ ऎऩ्ऱु। इतः परं त्वया सह विवादो मे न भविष्यति ऎऩ्गिऱ अभिप्रायत्ताले सॊल्लुगिऱार् अद्यैवेति । ऎऩ्गिऱदुक्कुत् तात्पर्य मॆऩ्ऩॆऩ्ऩिल् - समर्पणीयवस्तुविऩ् स्वरूपगुणादिगळ् नऩ्ऱागत् तॆरियाविडिलुम् शेषियिऩिडत्तिल् अदै समर्पिक्कलामॆऩ्गिऱदऱ्कु तात्पर्यमॆऩ्ऩॆऩ्ऩिल्। 
+</details>
+
+
 
 If a man has (somehow) come into possession of a cloth bag with the king's seal on it, he would return the bag (to the king), even though he does not know for certain the nature and character of the gem contained within it, in the hope that the king would take it back. So also even those who have not the intelligence to know, with perfect clearness, the nature, character and state of the soul as distinguished from the body may surrender their self or soul with the little knowledge that they possess. If they do so, even for that much, Bhagavān will be prepared to remit the punishment for the theft consisting in making away with one's self (i. e. claiming it as one's own) from beginningless time. This idea contained in the śāstras is what (Aḷavandār) has in mind. In the next *śloka  (53)[^53] it might appear as if he revoked the surrender (made before); but its meaning is only this : Even when a person is bent on surrendering his self without a knowledge of such things as the nature of his self, if he surrenders it with the notion that it is his own, like the presentation to a king of something belonging to oneself, it would not completely put an end to the crime of having stolen one's self. It does not mean that Aḷavandār considered his self surrender made in śloka  52 in accordance with the injunctions contained in the śāstras, as having been made in ignorance.
 
