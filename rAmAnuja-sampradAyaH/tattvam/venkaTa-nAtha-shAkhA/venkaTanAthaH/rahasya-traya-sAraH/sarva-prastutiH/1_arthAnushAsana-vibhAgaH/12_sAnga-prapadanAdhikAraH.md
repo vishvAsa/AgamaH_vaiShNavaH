@@ -956,8 +956,7 @@ Being the śeṣī  of all, He is the chief beneficiary.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अचेतनमाऩ कुऴ-मणऩैय्+++(=पुत्तलिकां)+++ अऴित्तुप्+++(=अन्यथा)+++ पण्णियुम्  
-आभरणम् पूट्टियुम्  
+अचेतनम् आऩ कुऴ-मणऩैय्+++(=पुत्तलिकां)+++ अऴित्तुप्+++(=नाशयित्वा)+++ पण्णियुम् आभरणम् पूट्टियुम् +++(=अलङ्कृत्य)+++  
 अऴगु कण्डु उगक्किऱदोडु, 
 </details>
 
@@ -969,19 +968,119 @@ Being the śeṣī  of all, He is the chief beneficiary.
 तत्-सौन्दर्यस्य दर्शनेन नन्दने,  
 </details>
 
+<details><summary>English</summary>
+
+the delight in melting dolls made of metals and shaping them into ornaments  
+and wearing them in admiration of their beauty  
+is not different (in kind)  
+</details>
+
+<details><summary>Español</summary>
+
+the delight in melting dolls made of metals and shaping them into ornaments  
+and wearing them in admiration of their beauty  
+is not different (in kind)
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 अचेतनमाऩ कुऴमणऩै यऴित्तुप्पण्णियुम् आभरणम् पूट्टियुमऴगु कण्डु उगक्किऱदोडु, 
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-To a man of cultivated tastes, who is not in need of anything,  
-the delight in melting dolls made of metals and shaping them into ornaments and wearing them in admiration of their beauty is not different (in kind) from the delight enjoyed by him in keeping a sentient being like a parrot in a cage and feeding it with milk and seeing it fly according to His pleasure.
+जीवऩ् चेतनऩागैयाले अवऩुक्कुम् पुरुषार्थसम्बन्धत्ताले उगप्पु उण्डागुमागैयाल् भगवाऩ् प्रधानफलियागक्कूडुमोवॆऩ्ऩ लोकदृष्टप्रक्रियैयाले समाधानमरुळिच्चॆय्गिऱार् अचेतनमाऩ कुऴमणऩै इत्यादिना । कुऴमणऩ् - मृत्-सुवर्णादिगळाले सॆय्यप् पट्ट विग्रहम्। अदावदु प्रतिमै। अऴित्तुप्पण्णियुम् - पूर्वरूपम् पोगुम्बडिय् आग अऴित्तु नवीऩमागप् पण्णियुम्। आभरणम् पूट्टियुम् अदऱ्कु शोभावहमाऩ आभरणत्तैप् पूट्टियुम्, अऴित्तुप् पण्णियुमॆऩ्ऱदु ईश्वरऩ् संहारसृष्ट्यादिगळैप् पण्णि अचित्तुक्कु स्वरूपपरिणामत्तै युण्डाक्कुवदिल् दृष्टान्तम्। आभरणम् पूट्टियुमॆऩ्ऱदु अव्वो भूतङ्गळिऩ् गन्धादिरूपस्वभावपरिणामवैचित्र्यजनकत्वे दृष्टान्तम्। 
+अऴगुगण्डु उगक्किऱदोडु इति । कुऴमणऩ् अचेतनमागैयाले तऩ्ऩुडैय विचित्रमाऩ परिणामत्तालुम् आभरणादिशोभैयालुम् उगक्कमाट्टादागैयाल् तत्सम्बन्धिचेतनऩाऩ शेषिक्के यदऩाल् उगप्पु उण्डागवेण्डुमागैयाल् अङ्गु ऎप्पडि अवऩे प्रधानफलियागिऱाऩो अप्पडिये ऎऩ्बदु दृष्टान्ततात्पर्यम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+चेतनम् आऩ किळियै  
+पञ्जरत्तिल् **वैत्तुप्**, पाल् कॊडुत्तुम्,  
+वेण्डिऩ बडि पऱक्क विट्टुम्  
+अदिऩ् उगप्पु कण्डु उगक्किऱद्-ओडुव्  
+आसिय् इल्लैयिऱे निरपेक्षर् आऩ रसिकर्क्कु।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+चेतनस्य शुकस्य पञ्जरे निधानपूर्वं क्षीरदानेन  
+स्वैरं बहुलं सञ्चारणेन च  
+तदीयानन्दस्य दर्शनेन नन्दने च  
+नास्ति किल तारतम्यं निरपेक्षाणां रसिकानाम् ॥ 
+</details>
+
+<details><summary>English</summary>
+
+... from the delight enjoyed by him  
+in keeping a sentient being like a parrot in a cage  
+and feeding it with milk  
+and seeing it fly according to His pleasure,  
+to a man of cultivated tastes,  
+who is not in need of anything.
+</details>
+
+<details><summary>Español</summary>
+
+... from the delight enjoyed by him  
+in keeping a sentient being like a parrot in a cage  
+and feeding it with milk  
+and seeing it fly according to His pleasure,  
+to a man of cultivated tastes,  
+who is not in need of anything.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+चेतनमाऩ किळियै पञ्जरत्तिल् वैत्तुप् पाल् कॊडुत्तुम् वेण्डिऩबडि पऱक्कविट्टुम् अदिऩुगप्पु कण्डु उगक्किऱदोडुव् आसिय् इल्लैयिऱे निरपेक्षराऩ रसिकर्क्कु।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+शेषभूतऩ् चेतनऩायिरुन्दालुम् अवऩुक्कु वरुम् पुरुषार्थङ्गळाले शेषिक्के प्रधानमाऩ उगप्पॆऩ्बदिल् दृष्टान्तमरुळिच्चॆय्गिऱार् चेतनमाऩ किळियै इत्यादिना । पञ्जरत्तिल् वैत्तुप् पाल्गॊडुत्तुमिति । पञ्जरम् - कूण्डु। इदु चेतनऩुडैय संहारत्तिल् दृष्टान्तम्। इवऩुक्कुम् स्वरूपनाशमऩ्ऱिक्के सूक्ष्मप्रकृतियिले सङ्कुचितत्वेन इरुक्कैयिऱे संहारम्। पाल् कॊडुत्तुमॆऩ्ऱदु करणकळेबरस्वर्गादिप्रदानत्तिल् दृष्टान्तम्। अथवा पञ्जरत्तिल् वैत्तुप् पाल्गॊडुत्तुमॆऩ्ऱदु शरीरत्तिऱ्कुळ्ळे वैत्तु चेतनऩुक्कु स्वर्गादिभोगङ्गळैक् कॊडुप्पदऱ्कु दृष्टान्तम्। वेण्डिऩबडि पऱक्कविट्टुमिति । इदु ‘‘सर्वेषु लोकेषु कामचारो भवति’’ ऎऩ्गिऱ मोक्षावस्थैयैयुण्डुबण्णुवदिल् दृष्टान्तम्। अदिऩुगप्पु कण्डु उगक्किऱदोडु वासियिल्लैयिऱे इति । अदिऩुगप्पु ऎऩ्बदाल् किळिक्कुम् अवान्तरफलित्वम् सॊल्लप्पट्टदु। कण्डु उगक्किऱदोडु ऎऩ्बदाल् अदैप् पार्त्तु उगक्कैयागिऱ शेषियिऩुडैय प्रधानफलम् सॊल्लप्पट्टदु। लोकत्तिल् किळि वळर्प्पदु किळियिऩुडैय मधुरभाषणस्वच्छन्दविहारादिगळैक्कण्डु ताऩ् उगप्पदऱ्कागवे यॊऴिय किळियिऩ् सन्तोषार्थमऩ्ऱिऱे। शेषिक्कु शेषभूतमाऩ अचेतनत्तिऩुडैय परिणामादिगळैक् कण्डु उगप्पदे यॆप्पडि प्रधानोद्देश्यमो अप्पडिये शेषभूतऩाऩ चेतऩुडैय पुरषार्थानुभवजनितसन्तोषत्तैक्कण्डु उगप्पदे प्रधानमाग लोकत्तिल् काण्गैयाल् रक्षाभरसमर्पणजन्यमाऩ रक्षाफलमाऩ स्वर्गापवर्गादिगळुक्कु चेतनऩ् अवान्तरफलियाऩालुम् अवऩुक्कु वरुम् स्वर्गापवर्गादिगळैक् कण्डु भगवाऩुक्कु वरुम् उगप्पे प्रधानफलमागैयाल् प्रधानफलित्वम् अवऩुक्कु वरत् तट्टिल्लैयॆऩ्ऱु करुत्तु। निरपेक्षराऩ इति । निरपेक्षराऩ - अबेक्षैयिल्लाद। रसिकर्क्कु - लीलारसानुभोक्ताक्कळुक्कु। इदऱ्कु पूर्वोक्तमाऩ वासियिल्लैयिऱे ऎऩ्बदोडन्वयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ पिऩ्बु इङ्गु -   
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतोऽत्र- 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore, 
+</details>
+
+<details><summary>Español</summary>
+
+Therefore, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩ पिऩ्बु इङ्गु -   
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आऩबिऩ्बु इत्यादि । आऩबिऩ्बु - प्रधानफलित्वम् अवऩदागवाऩ पिऩ्बु। इङ्गु मुमुक्षुवाऩ इव्वधिकारिक्कु। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनम् ।  
+स्व-निर्भरत्व-पर्यन्तरक्षकैकार्थ्यभावनम् ।  
 त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
 </details>
 
@@ -991,7 +1090,7 @@ the delight in melting dolls made of metals and shaping them into ornaments and 
 त्यक्तरक्षाफलस्वाम्यं रक्ष्यस्यात्मसमर्पणम् ॥ २८-इ॥
 </details>
 
-Therefore, ātmasamarpanam (the surrendering of the self to the Lord for protection) means here the realisation of the self as existing solely for the purpose of the Saviour and that to such an extent that the self feels no further responsibility, whatever, for its own protection and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. The purport of the śloka  in Aḷavandār's Stotra (52)
+ātmasamarpanam (the surrendering of the self to the Lord for protection) means here the realisation of the self as existing solely for the purpose of the Saviour and that to such an extent that the self feels no further responsibility, whatever, for its own protection and this should be accompanied by the knowledge that the fruits of such surrender are not one's own. The purport of the śloka  in Aḷavandār's Stotra (52)
 
 “वपुरादिषु योऽपि कोऽपि वा गुणतोऽसानि यथा तथाविधः । तदयं तव पादपद्मयोरहमद्यैव मया समर्पितः”(आळवन्दार् स्तोत्रम् 52.)
 
