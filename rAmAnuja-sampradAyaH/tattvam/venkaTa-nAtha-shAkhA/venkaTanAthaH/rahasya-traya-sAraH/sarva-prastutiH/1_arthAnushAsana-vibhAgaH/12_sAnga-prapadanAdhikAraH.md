@@ -482,9 +482,111 @@ As stated in the śloka  -
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आत्मा राज्यं धनं चैव  
+> कलत्रं वाहनानि च ।  
+> एतद् भगवते सर्वम्  
+> इति +++(रक्षणायापि)+++ तत्-प्रेक्षितं सदा’’+++(5)+++  
+> (भारतम् शान्ति-पर्व ३४३-२४) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘आत्मा राज्यं धनं चैव  
+> कलत्रं वाहनानि च ।  
+> एतद् भगवते सर्वम्  
+> इति +++(रक्षणायापि)+++ तत्-प्रेक्षितं सदा’’+++(5)+++  
+> (भारतम् शान्ति-पर्व ३४३-२४) 
+</details>
+
+<details><summary>English</summary>
+
+> "I and what is mine are His.  
+> The responsibility of protecting these is also that of the Lord  
+> who is the universal Protector" 
+</details>
+
+<details><summary>Español</summary>
+
+> "I and what is mine are His.  
+> The responsibility of protecting these is also that of the Lord  
+> who is the universal Protector" 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘आत्मा राज्यं धनं चैव कळत्रं वाहनानि च । एतद्भगवते सर्वमिति तत्प्रेक्षितं सदा’’ (भारतम् शान्ति-पर्व ३४३-२४) 
+</details>
 
 
-Just as the wise Uparicharvasu always felt that his soul, his kingdom, his wealth, his wife, and his vehicles were all for Bhagavān, we should also say, "I and what is mine are His. The responsibility of protecting these is also that of the Lord who is the universal Protector" for it is said : " the surrender of the responsibility for one's self and of what is one's is called atmanikṣepa." " There is no one other than Bhagavān who is capable of affording protection ". The fruit of this protection should also be considered primarily His, for it has been said, "Ātmanikṣepa consists (also) in giving up all relationship to the fruit resulting from His protection and surrendering it (viz the fruit) to Keśava "who is the chief beneficiary".
+<details><summary>सायण-टीका</summary>
+
+इप्पडि स्वरूपभरफलङ्गळुक्कु स्वसम्बन्धत्यागभावऩैयैक् काट्टि अवैगळिल् परसम्बन्धानुसन्धानप्रकारत्तैक् काट्टुगिऱार् आत्मेत्यादिना । इन्द वचनम् भारतत्तिल् शान्तिपर्वत्तिल् उपरिचरवसुविषयम्। आत्मादिसर्वं भगवत इति तादर्थ्ये चतुर्थी भगवाऩुक्कु शेषभूतमॆऩ्ऱु। सदा तत्प्रेक्षितं – भावे क्तः । तस्य प्रेक्षणमिति यावत् । इप्पडि लोकत्ताराल् स्वीयमाग अभिमानिक्कप्पट्टवैगळॆल्लाम् सर्वदा भगवाऩुक्के शेषभूतमॆऩ्ऱे अवराले अभिमानिक्कप्पट्टदॆऩ्ऱु करुत्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु विवेकिगळ् अनुसन्धित्त क्रमत्तिले  
+ऎऩ्ऩ्-उडैय आात्मात्मीयङ्गळुम् अवऩदे, 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु विवेकिकळ् अनुसन्धित्त क्रमत्तिले ऎऩ्ऩुडैय आात्मात्मीयङ्गळुमवऩदे, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति विवेक्य्-अनुसंहित-क्रमेण  
+मदीयानि आत्मात्मीयान्यपि तदीयान्य् एव  
+</details>
+
+
+<details><summary>English</summary>
+
+Just as the wise Uparicharvasu always felt that his soul, his kingdom, his wealth, his wife, and his vehicles were all for Bhagavān,  
+we should also say (this) 
+
+</details>
+
+<details><summary>Español</summary>
+
+Just as the wise Uparicharvasu always felt that his soul, his kingdom, his wealth, his wife, and his vehicles were all for Bhagavān,  
+we should also say (this) 
+
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्ऱु - ऎऩ्गिऱबडि, विवेकिकळ् - ऒऩ्ऱिलुम् स्वीयत्वाभिमानमिल्लामल् भगवदीयत्वाभिमानमे युळ्ळ उपरिचरवस्वादिगळ्, अनुसन्धित्त क्रमत्तिले - अनुसन्धित्त प्रकारत्तिले, इन्द श्लोकत्तिल् आत्मावैयुम् आत्मीयङ्गळैयुम् भगवच्छेषमाग अनुसन्धित्त क्रमत्तिले यॆऩ्ऱबडि। ऎऩ्ऩुडैय आत्मात्मीयङ्गळुम् अवऩदे इति । ऎऩ्ऩुडैय ऎऩ्गिऱविडत्तिल् सम्बन्धसामान्यषष्ठिक्कु सम्बन्धित्वेनाभिमानविषयत्वम् अर्थम्। तथाच मत्सम्बन्धित्वेनाभिमतमाऩ; लोकत्तारालेयो मया वा मत्सम्बन्धित्वेनाभिमानिक्कप्पट्ट ऎऩ्ऱबडि। आत्मात्मीयङ्गळुम् अवऩदे - आत्मस्वरूपमुम् तदीयमुम् अवऩुक्कु शेषभूतमे। ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्गिऱ विधायकवाक्यत्तिल् आत्ममात्रत्तिऱ्कु निक्षेपम् विहितमाऩालुम् उपरिचरवसुवाक्यत्तिल् आत्मीयङ्गळुक्कुम् भगवच्छेषत्वानुसन्धानम् श्रुतमागैयाले तदनुसारेणविधिवाक्यत्तिलुम् आत्मीयङ्गळुक्कुम् निक्षेपम् विहितमॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आत्मात्मीय-भरन्यासो  
+ह्य् आत्म-निक्षेप उच्यते’’ (लक्ष्मीतन्त्रम् १७-७९।) +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘आत्मात्मीय-भरन्यासो  
+ह्य् आत्म-निक्षेप उच्यते’’ (लक्ष्मीतन्त्रम् १७-७९।) +++(5)+++
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आत्मात्मीयभरन्यासो ह्यात्मनिक्षेप उच्यते’’ (लक्ष्मीतन्त्रम् १७-७९।) 
+</details>
+
+
+
+for it is said : " the surrender of the responsibility for one's self and of what is one's is called atmanikṣepa." " There is no one other than Bhagavān who is capable of affording protection ". The fruit of this protection should also be considered primarily His, for it has been said, "Ātmanikṣepa consists (also) in giving up all relationship to the fruit resulting from His protection and surrendering it (viz the fruit) to Keśava "who is the chief beneficiary".
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
