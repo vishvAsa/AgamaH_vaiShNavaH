@@ -248,11 +248,12 @@ The manner in which this form of mental realisation contained in the injunction 
 इन्द शेषत्वानुसन्धानविशेषत्तै अनुष्ठिक्कुम् प्रकारत्तैक् काट्टुगिऱार् स्वात्मानं मयि निक्षिपेदित्यादिना । इन्द वचनम् भगवाऩिडत्तिल् आत्माविऩुडैय निक्षेपत्तै विधिक्किऱदु। ऎऩ्ऱु चोदितमाऩ - इव्वचनत्तिल् सॊऩ्ऩबडि विहितमाऩ, इव्वनुसन्धानविशेषत्त - फलभरन्यासगर्भमाऩ कीऴ्च्चॊऩ्ऩ शेषत्वानुसन्धानविशेषत्तै, अनुष्ठिक्कुम्बडि - अनुष्ठिक्कुम् प्रकारम्। इदऱ्कु भाविक्कै यॆऩ्बदोडन्वयम्। 
 </details>
 
+### पारतन्त्र्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > शेषिय् आय् स्व-तन्त्रऩ् आऩ ईश्वरऩ्  
-तऩ् प्रयोजनम् आगवे, ताऩे रक्षिक्कुम् बडिक्क् ईडाग  
-अनन्यार्हानन्याधीन-शेष-भूतऩ् आय् अत्यन्त-पर-तन्त्रऩ् आऩ नाऩ्  
+तऩ् प्रयोजनम् आगवे, ताऩे रक्षिक्कुम् पडिक्क् ईडाग  
+अनन्यार्हानन्याधीन-शेष-भूतऩ् आय् अत्यन्त-**पर-तन्त्रऩ्** आऩ नाऩ्  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -358,9 +359,10 @@ I do not belong to myself,
 ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्गिऱ वचनत्तिल् परस्वत्वापादनमात्रम् सॊल्लियिरुक्किऱदे यॊऴिय स्वसम्बन्धिनिवृत्ति श्रुतमागविल्लैये यॆऩ्ऩ? अदिल् प्रमाणमरुळिच्चॆय्गिऱार् आत्मापि चायं न मम ऎऩ्गिऱबडिये इत्यादिना । अपि च शब्दत्ताले आत्मीयसङ्ग्रहः । इन्द प्रमाणबलत्ताले स्वसम्बन्धत्यागमुम्, मयि निक्षिपेत् ऎऩ्गिऱ परस्वत्वापादकविधिवाक्यत्तिल् विवक्षितमॆऩ्ऱु करुत्तु। उरियेऩल्लेऩ् - योग्यऩल्लेऩ्। नाऩ् ऎऩक्कु शेषऩागैक्कु उरियेऩल्ले ऩॆऩ्ऱबडि। ऒऩ्ऱै - ऒरु वस्तुवैयुम्, ऎऩ्ऩदॆऩ्ऱवुम् उरियेऩल्लेऩ् - मदीयमॆऩ्ऱु अभिमानिक्कैक्कुम् योग्यऩल्लेऩ्। 
 </details>
 
+### अस्वामिता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऒऩ्ऱै निरुपाधिकम् आग ऎऩ्ऩदॆऩ्ऱवुम् उरियेऩ् अल्लेऩ्, 
+ऒऩ्ऱै निरुपाधिकम् आग ऎऩ्ऩद् ऎऩ्ऱवुम् उरियेऩ् अल्लेऩ्, 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -390,7 +392,7 @@ nor can I say that any thing belongs to me unconditionally.
 आत्मीयमाऩ इव्वस्तुक्कळै ऎऩ्ऩदॆऩ्ऱभिमानिक्कक् काण्गिऱोमे यॆऩ्ऱु शङ्कियामैक्काग निरुपाधिकेति । अन्द अभिमानम् सोपाधिकशेषवस्तुविषयकमागैयाल् बाधकमिल्लै यॆऩ्ऱु करुत्तु। यागत्तिल् इन्द्राय इदं न मम ऎऩ्गिऱ विडत्तिल् इन्द्रोद्देशेन समर्पितहविस्सिल् स्वसम्बन्धत्यागम् पोले भगवच्छेषतयानुसंहितमाऩ आत्माविल् स्वशेषत्वाभावप्रतिसन्धानमुम् भगवच्छेषतयानुसंहितमाऩ आत्मीयङ्गळिल् निरुपाधिकस्वशेषत्वयोग्यताभावप्रतिसन्धानमुम् स्वसम्बन्धत्यागमागिऱदु ऎऩ्ऱ भिप्रायम्। 
 </details>
 
-
+### अ-रक्षकत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 >> ‘‘स्वयं मृत्-पिण्ड-भूतस्य  
@@ -481,7 +483,7 @@ As stated in the śloka  -
 ऎऩ्गिऱबडिये - ऎऩ्ऱु सॊल् लुगिऱबडिये। अन्द वचनत्ताल् ‘‘आत्मानं मयि निक्षिपेत्’’ ऎऩ्गिऱ विधियिल् स्वरक्षणभरत्तिलुम् स्वीयरक्षणभरत्तिलुम् तऩक्कु सम्बन्धत्यागम् विवक्षितमॆऩ्ऱु द्योतितम्। स्वतन्त्रऩायुम् प्रधानफलियायुम् रक्षित्तुक्कॊळ्ळ योग्यऩुमल्लेऩ् इति । स्वतन्त्रऩाय् प्रधानफलिया यिरुन्दालऩ्ऱो रक्षित्तुक्कॊळ्ळ योग्यऩावदु। स्वातन्त्र्यमिल्लामैयालुम् प्रधानफलित्वमिल्लामैयालुम् रक्षित्तुक्कॊळ्ळ योग्यऩल्लऩ् ऎऩ्ऱबडि। इदऩाल् अकिञ्चनऩुक्कु स्वरक्षणार्थव्यापाररूपभरत्तिल् कर्तृत्वेन सम्बन्धमे यिल्लामैयाल् अदिल् तऩक्कु योग्यताभावप्रतिसन्धानमे भरस्य स्वसम्बन्धत्यागमॆऩ्ऱु सॊल्लप्पट्टदु। प्रधानफलि-त्वाभाववचनत्ताले फलत्तिलुम् सम्बन्धत्यागम् सॊल्लप्पट्टदु। 
 </details>
 
-
+### तद्-रक्षकत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘आत्मा राज्यं धनं चैव  
@@ -567,16 +569,31 @@ we should also say (this)
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘आत्मात्मीय-भरन्यासो  
+> ‘‘आत्मात्मीय-भर-न्यासो  
 ह्य् आत्म-निक्षेप उच्यते’’ (लक्ष्मीतन्त्रम् १७-७९।) +++(5)+++
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-> ‘‘आत्मात्मीय-भरन्यासो  
+> ‘‘आत्मात्मीय-भर-न्यासो  
 ह्य् आत्म-निक्षेप उच्यते’’ (लक्ष्मीतन्त्रम् १७-७९।) +++(5)+++
 </details>
 
+<details><summary>English</summary>
+
+for it is said : 
+
+> " the surrender of the responsibility for one's self and of what is one's  
+> is called atmanikṣepa."
+</details>
+
+<details><summary>Español</summary>
+
+for it is said : 
+
+> " the surrender of the responsibility for one's self and of what is one's  
+> is called atmanikṣepa."
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -584,25 +601,383 @@ we should also say (this)
 ‘‘आत्मात्मीयभरन्यासो ह्यात्मनिक्षेप उच्यते’’ (लक्ष्मीतन्त्रम् १७-७९।) 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इन्द विधायकवाक्यत्तिल् आत्मात्मीयङ्गळुडैय भरसमर्पणमुम् विवक्षितमॆऩ्बदिल् प्रमाणम् काट्टुगिऱार् आत्मात्मीयेत्यादिना । आत्मा च आत्मीयश्च आत्मात्मीयौ । तयोः भरः आत्मात्मीयभरः । तस्य न्यासः आत्मभरन्यासः आत्मीयभरन्यासश्चेत्यर्थः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गैयाल् इवऱ्ऱिऩ्-उडैय रक्षण-भरमुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्तेरेषां रक्षणभरोऽपि 
+</details>
 
 
-for it is said : " the surrender of the responsibility for one's self and of what is one's is called atmanikṣepa." " There is no one other than Bhagavān who is capable of affording protection ". The fruit of this protection should also be considered primarily His, for it has been said, "Ātmanikṣepa consists (also) in giving up all relationship to the fruit resulting from His protection and surrendering it (viz the fruit) to Keśava "who is the chief beneficiary".
+<details><summary>मूलम्</summary>
+
+ऎऩ्गैयाल् इवऱ्ऱिऩुडैय रक्षणभरमुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आत्मनिक्षेप उच्यते ऎऩ्गैयालिति । आत्मात्मीयभरन्यासत्तैयुम् आत्मनिक्षेपमॆऩ्ऱु इन्द वचनत्तिल् सॊल्लुगैयाल् स्वात्मानं मयि निक्षिपेत् ऎऩ्गिऱ विधायकवाक्यत्तिल् आत्मात्मीयभरन्यासमुम् आत्मनिक्षेपशब्दवाच्यमागिऱदु ऎऩ्ऱु तिरुवुळ्ळम्। इवऱ्ऱिऩुडैय रक्षणभरमुम् - आत्मात्मीयङ्गळुडैय रक्षणभरमुम्। इदऱ्कु सर्वरक्षकऩाऩ अवऩदे ऎऩ्बदोडन्वयम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘न हि पालन-सामर्थ्यम्  
+> ऋते सर्वेश्वरं हरिम्’’ (विष्णुपुराणम् १-२-२१।)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘न हि पालन-सामर्थ्यम्  
+> ऋते सर्वेश्वरं हरिम्’’ (विष्णुपुराणम् १-२-२१।)
+</details>
+
+<details><summary>English</summary>
+
+> " There is no one other than Bhagavān  
+> who is capable of affording protection ". 
+</details>
+
+<details><summary>Español</summary>
+
+> " There is no one other than Bhagavān  
+> who is capable of affording protection ". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न हि पालनसामर्थ्यमृते सर्वेश्वरं हरिम्’’ (विष्णुपुराणम् १-२-२१।)
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि अवऩदे ऎऩ्ऱु अवधारणम् सॊल्लक्कूडुमो वॆऩ्ऱु शङ्कियामैक्काग नहीति । सर्वेश्वरं हरिमृते पालनसामर्थ्यं न हीत्यन्वयः । सर्वेश्वरत्वमुम् सर्वपापहरत्वमुमिल्लादवऩुक्कु रक्षणसामर्थ्यम् घटियादॆऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱबडिये सर्व-रक्षकऩ् आऩ अवऩदे, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्तरीत्या सर्वरक्षकस्य तस्यैव; 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये सर्वरक्षकऩाऩ अवऩदे, 
+</details>
+
+### प्रधान-रक्ष्ण-फली
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>‘‘तेन संरक्ष्यमाणस्य  
+> फले स्वाम्य्-अवियुक्तता ।  
+> केशवार्पण-पर्यन्ता  
+> ह्य् आत्म-निक्षेप **उच्यते**’’ (लक्ष्मीतन्त्रम् १७-७३।) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+>‘‘तेन संरक्ष्यमाणस्य  
+> फले स्वाम्य्-अवियुक्तता ।  
+> केशवार्पण-पर्यन्ता  
+> ह्य् आत्म-निक्षेप **उच्यते**’’ (लक्ष्मीतन्त्रम् १७-७३।) 
+</details>
+
+<details><summary>English</summary>
+
+> "Ātmanikṣepa consists (also) in giving up all relationship to the fruit  
+> resulting from His protection  
+> and surrendering it (viz the fruit) to Keśava who is the chief beneficiary".
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Ātmanikṣepa consists (also) in giving up all relationship to the fruit  
+> resulting from His protection  
+> and surrendering it (viz the fruit) to Keśava who is the chief beneficiary".
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तेन संरक्ष्यमाणस्य फले स्वाम्यवियुक्तता । केशवार्पणपर्यन्ता ह्यात्मनिक्षेप उच्यते’’ (लक्ष्मीतन्त्रम् १७-७३।) 
+</details>
+
+
+
+<details><summary>सायण-टीका</summary>
+
+रक्षणफलमुम् अवऩदे ऎऩ्बदिल् प्रमाणम् - तेन संरक्ष्यमाणस्येति । स्वाम्यवियुक्तता – तऩक्कु प्रधानस्वामित्ववियुक्ततै, फलत्तुक्कु स्वसम्बन्धनिवृत्तिमात्रम् पोरादु; परसम्बन्धमुमनुसन्धेयमॆऩ्गिऱदु केशवार्पणपर्यन्तेति । आत्मनिक्षेप उच्यते ऎऩ्गिऱबडिये - फलसमर्पणमुम् आत्मनिक्षेपमॆऩ्ऱु सॊल्लुगिऱ इव्वचनत्तिऩ्बडिये। इन्द वचनत्तिल् तऩक्कु प्रधानफलित्वत्यागत्तैयुम्, भगवाऩिडत्तिल् प्रधानफलित्वानुसन्धानत्तैयुम् आत्मनिक्षेपमॆऩ्ऱु सॊल्लियिरुप्पदाल् ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्गिऱ विधायकवाक्यत्तिल् तऩक्कु प्रधानफलित्वत्यागमुम्, भगवाऩुक्के प्रधानफलित्वसम्बन्धमुम् विवक्षितमॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ पडिये  
+रक्षण-फलम् उम् प्रधान-फलिय् आऩ अवऩदेय्  
+ऎऩ्ऱु भाविक्कै।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्तरीत्या रक्षणफलमपि प्रधानफलिनस्तस्यैवेति भावनम् ।
+</details>
+
+<details><summary>English</summary>
+
+The fruit of this protection should also be considered primarily His,  
+for it has been said (thus) 
+</details>
+
+<details><summary>Español</summary>
+
+The fruit of this protection should also be considered primarily His,  
+for it has been said (thus) 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये रक्षणफलमुम् प्रधानफलियाऩ अवऩदे यॆऩ्ऱु भाविक्कै।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अदै अभिलापकशब्दत्ताले यरुळिच्चॆय्गिऱार् रक्षणफलमुम् प्रधानफलियाऩ अवऩदे यॆऩ्ऱु इति । चेतऩाऩ ताऩुम् फलियायिरुक्क फलमवऩदे ऎऩ्ऱवधारणम् पण्णक् कूडुमो वॆऩ्ऱु शङ्कियामैक्काग इङ्गु प्रधानफलियाऩ ऎऩ्ऱु निर्देशः । तऩक्कु वरुगिऱ फलभोगांशम् प्रधानफलियाऩ पतियिऩुडैय भोगत्तिऱ्कु शेषमागैयाल् फलम् अवऩदे ऎऩ्गिऱ अवधारणत्तुक्कुत् तट्टिल्लै। भाविक्कै - अनुसन्धिक्कै। 
+</details>
+
+
+## मुमुक्षु-बुभुक्षु-प्रपन्नेषु समर्पणम्
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-मुमुक्षुमात्रसामान्यं स्वरूपादिसमर्पणं । अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ २८-अ॥ अत्र रक्षाभरन्यासस्समस्सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकाङ्क्षिणाम् ॥ २८-आ॥
+मुमुक्षु-मात्र-सामान्यं  
+स्व-रूपादि-**समर्पणं** ।  
+अ-किञ्चने **भर-न्यासस्**  
+त्व् अधिको ऽङ्गितया **स्थितः** ॥ २८-अ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुमुक्षु-मात्र-सामान्यं  
+स्व-रूपादि-**समर्पणं** ।  
+अ-किञ्चने **भर-न्यासस्**  
+त्व् अधिको ऽङ्गितया **स्थितः** ॥ २८-अ॥
+</details>
+
+<details><summary>English</summary>
+
+To all seekers of mokṣa  (whether bhaktas or prapannas),  
+the surrender of one's svarūpa or self and the rest (i.e) the fruit in common.  
+To one who has no other upāya ((i.e.) prapannā) and is therefore akinchana,  
+the surrender of the responsibility of protection (bharanyása ) is an additional aṅgī. 
+</details>
+
+<details><summary>Español</summary>
+
+To all seekers of mokṣa  (whether bhaktas or prapannas),  
+the surrender of one's svarūpa or self and the rest (i.e) the fruit in common.  
+To one who has no other upāya ((i.e.) prapannā) and is therefore akinchana,  
+the surrender of the responsibility of protection (bharanyása ) is an additional aṅgī. 
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-मुमुक्षुमात्रसामान्यं स्वरूपादिसमर्पणं । अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ २८-अ॥ अत्र रक्षाभरन्यासस्समस्सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकाङ्क्षिणाम् ॥ २८-आ॥
+मुमुक्षुमात्रसामान्यं स्वरूपादिसमर्पणं । अकिञ्चने भरन्यासस्त्वधिकोऽङ्गितया स्थितः ॥ २८-अ॥ 
 </details>
 
-To all seekers of mokṣa  (whether bhaktas or prapannas), the surrender of one's svarūpa or self and the rest (i.e) the fruit in common. To one who has no other upāya ((i.e.) prapannā) and is therefore akinchand, the surrender of the responsibility of protection (bharanyása ) is an additional aṅgī. To all prapannas, whatever may be the object desired by them, the surrender of the responsibility is cominon. To those prapannas who are desirous of (only) mokṣa , the surrender of one's self or svarūpa and also of the fruit arising therefrom is an additional (requirement).
+<details><summary>सायण-टीका</summary>
+
+इप्पडि स्वरूपफलभरसमर्पणङ्गळ् अनुष्ठेयङ्गळॆऩ्ऱु सॊल्लि अदिल् स्वरूपफलसमर्पणांशत्तिऱ्कु मुमुक्षुत्वम् निबन्धनमॆऩ्ऱुम्, भरसमर्पणांशत्तिऱ्कु अकिञ्चनत्वम् निबन्धनमॆऩ्ऱुम् अरुळिच्चॆय्गिऱार् मुमुक्षुमात्रेति । इङ्गु मात्रपदम् कृत्स्नार्थकम्। समानानां भावस्सामान्यम्। तुल्यमित्यर्थः । स्वरूपसमर्पणमुम् फलसमर्पणमुम् भक्तप्रपन्नर्गळाऩ सर्वमुमुक्षुक्कळुक्कुम् सामान्यम्। साधारणमॆऩ्ऱबडि। भरन्यासस्तु – भरन्यासमोवॆऩ्ऱाल्। इङ्गु तु शब्दत्ताले स्वरूप-फलसमर्पणादस्य वैलक्षण्यम् द्योतितम्। अदावदु मुमुक्षुमात्रसामान्यमऩ्ऱिक्केयॊऴिगै। अकिञ्चने – मुमुक्षुवाऩ अकिञ्चनऩ् विषयत्तिल्। अधिकः – अधिकतया कर्तव्यः । अङ्गितया स्थितः – अङ्गियायुमिरुक्कुम्। इन्द श्लोकत्ताल् स्वरूपफलसमर्पणत्तिऱ्कु मुमुक्षुत्वम् निबन्धनमॆऩ्ऱुम्। भरसमर्पणत्तिऱ्कु अकिञ्चनत्वम् निबन्धनमॆऩ्ऱुम्, एऱ्पडुगैयाल् अकिञ्चनऩाय् मुमुक्षुवाऩ प्रपन्नऩुक्कु इम्मूऩ्ऱुम् अनुष्ठेयमॆऩ्ऱु सॊल्लिऱ्ऱायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अत्र रक्षा-**भर-न्यासस्**  
+समस् सर्व-फलार्थिनाम् +++(प्रपन्नानाम्)+++।  
+स्व-रूप-**फल-निक्षेपस्**  
+त्व् अधिको मोक्ष-काङ्क्षिणाम् ॥ २८-आ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र रक्षा-**भर-न्यासस्**  
+समस् सर्व-फलार्थिनाम् +++(प्रपन्नानाम्)+++।  
++++(आत्म-)+++स्व-रूप--+++(मोक्ष-)+++**फल-निक्षेपस्**  
+त्व् अधिको मोक्ष-काङ्क्षिणाम् ॥ २८-आ॥
+</details>
+
+<details><summary>English</summary>
+
+To all prapannas, whatever may be the object desired by them,  
+the surrender of the responsibility is common.  
+To those prapannas who are desirous of (only) mokṣa ,  
+the surrender of one's self or svarūpa and also of the fruit arising therefrom is an additional (requirement).
+</details>
+
+<details><summary>Español</summary>
+
+To all prapannas, whatever may be the object desired by them,  
+the surrender of the responsibility is common.  
+To those prapannas who are desirous of (only) mokṣa ,  
+the surrender of one's self or svarūpa and also of the fruit arising therefrom is an additional (requirement).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अत्र रक्षाभरन्यासस्समस्सर्वफलार्थिनाम् । स्वरूपफलनिक्षेपस्त्वधिको मोक्षकाङ्क्षिणाम् ॥ २८-आ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि अधिकारिभेदत्तैयिट्टु अनुष्ठेयभेदत्तैयरुळिच्चॆय्दु फलकामनाभेदत्तैयिट्टु अदैयरुळिच् चॆय्गिऱार् अत्रेत्यादिना । अत्र – अकिञ्चनमध्यत्तिल्। रक्षाभरन्यासः सर्वफलार्थिनां समः – भरन्यासम् मुमुक्षुत्वनिबन्धनमऩ्ऱिक्के आकिञ्चन्यमात्रनिबन्धनमागैयाल्, आकिञ्चन्यमिरुन्दाल् मोक्षार्थिक्को, तदितरफलार्थिक्को भरन्यासांशम् तुल्यमॆऩ्ऱबडि। स्वरूपेत्यादि । मोक्षकाङ्क्षिणामिति । प्रयोजनान्तरपररुक्कु फलसमर्पणम् कूडादागैयालुम्, शेषत्वज्ञानरूपस्वरूपसमर्पणम् अनावश्यकमागैयालुम् मोक्षकाङ्क्षिकळुक्के अदावदु अकिञ्चनर्गळाऩ मुमुक्षुक्कळुक्के यॆऩ्ऱबडि। स्वरूपफलनिक्षेपस्त्वधिकः - इङ्गु तुशब्दत्ताले प्रयोजनान्तरपरावृत्तित्वरूपवैलक्षण्यं द्योत्यते अधिकः – अधिकतया कर्तव्यः ।  
+</details>
+
+
+## ईश्वरस्य प्रधानफलत्वम्
+<details><summary>English</summary>
 
 IŚVARA IS THE PRINCIPAL BENEFICIARY :
+</details>
 
-If it is asked how, when the Jīva   who performs prapatti as the upāya for the sake of some gain or fruit is the person interested in the fruit, Iśvara becomes the chief beneficiary, the answer is as follows:-Iśvara becomes the chief beneficiary, because, just like the modifications of acit or matter, the benefits (purushārthas) granted by Him to cit (jīva) are pleasing to Him. Being the śeṣī  of all, He is the chief beneficiary. To a man of cultivated tastes, who is not in need of anything, the delight in melting dolls made of metals and shaping them into ornaments and wearing them in admiration of their beauty is not different (in kind) from the delight enjoyed by him in keeping a sentient being like a parrot in a cage and feeding it with milk and seeing it fly according to His pleasure.
+<details><summary>Español</summary>
+
+IŚVARA IS THE PRINCIPAL BENEFICIARY :
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> फलार्थियाय् उपायानुष्ठानम् पण्णुगिऱ जीवऩ् फलिय् आय् इरुक्क  
+> ईश्वरऩ् इङ्गु प्रधान-फलिय् आऩ बडि यॆङ्ङऩेय् 
+
+ऎऩ्ऩिल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+फलार्थिनि उपायानुष्ठातरि जीवे फलिनि विद्यमाने सति 
+ईश्वरोऽत्र प्रधानफली कथं भवतीति चेत् — 
+</details>
+
+<details><summary>English</summary>
+
+If it is asked how,  
+when the Jīva who performs prapatti as the upāya  
+for the sake of some gain or fruit  
+is the person interested in the fruit,  
+Iśvara becomes the chief beneficiary,  
+the answer is as follows:-
+</details>
+
+<details><summary>Español</summary>
+
+If it is asked how,  
+when the Jīva who performs prapatti as the upāya  
+for the sake of some gain or fruit  
+is the person interested in the fruit,  
+Iśvara becomes the chief beneficiary,  
+the answer is as follows:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलार्थियायुपायानुष्ठानम् पण्णुगिऱ जीवऩ् फलियायिरुक्क ईश्वरऩिङ्गुप्रधानफलियाऩबडि यॆङ्ङऩे यॆऩ्ऩिल्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ईश्वरऩुक्कु प्रधानफलित्वम् सम्भविक्कादागैयाल् तदनुसन्धानरूपमाऩ फलसमर्पणम् कूडादॆऩ्ऱु आक्षेबित्तु समाधानम् सॊल्लुगिऱार् फलार्थियाय् इत्यादिना । इदऩाल् फलार्थियाऩ जीवऩुक्के फलित्वमुण्डेयॊऴिय बन्धमोक्षादिफलार्थियऩ्ऱिक्केयिरुक्कुम् ईश्वरऩुक्कु लोकदृष्टप्रक्रियैयाले फलित्वमे सम्भविक्कादागैयाल् कैमुतिकन्यायत्ताले प्रधानफलित्वम् सुतरां सम्भविक्कादॆऩ्ऱु सूचितमागिऱदु। उपायानुष्ठानम् पण्णुगिऱ जीवऩिदि । कर्मोपासनादिरूपमाऩ स्वर्गापवर्गोपायानुष्ठानम् पण्णुगिऱ जीवऩ् ऎऩ्ऱबडि। इदऩाल् ‘‘शास्त्रफलं प्रयोक्तरि’’ ऎऩ्गिऱ न्यायत्ताले जीवऩुक्के स्वर्गापवर्गफलित्वमेयॊऴिय कर्मोपासनानुष्ठानरहितऩाऩ भगवाऩुक्कु फलित्वमे सम्भविक्कादागैयाल् प्रधानफलित्वम् सुतरां सम्भविक्कादॆऩ्ऱु ज्ञापितमागिऱदु। फलियायिरुक्क - अवऩुक्के फलित्वम् युक्तमायिरुक्क। ईश्वरऩ् - फलार्थियुमऩ्ऱिक्के उपायानुष्ठानमुमऩ्ऱिक्केयिरुक्किऱ ईश्वरऩ्। इङ्गु - स्वरूपभरफलसमर्पणरूपमाऩ प्रपत्त्यनुष्ठानविषयत्तिल्। प्रधान फलियाऩबडि यॆङ्ङऩेयॆऩ्ऩिलिति । फलित्वमे कूडादिरुक्क प्रधानफलित्वम् कूडुवदॆप्पडि यॆऩ्ऱबडि।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अचित्तिऩ् परिणामङ्गळ् पोले  
+चित्तुक्कुत् ताऩ् कॊडुत्त पुरुषार्थङ्गळुम्  
+सर्व-शेषिय् आऩ तऩक्कु  
+उगप्प्+++(=तोषः)+++ आय् इरुक्कैयाले  
+ईश्वरऩ् प्रधान-फलिय् आगिऱाऩ्। +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अचितः परिणामा इव  
+चिद्भ्यः स्वेन **प्रत्ताः** पुरुषार्था अपि  
+सर्व-शेषिणं स्वं **नन्दयतीति** हेतोर्  
+ईश्वरः **प्रधान-फली संपद्यते** ।
+</details>
+
+<details><summary>English</summary>
+
+Iśvara becomes the chief beneficiary, because,  
+just like the modifications of acit or matter,  
+the benefits (purushārthas) granted by Him to cit (jīva)  
+are pleasing to Him.  
+Being the śeṣī  of all, He is the chief beneficiary.  
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara becomes the chief beneficiary, because,  
+just like the modifications of acit or matter,  
+the benefits (purushārthas) granted by Him to cit (jīva)  
+are pleasing to Him.  
+Being the śeṣī  of all, He is the chief beneficiary.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अचित्तिऩ् परिणामङ्गळ्बोले चित्तुक्कुत् ताऩ् कॊडुत्त पुरुषार्थङ्गळुम् सर्वशेषियाऩ तऩक्कु उगप्पा यिरुक्कैयाले ईश्वरऩ् प्रधानफलियागिऱाऩ्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+समाधानमरुळिच्चॆय्गिऱार् अचित्तिऩ् परिणामङ्गळ् पोले इत्यादिना । अचित्तिऩ् परिणामङ्गळ् पोले - अचित्ताऩ पृथिव्यादिगळुडैय पृथिवीत्वगन्धरसादिगळ् पोले चित्तुक्कुत् ताऩ् कॊडुत्त पुरुषार्थङ्गळुम् - चेतनऩाऩ जीवऩुक्कुत् ताऩ् कॊडुत्त धर्मार्थकाममोक्षरूपपुरुषार्थङ्गळुम्। सर्वशेषियाऩ - चेतनाचेतनरूप सर्वपदार्थशेषि याऩ। तऩक्कु उगप्पायिरुक्कैयालिति । अचेतनङ्गळुक्कु ताऩ् उण्डुबण्णिऩ गन्धरसादिपरिणामङ्गळुक्कुत् ताऩ् आश्रयऩिल्लाविडिलुम् ताऩ् शेषियागैयाले यदैक्कण्डे ऎप्पडि उगक्किऱारो अप्पडिये ईश्वरऩ् बन्धमोक्षभागल्लाविडिलुम् जीवऩैप्पोल् फलत्तैयासैप्पट्टु उपायानुष्ठानम् पण्णुगिऱवऩल्लाविडिलुम् जीवऩुक्कुम् शेषियागैयाले जीवऩुक्कुत् ताऩ् कॊडुत्त पुरुषार्थङ्गळैक् कण्डु अत्यन्तम् उगक्किऱवऩागैयालॆऩ्ऱबडि। ईश्वरऩ् प्रधानफलियागिऱाऩिदि । शेषमाऩ वस्तुक्कळुडैय अवस्थैकळुम् पुरुषार्थङ्गळुम् शेषियिऩिडत्तिल् सम्बन्धिक्काविडिऩुम् अवैगळैक् कण्डु उगप्पवऩ् शेषियागैयालुम्, तऩ्ऩुडैय उगप्पुक्कागवे अवैगळैत् ताऩ् कॊडुक्किऱाऩागैयालुम्, तऩ्ऩुडैय उगप्पे प्रधानफलमागैयालुम् अवऩे प्रधानफलियागिऱाऩ् ऎऩ्ऱबडि। अचेतनत्तिऱ्कु फलित्वम् कूडादागैयाल् अचेतनपरिणामङ्गळुक्कु ईश्वरऩ् फलियागलाम्।
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अचेतनमाऩ कुऴ-मणऩैय्+++(=पुत्तलिकां)+++ अऴित्तुप्+++(=अन्यथा)+++ पण्णियुम्  
+आभरणम् पूट्टियुम्  
+अऴगु कण्डु उगक्किऱदोडु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१०२]]
+
+अचेतनायाः प्रतिमाया अवस्था-परिवर्तनेन आभरण-धारणाधानेन च  
+तत्-सौन्दर्यस्य दर्शनेन नन्दने,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अचेतनमाऩ कुऴमणऩै यऴित्तुप्पण्णियुम् आभरणम् पूट्टियुमऴगु कण्डु उगक्किऱदोडु, 
+</details>
+
+
+To a man of cultivated tastes, who is not in need of anything,  
+the delight in melting dolls made of metals and shaping them into ornaments and wearing them in admiration of their beauty is not different (in kind) from the delight enjoyed by him in keeping a sentient being like a parrot in a cage and feeding it with milk and seeing it fly according to His pleasure.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
