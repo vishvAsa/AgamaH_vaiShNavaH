@@ -1122,7 +1122,7 @@ and this should be accompanied by the knowledge that the fruits of such surrende
 स्वनिर्भरत्वपर्यन्तेत्यादि । रक्ष्यस्य – रक्ष्यभूतवस्तुवुक्कु; आत्मात्मीय माऩ रक्ष्यभूतवस्तुवुक्कॆऩ्ऱबडि। आत्मसमर्पणम् - ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ आत्मसमर्पणमाऩदु। त्यक्तरक्षाफलस्वाम्यं – रक्षाफल ऎऩ्बदु स्वरूपत्तिऱ्कुम् उपलक्षणम्। तथा च स्वरूपरक्षाफलानां स्वाम्यं त्यक्तं यस्मिन् तत् । इदु भावऩैयिल् अन्वयिक्किऱदु। इदऩाल् स्वरूपभरफलङ्गळिल् स्वसम्बन्धत्यागम् सॊल्लप्पडुगिऱदु। स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनं – स्वनिर्भरत्वपर्यन्तं च तत् रक्षकैकार्थ्यभावनञ्चेति शीतोष्णवत्समासः । ‘‘मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति’’ ऎऩ्ऱु सॊऩ्ऩ निर्भरत्वं पर्यन्तमवसाने यस्य तत् स्वनिर्भरत्वपर्यन्तम् । इतः परं मम रक्षायां भरो नास्तीति यथा दृढाध्यवसायः अन्ते भवेत् तादृशमिति यावत् । रक्षकैकार्थ्यभावनं – रक्षकस्य – भगवतः, ऐकार्थ्यं – तस्यैकस्यैव इमे स्वरूपरक्षाभरफलरूपार्थाः नान्यस्य । इति भावनं – रक्षकैकार्थ्यभावनं, कीऴ् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ विडत्तिल् स्वरूपभरफलानां स्वसम्बन्धत्यागम् सॊल्लियिरुप्पदाल् तेषामेव रक्षकैकार्थ्यभावन मिङ्गु अवश्यम् कॊळ्ळवेण्डुम्। इदऩाल् आत्मसमर्पणम् स्वरूपभरफलङ्गळुक्कु स्वनिर्भरत्वपर्यन्तमाऩ परसम्बन्धानुसन्धानम् ऎऩ्ऱु निगमिक्कप्पट्टदु। तथाच ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ केवलात्मनिक्षेपमात्रमऩ्ऱिक्के, ‘‘आत्मात्मीयभरन्यासः’’ ‘‘केशवार्पण पर्यन्ता’’ ऎऩ्ऱु कीऴ् उदाहरित्त वचनङ्गळ् सॊल्लुवदैयुमनुसरित्तु रक्षकऩिडत्तिल् स्वनिर्भरत्वपर्यन्तमाऩ स्वरूपभरफलसमर्पणमागवे निर्णयिक्कप्पट्टदायिऱ्ऱु। इदिल् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ पदत्ताले इम्मूऩ्ऱुक्कुम् स्वसम्बन्धत्यागमुम् भाविक्कवेण्डुमॆऩ्ऱु सॊल्लप्पट्टदु। स्वरूपभरफलसमर्पणङ्गळै प्रत्येकम् आत्मनिक्षेपमागक् कीऴ्च् चॊऩ्ऩ वचनङ्गळिल् सॊल्लियिरुप्पदाल् स्वरूपभरफलङ्गळुडैय रक्षकैकार्थ्यभावनम् आत्मनिक्षेपशब्दत्ताले मुख्ययैव वृत्त्या अदावदु शक्त्या सॊल्लप्पडुगिऱदॆऩ्ऱु करुत्तु।   
 </details>
 
-## स्तोत्रेऽनुसन्धानम्
+## स्तेत्र-रत्नाभिप्रायः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1406,12 +1406,129 @@ as having been made in ignorance.
 इदै स्पष्टीकरिक्किऱार् अल्लदु इत्यादिना । अल्लदु - इप्पडियऩ्ऱिक्के, शास्त्रचोदितमाय् - ‘‘अप्रमत्तेन वेद्धव्य’’मित्यादिशास्त्रङ्गळिल् तत्त्ववित्तुक्कळुक्के कर्तव्यमाग विधिक्कप्पट्ट। इदऩाल् तत्ववित्तुक्कळुक्कु इन्द श्लोकत्तिल् आत्मसमर्पणम् अनुशयपूर्वकमाग निषेधिक्कप्पडुगिऱदॆऩ्ऱु सॊल्लुबवर्गळुक्कु तत्त्ववित्तुक्कळुक्कु इन्द समर्पणत्तै विधिक्किऱ इन्द श्रुति विरुद्धमाम् ऎऩ्ऱु ज्ञापिक्कप्पट्टदु। तामनुष्ठित्त - तत्त्वविदग्रेसरराऩ तामनुष्ठित्त। इदऩाल् तत्त्ववित्तुक्कळुक्कु समर्पणम् अनुष्ठेयमल्लवॆऩ्ऱु सॊल्लुगिऱवर्गळुक्कु तत्त्वविदग्रेसराऩ आळवन्दारुडैय अनुष्ठानविरोधम् दुरुद्धरमॆऩ्ऱु सूचितमागिऱदु। समर्पणत्तै - ‘‘अहमद्यैव मया समर्पितः’’ ऎऩ्ऱु कीऴ् श्लोकत्तिल् सॊल्लप्पट्ट आत्मसमर्पणत्तै। अज्ञकृत्यमाक्किऩ पडियऩ्ऱु - मुदल् श्लोकम् अज्ञानदशैयिल् पण्णिऩ आत्मसमर्पणत्तैच् चॊल्लुगिऱ तॆऩ्ऱुम् इरण्डावदु श्लोकम् प्रबुद्धधीयागवाऩवऩुक्कु अदै निषेधिक्किऱ तॆऩ्ऱुम् सॊल्लुबवर् मदप्पडियऩ्ऱु ऎऩ्ऱबडि। अवर्गळ् मदप्पडियाऩाल् तत्त्ववित्तुक्कळुक्कु समर्पणविधायकशास्त्रमुम् तत्त्वविदग्रेसराऩ आळवन्दारुडैय अनुष्ठानमुम् विरुद्धमाय् मुडियुमॆऩ्ऱु करुत्तु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-So from these two śloka s, it is clear that the essence of the śāstras which primarily prescribe bharasamarpaṇam as in the words of Aḷavandār (60) "The responsibility of protecting me is also Thine", consists in saying "na mama “It is not mine" and getting rid of the feeling of one's connection (with everything), though one may not have a true and discriminatory knowledge about such things as the essential nature of the self.
+आग इरण्डु श्लोकत्तालुम्  
+यथाऽवस्थित--स्व-रूपादि--विवेकम् इल्लैयेय् आगिलुम्  
+‘‘न मम’’ ऎऩ्ऱु स्व-सम्बन्धम् अऱुक्कैये  
+‘‘अहम् अपि तवैवास्मि हि भरः’’ (आळवन्दार् स्तोत्रम् ६०) ऎऩ्ऩुम् बडि  
+भर-समर्पण-प्रधानम् आऩ शास्त्रार्थत्तिल् सारम् ऎऩ्ऱद् आयिऱ्ऱु।  
+</details>
 
-## THE MEANING OF THE AÑGĪ IN DVAYAM :
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Thus in the first part of the Dvaya which deals with the upāya or means, the surrender to the Lord of the responsibility (for one's protection) accompanied by the thought that one is śeṣa to the Lord and exists only for Him is to be understood in connection with the verb (prapadye) joined with the word śaranam which treats of the upāya preceded by supreme faith ( mahavisvāsa ) and which contains within it, in an implicit form, the supplication for protection.
+[[१०३]]
+
+तद् एवं द्वाभ्यां श्लोकाभ्याम् -  
+यथा-ऽवस्थित--स्व-रूपादि-विवेके अ-सत्यपि,  
+"न ममे"ति स्व-स्व-सम्बन्ध-लवनम् एव  
+"10 अहम् अपि तवैवास्मि हि भरः" इति वर्णनार्ह-भर-समर्पण-प्रधाने शास्त्रार्थे सार इति सिद्धम् । 
+</details>
+
+<details><summary>English</summary>
+
+So from these two śloka s,  
+it is clear that the essence of the śāstras  
+which primarily prescribe bharasamarpaṇam  as in the words of Aḷavandār (60)  
+
+> "The responsibility of protecting me is also Thine", 
+
+consists in saying "na mama" = “It is not mine"  
+and getting rid of the feeling of one's connection (with everything),  
+though one may not have a true and discriminatory knowledge  
+about such things as the essential nature of the self.
+</details>
+
+<details><summary>Español</summary>
+
+So from these two śloka s,  
+it is clear that the essence of the śāstras  
+which primarily prescribe bharasamarpaṇam  as in the words of Aḷavandār (60)  
+
+> "The responsibility of protecting me is also Thine", 
+
+consists in saying "na mama" = “It is not mine"  
+and getting rid of the feeling of one's connection (with everything),  
+though one may not have a true and discriminatory knowledge  
+about such things as the essential nature of the self.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आग इरण्डु श्लोकत्तालुम् यथावस्थितस्वरूपादि विवेकमिल्लैयेयागिलुम् ‘‘न मम’’ ऎऩ्ऱु स्वसम्बन्धमऱुक्कैये ‘‘अहमपि तवैवास्मि हि भरः’’ (आळवन्दार् स्तोत्रम् ६०) ऎऩ्ऩुम्बडि भरसमर्पणप्रधानमाऩ शास्त्रार्थत्तिल् सारमॆऩ्ऱदायिऱ्ऱु।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द इरण्डु श्लोकत्तालुम् फलितमाऩ अर्थत्तैक् काट्टुगिऱार् आगवित्यादिना । आग - आहत्य, इरण्डु श्लोकत्तालुम् - इरण्डु श्लोकत्तालुम् सेर्न्दॆऩ्ऱबडि। यथावस्थितस्वरूपादिविवेकमिल्लैयेयागिलुमिति । इदु ‘‘योऽपि कोऽपि वा’’ ‘‘यथा तथाविधः’’ ‘‘यदस्ति योस्म्यहम्’’ ऎऩ्गिऱ पदङ्गळिऩ् फलितार्थम्। न मम ऎऩ्ऱु स्वसम्बन्धमऱुक्कैये इति । इदऱ्कु शास्त्रार्थत्तिल् सारमॆऩ्ऱ तायिऱ्ऱु ऎऩ्बदोडन्वयम्। स्वसम्बन्धमऱुक्कै यॆऩ्बदु ‘‘मया समर्पितः’’ ‘‘तवैव माधव’’ ऎऩ्बदिऩ् फलितार्थम्। शास्त्रार्थत्तिल् - शेषत्वानुसन्धानरूपसमर्पणशास्त्रार्थत्तिल्, इप्पडि शेषत्वानुसन्धानमे समर्पणशास्त्रमागिल् भरन्यासम् प्रपत्तिशास्त्रार्थमॆऩ्गिऱ सम्प्रदायमॆप्पडिप् पॊरुन्दुमॆऩ्ऩ वरुळिच्चॆय्गिऱार् भरसमर्पण प्रधानमाऩ इति । अहं त्वच्छेषभूतः, मदीयभरस्तवैव ऎऩ्गिऱ शास्त्रार्थत्तिल् भरसमर्पणम् प्रधानमाय् शेषत्वज्ञानम् तत्प्रधानकमायिरुक्कुमिऱे। आऩाल् इन्द भरसमर्पणप्रधानत्वम् आळवन्दारुक्कु अभिमतमायिरुन्दाल् इन्द इरण्डुश्लोकत्तिलुम् अदै यरुळिच्चॆय्यविल्लैये यॆऩ्ऩ वरुळिच्चॆय्गिऱार् अहमपि तवैवास्मि हि भरः इति । इङ्गु अरुळिच्चॆय्याविडिलुम् मेल् कण्ठरवेण भरसमर्पणत्तैच् चॊल्लुगैयाल् तत्प्रधानत्वम् इव्विरण्डु श्लोकङ्गळिलुम् सॊऩ्ऩ शेषत्वानु-सन्धानरूपसमर्पणशास्त्रार्थत्तिऱ्कुप् पॊरुन्दुमॆऩ्ऱु करुत्तु। सारमॆऩ्ऱदायिऱ्ऱु - अवऩिडत्तिल् समर्पणम् पण्णुवदु स्वसम्बन्धमऱ्ऱु निर्विचारऩाग यिरुक्कैक्कागवादलाल् स्वसम्बन्धमऱुक्कैये समर्पण शास्त्रार्थत्तिल् सारमॆऩ्ऱु तिरुवुळ्ळम्।  
+</details>
+
+## द्वये ऽङ्गी-स्वरूपानुसन्धान-स्थानम्
+
+<details><summary>English</summary>
+
+THE MEANING OF THE AÑGĪ IN DVAYAM :
+</details>
+
+<details><summary>Español</summary>
+
+THE MEANING OF THE AÑGĪ IN DVAYAM :
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि शेषत्वानुसन्धान-विशिष्टम् आऩ स्व-रक्षा-भर-समर्पणम्  
+द्वयत्तिल् उपाय-परम् आऩ पूर्व-खण्डत्तिल्  
+महा-विश्वास--पूर्वक--गोप्तृत्व-वरण--गर्भम् आऩ शरण-शब्दोपश्लिष्ट-क्रिया-पदत्तिले +++(→"प्रपद्ये")+++  
+सेर्त्तु अनुसन्धिक्क प्राप्तम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं शेषत्वानुसन्धान-विशिष्टं स्व-रक्षा-भर-समर्पणं  
+द्वये उपाय-परे पूर्व-खण्डे  
+महा-विश्वास-पूर्वक--गोप्तृत्व-वरण-गर्भ--शरण-शब्दोपश्लिष्ट-क्रियापदे  +++(→"प्रपद्ये")+++  
+समुच्चित्यानुसन्धातुं युक्तम् । 
+</details>
+
+<details><summary>English</summary>
+
+Thus in the first part of the Dvaya which deals with the upāya or means,  
+the surrender to the Lord of the responsibility (for one's protection)  
+accompanied by the thought that one is śeṣa to the Lord  
+and exists only for Him  
+is to be understood in connection with the verb (prapadye)  
+joined with the word śaranam  
+which treats of the upāya preceded by supreme faith ( mahavisvāsa )  
+and which contains within it, in an implicit form, the supplication for protection.
+</details>
+
+<details><summary>Español</summary>
+
+Thus in the first part of the Dvaya which deals with the upāya or means,  
+the surrender to the Lord of the responsibility (for one's protection)  
+accompanied by the thought that one is śeṣa to the Lord  
+and exists only for Him  
+is to be understood in connection with the verb (prapadye)  
+joined with the word śaranam  
+which treats of the upāya preceded by supreme faith ( mahavisvāsa )  
+and which contains within it, in an implicit form, the supplication for protection.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि शेषत्वानुसन्धानविशिष्टमाऩ स्वरक्षाभरसमर्पणम् द्वयत्तिलुपायपरमाऩ पूर्वखण्डत्तिल् महाविश्वासपूर्वकगोप्तृत्ववरणगर्भमाऩ शरणशब्दोपश्लिष्टक्रियापदत्तिले सेर्त्तु अनुसन्धिक्क प्राप्तम्। 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि शेषत्वानुसन्धानविशिष्टस्वरक्षाभरसमपर्णरूपप्रधानार्थत्तै करणमन्त्रत्तिल् अनुसन्धिक्क वेण्डिय स्थलत्तैक् काट्टुगिऱार् इप्पडि शेषत्वानुसन्धानेत्यादियाल्। द्वयत्तिलुपायपरमाऩ पूर्वखण्डत्तिलिति । शरणशब्दोपश्लिष्टक्रियापदमिरुप्पदाल् पूर्वखण्डमे उपायपर मागवेण्डुमॆऩ्ऱु तिरुवुळ्ळम्। मुऩ्बु इन्द पूर्वखण्डत्तिल् महाविश्वासादिगळ् सॊल्लप्पट्टदे, अदिल् इदैयॆप्पडि अनुसन्धिप्पदॆऩ्ऩ वरुळिच्चॆय्गिऱार् महाविश्वासपूर्वकगोप्तृत्ववरणगर्भमाऩ शरणशब्दोपश्लिष्टक्रियापदत्तिले सेर्त्तु अनुसन्धिक्क प्राप्तमिति । शरणशब्दोपश्लिष्टक्रियापदत्तिल् महाविश्वासगोप्तृत्ववरणङ्गळ् सॊल्लप्पट्टिरुन्दालुम्, अदुगळुडऩ् शेषत्वानुसन्धानविशिष्टभरसमर्पणत्तैयुम् सेर्त्तु एकबुद्ध्यारूढमाक्कि अनुसन्धिक्क प्राप्तम्। यद्यपि शरणशब्दोपश्लिष्टक्रियापदत्तिले उपायत्वाद्ध्यवसायम् प्रतिपाद्यम्। तथापि अदिल् गोप्तृत्ववरणमुम् अर्थसिद्धमॆऩ्ऱु पूर्वाधिकारत्तिल् सॊऩ्ऩदै निऩैत्तु गोप्तृत्ववरण गर्भमाऩ इत्युक्तिः । तथाच आर्थिकगोप्तृत्ववरणविशिष्टोपायत्वाध्यवसायप्रतिपादक शरणशब्दोपश्लिष्टक्रियापदत्तिलॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
 
 Thus (from what has been said in this chapter and in the foregoing chapters), although these six (the five aṅgas and the angī) may be understood separately, while considering, in detail, the meaning of each part of the sentence, yet they constitute only a single mental act while understanding the whole sentence, just like the understanding of other sentences having several parts. Therefore, in accordance with the śastras, this principal action with its aṅgas is performed only once.
 
