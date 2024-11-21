@@ -1517,24 +1517,197 @@ which treats of the upāya preceded by supreme faith ( mahavisvāsa )
 and which contains within it, in an implicit form, the supplication for protection.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 इप्पडि शेषत्वानुसन्धानविशिष्टमाऩ स्वरक्षाभरसमर्पणम् द्वयत्तिलुपायपरमाऩ पूर्वखण्डत्तिल् महाविश्वासपूर्वकगोप्तृत्ववरणगर्भमाऩ शरणशब्दोपश्लिष्टक्रियापदत्तिले सेर्त्तु अनुसन्धिक्क प्राप्तम्। 
 </details>
-
 
 <details><summary>सायण-टीका</summary>
 
 इप्पडि शेषत्वानुसन्धानविशिष्टस्वरक्षाभरसमपर्णरूपप्रधानार्थत्तै करणमन्त्रत्तिल् अनुसन्धिक्क वेण्डिय स्थलत्तैक् काट्टुगिऱार् इप्पडि शेषत्वानुसन्धानेत्यादियाल्। द्वयत्तिलुपायपरमाऩ पूर्वखण्डत्तिलिति । शरणशब्दोपश्लिष्टक्रियापदमिरुप्पदाल् पूर्वखण्डमे उपायपर मागवेण्डुमॆऩ्ऱु तिरुवुळ्ळम्। मुऩ्बु इन्द पूर्वखण्डत्तिल् महाविश्वासादिगळ् सॊल्लप्पट्टदे, अदिल् इदैयॆप्पडि अनुसन्धिप्पदॆऩ्ऩ वरुळिच्चॆय्गिऱार् महाविश्वासपूर्वकगोप्तृत्ववरणगर्भमाऩ शरणशब्दोपश्लिष्टक्रियापदत्तिले सेर्त्तु अनुसन्धिक्क प्राप्तमिति । शरणशब्दोपश्लिष्टक्रियापदत्तिल् महाविश्वासगोप्तृत्ववरणङ्गळ् सॊल्लप्पट्टिरुन्दालुम्, अदुगळुडऩ् शेषत्वानुसन्धानविशिष्टभरसमर्पणत्तैयुम् सेर्त्तु एकबुद्ध्यारूढमाक्कि अनुसन्धिक्क प्राप्तम्। यद्यपि शरणशब्दोपश्लिष्टक्रियापदत्तिले उपायत्वाद्ध्यवसायम् प्रतिपाद्यम्। तथापि अदिल् गोप्तृत्ववरणमुम् अर्थसिद्धमॆऩ्ऱु पूर्वाधिकारत्तिल् सॊऩ्ऩदै निऩैत्तु गोप्तृत्ववरण गर्भमाऩ इत्युक्तिः । तथाच आर्थिकगोप्तृत्ववरणविशिष्टोपायत्वाध्यवसायप्रतिपादक शरणशब्दोपश्लिष्टक्रियापदत्तिलॆऩ्ऱदायिऱ्ऱु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Thus (from what has been said in this chapter and in the foregoing chapters), although these six (the five aṅgas and the angī) may be understood separately, while considering, in detail, the meaning of each part of the sentence, yet they constitute only a single mental act while understanding the whole sentence, just like the understanding of other sentences having several parts. Therefore, in accordance with the śastras, this principal action with its aṅgas is performed only once.
+इप्पडिय् इवैय् आऱुम् इम् मन्त्रत्तिले विमर्श-दशैयिल् तऩित्-तऩिये अनुसन्धित्तालुम्  
+वाक्यार्थ-प्रतिपत्ति-दशैयिल् अल्लाद +++(→पृथग्-भूता)+++ वाक्यार्थङ्गळ् पोले  
+साङ्गम् आऩ प्रधानम् एक-बुद्ध्य्-आरूढम् आम्। 
+</details>
 
-## PRAPATTI IS A MOMENTARY ACTION.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-An archer's action in discharging an arrow for hitting a target may be constituted of several separate acts (like observing the object, taking the aim and discharging the arrow) and yet it is all accomplished in a single moment. Similar is the act of surrendering (to the Lord) the responsibility of (one's) protection. This is evident from the śruti  itself. (The śruti  says, "* Praṇava (aum) is the bow: the soul or self is the arrow; it must be discharged at Brahman, which is the target, with great care and with keen concentration ").
+इत्थम् एषु षट्सु अस्मिन् मन्त्रे विमर्श-दशायां पृथक् पृथग् अनुसंहितेषु सत्स्व् अपि  
+वाक्यार्थ-प्रतिपत्ति-दशायाम् अन्यान्य-वाक्यार्थवत्  
+साङ्गं प्रधानम् एक-बुद्ध्य्-आरूढं भवति । 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus (from what has been said in this chapter and in the foregoing chapters),  
+although these six (the five aṅgas and the angī) may be understood separately,  
+while considering, in detail, the meaning of each part of the sentence,  
+yet they constitute only a single mental act  
+while understanding the whole sentence,  
+just like the understanding of other sentences having several parts. 
+</details>
+
+<details><summary>Español</summary>
+
+Thus (from what has been said in this chapter and in the foregoing chapters),  
+although these six (the five aṅgas and the angī) may be understood separately,  
+while considering, in detail, the meaning of each part of the sentence,  
+yet they constitute only a single mental act  
+while understanding the whole sentence,  
+just like the understanding of other sentences having several parts. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियिवैयाऱुम् इम् मन्त्रत्तिले विमर्शदशैयिल्दऩित्तऩिये अनुसन्धित्तालुम् वाक्यार्थप्रतिपत्तिदशैयिल् अल्लाद वाक्यार्थङ्गळ् पोले साङ्गमाऩ प्रधानम् एकबुद्ध्यारूढमाम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि शरणशब्दोपश्लिष्टमाऩ ऒरु ज्ञानार्थकमाऩ पदल् धातुविले महाविश्वासमुम्, आर्थिकमाग गोप्तृत्ववरणमुम्, उपायत्वाध्यवसायमुम् सॊल्लप्पडुगैयाल् अदुगळोडु सेर्त्तु शेषत्वानुसन्धानविशिष्टमाऩ स्वरक्षाभरसमर्पणमनुष्ठेयमाऩालुम् आनु-कूल्यसङ्कल्पप्रातिकूल्यवर्जनकार्पण्यरूपाङ्गङ्गळिल् ऒऩ्ऱु औचित्यत्तालुम्, ऒऩ्ऱु शब्दशक्तियालुम्, ऒऩ्ऱु अर्थसामर्थ्यत्तालुम् भिन्नपदप्रतिपाद्यङ्गळायिरुप्पदाल् इन्द अङ्गाङ्गिषट्कङ्गळ् मन्त्रत्तिल् कथं एकबुद्ध्यारूढमागलामॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडि यिवै याऱुमित्यादिना । इप्पडि - शरणशब्दोपश्लिष्टक्रियापदत्तिलिवै नालुम् एकबुद्ध्यारूढमा किऱाप्पोले, इवैयाऱुम् - उपायत्वप्रार्थनापूर्वकस्वनिर्भरत्वशिरस्कनिक्षेपत्रयरूपाङ्गिताश्रय मॊऩ्ऱु, आनुकूल्यसङ्कल्पाद्यङ्गङ्गळ् अञ्जु ऎऩ्गिऱ अभिप्रायत्ताले इवैयाऱुमॆऩ्ऱु सॊऩ्ऩदु। इवैयाऱैयुमॆऩ्ऱबडि। इम् मन्त्रत्तिले - इन्द द्वयाख्यकरणमन्त्रत्तिले, विमर्शदशैयिल् - पदार्थानुसन्धानदशैयिल्, अदावदु आनुकूल्यसङ्कल्पादिगळिल् मन्त्रत्तिल् ऎन्द पदत्ताले ऎदु प्रतिपाद्यमॆऩ्ऱु पदार्थानुसन्धानदशैयिल्, पदानामर्थस्मरणदशैयिलॆऩ्ऱ पडि। तऩित्तऩिये - पृथक्पृथक्काग, अनुसन्धित्तालुम् - तत्तत्पदार्थतया स्मरित्तालुम्। वाक्यार्थप्रतिपत्तिदशैयिलिति । वाक्यार्थप्रतिपत्तिदशैयावदु तत्तत्पदङ्गळाले स्मृतमाऩ अर्थङ्गळुक्कु यथायोग्यम् प्रधानोपसर्जनभावेनान्वयमुखत्ताले महावाक्यार्थबोधात्पत्तिदशै । अल्लाद वाक्यार्थङ्गळ्बोले इति । इतरङ्गळाऩ ‘‘गामानय’’ ‘‘ज्योतिष्टोमेन स्वर्गकामो यजेत’’ इत्यादि लौकिकवैदिकवाक्यार्थङ्गळ्बोले ऎऩ्ऱबडि। वाक्यार्थमावदु तत्तत्पदार्थसंसर्गविशिष्टवाक्यार्थम्। साङ्गमाऩ प्रधानम् - अङ्गङ्गळोडु कूडिऩ अङ्गी । एकबुद्ध्यारूढमाम् - एकबुद्धिविषयमाम्। इङ्गु साङ्गमाऩ प्रधानम् उक्तरीत्या शाब्दबोधात्मकैकबुद्ध्यारूढमाऩालुम् तादृशशाब्दबोधभिन्न स्मृत्यद्ध्यवसायरूपविलक्षणबुद्धिरूपमाय्क्कॊण्डे उपायमागुम्। अत एव रहस्यशिखामणि यिल् ‘‘स्मर्ता’’ ऎऩ्गिऱ पदव्याख्यानावसरत्तिल्, (स्मर्ता) उपासनम्बोले प्रपदनमुम् शास्त्रजन्यज्ञानत्तळवऩ्ऱिक्के ‘‘मामेकं शरणं व्रज’’ ऎऩ्गिऱबडिये विधेयमायिरुप्पदॊरु स्मृतिविशेषमागैयाले इङ्गु अविधेयज्ञानवादिगळुक्कु अवकाशमिल्लैयॆऩ्ऱु साङ्गभरसमर्पणत्तै विधेयमाऩ स्मृतिविशेषमाग अरुळिच्चॆय्दारिऱे। इन्द स्मृति, भरसमर्पणादि विषयकतया पुरुषतन्त्रैयागैयाले विधेयमाऩ अध्यवसायरूपमॆऩ्बदु अन्यत्र विशदम्। 
+
+> ‘‘पदजातं श्रुतं सर्वं  
+> स्मारितानन्वितार्थकम् ।  
+> न्याय-सम्पादित-व्यक्ति  
+> पश्चाद्-वाक्यार्थ-बोधकम्’’ 
+
+ऎऩ्गिऱ अभिहितान्वयवादि सॊल्लुम् प्रमाणत्तिऩ्बडिये अव्वो वाक्यङ्गळिल् घटकमाऩ पदङ्गळ् शक्तिग्रहमुळ्ळ पुरुषऩुक्कु श्रुतङ्गळाय्क्कॊण्डु एकसम्बन्धिज्ञानं अपरसम्बन्धिस्मारकमॆऩ्गिऱ न्यायत्ताले तत्तत्पदार्थस्मरणङ्गळैयुण्डुबण्णुम्। आऩाल् अन्द स्मारितपदार्थङ्गळ् परस्परमनन्वितङ्गळायिरुक्कुम्। पिऩ्बु आकाङ्क्षायोग्यतापरामर्शरूप न्यायत्ताले सम्पादितमाऩ स्वान्वययोग्यव्यक्तिकळै युडैयदायिरुक्कुम्। एतावत्पर्यन्तं विमर्शदशैयिले तऩित्तऩिये अनुसन्धित्तालुमॆऩ्बदाल् सॊल्लप्पट्टदु। पश्चाद्वाक्यार्थबोधकं – तत्तत्पदार्थमल्लाद तत्तत्पदार्थान्वयविशिष्टमहावाक्यार्थबोधकम्। इदु अल्लाद वाक्यार्थम्बोले यॆऩ्बदाल् सॊल्लप्पट्टदु। तथाच वाक्यङ्गळिल् पदार्थङ्गळ् तत्तत्पदङ्गळाले स्मारितङ्गळाय् अनन्वितकळायिरुन्दालुम् ऎप्पडि आकाङ्क्षायोग्यतावशात् परस्परान्वितविशिष्टवाक्यार्थम् तऩियाग उण्डागिऱदो, अप्पडिये करणमन्त्रत्तिल् तत्तदङ्गङ्गळ् मुदलिल् पृथक्ग्पृथक्काग ज्ञातङ्गळाऩालुम् उपकार्योपकारकभावविशेषानुसन्धानत्ताले अङ्गियोडु कूड एकबुद्ध्यारूढङ्गळागलामॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् यथा-शास्त्रम् साङ्ग-प्रधानानुष्ठानम् सकृत्-कर्तव्यम् आयिऱ्ऱु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतो यथा-शास्त्रं साङ्ग-प्रपदनानुष्ठानं सकृत्कर्तव्यम् इति सिद्धम् । 
+</details>
+
+<details><summary>English</summary>
+
+Therefore, in accordance with the śastras,  
+this principal action with its aṅgas is performed only once.
+</details>
+
+<details><summary>Español</summary>
+
+Therefore, in accordance with the śastras,  
+this principal action with its aṅgas is performed only once.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल्यथाशास्त्रम् साङ्गप्रधानानुष्ठानम् सकृत्कर्तव्यमायिऱ्ऱु। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आगैयाल् - अङ्गङ्गळोडु कूडिय अङ्गिक्कु एकबुद्ध्यारूढत्वंसम्भविक्कुमागैयाल्, यथाशास्त्रं –
+
+> ‘‘सकृज्जप्तेन मन्त्रेण  
+> कृतकृत्यस् सुखी भवेत्’’
+
+> ‘‘सकृदेव हि शास्त्रार्थः  
+> कृतोऽयं तारयेन् नरम्’’
+
+ऎऩ्गिऱ शास्त्रत्तै अतिक्रमिक्कामल् अदावदु साङ्गस्य सकृदनुष्ठानम् अशक्य मागैयाले ‘‘सकृज्जप्तेन’’ ‘‘सकृदेव हि’’ ऎऩ्गिऱ शास्त्रत्तै अन्यपरमाक्कामल् ऎऩ्ऱबडि।
+
+साङ्गप्रधानानुष्ठानम् सकृत्कर्तव्यमायिऱ्ऱु इति । 
+
+कीऴ्च्चॊऩ्ऩबडि साङ्गप्रधानम् एकबुद्ध्यारूढमाग लामागैयाल् साङ्गप्रधानानुष्ठानम् सकृत्कर्तव्यमागलामॆऩ्ऱबडि। 
+</details>
+
+
+## क्षण-कृत्यम्
+
+<details><summary>English</summary>
+
+PRAPATTI IS A MOMENTARY ACTION.
+</details>
+
+<details><summary>Español</summary>
+
+PRAPATTI IS A MOMENTARY ACTION.
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्-एक-व्यापार-साद्ध्यम् आऩ धानुष्कऩ्-उडैय लक्ष्य-वेधार्थम् आऩ बाण-मोक्षम्  
+क्षण-कृत्यम् आगिऱ् आप्-पोले  
+इव्व्-आत्म-रक्षा-भर-समर्पणम् इरुक्कुम् बडिय्  
+ऎऩ्ऱु श्रुतिसिद्धम्। +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनेक-व्यापार-साध्यो धानुष्कस्य लक्ष्य-वेधार्थी बाण-मोक्षो  
+यथा क्षण-कृत्यं ( क्षण-काल-साध्यो ) भवति,  
+तथेदम् आत्म-रक्षा-भर-समर्पणं भवतीति श्रुति-सिद्धम् । 
+</details>
+
+<details><summary>English</summary>
+
+An archer's action in discharging an arrow for hitting a target  
+may be constituted of several separate acts  
+(like observing the object,  
+taking the aim  
+and discharging the arrow) 
+and yet it is all accomplished in a single moment.  
+Similar is the act of surrendering (to the Lord) the responsibility of (one's) protection.  
+This is evident from the śruti  itself.  
+
+(The śruti  says,  
+"* Praṇava (aum) is the bow:  
+the soul or self is the arrow;  
+it must be discharged at Brahman, which is the target,  
+with great care and with keen concentration ").
+</details>
+
+<details><summary>Español</summary>
+
+An archer's action in discharging an arrow for hitting a target  
+may be constituted of several separate acts  
+(like observing the object,  
+taking the aim  
+and discharging the arrow) 
+and yet it is all accomplished in a single moment.  
+Similar is the act of surrendering (to the Lord) the responsibility of (one's) protection.  
+This is evident from the śruti  itself.  
+
+(The śruti  says,  
+"* Praṇava (aum) is the bow:  
+the soul or self is the arrow;  
+it must be discharged at Brahman, which is the target,  
+with great care and with keen concentration ").
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनेकव्यापारसाद्ध्यमाऩ धानुष्कऩुडैय लक्ष्यवेधार्थमाऩ बाणमोक्षम् क्षणकृत्यमागिऱाप्पोले इव्वात्मरक्षाभरसमर्पणमिरुक्कुम्बडि यॆऩ्ऱु श्रुतिसिद्धम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्वात्मरक्षाभरसमर्पणम् सकृत्कर्तव्यमॆऩ्बदै दृष्टान्तकथनपूर्वकम् श्रुति सॊल्लिऱ्ऱॆऩ्गिऱार् अनेकव्यापारेत्यादियाल्। दृष्टान्तत्तिल् लक्ष्यवेधार्थमाऩ बाणमोक्षम् क्षणकृत्यम्। पूर्वं पण्णिऩ अनेकशिक्षारूपव्यापारङ्गळ् (अभ्यासङ्गळ्) अदिऩ् परिकरङ्गळ्। दार्ष्टान्तिकत्तिल् इव्वात्मरक्षाभरसमर्पणम् क्षणकृत्यम्। तदर्थं पूर्वमङ्गाङ्गिपरामर्शादिगळॆऩ्ऱु श्रुत्यभिप्रेतमॆऩ्ऱु तिरुवुळ्ळम्। श्रुतियावदु - 
+
+> ‘‘प्रणवो धनुश् शरो ह्य् आत्मा  
+> ब्रह्म तल्-लक्ष्यम् उच्यते ।  
+> अप्रमत्तेन वेद्धव्यं  
+> शरवत् तन्मयो भवेत्’’ +++(5)+++
+
+ऎऩ्बदु। इदिल् प्रणवत्तै धनुस्सागवुम्, आत्मावै शरमागवुम्, ब्रह्मत्तै लक्ष्यमागवुम्, आत्मसमर्पणत्तै अत्यन्तावधानसहितऩाऩ पुरुषऩाले कर्तव्यमाऩ लक्ष्यवेधमागवुम् निरूपिक्कप्पट्टिरुप्पदाल् इदऱ्कु आत्मसमर्पणत्तिल् अनुष्ठेय व्यापारङ्गळ् बहुवायिरुन्दालुम् अवैगळिल् अभ्यासपाटवमुडैयवऩुक्कु, धानुष्कऩुडैय अनेकव्यापाराभ्यासपाटवत्ताले क्षणकालसाध्यमाऩ बाणमोक्षम्बोले आत्मसमर्पणम् क्षणकालसाध्यमॆऩ्ऱु ज्ञापिक्कैयिले नोक्कु। 
+</details>
+
+
 
 That this surrender of the responsibility of protection (bharasamarpana) should be chiefly thought of while uttering the mantras of prapatti is clearly stated as follows in Satyaki tantra by the Saviour Himself, who undertakes the responsibility: "With this mantra one should surrender one's self to me. The one who has surrendered to me the responsibility of doing what should be done will become one who has done one's duty."
 
