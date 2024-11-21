@@ -1122,7 +1122,7 @@ and this should be accompanied by the knowledge that the fruits of such surrende
 स्वनिर्भरत्वपर्यन्तेत्यादि । रक्ष्यस्य – रक्ष्यभूतवस्तुवुक्कु; आत्मात्मीय माऩ रक्ष्यभूतवस्तुवुक्कॆऩ्ऱबडि। आत्मसमर्पणम् - ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ आत्मसमर्पणमाऩदु। त्यक्तरक्षाफलस्वाम्यं – रक्षाफल ऎऩ्बदु स्वरूपत्तिऱ्कुम् उपलक्षणम्। तथा च स्वरूपरक्षाफलानां स्वाम्यं त्यक्तं यस्मिन् तत् । इदु भावऩैयिल् अन्वयिक्किऱदु। इदऩाल् स्वरूपभरफलङ्गळिल् स्वसम्बन्धत्यागम् सॊल्लप्पडुगिऱदु। स्वनिर्भरत्वपर्यन्तरक्षकैकार्थ्यभावनं – स्वनिर्भरत्वपर्यन्तं च तत् रक्षकैकार्थ्यभावनञ्चेति शीतोष्णवत्समासः । ‘‘मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति’’ ऎऩ्ऱु सॊऩ्ऩ निर्भरत्वं पर्यन्तमवसाने यस्य तत् स्वनिर्भरत्वपर्यन्तम् । इतः परं मम रक्षायां भरो नास्तीति यथा दृढाध्यवसायः अन्ते भवेत् तादृशमिति यावत् । रक्षकैकार्थ्यभावनं – रक्षकस्य – भगवतः, ऐकार्थ्यं – तस्यैकस्यैव इमे स्वरूपरक्षाभरफलरूपार्थाः नान्यस्य । इति भावनं – रक्षकैकार्थ्यभावनं, कीऴ् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ विडत्तिल् स्वरूपभरफलानां स्वसम्बन्धत्यागम् सॊल्लियिरुप्पदाल् तेषामेव रक्षकैकार्थ्यभावन मिङ्गु अवश्यम् कॊळ्ळवेण्डुम्। इदऩाल् आत्मसमर्पणम् स्वरूपभरफलङ्गळुक्कु स्वनिर्भरत्वपर्यन्तमाऩ परसम्बन्धानुसन्धानम् ऎऩ्ऱु निगमिक्कप्पट्टदु। तथाच ‘‘स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु विहितमाऩ केवलात्मनिक्षेपमात्रमऩ्ऱिक्के, ‘‘आत्मात्मीयभरन्यासः’’ ‘‘केशवार्पण पर्यन्ता’’ ऎऩ्ऱु कीऴ् उदाहरित्त वचनङ्गळ् सॊल्लुवदैयुमनुसरित्तु रक्षकऩिडत्तिल् स्वनिर्भरत्वपर्यन्तमाऩ स्वरूपभरफलसमर्पणमागवे निर्णयिक्कप्पट्टदायिऱ्ऱु। इदिल् त्यक्तरक्षाफलस्वाम्यं ऎऩ्गिऱ पदत्ताले इम्मूऩ्ऱुक्कुम् स्वसम्बन्धत्यागमुम् भाविक्कवेण्डुमॆऩ्ऱु सॊल्लप्पट्टदु। स्वरूपभरफलसमर्पणङ्गळै प्रत्येकम् आत्मनिक्षेपमागक् कीऴ्च् चॊऩ्ऩ वचनङ्गळिल् सॊल्लियिरुप्पदाल् स्वरूपभरफलङ्गळुडैय रक्षकैकार्थ्यभावनम् आत्मनिक्षेपशब्दत्ताले मुख्ययैव वृत्त्या अदावदु शक्त्या सॊल्लप्पडुगिऱदॆऩ्ऱु करुत्तु।   
 </details>
 
-## स्तोत्रेऽनुसन्धानम्
+## स्तेत्र-रत्नाभिप्रायः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1142,7 +1142,7 @@ and this should be accompanied by the knowledge that the fruits of such surrende
 स्तोत्रे,
 
 > ‘‘वपुर्-आदिषु योऽपि कोऽपि वा  
-> गुणतोऽसानि यथा तथा-विधः ।  
+> गुणतोऽसानि यथा-तथा-विधः ।  
 > तद् अयं तव पाद-पद्मयोर्  
 > अहम् अद्यैव मया समर्पितः’’  
 > (आळवन्दार् स्तोत्रम् ५२।) 
@@ -1187,18 +1187,348 @@ The purport of the śloka  in Aḷavandār's Stotra (52) which says
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-If a man has (somehow) come into possession of a cloth bag with the king's seal on it, he would return the bag (to the king), even though he does not know for certain the nature and character of the gem contained within it, in the hope that the king would take it back. So also even those who have not the intelligence to know, with perfect clearness, the nature, character and state of the soul as distinguished from the body may surrender their self or soul with the little knowledge that they possess. If they do so, even for that much, Bhagavān will be prepared to remit the punishment for the theft consisting in making away with one's self (i. e. claiming it as one's own) from beginningless time. This idea contained in the śāstras is what (Aḷavandār) has in mind. In the next *śloka  (53)[^53] it might appear as if he revoked the surrender (made before); but its meaning is only this : Even when a person is bent on surrendering his self without a knowledge of such things as the nature of his self, if he surrenders it with the notion that it is his own, like the presentation to a king of something belonging to oneself, it would not completely put an end to the crime of having stolen one's self. It does not mean that Aḷavandār considered his self surrender made in śloka  52 in accordance with the injunctions contained in the śāstras, as having been made in ignorance.
+मुद्रैय् इट्ट् इरुक्किऱ राजाविऩ् किऴिच्-चीरै  
+ऒरु हेतुवाले तऩ् कैयिलेय् इरुन्दाल्  
+"राजा कैक् कॊळ्ळुम्" ऎऩ्ऱु उळ्ळ् इरुक्किऱ  
+माणिक्कत्तिऩ् स्व-रूप--स्व-भावङ्गळै विशदम् आग अऱियादे  
+किऴिच्-चीरैयोडे मीळक्+++(=पुनः)+++ कॊडुक्कुमाप् पोले
+</details>
 
-[^53]: “मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव । नियतस्वमिति प्रबुद्धधीरथवा किन्नु समर्पयामि ते॥ आळवन्दार् स्तोत्रम्-५३
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-However O lord, what can I surrender to Thee, O Madhava, when I know that I and whatever belongs to me are always thine. As I have nothing of my own, I have nothing to surrender, I am only giving Thee what belongs to Thee",
+कृत-मुद्रायां राज्ञो भूषण-नीव्यां केनचिद् +धेतुना स्व-हस्तगतायां सत्याम्,  
+राजा स्वीकुर्याद् इति (धिया)  
+अन्तः-स्थित-माणि-चयस्य स्वरूप--स्वभावौ विशदम् अज्ञात्वाऽपि  
+नीव्या सह (माणिक्यं) यथा पुनः प्रत्यर्प्यते,  
+</details>
 
-So from these two śloka s, it is clear that the essence of the śāstras which primarily prescribe bharasamarpaṇam as in the words of Aḷavandār (60) "The responsibility of protecting me is also Thine", consists in saying "na mama “It is not mine" and getting rid of the feeling of one's connection (with everything), though one may not have a true and discriminatory knowledge about such things as the essential nature of the self.
 
-## THE MEANING OF THE AÑGĪ IN DVAYAM :
+<details><summary>English</summary>
 
-Thus in the first part of the Dvaya which deals with the upāya or means, the surrender to the Lord of the responsibility (for one's protection) accompanied by the thought that one is śeṣa to the Lord and exists only for Him is to be understood in connection with the verb (prapadye) joined with the word śaranam which treats of the upāya preceded by supreme faith ( mahavisvāsa ) and which contains within it, in an implicit form, the supplication for protection.
+If a man has (somehow) come into possession of a cloth bag with the king's seal on it,  
+he would return the bag (to the king),  
+even though he does not know for certain the nature and character of the gem contained within it,  
+in the hope that the king would take it back.  
+
+</details>
+
+<details><summary>Español</summary>
+
+If a man has (somehow) come into possession of a cloth bag with the king's seal on it,  
+he would return the bag (to the king),  
+even though he does not know for certain the nature and character of the gem contained within it,  
+in the hope that the king would take it back.  
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुद्रैयिट्टिरुक्किऱ राजाविऩ् किऴिच्चीरै ऒरु हेतुवाले तऩ् कैयिलेयिरुन्दाल् राजा कैक्कॊळ्ळुमॆऩ्ऱु उळ्ळिरुक्किऱ माणिक्कत्तिऩ् स्वरूपस्वभावङ्गळै विशदमाग अऱियादे किऴिच्चीरैयोडे मीळक्कॊडुक्कुमाप् पोले
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तात्पर्य मरुळिच्चॆय्गिऱार् मुद्रैयिट्टु इत्यादिना । मुद्रैयिट्टिरुक्किऱ - उळ्ळे यिरुक्किऱ वस्तु तॆरियामैक्काग राजाविऩ् मुद्रैयिट्टु वैत्तिरुक्किऱ, राजाविऩ् किऴिच्चीरै - मुद्रैयिऩाले राजाविऩुडैयदॆऩ्ऱु ज्ञातमाऩ माणिक्कम् मुडिन्द वस्त्रखण्डम्, ऒरु हेतुवाले - अज्ञातमाऩ ऒरु कारणत्ताले, तऩ् कैयिले यिरुन्दाल् - तऩ् कैयिल् इरुन्ददेयाऩाल्, राजा कैक्कॊळ्ळुमॆऩ्ऱु - मुद्रैयिरुप्पदाल् इदै उळ्ळे यिरुक्किऱ वस्तुवोडु अङ्कीकरिप्पऩॆऩ्ऱु ऎण्णि; इदऱ्कु कॊडुक्कुमाप्पोले ऎऩ्बदोडन्वयम्। उळ्ळिरुक्किऱ - किऴिच्चीरैयिऩुळ्ळिरुक्किऱ, माणिक्कत्तिऩ् - रत्नत्तिऩुडैय, विशदमाग अऱियादे - विशदमागत् ताऩ् अऱिन्दुगॊळ्ळामले, किऴिच्चीरैयोडे - आच्छादकमाऩ वस्त्रखण्डत्तोडे, मीळक्कॊडुक्कुमाप्पोले - प्रत्यर्पणम् पण्णुमाप्पोले। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देहाद्य्-अतिरिक्तात्माविऩ् स्व-रूप--स्व-भाव--स्थितिगळै विशदम् आग विवेकिक्क अऱियादार् उम्  
+उळ्ळ अऱिवैक् कॊण्डु आत्म-समर्पणम् पण्णिऩाल्  
+अव्व् अळवालुम् अनादि-कालम् पण्णिऩ आत्मापहार-चौर्यत्ताल् उण्डाऩ  
+भगवन्-निग्रहम् शमिक्कुम्  
+ऎऩ्गिऱ शास्त्रार्थत्तिले तिरुव्-उळ्ळम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथा देहाद्य्-अतिरिक्तस्यात्मनः स्व-रूप--स्व-भाव--स्थितीर्  
+विशदं विवेक्तुम् अविजानद्भिर् अपि  
+विद्यमानं ज्ञानम् अवलम्ब्याऽऽत्म-समर्पणे कृते सति  
+तावन्-मात्रेणापि अनादि-काल-कृतात्मापहार-चौर्य-जनितो भगवन्-निग्रहः शाम्येद्  
+इत्य् अस्मिन् शास्त्रार्थे तात्पर्यम् । 
+</details>
+
+<details><summary>English</summary>
+
+So also even those who have not the intelligence to know, with perfect clearness,  
+the nature, character and state of the soul as distinguished from the body  
+may surrender their self or soul with the little knowledge that they possess.  
+If they do so,  
+even for that much,  
+Bhagavān will be prepared to remit the punishment for the theft  
+consisting in making away with one's self (i. e. claiming it as one's own) from beginningless time. 
+
+This idea contained in the śāstras is what (Aḷavandār) has in mind. 
+</details>
+
+<details><summary>Español</summary>
+
+So also even those who have not the intelligence to know, with perfect clearness,  
+the nature, character and state of the soul as distinguished from the body  
+may surrender their self or soul with the little knowledge that they possess.  
+If they do so,  
+even for that much,  
+Bhagavān will be prepared to remit the punishment for the theft  
+consisting in making away with one's self (i. e. claiming it as one's own) from beginningless time. 
+
+This idea contained in the śāstras is what (Aḷavandār) has in mind. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देहाद्यतिरिक्तात्माविऩ् स्वरूपस्वभावस्थितिकळै विशदमाग विवेकिक्कअऱियादारुम् उळ्ळ अऱिवैक्कॊण्डु आत्मसमर्पणम् पण्णिऩाल् अव्वळवालुम् अनादिकालम् पण्णिऩ आत्मापहारचौर्यत्तालुण्डाऩ भगवन्निग्रहम् शमिक्कुमॆऩ्गिऱ शास्त्रार्थत्तिले तिरुवुळ्ळम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+देहाद्यतिरिक्तात्माविऩिदि । इङ्गु आदिपदात् इन्द्रियादिसङ्ग्रहः । स्वरूपस्वभावस्थितिकळै - ज्ञानानन्दमयमाऩस्वरूपत्तैयुम्, ज्ञातृत्वादिरूपङ्गळाऩ स्वभावस्थितिकळैयुम्, विशदमाग विवेकिक्क अऱियादारुम् - विविच्य ज्ञातुमशक्तर्गळुम्, उळ्ळ अऱिवैक्कॊण्डु - नामॆऩ्बदु अहमर्थम्, अदु भगवाऩुक्कु शेषभूतमॆऩ्गिऱ अऱिवैक्कॊण्डु, अहमर्थम् देहेन्द्रियमनःप्राणेन्द्रिय(णादि)ङ्गळैक् काट्टिलुम् विलक्षणमॆऩ्ऱु तॆरियामल् पोऩालुम् अदु भगवाऩुक्कु शेषभूतमॆऩ्गिऱ ज्ञानमात्रत्तैक् कॊण्डॆऩ्ऱबडि। आत्मसमर्पणम् पण्णिऩालिति । अहमर्थमाऩ आत्मा अवऩुक्कु शेषभूतमॆऩ्ऱॆण्णिऩालॆऩ्ऱबडि। अव्वळवालुम् - आत्मस्वरूपगुणादिगळिल् वैशद्यमऩ्ऱिक्के समर्पणमात्रत्तालुम्। आत्मापहारचौर्यत्तालुण्डाऩ - भगवच्छेषभूतऩाऩ आत्मावै तऩक्के शेषऩाग अदावदु स्वतन्त्रऩाग निऩैक्कैयागिऱ चौर्यत्तालुण्डाऩ, भगवन्निग्रहम् - भगवन्निग्रहसङ्कल्पम्, शास्त्रार्थत्तिले तिरुवुळ्ळम् - ‘‘योऽहमस्मि स सन्यजे । यस्यास्मि न तमन्तरेमि’’ ऎऩ्गिऱ शास्त्रार्थत्तिले, अदावदु आत्माविऩुडैय स्वरूपस्वभावादिगळ् ऎऩक्कुत् तॆरियाविडिलुम्, योऽहमस्मि – वस्तुतो याऩ् यादृशस्वरूपस्वभावऩो, स सन् – तादृशऩागवे कॊण्डु, यजे – आत्मयागत्तैप् पण्णुगिऱेऩ्। अदावदु आत्मावै समर्पिक्किऱेऩ्। यस्यास्मि - ऎवऩुक्कु शेषभूतऩाग आगिऱेऩो, तमन्तरा - अवऩैविट्टु, नैमि – वेऱे रक्षकऩागप्पऱ्ऱुगिऱेऩल्लऩ् ऎऩ्गिऱ आत्मस्वरूपस्वभावङ्गळिल् वैशद्यमिल्लाविडिलुम् सामान्यतः तदनुसन्धानपूर्वकमाग शेषत्वानुसन्धानम् अनुष्ठिक्कवमैयुमॆऩ्गिऱ शास्त्रार्थत्तिले तिरुवुळ्ळम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु मेल्  
+‘‘मम नाथ यदस्ति’’ (आळवन्दार् स्तोत्रम् ५३।) ऎऩ्गिऱ श्लोकत्तिल्  
+इस्-समर्पणत्तैप् पऱ्ऱ अनुशयम् पण्ण्-इऱ्ऱुम् स्व-रूपादि-विवेकम् अऩ्ऱिक्के  
+समर्पिक्कप् पुक्कालुम् तऩ्ऩ्-उडैय द्रव्यत्तै राजावुक्कु उपहारम् आगक् कॊडुप्पारैप् पोलेय्  
+ऎऩ्ऩद् ऎऩ्गिऱ अभिमानत्तोडे समर्पिक्किल्  
+आत्मापहार-चौर्यम् अडिय्-अऱ्ऱद् आगाद्  
+ऎऩ्गैक्कागव् अत्तऩै। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतद् अग्रे, “9 मम नाथ यदस्ति" इति श्लोके  
+एतत्-समर्पण-विषये ऽनुशय-करणम् अपि  
+स्व-रूपादि-विवेकं विना समर्पणे प्रवृत्ताव् अपि  
+स्वकीयं द्रव्यं राज्ञे उपहारत्वेन ददान इव  
+मदीयम् इत्य् अभिमानेन सह यदि समर्पयेत्,  
+तर्हि आत्मापहार-चौर्यम् उन्मूलितं न भवतीत्य् एतज्-ज्ञापनार्थम् । 
+</details>
+
+<details><summary>English</summary>
+
+In the next *śloka  (53)[^53] it might appear as if he revoked the surrender (made before);  
+but its meaning is only this :  
+Even when a person is bent on surrendering his self  
+without a knowledge of such things as the nature of his self,  
+if he surrenders it with the notion that it is his own,  
+like the presentation to a king of something belonging to oneself,  
+it would not completely put an end to the crime of having stolen one's self. 
+
+[^53]:
+
+    “मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव । नियतस्वमिति प्रबुद्धधीरथवा किन्नु समर्पयामि ते॥ आळवन्दार् स्तोत्रम्-५३
+
+    However O lord, what can I surrender to Thee, O Madhava,  
+    when I know that I and whatever belongs to me are always thine.  
+    As I have nothing of my own, I have nothing to surrender,  
+    I am only giving Thee what belongs to Thee",
+</details>
+
+<details><summary>Español</summary>
+
+In the next *śloka  (53)[^es53] it might appear as if he revoked the surrender (made before);  
+but its meaning is only this :  
+Even when a person is bent on surrendering his self  
+without a knowledge of such things as the nature of his self,  
+if he surrenders it with the notion that it is his own,  
+like the presentation to a king of something belonging to oneself,  
+it would not completely put an end to the crime of having stolen one's self.
+
+
+[^es53]:
+
+    “मम नाथ यदस्ति योऽस्म्यहं सकलं तद्धि तवैव माधव । नियतस्वमिति प्रबुद्धधीरथवा किन्नु समर्पयामि ते॥ आळवन्दार् स्तोत्रम्-५३
+
+    However O lord, what can I surrender to Thee, O Madhava,  
+    when I know that I and whatever belongs to me are always thine.  
+    As I have nothing of my own, I have nothing to surrender,  
+    I am only giving Thee what belongs to Thee",
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु मेल् ‘‘मम नाथ यदस्ति’’ (आळवन्दार् स्तोत्रम् ५३।) ऎऩ्गिऱ श्लोकत्तिल् इस्-समर्पणत्तैप् पऱ्ऱ अनुशयम् पण्णिऱ्ऱुम् स्वरूपादिविवेकमऩ्ऱिक्के समर्पिक्कप् पुक्कालुम्दऩ्ऩुडैय द्रव्यत्तै राजावुक्कु उपहारमागक् कॊडुप्पारैप्पोले यॆऩ्ऩदॆऩ्गिऱ अभिमानत्तोडे समर्पिक्किल् आत्मापहारचौर्यमडियऱ्ऱ तागा तॆऩ्गैक्कागवत्तऩै। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि विशदज्ञानपूर्वकमागवादल्, उळ्ळवऱिवैक्कॊण्डादल् समर्पणम् पण्ण वेण्डुवदु आवश्यकमॆऩ्ऩिल्; स्त्रोत्रत्तिल् इन्द श्लोकत्तुक्कु मेल् ‘‘मम नाथ’’ ऎऩ्गिऱ श्लोकत्तिल् ‘‘अहमद्यैव मया समर्पितः’’ ऎऩ्ऱु ताऩ् पण्णिऩ समर्पणत्तैक् कुऱित्तु अनुशयिक्कक्कूडुमो? अदावदु पश्चात्तापप्पडक् कूडुमोवॆऩ्ऱु शङ्गित्तु परिहारमरुळिच् चॆय्गिऱार् इदुक्कु मेल् मम नाथ यदस्ति ऎऩ्गिऱ श्लोकत्तिलित्यादियाल्। 
+
+अस्य श्लोकस्यायमर्थः । हे नाथ – नाथत्वेन पतिं विश्वस्येत्यादि प्रमाणप्रसिद्धऩाऩ भगवाऩे! मम – जीवतया प्रसिद्धऩाऩ अहमर्थमाऩ ऎऩक्कु। यदस्ति – स्वानुबन्धितया प्रमाणसिद्धमाऩ गुणविग्रहादिगळ् यादु उण्डो? योऽस्म्यहं – त्र्यक्षरब्रह्मत्तिल् अदावदु प्रणवत्तिल् तृतीयाक्षरत्तिल् विवक्षितऩाऩ यादॊरु अहमर्थऩाऩ नाऩुण्डो? सकलं – तत् – आत्मात्मीयङ्गळाऩ अन्द सर्वम्। हिशब्देन प्रमाणप्रसिद्धिर्द्योत्यते । तवैव – सर्वकारणतया सर्वरक्षकतया च प्रथमाक्षरप्रकृत्युक्तऩाऩ उऩ्ऩुडैयदे। एवकारत्ताले मध्यमाक्षरसिद्धमाऩ अनन्यार्हत्वं प्रकाश्यते । माधव - इदऩाल् निरुपाधिकसर्वशेषित्वं सूच्यते । चतुर्थियिल् विवक्षितत्तैच् चॊल्लुगिऱदु नियतस्वमिति । नित्यशेषभूतमित्यर्थः । इति प्रबुद्धधीः –नित्यशेषभूतमॆऩ्ऱु त्वत्प्रसादसन्धुक्षितशास्त्रङ्गळाले विकसितबुद्धिः । अथवा – पक्षान्तरेण, किन्नु समर्पयामि ते – ‘‘मया समर्पितः’’ ऎऩ्ऱु सॊऩ्ऩविडत्तिल् शेषत्वज्ञानमिरुन्दालुम् स्वाधीनसमर्पणकर्तृत्वबुद्ध्या किन्नु समर्पयामि ते? न किमपीत्यर्थः । सर्वस्वामिनः सर्वेश्वरस्य तव पूर्वम् अशेषभूतम् इदानीं मया स्वातन्त्र्यस्वामित्वाभिमानपूर्वकं शेषीकर्तव्यं न किञ्चिदस्ति । अतः पूर्वश्लोकोक्तं समर्पणं त्वच्छेषत्वप्रतिपत्तिमात्रकृतम्; न तु मदीयस्य त्वच्छेषत्वापादनरूपमिति भावः ऎऩ्ऱु। 
+
+इस्समर्पणत्तैप् पऱ्ऱ - मया समर्पितः ऎऩ्ऱु पूर्वश्लोकत्तिल् सॊल्लप्पट्ट आत्मसमर्पणत्तैप्पऱ्ऱ। अनुशयम् पण्णिऱ्ऱुम् - अथवा किन्नु समर्पयामि ते ऎऩ्ऱु अनुशयित्तदुम्। पश्चात्तापद्योतकवाक्यत्तैच् चॊऩ्ऩदुवुम् ऎऩ्ऱबडि। स्वरूपादिविवेकमऩ्ऱिक्के समर्पिक्कप् पुक्कालुमिति । इङ्गु आदिपदाद्गुणादिपरिग्रहः । 
+
+अऩ्ऱिक्के - कीऴ् श्लोकत्तिल् सॊऩ्ऩबडि स्वरूपगुणङ्गळिल् विविच्य ज्ञानमऩ्ऱिक्केयॆऩ्ऱबडि। समर्पिक्कप् पुक्कालुम् - समर्पिक्क यत्नम् पण्णिऩालुमॆऩ्ऱबडि। तऩ्ऩुडैय द्रव्यत्तै - स्वीयत्वेनाभिमतमाऩ द्रव्यत्तै। राजाविऱ्कु उपहारमागक् कॊडुप्पारैप् पोले पूर्वम् इन्द वस्तुविऱ्कु शेषियल्लाद राजाविऱ्कु उपहारतया स्वत्वापादनम् पण्णुवारैप्पोले। ऎऩ्ऩदॆऩ्गिऱ अभिमानत्तोडु समर्पिक्किल् - अयमात्मा मदीयः; तमिमं भगवते समर्पयामि ऎऩ्गिऱ अभिमानत्तोडु समर्पिक्किल्। आत्मापहारचौर्यमडियऱ्ऱदागादॆऩ्गैक्काग - भगवच्छेषभूतऩाऩ आत्मावै तऩक्कु शेषमाग निऩैक्कैयागिऱ आत्मापहारचौर्यमडियऱ्ऱदाग वागादॆऩ्गैक्काग, अडियऱ्ऱदाग - मूलकारणमऱ्ऱदाग। समर्पणत्तिऱ्कु मुऩ्बे इदं न मदीयम्; अदावदु इन्द आत्मवस्तु ऎऩ्ऩुडैयदऩ्ऱु ऎऩ्ऱु तॆळिन्दु समर्पिक्कामल् इदै समर्पणकालत्तिलुम् मदीयमॆऩ्ऱु ऎण्णि समर्पित्ताल् आत्माविल् मदीयत्वबुद्धियागिऱ आत्मापहारचौर्यत्तिऩ् वेर् अऱ्ऱदागादॆऩ्गैक्काग, समर्पणत्तिऱ्कु मुऩ्बे न ममेदं आत्मवस्तु ऎऩ्ऱु इप्पडि तऩ्ऩोडु सम्बन्धत्तैयऱुत्तालल्लदु चौर्यमडियऱ्ऱ तागादॆऩ्ऱु करुत्तु। मऱ्ऱ आत्मस्वरूपगुणविवेकमिल्लामल् समर्पित्ताल् अदु कार्यकरमाऩालुम् अवऩुडैय वस्तुवै यवऩुक्कु समर्पिक्किऱेऩॆऩ्गिऱ विवेकमिल्लामल् समर्पित्तालदु कार्यकरमागादॆऩ्ऱु इव्वळविले उत्तरश्लोकत्तिऱ्कु तात्पर्यमेयॊऴिय पूर्वम् समर्पितमाऩ समर्पणम् तत्त्ववित्तुक्कळुक्कुत् कूडादॆऩ्गिऱ वर्थत्तिले तात्पर्यमिल्लै यॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अल्लदु शास्त्र-चोदितम् आय्त् ताम् अनुष्ठित्त समर्पणत्तै  
+अ-ज्ञ-कृत्यम् आक्किऩ बडिय् अऩ्ऱु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+न तु शास्त्र-चोदितस्य स्वानुष्ठितस्य समर्पणस्याज्ञकृत्यत्वापादनार्थम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+It does not mean that Aḷavandār considered his self surrender made in śloka  52 in accordance with the injunctions contained in the śāstras,  
+as having been made in ignorance.
+</details>
+
+<details><summary>Español</summary>
+
+It does not mean that Aḷavandār considered his self surrender made in śloka  52 in accordance with the injunctions contained in the śāstras,  
+as having been made in ignorance.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अल्लदु शास्त्रचोदितमाय्त् तामनुष्ठित्तसमर्पणत्तै अज्ञकृत्यमाक्किऩबडियऩ्ऱु। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदै स्पष्टीकरिक्किऱार् अल्लदु इत्यादिना । अल्लदु - इप्पडियऩ्ऱिक्के, शास्त्रचोदितमाय् - ‘‘अप्रमत्तेन वेद्धव्य’’मित्यादिशास्त्रङ्गळिल् तत्त्ववित्तुक्कळुक्के कर्तव्यमाग विधिक्कप्पट्ट। इदऩाल् तत्ववित्तुक्कळुक्कु इन्द श्लोकत्तिल् आत्मसमर्पणम् अनुशयपूर्वकमाग निषेधिक्कप्पडुगिऱदॆऩ्ऱु सॊल्लुबवर्गळुक्कु तत्त्ववित्तुक्कळुक्कु इन्द समर्पणत्तै विधिक्किऱ इन्द श्रुति विरुद्धमाम् ऎऩ्ऱु ज्ञापिक्कप्पट्टदु। तामनुष्ठित्त - तत्त्वविदग्रेसरराऩ तामनुष्ठित्त। इदऩाल् तत्त्ववित्तुक्कळुक्कु समर्पणम् अनुष्ठेयमल्लवॆऩ्ऱु सॊल्लुगिऱवर्गळुक्कु तत्त्वविदग्रेसराऩ आळवन्दारुडैय अनुष्ठानविरोधम् दुरुद्धरमॆऩ्ऱु सूचितमागिऱदु। समर्पणत्तै - ‘‘अहमद्यैव मया समर्पितः’’ ऎऩ्ऱु कीऴ् श्लोकत्तिल् सॊल्लप्पट्ट आत्मसमर्पणत्तै। अज्ञकृत्यमाक्किऩ पडियऩ्ऱु - मुदल् श्लोकम् अज्ञानदशैयिल् पण्णिऩ आत्मसमर्पणत्तैच् चॊल्लुगिऱ तॆऩ्ऱुम् इरण्डावदु श्लोकम् प्रबुद्धधीयागवाऩवऩुक्कु अदै निषेधिक्किऱ तॆऩ्ऱुम् सॊल्लुबवर् मदप्पडियऩ्ऱु ऎऩ्ऱबडि। अवर्गळ् मदप्पडियाऩाल् तत्त्ववित्तुक्कळुक्कु समर्पणविधायकशास्त्रमुम् तत्त्वविदग्रेसराऩ आळवन्दारुडैय अनुष्ठानमुम् विरुद्धमाय् मुडियुमॆऩ्ऱु करुत्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आग इरण्डु श्लोकत्तालुम्  
+यथाऽवस्थित--स्व-रूपादि--विवेकम् इल्लैयेय् आगिलुम्  
+‘‘न मम’’ ऎऩ्ऱु स्व-सम्बन्धम् अऱुक्कैये  
+‘‘अहम् अपि तवैवास्मि हि भरः’’ (आळवन्दार् स्तोत्रम् ६०) ऎऩ्ऩुम् बडि  
+भर-समर्पण-प्रधानम् आऩ शास्त्रार्थत्तिल् सारम् ऎऩ्ऱद् आयिऱ्ऱु।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१०३]]
+
+तद् एवं द्वाभ्यां श्लोकाभ्याम् -  
+यथा-ऽवस्थित--स्व-रूपादि-विवेके अ-सत्यपि,  
+"न ममे"ति स्व-स्व-सम्बन्ध-लवनम् एव  
+"10 अहम् अपि तवैवास्मि हि भरः" इति वर्णनार्ह-भर-समर्पण-प्रधाने शास्त्रार्थे सार इति सिद्धम् । 
+</details>
+
+<details><summary>English</summary>
+
+So from these two śloka s,  
+it is clear that the essence of the śāstras  
+which primarily prescribe bharasamarpaṇam  as in the words of Aḷavandār (60)  
+
+> "The responsibility of protecting me is also Thine", 
+
+consists in saying "na mama" = “It is not mine"  
+and getting rid of the feeling of one's connection (with everything),  
+though one may not have a true and discriminatory knowledge  
+about such things as the essential nature of the self.
+</details>
+
+<details><summary>Español</summary>
+
+So from these two śloka s,  
+it is clear that the essence of the śāstras  
+which primarily prescribe bharasamarpaṇam  as in the words of Aḷavandār (60)  
+
+> "The responsibility of protecting me is also Thine", 
+
+consists in saying "na mama" = “It is not mine"  
+and getting rid of the feeling of one's connection (with everything),  
+though one may not have a true and discriminatory knowledge  
+about such things as the essential nature of the self.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आग इरण्डु श्लोकत्तालुम् यथावस्थितस्वरूपादि विवेकमिल्लैयेयागिलुम् ‘‘न मम’’ ऎऩ्ऱु स्वसम्बन्धमऱुक्कैये ‘‘अहमपि तवैवास्मि हि भरः’’ (आळवन्दार् स्तोत्रम् ६०) ऎऩ्ऩुम्बडि भरसमर्पणप्रधानमाऩ शास्त्रार्थत्तिल् सारमॆऩ्ऱदायिऱ्ऱु।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द इरण्डु श्लोकत्तालुम् फलितमाऩ अर्थत्तैक् काट्टुगिऱार् आगवित्यादिना । आग - आहत्य, इरण्डु श्लोकत्तालुम् - इरण्डु श्लोकत्तालुम् सेर्न्दॆऩ्ऱबडि। यथावस्थितस्वरूपादिविवेकमिल्लैयेयागिलुमिति । इदु ‘‘योऽपि कोऽपि वा’’ ‘‘यथा तथाविधः’’ ‘‘यदस्ति योस्म्यहम्’’ ऎऩ्गिऱ पदङ्गळिऩ् फलितार्थम्। न मम ऎऩ्ऱु स्वसम्बन्धमऱुक्कैये इति । इदऱ्कु शास्त्रार्थत्तिल् सारमॆऩ्ऱ तायिऱ्ऱु ऎऩ्बदोडन्वयम्। स्वसम्बन्धमऱुक्कै यॆऩ्बदु ‘‘मया समर्पितः’’ ‘‘तवैव माधव’’ ऎऩ्बदिऩ् फलितार्थम्। शास्त्रार्थत्तिल् - शेषत्वानुसन्धानरूपसमर्पणशास्त्रार्थत्तिल्, इप्पडि शेषत्वानुसन्धानमे समर्पणशास्त्रमागिल् भरन्यासम् प्रपत्तिशास्त्रार्थमॆऩ्गिऱ सम्प्रदायमॆप्पडिप् पॊरुन्दुमॆऩ्ऩ वरुळिच्चॆय्गिऱार् भरसमर्पण प्रधानमाऩ इति । अहं त्वच्छेषभूतः, मदीयभरस्तवैव ऎऩ्गिऱ शास्त्रार्थत्तिल् भरसमर्पणम् प्रधानमाय् शेषत्वज्ञानम् तत्प्रधानकमायिरुक्कुमिऱे। आऩाल् इन्द भरसमर्पणप्रधानत्वम् आळवन्दारुक्कु अभिमतमायिरुन्दाल् इन्द इरण्डुश्लोकत्तिलुम् अदै यरुळिच्चॆय्यविल्लैये यॆऩ्ऩ वरुळिच्चॆय्गिऱार् अहमपि तवैवास्मि हि भरः इति । इङ्गु अरुळिच्चॆय्याविडिलुम् मेल् कण्ठरवेण भरसमर्पणत्तैच् चॊल्लुगैयाल् तत्प्रधानत्वम् इव्विरण्डु श्लोकङ्गळिलुम् सॊऩ्ऩ शेषत्वानु-सन्धानरूपसमर्पणशास्त्रार्थत्तिऱ्कुप् पॊरुन्दुमॆऩ्ऱु करुत्तु। सारमॆऩ्ऱदायिऱ्ऱु - अवऩिडत्तिल् समर्पणम् पण्णुवदु स्वसम्बन्धमऱ्ऱु निर्विचारऩाग यिरुक्कैक्कागवादलाल् स्वसम्बन्धमऱुक्कैये समर्पण शास्त्रार्थत्तिल् सारमॆऩ्ऱु तिरुवुळ्ळम्।  
+</details>
+
+## द्वये ऽङ्गी-स्वरूपानुसन्धान-स्थानम्
+
+<details><summary>English</summary>
+
+THE MEANING OF THE AÑGĪ IN DVAYAM :
+</details>
+
+<details><summary>Español</summary>
+
+THE MEANING OF THE AÑGĪ IN DVAYAM :
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि शेषत्वानुसन्धान-विशिष्टम् आऩ स्व-रक्षा-भर-समर्पणम्  
+द्वयत्तिल् उपाय-परम् आऩ पूर्व-खण्डत्तिल्  
+महा-विश्वास--पूर्वक--गोप्तृत्व-वरण--गर्भम् आऩ शरण-शब्दोपश्लिष्ट-क्रिया-पदत्तिले +++(→"प्रपद्ये")+++  
+सेर्त्तु अनुसन्धिक्क प्राप्तम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं शेषत्वानुसन्धान-विशिष्टं स्व-रक्षा-भर-समर्पणं  
+द्वये उपाय-परे पूर्व-खण्डे  
+महा-विश्वास-पूर्वक--गोप्तृत्व-वरण-गर्भ--शरण-शब्दोपश्लिष्ट-क्रियापदे  +++(→"प्रपद्ये")+++  
+समुच्चित्यानुसन्धातुं युक्तम् । 
+</details>
+
+<details><summary>English</summary>
+
+Thus in the first part of the Dvaya which deals with the upāya or means,  
+the surrender to the Lord of the responsibility (for one's protection)  
+accompanied by the thought that one is śeṣa to the Lord  
+and exists only for Him  
+is to be understood in connection with the verb (prapadye)  
+joined with the word śaranam  
+which treats of the upāya preceded by supreme faith ( mahavisvāsa )  
+and which contains within it, in an implicit form, the supplication for protection.
+</details>
+
+<details><summary>Español</summary>
+
+Thus in the first part of the Dvaya which deals with the upāya or means,  
+the surrender to the Lord of the responsibility (for one's protection)  
+accompanied by the thought that one is śeṣa to the Lord  
+and exists only for Him  
+is to be understood in connection with the verb (prapadye)  
+joined with the word śaranam  
+which treats of the upāya preceded by supreme faith ( mahavisvāsa )  
+and which contains within it, in an implicit form, the supplication for protection.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि शेषत्वानुसन्धानविशिष्टमाऩ स्वरक्षाभरसमर्पणम् द्वयत्तिलुपायपरमाऩ पूर्वखण्डत्तिल् महाविश्वासपूर्वकगोप्तृत्ववरणगर्भमाऩ शरणशब्दोपश्लिष्टक्रियापदत्तिले सेर्त्तु अनुसन्धिक्क प्राप्तम्। 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि शेषत्वानुसन्धानविशिष्टस्वरक्षाभरसमपर्णरूपप्रधानार्थत्तै करणमन्त्रत्तिल् अनुसन्धिक्क वेण्डिय स्थलत्तैक् काट्टुगिऱार् इप्पडि शेषत्वानुसन्धानेत्यादियाल्। द्वयत्तिलुपायपरमाऩ पूर्वखण्डत्तिलिति । शरणशब्दोपश्लिष्टक्रियापदमिरुप्पदाल् पूर्वखण्डमे उपायपर मागवेण्डुमॆऩ्ऱु तिरुवुळ्ळम्। मुऩ्बु इन्द पूर्वखण्डत्तिल् महाविश्वासादिगळ् सॊल्लप्पट्टदे, अदिल् इदैयॆप्पडि अनुसन्धिप्पदॆऩ्ऩ वरुळिच्चॆय्गिऱार् महाविश्वासपूर्वकगोप्तृत्ववरणगर्भमाऩ शरणशब्दोपश्लिष्टक्रियापदत्तिले सेर्त्तु अनुसन्धिक्क प्राप्तमिति । शरणशब्दोपश्लिष्टक्रियापदत्तिल् महाविश्वासगोप्तृत्ववरणङ्गळ् सॊल्लप्पट्टिरुन्दालुम्, अदुगळुडऩ् शेषत्वानुसन्धानविशिष्टभरसमर्पणत्तैयुम् सेर्त्तु एकबुद्ध्यारूढमाक्कि अनुसन्धिक्क प्राप्तम्। यद्यपि शरणशब्दोपश्लिष्टक्रियापदत्तिले उपायत्वाद्ध्यवसायम् प्रतिपाद्यम्। तथापि अदिल् गोप्तृत्ववरणमुम् अर्थसिद्धमॆऩ्ऱु पूर्वाधिकारत्तिल् सॊऩ्ऩदै निऩैत्तु गोप्तृत्ववरण गर्भमाऩ इत्युक्तिः । तथाच आर्थिकगोप्तृत्ववरणविशिष्टोपायत्वाध्यवसायप्रतिपादक शरणशब्दोपश्लिष्टक्रियापदत्तिलॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
 
 Thus (from what has been said in this chapter and in the foregoing chapters), although these six (the five aṅgas and the angī) may be understood separately, while considering, in detail, the meaning of each part of the sentence, yet they constitute only a single mental act while understanding the whole sentence, just like the understanding of other sentences having several parts. Therefore, in accordance with the śastras, this principal action with its aṅgas is performed only once.
 
