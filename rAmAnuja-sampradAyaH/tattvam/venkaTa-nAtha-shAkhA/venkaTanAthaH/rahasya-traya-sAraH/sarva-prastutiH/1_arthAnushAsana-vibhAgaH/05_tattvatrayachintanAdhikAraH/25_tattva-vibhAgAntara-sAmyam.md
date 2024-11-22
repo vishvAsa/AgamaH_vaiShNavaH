@@ -291,7 +291,7 @@ It only means that one should learn what is most important as quickly as possibl
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृषि पण्णादेय् उण्ण-विरग्+++(=उपाय)+++-उडैयवऩ् कृषि चिन्तैयै विडुम् आप्-पोल् ए+++(5)+++
+कृषि पण्णादेय् उण्ण-विरग्+++(=उपाय)+++-उडैयवऩ् कृषि चिन्तैयै विडुमाप् पोल् ए+++(5)+++
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>

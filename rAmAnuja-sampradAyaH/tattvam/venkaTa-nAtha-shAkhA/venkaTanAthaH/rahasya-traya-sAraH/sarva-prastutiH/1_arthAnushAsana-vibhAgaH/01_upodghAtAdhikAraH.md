@@ -772,7 +772,7 @@ It has been said, "God's love, good deeds done by chance, the gracious glance of
 
 ऒरु विरगालेय् अन्द राजावुक्कुम्  
 राजकुमारनुक्कुम्  
-परस्पर-संश्लेषाकाङ्क्षैयैय् उत्तम्भिक्कुम् आप्-पोलेय्  
+परस्पर-संश्लेषाकाङ्क्षैयैय् उत्तम्भिक्कुमाप् पोलेय्  
 </details>
 
 <details><summary>English</summary>
