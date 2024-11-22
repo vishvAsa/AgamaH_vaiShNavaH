@@ -397,7 +397,7 @@ title = "09 गतिस्थितिनिरूपणम्"
     .  a)—पृथ्वि A6 G6 R2 3 B;  b)—मया त्वम॰ Y* A6; ॰वासिते A5
 
 [^48]:
-    .  om Y* A6; उद्धृतासीति A1 2 R1 B M; धेनुरिति A1 2 R1 B M; हन मे पापम् A1 2 R1 B M [पापम् om A1 R1]; A1 2 R1 B M give full texts of the mantras; Y* A6 give full texts of अश्वक्रानते and उद्धृतासि
+    .  om Y* A6; उद्धृतासीति A1 2 R1 B M; धेनुरिति A1 2 R1 B M; हन मे पापम् A12 R1 B M [पापम् om A1 R1]; A1 2 R1 B M give full texts of the mantras; Y* A6 give full texts of अश्वक्रानते and उद्धृतासि
 
 [^49]:
     .  b)—विष्णुना X2* A1 2 R1 B M [R1 adds दंष्ट्रिणा]
@@ -501,7 +501,7 @@ title = "09 गतिस्थितिनिरूपणम्"
     .  om Y* A6; this passage is garbled in the mss, and I am not sure whether I have been able to restore the original;  1)—॰यामपताै᐀् B M; ॰यामपररात्रिं A1 2 R1; रात्रिं ग्रामे वसेदित्यत्र ऋतुश्च यद्यपि [B M add न] विशेषतः [विशेषितः B M; विशे then crossed out letters A5] A1 2 5 R1 B M; तथापि om A1 2 R1;  2)—नैकग्रामवासीति X2*;  3)—तौ for यौ G6 R2 3; तौ om X2* A5;  4)—mss place चत्वारो मासाः at the end of preceding sentence, putting the daṇḍa after it;  5)—वार्षिकान् G6 B M
 
 [^83]:
-    .  1)—सत्यकामः [जाबाल om] Y* A6;  2)—पुरे नगरे A4 6 G1; नगरे om G1; वापि A4 6 G1 2; भिक्षुकः Y* A6; स्थानादू॰ Y*;  3)—ऊर्ध्वं . . . [84] आरभ्य om A6; add इति Y*
+    .  1)—सत्यकामः [जाबाल om] Y* A6;  2)—पुरे नगरे A4 6 G1; नगरे om G1; वापि A4 6 G1 2; भिक्षुकः Y* A6; स्थानादू॰ Y*;  3)—ऊर्ध्वं ... [84] आरभ्य om A6; add इति Y*
 
 [^84]:
     .  1)—पुनः om Y* X2*;  a–b)—om X2*; गच्छेदित्यारभ्य A4; तु वा A5;  c)—॰रात्रिं A1 2 R1

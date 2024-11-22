@@ -88,7 +88,7 @@ This becomes amply clear from his commentary on the next kārikā, and also what
 
 kaimutya comes from kim uta, which corresponds to the _a fortiori_ argument. Here is an example from wikipedia —
 
-> If a teacher refuses to add 5 points to a student’s grade because the student does not deserve an additional 5 points, it can be inferred _a fortiori_ that the teacher will also refuse to raise the student’s grade by 10 points.
+> If a teacher refuses to add 5 points to a student’s grade because the student does not deserve an additional 5 points, it can be inferred_a fortiori_that the teacher will also refuse to raise the student’s grade by 10 points.
 
 Śrī Jīva Goswami’s point is that verse 3.33.6 is not to be taken as an injunction to perform soma-yāga, but as a glorification of the power of bhakti. These days, taking everything literally is common, and so it is that the corruption of ‘brāhmaṇa dīkṣā’ has crept into the Caitanya tradition.
 
@@ -120,7 +120,7 @@ Is eligibility for varṇāśrama duties the _purpose_ of bhakti? Most definitel
 
 > ataḥ pramāṇa-vākye’pi savanāya kalpate sambhāvito bhavati,  
 > na tu tadaivādhikārī syādi ty abhipretam |  
-> vyākhyātaṁ ca taiḥ sadyaḥ savanāya soma-yāgāya kalpate |  
+> vyākhyātaṁ ca taiḥ sadyaḥ savanāya soma-yāgāya kalpate|  
 > anena pūjyatvaṁ lakṣyata iti |
 > 
 > Therefore, in the pramāṇa-vākya (verse 3.33.6), the word ‘kalpate’ \[is used\] meaning ‘sambhāvito bhavati’ ‘is estimable’ for soma-yāga, and not that he becomes qualified for it at that time itself. Consequently, Śrīdhara Svāmī, states that sadyaḥ savanāya soma-yāgāya kalpate indicates that “he becomes worthy of honor” (anena pūjyatvaṁ lakṣyate).

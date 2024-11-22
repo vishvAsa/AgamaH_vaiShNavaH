@@ -82,7 +82,7 @@ In Anuchheda 75, Śrī Jīva Goswami dismantles the idea that bhakti is dependen
 
 In fact, the second part of Uddhava’s question contains the answer to his own question:
 
-> bhavatodāhṛtaḥ svāmin bhakti-yogo ’napekṣitaḥ  
+> bhavatodāhṛtaḥ svāmin bhakti-yogo’napekṣitaḥ  
 > nirasya sarvataḥ saṅgaṁ yena tvayy āviśen manaḥ
 > 
 > O Master, bhakti-yoga has been determined by You as independent of all other paths. By following the path of bhakti, the mind becomes immersed in You, casting off all other attachments. (sb 11.14.1–2)
@@ -111,7 +111,7 @@ The worthlessness of Vedic dharma is made even more explicit and pointed in Anuc
 > kiṁ janmabhis tribhir veha  
 śaukra-sāvitra-yājñikaiḥ  
 karmabhir vā trayī-proktaiḥ  
-puṁso ’pi vibudhāyuṣā
+puṁso’pi vibudhāyuṣā
 > 
 > śrutena tapasā vā kiṁ  
 vacobhiś citta-vṛttibhiḥ  
