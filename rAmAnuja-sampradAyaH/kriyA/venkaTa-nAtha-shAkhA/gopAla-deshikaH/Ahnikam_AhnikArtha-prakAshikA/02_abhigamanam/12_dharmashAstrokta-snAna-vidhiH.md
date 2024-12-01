@@ -71,7 +71,7 @@ title = "१२ धर्मशास्त्रोक्त-स्नान-�
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_07_hiraNya-shRngam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_07_hiraNya-shRngam"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -162,7 +162,7 @@ ______________
 
 [[60]]
 
-<div class="js_include" url="/devaH/AryaH/hindukaH/jalam/padyam/AvAhayAmi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/devaH/AryaH/hindukaH/jalam/padyam/AvAhayAmi"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 
@@ -309,7 +309,7 @@ ______________
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/4/08/"  newLevelForH1="5" includeTitle="true"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/1/4/08_pAvamAnyaH/"  newLevelForH1="5" includeTitle="true"> </div>  
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -325,7 +325,7 @@ ______________
 </details>
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/sarva-prastutiH/10/190_RtaM_cha_satyaM_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/190_RtaM_cha_satyaM_cha/"  newLevelForH1="2" includeTitle="false"> </div>  
 
 
 
@@ -346,7 +346,7 @@ ______________
 [[62]]
 </details>
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_09_yat_pRthivyAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_09_yat_pRthivyAm"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/06_mahA-nArAyaNopaniShat/01_10_ArdraM_jvalati/"  newLevelForH1="5" includeTitle="false"> </div>  
 
