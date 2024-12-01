@@ -35,8 +35,6 @@ title = "१२ धर्मशास्त्रोक्त-स्नान-�
 
 <div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/01/024/15_uduttamaM_varuNa.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/mUlam/01/024/15_uduttamaM_varuNa.md"  newLevelForH1="5" includeTitle="false"> </div>  
-
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/Rk/vishvAsa-prastutiH/1/2_somayAgArambhaH/08_anasi_sthApanam/astabhnAd_dyAm.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
