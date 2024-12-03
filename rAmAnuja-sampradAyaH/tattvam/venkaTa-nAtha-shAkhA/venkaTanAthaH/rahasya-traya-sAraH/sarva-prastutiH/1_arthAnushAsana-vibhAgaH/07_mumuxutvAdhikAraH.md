@@ -21,7 +21,7 @@ page 147
 
 कालावर्तान्, प्रकृति-विकृतीः, काम-भोगेषु दोषान्,  
 ज्वाला-गर्त-प्रतिम-दुरितोदर्क-दुःखानुभूतिम् ।  
-याथातत्थ्यं स्व-पर-नियतं यच् च दिव्यं पदन् तत्  
+याथातथ्यं स्व-पर-नियतं यच् च दिव्यं पदन् तत्  
 कारा-कल्पं वपुर् अपि **विदन्** कस् **तितिक्षेत** बन्धम् ॥१८॥+++(4)+++
 </details>
 
@@ -29,7 +29,7 @@ page 147
 
 कालावर्तान्, प्रकृति-विकृतीः, काम-भोगेषु दोषान्,  
 ज्वाला-गर्त-प्रतिम-दुरितोदर्क-दुःखानुभूतिम् ।  
-याथातत्थ्यं स्व-पर-नियतं यच् च दिव्यं पदन् तत्  
+याथातथ्यं स्व-पर-नियतं यच् च दिव्यं पदन् तत्  
 कारा-कल्पं वपुर् अपि **विदन्** कस् **तितिक्षेत** बन्धम् ॥१८॥+++(4)+++
 
 </details>
@@ -77,7 +77,7 @@ and also the nature of the body which is like a prison-house ?
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि इव्व्-अर्थङ्गळै अध्यात्म-शास्त्रङ्गळाले **स्** 
+इप्-पडि इव्व्-अर्थङ्गळै अध्यात्म-शास्त्रङ्गळाले **तॆळिन्दु** 
 </details>
 
 <details><summary>नीलमेघः (सं)</summary>
@@ -163,14 +163,14 @@ which are attributes of the self.
 
 <details><summary>English</summary>
 
-ith the conviction that the soul or self is capable of passing on into another world and taking up another body,  
+with the conviction that the soul or self is capable of passing on into another world and taking up another body,  
 the man learns, in a general way, that it is possible for him to have higher aims or goals  
 than those found in this world. 
 </details>
 
 <details><summary>Español</summary>
 
-ith the conviction that the soul or self is capable of passing on into another world and taking up another body,  
+with the conviction that the soul or self is capable of passing on into another world and taking up another body,  
 the man learns, in a general way, that it is possible for him to have higher aims or goals  
 than those found in this world. 
 </details>
