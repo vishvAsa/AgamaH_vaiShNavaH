@@ -115,7 +115,7 @@ title = "०६ तल्पान् निर्गमः"
 </details>
 
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_2_viShNukramAntam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/sarva-prastutiH/1/6_aiShTika-yAjamAnAdi/05_2_viShNukramAntam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 

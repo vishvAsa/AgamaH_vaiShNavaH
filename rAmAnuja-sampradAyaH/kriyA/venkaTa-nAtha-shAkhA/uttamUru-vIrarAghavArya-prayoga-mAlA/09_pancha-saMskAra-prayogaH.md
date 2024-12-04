@@ -5,7 +5,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 प्रयोगमालायां पञ्चसंस्कारप्रयोगः
 
 ## सदोऽनुज्ञा
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/saMhitA/yajuH/sarva-prastutiH/3/2/04_sphyAdyupasthAnamantrAH_vidhishcha/namas_sadase.md"  newLevelForH1="5" includeTitle="false"> 
 
 <details><summary>मूलम् (संयुक्तम्)</summary>
 
@@ -38,7 +38,7 @@ title = "पञ्चसंस्कारप्रयोगः"
 
 </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/267_sapratha_sabhAm.md"  newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/Rk/vishvAsa-prastutiH/1/2/1/267_sapratha_sabhAm.md"  newLevelForH1="5" includeTitle="false"> 
 
 सप्र॑थ स॒भाम् मे॑ गोपाय ।  
 ये च॒ सभ्या᳚स् सभा॒सदः॑ ।  
