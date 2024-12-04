@@ -53,13 +53,13 @@ title = "१३ सुदर्शनपाञ्चजन्यप्रति�
 
 
 ## पुरुषसूक्तम् 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/03/puruSha-sUktam"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/AraNyakam/sarva-prastutiH/03/puruSha-sUktam"  newLevelForH1="5" includeTitle="false"> </div>  
 
 ## ब्रह्मसूक्तम्
 
 ॥ ब्रह्मसूक्तम् ॥
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/brAhmaNam/sarva-prastutiH/2/8/8_21-26_brahma_jaJNAnam/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/2/8/8_21-26_brahma_jaJNAnam/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ## श्रीसूक्तम्
