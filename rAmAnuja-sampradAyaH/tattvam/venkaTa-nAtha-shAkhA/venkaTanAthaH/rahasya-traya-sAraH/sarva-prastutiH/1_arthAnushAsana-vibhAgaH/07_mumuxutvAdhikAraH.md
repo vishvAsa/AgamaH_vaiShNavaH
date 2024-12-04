@@ -1277,7 +1277,7 @@ which, in every one of these respects, is opposed to them.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “परमात्मनि यो रक्तो  
-> विरक्तो ऽपरम्-आत्मनि”  
+> विरक्तो ऽपरमात्मनि”  
 > (बार्हस्पत्य-स्मृतिः) 
 
 ऎऩ्गिऱव् अवस्थैयैय् उडैयर् आय्,
@@ -1286,7 +1286,7 @@ which, in every one of these respects, is opposed to them.
 <details><summary>नीलमेघः (सं)</summary>
 
 > “परमात्मनि यो रक्तो  
-> विरक्तो ऽपरम्-आत्मनि”  
+> विरक्तो ऽपरमात्मनि”  
 > (बार्हस्पत्य-स्मृतिः)
 
 इत्य्-उक्ताम् अवस्थां प्राप्ताः,
