@@ -1650,7 +1650,7 @@ PRAPATTI IS A MOMENTARY ACTION.
 
 अनेक-व्यापार-साध्यो धानुष्कस्य लक्ष्य-वेधार्थी बाण-मोक्षो  
 यथा क्षण-कृत्यं ( क्षण-काल-साध्यो ) भवति,  
-तथेदम् आत्म-रक्षा-भर-समर्पणं भवतीति श्रुति-सिद्धम् । 
+तथेदम् आत्म-रक्षा-भर-समर्पणं भवतीति श्रुति-सिद्धम् ।+++(5)+++ 
 </details>
 
 <details><summary>English</summary>
@@ -1707,11 +1707,143 @@ with great care and with keen concentration ").
 ऎऩ्बदु। इदिल् प्रणवत्तै धनुस्सागवुम्, आत्मावै शरमागवुम्, ब्रह्मत्तै लक्ष्यमागवुम्, आत्मसमर्पणत्तै अत्यन्तावधानसहितऩाऩ पुरुषऩाले कर्तव्यमाऩ लक्ष्यवेधमागवुम् निरूपिक्कप्पट्टिरुप्पदाल् इदऱ्कु आत्मसमर्पणत्तिल् अनुष्ठेय व्यापारङ्गळ् बहुवायिरुन्दालुम् अवैगळिल् अभ्यासपाटवमुडैयवऩुक्कु, धानुष्कऩुडैय अनेकव्यापाराभ्यासपाटवत्ताले क्षणकालसाध्यमाऩ बाणमोक्षम्बोले आत्मसमर्पणम् क्षणकालसाध्यमॆऩ्ऱु ज्ञापिक्कैयिले नोक्कु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इब् भर-समर्पणमे प्रपत्ति-मन्त्रङ्गळिल् प्रधानम् आग अनुसन्धेयम्  
+
+ऎऩ्ऩुम् इडत्तै 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य भरसमर्पणस्यैव प्रपत्ति-मन्त्रेषु प्राधान्येनानुसन्धेयताम् 
+</details>
 
 
-That this surrender of the responsibility of protection (bharasamarpana) should be chiefly thought of while uttering the mantras of prapatti is clearly stated as follows in Satyaki tantra by the Saviour Himself, who undertakes the responsibility: "With this mantra one should surrender one's self to me. The one who has surrendered to me the responsibility of doing what should be done will become one who has done one's duty."
+<details><summary>English</summary>
 
-## A BRIEF STATEMENT OF WHAT BHARASAMARPAṆA IS:
+That this surrender of the responsibility of protection (bharasamarpana)  
+should be chiefly thought of while uttering the mantras of prapatti  
+is clearly stated as follows: 
+</details>
+
+<details><summary>Español</summary>
+
+That this surrender of the responsibility of protection (bharasamarpana)  
+should be chiefly thought of while uttering the mantras of prapatti  
+is clearly stated as follows: 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्भरसमर्पणमे प्रपत्तिमन्त्रङ्गळिल् प्रधानमाग अनुसन्धेयमॆऩ्ऩुमिडत्तै 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप् भरसमर्पणमे - इव्वङ्गियाऩ भरसमर्पणमे। प्रपत्तिमन्त्रङ्गळिल् - प्रपत्तिक्कु करणमाऩ द्वयादिमन्त्रङ्गळिल्। प्रधानमागवनुसन्धेयमॆऩ्ऩुमिडत्तै - मुख्यतया अनुसन्धेयमॆऩ्बदै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अनेनैव तु मन्त्रेण  
+स्वात्मानं मयि **निक्षिपेत्** ।  
+मयि निक्षिप्त-कर्तव्यः  
+**कृत-कृत्यो** भविष्यति’’  
+(सात्यकि-तन्त्रम्।)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘अनेनैव तु मन्त्रेण  
+स्वात्मानं मयि **निक्षिपेत्** ।  
+मयि निक्षिप्त-कर्तव्यः  
+**कृत-कृत्यो** भविष्यति’’  
+(सात्यकि-तन्त्रम्।)  
+</details>
+
+<details><summary>English</summary>
+
+> "With this mantra  
+> one should surrender one's self to me.  
+> The one who has surrendered to me the responsibility of doing what should be done  
+> will become one who has done one's duty."
+</details>
+
+<details><summary>Español</summary>
+
+> "With this mantra  
+> one should surrender one's self to me.  
+> The one who has surrendered to me the responsibility of doing what should be done  
+> will become one who has done one's duty."
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अनेनैव तु मन्त्रेण स्वात्मानं मयि निक्षिपेत् ।  
+मयि निक्षिप्तकर्तव्यः कृतकृत्यो भविष्यति’’ (सात्यकि-तन्त्रम्।)
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अनेनैव तु मन्त्रेणेति । पूर्वोक्तमाऩ ‘‘तद्विष्णोः’’ ऎऩ्गिऱ मन्त्रत्ताले ऎऩ्ऱबडि। स्वात्मानं मयि निक्षिपेत् – भरसमर्पणप्रधानमाऩ आत्मनिक्षेबत्तै ऎऩ्ऩिडत्तिल् पण्णक् कडवऩ्। इङ्गु मन्त्रेणेति तृतीयाश्रुत्या मन्त्रत्तिऱ्कु भरसमर्पणप्रधानात्मनिक्षेपकरणत्वम् तोऩ्ऱु कैयाल् अनुष्ठेयार्थप्रकाशकमाऩ करणमन्त्रत्तिऱ्कु भरसमर्पणप्रकाशनमे मुख्यमागैयाले इदिल् भरसमर्पणमे प्रधानतया अनुसन्धेयमॆऩ्ऱु तोऩ्ऱुगिऱदु। मयि - ऎऩ्ऩिडत्तिल्। निक्षिप्तकर्तव्यः – निक्षिप्तः कर्तव्यः स्वरक्षाभरः येन सः, ऎऩ्ऩिडत्तिल् भरसमर्पणम् पण्णिऩवऩॆऩ्ऱबडि। कृतकृत्यो भविष्यति – कृतं कृत्यं – मोक्षार्थोपायानुष्ठानं येन सः । मयि भरसमर्पणकारीमोक्षार्थोपायानुष्ठाता । ऎऩ्ऱु सात्यकितन्त्रत्तिले - ऎऩ्ऱु सात्यकितन्त्रमॆऩ्गिऱ पाञ्चरात्रसंहितैयिले भरस्वीकारम् पण्णुगिऱ - समर्पितमाऩ आत्मरक्षाभरत्तै अङ्गीकरिक्किऱ। शरण्यऩ् ताऩे - रक्षणसमर्थऩाऩ भगवाऩ् ताऩे, तॆळियवरुळिच्चॆय्दाऩ् - शरणशब्दोपश्लिष्टक्रियापदत्तिल् महाविश्वासगोप्तृत्ववरण उपायत्वाध्यवसाय रक्षाभरसमर्पणङ्गळ् नालुम् सॊल्लप् पडुगैयाल् इम्मन्त्रत्तिल् प्रधानतया अनुसन्धेयम् ऎदुवो ऎऩ्ऱु सन्देहिक्कादबडि ‘‘अनेनैव तु मन्त्रेण स्वात्मानं मयि निक्षिपेत्’’ ऎऩ्ऱु भरन्यासप्रधानमाऩ आत्मनिक्षेपत्तिल् भरन्यासमे इम्मन्त्रत्तिल् प्रधानप्रतिपाद्यमॆऩ्ऱु तॆळियुम्बडि अरुळिच्चॆय्दाऩॆऩ्ऱबडि। इदिल् महाविश्वासादिगळ् शब्दतः प्रतिपाद्यमाऩालुम् मन्त्रत्तै भरसमर्पणत्तिले विनियोगिक्किऱ शरण्याभिप्रायबलत्ताले भरसमर्पणमे प्रधानमाग अनुसन्धेयमॆऩ्ऱु तिरुवुळ्ळम्। ‘‘अनेन’’ ऎऩ्ऱु ऒरु मन्त्र विशेषत्तैच् चॊऩ्ऩदु उपलक्षणमॆऩ्गिऱ अभिप्रायत्ताले मुदलिल् प्रपत्तिमन्त्रङ्गळिल् ऎऩ्ऱु बहुवचनप्रयोगम्।+++(5)+++  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु सात्यकि-तन्त्रत्तिले भर-स्वीकारम् पण्णुगिऱ शरण्यऩ्  
+ताऩे तॆळियव् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति सात्यकितन्त्रे भरस्वीकर्ता शरण्यः स्वयं विशदमनुजग्राह ॥
+</details>
+
+
+<details><summary>English</summary>
+
+in Satyaki tantra by the Saviour Himself,  
+who undertakes the responsibility
+</details>
+
+<details><summary>Español</summary>
+
+in Satyaki tantra by the Saviour Himself,  
+who undertakes the responsibility
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु सात्यकितन्त्रत्तिले भरस्वीकारम् पण्णुगिऱ शरण्यऩ् ताऩे तॆळियवरुळिच्चॆय्दाऩ्। 
+</details>
+
+
+## निष्कृष्ट-साङ्गानुष्ठान-स्वरूपम्
+<details><summary>English</summary>
+
+A BRIEF STATEMENT OF WHAT BHARASAMARPAṆA IS:
+</details>
+
+<details><summary>Español</summary>
+
+A BRIEF STATEMENT OF WHAT BHARASAMARPAṆA IS:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदिल् साङ्गानुष्ठानम् आयऱ्ऱदु - कर्तृत्वत्याग-ममतात्याग-फलत्याग-फलोपायत्वत्याग-पूर्वकमाऩ आनुकूल्यसङ्कल्पाद्यर्थानुसन्धानत्तोडे गुरुपरंपरोपसत्तिपूर्वकद्वयवचनमुखत्ताले स्वरूपफलन्यासगर्भमाऩ आत्मरक्षाभरसमर्पणम् पण्णुगै। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदिल् साङ्गानुष्ठानमायऱ्ऱदु - कर्तृत्वत्याग-ममतात्याग-फलत्याग-फलोपायत्वत्याग-पूर्वकमाऩ आनुकूल्यसङ्कल्पाद्यर्थानुसन्धानत्तोडे गुरुपरंपरोपसत्तिपूर्वकद्वयवचनमुखत्ताले स्वरूपफलन्यासगर्भमाऩ आत्मरक्षाभरसमर्पणम् पण्णुगै। 
+</details>
+
 
 In (the performance of) this (angī), the conclusion regarding the adoption of this upāya with its aṅgas is as follows:- it consists in the act of surrendering the responsibility for the protection of one's self preceded by the following:--the giving up of the thought that one is the doer (for it is the Lord that does everything), the giving up of the thought of 'mine' (that there is anything belonging to oneself), the giving up of the fruit of the action, the giving ap of the thought that he himself adopts the means for obtaining that fruit; these must be accompanied by anukūlya saṅkalpa, pratikulyavarjana and the rest and, likewise, reverent bowing down to the succession of gurus and with the utterance of Dvaya. The surrender of the responsibility for the protection of one's self carries with it implicitly the surrender of one's Svarūpa or self and the fruit or gain arising from it. The giving up of the thought that one is the doer will result from the realisation of one's entire dependance on the Lord throughout the existence of the soul. This will make one know that this doership has been vouchsafed to one by the Lord Himself.
 
