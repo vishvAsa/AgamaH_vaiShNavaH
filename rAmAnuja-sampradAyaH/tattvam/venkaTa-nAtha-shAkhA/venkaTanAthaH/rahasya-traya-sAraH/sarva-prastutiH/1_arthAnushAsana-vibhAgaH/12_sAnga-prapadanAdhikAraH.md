@@ -1836,16 +1836,117 @@ A BRIEF STATEMENT OF WHAT BHARASAMARPAṆA IS:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदिल् साङ्गानुष्ठानम् आयऱ्ऱदु - कर्तृत्वत्याग-ममतात्याग-फलत्याग-फलोपायत्वत्याग-पूर्वकमाऩ आनुकूल्यसङ्कल्पाद्यर्थानुसन्धानत्तोडे गुरुपरंपरोपसत्तिपूर्वकद्वयवचनमुखत्ताले स्वरूपफलन्यासगर्भमाऩ आत्मरक्षाभरसमर्पणम् पण्णुगै। 
+इदिल् साङ्गानुष्ठानम् आयऱ्ऱदु -  
+कर्तृत्व-त्याग--ममता-त्याग-- फल-त्याग--फलोपायत्व-**त्याग-पूर्वकम्** आऩ  
+आनुकूल्य-सङ्कल्पाद्य्-**अर्थानुसन्धानत्तोडे**  
+गुरु-परंपरोपसत्ति-पूर्वक--द्वय-वचन-मुखत्ताले स्व-रूप--फल-**न्यास**-गर्भम् आऩ  
+आत्म-रक्षा-भर-**समर्पणम्** पण्णुगै। 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्र साङ्गानुष्ठानतया निष्कृष्टं तावत् -  
+कर्तुत्व-त्याग--ममता-त्याग-- फल-त्याग--फलोपायत्व-त्याग-पूर्वकं  
+आनुकूल्य-संकल्पाद्य्-अर्थानुसन्धानेन सह  
+गुरु-परम्परोपसत्ति-पूर्वक--द्वय-वचन-मुखेन  
+स्व-रूप--फल-न्यास--गर्भात्म-रक्षा--भर-समर्पण-करणम् ।
+</details>
+
+<details><summary>English</summary>
+
+In (the performance of) this (angī),  
+the conclusion regarding the adoption of this upāya with its aṅgas  
+is as follows:-  
+it consists in the act of surrendering  
+the responsibility for the protection of one's self  
+preceded by the following:--
+
+- the giving up of the thought that one is the doer  
+  (for it is the Lord that does everything), 
+- the giving up of the thought of 'mine'  
+  (that there is anything belonging to oneself),  
+- the giving up of the fruit of the action,  
+- the giving up of the thought  
+  that he himself adopts the means for obtaining that fruit;  
+ 
+these must be accompanied by anukūlya saṅkalpa, pratikulyavarjana and the rest 
+and, likewise, reverent bowing down to the succession of gurus and with the utterance of Dvaya. 
+
+The surrender of the responsibility for the protection of one's self  
+carries with it implicitly the surrender of one's Svarūpa or self  
+and the fruit or gain arising from it. 
+</details>
+
+<details><summary>Español</summary>
+
+In (the performance of) this (angī),  
+the conclusion regarding the adoption of this upāya with its aṅgas  
+is as follows:-  
+it consists in the act of surrendering  
+the responsibility for the protection of one's self  
+preceded by the following:--
+
+- the giving up of the thought that one is the doer  
+  (for it is the Lord that does everything), 
+- the giving up of the thought of 'mine'  
+  (that there is anything belonging to oneself),  
+- the giving up of the fruit of the action,  
+- the giving up of the thought  
+  that he himself adopts the means for obtaining that fruit;  
+ 
+these must be accompanied by anukūlya saṅkalpa, pratikulyavarjana and the rest 
+and, likewise, reverent bowing down to the succession of gurus and with the utterance of Dvaya. 
+
+The surrender of the responsibility for the protection of one's self  
+carries with it implicitly the surrender of one's Svarūpa or self  
+and the fruit or gain arising from it. 
+
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इदिल् साङ्गानुष्ठानमायऱ्ऱदु - कर्तृत्वत्याग-ममतात्याग-फलत्याग-फलोपायत्वत्याग-पूर्वकमाऩ आनुकूल्यसङ्कल्पाद्यर्थानुसन्धानत्तोडे गुरुपरंपरोपसत्तिपूर्वकद्वयवचनमुखत्ताले स्वरूपफलन्यासगर्भमाऩ आत्मरक्षाभरसमर्पणम् पण्णुगै। 
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-In (the performance of) this (angī), the conclusion regarding the adoption of this upāya with its aṅgas is as follows:- it consists in the act of surrendering the responsibility for the protection of one's self preceded by the following:--the giving up of the thought that one is the doer (for it is the Lord that does everything), the giving up of the thought of 'mine' (that there is anything belonging to oneself), the giving up of the fruit of the action, the giving ap of the thought that he himself adopts the means for obtaining that fruit; these must be accompanied by anukūlya saṅkalpa, pratikulyavarjana and the rest and, likewise, reverent bowing down to the succession of gurus and with the utterance of Dvaya. The surrender of the responsibility for the protection of one's self carries with it implicitly the surrender of one's Svarūpa or self and the fruit or gain arising from it. The giving up of the thought that one is the doer will result from the realisation of one's entire dependance on the Lord throughout the existence of the soul. This will make one know that this doership has been vouchsafed to one by the Lord Himself.
+इऩि मुमुक्षुक्कळुक्कु प्रयोगविधिसाध्यमाऩ साङ्गानुष्ठानप्रकारत्तैक् काट्टुगिऱार् इदिल् साङ्गानुष्ठानमायऱ्ऱदु इत्यादिना । इदिल् - मुमुक्षुक्कळुक्कुच् चॊऩ्ऩ भरन्यासविषयत्तिल्, साङ्गानुष्ठानमायऱ्ऱदु - साङ्गानुष्ठानमागत् तीर्न्ददु। इदऱ्कु आत्मरक्षाभरसमर्पणम् पण्णुगै ऎऩ्बदोडन्वयम्। कर्तृत्वत्यागादिगळ् सर्वनिवृत्तिधर्मसाधारणङ्गळागैयाले अङ्गिक्कुप् पोल् अङ्गङ्गळुक्कुम् आवश्यकमॆऩ्ऱु काट्टुगैक्काग आनुकूल्यसङ्कल्पादिगळुक्कु तत्पूर्वकत्वोक्तिः । आनुकूल्यसङ्कल्पादीत्यत्रादिपदत्ताले इतराङ्ग चतुष्टयङ्गळुक्कु ग्रहणम्। अर्थानुसन्धानत्तोडे इति । अर्थानुसन्धानमावदु आनुकूल्यसङ्कल्पादिरूपाङ्गङ्गळुडैय अनुष्ठानरूपार्थानुसन्धानम्। इदऱ्कुम् भरसमर्पणम् पण्णुगै ऎऩ्बदोडन्वयम्। इदऩाल् इन्द आनुकूल्यसङ्कल्पादिगळ् भरसमर्पणमॊऩ्ऱुक्के सन्निपत्योपकारकङ्गळाऩ अङ्गङ्गळॆऩ्ऱुम्, स्वरूपफलनिक्षेपङ्गळुक्कु अङ्गङ्गळऩ्ऱॆऩ्ऱुम् सूचिप्पिक्कप्पट्टदु।  
+गुरुपरम्परोपसत्ति-पूर्वकद्वयवचनमुखत्ताले इति ।  
+इङ्गु गुरुपरम्परोपसत्तियैच् चॊऩ्ऩदु  
+
+> ‘‘वाचः परं प्रार्थयिता  
+> प्रपद्येन् नियतः श्रियं’’ 
+
+ऎऩ्गिऱ प्रमाणसिद्धम् आऩ पिराट्टियिऩ् उडैय उपसत्तिक्कुम्  
+अदावदु पुरुष-कार-प्रपत्तिक्कुम् उपलक्षणम्।+++(5)+++  
+तथाच अनुष्ठानसङ्कल्पम्, सात्त्विकत्यागम्, गुरुपरम्परोपसत्ति, पुरुषकारप्रपत्ति, आनुकूल्य-सङ्कल्पाद्य्--अङ्गक-भर-समर्पण-रूपाङ्ग्य्-अनुष्ठानम्  
+ऎऩ्ऱु क्रमम् सिद्धित्तदु।  
+इप्पडि क्रमम् इरुन्दालुम्  
+गुरुपरम्परोपसत्तिक्कु मुऩ्बे  
+आनुकूल्य-सङ्कल्पाद्य्-अङ्गङ्गळैच् चॊल्लि  
+पिऱगु गुरु-परम्-परोपसत्तियैच् चॊल्लि  
+अङ्ग्यनुष्ठानम् सॊऩ्ऩदु  
+अङ्ग्य्-अनुष्ठानत्तिऱ्कु गुरुपरम्परोपसत्ति अत्यन्तावश्यकम् ऎऩ्ऱु द्योतनार्थम्। 
+
+द्वयवचनमुखत्ताले - द्वयवचनम् - द्वयोच्चारणम्,  
+मुख-शब्दत्ताले इतर-मन्त्रङ्गळुडैयवुम्, ‘‘यदि वान्यवाक्यैः’’ ऎऩ्ऱु सॊल्लप्पट्ट मन्त्रेतर-वाक्यङ्गळ्-उडैयवुम् उच्चारणम् विवक्षितम्।  
+तथा च द्वयोच्चारणत्ताल् आवदु  
+करणतया परिगृहीत-मन्त्रान्तरोच्चारणत्ताल् आवदु  
+तादृशमन्त्रेतरवाक्योच्चारणत्तिऩालावदु ऎऩ्ऱबडि।  
+
+स्वरूपफलन्यासगर्भमाऩ इति ।  
+इङ्गु गर्भत्वोक्त्या  
+इन्द मूऩ्ऱुगळुक्क् उळ्ळे भर-समर्पणमे प्रधानम्  
+ऎऩ्ऱु ज्ञापिक्कप् पट्टदु।  
+भरसमर्पणम् पण्णुगै - मद्रक्षणभरस्तवेति भरसमर्पणत्तै अनुष्ठिक्कै।  
+इदऱ्कु साङ्गानुष्ठानमायऱ्ऱदु ऎऩ्बदोडन्वयम् ऎऩ्ऱु मुऩ्बे सॊल्लप्पट्टदु।  
+प्रपत्तियै अनुष्ठिक्कप् पुगुगिऱवऩ् प्रपत्तिक्कु कर्तावायिरुक्क कर्तृत्वत्यागपूर्वकमाग अदै ऎप्पडि अनुष्ठिक्कमुडियुम्?  
+
+</details>
+
+
+The giving up of the thought that one is the doer will result from the realisation of one's entire dependance on the Lord throughout the existence of the soul. This will make one know that this doership has been vouchsafed to one by the Lord Himself.
 
 The giving up of the thought of "MINE' (mama) and of the fruit (of prapatti) will arise from the knowledge that one, as well as what belongs to one, exists, by one's very nature, solely for the fulfilment of the purposes of Bhagavān alone.
 
