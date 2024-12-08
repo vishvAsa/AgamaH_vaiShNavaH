@@ -2106,10 +2106,76 @@ and that only Iśvara is the upāya for this fruit (mokṣa ).
 अचेतनमागैयाले फलप्रदानसङ्कल्पाश्रयमल्लामैयुमिति । अचेतनत्वम् फलप्रदानसङ्कल्पाश्रयमल्लामैक्कु हेतु । फलप्रदान-सङ्कल्पाश्रयमल्लामै साक्षादुपायत्वत्यागत्तुक्कु निबन्धनम्। फलं दास्ये ऎऩ्ऱु सङ्कल्पित्तु साक्षात् फलत्तैक् कॊडुक्किऱवऩुक्कऩ्ऱो साक्षादुपायत्वम्। अचेतनमाय् सङ्कल्परहितमायिरुप्पदाल् प्रपत्तियिल् उपायत्वत्यागम् कूडुमिऱे। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ईश्वरऩ् **फलोपायम्** आगिऱदु,  
+
+- सहज-सौहार्दत्ताले करण-कळेबर-प्रदानन् तुडङ्गि  
+  द्वयोच्चारण-पर्यन्तम् आग सर्वत्तुक्कुम् **आदि-कारणम्** आऩ ताऩे  
+  प्रसाद-पूर्वक-सङ्कल्प-विशेष-विशिष्टऩ् आय्क्-कॊण्डु  
+  +++(मेक्षस्य)+++ अ-व्यवहित-**कारणम्** आगैयालुम्  
+- उपायान्तर-शून्यऩुक्कु अव्वो उपाय-स्थानत्तिले निवेशिक्कैयालुम्।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ईश्वरस्य फलोपायत्वं तावत्  
+सहज-सौहार्दात् करण-कलेवर-प्रदानाद् आरभ्य  
+द्वयोच्चारण-पर्यन्तं सर्वं प्रति आदि-कारण-भूत-स्वस्य  
+
+- प्रसाद-पूर्वक-संकल्प-विशेष-विशिष्ट-रूपेणाव्यवहित-कारणत्वात् +++(मेक्षस्य)+++,  
+- उपायान्तर-शून्यस्य विषये तत्-तद्-उपाय-स्थान-निवेशाच् च ।  
+
+</details>
+
+
+<details><summary>English</summary>
+
+- Since Bhagavān who, out of the love natural to Him, has been the primaeval cause of everything  
+  from the time of giving the man the body and the senses  
+  to the time of his uttering the Dvaya-  
+- since Bhagavān is possessed of the will  
+  accompanied by the desire to show His grace  
+  and is the immediate and direct cause (of the final fruit, viz. mokṣa )  
+- and since he also stands Himself in the place of the prescribed upāya  
+  in the case of the man who is incapable of (adopting) other 
+  upāyas,  
+
+He alone is the upāya for the fruit. 
+
+</details>
+
+<details><summary>Español</summary>
+
+- Since Bhagavān who, out of the love natural to Him, has been the primaeval cause of everything  
+  from the time of giving the man the body and the senses  
+  to the time of his uttering the Dvaya-  
+- since Bhagavān is possessed of the will  
+  accompanied by the desire to show His grace  
+  and is the immediate and direct cause (of the final fruit, viz. mokṣa )  
+- and since he also stands Himself in the place of the prescribed upāya  
+  in the case of the man who is incapable of (adopting) other 
+  upāyas,  
+
+He alone is the upāya for the fruit. 
+
+</details>
+ 
+
+
+<details><summary>मूलम्</summary>
+
+ईश्वरऩ् फलोपायमागिऱदु, सहजसौहार्दत्ताले करणकळेबरप्रदानन्दुडङ्गि द्वयोच्चारणपर्यन्तमाग सर्वत्तुक्कुम् आदिकारणमाऩ ताऩेप्रसादपूर्वकसङ्कल्पविशेषविशिष्टऩाय्क्कॊण्डु अव्यवहितकारणमागैयालुम् उपायान्तरशून्यऩुक्कु अव्वो उपायस्थानत्तिले निवेशिक्कैयालुम्।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+एतद्वैपरीत्येन ईश्वरऩ् फलोपायमागुगैक्कु निबन्धनङ्गळै यरुळिच्चॆय्गिऱार् ईश्वरऩ् फलोपायमागिऱदु इत्यादिना । इदऱ्कु अव्यव-हितकारणमागैयालुमित्यादिगळोडन्वयम्। सहजसौहार्दत्ताले - ‘‘सर्वस्य शरणं सुहृत्’’ ऎऩ्ऱु श्रुतियिल् सॊल्लप्पट्ट परमचेतनऩाऩ इवऩुडैय सहजसौहार्दत्ताले, द्वयोच्चारणपर्यन्तमाग सर्वत्तुक्कुम् - प्रपत्त्यनुष्ठानपर्यन्तमागसर्वत्तुक्कुम्, उक्तिनिष्ठैयिल् द्वयोच्चारणम् मुडिवागयिरुक्कुमिऱे। तदभिप्रायेण द्वयोच्चारणपर्यन्तमाग ऎऩ्ऱदु। (सर्वत्तुक्कुम्) आदिकारणमाऩ ताऩे - मुदलिल् सहजसौहार्दम्, अनन्तरम् करणकळेबरदानम्, तदनन्तरम्भगवत्कटाक्षम्, तदनन्तरमाचार्यसम्बन्धम्, तदनन्तरम् प्रपत्त्यनुष्ठानमिति क्रमेण सर्वत्तुक्कुम् कारणमाऩ ताऩे, इदऩाल् साद्ध्योपायमाऩ प्रपत्तिपर्यन्त सर्वकार्यत्तुक्कुमवऩे उपायमागैयाले अवऩुक्के उपायत्वमॆऩ्ऱु सूचितम्। प्रसादपूर्वकसङ्कल्पविशेषविशिष्टऩाय्क्कॊण्डु - प्रपत्त्यनुष्ठानानन्तरं प्रसन्नो भवति, अदावदु अनादिकालानुष्ठितानन्तापराधजनितनिग्रहादिरूपकालुष्यशून्योभवति । तदनन्तरं सर्वपापेभ्यो मोक्षयिष्यामि ऎऩ्गिऱ सङ्कल्पविशिष्टो भवति, तादृशसङ्कल्पविशिष्टऩाय्क् कॊण्डु, अव्यवहितकारणमागैयालुम् - प्रपत्तियिऩाले प्रसन्नऩाय् मोक्षयिष्यामि सङ्कल्पत्ताले ज्ञानविकासप्रतिबन्धकसर्वपापङ्गळैयुम् निवर्त्तिप्पित्तु परिपूर्णब्रह्मानुभवरूपमोक्षत्तै प्रदानम् पण्णुगैयाले अव्यवहितकारणमागैयालुम्। भगवाऩुक्कु उपायत्वे निबन्धन मरुळिच्चॆय्गिऱार् उपायान्तरशून्यऩुक्कु इत्यादिना । उपायान्तरशून्यऩुक्कु - मोक्षोपायमाऩ कर्मयोग ज्ञानयोगभक्तियोगशून्यऩुक्कु, अव्वो उपायस्थानत्तिले निवेशिक्कैयालुम् - अव्वो फलोपायस्थानत्तिले निवेशिक्कैयालुम्, निवेशिक्कैयालुमॆऩ्बदऱ्कु ईश्वरऩ् फलोपायमागिऱदु ऎऩ्बदोडन्वयम् ऎऩ्ऱु मुऩ्बे सॊऩ्ऩोम्। 
+</details>
 
 
 
-Since Bhagavān who, out of the love natural to Him, has been the primaeval cause of everything from the time of giving the man the body and the senses to the time of his uttering the Dvaya-since Bhagavān is possessed of the will accompanied by the desire to show His grace and is the immediate and direct cause (of the final fruit, viz. mokṣa ) and since he also stands Himself in the place of the prescribed upāya in the case of the man who is incapable of (adopting) other upāyas, He alone is the upāya for the fruit. The authority for this conclusion is the nature of the object, (namely, Bhagavān) as understood from the śāstra which reveals the Person who has that nature and this authority cannot be challenged by reason.
+The authority for this conclusion is the nature of the object, (namely, Bhagavān) as understood from the śāstra which reveals the Person who has that nature and this authority cannot be challenged by reason.
 
 ## NADATHUR AMMĀL'S SUMMARY OF THE MEANING OF PRAPATTI :
 
