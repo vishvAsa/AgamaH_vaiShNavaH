@@ -13,7 +13,7 @@ title = "१२ साङ्ग-प्रपदनाधिकारः"
 
 <details><summary>Español</summary>
 
-(12) THE CHAPTER ON THE PERFORMANCE OF PRAPATTI WITH IT’S AṄGAS. page186
+(12) El capítulo sobre la actuación de Prapatti con su AṅGAS. Page186
 </details>
 
 
@@ -1945,14 +1945,171 @@ and the fruit or gain arising from it.
 
 </details>
 
+## त्याग-स्रोतांसि
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-The giving up of the thought that one is the doer will result from the realisation of one's entire dependance on the Lord throughout the existence of the soul. This will make one know that this doership has been vouchsafed to one by the Lord Himself.
+इक् **कर्तृत्व-त्यागत्तुक्कु** निबन्धनम्,  
+"तऩ् कर्तृत्वमुम् अवऩ् अडिय् आग वन्दद्" ऎऩ्ऱु  
+तऩक्कु यावद्-आत्मभाविय् आऩ भगवद्-एक-पारतन्त्र्यत्तैय् अऱिगै। 
+</details>
 
-The giving up of the thought of "MINE' (mama) and of the fruit (of prapatti) will arise from the knowledge that one, as well as what belongs to one, exists, by one's very nature, solely for the fulfilment of the purposes of Bhagavān alone.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-The giving up of the upāya for attaining the fruit (mokṣa ) will result from a knowledge that the prapatti performed by a man for winning the grace of the Saviour cannot directly and immediately be the cause of the main fruit, namely, mokṣa , that
+[[१०४]]  
+अस्य **कर्तृत्व-त्यागस्य** निबन्धनम् -  
+स्वगतं कर्तृत्वम् अपि तन्-मूलतया प्राप्तम् इति  
+स्वस्य यावद्-आत्म-भाविनो भगवद्-एक-पारतन्त्र्यस्य ज्ञानम् । 
+</details>
 
-prapatti is non-sentient and, therefore, incapable of possessing the will to grant the fruit and that only Iśvara is the upāya for this fruit (mokṣa ). Since Bhagavān who, out of the love natural to Him, has been the primaeval cause of everything from the time of giving the man the body and the senses to the time of his uttering the Dvaya-since Bhagavān is possessed of the will accompanied by the desire to show His grace and is the immediate and direct cause (of the final fruit, viz. mokṣa ) and since he also stands Himself in the place of the prescribed upāya in the case of the man who is incapable of (adopting) other upāyas, He alone is the upāya for the fruit. The authority for this conclusion is the nature of the object, (namely, Bhagavān) as understood from the śāstra which reveals the Person who has that nature and this authority cannot be challenged by reason.
+
+<details><summary>English</summary>
+
+The giving up of the thought that one is the doer  
+will result from the realisation of one's entire dependance on the Lord  
+throughout the existence of the soul. 
+
+This will make one know that  
+this doership has been vouchsafed to one by the Lord Himself.
+</details>
+
+<details><summary>Español</summary>
+
+La rinda de la idea de que uno es el hacedor  
+resultará de la realización de la dependencia completa del Señor  
+A lo largo de la existencia del alma.
+
+Esto hará que uno sepa que  
+Este trabajador ha sido atendido a uno por el Señor mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इक् कर्तृत्वत्यागत्तुक्कु निबन्धनम्, तऩ् कर्तृत्वमुमवऩडियाग वन्ददॆऩ्ऱु तऩक्कु यावदात्मभावियाऩ भगवदेकपारतन्त्र्यत्तै यऱिगै। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इङ्गु त्यागम् ऎऩ्बदु कर्तृत्वत्तै स्वरूपेण विडुगै यऩ्ऱु; किन्तु इन्द कर्तृत्वम् तऩ्ऩुडैयदऩ्ऱॆऩ्गिऱ बुद्धिमात्रमागैयाल् अदै अनुष्ठिक्क मुडियुमॆऩ्ऩिल्, तऩ्ऩुडैयदाऩ कर्तृत्वत्तै तऩ्ऩुडैयदऩ्ऱॆऩ्ऱु निऩैक्कुगैक्कुत्ताऩ् निबन्धनमॆऩ्ऩ वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इक्कर्तृत्वत्यागत्तुक्कु निबन्धनमित्यादिना । इक्कर्तृत्वत्यागत्तुक्कु - कर्तृत्वम् तऩ्ऩुडैयदागविरुक्क अदैत् तऩ्ऩुडैयदऩ्ऱॆऩ्ऱु भाविक्कैयागिऱ इक्कर्तृत्वत्यागत्तुक्कु, निबन्धनम् - कारणम्, तऩ् कर्तृत्वमुम् - तऩ्ऩुडैय प्रपत्तिकर्तृत्वमुम्, अवऩडियाग वन्ददॆऩ्ऱु - भगवन्मूलमाग वन्ददॆऩ्ऱु। तऩक्कु कर्तृत्वमिरुन्दालुम् अन्द कर्तृत्वशक्तियै भगवाऩे कॊडुक्कैयालुम् अन्द कर्तृत्वोपयुक्तमाऩ करणकळेबरङ्गळैक् कॊडुत्तु उपकरिक्कैयालुम् प्रपत्त्यनुष्ठानसमयत्तिल् स्वसङ्कल्पत्ताले ज्ञानचिकीर्षाप्रयत्नङ्गळै युण्डुबण्णि सहकरिक्कैयालुम् तऩ् कर्तृत्वमुम् अवऩ् मूलमागवे वन्ददॆऩ्ऱबडि। इदऱ्कु अऱिगै यॆऩ्बदोडन्वयम्। तऩक्कु यावदात्मभावियाऩ भगवदेकपारतन्त्र्यत्तै अऱिगै इति । तऩक्कु भगवत्पारतन्त्र्यम् कादाचित्कमाय् विच्छिन्नमाऩालुम् इतरपारतन्त्र्यम् वन्दालुम् कर्तृत्वम् अवऩडियाग वन्ददॆऩ्ऱु अऱियमुडियादागैया लिङ्गु यावदात्मभावियाऩ ऎऩ्ऱुम् भगवदेक ऎऩ्ऱुम् प्रयुक्तमायिऱ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**ममता-त्यागत्तुक्कुम्** +++(प्रपत्ति-)+++**फल-त्यागत्तुक्कुम्** निबन्धनम्,  
+आत्मात्मीयङ्गळ्-उडैय स्व-रूपानुबन्धि--भगवद्-एक-शेषत्व-ज्ञानम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**ममता-त्यागस्य फल-त्यागस्य** च निबन्धनम्  
+आत्मात्मीयानां स्व-रूपानुबन्धिनो भगवद्-एक-शेषत्वस्य ज्ञानम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The giving up of the thought of 'MINE' (mama) and of the fruit (of prapatti)  
+will arise from the knowledge that one,  
+as well as what belongs to one,  
+exists, by one's very nature,  
+solely for the fulfilment of the purposes of Bhagavān alone.
+</details>
+
+<details><summary>Español</summary>
+
+La renuncia al pensamiento de 'mía' (mamá) y de la fruta (de Prapatti)  
+surgirá del conocimiento de que uno,  
+así como lo que pertenece a uno,  
+existe, por la misma naturaleza,  
+únicamente para el cumplimiento de los propósitos de Bhagavān solo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ममतात्यागत्तुक्कुम्फलत्यागत्तुक्कुम् निबन्धनम्, आत्मात्मीयङ्गळुडैय स्वरूपानुबन्धिभगवदेकशेषत्वज्ञानम्। 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ताऩ् सॆय्गिऱ प्रपत्ति तऩ्ऩुडैयदायिरुक्क अदिल् ममतात्यागम् पण्णमुडियुमो? इतरफलम् पोलऩ्ऱिक्के इन्द प्रपत्तिफलमाऩ मोक्षत्तिले अप्रधानमायावदु तऩक्कु सम्बन्धम् कॊळ्ळ वेण्डियिरुक्क अन्द मोक्षफलत्तै त्यागम् सॆय्यक्कूडुमो? कर्मत्तिल् तऩ्ऩुडैय सम्बन्धत्तिऱ्कुम् मोक्षरूपफलत्तिऱ्कुम् स्वरूपेण त्यागम् कूडाविडिलुम् प्रपत्तिरूपं कर्ममोक्षरूपं च फलम् मच्छेषभूतमऩ्ऱु ऎऩ्गिऱ बुद्धिये ममतात्यागफलत्यागरूपमागैयाल् मुमुक्षुवुक्के अदु कूडुमॆऩ्ऩिल्, अदऱ्कु निबन्धनमॆऩ्ऩ वॆऩ्ऩ अरुळिच्चॆय्गिऱार् ममतात्यागत्तुक्कुम् फलत्यागत्तुक्कुम् निबन्धनमिति । आत्मात्मीयङ्गळुडैय स्वरूपानुबन्धि-भगवदेकशेषत्वज्ञानमिति । आत्मात्मीयङ्गळाऩ सर्वमुम् भगवाऩुक्के शेषमॆऩ्ऱऱिन्दाल् तदन्तर्गतङ्गळाऩ प्रपत्तिरूपोपायमुम् मोक्षरूपफलमुम् अवऩदे यॊऴिय ऎऩक्कु शेषभूतमऩ्ऱॆऩ्गिऱ अनुसन्धानरूपमाऩ ममतात्यागफलत्यागङ्गळ् सुलभसिद्धङ्गळागुमिऱे। इन्द शेषत्वम् सोपाधिकमाय् कादाचित्कमाऩालुम् भगवदितरप्रतिसम्बन्धियाऩालुम् इदिऩ् ज्ञानम् ममतात्यागफलत्यागङ्गळुक्कु हेतुवागादागैयालिङ्गु स्वरूपानुबन्धिशब्दमुम् एकशब्दमुम् प्रयुक्तङ्गळ्। स्वरूपानुबन्धि – स्वरूपमिरुक्कुम्बोदॆल्लामिरुक्कुमवै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**फलोपायत्व-त्यागत्तुक्कु** निबन्धनम्,  
+शरण्य-प्रसादनम् आऩ इवऩ्-उडैय अनुष्ठानम् -  
+
+- प्रधान-फलत्तुक्कु व्यवहित-कारणम् आगैयुम्  
+- अचेतनम् आगैयाले फल-प्रदान-सङ्कल्पाश्रयम् अल्लामैयुम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**फलोपायत्व-त्यागस्य** निबन्धनम् -  
+शरण्य-प्रसादनस्यैतदीयानुष्ठानस्य  
+
+- प्रधान-फलं प्रति व्यवहित-कारणत्वम्,  
+- अ-चेतनत्वात् फल-प्रदान-संकल्पानाश्रयत्वं च । 
+</details>
+
+
+
+<details><summary>English</summary>
+
+The giving up of the upāya for attaining the fruit (mokṣa )  
+will result from a knowledge that  
+the prapatti performed by a man for winning the grace of the Saviour  
+
+- cannot directly and immediately be the cause of the main fruit, namely, mokṣa , 
+- that prapatti is non-sentient and, therefore, incapable of possessing the will to grant the fruit  
+
+and that only Iśvara is the upāya for this fruit (mokṣa ). 
+</details>
+
+<details><summary>Español</summary>
+
+The giving up of the upāya for attaining the fruit (mokṣa )  
+will result from a knowledge that  
+the prapatti performed by a man for winning the grace of the Saviour  
+
+- cannot directly and immediately be the cause of the main fruit, namely, mokṣa , 
+- that prapatti is non-sentient and, therefore, incapable of possessing the will to grant the fruit  
+
+and that only Iśvara is the upāya for this fruit (mokṣa ). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+फलोपायत्वत्यागत्तुक्कु निबन्धनम्, शरण्यप्रसादनमाऩ इवऩुडैय अनुष्ठानम् प्रधानफलत्तुक्कु व्यवहितकारणमागैयुम् अचेतनमागैयाले फल-प्रदानसङ्कल्पाश्रयमल्लामैयुम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+भक्तिपोले प्रपत्तियुम् भगवत्प्राप्त्युपायमाग 
+
+>‘‘भक्त्या परमया वापि  
+प्रपत्त्या वा महामते ।  
+प्राप्योऽहं नान्यथा प्राप्यः’’ 
+
+इत्यादिगळिल् सॊल्लप्पट्टिरुक्क,  
+अदिल् उपायत्व-त्यागम् पण्णुगैक्को उपायत्वबुद्धित्यागम् पण्णुगैक्को निबन्धनमुण्डोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् फलोपायत्वत्यागत्तुक्कु निबन्धनमिति ।  
+इङ्गु प्रपत्तावित्यादिः ।  
+शरण्यप्रसादनमिति ।  
+इदु हेतुगर्भविशेषणम्।  
+प्रधानफलम् - कैङ्कर्यत्तै परिवाहम् आगव्-उडैय परिपूर्ण-ब्रह्मानुभवम्।+++(5)+++  
+एतद्-अनुभव-जनकम् भगवत्-प्रसादम्।  
+तादृश-प्रसाद-जनकम् आगैयाल्  
+प्रधानफलत्तिऱ्कु इवऩुडैय प्रपत्त्य्-अनुष्ठानम् व्यवहितकारणमायिऱ्ऱु, अप्पडियागुगैयुम्।  
+अचेतनमागैयाले फलप्रदानसङ्कल्पाश्रयमल्लामैयुमिति । अचेतनत्वम् फलप्रदानसङ्कल्पाश्रयमल्लामैक्कु हेतु । फलप्रदान-सङ्कल्पाश्रयमल्लामै साक्षादुपायत्वत्यागत्तुक्कु निबन्धनम्। फलं दास्ये ऎऩ्ऱु सङ्कल्पित्तु साक्षात् फलत्तैक् कॊडुक्किऱवऩुक्कऩ्ऱो साक्षादुपायत्वम्। अचेतनमाय् सङ्कल्परहितमायिरुप्पदाल् प्रपत्तियिल् उपायत्वत्यागम् कूडुमिऱे। 
+</details>
+
+
+
+
+Since Bhagavān who, out of the love natural to Him, has been the primaeval cause of everything from the time of giving the man the body and the senses to the time of his uttering the Dvaya-since Bhagavān is possessed of the will accompanied by the desire to show His grace and is the immediate and direct cause (of the final fruit, viz. mokṣa ) and since he also stands Himself in the place of the prescribed upāya in the case of the man who is incapable of (adopting) other upāyas, He alone is the upāya for the fruit. The authority for this conclusion is the nature of the object, (namely, Bhagavān) as understood from the śāstra which reveals the Person who has that nature and this authority cannot be challenged by reason.
 
 ## NADATHUR AMMĀL'S SUMMARY OF THE MEANING OF PRAPATTI :
 
