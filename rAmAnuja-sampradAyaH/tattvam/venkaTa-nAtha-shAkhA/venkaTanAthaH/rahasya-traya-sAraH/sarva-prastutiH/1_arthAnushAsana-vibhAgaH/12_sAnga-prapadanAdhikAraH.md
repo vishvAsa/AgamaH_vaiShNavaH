@@ -2142,7 +2142,6 @@ and that only Iśvara is the upāya for this fruit (mokṣa ).
   upāyas,  
 
 He alone is the upāya for the fruit. 
-
 </details>
 
 <details><summary>Español</summary>
@@ -2158,10 +2157,7 @@ He alone is the upāya for the fruit.
   upāyas,  
 
 He alone is the upāya for the fruit. 
-
 </details>
- 
-
 
 <details><summary>मूलम्</summary>
 
@@ -2173,15 +2169,355 @@ He alone is the upāya for the fruit.
 एतद्वैपरीत्येन ईश्वरऩ् फलोपायमागुगैक्कु निबन्धनङ्गळै यरुळिच्चॆय्गिऱार् ईश्वरऩ् फलोपायमागिऱदु इत्यादिना । इदऱ्कु अव्यव-हितकारणमागैयालुमित्यादिगळोडन्वयम्। सहजसौहार्दत्ताले - ‘‘सर्वस्य शरणं सुहृत्’’ ऎऩ्ऱु श्रुतियिल् सॊल्लप्पट्ट परमचेतनऩाऩ इवऩुडैय सहजसौहार्दत्ताले, द्वयोच्चारणपर्यन्तमाग सर्वत्तुक्कुम् - प्रपत्त्यनुष्ठानपर्यन्तमागसर्वत्तुक्कुम्, उक्तिनिष्ठैयिल् द्वयोच्चारणम् मुडिवागयिरुक्कुमिऱे। तदभिप्रायेण द्वयोच्चारणपर्यन्तमाग ऎऩ्ऱदु। (सर्वत्तुक्कुम्) आदिकारणमाऩ ताऩे - मुदलिल् सहजसौहार्दम्, अनन्तरम् करणकळेबरदानम्, तदनन्तरम्भगवत्कटाक्षम्, तदनन्तरमाचार्यसम्बन्धम्, तदनन्तरम् प्रपत्त्यनुष्ठानमिति क्रमेण सर्वत्तुक्कुम् कारणमाऩ ताऩे, इदऩाल् साद्ध्योपायमाऩ प्रपत्तिपर्यन्त सर्वकार्यत्तुक्कुमवऩे उपायमागैयाले अवऩुक्के उपायत्वमॆऩ्ऱु सूचितम्। प्रसादपूर्वकसङ्कल्पविशेषविशिष्टऩाय्क्कॊण्डु - प्रपत्त्यनुष्ठानानन्तरं प्रसन्नो भवति, अदावदु अनादिकालानुष्ठितानन्तापराधजनितनिग्रहादिरूपकालुष्यशून्योभवति । तदनन्तरं सर्वपापेभ्यो मोक्षयिष्यामि ऎऩ्गिऱ सङ्कल्पविशिष्टो भवति, तादृशसङ्कल्पविशिष्टऩाय्क् कॊण्डु, अव्यवहितकारणमागैयालुम् - प्रपत्तियिऩाले प्रसन्नऩाय् मोक्षयिष्यामि सङ्कल्पत्ताले ज्ञानविकासप्रतिबन्धकसर्वपापङ्गळैयुम् निवर्त्तिप्पित्तु परिपूर्णब्रह्मानुभवरूपमोक्षत्तै प्रदानम् पण्णुगैयाले अव्यवहितकारणमागैयालुम्। भगवाऩुक्कु उपायत्वे निबन्धन मरुळिच्चॆय्गिऱार् उपायान्तरशून्यऩुक्कु इत्यादिना । उपायान्तरशून्यऩुक्कु - मोक्षोपायमाऩ कर्मयोग ज्ञानयोगभक्तियोगशून्यऩुक्कु, अव्वो उपायस्थानत्तिले निवेशिक्कैयालुम् - अव्वो फलोपायस्थानत्तिले निवेशिक्कैयालुम्, निवेशिक्कैयालुमॆऩ्बदऱ्कु ईश्वरऩ् फलोपायमागिऱदु ऎऩ्बदोडन्वयम् ऎऩ्ऱु मुऩ्बे सॊऩ्ऩोम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् इरुक्कैक्क् अडि  
+धर्मि-ग्राहकम् आऩ शास्त्रत्ताले  
+**अवगतम्** आऩ +++(भगवद्-आख्य-)+++वस्तु-स्वभावम् आगैयाल्  
+इव्व् अर्थम् युक्तिगळाल् **चलिप्पिक्क वॊण्णादु।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवंभावस्य मूलं  
+धर्मि-ग्राहक-शास्त्रावगतो वस्तु-स्वभाव इति,  
+अयम् अर्थो युक्तिभिर् विचालयितुं न युज्यते । 
+</details>
 
 
-The authority for this conclusion is the nature of the object, (namely, Bhagavān) as understood from the śāstra which reveals the Person who has that nature and this authority cannot be challenged by reason.
+<details><summary>English</summary>
 
-## NADATHUR AMMĀL'S SUMMARY OF THE MEANING OF PRAPATTI :
+The authority for this conclusion is the nature of the object, (namely, Bhagavān)  
+as understood from the śāstra  
+which reveals the Person who has that nature;  
+and this authority cannot be challenged by reason.
 
-The following is a summary of the performance of prapatti with its aṅgas as given by Śrī Nadathur Ammal:
+</details>
 
-"I have been wandering in saṁsāra by doing, from beginning less time, what is displeasing to Thee. From this day onwards, I will do what is pleasing (to Thee). I will not do what will displease (Thee). I have no capital with which to attain Thee, I have made up my mind to seek only Thee as the upāya. Be Thou my upāya! Hereafter, either in the removal of what is evil or in the attainment of what is good, I have no further responsibility from now onwards". In this the determination to do what is pleasing and abstinence from what is displeasing have to be stated only once as accessories or aṅgas to the upāya. His acting later in accordance with this determination to do what is pleasing etc. will be the result or fruit of the upāya and will last as long as his self lasts. If, in accordance with the words of Śrī Ammal, we take the avoidance of what is displeasing as meaning only the determination to avoid what is displeasing, it is evident that it has to be made only once (i.c at the time of prapatti). It is true that it has been said :-"I have dissociated myself from sins which cast one into saṁsāra." (But it may be explained in this way :-) The avoidance of what is displeasing may meen either having no connection (at all) with it (i.e.) giving it up or the determination to avoid it. In either case, this is, at the first instant, an aṅga and the actual avoidance is the result or fruit of prapatti which follows afterwards. This holds good also in regard to visvāsa or faith.
+<details><summary>Español</summary>
+
+La autoridad para esta conclusión es la naturaleza del objeto (a saber, bhagavān)  
+como se entiende de la Śāstra  
+lo que revela a la persona que tiene esa naturaleza;  
+y esta autoridad no puede ser cuestionada por la razón.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩिरुक्कैक्कडि धर्मिग्राहकमाऩ शास्त्रत्ताले अवगतमाऩ वस्तुस्वभावमागैयाल् इव्वर्थम् युक्तिकळाल् चलिप्पिक्कवॊण्णादु। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+दुष्करोपायप्रसन्नऩाऩ ईश्वरऩ् सुकरमाऩ प्रपत्तियालुम् प्रसन्नऩामो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इङ्ङऩिरुक्कैक्कडि इत्यादिना ।  
+इङ्ङऩिरुक्कैक्कडि - दुष्करोपायप्रसाद्यऩे सुकरोपायप्रसाद्यऩायिरुक्कुगैक्कु मूलम्।  
+धर्मि-ग्राहकम् आऩ शास्त्रत्ताले अवगतमाऩ वस्तुस्वभावमागैयालिति ।  
+इङ्गु धर्मिग्राहकशास्त्रमावदु ईश्वरऩुक्कु सर्व शरण्यत्वत्तैयुम्, वात्सल्यादिगुणवत्वत्तैयुम् सॊल्लुगिऱ वाक्यङ्गळ्।  
+अवगतमाऩ वस्तुस्वभावम् - सकिञ्चनविषयत्तिल् दुष्करोपायप्रसाद्यऩागवेयिरुन्दु वैत्तु अकिञ्चनविषयत्तिल् चिरसेवादिकमनपेक्ष्य फलप्रदानम् पण्णियल्लदु धरिक्कवॊण्णादबडि करुणापरवशऩायिरुक्कै मुदलाऩदु। इव्वर्थम् - चिरकालम् भक्त्यनुष्ठानप्रसाद्यऩाऩ ईश्वरऩुक्के अकिञ्चनविषयत्तिल् झटिति मोक्षप्रदत्वानुगुणसर्वशरण्यत्वदयापरवशत्वादिरूपमाऩ धर्मिग्राहक शास्त्रसिद्धमाऩ इव्वर्थम्। युक्तिकळाले चलिप्पिक्कवॊण्णादु -  
+
+> ‘‘न हि वचनविरोधे न्यायः प्रभवति’’ 
+
+इति वचनादिति भावः । 
+</details>
+
+
+
+## वात्स्य-वरद-सङ्ग्रहः
+<details><summary>English</summary>
+
+NADATHUR AMMĀL'S SUMMARY OF THE MEANING OF PRAPATTI :
+</details>
+
+<details><summary>Español</summary>
+
+El resumen de Nadathur Ammāl de la meuning de Prapatti:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इस्-साङ्गानुष्ठानत्तुक्कु नडादूर्-अम्माळ् अरुळिच्-चॆय्युञ् चुरुक्कु -
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य साङ्गानुष्ठानस्य वात्स्य-वरदाचार्यानुगृहीतः संग्रहो यथा - 
+</details>
+
+
+<details><summary>English</summary>
+
+The following is a summary of the performance of prapatti with its aṅgas  
+as given by Śrī Nadathur Ammal:
+</details>
+
+<details><summary>Español</summary>
+
+El siguiente es un resumen del rendimiento de Prapatti con sus aṅgas
+Según lo dado por Śrī Nadathur Ammal:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इस्साङ्गानुष्ठानत्तुक्कु नडादूरम्माळ् अरुळिच्चॆय्युञ्जुरुक्कु -
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द साङ्गानुष्ठानत्तिऱ्कु साम्प्रदायिकत्वत्तैच् चॊल्लक्करुदि तऩ् प्राचार्यऩाऩ नडादूरम्माळ् अरुळिच्चॆय्द साङ्गानुष्ठानच्चुरुक्कै वॆळियिडुगिऱार् इस्साङ्गानुष्ठानत्तुक्कु इत्यादिना । नडादूरम्माळ् - स्वप्राचार्यऩाऩ वात्स्यवरदाचार्यर्। सुरुक्कु - सङ्ग्रह-वार्त्तै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनादिकालम् देवरीरुक्कु अनिष्टाचरणम् पण्णुगैयाले  
+> **संसरित्तुप् पोन्देऩ्**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनादिकालात् भवद्-अनिष्टाचरणात् संसृतवान् अस्मि, 
+</details>
+
+
+
+<details><summary>English</summary>
+
+> I have been wandering in saṁsāra by doing,  
+from beginningless time, what is displeasing to Thee. 
+</details>
+
+<details><summary>Español</summary>
+
+> He estado deambulando por Saṁsāra haciendo,  
+Desde el comienzo desde el tiempo sin inicio,  
+lo que te está desagradando.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनादिकालम् तेवरीरुक्कु अनिष्टाचरणम् पण्णुगैयाले संसरित्तुप् पोन्देऩ्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मुदलिल् अधिकारत्तैक् काट्टुगिऱार् अनादिकालमित्यादिना । अनिष्टाचरणम् - अनभिमताचरणम्। विधिनिषेधलङ्घनमिति यावत् । पण्णुगैयाले इति । इदऩाल् ‘‘अहमस्म्यपराधानाम्’’ ऎऩ्गिऱ वचनांशम् सूचितमागिऱदु। संसरित्तुप्पोन्देऩिदि । इदऩाल् आकिञ्चन्यमुम् अनन्यगतित्वमुम् द्योतिक्कप्पडुगिऱदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इऩ्ऱु मुदल् अनुकूलऩाय् वर्तिक्कक् कडवेऩ्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अद्य-प्रभृति अनुकूलो वर्तेय, 
+</details>
+
+
+<details><summary>English</summary>
+
+> From this day onwards, I will do what is pleasing (to Thee). 
+</details>
+
+<details><summary>Español</summary>
+
+> A partir de este día, haré lo que te agrade (para ti).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इऩ्ऱु मुदल् अनुकूलऩाय् वर्तिक्कक्कडवेऩ्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩ्ऱु मुदलित्यादि । इदऩाल् अद्यप्रभृति तव अनुकूलोऽस्मि ऎऩ्गिऱ आनुकूल्यसङ्कल्पम् वॆळियिडप्पट्टदु।   
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रतिकूलाचरणम् पण्णक् कडवेऩ्-अल्लेऩ् +++(इति सङ्कल्पमात्रम्)+++,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रतिकूलाचरणं न कुर्याम्  
+</details>
+
+
+<details><summary>English</summary>
+
+> I will not do what will displease (Thee). 
+</details>
+
+<details><summary>Español</summary>
+
+> No haré lo que desagradará (te).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिकूलाचरणम् पण्णक्कडवेऩल्लेऩ्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रतिकूलाचरणम् पण्णक्कडवेऩल्लेऩिति । इदऩाल् प्रातिकूल्यवर्जनसङ्कल्परूपमाऩ इरण्डावदु अङ्गम् सॊल्लप्पट्टदु। 
+
+यद्यपि ‘‘आनुकूल्यस्य सङ्कल्पः प्रातिकूल्यस्य वर्जन’’म् इत्यादिगळिल् प्रातिकूल्यवर्जनस्यैव द्वितीयाङ्गत्वम् सॊल्लप्पट्टिरुक्किऱदु।  
+तथाऽपि अम्माळ् तिरुवुळ्ळम्  
+कीऴ् अनुकूलाचरणम् अङ्गम् आगामल्  
+आनुकूल्यसङ्कल्पम् अङ्गम् आऩाप् पोलेय्  
+इङ्गुम् प्रातिकूल्यवर्जनम् अङ्गम् अऩ्ऱिक्के  
+तत्-सङ्कल्पम् अङ्गम् आगलाम् ऎऩ्ऱु।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> देवरीरैप् पॆऱुगैक्कु ऎऩ् कैयिल् ऒरु कैम्-मुदल्+++(=मूल-धनं)+++ इल्लै,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> भवत्-प्राप्त्यर्थं मद्-धस्ते किम् अपि मूलधनं नास्ति  
+</details>
+
+<details><summary>English</summary>
+
+> I have no capital with which to attain Thee, 
+</details>
+
+<details><summary>Español</summary>
+
+> No tengo capital para alcanzar te,
+</details>
+
+<details><summary>मूलम्</summary>
+
+देवरीरैप् पॆऱुगैक्कु ऎऩ्गैयिलॊरुगैम्मुदलिल्लै,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कार्पण्यत्तैक् काट्टुगिऱार् तेवरीरैयित्यादिना । कैम्मुदल् - मूलधनम्। कैम्मुदल् इल्लैयॆऩ्बदाल् आकिञ्चन्यानुसन्धानरूपकार्पण्यम् सिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> देवरीरैये उपायम् आग अऱुदिय्+++(=निश्चित्य)+++ इट्टेऩ्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> भवन्तम् एवोपायतया निरचैषम्,  
+</details>
+
+<details><summary>English</summary>
+
+> I have made up my mind to seek only Thee as the upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+> He decidido buscar solo a ti como el upāya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देवरीरैये उपायमाग अऱुदियिट्टेऩ्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+महाविश्वासत्तैक् काट्टुगिऱार् तेवरीरैये उपायमाग वऱुदियिट्टेऩिदि । यद्यपि ‘‘रक्षिष्यतीति विश्वासः’’ ऎऩ्ऱु रक्षकऩाग अऱुदियिडुगैये महाविश्वासम्। आऩालुम् उपायान्तरनिरपेक्ष रक्षकऩाग अऱुदियिडुगैयागिऱ उपायत्वाध्यवसायत्तिल् ‘‘अधिकन्तु प्रविष्ट’’मिति न्यायत्ताले रक्षकत्वाध्यवसायमन्तर्गतमागैयाल् उपायमाग अऱुदियिट्टेऩॆऩ्गिऱदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> देवरीरे उपायम् आग-वेणुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> भवान् एवोपायो भवतु, 
+</details>
+
+
+<details><summary>English</summary>
+
+> Be Thou my upāya! 
+</details>
+
+<details><summary>Español</summary>
+
+> ¡Sea tú, mi upāya!
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देवरीरे उपायमागवेणुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अन्तर्नीतगोप्तृत्ववरणमाऩ उपायत्वप्रार्थऩैयैक् काट्टुगिऱार् तेवरीरे उपायमाग वेणुमिति । निरपेक्षरक्षकत्वप्रार्थनारूपोपायत्वप्रार्थऩैयिल् रक्षकत्वप्रार्थनारूपगोप्तृत्ववरणमन्तर्नीतमिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनिष्ट-निवृत्तियिल् आदल्  
+> इष्ट-प्राप्तियिल् आदल्  
+> ऎऩक्क् इऩि भरम् उण्डो
+
+ऎऩ्ऱु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अनिष्ट-निवृत्ताव् इष्ट-प्राप्तौ वा  
+> ममेतः परं किं भरोऽस्ति
+
+इति । 
+</details>
+
+<details><summary>English</summary>
+
+> Hereafter, either in the removal of what is evil  
+> or in the attainment of what is good,  
+> I have no further responsibility from now onwards. 
+</details>
+
+<details><summary>Español</summary>
+
+> Hereafter, either in the removal of what is evil  
+> or in the attainment of what is good,  
+> I have no further responsibility from now onwards. 
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनिष्टनिवृत्तियिलादल् इष्टप्राप्तियिलादल् ऎऩक्किऩि भरम् उण्डो' ऎऩ्ऱु। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+रक्षाभरसमर्पणत्तै वॆळियिडुगिऱार् अनिष्टनिवृत्तियिलित्यादिना । अनिष्टनिवृत्तिपूर्वकेष्टप्रापणमे रक्षाशब्दवाच्यमाग लोकप्रसिद्धम्। अन्द अनिष्टनिवृत्तियिलादल् इष्टप्राप्ति यिलादल् ऎऩक्किऩि भरमुण्डोवॆऩ्ऱदाल् रक्षाभरम् उम्मुडैयदेयॆऩ्ऱु सॊल्लप्पट्टदागवागिऱदु, रक्षाभरम् उम्मुडैयदेयॆऩ्ऱु सॊल्लामल्ऎऩक्किऩि ऒरु भरमुण्डोवॆऩ्ऱु निर्देशित्तदाल् भरत्तिल् स्वसम्बन्धनिवृत्ति स्पष्टमागिऱदिऱे। भरमुण्डोवॆऩ्ऱदाल् स्वनिर्भरत्वमुम् सूचितमागिऱदु। इङ्गु ऎऩ्ऱु ऎऩ्गिऱ पदम् सुरुक्किऩवसानत्तैच् चॊल्लुगिऱदु।  
+</details>
+
+
+
+In this the determination to do what is pleasing and abstinence from what is displeasing have to be stated only once as accessories or aṅgas to the upāya. His acting later in accordance with this determination to do what is pleasing etc. will be the result or fruit of the upāya and will last as long as his self lasts. If, in accordance with the words of Śrī Ammal, we take the avoidance of what is displeasing as meaning only the determination to avoid what is displeasing, it is evident that it has to be made only once (i.c at the time of prapatti). It is true that it has been said :-"I have dissociated myself from sins which cast one into saṁsāra." (But it may be explained in this way :-) The avoidance of what is displeasing may meen either having no connection (at all) with it (i.e.) giving it up or the determination to avoid it. In either case, this is, at the first instant, an aṅga and the actual avoidance is the result or fruit of prapatti which follows afterwards. This holds good also in regard to visvāsa or faith.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
