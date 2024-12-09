@@ -2500,9 +2500,9 @@ lo que te está desagradando.
 
 <details><summary>Español</summary>
 
-> Hereafter, either in the removal of what is evil  
-> or in the attainment of what is good,  
-> I have no further responsibility from now onwards. 
+> En adelante, ya sea en la eliminación de lo que es malvado  
+> o en el logro de lo que es bueno,  
+> No tengo más responsabilidad a partir de ahora.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2515,9 +2515,88 @@ lo que te está desagradando.
 रक्षाभरसमर्पणत्तै वॆळियिडुगिऱार् अनिष्टनिवृत्तियिलित्यादिना । अनिष्टनिवृत्तिपूर्वकेष्टप्रापणमे रक्षाशब्दवाच्यमाग लोकप्रसिद्धम्। अन्द अनिष्टनिवृत्तियिलादल् इष्टप्राप्ति यिलादल् ऎऩक्किऩि भरमुण्डोवॆऩ्ऱदाल् रक्षाभरम् उम्मुडैयदेयॆऩ्ऱु सॊल्लप्पट्टदागवागिऱदु, रक्षाभरम् उम्मुडैयदेयॆऩ्ऱु सॊल्लामल्ऎऩक्किऩि ऒरु भरमुण्डोवॆऩ्ऱु निर्देशित्तदाल् भरत्तिल् स्वसम्बन्धनिवृत्ति स्पष्टमागिऱदिऱे। भरमुण्डोवॆऩ्ऱदाल् स्वनिर्भरत्वमुम् सूचितमागिऱदु। इङ्गु ऎऩ्ऱु ऎऩ्गिऱ पदम् सुरुक्किऩवसानत्तैच् चॊल्लुगिऱदु।  
 </details>
 
+## उत्तर-कालिकालय् आनुकूल्यादि नाङ्गम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल्  
+आनुकूल्य-सङ्कल्पादिगळ् उपाय-परिकरम् आय् सकृत्ताय् इरुक्कुम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्रानुकूल्य-संकल्पादीनि  
+उपाय-परिकरतया सकृत् कर्तव्यानि भवन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+In this the determination  
+to do what is pleasing  
+and abstinence from what is displeasing  
+have to be stated only once as accessories or aṅgas to the upāya. 
+</details>
+
+<details><summary>Español</summary>
+
+En esta la determinación  
+hacer lo que es agradable  
+y abstinencia de lo que es desagradable  
+Hay que declararse solo una vez  
+como accesorios o aṅgas para el upāya.
+</details>
 
 
-In this the determination to do what is pleasing and abstinence from what is displeasing have to be stated only once as accessories or aṅgas to the upāya. His acting later in accordance with this determination to do what is pleasing etc. will be the result or fruit of the upāya and will last as long as his self lasts. If, in accordance with the words of Śrī Ammal, we take the avoidance of what is displeasing as meaning only the determination to avoid what is displeasing, it is evident that it has to be made only once (i.c at the time of prapatti). It is true that it has been said :-"I have dissociated myself from sins which cast one into saṁsāra." (But it may be explained in this way :-) The avoidance of what is displeasing may meen either having no connection (at all) with it (i.e.) giving it up or the determination to avoid it. In either case, this is, at the first instant, an aṅga and the actual avoidance is the result or fruit of prapatti which follows afterwards. This holds good also in regard to visvāsa or faith.
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् आनुकूल्यसङ्कल्पादिगळ् उपायपरिकरमाय् सकृत्तायिरुक्कुम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आनुकूल्यसङ्कल्पादिगळ् भरन्यासत्तोडु सकृत्कर्तव्यङ्गळाय्क्कॊण्डु अङ्गङ्गळागिऱदुगळेयॊऴिय उत्तरकालत्तिलुमनुवर्तिक्कक्कूडिय अनुकूलाचरणादिगळ् अङ्गमऩ्ऱु; किन्तु फल मॆऩ्गिऱार् इव्विडत्तिलित्यादिना । इव्विडत्तिल् - भरन्यासत्तिल्। आनुकूल्यसङ्कल्पादिगळिति । इङ्गु आदिपदत्ताल् प्रातिकूल्यवर्जनसङ्कल्पम् विवक्षितम्। उपायपरिकरमाय् सकृत्तायिरुक्कुमिति । उपायपरिकरत्वाद्धेतोः उपायवत् सकृत् तायिरुक्कुमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मेल् इवऩ् कोलिऩ अनुकूल-वृत्त्य्-आदिगळोडे  
+पोरुगिऱ विडमुम्+++(=मोक्षोऽपि)+++  
+उपाय-फलम् आय्  
+**यावद्-आत्म-भाविय्** आय् इरुक्कुम्। 
+</details>
+
+<details><summary>English</summary>
+
+His acting later  
+in accordance with this determination to do what is pleasing etc.  
+will be the result or fruit of the upāya  
+and will last as long as his self lasts. 
+</details>
+
+<details><summary>Español</summary>
+
+Su actuación más tarde  
+De acuerdo con esta determinación de hacer lo que es agradable, etc.  
+será el resultado o fruto de la upāya  
+y durará mientras dure su yo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मेल् इवऩ् कोलिऩ अनुकूलवृत्त्यादिगळोडे पोरुगिऱ विडमुम् उपायफलमाय् यावदात्मभावियायिरुक्कुम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मेल् इवऩ् कोलिऩ अनुकूलवृत्त्यादिगळोडे पोरुगिऱविडमुम् इति ।  
+मेल् - उत्तरकालत्तिल्। इवऩ् कोलिऩ - इऩ्ऱु मुदल् अनुकूलऩागक् कडवेऩॆऩ्ऱु सङ्कल्पित्त। अनुकूलवृत्त्यादिगळोडे पोरुगिऱविडम् - अनुकूलाचरणत्तोडेयिरुक्किऱविडम्। इङ्गु आदिपदात् प्रातिकूल्यवर्जनत्तिऱ्कु ग्रहणम्। उपायफलमाय् यावदात्मभावियायिरुक्कुम् - उपायफलत्वादेव यावदात्मभावियायिरुक्कुम्। 
+</details>
+
+
+
+If, in accordance with the words of Śrī Ammal, we take the avoidance of what is displeasing as meaning only the determination to avoid what is displeasing, it is evident that it has to be made only once (i.c at the time of prapatti). It is true that it has been said :-"I have dissociated myself from sins which cast one into saṁsāra." (But it may be explained in this way :-) The avoidance of what is displeasing may meen either having no connection (at all) with it (i.e.) giving it up or the determination to avoid it. In either case, this is, at the first instant, an aṅga and the actual avoidance is the result or fruit of prapatti which follows afterwards. This holds good also in regard to visvāsa or faith.
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
