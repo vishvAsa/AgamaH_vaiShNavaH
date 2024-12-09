@@ -99,8 +99,8 @@ AND HAS ATTAINED HIS GOAL:
 
 <details><summary>Español</summary>
 
-THE PRAPANNA HAS DONE WHAT HE OUGHT TO DO  
-AND HAS ATTAINED HIS GOAL:
+La Prapanna ha hecho lo que debería hacer  
+Y ha alcanzado su objetivo:
 </details>
 
 
@@ -130,6 +130,32 @@ AND HAS ATTAINED HIS GOAL:
 
 </details>
 
+<details><summary>English</summary>
+
+(1) The man who has adopted this upāya (prapatti) has,  
+from the time when he adopted it,  
+nothing else to do for attaining the fruit thereof.  
+(2) What he had to do has been done by performing prapatti once;  
+(3) (Bhagavān) who is independent (of all others), whose will is irresistible  
+and who is the one that rewards us with the fruit (of our actions) says, "Do not grieve ,"[Carama śloka] . 
+
+Owing to these (three) reasons, the prapanna would become care-free  
+at the thought of having surrendered his bhara. 
+</details>
+
+<details><summary>Español</summary>
+
+(1) El hombre que ha adoptado esto upāya (Prapatti) tiene,  
+desde el momento en que lo adoptó,  
+Nada más que hacer para alcanzar la fruta del mismo.  
+(2) Lo que tenía que hacer se ha hecho realizando Prapatti una vez;  
+(3) (Bhagavān) que es independiente (de todos los demás), cuya voluntad es irresistible
+Y quién es el que nos recompensa con la fruta (de nuestras acciones) dice: "No lloren", [Carama Śloka].
+
+Debido a estas (tres) razones, la Prapanna se quedaría sin cuidado  
+ante la idea de haber entregado su bhara.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -137,8 +163,16 @@ AND HAS ATTAINED HIS GOAL:
 </details>
 
 
+<details><summary>सायण-टीका</summary>
 
-(1) The man who has adopted this upāya (prapatti) has, from the time when he adopted it, nothing else to do for attaining the fruit thereof. (2) What he had to do has been done by performing prapatti once; (3) (Bhagavān) who is independent (of all others), whose will is irresistible and who is the one that rewards us with the fruit (of our actions) says, "Do not grieve ,"[Carama śloka] . Owing to these (three) reasons, thprapanna would become care-free at the thought of having surrendered his bhara. The Lord of all who has been accepted as the upāya*, which is ever present [Siddhopāya - the upāya which is ever present is Bhagavān, for He is always eager to save the jīva.] as stated in, "Seek refuge under me alone", has said "I will release Thee from all sins", and since the Lord can (always) be trusted and since He is capable (of acting according to His word), he would have no doubts or fears in regard to the realisation of his object. So he (the prapanna) would rejoice at having given up even the slightest trace of other aims or objects and also with having given up other upāyas along with upāyas which are subsidiary to them. Like a poor man who has received a great treasure with little effort, he would rejoice at the prospect of the supreme goal (of life ) which he is to attain. It has been said: "He who has sought, in every possible manner, the refuge of Nārāyaṇa  who is the Saviour and the guru of the world is not the servant of the gods, of the rishis, of animals, of men and of the pitṛs. He is in no way their debtor". In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls), he is able, like one whose promissory note registered in the unwritten Vedas under certain conditions (upādhi relating to caste etc.) and requiring service as interest for the principal ( borrowed by him from them) has been fully discharged (torn off).
+इप् प्रपत्तिनिष्ठऩ् प्रपत्त्यनन्तरकालम् निर्भरऩाय्, निस्संशयऩाय्, निर्भयऩाय्, हृष्टमनावुमाय्, भगवद्विषयत्तिल् यथाशास्त्रम् आज्ञानुज्ञाकैङ्कर्यत्तै अनुष्ठित्तुप् पोरुगैयाल् मुक्तप्रायऩाय् कृतकृत्यऩॆऩ्ऱुम्, कृतार्थऩॆऩ्ऱुम् कॊण्डाडप्पडुवाऩॆऩ्ऱु 'इव्वुपायनिष्ठऩ्' इत्यादिमहाचूर्णिकैयाले सॊल्लप्पोगिऱवराय्, मुन्दुर निर्भरऩागैयिल् हेतुक्कळैक् काट्टुगिऱार् - प्रपत्तिक्कु अनन्तरकालन्दुडङ्गि इत्यादिना । ताऩ् - भगवाऩिडत्तिल् भरन्यासम्बण्णिऩ ताऩ्। इदुक्कु - इन्द भरन्यासत्तिऱ्कु। कोलिऩ फलत्तैप्पऱ्ऱ - प्रार्थितमाऩ मोक्षरूपफलत्तै उद्देशित्तु। तऩक्कु - न्यस्तभरऩाऩ तऩक्कु। हेत्वन्तरमरुळिच्चॆय्गिऱार् - कर्तव्यांशम् इति । अकिञ्चनऩुक्कु कर्तव्यतया विहितमाऩ भरन्यास इत्यर्थः । सकृदनुष्ठानत्ताले कृतमागैयालुम् - आप्रयाणम् अहरहरनुष्ठेयमाऩ भक्तिपोलऩ्ऱिक्के 'सकृदेव हि शास्त्रार्थः कृतोऽयं तारयेन्नरम्' ऎऩ्गिऱबडि सकृदनुष्ठानत्तालेये कृतमागैयालुम्; कर्तव्यांशत्तिल् शेषमिरुन्दालल्लवो अदु इवऩुक्कु भरमागुम् ऎऩ्ऱु करुत्तु। हेत्वन्तरमरुळिच् चॆय्गिऱार् - स्वतन्त्रऩाय् इत्यादिना । स्वातन्त्र्यमुम् सत्यसङ्कल्पत्वमुम् 'मा शुचः' ऎऩ्गिऱ वचनत्तिऩुडैय अमोघत्वे हेतुः । फलप्रदऩ् 'मा शुचः' ऎऩ्ऱु अरुळिच्चॆय्गैयालुम् - मोक्षरूपफलत्तैक् कॊडुक्किऱ भगवाऩे 'नी दुष्करोपायङ्गळै विट्टु ऎऩ्ऩै ऒरुवऩैये शरणमाग अडै; अदॊऩ्ऱालेये वशीकृतऩाऩ नाऩे उऩ्ऩै सर्वपापङ्गळिलिरुन्दुम् विडुविक्किऱेऩ्। मा शुचः । भक्तिपोल् इदऱ्कुम् कर्तव्यशेषमुण्डो ऎऩ्ऱु शोकिक्कवेण्डाम्' ऎऩ्ऱु अरुळिच्चॆय्गैयालुम्। इन्द हेतुत्रयत्ताले निर्भरत्वम् सिद्धिक्कुमाऩालुम्, इन्द प्रपत्ति यथावस्थितमाग अनुष्ठितमो इल्लैयोवॆऩ्ऱु सन्देहमुण्डाऩाल् निर्भरतै कूडुमोऎऩ्ऩ अरुळिच्चॆय्गिऱार् - तऩक्कुप् पिऱन्द भरन्यासरूपदशैयैप् पार्त्तु इति । आकिञ्चन्याद्यधिकारपूर्णाङ्गकभरन्यासदशैयैप् पार्त्तु। अनुष्ठितमाऩ तऩ्ऩुडैय भरसमर्पणत्तिल् अङ्गाङ्गिवैकल्यमिल्लामैयै नऩ्ऱाग निश्चयित्तु ऎऩ्ऱबडि। निर्भरऩाय् इति । कीऴ्च्चॊऩ्ऩ हेतुक्कळोडु इन्द निश्चयमुमिरुन्दाल् निर्भरतैक्कुत् तट्टिल्लै ऎऩ्ऱु करुत्तु। 
+</details>
+
+
+
+
+
+The Lord of all who has been accepted as the upāya*, which is ever present [Siddhopāya - the upāya which is ever present is Bhagavān, for He is always eager to save the jīva.] as stated in, "Seek refuge under me alone", has said "I will release Thee from all sins", and since the Lord can (always) be trusted and since He is capable (of acting according to His word), he would have no doubts or fears in regard to the realisation of his object. So he (the prapanna) would rejoice at having given up even the slightest trace of other aims or objects and also with having given up other upāyas along with upāyas which are subsidiary to them. Like a poor man who has received a great treasure with little effort, he would rejoice at the prospect of the supreme goal (of life ) which he is to attain. It has been said: "He who has sought, in every possible manner, the refuge of Nārāyaṇa  who is the Saviour and the guru of the world is not the servant of the gods, of the rishis, of animals, of men and of the pitṛs. He is in no way their debtor". In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls), he is able, like one whose promissory note registered in the unwritten Vedas under certain conditions (upādhi relating to caste etc.) and requiring service as interest for the principal ( borrowed by him from them) has been fully discharged (torn off).
 
 Therefore when he has to pronounce their names in the performance of *such compulsory and regularly recurrent and occasional rites as the five great yajnas (pañcamaha yajnas), he would realise that these names refer really to Iśvara (Bhagavān) etymologically: as has been stated by the sages in passages like :-" Those who worship the pitṛs (the spirits of their fore-fathers), the gods, the Brahmins and Agni - they (in reality) worship only Viṣṇu , who is the Inner Self of all beings." When the king's servants place a garland and a jewel on the coat worn by the king, their object is not to please the coat but to gain the favour of the king.
 
