@@ -596,9 +596,28 @@ If it be asked why the word eka should be used as an adjective of the Saviour, w
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-सुदुष्करेण शोचेद्यो येनयेनेष्टहेतुना ।  
-स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥
+सुदुष्करेण शोचेद् यो  
+येन येनेष्ट-हेतुना+++(=साधनेन)+++ ।  
+स स तस्याहम् एवेति  
+चरम-श्लोक-संग्रहः ॥
 </details>
+
+<details><summary>English</summary>
+
+If a man is in despair  
+because of his inability to adopt such means or upāyas as will yield the respective fruits desired by him,  
+then, I myself (single as I am) will stand for him as the respective means or upāya  
+to enable him to secure that fruit.
+</details>
+
+<details><summary>Español</summary>
+
+If a man is in despair  
+because of his inability to adopt such means or upāyas as will yield the respective fruits desired by him,  
+then, I myself (single as I am) will stand for him as the respective means or upāya  
+to enable him to secure that fruit.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -606,7 +625,19 @@ If it be asked why the word eka should be used as an adjective of the Saviour, w
 स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥
 </details>
 
-If a man is in despair because of his inability to adopt such means or upāyas as will yield the respective fruits desired by him, then, I myself (single as I am) will stand for him as the respective means or upāya to enable him to secure that fruit."
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अस्य प्रेरणा शाकुन्तले -
+
+> येन येन वियुज्यन्ते  
+प्रजाः स्निग्धेन बन्धुना ।  
+स स पापाद् ऋते तासां  
+दुष्यन्त इति घुष्यताम् ॥२३॥
+</details>
+
+
+
+
 
 This statement may be explained as follows: "Whatever be the object that a man, whoever be may be, wishes to attain and whatever be the means or upāyas by which he cannot attain them and likewise, the attainment of mokṣa desired by the aspirant, which cannot be attained by karma  yoga, jñāna yoga and bhakti  yoga, all these fruits, can, O great sage, be attained by prapatti. The place desired by the aspirant to mukti is that supreme abode from which the man who reaches it never returns". As declared (in the passage cited above), when a man falls into grief because he cannot obtain any one of the fruits desired by him either because of ignorance of the means prescribed in the śāstras for acquiring the respective fruit, or because even while possessing that knowledge, he is unable to adopt the prescribed means, or because, while possessing both (the knowledge and the ability), he is too impatient to wait until the time when the fruit will be attained thereby - (when a man falls into grief in this way) the Carama-śloka declares to him, “ You need not go about in search of these means. I will myself be the only and sole upāya for your attainment of all these fruits, provided I am propitiated by the performance of prapatti. The Carama Śloka says, as it were :- " This single and sovereign medicine will give you all the health which a larger number of other medicines may confer on you. It is enough, if, instead of falling into despair, you take this single medicine. This will cure all the ailments that can be cured by other medicines. After taking this medicine, you can enjoy all pleasures. Therefore you need not fall into despair thinking that you have lost your health and the pleasures." This is, as it were, the meaning of the Carama śloka.
 
