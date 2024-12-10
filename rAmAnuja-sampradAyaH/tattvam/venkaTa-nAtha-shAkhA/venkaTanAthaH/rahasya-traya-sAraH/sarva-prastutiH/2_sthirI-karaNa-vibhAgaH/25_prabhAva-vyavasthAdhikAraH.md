@@ -172,21 +172,71 @@ Such things as svarga that are declared to be the fruit of certain (good) karmas
 
 When prapatti was treated (by the Bhāṣyakāra) as an aṅga of bhakti yoga, it was only to illustrate how it wins bhakti yoga as a fruit, since it is capable of securing all fruits. In this context, we should bear in mind that, on the lines of the Bhāṣyakara's second interpretation (of the carama śloka ), prapatti stands in the place of all upāyas including bhakti yoga, which are difficult of performance. In accordance with his first interpretation, (that every dharma should be done with the thought that it is performed not by oneself but by the Lord and for His own ends - sāttvika parityāga) and not out of any desire for one's own gain, the meaning should be considered as enjoining the performance of prapatti with that thought and the service rendered by the prapanna as an end in itself.
 
+
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-सुदुष्करेण शोचेद्यो येन येनेष्टहेतुना । स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥  
-भावाभावौ न धर्माणां प्रपत्तेरङ्गमिष्यते । स्वतन्त्रशिष्ट्या शक्येहा शेषाभावोधिकारगः ॥  
+सुदुष्करेण शोचेद् यो  
+येन येनेष्ट-हेतुना+++(=साधनेन)+++ ।  
+स स तस्याहम् एवेति  
+चरम-श्लोक-संग्रहः ॥
+</details>
+
+<details><summary>English</summary>
+
+If a man is in despair  
+because of his inability to adopt such means or upāyas as will yield the respective fruits desired by him,  
+then, I myself (single as I am) will stand for him as the respective means or upāya  
+to enable him to secure that fruit.
+</details>
+
+<details><summary>Español</summary>
+
+If a man is in despair  
+because of his inability to adopt such means or upāyas as will yield the respective fruits desired by him,  
+then, I myself (single as I am) will stand for him as the respective means or upāya  
+to enable him to secure that fruit.
+</details>
+
+
+<details><summary>मूलम् (सं॰प॰)</summary>
+
+सुदुष्करेण शोचेद्यो येनयेनेष्टहेतुना ।  
+स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अस्य प्रेरणा शाकुन्तले -
+
+> येन येन वियुज्यन्ते  
+प्रजाः स्निग्धेन बन्धुना ।  
+स स पापाद् ऋते तासां  
+दुष्यन्त इति घुष्यताम् ॥२३॥
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भावाभावौ न धर्माणां  
+प्रपत्तेर् अङ्गमिष्यते ।  
+स्वतन्त्र-शिष्ट्या शक्येहाशेषाभावोधिकारगः ॥  
+</details>
+
+<details><summary>मूलम्</summary>
+
+भावाभावौ न धर्माणां प्रपत्तेरङ्गमिष्यते ।  स्वतन्त्रशिष्ट्या शक्येहा शेषाभावोधिकारगः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
+
 क्रत्वनङ्गतया ये तु तदानीमननुष्ठिताः । स्वकाले स्वविधेरेव कार्यास्ते तद्वदत्र नः ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-सुदुष्करेण शोचेद्यो येन येनेष्टहेतुना । स स तस्याहमेवेति चरमश्लोकसंग्रहः ॥  
-भावाभावौ न धर्माणां प्रपत्तेरङ्गमिष्यते । स्वतन्त्रशिष्ट्या शक्येहा शेषाभावोधिकारगः ॥  
 क्रत्वनङ्गतया ये तु तदानीमननुष्ठिताः । स्वकाले स्वविधेरेव कार्यास्ते तद्वदत्र नः ॥
 </details>
 
-"When a man falls into despair or grief because he is not able to adopt certain upāyas which are prescribed as productive of the desired results - to that man I stand as those upāyas. This is the gist of the carama śloka."
 
 The performance or the non-performance of certain dharmas (like nitya and naimittika) are not to be considered as aṅgas of prapatti. The man desires to perform these actions of which he is capable, because they have been ordained for him (without any reference to prapatti ). The non-performance of those actions of which he is incapable constitutes ākiñcanya (helplessness) which is necessary for prapatti.
 

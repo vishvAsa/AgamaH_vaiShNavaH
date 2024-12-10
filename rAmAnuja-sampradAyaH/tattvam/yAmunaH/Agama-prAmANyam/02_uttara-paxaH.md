@@ -5837,7 +5837,7 @@ observe the sacraments of conception ceremony etc. according to the manner laid 
 Those who perform the forty sacraments  
 which are enjoined by the Ekayana scripture  
 while giving up the dharmas of the Veda,  
-from the recitation of the gayatri onward,300  
+from the recitation of the gayatri onward, [[300]]  
 they properly follow the rules laid down by the grhyasutras of their own sakha  
 and do not abdicate their brahminhood  
 because they fail to follow the rites of a different shakha;  
