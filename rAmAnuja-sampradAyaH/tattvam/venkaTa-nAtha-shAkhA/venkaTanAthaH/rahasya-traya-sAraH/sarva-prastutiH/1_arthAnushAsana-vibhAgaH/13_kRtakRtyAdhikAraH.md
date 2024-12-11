@@ -355,15 +355,53 @@ Se ha dicho:
 > (भागवतम् ११-५-४१)
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इङ्गिरुन्द कालम् भगवद्विषयत्तिल् तऩ् पारमैकान्त्यङ्गुलैयादे कैङ्कर्यम् पण्णुगैयाल् मुक्ततुल्यऩाय्प् पोरुमॆऩ्गिऱार् - देवर्षीत्यादिना । अयम् - प्रपन्नऩाऩ इवऩ्। देवाश्च ऋषयश्च भूतात्मानश्च नरश्च देवर्षिभूतात्मनरः । तेषां, पितॄणाम् । देवयज्ञ-भूतयज्ञ-मनुष्ययज्ञ-ब्रह्मयज्ञ-पितृयज्ञङ्गळिल् यष्टव्यर्गळागच् चॊल्लप्पट्ट देवादिविषयङ्गळिल्। न किङ्करः - साक्षात् यष्टव्यत्वबुद्ध्या किङ्करवृत्तियैप् पण्णक्कडवऩल्लऩ्। न ऋणी च - 'जायमानो ह वै ब्राह्मणस्त्रिभिर्ऋणवा जायते' इत्यादिगळिल् सॊऩ्ऩ अवश्यापनोदनीयमाऩ ऋणवाऩुमागाऩ्। यः सर्वात्मना – सर्वप्रकारत्तालुम्, प्राप्यत्वेन प्रापकत्वेन सर्वविधबन्धुत्वेन च ऎऩ्ऱबडि। लोकगुरुं नारायणं प्रपन्नः अयमिति पूर्वेणान्वयः । ऎऩ्गिऱ श्लोकत्तिऩ्बडिये - ऎऩ्गिऱ श्लोकोक्तप्रकारत्ताले, इदऱ्कु कऴित्तवऩागैयाले यॆऩ्बदोडन्वयम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रजापति--पशुपतिय् ऎऩ्ऱाप् पोले पेर् इट्टुक्-कॊण्ड् इरुक्किऱ  
 स-जातीयर् आऩ क्षेत्र-ज्ञरैप् पऱ्ऱ  
-ऒर्-ओर्-अवसरङ्गळिले कैक्-कूलि बोले  
-सिल उपाधिगळ् अडियाग ऎऴुदाम् अऱैयिले  
-एऱिट्टुक्क् इडक्किऱ अडिमैत् तीट्टुम्  
-मुदल्-माळादे पॊलि-सैयिट्टुप् पोरुगिऱ तऩिसुदीट्टुङ् किऴित्तवऩ् आगैयाले
+ऒर्-ओर्-अवसरङ्गळिले कैक्-कूलि+++(=वेतनम् →धनम्)+++ बोले  
+सिल +++(जात्य्-आद्य्-)+++उपाधिगळ् अडिय् आग  
+ऎऴुदा मऱैयिले एऱ्+++(=आरुह्य)+++-इट्टुक् किडक्किऱ अडिमैत्+++(=दास्य)+++-तीट्टुम्+++(=पत्रम्)+++  
+मुदल्+++(-ऋणम्)+++ माळादे+++(=अ-समाप्य)+++  
+पॊलिसैय्+++(=वृद्धिम्)+++ इट्टुप् पोरुगिऱ तऩिसुदीट्टुङ् **किऴित्तवऩ्** आगैयाले
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रजापतिः पशु-पतिर् इत्य् एव नामानि **बिभ्रतः** सजातीयान् क्षेत्रज्ञान् प्रति  
+तत्-तद्-अवसरेषु कर-गृहीत-भृति--सदृशोपाधि+++(←जात्यादि)+++-विशेष-हेतुकतया  
+लेखनानर्ह-वेदारूढं दास्य-पत्रम्,  
+मूल-धन-**तीरणं विनैव**  
+वृद्धि-विधानानुवृत्तम् ऋण-पत्रं च **छिन्नवान्**  
+</details>
+
+
+<details><summary>English</summary>
+
+In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls),  
+he is able, like one  
+whose **promissory note** registered in the unwritten Vedas  
+under certain conditions (upādhi relating to caste etc.)  
+and requiring service as interest for the principal ( borrowed by him from them)  
+has been fully discharged (**torn off**).
+</details>
+
+<details><summary>Español</summary>
+
+Con respecto a los jīvas (kṣetrajnas) como han tomado los nombres de prajāpati (el señor de las criaturas) y pasupati (el señor de las bestias, a saber almas atadas),  
+Es capaz, como uno  
+cuya **Nota promisora​** registrada en los Vedas no escritos  
+bajo ciertas condiciones (upādhi relacionada con la casta, etc.)  
+y requerir el servicio como interés para el monto principal (tomado por él)  
+ha sido completamente descargado (** arrancado **).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -371,9 +409,18 @@ Se ha dicho:
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+प्रजापतिपशुपतियॆऩ्ऱाप् पोले - 'ऎऩ्ऱाप्पोले' ऎऩ्बदाल् इन्द्रबृहस्पतीत्यादि पॆयर्गळुक्कु सङ्ग्रहम्। पेरिट्टुक् कॊण्डिरुक्किऱ - नामधारिकळाऩ सजातीयराऩ - कर्मवश्यतया तुल्यर्गळाऩ, क्षेत्रज्ञरैप्पऱ्ऱ - जीवर्गळै उद्देशित्तु, ओरोरवसरङ्गळिले - रुद्राय पशुपतये, प्रजापतये स्वाहा, इन्द्राय स्वाहा, बृहस्पतये स्वाहा इत्यादिशब्दोच्चारणपूर्वक पञ्चमहायज्ञवैश्वदेवाद्यनुष्ठानकालङ्गळिले, कैक्कूलिबोले - लोगत्तिले सिलगालत्तिल् तात्कालिकमाग कूलि वाङ्गि ऎप्पडि वेलैसॆय्गिऱार्गळो अप्पडिये ऎऩ्ऱबडि। सिल उपाधिकळडियाग - कर्मकृतङ्गळाऩ ब्राह्मणादिवर्णब्रह्मचर्याद्याश्रमरूपोपाधिकळडियाग, ऎऴुदामऱैयिले - एट्टिल् ऎऴुदप्पडाद वेदत्तिले, पुरुषकर्तृकश्लोकङ्गळागिलऩ्ऱो एट्टिल् ऎऴुदप् पडुवदु। एऱिट्टुक्किडक्किऱ - अन्तर्गतमागक् किडक्किऱ, अडिमैत्तीट्टुम् - तऩ्ऩै किङ्करऩाग ऎऴुदिक्कॊडुत्त सीट्टुक्कुत् तुल्यमाऩ ‘‘त्रिभिर्ऋणवा जायते’’ इत्यादिरूपमाऩ सीट्टैयुम् ऎऩ्ऱबडि। मुदल् माळादे - मूलधनत्तिल् स्वल्पांशमुम् कऴिन्दुबोगादे, पॊलिसैयिट्टुप्पोरुगिऱ - इवऩ् सॆय्युम् कैङ्कर्यमॆल्लाम् मूलधनत्तिऩ् स्पर्शमऩ्ऱिक्के वट्टिक्के सरियागुम्बडि वृद्धियडैन्दु पोरुगिऱ, तऩिसु तीट्टुम् - ‘‘कुसीदमेके विहरन्ति सर्वं य आशीर्वदन्तो ददत्यत्र किञ्चित्’’, इत्यादिवाक्यरूपमाऩ कडऩ्बत्तिरत्तैयुम्, किऴित्तवऩागैयाले इति । 
+
+> ‘‘न किङ्करो नायम् ऋणी च राजन्’’ 
+
+ऎऩ्गिऱ प्रमाणत्तिऩ्बडि, इव्वधिकारि किऴित्तवऩागैयाले ऎऩ्ऱबडि। 
+
+</details>
 
 
-In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls), he is able, like one whose promissory note registered in the unwritten Vedas under certain conditions (upādhi relating to caste etc.) and requiring service as interest for the principal ( borrowed by him from them) has been fully discharged (torn off).
+
 
 Therefore when he has to pronounce their names in the performance of *such compulsory and regularly recurrent and occasional rites as the five great yajnas (pañcamaha yajnas), he would realise that these names refer really to Iśvara (Bhagavān) etymologically: as has been stated by the sages in passages like :-" Those who worship the pitṛs (the spirits of their fore-fathers), the gods, the Brahmins and Agni - they (in reality) worship only Viṣṇu , who is the Inner Self of all beings." When the king's servants place a garland and a jewel on the coat worn by the king, their object is not to please the coat but to gain the favour of the king.
 
