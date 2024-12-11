@@ -305,7 +305,7 @@ Se regocijaría ante la perspectiva del objetivo supremo (de la vida) que debe a
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> "देवर्षिभूतात्मनृणां पितॄणां  
+> "देव-र्षि-भूतात्मनृणां पितॄणां  
 > न किङ्करो नायम् ऋणी च राजन् ।  
 > सर्वात्मना यः शरणं शरण्यं  
 > नारायणं लोकगुरुं प्रपन्नः ॥”  
