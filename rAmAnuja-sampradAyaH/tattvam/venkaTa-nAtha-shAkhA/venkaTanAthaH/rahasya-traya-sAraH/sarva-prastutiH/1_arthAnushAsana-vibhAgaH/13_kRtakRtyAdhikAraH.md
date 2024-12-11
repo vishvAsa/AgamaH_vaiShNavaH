@@ -169,10 +169,143 @@ ante la idea de haber entregado su bhara.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'मामेकं शरणं व्रज' ऎऩ्गिऱ बडिये  
+सिद्धोपायत्वेन स्वीकृतऩ् आऩ **सर्वेश्वरऩ्**  
+
+'अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि' ऎऩ्ऱु फल-प्रदान-सङ्कल्पत्तैप् पण्णुगैयाले  
+इप्पडि **विश्वसनीयऩुम् आय्**  
+समर्थऩुम् आय्  
+उपायभूतऩुम् आऩ ईश्वरऩैप् **पार्त्तु**  
+फल-सिद्धियिल् **निस्संशयऩुम् आय् निर्भयऩुम् आय्**  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"माम् एकं शरणं व्रज" इत्य् उक्त-रीत्या 
+ सिद्धोपायत्वेन स्वी-कृतेन सर्वेश्वरेण,  
+"अहं त्वा सर्व-पापेभ्यो मोक्षयिष्यामि "  
+इति फल-प्रदान संकल्पस्य करणात्  
+एवं विश्वसनीयं समर्थम्  
+उपाय-भूतम् ईश्वरम् अवलोक्य  
+फल-सिद्धौ निस्संशयो निर्भयश् च, 
+</details>
 
 
 
-The Lord of all who has been accepted as the upāya*, which is ever present [Siddhopāya - the upāya which is ever present is Bhagavān, for He is always eager to save the jīva.] as stated in, "Seek refuge under me alone", has said "I will release Thee from all sins", and since the Lord can (always) be trusted and since He is capable (of acting according to His word), he would have no doubts or fears in regard to the realisation of his object. So he (the prapanna) would rejoice at having given up even the slightest trace of other aims or objects and also with having given up other upāyas along with upāyas which are subsidiary to them. Like a poor man who has received a great treasure with little effort, he would rejoice at the prospect of the supreme goal (of life ) which he is to attain. It has been said: "He who has sought, in every possible manner, the refuge of Nārāyaṇa  who is the Saviour and the guru of the world is not the servant of the gods, of the rishis, of animals, of men and of the pitṛs. He is in no way their debtor". In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls), he is able, like one whose promissory note registered in the unwritten Vedas under certain conditions (upādhi relating to caste etc.) and requiring service as interest for the principal ( borrowed by him from them) has been fully discharged (torn off).
+<details><summary>English</summary>
+
+The Lord of all who has been accepted as the upāya*, which is ever present  
+[Siddhopāya - the upāya which is ever present is Bhagavān,  
+for He is always eager to save the jīva.]  
+as stated in - "Seek refuge under me alone",  
+has said "I will release Thee from all sins",  
+and since the Lord can (always) be trusted  
+and since He is capable (of acting according to His word),  
+he would have no doubts or fears in regard to the realisation of his object. 
+</details>
+
+<details><summary>Español</summary>
+
+El señor de todos los que han sido aceptados como el upāya*, que siempre está presente  
+[Siddhopāya - El upāya que siempre está presente es bhagavān,  
+Porque siempre está ansioso por salvar el Jīva.]  
+Como se indicó - "Busque refugio bajo mí solo",  
+ha dicho "Te liberaré de todos los pecados",  
+y dado que el Señor puede (siempre) confiar en  
+y dado que es capaz (de actuar de acuerdo con su palabra),  
+no tendría dudas o temores con respecto a la realización de su objeto.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+'मामेकं शरणं व्रज' ऎऩ्गिऱबडिये सिद्धोपायत्वेन स्वीकृतऩाऩ सर्वेश्वरऩ् 'अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि' ऎऩ्ऱु फलप्रदानसङ्कल्पत्तैप् पण्णुगैयाले इप्पडि विश्वसनीयऩुमाय् समर्थऩुमाय् उपायभूतऩुमाऩ ईश्वरऩैप् पार्त्तु फलसिद्धियिल् निस्संशयऩुमाय् निर्भयऩुमाय्  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩि निस्संशयत्वत्तिलुम् निर्भयत्वत्तिलुम् हेतुवै अरुळिच्चॆय्गिऱार् - मामेकं शरणं व्रज इत्यादिना । मामेकम् - ऎऩ्ऩैयॊरुवऩैये, शरणं व्रज - सिद्धोपायमाग वरणम् पण्णु। ऎऩ्गिऱबडिये - ऎऩ्ऱु विहितमाऩबडिये। सिद्धोपायत्वेन स्वीकृतऩाऩ - शरणवरणम्बण्णि सिद्धोपायऩाग स्वीकरिक्कप्पट्ट, सर्वेश्वरऩ् - सर्वनियन्तावाऩ भगवान् । फलप्रदानसङ्कल्पत्तैप् पण्णुगैयाले इति । इदऱ्कु निस्संशयऩुमाय् निर्भयऩुमाय् ऎऩ्बदोडन्वयम्। सर्वेश्वरऩ् फलप्रदानसङ्कल्पम् पण्णिऩमात्रत्तालेये इव्वधिकारिक्कु संशयनिवृत्त्यादिगळ् ऎप्पडि वरक्कूडुम्? सङ्कल्पसंशयनिवृत्त्यादिगळ् असमानाधिकरणङ्गळऩ्ऱो? ऎऩ्ऩ अरुळिच्चॆय्गिऱार् - इप्पडि विश्वसनीयऩुमाय् इत्यादियाल्। दूत्यसारथ्यविश्वरूपप्रदर्शनादिगळाले आप्ततया विश्वसनीयऩुमाय् ऎऩ्ऱबडि। समर्थऩुमाय् - नम्मैयुम् सर्वपापत्तिऩिऩ्ऱुम् विडुवित्तु नित्यसूरिपरिषत्तिले सेर्क्क सामर्थ्यमुळ्ळवऩाय्। उपायभूतऩुमाऩ - नम् भरत्तै स्वीकरित्तु उपायान्तरस्थानत्तिले निऱ्कुमवऩाऩ। ईश्वरऩैप्पार्त्तु - सर्वनियन्तावाऩ भगवाऩै नऩ्ऱाग परामर्शित्तु। अदावदु नमक्कु फलप्रदानसङ्कल्पम् पण्णिऩ भगवान् विश्वसनीयऩाय् आप्तऩायिरुप्पदाल् फलसिद्धियिल् वञ्चनै सॆय्यमाट्टाऩ्। इवऩ् अघटितघटनासामर्थ्यशालियायिरुप्पदाल् फलत्तै साधित्तुत् तरवल्लवऩ्। नम् प्रपत्तिवशीकृतऩाय् उपायान्तरस्थानत्तिल् निऱ्कैयाल् उपेयमाऩ फलत्तै अवश्यमाग प्रदानम् पण्णुवऩ् ऎऩ्ऱु निश्चयित्तॆऩ्ऱबडि। इदऩाल् फलप्रदानसङ्कल्पम् संशयनिवृत्त्यसमानाधिकरणमाऩालुम् अन्द सङ्कल्पाश्रयभगवद्गुणपरामर्शम् समानाधिकरणमागैयाले संशयनिवृत्ति कूडलाम् ऎऩ्ऱदायिऱ्ऱु। फलसिद्धियिल् निस्संशयऩुमाय् निर्भयऩुमाय् इति । फलप्रदऩाऩ ईश्वरऩे 'सर्वपापेभ्यो मोक्षयिष्यामि' ऎऩ्ऱु सङ्कल्पिक्कैयालुम्, अवऩे आप्तऩाय्, समर्थऩाय्, उपायमायिरुक्कैयालुम् फलसिद्धियिल् संशयमुम्, अनादिकालसञ्चितङ्गळाऩ पापङ्गळाले ऎऩ्बडप्पोगिऱोमॆऩ्गिऱ भयमुम् उण्डाग प्रसक्तिये इल्लामैयाले निस्संशयऩाय् निर्भयऩाय् इरुक्कत् तट्टिल्लैयॆऩ्ऱु करुत्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कडैय्+++(=अन्तम् →वासना)+++ **अऱव् इट्ट** अन्य-पुरुषार्थङ्गळैयुम्  
+
+काम्ब्+++(=पत्र-मूलम्)+++ **अऱव् इट्ट** उपायान्तरङ्गळैयुम्  
+
+अकिञ्चनऩ् अ-यत्नम् आग महा-निधियैप् पॆऱुमाप् पोले  
+ताऩ् **पॆऱप्पुगुगिऱ**+++(=लप्स्यमान)+++ परम-पुरुषार्थत्तैयुम् 
+
+**पार्त्तु** हृष्ट-मनाव् **आय्** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+वासना अपि यथा नष्टाः स्युस्  
+तथा **त्यक्तान्** अन्य-पुरुषार्थान्  
+
+वृन्तान्य्+++(=पत्त्र-मूलान्य्)+++ अपि यथा निवर्तेरन् तथा **त्यक्तानि** उपायान्तराणि  
+
+यथा अकिञ्चनो ऽयत्नेन महानिधिं लभेत  
+तथा स्वेन **लप्स्यमानं** परम-पुरुषार्थं च  
+
+**दृष्ट्वा हृष्ट-मनाः**, 
+</details>
+
+
+<details><summary>English</summary>
+
+So he (the prapanna) would rejoice 
+
+- at having given up even the slightest trace of other aims or objects  
+- and also with having given up other upāyas  
+  along with upāyas which are subsidiary to them. 
+
+Like a poor man who has received a great treasure with little effort,  
+he would rejoice at the prospect of the supreme goal (of life ) which he is to attain. 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces él (el Prapanna) se regocijaría
+
+- Al haber renunciado incluso al más mínimo rastro de otros objetivos u objetos
+- y también con haber renunciado a otros upāyas
+  junto con upāyas que son subsidiarios para ellos.
+
+Como un hombre pobre que ha recibido un gran tesoro con poco esfuerzo,
+Se regocijaría ante la perspectiva del objetivo supremo (de la vida) que debe alcanzar.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कडैयऱविट्ट अन्यपुरुषार्थङ्गळैयुम् काम्बऱविट्ट उपायान्तरङ्गळैयुम् अकिञ्चनऩ् अयत्नमाग महानिधियैप् पॆऱुमाप्पोले ताऩ् पॆऱप्पुगुगिऱ परमपुरुषार्थत्तैयुम् पार्त्तु हृष्टमनावाय् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हृष्टमनावाग आगुगैक्कु हेतुक्कळैक् काट्टुगिऱार् - कडैयऱ इत्यादियाल्। कडैयऱुगै - वासनैयऱुगै। सवासनमागविट्ट। अदावदु समीपदेशत्तैयुम् मिदियामल् विट्ट ऎऩ्ऱबडि। अन्यपुरुषार्थङ्गळैयुम् - ऐश्वर्यादिपुरुषार्थङ्गळैयुम्। काम्बऱविट्ट - काम्बु - तुवक्कु, अदावदु उपायम्; अदु अऱ, स्वोपायत्तोडु अऱ्ऱुप्पोम्बडि, विट्ट - विडप्पट्ट। उपायान्तरङ्गळैयुम् इति । स्वस्वोपायङ्गळोडु विडप्पट्ट उपायान्तरङ्गळैयुम् ऎऩ्ऱबडि। अकिञ्चनऩ् - दरिद्रऩ्। अयत्नमाग - अधिकप्रयत्नमऩ्ऱिक्के। महानिधियैप् पॆऱुमाप्पोले - अवधियिल्लाद निधियैप् पॆऱुमाप्पोले। ताऩ् पॆऱप्पुगुगिऱ - कोलिऩ कालत्तिलेये ताऩ् अडैयप्पोगिऱ। परमपुरुषार्थत्तैयुम् - मोक्षरूपमहापुरुषार्थत्तैयुम्। पार्त्तु - शास्त्रत्ताले नऩ्ऱाग परामर्शित्तु। हृष्टमनावाय् - सन्तुष्टचित्तऩाय्। 
+
+प्रपन्नऩाऩ ऒरुवऩ् तऩ्ऩाले निश्शेषमाग विडप्पट्ट ऐश्वर्यादिगळै  
+अल्पत्वास्थिरत्व-दुःखमूलत्व-दुःखमिश्रत्व-दुःखोदर्कत्वादि-  दोषयुक्तङ्गळ् आग नऩ्गु परामर्शित्तालुम्,  
+
+तऩ्ऩाले सोपायमाग विडप्पट्ट कर्मयोग--ज्ञानयोग--भक्तियोग--रूपोपायान्तरङ्गळै  
+आप्रयाणाद् अनुवर्तनीयम् आगैयालुम्,  
+अहर् अहर् अभ्यासत्ताले आधेयातिशयम् आगैयालुम्,  
+भावनाप्रकर्षत्ताले सम्पादनीयमाऩ प्रत्यक्ष-समानाकारतैयालुम्, विघ्नबहुलतैयालुम्,  
+तऩक्कु कृच्छ्रसाध्यङ्गळाग नऩ्गु परामर्शित्तालुम्  
+
+ताऩ् इप्पॊऴुदु अनुष्ठित्त क्षणकालसाध्यसुकरोपायत्तैयुम्,  
+अदऩाले कोलिऩ कालत्तिले वरप्पोगिऱ महानन्दब्रह्मानुभवरूपमहापुरुषार्थत्तैयुम् नऩ्ऱाग परामर्शित्तालुम् हृष्टमनावाग आगुवाऩ् ऎऩ्बदऱ्कु सन्देहमे इल्लैयॆऩ्ऱु करुत्तु।  
+</details>
+
+
+
+It has been said: "He who has sought, in every possible manner, the refuge of Nārāyaṇa  who is the Saviour and the guru of the world is not the servant of the gods, of the rishis, of animals, of men and of the pitṛs. He is in no way their debtor". In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls), he is able, like one whose promissory note registered in the unwritten Vedas under certain conditions (upādhi relating to caste etc.) and requiring service as interest for the principal ( borrowed by him from them) has been fully discharged (torn off).
 
 Therefore when he has to pronounce their names in the performance of *such compulsory and regularly recurrent and occasional rites as the five great yajnas (pañcamaha yajnas), he would realise that these names refer really to Iśvara (Bhagavān) etymologically: as has been stated by the sages in passages like :-" Those who worship the pitṛs (the spirits of their fore-fathers), the gods, the Brahmins and Agni - they (in reality) worship only Viṣṇu , who is the Inner Self of all beings." When the king's servants place a garland and a jewel on the coat worn by the king, their object is not to please the coat but to gain the favour of the king.
 
