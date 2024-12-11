@@ -303,13 +303,326 @@ Se regocijaría ante la perspectiva del objetivo supremo (de la vida) que debe a
 अदऩाले कोलिऩ कालत्तिले वरप्पोगिऱ महानन्दब्रह्मानुभवरूपमहापुरुषार्थत्तैयुम् नऩ्ऱाग परामर्शित्तालुम् हृष्टमनावाग आगुवाऩ् ऎऩ्बदऱ्कु सन्देहमे इल्लैयॆऩ्ऱु करुत्तु।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "देव-र्षि-भूतात्मनृणां पितॄणां  
+> न किङ्करो नायम् ऋणी च राजन् ।  
+> सर्वात्मना यः शरणं शरण्यं  
+> नारायणं लोकगुरुं प्रपन्नः ॥”  
+> (भागवतम् ११-५-४१)
+
+ऎऩ्गिऱ श्लोकत्तिऩ् बडिये
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "देवर्षिभूतात्मनृणां पितॄणां  
+> न किङ्करो नायम् ऋणी च राजन् ।  
+> सर्वात्मना यः शरणं शरण्यं  
+> नारायणं लोकगुरुं प्रपन्नः ॥” 
+
+इति श्लोकोक्त-प्रकारेण,  
+</details>
+
+<details><summary>English</summary>
+
+It has been said: 
+
+> "He who has sought, in every possible manner,  
+> the refuge of Nārāyaṇa  who is the Saviour and the guru of the world  
+> is not the servant of the gods, of the rishis, of animals, of men and of the pitṛs.  
+> He is in no way their debtor". 
+</details>
+
+<details><summary>Español</summary>
+
+Se ha dicho:
+
+> "El que ha buscado, de todas las formas posibles,  
+> El refugio de Nārāyaṇa que es el Salvador y el Guru del Mundo  
+> no es el siervo de los dioses, de los Rishis, de los animales, de los hombres y de los Pitṛs.  
+> No es de ninguna manera su deudor ".
+</details>
 
 
-It has been said: "He who has sought, in every possible manner, the refuge of Nārāyaṇa  who is the Saviour and the guru of the world is not the servant of the gods, of the rishis, of animals, of men and of the pitṛs. He is in no way their debtor". In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls), he is able, like one whose promissory note registered in the unwritten Vedas under certain conditions (upādhi relating to caste etc.) and requiring service as interest for the principal ( borrowed by him from them) has been fully discharged (torn off).
+<details><summary>मूलम्</summary>
 
-Therefore when he has to pronounce their names in the performance of *such compulsory and regularly recurrent and occasional rites as the five great yajnas (pañcamaha yajnas), he would realise that these names refer really to Iśvara (Bhagavān) etymologically: as has been stated by the sages in passages like :-" Those who worship the pitṛs (the spirits of their fore-fathers), the gods, the Brahmins and Agni - they (in reality) worship only Viṣṇu , who is the Inner Self of all beings." When the king's servants place a garland and a jewel on the coat worn by the king, their object is not to please the coat but to gain the favour of the king.
+> "देवर्षिभूतात्मनृणां पितॄणां  
+> न किङ्करो नायमृणी च राजन्।  
+> सर्वात्मना यः शरणं शरण्यं  
+> नारायणं लोकगुरुं प्रपन्नः ॥” 
+>
+> (भागवतम् ११-५-४१)
+</details>
 
-The same idea has been expressed in such places as the chapter called Yajnagrahara in the Mahābhārata   (Ch. 349 Śānti Parva:"The Great Padmanabha receives the quintessences of all the offerings made in sacrifices" and when the gods asked Brahma who was performing a sacrifice to Bhagavān he replied: "Neither by me nor by any one else who wants to cross the sea of saṁsāra are you adored with sacrifices. It is only Bhagavān who receives our offerings”)[The idea is that Prajāpati, Pasupati. Agni and others are only like the coat of a king and that, within them, there is the Inner Ruler, Immortal, who alone is Parameśvara or the Supreme Ruler.] and in Hastigiri Māhātmya. In the Brahma Sūtras also (1-2-29), it is said : "Since words like Agni refer directly also to Brahman, Jaimini is of the opinion that there is nothing unreasonable in it". Such words as gods and pitṛs have no connection with the coats called gods and pitṛs and by the full significance contained in their parts (i.e.) etymology or derivation, they stand for Iśvara (Bhagavān), in the same way as words like Nārāyaṇa  do. In pronouncing such words (Prajāpati, Pasupati, Agni), the prapanna would realise that there is no violation of his sole and exclusive devotion to Bhagavān, in the same way as, when the pure Sacrificers (śuddhayaji) who live in Swetadvipa pronounce the word Nārāyaṇa  (Nārānam ayanam), they do not go against their exclusive devotion to Bhagavān by using the word Nāra. Bhagavān has willed to accept him as His servant to render service in accordance with his varṇa, āśrama, occasions (like the birth of a child) and qualities (like being a Vaiṣṇava). Therefore by service to Him who is the Ruler and the śeṣī-service which consists in obedient performance of His commands and permissions as understood from the Śāstras, the prapanna would do his little bit of service like the freed souls who understand the mind of the Lord by direct perception and be like the muktas; he would be extolled, according to the śāstra s and those who stand by them, as one who, by the completion of the upāya (prapatti), has done his duty and who, by the completion of his aim in life, has attained satisfaction.
+<details><summary>सायण-टीका</summary>
+
+इङ्गिरुन्द कालम् भगवद्विषयत्तिल् तऩ् पारमैकान्त्यङ्गुलैयादे कैङ्कर्यम् पण्णुगैयाल् मुक्ततुल्यऩाय्प् पोरुमॆऩ्गिऱार् - देवर्षीत्यादिना । अयम् - प्रपन्नऩाऩ इवऩ्। देवाश्च ऋषयश्च भूतात्मानश्च नरश्च देवर्षिभूतात्मनरः । तेषां, पितॄणाम् । देवयज्ञ-भूतयज्ञ-मनुष्ययज्ञ-ब्रह्मयज्ञ-पितृयज्ञङ्गळिल् यष्टव्यर्गळागच् चॊल्लप्पट्ट देवादिविषयङ्गळिल्। न किङ्करः - साक्षात् यष्टव्यत्वबुद्ध्या किङ्करवृत्तियैप् पण्णक्कडवऩल्लऩ्। न ऋणी च - 'जायमानो ह वै ब्राह्मणस्त्रिभिर्ऋणवा जायते' इत्यादिगळिल् सॊऩ्ऩ अवश्यापनोदनीयमाऩ ऋणवाऩुमागाऩ्। यः सर्वात्मना – सर्वप्रकारत्तालुम्, प्राप्यत्वेन प्रापकत्वेन सर्वविधबन्धुत्वेन च ऎऩ्ऱबडि। लोकगुरुं नारायणं प्रपन्नः अयमिति पूर्वेणान्वयः । ऎऩ्गिऱ श्लोकत्तिऩ्बडिये - ऎऩ्गिऱ श्लोकोक्तप्रकारत्ताले, इदऱ्कु कऴित्तवऩागैयाले यॆऩ्बदोडन्वयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रजापति--पशुपतिय् ऎऩ्ऱाप् पोले पेर् इट्टुक्-कॊण्ड् इरुक्किऱ  
+स-जातीयर् आऩ क्षेत्र-ज्ञरैप् पऱ्ऱ  
+ऒर्-ओर्-अवसरङ्गळिले कैक्-कूलि+++(=वेतनम् →धनम्)+++ बोले  
+सिल +++(जात्य्-आद्य्-)+++उपाधिगळ् अडिय् आग  
+ऎऴुदा मऱैयिले एऱ्+++(=आरुह्य)+++-इट्टुक् किडक्किऱ अडिमैत्+++(=दास्य)+++-तीट्टुम्+++(=पत्रम्)+++  
+मुदल्+++(-ऋणम्)+++ माळादे+++(=अ-समाप्य)+++  
+पॊलिसैय्+++(=वृद्धिम्)+++ इट्टुप् पोरुगिऱ तऩिसुदीट्टुङ् **किऴित्तवऩ्** आगैयाले
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रजापतिः पशु-पतिर् इत्य् एव नामानि **बिभ्रतः** सजातीयान् क्षेत्रज्ञान् प्रति  
+तत्-तद्-अवसरेषु कर-गृहीत-भृति--सदृशोपाधि+++(←जात्यादि)+++-विशेष-हेतुकतया  
+लेखनानर्ह-वेदारूढं दास्य-पत्रम्,  
+मूल-धन-**तीरणं विनैव**  
+वृद्धि-विधानानुवृत्तम् ऋण-पत्रं च **छिन्नवान्**  
+</details>
+
+
+<details><summary>English</summary>
+
+In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls),  
+he is able, like one  
+whose **promissory note** registered in the unwritten Vedas  
+under certain conditions (upādhi relating to caste etc.)  
+and requiring service as interest for the principal ( borrowed by him from them)  
+has been fully discharged (**torn off**).
+</details>
+
+<details><summary>Español</summary>
+
+Con respecto a los jīvas (kṣetrajnas) como han tomado los nombres de prajāpati (el señor de las criaturas) y pasupati (el señor de las bestias, a saber almas atadas),  
+Es capaz, como uno  
+cuya **Nota promisora​** registrada en los Vedas no escritos  
+bajo ciertas condiciones (upādhi relacionada con la casta, etc.)  
+y requerir el servicio como interés para el monto principal (tomado por él)  
+ha sido completamente descargado (** arrancado **).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रजापतिपशुपतियॆऩ्ऱाप्पोले पेरिट्टुक्कॊण्डिरुक्किऱ सजातीयराऩ क्षेत्रज्ञरैप्पऱ्ऱ ऒरोरवसरङ्गळिले कैक्कूलिबोले सिल उपाधिकळडियाग ऎऴुदामऱैयिले एऱिट्टुक्किडक्किऱ अडिमैत्तीट्टुम् मुदल्माळादे पॊलिसैयिट्टुप्पोरुगिऱ तऩिसुदीट्टुङ् गिऴित्तवऩागैयाले
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+प्रजापतिपशुपतियॆऩ्ऱाप् पोले - 'ऎऩ्ऱाप्पोले' ऎऩ्बदाल् इन्द्रबृहस्पतीत्यादि पॆयर्गळुक्कु सङ्ग्रहम्। पेरिट्टुक् कॊण्डिरुक्किऱ - नामधारिकळाऩ सजातीयराऩ - कर्मवश्यतया तुल्यर्गळाऩ, क्षेत्रज्ञरैप्पऱ्ऱ - जीवर्गळै उद्देशित्तु, ओरोरवसरङ्गळिले - रुद्राय पशुपतये, प्रजापतये स्वाहा, इन्द्राय स्वाहा, बृहस्पतये स्वाहा इत्यादिशब्दोच्चारणपूर्वक पञ्चमहायज्ञवैश्वदेवाद्यनुष्ठानकालङ्गळिले, कैक्कूलिबोले - लोगत्तिले सिलगालत्तिल् तात्कालिकमाग कूलि वाङ्गि ऎप्पडि वेलैसॆय्गिऱार्गळो अप्पडिये ऎऩ्ऱबडि। सिल उपाधिकळडियाग - कर्मकृतङ्गळाऩ ब्राह्मणादिवर्णब्रह्मचर्याद्याश्रमरूपोपाधिकळडियाग, ऎऴुदामऱैयिले - एट्टिल् ऎऴुदप्पडाद वेदत्तिले, पुरुषकर्तृकश्लोकङ्गळागिलऩ्ऱो एट्टिल् ऎऴुदप् पडुवदु। एऱिट्टुक्किडक्किऱ - अन्तर्गतमागक् किडक्किऱ, अडिमैत्तीट्टुम् - तऩ्ऩै किङ्करऩाग ऎऴुदिक्कॊडुत्त सीट्टुक्कुत् तुल्यमाऩ ‘‘त्रिभिर्ऋणवा जायते’’ इत्यादिरूपमाऩ सीट्टैयुम् ऎऩ्ऱबडि। मुदल् माळादे - मूलधनत्तिल् स्वल्पांशमुम् कऴिन्दुबोगादे, पॊलिसैयिट्टुप्पोरुगिऱ - इवऩ् सॆय्युम् कैङ्कर्यमॆल्लाम् मूलधनत्तिऩ् स्पर्शमऩ्ऱिक्के वट्टिक्के सरियागुम्बडि वृद्धियडैन्दु पोरुगिऱ, तऩिसु तीट्टुम् - ‘‘कुसीदमेके विहरन्ति सर्वं य आशीर्वदन्तो ददत्यत्र किञ्चित्’’, इत्यादिवाक्यरूपमाऩ कडऩ्बत्तिरत्तैयुम्, किऴित्तवऩागैयाले इति । 
+
+> ‘‘न किङ्करो नायम् ऋणी च राजन्’’ 
+
+ऎऩ्गिऱ प्रमाणत्तिऩ्बडि, इव्वधिकारि किऴित्तवऩागैयाले ऎऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पञ्च-महा-यज्ञादिगळ् आऩ नित्य-नैमित्तिकङ्गळिल्  
+अवर्गळ् पेर् सॊल्लुम्बोदु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यतः, ततः पञ्चमहायज्ञादिषु नित्य-नैमित्तिकेषु तन्(देवतान्तर)-नामोच्चारणावसरे 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore when he has to pronounce their names  
+in the performance of \*such compulsory and regularly recurrent and occasional rites as the five great yajnas (pañcamaha yajnas),  
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, cuando necesidad de pronunciar sus nombres  
+en el rendimiento de \*ritos tan obligatorios y regularmente recurrentes y ocasionales  
+como los cinco grandes Yajnas (Pañcamaha Yajnas),
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पञ्चमहायज्ञादिगळाऩ नित्यनैमित्तिकङ्गळिल् अवर्गळ् पेर् सॊल्लुम्बोदु 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पञ्चमहायज्ञादिगळाऩ - ‘‘देवयज्ञः पितृयज्ञो भूतयज्ञो मनुष्ययज्ञो ब्रह्मयज्ञः’’ ऎऩ्ऱु वेदत्तिल् सॊल्लप्पट्ट पञ्चमहायज्ञादिगळाऩ, इङ्गु आदिपदत्ताले दर्शपूर्णमासजातेष्ट्यादिगळुक्कु ग्रहणम्। नित्यनैमित्तिकङ्गळिल् - नित्यं – पञ्चमहायज्ञादि, नैमित्तिकं – जातेष्ट्यादि, अवर्गळ् पेर् सॊल्लुम्बोदु - देवतान्तरनामोच्चारणम् पण्णुम्बोदु।  
+
+इदऱ्कु 'तॆळिन्दिरुक्कुमाप्पोलवुम्' ऎऩ्बदोडुम्, 'निऱ्किऱ निलैयैयुम् कण्डु' ऎऩ्बदोडुम् अन्वयम्।  
+तॆळिन्दिरुक्कुमाप्पोलवुम् कण्डु, निऱ्किऱ निलैयैयुम् कण्डु ऎऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'ये यजन्ति पितॄन् देवान्  
+> ब्राह्मणान् सहुताशनान् ।  
+> सर्व-भूतान्तरात्मानं  
+> विष्णुम् एव यजन्ति ते ॥'  
+> (भारतम् शान्ति-पर्व ३५५-४१) 
+
+इत्य्-आदिगळिल् महर्षिगळ् अऱुदिय् इट्ट बडिये  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> 'ये यजन्ति पितॄन् देवान्  
+> ब्राह्मणान् सहुताशनान् ।  
+> सर्व-भूतान्तरात्मानं  
+> विष्णुम् एव यजन्ति ते ॥'  
+> (भारतम् शान्ति-पर्व ३५५-४१) 
+
+इत्य्-आदिषु महर्षिभिर् निर्धारितया रीत्या, 
+</details>
+
+
+<details><summary>English</summary>
+
+as has been stated by the sages in passages like :- 
+
+> "Those who worship the pitṛs (the spirits of their fore-fathers), the gods, the Brahmins and Agni -  
+> they (in reality) worship only Viṣṇu ,  
+> who is the Inner Self of all beings." 
+
+</details>
+
+<details><summary>Español</summary>
+
+Como han declarado los sabios en pasajes como:-
+
+> "Aquellos que adoran a los Pitṛs (los espíritus de sus delanteros), los dioses, los brahmanes y Agni -  
+> Ellos (en realidad) solo adoran a Viṣṇu,  
+> quien es el yo interior de todos los seres "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'ये यजन्ति पितॄन् देवान् ब्राह्मणान् सहुताशनान् । सर्वभूतान्तरात्मानं विष्णुमेव यजन्ति ते ॥' (भारतम् शान्ति-पर्व ३५५-४१) इत्यादिगळिल् महर्षिकळ् अऱुदियिट्टबडिये  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+नित्यनैमित्तिकङ्गळिल् देवतान्तरयजनेऽपि वस्तुतः तत्तद्देवताशरीरकपरमात्मयजनमेवेत्यत्र- प्रमाणमाह ये यजन्तीत्यादि । ये – परमैकान्तिनः । पितॄन् देवान् यजन्ति – पित्रादिशब्दानुच्चार्य यजन्ति । ते सर्वभूतान्तरात्मानं – इदु हेतुगर्भविशेषणम्। भगवाऩ् सर्वान्तर्यामियाग इरुप्पदाल् ऎऩ्ऱबडि। विष्णुमेव – पित्राद्यन्तरात्मावाऩ विष्णुवैये यजन्तीत्यर्थः, पित्रादिशब्दानां भगवत एव वाचकत्वात् तदुच्चारणपूर्वक यजनं वस्तुतो भगवद्यजनमेवेति भावः । इत्यादिगळिल् - इत्यादिप्रमाणङ्गळिल्, महर्षिकळ् अतीन्द्रियार्थद्रष्टाक्कळाऩ महर्षिकळ्, अऱुदियिट्टबडिये - निश्चयित्तबडिये। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+राज-सेवकर् राजावुक्कुच् चट्टै+++(=कञ्चुक)+++-मेले मालैयैयुम् आभरणत्तैयुम् इट्टालुम्  
+सट्टैयिल्+++(=कञ्चुके)+++ तुवक्क्+++(=सम्बन्धम्)+++ अऱ्ऱु राजाविऩ् प्रीतिये प्रयोजनम् आगत् तॆळिन्दिरुक्कुमाप् पोले +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+राज्ञः कञ्चुकस्योपरि मालाया आभरणस्य च समर्पणेऽपि  
+कञ्चुके (उद्देश्यत्व-)संबन्धं हित्वा  
+राज-प्रीतिम् एव प्रयोजनतया राज-सेवको यथा विशदं प्रतिबुध्यते तथा, 
+
+[[१०८]]
+</details>
+
+<details><summary>English</summary>
+
+When the king's servants place a garland and a jewel on the coat worn by the king,  
+their object is not to please the coat  
+but to gain the favour of the king.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando los sirvientes del rey  
+colocan una guirnalda y una joya en el abrigo usada por el rey,  
+Su objetivo no es complacer al abrigo  
+pero para ganar el favor del rey.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+राजसेवकर् राजावुक्कुच् चट्टैमेले मालैयैयुम् आभरणत्तैयुमिट्टालुम् सट्टैयिल् तुवक्कऱ्ऱु राजाविऩ् प्रीतिये प्रयोजनमागत् तॆळिन्दिरुक्कुमाप्पोले
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि प्रकारयजनम् प्रकारियजनमागवेमुडियुमॆऩ्बदिल् अनुरूपमाऩ लोकदृष्टान्तत्तैक्काट्टुगिऱार् राजसेवकर् इत्यादिना । सट्टै कञ्चुकम्, तुवक्कऱ्ऱु - आराध्याराधकभावसम्बन्धमऱ्ऱु, राजाविऩ् प्रीतिये - सट्टैक्कु आश्रयऩाऩ राजाविऩुडैय प्रीतिये, प्रयोजनमागत् तॆळिन्दिरुक्कुमाप्पोलवुम् - इदऩाल् दार्ष्टान्तिकत्तिलुम् तत्तद्देवतैकळोडु तुवक्कऱ्ऱु तत्तद्देवतान्तर्यामियाऩ भगवाऩुडैय प्रीतिये प्रयोजनमागत् तॆळियवेण्डुमॆऩ्गिऱ अभिप्रायम् सूचितमागिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+यज्ञाग्र-हराद्ध्यायादिगळिलुम्, श्री-हस्ति-गिरि-माहात्म्यत्तिलुम्,  
+'साक्षाद् अप्य् अविरोधं जैमिनिः' (ब्रह्म-सूत्रम् १-२-२९) ऎऩ्गिऱ सूत्रत्तिलुम् सॊल्लुगिऱ बडिये  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+यज्ञाग्र-हराध्यायादिषु, श्री-हस्ति-गिरि-माहात्म्ये,  
+"5 साक्षाद् अप्य् अविरोधं जैमिनिः” इति सूत्रे चोक्तया रीत्या 
+</details>
+
+
+<details><summary>English</summary>
+
+(The same idea‌) as has been expressed in such places as the chapter called Yajnagrahara in the Mahābhārata    
+(Ch. 349 Śānti Parva: "The Great Padmanabha receives the quintessences of all the offerings made in sacrifices"  
+and when the gods asked Brahma who was performing a sacrifice to Bhagavān he replied:  
+"Neither by me nor by any one else who wants to cross the sea of saṁsāra  
+are you adored with sacrifices.  
+It is only Bhagavān who receives our offerings”)
+
+[The idea is that Prajāpati, Pasupati, Agni and others are only like the coat of a king  
+and that, within them, there is the Inner Ruler, Immortal,  
+who alone is Parameśvara or the Supreme Ruler.] 
+
+and in Hastigiri Māhātmya.  
+
+(and) In the Brahma Sūtras also (1-2-29), it is said :  
+
+> "Since words like Agni refer directly also to Brahman,  
+Jaimini is of the opinion that  
+there is nothing unreasonable in it". 
+</details>
+
+<details><summary>Español</summary>
+
+(La misma idea ‌) como se ha expresado en lugares como el capítulo llamado Yajnagra-hara en el Mahābhārata  
+(Ch. 349 Śānti Parva: "El gran Padmanabha recibe las quintesencias de todas las ofrendas hechas en sacrificios"
+y cuando los dioses le preguntaron a Brahma que estaba realizando un sacrificio a Bhagavān respondió:
+"Ni por mí ni por nadie más que quiera cruzar el mar de Saṁsāra
+estan adorado con sacrificios  
+Es solo Bhagavān quien recibe nuestras ofrendas ”)
+
+[La idea es que Prajāpati, Pasupati, Agni y otros son solo como el abrigo de un rey  
+y que, dentro de ellos, está el gobernante interno, inmortal,
+quien solo es parámetro o el gobernante supremo.]
+
+y en Hastigiri Māhātmya.
+
+y en el Brahma Sūtras también (1-2-29), se dice:
+
+> "Dado que las palabras como Agni se refieren directamente también a Brahman,  
+Jaimini es de la opinión de que  
+No hay nada irrazonable ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यज्ञाग्रहराद्ध्यायादिगळिलुम् श्रीहस्तिगिरिमाहात्म्यत्तिलुम्,'साक्षादप्यविरोधं जैमिनिः' (ब्रह्म-सूत्रम् १-२-२९) ऎऩ्गिऱ सूत्रत्तिलुम् सॊल्लुगिऱबडिये  
+</details>
+
+
+
+he would realise that these names refer really to Iśvara (Bhagavān) etymologically: 
+
+
+
+Such words as gods and pitṛs have no connection with the coats called gods and pitṛs and by the full significance contained in their parts (i.e.) etymology or derivation, they stand for Iśvara (Bhagavān), in the same way as words like Nārāyaṇa  do. In pronouncing such words (Prajāpati, Pasupati, Agni), the prapanna would realise that there is no violation of his sole and exclusive devotion to Bhagavān, in the same way as, when the pure Sacrificers (śuddhayaji) who live in Swetadvipa pronounce the word Nārāyaṇa  (Nārānam ayanam), they do not go against their exclusive devotion to Bhagavān by using the word Nāra. Bhagavān has willed to accept him as His servant to render service in accordance with his varṇa, āśrama, occasions (like the birth of a child) and qualities (like being a Vaiṣṇava). Therefore by service to Him who is the Ruler and the śeṣī-service which consists in obedient performance of His commands and permissions as understood from the Śāstras, the prapanna would do his little bit of service like the freed souls who understand the mind of the Lord by direct perception and be like the muktas; he would be extolled, according to the śāstra s and those who stand by them, as one who, by the completion of the upāya (prapatti), has done his duty and who, by the completion of his aim in life, has attained satisfaction.
 
 Śrī Rāmānuja has conclusively described the prapanna's reflection on his satisfactory fulfilment of his duty thus in his Śaraṇāgati Gadya :-"Therefore rest happy in the assurance free from all doubt that you will know me, see me, and attain me As I truly am". This is what it means:-"We were wandering in saṁsāra owing to Bhagavān's punishment inflicted on us for transgressing His commands from beginningless time. By the compassion of Bhagavān ever waiting for an opportunity (to save us), we came into the reach of the kind glances of our good ācārya s and by repeating after them their utterance of Dvaya, we have completed our prapatti. There is no further means needed for obtaining the Saviour. Therefore He will pardon (all the sins) which were the cause of the punishment. The Lord of Śrī(Lakṣmī ) who is the śeṣī  of all and who is capable of purifying His devotees and obtaining their service, will, for His own glory, protect us. With this faith, the prapanna would be free from all care or anxiety or responsibility." (This is the purport of ŚrīRāmānuja's words in the Gadya). This idea is the conclusive meaning which is surely contained also in the Saviour's words "Do not grieve" (in the carama śloka).
 
