@@ -303,9 +303,77 @@ Se regocijaría ante la perspectiva del objetivo supremo (de la vida) que debe a
 अदऩाले कोलिऩ कालत्तिले वरप्पोगिऱ महानन्दब्रह्मानुभवरूपमहापुरुषार्थत्तैयुम् नऩ्ऱाग परामर्शित्तालुम् हृष्टमनावाग आगुवाऩ् ऎऩ्बदऱ्कु सन्देहमे इल्लैयॆऩ्ऱु करुत्तु।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "देवर्षिभूतात्मनृणां पितॄणां  
+> न किङ्करो नायम् ऋणी च राजन् ।  
+> सर्वात्मना यः शरणं शरण्यं  
+> नारायणं लोकगुरुं प्रपन्नः ॥”  
+> (भागवतम् ११-५-४१)
+
+ऎऩ्गिऱ श्लोकत्तिऩ् बडिये
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "देवर्षिभूतात्मनृणां पितॄणां  
+> न किङ्करो नायम् ऋणी च राजन् ।  
+> सर्वात्मना यः शरणं शरण्यं  
+> नारायणं लोकगुरुं प्रपन्नः ॥” 
+
+इति श्लोकोक्त-प्रकारेण,  
+</details>
+
+<details><summary>English</summary>
+
+It has been said: 
+
+> "He who has sought, in every possible manner,  
+> the refuge of Nārāyaṇa  who is the Saviour and the guru of the world  
+> is not the servant of the gods, of the rishis, of animals, of men and of the pitṛs.  
+> He is in no way their debtor". 
+</details>
+
+<details><summary>Español</summary>
+
+Se ha dicho:
+
+> "El que ha buscado, de todas las formas posibles,  
+> El refugio de Nārāyaṇa que es el Salvador y el Guru del Mundo  
+> no es el siervo de los dioses, de los Rishis, de los animales, de los hombres y de los Pitṛs.  
+> No es de ninguna manera su deudor ".
+</details>
 
 
-It has been said: "He who has sought, in every possible manner, the refuge of Nārāyaṇa  who is the Saviour and the guru of the world is not the servant of the gods, of the rishis, of animals, of men and of the pitṛs. He is in no way their debtor". In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls), he is able, like one whose promissory note registered in the unwritten Vedas under certain conditions (upādhi relating to caste etc.) and requiring service as interest for the principal ( borrowed by him from them) has been fully discharged (torn off).
+<details><summary>मूलम्</summary>
+
+> "देवर्षिभूतात्मनृणां पितॄणां  
+> न किङ्करो नायमृणी च राजन्।  
+> सर्वात्मना यः शरणं शरण्यं  
+> नारायणं लोकगुरुं प्रपन्नः ॥” 
+>
+> (भागवतम् ११-५-४१)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रजापति--पशुपतिय् ऎऩ्ऱाप् पोले पेर् इट्टुक्-कॊण्ड् इरुक्किऱ  
+स-जातीयर् आऩ क्षेत्र-ज्ञरैप् पऱ्ऱ  
+ऒर्-ओर्-अवसरङ्गळिले कैक्-कूलि बोले  
+सिल उपाधिगळ् अडियाग ऎऴुदाम् अऱैयिले  
+एऱिट्टुक्क् इडक्किऱ अडिमैत् तीट्टुम्  
+मुदल्-माळादे पॊलि-सैयिट्टुप् पोरुगिऱ तऩिसुदीट्टुङ् किऴित्तवऩ् आगैयाले
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रजापतिपशुपतियॆऩ्ऱाप्पोले पेरिट्टुक्कॊण्डिरुक्किऱ सजातीयराऩ क्षेत्रज्ञरैप्पऱ्ऱ ऒरोरवसरङ्गळिले कैक्कूलिबोले सिल उपाधिकळडियाग ऎऴुदामऱैयिले एऱिट्टुक्किडक्किऱ अडिमैत्तीट्टुम् मुदल्माळादे पॊलिसैयिट्टुप्पोरुगिऱ तऩिसुदीट्टुङ् गिऴित्तवऩागैयाले
+</details>
+
+
+
+
+In regard to such jīvas (kṣetrajnas) as have taken the names of Prajāpati (the Lord of creatures ) and Pasupati (the Lord of beasts, viz. bound souls), he is able, like one whose promissory note registered in the unwritten Vedas under certain conditions (upādhi relating to caste etc.) and requiring service as interest for the principal ( borrowed by him from them) has been fully discharged (torn off).
 
 Therefore when he has to pronounce their names in the performance of *such compulsory and regularly recurrent and occasional rites as the five great yajnas (pañcamaha yajnas), he would realise that these names refer really to Iśvara (Bhagavān) etymologically: as has been stated by the sages in passages like :-" Those who worship the pitṛs (the spirits of their fore-fathers), the gods, the Brahmins and Agni - they (in reality) worship only Viṣṇu , who is the Inner Self of all beings." When the king's servants place a garland and a jewel on the coat worn by the king, their object is not to please the coat but to gain the favour of the king.
 
