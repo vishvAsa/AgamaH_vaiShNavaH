@@ -418,6 +418,7 @@ ha sido completamente descargado (** arrancado **).
 ऎऩ्गिऱ प्रमाणत्तिऩ्बडि, इव्वधिकारि किऴित्तवऩागैयाले ऎऩ्ऱबडि। 
 </details>
 
+## देवताख्यासु यौगिकार्थः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पञ्च-महा-यज्ञादिगळ् आऩ नित्य-नैमित्तिकङ्गळिल्  
@@ -434,13 +435,15 @@ ha sido completamente descargado (** arrancado **).
 
 Therefore when he has to pronounce their names  
 in the performance of \*such compulsory and regularly recurrent and occasional rites as the five great yajnas (pañcamaha yajnas),  
+[he would realise that these names refer really to Iśvara (Bhagavān) etymologically: ]
 </details>
 
 <details><summary>Español</summary>
 
 Por lo tanto, cuando necesidad de pronunciar sus nombres  
 en el rendimiento de \*ritos tan obligatorios y regularmente recurrentes y ocasionales  
-como los cinco grandes Yajnas (Pañcamaha Yajnas),
+como los cinco grandes Yajnas (Pañcamaha Yajnas),  
+[Se daría cuenta de que estos nombres se refieren realmente a Iśvara (Bhagavān) etimológicamente:]
 </details>
 
 
@@ -616,13 +619,133 @@ No hay nada irrazonable ".
 यज्ञाग्रहराद्ध्यायादिगळिलुम् श्रीहस्तिगिरिमाहात्म्यत्तिलुम्,'साक्षादप्यविरोधं जैमिनिः' (ब्रह्म-सूत्रम् १-२-२९) ऎऩ्गिऱ सूत्रत्तिलुम् सॊल्लुगिऱबडिये  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि अनन्यथासिद्धदेवादिलिङ्गकस्थलत्तिल् यजनप्रकारत्तैच् चॊल्लि, अन्यथासिद्धदेवादिलिङ्गकस्थलत्तिल् तत्तच्छब्दङ्गळै साक्षात् परमात्मविषयमाक्कि यजिक्कलामॆऩ्ऩुम् पक्षत्तिल् प्रमाणम् काट्टुगिऱार् यज्ञाग्रहराद्ध्यायादिगळिलुमित्यादिना । भारतत्तिल् शान्तिपर्वत्तिल् यज्ञाग्रहराध्यायम्। तत्प्रभृतिकळिल् ऎऩ्ऱबडि। अदिल् 
+
+> ‘‘एष ब्रह्मा लोकगुरुः  
+> सर्वलोकपितामहः ।  
+> यूयञ् च विबुधश्रेष्ठाः  
+> मां यजध्वं समाहिताः ॥  
+> सर्वे भागान् कल्पयध्वं  
+> यज्ञेषु मम नित्यशः ।  
+> तत्र श्रेयो विधास्यामि  
+> यथाधिकारमी श्वराः ॥ '
+
+ऎऩ्ऱु भगवाऩाले देवतैकळ् नियमिक्कप् पट्टार्गळॆऩ्ऱुम्, 
+
+> ‘‘ततस्ते विबुधास् सर्वे  
+> ब्रह्मा ते च महर्षयः ।  
+> वेददृष्टेन विधिना  
+> वैष्णवं क्रतुम् **आरभन्** ॥  
+> 
+> तस्मिन् सत्रे तदा ब्रह्मा  
+> तस्मै भागम् **अकल्पयत्** ।  
+> देवा देवर्षयश् चैव  
+> स्वयं भागम् **अकल्पयन्** ॥  
+> ते कार्तयुग-धर्माणः  
+> भागाः परम-संस्कृताः ।  
+> **प्रापुर्** आदित्य-वर्णन् तं  
+> पुरुषं तमसः परम् ॥’’ 
+
+ऎऩ्ऱु ब्रह्मादिदेवतैकळ् भगवन्नियमनत्ताले वेदोक्तप्रकारमाग वैष्णवयागत्तैप् पण्णिऩार्गळॆऩ्ऱुम्, अदिल् ब्रह्मावुम् इतरदेवतैकळुम् ऋषिकळुम् हविर्भागत्तै परमपुरुषऩुक्कु समर्पित्तार्गळॆऩ्ऱुम्, कार्तयुगधर्मसंस्कृतङ्गळाऩ अन्द भागङ्गळ् वैकुण्ठवासियाऩ आदित्यवर्णऩाऩ परमपुरुषऩै साक्षात्ताकवे अडैन्ददुगळॆऩ्ऱुम्, पिऱगु अन्द यागत्ताले प्रीतऩाऩ भगवाऩाले देवतैकळैक् कुऱित्तु 
+
+> ‘‘यो मे यथा कल्पितवान्  
+> भागमस्मिन् महाक्रतौ ।  
+> स तथा यज्ञभागार्हः  
+> वेदसूत्रे मया कृतः ॥’’
+
+ऎऩ्ऱु देवतैकळॆल्लारुक्कुम् यज्ञभागार्हत्वमे वरमागक् कॊडुक्कप्पट्टदु ऎऩ्ऱुम् सॊल्लियिरुक्किऱदु।+++(5)+++ 
+
+इदिल् देवतैकळॆल्लाम् भगवाऩै साक्षात्तागवे यजनम् पण्णिऩार्गळॆऩ्ऱुम्, अवर्गळाले समर्पितङ्गळाऩ हविर्भागङ्गळ् भगवाऩैये साक्षात्ताग अडैन्ददुगळॆऩ्ऱुम् सॊल्लियिरुप्पदाल् अन्द यागत्तिल् तत्तद्देवतैकळाले सॊल्लप्पट्ट ब्रह्माग्नीन्द्रादिशब्दङ्गळ् तत्तद्देवतैकळै विट्टु अवयवार्थपौष्कल्यत् ताले साक्षात्तागवे भगवाऩैये सॊल्लियिरुक्कवेण्डुमॆऩ्ऱु तिरुवुळ्ळम्। 
+
+श्रीहस्तिगिरिमाहात्म्यत्तिलुमिति । 
+
+> ‘‘न यष्टव्या मया यूयं  
+> कदाचिदपि देवताः ।  
+> अन्येनापि भवाम्भोधिं  
+> तर्तकामेन केनचित् ।  
+> दत्तं युष्मन्मुखाद् भुङ्क्ते  
+> हविस्तु स्वर्गिभिर् हरिः ॥  
+> मुमुक्षुभिस्तथा भुङ्क्ते  
+> स्वयमेव जनार्दनः’’ 
+
+ऎऩ्गिऱ हस्तिगिरिमाहात्म्यश्लोक ङ्गळिलुमॆऩ्ऱबडि।  
+इदिल् 
+
+> ‘‘अन्येनापि भवाम्भोधिं  
+> तर्तुकामेन, यूयं न यष्टव्याः’’ 
+
+ऎऩ्ऱुम्, 
+
+> ‘‘मुमुक्षुभिस्तथा भुङ्क्ते  
+> स्वयमेव जनार्दनः’’ 
+
+ऎऩ्ऱुम् सॊल्लियिरुप्पदाल् विशेषणमागवुम् देवतान्तरसम्बन्धमऱ्ऱु भगवाऩे साक्षात्ताग आराध्यतया अभिप्रेतऩॆऩ्ऱु तिरुवुळ्ळम्। 
+
+> ‘‘तत्तत्पदैर् उपहितेऽपि तुरङ्गमेधे’’ 
+
+ऎऩ्गिऱ वरदराजपञ्चाशत्तिऩ् श्लोकत्तै इङ्गु अनुसन्धिप्पदु। साक्षादप्यविरोधं जैमिनिः ऎऩ्गिऱ सूत्रत्तिलुमिति । अस्य सूत्रस्यायमर्थः । 
+
+> ‘‘जैमिनिस् त्वाचार्यः वैश्वानरशब्दवत् अग्निशब्दस्यापि परमात्मन एव साक्षात् अव्यवधानेन वाचकत्वे  
+> न कश्चिद्विरोध इति मन्यत’’ 
+
+इति । इदिल् अग्निशब्दम् ‘‘अन्वग्निस्तेऽग्रं नयतु’’ ऎऩ्गिऱ श्रुतिप्रसिद्धियाले अग्रनयनव्युत्पत्तियाल् साक्षात् भगवद्वाचकमाऩालुम् विरोधमिल्लै यॆऩ्ऱु सॊल्लियिरुप्पदागत् तिरुवुळ्ळम्। 
+
+सॊल्लुगिऱबडिये - सॊल्लुगिऱ प्रकारत्ताले। 
+</details>
 
 
-he would realise that these names refer really to Iśvara (Bhagavān) etymologically: 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+देवर्गळ् पितृक्कळ् ऎऩ्गिऱ सट्टैगळोडु+++(=कञ्चुकैः)+++ तुवक्क्+++(=सम्बन्धम्)+++ अऱ  
+अव्व् ओ शब्दङ्गळ् अवयव-शक्ति-पौष्कल्यङ्गळाले  
+ईश्वरऩ् पक्कलिले नारायणादि-शब्दङ्गळ् बोले निऱ्किऱ निलैयैयुङ् गण्डु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+देव-पित्रादि-रूप-कञ्चुक-संबन्धं विनैव तत्-तच्-छब्दानाम् अवयव-शक्ति-पौष्कल्यैर्  
+ईश्वर-विषये नारायणादि-शब्दवत् (वाचकतया ) अवस्थितिं च निरीक्ष्य  
+</details>
+
+<details><summary>English</summary>
+
+Such words as gods and pitṛs have no connection with the coats called gods and pitṛs  
+and by the full significance contained in their parts (i.e.) etymology or derivation,  
+they stand for Iśvara (Bhagavān),  
+in the same way as words like Nārāyaṇa do. 
+</details>
+
+<details><summary>Español</summary>
+
+Palabras como dioses y pitṛs no tienen conexión con los abrigos llamados dioses y pitṛs  
+y por el significado total contenido en sus partes (es decir) etimología o derivación,  
+se destacan por iśvara (bhagavān),  
+De la misma manera que las palabras como Nārāyaṇa hacen.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देवर्गळ् पितृक्कळ् ऎऩ्गिऱ सट्टैगळोडु तुवक्कऱ अव्वो शब्दङ्गळ् अवयवशक्तिपौष्कल्यङ्गळाले ईश्वरऩ्बक्कलिले नारायणादिशब्दङ्गळ्बोलेनिऱ्किऱ निलैयैयुङ्गण्डु 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सट्टैगळोडु - कञ्चुकङ्गळोडु। तुवक्कऱ - विशेषणतयापि सम्बन्ध मऱ। अव्वो शब्दङ्गळ् - प्रजापत्यग्नीन्द्रादिशब्दङ्गळ्। अवयवशक्तिपौष्कल्यङ्गळाले - अवयव शक्तिः – अवयवार्थम्, अदऱ्कु पौष्कल्यमावदु सङ्कोचाभावः । प्रजापतिशब्दत्तिऱ्कु प्रजानां पतिः ऎऩ्गिऱ व्युत्पत्तियिऩाले यावदण्डवर्तिसर्वप्रजापतिवाचकत्वे अवयवार्थपौष्कल्यमुण्डिऱे। चतुर्मुखवाचकत्वे तु तस्याण्डान्तर वृत्तिप्रजानां पतित्वाभावेन प्रजाशब्दस्य एतदण्डवर्तिप्रजामात्रे सङ्कोचस्यावश्यकत्वेन अवयवार्थपौष्कल्यम् घटियादिऱे। इप्पडिये अग्नीन्द्रादिशब्दङ्गळिले कण्डुगॊळ्वदु। ईश्वरऩ् पक्कलिले – सर्वनियन्तावाऩ भगवाऩिडत्तिले। नारायणादिशब्दङ्गळ् पोले – नाराणां अयनं नारायणः, नाराः अयनं यस्य नारायणः ऎऩ्गिऱबडिये अवयार्थपौष्कल्यवत्तुक्कळाऩ नारायणादिशब्दङ्गळ् पोले। आदिपदत्ताले विष्णुवासुदेवादिशब्दङ्गळुक्कुसङ्ग्रहम्। निऱ्किऱ निलैयैयुङ्गण्डु - प्रतिपादकतया विद्यमानस्थितियैयुम् कण्डु; इङ्गु उम्मैयाल् प्रथमनिर्वाहमुम् समुच्चयिक्कप्पडुगैयाल् विशिष्टयाजिकळुम् मिश्रयाजि कळऩ्ऱॆऩ्गिऱ तिरुवुळ्ळम् सूचितमागिऱदु। 
+</details>
 
 
 
-Such words as gods and pitṛs have no connection with the coats called gods and pitṛs and by the full significance contained in their parts (i.e.) etymology or derivation, they stand for Iśvara (Bhagavān), in the same way as words like Nārāyaṇa  do. In pronouncing such words (Prajāpati, Pasupati, Agni), the prapanna would realise that there is no violation of his sole and exclusive devotion to Bhagavān, in the same way as, when the pure Sacrificers (śuddhayaji) who live in Swetadvipa pronounce the word Nārāyaṇa  (Nārānam ayanam), they do not go against their exclusive devotion to Bhagavān by using the word Nāra. Bhagavān has willed to accept him as His servant to render service in accordance with his varṇa, āśrama, occasions (like the birth of a child) and qualities (like being a Vaiṣṇava). Therefore by service to Him who is the Ruler and the śeṣī-service which consists in obedient performance of His commands and permissions as understood from the Śāstras, the prapanna would do his little bit of service like the freed souls who understand the mind of the Lord by direct perception and be like the muktas; he would be extolled, according to the śāstra s and those who stand by them, as one who, by the completion of the upāya (prapatti), has done his duty and who, by the completion of his aim in life, has attained satisfaction.
+
+In pronouncing such words (Prajāpati, Pasupati, Agni), the prapanna would realise that  
+there is no violation of his sole and exclusive devotion to Bhagavān,  
+in the same way as,  
+when the pure Sacrificers (śuddhayaji) who live in Swetadvipa pronounce the word Nārāyaṇa  (Nārānam ayanam),  
+they do not go against their exclusive devotion to Bhagavān by using the word Nāra. 
+
+Bhagavān has willed to accept him as His servant to render service in accordance with his varṇa, āśrama, occasions (like the birth of a child) and qualities (like being a Vaiṣṇava). Therefore by service to Him who is the Ruler and the śeṣī-service which consists in obedient performance of His commands and permissions as understood from the Śāstras, the prapanna would do his little bit of service like the freed souls who understand the mind of the Lord by direct perception and be like the muktas; he would be extolled, according to the śāstra s and those who stand by them, as one who, by the completion of the upāya (prapatti), has done his duty and who, by the completion of his aim in life, has attained satisfaction.
 
 Śrī Rāmānuja has conclusively described the prapanna's reflection on his satisfactory fulfilment of his duty thus in his Śaraṇāgati Gadya :-"Therefore rest happy in the assurance free from all doubt that you will know me, see me, and attain me As I truly am". This is what it means:-"We were wandering in saṁsāra owing to Bhagavān's punishment inflicted on us for transgressing His commands from beginningless time. By the compassion of Bhagavān ever waiting for an opportunity (to save us), we came into the reach of the kind glances of our good ācārya s and by repeating after them their utterance of Dvaya, we have completed our prapatti. There is no further means needed for obtaining the Saviour. Therefore He will pardon (all the sins) which were the cause of the punishment. The Lord of Śrī(Lakṣmī ) who is the śeṣī  of all and who is capable of purifying His devotees and obtaining their service, will, for His own glory, protect us. With this faith, the prapanna would be free from all care or anxiety or responsibility." (This is the purport of ŚrīRāmānuja's words in the Gadya). This idea is the conclusive meaning which is surely contained also in the Saviour's words "Do not grieve" (in the carama śloka).
 
