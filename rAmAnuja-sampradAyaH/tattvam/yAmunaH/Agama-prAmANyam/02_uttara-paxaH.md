@@ -1114,6 +1114,11 @@ That the ground would be unestablished through reversal is utterly out of the qu
 This supposition arises instantly since the texts are of personal origin. 
 </details>
 
+<details><summary>English - Notes</summary>
+
+This objection seems to speak to the summary denial that the ground is unestablished through reversion.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1175,6 +1180,13 @@ What I mean to say is this.
 
 Our position is that in language as such there are no defects that invalidate its authority;   
 as language, language is authoritative, 
+</details>
+
+<details><summary>English - Notes</summary>
+
+Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, shabdapramāna) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning.  
+Among these things meant Yamuna includes facts as well as karyas,  
+hence the following debate with the Prabhakara,
 </details>
 
 
@@ -1253,7 +1265,7 @@ then how can we suppose Him to be deceitful etc.?
 </details>
  
 ## सिद्ध-वस्तुनि शब्द-प्रामाण्यम्
-
+### प्रतिज्ञा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ननु च   
@@ -1311,6 +1323,7 @@ by applications which concern karyas.
 लौकिकाः प्रतिपद्यन्तेः शक्तिं कार्यपरादिव ॥
 </details>
 
+### पुत्र-जन्मोदाहरणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् यथा "पुत्रस् ते जात"  
@@ -1323,7 +1336,7 @@ by applications which concern karyas.
 
 <details><summary>English</summary>
 
-Consider the illustration that has been given above,  
+Consider the illustration that has been given above (supra § 37.),  
 When certain manifestations (of joy) in a man's face,  
 which follow on his hearing the statement  
 "A son has been born to you,"  
@@ -1339,23 +1352,118 @@ since this happiness came to exist upon the existence of the statement,
 the statement itself has the power to convey an agreeable meaning.  
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 तद्यथा पुत्रस्ते जात इति वचनश्रवणानन्तरजनितविशिष्टवदनविकासावसानसमनन्तरं हृष्टोऽयमिति प्रतिपद्य हर्षोऽयं प्रियार्थावगमनिबन्धन इति स्वात्मन्याकलयन् मध्यमवृद्धस्यापि तन्निबन्धनमेव हर्षमनुमिमानस्तद्भावभावितया शब्दस्यैव प्रियार्थाऽवबोधकतामव्यवस्यति ।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्राप्य् अतीतानागतादि-भेद-भिन्नेषु हर्ष-हेतुषूपप्लवमानेषु  
+कस्य वक्ताऽयम् इति विचिकित्सोदये सति   
+तद्-अनन्तर-संजात--जात-कर्मावबोधतः ।  
+</details>
+
+<details><summary>English</summary>
+
+If there arises a doubt as to which particular ground of happiness  
+amongst the many different grounds that may occur according to past, present and future, then consider this.  
+A young boy, who wants to understand the meaning of speech, immediately upon hearing the same statement  
+receives knowledge that a birth ceremony is being held. 
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 तत्राप्यतीतानागतादिभेदभिन्नेषु हर्षहेतुषूपप्लवमानेषु कस्य वक्ताऽयमिति विचिकित्सोदये सति   
 तदनन्तरसंजातजातकर्मावबोधतः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"तद्-धेतु-भूतः कोऽपी"ति  
+निश्चिन्वन्न् आत्मनः पुरा ॥  
+"**कर्तव्यं** जात-कर्मे"ति  
+प्रतीतेः किन् नु कारणम् ।  
+</details>
+
+<details><summary>English</summary>
+
+He thinks to himself, "There must be a reason for this."  
+Then he considers,  
+"Is the agreeable meaning which has been understood from the statement the cause of this knowledge that a birth ceremony is to be held ?"  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तद्धेतुभूतः कोऽपीति निश्चिन्वन्नात्मनः पुरा ॥  
 कर्तव्यं जातकर्मेति प्रतीतेः किन्नु कारणम् ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतीतं प्रियम् इत्य् एवं  
+**विमृशन्न् अवगच्छति** ॥  
+पुत्र-जन्मैव नैवान्यद्  
+इति **व्युत्पित्सुर्** अर्भकः ।  
+</details>
+
+<details><summary>English</summary>
+
+and he realizes that this meaning was precisely this that a son had been born. 13 
+</details>
+
+<details><summary>English - Notes</summary>
+
+Yamuna here takes up the Prabhakara's theory that a child learns the meaning of language  
+through the action his elders take on hearing a statement,  
+so that the denotativeness of language is defined by its injunctiveness.  
+He uses the Prabhakara's example of the factual statement: 
+"A child is born to you."  
+A child who does not know language has no way of understanding the meaning of this statement  
+because the young father's happiness conveys nothing specific.  
+
+But, asks Yamuna, suppose the same child has witnessed his father reception of the cheering news  
+and the subsequent preparations for a birth ceremony.  
+Since one follows immediately upon the other,  
+the child associates one with the other  
+and can thus understand the meaning of the statement,  
+though the statement itself was no injunction,  
+but a communication of an established fact,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 प्रतीतं प्रियमित्येवं विमृशन्नवगच्छति ॥  
 पुत्रजन्मैव निवान्यदिति व्युत्पित्सुरर्भकः ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तत्र च ।  
+आवापोद्धार-भेदेन  
+पदानां शक्ति-**निश्चयः** ।  
+**उपपद्यत** इत्य् एवं  
+सिद्धासिद्धार्थ-वाचिता ॥
+</details>
+
+<details><summary>English</summary>
+
+And on that issue:  
+Definite knowledge of the donation of words in a sentence is had through the words that are included or excluded. This being so, 51 words denote their meanings, whether these are established things or not.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
 तत्र च ।  
 आवापोद्धारभेदेन पदानां शक्तिनिश्चयः ।  
 उपपद्यत इत्येवं सिद्धासिद्धार्थवाचिता ॥
+</details>
+
+
 
 ननु न तद्भावभावितामात्रेण कार्यकारणभावः, अति प्रसङ्गात् ।  
 न च जातकर्मकर्तव्यताऽवगतिर्नियमेन प्रियार्थावगमपुरस्सरी, दृश्यते हि कुटुम्बभरणायासविदूयमानमनसोऽप्रीतिपूर्विकापि तत्कर्तव्यतावगतिः, कार्यावगतिः किं शब्दकारणिका दृष्टा येन गामानयेत्यादौ गवानयनादिकर्तव्यतावगतिः शब्दकारणिकाऽभ्युपेयते ।  

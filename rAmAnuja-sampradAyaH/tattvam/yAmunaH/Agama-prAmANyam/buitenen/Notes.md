@@ -4,14 +4,7 @@ title = "Notes"
 +++
 
 
-
-[[135]] [128]: This objection seems to speak to the summary denial that the ground is unestablished through reversion.
-
-[129]: Be it repeated that the validity, authoritativeness, etc. of Verbal Statements (ie, shabdapramāna) is founded on the basic assumption that statements truly and accurately communicate their things-meant (artha), that a word accurately conveys its meaning. Among these thingsmeant Yamuna includes facts as well as kargas, hence the following debate with the Prabhakara,
-
-[130]: supra § 37.
-
-[131]: Yamuna here takes up the Prabhakara's theory that a child learns the meaning of language through the action his elders take on hearing a statement, so that the denotativeness of language is defined by its injunctiveness. He uses the Prabhakara's example of the factual statement: "A child is born to you." A child who does not know language has no way of understanding the meaning of this statement because the young father's happiness conveys nothing specific But, asks Yamuna, suppose the same child has witnessed his father reception of the cheering news and the subsequent preparations for a birth ceremony. Since one follows immediately upon the other, the child associates one with the other and can thus understand the meaning of the statement, though the statement itself was no injunction, but a communication of an established fact, [132]: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous com. mueniation.
+[132]: Then, one may suppose, the child would not so readily associate the birth ceremony with the previous com. mueniation.
 
 [133]: supra §36.
 
@@ -103,7 +96,7 @@ title = "Notes"
 
 
 
-##
+## 
 
 
 

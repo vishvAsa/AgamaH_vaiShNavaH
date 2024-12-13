@@ -737,17 +737,376 @@ De la misma manera que las palabras como Nārāyaṇa hacen.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
++++(प्रजापत्यादि→)+++ अवऱ्ऱिऩ्-उडैय उच्चारणादिगळिल्  
+श्वेत-द्वीप-वासिगळ् आऩ शुद्ध-याजिगळुक्कुप् पोले  
+तऩ् परमैकान्तित्वम् **कुलैयादे** निऱ्किऱ बडियै **निरूपित्तुत्**  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++++(प्रजापत्यादि→)+++ तेषाम् उच्चारणादिषु  
+श्वेत-द्वीप-वासिनां शुद्ध-याजिनाम् इव  
+स्वस्य परमैकान्तित्वस्याक्षततया स्थितिं निरूप्य, 
+</details>
+
+
+
+<details><summary>English</summary>
 
 In pronouncing such words (Prajāpati, Pasupati, Agni), the prapanna would realise that  
 there is no violation of his sole and exclusive devotion to Bhagavān,  
 in the same way as,  
 when the pure Sacrificers (śuddhayaji) who live in Swetadvipa pronounce the word Nārāyaṇa  (Nārānam ayanam),  
 they do not go against their exclusive devotion to Bhagavān by using the word Nāra. 
+</details>
 
-Bhagavān has willed to accept him as His servant to render service in accordance with his varṇa, āśrama, occasions (like the birth of a child) and qualities (like being a Vaiṣṇava). Therefore by service to Him who is the Ruler and the śeṣī-service which consists in obedient performance of His commands and permissions as understood from the Śāstras, the prapanna would do his little bit of service like the freed souls who understand the mind of the Lord by direct perception and be like the muktas; he would be extolled, according to the śāstra s and those who stand by them, as one who, by the completion of the upāya (prapatti), has done his duty and who, by the completion of his aim in life, has attained satisfaction.
+<details><summary>Español</summary>
 
-Śrī Rāmānuja has conclusively described the prapanna's reflection on his satisfactory fulfilment of his duty thus in his Śaraṇāgati Gadya :-"Therefore rest happy in the assurance free from all doubt that you will know me, see me, and attain me As I truly am". This is what it means:-"We were wandering in saṁsāra owing to Bhagavān's punishment inflicted on us for transgressing His commands from beginningless time. By the compassion of Bhagavān ever waiting for an opportunity (to save us), we came into the reach of the kind glances of our good ācārya s and by repeating after them their utterance of Dvaya, we have completed our prapatti. There is no further means needed for obtaining the Saviour. Therefore He will pardon (all the sins) which were the cause of the punishment. The Lord of Śrī(Lakṣmī ) who is the śeṣī  of all and who is capable of purifying His devotees and obtaining their service, will, for His own glory, protect us. With this faith, the prapanna would be free from all care or anxiety or responsibility." (This is the purport of ŚrīRāmānuja's words in the Gadya). This idea is the conclusive meaning which is surely contained also in the Saviour's words "Do not grieve" (in the carama śloka).
+Al pronunciar tales palabras (prajāpati, pasupati, agni), la Prapanna se daría cuenta de que  
+no hay violación de su única y exclusiva devoción a Bhagavān,
+de la misma manera que,  
+Cuando los sacrificadores puros (Śuddhayaji) que viven en Swetadvipa pronuncian la palabra nārāyaṇa (nārānam ayanam),  
+No van en contra de su devoción exclusiva a Bhagavān usando la palabra nāra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऱ्ऱिऩुडैय उच्चारणादिगळिल् श्वेतद्वीपवासिकळाऩ शुद्धयाजिकळुक्कुप्पोले तऩ् परमैकान्तित्वम् कुलैयादे निऱ्किऱबडियै निरूपित्तुत्  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अवऱ्ऱिऩुडैय - प्रजापत्यग्नीन्द्रादिशब्दङ्गळुडैय। उच्चारणादिगळिल् - पञ्चमहायज्ञाद्यनुष्ठानकालिकोच्चारणादिगळिल्। आदिपदात् हविस्समर्पणादिसङ्ग्रहः ।  
+
+
+श्वेतद्वीपवासिकळाऩ शुद्धयाजिकळुक्कुप्पोले इति ।  
+श्वेतद्वीपम् - क्षीराब्धिमध्यत्तिलुळ्ळ ऒरु तीवु।  
+अदिल् वसिक्किऱवर्गळ् आय्  
+सद्-ब्रह्म-वासुदेवादि-शब्द-घटित-मन्त्रङ्गळाले संस्कृतर्गळ् आय्  
+तादृशशब्दङ्गळालेये स्वस्वकर्मङ्गळै अनुष्ठिक्किऱवर्गळाय्,  
+अत एव देवतान्तर-शब्द-घटित-मन्त्रङ्गळाले भगवद्-यजनम् पण्णुम् मिश्र-याजिकळ् पोल् अऩ्ऱिक्के  
+शुद्ध-याजिकळ् ऎऩ्ऱु पेर् पॆऱ्ऱ् इरुक्कुम् महाऩ्गळुक्कुप्पोले। 
+
+तऩ् परमैकान्तित्वम् - अनन्यप्रयोजनऩाय् अनन्योपायऩायिरुक्किऱ प्रपन्नऩाऩ तऩ्ऩुडैय पारमैकान्त्यम्।+++(5)+++ 
+
+कुलैयादे निऱ्किऱबडियै निरूपित्तु - वासुदेवसद्ब्रह्मादिशब्दोच्चारणत्तिल् पोल् अग्नीन्द्रादिशब्दोच्चारणत्तिलुम् कुलैयादे निऱ्किऱ प्रकारत्तै नऩ्ऱाग निश्चयित्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩ् वर्णाश्रम-निमित्त-गुणाद्य्-अधिकारत्तुक्कु अनुरूपम् आग अडिमै-गॊळ्ळ सङ्कल्पित्त् इरुक्किऱ  
+शासिताव् आऩ शेषियिऩ् उडैय  
+शास्त्र-वेद्याज्ञानुज्ञा-परिपालन-रूप-कैङ्कर्य-मुखत्ताले  
+प्रत्यक्ष-विदित-परम-पुरुषाभिप्रायर् आऩ मुक्तरैप् पोले  
+किञ्चित्-करऩ् आय्क्-कॊण्डु  
+मुक्त-तुल्यऩ् आय् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-वर्णाश्रम-निमित्त-गुणाद्य्-अधिकारानुरूप-दास्य-ग्रहणं संकल्पितवतः शासितुः शेषिणः  
+शास्त्र-वेद्याज्ञा-परिपालन-रूप-कैङ्कर्य-मुखेन,  प्रत्यक्ष-विदित--परम-पुरुषाभिप्रायक-मुक्तवत्  
+किञ्चित् कुर्वन्  
+मुक्ततुल्यः सन्  
+</details>
+
+<details><summary>English</summary>
+
+Bhagavān has willed to accept him as His servant  
+to render service in accordance with his varṇa, āśrama, occasions (like the birth of a child) and qualities (like being a Vaiṣṇava).  
+Therefore by service to Him who is the Ruler and the śeṣī-  
+service which consists in obedient performance of His commands and permissions as understood from the Śāstras,  
+the prapanna would do his little bit of service  
+like the freed souls who understand the mind of the Lord by direct perception  
+and be like the muktas;  
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān ha querido aceptarlo como su sirviente  
+para prestar el servicio de acuerdo con su varṇa, āśrama, ocasiones (como el nacimiento de un niño) y las cualidades (como ser una vaiṣṇava).  
+Por lo tanto, por el servicio a aquel que es el gobernante y el Śeṣī-  
+servicio que consiste en el rendimiento obediente de sus comandos y permisos como se entiende en los Śāstras,  
+El Prapanna haría su pequeño servicio  
+Como las almas liberadas que entienden la mente del Señor por percepción directa  
+y ser como los muktas;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ् वर्णाश्रमनिमित्तगुणाद्यधिकारत्तुक्कु अनुरूपमाग अडिमैगॊळ्ळ सङ्कल्पित्तिरुक्किऱ शासितावाऩ शेषियिऩुडैय शास्त्रवेद्याज्ञानुज्ञापरिपालनरूपकैङ्कर्यमुखत्ताले प्रत्यक्षविदितपरमपुरुषाभिप्रायराऩ मुक्तरैप्पोलेकिञ्चित्करऩाय्क्कॊण्डु मुक्ततुल्यऩाय् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तऩ् वर्णाश्रमेत्यादि । मुमुक्षुत्वावस्थैयिलित्यादिः । वर्णः – ब्राह्मणत्वादिः । आश्रमः – ब्रह्मचर्यादिः । निमित्तम् ¬- जातपुत्रत्वादिः । गुणः – कृष्णकेशत्वादिः । आदिशब्दत्ताल् जीवनादिकम् गृह्यते । अधिकारत्तुक्कु - गुणादिरूपमाऩ अधिकारत्तिऱ्कु। अनुरूपमाग - अनुगुणमाग। अडिमै - कैङ्कर्यत्तै; अदावदु ब्राह्मणत्वादिवर्णानुगुणमाग ‘‘वसन्ते ब्राह्मणोऽग्नीनादधीत’’ इत्याद्युक्तवसन्तकालावच्छिन्नाग्न्या-धानादिरूपकैङ्कर्यत्तैयुम्, ब्रह्मचर्याद्याश्रमानुगुणभिक्षाचरणादिरूपकैङ्कर्यत्तैयुमॆऩ्ऱबडि। इप्पडिये मेलुम् कण्डुगॊळ्वदु। कॊळ्ळ - तऩक्कु आराधनमाग स्वीकरिक्क। सङ्कल्पित् तिरुक्किऱ - अनादियाग सङ्गल्बित्तिरुक्किऱ। शासितावाऩ - तदकरणे दण्डयितावाऩ। शेषियिऩुडैय आधेयातिशययऩाऩ भगवाऩुडैय। इदऱ्कु आज्ञानुज्ञेत्यत्रान्वयः । शास्त्र-वेद्येत्यादि । शास्त्रवेद्य – श्रुत्यादिशास्त्रवेद्यमाऩ, आज्ञा – अहरहस्सन्ध्यामुपासीतेत्यादिविधिरूपमाऩ नियमनम्। अनुज्ञा – अकरणे प्रत्यवायावहमऩ्ऱिक्के करणे प्रीतऩागिऱेऩ् ऎऩ्गिऱ भगवदभिप्रायम्। परिपालनम् - आज्ञासिद्धकैङ्कर्यकरणत्ताले आज्ञापरिपालनम्। अनुज्ञासिद्धकैङ्कर्यकरणत्ताले अनुज्ञापरिपालनम्। अदावदु अकरणे प्रत्यवायावहमाऩ सन्ध्यावन्दनाद्यनुष्ठानेन अहरहस्सन्ध्यामुपासीतेत्याद्याज्ञापरिपालनमुम्, भगवत्सन्निधौ मालाकरण दीपारोपणादिगळाले अनुज्ञापरिपालनमुमॆऩ्ऱदायिऱ्ऱु। कैङ्कर्यमुखत्ताले - कैङ्कर्येण ऎऩ्ऱबडि। इदऱ्कु किञ्चित्करऩायॆऩ्बदोडन्वयम्। इप्पडि इवऩ् शास्त्रत्ताले वेद्यमाऩ आज्ञानुज्ञाकैङ्कर्यत्तै अनुष्ठित्ताल् भगवाऩुक्कु किञ्चित्करऩावाऩोवॆऩ्ऩवरुळिच्चॆय्गिऱार् प्रत्यक्षविदितेत्यादि । मुक्तर्गळुक्कु परमपुरुषाभिप्रायम् प्रत्यक्षविदितमागुमिऱे। मुक्तरैप्पोले किञ्चित्करऩाय् - प्रत्यक्षत्ताले परमपुरुषाभिप्रायत्तै नऩ्ऱागत् तॆळिन्दु तदनुगुणमाग कैङ्कर्यङ्गळैप् पण्णुम् मुक्तरैप्पोले प्रपन्नऩुम् इङ्गिरुन्द कालम् शास्त्रत्ताले परमपुरुषाभिप्रायत्तै नऩ्ऱाग निश्चयित्तु कैङ्कर्यङ्गळैप्पण्णिऩाल् अदिऩालुम् इवऩ् मुक्तरैप्पोले भगवाऩुक्कु किञ्चित्करऩावाऩ् ऎऩ्ऱु करुत्तु। किञ्चित्करऩाय् ऎऩ्बदु हेतुगर्भविशेषणम्। मुक्त रैप्पोले किञ्चित्करऩागैयाले मुक्ततुल्यऩायॆऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-पूर्तियाले कृत-कृत्यऩ् ऎऩ्ऱुम्  
+पुरुषार्थ-पूर्तियाले कृतार्थऩ् ऎऩ्ऱुम्,  
+शास्त्रङ्गळालुम् तन्-निष्ठरालुम्  
+कॊण्डाडुम् बडिय् आय् इरुक्कुम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपायपूर्त्या कृतकृत्य इति  
+पुरुषार्थपूर्त्या कृतार्थ इति च  
+शास्त्रैस् तन्निष्ठैश् चाभिनन्दनीयो भवति ॥ 
+</details>
+
+<details><summary>English</summary>
+
+he would be extolled, according to the śāstra-s and those who stand by them,  
+as one who, by the completion of the upāya (prapatti),  
+has done his duty  
+and who, by the completion of his aim in life, has attained satisfaction.
+
+</details>
+
+<details><summary>Español</summary>
+
+Sería ensalzado, de acuerdo con los Śāstras y los que los respaldan,
+como alguien que, al finalizar el upāya (Prapatti),
+ha hecho su deber
+y quién, al finalizar su objetivo en la vida, ha alcanzado la satisfacción.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायपूर्तियाले कृतकृत्यऩॆऩ्ऱुम् पुरुषार्थपूर्तियाले कृतार्थऩॆऩ्ऱुम्, शास्त्रङ्गळालुम् तन्निष्ठरालुम् कॊण्डाडुम्बडियायिरुक्कुम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उपायपूर्तियाले – निर्भरनिर्भयत्वादिपर्यन्तमाऩ उपायपूर्तियाले। कृतकृत्यऩॆऩ्ऱुम् - कृतं कृत्यं येन, कृत्यं – अवश्यकर्तव्यमाऩ मोक्षोपायमाऩ प्रपदनम्, येनकृतं, सः कृतकृत्यः । तादृशऩॆऩ्ऱुम्। पुरुषार्थपूर्तियाले - मुक्ततुल्यकैङ्कर्यसिद्धिरूपपुरुषार्थपूर्तियाले। कृतार्थऩॆऩ्ऱुम् - कृतोऽर्थः येन । अर्थः – कैङ्कर्यरूप पुरुषार्थः, कृतः सम्पादितः ये न सः । तादृशऩॆऩ्ऱुम्। शास्त्रङ्गळालुमिति । 
+
+> ‘‘समित्-साधनकादीनां  
+> यज्ञानां **न्यासम्** आत्मनः ।  
+> नमसा यो **ऽकरोद्** देवे  
+> स स्व्-अध्वर इतीरितः ।  
+> अनेनैव तु मन्त्रेण  
+> स्वात्मानं मयि निक्षिपेत् ॥  
+> मयि निक्षिप्तकर्तव्यः  
+> कृतकृत्यो भविष्यति’’ 
+
+इत्यादिशास्त्रङ्गळालुम्। 
+
+तन्निष्ठरालुम् - अन्द शास्त्रनिष्ठर्गळाऩ आऴ्वार्गळ् मुदलाऩवर्गळालुम्। कॊण्डाडुम्बडियिरुक्कुम् - 'सॆय्द वेळ्वियऩ्' इत्यादिगळाले स्तुतिक्कुम्बडियिरुक्कु मॆऩ्ऱबडि।  
+</details>
+
+
+## गद्य-वाक्य-तात्पर्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुडैय इन्द कृत-कृत्यत्वानुसन्धानत्तै  
+
+> 'अतस् त्वं तव तत्त्वतो मज्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयस् सुखम् आस्व' (शरणागति-गद्यम्) 
+
+ऎऩ्ऱु शरणागति-गद्यत्तिले निगमित्त् अरुळिऩार्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतदीयम् इदं कृतकृत्यत्वानुसंधानम्, 
+"अतस् त्वं तव तत्त्वतो मज्-ज्ञान-दर्शन-प्राप्तिषु निस्संशयः सुखम् आस्व"  
+इति शरणागति-गद्ये निगमयाम् आस ।  
+</details>
+
+<details><summary>English</summary>
+
+Śrī Rāmānuja has conclusively described the prapanna's reflection on his satisfactory fulfilment of his duty  
+thus in his Śaraṇāgati Gadya :-
+
+> "Therefore rest happy in the assurance  
+> free from all doubt that you will know me, see me, and attain me As I truly am". 
+</details>
+
+<details><summary>Español</summary>
+
+Śrī Rāmānuja ha descrito de manera concluyente la reflexión de la Prapanna sobre su cumplimiento satisfactorio de su deber
+así en su Śaraṇāgati Gadya:-
+
+> "Por lo tanto, descansa feliz en la seguridad  
+> Libres de toda duda de que me conoces, me vemos y me alcanzarás como realmente soy ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुडैय इन्द कृत-कृत्यत्वानुसन्धानत्तै  
+'अतस्त्वं तव तत्त्वतो मज्ज्ञानदर्शनप्राप्तिषु निस्संशयस्सुखमास्स्व' (शरणागति-गद्यम्) ऎऩ्ऱु शरणागतिगद्यत्तिले निगमित्तरुळिऩार्।
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि कृतकृत्यऩाग आऩदु मात्तिरमऩ्ऱिक्के, अप्पडिये शास्त्रतन्निष्ठर्गळाले कॊण्डाडप्पट्टदु मात्रमऩ्ऱिक्के इवऩुक्कु स्वात्मनि कृतकृत्यत्वानुसन्धानम् आवश्यकमॆऩ्बदिल् गद्यवाक्यत्तै उदाहरिक्किऱार् इवऩुडैयवित्यादिना । कृतकृत्यत्वानुसन्धानत्तै - निश्चयात्मकतदनुसन्धानत्तै। इदऱ्कु निगमित्तरुळिऩार् ऎऩ्बदोडन्वयम्। अत इत्यादि, अतः – सत्यवादिना सत्यव्रतेन मयोक्तस्य वाक्यस्य विश्वसनीयतमत्वात् । त्वं – प्रपन्नऩाऩ नी। तव – उऩ्ऩुडैय, तत्त्वतो मत्ज्ञानदर्शनप्राप्तिषु – तत्त्वतः ऎऩ्बदु ज्ञानादिमूऩ्ऱिलुम् अन्वयिक्किऱदु। अदावदु त्वतो; मत्ज्ञाने, तत्वतो मद्दर्शने, तत्त्वतो मत्प्राप्तौ च ऎऩ्ऱदायिऱ्ऱु। निस्संशयः – संशयशून्यः । निश्चयात्मकज्ञानवाऩायॆऩ्ऱबडि। सुखमास्व – सुखियाग वर्ति । ऎऩ्ऱु शरणा-गतिगद्यत्तिल् निगमित्तरुळिऩार्। श्रीभाष्यकारर् इति शेषः । 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कुक् करुत्तु -  
+
+> "अनादिकालम् आज्ञातिलङ्घनम् अडिय् आगव् उण्डाऩ भगवन्-निग्रहत्ताले  
+> संसरित्तुप् पोन्द नमक्कु  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्यायं भावः -  
+
+> अनादेः कालाद् आज्ञातिलङ्घन-हेतुक-भगवन्-निग्रहेण  
+संसारम् अनुप्राप्तानाम् अस्माकम्  
+
+</details>
+
+
+<details><summary>English</summary>
+
+This is what it means:-
+
+> "We were wandering in saṁsāra  
+> owing to Bhagavān's punishment inflicted on us for transgressing His commands from beginningless time. 
+</details>
+
+<details><summary>Español</summary>
+
+Esto es lo que significa:-
+
+> "Estábamos deambulando por Saṁsāra  
+> Debido al castigo de Bhagavān infligido a nosotros por transgredir sus órdenes desde el momento sin inicio.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कुक् करुत्तु -  
+अनादिकालम् आज्ञातिलङ्घनमडियागवुण्डाऩभगवन्निग्रहत्ताले संसरित्तुप्पोन्द नमक्कु  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+निस्संशयस्सुखमास्व ऎऩ्बदिऩ् भावत्तै वॆळियिडुगिऱार् इदुक्कुक् करुत्तु इत्यादिना । आज्ञातिलङ्घनम् कादाचित्कमागिल् गच्छतस्स्खलनन्यायेन क्षमैक्कु विषयमागक् कूडुम्। इदु अप्पडियऩ्ऱॆऩ्गिऱार् अनादिकालमिति । अडियाग - मूलमाग। उण्डाऩ - जन्यमाऩ। भगवन्निग्रहत्ताले भगवन्निग्रहरूपसङ्कल्पत्ताले। संसरित्तुप्पोन्द नमक्कु - इदुवरैयिलुम् भगवत्कृपाविषयीकरणत्तुक्कु पूर्वावस्थानुसन्धानम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अवसर-प्रतीक्षैय् आऩ भगवत्-कृपैय् अडिय् आगव् उण्डाऩ  सदाचार्य-कटाक्ष-विषयी-कारत्ताले वन्द  द्वयोच्चारणानूच्चारणत्ताले प्रपत्त्य्-अनुष्ठानम् पिऱन्द पिऩ्बु  
+> 
+> शरण्य-प्रसादनङ्गळिल् इदुक्कु मेल् ऒऩ्ऱ् इल्लामैयाले  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अवसर-प्रतीक्ष--भगवत्-कृपा--हेतुक--  
+सदाचार्य-कटाक्ष-विषयी-कार-निबन्धन-द्वयोच्चारणानुच्चारणेन  
+प्रपत्त्य्-अनुष्ठाने निष्पन्ने  
+शरण्य-प्रसादनेष्व् इतः परं ( कर्तव्यस्य) कस्याप्य् अभावात्  
+</details>
+
+
+<details><summary>English</summary>
+
+> By the compassion of Bhagavān ever waiting for an opportunity (to save us),  
+> we came into the reach of the kind glances of our good ācāryas  
+> and by repeating after them their utterance of Dvaya,  
+> we have completed our prapatti.  
+> 
+> There is no further means needed for obtaining the Saviour. 
+</details>
+
+<details><summary>Español</summary>
+
+> Por la compasión de Bhagavān alguna vez esperando una oportunidad (para salvar nos),  
+> Entramos al alcance de las amables miradas de nuestros buenos ācāryas  
+> y repitiendo después de ellos su expresión de dvaya,  
+> Hemos completado nuestro Prapatti.
+>
+> No se necesitan más medios para obtener el Salvador.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवसरप्रतीक्षैयाऩ भगवत्कृपैयडियागवुण्डाऩ सदाचार्यकटाक्षविषयीकारत्ताले वन्द द्वयोच्चारणानूच्चारणत्ताले प्रपत्त्यनुष्ठानम् पिऱन्द पिऩ्बु  
+शरण्यप्रसादनङ्गळिल् इदुक्कु मेलॊऩ्ऱिल्लामैयाले  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अवसरप्रतीक्षैयाऩ – उपायोन्मुखऩाग वरुगैक्कु हेतुवाऩ पुण्यपरिपाककालत्तै अपेक्षित्तुक्कॊण्डिरुक्किऱ। भगवत्कृपैयडियाग वुण्डाऩ - ‘‘ईश्वरस्य च सौहार्दं’’ इत्युक्तप्रकारत्ताले भगवत्कृपाजन्यमाऩ। सदाचार्यकटाक्षविषयीकारत्ताले इति । इदु द्वयोच्चारणानूच्चारणपूर्वक्षणपर्यन्तवृत्तितद्धेतुक्कळुक्कु उपलक्षणम्। वन्द - प्राप्तमाऩ। द्वयोच्चारणानूच्चारणत्ताले - आचार्योपदिष्टकरण मन्त्रोच्चारणत्ताले प्रपत्त्यनुष्ठानम् पिऱन्द पिऩ्बु - प्रपत्त्यनुष्ठानमुण्डाऩ पिऱगु। अनूच्चारणत्ताले ऎऩ्गिऱविडत्तिल् तृतीयै अभेदार्थकमाय् प्रपत्त्यनुष्ठानत्तिल् अन्वयिक्किऱदॆऩ्ऱाल् प्रपत्तिशब्दम् उक्तिप्रपत्तिपरमागुम्। अप्पोदु द्वयोच्चारणानूच्चारणत्तिऩालेये प्रपत्त्यनुष्ठानम् पिऱन्ददागच् चॊल्लुगिऱ इन्द श्रीसूक्ति अत्यन्तस्वरसमाम्। इदऩाल् प्रपत्त्यनुष्ठातृत्वदशानुसन्धानम् सॊल्लप्पट्टदु। प्रसादनङ्गळिल् - प्रसादहेतुवाऩ उपायङ्गळिल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निग्रह-हेतुक्कळैय् ऎल्लाम् क्षमित्तु,   
+> तीर्न्दव्+++(=धीर)+++-अडिय्-अवर्+++(=सेवकान्)+++-दम्मैत् तिरुत्तिप्+++(=परिष्कृत्य)+++  
+> पणि+++(=सेवा)+++-गॊळ्ळ-वल्ल सर्व-शेषिय् आऩ श्रियःपति  
+> तऩ्-बेऱ्+++(=प्रयोजनम्)+++ आगत् ताऩे रक्षिक्कुम् 
+ऎऩ्ऱु तेऱि निर्भरऩ् आय् इरु" 
+
+ऎऩ्गै। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> निग्रह-हेतून् सर्वान् क्षान्त्वा,  
+स-विश्वासम् आश्रितान् दासान् परिष्कृत्य  
+कैङ्कर्यस्य ग्रहणे समर्थः सर्वशेषी श्रियः-पतिः  
+स्व-प्रयोजन-भावेन स्वयम् एव रक्षेद्  
+
+इति विश्वस्य निर्भरो भवेति ।  
+
+</details>
+
+<details><summary>English</summary>
+
+> Therefore He will pardon (all the sins) which were the cause of the punishment.  
+> The Lord of Śrī(Lakṣmī ),  
+> who is the śeṣī  of all  
+> and who is capable of purifying His devotees and obtaining their service,  
+> will, for His own glory, protect us.  
+> With this faith, the prapanna would be free from all care or anxiety or responsibility."  
+> (This is the purport of ŚrīRāmānuja's words in the Gadya). 
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, perdonará (todos los pecados) que fueron la causa del castigo.  
+> El Señor de Śrī (Lakṣmī),  
+> ¿Quién es el Śeṣī de todos?  
+> y quién es capaz de purificar a sus devotos y obtener su servicio,  
+> hará, para su propia gloria, nos protegerá.  
+> 
+> Con esta fe, la Prapanna estaría libre de toda atención, ansiedad o responsabilidad ".  
+> (Este es el significado de las palabras de Śrīrāmānuja en el Gadya).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+निग्रहहेतुक्कळै यॆल्लाम् क्षमित्तु, तीर्न्दवडियवर्दम्मैत् तिरुत्तिप् पणिगॊळ्ळवल्ल सर्व-शेषियाऩ श्रियःपति तऩ्बेऱागत् ताऩे रक्षिक्कुमॆऩ्ऱु तेऱि निर्भरऩायिरु ऎऩ्गै। 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+निग्रहहेतुक्कळैयॆल्लाम् क्षमित्तु - ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्गिऱ प्रकारम् निग्रहहेतुक्कळैयॆल्लाम् क्षमित्तु। तीर्न्द वडियवर् तम्मै इत्यादि । तीर्न्दवडियवर् तम्मै - तुणिन्दवाश्रितरै। भगवत् प्राप्तियिल् दृढाध्यवसायमुळ्ळ आश्रितरैयॆऩ्ऱबडि। तिरुत्ति - विरोधिनिवर्तनत्ताले परिशुद्धराक्कि। पणिगॊळ्ळ - कैङ्कर्यम् कॊळ्ळ, वल्ल - समर्थऩाऩ। सर्वशेषियाऩ श्रियःपति - सर्वरालुम् आधेयातिशयऩाऩ लक्ष्मीगान्दऩ्। तऩ्बेऱाग - तऩ् पुरुषार्थमाग ऎण्णि, ताऩे रक्षिक्कुमॆऩ्ऱु तेऱि - तेऱुदल् - तॆळिदल्, तेऱि - तॆळिन्दु, विश्वसित्तॆऩ्ऱबडि। निर्भरऩाय् इरु ऎऩ्गै इति । ऎऩ्गै ऎऩ्बदऱ्कु इदुक्कुक् करुत्तु ऎऩ्गिऱ पूर्ववाक्यत्तोडन्वयम्। यद्यपि गद्यवाक्यत्तिल् मत्ज्ञानदर्शनप्राप्तिकळिल्संशयमऱ्ऱिरु ऎऩ्ऱे सॊल्लप्पट्टिरुक्किऱदु। आऩालुम् अन्द संशयाभावम् ज्ञानदर्शनप्राप्तिकळ् नमक्कु अवश्यमाग सिद्धिक्कुमॆऩ्गिऱ निश्चयमऩ्ऱिक्के वारादु। अन्द निश्चयन्दाऩुम् नाम् द्वयोच्चारणानूच्चारणत्ताले प्रपत्तियै अनुष्ठित्तवर् ऎऩ्गिऱ कृतकृत्यत्वानुसन्धानमिल्लामल् वारादु। इव्वनुसन्धानमुम् ईश्वरऩुडैय सहजसौहार्दन्दुडङ्गि आचार्यकटाक्षपर्यन्तमोक्षोपायोपायङ्गळै अडैयप्पॆऱ्ऱोम् ऎऩ्गिऱ निश्चयमऩ्ऱिक्के वारादु ऎऩ्गिऱ क्रमाभिप्रायत्ताले ‘‘अनादिकालमॆऩ्ऱु तुडङ्गि ताऩे रक्षिक्कुमॆऩ्ऱु तेऱि निर्भरऩायिरु' ऎऩ्गिऱ पर्यन्तम् अदिऩ् भावमाग वर्णिक्कप्पट्टदु।  
+</details>
+
+
+
+This idea is the conclusive meaning which is surely contained also in the Saviour's words "Do not grieve" (in the carama śloka).
 
 THE MARKS OF ONE WHO HAS PERFORMED
 
