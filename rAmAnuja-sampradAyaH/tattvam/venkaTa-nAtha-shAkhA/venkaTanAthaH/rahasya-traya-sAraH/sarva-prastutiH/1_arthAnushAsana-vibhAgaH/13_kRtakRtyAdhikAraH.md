@@ -1104,15 +1104,154 @@ Esto es lo que significa:-
 निग्रहहेतुक्कळैयॆल्लाम् क्षमित्तु - ‘‘सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्गिऱ प्रकारम् निग्रहहेतुक्कळैयॆल्लाम् क्षमित्तु। तीर्न्द वडियवर् तम्मै इत्यादि । तीर्न्दवडियवर् तम्मै - तुणिन्दवाश्रितरै। भगवत् प्राप्तियिल् दृढाध्यवसायमुळ्ळ आश्रितरैयॆऩ्ऱबडि। तिरुत्ति - विरोधिनिवर्तनत्ताले परिशुद्धराक्कि। पणिगॊळ्ळ - कैङ्कर्यम् कॊळ्ळ, वल्ल - समर्थऩाऩ। सर्वशेषियाऩ श्रियःपति - सर्वरालुम् आधेयातिशयऩाऩ लक्ष्मीगान्दऩ्। तऩ्बेऱाग - तऩ् पुरुषार्थमाग ऎण्णि, ताऩे रक्षिक्कुमॆऩ्ऱु तेऱि - तेऱुदल् - तॆळिदल्, तेऱि - तॆळिन्दु, विश्वसित्तॆऩ्ऱबडि। निर्भरऩाय् इरु ऎऩ्गै इति । ऎऩ्गै ऎऩ्बदऱ्कु इदुक्कुक् करुत्तु ऎऩ्गिऱ पूर्ववाक्यत्तोडन्वयम्। यद्यपि गद्यवाक्यत्तिल् मत्ज्ञानदर्शनप्राप्तिकळिल्संशयमऱ्ऱिरु ऎऩ्ऱे सॊल्लप्पट्टिरुक्किऱदु। आऩालुम् अन्द संशयाभावम् ज्ञानदर्शनप्राप्तिकळ् नमक्कु अवश्यमाग सिद्धिक्कुमॆऩ्गिऱ निश्चयमऩ्ऱिक्के वारादु। अन्द निश्चयन्दाऩुम् नाम् द्वयोच्चारणानूच्चारणत्ताले प्रपत्तियै अनुष्ठित्तवर् ऎऩ्गिऱ कृतकृत्यत्वानुसन्धानमिल्लामल् वारादु। इव्वनुसन्धानमुम् ईश्वरऩुडैय सहजसौहार्दन्दुडङ्गि आचार्यकटाक्षपर्यन्तमोक्षोपायोपायङ्गळै अडैयप्पॆऱ्ऱोम् ऎऩ्गिऱ निश्चयमऩ्ऱिक्के वारादु ऎऩ्गिऱ क्रमाभिप्रायत्ताले ‘‘अनादिकालमॆऩ्ऱु तुडङ्गि ताऩे रक्षिक्कुमॆऩ्ऱु तेऱि निर्भरऩायिरु' ऎऩ्गिऱ पर्यन्तम् अदिऩ् भावमाग वर्णिक्कप्पट्टदु।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु "मा शुचः" ऎऩ्गिऱ शरण्य-वाक्यत्तिलुम् तीर्न्द पॊरुळ्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं " मा शुचः" इति शरण्यवाक्ये निष्कुष्टोऽर्थः ॥ 
+</details>
 
 
-This idea is the conclusive meaning which is surely contained also in the Saviour's words "Do not grieve" (in the carama śloka).
+<details><summary>English</summary>
 
-THE MARKS OF ONE WHO HAS PERFORMED
+This idea is the conclusive meaning  
+which is surely contained also in the Saviour's words "Do not grieve" (in the carama śloka).
+</details>
 
-PRAPATTI :
+<details><summary>Español</summary>
 
-Since one of the qualifications for the performance of prapatti, is sorrow or grief before prapatti, if he had no grief before, he would not have the necessary qualification for performing prapatti. So by the principle "when there is no cause, there is no effect," his upāya (prapatti) will not be effective. If, after the performance of prapatti, he grieves owing to want of faith in the words of the Saviour, it would follow by the principle "When the effect is absent, there must have been absence of all the required materials (or causes)" that his upāya is incomplete (owing to want of full faith) and that the benefit or fruit will be delayed inasmuch as it will require the completion of the upāya. The man who was formerly full of grief and who is now free from sorrow in accordance with the words" Do not grieve" may be considered to have done what should be done (i.e.) prapatti in the proper manner,
+Esta idea es el significado concluyente  
+que seguramente está contenido también en las palabras del Salvador "no lloren" (en el carama Śloka).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु मा शुचः ऎऩ्गिऱ शरण्यवाक्यत्तिलुम् तीर्न्द पॊरुळ्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+शोकनिवृत्तियुम् कृतकृत्यत्वानुसन्धानमिल्लाविडिल् सम्भविक्कादागैयाल् ‘‘मा शुचः’’ ऎऩ्गिऱ शरण्यवाक्यत्तिलुम् कृतकृत्यत्वनिर्भरत्वानुसन्धानम् प्रयोजकतया निर्णीतमॆऩ्गिऱार् इदु मा शुचः इत्यादिना । 
+</details>
+
+
+
+## शोक--तद्-अ-भाव--काल-व्यवस्था
+<details><summary>English</summary>
+
+THE MARKS OF ONE WHO HAS PERFORMED PRAPATTI :
+</details>
+
+<details><summary>Español</summary>
+
+LAS MARCAS DE UNA QUE HA REALIZADO PRAPATTI:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩुक्कुप् प्रपत्तिक्कु मुऩ्ब् उऱ्ऱ शोकम्  
+अधिकारत्तिले सेरुगैयाले  
+मुऩ्बु शोकित्त्-इलऩ् आगिल् अधिकारिय् अल्लामैयाले,  
+"कारणाभावात् कार्याभावः" ऎऩ्गिऱ न्यायत्ताले  
+उपाय निष्पत्तिय् उण्डागादु। 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+इवऩुक्कुप् प्रपत्तिक्कु मुऩ्बुऱ्ऱ शोकम् अधिकारत्तिले सेरुगैयाले मुऩ्बु शोकित्तिलऩागिल् अधिकारियल्लामैयाले, कारणाभावात् कार्याभावः ऎऩ्गिऱ न्यायत्ताले उपाय निष्पत्तियुण्डागादु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१०१]] 
+
+अस्य प्रपत्ति-प्राक्-कालिकस्य शोकस्याधिकार-कोटि-निविष्टत्वात्  
+अशोचने अधिकारित्वासिद्धेः,  
+"कारणाभावात् कार्याभावः" इति न्यायेन  
+उपाय-निष्पत्तिर् न सिद्धयेत् ।  
+</details>
+
+
+
+<details><summary>English</summary>
+
+Since one of the qualifications for the performance of prapatti, is sorrow or grief before prapatti,  
+if he had no grief before,  
+he would not have the necessary qualification for performing prapatti.  
+So by the principle "when there is no cause, there is no effect,"  
+his upāya (prapatti) will not be effective. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que una de las calificaciones para el desempeño de Prapatti, es la tristeza o el dolor antes de Prapatti,  
+Si no tenía dolor antes,  
+No tendría la calificación necesaria para realizar Prapatti.  
+Entonces, por el principio "Cuando no hay causa, no hay efecto",  
+Su upāya (Prapatti) no será efectivo.
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उपायनिष्पत्तिक्कु मुऩ्बु ऒरुवऩुक्कु शोकमिरुन्दाल् अवऩुक्कु शोकनिवारणम् कूडुम्। अदु इल्लादवऩुक्कु उपायनिष्पत्त्यनन्तरम् अदु कूडुवदॆङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् इवऩुक्कु प्रपत्तिक्कु मुऩ्बुऱ्ऱ शोकमित्यादिना । अधिकारत्तिले सेरुगैयाले - अधिकारकोटिप्रविष्टमागैयाले, मुऩ्बु शोकित्तिलऩागिल् - अधिकारमाऩ शोकम् मुऩ्बु इल्लाविडिल्। अधिकारियल्लामैयाले - प्रपत्त्यधिकारि यागमाट्टाऩागैयाले। कारणाभावात् कार्याभावः ऎऩ्गिऱ न्यायत्ताले ऎऩ्गिऱ सामान्यन्यायत्ताले, उपायनिष्पत्तियुण्डागादु - शोकरूपकारणविशेषाभावात् प्रपत्तिरूपकार्यविशेष मुण्डागादॆऩ्ऱबडि। तथा च उपायनिष्पत्तिये यिल्लाद अव्वधिकारिविषयत्तिल् ‘‘मा शुचः’’ ऎऩ्ऱु शोकनिवारणम् व्यर्थमे ऎऩ्ऱु करुत्तु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-स्वीकारम् पण्णिऩाऩ् आगत्  
+तऩ्ऩै निऩैत्त् इरुन्द पिऩ्बु  
+शरण्योक्तियिले नॆगिऴ्च्चिय् उडैयऩ् आय् शोगित्ताऩ् आगिल्, "कार्याभावात् सामग्र्यभावः" ऎऩ्गिऱ न्यायत्ताले  
+पूर्णोपायऩ् अल्लामैयाले  
+फलम् उपाय-पूर्ति-सापेक्षम् आय्क्-कॊण्डु विळम्बिक्कुम् ऎऩ्ऱ् अऱियल् आम्। 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+उपायस्वीकारम् पण्णिऩा ऩागत् तऩ्ऩै निऩैत्तिरुन्द पिऩ्बु शरण्योक्तियिले नॆगिऴ्च्चियुडैयऩाय् सोगित्ताऩागिल्, कार्याभावात् सामग्र्यभावः ऎऩ्गिऱ न्यायत्ताले पूर्णोपायऩल्लामैयाले फलम् उपायपूर्तिसापेक्षमाय्क्कॊण्डु विळम्बिक्कुमॆऩ्ऱऱियलाम्। 
+</details>
+
+<details><summary>English</summary>
+
+If, after the performance of prapatti,  
+he grieves owing to want of faith in the words of the Saviour,  
+it would follow by the principle  
+"When the effect is absent, there must have been absence of all the required materials (or causes)"  
+that his upāya is incomplete (owing to want of full faith)  
+and that the benefit or fruit will be delayed  
+inasmuch as it will require the completion of the upāya.  
+</details>
+
+<details><summary>Español</summary>
+
+Si, después del rendimiento de Prapatti,  
+se aflige debido a la falta de fe en las palabras del Salvador,  
+Seguiría por el principio  
+"Cuando el efecto está ausente, debe haber habido ausencia de todos los materiales (o causas) requeridos"  
+que su upāya está incompleto (debido a la falta de plena fe)
+y que el beneficio o la fruta se retrasarán  
+en la medida en que requerirá la finalización del upāya.
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+तऩ्ऩै शरणागतऩाग निऩैत् तिरुक्कुमॊरुवऩ् चरमश्लोकादिगळिल् नम्बिक्कैयऩ्ऱिक्के पिऩ्बु शोकित्ताऩागिल् अवऩुक्कु कृतकृत्यत्वानुसन्धानमुम्, निर्भरत्वानुसन्धानमुम् कूडुवदॆङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् उपायस्वीकारम् पण्णिऩाऩाग इत्यादियाल्। 'निऩैत्तिरुन्द पिऩ्बु' ऎऩ्बदाल् वस्तुतः उपायम् नऩ्ऱाग निऱैवेऱविल्लै यॆऩ्ऱु एऱ्पडु किऱदु। शरण्योक्तियिल् नॆगिऴ्च्चि युडैयऩायिति । नॆगिऴ्च्चि - विश्वासमान्द्यम्। शोकित्ताऩागिल् - अनुवृत्तशोकऩागिल्, कार्याभावात्सामग्र्यभावः ऎऩ्गिऱ न्यायत्ताले -ऎऩ्गिऱ सामान्यन्यायत्ताले, पूर्णोपायऩल्लामैयाले - शोकनिवृत्तिरूपकार्यविशेषाभावत्ताले, उपायपूर्ति घटितसामग्रीशून्यऩागैयाले यॆऩ्ऱबडि। फलम् - मोक्षरूपफलम्। उपाय पूर्तिसापेक्षमाय्क्कॊण्डु - महाविश्वासपूर्वकप्रपत्तियै अपेक्षित्तुक्कॊण्डु, विळम्बिक्कु मॆऩ्ऱऱियलाम् - इदऩाल् यथावस्थितोपाय पूर्तिपर्यन्तम् अव्वधिकारिक्कु कृतकृत्यत्वानुसन्धानमुम्, निर्भरत्वानुसन्धानमुम् सिद्धिक्कादॆऩ्ऱु सूचितम्। 
+</details>
+
+
+
+
+The man who was formerly full of grief and who is now free from sorrow in accordance with the words" Do not grieve" may be considered to have done what should be done (i.e.) prapatti in the proper manner,
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
