@@ -3,17 +3,63 @@ title = "१४ स्वनिष्ठाभिज्ञानाधिका�
 
 +++
 
-१४ स्वनिष्ठाभिज्ञानाधिकारः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(14) THE CHAPTER ON THE MARKS OR SIGNS BY WHICH ONE CAN RECOGNISE THAT ONE IS IN THE PROPER STATE OR NIṢṬHĀ.page200
+१४ स्वनिष्ठाभिज्ञानाधिकारः
+</details>
+
+<details><summary>English</summary>
+
+(14) THE CHAPTER ON THE MARKS OR SIGNS BY WHICH ONE CAN RECOGNISE THAT ONE IS IN THE PROPER STATE OR NIṢṬHĀ. page200
+</details>
+
+<details><summary>Español</summary>
+
+(14) El capítulo sobre las marcas o signos  
+por los cuales uno puede reconocer  
+que uno está en el estado apropiado o niṣṭhā. Página200
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१४ स्वनिष्ठाभिज्ञानाधिकारः
+</details>
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-स्वरूपोपायार्थेष्ववितथनिविष्टस्थिरमते-  
-स्स्वनिष्ठाभिज्ञानं सुभगमपवर्गादुपनतात् ।  
-प्रथिम्ना यस्यासौ (दौ) प्रभवति विनीतस्स्थगयितुं  
-गभीरान् दुष्पूरान् गगनमहतश्छिद्रनिवहान् ॥ ३२ ॥
+स्व-रूप+उपाय+अर्थेष्व् अ-वितथ-**निविष्ट-स्थिर**-मतेस्  
+स्व-**निष्ठाऽभिज्ञानं** सु-भगम् अपवर्गाद् उपनतात् +++(अपि - शीघ्र-प्राप्यतया)+++ ।+++(5)+++  
+प्रथिम्ना यस्यासौ (दौ) **प्रभवति विनीतस् स्थगयितुं**  
+गभीरान् दुष्-पूरान् गगन-महतश् छिद्र-निवहान् ॥ ३२ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-रूप+उपाय+अर्थेष्व् अ-वितथ-**निविष्ट-स्थिर**-मतेस्  
+स्व-**निष्ठाऽभिज्ञानं** सु-भगम् अपवर्गाद् उपनतात् +++(अपि- शीघ्र-प्राप्यतया)+++ ।+++(5)+++  
+प्रथिम्ना+++(=ज्ञानेन)+++ यस्यासौ (दौ) **प्रभवति विनीतस् स्थगयितुं**  
+गभीरान् दुष्-पूरान् गगन-महतश् छिद्र-निवहान् ॥ ३२ ॥
+
+</details>
+
+
+<details><summary>English</summary>
+
+To a man whose understanding is firmly and properly fixed on (a knowledge of) his essential nature, on the upāya adopted by him, viz. prapatti and on the ultimate aim of life (puruṣārtha),  
+a recognition that he is steadily fixed in this state gives more delight (even) than his approaching mokṣa .+++(5)+++  
+For by the might of this knowledge, he is able, with a disciplined mind, to close up the chasms lying before him (as obstacles)  
+which are deep and hard to fill and which are as immense as the sky,
+</details>
+
+<details><summary>Español</summary>
+
+Para un hombre cuya comprensión se fija firme y adecuadamente en (un conocimiento) de su naturaleza esencial, en el upāya adoptado por él, a saber Prapatti, y sobre el objetivo final de la vida (Puruṣārtha),  
+Un reconocimiento de que se fija constantemente en este estado da más deleite (incluso) que su mokṣa. +++ (5) +++  
+Porque por el poder de este conocimiento, puede, con una mente disciplinada, cerrar los abismos que se encuentran ante él (como obstáculos)  
+que son profundos y difíciles de llenar y que son tan inmensos como el cielo,
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -23,7 +69,7 @@ title = "१४ स्वनिष्ठाभिज्ञानाधिका�
 गभीरान् दुष्पूरान् गगनमहतश्छिद्रनिवहान् ॥ ३२ ॥
 </details>
 
-To a man whose understanding is firmly and properly fixed on (a knowledge of) his essential nature, on the upāya adopted by him, viz. prapatti and on the ultimate aim of life (puruṣārtha), a recognition that he is steadily fixed in this state gives more delight (even) than his approaching mokṣa . For by the might of this knowledge, he is able, with a disciplined mind, to close up the chasms lying before him (as obstacles) which are deep and hard to fill and which are as immense as the sky,
+
 
 I. Signs or marks regarding niṣṭhā in Svarūpa
 

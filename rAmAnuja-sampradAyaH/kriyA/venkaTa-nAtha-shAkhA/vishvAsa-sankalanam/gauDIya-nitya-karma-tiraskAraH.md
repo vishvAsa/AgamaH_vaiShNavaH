@@ -176,7 +176,7 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
 #### विश्वनाथ-चक्रवर्ती
 
 > तेन लोक-सड्ग्रहार्थम्  
-> **अश्रद्धयापि** पित्रादि-**श्राद्धं** कुर्वतां महानुभावानां  
+> **अश्रद्धया ऽपि** पित्रादि-**श्राद्धं** कुर्वतां महानुभावानां  
 > शुद्ध-भक्तौ नाव्याप्तिः।
 
 
@@ -198,8 +198,8 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
 eg. "Śrī Rūpa has defined prārabdha" - no he just pointed out one prArabdha. It's implied that not all prArabdha-s are destroyed.
 )
 
-> त्यक्त्वा स्वधर्मं चरणाम्बुजं हरे-
-र्भजन्नपक्‍वोऽथ पतेत्ततो यदि ।
+> त्यक्त्वा स्वधर्मं चरणाम्बुजं हरेर्  
+भजन्न् अपक्‍वोऽथ पतेत् ततो यदि ।
 यत्र क्‍व वाभद्रमभूदमुष्य किं
 को वार्थ आप्तोऽभजतां स्वधर्मत: ॥ 
 >
