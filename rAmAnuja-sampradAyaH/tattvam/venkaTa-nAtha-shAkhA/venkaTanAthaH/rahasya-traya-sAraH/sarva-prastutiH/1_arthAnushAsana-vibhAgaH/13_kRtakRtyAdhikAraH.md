@@ -1213,11 +1213,13 @@ Su upāya (Prapatti) no será efectivo.
 फलम् उपाय-पूर्ति-सापेक्षम् आय्क्-कॊण्डु विळम्बिक्कुम् ऎऩ्ऱ् अऱियल् आम्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-
-<details><summary>मूलम्</summary>
-
-उपायस्वीकारम् पण्णिऩा ऩागत् तऩ्ऩै निऩैत्तिरुन्द पिऩ्बु शरण्योक्तियिले नॆगिऴ्च्चियुडैयऩाय् सोगित्ताऩागिल्, कार्याभावात् सामग्र्यभावः ऎऩ्गिऱ न्यायत्ताले पूर्णोपायऩल्लामैयाले फलम् उपायपूर्तिसापेक्षमाय्क्कॊण्डु विळम्बिक्कुमॆऩ्ऱऱियलाम्। 
+उपायस्वीकारं कृतवानित्यभिमत्य  
+पश्चात् शरण्योक्तौ सन्दिहानः शोचेच् चेत्,  
+"कार्याभावात् सामग्र्य्-अभावः" इति न्यायेन  
+पूर्णोपायत्वासिद्धेः फलम् उपाय-पूर्ति-सापेक्षस् सत्  
+विलम्बेतेति वेदितुं युक्तम् । 
 </details>
 
 <details><summary>English</summary>
@@ -1243,30 +1245,81 @@ en la medida en que requerirá la finalización del upāya.
 </details>
 
 
+<details><summary>मूलम्</summary>
+
+उपायस्वीकारम् पण्णिऩा ऩागत् तऩ्ऩै निऩैत्तिरुन्द पिऩ्बु शरण्योक्तियिले नॆगिऴ्च्चियुडैयऩाय् सोगित्ताऩागिल्, कार्याभावात् सामग्र्यभावः ऎऩ्गिऱ न्यायत्ताले पूर्णोपायऩल्लामैयाले फलम् उपायपूर्तिसापेक्षमाय्क्कॊण्डु विळम्बिक्कुमॆऩ्ऱऱियलाम्। 
+</details>
+
+
 <details><summary>सायण-टीका</summary>
 
 तऩ्ऩै शरणागतऩाग निऩैत् तिरुक्कुमॊरुवऩ् चरमश्लोकादिगळिल् नम्बिक्कैयऩ्ऱिक्के पिऩ्बु शोकित्ताऩागिल् अवऩुक्कु कृतकृत्यत्वानुसन्धानमुम्, निर्भरत्वानुसन्धानमुम् कूडुवदॆङ्ङऩे यॆऩ्ऩ वरुळिच्चॆय्गिऱार् उपायस्वीकारम् पण्णिऩाऩाग इत्यादियाल्। 'निऩैत्तिरुन्द पिऩ्बु' ऎऩ्बदाल् वस्तुतः उपायम् नऩ्ऱाग निऱैवेऱविल्लै यॆऩ्ऱु एऱ्पडु किऱदु। शरण्योक्तियिल् नॆगिऴ्च्चि युडैयऩायिति । नॆगिऴ्च्चि - विश्वासमान्द्यम्। शोकित्ताऩागिल् - अनुवृत्तशोकऩागिल्, कार्याभावात्सामग्र्यभावः ऎऩ्गिऱ न्यायत्ताले -ऎऩ्गिऱ सामान्यन्यायत्ताले, पूर्णोपायऩल्लामैयाले - शोकनिवृत्तिरूपकार्यविशेषाभावत्ताले, उपायपूर्ति घटितसामग्रीशून्यऩागैयाले यॆऩ्ऱबडि। फलम् - मोक्षरूपफलम्। उपाय पूर्तिसापेक्षमाय्क्कॊण्डु - महाविश्वासपूर्वकप्रपत्तियै अपेक्षित्तुक्कॊण्डु, विळम्बिक्कु मॆऩ्ऱऱियलाम् - इदऩाल् यथावस्थितोपाय पूर्तिपर्यन्तम् अव्वधिकारिक्कु कृतकृत्यत्वानुसन्धानमुम्, निर्भरत्वानुसन्धानमुम् सिद्धिक्कादॆऩ्ऱु सूचितम्। 
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुऩ्बु प्रसक्त-शोकऩ् आय्प्  
+पिऩ्बु "मा शुचः" ऎऩ्ऱु प्रतिषेधित्त् इरुक्किऱ बडिये  वीत-शोकऩ् आऩवऩ् कृत-कृत्यऩ् ऎऩ्ऱ् अऱियल् आम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> प्राक् प्रसक्त-शोकः,  
+पश्चात् "मा शुचः " इति प्रतिषेधनम् अनुसृत्य  
+वीत-शोकी-भूतः कृत-कृत्य  
+
+इति ज्ञातुं युक्तम् ॥ 
+</details>
 
 
-The man who was formerly full of grief and who is now free from sorrow in accordance with the words" Do not grieve" may be considered to have done what should be done (i.e.) prapatti in the proper manner,
+<details><summary>English</summary>
 
+The man who was formerly full of grief  
+and who is now free from sorrow  
+in accordance with the words "Do not grieve"  
+may be considered to have done  
+what should be done (i.e.) prapatti in the proper manner,
+</details>
+
+<details><summary>Español</summary>
+
+El hombre que antes estaba lleno de dolor  
+y que ahora está libre de dolor  
+de acuerdo con las palabras "no lloras"  
+puede considerarse que ha hecho  
+que se debe hacer (es decir) Prapatti de la manera adecuada
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुऩ्बु प्रसक्त-शोकऩाय्प् पिऩ्बु मा शुचः ऎऩ्ऱु प्रतिषेधित् तिरुक्किऱबडिये वीतशोकऩाऩवऩ् कृतकृत्यऩॆऩ्ऱऱियलाम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पूर्वमुत्पन्नशोकऩाय्, पिऩ्बु वीत शोकऩाऩवऩ् अधिकाराङ्गिनिष्पत्तियुण्डाऩवऩागैयाल् अवऩ् तऩ्ऩै कृतकृत्यऩाग अनुसन्धिक्कलामॆऩ्गिऱार् मुऩ्बु प्रसक्तशोकऩायित्यादिना ।   
+</details>
+
+
+## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वाऩ्गरुत्तोर्  
-अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
+अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-  
+कॆन्नवरन्दरवॆऩ्ऱु नम्मत्तिगिरित्तिरुमाल्  
+मुन्नम् वरुन्दि यडैक्कलङ्गॊण्ड नम्मुक्कियरे. (20)
 </details>
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
 मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वाऩ्गरुत्तोर्  
-अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-
-</details>
-
+अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-  
 कॆन्नवरन्दरवॆऩ्ऱु नम्मत्तिगिरित्तिरुमाल्  
 मुन्नम् वरुन्दि यडैक्कलङ्गॊण्ड नम्मुक्कियरे. (20)
+</details>
+
 
 Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken into His protection after endeavouring for a long time to find out what boon He should confer on those who loved Him. They are like kings and gods (to us), for they have, ever in their minds, the abode of the Lord of the eternal suris and they are like Paramahamsas, because they have completed all rites that have to be performed, (or like swans in their purity or in their capacity to separate the essential from the non-essential).
 
