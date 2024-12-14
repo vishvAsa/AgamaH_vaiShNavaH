@@ -1306,11 +1306,55 @@ que se debe hacer (es decir) Prapatti de la manera adecuada
 ## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मन्नवर् विण्णवर् वानोरिऱैयॊऩ्ऱुम् वाऩ्गरुत्तोर्  
-अन्नवर् वेळ्वियनैत्तुमुडित्तनरन्बुडैयार्क्-  
-कॆन्नवरन्दरवॆऩ्ऱु नम्मत्तिगिरित्तिरुमाल्  
-मुन्नम् वरुन्दि यडैक्कलङ्गॊण्ड नम्मुक्कियरे. (20)
+मन्नवर्+++(=राजानः)+++ विण्णवर्+++(=द्युस्थाः)+++, वानोर् इऱैय्+++(=वास)+++-ऒऩ्ऱुम्-वाऩ्-करुत्तोर्+++(=साभिलाषाः)+++  
+अन्नवर्+++(=हंसाः)+++, वेळ्विय्+++(=यज्ञ)+++-अनैत्तु+++(म्)+++ मुडित्तनर्, अन्ब्-उडैयार्कक्  
+"ऎन्न वरन् तरव्?" ऎऩ्ऱु नम्म् अत्ति+++(=हस्ति)+++-गिरित्--तिरु-माल्+++(=व्यामुग्धः [तेन])+++  
+मुन्नम् **वरुन्दिय्**+++(=प्रयस्य)+++ अडैक्+++(=शरण)+++-कलङ्+++(=पात्रम्)+++ **गॊण्ड** नम्-मुक्कियरे+++(=मुख्याः)+++. (20)
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+( अधिकारार्थसंग्राहिका गाथा) 
+
+प्रेमवत्सु 'को वरो देयः' इति आस्थावता हस्ति-गिरि-नाथेन लक्ष्मी-व्यामुग्धेन,  
+पूर्वम् एव **प्रयस्य** रक्ष्य-वस्तुत्वेन **स्वीकृता**  
+आस्माकाः मुख्याः राज-तुल्याः देव-तुल्याः  
+देव-देव-निवास-भूतोपरितन-लोक--प्रवण-सूरि-तुल्याः  
+हंस-तुल्याः समापित-सर्व-यज्ञ-पुरुष-तुल्याश् च भवन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+Our spiritual leaders  
+whom the Lord of Śrī that dwells on Hastigiri has taken into His protection  
+after endeavouring for a long time to find out  
+what boon He should confer on those who loved Him.  
+They are like kings and gods (to us),  
+for they have, ever in their minds,  
+the abode of the Lord of the eternal suris  
+and they are like Paramahamsas, because they have completed all rites that have to be performed,  
+(or like swans in their purity  
+or in their capacity to separate the essential from the non-essential).
+
+[[140]] 
+</details>
+
+<details><summary>Español</summary>
+
+Nuestros líderes espirituales  
+a quien el Señor de Śrī que se detiene en Hastigiri ha tomado su protección  
+Después de esforzarse durante mucho tiempo para averiguarlo  
+Qué bendición debe conferir a los que lo amaron.  
+Son como reyes y dioses (para nosotros),  
+porque lo han hecho, siempre en sus mentes  
+la morada del señor de la eterna suris  
+y son como Paramahamsas, porque han completado todos los ritos que deben realizarse,  
+(o como cisnes en su pureza  
+o en su capacidad de separar lo esencial de lo no esencial).
+
+[[140]] 
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1321,17 +1365,67 @@ que se debe hacer (es decir) Prapatti de la manera adecuada
 </details>
 
 
-Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken into His protection after endeavouring for a long time to find out what boon He should confer on those who loved Him. They are like kings and gods (to us), for they have, ever in their minds, the abode of the Lord of the eternal suris and they are like Paramahamsas, because they have completed all rites that have to be performed, (or like swans in their purity or in their capacity to separate the essential from the non-essential).
+<details><summary>सायण-टीका</summary>
 
-140 
+तऩ्ऩुडैय उज्जीवनार्थमाग सहजसौहार्दम् मुदलाग महाप्रयासत्तै वहित्त हस्तिगिरिनाथऩिडत्तिल् न्यस्तभरर्गळ् सर्वोत्कृष्टराऩ कृतकृत्यर्गळ् ऎऩ्ऱु इव्वधिकारार्थत्तै ऒरु पाट्टाले सङ्ग्रहिक्किऱार् मऩ्ऩवर् इत्यादिना । **अऩ्बुडैयार्क्कु** - स्वविषयस्नेहमुडैयार्क्कु; **अऩ्बु** – स्नेहम्। **ऎऩ्ऩ वरम् तरवॆऩ्ऱु** - अनुबन्धिपर्यन्तम् मोक्षत्तैक् कॊडुत्तोम्, इऩ्ऩुम् ऎऩ्ऩ वरम् तरक्कडवोमॆऩ्ऱु अतृप्तराय्, **नम्मत्तिकिरित्तिरुमाल्** - नम् - समीपदेशवृत्तित्वेन नमक्कुच् चॊन्दमाऩ, **अत्तिगिरि** हस्तिपर्वतत्तिल् अवदरित्त, इदऩाल् आश्रयणसौलभ्यम् द्योत्यते । **तिरुमाल्** - नमक्कु पुरुषकारभूतैयाऩ लक्ष्मियिऩिडत्तिल् व्यामोहत्तै युडैयवऩाऩ पेररुळाळऩ्, **माल्** - व्यामोहम्। इदऩाल् पुरुषकारत्तिऱ्कु अनतिलङ्घनीयत्वम् द्योत्यते, **मुऩ्ऩम्** - इवऩुक्कु मुऩ्बे, इवऩ् उज्जीवनत्तिल् कृषिपण्णि, **वरुन्दि** – प्रयासप्पट्टु, वरुन्दुगै - प्रयासप् पडुगै। **अडैक्कलम् कॊण्ड** - तऩक्कु रक्ष्यवस्तुवाग स्वीकरिक्कप्पट्ट,** नम् मुक्कियरे** - नम् स्वामिकळाऩ प्रपन्नरे, **मऩ्ऩवर्** – श्रीवैष्णवराजाक्कळ् , विण्णवर् - देवर्गळ्, आराद्ध्यर्गळॆऩ्ऱबडि। वाऩोरिऱै इति । **वाऩोर्** - नित्यसूरिकळुक्कु, **इऱै** - निर्वाहकऩाऩ भगवाऩ्, **ऒऩ्ऱुम्** - नित्यवासम्बण्णुगिऱ, **वाऩ्** - परमव्योमत्तिल्, **करुत्तोर्** - अभिलाषैयुडैयवर्, इङ्गु करुत्तु शब्दम् अभिलाषापरम्। **अऩ्ऩवर्** - **अऩ्ऩम्** - हंसम्, परमहंसर्गळॆऩ्ऱबडि। सारासारविवेकचतुरर्गळॆऩ्ऩवुमाम्। वेळ्वि अऩैत्तुम् मुडित्तऩर् - यज्ञङ्गळै यॆल्लाम् अनुष्ठित्तु मुडित्तवर्, **वेळ्वि** - यज्ञम्। सॆय्यवेण्डुम् कृत्यमॆल्लाम् सॆय्दु मुडित्त कृतकृत्यर्गळॆऩ्ऱ पडि इङ्गु वेळ्विशब्दम् सॆय्यवेण्डियवैगळऩैत्तैयुम् सॊल्लुगिऱदु। ‘‘तेषां राजन् सर्वयज्ञास्समाप्ताः’’ ‘‘एवं शरणमभ्येत्य भगवन्तं सुदर्शनम् । अनुष्ठितक्रतुशतो भवत्येव न संशयः’’ इत्यादिगळै इङ्गु अनुसन्धिप्पदु।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-भगवति हरौ पारं गन्तुं भरन्यसनं कृतं  
-परिमितसुखप्राप्त्यै कृत्यं प्रहीणमकृत्यवत् ।  
-भवति च वपुर्वृत्तिः पूर्वं कृतैर्नियतक्रमा  
-परमिह विभोराज्ञासेतुर्बुधैरनुपाल्यते ॥ ३१ ॥
+भगवति हरौ पारं **गन्तुं** भर-**न्यसनं कृतं**  
+परिमित-सुख-प्राप्त्यै कृत्यं **प्रहीणम्** अ-कृत्यवत् ।  
+**भवति** च वपुर्-**वृत्तिः** पूर्वं कृतैर् नियत-क्रमा  
+परम् इह विभोर् आज्ञा-सेतुर् बुधैर् **अनुपाल्यते** ॥ ३१ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भगवति हरौ पारं **गन्तुं** भर-**न्यसनं कृतं**  
+परिमित-सुख-प्राप्त्यै कृत्यं **प्रहीणम्** अ-कृत्यवत् ।  
+**भवति** च वपुर्-**वृत्तिः** पूर्वं कृतैर् नियत-क्रमा  
+परम् इह विभोर् आज्ञा-सेतुर् बुधैर् **अनुपाल्यते** ॥ ३१ ॥
+</details>
+
+<details><summary>English</summary>
+
+Bharanyāsa (or the surrender of the responsibility of protection) has been made at (the feet of) Bhagavān (Hari)  
+for reaching beyond saṁsāra.  
+So also actions that can produce only limited pleasures  
+have been given up just like forbidden actions.  
+The sustenance of the body will continue  
+in accordance with past karma (which has begun to operate).  
+So nothing needs to be done for it.  
+Thereafter (i.e) after prapatti  
+the bounds[^54] imposed by the Lord's command are scrupulously observed by wise men, (merely because it is the Lord's command.)
+
+[^54]: 
+
+    This means that the nitya and naimittika karmas which are ordained by the Lord in the śāstra s  
+    have still to be performed after prapatti,  
+    as, otherwise, there would be transgression of His command.
+
+</details>
+
+<details><summary>Español</summary>
+
+Bharanyāsa (o la rendición de la responsabilidad de la protección) se ha hecho en (los pies de) Bhagavān (Hari)  
+por llegar más allá de Saṁsāra.  
+Así también acciones que solo pueden producir placeres limitados  
+han sido abandonados como acciones prohibidas.  
+El sustento del cuerpo continuará  
+de acuerdo con el karma pasado (que ha comenzado a operar).  
+Así que no hay que hacer nada por ello.  
+A partir de entonces (es decir) después de Prapatti  
+Los límites [^54] impuestos por la orden del Señor son escrupulosamente observados por los hombres sabios  (simplemente porque es la orden del Señor).
+
+[^es54]:
+
+    Esto significa que los karmas nitya y naimittika que son ordenados por el Señor en el Śāstra s
+    todavía tengo que realizarse después de Prapatti,  
+    Como, de lo contrario, habría transgresión de su comando.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -1341,9 +1435,17 @@ Our spiritual leaders whom the Lord of Śrī that dwells on Hastigiri has taken 
 परमिह विभोराज्ञासेतुर्बुधैरनुपाल्यते ॥ ३१ ॥
 </details>
 
-Bharanyāsa (or the surrender of the responsibility of protection) has been made (at the feet of) Bhagavān (Hari) for reaching beyond saṁsāra. So also actions that can produce only limited pleasures have been given up just like forbidden actions. The sustenance of the body will continue in accordance with past karma (which has begun to operate). So nothing needs to be done for it. Thereafter (i.e) after prapatti the bounds[^54] * imposed by the Lord's command are scrupulously observed by wise men, (merely because it is the Lord's command.)
+<details><summary>सायण-टीका</summary>
 
-[^54]: This means that the nitya and naimittika karmas which are ordained by the Lord in the śāstra s have still to be performed after prapatti, as, otherwise, there would be transgression of His command.
+इप्पडि कर्तव्यशेषमऩ्ऱिक्के इवऩ् कृतकृत्यऩॆऩ्ऱाल् इवऩुक्कु नित्यनैमित्तिककर्मङ्गळुम् कर्तव्यङ्गळऩ्ऱिक्के ऒऴियादो ऎऩ्ऩ? इवऩुक्कु इदु अकर्तव्यम् इदु कर्तव्यमॆऩ्बदै ऒरु श्लोकत्ताले अरुळिच्चॆय्गिऱार् भगवतीति । पारङ्गन्तुं – संसाराध्वपारभूतमाऩ परमपदत्तैयडैवदऱ्कु, भगवति – रक्षणोपयुक्तसार्वज्ञ्यादिगळैयुडैय, हरौ – आश्रितसर्वपापहरऩाऩ सर्वेश्वरऩिडत्तिल्, भरन्यसनं कृतं – भरन्यासम् सॆय्दु मुडिन्ददु। आगैयाल् तदर्थमाग ऒऩ्ऱुम् सॆय्यवेण्डाम्। परिमितसुखप्राप्त्यै – अत्यल्पैश्वर्यकैवल्यसुखप्राप्त्यर्थम्, कृत्यं – कर्तव्यमाऩ साधनानुष्ठानम्, काम्यकर्मानुष्ठानसामान्यमिति यावत् । मुमुक्षुवुक्कु अनिष्टसाधनत्वाविशेषात् । अकृत्यवत् – निषिद्धम्बोले, प्रहीणं – परित्यक्तमिति यावत् । वपुर्वत्तिश्च – देहधारणव्यापारमुम्, पूर्वं कृतैः - मुऩ्बु सॆय्द अभ्युपगतप्रारब्धकर्मङ्गळाले, नियतक्रमा भवति – पूर्वकर्मानुसारत्ताले सिल कालङ्गळिल् सुखप्रचुरमायुम्, सिल कालङ्गळिल् दुःखप्रचुरमायुम् नियतक्रममाय् नडक्कुम्। आगैयाल् अदिल् तऩक्कु कर्तव्यांशमिल्लै यॆऩ्ऱु करुत्तु। इह – प्रपत्त्युत्तरकालम् इङ्गिरुक्कुम् दशैयिल्, बुधैः – ज्ञानिकळाऩ प्रपन्नर्गळाले, विभोः – आज्ञातिक्रमत्तिल् दण्डधरऩाऩ ईश्वरऩुडैय, आज्ञासेतुःपरं – अकरणे प्रत्यवायकरमाऩ नित्यनैमित्तिककर्मविधायकश्रुतिस्मृति रूपाज्ञासेतुमात्रम्। परस्परसाङ्कर्यनिवर्तकतया सेतुपोलिरुक्किऱ आज्ञाशास्त्रमॆऩ्ऱबडि। अनुपाल्यते – अकरणे प्रत्यवायावहमाऩ नित्यनैमित्तिककर्मानुष्ठानत्ताले सर्वदा परिपालिक्कप्पडुगिऱदु। इदऩाल् प्रपन्नऩ् ‘‘विहितत्वाच्चाश्रमकर्मापि’’ ऎऩ्गिऱबडिये नित्यनैमित्तिककर्मानुष्ठानत्ताले आज्ञापरिपालनमात्रत्तैये पण्णक्कडवऩे यॊऴिय मोक्षार्थमागवो, प्रयोजनान्तरार्थमागवो, देहयात्राशेषमागवो अवऩुक्कु कर्तव्यान्तरम् ऒऩ्ऱुमिल्लामैयाल् अवऩै कृतकृत्यऩॆऩ्ऩलामॆऩ्ऱु निर्णयिक् कप्पट्टदु।  
+    
+॥ इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्द्धाभिषिक्तस्य  
+निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक  
+श्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ  
+श्री सारबोधिन्याख्यायां व्याख्यायां  
+कृतकृत्याधिकारस्त्रयोदशः ॥
+</details>
+
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
