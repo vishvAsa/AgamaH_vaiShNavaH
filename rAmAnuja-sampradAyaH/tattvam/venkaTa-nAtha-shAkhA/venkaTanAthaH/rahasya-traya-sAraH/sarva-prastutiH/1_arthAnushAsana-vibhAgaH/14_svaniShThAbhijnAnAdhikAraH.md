@@ -403,11 +403,287 @@ he (the prapanna) should feel overwhelming compassion as stated in such ślokas
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अमर्यादः क्षुद्रः’’ ( चल-मतिर् असूया-प्रसव-भूः  
+कृत-घ्नो दुर्-मानी स्मर-पर-वशो वञ्चन-परः ।  
+नृ-शंसः पापिष्ठः कथम् अहम् इतो दुःख-जलधेर्  
+अपाराद् **उत्तीर्णस्** तव **परिचरेयं** चरणयोः ॥  
+स्तोत्ररत्नम् ६२ ॥)
+
+ऎऩ्गिऱ श्लोकत्तालुम्, 
+</details>
 
 
-The prapanna
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-would feel grateful to these revilers as being benefactors who remind him, by their censure, of faults which have been described in Aḷavandār's *śloka [  "How can I ever cross the sea of Sorrow and render service at Thy feet - I who have transgressed all the regulations of the śāstra s who am mean, fickle-minded, cavious, ungrateful, arrogant, lustful, deceitful, wicked and sinful?" ] and in such verses as those of Tirumaṅgai Alvar ["Born into this life, I fell into deep anguish of mind. I mingled with young women thinking it was greatly to be desired, until at last I realised that salvation consists only in the utterance of the name 'Nārāyaṇa”.] as fit to be reflected on in connection with oneself. (4) The prapanna (who has the niṣṭhā in svarūpa) would understand that all souls are dependent on Bhagavān owing to their essential nature, that all jīvas (kṣetrajnas) are under the sway of past karma and that these revilers of his (therefore) revile him by the prompting of Iśvara, who is independent and is the śeṣī  of all and who enjoys the līlā which follows from past karma in the relations between him and his revilers. He would therefore feel no aversion to them: (5) He would rejoice that his past sins which have begun to operate in this life are now being worked out in part. If he has these marks or characteristics as clarified in the explanation of the meaning of the first word (praṇava) and the middle word na mama (namo) in the Mūlamantra, the prapanna may consider that he has realised his difference from acit or matter, that he possesses knowledge which will enable him to act beneficially towards all beings, that he feels his being destitute of upāyas of any kind, that he knows his existing solely for the fulfilment of the purposes of Bhagavān and is entirely dependent on him and should therefore do what is pleasing to the Lord, who, by His very nature, is impartial, who rewards (or punishes), each according to his karma, and who is the independent śeṣī for whom all else exist and that he understands that his good can arise only from the will of another (i.e.) the Lord, as has been pointed out in the śloka; “Where am I who am so full of evil thoughts? Where is the possibility of my seeking what is good to me? Therefore, O Thou, that controllest the gods! Direct me to do whatever is good for me, O Madhava!"
+> ‘‘अमर्यादः क्षुद्रः’’ ( चल-मतिर् असूया-प्रसव-भूः  
+कृत-घ्नो दुर्-मानी स्मर-पर-वशो वञ्चन-परः ।  
+नृ-शंसः पापिष्ठः कथम् अहम् इतो दुःख-जलधेर्  
+अपाराद् **उत्तीर्णस्** तव **परिचरेयं** चरणयोः ॥  
+स्तोत्ररत्नम् ६२ ॥)
+
+इति श्लोकेन, 
+</details>
+
+<details><summary>English</summary>
+
+In Aḷavandār's \*śloka  
+
+> "How can I ever cross the sea of Sorrow and render service at Thy feet -  
+> I who have transgressed all the regulations of the śāstra s  
+> who am mean, fickle-minded, cavious, ungrateful, arrogant, lustful, deceitful, wicked and sinful?" 
+</details>
+
+<details><summary>Español</summary>
+
+En Aḷavandār's \*śloka
+
+> "¿Cómo puedo cruzar el mar de tristeza y prestar servicio a tus pies?
+> Yo que he transgredido todas las regulaciones de los Śāstra S
+> ¿Quién es malo, con mentalidad voluble, caverna, desagradecida, arrogante, lujuriosa, engañosa, malvada y pecaminosa? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अमर्यादःक्षुद्रः’’(आळवन्दार् स्तोत्रम् ६५।) ऎऩ्गिऱ श्लोकत्तालुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩि उपकारस्मृतिपण्णुम् प्रकारत्तैक् काट्टुगिऱार् अमर्यादः क्षुद्र इत्यादिना । ऎऩ्गिऱ श्लोकत्तालुम् - ऎऩ्गिऱ आळवन्दार् स्त्रोत्रश्लोकत्तालुम्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'**वाडिनेन्**+++(=शुष्कवान्)+++, वाडि (**वरुन्दिनेन्**+++(=शोचितवान्)+++ मनत्ताल् पॆरुन् तुयर्+++(=शोक)+++ इडुम् पैयिल्+++(=स्यूते)+++ **पिऱन्दु**,  
+**कूडिनेन्**, कूडिय् इळैयवर्+++(=स्त्रीयः)+++-तम्मोडु अवर् तरुङ् कलविये+++(=मिश्रणम्)+++ **करुदि**+++(=आशित्वा)+++)'  
+(पॆरिय तिरुमॊऴि १-१।) 
+
+मुदलाऩ आऴ्वार्गळ् पासुरङ्गळालुम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१११]]
+
+"कान्तोऽभवम् क्लान्तो भूत्वा …"  
+इत्य्- आदिभिर् दिव्य-सूरि-गाथाभिश् च 
+ 
+</details>
+
+
+<details><summary>English</summary>
+
+and in such verses as those of Tirumaṅgai Alvar  
+["Born into this life, I fell into deep anguish of mind.  
+I mingled with young women thinking it was greatly to be desired,  
+until at last I realised that salvation  
+consists only in the utterance of the name 'Nārāyaṇa”.]  
+</details>
+
+<details><summary>Español</summary>
+
+y en versos como los de Tirumaṅgai Alvar
+
+> ["Nacido en esta vida, caí en una profunda angustia de la mente.  
+Me mezclé con mujeres jóvenes pensando que era muy desear,  
+Hasta que por fin me di cuenta de que la salvación  
+consiste solo en la expresión del nombre 'nārāyaṇa ”.]
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+'वाडिऩेऩ् वाडि'(पॆरिय तिरुमॊऴि १-१।) मुदलाऩ आऴ्वार्गळ् पासुरङ्गळालुम्  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+'वाडिऩेऩ् वाडि' मुदलाऩ आऴ्वार् पासुरङ्गळालुमिति । इङ्गु 'कूडिऩेऩ् कूडि इळैयवर् तम्मोडु' 'आविये अमुदे ऎऩ निऩैन्दुरुगि' 'नीसऩेऩ् निऱैवॊऩ्ऱुमिलेऩ्' इत्यादिगळ् मुदलाऩ शब्दार्थम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्कु अनुसन्धेयम् आग उदाहरित्त दोषङ्गळै  
+परिवादादिगळाले मऱवाद+++(=अविस्मृति)+++ बडि पण्णिऩार्गळ्  
+ऎऩ्गिऱ उपकार-स्मृतियुम्,+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वस्यानुसन्धेयतयोदाहृतान् दोषान्  
+परिभवादिभिः (इमे ) विस्मरणागोचरान् अ-कार्षुर् इत्य् उपकार-स्मृतिः, 
+</details>
+
+<details><summary>English</summary>
+
+The prapanna would feel grateful to these revilers as being benefactors  
+who remind him, by their censure, of faults  
+which have been described (in such verses) as fit to be reflected on in connection with oneself. 
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna se sentiría agradecida con estos reviladores como benefactores  
+que le recuerdan, por su censura, de fallas  
+que se han descrito (en tales versos) como adecuados para ser reflejados en relación con uno mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩक्कु अनुसन्धेयमाग उदाहरित्त दोषङ्गळै परिवादादिगळाले मऱवादबडि पण्णि ऩार्गळॆऩ्गिऱ उपकारस्मृतियुम्,
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मऱवादबडि पण्णिऩार्गळ् इत्यन्तम् निर्वेद-कारिकाद्य्-अनुसन्धान-कालत्तिल् अवश्यानुसन्धेयङ्गळ् आऩ  
+तऩ्ऩुडैय अमर्यादत्वादिदोषङ्गळै  
+परिभावकर्गळ् तऩ् दोषोक्तिकळाले मऱवामल्सॆय्दार्गळ् ऎऩ्गिऱ उपकारस्मृतियिऩ् आकारप्रदर्शनम् ।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आत्माक्कळुक्क् ऎल्लाम् स्व-रूपानुबन्धिय् आऩ भगवत्-पारतन्त्र्यत्तैयुम्  
+क्षेत्रज्ञर् ऎल्लारुम् कर्म-वश्यर् आय् निऱ्किऱ निलैयैयुम् **पार्त्तु**  
+
+> नमक्कुम् नम्म्-अळविल् परिभवादिगळ् पण्णुगिऱ चेतनरुक्कुम् उळ्ळ  
+कर्मानुगुणम् आग इन्ब्+++(=नन्द)+++-**उऱुम्**+++(=आवहम्)+++ इव्-**विळैयाट्ट्**-उडैयऩ् आऩ  
+स्व-तन्त्र--शेषियाले **प्रेरितर् आय्** अवर्गळ्  
+**परिभवादिगळ् पण्णुगिऱार्गळ्** 
+
+ऎऩ्ऱु अवर्गळ् पक्कल् निर्विकार-चित्ततैयुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आत्मनां सर्वेषां स्व-रूपानुबन्धि-भगवत्-पारतन्त्र्यं  
+क्षेत्र-ज्ञानां सर्वेषां कर्म-वश्यतया ऽवस्थितिं च **दृष्ट्वा**   
+
+अस्मासु अस्मत्-परिभावक-चेतनेषु च विद्यमान-कर्मानुगुण-रसावहाम् इमां **लीलां कुर्वाणेन**  
+स्व-तन्त्र-शेषिणा **प्रेरितास्** ते  
+परिभवादिकं **कुर्वन्तीति**  
+तद्विषये निर्विकार-चित्तता, 
+</details>
+
+<details><summary>English</summary>
+
+(4) The prapanna (who has the niṣṭhā in svarūpa) would understand  
+that all souls are dependent on Bhagavān owing to their essential nature,  
+that all jīvas (kṣetrajnas) are under the sway of past karma  
+and that these revilers of his (therefore) revile him by the prompting of Iśvara,  
+who is independent and is the śeṣī  of all  
+and who enjoys the līlā which follows from past karma  
+in the relations between him and his revilers.  
+He would therefore feel no aversion to them. 
+</details>
+
+<details><summary>Español</summary>
+
+(4) La Prapanna (que tiene el Niṣṭhā en Svarūpa) entendería  
+que todas las almas dependen de Bhagavān debido a su naturaleza esencial,  
+que todos los Jīvas (kṣetrajnas) están bajo el dominio del karma pasado  
+y que estos reviladores su (por lo tanto) lo vilizan por la impulso de Iśvara,  
+quien es independiente y es el Śeṣī de todos  
+y quien disfruta del līlā que se deduce del karma pasado  
+en las relaciones entre él y sus reviladores.  
+Por lo tanto, no sentiría aversión a ellos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आत्माक्कळुक्कॆल्लाम् स्वरूपानुबन्धियाऩ भगवत्पारतन्त्र्यत्तैयुम् क्षेत्रज्ञरॆल्लारुम् कर्मवश्यराय् निऱ्किऱ निलैयैयुम् पार्त्तु नमक्कुम् नम्मळविल् परिभवादिगळ् पण्णुगिऱ चेतनरुक्कुमुळ्ळ कर्मानुगुणमाग इऩ्बुऱुमिव्विळैयाट्टुडैयऩाऩ स्वतन्त्रशेषियाले प्रेरितरायवर्गळ् परिभवादिगळ् पण्णुगिऱार्गळॆऩ्ऱु अवर्गळ् पक्कल् निर्विकारचित्ततैयुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऒरु प्रपन्नऩुक्कु, सर्वात्माक्कळुम् ईश्वरपरतन्त्रर्गळॆऩ्ऱुम्, कर्मवश्यर्गळॆऩ्ऱुम्, परिभावकरै कर्मानुगुणमागप्रेरिप्पित्तु नमक्कु परिभवत्तै उण्डुबण्णुगिऱाऩॆऩ्ऱुम्, नम् कर्मानुगुणमाग नाम् परिभाव्य राऩोमॆऩ्ऱुम् निश्चयमुण्डाऩाल् परिभावकर् विषयत्तिल् अवऩुक्कु चित्तविकार मुण्डागादॆऩ्गिऱार् आत्माक्कळुक्कॆल्लामित्यादियाल्। इऩ्बुऱुमिव्विळै याट्टुडैयऩाऩ - इऩ्बुऱुगै - आनन्दत्तैय् उण्डुबण्णुगै, इव्विळैयाट्टुडैयऩाऩ - इन्द कर्मानुरूपफलप्रदानरूपलीलैयै युडैयवऩाऩ वॆऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रारब्ध-पाप-विशेषञ् शिखैय् अऱुगिऱद्+++(=विनाभवति)+++ ऎऩ्गिऱ सन्तोषमुम् नडैय्-आड् इऱ्ऱागिल्+++(=भूतेषु)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+… प्रारब्ध-पाप-विशेषः कृत्त-शिखो भवतीति सन्तोषश् च  
+प्रवर्तन्ते चेत् — 
+</details>
+
+
+<details><summary>English</summary>
+
+(5) He would rejoice that his past sins which  
+have begun to operate in this life  
+are now being worked out in part.  
+If he has these marks or characteristics …
+</details>
+
+<details><summary>Español</summary>
+
+(5) se regocijaría que sus pecados pasados ​​que  
+han comenzado a operar en esta vida  
+ahora se están trabajando en parte.  
+Si tiene estas marcas o características ...
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रारब्धपापविशेषञ्जिगैयऱुगिऱदॆऩ्गिऱ सन्तोषमुम् नडैयाडिऱ्ऱागिल् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सन्तोषत्तिऩ् प्रकारत्तैक् काट्टुगिऱार् प्रारब्धपापविशेषमित्यादिना । सिगैयऱुगिऱदु - सिगै - एकदेशम्। अऱुगै - नसित्तल्, अनुभवैकनाश्यमाऩ अभ्युपगतप्रारब्धत्तिल् एकदेशम् परपरिभवादिरूपफलानुभवत्ताले नसित्तुप् पोगिऱदॆऩ्ऱबडि। ऎऩ्गिऱ सन्तोषमुम् - एतादृशाकारमाऩ सन्तोषमुम्, प्रारब्धपापविशेषञ्जिगैयऱुगिऱदु इत्यन्तम् सन्तोषाकारत्तैक् काट्टुगिऱदु। नडैयाडिऱ्ऱागिल् - तमक्कु इरुन्ददेयागिल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रथम-मध्यम-पदङ्गळिले शोधितम् आऩ बडिये अ-चिद्-वैलक्षण्यत्तैयुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रथम-मध्यम-पदयोः शोधित-रीत्या अ-चिद्-वैलक्षण्यम्,   
+</details>
+
+<details><summary>English</summary>
+
+as clarified in the explanation of the meaning of the first word (praṇava) and the middle word na mama (namo) in the Mūlamantra,  
+the prapanna may consider that he has realised his difference from acit or matter, 
+</details>
+
+<details><summary>Español</summary>
+
+Como se aclara en la explicación del significado de la primera palabra (praṇava) y la palabra media "na mamá" (namo) en el mūlamantra,
+La Prapanna puede considerar que se ha dado cuenta de su diferencia de ACIT o Matter,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रथममध्यमपदङ्गळिले शोधितमाऩबडिये अचिद्वैलक्षण्यत्तैयुम्,
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि स्वरूप-निष्ठाज्ञापकङ्गळाऩ लिङ्गङ्गळै उपपादित्तु, इऩि इवैगळाल् अडैवे मूलमन्त्र-प्रथममध्यमपदङ्गळिल् शोधितङ्गळाऩ तऩ्ऩुडैय तत्तद्धर्मविशिष्टात्मस्वरूपनिष्ठैयै अऱियलामॆऩ्गिऱार् प्रथममद्ध्यमपदङ्गळिले इत्यादिना । शोधितमाऩबडिये - प्रधममध्यमपदङ्गळिलुळ्ळ मकारङ्गळुक्कु ‘‘मन अवबोधने’’ ‘‘मन ज्ञाने’’ इत्यादिनिरुक्तिकळाले शोधिक्कप्पट्टबडिये। अचिद्वैलक्षण्यत्तैयुम् - अचित्ताऩ देहादिगळैक्काट्टिलुम् वैलक्षण्यत्तैयुम्, 
+</details>
+
+
+that he possesses knowledge which will enable him to act beneficially towards all beings, that he feels his being destitute of upāyas of any kind, that he knows his existing solely for the fulfilment of the purposes of Bhagavān and is entirely dependent on him and should therefore do what is pleasing to the Lord, who, by His very nature, is impartial, who rewards (or punishes), each according to his karma, and who is the independent śeṣī for whom all else exist and that he understands that his good can arise only from the will of another (i.e.) the Lord, as has been pointed out in the śloka; “Where am I who am so full of evil thoughts? Where is the possibility of my seeking what is good to me? Therefore, O Thou, that controllest the gods! Direct me to do whatever is good for me, O Madhava!"
 
 II THE NISHTĀ CONCERNING UPĀYA :
 
