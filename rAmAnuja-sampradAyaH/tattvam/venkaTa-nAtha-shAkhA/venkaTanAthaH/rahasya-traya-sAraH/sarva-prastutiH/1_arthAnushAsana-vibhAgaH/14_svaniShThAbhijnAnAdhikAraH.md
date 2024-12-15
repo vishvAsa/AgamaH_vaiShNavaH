@@ -120,6 +120,12 @@ que son profundos y difíciles de llenar y que son tan inmensos como el cielo,
 इप्पडित् तऩक्कु निष्ठैयुण्डॆऩ्ऱु ताऩऱियुम्बडि यॆङ्ङऩेयॆऩ्ऩिल्;  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवं स्वस्य निष्ठाऽस्तीति स्वेन कथं ज्ञायतामिति चेत्- 
+</details>
+
+
 <details><summary>English</summary>
 
 How can a man know that he has firm faith or niṣṭhā (in regard to the knowledge of svarūpa?)  
@@ -158,6 +164,16 @@ I. Signos o marcas sobre Niṣṭhā en Svarūpa
 विषादादिगळ् अऱ्ऱ् इरुक्कैयुम्,  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परैः परिभवादिषु आपन्नेषु सत्सु  
+देहादिकम् अवलम्ब्य  
+परिभावकैर् उच्यमानानां दोषाणां स्व-स्वरूपासंस्पर्शस्य निरूपणेन  
+विषादादि-राहित्येनावस्थानम्, 
+</details>
+
+
+
 <details><summary>English</summary>
 
 (1) when he is treated with such things as contumely by others,  
@@ -185,9 +201,211 @@ no tiene conexión (en absoluto) con su naturaleza esencial,
 इऩि स्वरूपोपायार्थङ्गळिल् तऩक्कु निष्ठै उण्डॆऩ्ऱऱियलाम्बडियै प्रश्नपूर्वमाग वॆळियिडुगिऱार् इप्पडि तऩक्कु इत्यादि महाचूर्णिकैयाले। इप्पडि - कीऴ् श्लोकत्तिल् सॊऩ्ऩबडि। तऩक्कु – प्रपन्नोत्तमऩाऩ तऩक्कु, निष्ठै – स्वरूपोपायार्थङ्गळिल् अवितथनिविष्टस्थिरमतित्वरूपमाऩ दृढाद्ध्यवसायम्। मुदलिल् स्वरूपनिष्ठाभिज्ञानत्तिल् हेतुक्कळै उपपादिक्किऱार् परराले इत्यादिना । परिभवादिगळ् उण्डागुम्बोदु इति । इदऩाल् विषादादि हेतुसत्वम् सॊल्लप्पट्टदु। इवऩ् विषादमऱ्ऱिरुक्कुगैक्कु हेतुवाऩ परमार्था-नुसन्धानत्तैक् काट्टुगिऱार् तऩ् देहादिगळैप् पऱ्ऱ इत्यादिना । परपरिभावकर्गळ् सॊल्लुगिऱ कुऱ्ऱङ्गळ् अनभिजातत्वासुन्दरत्वादिगळ्। विषादादिगळिति । आदिपदत्ताल् क्रोधादिसङ्ग्रहः । अऱ्ऱिरुक्कै - उण्डाय् तणिन्दवै यऩ्ऱिक्के आत्यन्तिकमाग उण्डागामले इरुक्कै। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘शप्यमानस्य यत् पापं  
+शपन्तम् अधिगच्छति’’(भारतम् आच्वमेदिगबर्वम् ११०-६४।)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+‘‘शप्यमानस्य यत् पापं  
+शपन्तम् अधिगच्छति’’(भारतम् आच्वमेदिगबर्वम् ११०-६४।)  
+
+</details>
+
+<details><summary>English</summary>
+
+(2) It has been said:-  
+"When one man' reviles another,  
+the sin of the reviled person passes on to the reviler". 
+</details>
+
+<details><summary>Español</summary>
+
+(2) Se ha dicho:-  
+"Cuando un hombre se revila a otro,  
+El pecado de la persona vilipendiada pasa al revilador ".</details>
 
 
-(2) It has been said:-"When one man' reviles another, the sin of the reviled person passes on to the reviler". So towards these fools that are to receive his sin by their derisive talk, he (the prapanna) should feel overwhelming compassion as stated in such śloka s as the following - "If other created beings harbour enmity and show hatred, the wise man pities them saying, "How wrapped up they are in great delusion!" and "One should very much pity the fool who does evil to himself by violating the śāstras and straying from the right path and who is, therefore, like firewood destined for the flames of hell.” The prapanna
+<details><summary>मूलम्</summary>
+
+‘‘शप्यमानस्य यत् पापं शपन्तमधिगच्छति’’(भारतम् आच्वमेदिगबर्वम् ११०-६४।)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडिये  
+परिभवादिगळाले तऩ् पापत्तै वाङ्गिक् कॊळ्ळुगिऱ मति-गेडरैप् पऱ्ऱ
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य् उक्त-रीत्या परिभवादिना स्-वपापं प्रतिगृह्णतो दुर्बुद्धीन् प्रति, 
+</details>
+
+
+<details><summary>English</summary>
+
+So towards these fools that are to receive his sin by their derisive talk, 
+</details>
+
+<details><summary>Español</summary>
+
+Así que hacia estos tontos que recibirán su pecado por su charla burlona,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये परिभवादिगळाले तऩ् पापत्तै वाङ्गिक्कॊळ्ळुगिऱ मदिगेडरैप्पऱ्ऱ
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अवर्गळ् पक्कल् करै पुरण्ड कृपैक्कुक् कारणम् काट्टुगिऱार् शप्यमानस्येत्यादिना । तऩ् पापत्तै - परिभाव्यऩाऩ तऩ् पापत्तै, मदिगेडर् - बुद्धि यिल्लादवर्, बद्धवैराणि – कारणमऩ्ऱिक्के बद्धवैरङ्गळाऩ, स्वस्मिन्निति शेषः । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘बद्ध-वैराणि भूतानि  
+द्वेषं कुर्वन्ति चेत् ततः ।  
+**शोच्यान्य्** अहो ऽतिमोहेन  
+**व्याप्तानीति** मनीषिणा ॥’’  
+(विष्णुपुराणम् १-७-८२)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘बद्ध-वैराणि भूतानि  
+द्वेषं कुर्वन्ति चेत् ततः ।  
+**शोच्यान्य्** अहो ऽतिमोहेन  
+**व्याप्तानीति** मनीषिणा ॥’’  
+(विष्णुपुराणम् १-७-८२)  
+</details>
+
+<details><summary>English</summary>
+
+as the following - 
+
+> "If other created beings harbour enmity and show hatred,  
+> the wise man pities them saying,  
+> "How wrapped up they are in great delusion!"  
+</details>
+
+<details><summary>Español</summary>
+
+como el siguiente -
+
+> "Si otros seres creados albergan enemistad y muestran odio,  
+> El hombre sabio se compadece de ellos diciendo:  
+> "¡Cómo están envueltos en gran ilusión!"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘बद्धवैराणि भूतानि द्वेषं कुर्वन्ति चेत्ततः ।  
+शोच्यान्यहोऽतिमोहेन व्याप्तानीति मनीषिणा ॥’’(विष्णुपुराणम् १-७-८२)  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+द्वेषं कुर्वन्ति चेत् – द्वेषः – पीडाजनकबुद्धिविशेषः । मनीषिणा शोच्यानि – शोचयितुं योग्यानि, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आत्म-द्रुहम् अमर्यादं  
+> मूढम् उज्झित-सत्-पथम् ।  
+> सुतराम् **अनुकम्पेत**  
+> नरकार्चिष्मद् इन्धनम्’’  
+> (आयुर्वेदः) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘आत्म-द्रुहम् अमर्यादं  
+> मूढम् उज्झित-सत्-पथम् ।  
+> सुतराम् **अनुकम्पेत**  
+> नरकार्चिष्मद् इन्धनम्’’  
+> (आयुर्वेदः) 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "One should very much pity the fool  
+who does evil to himself by violating the śāstras  
+and straying from the right path  
+and who is, therefore, like firewood destined for the flames of hell.” 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Uno debería lástima del tonto  
+quien se hace mal a sí mismo violando los Śāstras  
+y alejándose del camino correcto  
+y quién es, por lo tanto, como leña destinada a las llamas del infierno ".
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘आत्मद्रुहममर्यादं मूढमुज्झितसत्पथम् । सुतरामनुकम्पेत नरकार्चिष्मदिन्धनम्’’(आयुर्वेदः) 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+आत्मद्रुहं – परपरिभवादि कळैप् पण्णि तऩक्के अनर्थजनकऩागैयाले आत्मद्रोहियाऩवऩै, मूढं – स्वस्वरूपादिगळिल् ज्ञानमिल्लादवऩै, अत एव मौढ्यत्तालेये, उज्झितसत्पथं – सन्मार्गत्तै विट्टवऩै, अत एव अमर्यादं – लोकमर्यादातीतऩाऩ, अत एव नरकार्चिष्मदिन्धनं – नरकमागिऱ अग्निक्कु इन्धनम् पोऩ्ऱवऩ्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडिये करै+++(=वेलां)+++ पुरण्ड+++(=??)+++ कृपैयुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-उक्त-रीत्या पारातिलङ्घिनीं कृपा,
+</details>
+
+<details><summary>English</summary>
+
+he (the prapanna) should feel overwhelming compassion as stated in such ślokas 
+</details>
+
+<details><summary>Español</summary>
+
+Él (el Prapanna) debería sentirse abrumando compasión como se indica en tal Ślokas
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये करैबुरण्ड कृपैयुम्,  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्गिऱबडिये - ‘‘सुतरामनुकम्पेत’’ ऎऩ्ऱु इन्द श्लोकत्तिल् सॊऩ्ऩबडिये, करैबुरण्ड कृपैयुम् - वेलातीतमाऩ कृपैयुम्, पापिकळिडत्तिलुम् व्याप्तमाऩ कृपैयुमॆऩ्ऱबडि। 
+</details>
+
+
+
+
+The prapanna
 
 would feel grateful to these revilers as being benefactors who remind him, by their censure, of faults which have been described in Aḷavandār's *śloka [  "How can I ever cross the sea of Sorrow and render service at Thy feet - I who have transgressed all the regulations of the śāstra s who am mean, fickle-minded, cavious, ungrateful, arrogant, lustful, deceitful, wicked and sinful?" ] and in such verses as those of Tirumaṅgai Alvar ["Born into this life, I fell into deep anguish of mind. I mingled with young women thinking it was greatly to be desired, until at last I realised that salvation consists only in the utterance of the name 'Nārāyaṇa”.] as fit to be reflected on in connection with oneself. (4) The prapanna (who has the niṣṭhā in svarūpa) would understand that all souls are dependent on Bhagavān owing to their essential nature, that all jīvas (kṣetrajnas) are under the sway of past karma and that these revilers of his (therefore) revile him by the prompting of Iśvara, who is independent and is the śeṣī  of all and who enjoys the līlā which follows from past karma in the relations between him and his revilers. He would therefore feel no aversion to them: (5) He would rejoice that his past sins which have begun to operate in this life are now being worked out in part. If he has these marks or characteristics as clarified in the explanation of the meaning of the first word (praṇava) and the middle word na mama (namo) in the Mūlamantra, the prapanna may consider that he has realised his difference from acit or matter, that he possesses knowledge which will enable him to act beneficially towards all beings, that he feels his being destitute of upāyas of any kind, that he knows his existing solely for the fulfilment of the purposes of Bhagavān and is entirely dependent on him and should therefore do what is pleasing to the Lord, who, by His very nature, is impartial, who rewards (or punishes), each according to his karma, and who is the independent śeṣī for whom all else exist and that he understands that his good can arise only from the will of another (i.e.) the Lord, as has been pointed out in the śloka; “Where am I who am so full of evil thoughts? Where is the possibility of my seeking what is good to me? Therefore, O Thou, that controllest the gods! Direct me to do whatever is good for me, O Madhava!"
 
