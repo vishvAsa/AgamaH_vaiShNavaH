@@ -403,11 +403,148 @@ he (the prapanna) should feel overwhelming compassion as stated in such ślokas
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अमर्यादः क्षुद्रः’’ ( चल-मतिर् असूया-प्रसव-भूः  
+कृत-घ्नो दुर्-मानी स्मर-पर-वशो वञ्चन-परः ।  
+नृ-शंसः पापिष्ठः कथम् अहम् इतो दुःख-जलधेर्  
+अपाराद् **उत्तीर्णस्** तव **परिचरेयं** चरणयोः ॥  
+स्तोत्ररत्नम् ६२ ॥)
+
+ऎऩ्गिऱ श्लोकत्तालुम्, 
+</details>
 
 
-The prapanna
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-would feel grateful to these revilers as being benefactors who remind him, by their censure, of faults which have been described in Aḷavandār's *śloka [  "How can I ever cross the sea of Sorrow and render service at Thy feet - I who have transgressed all the regulations of the śāstra s who am mean, fickle-minded, cavious, ungrateful, arrogant, lustful, deceitful, wicked and sinful?" ] and in such verses as those of Tirumaṅgai Alvar ["Born into this life, I fell into deep anguish of mind. I mingled with young women thinking it was greatly to be desired, until at last I realised that salvation consists only in the utterance of the name 'Nārāyaṇa”.] as fit to be reflected on in connection with oneself. (4) The prapanna (who has the niṣṭhā in svarūpa) would understand that all souls are dependent on Bhagavān owing to their essential nature, that all jīvas (kṣetrajnas) are under the sway of past karma and that these revilers of his (therefore) revile him by the prompting of Iśvara, who is independent and is the śeṣī  of all and who enjoys the līlā which follows from past karma in the relations between him and his revilers. He would therefore feel no aversion to them: (5) He would rejoice that his past sins which have begun to operate in this life are now being worked out in part. If he has these marks or characteristics as clarified in the explanation of the meaning of the first word (praṇava) and the middle word na mama (namo) in the Mūlamantra, the prapanna may consider that he has realised his difference from acit or matter, that he possesses knowledge which will enable him to act beneficially towards all beings, that he feels his being destitute of upāyas of any kind, that he knows his existing solely for the fulfilment of the purposes of Bhagavān and is entirely dependent on him and should therefore do what is pleasing to the Lord, who, by His very nature, is impartial, who rewards (or punishes), each according to his karma, and who is the independent śeṣī for whom all else exist and that he understands that his good can arise only from the will of another (i.e.) the Lord, as has been pointed out in the śloka; “Where am I who am so full of evil thoughts? Where is the possibility of my seeking what is good to me? Therefore, O Thou, that controllest the gods! Direct me to do whatever is good for me, O Madhava!"
+> ‘‘अमर्यादः क्षुद्रः’’ ( चल-मतिर् असूया-प्रसव-भूः  
+कृत-घ्नो दुर्-मानी स्मर-पर-वशो वञ्चन-परः ।  
+नृ-शंसः पापिष्ठः कथम् अहम् इतो दुःख-जलधेर्  
+अपाराद् **उत्तीर्णस्** तव **परिचरेयं** चरणयोः ॥  
+स्तोत्ररत्नम् ६२ ॥)
+
+इति श्लोकेन, 
+</details>
+
+<details><summary>English</summary>
+
+In Aḷavandār's \*śloka  
+
+> "How can I ever cross the sea of Sorrow and render service at Thy feet -  
+> I who have transgressed all the regulations of the śāstra s  
+> who am mean, fickle-minded, cavious, ungrateful, arrogant, lustful, deceitful, wicked and sinful?" 
+</details>
+
+<details><summary>Español</summary>
+
+En Aḷavandār's \*śloka
+
+> "¿Cómo puedo cruzar el mar de tristeza y prestar servicio a tus pies?
+> Yo que he transgredido todas las regulaciones de los Śāstra S
+> ¿Quién es malo, con mentalidad voluble, caverna, desagradecida, arrogante, lujuriosa, engañosa, malvada y pecaminosa? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अमर्यादःक्षुद्रः’’(आळवन्दार् स्तोत्रम् ६५।) ऎऩ्गिऱ श्लोकत्तालुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩि उपकारस्मृतिपण्णुम् प्रकारत्तैक् काट्टुगिऱार् अमर्यादः क्षुद्र इत्यादिना । ऎऩ्गिऱ श्लोकत्तालुम् - ऎऩ्गिऱ आळवन्दार् स्त्रोत्रश्लोकत्तालुम्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'**वाडिनेन्**+++(=शुष्कवान्)+++, वाडि (**वरुन्दिनेन्**+++(=शोचितवान्)+++ मनत्ताल् पॆरुन् तुयर्+++(=शोक)+++ इडुम् पैयिल्+++(=स्यूते)+++ **पिऱन्दु**,  
+**कूडिनेन्**, कूडिय् इळैयवर्+++(=स्त्रीयः)+++-तम्मोडु अवर् तरुङ् कलविये+++(=मिश्रणम्)+++ **करुदि**+++(=आशित्वा)+++)'  
+(पॆरिय तिरुमॊऴि १-१।) 
+
+मुदलाऩ आऴ्वार्गळ् पासुरङ्गळालुम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१११]]
+
+"कान्तोऽभवम् क्लान्तो भूत्वा …"  
+इत्य्- आदिभिर् दिव्य-सूरि-गाथाभिश् च 
+ 
+</details>
+
+
+<details><summary>English</summary>
+
+and in such verses as those of Tirumaṅgai Alvar  
+["Born into this life, I fell into deep anguish of mind.  
+I mingled with young women thinking it was greatly to be desired,  
+until at last I realised that salvation  
+consists only in the utterance of the name 'Nārāyaṇa”.]  
+</details>
+
+<details><summary>Español</summary>
+
+y en versos como los de Tirumaṅgai Alvar
+
+> ["Nacido en esta vida, caí en una profunda angustia de la mente.  
+Me mezclé con mujeres jóvenes pensando que era muy desear,  
+Hasta que por fin me di cuenta de que la salvación  
+consiste solo en la expresión del nombre 'nārāyaṇa ”.]
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+'वाडिऩेऩ् वाडि'(पॆरिय तिरुमॊऴि १-१।) मुदलाऩ आऴ्वार्गळ् पासुरङ्गळालुम्  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+'वाडिऩेऩ् वाडि' मुदलाऩ आऴ्वार् पासुरङ्गळालुमिति । इङ्गु 'कूडिऩेऩ् कूडि इळैयवर् तम्मोडु' 'आविये अमुदे ऎऩ निऩैन्दुरुगि' 'नीसऩेऩ् निऱैवॊऩ्ऱुमिलेऩ्' इत्यादिगळ् मुदलाऩ शब्दार्थम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्कु अनुसन्धेयम् आग उदाहरित्त दोषङ्गळै  
+परिवादादिगळाले मऱवाद+++(=अविस्मृति)+++ बडि पण्णिऩार्गळ्  
+ऎऩ्गिऱ उपकार-स्मृतियुम्,+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वस्यानुसन्धेयतयोदाहृतान् दोषान्  
+परिभवादिभिः (इमे ) विस्मरणागोचरान् अ-कार्षुर् इत्य् उपकार-स्मृतिः, 
+</details>
+
+<details><summary>English</summary>
+
+The prapanna would feel grateful to these revilers as being benefactors  
+who remind him, by their censure, of faults  
+which have been described (in such verses) as fit to be reflected on in connection with oneself. 
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna se sentiría agradecida con estos reviladores como benefactores  
+que le recuerdan, por su censura, de fallas  
+que se han descrito (en tales versos) como adecuados para ser reflejados en relación con uno mismo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩक्कु अनुसन्धेयमाग उदाहरित्त दोषङ्गळै परिवादादिगळाले मऱवादबडि पण्णि ऩार्गळॆऩ्गिऱ उपकारस्मृतियुम्,
+</details>
+
+
+
+(4) The prapanna (who has the niṣṭhā in svarūpa) would understand that all souls are dependent on Bhagavān owing to their essential nature, that all jīvas (kṣetrajnas) are under the sway of past karma and that these revilers of his (therefore) revile him by the prompting of Iśvara, who is independent and is the śeṣī  of all and who enjoys the līlā which follows from past karma in the relations between him and his revilers. He would therefore feel no aversion to them: (5) He would rejoice that his past sins which have begun to operate in this life are now being worked out in part. If he has these marks or characteristics as clarified in the explanation of the meaning of the first word (praṇava) and the middle word na mama (namo) in the Mūlamantra, the prapanna may consider that he has realised his difference from acit or matter, that he possesses knowledge which will enable him to act beneficially towards all beings, that he feels his being destitute of upāyas of any kind, that he knows his existing solely for the fulfilment of the purposes of Bhagavān and is entirely dependent on him and should therefore do what is pleasing to the Lord, who, by His very nature, is impartial, who rewards (or punishes), each according to his karma, and who is the independent śeṣī for whom all else exist and that he understands that his good can arise only from the will of another (i.e.) the Lord, as has been pointed out in the śloka; “Where am I who am so full of evil thoughts? Where is the possibility of my seeking what is good to me? Therefore, O Thou, that controllest the gods! Direct me to do whatever is good for me, O Madhava!"
 
 II THE NISHTĀ CONCERNING UPĀYA :
 
