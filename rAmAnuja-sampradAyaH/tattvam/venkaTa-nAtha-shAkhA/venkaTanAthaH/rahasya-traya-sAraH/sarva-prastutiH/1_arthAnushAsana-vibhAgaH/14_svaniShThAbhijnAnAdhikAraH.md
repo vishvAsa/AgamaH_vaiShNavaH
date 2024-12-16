@@ -117,7 +117,7 @@ que son profundos y difíciles de llenar y que son tan inmensos como el cielo,
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडित् तऩक्कु निष्ठैयुण्डॆऩ्ऱु ताऩऱियुम्बडि यॆङ्ङऩेयॆऩ्ऩिल्;  
+इप्पडित् तऩक्कु निष्ठैयुण्डॆऩ्ऱु ताऩ् अऱियुम् बडि यॆङ्ङऩेय् ऎऩ्ऩिल्;  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -159,16 +159,17 @@ I. Signos o marcas sobre Niṣṭhā en Svarūpa
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परराले परिभवादिगळ् उण्ड् आम् बोदु  
-तऩ् देहादिगळैप् पऱ्ऱ परिभावकर् सॊल्लुगिऱ कुऱ्ऱङ्गळ्  
+तऩ् देहादिगळैप् +++(←अनादि-कर्मापि)+++ पऱ्ऱ परिभावकर् सॊल्लुगिऱ कुऱ्ऱङ्गळ्  
 तऩ् स्वरूपत्तिल् तट्टाद बडि कण्डु  
 विषादादिगळ् अऱ्ऱ् इरुक्कैयुम्,  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-परैः परिभवादिषु आपन्नेषु सत्सु  
-देहादिकम् अवलम्ब्य  
-परिभावकैर् उच्यमानानां दोषाणां स्व-स्वरूपासंस्पर्शस्य निरूपणेन  
+परैः **परिभवादिषु** आपन्नेषु सत्सु  
+देहादिकम् +++(←अनादि-कर्मापि)+++ अवलम्ब्य  
+परिभावकैर् उच्यमानानां दोषाणां  
+स्व-स्वरूपासंस्पर्शस्य निरूपणेन  
 विषादादि-राहित्येनावस्थानम्, 
 </details>
 
@@ -679,11 +680,127 @@ La Prapanna puede considerar que se ha dado cuenta de su diferencia de ACIT o Ma
 
 <details><summary>सायण-टीका</summary>
 
-इप्पडि स्वरूप-निष्ठाज्ञापकङ्गळाऩ लिङ्गङ्गळै उपपादित्तु, इऩि इवैगळाल् अडैवे मूलमन्त्र-प्रथममध्यमपदङ्गळिल् शोधितङ्गळाऩ तऩ्ऩुडैय तत्तद्धर्मविशिष्टात्मस्वरूपनिष्ठैयै अऱियलामॆऩ्गिऱार् प्रथममद्ध्यमपदङ्गळिले इत्यादिना । शोधितमाऩबडिये - प्रधममध्यमपदङ्गळिलुळ्ळ मकारङ्गळुक्कु ‘‘मन अवबोधने’’ ‘‘मन ज्ञाने’’ इत्यादिनिरुक्तिकळाले शोधिक्कप्पट्टबडिये। अचिद्वैलक्षण्यत्तैयुम् - अचित्ताऩ देहादिगळैक्काट्टिलुम् वैलक्षण्यत्तैयुम्, 
+इप्पडि स्वरूप-निष्ठाज्ञापकङ्गळाऩ लिङ्गङ्गळै उपपादित्तु, इऩि इवैगळाल् अडैवे मूलमन्त्र-प्रथममध्यमपदङ्गळिल् शोधितङ्गळाऩ तऩ्ऩुडैय तत्तद्धर्मविशिष्टात्मस्वरूपनिष्ठैयै अऱियलामॆऩ्गिऱार् प्रथममद्ध्यमपदङ्गळिले इत्यादिना । शोधितमाऩबडिये - प्रधममध्यमपदङ्गळिलुळ्ळ मकारङ्गळुक्कु ‘‘मन अवबोधने’’ ‘‘मन ज्ञाने’’ इत्यादिनिरुक्तिकळाले शोधिक्कप्पट्टबडिये। अचिद्वैलक्षण्यत्तैयुम् - अचित्ताऩ देहादिगळैक्काट्टिलुम् वैलक्षण्यत्तैयुम्.  
+इदऱ्कु 'उडैय तऩ् स्वरूपत्तिले निष्ठै उण्डॆऩ्ऱऱियलाम्' ऎऩ्बदोडन्वयम्।  
+
+आत्मा अचित्ताऩ देहविलक्षणऩॆऩ्गिऱ आत्मविशेष्यकाचिद्विलक्षणत्व प्रकारकनिर्णयात्मकाचिद्विलक्षणस्वरूपनिष्ठैयिल्लाविडिल् परिभावकर् सॊल्लुम् असुन्दरऩ् अनभिजातऩ् ऎऩ्गिऱ परिवादङ्गळैक् केट्टु इन्द दोषम् अचित्ताऩ देहनिष्ठम्; अचिद्विलक्षणऩाऩ नम् स्वरूपत्तिल् तट्टादु ऎऩ्ऱु ऎण्णि विषादमऱ्ऱिरुक्कै कूडादिऱे। 
+
+आगैयाल्परपरिभवादिगळिल् विषादम् अऱ्ऱ् इरुक्कैयाऩदु आत्म-विशेष्यकाचिद्-विलक्षणत्व-प्रकारक-निश्चय-रूप-  
++अचिद्-विलक्षण-स्वरूप-निष्ठा--कार्यम् आगैयाले विषादाभावादिगळाल् तादृश-स्वरूप-निष्ठैयैय् अऱियलामॆऩ्ऱु करुत्तु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(परिभावकेषु कृपया कैमत्येन)+++ सर्व-भूतानुकूल्यादिगळुक्कु योग्यम् आऩ ज्ञानत्तैयुम्, +++(5)+++  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++++(परिभावकेषु कृपया कैमत्येन)+++ सर्व-भूतानुकूल्यादि-योग्यं ज्ञानम्,  +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+that he possesses knowledge which will enable him to act beneficially towards all beings, 
+</details>
+
+<details><summary>Español</summary>
+
+que posee conocimiento que le permitirá actuar de manera beneficiosa hacia todos los seres,
 </details>
 
 
-that he possesses knowledge which will enable him to act beneficially towards all beings, that he feels his being destitute of upāyas of any kind, that he knows his existing solely for the fulfilment of the purposes of Bhagavān and is entirely dependent on him and should therefore do what is pleasing to the Lord, who, by His very nature, is impartial, who rewards (or punishes), each according to his karma, and who is the independent śeṣī for whom all else exist and that he understands that his good can arise only from the will of another (i.e.) the Lord, as has been pointed out in the śloka; “Where am I who am so full of evil thoughts? Where is the possibility of my seeking what is good to me? Therefore, O Thou, that controllest the gods! Direct me to do whatever is good for me, O Madhava!"
+<details><summary>मूलम्</summary>
+
+सर्वभूतानुकूल्यादिगळुक्कु योग्यमाऩ ज्ञानत्तैयुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि परिभावकर् पक्कलिलुम् कृपै नडैयाडिऱ्ऱागिल्  
+सर्वभूतानुकूल्यादिगळुक्कु योग्यमाऩ ज्ञानत्तैयुडैय तऩ् स्वरूपत्तिल् निष्ठैयुण्डॆऩ्ऱऱियलाम्। +++(5)+++
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वतोमुखमाऩ आकिञ्चन्यत्तैयुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सर्वतो-मुखम् आकिञ्चन्यम्  
+</details>
+
+<details><summary>English</summary>
+
+that he feels his being destitute of upāyas of any kind, 
+</details>
+
+<details><summary>Español</summary>
+
+que siente que es indigente de upāyas de cualquier tipo,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वतोमुखमाऩ आकिञ्चन्यत्तैयुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वतस् सर्व-समऩ् आय्  
+कर्मानुरूप फल-प्रदऩ् आऩ स्व-तन्त्र-शेषिक्कु  
+इष्ट-विनियोगार्हम् आम् बडि  
+अनन्यार्ह-शेषत्व-पारतन्त्र्यङ्गळैयुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वतः सर्व-समस्य कर्मानुरूप-फल-प्रदस्य स्व-तन्त्र-शेषिण  
+इष्ट-विनियोगार्हतापादके अनन्यार्ह-शेषत्व-पारतन्त्र्ये,  
+</details>
+
+<details><summary>English</summary>
+
+that he knows his existing solely for the fulfilment of the purposes of Bhagavān  
+and is entirely dependent on him  
+and should therefore do what is pleasing to the Lord,  
+who, by His very nature, is impartial,  
+who rewards (or punishes), each according to his karma,  
+and who is the independent śeṣī for whom all else exist  
+
+</details>
+
+<details><summary>Español</summary>
+
+que él conoce su existente únicamente para el cumplimiento de los propósitos de Bhagavān  
+y depende completamente de él  
+y, por lo tanto, debe hacer lo que le agrade al Señor,  
+quien, por su propia naturaleza, es imparcial  
+quien recompensa (o castiga), cada uno según su karma,  
+y quien es el Śeṣī independiente, para quien todo lo demás existe
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वतस्सर्वसमऩाय् कर्मानुरूप फलप्रदऩाऩ स्वतन्त्रशेषिक्कु इष्टविनियोगार्हमाम्बडि अनन्यार्हशेषत्वपारतन्त्र्यङ्गळैयुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘यद्धितं मम देवेश’’(जितन्तास्तोत्रम् १-१८।) इत्यादि कळिऱ्पडिये पराधीनहितसिद्धियैयुम् 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यद्धितं मम देवेश’’(जितन्तास्तोत्रम् १-१८।) इत्यादि कळिऱ्पडिये पराधीनहितसिद्धियैयुम् 
+</details>
+
+
+
+and that he understands that his good can arise only from the will of another (i.e.) the Lord, as has been pointed out in the śloka; “Where am I who am so full of evil thoughts? Where is the possibility of my seeking what is good to me? Therefore, O Thou, that controllest the gods! Direct me to do whatever is good for me, O Madhava!"
 
 II THE NISHTĀ CONCERNING UPĀYA :
 
