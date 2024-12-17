@@ -144,6 +144,12 @@ La respuesta es la siguiente:
 इप्पडित् तऩक्कु निष्ठैयुण्डॆऩ्ऱु ताऩऱियुम्बडि यॆङ्ङऩेयॆऩ्ऩिल्;  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इऩि स्वरूपोपायार्थङ्गळिल् तऩक्कु निष्ठै उण्डॆऩ्ऱऱियलाम्बडियै प्रश्नपूर्वमाग वॆळियिडुगिऱार् इप्पडि तऩक्कु इत्यादि महाचूर्णिकैयाले। इप्पडि - कीऴ् श्लोकत्तिल् सॊऩ्ऩबडि। तऩक्कु – प्रपन्नोत्तमऩाऩ तऩक्कु, निष्ठै – स्वरूपोपायार्थङ्गळिल् अवितथनिविष्टस्थिरमतित्वरूपमाऩ दृढाद्ध्यवसायम्। 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -199,7 +205,7 @@ no tiene conexión (en absoluto) con su naturaleza esencial,
 
 <details><summary>सायण-टीका</summary>
 
-इऩि स्वरूपोपायार्थङ्गळिल् तऩक्कु निष्ठै उण्डॆऩ्ऱऱियलाम्बडियै प्रश्नपूर्वमाग वॆळियिडुगिऱार् इप्पडि तऩक्कु इत्यादि महाचूर्णिकैयाले। इप्पडि - कीऴ् श्लोकत्तिल् सॊऩ्ऩबडि। तऩक्कु – प्रपन्नोत्तमऩाऩ तऩक्कु, निष्ठै – स्वरूपोपायार्थङ्गळिल् अवितथनिविष्टस्थिरमतित्वरूपमाऩ दृढाद्ध्यवसायम्। मुदलिल् स्वरूपनिष्ठाभिज्ञानत्तिल् हेतुक्कळै उपपादिक्किऱार् परराले इत्यादिना । परिभवादिगळ् उण्डागुम्बोदु इति । इदऩाल् विषादादि हेतुसत्वम् सॊल्लप्पट्टदु। इवऩ् विषादमऱ्ऱिरुक्कुगैक्कु हेतुवाऩ परमार्था-नुसन्धानत्तैक् काट्टुगिऱार् तऩ् देहादिगळैप् पऱ्ऱ इत्यादिना । परपरिभावकर्गळ् सॊल्लुगिऱ कुऱ्ऱङ्गळ् अनभिजातत्वासुन्दरत्वादिगळ्। विषादादिगळिति । आदिपदत्ताल् क्रोधादिसङ्ग्रहः । अऱ्ऱिरुक्कै - उण्डाय् तणिन्दवै यऩ्ऱिक्के आत्यन्तिकमाग उण्डागामले इरुक्कै। 
+मुदलिल् स्वरूपनिष्ठाभिज्ञानत्तिल् हेतुक्कळै उपपादिक्किऱार् परराले इत्यादिना । परिभवादिगळ् उण्डागुम्बोदु इति । इदऩाल् विषादादि हेतुसत्वम् सॊल्लप्पट्टदु। इवऩ् विषादमऱ्ऱिरुक्कुगैक्कु हेतुवाऩ परमार्था-नुसन्धानत्तैक् काट्टुगिऱार् तऩ् देहादिगळैप् पऱ्ऱ इत्यादिना । परपरिभावकर्गळ् सॊल्लुगिऱ कुऱ्ऱङ्गळ् अनभिजातत्वासुन्दरत्वादिगळ्। विषादादिगळिति । आदिपदत्ताल् क्रोधादिसङ्ग्रहः । अऱ्ऱिरुक्कै - उण्डाय् तणिन्दवै यऩ्ऱिक्के आत्यन्तिकमाग उण्डागामले इरुक्कै। 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -373,7 +379,7 @@ y quién es, por lo tanto, como leña destinada a las llamas del infierno ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्गिऱ बडिये करै+++(=वेलां)+++ पुरण्ड+++(=??)+++ कृपैयुम्,  
+ऎऩ्गिऱ बडिये करै+++(=वेलां)+++ पुरण्ड+++(←पुरळ् वर्तने)+++ कृपैयुम्,  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -649,15 +655,15 @@ Si tiene estas marcas o características ...
 सन्तोषत्तिऩ् प्रकारत्तैक् काट्टुगिऱार् प्रारब्धपापविशेषमित्यादिना । सिगैयऱुगिऱदु - सिगै - एकदेशम्। अऱुगै - नसित्तल्, अनुभवैकनाश्यमाऩ अभ्युपगतप्रारब्धत्तिल् एकदेशम् परपरिभवादिरूपफलानुभवत्ताले नसित्तुप् पोगिऱदॆऩ्ऱबडि। ऎऩ्गिऱ सन्तोषमुम् - एतादृशाकारमाऩ सन्तोषमुम्, प्रारब्धपापविशेषञ्जिगैयऱुगिऱदु इत्यन्तम् सन्तोषाकारत्तैक् काट्टुगिऱदु। नडैयाडिऱ्ऱागिल् - तमक्कु इरुन्ददेयागिल्। 
 </details>
 
-
+### स्वरूप-विशेषाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रथम-मध्यम-पदङ्गळिले शोधितम् आऩ बडिये अ-चिद्-वैलक्षण्यत्तैयुम्,
+प्रथम+++(→ॐ)+++-मध्यम+++(→नमः)+++-पदङ्गळिले शोधितम् आऩ बडिये **अ-चिद्-वैलक्षण्यत्तैयुम्**,
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-प्रथम-मध्यम-पदयोः शोधित-रीत्या अ-चिद्-वैलक्षण्यम्,   
+प्रथम+++(→ॐ)+++-मध्यम+++(→नमः)+++-पदयोः शोधित-रीत्या **अ-चिद्-वैलक्षण्यम्**,   
 </details>
 
 <details><summary>English</summary>
@@ -691,12 +697,12 @@ La Prapanna puede considerar que se ha dado cuenta de su diferencia de ACIT o Ma
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(परिभावकेषु कृपया कैमत्येन)+++ सर्व-भूतानुकूल्यादिगळुक्कु योग्यम् आऩ ज्ञानत्तैयुम्, +++(5)+++  
++++(परिभावकेषु कृपया कैमत्येन)+++ **सर्व-भूतानुकूल्यादिगळुक्कु** योग्यम् आऩ ज्ञानत्तैयुम्, +++(5)+++  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-+++(परिभावकेषु कृपया कैमत्येन)+++ सर्व-भूतानुकूल्यादि-योग्यं ज्ञानम्,  +++(5)+++
++++(परिभावकेषु कृपया कैमत्येन)+++ **सर्व-भूतानुकूल्यादि**-योग्यं ज्ञानम्,  +++(5)+++
 </details>
 
 <details><summary>English</summary>
@@ -723,12 +729,12 @@ que posee conocimiento que le permitirá actuar de manera beneficiosa hacia todo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वतोमुखमाऩ आकिञ्चन्यत्तैयुम्, 
++++(परिभावकोक्ति-स्मारितम्)+++ सर्वतोमुखमाऩ **आकिञ्चन्यत्तैयुम्**, 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-सर्वतो-मुखम् आकिञ्चन्यम्  
++++(परिभावकोक्ति-स्मारितम्)+++ सर्वतो-मुखम् **आकिञ्चन्यम्**  
 </details>
 
 <details><summary>English</summary>
@@ -747,18 +753,26 @@ que siente que es indigente de upāyas de cualquier tipo,
 सर्वतोमुखमाऩ आकिञ्चन्यत्तैयुम्, 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+उपकार-स्मृति नडैय्-आडिऱ्ऱ् आगिल्  
+परिभावकर् सॊल्लुम् तऩ्ऩुडैय अमर्यादत्वाज्ञत्वादि दोष ज्ञानत्ताल्  
+सर्वतोमुखम् आऩ आकिञ्चन्यत्तैय् उडैय तऩ् स्वरूपत्तिल् निष्ठैयुण्ड् ऎऩ्ऱऱियलाम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वतस् सर्व-समऩ् आय्  
 कर्मानुरूप फल-प्रदऩ् आऩ स्व-तन्त्र-शेषिक्कु  
 इष्ट-विनियोगार्हम् आम् बडि  
-अनन्यार्ह-शेषत्व-पारतन्त्र्यङ्गळैयुम्,
+अनन्यार्ह-**शेषत्व-पारतन्त्र्यङ्गळैयुम्**,
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 स्वतः सर्व-समस्य कर्मानुरूप-फल-प्रदस्य स्व-तन्त्र-शेषिण  
-इष्ट-विनियोगार्हतापादके अनन्यार्ह-शेषत्व-पारतन्त्र्ये,  
+इष्ट-विनियोगार्हतापादके अनन्यार्ह-**शेषत्व-पारतन्त्र्ये**,  
 </details>
 
 <details><summary>English</summary>
@@ -788,23 +802,402 @@ y quien es el Śeṣī independiente, para quien todo lo demás existe
 स्वतस्सर्वसमऩाय् कर्मानुरूप फलप्रदऩाऩ स्वतन्त्रशेषिक्कु इष्टविनियोगार्हमाम्बडि अनन्यार्हशेषत्वपारतन्त्र्यङ्गळैयुम्,
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+निर्विकारचित्ततै नडैयाडिऱ्ऱागिल् स्वतन्त्रशेषिक्कु इष्टविनियोगमाम्बडि अनन्यार्हशेषत्वपारतन्त्र्यङ्गळै युडैय तऩ् स्वरूपत्तिल् निष्ठैयुण्डॆऩ्ऱऱियलाम्।  
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-‘‘यद्धितं मम देवेश’’(जितन्तास्तोत्रम् १-१८।) इत्यादि कळिऱ्पडिये पराधीनहितसिद्धियैयुम् 
+> (क्वाहम् अत्यन्त-दुर्बद्धिः  
+क्व चात्महित-वीक्षणम् ।)  
+‘‘यद् +धितं मम देवेश’’  
+(तद् **आज्ञापय** माधव ॥)  
+(जितन्ता-स्तोत्रम् १-१८।)  
+
+इत्य्-आदि कळिऱ्-पडिये **पराधीन-हित-सिद्धियैयुम्** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> (क्वाहम् अत्यन्त-दुर्बद्धिः  
+क्व चात्महित-वीक्षणम् ।)  
+‘‘यद् +धितं मम देवेश’’  
+(तद् **आज्ञापय** माधव ॥)  
+(जितन्ता-स्तोत्रम् १-१८।)  
+
+इत्य्-आद्य्-उक्त-रीत्या  
+**पराधीन-हित-सिद्धिं** च  
+</details>
+
+<details><summary>English</summary>
+
+and that he understands that his good  
+can arise only from the will of another (i.e.) the Lord, 
+
+as has been pointed out in the śloka; 
+
+> “Where am I who am so full of evil thoughts?  
+Where is the possibility of my seeking what is good to me?  
+Therefore, O Thou, that controllest the gods!  
+Direct me to do whatever is good for me, O Madhava!"
+</details>
+
+<details><summary>Español</summary>
+
+y que entiende que su bien  
+puede surgir solo de la voluntad de otro (es decir) el Señor,
+
+Como se ha señalado en el Śloka;
+
+> “¿Dónde estoy, que estoy tan lleno de pensamientos malvados?  
+¿Dónde está la posibilidad de mi búsqueda de lo que es bueno para mí?  
+¡Por lo tanto, oh tú, que controlan a los dioses!  
+¡Diríame a hacer lo que sea bueno para mí, oh Madhava! "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यद्धितं मम देवेश’’(जितन्ता-स्तोत्रम् १-१८।) इत्यादि कळिऱ्पडिये पराधीनहितसिद्धियैयुम् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सन्तोषम् नडैयाडिऱ्ऱागिल् ‘‘यद्धितं मम देवेश’’ इत्यादिगळिऱ्पडिये पराधीनहितसिद्धियै युडैय तऩ् स्वरूपत्तिल् निष्ठैयुण्डॆऩ्ऱऱियलाम्।  
+इन्द क्रमम् ‘‘अचिद्वैलक्षण्यत्तैयुम्' इत्यादियाय् ‘‘निष्ठैयुण्डॆऩ्ऱऱियलाम्' इत्यन्तमाऩ ग्रन्थङ्गळिले विवक्षितम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… उडैय तऩ् स्वरूपत्तिले निष्ठैय् उण्ड् ऎऩ्ऱ् अऱियलाम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+… बिभ्राणे स्व-स्वरूपे निष्ठाऽस्तीति अभिज्ञायेत । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उडैय तऩ् स्वरूपत्तिले निष्ठैयुण्डॆऩ्ऱऱियलाम्। 
+</details>
+
+
+## उपाय-निष्ठा
+<details><summary>English</summary>
+
+II THE NISHTĀ CONCERNING UPĀYA :
+</details>
+
+<details><summary>Español</summary>
+
+II El nishtā sobre upāya:
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+- भगवद्-व्यतिरिक्तराऩ ताऩुम् स्वेतरऩुम्  
+  तऩक्कु तञ्जऩिल्लै ऎऩ्गिऱ बुद्धियुम्,  
+- मरणपर्यन्तहेतुक्कळ् उपस्थितङ्गळ् आऩालुम्  
+  करैदल् अऩ्ऱिक्के इरुक्कैयुम्,  
+- अभिमतम् किट्ट् उगिऱद् ऎऩ्ऱु प्रीतऩ् आय् इरुक्कुगैयुम्,  
+- रक्षकावष्टम्भत्ताल् उण्डाऩ धैर्यमुम्,  
+- भरन्यास-विषयत्तिल् स्वयत्नम् अऱ्ऱ् इरुक्कैयुम्,  
+- फलविषयत्तिल् अवऩ् कै पार्त्तु निऱ्कैयुम्  
+
+उपायत्तिल् स्वनिष्ठाभिज्ञानत्तिऱ्कु लिङ्गङ्गळ्।  
+
+अवैगळै यडैवे उपपादिक्किऱार् सर्वेश्वरऩैयॊऴिय इत्यादियाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्वेश्वरऩैय् ऒऴियत्  
+ताऩुम्, पिऱरुन्  
+तऩक्कुत् तञ्जम् अऩ्ऱ् 
+
+ऎऩ्गिऱ बुद्धियुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> सर्वेश्वरं विना  
+स्वात्मा च परे च  
+स्वस्य न रक्षका 
+
+इति बुद्धिः,  
+
+[[१९२]]  
+</details>
+
+
+<details><summary>English</summary>
+
+(1) He understands that, for him, there is no protection from himself or from others  
+and that Iśvara is his only Protector : 
+</details>
+
+<details><summary>Español</summary>
+
+(1) Comprende que, para él, no hay protección de sí mismo o de los demás  
+y que Iśvara es su único protector:
 </details>
 
 <details><summary>मूलम्</summary>
 
-‘‘यद्धितं मम देवेश’’(जितन्तास्तोत्रम् १-१८।) इत्यादि कळिऱ्पडिये पराधीनहितसिद्धियैयुम् 
+सर्वेश्वरऩैयॊऴियत् ताऩुम् पिऱरुन्दऩक्कुत् तञ्जमऩ्ऱॆऩ्गिऱ बुद्धियुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मृत्युपर्यन्तम् आऩ भयहेतुक्कळैक् कण्डालुम् 
+
+> ‘‘प्रायेणाकृत-कृत्यत्वान्  
+> मृत्योर् उद्विजते जनः ।  
+> कृत-कृत्याः प्रतीक्षन्ते  
+> मृत्युं प्रियम् इवातिथिम्’’  
+> (इतिहास-समुच्चयः ७-३८) 
+
+ऎऩ्गिऱ बडिये  
+
+> "इश्-शरीरानन्तरम् ऎऩ् बडप् पुगुगिऱोम्"  
+
+ऎऩ्गिऱ करैदल् अऱ्ऱु  
+अभिमतासक्तियाले प्रीतऩाय् इरुक्कैयुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मृत्यु-पर्यन्त-भय-हेतु-दर्शनेऽपि 
+
+> ‘‘प्रायेणाकृत-कृत्यत्वान्  
+> मृत्योर् उद्विजते जनः ।  
+> कृत-कृत्याः प्रतीक्षन्ते  
+> मृत्युं प्रियम् इवातिथिम्’’  
+> (इतिहास-समुच्चयः ७-३८) 
+
+इत्य्-उक्त-रीत्या  
+एतच्-छरीरानन्तरं किं दुःखम् अनुभविष्याम इत्य् उद्वेगं हित्वा   
+अभिमतासत्त्या संप्रीततया ऽवस्थानम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+(2) Though he is confronted with causes of fear even to the extent of death,  
+he does not bewail his state  
+and feels satisfied as at the approach of what is desirable,  
+for it has been said: 
+
+> "People are 'generally afraid of Death  
+> because they have not done what they should have done ;  
+> those who have done what they should do  
+> expect Death as if he were a welcome guest" 
+
+</details>
+
+<details><summary>Español</summary>
+
+(2) Aunque se enfrenta a causas de miedo incluso a la medida de la muerte,  
+El no lamenta su estado  
+y se siente satisfecho con el enfoque de lo que es deseable,  
+porque se ha dicho:
+
+> "La gente generalmente tiene miedo a la muerte  
+> Porque no han hecho lo que deberían haber hecho;  
+> Aquellos que han hecho lo que deben hacer  
+> Espere la muerte como si fuera un invitado bienvenido "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मृत्युपर्यन्तमाऩ भयहेतुक्कळैक् कण्डालुम् ‘‘प्रायेणाकृतकृत्यत्वान्मृत्योरुद्विजते जनः । कृतकृत्याः प्रतीक्षन्ते मृत्युं प्रियमिवातिथिम्’’(इतिहास-समुच्चयः ७-३८) ऎऩ्गिऱबडिये इश्शरीरानन्तरम् ऎऩ्बडप्पुगुगिऱोमॆऩ्गिऱ करैदलऱ्ऱु अभिमतासक्तियाले प्रीतऩायिरुक्कैयुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रायेणेति ।  
+मृत्योरुद्विजते जनः - मरणत्तिल् निऩ्ऱुम् कृतोपायऩिल्लाद जनम् उद्वेगत्तै अडैगिऱदु। इन्द उद्वेगप्रकारम् - इश्शरीरानन्तरम् ऎऩ्बडप्पुगुगिऱोमॆऩ्ऱु विवरिक्कप्पडुगिऱदु। कृतकृत्याः – अनुष्ठितोपायर्गळ्, मृत्युं – मरणत्तै, प्रियमतिथिमिव प्रतीक्षन्ते – कदा आयास्यतीति अभिमतासत्तियाले प्रतीक्षन्त इत्यर्थः ।  
+इदु "अभिमतासत्तियाले प्रीतऩायिरुक्कैयुम्" ऎऩ्बदाले विवरिक्कप्पडुगिऱदुऒरुवऩुक्कु स्वानुष्ठितोपायत्तिल् निष्ठैयुण्डाऩाल्, अदावदु - इदु यथावदनुष्ठितम्, इदऱ्कु मोक्षरूपफलम् अवश्यम्भावि ऎऩ्गिऱ निर्णयमुण्डाऩाल् अवऩुक्कु शरीरवियोगानन्तरं अनभिमतमाऩ फलम् वरुमो ऎऩ्गिऱ पयमिरादिऱे। अदिल्लामैयोडु कूड मोक्षरूपमहापुरुषार्थम् समीपकालत्तिलेये सिद्धिक्कप्पोगिऱदॆऩ्गिऱ हर्षमुम् उण्डागु मागैयाल् अदऩाल् उपायनिष्ठैयै अनुमिक्कलामॆऩ्ऱु तिरुवुळ्ळम्।  
+सर्वज्ञऩाय् सर्वशक्तियायिरुक्किऱ भगवाऩै नीये रक्षकऩागवेण्डुमॆऩ्ऱु वरित्तु भरत्तै समर्पित्तोम् अवऩुडैय आदरणम् इरुक्कुम्बोदु नमक्कु फलसिद्धि अवश्यं भावि ऎऩ्गिऱ नम्बिक्कै महाविश्वास इति यावत् ऒरुवऩुक्कु इरुन्दाल् अदै रक्षकावष्टम्भत्तालुण्डाऩ तेऱ्ऱमॆऩ्गिऱदु। इदु ऒरु उपायनिष्ठाज्ञापकलिङ्गम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘गजं वा **वीक्ष्य** सिंहं वा  
+> व्याघ्रं वाऽपि वरानना ।  
+> **नाहारयति** संत्रासं  
+> बाहू रामस्य संश्रिता’’  
+> (रामा अयोध्या-६०-२०।) +++(5)+++
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘गजं वा **वीक्ष्य** सिंहं वा  
+> व्याघ्रं वाऽपि वरानना ।  
+> **नाहारयति** संत्रासं  
+> बाहू रामस्य संश्रिता’’  
+> (रामा अयोध्या-६०-२०।) +++(5)+++
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+"The beautiful Sītā, resting on the arm of ŚrīRāma,  
+was not afraid at the sight of the elephant, the lion or the tiger (when she was with him in the forest)" 
+</details>
+
+<details><summary>Español</summary>
+
+"La hermosa sītā, descansando sobre el brazo de Śrīrāma,  
+no tenía miedo al ver al elefante, al león o al tigre (cuando ella estaba con él en el bosque) "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘गजं वा वीक्ष्य सिंहं वा व्याघ्रं वाऽपि वरानना । नाहारयति संत्रासं बाहू रामस्य संश्रिता’’(रामा अयोध्या-६०-२०।) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदै पिराट्टि नडत्तिक्काट्टिऩाळ् ऎऩ्बदिल् प्रमाणमरुळिच्चॆय्गिऱार् गजं वा वीक्ष्यसिंहमिति । इदिल् ‘‘बाहू रामस्य संश्रिता’’ ऎऩ्ऱु रक्षकावष्टम्भमुम्,  
+‘‘नाहारयति सन्त्रासं’’ ऎऩ्ऱु अदऩालुण्डाऩ तेऱ्ऱमुम् सॊल्लप्पडुगिऱदु।  
 </details>
 
 
 
-and that he understands that his good can arise only from the will of another (i.e.) the Lord, as has been pointed out in the śloka; “Where am I who am so full of evil thoughts? Where is the possibility of my seeking what is good to me? Therefore, O Thou, that controllest the gods! Direct me to do whatever is good for me, O Madhava!"
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-II THE NISHTĀ CONCERNING UPĀYA :
+> ‘‘अ-सन्देशात्तु रामस्य  
+> तपसश् चानुपालनात् ।  
+> **न** त्वा **कुर्मि** दश-ग्रीव  
+> भस्म भस्मार्ह तेजसा’’  
+> (रामा सुन्दर २२-२०) 
 
-If, in him, these features that follow are found, the man who has performed prapatti may infer that he is in the proper state in relation to the knowledge concerning the upāya (1) He under. stands that, for him, there is no protection from himself or from others and that Iśvara is his only Protector : (2) Though he is confronted with causes of fear even to the extent of death, he does not bewail his state and feels satisfied as at the approach of what is desirable, for it has been said: "People are 'generally afraid of Death because they have not done what they should have done ; those who have done what they should do expect Death as if he were a welcome guest" (3) He has the perfect confidence of having found a Saviour. Sītā Devi taught this by her example. "The beautiful Sītā, resting on the arm of ŚrīRāma, was not afraid at the sight of the elephant, the lion or the tiger (when she was with him in the forest)" She said to Ravana:-O Thou '(Rākṣasa) with ten heads that deservest to be reduced to ashes! because I have not obtained ŚrīRāma's permission and because I have to cherish my tapas as a pativratā (a wife devoted to her husband), I do not burn thee to ashes by the flame (of my chastity) and likewise, "if Rāma who can destroy the forces of his enemies fills Lanka with his arrows and take me away from here, it will be in keeping with his character." In respect of the object for which he has made bharanyāsa, the prapanna is without any (further) effort of his own (to save himself). In that matter, he realises that the removal of what is evil and the attainment of what is good are in the Lord's hands alone. If he has these features, it may be inferred that he is steadfastly fixed in the upāya which he has sought and which is the means of obtaining all the benefits desired by him, which is prescribed as an upāya in the first half of the Carama śloka , which is to be thought of in the first part of Dvaya and which is implicit also in the middle word of Tirumantra (namo).
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘अ-सन्देशात्तु रामस्य  
+> तपसश् चानुपालनात् ।  
+> **न** त्वा **कुर्मि** दश-ग्रीव  
+> भस्म भस्मार्ह तेजसा’’  
+> (रामा सुन्दर २२-२०) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+(She said to Ravana:-)
+
+> O Thou (Rākṣasa) with ten heads that deservest to be reduced to ashes!  
+> because I have not obtained ŚrīRāma's permission  
+> and because I have to cherish my tapas as a pativratā (a wife devoted to her husband),  
+> I do not burn thee to ashes by the flame (of my chastity) 
+</details>
+
+<details><summary>Español</summary>
+
+(Ella le dijo a Ravana :-)
+
+> ¡Oh, (Rākṣasa) con diez cabezas que merecen ser reducidas a cenizas!  
+> Porque no he obtenido el permiso de Śrīrāma  
+> Y porque tengo que apreciar mis tapas como pativratā (una esposa dedicada a su esposo),  
+> No te quito las cenizas por la llama (de mi castidad)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘असन्देशात्तु रामस्य तपसश्चानुपालनात् । न त्वा कुर्मि दशग्रीव भस्म भस्मार्हतेजसा’’(रामा सुन्दर २२-२०) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ताऩ् भरन्यासम् पण्णिऩ विषयत्तिल् स्वयत्न मऱ्ऱिरुक्कै ऒरु उपायनिष्ठा ज्ञापकलिङ्गम्। इदै पिराट्टि नडत्तिक्काट्टिऩाळ् ऎऩ्बदिल् प्रमाणमरुळिच्चॆय्गिऱार् असन्देशादिति । रामस्य – रामऩुडैय, असन्देशात् – अनुज्ञैयिल्लामैयालुम्, रामानुज्ञैयिल्लाविट्टालुम् उऩ्ऩिष्टप्पडि सॆय्यलागादो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् तपस इति । तपसः – पातिव्रत्यरूपमाऩ तपस्सिऩुडैय, पतिपारतन्त्र्यरूपतपस्सिऩुडैय ऎऩ्ऱबडि। अनुपालनाच्च – संरक्षणत्तालेयुम्, इङ्गु चकारम् उक्तसमुच्चायकम्, संरक्ष्यमाणस्य अवश्यं कर्तव्यत्वात् ऎऩ्ऱबडि। भस्मार्ह – भस्मीकर्तुं योग्यऩाऩ, भस्मीकरणनिमित्तमाऩ महापराधत्तै युडैयवऩाऩ, दशग्रीव – पत्तु तलैयैप्पडैत् तोमॆऩ्ऱु अहङ्कारप्पडुम् रावणऩे! तेजसा – पातिव्रत्यरूपतेजस्साले, त्वा – इप्पडि अपराधप्पट्टु ऎदिरिलिरुक्कुम् उऩ्ऩै, भस्म न कुर्मि – भस्मनकरोमीत्यर्थः । कुर्मि ऎऩ्ऱु आर्षम् रूपव्यत्ययम्।  
+इदऩाल् फलत्तिल् स्वयत्नविरति सॊल्लप्पट्टदु अन्द फलत्तिल् अनिष्टनिवृत्तियुम् इष्टप्राप्तियुम् अवऩ् कैयदे ऎऩ्ऱिरुक्कै ऒरु उपायनिष्ठाज्ञापकलिङ्गम्।+++(5)+++  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘शरैस्तु सङ्कुलां कृत्वा  
+> लङ्कां पर-बलार्दनः ।  
+> मान् नयेद् यदि काकुत्स्थस्  
+> तत् तस्य सदृशं भवेत्’’  
+> (रामा सुन्दर ३९-३०) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘शरैस्तु सङ्कुलां कृत्वा  
+> लङ्कां पर-बलार्दनः ।  
+> मान् नयेद् यदि काकुत्स्थस्  
+> तत् तस्य सदृशं भवेत्’’  
+> (रामा सुन्दर ३९-३०) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+and likewise, 
+
+> "if Rāma who can destroy the forces of his enemies fills Lanka with his arrows  
+> and take me away from here,  
+> it will be in keeping with his character." 
+
+</details>
+
+<details><summary>Español</summary>
+
+Y de la misma manera,
+
+> "Si Rāma, que puede destruir las fuerzas de sus enemigos, llena a Lanka con sus flechas  
+> y llévame de aquí  
+> Estará de acuerdo con su personaje ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘शरैस्तु सङ्कुलां कृत्वा लङ्कां परबलार्दनः । मान्नयेद्यदि काकुत्स्थस्तत्तस्य सदृशं भवेत्’’(रामा सुन्दर ३९-३०) ऎऩ्ऱुम् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदै पिराट्टि नडत्तिक्काट्टिऩाळॆऩ्बदिल् प्रमाणमरुळिच्चॆय्गिऱार् शरैस्तु सङ्कुलामिति । सङ्कुलां – व्याकुलां, इन्द श्लोकत्तिल् पूर्वार्द्धत्ताले अनिष्टनिवृत्तिरक्षकाधीनम् ऎऩ्गिऱ बुद्धियुम् उत्तरार्द्धत्ताले इष्टप्राप्तियुम् तदधीनमॆऩ्गिऱ बुद्धियुम् सॊल्लप्पडुगिऱदु। 
+</details>
+
+
+
+If, in him, these features that (were listed)~~follow~~ are found, the man who has performed prapatti may infer that he is in the proper state in relation to the knowledge concerning the upāya 
+
+(3) He has the perfect confidence of having found a Saviour. Sītā Devi taught this by her example. 
+
+
+
+
+
+
+In respect of the object for which he has made bharanyāsa, the prapanna is without any (further) effort of his own (to save himself). In that matter, he realises that the removal of what is evil and the attainment of what is good are in the Lord's hands alone. If he has these features, it may be inferred that he is steadfastly fixed in the upāya which he has sought and which is the means of obtaining all the benefits desired by him, which is prescribed as an upāya in the first half of the Carama śloka , which is to be thought of in the first part of Dvaya and which is implicit also in the middle word of Tirumantra (namo).
+
 
 III THE NISHTĀ CONCERNING PURUSHĀRTHA:
 
