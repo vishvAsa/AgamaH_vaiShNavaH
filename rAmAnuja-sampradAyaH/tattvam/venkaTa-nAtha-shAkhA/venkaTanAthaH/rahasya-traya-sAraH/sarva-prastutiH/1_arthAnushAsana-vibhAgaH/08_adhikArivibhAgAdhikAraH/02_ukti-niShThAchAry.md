@@ -74,7 +74,7 @@ the forms known as Uktiniṣṭhā (by one's utterance) and ācārya niṣṭhā
 "अपेक्षित्ताल् रक्षिक्कुम्" ऎऩ्गिऱ विश्वासमुम्  
 उडैयर् आय्क् कॊण्डु  
 
-शरण्यऩ् अऱिय पूर्ण-प्रपत्ति-गर्भम् आऩ आचार्योपदिष्ट-वाक्यत्ताले  
++++(अन्तर्यामीतर-रूप-)+++शरण्यऩ् अऱिय पूर्ण-प्रपत्ति-गर्भम् आऩ आचार्योपदिष्ट-वाक्यत्ताले  
 धाति+++(त्रि)+++मार् सॊऩ्ऩ पा-सुरत्तैच् चॊल्लि  
 सार्वभौमनै शरणम् पुगुम् मुग्धर् आऩ सामन्त-कुमारर्गळैप् पोलेय्  
 "ऎऩ्ऩ्-उडैय रक्षैय् उनक्के भरम् आगव् एऱ्+++(=स्वीकार)+++-इट्टुक्-कॊळ्ळ वेणुम्" ऎऩ्गै.
@@ -87,7 +87,7 @@ the forms known as Uktiniṣṭhā (by one's utterance) and ācārya niṣṭhā
 तं विनोपायान्तर-शून्यतया ऽवस्थिति-रूपम् अधिकारम्,  
 अपेक्षायां कृतायां रक्षेद् इति विश्वासं च, वहद्भिः  
 
-शरण्य-विदितत्वात्, पूर्ण-प्रपत्ति-गर्भेण आचार्योपदिष्ट-वाक्येन —–  
++++(अन्तर्यामीतर-रूप-)+++शरण्य-विदितत्वात् +++(→तद्-रीत्या)+++, पूर्ण-प्रपत्ति-गर्भेण आचार्योपदिष्ट-वाक्येन —–  
 धात्र्य्-उक्त-वाक्यम् उक्त्वा सार्वभौमं शरणं गच्छद्भिर् मुग्धैः सामन्त-कुमारैर् इव  
 'मद्-रक्षा त्वद्-एक-भरत्वेन स्वीकर्तव्या' इति प्रार्थनम् । 
 </details>
@@ -99,6 +99,7 @@ Those who have no clear knowledge of auxiliaries (aṅga),
 such as the determination to do what is agreeable (to the Lord),  
 but who possess the qualification of knowing that, without the Lord, they have no other means (ākinchanya)  
 and who have also the faith (viśvāsa) that He will grant salvation if prayed to -  
+
 they pronounce, before the Saviour,  
 the sentence taught to them by their ācārya s,  
 which will be considered by the Lord as equivalent to perfect prapatti;  
@@ -497,6 +498,13 @@ Thee who canst not be attained by bhakti."
 (श्रीरङ्गराजस्तवम् 2-102.)
 
 इति समुच्चित्यानुसंदधिरे ।
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+अनेन द्विर् भरसमर्पणं कृतं वेति प्रश्न उदेति।  
+नेति लक्ष्मीनरसिंहार्यः - सकृद् एव कस्यचिद् अपि वस्तुनः समर्पणार्हत्वात्।  
+तेनोपदेशपरोऽयं श्लोक इति।
 </details>
 
 <details><summary>English</summary>
