@@ -814,7 +814,7 @@ y quien es el Śeṣī independiente, para quien todo lo demás existe
 क्व चात्महित-वीक्षणम् ।)  
 ‘‘यद् +धितं मम देवेश’’  
 (तद् **आज्ञापय** माधव ॥)  
-(जितन्ता-स्तोत्रम् १-१८।)  
+(जितन्ते-स्तोत्रम् १-१८।)  
 
 इत्य्-आदि कळिऱ्-पडिये **पराधीन-हित-सिद्धियैयुम्** 
 </details>
@@ -825,7 +825,7 @@ y quien es el Śeṣī independiente, para quien todo lo demás existe
 क्व चात्महित-वीक्षणम् ।)  
 ‘‘यद् +धितं मम देवेश’’  
 (तद् **आज्ञापय** माधव ॥)  
-(जितन्ता-स्तोत्रम् १-१८।)  
+(जितन्ते-स्तोत्रम् १-१८।)  
 
 इत्य्-आद्य्-उक्त-रीत्या  
 **पराधीन-हित-सिद्धिं** च  
@@ -860,7 +860,7 @@ Como se ha señalado en el Śloka;
 
 <details><summary>मूलम्</summary>
 
-‘‘यद्धितं मम देवेश’’(जितन्ता-स्तोत्रम् १-१८।) इत्यादि कळिऱ्पडिये पराधीनहितसिद्धियैयुम् 
+‘‘यद्धितं मम देवेश’’(जितन्ते-स्तोत्रम् १-१८।) इत्यादि कळिऱ्पडिये पराधीनहितसिद्धियैयुम् 
 </details>
 
 <details><summary>सायण-टीका</summary>
@@ -898,6 +898,22 @@ II THE NISHTĀ CONCERNING UPĀYA :
 
 II El nishtā sobre upāya:
 </details>
+
+
+<details><summary>English</summary>
+
+If, in him, these features that follow are found,  
+the man who has performed prapatti may infer that  
+he is in the proper state in relation to the knowledge concerning the upāya.
+</details>
+
+<details><summary>Español</summary>
+
+Si, en él, se encuentran estas características que siguen,  
+el hombre que ha realizado Prapatti puede inferir que  
+está en el estado apropiado en relación con el conocimiento sobre el upāya.
+</details>
+
 
 <details><summary>सायण-टीका</summary>
 
@@ -987,7 +1003,6 @@ y que Iśvara es su único protector:
 एतच्-छरीरानन्तरं किं दुःखम् अनुभविष्याम इत्य् उद्वेगं हित्वा   
 अभिमतासत्त्या संप्रीततया ऽवस्थानम्, 
 </details>
-
 
 <details><summary>English</summary>
 
@@ -1185,23 +1200,461 @@ Y de la misma manera,
 इदै पिराट्टि नडत्तिक्काट्टिऩाळॆऩ्बदिल् प्रमाणमरुळिच्चॆय्गिऱार् शरैस्तु सङ्कुलामिति । सङ्कुलां – व्याकुलां, इन्द श्लोकत्तिल् पूर्वार्द्धत्ताले अनिष्टनिवृत्तिरक्षकाधीनम् ऎऩ्गिऱ बुद्धियुम् उत्तरार्द्धत्ताले इष्टप्राप्तियुम् तदधीनमॆऩ्गिऱ बुद्धियुम् सॊल्लप्पडुगिऱदु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पिराट्टि नडत्तिक्काट्टिऩ **रक्षकावष्टंभत्ताल्** उळ्ळ **तेऱ्ऱमुम्**+++(=समाश्वासः)+++, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+श्रीजानक्या अनुष्ठाय प्रदर्शित-रीतिकेन **रक्षकावष्टम्भेन** जातः **समाश्वासः**, 
+</details>
 
 
-If, in him, these features that (were listed)~~follow~~ are found, the man who has performed prapatti may infer that he is in the proper state in relation to the knowledge concerning the upāya 
+<details><summary>English</summary>
+
+(3) Tiene la confianza perfecta de haber encontrado un salvador.  
+Sītā Devi enseñó esto por su ejemplo.
+</details>
+
+<details><summary>Español</summary>
 
 (3) He has the perfect confidence of having found a Saviour. Sītā Devi taught this by her example. 
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+पिराट्टि नडत्तिक्काट्टिऩ रक्षकावष्टंभत्तालुळ्ळ तेऱ्ऱमुम्, 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताऩ् भरन्यासम् पण्णिऩ +++(फलस्य)+++ विषयत्तिल् स्व-यत्नम् अऱ्ऱ् इरुक्कैयुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-कृत--भर-न्यास--फल-विषये स्व-यत्न-राहित्यम्, 
+</details>
 
 
-In respect of the object for which he has made bharanyāsa, the prapanna is without any (further) effort of his own (to save himself). In that matter, he realises that the removal of what is evil and the attainment of what is good are in the Lord's hands alone. If he has these features, it may be inferred that he is steadfastly fixed in the upāya which he has sought and which is the means of obtaining all the benefits desired by him, which is prescribed as an upāya in the first half of the Carama śloka , which is to be thought of in the first part of Dvaya and which is implicit also in the middle word of Tirumantra (namo).
+<details><summary>English</summary>
 
+In respect of the object for which he has made bharanyāsa,  
+the prapanna is without any (further) effort of his own (to save himself). 
+</details>
+
+<details><summary>Español</summary>
+
+Con respecto al objeto por el que ha hecho bharanyāsa,  
+La Prapanna no tiene ningún esfuerzo (más) propio (para salvarse).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ताऩ् भरन्यासम् पण्णिऩ विषयत्तिल् स्वयत्नमऱ्ऱिरुक्कैयुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अदिल् अन्-इष्ट-निवृत्तियुम्  
+इष्ट-प्राप्तियुम् अवऩ्-कैयदेय् 
+
+ऎऩ्ऱ् इरुक्कैयुम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्रानिष्टनिवृतिर् इष्ट-प्राप्तिश् च  
+तद्-धस्ताधीने इति विस्रम्भश्च  
+
+</details>
+
+<details><summary>English</summary>
+
+In that matter, he realises that the removal of what is evil  
+and the attainment of what is good  
+are in the Lord's hands alone. 
+</details>
+
+<details><summary>Español</summary>
+
+En ese asunto, se da cuenta de que la eliminación de lo que es mal  
+y el logro de lo que es bueno  
+están en las manos del Señor solas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिल् अनिष्टनिवृत्तियुमिष्टप्राप्तियुम् अवऩ्गैयदे यॆऩ्ऱिरुक्कैयुम्  
+</details>
+
+
+### उपाय-विशेषाः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+… उण्ड् आय् इऱ्ऱागिल्  
+ताऩ् कोलिऩ स-कल-फलत्तुक्कुम् साधनम् आगव् अऱ्ऱ् आय्  
+चरम-श्लोकत्तिल् पूर्वार्धत्तिले विहितम् आय्  
+द्वयत्तिल् पूर्व-खण्डत्तिल् अनुसन्धेयम् आय्  
+तिरु-मन्त्रत्तिल् मध्यम-पदत्तिलुम् विवक्षितम् आऩ उपायत्तिल्  
+
+तऩक्कु निष्ठैय् उण्ड् ऎऩ्ऱ् अऱियल् आम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+… वर्तेरंश् चेत् —  
+स्वोद्दिष्ट-सकल-फल-साधने  
+चरम-श्लोक-पूर्व-खण्ड-विहिते,  
+द्वय-पूर्व-खण्डे ऽनुसन्धेये,  
+श्री-मन्त्र-मध्यम-पद-विवक्षिते उपाये  
+स्वस्य निष्ठाऽस्तीति सुखम् अभिज्ञातुम् । 
+</details>
+
+<details><summary>English</summary>
+
+If he has these features,  
+it may be inferred that he is steadfastly fixed in the upāya which he has sought  
+and which is the means of obtaining all the benefits desired by him,  
+which is prescribed as an upāya in the first half of the Carama śloka,  
+which is to be thought of in the first part of Dvaya  
+and which is implicit also in the middle word of Tirumantra (namo).
+</details>
+
+<details><summary>Español</summary>
+
+Si tiene estas características,  
+Se puede inferir que se fija firmemente en el upāya que ha buscado  
+y cuál es el medio para obtener todos los beneficios deseados por él,  
+que se prescribe como un upāya en la primera mitad del carama Śloka,  
+que se debe pensar en la primera parte de Dvaya  
+y que está implícito también en la palabra media de tirumantra (namo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उण्डायिऱ्ऱागिल् ताऩ् कोलिऩ सकलफलत्तुक्कुम् साधनमागवऱ्ऱाय्  
+चरमश्लोकत्तिल् पूर्वार्धत्तिले विहितमाय् द्वयत्तिल् पूर्वखण्डत्तिल् अनुसन्धेयमाय् तिरुमन्त्रत्तिल् मध्यमपदत्तिलुम् विवक्षितमाऩ उपायत्तिल् तऩक्कु निष्ठैयुण्डॆऩ्ऱऱियलाम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ताऩ्गोलिऩ सकलफलत्तुक्कुम् - तऩ्ऩाले अपेक्षितमाऩ प्रारब्धनिवृत्ति मुदलाऩ सर्वफलत्तुक्कुम्, साधनमागवऱ्ऱाय् - साधनमाग समर्थऩाय्, इदऩाल् प्रारब्धकर्मनिवर्तकमिल्लाद भक्तिव्यावृत्ति । चरमश्लोकत्तिल् पूर्वार्द्धत्ताले विहितमाय् - ‘‘मामेकं शरणं व्रज’’ ऎऩ्ऱु विधिक्कप्पट्टदाय्, द्वयत्तिल् पूर्वखण्डत्तिल् अनुसन्धेयमाय् - शरणशब्दोपश्लिष्टप्रपूर्वकपदल् धातुविल् अनुसन्धेयमाय् ऎऩ्ऱबडि। तिरुमन्त्रत्तिल् मद्ध्यमपदत्तिलुम् विवक्षितमाऩ - मद्ध्यमपदम् नमःपदम्। अदिल् ‘‘नमस्कारात्मकं यस्मै विधायात्म-निवेदनं’’ ऎऩ्गिऱ प्रमाणत्ताले विवक्षितमुमाऩ ऎऩ्ऱबडि।  
+
+उपायत्तिले - प्रपत्तिरूपोपायत्तिले, तऩक्कु निष्ठैयुण्डॆऩ्ऱऱियलाम् - तऩक्कु - इन्द अडैयाळङ्गळुळ्ळ तऩक्कु, निष्ठै – अ-वितथ-निविष्ट-स्थिर-मतित्व-रूपम् आऩ स्थिति ।  
+</details>
+
+
+## पुरुषार्थ-निष्ठा
+<details><summary>English</summary>
 
 III THE NISHTĀ CONCERNING PURUSHĀRTHA:
+</details>
 
-It has been said:-- "Of the three, your birth, continuance and perishing, why should you be anxious only about your continuance? In the same way as birth and death come of themselves (without any choice being left to you), your continuance in life also will not depend on anything done by you" and again: "The goddess of Lakṣmī comes, of her own accord, to one who does not exert himself in any way. Another man who makes efforts does not obtain even the food (he wants). This is in accordance with past karma". The prapanna whose understanding is firmly fixed in the purushūrtha would not feel anxious in relation to such things as the maintenance of the body.which are directed by Iśvara in accordance with particular acts of past karma that have begun to operate in this life. He would reflect that, even if he grieved or felt anxious about these things, nothing would happen except according to the will of God, as stated in the following passages:- "Though he flies in the air, or enters the lower world, called Rasatala, or wanders about the whole earth, a man will not obtain what is not ordained for him" and again, “Whatever work is done in the world is work done by me. So others propose but I dispose." When things not forbidden in the śāstras come to him without any seeking of his and by the will of God, the prapanna realises that the debt which has resulted from past karma that has begun to operate is now being discharged. Therefore he enjoys them without trying to avoid them. For it has been said in Parāsaragita and elsewhere - "House-bolders should receive whatever comes to them without any exertion on their part. As regards their dharmas, on the other hand, it is my opinion that they should, in all possible ways, exert themselves
+<details><summary>Español</summary>
+
+III LA NISHTĀ RELATIVA A PURUSHĀRTHA:
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+- देहयात्रादिगळिल् करैदल् अऱ्ऱिक्क् उगैयुम्,  
+- नाम् ऎव्व्-अळवु प्रयासप् पट्टालुम् ईश्वर-सङ्कल्पम् अऩ्ऱियुम्, नाम् कॊडुत्तु वैक्काददुम्, किडैक्काद् ऎऩ्गिऱ नम्बिक्कैयुम्,  
+- शास्त्राविरुद्धम् आय् नम् प्रयत्नम् अऩ्ऱिक्के वरुम् विषयङ्गळै विलक्कादे अनुभविक्कैयुम्, 
+- ऐहिक-पुरुषार्थत्तिऩ् वृद्धि-ह्रासङ्गळिल् हर्ष-शोकम् अऱ्ऱ् इरुक्कैयुम्, 
+- प्राप्य-रुचियुम् 
+- प्राप्तियिल् त्वरैयुम् 
+
+पुरुषार्थत्तिल् निष्ठैय् उण्ड् ऎऩ्ऱ् अऱिगैक्कु लिङ्गङ्गळ्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उत्पत्ति-स्थिति-नाशानां +++(मध्ये)+++  
+स्थितौ +++(एव)+++ चिन्ता कुतस् तव ।  
+यथोत्पत्तिर् यथा-नाशस्  
+स्थितिस् तद्वद् भविष्यति ॥’’+++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘उत्पत्ति-स्थिति-नाशानां +++(मध्ये)+++  
+स्थितौ +++(एव)+++ चिन्ता कुतस् तव ।  
+यथोत्पत्तिर् यथा-नाशस्  
+स्थितिस् तद्वद् भविष्यति ॥’’+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+It has been said:--  
+
+> "Of the three, your birth, continuance and perishing,  
+> why should you be anxious only about your continuance?  
+> In the same way as birth and death come of themselves (without any choice being left to you),  
+> your continuance in life also will not depend on anything done by you" 
+</details>
+
+<details><summary>Español</summary>
+
+Se ha dicho:-
+
+> "De los tres, tu nacimiento, continuación y perecida,  
+> ¿Por qué deberías estar ansioso solo por tu continuación?  
+> De la misma manera que el nacimiento y la muerte vienen de sí mismos (sin que se le quede la opción),  
+> Tu continuación en la vida tampoco dependerá de nada hecho por ti "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘उत्पत्तिस्थितिनाशानां स्थितौ चिन्ता कुतस्तव । यथोत्पत्तिर्यथानाशस्स्थितिस्तद्वद्भविष्यति ॥’’
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩि इवैगळै अडैवे सप्रमाणमाग उपपादिक्किऱार् उत्पत्तीति । उत्पत्तिस्थितिनाशङ्गळुडैय मध्यत्तिल् उत्पत्तिविनाशङ्गळै विट्टु स्थितियिल् मात्तिरम् इदु ऎप्पडि नडक्कुमोवॆऩ्गिऱ चिन्तै उऩक्कु एऩ्? ऎप्पडि उत्पत्तियो, ऎप्पडि नाशमोअप्पडिये उऩ्ऩुडैय चिन्तैयऩ्ऱिक्के स्थितियुमुण्डागप्पोगिऱदु ऎऩ्बदु श्लोकार्थम्। अचेष्टमानमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**अचेष्टमानम्** आसीनं  
+> श्रीः कञ्चिद् **उपतिष्ठति** ।  
+> **कर्मी** कर्मानुसृत्यान्यो  
+> **न** प्राश्यम् **अधिगच्छति** ॥’’  
+> (भारतम् शान्ति-पर्व ३३९-१५) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘**अचेष्टमानम्** आसीनं  
+> श्रीः कञ्चिद् **उपतिष्ठति** ।  
+> +++(प्राक्तन-दुष्-)+++कर्मी +++(प्रयत्नम्←)+++कर्मानुसृत्यान्यो  
+> **न** प्राश्यम् **अधिगच्छति** ॥’’  
+> (भारतम् शान्ति-पर्व ३३९-१५) 
+</details>
+
+<details><summary>English</summary>
+
+and again: 
+
+> "The goddess of Lakṣmī comes, of her own accord,  
+> to one who does not exert himself in any way.  
+> 
+> Another man who makes efforts  
+> does not obtain even the food (he wants).  
+> This is in accordance with past karma". 
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo:
+
+> "La diosa de Lakṣmī viene, por su propia cuenta,  
+> A alguien que no se esfuerza de ninguna manera.  
+> 
+> Otro hombre que hace esfuerzos  
+> No obtiene ni siquiera la comida (él quiere).  
+> Esto está de acuerdo con el karma pasado ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अचेष्टमानमासीनं श्रीः कञ्चिदुपतिष्ठति । कर्मी कर्मानुसृत्यान्यो न प्राश्यमधिगच्छति ॥’’(भारतम् शान्ति-पर्व ३३९-१५) 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अचेष्टमानमासीनं – सम्पत्प्राप्त्यर्थं ऒरु व्यापारमुमऩ्ऱिक्के तूष्णीं इरुक्किऱ, कञ्चित् - ऒरु पुरुषऩै, श्रीः – सम्बत्ताऩदु, उपतिष्ठति - ताऩागवेयडैगिऱदु। कर्मी – बहुव्यापारमुळ्ळ, अन्यः – वेऱॊरुवऩ्। भूम्नि इति प्रत्ययः । कर्म – व्यापारत्तै। अनुसृत्यापि – अडिक्कडि सॆय्दुम्, प्राश्यं - अशनमपि, नाधिगच्छति – अडैगिऱाऩिल्लै। अथवा कर्मानुसृत्य – प्रचीनकर्मानुसारेण न प्राश्यमधिगच्छति ऎऩ्ऩवुमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ पडिये प्रारब्ध-कर्म-विशेषाधीनम् आग  
+ईश्वरऩ् सॆय्युम् देह-यात्रादिगळिल् करैदल्+++(=चिन्तां)+++ अऱ्ऱु
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इत्य्-उक्तरीत्या  
+प्रारब्ध-कर्म-विशेषाधीनतयेश्वरेण कार्यमाणे देह-यात्रादौ चिन्तां त्यक्त्वा,  
+</details>
+
+
+<details><summary>English</summary>
+
+The prapanna whose understanding is firmly fixed in the purushūrtha  
+would not feel anxious in relation to such things as the maintenance of the body  
+which are directed by Iśvara in accordance with particular acts of past karma  
+that have begun to operate in this life. 
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna cuya comprensión se fija firmemente en el Purushūrtha  
+no se sentiría ansioso en relación con cosas como el mantenimiento del cuerpo  
+que están dirigidos por Iśvara de acuerdo con actos particulares de karma pasado  
+que han comenzado a operar en esta vida.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ पडिये प्रारब्धकर्मविशेषाधीनमाग ईश्वरऩ् सॆय्युम् देहयात्रादिगळिल् करैदलऱ्ऱु
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्गिऱबडिये - उत्पत्त्यादिलोकत्तिलुपदेशित्त प्रकारमुम्, ‘‘अचेष्टमानं’’ ऎऩ्गिऱ श्लोकत्तिल् देहयात्रादिगळ् प्राचीनकर्माधीनङ्गळ् ऎऩ्ऱऱिवित्त प्रकारमुम्। इदऱ्कु करैदलऱ्ऱु ऎऩ्बदोडन्वयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ताऩ् करैन्दालुम्  
+
+> ‘‘**उत्पतन्न्** अपि चाकाशं  
+**विशन्न्** अपि रसातलम् ।  
+**अटन्न्** अपि महीं कृत्स्नां  
+**न+अदत्तम् उपतिष्ठते**’’,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वेन चिन्तायां क्रियमाणायामपि, 
+
+> ‘‘**उत्पतन्न्** अपि चाकाशं  
+**विशन्न्** अपि रसातलम् ।  
+**अटन्न्** अपि महीं कृत्स्नां  
+**न+अदत्तम् उपतिष्ठते**’’,
+</details>
+
+
+<details><summary>English</summary>
+
+He would reflect that, even if he grieved or felt anxious about these things,  
+
+> "Though he flies in the air,  
+> or enters the lower world, called Rasatala,  
+> or wanders about the whole earth,  
+> a man will not obtain what is not ordained for him" 
+</details>
+
+<details><summary>Español</summary>
+
+Reflejaría que, incluso si se llenara o se sintiera ansioso por estas cosas,  
+
+
+> "Aunque vuela en el aire,  
+> o ingresa al mundo inferior, llamado Rasatala,  
+> o deambula por toda la tierra,  
+> Un hombre no obtendrá  
+> lo que no está ordenado para él "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ताऩ् करैन्दालुम्  
+‘‘उत्पतन्नपि चाकाशं विशन्नपि रसातलम् ।  
+अटन्नपि महीं कृत्स्नां नादत्तमुपतिष्ठते’’(),
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रयासप्पट्टालुम् जन्मान्तरत्तिल् कॊडुत्तुवैक्काददु सिद्धियादॆऩ्ऩु मिडत्तिल् प्रमाणम् काट्टुगिऱार् ताऩ् करैन्दालुमित्यादिना । उत्पतन्नपीत्यादि । आकाशत्तिल् किळम्बिऩालुम्, पादाळत्तिल् प्रवेशित्तालुम्, भूमियॆल्लाम् तिरिन्दालुम् पूर्वजन्मत्तिल् कॊडुत्तुवैक्काददु वारादु ऎऩ्बदु इदिऩर्थम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘यत् किञ्चिद् वर्तते लोके  
+सर्वं तन् मद्-**विचेष्टितम्** ।  
+अन्यो ह्य् अन्यच् **चिन्तयति**  
+स्व-च्छन्दं **विदधाम्य्** अहम्’’  
+(भारतम् शान्ति-पर्व ३५९-५६।) 
+</details>
+
+<details><summary>English</summary>
+
+and again,  
+
+> “Whatever work is done in the world  
+> is work done by me.  
+> So others propose  
+> but I dispose." 
+
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo,
+
+> “Cualquier trabajo que se haga en el mundo  
+> es el trabajo realizado por mí.  
+> Entonces otros proponen  
+> Pero me pongo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यत्किञ्चिद्वर्तते लोके सर्वं तन्मद्विचेष्टितम् । अन्योह्यन्यच्चिन्तयति स्वच्छन्दं विदधाम्यहम्’’(भारतम् शान्ति-पर्व ३५९-५६।) 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+यत्किञ्चिदित्यादि । लोगत्तिलुळ्ळवैयॆल्लाम् ऎऩ्ऩुडैय सङ्कल्पकार्यम्। मद्व्यतिरिक्तऩ् ऒऩ्ऱै निऩैक्किऱाऩ्। नाऩ् ऎऩ् इष्टप्पडि सॆय्गिऱेऩ् ऎऩ्गै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडिये  
+
+> ईश्वरऩ् निऩैव्-इऩ्ब्-अडिय्-अल्लद् ऒऩ्ऱुम् नडवाद् 
+
+ऎऩ्ऱु प्रतिसन्धानम् पण्णि  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-उक्त-रीत्या  
+"**ईश्वर-संकल्पम्** अननुसृत्य  
+न किञ्चिन् निर्वर्तते"ति प्रतिसन्धाय, 
+</details>
+
+<details><summary>English</summary>
+
+as stated in the above ~~following~~ passages  
+nothing would happen except according to the will of God, 
+
+</details>
+
+<details><summary>Español</summary>
+
+Como se indica en lo anterior ~~ siguiente ~~ pasajes  
+No pasaría nada excepto según la voluntad de Dios,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये ईश्वरऩ् निऩैविऩ्बडियल्लदॊऩ्ऱुम् नडवादॆऩ्ऱु प्रतिसन्धानम् पण्णि  
+</details>
+
+
+
+
+When things not forbidden in the śāstras come to him without any seeking of his and by the will of God, the prapanna realises that the debt which has resulted from past karma that has begun to operate is now being discharged. Therefore he enjoys them without trying to avoid them. For it has been said in Parāsaragita and elsewhere - "House-bolders should receive whatever comes to them without any exertion on their part. As regards their dharmas, on the other hand, it is my opinion that they should, in all possible ways, exert themselves
 
 and fulfil them”, and so also, “The wise man should not be anxious about his food. He should think only of his dharma. Man's food comes to him along with his birtb." Like-wise it has been stated in Ajagaropakhyāna :-"I do not avoid enjoyments which come to me of themselves and which are also in keeping with (my) dharma nor do I seek any enjoyment which can be had only with painful effort."
 
