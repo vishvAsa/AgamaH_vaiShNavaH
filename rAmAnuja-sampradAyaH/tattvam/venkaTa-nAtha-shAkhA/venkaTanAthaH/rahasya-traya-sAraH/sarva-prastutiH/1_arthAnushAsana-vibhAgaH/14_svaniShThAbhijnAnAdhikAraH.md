@@ -1651,14 +1651,388 @@ No pasaría nada excepto según la voluntad de Dios,
 ऎऩ्गिऱबडिये ईश्वरऩ् निऩैविऩ्बडियल्लदॊऩ्ऱुम् नडवादॆऩ्ऱु प्रतिसन्धानम् पण्णि  
 </details>
 
+<details><summary>English</summary>
+
+The prapanna who has attained niṣṭhā in puruṣārtha has neither pleasure nor pain,  :-
+</details>
+
+<details><summary>Español</summary>
+
+La prapanna que ha alcanzado niṣṭhā en puruṣārtha no tiene placer ni dolor: -
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अप्रयत्नागतास् **सेव्या**  
+> गृहस्थैर् विषयास् सदा ।  
+> प्रयत्नेनापि **कर्तव्यः**  
+> स्वधर्म इति मे मतिः ॥’’  
+> (भारतम् शान्ति-पर्व ३०१-३६।) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘अप्रयत्नागतास् **सेव्या**  
+> गृहस्थैर् विषयास् सदा ।  
+> प्रयत्नेनापि **कर्तव्यः**  
+> स्वधर्म इति मे मतिः ॥’’  
+> (भारतम् शान्ति-पर्व ३०१-३६।) 
+</details>
+
+
+<details><summary>English</summary>
+
+> "House-holders should receive whatever comes to them  
+> without any exertion on their part.  
+> As regards their dharmas, on the other hand,  
+> it is my opinion that they should, in all possible ways, exert themselves and fulfil them”, 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los titulares de casas deberían recibir lo que les llegue a  
+> sin ningún esfuerzo de su parte.  
+> En cuanto a sus dharmas, por otro lado,  
+> Es mi opinión que, de todas las formas posibles, deberían ejercerse y cumplirlos ”,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अप्रयत्नागतास्सेव्या गृहस्थैर्विषयास्सदा । प्रयत्नेनापि कर्तव्यः स्वधर्म इति मे मतिः ॥’’(भारतम् शान्ति-पर्व ३०१-३६।) 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩि शास्त्राविरुद्धङ्गळाय् स्वयमागतङ्गळाऩ विषयङ्गळै विलक्कादे अनुभविक्कैयिल् प्रमाणम् काट्टुगिऱार् अप्रयत्नागता इत्यादियाल्। प्रयासमऩ्ऱिक्के ताऩाग वन्द विषयङ्गळ् अवश्यम् सेव्यङ्गळ्। 
+</details>
 
 
 
-When things not forbidden in the śāstras come to him without any seeking of his and by the will of God, the prapanna realises that the debt which has resulted from past karma that has begun to operate is now being discharged. Therefore he enjoys them without trying to avoid them. For it has been said in Parāsaragita and elsewhere - "House-bolders should receive whatever comes to them without any exertion on their part. As regards their dharmas, on the other hand, it is my opinion that they should, in all possible ways, exert themselves
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-and fulfil them”, and so also, “The wise man should not be anxious about his food. He should think only of his dharma. Man's food comes to him along with his birtb." Like-wise it has been stated in Ajagaropakhyāna :-"I do not avoid enjoyments which come to me of themselves and which are also in keeping with (my) dharma nor do I seek any enjoyment which can be had only with painful effort."
+> ‘‘नाहारं **चिन्तयेत्** प्राज्ञो  
+धर्मम् **एवानुचिन्तयेत्** ।  
+आहारो हि मनुष्याणां  
+जन्मना सह जायते ॥’’ +++(4)+++
+</details>
 
-The prapanna who has attained niṣṭhā in puruṣārtha has neither pleasure nor pain, when he meets with or fails to get objects usually desired other than mokṣa , as taught in the following śloka s :-"When one of these two, pleasure and pain, arrives, one should not feel delighted on seeing pleasure nor feel sorrow when one sees pain", and "The man who meditates on the feet of the Lord is not elated at the possession of wealth, nor does he feel dispirited when what he possesses is lost." He has, on the other hand, a great longing for service to the Lord which is suited to his essential nature and which is the supreme aim of his life. This urgent longing for the object to be gained will make him cry out as in Aḷavandār's Stotram und in Śrī Rāmānuja's Gadya, "When, when shall I see, face to face, Bhagavān Nārāyaṇa ? When shall I press his two lotus-like feet on my head?" When such conduct and feeling are seen in the prapanna, it may be inferred that his mind is firmly fixed in regard to the supreme and infinite goal of existence which is indicated, as (an infinitesimal part of) the sea is by the finger, in the dative Nārāyanāya in Tirumantra, in the dative Nārāyanāya and in the word namas in Dvaya and in the sentence "I shall release thee from all sins" in Carama śloka ,
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘नाहारं **चिन्तयेत्** प्राज्ञो  
+धर्मम् **एवानुचिन्तयेत्** ।  
+आहारो हि मनुष्याणां  
+जन्मना सह जायते ॥’’ +++(4)+++
+
+</details>
+ 
+<details><summary>English</summary>
+
+and so also, 
+
+> “The wise man should not be anxious about his food.  
+> He should think only of his dharma.  
+> Man's food comes to him along with his birth." 
+</details>
+
+<details><summary>Español</summary>
+
+Y así también,
+
+> “El hombre sabio no debería estar ansioso por su comida.  
+> Debería pensar solo en su dharma.  
+> La comida del hombre llega a él junto con su nacimiento ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नाहारं चिन्तयेत् प्राज्ञो धर्ममेवानुचिन्तयेत् ।  
+आहारो हि मनुष्याणां जन्मना सह जायते ॥’’
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तऩक्कु विहितधर्ममाऩाल् प्रयासप्पट्टावदु कर्तव्यमॆऩ्बदु श्लोकार्थम्। विषयङ्गळ् ताऩागवे वरुमॆऩ्बदिल् प्रमाणम् नाहारमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु पराशरगीतादिगळिलुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[११३]]
+इति पराशरगीतादिषु, 
+</details>
+
+<details><summary>English</summary>
+
+For it has been said (so) in Parāsaragita and elsewhere;
+</details>
+
+<details><summary>Español</summary>
+
+Porque se ha dicho (así) en Parāsaragita y en otros lugares;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु पराशरगीतादिगळिलुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**न** सन्निपतितं धर्म्यम्  
+उपभोगं यद्-ऋच्छया ।  
+**प्रत्याचक्षे**, **न** चाप्येनम्  
+**अनुरुन्धे** सुदुर्लभम् ॥’’  
+(भारतम् शान्ति-पर्व १७५-५)  
+
+ऎऩ्ऱु अजगरोपाख्यानत्तिलुञ् जॊल्लुगिऱ बडिये  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘**न** सन्निपतितं धर्म्यम्  
+उपभोगं यद्-ऋच्छया ।  
+**प्रत्याचक्षे**, **न** चाप्येनम्  
+**अनुरुन्धे** सुदुर्लभम् ॥’’  
+(भारतम् शान्ति-पर्व १७५-५)  
+
+इत्य् अजगरोपाख्याने चोक्तरीत्या 
+</details>
+
+<details><summary>English</summary>
+
+Like-wise it has been stated in Ajagaropakhyāna :-
+
+> "I do not avoid enjoyments which come to me of themselves  
+> and which are also in keeping with (my) dharma  
+> nor do I seek any enjoyment  
+> which can be had only with painful effort."
+</details>
+
+<details><summary>Español</summary>
+
+Me gusta en cuanto a Ajagaropakhyāna:-  
+
+> "**No evito** los platos que me llegan a sí mismos  
+> y que también están en consonancia con (mi) dharma  
+> **tampoco busco** disfrute  
+> que solo se puede tener con un esfuerzo doloroso ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘नसन्निपतितं धर्म्यमुपभोगं यदृच्छया ।  
+प्रत्याचक्षे न चाप्येनमनुरुन्धे सुदुर्लभम् ॥’’ 
+(भारतम् शान्ति-पर्व १७५-५)  
+ऎऩ्ऱु अजगरोपाख्यानत्तिलुञ् जॊल्लुगिऱबडिये  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+धर्म्यङ्गळाऩ विषयङ्गळै विलक्कामैयिल् प्रमाणम् नसन्निपतितमित्यादि । न प्रत्याचक्षे - तळ्ळुगिऱेऩ् इल्लै। सुदुर्लभं एनं न चानुरुन्धे – प्रयत्नप्पट्टावदु अनुभविक्किऱेऩ् इल्लै। अजगरोपाख्यानत्तिलुमिति । महाभारतत्तिल् शान्तिपर्वत्तिल् १७७ - वदु अध्यायत्तिल् अजगरऩॆऩ्गिऱ ऒरु महाऩुक्कुम् प्रह्लादऩुक्कुम् संवादरूपमाऩ उपाख्यानम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-विरुद्धम् अल्लाद विषयङ्गळ्  
+ताऩ् ऒरु विरगु+++(=उपायम्)+++ सॆय्यादिरुक्क भगवत्-सङ्कल्पत्ताले ताऩे वरक् कण्डु  
+प्रारब्ध-कर्म-फलम् आऩ तऩिसु+++(=ऋणं)+++ तीरुगिऱद् ऎऩ्ऱु  
+विलक्कादे अनुभविक्कैयुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शास्त्राविरुद्ध-विषयेषु  
+स्वस्मिन् उपाय-विशेषम् अ-कुर्वत्य् अपि  
+भगवत्-संकल्प-मात्रेण स्वयम् एव प्राप्तेषु  
+तान् अवेक्ष्य,  
+प्रारब्ध-कर्म-फलम् ऋणं नश्यतीति,  
+अनिवारणेनानुभवनम्
+</details>
+
+<details><summary>English</summary>
+
+When things not forbidden in the śāstras come to him  
+without any seeking of his and by the will of God,  
+the prapanna realises that the debt which has resulted from past karma  
+that has begun to operate is now being discharged.  
+Therefore he enjoys them without trying to avoid them.  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando las cosas no están prohibidas en los Śāstras vienen a él  
+sin ninguna búsqueda de la suya y por la voluntad de Dios,  
+La Papanna se da cuenta de que la deuda que ha resultado del karma pasado  
+Eso ha comenzado a operar ahora está siendo descargado.  
+Por lo tanto, los disfruta sin tratar de evitarlos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रविरुद्धमल्लाद विषयङ्गळ् ताऩॊरु विरगु सॆय्यादिरुक्क भगवत्सङ्कल्पत्ताले ताऩे वरक्कण्डु प्रारब्धकर्मफलमाऩ तऩिसु तीरुगिऱदॆऩ्ऱु विलक्कादे अनुभविक्कैयुम्,
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ताऩॊरु विरगु सॆय्यादिरुक्क - वरुवदऱ्कु हेदुवै ताऩ् तेडादिरुक्क तऩिसु - कडऩ्। इदऩाल् विषयानुभवम् कर्मक्षयहेतुवागैयाले अदु पुरुषार्थनिष्ठाकार्यमॆऩ्ऱु सूचितमागिऱदु। ऐहिकवृद्धिह्रासङ्गळिल् हर्षशोकमऱ्ऱिरुक्कैयिल् प्रमाणङ्गाट्टुगिऱार् इप्पडि इत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि कर्म-विशेषाधीनम् आग वरुगिऱ प्राप्यान्तर-लाभालाभङ्गळिल्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं कर्म-विशेषाधीनतयोपनमतोः प्राप्यान्तर-लाभालाभयोः, 
+</details>
+
+<details><summary>English</summary>
+
+when he meets with or fails to get objects usually desired other than mokṣa ,  
+as taught in the following ślokas
+</details>
+
+<details><summary>Español</summary>
+
+Cuando se encuentra con o no obtiene objetos que generalmente se desean aparte de Mokṣa,
+como se enseña en el siguiente Ślokas
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि कर्मविशेषाधीनमाग वरुगिऱ प्राप्यान्तरलाभालाभङ्गळिल्
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्राप्यान्तरम् - प्रयोजनान्तरम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तयोर् एकतरो राशिर्  
+यद्य् एनम् **उपसन्नमेत्** ।  
+**न** सुखं प्राप्य **संहृष्येन्**  
+**न** दुःखं प्राप्य **संज्वरेत्** ॥’’  
+(भारतम् शान्ति-पर्व १७५-५)  
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘तयोर् एकतरो राशिर्  
+यद्य् एनम् **उपसन्नमेत्** ।  
+**न** सुखं प्राप्य **संहृष्येन्**  
+**न** दुःखं प्राप्य **संज्वरेत्** ॥’’  
+(भारतम् शान्ति-पर्व १७५-५)  
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> "When one of these two, pleasure and pain, arrives,  
+> one should not feel delighted on seeing pleasure  
+> nor feel sorrow when one sees pain", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Cuando **llega** uno de estos dos, placer y dolor,   
+> **no** se **debe sentir** encantado con ver placer    
+> **tampoco sentir** triste cuando uno ve dolor ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तयोरेकतरो राशिर्यद्येनमुपसन्नमेत् ।  
+न सुखं प्राप्य संहृष्येन्न दुःखं प्राप्य संज्वरेत् ॥’’  
+(भारतम् शान्ति-पर्व १७५-५)  
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तयोरित्यादि । तयोः – सुखदुःखराशिकळुडैय मध्यत्तिल्, उपसन्नमेद्यदि – वन्ददागिल्, तदा सुखं प्राप्य – सुखत्तैयडैन्दु, न संहृष्येत् – अत्यन्तहृष्टऩाग आगक्कडवऩल्लऩ्। दुःखं प्राप्य – तुक्कदै यडैन्दु, न सञ्ज्वरेत् – उद्विग्नऩाग आगक् कडवऩल्लऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'उळद् ऎऩ्ऱ् इऱुमा+++(=दर्पम्)+++ ऽऽवार्' (इरण्डान्दिरुवन्दादि ४५) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये  
+हर्ष--शकङ्गळ् अऱ्ऱु  
+स्व-रूपानुरूपम् आऩ  
+परम-प्राप्य-कैङ्कर्यत्तिले रुचियुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"19 (धनं ) अस्तीति न दृप्यन्ति" इति चोक्तरीत्या 
+ हर्ष-शोक-त्यागेन सह  
+ स्वरूपानुरूपे परम-प्राप्य-कैङ्कर्ये रुचिः, 
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "The man who meditates on the feet of the Lord  
+is not elated at the possession of wealth,  
+nor does he feel dispirited when what he possesses is lost." 
+
+He has, on the other hand, a great longing for service to the Lord which is suited to his essential nature  
+and which is the supreme aim of his life. 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "El hombre que medita en los pies del Señor  
+no está eufórico en posesión de riqueza,  
+Tampoco se siente desanimado cuando lo que posee se pierde ".
+
+Tiene, por otro lado, un gran anhelo de servicio al Señor  
+que se adapta a su naturaleza esencial.  
+y cuál es el objetivo supremo de su vida.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'उळ तॆऩ्ऱिऱुमावार्'(इरण्डान्दिरुवन्दादि ४५) ऎऩ्ऱुञ् जॊल्लुगिऱबडिये हर्षशोकङ्गळऱ्ऱु स्वरूपानुरूपमाऩ परमप्राप्यकैङ्कर्यत्तिले रुचियुम्, 
+</details>
+
+
+
+
+
+
+
+
+This urgent longing for the object to be gained will make him cry out as in Aḷavandār's Stotram und in Śrī Rāmānuja's Gadya, "When, when shall I see, face to face, Bhagavān Nārāyaṇa ? When shall I press his two lotus-like feet on my head?" When such conduct and feeling are seen in the prapanna, it may be inferred that his mind is firmly fixed in regard to the supreme and infinite goal of existence which is indicated, as (an infinitesimal part of) the sea is by the finger, in the dative Nārāyanāya in Tirumantra, in the dative Nārāyanāya and in the word namas in Dvaya and in the sentence "I shall release thee from all sins" in Carama śloka ,
 
 Thus by observing these signs in himself, the man may realise that he is well established in the state of a true prapanna in regard to his essential Nature (svarūpa), his upāya and his supreme aim (puruṣārtha) as stated in the śloka I am a self, not a body; I am the śeṣa who exists only for Lord; I have no possessions of my own; I have sought His protection with the desire to render service to Him" and as understood also from Tirumantra and the like. To the prapanna who has seen in himself these signs, there will be no causes of fear confronting him other than offence to those who know Brahman, which might occur (as a possibility) on account of his living in the midst of enemies (the body and the senses), nor sources of delight other than the service which suits his essential nature. This may be seen in the case of Sītā devi of whom it is said, "Sītā does not look at these Rākṣasis; she does not look at these trees full of flowers and fruits. Her heart is fixed on one alone and she sees only ŚrīRāma". If by chance, these (other causes of fear and sources of delight) come before him, he will have neither fear nor delight.
 
