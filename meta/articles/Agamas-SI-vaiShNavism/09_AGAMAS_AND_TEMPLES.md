@@ -1755,8 +1755,7 @@ Music, dance and discourses of a holy nature must not be stopped while they are 
 
 Vide: 
 
-वस्त्रेणाच्छाद्य देहं तु यो नरः प्रणमेत्तु माम् । 
-
+वस्त्रेणाच्छाद्य देहं तु यो नरः प्रणमेत्तु माम् ।  
 वित्री च जायते मूर्खस्त्रीणि जन्मानि भामिनि ॥ 
 
 { 

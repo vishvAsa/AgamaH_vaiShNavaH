@@ -1294,7 +1294,7 @@ están en las manos del Señor solas.
 </details>
 
 
-### उपाय-विशेषाः
+### निर्देश-स्थानम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2025,16 +2025,263 @@ y cuál es el objetivo supremo de su vida.
 'उळ तॆऩ्ऱिऱुमावार्'(इरण्डान्दिरुवन्दादि ४५) ऎऩ्ऱुञ् जॊल्लुगिऱबडिये हर्षशोकङ्गळऱ्ऱु स्वरूपानुरूपमाऩ परमप्राप्यकैङ्कर्यत्तिले रुचियुम्, 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+उळदॆऩ्ऱिऱुमावारिति । 'उण्डिल्लै यॆऩ्ऱु तळर्दलदिऩ रुगुम् सारार्' ऎऩ्बदु इदऱ्कु मेल्बादम्। उळदॆऩ्ऱु - सम्बत्तु उण्डॆऩ्ऱु इऱुमावार् - गर्वियार्, उण्डिल्लै यॆऩ्ऱु - मुऩ्बु सम्बत्तु उण्डु इप्पॊऴुदु इल्लैयॆऩ्ऱु, तळर्दल् - अवसादम् - क्लेशमॆऩ्ऱबडि। अदिऩरुगुम् सारार् - अदिऩ् समीपत्तिलुम् पोगार्। अऱ्ऱु - इल्लामल्। परमप्राप्य-कैङ्कर्यत्तिले रुचियुमिति । ऒरुवऩ् प्रयोजनान्तरङ्गळिल् हर्षशोकमऩ्ऱिक्के सर्वदा मोक्षत्तिल् अभिरुचियुळ्ळवऩागिल् अवऩुक्कु परमपुरुषार्थत्तिल् निष्ठैयुण्डॆऩ्ऱु सुखमाग निश्चयिक्कलामिऱे। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्त्रोत्रत्तिलुम् श्री-वैकुण्ठ-गद्यादिगळिलुम्  
+"कदा? कदा?" ऎऩ्ऱु वाय्-पुलऱ्ऱप्+++(=विलापं??)+++ पण्णुगिऱ  
+प्राप्तियिल् त्वरैयुम् नडैय्-आड् इऱ्ऱागिल् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्तोत्रे श्रीवैकुण्ठगद्यादिषु च [दर्शिता] "कदा, कदा" इति मुख-विलापं कारयन्ती  
+प्राप्तौ त्वरा च यदि प्रवर्तेरन् -  
+</details>
+
+<details><summary>English</summary>
+
+This urgent longing for the object to be gained will make him cry out as in Aḷavandār's Stotram and in Śrī Rāmānuja's Gadya, 
+
+> "When, when shall I see, face to face, Bhagavān Nārāyaṇa ?  
+> When shall I press his two lotus-like feet on my head?" 
+
+</details>
+
+<details><summary>Español</summary>
+
+Este urgente anhelo de que se obtenga el objeto  
+lo hará llorar como en Stotram de Aḷavandār y en Gadya de Śrī Rāmānuja,
+
+> "¿Cuándo, cuándo veré, cara a cara, bhagavān nārāyaṇa?  
+> ¿Cuándo presionaré sus dos pies de loto en mi cabeza? "
+
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्त्रोत्रत्तिलुम् श्रीवैकुण्ठगद्यादिगळिलुम् "कदा? कदा?" ऎऩ्ऱु वाय् पुलऱ्ऱप्पण्णुगिऱ प्राप्तियिल् त्वरैयुम्नडैयाडिऱ्ऱागिल् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्राप्तियिल् त्वरैक्कु प्रमाणम् काट्टुगिऱार् स्तोत्रत्तिलुमित्यादियाल्। स्तोत्रत्तिल् - आळवन्दार् स्तोत्रत्तिल्, 
+
+> ‘‘तव पादपङ्कजं कदा नु साक्षात् करवाणि चक्षुषा’’ 
+
+> ‘‘कदा पुनश्शङ्ख-रथाङ्ग-कल्पक॥  
+> मदीय-मूर्द्धानम् अलङ्करिष्यति’’ 
+
+> ‘‘कदाहमैकान्तिक-नित्यकिङ्करः प्रहर्षयिष्यामि’’ 
+
+ऎऩ्गिऱ श्लोकङ् गळिलॆऩ्ऱबडि। 
+
+श्रीवैकुण्ठगद्यादिगळिलुम् - वैकुण्ठगद्यत्तिल् 
+
+> ‘‘कदाहं भगवन्तं नारायणं, मम कुल-नाथं, मम कुल-दैवतं, मम कुल-धनं, मम भोग्यं, मम पितरं, मम मातरं, मम सर्वं साक्षात् करवाणि चक्षुषा?  
+> कदाहं भगवत्-पादाम्बुज-द्वयं शिरसा सङ्गृहिष्यामि?  
+> कदा मां भगवान् स्वकीयया अतिकोमलया दृशाऽवलोक्य  
+> स्निग्ध-गम्भीर-मधुरया गिरा परिचर्यायाम् आज्ञापयिष्यति’’ 
+
+इत्यादिवाक्यङ्गळिलुम् ऎऩ्ऱबडि। 
+
+आदिपदत्ताल् 
+
+> ‘‘क्रीडन्तं रमया सार्धं  
+> लीलाभूमिषु केशवं ।  
+> मेघश्यामं विशालाक्षं  
+> कदा द्रक्ष्यामि चक्षुषा ॥’’ 
+
+इत्यादि जितन्ताश्लोकङ्गळुक्कु सङ्ग्रहम्। कदा कदा ऎऩ्ऱु वाय् पुलऱ्ऱुप् पण्णुगिऱ - भोग्यतातिशयत्ताले ऎप्पॊऴुदु किट्टप्पोगिऱदॆऩ्ऱु वायाले अडिक्कडि सॊल्लुम्बडि पण्णुगिऱ। प्राप्तियिल् त्वरैयुम् - प्राप्तिविशेष्यकझटित्यागन्तव्यत्वप्रकारकेच्छाविशेषमुमॆऩ्ऱबडि। 
+
+ऒरुवऩुक्कु इन्द त्वरैयिरुन्दाल् अवऩुक्कु पुरुषार्थनिष्ठै सुलभानुमेयमागुमिऱे। नडैयाडिऱ्ऱागिल् - इरुन्ददेयागिल्, 
+</details>
+
+### निर्देश-स्थानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तिरुमन्त्रत्तिल् नारायणशब्दत्तिल् चतुर्थियालुम्,  
+द्वयत्तिल् चतुर्थी-नमस्सुक्कळालुम्,  
+चरम-श्लोकत्तिल् ‘‘अहं त्वा सर्व-पापेभ्यो मोक्षयिष्यामि’’ ऎऩ्गिऱ वाक्यत्तालुम् 
+</details>
+
+<details><summary>Keith</summary>
+
+तर्हि श्रीमन्त्रे नारायणशब्दे चतुर्थ्या,  
+द्वये चतुर्थी-नमोभ्याम्,  
+चरम-श्लोके "अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि " इति वाक्येन च  
+</details>
+
+<details><summary>English</summary>
+
+When such conduct and feeling are seen in the prapanna,  
+
+in the dative Nārāyanāya in Tirumantra,  
+in the dative Nārāyanāya and in the word namas in Dvaya  
+and in the sentence "I shall release thee from all sins" in Carama śloka ,
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando se ve tal conducta y sentimiento en el Prapanna,
+
+en el dativo nārāyanāya en tirumantra,  
+en el dativo nārāyanāya y en la palabra namas en dvaya  
+y en la oración "Te liberaré de todos los pecados" en Carama Śloka,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुमन्त्रत्तिल् नारायणशब्दत्तिल् चतुर्थियालुम्, द्वयत्तिल् चतुर्थीनमस्सुक्कळालुम्, चरमश्लोकत्तिल् ‘‘अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि’’ ऎऩ्गिऱ वाक्यत्तालुम् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+रहस्यत्रयत्तिल् निष्ठाविषयमाऩ पुरुषार्थत् तिऱ्कु प्रतिपादकस्थलत्तैक् काट्टुगिऱार् तिरुमन्त्रत्तिलिति ।  
+नारायणशब्दत्तिल् चतुर्थि यालुम् द्वयत्तिल् चतुर्थीनमस्सुक्कळालुमिति ।  
+चतुर्थियिल् इष्टप्राप्तिरूपपुरुषार्थमुम्, नमस्सिल् अनिष्टनिवृत्तिरूपपुरुषार्थमुम् सॊल्लप्पडुगिऱदिऱे। अनिष्टनिवृत्तियुम् पुरुषऩाल् अर्थिक्कप् पडुवदाल् पुरुषार्थमागुमिऱे। चरमश्लोकत्तिलिति । सर्वपापमोक्षणमुम् पुरुषऩाल् अर्थिक्कप् पडुवदाल् पुरुषार्थमाम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कडलैक् कैयिट्टुक् काट्टुमाप् पोले काट्टप्-पट्ट  
+अपरिच्छेद्यम् आऩ परम-पुरुषार्थत्तिले निष्ठैय् उण्ड् ऎऩ्ऱ् अऱियलाम्। +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+हस्त-निर्देश-कृत-समुद्र-प्रदर्शन-तुल्य-प्रदर्शन-विषयी-कृते  
+अपरिच्छेद्ये परम-पुरुषार्थे निष्ठाऽस्तीति सुज्ञानम् ।  
+</details>
+
+<details><summary>English</summary>
+
+it may be inferred that his mind is firmly fixed in regard to the supreme and infinite goal of existence  
+which is indicated,  
+as (an infinitesimal part of) the sea is by the finger.
+</details>
+
+<details><summary>Español</summary>
+
+Se puede inferir que su mente se fija firmemente con respecto al objetivo supremo e infinito de la existencia  
+que se indica,  
+como (una parte infinitesimal de) el mar está por el dedo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+कडलैक् कैयिट्टुक् काट्टुमाप्पोले काट्टप्पट्ट अपरिच्छेद्यमाऩ परमपुरुषार्थत्तिले निष्ठैयुण्डॆऩ्ऱऱियलाम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द स्वल्पङ्गळाऩ शब्दङ्गळ् अपरिच्छिन्नमाऩ पुरुषार्थत्तैक् काट्ट समर्थङ्गळागुमो वॆऩ्ऩ? आगुमॆऩ्बदिल् अनुरूपदृष्टान्तत्तैक् काट्टु किऱार् कडलैक् कैयिट्टुक् काट्टुमाप्पोले इति । कडल् - समुद्रम्। समुद्रमे यऱियाद ऒरुवऩ् ऎदु समुद्रम् ऎऩ्ऱु ऒरुवऩै विऩव अवऩ् अपरिच्छिन्नमाऩ समुद्रत्तिलुळ्ळ विशेषङ्गळैच् चॊल्लाविडिलुम् सामान्यतः इदु ताऩ् समुद्रमॆऩ्ऱु कैयिट्टुक्काट्टुमाप्पोल ऎऩ्बदु दृष्टान्तार्थम्। काट्टप्पट्ट - सामान्यतः काट्टप् पट्ट, अपरिच्छेद्यमाऩ परमपुरुषार्थत्तिले - इव्वळवॆऩ्ऱळविडमुडियाद सर्वोत्कृष्ट माऩ पुरुषार्थत्तिले। निष्ठैयुण्डॆऩ्ऱऱियलाम् - अवितथनिविष्टस्थिरमतित्वरूपनिष्ठैयुण् डॆऩ्ऱऱियलाम्। 
+</details>
+
+## निष्ठा-प्रयोजनम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि अव्वो अडैयाळङ्गळाले+++(=मुद्राभिः)+++ 
+
+> ‘‘अहमात्मा न देहोऽस्मि  
+> विष्णु-शेषो ऽपरिग्रहः ।  
+> तम् एव शरणं प्राप्तस्  
+> तत्-कैङ्कर्य-चिकीर्षया ॥’’
+
+ऎऩ्गिऱबडिये  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं तत्-तद्-अभिज्ञानैः, 
+
+> ‘‘अहमात्मा न देहोऽस्मि  
+> विष्णु-शेषो ऽपरिग्रहः ।+++(5)+++  
+> तम् एव शरणं प्राप्तस्  
+> तत्-कैङ्कर्य-चिकीर्षया ॥’’
+
+इत्य् उक्त-रीत्या
+</details>
+
+<details><summary>English</summary>
+
+Thus by observing these signs in himself, 
+as stated in the śloka 
+
+> I am a self, not a body;  
+> I am the śeṣa who exists only for Lord;  
+> I have no possessions of my own;  
+> I have sought His protection with the desire to render service to Him" 
+
+</details>
+
+<details><summary>Español</summary>
+
+Así observando estos signos en sí mismo,  
+Como se indica en el Śloka
+
+> Soy un yo, no un cuerpo;  
+> Soy el Śeṣa que existe solo para el Señor;  
+> No tengo posesiones propias;  
+> He buscado su protección con el deseo de prestarle servicio a él "  
+</details>
 
 
 
+<details><summary>मूलम्</summary>
+
+इप्पडि अव्वो अडैयाळङ्गळाले 
+
+> ‘‘अहमात्मा न देहोऽस्मि  
+> विष्णुशेषोऽपरिग्रहः ।  
+> तमेव शरणं प्राप्तस्
+> तत्कैङ्कर्यचिकीर्षया ॥’’
+
+ऎऩ्गिऱबडिये  
+
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मूल-मन्त्रादिगळैक् कॊण्डु  
+स्व-रूपोपाय-पुरुषार्थङ्गळिल् तऩ्ऩ्-उडैय निष्ठैयैय् उणर्न्दु पोरुम् इव्व् अधिकारिक्कु  
+</details>
+
+<details><summary>English</summary>
+
+and as understood also from Tirumantra and the like,  
+the man may realise that  
+he is well established in the state of a true prapanna  
+in regard to his essential Nature (svarūpa), his upāya and his supreme aim (puruṣārtha). 
+</details>
+
+<details><summary>Español</summary>
+
+y como se entiende también de Tirumantra y similares,  
+El hombre puede darse cuenta de que  
+Está bien establecido en el estado de una verdadera Papanna
+Con respecto a su naturaleza esencial (svarūpa), su upāya y su objetivo supremo (puruṣārtha).
+</details>
 
 
-This urgent longing for the object to be gained will make him cry out as in Aḷavandār's Stotram und in Śrī Rāmānuja's Gadya, "When, when shall I see, face to face, Bhagavān Nārāyaṇa ? When shall I press his two lotus-like feet on my head?" When such conduct and feeling are seen in the prapanna, it may be inferred that his mind is firmly fixed in regard to the supreme and infinite goal of existence which is indicated, as (an infinitesimal part of) the sea is by the finger, in the dative Nārāyanāya in Tirumantra, in the dative Nārāyanāya and in the word namas in Dvaya and in the sentence "I shall release thee from all sins" in Carama śloka ,
+<details><summary>मूलम्</summary>
 
-Thus by observing these signs in himself, the man may realise that he is well established in the state of a true prapanna in regard to his essential Nature (svarūpa), his upāya and his supreme aim (puruṣārtha) as stated in the śloka I am a self, not a body; I am the śeṣa who exists only for Lord; I have no possessions of my own; I have sought His protection with the desire to render service to Him" and as understood also from Tirumantra and the like. To the prapanna who has seen in himself these signs, there will be no causes of fear confronting him other than offence to those who know Brahman, which might occur (as a possibility) on account of his living in the midst of enemies (the body and the senses), nor sources of delight other than the service which suits his essential nature. This may be seen in the case of Sītā devi of whom it is said, "Sītā does not look at these Rākṣasis; she does not look at these trees full of flowers and fruits. Her heart is fixed on one alone and she sees only ŚrīRāma". If by chance, these (other causes of fear and sources of delight) come before him, he will have neither fear nor delight.
+मूल-मन्त्रादिगळैक् कॊण्डु  
+स्व-रूपोपाय-पुरुषार्थङ्गळिल् तऩ्ऩ्-उडैय निष्ठैयैय् उणर्न्दु पोरुम् इव्व् अधिकारिक्कु  
+</details>
+
+
+To the prapanna who has seen in himself these signs, there will be no causes of fear confronting him other than offence to those who know Brahman, which might occur (as a possibility) on account of his living in the midst of enemies (the body and the senses), nor sources of delight other than the service which suits his essential nature. This may be seen in the case of Sītā devi of whom it is said, "Sītā does not look at these Rākṣasis; she does not look at these trees full of flowers and fruits. Her heart is fixed on one alone and she sees only ŚrīRāma". If by chance, these (other causes of fear and sources of delight) come before him, he will have neither fear nor delight.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
