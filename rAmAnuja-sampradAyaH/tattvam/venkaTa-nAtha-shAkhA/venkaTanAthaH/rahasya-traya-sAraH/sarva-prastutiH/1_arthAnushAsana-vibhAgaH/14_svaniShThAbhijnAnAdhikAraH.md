@@ -2025,14 +2025,85 @@ y cuál es el objetivo supremo de su vida.
 'उळ तॆऩ्ऱिऱुमावार्'(इरण्डान्दिरुवन्दादि ४५) ऎऩ्ऱुञ् जॊल्लुगिऱबडिये हर्षशोकङ्गळऱ्ऱु स्वरूपानुरूपमाऩ परमप्राप्यकैङ्कर्यत्तिले रुचियुम्, 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+उळदॆऩ्ऱिऱुमावारिति । 'उण्डिल्लै यॆऩ्ऱु तळर्दलदिऩ रुगुम् सारार्' ऎऩ्बदु इदऱ्कु मेल्बादम्। उळदॆऩ्ऱु - सम्बत्तु उण्डॆऩ्ऱु इऱुमावार् - गर्वियार्, उण्डिल्लै यॆऩ्ऱु - मुऩ्बु सम्बत्तु उण्डु इप्पॊऴुदु इल्लैयॆऩ्ऱु, तळर्दल् - अवसादम् - क्लेशमॆऩ्ऱबडि। अदिऩरुगुम् सारार् - अदिऩ् समीपत्तिलुम् पोगार्। अऱ्ऱु - इल्लामल्। परमप्राप्य-कैङ्कर्यत्तिले रुचियुमिति । ऒरुवऩ् प्रयोजनान्तरङ्गळिल् हर्षशोकमऩ्ऱिक्के सर्वदा मोक्षत्तिल् अभिरुचियुळ्ळवऩागिल् अवऩुक्कु परमपुरुषार्थत्तिल् निष्ठैयुण्डॆऩ्ऱु सुखमाग निश्चयिक्कलामिऱे। 
+</details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्त्रोत्रत्तिलुम् श्री-वैकुण्ठ-गद्यादिगळिलुम्  
+"कदा? कदा?" ऎऩ्ऱु वाय्-पुलऱ्ऱप्+++(=विलापं??)+++ पण्णुगिऱ  
+प्राप्तियिल् त्वरैयुम् नडैय्-आड् इऱ्ऱागिल् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्तोत्रे श्रीवैकुण्ठगद्यादिषु च [दर्शिता] "कदा, कदा" इति मुख-विलापं कारयन्ती  
+प्राप्तौ त्वरा च यदि प्रवर्तेरन् -  
+</details>
+
+<details><summary>English</summary>
+
+This urgent longing for the object to be gained will make him cry out as in Aḷavandār's Stotram and in Śrī Rāmānuja's Gadya, 
+
+> "When, when shall I see, face to face, Bhagavān Nārāyaṇa ?  
+> When shall I press his two lotus-like feet on my head?" 
+
+</details>
+
+<details><summary>Español</summary>
+
+Este urgente anhelo de que se obtenga el objeto  
+lo hará llorar como en Stotram de Aḷavandār y en Gadya de Śrī Rāmānuja,
+
+> "¿Cuándo, cuándo veré, cara a cara, bhagavān nārāyaṇa?  
+> ¿Cuándo presionaré sus dos pies de loto en mi cabeza? "
+
+</details>
 
 
+<details><summary>मूलम्</summary>
+
+स्त्रोत्रत्तिलुम् श्रीवैकुण्ठगद्यादिगळिलुम् "कदा? कदा?" ऎऩ्ऱु वाय् पुलऱ्ऱप्पण्णुगिऱ प्राप्तियिल् त्वरैयुम्नडैयाडिऱ्ऱागिल् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्राप्तियिल् त्वरैक्कु प्रमाणम् काट्टुगिऱार् स्तोत्रत्तिलुमित्यादियाल्। स्तोत्रत्तिल् - आळवन्दार् स्तोत्रत्तिल्, 
+
+> ‘‘तव पादपङ्कजं कदा नु साक्षात् करवाणि चक्षुषा’’ 
+
+> ‘‘कदा पुनश्शङ्ख-रथाङ्ग-कल्पक॥  
+> मदीय-मूर्द्धानम् अलङ्करिष्यति’’ 
+
+> ‘‘कदाहमैकान्तिक-नित्यकिङ्करः प्रहर्षयिष्यामि’’ 
+
+ऎऩ्गिऱ श्लोकङ् गळिलॆऩ्ऱबडि। 
+
+श्रीवैकुण्ठगद्यादिगळिलुम् - वैकुण्ठगद्यत्तिल् 
+
+> ‘‘कदाहं भगवन्तं नारायणं, मम कुल-नाथं, मम कुल-दैवतं, मम कुल-धनं, मम भोग्यं, मम पितरं, मम मातरं, मम सर्वं साक्षात् करवाणि चक्षुषा?  
+> कदाहं भगवत्-पादाम्बुज-द्वयं शिरसा सङ्गृहिष्यामि?  
+> कदा मां भगवान् स्वकीयया अतिकोमलया दृशाऽवलोक्य  
+> स्निग्ध-गम्भीर-मधुरया गिरा परिचर्यायाम् आज्ञापयिष्यति’’ 
+
+इत्यादिवाक्यङ्गळिलुम् ऎऩ्ऱबडि। 
+
+आदिपदत्ताल् 
+
+> ‘‘क्रीडन्तं रमया सार्धं  
+> लीलाभूमिषु केशवं ।  
+> मेघश्यामं विशालाक्षं  
+> कदा द्रक्ष्यामि चक्षुषा ॥’’ 
+
+इत्यादि जितन्ताश्लोकङ्गळुक्कु सङ्ग्रहम्। कदा कदा ऎऩ्ऱु वाय् पुलऱ्ऱुप् पण्णुगिऱ - भोग्यतातिशयत्ताले ऎप्पॊऴुदु किट्टप्पोगिऱदॆऩ्ऱु वायाले अडिक्कडि सॊल्लुम्बडि पण्णुगिऱ। प्राप्तियिल् त्वरैयुम् - प्राप्तिविशेष्यकझटित्यागन्तव्यत्वप्रकारकेच्छाविशेषमुमॆऩ्ऱबडि। 
+
+</details>
 
 
-
-This urgent longing for the object to be gained will make him cry out as in Aḷavandār's Stotram und in Śrī Rāmānuja's Gadya, "When, when shall I see, face to face, Bhagavān Nārāyaṇa ? When shall I press his two lotus-like feet on my head?" When such conduct and feeling are seen in the prapanna, it may be inferred that his mind is firmly fixed in regard to the supreme and infinite goal of existence which is indicated, as (an infinitesimal part of) the sea is by the finger, in the dative Nārāyanāya in Tirumantra, in the dative Nārāyanāya and in the word namas in Dvaya and in the sentence "I shall release thee from all sins" in Carama śloka ,
+When such conduct and feeling are seen in the prapanna, it may be inferred that his mind is firmly fixed in regard to the supreme and infinite goal of existence which is indicated, as (an infinitesimal part of) the sea is by the finger, in the dative Nārāyanāya in Tirumantra, in the dative Nārāyanāya and in the word namas in Dvaya and in the sentence "I shall release thee from all sins" in Carama śloka ,
 
 Thus by observing these signs in himself, the man may realise that he is well established in the state of a true prapanna in regard to his essential Nature (svarūpa), his upāya and his supreme aim (puruṣārtha) as stated in the śloka I am a self, not a body; I am the śeṣa who exists only for Lord; I have no possessions of my own; I have sought His protection with the desire to render service to Him" and as understood also from Tirumantra and the like. To the prapanna who has seen in himself these signs, there will be no causes of fear confronting him other than offence to those who know Brahman, which might occur (as a possibility) on account of his living in the midst of enemies (the body and the senses), nor sources of delight other than the service which suits his essential nature. This may be seen in the case of Sītā devi of whom it is said, "Sītā does not look at these Rākṣasis; she does not look at these trees full of flowers and fruits. Her heart is fixed on one alone and she sees only ŚrīRāma". If by chance, these (other causes of fear and sources of delight) come before him, he will have neither fear nor delight.
 
