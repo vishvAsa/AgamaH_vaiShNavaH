@@ -2468,14 +2468,43 @@ No tendrá miedo ni deleite.
 </details>
 
 
-
+## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-मुक्कियमन्दिरङ्गाट्टिय मूऩ्ऱिनिलैयुडैयार्  
-तक्कवैयऩ्ऱित् तगादवैयॊऩ्ऱुन् दमक्किसैयार्  
-इक्करुमङ्गळॆमक्कुळवॆन्नुमिलक्कणत्ताल्  
-मिक्कवुणर्त्तियर् मेदिनिमेविय विण्णवरे. ( 21 )
+मुक्किय-मन्दिरङ् काट्टिय +++(स्वरूपोपाय-प्राप्य→)+++ मूऩ्ऱि+++(न्)+++ निलैय् उडैयार्  
+तक्क्-अवैय्-अऩ्ऱित् तगाद्-अवैय् ऒऩ्ऱुन् तमक्क् इसैयार्+++(=अनिच्छन्त)+++  
+"इक्-करुमङ्गळ् ऎमक्क् उळव्" ऎन्नुम् इलक्कणत्ताल्  
+मिक्कव्-उणर्त्तियर् मेदिनि-मेविय+++(=वर्तिनो)+++ विण्णवरे. ( 21 )+++(5)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+( अधिकारार्थसंग्रादिका गाथा) 
+
+मुख्यमन्त्रपदर्शिते +++(स्वरूपोपाय-प्राप्य→)+++ त्रितये निष्ठावन्तः  
+स्वानुरूपम् इच्छन्तः  
+अननुरूपं किमपि अनिच्छन्त,  
+"इमानि कर्माणि अस्माकं सन्ती"ति लक्षणेन सम्यक् ज्ञातवन्तः  
+मेदिनी-वर्ति-दिविषदो भवन्ति । +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+Those who have become well-established in their knowledge of the three things shown in the Tirumantra (namely, svarūpa, upāya, and puruṣārtha)  
+will never agree to do what is improper and will do only what is proper.  
+They are really wise men who find, in themselves, these attitudes and actions  
+and they may be called eternal sūris living on the earth.
+</details>
+
+<details><summary>Español</summary>
+
+Aquellos que se han establecido bien en su conocimiento de las tres cosas que se muestran en el Tirumantra (a saber, Svarūpa, Upāya y Puruṣārtha)  
+Nunca estará de acuerdo en hacer lo que es incorrecto  
+y hará solo lo que es adecuado.  
+Son hombres realmente sabios que encuentran, en sí mismos, estas actitudes y acciones.  
+y pueden llamarse sūris eternal que viven en la tierra.
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -2485,7 +2514,11 @@ No tendrá miedo ni deleite.
 मिक्कवुणर्त्तियर् मेदिनिमेविय विण्णवरे. ( 21 )
 </details>
 
-Those who have become well-established in their knowledge of the three things shown in the Tirumantra (namely, svarūpa, upāya, and puruṣārtha) will never agree to do what is improper and will do only what is proper. They are really wise men who find, in themselves, these attitudes and actions and they may be called eternal sūris living on the earth.
+<details><summary>सायण-टीका</summary>
+
+कीऴ्च्चॊऩ्ऩ इव्वधिकारार्थत्तै पाट्टालुम् सङ्ग्रहित्तुक्काट्टुगिऱार् मुक्किय मित्यादि । मुक्किय मन्दिरम् - मुक्यमाऩ मन्द्रम्, ‘‘न मन्त्रोऽष्टाक्षरात्परः’’ ऎऩ्गिऱबडि सर्वोत्कृष्टमाऩ मूलमन्द्रमॆऩ्ऱबडि। अत्ताले काट्टिय - काट्टप्पट्ट, पदत्रयत्ताले यडैयवे काट्टप्पट्ट वॆऩ्ऱबडि। मूऩ्ऱिल् - स्वरूपोपायपुरुषार्थङ्गळिल्, निलैयुडैयार् - निष्ठैयुळ्ळवर्गळाऩ, मेदिऩिमेविय विण्णवर् - भूमियिलिरुक्कुम् देवतैकळ्, भूदेवर्गळाऩ प्रपन्नर्गळॆऩ्ऱबडि। इक्करुमङ्गळ् - परपरिभवादिगळिल् विषादाभावादिरूपङ्गळाऩ इन्द कर्मङ्गळ्, ऎमक्कुळवॆऩ्ऩुमिलक् कणत्ताल् - नमक्कु उण्डायिरुक्किऱदॆऩ्ऱुम् ज्ञापकलिङ्गङ्गळाल्, मिक्कवुणर्त्तियर् - निष्कृष्टमाऩ अनुमित्यात्मकनिश्चयत्तैयुडैयराय्, स्वनिष्ठाभिज्ञानत्तैयुडै यराय्क्कॊण्डॆऩ्ऱबडि। तक्कवैयऩ्ऱि - स्वस्वरूपादिनिष्ठैकळुक्कु उचितङ्गळाऩ सदाचारङ्गळैयॊऴिय, नित्यनैमित्तिकङ्गळैयॊऴिय ऎऩ्ऱबडि। तगादवै - अनुचिततङ्गळाऩ अकृत्यकरणादिगळैयुम्, अल्पङ्गळाऩ भीतिप्रीतिहेतुक्कळैयुम्, तमक्किसैयार् - तमक्कु ग्राह्यङ्गळाग इसैयार्, इच्चियार्गळॆऩ्ऱबडि। अथवा तमक्किसैयार् – तमक्कु ग्राह्यङ्गळाग ऎण्णादवर्गळाऩ, इक्करुमङ्गळ् ऎमक्कुळवॆऩ्ऩुमिलक्कणत्ताल् मिक्कवुणर्त्तियर् मेदिऩि मेविय विण्णवरे ऎऩ्ऱन्वयिक्कवुमाम्। भगवाऩ् पोले भूमियिल् अवतरित्त नित्यसूरिकळे। कीऴधिकारत्तिल् प्रपन्नरै मुक्ततुल्यरॆऩ्ऱार्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
