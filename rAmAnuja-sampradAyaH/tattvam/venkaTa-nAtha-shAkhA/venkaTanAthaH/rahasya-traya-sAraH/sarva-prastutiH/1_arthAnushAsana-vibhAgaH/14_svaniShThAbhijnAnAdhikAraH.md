@@ -2524,9 +2524,38 @@ y pueden llamarse sūris eternal que viven en la tierra.
 
 स्वापोद्बोध-व्यतिकर-निभे भोग-मोक्षान्तराले  
 कालं कञ्चिज् जगति विधिना केनचित् **स्थाप्यमानाः** ।  
-तत्त्वोपाय-प्रभृति-विषये स्वामि-दत्तां स्व-निष्ठां  
-शेषां **कृत्वा** शिरसि कृतिनश् शेषम् आयुर् **नयन्ति** ॥ ३३ ॥+++(4)+++
+तत्त्वोपाय-प्रभृति+++(→परमप्राप्य)+++-विषये स्वामि-दत्तां स्व-निष्ठां  
++++(भगवत्-प्रयुक्त-)+++शेषां **कृत्वा** शिरसि कृतिनश् शेषम् आयुर् **नयन्ति** ॥ ३३ ॥+++(4)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वापोद्बोध-व्यतिकर-निभे भोग-मोक्षान्तराले  
+कालं कञ्चिज् जगति विधिना केनचित् **स्थाप्यमानाः** ।  
+तत्त्वोपाय-प्रभृति+++(→परमप्राप्य)+++-विषये स्वामि-दत्तां स्व-निष्ठां  
++++(भगवत्-प्रयुक्त-)+++शेषां **कृत्वा** शिरसि कृतिनश् शेषम् आयुर् **नयन्ति** ॥ ३३ ॥+++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+In the interval between this life of worldly enjoyment and life after mokṣa  -  
+( an interval) which may be compared to a mingling of the state of sleep and the waking state ---  
+some destiny has placed prapannas for a time and they pass the rest of their lives wearing, on their heads,  
+the garland of their nishtā in regard to tattva, upāya, and puruṣārtha,  
+which has been vouchsafed to them by the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+En el intervalo entre esta vida de disfrute mundano y vida después de mokṣa -  
+(un intervalo) que puede compararse con una mezcla del estado del sueño y el estado de vigilia ---  
+Algunos destino han colocado a Papannas por un tiempo y pasan el resto de sus vidas vistiendo, en sus cabezas,  
+La guirnalda de su nishtā con respecto a Tattva, Upāya y Puruṣārtha,  
+que les ha sido atendido por el Señor.
+</details>
+
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -2536,10 +2565,38 @@ y pueden llamarse sūris eternal que viven en la tierra.
 शेषां कृत्वा शिरसि कृतिनश्शेषमायुर्नयन्ति ॥ ३३ ॥
 </details>
 
-In the interval between this life of worldly enjoyment and life after mokṣa  - ( an interval) which may be compared to a mingling of the state of sleep and the waking state ---some destiny has placed prapannas for a time and they pass the rest of their lives wearing, on their heads, the garland of their nishtā in regard to tattva, upāya, and puruṣārtha, which has been vouchsafed to them by the Lord.
+<details><summary>सायण-टीका</summary>
+
+इव्वधिकारत्तिल् प्रपन्नरिल् स्वनिष्ठाभिज्ञान मुडैयवर्गळै नित्यसूरितुल्यरॆऩ्गिऱार्। आर्तप्रपन्नव्यतिरिक्तर् सर्वस्वामियाऩ भगवाऩाले कॊडुक्कप्पट्ट स्वरूपोपायपुरुषार्थ विषयगमाऩ स्वनिष्ठैयै परमपदप्राप्तिक्कु अरुळप्पाट्टिल् परियट्टवस्त्रमाग वहित्तुक् कॊण्डु आयुश्शेषत्तैक् कऴिक्किऱार्गळॆऩ्गिऱार् स्वापोद्बोधेति । कृतिनः – सुकृतिकळाऩ सिल प्रपन्नर्गळ्, स्वापोद्बोधव्यतिकरनिभे – स्वापः – निद्रा, उद्बोधः – निद्रानन्तरजागरणम्, व्यतिकरनिभे – अदुगळुडैय सम्पर्कतुल्यमाऩ, भोगमोक्षान्तराळे – मुमुक्षोत्पत्तेः पूर्वकालिकः भोगः संसारः; इदु स्वापस्थानीयम्। अनादिमायया सुप्तः ऎऩ्गिऱदिऱे संसारियै। मोक्षम्; जागरणस्थानीयम्; ‘‘जागृवासँ-स्समिन्धते’’ ऎऩ्ऱदिऱे मोक्षदशैयिल्। तयोरन्तराळे – मध्यत्तिल् मुमुक्षुत्वावस्थैयिलॆऩ्ऱबडि। केनचिद्विधिना – विलक्षणमाऩ भगवत्कृपैयाले, इङ्गु विधिशब्दत्ताल् भगवत्कृपै सॊल्लप् पडुगिऱदॆऩ्ऱु साम्प्रदायिकाः । कञ्चित्कालं – सिलनाळ्, जगति – लीलाविभूतियिल्, स्थाप्यमानाः – स्थापिक्कप्पट्टवराय्क्कॊण्डु, इदऩाल् भगवाऩ् तऩ्ऩुडैय कृपैयाले ब्रह्म वित्तुक्कळै लोकत्तैत् तिरुत्तुगैक्काग सिलगालम् लोगत्तिल् वैत्तिरुप् पाऩॆऩ्गिऱ अर्थम् सूचितमागिऱदु। ‘‘अध्यात्मग्रन्थनिर्माणमनेकेषाञ्च बोधनं । अर्चावतारसेवा च तेषामेतन्महत्फलम् ॥’’ऎऩ्ऱु सॊऩ्ऩार्गळिऱे। तत्त्वोपायप्रभृतिविषये – इङ्गु प्रभृतिशब्दत् ताले पुरुषार्थत्तिऱ्कु ग्रहणम्। स्वामिदत्तां – स्वामियाऩ भगवाऩाले कृपैयिऩाले कॊडुक्कप्पट्ट, स्वनिष्ठां - तङ्गळ् तङ्गळ् वृत्तिविशेषङ्गळै, शिरसि – शिरस्सिले, शेषां कृत्वा - तिरुप्परियट्टमाग धरित्तु, भगवद्भुक्तमाऩ स्रग्वस्त्रादिगळै शेषैयॆऩ्ऱु सॊल्लुगिऱदु। दैवात्प्राप्त स्रजि स्त्रीस्याच्छेषेति निघण्टुः । शेषमायुर्नयन्ति – आयुश्शेषत्तैप्पोक् कडिक्किऱार्गळॆऩ्गै।  
+    
+    
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे  
 स्वनिष्ठाभिज्ञानाधिकारश्चतुर्दशः ॥
+</details>
 
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+स्वनिष्ठाभिज्ञानाधिकारश्चतुर्दशः ॥
+</details>
+
+
+
+<details><summary>सायण-टीका</summary>
+
+॥ इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्द्धाभिषिक्तस्य  
+निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक  
+श्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ  
+श्री सारबोधिन्याख्यायां व्याख्यायां  
+स्वनिष्ठाभिज्ञानाधिकारश्चतुर्दशः ॥
+
+</details>
