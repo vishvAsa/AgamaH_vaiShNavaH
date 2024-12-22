@@ -4,32 +4,127 @@ title = "१५ उत्तरकृत्याधिकारः"
 +++
 
 205
+## प्रवेशः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे उत्तरकृत्याधिकारः ॥ १५ ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 ॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे उत्तरकृत्याधिकारः ॥ १५ ॥
 
+</details>
+
+<details><summary>English</summary>
+
 THE CHAPTER ON THE MANNER IN WHICH ONE SHOULD CONDUCT ONESELF AFTER PRAPATTI. page206
+</details>
+
+<details><summary>Español</summary>
+
+El capítulo sobre la forma en que uno debe conducirse después de Prapatti.Página206
+</details>
+
+<details><summary>मूलम्</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे उत्तरकृत्याधिकारः ॥ १५ ॥
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+॥ श्रीः ॥  
+श्रीसारबोधिनीव्याख्यायां  
+उत्तरकृत्याधिकारः ॥  
+
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-सन्तोषार्थं विमृशति मुहुस्सद्भिरद्ध्यात्मविद्यां  
-नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।  
-अङ्गीकुर्वन्ननघललितां वृत्तिमादेहपातात्  
-दृष्टादृष्टस्वभरविगमे दत्तदृष्टिः प्रपन्नः ॥ ३४ ॥
++++(पूर्वोक्त-स्वरूपोपाय-प्राप्य-निष्ठया)+++ सन्तोषार्थं **विमृशति** मुहुस् सद्भिर् अध्यात्म-विद्यां,  
+नित्यं **ब्रूते, निशमयति** च स्वादु सु-व्याहृतानि ।  
+**अङ्गी कुर्वन्न्** अन्-अघ-ललितां वृत्तिम् आदेह-पातात्  
++++(भूयो-नियाम्यता-प्रपत्तिभ्याम्)+++ दृष्टादृष्ट+++(→ऐहिकामुष्मिक)+++--स्व-भर-विगमे **दत्त-दृष्टिः** प्रपन्नः ॥ ३४ ॥ +++(4)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++++(पूर्वोक्त-स्वरूपोपाय-प्राप्य-निष्ठया)+++ सन्तोषार्थं **विमृशति** मुहुस् सद्भिर् अध्यात्म-विद्यां,  
+नित्यं **ब्रूते, निशमयति**+++(=शृणोति)+++ च स्वादु सु-व्याहृतानि ।  
+**अङ्गी कुर्वन्न्** अन्-अघ-ललितां वृत्तिम् आदेह-पातात्  
++++(भूयो-नियाम्यता-प्रपत्तिभ्याम्)+++ दृष्टादृष्ट+++(→ऐहिकामुष्मिक)+++--स्व-भर-विगमे **दत्त-दृष्टिः** प्रपन्नः ॥ ३४ ॥+++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+The prapanna, with his eyes fixed on the absence of his own responsibility (bhara)  
+in regard to both what is seen in this life  
+and what is to come hereafter,  
+follows, until the fall of his body, a course of action which is faultless and agreeable  
+( observing the code of conduct prescribed for his varṇa and his āśrama)  
+and for the sake of delight (in the enjoyment of the auspicious qualities of Bhagavān )  
+frequently studies Vedānta  with good men,  
+teaches the sweet and noble utterances (of such as Alvars ), always and also listens to them.
+</details>
+
+<details><summary>Español</summary>
+
+El Prapanna, con los ojos fijos en la ausencia de su propia responsabilidad (Bhara)  
+con respecto a los dos que se ve en esta vida
+Y lo que vendrá en adelante,  
+sigue, hasta la caída de su cuerpo, un curso de acción que es impecable y agradable  
+(observando el código de conducta prescrito para su varṇa y su āśrama)  
+y en aras de deleite (en el disfrute de las cualidades auspiciosas de Bhagavān)  
+frecuentemente estudia vedānta con buenos hombres,  
+Enseña las expresiones dulces y nobles (de tales como Alvars), siempre y también escucha a ellos.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-सन्तोषार्थं विमृशति मुहुस्सद्भिरद्ध्यात्मविद्यां  
+सन्तोषार्थं विमृशति मुहुस्सद्भिरध्यात्मविद्यां  
 नित्यं ब्रूते निशमयति च स्वादु सुव्याहृतानि ।  
 अङ्गीकुर्वन्ननघललितां वृत्तिमादेहपातात्  
 दृष्टादृष्टस्वभरविगमे दत्तदृष्टिः प्रपन्नः ॥ ३४ ॥
 </details>
 
-The prapanna, with his eyes fixed on the absence of his own responsibility (bhara) in regard to both what is seen in this life and what is to come hereafter, follows, until the fall of his body, a course of action which is faultless and agreeable ( observing the code of conduct prescribed for his varṇa and his āśrama) and for the sake of delight (in the enjoyment of the auspicious qualities of Bhagavān ) frequently studies Vedānta  with good men, teaches the sweet and noble utterances (of such as Alvars ), always and also listens to them.
+<details><summary>सायण-टीका</summary>
+
+इप्पडि कृतकृत्यऩाय् स्वनिष्ठैयिल् तॆळिवुळ्ळ परमैकान्तिक्कु कर्तव्यङ्गळाऩ उत्तरकृत्यङ्गळै इव्वधिकारत्तिल् सॊल्लप्पोगिऱवराय् अवैगळै ऒरु श्लोकत्ताले सङ्ग्रहित्तुक्काट्टुगिऱार् सन्तोषार्थमिति । प्रपन्नः – इप्पडिप्पट्ट प्रपन्नऩाऩवऩ्, दृष्टादृष्टस्वभरविगमे – दृष्टादृष्टविषयङ्गळाऩ स्वभरङ्गळुडैय निर्गमत्तिल् दृष्टविषयत्तिल् स्वभरम् पूर्वकर्माधीनमागैयालुम्, अदृष्टविषयत्तिल् स्वभरम् भगवाऩिडत्तिल् समर्पित मागैयालुम् तऩ्ऩिडत्तिल् अवैयिरण्डुमिल्लामैयिले दत्तदृष्टिः – सावधानदृष्टिः, तऩक्कु भरङ्गळिल्लामैयाल् तदर्थमाग कर्तव्यविषयत्तिल् सावधानऩायॆऩ्ऱ पडि। अदावदु - तऩक्कु इरण्डु भरमुमिल्लैयागैयाल् इरण्डु भरत्तिऱ् कागवुम् कर्तव्यांशमॊऩ्ऱुमिल्लै यॆऩ्ऱु निश्चयमुडैयवऩाय्, आदेहपातात् – देहावसानपर्यन्तम्, अनघ – अपराधम् कलसाददाऩ, लळितां – प्रयोजनान्तराभिसन्धियिल्लामैयाले मनोज्ञमाऩ, वृत्तिं – नित्यनैमित्तिकादिरूपमाऩ शेषवृत्तियै, अङ्गीकुर्वन् - अङ्गीगरिक् किऱवऩाय्क्कॊण्डु, कृतकृत्यऩाऩ प्रपन्नऩुक्कु उपायाङ्गतया वर्णाश्रमधर्मानुष्ठानम् वेण्डामागिलुम् ‘‘विहितत्वाच्चाश्रमकर्मापि ऎऩ्ऱु सॊऩ्ऩबडि वर्णाश्रमोचितमाऩ अकरणे प्रत्यवायापादकमाऩ नित्यनैमित्तिककर्मानुष्ठानम् अवश्यम् वेण्डुमागैयाल् अदै यङ्गीगरित्त वऩायॆऩ्ऱबडि। सन्तोषार्थं – भगवत्कल्याणगुणङ्गळुडैय अनुभवविशेषत्ताले युण्डागुम् सन्तोषार्थम्, आनन्दार्थमॆऩ्ऱबडि। इदु सावधारणम्। अनुष्ठितोपायऩाऩ कृतकृत्यऩुक्कुतत्त्वोपायादिविषयकज्ञानार्थमाग वेदान्तपरिशीलनम् वेण्डामिऱे। सद्भिः – 
+
+> ‘‘अस्ति ब्रह्मेति चेद् वेद ।  
+> सन्तम् एनन् ततो विदुः’’ 
+
+ऎऩ्ऱु सॊल्लप्पट्ट ब्रह्मवित्तुक्कळोडे कूड, अद्ध्यात्मविद्यां – परमात्मविषयकमाऩ शारीरकविद्यां, मुहुः – सर्वदा, विमृशति – विमृशेदित्यर्थः । सर्वदा परिचयम् पण्णक् कडवऩॆऩ्ऱबडि। अप्राप्तत्वाद्विधिः । ‘‘भौमाः पिबन्त्व् अन्वहं’’ ऎऩ्ऱु सॊल्लप्पट्टदिऱे। स्वादुसुव्याहृतानि – स्वादु – सॆविक्किऩिय सॆञ्जॊल् ऎऩ्ऱुम् 
+
+> ‘‘पराशर-प्रबन्धाद् अपि परमात्मनि सद्यश् चित्त-रञ्जकतमैः’’ 
+
+ऎऩ्ऱुम् सॊल्लुगिऱबडिये अतिरस्यङ्गळायुम्, सु–सुष्ठुक्कळायुम्, श्रवणमात्रत्तालेये शृण्वतां सर्वपापहरङ्गळुमाऩ वॆऩ्ऱबडि। व्याहृतानि – शठकोपादि-दिव्यसूरिकळुडैय प्रबन्धङ्गळै, अद्ध्यात्मविद्यैयिऩुडैय सारसङ्ग्रहरूपङ्गळागैयाल्, इवैगळैयुम् नित्यं ब्रूते – प्रतिदिनं शिष्येभ्यो ब्रूयादित्यर्थः । सन्तोषार्थम् ऎऩ्बदै इङ्गेयुम् सेर्त्तुक्कॊळ्वदु। इङ्गु अधिकारिभेदसूचकमिल्लामैयालुम्, चकारमिरुप्पदालुम् पूर्णाधिकारियाऩ ऒरुवऩुक्के रसविशेषानुभवावहङ्गळाऩ व्यापारङ्गळ् मूऩ्ऱुम् विधिक्कप्पडुगिऱदुगळ्। निशमयति - ताऩाग आचार्यर्गळिडत्तिल् केऴ्क्कवेण्डुमॆऩ्गै। अध्यात्म विद्याविमर्शमुम्, शिष्यर्गळुक्कु सुव्याहृतङ्गळुडैय बोधनमुम्, आचार्य सकाशादपूर्वार्थश्रवणमुम् भिन्नभिन्नानन्दङ्गळुक्कु हेतुक्कळागैयाल् सति सम्भवे इवै मूऩ्ऱैयुम् उत्तरकालत्तिल् अनुष्ठिक्कक्कडवऩॆऩ्ऱु करुत्तु। इङ्गु सॊऩ्ऩदु उत्तरकृत्यमाऩ सर्वत्तुक्कुमुपलक्षणम्।  
+</details>
+
+
+## ज्ञानानुष्ठानयोर् आवश्यकत्वम्
+
+<details><summary>English</summary>
 
 THE CODE OF CONDUCT SUITED FOR A PRAPANNA:
+</details>
+
+<details><summary>Español</summary>
+
+El Código de Conducta adecuado para un Prapanna:
+</details>
+ 
+
+
 
 The man who has thus done what he should do and infers his proper attainment of niṣṭhā (in svarūpa, upāya and puruṣārtha) should follow the line of conduct described hereunder as long as he lives, like a farmer who, out of a big field fit for use in the adoration of the Lord, gives up a large part and reserves only a small fraction of it as enough for his needs. This adhikārī, namely, the prapanna, who has given up his connection with many things and is still connected with certain things (like the body) should follow a line of conduct which would be most delightful like the successive services rendered by released souls (in heaven). This line of conduct is an end in itself; it has been prescribed for him in the śāstras as required to be done (in certain specific divisions of time); it is a form of service connected by links to the service which is to follow immediately after and is the means of winning the favour of the Master and is also its effect. The following passages indicate this line of conduct; -
 
