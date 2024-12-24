@@ -124,9 +124,60 @@ El Código de Conducta adecuado para un Prapanna:
 </details>
  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि कृत-कृत्यऩ् आय्  
+स्व-निष्ठैयैत् तॆळिन्दु  
+शरीरत्तोड् इरुन्द कालम्  
+पऴन्+++(=पुरातन-)+++-तिरु-विडैयाट्टत्तिल्+++(=व्रीहि-क्षेत्रे)+++  
+सिऱुद्-इडत्तैय् अडैत्तुक् कॊण्ड् इरुप्पारैप् पोले  
+ऒरु बडि तुवक्क् अऱ्ऱ्  
+ऒरु बडि तुवक्क् उण्ड् इरुक्किऱ इव्व् अधिकारिक्कु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं कृत-कृत्यस्य स्व-निष्ठां विशदम् अभिज्ञातवतः स-शरीरत्वेनावस्थिति-काले,  
+पुरातने श्रीमति कृषि-क्षेत्रे  
+एक-देशम् आत्म-सात्-कृत्य वसत इव  
+केनचित प्रकारेण संबन्धं विसृज्य  
+केनचित् प्रकारेण संबन्धं वहतो ऽस्याधिकारिणः ---  
+</details>
+
+<details><summary>English</summary>
+
+The man who has thus done what he should do  
+and infers his proper attainment of niṣṭhā (in svarūpa, upāya and puruṣārtha)  
+should follow the line of conduct described hereunder as long as he lives,  
+like a farmer who, out of a big field fit for use in the adoration of the Lord,  
+gives up a large part and reserves only a small fraction of it as enough for his needs.  
+This adhikārī, namely, the prapanna, who has given up his connection with many things  
+and is still connected with certain things (like the body)  
+
+</details>
+
+<details><summary>Español</summary>
+
+El hombre que ha hecho lo que debe hacer  
+e infiere su logro adecuado de Niṣṭhā (en Svarūpa, Upāya y Puruṣārtha)  
+debe seguir la línea de conducta descrita a continuación mientras viva,  
+como un agricultor que, fuera de un gran campo apto para su uso en la adoración del Señor,
+Ringa una gran parte  
+y se reserva solo una pequeña fracción de la misma como suficiente para sus necesidades.  
+Este adhikārī, a saber, la Prapanna,  
+que ha renunciado a su conexión con muchas cosas  
+y todavía está conectado con ciertas cosas (como el cuerpo)
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि कृतकृत्यऩाय् स्वनिष्ठैयैत् तॆळिन्दु शरीरत्तोडिरुन्द कालम् पऴन्दिरुविडैयाट्टत्तिल् सिऱुदिडत्तै यडैत्तुक् कॊण्डिरुप् पारैप्पोले ऒरुबडि तुवक्कऱ्ऱॊरुबडि तुवक्कुण्डिरुक्किऱ इव्वधिकारिक्कु 
+</details>
 
 
-The man who has thus done what he should do and infers his proper attainment of niṣṭhā (in svarūpa, upāya and puruṣārtha) should follow the line of conduct described hereunder as long as he lives, like a farmer who, out of a big field fit for use in the adoration of the Lord, gives up a large part and reserves only a small fraction of it as enough for his needs. This adhikārī, namely, the prapanna, who has given up his connection with many things and is still connected with certain things (like the body) should follow a line of conduct which would be most delightful like the successive services rendered by released souls (in heaven). This line of conduct is an end in itself; it has been prescribed for him in the śāstras as required to be done (in certain specific divisions of time); it is a form of service connected by links to the service which is to follow immediately after and is the means of winning the favour of the Master and is also its effect. The following passages indicate this line of conduct; -
+
+
+… should follow a line of conduct which would be most delightful like the successive services rendered by released souls (in heaven). This line of conduct is an end in itself; it has been prescribed for him in the śāstras as required to be done (in certain specific divisions of time); it is a form of service connected by links to the service which is to follow immediately after and is the means of winning the favour of the Master and is also its effect. The following passages indicate this line of conduct; -
 
 "I read the books which describe the attributes and qualities of Bhagavān; I listened to other people reading them, I bowed to Him, I worshipped Him always and performed service to Him and thus saw to it that my time was not spent in vain".
 
