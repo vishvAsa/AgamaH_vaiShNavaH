@@ -191,11 +191,255 @@ y todavía está conectado con ciertas cosas (como el cuerpo)
 "इदऱ्कु उत्तर-कृत्यम् इरुक्कुम् बडिय्" ऎऩ्बदोड् अन्वयम्।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तर्-उडैय कैङ्कर्य--परं-परै पोले  
+स्वादुतमम् आगैयाले स्वयं-प्रयोजनम् आय्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुक्त-गत--कैङ्कर्य--परम्-परावत् [स्वादुतमतया स्वयं-प्रयोजनस्य] 
+</details>
 
 
-… should follow a line of conduct which would be most delightful like the successive services rendered by released souls (in heaven). This line of conduct is an end in itself; it has been prescribed for him in the śāstras as required to be done (in certain specific divisions of time); it is a form of service connected by links to the service which is to follow immediately after and is the means of winning the favour of the Master and is also its effect. The following passages indicate this line of conduct; -
+<details><summary>English</summary>
 
-"I read the books which describe the attributes and qualities of Bhagavān; I listened to other people reading them, I bowed to Him, I worshipped Him always and performed service to Him and thus saw to it that my time was not spent in vain".
+… should follow a line of conduct which would be most delightful like the successive services rendered by released souls (in heaven).  
+This line of conduct is an end in itself;  
+</details>
+
+<details><summary>Español</summary>
+
+... debería seguir una línea de conducta  
+Lo que sería más encantador como los servicios sucesivos prestados por las almas liberadas (en el cielo).  
+Esta línea de conducta es un fin en sí misma;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तरुडैय कैङ्कर्यपरंपरैपोले स्वादुतममागैयाले स्वयंप्रयोजनमाय्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्वधिकारिक्कु ऒरु प्रयोजनमऩ्ऱिक्के उत्तरकृत्यम् रुचिक्कुमो?  
+प्रयोजनान्तरमिल्लाविडिलुम् इदुवे स्वयं प्रयोजनमागैयाल् रुचिक्कलामॆऩ्ऩिल्, इप्पडि स्वयम्प्रयोजनमाग ऎण्णि कैङ्कर्यम् पण्णुगिऱवर्गळुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् मुक्तरुडैय कैङ्कर्यपरम्परै पोले इत्यादिना ।  
+स्वामिसम्प्रीणनतया सुहृल्लालनम्बोले स्वादुतममागवागलाम्; स्वादुतम मागैयाले स्वयम्प्रयोजनमाग आगलामॆऩ्ऱु करुत्तु। मुक्तर्गळ् भगवदभिप्रायत्तै साक्षात्करित्तु अदऱ्कनुगुणमाग अव्वो कालङ्गळिल् कैङ्कर्यपरम्परैयै अनुष्टित्तु वरुगिऱार्गळ्।  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-विभक्त-काल-विशेष-नियतम् आय्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[शास्त्र-विभक्त-काल-विशेष-नियतस्य]
+</details>
+
+<details><summary>English</summary>
+
+it has been prescribed for him in the śāstras as required to be done (in certain specific divisions of time);  
+</details>
+
+<details><summary>Español</summary>
+
+Se ha prescrito para él en los śāstras  
+como se requiere que se haga (en ciertas divisiones específicas de tiempo);  
+</details>
+
+<details><summary>मूलम्</summary>
+
+शास्त्रविभक्तकालविशेषनियतमाय्  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+> > इवऩुक्कु भगवद्-अभिप्राय-साक्षात्-कारम् इल्लामैयाल्  
+उत्तरकृत्यत्तै ऎन्दक्-कालत्तिल् ऎप्पडि अनुष्ठिक्किऱद् 
+> 
+> ऎऩ्ऱु अऱिन्दु  
+> अनुष्ठिक्क शक्यम् आगुमोव् 
+
+ऎऩ्ऩ, 
+
+> इवऩुक्कु भगवद्-अभिप्राय-साक्षात्कारम् इल्लाविडिलुम्  
+शास्त्रत्ताले 
+>
+>> इन्दक् कालत्तिले इन्द कैङ्कर्यत्तै  
+इप्पडि अनुष्ठिक्कवेण्डुम्  
+>
+> ऎऩ्गिऱ अवऩ् अभिप्रायत्तैय् अऱिन्दु  
+तत्-तत्-कालङ्गळिल् तत्तत्कैङ्कर्यम् अनुष्ठिक्क शक्यम् आगलाम् 
+
+ऎऩ्गिऱ अभिप्रायत्ताले अरुळिच्चॆय्गिऱार् शास्त्रविभक्तकालविशेषनियतमायिति ।  
+शास्त्रम् - पाञ्चरात्रादिशास्त्रम्। अदऩाले विभक्तकालविशेषम् - प्रतिदिनम् प्रथमयाममारभ्य पिरिक्कप्पट्टदाऩ अभिगमनोपादानेज्यास्वाद्ध्याययोगाख्यमाऩ ऐन्दु कालङ्गळ्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तर-कैङ्कर्यत्तुक्कु अवसर-लाभार्थम् आग  
+पूर्व-कैङ्कर्यम् +++(पूर्णतापत्त्या)+++ तलैक्-कट्ट-वेण्डुम् बडि सङ्गिलित् तुवक्क् आय् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उत्तर-कैङ्कर्यस्यावसरलाभार्थं  
+पूर्व-कैङ्कर्यं यथा परिपूर्णं स्यात् तथा शृङ्खलितस्य, 
+</details>
+
+<details><summary>English</summary>
+
+it is a form of service connected by links to the service which is to follow immediately after  
+</details>
+
+<details><summary>Español</summary>
+
+Es una forma de servicio conectada por enlaces al servicio que debe seguir inmediatamente después
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उत्तरकैङ्कर्यत्तुक्कु अवसरलाभार्थमाग पूर्व-कैङ्कर्यम् तलैक्कट्टवेण्डुम्बडि सङ्गिलित् तुवक्काय् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अवैगळिल् नियतमाय्, इन्द नैयत्यत्तै उपपादिक्किऱार् उत्तरकैङ्कर्यत्तुक्कु इत्यादिना । मेल् वरप्पोगिऱ उपादानकैङ्कर्यत्तिऱ्कु अवसरप्राप्ति आवश्यकमागैयाल् तदर्थम्, पूर्वकैङ्कर्यम् - प्रातरभिगमनरूपकैङ्कर्यम्।  
+तलैक् कट्टवेण्डुम्बडि - अवश्यम् मुडिक्क वेण्डुम्बडि। सङ्गिलित्तुवक्काय् - अयश्शृङ्खलाबन्धम्बोले अन्योन्यसक्तमाय्, 
+
+> ‘‘अभिगच्छन् हरिं प्रातः  
+> पश्चात् द्रव्याणि चार्जयन् ।  
+> अर्चयंश्च ततो देवं  
+> ततो मन्त्रान् जपन्नपि ॥  
+> ध्यायन्नपि परं देवं  
+> कालेषूक्तेषु पञ्चसु’’ 
+
+ऎऩ्गिऱबडिये पूर्वोत्तरभावरूप-सम्बन्धविशिष्टमायॆऩ्ऱबडि। 
+
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वामि-संप्रीतिक्कुक् कारणमुम् आय्  
+कार्यमुम् आय्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वामि-संप्रीतेः कारण-भूतस्य कार्य-भूतस्य च, 
+</details>
+
+<details><summary>English</summary>
+
+and is the means of winning the favour of the Master  
+and is also its effect.  
+</details>
+
+<details><summary>Español</summary>
+
+y es el medio para ganar el favor del maestro  
+y también es su efecto.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वामिसंप्रीतिक्कुक् कारणमुमाय् कार्यमुमाय्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि प्रतिदिनम् पाञ्चकालिककैङ्कर्यम् नियतमागिल् ‘‘कष्टं कर्म’’ ऎऩ्गिऱबडि क्लेशावहमागादोवॆऩ्ऩ वरुळिसॆय्गिऱार् स्वामिसम्प्रीतिक्कुक् कारणमुमाय्कार्यमुमायिति । 
+
+शेषत्व-रसम् अऱिन्दवऩुक्कु स्वामि-सम्प्रीति-पुरुषार्थतया उद्देश्यम् आगैयाले+++(5)+++  
+तत्-साधनतया इन्द कैङ्कर्यङ्गळुम् पुरुषार्थङ्गळ् आगुम्।  
+अप्पडिये 
+
+> ‘‘व्रतान्तम् अखिलं कालं  
+> **सेचयत्य्** अमृतेन तु’’ 
+
+ऎऩ्गिऱ बडि इवैगळ् भगवत्-प्रीति-कार्यङ्गळ् आगैयालेयुम्  
+शेषत्व-रसिकऩुक्कु भगवत्-प्रसाद-लब्धत्वेन अवैगळुम् पुरुषार्थङ्गळ् आगुम् इऱे।  
+"कष्टं कर्म" ऎऩ्बदु अन्यविषयम् -  
+पुरुषार्थेतर-विषयम् ऎऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'वासित्तुङ्, केट्टुम्, वणङ्गि, वऴि पट्टुम्, पूजित्तुम् पोक्किऩेऩ् पोदु'
+> (नाऩ्मुगऩ् तिरुवन्दादि ६३।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> '1 पठित्वा, श्रुत्वा, प्रणम्य,  
+> मार्गे एव गत्वा, संपूज्य, चानैषं कालम्" 
+
+इति 
+
+[[११६]] 
+</details>
+
+<details><summary>English</summary>
+
+The following passages indicate this line of conduct; -
+
+"I read the books which describe the attributes and qualities of Bhagavān;  
+I listened to other people reading them,  
+I bowed to Him,  
+I worshipped Him always  
+and performed service to Him  
+and thus saw to it that my time was not spent in vain".
+</details>
+
+<details><summary>Español</summary>
+
+Los siguientes pasajes indican esta línea de conducta;-
+
+"Leí los libros que describen los atributos y cualidades de Bhagavān;  
+Escuché a otras personas que los leían  
+Me incliné ante él  
+Lo adoraba siempre  
+y le realizó un servicio  
+y así me enteró que mi tiempo  
+no fue gastado en vano ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+'वासित्तुङ् गेट्टुम् वणङ्गि वऴिबट्टुम्बूसित्तुम् पोक्किऩेऩ् पोदु'(नाऩ्मुगऩ् तिरुवन्दादि ६३।) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि उत्तरकृत्यम् पुरुषार्थमाऩालुम् इदिऩ् अनुष्ठानत्तिऱ्कु प्रमाणसम्प्रदायङ्गळुण्डोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् वासित्तुम् केट्टुमित्यादि । वासित्तुम् - शास्त्रङ्गळैप् पडित्तुम्, केट्टुम् - अदिऩर्थङ्गळै आचार्यसकाशत्तिल् केट्टुम्, वणङ्गि - शास्त्रार्थङ्गळैक् केट्पदऱ्काग आचार्यर्गळै वणङ्गि, वऴिबट्टुम् - नल्वऴियिले नडन्दुम्, पूसित्तुम् - तिरुवाराधनम् सॆय्दुम्, पोक्किऩेऩ् पोदु - कालत्तैयॆल्लाम् अवन्ध्यमागप् पोक्किऩेऩ् ऎऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'सीर्+++(=सुगुण)+++-कलन्द सॊल् निऩैन्दु पोक्कारेल्+++(=न निवर्तयेयुश् चेत्)+++  
+> सूऴ्-विऩैयिऩाऴ् तुयरैय् ऎऩ् ऩिऩैन्दु  
+> पोक्कु वरिप्पोदु'(पॆरिय तिरुवन्दादि ८६) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>मूलम्</summary>
+
+'सीर् कलन्द सॊल् निऩैन्दु पोक्कारेल् सूऴ्विऩैयिऩाऴ्दुयरै यॆऩ्ऩिऩैन्दु पोक्कु वरिप्पोदु'(पॆरिय तिरुवन्दादि ८६) ऎऩ्ऱुम्,  
+</details>
+
+
 
 "Men should get rid of their sorrow which is as deep as the sea on account of past karma surrounding the soul, by meditating on those passages which reveal the Lord's qualities. If they should not do so, by what other thought can they get rid of their sorrow while in saṁsāra ?"
 
