@@ -428,11 +428,44 @@ no fue gastado en vano ".
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'सीर्+++(=सुगुण)+++-कलन्द सॊल् निऩैन्दु पोक्कारेल्+++(=न निवर्तयेयुश् चेत्)+++  
-> सूऴ्-विऩैयिऩाऴ् तुयरैय् ऎऩ् ऩिऩैन्दु  
-> पोक्कु वरिप्पोदु'(पॆरिय तिरुवन्दादि ८६) 
+> सूऴ्+++(=व्यापि?)+++-विऩैयिऩ्-आऴ्+++(=गम्भीर)+++-तुयरैय्+++(=दुःखं)+++  
+> ऎऩ् ऩिऩैन्दु पोक्कुवर् इप्पोदु'  
+> (पॆरिय तिरुवन्दादि ८६) 
 
 ऎऩ्ऱुम्,  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> कल्याण-गुण-युक्त-सूक्तीर् **अनुसन्धाय न निवर्तयेयुश्** चेत्  
+अभिव्यापि-कर्म-जनितम् अ-गाध-दुःखं,  
+किम् **अनुसन्धाय निवर्तयेयुर्** इदानीम्  
+
+इति,  
+</details>
+
+<details><summary>English</summary>
+
+> "Men should get rid of their sorrow  
+> which is as deep as the sea  
+> on account of past karma surrounding the soul, 
+> by meditating on those passages  
+> which reveal the Lord's qualities.  
+> If they should not do so,  
+> by what other thought can they get rid of their sorrow while in saṁsāra ?"
+</details>
+
+<details><summary>Español</summary>
+
+> "Los hombres deberían deshacerse de su dolor  
+> que es tan profundo como el mar  
+> Debido al karma pasado que rodea el alma,  
+> meditando sobre esos pasajes  
+> que revelan las cualidades del Señor.  
+> Si no lo hicieran,  
+> ¿Por qué otro pensamiento pueden deshacerse de su dolor mientras están en Saṁsāra? "
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -441,7 +474,7 @@ no fue gastado en vano ".
 
 
 
-"Men should get rid of their sorrow which is as deep as the sea on account of past karma surrounding the soul, by meditating on those passages which reveal the Lord's qualities. If they should not do so, by what other thought can they get rid of their sorrow while in saṁsāra ?"
+
 
 "We should, without intermission render service to the Lord in all places and in all circumstances and at all times".
 
