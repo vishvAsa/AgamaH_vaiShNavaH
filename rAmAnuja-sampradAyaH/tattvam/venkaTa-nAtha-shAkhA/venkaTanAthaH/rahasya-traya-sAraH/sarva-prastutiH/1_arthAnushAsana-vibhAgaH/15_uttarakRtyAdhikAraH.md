@@ -478,11 +478,99 @@ no fue gastado en vano ".
 </details>
  
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'ऒऴिव्+++(=विच्छेद)+++-इल्-कालम् ऎल्लाम् उडऩ् आय्  
+> मऩ्ऩि+++(=सार्वत्रिक)+++-वऴुव्+++(=प्रमाद)+++-इलाव् अडिमै सॆय्य-वेण्डु नाम्' 
+> (तिरुवाय्मॊऴि ३-३-१) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> विच्छेद-शून्यं कालं सर्वं सह **भूत्वा**,  
+सर्वावस्थासु **स्थित्वा**,  
+निर्दोष-**कैङ्कर्यं कर्तुं वाञ्छेम** वयम्
+
+इति, 
+</details>
 
 
-"We should, without intermission render service to the Lord in all places and in all circumstances and at all times".
+<details><summary>English</summary>
 
-"If the Lord is so gracious as to enable me to spend my time always with the passages which describe His qualities in my mouth, with His form alluring the eye and other senses in my mind, and with flowers fit enough for His form in my hands - if I find this grace, what is there unpleasant for me while living here?”
+> "We should, without intermission render service to the Lord  
+> in all places and in all circumstances and at all times".
+</details>
+
+<details><summary>Español</summary>
+
+> "Deberíamos, sin intermedio, prender servicio al Señor  
+> en todos los lugares y en todas las circunstancias y en todo momento ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'ऒऴिविल् कालमॆल्लामुडऩाय् मऩ्ऩि वऴुविलावडिमै सॆय्यवेण्डु नाम्'(तिरुवाय्मॊऴि ३-३-१) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'पॊङ्ग् एऴ् पुगऴ्गळ् **वायव् आय्**  
+> पुलऩ्+++(=इन्द्रिय)+++-गॊळ्-वडिवॆऩ्+++(=विग्रहः)+++ **मऩत्तद् आय्**  
+> अङ्गे मलर्गळ् **कैय्यव् आय्**  
+> वऴि-पट्ट् **ओडव् अरुळिल्**'(तिरुवाय्मॊऴि ८-१०-४।) +++(5)+++  
+> +++(इङ्गे तिरिन्देर्क्कु इऴुक्क् उऱ्ऱ् ऎऩ्?)+++
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> " उपर्य् उपरि जृम्भमाणा गुण-प्रथाः मुखे,  
+> इन्द्रियापहारि-विग्रहं मन्-मनसि,  
+> तद्-अनुरूप-पुष्पाणि च हस्तयोः कृत्वा  
+> ( कैङ्कर्य-)मार्गम् आश्रित्य  
+> सर्वदा वृत्तये कृपां कुर्याच् चेत्" +++(5)+++  
+> +++(का क्षतिर् अत्र जीविते?)+++
+
+इति 
+</details>
+
+<details><summary>English</summary>
+
+> "If the Lord is so gracious as to enable me to spend my time always with the passages which describe His qualities in my mouth,  
+> with His form alluring the eye and other senses in my mind,  
+> and with flowers fit enough for His form in my hands  
+> - if I find this grace,  
+> what is there unpleasant for me while living here?”+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+> "Si el Señor es tan amable  
+> como para permitirme pasar mi tiempo  
+> siempre con los pasajes que describen sus cualidades en mi boca,  
+> con su forma aliviar el ojo y otros sentidos en mi mente,  
+> y con flores se ajusta lo suficiente para su forma en mis manos  
+> - Si encuentro esta gracia,  
+> ¿Qué hay desagradable para mí mientras vive aquí?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'पॊङ्गेऴ् पुगऴ्गळ् वायवाय् पुलऩ्गॊळ् वडिवॆऩ् मऩत्तदायङ्गे मलर्गळ्गैय्यवाय् वऴिबट्टोड वरुळिल्'(तिरुवाय्मॊऴि ८-१०-४।) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऒऴिविल् - ऒऴिविल्लादबडि, कालमॆल्लाम् - ऎल्लाक्कालत्तिलुम्। उडऩाय् मऩ्ऩि - सर्वदेशसर्वावस्थैयिलुम् कूड निऩ्ऱु वऴुविला - विच्छेदमिल्लाद, अथवा दोषम् कलसाद। नाम् अडिमै सॆय्यवेण्डुम् - अडिमै सॆय्यक्कडवोम्। पॊङ्गेऴित्यादि । पॊङ्गेऴ् - पॊङ्गि ऎऴानिऩ्ऱ, अभिवृद्धमागिऱ ऎऩ्ऱबडि। पुगऴ्गळ् - उऩ् कल्याणगुणङ्गळ्। इदु कल्याणगुणप्रतिपादकमाऩ पासुरत्तिल् लाक्षणिकम्। वायवाय् - वाग्विषयमागुम्बडिक्कुम्, पुलऩ् - इन्द्रियङ्गळै, आन्तर-बाह्येन्द्रियङ्गळै ऎऩ्ऱबडि। कॊळ् -कॊळ्ळानिऱ्किऱ, दृष्टिचित्ताकर्षकमाऩ ऎऩ्ऱबडि। वडिवु - अऴगियदाऩ उऩ् तिरुमेऩि। ऎऩ् मऩत्तदाय् - ऎऩ्ऩुडैय मऩदुक्कु विषयमागुम्बडियुम्। अङ्गे मलर्गळ् - अन्द तिरुमेऩियिल् समर्पिक्कैक्कु योग्यमाऩ पुष्पङ्गळ्। कैय्यवाय् - हस्तगतमागुम्बडियुम्, वऴिप्पट्टोड - वऴिप्पट्टु- सन्मार्गत्तिले प्रवेशित्तु, ओड - नडक्कुम्बडि। अरुळिल् - कृपै पण्णिऩाऩागिल्। इङ्गे तिरिन्देर्क्कु - इन्द लोगत्तिले वसिप् पवर्क्कु। इऴुक्कुऱ्ऱॆऩ् - इऴुक्कु ऎऩ् ऎऩ्ऱबडि। उऱ्ऱु ऎऩ्बदु अव्ययम्। मनोवाक्कायरूपकरणत्रयङ्गळाले तऩ्ऩुडैय कैङ्गर्यत्तैप् पण्णुम्बडि भगवाऩ् कृपै पण्णिऩाऩागिल् इन्द लोकत्तिल् वासमात्रत्ताले ऎऩ्ऩ कुऱ्ऱमुण्डागुम्? ऒऩ्ऱुम् उण्डागादॆऩ्ऱबडि। 
+</details>
+
+
+
 
 "I was born to seek flowers that are hard to obtain in order that they may be placed at the Lord's feet"
 
