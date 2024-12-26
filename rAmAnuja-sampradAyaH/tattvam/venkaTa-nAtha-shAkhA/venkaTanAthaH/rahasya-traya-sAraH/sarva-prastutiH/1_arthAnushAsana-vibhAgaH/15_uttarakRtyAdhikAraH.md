@@ -570,13 +570,176 @@ no fue gastado en vano ".
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'नाडाद +++(=दुर्लभानि)+++ मलर् नाडि+++(=लब्ध्वा)+++'(तिरुवाय्मॊऴि १-४-९) +++(5)+++  
+(नाळ्-तोऱुम् नारणऩ्-तऩ्-वाडाद-मलर्-अडिक्-कीऴ् वैक्कवे)
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अ-लब्धानि पुष्पाणि  
+> अभिलष्य संपाद्य"  
+> +++(नित्यं नारायणाम्लायमान-पद-पुष्पयोः स्थापयानि)+++
+
+इति, 
+
+</details>
 
 
-"I was born to seek flowers that are hard to obtain in order that they may be placed at the Lord's feet"
+<details><summary>English</summary>
 
-“May I, the sinner that I am, press the tender feet of the Lord which are gently pressed by the incomparably beautiful Lakṣmī  and the other, viz, the goddess of the Earth!”
+> "I was born to seek flowers that are hard to obtain  
+in order that they may be placed at the Lord's feet"
 
-“This is the only object that I desire – that the Lord should take me into His service for His own satisfaction". "We will render service, O Lord, only to Thee".
+</details>
+
+<details><summary>Español</summary>
+
+> "Nací para buscar flores  
+> que sean difíciles de obtener  
+> Para que puedan colocarse a los pies del Señor "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'नाडाद मलर् नाडि'(तिरुवाय्मॊऴि १-४-९) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+नाडाद मलर् नाडि - तेडवरिय पुष्पङ्गळॆल्लाम् तेडि, अथवा आन्तरपुष्पत्तैच् चॊल्लुगिऱदु ऎऩ्बारुम् उण्डु।  
+इदऱ्कु 'नाडोऱुम् नारणऩ् तऩ् वाडाद मलरडिक्कीऴ् वैक्कवे' ऎऩ्बदोडन्वयम्। नाळ्दोऱुम् नारायणऩुडैय सॆव्विमाऱाद पूप्पोलेयिरुक्किऱ तिरुवडिगळिऩ् समीबत्तिले समर्पिक्कैक्कागवे ऎऩ्गै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'वडिव्+++(=विग्रह)+++-इणैय्+++(=सादृश्य)+++-इल्ला मलर्-मगळ्,  
+> मऱ्ऱ निल+++(=भू)+++-मगळ् पिडिक्कु  
+> मॆल्ल्+++(=मृदु)+++-अडियैक्  
+> कॊडु+++(=क्रूर)+++-विऩैय् एऩुम्+++(=अहम् अपि)+++ पिडिक्क'(तिरुवाय्मॊऴि ९-२-१०) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अनुपमया पुष्पाङ्गनया,  
+> अन्यया भूमि-देव्या च संवाह्यमानं मृदु-चरणं क्रूर-कर्मा ऽहम् अपि यथा संवाहयेयं तथा 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+“May I, the sinner that I am,  
+press the tender feet of the Lord  
+which are gently pressed by the incomparably beautiful Lakṣmī   
+and the other, viz, the goddess of the Earth!”
+</details>
+
+<details><summary>Español</summary>
+
+"¿Puedo yo, el pecador que soy?  
+Presione los pies tiernos del Señor  
+que son suavemente presionados por el lakṣmī incomparablemente hermoso  
+¡Y el otro, a saber, la diosa de la tierra!
+</details>
+
+<details><summary>मूलम्</summary>
+
+'वडिविणैयिल्ला मलर्मगळ् मऱ्ऱ निलमगळ् पिडिक्कु मॆल्लडियैक् कॊडुविऩैयेऩुम् पिडिक्क'(तिरुवाय्मॊऴि ९-२-१०) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वडिविणै इत्यादि । वडिवु - सौन्दर्यत्तिले। इणै – सादृश्यम्। इल्ला - इल्लादवळाऩ, मलर् मगळ् - पङ्कजमलरिल् पिऱन्द महालक्ष्मियॆऩ्ऩ, मऱ्ऱ - वेऱुबट्टवळाऩ, निल मगळ् - भूमिप्पिराट्टियॆऩ्ऩ, इवर्गळाल्, पिडिक्कुम् मॆल्लडियै - संवाह्य माऩ मृदुलमाऩ तिरुवडियै, कॊडुविऩैयेऩुम् पिडिक्क - पापिष्ठऩाऩ अडियेऩुम् संवाहनम् सॆय्युम्बडि ऎऩ्गै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तऩक्केय् आगव् ऎऩैक् कॊळ्ळुम् ईदे +++(काङ्क्षितम्)+++'(तिरुवाय्मॊऴि २-९-४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> स्व-मात्र--शेषतया+++(→स्वप्रयोजनेनैव)+++ मम स्वीकरणम् इतीदम् एव +++(काङ्क्षितम्)+++ 
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> “This is the only object that I desire –  
+> that the Lord should take me into His service  
+> for His own satisfaction". 
+</details>
+
+<details><summary>Español</summary>
+
+> “This is the only object that I desire –  
+> that the Lord should take me into His service  
+> for His own satisfaction". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+'तऩक्केय् आगव् ऎऩैक् कॊळ्ळुमीदे'(तिरुवाय्मॊऴि २-९-४) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तऩक्केयाग वॆऩैक्कॊळ्ळु मीदे - तऩ्ऩुडैय उगप्पुक्कागवे ऎऩ्ऩै अडिमै कॊळ्ळुगिऱ इत्तैये ऎऩ्गै। इदु अडिमै सॆय्युम्बोदु स्वप्रयोजनत्तैयुम् नडुवे आसैप्पडुगिऱेऩल्लेऩ् ऎऩ्बदैक् काट्टुगिऱदु। 
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'उऩक्के नाम् आट्+++(=क्रीडाम्??)+++ चॆय्वोम्'(तिरुप्पावै २९।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> तवैव वयं कैङ्कर्यं कुर्याम" 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+> "We will render service, O Lord, only to Thee".
+</details>
+
+<details><summary>Español</summary>
+
+> "Vamos a prender el servicio, oh Señor, solo para ti".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'उऩक्के नामाट्चॆय्वोम्'(तिरुप्पावै २९।) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उऩक्के नामाट्चॆय्वोम् - उऩ् उगप्पुक्कागवे नाङ्गळ् कैङ्कर्यम् पण्णक्कडवोम्।  
+</details>
+
+
+
+
 
 "If the Lord 'will be so gracious as to let us gently press His feet in the place where He sleepś', My fingers will keep count when I utter the names of the Lord."
 
