@@ -738,22 +738,304 @@ que son suavemente presionados por el lakṣmī incomparablemente hermoso
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'पळ्ळि-गॊळ्ळुम्-इडत्त्--अडि-कॊट्ट्+++(=मर्दनम्??)+++-इडक् कॊळ्ळुम् आगिल्'(नाच्चियार् तिरुमॊऴि ४१) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "8 शयन-स्थाने चरण-संवाहनार्थं स्वीकुर्याच् चेत्” 
+
+इति, 
+
+</details>
 
 
+<details><summary>English</summary>
 
-"If the Lord 'will be so gracious as to let us gently press His feet in the place where He sleepś', My fingers will keep count when I utter the names of the Lord."
+> "If the Lord will be so gracious as to let us gently press His feet in the place where He sleep,"  
+</details>
 
-"The days of my starvation are not those on which I do not eat - (they are) the days, if ever they occur, on which I do not constantly meditate saying "nāmo Nārāyaṇa'' and the days on which I do not approach Thy feet with the three Vedas which are (as it were) freshly bloomed flowers".
+<details><summary>Español</summary>
 
-"My tongue will not praise any one but Thee; I wonder whether Thou wilt suffer any loss of glory by my praise; but I cannot stop praising Thee, for my tongue is not under my control".
+> "Si el Señor será tan amable  
+> como para dejar que presione suavemente  
+> sus pies en el lugar donde duerma",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'पळ्ळिगॊळ्ळुमिडत्तडिगॊट्टिडक्कॊळ्ळु मागिल्'(नाच्चियार् तिरुमॊऴि ४१) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पळ्ळिगॊळ्ळुमित्यादि । पळ्ळिगॊळ्ळुमिडत्तु - तिरुक्कण् वळरुम्बोदु, अडिगॊट्टिड - तिरुवडिकळैप् पिडिक्कुम्बडि, कॊळ्ळुमागिल् - अडियेऩै अङ्गीकरिक्कुमागिल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'ऎण्णक्+++(=गणनाम्)+++-कण्ड विरल्गळ्'(पॆरियाऴ्वार् तिरुमॊऴि ४-४-३) ऎऩ्ऱुम्; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “10 +++(नाम-गुणादि-)+++गणनार्थम् आविर्भूताभिर् अङ्गुलिभिः " 
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> "My fingers will keep count  
+when I utter the names of the Lord."
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Mis dedos mantendrán la cuenta  
+Cuando pronuncio los nombres del Señor ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'ऎण्णक्कण्ड विरल्गळ्'(पॆरियाऴ्वार् तिरुमॊऴि ४-४-३) ऎऩ्ऱुम्; 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ऎण्णक् कण्डविरल्गळ् - भगवन्नामङ्गळै ऎण्णुगैक्कु समर्थङ्गळाऩ विरल्गळ्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'उण्णा नाळ् पसिय् आवद् ऒऩ्ऱ् इल्लैय्  
+> 
+> ओवादे+++(=विच्छेदं विना)+++ नमो नारणाव् ऎऩ्ऱ् ऎण्णा नाळुम् इरुक्क्+++(=ऋक्)+++-ऎजुस्+++(=यजुस्)+++-साम-वेद नाण्+++(=नव)+++-मलर् **कॊण्ड्**  
+> उऩ पादम् नण्णा+++(=उपसर्पण-रहिता)+++ नाळ्-अवै **तत्तुऱुम्**+++(=उद्भूतं)+++ आगिल्  
+> अऩ्ऱ् ऎऩक्क् अवै पट्टिऩि+++(=निराहार)+++ नाळे'(पॆरियाऴ्वार् तिरुमॊऴि ५-१-६) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[117]] 
+
+> भोजन-शून्य-दिने क्षुधेत्य्- एतत् किंचिद् अपि **नास्ति**, 
+> 
+> अविच्छेदेन "नमो नारायणे"ति **अनुसंधान-शून्या** दिवसाः  
+> ऋग्-यजुस्-साम-वेदान् नव-प्रफुल्ल-पुष्पाणि **गृहीत्वा**  
+> त्वत्-**पादोपसर्पण-रहित**-दिवसा मे **प्रसजेयुश्** चेत्  
+> ते मे उपवास-दिवसाः" 
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+"The days of my starvation are not those on which I do not eat  
+\- (they are) the days, if ever they occur,  
+on which I do not constantly meditate saying "nāmo Nārāyaṇa''  
+and the days on which I do not approach Thy feet with the three Vedas  
+which are (as it were) freshly bloomed flowers".
+</details>
+
+<details><summary>Español</summary>
+
+"Los días de mi hambre no son aquellos en los que no como  
+\- (son) los días, si alguna vez ocurren,  
+en el que no medito constantemente decir "nāmo nārāyaṇa ''  
+y los días en los que no me acerco a tus pies con los tres Vedas  
+que son (por así decirlo) flores recién florecidas ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'उण्णा नाळ् पसियावदॊऩ्ऱिल्लै योवादे नमो नारणावॆऩ्ऱॆण्णा नाळुमिरुक्कॆसुच् चामवेद नाण्मलर् कॊण्डुऩबादम् नण्णा नाळवै तत्तुऱुमागिलऩ्ऱॆऩक्कवै पट्टिऩि नाळे'(पॆरियाऴ्वार् तिरुमॊऴि ५-१-६) 
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'नाक्कु निऩ्ऩैय् अल्लाल् **अऱियादु**  
+> नाऩ् **अदञ्जुवऩ्** - ऎऩ् वशम् **अऩ्ऱु**' 
+> (पॆरियाऴ्वार् तिरुमॊऴि ५-१-१) +++(5)+++
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “18 वाक् त्वद्-व्यतिरिक्तं न वेद ।  
+> अहं बिभेमि; मद्-वशगा सा न" +++(5)+++
+
+इति  
+</details>
+
+<details><summary>English</summary>
+
+"My tongue will not praise any one but Thee;  
+I wonder whether Thou wilt suffer any loss of glory by my praise;  
+but I cannot stop praising Thee,  
+for my tongue is not under my control".+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+"Mi lengua no alabará a nadie más que a ti;  
+Me pregunto si sufrirás alguna pérdida de gloria por mis elogios;  
+Pero no puedo dejar de alabarte  
+porque mi lengua no está bajo mi control ". +++ (5) +++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'नाक्कु निऩ्ऩैयल्लालऱियादु नाऩदञ्जुवऩॆऩ् वसमऩ्ऱु'(पॆरियाऴ्वार् तिरुमॊऴि ५-१-१) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'वाय् अवऩैय् अल्लदु वाऴ्त्तादु'(मुदल् तिरुवन्दादि ११) 
+
+ऎऩ्ऱुम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> वाक् तद्-व्यतिरिक्तं न स्तुवीत
+
+इति, 
+
+</details>
+
+
+<details><summary>English</summary>
 
 "My mouth does not praise any one but Him",
+</details>
 
-"My shoulders do not bow to anyone but Him",
+<details><summary>Español</summary>
 
-"I will not look upon my soul which belongs to the Lord as my own, nor will I remain in the company of those mean persons who think so,"
+"Mi boca no elogia a nadie más que a él",
+</details>
 
-"May Thou be so gracious as to make me ever meditate on Thee ",
+
+<details><summary>मूलम्</summary>
+
+'वायवऩैयल्लदु वाऴ्त्तादु'(मुदल् तिरुवन्दादि ११) ऎऩ्ऱुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तोळ् अवऩैय् अल्लाल् तॊऴा+++(=न पूजयेत्)+++'(मुदल् तिरुवन्दादि ६३।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> स्कन्धौ तद्-व्यतिरिक्तं न सेवेयाताम् 
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> "My shoulders do not bow to anyone but Him",
+</details>
+
+<details><summary>Español</summary>
+
+> "Mis hombros no se inclinan ante nadie más que él",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'दोळवऩैयल्लाल् तॊऴा'(मुदल् तिरुवन्दादि ६३।) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'नयवेऩ् +++(=नेच्छेयम्)+++ पिऱर् पॊरुळै +++(आत्माख्यम्)+++'(मुदल् तिरुवन्दादि ६४) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> नेच्छेयं परेषां वस्तु +++(आत्माख्यम्)+++
+
+इति 
+</details>
+
+
+<details><summary>English</summary>
+
+> "I will not look upon my soul which belongs to the Lord as my own,  
+> nor will I remain in the company of those mean persons who think so,"+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+> "No miraré mi alma, que pertenece al Señor, como mía,  
+> Tampoco permaneceré en compañía de aquellas personas malas que piensan ",+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'नयवेऩ् पिऱर् पॊरुळै'(मुदल् तिरुवन्दादि ६४) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'निरन्तरं निऩैप्पद् आग  
+> नी निऩैक्क वेण्डुम्'  
+> (तिरुच्चन्दविरुत्तम् १०१) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "May Thou be so gracious as to make me ever meditate on Thee ",
+</details>
+
+<details><summary>Español</summary>
+
+> "Que seas tan amable como para hacer me meditar en ti",
+</details>
+
+<details><summary>मूलम्</summary>
+
+'निरन्दरम् निऩैप्पदाग नी निऩैक्कवेण्डुम्'(तिरुच्चन्दविरुत्तम् १०१) ऎऩ्ऱुम्, 
+</details>
+
+
+
+
 
 " When will these two eyes of mine delight in looking at the forehead of the Lord where the two gems that shed light shine dispelling darkness?"
 
