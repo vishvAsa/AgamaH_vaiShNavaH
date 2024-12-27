@@ -174,38 +174,868 @@ y todavía está conectado con ciertas cosas (como el cuerpo)
 इप्पडि कृतकृत्यऩाय् स्वनिष्ठैयैत् तॆळिन्दु शरीरत्तोडिरुन्द कालम् पऴन्दिरुविडैयाट्टत्तिल् सिऱुदिडत्तै यडैत्तुक् कॊण्डिरुप् पारैप्पोले ऒरुबडि तुवक्कऱ्ऱॊरुबडि तुवक्कुण्डिरुक्किऱ इव्वधिकारिक्कु 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सङ्गतिसूचनाय पूर्वाधिकारद्वयङ्गळुडैय अर्थत्तै अनुवदिक्किऱार् इप्पडि कृतकृत्यऩाय् स्वनिष्ठैयैत् तॆळिन्दु इति । शरीरत्तोडिरुन्द कालमिति । इदऩाल् वक्ष्यमाणमॆल्लाम् आर्तव्यतिरिक्तविषयमॆऩ्ऱु सूचितमागिऱदु। पऴन्दिरुविडैयाट्टत्तिल् - प्राचिनमाऩ क्षेत्रत्तिल्, विडैयाट्टम् - क्षेत्रम् - व्रीह्युत्पादकक्षेत्रम्। इङ्गु तिरु शब्दम् पूजार्थम्। तिरुमाळिगै ऎऩ्ऩुमाप्पोले। सिऱुदिडत्तै यडैत्तुक् कॊण्डिरुप्पारैप्पोले - पूर्वं तऩ्ऩुडैयदाऩ इप्पॊऴुदु क्रयम् सॆय्यप्पट्ट क्षेत्रत्तिल् स्वसौकर्यार्थमायुम्, वासार्थमायुम्, स्वल्पांशत्तै मासमूल्यत्तिऩुडैय अदावदु - वाडगैयिऩुडैय प्रदानत्ताले यावदायुषम् वैत्तुक्कॊण्डिरुक्कुम् लौकिकप्रभुक्कळैप्पोले यॆऩ्ऱबडि।  
+ऒरुबडि तुवक्कऱ्ऱॊरुबडि तुवक्कुण्डिरुक्किऱ इव्वधिकारिक्कु - शरीरादिगळिलित्यादिः ।  
+
+अन्द लौकिकर्गळ् क्रयिक्कप्पट्ट-क्षेत्रादिगळिल्  
+स्वाभाविक-**स्वामित्व-सम्बन्धम् अऱ्ऱु**  
+मूल्य-दानत्ताले औपाधिक-स्वामित्व-**सम्बन्धत्तै वैत्तुक् कॊण्ड् इरुक्कुमाप् पोले**  
+शरीरादिगळिल् भगवदीयत्व-बुद्धियाले स्वाभाविक-स्वामित्व-सम्बन्धत्तै **विट्टु**  
+
+औपाधिक-स्वामित्व बुद्धियैयुम्,  
+वर्णाश्रम-धर्मङ्गळिल् उपायोपेयत्व-बुद्धियैयुम्,  
+ऋणापनोदत्वक-बुद्धियैयुम् **विट्टु**  
+केवल-भगवद्-आराधन-वेषत्व-बुद्धियैयुम् **उडैय** इव्व् अधिकारिक्कु,  
+"इदऱ्कु उत्तर-कृत्यम् इरुक्कुम् बडिय्" ऎऩ्बदोड् अन्वयम्।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुक्तर्-उडैय कैङ्कर्य--परं-परै पोले  
+स्वादुतमम् आगैयाले स्वयं-प्रयोजनम् आय्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुक्त-गत--कैङ्कर्य--परम्-परावत् [स्वादुतमतया स्वयं-प्रयोजनस्य] 
+</details>
+
+
+<details><summary>English</summary>
+
+… should follow a line of conduct which would be most delightful like the successive services rendered by released souls (in heaven).  
+This line of conduct is an end in itself;  
+</details>
+
+<details><summary>Español</summary>
+
+... debería seguir una línea de conducta  
+Lo que sería más encantador como los servicios sucesivos prestados por las almas liberadas (en el cielo).  
+Esta línea de conducta es un fin en sí misma;
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुक्तरुडैय कैङ्कर्यपरंपरैपोले स्वादुतममागैयाले स्वयंप्रयोजनमाय्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्वधिकारिक्कु ऒरु प्रयोजनमऩ्ऱिक्के उत्तरकृत्यम् रुचिक्कुमो?  
+प्रयोजनान्तरमिल्लाविडिलुम् इदुवे स्वयं प्रयोजनमागैयाल् रुचिक्कलामॆऩ्ऩिल्, इप्पडि स्वयम्प्रयोजनमाग ऎण्णि कैङ्कर्यम् पण्णुगिऱवर्गळुण्डो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् मुक्तरुडैय कैङ्कर्यपरम्परै पोले इत्यादिना ।  
+स्वामिसम्प्रीणनतया सुहृल्लालनम्बोले स्वादुतममागवागलाम्; स्वादुतम मागैयाले स्वयम्प्रयोजनमाग आगलामॆऩ्ऱु करुत्तु। मुक्तर्गळ् भगवदभिप्रायत्तै साक्षात्करित्तु अदऱ्कनुगुणमाग अव्वो कालङ्गळिल् कैङ्कर्यपरम्परैयै अनुष्टित्तु वरुगिऱार्गळ्।  
+</details>
 
 
 
-… should follow a line of conduct which would be most delightful like the successive services rendered by released souls (in heaven). This line of conduct is an end in itself; it has been prescribed for him in the śāstras as required to be done (in certain specific divisions of time); it is a form of service connected by links to the service which is to follow immediately after and is the means of winning the favour of the Master and is also its effect. The following passages indicate this line of conduct; -
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"I read the books which describe the attributes and qualities of Bhagavān; I listened to other people reading them, I bowed to Him, I worshipped Him always and performed service to Him and thus saw to it that my time was not spent in vain".
+शास्त्र-विभक्त-काल-विशेष-नियतम् आय्  
+</details>
 
-"Men should get rid of their sorrow which is as deep as the sea on account of past karma surrounding the soul, by meditating on those passages which reveal the Lord's qualities. If they should not do so, by what other thought can they get rid of their sorrow while in saṁsāra ?"
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-"We should, without intermission render service to the Lord in all places and in all circumstances and at all times".
+[शास्त्र-विभक्त-काल-विशेष-नियतस्य]
+</details>
 
-"If the Lord is so gracious as to enable me to spend my time always with the passages which describe His qualities in my mouth, with His form alluring the eye and other senses in my mind, and with flowers fit enough for His form in my hands - if I find this grace, what is there unpleasant for me while living here?”
+<details><summary>English</summary>
 
-"I was born to seek flowers that are hard to obtain in order that they may be placed at the Lord's feet"
+it has been prescribed for him in the śāstras as required to be done (in certain specific divisions of time);  
+</details>
 
-“May I, the sinner that I am, press the tender feet of the Lord which are gently pressed by the incomparably beautiful Lakṣmī  and the other, viz, the goddess of the Earth!”
+<details><summary>Español</summary>
 
-“This is the only object that I desire – that the Lord should take me into His service for His own satisfaction". "We will render service, O Lord, only to Thee".
+Se ha prescrito para él en los śāstras  
+como se requiere que se haga (en ciertas divisiones específicas de tiempo);  
+</details>
 
-"If the Lord 'will be so gracious as to let us gently press His feet in the place where He sleepś', My fingers will keep count when I utter the names of the Lord."
+<details><summary>मूलम्</summary>
 
-"The days of my starvation are not those on which I do not eat - (they are) the days, if ever they occur, on which I do not constantly meditate saying "nāmo Nārāyaṇa'' and the days on which I do not approach Thy feet with the three Vedas which are (as it were) freshly bloomed flowers".
+शास्त्रविभक्तकालविशेषनियतमाय्  
+</details>
 
-"My tongue will not praise any one but Thee; I wonder whether Thou wilt suffer any loss of glory by my praise; but I cannot stop praising Thee, for my tongue is not under my control".
+<details><summary>सायण-टीका</summary>
+
+> > इवऩुक्कु भगवद्-अभिप्राय-साक्षात्-कारम् इल्लामैयाल्  
+उत्तरकृत्यत्तै ऎन्दक्-कालत्तिल् ऎप्पडि अनुष्ठिक्किऱद् 
+> 
+> ऎऩ्ऱु अऱिन्दु  
+> अनुष्ठिक्क शक्यम् आगुमोव् 
+
+ऎऩ्ऩ, 
+
+> इवऩुक्कु भगवद्-अभिप्राय-साक्षात्कारम् इल्लाविडिलुम्  
+शास्त्रत्ताले 
+>
+>> इन्दक् कालत्तिले इन्द कैङ्कर्यत्तै  
+इप्पडि अनुष्ठिक्कवेण्डुम्  
+>
+> ऎऩ्गिऱ अवऩ् अभिप्रायत्तैय् अऱिन्दु  
+तत्-तत्-कालङ्गळिल् तत्तत्कैङ्कर्यम् अनुष्ठिक्क शक्यम् आगलाम् 
+
+ऎऩ्गिऱ अभिप्रायत्ताले अरुळिच्चॆय्गिऱार् शास्त्रविभक्तकालविशेषनियतमायिति ।  
+शास्त्रम् - पाञ्चरात्रादिशास्त्रम्। अदऩाले विभक्तकालविशेषम् - प्रतिदिनम् प्रथमयाममारभ्य पिरिक्कप्पट्टदाऩ अभिगमनोपादानेज्यास्वाद्ध्याययोगाख्यमाऩ ऐन्दु कालङ्गळ्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तर-कैङ्कर्यत्तुक्कु अवसर-लाभार्थम् आग  
+पूर्व-कैङ्कर्यम् +++(पूर्णतापत्त्या)+++ तलैक्-कट्ट-वेण्डुम् बडि सङ्गिलित् तुवक्क् आय् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उत्तर-कैङ्कर्यस्यावसरलाभार्थं  
+पूर्व-कैङ्कर्यं यथा परिपूर्णं स्यात् तथा शृङ्खलितस्य, 
+</details>
+
+<details><summary>English</summary>
+
+it is a form of service connected by links to the service which is to follow immediately after  
+</details>
+
+<details><summary>Español</summary>
+
+Es una forma de servicio conectada por enlaces al servicio que debe seguir inmediatamente después
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उत्तरकैङ्कर्यत्तुक्कु अवसरलाभार्थमाग पूर्व-कैङ्कर्यम् तलैक्कट्टवेण्डुम्बडि सङ्गिलित् तुवक्काय् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अवैगळिल् नियतमाय्, इन्द नैयत्यत्तै उपपादिक्किऱार् उत्तरकैङ्कर्यत्तुक्कु इत्यादिना । मेल् वरप्पोगिऱ उपादानकैङ्कर्यत्तिऱ्कु अवसरप्राप्ति आवश्यकमागैयाल् तदर्थम्, पूर्वकैङ्कर्यम् - प्रातरभिगमनरूपकैङ्कर्यम्।  
+तलैक् कट्टवेण्डुम्बडि - अवश्यम् मुडिक्क वेण्डुम्बडि। सङ्गिलित्तुवक्काय् - अयश्शृङ्खलाबन्धम्बोले अन्योन्यसक्तमाय्, 
+
+> ‘‘अभिगच्छन् हरिं प्रातः  
+> पश्चात् द्रव्याणि चार्जयन् ।  
+> अर्चयंश्च ततो देवं  
+> ततो मन्त्रान् जपन्नपि ॥  
+> ध्यायन्नपि परं देवं  
+> कालेषूक्तेषु पञ्चसु’’ 
+
+ऎऩ्गिऱबडिये पूर्वोत्तरभावरूप-सम्बन्धविशिष्टमायॆऩ्ऱबडि। 
+
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वामि-संप्रीतिक्कुक् कारणमुम् आय्  
+कार्यमुम् आय्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वामि-संप्रीतेः कारण-भूतस्य कार्य-भूतस्य च, 
+</details>
+
+<details><summary>English</summary>
+
+and is the means of winning the favour of the Master  
+and is also its effect.  
+</details>
+
+<details><summary>Español</summary>
+
+y es el medio para ganar el favor del maestro  
+y también es su efecto.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वामिसंप्रीतिक्कुक् कारणमुमाय् कार्यमुमाय्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि प्रतिदिनम् पाञ्चकालिककैङ्कर्यम् नियतमागिल् ‘‘कष्टं कर्म’’ ऎऩ्गिऱबडि क्लेशावहमागादोवॆऩ्ऩ वरुळिसॆय्गिऱार् स्वामिसम्प्रीतिक्कुक् कारणमुमाय्कार्यमुमायिति । 
+
+शेषत्व-रसम् अऱिन्दवऩुक्कु स्वामि-सम्प्रीति-पुरुषार्थतया उद्देश्यम् आगैयाले+++(5)+++  
+तत्-साधनतया इन्द कैङ्कर्यङ्गळुम् पुरुषार्थङ्गळ् आगुम्।  
+अप्पडिये 
+
+> ‘‘व्रतान्तम् अखिलं कालं  
+> **सेचयत्य्** अमृतेन तु’’ 
+
+ऎऩ्गिऱ बडि इवैगळ् भगवत्-प्रीति-कार्यङ्गळ् आगैयालेयुम्  
+शेषत्व-रसिकऩुक्कु भगवत्-प्रसाद-लब्धत्वेन अवैगळुम् पुरुषार्थङ्गळ् आगुम् इऱे।  
+"कष्टं कर्म" ऎऩ्बदु अन्यविषयम् -  
+पुरुषार्थेतर-विषयम् ऎऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'वासित्तुङ्, केट्टुम्, वणङ्गि, वऴि पट्टुम्, पूजित्तुम् पोक्किऩेऩ् पोदु'
+> (नाऩ्मुगऩ् तिरुवन्दादि ६३।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> '1 पठित्वा, श्रुत्वा, प्रणम्य,  
+> मार्गे एव गत्वा, संपूज्य, चानैषं कालम्" 
+
+इति 
+
+[[११६]] 
+</details>
+
+<details><summary>English</summary>
+
+The following passages indicate this line of conduct; -
+
+"I read the books which describe the attributes and qualities of Bhagavān;  
+I listened to other people reading them,  
+I bowed to Him,  
+I worshipped Him always  
+and performed service to Him  
+and thus saw to it that my time was not spent in vain".
+</details>
+
+<details><summary>Español</summary>
+
+Los siguientes pasajes indican esta línea de conducta;-
+
+"Leí los libros que describen los atributos y cualidades de Bhagavān;  
+Escuché a otras personas que los leían  
+Me incliné ante él  
+Lo adoraba siempre  
+y le realizó un servicio  
+y así me enteró que mi tiempo  
+no fue gastado en vano ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+'वासित्तुङ् गेट्टुम् वणङ्गि वऴिबट्टुम्बूसित्तुम् पोक्किऩेऩ् पोदु'(नाऩ्मुगऩ् तिरुवन्दादि ६३।) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि उत्तरकृत्यम् पुरुषार्थमाऩालुम् इदिऩ् अनुष्ठानत्तिऱ्कु प्रमाणसम्प्रदायङ्गळुण्डोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् वासित्तुम् केट्टुमित्यादि । वासित्तुम् - शास्त्रङ्गळैप् पडित्तुम्, केट्टुम् - अदिऩर्थङ्गळै आचार्यसकाशत्तिल् केट्टुम्, वणङ्गि - शास्त्रार्थङ्गळैक् केट्पदऱ्काग आचार्यर्गळै वणङ्गि, वऴिबट्टुम् - नल्वऴियिले नडन्दुम्, पूसित्तुम् - तिरुवाराधनम् सॆय्दुम्, पोक्किऩेऩ् पोदु - कालत्तैयॆल्लाम् अवन्ध्यमागप् पोक्किऩेऩ् ऎऩ्ऱबडि। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'सीर्+++(=सुगुण)+++-कलन्द सॊल् निऩैन्दु पोक्कारेल्+++(=न निवर्तयेयुश् चेत्)+++  
+> सूऴ्+++(=व्यापि?)+++-विऩैयिऩ्-आऴ्+++(=गम्भीर)+++-तुयरैय्+++(=दुःखं)+++  
+> ऎऩ् ऩिऩैन्दु पोक्कुवर् इप्पोदु'  
+> (पॆरिय तिरुवन्दादि ८६) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> कल्याण-गुण-युक्त-सूक्तीर् **अनुसन्धाय न निवर्तयेयुश्** चेत्  
+अभिव्यापि-कर्म-जनितम् अ-गाध-दुःखं,  
+किम् **अनुसन्धाय निवर्तयेयुर्** इदानीम्  
+
+इति,  
+</details>
+
+<details><summary>English</summary>
+
+> "Men should get rid of their sorrow  
+> which is as deep as the sea  
+> on account of past karma surrounding the soul, 
+> by meditating on those passages  
+> which reveal the Lord's qualities.  
+> If they should not do so,  
+> by what other thought can they get rid of their sorrow while in saṁsāra ?"
+</details>
+
+<details><summary>Español</summary>
+
+> "Los hombres deberían deshacerse de su dolor  
+> que es tan profundo como el mar  
+> Debido al karma pasado que rodea el alma,  
+> meditando sobre esos pasajes  
+> que revelan las cualidades del Señor.  
+> Si no lo hicieran,  
+> ¿Por qué otro pensamiento pueden deshacerse de su dolor mientras están en Saṁsāra? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'सीर् कलन्द सॊल् निऩैन्दु पोक्कारेल् सूऴ्विऩैयिऩाऴ्दुयरै यॆऩ्ऩिऩैन्दु पोक्कु वरिप्पोदु'(पॆरिय तिरुवन्दादि ८६) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सीर् कलन्द - कल्याणगुणङ्गळोडु कूडिय। कल्याणगुणप्रतिपादकङ्गळाऩ ऎऩ्ऱबडि। सॊल् - सॊऱ्कळै, सहस्रनामादिरूपङ्गळाऩ शब्दङ्गळै, निऩैन्दु - सार्थमाग अनुसन्धित्तु। सूऴ् विऩैयिऩ् - आत्मावै सूऴ्न्दुगॊण्डिरुक्किऱ पाबत्तिऩुडैय, पापकार्यमाऩ ऎऩ्ऱबडि। आऴ् तुयरै - अगाधमाऩ दुःखत्तै। पोक्क वेण्डुमिति शेषः । अप्पडि पोक्कारेल् - पोक्कारागिल्, इन्द जऩङ्गळॆऩ्ऱ ध्याहरिप्पदु। ऎऩ्ऩिऩैन्दु - वेऱु ऎदै निऩैत्तु। इप्पोदु - इदानीम्। इन्द जऩ्मत्तिलॆऩ्ऱबडि। पोक्कुवर् - पोक्कडिक्क शक्तर्गळ्? भगवद्गुणप्रतिपादक-शास्त्रानुसन्धानमऩ्ऱिक्के तुयरत्तैप् पोक्क वेऱु कदियिल्लैयॆऩ्ऱबडि। 
+</details>
+ 
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'ऒऴिव्+++(=विच्छेद)+++-इल्-कालम् ऎल्लाम् उडऩ् आय्  
+> मऩ्ऩि+++(=सार्वत्रिक)+++-वऴुव्+++(=प्रमाद)+++-इलाव् अडिमै सॆय्य-वेण्डु नाम्' 
+> (तिरुवाय्मॊऴि ३-३-१) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> विच्छेद-शून्यं कालं सर्वं सह **भूत्वा**,  
+सर्वावस्थासु **स्थित्वा**,  
+निर्दोष-**कैङ्कर्यं कर्तुं वाञ्छेम** वयम्
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> "We should, without intermission render service to the Lord  
+> in all places and in all circumstances and at all times".
+</details>
+
+<details><summary>Español</summary>
+
+> "Deberíamos, sin intermedio, prender servicio al Señor  
+> en todos los lugares y en todas las circunstancias y en todo momento ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'ऒऴिविल् कालमॆल्लामुडऩाय् मऩ्ऩि वऴुविलावडिमै सॆय्यवेण्डु नाम्'(तिरुवाय्मॊऴि ३-३-१) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'पॊङ्ग् एऴ् पुगऴ्गळ् **वायव् आय्**  
+> पुलऩ्+++(=इन्द्रिय)+++-गॊळ्-वडिवॆऩ्+++(=विग्रहः)+++ **मऩत्तद् आय्**  
+> अङ्गे मलर्गळ् **कैय्यव् आय्**  
+> वऴि-पट्ट् **ओडव् अरुळिल्**'(तिरुवाय्मॊऴि ८-१०-४।) +++(5)+++  
+> +++(इङ्गे तिरिन्देर्क्कु इऴुक्क् उऱ्ऱ् ऎऩ्?)+++
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> " उपर्य् उपरि जृम्भमाणा गुण-प्रथाः मुखे,  
+> इन्द्रियापहारि-विग्रहं मन्-मनसि,  
+> तद्-अनुरूप-पुष्पाणि च हस्तयोः कृत्वा  
+> ( कैङ्कर्य-)मार्गम् आश्रित्य  
+> सर्वदा वृत्तये कृपां कुर्याच् चेत्" +++(5)+++  
+> +++(का क्षतिर् अत्र जीविते?)+++
+
+इति 
+</details>
+
+<details><summary>English</summary>
+
+> "If the Lord is so gracious as to enable me to spend my time always with the passages which describe His qualities in my mouth,  
+> with His form alluring the eye and other senses in my mind,  
+> and with flowers fit enough for His form in my hands  
+> - if I find this grace,  
+> what is there unpleasant for me while living here?”+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+> "Si el Señor es tan amable  
+> como para permitirme pasar mi tiempo  
+> siempre con los pasajes que describen sus cualidades en mi boca,  
+> con su forma aliviar el ojo y otros sentidos en mi mente,  
+> y con flores se ajusta lo suficiente para su forma en mis manos  
+> - Si encuentro esta gracia,  
+> ¿Qué hay desagradable para mí mientras vive aquí?
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'पॊङ्गेऴ् पुगऴ्गळ् वायवाय् पुलऩ्गॊळ् वडिवॆऩ् मऩत्तदायङ्गे मलर्गळ्गैय्यवाय् वऴिबट्टोड वरुळिल्'(तिरुवाय्मॊऴि ८-१०-४।) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऒऴिविल् - ऒऴिविल्लादबडि, कालमॆल्लाम् - ऎल्लाक्कालत्तिलुम्। उडऩाय् मऩ्ऩि - सर्वदेशसर्वावस्थैयिलुम् कूड निऩ्ऱु वऴुविला - विच्छेदमिल्लाद, अथवा दोषम् कलसाद। नाम् अडिमै सॆय्यवेण्डुम् - अडिमै सॆय्यक्कडवोम्। पॊङ्गेऴित्यादि । पॊङ्गेऴ् - पॊङ्गि ऎऴानिऩ्ऱ, अभिवृद्धमागिऱ ऎऩ्ऱबडि। पुगऴ्गळ् - उऩ् कल्याणगुणङ्गळ्। इदु कल्याणगुणप्रतिपादकमाऩ पासुरत्तिल् लाक्षणिकम्। वायवाय् - वाग्विषयमागुम्बडिक्कुम्, पुलऩ् - इन्द्रियङ्गळै, आन्तर-बाह्येन्द्रियङ्गळै ऎऩ्ऱबडि। कॊळ् -कॊळ्ळानिऱ्किऱ, दृष्टिचित्ताकर्षकमाऩ ऎऩ्ऱबडि। वडिवु - अऴगियदाऩ उऩ् तिरुमेऩि। ऎऩ् मऩत्तदाय् - ऎऩ्ऩुडैय मऩदुक्कु विषयमागुम्बडियुम्। अङ्गे मलर्गळ् - अन्द तिरुमेऩियिल् समर्पिक्कैक्कु योग्यमाऩ पुष्पङ्गळ्। कैय्यवाय् - हस्तगतमागुम्बडियुम्, वऴिप्पट्टोड - वऴिप्पट्टु- सन्मार्गत्तिले प्रवेशित्तु, ओड - नडक्कुम्बडि। अरुळिल् - कृपै पण्णिऩाऩागिल्। इङ्गे तिरिन्देर्क्कु - इन्द लोगत्तिले वसिप् पवर्क्कु। इऴुक्कुऱ्ऱॆऩ् - इऴुक्कु ऎऩ् ऎऩ्ऱबडि। उऱ्ऱु ऎऩ्बदु अव्ययम्। मनोवाक्कायरूपकरणत्रयङ्गळाले तऩ्ऩुडैय कैङ्गर्यत्तैप् पण्णुम्बडि भगवाऩ् कृपै पण्णिऩाऩागिल् इन्द लोकत्तिल् वासमात्रत्ताले ऎऩ्ऩ कुऱ्ऱमुण्डागुम्? ऒऩ्ऱुम् उण्डागादॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'नाडाद +++(=दुर्लभानि)+++ मलर् नाडि+++(=लब्ध्वा)+++'(तिरुवाय्मॊऴि १-४-९) +++(5)+++  
+(नाळ्-तोऱुम् नारणऩ्-तऩ्-वाडाद-मलर्-अडिक्-कीऴ् वैक्कवे)
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अ-लब्धानि पुष्पाणि  
+> अभिलष्य संपाद्य"  
+> +++(नित्यं नारायणाम्लायमान-पद-पुष्पयोः स्थापयानि)+++
+
+इति, 
+
+</details>
+
+
+<details><summary>English</summary>
+
+> "I was born to seek flowers that are hard to obtain  
+in order that they may be placed at the Lord's feet"
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Nací para buscar flores  
+> que sean difíciles de obtener  
+> Para que puedan colocarse a los pies del Señor "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'नाडाद मलर् नाडि'(तिरुवाय्मॊऴि १-४-९) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+नाडाद मलर् नाडि - तेडवरिय पुष्पङ्गळॆल्लाम् तेडि, अथवा आन्तरपुष्पत्तैच् चॊल्लुगिऱदु ऎऩ्बारुम् उण्डु।  
+इदऱ्कु 'नाडोऱुम् नारणऩ् तऩ् वाडाद मलरडिक्कीऴ् वैक्कवे' ऎऩ्बदोडन्वयम्। नाळ्दोऱुम् नारायणऩुडैय सॆव्विमाऱाद पूप्पोलेयिरुक्किऱ तिरुवडिगळिऩ् समीबत्तिले समर्पिक्कैक्कागवे ऎऩ्गै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'वडिव्+++(=विग्रह)+++-इणैय्+++(=सादृश्य)+++-इल्ला मलर्-मगळ्,  
+> मऱ्ऱ निल+++(=भू)+++-मगळ् पिडिक्कु  
+> मॆल्ल्+++(=मृदु)+++-अडियैक्  
+> कॊडु+++(=क्रूर)+++-विऩैय् एऩुम्+++(=अहम् अपि)+++ पिडिक्क'(तिरुवाय्मॊऴि ९-२-१०) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अनुपमया पुष्पाङ्गनया,  
+> अन्यया भूमि-देव्या च संवाह्यमानं मृदु-चरणं क्रूर-कर्मा ऽहम् अपि यथा संवाहयेयं तथा 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+“May I, the sinner that I am,  
+press the tender feet of the Lord  
+which are gently pressed by the incomparably beautiful Lakṣmī   
+and the other, viz, the goddess of the Earth!”
+</details>
+
+<details><summary>Español</summary>
+
+"¿Puedo yo, el pecador que soy?  
+Presione los pies tiernos del Señor  
+que son suavemente presionados por el lakṣmī incomparablemente hermoso  
+¡Y el otro, a saber, la diosa de la tierra!
+</details>
+
+<details><summary>मूलम्</summary>
+
+'वडिविणैयिल्ला मलर्मगळ् मऱ्ऱ निलमगळ् पिडिक्कु मॆल्लडियैक् कॊडुविऩैयेऩुम् पिडिक्क'(तिरुवाय्मॊऴि ९-२-१०) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वडिविणै इत्यादि । वडिवु - सौन्दर्यत्तिले। इणै – सादृश्यम्। इल्ला - इल्लादवळाऩ, मलर् मगळ् - पङ्कजमलरिल् पिऱन्द महालक्ष्मियॆऩ्ऩ, मऱ्ऱ - वेऱुबट्टवळाऩ, निल मगळ् - भूमिप्पिराट्टियॆऩ्ऩ, इवर्गळाल्, पिडिक्कुम् मॆल्लडियै - संवाह्य माऩ मृदुलमाऩ तिरुवडियै, कॊडुविऩैयेऩुम् पिडिक्क - पापिष्ठऩाऩ अडियेऩुम् संवाहनम् सॆय्युम्बडि ऎऩ्गै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तऩक्केय् आगव् ऎऩैक् कॊळ्ळुम् ईदे +++(काङ्क्षितम्)+++'(तिरुवाय्मॊऴि २-९-४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> स्व-मात्र--शेषतया+++(→स्वप्रयोजनेनैव)+++ मम स्वीकरणम् इतीदम् एव +++(काङ्क्षितम्)+++ 
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> “This is the only object that I desire –  
+> that the Lord should take me into His service  
+> for His own satisfaction". 
+</details>
+
+<details><summary>Español</summary>
+
+> “This is the only object that I desire –  
+> that the Lord should take me into His service  
+> for His own satisfaction". 
+</details>
+
+<details><summary>मूलम्</summary>
+
+'तऩक्केय् आगव् ऎऩैक् कॊळ्ळुमीदे'(तिरुवाय्मॊऴि २-९-४) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तऩक्केयाग वॆऩैक्कॊळ्ळु मीदे - तऩ्ऩुडैय उगप्पुक्कागवे ऎऩ्ऩै अडिमै कॊळ्ळुगिऱ इत्तैये ऎऩ्गै। इदु अडिमै सॆय्युम्बोदु स्वप्रयोजनत्तैयुम् नडुवे आसैप्पडुगिऱेऩल्लेऩ् ऎऩ्बदैक् काट्टुगिऱदु। 
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'उऩक्के नाम् आट्+++(=क्रीडाम्??)+++ चॆय्वोम्'(तिरुप्पावै २९।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> तवैव वयं कैङ्कर्यं कुर्याम" 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+> "We will render service, O Lord, only to Thee".
+</details>
+
+<details><summary>Español</summary>
+
+> "Vamos a prender el servicio, oh Señor, solo para ti".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'उऩक्के नामाट्चॆय्वोम्'(तिरुप्पावै २९।) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उऩक्के नामाट्चॆय्वोम् - उऩ् उगप्पुक्कागवे नाङ्गळ् कैङ्कर्यम् पण्णक्कडवोम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'पळ्ळि-गॊळ्ळुम्-इडत्त्--अडि-कॊट्ट्+++(=मर्दनम्??)+++-इडक् कॊळ्ळुम् आगिल्'(नाच्चियार् तिरुमॊऴि ४१) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "8 शयन-स्थाने चरण-संवाहनार्थं स्वीकुर्याच् चेत्” 
+
+इति, 
+
+</details>
+
+
+<details><summary>English</summary>
+
+> "If the Lord will be so gracious as to let us gently press His feet in the place where He sleep,"  
+</details>
+
+<details><summary>Español</summary>
+
+> "Si el Señor será tan amable  
+> como para dejar que presione suavemente  
+> sus pies en el lugar donde duerma",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'पळ्ळिगॊळ्ळुमिडत्तडिगॊट्टिडक्कॊळ्ळु मागिल्'(नाच्चियार् तिरुमॊऴि ४१) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पळ्ळिगॊळ्ळुमित्यादि । पळ्ळिगॊळ्ळुमिडत्तु - तिरुक्कण् वळरुम्बोदु, अडिगॊट्टिड - तिरुवडिकळैप् पिडिक्कुम्बडि, कॊळ्ळुमागिल् - अडियेऩै अङ्गीकरिक्कुमागिल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'ऎण्णक्+++(=गणनाम्)+++-कण्ड विरल्गळ्'(पॆरियाऴ्वार् तिरुमॊऴि ४-४-३) ऎऩ्ऱुम्; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “10 +++(नाम-गुणादि-)+++गणनार्थम् आविर्भूताभिर् अङ्गुलिभिः " 
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> "My fingers will keep count  
+when I utter the names of the Lord."
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Mis dedos mantendrán la cuenta  
+Cuando pronuncio los nombres del Señor ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'ऎण्णक्कण्ड विरल्गळ्'(पॆरियाऴ्वार् तिरुमॊऴि ४-४-३) ऎऩ्ऱुम्; 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+ऎण्णक् कण्डविरल्गळ् - भगवन्नामङ्गळै ऎण्णुगैक्कु समर्थङ्गळाऩ विरल्गळ्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'उण्णा नाळ् पसिय् आवद् ऒऩ्ऱ् इल्लैय्  
+> 
+> ओवादे+++(=विच्छेदं विना)+++ नमो नारणाव् ऎऩ्ऱ् ऎण्णा नाळुम् इरुक्क्+++(=ऋक्)+++-ऎजुस्+++(=यजुस्)+++-साम-वेद नाण्+++(=नव)+++-मलर् **कॊण्ड्**  
+> उऩ पादम् नण्णा+++(=उपसर्पण-रहिता)+++ नाळ्-अवै **तत्तुऱुम्**+++(=उद्भूतं)+++ आगिल्  
+> अऩ्ऱ् ऎऩक्क् अवै पट्टिऩि+++(=निराहार)+++ नाळे'(पॆरियाऴ्वार् तिरुमॊऴि ५-१-६) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[117]] 
+
+> भोजन-शून्य-दिने क्षुधेत्य्- एतत् किंचिद् अपि **नास्ति**, 
+> 
+> अविच्छेदेन "नमो नारायणे"ति **अनुसंधान-शून्या** दिवसाः  
+> ऋग्-यजुस्-साम-वेदान् नव-प्रफुल्ल-पुष्पाणि **गृहीत्वा**  
+> त्वत्-**पादोपसर्पण-रहित**-दिवसा मे **प्रसजेयुश्** चेत्  
+> ते मे उपवास-दिवसाः" 
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+"The days of my starvation are not those on which I do not eat  
+\- (they are) the days, if ever they occur,  
+on which I do not constantly meditate saying "nāmo Nārāyaṇa''  
+and the days on which I do not approach Thy feet with the three Vedas  
+which are (as it were) freshly bloomed flowers".
+</details>
+
+<details><summary>Español</summary>
+
+"Los días de mi hambre no son aquellos en los que no como  
+\- (son) los días, si alguna vez ocurren,  
+en el que no medito constantemente decir "nāmo nārāyaṇa ''  
+y los días en los que no me acerco a tus pies con los tres Vedas  
+que son (por así decirlo) flores recién florecidas ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'उण्णा नाळ् पसियावदॊऩ्ऱिल्लै योवादे नमो नारणावॆऩ्ऱॆण्णा नाळुमिरुक्कॆसुच् चामवेद नाण्मलर् कॊण्डुऩबादम् नण्णा नाळवै तत्तुऱुमागिलऩ्ऱॆऩक्कवै पट्टिऩि नाळे'(पॆरियाऴ्वार् तिरुमॊऴि ५-१-६) 
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'नाक्कु निऩ्ऩैय् अल्लाल् **अऱियादु**  
+> नाऩ् **अदञ्जुवऩ्** - ऎऩ् वशम् **अऩ्ऱु**' 
+> (पॆरियाऴ्वार् तिरुमॊऴि ५-१-१) +++(5)+++
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “18 वाक् त्वद्-व्यतिरिक्तं न वेद ।  
+> अहं बिभेमि; मद्-वशगा सा न" +++(5)+++
+
+इति  
+</details>
+
+<details><summary>English</summary>
+
+"My tongue will not praise any one but Thee;  
+I wonder whether Thou wilt suffer any loss of glory by my praise;  
+but I cannot stop praising Thee,  
+for my tongue is not under my control".+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+"Mi lengua no alabará a nadie más que a ti;  
+Me pregunto si sufrirás alguna pérdida de gloria por mis elogios;  
+Pero no puedo dejar de alabarte  
+porque mi lengua no está bajo mi control ". +++ (5) +++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'नाक्कु निऩ्ऩैयल्लालऱियादु नाऩदञ्जुवऩॆऩ् वसमऩ्ऱु'(पॆरियाऴ्वार् तिरुमॊऴि ५-१-१) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'वाय् अवऩैय् अल्लदु वाऴ्त्तादु'(मुदल् तिरुवन्दादि ११) 
+
+ऎऩ्ऱुम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> वाक् तद्-व्यतिरिक्तं न स्तुवीत
+
+इति, 
+
+</details>
+
+
+<details><summary>English</summary>
 
 "My mouth does not praise any one but Him",
+</details>
 
-"My shoulders do not bow to anyone but Him",
+<details><summary>Español</summary>
 
-"I will not look upon my soul which belongs to the Lord as my own, nor will I remain in the company of those mean persons who think so,"
+"Mi boca no elogia a nadie más que a él",
+</details>
 
-"May Thou be so gracious as to make me ever meditate on Thee ",
+
+<details><summary>मूलम्</summary>
+
+'वायवऩैयल्लदु वाऴ्त्तादु'(मुदल् तिरुवन्दादि ११) ऎऩ्ऱुम्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तोळ् अवऩैय् अल्लाल् तॊऴा+++(=न पूजयेत्)+++'(मुदल् तिरुवन्दादि ६३।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> स्कन्धौ तद्-व्यतिरिक्तं न सेवेयाताम् 
+
+इति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> "My shoulders do not bow to anyone but Him",
+</details>
+
+<details><summary>Español</summary>
+
+> "Mis hombros no se inclinan ante nadie más que él",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'दोळवऩैयल्लाल् तॊऴा'(मुदल् तिरुवन्दादि ६३।) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'नयवेऩ् +++(=नेच्छेयम्)+++ पिऱर् पॊरुळै +++(आत्माख्यम्)+++'(मुदल् तिरुवन्दादि ६४) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> नेच्छेयं परेषां वस्तु +++(आत्माख्यम्)+++
+
+इति 
+</details>
+
+
+<details><summary>English</summary>
+
+> "I will not look upon my soul which belongs to the Lord as my own,  
+> nor will I remain in the company of those mean persons who think so,"+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+> "No miraré mi alma, que pertenece al Señor, como mía,  
+> Tampoco permaneceré en compañía de aquellas personas malas que piensan ",+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'नयवेऩ् पिऱर् पॊरुळै'(मुदल् तिरुवन्दादि ६४) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'निरन्तरं निऩैप्पद् आग  
+> नी निऩैक्क वेण्डुम्'  
+> (तिरुच्चन्दविरुत्तम् १०१) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "May Thou be so gracious as to make me ever meditate on Thee ",
+</details>
+
+<details><summary>Español</summary>
+
+> "Que seas tan amable como para hacer me meditar en ti",
+</details>
+
+<details><summary>मूलम्</summary>
+
+'निरन्दरम् निऩैप्पदाग नी निऩैक्कवेण्डुम्'(तिरुच्चन्दविरुत्तम् १०१) ऎऩ्ऱुम्, 
+</details>
+
+
+
+
 
 " When will these two eyes of mine delight in looking at the forehead of the Lord where the two gems that shed light shine dispelling darkness?"
 
