@@ -1568,10 +1568,275 @@ que están en consonancia con la naturaleza esencial de uno (svarūpa) para pasa
 अभिगमनादि-काल-क्षेपार्थमुम् आऩ उत्तरकृत्यमिरुक्कुम् प्रकारम्।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩ् **निष्ठैक्क्** अनुरूपम् आगत् तॆळिय-वेण्डुम् अर्थङ्गळिल्  
+
+तऩक्कुत् तॆळियाद निलङ्गळै  
+"नाम् कृत-कृत्यऩ्" ऎऩ्ऱु **अनादरित्त् इरादे**  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-निष्ठाया अनुरूपेषु  
+विशदं ज्ञातव्येष्व् अर्थेषु स्वेनाज्ञातान् अर्थान्,  
+"अहं कृतकृत्य" इत्य् अनुपेक्ष्य  
+</details>
+
+
+<details><summary>English</summary>
 
 Further the prapanna should not remain complacently ignorant of what should be known to one in that state,  
 in the presumption that he has already done what should be done.  
-In the state of perfect enjoyment of the Lord, knowledge and love are (both ) essential. Therefore in accordance with the śloka , "One *should never beg of the Lord anything but knowledge and love for His holy feet. The man who begs (for other things ) will surely perish ", there is nothing improper in desiring knowledge and love of the Lord. It has been said :- "The Lord of the yellow raiment has incarnated as the guru to teach the Veda." So the prapanna should learn from such gurus possessed of exclusive devotion to the Lord and having a clear knowledge of (the truth ). He should obtain clear knowledge from them by following the injunction contained in the śloka  - "Bow to your guru, place your doubts before him and render service to him, (then) learn from him the true nature of the self. (Your) ācāryas will teach you the truth concerning the self." He should have his knowledge rendered clear and pure, for (the poet) says, "Even a man that is dull becomes intelligent by seeking the company of the wise. Muddy water becomes clear and pure by being mixed with the lather from soapnut." It has been said, "He whose knowledge of the truth (concerning Bhagavān ) extends up to the enjoyment of the Lord all those who fall within the range of his eyes will be purified of all their sins." So the prapanna should live in close contact with such, as are well established in this knowledge. As stated (in the Gita):- "In a tank which is intended for all and for various purposes, one should take only as much (of the water) as is required for one's purposes", the prapanna should determine what he should choose, from among their ways of life and conduct, what is in accordance with his varṇa, his āśrama, his gotra, his character and the like and conduct himself in keeping with that determination and should walk warily lest he should fall into the pitfall of thinking of his own superiority and the inferiority of others, which might arise from his conceit while observing this code of conduct.
+
+</details>
+
+<details><summary>Español</summary>
+
+Además, la Prapanna no debe permanecer complacientemente ignorante  
+de lo que debería ser conocido por uno en ese estado,  
+en la presunción de que ya ha hecho  
+lo que debe hacerse.
+</details>
+
+<details><summary>मूलम्</summary>
+
+तऩ् निष्ठैक्कनुरूपमागत् तॆळियवेण्डुम् अर्थङ्गळिल् तऩक्कुत् तॆळियाद निलङ्गळै नाम् कृतकृत्यऩॆऩ्ऱु अनादरित्तिरादे 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ज्ञातव्यार्थङ्गळिल् तऩक्कु अज्ञातांशमिरुन्दाल् अदै आचार्यसकाशत्तिल् केट्टुत् तॆळियवेण्डुमॆऩ्गिऱार् तऩ् निष्ठैक्कु अनुरूपमाग इत्यादिना । तऩक्कुत् तॆळिय वेण्डुमर्थङ्गळिल् - अर्थङ्गळुडैय मध्यत्तिल्। तऩक्कुत् तॆळियाद निलङ्गळै - तऩक्कु ज्ञातांशम् निऱ्क अज्ञातांशङ्गळै यॆऩ्ऱबडि। नाम् कृतकृत्यऩॆऩ्ऱु अनादरित्तिरादे - नाम् भरसमर्पणत्ताले कृतकृत्यरऩ्ऱो? नमक्कु उपायार्थम् कर्तव्यमाऩ कृत्यमिल्लैये। नमक्कु सिल अंसङ्गळ् तॆरियादिरुन्दालुम् उपायत्तिऱ्कु बाधक मॆऩ् ऎऩ्ऱु ऎण्णि अवश्यज्ञातव्यांशङ्गळै अनादरित्तिरादे ऎऩ्ऱबडि। इदऱ्कु तॆळियक् केट्टु ऎऩ्बदोडन्वयम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुभव-**पूर्तिय् उण्डाम्** पोदु  
+तॆळिवुम् प्रेममुम् **वेण्डुगैयालुम्**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनुभव-पूर्ति-संपत्ति-समये  
+विशद-ज्ञानस्य प्रेम्णश् चावश्यकत्वात्,  
+
+</details>
+
+
+<details><summary>English</summary>
+
+In the state of perfect enjoyment of the Lord, knowledge and love are (both ) essential.  
+Therefore in accordance with the śloka ,  
+</details>
+
+<details><summary>Español</summary>
+
+En el estado de disfrute perfecto del Señor,  
+el conocimiento y el amor son (ambos) esenciales.  
+Por lo tanto,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुभवपूर्तियुण्डाम् पोदु तॆळिवुम् प्रेममुम् वेण्डुगैयालुम्
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आऩाल् अदै अऱिवदिल् प्रयोजनमॆऩ्? ज्ञानमुम् ऒरु फलान्तरमागैयाल् अदै आसैप्पडलामोवॆऩ्ऩ वरुळिच् चॆय्गिऱार् अनुभवपूर्तीत्यादिना । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तत्-पाद-भक्ति-ज्ञानाभ्यां  
+फलम् अन्यत् कदाचन ।  
+**न याचेत्** पुरुषो विष्णुं  
+याचनान् **नश्यति** ध्रुवम्॥
+
+ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> तत्-पाद-भक्ति-ज्ञानाभ्यां  
+फलम् अन्यत् कदाचन ।  
+**न याचेत्** पुरुषो विष्णुं  
+याचनान् **नश्यति** ध्रुवम्॥
+
+इत्य् उक्तरीत्या
+</details>
+
+
+
+<details><summary>English</summary>
+
+According to śloka,
+
+> "One should never beg of the Lord anything  
+but knowledge and love for His holy feet.  
+The man who begs (for other things ) will surely perish ", 
+</details>
+
+<details><summary>Español</summary>
+
+de acuerdo con el Śloka,
+
+"Uno nunca debe rogarle al Señor nada  
+pero conocimiento y amor por sus pies santos.  
+El hombre que pide (por otras cosas) seguramente perecerá ", 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तत्पादभक्तिज्ञानाभ्यां फलमन्यत्कदाचन ।  
+न याचेत्पुरुषो विष्णुं याचनान्नश्यति ध्रुवम्’’()  
+
+ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कृतकृत्यऩुक्कु उपायम् पूर्तियाऩालुम् इङ्गिरुन्दगालम् भगवदनुभवम् पूर्णमाग इरुक्कवेण्डुमागैयाल् तत्पूर्तिरूपप्रयोजनार्थमाग तॆळिवुम् वेण्डुमॆऩ्ऱु करुत्तु। प्रयोजनान्तरपरत्वशङ्कैयैप् परिहरिक्किऱार् तत्पादेति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ज्ञान-भक्तिगळै अपेक्षित्ताल् कुऱ्ऱम्+++(=दोषः)+++ इल्लामैयालुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ज्ञान-भक्त्योर् अपेक्षणे दोषाभावाच् च 
+</details>
+
+
+<details><summary>English</summary>
+
+there is nothing improper in desiring knowledge and love of the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+No hay nada incorrecto en desear el conocimiento y el amor del Señor.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ज्ञानभक्तिकळै अपेक्षित्ताल् कुऱ्ऱमिल्लामैयालुम् 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ज्ञानभक्तीतरङ्गळैयबेक्षित्ताल् स्वरूपहानियेयॊऴिय ज्ञानभक्तिकळैयबेक्षित्ताल् बाधकमिल्लैयॆऩ्गिऱ इन्द श्लोकतात्पर्यत्तै वॆळियिडुगिऱार् ज्ञानभक्तिकळैय पेक्षित्ताल् कुऱ्ऱमिल्लामैयालुमिति । प्रयोजनान्तर परत्वरूप कुऱ्ऱमिल्लामैया लॆऩ्ऱबडि। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩक्कु शेषि-विषयत्तिले चित्त-रञ्जनम् पिऱक्कैक्क् आग; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्वस्य शेषि-स्विषये चित्त-रञ्जन-संभवार्थं
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩक्कु शेषिविषयत्तिलेचित्तरञ्जनम् पिऱक्कैक्काग; 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कुऱ्ऱमिल्लाविडिलुम् प्रयोजनमुण्डोवॆऩ्ऩ वरुळिच्चॆय्गिऱार्दऩक्कु इत्यादिना । चित्तरञ्जनम् - मनस्सन्तोषम्। पिऱक्कैक्काग - भगवत्स्वरूपरूपकल्याणगुणविभूत्यादिगळिल् तॆळिविल्लादवऩुक्कु भगवाऩिडत्तिल् चित्तम् रञ्जिक्कादिऱे। 
+</details>
+
+
+## गुरुः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>'पीत-कवाडैप्+++(=वस्त्रम्??)+++ पिराऩार्+++(=उदारः)+++  
+पिरम+++(=ब्रह्म)+++-गुरुव् आगि वन्दु'  
+(पॆरियाऴ्वार् तिरुमॊऴि ५-२-८) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> पीताम्बर उपकारको ब्रह्म-गुरुर्भूत्वा एत्य" 
+</details>
+
+
+<details><summary>English</summary>
+
+It has been said :- "The Lord of the yellow raiment has incarnated as the guru to teach the Veda." 
+</details>
+
+<details><summary>Español</summary>
+
+Se ha dicho:- 
+
+> "El Señor de la Ralucción Amarilla  
+> ha encarnado como el Guru para enseñar al Veda".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'पीदगवाडैप् पिराऩार् पिरमगुरुवागि वन्दु'(पॆरियाऴ्वार् तिरुमॊऴि ५-२-८) 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पीदगवाडैप्पिराऩार् - पीताम्बरधारियाऩ महोपकारकऩ्। पिरमगुरुवागि वन्दु - ब्रह्मोपदेष्टावाऩ आचार्यऩागवन्दु ऎऩ्गै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऩुम् बडि निऱ्किऱ तॆळिव्-उडैय परमैकान्तिगळ् पक्कलिले 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्तरीतिकतया स्थितानां संप्रबुद्धानां परमेकान्तिनां सन्निधौ, 
+</details>
+
+<details><summary>English</summary>
+
+So the prapanna should learn from such gurus possessed of exclusive devotion to the Lord  
+and having a clear knowledge of (the truth ). 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces la Prapanna debería aprender de tales gurús que poseen devoción exclusiva al Señor  
+y tener un conocimiento claro de (la verdad).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऩुम्बडि निऱ्किऱ तॆळिवुडैय परमैकान्तिकळ् पक्कलिले 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्ऩुम्बडि निऱ्किऱ - भगवाऩे आचार्यऩाग वन्दाऩ् ऎऩ्ऱु सॊल्लुम्बडि निऱ्किऱ। 
+तॆळिवुडैय - विशदज्ञानमुडैय 
+</details>
+
+
+
+
+
+He should obtain clear knowledge from them by following the injunction contained in the śloka  - "Bow to your guru, place your doubts before him and render service to him, (then) learn from him the true nature of the self. (Your) ācāryas will teach you the truth concerning the self." He should have his knowledge rendered clear and pure, for (the poet) says, "Even a man that is dull becomes intelligent by seeking the company of the wise. Muddy water becomes clear and pure by being mixed with the lather from soapnut." It has been said, "He whose knowledge of the truth (concerning Bhagavān ) extends up to the enjoyment of the Lord all those who fall within the range of his eyes will be purified of all their sins." So the prapanna should live in close contact with such, as are well established in this knowledge. As stated (in the Gita):- "In a tank which is intended for all and for various purposes, one should take only as much (of the water) as is required for one's purposes", the prapanna should determine what he should choose, from among their ways of life and conduct, what is in accordance with his varṇa, his āśrama, his gotra, his character and the like and conduct himself in keeping with that determination and should walk warily lest he should fall into the pitfall of thinking of his own superiority and the inferiority of others, which might arise from his conceit while observing this code of conduct.
 
 Even if, as it occurred to such as Nammalvar and Nāthamunigal, he is blessed with the special grace of the Saviour so as to enjoy the rise of such benefits as the vision (of the Lord), he should feel sure (that it is not due to any merit of his own) as said in, "I do not* know what is good and what is bad”, and "Even if I know what is good and what is evil, I cannot obtain what is good and avoid what is evil" He should see to it that his being destitute of all upāyas (Ākiñcanya) which is due to his svarūpa, his maintenance (sthiti) and his activities (pravṛtti) being entirely dependent (on the Lord) does not suffer any change or loss. He should remember his utter helplessness (kārpaṇya ) as described in the śloka  “I am the abode of all transgressions, I have no means of protecting myself and I have nothing else to attain than Thee", and in such verses as "I have not been observing the code of the disciplined life, nor have I keen intelligence", "What**can I do? "May my * misery be put an end to by Thee ! If thou dost not do so, there is no one else to protect me", "I have no other upāya and no other protector," "I do not know of any one whom I can hold as the Saviour of my soul!" "We are such '' ignorant women belonging to the race of cowherds as eat in forests while grazing the cows there", "I have given up the rites pertaining to Brahmins of worshipping the three fires after ablutionś', "I was not born into any of the four castes wherein one is fit to follow dharma", "I am ignorant and of low birth", "I have no one to seek for support". "Even if Thou dost not remove from me the sufferings due to karma, I have no other refuge than thee," "I have not  practised karma yoga; I have not understood the real nature of the disembodied self (i.e) I have not performed Jñānayoga, nor have I bhakti towards Thy holy feet.” (In these Tamil verses and Sanskrit śloka s, the feeling of helplessness is well depicted and the prapanna should realise his owo helplessness by remembering such verses).
 
