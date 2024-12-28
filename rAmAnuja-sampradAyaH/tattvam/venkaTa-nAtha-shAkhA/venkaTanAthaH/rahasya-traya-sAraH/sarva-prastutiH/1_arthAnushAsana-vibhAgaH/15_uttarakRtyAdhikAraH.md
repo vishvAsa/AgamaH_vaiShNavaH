@@ -111,7 +111,7 @@ Enseña las expresiones dulces y nobles (de tales como Alvars), siempre y tambi�
 </details>
 
 
-## ज्ञानानुष्ठानयोर् आवश्यकत्वम्
+## उत्तर-कृत्य-स्वरूपम्
 
 <details><summary>English</summary>
 
@@ -750,7 +750,6 @@ que son suavemente presionados por el lakṣmī incomparablemente hermoso
 > "8 शयन-स्थाने चरण-संवाहनार्थं स्वीकुर्याच् चेत्” 
 
 इति, 
-
 </details>
 
 
@@ -1353,6 +1352,7 @@ Del mismo modo, también estos sánscritos Ślokas:-
 > क्रियताम् इति मां वद॥ +++(5)+++  
 > (रामायणम् आरण्यकाण्डम् १५-७)
 
+इति
 </details>
 
 
@@ -1377,12 +1377,131 @@ Del mismo modo, también estos sánscritos Ślokas:-
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “I long only for being the servant of Bhagavān in all my births." "I will spend my days thus, rendering the appointed service in each of the five parts of the day and in worshipping Bhagavān with good chandana. flowers and the like - such as I can obtain with my own effort."
+> ‘‘कामये वैष्णवत्वन् तु  
+> सर्वजन्मसु केवलम्’’  
+> (जितन्ता-स्तोत्रम् १-१३।) 
 
-These are the ways of service after prapatti which are in keeping with one's essential nature (svarūpa) in spending the time.
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘कामये वैष्णवत्वन् तु  
+> सर्वजन्मसु केवलम्’’  
+> (जितन्ता-स्तोत्रम् १-१३।) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> “I long only for being the servant of Bhagavān in all my births." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Solo anhelo ser el sirviente de Bhagavān en todos mis nacimientos".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘कामये वैष्णवत्वन्तु सर्वजन्मसु केवलम्’’(जितन्ता-स्तोत्रम् १-१३।) ऎऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> वर्तमानस् सदा चैवं  
+पाञ्च-कालिक-वर्त्मना ।  
+**स्वार्जितैर्** गन्ध-पुष्पाद्यैश्  
+शुभैश् शक्त्य्-अनुरूपतः ॥  
+**आराधयन्** हरिं भक्त्या  
+**गमयिष्यामि** वासरान्  
+(वङ्गीबुरत्तुनम्बि-कारिका।)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> वर्तमानस् सदा चैवं  
+पाञ्च-कालिक-वर्त्मना ।  
+**स्वार्जितैर्** गन्ध-पुष्पाद्यैश्  
+शुभैश् शक्त्य्-अनुरूपतः ॥  
+**आराधयन्** हरिं भक्त्या  
+**गमयिष्यामि** वासरान्  
+(वङ्गीबुरत्तुनम्बि-कारिका।)  
+</details>
+
+<details><summary>English</summary>
+
+> "I will spend my days thus,  
+> rendering the appointed service in each of the five parts of the day  
+> and in worshipping Bhagavān with good chandana, flowers and the like -  
+> such as I can obtain with my own effort."
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Pasaré mis días así,  
+> prestar el servicio designado en cada una de las cinco partes del día  
+> y al adorar a Bhagavān con buena Chandana, flores y similares -  
+> Como puedo obtener con mi propio esfuerzo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘वर्तमानस्सदा चैवं पाञ्चकालिकवर्त्मना ।  
+स्वार्जितैर्गन्ध- पुष्पाद्यैश्शुभैश्शक्त्यनुरूपतः ॥  
+आराधयन् हरिं भक्त्या गमयिष्यामि वासरान्’’(वङ्गीबुरत्तुनम्बि-कारिका।)  
+</details>
+
+## ज्ञानापेक्षा
+
+<details><summary>English</summary>
 
 THE PRAPANNA SHOULD SEEK SPIRITUAL KNOWLEDGE:
+</details>
+
+<details><summary>Español</summary>
+
+LA PRAPANNA DEBE BUSCAR CONOCIMIENTO ESPIRITUAL:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱुं सॊल्लुगिऱ बडिये  
+स्वरूपानुरूप-काल-क्षेपार्थम् आऩ उत्तर-कृत्यम् इरुक्कुम् बडि; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[११८]] 
+
+
+इति चोक्तरीत्या स्व-रूपानुरूप--काल-क्षेपार्थस्योत्तर- कृत्यस्य स्थितये  
+</details>
+
+
+<details><summary>English</summary>
+
+These are the ways of service after prapatti  
+which are in keeping with one's essential nature (svarūpa) in spending the time.
+</details>
+
+<details><summary>Español</summary>
+
+Estas son las formas de servicio después de Prapatti  
+que están en consonancia con la naturaleza esencial de uno (svarūpa) para pasar el tiempo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱुं सॊल्लुगिऱ बडिये स्वरूपानुरूपकालक्षेपार्थमाऩ उत्तरकृत्यमिरुक्कुम्बडि; 
+</details>
+
 
 Further the prapanna should not remain complacently ignorant of what should be known to one in that state, in the presumption that he has already done what should be done. In the state of perfect enjoyment of the Lord, knowledge and love are (both ) essential. Therefore in accordance with the śloka , "One *should never beg of the Lord anything but knowledge and love for His holy feet. The man who begs (for other things ) will surely perish ", there is nothing improper in desiring knowledge and love of the Lord. It has been said :- "The Lord of the yellow raiment has incarnated as the guru to teach the Veda." So the prapanna should learn from such gurus possessed of exclusive devotion to the Lord and having a clear knowledge of (the truth ). He should obtain clear knowledge from them by following the injunction contained in the śloka  - "Bow to your guru, place your doubts before him and render service to him, (then) learn from him the true nature of the self. (Your) ācāryas will teach you the truth concerning the self." He should have his knowledge rendered clear and pure, for (the poet) says, "Even a man that is dull becomes intelligent by seeking the company of the wise. Muddy water becomes clear and pure by being mixed with the lather from soapnut." It has been said, "He whose knowledge of the truth (concerning Bhagavān ) extends up to the enjoyment of the Lord all those who fall within the range of his eyes will be purified of all their sins." So the prapanna should live in close contact with such, as are well established in this knowledge. As stated (in the Gita):- "In a tank which is intended for all and for various purposes, one should take only as much (of the water) as is required for one's purposes", the prapanna should determine what he should choose, from among their ways of life and conduct, what is in accordance with his varṇa, his āśrama, his gotra, his character and the like and conduct himself in keeping with that determination and should walk warily lest he should fall into the pitfall of thinking of his own superiority and the inferiority of others, which might arise from his conceit while observing this code of conduct.
 
