@@ -1088,15 +1088,37 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 > “17 अन्धकारो यथा शिथिलो भवेत् तथा" 
 </details>
 
+<details><summary>English</summary>
+
+> " When will these two eyes of mine  
+> delight in looking at the forehead of the Lord  
+> where the two gems that shed light shine dispelling darkness?"
+
+</details>
+
+<details><summary>Español</summary>
+
+> "¿Cuándo serán estos dos ojos míos?  
+> Déjate ver la frente del Señor  
+> ¿Dónde las dos gemas que arrojan luz brillan disipando la oscuridad? "
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
 'इरुळिरिय'(पॆरुमाळ् तिरुमॊऴि १-१)  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इरुळिरिय इत्यादि, पॆरुमाळ् तिरुमॊऴियिल् मुदल् तिरुमॊऴियिल् मुदल् पाट्टु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'ऊऩेऱु सॆल्वत्तु'(पॆरुमाळ् तिरुमॊऴि ४-१)  
+> 'ऊऩ्+++(=मांस)+++-एऱु सॆल्वत्तु'(पॆरुमाळ् तिरुमॊऴि ४-१)  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -1105,14 +1127,36 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 </details>
 
 
+<details><summary>English</summary>
+
+> "I do not long for birth accompanied with wealth  
+> that (only) makes the flesh grow  
+> but pray to be born as a bird in the Venkata Hills".
+
+</details>
+
+<details><summary>Español</summary>
+
+> "No anhelo el nacimiento acompañado de riqueza  
+> Eso (solo) hace que la carne crezca  
+> Pero ore para nacer como pájaro en las colinas de Venkata ".
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 'ऊऩेऱु सॆल्वत्तु'(पॆरुमाळ् तिरुमॊऴि ४-१)  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ऊऩेऱुसॆल्वम् - इदु नालान्दिरुमॊऴि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'नीणागम् सुऱ्ऱि'(पॆरियदिरुमॊऴि ११-७-१)  
+> 'नी+++(=दीर्घ)+++-णागम् सुऱ्ऱि'(पॆरियदिरुमॊऴि ११-७-१)  
 
 ऎऩ्गिऱ तिरुमॊऴिगळिलुम्,  
 </details>
@@ -1125,6 +1169,35 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 
 </details>
 
+<details><summary>English</summary>
+
+> "The eyes of those who have not seen that Golden Hill which rides on the bird  
+> and which, long ago, planted the hill wound with the serpent in the sea  
+> and churned it for the sake of nectar --  
+> their eyes are not eyes at all" 
+
+> ["The eyes of those who have not seen Bhagavān who is a mountain of Gold  
+> and who rides on a bird  
+> and who, long ago, placed the mountain girdled with the serpent in the sea  
+> and churned it for the sake of nectar --  
+> their eyes are not eyes at all"]
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Los ojos de aquellos que no han visto esa colina dorada que cabalga sobre el pájaro  
+> y que, hace mucho tiempo, plantó la herida de la colina con la serpiente en el mar  
+> y lo convirtió por el bien del néctar -
+> Sus ojos no son los ojos en absoluto "
+
+> ["Los ojos de aquellos que no han visto a Bhagavān que es una montaña de oro
+> y quién monta sobre un pájaro
+> Y quien, hace mucho tiempo, colocó la montaña ceñida con la serpiente en el mar
+> y lo convirtió por el bien del néctar -
+> Sus ojos no son ojos en absoluto "]
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1132,16 +1205,180 @@ porque mi lengua no está bajo mi control ". +++ (5) +++
 ऎऩ्गिऱ तिरुमॊऴिगळिलुम्,  
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-" When will these two eyes of mine delight in looking at the forehead of the Lord where the two gems that shed light shine dispelling darkness?"
+नीणागञ् जुऱ्ऱि - पॆरिय तिरुमॊऴियिल् उपान्त्यमाऩ तिरुमॊऴि। 
+</details>
 
-"I do not long for birth accompanied with wealth that (only) makes the flesh grow but pray to be born as a bird in the Venkata Hills".
 
-"The eyes of those who have not seen that Golden Hill which rides on the bird and which, long ago, planted the hill wound with the serpent in the sea and churned it for the sake of nectar -- their eyes are not eyes at all" ["The eyes of those who have not seen Bhagavān who is a mountain of Gold and who rides on a bird and who, long ago, placed the mountain girdled with the serpent in the sea and churned it for the sake of nectar -- their eyes are not eyes at all"]
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Likewise also these Sanskrit ślokas :--
+> ‘‘पत्युः प्रजानाम् ऐश्वर्यं,  
+पशूनां +++(→पत्युर्)+++ वा न कामये ।  
+अहं कदम्बो भूयासं,  
+कुन्दो वा यमुना तटे’’() 
 
-"I do not long for the wealth of Brahma or for that of Rudra. I long to be either a kadamba tree or a kunda tree on the backs of the Yamuna (which Śrīkṛṣṇa purified with His holy feet)." "Take me as Thy servant. There is nothing improper in this. I will attain thereby the satisfaction of serving Thee for whom alone I exist. Thou wilt also obtain the satisfaction of having protected one who has sought Thee as his refuge." " Whether you are awake or asleep, I will render all the service that is required." "Live as you may for a hundred years, I will be under you. Order me yourself to do whatever you want in places which you consider beautiful”. “I long only for being the servant of Bhagavān in all my births." "I will spend my days thus, rendering the appointed service in each of the five parts of the day and in worshipping Bhagavān with good chandana. flowers and the like - such as I can obtain with my own effort."
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘पत्युः प्रजानाम् ऐश्वर्यं,  
+पशूनां +++(→पत्युर्)+++ वा न कामये ।  
+अहं कदम्बो भूयासं,  
+कुन्दो वा यमुना तटे’’() 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+Likewise also these Sanskrit ślokas :-  
+
+
+> "I do not long for the wealth of Brahma or for that of Rudra.  
+> I long to be either a kadamba tree or a kunda tree on the banks of the Yamuna  
+> (which Śrīkṛṣṇa purified with His holy feet)." 
+
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo, también estos sánscritos Ślokas:-
+
+
+> "No anhelo la riqueza de Brahma o la de Rudra.  
+> Anhelo ser un árbol kadamba o un árbol de kunda en las orillas del Yamuna  
+> (que Śrīkṛṣṇa purificó con sus pies santos) ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘पत्युः प्रजानामैश्वर्यं पशूनां वा न कामये । अहं कदम्बो भूयासं, कुन्दो वा यमुना तटे’’() ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘कुरुष्व माम् अनुचरं  
+> वैधर्म्यं नेह विद्यते ।  
+> कृतार्थो ऽहं भविष्यामि  
+> तव चार्थः प्रकल्पते’’ +++(4)+++  
+> (रामायणम् अयोध्या-काण्डम् ३१-२४) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘कुरुष्व माम् अनुचरं  
+> वैधर्म्यं नेह विद्यते ।  
+> कृतार्थो ऽहं भविष्यामि  
+> तव चार्थः प्रकल्पते’’ +++(4)+++  
+> (रामायणम् अयोध्या-काण्डम् ३१-२४) 
+</details>
+
+
+<details><summary>English</summary>
+
+> "Take me as Thy servant.  
+> There is nothing improper in this.  
+> I will attain thereby the satisfaction of serving Thee for whom alone I exist.  
+> Thou wilt also obtain the satisfaction of having protected one who has sought Thee as his refuge."+++(5)+++ 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Tómame como tu sirviente.  
+> No hay nada incorrecto en esto.  
+> Lo alcanzaré la satisfacción de servirte para quien solo yo existirá.  
+> También obtendrás la satisfacción de haber protegido  
+> a alguien que te haya buscado como su refugio ".+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कुरुष्व मामनुचरं वैधर्म्यं नेह विद्यते । कृतार्थोऽहंभविष्यामि तव चार्थः प्रकल्पते’’(रामायणम् अयोध्या-काण्डम् ३१-२४) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अहं सर्वं करिष्यामि  
+जाग्रतः स्वपतश्च ते’’+++(5)+++  
+(रामायणम् अयोध्या-काण्डम् ३१-२७)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘अहं सर्वं करिष्यामि  
+जाग्रतः स्वपतश्च ते’’+++(5)+++  
+(रामायणम् अयोध्या-काण्डम् ३१-२७)
+</details>
+
+<details><summary>English</summary>
+
+> " Whether you are awake or asleep,  
+> I will render all the service that is required." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Ya sea que esté despierto o dormido,  
+> Renderizaré todo el servicio que se requiere ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अहं सर्वं करिष्यामि जाग्रतः स्वपतश्च ते’’(रामायणम् अयोध्या-काण्डम् ३१-२७)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> परवान् अस्मि काकुत्स्थ  
+> त्वयि वर्ष-शतं स्थिते ।  
+> स्वयन् तु रुचिरे देशे  
+> क्रियताम् इति मां वद॥ +++(5)+++  
+> (रामायणम् आरण्यकाण्डम् १५-७)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> परवान् अस्मि काकुत्स्थ  
+> त्वयि वर्ष-शतं स्थिते ।  
+> स्वयन् तु रुचिरे देशे  
+> क्रियताम् इति मां वद॥ +++(5)+++  
+> (रामायणम् आरण्यकाण्डम् १५-७)
+
+</details>
+
+
+<details><summary>English</summary>
+
+> "Live as you may for a hundred years,  
+> I will be under you.  
+> Order me yourself to do whatever you want in places which you consider beautiful”. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Vivir como puedas durante cien años,  
+> Estaré debajo de ti.  
+> Ordene usted mismo para que haga lo que quiera  
+> en lugares que considere hermosos ”.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘परवानस्मि काकुत्स्थ त्वयि वर्षशतं स्थिते । स्वयन्तु रुचिरे देशे क्रियतामिति मां वद’’(रामायणम् आरण्यकाण्डम् १५-७)
+</details>
+
+
+
+> “I long only for being the servant of Bhagavān in all my births." "I will spend my days thus, rendering the appointed service in each of the five parts of the day and in worshipping Bhagavān with good chandana. flowers and the like - such as I can obtain with my own effort."
 
 These are the ways of service after prapatti which are in keeping with one's essential nature (svarūpa) in spending the time.
 
