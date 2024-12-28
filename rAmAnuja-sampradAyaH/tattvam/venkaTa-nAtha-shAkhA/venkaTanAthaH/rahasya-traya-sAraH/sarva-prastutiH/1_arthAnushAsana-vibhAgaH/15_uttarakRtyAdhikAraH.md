@@ -1258,21 +1258,34 @@ Del mismo modo, también estos sánscritos Ślokas:-
 ‘‘पत्युः प्रजानामैश्वर्यं पशूनां वा न कामये । अहं कदम्बो भूयासं, कुन्दो वा यमुना तटे’’() ऎऩ्ऱुम्, 
 </details>
 
+
+<details><summary>सायण-टीका</summary>
+
+पत्युरिति । प्रजानां पत्युः – ब्रह्माविऩुडैयवो, पशूनां पत्युः – पशुपतियिऩुडैयवो ऐश्वर्यं – ऐच्वर्यत्तै, न कामये । आऩाल् नीर् कामिप्पदु ऎदॆऩ्ऩ? यमुनातटे - यमुऩैयिऩ् करैयिल्, श्रीकृष्णचरणकमलसञ्चरणधन्यतममाऩ यमुऩैक्करैयिलॆऩ्ऱबडि। अहं - नाऩ्, कदम्बः - कदम्ब वृक्षमागवो, कुन्दो वा – कुरुक्कत्ति व्रुक्षमागवो, भूयासं - पिऱक्क आसैप्पडुगिऱेऩ्। 
+
+> ‘‘प्राजापत्य-प्रभृति-विभवं प्रेक्ष्य पर्याय-दुःखं  
+> जन्माकाङ्क्षन् वृषगिरिवने जग्मुषां तस्थुषां वा’’ 
+
+ऎऩ्बदै इङ्गु स्मरिप्पदु।  
+इदऩाल् विषय-वास-कैङ्कर्यापेक्षै सूचितम् आगिऱदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘कुरुष्व माम् अनुचरं  
-> वैधर्म्यं नेह विद्यते ।  
-> कृतार्थो ऽहं भविष्यामि  
-> तव चार्थः प्रकल्पते’’ +++(4)+++  
+> **कुरुष्व** माम् अनुचरं  
+> वैधर्म्यं **नेह विद्यते** ।  
+> कृतार्थो ऽहं **भविष्यामि**  
+> तव चार्थः **प्रकल्पते** +++(4)+++  
 > (रामायणम् अयोध्या-काण्डम् ३१-२४) 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-> ‘‘कुरुष्व माम् अनुचरं  
-> वैधर्म्यं नेह विद्यते ।  
-> कृतार्थो ऽहं भविष्यामि  
-> तव चार्थः प्रकल्पते’’ +++(4)+++  
+> **कुरुष्व** माम् अनुचरं  
+> वैधर्म्यं **नेह विद्यते** ।  
+> कृतार्थो ऽहं **भविष्यामि**  
+> तव चार्थः **प्रकल्पते** +++(4)+++  
 > (रामायणम् अयोध्या-काण्डम् ३१-२४) 
 </details>
 
@@ -1300,6 +1313,13 @@ Del mismo modo, también estos sánscritos Ślokas:-
 
 ‘‘कुरुष्व मामनुचरं वैधर्म्यं नेह विद्यते । कृतार्थोऽहंभविष्यामि तव चार्थः प्रकल्पते’’(रामायणम् अयोध्या-काण्डम् ३१-२४) 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+कुरुष्वेति । मां, अनुचरं – किङ्करऩाग, पडैवीट्टिल्बोल् काट्टिलुम् ऎऩ्ऩै किङ्करऩाग अङ्गीकरिक्कवेण्डुम्। इह – शेषियाऩवऩ् शेषभूतऩै किङ्करऩाग अङ्गीगरिप्पदिल्, वैधर्म्यं – ऒरुविद अनौचित्यमुम्, न विद्यते - इल्लैयॆऩ्गै। अहं – त्वदेकशेषभूतऩाऩ नाऩ्,कृतार्थः – शेषवृत्तिलाभत्ताले कृतार्थऩाग, भविष्यामि – आय्विडुवेऩ्। तव च – निरुपाधिकशेषियाऩ उऩक्कुम्, अर्थः – आश्रितोज्जीवनरूपमाऩ प्रयोजनम्, प्रकल्पते – सिद्धिक्किऱदु। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1332,6 +1352,11 @@ Del mismo modo, también estos sánscritos Ślokas:-
 <details><summary>मूलम्</summary>
 
 ‘‘अहं सर्वं करिष्यामि जाग्रतः स्वपतश्च ते’’(रामायणम् अयोध्या-काण्डम् ३१-२७)
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अहं सर्वं करिष्यामि अरण्मऩैयिल् ऎल्लोरालुम् सॆय्यप्पडुगिऱ ऎल्ला कैङ्कर्यत्तैयुम्, अहं – सर्वविधकैङ्कर्यमुम् सर्वदा नमक्कुक् किडैक्कुमा ऎऩ्ऱु आसैप्पट्टुक् कॊण्डिरुक्किऱ नाऩ्, पडैवीट्टिलिरुन्दाल् कैङ्कर्यत्तुक्कुप् पोट्टियुण्डिऱे। करिष्यामि – निश्चयमागप् पण्णुगिऱेऩ्। काट्टिल् सॆऩ्ऱाल् जागरणदशैयिलुम् कैङ्कर्यम् सॆय्य वेण्डुम्। रात्रिस्वापकालत्तिल् ऎऩ्बोल् राजकुमारऩाऩ नी कण्विऴित्तु कैङ्गर्यम् सॆय्यवेण्डुमेयॆऩ्ऱु पॆरुमाळुक्कु अभिप्रेतमाग ऎण्णि उत्तरमरुळिच्चॆय्गिऱार् जाग्रतः स्वपतश्च त इति । नीर् तूङ्गुम्बोदुम् विऴित्तिरुक्कुम् पोदुम् नाऩ् जागरूकऩाय् कैङ्गरियम् सॆय्गिऱेऩ्। 
 </details>
 
 
@@ -1376,6 +1401,11 @@ Del mismo modo, también estos sánscritos Ślokas:-
 ‘‘परवानस्मि काकुत्स्थ त्वयि वर्षशतं स्थिते । स्वयन्तु रुचिरे देशे क्रियतामिति मां वद’’(रामायणम् आरण्यकाण्डम् १५-७)
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इऩि तिरुम्बि वरुगिऱ पर्यन्दम् तूङ्गुगिऱदिल्लै। परवानस्मीति । पॆरुमाळ् चित्रकूटवासार्थमाग जलरामण्यमुम् स्थलरामण्यमुमुळ्ळ इडत्तिल् पर्णशालैयै निर्माणम् सॆय् ऎऩ्ऱु लक्ष्मणऩै नियमिक्क, अवरुम् पयन्दु स्थलरामण्यकादिपर्यालोचऩैयिल् ऎऩक्कु स्वातन्त्र्यम् कॊडुक्कलागादु ऎऩ्ऱु सॊल्लुगिऱ विडत्तिल् इन्द श्लोकम्। हे काकुत्स्थ परवानस्मि –परतन्त्रोऽस्मि, इदु ऎत्तऩै नाळैक्कु पदिऩाऩ्गु वरुषमाच्चुदे ऎऩ्ऩिल् कैगेयि पदिऩाऩ्गु वरुषम् वरम् केट्टाळ्। नीर् नूऱु वरुषमिरुन्दालुम् नाऩ् परतन्त्रऩे। आगैयाल् स्थलरामण्यादिपर्यालोचऩैयिल् स्वातन्त्र्यत्तै ऎऩ् तलैयिल् सुमत्तलागादु। स्वयन्तु - नीरे, रुचिरे देशे – जलरामण्यकस्थलरामण्यकमुळ्ळ प्रदेशत्तै पर्यालोचित्तुक् काट्टि अदिल् पर्णशाला क्रियतां – निर्मिक्कक् कडवदु, इति - ऎऩ्ऱु मां प्रति वद । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1409,6 +1439,17 @@ Del mismo modo, también estos sánscritos Ślokas:-
 
 ‘‘कामये वैष्णवत्वन्तु सर्वजन्मसु केवलम्’’(जितन्ता-स्तोत्रम् १-१३।) ऎऩ्ऱुम्,
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+कामये वैष्णवत्वन्तु सर्वजन्मसु केवलमिति । सर्वजन्मसु – सर्वजन्मङ्गळिलुम्, केवलं – स्वातन्त्र्यम् कलसाद वैष्णवत्वं – विष्णुकिङ्करत्वत्तैये, कामये - आसैप्पडुगिऱेऩ्। इदु जितन्तास्तोत्रम्। 
+
+> ‘‘न कामकलुषं चित्तं  
+> मम ते पादयोस्स्थितम्’’ 
+
+ऎऩ्बदु इदिऩ् पूर्वार्धम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1453,9 +1494,20 @@ Del mismo modo, también estos sánscritos Ślokas:-
 <details><summary>मूलम्</summary>
 
 ‘‘वर्तमानस्सदा चैवं पाञ्चकालिकवर्त्मना ।  
-स्वार्जितैर्गन्ध- पुष्पाद्यैश्शुभैश्शक्त्यनुरूपतः ॥  
+स्वार्जितैर्गन्धपुष्पाद्यैश्शुभैश्शक्त्यनुरूपतः ॥  
 आराधयन् हरिं भक्त्या गमयिष्यामि वासरान्’’(वङ्गीबुरत्तुनम्बि-कारिका।)  
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+वर्तमान इत्यादि । पाञ्चकालिकवर्त्मना – पञ्चकालङ्गळिल् सॊल्लप्पट्ट अभिगमनादिमार्गत्ताले, स्वार्जितैः - तऩ्ऩालेये सम्बादिक्कप्पट्ट, गन्धपुष्पाद्यैः – गन्धपुष्पादिगळाले, गन्धपुष्पादिगळुक्कु स्वार्जितत्वम् सॊल्लुगैयाल् प्रशस्तत्वम् द्योत्यते । 
+
+> ‘‘स्वप्रयत्नकृतं शस्तं  
+> मद्ध्यमं वन्यमुच्यते’’ 
+
+ऎऩ्ऱु सॊल्लप्पट्टदिऱे, इङ्गु स्वशब्दत्तै स्वपरमऩ्ऱिक्के स्वीयपरमाक्कि स्वीयपुत्रशिष्यार्जितैः ऎऩ्ऩवुमाम्। शुभैः – म्लानत्व त्रियामातीतत्वप्रयोजनान्तरार्थत्वादिदोषरहितैः,
+</details>
+
 
 ## ज्ञानापेक्षा
 
@@ -1502,8 +1554,24 @@ que están en consonancia con la naturaleza esencial de uno (svarūpa) para pasa
 ऎऩ्ऱुं सॊल्लुगिऱ बडिये स्वरूपानुरूपकालक्षेपार्थमाऩ उत्तरकृत्यमिरुक्कुम्बडि; 
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-Further the prapanna should not remain complacently ignorant of what should be known to one in that state, in the presumption that he has already done what should be done. In the state of perfect enjoyment of the Lord, knowledge and love are (both ) essential. Therefore in accordance with the śloka , "One *should never beg of the Lord anything but knowledge and love for His holy feet. The man who begs (for other things ) will surely perish ", there is nothing improper in desiring knowledge and love of the Lord. It has been said :- "The Lord of the yellow raiment has incarnated as the guru to teach the Veda." So the prapanna should learn from such gurus possessed of exclusive devotion to the Lord and having a clear knowledge of (the truth ). He should obtain clear knowledge from them by following the injunction contained in the śloka  - "Bow to your guru, place your doubts before him and render service to him, (then) learn from him the true nature of the self. (Your) ācāryas will teach you the truth concerning the self." He should have his knowledge rendered clear and pure, for (the poet) says, "Even a man that is dull becomes intelligent by seeking the company of the wise. Muddy water becomes clear and pure by being mixed with the lather from soapnut." It has been said, "He whose knowledge of the truth (concerning Bhagavān ) extends up to the enjoyment of the Lord all those who fall within the range of his eyes will be purified of all their sins." So the prapanna should live in close contact with such, as are well established in this knowledge. As stated (in the Gita):- "In a tank which is intended for all and for various purposes, one should take only as much (of the water) as is required for one's purposes", the prapanna should determine what he should choose, from among their ways of life and conduct, what is in accordance with his varṇa, his āśrama, his gotra, his character and the like and conduct himself in keeping with that determination and should walk warily lest he should fall into the pitfall of thinking of his own superiority and the inferiority of others, which might arise from his conceit while observing this code of conduct.
+ऎऩ्ऱुञ्जॊल्लुगिऱबडिये - कीऴ् उदाहरित्त वचनङ्गळिल् सॊल्लुगिऱबडिये। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि प्रमाणमाग सामान्यतः उद्देशित्त उत्तर-कृत्यङ्गळै विशेषित्तु विवरिक्किऱार्  
+स्वरूपानुरूपकालक्षेपार्थमाऩ उत्तरकृत्यमिरुक्कुम्बडि इत्यादिना ।  
+
+शेष-स्वरूपानुगुणम् आय्  
+अभिगमनादि-काल-क्षेपार्थमुम् आऩ उत्तरकृत्यमिरुक्कुम् प्रकारम्।  
+</details>
+
+
+Further the prapanna should not remain complacently ignorant of what should be known to one in that state,  
+in the presumption that he has already done what should be done.  
+In the state of perfect enjoyment of the Lord, knowledge and love are (both ) essential. Therefore in accordance with the śloka , "One *should never beg of the Lord anything but knowledge and love for His holy feet. The man who begs (for other things ) will surely perish ", there is nothing improper in desiring knowledge and love of the Lord. It has been said :- "The Lord of the yellow raiment has incarnated as the guru to teach the Veda." So the prapanna should learn from such gurus possessed of exclusive devotion to the Lord and having a clear knowledge of (the truth ). He should obtain clear knowledge from them by following the injunction contained in the śloka  - "Bow to your guru, place your doubts before him and render service to him, (then) learn from him the true nature of the self. (Your) ācāryas will teach you the truth concerning the self." He should have his knowledge rendered clear and pure, for (the poet) says, "Even a man that is dull becomes intelligent by seeking the company of the wise. Muddy water becomes clear and pure by being mixed with the lather from soapnut." It has been said, "He whose knowledge of the truth (concerning Bhagavān ) extends up to the enjoyment of the Lord all those who fall within the range of his eyes will be purified of all their sins." So the prapanna should live in close contact with such, as are well established in this knowledge. As stated (in the Gita):- "In a tank which is intended for all and for various purposes, one should take only as much (of the water) as is required for one's purposes", the prapanna should determine what he should choose, from among their ways of life and conduct, what is in accordance with his varṇa, his āśrama, his gotra, his character and the like and conduct himself in keeping with that determination and should walk warily lest he should fall into the pitfall of thinking of his own superiority and the inferiority of others, which might arise from his conceit while observing this code of conduct.
 
 Even if, as it occurred to such as Nammalvar and Nāthamunigal, he is blessed with the special grace of the Saviour so as to enjoy the rise of such benefits as the vision (of the Lord), he should feel sure (that it is not due to any merit of his own) as said in, "I do not* know what is good and what is bad”, and "Even if I know what is good and what is evil, I cannot obtain what is good and avoid what is evil" He should see to it that his being destitute of all upāyas (Ākiñcanya) which is due to his svarūpa, his maintenance (sthiti) and his activities (pravṛtti) being entirely dependent (on the Lord) does not suffer any change or loss. He should remember his utter helplessness (kārpaṇya ) as described in the śloka  “I am the abode of all transgressions, I have no means of protecting myself and I have nothing else to attain than Thee", and in such verses as "I have not been observing the code of the disciplined life, nor have I keen intelligence", "What**can I do? "May my * misery be put an end to by Thee ! If thou dost not do so, there is no one else to protect me", "I have no other upāya and no other protector," "I do not know of any one whom I can hold as the Saviour of my soul!" "We are such '' ignorant women belonging to the race of cowherds as eat in forests while grazing the cows there", "I have given up the rites pertaining to Brahmins of worshipping the three fires after ablutionś', "I was not born into any of the four castes wherein one is fit to follow dharma", "I am ignorant and of low birth", "I have no one to seek for support". "Even if Thou dost not remove from me the sufferings due to karma, I have no other refuge than thee," "I have not  practised karma yoga; I have not understood the real nature of the disembodied self (i.e) I have not performed Jñānayoga, nor have I bhakti towards Thy holy feet.” (In these Tamil verses and Sanskrit śloka s, the feeling of helplessness is well depicted and the prapanna should realise his owo helplessness by remembering such verses).
 
