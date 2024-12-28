@@ -1336,8 +1336,49 @@ Del mismo modo, también estos sánscritos Ślokas:-
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> "Live as you may for a hundred years, I will be under you. Order me yourself to do whatever you want in places which you consider beautiful”. “I long only for being the servant of Bhagavān in all my births." "I will spend my days thus, rendering the appointed service in each of the five parts of the day and in worshipping Bhagavān with good chandana. flowers and the like - such as I can obtain with my own effort."
+> परवान् अस्मि काकुत्स्थ  
+> त्वयि वर्ष-शतं स्थिते ।  
+> स्वयन् तु रुचिरे देशे  
+> क्रियताम् इति मां वद॥ +++(5)+++  
+> (रामायणम् आरण्यकाण्डम् १५-७)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> परवान् अस्मि काकुत्स्थ  
+> त्वयि वर्ष-शतं स्थिते ।  
+> स्वयन् तु रुचिरे देशे  
+> क्रियताम् इति मां वद॥ +++(5)+++  
+> (रामायणम् आरण्यकाण्डम् १५-७)
+
+</details>
+
+
+<details><summary>English</summary>
+
+> "Live as you may for a hundred years,  
+> I will be under you.  
+> Order me yourself to do whatever you want in places which you consider beautiful”. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Vivir como puedas durante cien años,  
+> Estaré debajo de ti.  
+> Ordene usted mismo para que haga lo que quiera  
+> en lugares que considere hermosos ”.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘परवानस्मि काकुत्स्थ त्वयि वर्षशतं स्थिते । स्वयन्तु रुचिरे देशे क्रियतामिति मां वद’’(रामायणम् आरण्यकाण्डम् १५-७)
+</details>
+
+
+
+> “I long only for being the servant of Bhagavān in all my births." "I will spend my days thus, rendering the appointed service in each of the five parts of the day and in worshipping Bhagavān with good chandana. flowers and the like - such as I can obtain with my own effort."
 
 These are the ways of service after prapatti which are in keeping with one's essential nature (svarūpa) in spending the time.
 
