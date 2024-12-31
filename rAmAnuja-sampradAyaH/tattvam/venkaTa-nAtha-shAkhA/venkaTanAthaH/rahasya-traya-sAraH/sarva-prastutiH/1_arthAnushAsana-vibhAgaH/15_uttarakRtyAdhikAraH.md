@@ -1832,11 +1832,188 @@ y tener un conocimiento claro de (la verdad).
 तॆळिवुडैय - विशदज्ञानमुडैय 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तद् विद्धि प्रणिपातेन  
+> परिप्रश्नेन सेवया ।  
+> उपदेक्ष्यन्ति ते ज्ञानं  
+> ज्ञानिनस् तत्त्व-दर्शिनः ॥’’+++(5)+++  
+> (गीता ४-३४)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘तद् विद्धि प्रणिपातेन  
+> परिप्रश्नेन सेवया ।  
+> उपदेक्ष्यन्ति ते ज्ञानं  
+> ज्ञानिनस् तत्त्व-दर्शिनः ॥’’+++(5)+++  
+> (गीता ४-३४)  
+</details>
+
+<details><summary>विषयः</summary>
+
+शिक्षा, गुरुः, शिष्यः
+</details>
+
+<details><summary>स्रोतः</summary>
+
+भगवद्गीता
+</details>
+
+<details><summary>English</summary>
+
+> "Bow to your guru,  
+> place your doubts before him  
+> and render service to him,  
+> (then) learn from him the true nature of the self.  
+> (Your) ācāryas will teach you the truth concerning the self." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Inclínese ante tu gurú,  
+> Coloque tus dudas ante él  
+> y prestarle servicio a él,  
+> (entonces) Aprenda de él la verdadera naturaleza del yo.  
+> (Tu) ācāryas te enseñará la verdad sobre el yo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया । उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥’’(गीता ४-३४)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ कट्टळैयिले तॆळियक् केट्टु,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्युक्त-नियम-पूर्वकं विशदं श्रुत्वा- 
+</details>
+
+
+<details><summary>English</summary>
+
+He should obtain clear knowledge from them  
+by following the injunction contained in the (above) śloka  - 
+</details>
+
+<details><summary>Español</summary>
+
+Debería obtener un conocimiento claro de ellos  
+siguiendo la orden judicial contenida en el (arriba) Śloka -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱ कट्टळैयिले तॆळियक्केट्टु,  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मन्दोऽप्य् अमन्दताम् एति  
+> संसर्गेण विपश्चितः ।  
+> पङ्क-च्छिदः+++(=soapnut)+++ फलस्येव  
+> निघर्षेणाविलं पयः ॥’’  
+> 
+> (मालविकाग्निमित्र-नाटकम्) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘मन्दोऽप्य् अमन्दताम् एति  
+> संसर्गेण विपश्चितः ।  
+> पङ्कच्-छिदः+++(=soapnut)+++ फलस्येव  
+> निघर्षेणाविलं पयः ॥’’  
+> 
+> (मालविकाग्निमित्र-नाटकम्) 
+</details>
+
+
+<details><summary>English</summary>
+
+> "Even a man that is dull becomes intelligent  
+> by seeking the company of the wise.  
+> Muddy water becomes clear and pure  
+> by being mixed with the lather from soapnut." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Even a man that is dull becomes intelligent  
+> by seeking the company of the wise.  
+> Muddy water becomes clear and pure  
+> by being mixed with the lather from soapnut." 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मन्दोऽप्यमन्दतामेति संसर्गेण विपश्चितः । पङ्कच्छिदः फलस्येव निघर्षेणाविलं पयः ॥’’(मालविकाग्निमित्र-नाटकम्) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडिये परिशुद्ध-ज्ञानऩ् आय्, 
+</details>
+
+<details><summary>English</summary>
+
+He should have his knowledge rendered clear and pure, for (the poet) says (the above), 
+</details>
+
+<details><summary>Español</summary>
+
+Debería tener su conocimiento claro y puro,  
+porque (el poeta) dice (lo anterior),
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये परिशुद्धज्ञानऩाय्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यस्यानुभव-पर्यन्ता  
+> बुद्धिस् तत्त्वे **प्रतिष्ठिता** ।  
+> तद्-दृष्टि-गो-चरास् सर्वे  
+> **मुच्यन्ते** सर्व-किल्बिषैः ॥’’
+> 
+> (श्रीसात्त्वत-संहिता)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘यस्यानुभव-पर्यन्ता  
+> बुद्धिस् तत्त्वे प्रतिष्ठिता ।  
+> तद्-दृष्टि-गो-चरास् सर्वे  
+> मुच्यन्ते सर्व-किल्बिषैः ॥’’
+> 
+> (श्रीसात्त्वत-संहिता)  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्यानुभवपर्यन्ता बुद्धिस्तत्त्वे प्रतिष्ठिता । तद्दृष्टिगोचरास्सर्वे मुच्यन्ते सर्वकिल्बिषैः ॥’’(श्रीसात्त्वत-संहिता)  
+</details>
 
 
 
 
-He should obtain clear knowledge from them by following the injunction contained in the śloka  - "Bow to your guru, place your doubts before him and render service to him, (then) learn from him the true nature of the self. (Your) ācāryas will teach you the truth concerning the self." He should have his knowledge rendered clear and pure, for (the poet) says, "Even a man that is dull becomes intelligent by seeking the company of the wise. Muddy water becomes clear and pure by being mixed with the lather from soapnut." It has been said, "He whose knowledge of the truth (concerning Bhagavān ) extends up to the enjoyment of the Lord all those who fall within the range of his eyes will be purified of all their sins." So the prapanna should live in close contact with such, as are well established in this knowledge. As stated (in the Gita):- "In a tank which is intended for all and for various purposes, one should take only as much (of the water) as is required for one's purposes", the prapanna should determine what he should choose, from among their ways of life and conduct, what is in accordance with his varṇa, his āśrama, his gotra, his character and the like and conduct himself in keeping with that determination and should walk warily lest he should fall into the pitfall of thinking of his own superiority and the inferiority of others, which might arise from his conceit while observing this code of conduct.
+
+It has been said, 
+
+> "He whose knowledge of the truth (concerning Bhagavān ) extends up to the enjoyment of the Lord all those who fall within the range of his eyes will be purified of all their sins." So the prapanna should live in close contact with such, as are well established in this knowledge. As stated (in the Gita):- "In a tank which is intended for all and for various purposes, one should take only as much (of the water) as is required for one's purposes", the prapanna should determine what he should choose, from among their ways of life and conduct, what is in accordance with his varṇa, his āśrama, his gotra, his character and the like and conduct himself in keeping with that determination and should walk warily lest he should fall into the pitfall of thinking of his own superiority and the inferiority of others, which might arise from his conceit while observing this code of conduct.
 
 Even if, as it occurred to such as Nammalvar and Nāthamunigal, he is blessed with the special grace of the Saviour so as to enjoy the rise of such benefits as the vision (of the Lord), he should feel sure (that it is not due to any merit of his own) as said in, "I do not* know what is good and what is bad”, and "Even if I know what is good and what is evil, I cannot obtain what is good and avoid what is evil" He should see to it that his being destitute of all upāyas (Ākiñcanya) which is due to his svarūpa, his maintenance (sthiti) and his activities (pravṛtti) being entirely dependent (on the Lord) does not suffer any change or loss. He should remember his utter helplessness (kārpaṇya ) as described in the śloka  “I am the abode of all transgressions, I have no means of protecting myself and I have nothing else to attain than Thee", and in such verses as "I have not been observing the code of the disciplined life, nor have I keen intelligence", "What**can I do? "May my * misery be put an end to by Thee ! If thou dost not do so, there is no one else to protect me", "I have no other upāya and no other protector," "I do not know of any one whom I can hold as the Saviour of my soul!" "We are such '' ignorant women belonging to the race of cowherds as eat in forests while grazing the cows there", "I have given up the rites pertaining to Brahmins of worshipping the three fires after ablutionś', "I was not born into any of the four castes wherein one is fit to follow dharma", "I am ignorant and of low birth", "I have no one to seek for support". "Even if Thou dost not remove from me the sufferings due to karma, I have no other refuge than thee," "I have not  practised karma yoga; I have not understood the real nature of the disembodied self (i.e) I have not performed Jñānayoga, nor have I bhakti towards Thy holy feet.” (In these Tamil verses and Sanskrit śloka s, the feeling of helplessness is well depicted and the prapanna should realise his owo helplessness by remembering such verses).
 
