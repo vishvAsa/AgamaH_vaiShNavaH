@@ -1964,6 +1964,14 @@ siguiendo la orden judicial contenida en el (arriba) Śloka -
 ऎऩ्गिऱ बडिये परिशुद्ध-ज्ञानऩ् आय्, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[११९]] 
+
+इत्य्-उक्त-रीत्या परिशुद्ध-ज्ञानो भूत्वा 
+</details>
+
+
 <details><summary>English</summary>
 
 He should have his knowledge rendered clear and pure, for (the poet) says (the above), 
@@ -1983,7 +1991,7 @@ porque (el poeta) dice (lo anterior),
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘यस्यानुभव-पर्यन्ता  
+> ‘‘+++(भगवति)+++ यस्यानुभव-पर्यन्ता  
 > बुद्धिस् तत्त्वे **प्रतिष्ठिता** ।  
 > तद्-दृष्टि-गो-चरास् सर्वे  
 > **मुच्यन्ते** सर्व-किल्बिषैः ॥’’
@@ -1991,29 +1999,223 @@ porque (el poeta) dice (lo anterior),
 > (श्रीसात्त्वत-संहिता)  
 </details>
 
+<details><summary>विषयः</summary>
+
+भक्तिः, ज्ञानम्, सत्सङ्गः
+</details>
+
+<details><summary>स्रोतः</summary>
+
+सात्त्वत-संहिता
+</details>
+
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-> ‘‘यस्यानुभव-पर्यन्ता  
+> ‘‘+++(भगवति)+++ यस्यानुभव-पर्यन्ता  
 > बुद्धिस् तत्त्वे प्रतिष्ठिता ।  
 > तद्-दृष्टि-गो-चरास् सर्वे  
-> मुच्यन्ते सर्व-किल्बिषैः ॥’’
+> **मुच्यन्ते** सर्व-किल्बिषैः ॥’’
 > 
 > (श्रीसात्त्वत-संहिता)  
 </details>
 
+<details><summary>English</summary>
+
+> "He whose knowledge of the truth (concerning Bhagavān )  
+> extends up to the enjoyment of the Lord,  
+> all those who fall within the range of his eyes will be purified of all their sins." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Él cuyo conocimiento de la verdad (con respecto a Bhagavān)  
+> se extiende hasta el disfrute del Señor,  
+> Todos los que caen dentro del rango de sus ojos  
+> serán purificados de todos sus pecados ".
+</details>
 
 <details><summary>मूलम्</summary>
 
 ‘‘यस्यानुभवपर्यन्ता बुद्धिस्तत्त्वे प्रतिष्ठिता । तद्दृष्टिगोचरास्सर्वे मुच्यन्ते सर्वकिल्बिषैः ॥’’(श्रीसात्त्वत-संहिता)  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडिये  
+इव्व्-अर्थङ्गळिल् निष्ठैय्-उडैयवर्गळ्-उडऩे नॆरुङ्गि वर्त्तित्तु,+++(5)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-उक्त-रीत्या एषु अर्थेषु निष्ठाम् आवहद्भिः सह गाढं **संसृज्य**  
+</details>
+
+
+<details><summary>English</summary>
+
+It has been said (thus), 
+So the prapanna should live in close contact with such,  
+as are well established in this knowledge. 
+</details>
+
+<details><summary>Español</summary>
+
+Se ha dicho (así),  
+Entonces la Prapanna debería vivir en contacto cercano con tal,  
+como se establece bien en este conocimiento.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये इव्वर्थङ्गळिल् निष्ठैयुडैयवर्गळुडऩे नॆरुङ्गि वर्त्तित्तु, 
+</details>
+
+## अनुष्ठानम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवर्गळ् अनुष्ठानङ्गळिल् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तेषाम् अनुष्ठानेषु 
+</details>
+
+
+<details><summary>English</summary>
+
+from among their ways of life and conduct, 
+</details>
+
+<details><summary>Español</summary>
+
+de entre sus formas de vida y conducta,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवर्गळ् अनुष्ठानङ्गळिल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यावान् अर्थ उदपाने  
+सर्वतस् संप्लुतोदके’’(गीता २-४६।) 
+
+
+ऎऩ्गिऱप्रकारत्तिले  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘यावान् अर्थ उदपाने  
+सर्वतस् संप्लुतोदके’’(गीता २-४६।) 
+
+इत्य्-उक्त-प्रकारेण 
+</details>
+
+<details><summary>English</summary>
+
+As stated (in the Gita):- 
+
+> "In a tank which is intended for all  
+> and for various purposes,  
+> one should take only as much (of the water)  
+> as is required for one's purposes", 
+</details>
+
+<details><summary>Español</summary>
+
+Como se indicó (en el Gita):-  
+
+> "En un tanque que está destinado a todos  
+> y para varios fines,  
+> uno debe tomar solo tanto (del agua)  
+> como se requiere para los propósitos ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यावानर्थ उदपाने सर्वतस्संप्लुतोदके’’(गीता २-४६।) ऎऩ्गिऱप्रकारत्तिले  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩ् वर्णाश्रम-जाति-गुणादिगळुक्क् अनुरूपम् आऩ कर्तव्यांशत्तै निष्कर्षित्तु अनुष्ठित्तु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-उक्त-प्रकारेण स्व-वर्णाश्रम-जाति-गुणाद्य्-अनुरूपं कर्तव्यांशं निष्कृष्यानुष्ठाय, 
+</details>
+
+
+<details><summary>English</summary>
+
+the prapanna should determine what he should choose,  
+what is in accordance with his varṇa, his āśrama, his gotra, his character and the like  
+and conduct himself in keeping with that determination  
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna debe determinar qué debe elegir,  
+qué está de acuerdo con su varṇa, su āśrama, su gotra, su carácter y similares  
+y conducirse de acuerdo con esa determinación
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ् वर्णाश्रमजातिगुणादिगळुक्कनुरूपमाऩ कर्तव्यांशत्तै निष्कर्षित्तु अनुष्ठित्तु, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"इव्व्-अनुष्ठानादिगळैय् उडैयोम्" ऎऩ्ऩुम् भावनैय्-अडिय्-आग वरुम्  
+स्वोत्कर्ष--पर-निकर्षानुसन्धानङ्गळ् आग्-इऱ  
+पडु-गुऴिगळैत्+++(=गर्तानि)+++ तप्पुम् बडि  
+तऩ्-मुऩ्ऩ्-अडि पार्त्तु नडक्कवुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"ईदृशानुष्ठानादिमन्तो वयम्" इति भावना-मूलक-  
+स्वोत्कर्ष--पर-निकर्षानुसंधान-रूप--  
+प्रच्छन्न-गर्त-पात-प्रसङ्ग-परिहाराय 
+दृष्टिं कृत्वा संचरणम्, 
+</details>
+
+
+<details><summary>English</summary>
+
+and should walk warily  
+lest he should fall into the pitfall of thinking of his own superiority and the inferiority of others,  
+which might arise from his conceit while observing this code of conduct.
+</details>
+
+<details><summary>Español</summary>
+
+y debería caminar con cautela  
+para que no caiga en la trampa de pensar en su propia superioridad y la inferioridad de los demás,  
+lo que podría surgir de su presunción mientras observa este código de conducta.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वनुष्ठानादिगळैयुडैयोमॆऩ्ऩुम् भावनैयडियाग वरुम् स्वोत्कर्षपरनिकर्षानुसन्धानङ्गळागिऱ पडुगुऴिगळैत् तप्पुम्बडि  
+तऩ् मुऩ्ऩडिबार्त्तु नडक्कवुम्, 
+</details>
 
 
 
 
-It has been said, 
+## कार्पण्यानुसन्धानम्
 
-> "He whose knowledge of the truth (concerning Bhagavān ) extends up to the enjoyment of the Lord all those who fall within the range of his eyes will be purified of all their sins." So the prapanna should live in close contact with such, as are well established in this knowledge. As stated (in the Gita):- "In a tank which is intended for all and for various purposes, one should take only as much (of the water) as is required for one's purposes", the prapanna should determine what he should choose, from among their ways of life and conduct, what is in accordance with his varṇa, his āśrama, his gotra, his character and the like and conduct himself in keeping with that determination and should walk warily lest he should fall into the pitfall of thinking of his own superiority and the inferiority of others, which might arise from his conceit while observing this code of conduct.
 
 Even if, as it occurred to such as Nammalvar and Nāthamunigal, he is blessed with the special grace of the Saviour so as to enjoy the rise of such benefits as the vision (of the Lord), he should feel sure (that it is not due to any merit of his own) as said in, "I do not* know what is good and what is bad”, and "Even if I know what is good and what is evil, I cannot obtain what is good and avoid what is evil" He should see to it that his being destitute of all upāyas (Ākiñcanya) which is due to his svarūpa, his maintenance (sthiti) and his activities (pravṛtti) being entirely dependent (on the Lord) does not suffer any change or loss. He should remember his utter helplessness (kārpaṇya ) as described in the śloka  “I am the abode of all transgressions, I have no means of protecting myself and I have nothing else to attain than Thee", and in such verses as "I have not been observing the code of the disciplined life, nor have I keen intelligence", "What**can I do? "May my * misery be put an end to by Thee ! If thou dost not do so, there is no one else to protect me", "I have no other upāya and no other protector," "I do not know of any one whom I can hold as the Saviour of my soul!" "We are such '' ignorant women belonging to the race of cowherds as eat in forests while grazing the cows there", "I have given up the rites pertaining to Brahmins of worshipping the three fires after ablutionś', "I was not born into any of the four castes wherein one is fit to follow dharma", "I am ignorant and of low birth", "I have no one to seek for support". "Even if Thou dost not remove from me the sufferings due to karma, I have no other refuge than thee," "I have not  practised karma yoga; I have not understood the real nature of the disembodied self (i.e) I have not performed Jñānayoga, nor have I bhakti towards Thy holy feet.” (In these Tamil verses and Sanskrit śloka s, the feeling of helplessness is well depicted and the prapanna should realise his owo helplessness by remembering such verses).
 
