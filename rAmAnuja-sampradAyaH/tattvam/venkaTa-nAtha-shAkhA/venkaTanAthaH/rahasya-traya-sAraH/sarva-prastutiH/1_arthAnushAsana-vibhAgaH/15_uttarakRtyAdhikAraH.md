@@ -2545,14 +2545,414 @@ no sufre ningún cambio o pérdida.
 'नोऱ्ऱनोऩ्बिलेऩ् नुण्णऱि विलेऩ्'(तिरुवाय्मॊऴि ५-७-१)  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+नोऱ्ऱनोऩ्बिलेऩ् - अनुष्ठिक्कप्पट्ट व्रतम् ऒऩ्ऱुमिलेऩ्, नुण्णऱिविलेऩ् - सूक्ष्ममाऩ आत्मज्ञानमिल्लादवऩ्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'ऎऩ् ऩाऩ् सॆय्गेऩ्'(तिरुवाय्मॊऴि ५-८-३),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “निवर्तय दुःखं  
+> मा वा निवर्तय,  
+> निवर्तकान्तर-शून्योऽहम् " 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "किम कुर्याम्”, 
+</details>
+
+<details><summary>English</summary>
+
+"What can I do?" 
+</details>
+
+<details><summary>Español</summary>
+
+"¿Qué puedo hacer?"
+</details>
+
+<details><summary>मूलम्</summary>
+
+'ऎऩ्ऩाऩ् सॆय्गेऩ्'(तिरुवाय्मॊऴि ५-८-३),  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्ऩाऩ् सॆय्गेऩ् - नाऩॆदैच् चॆय्वेऩ्, कैगाल्गळै नीट्टवुम् मुडक्कवुम् स्वाधीनमिल्लाद नाऩ् ऎदै अनुष्ठिप्पेऩॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "कळैवाय् तुन्बङ्+++(=दुःखम्)+++,  
+> कळैयाद् ऒऴिवाय्+++(=त्यज)+++,  
+> कळै-गण्+++(=रक्षक)+++-मऱ्ऱिलेऩ्" 
+> 
+> (तिरुवाय्मॊऴि 5-8-8.) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “निवर्तय दुःखं  
+> मा वा निवर्तय,  
+> निवर्तकान्तर-शून्योऽहम् " 
+</details>
+
+
+
+<details><summary>English</summary>
+
+> May my misery be put an end to by Thee !  
+> If thou dost not do so,  
+> there is no one else to protect me", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> ¡Que mi miseria se ponga fin!  
+> Si no lo haces,  
+> no hay nadie más que me protegiera ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'कळैवाय् तुऩ्बङ्गळैया तॊऴिवाय् कळैगण्मऱ्ऱिलेऩ्'(तिरुवाय्मॊऴि ५-८-८),  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कळैवाय् तुऩ्बम् - ओ भगवाऩे! नी संसारतुऩ्बत्तैप् पोक्कुवाय्, कळैयादॊऴिवाय् - अऩ्ऱिक्के पोक्कामल् ऒऴिवायागिल्, कळैगण्मऱ्ऱिलेऩ् - संसारदुःखत्तैप् पोक्कुम्उपायम् वेऱिल्लै। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'पुगल् ऒऩ्ऱ् इल्लाव् अडियेऩ्'(तिरुवाय्मॊऴि ६-१०-१०),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+“38 शरणान्तरशून्यो दासोऽहम्” 
+</details>
+
+<details><summary>English</summary>
+
+> "I have no other upāya and no other protector," 
+</details>
+
+<details><summary>Español</summary>
+
+> "No tengo otra upāya y ningún otro protector".
+</details>
+
+<details><summary>मूलम्</summary>
+
+'पुगलॊऩ्ऱिल्लावडियेऩ्'(तिरुवाय्मॊऴि ६-१०-१०),  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पुगलॊऩ्ऱिल्लावडियेऩ् - वेऱु उपायमिल्लाद वडियेऩ्, शरण्यान्तरमिल्लाद अडियेऩॆऩ्ऩवुमाम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'आविक्क् ओर् पऱ्ऱुक्-+++(काष्ट-)+++कॊम्बु निऩ्ऩ्-अलाल् अऱिगिऩ्ऱिलेऩ्'(तिरुवाय्मॊऴि १०-१०-३)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[139]] 
+
+> “38 आत्मन एकाम् अवलम्बन-शाखां  
+> त्वां विना **न जानाम्य्** अहम् "
+</details>
+
+<details><summary>English</summary>
+
+"I do not know of any one  
+whom I can hold as the Saviour of my soul!"  
+</details>
+
+<details><summary>Español</summary>
+
+"No conozco a nadie  
+quién puedo tener como el Salvador de mi alma! "
+</details>
+
+<details><summary>मूलम्</summary>
+
+'आविक्कोर् पऱ्ऱुक्कॊम्बु निऩ्ऩलालऱिगिऩ्ऱिलेऩ्'(तिरुवाय्मॊऴि १०-१०-३)  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+आविक्कोर् पऱ्ऱुक् कॊम्बु - ऎऩ्ऩात्मावागिऱ कॊडिक्कु ओर् अवलम्बनशाखैयै, निऩ्ऩलालऱिगिऩ्ऱिलेऩ् - तेवरीरैयल्लामल् अऱिगिऱेऩिल्लै। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> +++(अज्ञाना वयम्, या)+++ 'कऱवैगळ्+++(=धेनूः)+++ पिऩ् सॆऩ्ऱु'(तिरुप्पावै २८),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> +++(अज्ञाना वयम्, या)+++ "धेनूर् अनुगम्य" 
+</details>
+
+<details><summary>English</summary>
+
+> "We are such ignorant women  
+> belonging to the race of cowherds  
+> as eat in forests while grazing the cows there", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Somos mujeres tan ignorantes  
+> Pertenecer a la raza de Cowherds  
+> como comer en bosques mientras pasta las vacas allí ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'कऱवैगळ् पिऩ् सॆऩ्ऱु'(तिरुप्पावै २८),  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+कऱवैगळ् पिऩ्सॆऩ्ऱु - गोक्कळै पिऩ्सॆऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'कुळित्तु मूऩ्ऱ् अऩलैय्+++(=अनलानां)+++ ओम्बुम्+++(=परिचरणम् [त्यक्तम्])+++'(तिरुमालै २५।),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "स्नात्वा त्रयाणाम् अग्नीनाम् परिचरणम्” +++(त्यक्तम्)+++
+</details>
+
+<details><summary>English</summary>
+
+> I have given up the rites pertaining to Brahmins  
+> of worshipping the three fires after ablutions, 
+</details>
+
+<details><summary>Español</summary>
+
+> He renunciado a los ritos relacionados con los brahmanes
+> de adorar los tres incendios después de la ablución,ciones, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'कुळित्तु मूऩ्ऱऩलैयोम्बुम्'(तिरुमालै २५।),  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+कुळित्तु इत्यादि । कुळित्तु - स्नानम् पण्णि, मूऩ्ऱऩलै - गार्हपत्यादित्रेताग्नियै, ओम्बुगै - परिचरिक्कै।  
+कुऱिगॊळ् अन्दण्मैदऩ्ऩै - सावधानम् आगव् अनुष्ठिक्क-वेण्डिय ब्राह्मण-कृत्यत्तै, ऒळित्तिट्टेऩ् - परित्यजित्तेऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'कुलङ्गळ् आय् अव् ईर्-इरण्डिल्' +++(न जातः)+++  
+> (तिरुच्चन्दविरुत्तम् ९०),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “42 कुलयोर्द्वयोर्द्वयोः " +++(न जातः)+++
+</details>
+
+<details><summary>English</summary>
+
+> "I was not born into any of the four castes  
+> wherein one is fit to follow dharma", 
+</details>
+
+<details><summary>Español</summary>
+
+> "No nací en ninguna de las cuatro castas  
+> en donde uno está en forma para seguir dharma ",
+</details>
+
+<details><summary>मूलम्</summary>
+
+'कुलङ्गळायवीरिरण्डिल्'(तिरुच्चन्दविरुत्तम् ९०),  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'एऴैय्+++(=अज्ञः)+++ एदलऩ्+++(=परकीयः)+++'(पॆरिय तिरुमॊऴि ५-८-१),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "अज्ञः परिचयहीनः ' 
+</details>
+
+<details><summary>English</summary>
+
+> "I am ignorant and of low birth",  
+</details>
+
+<details><summary>Español</summary>
+
+> "Soy ignorante y de bajo nacimiento",
+</details>
+
+<details><summary>मूलम्</summary>
+
+'एऴैयेदलऩ्'(पॆरिय तिरुमॊऴि ५-८-१),  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'पऱ्ऱेल्+++(=आलम्बनम्)+++ ऒऩ्ऱुम् इलेऩ्'(पॆरिय तिरुमॊऴि १-९-९),  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अपाश्रयेण केनापि हीनः 
+</details>
+
+<details><summary>English</summary>
+
+> "I have no one to seek for support".  
+</details>
+
+<details><summary>Español</summary>
+
+> "No tengo a nadie que busque apoyo".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'पऱ्ऱेलॊऩ्ऱुमिलेऩ्'(पॆरिय तिरुमॊऴि १-९-९),  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तरु-दुयरन्+++(=सङ्कटं)+++ तडायेल्  +++(अगतिर् अहम्)+++'(पॆरुमाळ् तिरुमॊऴि ५-१) 
+
+ऎऩ्गिऱ पाट्टुगळिलुम्,  
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> दीयमानं दुःखं न निवर्तयसि चेत् +++(अगतिर् अहम्)+++
+
+इत्येतासु गाथासु, 
+</details>
+
+<details><summary>English</summary>
+
+> "Even if Thou dost not remove from me the sufferings due to karma,  
+> I have no other refuge than thee,"  
+</details>
+
+<details><summary>Español</summary>
+
+> "Incluso si no me quitas los sufrimientos debido al karma,  
+> No tengo otro refugio que ti ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'तरुदुयरन्दडायेल्'(पॆरुमाळ् तिरुमॊऴि ५-१) 
+
+ऎऩ्गिऱ पाट्टुगळिलुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> न धर्मनिष्ठोऽस्मि (न चात्मवेदी  
+न भक्तिमांस् त्वच्-चरणारविन्दे ।  
+अकिञ्चनोऽनन्य-गतिश् शरण्य  
+त्वत्-पाद-मूलं **शरणं प्रपद्ये** ॥ २२ ॥  )
+> 
+> (आळवन्दार् स्तोत्रम् २२)  
+
+ऎऩ्गिऱ श्लोकत्तिलुम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> न धर्मनिष्ठोऽस्मि (न चात्मवेदी  
+न भक्तिमांस् त्वच्-चरणारविन्दे ।  
+अकिञ्चनोऽनन्य-गतिश् शरण्य  
+त्वत्-पाद-मूलं **शरणं प्रपद्ये**) ॥ २२ ॥
+> 
+> (आळवन्दार् स्तोत्रम् २२)  
+
+
+इति श्लोके 
+</details>
+
+<details><summary>English</summary>
+
+> "I have not  practised karma yoga;  
+> I have not understood the real nature of the disembodied self  
+> (i.e) I have not performed Jñānayoga,  
+> nor have I bhakti towards Thy holy feet.” 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "No he practicado karma yoga;  
+> No he entendido la naturaleza real del yo incorpóreo  
+> (es decir) no he realizado jñānayoga,  
+> tampoco he bhakti hacia tus pies santos ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘न धर्मनिष्ठोऽस्मि’’(आळवन्दार् स्तोत्रम् २२)  
+
+ऎऩ्गिऱ श्लोकत्तिलुम्
+</details>
+
+
 
 He should remember his utter helplessness (kārpaṇya ) as described in the śloka and in such verses as (above) 
 
 
 
-"What can I do?" 
 
-> May my misery be put an end to by Thee ! If thou dost not do so, there is no one else to protect me", "I have no other upāya and no other protector," "I do not know of any one whom I can hold as the Saviour of my soul!" "We are such '' ignorant women belonging to the race of cowherds as eat in forests while grazing the cows there", "I have given up the rites pertaining to Brahmins of worshipping the three fires after ablutionś', "I was not born into any of the four castes wherein one is fit to follow dharma", "I am ignorant and of low birth", "I have no one to seek for support". "Even if Thou dost not remove from me the sufferings due to karma, I have no other refuge than thee," "I have not  practised karma yoga; I have not understood the real nature of the disembodied self (i.e) I have not performed Jñānayoga, nor have I bhakti towards Thy holy feet.” (In these Tamil verses and Sanskrit śloka s, the feeling of helplessness is well depicted and the prapanna should realise his owo helplessness by remembering such verses).
+(In these Tamil verses and Sanskrit śloka s, the feeling of helplessness is well depicted  
+and the prapanna should realise his owo helplessness by remembering such verses).
 
 Owing to the knowledge of his own unfitness from time immemorial and the loss of the Lord's service which resulted from it, which may cause excessive disgust, the prapanna should not fall into despair which makes one lament in the words of the Alvar saying, “The nature of the man in saṁsāra is such that he identifies himself with the perishing body and calls it "I"; from it arises alao evil conduct and from it arises again the body that is foul". (Without falling into despair ), he should hearten himself with the succeeding words there :- "O" Lord of the immortals, Thou wast born into all castes and even from the wombs of animals in Thy eagerness to protect the Jīvas!" He should comfort himself with the words of the Saviour who appears in front to save him - the words which are wholesome and sweet like mother's milk (such as “ For the protection of the good and the destruction of the wicked and so also for the establishment of dharma, I am born again and again in every yuga." He should bathe, as it were, in the words (of Bhagavān) which reveal the secret of the avatārs and take courage (from passages like the following) :- "Whatever a man may have been in the past, it he lives a righteous life in his old age, it will do him good; his evil deeds in the past will do him no harm" and "A man may have been wicked in his past life; he may have fed on anything (however impure ); he may have been ungrateful; he may have been a sceptic; in spite of all that, if he earnestly seeks the protection of the Lord, who is the cause of the world, know that that man is faultless owing to the Lord's greatness ", " In one half of an instant, a jīva commits a sin which cannot be expiated even in the course of ten thousand kalpas of Brahma. But Thou pardonest him if only he gives up the thought of sinning (again), even though he has transgressed. How wonderful this is !" "The past is past, what can we do concerning it? The wise man should think of erecting the dam even when the water is flowing," " It is good to die after performing prapatti to the Lord at least in the dying moments"
 
