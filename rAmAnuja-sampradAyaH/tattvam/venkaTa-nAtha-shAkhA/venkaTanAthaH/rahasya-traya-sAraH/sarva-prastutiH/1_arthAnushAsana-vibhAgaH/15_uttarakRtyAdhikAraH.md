@@ -3011,7 +3011,7 @@ y la Prapanna debería darse cuenta de su propia impotencia recordando tales ver
 
 
 
-## अनिर्वेदः
+## उत्साहः
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3030,13 +3030,15 @@ y la Prapanna debería darse cuenta de su propia impotencia recordando tales ver
 <details><summary>English</summary>
 
 Owing to the knowledge of his own unfitness from time immemorial  
-and the loss of the Lord's service which resulted from it, 
+and the loss of the Lord's service which resulted from it,  
+which may cause excessive disgust,  
 </details>
 
 <details><summary>Español</summary>
 
 Debido al conocimiento de su propia incapacidad desde el tiempo inmemorial  
 y la pérdida del servicio del Señor que resultó de él,
+que puede causar asco excesivo,
 </details>
 
 <details><summary>मूलम्</summary>
@@ -3044,12 +3046,41 @@ y la pérdida del servicio del Señor que resultó de él,
 इप्पडित् तऩक्कनादिकालम्बिऱन्द अनर्हतैयुमदडियागविऴन्द कैङ्कर्यत्तैयुम् पार्त्तु 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+मुऩ्बिरुन्दु कऴिन्दुबोऩ कैङ्कर्यानर्हतैयैयुम्, अदऩालिऴन्दकैङ्कर्यत्तैयुम् निऩैत्तु दुःखियादेयॆऩ्गिऱार् इप्पडि इत्यादिना । पार्त्तु - योसित्तुप्पार्त्तु, निऩैत्तु ऎऩ्ऱबडि। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-'पॊय्न् निऩ्ऱ ञाऩमुम् पॊल्लाव् ऒऴुक्कुम् अऴुक्क्-उडम्बुम्'(तिरुविरुत्तम् १)   
+> 'पॊय्न्-निऩ्ऱ +++(देहात्मभाव-)+++ञाऩमुम्, +++(ततः)+++ पॊल्लाव्+++(=दुष्टम्)+++  ऒऴुक्कुम्+++(=आचरणम्)+++, +++(ततः)+++  अऴुक्क्-उडम्बुम्'(तिरुविरुत्तम् १)   
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१२९]]
+
+> “मिथ्या-भूतं +++(देहात्मभाव-)+++ज्ञानं, +++(ततः)+++ स-दोषम् आचरणं, +++(ततः)+++ मलिन-शरीरञ् च"  
+> (तिरुविरुत्तम् १)  
+</details>
+
+<details><summary>English</summary>
+
+> “The nature of the man in saṁsāra is such that he identifies himself with the perishing body and calls it "I";  
+> from it arises also evil conduct  
+> and from it arises again the body that is foul". 
+
+</details>
+
+<details><summary>Español</summary>
+
+> “La naturaleza del hombre en Saṁsāra es tal que  
+> se identifica con el cuerpo perecido y lo llama "I";  
+> De esto también surge conducta malvada  
+> Y de él surge nuevamente el cuerpo que es asqueroso ".
+</details>
 
 
 <details><summary>मूलम्</summary>
@@ -3057,9 +3088,44 @@ y la pérdida del servicio del Señor que resultó de él,
 'पॊय्न्निऩ्ऱ ञाऩमुम् पॊल्लावॊऴुक्कुमऴुक्कुडम्बुम्'(तिरुविरुत्तम् १)   
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् अलऱ्ऱप्+++(=विलापं)+++ पण्णुम् निर्वेद-प्राचुर्यत्ताले अवसन्नऩ् आगादे,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति विलापं जनयता निर्वेद-प्राचुर्येणावसन्नताम् अप्राप्य
+</details>
+
+<details><summary>English</summary>
+
+the prapanna should not fall into despair  
+which makes one lament in the words of the Alvar saying (above) 
+
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna no debería caer en desesperación  
+lo que hace un lamento  
+en las palabras del dicho Alvar (arriba)
+</details>
 
 
-which may cause excessive disgust, the prapanna should not fall into despair which makes one lament in the words of the Alvar saying, “The nature of the man in saṁsāra is such that he identifies himself with the perishing body and calls it "I"; from it arises alao evil conduct and from it arises again the body that is foul". (Without falling into despair ), he should hearten himself with the succeeding words there :- "O" Lord of the immortals, Thou wast born into all castes and even from the wombs of animals in Thy eagerness to protect the Jīvas!" He should comfort himself with the words of the Saviour who appears in front to save him - the words which are wholesome and sweet like mother's milk (such as “ For the protection of the good and the destruction of the wicked and so also for the establishment of dharma, I am born again and again in every yuga." He should bathe, as it were, in the words (of Bhagavān) which reveal the secret of the avatārs and take courage (from passages like the following) :- "Whatever a man may have been in the past, it he lives a righteous life in his old age, it will do him good; his evil deeds in the past will do him no harm" and "A man may have been wicked in his past life; he may have fed on anything (however impure ); he may have been ungrateful; he may have been a sceptic; in spite of all that, if he earnestly seeks the protection of the Lord, who is the cause of the world, know that that man is faultless owing to the Lord's greatness ", " In one half of an instant, a jīva commits a sin which cannot be expiated even in the course of ten thousand kalpas of Brahma. But Thou pardonest him if only he gives up the thought of sinning (again), even though he has transgressed. How wonderful this is !" "The past is past, what can we do concerning it? The wise man should think of erecting the dam even when the water is flowing," " It is good to die after performing prapatti to the Lord at least in the dying moments"
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱलऱ्ऱप्पण्णुम् निर्वेदप्राचुर्यत्ताले अवसन्नऩागादे,  
+</details>
+
+
+
+
+(Without falling into despair ), he should hearten himself with the succeeding words there :- "O Lord of the immortals, Thou wast born into all castes and even from the wombs of animals in Thy eagerness to protect the Jīvas!" 
+
+He should comfort himself with the words of the Saviour  
+who appears in front to save him -  
+the words which are wholesome and sweet like mother's milk such as “ For the protection of the good and the destruction of the wicked and so also for the establishment of dharma, I am born again and again in every yuga." He should bathe, as it were, in the words (of Bhagavān) which reveal the secret of the avatārs and take courage (from passages like the following) :- "Whatever a man may have been in the past, it he lives a righteous life in his old age, it will do him good; his evil deeds in the past will do him no harm" and "A man may have been wicked in his past life; he may have fed on anything (however impure ); he may have been ungrateful; he may have been a sceptic; in spite of all that, if he earnestly seeks the protection of the Lord, who is the cause of the world, know that that man is faultless owing to the Lord's greatness ", " In one half of an instant, a jīva commits a sin which cannot be expiated even in the course of ten thousand kalpas of Brahma. But Thou pardonest him if only he gives up the thought of sinning (again), even though he has transgressed. How wonderful this is !" "The past is past, what can we do concerning it? The wise man should think of erecting the dam even when the water is flowing," " It is good to die after performing prapatti to the Lord at least in the dying moments"
 
 In accordance with this principle, the prapanna should not lament for what is past and without running away at the thought of his past unfitness, he should make himself fit for the future by reflecting on the present fitness which has resulted from the infinite greatness of the Saviour which brooks no questioning, like those who construct a dam for the water that will come up in the future; he should not stray from the path of performing the commands and permissions of the Lord which are in keeping with his present state as a prapanna. As described (by the Alvar), the senses which have become tired with expectations of enjoying the Lord should be rendered fit (to enjoy Him) by means of pure food and service and directed towards such (spiritual) experiences as are available and turned away from the desire for unwholesome objects, like cows that are turned away from stealthily eating the crops.
 
