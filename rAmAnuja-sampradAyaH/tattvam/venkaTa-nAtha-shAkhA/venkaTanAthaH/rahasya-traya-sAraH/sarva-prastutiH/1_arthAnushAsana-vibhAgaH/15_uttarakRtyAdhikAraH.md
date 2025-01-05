@@ -1509,19 +1509,6 @@ Del mismo modo, también estos sánscritos Ślokas:-
 </details>
 
 
-## ज्ञानापेक्षा
-
-<details><summary>English</summary>
-
-THE PRAPANNA SHOULD SEEK SPIRITUAL KNOWLEDGE:
-</details>
-
-<details><summary>Español</summary>
-
-LA PRAPANNA DEBE BUSCAR CONOCIMIENTO ESPIRITUAL:
-</details>
-
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्ऱुं सॊल्लुगिऱ बडिये  
@@ -1567,6 +1554,19 @@ que están en consonancia con la naturaleza esencial de uno (svarūpa) para pasa
 शेष-स्वरूपानुगुणम् आय्  
 अभिगमनादि-काल-क्षेपार्थमुम् आऩ उत्तरकृत्यमिरुक्कुम् प्रकारम्।  
 </details>
+
+## ज्ञान-भक्त्य्-अपेक्षा
+
+<details><summary>English</summary>
+
+THE PRAPANNA SHOULD SEEK SPIRITUAL KNOWLEDGE:
+</details>
+
+<details><summary>Español</summary>
+
+LA PRAPANNA DEBE BUSCAR CONOCIMIENTO ESPIRITUAL:
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1758,7 +1758,7 @@ No hay nada incorrecto en desear el conocimiento y el amor del Señor.
 </details>
 
 
-## गुरुः
+## गुरु-शुश्रूषा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1925,7 +1925,7 @@ siguiendo la orden judicial contenida en el (arriba) Śloka -
 ऎऩ्गिऱ कट्टळैयिले - ऎऩ्गिऱ शास्त्रीयनियमप्पडि। तॆळियक्केट्टु - अज्ञान संशयविपर्ययमऩ्ऱिक्के अतिविशदमागक्केट्टु। 
 </details>
 
-
+## ज्ञान-सिद्धिः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2103,7 +2103,7 @@ como se establece bien en este conocimiento.
 ऎऩ्गिऱबडिये इव्वर्थङ्गळिल् निष्ठैयुडैयवर्गळुडऩे नॆरुङ्गि वर्त्तित्तु, 
 </details>
 
-## अनुष्ठानम्
+## अनुष्ठानानुकृतिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवर्गळ् अनुष्ठानङ्गळिल् 
@@ -2551,21 +2551,16 @@ no sufre ningún cambio o pérdida.
 </details>
 
 
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'ऎऩ् ऩाऩ् सॆय्गेऩ्'(तिरुवाय्मॊऴि ५-८-३),  
 </details>
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-> “निवर्तय दुःखं  
-> मा वा निवर्तय,  
-> निवर्तकान्तर-शून्योऽहम् " 
-</details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-> "किम कुर्याम्”, 
+> "किं कुर्याम्”, 
 </details>
 
 <details><summary>English</summary>
@@ -2805,6 +2800,12 @@ quién puedo tener como el Salvador de mi alma! "
 'कुलङ्गळायवीरिरण्डिल्'(तिरुच्चन्दविरुत्तम् ९०),  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+कुलङ्गळाय इत्यादि । कुलङ्गळायवीरिरण्डिल् - ब्राह्मणादिवर्णङ्गळ् नालिल्, अन्यतमत्तिलुम् पिऱन्दवऩल्लेऩ्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2830,6 +2831,12 @@ quién puedo tener como el Salvador de mi alma! "
 
 'एऴैयेदलऩ्'(पॆरिय तिरुमॊऴि ५-८-१),  
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+एऴैयेदलऩ् - एऴै – भीरु – ज्ञानमिल्लादवऩॆऩ्ऱबडि। एदलऩ् - शत्रु । 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2857,6 +2864,13 @@ quién puedo tener como el Salvador de mi alma! "
 
 'पऱ्ऱेलॊऩ्ऱुमिलेऩ्'(पॆरिय तिरुमॊऴि १-९-९),  
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+पऱ्ऱेलॊऩ्ऱुमिलेऩ् - पऱ्ऱेल् - आश्रयमो वॆऩ्ऩिल् ऒऩ्ऱुमिल्लादवऩ्, अवलम्बमाऩ सुकृतमॊऩ्ऱुमिल्लादवऩॆऩ्ऱबडि। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2892,6 +2906,12 @@ quién puedo tener como el Salvador de mi alma! "
 
 ऎऩ्गिऱ पाट्टुगळिलुम्,  
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+तरुदुयरन्दडायेल् - पूर्वकृतपापकर्मम्, तरु - कॊडुक्कुम्, तुयरम् - दुःखत्तै, तडायेल् - नी पोक्काविडिल्, 'निऩ् सरणल्लाल् सरणिल्लै' ऎऩ्बदु इदिऩ् मेल्बादम्। 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2944,17 +2964,102 @@ quién puedo tener como el Salvador de mi alma! "
 ऎऩ्गिऱ श्लोकत्तिलुम्
 </details>
 
+<details><summary>सायण-टीका</summary>
 
+‘‘न धर्म निष्ठोऽस्मि’’ ऎऩ्गिऱ श्लोकत्तिलुमिति । इदु आळवन्दार् स्तोत्रत्तिऩ् श्लोकम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् अरुळिच् चॆय्द कार्पण्यत्तिऩ् कवडुगळैय्+++(=शाखाः)+++ ऎल्लाम् अवलम्बित्तुक् कॊण्डु पोरवुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एभिर् अनुसंहितानां कार्पण्यावान्तर-भेद-विशेषाणां सर्वेषाम् अवलम्बनेन वर्तनम्,  
+</details>
+
+<details><summary>English</summary>
 
 He should remember his utter helplessness (kārpaṇya ) as described in the śloka and in such verses as (above) 
 
-
-
-
 (In these Tamil verses and Sanskrit śloka s, the feeling of helplessness is well depicted  
-and the prapanna should realise his owo helplessness by remembering such verses).
+and the prapanna should realise his own helplessness by remembering such verses).
+</details>
 
-Owing to the knowledge of his own unfitness from time immemorial and the loss of the Lord's service which resulted from it, which may cause excessive disgust, the prapanna should not fall into despair which makes one lament in the words of the Alvar saying, “The nature of the man in saṁsāra is such that he identifies himself with the perishing body and calls it "I"; from it arises alao evil conduct and from it arises again the body that is foul". (Without falling into despair ), he should hearten himself with the succeeding words there :- "O" Lord of the immortals, Thou wast born into all castes and even from the wombs of animals in Thy eagerness to protect the Jīvas!" He should comfort himself with the words of the Saviour who appears in front to save him - the words which are wholesome and sweet like mother's milk (such as “ For the protection of the good and the destruction of the wicked and so also for the establishment of dharma, I am born again and again in every yuga." He should bathe, as it were, in the words (of Bhagavān) which reveal the secret of the avatārs and take courage (from passages like the following) :- "Whatever a man may have been in the past, it he lives a righteous life in his old age, it will do him good; his evil deeds in the past will do him no harm" and "A man may have been wicked in his past life; he may have fed on anything (however impure ); he may have been ungrateful; he may have been a sceptic; in spite of all that, if he earnestly seeks the protection of the Lord, who is the cause of the world, know that that man is faultless owing to the Lord's greatness ", " In one half of an instant, a jīva commits a sin which cannot be expiated even in the course of ten thousand kalpas of Brahma. But Thou pardonest him if only he gives up the thought of sinning (again), even though he has transgressed. How wonderful this is !" "The past is past, what can we do concerning it? The wise man should think of erecting the dam even when the water is flowing," " It is good to die after performing prapatti to the Lord at least in the dying moments"
+<details><summary>Español</summary>
+
+Debe recordar su total impotencia (kārpaṇya) como se describe en el Śloka y en versos como (arriba)
+
+(En estos versos tamiles y sánscrito Ślokas,  
+la sensación de impotencia está bien representada  
+y la Prapanna debería darse cuenta de su propia impotencia recordando tales versos).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळरुळिच्चॆय्द कार्पण्यत्तिऩ् कवडुगळै यॆल्लामवलम्बित्तुक्कॊण्डु पोरवुम्,
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इवर्गळ् - आऴ्वाराचार्यार्गळ्, कार्पण्यत्तिऩ् कवडुगळै, कवडु - शाखै – भेदङ्गळै यॆऩ्ऱबडि। अवलम्बित्तुक्कॊण्डु पोरवुम् - इप्पडि उत्तर-कालत्तिलुम् कार्पण्यभेदम् नॆञ्जिल् नडमाडिऩाल् उपायान्तरसम्बन्धगन्धमुम् प्रसक्तमागा तॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+
+
+## अनिर्वेदः
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप् पडित् तऩक्क् अनादि-कालम् पिऱन्द अनर्हतैयुम्  
+अद्-अडियाग विऴन्द+++(=पतितं)+++ कैङ्कर्यत्तैयुम् **पार्त्तु** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं स्वस्य अनादिकालात् संजाताम् अनर्हतां  
+तन्-मूलिकां कैकर्यालब्धिं च वीक्ष्य, 
+</details>
+
+
+<details><summary>English</summary>
+
+Owing to the knowledge of his own unfitness from time immemorial  
+and the loss of the Lord's service which resulted from it, 
+</details>
+
+<details><summary>Español</summary>
+
+Debido al conocimiento de su propia incapacidad desde el tiempo inmemorial  
+y la pérdida del servicio del Señor que resultó de él,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडित् तऩक्कनादिकालम्बिऱन्द अनर्हतैयुमदडियागविऴन्द कैङ्कर्यत्तैयुम् पार्त्तु 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'पॊय्न् निऩ्ऱ ञाऩमुम् पॊल्लाव् ऒऴुक्कुम् अऴुक्क्-उडम्बुम्'(तिरुविरुत्तम् १)   
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+'पॊय्न्निऩ्ऱ ञाऩमुम् पॊल्लावॊऴुक्कुमऴुक्कुडम्बुम्'(तिरुविरुत्तम् १)   
+</details>
+
+
+
+which may cause excessive disgust, the prapanna should not fall into despair which makes one lament in the words of the Alvar saying, “The nature of the man in saṁsāra is such that he identifies himself with the perishing body and calls it "I"; from it arises alao evil conduct and from it arises again the body that is foul". (Without falling into despair ), he should hearten himself with the succeeding words there :- "O" Lord of the immortals, Thou wast born into all castes and even from the wombs of animals in Thy eagerness to protect the Jīvas!" He should comfort himself with the words of the Saviour who appears in front to save him - the words which are wholesome and sweet like mother's milk (such as “ For the protection of the good and the destruction of the wicked and so also for the establishment of dharma, I am born again and again in every yuga." He should bathe, as it were, in the words (of Bhagavān) which reveal the secret of the avatārs and take courage (from passages like the following) :- "Whatever a man may have been in the past, it he lives a righteous life in his old age, it will do him good; his evil deeds in the past will do him no harm" and "A man may have been wicked in his past life; he may have fed on anything (however impure ); he may have been ungrateful; he may have been a sceptic; in spite of all that, if he earnestly seeks the protection of the Lord, who is the cause of the world, know that that man is faultless owing to the Lord's greatness ", " In one half of an instant, a jīva commits a sin which cannot be expiated even in the course of ten thousand kalpas of Brahma. But Thou pardonest him if only he gives up the thought of sinning (again), even though he has transgressed. How wonderful this is !" "The past is past, what can we do concerning it? The wise man should think of erecting the dam even when the water is flowing," " It is good to die after performing prapatti to the Lord at least in the dying moments"
 
 In accordance with this principle, the prapanna should not lament for what is past and without running away at the thought of his past unfitness, he should make himself fit for the future by reflecting on the present fitness which has resulted from the infinite greatness of the Saviour which brooks no questioning, like those who construct a dam for the water that will come up in the future; he should not stray from the path of performing the commands and permissions of the Lord which are in keeping with his present state as a prapanna. As described (by the Alvar), the senses which have become tired with expectations of enjoying the Lord should be rendered fit (to enjoy Him) by means of pure food and service and directed towards such (spiritual) experiences as are available and turned away from the desire for unwholesome objects, like cows that are turned away from stealthily eating the crops.
 
