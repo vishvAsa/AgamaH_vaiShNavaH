@@ -3122,7 +3122,7 @@ en las palabras del dicho Alvar (arriba)
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > 'उयिर् **अळिप्पाऩ्**  
-> ऎऩ्-ऩिऩ्ऱ +++(→नाना)+++ योऩियुम् आय्प् **पिऱन्द् आय्** इमैयोर्+++(→इमैयार् = अनिमेषाः)+++ तलैवा'(तिरुविरुत्तम् १) 
+> ऎऩ्-ऩिऩ्ऱ +++(→नाना)+++ योऩियुम् आय्प् **पिऱन्द् आय्** इमैयोर्+++(= [विशिष्ट]निमेषवन्तः = अनिमेषाः)+++ तलैवा'(तिरुविरुत्तम् १) 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -3153,14 +3153,156 @@ en las palabras del dicho Alvar (arriba)
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(Without falling into despair ), he should hearten himself with the (above) succeeding words there :- 
+ऎऩ्गिऱ बडिये ऎदिर् **सूऴल्+++(=परिवर्तं)+++ पुक्कु निऱ्किऱ** शरण्यऩ् **उडैयद् आय्**  
+मुलैप्-पाल्-बोले **पथ्यतममुम्** आय्  
+**प्रियतममुम्** आऩ **उपदेशत्ताले तॆळिन्द** अवतार-रहस्यादिगळ् आगिऱ तीर्थङ्गळै **अवगाहित्तुत् तेऱि** +++(=आश्वस्य)+++, 
+</details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+इत्य्-उक्त-रीत्या  
+अग्रे **अभिसमेत्य प्रविश्य तिष्ठतः** शरण्यस्य  
+मातृ-स्तन्यवत् पथ्यतमेन प्रियतमेन **चोपदेशेन** विशदं **ज्ञातानि**  
+अवतार-रहस्यादि-रूपाणि तीर्थान्य् **अवगाह्य आश्वस्य** 
+</details>
 
+<details><summary>English</summary>
+
+(Without falling into despair ), he should hearten himself with the (above) succeeding words there. 
 He should comfort himself with the words of the Saviour  
 who appears in front to save him -  
-the words which are wholesome and sweet like mother's milk such as “ For the protection of the good and the destruction of the wicked and so also for the establishment of dharma, I am born again and again in every yuga." He should bathe, as it were, in the words (of Bhagavān) which reveal the secret of the avatārs and take courage (from passages like the following) :- "Whatever a man may have been in the past, it he lives a righteous life in his old age, it will do him good; his evil deeds in the past will do him no harm" and "A man may have been wicked in his past life; he may have fed on anything (however impure ); he may have been ungrateful; he may have been a sceptic; in spite of all that, if he earnestly seeks the protection of the Lord, who is the cause of the world, know that that man is faultless owing to the Lord's greatness ", " In one half of an instant, a jīva commits a sin which cannot be expiated even in the course of ten thousand kalpas of Brahma. But Thou pardonest him if only he gives up the thought of sinning (again), even though he has transgressed. How wonderful this is !" "The past is past, what can we do concerning it? The wise man should think of erecting the dam even when the water is flowing," " It is good to die after performing prapatti to the Lord at least in the dying moments"
+the words which are wholesome and sweet like mother's milk such as …
+
+> “ For the protection of the good and the destruction of the wicked  
+and so also for the establishment of dharma,  
+I am born again and again in every yuga." 
+
+He should bathe, as it were, in the words (of Bhagavān)  
+which reveal the secret of the avatārs and take courage (from passages like the following) 
+</details>
+
+<details><summary>Español</summary>
+
+(Sin caer en la desesperación), debe alegrarse con las (arriba) las palabras sucesivas allí.  
+Debería consolar a sí mismo  
+con las palabras del Salvador  
+quien aparece en frente para salvarlo -  
+Las palabras que son saludables y dulces como la leche de madre, como ...
+
+> “Para la protección del bien y la destrucción de los malvados  
+y así también para el establecimiento de Dharma,  
+Nací una y otra vez en cada Yuga ".
+
+Debería bañarse, por así decirlo, en las palabras (de Bhagavān)  
+que revelan el secreto de los avatārs y toman coraje (de pasajes como los siguientes)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये ऎदिर् सूऴल्बुक्कु निऱ्किऱ शरण्यऩुडैयदाय् मुलैप्पाल्बोले पथ्यतममुमाय् प्रियतममुमाऩ उपदेशत्ताले तॆळिन्द अवताररहस्यादिगळागिऱ तीर्थङ्गळै अवगाहित्तुत् तेऱि, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘उत्तमे चेद् वयसि साधुवृत्तः’’(पोदायनसूत्रम् १४-१०।) 
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘उत्तमे चेद् वयसि साधुवृत्तः’’(पोदायनसूत्रम् १४-१०।) 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+> "Whatever a man may have been in the past,  
+if he lives a righteous life in his old age,  
+it will do him good;  
+his evil deeds in the past will do him no harm" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Cualquiera que sea un hombre que haya sido en el pasado,  
+Si vive una vida justa en su vejez,  
+le hará bien;  
+Sus hechos malvados en el pasado no le harán daño "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘उत्तमे चेद्वयसि साधुवृत्तः’’(पोदायनसूत्रम् १४-१०।) ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘दुराचारोऽपि सर्वाशी  
+> कृत-घ्नो नास्तिकः पुरा ।  
+> **समाश्रयेद्** आदिदेवं  
+> श्रद्धया शरणं यदि ॥  
+> निर्दोषं **विद्धि** तं जन्तुं  
+> प्रभावात् परमात्मनः’’  
+> (सात्त्वत-संहिता १६-२३-२४।) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘दुराचारोऽपि सर्वाशी  
+> कृत-घ्नो नास्तिकः पुरा ।  
+> **समाश्रयेद्** आदिदेवं  
+> श्रद्धया शरणं यदि ॥  
+> निर्दोषं **विद्धि** तं जन्तुं  
+> प्रभावात् परमात्मनः’’+++(4)+++  
+> (सात्त्वत-संहिता १६-२३-२४।) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+and 
+
+> "A man may have been wicked in his past life;  
+> he may have fed on anything (however impure );  
+> he may have been ungrateful;  
+> he may have been a sceptic;  
+> in spite of all that, if he earnestly seeks the protection of the Lord, who is the cause of the world,  
+> know that that man is faultless owing to the Lord's greatness ", 
+
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Un hombre pudo haber sido malvado en su vida pasada;  
+> Puede haberse alimentado de cualquier cosa (por impuro);  
+> Puede haber sido ingrato;  
+> Puede haber sido un escéptico;  
+> A pesar de todo eso, si él busca fervientemente la protección del Señor, quién es la causa del mundo,  
+> Sepa que ese hombre es impecable debido a la grandeza del Señor ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘दुराचारोऽपि सर्वाशी कृतघ्नो नास्तिकः पुरा । समाश्रयेदादिदेवं श्रद्धया शरणं यदि ॥ निर्दोषं विद्धितं जन्तुं प्रभावात्परमात्मनः’’(सात्त्वत-संहिता १६-२३-२४।) ऎऩ्ऱुम्, 
+</details>
+
+
+> " In one half of an instant, a jīva commits a sin which cannot be expiated even in the course of ten thousand kalpas of Brahma. But Thou pardonest him if only he gives up the thought of sinning (again), even though he has transgressed. How wonderful this is !" "The past is past, what can we do concerning it? The wise man should think of erecting the dam even when the water is flowing," " It is good to die after performing prapatti to the Lord at least in the dying moments"
 
 In accordance with this principle, the prapanna should not lament for what is past and without running away at the thought of his past unfitness, he should make himself fit for the future by reflecting on the present fitness which has resulted from the infinite greatness of the Saviour which brooks no questioning, like those who construct a dam for the water that will come up in the future; he should not stray from the path of performing the commands and permissions of the Lord which are in keeping with his present state as a prapanna. As described (by the Alvar), the senses which have become tired with expectations of enjoying the Lord should be rendered fit (to enjoy Him) by means of pure food and service and directed towards such (spiritual) experiences as are available and turned away from the desire for unwholesome objects, like cows that are turned away from stealthily eating the crops.
 
