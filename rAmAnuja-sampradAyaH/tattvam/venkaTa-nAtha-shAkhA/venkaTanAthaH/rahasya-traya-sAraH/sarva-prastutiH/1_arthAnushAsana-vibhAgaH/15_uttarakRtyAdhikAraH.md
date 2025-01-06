@@ -3011,7 +3011,7 @@ y la Prapanna debería darse cuenta de su propia impotencia recordando tales ver
 
 
 
-## उत्साहः
+## अनिर्वेदः
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3088,6 +3088,13 @@ que puede causar asco excesivo,
 'पॊय्न्निऩ्ऱ ञाऩमुम् पॊल्लावॊऴुक्कुमऴुक्कुडम्बुम्'(तिरुविरुत्तम् १)   
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+पॊय् निऩ्ऱेत्यादि । पॊय्याऩ देहत्तिल्, निऩ्ऱ - इरुन्द, नश्वरम् आऩ देहत्तिल् स्थिरमायिरुन्द, ञाऩमुम् – आत्मत्वभ्रममुम्, पॊल्लावॊऴुक्कुम् - देहात्म-भ्रम-कृतम् आऩ दुराचारमुम्, अऴुक्कुडम्बुम् - अन्द दुराचारत्ताले मलिनमाय्प्पोन्द शरीरमुम्, 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्ऱ् अलऱ्ऱप्+++(=विलापं)+++ पण्णुम् निर्वेद-प्राचुर्यत्ताले अवसन्नऩ् आगादे,  
@@ -3117,6 +3124,13 @@ en las palabras del dicho Alvar (arriba)
 
 ऎऩ्ऱलऱ्ऱप्पण्णुम् निर्वेदप्राचुर्यत्ताले अवसन्नऩागादे,  
 </details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अलऱ्ऱप्पण्णुम् - वाय् पुलऱ्ऱप्पण्णुम्, निर्वेदप्राचुर्यत्ताले इति । निर्वेदः – गतविषयकवृथाचिन्ता, 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3150,6 +3164,12 @@ en las palabras del dicho Alvar (arriba)
 <details><summary>मूलम्</summary>
 
 'उयिरळिप् पाऩॆऩ्ऩिऩ्ऱ योऩियुमाय्प् पिऱन्दायिमैयोर् तलैवा'(तिरुविरुत्तम् १) 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अवताररहस्य ज्ञानत्ताले वन्द भगवाऩुडैय सौलभ्यानुसन्धानत्ताले तेऱियिरुक्कवेण्डुमॆऩ्गिऱार् उयिरळिप्पाऩित्यादियाल्। उयिर् - जीवर्गळै, अळिप्पाऩ् - रक्षिक्किऱवऩाय्क्कॊण्डु, साधुपरित्राणार्थमॆऩ्ऱबडि। ऎऩ्ऩिऩ्ऱ - ऎन्दॆन्दविधमाऩ, योऩियुमाय् - ऎन्दॆन्द जादियुमायॆऩ्ऱबडि। 'मावागियामैयाय् मीऩागि माऩिडमाम्' ऎऩ्गिऱबडिये ऎल्लाजादियिलुम् तारतम्यम् पारादे, पिऱन्दाय् - अवदरित्ताय्। ऎल्लोरुम् इप्पडिये पिऱवानिऱ्क, नाऩ् पिऱन्ददिल् विशेष मॆऩ्? ऎऩ्ऩ वरुळिच्चॆय्गिऱार् इमैयोर् तलैवा इति । ऎल्लार् पिऱप्पुम् विचित्रकर्मकृतम्। नित्यसूरिनिर्वाहकऩाय् वैत्तु कृपैयिऩाले जीवर्गळुडैय रक्षणार्थमागवे नी इप्पडिप् पिऱन्ददे विशेषमॆऩ्ऱु तात्पर्यम्। 
 </details>
 
 
@@ -3203,6 +3223,14 @@ que revelan el secreto de los avatārs y toman coraje (de pasajes como los sigui
 <details><summary>मूलम्</summary>
 
 ऎऩ्गिऱबडिये ऎदिर् सूऴल्बुक्कु निऱ्किऱ शरण्यऩुडैयदाय् मुलैप्पाल्बोले पथ्यतममुमाय् प्रियतममुमाऩ उपदेशत्ताले तॆळिन्द अवताररहस्यादिगळागिऱ तीर्थङ्गळै अवगाहित्तुत् तेऱि, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्गिऱबडिये - ऎऩ्ऱुञ् जॊल्लुगिऱबडिये, ऎदिर्सूऴल् पुक्कु निऱ्किऱ इति । ऒरु पसुवाऩदु तऩ्ऩैप् पिडिक्क प्रयत्नप्पडुम् यजमाऩऩ् कैयिलगप्पडामल् ऒरु कोयिलैच् चुऱ्ऱ यजमाऩऩ् वेऱु पक्कमाग वन्दु अदिऩ् ऎदिरिल् सूऴ्न्दु निऱ्कुमाप्पोले ऒरु अवदारत्तिल् वशप्पडाद कृपाविषयऩाऩ ऒरुवऩै मऱ्ऱोर् अवदारत्तिल् अवऩुक्कु सजातीयऩाय्प् पिऱन्दु ऎदिरे वळैक्कैयिल् प्रवेशित्तु निऱ्किऱ ऎऩ्ऱ पडि।  
+शरण्यऩुडैय - रक्षणसमर्थऩाऩ भगवाऩुडैय। ताय् मुलैप्पाल्बोले पथ्यतममुमाय् प्रियतममुमाऩ इति । सिल औषधादिगळ् पथ्यङ्गळायिरुन्दालुम् प्रियतमङ् गळायिरादु; शर्करादिगळ् प्रियतमङ्गळायिरुन्दालुम् पथ्यतमङ्गळायिरादु;  
+उक्तञ्च ‘‘यदौषधं स्वादु हितञ्च दुर्लभम्’’ इति ।  
+अप्पडियऩ्ऱिऱे ताय्मुलैप्पाल्। उपदेशत्ताले तॆळिन्द - ‘‘बहूनि मे व्यतीतानी’’ त्याद्युपदेशत्ताले तॆळिन्द, अवताररहस्यादिगळागिऱ तीर्थङ्गळै अवगाहित्तुत्तेऱि - अवताररहस्यम् आवदु ‘‘अवतारस्य सत्यत्वं अजहत्-स्वस्वभावता’’ इत्यादिगळ्। तीर्थङ्गळै - पावनतया श्रमहरतया च अवैगळे तीर्थङ्गळॆऩ्ऱबडि। अवगाहित्तुत्तेऱि - पूर्वत्तिल् इऴवु मऱक्कुम्बडि अनवरतभावऩै पण्णि, आश्वसित्तॆऩ्ऱ पडि। इऩि गतमाऩ अयोग्यतैयैक् कण्डगऩ्ऱु पोगामैक्कुम्, इप्पोदु पिऱन्दिरुक्कुम् योग्यतैयै अनुसन्धिक्कैक्कुम्, आगामि कैङ्कर्यत्तै यिऴवामैक्कुम् प्रमाणम् काट्टुगिऱार् उत्तमे चेद्वयसि साधुवृत्तमरणावस्थैयिलेयावदु भगवत्समाश्रयणत्तोडु मरिप्पदु श्रेष्ठमॆऩ्ऱबडि। 
 </details>
 
 
@@ -3335,24 +3363,344 @@ y
 </details>
 
 
-
-<details><summary>मूलम्</summary>
-
-‘‘यत् ब्रह्मकल्पनियुतानुभवेऽप्यनाश्यं तत्किल्बिषं सृजति जन्तुरिह क्षणार्द्धे । एवं सदा सकलजन्मसु सापराधं क्षाम्यस्यहो तदभिसन्धिविराममात्रात्’’(वैकुण्ठ-स्तवः ६१) ऎऩ्ऱुम्, 
-</details>
-
+<details><summary>English</summary>
 
 > " In one half of an instant, a jīva commits a sin  
 > which cannot be expiated even in the course of ten thousand kalpas of Brahma.  
 > But Thou pardonest him if only he gives up the thought of sinning (again),  
 > even though he has transgressed.  
 > How wonderful this is !" 
+</details>
+
+<details><summary>Español</summary>
+
+> "En la mitad de un instante, un Jīva comete un pecado  
+> que no se puede expiar incluso en el curso de diez mil kalpas de Brahma  
+> Pero lo perdonas si solo renuncie a la idea de pecar (nuevamente),  
+> Aunque ha transgredido.  
+> ¡Qué maravilloso es esto! "
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यत् ब्रह्मकल्पनियुतानुभवेऽप्यनाश्यं तत्किल्बिषं सृजति जन्तुरिह क्षणार्द्धे । एवं सदा सकलजन्मसु सापराधं क्षाम्यस्यहो तदभिसन्धिविराममात्रात्’’(वैकुण्ठ-स्तवः ६१) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**प्रवहत्य्** एव हि जले  
+> सेतुः **कार्यो** विजानता’’(वङ्गीबुरत्तुनम्बिगारिगै ३१।) +++(5)+++
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘**प्रवहत्य्** एव हि जले  
+> सेतुः **कार्यो** विजानता’’(वङ्गीबुरत्तुनम्बिगारिगै ३१।) +++(5)+++
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
 > "The past is past, what can we do concerning it?  
 > The wise man should think of erecting the dam  
 > even when the water is flowing," 
-> " It is good to die after performing prapatti to the Lord at least in the dying moments"
 
-In accordance with this principle, the prapanna should not lament for what is past and without running away at the thought of his past unfitness, he should make himself fit for the future by reflecting on the present fitness which has resulted from the infinite greatness of the Saviour which brooks no questioning, like those who construct a dam for the water that will come up in the future; he should not stray from the path of performing the commands and permissions of the Lord which are in keeping with his present state as a prapanna. As described (by the Alvar), the senses which have become tired with expectations of enjoying the Lord should be rendered fit (to enjoy Him) by means of pure food and service and directed towards such (spiritual) experiences as are available and turned away from the desire for unwholesome objects, like cows that are turned away from stealthily eating the crops.
+</details>
+
+<details><summary>Español</summary>
+
+> "El pasado ha pasado, ¿qué podemos hacer con respecto a él?  
+> El hombre sabio debería pensar en erigir la presa  
+> Incluso cuando el agua fluye ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘प्रवहत्येव हि जले सेतुः कार्योविजानता’’(वङ्गीबुरत्तुनम्बिगारिगै ३१।) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'माळुमोर्+++(=मुमूर्षताम्)+++ इडत्तिलुम् वणक्कॊडु माळ्वदु+++(=मरणम्)+++ वलमे+++(=वरम् एव)+++'  
+> (तिरुवाय्मॊऴि १-३-८) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> मरणदशायाम् अपि वा  
+> प्रणामेन सह मरणं ज्यायः  
+</details>
+
+<details><summary>English</summary>
+
+> " It is good to die after performing prapatti to the Lord at least in the dying moments"
+</details>
+
+<details><summary>Español</summary>
+
+> "Es bueno morir después de realizar Prapatti al Señor al menos en los momentos moribundos"
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'माळुमोरिडत्तिलुम् वणक्कॊडु माळ्वदु वलमे'(तिरुवाय्मॊऴि १-३-८) 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱुञ् चॊल्लुगिऱ न्यायत्ताले गतत्तुक्कु शोकियादे, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति चोक्तन्यायेन गतम् अननुशोच्य, चोक्तन्यायेन गतम् अननुशोच्य, 
+</details>
+
+<details><summary>English</summary>
+
+In accordance with this principle,  
+the prapanna should not lament for what is past  
+</details>
+
+<details><summary>Español</summary>
+
+De acuerdo con este principio,  
+La Prapanna no debe lamentarse por lo que ha pasado  
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ न्यायत्ताले गतत्तुक्कु शोकियादे, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गतम् आऩव् अ-योग्यतैयैक् **कण्ड, कलवुम्+++(=व्याकुलतां)+++ पारादे**,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+गतायोग्यता-दर्शनेन दूरी-भवनम् अनभिसंघाय, 
+</details>
+
+<details><summary>English</summary>
+
+and without running away at the thought of his past unfitness,  
+</details>
+
+<details><summary>Español</summary>
+
+y sin huir ante la idea de su inadecuación pasada,
+</details>
+
+<details><summary>मूलम्</summary>
+
+गतमाऩवयोग्यतैयैक्कण्डगलवुम् पारादे,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎडुत्त श्लोकङ्गळुक्कु छायया भावमरुळिच्चॆय्गिऱार् गतमाऩ अयोग्यतैयैक्कण्डु अगलवुम् पारादे इत्यादिना । इदु ‘‘यद्यौवने चरति’’ ऎऩ्गिऱ बोधायनवचनत्तिऩ् भावम्।   
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-पर्यनुयोज्यम् आय् अनवधिकम् आऩ शरण्य-प्रभावत्तालेय्  
+इप्पोदु **पिऱन्द** योग्यतैयैक् **कण्डु**  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अ-पर्यनुयोज्येनानवधिकेन शरण्य-प्रभावेनेदानीं **समुत्पन्नां योग्यतां वीक्ष्य**  
+</details>
+
+
+<details><summary>English</summary>
+
+he should make himself fit for the future by reflecting on the present fitness  
+which has resulted from the infinite greatness of the Saviour  
+which brooks no questioning, 
+</details>
+
+<details><summary>Español</summary>
+
+Debería hacerse en forma para el futuro reflexionando sobre la aptitud actual  
+que ha resultado de la grandeza infinita del Salvador  
+que no merece cuestionar
+</details>
+
+<details><summary>मूलम्</summary>
+
+अपर्यनुयोज्यमायनवधिकमाऩ शरण्यप्रभावत्तालेयिप्पोदु पिऱन्द योग्यतैयैक्कण्डु  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अपर्यनुयोज्यमाय् - इदु ‘‘दुराचारोऽपि’’ ऎऩ्गिऱ श्लोकत्तिऩ् भावम्। पर्यनुयोगः – प्रश्नः । तदर्हं पर्यनुयोज्यं; तद्भिन्नं अपर्यनुयोज्यं । भगवत्प्रभावन्दाऩ् इप्पडियिरुक्कक्कूडुमो ऎऩ्ऱु ऒरुवरालुम् प्रश्नम् पण्णक्कूडाददाऩवॆऩ्ऱबडि। अनवधिकमाऩ - उत्कर्षावधिरहितमाऩ, इप्पोदु पिऱन्द योग्यतैयैक् कण्डु - अणुगि इति शेषः । 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वरुगिऱ नीरुक् कणै+++(=सेतु??)+++ कोलुङ् कणक्किलेय्  
+इव्व्-अवस्थैक्क् अनुरूपम् आऩ आज्ञाऽनुज्ञा**ऽनुवर्तनम् आगिऱ** **कैङ्कर्यानुभवत्तैय् इऴवादे**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रवहज्-जल-सेतु-बन्धन-न्यायेन एतद्-अवस्थाऽनुरूपम् आज्ञाऽनुज्ञाऽनुवर्तन-रूप-**कैङ्कर्यानुभवम् अ-हित्वा** +++(5)+++  
+</details>
+
+
+<details><summary>English</summary>
+
+like those who construct a dam for the water that will come up in the future;  
+he should not stray from the path of performing the commands and permissions of the Lord  
+which are in keeping with his present state as a prapanna. 
+</details>
+
+<details><summary>Español</summary>
+
+como aquellos que construyen una presa para el agua que surgirá en el futuro;  
+No debe desviarse del camino de realizar los comandos y permisos del Señor  
+que están en consonancia con su estado actual como Prapanna.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वरुगिऱ नीरुक्कणै कोलुङ्गणक्किलेय् इव्ववस्थैक्कनुरूपमाऩ आज्ञानुज्ञानुवर्तनमागिऱ कैङ्कर्यानुभवत्तैयिऴवादे, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वरुगिऱ नीरुक्कित्यादि । इव्ववस्थै – मुमुक्षुत्वावस्थै । 
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+'मुडियाऩेय्' इऱ्-पडिये **विडाय्त्त**+++(=श्रान्त)+++ करणङ्गळै **सात्त्विकाहार-सेवादिगळाले योग्यङ्गळ् आक्कि**  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"किरीटिन्" इति दशकोक्तरीत्या **श्रान्तानि** करणानि सात्त्विकाहार-सेवादिभिर् **योग्यानि कृत्वा**  
+</details>
+
+
+<details><summary>English</summary>
+
+As described (by the Alvar),  
+the senses which have become tired with expectations of enjoying the Lord  
+should be rendered fit (to enjoy Him)  
+by means of pure food and service 
+</details>
+
+<details><summary>Español</summary>
+
+Como se describe (por el Alvar),  
+Los sentidos que se han cansado con las expectativas de disfrutar del Señor  
+debe ser adecuado (para disfrutarlo)  
+por medio de la comida y el servicio puro  
+</details>
+
+<details><summary>मूलम्</summary>
+
+'मुडियाऩे'यिऱ्पडिये विडाय्त्त करणङ्गळै सात्विकाहारसेवादिगळाले योग्यङ्गळाक्कि 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इऩि इन्द्रियङ्गळै भगवदनुभवत्तिऱ्कु योग्य माक्कवेण्डुमॆऩ्गिऱार् मुडियाऩिल्बडिये इत्यादि । 'मुडियाऩे मूवुलगुम् तॊऴुदेऱ्ऱुम्' ऎऩ्गिऱ तिरुवाय्मॊऴियिल् सॊऩ्ऩबडिये, विडाय्त्त करणङ्गळै - इन्द तिरुवाय्मॊऴियिल् आऴ्वारुडैय करणङ्गळ् विडाय्त्त प्रकारत्तैच् चॊल्लुगिऱदु। 'ऎऩ्ऱु किडक्कुमॆऩ् नॆञ्जमे', 'ऎऩ्ऩुमॆप् पोदुमॆऩ्वासगमे', 'ऎऩ्ऱु तडवुमॆऩ्गण्गळे', 'उऩ्ऩै मॆय्क् कॊळ्ळक्काणविरुम्बुमॆऩ्गण्गळे', 'तिण्गॊळ्ळवोर्क्कुङ्गिडन्दॆऩ् सॆविगळे' इत्यादिगळाल्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**प्राप्तङ्गळ् आऩ अनुभवङ्गळिले मूट्टि**  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-रूप--**प्राप्तेष्व् अनुभवेषु प्रवर्त्य**,  
+</details>
+
+<details><summary>English</summary>
+
+and directed towards such (spiritual) experiences as are available  
+</details>
+
+<details><summary>Español</summary>
+
+y dirigidas hacia las experiencias (espirituales) que están disponibles
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्राप्तङ्गळाऩ अनुभवङ्गळिले मूट्टि  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+प्राप्तङ्गळाऩ अनुभवङ्गळिले मूट्टि इति । तत्तदनुभवङ्गळागिऱ कैङ्कर्यत्तिले मूट्टि ऎऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-योग्य-विषयान्तरङ्गळिल् पट्टि-बुक्क-वासऩैगळै **माऱ्ऱु-विक्कवुम्**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अ-योग्य-विषयान्तरेषु स्वरस-प्रवृत्त-वासनानां **परिवर्तनम्** - 
+</details>
+
+
+<details><summary>English</summary>
+
+and turned away from the desire for unwholesome objects,  
+like cows that are turned away from stealthily eating the crops (sic).
+</details>
+
+<details><summary>Español</summary>
+
+y alejado del deseo de objetos inútiles,  
+como vacas que se alejan de comer sigilosamente los cultivos (sic).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अयोग्य विषयान्तरङ्गळिल् पट्टिबुक्कवासऩैगळै माऱ्ऱुविक्कवुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+विषयान्तरङ्गळिलिऩिऩ्ऱुम् अवैगळै तिरुप्पवुम् वेण्डुमॆऩ्गिऱार् अयोग्येत्यादिना । विषयान्तरङ्गळ् - शब्दादिविषयङ्गळ्, पट्टिबुक्क वासऩैगळै - गोक्कळुक्कु निवारकरिल्लाविडिल् स्वेच्छया परकीयसस्यभक्षणम् पट्टिबुक्क शब्दार्थम्। इन्द्रियङ्गळुक्कु अयोग्यविषयत्तिल् पट्टि पुक्क वासऩैयावदु स्वरसमाग विषयान्तरङ्गळिल् प्रसरिक्कुम् वासऩै। अवैगळै माऱ्ऱुविक्कवुमिति । सात्विकाहारादिगळाऩ प्राप्तविषयङ्गळिल् मूण्डाल् विषयान्तरवासऩै उच्छिन्नमागप्पोगुमॆऩ्ऱु करुत्तु। 
+</details>
+
+
+
+
 
 When people are waiting for the boat in order (to cross the stream) to go to a place of their desire, some of them may avoid playing chess or other game with stakes, as it could not be stopped whenever desired but may be engaged in playing the game without any stakes so that they might be in a position to give up the game (when the boat has come). Though they play merely for the enjoyment (and not for money), they move the pawns (on the board) in strict accordance with the rules of the game. In the same way (though the prapanna does not expect any profit out of it) he performs gladly the rites commanded and permitted by the Supreme Ruler, which are really services to the Lord, in accordance with the specific time and place at which they are ordained for performance. (In performing them), he should resemble not those who drink milk for relief from excess of bile, but like those who have got well easily and quickly with the help of a medicine and who drink milk with pleasure (not as a cure for disease ).
 

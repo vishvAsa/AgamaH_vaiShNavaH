@@ -140,7 +140,15 @@ Therefore, performing divine service along with the performance of the varna-ash
 
 These two terms of the Charamshloka are very significant as they expound the quality of 'soulabhya' or accessibility and 'swatantrya' or supremacy of the Supreme Paramatman. In the Bhagavadgita, the Lord himself expounds the essential nature of his incarnation as follows:
 
-अवतारस्य सत्यत्वं अजहत्स्वस्वभावता । शुद्धसत्वमयत्वं च स्वेच्छामात्र निदानता ।। धर्मग्लानौ समुदयः साधुसंरक्षणार्थता । इति जन्मरहस्यं यो वेत्ति नास्य पुनर्भवः ।।
+अवतारस्य सत्यत्वम्  
+अजहत्-स्व-स्वभावता ।  
+शुद्ध-सत्वमयत्वं च  
+स्वेच्छामात्र-निदानता ॥  
+
+धर्मग्लानौ समुदयः  
+साधु-संरक्षणार्थता ।  
+इति जन्मरहस्यं यो  
+वेत्ति नास्य पुनर्भवः ॥
 
 ID:
 
