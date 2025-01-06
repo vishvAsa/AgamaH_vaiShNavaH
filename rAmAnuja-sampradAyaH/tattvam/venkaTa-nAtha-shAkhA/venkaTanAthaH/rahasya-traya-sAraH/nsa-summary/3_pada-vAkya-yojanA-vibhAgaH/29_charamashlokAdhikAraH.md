@@ -140,6 +140,8 @@ Therefore, performing divine service along with the performance of the varna-ash
 
 These two terms of the Charamshloka are very significant as they expound the quality of 'soulabhya' or accessibility and 'swatantrya' or supremacy of the Supreme Paramatman. In the Bhagavadgita, the Lord himself expounds the essential nature of his incarnation as follows:
 
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/tattvam/avatArasya_satyatvam.md" unfilled newLevelForH1="5" includeTitle="false">   
+
 अवतारस्य सत्यत्वम्  
 अजहत्-स्व-स्वभावता ।  
 शुद्ध-सत्वमयत्वं च  
@@ -150,15 +152,18 @@ These two terms of the Charamshloka are very significant as they expound the qua
 इति जन्मरहस्यं यो  
 वेत्ति नास्य पुनर्भवः ॥
 
-ID:
-
-Charamasloka Adhikara
-
 347
 
-2CC
 
-"The incarnation of the Lord is real. He is ever in his own essential nature; His body is of the pure satva; His will alone is the cause of his incarnation; He is incarnating when dharma fades; the purpose of incarnation is the protection of the virtuous. He who knows this secret of divine incarnation will never more be born here".
+> "The incarnation of the Lord is real.  
+> He is ever in his own essential nature;  
+> His body is of the pure satva;  
+> His will alone is the cause of his incarnation;  
+> He is incarnating when dharma fades;  
+> the purpose of incarnation is the protection of the virtuous.  
+> He who knows this secret of divine incarnation  
+> will never more be born here".
+</div>
 
 The knowledge of divine incarnation is an essential accessory to Bhaktiyoga; but, for a prapanna, this knowledge of the nature of incarnation of the Lord, will show vividly his accessibility. The Lord is characterised by both accessibility and supremacy. He is the one refuge of all humanity being easily accessible and He is the Supreme Object of attainment. He is awaiting for an opportunity to save erring humanity. These two terms signify this fact of the Lord's accessibility. He is showing Himself before all and exhorting man to choose Him. This is suggested by the term
 
