@@ -3119,9 +3119,44 @@ en las palabras del dicho Alvar (arriba)
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'उयिर् **अळिप्पाऩ्**  
+> ऎऩ्-ऩिऩ्ऱ +++(→नाना)+++ योऩियुम् आय्प् **पिऱन्द् आय्** इमैयोर्+++(→इमैयार् = अनिमेषाः)+++ तलैवा'(तिरुविरुत्तम् १) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> आत्मरक्षणार्थं  
+> यत्र-तत्रापि वा योनाव् अवतीर्णोऽसि  
+> अनिमिषाणां मूर्धन्य
+</details>
+
+<details><summary>English</summary>
+
+> "O Lord of the immortals,  
+> Thou wast born into all castes and even from the wombs of animals  
+> in Thy eagerness to protect the Jīvas!" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Oh señor de los inmortales,  
+> Naciste en todas las castas e incluso de los úteros de animales  
+> ¡En tu entusiasmo por proteger a los Jīvas!"
+</details>
 
 
-(Without falling into despair ), he should hearten himself with the succeeding words there :- "O Lord of the immortals, Thou wast born into all castes and even from the wombs of animals in Thy eagerness to protect the Jīvas!" 
+<details><summary>मूलम्</summary>
+
+'उयिरळिप् पाऩॆऩ्ऩिऩ्ऱ योऩियुमाय्प् पिऱन्दायिमैयोर् तलैवा'(तिरुविरुत्तम् १) 
+</details>
+
+
+
+(Without falling into despair ), he should hearten himself with the (above) succeeding words there :- 
+
+
 
 He should comfort himself with the words of the Saviour  
 who appears in front to save him -  
