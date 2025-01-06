@@ -3302,7 +3302,55 @@ y
 </details>
 
 
-> " In one half of an instant, a jīva commits a sin which cannot be expiated even in the course of ten thousand kalpas of Brahma. But Thou pardonest him if only he gives up the thought of sinning (again), even though he has transgressed. How wonderful this is !" "The past is past, what can we do concerning it? The wise man should think of erecting the dam even when the water is flowing," " It is good to die after performing prapatti to the Lord at least in the dying moments"
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यत् ब्रह्म-कल्प-नियुतानुभवेऽप्य् **अनाश्यं**  
+> तत् किल्बिषं **सृजति** जन्तुर् इह क्षणार्द्धे ।  
+> एवं सदा स-कल-जन्मसु सापराधं  
+> **क्षाम्यस्य्** अहो तद्-**अभिसन्धि-विराम**-मात्रात्’’ 
+> (वैकुण्ठ-स्तवः ६१)+++(5)+++ 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विषयः</summary>
+
+पापम्, क्षमा
+</details>
+
+<details><summary>स्रोतः</summary>
+
+स्वैकुण्ठ-स्तवः ६१
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘यत् ब्रह्म-कल्प-नियुतानुभवेऽप्य् **अनाश्यं**  
+> तत् किल्बिषं **सृजति** जन्तुर् इह क्षणार्द्धे ।  
+> एवं सदा स-कल-जन्मसु सापराधं  
+> **क्षाम्यस्य्** अहो तद्-**अभिसन्धि-विराम**-मात्रात्’’ 
+> (वैकुण्ठ-स्तवः ६१)+++(5)+++ 
+
+इति
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यत् ब्रह्मकल्पनियुतानुभवेऽप्यनाश्यं तत्किल्बिषं सृजति जन्तुरिह क्षणार्द्धे । एवं सदा सकलजन्मसु सापराधं क्षाम्यस्यहो तदभिसन्धिविराममात्रात्’’(वैकुण्ठ-स्तवः ६१) ऎऩ्ऱुम्, 
+</details>
+
+
+> " In one half of an instant, a jīva commits a sin  
+> which cannot be expiated even in the course of ten thousand kalpas of Brahma.  
+> But Thou pardonest him if only he gives up the thought of sinning (again),  
+> even though he has transgressed.  
+> How wonderful this is !" 
+> "The past is past, what can we do concerning it?  
+> The wise man should think of erecting the dam  
+> even when the water is flowing," 
+> " It is good to die after performing prapatti to the Lord at least in the dying moments"
 
 In accordance with this principle, the prapanna should not lament for what is past and without running away at the thought of his past unfitness, he should make himself fit for the future by reflecting on the present fitness which has resulted from the infinite greatness of the Saviour which brooks no questioning, like those who construct a dam for the water that will come up in the future; he should not stray from the path of performing the commands and permissions of the Lord which are in keeping with his present state as a prapanna. As described (by the Alvar), the senses which have become tired with expectations of enjoying the Lord should be rendered fit (to enjoy Him) by means of pure food and service and directed towards such (spiritual) experiences as are available and turned away from the desire for unwholesome objects, like cows that are turned away from stealthily eating the crops.
 
