@@ -3699,7 +3699,7 @@ como vacas que se alejan de comer sigilosamente los cultivos (sic).
 </details>
 
 
-
+## प्रीतिः यथा-शास्त्रता
 
 
 When people are waiting for the boat in order (to cross the stream) to go to a place of their desire, some of them may avoid playing chess or other game with stakes, as it could not be stopped whenever desired but may be engaged in playing the game without any stakes so that they might be in a position to give up the game (when the boat has come). Though they play merely for the enjoyment (and not for money), they move the pawns (on the board) in strict accordance with the rules of the game. In the same way (though the prapanna does not expect any profit out of it) he performs gladly the rites commanded and permitted by the Supreme Ruler, which are really services to the Lord, in accordance with the specific time and place at which they are ordained for performance. (In performing them), he should resemble not those who drink milk for relief from excess of bile, but like those who have got well easily and quickly with the help of a medicine and who drink milk with pleasure (not as a cure for disease ).
