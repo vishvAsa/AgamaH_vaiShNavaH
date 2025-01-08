@@ -4134,7 +4134,7 @@ This shows the fullness of perfection,
 > en los mantras y en las imágenes (arcā).  
 > Se describen en los mantras,  
 > y las cualidades se encuentran en Bhagavān,  
-> Desde que tiene, fuera de su compasión, elegido para permanecer en estas imágenes ".
+> Desde que el, fuera de su compasión, ha elegido para permanecer en estas imágenes ".
 
 Esto muestra la plenitud de la perfección,
 </details>
@@ -4145,6 +4145,164 @@ Esto muestra la plenitud de la perfección,
 ‘‘सर्वातिशयिषाड्गुण्यं संस्थितं मन्त्रबिम्बयोः’’(विष्वक्सेनसंहिता) ऎऩ्गिऱ पूर्तियैयुम्,  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘आपीठान् मौलि-पर्यन्तं  
+पश्यतः पुरुषोत्तमं ।  
+पातकान्य् आशु नश्यन्ति  
+किं पुनस् तूपपातकम् ॥’’  
+(शाण्डिल्य-स्मृति २-८९।) 
+
+ऎऩ्गिऱ पावनतमत्वत्तैयुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘आपीठान् मौलि-पर्यन्तं  
+पश्यतः पुरुषोत्तमं ।  
+पातकान्य् आशु नश्यन्ति  
+किं पुनस् तूपपातकम् ॥’’  
+(शाण्डिल्य-स्मृति २-८९।) 
+
+इत्य्-उक्ताम्  पावनतमत्वम्,
+</details>
+
+
+<details><summary>English</summary>
+
+> "He who looks upon the Lord residing in the image as Puruṣottama  
+> and beholds Him (again and again) from the pedestal of the foot to the crown on the head  
+> his five deadly sins (Mahāpātaka) are destroyed quickly:  
+> Is it necessary to state that minor offences, too, perish ? 
+
+This shows how supremely purificatory the arcā is. 
+</details>
+
+<details><summary>Español</summary>
+
+> "El que mira al Señor que reside en la imagen como Puruṣottama  
+> y lo contempla (una y otra vez) desde el pedestal del pie hasta la corona en la cabeza  
+> Sus cinco pecados mortales (Mahāpātaka) son destruidos rápidamente:  
+> ¿Es necesario declarar que los delitos menores también perecen?
+
+Esto muestra cuán sumamente purificador es el arcā.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+> ‘‘आपीठान् मौलि-पर्यन्तं  
+पश्यतः पुरुषोत्तमं ।  
+पातकान्य् आशु नश्यन्ति  
+किं पुनस् तूपपातकम् ॥’’  
+(शाण्डिल्य-स्मृति २-८९।) 
+
+ऎऩ्गिऱ पावनतमत्वत्तैयुम्,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **‘‘सन्दर्शनाद्** अकस्माच् च  
+पुंसां संमूढ-चेतसां ।  
+कु-वासना कु-बुद्धिश् च  
+कु-तर्क-निचयश् च यः ॥  
+कु-हेतुश् च कु-भावश् च  
+नास्तिकत्वं **लयं व्रजेत्’’**+++(5)+++  
+
+(पौष्करसंहिता।)  
+</details>
+
+<details><summary>विषयः</summary>
+
+अर्चावतारः, कुबुद्धि-नाशः, देव-दर्शनम्
+</details>
+
+
+<details><summary>स्रोतः</summary>
+
+पौष्करसंहिता
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **‘‘सन्दर्शनाद्** अकस्माच् च  
+पुंसां संमूढ-चेतसां ।  
+कु-वासना कु-बुद्धिश् च  
+कु-तर्क-निचयश् च यः ॥  
+कु-हेतुश् च कु-भावश् च  
+नास्तिकत्वं **लयं व्रजेत्’’**+++(5)+++  
+
+(पौष्करसंहिता।)  
+
+</details>
+
+<details><summary>English</summary>
+
+And again it is said - 
+
+> "If men of clouded intellects happen to see Bhagavān abiding in the arcā even by mere chance,  
+> all the evil tendencies in them, such as the following, perish :-  
+> the thought that the body is the self;  
+> the false notion arising from it that he sees the soul by perception;  
+> false conclusions arrived at by fallacious reasoning,  
+> false inferences resulting from wrong premises,  
+> false interpretations of scriptural texts  
+> and want of faith in the Śāstras." 
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo se dice -
+
+> "Si los hombres de intelectos nublados ven a Bhagavān permanecer en el arcā incluso por mera oportunidad,  
+> Todas las tendencias malvadas en ellas, como las siguientes, perecer:-  
+> el pensamiento de que el cuerpo es el yo;  
+> La falsa noción que surge de ella que ve el alma por percepción;
+> Conclusiones falsas llegando por razonamiento falaz,  
+> Inferencias falsas resultantes de premisas incorrectas,  
+> interpretaciones falsas de los textos bíblicos  
+> y falta de fe en los Śāstras ". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सन्दर्शनादकस्माच्च पुंसां संमूढचेतसां ।  
+कुवासना कुबुद्धिश्च कुतर्कनिचयश्च यः ॥  
+कुहेतुश्च कुभावश्च नास्तिकत्वं लयं व्रजेत्’’(पौष्करसंहिता।)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडिये प्रत्यक्षादि-प्रमाण-त्रयत्तिलुम्  
+हेतु-फल-भावत्ताले वरुम् मति-मयक्कुगळ्+++(=व्यामोहाः)+++ ऎल्लात्तुक्कुम् मरुन्द् आय् इरुक्किऱ बडियैयुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-उक्त-रीत्या प्रत्यक्षादि-प्रमाण-त्रयतोऽपि  
+हेतु-फल-भावेन जायमानानां मति-व्यामोहानां सर्वेषां कृते औषध-रूपताम्, 
+</details>
+
+<details><summary>English</summary>
+
+Thus the worship of the image (arcā ) is a panacea for all mental diseases  
+arising from a false understanding of cause and effect.
+</details>
+
+<details><summary>Español</summary>
+
+Así, la adoración de la imagen (arcā) es una panacea para todas las enfermedades mentales  
+que surge de una falsa comprensión de la causa y el efecto.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये प्रत्यक्षादिप्रमाणत्रयत्तिलुम् हेतु-फलभावत्ताले वरुम् मदिमयक्कुगळॆल्लात्तुक्कुम् मरुन्दायिरुक्किऱबडियैयुम्, 
+</details>
+
+
 
 While rendering this service,  
 the prapanna should do such acts of service as are in keeping with  
@@ -4154,9 +4312,6 @@ he should do these acts
 
 
 
-
-
-"He who looks upon the Lord residing in the image as Puruṣottama and beholds Him (again and again) from the pedestal of the foot to the crown on the head his five deadly sins (Mahāpātaka) are destroyed quickly: Is it necessary to state that minor offences, too, perish ? This shows how supremely purificatory the arcā is. And again it is said ;- "If men of clouded intellects happen to see Bhagavān abiding in the arcā even by mere chance, all the evil tendencies in them, such as the following, perish :- the thought that the body is the self; the false notion arising from it that he sees the soul by perception; false conclusions arrived at by fallacious reasoning, false inferences resulting from wrong premises, false interpretations of scriptural texts and want of faith in the Śāstras." Thus the worship of the image (arcā ) is a panacea for all mental diseases arising from a false understanding of cause and effect.
 
 The prapanna should meditate on the Lord's placing Himself at the disposal of those who seek His protection in a manner which cannot be understood by the mind or described in words, for it has been said, "Whoever wants to see me and in whatever form - to him I reveal myself in that very form." The same thing is stated also (in the Tamil verse) "He assumes the form desired by His devotees.” He should also meditate on the alluring beauty of the Lord of which (the Alvar) says "The eyes that have seen the Lord will refuse to see other things." Having done so, the prapanna should render service suited to the respective relationships between him and the Lord (such as master and servant, father and son) and to His supreme majesty and easy accessibility, in accordance with the following verses :-"One should render service to the Lord like a chaste matron to her beloved husband, like a mother to her suckling, like a disciple to his ācārya  and like a friend to his friend. The Lord of Lakṣmī  should always be looked upon as a master, as a friend, as an ācharya, as a father and as a mother", "One should serve the Lord with as much fear as one would approach a king who is youthful, and an elephant in rut. In the same way as one would entertain a welcome guest who has come to one's house, one should worship the Lord with devotion, remembering His easy accessibility.” “One should treat the Lord with as much affection as one would a beloved child".
 
