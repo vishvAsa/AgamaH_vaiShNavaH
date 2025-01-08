@@ -4057,10 +4057,17 @@ Servicio a Arcā:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जॊल्लुगिऱ पडिये  
+चॊल्लुगिऱ पडिये  
 ओर् +++(देवता-मनुष्यादि-)+++ अधिकारि-विशेषत्तुक्क् आग +++(अर्चा-विग्रह-विशेषेण)+++ **सान्निध्यादिगळैप् पण्णि**,  
 परमैकान्तिय् आऩ तऩ्ऩैय् उगन्दु वन्द **अर्चावतारम् पण्णिय् इरुक्किऱ** ऎम्बॆरुमाऩ् पक्कलिले 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कस्यचिद् +++(देवता-मनुष्यादि-)+++ अधिकारि-विशेषस्य कृते **सान्निध्यादीनि कृत्वा**,  
+परमैकान्तिनं स्वम् **आदृत्योपेत्य कृतार्चावतारस्य** सर्वेश्वरस्य सन्निधौ (मूर्तौ) 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -4082,7 +4089,61 @@ por el bien de algunos devotos con devoción exclusiva hacia él;
 परमैकान्तियाऩ तऩ्ऩैय् उगन्दु वन्द अर्चावतारम् पण्णियिरुक्किऱ ऎम्बॆरुमाऩ् पक्कलिले 
 </details>
 
+<details><summary>सायण-टीका</summary>
 
+ओर् अधिकारिविशेषत्तुक्कुक्क् आग -  
+देवर्षि-सिद्ध-मनुष्यादिगळिल् ब्रह्मादिगळुक्क् आगवुम्, नारदादिगळुक्कागवुम्, श्रीमन्नाथमुनियामुनयतिवरर् कळुक्कागवुमॆऩ्ऱबडि।  
+सान्निध्यादिगळैप्पण्णि - अवर्गळुडैय ध्यानार्चनसेवादिगळुक्काग सान्निध्यादिगळैप्पण्णियॆऩ्ऱबडि।  
+इदऱ्कु इरुक्किऱ ऎऩ्बदोड् अन्वयम्,  
+परमैकान्तिय् आऩ तऩ्ऩै - अनन्योपायऩ् आय् अनन्य-प्रयोजनऩ् आय् इरुक्किऱ परमैकान्तिय् आऩ तऩ्ऩै।  
+उगन्दु वन्दु - प्रीतिपण्णि वन्दु, स्वगृहत्तिलुम् इतिशेषः । अर्चावतारम् पण्णियिरुक्किऱ - गृहार्चैयाग अवदरित्तिरुक्किऱ। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्वातिशयि-षाड्गुण्यं  
+> संस्थितं मन्त्र-बिम्बयोः +++(लक्षण-लक्ष्ययोः)+++’’  
+> (विष्वक्सेनसंहिता) 
+
+ऎऩ्गिऱ पूर्तियैयुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘सर्वातिशयि-षाड्गुण्यं  
+> संस्थितं मन्त्र-बिम्बयोः +++(लक्षण-लक्ष्ययोः)+++’’  
+> (विष्वक्सेनसंहिता) 
+
+इत्य्-उक्तां पूर्तिम्, 
+</details>
+
+<details><summary>English</summary>
+
+> "The six qualities like Jñāna are found in transcendent measure  
+> in the mantras and in the images (arcā ).  
+> They are described in the mantras,  
+> and the qualities are found in Bhagavān,  
+> since He has, out of His compassion, chosen to abide in these images". 
+
+This shows the fullness of perfection, 
+</details>
+
+<details><summary>Español</summary>
+
+> "Las seis cualidades como jñāna se encuentran en medida trascendente  
+> en los mantras y en las imágenes (arcā).  
+> Se describen en los mantras,  
+> y las cualidades se encuentran en Bhagavān,  
+> Desde que tiene, fuera de su compasión, elegido para permanecer en estas imágenes ".
+
+Esto muestra la plenitud de la perfección,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वातिशयिषाड्गुण्यं संस्थितं मन्त्रबिम्बयोः’’(विष्वक्सेनसंहिता) ऎऩ्गिऱ पूर्तियैयुम्,  
+</details>
 
 
 While rendering this service,  
@@ -4095,9 +4156,7 @@ he should do these acts
 
 
 
-"The six qualities like Jñāna are found in transcendent measure in the mantras and in the images (arcā ). They are described in the mantras, and the qualities are found in Bhagavān, since He has, out of His compassion, chosen to abide in these images". 
-
-This shows the fullness of perfection, "He who looks upon the Lord residing in the image as Puruṣottama and beholds Him (again and again) from the pedestal of the foot to the crown on the head his five deadly sins (Mahāpātaka) are destroyed quickly: Is it necessary to state that minor offences, too, perish ? This shows how supremely purificatory the arcā is. And again it is said ;- "If men of clouded intellects happen to see Bhagavān abiding in the arcā even by mere chance, all the evil tendencies in them, such as the following, perish :- the thought that the body is the self; the false notion arising from it that he sees the soul by perception; false conclusions arrived at by fallacious reasoning, false inferences resulting from wrong premises, false interpretations of scriptural texts and want of faith in the Śāstras." Thus the worship of the image (arcā ) is a panacea for all mental diseases arising from a false understanding of cause and effect.
+"He who looks upon the Lord residing in the image as Puruṣottama and beholds Him (again and again) from the pedestal of the foot to the crown on the head his five deadly sins (Mahāpātaka) are destroyed quickly: Is it necessary to state that minor offences, too, perish ? This shows how supremely purificatory the arcā is. And again it is said ;- "If men of clouded intellects happen to see Bhagavān abiding in the arcā even by mere chance, all the evil tendencies in them, such as the following, perish :- the thought that the body is the self; the false notion arising from it that he sees the soul by perception; false conclusions arrived at by fallacious reasoning, false inferences resulting from wrong premises, false interpretations of scriptural texts and want of faith in the Śāstras." Thus the worship of the image (arcā ) is a panacea for all mental diseases arising from a false understanding of cause and effect.
 
 The prapanna should meditate on the Lord's placing Himself at the disposal of those who seek His protection in a manner which cannot be understood by the mind or described in words, for it has been said, "Whoever wants to see me and in whatever form - to him I reveal myself in that very form." The same thing is stated also (in the Tamil verse) "He assumes the form desired by His devotees.” He should also meditate on the alluring beauty of the Lord of which (the Alvar) says "The eyes that have seen the Lord will refuse to see other things." Having done so, the prapanna should render service suited to the respective relationships between him and the Lord (such as master and servant, father and son) and to His supreme majesty and easy accessibility, in accordance with the following verses :-"One should render service to the Lord like a chaste matron to her beloved husband, like a mother to her suckling, like a disciple to his ācārya  and like a friend to his friend. The Lord of Lakṣmī  should always be looked upon as a master, as a friend, as an ācharya, as a father and as a mother", "One should serve the Lord with as much fear as one would approach a king who is youthful, and an elephant in rut. In the same way as one would entertain a welcome guest who has come to one's house, one should worship the Lord with devotion, remembering His easy accessibility.” “One should treat the Lord with as much affection as one would a beloved child".
 
