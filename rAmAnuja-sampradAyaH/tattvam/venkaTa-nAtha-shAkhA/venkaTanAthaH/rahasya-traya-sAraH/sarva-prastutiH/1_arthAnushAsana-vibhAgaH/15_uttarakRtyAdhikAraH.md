@@ -3699,7 +3699,7 @@ como vacas que se alejan de comer sigilosamente los cultivos (sic).
 </details>
 
 
-## प्रीत्या यथा-शास्त्रता
+## स्वयम्-प्रयोजनता, यथा-शास्त्रता
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -3736,6 +3736,32 @@ ya que no se pudo detener cuando desee
 अक्करैयिलभिमतदेशत्तुक्कुप्पोग ओडम् पार्त्तिरुप्पार्निऩैत्तबोदु विडवॊण्णाद पणबन्धद्यूतत्तिलिऴियादे 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इऩि आज्ञानुज्ञाकैङ्कर्यङ्गळै  
+भगवत्प्रीत्यर्थम् आग यथाशास्त्रम् प्रीतिपूर्वकमागप् पण्णवेण्डुम्  
+ऎऩ्बदै सदृष्टान्तम् आगव् अरुळिच् चॆय्गिऱार् - अक्करैयिलित्यादिना ।  
+अक्करैयिल् इष्टम् आऩ ऒरु देशत्तिऱ्कुप् पोगवेण्डुम् ऎऩ्ऱु  
+अक्करैयिल् इरुक्कुम् ओडम् इक्-करै वरुगिऱ पर्यन्तम्  
+अदै प्रतीक्षित्तुक् कॊण्ड् इरुक्कुम् राज-कुमारादिगळ् दृष्टान्तम्।  
+प्रकृतिक्कु अक्-करैयिल्  
+तऩक्कु अभिमतमाऩ परमपदत्तिऱ्कुप् पोवदऱ्क् आग  
+उपायत्तै अनुष्ठित्तु कृतकृत्यऩ् आय्  
+तऩ् निष्ठैयैत् तॆळिन्दु,  
+परम-पद-प्राप्ति-हेतुव् आऩ देहावसानादिगळै प्रतीक्षित्तुक् कॊण्ड् इरुक्कुम् प्रपन्नर्गळ् दार्ष्टान्तिकम्।  
+
+निऩैत्तबोदु विडवॊण्णाद पणबन्धद्यूतत्तिलिऴियादे इत्यादि ।  
+अदावदु द्यूतम् इरण्डु-विधम्।  
+पण-बन्ध-द्यूतम् ऎऩ्ऱुम्, विहार-द्यूतम् ऎऩ्ऱुम्।  
+इदिल् पण-बन्ध-द्यूतम् आवदु -  
+"ऒट्टारम् आग इदै मुडित्ते ऎऴुन्द् इरुक्कक् कडवोम्"  
+ऎऩ्गिऱ प्रतिज्ञैयोडु पणम् वैत्तु आडुम् द्यूतम्।  
+विहारद्यूतम् आवदु केवल-काल-यापनार्थम् आग आडुम् लीला-द्यूतम्।  
+अदिल् पणबन्धद्यूतत्तैय् आडुम् अवऩुक्कु  
+पन्दयम् वैत्त् इरुप्पदाल्  
+ताऩ् निऩैत्त बोदु अदै विड-मुडियादु।  
+लीलाद्यूतमागिल् मध्यत्तिल् निऩैत्तबोदु विट्टुप् पोगलाम् बडिय् इरुक्कुम्।  
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -3761,7 +3787,7 @@ they move the pawns (on the board) in strict accordance with the rules of the ga
 
 <details><summary>Español</summary>
 
-pero puede participar en jugar el juego sin ningún juego  
+pero puede participar en jugar el juego sin nada que arriesgar  
 para que puedan estar en condiciones de renunciar al juego (cuando haya llegado el bote).
 
 Aunque juegan simplemente por el disfrute (y no por dinero),  
@@ -3774,24 +3800,39 @@ Mueven los peones (en el tablero) en estricta conformidad con las reglas del jue
 वेण्डिऩ मट्टिले तलैक्कट्टुगैक्कीडाऩ विहारद्यूतत्तिलेय् इऴिन्दालुम् द्यूत शास्त्रत्तिऩ्बडिये अडिदप्पादे करुवि वैक्कुमाप्पोले  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इत्ताल् दार्ष्टान्तिकत्तिल् प्रपन्नऩ् प्रयोजनान्तरार्थम् आग  अनुज्ञा-कैङ्कर्यादिगळै अनुष्ठित्ताल्  
+यावत्-प्रयोजनान्तर-प्राप्ति-कैङ्कर्यत्तै विड-मुडियादु ऎऩ्ऱुम्,  
+निऩैत्त पोदु परम-पद-प्राप्ति किट्टाद् ऎऩ्ऱुम्,  स्वयम्-प्रयोजन-रूपानुज्ञा-कैङ्कर्यादिगळैये पण्णक् कडवऩ् ऎऩ्ऱुम् तोऱ्ऱुगिऱदु।+++(5)+++  
+इदु कालम् कोलामल् प्रपत्तिपण्णिऩवऩ् विषयत्तिल् सॊऩ्ऩदु।  
+
+> इप्पडि प्रपन्नऩ् स्वयम्-प्रयोजनम् आऩ कैङ्कर्यत्तिलेये इऴिन्दाऩ् आगिल्  
+इदऱ्कु शास्त्रम् वेण्डुमो? यथारुचि पण्णिऩालमैयादो?  
+कालादि-नियमङ्गळुम् वेण्डुमो? 
+
+ऎऩ्गिऱ शङ्कैयै दृष्टान्त-प्रदर्शनत्ताले परिहरिक्किऱार् इऴिन्दालुम् इत्यादिना ।  
+
+द्यूत-शास्त्रत्तिऩ् बडिये -  
+चतुरङ्गम् मुदलाऩ द्यूतशास्त्रत्तिल् सॊल्लिय् इरुक्किऱ बडिये,  
+अडि-दप्पादे - अदऱ्क् एऱ्पट्ट याऩैय्-अडि कुदिरैय्-अडि मुदलाऩ् अदुगळ् तप्पिप्पोगाद बडि,  
+करुविगळ् - रथ-गज--तुर-ग--पदाति-रूप-साधनङ्गळ्, काय्गळ् ऎऩ्ऱबडि।  
+वैक्कुमाप्पोले इति । इवऱ्ऱिल् रथत्तिऩ् गति मूलैय् अडिये नगत्त वेण्डुम्। गजत्तिऩ् अडि नेरागप् पोग वेण्डुम्।  
+तुरगत्तिऩडि किञ्चद्-वक्रम् आगप् पोगवेण्डुम्।  
+इवैगळै पण-बन्ध-द्यूतत्तिल् पोल् विहार-द्यूतत्तिलुम् ऎप्पडि अडि-दप्पामल् वैक्किऱार्गळो  
+अप्पडिये ऎऩ्ऱु दृष्टान्तार्थम्।  
+</details>
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अज्ञानुज्ञैगळालेय् **अडिमै कॊळ्ळुगिऱ**  
++++(स्वयम्-प्रयोजनतया)+++ अज्ञानुज्ञैगळालेय् **अडिमै कॊळ्ळुगिऱ**  
 शासिताविऩ्-उडैय शासनत्तुक्कुप् पॊरुन्दिऩ+++(=योग्यम्)+++ काल-विशेषादि-नियतम् आऩ **कैङ्कर्यत्तै**  
-
-पित्त-परिहारार्थम् आग क्षीर-सेवैप् पण्णुवारैप् पोल् अऩ्ऱिक्के  
-अ-यत्न-लब्धम् आऩ औषधत्ताले अ-विलम्बितम् आग आरोग्यम् **पॆऱ्ऱव्-अर्गळ्**  
-पाल् वार्त्त्+++(=परिपाल्य?)+++ उण्णुमाप् पोलेय् **उगन्दु+++(=प्रीत्या)+++ पण्णवुम्**, 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-तथा आज्ञा-ऽनुज्ञाभिर् दास्यं **स्वीकुर्वाणस्य**  
+तथा +++(स्वयम्-प्रयोजनतया)+++ आज्ञा-ऽनुज्ञाभिर् दास्यं **स्वीकुर्वाणस्य**  
 शासितुः शासनानुरूपस्य काल-विशेषादि-नियतस्य कैङ्कर्यस्य  
-पित्त-परिहारार्थ--क्षीर-सेवक-रीतिं **विहाय**   
-अ-यत्न-लब्धेनौपधेनाविलम्बितम् आरोग्यं **प्राप्तवन्तो**  
-यथा क्षीरं **परिप्लाय भुञ्जते**,  
-तथा प्रीत्या **ऽनुष्ठानम्**, 
 </details>
 
 <details><summary>English</summary>
@@ -3801,10 +3842,6 @@ he performs gladly the rites commanded and permitted by the Supreme Ruler,
 which are really services to the Lord,  
 in accordance with the specific time and place at which they are ordained for performance.  
 
-(In performing them), he should resemble  
-not those who drink milk for relief from excess of pitta ~~bile~~,  
-but like those who have got well easily and quickly with the help of a medicine  
-and who drink milk with pleasure (not as a cure for disease ).
 </details>
 
 <details><summary>Español</summary>
@@ -3813,6 +3850,46 @@ De la misma manera (aunque la Prapanna no espera ganancias)
 Realiza con gusto los ritos comandados y permitidos por el gobernante supremo,  
 que son realmente servicios para el Señor,  
 de acuerdo con el tiempo y el lugar específicos en el que están ordenados para su rendimiento.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अज्ञानुज्ञै कळाले यडिमै कॊळ्ळुगिऱ शासिताविऩुडैय शासनत्तुक्कुप्पॊरुन्दिऩ कालविशेषादिनियतमाऩ कैङ्कर्यत्तै 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अप्पडिये प्रपन्नऩुम् भगवच्-छास्त्रादिगळिल् सॊऩ्ऩ काल-विशेष--देश-विशेषादिगळोडे कूडिऩ कैङ्कर्यङ्गळैये नडत्त-वेण्डुम् ऎऩ्बदु इदऩाल् अभिप्रेतम्।  
+इदै विवरिक्किऱार् आज्ञानुज्ञैगळाले इति ।  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पित्त-परिहारार्थम् आग क्षीर-सेवैप् पण्णुवारैप् पोल् अऩ्ऱिक्के  
+अ-यत्न-लब्धम् आऩ औषधत्ताले अ-विलम्बितम् आग आरोग्यम् **पॆऱ्ऱव्-अर्गळ्**  
+पाल् वार्त्त्+++(=परिपाल्य?)+++ उण्णुमाप् पोलेय् **उगन्दु+++(=प्रीत्या →स्वयम्-प्रयोजनतया)+++ पण्णवुम्**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पित्त-परिहारार्थ--क्षीर-सेवक-रीतिं **विहाय**   
+अ-यत्न-लब्धेनौषधेनाविलम्बितम् आरोग्यं **प्राप्तवन्तो**  
+यथा क्षीरं **परिप्लाय भुञ्जते**,  
+तथा प्रीत्या+++(→स्वयम्-प्रयोजनतया)+++ **ऽनुष्ठानम्**, 
+</details>
+
+<details><summary>English</summary>
+
+(In performing them), he should resemble  
+not those who drink milk for relief from excess of pitta ~~bile~~,  
+but like those who have got well easily and quickly with the help of a medicine  
+and who drink milk with pleasure (not as a cure for disease ).
+</details>
+
+<details><summary>Español</summary>
 
 (Al realizarlos), debe parecerse  
 No aquellos que beben leche para aliviar el exceso de Pitta ~~ Bile ~~,  
@@ -3823,15 +3900,159 @@ y que beben leche con placer (no como una cura para la enfermedad).
 
 <details><summary>मूलम्</summary>
 
-अज्ञानुज्ञै कळाले यडिमै कॊळ्ळुगिऱ शासिताविऩुडैय शासनत्तुक्कुप्पॊरुन्दिऩ कालविशेषादिनियतमाऩ कैङ्कर्यत्तै पित्तपरिहारार्थमाग क्षीरसेवैप् पण्णुवारैप्पोलऩ्ऱिक्के अयत्नलब्धमाऩ औषधत्ताले अविळम्बितमाग आरोग्यम् पॆऱ्ऱवर्गळ् पाल् वार्त्तुण्णुमाप्पोले युगन्दु पण्णवुम्, 
+पित्तपरिहारार्थमाग क्षीरसेवैप् पण्णुवारैप्पोलऩ्ऱिक्के अयत्नलब्धमाऩ औषधत्ताले अविळम्बितमाग आरोग्यम् पॆऱ्ऱवर्गळ् पाल् वार्त्तुण्णुमाप्पोले युगन्दु पण्णवुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+स्वयम्-प्रयोजनम् आगवे अनुष्ठिक्कवेणुम् ऎऩ्बदै  
+सदृष्टान्तम् आगक् काट्टुगिऱार् पित्त-परिहारार्थम् आग इत्यादिना ।  
+पित्तव्याधियुळ्ळ ऒरुवऩ्  
+तऩ् पित्तपरिहाररूपप्रयोजनत्तै उद्देशित्तु  
+नित्यमाग क्षीरसेवनम् सॆय्दाल्  
+क्षीरम् स्वयम् स्वादुवायिरुन्दालुम्  
+पित्तपरिहारसाधनतया औषध-स्थानत्तिले निऱ्कैयाले *भोग्यम् आगादु*।  
+अप्पडिये प्रयोजनान्तरार्थम् अनुष्ठिक्कुम् कैङ्कर्यम्  
+भगवत्-सम्बन्धत्ताले स्वादुव् आऩालुम्  
+प्रयोजनान्तरार्थत्व-बुद्ध्या भोग्यम् आगादु  
+ऎऩ्बदु दृष्टान्तत्ताले दार्ष्टान्तिकत्तिल् किडैक्कुमर्थम्।+++(5)+++  
+
+आगैयाल् अवर्गळैप् पोल् अऩ्ऱिक्के,  
+अयत्नलब्धमाऩ - प्रयासम् इऩ्ऱिक्के किडैत्त,  
+आरोग्यम् पॆऱ्ऱवर्गळ् पाल् वार्त्त् उण्णुमाप् पोले -  
+केवलं भोग्यतया अन्नादिगळिल् पाल् सेर्न्द् उण्णुमाप्पोले,  
+उगन्दु पण्णवुम् - बहुप्रीतियोडे पण्णवुम्।  
+
+इन्द दृष्टान्तत्ताले  
+प्रयासम् इऩ्ऱिक्के क्षण-काल-साद्ध्यमाऩ प्रपत्तियिऩाले  
+जन्मान्तर-विळम्बादिगळ् इल्लाद बडि  
+सर्वपाप-निवृत्ति-रूप-रोग-निवृत्तियैप् पॆऱ्ऱ प्रपन्नर्गळ्  
+स्वयम्-प्रयोजनम् आगव् उगन्दु उत्तर-कृत्यत्तैप् पण्ण वेण्डुम् ऎऩ्ऩुम् अर्थम् सूचितमागिऱदु।  
+</details>
+
+
+## अर्चा-कैङ्कर्यम्
+
+<details><summary>English</summary>
+
+SERVICE TO ARCĀ:
+</details>
+
+<details><summary>Español</summary>
+
+Servicio a Arcā:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्पोदु 
+
+> ‘‘**नित्य-सिद्धे** तद्-आकारे  
+> तत्-परत्वे च पौष्कर ।  
+> **यस्यास्ति सत्ता** हृदये,  
+> तस्यासौ +++(भगवान्)+++ सन्निधिं **व्रजेत्** ॥’’  
+> (पौष्करसंहिता) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः
+</details>
+
+
+<details><summary>स्रोतः</summary>
+
+पौष्करसंहिता
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तदा
+
+> ‘‘**नित्य-सिद्धे** तद्-आकारे  
+> तत्-परत्वे च पौष्कर ।  
+> **यस्यास्ति सत्ता** हृदये,  
+> तस्यासौ +++(भगवान्)+++ सन्निधिं **व्रजेत्** ॥’’  
+> (पौष्करसंहिता) +++(5)+++
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> "He who believes in the eternal form and supreme majesty of the Lord -  
+> him, O Pouṣkara, the Lord approaches,"+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+> "El que cree en la forma eterna y la majestad suprema del Señor -  
+> Él, Oh Pouṣkara, se acerca el Señor ",+++(5)+++
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पोदु ‘‘नित्यसिद्धे तदाकारे तत्परत्वे च पौष्कर । यस्यास्ति सत्ता हृदये तस्यासौ सन्निधिं व्रजेत् ॥’’(पौष्करसंहिता) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यथा सामुद्रम् अम्भो ऽब्-दैः   
+**स्पृष्टम् एत्य् उपभोग्यताम्** +++(न तु लवणाम्भः)+++।  
+तथैव हि मनुष्याणां +++(एत्य् उपभोग्यताम्)+++  
+भक्तैस् **संभावितो** +++(अर्चावतारेषु)+++ हरिः ॥’’  
+(पौष्करसंहिता)+++(5)+++  
+
+ऎऩ्ऱुञ्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘यथा सामुद्रम् अम्भो ऽब्-दैः   
+**स्पृष्टम् एत्य् उपभोग्यताम्** +++(न तु लवणाम्भः)+++।  
+तथैव हि मनुष्याणां  +++(एत्य् उपभोग्यताम्)+++  
+भक्तैस् **संभावितो** +++(अर्चावतारेषु)+++ हरिः ॥’’  
+(पौष्करसंहिता)+++(5)+++  
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> "In the same way as the water of the ocean taken up by the clouds and let fall (as rain )  
+> becomes fit to be enjoyed by all,  
+> Bhagavān whose image has been installed by devotees  
+> becomes fit to be served and enjoyed by others". 
+</details>
+
+<details><summary>Español</summary>
+
+> "De la misma manera que el agua del océano tomada por las nubes y dejar que la caída (como la lluvia)  
+> se ponga en forma para ser disfrutado por todos,
+> Bhagavān cuya imagen ha sido instalada por devotos
+> se vuelve en forma para ser servido y disfrutado por otros ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यथा सामुद्रमम्भोब्दैः स्पृष्टमेत्युपभोग्यताम् । तथैव हि मनुष्याणां भक्तैस्संभावितो हरिः ॥’’(पौष्करसंहिता) ऎऩ्ऱुञ् 
 </details>
 
 
 
 
-SERVICE TO ARCĀ:
+While rendering this service, the prapanna should do such acts of service as are in keeping with the respective relationships between him and the Lord and with the Lord's supreme majesty and easy accessibility; he should do these acts towards the images (arcā) into which the Lord has incarnated for the sake of some devotees with exclusive devotion to Him; 
 
-While rendering this service, the prapanna should do such acts of service as are in keeping with the respective relationships between him and the Lord and with the Lord's supreme majesty and easy accessibility; he should do these acts towards the images (arcā) into which the Lord has incarnated for the sake of some devotees with exclusive devotion to Him; for it has been said : "He who believes in the eternal form and supreme majesty of the Lord -him, O Pouṣkara, the Lord approaches," "In the same way as the water of the ocean taken up by the clouds and let fall (as rain ) becomes fit to be enjoyed by all, Bhagavān whose image has been installed by devotees becomes fit to be served and enjoyed by others". "The six qualities like Jñāna are found in transcendent measure in the mantras and in the images (arcā ). They are described in the mantras, and the qualities are found in Bhagavān, since He has, out of His compassion, chosen to abide in these images". This shows the fullness of perfection, "He who looks upon the Lord residing in the image as Puruṣottama and beholds Him (again and again) from the pedestal of the foot to the crown on the head his five deadly sins (Mahāpātaka) are destroyed quickly: Is it necessary to state that minor offences, too, perish ? This shows how supremely purificatory the arcā is. And again it is said ;- "If men of clouded intellects happen to see Bhagavān abiding in the arcā even by mere chance, all the evil tendencies in them, such as the following, perish :- the thought that the body is the self; the false notion arising from it that he sees the soul by perception; false conclusions arrived at by fallacious reasoning, false inferences resulting from wrong premises, false interpretations of scriptural texts and want of faith in the Śāstras." Thus the worship of the image (arcā ) is a panacea for all mental diseases arising from a false understanding of cause and effect.
+for it has been said : 
+
+"The six qualities like Jñāna are found in transcendent measure in the mantras and in the images (arcā ). They are described in the mantras, and the qualities are found in Bhagavān, since He has, out of His compassion, chosen to abide in these images". 
+
+This shows the fullness of perfection, "He who looks upon the Lord residing in the image as Puruṣottama and beholds Him (again and again) from the pedestal of the foot to the crown on the head his five deadly sins (Mahāpātaka) are destroyed quickly: Is it necessary to state that minor offences, too, perish ? This shows how supremely purificatory the arcā is. And again it is said ;- "If men of clouded intellects happen to see Bhagavān abiding in the arcā even by mere chance, all the evil tendencies in them, such as the following, perish :- the thought that the body is the self; the false notion arising from it that he sees the soul by perception; false conclusions arrived at by fallacious reasoning, false inferences resulting from wrong premises, false interpretations of scriptural texts and want of faith in the Śāstras." Thus the worship of the image (arcā ) is a panacea for all mental diseases arising from a false understanding of cause and effect.
 
 The prapanna should meditate on the Lord's placing Himself at the disposal of those who seek His protection in a manner which cannot be understood by the mind or described in words, for it has been said, "Whoever wants to see me and in whatever form - to him I reveal myself in that very form." The same thing is stated also (in the Tamil verse) "He assumes the form desired by His devotees.” He should also meditate on the alluring beauty of the Lord of which (the Alvar) says "The eyes that have seen the Lord will refuse to see other things." Having done so, the prapanna should render service suited to the respective relationships between him and the Lord (such as master and servant, father and son) and to His supreme majesty and easy accessibility, in accordance with the following verses :-"One should render service to the Lord like a chaste matron to her beloved husband, like a mother to her suckling, like a disciple to his ācārya  and like a friend to his friend. The Lord of Lakṣmī  should always be looked upon as a master, as a friend, as an ācharya, as a father and as a mother", "One should serve the Lord with as much fear as one would approach a king who is youthful, and an elephant in rut. In the same way as one would entertain a welcome guest who has come to one's house, one should worship the Lord with devotion, remembering His easy accessibility.” “One should treat the Lord with as much affection as one would a beloved child".
 
