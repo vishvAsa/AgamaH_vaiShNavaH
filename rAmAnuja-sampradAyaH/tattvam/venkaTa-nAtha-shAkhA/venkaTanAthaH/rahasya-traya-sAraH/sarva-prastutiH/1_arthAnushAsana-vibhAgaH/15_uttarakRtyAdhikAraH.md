@@ -3976,7 +3976,7 @@ Servicio a Arcā:
 > ‘‘**नित्य-सिद्धे** तद्-आकारे  
 > तत्-परत्वे च पौष्कर ।  
 > **यस्यास्ति सत्ता** हृदये,  
-> तस्यासौ +++(भगवान्)+++ सन्निधिं **व्रजेत्** ॥’’  
+> तस्यासौ +++(भगवान्)+++ सन्निधिं **व्रजेत्** +++(अर्चाविग्रहेण)+++ ॥’’  
 > (पौष्करसंहिता) +++(5)+++
 
 इति
@@ -3999,6 +3999,13 @@ Servicio a Arcā:
 
 अप्पोदु ‘‘नित्यसिद्धे तदाकारे तत्परत्वे च पौष्कर । यस्यास्ति सत्ता हृदये तस्यासौ सन्निधिं व्रजेत् ॥’’(पौष्करसंहिता) ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩि कैङ्गर्यङ्गळै अर्चावतारविषयत्तिल् सॆय्यवेण्डुमॆऩ्ऱु सॊल्ल निऩैत्तु अर्चैयिल् भगवत्सान्निध्यमुण्डॆऩ्गैयिल् प्रमाणम् काट्टुगिऱार् अप्पोदु इत्यादिना । अप्पोदु - स्वयम्प्रयोजनतया उगन्दु पण्णुम्बोदु। नित्यसिद्धेति । इदु पौष्करसंहितैयिल् ब्रह्मावैक् कुऱित्तु भगवद्वचनम्। पौष्कर - तामरसबुष्पत्तिलेयवदरित्त ब्रह्मावे! यस्य – यादॊ रुवधिकारिक्कु। नित्यसिद्धे - नित्यमाऩ, तदाकारे - परवासुदेवऩुडैय दिव्यमङ्गळविग्रहत्तिलुम् तत्परत्वे च - अन्द भगवाऩुडैय परत्वत्तिलुम्, यद्वा; – तस्य – दिव्यमङ्गळविग्रहत्तिऩुडैय, परत्वे च –स्वरूपत्तैक्काट्टिलुमुण्डाऩ उत्कर्षविषयत्तिलुम्, हृदये - मऩस्सिल्, सत्ता – सत्ताविषयिणी बुद्धिः अस्ति । भगवाऩुडैय दिव्यमङ्गळविग्रहमुम् अवऩुडैय परत्वमुम् अस्तियॆऩ्गिऱ बुद्धियाऩदु ऎवऩुक्कु इरुक्किऱदोवॆऩ्ऱबडि। तस्य - महात्मनः, असौ – भगवान् । सन्निधिं व्रजेत् – अन्द विग्रहत्तोडुम्परत्वत्तोडुम् विशिष्टऩाय्क्कॊण्डु अर्चारूपत्तोडु सन्निहितऩागिऱाऩॆऩ्ऱबडि। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4043,12 +4050,50 @@ Servicio a Arcā:
 ‘‘यथा सामुद्रमम्भोब्दैः स्पृष्टमेत्युपभोग्यताम् । तथैव हि मनुष्याणां भक्तैस्संभावितो हरिः ॥’’(पौष्करसंहिता) ऎऩ्ऱुञ् 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इऩि ऒरु भक्तऩाले सम्भावितऩाऩ, अदावदु आवाहनादिगळाले कॊण्डाडप् पट्ट अर्चारूपियाऩ भगवाऩ् सर्वरुक्कुम् उपभोग्यऩामॆऩ्बदिल् सदृष्टान्तमागच् चॊल्लुम् प्रमाणत्तैक् काट्टुगिऱार् यथेति । सामुद्रं – समुद्रसम्बन्धियाऩ, अदावदु समुद्रसम्बन्धि यागैयाले लवणमयमाय् सर्वरुक्कुम् अनुपजीव्यमाऩ वॆऩ्ऱबडि। अम्भः - जलमाऩदु, अब्दैः - मेगङ्गळाले, स्पृष्टं सत् - स्पर्शिक्कप्पट्टदाय्क्कॊण्डु, यथा उपभोग्यतामेति - ऎप्पडि सर्वरुक्कुम् स्वादुतया उपजीव्यमाग आगिऱदो; अप्पडिये भक्तैः - भक्तिमाऩ्गळाऩ महाऩ्गळाले, सम्भावितः - अर्च्चैयिल् प्रतिष्ठै सॆय्यप्पट्टुम् आराधिक्कप्पट्टुम् कॊण्डाडप्पट्टुमिरुक्किऱ भगवाऩ्। इन्द अंशम् सान्निध्यम् पण्णुवदऱ्कु हेदु। सर्वमनुष्यर्गळुक्कुमुपभोग्यतैयै अदावदु आज्ञानुज्ञाकैङ्कर्यङ्गळाले आराध्यतैयै अडैयुमॆऩ्गै। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जॊल्लुगिऱ पडिये  
+ओर् +++(देवता-मनुष्यादि-)+++ अधिकारि-विशेषत्तुक्क् आग +++(अर्चा-विग्रह-विशेषेण)+++ **सान्निध्यादिगळैप् पण्णि**,  
+परमैकान्तिय् आऩ तऩ्ऩैय् उगन्दु वन्द **अर्चावतारम् पण्णिय् इरुक्किऱ** ऎम्बॆरुमाऩ् पक्कलिले 
+</details>
+
+<details><summary>English</summary>
+
+for it has been said (as above),  
+towards the images (arcā) into which the Lord has incarnated  
+for the sake of some devotees with exclusive devotion to Him; 
+</details>
+
+<details><summary>Español</summary>
+
+porque se ha dicho (como se indicó),  
+hacia las imágenes (arcā) en las que el Señor ha encarnado  
+por el bien de algunos devotos con devoción exclusiva hacia él;
+</details>
+
+<details><summary>मूलम्</summary>
+
+जॊल्लुगिऱबडिये ओरधिकारि-विशेषत्तुक्काग सान्निध्यादिगळैप् पण्णि,  
+परमैकान्तियाऩ तऩ्ऩैय् उगन्दु वन्द अर्चावतारम् पण्णियिरुक्किऱ ऎम्बॆरुमाऩ् पक्कलिले 
+</details>
 
 
 
-While rendering this service, the prapanna should do such acts of service as are in keeping with the respective relationships between him and the Lord and with the Lord's supreme majesty and easy accessibility; he should do these acts towards the images (arcā) into which the Lord has incarnated for the sake of some devotees with exclusive devotion to Him; 
 
-for it has been said : 
+While rendering this service,  
+the prapanna should do such acts of service as are in keeping with  
+the respective relationships between him and the Lord   
+and with the Lord's supreme majesty and easy accessibility;  
+he should do these acts  
+
+
+
+
 
 "The six qualities like Jñāna are found in transcendent measure in the mantras and in the images (arcā ). They are described in the mantras, and the qualities are found in Bhagavān, since He has, out of His compassion, chosen to abide in these images". 
 
