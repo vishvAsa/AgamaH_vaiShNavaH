@@ -3699,10 +3699,135 @@ como vacas que se alejan de comer sigilosamente los cultivos (sic).
 </details>
 
 
+## प्रीत्या यथा-शास्त्रता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अक्-करैयिल्+++(=तीरे)+++ अभिमत-देशत्तुक्कुप् **पोग**  
+ओडम्+++(=नौकाम्)+++ **पार्त्त् इरुप्पार्**  
+निऩैत्त पोदु विडव् ऒण्णाद पण-बन्ध-**द्यूतत्तिल् इऴियादे** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पर-तीरे ऽभिमत-देश-**जिगमिषया** नौकां **प्रतीक्षमाणाः**  
+सत्यां त्यागेच्छायां त्यक्तुम् अशक्ये पण-बन्ध-द्यूते **अ-प्रवृत्य**  
+</details>
+
+
+<details><summary>English</summary>
+
+When people are waiting for the boat in order (to cross the stream) to go to a place of their desire,  
+some of them may avoid playing chess or other game with stakes,  
+as it could not be stopped whenever desired  
+</details>
+
+<details><summary>Español</summary>
+
+Cuando la gente espera el bote  
+para que (cruzara el arroyo) vaya a un lugar de su deseo,  
+Algunos de ellos pueden evitar jugar ajedrez u otro juego con apuestas,  
+ya que no se pudo detener cuando desee
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अक्करैयिलभिमतदेशत्तुक्कुप्पोग ओडम् पार्त्तिरुप्पार्निऩैत्तबोदु विडवॊण्णाद पणबन्धद्यूतत्तिलिऴियादे 
+</details>
 
 
 
-When people are waiting for the boat in order (to cross the stream) to go to a place of their desire, some of them may avoid playing chess or other game with stakes, as it could not be stopped whenever desired but may be engaged in playing the game without any stakes so that they might be in a position to give up the game (when the boat has come). Though they play merely for the enjoyment (and not for money), they move the pawns (on the board) in strict accordance with the rules of the game. In the same way (though the prapanna does not expect any profit out of it) he performs gladly the rites commanded and permitted by the Supreme Ruler, which are really services to the Lord, in accordance with the specific time and place at which they are ordained for performance. (In performing them), he should resemble not those who drink milk for relief from excess of bile, but like those who have got well easily and quickly with the help of a medicine and who drink milk with pleasure (not as a cure for disease ).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+वेण्डिऩ मट्टिले तलैक्-कट्टुगैक्क् ईड् आऩ विहार-द्यूतत्तिलेय् इऴिन्दालुम्  
+द्यूत-शास्त्रत्तिऩ् बडिये अडि तप्पादे +++(द्यूत-)+++करुवि+++(=साधनम्)+++ वैक्कुमाप् पोले  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अपेक्षितावसरे समापनार्हे विहार-**द्यूते प्रवृत्ताव्** अपि  
+यथा-शास्त्रं स्थानानतिक्रमेण (देवन-)साधनानि (अक्षान्) यथा **निक्षिपति**,  
+</details>
+
+<details><summary>English</summary>
+
+but may be engaged in playing the game without any stakes  
+so that they might be in a position to give up the game (when the boat has come).  
+
+Though they play merely for the enjoyment (and not for money),  
+they move the pawns (on the board) in strict accordance with the rules of the game.  
+</details>
+
+<details><summary>Español</summary>
+
+pero puede participar en jugar el juego sin ningún juego  
+para que puedan estar en condiciones de renunciar al juego (cuando haya llegado el bote).
+
+Aunque juegan simplemente por el disfrute (y no por dinero),  
+Mueven los peones (en el tablero) en estricta conformidad con las reglas del juego.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+वेण्डिऩ मट्टिले तलैक्कट्टुगैक्कीडाऩ विहारद्यूतत्तिलेय् इऴिन्दालुम् द्यूत शास्त्रत्तिऩ्बडिये अडिदप्पादे करुवि वैक्कुमाप्पोले  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अज्ञानुज्ञैगळालेय् **अडिमै कॊळ्ळुगिऱ**  
+शासिताविऩ्-उडैय शासनत्तुक्कुप् पॊरुन्दिऩ+++(=योग्यम्)+++ काल-विशेषादि-नियतम् आऩ **कैङ्कर्यत्तै**  
+
+पित्त-परिहारार्थम् आग क्षीर-सेवैप् पण्णुवारैप् पोल् अऩ्ऱिक्के  
+अ-यत्न-लब्धम् आऩ औषधत्ताले अ-विलम्बितम् आग आरोग्यम् **पॆऱ्ऱव्-अर्गळ्**  
+पाल् वार्त्त्+++(=परिपाल्य?)+++ उण्णुमाप् पोलेय् **उगन्दु+++(=प्रीत्या)+++ पण्णवुम्**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथा आज्ञा-ऽनुज्ञाभिर् दास्यं **स्वीकुर्वाणस्य**  
+शासितुः शासनानुरूपस्य काल-विशेषादि-नियतस्य कैङ्कर्यस्य  
+पित्त-परिहारार्थ--क्षीर-सेवक-रीतिं **विहाय**   
+अ-यत्न-लब्धेनौपधेनाविलम्बितम् आरोग्यं **प्राप्तवन्तो**  
+यथा क्षीरं **परिप्लाय भुञ्जते**,  
+तथा प्रीत्या **ऽनुष्ठानम्**, 
+</details>
+
+<details><summary>English</summary>
+
+In the same way (though the prapanna does not expect any profit out of it)  
+he performs gladly the rites commanded and permitted by the Supreme Ruler,  
+which are really services to the Lord,  
+in accordance with the specific time and place at which they are ordained for performance.  
+
+(In performing them), he should resemble  
+not those who drink milk for relief from excess of pitta ~~bile~~,  
+but like those who have got well easily and quickly with the help of a medicine  
+and who drink milk with pleasure (not as a cure for disease ).
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera (aunque la Prapanna no espera ganancias)  
+Realiza con gusto los ritos comandados y permitidos por el gobernante supremo,  
+que son realmente servicios para el Señor,  
+de acuerdo con el tiempo y el lugar específicos en el que están ordenados para su rendimiento.
+
+(Al realizarlos), debe parecerse  
+No aquellos que beben leche para aliviar el exceso de Pitta ~~ Bile ~~,  
+Pero al igual que aquellos que se han vuelto bien y rápido con la ayuda de un medicamento  
+y que beben leche con placer (no como una cura para la enfermedad).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अज्ञानुज्ञै कळाले यडिमै कॊळ्ळुगिऱ शासिताविऩुडैय शासनत्तुक्कुप्पॊरुन्दिऩ कालविशेषादिनियतमाऩ कैङ्कर्यत्तै पित्तपरिहारार्थमाग क्षीरसेवैप् पण्णुवारैप्पोलऩ्ऱिक्के अयत्नलब्धमाऩ औषधत्ताले अविळम्बितमाग आरोग्यम् पॆऱ्ऱवर्गळ् पाल् वार्त्तुण्णुमाप्पोले युगन्दु पण्णवुम्, 
+</details>
+
+
+
 
 SERVICE TO ARCĀ:
 
