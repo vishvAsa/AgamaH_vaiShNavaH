@@ -4871,20 +4871,323 @@ En cuanto a un rey, con materiales ganados rectamente.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्-वृत्तियै वाऴ्क्कैप्-पट्ट वधूविऩ् माङ्गळ्य-सूत्रादि-रक्षण-मात्रम् आग निऩैत्त् इरुक्कवुम्, 
+इव्-वृत्तियै वाऴ्क्कैप्-पट्ट वधूविऩ् माङ्गळ्य-सूत्रादि-रक्षण-मात्रम् आग निऩैत्त् इरुक्कवुम्, +++(5)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्यां वृत्तौ -  
+उदूढ-वधू--मङ्गल-सूत्रादि-रक्षण[रूप]त्व-प्रतिपत्तिमत्तया स्थितिः 
+</details>
+
+<details><summary>English</summary>
+
+He should look upon this service  
+as a wedded wife would look upon the careful custody of her sacred wedding-thread and the like.  
+</details>
+
+<details><summary>Español</summary>
+
+Debería mirar este servicio  
+como esposa casada, miraría la cuidadosa custodia de su sagrado hilo de boda y similares.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इव्वृत्तियै वाऴ्क्कैप्पट्ट वधूविऩ् माङ्गळ्यसूत्रादि रक्षणमात्रमाग निऩैत्तिरुक्कवुम्, 
 </details>
 
+## सद्-आचार्ये कृत-ज्ञत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-He should look upon this service  
-as a wedded wife would look upon the careful custody of her sacred wedding-thread and the like.  
+इप्-पडि भगवद्-उपक्रमम् आय् भागवत-पर्यन्तम् आग वरुगिऱ कैङ्कर्याख्य-पुरुषार्थ-सिद्धिक्कु प्रधान-कारणम्; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवं भगवद्-उपक्रमं भागवत-पर्यन्तं वर्धमानायाः कैकर्याख्य- पुरुषार्थ-सिद्धेः प्रधान-कारणं 
+</details>
+
+<details><summary>English</summary>
+
+He should have the conviction that  
+he has attained this ultimate aim of life,  
+which begins from service to Bhagavān and extends up to the service to His devotees, by …
+</details>
+
+<details><summary>Español</summary>
+
+Debería tener la convicción de que  
+ha alcanzado este objetivo final de la vida,  
+que comienza del servicio a Bhagavān y se extiende hasta el servicio a sus devotos, por ...
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि भगवदुपक्रममाय् भागवतपर्यन्तमाग वरुगिऱ कैङ्कर्याख्यपुरुषार्थसिद्धिक्कु प्रधानकारणम्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**पापिष्ठः** क्षत्र-बन्धुश् च  
+पुण्डरीकश् च **पुण्य-कृत्** ।  
+आचार्यवत्तया **मुक्तौ**  
+तस्माद् **आचार्यवान् भवेत्** ॥’’
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विषयः</summary>
+
+आचार्यः
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘**पापिष्ठः** क्षत्र-बन्धुश् च  
+पुण्डरीकश् च **पुण्य-कृत्** ।  
+आचार्यवत्तया **मुक्तौ**  
+तस्माद् **आचार्यवान् भवेत्** ॥’’
+
+इति
+</details>
 
 
-He should have the conviction that he has attained this ultimate aim of life, which begins from service to Bhagavān and extends up to the service to His devotees, by his relationship with his good ācārya  : for it has been said: "Kshatrabandhu, the great sinner, and Puṇḍarīka the virtuous, both attained mokṣa  by having ācāryas" So also has it been said (in Tamil) :- "Our ācharyas are like bees which place us at the (flower-like holy feet of the Lord, who is our Master and who renders help to the eternal sūris and "If **** Viṣṇu cittar ( Perialvar) who was born in the city of Villipattur and who was perfect in the qualities of the spirit, by some means in his power, make the Lord appear before us, we can see" (That is to say - without the grace of Viṣṇucitta, the ācharya, they cannot do anything themselves). The prapanna should feel grateful at the thought of the expansion of knowledge which the ācāryas have wrought in him and of such things as the service (of the Lord and His devotees) which have resulted from it. He should behave towards them as towards the servants (of the palace) who light the lamps and keep them burning on the night before the coronation of the prince (as a token of their rejoicing). He should feel grateful also to the Lord at the thought of His innate compassion which is the common and primary cause of all these and which, in the state of mukti, removes the dreaded possibility of a break in the enjoyment of Bhagavān whose independent will cannot be questioned. For it has been said:-- "The Lord **** makes us climb up to Vaikuṇṭha   through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha   after performing prapatti by uttering the words 'Namo Narana', He will not let one come back to the world of saṁsāra, even if one should furnish security for going back to Vaikuṇṭha  ". (Nammalvar) says: "The firm feet of Nārāyaṇa whose praise is unsurpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavān" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord looks after (our) welfare by taking us to His feet and by preventing our fall therefrom". The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī, whose will is ever absolute and who, even after mokṣa , shows the same compassion as during saṁsāra. (The Alvar describes this compassion in the following words);- "By Thy grace and the grace of Thy Spouse who lives in the lotus, I served at Thy temple of old"
+<details><summary>English</summary>
+
+for it has been said: 
+
+> "Kshatrabandhu, the great sinner,  
+> and Puṇḍarīka the virtuous,  
+> both attained mokṣa  by having ācāryas" 
+</details>
+
+<details><summary>Español</summary>
+
+porque se ha dicho:
+
+> "Kshatrabandhu, el gran pecador,  
+> y puṇḍarīka el virtuoso,  
+> Ambos alcanzaron mokṣa al tener ācāryas "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘पापिष्ठः क्षत्रबन्धुश्च पुण्डरीकश्च पुण्यकृत् ।  
+आचार्यवत्तया मुक्तौ तस्मादाचार्यवान् भवेत् ॥’’()  
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'ऎम्म्-ईशर् विण्णोर्+++(=दिविषदां)+++ पिराऩार्+++(=उदारः)+++ मास्+++(=दोष)+++-इऩ्+++(←ल्)+++ मलर्-अडिक्-कीऴ्  
+> ऎम्मैच् शेर्-विक्कुम् वण्डुगळे+++(=मधुपाः)+++'  
+> (तिरुविरुत्तम् ५४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अस्मद्-ईशस्य दिवि-षदाम् उपकारकस्य निर्दोष-चरणकमलयोर् अधस्ताद् अस्माकं प्रापका अमराः" 
+
+इति 
+</details>
+
+
+<details><summary>English</summary>
+
+So also has it been said (in Tamil) :- 
+
+> Our ācharyas are like bees  
+> which place us at the flower-like holy feet of the Lord,  
+> who is our Master  
+> and who renders help to the eternal sūris 
+</details>
+
+<details><summary>Español</summary>
+
+Así también se ha dicho (en tamil):-
+
+> Nuestras ācharyas son como abejas  
+> que nos colocan en los pies santos del Señor, en forma de flor,  
+> Quién es nuestro maestro  
+> Y quién brinda ayuda a los sūris eternos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'ऎम्मीसर् विण्णोर् पिराऩार् मासिऩ् मलरडिक्कीऴॆम्मैच् चेर्विक्कुम् वण्डुगळे'(तिरुविरुत्तम् ५४) ऎऩ्ऱुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'विल्लि+++(=धन्वि)+++-पुदुवै-नगर्-नम्बि+++(=पूर्णः)+++ विट्टु-सित्तर् तङ्गळ् देवरै  
+> वल्ल+++(=शक्य)+++-परिशु+++(=रीत्या)+++ **वरुविप्परेल्, अदु काण्डुमेय् +++(=पश्येम)+++**'  
+> (नाच्चियार् तिरुमॊऴि १०-१०।)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> धन्वि-नव्य-पुरीशः पूर्णो विष्णु-चित्तः स्वं देवं  
+> शक्येन यत्नेनाऽऽनयेच् चेत्, तत् पश्येम"  
+
+इति चोक्त-रीतिक-
+</details>
+
+
+<details><summary>English</summary>
+
+and 
+
+> "If Viṣṇu cittar ( Perialvar) who was born in the city of Villipattur  
+> and who was perfect in the qualities of the spirit,  
+> by some means in his power, make the Lord appear before us, we can see" 
+
+(That is to say - without the grace of Viṣṇucitta, the ācharya,  
+they cannot do anything themselves). 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Si Viṣṇu Cittar (Perialvar) que nació en la ciudad de Villipattur  
+> y quién era perfecto en las cualidades del espíritu,  
+> de alguna manera en su poder, haz que el Señor aparezca ante nosotros, podemos ver "
+
+(Es decir, sin la gracia de Viṣṇucitta, El ācharya,  
+no pueden hacer nada ellos mismos). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'विल्लिबुदुवैनगर् नम्बि विट्टु सित्तर् तङ्गळ् तेवरै वल्ल परिसु वरुविप्परेलदुगाण्डुमेय्'(नाच्चियार् तिरुमॊऴि १०-१०।) ऎऩ्ऱुञ्जॊल्लुगिऱबडिये  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सद्-आचार्य-सम्बन्धमेय् ऎऩ्ऱु विश्वसित्तु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सदाचार्य-संबन्ध एवेति विश्वस्य 
+</details>
+
+
+<details><summary>English</summary>
+
+his relationship with his good ācārya
+</details>
+
+<details><summary>Español</summary>
+
+su relación con su buena ācārya
+</details>
+
+<details><summary>मूलम्</summary>
+
+सदाचार्यसम्बन्धमेयॆऩ्ऱु विश्वसित्तु, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अभिषेकम् पण्णप् पुगुगिऱ** राज-कुमारऩुक्कु  
+रात्रियिल् **विळक्क् एऱ्ऱि वैक्कुमाप्** पोले  
+तऩक्कु अवर्गळ् पण्णिऩ वॆळिच्+++(=स्पष्टता)+++-चिऱप्पैयुम्+++(=समृद्धिम्)+++  
+अद्-अडियागत् तऩक्कु **वन्द** कैङ्कर्यादिगळैयुम् **अनुसन्धित्तु**  
+अवर्गळ् पक्कलिले **कृतज्ञऩ् आय् इरुक्कवुम्**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**अभिषेक्ष्यमाणस्य** राज-कुमारस्य कृते रात्रौ दीप-**प्रज्वालनवत्**  
+स्वस्य तैः **साधितां** ज्ञान-**समृद्धिं**  
+तन्-मूलकानि **स्वस्योपनतानि** कैङ्कर्यादीनि **चानुसन्धाय**  
+तद्-विषये **कार्तज्ञ्येनावस्थानम्**
+</details>
+
+<details><summary>English</summary>
+
+The prapanna should feel grateful at the thought of the expansion of knowledge  
+which the ācāryas have wrought in him  
+and of such things as the service (of the Lord and His devotees) which have resulted from it. 
+
+He should behave towards them  
+as towards the servants (of the palace) who light the lamps  and keep them burning on the night before the coronation of the prince (as a token of their rejoicing).  
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna debe sentirse agradecida por la idea de la expansión del conocimiento  
+que los ācāryas han forjado en él  
+y de cosas como el servicio (del Señor y sus devotos) que han resultado de él.
+
+Debería comportarse con ellos  
+como hacia los sirvientes (del palacio) que encienden las lámparas y las mantienen ardiendo la noche anterior a la coronación del príncipe (como una muestra de su regocijo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अभिषेकम् पण्णप् पुगुगिऱ राजकुमारऩुक्कु रात्रियिल् विळक्केऱ्ऱि वैक्कुमाप्पोले तऩक्कु अवर्गळ् पण्णिऩ वॆळिच्चिऱप्पैयुम् अदडियागत् तऩक्कु वन्द कैङ्कर्यादिगळैयुमनुसन्धित्तु अवर्गळ् पक्कलिले कृतज्ञऩायिरुक्कवुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् ऎल्लात्तुक्कुम् साधारणम् आऩ प्रधान-कारणमुम् आय्  
+मुक्तदशैयिल् आत्मानुबन्धिय् आऩ भगवद्-अनुभवत्तैप् पऱ्ऱ  
+अपर्य्-अनुयोज्य-स्वातन्त्र्यम् अडिय् आग  
+**शङ्कितम् आम् विच्छेदत्तुक्कुम् परिहारम् आय् इरुप्पदु**;  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषां सर्वेषाम् अपि साधारणं प्रधान-कारण-भूतं तावत् -  
+मुक्त-दशायाम् आत्मानुबन्धि-भगवद्-अनुभव-विषये अपर्यनुयोज्य-स्वातन्त्र्य-बलाच्  
+**छङ्कितस्य विच्छेदस्य परिहारकतया वर्तमानम्**,  
+</details>
+
+<details><summary>English</summary>
+
+He should feel grateful also to the Lord at the thought of His innate compassion  
+which is the common and primary cause of all these  
+and which, in the state of mukti, removes the dreaded possibility of a break in the enjoyment of Bhagavān  
+whose independent will cannot be questioned. 
+</details>
+
+<details><summary>Español</summary>
+
+Debería sentirse agradecido también al Señor al pensar en su compasión innata  
+que es la causa común y principal de todos estos  
+y que, en el estado de Mukti, elimina la temida posibilidad de una ruptura en el disfrute de Bhagavān  
+cuya voluntad independiente no puede ser cuestionada.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयॆल्लात्तुक्कुम् साधारणमाऩ प्रधानकारणमुमाय् मुक्तदशैयिल्आत्मानुबन्धियाऩ भगवदनुभवत्तैप्पऱ्ऱ अपर्यनुयोज्यस्वातन्त्र्यमडियाग शङ्कितमाम् विच्छेदत्तुक्कुम् परिहारमायिरुप्पदु;  
+</details>
+
+
+
+
+
+For it has been said:-- "The Lord **** makes us climb up to Vaikuṇṭha   through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha   after performing prapatti by uttering the words 'Namo Narana', He will not let one come back to the world of saṁsāra, even if one should furnish security for going back to Vaikuṇṭha  ". (Nammalvar) says: "The firm feet of Nārāyaṇa whose praise is unsurpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavān" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord looks after (our) welfare by taking us to His feet and by preventing our fall therefrom". The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī, whose will is ever absolute and who, even after mokṣa , shows the same compassion as during saṁsāra. (The Alvar describes this compassion in the following words);- "By Thy grace and the grace of Thy Spouse who lives in the lotus, I served at Thy temple of old"
 
 WHAT THE PRAPANNA SHOULD DO WITH HIS MIND,
 
