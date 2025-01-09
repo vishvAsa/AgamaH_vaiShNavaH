@@ -4103,6 +4103,8 @@ por el bien de algunos devotos con devoción exclusiva hacia él;
 
 > ‘‘सर्वातिशयि-षाड्गुण्यं  
 > संस्थितं मन्त्र-बिम्बयोः +++(लक्षण-लक्ष्ययोः)+++’’  
+> (मन्त्रे वाच्यात्मना नित्यं  
+>  बिम्बे तु कृपया स्वयम्)  
 > (विष्वक्सेनसंहिता) 
 
 ऎऩ्गिऱ पूर्तियैयुम्,  
@@ -4112,6 +4114,8 @@ por el bien de algunos devotos con devoción exclusiva hacia él;
 
 > ‘‘सर्वातिशयि-षाड्गुण्यं  
 > संस्थितं मन्त्र-बिम्बयोः +++(लक्षण-लक्ष्ययोः)+++’’  
+> (मन्त्रे वाच्यात्मना नित्यं  
+>  बिम्बे तु कृपया स्वयम्)  
 > (विष्वक्सेनसंहिता) 
 
 इत्य्-उक्तां पूर्तिम्, 
@@ -4144,6 +4148,17 @@ Esto muestra la plenitud de la perfección,
 
 ‘‘सर्वातिशयिषाड्गुण्यं संस्थितं मन्त्रबिम्बयोः’’(विष्वक्सेनसंहिता) ऎऩ्गिऱ पूर्तियैयुम्,  
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩि अर्चावतारत्तिल् गुणपूर्तियुम्, पावनत्वमुम्, विरोधिनिवर्तकत्वमुम्, आश्रितपारतन्त्र्यमुम्, भोग्यत्वादिगळुम् विञ्जि यिरुक्कुमॆऩ्बदिल् प्रमाणम् काट्टुगिऱार् सर्वातिशायीति । मन्त्रबिम्बयोः - मन्त्रत्तिलुम् बिम्बत्तिलुमिरुक्किऱ भगवाऩिडत्तिले, षाड्गुण्यं - ज्ञानशक्तिबलैश्वर्यवीर्यतेजस्सागिऱ आऱु कुणङ्गळ्। स्वार्थेष्यञ् । सर्वातिशायि - परव्यूहादिगळैक्काट्टिलुम् अतिशयितमाग - सौलभ्यादिसामानाधिकरण्यत्ताले अतिशयितमाग वॆऩ्ऱबडि, संस्थितं – परिपूर्णमाग स्थित मॆऩ्गै।  
+
+> ‘‘मन्त्रे वाच्यात्मना नित्यं 
+>  बिम्बे तु कृपया स्वयम्’’ 
+
+ऎऩ्बदु उत्तरार्धम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4199,6 +4214,12 @@ Esto muestra cuán sumamente purificador es el arcā.
 
 ऎऩ्गिऱ पावनतमत्वत्तैयुम्,  
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्गिऱ पूर्तियैयुम् - इन्द श्लोकत्तिल् सॊऩ्ऩ कल्याणगुणपूर्तियैयुम्। पावनत्वे प्रमाणम् आपीठादिति । आपीठात् – पाद-आपीठात् – पाद-पीठम् मुदल्, मौळिपर्यन्तं - किरीटपर्यन्तम्, अथवा केशबन्धपर्यन्तम्। पुरुषोत्तमं पश्यतः – अर्चारूपियाऩ भगवाऩैप् पार्क्कुमवऩुक्कु, पातकानि – स्वर्णस्तेयादिमहापातकङ्गळुम्, आशु - सीक्किरत्तिल्, नश्यन्ति - नशित्तुप्पोगिऱदुगळ्। उपपातकन्तु किमुत - अल्बमाऩ उपपातकादिगळ् नशिक्कुमॆऩ्बदु कैमुतिकन्यायसिद्धम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4273,6 +4294,12 @@ Y de nuevo se dice -
 कुहेतुश्च कुभावश्च नास्तिकत्वं लयं व्रजेत्’’(पौष्करसंहिता।)  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+पावनतमत्वत्तैयुम् - उपपातकसमपातक-महापातकादिनाशकत्वप्रयुक्त पावनत्व पावनतरत्व पावनतमत्वत्तैयुमॆऩ्ऱबडि। विरोधिनिवर्तकत्वे प्रमाणम् सन्दर्शनादिति । सम्मूढचेतसां – अत्यन्तम् मूढमाऩ चेतस्सैयुडैयवर्गळाऩ। पामरर्गळाऩ वॆऩ्ऱबडि। पुंसां अकस्माच्च सन्दर्शनात् - आकस्मिकमाऩवर्चावतारत्तिऩुडैय सन्दर्शनत्ताले - ताऩ् प्रयत्ऩप्पडामलुम् मुऩ् पिऩ् योसिक्काददुमाऩ सन्दर्शनात् ऎऩ्ऱबडि। प्रत्यक्षादिप्रमाणत्रयत्तिलुम् - प्रत्यक्षानुमानागमरूपप्रमाणत्रयत्तिलुम्। हेतुफल भावत्ताले - कार्यकारणभावत्ताले, वरुम् मदिमयक्कुगळ् - अदिल् प्रत्यक्षभ्रमत्तुक्कु हेदु कुवासना - भ्रमजन्यः संस्कारविशेषः । कुबुद्धिः – अदऩाल् वरुम् प्रत्यक्षभ्रमम्। कुतर्कनिचयः – अनुमानभ्रमहेतुः । कुहेतुः – अनुमानभ्रमः । कुभावः – शब्दत्तिल् तात्पर्यभ्रमम्। नास्तिकत्वं – नास्तिकत्वहेतुवाऩ वाक्यार्थभ्रमम्। इवैगळ् ऎल्लात्तुक्कुम् - इन्द श्लोकङ्गळिऱ्सॊऩ्ऩ इवैगळॆल्लावऱ्ऱिऱ्कुम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्गिऱ बडिये प्रत्यक्षादि-प्रमाण-त्रयत्तिलुम्  
@@ -4302,6 +4329,103 @@ que surge de una falsa comprensión de la causa y el efecto.
 ऎऩ्गिऱबडिये प्रत्यक्षादिप्रमाणत्रयत्तिलुम् हेतु-फलभावत्ताले वरुम् मदिमयक्कुगळॆल्लात्तुक्कुम् मरुन्दायिरुक्किऱबडियैयुम्, 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+मरुन्दायिरुक्किऱबडियैयुम् - निवर्तकमायिरुक्किऱ प्रकारत्तैयुम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ये यथा मां प्रपद्यन्ते  
+> तांस् तथैव भजाम्य् अहम्’’  
+> (गीता ४-११) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘ये यथा मां प्रपद्यन्ते  
+> तांस् तथैव भजाम्य् अहम्’’  
+> (गीता ४-११) 
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+> "Whoever wants to see me and in whatever form -  
+> to him I reveal myself in that very form." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Quien quiera verme y en cualquier forma -  
+> Para él me revelo en esa misma forma ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्’’(गीता ४-११) ऎऩ्ऱुम्, 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इऩि आश्रितपारतन्त्र्यत्तिल् प्रमाणम् काट्टुगिऱार् ये यथेति । ये - ऎन्द अधिकारिकळ्, यथा – कालत्तालुम् देशत्तालुम्, उबगरणत्तालुम् ऎन्दॆन्द अवसरत्तिल् तऩ् अवस्थैक्कनुगुणमाऩ अर्घ्यादिमात्रेणवा, महोपचारसमर्पणे न वा, प्रपद्यन्ते – समाराधयन्ति । तांस्तथैव भजाम्यहं – तत्तद्देशकालानुगुणमागवुम् तत्तदवस्थानुगुणमागवुम् तत्तच्चित्तानुगुण मागवुम् आराधनविषयऩाय्क्कॊण्डु नाऩ् अवर्गळिडत्तिल् प्रीतियैप् पण्णुगिऱेऩ्। अत्र गीताभाष्यम् – 
+
+> ‘‘न केवलं देवमनुष्यादिरूपेणावतीर्य  
+> मत्-समाश्रयणापेक्षाणां परित्राणं करोमि ।  
+> अपि तु ये मत्-समाश्रयणापेक्षाः  
+> यथा येन प्रकारेण स्वापेक्षानुरूपं मां सङ्कल्प्य प्रपद्यन्ते – समाश्रयन्ते,  
+> तान् प्रति तथैव – तन्-मनीषित-प्रकारेणैव भजामि – मां दर्शयामि’’ 
+
+इति । 
+
+अत्र तु तात्पर्यचन्द्रिकाः – 
+
+> स्वापेक्षानुरूपम् इति । पतित्व-पुत्रत्व-सारथित्व-वाराह-नारसिंहादि-प्रक्रिययेत्य् अर्थः’’ 
+
+इति । 
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तमर् उगन्दद्+++(=काङ्क्षितम्)+++ ऎव्व्-उरुवम्+++(=रूपम्)+++'  
+(मुदल् तिरुवन्दादि ४४।)   
+
+ऎऩ्गिऱ पाट्टिलुञ्जॊल्लुगिऱबडिये 
+</details>
+
+<details><summary>English</summary>
+
+The same thing is stated also (in the Tamil verse)  
+
+> "He assumes the form desired by His devotees.” 
+</details>
+
+<details><summary>Español</summary>
+
+Lo mismo se dice también (en el verso tamil)  
+
+> "Asume la forma deseada por sus devotos".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'तमरुगन्ददॆव्वुरुवम्'(मुदल् तिरुवन्दादि ४४।)  ऎऩ्गिऱ पाट्टिलुञ्जॊल्लुगिऱबडिये 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तमरित्यादि । तमर् - आश्रितर्, उगन्ददॆव्वुरुवम् - ऎव्वुरुवत्तै भगवाऩुक्कुत् तिरुमेऩियाग उगन्दार्गळो; अव्वुरुवम् - अदैये तऩक्कुत् तिरुमेऩियाग उडैत्ताऩ ऎऩ्गै। 
+</details>
 
 
 While rendering this service,  
@@ -4313,7 +4437,13 @@ he should do these acts
 
 
 
-The prapanna should meditate on the Lord's placing Himself at the disposal of those who seek His protection in a manner which cannot be understood by the mind or described in words, for it has been said, "Whoever wants to see me and in whatever form - to him I reveal myself in that very form." The same thing is stated also (in the Tamil verse) "He assumes the form desired by His devotees.” He should also meditate on the alluring beauty of the Lord of which (the Alvar) says "The eyes that have seen the Lord will refuse to see other things." Having done so, the prapanna should render service suited to the respective relationships between him and the Lord (such as master and servant, father and son) and to His supreme majesty and easy accessibility, in accordance with the following verses :-"One should render service to the Lord like a chaste matron to her beloved husband, like a mother to her suckling, like a disciple to his ācārya  and like a friend to his friend. The Lord of Lakṣmī  should always be looked upon as a master, as a friend, as an ācharya, as a father and as a mother", "One should serve the Lord with as much fear as one would approach a king who is youthful, and an elephant in rut. In the same way as one would entertain a welcome guest who has come to one's house, one should worship the Lord with devotion, remembering His easy accessibility.” “One should treat the Lord with as much affection as one would a beloved child".
+The prapanna should meditate on the Lord's placing Himself at the disposal of those who seek His protection in a manner which cannot be understood by the mind or described in words, for it has been said, 
+
+
+
+
+
+He should also meditate on the alluring beauty of the Lord of which (the Alvar) says "The eyes that have seen the Lord will refuse to see other things." Having done so, the prapanna should render service suited to the respective relationships between him and the Lord (such as master and servant, father and son) and to His supreme majesty and easy accessibility, in accordance with the following verses :-"One should render service to the Lord like a chaste matron to her beloved husband, like a mother to her suckling, like a disciple to his ācārya  and like a friend to his friend. The Lord of Lakṣmī  should always be looked upon as a master, as a friend, as an ācharya, as a father and as a mother", "One should serve the Lord with as much fear as one would approach a king who is youthful, and an elephant in rut. In the same way as one would entertain a welcome guest who has come to one's house, one should worship the Lord with devotion, remembering His easy accessibility.” “One should treat the Lord with as much affection as one would a beloved child".
 
 Like Bharatalvan who conducted himself like a servant of a king before (ŚrīRāma's ) sandals and of whom it is said, "While the sandals were ruling, Bharata placed, before them first, whatever business had to be transacted and whatever valuable tributes were brought and then accomplished whatever had to be done in the manner in which it should be done", — like him the prapanna should render service as to a king, with materials earned righteously. He should look upon this service as a wedded wife would look upon the careful custody of her sacred wedding - thread and the like. He should have the conviction that he has attained this ultimate aim of life, which begins from service to Bhagavān and extends up to the service to His devotees, by his relationship with his good ācārya  : for it has been said: "Kshatrabandhu, the great sinner, and Puṇḍarīka the virtuous, both attained mokṣa  by having ācāryas" So also has it been said (in Tamil) :- "Our ācharyas are like bees which place us at the (flower-like holy feet of the Lord, who is our Master and who renders help to the eternal sūris and "If **** Viṣṇu cittar ( Perialvar) who was born in the city of Villipattur and who was perfect in the qualities of the spirit, by some means in his power, make the Lord appear before us, we can see" (That is to say - without the grace of Viṣṇucitta, the ācharya, they cannot do anything themselves). The prapanna should feel grateful at the thought of the expansion of knowledge which the ācāryas have wrought in him and of such things as the service (of the Lord and His devotees) which have resulted from it. He should behave towards them as towards the servants (of the palace) who light the lamps and keep them burning on the night before the coronation of the prince (as a token of their rejoicing). He should feel grateful also to the Lord at the thought of His innate compassion which is the common and primary cause of all these and which, in the state of mukti, removes the dreaded possibility of a break in the enjoyment of Bhagavān whose independent will cannot be questioned. For it has been said:-- "The Lord **** makes us climb up to Vaikuṇṭha   through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha   after performing prapatti by uttering the words 'Namo Narana', He will not let one come back to the world of saṁsāra, even if one should furnish security for going back to Vaikuṇṭha  ". (Nammalvar) says: "The firm feet of Nārāyaṇa whose praise is unsurpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavān" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord looks after (our) welfare by taking us to His feet and by preventing our fall therefrom". The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī, whose will is ever absolute and who, even after mokṣa , shows the same compassion as during saṁsāra. (The Alvar describes this compassion in the following words);- "By Thy grace and the grace of Thy Spouse who lives in the lotus, I served at Thy temple of old"
 
