@@ -4771,12 +4771,515 @@ de acuerdo con los versos anteriores ~~ siguientes ~~.
 अव्वो सम्बन्धवर्गं – प्रियभर्तृत्वादिरूपम्। अप्पोदु - अनुरूपवृत्तियैप् पण्णुम्बोदु। 
 </details>
 
-## न्याय्य-वृत्तिता
+### प्रातिनिध्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्पोदु
+
+> ‘‘तदा हि यत् **कार्यम् उपैति** किञ्चिद्  
+**उपायनं चोपहृतं** महार्हं ।  
+स पादुकाभ्यां प्रथमं **निवेद्य**  
+**चकार** पश्चाद् भरतो यथावत्’’+++(5)+++  
+(रामायणम् - अयोध्या-काण्डम् ११५-२७)
+</details>
+
+
+<details><summary>विषयः</summary>
+
+सेवा, पादुका, भरतः, कैङ्कर्यम्
+</details>
+
+
+<details><summary>स्रोतः</summary>
+
+रामायणम् - अयोध्या-काण्डम् ११५-२७
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तदा
+
+> ‘‘तदा हि यत् **कार्यम् उपैति** किञ्चिद्  
+**उपायनं चोपहृतं** महार्हं ।  
+स पादुकाभ्यां प्रथमं **निवेद्य**  
+**चकार** पश्चाद् भरतो यथावत्’’+++(5)+++  
+(रामायणम् - अयोध्या-काण्डम् ११५-२७)
+</details>
+
+<details><summary>English</summary>
+
+> "While the sandals were ruling,  
+> Bharata placed, before them first,  
+> whatever business had to be transacted  
+> and whatever valuable tributes were brought  
+> and then accomplished whatever had to be done  
+> in the manner in which it should be done"
+</details>
+
+<details><summary>Español</summary>
+
+> "Mientras las sandalias gobernaban,  
+> Bharata colocó, ante ellos primero,  
+> Cualquier negocio tenía que ser realizado  
+> y cualquier tributo valioso que se trajera  
+> Y luego logró lo que tuviera que hacer  
+> en la manera en que se debe hacer "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तदा हि यत्कार्यमुपैति किञ्चिदुपायनं चोपहृतं महार्हं ।  
+स पादुकाभ्यां प्रथमं निवेद्य चकार पश्चाद्भरतो यथावत्’’  
+(रामायणम् अयोध्या-काण्डम् ११५-२७)
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अर्चैयिल् सेवै पण्णुम् प्रकारत्तै सदृष्टान्तमरुळिच्चॆय्गिऱार् तदाहीति । तदा – पादुकैयै मुऩ्ऩिट्टु राज्यपरिपालनम् पण्णुम् समयत्तिल्। स भरतः – अन्द भरतऩ्। यत्किञ्चित्कार्यं – दुष्टनिग्रह शिष्टपरिपालनरूपकार्यम्। उपैति - वरुगिऱदो; महार्हं – अत्युत्कृष्टमाऩ, उपायनं - काणिक्कै, उपहृतञ्च – राजाक्कळाल् समर्पिक्कप्पट्टदो; तत्सर्वम्पादुकाभ्यां प्रथमं निवेद्य - मुदलिलेये विज्ञापित्तु, पश्चात् - पिऩ्बु, यथावत् – शास्त्रोक्त प्रकारमाग चकार - ऎन्दॆन्द कर्मावै ऎप्पडिच् चॆय्यवेण्डुमो अप्पडिये पण्णिऩाऩॆऩ्ऱबडि। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु तिरुव्-अडि-निलैगळ्+++(←पादुके)+++-विषयत्तिल्  
+श्री-भरताऴ्वाऩ् नडत्तिऩ राज-**सेवक-वृत्तियै** **न्यायार्जित**-द्रव्यङ्गळाले **नडत्तवुम्**,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति श्री-पादुका-विषये भक्त-श्री-भरतानुष्ठिताया राज-**सेवक-वृत्तेर्** **न्यायार्जित**-द्रव्यैः **संपादनम्** 
+</details>
+
+
+<details><summary>English</summary>
+
+Like Bharatalvan who conducted himself like a servant of a king before (ŚrīRāma's ) sandals and of whom it is said (as above) -  
+like him the prapanna should render service  
+as to a king, with materials earned righteously.  
+</details>
+
+<details><summary>Español</summary>
+
+Como Bharatalvan, que se condució como un sirviente de un rey, antes de las sandalias (de śrīrāma),  
+y de las cuales se dice (como se indicó) -
+Como él, la Prapanna debería prestar servicio  
+En cuanto a un rey, con materiales ganados rectamente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु तिरुवडि निलैगळ्विषयत्तिल् श्रीभरताऴ्वाऩ् नडत्तिऩ राजसेवकवृत्तियै न्यायार्जितद्रव्यङ्गळाले नडत्तवुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+तिरुवडि निलैगळ् - पादुकैगळ्। इव्वृत्तियैयनुष्टिक्कुम्बोदु शुद्धद्रव्यत्ताले अनुष्टिक्क वेण्डुमॆऩ्गिऱार् न्यायार्जितद्रव्यङ्गळाले नडत्तवुमिति । इङ्गु अवधारणम् विवक्षितम्। अदऩाल् अन्यायार्जितद्रव्यनिषेधः, इदिल् प्रमाणम् 
+
+> ‘‘अन्यायार्जितवित्तेन  
+> योऽर्चयेत् पुरुषोत्तमम् ।  
+> न स तत् प्रतिगृह्णाति  
+> विफलं तस्य तद्भवेत्’’ 
+
+इति । 
+</details>
 
 
 
 
-Like Bharatalvan who conducted himself like a servant of a king before (ŚrīRāma's ) sandals and of whom it is said, "While the sandals were ruling, Bharata placed, before them first, whatever business had to be transacted and whatever valuable tributes were brought and then accomplished whatever had to be done in the manner in which it should be done", — like him the prapanna should render service as to a king, with materials earned righteously. He should look upon this service as a wedded wife would look upon the careful custody of her sacred wedding - thread and the like. He should have the conviction that he has attained this ultimate aim of life, which begins from service to Bhagavān and extends up to the service to His devotees, by his relationship with his good ācārya  : for it has been said: "Kshatrabandhu, the great sinner, and Puṇḍarīka the virtuous, both attained mokṣa  by having ācāryas" So also has it been said (in Tamil) :- "Our ācharyas are like bees which place us at the (flower-like holy feet of the Lord, who is our Master and who renders help to the eternal sūris and "If **** Viṣṇu cittar ( Perialvar) who was born in the city of Villipattur and who was perfect in the qualities of the spirit, by some means in his power, make the Lord appear before us, we can see" (That is to say - without the grace of Viṣṇucitta, the ācharya, they cannot do anything themselves). The prapanna should feel grateful at the thought of the expansion of knowledge which the ācāryas have wrought in him and of such things as the service (of the Lord and His devotees) which have resulted from it. He should behave towards them as towards the servants (of the palace) who light the lamps and keep them burning on the night before the coronation of the prince (as a token of their rejoicing). He should feel grateful also to the Lord at the thought of His innate compassion which is the common and primary cause of all these and which, in the state of mukti, removes the dreaded possibility of a break in the enjoyment of Bhagavān whose independent will cannot be questioned. For it has been said:-- "The Lord **** makes us climb up to Vaikuṇṭha   through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha   after performing prapatti by uttering the words 'Namo Narana', He will not let one come back to the world of saṁsāra, even if one should furnish security for going back to Vaikuṇṭha  ". (Nammalvar) says: "The firm feet of Nārāyaṇa whose praise is unsurpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavān" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord looks after (our) welfare by taking us to His feet and by preventing our fall therefrom". The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī, whose will is ever absolute and who, even after mokṣa , shows the same compassion as during saṁsāra. (The Alvar describes this compassion in the following words);- "By Thy grace and the grace of Thy Spouse who lives in the lotus, I served at Thy temple of old"
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-वृत्तियै वाऴ्क्कैप्-पट्ट वधूविऩ् माङ्गळ्य-सूत्रादि-रक्षण-मात्रम् आग निऩैत्त् इरुक्कवुम्, +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्यां वृत्तौ -  
+उदूढ-वधू--मङ्गल-सूत्रादि-रक्षण[रूप]त्व-प्रतिपत्तिमत्तया स्थितिः 
+</details>
+
+<details><summary>English</summary>
+
+He should look upon this service  
+as a wedded wife would look upon the careful custody of her sacred wedding-thread and the like.  
+</details>
+
+<details><summary>Español</summary>
+
+Debería mirar este servicio  
+como esposa casada, miraría la cuidadosa custodia de su sagrado hilo de boda y similares.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वृत्तियै वाऴ्क्कैप्पट्ट वधूविऩ् माङ्गळ्यसूत्रादि रक्षणमात्रमाग निऩैत्तिरुक्कवुम्, 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इव्वृत्तियै भगवाऩुक्कु उबगारम् पण्णुवदाग ऎण्णक्कूडादु; किन्तु तऩ् स्वरूपत्तिऱ्कवश्यप्राप्तमाग ऎण्णवेण्डु मॆऩ्गिऱार् इव्वृत्तियै इत्यादिना ।   
+वाऴ्क्कैप्पट्ट वधू – पतिगृहत्तिलिरुक्कुम् सुवासिनी । 
+
+> ‘‘माङ्गल्य-सूत्र-वस्त्राणि  
+> संरक्षति यथा वधूः ।  
+> तथा प्रपन्नश् शास्त्रीय-  
+> पति-कैङ्कर्य-पद्धतिम्’’+++(5)+++ 
+
+ऎऩ्ऱु सॊऩ्ऩबडि पतिव्रतै माङ्गळ्यसूत्रवस्त्रादिधारणङ्गळै स्वपुरुषार्थमाग निऩैत्तिरुक्कुमाप्पोले प्रपन्नऩुम् भगवत्कैङ्कर्यङ्गळै स्वपुरुषार्थमाग निऩैत्तिरुक्कवेण्डुमॆऩ्ऱबडि। 
+</details>
+
+
+
+## सद्-आचार्ये कृत-ज्ञत्वम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि भगवद्-उपक्रमम् आय् भागवत-पर्यन्तम् आग वरुगिऱ कैङ्कर्याख्य-पुरुषार्थ-सिद्धिक्कु प्रधान-कारणम्; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवं भगवद्-उपक्रमं भागवत-पर्यन्तं वर्धमानायाः कैकर्याख्य- पुरुषार्थ-सिद्धेः प्रधान-कारणं 
+</details>
+
+<details><summary>English</summary>
+
+He should have the conviction that  
+he has attained this ultimate aim of life,  
+which begins from service to Bhagavān and extends up to the service to His devotees, by …
+</details>
+
+<details><summary>Español</summary>
+
+Debería tener la convicción de que  
+ha alcanzado este objetivo final de la vida,  
+que comienza del servicio a Bhagavān y se extiende hasta el servicio a sus devotos, por ...
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि भगवदुपक्रममाय् भागवतपर्यन्तमाग वरुगिऱ कैङ्कर्याख्यपुरुषार्थसिद्धिक्कु प्रधानकारणम्; 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इक्कैङ्कर्यसिद्धिक्कॆल्लाम् प्रधान-कारणम् सदाचार्यसम्बन्धमॆऩ्ऱु निऩैक्कवेण्डुमॆऩ्बदै सप्रमाणमागक् काट्टुगिऱार् इप्पडि भगवदुपक्रममायित्यादिना । प्रधानकारणमिति । इदऱ्कु सदाचार्यसम्बन्धमॆऩ्बदोडन्वयम्। मोक्षत्तिऱ्कु भक्तिप्रपत्तिरूपकारणान्तरमिरुक्कच् चॆय्दे अक्कारणान्तरसिद्धियुम् सदाचार्यसम्बन्धत्तालेये वरवेण्डुमॆऩ्बदै निऩैत्तदैये मुक्तिकारणमाग ‘‘आचार्यवत्तया मुक्तौ’’ ऎऩ्ऱु सॊल्लियिरुप्पदाल् उपायानुष्ठानोत्तरकालिकभगवद्भागवतकैङ्कर्य सिद्धिक्कुम् अदुवे प्रधानकारणमॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘**पापिष्ठः** क्षत्र-बन्धुश् च  
+पुण्डरीकश् च **पुण्य-कृत्** ।  
+आचार्यवत्तया **मुक्तौ**  
+तस्माद् **आचार्यवान् भवेत्** ॥’’
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विषयः</summary>
+
+आचार्यः
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘**पापिष्ठः** क्षत्र-बन्धुश् च  
+पुण्डरीकश् च **पुण्य-कृत्** ।  
+आचार्यवत्तया **मुक्तौ**  
+तस्माद् **आचार्यवान् भवेत्** ॥’’
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+for it has been said: 
+
+> "Kshatrabandhu, the great sinner,  
+> and Puṇḍarīka the virtuous,  
+> both attained mokṣa  by having ācāryas" 
+</details>
+
+<details><summary>Español</summary>
+
+porque se ha dicho:
+
+> "Kshatrabandhu, el gran pecador,  
+> y puṇḍarīka el virtuoso,  
+> Ambos alcanzaron mokṣa al tener ācāryas "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘पापिष्ठः क्षत्रबन्धुश्च पुण्डरीकश्च पुण्यकृत् ।  
+आचार्यवत्तया मुक्तौ तस्मादाचार्यवान् भवेत् ॥’’()  
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'ऎम्म्-ईशर् विण्णोर्+++(=दिविषदां)+++ पिराऩार्+++(=उदारः)+++ मास्+++(=दोष)+++-इऩ्+++(←ल्)+++ मलर्-अडिक्-कीऴ्  
+> ऎम्मैच् शेर्-विक्कुम् वण्डुगळे+++(=मधुपाः)+++'  
+> (तिरुविरुत्तम् ५४) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अस्मद्-ईशस्य दिवि-षदाम् उपकारकस्य निर्दोष-चरणकमलयोर् अधस्ताद् अस्माकं प्रापका अमराः" 
+
+इति 
+</details>
+
+
+<details><summary>English</summary>
+
+So also has it been said (in Tamil) :- 
+
+> Our ācharyas are like bees  
+> which place us at the flower-like holy feet of the Lord,  
+> who is our Master  
+> and who renders help to the eternal sūris 
+</details>
+
+<details><summary>Español</summary>
+
+Así también se ha dicho (en tamil):-
+
+> Nuestras ācharyas son como abejas  
+> que nos colocan en los pies santos del Señor, en forma de flor,  
+> Quién es nuestro maestro  
+> Y quién brinda ayuda a los sūris eternos
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'ऎम्मीसर् विण्णोर् पिराऩार् मासिऩ् मलरडिक्कीऴॆम्मैच् चेर्विक्कुम् वण्डुगळे'(तिरुविरुत्तम् ५४) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎम्मीसर् - अस्मदुपलक्षितलीलाविभूतिक्कीसऩाय्, विण्णोर् - नित्यसूरिकळुक्कु, पिराऩार् - नित्यविभूतियिल् स्वात्मदानम् पण्णि उपकरिक्कुमवराऩ पगवाऩुडैय, मासिऩ् - दोषमिल्लाद, हेय-प्रतिभटमाऩवॆऩ्ऱबडि। मलरडिक्कीऴ् - तामरसपुष्पम्बोऩ्ऱ तिरुवडियिऩ् कीऴ्, ऎम्मैच् चेर्विक्कुम् वण्डुगळे - ऎम्मै प्रापिक्कुम् वण्डुगळे, भगवत्पादकमलैकरसिकर्गळागैयाल् आचार्यर्गळै भ्रमरत्वेन रूपणम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'विल्लि+++(=धन्वि)+++-पुदुवै-नगर्-नम्बि+++(=पूर्णः)+++ विट्टु-सित्तर् तङ्गळ् देवरै  
+> वल्ल+++(=शक्य)+++-परिशु+++(=रीत्या)+++ **वरुविप्परेल्, अदु काण्डुमेय् +++(=पश्येम)+++** +++(नान्यथा)+++'  
+> (नाच्चियार् तिरुमॊऴि १०-१०।)  
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> धन्वि-नव्य-पुरीशः पूर्णो विष्णु-चित्तः स्वं देवं  
+> शक्येन यत्नेनाऽऽनयेच् चेत्, तत् पश्येम +++(नान्यथा)+++"  
+
+इति चोक्त-रीतिक-
+</details>
+
+
+<details><summary>English</summary>
+
+and 
+
+> "If Viṣṇu cittar ( Perialvar) who was born in the city of Villipattur  
+> and who was perfect in the qualities of the spirit,  
+> by some means in his power, make the Lord appear before us, we can see" 
+
+(That is to say - without the grace of Viṣṇucitta, the ācharya,  
+they cannot do anything themselves). 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Si Viṣṇu Cittar (Perialvar) que nació en la ciudad de Villipattur  
+> y quién era perfecto en las cualidades del espíritu,  
+> de alguna manera en su poder, haz que el Señor aparezca ante nosotros, podemos ver "
+
+(Es decir, sin la gracia de Viṣṇucitta, El ācharya,  
+no pueden hacer nada ellos mismos). 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'विल्लिबुदुवैनगर् नम्बि विट्टु सित्तर् तङ्गळ् तेवरै वल्ल परिसु वरुविप्परेलदुगाण्डुमेय्'(नाच्चियार् तिरुमॊऴि १०-१०।) ऎऩ्ऱुञ्जॊल्लुगिऱबडिये  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+विल्लिबुदुवै इत्यादि । विल्लिबुदुवै नगर् - विल्लिबुत्तूरॆऩ्गिऱ नगरत्तिल् अवदरित्त, नम्बि - आत्मगुणपरिपूर्णराऩ, विट्टुसित्तर् - पॆरियाऴ्वार्। तङ्गळ् तेवरै - तमक्कु देवतैयाऩ श्रियःपतियै, वल्लबरिसु - तमक्कु शक्यमाऩ प्रकारत्ताले, उपायत्ताले ऎऩ्ऱबडि। वरुविप्परेल् - नाम् कैङ्कर्यम्बण्णि वाऴुम्बडि वश्यरागुवारागिल्, अदु काण्डुमे - अत्तैक्काण्बोम्। नम्माल् सॆय्यक्कूडियदु ऒऩ्ऱु मिल्लैयॆऩ्ऱबडि। ऎऩ्ऱुञ्जॊल्लुगिऱबडिये - श्लोकत्तिलुम् पाट्टिलुम् सॊल्लुगिऱबडिये। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सद्-आचार्य-सम्बन्धमेय् ऎऩ्ऱु विश्वसित्तु, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सदाचार्य-संबन्ध एवेति विश्वस्य 
+</details>
+
+
+<details><summary>English</summary>
+
+his relationship with his good ācārya
+</details>
+
+<details><summary>Español</summary>
+
+su relación con su buena ācārya
+</details>
+
+<details><summary>मूलम्</summary>
+
+सदाचार्यसम्बन्धमेयॆऩ्ऱु विश्वसित्तु, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्ऱु विश्वसित्तु इति । ऎऩ्गिऱ नम्बिक्कैयोडिरुक्क वेण्डुमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अभिषेकम् पण्णप् पुगुगिऱ** राज-कुमारऩुक्कु  
+रात्रियिल् **विळक्क् एऱ्ऱि वैक्कुमाप्** पोले  
+तऩक्कु अवर्गळ् पण्णिऩ वॆळिच्+++(=स्पष्टता)+++-चिऱप्पैयुम्+++(=समृद्धिम्)+++  
+अद्-अडियागत् तऩक्कु **वन्द** कैङ्कर्यादिगळैयुम् **अनुसन्धित्तु**  
+अवर्गळ् पक्कलिले **कृतज्ञऩ् आय् इरुक्कवुम्**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**अभिषेक्ष्यमाणस्य** राज-कुमारस्य कृते रात्रौ दीप-**प्रज्वालनवत्**  
+स्वस्य तैः **साधितां** ज्ञान-**समृद्धिं**  
+तन्-मूलकानि **स्वस्योपनतानि** कैङ्कर्यादीनि **चानुसन्धाय**  
+तद्-विषये **कार्तज्ञ्येनावस्थानम्**
+</details>
+
+<details><summary>English</summary>
+
+The prapanna should feel grateful at the thought of the expansion of knowledge  
+which the ācāryas have wrought in him  
+and of such things as the service (of the Lord and His devotees) which have resulted from it. 
+
+He should behave towards them  
+as towards the servants (of the palace) who light the lamps  and keep them burning on the night before the coronation of the prince (as a token of their rejoicing).  
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna debe sentirse agradecida por la idea de la expansión del conocimiento  
+que los ācāryas han forjado en él  
+y de cosas como el servicio (del Señor y sus devotos) que han resultado de él.
+
+Debería comportarse con ellos  
+como hacia los sirvientes (del palacio) que encienden las lámparas y las mantienen ardiendo la noche anterior a la coronación del príncipe (como una muestra de su regocijo).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अभिषेकम् पण्णप् पुगुगिऱ राजकुमारऩुक्कु रात्रियिल् विळक्केऱ्ऱि वैक्कुमाप्पोले तऩक्कु अवर्गळ् पण्णिऩ वॆळिच्चिऱप्पैयुम् अदडियागत् तऩक्कु वन्द कैङ्कर्यादिगळैयुमनुसन्धित्तु अवर्गळ् पक्कलिले कृतज्ञऩायिरुक्कवुम्, 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+अवर्गळाल् वन्द ज्ञानङ्गळैयुम् कैङ्कर्यत्तैयुमनुसन्धिक्क वेण्डुमॆऩ्गिऱार् अभिषेकमित्यादिना । अभिषेकम् पण्णप्पुगुगिऱ - श्वः अभिषेक्ष्यमाणऩाऩ, राजकुमारऩुक्कु, रात्रियिल् - मुदल्नाळ् रात्तिरियिले, विळक्केऱ्ऱि वैक्कुमाप्पोले इति । ऒरु राजकुमारऩुक्कु नाळैक्कु अभिषेकम् पण्णप् पोगिऱदाऩाल् राजान्तरङ्गर्गळ् उपचारार्थम् दीपिकासहस्रमेऱ्ऱिवैप्पदु वऴक्कम्। अदऩाल् राजकुमारऩुक्कु हर्षमुम्, श्वः अभिषेकोऽवश्यं भविष्यतीति निर्णयमुम्, तदनुगुणकार्यप्रवृत्तियुमुण्डागुम्। तादृशदीपारोपणम्बोले यॆऩ्ऱबडि। वॆळिच्चिऱप्पैयुम् - मोक्षमागिऱ दिनत्तिऱ्कु पूर्वरात्रिपोले यिरुक्किऱ संसारत्तिलवर्गळुण्डुबण्णिऩ तत्त्वहितपुरुषार्थज्ञानत्तैयुम्, अदडियाग - तन्मूलमाग, तऩक्कु वन्द - उत्तरकालत्तिल् तऩक्कुण्डाऩ, कैङ्कर्यादिगळैयुम् - भगवद्भागवताचार्यकैङ्कर्यङ्गळैयुम्, आदिपदत्ताल् मोक्षत्वरैक्कु, सङ्ग्रहम्। कृतज्ञऩायिरुक्कवुम् - इदऱ्कुम् प्राप्तमॆऩ्बदोडन्वयम् 
+</details>
+
+
+## देवे कृत-ज्ञता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवैय् ऎल्लात्तुक्कुम् साधारणम् आऩ प्रधान-कारणमुम् आय्  
+मुक्तदशैयिल् आत्मानुबन्धिय् आऩ भगवद्-अनुभवत्तैप् पऱ्ऱ  
+अपर्य्-अनुयोज्य-स्वातन्त्र्यम् अडिय् आग  
+**शङ्कितम् आम् विच्छेदत्तुक्कुम् परिहारम् आय् इरुप्पदु**;  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एषां सर्वेषाम् अपि साधारणं प्रधान-कारण-भूतं तावत् -  
+मुक्त-दशायाम् आत्मानुबन्धि-भगवद्-अनुभव-विषये अपर्यनुयोज्य-स्वातन्त्र्य-बलाच्  
+**छङ्कितस्य विच्छेदस्य परिहारकतया वर्तमानम्**,  
+</details>
+
+<details><summary>English</summary>
+
+He should feel grateful also to the Lord at the thought of His innate compassion  
+which is the common and primary cause of all these  
+and which, in the state of mukti, removes the dreaded possibility of a break in the enjoyment of Bhagavān  
+whose independent will cannot be questioned. 
+</details>
+
+<details><summary>Español</summary>
+
+Debería sentirse agradecido también al Señor al pensar en su compasión innata  
+que es la causa común y principal de todos estos  
+y que, en el estado de Mukti, elimina la temida posibilidad de una ruptura en el disfrute de Bhagavān  
+cuya voluntad independiente no puede ser cuestionada.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवैयॆल्लात्तुक्कुम् साधारणमाऩ प्रधानकारणमुमाय् मुक्तदशैयिल्आत्मानुबन्धियाऩ भगवदनुभवत्तैप्पऱ्ऱ अपर्यनुयोज्यस्वातन्त्र्यमडियाग शङ्कितमाम् विच्छेदत्तुक्कुम् परिहारमायिरुप्पदु;  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩि सहजकारुण्यविशिष्टश्रियःपतिविषयत्तिलुम् कृतज्ञऩायिरुक्कवेण्डुमॆऩ्गिऱार् इवैयॆल्लात्तुक्कुमित्यादियाल्। कार्यसामान्यकारणमाय् कीऴ् प्रधानकारणमागच् चॊऩ्ऩ आचार्यसम्बन्धत्तिऱ्कुम् हेतुवागैयाले प्रधानकारणमुमायॆऩ्ऱबडि। मुक्तदशैयिल् - उपेयावस्थैयिल्, आत्मानुबन्धियाऩ - यावत्स्वरूपभावियाऩ, भगवदनुभवत्तैप्पऱ्ऱ - भगवदनुभवतैयुत्तेसित्तु, अपर्यनुयोज्यस्वातन्त्र्यं – एऩ् इप्पडिच् चॆय्वदॆऩ्ऱु केट्क वुम् कूडाद स्वातन्त्र्यम्, शङ्कितमाम् विच्छेदत्तुक्कुम् - ‘‘यदि परमपुरुषायत्तं’’ ऎऩ्गिऱ शारीर कभाष्यत्तिल् शङ्किक्कप्पट्ट विच्छेदत्तुक्कुम्, परिहारमायिरुप्पदु - इदऱ्कु सहजकारुण्य मॆऩ्बदोडन्वयम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'इरुळ् अगऱ्ऱुम्+++(=निरासक)+++ ऎरि-गदिरोऩ्+++(=किरणऩ्)+++  
+> मण्डलत्त् ऊड्+++(=मध्य)+++ **एऱ्ऱि**+++(=आरोप्य)+++ **वैत्त्** एणि **वाङ्गिय्**'  
+> (पॆरियाऴ्वार् तिरुमॊऴि ४-९-३) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "70 अन्धकार-निरासक-ज्वलत्-किरणकस्य मण्डल-मध्य-द्वारा **आरोप्य** **स्थापयित्वा** निश्रेणिकाम् **अवसाय**" 
+
+इति 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'इरुळगऱ्ऱुमॆरिगदिरोऩ् मण्डलत्तूडेऱ्ऱिवैत्तेणिवाङ्गिय्'(पॆरियाऴ्वार् तिरुमॊऴि ४-९-३) ऎऩ्ऱुम्, 
+</details>
+
+
+
+For it has been said:-- "The Lord **** makes us climb up to Vaikuṇṭha   through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha   after performing prapatti by uttering the words 'Namo Narana', He will not let one come back to the world of saṁsāra, even if one should furnish security for going back to Vaikuṇṭha  ". (Nammalvar) says: "The firm feet of Nārāyaṇa whose praise is unsurpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavān" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord looks after (our) welfare by taking us to His feet and by preventing our fall therefrom". The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī, whose will is ever absolute and who, even after mokṣa , shows the same compassion as during saṁsāra. (The Alvar describes this compassion in the following words);- "By Thy grace and the grace of Thy Spouse who lives in the lotus, I served at Thy temple of old"
 
 WHAT THE PRAPANNA SHOULD DO WITH HIS MIND,
 
