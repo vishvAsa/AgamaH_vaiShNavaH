@@ -4771,12 +4771,120 @@ de acuerdo con los versos anteriores ~~ siguientes ~~.
 अव्वो सम्बन्धवर्गं – प्रियभर्तृत्वादिरूपम्। अप्पोदु - अनुरूपवृत्तियैप् पण्णुम्बोदु। 
 </details>
 
-## न्याय्य-वृत्तिता
+### प्रातिनिध्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्पोदु
+
+> ‘‘तदा हि यत् **कार्यम् उपैति** किञ्चिद्  
+**उपायनं चोपहृतं** महार्हं ।  
+स पादुकाभ्यां प्रथमं **निवेद्य**  
+**चकार** पश्चाद् भरतो यथावत्’’+++(5)+++  
+(रामायणम् - अयोध्या-काण्डम् ११५-२७)
+</details>
 
 
+<details><summary>विषयः</summary>
+
+सेवा, पादुका, भरतः, कैङ्कर्यम्
+</details>
 
 
-Like Bharatalvan who conducted himself like a servant of a king before (ŚrīRāma's ) sandals and of whom it is said, "While the sandals were ruling, Bharata placed, before them first, whatever business had to be transacted and whatever valuable tributes were brought and then accomplished whatever had to be done in the manner in which it should be done", — like him the prapanna should render service as to a king, with materials earned righteously. He should look upon this service as a wedded wife would look upon the careful custody of her sacred wedding - thread and the like. He should have the conviction that he has attained this ultimate aim of life, which begins from service to Bhagavān and extends up to the service to His devotees, by his relationship with his good ācārya  : for it has been said: "Kshatrabandhu, the great sinner, and Puṇḍarīka the virtuous, both attained mokṣa  by having ācāryas" So also has it been said (in Tamil) :- "Our ācharyas are like bees which place us at the (flower-like holy feet of the Lord, who is our Master and who renders help to the eternal sūris and "If **** Viṣṇu cittar ( Perialvar) who was born in the city of Villipattur and who was perfect in the qualities of the spirit, by some means in his power, make the Lord appear before us, we can see" (That is to say - without the grace of Viṣṇucitta, the ācharya, they cannot do anything themselves). The prapanna should feel grateful at the thought of the expansion of knowledge which the ācāryas have wrought in him and of such things as the service (of the Lord and His devotees) which have resulted from it. He should behave towards them as towards the servants (of the palace) who light the lamps and keep them burning on the night before the coronation of the prince (as a token of their rejoicing). He should feel grateful also to the Lord at the thought of His innate compassion which is the common and primary cause of all these and which, in the state of mukti, removes the dreaded possibility of a break in the enjoyment of Bhagavān whose independent will cannot be questioned. For it has been said:-- "The Lord **** makes us climb up to Vaikuṇṭha   through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha   after performing prapatti by uttering the words 'Namo Narana', He will not let one come back to the world of saṁsāra, even if one should furnish security for going back to Vaikuṇṭha  ". (Nammalvar) says: "The firm feet of Nārāyaṇa whose praise is unsurpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavān" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord looks after (our) welfare by taking us to His feet and by preventing our fall therefrom". The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī, whose will is ever absolute and who, even after mokṣa , shows the same compassion as during saṁsāra. (The Alvar describes this compassion in the following words);- "By Thy grace and the grace of Thy Spouse who lives in the lotus, I served at Thy temple of old"
+<details><summary>स्रोतः</summary>
+
+रामायणम् - अयोध्या-काण्डम् ११५-२७
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तदा
+
+> ‘‘तदा हि यत् **कार्यम् उपैति** किञ्चिद्  
+**उपायनं चोपहृतं** महार्हं ।  
+स पादुकाभ्यां प्रथमं **निवेद्य**  
+**चकार** पश्चाद् भरतो यथावत्’’+++(5)+++  
+(रामायणम् - अयोध्या-काण्डम् ११५-२७)
+</details>
+
+<details><summary>English</summary>
+
+> "While the sandals were ruling,  
+> Bharata placed, before them first,  
+> whatever business had to be transacted  
+> and whatever valuable tributes were brought  
+> and then accomplished whatever had to be done  
+> in the manner in which it should be done"
+</details>
+
+<details><summary>Español</summary>
+
+> "Mientras las sandalias gobernaban,  
+> Bharata colocó, ante ellos primero,  
+> Cualquier negocio tenía que ser realizado  
+> y cualquier tributo valioso que se trajera  
+> Y luego logró lo que tuviera que hacer  
+> en la manera en que se debe hacer "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तदा हि यत्कार्यमुपैति किञ्चिदुपायनं चोपहृतं महार्हं ।  
+स पादुकाभ्यां प्रथमं निवेद्य चकार पश्चाद्भरतो यथावत्’’  
+(रामायणम् अयोध्या-काण्डम् ११५-२७)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु तिरुव्-अडि-निलैगळ्+++(←पादुके)+++-विषयत्तिल्  
+श्री-भरताऴ्वाऩ् नडत्तिऩ राज-**सेवक-वृत्तियै** **न्यायार्जित**-द्रव्यङ्गळाले **नडत्तवुम्**,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति श्री-पादुका-विषये भक्त-श्री-भरतानुष्ठिताया राज-**सेवक-वृत्तेर्** **न्यायार्जित**-द्रव्यैः **संपादनम्** 
+</details>
+
+
+<details><summary>English</summary>
+
+Like Bharatalvan who conducted himself like a servant of a king before (ŚrīRāma's ) sandals and of whom it is said (as above) -  
+like him the prapanna should render service  
+as to a king, with materials earned righteously.  
+</details>
+
+<details><summary>Español</summary>
+
+Como Bharatalvan, que se condució como un sirviente de un rey, antes de las sandalias (de śrīrāma),  
+y de las cuales se dice (como se indicó) -
+Como él, la Prapanna debería prestar servicio  
+En cuanto a un rey, con materiales ganados rectamente.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु तिरुवडि निलैगळ्विषयत्तिल् श्रीभरताऴ्वाऩ् नडत्तिऩ राजसेवकवृत्तियै न्यायार्जितद्रव्यङ्गळाले नडत्तवुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्-वृत्तियै वाऴ्क्कैप्-पट्ट वधूविऩ् माङ्गळ्य-सूत्रादि-रक्षण-मात्रम् आग निऩैत्त् इरुक्कवुम्, 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वृत्तियै वाऴ्क्कैप्पट्ट वधूविऩ् माङ्गळ्यसूत्रादि रक्षणमात्रमाग निऩैत्तिरुक्कवुम्, 
+</details>
+
+
+He should look upon this service  
+as a wedded wife would look upon the careful custody of her sacred wedding-thread and the like.  
+
+
+He should have the conviction that he has attained this ultimate aim of life, which begins from service to Bhagavān and extends up to the service to His devotees, by his relationship with his good ācārya  : for it has been said: "Kshatrabandhu, the great sinner, and Puṇḍarīka the virtuous, both attained mokṣa  by having ācāryas" So also has it been said (in Tamil) :- "Our ācharyas are like bees which place us at the (flower-like holy feet of the Lord, who is our Master and who renders help to the eternal sūris and "If **** Viṣṇu cittar ( Perialvar) who was born in the city of Villipattur and who was perfect in the qualities of the spirit, by some means in his power, make the Lord appear before us, we can see" (That is to say - without the grace of Viṣṇucitta, the ācharya, they cannot do anything themselves). The prapanna should feel grateful at the thought of the expansion of knowledge which the ācāryas have wrought in him and of such things as the service (of the Lord and His devotees) which have resulted from it. He should behave towards them as towards the servants (of the palace) who light the lamps and keep them burning on the night before the coronation of the prince (as a token of their rejoicing). He should feel grateful also to the Lord at the thought of His innate compassion which is the common and primary cause of all these and which, in the state of mukti, removes the dreaded possibility of a break in the enjoyment of Bhagavān whose independent will cannot be questioned. For it has been said:-- "The Lord **** makes us climb up to Vaikuṇṭha   through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha   after performing prapatti by uttering the words 'Namo Narana', He will not let one come back to the world of saṁsāra, even if one should furnish security for going back to Vaikuṇṭha  ". (Nammalvar) says: "The firm feet of Nārāyaṇa whose praise is unsurpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavān" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord looks after (our) welfare by taking us to His feet and by preventing our fall therefrom". The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī, whose will is ever absolute and who, even after mokṣa , shows the same compassion as during saṁsāra. (The Alvar describes this compassion in the following words);- "By Thy grace and the grace of Thy Spouse who lives in the lotus, I served at Thy temple of old"
 
 WHAT THE PRAPANNA SHOULD DO WITH HIS MIND,
 
