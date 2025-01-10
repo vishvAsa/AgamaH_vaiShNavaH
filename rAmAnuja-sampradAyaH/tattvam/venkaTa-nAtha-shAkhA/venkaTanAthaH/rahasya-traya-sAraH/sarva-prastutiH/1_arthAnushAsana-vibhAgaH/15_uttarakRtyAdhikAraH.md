@@ -5665,6 +5665,12 @@ con su mente, su discurso y su cuerpo:
 परिहरणीयङ्गळिलुम् परिग्राह्यङ्गळिलुम् सारम् इरुक्कुम् बडि सॊल्लुगिऱोम्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्मिन्न् उत्तर-कृत्ये मनो वाक् काय इति **व्यवह्रियमाणैः** करणैस् त्रिभिः  
+**परिहरणीयेषु परिग्राह्येषु** च सारं **ब्रूमः**।
+</details>
+
 <details><summary>English</summary>
 
 About this code of conduct (of the prapanna) we will now state what is considered as the essence  
@@ -5683,6 +5689,7 @@ y también con respecto a lo que debe observarse o seguido por ellos:
 
 इव्वुत्तरकृत्यत्तिल् मनोवाक्कायङ्गळॆऩ्ऱु सॊल्लुगिऱ करणङ्गळ् मूऩ्ऱालुम् परिहरणीयङ्गळिलुम् परिग्राह्यङ्गळिलुम् सारमिरुक्कुम्बडि सॊल्लुगिऱोम्। 
 </details>
+
 
 
 ### विषया हेयाः
@@ -5717,6 +5724,16 @@ porque el veneno mata solo al hombre que lo come,
 mientras que los objetos de sentido matan incluso en su mero pensamiento ".
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘विषस्य विषयाणाञ् च  
+> दूरम् अत्यन्तम् अन्तरम् ।  
+> **उपभुक्तं** विषं **हन्ति**  
+> विषयास् स्मरणाद् अपि’’+++(5)+++
+
+इति
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -5728,10 +5745,24 @@ mientras que los objetos de sentido matan incluso en su mero pensamiento ".
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> 'आविदिगैक्क वैवर् कुमैक्कुञ्जिऱ्ऱिऩ्बम् पावियेऩैप् पल नी काट्टिप्पडुप्पायोय्'(तिरुवाय्मॊऴि ६-९-९) 
+> 'आवि+++(=मनः)+++-**तिगैक्क्**+++(=व्याकुलतायै)+++ अव् ऐवर् **कुमैक्कुञ्**+++(=पीडक)+++-शिऱ्ऱ्-**इऩ्बम्**  
+> पावियेऩैप् पल नी काट्टिप् पडुप्पायोय्?'  
+> (तिरुवाय्मॊऴि ६-९-९) 
 
 ऎऩ्ऱुञ् 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१२६]]
+
+> मनो व्याकुलं यथा स्यात्  
+> पञ्चेन्द्रियायत्त-बाधाश्लिष्टम् अल्प-सुखं  
+> पापिनं मां प्रति बहु प्रदर्श्य नाशयसि किम्?" 
+
+इत्य्-उक्तत्वात् 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -5765,6 +5796,13 @@ También se ha dicho,
 मऱक्क-वेण्डुम् अवऱ्ऱिल् प्रधानं विषयास्वादम्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परम-पुरुार्थ-रुचेर् अभङ्गाय  
+विस्मर्तव्येषु प्रधान-भूतो विषयास्वादः 
+</details>
+
+
 <details><summary>English</summary>
 
 Therefore in order that the desire for the ultimate object of life may not languish,  
@@ -5790,6 +5828,12 @@ es el disfrute de los placeres sensoriales.
 
 कृतघ्नतै वारामैक्क् आग निऩैक्क वेण्डुम्-अवऱ्ऱिल् प्रधानम्  
 आचार्यऩ् सॆय्द प्रथम-कटाक्षम् मुदल्-आऩ उपकारम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कृतघ्नताया अ-प्रसक्तये स्मरणीयेषु प्रधान-भूत  
+आचार्य-कृतः प्रथम-कटाक्षादिर् उपकारः । 
 </details>
 
 <details><summary>English</summary>
@@ -5821,6 +5865,12 @@ desde el momento en que su mirada cayó sobre nosotros.
 कार्पण्यङ् गुलैयामैक्क् आगच् चॊल्लाद् ऒऴिय-वेण्डुम्-अवऱ्ऱिल् प्रधानम् आत्मोत्कर्षम्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कार्पण्यस्याविनाशार्थं **अ-वक्तव्येषु** प्रधान-भूत आत्मोत्कर्षः । 
+</details>
+
+
 <details><summary>English</summary>
 
 In order that we may not lose the sense of helplessness,  
@@ -5840,24 +5890,163 @@ es la expresión de nuestra excelencia.
 कार्पण्यङ्गुलैयामैक् कागच् चॊल्लादॊऴियवेण्डुमवऱ्ऱिल् प्रधानम् आत्मोत्कर्षम्। 
 </details>
 
-## उपाय-निष्ठा
+### उपाय-निष्ठा
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपायनिष्ठैयै मऱवामैक्क् आग  
-‘‘सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्गिऱबडिये सॊल्लवेण्डु मवऱ्ऱिल् प्रधानम् द्वयम्। 
+उपाय-निष्ठैयै मऱवामैक्क् आग  
+‘‘सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्गिऱ बडिये सॊल्ल-वेण्डुम्-अवऱ्ऱिल् प्रधानम् द्वयम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपाय-निष्ठाया अविस्मरणार्थं  
+"78 सदैव वक्ता " इत्य्-उक्त-रीत्या  
+**वक्तव्येषु** प्रधानं द्वयम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+In order that one may not forget one's conviction in the upāya,  
+the chief among the things that should be uttered is Dvaya;  
+(the Bhāṣyakāra says) 
+
+> “one should ever utter the Dvaya with an understanding of its meaning ". 
+</details>
+
+<details><summary>Español</summary>
+
+Para que uno no pueda olvidar la convicción de uno en el upāya,  
+El jefe de las cosas que deberían pronunciarse es Dvaya;  
+(El Bhāṣyakāra dice) 
+
+> "Uno debería pronunciar el dvaya con una comprensión de su significado".
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+उपायनिष्ठैयै मऱवामैक्काग ‘‘सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्गिऱबडिये सॊल्लवेण्डुमवऱ्ऱिल् प्रधानम् द्वयम्। 
+</details>
+
+### भगवत्-प्रीति-रक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उगन्दु पणि-गॊळ्ळ उरियऩ्+++(=योग्यः)+++ आऩव् ऎम्-बॆरुमाऩ् तिरुव्-उळ्ळम् अऴलामैक्क् आग  
+करण-त्रयत्तालुम् 'सॆय्यादऩ सॆय्योम्'(तिरुप्पावै २) ऎऩ्ऩुम् अवऱ्ऱिल् प्रधानम् ब्रह्म-विद्-अपचारम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रेम्णा कैङ्कर्यं स्वीकर्तुम् अधिकृतस्य स्वामिनो हृदये  
+कोपानुत्पत्तये करण-त्रयेणापि  
+"अ-कृत्यं न कुर्मः" इत्य्-उक्तेषु (अकर्तव्येषु) प्रधानभूतो ब्रह्म-विद्-अपचारः। 
+</details>
+
+
+<details><summary>English</summary>
+
+In order that Bhagavān  
+who is entitled to receive our service with pleasure  
+may not become displeased at heart,  
+the most important among those that should be avoided by all the three senses  
+is offence to those that know Brahman;  
+as Andal says, 
+
+> “ We will never do what ought not to be done". 
+</details>
+
+<details><summary>Español</summary>
+
+Para que bhagavān  
+quien tiene derecho a recibir nuestro servicio con placer  
+puede que no se disgusten de corazón,  
+Los más importantes entre los que deben ser evitados por los tres sentidos  
+es una ofensa para aquellos que conocen a Brahman;  
+Como dice Andal, 
+
+> "Nunca haremos lo que no se debe hacer".
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+उगन्दु पणिगॊळ्ळ उरियऩाऩ वॆम्बॆरुमाऩ् तिरुवुळ्ळमऴलामैक्काग करणत्रयत्तालुम् 'सॆय्यादऩ सॆय्योम्'(तिरुप्पावै २) ऎऩ्ऩुमवऱ्ऱिल् प्रधानम् ब्रह्मविदपचारम्।  
+</details>
+
+### भागवत-कैङ्कर्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषार्थ-सागरम् वऱ्ऱुदल्+++(=शोषणम्)+++ वरैय्+++(=तीर[वत्])+++-इडुदल् सॆय्यामैक्क् आग  
+करण-त्रयत्तालुम् कर्तव्यङ्गळिल् प्रधानम्  
+भगवत्-कैङ्कर्यत्तिऩ् ऎल्लै निलम् आय्  
+शास्त्रानुज्ञातम् आऩ  
+आचार्यादि-भागवत-**कैङ्कर्यम्**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पुरुषार्थ-सागरस्य क्षय-ह्रासानापादनार्थं कर्तव्येषु प्रधानम् -  
+भगवत्-कैवर्यस्य सीमा-भूमि-भूतं शास्त्रानुज्ञातम् आचार्यादि-भागवत-कैङ्कर्यम् ।
+</details>
+
+
+<details><summary>English</summary>
+
+In order that the sea of our supreme aim in life may not dry up or become shallow,  
+the most important among those things that should be done is service to the ācārya and other devotees of Bhagavān  
+as ordained in the śāstras  
+and forming the outer limit of the service of the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+Para que el mar de nuestro objetivo supremo en la vida  
+no se sece o se vuelva superficial,  
+Lo más importante entre esas cosas que se deben hacer  
+es el servicio al ācārya y otros devotos de Bhagavān  
+según lo ordenado en los Śāstras  
+y formando el límite exterior del servicio del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुरुषार्थसागरम् वऱ्ऱुदल् वरैयिडुदल् सॆय्यामैक्काग करणत्रयत्तालुम् कर्तव्यङ्गळिल् प्रधानम् भगवत्कैङ्कर्यत्तिऩॆल्लै निलमाय् शास्त्रानुज्ञातमाऩ आचार्यादिभागवतकैङ्कर्यम्, 
+</details>
+
+## रहस्य-त्रये ऽनुसन्धानम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वयं-प्रयोजनम् आऩ इव्व्-उत्तर-कृत्यमुम्  
+रहस्य-त्रयत्तिल् फल-प्रतिपादकङ्गळ् आऩ प्रदेशङ्गळिले अनुसन्धेयम्।+++(4)+++  
+</details>
+
+<details><summary>English</summary>
+
+This code of conduct which should be followed after prapatti  
+and which is an end in itself  
+should be considered in those parts of the three mysteries (mantras )  
+which indicate the benefit or fruit that results.
+</details>
+
+<details><summary>Español</summary>
+
+Este código de conducta que debe seguirse después de Prapatti  
+y que es un fin en sí mismo  
+debe considerarse en esas partes de los tres misterios (mantras)  
+que indican el beneficio o la fruta que resulta.
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपायनिष्ठैयै मऱवामैक्काग ‘‘सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्गिऱबडिये सॊल्लवेण्डु मवऱ्ऱिल् प्रधानम् द्वयम्। 
+स्वयंप्रयोजनमाऩ इव्वुत्तरकृत्यमुम् रहस्यत्रयत्तिल् फलप्रतिपादकङ्गळाऩ प्रदेशङ् गळिले अनुसन्धेयम्।  
 </details>
 
-
-In order that one may not forget one's conviction in the upāya,  
-the chief among the things that should be uttered is Dvaya; (the Bhāṣyakāra says) “one should ever utter the Dvaya with an understanding of its meaning ". In order that Bhagavān who is entitled to receive our service with pleasure may not become displeased at heart, the most important among those that should be avoided by all the three senses is offence to those that know Brahman; as Andal says, “ We will never do what ought not to be done". In order that the sea of our supreme aim in life may not dry up or become shallow, the most important among those things that should be done is service to the ācārya  and other devotees of Bhagavān as ordained in the śāstras and forming the outer limit of the service of the Lord.
-
-This code of conduct which should be followed after prapatti and which is an end in itself should be considered in those parts of the three mysteries (mantras ) which indicate the benefit or fruit that results.
+## सङ्ग्रह-श्लोकौ
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
