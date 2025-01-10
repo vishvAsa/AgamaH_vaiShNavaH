@@ -5271,6 +5271,26 @@ cuya voluntad independiente no puede ser cuestionada.
 इति 
 </details>
 
+<details><summary>English</summary>
+
+For it has been said:-- 
+
+> "The Lord makes us climb up to Vaikuṇṭha   
+> through the centre of the sphere of the sun whose rays dispel darkness  
+> and He removes the ladder that helped to climb,  
+> so that there may be no coming back", 
+</details>
+
+<details><summary>Español</summary>
+
+Porque se ha dicho:-
+
+> "El Señor nos hace subir a Vaikuṇṭha  
+> a través del centro de la esfera del sol cuyos rayos disipan la oscuridad  
+> y él quita la escalera que ayudó a escalar,  
+> para que no haya vuelto ",
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -5279,11 +5299,321 @@ cuya voluntad independiente no puede ser cuestionada.
 
 
 
-For it has been said:-- "The Lord **** makes us climb up to Vaikuṇṭha   through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha   after performing prapatti by uttering the words 'Namo Narana', He will not let one come back to the world of saṁsāra, even if one should furnish security for going back to Vaikuṇṭha  ". (Nammalvar) says: "The firm feet of Nārāyaṇa whose praise is unsurpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavān" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord looks after (our) welfare by taking us to His feet and by preventing our fall therefrom". The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī, whose will is ever absolute and who, even after mokṣa , shows the same compassion as during saṁsāra. (The Alvar describes this compassion in the following words);- "By Thy grace and the grace of Thy Spouse who lives in the lotus, I served at Thy temple of old"
 
-WHAT THE PRAPANNA SHOULD DO WITH HIS MIND,
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-HIS SPEECH AND HIS BODY:
+> '**पोयिऩाल्**  
+> पिऩ्ऩैय् इद्-दिशैक्क् ऎऩ्ऱुम्+++(=कदापि)+++ पिणै+++(=प्रति-भू-)+++ गॊडुक्किलुम् पोगव् ऒट्टा+++(=नानुमन्यते)+++'  
+> (पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "71 **गतं** चेत्,  
+> पश्चाद् इमां दिशं प्रति  
+> कदा ऽपि +++(वैकुण्ठ-प्रति-गत्यै)+++ प्रतिभू-दानेऽपि **गमनं नानुमन्येत** " 
+
+इति 
+</details>
+
+
+
+<details><summary>English</summary>
+
+and again, 
+
+> "If one goes to Vaikuṇṭha after performing prapatti by uttering the words 'Namo Narana',  
+> He will not let one come back to the world of saṁsāra,  
+> even if one should furnish security for going back to Vaikuṇṭha"+++(5)+++. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo,
+
+> "Si uno va a Vaikuṇṭha después de realizar Prapatti pronunciando las palabras 'Namo Narana',  
+> No dejará que uno vuelva al mundo de Saṁsāra,  
+> Incluso si uno debe proporcionar seguridad para volver a Vaikuṇṭha "+++ (5) +++.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+'पोयिऩाल् पिऩ्ऩैयित्तिसैक्कॆऩ्ऱुम् पिणैगॊडुक्किलुम् पोगवॊट्टा'(पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) ऎऩ्ऱुम्, 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'वण्+++(=विशिष्ट)+++-बुगऴ्+++(=यशः)+++ नारणऩ् तिण्+++(=दृढ)+++-कऴल्+++(=चरणौ)+++'  
+> (तिरुवाय्मॊऴि १-२-१०।)
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> विलक्षण-यशस्क-नारायण-दृढ-चरणौ
+
+इति, 
+</details>
+
+
+
+<details><summary>English</summary>
+
+(Nammalvar) says: 
+
+> "The firm feet of Nārāyaṇa whose praise is unsurpassed"  
+(the feet being firm, those who have caught hold of them can never slip down); 
+</details>
+
+<details><summary>Español</summary>
+
+(Nammalvar) dice:
+
+> "Los pies firmes de Nārāyaṇa  
+> cuyos elogios no se superan"  
+(Los pies son firmes,  
+aquellos que los han atrapado  
+nunca pueden resbalarse);
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'वण्बुगऴ् नारणऩ् तिण्गऴल्'(तिरुवाय्मॊऴि १-२-१०।) ऎऩ्ऱुम्,  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'जऩ्म-जऩ्मान्तरम् **कात्त्**  
+> अडियार्गळैक् **कॊण्डु बोय्त्**  
+> तऩ्मै **पॆऱुत्तित्**+++(=प्रापय्य)+++  
+> तऩ् ताळ्+++(=अङ्घ्रि)+++-इणैक्+++(=युग्म)+++-कीऴ्क् **कॊळ्ळुम्** अप्पऩ्'  
+> (तिरुवाय्मॊऴि ३-७-७।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "73 जन्म-जन्मान्तरेषु **रक्षित्वा**  
+> स्व-दासान् **नीत्वा**  
+> स्व-भाव **प्रापय्य**  
+> स्व-चरणयोर् अधस्तात् **स्वीकुर्वतः** पितुः" 
+
+इति, 
+</details>
+
+
+
+<details><summary>English</summary>
+
+and again  
+
+> "Bhagavān" is our Father  
+> who takes away from His devotees their future births,  
+> leads them to Vaikuṇṭha,  
+> helps the manifestation of their svarūpa or essential nature  
+> and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", 
+</details>
+
+<details><summary>Español</summary>
+
+y de nuevo
+
+> "Bhagavān" es nuestro padre  
+> quien le quita a sus devotos sus futuros nacimientos,  
+> los lleva a Vaikuṇṭha,  
+> ayuda a la manifestación de su svarūpa o naturaleza esencial  
+> y ve a su restante debajo de sus pies, incluso como las líneas en las plantas (de sus pies) ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'सऩ्मसऩ्मान्दरम् कात्तडियार्गळैक्कॊण्डुबोय्त् तऩ्मै पॆऱुत्तित् तऩ् ताळिणैक्कीऴ्क् कॊळ्ळुमप्पऩ्'(तिरुवाय्मॊऴि ३-७-७।) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तऩ् ताळ्+++(=अङ्घ्रि)+++-इणैक्+++(=युग्म)+++-कीऴ्च् **शेर्न्द्**  
+> अवऩ् **सॆय्युञ्** जेमम्+++(=क्षेमम्)+++' (तिरुवाय्मॊऴि ७-५-१०।) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "74 स्व-चरण-युगलस्याधस्तात् **योजयित्वा**  
+तेन **क्रियमाणं क्षेमम्**" 
+
+इति चोक्त-प्रकारेण 
+</details>
+
+
+<details><summary>English</summary>
+
+and further, 
+
+> "The Lord looks after (our) welfare  
+> by taking us to His feet  
+> and by preventing our fall therefrom". 
+</details>
+
+<details><summary>Español</summary>
+
+y además,
+
+> "El Señor cuida (nuestro) bienestar  
+> llevándonos a ponerse de pie  
+> y evitando nuestra caída de allí ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'तऩ् ताळिणैक्कीऴ्च् चेर्न्दवऩ् सॆय्युञ्जेमम्' (तिरुवाय्मॊऴि ७-५-१०।) ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-पुनर्-आवृत्तियिलुम्  
+मुऩ्बु संसरिप्पिक्कैयिऱ् पोले  
+सत्य-सङ्कल्पऩ् आय् शेषिय् आऩ श्रियः-पतियिऩ्-उडैय 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अपुनरावृत्ताव् अपि,  
+पूर्वं संसरणय् इव  
+सत्य-संकल्पस्य शेषिणः श्रियः पत्युः, 
+</details>
+
+<details><summary>English</summary>
+
+The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī,  
+whose will is ever absolute  
+and who, even after mokṣa , as during saṁsāra, 
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna debe sentirse agradecida al Señor de Lakṣmī, el Śeṣī,  
+cuya voluntad es siempre absoluta
+y quién, incluso después de mokṣa, como durante saṁsāra,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपुनरावृत्तियिलुम् मुऩ्बु संसरिप्पिक्कैयिऱ्पोले सत्यसङ्कल्पऩाय् शेषियाऩ श्रियःपतियिऩुडैय 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'पण्डै+++(=प्राक्)+++ नाळाले  
+> निऩ् तिरुव्-अरुळुम्, पङ्गयत्ताळ् तिरुव्-**अरुळुङ् गॊण्डु**  
+> निऩ्-गोयिल् **सीय्त्तु**+++(=सम्मार्ज्य)+++'  
+> (तिरुवाय्मॊऴि ९-२-१) 
+
+ऎऩ्ऱु सॊल्लप्पट्ट 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> 75 प्राक्-कालम् **आरभ्य**  
+> तव श्री-कृपां, पङ्कजाङ्गनायाः श्री-कृपां **चावलम्ब्य**  
+> तव मन्दिरं **सम्मार्ज्य**" 
+
+इति **ख्यापित**-
+</details>
+
+
+<details><summary>English</summary>
+
+(As the Alvar describes [this compassion] in the following words);-   
+
+> "By Thy grace and the grace of Thy Spouse who lives in the lotus,  
+> I served at Thy temple of old"
+</details>
+
+<details><summary>Español</summary>
+
+(Como el Alvar describe [esta compasión] en las siguientes palabras);-
+
+> "Por tu gracia y la gracia de tu cónyuge que vive en el loto,  
+> Serví en tu templo de la vieja "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'पण्डै नाळाले निऩ् तिरुवरुळुम् पङ्गयत्ताळ् तिरुवरुळुङ्गॊण्डु निऩ्गोयिल् सीय्त्तु'(तिरुवाय्मॊऴि ९-२-१) ऎऩ्ऱु सॊल्लप्पट्ट 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सहज-कारुण्यम्  
+ऎऩ्ऱु तॆळिन्दव् विषयत्तिलुम्  
+कृतज्ञऩ् आय् इरुक्कवुम् प्राप्तम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सहज-**कारुण्यम्** इति **विज्ञाय** 
+
+तद्-विषयेऽपि कृतज्ञतया ऽवस्थानं च समुचितम् ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+shows the same compassion .  
+(So, he should be grateful in this known matter.)
+</details>
+
+<details><summary>Español</summary>
+
+muestra la misma compasión.  
+(Entonces, debería estar agradecido en este asunto conocido).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सहजकारुण्यमॆऩ्ऱु तॆळिन्दव्विषयत्तिलुम् कृतज्ञऩायिरुक्कवुम् प्राप्तम्। 
+</details>
+
+
+
+## सारः
+
+<details><summary>English</summary>
+
+WHAT THE PRAPANNA SHOULD DO WITH HIS MIND, HIS SPEECH AND HIS BODY:
+</details>
+
+<details><summary>Español</summary>
+
+Lo que la Prapanna debería hacer  
+con su mente, su discurso y su cuerpo:
+</details>
+
+
 
 About this code of conduct (of the prapanna) we will now state what is considered as the essence in regard to what should be avoided by the three senses viz the mind, the speech and the body and also in regard to what should be observed or followed by them: "Between poison (Visha) and the objects of sense (Vishaya) there is a great gulf of difference, for poison kills only the man who eats it, whereas objects of sense kill even at their mere thought." It has been said also, "Is it fair on Thy part to delude my soul by showing before sinful me the various pleasures by which the senses allure me to my suffering ?" Therefore in order that the desire for the ultimate object of life may not languish, the most important among those that should be forgotten is the enjoyment of sense pleasures. In order that one may not become ungrateful, the chief thing that should be thought of is the assistance given to us by the ācārya  from the time his glance first fell on us. In order that we may not lose the sense of helplessness, the chief thing that should be avoided in speech is the expression of our excellence. In order that one may not forget one's conviction in the upāya, the chief among the things that should be uttered is Dvaya; (the Bhāṣyakāra says) “one should ever utter the Dvaya with an understanding of its meaning ". In order that Bhagavān who is entitled to receive our service with pleasure may not become displeased at heart, the most important among those that should be avoided by all the three senses is offence to those that know Brahman; as Andal says, “ We will never do what ought not to be done". In order that the sea of our supreme aim in life may not dry up or become shallow, the most important among those things that should be done is service to the ācārya  and other devotees of Bhagavān as ordained in the śāstras and forming the outer limit of the service of the Lord.
 
