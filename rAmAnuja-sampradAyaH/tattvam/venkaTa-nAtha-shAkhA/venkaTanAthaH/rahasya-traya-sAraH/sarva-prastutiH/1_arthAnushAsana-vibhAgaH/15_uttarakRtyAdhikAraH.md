@@ -5659,9 +5659,203 @@ Lo que la Prapanna debería hacer
 con su mente, su discurso y su cuerpo:
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-उत्तर-कृत्यत्तिल् मनो-वाक्-कायङ्गळ् ऎऩ्ऱु सॊल्लुगिऱ करणङ्गळ् मूऩ्ऱालुम्  
+परिहरणीयङ्गळिलुम् परिग्राह्यङ्गळिलुम् सारम् इरुक्कुम् बडि सॊल्लुगिऱोम्। 
+</details>
+
+<details><summary>English</summary>
+
+About this code of conduct (of the prapanna) we will now state what is considered as the essence  
+in regard to what should be avoided by the three senses viz the mind, the speech and the body  
+and also in regard to what should be observed or followed by them: 
+</details>
+
+<details><summary>Español</summary>
+
+Sobre este Código de Conducta (del Prapanna) ahora declararemos lo que se considera la esencia  
+con respecto a lo que los tres sentidos, es decir la mente, el discurso y el cuerpo, deben evitar  
+y también con respecto a lo que debe observarse o seguido por ellos:
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वुत्तरकृत्यत्तिल् मनोवाक्कायङ्गळॆऩ्ऱु सॊल्लुगिऱ करणङ्गळ् मूऩ्ऱालुम् परिहरणीयङ्गळिलुम् परिग्राह्यङ्गळिलुम् सारमिरुक्कुम्बडि सॊल्लुगिऱोम्। 
+</details>
 
 
-About this code of conduct (of the prapanna) we will now state what is considered as the essence in regard to what should be avoided by the three senses viz the mind, the speech and the body and also in regard to what should be observed or followed by them: "Between poison (Visha) and the objects of sense (Vishaya) there is a great gulf of difference, for poison kills only the man who eats it, whereas objects of sense kill even at their mere thought." It has been said also, "Is it fair on Thy part to delude my soul by showing before sinful me the various pleasures by which the senses allure me to my suffering ?" Therefore in order that the desire for the ultimate object of life may not languish, the most important among those that should be forgotten is the enjoyment of sense pleasures. In order that one may not become ungrateful, the chief thing that should be thought of is the assistance given to us by the ācārya  from the time his glance first fell on us. In order that we may not lose the sense of helplessness, the chief thing that should be avoided in speech is the expression of our excellence. In order that one may not forget one's conviction in the upāya, the chief among the things that should be uttered is Dvaya; (the Bhāṣyakāra says) “one should ever utter the Dvaya with an understanding of its meaning ". In order that Bhagavān who is entitled to receive our service with pleasure may not become displeased at heart, the most important among those that should be avoided by all the three senses is offence to those that know Brahman; as Andal says, “ We will never do what ought not to be done". In order that the sea of our supreme aim in life may not dry up or become shallow, the most important among those things that should be done is service to the ācārya  and other devotees of Bhagavān as ordained in the śāstras and forming the outer limit of the service of the Lord.
+### विषया हेयाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विषस्य विषयाणाञ् च  
+> दूरम् अत्यन्तम् अन्तरम् ।  
+> **उपभुक्तं** विषं **हन्ति**  
+> विषयास् स्मरणाद् अपि’’+++(5)+++
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विषयः</summary>
+
+वैराग्यम्
+</details>
+
+<details><summary>English</summary>
+
+"Between poison (Visha) and the objects of sense (Vishaya)  
+there is a great gulf of difference,  
+for poison kills only the man who eats it,  
+whereas objects of sense kill even at their mere thought." 
+</details>
+
+<details><summary>Español</summary>
+
+"Entre el veneno (Visha) y los objetos del sentido (Vishaya)  
+hay una gran golfa de diferencia,  
+porque el veneno mata solo al hombre que lo come,  
+mientras que los objetos de sentido matan incluso en su mero pensamiento ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विषस्य विषयाणाञ्च दूरमत्यन्तमन्तरं । उपभुक्तं विषं हन्ति विषयास्स्मरणादपि’’
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'आविदिगैक्क वैवर् कुमैक्कुञ्जिऱ्ऱिऩ्बम् पावियेऩैप् पल नी काट्टिप्पडुप्पायोय्'(तिरुवाय्मॊऴि ६-९-९) 
+
+ऎऩ्ऱुञ् 
+</details>
+
+<details><summary>English</summary>
+
+It has been said also, 
+
+> "Is it fair on Thy part to delude my soul  
+> by showing before me  
+> the various pleasures by which the senses allure me to my suffering ?" 
+</details>
+
+<details><summary>Español</summary>
+
+También se ha dicho,
+
+> "¿Es justo por tu parte engañar a mi alma?  
+> Mostrando antes de pecaminoso mi  
+> los diversos placeres por los cuales los sentidos me aseguran a mi sufrimiento? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'आविदिगैक्क वैवर् कुमैक्कुञ्जिऱ्ऱिऩ्बम् पावियेऩैप् पल नी काट्टिप्पडुप्पायोय्'(तिरुवाय्मॊऴि ६-९-९) ऎऩ्ऱुञ् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जॊल्लुगैयाले  
+परम-पुरुषार्थ-रुचि कुलैयामैक्क् आग  
+मऱक्क-वेण्डुम् अवऱ्ऱिल् प्रधानं विषयास्वादम्। 
+</details>
+
+<details><summary>English</summary>
+
+Therefore in order that the desire for the ultimate object of life may not languish,  
+the most important among those that should be forgotten is the enjoyment of sense pleasures. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, para que el deseo del objeto final de la vida no languidice,  
+Lo más importante entre los que deben olvidarse  
+es el disfrute de los placeres sensoriales.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जॊल्लुगैयाले परमपुरुषार्थरुचि कुलैयामैक्काग मऱक्कवेण्डुमवऱ्ऱिल् प्रधानंविषयास्वादम्। 
+</details>
+
+### कृतज्ञता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृतघ्नतै वारामैक्क् आग निऩैक्क वेण्डुम्-अवऱ्ऱिल् प्रधानम्  
+आचार्यऩ् सॆय्द प्रथम-कटाक्षम् मुदल्-आऩ उपकारम्। 
+</details>
+
+<details><summary>English</summary>
+
+In order that one may not become ungrateful,  
+the chief thing that should be thought of  
+is the assistance given to us by the ācārya  
+from the time his glance first fell on us. 
+</details>
+
+<details><summary>Español</summary>
+
+Para que uno no se vuelva desagradecido,  
+la principal cosa que debería considerarse  
+es la ayuda que nos brinda para el ācārya  
+desde el momento en que su mirada cayó sobre nosotros.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कृतघ्नतै वारामैक्काग निऩैक्कवेण्डुमवऱ्ऱिल् प्रधानम् आचार्यऩ् सॆय्द प्रथमकटाक्षम् मुदलाऩ उपकारम्। 
+</details>
+
+
+### कार्पण्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कार्पण्यङ् गुलैयामैक्क् आगच् चॊल्लाद् ऒऴिय-वेण्डुम्-अवऱ्ऱिल् प्रधानम् आत्मोत्कर्षम्। 
+</details>
+
+<details><summary>English</summary>
+
+In order that we may not lose the sense of helplessness,  
+the chief thing that should be avoided in speech is the expression of our excellence. 
+</details>
+
+<details><summary>Español</summary>
+
+Para que no podamos perder la sensación de impotencia,  
+Lo principal que debe evitarse en el habla  
+es la expresión de nuestra excelencia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कार्पण्यङ्गुलैयामैक् कागच् चॊल्लादॊऴियवेण्डुमवऱ्ऱिल् प्रधानम् आत्मोत्कर्षम्। 
+</details>
+
+## उपाय-निष्ठा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपायनिष्ठैयै मऱवामैक्क् आग  
+‘‘सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्गिऱबडिये सॊल्लवेण्डु मवऱ्ऱिल् प्रधानम् द्वयम्। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+उपायनिष्ठैयै मऱवामैक्काग ‘‘सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्गिऱबडिये सॊल्लवेण्डु मवऱ्ऱिल् प्रधानम् द्वयम्। 
+</details>
+
+
+In order that one may not forget one's conviction in the upāya,  
+the chief among the things that should be uttered is Dvaya; (the Bhāṣyakāra says) “one should ever utter the Dvaya with an understanding of its meaning ". In order that Bhagavān who is entitled to receive our service with pleasure may not become displeased at heart, the most important among those that should be avoided by all the three senses is offence to those that know Brahman; as Andal says, “ We will never do what ought not to be done". In order that the sea of our supreme aim in life may not dry up or become shallow, the most important among those things that should be done is service to the ācārya  and other devotees of Bhagavān as ordained in the śāstras and forming the outer limit of the service of the Lord.
 
 This code of conduct which should be followed after prapatti and which is an end in itself should be considered in those parts of the three mysteries (mantras ) which indicate the benefit or fruit that results.
 
