@@ -5271,6 +5271,26 @@ cuya voluntad independiente no puede ser cuestionada.
 इति 
 </details>
 
+<details><summary>English</summary>
+
+For it has been said:-- 
+
+> "The Lord makes us climb up to Vaikuṇṭha   
+> through the centre of the sphere of the sun whose rays dispel darkness  
+> and He removes the ladder that helped to climb,  
+> so that there may be no coming back", 
+</details>
+
+<details><summary>Español</summary>
+
+Porque se ha dicho:-
+
+> "El Señor nos hace subir a Vaikuṇṭha  
+> a través del centro de la esfera del sol cuyos rayos disipan la oscuridad  
+> y él quita la escalera que ayudó a escalar,  
+> para que no haya vuelto ",
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -5278,16 +5298,755 @@ cuya voluntad independiente no puede ser cuestionada.
 </details>
 
 
+<details><summary>सायण-टीका</summary>
 
-For it has been said:-- "The Lord **** makes us climb up to Vaikuṇṭha   through the centre of the sphere of the sun whose rays dispel darkness and He removes the ladder that helped to climb, so that there may be no coming back", and again, "If one goes to Vaikuṇṭha   after performing prapatti by uttering the words 'Namo Narana', He will not let one come back to the world of saṁsāra, even if one should furnish security for going back to Vaikuṇṭha  ". (Nammalvar) says: "The firm feet of Nārāyaṇa whose praise is unsurpassed" (the feet being firm, those who have caught hold of them can never slip down); and again "Bhagavān" is our Father who takes away from His devotees their future births, leads them to Vaikuṇṭha, helps the manifestation of their svarūpa or essential nature and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", and further, "The Lord looks after (our) welfare by taking us to His feet and by preventing our fall therefrom". The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī, whose will is ever absolute and who, even after mokṣa , shows the same compassion as during saṁsāra. (The Alvar describes this compassion in the following words);- "By Thy grace and the grace of Thy Spouse who lives in the lotus, I served at Thy temple of old"
+अपुनरावृत्तियिल् सहजकारुण्यमे कारणमॆऩ्बदिल् प्रमाणङ्गळ् इरुळगऱ्ऱुमित्यादिगळ्। इरुळ् - अन्धकारत्तै, अगऱ्ऱुम् - पोक्कानिऱ्किऱ, ऎरि - अत्युष्णमाऩ, अथवा विक्षिप्तमाऩ कदिरोऩ् - किरणवाऩाऩ सूर्यऩुडैय, मण्डलत्तूडु - मण्डलत्तिऩ् मद्ध्यत्ताले, एऱ्ऱि - आश्रितर्गळै परमपदत्तिले एऱ्ऱि, वैत्तु - तिरुमामणिमण्डबत्तिले स्थिरमाग वैत्तु, एणिवाङ्गि - मऱुबडियुम् कीऴेयिऱङ्गुगैक्कु हेतुवाग शङ्कितमाऩ स्वातन्त्र्यादिगळै निवर्तिप्पित्तु, तम्मुडैय सत्यसङ्कल्पतास्थिरीकरणार्थम् अव्विषयत्तिल् स्वेच्छारूपस्वातन्त्र्यत्तै सॆलुत्तामलॆऩ्ऱबडि। 
+</details>
 
-WHAT THE PRAPANNA SHOULD DO WITH HIS MIND,
 
-HIS SPEECH AND HIS BODY:
 
-About this code of conduct (of the prapanna) we will now state what is considered as the essence in regard to what should be avoided by the three senses viz the mind, the speech and the body and also in regard to what should be observed or followed by them: "Between poison (Visha) and the objects of sense (Vishaya) there is a great gulf of difference, for poison kills only the man who eats it, whereas objects of sense kill even at their mere thought." It has been said also, "Is it fair on Thy part to delude my soul by showing before sinful me the various pleasures by which the senses allure me to my suffering ?" Therefore in order that the desire for the ultimate object of life may not languish, the most important among those that should be forgotten is the enjoyment of sense pleasures. In order that one may not become ungrateful, the chief thing that should be thought of is the assistance given to us by the ācārya  from the time his glance first fell on us. In order that we may not lose the sense of helplessness, the chief thing that should be avoided in speech is the expression of our excellence. In order that one may not forget one's conviction in the upāya, the chief among the things that should be uttered is Dvaya; (the Bhāṣyakāra says) “one should ever utter the Dvaya with an understanding of its meaning ". In order that Bhagavān who is entitled to receive our service with pleasure may not become displeased at heart, the most important among those that should be avoided by all the three senses is offence to those that know Brahman; as Andal says, “ We will never do what ought not to be done". In order that the sea of our supreme aim in life may not dry up or become shallow, the most important among those things that should be done is service to the ācārya  and other devotees of Bhagavān as ordained in the śāstras and forming the outer limit of the service of the Lord.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-This code of conduct which should be followed after prapatti and which is an end in itself should be considered in those parts of the three mysteries (mantras ) which indicate the benefit or fruit that results.
+> '**पोयिऩाल्**  
+> पिऩ्ऩैय् इद्-दिशैक्क् ऎऩ्ऱुम्+++(=कदापि)+++ पिणै+++(=प्रति-भू-)+++ गॊडुक्किलुम् पोगव् ऒट्टा+++(=नानुमन्यते)+++'  
+> (पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) 
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "71 **गतं** चेत्,  
+> पश्चाद् इमां दिशं प्रति  
+> कदा ऽपि +++(वैकुण्ठ-प्रति-गत्यै)+++ प्रतिभू-दानेऽपि **गमनं नानुमन्येत** " 
+
+इति 
+</details>
+
+
+
+<details><summary>English</summary>
+
+and again, 
+
+> "If one goes to Vaikuṇṭha after performing prapatti by uttering the words 'Namo Narana',  
+> He will not let one come back to the world of saṁsāra,  
+> even if one should furnish security for going back to Vaikuṇṭha"+++(5)+++. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Y de nuevo,
+
+> "Si uno va a Vaikuṇṭha después de realizar Prapatti pronunciando las palabras 'Namo Narana',  
+> No dejará que uno vuelva al mundo de Saṁsāra,  
+> Incluso si uno debe proporcionar seguridad para volver a Vaikuṇṭha "+++ (5) +++.
+</details>
+
+<details><summary>मूलम्</summary>
+
+'पोयिऩाल् पिऩ्ऩैयित्तिसैक्कॆऩ्ऱुम् पिणैगॊडुक्किलुम् पोगवॊट्टा'(पॆरियाऴ्वार् तिरुमॊऴि ४-५-२) ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पोयिऩालित्यादि । वायिऩाल् नमो नारणावॆऩ्ऱु मत्तगत्तिडै कैक्कूप्पि, पोयिऩाल् - परमपदत्तिऱ्कुप्पोऩाल्, पिऩ्ऩै - पिऩ्बु, आश्रितर्गळै ऎऩ्ऱुम् - ऎक्कालत्तिलुम्, इत्तिसैक्कु - इन्द लीलाविभूतियिऩ् दिक्कुक्कु। पिणैगॊडुक्किलुम् - इन्द लीलाविभूतिक्कुप्पोय् सांसारिकभोगत्तै अनुभवित्तु, शीघ्रमागवे तिरुम्बिवरुगिऱेऩॆऩ्ऱु ऒरुवरै प्रतिभूवागक् काट्टिक् कॊडुत्तालुम्, सर्वथाऎऩ्ऱबडि। पोगवॊट्टार् - पुनरावृत्तियैप् पण्णि वैक्कमाट्टार्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'वण्+++(=विशिष्ट)+++-बुगऴ्+++(=यशः)+++ नारणऩ् तिण्+++(=दृढ)+++-कऴल्+++(=चरणौ)+++'  
+> (तिरुवाय्मॊऴि १-२-१०।)
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> विलक्षण-यशस्क-नारायण-दृढ-चरणौ
+
+इति, 
+</details>
+
+
+
+<details><summary>English</summary>
+
+(Nammalvar) says: 
+
+> "The firm feet of Nārāyaṇa whose praise is unsurpassed"  
+(the feet being firm, those who have caught hold of them can never slip down); 
+</details>
+
+<details><summary>Español</summary>
+
+(Nammalvar) dice:
+
+> "Los pies firmes de Nārāyaṇa  
+> cuyos elogios no se superan"  
+(Los pies son firmes,  
+aquellos que los han atrapado  
+nunca pueden resbalarse);
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'वण्बुगऴ् नारणऩ् तिण्गऴल्'(तिरुवाय्मॊऴि १-२-१०।) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+वण्बुगऴ् नारणऩ् तिण्गऴलिति । वण् - विलक्षणमाऩ, पुगऴ् - कीर्त्यादिकल्याणगुणङ्गळैयुडैय, नारणऩ् - नारायणऩुडैय, तिण् - दृढमाऩ। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'जऩ्म-जऩ्मान्तरम् **कात्त्**  
+> अडियार्गळैक् **कॊण्डु बोय्त्**  
+> तऩ्मै **पॆऱुत्तित्**+++(=प्रापय्य)+++  
+> तऩ् ताळ्+++(=अङ्घ्रि)+++-इणैक्+++(=युग्म)+++-कीऴ्क् **कॊळ्ळुम्** अप्पऩ्'  
+> (तिरुवाय्मॊऴि ३-७-७।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "73 जन्म-जन्मान्तरेषु **रक्षित्वा**  
+> स्व-दासान् **नीत्वा**  
+> स्व-भाव **प्रापय्य**  
+> स्व-चरणयोर् अधस्तात् **स्वीकुर्वतः** पितुः" 
+
+इति, 
+</details>
+
+
+
+<details><summary>English</summary>
+
+and again  
+
+> "Bhagavān" is our Father  
+> who takes away from His devotees their future births,  
+> leads them to Vaikuṇṭha,  
+> helps the manifestation of their svarūpa or essential nature  
+> and sees to their ever remaining under His feet even like the lines on the soles (of His feet)", +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+y de nuevo
+
+> "Bhagavān" es nuestro padre  
+> quien le quita a sus devotos sus futuros nacimientos,  
+> los lleva a Vaikuṇṭha,  
+> ayuda a la manifestación de su svarūpa o naturaleza esencial  
+> y ve a su restante debajo de sus pies, incluso como las líneas en las plantas (de sus pies) ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'सऩ्मसऩ्मान्दरम् कात्तडियार्गळैक्कॊण्डुबोय्त् तऩ्मै पॆऱुत्तित् तऩ् ताळिणैक्कीऴ्क् कॊळ्ळुमप्पऩ्'(तिरुवाय्मॊऴि ३-७-७।) ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मुक्तरै पुनरपि तिरुम्बिप्पोगवॊट्टादबडि दार्ढ्यत्तै युडैय, कऴल्दिरुवडिगळै, सऩ्मसऩ्मान्दरमित्यादि । सऩ्मसऩ्मान्दरङ्गात्तु - तिरुवडिगळै आश्रयित्तवर्गळै पिऩ्बु जन्मजन्मान्तरम् वरामल् कात्तु। कॊण्डुबोय् - परमपदत्तिऱ्कुक् कॊण्डुबोय्, तऩ्मै - स्वस्वभावत्तै, स्वस्वरूपाविर्भावत्तै यॆऩ्ऱ पडि। पॆऱुत्ति - उण्डाक्कि, तऩ् ताळिणैक्कीऴ् - तऩ् तिरुवडिगळिऩ् कीऴे, कॊळ्ळुम् - श्रीपादरेखैपोले पिरियादबडि स्वीकरिक्कुम्, अप्पऩ् - निरुपाधिकपिता वॆऩ्गै। 
+</details>
+
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'तऩ् ताळ्+++(=अङ्घ्रि)+++-इणैक्+++(=युग्म)+++-कीऴ्च् **शेर्न्द्**  
+> अवऩ् **सॆय्युञ्** जेमम्+++(=क्षेमम्)+++' (तिरुवाय्मॊऴि ७-५-१०।) 
+
+ऎऩ्ऱुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "74 स्व-चरण-युगलस्याधस्तात् **योजयित्वा**  
+तेन **क्रियमाणं क्षेमम्**" 
+
+इति चोक्त-प्रकारेण 
+</details>
+
+
+<details><summary>English</summary>
+
+and further, 
+
+> "The Lord looks after (our) welfare  
+> by taking us to His feet  
+> and by preventing our fall therefrom". 
+</details>
+
+<details><summary>Español</summary>
+
+y además,
+
+> "El Señor cuida (nuestro) bienestar  
+> llevándonos a ponerse de pie  
+> y evitando nuestra caída de allí ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'तऩ् ताळिणैक्कीऴ्च् चेर्न्दवऩ् सॆय्युञ्जेमम्' (तिरुवाय्मॊऴि ७-५-१०।) ऎऩ्ऱुञ् जॊल्लुगिऱबडिये 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+तऩ्दाळिणैक्कीऴ् सेर्त्तु इति । तऩ्ऩुडैय सेर्न्द तिरुवडिगळिऩ् परिसरत्तिल्, सेर्त्तु - किङ्करऩागच्चेर्त्तुक्कॊण्डु, अवऩ् सॆय्युम् - स्वप्रयोजनमाग अवऩ्सॆय्युम्, सेमम् - क्षेमत्तै, अर्चिरादिमार्गत्ताले लब्धमाऩ परमपदत्तिलिरुन्दुत् तिरुम्बिप्पोगादबडि परिपालनम् पण्णुगै मुदलाऩ क्षेमङ्गळै, सॊल्लुगिऱबडिये - सॊल्लुगिऱ रीदियाले, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अ-पुनर्-आवृत्तियिलुम्  
+मुऩ्बु संसरिप्पिक्कैयिऱ् पोले  
+सत्य-सङ्कल्पऩ् आय् शेषिय् आऩ श्रियः-पतियिऩ्-उडैय 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अपुनरावृत्ताव् अपि,  
+पूर्वं संसरणय् इव  
+सत्य-संकल्पस्य शेषिणः श्रियः पत्युः, 
+</details>
+
+<details><summary>English</summary>
+
+The prapanna should feel grateful to the Lord of Lakṣmī , the śeṣī,  
+whose will is ever absolute  
+and who, even after mokṣa , as during saṁsāra, 
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna debe sentirse agradecida al Señor de Lakṣmī, el Śeṣī,  
+cuya voluntad es siempre absoluta
+y quién, incluso después de mokṣa, como durante saṁsāra,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपुनरावृत्तियिलुम् मुऩ्बु संसरिप्पिक्कैयिऱ्पोले सत्यसङ्कल्पऩाय् शेषियाऩ श्रियःपतियिऩुडैय 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मुऩ्बु - परमपदप्राप्तिक्कु मुऩ्बु, संसरिप्पिक्कैयिऱ्पोलित्यादि । कर्मपरवशरै कर्मानुगुणमाग संसरिप्पिक्कैयिल् सत्यसङ्कल्पऩायिरुन्दार्प्पोल् परमपदप्राप्त्यनन्तरमुम् 
+
+> ‘‘माम् **उपेत्य** पुनर् **जन्म**  
+> दुःखालयम् अशाश्वतम् ।  
+> **नाप्नुवन्ति** महात्मानस्  
+> **संसिद्धिं** परमां **गताः** ॥’’ 
+
+ऎऩ्गिऱबडि इवऩुडैय अपुनरावृत्तियिलुम् सत्यसङ्कल्पऩायॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'पण्डै+++(=प्राक्)+++ नाळाले  
+> निऩ् तिरुव्-अरुळुम्, पङ्गयत्ताळ् तिरुव्-**अरुळुङ् गॊण्डु**  
+> निऩ्-गोयिल् **सीय्त्तु**+++(=सम्मार्ज्य)+++'  
+> (तिरुवाय्मॊऴि ९-२-१) 
+
+ऎऩ्ऱु सॊल्लप्पट्ट 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> 75 प्राक्-कालम् **आरभ्य**  
+> तव श्री-कृपां, पङ्कजाङ्गनायाः श्री-कृपां **चावलम्ब्य**  
+> तव मन्दिरं **सम्मार्ज्य**" 
+
+इति **ख्यापित**-
+</details>
+
+
+<details><summary>English</summary>
+
+(As the Alvar describes [this compassion] in the following words);-   
+
+> "By Thy grace and the grace of Thy Spouse who lives in the lotus,  
+> I served at Thy temple of old"
+</details>
+
+<details><summary>Español</summary>
+
+(Como el Alvar describe [esta compasión] en las siguientes palabras);-
+
+> "Por tu gracia y la gracia de tu cónyuge que vive en el loto,  
+> Serví en tu templo de la vieja "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'पण्डै नाळाले निऩ् तिरुवरुळुम् पङ्गयत्ताळ् तिरुवरुळुङ्गॊण्डु निऩ्गोयिल् सीय्त्तु'(तिरुवाय्मॊऴि ९-२-१) ऎऩ्ऱु सॊल्लप्पट्ट 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पण्डै नाळाले इति । पूर्वकालत्तिले युण्डाऩ, सहजैयाऩ वॆऩ्ऱबडि। सप्तम्यर्थेतृतीया । निऩ् तिरुवरुळुम् - पङ्कजवासिनियाऩ पॆरिय पिराट्टियारुडैय श्रीमत्कृपैयैयुम्, कॊण्डु - अवलम्बित्तु। निऩ्गोयिल् - उऩ्ऩुडैय दिव्यायतनत्तिल्, सीय्त्तु तिरुवलगु समर्पित्तु, सम्मार्जनियिऩाल् शुद्धियैच् चॆय्दॆऩ्ऱबडि। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सहज-कारुण्यम्  
+ऎऩ्ऱु तॆळिन्दव् विषयत्तिलुम्  
+कृतज्ञऩ् आय् इरुक्कवुम् प्राप्तम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सहज-**कारुण्यम्** इति **विज्ञाय** 
+
+तद्-विषयेऽपि कृतज्ञतया ऽवस्थानं च समुचितम् ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+shows the same compassion .  
+(So, he should be grateful in this known matter.)
+</details>
+
+<details><summary>Español</summary>
+
+muestra la misma compasión.  
+(Entonces, debería estar agradecido en este asunto conocido).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सहजकारुण्यमॆऩ्ऱु तॆळिन्दव्विषयत्तिलुम् कृतज्ञऩायिरुक्कवुम् प्राप्तम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्ऱुसॊल्लप्पट्ट सहजकारुण्यमॆऩ्ऱु तॆळिन्दु - प्रधान-कारणमुमाय् परिहारमायिरुप्पदु यॆऩ्बदऱ्कु सहजकारुण्यमॆऩ्बदोडन्वयम् ऎऩ्ऱु मुऩ्बे सॊल्लप्पट्टदु। अव्विषयत्तिलुम् - तादृशसहजकारुण्यवाऩाऩ भगवद्विषयत्तिलुम्। कृतज्ञऩायिरुक्कवुम् प्राप्तम् - इङ्गु उम्मै पूर्वोक्तङ्गळॆल्ला वऱ्ऱिऱ्क्कुम् समुच्चायकम्। 
+</details>
+
+
+## सारः
+
+<details><summary>English</summary>
+
+WHAT THE PRAPANNA SHOULD DO WITH HIS MIND, HIS SPEECH AND HIS BODY:
+</details>
+
+<details><summary>Español</summary>
+
+Lo que la Prapanna debería hacer  
+con su mente, su discurso y su cuerpo:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-उत्तर-कृत्यत्तिल् मनो-वाक्-कायङ्गळ् ऎऩ्ऱु सॊल्लुगिऱ करणङ्गळ् मूऩ्ऱालुम्  
+परिहरणीयङ्गळिलुम् परिग्राह्यङ्गळिलुम् सारम् इरुक्कुम् बडि सॊल्लुगिऱोम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्मिन्न् उत्तर-कृत्ये मनो वाक् काय इति **व्यवह्रियमाणैः** करणैस् त्रिभिः  
+**परिहरणीयेषु परिग्राह्येषु** च सारं **ब्रूमः**।
+</details>
+
+<details><summary>English</summary>
+
+About this code of conduct (of the prapanna) we will now state what is considered as the essence  
+in regard to what should be avoided by the three senses viz the mind, the speech and the body  
+and also in regard to what should be observed or followed by them: 
+</details>
+
+<details><summary>Español</summary>
+
+Sobre este Código de Conducta (del Prapanna) ahora declararemos lo que se considera la esencia  
+con respecto a lo que los tres sentidos, es decir la mente, el discurso y el cuerpo, deben evitar  
+y también con respecto a lo que debe observarse o seguido por ellos:
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वुत्तरकृत्यत्तिल् मनोवाक्कायङ्गळॆऩ्ऱु सॊल्लुगिऱ करणङ्गळ् मूऩ्ऱालुम् परिहरणीयङ्गळिलुम् परिग्राह्यङ्गळिलुम् सारमिरुक्कुम्बडि सॊल्लुगिऱोम्। 
+</details>
+
+
+
+### विषया हेयाः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘विषस्य विषयाणाञ् च  
+> दूरम् अत्यन्तम् अन्तरम् ।  
+> **उपभुक्तं** विषं **हन्ति**  
+> विषयास् स्मरणाद् अपि’’+++(5)+++
+
+ऎऩ्ऱुम्, 
+</details>
+
+<details><summary>विषयः</summary>
+
+वैराग्यम्
+</details>
+
+<details><summary>English</summary>
+
+"Between poison (Visha) and the objects of sense (Vishaya)  
+there is a great gulf of difference,  
+for poison kills only the man who eats it,  
+whereas objects of sense kill even at their mere thought." 
+</details>
+
+<details><summary>Español</summary>
+
+"Entre el veneno (Visha) y los objetos del sentido (Vishaya)  
+hay una gran golfa de diferencia,  
+porque el veneno mata solo al hombre que lo come,  
+mientras que los objetos de sentido matan incluso en su mero pensamiento ".
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘विषस्य विषयाणाञ् च  
+> दूरम् अत्यन्तम् अन्तरम् ।  
+> **उपभुक्तं** विषं **हन्ति**  
+> विषयास् स्मरणाद् अपि’’+++(5)+++
+
+इति
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘विषस्य विषयाणाञ्च दूरमत्यन्तमन्तरं । उपभुक्तं विषं हन्ति विषयास्स्मरणादपि’’
+
+ऎऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'आवि+++(=मनः)+++-**तिगैक्क्**+++(=व्याकुलतायै)+++ अव् ऐवर् **कुमैक्कुञ्**+++(=पीडक)+++-शिऱ्ऱ्-**इऩ्बम्**  
+> पावियेऩैप् पल नी काट्टिप् पडुप्पायोय्?'  
+> (तिरुवाय्मॊऴि ६-९-९) 
+
+ऎऩ्ऱुञ् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१२६]]
+
+> मनो व्याकुलं यथा स्यात्  
+> पञ्चेन्द्रियायत्त-बाधाश्लिष्टम् अल्प-सुखं  
+> पापिनं मां प्रति बहु प्रदर्श्य नाशयसि किम्?" 
+
+इत्य्-उक्तत्वात् 
+</details>
+
+
+<details><summary>English</summary>
+
+It has been said also, 
+
+> "Is it fair on Thy part to delude my soul  
+> by showing before me  
+> the various pleasures by which the senses allure me to my suffering ?" 
+</details>
+
+<details><summary>Español</summary>
+
+También se ha dicho,
+
+> "¿Es justo por tu parte engañar a mi alma?  
+> Mostrando antes de pecaminoso mi  
+> los diversos placeres por los cuales los sentidos me aseguran a mi sufrimiento? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'आविदिगैक्क वैवर् कुमैक्कुञ्जिऱ्ऱिऩ्बम् पावियेऩैप् पल नी काट्टिप्पडुप्पायोय्'(तिरुवाय्मॊऴि ६-९-९) ऎऩ्ऱुञ् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जॊल्लुगैयाले  
+परम-पुरुषार्थ-रुचि कुलैयामैक्क् आग  
+मऱक्क-वेण्डुम् अवऱ्ऱिल् प्रधानं विषयास्वादम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परम-पुरुार्थ-रुचेर् अभङ्गाय  
+विस्मर्तव्येषु प्रधान-भूतो विषयास्वादः 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore in order that the desire for the ultimate object of life may not languish,  
+the most important among those that should be forgotten is the enjoyment of sense pleasures. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, para que el deseo del objeto final de la vida no languidice,  
+Lo más importante entre los que deben olvidarse  
+es el disfrute de los placeres sensoriales.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+जॊल्लुगैयाले परमपुरुषार्थरुचि कुलैयामैक्काग मऱक्कवेण्डुमवऱ्ऱिल् प्रधानंविषयास्वादम्। 
+</details>
+
+### कृतज्ञता
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कृतघ्नतै वारामैक्क् आग निऩैक्क वेण्डुम्-अवऱ्ऱिल् प्रधानम्  
+आचार्यऩ् सॆय्द प्रथम-कटाक्षम् मुदल्-आऩ उपकारम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कृतघ्नताया अ-प्रसक्तये स्मरणीयेषु प्रधान-भूत  
+आचार्य-कृतः प्रथम-कटाक्षादिर् उपकारः । 
+</details>
+
+<details><summary>English</summary>
+
+In order that one may not become ungrateful,  
+the chief thing that should be thought of  
+is the assistance given to us by the ācārya  
+from the time his glance first fell on us. 
+</details>
+
+<details><summary>Español</summary>
+
+Para que uno no se vuelva desagradecido,  
+la principal cosa que debería considerarse  
+es la ayuda que nos brinda para el ācārya  
+desde el momento en que su mirada cayó sobre nosotros.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कृतघ्नतै वारामैक्काग निऩैक्कवेण्डुमवऱ्ऱिल् प्रधानम् आचार्यऩ् सॆय्द प्रथमकटाक्षम् मुदलाऩ उपकारम्। 
+</details>
+
+
+### कार्पण्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कार्पण्यङ् गुलैयामैक्क् आगच् चॊल्लाद् ऒऴिय-वेण्डुम्-अवऱ्ऱिल् प्रधानम् आत्मोत्कर्षम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कार्पण्यस्याविनाशार्थं **अ-वक्तव्येषु** प्रधान-भूत आत्मोत्कर्षः । 
+</details>
+
+
+<details><summary>English</summary>
+
+In order that we may not lose the sense of helplessness,  
+the chief thing that should be avoided in speech is the expression of our excellence. 
+</details>
+
+<details><summary>Español</summary>
+
+Para que no podamos perder la sensación de impotencia,  
+Lo principal que debe evitarse en el habla  
+es la expresión de nuestra excelencia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कार्पण्यङ्गुलैयामैक् कागच् चॊल्लादॊऴियवेण्डुमवऱ्ऱिल् प्रधानम् आत्मोत्कर्षम्। 
+</details>
+
+### उपाय-निष्ठा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उपाय-निष्ठैयै मऱवामैक्क् आग  
+‘‘सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्गिऱ बडिये सॊल्ल-वेण्डुम्-अवऱ्ऱिल् प्रधानम् द्वयम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उपाय-निष्ठाया अविस्मरणार्थं  
+"78 सदैव वक्ता " इत्य्-उक्त-रीत्या  
+**वक्तव्येषु** प्रधानं द्वयम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+In order that one may not forget one's conviction in the upāya,  
+the chief among the things that should be uttered is Dvaya;  
+(the Bhāṣyakāra says) 
+
+> “one should ever utter the Dvaya with an understanding of its meaning ". 
+</details>
+
+<details><summary>Español</summary>
+
+Para que uno no pueda olvidar la convicción de uno en el upāya,  
+El jefe de las cosas que deberían pronunciarse es Dvaya;  
+(El Bhāṣyakāra dice) 
+
+> "Uno debería pronunciar el dvaya con una comprensión de su significado".
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+उपायनिष्ठैयै मऱवामैक्काग ‘‘सदैवं वक्ता’’(शरणागति-गद्यम्) ऎऩ्गिऱबडिये सॊल्लवेण्डुमवऱ्ऱिल् प्रधानम् द्वयम्। 
+</details>
+
+### भगवत्-प्रीति-रक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उगन्दु पणि-गॊळ्ळ उरियऩ्+++(=योग्यः)+++ आऩव् ऎम्-बॆरुमाऩ् तिरुव्-उळ्ळम् अऴलामैक्क् आग  
+करण-त्रयत्तालुम् 'सॆय्यादऩ सॆय्योम्'(तिरुप्पावै २) ऎऩ्ऩुम् अवऱ्ऱिल् प्रधानम् ब्रह्म-विद्-अपचारम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रेम्णा कैङ्कर्यं स्वीकर्तुम् अधिकृतस्य स्वामिनो हृदये  
+कोपानुत्पत्तये करण-त्रयेणापि  
+"अ-कृत्यं न कुर्मः" इत्य्-उक्तेषु (अकर्तव्येषु) प्रधानभूतो ब्रह्म-विद्-अपचारः। 
+</details>
+
+
+<details><summary>English</summary>
+
+In order that Bhagavān  
+who is entitled to receive our service with pleasure  
+may not become displeased at heart,  
+the most important among those that should be avoided by all the three senses  
+is offence to those that know Brahman;  
+as Andal says, 
+
+> “ We will never do what ought not to be done". 
+</details>
+
+<details><summary>Español</summary>
+
+Para que bhagavān  
+quien tiene derecho a recibir nuestro servicio con placer  
+puede que no se disgusten de corazón,  
+Los más importantes entre los que deben ser evitados por los tres sentidos  
+es una ofensa para aquellos que conocen a Brahman;  
+Como dice Andal, 
+
+> "Nunca haremos lo que no se debe hacer".
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+उगन्दु पणिगॊळ्ळ उरियऩाऩ वॆम्बॆरुमाऩ् तिरुवुळ्ळमऴलामैक्काग करणत्रयत्तालुम् 'सॆय्यादऩ सॆय्योम्'(तिरुप्पावै २) ऎऩ्ऩुमवऱ्ऱिल् प्रधानम् ब्रह्मविदपचारम्।  
+</details>
+
+### भागवत-कैङ्कर्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पुरुषार्थ-सागरम् वऱ्ऱुदल्+++(=शोषणम्)+++ वरैय्+++(=तीर[वत्])+++-इडुदल् सॆय्यामैक्क् आग  
+करण-त्रयत्तालुम् कर्तव्यङ्गळिल् प्रधानम्  
+भगवत्-कैङ्कर्यत्तिऩ् ऎल्लै निलम् आय्  
+शास्त्रानुज्ञातम् आऩ  
+आचार्यादि-भागवत-**कैङ्कर्यम्**, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पुरुषार्थ-सागरस्य क्षय-ह्रासानापादनार्थं कर्तव्येषु प्रधानम् -  
+भगवत्-कैवर्यस्य सीमा-भूमि-भूतं शास्त्रानुज्ञातम् आचार्यादि-भागवत-कैङ्कर्यम् ।
+</details>
+
+
+<details><summary>English</summary>
+
+In order that the sea of our supreme aim in life may not dry up or become shallow,  
+the most important among those things that should be done is service to the ācārya and other devotees of Bhagavān  
+as ordained in the śāstras  
+and forming the outer limit of the service of the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+Para que el mar de nuestro objetivo supremo en la vida  
+no se sece o se vuelva superficial,  
+Lo más importante entre esas cosas que se deben hacer  
+es el servicio al ācārya y otros devotos de Bhagavān  
+según lo ordenado en los Śāstras  
+y formando el límite exterior del servicio del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पुरुषार्थसागरम् वऱ्ऱुदल् वरैयिडुदल् सॆय्यामैक्काग करणत्रयत्तालुम् कर्तव्यङ्गळिल् प्रधानम् भगवत्कैङ्कर्यत्तिऩॆल्लै निलमाय् शास्त्रानुज्ञातमाऩ आचार्यादिभागवतकैङ्कर्यम्, 
+</details>
+
+## रहस्य-त्रये ऽनुसन्धानम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वयं-प्रयोजनम् आऩ इव्व्-उत्तर-कृत्यमुम्  
+रहस्य-त्रयत्तिल् फल-प्रतिपादकङ्गळ् आऩ प्रदेशङ्गळिले अनुसन्धेयम्।+++(4)+++  
+</details>
+
+<details><summary>English</summary>
+
+This code of conduct which should be followed after prapatti  
+and which is an end in itself  
+should be considered in those parts of the three mysteries (mantras )  
+which indicate the benefit or fruit that results.
+</details>
+
+<details><summary>Español</summary>
+
+Este código de conducta que debe seguirse después de Prapatti  
+y que es un fin en sí mismo  
+debe considerarse en esas partes de los tres misterios (mantras)  
+que indican el beneficio o la fruta que resulta.
+</details>
+
+<details><summary>मूलम्</summary>
+
+स्वयंप्रयोजनमाऩ इव्वुत्तरकृत्यमुम् रहस्यत्रयत्तिल् फलप्रतिपादकङ्गळाऩ प्रदेशङ् गळिले अनुसन्धेयम्।  
+</details>
+
+## सङ्ग्रह-श्लोकौ
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
