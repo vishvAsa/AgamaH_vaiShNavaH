@@ -6189,11 +6189,42 @@ ese servicio que realizan los Muktas y los Suris sin intermedio y con entusiasmo
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रणयिनमिव प्राप्तं पश्चात्प्रिया स्वसमन्वितं  
-महति मुहुरामृष्टे दृष्ट्वा मनौ मणिदर्पणे ।  
-प्रपदनधनास्सन्तश्शुद्धैः प्रभुं परिभुञ्जते  
-प्रसृमरमहामोदस्मेरप्रसूनसमैः क्रमैः ॥ ३५ ॥
+प्रणयिनम् इव **प्राप्तं** +++(←)+++पश्चात् प्रिया स्व-**समन्वितं**  
+**महति** मुहुर् **आमृष्टे दृष्ट्वा** +++(अष्टाक्षर-)+++मनौ मणि-दर्पणे ।  
+प्रपदन-धनास् सन्तश् शुद्धैः प्रभुं **परिभुञ्जते**  
+**प्रसृमर**+++(=फुल्लन्)+++--महामोद+++(=मल्लिका)+++-**स्मेर**-प्रसून-समैः **क्रमैः** ॥ ३५ ॥+++(5)+++
 </details>
+
+<details><summary>विषयः</summary>
+
+भक्तिः, मन्त्रः
+</details>
+
+
+<details><summary>English</summary>
+
+Like a beloved wife who, in a big jewelled mirror, well-polished,  
+sees her loving husband by the side of her own image -  
+her loving husband who has come behind her and stands beside her,  
+and is at once transported into the ecstasy of love  
+and enjoys his presence with the scattering of flowers that spread their fragrance all round -  
+(like that beloved wife ) good men, whose wealth consists in their prapatti, see the Supreme lord in the great mantra (Tiru mantra)  
+which has frequently been meditated upon  
+and enjoy Him with loving service similar to fragrant flowers.
+</details>
+
+<details><summary>Español</summary>
+
+Como una amada esposa que, en un gran espejo de joyas, bien pulido,  
+ve a su amado esposo al lado de su propia imagen -  
+Su amado esposo que ha venido detrás de ella y se para a su lado,  
+y de inmediato es transportado al éxtasis del amor  
+y disfruta de su presencia con la dispersión de flores que extienden su fragancia en general  
+(Como esa amada esposa) Los buenos hombres, cuya riqueza consiste en su Prapatti, ver al Señor Supremo en el Gran Mantra (Tiru Mantra)  
+que con frecuencia ha sido meditado  
+Y disfruta de él con un servicio amoroso similar a las flores fragantes.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -6203,11 +6234,37 @@ ese servicio que realizan los Muktas y los Suris sin intermedio y con entusiasmo
 प्रसृमरमहामोदस्मेरप्रसूनसमैः क्रमैः ॥ ३५ ॥
 </details>
 
-Like a beloved wife who, in a big jewelled mirror, well-polished, sees her loving husband by the side of her own image - her loving husband who has come behind her and stands beside her, and is at once transported into the ecstasy of love and enjoys his presence with the scattering of flowers that spread their fragrance all round - (like that beloved wife ) good men, whose wealth consists in their prapatti, see the Supreme lord in the great mantra (Tiru mantra) which has frequently been meditated upon and enjoy Him with loving service similar to fragrant flowers.
+<details><summary>सायण-टीका</summary>
+
+इप्पडि प्रपन्नर्गळ् पण्णुम् उत्तरकृत्यत्तिऩुडैय स्वयं प्रयोजनत्वत्तै दृष्टान्तप्रदर्शनत् ताले उपपादिक्किऱार् प्रणयिनमिवेत्यादिश्लोकत्ताल्। प्रिया – पतिप्रीतिविषयैयाऩ ऒरु पतिव्रतै, दर्पणे स्वसौन्दर्यमालोकयन्ती, पश्चात्प्राप्तं - तऩ् पिऩ्ऩाले वन्दिरुक्किऱ, अत एव स्वसमन्वितं – दर्पणत्तिल् तऩ्ऩोडे सेर्न्दिरुक्किऱ, प्रणयिनमिव – प्रणयिनं यथोपचरति तथा, सन्तः – ब्रह्मज्ञानवन्तः, प्रपदनधनाः – प्रपन्नाः, मुहुरामृष्टे – आचार्यसकाशात् पुनः पुनः मन्त्रार्थश्रवणेन पुनः पुनः तन्मननेन च निर्मलीकृते, महती – सर्वोत्कृष्टमाऩ, मनौ – मूलमन्त्ररूपमाऩ, मणिदर्पणे – मणिमयदर्पणत्तिल्, पश्चात्प्राप्तं – मकारार्थस्य पश्चादकारार्थतया विद्यमानं, प्रभुं – ईश्वरऩै, स्वसमन्वितं दृष्ट्वा – शेषशेषिभावादिसम्बन्धत्ताले स्वविशिष्टऩाग साक्षात्करित्तु, शुद्धैरिति । कैङ्कर्यक्रमत्तिल् शुद्धत्वं सात्विकत्या-गादियुक्तत्वं, पुष्पविषयत्तिल् शुभ्रत्वम् । प्रसृमरेत्यादि । प्रसृमरः – विसर्पन्, महामोदः – परिमळविशेषः येषां; दार्ष्टान्तिकत्तिल् महामोदम् स्वयम्प्रयोजनतै, तद्विशिष्टङ्गळाय्, स्मेर – विकसितङ्गळुमाऩ, प्रसूनसमैः – पुष्पङ्गळोडु तुल्यङ्गळाऩ, इदऩाल् उत्तरकृत्यत्तिऱ्कु स्वयम्प्रयोजनत्वमुम् शास्त्रीयगुणविशेषङ्गळुम् सूचितङ्गळागिऱदु। क्रमैः – परिचर्याक्रमङ्गळाले, परिभुञ्जते – बहुप्रकारमाग अनुभविक्किऱार्गळॆऩ्ऱबडि। यथा लोकत्तिल् भर्तावुक्कु अत्यन्तम् प्रियतमैयाऩ ऒरु नायगि तऩ्ऩै यलङ्गरित्तुक्कॊण्डु स्वच्छमाऩ कण्णाडियिल् पार्त्तुक् कॊण्डिरुक्कुम्बोदु तऩ्ऩुडैय पिऩ्बुऱत्तिल् प्राप्तऩाऩ तऩ्ऩिडत्तिल् अत्यन्तम् प्रणयियाऩ नायगऩै तऩ्ऩोडु कूडिऩवराग कण्णाडियिले पार्त्तु अप्पोदुण्डाऩ शृङ्गाररसविशेषत्ताले पुष्पङ्गळैयुम् चन्दनादिगळैयुम् अवऩ् पेरिल् इऱैत्तु उपचरिक्किऱाळो, अप्पडिये प्रपन्नऩ् ज्ञानानन्दस्वरूपऩायुम्, मकारवाच्यऩायुम्, शाब्दप्राधान्यमुळ्ळवऩायुम्, तऩ्ऩैयुम् शाब्दप्राधान्यत्ताले तऩ् पिऩ् निऱ्कुम् अकारवाच्यऩाऩ शेषियैयुम् मूलमन्त्रमागिऱगण्णाडियिले पार्त्तुस्वयम्प्रयोजनङ्गळागैयाले पुष्पङ्गळ्बोल् भोग्यङ्गळाऩ कैङ्कर्यङ्गळाले अनभिमुखमायुळ्ळ भगवाऩै मनुमयमाऩ मणिदर्पणत्तिल् अभिमुखमाक्कि अनुभविक्किऱाऩॆऩ्ऱु तात्पर्यम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे  
 उत्तरकृत्याधिकारः पञ्चदशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+उत्तरकृत्याधिकारः पञ्चदशः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+॥ इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्द्धाभिषिक्तस्य  
+निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक  
+श्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ  
+श्री सारबोधिन्याख्यायां व्याख्यायां  
+उत्तरकृत्याधिकारः पञ्चदशः ॥
+</details>
 
