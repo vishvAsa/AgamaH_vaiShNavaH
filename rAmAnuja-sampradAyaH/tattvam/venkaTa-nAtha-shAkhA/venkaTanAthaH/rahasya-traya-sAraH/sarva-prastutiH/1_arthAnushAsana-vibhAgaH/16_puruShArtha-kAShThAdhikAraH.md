@@ -545,10 +545,91 @@ para que lo ensalte como en las palabras:-
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिये नित्यरुम् मुक्तरुम्  
+ईश्वराभिप्रायत्तै साक्षात्-करित्तुप् पण्णुगिऱ कैङ्कर्यङ्गळाले  
+
+> ‘‘प्रहर्षयिष्यामि स-नाथ-जीवितः’’  
+> (आळवन्दार्-स्तोत्रम् ४६) 
+
+ऎऩ्गिऱ बडिये भोग-विशेषत्तै उत्पादित्त् अम्-मुखत्तालेय् अतिशयाधायकर् आवर्गळ्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथैव नित्या मुक्ताश् च ईश्वाराभिप्रायं **साक्षात्-कृत्य**  
+क्रियमाणैः **कैङ्कर्यैः**  
+
+> “प्रहर्षयिष्यामि स-नाथ-जीवितः"  
+(आळवन्दार्-स्तोत्रम् ४६) 
+
+इत्य्-उक्त-रीत्या भोग-विशेषम् उत्पाद्य तन्-मुखेनातिशयाधायका भवन्ति । 
+</details>
+
+<details><summary>English</summary>
+
+In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord  
+by direct perception of the Lord's will  
+and by acting in such a way as to give Him bhoga or enjoyment, 
+
+The prapannas, too, can give rise to a special kind of bhoga or enjoyment to the Lord  
+and thus promote His glory  
+as stated in the following śloka :-  
+
+> "When shall I always be Thy servant,  
+> look upon Thee as my Master  
+> and in this way give Thee delight?". 
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera que los Muktas (almas liberadas) y los nityas (los sūris) promueven la gloria del Señor  
+por percepción directa de la voluntad del Señor  
+y actuando de tal manera que le diera bhoga o disfrute,
+
+Las Prapannas también pueden dar lugar a un tipo especial de bhoga o disfrute del Señor  
+y así promueve su gloria  
+como se indica en el siguiente Śloka:-
+
+> "¿Cuándo seré siempre Tu siervo,  
+Te miraré como mi Maestro  
+y de esta manera Te daré deleite?"
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये नित्यरुम् मुक्तरुमीश्वराभिप्रायत्तै साक्षात्करित्तुप्पण्णुगिऱ कैङ्कर्यङ्गळाले ‘‘प्रहर्षयिष्यामि सनाथजीवितः’’(आळवन्दार् स्तोत्रम् ४६) ऎऩ्गिऱबडिये भोगविशेषत्तै उत्पादित्तम्मुगत्ताले यतिशयाधायकरावर्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-प्रकारम् शास्त्र-मुखत्ताले ईश्वराभिप्रायत्तैय् अऱिन्दु  
+कैङ्कर्यम् पण्णुगिऱ कृत-कृत्यऩुक्कुम् समानम्। +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं प्रकारः शास्त्र-मुखेनेश्वराभिप्रायं विज्ञाय  
+कैङ्कर्यं कुर्वतः  
+कृत-कृत्यस्यापि समानः ॥ 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रकारम् शास्त्रमुखत्ताले ईश्वराभिप्रायत्तै यऱिन्दु कैङ्कर्यम् पण्णुगिऱ कृतकृत्यऩुक्कुम् समानम्। 
+</details>
 
 
 
-In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct perception of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapannas, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following śloka :-"When shall I*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the śāstras (though not directly ) and renders service to the Lord.
+
+
+
+
+
+
+The prapanna learns the Lord's will from the śāstras (though not directly ) and renders service to the Lord.
 
 
 THE LORD IS PLEASED AT THE SERVICE RENDERED
