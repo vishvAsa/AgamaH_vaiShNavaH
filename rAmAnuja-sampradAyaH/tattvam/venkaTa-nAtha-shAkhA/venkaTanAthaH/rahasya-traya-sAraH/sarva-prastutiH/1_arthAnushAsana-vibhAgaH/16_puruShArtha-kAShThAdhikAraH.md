@@ -3,6 +3,7 @@ title = "१६ पुरुषार्थ-काष्ठाधिकारः
 
 +++
 
+## प्रवेशः
 <details><summary>English</summary>
 
 (16) THE CHAPTER ON THE FARTHEST EXTENT OF OUR ULTIMATE OBJECT IN LIFE. page219
@@ -27,6 +28,15 @@ title = "१६ पुरुषार्थ-काष्ठाधिकारः
 
 भागवत-सेवा, भागवत-भाग्यम्, भागवतः
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-तन्त्र-स्वामित्वात् स्व-बहु-मति-पात्रेषु नियतं  
+श्रियः कान्तो देवस् स खलु **विनियुङ्क्ते** चिद्-अचितौ ।  
+यथा लोक+आम्नायं+++(=वेदं)+++, यति-पति-मुखैर् **आहित**-धियां  
+ततो नः कैङ्कर्यं तद्-अभिमत-**पर्यन्तम् अभवत्** ॥ ३६ ॥ +++(4)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -133,12 +143,226 @@ as far as the service of those who are dear to Him (Bhāgavatas).
 भगवत्-कैङ्कर्यम् भागवत-कैङ्कर्य-पर्यन्तम् आगव् आयिऱ्ऱ् ऎऩ्गिऱार्।  
 </details>
 
+## भागवत-पर्यन्तं कैङ्कर्यम्
+<details><summary>English</summary>
 
 REASONS FOR RENDERING SERVICE TO BHĀGAVATĀS :
+</details>
 
-If it is asked here how it can be stated that the service of Bhagavān extends up to the service of His devotees (the Bhāgavatas), the answer is as follows:- It has been said in the Vedartha Sangraha: "He is the śeṣa whose svarūpa or essential nature is such as is chosen on account of the desire to promote the glory of another and that another is the śeṣī." So in regard to the Supreme Ruler of all, the Jīva   who is the śeṣa is bound to promote His glory. That glory will depend on the nature of the śeṣa, whether it be sentient or non-sentient. It may be asked, "What is the glory that the jīva is capable of conferring on the Supreme Being? With his body and the like, he can confer only such glory as non-sentient things do. So this service is common to him and acit. The special glory that he can be the cause of promoting must be by means of his intelligence or chaitanya.[^55] When the jīva acts against the spirit of the śāstras, Iśvara, who is the Ruler and the Dispenser of punishment, enjoys only the delight or delectation of līlā and thus attains atisaya glory. It has been said: " Bhagavān, 'who has all beings as His body, rejoices when a jīva does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols him as in the words :-"All these are, indeed, generous". In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct perception of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapannas, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following śloka :-"When shall I*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the śāstras (though not directly ) and renders service to the Lord.
+<details><summary>Español</summary>
+
+Razones para prestar servicio a Bhāgavatās:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इङ्गु भगवत्कैङ्कर्यत्तै भागवत-कैङ्कर्य-पर्यन्तम् आगच् चॊल्लुगैक्क् अडिय् ऎऩ् 
+
+ऎऩ्ऩिल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> भगवत्-कैङ्कर्यस्य भागवत-कैङ्कर्यान्तत्वोक्तेर् मूलं किम् 
+इति चेत् -
+</details>
+
+
+<details><summary>English</summary>
+
+If it is asked here 
+
+> how it can be stated that the service of Bhagavān extends up to the service of His devotees (the Bhāgavatas), 
+
+the answer is as follows:- 
+</details>
+
+<details><summary>Español</summary>
+
+Si se pregunta aquí
+
+> Cómo se puede afirmar que el servicio de Bhagavān se extiende hasta el servicio de sus devotos (los Bhāgavatas),
+
+La respuesta es la siguiente:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्गु भगवत्कैङ्कर्यत्तै भागवतकैङ्कर्यपर्यन्तमागच्चॊल्लुगैक्कडियॆऩ् ऎऩ्ऩिल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘परगतातिशयाधानेच्छयोपादेयत्वम् एव यस्य स्व-रूपं  
+> स शेषः,  
+> परश्शेषी’’+++(5)+++  
+> (वेदार्थ-सङ्ग्रहः।) 
+
+ऎऩ्ऱु वेदार्थ-संग्रहत्तिलेय् अरुळिच्-चॆय्द बडिये
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘परगतातिशयाधानेच्छयोपादेयत्वम् एव यस्य स्व-रूपं  
+> स शेषः,  
+> परश्शेषी’’  
+> (वेदार्थ-सङ्ग्रहः।) 
+
+
+इति वेदार्थ-संग्रहे ऽनुगृहीत-विधया 
+</details>
+
+
+<details><summary>English</summary>
+
+It has been said in the Vedartha Sangraha: 
+
+> "He is the śeṣa whose svarūpa or essential nature is such as is chosen  
+> on account of the desire to promote the glory of another  
+> and that another is the śeṣī." 
+</details>
+
+<details><summary>Español</summary>
+
+Se ha dicho en el Vedartha Sangraha:
+
+> "Él es el śeṣa cuya svarūpa o naturaleza esencial es la que se elige  
+> debido al deseo de promover la gloria de otro  
+> y ese otro es el Śeṣī ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘परगतातिशयाधानेच्छयोपादेयत्वमेव यस्य स्वरूपं सशेषः परश्शेषी’’(वेदार्थ-सङ्ग्रहः।) ऎऩ्ऱु वेदार्थसंग्रहत्तिलेय् अरुळिच्चॆय्दबडिये
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सर्वेश्वरऩैप् पऱ्ऱ **शेष-भूतऩ्** आऩव् इवऩ्  
+**अतिशयाधानम् पण्ण प्राप्तऩ्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सर्वेश्वरं प्रति शेष-भूतो ऽयम् अतिशयाधान-करणार्थ-प्रात-रूपः । 
+</details>
+
+
+<details><summary>English</summary>
+
+So in regard to the Supreme Ruler of all,  
+the Jīva who is the śeṣa  
+is bound to promote His glory. 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, con respecto al gobernante supremo de todos,
+El Jīva que es el Śeṣa
+está obligado a promover su gloria.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरऩैप्पऱ्ऱ शेषभूतऩाऩ विवऩ् अतिशयाधानम् पण्णप्राप्तऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व्-अतिशयन् दाऩ् +++(शेष-भूत-)+++वस्तु-+++(चेतनत्वादि-)+++शक्तियै **अनुरोधित्तु वर वेणुम्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सोऽतिशयो +++(शेष-भूत-)+++वस्तु-+++(चेतनत्वादि-)+++शक्तिम् अनुरुध्य भवितुम् अर्हति । 
+</details>
+
+
+<details><summary>English</summary>
+
+That glory will depend on the nature of the śeṣa,  
+whether it be sentient or non-sentient. 
+</details>
+
+<details><summary>Español</summary>
+
+Esa gloria dependerá de la naturaleza del Śeṣa,
+ya sea sensible o no sensible.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्वतिशयन्दाऩ् वस्तुशक्तियै अनुरोधित्तु वरवेणुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आऩाल् जीवऩुक्कु परऩैप्पऱ्ऱ शक्यम् आऩ अतिशयम् एद् 
+
+ऎऩ्ऱु पार्त्तव्-इडत्तिल्  
+शरीरत्वादि-मुखत्ताले अतिशयाधानम् पण्णुगैय्  इवऩुक्कुम् अचित्तुक्कुम् पॊदुवाय्+++(=समम्)+++ इरुन्ददु+++(=??)+++  
+इवऩ् शेषिक्कु विशेषित्तुप् पण्णुम् अतिशयम्  
+चैतन्य-मुखत्तालेय् आय् इरुक्कुम्।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> तर्हि जीवस्य पर-विषये शक्यो ऽतिशयः क 
+
+इति **परामृष्टे सति**,  
+शरीरत्वादि-मुखेन **क्रियमाणम् अतिशयाधानम्**  
+अस्य च अचितश् च **साधारणं भवतीति**,  
+अनेन शेषिणे विशिष्य **क्रियमाणो** ऽतिशयश् **चैतन्य-मुखेन स्यात्**।  
+
+</details>
+
+<details><summary>English</summary>
+
+It may be asked,  
+
+> What is the glory that the jīva is capable of conferring on the Supreme Being? 
+
+With his body and the like, he can confer only such glory as non-sentient things do.  
+So this service is common to him and acit.  
+The special glory that he can be the cause of promoting must be by means of his intelligence or chaitanya.[^55] 
 
 [^55]: In the sentences that follow, the author points out the different ways in which different kinds of people (including those who violate his commands ) promote His glory as His śeṣas.
+
+</details>
+
+<details><summary>Español</summary>
+
+Se puede preguntar,
+
+> ¿Cuál es la gloria que el Jīva es capaz de conferir al ser supremo?
+
+Con su cuerpo y similares, puede conferir solo una gloria como lo hacen las cosas no sensibles.  
+Entonces, este servicio es común para él y ACIT.  
+La gloria especial de que él puede ser la causa de la promoción  
+debe ser mediante su inteligencia o Chaitanya. [^es_55]
+
+[^es_55]: En las oraciones que siguen, el autor señala las diferentes formas en que diferentes tipos de personas (incluidas las que violan sus órdenes) promueven su gloria como sus Śeṣas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩाल् जीवऩुक्कु परऩैप्पऱ्ऱ शक्यमाऩ अतिशयमेदॆऩ्ऱु पार्त्तविडत्तिल् शरीरत्वादिमुखत्ताले अतिशयाधानम् पण्णुगै यिवऩुक्कुमचित्तुक्कुम् पॊदुवायिरुन्ददु, इवऩ् शेषिक्कु विशेषित्तुप्पण्णुमतिशयम् चैतन्यमुखत्तालेयायिरुक्कुम्।
+</details>
+
+
+
+
+
+When the jīva acts against the spirit of the śāstras, Iśvara, who is the Ruler and the Dispenser of punishment, enjoys only the delight or delectation of līlā and thus attains atisaya glory. It has been said: " Bhagavān, 'who has all beings as His body, rejoices when a jīva does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols him as in the words :-"All these are, indeed, generous". In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct perception of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapannas, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following śloka :-"When shall I*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the śāstras (though not directly ) and renders service to the Lord.
+
 
 THE LORD IS PLEASED AT THE SERVICE RENDERED
 
