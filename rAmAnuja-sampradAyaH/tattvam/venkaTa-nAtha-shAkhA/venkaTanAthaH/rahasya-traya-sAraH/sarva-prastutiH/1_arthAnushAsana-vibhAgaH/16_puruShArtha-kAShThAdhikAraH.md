@@ -193,6 +193,12 @@ La respuesta es la siguiente:-
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+अङ्गु शेषत्वम् पारतन्त्र्यरूपमागिल् भगवत्कैङ्कर्यमे सिद्धिक्क वऴियिल्लामलिरुक्क भागवतकैङ्कर्यमॆप्पडि सिद्धिक्कुम् ऎऩ्गिऱ शङ्गैयै शेषत्वलक्षणम् विलक्षणमागैयाल् अदऩाल् भगवत्कैङ्कर्यमुम् भागवतकैङ्कर्यमुम् सिद्धिक्कलामॆऩ्ऱु सॊल्लि परिहरिक्कप्पोगिऱवराय् अन्द लक्षणत्तै प्रश्नपूर्वक माग उपपादिक्कत् तुडङ्गुगिऱार् इङ्गु इत्यादिना । इङ्गु - उत्तरकृत्यत्तिऩुडैय मध्यत्तिल्। अडियॆऩ्ऩॆऩ्ऩिल् - कारणमॆऩ्ऩॆऩ्ऩिल्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘परगतातिशयाधानेच्छयोपादेयत्वम् एव यस्य स्व-रूपं  
@@ -238,6 +244,49 @@ Se ha dicho en el Vedartha Sangraha:
 ‘‘परगतातिशयाधानेच्छयोपादेयत्वमेव यस्य स्वरूपं सशेषः परश्शेषी’’(वेदार्थ-सङ्ग्रहः।) ऎऩ्ऱु वेदार्थसंग्रहत्तिलेय् अरुळिच्चॆय्दबडिये
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+परगतेत्यादि ।  
+**परः** – शेषी, तद्-**गतो** यो **अतिशयः** – उत्कर्षः,  
+तद्-**आधानेच्छया** – तदुत्पादनेच्छया,  
+**उपादेयत्वम्** एव – स्वीकार्यत्वमेव यस्य वस्तुनः स्वरूपं  
+**सः शेषः** – शेषशब्दवाच्यः, **परः** – तत् प्रतिसम्बन्धी, **शेषी** – शेषिशब्दवाच्यः, इङ्गु स्वगतातिशयाधायकऩाऩ शेषियिऩिडत्तिल् अतिव्याप्तिवारणार्थम् परशब्दम्।  
+
+पर-शब्दत्तिऱ्कुम् **अतिशय**-शब्दत्तिऱ्कुम् परश् चासाव् अतिशयश्चेति कर्मधार-यभ्रमम् वारामैक्काग **गत**-शब्दम्।  
+**अतिशय**-शब्दम् निकृष्टेतर-परम् आगैयाल्  
+पर-गत-विनाशादि-जनकम् आऩ शस्त्राग्नि-कण्टकादिगळिल् अतिव्याप्तियिल्लै।  
+
+इङ्गु **इच्छा**-शब्दत्तै तत्-तद्-वस्तु-गत-शेषत्वानुगुणम् आग शेषि-गतेच्छा-परम् आयुम्, शेष-गतेच्छा-परम् आयुम्, उभयगतेच्छा-परम् आयुम्, +++(अचित्त्वात्)+++ उदासीन-गतेच्छा-परम् आयुम् कॊळ्ळवेण्डुम्।  
+शेषिगतेच्छया उपादेयङ्गळुक्कु उदाहरणम् -  
+"इदं मदीयं भूयात्" ऎऩ्गिऱ शॆषियिऩुडैय इच्छैयिऩाले उपादेयङ्गळाऩ गृह-क्षेत्रादिगळ्।  
+शेषगतेच्छैयिऩाले उपादेयङ्गळुक्कु उदाहरणम् -  
+अनुष्ठान-दशैयिल् +++(शेषि-भूत-)+++यागत्तिऱ्कु शेष-भूतऩ् आऩ यजमाऩऩाले  
+"अहं यक्ष्ये" ऎऩ्गिऱ सङ्कल्पात्मकेच्छैयिऩाले उपादेयम् आऩ यजमाऩऩ् मुदलाऩवै।  
+उभय-गतेच्छैयिऩाले उपादेयत्तिऱ्कु उदाहरणम् -  
+राजेच्छैयिऩालुम् भृत्येच्छैयिऩालुम् उपादेयर्गळ् आऩ  
+राजाविऩुडैय भृत्यादिगळ्।  
+उदासीनगतेच्छया उपादेयत्तिऱ्कु उदाहरणम् -  
+दर्श-पूर्णमासादिगळुक्कु अतिशयाधायकम् आग  
+प्रयाजादिगळैप् पण्णक् कडवेऩ्  
+ऎऩ्गिऱ यजमाऩऩ्-उडैय इच्छैयिऩाले  
+उपादेयङ्गळ् आऩ प्रयाजादिगळ्।  
+
+**उपादेयत्वं** – स्वीकार्यत्वं । व्यवहर्तव्यत्वमिति यावत् ।  
+इङ्गु उपादेयत्वम् उपादातुमर्हत्वरूपमागैयाल् सुषुप्त्याद्यकिञ्चित्कारदशैकळिल् अव्याप्तियिल्लै।  
+
+इङ्गु **एव**कारत्ताल् कदाचित् स्वार्थ-निरपेक्षम् आग  
+भृत्यादि-प्रयोजन-साधकर्गळ् आऩ प्रकृष्ट-कृपा-स्नेहशालिगळाऩ शेषिगळ् इडत्तिल्  
+अतिव्याप्ति-वारितम् आगिऱदु;  
+अवर्गळ्-उडैय स्वरूपम् सर्वदा-भृत्यादि-गतातिशयाधानेच्छैयालेये उपादेयत्व-रूपम् अऩ्ऱिऱे।  
+
+**यस्य** - ऎन्द वस्तुविऩुडैय, **स्वरूपं** – स्वंरूपं, असाधारणधर्मः ।  
+स्वरूप-निरूपक-धर्म इत्यर्थः ।  
+
+**स शेषः** – अवऩ् शेषशब्दवाच्यऩ्।  
+**परः** - अवऩुक्कु प्रतिसम्बन्धी, अदावदु शेषऩाले आहितमाऩ अतिशयभाक्काऩवऩ्।  
+**शेषी** – शेषिशब्दवाच्यऩ्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -271,6 +320,13 @@ está obligado a promover su gloria.
 सर्वेश्वरऩैप्पऱ्ऱ शेषभूतऩाऩ विवऩ् अतिशयाधानम् पण्णप्राप्तऩ्। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+लक्षण-घटकम् आऩ अतिशय-शब्दत्तिऩ्-उडैय अर्थत्तै  
+तत्-तद्-वस्त्व्-अनुगुणम् आग निरूपिक्किऱार् अव्वतिशयन्दाऩित्यादिना । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -300,6 +356,12 @@ ya sea sensible o no sensible.
 
 अव्वतिशयन्दाऩ् वस्तुशक्तियै अनुरोधित्तु वरवेणुम्। 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+वस्तुशक्तियै - शेषवस्तुशक्तियै। शक्ति – बलम् 
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -357,6 +419,19 @@ debe ser mediante su inteligencia o Chaitanya. [^es_55]
 आऩाल् जीवऩुक्कु परऩैप्पऱ्ऱ शक्यमाऩ अतिशयमेदॆऩ्ऱु पार्त्तविडत्तिल् शरीरत्वादिमुखत्ताले अतिशयाधानम् पण्णुगै यिवऩुक्कुमचित्तुक्कुम् पॊदुवायिरुन्ददु, इवऩ् शेषिक्कु विशेषित्तुप्पण्णुमतिशयम् चैतन्यमुखत्तालेयायिरुक्कुम्।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+शरीरत्वादिमुखत्ताले – शरीरत्वं – नियताधेयत्वनियतशेषत्वादि । 
+आदिपदत्ताल् लीलोपकरणत्वादिगळुक्कु सङ्ग्रहम्।  
+इवऩुक्कुम् अचित्तुक्कुम् पॊदुवायिरुन्ददु इति ।  
+इन्द अतिशयाधानम् चिच्छक्तियै युडैय चेतनऩुक्कु अचेतनव्यावृत्तमाग इल्लैयॆऩ्ऱबडि।  
+अचेतनत्तिऱ्कुम् शरीरत्वलीलोपकरणत्वादिना अतिशयाधायकत्वमुण्डिऱे, आऩाल् चेतनऩुक्कु अचेतनव्यावृत्तातिशयाधायकत्वम् उण्डो वॆऩ्ऩ अदै निरूपिक्किऱार् इवऩित्यादियाल्।  
+विशेषित्तुप् पण्णुम् - अचेतनव्यावृत्तमागप् पण्णुम्। 
+
+चैतन्यमुखत्तालेय् आय् इरुक्कुम् इति । चैतन्यमुखत्ताल् पण्णुम् अतिशयम् चैतन्यमिल्लादवचिद्वयावृत्त मागवेयिरुक्कुमॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदिल् इवऩ् शास्त्र-**विरुद्धम् आग वर्तिक्कुम्** पोदु  
@@ -394,9 +469,86 @@ y así alcanza la gloria de Atisaya.
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+चैतन्यमुखत्ताले पण्णुमदिशयङ्गळिलुम् हेयोपादेयङ्गळै विभजित्तुक्काट्टुगिऱार् अदिलित्यादियाल्। अदिल् – चैतन्यमुखत्ताले पण्णुमदिशयङ्गळिल्, लीलारसमात्रत्तै युण्डाक्कि इति । इङ्गु मात्रशब्दत्ताल् कैङ्कर्यत्ताले भोगरसत्तैयुम्, कर्मवश्यतैयाले लीलारसत्तैयुमुण्डाक्कि अतिशयाधानम् पण्णुम् प्रपन्नव्यावृत्तिः । लीलारसमात्रजनकमागैयाले इव्वतिशयाधानम् हेयमॆऩ्ऱु सूचितम्। 
+</details>
 
 
-It has been said: " Bhagavān, 'who has all beings as His body, rejoices when a jīva does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols him as in the words :-"All these are, indeed, generous". In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct perception of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapannas, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following śloka :-"When shall I*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the śāstras (though not directly ) and renders service to the Lord.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**शास्त्रानुगुणम् आग वर्तिक्कुम्** बोदु 
+
+> ‘‘शुभे त्व् असौ **तुष्यति** दुष्कृते तु **न तुष्यते** ऽसौ परमश् शरीरी’’(भारतम् शान्ति-पर्व १९९-२५।) 
+
+ऎऩ्गिऱ बडियेय् ईश्वरऩुक्कु **सन्तोषत्तैय् उण्डाक्किय्**  
+अवऩ्-उडैय औदार्यादि-गुणङ्गळ् **कुमर्+++(→व्यर्थम् [प्रजानुत्पत्त्या])+++ इराद बडिय्** अम्-मुखत्ताले  
+‘‘उदारास् सर्व एवैते’’(गीता ७-१८) ऎऩ्ऱ् अवऩ्-दाऩे **कॊण्डाडुम् बडिय् अतिशयाधायकऩ्** आम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शास्त्रानुगुण-रूपेण वर्तने तु, 
+
+> ‘‘शुभे त्व् असौ **तुष्यति** दुष्कृते तु **न तुष्यते** ऽसौ परमश् शरीरी’’(भारतम् शान्ति-पर्व १९९-२५।) 
+
+इत्य्-उक्त-रीत्येश्वरस्य सन्तोषम् उत्पाद्य  
+तदीयौदार्यादि-गुणानाम् अवन्ध्यत्वापादन-मुखेन  
+"उदाराः सर्व एवैते" इति तेनैवाभिनन्दनीय-रूपेणातिशयाधायको भवति । 
+</details>
+
+
+
+<details><summary>English</summary>
+
+It has been said: 
+
+>"Bhagavān, who has all beings as His body,  
+> rejoices when a jīva does what is good  
+> and does not rejoice when the action is evil." 
+
+When a man acts in accordance with the śāstras,  
+he gives thereby delight to the Lord  
+and thus does not let his generosity and other qualities run to waste,  
+but promotes the glory of the Lord  
+so that He extols him as in the words :-  
+
+> "All these are, indeed, generous". 
+</details>
+
+<details><summary>Español</summary>
+
+Se ha dicho:
+
+> "Bhagavān, que tiene todos los seres como su cuerpo,  
+> se regocija cuando un Jīva hace lo que es bueno  
+> y no se regocija cuando la acción es malvada ".
+
+Cuando un hombre actúa de acuerdo con los Śāstras,  
+Él da el deleite al Señor  
+y por lo tanto no deja que su generosidad y otras cualidades se desperdicien,  
+pero promueve la gloria del Señor  
+para que lo ensalte como en las palabras:-
+
+> "Todos estos son, de hecho, generosos".
+</details>
+
+<details><summary>मूलम्</summary>
+
+शास्त्रानुगुणमाग वर्तिक्कुम्बोदु ‘‘शुभेत्वसौ तुष्यति दुष्कृते तु न तुष्यतेऽसौ परमश्शरीरी’’(भारतम् शान्ति-पर्व १९९-२५।) ऎऩ्गिऱबडिये यीश्वरऩुक्कु सन्तोषत्तै युण्डाक्कि यवऩुडैय औदार्यादिगुणङ्गळ् कुमरिरादबडि यम्मुखत्ताले ‘‘उदारास्सर्व एवैते’’(गीता ७-१८) ऎऩ्ऱवऩ्दाऩे कॊण्डाडुम्बडि यतिशयाधायकऩाम्।  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+शास्त्रानुगुणमाग वर्तिक्कुम् पोदु इत्यादि । असौ शरीरी – सर्वशरीरियाऩ, परमः – परमपुरुषऩाऩवऩ्, चेतन ऩाले शुभे – शुभमाऩ कर्मावाऩदु, क्रियमाणे सति, तुष्यति - सन्तुष्टो भवति । दुष्कृते तु क्रियमाणे न तुष्यते । कुमरिरादबडि - व्यर्थमागादबडि पण्णि इति शेषः । अतिशयाधायकऩाम् - भक्ति यैप्पण्णि भगवाऩिडत्तिल् निऩ्ऱुम् ऐश्वर्यादिगळै प्रतिग्रहित्तु अदऩाल् भगवाऩुक्कु औदार्यरूपातिशयत्तै युण्डुबण्णुवाऩॆऩ्ऱबडि। 
+</details>
+
+
+
+
+
+In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct perception of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapannas, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following śloka :-"When shall I*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the śāstras (though not directly ) and renders service to the Lord.
 
 
 THE LORD IS PLEASED AT THE SERVICE RENDERED
