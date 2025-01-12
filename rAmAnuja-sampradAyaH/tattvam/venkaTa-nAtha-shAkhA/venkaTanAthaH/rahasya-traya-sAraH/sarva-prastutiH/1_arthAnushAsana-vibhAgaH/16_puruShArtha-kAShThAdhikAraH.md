@@ -357,11 +357,46 @@ debe ser mediante su inteligencia o Chaitanya. [^es_55]
 आऩाल् जीवऩुक्कु परऩैप्पऱ्ऱ शक्यमाऩ अतिशयमेदॆऩ्ऱु पार्त्तविडत्तिल् शरीरत्वादिमुखत्ताले अतिशयाधानम् पण्णुगै यिवऩुक्कुमचित्तुक्कुम् पॊदुवायिरुन्ददु, इवऩ् शेषिक्कु विशेषित्तुप्पण्णुमतिशयम् चैतन्यमुखत्तालेयायिरुक्कुम्।
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् इवऩ् शास्त्र-**विरुद्धम् आग वर्तिक्कुम्** पोदु  
+शासिताव् आय् दण्ड-**धरऩ्** आऩ ईश्वरऩुक्कु **लीला**-रस-मात्रत्तैय् **उण्डाक्कि**  
+अम्-मुखत्तालेय् **अतिशयाधायकऩ् आम्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्रायं शास्त्र-विरुद्ध-रूपेण वर्तते चेत् —  
+शासितुर् दण्ड-धरस्येश्वरस्य **लीला**-रस-मात्रम् **उत्पाद्य**  
+तन्-मुखेनातिशयाधायको भवति ।  
+</details>
+
+<details><summary>English</summary>
+
+When the jīva acts against the spirit of the śāstras,  
+Iśvara, who is the Ruler and the Dispenser of punishment,  
+enjoys only the delight or delectation of līlā  
+and thus attains atisaya glory. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando el Jīva actúa contra el espíritu de los Śāstras,  
+Iśvara, que es el gobernante y el dispensador del castigo,  
+disfruta solo de deleite o deleción de līlā  
+y así alcanza la gloria de Atisaya.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिलिवऩ् शास्त्रविरुद्धमाग वर्तिक्कुम्बोदु शासितावाय् दण्डधरऩाऩ ईश्वरऩुक्कु लीलारसमात्रत्तैयुण्डाक्कि अम्मुगत्ताले यतिशयाधायकऩाम्। 
+</details>
 
 
 
 
-When the jīva acts against the spirit of the śāstras, Iśvara, who is the Ruler and the Dispenser of punishment, enjoys only the delight or delectation of līlā and thus attains atisaya glory. It has been said: " Bhagavān, 'who has all beings as His body, rejoices when a jīva does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols him as in the words :-"All these are, indeed, generous". In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct perception of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapannas, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following śloka :-"When shall I*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the śāstras (though not directly ) and renders service to the Lord.
+It has been said: " Bhagavān, 'who has all beings as His body, rejoices when a jīva does what is good and does not rejoice when the action is evil." When a man acts in accordance with the stāstras, he gives thereby delight to the Lord and thus does not let his generosity and other qualities run to waste, but promotes the glory of the Lord so that He extols him as in the words :-"All these are, indeed, generous". In the same way as the muktas (released souls) and the nityas (the sūris ) promote the glory of the Lord by direct perception of the Lord's will and by acting in such a way as to give Him bhoga or enjoyment, the prapannas, too, can give rise to a special kind of bhoga or enjoyment to the Lord and thus promote His glory as stated in the following śloka :-"When shall I*always be Thy servant, look upon Thee as my Master and in this way give Thee delight?". The prapanna learns the Lord's will from the śāstras (though not directly ) and renders service to the Lord.
 
 
 THE LORD IS PLEASED AT THE SERVICE RENDERED
