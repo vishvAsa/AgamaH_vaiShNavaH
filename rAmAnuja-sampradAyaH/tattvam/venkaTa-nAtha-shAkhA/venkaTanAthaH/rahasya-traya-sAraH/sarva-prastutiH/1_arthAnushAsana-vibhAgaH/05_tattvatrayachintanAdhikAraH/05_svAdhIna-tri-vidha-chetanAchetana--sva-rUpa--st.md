@@ -35,7 +35,7 @@ y nuestro ācārya s (śrī yāmunācārya y Śrī rāmānujācārya) lo han dec
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि-विध-चेतनर् ऎऩ्ऱदु  
-बद्धरैयुम् मुक्तरैयुम् नित्यरैय् उम्. 
+बद्धरैयुम् मुक्तरैयुम् नित्यरैयुम्. 
 </details>
 
 <details><summary>English</summary>
@@ -56,7 +56,7 @@ Los tres tipos de seres sintientes son los que están en esclavitud (Baddha), lo
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रि-विधाचेतनम् ऎऩ्ऱदु  
-त्रि-गुण-द्रव्यत्तैय् उम्, कालत्तैय् उम्, शुद्ध-सत्त्वम् आऩ द्रव्यत्तैय् उम्.
+त्रि-गुण-द्रव्यत्तैयुम्, कालत्तैयुम्, शुद्ध-सत्त्वम् आऩ द्रव्यत्तैयुम्.
 </details>
 
 <details><summary>English</summary>
