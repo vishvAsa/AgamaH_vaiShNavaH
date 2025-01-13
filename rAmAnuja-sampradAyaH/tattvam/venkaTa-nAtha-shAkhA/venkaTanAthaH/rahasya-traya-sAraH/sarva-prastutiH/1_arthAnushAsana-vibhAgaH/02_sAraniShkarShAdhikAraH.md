@@ -77,7 +77,7 @@ THE GREAT VALUE OF THE THREE MANTRAS:
 
 ऎऩ्गिऱप्-पडिये  
 तऩ्ऩ्-अर्थत्तै अऱिय  
-ऎल्लाव् अर्थङ्गळैयुम् अऱिन्दु-तरुम्-बडिय् आय् इरुक्कैयाल् उम्,  
+ऎल्लाव् अर्थङ्गळैयुम् अऱिन्दु-तरुम्-बडिय् आय् इरुक्कैयालुम्,  
 </details>
 
 <details><summary>English</summary>
@@ -100,7 +100,7 @@ Among these three mysteries (mantras), Tirumantra or aṣṭākṣara has[^f39] 
 ऎऩ्ऱु  
 ताऩ् सॊल्लुगिऱव् उपायम् ऒऩ्ऱैय् उमे अवलंबिक्क  
 सर्वोपाय-फल-सिद्धिय् उण्ड् आम्  
-ऎऩ्ऱु स्थापिक्कैयाल् उम्,  
+ऎऩ्ऱु स्थापिक्कैयालुम्,  
 </details>
 
 <details><summary>English</summary>
