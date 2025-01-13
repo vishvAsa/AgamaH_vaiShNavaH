@@ -164,6 +164,7 @@ Razones para prestar servicio a Bhāgavatās:
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 > भगवत्-कैङ्कर्यस्य भागवत-कैङ्कर्यान्तत्वोक्तेर् मूलं किम् 
+
 इति चेत् -
 </details>
 
@@ -198,7 +199,7 @@ La respuesta es la siguiente:-
 अङ्गु शेषत्वम् पारतन्त्र्यरूपमागिल् भगवत्कैङ्कर्यमे सिद्धिक्क वऴियिल्लामलिरुक्क भागवतकैङ्कर्यमॆप्पडि सिद्धिक्कुम् ऎऩ्गिऱ शङ्गैयै शेषत्वलक्षणम् विलक्षणमागैयाल् अदऩाल् भगवत्कैङ्कर्यमुम् भागवतकैङ्कर्यमुम् सिद्धिक्कलामॆऩ्ऱु सॊल्लि परिहरिक्कप्पोगिऱवराय् अन्द लक्षणत्तै प्रश्नपूर्वक माग उपपादिक्कत् तुडङ्गुगिऱार् इङ्गु इत्यादिना । इङ्गु - उत्तरकृत्यत्तिऩुडैय मध्यत्तिल्। अडियॆऩ्ऩॆऩ्ऩिल् - कारणमॆऩ्ऩॆऩ्ऩिल्। 
 </details>
 
-
+### शेषत्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘परगतातिशयाधानेच्छयोपादेयत्वम् एव यस्य स्व-रूपं  
@@ -369,7 +370,7 @@ ya sea sensible o no sensible.
 > आऩाल् जीवऩुक्कु परऩैप्पऱ्ऱ शक्यम् आऩ अतिशयम् एद् 
 
 ऎऩ्ऱु पार्त्तव्-इडत्तिल्  
-शरीरत्वादि-मुखत्ताले अतिशयाधानम् पण्णुगैय्  इवऩुक्कुम् अचित्तुक्कुम् पॊदुवाय्+++(=समम्)+++ इरुन्ददु+++(=??)+++  
+शरीरत्वादि-मुखत्ताले अतिशयाधानम् पण्णुगैय्  इवऩुक्कुम् अचित्तुक्कुम् पॊदुवाय्+++(=समम्)+++ **इरुन्ददु**  
 इवऩ् शेषिक्कु विशेषित्तुप् पण्णुम् अतिशयम्  
 चैतन्य-मुखत्तालेय् आय् इरुक्कुम्।
 </details>
@@ -431,7 +432,7 @@ debe ser mediante su inteligencia o Chaitanya. [^es_55]
 चैतन्यमुखत्तालेय् आय् इरुक्कुम् इति । चैतन्यमुखत्ताल् पण्णुम् अतिशयम् चैतन्यमिल्लादवचिद्वयावृत्त मागवेयिरुक्कुमॆऩ्ऱबडि। 
 </details>
 
-
+### फल-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदिल् इवऩ् शास्त्र-**विरुद्धम् आग वर्तिक्कुम्** पोदु  
@@ -615,6 +616,18 @@ y de esta manera Te daré deleite?"
 कृत-कृत्यस्यापि समानः ॥ 
 </details>
 
+<details><summary>English</summary>
+
+The prapanna learns the Lord's will from the śāstras (though not directly )  
+and renders service to the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+The prapanna learns the Lord's will from the śāstras (though not directly )  
+and renders service to the Lord.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -623,20 +636,141 @@ y de esta manera Te daré deleite?"
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऱ्ऱिल् शास्त्र-विरुद्धङ्गळाले  
+ईश्वरऩुक्कु लीला-रस-मात्रत्तै उण्डाक्कुम् बोदु  
+तऩक्क् अनर्थ-पर्यवसितम् आय् इरुक्कुम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[114]] 
+
+अत्र शास्त्रविरुद्धैर् ईश्वरस्य लीला-रस-मात्रोत्पादने  
+तत् स्वस्यानर्थ-पर्यवसितं भवति ।  
+</details>
+ 
+
+
+<details><summary>English</summary>
+
+When a man gives rise to Iśvara's līlā rasa by actions opposed to the śāstras,  
+it will end in his ruin. 
+</details>
+
+<details><summary>Español</summary>
+
+When a man gives rise to Iśvara's līlā rasa by actions opposed to the śāstras,  
+it will end in his ruin. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱिल् शास्त्रविरुद्धङ्गळाले ईश्वरऩुक्कु लीलारसमात्रत्तै उण्डाक्कुम्बोदु तऩक्कनर्थ-पर्यवसितमायिरुक्कुम्।  
+</details>
+
+
+<details><summary>English</summary>
+
+THE LORD IS PLEASED AT THE SERVICE RENDERED TO HIS DEVOTEES :
+</details>
+
+<details><summary>Español</summary>
+
+El Señor está contento con el servicio prestado a sus devotos:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बद्ध-दशैयिल् शास्त्रत्तालुम्,  
+मुक्त-दशैयिल् प्रत्यक्षत्तालुम्  
+ईश्वराभिप्रायत्तैक् **कण्डु**  
+तद्-**अनुरूपम् आग वर्तिक्कुम्** बोदु  
+ईश्वरऩ् उडैय **लीलादि**-पुरुषार्थत्त्-उडऩेय्  
+आनुषङ्गिकम् आगत् तऩक्कुम् स्वाभिमत-**पुरुषार्थम् उण्ड् आम्**।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+बद्ध-दशायां शास्त्रेण,  
+मुक्त-दशायां प्रत्यक्षेण चेश्वराभिप्रायं **विदित्वा**  
+तद्-अनुरूपं वर्तने  
+ईश्वरस्य लीलादि-पुरुषार्थेन सह  
+आनुषङ्गिकतया स्वस्यापि स्वाभिमत-पुरुषार्थः सिध्यति ।
+</details>
+
+
+<details><summary>English</summary>
+
+If, in the state of bondage,  
+he acts according to the Lord's will as revealed in the śāstras  
+and, in the state of mokṣa , by direct perception of the Lord's will,  
+he will not only promote the Lord's līlā rasa and bhoga  
+but incidentally attain his own desired objects.  
+</details>
+
+<details><summary>Español</summary>
+
+If, in the state of bondage,  
+he acts according to the Lord's will as revealed in the śāstras  
+and, in the state of mokṣa , by direct perception of the Lord's will,  
+he will not only promote the Lord's līlā rasa and bhoga  
+but incidentally attain his own desired objects.  
+</details>
+
+<details><summary>मूलम्</summary>
+
+बद्धदशैयिल् शास्त्रत्तालुम्, मुक्तदशैयिल् प्रत्यक्षत्तालुम् ईश्वराभिप्रायत्तैक् कण्डु तदनुरूपमाग वर्तिक्कुम्बोदु ईश्वरऩुडैय लीलादिपुरुषार्थत्तुडऩे यानुषङ्गिकमागत् तऩक्कुम् स्वाभिमतपुरुषार्थमुण्डाम्।  
+</details>
+
+### भगवद्-अभिमतता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आऩ पिऩ्बु, चेतनऩ् आऩ इवऩ्  
+बुद्धि-पूर्वकम् आगव् ऒरु **प्रवृत्ति-पण्णुम्** बोदु  
+तऩ्-पुरुषार्थमुम् **आनुषङ्गिकम् आगव् आगिलुम् पुगिर+++(=गमनीय)+++-वेण्डियदाल्**  
+अदु वरुम् पोदु **ईश्वराभिप्राय**-विशेषम् **अडिय्** आग वर-वेण्डुगैयाल्  
+अदुक्क् आग ईश्वराभिप्रायत्तैय् **आराय्न्दव्**+++(=परामृष्टे)+++ इडत्तिल्  
+भागवत-**कैङ्कर्यम्** अवऩुक्कु सर्वत्तिलुम् **अभिमतम्** आय् इरुन्ददु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१२९]] 
+
+अतः चेतनेनानेन  
+बुद्धि-पूर्वं कस्यांचित् **प्रवृत्तौ क्रियमाणायां**  स्व-पुरुषार्थस्यानुषङ्गिकतया ऽपि **सिद्धेर् आवश्यकत्वात्**  
+तत्-सिद्धेश् चेश्वराभिप्राय-विशेष-मूलकत्वात्,  
+तद्-अर्थम् ईश्वराभिप्राये **परामृष्टे** सति  
+भागवत-कैङ्कर्यं तस्य सर्वतोऽपि [ अतिशयितं ] **अभिमतं स्थितम्** । 
+</details>
+
+<details><summary>English</summary>
+
+When the Jīva acts on any occasion consciously,  
+since his desired fruit, incidental though it be, has to come from the will of the lord,  
+the latter has to be ascertained from the śastras  
+which disclose that the service rendered to His devotees is most delightful to him.
+</details>
+
+<details><summary>Español</summary>
+
+When the Jīva acts on any occasion consciously,  
+since his desired fruit, incidental though it be, has to come from the will of the lord,  
+the latter has to be ascertained from the śastras  
+which disclose that the service rendered to His devotees is most delightful to him.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आऩ पिऩ्बु चेतनऩाऩ इवऩ् बुद्धिपूर्वकमागवॊरु प्रवृत्तिपण्णुम्बोदु तऩ् पुरुषार्थमुमानुषङ्गिकमागवागिलुम् पुगिरवेण्डियदालदु वरुम् पोदु ईश्वराभिप्रायविशेषमडियाग वरवेण्डुगैयाल् अदुक्काग ईश्वराभिप्रायत्तै याराय्न्दविडत्तिल् भागवतकैङ्कर्यमवऩुक्कु सर्वत्तिलुमभिमतमायिरुन्ददु। 
+</details>
 
 
 
 
-
-
-The prapanna learns the Lord's will from the śāstras (though not directly ) and renders service to the Lord.
-
-
-THE LORD IS PLEASED AT THE SERVICE RENDERED
-
-TO HIS DEVOTEES :
-
-When a man gives rise to Iśvara's līlā rasa by actions opposed to the śāstras, it will end in his ruin. If, in the state of bondage, he acts according to the Lord's will as revealed in the śāstras and, in the state of mokṣa , by direct perception of the Lord's will, he will not only promote the Lord's līlā rasa and bhoga but incidentally attain his own desired objects. When the Jīva   acts on any occasion consciously, since his desired fruit, incidental though it be, has to come from the will of the lord, the latter has to be ascertained from the śastras which disclose that the service rendered to His devotees is most delightful to him.
 
 The following authoritative texts may be studied in this connection: "Of all forms of homage, the homage paid to Viṣṇu  is the best, but superior even to this, is the excellent homage or adoration offered to Viṣṇu's devotees", "I have great affection to those who are devoted to my devotees. Therefore should one render devout service to them." "Devotion to me is of eight forms: (1) love to my devotees without any thought of their faults; (2) rejoicing at the adoration offered to me by another; (3) delight in listening to stories concerning me; (4) a change in the voice, in the eyes and in the body, while listening to such stories; (5) trying to offer adoration to me; (6) freedom from hypocrisy in one's relations with me; (7) meditation of me at all times; (8) and not considering me as one from whom worldly benefits can be bad - if bhakti (which is of these eight forms) is found in a mleccha, he should be respected as the best of Brahmins endowed with jñāna and bhakti; he is a real sannyāsi, he is a wise man and he may be taught (the scriptures) and from him one may learn the truth. He is fit to be adored even like myself.", "They are my bhaktas or devotees who do not show devotion to any other deity, who love those that are devoted to me and that have sought me as their upāya", "I offer adoration also to those who offer adoration to that yajna varāha, who is of boundless splendour", "By *seeking the protection of those who seek the Lord as their refuge and by rendering service to him who is devoted to the devotee, that is (in turn) devoted to the devotee of the Lord - by doing so, men are released from all their sins."
 

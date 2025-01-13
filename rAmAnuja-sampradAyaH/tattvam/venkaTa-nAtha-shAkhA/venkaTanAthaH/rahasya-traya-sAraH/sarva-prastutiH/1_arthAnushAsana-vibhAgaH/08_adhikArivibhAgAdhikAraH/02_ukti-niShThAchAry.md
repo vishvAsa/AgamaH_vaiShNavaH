@@ -1483,6 +1483,7 @@ or bhakti or prapatti which followed.
 ऎऩ्ऱुं सॊल्लुगिऱ - साक्षान्मोक्षोपायम्बोल् सॊल्लुगिऱ, भागवताभिमानम् - केवलभागवताभिमानम्, भगवद्विषयवासादिगळुक्कुम् – दिव्यदेशवासादिगळुक्कुम् तन्बक्कलिलेयादल्, पिऱर् पक्कलिलेयादल्, मुन्बेयादल् पिन्बेयादलॊरु उपायत्तुवक्कुण्डु.
 </details>
 
+### अगृहीतोपाये
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "ऎङ्ङनेय्" ऎऩ्ऩिल्; इवैय् उपासनत्तिलेेय् आदल्  
@@ -1499,7 +1500,8 @@ or bhakti or prapatti which followed.
 
 It may be asked how this could be.  
 (The answer is as follows:-)  
-They will lead to bhakti or prapatti.  
+
+> They will lead to bhakti or prapatti.  
 
 </details>
 
@@ -1507,7 +1509,8 @@ They will lead to bhakti or prapatti.
 
 It may be asked how this could be.  
 (The answer is as follows:-)  
-They will lead to bhakti or prapatti.  
+
+> They will lead to bhakti or prapatti.  
 
 </details>
 
@@ -1527,6 +1530,7 @@ They will lead to bhakti or prapatti.
 ऎङ्ङनेयॆऩ्ऩिल्; इवैयुपासनत्तिलेयादल् प्रपत्तियिलेयादल् मूट्टियुम्, 
 </details>
 
+### उपासके
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्पन्नोपासननुक्कु उत्तरोत्तरोपचयत्तैप् पण्णियुम्, 
@@ -1559,6 +1563,7 @@ they will promote the further development of the upāya or means.
 उत्पन्नोपासननुक्कु उत्तरोत्तरोपचयत्तैप् पण्णियुम्, 
 </details>
 
+### प्रपन्ने
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्व-तन्त्र-प्रपत्त्य्-अनुष्ठानम् पण्णिऩ्-अवनुक्कु  
