@@ -432,7 +432,7 @@ debe ser mediante su inteligencia o Chaitanya. [^es_55]
 चैतन्यमुखत्तालेय् आय् इरुक्कुम् इति । चैतन्यमुखत्ताल् पण्णुम् अतिशयम् चैतन्यमिल्लादवचिद्वयावृत्त मागवेयिरुक्कुमॆऩ्ऱबडि। 
 </details>
 
-### फल-भेदः
+### आनुकूल्येन फल-भेदः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदिल् इवऩ् शास्त्र-**विरुद्धम् आग वर्तिक्कुम्** पोदु  
@@ -603,6 +603,13 @@ y de esta manera Te daré deleite?"
 अप्पडिये नित्यरुम् मुक्तरुमीश्वराभिप्रायत्तै साक्षात्करित्तुप्पण्णुगिऱ कैङ्कर्यङ्गळाले ‘‘प्रहर्षयिष्यामि सनाथजीवितः’’(आळवन्दार् स्तोत्रम् ४६) ऎऩ्गिऱबडिये भोगविशेषत्तै उत्पादित्तम्मुगत्ताले यतिशयाधायकरावर्गळ्। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+अप्पडिये इत्यादि । भोगविशेषत्तै उत्पादित्तु - भोगमावदु - स्रक्चन्दनादिगळाले राजाक्कळुक्कुण्डाऩ सन्तोषम्बोले कैङ्कर्यादिगळाले युण्डागुम् सन्तोष विशेषम्। अम्मुखत्ताले - भोगरूपकार्योत्पादनमुखत्ताले, 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-प्रकारम् शास्त्र-मुखत्ताले ईश्वराभिप्रायत्तैय् अऱिन्दु  
@@ -634,6 +641,10 @@ and renders service to the Lord.
 इप्प्रकारम् शास्त्रमुखत्ताले ईश्वराभिप्रायत्तै यऱिन्दु कैङ्कर्यम् पण्णुगिऱ कृतकृत्यऩुक्कुम् समानम्। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्प्रकारम् - कैङ्कर्यत्ताले भोगरसत्तै युण्डाक्कि अदावदु विलक्षणसन्तोषत्तै युण्डाक्कि अतिशयाधानम् पण्णुम् प्रकारम्, कृतकृत्य ऩुक्कुम् समानम् - प्रयोजनान्तरगन्धमिल्लाद प्रपन्नऩुक्कुम् तुल्यमॆऩ्ऱबडि। 
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -669,6 +680,11 @@ it will end in his ruin.
 <details><summary>मूलम्</summary>
 
 इवऱ्ऱिल् शास्त्रविरुद्धङ्गळाले ईश्वरऩुक्कु लीलारसमात्रत्तै उण्डाक्कुम्बोदु तऩक्कनर्थ-पर्यवसितमायिरुक्कुम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कीऴ्च्चॊऩ्ऩ अतिशयाधायकत्वप्रकारभेदङ्गळाल् वरुम् फलङ्गळैक् काट्टुगिऱार् इवऱ्ऱिलित्यादिना । इवऱ्ऱिल् -पूर्वोक्तातिशयाधायकत्वभेदङ्गळिल्, अनर्थपर्यवसितमायिरुक्कुमिति । अकृत्यकरणङ्गळिल् तात्कालिकसुखाभासङ्गळिरुन्दालुम् अदु उदर्कमाऩ उत्कट नरकप्राप्त्यादिरूपानर्थत्तिल् पर्यवसिक्कु मॆऩ्ऱबडि। 
 </details>
 
 
@@ -725,6 +741,16 @@ but incidentally attain his own desired objects.
 बद्धदशैयिल् शास्त्रत्तालुम्, मुक्तदशैयिल् प्रत्यक्षत्तालुम् ईश्वराभिप्रायत्तैक् कण्डु तदनुरूपमाग वर्तिक्कुम्बोदु ईश्वरऩुडैय लीलादिपुरुषार्थत्तुडऩे यानुषङ्गिकमागत् तऩक्कुम् स्वाभिमतपुरुषार्थमुण्डाम्।  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+प्रपन्नऩुक्कु बद्धावस्थैयिलुम् मुक्तावस्थैयिलुम् अतिशयाधानप्रकारत्ताले वरुम् फलत्तैक्काट्टुगिऱार् बद्धदशैयिलित्यादिना । लीलादिपुरुषार्थत्तुडऩे इति । इङ्गु आदिपदत्ताल् भोगसङ्ग्रहः तऩक्कुम् स्वाभिमतपुरुषार्थमुण्डामिति । इप्पडि तऩक्कुम् फल मुण्डामॆऩ्ऩिल्, शेषिप्रयोजनैकप्रयोजनत्वरूपशेषत्वम् घटिक्कुमो वॆऩ्ऱु शङ्गियामैक्क् आग आनुषङ्गिकमाग ऎऩ्गिऱार्।  
+प्रधानम् आग स्वपुरुषार्थलाभेच्छैयिरुन्दाल् शेषत्वम् घटियाद् आगिलुम्  
+आनुषङ्गिकमाग स्वप्रयोजनसिद्धि शेषत्वविरुद्धमागादॆऩ्ऱु करुत्तु।  
+मुक्तदशैयिलुम् कैङ्कर्यम् पण्णुम्बोदु  
+आनुषङ्गिकम् आग स्वामि-भोग-निमित्त--स्वानन्दम् उण्डागुम् इऱे। 
+</details>
+
+
 ### भगवद्-अभिमतता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -757,10 +783,10 @@ which disclose that the service rendered to His devotees is most delightful to h
 
 <details><summary>Español</summary>
 
-When the Jīva acts on any occasion consciously,  
-since his desired fruit, incidental though it be, has to come from the will of the lord,  
-the latter has to be ascertained from the śastras  
-which disclose that the service rendered to His devotees is most delightful to him.
+Cuando el Jīva actúa en cualquier ocasión conscientemente,  
+Dado que su fruta deseada, por lo que es incidental, tiene que venir de la voluntad del Señor,
+este último tiene que ser determinado de los śastras
+Lo que revela que el servicio prestó a sus devotos es más encantador para él.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -768,11 +794,354 @@ which disclose that the service rendered to His devotees is most delightful to h
 आऩ पिऩ्बु चेतनऩाऩ इवऩ् बुद्धिपूर्वकमागवॊरु प्रवृत्तिपण्णुम्बोदु तऩ् पुरुषार्थमुमानुषङ्गिकमागवागिलुम् पुगिरवेण्डियदालदु वरुम् पोदु ईश्वराभिप्रायविशेषमडियाग वरवेण्डुगैयाल् अदुक्काग ईश्वराभिप्रायत्तै याराय्न्दविडत्तिल् भागवतकैङ्कर्यमवऩुक्कु सर्वत्तिलुमभिमतमायिरुन्ददु। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+शास्त्रविरुद्धम् आग वर्तिक्कुम्बोदु अनर्थावहत्वत्तालुम्,  
+ईश्वराभिप्रायानुगुणमाग वर्तिक्कुम्बोदु आनुषङ्गिकफलजननत्तालुम्   
+वैषम्य-प्रदर्शनत्तिऱ्कु प्रयोजनत्तैक् काट्टुगिऱार् आऩबिऩ्बु इत्यादिना । आऩबिऩ्बु - अशास्त्रीयप्रवृत्तियिल् अनर्थम् वरुमॆऩ्ऱुम्, शास्त्रीयप्रवृत्तियिल् तऩक्कु आनुषङ्गिकमाग पुरुषार्थलाभमुण्डॆऩ्ऱुम्, निश्चितमाऩ पिऩ्बु, अदु वरुम् पोदु - आनुषङ्गिकफलम् वरुम्बोदु, ईश्वराभिप्रायविशेषमडियाग वरवेण्डुगैयाल् - ‘‘फलमत उपपत्तेः’’ ऎऩ्गिऱबडि फलप्रदातावाऩ ईश्वराभिप्रायविशेषमडियाग वरवेण्डुगैयाल्, अदुक्काग - आनुषङ्गिकफलसिद्धिक्काग, ईश्वराभिप्रायत्तै - ईश्वरऩुडैय तिरुवुळ्ळत्तै, आराय्न्दविडत्तिल् - ईश्वरऩुक्कु ऎन्द कैङ्कर्यम् अत्यन्ताभिप्रेतम्, ऎदैप् पण्णिऩाल् आनुषङ्गिकफलप्रदानपर्यन्तमाग तिरुवुळ्ळमुगक्कुमॆऩ्ऱु परामर्शित्त विडत्तिल्, सर्वत्तिलुम् - सर्वाभिमतत्तिलुम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तिल् 
+
+> आराधनानां सर्वेषां  
+> विष्णोर् आराधनं परं ।  
+> तस्मात् परतरं प्रोक्तं  
+> तदीयाराधनं परं ॥  +++(5)+++  
+> (पाद्मोत्तरम्म् २९-८१।) 
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्मिन्न् अर्थे, 
+
+> आराधनानां सर्वेषां  
+> विष्णोराराधनं परं ।  
+> तस्मात् परतरं प्रोक्तं  
+> तदीयाराधनं परं ॥  +++(5)+++  
+> (पाद्मोत्तरम्म् २९-८१।) 
+</details>
+
+<details><summary>English</summary>
+
+The following authoritative texts may be studied in this connection: 
+
+> "Of all forms of homage, the homage paid to Viṣṇu is the best,  
+> but superior even to this, is the excellent homage or adoration offered to Viṣṇu's devotees", 
+</details>
+
+<details><summary>Español</summary>
+
+Los siguientes textos autorizados se pueden estudiar a este respecto:
+
+> "De todas las formas de homenaje, el homenaje pagado a Viṣṇu es el mejor,  
+> Pero superior incluso a esto,  
+> es el excelente homenaje o adoración ofrecida a los devotos de Viṣṇu ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तिल् ‘‘आराधनानां सर्वेषां विष्णोराराधनं परं । तस्मात्परतरं प्रोक्तं तदीयाराधनं परं ॥’’(पाद्मोत्तरम्म् २९-८१।)
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इव्वर्थत्तिल् - भागवतकैङ्कर्यम् सर्वाभिमताभिमतमायिरुन्ददॆऩ्गिऱ इन्द विषयत्तिल्, आराधनानामित्यादि । सर्वेषां आराधनानां मद्ध्ये – निर्धारणे षष्ठी । इदिल् विष्ण्वाराधनम् अन्तर्गतम्। परतरमागच्चॊल्लप्पोगिऱ भागवता-भागवताराधनमनन्तर्गतम्। अर्थबाधात् । तथा च भागवताराधनातिरिक्तसर्वाराधनमद्ध्यत्तिलॆऩ्ऱु फलितम्। विष्णोः – विष्णुसम्बन्धियाऩ, आराधनं – आराधनमाऩदु, परं – उत्कृष्टम्। तस्मात् तदीयाराधनं परं – उत्कृष्टम्। अत एव सर्वेषामाराधनानां परतरं प्रोक्तम् । इङ्गु पञ्चम्यर्थेषष्ठी । स्वविष्ण्वाराधनोभयव्यतिरिक्तसर्वाराधनङ् गळैक्काट्टिलुम् परतरमॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘मम मद्-भक्त-भक्तेषु  
+> प्रीतिर् **अभ्यधिका** भवेत् ।  
+> तस्मान् मद्-भक्त-भक्ताश् च  
+> **पूजनीया** विशेषतः ॥’’+++(4)+++  
+> (भारतम् आश्वमेधिक-पर्व ११६-२३) 
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘मम मद्-भक्त-भक्तेषु  
+> प्रीतिर् **अभ्यधिका** भवेत् ।  
+> तस्मान् मद्-भक्त-भक्ताश् च  
+> **पूजनीया** विशेषतः ॥’’+++(4)+++  
+> (भारतम् आश्वमेधिक-पर्व ११६-२३) 
+</details>
+
+<details><summary>English</summary>
+
+> "I have great affection to those who are devoted to my devotees.  
+> Therefore should one render devout service to them." 
+</details>
+
+<details><summary>Español</summary>
+
+> "Tengo un gran afecto por aquellos que están dedicados a mis devotos.  
+> Por lo tanto, se debe hacer un servicio devoto para ellos ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मम मद्भक्तभक्तेषु प्रीतिरभ्यधिका भवेत् । तस्मान्मद्भक्तभक्ताश्च पूजनीया विशेषतः ॥’’(भारतम् आश्वमेधिक-पर्व ११६-२३) 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि भागवतकैङ्कर्योत्कर्षत्तिल् प्रमाणङ्गाट्टि भागवतकैङ्कर्यमुम् विशेषमागप् पण्णवेण्डुमॆऩ्बदिल् प्रमाणम् काट्टुगिऱार् मम मद्भक्तभक्तेषु इत्यादिना । मम – ऎऩक्कु, यतः मद्भक्तभक्तेषु – मदीयभक्तभक्तविषयत्तिल्, प्रीतिः – विश्वासमाऩदु, अभ्यधिका भवेत् – मम - ऎऩक्कु, सामान्यतः मदाराधकेषु प्रीतिर्भवेत्; मद्भक्तेषु अधिकाप्रीतिर्भवेत्; मद्भक्तभक्तेषु अभ्यधिकाप्रीतिर्भवेत् ऎऩ्ऱबडि। तस्मात् - ममात्यन्तप्रीतिविषयत्वात्, मद्भक्तभक्ताश्च – ऎऩ्ऩुडैय भक्तभक्तर्गळुम्, विशेषतः पूजनीयाः – विशेषमाग आराधनीयर्गळॆऩ्गै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> मद्-भक्त-जन-**वात्सल्यं**  
+> पूजायाञ् **चानुमोदनं** ।  
+> मत्-कथा-**श्रवणे भक्तिः**  
+> स्वर-नेत्राङ्ग-**विक्रिया** ॥  
+> 
+> स्वयम् आराधने **यत्नो**  
+> ममार्थे डंभ-**वर्जनं** ।  
+> **ममानुस्मरणं** नित्यं  
+> यच् च मां +++(धनार्जनादिना)+++ नोपजीवति ॥ 
+> 
+> **भक्तिर्** अष्ट-विधा ह्य् एषा  
+> यस्मिन् म्लेच्छेऽपि **वर्तते** ।  
+> स विप्रेन्द्रो मुनिश् श्रीमान्  
+> स यतिस् स च पण्डितः ॥ 
+> 
+> तस्मै **देयं** +++(शिक्षणम्)+++ ततो **ग्राह्यं**  
+> स च **पूज्यो** यथा ह्य् अहं’’  
+> (गारुड-पुराणम् २१९-६-९)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> मद्-भक्त-जन-**वात्सल्यं**  
+> पूजायाञ् **चानुमोदनं** ।  
+> मत्-कथा-**श्रवणे भक्तिः**  
+> स्वर-नेत्राङ्ग-**विक्रिया** ॥  
+> 
+> स्वयम् आराधने **यत्नो**  
+> ममार्थे डंभ-**वर्जनं** ।  
+> **ममानुस्मरणं** नित्यं  
+> यच् च मां +++(धनार्जनादिना)+++ नोपजीवति ॥ 
+> 
+> **भक्तिर्** अष्ट-विधा ह्य् एषा  
+> यस्मिन् म्लेच्छेऽपि **वर्तते** ।  
+> स विप्रेन्द्रो मुनिश् श्रीमान्  
+> स यतिस् स च पण्डितः ॥ 
+> 
+> तस्मै **देयं** +++(शिक्षणम्)+++, ततो **ग्राह्यं** +++(उचित-संशय-निवारणादि)+++   
+> स च **पूज्यो** यथा ह्य् अहं’’  
+> (गारुड-पुराणम् २१९-६-९)  
+</details>
+
+
+<details><summary>English</summary>
+
+> "Devotion to me is of eight forms:  
+> (1) love to my devotees without any thought of their faults;  
+> (2) rejoicing at the adoration offered to me by another;  
+> (3) delight in listening to stories concerning me;  
+> (4) a change in the voice, in the eyes and in the body, while listening to such stories;  
+> (5) trying to offer adoration to me;  
+> (6) freedom from hypocrisy in one's relations with me;  
+> (7) meditation of me at all times;  
+> (8) and not considering me as one from whom worldly benefits can be had -  
+> 
+> if bhakti (which is of these eight forms) is found in a mleccha,  
+> he should be respected as the best of Brahmins endowed with jñāna and bhakti;  
+> he is a real sannyāsi, he is a wise man and he may be taught (the scriptures)  
+> and from him one may learn the truth.  
+> He is fit to be adored even like myself.", 
+</details>
+
+<details><summary>Español</summary>
+
+> "La devoción para mí es de ocho formas:  
+> (1) Amor a mis devotos sin pensar en sus fallas;  
+> (2) regocijarse en la adoración que me ofrece otra;  
+> (3) Deleitarse en escuchar historias sobre mí;  
+> (4) un cambio en la voz, en los ojos y en el cuerpo, mientras escucha esas historias;  
+> (5) tratando de ofrecerme adoración;  
+> (6) libertad de hipocresía en las relaciones de uno conmigo;  
+> (7) Meditación de mí en todo momento;  
+> (8) y no considerarme como uno de quien se pueden tener beneficios mundanos -
+>
+> Si bhakti (que es de estas ocho formas) se encuentra en una mleccha,  
+> Debería ser respetado como el mejor de los brahmanes dotados de jñāna y bhakti;   
+> Es un verdadero sannyāsi, es un hombre sabio y se le puede enseñar (las Escrituras)  
+> Y de él uno puede aprender la verdad.
+> Es apto para ser adorado incluso como yo ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘मद्भक्त जनवात्सल्यं पूजायाञ्चानुमोदनं । मत्कथाश्रवणे भक्तिः स्वरनेत्राङ्गविक्रिया ॥ स्वयमाराधने यत्नो ममार्थेडंभवर्जनं । ममानुस्मरणं नित्यं यच्च मां नोपजीवति ॥ भक्तिरष्टविधा ह्येषा यस्मिन् म्लेच्छेऽपि वर्तते । स विप्रेन्द्रो मुनिश्श्रीमान् स यतिस्स च पण्डितः ॥ तस्मै देयं ततो ग्राह्यं स च पूज्यो यथा ह्यहं’’(गारुड-पुराणम् २१९-६-९)  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अथ भक्तिभेदत्तैक्काट्टुगिऱार् मद्भक्तेति । मद्भक्तजनवात्सल्यं – मद्भक्तविषयत्तिल् दोषम् पारामै, पूजायाञ्चानुमोदनं – परकृतमाऩ ऎऩ्ऩुडैय पूजैयिल् सन्तोषम्, स्वरनेत्राङ्गविक्रिया – स्वरविक्रिया – सगद्गदत्वं, नेत्रविक्रिया – आनन्दबाष्पप्रवाहम्, अङ्गविक्रिया – पुळकाङ्कितत्वम्, स्वयमाराधनेयत्नः – अन्यपूजानुमोदनमात्रमऩ्ऱिक्के स्वयमे आराधनम् सॆय्य प्रयत्नम्। ममार्थे – मद्विषये, मम कैङ्कर्यविषय इति यावत् । डम्भवर्जनं – ख्यातिलाभपूजापेक्षारहितत्वम्, ममानुस्मरणं नित्यं - अडिक्कडि ऎऩ्ऩुडैय शुभाश्रयानुसन्धानम्, मां नोपजीवतीति यत् तच्च - ऎऩ्ऩिडत्तिल् निऩ्ऱुम् प्रयोजनान्तरत्तै याचिक्कामलॆऩ्ऱबडि। एषा ह्यष्टविधा भक्तिः - मुऩ्सॊऩ्ऩ ऎट्टु प्रकारभेदत्तैयुडैय भक्तियाऩदु, भक्तियिलुम् भक्तिकार्यङ्गळिलुमुळ्ळ प्रभेदङ्गळै निऩैत्तु भक्तिये ऎट्टुविदमॆऩ्गिऱदु। यस्मिन् म्लेच्छेऽपि वर्तते – इङ्गु अपिर्विरोधे । क्रूरजातियाऩ म्लेच्छादिगळिडत्तिल् भक्तियिऩ् वर्तनम् विरुद्धमिऱे। अप्पडि विरुद्धमाऩ अधिकारियिऩिडत्तिल् भक्तियिरुन्दालॆऩ्ऱबडि। सः – अवऩ् श्रीमान् – शेषत्वज्ञानादिरूपविद्यावाऩायुम्, मुनिः – मननशीलऩायुम्, विप्रेन्द्रः – ब्राह्मणोत्तमऩायुम्, यतिः – सन्न्यासि यायुम्, पण्डितः – पण्डितऩायुम्, मन्तव्य इति शेषः ।  
+तस्मै देयं - अवऩिऩ्बॊरुट्टु तत्त्वज्ञानम् देयम्;  
+अवऩुक्कु तत्त्वज्ञानोपदेशम् पण्णलामॆऩ्ऱबडि।  
+ततो ग्राह्यं - अवऩ् इडत्तिऩिऩ्ऱुम् संशयनिरसनार्थम् आऩ ज्ञानम् उपादेयम्।  
+ब्राह्मणादिगळुक्कुम् संशयम् वन्दाल्  
+तन्-निरासार्थम् आग  
+अवऩ्-इडत्तिल् केट्टुत् तॆळियल् आम् ऎऩ्ऱ बडि।  
+स च पूज्यो यथा ह्यहं - ऎप्पडि नाऩ् पूज्यऩो - बहुमतिक्कत्तक्कवऩो अप्पडिये अवऩुम् बहुमतिक्कत्तक्किऩव ऩॆऩ्ऱबडि। अनन्यदेवताभक्ता इति ।  
+</details>
 
 
 
 
-The following authoritative texts may be studied in this connection: "Of all forms of homage, the homage paid to Viṣṇu  is the best, but superior even to this, is the excellent homage or adoration offered to Viṣṇu's devotees", "I have great affection to those who are devoted to my devotees. Therefore should one render devout service to them." "Devotion to me is of eight forms: (1) love to my devotees without any thought of their faults; (2) rejoicing at the adoration offered to me by another; (3) delight in listening to stories concerning me; (4) a change in the voice, in the eyes and in the body, while listening to such stories; (5) trying to offer adoration to me; (6) freedom from hypocrisy in one's relations with me; (7) meditation of me at all times; (8) and not considering me as one from whom worldly benefits can be bad - if bhakti (which is of these eight forms) is found in a mleccha, he should be respected as the best of Brahmins endowed with jñāna and bhakti; he is a real sannyāsi, he is a wise man and he may be taught (the scriptures) and from him one may learn the truth. He is fit to be adored even like myself.", "They are my bhaktas or devotees who do not show devotion to any other deity, who love those that are devoted to me and that have sought me as their upāya", "I offer adoration also to those who offer adoration to that yajna varāha, who is of boundless splendour", "By *seeking the protection of those who seek the Lord as their refuge and by rendering service to him who is devoted to the devotee, that is (in turn) devoted to the devotee of the Lord - by doing so, men are released from all their sins."
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अनन्य-देवता-**भक्ता**  
+> ये मद्-भक्त-जन-**प्रियाः** ।  
+> माम् एव **शरणं प्राप्तास्**  
+> ते मद्-भक्ताः **प्रकीर्तिताः**’’ +++(4)+++  
+> (भारतम् आश्वमेधिक-पर्व १०४-९१।)  
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
+
+
+<details><summary>English</summary>
+
+> "They are my bhaktas or devotees who do not show devotion to any other deity,  
+> who love those that are devoted to me  
+> and that have sought me as their upāya", 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Son mis bhaktas o devotos  
+> que no muestran devoción a ninguna otra deidad,  
+> Quién aman a los que me dedican  
+> y eso me han buscado como su upāya ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अनन्यदेवताभक्ता ये मद्भक्तजनप्रियाः । मामेव शरणं प्राप्तास्ते मद्भक्ताः प्रकीर्तिताः’’(भारतम् आश्वमेधिक-पर्व १०४-९१।)  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+अन्यदेवताभक्ता न भवन्तीत्यनन्यदेवताभक्ताः । ये मद्भक्तजनप्रियास्ते मद्भक्ताः प्रकीर्तिताः । देवतान्तरभक्तियुळ्ळवर्गळुम्, मद्भक्तजनङ्गळिडत्तिल् भक्तियिल्लादवर्गळुम् मद्भक्तर्गळागमाट्टार्गळॆऩ्ऱबडि। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘तस्य यज्ञ-वराहस्य  
+> विष्णोर् अ-मित-तेजसः ।  
+> **प्रणामं** येऽपि **कुर्वन्ति**  
+> तेषाम् अपि नमो नमः’’+++(4)+++  
+> (भारतम् शान्ति-पर्व ४६-१३०।)  
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘तस्य यज्ञ-वराहस्य  
+> विष्णोर् अ-मित-तेजसः ।  
+> **प्रणामं** येऽपि **कुर्वन्ति**  
+> तेषाम् अपि नमो नमः’’+++(4)+++  
+> (भारतम् शान्ति-पर्व ४६-१३०।)  
+</details>
+
+<details><summary>English</summary>
+
+> "I offer adoration also to those who offer adoration to that yajna varāha, who is of boundless splendour", 
+</details>
+
+<details><summary>Español</summary>
+
+> "Ofrezco adoración también a aquellos  
+> que ofrecen adoración a que Yajna Varāha,  
+> que es de esplendor ilimitado",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तस्य यज्ञवराहस्य विष्णोरमिततेजसः । प्रणामं येऽपि कुर्वन्ति तेषामपि नमो नमः’’(भारतम् शान्ति-पर्व ४६-१३०।)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> तद्-**आश्रयस्याश्रयणात्**  
+> तस्य तस्य च तस्य च +++(चरमावधि-दासस्य)+++।  
+> संसेवनान् नरा लोके  
+> **पूयन्ते** सर्व-पातकैः’’  +++(4)+++
+> (गारुड-पुराणम्।)  
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
+
+
+<details><summary>English</summary>
+
+"By seeking the protection of those who seek the Lord as their refuge  
+and by rendering service to him who is devoted to the devotee  
+who ~~that~~ is (in turn) devoted to the devotee of the Lord -  
+by doing so, men are released from all their sins."
+</details>
+
+<details><summary>Español</summary>
+
+> "Al buscar la protección de aquellos  
+que buscan al Señor como su refugio  
+y prestando servicio a aquel que está dedicado al devoto,  
+quién es (a su vez) dedicado al devoto del Señor -  
+Al hacerlo, los hombres son liberados de todos sus pecados ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘तदाश्रयस्याश्रयणात्तस्य तस्य च तस्य च । संसेवनान्नरा लोके पूयन्ते सर्वपातकैः’’(गारुड-पुराणम्।)  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+भागवताश्रयणत्तिऱ्कुम् भागवतकैङ्कर्यत्तिऱ्कुम् सर्वपापनिवर्तकत्वे प्रमाणङ्गाट्टुगिऱार् तदाश्रयस्येति । तस्य तस्य च तस्य च – तच्-चरमावधि-दासस्य चेत्यर्थः । संसेवनात् – कैङ्कर्यकरणात्, पूयन्ते सर्वपातकैः – सर्वपातकैः प्रमुच्यन्त इत्यर्थः । 
+</details>
+
+
 
 When we study these passages, (it becomes clear) that, of all forms of service which a śeṣa of the Lord may render, that rendered to the Bhāgavatas is the most important and is the most pleasing to the Lord, in the same way as the fondling of the prince is most pleasing to the king.
 
