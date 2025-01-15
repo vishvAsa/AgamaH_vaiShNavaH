@@ -1577,9 +1577,40 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 स्वतन्त्रऩाय् स्वच्छन्दलीलऩाऩ राजा ताऩ् पूण्डवाभरणत्तैयु मिट्ट मालैयैयु मडियार्गळुडैयवुम् आऩैगुदिरैगळुडैयवुङ्गऴुत्तिलेयिडुमाप्पोले 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> 'अडियार्क्क् ऎऩ्ऩैय् आट्-पडुत्त विमलऩ्'  
+> (अमलऩ्-आदि-बिराऩ् १।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>English</summary>
+
+(Tiruppan alvar says):-- 
+
+> "The Lord who is spotless  
+> and who has made me the servant of His servants".  
+</details>
+
+<details><summary>Español</summary>
+
+(Tiruppan Alvar dice):-
+
+> "El Señor que está impecable  
+> y quién me ha convertido en el sirviente de sus sirvientes ".
+</details>
 
 
-(Tiruppan alvar says):-- "The Lord who is spotless and who has made me the servant of His servants". (So does Nārada  say): "I, Nārada , have come here with an eager longing to see you. To men like me, O Brahmin, those who are bhaktas of the Lord are masters" and again (Tirumaṅgai Alvar says ); - "I will not remain in the company of those who think there is any other deity deserving of adoration than Thee; also what I have accepted with delight is the duty of serving Thy devotees". According to these passages, since the jīva is absolutely subject to the will of the Lord and since the service of the śeṣa is due also to those who are favourites of the Lord, our being a śeṣa to the Lord extends even to the Bhāgavatas and should last as long as the self lasts. Our being śeṣas to Bhāgavatas arises from their being devotees to the Lord and pertains to our essential nature. It arises also from their qualities and knowledge, which cause a desire in us to serve them. (As Lakṣmaṇa says) "I am his younger brother (by birth); I have become his servant by his qualities". (That this relationship of being a śeṣa is due both to our essential nature and to (our admiration for) their wisdom and character) is also indicated (respectively in the two phrases(1) "bhaktas of the lord and to "men like me" (in the speech of Nārada  quoted above). Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):- "These who are the servants of Bhāgavatas and who utter the names of Bhagavān are entitled even to sell us". This is the purport of the middle world in Tirumantra, namely, namo: na mama (not for me). If we reflect on this purport, our being śeṣa to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him). Accordingly, the service that should be rendered by the śeṣa is also (both ) mediate and direct. Therefore it is the farthest limit of the service of the prapanna to perform, as much as it lies in his power, service to the Bhāgavata, since it is part of the duty of one who is śeṣa to Bhagavān. So this outermost region of service to Bhāgavatas should be kept properly cultivated so that it may not become fallow land full of weeds.
+<details><summary>मूलम्</summary>
+
+'अडियार्क्कॆऩ्ऩैयाट्पडुत्त विमलऩ्'(अमलऩादिबिराऩ् १।) ऎऩ्ऱुम्,  
+</details>
+
+
+
+
+(So does Nārada  say): "I, Nārada , have come here with an eager longing to see you. To men like me, O Brahmin, those who are bhaktas of the Lord are masters" and again (Tirumaṅgai Alvar says ); - "I will not remain in the company of those who think there is any other deity deserving of adoration than Thee; also what I have accepted with delight is the duty of serving Thy devotees". According to these passages, since the jīva is absolutely subject to the will of the Lord and since the service of the śeṣa is due also to those who are favourites of the Lord, our being a śeṣa to the Lord extends even to the Bhāgavatas and should last as long as the self lasts. Our being śeṣas to Bhāgavatas arises from their being devotees to the Lord and pertains to our essential nature. It arises also from their qualities and knowledge, which cause a desire in us to serve them. (As Lakṣmaṇa says) "I am his younger brother (by birth); I have become his servant by his qualities". (That this relationship of being a śeṣa is due both to our essential nature and to (our admiration for) their wisdom and character) is also indicated (respectively in the two phrases(1) "bhaktas of the lord and to "men like me" (in the speech of Nārada  quoted above). Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):- "These who are the servants of Bhāgavatas and who utter the names of Bhagavān are entitled even to sell us". This is the purport of the middle world in Tirumantra, namely, namo: na mama (not for me). If we reflect on this purport, our being śeṣa to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him). Accordingly, the service that should be rendered by the śeṣa is also (both ) mediate and direct. Therefore it is the farthest limit of the service of the prapanna to perform, as much as it lies in his power, service to the Bhāgavata, since it is part of the duty of one who is śeṣa to Bhagavān. So this outermost region of service to Bhāgavatas should be kept properly cultivated so that it may not become fallow land full of weeds.
 
 . As stated in the following ślokas in Pauṣkara samhita, "It is not wrong for a wedded wife to honour her husband and to honour his servants, whether in his presence or in his absence."
 
