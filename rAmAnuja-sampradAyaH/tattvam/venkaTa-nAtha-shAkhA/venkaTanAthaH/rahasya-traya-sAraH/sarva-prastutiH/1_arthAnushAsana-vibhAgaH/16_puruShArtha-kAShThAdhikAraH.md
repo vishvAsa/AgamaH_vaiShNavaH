@@ -143,7 +143,7 @@ as far as the service of those who are dear to Him (Bhāgavatas).
 भगवत्-कैङ्कर्यम् भागवत-कैङ्कर्य-पर्यन्तम् आगव् आयिऱ्ऱ् ऎऩ्गिऱार्।  
 </details>
 
-## भागवत-पर्यन्तं कैङ्कर्यम्
+## भागवत-कैङ्कर्य-कारणम्
 <details><summary>English</summary>
 
 REASONS FOR RENDERING SERVICE TO BHĀGAVATĀS :
@@ -1141,19 +1141,357 @@ Al hacerlo, los hombres son liberados de todos sus pecados ".
 भागवताश्रयणत्तिऱ्कुम् भागवतकैङ्कर्यत्तिऱ्कुम् सर्वपापनिवर्तकत्वे प्रमाणङ्गाट्टुगिऱार् तदाश्रयस्येति । तस्य तस्य च तस्य च – तच्-चरमावधि-दासस्य चेत्यर्थः । संसेवनात् – कैङ्कर्यकरणात्, पूयन्ते सर्वपातकैः – सर्वपातकैः प्रमुच्यन्त इत्यर्थः । 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदि-प्रमाणङ्गळैय् **आराय्न्दाल्**+++(=परामष्टेषु)+++  
+राजावुक्कु राज-कुमारोपलालनम् पोले  
+भागवत-कैङ्कर्यम् भगवाऩुक्क् **अभिमतम्** आय् इरुक्कैयाल्  
+शेष-भूतऩ् आऩ इवऩ् सॆय्युम् किञ्चित्-कारङ्गळिल्  
+भागवत-कैङ्कर्यम् **प्रधानम् आयिऱ्ऱु।**
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-आदि-प्रमाणेषु परामष्टेषु  
+राज्ञो राजकुमारोपलालनस्येव  
+भागवत-कैङ्कर्यस्य भगवतोऽ[त्यन्ता]भिमतत्व-सिद्धेः  
+शेष-भूतेनानेन क्रियमाणेषु किञ्चित्-कारेषु  
+भागवत-कैङ्कर्यं **प्रधानं सिद्धम्** । +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+When we study these passages, (it becomes clear) that,  
+of all forms of service which a śeṣa of the Lord may render,  
+that rendered to the Bhāgavatas is the most important  
+and is the most pleasing to the Lord,  
+in the same way as the fondling of the prince is most pleasing to the king.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando estudiamos estos pasajes, (queda claro) que,  
+de todas las formas de servicio que un Śeṣa del Señor puede hacer,  
+que renderizado a las bhāgavatas es la más importante  
+y es el más agradable para el Señor,  
+de la misma manera que el acariciado del príncipe  
+es más agradable para el rey.
+</details>
 
 
-When we study these passages, (it becomes clear) that, of all forms of service which a śeṣa of the Lord may render, that rendered to the Bhāgavatas is the most important and is the most pleasing to the Lord, in the same way as the fondling of the prince is most pleasing to the king.
+<details><summary>मूलम्</summary>
 
-In this matter, if we examine the path of the pramāṇas, Iśvara, who has the Bhāgavata as His body, is the object of worship as is declared in the śloka : "Those who worship the pitṛs, the gods, the Brahmins and Agni -- they worship only the Lord who is the inner self of all creatures". If, on the other hand, we consider the thought of the Prakari who says "He is dear to me also" and who is ever at the disposal of the man that is exclusively devoted to Him on account of His love for him, as has been said in the śloka  : "Among them the jnānī is my very self" the Lord would be pleased at the service rendered to the Bhāgavata, as if it were service rendered (directly) to His own inner self and not as that done to His body.
+इत्यादिप्रमाणङ्गळै याराय्न्दाल् राजावुक्कु राजकुमारोपलालनम् पोले भागवतकैङ्कर्यम् भगवाऩुक्कभिमतमायिरुक्कैयाल् शेषभूतऩाऩ इवऩ् सॆय्युम् किञ्चित्कारङ्गळिल् भागवतकैङ्कर्यम् प्रधानमायिऱ्ऱु।
+</details>
 
-In addition to its causing pleasure to the śeṣī, the relationship of the jīva to Iśvara as His śeṣa is also mediately through the Bhāgavata. Therefore his service to the Lord may also be mediate through the Bhāgavata. This may be explained as follows:
+## भगवत्-प्रीति-प्रकारः
+
+### भगवतः शरीरम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-इडत्तिल् तत्त्व-वित्तुक्कु प्रमाण-सरणियैप् पार्त्ताल् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१३०]] 
+
+
+अत्र तत्त्व-विदः, प्रमाण-सरणेर् निरूपणे,  
+</details>
+
+
+<details><summary>English</summary>
+
+In this matter, if we examine the path of the pramāṇas,  
+</details>
+
+<details><summary>Español</summary>
+
+En este asunto, si examinamos el camino de los pramāṇas,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिल् तत्त्ववित्तुक्कु प्रमाणसरणियैप् पार्त्ताल् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ये यजन्ति पितॄन् देवान्’’ 
+> (भारतम् शान्ति-पर्व ३५५-४। (दक्ष-स्मृति))  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘ये यजन्ति पितॄन् देवान्’’ 
+> (भारतम् शान्ति-पर्व ३५५-४। (दक्ष-स्मृति))  
+</details>
+
+
+<details><summary>English</summary>
+
+> "Those who worship the pitṛs, the gods, the Brahmins and Agni --  
+> they worship only the Lord  
+> who is the inner self of all creatures". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Aquellos que adoran los Pitṛs, los Dioses, los Brahmins y Agni -  
+> adora solo al Señor  
+> Quién es el yo interior de todas las criaturas ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ये यजन्ति पितॄन् देवा’’(भारतम् शान्ति-पर्व ३५५-४। (दक्ष-स्मृति))  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडियेय्  
+ईश्वरऩ् भागवत-शरीरऩ् आय्क् कॊण्डुम् आराध्यऩ् आम्। 
+</details>
+
+<details><summary>English</summary>
+
+Iśvara, who has the Bhāgavata as His body, is the object of worship as is declared in the (above) śloka 
+</details>
+
+<details><summary>Español</summary>
+
+Iśvara, que tiene el Bhāgavata como su cuerpo,  
+es el objeto de adoración como se declara en el (arriba) śloka
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये यीश्वरऩ् भागवतशरीरऩाय्क्कॊण्डुमाराध्यऩाम्। 
+</details>
+
+
+### भगवत आत्मा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+‘‘स च मम प्रियः’’(गीता ७-१७।) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>English</summary>
+
+(As is said) "He is dear to me also" 
+</details>
+
+<details><summary>Español</summary>
+
+(Como se dice) "Él también es querido para mí"
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘स च मम प्रियः’’(गीता ७-१७।) ऎऩ्गिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परमैकान्ति-विषयत्तिल् प्रीति-**पर-तन्त्रऩ् आऩ**  
+प्रकारियिऩ्-उडैय **निऩैवैप् पार्त्ताल्** 
+</details>
+
+<details><summary>English</summary>
+
+if, on the other hand, we consider the thought of the Prakari 
+who is ever at the disposal of the man  
+that is exclusively devoted to Him on account of His love for him,  
+</details>
+
+<details><summary>Español</summary>
+
+Si, por otro lado, consideramos la idea del prakari  
+que alguna vez está a disposición del hombre  
+que se dedica exclusivamente a él debido a su amor por él,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परमैकान्तिविषयत्तिल् प्रीतिपरतन्त्रऩाऩ प्रकारियिऩुडैय निऩैवैप्पार्त्ताल् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ज्ञानी त्वात्मैव मे मतं’’  
+> (गीता ७-१८।) 
+
+ऎऩ्गिऱबडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘ज्ञानी त्वात्मैव मे मतं’’  
+> (गीता ७-१८।) 
+
+
+</details>
+
+
+<details><summary>English</summary>
+
+as has been said in the śloka  : 
+
+> "Among them the jnānī is my very self" 
+</details>
+
+<details><summary>Español</summary>
+
+Como se ha dicho en el Śloka:
+
+> "Entre ellos el Jnānī es mi propio"
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+‘‘ज्ञानी त्वात्मैव मेमतं’’(गीता ७-१८।) ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भागवत-कैङ्कर्यत्तै  
+भगवान् तऩ्ऩ्-अन्तर्यामि+++(→भागवत-जीवात्म)+++-पक्कलिले पण्णिऩद् आगव् उगक्कुम्।+++(5)+++   
+</details>
+
+<details><summary>English</summary>
+
+the Lord would be pleased at the service rendered to the Bhāgavata,  
+as if it were service rendered (directly) to His own inner self  
+and not as that done to His body.
+</details>
+
+<details><summary>Español</summary>
+
+El Señor estaría complacido por el servicio prestado al Bhāgavata,  
+Como si fuera el servicio prestado (directamente) a su propio ser interno  
+y no como se le hizo a su cuerpo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भागवतकैङ्कर्यत्तै भगवान् तऩ्ऩन्तर्यामिपक्कलिले पण्णिऩदागवुगक्कुम्।   
+</details>
+
+## कैङ्कर्यस्य सद्वारकता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि शेषिक्क् **अभिमतम्** ऎऩ्गिऱव् अळवेय् अऩ्ऱु,  
+शेषत्वम् आगिऱ सम्बन्धन्-दाऩ् **स-द्वारकम् आगवुम्** उण्डागैयाल्  
+कैङ्कर्यमुम् **स-द्वारकम् आगवुम्** प्राप्तम्। 
+</details>
+
+<details><summary>English</summary>
+
+In addition to its causing pleasure to the śeṣī,  
+the relationship of the jīva to Iśvara as His śeṣa  
+is also mediately through the Bhāgavata.  
+Therefore his service to the Lord  
+may also be mediated through the Bhāgavata. 
+</details>
+
+<details><summary>Español</summary>
+
+Además de causar placer al Śeṣī,  
+La relación del Jīva con Iśvara como su Śeṣa  
+También es mediatamente a través del Bhāgavata.  
+Por lo tanto, su servicio al Señor  
+También puede estar mediado a través del Bhāgavata.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि शेषिक्कभिमतमॆऩ्गिऱवळवेयऩ्ऱु, शेषत्वमागिऱ सम्बन्धन्दाऩ् सद्वारकमागवुमुण्डागैयाल् कैङ्कर्यमुम् सद्वारकमागवुम् प्राप्तम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद् ऎङ्ङऩेय् ऎऩ्ऩिल्;  
+</details>
+
+<details><summary>English</summary>
+
+This may be explained as follows:
+</details>
+
+<details><summary>Español</summary>
+
+Esto puede explicarse de la siguiente manera:
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदॆङ्ङऩे यॆऩ्ऩिल्;  
+</details>
+
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-नित्यं श्रिया समेतस्य भक्तैरात्मवतस्सदा ।  
-सह सद्वारकञ्च स्याच्छेषित्वं परमात्मनः ॥ ३६-अ  ॥
+नित्यं श्रिया समेतस्य,  
+भक्तैर् आत्मवतस् सदा ।  
++++(स्व-तन्त्र-शेषित्वेन)+++ सह **स-द्वारकञ्** च स्याच्  
+छेषित्वं परमात्मनः ॥ ३६-अ  ॥ +++(4)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नित्यं श्रिया समेतस्य,  
+भक्तैर् आत्मवतस् सदा ।  
++++(स्व-तन्त्र-शेषित्वेन)+++ सह **स-द्वारकञ्** च स्याच्  
+छेषित्वं परमात्मनः ॥ ३६-अ  ॥ +++(4)+++
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्
+</details>
+
+
+<details><summary>English</summary>
+
+> To the Supreme Being who is always with Lakṣmī  
+> and who looks upon His devotees as His very self,  
+> the attribute of being a seshī  
+> may be both by being a seshi along with Lakṣmī  
+> and by being a śeṣī  mediately through the devotees. 
+
+(That is, those who look upon themselves as śeṣas to His devotees  
+are, mediately through these devotees,  
+śeṣas to the Lord Himself). 
+</details>
+
+<details><summary>Español</summary>
+
+> Para el ser supremo que siempre está con Lakṣmī  
+> y quién mira a sus devotos como su propio yo,  
+> El atributo de ser un seshī  
+> ambos pueden ser por ser un seshi junto con Lakṣmī  
+> y por ser un Śeṣī mediémente a través de los devotos.  
+
+(Es decir, aquellos que se consideran a sí mismos como Śeṣas a sus devotos  
+son, mediatamente a través de estos devotos,  
+śeṣas al mismo Señor).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -1161,7 +1499,9 @@ In addition to its causing pleasure to the śeṣī, the relationship of the jī
 सह सद्वारकञ्च स्याच्छेषित्वं परमात्मनः ॥ ३६-अ  ॥
 </details>
 
-To the Supreme Being who is always with Lakṣmī  and who looks upon His devotees as His very self, the attribute of being a seshī may be both by being a seshi along with Lakṣmī  and by being a śeṣī  mediately through the devotees". (That is, those who look upon themselves as śeṣas to His devotees are, mediately through these devotees, śeṣas to the Lord Himself). A king who is independent and who takes a pleasure in acting as he pleases places the ornaments and garlands worn by himself round the necks of his servants and of his elephants and horses. (Tiruppapalvar says):-- "The Lord who is spotless and who has made me the servant of His servants". (So does Nārada  say): "I, Nārada , have come here with an eager longing to see you. To men like me, O Brahmin, those who are bhaktas of the Lord are masters" and again (Tirumaṅgai Alvar says ); - "I will not remain in the company of those who think there is any other deity deserving of adoration than Thee; also what I have accepted with delight is the duty of serving Thy devotees". According to these passages, since the jīva is absolutely subject to the will of the Lord and since the service of the śeṣa is due also to those who are favourites of the Lord, our being a śeṣa to the Lord extends even to the Bhāgavatas and should last as long as the self lasts. Our being śeṣas to Bhāgavatas arises from their being devotees to the Lord and pertains to our essential nature. It arises also from their qualities and knowledge, which cause a desire in us to serve them. (As Lakṣmaṇa says) "I am his younger brother (by birth); I have become his servant by his qualities". (That this relationship of being a śeṣa is due both to our essential nature and to (our admiration for) their wisdom and character) is also indicated (respectively in the two phrases(1) "bhaktas of the lord and to "men like me" (in the speech of Nārada  quoted above). Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):- "These who are the servants of Bhāgavatas and who utter the names of Bhagavān are entitled even to sell us". This is the purport of the middle world in Tirumantra, namely, namo: na mama (not for me). If we reflect on this purport, our being śeṣa to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him). Accordingly, the service that should be rendered by the śeṣa is also (both ) mediate and direct. Therefore it is the farthest limit of the service of the prapanna to perform, as much as it lies in his power, service to the Bhāgavata, since it is part of the duty of one who is śeṣa to Bhagavān. So this outermost region of service to Bhāgavatas should be kept properly cultivated so that it may not become fallow land full of weeds.
+
+
+A king who is independent and who takes a pleasure in acting as he pleases places the ornaments and garlands worn by himself round the necks of his servants and of his elephants and horses. (Tiruppan alvar says):-- "The Lord who is spotless and who has made me the servant of His servants". (So does Nārada  say): "I, Nārada , have come here with an eager longing to see you. To men like me, O Brahmin, those who are bhaktas of the Lord are masters" and again (Tirumaṅgai Alvar says ); - "I will not remain in the company of those who think there is any other deity deserving of adoration than Thee; also what I have accepted with delight is the duty of serving Thy devotees". According to these passages, since the jīva is absolutely subject to the will of the Lord and since the service of the śeṣa is due also to those who are favourites of the Lord, our being a śeṣa to the Lord extends even to the Bhāgavatas and should last as long as the self lasts. Our being śeṣas to Bhāgavatas arises from their being devotees to the Lord and pertains to our essential nature. It arises also from their qualities and knowledge, which cause a desire in us to serve them. (As Lakṣmaṇa says) "I am his younger brother (by birth); I have become his servant by his qualities". (That this relationship of being a śeṣa is due both to our essential nature and to (our admiration for) their wisdom and character) is also indicated (respectively in the two phrases(1) "bhaktas of the lord and to "men like me" (in the speech of Nārada  quoted above). Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):- "These who are the servants of Bhāgavatas and who utter the names of Bhagavān are entitled even to sell us". This is the purport of the middle world in Tirumantra, namely, namo: na mama (not for me). If we reflect on this purport, our being śeṣa to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him). Accordingly, the service that should be rendered by the śeṣa is also (both ) mediate and direct. Therefore it is the farthest limit of the service of the prapanna to perform, as much as it lies in his power, service to the Bhāgavata, since it is part of the duty of one who is śeṣa to Bhagavān. So this outermost region of service to Bhāgavatas should be kept properly cultivated so that it may not become fallow land full of weeds.
 
 . As stated in the following ślokas in Pauṣkara samhita, "It is not wrong for a wedded wife to honour her husband and to honour his servants, whether in his presence or in his absence."
 
