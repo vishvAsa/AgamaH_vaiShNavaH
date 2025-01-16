@@ -1184,6 +1184,16 @@ es más agradable para el rey.
 इत्यादिप्रमाणङ्गळै याराय्न्दाल् राजावुक्कु राजकुमारोपलालनम् पोले भागवतकैङ्कर्यम् भगवाऩुक्कभिमतमायिरुक्कैयाल् शेषभूतऩाऩ इवऩ् सॆय्युम् किञ्चित्कारङ्गळिल् भागवतकैङ्कर्यम् प्रधानमायिऱ्ऱु।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+प्रमाणङ्गळैय् आराय्न्दालिति । इदऱ्कु इव्वर्थत्तिल् ऎऩ्बदोडन्वयमॆऩ्ऱु मुऩ्बे सॊऩ्ऩोम्। आराय्न्दाल् - परामर्शित्ताल्, राजकुमारोपलालनम्बोले - राजकुमारोपलालनम् राजावुक् कभिमतमायिरुक्कुमाप्पोले ऎऩ्ऱबडि।  
+अभिमतमायिरुक्कैयाले इति । इदऩाल् अनन्यार्हशेषऩाऩ परमैकान्ति अन्यराऩ भागवतर्गळुडैय कैङ्गर्यत्तैप् पण्णिऩाल् भगवाऩ् वॆऱुक्कुमागिल् अदु भगवदनन्यार्हशेषत्वत्तिऱ्कु विरुद्धमागादो वॆऩ्गिऱ शङ्कै दूरतो निरस्तमायिऱ्ऱु।  
+भगवदनभिमतऩाऩ अन्यऩुडैय कैङ्कर्यमऩ्ऱो विरुद्धम् आवदु।  
+भागवतकैङ्कर्यम् प्रधानमायिऱ्ऱु इति । भगवदभिमताराधनमागैयाल् प्रधानमायिऱ्ऱॆऩ्ऱ पडि। 
+</details>
+
+
+
 ## भगवत्-प्रीति-प्रकारः
 
 ### भगवतः शरीरम्
@@ -1216,6 +1226,19 @@ En este asunto, si examinamos el camino de los pramāṇas,
 
 इव्विडत्तिल् तत्त्ववित्तुक्कु प्रमाणसरणियैप् पार्त्ताल् 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+> इप्पडि भागवतकैङ्कर्यम् भगवद्-अभिमतम् आगैयाल्  
+भगवद्-अनन्यार्ह-शेषत्व-विरुद्धम् आगादमात्रम् अऩ्ऱिक्के  
+भागवत-कैङ्कर्यत्तैयुम् तद्-अन्तर्यामि-भगवत्कैङ्कर्यम् आगप् प्रमाणम् सॊल्लुगैयाल्  
+इदु अनन्यार्ह-शेषत्वत्तिऱ्कु विरुद्धम् आगाद् 
+
+ऎऩ्गिऱर् इव्विडत्तिल् तत्त्ववित्तुक्कु प्रमाणसरणियैप् पार्त्तालिति । 
+
+इव्विडत्तिल् - भागवतकैङ्कर्यविषयत्तिल्, भागवत-शरीरऩ् आय्क्-कॊण्डुम् आराध्यऩ् आम् इति ।  
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1282,6 +1305,14 @@ es el objeto de adoración como se declara en el (arriba) śloka
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+तथा च नित्य-कर्मङ्गळिल् अग्नीन्द्राद्य्-आराधनत्तिऱ्कु तद्-अन्तर्यामि-भगवद्-आराधनम् बोले  
+इदऱ्कुम् भागवत-शरीरक-भगवद्-आराधनत्वमे वरुगैयाल्  
+अनन्यत्व-विरोधमिल्लैय् ऎऩ्ऱु करुत्तु। 
+</details>
+
+
 ### भगवत आत्मा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1313,6 +1344,13 @@ es el objeto de adoración como se declara en el (arriba) śloka
 ‘‘स च मम प्रियः’’(गीता ७-१७।) ऎऩ्गिऱबडिये 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि भागवताराधनमुम् अग्नीन्द्राद्याराधनवत् तदन्तर्याम्याराधनमागिल् सद्वारकमाऩ इदऱ्कु प्राधान्यम् सॊल्लक्कूडुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् स च मम प्रिय इत्यादिना । 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परमैकान्ति-विषयत्तिल् प्रीति-**पर-तन्त्रऩ् आऩ**  
@@ -1343,6 +1381,12 @@ que se dedica exclusivamente a él debido a su amor por él,
 
 परमैकान्तिविषयत्तिल् प्रीतिपरतन्त्रऩाऩ प्रकारियिऩुडैय निऩैवैप्पार्त्ताल् 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+प्रकारियिऩुडैय - शेषीभूतऩाऩ अन्तर्यामि यिऩुडैय, निऩैवैप्पार्त्ताल् - अद्ध्यवसायत्तै नोक्किऩाल्, तऩ् अन्तर्यामि पक्कलिले पण्णिऩदाग वुगक्कुमिति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1415,6 +1459,14 @@ y no como se le hizo a su cuerpo.
 भागवतकैङ्कर्यत्तै भगवान् तऩ्ऩन्तर्यामिपक्कलिले पण्णिऩदागवुगक्कुम्।   
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सर्वान्तर्यामियाऩ भगवाऩुक्कु वस्तुतः ऒरु अन्तर्यामियिल्लाविडालुम् अन्तर्यामिपोले प्रीतिविषयभागवतद्वारकाराधनं साक्षात्स्वाराधनापेक्षया भगवाऩुक्कु अत्यन्तप्रीतिकरमॆऩ्ऱबडि। इप्पडि साक्षात्स्वाराधनत्तैक्काट्टिलुम् भागवतद्वारकाराधनम् सर्वोत्कृष्टमाग मुडिन्दबडियाल् इदु सद्वारकमाऩालुम् इदऱ्कु प्राधान्यम् पोगादॆऩ्ऱु करुत्तु।  
+
+इप्पडि भागवतकैङ्कर्यम् भगवाऩुक्कु अत्यन्तप्रीतिहेतुवॆऩ्गिऱमात्रत्ताल् कर्तव्यमॆऩ्बदु मात्तिरमऩ्ऱु। 
+</details>
+
+
 ## कैङ्कर्यस्य सद्वारकता
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1454,6 +1506,13 @@ También puede estar mediado a través del Bhāgavata.
 इप्पडि शेषिक्कभिमतमॆऩ्गिऱवळवेयऩ्ऱु, शेषत्वमागिऱ सम्बन्धन्दाऩ् सद्वारकमागवुमुण्डागैयाल् कैङ्कर्यमुम् सद्वारकमागवुम् प्राप्तम्। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+सद्वारकमाग भगवच्छेषभूतऩाऩ इवऩुक्कु द्वारशेषिगतातिशयाधानद्वारा परशेषिगतातिशयाधानम् प्रमाणसिद्धमागैयाल् द्वारशेषिकळाऩ भागवतर्गळुडैय कैङ्कर्यमवश्यं कर्तव्यमॆऩ्गिऱार् इप्पडि शेषिक्कभिमतमॆऩ्गिऱव् अळवेय् अऩ्ऱु इति ।  
+सद्वारकमाग वुम् प्राप्तमिति । शेषत्वम् सद्वारकमॆऩ्ऱु प्रमाणम् सॊऩ्ऩाल् कैङ्कर्यमुम् सद्वारकमाग प्राप्तम् आम् इऱे। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद् ऎङ्ङऩेय् ऎऩ्ऩिल्;  
@@ -1480,6 +1539,10 @@ Esto puede explicarse de la siguiente manera:
 अदॆङ्ङऩे यॆऩ्ऩिल्;  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इदै उपपादिक्किऱार् अदॆङ्ङऩेयॆऩ्ऩिलित्यादिना कैङ्कर्यमुम् निऱ्कु मित्यन्तेन । 
+</details>
 
 
 
@@ -1539,6 +1602,15 @@ son, mediatamente a través de estos devotos,
 सह सद्वारकञ्च स्याच्छेषित्वं परमात्मनः ॥ ३६-अ  ॥
 </details>
 
+
+<details><summary>सायण-टीका</summary>
+
+नित्यमित्यादि । नित्यं श्रिया समेतस्य – नित्यमाग श्रीविशिष्टऩुक्कु, सह शेषित्वं – श्रिया सह शेषित्वम्, उभयाधिष्ठानमाऩ सर्वशेषित्वम्, सदा – सर्वकालम्, भक्तैरात्मवतः – भक्तर्गळै आत्मा वाग ऎण्णुगिऱ, परमात्मनः – परमात्मावुक्कु, सद्वारकञ्च स्यात् – भक्तद्वारकमागवुमागक् कडवदु।  
+भक्तर्गळ् आत्मावैप्पोल् अत्यन्तमभिमतर्गळागैयालवर्गळुक्कु शेषमाग जगत्तै विनियोगिक्किऱाऩॆऩ्बदु भक्तैरात्मवतः ऎऩ्बदाल् विवक्षितम्। भक्तैरात्मवतः ऎऩ्गिऱविशेषणत्ताल् सद्वारकत्वोपपादनम्। यद्वा भक्तैस्समेतस्येत्यनुषङ्गः ।  
+आत्मवतः ऎऩ्बदऱ्कु ज्ञानिगळैक् कुऱित्तु ऎऩ्ऱर्थम्।  
+</details>
+
+### तद्-इष्ट-विनियोगः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वतन्त्रऩ् आय् स्वच्-छन्द-लीलऩ् आऩ राजा  
@@ -1576,6 +1648,21 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 
 स्वतन्त्रऩाय् स्वच्छन्दलीलऩाऩ राजा ताऩ् पूण्डवाभरणत्तैयु मिट्ट मालैयैयु मडियार्गळुडैयवुम् आऩैगुदिरैगळुडैयवुङ्गऴुत्तिलेयिडुमाप्पोले 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द द्वार-शेषत्वत्तै विवरिक्किऱार्  
+स्वतन्त्रऩाय् स्वच्छन्दलीलऩ् आऩ इत्य्-आदिना ।  
+स्वतन्त्रऩ् आगैयाले  
+तऩक्कु शेषम् आऩ वस्तुवै अन्यत्तुक्कु शेषम् आक्क समर्थऩ्।  
+
+> स्व-च्छन्द-लीलऩ् आगैयाले  
+लीला-रसानुभवार्थम् इप्पडि अन्यशेषम् आग विनियोगिक्क प्राप्तऩ्  
+
+ऎऩ्ऱ पडि।  
+कऴुत्तिले यिडुमाप्पोले ऎऩ्बदऱ्कु इष्टविनियोग ऎऩ्गिऱ अंशत्तोडन्वयम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1615,9 +1702,15 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 'अडियार्क्कॆऩ्ऩैयाट्पडुत्त विमलऩ्'(अमलऩादिबिराऩ् १।) ऎऩ्ऱुम्,  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इडुमाप्पोले इष्टमाऩबडि विनियोगिक्कैक्कु अर्हतैयाले ऎऩ्ऱर्थम्। अडियार्क्कित्यादि । अडियार्क्कु - तऩक्कु दासभूतराऩ भागवदऱ्कु, ऎऩ्ऩै - अत्यन्तपरतन्त्रऩाऩ ऎऩ्ऩै, आळ्बडुत्त - दासभूतऩागप् पण्णुगैक्कनुगुणमाऩ, विमलऩ् - परिशुद्धमाऩ मनस्सैयुडैयवऩ्; नमक्कु अनन्यार्हदासभूतऩ् मदतिरिक्तरुक्कुम् दासऩागक्कूडुमा ऎऩ्गिऱ पॊऱामैयऩ्ऱिक्के तऩ् दासरॆल्लोरैयुम् तऩक्कत्यन्तप्रियर्गळाऩ भागवतर्गळुक्कॆल्लाम् दास्यम् पण्णुम्बडि विनियोगिक्कैक्कु ईडाऩ मनोनैर्मल्यतैयुडैयवऩॆऩ्ऱबडि। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> ‘‘नारदो ऽहम् अनुप्राप्तस्  
+> ‘‘नारदो ऽहम् **अनुप्राप्तस्**  
 > त्वद्-दर्शन-कुतूहलात् ।  
 > **प्रभवो** भगवद्-भक्ता  
 > मादृशां सततं द्विज ॥’’+++(4)+++  
@@ -1628,7 +1721,7 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-> ‘‘नारदो ऽहम् अनुप्राप्तस्  
+> ‘‘नारदो ऽहम् **अनुप्राप्तस्**  
 > त्वद्-दर्शन-कुतूहलात् ।  
 > **प्रभवो** भगवद्-भक्ता  
 > मादृशां सततं द्विज ॥’’+++(4)+++  
@@ -1666,6 +1759,12 @@ coloca los adornos y guirnaldas usados ​​por sí mismo  alrededor del cuello
 
 ‘‘नारदोऽहमनुप्राप्तस्त्वद्दर्शनकुतूहलात् । प्रभवो भगवद्भक्ता मादृशां सततं द्विज ॥’’(इतिहास-समुच्चयः ३१-५४।) ऎऩ्ऱुम्, 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+नारदोऽहमित्यादि । मादृशां – भगवद्दास्यकाष्ठाभूत-भागवतदास्यत्तिल् निलै निऩ्ऱवर्गळुक्कु, भगवद्भक्ताः – भागवतर्गळॆल्लाम्, यस्मात् प्रभवः – प्रभुक्कळो? 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1706,6 +1805,11 @@ y nuevamente (dice Tirumaṅgai Alvar);-
 <details><summary>मूलम्</summary>
 
 'मऱ्ऱुमोर् तॆय्वमुळदॆऩ्ऱिरुप्पारोडुऱ्ऱिलेऩुऱ्ऱदु मुऩ्ऩडियार्क्कडिमैय्'(पॆरियदिरुमॊऴि ८-१०-३।)  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+मऱ्ऱुमोर् तॆय्वमित्यादि । मऱ्ऱुम् - भगवदन्यमायुम्। ओर् - अद्वितीयमायुम्, तॆय्वम् - देवतै, उळदॆऩ्ऱु - उण्डॆऩ्ऱु, इरुप्पारोडु - भगवाऩैक्काट्टिलुम् वेऱुबट्ट मुख्यदेवतै उण्डॆऩ्ऱु ऎण्णियिरुक्कुम् देवतान्तरभक्तर्गळोडॆऩ्ऱबडि। उऱ्ऱिलेऩ् - संसर्गिक्कमाट्टेऩ्, उऱ्ऱदुम् - नाऩ् अङ्गीगरित्तदुम्, उऩ्ऩडियार्क्कु - उऩ् दासभूतर्गळुक्कु, अडिमै - दास्यम् - कैङ्कर्यमॆऩ्ऱबडि। 
 </details>
 
 
@@ -1751,10 +1855,242 @@ Ser un Śeṣa al Señor se extiende incluso a los Bhāgavatas y deberían durar
 ऎऩ्ऱुञ्जॊल्लुगिऱबडिये अत्यन्तपारतन्त्र्यादि कळडियाग भगवदिष्टविनियोगार्हतैयाले भगवच्छेषत्वम् ताऩ् यावदात्मभावियाऩ कट्टळैयिले भागवतशेषत्वपर्यन्तमायिऱ्ऱु। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+भगवच्छेषत्वम् - भगवच्छेषत्वमाऩदु, ताऩ् यावदात्मभावियाऩ कट्टळैयिले - यावत्कालम् वळर्न्द कट्टळैयिले, सम्बन्धिपर्यन्तमुम् वळर्न्ददॆऩ्ऱबडि। यावदात्मभावियाऩ भगवच्छेषत्वमे भागवतशेषत्वपर्यन्तमाग वळरुगैयाले इदुवुम् यावदात्मभावि ऎऩ्ऱदायिऱ्ऱु। 
+</details>
+
+### गुणैर् अपि दास्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्गु +++("प्रभवो भगवद्भक्ता मादृशाम्" इत्यत्र)+++  
+भागवतत्वम् अडिय् आग स्वरूप-प्रयुक्तम् आगवुम्,  
+
+> ‘‘गुणैर् दास्यम् उपागतः’’  
+(रामायणम् किष्किन्दा-काण्डम् ४-१२) 
+
+ऎऩ्गिऱ न्यायत्ताले  
+गुण-ज्ञानम् अडिय् आग स्वेच्छैयालुम्  
+
++++(द्वेधा)+++ **वन्द** भागवत-शेषत्वम्  
+
+‘‘भगवद्-भक्ताः, मादृशां’’ ऎऩ्गिऱव् इरण्डु पदत्तालुम् **सूचितम्।**  
+</details>
+
+<details><summary>English</summary>
+
+Our being śeṣas to Bhāgavatas arises from their being devotees to the Lord  
+and pertains to our essential nature.  
+It arises also from their qualities and knowledge,  
+which cause a desire in us to serve them,  
+
+> (As Lakṣmaṇa says) "I am his younger brother (by birth);  
+I have become his servant by his qualities". 
+
+(That this relationship of being a śeṣa is due both to our essential nature and to (our admiration for) their wisdom and character)  
+is also indicated (respectively in the two phrases
+
+1) "bhaktas of the lord" and 
+2) to "men like me" (in the speech of Nārada  quoted above). 
+</details>
+
+<details><summary>Español</summary>
+
+Our being śeṣas to Bhāgavatas arises from their being devotees to the Lord  
+and pertains to our essential nature.  
+It arises also from their qualities and knowledge,  
+which cause a desire in us to serve them,  
+
+> (As Lakṣmaṇa says) "I am his younger brother (by birth);  
+I have become his servant by his qualities". 
+
+(That this relationship of being a śeṣa is due both to our essential nature and to (our admiration for) their wisdom and character)  
+is also indicated (respectively in the two phrases
+
+1) "bhaktas of the lord" and 
+2) to "men like me" (in the speech of Nārada  quoted above). 
+</details>
 
 
+<details><summary>मूलम्</summary>
 
-Our being śeṣas to Bhāgavatas arises from their being devotees to the Lord and pertains to our essential nature. It arises also from their qualities and knowledge, which cause a desire in us to serve them. (As Lakṣmaṇa says) "I am his younger brother (by birth); I have become his servant by his qualities". (That this relationship of being a śeṣa is due both to our essential nature and to (our admiration for) their wisdom and character) is also indicated (respectively in the two phrases(1) "bhaktas of the lord and to "men like me" (in the speech of Nārada  quoted above). Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):- "These who are the servants of Bhāgavatas and who utter the names of Bhagavān are entitled even to sell us". This is the purport of the middle world in Tirumantra, namely, namo: na mama (not for me). If we reflect on this purport, our being śeṣa to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him). Accordingly, the service that should be rendered by the śeṣa is also (both ) mediate and direct. Therefore it is the farthest limit of the service of the prapanna to perform, as much as it lies in his power, service to the Bhāgavata, since it is part of the duty of one who is śeṣa to Bhagavān. So this outermost region of service to Bhāgavatas should be kept properly cultivated so that it may not become fallow land full of weeds.
+इङ्गु भागवतत्वमडियाग स्वरूप-प्रयुक्तमागवुम् ‘‘गुणैर्दास्यमुपागतः’’(रामायणम् किष्किन्दाकाण्डम् ४-१२) ऎऩ्गिऱ न्यायत्ताले गुणज्ञानमडियाग स्वेच्छैयालुम् वन्द भागवतशेषत्वम् ‘‘भगवद्भक्ताः, मादृशां’’ ऎऩ्गिऱविरण्डु पदत्तालुम् सूचितम्।  
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+द्वार-भूतम् आऩ भागवतर्गळ्-उडैय शेषत्वम्  
+इरण्डु वगैय् आय् इरुक्कुम् ऎऩ्गिऱार् इङ्गित्यादिना । भागवतत्वमडियाग - भागवतत्त्वमे निबन्धनमाग, स्वरूपप्रयुक्तमागवुमिति । ऒरुवऩुक्कु भागवतत्वमिरुन्दाल् अवऩुडैय गुणागुणविचारमऩ्ऱिक्के तावन्मात्रत्ताले वरुम् तच्छेषत्वत्तै स्वरूपप्रयुक्तशेषत्वमॆऩ्गिऱदु। इदु भगवाऩुक्कु सद्वारकशेषित्वत्तै विधिक्किऱ प्रमाणत्ताले सिद्धम्। गुणैर्दास्यमुपागतः - इदु इळैयबॆरुमाळुडैय वाक्यम् ‘‘अहमस्यावरो भ्राता’’ ऎऩ्बदु इदिऩ् मुऩ् पादम्। पॆरुमाळुडैय समक्षत्तिल् हनूमाऩ् 'नीर् यार्' ऎऩ्ऱु केट्क, ऎऩ्ऩै पॆरुमाळ् ऒरुबडि निऩैत्तिरुप्पर् नाऩ् ऒरुबडि निऩैत्तिरुप्पेऩ् ऎऩ्गिऱार्। अवरुडैय बुद्धियाल् निऩैत्तिरुप्पदु अवरो भ्राताऎऩ्ऱु - इवरुक्कु नाऩ् पिऩ् पिऱन्द भ्राता ऎऩ्ऱु; ऎऩ्ऩुडैय बुद्धियाल् अवर् मिगवुम् गुणाढ्यरॆऩ्ऱुम्, अवरुडैय गुणत्ताले नाऩ् अवरुक्कु दासभूतऩॆऩ्ऱुम् निऩैत्तिरुप्पेऩॆऩ्ऱु सॊऩ्ऩार्। इन्द श्लोकन्यायत्तैप् पार्त्ताल् भागवतर्गळुडैय गुणङ्गळिलीडुबट्टु स्वेच्छैयिऩाले वरुम् भागवतशेषत्वमुम् ऒऩ्ऱुण्डॆऩ्ऱेऱ्पडुगिऱदु। इन्द इरण्डु शेषत्वमुम् ‘‘भगवद्भक्ताः’’ ‘‘मादृशां’’ ऎऩ्गिऱ इरण्डु पदत्तालुम् सूचितमिति । भगवद्भक्ताः ऎऩ्बदाल् स्वरूपप्रयुक्तदास्यमुम्, गुणसारस्य वेदिगळैच् चॊल्लुम् मादृशां ऎऩ्गिऱ पदत्ताले गुणकृतदास्यमुम् सूचितमॆऩ्ऱबडि। 
+</details>
+
+## विक्रयार्हता
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब्-भागवत-शेषत्वम् क्रयञ् चॆल्लुम्+++(=प्राप्ति)+++ बडियै 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य भागवत-शेषत्वस्य क्रय-प्रयोजकताम्, 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इब्भागवतशेषत्वम् क्रयञ्जॆल्लुम्बडियै 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इन्द भागवतशेषत्वम् इप् भागवतर्गळ् तम् गृहक्षेत्रादिगळैप्पोले नम्मै विक्रियम् सॆय्दालुम् सॆल्लुम्बडि यायिरुक्कुमॆऩ्बदिल् प्रमाणम् काट्टुगिऱार् इप्भागवतशेषत्वम् क्रयञ्जॆल्लुम् पडियै इति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> '+++(स्तुतिम्)+++ पेसुवार् अडियार्गळ्  
+> ऎन्-तम्मै विऱ्कवुम्+++(=विक्रेतुम्)+++ पॆऱुवार्गळेय्'   
+> (पॆरियाऴ्वार् तिरुमॊऴि ४-४-१०)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> कीर्तन-शीला भागवता  
+> अस्मान् (वि)क्रेतुम् अप्य् अर्हन्ति 
+</details>
+
+<details><summary>English</summary>
+
+> "These who are the servants of Bhāgavatas  
+> and who utter the names of Bhagavān  
+> are entitled even to sell us". 
+</details>
+
+<details><summary>Español</summary>
+
+> "These who are the servants of Bhāgavatas  
+> and who utter the names of Bhagavān  
+> are entitled even to sell us". 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+'पेसुवारडियार्गळॆन्दम्मै विऱ्कवुम् पॆऱुवार्गळेय्'  (पॆरियाऴ्वार् तिरुमॊऴि ४-४-१०)  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+पेसुवारित्यादि ।  
+पेसुवारडियर्गळ् - भगवन्नामङ्गळै सादरमागप् पेसुमवर्गळाऩ भागवतर्गळुडैय अडियार्गळ्,  
+भगवद्दास्यरसिकर्गळाऩ भागवतर्गळॆऩ्ऱबडि।  
+ऎन्दम्मै - दासभूतर्गळाऩ नम्मै,  
+विऱ्कवुम् पॆऱुवार्गळ् - गृहक्षेत्रादिगळैप्पोले ओर् अवसरत्तिल् विक्रियम् पण्णवुम् समर्थर्गळ्।  
+
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु +++(तादृश-विषय-तज्-ज्ञः)+++ कल्प-सूत्र-व्याख्याताक्कळ् आऩ पॆरिय्-आऴ्वार् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति कल्प-सूत्र-व्याख्यातारो महा-दिव्य-सूरयः [ श्रीविष्णुचिताः] अनुजगृहुः । 
+</details>
+
+
+<details><summary>English</summary>
+
+Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):- 
+</details>
+
+<details><summary>Español</summary>
+
+Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):- 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु कल्पसूत्र-व्याख्याताक्कळाऩ पॆरियाऴ्वाररुळिच्चॆय्दार्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+कल्पसूत्रव्याख्याताक्कळाऩ पॆरियाऴ्वाररुळिच् चॆय्दारिति ।  
+कल्पसूत्रव्याख्याताक्कळ् ऎऩ्ऱु सॊऩ्ऩदाल्  
+शेषत्वत्तिऩ्-उडैय स्वरूप-लक्षणादिगळै नऩ्ऱ् आग अऱिन्दमै तोऱ्ऱुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु मध्यम-पदत्तुक्कुत् तात्पर्यार्थम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं मध्यमपदस्य तात्पर्यार्थः ।  +++(4)+++
+</details>
+
+<details><summary>English</summary>
+
+This is the purport of the middle word in Tirumantra, namely, namo: na mama (not for me). 
+</details>
+
+<details><summary>Español</summary>
+
+This is the purport of the middle word in Tirumantra, namely, namo: na mama (not for me). 
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु मध्यमपदत्तुक्कुत्तात्पर्यार्थम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+स्वरूपपरमाऩ मूलमन्त्रत्तिल् भागवतशेषत्वम् सिद्धिक्कुम् स्थलत्तैक्काट्टुगिऱार् इदु मद्ध्यमपदत्तिऱ्कु तात्पर्यार्थमिति । इदु - भागवतशेषत्वम्, मद्ध्यमपदत्तिऱ्कु - नमस्सुक्कु, तात्पर्यार्थम् - नमस्सु : ‘‘न मम स्वातन्त्र्यं’’ऎऩ्गिऱ अद्ध्याहृतयोजनैयिल् अत्यन्तपारतन्त्र्यप्रतिपादक मागैयाले स्वतन्त्रशेषिक्कु इष्टर्गळाऩ भागवतविषयत्तिल् विनियोगार्हत्वरूपमाऩ भागवतशेषत्वम् तात्पर्यवृत्त्यासिद्धिक्कुमॆऩ्ऱु करुत्तु। 
+</details>
+
+## शेषत्व-कैङ्कर्ययोर् द्वैविध्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-अर्थत्तै अनुसन्धित्ताल्  
+इच्-शेषत्वं स-द्वारकम् आगवुम्, अद्वारकम् आगवुम् **निऩ्ऱ निलैयिले**  
+शेष-वृत्तिय् आऩ कैङ्कर्यमुम् +++(स-द्वारकम् आगवुम्, अद्वारकम् आगवुम्)+++ **निऱ्कुम्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्मिन्न् अर्थे ऽनुसंहिते सति  
+अस्य शेषत्वस्य स-द्वारकतया अ-द्वारकतया च या **स्थितिः**,  
+तां शेष-वृत्ति-भूतं कार्यम् अपि +++(स-द्वारकतया अ-द्वारकतया च स्थितिं)+++ **भजते** ।  
+</details>
+
+<details><summary>English</summary>
+
+If we reflect on this purport,  
+our being śeṣa to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him).  
+Accordingly, the service that should be rendered by the śeṣa is also (both ) mediate and direct. 
+</details>
+
+<details><summary>Español</summary>
+
+If we reflect on this purport,  
+our being śeṣa to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him).  
+Accordingly, the service that should be rendered by the śeṣa is also (both ) mediate and direct. 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वर्थत्तै अनुसन्धित्ताल् इच् शेषत्वम् सद्वारकमागवुमद्वारक मागवुम् निऩ्ऱ निलैयिले शेषवृत्तियाऩ कैङ्कर्यमुम् निऱ्कुम्। 
+</details>
+
+
+Therefore it is the farthest limit of the service of the prapanna to perform, as much as it lies in his power, service to the Bhāgavata, since it is part of the duty of one who is śeṣa to Bhagavān. So this outermost region of service to Bhāgavatas should be kept properly cultivated so that it may not become fallow land full of weeds.
 
 . As stated in the following ślokas in Pauṣkara samhita, "It is not wrong for a wedded wife to honour her husband and to honour his servants, whether in his presence or in his absence."
 
