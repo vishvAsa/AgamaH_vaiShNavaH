@@ -2097,11 +2097,27 @@ también (ambos) mediado y directo.
 इव्वर्थत्तै अनुसन्धित्ताल् इच् शेषत्वम् सद्वारकमागवुमद्वारक मागवुम् निऩ्ऱ निलैयिले शेषवृत्तियाऩ कैङ्कर्यमुम् निऱ्कुम्। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इव्वर्थत्तै - इन्नमस्सिऩुडैय तात्पर्यार्थत्तै, अनुसन्धित्ताल् - अनुसन्धानम् पण्णिऩाल्, इच्छेषत्वम् - इन्द भगवच्छेषत्वम्, सद्वारकमागवुम् अद्वारकमागवुम् निऩ्ऱ निलैयिले - भागवतद्वारकमायुम् साक्षाद्भगवन्निरूपितमायुम् निऩ्ऱ निलैयिले, प्रणवप्रतिपाद्यमाऩ साक्षात् भगवच्छेषत्वम् अदावदु अद्वारकभगवच्छेषत्वम् नमश्शब्दत्ताले तात्पर्यवृत्त्या सद्वारकमायुङ् निऱ्किऱाप्पोलेयॆऩ्ऱबडि,  
+शेषवृत्तियाऩ कैङ्कर्यमुम् निऱ्कुमिति । कारणमाऩ शेषत्वम् अद्वारकमायुम् सद्वारकमायुम् निऩ्ऱाल् तत्कार्यमाऩ शेषवृत्तियुम्, अदावदु कैङ्कर्यमुम् अद्वारकमायुम् सद्वारकमायुम् अवश्यम् निऱ्कुमॆऩ्ऱबडि। इदऩाल् भागवतर्गळुक्कु कैङ्कर्यम् पण्णिऩाल् तद्वारा भगवाऩुम् प्रीतऩागिऱाऩॆऩ्ऱदायिऱ्ऱु। 
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल्, तऩ् शक्तिक्क् अनुरूपम् आग भगवत्-कैङ्कर्यत्तिऩ्-उडैय  
 साध्याकार-विवृद्धिय् आऩ पुरुषार्थत्तिल् ऎल्लै निलत्तैत्  
 तरिसु+++(=व्यर्थ-भू)+++ तूऱु+++(=वीरुधाः)+++ विडाद् ऒऴिय+++(=त्याज्यं)+++ प्राप्तम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतः स्व-शक्त्य्-अनुरूपं भगवत्-कैङ्कर्यस्य साध्याकारस्य  
+विवृद्धि-रूपा [इयं ] पुरुषार्थ-काष्ठा  
+भूमिर् यथा सस्याद्य्-अनर्हा दुर्वीरुत्-परीता च न स्यात्,  
+तथा-करणं प्राप्त-रूपम् । 
 </details>
 
 <details><summary>English</summary>
@@ -2129,29 +2145,138 @@ de modo que no se convierta en tierra en barbecho, llena de malezas.
 आगैयाल् तऩ् शक्तिक्कनुरूपमाग भगवत्कैङ्कर्यत्तिऩुडैय साध्याकारविवृद्धियाऩ पुरुषार्थत्तिलॆल्लै निलत्तैत् तरिसु तूऱु विडादॊऴिय प्राप्तम्।  
 </details>
 
+<details><summary>सायण-टीका</summary>
 
+भागवतकैङ्कर्यमुम् यथाशक्ति पण्ण वेण्डुमॆऩ्गिऱार् आगैयालित्यादिना । आगैयाल् - भगवत्कैङ्कर्यम् सद्वारकमायुम् अद्वारकमायुम् निऱ्कैयाल्, तऩ् शक्तिक्कनुरूपमाग इति ।  
+"न ह्य् अशक्यं विदधाति शास्त्रं"+++(5)+++,  
+तऩक्कु भागवत-कैङ्कर्यत्तै परिपूर्णमाग अनुष्ठिक्क शक्तियिल्लाविडिलुम्,  
+यथाशक्ति भगवत्कैङ्कर्यम्बोले यथाशक्ति भागवतकैङ्कर्यमुमनुष्ठिक्कक्कूडुमॆऩ्ऱु तिरुवुळ्ळम्।  
+भगवत्कैङ्कर्यत्तिऩुडैय - इङ्गु कैङ्कर्यशब्दम् किङ्करस्य भावः ऎऩ्गिऱ व्युत्पत्त्या किङ्करत्वत्तै अदावदु - शेषत्वत्तैच् चॊल्लुगिऱदु। कैङ्कर्यपरमाऩाल् अदिऩुडैय साद्ध्याकारविवृद्धियॆऩ्बदु अनन्वितमाम्। साद्ध्याकारविवृद्धियाऩ - शेषत्वत्तिऩाल् साद्ध्यम् भगवत्कैङ्कर्यम्, अदिऩुडैय आकारविवृद्धि भागवतकैङ्कर्यम्, तद्रूपमाऩवॆऩ्ऱबडि। पुरुषार्थत्तिलॆल्लै निलत्तै - भगवत्कैङ्कर्यरूप पुरुषार्थत्तिऩुडैय सीमाभूमियै, अदावदु भागवतकैङ्कर्यत्तै,  
+तरिसु तूऱुविडादॊऴिय प्राप्तमिति । सस्याद्यनर्हक्षेत्रमाग विट्टुविडामलिरुक्क प्राप्तमॆऩ्ऱबडि। भागवतकैङ्कर्यम् सॆय्याविडिल् भागवतशेषत्वपर्यन्तभगवच्छेषत्वमे स्वरूपमागैयालुम् भागवतकैङ्कर्यपर्यन्तभगव त्कैङ्कर्यमेपरिपूर्णपुरुषार्थमागैयालुम् परिपूर्णपुरुषार्थम् सिद्धिक्कादु। आगैयाल् भागवतकैङ्कर्यपर्यन्तमागवे भगवत्कैङ्कर्यम् अवश्यानुष्ठेयमॆऩ्ऱु करुत्तु।  
+</details>
+
+
+## परमैकान्तित्वम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु 
 
-> ‘‘भर्तुर् भृत्य-गणस्य च’’(पौष्कर संहिता)  
+> (**न दोषो** हि यथा लोके)  
+> ‘‘भर्तुर् भृत्य-गणस्य च’’  
+> (**माननाद्** धर्म-पत्नीनां  
+> समक्षे वा परोक्षतः ॥)  
+> (पौष्कर संहिता)  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदम्
+
+> (**न दोषो** हि यथा लोके)  
+> ‘‘भर्तुर् भृत्य-गणस्य च’’  
+> (**माननाद्** धर्म-पत्नीनां  
+> समक्षे वा परोक्षतः ॥)  
+> (पौष्कर संहिता)  
+</details>
+
+<details><summary>English</summary>
+
+> "It is not wrong for a wedded wife to honour her husband  
+and to honour his servants,  
+whether in his presence or in his absence."
+</details>
+
+<details><summary>Español</summary>
+
+> "No está mal que una esposa casada honre a su esposo  
+y para honrar a sus sirvientes,  
+ya sea en su presencia o en su ausencia ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इदु ‘‘भर्तुर्भृत्यगणस्य च’’(पौष्कर संहिता)
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+ननु भगवदेकशेषऩुक्कु अन्यकैङ्कर्यम् युक्तमागुमो वॆऩ्ऩ वरुळिच्चॆय्गिऱार् इदु भर्तुर्भृत्यगणस्य चेत्यादियाल्। इन्द वचनम् पौष्करसंहितैयिल् ऐकान्त्याक्षेपत्तिल् समाधानन्तर्गतवचनशेषम्, 
+
+> ‘‘देव-व्यामिश्र-याजित्वं  
+> **प्रतिषिद्धं** पुनः पुनः ।  
+> प्राग् **उक्तानाञ्** च यागानां  
+> **दृष्टम् अङ्गी कृतञ्** च तत् ॥  
+> तन् मेऽत्र **संशयं जातं**  
+> **छेत्तुम् अर्हसि** साम्प्रतं ।  
+> 
+> श्रीभगवानुवाच । 
+> 
+> सत्यम् एतन् महाबुद्धे  
+> यथा **सञ्चोदितं** त्वया ।  
+> किन्तु **क्रियान्तरे प्राप्ते**  
+> **न दोषस्** त्व् अधिकारिणां ॥  
+> यस्मात् **सर्व-परत्वं** हि  
+> तेषाम् अस्त्य् अ-च्युतं प्रति ।  
+> तद्-आश्रितत्वाद् देवानाम्  
+> अन्येषां **पूजनन्** तु वै ॥  
+> न दोषो हि यथा लोके  
+> भर्तु-र्भृत्य-गणस्य च ।  
+> माननाद् धर्म-पत्नीनां  
+> समक्षे वा परोक्षतः ॥’’ 
+
+ऎऩ्ऱु ऐकान्याक्षेपसमाधानवचनङ्गळ्। भर्तुः – भर्तावुक्कुम्, भृत्यगणस्य च – अवऩुडैय भृत्यवर्गत्तिऱ्कुम्, समक्षे परोक्षतो वा, मा न नात् – पूजनात्, धर्मपत्नीनां – पतिव्रतैकळुक्कु, यथा लोके न दोषः तथा भगवदाश्रितानां पूजनन्तु वै – पूजनमो वॆऩ्ऱाल्, न दोषो हि – दोषमागादॆऩ्ऱु प्रसिद्धमऩ्ऱो? ऎऩ्ऱु सॊल्लि यिरुप्पदाल् भर्तुसम्बन्धज्ञानत्ताले पतिव्रतैक्कु भर्ताविऩुडैय भृत्यवर्गपूजनमॆप्पडि पातिव्रत्यभञ्जकमऩ्ऱो प्रत्युत पातिव्रत्यत्तिऱ्कु उचितमो अप्पडिये भागवतविषयत्तिल् भगवच्छेषत्वज्ञानमडियाग परमैकान्तिकळ् पण्णुम् कैङ्कर्यम् भगवदनन्यार्हशेषत्वत्तिऱ्कु भञ्जकमागादु। प्रत्युत अदऱ्कु उचितमागवेयागुम् ऎऩ्बदु इन्द श्लोकतात्पर्यम्। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> आप्तो विष्णोर् अनाप्तश् च  
+> +++(भागवताः→ [नित्यम्])+++ आप्तो विष्णोर् अनाप्तश् च  
 द्विधा परिकरस् स्मृतः ।  
-नित्यो वन्द्यो, न चानित्यः  
-कर्मवश्यो मुमुक्षुभिः॥   
+नित्यो **वन्द्यो**, न चानित्यः  
+कर्म-वश्यो मुमुक्षुभिः॥   
 
 (पौष्कर-संहिता) 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> +++(भागवताः→ [नित्यम्])+++ आप्तो विष्णोर् अनाप्तश् च  
+द्विधा परिकरस् स्मृतः ।  
+नित्यो **वन्द्यो**, न चानित्यः  
+कर्म-वश्यो मुमुक्षुभिः॥   
+
+(पौष्कर-संहिता) 
+</details>
+
+
+<details><summary>English</summary>
+
+and  
+
+> "Among the Lord's retinue are two classes:  
+> those that are dear to him and worthy of His trust  
+> and those who are not.  
+> To the former class belong the nityas, the muktas and the Bhagavatās.  
+To the latter class belong Brahma and the other gods  
+who are subject to the sway of past karma.  
+The seeker after mukti should not adore the latter;" 
+</details>
+
+<details><summary>Español</summary>
+
+y
+
+> "Entre el séquito del Señor hay dos clases:  
+> aquellos que son queridos para él y dignos de su confianza
+> Y los que no lo son.  
+> A la primera clase pertenecen a las nityas, los muktas y los bhagavatās.  
+A esta última clase pertenecen a Brahma y a los otros dioses  
+que están sujetos al dominio del karma pasado.  
+El buscador después de Mukti no debería adorar a este último ";
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2161,14 +2286,108 @@ de modo que no se convierta en tierra en barbecho, llena de malezas.
 </details>
 
 
+<details><summary>सायण-टीका</summary>
 
-As stated in the following ślokas in Pauṣkara samhita, "It is not wrong for a wedded wife to honour her husband and to honour his servants, whether in his presence or in his absence."
+आप्त इत्यादि । विष्णुवुक्कु नित्यः आप्तः ऎऩ्ऱुम्, अनित्यः अनाप्तः ऎऩ्ऱुम् इरण्डु वगैयाऩ परिकर मुण्डु, अदिल् नित्यः आप्तः – सर्वदा आप्तराऩ नित्यरुम् मुक्तरुम्, भागवतादिगळुम्, वन्द्यः – सेव्यः, सर्वदा इवर्गळ् भागवतर्गळागैयाल् मुमुक्षुवुक्कु सेव्यर्गळ्। कर्मवश्यः – कर्मपरवशरायुम्, अत एव अनित्यः – कदाचिदाप्त्यंशत्तिल् अनित्यरायुमिरुक्किऱ, कदाचिदाप्तियैयिऴन्दु ऎदिरम्बु कोर्क्किऱवर्गळायुम्, अत एव अनाप्तरायुमिरुक्किऱ रुद्रादिगळ्, न वन्द्यः – भगवच्छेषत्व ज्ञानमिरुन्दालुम् अदु कादाचित्कमागैयाल् रुद्रादिगळ् परमैकान्तिकळुक्कु अवन्द्यर्गळॆऩ्बदु इन्द श्लोकार्थम्। 
+</details>
 
-and "Among the Lord's retinue are two classes: those that are dear to him and worthy of His trust and those who are not. To the former class belong the nityas, the muktas and the Bhagavatās.
 
-To the latter class belong Brahma and the other gods who are subject to the sway of past karma. The seeker after mukti should not adore the latter;" the devotee who is exclusively attached to the Lord and whose dharma resembles that of a chaste wife would therefore do well to act according to the will of his Lord. Since the relationship of śeṣa to Bhāgavatas arises from no other cause than the knowledge of our being śeṣa only to the Lord and to no other, this service to Bhāgavatas is not improper, (because it does not arise from other causes like the desire for wealth or power ).
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु श्रीपौष्करादिगळिऱ् सॊऩ्ऩ न्यायत्ताले  
+पति-व्रता-धर्मम् बोलेय् इरुक्किऱ परमैकान्तित्वत्तुक्कु  
+मिगवुम् उचितम् आऩ पति-चित्तानुवर्तनम् …
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति श्रीपौष्कराद्य्-उक्त-न्यायेन  
+पति-व्रता-धर्मवद् अवस्थित-परमेकान्तित्वात्यन्तोचितं पति-चित्तानुवर्तनम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+As stated in the above ~~following~~ ślokas in Pauṣkara samhita,  
+the devotee who is exclusively attached to the Lord  
+and whose dharma resembles that of a chaste wife  
+would therefore do well to act according to the will of his Lord.  
+</details>
+
+<details><summary>Español</summary>
+
+Como se indica en lo anterior ~~ siguiente ~~ Ślokas en Pauṣkara Samhita,  
+el devoto que está exclusivamente apegado al Señor  
+y cuyo dharma se parece al de una casta esposa  
+Por lo tanto, haría bien en actuar de acuerdo con la voluntad de su Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु श्रीपौष्करादिगळिऱ्सॊऩ्ऩ न्यायत्ताले पतिव्रताधर्मम्बोलेयिरुक्किऱ परमैकान्तित्वत्तुक्कु मिगवुमुसितमाऩ पतिचित्तानुवर्तनम्
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् हेत्व्-अन्तरत्ताल् अऩ्ऱिक्के  
+अनन्यार्ह-शेषत्व-ज्ञानम् अडिय् आग वरुगैयालेय्  
+इव्व्-अन्य-शेषत्वम् विरुद्धम् अऩ्ऱु।  +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतो हेत्व्-अन्तर-निबन्धनतां विना  
+अनन्यार्ह-शेषत्व-ज्ञान-निबन्धनतयोपनतत्वाद्  
+इदम् अन्य-शेषत्वं न विरुद्धम् । +++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+Since the relationship of śeṣa to Bhāgavatas arises from no other cause  
+than the knowledge of our being śeṣa only to the Lord and to no other,  
+this service to Bhāgavatas is not improper,  
+(because it does not arise from other causes like the desire for wealth or power ).
+</details>
+
+<details><summary>Español</summary>
+
+Dado que la relación de Śeṣa con Bhāgavatas surge de ninguna otra causa  
+que el conocimiento de nuestro ser Śeṣa solo para el Señor y para ningún otro,  
+Este servicio a Bhāgavatas no es incorrecto,  
+(Porque no surge de otras causas  
+como el deseo de riqueza o poder).
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् हेत्वन्तरत्तालऩ्ऱिक्के अनन्यार्हशेषत्वज्ञानमडियाग वरुगैयाले यिव्वन्यशेषत्वम् विरुद्धमऩ्ऱु। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+उपपादित्त विषयत्तै उपसंहरिक्किऱार् आगैयालिति । आगैयाल् - परमैकान्तित्वत्तिऱ्कु मिगवुमुचितमाऩ पतिचित्तानुवर्तनमागैयाल्,हेत्वन्तरत्तालऩ्ऱिक्के - कर्मत्ताले यऩ्ऱिक्के, इदऩाल् भागवतविषयत्तिलुम् कर्माद्युपाधिकमाग वरुम् शेषत्वम् पारमैकान्त्य विरुद्धमॆऩ्ऱु सूचितम्। अनन्यार्हशेषत्वज्ञानमडियाग वरुगैयाले यिव्वन्यशेषत्वम् विरुद्धमऩ्ऱु इति । इव्वन्यशेषत्वम् - भागवतर्गळागिऱ अन्यर्गळाले निरूपितशेषत्वम्, विरुद्धम् अऩ्ऱु - 
+"भर्तुर्भृत्यगणस्य च’’ ‘‘नित्यो वन्द्यः’’ ऎऩ्गिऱ प्रमाणप्पडि विरुद्धमागादॆऩ्ऱबडि।  
+इङ्गु इव्वन्यशेषत्वमॆऩ्गैयाल् भागवतेतरदेवतान्तरशेषत्वम् ‘‘न चानित्यः’’ ऎऩ्ऱु निषेधिक्कैयाल् अनन्यार्हशेषत्वज्ञानम् अडियाग वन्दालुम् पारमैकान्त्यविरुद्धमॆऩ्ऱु सूचितमागिऱदु।  
+</details>
+
+
+## स्वाभाविकत्वोपाधिकत्व-विमर्शः
+
+<details><summary>English</summary>
 
 BHAGAVATĀS ARE ŚEṢAS TO ONE ANOTHER:
+</details>
+
+<details><summary>Español</summary>
+
+BHAGAVATĀS SON ŚEṢAS A UNA OTRA:
+</details>
+
+
 
 If it is asked whether this relationship of being śeṣa to Bhagavatās is due to one's nature or whether it is adventitious (due to upādhi), the answer is, that it is both natural and adventitious. In as much as it lasts as long as the self lasts and will continue also in the state of mokṣa, it may be called natural.
 
