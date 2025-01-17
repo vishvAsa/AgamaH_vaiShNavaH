@@ -1888,27 +1888,31 @@ which cause a desire in us to serve them,
 I have become his servant by his qualities". 
 
 (That this relationship of being a śeṣa is due both to our essential nature and to (our admiration for) their wisdom and character)  
-is also indicated (respectively in the two phrases
+is also indicated (respectively) in the two phrases
 
 1) "bhaktas of the lord" and 
-2) to "men like me" (in the speech of Nārada  quoted above). 
+2) to "men like me"
+
+(in the speech of Nārada  quoted above). 
 </details>
 
 <details><summary>Español</summary>
 
-Our being śeṣas to Bhāgavatas arises from their being devotees to the Lord  
-and pertains to our essential nature.  
-It arises also from their qualities and knowledge,  
-which cause a desire in us to serve them,  
+Nuestro ser Śeṣas a Bhāgavatas surge de sus devotos al Señor  
+y pertenece a nuestra naturaleza esencial.  
+Surge también de sus cualidades y conocimientos,  
+que causan un deseo en nosotros de servirles,
 
-> (As Lakṣmaṇa says) "I am his younger brother (by birth);  
-I have become his servant by his qualities". 
+> (Como dice Lakṣmaṇa) "Soy su hermano menor (por nacimiento);  
+Me he convertido en su sirviente por sus cualidades ".
 
-(That this relationship of being a śeṣa is due both to our essential nature and to (our admiration for) their wisdom and character)  
-is also indicated (respectively in the two phrases
+(Que esta relación de ser un śeṣa se debe tanto a nuestra naturaleza esencial como a (nuestra admiración) por su sabiduría y carácter)  
+también está indicado (respectivamente) en las dos frases
 
-1) "bhaktas of the lord" and 
-2) to "men like me" (in the speech of Nārada  quoted above). 
+1) "Bhaktas del Señor" y  
+2) a "hombres como yo" 
+
+(en el discurso de Nārada citado anteriormente).
 </details>
 
 
@@ -1969,9 +1973,9 @@ is also indicated (respectively in the two phrases
 
 <details><summary>Español</summary>
 
-> "These who are the servants of Bhāgavatas  
-> and who utter the names of Bhagavān  
-> are entitled even to sell us". 
+> "Estos que son los sirvientes de Bhāgavatas  
+> y quién pronuncia los nombres de Bhagavān  
+> tienen derecho incluso a vendernos ".
 </details>
 
 
@@ -2009,7 +2013,7 @@ Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):
 
 <details><summary>Español</summary>
 
-Perialvar, the (great) commentator of Kalpa sūtras stated (in this connection):- 
+Perialvar, el (gran) comentarista de Kalpa Sūtras declaró (en este sentido):--
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2041,7 +2045,8 @@ This is the purport of the middle word in Tirumantra, namely, namo: na mama (not
 
 <details><summary>Español</summary>
 
-This is the purport of the middle word in Tirumantra, namely, namo: na mama (not for me). 
+Este es el significado de la palabra media en Tirumantra,  
+a saber, namo: na mamá (no para mí).
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2058,7 +2063,8 @@ This is the purport of the middle word in Tirumantra, namely, namo: na mama (not
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इव्व्-अर्थत्तै अनुसन्धित्ताल्  
-इच्-शेषत्वं स-द्वारकम् आगवुम्, अद्वारकम् आगवुम् **निऩ्ऱ निलैयिले**  
+इच्-शेषत्वं स-द्वारकम् आगवुम्, अद्वारकम् आगवुम् **निऩ्ऱ 
+निलैयिले**  
 शेष-वृत्तिय् आऩ कैङ्कर्यमुम् +++(स-द्वारकम् आगवुम्, अद्वारकम् आगवुम्)+++ **निऱ्कुम्।** 
 </details>
 
@@ -2073,14 +2079,16 @@ This is the purport of the middle word in Tirumantra, namely, namo: na mama (not
 
 If we reflect on this purport,  
 our being śeṣa to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him).  
-Accordingly, the service that should be rendered by the śeṣa is also (both ) mediate and direct. 
+Accordingly, the service that should be rendered by the śeṣa  
+is also (both ) mediate and direct. 
 </details>
 
 <details><summary>Español</summary>
 
-If we reflect on this purport,  
-our being śeṣa to the Lord is both mediate (through the Bhāgavatas) and immediate (direct to Him).  
-Accordingly, the service that should be rendered by the śeṣa is also (both ) mediate and direct. 
+Si reflexionamos sobre este significado,  
+Nuestro ser Śeṣa para el Señor es mediado (a través de las Bhāgavatas) e inmediato (directamente a él).  
+En consecuencia, el servicio que debe ser prestado por el śeṣa  
+también (ambos) mediado y directo.
 </details>
 
 
@@ -2089,10 +2097,72 @@ Accordingly, the service that should be rendered by the śeṣa is also (both ) 
 इव्वर्थत्तै अनुसन्धित्ताल् इच् शेषत्वम् सद्वारकमागवुमद्वारक मागवुम् निऩ्ऱ निलैयिले शेषवृत्तियाऩ कैङ्कर्यमुम् निऱ्कुम्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Therefore it is the farthest limit of the service of the prapanna to perform, as much as it lies in his power, service to the Bhāgavata, since it is part of the duty of one who is śeṣa to Bhagavān. So this outermost region of service to Bhāgavatas should be kept properly cultivated so that it may not become fallow land full of weeds.
+आगैयाल्, तऩ् शक्तिक्क् अनुरूपम् आग भगवत्-कैङ्कर्यत्तिऩ्-उडैय  
+साध्याकार-विवृद्धिय् आऩ पुरुषार्थत्तिल् ऎल्लै निलत्तैत्  
+तरिसु+++(=व्यर्थ-भू)+++ तूऱु+++(=वीरुधाः)+++ विडाद् ऒऴिय+++(=त्याज्यं)+++ प्राप्तम्।  
+</details>
 
-. As stated in the following ślokas in Pauṣkara samhita, "It is not wrong for a wedded wife to honour her husband and to honour his servants, whether in his presence or in his absence."
+<details><summary>English</summary>
+
+Therefore it is the farthest limit of the service of the prapanna to perform,  
+as much as it lies in his power, service to the Bhāgavata,  
+since it is part of the duty of one who is śeṣa to Bhagavān.  
+So this outermost region of service to Bhāgavatas  
+should be kept properly cultivated  
+so that it may not become fallow land full of weeds.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, es el límite más lejano del servicio de la Prapanna para realizar,  
+Por mucho que se encuentre en su poder, servicio al Bhāgavata,  
+ya que es parte del deber de alguien que es Śeṣa a Bhagavān.  
+Entonces esta región de servicio más externa a Bhāgavatas  
+debe mantenerse correctamente cultivado  
+de modo que no se convierta en tierra en barbecho, llena de malezas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् तऩ् शक्तिक्कनुरूपमाग भगवत्कैङ्कर्यत्तिऩुडैय साध्याकारविवृद्धियाऩ पुरुषार्थत्तिलॆल्लै निलत्तैत् तरिसु तूऱु विडादॊऴिय प्राप्तम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु 
+
+> ‘‘भर्तुर् भृत्य-गणस्य च’’(पौष्कर संहिता)  
+</details>
+
+<details><summary>मूलम्</summary>
+
+इदु ‘‘भर्तुर्भृत्यगणस्य च’’(पौष्कर संहिता)
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आप्तो विष्णोर् अनाप्तश् च  
+द्विधा परिकरस् स्मृतः ।  
+नित्यो वन्द्यो, न चानित्यः  
+कर्मवश्यो मुमुक्षुभिः॥   
+
+(पौष्कर-संहिता) 
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘आप्तो विष्णोरनाप्तश्च द्विधा परिकरस्स्मृतः ।  
+नित्यो वन्द्यो न चानित्यः कर्मवश्यो मुमुक्षुभिः’’   
+(पौष्कर संहिता) 
+</details>
+
+
+
+As stated in the following ślokas in Pauṣkara samhita, "It is not wrong for a wedded wife to honour her husband and to honour his servants, whether in his presence or in his absence."
 
 and "Among the Lord's retinue are two classes: those that are dear to him and worthy of His trust and those who are not. To the former class belong the nityas, the muktas and the Bhagavatās.
 
