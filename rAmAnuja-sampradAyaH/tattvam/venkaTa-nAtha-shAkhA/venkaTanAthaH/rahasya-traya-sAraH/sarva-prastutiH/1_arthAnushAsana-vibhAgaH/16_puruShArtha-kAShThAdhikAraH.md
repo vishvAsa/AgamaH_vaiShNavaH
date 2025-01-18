@@ -1997,12 +1997,12 @@ también está indicado (respectivamente) en las dos frases
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्ऱु +++(तादृश-विषय-तज्-ज्ञः)+++ कल्प-सूत्र-व्याख्याताक्कळ् आऩ पॆरिय्-आऴ्वार् अरुळिच् चॆय्दार्। 
+ऎऩ्ऱु +++(तादृश-विषय-तज्-ज्ञः, आपस्तम्ब-श्रौत-)+++ कल्प-सूत्र-व्याख्याताक्कळ् आऩ पॆरिय्-आऴ्वार् अरुळिच् चॆय्दार्। 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-इति कल्प-सूत्र-व्याख्यातारो महा-दिव्य-सूरयः [ श्रीविष्णुचिताः] अनुजगृहुः । 
+इति +++(तादृश-विषय-तज्-ज्ञः, आपस्तम्ब-श्रौत-)+++कल्प-सूत्र-व्याख्यातारो महा-दिव्य-सूरयः [ श्रीविष्णुचिताः] अनुजगृहुः । 
 </details>
 
 
@@ -2387,11 +2387,107 @@ BHAGAVATĀS ARE ŚEṢAS TO ONE ANOTHER:
 BHAGAVATĀS SON ŚEṢAS A UNA OTRA:
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इब् भागवत-शेषत्वम् स्वाभाविकमो औपाधिकमोव् ऎऩ्ऩिल्;  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं भागवत-शेषत्वं स्वाभाविकम् औपाधिकं वेति चेत्- 
+</details>
+
+<details><summary>English</summary>
+
+If it is asked whether this relationship of being śeṣa to Bhagavatās is due to one's nature or whether it is adventitious (due to upādhi),  
+the answer is, that it is both natural and adventitious. 
+</details>
+
+<details><summary>Español</summary>
+
+Si se pregunta si esta relación de ser Śeṣa a Bhagavatās  
+se debe a la naturaleza de uno o si es adventicio (debido a upādhi),  
+la respuesta es que es natural y adventicio.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इब् भागवतशेषत्वम् स्वाभाविकमो औपाधिकमोवॆऩ्ऩिल्;  
+</details>
 
 
-If it is asked whether this relationship of being śeṣa to Bhagavatās is due to one's nature or whether it is adventitious (due to upādhi), the answer is, that it is both natural and adventitious. In as much as it lasts as long as the self lasts and will continue also in the state of mokṣa, it may be called natural.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-Does not Koorattalvan say) :-"When shall I join the eternal suris who are always eager to be śeṣas to one another " (This relationship of a śeṣa will continue even after release from bondage). It may be said to be adventitious also (due to upādhi or conditions), as it arises from a knowledge of one's relationship to Bhagavān.
+कर्माद्युपाधिकळ् अऱ
+
+> ‘‘नित्याभिवाञ्छित-परस्-पर-नीच-भावैः’’  
+(वैकुण्ठ-स्तवः ७७)
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१३२]] 
+
+कर्माद्य्-उपाधिषु निवृत्तेषु  
+
+> ‘‘नित्याभिवाञ्छित-परस्-पर-नीच-भावैः’’  
+(वैकुण्ठ-स्तवः ७७)
+</details>
+
+<details><summary>English</summary>
+
+(Does not Koorattalvan say) :-  
+
+> "When shall I join the eternal suris  
+> who are always eager to be śeṣas to one another "  
+
+(This relationship of a śeṣa will continue  
+even after release from bondage). 
+</details>
+
+<details><summary>Español</summary>
+
+(No dice Koorattalvan):-
+
+> "¿Cuándo me uniré al Eternal Suris?  
+> que siempre están ansiosos por ser Śeṣas el uno al otro "
+
+(Esta relación de un Śeṣa continuará  
+incluso después de la liberación de la esclavitud).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कर्माद्युपाधिकळऱ ‘‘नित्याभिवाञ्छितपरस्परनीचभावैः’’(वैकुण्ठ-स्तवः ७७)
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्गिऱ बडिये  
+यावद्-आत्म-भाविय् आय्क् कॊण्डु मुक्त-दशैयिलुम् अनुवर्तिप्पद् ऒऩ्ऱागैयाले  
+स्वाभाविकम् ऎऩ्ऩवुम् आम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-उक्त-रीत्या यावद्-आत्म-भावितया मुक्त-दशायाम् अप्य् अनुवर्तमानत्वात्  
+स्वाभाविकम् इति सुवचम् । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये यावदात्मभावियाय्क् कॊण्डु मुक्तदशैयिलुम् अनुवर्तिप्पदॊऩ्ऱागैयाले स्वाभाविकमॆऩ्ऩवुमाम्,
+</details>
+
+
+
+In as much as it lasts as long as the self lasts and will continue also in the state of mokṣa, it may be called natural.
+
+
+
+It may be said to be adventitious also (due to upādhi or conditions), as it arises from a knowledge of one's relationship to Bhagavān.
 
 If so, it may be asked, "If both are Bhāgavatas, would it not be inconsistent that they should be both śeṣa and śeshī to each other?" The answer is as follows:- There is nothing inconsistent in this, as it is possible for the same person to render help to another and also to receive help from him. (In the performance of a sacrifice), the sacrificer who performs it for the sake of some gain or benefit (phala) is the śeṣī but when he is considered as the doer of the sacrifice, he is śeṣa in relation to the sacrifice.
 
