@@ -2322,7 +2322,7 @@ Aunque todos tienen amabilidad (o ānukulyam) en común.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“हरे विहरसि क्रीडा-कन्दुकैर् इव जन्तुभिः”(वि-त.)
+“हरे विहरसि क्रीडा-कन्दुकैर् इव जन्तुभिः”(विष्णु-धर्मः)
 </details>
 
 <details><summary>English</summary>
@@ -2340,7 +2340,7 @@ como si fueran bolas para el deporte".
 
 <details><summary>मूलम्</summary>
 
-“हरे विहरसि क्रीडा-कन्दुकैरिव जन्तुभिः”(वि-त.)
+“हरे विहरसि क्रीडा-कन्दुकैरिव जन्तुभिः”(विष्णु-धर्मः)
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
