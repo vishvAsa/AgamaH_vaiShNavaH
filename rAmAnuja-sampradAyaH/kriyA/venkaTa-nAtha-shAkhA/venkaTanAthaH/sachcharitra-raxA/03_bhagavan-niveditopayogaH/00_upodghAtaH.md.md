@@ -1,5 +1,5 @@
 +++
-title = "42 उपोद्घातः"
+title = "०० उपोद्घातः"
 
 +++
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
