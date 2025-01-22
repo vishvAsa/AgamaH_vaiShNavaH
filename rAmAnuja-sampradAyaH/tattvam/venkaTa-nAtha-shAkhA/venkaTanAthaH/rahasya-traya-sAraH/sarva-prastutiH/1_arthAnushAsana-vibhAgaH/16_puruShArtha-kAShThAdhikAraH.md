@@ -2475,19 +2475,11 @@ incluso después de la liberación de la esclavitud).
 कर्माद्युपाधिकळऱ ‘‘नित्याभिवाञ्छितपरस्परनीचभावैः’’(वैकुण्ठ-स्तवः ७७)
 </details>
 
-<details><summary>विश्वास-टिप्पनी</summary>
-
-भागवतेष्व् एवं परस्-पर-शेषत्वं सिध्यति।  
-किञ्च ततो जायमाने परस्-पर-कैङ्कर्ये शास्त्रतो व्यवस्था वर्तते -  
-शेषिणः शिष्यस्य शेषत्वम् आचार्यः शिक्षणेन प्रणयति,  
-शेषिणो गुरोश् शिष्यः प्रणत्यादिभिः। 
-</details>
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्गिऱ बडिये  
-यावद्-आत्म-भाविय् आय्क् कॊण्डु मुक्त-दशैयिलुम् अनुवर्तिप्पद् ऒऩ्ऱागैयाले  
+यावद्-आत्म-भाविय् आय्क् कॊण्डु मुक्त-दशैयिलुम् अनुवर्तिप्पद् ऒऩ्ऱ् आगैयाले  
 स्वाभाविकम् ऎऩ्ऩवुम् आम्,
 </details>
 
@@ -2497,25 +2489,312 @@ incluso después de la liberación de la esclavitud).
 स्वाभाविकम् इति सुवचम् । 
 </details>
 
+<details><summary>English</summary>
+
+In as much as it lasts as long as the self lasts  
+and will continue also in the state of mokṣa,  
+it may be called natural.
+</details>
+
+<details><summary>Español</summary>
+
+En la medida en que dure mientras dure el yo  
+y continuará también en el estado de Mokṣa,  
+puede llamarse natural.
+</details>
 
 <details><summary>मूलम्</summary>
 
 ऎऩ्गिऱबडिये यावदात्मभावियाय्क् कॊण्डु मुक्तदशैयिलुम् अनुवर्तिप्पदॊऩ्ऱागैयाले स्वाभाविकमॆऩ्ऩवुमाम्,
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-सम्बन्ध-ज्ञान-विशेष-निबन्धनम् आगैयाले  
+औपाधिकम् ऎऩ्ऩवुमाम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भगवत्-सबन्ध-ज्ञान-विशेष-निबन्धनत्वाद्  
+औपाधिकम् इत्य् अपि सुवचम् । 
+</details>
+
+<details><summary>English</summary>
+
+It may be said to be adventitious also (due to upādhi or conditions),  
+as it arises from a knowledge of one's relationship to Bhagavān.
+</details>
+
+<details><summary>Español</summary>
+
+Se puede decir que es adventicio también (debido a upādhi o condiciones),
+como surge del conocimiento de la relación de uno con Bhagavān.
+</details>
 
 
-In as much as it lasts as long as the self lasts and will continue also in the state of mokṣa, it may be called natural.
+<details><summary>मूलम्</summary>
+
+भगवत्सम्बन्धज्ञानविशेष निबन्धनमागैयाले औपाधिकमॆऩ्ऩवुमाम्। 
+</details>
 
 
 
-It may be said to be adventitious also (due to upādhi or conditions), as it arises from a knowledge of one's relationship to Bhagavān.
 
-If so, it may be asked, "If both are Bhāgavatas, would it not be inconsistent that they should be both śeṣa and śeshī to each other?" The answer is as follows:- There is nothing inconsistent in this, as it is possible for the same person to render help to another and also to receive help from him. (In the performance of a sacrifice), the sacrificer who performs it for the sake of some gain or benefit (phala) is the śeṣī but when he is considered as the doer of the sacrifice, he is śeṣa in relation to the sacrifice.
 
-So also when each of the two Bhāgavatas is bent on promoting the glory (atisaya) of the other, without either of them expecting that glory, they become śeṣas by their being the cause of the promotion of the glory of the other; they are also śeṣī s inasmuch as they are the recipients of the glory (atisaya), though they themselves may not desire it. Since they have been directed by Iśvara's will to promote each other's glory, the relationship of being śeṣa to Bhāgavatas is, in the case of both, based on śāstraic authority.
 
-The relationship of being a servant (dása) to Bhagavān and Bhāgavatas owing to an appreciation of their qualities or character adds to one's delight or enjoyment and promotes one's own exaltation. In this, Iśvara, by His omnipotence and His will which accompanies it, enables all Bhāgavatas to become śeṣī s. Taking their desire also along with His own will, Iśvara makes them śeṣas to Bhāgavatas. Since both the Bhāgavatas stand in the relation of śeṣī s to each other as having been fit to be directed by the Master to do His will, both of them attain their true and essential nature (svarūpa). They attain the ultimate limit of their puruṣārtha or goal of life, since they attain the relationship of being śeṣas, which they are eager to have and also the privilege of rendering service to the Bhāgavata which follows from it. Since Iśvara delights in having directed them to become śeṣas and śeshīs to each other, Iśvara attains the state of being an Iśvara or ruler and of being an enjoyer. Since they realise clearly that this relationship of being śeṣas and śeṣīs to each other contributes to the enjoyment (bhoga) of Iśvara, they attain the faultless and ultimate limit of puruṣārtha By those who have done what should be done (prapannas), who understand this subtle truth and are convinced of it, the grace of devotees who are exclusively and supremely attached to the Lord will be desired as an end in itself - devotees who are free from the following stains : the desire for transgressing the Lord's commands, excess of doubt, connection with other deities, enjoyment depending on one's own effort and enjoyment for one's own self.
+## परस्-पर-शेषि-भावे विरोधपरिहारः
+<details><summary>विश्वास-टिप्पनी</summary>
+
+भागवतेष्व् एवं परस्-पर-शेषत्वं सिध्यति।  
+किञ्च ततो जायमाने परस्-पर-कैङ्कर्ये शास्त्रतो व्यवस्था वर्तते -  
+शेषिणः शिष्यस्य शेषत्वम् आचार्यः शिक्षणेन प्रणयति,  
+शेषिणो गुरोश् शिष्यः प्रणत्यादिभिः। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-पडिय् आगिल्  
+इरुवरुक्कुम् भागवतत्वम् उण्डाऩाल्  
+ऒरुवरैप् पऱ्ऱव् ऒरुवर्क्कु  
+शेषत्वमुम् शेषित्वमुम् वरुगै **विरुद्धम् अऩ्ऱोव्** 
+
+ऎऩ्ऩिल्; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> एवं सति द्वयोरपि भागवतत्वस्य सत्त्वाद्  
+एकं प्रति परस्य शेषत्व-शेषित्वयोर् उपनिपातः  
+किं न विरुद्ध 
+
+इति चेत् —  
+</details>
+
+
+<details><summary>English</summary>
+
+If so, it may be asked,  
+
+> "If both are Bhāgavatas,  
+> would it not be inconsistent  
+> that they should be both śeṣa and śeshī to each other?" 
+</details>
+
+<details><summary>Español</summary>
+
+Si es así, se puede preguntar,
+
+> "Si ambos son bhāgavatas,  
+> ¿No sería inconsistente  
+> Que deberían ser Śeṣa y śeshī el uno al otro? "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडियागिल् इरुवरुक्कुम् भागवतत्वमुण्डाऩालॊरुवरैप्पऱ्ऱवॊरुवर्क्कु शेषत्वमुम् शेषित्वमुम् वरुगै विरुद्धमऩ्ऱोवॆऩ्ऩिल्; 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परस्-परोपकार्योपकारक-भावादिगळिऱ् पोलेय्  
+इङ्गुम् **विरोधम् इल्लै।** +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परस्परोपकार्योपकारक-भावादिष्व् इवात्रापि **न विरोधः** ।  
+</details>
+
+
+<details><summary>English</summary>
+
+The answer is as follows:-  
+There is nothing inconsistent in this,  
+as it is possible for the same person to render help to another  
+and also to receive help from him. 
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta es la siguiente:-  
+No hay nada inconsistente en esto,  
+ya que es posible que la misma persona brinde ayuda a otra  
+y también para recibir ayuda de él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+परस्परोपकार्योपकारकभावादिगळिऱ्पोलेयिङ्गुम् विरोधमिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अधिकार्य्-अवस्थैयिले क्रियैक्कु **शेषिय् आऩवऩ्**  
+ताऩे कर्तृत्वावस्थैयिलेय् इदुक्कु **शेषम् आय् निल्ला निऩ्ऱाऩ्**। +++(4)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अधिकार्य्-अवस्थायां क्रियायाः स्वयं **शेषि-भूत** एव पुरुषः  
+कर्त्र्-अवस्थायां क्रियायाः **शेष-भूतो** ऽवतिष्ठते ।  
+</details>
+
+
+<details><summary>English</summary>
+
+(In the performance of a sacrifice),  
+the sacrificer who performs it for the sake of some gain or benefit (phala) is the śeṣī  
+but when he is considered as the doer of the sacrifice,  
+he is śeṣa in relation to the sacrifice.
+
+</details>
+
+<details><summary>Español</summary>
+
+(En el rendimiento de un sacrificio),  
+El sacrificador que lo realiza por alguna ganancia o beneficio (Phala) es el Śeṣī  
+pero cuando se lo considera el hacedor del sacrificio,  
+Él es Śeṣa en relación con el sacrificio.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अधिकार्यवस्थैयिले क्रियैक्कु शेषियाऩवऩ् ताऩे कर्तृत्वावस्थैयिलेयिदुक्कु शेषमाय् निल्ला निऩ्ऱाऩ्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्-पडिये अन्योऽन्यम् पण्णुम् अतिशयङ्गळै **उपजीवियादेय्**+++(5)+++   
+ऒरुत्तरुक्क् ऒरुत्तर् **अतिशयाधानम् पण्णिऩाल्**  
+**अतिशयाधायकत्व**-वेषत्ताले  
+इवरुक्कुम् शेषत्वम् **उण्डाय्**,  
+शेषित्वम् उण्ड् **आगाक् कुऱैयिल्लै।**
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवम् अन्योऽन्य-**कृतातिशय+अनुपजीवनेन**  
+परस्-परम् **अतिशयाधायकत्वे**,  
+अतिशयाधायकत्व-वेषेण द्वयोर् अपि **शेषत्व-संभवस्य**  
+अतिशयाश्रयत्व-वेषेण द्वयोर् अपि **शेषित्व-संभवस्य च न क्षतिः** । 
+</details>
+
+<details><summary>English</summary>
+
+So also when each of the two Bhāgavatas  
+is bent on promoting the glory (atisaya) of the other,  
+without either of them expecting that glory,  
+they become śeṣas by their being the cause of the promotion of the glory of the other;  
+they are also śeṣīs inasmuch as they are the recipients of the glory (atisaya),  
+though they themselves may not desire it.  
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, también cuando cada una de las dos bhāgavatas  
+se empeñe en promover la gloria (atisaya) del otro,
+sin ninguno de ellos esperando esa gloria,  
+Se convierten en Śeṣas por ser la causa de la promoción de la gloria del otro;  
+También son Śeṣīs en la medida en que son los destinatarios de la gloria (atisaya),  
+aunque ellos mismos no lo deseen.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये अन्योन्यम् पण्णुम् अतिशयङ्गळै उपजीवियादे यॊरुत्तरुक्कॊरुत्तरतिशयाधानम् पण्णिऩाल् अतिशयाधायकत्ववेषत्ताले इवरुक्कुम् शेषत्वमुण्डाय्, शेषित्वमुण्डागाक्कुऱैयिल्लै।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि ईश्वरेच्छैयालेय्  
+इरुवरुम् परस्-परम् **अतिशयाधायकर् आग विनियुक्तर्** आगैयालेय्  
+इरुवरुक्कुम् भागवत-शेषत्व-सम्बन्धम् **प्रामाणिकम्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थम् ईश्वरेच्छया  
+द्वयोर् अपि परस्-परम् **अतिशयाधायकत्वेन विनियुक्तत्वाद्**  
+उभयोर् अपि भागवत-शेषत्व-संबन्धः **प्रामाणिकः** ।  
+</details>
+
+
+<details><summary>English</summary>
+
+Since they have been directed by Iśvara's will to promote each other's glory,  
+the relationship of being śeṣa to Bhāgavatas is, in the case of both, based on śāstraic authority.
+</details>
+
+<details><summary>Español</summary>
+
+Ya que han sido dirigidos por la voluntad de Iśvara de promover la gloria del otro,  
+La relación de ser Śeṣa con Bhāgavatas es, en el caso de ambos, basada en la autoridad Śāstraica.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ईश्वरेच्छैयाले यिरुवरुम् परस्परमतिशयाधायकराग विनियुक्तरागैयालेयिरुवरुक्कुम्भागवतशेषत्वसम्बन्धम् प्रामाणिकम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+गुण-वशी-कृतऩ् आऩ तऩ् **निऩैवाले**  
+भगवद्-विषयत्तिलुम् भागवत-विषयत्तिलुम् वरुम् **दासत्वम्**  
+**भोग-वर्धकम्** आय्क् कॊण्डु  
+तऩ्ऩ्-**एऱ्ऱम् आय् इरुक्कुम्**।  
++++(इति शेषत्वम् एव शेषित्वम्! 5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+गुण-वशी-कृतस्य स्वस्य बुद्ध्या  
+भगवद्-विषये भागवत-विषये च **जायमानं दासत्वं**  
+**भोग-वर्धकं सद् उत्कृष्टं** भवति । +++(5)+++
++++(इति शेषत्वम् एव शेषित्वम्! 5)+++
+</details>
+
+
+
+<details><summary>English</summary>
+
+The relationship of being a servant (dása) to Bhagavān and Bhāgavatas  
+owing to an appreciation of their qualities or character  
+adds to one's delight or enjoyment  
+and promotes one's own exaltation.  
+</details>
+
+<details><summary>Español</summary>
+
+La relación de ser un sirviente (Dása) con Bhagavān y Bhāgavatas  
+debido a una apreciación de sus cualidades o carácter  
+se suma a la delicia o disfrute  
+y promueve la propia exaltación.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुणवशीकृतऩाऩ तऩ् निऩैवाले भगवद्विषयत्तिलुम् भागवतविषयत्तिलुम् वरुम् दासत्वम् भोगवर्द्धकमाय्क्कॊण्डु तऩ्ऩेऱ्ऱमायिरुक्कुम्। 
+</details>
+
+
+## कारण-वैलक्षण्यम्
+
+
+In this, Iśvara, by His omnipotence and His will which accompanies it,  
+enables all Bhāgavatas to become śeṣī s.  
+Taking their desire also along with His own will,  
+Iśvara makes them śeṣas to Bhāgavatas.  
+
+Since both the Bhāgavatas stand in the relation of śeṣī s to each other as having been fit to be directed by the Master to do His will, both of them attain their true and essential nature (svarūpa). They attain the ultimate limit of their puruṣārtha or goal of life, since they attain the relationship of being śeṣas, which they are eager to have and also the privilege of rendering service to the Bhāgavata which follows from it. Since Iśvara delights in having directed them to become śeṣas and śeshīs to each other, Iśvara attains the state of being an Iśvara or ruler and of being an enjoyer. Since they realise clearly that this relationship of being śeṣas and śeṣīs to each other contributes to the enjoyment (bhoga) of Iśvara, they attain the faultless and ultimate limit of puruṣārtha By those who have done what should be done (prapannas), who understand this subtle truth and are convinced of it, the grace of devotees who are exclusively and supremely attached to the Lord will be desired as an end in itself - devotees who are free from the following stains : the desire for transgressing the Lord's commands, excess of doubt, connection with other deities, enjoyment depending on one's own effort and enjoyment for one's own self.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
