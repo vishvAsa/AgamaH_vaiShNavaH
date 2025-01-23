@@ -58,6 +58,10 @@ title = "+हेयोपादेयदर्पणः"
 
 <details><summary>ग्रन्थकाङ्क्षा</summary>
 
-(रङ्गरामानुजकृत आह्निकार्थदर्पणः क्वचिल् लभ्यते?? असकृत् तस्य हेयोपादेयदर्पणय् उल्लेखः, आह्निकार्थप्रकाशिकायां चापि तदीयं विवरणं किञ्चिद् वर्तत इति प्रतिभाति। )
+In the Meitei Hindu ceremony 'laiming louba', both boys and girls are initiated usually into the Harināma-mahāmantra.
+
+Read more here: https://e-pao.net/epSubPageExtractor.asp?src=manipur.Arts_and_Culture.Meitei_Ceremony.Lugun_Thangba
+
+Here you can see the said ceremony being performed for a girl. https://youtube.com/watch?v=rwv_xY7tNYo
 </details>
 
