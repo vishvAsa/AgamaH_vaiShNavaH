@@ -2786,7 +2786,7 @@ y promueve la propia exaltación.
 </details>
 
 
-## कारण-वैलक्षण्यम्
+## शेष-शेषि-भावयोः कारण-वैलक्षण्यम्
 
 
 In this, Iśvara, by His omnipotence and His will which accompanies it,  
