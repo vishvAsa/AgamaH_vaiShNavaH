@@ -2428,6 +2428,12 @@ la respuesta es que es natural y adventicio.
 इब् भागवतशेषत्वम् स्वाभाविकमो औपाधिकमोवॆऩ्ऩिल्;  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इन्द भागवतशेषत्वम् स्वाभाविकमा? औपाधिकमा? ऎऩ्ऱु शङ्कित्तु उभयथापि निर्वहिक्किऱार् इप्भागवतशेषत्वमित्यादिना । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2475,6 +2481,11 @@ incluso después de la liberación de la esclavitud).
 कर्माद्युपाधिकळऱ ‘‘नित्याभिवाञ्छितपरस्परनीचभावैः’’(वैकुण्ठ-स्तवः ७७)
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+नित्याभिवाञ्छितपरस्परनीचभावैः – नित्यं – यावदात्मसत्वं, अभिवाञ्छितः – अभिलषितः, परस्परनीचभावः – अन्योन्यं प्रति नैच्यं शेषत्वमिति यावत्; येषां तैः, 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2508,6 +2519,12 @@ puede llamarse natural.
 ऎऩ्गिऱबडिये यावदात्मभावियाय्क् कॊण्डु मुक्तदशैयिलुम् अनुवर्तिप्पदॊऩ्ऱागैयाले स्वाभाविकमॆऩ्ऩवुमाम्,
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+यावदात्मभावियाय्क् कॊण्डु - आत्मभवनं यावत् तावत्पर्यन्तभावियायॆऩ्ऱबडि। इदऩाल् आत्माधिकरणकालत्व व्यापकाधिकरणताकत्वरूपं स्वाभाविकत्वं सूचितम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवत्-सम्बन्ध-ज्ञान-विशेष-निबन्धनम् आगैयाले  
@@ -2539,6 +2556,10 @@ como surge del conocimiento de la relación de uno con Bhagavān.
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+भगवत्सम्बन्धज्ञानविशेषनिबन्धनमागैयाले औपाधिकमॆऩ्ऩवुमामिति । भगवता सह भागवतानां यस्सम्बन्धः शेषत्वादिः, तत् ज्ञानविशेषः – भागवतर्गळॆल्लाम् अस्मत्स्वामियाऩ भगवाऩुक्कु सम्बन्धिकळॆऩ्गिऱ ज्ञानविशेषम्। तन्निबन्धनमागैयाले - तत्कारणकमागैयाले, भागवतर्गळॆल्लाम् भगवाऩुक्कु शेषभूतर्गळॆऩ्ऱु सम्बन्धज्ञानमुण्डाऩ पिऱगु, अन्द ज्ञानत्ताले अवर्गळुक्कु नाम् अतिशयाधानम् पण्णवेण्डुमॆऩ्गिऱ इच्छैयाले भागवतातिशयाधायकत्वम् वरुगैयाले यॆऩ्ऱबडि। औपाधिकमॆऩ्ऩवुमाम् - भगवत्सम्बन्धज्ञानविशेषरूपोपाधि प्रयुक्तत्वादौपाधिकमॆऩ्ऱु सॊल्ललामॆऩ्ऱबडि। 
+</details>
 
 
 
@@ -2596,6 +2617,18 @@ Si es así, se puede preguntar,
 इप्पडियागिल् इरुवरुक्कुम् भागवतत्वमुण्डाऩालॊरुवरैप्पऱ्ऱवॊरुवर्क्कु शेषत्वमुम् शेषित्वमुम् वरुगै विरुद्धमऩ्ऱोवॆऩ्ऩिल्; 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि उभयविधमागवुम् भागवतशेषत्व मुण्डॆऩ्ऱाल् ऒरु भागवतरैक्कुऱित्ते मऱ्ऱॊरु भागवतरुक्कु शेषत्वमुम् शेषित्व मुम् एककालत्तिल् वरवेण्डिवरुमे? अप्पडि वरुगै विरुद्धमऩ्ऱो वॆऩ्ऱु शङ्कित्तु समाधानमरुळिच्चॆय्गिऱार् इप्पडियागिलित्यादिना । भागवतशेषत्वत्तै स्वाभाविक मागवुम् औपाधिकमागवुमॊप्पुक्कॊण्डालॆऩ्ऱबडि। 
+
+<details><summary>सायण-टीका</summary>
+
+इरण्डु भागवतर्गळै यॆडुत्तु सङ्गिक्किऱार् इरुवरुक्कुम् भागवतत्वमुण्डाऩालिदि ऒरुवरैप्पऱ्ऱवॊरुवर्क्कु शेषत्वमुम् शेषित्वमुम् वरुगै विरुद्धमऩ्ऱो इति । मैत्रऩॆऩ्गिऱ ऒरुवऩुक्कु यज्ञदत्तऩैक्कुऱित्तु पुत्रत्वमुम्, देवदत्तऩैक्कुऱित्तु पितृत्वमुम् वरलाम्। अवऩुक्के यज्ञदत्तऩैक्कुऱित्ते पितृत्वमुम् पुत्रत्वमुम् वरुगै ऎप्पडि विरुद्धमो अप्पडिये ऒरुवऩैक्कुऱित्ते शेषत्वमुम् शेषित्वमुम् विरुद्धमऩ्ऱो ऎऩ्ऱु शङ्काभिप्रायम्। 
+</details>
+</details>
+
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परस्-परोपकार्योपकारक-भावादिगळिऱ् पोलेय्  
@@ -2629,6 +2662,13 @@ y también para recibir ayuda de él.
 
 परस्परोपकार्योपकारकभावादिगळिऱ्पोलेयिङ्गुम् विरोधमिल्लै। 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+दृष्टान्तान्तरत्तैच् चॊल्लि परिहरिक्किऱार् परस्परोपकार्योपकारकभावादिगळैप् पोले इङ्गुम् विरोधमिल्लै इति । लोकत्तिलॊरुवऩुक्कु ऒरुवऩ् अर्थादिगळालुपकरित्ताल् अवऩुक्के उपकृतऩाऩ मऱ्ऱॊरुवऩ् क्षेत्रदानादिगळालो मऱ्ऱ वेऱु प्रकारत्तालो उपकरिक्कक् काण्गिऱोम्। अव्विडत्तिल् ऒरुवऩैक् कुऱित्ते ऒरुवऩुक्कु उपकार्यत्वमुम् उपकारकत्वमुम् सर्वसम्मतम्। आऩाल् उपकारप्रकारभेदम् उण्डु। अदुबोले इङ्गुम् परस्परातिशयाधायकत्वातिशयभाक्त्वङ्गळिरुन्दालुम् अतिशयाधानप्रकारभेदमिरुप्पदाल् विरोधमिल्लै यॆऩ्ऱु करुत्तु। 
+</details>
+
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2666,6 +2706,13 @@ pero cuando se lo considera el hacedor del sacrificio,
 
 अधिकार्यवस्थैयिले क्रियैक्कु शेषियाऩवऩ् ताऩे कर्तृत्वावस्थैयिलेयिदुक्कु शेषमाय् निल्ला निऩ्ऱाऩ्।  
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+इदिल् पूर्वमीमांसैयिऩ् सम्मतियैक्काट्टुगिऱार् अधिकार्यवस्थैयिले इत्यादिना । ‘‘स्वर्गकामो यजेत’’ ऎऩ्गिऱ विधिवाक्यपर्यालोचनैयिल् स्वर्गकामनावाऩाऩ अधिकारीविहितमाऩ यागत्तिऱ्कु शेषियायिरुक्किऱाऩ्। अवऩ्दाऩे यज्ञानुष्ठानकालत्तिल् यज्ञत्तिऱ्कु शेषमायिरुक्किऱाऩॆऩ्ऱबडि। 
+</details>
+
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2711,6 +2758,17 @@ aunque ellos mismos no lo deseen.
 अप्पडिये अन्योन्यम् पण्णुम् अतिशयङ्गळै उपजीवियादे यॊरुत्तरुक्कॊरुत्तरतिशयाधानम् पण्णिऩाल् अतिशयाधायकत्ववेषत्ताले इवरुक्कुम् शेषत्वमुण्डाय्, शेषित्वमुण्डागाक्कुऱैयिल्लै।
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इदै दार्ष्टान्तिकत्तिलुपपादिक्किऱार् अप्पडिये अन्योन्यम् पण्णुमित्यादिना, अप्पडिये ऎऩ्बदऱ्कु शेषित्वमुण्डागक्कुऱैयिल्लै यॆऩ्बदोडन्वयम्।  
+अतिशयङ्गळै उपजीवियादे इति ।  
+कृतत्तिऱ्कु प्रतिकृतम् आग अतिशयाधानम् पण्णिऩाल् विलै-गॊडुत्तदु पोल् आगुम् आदलाल्  
+अदु कूडादॆऩ्ऱु करुत्तु।  
+ऒरुत्तॊरुक्कॊरुत्तर् अतिशयाधानम् पण्णिऩालिति ।  
+इवरुक्कु नाऩ् अतिशयाधानम् पण्णक्कडवेऩ् ऎऩ्गिऱ परस्परेच्छैयिऩाले परस्परातिशयाधानम् पण्णिऩालॆऩ्ऱबडि। 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2743,6 +2801,13 @@ La relación de ser Śeṣa con Bhāgavatas es, en el caso de ambos, basada en l
 
 इप्पडि ईश्वरेच्छैयाले यिरुवरुम् परस्परमतिशयाधायकराग विनियुक्तरागैयालेयिरुवरुक्कुम्भागवतशेषत्वसम्बन्धम् प्रामाणिकम्। 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+शेषत्वलक्षणत्तिलिरुक्किऱ इच्छैयै मद्ध्यस्थेश्वरेच्छापरमाक्कि शेषत्वत्तै उपपादिक्किऱार् इप्पडि ईश्वरेच्छैयाले इति । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2786,15 +2851,303 @@ y promueve la propia exaltación.
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि भागवतर्गळुक्कु परस्परस्वरूपकृतदास्यम् ईश्वरेच्छैयाले वरुगैयालेप्रामाणिकमॆऩ्ऱु स्थापित्तु इऩि भगवद्विषयत्तिलुम् भागवतविषयत्तिलुम् वरुम् गुणकृतदास्यत्तिल् विशेषमरुळिच्चॆय्गिऱार् गुणवशीकृतऩाऩ इति । शेषिकळाऩ भगवद्भागवतर्गळुडैय गुणवशीकृतऩाऩ ऎऩ्ऱबडि। तऩ् निऩैवाले - तऩ्ऩिच्छैयाले तऩ् प्रीतियालेयॆऩ्ऱबडि। 
+
+भोगवर्धकमाय् - अतिशयितविलक्षणानन्दजनकमायॆऩ्ऱबडि। तऩ् ऩेऱ्ऱमायिरुक्कुम् - स्वस्वरूपत्तालेये उत्कृष्टमायिरुक्कुम्। 
+</details>
+
+
+
 ## शेष-शेषि-भावयोः कारण-वैलक्षण्यम्
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व्-इडत्तिल् ईश्वरऩ् स्वातन्त्र्य-सह-कृतैय् आऩ तऩ्ऩ्-इच्छैयाले  
+भागवतर्क्क् ऎल्लाम् शेषित्वत्तैय् **उण्डाक्कुम्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्रेश्वरः स्वातन्त्र्य-सह-कृतया स्वेच्छया  
+भागवतानां शेषित्वम् **उत्पादयति** । 
+</details>
+
+
+<details><summary>English</summary>
 
 In this, Iśvara, by His omnipotence and His will which accompanies it,  
-enables all Bhāgavatas to become śeṣī s.  
+enables all Bhāgavatas to become śeṣī-s.  
+</details>
+
+<details><summary>Español</summary>
+
+En esto, iśvara, por su omnipotencia y su voluntad que lo acompaña,  
+Permite que todos los bhāgavatas se conviertan en Śeṣī-s.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्व्-इडत्तिल् ईश्वरऩ् स्वातन्त्र्य सहकृतैयाऩ तऩ्ऩिच्छैयाले भागवतर्क्कॆल्लाम् शेषित्वत्तैयुण्डाक्कुम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इऩि सर्वभागवतगत माऩ परस्परशेषित्वत्तिऱ्कुम् शेषत्वत्तिऱ्कुम् हेतुवैक्काट्टुगिऱार् इव्विडत्तिलीश्वरऩित्यादिना । स्वातन्त्र्यसहकृतैयाऩ तऩ्ऩिच्छैयाले - इङ्गु तऩ्ऩिच्छैयालेये ऎऩ्ऱवधारणम् विवक्षितम्। अदऩाल् नाऩ् शेषियागवेणुमॆऩ्ऱु शेषियागिऱ वऩुडैय इच्छैव्यावृत्तिक्कप्पडुगिऱदु। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवर्गळ् इच्छैयैयुङ् कूट्टिक् कॊण्ड्  
+इवर्गळुक्कु भागवत-शेषत्वत्तै **उण्डाक्कुम्।** +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतद्-इच्छाम् अपि सहायत्वेनावलम्ब्य  
+एषां भागवत-शेषत्वं **चोत्पादयति**। 
+</details>
+
+
+<details><summary>English</summary>
+
 Taking their desire also along with His own will,  
 Iśvara makes them śeṣas to Bhāgavatas.  
+</details>
 
-Since both the Bhāgavatas stand in the relation of śeṣī s to each other as having been fit to be directed by the Master to do His will, both of them attain their true and essential nature (svarūpa). They attain the ultimate limit of their puruṣārtha or goal of life, since they attain the relationship of being śeṣas, which they are eager to have and also the privilege of rendering service to the Bhāgavata which follows from it. Since Iśvara delights in having directed them to become śeṣas and śeshīs to each other, Iśvara attains the state of being an Iśvara or ruler and of being an enjoyer. Since they realise clearly that this relationship of being śeṣas and śeṣīs to each other contributes to the enjoyment (bhoga) of Iśvara, they attain the faultless and ultimate limit of puruṣārtha By those who have done what should be done (prapannas), who understand this subtle truth and are convinced of it, the grace of devotees who are exclusively and supremely attached to the Lord will be desired as an end in itself - devotees who are free from the following stains : the desire for transgressing the Lord's commands, excess of doubt, connection with other deities, enjoyment depending on one's own effort and enjoyment for one's own self.
+<details><summary>Español</summary>
+
+Tomando su deseo también junto con su propia voluntad,  
+Iśvara los hace Śeṣas a Bhāgavatas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवर्गळिच्छैयैयुङ् गूट्टिक्कॊण्डिवर्गळुक्कु भागवतशेषत्वत्तै उण्डाक्कुम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इवर्गळिच्छैयैयुङ्गूट्टि इति । गुणकृतदास्यस्थलत्तिल् नाऩ् इवरुक्कु शेषऩागक्कडवेऩ् ऎऩ्गिऱ शेषभूतऩुडैय इच्छैयैयुङ् गूट्टिक्कॊण्डॆऩ्ऱबडि। तथा च शेषत्वमिरण्डुविदम्; भगवदिच्छामात्रकृतमॆऩ्ऱुम्, गुणवशीकृतऩाऩ शेषऩुडैयवुम्, भगवाऩुडैयवुमिच्छैकळाले कृतमॆऩ्ऱुम्। अदिल् भगवदिच्छामात्रकृतमाऩ स्वरूपगतशेषत्वम् सर्वभागवतनिष्ठम्। उभयेच्छाधीनमाऩ भागवतशेषत्वम् गुणवशीकृतऩाऩ भागवतमात्रनिष्ठम्। इव्विरण्डुम् प्रमाणसिद्धम्। 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि स्वामिक्क् इष्ट-**विनियोगार्हर् आय्क्** कॊण्डु  
+**शेषिकळ् आय् निऱ्कै**-दऩ्ऩालेय्  
+इरुवरुम् स्व-रूपम् **पॆऱ्ऱार्गळ्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं स्वामिन इष्ट-विनियोगार्ह-रूपेण **शेषित्वेनावस्थानाद्**  
+उभाव् अपि स्व-रूपं **लब्धवन्तौ** भवतः । 
+</details>
+
+<details><summary>English</summary>
+
+Since both the Bhāgavatas stand in the relation of śeṣī-s to each other  
+as having been fit to be directed by the Master to do His will,  
+both of them attain their true and essential nature (svarūpa).  
+</details>
+
+<details><summary>Español</summary>
+
+Dado que ambos Bhāgavatas están en la relación de Śeṣī-s entre sí  
+como en apto para ser dirigido por el maestro  
+para hacer su voluntad,  
+Ambos alcanzan su naturaleza verdadera y esencial (svarūpa).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि स्वामिक्किष्टविनियोगार्हराय्क्कॊण्डु शेषिकळाय् निऱ्कैदऩ्ऩाले यिरुवरुम् स्वरूपम् पॆऱ्ऱार्गळ्। 
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+इप्पडि भागवतर्गळ् ईश्वरेच्छाधीनमाऩ परस्परशेषत्वत्तै वहिप्पदु युक्तमाऩालुम्, परस्परशेषित्वत्तै वहिप्पदु युक्तमागुमोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् इप्पडि इत्यादिना । स्वामिक्किष्टविनियोगार्ह राय्क्कॊण्डु शेषिकळाय् निऱ्कै तऩ्ऩले इत्यादि । स्वामिक्कु - स्वतन्त्रऩाऩ शेषिक्कु, इष्टविनियोगार्हराय्क्कॊण्डु इति । ऒरुवऩ् अहङ्कारममकारङ्गळाले ताऩ् भागवतर्गळुक्कु शेषियॆऩ्ऱु निऩैत्तालुम्, शेषियाग निऩ्ऱालुम् अदु शेषत्वस्वरूपत्तिऱ्कु विरुद्धमाम्। स्वामियाऩ भगवाऩ् नी इतरभागवतर्गळुक्कु शेषियाग निऱ्कवेणुम् अवर्गळ् सॆय्युमतिशयत्तै यडैयवेण्डुम् इदु ऎऩक्कु इष्टमॆऩ्ऱु भागवतशेषियाग विनियोगित्ताल् अवऩुक्कु परतन्त्रऩाय्क्कॊण्डु भागवतशेषियाय् निऱ्कै शेषत्वस्वरूपविरुद्धमागादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+स्वाभीष्टम् आऩ भागवत-शेषत्वमुम्  
+अदिऩ् फलम् आऩ भागवत-कैङ्कर्यमुम् **सिद्धिक्कैयाल्**  
+इरुवरुम् पुरुषार्थ-काष्ठै **पॆऱ्ऱार्गळ्।** 
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१३३]]  
+स्वाभीष्टस्य भागवत-शेषत्वस्य  
+तत्-फलस्य भागवत-कैङ्कर्यस्य च **सिद्ध्या**  
+उभाव् अपि पुरुषार्थ-काष्ठां **लब्धवन्तौ** भवतः ।  
+</details>
+
+
+<details><summary>English</summary>
+
+They attain the ultimate limit of their puruṣārtha or goal of life,  
+since they attain the relationship of being śeṣas,  
+which they are eager to have  
+and also the privilege of rendering service to the Bhāgavata  
+which follows from it. 
+</details>
+
+<details><summary>Español</summary>
+
+Alcanzan el límite final de su puruṣārtha o objetivo de la vida,  
+ya que alcanzan la relación de ser Śeṣas,  
+que están ansiosos por tener  
+y también el privilegio de prestar servicio al Bhāgavata  
+que se le sigue de él.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+स्वाभीष्टमाऩ भागवतशेषत्वमुमदिऩ् फलमाऩ भागवतकैङ्कर्यमुम् सिद्धिक्कैयालिरुवरुम् पुरुषार्थकाष्ठै पॆऱ्ऱार्गळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरुवरैयुम् इप्पडि परस्-पर-शेष-शेषिकळ् आग **नियमित्तु रसिक्कैयाले**  
+ईश्वरऩ् तऩ्ऩ् ईश्वरत्वमुम् भोक्तृत्वमुम् **पॆऱ्ऱाऩ्।** +++(4)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उभाव् अपीत्थं परस्पर-शेष-शेषित्वेन **नियम्य रसानुभवाद्**  
+ईश्वरः स्वम् ईश्वरत्वं भोक्तृत्वं च **लब्धवान्** भवति ।  
+</details>
+
+
+<details><summary>English</summary>
+
+Since Iśvara delights in having directed them to become śeṣas and śeshīs to each other,  
+Iśvara attains the state of being an Iśvara or ruler  
+and of being an enjoyer. 
+</details>
+
+<details><summary>Español</summary>
+
+Ya que Iśvara se deleita en haberles dirigido a convertirse en Śeṣas y Śeshīs el uno al otro,  
+Iśvara alcanza el estado de ser un iśvara o regla  
+y de ser un disfrute.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इरुवरैयुमिप्पडि परस्परशेषशेषिकळाग नियमित्तु रसिक्कैयाले ईश्वरऩ् तऩ्ऩीश्वरत्वमुम् भोक्तृत्वमुम् पॆऱ्ऱाऩ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्-प्रकारत्ताले तङ्गळुक्कु वन्द शेषत्व-शेषित्वादिगळ् ऎल्लाम्  
+ईश्वरऩ्-उडैय भोक्तृत्वत्तुक्कु शेषम्  
+
+ऎऩ्ऱु तॆळिगैयाले  
+इरुवर्क्कुङ् कोद्+++(=आवरणम्)+++-अऱ्ऱ पुरुषार्थकाष्ठैय् उण्डागिऱदु। +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं स्वस्योपनतं शेषत्व-शेषित्वादि सर्वम्  
+ईश्वर-भोक्तृत्वस्य **शेष-भूतम्**  
+इति विशदम् **अवबोधात्**  
+द्वयोर् अपि निर्दोष-पुरुषार्थ-काष्ठा **सिद्धा** भवति । +++(5)+++
+</details>
+
+
+
+<details><summary>English</summary>
+
+Since they realise clearly that this relationship of being śeṣas and śeṣīs to each other  
+contributes to the enjoyment (bhoga) of Iśvara,  
+they attain the faultless and ultimate limit of puruṣārtha.  
+</details>
+
+<details><summary>Español</summary>
+
+Ya que se dan cuenta claramente  
+de que esta relación de ser Śeṣas y Śeṣīs  
+contribuye al disfrute (bhoga) de Iśvara,  
+alcanzan el límite impecable y supremo de Puruṣārtha.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्प्रकारत्ताले तङ्गळुक्कुवन्द शेषत्वशेषित्वादिगळॆल्लामीश्वरऩुडैय भोक्तृत्वत्तुक्कु शेषमॆऩ्ऱु तॆळिगैयाले इरुवर्क्कुङ्गोदऱ्ऱ पुरुषार्थकाष्ठैयुण्डागिऱदु। 
+</details>
+
+## निर्दोष-परमैकान्ति-प्रसाद-काङ्क्षा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि निश्चितार्थर् आय्  
+सारवित्तुक्कळ् आऩ कृत-कृत्यरुक्कु  
+अपराध-रुचियुम्, अति-शङ्कैयुम्, अन्य-देवता-स्पर्शमुम्,  
+आत्माधीन-भोगमुम्, आत्मार्थ-भोगमुम् आगिऱ पऴुद्+++(=दोषम्)+++ इल्लाद  
+परमैकान्तिकळ्-उडैय **प्रसादमे**  
+ऎप्पोदुम् स्वयं-प्रयोजनम् आग **अपेक्षणीयम्।**  +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं निश्चितार्थैः सार-विद्भिः कृत-कृत्यैः  
+अपराध-रुच्य्--अतिशङ्का+++(=??)+++--अन्य-देवता-स्पर्श--  
+अत्माधीन-भोग--आत्मार्थ-भोग--रूप-दोष-रहित--   
+परमैकान्ति-**प्रसाद** एव सर्वदा स्वयं-प्रयोजनतया **ऽपेक्षणीयः** ॥+++(5)+++ 
+</details>
+
+
+<details><summary>English</summary>
+
+By those who have done what should be done (prapannas),  
+who understand this subtle truth and are convinced of it,  
+the grace of devotees who are exclusively and supremely attached to the Lord  
+will be desired as an end in itself -  
+devotees who are free from the following stains :  
+the desire for transgressing the Lord's commands,  
+excess of doubt,  
+connection with other deities,  
+enjoyment depending on one's own effort  
+and enjoyment for one's own self.
+</details>
+
+<details><summary>Español</summary>
+
+Por aquellos que han hecho lo que se debe hacer (Prapannas),  
+quienes entienden esta verdad sutil  
+y están convencidos de ella,  
+La gracia de los devotos  
+que están unidos exclusiva y supremamente al Señor  
+será deseado como un fin en sí mismo -  
+devotos libres de las siguientes manchas:  
+el deseo de transgredir las órdenes del Señor,  
+exceso de duda,  
+conexión con otras deidades,  
+disfrute dependiendo del propio esfuerzo  
+y disfrute por uno mismo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इप्पडि निश्चितार्थराय् सारवित्तुक्कळाऩ कृतकृत्यरुक्कु अपराधरुचियुम्,अतिशङ्कैयुम् अन्यदेवतास्पर्शमुम्, आत्माधीनभोगमुम् आत्मार्थभोगमुमागिऱ पऴुदिल्लाद परमैकान्तिकळुडैय प्रसादमे ऎप्पोदुम् स्वयंप्रयोजनमाग अपेक्षणीयम्।  
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
