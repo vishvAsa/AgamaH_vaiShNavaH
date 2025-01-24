@@ -3,19 +3,77 @@ title = "१७ शास्त्रीय-नियमनाधिकारः
 
 +++
 
+## शास्त्रसापेक्षा
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 १७ शास्त्रीय-नियमनाधिकारः
+</details>
 
-(17) THE CHAPTER ON THE ORDINANCES
+<details><summary>English</summary>
 
-IMPOSED BY THE ŚĀSTRAS. page227
+(17) THE CHAPTER ON THE ORDINANCES IMPOSED BY THE ŚĀSTRAS. page227
+</details>
+
+<details><summary>Español</summary>
+
+(17) El capítulo sobre las ordenanzas impuestas por los Śāstras.Página 227
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+१७ शास्त्रीय-नियमनाधिकारः
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-मुकुन्दे निक्षिप्य स्वभरमनघो मुक्तवदसौ  
-स्वतन्त्राज्ञासिद्धां स्वयमविदितस्वामिहृदयः ।  
-परित्यागे सद्यस्स्वपरविविधानर्थजनना-  
-दलङ्घ्यामामोक्षादनुसरति शास्त्रीयसरणिम् ॥ ३८ ॥
+मुकुन्दे **निक्षिप्य** स्व-भरम् अन्-अघो मुक्तवद् असौ  
+स्व-तन्त्राज्ञा-सिद्धां स्वयम् **अ-विदित**-स्वामि-हृदयः ।  
+**परित्यागे** +++(सति)+++ सद्यस् स्व-पर-विविधानर्थ-**जननाद्** -  
+**अ-लङ्घ्याम्** आमोक्षाद् **अनुसरति** शास्त्रीय-सरणिम् ॥ ३८ ॥ +++(4)+++
 </details>
+
+<details><summary>विषयः</summary>
+
+शास्त्रम्, धर्मः, आचारः
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुकुन्दे **निक्षिप्य** स्व-भरम् अन्-अघो मुक्तवद् असौ  
+स्व-तन्त्राज्ञा-सिद्धां स्वयम् **अ-विदित**-स्वामि-हृदयः ।  
+**परित्यागे** +++(सति)+++ सद्यस् स्व-पर-विविधानर्थ-**जननाद्** -  
+**अ-लङ्घ्याम्** आमोक्षाद् **अनुसरति** शास्त्रीय-सरणिम् ॥ ३८ ॥
+</details>
+
+
+<details><summary>English</summary>
+
+Having **laid**, on Mukunda, the responsibility for his protection  
+and become free from sin like those **released** from saṁsāra,  
+the prapanna **walks** along the path laid down in the śāstras until his release from bondage,  
+since (unlike the mukta) he **cannot read** the mind of the lord directly  
+and since the path has been **ordained** for us by the command of the Omnipotent Lord  
+and since, **by straying** from that path,  
+he will immediately **bring**, on himself and on others, ills of various kinds.
+</details>
+
+<details><summary>Español</summary>
+
+Habiendo **puesto**, en Mukunda, la responsabilidad de su protección  
+y liberarse del pecado como los **lanzados** de Saṁsāra,  
+La Prapanna **camina** por el camino colocada en los Śāstras  
+hasta su liberación de la esclavitud,   
+Dado que (a diferencia del mukta) no puede **leer** la mente del Señor directamente  
+y dado que el camino ha **sido ordenado** para nosotros por el mandato del Señor omnipotente
+y desde que, al **alejarse** de ese camino,  
+Inmediatamente traerá, sobre sí mismo y en otros, males de varios tipos.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -25,13 +83,261 @@ IMPOSED BY THE ŚĀSTRAS. page227
 दलङ्घ्यामामोक्षादनुसरति शास्त्रीयसरणिम् ॥ ३८ ॥
 </details>
 
-Having laid, on Mukunda, the responsibility for his protection and become free from sin like those released from saṁsāra, the prapanna walks along the path laid down in the śāstras until his release from bondage, since (unlike the mukta) he cannot read the mind of the lord directly and since the path has been ordained for us by the command of the Omnipotent Lord and since, by straying from that path, he will immediately bring, on himself and on others, ills of various kinds.
 
-THE PRAPANNA SHOULD HAVE THE ŚĀSTRA
+<details><summary>English</summary>
 
-FOR HIS GUIDE:
+THE PRAPANNA SHOULD HAVE THE ŚĀSTRA FOR HIS GUIDE:
+</details>
 
-(It has been stated so far that) owing to his relationship as a śeṣa, the prapanna has to render service to Bhagavān and to Bhāgavatas. Now it may be asked whether this service arises from his desire and in accordance with the śāstras or from his mere desire without any reference at all to the śāstras. The answer is as follows; To the man who is in this world full of the darkness of ignorance, the śāstra is required as a lamp (to show the path that he should take). So the service that he is to render should be according to the śāstra; in matters where the śāstra gives an option or alternatives, he may follow his own discretion. "How is this", it may be asked. When Śrī Rāmānuja was about to leave this world, he observed his foremost disciples grieving exceedingly, He called them to his side and commanded them on pain of offence to Aḷavandār not to think of taking their own lives owing to their sorrow at his death. "They will (if they do so) have no connection with me”, he said. On hearing this, they were filled with sorrow and begged that they might be told what they should do thereafter. This was Śrī Rāmānuja's reply:
+<details><summary>Español</summary>
+
+La Prapanna debería tener el Śāstra para su guía:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इच् शेषत्व-सम्बन्धम् अडिय् आग  
+भगवद्-भागवत-विषयङ्गळिल् इवऩ् पण्णुम् कैङ्कर्यम्  
+शास्त्र-सापेक्ष-रुचियालेयो  
+शास्त्र-निरपेक्षरुचियालेयोव् 
+
+ऎऩ्ऩिल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतच्-छेषत्व-संबन्ध-निबन्धनतया  
+भगवद्-भागवत-विषये ऽनेन क्रियमाणं कैङ्कर्यं  
+किं शास्त्र-सापेक्ष-रुच्या  
+उत शास्त्र-निरपेक्ष-रुच्या 
+
+इति चेत् — 
+</details>
+
+
+<details><summary>English</summary>
+
+(It has been stated so far that) owing to his relationship as a śeṣa,  
+the prapanna has to render service to Bhagavān and to Bhāgavatas.  
+Now it may be asked whether this service arises  
+from his desire and in accordance with the śāstras  
+or from his mere desire without any reference at all to the śāstras. 
+</details>
+
+<details><summary>Español</summary>
+
+(Se ha declarado hasta ahora que) debido a su relación como un śeṣa,  
+La Prapanna tiene que prestar servicio a Bhagavān y a Bhāgavatas.  
+Ahora se le puede preguntar si surge este servicio  
+de su deseo y de acuerdo con los Śāstras  
+o de su mero deseo sin ninguna referencia en absoluto a los Śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इच् शेषत्वसम्बन्धमडियाग भगवद्भागवतविषयङ्गळिलिवऩ् पण्णुम् कैङ्कर्यम् शास्त्रसापेक्षरुचियालेयो शास्त्रनिरपेक्षरुचि यालेयोवॆऩ्ऩिल्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इरुळ्-**तरुमा** ञालत्तुळ्+++(=भूम्यां)+++ **इरुक्किऱव्** इवऩुक्कु  
+शास्त्रम् कै-विळक्क् आग **वेण्डुगैयाले**  
+यथा-शास्त्रम् आय्  
+शास्त्रम् विकल्पित्त् अवऱ्ऱिल् यथा-रुचिय् **आगक् कडवदु**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अ-ज्ञान--**प्रदायां** महा-भूमौ **वर्तमानस्यास्य**  
+शास्त्रं कर-दीपिका रूपम् **अपेक्षितम्**  
+इति यथा-शास्त्रम्,  
+शास्त्र-विकल्पित-विषये तु यथा-रुचि भवितुम् अर्हति ॥ 
+</details>
+
+<details><summary>English</summary>
+
+The answer is as follows;  
+To the man who is in this world full of the darkness of ignorance,  
+the śāstra is required as a lamp (to show the path that he should take).  
+So the service that he is to render  
+should be according to the śāstra;  
+in matters where the śāstra gives an option or alternatives,  
+he may follow his own discretion. 
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta es la siguiente;  
+Al hombre **que está** en este mundo lleno de la oscuridad de la ignorancia,
+El Śāstra **se requiere** como una lámpara (para mostrar el camino que **debe tomar**).  
+Entonces el servicio que **debe prestar**  
+**debería ser** de acuerdo con el Śāstra;
+en asuntos donde el Śāstra ofrece una opción o alternativas,
+**Puede seguir** su propia discreción.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इरुळ्दरुमाञालत्तुळिरुक्किऱ विवऩुक्कु शास्त्रम् कैविळक्काग वेण्डुगैयाले यथाशास्त्रमाय् शास्त्रम् विकल्पित्तवऱ्ऱिल् यथारुचियागक् कडवदु। 
+</details>
+
+
+## भाष्यकाराज्ञा
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदॆङ्ङऩेयॆऩ्ऩिल्;  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत् कथम् इति चेत् — 
+</details>
+
+
+<details><summary>English</summary>
+
+"How is this", it may be asked.  
+</details>
+
+<details><summary>Español</summary>
+
+"Cómo es esto", se puede preguntar.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदॆङ्ङऩेयॆऩ्ऩिल्;  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎम्-बॆरुमाऩार् तिरु-नाट्टुक्क् ऎऴुन्द् अरुळुगिऱ पोदु  
+श्री-पादत्तिले सेवित्त् इरुन्द मुदलिगळ्-उडैय आर्तियैक् **कण्ड् अरुळिय्**  
+इवर्गळैय् अऴैत्त्+++(=आहूय)+++ अरुळि 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+श्री-भाष्य-कारेषु  
+परम-पदारोहण-समये **उपस्थिते**  
+श्री-पाद-श्रितानां ज्ञानिनाम् आर्तिं **दृष्ट्वा**  
+एतान् **आहूय**,  
+</details>
+
+
+<details><summary>English</summary>
+
+When Śrī Rāmānuja was about to leave this world,  
+he observed his foremost disciples grieving exceedingly,  
+He called them to his side  
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando Śrī Rāmānuja estaba a punto de abandonar este mundo,  
+Observó a sus principales discípulos afligidos de manera extremadamente,  
+Los llamó a su lado
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎम्बॆरुमाऩार् तिरुनाट्टुक्कॆऴुन्दरुळुगिऱबोदु श्रीपादत्तिले सेवित्तिरुन्द मुदलिगळुडैय आर्तियैक्कण्डरुळिय् इवर्गळैय् अऴैत्तरुळि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> "ऎऩ्ऩ्-उडैय **वियोगत्तिल्** देह-**त्यागम् पण्णिऩार् उण्ड् आगिल्**,  
+आळ-वन्दार् श्री-पादमे;  
+ऎऩ्ऩोडु अवर्गळुक्कु **सम्बन्धम् इल्लैय्**" +++(5)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> 'मद्-वियोगे देह-**न्यास-कर्तारो** यदि केचिद् **भवेयुः**,  
+> तर्हि — श्री-यामुनाचार्य--श्री-पादाव् एव [साक्षी-कृत्य **शपे**] —  
+> मया सह तेषां **संबन्धो नास्ति**' 
+</details>
+
+
+<details><summary>English</summary>
+
+and commanded them on pain of offence to Aḷavandār  
+not to think of taking their own lives owing to their sorrow at his death.  
+"They will (if they do so) have no connection with me”, he said. 
+</details>
+
+<details><summary>Español</summary>
+
+y les **ordenó** dolor de ofensa a aḷavandār  
+**No pensar** en **quitarse** las propias vidas  
+debido a su tristeza a su muerte.  
+"Ellos (si lo **hacen**) **no tendrán** conexión conmigo", **dijo**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+"ऎऩ्ऩुडैय वियोगत्तिल् देहत्यागम् पण्णिऩारुण्डागिल्,  
+आळवन्दार् श्रीपादमे;  
+ऎऩ्ऩोडु अवर्गळुक्कु सम्बन्धमिल्लैय्"  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् **अरुळिच् चॆय्य**,  
+इवर्गळुम् इत्तैक् **केट्टु**  
+मिगवुम् **शोकार्तर् आय्**  
+
+> इऩिय् ऎङ्गळुक्कुच् चॆय्य वडुप्पद् ऎद् 
+
+ऎऩ्ऱु विण्णप्पञ् जॆय्य,  
+इवर् अरुळिच् चॆय्द् अरुळिऩ वार्त्तै; 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति **अनुगृह्योक्तवत्सु**, 
+
+एतेषु च तच्-**छ्रुत्वा**  
+ऽत्यन्तं **शोकार्तेषु**  
+
+> इतः परम् अस्माभिः किं कर्तव्यम् 
+
+इति विज्ञापितवत्सु,  
+एतैः (भाष्यकारैः ) **अनुगृहीतेयं** वार्ता - 
+
+</details>
+
+<details><summary>English</summary>
+
+On hearing this, they were filled with sorrow  
+and begged that they might be told what they should do thereafter.  
+This was Śrī Rāmānuja's reply:
+
+</details>
+
+<details><summary>Español</summary>
+
+Al **escuchar** esto, **estaban llenos** de dolor  
+y **rogó** que se les **pudiera decir**  
+lo que **deberían hacer** a partir de entonces.
+Esta **fue** la respuesta de Śrī Rāmānuja:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱरुळिच्चॆय्य, इवर्गळुमित्तैक्केट्टु मिगवुम् शोकार्तराय् इऩि यॆङ्गळुक्कुच् चॆय्यवडुप्पदॆदॆऩ्ऱु विण्णप्पञ्जॆय्य, इवररुळिच्चॆय्दरुळिऩ वार्त्तै; 
+</details>
+
+
 
 "If a man has become a prapanna, the salvation of his soul or self is the responsibility of Bhagavān, and he himself has nothing to do with it. If he thinks that he has anything to do with it, his surrender of responsibility (prapatti or ātma samarpaṇam) must have been false or insincere. The maintenance of the body depends upon his past karma, and he should not feel anxious about it. If he feels anxious about it, he is a sceptic or nāstika. Therefore neither in regard to his spiritual welfare nor in regard to his bodily welfare, has he anything more to do. If so, it may be asked whether the man might go about doing whatever he liked with his three kinds of organs, mind, speech and body. The answer is that doing so is not in keeping with his svarūpa or essential nature. It is true that he has nothing (more) to do with regard to the upāya or means, but he should direct these viz., mind, speech and body to the rendering of service which is the goal of his existence. There are five kinds of service which he can render for the rest of his life: (1) to study the Bhāṣya and to spread the knowledge obtained therefrom; (2) if the man is not qualified for it, to study the writings of the Alvars and spread their knowledge; (3) if the man is not competent to do it (i.e.) No. (2), to serve in holy temples sanctified (by the Alvars), by cooking food, by making chandanam, by lighting lamps and by weaving garlands (for use in the temples ); (4) if not competent to do (3), to meditate on the meaning of Dvaya; (5) if not competent to do (4), to seek the good will of some Śrī Vaiṣṇava who is well disposed to him and would look upon him as his follower and spend his life with him,
 
