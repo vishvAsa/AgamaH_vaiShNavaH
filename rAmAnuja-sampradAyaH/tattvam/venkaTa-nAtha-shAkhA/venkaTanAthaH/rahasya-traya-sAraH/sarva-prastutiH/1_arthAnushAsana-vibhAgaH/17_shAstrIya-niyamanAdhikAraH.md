@@ -786,6 +786,14 @@ Trampas en el camino de la Prapanna:
 > मुऩ्ऩ्-अडि पार्त्तु वर्तिक्क वेण्डुवऩ मूऩ्ऱु विषयम् उण्डु। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> एवं वर्तमानेनाधिकारिणा  
+> अग्रे पद-न्यास-स्थल-दर्शनेन वर्तितुम्  
+> अपेक्षितास् त्रयो विषयाः सन्ति । 
+</details>
+
+
 <details><summary>English</summary>
 
 > The man who is qualified to live in this way  
@@ -810,6 +818,12 @@ al **comportarse** cuidadosamente en tres asuntos.
 > अवैय् आवऩ;  
 > अनुकूलर् ऎऩ्ऱुम्, प्रतिकूलर् ऎऩ्ऱुम्, अनुभयर् ऎऩ्ऱुम्। 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ते यथा —  अनुकूलाः, प्रतिकूला अनुभये चेति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -839,6 +853,12 @@ y (3) aquellos que no son ni uno ni el otro.
 > अनुकूलर् आवार् श्रीवैष्णवर्गळ्।  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अनुकूलाः श्रीवैष्णवाः ।  
+</details>
+
+
 <details><summary>English</summary>
 
 > The suitable are Śrī Vaiṣṇavas, 
@@ -854,9 +874,16 @@ y (3) aquellos que no son ni uno ni el otro.
 अनुकूलरावार् श्रीवैष्णवर्गळ्।  
 </details>
 
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > प्रतिकूलर् आवार् भगवद्-द्विट्टुक्कळ्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> प्रतिकूला भगवद्-द्विषः ।  
 </details>
 
 <details><summary>English</summary>
@@ -880,6 +907,11 @@ y (3) aquellos que no son ni uno ni el otro.
 > अनुभयर् आवार् इव्व्-इरण्डुम् इल्लाद संसारिकळ्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अनुभये एतद्-उभय-हीनाः संसारिणः ।  
+</details>
+
 <details><summary>English</summary>
 
 > those who are neither the one nor the other are those in saṁsāra. 
@@ -896,9 +928,194 @@ y (3) aquellos que no son ni uno ni el otro.
 अनुभयरावारिव्विरण्डुमिल्लाद संसारिकळ्। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इदिल् अनुकूलरैक् कण्डाल्  
+चन्दन-कुसुमादिगळ् पोलवुम्,  
+निलवु+++(=चन्द्रिका)+++ तॆऩ्ऱल्+++(=दक्षिण[वातः])+++ पोलवुम्,  
+अभिमत-विषयङ्गळ् पोलवुम् **उगन्दु वर्तिप्पाऩ्।** 
+</details>
+
+<details><summary>Keith</summary>
+
+> अत्रानुकूलेषु दृष्टेषु चन्दन-कुसुमादिष्व् इव  
+> चन्द्रिका दक्षिणानिलयोर् इव  
+> अभिमत-विषयेष्व् इव **आहत्य वर्तत** ।  
+
+</details>
 
 
-The prapanna will rejoice at the sight of the suitable (anukula) as at chandana, flowers and the like and as at moonlight and the southern breeze and (other) beloved objects. At the sight of the unsuitable (pratiküla), he will be full of dread as at the sight of the serpent and the fire. At the sight of those who are neither of these two, he will behave as at the sight of wood or stone and treat them (with indifference), as if they were straw. If they are agreeable, he should impart the knowledge of truth to them ; otherwise, he should pity their sad fate. It is the inclination for wealth and sensual pleasure that stands in the way of such behaviour. If, owing to the desire for wealth and sense pleasures, a man should treat a Śrī Vaiṣṇava with disregard or contempt, he would provoke the wrath of Bhagavān in the same way as a man who treats the prince with disrespect in the presence of the king would provoke the king's anger. If, owing to the desire for wealth and sense pleasures, a man should remain subservient to those who are unsuitable, he would provoke disgust in the mind of Bhagavān in the same way as a queen who, while her lord is an emperor, begs alms of the mean and unworthy would provoke disgust in the king's mind. If a man should treat with respect those who are neither the one nor the other, the Lord would have no regard for him, as his knowledge serves no useful purpose like that of one who cannot distinguish between a gem and a piece of stone",
+<details><summary>English</summary>
+
+> The prapanna will rejoice at the sight of the suitable (anukula)  
+as at chandana, flowers and the like  
+and as at moonlight and the southern breeze  
+and (other) beloved objects. 
+</details>
+
+<details><summary>Español</summary>
+
+> La Prapanna se **regocijará** al **ver** lo adecuado (Anukula)  
+como en Chandana, flores y similares  
+y como a la luz de la luna y la brisa del sur  
+y (otros) objetos **queridos**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदिल् अनुकूलरैक् कण्डाल् चन्दनकुसुमादिगळ् पोलवुम्, निलवुदॆऩ्ऱल् पोलवुम्, अभिमतविषयङ्गळ् पोलवुमुगन्दु वर्तिप्पाऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रतिकूलरैक् कण्डाल्  
+> सर्पाग्निगळैक् कण्डाऱ् पोले  
+> **वॆरुवि+++(=भीत्वा)+++ वर्तिप्पाऩ्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> प्रतिकूलानां दर्शने सर्पाग्नि-दर्शन इव  
+> **समुद्विजमानो वर्तेत** ।  
+</details>
+
+
+<details><sumary>English</summary>
+
+> At the sight of the unsuitable (pratiküla),  
+he will be full of dread  
+as at the sight of the serpent and the fire. 
+</details>
+
+<details><summary>Español</summary>
+
+> A la **vista** de los inadecuados (Pratiküla),  
+**Estará** lleno de temor  
+como a la **vista** de la serpiente y el fuego.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिकूलरैक्कण्डाल् सर्पाग्नि कळैक् कण्डाऱ्पोले वॆरुवि वर्तिप्पाऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अन्-उभयरैक् कण्डाल्  
+काष्ठ-लोष्टादिगळैक् कण्डाऱ् पोले  
+तृणवत् **करित्तु+++(=उपेक्ष्य)+++ वर्तिप्पाऩ्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अनुभयेषां दर्शने  
+> काष्ठ-लोष्टादि-दर्शन इव  
+> तृणवत् **कृत्य वर्तत** । 
+
+[[१३६]] 
+</details>
+
+
+
+<details><summary>English</summary>
+
+> At the sight of those who are neither of these two,  
+> he will behave as at the sight of wood or stone  
+> and treat them (with indifference),  
+> as if they were straw. 
+</details>
+
+<details><summary>Español</summary>
+
+> A la **vista** de aquellos que no son ninguno de estos dos,  
+> Se **comportará** como a la **vista** de la madera o la piedra  
+> y los **tratará** (con indiferencia),
+> como si **fueran** paja.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुभयरैक् कण्डाल्काष्ठलोष्टादिगळैक् कण्डाऱ्पोले तृणवत्करित्तु वर्तिप्पाऩ्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इवर्गळ् **अनुकूलिप्पार्गळ्** आगिल्  
+इवर्गळुक्कु **ज्ञानत्तैय् उण्डाक्कवुम्**,  
+> 
+> "इवर्गळ् अनुकूलियार्गळ् आगिलैयोव्" ऎऩ्ऱ्  
+इवर्गळ् पक्कलिले **कृपै पण्णिय् इरुक्कवुम्**  
+> 
+> **अडुक्कुम्।**+++(=व्यवस्थातवम्)+++ +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> (एते चेद् अनुकूलाः,  
+> एतेभ्यो ज्ञानस्योत्पादनम्)  
+> एते चेन् नानुकूलाः,  
+> तर्हि "हा हन्ते"ति एषां विषये कृपा-करणम् अपि युक्तम्। 
+</details>
+
+
+<details><summary>English</summary>
+
+> If they are agreeable,  
+he should impart the knowledge of truth to them ;  
+otherwise, he should pity their sad fate.  
+</details>
+
+<details><summary>Español</summary>
+
+> Si son de acuerdo,  
+**Debería impartirles** el conocimiento de la verdad;  
+De lo contrario, **debe lástima** su triste destino.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवर्गळनुकूलिप्पार्गळागिलिवर्गळुक्कु ज्ञानत्तैयुण्डाक्कवुम् इवर्गळनुकूलियार्गळागिल् ऐयोवॆऩ्ऱिवर्गळ् पक्कलिले कृपै पण्णियिरुक्कवुम् अडुक्कुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्पडिच् चॆय्यव् ऒट्टाद्+++(=संयोगं विना)+++ ऒऴिगिऱदु अर्थ-कामङ्गळिल् प्रावण्यम्।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> एवं-वर्तनस्य प्रतिबन्धकम् अर्थकामयोः प्रावण्यम् |  
+</details>
+
+
+<details><summary>English</summary>
+
+> It is the inclination for wealth and sensual pleasure that stands in the way of such behaviour. 
+</details>
+
+<details><summary>Español</summary>
+
+> Es la inclinación por la riqueza y el placer sensual  
+> lo que **se interpone** en el camino de tal comportamiento.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिच् चॆय्यवॊट्टादॊऴिगिऱदु अर्थकाम ङ्गळिल् प्रावण्यम्।  
+</details>
+
+
+
+If, owing to the desire for wealth and sense pleasures, a man should treat a Śrī Vaiṣṇava with disregard or contempt, he would provoke the wrath of Bhagavān in the same way as a man who treats the prince with disrespect in the presence of the king would provoke the king's anger. If, owing to the desire for wealth and sense pleasures, a man should remain subservient to those who are unsuitable, he would provoke disgust in the mind of Bhagavān in the same way as a queen who, while her lord is an emperor, begs alms of the mean and unworthy would provoke disgust in the king's mind. If a man should treat with respect those who are neither the one nor the other, the Lord would have no regard for him, as his knowledge serves no useful purpose like that of one who cannot distinguish between a gem and a piece of stone",
 
 ŚRĪ RĀMĀNUJA'S ADVICE EXPLAINED:
 
