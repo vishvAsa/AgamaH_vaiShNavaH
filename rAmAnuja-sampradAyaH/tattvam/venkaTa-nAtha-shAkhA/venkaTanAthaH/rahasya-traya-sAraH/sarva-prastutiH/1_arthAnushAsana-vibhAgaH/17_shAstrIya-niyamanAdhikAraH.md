@@ -212,6 +212,7 @@ en asuntos donde el Śāstra ofrece una opción o alternativas,
 अदॆङ्ङऩेयॆऩ्ऩिल्;  
 </details>
 
+### शरीर-त्याग-निषेधः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎम्-बॆरुमाऩार् तिरु-नाट्टुक्क् ऎऴुन्द् अरुळुगिऱ पोदु  
@@ -288,7 +289,7 @@ debido a su tristeza a su muerte.
 ऎऩ्ऩोडु अवर्गळुक्कु सम्बन्धमिल्लैय्"  
 </details>
 
-
+### वृत्ति-सूचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्ऱ् **अरुळिच् चॆय्य**,  
@@ -337,13 +338,567 @@ Esta **fue** la respuesta de Śrī Rāmānuja:
 ऎऩ्ऱरुळिच्चॆय्य, इवर्गळुमित्तैक्केट्टु मिगवुम् शोकार्तराय् इऩि यॆङ्गळुक्कुच् चॆय्यवडुप्पदॆदॆऩ्ऱु विण्णप्पञ्जॆय्य, इवररुळिच्चॆय्दरुळिऩ वार्त्तै; 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ऒरुवऩ् प्रपन्नऩ् आऩाल्  
+> अवऩ्-उडैय आत्म-यात्रै भगवद्-अधीनैय् आगैयालेय्  
+> अदिल् अवऩुक्क् अन्वयम् इल्लै। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१३५]] 
+
+> "कश्चित् प्रपन्नोऽभूच् चेत्  
+> तदीयात्म-यात्राया भगवदधीनत्वात्  
+> तस्यां तस्यान्वयो नास्ति ।  
+</details>
 
 
-"If a man has become a prapanna, the salvation of his soul or self is the responsibility of Bhagavān, and he himself has nothing to do with it. If he thinks that he has anything to do with it, his surrender of responsibility (prapatti or ātma samarpaṇam) must have been false or insincere. The maintenance of the body depends upon his past karma, and he should not feel anxious about it. If he feels anxious about it, he is a sceptic or nāstika. Therefore neither in regard to his spiritual welfare nor in regard to his bodily welfare, has he anything more to do. If so, it may be asked whether the man might go about doing whatever he liked with his three kinds of organs, mind, speech and body. The answer is that doing so is not in keeping with his svarūpa or essential nature. It is true that he has nothing (more) to do with regard to the upāya or means, but he should direct these viz., mind, speech and body to the rendering of service which is the goal of his existence. There are five kinds of service which he can render for the rest of his life: (1) to study the Bhāṣya and to spread the knowledge obtained therefrom; (2) if the man is not qualified for it, to study the writings of the Alvars and spread their knowledge; (3) if the man is not competent to do it (i.e.) No. (2), to serve in holy temples sanctified (by the Alvars), by cooking food, by making chandanam, by lighting lamps and by weaving garlands (for use in the temples ); (4) if not competent to do (3), to meditate on the meaning of Dvaya; (5) if not competent to do (4), to seek the good will of some Śrī Vaiṣṇava who is well disposed to him and would look upon him as his follower and spend his life with him,
+<details><summary>English</summary>
+
+> "If a man has become a prapanna,  
+the salvation of his soul or self is the responsibility of Bhagavān,  
+and he himself has nothing to do with it. 
+</details>
+
+<details><summary>Español</summary>
+
+> "Si un hombre se **ha convertido** en una Prapanna,  
+La salvación de su alma o yo **es** responsabilidad de Bhagavān,  
+Y él mismo no **tiene** nada que **ver** con eso.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऒरुवऩ् प्रपन्नऩाऩालवऩुडैय आत्मयात्रै भगवदधीनैयागैयाले यदिलवऩुक्कन्वयमिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उण्ड् ऎऩ्ऱ् इरुन्दाऩ् आगिल्  
+आत्म-समर्पणम् पॊय्य् आम् इत्तऩै, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अस्तीति [मन्वानो] वर्तेत चेत्,  
+> तर्ह्य् आत्म-समर्पणं मिथ्यैव ।  
+</details>
+
+
+<details><summary>English</summary>
+
+> If he thinks that he has anything to do with it,  
+his surrender of responsibility (prapatti or ātma samarpaṇam) must have been false or insincere. 
+</details>
+
+<details><summary>Español</summary>
+
+> Si **piensa** que **tiene** algo que **ver** con eso  
+Su **rendición** de la responsabilidad (Prapatti o ātma Samarpaṇam) **debe haber sido** falsa o insincera.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उण्डॆऩ्ऱिरुन्दाऩागिल् आत्मसमर्पणम् पॊय्यामित्तऩै, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> देह-यात्रै कर्माधीनैय् आगैयालेय्  
+> अदुक्कुक् करैय+++(=चिन्तिक्क)+++ वेण्डा।
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> देहयात्रायाः कर्माधीनत्वात्  
+> तदर्थं चिन्ता न कार्या ।  
+</details>
+
+
+<details><summary>English</summary>
+
+> The maintenance of the body depends upon his past karma,  
+and he should not feel anxious about it. 
+</details>
+
+<details><summary>Español</summary>
+
+> El **mantenimiento** del cuerpo  
+**depende** de su karma pasado,  
+Y **no debería sentirse** ansioso por eso.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+देहयात्रै कर्माधीनैयागैयाले यदुक्कुक् करैयवेण्डा।
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> करैन्दाऩ्+++(=व्याकुल)+++ आगिल् नास्तिकऩ् आम् इत्तऩै। +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> चिन्तां कुर्याच् चेत्, नास्तिक एव ।+++(4)+++  
+</details>
+
+
+<details><summary>English</summary>
+
+> If he feels anxious about it, he is a sceptic or nāstika. 
+</details>
+
+<details><summary>Español</summary>
+
+> Si se **siente ansioso** por eso,  
+> **es** escéptico o nāstika.
+</details>
+
+<details><summary>मूलम्</summary>
+
+करैन्दाऩागिल् नास्तिकऩामित्तऩै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> आगैयाल् उभय-यात्रैयैयुङ् **कॊण्ड्**  
+> इवऩुक्कुक् **कार्यम् इल्लै।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अतो यात्रा-द्वयम् अपि प्रति तस्य कार्यं नास्ति ।  
+</details>
+
+
+<details><summary>English</summary>
+
+> Therefore neither in regard to his spiritual welfare  
+nor in regard to his bodily welfare,  
+has he anything more to do. 
+</details>
+
+<details><summary>Español</summary>
+
+> Por lo tanto, tampoco con respecto a su bienestar espiritual  
+ni en lo que respecta a su bienestar corporal,   
+tiene algo más por hacer.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आगैयालुभययात्रैयैयुङ् गॊण्डिवऩुक्कुक् कार्यमिल्लै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> > आऩाल् मनो-वाक्-कायङ्गळ् आगिऱ त्रिविध-करणङ्गळैयुङ् गॊण्डु  
+> वेण्ड् इऱ्ऱुच्+++(=भूतं??)+++ चॆय्दु  
+> तिरियव्+++(=भ्रान्तुम्)+++ अमैयुमोव्+++(=योग्यमो)+++ 
+> 
+> ऎऩ्ऩिल्;  
+> अदु इवऩुक्कु स्व-रूपम् अऩ्ऱु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+>> तर्हि मनो-वाक्-काय-रूपैः त्रि-विध-करणैः  
+> स्वैरकृत्या किं संचरितुं युक्तम्? 
+> 
+> इति चेत्, तद् अस्य न स्वरूपम् । 
+</details>
+
+<details><summary>English</summary>
+
+> If so, it may be asked whether  
+> the man might go about doing whatever he liked  
+> with his three kinds of organs, mind, speech and body.  
+> 
+> The answer is that doing so is not in keeping with his svarūpa or essential nature. 
+</details>
+
+<details><summary>Español</summary>
+
+> Si es así, se le **puede preguntar** si  
+> El hombre **podría hacer** lo que **quiera**  
+> Con sus tres tipos de órganos, mente, habla y cuerpo.
+>
+> La **respuesta es** que **hacerlo no está** de acuerdo con su svarūpa o naturaleza esencial.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आऩाल् मनोवाक्कायङ्गळागिऱ त्रिविधकरणङ्गळैयुङ् गॊण्डु वेण्डिऱ्ऱुच् चॆय्दु तिरियवमैयुमोवॆऩ्ऩिल्; अदु इवऩुक्कु स्वरूपमऩ्ऱु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> उपायांशत्तिल् **अन्वयम् इल्ला विट्टालुम्**  
+प्राप्यम् आऩ कैङ्कर्य-फलत्तिल् इवऱ्ऱैय् **अन्वयिप्पिक्कुम् अत्तऩै।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> उपायांशे ऽन्वयाभावे ऽपि  
+> प्राप्ये कैङ्कर्ये एषाम् अन्वय-सम्पादनम् एव युक्तम्।+++(5)+++" 
+
+</details>
+
+
+<details><summary>English</summary>
+
+It is true that he has nothing (more) to do with regard to the upāya or means,  
+but he should direct these viz., mind, speech and body to the rendering of service  
+which is the goal of his existence. 
+</details>
+
+<details><summary>Español</summary>
+
+Es cierto que **no tiene** nada (más) que **ver** con respecto al upāya o los medios,  
+Pero **debe dirigir** estos a saber, la mente, el habla y el cuerpo a la **prestación** del servicio
+Cuál es el objetivo de su existencia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उपायांशत्तिलन्वयमिल्ला विट्टालुम् प्राप्यमाऩ कैङ्कर्य फलत्तिलिवऱ्ऱै यन्वयिप्पिक्कुमत्तऩै। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अदिल् इवऩुक्क् इङ्ग् इरुन्द नाळ् पण्णल् आम् कैङ्कर्यम् अञ्ज् उण्डु। अवैय् आवऩ -  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "तत्रानेनेह जीवन-काले कर्तुम् अर्हाणि कैर्याणि पञ्च सन्ति । तानि यथा - 
+</details>
+
+
+<details><summary>English</summary>
+
+There are five kinds of service which he can render for the rest of his life: 
+</details>
+
+<details><summary>Español</summary>
+
+**Hay** cinco tipos de servicio  
+que **puede prestar** por el resto de su vida:
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदिलिवऩुक्किङ्गिरुन्द नाळ् पण्णलाम् कैङ्कर्यमञ्जुण्डु। अवैयावऩ -  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> भाष्यत्तै वासित्तु प्रवर्तिप्पित्तल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> (१) श्रीभाष्यस्याध्ययन-पूर्वकं प्रवर्तनम् 
+</details>
+
+
+<details><summary>English</summary>
+
+> (1) to study the Bhāṣya and to spread the knowledge obtained therefrom; 
+</details>
+
+<details><summary>Español</summary>
+
+> (1) estudiar el bhāṣya y difundir el conocimiento obtenido de ellos;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भाष्यत्तै वासित्तु प्रवर्तिप्पित्तल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अदुक्कु योग्यतैय् इल्लैय् आगिल्  
+अरुळिच्-चॆयलैक् केट्टु प्रवर्तिप्पित्तल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> (२) तद्-योग्यताया अभावे  
+दिव्य-प्रबन्धानां श्रवण-पूर्वं प्रवर्तनम् 
+</details>
+
+
+<details><summary>English</summary>
+
+> (2) if the man is not qualified for it, to study the writings of the Alvars and spread their knowledge; 
+</details>
+
+<details><summary>Español</summary>
+
+> (2) Si el hombre **no está** calificado para ello,  
+**Estudiar** los escritos de los Alvars y **difundir** su conocimiento;
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+अदुक्कु योग्यतैयिल्लै यागिलरुळिच् चॆयलैक्केट्टु प्रवर्तिप्पित्तल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अदुक्कु योग्यतैय् इल्लैय् आगिल्  
+उगन्द्-अरुळिऩ दिव्य-देशङ्गळुक्क्  
+अमुदु-बडि, सात्तु+++(=लेप)+++-बडि, तिरु-विळक्कुत्--तिरु-मालैगळैय् उण्डाक्कुदल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ( ३ ) तद्-योग्यताया अभावे  
+आदरानुगृहीत-दिव्य-देशार्थं निवेदनीयान्न-+अनुलेपन-दीप-माल्यादेः संपादनम्,  
+</details>
+
+
+<details><summary>English</summary>
+
+> (3) if the man is not competent to do it (i.e. No. 2 above),  
+to serve in holy temples sanctified (by the Alvars),  
+by cooking food, by making chandanam, by lighting lamps and by weaving garlands (for use in the temples ); 
+</details>
+
+<details><summary>Español</summary>
+
+> (3) Si el hombre **no es competente** para hacerlo (es decir, No. 2 arriba),  
+para **servir** en templos sagrados santificados (por los Alvars),  
+**cocinando** alimentos, **haciendo** pasta de sandalia, **iluminando** lámparas y **tejiendo** guirnaldas (para usar en las templos);
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदुक्कु योग्यतैयिल्लैयागिलुगन्दरुळिऩ दिव्यदेशङ्गळुक्कमुदुबडि सात्तुबडि तिरुविळक्कुत् तिरुमालैगळै युण्डाक्कुदल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अदुक्कु योग्यतैय् इल्लैय् आगिल्  
+> द्वयत्तिऩ्-उडैय अर्थानुसन्धानम् पण्णुदल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> (४) तद्-ख्योग्यताया अभावे द्वयस्यार्थानुसन्धान-करणम्,  
+</details>
+
+
+<details><summary>English</summary>
+
+> (4) if not competent to do (3), to meditate on the meaning of Dvaya; 
+</details>
+
+<details><summary>Español</summary>
+
+> (4) si **no es** competente para hacer (3), **meditar** en el significado de dvaya;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदुक्कु योग्यतैयिल्लैयागिल् द्वयत्तिऩुडैय अर्थानुसन्धानम् पण्णुदल्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अदुक्कु योग्यतैय् इल्लैय् आगिल्  
+> ऎऩ्ऩ्-उडैय्-अवऩ् ऎऩ्ऱ् अभिमानिप्पाऩ् ऒरु श्री-वैष्णवऩ्-उडैय अभिमानत्तिले **ऒदुङ्गि वर्तित्तल्**  
+> **सॆय्यल् आम्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> (५) तद्-योग्यताया अभावे अस्मदीय इत्य् अभिमन्वानस्य कस्यचित् श्रीवैष्णवस्याभिमाने **ऽन्तर्भूय वर्तनं** च  
+> 
+> कर्तुम् उचितम्।
+</details>
+
+
+<details><summary>English</summary>
+
+> (5) if not competent to do (4), to seek the good will of some Śrī Vaiṣṇava  
+who is well disposed to him  
+and would look upon him as his follower  
+and spend his life with him,
+</details>
+
+<details><summary>Español</summary>
+
+> (5) Si **no es** competente (4), **buscar** la buena voluntad de algunos Śrī Vaiṣṇava  
+quien **esta bien dispuesto** a él  
+y lo **vería** como su seguidor  
+y **pasar** su vida con él
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अदुक्कु योग्यतैयिल्लैयागिलॆऩ्ऩुडैयव ऩॆऩ्ऱभिमानिप्पाऩॊरु श्रीवैष्णवऩुडैय अभिमानत्तिले ऒदुङ्गि वर्तित्तल् सॆय्यलाम्। 
+</details>
+
+
+### आपदः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 PITFALLS IN THE PATH OF THE PRAPANNA:
+</details>
 
-The man who is qualified to live in this way has to avoid pitfalls in front of him by behaving carefully in three matters. "They concern - (1) those who are suitable or favourable (anukula) (2) those who are unsuitable or unfavourable (pratikūla) and (3) those who are neither the one nor the other. The suitable are Śrī Vaiṣṇavas, the unsuitable are those that are the enemies of Bhagavān; those who are neither the one nor the other are those in saṁsāra. The prapanna will rejoice at the sight of the suitable (anukula) as at chandana, flowers and the like and as at moonlight and the southern breeze and (other) beloved objects. At the sight of the unsuitable (pratiküla), he will be full of dread as at the sight of the serpent and the fire. At the sight of those who are neither of these two, he will behave as at the sight of wood or stone and treat them (with indifference), as if they were straw. If they are agreeable, he should impart the knowledge of truth to them ; otherwise, he should pity their sad fate. It is the inclination for wealth and sensual pleasure that stands in the way of such behaviour. If, owing to the desire for wealth and sense pleasures, a man should treat a Śrī Vaiṣṇava with disregard or contempt, he would provoke the wrath of Bhagavān in the same way as a man who treats the prince with disrespect in the presence of the king would provoke the king's anger. If, owing to the desire for wealth and sense pleasures, a man should remain subservient to those who are unsuitable, he would provoke disgust in the mind of Bhagavān in the same way as a queen who, while her lord is an emperor, begs alms of the mean and unworthy would provoke disgust in the king's mind. If a man should treat with respect those who are neither the one nor the other, the Lord would have no regard for him, as his knowledge serves no useful purpose like that of one who cannot distinguish between a gem and a piece of stone",
+<details><summary>मूलम्</summary>
+
+Trampas en el camino de la Prapanna:
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> इप्पडि वर्तिक्कुम् अधिकारिक्कु  
+> मुऩ्ऩ्-अडि पार्त्तु वर्तिक्क वेण्डुवऩ मूऩ्ऱु विषयम् उण्डु। 
+</details>
+
+<details><summary>English</summary>
+
+> The man who is qualified to live in this way  
+has to avoid pitfalls in front of him by behaving carefully in three matters. 
+</details>
+
+<details><summary>Español</summary>
+
+> El hombre que está **calificado** para vivir de esta manera  
+**tiene** que **evitar** dificultades frente a él  
+al **comportarse** cuidadosamente en tres asuntos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि वर्तिक्कुम् अधिकारिक्कु मुऩ्ऩडि पार्त्तु वर्तिक्क वेण्डुवऩ मूऩ्ऱु विषयमुण्डु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अवैय् आवऩ;  
+> अनुकूलर् ऎऩ्ऱुम्, प्रतिकूलर् ऎऩ्ऱुम्, अनुभयर् ऎऩ्ऱुम्। 
+</details>
+
+<details><summary>English</summary>
+
+> They concern -  
+(1) those who are suitable or favourable (anukula)  
+(2) those who are unsuitable or unfavourable (pratikūla)  
+and (3) those who are neither the one nor the other. 
+</details>
+
+<details><summary>Español</summary>
+
+> Se preocupan -  
+(1) Aquellos que son adecuados o favorables (Anukula)  
+(2) Aquellos que son inadecuados o desfavorables (Pratikūla)  
+y (3) aquellos que no son ni uno ni el otro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवैयावऩ; अनुकूलरॆऩ्ऱुम्, प्रतिकूलरॆऩ्ऱुम्, अनुभयरॆऩ्ऱुम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनुकूलर् आवार् श्रीवैष्णवर्गळ्।  
+</details>
+
+<details><summary>English</summary>
+
+> The suitable are Śrī Vaiṣṇavas, 
+</details>
+
+<details><summary>Español</summary>
+
+> Las adecuadas son Śrī Vaiṣṇavas,
+</details>
+
+<details><summary>मूलम्</summary>
+
+अनुकूलरावार् श्रीवैष्णवर्गळ्।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रतिकूलर् आवार् भगवद्-द्विट्टुक्कळ्। 
+</details>
+
+<details><summary>English</summary>
+
+> the unsuitable are those that are the enemies of Bhagavān; 
+</details>
+
+<details><summary>Español</summary>
+
+> Los inadecuados son los que son los enemigos de Bhagavān;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रतिकूलरावार् भगवद्द्विट्टुक्कळ्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अनुभयर् आवार् इव्व्-इरण्डुम् इल्लाद संसारिकळ्। 
+</details>
+
+<details><summary>English</summary>
+
+> those who are neither the one nor the other are those in saṁsāra. 
+</details>
+
+<details><summary>Español</summary>
+
+> Aquellos que no son ni uno ni el otro **son** los de Saṁsāra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुभयरावारिव्विरण्डुमिल्लाद संसारिकळ्। 
+</details>
+
+
+
+The prapanna will rejoice at the sight of the suitable (anukula) as at chandana, flowers and the like and as at moonlight and the southern breeze and (other) beloved objects. At the sight of the unsuitable (pratiküla), he will be full of dread as at the sight of the serpent and the fire. At the sight of those who are neither of these two, he will behave as at the sight of wood or stone and treat them (with indifference), as if they were straw. If they are agreeable, he should impart the knowledge of truth to them ; otherwise, he should pity their sad fate. It is the inclination for wealth and sensual pleasure that stands in the way of such behaviour. If, owing to the desire for wealth and sense pleasures, a man should treat a Śrī Vaiṣṇava with disregard or contempt, he would provoke the wrath of Bhagavān in the same way as a man who treats the prince with disrespect in the presence of the king would provoke the king's anger. If, owing to the desire for wealth and sense pleasures, a man should remain subservient to those who are unsuitable, he would provoke disgust in the mind of Bhagavān in the same way as a queen who, while her lord is an emperor, begs alms of the mean and unworthy would provoke disgust in the king's mind. If a man should treat with respect those who are neither the one nor the other, the Lord would have no regard for him, as his knowledge serves no useful purpose like that of one who cannot distinguish between a gem and a piece of stone",
 
 ŚRĪ RĀMĀNUJA'S ADVICE EXPLAINED:
 
