@@ -768,7 +768,7 @@ y **pasar** su vida con él
 </details>
 
 
-### आपदः
+### सावधानतापेक्षाः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -783,14 +783,14 @@ Trampas en el camino de la Prapanna:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > इप्पडि वर्तिक्कुम् अधिकारिक्कु  
-> मुऩ्ऩ्-अडि पार्त्तु वर्तिक्क वेण्डुवऩ मूऩ्ऱु विषयम् उण्डु। 
+> मुऩ्ऩ्-अडि **पार्त्तु वर्तिक्क वेण्डुवऩ** मूऩ्ऱु विषयम् **उण्डु।** 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 > एवं वर्तमानेनाधिकारिणा  
-> अग्रे पद-न्यास-स्थल-दर्शनेन वर्तितुम्  
-> अपेक्षितास् त्रयो विषयाः सन्ति । 
+> अग्रे पद-न्यास-स्थल-**दर्शनेन वर्तितुम्**  
+> अपेक्षितास् त्रयो विषयाः **सन्ति** । 
 </details>
 
 
@@ -815,7 +815,7 @@ al **comportarse** cuidadosamente en tres asuntos.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अवैय् आवऩ;  
+> अवैय् **आवऩ**;  
 > अनुकूलर् ऎऩ्ऱुम्, प्रतिकूलर् ऎऩ्ऱुम्, अनुभयर् ऎऩ्ऱुम्। 
 </details>
 
@@ -850,7 +850,7 @@ y (3) aquellos que no son ni uno ni el otro.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> अनुकूलर् आवार् श्रीवैष्णवर्गळ्।  
+> **अनुकूलर्** आवार् श्रीवैष्णवर्गळ्।  
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -878,7 +878,7 @@ y (3) aquellos que no son ni uno ni el otro.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> प्रतिकूलर् आवार् भगवद्-द्विट्टुक्कळ्। 
+> **प्रतिकूलर्** आवार् भगवद्-द्विट्टुक्कळ्। 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -1014,7 +1014,7 @@ como a la **vista** de la serpiente y el fuego.
 
 > अनुभयेषां दर्शने  
 > काष्ठ-लोष्टादि-दर्शन इव  
-> तृणवत् **कृत्य वर्तत** । 
+> तृणवत् **कृत्य वर्तेत** । 
 
 [[१३६]] 
 </details>
@@ -1084,15 +1084,15 @@ De lo contrario, **debe lástima** su triste destino.
 इवर्गळनुकूलिप्पार्गळागिलिवर्गळुक्कु ज्ञानत्तैयुण्डाक्कवुम् इवर्गळनुकूलियार्गळागिल् ऐयोवॆऩ्ऱिवर्गळ् पक्कलिले कृपै पण्णियिरुक्कवुम् अडुक्कुम्। 
 </details>
 
-
+### अर्थ-कामाभ्याम् आपत्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> इप्पडिच् चॆय्यव् ऒट्टाद्+++(=संयोगं विना)+++ ऒऴिगिऱदु अर्थ-कामङ्गळिल् प्रावण्यम्।  
+> इप्-पडिच् **चॆय्यव् ऒट्टाद्**+++(=संयोगं विना)+++ ऒऴिगिऱदु अर्थ-कामङ्गळिल् **प्रावण्यम्।** +++(4)+++ 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-> एवं-वर्तनस्य प्रतिबन्धकम् अर्थकामयोः प्रावण्यम् |  
+> एवं-वर्तनस्य **प्रतिबन्धकम्** अर्थकामयोः **प्रावण्यम्** |  
 </details>
 
 
@@ -1113,6 +1113,7 @@ De lo contrario, **debe lástima** su triste destino.
 इप्पडिच् चॆय्यवॊट्टादॊऴिगिऱदु अर्थकाम ङ्गळिल् प्रावण्यम्।  
 </details>
 
+#### अनुकूलेषु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अर्थ-कामङ्गळ् अडिय् आग  
@@ -1149,9 +1150,9 @@ would provoke the king's anger.
 <details><summary>Español</summary>
 
 > Si, debido al deseo de riqueza y placeres sensoriales,  
-Un hombre **debe tratar** a un Śrī Vaiṣṇava con desprecio o desprecio,
-**Provocaría** la ira de Bhagavān de la misma manera
-como un hombre que **trata** al príncipe con falta de respeto en presencia del rey
+Un hombre **debe tratar** a un Śrī Vaiṣṇava con desprecio o desprecio,  
+**Provocaría** la ira de Bhagavān de la misma manera  
+como un hombre que **trata** al príncipe con falta de respeto en presencia del rey  
 **provocaría** la ira del rey.
 </details>
 
@@ -1161,7 +1162,7 @@ como un hombre que **trata** al príncipe con falta de respeto en presencia del 
 अर्थकामङ्गळडियाग श्रीवैष्णवर्गळै यनादरित्तिरुक्कुमागिल्, सार्वभौमऩायिरुप्पाऩॊरु राजाविऩुडैय पुत्रऩै राजसन्निधियिले परिभवित्ताल् राजा वॆऱुक्कुमाप्पोले ऎम्बॆरुमाऩ् तिरुवुळ्ळञ् जीऱुम्। 
 </details>
 
-
+#### प्रतिकूलेषु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अर्थकामङ्गळ् अडिय् आग  
@@ -1215,7 +1216,7 @@ como una reina que, mientras su Señor es un emperador,
 अर्थकामङ्गळडियाग प्रतिकूलरै आदरित्तिरुक्कुमागिल्, राजा सार्वभौम ऩायिरुक्क राजमहिषी क्षुद्रजन्तुक्कळ् पक्कलिले मडिप्पिच्चै पुक्काल् राजावुक्कु अवद्यमाय् अत्ताले यवळैयवऩ् वॆऱुक्कुमाप्पोले ऎम्बॆरुमाऩ् तिरुवुळ्ळम् वॆऱुत्तिरुक्कुम्।
 </details>
 
-
+#### अनुभयेषु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > अर्थ-कामङ्गळ् अडिय् आग अनुभयरै आदरिक्कुम् आगिल्,  
@@ -1262,7 +1263,7 @@ como una reina que, mientras su Señor es un emperador,
 </details>
 
 
-## भाष्य-कारोक्ति-तात्पर्यम्
+### धर्माविरुद्धार्थ-कामयोस् तात्पर्यम्
 <details><summary>English</summary>
 
 ŚRĪ RĀMĀNUJA'S ADVICE EXPLAINED:
@@ -1335,10 +1336,255 @@ En relación con este Código de Conducta **prescrito** por Śrī Rāmānuja par
 उद्यतामपि गृह्णीयान्नापद्यपि कदाचन ॥’’(शाण्डिल्य-स्मृतिः ३-१८), 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-we have to remember that the pursuit of wealth and sense pleasures which are against dharma have already been prohibited altogether (for all including non prapannas) as in the following śloka s:- 
+> ‘‘पर-रन्ध्रेषु जात्य्-**अन्धाः**  
+पर-दारेष्व् अ-पुंसकाः ।  
+परीवादेषु ये **मूकास्**  
+तेऽतीव-**दयिता** मम’’  
+(विष्णुधर्मः ७६-२२।)  
+</details>
 
-"They are dear to me. they who are born blind to the imperfections of others, who are eunuchs in regard to the wives of other men and who are dumb in the matter of censuring others." So the injunction contained in the Bhāṣyakāra's words (really) means that even in regard to the acquisition of wealth and sense-pleasures which are not opposed to dharma, the prapanna should not deviate from his proper state in regard to these three classes of persons, the suitable, the unsuitable and those who are neither of these two. That those who are suitable should not be treated with disregard is declared in Śāṇḍilya smṛti (4-86). “A householder does not like one who treats his son with disregard; so also Bhagavān does not like those who do not treat his bhaktas with due respect." That those who are unsuitable should not be associated with, is declared in the Mahābhārata   : “Those who hate Keśava, the Supreme Being, and cannot, meditate on Him - to them and to those who associate with them with respect, there will be no benefit at all from bathing in the holy waters". So also it is said: "One should not associate with fools, with those who are addicted to sin, with those who are cruel by nature, and with those who criticise adversely the śāstras of Bhagavān (Pāñcarātra). Association with them will put an end to bhakti". That those who are neither the one nor the other should be treated like straw is well known from ślokas like the following:- "O men of the world, from this day onwards, you are what you are and we are what we are. You are in quest of wealth and sense pleasures; we are in quest of Nārāyaṇa.  (So) there cannot be any companionship between you and us. We are the servants of the Lord; you are the slaves of the senses". The words that the prapanna should walk warily (lest he should fall into pitfalls) indicate that the (five) services ordained as essential by the Bhāṣyakāra (in his words quoted above) stand in the same category as services like Sandhyāvandana which can be learnt only from the śāstras and that, for that reason, these five, too, should be done in accordance with the injunctions prescribed in the śāstras, in order that they may become real and proper services. It may be asked: ("How can his (Śrī Rāmānuja's) words be interpreted to include also those rites and duties that are prescribed in the śāstras and that these five services which he has specifically mentioned should also be done according to the śāstras?") The answer is that it is clear from the Bhāṣyakara's words "If he should go about doing as he likes, it would be against his svarūpa or essential nature." As Aḷavandār puts it, "Whatever agrees not with the śāstras is Āsuric in nature; those sections that are opposed to the śāstras are inconsistent with his Nature which is godly". Further it has been said by the Lord who is entitled to our service - "The śruti and the smṛtis are indeed my commands. He who transgresses them violates my commands. He does injury to me. Though he may be devoted to me he should not be called a Vaiṣṇava". Śrī Rāmānuja's meaning is that, since the Master has also made this declaration, the prapanna should serve in accordance with the śāstras as long as he lives in the body. In his Gītārtha Sangraha Aḷavandār says : - "From the karmas pertaining to one's varṇa and āśrama to bhakti yoga, one should perform everything, directed by love alone (of the Lord). One should give up the notion that these are upāyas or means (for attaining one's ends). One should place the upāya without fear on God; (i.e) one should realise that Bhagavān is alone the upāya)". It is obvious that 'by love alone' excludes the notion that it is an upāya owing to the word 'alone' and this idea is elaborated in "having given up the notion that these are upāyas or means". It is true that the love (of the Lord) is indicated as having a wonderful power of inspiring one to service prescribed in the śāstra. But in the words "from the karmas pertaining to one's varṇa and āśrama", it is shown that the nature of these karmas has to be ascertained only from the śāstras.
+<details><summary>English</summary>
+
+"They are dear to me -  
+they who are born blind to the imperfections of others,  
+who are eunuchs in regard to the wives of other men  
+and who are dumb in the matter of censuring others." 
+</details>
+
+<details><summary>Español</summary>
+
+"Son queridos para mí -  
+los que nacen ciegos a las imperfecciones de los demás,  
+que son eunucos con respecto a las esposas de otros hombres  
+y que son tontos en la cuestión de censurar a otros ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘पररन्ध्रेषु जात्यन्धाः परदारेष्वपुंसकाः ।  
+परीवादेषु ये मूकास्तेऽतीव दयिता मम’’(विष्णुधर्मः ७६-२२।)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिऱ् पडिये  
+धर्म-विरुद्धार्थ-कामङ्गळ् दूरतो-निरस्तङ्गळ् आऩ बडियाले  
+
+धर्माविरुद्धङ्गळ् आऩ अर्थ-कामङ्गळ् **उपाधिय् आगवुम्**  
+
++++(पूर्वोक्त-)+++अनुकूल-प्रतिकूलोदासीन-विषयङ्गळिल्  
+ताऩ् **निऩ्ऱ निलै कुलैयल् आगाद्**  
+ऎऩ्ऱु तिरुव्-उळ्ळम्।  
+</details>
+
+<details><summary>English</summary>
+
+We have to remember that the pursuit of wealth and sense pleasures which are against dharma  
+have already been prohibited altogether (for all including non prapannas) as in the above (~~following~~) śloka-s.  
+So the injunction contained in the Bhāṣyakāra's words (really) means that  
+even in regard to the acquisition of wealth and sense-pleasures which are not opposed to dharma,  
+the prapanna should not deviate from his proper state  
+in regard to these three classes of persons,  
+the suitable, the unsuitable and those who are neither of these two.  
+</details>
+
+<details><summary>Español</summary>
+
+**Tenemos que recordar** que la **búsqueda** de la riqueza y los placeres sensoriales que están en contra del dharma  
+ya **han sido prohibidos** por completo (para todos, incluidos los no prapannas) como en lo anterior (~~ siguiente ~~) śloka-s.  
+Entonces la orden judicial contenida en las palabras de Bhāṣyakāra (realmente) significa que  
+incluso con respecto a la **adquisición** de riqueza y placeres sensoriales que no se oponen al dharma,  
+La Prapanna **no debe desviarse** de su estado apropiado
+con respecto a estas tres clases de personas,
+Los adecuados, los inadecuados y los que no son de estos dos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्पडिये धर्मविरुद्धार्थकामङ्गळ् दूरतोनिरस्तङ्गळाऩबडियाले धर्माविरुद्धङ्गळाऩ अर्थकामङ्गळु-पाधियागवुम् अनुकूलप्रतिकूलोदासीन विषयङ्गळिल् ताऩ् निऩ्ऱ निलै कुलैयलागादॆऩ्ऱु तिरुवुळ्ळम्।  
+</details>
+
+
+### अनुकूलानादर-फले प्रमाणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदिल् अनुकूलरैय् अनादरिक्कल् आगाद् ऎऩ्ऩुम् इडम्  
+श्री-शाण्डिल्य-स्मृतियिले 
+</details>
+
+<details><summary>English</summary>
+
+That those who are suitable should not be treated with disregard is declared in Śāṇḍilya smṛti (4-86). 
+</details>
+
+<details><summary>Español</summary>
+
+Que aquellos que son adecuados **no deben ser tratados** sin tener en cuenta **se declara** en śāṇḍilya smṛti (4-86).
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदिल् अनुकूलरै यनादरिक्कलागादॆऩ्ऩुमिडम् श्रीशाण्डिल्यस्मृतियिले 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **अनादृत**-सुतङ् गेही  
+पुरुषं **नाभिनन्दति** ।  
+तथा **ऽनर्चित**-सद्-भक्तं  
+भगवान् **नाभिनन्दति**॥+++(5)+++  
+(शाण्डिल्य-स्मृतिः ४-८६।)  
+
+ऎऩ्ऱु सॊल्लप्पट्टदु।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **अनादृत**-सुतङ् गेही  
+पुरुषं **नाभिनन्दति** ।  
+तथा **ऽनर्चित**-सद्-भक्तं  
+भगवान् **नाभिनन्दति**॥+++(5)+++  
+(शाण्डिल्य-स्मृतिः ४-८६।)  
+
+</details>
+
+
+<details><summary>विषयः</summary>
+
+भागवत-कैङ्कर्यम्, भागवतापचारः
+</details>
+
+<details><summary>English</summary>
+
+> “A householder does not like one who treats his son with disregard;  
+> so also Bhagavān does not like those  
+> who do not treat his bhaktas with due respect." 
+</details>
+
+<details><summary>Español</summary>
+
+> “A un hogar **no le gusta** alguien que **trata** a su hijo con desprecio;  
+> Así también a Bhagavān **no le gustan**  
+> **quienes no tratan** a sus bhaktas con el debido respeto ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अनादृतसुतङ्गेही पुरुषं नाभिनन्दति ।  
+तथाऽनर्चितसद्भक्तं भगवान्नाभिनन्दति’’  
+(शाण्डिल्य-स्मृतिः ४-८६।)  
+ऎऩ्ऱु सॊल्लप्पट्टदु।  
+</details>
+
+
+### प्रतिकूल-संसर्ग-फले प्रमाणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिकूल-संसर्गम् आगाद् ऎऩ्ऩुम् इडम् महाभारतत्तिले  
+</details>
+
+<details><summary>English</summary>
+
+That those who are unsuitable should not be associated with, is declared in the Mahābhārata   : 
+</details>
+
+<details><summary>Español</summary>
+
+Que los que **no son adecuados** no deben estar asociados, **se declara** en el Mahābhārata:
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रतिकूलसंसर्गमागादॆऩ्ऩुमिडम्महाभारतत्तिले  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ये **द्विषन्ति** महात्मानं  
+**न स्मरन्ति** च केशवम् ।  
+**न** तेषां पुण्य-तीर्थेषु +++(स्नानेन)+++  
+**गतिस् संसर्गिणाम्** अपि॥ +++(4)+++  
+(भारतम् शान्ति-पर्व ३३६-३६।) 
+
+ऎऩ्ऱु सॊल्लप् पट्टदु। 
+</details>
+
+<details><summary>विषयः</summary>
+
+ब्रह्म-द्विट्, ब्रह्मद्विट्-संसर्गः
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ये **द्विषन्ति** महात्मानं  
+**न स्मरन्ति** च केशवम् ।  
+**न** तेषां पुण्य-तीर्थेषु +++(स्नानेन)+++  
+**गतिस् +++(सादर-)+++संसर्गिणाम्** अपि॥ +++(4)+++  
+(भारतम् शान्ति-पर्व ३३६-३६।)  
+
+</details>
+
+
+<details><summary>English</summary>
+
+> “Those who hate Keśava, the Supreme Being,  
+and cannot, meditate on Him -  
+to them and to those who associate with them with respect,  
+there will be no benefit at all from bathing in the holy waters". 
+</details>
+
+<details><summary>Español</summary>
+
+> “Aquellos que odian a Keśava, el ser supremo,
+y no puede, meditar sobre él -
+para ellos y para aquellos que se asocian con ellos con respeto,
+No habrá ningún beneficio de bañarse en las aguas sagradas ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ये द्विषन्ति महात्मानं न स्मरन्ति च केशवम् ।  
+न तेषां पुण्यतीर्थेषु गतिस्संसर्गिणामपि’’  
+ऎऩ्ऱु सॊल्लप् पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अप्पडिये  
+
+> मूढैः पाप-रतैः क्रूरैर्  
+> भगवच्-छास्त्र-दूषकैः ।  
+> +++(सादरं)+++ **सम्बन्धन् नाचरेद्** भक्तिर्  
+> **नश्यत्य्** एतैस्तु सङ्गमे’’  
+(शाण्डिल्य-स्मृतिः १-१२१।)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> मूढैः पाप-रतैः क्रूरैर्  
+> भगवच्-छास्त्र-दूषकैः ।  
+> +++(सादरं)+++ **सम्बन्धन् नाचरेद्** भक्तिर्  
+> **नश्यत्य्** एतैस्तु सङ्गमे’’  
+(शाण्डिल्य-स्मृतिः १-१२१।)  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये  
+‘‘मूढैः पापरतैः क्रूरैर्भगवच्छास्त्रदूषकैः । सम्बन्धन्नाचरेद्भक्तिर्नश्यत्येतैस्तु सङ्गमे’’ 
+(शाण्डिल्य-स्मृतिः १-१२१।)  
+
+</details>
+
+
+So also it is said: "One should not associate with fools, with those who are addicted to sin, with those who are cruel by nature, and with those who criticise adversely the śāstras of Bhagavān (Pāñcarātra). Association with them will put an end to bhakti". That those who are neither the one nor the other should be treated like straw is well known from ślokas like the following:- "O men of the world, from this day onwards, you are what you are and we are what we are. You are in quest of wealth and sense pleasures; we are in quest of Nārāyaṇa.  (So) there cannot be any companionship between you and us. We are the servants of the Lord; you are the slaves of the senses". The words that the prapanna should walk warily (lest he should fall into pitfalls) indicate that the (five) services ordained as essential by the Bhāṣyakāra (in his words quoted above) stand in the same category as services like Sandhyāvandana which can be learnt only from the śāstras and that, for that reason, these five, too, should be done in accordance with the injunctions prescribed in the śāstras, in order that they may become real and proper services. It may be asked: ("How can his (Śrī Rāmānuja's) words be interpreted to include also those rites and duties that are prescribed in the śāstras and that these five services which he has specifically mentioned should also be done according to the śāstras?") The answer is that it is clear from the Bhāṣyakara's words "If he should go about doing as he likes, it would be against his svarūpa or essential nature." As Aḷavandār puts it, "Whatever agrees not with the śāstras is Āsuric in nature; those sections that are opposed to the śāstras are inconsistent with his Nature which is godly". Further it has been said by the Lord who is entitled to our service - "The śruti and the smṛtis are indeed my commands. He who transgresses them violates my commands. He does injury to me. Though he may be devoted to me he should not be called a Vaiṣṇava". Śrī Rāmānuja's meaning is that, since the Master has also made this declaration, the prapanna should serve in accordance with the śāstras as long as he lives in the body. In his Gītārtha Sangraha Aḷavandār says : - "From the karmas pertaining to one's varṇa and āśrama to bhakti yoga, one should perform everything, directed by love alone (of the Lord). One should give up the notion that these are upāyas or means (for attaining one's ends). One should place the upāya without fear on God; (i.e) one should realise that Bhagavān is alone the upāya)". It is obvious that 'by love alone' excludes the notion that it is an upāya owing to the word 'alone' and this idea is elaborated in "having given up the notion that these are upāyas or means". It is true that the love (of the Lord) is indicated as having a wonderful power of inspiring one to service prescribed in the śāstra. But in the words "from the karmas pertaining to one's varṇa and āśrama", it is shown that the nature of these karmas has to be ascertained only from the śāstras.
 
 This ordinance imposed by the śāstras is well known from the following ślokas in the chapter on prapatti : " In order that there may be no violation of dharma, for the protection of the family, for keeping ignorant men in the right path by setting them an example, for the preservation of the moral law as defined in the śāstras, for my (Lakṣmī 's ) satisfaction and for the satisfaction of the Lord armed with Sarnga who is the God of all gods, the prapanna who is wise should aot even think of transgressing the ordinances of the Veda". The evil that would result from the transgression is described immediately afterwards as follows : “Even a king's favourite, who, because it serves no purpose of his own, destroys the bund of a river dug by the king's orders, which is of great use to the world, is beautiful in itself and causes abundance of crops, - even he will be impaled for having done so ; So also though he may be dear, the man who violates the ordinances of the Vedas is no favourite of mine inasmuch as he violates my commands.” If, having offended the Lord, the prapanna does not seek pardon, it will produce, before he attains mukti, some evil or other in accordance with his specific qualification.
 
