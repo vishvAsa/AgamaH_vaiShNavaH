@@ -1561,30 +1561,230 @@ No habrá ningún beneficio de bañarse en las aguas sagradas ".
 > मूढैः पाप-रतैः क्रूरैर्  
 > भगवच्-छास्त्र-दूषकैः ।  
 > +++(सादरं)+++ **सम्बन्धन् नाचरेद्** भक्तिर्  
-> **नश्यत्य्** एतैस्तु सङ्गमे’’  
+> **नश्यत्य्** एतैस्तु **सङ्गमे**॥  
 (शाण्डिल्य-स्मृतिः १-१२१।)  
 </details>
+
+<details><summary>विषयः</summary>
+
+ब्रह्म-द्विषः
+</details>
+
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 > मूढैः पाप-रतैः क्रूरैर्  
 > भगवच्-छास्त्र-दूषकैः ।  
 > +++(सादरं)+++ **सम्बन्धन् नाचरेद्** भक्तिर्  
-> **नश्यत्य्** एतैस्तु सङ्गमे’’  
+> **नश्यत्य्** एतैस् तु **सङ्गमे**॥  
 (शाण्डिल्य-स्मृतिः १-१२१।)  
+</details>
+
+<details><summary>English</summary>
+
+So also it is said: 
+
+> "One should not associate with fools,  
+> with those who are addicted to sin,  
+> with those who are cruel by nature,  
+> and with those who criticise adversely the śāstras of Bhagavān (Pāñcarātra).  
+> Association with them will put an end to bhakti". 
+</details>
+
+<details><summary>Español</summary>
+
+Entonces también se dice:
+
+> "No se debe asociar con los tontos,  
+> con los que son adictos al pecado,  
+> con los que son crueles por naturaleza,  
+> Y con aquellos que critican adversamente los Śāstras de Bhagavān (Pāñcarātra).  
+> La asociación con ellos pondrá fin a Bhakti ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये  
+‘‘मूढैः पापरतैः क्रूरैर्भगवच्छास्त्रदूषकैः । सम्बन्धन्नाचरेद्भक्तिर्नश्यत्येतैस्तु सङ्गमे’’(शाण्डिल्य-स्मृतिः १-१२१।)  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु 
+
+> प्रतिकूल-संसर्गम् भगवत्-प्रेमत्तैय् अऴिक्कुम्  
+
+ऎऩ्ऱु सॊल्लप्पट्टदु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु प्रतिकूलसंसर्गम् भगवत्प्रेमत्तैयऴिक्कुमॆऩ्ऱु सॊल्लप्पट्टदु। 
+</details>
+
+
+### उदासीन-त्यागे प्रमाणम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उदासीनरै तृणवत् करिक्क वेणुम् ऎऩ्ऩुम् इडम्,  
+</details>
+
+<details><summary>English</summary>
+
+That those who are neither the one nor the other should be treated like straw 
+</details>
+
+<details><summary>Español</summary>
+
+Que aquellos que **no son** ni el uno ni el otro  
+**deben ser tratados** como paja
+</details>
+
+<details><summary>मूलम्</summary>
+
+उदासीनरै तृणवत्करिक्कवेणुमॆऩ्ऩुमिडम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अद्य प्रभृति हे लोका  
+यूयं यूयं वयं वयम् ।  
+अर्थकामपरा यूयं  
+नारायणपरा वयम् ॥ +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अद्य प्रभृति हे लोका  
+यूयं यूयं वयं वयम् ।  
+अर्थकामपरा यूयं  
+नारायणपरा वयम् ॥ +++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+> O men of the world, from this day onwards,  
+> you are what you are and we are what we are.  
+> You are in quest of wealth and sense pleasures;  
+> we are in quest of Nārāyaṇa.   
+</details>
+
+<details><summary>Español</summary>
+
+> Oh hombres del mundo, a partir de este día en adelante,  
+> **Eres** lo que eres, y **somos** lo que somos.  
+> **Estás** en **busca** de riqueza y placeres sensoriales;  
+> **Estamos** en busca de Nārāyaṇa. 
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-अप्पडिये  
-‘‘मूढैः पापरतैः क्रूरैर्भगवच्छास्त्रदूषकैः । सम्बन्धन्नाचरेद्भक्तिर्नश्यत्येतैस्तु सङ्गमे’’ 
-(शाण्डिल्य-स्मृतिः १-१२१।)  
+अद्य प्रभृति हे लोका यूयं यूयं वयं वयम् । अर्थकामपरा यूयं नारायणपरा वयम् ॥ 
+</details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नास्ति सङ्गतिर् अस्माकं  
+युष्माकञ् च परस्-परम् ।  
+वयन् तु किङ्करा विष्णोर्  
+यूयम् इन्द्रिय-किङ्कराः॥+++(5)+++
+</details>
+
+<details><summary>English</summary>
+
+> (So) there cannot be any companionship between you and us.  
+> We are the servants of the Lord;  
+> you are the slaves of the senses.
+</details>
+
+<details><summary>Español</summary>
+
+> (Entonces) **no puede haber** ninguna compañía entre usted y nosotros.
+> **Somos** los siervos del Señor;
+> Ustedes **son los esclavos** de los sentidos. +++(5)+++
 </details>
 
 
-So also it is said: "One should not associate with fools, with those who are addicted to sin, with those who are cruel by nature, and with those who criticise adversely the śāstras of Bhagavān (Pāñcarātra). Association with them will put an end to bhakti". That those who are neither the one nor the other should be treated like straw is well known from ślokas like the following:- "O men of the world, from this day onwards, you are what you are and we are what we are. You are in quest of wealth and sense pleasures; we are in quest of Nārāyaṇa.  (So) there cannot be any companionship between you and us. We are the servants of the Lord; you are the slaves of the senses". The words that the prapanna should walk warily (lest he should fall into pitfalls) indicate that the (five) services ordained as essential by the Bhāṣyakāra (in his words quoted above) stand in the same category as services like Sandhyāvandana which can be learnt only from the śāstras and that, for that reason, these five, too, should be done in accordance with the injunctions prescribed in the śāstras, in order that they may become real and proper services. It may be asked: ("How can his (Śrī Rāmānuja's) words be interpreted to include also those rites and duties that are prescribed in the śāstras and that these five services which he has specifically mentioned should also be done according to the śāstras?") The answer is that it is clear from the Bhāṣyakara's words "If he should go about doing as he likes, it would be against his svarūpa or essential nature." As Aḷavandār puts it, "Whatever agrees not with the śāstras is Āsuric in nature; those sections that are opposed to the śāstras are inconsistent with his Nature which is godly". Further it has been said by the Lord who is entitled to our service - "The śruti and the smṛtis are indeed my commands. He who transgresses them violates my commands. He does injury to me. Though he may be devoted to me he should not be called a Vaiṣṇava". Śrī Rāmānuja's meaning is that, since the Master has also made this declaration, the prapanna should serve in accordance with the śāstras as long as he lives in the body. In his Gītārtha Sangraha Aḷavandār says : - "From the karmas pertaining to one's varṇa and āśrama to bhakti yoga, one should perform everything, directed by love alone (of the Lord). One should give up the notion that these are upāyas or means (for attaining one's ends). One should place the upāya without fear on God; (i.e) one should realise that Bhagavān is alone the upāya)". It is obvious that 'by love alone' excludes the notion that it is an upāya owing to the word 'alone' and this idea is elaborated in "having given up the notion that these are upāyas or means". It is true that the love (of the Lord) is indicated as having a wonderful power of inspiring one to service prescribed in the śāstra. But in the words "from the karmas pertaining to one's varṇa and āśrama", it is shown that the nature of these karmas has to be ascertained only from the śāstras.
+<details><summary>मूलम्</summary>
+
+नास्ति सङ्गतिरस्माकं युष्माकञ्च परस्परम् । वयन्तु किङ्करा विष्णोर्यूयमिन्द्रियकिङ्कराः॥
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्य्-आदिगळिले प्रसिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+is well known from ślokas like the above ~~following~~.
+</details>
+
+<details><summary>Español</summary>
+
+**Es** bien **conocida** por ślokas como la anterior ~~ siguiente ~~.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिले प्रसिद्धम्। 
+</details>
+
+### शास्त्रीयान्तरोपलक्षणम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि "मुऩ्ऩडि पार्त्तु **वर्तिक्क वेणुम्**"  
+ऎऩ्ऱ् अरुळिच्-चॆय्दव् अर्थम्  
+**शास्त्रैक-वेद्यम् आगैयाले**  
+शास्त्रीयङ्गळुक्कु **उपलक्षणम् आग**  
+
+> **सारोद्धारम् पण्णिय्**  
+इवर् **अरुळिच् चॆय्द +++(पूर्वोक्त-पञ्च-)+++कैङ्कर्यङ्गळुम्**  
+ताऩ् **वेण्डिऩ** पडि सॆय्य वॊण्णामैयाले  
+शास्त्रोक्तम् आऩ **नियमत्तोडे सॆय्दाल्**  
+**कैङ्कर्यम्** आम्  +++(4)+++
+
+ऎऩ्ऱु सूचितम्।  
+</details>
+
+<details><summary>English</summary>
+
+The words that the prapanna should walk warily (lest he should fall into pitfalls)  
+indicate that the (five) services ordained as essential by the Bhāṣyakāra (in his words quoted above)  
+stand in the same category as services like Sandhyāvandana  
+which can be learnt only from the śāstras  
+and that, for that reason,  
+these five, too, should be done in accordance with the injunctions prescribed in the śāstras,  
+in order that they may become real and proper services.  
+</details>
+
+<details><summary>Español</summary>
+
+Las palabras que la Prapanna debe caminar con cautela (para que no caiga en trampas)
+Indique que los (cinco) servicios ordenados como esenciales por el Bhāṣyakāra (en sus palabras citadas anteriormente)
+pararse en la misma categoría que los servicios como Sandhyāvandana
+que solo se puede aprender de los Śāstras
+y eso, por esa razón,
+Estos cinco también deben hacerse de acuerdo con las medidas cautelares prescritas en los Śāstras,
+Para que puedan convertirse en servicios reales y adecuados.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि मुऩ्ऩडि पार्त्तु वर्तिक्कवेणुमॆऩ्ऱरुळिच्चॆय्दवर्थम् शास्त्रैकवेद्यमागैयाले शास्त्रीयङ्गळुक्कु उपलक्षणमागसारोद्धारम्बण्णियिवररुळिच्चॆय्द कैङ्कर्यङ्गळुम् ताऩ् वेण्डिऩबडि सॆय्यवॊण्णामैयाले शास्त्रोक्तमाऩ नियमत्तोडे सॆय्दाल् कैङ्कर्यमामॆऩ्ऱु सूचितम्।  
+</details>
+
+
+
+
+
+It may be asked: ("How can his (Śrī Rāmānuja's) words be interpreted to include also those rites and duties that are prescribed in the śāstras and that these five services which he has specifically mentioned should also be done according to the śāstras?") The answer is that it is clear from the Bhāṣyakara's words "If he should go about doing as he likes, it would be against his svarūpa or essential nature." As Aḷavandār puts it, "Whatever agrees not with the śāstras is Āsuric in nature; those sections that are opposed to the śāstras are inconsistent with his Nature which is godly". Further it has been said by the Lord who is entitled to our service - "The śruti and the smṛtis are indeed my commands. He who transgresses them violates my commands. He does injury to me. Though he may be devoted to me he should not be called a Vaiṣṇava". Śrī Rāmānuja's meaning is that, since the Master has also made this declaration, the prapanna should serve in accordance with the śāstras as long as he lives in the body. In his Gītārtha Sangraha Aḷavandār says : - "From the karmas pertaining to one's varṇa and āśrama to bhakti yoga, one should perform everything, directed by love alone (of the Lord). One should give up the notion that these are upāyas or means (for attaining one's ends). One should place the upāya without fear on God; (i.e) one should realise that Bhagavān is alone the upāya)". It is obvious that 'by love alone' excludes the notion that it is an upāya owing to the word 'alone' and this idea is elaborated in "having given up the notion that these are upāyas or means". It is true that the love (of the Lord) is indicated as having a wonderful power of inspiring one to service prescribed in the śāstra. But in the words "from the karmas pertaining to one's varṇa and āśrama", it is shown that the nature of these karmas has to be ascertained only from the śāstras.
 
 This ordinance imposed by the śāstras is well known from the following ślokas in the chapter on prapatti : " In order that there may be no violation of dharma, for the protection of the family, for keeping ignorant men in the right path by setting them an example, for the preservation of the moral law as defined in the śāstras, for my (Lakṣmī 's ) satisfaction and for the satisfaction of the Lord armed with Sarnga who is the God of all gods, the prapanna who is wise should aot even think of transgressing the ordinances of the Veda". The evil that would result from the transgression is described immediately afterwards as follows : “Even a king's favourite, who, because it serves no purpose of his own, destroys the bund of a river dug by the king's orders, which is of great use to the world, is beautiful in itself and causes abundance of crops, - even he will be impaled for having done so ; So also though he may be dear, the man who violates the ordinances of the Vedas is no favourite of mine inasmuch as he violates my commands.” If, having offended the Lord, the prapanna does not seek pardon, it will produce, before he attains mukti, some evil or other in accordance with his specific qualification.
 
