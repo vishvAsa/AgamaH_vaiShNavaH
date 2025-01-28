@@ -289,7 +289,7 @@ debido a su tristeza a su muerte.
 ऎऩ्ऩोडु अवर्गळुक्कु सम्बन्धमिल्लैय्"  
 </details>
 
-### वृत्ति-सूचनम्
+### वृत्ति-सूचन-प्रार्थना
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्ऱ् **अरुळिच् चॆय्य**,  
@@ -338,6 +338,7 @@ Esta **fue** la respuesta de Śrī Rāmānuja:
 ऎऩ्ऱरुळिच्चॆय्य, इवर्गळुमित्तैक्केट्टु मिगवुम् शोकार्तराय् इऩि यॆङ्गळुक्कुच् चॆय्यवडुप्पदॆदॆऩ्ऱु विण्णप्पञ्जॆय्य, इवररुळिच्चॆय्दरुळिऩ वार्त्तै; 
 </details>
 
+### आत्म-देह-यात्रयोर् अनन्वयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ऒरुवऩ् प्रपन्नऩ् आऩाल्  
@@ -378,8 +379,8 @@ Y él mismo no **tiene** nada que **ver** con eso.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> उण्ड् ऎऩ्ऱ् इरुन्दाऩ् आगिल्  
-आत्म-समर्पणम् पॊय्य् आम् इत्तऩै, 
+> **उण्ड् ऎऩ्ऱ् इरुन्दाऩ्** आगिल्  
+आत्म-**समर्पणम् पॊय्य् आम्** इत्तऩै, 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -499,11 +500,11 @@ tiene algo más por hacer.
 आगैयालुभययात्रैयैयुङ् गॊण्डिवऩुक्कुक् कार्यमिल्लै। 
 </details>
 
-
+### कैङ्कर्ये ऽन्वयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > > आऩाल् मनो-वाक्-कायङ्गळ् आगिऱ त्रिविध-करणङ्गळैयुङ् गॊण्डु  
-> वेण्ड् इऱ्ऱुच्+++(=भूतं??)+++ चॆय्दु  
+> वेण्डिऱ्ऱु चॆय्दु  
 > तिरियव्+++(=भ्रान्तुम्)+++ अमैयुमोव्+++(=योग्यमो)+++ 
 > 
 > ऎऩ्ऩिल्;  
@@ -513,7 +514,7 @@ tiene algo más por hacer.
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 >> तर्हि मनो-वाक्-काय-रूपैः त्रि-विध-करणैः  
-> स्वैरकृत्या किं संचरितुं युक्तम्? 
+> स्वैर-कृत्या किं संचरितुं युक्तम्? 
 > 
 > इति चेत्, तद् अस्य न स्वरूपम् । 
 </details>
@@ -577,6 +578,7 @@ Cuál es el objetivo de su existencia.
 उपायांशत्तिलन्वयमिल्ला विट्टालुम् प्राप्यमाऩ कैङ्कर्य फलत्तिलिवऱ्ऱै यन्वयिप्पिक्कुमत्तऩै। 
 </details>
 
+### ५ कृत्यानि
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1271,13 +1273,20 @@ como una reina que, mientras su Señor es un emperador,
 
 <details><summary>Español</summary>
 
-El consejo de Śrī Ramanja explicó:
+El consejo de Śrī Rāmānuja explicó:
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्-पडि श्रीभाष्य-कारर् अरुळिच् चॆय्द उत्तर-कृत्यत्तिल् 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं श्री-भाष्य-कारानुगृहीते उत्तर-कृत्ये, 
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -1345,6 +1354,16 @@ En relación con este Código de Conducta **prescrito** por Śrī Rāmānuja par
 (विष्णुधर्मः ७६-२२।)  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘पर-रन्ध्रेषु जात्य्-**अन्धाः**  
+पर-दारेष्व् अ-पुंसकाः ।  
+परीवादेषु ये **मूकास्**  
+तेऽतीव-**दयिता** मम’’  
+(विष्णुधर्मः ७६-२२।)  
+</details>
+
+
 <details><summary>English</summary>
 
 "They are dear to me -  
@@ -1377,8 +1396,18 @@ y que son tontos en la cuestión de censurar a otros ".
 
 +++(पूर्वोक्त-)+++अनुकूल-प्रतिकूलोदासीन-विषयङ्गळिल्  
 ताऩ् **निऩ्ऱ निलै कुलैयल् आगाद्**  
-ऎऩ्ऱु तिरुव्-उळ्ळम्।  
+ऎऩ्ऱु तिरुव्-उळ्ळम्। +++(4)+++ 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-आदि-रीत्या  
+धर्म-विरुद्धार्थ-कामानां दूरतो **निरस्तत्वात्**  
+धर्माविरुद्धार्थ-कामोपाधिकतयाऽपि  
+अनुकूल--प्रतिकूलोदासीन-विषयेषु  
+**स्वास्थिता स्थितिर् न विनाश्येति** तात्पर्यम् । +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1416,6 +1445,12 @@ Los adecuados, los inadecuados y los que no son de estos dos.
 श्री-शाण्डिल्य-स्मृतियिले 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्र अनुकूलाः नानादरणीया इत्येतत् श्रीशाण्डिल्यस्मृतौ 
+</details>
+
+
 <details><summary>English</summary>
 
 That those who are suitable should not be treated with disregard is declared in Śāṇḍilya smṛti (4-86). 
@@ -1450,6 +1485,7 @@ Que aquellos que son adecuados **no deben ser tratados** sin tener en cuenta **s
 भगवान् **नाभिनन्दति**॥+++(5)+++  
 (शाण्डिल्य-स्मृतिः ४-८६।)  
 
+इति प्रत्यपादि । 
 </details>
 
 
@@ -1486,6 +1522,12 @@ Que aquellos que son adecuados **no deben ser tratados** sin tener en cuenta **s
 
 प्रतिकूल-संसर्गम् आगाद् ऎऩ्ऩुम् इडम् महाभारतत्तिले  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रतिकूल-संसर्गो न कार्य इत्य्-एतन् महाभारते, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1526,6 +1568,8 @@ Que los que **no son adecuados** no deben estar asociados, **se declara** en el 
 **गतिस् +++(सादर-)+++संसर्गिणाम्** अपि॥ +++(4)+++  
 (भारतम् शान्ति-पर्व ३३६-३६।)  
 
+[[१३७]]  
+इति प्रत्यवादि । 
 </details>
 
 
@@ -1573,6 +1617,8 @@ No habrá ningún beneficio de bañarse en las aguas sagradas ".
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+तथा 
+
 > मूढैः पाप-रतैः क्रूरैर्  
 > भगवच्-छास्त्र-दूषकैः ।  
 > +++(सादरं)+++ **सम्बन्धन् नाचरेद्** भक्तिर्  
@@ -1618,6 +1664,12 @@ Entonces también se dice:
 ऎऩ्ऱु सॊल्लप्पट्टदु। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति  
+प्रतिकूल-संसर्गस्य भगवत्-प्रेम-विनाशकत्वं प्रतपादि । 
+</details>
+
 <details><summary>मूलम्</summary>
 
 ऎऩ्ऱु प्रतिकूलसंसर्गम् भगवत्प्रेमत्तैयऴिक्कुमॆऩ्ऱु सॊल्लप्पट्टदु। 
@@ -1630,6 +1682,12 @@ Entonces también se dice:
 
 उदासीनरै तृणवत् करिक्क वेणुम् ऎऩ्ऩुम् इडम्,  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उदासीनास् तृणवत् कार्या इत्य्-एतत् -
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1694,6 +1752,15 @@ Que aquellos que **no son** ni el uno ni el otro
 यूयम् इन्द्रिय-किङ्कराः॥+++(5)+++
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नास्ति सङ्गतिर् अस्माकं  
+युष्माकञ् च परस्-परम् ।  
+वयन् तु किङ्करा विष्णोर्  
+यूयम् इन्द्रिय-किङ्कराः॥+++(5)+++
+</details>
+
+
 <details><summary>English</summary>
 
 > (So) there cannot be any companionship between you and us.  
@@ -1720,6 +1787,11 @@ Que aquellos que **no son** ni el uno ni el otro
 इत्य्-आदिगळिले प्रसिद्धम्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-आदिषु प्रसिद्धम् । 
+</details>
+
 <details><summary>English</summary>
 
 is well known from ślokas like the above ~~following~~.
@@ -1738,7 +1810,10 @@ is well known from ślokas like the above ~~following~~.
 ### शास्त्रीयान्तरोपलक्षणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्-पडि "मुऩ्ऩडि पार्त्तु **वर्तिक्क वेणुम्**"  
+इप्-पडि 
+
+> "मुऩ्ऩडि पार्त्तु **वर्तिक्क वेणुम्**"  
+
 ऎऩ्ऱ् अरुळिच्-चॆय्दव् अर्थम्  
 **शास्त्रैक-वेद्यम् आगैयाले**  
 शास्त्रीयङ्गळुक्कु **उपलक्षणम् आग**  
@@ -1751,6 +1826,23 @@ is well known from ślokas like the above ~~following~~.
 
 ऎऩ्ऱु सूचितम्।  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं 
+
+> अग्र-पद-दर्शं प्रवर्तितव्यम्  
+
+इति स्वानुगृहीतस्यार्थस्य शास्त्रैक-वेद्यत्वात्  
+शास्त्रीयाणाम् उपलक्षण-रूपेण  
+
+> सारोद्धार-पूर्वकम् एभिर् अनुगृहीतानां कैङ्कर्याणाम् अपि  
+> स्वेच्छयाऽनुष्ठातुम् अ-युक्तत्वात्  
+> शास्त्रीय-नियमैः सहानुष्ठितत्वे एव कैङ्कर्य-सिद्धिर् 
+
+इति सूचितं भवति । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1765,13 +1857,13 @@ in order that they may become real and proper services.
 
 <details><summary>Español</summary>
 
-Las palabras que la Prapanna debe caminar con cautela (para que no caiga en trampas)
-Indique que los (cinco) servicios ordenados como esenciales por el Bhāṣyakāra (en sus palabras citadas anteriormente)
-pararse en la misma categoría que los servicios como Sandhyāvandana
-que solo se puede aprender de los Śāstras
-y eso, por esa razón,
-Estos cinco también deben hacerse de acuerdo con las medidas cautelares prescritas en los Śāstras,
-Para que puedan convertirse en servicios reales y adecuados.
+Las palabras que la Prapanna **debe caminar** con cautela (para que **no caiga** en trampas)  
+Indique que los (cinco) servicios **ordenados** como esenciales por el Bhāṣyakāra (en sus palabras **citadas** anteriormente)  
+**pararse** en la misma categoría que los servicios como Sandhyāvandana  
+que solo se **puede aprender** de los Śāstras  
+y eso, por esa razón,  
+Estos cinco también **deben hacerse** de acuerdo con las medidas cautelares **prescritas** en los Śāstras,  
+Para que **puedan convertirse** en servicios reales y adecuados.
 </details>
 
 
@@ -1781,10 +1873,309 @@ Para que puedan convertirse en servicios reales y adecuados.
 </details>
 
 
+<details><summary>English</summary>
+
+It may be asked: 
+
+> ("How can his (Śrī Rāmānuja's) words be interpreted  
+> to include also those rites and duties that are prescribed in the śāstras  
+> and that these five services which he has specifically mentioned  
+> should also be done according to the śāstras?") 
+</details>
+
+<details><summary>Español</summary>
+
+Se **puede preguntar**:
+
+> ("¿Cómo se **pueden interpretar** sus (Śrī Rāmānuja) palabras  
+> a incluir también aquellos ritos y deberes que se prescriben en los Śāstras  
+> y que estos cinco servicios que ha mencionado específicamente  
+> también se **debe hacer** de acuerdo con los Śāstras? ")
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+>> वेण्डिऱ्ऱुच् चॆय्दु  
+> तिरियव्+++(=भ्रान्तुम्)+++ अमैयुमोव्+++(=योग्यमो)+++  
+> 
+> ऎऩ्ऩिल् अद् इवऩुक्कु स्वरूपम् अऩ्ऱ्'  
+
+ऎऩ्ऱ् अरुळिच् चॆय्द पडियाले  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+>> "स्वैरं तत् तत् कुर्वता  
+> किं संचरितुं युक्तम्? 
+> 
+> इति चेत् - तद् अस्य न स्व-रूपम्" 
+
+इत्य् अनुगृहीततया,  
+</details>
+
+
+<details><summary>English</summary>
+
+(The answer is that) it is clear from the Bhāṣyakara's words 
+
+> "If he should go about doing as he likes,  
+> it would be against his svarūpa or essential nature." 
+</details>
+
+<details><summary>Español</summary>
+
+(La respuesta es que) está claro por las palabras del bhāṣyakara
+
+> "Si él **deba hacer** lo que **quiera**,  
+> **Sería contra** su svarūpa o naturaleza esencial ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+'वेण्डिऱ्ऱुच् चॆय्दु तिरियवमैयुमो वॆऩ्ऩिल् अदिवऩुक्कु स्वरूपमऩ्ऱ्' ऎऩ्ऱरुळिच्चॆय्दबडियाले  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘अशास्त्रम् आसुरं कृत्स्नं’’(गीतार्थ-सङ्ग्रहः २१।) 
+
+ऎऩ्ऱु आळवन्दार् अरुळिच् चॆय्द बडिये  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘अशास्त्रम् आसुरं कृत्स्नं’’(गीतार्थ-सङ्ग्रहः २१।) 
+
+इति श्री-यामुनाचार्यानुगृहीत-रीत्या  
+</details>
+
+<details><summary>English</summary>
+
+As Aḷavandār puts it, 
+
+> "Whatever agrees not with the śāstras is Āsuric in nature";  
+</details>
+
+<details><summary>Español</summary>
+
+Como dice Aḷavandār,
+
+> "Lo que sea que **no esté de acuerdo** con los Śāstras es de naturaleza āsuric;  
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘अशास्त्रमासुरं कृत्स्नं’’(गीतार्थ-सङ्ग्रहः २१।) ऎऩ्ऱु आळवन्दाररुळिच्चॆय्दबडिये  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्र-विरुद्धङ्गळ्  
+दैव-प्रकृतिय् आऩय् इवऩ्-स्वरूपत्तुक्कुप्  
+**पॊरुन्दामैयालुम्**+++(=अनङ्गीकार्यत्वात्)+++, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शास्त्र-विरुद्धानां  
+देव-प्रकृतेर् अस्य स्व-रूपाननुरूपतया च  
+</details>
+
+
+<details><summary>English</summary>
+
+those sections that are opposed to the śāstras  
+are inconsistent with his Nature which is godl. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Esas secciones que **se oponen** a los Śāstras  
+**son inconsistentes** con su naturaleza que es piadosa.
+</details>
+
+<details><summary>मूलम्</summary>
+
+शास्त्रविरुद्धङ्गळ् दैवप्रकृतियाऩयिवऩ् स्वरूपत्तुक्कुप् पॊरुन्दामैयालुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> श्रुतिस् स्मृतिर् **ममैवाज्ञा**  
+यस् ताम् **उल्लङ्घ्य** वर्तते ।  
+**आज्ञा-च्छेदी** मम **द्रोही**  
+मद्-भक्तोऽपि न वैष्णवः॥  
+(विष्णुधर्मः ६-३१।) 
+</details>
+
+<details><summary>विषयः</summary>
+
+शास्त्रम्, वेदः, स्मृतिः, वैष्णवः, आचारः
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> श्रुतिस् स्मृतिर् **ममैवाज्ञा**  
+यस् ताम् **उल्लङ्घ्य** वर्तते ।  
+**आज्ञा-च्छेदी** मम **द्रोही**  
+मद्-भक्तोऽपि न वैष्णवः॥  
+(विष्णुधर्मः ६-३१।) 
+</details>
+
+
+<details><summary>English</summary>
+
+> "The śruti and the smṛtis are indeed my commands.  
+> He who transgresses them violates my commands.  
+> He does injury to me.  
+> Though he may be devoted to me he should not be called a Vaiṣṇava". 
+</details>
+
+<details><summary>Español</summary>
+
+> El Śruti y los Smṛtis **son** de hecho mis comandos.  
+> El que los **transgrede, viola** mis mandamientos.  
+> Él me **da** una lesión.  
+> Aunque **puede ser dedicado** a mí, **no debe ser llamado** Vaiṣṇava.
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘श्रुतिस्स्मृतिर्ममैवाज्ञा  
+यस्तामुल्लङ्घ्य वर्तते ।  
+आज्ञाच्छेदी मम द्रोही  
+मद्भक्तोऽपि न वैष्णवः’’  
+(विष्णुधर्मः ६-३१।) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु अडिमै-गॊळ्ळुगिऱ् अवऩ् अरुळिच् चॆय्द पडियालुम्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति दास्य-ग्राहिणा (स्वामिना) अनुगृहीतत्वाच् च  
+</details>
+
+
+<details><summary>English</summary>
+
+~~Further~~ Thus it has been said by the Lord, who is entitled to our service. 
+</details>
+
+<details><summary>Español</summary>
+
+~~ Además ~~ Esto ha sido dicho por el Señor, que tiene derecho a nuestro servicio.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु अडिमैगॊळ्ळुगिऱवऩरुळिच्चॆय्दबडियालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवऩ् शरीरत्तोड् इरुन्द कालम्  
+शास्त्र-वश्यऩ् आय् अडिमै सॆय्य वेणुमॆऩ्ऱु तिरुव्-उळ्ळम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनेन यावच्-छरीर-स्थिति शास्त्र-वश्येन दास्यं कर्तव्यम्  
+इति तात्पर्यम् । 
+</details>
+
+<details><summary>English</summary>
+
+Śrī Rāmānuja's meaning is that,  
+since the Master has also made this declaration,  
+the prapanna should serve in accordance with the śāstras  
+as long as he lives in the body. 
+</details>
+
+<details><summary>Español</summary>
+
+El significado de Śrī Rāmānuja es que,  
+Dado que el maestro también **ha hecho** esta declaración,  
+La Prapanna debe **servir** de acuerdo con los śāstras  
+Mientras **viva** en el cuerpo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इवऩ्शरीरत्तोडिरुन्द कालम्शास्त्रवश्यऩायडिमै सॆय्य वेणुमॆऩ्ऱु तिरुवुळ्ळम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निज-कर्मादि-भक्त्य्-अन्तं  
+**कुर्यात्** प्रीत्यैव कारितः ।  
+उपायतां **परित्यज्य**  
+**न्यस्येद्** देवे तु ताम् अभीः॥  
+(गीतार्थ-सङ्ग्रहः ३१)  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> निज-कर्मादि-भक्त्य्-अन्तं  
+**कुर्यात्** प्रीत्यैव **कारितः** ।  
+उपायतां **परित्यज्य**  
+**न्यस्येद्** देवे तु ताम् अ-भीः॥  
+(गीतार्थ-सङ्ग्रहः ३१)  
+</details>
+
+
+<details><summary>विषयः</summary>
+
+भक्तिः, शास्त्रम्
+</details>
+
+<details><summary>English</summary>
+
+> "From the karmas pertaining to one's varṇa and āśrama to bhakti yoga,  
+one should perform everything, directed by love alone (of the Lord).  
+One should give up the notion that these are upāyas or means (for attaining one's ends).  
+One should place the upāya, without fear, on God;  
+(i.e) one should realise that Bhagavān is alone the upāya)". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Desde los karmas relacionados con el varṇa y āśrama hasta bhakti yoga,  
+Uno **debe realizar** todo, **dirigido** por el amor solo (del Señor).  
+Uno **debe renunciar** a la noción de que estos **son** upāyas o medios (para alcanzar los fines de uno).  
+Uno **debe colocar** el upāya, sin miedo, en Dios;  
+(es decir) uno **debe darse** cuenta de que Bhagavān es solo el upāya) ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘निजकर्मादिभक्त्यन्तं कुर्यात् प्रीत्यैव कारितः ।  
+उपायतां परित्यज्य न्यस्येद्देवे तु तामभीः’’  
+(गीतार्थ-सङ्ग्रहः ३१)  
+</details>
 
 
 
-It may be asked: ("How can his (Śrī Rāmānuja's) words be interpreted to include also those rites and duties that are prescribed in the śāstras and that these five services which he has specifically mentioned should also be done according to the śāstras?") The answer is that it is clear from the Bhāṣyakara's words "If he should go about doing as he likes, it would be against his svarūpa or essential nature." As Aḷavandār puts it, "Whatever agrees not with the śāstras is Āsuric in nature; those sections that are opposed to the śāstras are inconsistent with his Nature which is godly". Further it has been said by the Lord who is entitled to our service - "The śruti and the smṛtis are indeed my commands. He who transgresses them violates my commands. He does injury to me. Though he may be devoted to me he should not be called a Vaiṣṇava". Śrī Rāmānuja's meaning is that, since the Master has also made this declaration, the prapanna should serve in accordance with the śāstras as long as he lives in the body. In his Gītārtha Sangraha Aḷavandār says : - "From the karmas pertaining to one's varṇa and āśrama to bhakti yoga, one should perform everything, directed by love alone (of the Lord). One should give up the notion that these are upāyas or means (for attaining one's ends). One should place the upāya without fear on God; (i.e) one should realise that Bhagavān is alone the upāya)". It is obvious that 'by love alone' excludes the notion that it is an upāya owing to the word 'alone' and this idea is elaborated in "having given up the notion that these are upāyas or means". It is true that the love (of the Lord) is indicated as having a wonderful power of inspiring one to service prescribed in the śāstra. But in the words "from the karmas pertaining to one's varṇa and āśrama", it is shown that the nature of these karmas has to be ascertained only from the śāstras.
+
+
+In his Gītārtha Sangraha Aḷavandār says (thus).
+
+
+
+It is obvious that 'by love alone' excludes the notion that it is an upāya owing to the word 'alone' and this idea is elaborated in "having given up the notion that these are upāyas or means". It is true that the love (of the Lord) is indicated as having a wonderful power of inspiring one to service prescribed in the śāstra. But in the words "from the karmas pertaining to one's varṇa and āśrama", it is shown that the nature of these karmas has to be ascertained only from the śāstras.
 
 This ordinance imposed by the śāstras is well known from the following ślokas in the chapter on prapatti : " In order that there may be no violation of dharma, for the protection of the family, for keeping ignorant men in the right path by setting them an example, for the preservation of the moral law as defined in the śāstras, for my (Lakṣmī 's ) satisfaction and for the satisfaction of the Lord armed with Sarnga who is the God of all gods, the prapanna who is wise should aot even think of transgressing the ordinances of the Veda". The evil that would result from the transgression is described immediately afterwards as follows : “Even a king's favourite, who, because it serves no purpose of his own, destroys the bund of a river dug by the king's orders, which is of great use to the world, is beautiful in itself and causes abundance of crops, - even he will be impaled for having done so ; So also though he may be dear, the man who violates the ordinances of the Vedas is no favourite of mine inasmuch as he violates my commands.” If, having offended the Lord, the prapanna does not seek pardon, it will produce, before he attains mukti, some evil or other in accordance with his specific qualification.
 
