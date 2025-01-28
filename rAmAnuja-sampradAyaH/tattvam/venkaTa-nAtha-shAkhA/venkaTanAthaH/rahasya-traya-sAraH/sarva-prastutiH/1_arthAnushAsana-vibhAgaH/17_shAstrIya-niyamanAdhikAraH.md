@@ -2116,13 +2116,13 @@ Mientras **viva** en el cuerpo.
 इवऩ्शरीरत्तोडिरुन्द कालम्शास्त्रवश्यऩायडिमै सॆय्य वेणुमॆऩ्ऱु तिरुवुळ्ळम्। 
 </details>
 
-
+## यामुनोपदेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > निज-कर्मादि-भक्त्य्-अन्तं  
 **कुर्यात्** प्रीत्यैव कारितः ।  
 उपायतां **परित्यज्य**  
-**न्यस्येद्** देवे तु ताम् अभीः॥  
+**न्यस्येद्** देवे तु ताम् अभीः॥  +++(5)+++
 (गीतार्थ-सङ्ग्रहः ३१)  
 </details>
 
@@ -2131,7 +2131,7 @@ Mientras **viva** en el cuerpo.
 > निज-कर्मादि-भक्त्य्-अन्तं  
 **कुर्यात्** प्रीत्यैव **कारितः** ।  
 उपायतां **परित्यज्य**  
-**न्यस्येद्** देवे तु ताम् अ-भीः॥  
+**न्यस्येद्** देवे तु ताम् अ-भीः॥  +++(5)+++
 (गीतार्थ-सङ्ग्रहः ३१)  
 </details>
 
@@ -2169,17 +2169,452 @@ Uno **debe colocar** el upāya, sin miedo, en Dios;
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु श्री-गीतार्थ-संग्रहत्तिल्  
+‘‘प्रीत्यैव’’ ऎऩ्गिऱव् अवधारणत्ताले  
+साधनत्व-बुद्धियै व्यवच्छेदित्तार् ऎऩ्ऩुम् इडम्  
+‘‘उपायतां परित्यज्य’’ ऎऩ्ऱु विवरिक्कैयाले+++(=विवरणेनैव)+++ व्यक्तम्। +++(4)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१३८]]  
+इति श्री-गीतार्थ-संग्रहे  
+"प्रीत्यैव" इत्य्-अवधारणेन  
+साधनत्व-बुद्धिं व्यवच्छिनत्ति स्मेत्येतत्,  
+“उपायतां परित्यज्य" इति विवरणात् व्यक्तम् । 
+</details>
 
 
-In his Gītārtha Sangraha Aḷavandār says (thus).
+<details><summary>English</summary>
+
+In his Gītārtha Sangraha Aḷavandār says (thus).  
+It is obvious that  
+'by love alone' excludes the notion that it is an upāya  
+owing to the word 'alone'  
+and this idea is elaborated in  
+
+> "having given up the notion that these are upāyas or means". 
+</details>
+
+<details><summary>Español</summary>
+
+En su gītārtha-sangraha aḷavandār **dice** (así).  
+Es obvio que  
+'por amor solo' excluye la noción de que es un upāya  
+debido a la palabra 'solo'  
+y esta idea se elabora en
+
+> "Habiendo renunciado a la noción de que estos son upāyas o medios".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु श्रीगीतार्थसंग्रहत्तिल् ‘‘प्रीत्यैव’’ ऎऩ्गिऱववधारणत्ताले साधनत्वबुद्धियै व्यवच्छेदित्तारॆऩ्ऩुमिडम् ‘‘उपायतां परित्यज्य’’ ऎऩ्ऱु विवरिक्कैयाले व्यक्तम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+शास्त्रीय-कैङ्कर्यत्तिल् प्रीतियिऩ्-उडैय प्रेरकत्वातिशयम् विवक्षितम् आऩालुम् 
+</details>
 
 
 
-It is obvious that 'by love alone' excludes the notion that it is an upāya owing to the word 'alone' and this idea is elaborated in "having given up the notion that these are upāyas or means". It is true that the love (of the Lord) is indicated as having a wonderful power of inspiring one to service prescribed in the śāstra. But in the words "from the karmas pertaining to one's varṇa and āśrama", it is shown that the nature of these karmas has to be ascertained only from the śāstras.
+<details><summary>English</summary>
 
-This ordinance imposed by the śāstras is well known from the following ślokas in the chapter on prapatti : " In order that there may be no violation of dharma, for the protection of the family, for keeping ignorant men in the right path by setting them an example, for the preservation of the moral law as defined in the śāstras, for my (Lakṣmī 's ) satisfaction and for the satisfaction of the Lord armed with Sarnga who is the God of all gods, the prapanna who is wise should aot even think of transgressing the ordinances of the Veda". The evil that would result from the transgression is described immediately afterwards as follows : “Even a king's favourite, who, because it serves no purpose of his own, destroys the bund of a river dug by the king's orders, which is of great use to the world, is beautiful in itself and causes abundance of crops, - even he will be impaled for having done so ; So also though he may be dear, the man who violates the ordinances of the Vedas is no favourite of mine inasmuch as he violates my commands.” If, having offended the Lord, the prapanna does not seek pardon, it will produce, before he attains mukti, some evil or other in accordance with his specific qualification.
+It is true that the love (of the Lord) is indicated  
+as having a wonderful power of inspiring one to service prescribed in the śāstra. 
+</details>
 
-That apart, there is no greater hell (for the prapanna) than the displeasure caused to Bhagavān. This displeasure of Bhagavān will disappear if he obtains pardon. (As the Gita says) Iśvara, by His very nature, is full of love to all. So till His displeasure disappears, it will give the prapanna excruciating pain. If the man has no such pain, his devotion to the Master and his desire for rendering service after mokṣa  have to be doubted.
+<details><summary>Español</summary>
+
+Es cierto que el amor (del Señor) está indicado  
+como tener un poder maravilloso de inspirar uno  
+a el servicio prescrito en el Śāstra.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शास्त्रीयकैङ्कर्यत्तिल् प्रीतियिऩुडैय प्रेरकत्वातिशयम् विवक्षितमाऩालुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘निज-कर्मादि-भक्त्य्-अन्तम्’’  
+
+ऎऩ्गिऱव् इवऱ्ऱिऩ् +++(→कर्मणां)+++ स्वरूपत्तुक्कु शास्त्रमे प्रमाणम् 
+
+ऎऩ्ऩुम् इडम्  
+निज+++(→वर्णाश्रम-विशिष्ट)+++-कर्म-शब्दत्ताले दर्शितम् आयिऱ्ऱु। +++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+But in the words "from the karmas pertaining to one's varṇa and āśrama",  
+it is shown that the nature of these karmas has to be ascertained only from the śāstras.
+</details>
+
+<details><summary>Español</summary>
+
+Pero en las palabras "de los karmas relacionados con el varṇa y āśrama",  
+Se muestra que la naturaleza de estos karmas  
+**debe determinarse** solo de los Śāstras.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘निजकर्मादिभक्त्यन्तं’’ ऎऩ्गिऱविवऱ्ऱिऩ् स्वरूपत्तुक्कु शास्त्रमे प्रमाणमॆऩ्ऩुमिडम्निजकर्मशब्दत्ताले दर्शितमायिऱ्ऱु। 
+</details>
+
+## अनिष्टापत्तिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इच्-शास्त्रीय नियमम् 
+</details>
+
+<details><summary>English</summary>
+
+(Regarding) This ordinance imposed by the śāstras 
+</details>
+
+<details><summary>Español</summary>
+
+(Acerca de) Esta ordenanza impuesta por los Śāstras
+</details>
+
+<details><summary>मूलम्</summary>
+
+इच्शास्त्रीय नियमम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **अविप्लवाय** धर्माणां 
+> **पालनाय** कुलस्य च ।  
+> **संग्रहाय** च लोकस्य  
+> मर्यादा-**स्थापनाय** च ॥ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **अविप्लवाय** धर्माणां 
+> **पालनाय** कुलस्य च ।  
+> **संग्रहाय** च लोकस्य  
+> मर्यादा-**स्थापनाय** च ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+> "In order that there may be no violation of dharma,  
+> for the protection of the family,  
+> for keeping ignorant men in the right path by setting them an example,  
+> for the preservation of the moral law as defined in the śāstras,  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Para que **no haya violación** del dharma,  
+> Para la **protección** de la familia,  
+> para **mantener** a los hombres ignorantes en el camino correcto al establecerles un ejemplo,  
+> Para la **preservación** de la ley moral definida en los Śāstras,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अविप्लवाय धर्माणां पालनाय कुलस्य च । संग्रहाय च लोकस्य मर्यादास्थापनाय च ॥ 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> प्रियाय मम विष्णोश्च  
+> देवदेवस्य शार्ङ्गिणः ।  
+> मनीषी वैदिकाचारं  
+> **मनसापि न लङ्घयेत्॥** +++(5)+++  
+> (लक्ष्मीतन्त्रम् १७-९३,-९४।) 
+</details>
+
+<details><summary>विषयः</summary>
+
+शास्त्रम्
+</details>
+
+<details><summary>English</summary>
+
+> for my (Lakṣmī 's ) satisfaction  
+> and for the satisfaction of the Lord armed with Sarnga,  
+> who is the God of all gods,  
+> the prapanna who is wise should not even think of transgressing the ordinances of the Veda. 
+</details>
+
+<details><summary>Español</summary>
+
+> Por mi (lakṣmī 's) satisfacción  
+> Y por la satisfacción del Señor armado con Sarnga,  
+> quién es el dios de todos los dioses,  
+> La Prapanna que es sabia  
+> **ni siquiera debería pensar en transgredir** las ordenanzas del Veda.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रियाय मम विष्णोश्च देवदेवस्य शार्ङ्गिणः । मनीषी वैदिकाचारं मनसापि न लङ्घयेत्’’(लक्ष्मीतन्त्रम् १७-९३,-९४।) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु प्रपत्त्य्-अध्यायत्तिले प्रसिद्धम्। 
+</details>
+
+<details><summary>English</summary>
+
+(It) is well known from the ~~following~~ above ślokas in the chapter on prapatti. 
+</details>
+
+<details><summary>Español</summary>
+
+(Es) bien **conocido** por el ~~ siguiente ~~ encima de Ślokas en el capítulo sobre Prapatti.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु प्रपत्त्यद्ध्यायत्तिले प्रसिद्धम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदु तविर्न्द पोदु **वरुम् अनिष्टमुम्** 
+</details>
+
+<details><summary>English</summary>
+
+(Regarding) The evil that would result from the transgression 
+</details>
+
+<details><summary>Español</summary>
+
+(Con respecto) el mal que resultaría de la transgresión
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदु तविर्न्द पोदु वरुमनिष्टमुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यथा हि वल्लभो राज्ञो  
+नदीं राज्ञा **प्रवर्तिताम्** ।  
+लोकोपयोगिनीं रम्यां  
+बहु-सस्य-**विवर्धनीम्** ॥  
+**लङ्घयन्** शूलम् आरोहेद्  
+**अनपेक्षो** ऽपि तां प्रति ।  +++(5)+++
+</details>
+
+<details><summary>विषयः</summary>
+
+शास्त्रम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> यथा हि वल्लभो राज्ञो  
+नदीं राज्ञा **प्रवर्तिताम्** ।  
+लोकोपयोगिनीं रम्यां  
+बहु-सस्य-**विवर्धनीम्** ॥  
+**लङ्घयन्** शूलम् आरोहेद्  
+**अनपेक्षो** ऽपि तां प्रति ।  +++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+> “Even a king's favourite, who,  
+> because it serves no purpose of his own,  
+> destroys the bund of a river dug by the king's orders,  
+> which is of great use to the world,  
+> is beautiful in itself and causes abundance of crops, -  
+> even he will be impaled for having done so ;  
+</details>
+
+<details><summary>Español</summary>
+
+> "Incluso el favorito de un rey, que,  
+> Porque **no sirve** para su propio propósito,  
+> **Destruye** el grupo de un río **excavado** por las órdenes del rey,  
+> que **es de gran utilidad** para el mundo,
+> **es hermoso** en sí mismo  
+> y **causa abundancia** de cultivos, -
+> Incluso él **será empalado** por **haberlo hecho**;
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यथा हि वल्लभो राज्ञो नदीं राज्ञाप्रवर्तिताम् ।  
+लोकोपयोगिनीं रम्यां बहुसस्यविवर्धनीम् ॥  
+लङ्घयन् शूलमारोहेदनपेक्षोऽपि तां प्रति ।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> एवं **विलङ्घयन्** मर्त्यो  
+मर्यादां वेद-**निर्मिताम्** ॥  
+प्रियोऽपि **न प्रियो** ऽसौ मे  
+मद्-आज्ञा-**व्यतिवर्तनात्**॥+++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> एवं **विलङ्घयन्** मर्त्यो  
+मर्यादां वेद-**निर्मिताम्** ॥  
+प्रियोऽपि **न प्रियो** ऽसौ मे  
+मद्-आज्ञा-**व्यतिवर्तनात्**॥+++(5)+++
+</details>
+
+<details><summary>विषयः</summary>
+
+शास्त्रम्
+</details>
+
+<details><summary>English</summary>
+
+> So also though he may be dear,  
+> the man who violates the ordinances of the Vedas is no favourite of mine  
+> inasmuch as he violates my commands.
+</details>
+
+<details><summary>Español</summary>
+
+> Así también aunque **sea querido**  
+> El hombre que **viola las ordenanzas** de los Vedas **no es** mi favorito  
+> en la medida en que él **viola** mis órdenes.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+एवं विलङ्घयन् मर्त्यो मर्यादां वेदनिर्मिताम् ॥  
+प्रियोऽपि न प्रियोऽसौ मे मदाज्ञाव्यतिवर्तनात्
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् अनन्तरञ् **जॊल्लप्पट्टदु।** 
+</details>
+
+<details><summary>English</summary>
+
+(This) is described immediately afterwards as ~~follows~~ above. 
+</details>
+
+<details><summary>Español</summary>
+
+(Esto) se describe inmediatamente después, ya que ~~ sigue ~~ arriba.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱनन्तरञ् जॊल्लप्पट्टदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द भगवद्-अ-प्रीतिक्कु क्षमै कॊण्डिलऩ् आगिल्  
+मुक्तऩ् आवदऱ्कु मुऩ्ऩे  
+अधिकारानुरूपम् आग  
+एद् एऩुम् ऒरुव् अनिष्ठत्तै **विळैप्पिक्कुम्।** 
+</details>
+
+<details><summary>English</summary>
+
+If, having offended the Lord,  
+the prapanna does not seek pardon,  
+it will produce, before he attains mukti,  
+some evil or other in accordance with his specific qualification.
+</details>
+
+<details><summary>Español</summary>
+
+Si, **habiendo ofendido** al Señor,  
+La Prapanna **no busca perdón**,  
+**producirá**, antes de **alcanzar** Mukti,
+algún mal u otro de acuerdo con su calificación específica.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इन्द भगवदप्रीतिक्कु क्षमै कॊण्डिलऩागिल् मुक्तऩावदऱ्कु मुऩ्ऩे अधिकारानुरूपमाग एदेऩुमॊरु वनिष्ठत्तै विळैप्पिक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अदु निऱ्क  
+सत्त्व-प्रकृतिय् आऩव् इवऩुक्कु  
+भगवद्-अप्रीतिक्कु मेऱ्-पट्ट नरकम् इल्लै। +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+That apart, there is no greater hell (for the prapanna) than the displeasure caused to Bhagavān. +++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+Aparte, **no hay** mayor infierno (para la Prapanna)  
+que el **disgusto causado** a Bhagavān.+++(5)+++
+</details>
+
+<details><summary>मूलम्</summary>
+
+अदु निऱ्क सत्वप्रकृतियाऩविवऩुक्कु भगवदप्रीतिक्कु मेऱ्पट्ट नरकमिल्लै।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अन्द भगवद्-अ-प्रीति-शमिप्पदुम् पिऩ्बु क्षमै-गॊळ्ळिल्, 
+</details>
+
+<details><summary>English</summary>
+
+This displeasure of Bhagavān will disappear  
+if he obtains pardon. 
+</details>
+
+<details><summary>Español</summary>
+
+Este disgusto de bhagavān **desaparecerá**  
+si **obtiene** perdón.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अन्द भगवदप्रीतिशमिप्पदुम् पिऩ्बु क्षमैगॊळ्ळिल्, 
+</details>
+
+
+
+(As the Gita says) Iśvara, by His very nature, is full of love to all. So till His displeasure disappears, it will give the prapanna excruciating pain. If the man has no such pain, his devotion to the Master and his desire for rendering service after mokṣa  have to be doubted.
 
 Since this violation of the Lord's command is opposed to the Lord's pleasure which is our final goal as stated in the śloka  : "When shall I, Thy servant, look upon Thee alone as my Master and give Thee delight by rendering service ?" the observance of the ordinances of the śāstras has to be understood in those places in the three mysteries (mantras) where the removal of obstacles is referred to. In the case of those who have not completed their adoption of prapatti the upāya, the observance of these ordinances will remove the hindrances or obstacles to the completion of prapatti and win for them the grace of the Lord. In the case of those whose adoption of the upāya is complete, it will win the favour of the Lord by removing the causes that might bring about His displeasure (in future).
 
