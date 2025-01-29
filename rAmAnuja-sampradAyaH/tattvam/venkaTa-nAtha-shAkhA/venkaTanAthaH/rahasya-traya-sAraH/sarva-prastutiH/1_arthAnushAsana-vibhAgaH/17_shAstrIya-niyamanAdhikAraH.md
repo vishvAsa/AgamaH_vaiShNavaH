@@ -2694,6 +2694,15 @@ le **dará** el dolor insoportable a Prapanna.
 शङ्किक्कव् अडुक्कुम्+++(=व्यवस्थातव्यम्??)+++। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अन्-एवम्-भूतस्य स्वामि-विषये प्रावण्यम्,  
+कैङ्कर्यरूपे मोक्षे रुचिश् च शङ्कितव्ये भवतः ।+++(5)+++ 
+
+[[१३९]] 
+</details>
+
+
 <details><summary>English</summary>
 
 If the man has no such pain,  
@@ -2727,6 +2736,14 @@ tengo que **ser dudado**.
 इश् शास्त्रीय-नियमम्  
 रहस्य-त्रयत्तिल् विरोधि-निवृत्तियै अनुसन्धिक्कुम् इडङ्गळिले  
 **अनुसन्धिक्कप् प्राप्तम्।** 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्याज्ञातिलङ्घनस्य  
+‘‘प्रहर्षयिष्यामि’’ इति **उद्देश्याया** भगवत्-प्रीतेर् **विरोधित्वात्**  
+अयं शास्त्रीय-नियमो  
+रहस्य-त्रये विरोधि-निवृत्त्य्-अनुसन्धान-प्रदेशेषु **अनुसन्धातुम् अर्हः** । 
 </details>
 
 
@@ -2766,13 +2783,98 @@ donde **se menciona** la eliminación de obstáculos.
 </details>
 
 
+## शास्त्रीय-नियमानुवर्तन-फलम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्द नियमानुवर्तनम्  
+पूर्णोपायर् अल्लादव् अधिकारिगळुक्कु  
+**उपाय-पूर्ति-विरोधियै शमिप्पित्तुक्** कॊण्डु  
+भगवत् **प्रसादनम् आय् इरुक्कुम्।**  
+</details>
+
+<details><summary>English</summary>
+
+In the case of those who have not completed their adoption of prapatti the upāya,  
+the observance of these ordinances will remove the hindrances or obstacles to the completion of prapatti  
+and win for them the grace of the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de aquellos que **no han completado** su adopción de Prapatti the Upāya,  
+La observancia de estas ordenanzas **eliminará** los obstáculos u obstáculos para completar Prapatti  
+y **ganar** para ellos la gracia del Señor.
+</details>
 
 
-In the case of those who have not completed their adoption of prapatti the upāya, the observance of these ordinances will remove the hindrances or obstacles to the completion of prapatti and win for them the grace of the Lord. In the case of those whose adoption of the upāya is complete, it will win the favour of the Lord by removing the causes that might bring about His displeasure (in future).
+<details><summary>मूलम्</summary>
+
+इन्द नियमानुवर्तनम् पूर्णोपायरल्लादवधिकारिकळुक्कु उपायपूर्तिविरोधियै शमिप्पित्तुक्कॊण्डु भगवत् प्रसादनमायिरुक्कुम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+पूर्णोपायरुक्क् अतिलङ्घन-हेतुकाप्रीति **पिऱवाद** बडि पण्णिक् कॊण्डु  
+भगवत्-**प्रीणनम् आय् इरुक्कुम्।**  
+</details>
+
+<details><summary>English</summary>
+
+In the case of those whose adoption of the upāya is complete,  
+it will win the favour of the Lord  
+by removing the causes that might bring about His displeasure (in future).
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de aquellos cuya adopción del upāya **está completa**,
+**Gana** el favor del Señor
+**eliminando** las causas que podrían provocar su disgusto (en el futuro).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+पूर्णोपायरुक्कतिलङ्घनहेतुकाप्रीति पिऱवादबडि पण्णिक् कॊण्डु भगवत्प्रीणनमायिरुक्कुम्।  
+</details>
+
+
+## उपसंहारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आज्ञानुज्ञा-विभागेन  
+द्विधा शास्त्रीय-पद्धतिः ।  
+निग्रहानुदयायाद्या  
+परा तत्-तत्-फलाप्तये ॥  
+</details>
+
+<details><summary>English</summary>
+
+The paths indicated in the śāstras deal with acts or rites of two kinds: obligatory and permissive.  
+The former have to be done for avoiding the Lord's punishment  
+and the latter for obtaining the respective benefits.
+</details>
+
+<details><summary>Español</summary>
+
+Los caminos indicados en los Śāstras **tratan** con actos o ritos de dos tipos: obligatorios y permisivos.  
+Se **debe hacer** el primero para **evitar** el castigo del Señor  
+y este último para **obtener** los beneficios respectivos.
+</details>
+
+<details><summary>मूलम्</summary>
+
+आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । निग्रहानुदयायाद्या परा तत्तत्फलाप्तये ॥  
+</details>
+
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । ग्रहानुदयायाद्या परा तत्तत्फलाप्तये ॥  
 अनुज्ञया प्रवृत्तेऽपि क्रमकोपादिसंभवे । आज्ञातिक्रमदोषस्स्यान्नियमोऽतो दुरत्ययः ॥  
 प्रत्यवायपरीहारे फलान्तरसमन्विते । तत्र संवलितं प्राहुरधिकारं विचक्षणाः ॥  
 नित्यकाम्यस्वरूपैक्ये विनियोगपृथक्त्वतः । फलार्थं क्रियमाणेऽपि नित्यं भवति तन्त्रतः ॥  
@@ -2781,14 +2883,13 @@ In the case of those who have not completed their adoption of prapatti the upāy
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-आज्ञानुज्ञाविभागेन द्विधा शास्त्रीयपद्धतिः । ग्रहानुदयायाद्या परा तत्तत्फलाप्तये ॥  
 अनुज्ञया प्रवृत्तेऽपि क्रमकोपादिसंभवे । आज्ञातिक्रमदोषस्स्यान्नियमोऽतो दुरत्ययः ॥  
 प्रत्यवायपरीहारे फलान्तरसमन्विते । तत्र संवलितं प्राहुरधिकारं विचक्षणाः ॥  
 नित्यकाम्यस्वरूपैक्ये विनियोगपृथक्त्वतः । फलार्थं क्रियमाणेऽपि नित्यं भवति तन्त्रतः ॥  
 अनुज्ञामात्रसिद्धेषु कैङ्कर्येषु विचक्षणैः । अकृतौ तत्फलालाभो न तु दोष इतीरितम् ॥३८-अ-उ ॥
 </details>
 
-The paths indicated in the śāstras deal with acts or rites of two kinds: obligatory and permissive. The former have to be done for avoiding the Lord's punishment and the latter for obtaining the respective benefits.
+
 
 Even when a permissible act is performed, if there is violation of the prescribed method, it becomes an offence or violation of the command. Therefore transgression of the rule prescribed in the śastra is nowhere countenanced.
 
