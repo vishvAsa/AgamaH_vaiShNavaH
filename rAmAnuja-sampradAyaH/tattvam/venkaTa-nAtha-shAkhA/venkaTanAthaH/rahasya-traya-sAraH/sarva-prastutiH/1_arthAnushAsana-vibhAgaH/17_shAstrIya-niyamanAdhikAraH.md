@@ -2221,6 +2221,11 @@ y esta idea se elabora en
 शास्त्रीय-कैङ्कर्यत्तिल् प्रीतियिऩ्-उडैय प्रेरकत्वातिशयम् विवक्षितम् आऩालुम् 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शास्त्रीय-कैङ्कर्ये प्रीतेः प्रेरकत्वातिशयस्य विवक्षितत्वेऽपि  
+</details>
+ 
 
 
 <details><summary>English</summary>
@@ -2253,6 +2258,16 @@ a el servicio prescrito en el Śāstra.
 निज+++(→वर्णाश्रम-विशिष्ट)+++-कर्म-शब्दत्ताले दर्शितम् आयिऱ्ऱु। +++(5)+++
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "निज-कर्मादि भक्त्यन्तम्" इत्य्-उक्तानाम् एषां स्वरूपे शास्त्रम् एव प्रमाणम् 
+
+इत्य् एतत् "निज-कर्म"-शब्देन दर्शितम्  
+इति सिद्धम् । 
+
+</details>
+
+
 
 <details><summary>English</summary>
 
@@ -2273,10 +2288,15 @@ Se muestra que la naturaleza de estos karmas
 ‘‘निजकर्मादिभक्त्यन्तं’’ ऎऩ्गिऱविवऱ्ऱिऩ् स्वरूपत्तुक्कु शास्त्रमे प्रमाणमॆऩ्ऩुमिडम्निजकर्मशब्दत्ताले दर्शितमायिऱ्ऱु। 
 </details>
 
-## अनिष्टापत्तिः
+## कर्मसु शास्त्रीय-नियमे प्रमाणम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इच्-शास्त्रीय नियमम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अयं शास्त्रीय-नियमः 
 </details>
 
 <details><summary>English</summary>
@@ -2377,6 +2397,12 @@ Se muestra que la naturaleza de estos karmas
 ऎऩ्ऱु प्रपत्त्य्-अध्यायत्तिले प्रसिद्धम्। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति प्रपत्त्य्-अध्याये प्रसिद्धः।
+</details>
+
+
 <details><summary>English</summary>
 
 (It) is well known from the ~~following~~ above ślokas in the chapter on prapatti. 
@@ -2394,10 +2420,17 @@ Se muestra que la naturaleza de estos karmas
 </details>
 
 
+## अनिष्टापत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदु तविर्न्द पोदु **वरुम् अनिष्टमुम्** 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतत्-त्यागे जायमानम् अनिष्टञ् च, 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2519,6 +2552,12 @@ Se muestra que la naturaleza de estos karmas
 ऎऩ्ऱ् अनन्तरञ् **जॊल्लप्पट्टदु।** 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति +अनन्तरम् अभ्यधायि । 
+</details>
+
+
 <details><summary>English</summary>
 
 (This) is described immediately afterwards as ~~follows~~ above. 
@@ -2543,6 +2582,15 @@ Se muestra que la naturaleza de estos karmas
 अधिकारानुरूपम् आग  
 एद् एऩुम् ऒरुव् अनिष्ठत्तै **विळैप्पिक्कुम्।** 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्या भगवद्-अ-प्रीतेः कृते  
+क्षमां न याचेत चेत,  
+तर्हीयं मुक्तत्व-सिद्धेः पूर्वम् एवाधिकारानुरूपं  
+यत् किञ्चिद् अनिष्टं जनयेत् । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2573,6 +2621,14 @@ algún mal u otro de acuerdo con su calificación específica.
 भगवद्-अप्रीतिक्कु मेऱ्-पट्ट नरकम् इल्लै। +++(5)+++ 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तद् अस्तु ;  
+सत्त्व-प्रकृतेर् अस्य  
+भगवद्-अ-प्रीतेर् अधिको नरको नास्ति । +++(5)+++ 
+</details>
+
+
 <details><summary>English</summary>
 
 That apart, there is no greater hell (for the prapanna) than the displeasure caused to Bhagavān. +++(5)+++
@@ -2592,19 +2648,27 @@ que el **disgusto causado** a Bhagavān.+++(5)+++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्द भगवद्-अ-प्रीति-शमिप्पदुम् पिऩ्बु क्षमै-गॊळ्ळिल्, 
+अन्द भगवद्-अ-प्रीति-शमिप्पदुम्  
+पिऩ्बु क्षमै-गॊळ्ळिल्, 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तस्या भगवद्-अ-प्रीतेः शान्तिर् अपि  
+पश्चात् क्षमायाच्ञायां कृतायाम्
+</details>
+
 
 <details><summary>English</summary>
 
 This displeasure of Bhagavān will disappear  
-if he obtains pardon. 
+if he obtains pardon, 
 </details>
 
 <details><summary>Español</summary>
 
 Este disgusto de bhagavān **desaparecerá**  
-si **obtiene** perdón.
+si **obtiene** perdón,
 </details>
 
 <details><summary>मूलम्</summary>
