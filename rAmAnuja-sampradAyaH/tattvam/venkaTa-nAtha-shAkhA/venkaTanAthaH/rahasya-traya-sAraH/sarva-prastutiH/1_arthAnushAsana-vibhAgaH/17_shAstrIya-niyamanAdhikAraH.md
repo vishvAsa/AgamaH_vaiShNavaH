@@ -2793,6 +2793,13 @@ donde **se menciona** la eliminación de obstáculos.
 भगवत् **प्रसादनम् आय् इरुक्कुम्।**  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदं नियमानुवर्तनं पूर्णोपाय-पुरुष-व्यतिरिक्तानाम् अधिकारिणम्  
+उपाय-पूर्ति-विरोधि-शमन-पूर्वं भगवत्-**प्रसादनं भवति** ।  
+</details>
+
+
 <details><summary>English</summary>
 
 In the case of those who have not completed their adoption of prapatti the upāya,  
@@ -2820,6 +2827,12 @@ y **ganar** para ellos la gracia del Señor.
 भगवत्-**प्रीणनम् आय् इरुक्कुम्।**  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+पूर्णोपायानाम् अतिलङ्घन-हेतुकाप्रीत्य्-उत्पत्ति-प्रतिबन्धकं सत्  
+भगवत्-**प्रीणनं भवति** ।  
+</details>
+
 <details><summary>English</summary>
 
 In the case of those whose adoption of the upāya is complete,  
@@ -2841,15 +2854,29 @@ En el caso de aquellos cuya adopción del upāya **está completa**,
 </details>
 
 
-## उपसंहारः
-
+## आज्ञातानुज्ञात-काम्य-विभागः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आज्ञानुज्ञा-विभागेन  
 द्विधा शास्त्रीय-पद्धतिः ।  
-निग्रहानुदयायाद्या  
-परा तत्-तत्-फलाप्तये ॥  
+**निग्रहानुदयायाद्या**  
+परा तत्-तत्-**फलाप्तये** ॥ +++(4)+++ 
 </details>
+
+<details><summary>विषयः</summary>
+
+कैङ्कर्यम्, शास्त्रम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+आज्ञानुज्ञा-विभागेन  
+द्विधा शास्त्रीय-पद्धतिः ।  
+**निग्रहानुदयायाद्या**  
+परा तत्-तत्-**फलाप्तये** ॥  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2871,39 +2898,206 @@ y este último para **obtener** los beneficios respectivos.
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अनुज्ञया **प्रवृत्ते**ऽपि  
+क्रम-कोपादि-**संभवे** ।  
+**आज्ञातिक्रम**-दोषस् स्यान्  
+**नियमो** ऽतो दुर्-अत्ययः ॥ +++(4)+++  
+</details>
+
+<details><summary>विषयः</summary>
+
+कैङ्कर्यम्, शास्त्रम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनुज्ञया **प्रवृत्ते**ऽपि  
+क्रम-कोपादि-**संभवे** ।  
+**आज्ञातिक्रम**-दोषस् स्यान्  
+**नियमो** ऽतो दुर्-अत्ययः ॥ +++(4)+++  
+</details>
+
+
+<details><summary>English</summary>
+
+Even when a permissible act is performed,  
+if there is violation of the prescribed method,  
+it becomes an offence or violation of the command.  
+Therefore transgression of the rule prescribed in the śastra  
+is nowhere countenanced.
+</details>
+
+<details><summary>Español</summary>
+
+Incluso cuando se **realiza** un acto permitido,  
+Si **hay violación** del método prescrito,  
+Se **convierte** en un delito o violación del comando.  
+Por lo tanto, la **transgresión** de la regla **prescrita** en el Śastra  
+**no está** en ninguna parte contaminada.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अनुज्ञया प्रवृत्तेऽपि क्रमकोपादिसंभवे । आज्ञातिक्रमदोषस्स्यान्नियमोऽतो दुरत्ययः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**प्रत्यवाय-परीहारे**  
+फलान्तर-**समन्विते** ।  
+तत्र **संवलितं** प्राहुर्  
+अधिकारं विचक्षणाः ॥  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+**प्रत्यवाय-परीहारे**  
+फलान्तर-**समन्विते** ।  
+तत्र **संवलितं** प्राहुर्  
+अधिकारं विचक्षणाः ॥  
+</details>
+
+<details><summary>English</summary>
+
+When the same rite is prescribed  
+both for avoiding a transgression  
+and for obtaining a benefit -  
+in that rite, there is a mingling  of competency (adhikāra) according to scholars. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se prescribe** el mismo rito  
+ambos para **evitar** una transgresión  
+y para **obtener** un beneficio -
+En ese rito, **hay una mezcla** de competencia (adhikāra) según los estudiosos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रत्यवायपरीहारे फलान्तरसमन्विते । तत्र संवलितं प्राहुरधिकारं विचक्षणाः ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नित्य-काम्य-स्वरूपैक्ये  
+विनियोग-पृथक्त्वतः ।  
+फलार्थं क्रियमाणेऽपि  
+नित्यं **भवति** तन्त्रतः ॥ +++(5)+++ 
+</details>
+
+<details><summary>विषयः</summary>
+
+नित्य-कर्म, काम्य-कर्म
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नित्य-काम्य-स्वरूपैक्ये  
+विनियोग-पृथक्त्वतः ।  
+फलार्थं क्रियमाणेऽपि  
+नित्यं **भवति** तन्त्रतः ॥ +++(5)+++ 
+</details>
+
+<details><summary>English</summary>
+
+When the same karma or rite is prescribed as nitya (obligatory) and also kamya (for the sake of a benefit),  
+the act or rite performed for the specific benefit  
+will serve (also) as the performance of the nitya (by that single performance).
+</details>
+
+<details><summary>Español</summary>
+
+Cuando **se prescribe** el mismo karma  
+como uno rito nitya (obligatorio) y también kamya (en aras de un beneficio),  
+el acto o el rito **realizado** para el beneficio específico  
+servirá (también) como el **rendimiento** de la NITYA (por esa **actuación** única).
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नित्यकाम्यस्वरूपैक्ये विनियोगपृथक्त्वतः । फलार्थं क्रियमाणेऽपि नित्यं भवति तन्त्रतः ॥  
+</details>
 
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अनुज्ञया प्रवृत्तेऽपि क्रमकोपादिसंभवे । आज्ञातिक्रमदोषस्स्यान्नियमोऽतो दुरत्ययः ॥  
-प्रत्यवायपरीहारे फलान्तरसमन्विते । तत्र संवलितं प्राहुरधिकारं विचक्षणाः ॥  
-नित्यकाम्यस्वरूपैक्ये विनियोगपृथक्त्वतः । फलार्थं क्रियमाणेऽपि नित्यं भवति तन्त्रतः ॥  
-अनुज्ञामात्रसिद्धेषु कैङ्कर्येषु विचक्षणैः । अकृतौ तत्फलालाभो न तु दोष इतीरितम् ॥३८-अ-उ ॥
+अनुज्ञा-मात्र-सिद्धेषु  
+कैङ्कर्येषु विचक्षणैः ।  
+**अ-कृतौ तत्-फलालाभो**  
+न तु दोष इतीरितम् ॥३८-अ-उ ॥
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनुज्ञा-मात्र-सिद्धेषु  
+कैङ्कर्येषु विचक्षणैः ।  
+**अ-कृतौ तत्-फलालाभो**  
+न तु दोष इतीरितम् ॥३८-अ-उ ॥
+</details>
+
+<details><summary>English</summary>
+
+In rites (karmas or services) prescribed for the attainment of certain benefits,  
+the benefit will not be obtained when the service is not performed,  
+but there is no transgression.  
+Such is the opinion of competent scholars.
+</details>
+
+<details><summary>Español</summary>
+
+En ritos (karmas o servicios) **prescritos** para el **logro** de ciertos beneficios,  
+El beneficio **no se obtendrá** cuando **no se realice** el servicio,  
+Pero **no hay transgresión**.  
+Tal es la opinión de los académicos competentes.
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
-अनुज्ञया प्रवृत्तेऽपि क्रमकोपादिसंभवे । आज्ञातिक्रमदोषस्स्यान्नियमोऽतो दुरत्ययः ॥  
-प्रत्यवायपरीहारे फलान्तरसमन्विते । तत्र संवलितं प्राहुरधिकारं विचक्षणाः ॥  
-नित्यकाम्यस्वरूपैक्ये विनियोगपृथक्त्वतः । फलार्थं क्रियमाणेऽपि नित्यं भवति तन्त्रतः ॥  
 अनुज्ञामात्रसिद्धेषु कैङ्कर्येषु विचक्षणैः । अकृतौ तत्फलालाभो न तु दोष इतीरितम् ॥३८-अ-उ ॥
 </details>
 
 
 
-Even when a permissible act is performed, if there is violation of the prescribed method, it becomes an offence or violation of the command. Therefore transgression of the rule prescribed in the śastra is nowhere countenanced.
-
-When the same rite is prescribed both for avoiding a transgression and for obtaining a benefit - in that rite, there is a mingling  of competency (adhikāra) according to scholars. When the same karma or rite is prescribed as nitya (obligatory) and also kamya (for the sake of a benefit), the act or rite performed for the specific benefit will serve (also) as the performance of the nitya (by that single performance).
-
-In rites (karmas or services) prescribed for the attainment of certain benefits, the benefit will not be obtained, when the service is not performed, but there is no transgression. Such is the opinion of competent scholars.
 
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-निऩ्ऱनमन्बुडैवानोर् निलैयिनिलमळन्दान्  
-नऩ्ऱिदु तीयदिदॆऩ्ऱु नडत्तिय नान्मऱैयाल्  
-इऩ्ऱु नमक्किरवादलि लिम्मदि यिन्निलवे  
-अऩ्ऱि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
+**निऩ्ऱनम्**+++(=स्थिताः)+++ अन्ब्-उडैवानोर् **निलैयिन्**, इलम् **अळन्दान्**  
+"नऩ्ऱ् इदु, तीयद्+++(=हेयम्)+++ इद्" ऎऩ्ऱु **नडत्तिय** नान्+++(ल्)+++-मऱैयाल्+++(=छन्दसा)+++।  
+इऩ्ऱु नमक्क् इरव्+++(=तिमिरम्)+++ आदलिल् +++(संसारे)+++ इम् मदियिन्+++(=चन्द्रि)+++ निलवे+++(=ज्योत्स्नैव →शास्त्रम्)+++  
+अऩ्ऱिय् अडिक्क्-अडिय्-आरिरुडीर्क्क वडिय् उळदे. (24 )+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+By following the four Vedas (and the Smṛtis and other śāstras)  
+in which the Supreme Being who measured the three worlds with His feet has ordained what is right and what is wrong,  
+we have attained the state of service similar to that of the eternal sūris  
+who are full of the love (of God).  
+To us who live in the dark night (of saṁsāra),  
+there is no other light than that of this moon (viz. the śāstras)+++(5)+++  
+to dispel the darkness that grows denser and denser at every step.
+</details>
+
+<details><summary>Español</summary>
+
+Siguiendo los cuatro Vedas (y los Smṛtis y otros śāstras)  
+en el que el ser supremo que **midió** los tres mundos con los pies **ha ordenado** lo que está bien y lo que está mal,  
+**Hemos alcanzado** el estado de servicio similar al de Eternal Sūris  
+que **están llenos** del amor (de Dios).  
+A nosotros que **vivimos** en la noche oscura (de Saṁsāra),  
+**No hay** otra luz que la de esta luna (a saber, los śāstras)  
+**disipar** la oscuridad que **se vuelve** más densa y más densa en cada paso.
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -2913,12 +3107,12 @@ In rites (karmas or services) prescribed for the attainment of certain benefits,
 अऩ्ऱि यडिक्कडि यारिरुडीर्क्क वडियुळदे. (24 )
 </details>
 
-By following the four Vedas (and the Smṛtis and other śāstras) in which the Supreme Being who measured the three worlds with His feet has ordained what is right and what is wrong, we have attained the state of service similar to that of the eternal sūris who are full of the love (of God). To us who live in the dark night (of saṁsāra), there is no other light than that of this moon (viz. the śāstras) to dispel the darkness that grows denser and denser at every step.
+## उपसंहारः
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-श्रुतिस्मृत्याचारैस्स्वमतिगतिभिश्शुद्धमनसां  
-सुसङ्कल्पैर्धर्म्यैः कुलचरणदेशादिसमयैः ।  
+श्रुति-स्मृत्य्-**आचारैस्** स्व-मति-**गतिभिश् शुद्ध**-मनसां  
+सु-**सङ्कल्पैर्** धर्म्यैः कुलचरणदेशादिसमयैः ।  
 नियोगैर्योग्यानां नियमयितुरादेरभिमतं  
 निमित्तस्वप्नाद्यैरपि निपुणमन्विच्छति बुधः ॥ ३९ ॥
 </details>
