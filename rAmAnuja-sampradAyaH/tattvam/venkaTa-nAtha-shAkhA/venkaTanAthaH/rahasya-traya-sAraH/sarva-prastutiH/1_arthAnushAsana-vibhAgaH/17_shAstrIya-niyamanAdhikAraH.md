@@ -2648,39 +2648,127 @@ que el **disgusto causado** a Bhagavān.+++(5)+++
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्द भगवद्-अ-प्रीति-शमिप्पदुम्  
-पिऩ्बु क्षमै-गॊळ्ळिल्, 
+अन्द भगवद्-अ-प्रीति-**शमिप्पदुम्** पिऩ्बु **क्षमै-गॊळ्ळिल्**,  
+‘‘सुहृदं सर्वभूतानां’’(गीता ५-२९) ऎऩ्गिऱ बडि  
+निसर्ग-सुहृत्त् आऩ ईश्वरऩ्-उडैय अ-प्रीति  
+शमिक्कुम् अळवुम् इवऩुक्क् **अरुन्-तुदम् आय् इरुक्कुम्**। 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 तस्या भगवद्-अ-प्रीतेः शान्तिर् अपि  
-पश्चात् क्षमायाच्ञायां कृतायाम्
+पश्चात् क्षमायाच्ञायां कृतायाम्  
+"सुहृदं सर्वभूतानाम्" इति निसर्ग-सुहृद ईश्वरस्याप्रीतिः   
+आशमनम् अस्यारुन्तुदा स्यात् । +++(5)+++
 </details>
 
 
 <details><summary>English</summary>
 
 This displeasure of Bhagavān will disappear  
-if he obtains pardon, 
+if he obtains pardon,  
+(As the Gita says) Iśvara, by His very nature, is full of love to all.  
+So till His displeasure disappears, it will give the prapanna excruciating pain. +++(5)+++
 </details>
 
 <details><summary>Español</summary>
 
 Este disgusto de bhagavān **desaparecerá**  
-si **obtiene** perdón,
+si **obtiene** perdón,  
+(Como dice el Gita) Iśvara, por su propia naturaleza,  
+**está llena** de amor para todos.  
+Entonces, hasta que su **disgusto desaparezca**,  
+le **dará** el dolor insoportable a Prapanna.
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन्द भगवदप्रीतिशमिप्पदुम् पिऩ्बु क्षमैगॊळ्ळिल्, 
+अन्द भगवदप्रीतिशमिप्पदुम् पिऩ्बु क्षमैगॊळ्ळिल्, ‘‘सुहृदं सर्वभूतानां’’(गीता ५-२९) ऎऩ्गिऱबडि निसर्गसुहृत्ताऩ ईश्वरऩुडैय अप्रीति शमिक्कुमळवु मिवऩुक्करुन्तुदमायिरुक्कुम्। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इङ्ङऩ् इराद् अवऩुक्कु  
+स्वामि-विषयत्तिल् प्रावण्यमुम्  
+कैङ्कर्य-रूपम् आऩ मोक्षत्तिल् रुचियुम्  
+शङ्किक्कव् अडुक्कुम्+++(=व्यवस्थातव्यम्??)+++। 
+</details>
+
+<details><summary>English</summary>
+
+If the man has no such pain,  
+his devotion to the Master  
+and his desire for rendering service after mokṣa  
+have to be doubted.
+</details>
+
+<details><summary>Español</summary>
+
+Si el hombre **no tiene** tal dolor,  
+su devoción al maestro
+y su **deseo de prestar servicio** después de mokṣa
+tengo que **ser dudado**.  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इङ्ङऩिरादवऩुक्कु स्वामिविषयत्तिल् प्रावण्यमुम् कैङ्कर्यरूपमाऩ मोक्षत्तिल् रुचियुम् शङ्किक्कवडुक्कुम्। 
+</details>
+
+
+## रहस्य-त्रये ऽनुसन्धानम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् आज्ञातिलङ्घनम्  
+‘‘प्रहर्षयिष्यामि’’(आळवन्दार् स्तोत्रम् ४६) ऎऩ्ऱु **उद्देश्यैय् आऩ** भगवत्-प्रीतिक्कु  
+**विरोधिय् आऩ** बडियाले  
+इश् शास्त्रीय-नियमम्  
+रहस्य-त्रयत्तिल् विरोधि-निवृत्तियै अनुसन्धिक्कुम् इडङ्गळिले  
+**अनुसन्धिक्कप् प्राप्तम्।** 
+</details>
+
+
+<details><summary>English</summary>
+
+Since this violation of the Lord's command is opposed to the Lord's pleasure  
+which is our final goal as stated in the śloka  :  
+
+> "When shall I, Thy servant,  
+> look upon Thee alone as my Master  
+> and give Thee delight by rendering service ?" 
+
+the observance of the ordinances of the śāstras has to be understood  
+in those places in the three mysteries (mantras)  
+where the removal of obstacles is referred to. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que esta violación del mandato del Señor **se opone** al placer del Señor  
+Cuál **es** nuestro objetivo final  
+**como se indica** en el Śloka:
+
+> "¿Cuándo, tu sirviente  
+> **miraré** te solo como mi maestro  
+> Y te **dará** deleite al **prestar servicio**? "
+
+La observancia de las ordenanzas de los Śāstras **tiene** que **ser entendido**  
+En esos lugares de los tres misterios (mantras)  
+donde **se menciona** la eliminación de obstáculos.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्वाज्ञातिलङ्घनम् ‘‘प्रहर्षयिष्यामि’’(आळवन्दार् स्तोत्रम् ४६) ऎऩ्ऱु उद्देश्यैयाऩ भगवत्प्रीतिक्कु विरोधियाऩबडियाले इच् शास्त्रीयनियमम् रहस्यत्रयत्तिल् विरोधिनिवृत्तियै अनुसन्धिक्कुमिडङ्गळिले अनुसन्धिक्कप् प्राप्तम्। 
 </details>
 
 
 
-(As the Gita says) Iśvara, by His very nature, is full of love to all. So till His displeasure disappears, it will give the prapanna excruciating pain. If the man has no such pain, his devotion to the Master and his desire for rendering service after mokṣa  have to be doubted.
 
-Since this violation of the Lord's command is opposed to the Lord's pleasure which is our final goal as stated in the śloka  : "When shall I, Thy servant, look upon Thee alone as my Master and give Thee delight by rendering service ?" the observance of the ordinances of the śāstras has to be understood in those places in the three mysteries (mantras) where the removal of obstacles is referred to. In the case of those who have not completed their adoption of prapatti the upāya, the observance of these ordinances will remove the hindrances or obstacles to the completion of prapatti and win for them the grace of the Lord. In the case of those whose adoption of the upāya is complete, it will win the favour of the Lord by removing the causes that might bring about His displeasure (in future).
+In the case of those who have not completed their adoption of prapatti the upāya, the observance of these ordinances will remove the hindrances or obstacles to the completion of prapatti and win for them the grace of the Lord. In the case of those whose adoption of the upāya is complete, it will win the favour of the Lord by removing the causes that might bring about His displeasure (in future).
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
