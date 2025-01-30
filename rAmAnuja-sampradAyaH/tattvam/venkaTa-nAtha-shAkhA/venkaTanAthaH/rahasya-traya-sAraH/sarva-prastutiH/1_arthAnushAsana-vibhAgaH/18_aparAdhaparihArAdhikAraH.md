@@ -97,8 +97,7 @@ de su **logro** de mokṣa después de la muerte).
 पङ्कैरेव कलङ्कयन्निजतनुं प्राज्ञैर्न संश्लिष्यते ॥ ४० ॥
 </details>
 
-## अपराध-सम्भावना, जाते भावः
-
+## अपराध-सम्भावना
 <details><summary>English</summary>
 
 THE PRAPANNA IS NOT LIKELY TO OFFEND;  
@@ -113,6 +112,8 @@ Si ofende, debe realizar prāyaschitta.
 </details>
 
 __________
+
+### साधारणाभावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि भगवच्-छेषतैक-स्वभावन् **आगैयाले**,  
@@ -159,22 +160,43 @@ ya que **se opondría** a su estado adoptivo de ser el sirviente exclusivo del S
 </details>
 
 __________
+### अ-बुद्धि-पूर्वकम् भावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रारब्ध-कर्म-विशेष-वशत्ताले  
 देश-कालावस्था-वैगुण्य-हेतुकम् आगवुम्  
 प्रामादिकम् आगवुम्  
-सुषुप्त्य्-आद्य्-अवस्थै-कळिलुम् वरुम्  
-अपराध-लेशङ्गळ् उळ्ळवै अ-श्लेष-विषयम् आय्क्  
-कऴिन्दु-बोम्. 
+सुषुप्त्य्-आद्य्-अवस्थैगळिलुम् वरुम्  
+अपराध-लेशङ्गळ् उळ्ळ्-अवै  
+**अ-श्लेष-विषयम् आय्क् कऴिन्दु-बोम्**. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रारब्ध-कर्म-विशेष-वशात्  
+देश-कालावस्था-वैगुण्य-हेतुकाः, प्रामादिकाः, सुषुप्त्याद्य्-अवस्थासु जायमानाश् चापराध-लेशाः  
+**अ-श्लेष-विषयाः सन्तो निवर्तेरन्** । 
+</details>
+
+<details><summary>English</summary>
 
 If as a result of past karma which has begun to operate (prārabdha)  
-and under adverse conditions of place, time and circumstance, slight offences (against the Lord) take place through inattention in the waking state or (without his knowledge) in dreamless sleep (suṣupti) and other such states,  
+and under adverse conditions of place, time and circumstance, 
+slight offences (against the Lord) take place through inattention in the waking state or (without his knowledge) in dreamless sleep (suṣupti) and other such states,  
 these offences will disappear without causing any stain.
+
 </details>
+
+<details><summary>Español</summary>
+
+Si como resultado del karma pasado que **ha comenzado** a operar (prārabdha)  
+y en condiciones adversas de lugar, tiempo y circunstancia,  
+ligeros delitos (contra el Señor) **tienen lugar** a través de la falta de atención  
+en el estado de vigilia o (sin su conocimiento)  
+en el sueño sin sueños (Suṣupti) y otros estados similares,  
+**Estos delitos desaparecerán sin causar** ninguna mancha.
+</details>
+
 
 <details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
@@ -192,28 +214,58 @@ these offences will disappear without causing any stain.
 </details>
 
 __________
+### बुद्धि-पूर्वकाघो-भावः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुद्धि-पूर्वक-पापारंभक-पापङ्गळुक्क् अञ्जिय्,  
-**अवैयुङ् गऴिय-वेण्डुम्** ऎऩ्ऱु **प्रपत्ति पण्णादे**,  
-पाम्ब्-ओड् ऒरु कूरैयिले+++(=roof)+++ पयिऩ्ऱाऱ्+++(=जीवन्)+++ ‌पोले,  
-प्रकृतिय्-ओडे कूडव् इरुक्किऱव् इवनुक्कु,  
-आत्म-गुण-पूर्तिय् इल्लामैयाले  
-मन्द-धैर्यर् आऩ ऋषिकळुक्कुप् पोले  
+बुद्धि-पूर्वक-पापारंभक-पापङ्गळुक्क् **अञ्जिय्**,  
+"अवैयुङ् **कऴिय-वेण्डुम्**" ऎऩ्ऱु **प्रपत्ति पण्णादे**,  
+पाम्ब्-ओड् ऒरु कूरैयिले+++(=roof)+++ **पयिऩ्ऱाऱ्**+++(=जीवन्)+++ ‌पोले,+++(5)+++  
+प्रकृतिय्-ओडे कूडव् **इरुक्किऱव्** इवनुक्कु,  
+आत्म-गुण-**पूर्तिय् इल्लामैयाले**  
++++(विश्वामित्रमोहनादाव् इव)+++ मन्द-धैर्यर् आऩ ऋषिगळुक्कुप् पोले  
 बुद्धि-पूर्वकम् आगवुम्  
-सिल **स्व-निष्ठा-विपरीतङ्गळ् वन्दालुम्** 
+सिल **स्व-निष्ठा-विपरीतङ्गळ् +++(अपराधाः)+++ वन्दालुम्** 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-If, at the time of prapatti, he did not beg, with dread of them, for the removal of such sins as lead to further sins,  
+[[१४२]]
+
+बुद्धि-पूर्वक-पापारम्भक-पापेभ्यो **भयेन**,  
+'तान्य् अपि **नश्यन्तु**' इति, (धिया) प्रपत्तिम् अकृत्वा,  
+“सर्पेण सहैकस्मिन् गृहे निवासिन इव"  
+प्रकृत्या+++(→शरीरेण)+++ सह **वसतो** ऽस्य  
+आत्म-गुण-पूर्त्य्-अ-भावात्  
+मन्द-धैर्याणाम् ऋषीणाम् इव  
+बुद्धि-पूर्वाणां केषाञ्चित् स्व-निष्ठा-विपरीतानां संभवेऽपि, 
+</details>
+
+
+<details><summary>English</summary>
+
+If, at the time of prapatti,  
+he did not beg, with dread of them, for the removal of such sins as lead to further sins,  
 since he is still in close association with prakṛti  
 like one who lives under the same roof with a serpent,  
 it is just possible , owing to his deficiency in spiritual qualities,  
 certain lapses which are inconsistent with his state as a prapanna might, as in the case of weak-hearted Rishis, even occur with his knowledge.
 
-If sach lapses do occur,
+If such lapses do occur,
+
 </details>
+
+<details><summary>Español</summary>
+
+Si, en el momento de Prapatti,
+**No le suplicó**, con **temor** de ellos, porque la **eliminación** de los pecados que conducen a más pecados,  
+Dado que todavía **está en estrecha asociación** con Prakṛti  
+como uno que **vive** bajo el mismo techo con una serpiente,  
+Es posible, debido a su deficiencia de cualidades espirituales,  
+Ciertos lapsos que son inconsistentes con su estado como Prapanna **podría**, como en el caso de Rishis de corazón débil, incluso **ocurrir** con su **conocimiento**.
+
+Si **se producen** tales fallas,
+</details>
+
 
 <details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
