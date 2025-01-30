@@ -3,28 +3,91 @@ title = "१८ अपराधपरिहाराधिकारः"
 
 +++
 
+<details><summary>English</summary>
+
 ॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे अपराधपरिहाराधिकारः ॥ १८ ॥
 
-<details><summary>राजगोपालः (En)</summary>
+</details>
+
+<details><summary>English</summary>
 
 (18) THE CHAPTER ON THE ATONEMENT FOR OFFENCES. page235
 </details>
 
+<details><summary>Español</summary>
+
+(18) El capítulo sobre la expiación por delitos.Página235
+</details>
+
+
+<details><summary>Español</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे अपराधपरिहाराधिकारः ॥ १८ ॥
+
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+॥ श्रीः ॥  
+श्रीसारबोधिनीव्याख्यायां  
+अपराधपरिहाराधिकारः ॥  
+</details>
+
+
+## अपराध-स्रोतः-फले
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-स्वच्छ-स्वादु-सदावदात-सुभगां दैवाद् अयं देहभृन्   
-मालिन्य-प्रशमाय माधव-दया-मन्दाकिनीं विन्दति ।  
-यद्य् अप्य् एवम् असाव् अ-सार-विषय-स्रोतः-प्रसूतैः पुनः  
-पङ्कैर् एव कलङ्कयन् निज-तनुं प्राज्ञैर् न संश्लिष्यते ॥ ४० ॥
+स्वच्छ-स्वादु-सदावदात-सुभगां दैवाद् अयं देह-भृन्   
+मालिन्य-**प्रशमाय** माधव-दया-मन्दाकिनीं **विन्दति** ।  
+यद्य् अप्य् एवम्, असाव् अ-सार-विषय-स्रोतः-**प्रसूतैः** पुनः  
+पङ्कैर् एव **कलङ्कयन्** निज-तनुं प्राज्ञैर् **न संश्लिष्यते** ॥ ४० ॥
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-This embodied being (the Jīva  ) obtains the grace of Madhava by the result of past karma (luck), for the removal of his sins -- the grace of Madhava which, by its purity, delightfulness, holiness and efficacy is like the (holy) Mandakini whose waters are clear, sweet, always pure (white) and efficacious. (That is, he becomes a prapanna ). If, in spite of this, he still makes his body unclean by wallowing in the mire of the stream of wretched sense pleasures, his company is avoided by the wise (but this would not stand in the way of his attainment of mokṣa after death).
+स्वच्छ-स्वादु-सदावदात-सुभगां दैवाद् अयं देह-भृन्   
+मालिन्य-**प्रशमाय** माधव-दया-मन्दाकिनीं **विन्दति** ।  
+यद्य् अप्य् एवम्, असाव् अ-सार-विषय-स्रोतः-**प्रसूतैः** पुनः  
+पङ्कैर् एव **कलङ्कयन्** निज-तनुं प्राज्ञैर् **न संश्लिष्यते** ॥ ४० ॥
 </details>
+
+
+
+<details><summary>English</summary>
+
+This embodied being (the Jīva  ) obtains the grace of Madhava  
+by the result of past karma (luck),  
+for the removal of his sins --  
+the grace of Madhava which, by its purity, delightfulness, holiness and efficacy,  
+is like the (holy) Mandakini whose waters are clear, sweet, always pure (white) and efficacious.  
+(That is, he becomes a prapanna ).  
+If, in spite of this, he still makes his body unclean  
+by wallowing in the mire of the stream of wretched sense pleasures,  
+his company is avoided by the wise  
+(but this would not stand in the way of his attainment of mokṣa after death).
+</details>
+
+<details><summary>Español</summary>
+
+Este **ser encarnado** (el Jīva) **obtiene** la gracia de Madhava  
+por el **resultado** del pasado karma (suerte),  
+para la **eliminación** de sus pecados -  
+La gracia de Madhava que, por su pureza, deleitura, santidad y eficacia,  
+**es como** el (santo) Mandakini  
+cuyas aguas **son** claras, dulces, siempre puras (blancas) y eficaces.  
+(Es decir, se convierte en una Prapanna).  
+Si, a pesar de esto, todavía **hace** que su cuerpo **sea inmundo**  
+por **revolcando** en el folleto de la corriente de miserables placeres sensoriales,  
+su empresa **es evitada** por los sabios
+(Pero esto **no se interpondría** en el camino  
+de su **logro** de mokṣa después de la muerte).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -36,26 +99,54 @@ This embodied being (the Jīva  ) obtains the grace of Madhava by the result of 
 
 ## अपराध-सम्भावना, जाते भावः
 
+<details><summary>English</summary>
+
 THE PRAPANNA IS NOT LIKELY TO OFFEND;  
 IF HE OFFENDS, HE SHOULD PERFORM PRĀYASCHITTA.
+
+</details>
+
+<details><summary>Español</summary>
+
+No es probable que la Prapanna ofenda;  
+Si ofende, debe realizar prāyaschitta.
+</details>
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडि भगवच्-छेषतैक-स्वभावन् आगैयाले,  
-शास्त्र-नियत-तत्-कैङ्कर्यैक-रसन् आऩ इव्व्-अधिकारिक्कुप्-पिन्ब्  
-अनापत्तिल् बुद्धि-पूर्वकम् आनव् अपराधम् वरुगै-पऱ्ऱिन  
-कैङ्कर्यैक-निष्ठैक्कु विरुद्धम् आगैयाले  
+इप्पडि भगवच्-छेषतैक-स्वभावन् **आगैयाले**,  
+शास्त्र-नियत-तत्-कैङ्कर्यैक-रसन् आऩ इव्व्-अधिकारिक्कुप् पिन्ब्  
+अनापत्तिल् बुद्धि-पूर्वकम् आनव् अपराधम् **वरुगै**-पऱ्ऱिन  
+कैङ्कर्यैक-निष्ठैक्कु **विरुद्धम् आगैयाले**  
 प्रायेण **संभावितम् अऩ्ऱु**.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं भगवच्-छेषतैक-स्वभावत्वात्  
+शास्त्र-नियत-तत्-कैङ्कर्यैक-रसस्यास्याधिकारिणः  
+उत्तरकाले अनापदि बुद्धि-पूर्वकापराधप्राप्तिः स्वीकृत-कैङ्कर्य-निष्ठाया विरुद्धत्वात्  
+प्रायेण **न संभाविता** । 
+</details>
+
+
+<details><summary>English</summary>
 
 Since the prapanna has, by nature, the sole character of a śeṣa to Bhagavān  
 and since he delights only in rendering service to Him in accordance with the ordinances of the śāstras,  
 it is not at all likely that, in other situations than those that are dangerous, he will offend against the Lord,  
 as it would be opposed to his adopted state of being the exclusive servant of the Lord. 
 </details>
+
+<details><summary>Español</summary>
+
+Ya que la Prapanna **tiene**, por naturaleza, el único carácter de un Śeṣa a Bhagavān  
+y dado que **se deleita** solo en **prestarle servicio** de acuerdo con las ordenanzas de los Śāstras,  
+**No es probable** que, en otras situaciones que las que sean peligrosas, **ofenderá** contra el Señor,  
+ya que **se opondría** a su estado adoptivo de ser el sirviente exclusivo del Señor.
+</details>
+
 
 <details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 

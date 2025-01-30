@@ -3473,7 +3473,7 @@ Tal es la opinión de los académicos competentes.
 </details>
 
 
-
+## उपसंहारः
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
 **निऩ्ऱनम्**+++(=स्थिताः)+++ अन्ब्-उडैवानोर् **निलैयिन्**, इलम् **अळन्दान्**  
@@ -3532,7 +3532,7 @@ A nosotros que **vivimos** en la noche oscura (de Saṁsāra),
 </details>
 
 
-## उपसंहारः
+## देवाज्ञा-स्रोतांसि
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
