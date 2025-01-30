@@ -286,21 +286,32 @@ __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निसर्ग-सुहृत्त् आऩ श्रियः-पति रक्षणोन्मुखन् आय् निऱ्‌कैयालेय्  
-इव् विपरीतानुष्ठानङ्गळ् मिन्न्-ऒळि+++(=कान्ति)+++-मात्रम् आय् निलै निऱ्‌कुम्.  
+इव् विपरीतानुष्ठानङ्गळ् **मिन्न्-ऒळि+++(=कान्ति)+++-मात्रम् आय्** निलै निऱ्‌कुम्.  
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+निसर्ग-सुहृदः श्री-पतेः रक्षणोन्मुखतयाऽवस्थानाद्  
+एषां विपरीतानुष्ठानानि  
+विद्युद्-उद्योत-मात्र-रूपाणि अ-स्थास्नूनीति  
+</details>
+
+
+<details><summary>English</summary>
 
 the Lord of Lakṣmī , who, by His very nature, is his well-wisher,  
 stands ever ready to save him.  
 Therefore these lapses in his actions will only be momentary like lightning;  
 </details>
 
-<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
+<details><summary>Español</summary>
 
-निसर्ग-सुहृद् रक्षणोन्मुखः  श्रियःपतिः  
-लज्जानुतापादिभिः  यथाधिकारं  प्रायश्चित्तम् आसादयति  ॥
+El Señor de Lakṣmī, quien, por su propia naturaleza, **es su simpatizante**,  
+**se** encuentra siempre **listo para salvarlo**.  
+Por lo tanto, estos **lapsos** en sus acciones  
+solo **serán momentáneos** como un rayo;
 </details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -311,14 +322,30 @@ Therefore these lapses in his actions will only be momentary like lightning;
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवैय् अऩ्ऱिक्के अक्-कालत्तिल् पिऱन्द  
-स्व-निष्ठा-वैपरीत्यम् आगिऱ-विऴवैक्+++(=प्रभाव)+++ कडुग+++(=शीघ्रम्)+++ अनुसन्धित्तु  
-यथोचितम् आग लज्जानुतापङ्गळ् पिऱन्दु  
+अवैय् अऩ्ऱिक्के अक्-कालत्तिल् **पिऱन्द**  
+स्व-निष्ठा-वैपरीत्यम् आगिऱ-**विऴवैक्**+++(=प्रभावं)+++ कडुग+++(=शीघ्रम्)+++ **अनुसन्धित्तु**  
+यथोचितम् आग **लज्जानुतापङ्गळ् पिऱन्दु**  
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>English</summary>
 
-he will quickly reflect on these lapses from his state as a prapanna, feel ashamed at them, repent of them, 
+he will quickly **reflect** on these lapses from his state as a prapanna,  
+**feel ashamed** at them,  
+**repent** of them, 
+</details>
+
+<details><summary>Español</summary>
+
+Rápidamente **reflexionará** sobre estos lapsos de su estado como Papanna,  
+**se sentirá avergonzado** por ellos,  
+**arrepentirse** de ellos,
+</details>
+
+
+<details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
+
+निसर्ग-सुहृद् रक्षणोन्मुखः  श्रियःपतिः  
+लज्जानुतापादिभिः  यथाधिकारं  प्रायश्चित्तम् आसादयति  ॥
 </details>
 
 <details><summary>मूलम्</summary>
