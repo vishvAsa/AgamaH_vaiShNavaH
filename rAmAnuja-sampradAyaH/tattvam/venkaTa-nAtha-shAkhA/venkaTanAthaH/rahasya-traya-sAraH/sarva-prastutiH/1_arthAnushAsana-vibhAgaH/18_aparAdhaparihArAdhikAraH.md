@@ -327,6 +327,13 @@ __________
 यथोचितम् आग **लज्जानुतापङ्गळ् पिऱन्दु**  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तदानींतनीं स्वनिष्ठा-वैपरीत्य-रूपां हानिं  
+झट्-इत्य् **अनुसंधायास्य** यथोचित-लज्जानुतापोत्पत्तौ, 
+</details>
+
+
 <details><summary>English</summary>
 
 he will quickly **reflect** on these lapses from his state as a prapanna,  
@@ -354,41 +361,37 @@ Rápidamente **reflexionará** sobre estos lapsos de su estado como Papanna,
 </details>
 
 __________
+## क्षमायै प्रपत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “अपायसंप्लवे सद्यः  
-> प्रायश्चित्तं समाचरेत् ।  
+> “अपाय-**संप्लवे** सद्यः  
+> **प्रायश्-चित्तं समाचरेत्** ।  
 > प्रायश्चित्तिर् इयं सात्र  
-> यत् पुनश् शरणं व्रजेत् +++(प्रपत्त्या)+++ ॥  
-> +++(कर्मयोगाद्य्-)+++उपायानाम् उपायत्व-  
-> स्वीकारे ऽप्य् एतद् एव हि +++(प्रपत्तिकर्म प्रायश्चित्तम्)+++” 
+> यत् पुनश् **शरणं व्रजेत्** +++(प्रपत्त्या)+++ ॥  
+> +++([मोक्षार्थ-प्रपत्तेः परं] कर्म-योगाद्य्-)+++उपायानाम् उपायत्व-  
+> **स्वीकारे** ऽप्य् एतद् एव हि +++(प्रपत्तिकर्म प्रायश्चित्तम्)+++” 
 > (लक्ष्मीतन्त्रम् 17-91.) 
-
-> “अज्ञानाद् अथवा ज्ञानाद्  
-> अपराधेषु सत्स्वपि ।  
-> प्रायश्चित्तं "क्षमस्वे"ति  
-> प्रार्थनैकैव केवलम्”  
-> (वङ्गीपुरत्तु-नम्बिकारिकै) 
-> 
-> “विदितस् स हि धर्मज्ञः  
-> शरणागत-वत्सलः ।  
-> तेन मैत्री भवतु ते  
-> यदि जीवितुम् इच्छसि ।  
-> प्रसादयस्व त्वञ् चैनं  
-> शरणागत-वत्सलम् ।  
-> माञ्चास्मै प्रयतो भूत्वा  
-> +++(मां)+++ निर्यातयितुम् अर्हसि”  
-> +++(इति सीता)+++    
-> (रामायणम् सुन्दरकाण्डम् 21-20 ) 
-> 
-
-इत्यादि-गळिऱ् चॊल्लुगिऱप् पडिये+++(=प्रकारेण)+++  
-यथाधिकारम् प्रायश्चित्तावलम्बनम् उण्डाम्.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विषयः</summary>
 
-and perform the proper atonement (prāyaścitta) that is suited to his competence. The following ślokas explain the point-
+अपराध-क्षमा-प्रपत्तिः, प्रपत्तिः
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “अपाय-**संप्लवे** सद्यः  
+> **प्रायश्-चित्तं समाचरेत्** ।  
+> प्रायश्चित्तिर् इयं सात्र  
+> यत् पुनश् **शरणं व्रजेत्** +++(प्रपत्त्या)+++ ॥  
+> +++([मोक्षार्थ-प्रपत्तेः परं] कर्म-योगाद्य्-)+++उपायानाम् उपायत्व-  
+> **स्वीकारे** ऽप्य् एतद् एव हि +++(प्रपत्तिकर्म प्रायश्चित्तम्)+++” 
+> (लक्ष्मीतन्त्रम् 17-91.) 
+</details>
+
+
+<details><summary>English</summary>
 
 > "If there is offence,  
 > the atonement that is to be done is only the performance of prapatti again.  
@@ -397,25 +400,174 @@ and perform the proper atonement (prāyaścitta) that is suited to his competenc
 > it would also constitute an offence.  
 > In order that this offence might disappear,  
 > prapatti alone should be performed again". 
-
-> "Whether a man commits an offence knowing that it is an offence or does it without knowing it to be one,  
-> the only atonement (prāyaścitta) that has to be performed is to beg in these words :- "Pardon the offence". 
-
-> So also Sītā says:  
-> “It is well known that ŚrīRāma knows what Dharma is  
-> and is fond of those who seek refuge under him.  
-> Seek his friendship if you desire to live.  
-> Propitiate ŚrīRāma who loves those that surrender themselves to him and, with a pure heart,  
-> see that I am returned to him."
 </details>
+
+<details><summary>Español</summary>
+
+> "Si **hay ofensa**,  
+> La expiación que **se debe hacer**  
+> es solo el **rendimiento de Prapatti** nuevamente.  
+> Si, después de **realizar** Prapatti por el bien de Mokṣa,
+> Un hombre **debe realizar** karma yoga y similares con la idea de que estos son upāyas (para mokṣa),
+> También **constituiría** un delito.
+> Para que este delito **desaparezca**,
+> Prapatti solo debe **realizarse** nuevamente ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-“अपायसंप्लवे सद्यः प्रायश्चित्तं समाचरेत् । प्रायश्चित्तिरियं सात्र यत्पुनश्शरणं व्रजेत् ॥ उपायानामुपायत्वस्वीकारेऽप्येतदेव हि”(लक्ष्मीतन्त्रम् 17-91.) “अज्ञानादथवा ज्ञानादपराधेषु सत्स्वपि । प्रायश्चित्तं क्षमस्वेति प्रार्थनैकैव केवलम्”(वङ्गीपुरत्तु नम्बिकारिकै) “विदितस्स हि धर्मज्ञः शरणागतवत्सलः । तेन मैत्री
+“अपायसंप्लवे सद्यः प्रायश्चित्तं समाचरेत् ।  
+प्रायश्चित्तिरियं सात्र यत्पुनश्शरणं व्रजेत् ॥  
+उपायानामुपायत्वस्वीकारेऽप्येतदेव हि”(लक्ष्मीतन्त्रम् 17-91.)  
+</details>
 
-भवतु ते यदि जीवितुमिच्छसि । प्रसादयस्व त्वञ्चैनं शरणागतवत्सलम् । माञ्चास्मै प्रयतो भूत्वा निर्यातयितुमर्हसि”(रामायणम् सुन्दरकाण्डम् 21-20) इत्यादिगळिऱ्‌चॊल्लुगिऱप्पडिये यथाधिकारम् प्रायश्चित्तावलम्बन मुण्डाम्.
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> अज्ञानाद् अथवा ज्ञानाद्  
+> **अपराधेषु सत्स्व्** अपि ।  
+> **प्रायश्चित्तं** "क्षमस्वे"ति  
+> **प्रार्थनैकैव** केवलम्॥  
+> (वङ्गीपुरत्तु-नम्बि-कारिका) 
+</details>
+
+<details><summary>विषयः</summary>
+
+अपराध-क्षमा-प्रपत्तिः, प्रपत्तिः
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> अज्ञानाद् अथवा ज्ञानाद्  
+> **अपराधेषु सत्स्व्** अपि ।  
+> **प्रायश्चित्तं** "क्षमस्वे"ति  
+> **प्रार्थनैकैव** केवलम्॥  
+> (वङ्गीपुरत्तु-नम्बि-कारिका) 
+</details>
+
+<details><summary>English</summary>
+
+> "Whether a man commits an offence knowing that it is an offence  
+> or does it without knowing it to be one,  
+> the only atonement (prāyaścitta) that has to be performed is to beg in these words :-  
+> "Pardon the offence". 
+</details>
+
+<details><summary>Español</summary>
+
+> "Si un hombre **comete** un delito **sabiendo** que es un delito  
+> o lo **hace sin saber** que es uno,  
+> La única expiación (prāyaścitta) que **debe realizarse**  
+> es **rogar** en estas palabras:-  
+> 
+> > "**Perdón** la ofensiva".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“अज्ञानादथवा ज्ञानादपराधेषु सत्स्वपि ।  
+प्रायश्चित्तं क्षमस्वेति प्रार्थनैकैव केवलम्”  
+(वङ्गीपुरत्तु-नम्बि-कारिका) 
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **विदितस्** स हि धर्मज्ञः  
+> शरणागत-**वत्सलः** ।  
+> तेन **मैत्री भवतु** ते  
+> यदि **जीवितुम् इच्छसि** ।  
+> **प्रसादयस्व** त्वञ् चैनं  
+> शरणागत-**वत्सलम्** ।  
+> **माञ्चास्मै प्रयतो** भूत्वा  
+> +++(मां)+++ **निर्यातयितुम् अर्हसि**॥  
+> +++(इति सीता)+++    
+> (रामायणम् सुन्दरकाण्डम् 21-20 ) 
+</details>
+
+<details><summary>विषयः</summary>
+
+अपराध-क्षमा-प्रपत्तिः, प्रपत्तिः
+</details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **विदितस्** स हि धर्मज्ञः  
+> शरणागत-**वत्सलः** ।  
+> तेन **मैत्री भवतु** ते  
+> यदि **जीवितुम् इच्छसि** ।  
+> **प्रसादयस्व** त्वञ् चैनं  
+> शरणागत-**वत्सलम्** ।  
+> **माञ्चास्मै प्रयतो** भूत्वा  
+> +++(मां)+++ **निर्यातयितुम् अर्हसि**॥  
+> +++(इति सीता)+++    
+> (रामायणम् सुन्दरकाण्डम् 21-20 ) 
+</details>
+
+
+
+<details><summary>English</summary>
+
+> (So also Sītā says:)  
+> “It is well known that Śrī Rāma knows what Dharma is  
+> and is fond of those who seek refuge under him.  
+> Seek his friendship if you desire to live.  
+> Propitiate Śrī Rāma who loves those that surrender themselves to him and, with a pure heart,  
+> see that I am returned to him."
 
 </details>
+
+<details><summary>Español</summary>
+
+> (Así también dice sītā :)  
+> “Es bien **sabido** que Śrī Rāma **sabe** lo que es el dharma  
+> y **es aficionado** a aquellos que **buscan refugio** bajo él.  
+> **Busca su** amistad si **deseas vivir**.  
+> **Propiciar** Śrī rāma  
+> que ama a los que **se rinden** a él y, con un corazón puro,  
+> **Mira** que me **devuelven** a él ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“विदितस्स हि धर्मज्ञः शरणागतवत्सलः ।  
+तेन मैत्री भवतु ते यदि जीवितुमिच्छसि ।  
+प्रसादयस्व त्वञ्चैनं शरणागतवत्सलम् ।  
+माञ्चास्मै प्रयतो भूत्वा निर्यातयितुमर्हसि”  
+(रामायणम् सुन्दरकाण्डम् 21-20) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्यादि-गळिऱ् चॊल्लुगिऱप् पडिये+++(=प्रकारेण)+++  
+यथाधिकारम् प्रायश्चित्तावलम्बनम् उण्डाम्.
+</details>
+
+<details><summary>English</summary>
+
+and perform the proper atonement (prāyaścitta)  
+that is suited to his competence.  
+The above ~~following~~ ślokas explain the point.
+</details>
+
+<details><summary>Español</summary>
+
+y **realizar** la expiación adecuada (Prāyaścitta)  
+Eso **es adecuado** para su competencia.  
+Lo anterior ~~ siguiente ~~ ślokas **explica** el punto.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इत्यादिगळिऱ्‌चॊल्लुगिऱप्पडिये यथाधिकारम् प्रायश्चित्तावलम्बनमुण्डाम्.
+</details>
+
 
 ## यमदण्डवारणम्
 THE PRAPANNA WILL NEVER GO TO THE WORLD
