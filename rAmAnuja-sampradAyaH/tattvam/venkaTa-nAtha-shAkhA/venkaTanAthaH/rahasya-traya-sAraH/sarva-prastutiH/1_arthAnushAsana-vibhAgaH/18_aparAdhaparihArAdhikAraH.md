@@ -545,8 +545,14 @@ __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्यादि-गळिऱ् चॊल्लुगिऱप् पडिये+++(=प्रकारेण)+++  
-यथाधिकारम् प्रायश्चित्तावलम्बनम् उण्डाम्.
+यथाऽधिकारम् **प्रायश्-चित्तावलम्बनम् उण्डाम्**.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-आद्य्-उक्त-रीत्या यथाऽधिकारं **प्रायश्-चित्तावलम्बनं भवति** ॥ 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -569,7 +575,7 @@ Lo anterior ~~ siguiente ~~ ślokas **explica** el punto.
 </details>
 
 
-## यमदण्डवारणम्
+## यम-दण्ड-वारणम्
 THE PRAPANNA WILL NEVER GO TO THE WORLD
 OF YAMA EVEN IF HE OFFENDS:
 
