@@ -583,13 +583,28 @@ __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रारब्ध-कर्म-विशेष-वशत्ताले कठिन-प्रकृतिय् आय्  
-क्षमै-कॊळ्ळुगैयुङ् गैदप्-पिन पोदु
+**क्षमै-कॊळ्ळुगैयुङ कै-तप्पिन** पोदु
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-When, owing to hard-heartedness due to past karma operating now (prārabdha), the prapanna does not+++(??)+++ obtain pardon by atonement, 
+प्रारब्ध-कर्म-विशेषात् कठिन-प्रकृतितया क्षमा-याच्ञायाम् अपि हस्त-च्युतायाम्,  
 </details>
+
+
+<details><summary>English</summary>
+
+When, owing to hard-heartedness due to past karma operating now (prārabdha),  
+the prapanna does not obtain pardon by atonement, 
+
+</details>
+
+<details><summary>Español</summary>
+
+Cuando, debido a la dureza debido a la **operación** del karma pasado ahora (prārabdha),  
+La Prapanna **no obtiene perdón** por expiación,
+</details>
+
 
 <details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
@@ -604,17 +619,49 @@ When, owing to hard-heartedness due to past karma operating now (prārabdha), th
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> स्व-पुरुषम् अभिवीक्ष्य पाश-हस्तं  
-> वदति यमः किल तस्य कर्ण-मूले ।  
-> "परिहर मधु-सूदन-प्रपन्नान्,  
-> प्र-भुर् अहम् अन्य-नृणां न वैष्णवानाम्"  
+> स्व-पुरुषम् **अभिवीक्ष्य** पाश-हस्तं  
+> **वदति** यमः किल तस्य कर्ण-मूले ।  
+> "**परिहर** मधु-सूदन-**प्रपन्नान्**,  
+> प्र-भुर् अहम् अन्य-नृणां, न वैष्णवानाम्"  
 > (विष्णुपुराणम् 3-7-14)
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-For it has been said :- "Seeing his attendants with the noose (of death ) in their hands, Yama whispers in their ears :-- "Do not approach those who have performed prapatti at (the feet of) Madhusūdana. I have sway only over others and not over the devotees of Viṣṇu ". 
+> स्व-पुरुषम् **अभिवीक्ष्य** पाश-हस्तं  
+> **वदति** यमः किल तस्य कर्ण-मूले ।  
+> "**परिहर** मधु-सूदन-**प्रपन्नान्**,  
+> प्र-भुर् अहम् अन्य-नृणां, न वैष्णवानाम्"  
+> (विष्णुपुराणम् 3-7-14)
+
 </details>
+
+
+<details><summary>English</summary>
+
+For it has been said :- 
+
+> "Seeing his attendants with the noose (of death ) in their hands,  
+> Yama whispers in their ears :--  
+> 
+> > "Do not approach those who have performed prapatti at (the feet of) Madhusūdana.  
+> I have sway only over others  
+> and not over the devotees of Viṣṇu ". 
+
+</details>
+
+<details><summary>Español</summary>
+
+Porque **se ha dicho**:-
+
+> "**Ver** a sus asistentes con la soga (de la muerte) en sus manos,  
+> Yama **susurra** en sus oídos:-
+>
+>> "**No te acerques** a aquellos que **han realizado Prapatti** en (los pies de) Madhusūdana.  
+> Solo **he influido** sobre otros  
+> y no sobre los devotos de Viṣṇu ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -626,20 +673,51 @@ __________
 
 > "कमल-नयन वासुदेव विष्णो  
 धरणि-धराच्युत शङ्ख-चक्र-पाणे ।  
-भव-शरणम्" इतीरयन्ति ये वै  
-> त्यज भट दूरतरेण तान् अपापान्” 
+भव-**शरणम्" इतीरयन्ति** ये वै  
+> **त्यज** भट दूरतरेण तान् अपापान्” 
 > (विष्णुपुराणम् 3-7-33)
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> "कमल-नयन वासुदेव विष्णो  
+धरणि-धराच्युत शङ्ख-चक्र-पाणे ।  
+भव-**शरणम्" इतीरयन्ति** ये वै  
+> **त्यज** भट दूरतरेण तान् अपापान्” 
+> (विष्णुपुराणम् 3-7-33)
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 “कमलनयन वासुदेव विष्णो धरणिधराच्युत शङ्खचक्रपाणे । भवशरणमितीरयन्ति ये वै त्यज भट दूरतरेण तानपापान्”(विष्णुपुराणम् 3-7-33)
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>English</summary>
 
-And Again : - "O Thou with lotus-like eyes, O Vāsudeva, O Viṣṇu, O Thou that bearest the earth, O Thou that art armed with the conch and the discus, be Thou my refuge" - those that utter these words - leave them at a distance for they are not sinners"
+And Again : - 
+
+>> "O Thou with lotus-like eyes, O Vāsudeva, O Viṣṇu, O Thou that bearest the earth,  
+> O Thou that art armed with the conch and the discus,  
+> be Thou my refuge" - 
+> 
+> those that utter these words -  
+> leave them at a distance for they are not sinners"
+
 </details>
+
+<details><summary>Español</summary>
+
+Y de nuevo: -
+
+>> "Oh tú con ojos de loto, oh vāsudeva, oh viṣṇu, oh tú que **llevas** la tierra,
+> Oh tú que **ese armado** con la concha y el disco,
+> **Sea** tú mi **refugio** " -
+>
+> Aquellos que **pronuncian** estas palabras -
+> **Déjalos** a distancia - porque **no son** pecadores "
+</details>
+
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -662,23 +740,97 @@ and further, "Those that perform prapatti to Viṣṇu, the God who is armed wit
 </details>
 
 __________
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऎऩ्ऱु वैष्णव-वामनादि-पुराणङ्गळिन् पासुरङ्गळुक्कु मूल-मान श्रुतियिऱ्‌ चॊल्लुगिऱप् पडिये+++(=प्रकारेण)+++  
-यम-विषय-गमनम् इऩ्ऱिक्के+++(=इल्लादे)+++ वेल् इट्टुप् पाय+++(→हाय्)+++ वेण्डुमदु  
-मुळ्ळिट्टुप् पाय्न्दु,  
-कऴियुम् ऎऩ्गिऱ+++(=ऎम्बुव)+++ कणक्किले  
-+++(अन्धता-स्थानत्तिल्)+++ काणन्,  
-+++(द्वि-पाद-हति-स्थानत्तिल्)+++ खञ्जन् ऎऩ्ऱु  
-मुदल्-आगव्-ओदुगिऱ+++(=पठित)+++-विङ्गुऱ्ऱैय्+++(=पुष्कल)+++-उप-क्लेश-मुखत्ताले  
+ऎऩ्ऱु वैष्णव-वामनादि-पुराणङ्गळिन् पासुरङ्गळुक्कु  
+मूलम् आन श्रुतियिऱ्‌ **चॊल्लुगिऱप्** पडिये+++(=प्रकारेण)+++  
+यम-विषय-**गमनम् इऩ्ऱिक्के**+++(=इल्लादे)+++  
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति वैष्णव-वामनादि-पुराण-वचन--मूल-भूत-श्रुत्य्-उक्त-रीत्या  
+यम-विषय-गमनम् अन्तरैव,  
+</details>
+
+
+<details><summary>English</summary>
 
 he will not go to the world of Yama (but receive punishment in this very life).  
 
-As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the passages in the strutis on which they are based, they do not go to the land of Yama, but they are punished with the blindness of an eye, or the lameness of a leg, or some such thing and thus relieved of their burden (of sin). (They will be punished in this life itself here) on the analogy of one (who is dear) being punished with the prick of a thorn instead of being stabbed with a spear.
+As stated above in such treatises as Viṣṇu purāna and Vamanapurāna  
+and the passages in the strutis on which they are based,  
+they do not go to the land of Yama, 
 </details>
+
+<details><summary>Español</summary>
+
+**No irá** al mundo de Yama  
+(sino que **recibirá castigo** en esta misma vida).
+
+Como **se indicó** anteriormente en tratados como Viṣṇu Purāna y Vamanapurāna  
+y los pasajes en el strutis en los que **se basan**,  
+**No van** a la tierra de Yama,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+
+ऎऩ्ऱु वैष्णववामनादिपुराणङ्गळिन् पासुरङ्गळुक्कु मूलमान श्रुतियिऱ्‌चॊल्लुगिऱप्पडिये यमविषयगमनमिऩ्ऱिक्के 
+</details>
+
+## लघु-दण्डः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**वेल् इट्टुप् पाय**+++(→हाय्)+++ वेण्डुमदु  
+मुळ्ळिट्टुप् **पाय्न्दु कऴियुम्**  
+ऎऩ्गिऱ कणक्किले  
++++(अन्धता-स्थानत्तिल्)+++ काणन्,  
++++(द्वि-पाद-हति-स्थानत्तिल्)+++ खञ्जन् ऎऩ्ऱु  
+मुदल्-आगव्-ओदुगिऱव्+++(=पठित)+++ इङ्ग्-उऱ्ऱैय्+++(=युक्त)+++--उप-क्लेश-मुखत्ताले  
+
+शिखैय् अऱुक्कुम् विरगुगळै+++(=कौशलान्)+++ मुन्न् इट्टु  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> कुन्त-**वेधन-निवर्त्यस्य**  
+कण्ट-कवेधेन **निवृत्तिर्** 
+
+इति न्यायेन  
+"+++(अन्धता-स्थाने)+++ काणः, +++(द्वि-पाद-हति-स्थाने)+++ खञ्जः" इत्य्-आद्याम्नातैहिकोपक्लेश-मुखेन,  
+शिखा-कर्तकोपायान् अवलम्ब्य  
+
+[[१४३]] 
+</details>
+
+<details><summary>English</summary>
+
+(They will be punished in this life itself here)  
+on the analogy of one (who is dear) being punished with the prick of a thorn  
+instead of being stabbed with a spear.
+
+(but) they are punished with the blindness of an eye,  
+or the lameness of a leg,  
+or some such thing  
+and thus relieved of their burden (of sin).  
+
+</details>
+
+<details><summary>Español</summary>
+
+(**Serán castigados** en esta vida aquí)  
+Sobre la analogía de uno (que es querido) **siendo castigado** con el **pinchazo** de una espina  
+en lugar de **ser apuñalado** con una lanza.
+
+(pero) son **castigados** con la ceguera de un ojo,
+o la cojera de una pierna,
+o algo así
+y así **aliviado** de su carga (del pecado).
+</details>
+
 
 <details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
@@ -687,27 +839,42 @@ As stated above in such treatises as Viṣṇu purāna and Vamanapurāna and the
 
 <details><summary>मूलम्</summary>
 
-ऎऩ्ऱु वैष्णववामनादिपुराणङ्गळिन् पासुरङ्गळुक्कु मूलमान श्रुतियिऱ्‌चॊल्लुगिऱप्पडिये यमविषयगमनमिऩ्ऱिक्के वेलिट्टुप्पाय वेण्डुमदु मुळ्ळिट्टुप्पाय्न्दु कऴियुमॆऩ्गिऱ कणक्किले काणन् खञ्जन् ऎऩ्ऱु मुदलागवोदुगिऱ विङ्गुऱ्ऱैयुपक्लेशमुखत्ताले
+वेलिट्टुप्पाय वेण्डुमदु मुळ्ळिट्टुप्पाय्न्दु कऴियुमॆऩ्गिऱ कणक्किले काणन् खञ्जन् ऎऩ्ऱु मुदलागवोदुगिऱ विङ्गुऱ्ऱैयुपक्लेशमुखत्ताले सिगैयऱुक्कुम् विरगुगळै मुन्निट्टु सर्वेश्वरन् 
 </details>
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सिगैय् अऱुक्कुम् विरगुगळै+++(=कौशलान्)+++ मुन्न् इट्टु  
 सर्वेश्वरन् क्षमा-प्रेम-दया-वात्सल्यङ्गळाले  
 तणिन्द+++(=रुद्ध)+++-प्रतापत्तैय् उडैयनाय्  
 मिगवुम्+++(=अधिकं)+++ दण्डिक्क-वेण्डुम् अपराधत्तुक्कु  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सर्वेश्वरः क्षमा-प्रेम-दया-वात्सल्यादिभिः शान्त-प्रतापः सन्  
+अधिक-दण्डन-प्रयोजकस्यापराधस्य कृते  
+</details>
+
+<details><summary>English</summary>
+
+The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love,  
+relents in His anger (and protects the prapanna after a light punishment in this very life for his offence.) 
 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>Español</summary>
 
-The Supreme Lord, being possessed of forgiveness, kindness, compassion and over-flowing love, relents in His anger (and protects the prapanna after a light punishment in this very life for his offence.) 
+El Señor Supremo, **poseído** de perdón, amabilidad, compasión y amor excesivo,  
+**cede** en su ira  
+(y **protege** a la Prapanna después de un **castigo** ligero  
+en esta vida por su ofensa).
 </details>
+
 
 <details><summary>मूलम्</summary>
 
-सिगैयऱुक्कुम् विरगुगळै मुन्निट्टु सर्वेश्वरन् क्षमाप्रेमदयावात्सल्यङ्गळाले तणिन्द प्रतापत्तैयुडैयनाय् मिगवुम् दण्डिक्कवेण्डुमपराधत्तुक्कु
+क्षमाप्रेमदयावात्सल्यङ्गळाले तणिन्द प्रतापत्तैयुडैयनाय् मिगवुम् दण्डिक्कवेण्डुमपराधत्तुक्कु
 </details>
 
 <details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
@@ -719,18 +886,47 @@ __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सेव्यन् आऩ सार्वभौमन्  
-अडैय्-आळक्-कारर्, अन्तः-पुर-परिजन, कूनर्+++(=कुब्जाः)+++, कुऱळर्+++(=वामनाः)+++, कुमारर्गळ् विषयत्तिल्  
-अपराधङ्गळुक्क् ईडागवुम्,  
-अन्तर्-अङ्गत्वादि-तार-तम्यत्तुक्क् ईड् आगवुम्,  
-संबन्धानृशंस्यादिगळाले प्रीति नडक्कच् चॆय्देय्  
+अडैय्+++(=शरण)+++-आळक्-कारर्, अन्तः-पुर-परिजन, कूनर्+++(=कुब्जाः)+++, कुऱळर्+++(=वामनाः)+++, कुमारर्गळ् विषयत्तिल्  
+**अपराधङ्गळुक्क् ईड् आगवुम्**,  
+अन्तर्-अङ्गत्वादि--तारतम्यत्तुक्क् **ईड् आगवुम्**,  
+संबन्धानृशंस्यादिगळाले **प्रीति नडक्कच् चॆय्देय्**  
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-An emperor, who is to be duly served, punishes his attendants (like those who carry the umbrellas ), the servants of the harem like the hunchbacks and the dwarfs and so also the princes, in proportion to their offences and (also) to such things as their closeness to Him. 
-
-(He punishes them) for having committed offences, in spite of his affection to them due to their relationship and His goodness.  
+यथा सेव्यः सार्वभौमः  
+चिह्न-धारक--अन्तः-पुर-परिजन--कुब्ज-वामन-कुमार-विषये  
+अपराधानुगुणम् अन्तरङ्गत्वादि-तारतम्यानुगुणं च  
+संबन्धानृशंस्यादिभिः **प्रीतौ प्रवर्तमानायां सत्याम्** एव,  
 </details>
+
+<details><summary>English</summary>
+
+An emperor, who is to be duly served,  
+punishes his attendants  
+like those who carry the umbrellas, the servants of the harem like the hunchbacks and the dwarfs and so also the princes,  
+
+in proportion to their offences  
+and (also) to such things as their closeness to Him. 
+
+(He punishes them) for having committed offences,  
+in spite of his affection to them due to their relationship and His goodness.  
+</details>
+
+<details><summary>Español</summary>
+
+Un emperador, que **debe ser** debidamente   ,
+**castiga** a sus asistentes  
+Al igual que aquellos que **llevan** los paraguas,  
+los sirvientes del harén, los jorobos, y los enanos y, por lo tanto, los príncipes,  
+
+en proporción a sus delitos  
+y (también) a las cosas como su cercanía con él.
+
+(Los **castiga**) por haber **cometido** delitos,  
+a pesar de su affection to them due to their relationship and His goodness.  
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -740,14 +936,31 @@ An emperor, who is to be duly served, punishes his attendants (like those who ca
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवर्गळ् तप्पिनदुक्कु क्षमै-गॊळ्ळुगैक्क् आगवुम्,  
-+++(इन्-)+++मेलैक्कुम् शिक्षैय् आगैक्क् आगवुम्,  
+अवर्गळ् **तप्पिनदुक्कु क्षमै-गॊळ्ळुगैक्क् आगवुम्**,  
++++(इन्-)+++मेलैक्कुम् **शिक्षैय् आगैक्क् आगवुम्**,  
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-(He punishes them) so that they may obtain pardon for their offences and know that, in future, they may not offend (in the same manner).
+तैः कृतस्यापराधस्य कृते  
+क्षमा-याचनार्थम्  
+अग्रेऽपि शिक्षार्थञ्च  
 </details>
+
+
+<details><summary>English</summary>
+
+(He punishes them) so that they may obtain pardon for their offences  
+and know that, in future, they may not offend (in the same manner).
+
+</details>
+
+<details><summary>Español</summary>
+
+(Los **castiga**) para que **puedan obtener perdón** por sus delitos  
+y **saber** que, en el futuro, **no pueden ofender** (de la misma manera).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -755,35 +968,91 @@ __________
 </details>
 
 __________
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुगङ् गॊडादेय् इरुत्तल्,  
-सम्मट्टिय्+++(=चर्म्मयष्टि)+++ इट्ट् अडित्तल्, तळ्ळु-वित्तल्, वासलिले तगै+++(=स्थगितं)+++-वित्तल्, सिऱिदु+++(←चिरु←किरु)+++ नाळ् सेवैयै विलक्कि+++(=रुद्ध्वा)+++ विडुदल् सॆय्युमाप्पोले
-
-मुगङ्गॊडादेयिरुत्तल्, सम्मट्टियिट्टडित्तल्, तळ्ळुवित्तल्, वासलिले तगैवित्तल्, सिऱिदु नाळ् सेवैयै विलक्किविडुदल् सॆय्युमाप्पोले 
-
-काक-न्यायत्तालेय् ऒरु कण्णऴिवालेय् इव्व् आश्रितरै रक्षित्तु विडुम्.
+मुखङ् **कॊडादेय् इरुत्तल्**,  
+सम्मट्टिय्+++(=चर्म्म-यष्टि)+++ **इट्ट् अडित्तल्**,  
+**तळ्ळु-वित्तल्**,  
+वासलिले **तगै+++(=स्थगितं)+++-वित्तल्**,  
+सिऱिदु+++(←चिरु←किरु)+++ नाळ् **सेवैयै विलक्कि**+++(=अवलक्ष्य)+++ **विडुदल् सॆय्युमाप्** पोले
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुख-दर्शनाप्रदान--कशा-ताडन--  
+गल-हस्तिका-प्रयोग--द्वार-निरोधन--  
+किञ्चित्-कालिक-सेवा-**त्याजनानि करोति**  
+</details>
+
+<details><summary>English</summary>
 
 The punishments are such as the following:  
-averting his face from them, whipping, getting them driven out, keeping them outside the gates and suspension for a short time.  
+**averting** his face from them,  
+whipping,  
+getting them driven out,  
+keeping them outside the gates  
+and suspension for a short time.  
+</details>
 
-Similarly (Iśvara) punishes the prapanna, as ŚrīRāma did in the case of Kakasura by making him lose an eye and thus protects him.
+<details><summary>Español</summary>
+
+Los **castigos** son tales como los siguientes:  
+**aprender** su rostro de ellos,  
+**flagelación**,
+**sacarlos**,  
+**Mantenerlos** fuera de las puertas  
+y **suspensión** por un corto tiempo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+मुगङ्गॊडादेयिरुत्तल्, सम्मट्टियिट्टडित्तल्, तळ्ळुवित्तल्, वासलिले तगैवित्तल्, सिऱिदु नाळ् सेवैयै विलक्किविडुदल् सॆय्युमाप्पोले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(राम-दण्डित-)+++काक-न्यायत्तालेय्  
+ऒरु कण्ण्-**अऴिवालेय्**  
+इव्व् आश्रितरै **रक्षित्तु विडुम्**.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तथा +++(राम-दण्डित-)+++काक-न्यायेन  
+किञ्चिल् लघु-दण्ड-करणेन  
+इमान् आश्रितान् **रक्षति** । 
+</details>
+
+<details><summary>English</summary>
+
+Similarly (Iśvara) punishes the prapanna,  
+as Śrī Rāma did in the case of Kakasura  
+by making him lose an eye and thus protects him.
+</details>
+
+<details><summary>Español</summary>
+
+Del mismo modo (iśvara) **castiga** a la prapanna,
+Como hizo Śrī Rāma en el caso de Kakasura  
+Al **hacer** que pierda un ojo y así lo **proteja**.
 </details>
 
 <details><summary>मूलम्</summary>
 
-मुगङ्गॊडादेयिरुत्तल्, सम्मट्टियिट्टडित्तल्, तळ्ळुवित्तल्, वासलिले तगैवित्तल्, सिऱिदु नाळ् सेवैयै विलक्किविडुदल् सॆय्युमाप्पोले काकन्यायत्ताले यॊरु कण्णऴिवाले यिव्वाश्रितरै रक्षित्तुविडुम्.
+काकन्यायत्ताले यॊरु कण्णऴिवाले यिव्वाश्रितरै रक्षित्तुविडुम्.
 </details>
 
 __________
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इप्पडि मृदु-प्रकृतिगळै क्षमैगॊळ्ळप्-पण्णु-वित्तल्  
 कठिन-प्रकृतिगळुक्कु शिक्षारूपमान दण्ड-विशेषम् पण्णुदल्+++(=माडुत्ता)+++  
-सॆय्गिऱ-विडमुम्+++(←विडु)+++ पूर्व-प्रपत्ति-फलम् आऩ क्षमैयिन् प्रकारभेदम् ऎऩ्ऱु
+सॆय्गिऱव् इडमुम्  
+पूर्व-प्रपत्ति-फलम् आऩ क्षमैयिन् प्रकार-भेदम् ऎऩ्ऱु
 
 शिक्षकन्-आऩ-शेषि-पक्कलिले कृतज्ञतै-नडक्कैक्काग  
 बुद्धि-पूर्वोत्तराघत्तैयुम् क्षमिक्कुम्  
