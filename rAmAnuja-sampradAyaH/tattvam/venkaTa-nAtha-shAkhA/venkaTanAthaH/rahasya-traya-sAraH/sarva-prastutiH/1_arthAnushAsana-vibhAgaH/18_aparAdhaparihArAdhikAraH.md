@@ -1447,6 +1447,7 @@ Un ligero **castigo** (miedo) y (entonces) **perdón**.
 </details>
 
 __________
+## अतिवादाः प्रशंसार्थाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल् 
@@ -1457,10 +1458,26 @@ __________
 ऒरु प्रमाणम् **अऩ्ऱिक्केय् इरुक्क**
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Therefore, when it is sometimes stated that even sins committed deliberately by a prapanna, would not cling to him, the statement has no authority in support of it. 
+अतः प्रपन्नस्य बुद्धि-पूर्वाघ-लेपो न भवतीति  
+विशिष्य प्रतिपादके कस्मिंश्चित् प्रमाणे ऽसत्य् एव,  
 </details>
+
+
+<details><summary>English</summary>
+
+Therefore, when it is sometime stated that even sins committed deliberately by a prapanna would not cling to him,  
+the statement has no authority in support of it. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, cuando **se dice** que incluso los **pecados** cometidos deliberadamente por una Prapanna  
+**no se aferrarían** a él,  
+La **declaración no tiene autoridad** en apoyo de la misma.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1470,40 +1487,175 @@ Therefore, when it is sometimes stated that even sins committed deliberately by 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवनुक्कुप् +++(प्रपत्ति-)+++पिन्बु बुद्धि-पूर्वापराधम् पिऱन्दालुम् क्षमै कॊळ्ळ वेण्डाव् ऎऩ्ऱुम्,  
-क्षमै कॊळ्ळा-विट्टालुम् शिक्षा-रूप-दण्डविशेषम् इल्लैय् ऎऩ्ऱुम्,  
+> इवनुक्कुप् +++(प्रपत्ति-)+++पिन्बु बुद्धि-पूर्वापराधम् **पिऱन्दालुम्**  
+**क्षमै कॊळ्ळ वेण्डाव्** 
+
+ऎऩ्ऱुम्,  
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-It is also sometimes stated that the prapanna need not atone for his sins even when he has committed them deliberately, and that, even if he has not atoned for them, there will be no punishment by way of teaching him a lesson. 
+अस्य +++(प्रपत्तेः)+++ पश्चात् बुद्धि-पूर्वाघे जातेऽपि  
+**क्षमा न याचनीयेति**,  
 </details>
+
+
+<details><summary>English</summary>
+
+It is also sometimes stated that the prapanna  
+need not atone for his sins  
+even when he has committed them deliberately,  
+</details>
+
+<details><summary>Español</summary>
+
+A veces también **se dice** que el Papanna
+**No necesita expiar** sus pecados
+Incluso cuando los **ha cometido** deliberadamente,
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-इवनुक्कुप् पिन्बु बुद्धिपूर्वापराधम् पिऱन्दालुम् क्षमै कॊळ्ळ वेण्डावॆऩ्ऱुम्, क्षमै कॊळ्ळाविट्टालुम् शिक्षारूपदण्डविशेष मिल्लैयॆऩ्ऱुम्, विळंबाक्षमरुक्कुम् परमफलत्तुक्कु विळंबम् वारादॆऩ्ऱुम्,
+इवनुक्कुप् पिन्बु बुद्धिपूर्वापराधम् पिऱन्दालुम् क्षमै कॊळ्ळ वेण्डावॆऩ्ऱुम्, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> क्षमै **कॊळ्ळा-विट्टालुम्** शिक्षा-रूप-**दण्ड**-विशेषम् **इल्लैय्** 
+
+ऎऩ्ऱुम्,  
+
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+क्षमा-**याचनाभावे** ऽपि **शिक्षण**-रूप-**दण्ड**-विशेषो नेति, 
+</details>
+
+
+<details><summary>English</summary>
+
+and that, even if he has not atoned for them,  
+there will be no punishment by way of teaching him a lesson. 
+</details>
+
+<details><summary>Español</summary>
+
+y eso, incluso si **no ha expiado** por ellos,
+**No habrá castigo** al **enseñarle** una lección.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+क्षमै कॊळ्ळाविट्टालुम् शिक्षारूपदण्डविशेष मिल्लैयॆऩ्ऱुम्, 
 </details>
 
 __________
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "विळंबाक्षमरुक्कुम् परम-फलत्तुक्कु विळंबम् वाराद्" ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+विलम्बाक्षमाणां परमफलस्य विलम्बो न भवतीति, 
+</details>
+
+<details><summary>English</summary>
+
+It is sometimes maintained also  
+that when such offences have been committed,  
+there will be no delay in the attainment of the supreme goal  
+even for those who are impatient of delay  
+</details>
+
+<details><summary>Español</summary>
+
+A veces **se mantiene** también  
+que cuando **se han cometido** tales delitos,  
+**No habrá demora** en el **logro** de la meta suprema   
+Incluso para aquellos que **están impacientes** por la demora
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+विळंबाक्षमरुक्कुम् परमफलत्तुक्कु विळंबम् वारादॆऩ्ऱुम्,
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"प्रारब्ध-सुकृत-विशेषादिगळाले वरुम् इङ्गुऱ्ऱ कैङ्कर्यत्तुक्कु  
+विच्छेद-सङ्कोचङ्गळ् वाराद्" ऎऩ्ऱुञ्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> प्रारब्ध-सुकृत-विशेषादि-निबन्धनस्येहत्य-कैङ्कर्यस्य **विच्छेद-सकोचौ न भवत** 
+
+इति 
+</details>
+
+<details><summary>English</summary>
+
+and that there will be no intermission or diminution  
+in the services which have come to a man  
+as the result of meritorious karma in the past bearing fruit in this life.  
+</details>
+
+<details><summary>Español</summary>
+
+y que **no habrá** intermedio ni disminución  
+en los ****servicios** que han llegado** a un hombre  
+Como resultado del karma meritorio en el pasado  
+con **frutos** en esta vida.
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
 "प्रारब्ध-सुकृत-विशेषादिगळाले वरुम् इङ्गुऱ्ऱ कैङ्कर्यत्तुक्कु विच्छेद-सङ्कोचङ्गळ् वाराद्" ऎऩ्ऱुञ्  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 चोल्लुगिऱ पक्षङ्गळ्  
 शरण्यनुडैय गुणङ्गळैयुम्,  
 शरणागतियिनुडैय प्रभावत्तैयुञ्  
 चॊल्लुगैक्कागव् अत्तनै.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-It is sometimes maintained also that when such offences have been committed, there will be no delay in the attainment of the supreme goal even for those who are impatient of delay and that there will be no intermission or diminution in the services which have come to a man as the result of meritorious karma in the past bearing fruit in this life.  
-These propositions maintained by some (should not be taken as literally true); they are made just to glorify the attributes and qualities of the Saviour and the power of prapatti.
+चोच्यमानाः पक्षाः  
+शरण्य-गुणानां शरणागति-प्रभावस्य च प्रतिपादनार्थं प्रवृत्ता इत्येव [ तत्त्वम् ]। 
 </details>
+
+<details><summary>English</summary>
+
+These propositions maintained by some  
+(should not be taken as literally true);  
+they are made just to glorify the attributes and qualities of the Saviour  
+and the power of prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+Estas proposiciones **mantenidas** por algunas  
+(**no debe tomarse** como literalmente cierto);  
+**Están hechos** solo para **glorificar** los atributos y cualidades del Salvador  
+y el poder de Prapatti.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-विळंबाक्षमरुक्कुम् परमफलत्तुक्कु विळंबम् वारादॆऩ्ऱुम्,  
 प्रारब्धसुकृतविशेषादिगळाले वरुमिङ्गुऱ्ऱ कैङ्कर्यत्तुक्कु विच्छेदसङ्कोचङ्गळ् वारादॆऩ्ऱुञ्चॊल्लुगिऱ पक्षङ्गळ् शरण्यनुडैय गुणङ्गळैयुम् शरणागतियिनुडैय प्रभावत्तैयुञ् चॊल्लुगैक्कागवत्तनै.
 </details>
 
@@ -1512,21 +1664,59 @@ __________
 
 इप्पडिय् अल्लाद पोदु  
 
-प्रपन्नरान पूर्वर्गळुडैय अनुष्ठान-परम्परैक्कुम्  
-प्रपन्नरैप् पऱ्ऱवे+++(=पडुव)+++ प्रायश्चित्तम् विधिक्किऱ शास्त्रत्तुक्कुम्  
+प्रपन्नर् आन पूर्वर्गळ्-उडैय +++(प्रपत्त्य्-उत्तर-)+++**अनुष्ठान**--परम्-परैक्कुम्  
 
-मोक्षम्-पॆऱुगैक्कुक्+++(=जातेः)+++ कालङ् कुऱित्तु प्रपत्ति-पण्णादेय्  
+प्रपन्नरैप् **पऱ्ऱवे**+++(=पडुव)+++ प्रायश्चित्तम् **विधिक्किऱ** शास्त्रत्तुक्कुम्  
+
+मोक्षम् पॆऱुगैक्कुक्+++(=जातेः)+++ कालङ् कुऱित्तु प्रपत्ति-पण्णादेय् +++(तद् अन्तरैव प्रपद्य)+++  
 अनुवृत्त-बुद्धि-पूर्वापराधरुम् आय्  
-विळंबाक्षमरुम् आय्  
-इरुप्पार्क्कु 
+विळंबाक्षमरुम् आय् इरुप्पार्क्कु  
+विळंबञ् चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ् 
 
-विळंबञ् चॊल्लुगिऱ प्रमाणङ्गळुक्कुञ् चेरादु. 
+**शेरादु**. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Otherwise there would be no meaning in the continued tradition of the observance, by previous prapannas, of the code of conduct prescribed for the prapanna, in the śāstras which prescribe methods of atonement for sins in the case of prapannas, and in the texts which say that there will be delay in the attainment of mokṣa  for those who did not perform prapatti indicating the time when they wanted to have it and are also impatient of delay while sinning deliberately. 
+अन्यथा प्रपन्नानां पूर्वेषाम् अनुष्ठान-परम्-परायाः,  
+
+प्रपन्नम् अधिकृत्यैव प्रायश्-चित्त-विधायकस्य शास्त्रस्य,  
+
+मोक्ष-प्राप्त्य्-अर्थं काल-विशेषोद्देश-पूर्वकं प्रपत्तिम् अकृतवताम् +++(प्रपन्नानाम्)+++  
+अनुवृत्त-बुद्धि-पूर्वापराधानां  
+विलम्बाक्षमाणां विलम्बस्य प्रतिपादकानां श्रमाणानां 
+
+च **सांगत्यं न स्यात्** । 
 </details>
+
+
+
+<details><summary>English</summary>
+
+Otherwise there would be no meaning in the continued tradition of the observance, by previous prapannas, of the code of conduct prescribed for the prapanna,  
+
+in the śāstras which prescribe methods of atonement for sins in the case of prapannas,  
+
+and in the texts which say that there will be delay in the attainment of mokṣa  
+for those who did not perform prapatti  
+indicating the time when they wanted to have it  
+and are also impatient of delay while sinning deliberately. 
+
+</details>
+
+<details><summary>Español</summary>
+
+De lo contrario, **no habría significado** en la tradición continua de la **observancia**,  
+por Prapannas anteriores, del Código de Conducta prescrito para Prapanna,
+
+en los Śāstras que **prescriben métodos de expiación** para los pecados en el caso de Prapannas,
+
+y en los textos que **dicen** que **habrá retraso** en el **logro** de Mokṣa  
+Para aquellos que **no realizaron** Prapatti  
+**indicando** el momento en que **querían tenerlo**  
+y también **están impacientes** por la demora mientras **se pecan** deliberadamente.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1535,26 +1725,71 @@ Otherwise there would be no meaning in the continued tradition of the observance
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“सर्वपापेभ्यो मोक्षयिष्यामि” ऎऩ्ऱु सामान्येन सॊल्लच् चॆय्देयुम्  
-“प्रायश्चित्तिर् इयं सात्र, यत् पुनश् शरणं व्रजेत्”  
+> “सर्व-पापेभ्यो मोक्षयिष्यामि”  
+
+ऎऩ्ऱु सामान्येन सॊल्लच् चॆय्देयुम्  
+
+> “प्रायश्चित्तिर् इयं सात्र, यत् पुनश् शरणं व्रजेत्”  
+
 ऎऩ्ऱु विशेषिक्कैयाले  
-बुद्धिपूर्वोत्तराघत्तुक्कु प्रपत्त्य्-अनन्तरम् प्रायश्चित्तम् आग प्राप्तम् आयिऱ्ऱु+++(=भूत्वा)+++,  
-पुनश् शरणागतियै विधिक्किऱ वचनत्तै अडियिले …
+बुद्धि-पूर्वोत्तराघत्तुक्कु प्रपत्त्य्-अनन्तरम् प्रायश्चित्तम् आग **प्राप्तम् आयिऱ्ऱु**
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Though it is said as a general statement, "I will release you from all sins", since it is qualified by a passage standing as a special case: "This atonement consists in the performance of prapatti once again", it is evident that the atonement for sins committed deliberately after prapatti is the performance of another prapatti.
+> "सर्व-पापेभ्यो मोक्षयिष्यामि" 
+
+इति सामान्यत उक्तेऽपि  
+
+> “प्रायश्चित्तिर् इयं साऽत्र  
+> यत् पुनः शरणं व्रजेत्” 
+
+इति विशिष्योक्तत्वात् -  
+बुद्धि-पूर्वोत्तराघस्य प्रपत्त्य्-अन्तरं प्रायश्-चित्तत्वेन प्राप्तं भवति । 
 </details>
+
+
+<details><summary>English</summary>
+
+Though it is said as a general statement, 
+
+> "I will release you from all sins", 
+
+since it is qualified by a passage standing as a special case: 
+
+> "This atonement consists in the performance of prapatti once again", 
+
+it is evident that the atonement for sins committed deliberately after prapatti  
+is the performance of another prapatti.
+</details>
+
+<details><summary>Español</summary>
+
+Aunque **se dice** como una declaración general,
+
+> "Te **liberaré** de todos los pecados",
+
+Dado que **está calificado** por un pasaje como caso especial:
+
+> "Esta **expiación consiste** en el **rendimiento** de Prapatti una vez más",
+
+Es evidente que la **expiación** por los pecados **cometidos** deliberadamente después de Prapatti  
+**es** el **rendimiento** de otro Prapatti.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-“सर्वपापेभ्यो मोक्षयिष्यामि” ऎऩ्ऱु सामान्येन सॊल्लच्चॆय्देयुम् “प्रायश्चित्तिरियं सात्र यत्पुनश्शरणंव्रजेत्” ऎऩ्ऱु विशेषिक्कैयाले बुद्धिपूर्वोत्तराघत्तुक्कु प्रपत्त्यनन्तरम् प्रायश्चित्तमाग प्राप्तमायिऱ्ऱु, पुनश्शरणागतियै विधिक्किऱ वचनत्तै अडियिले
+“सर्वपापेभ्यो मोक्षयिष्यामि” ऎऩ्ऱु सामान्येन सॊल्लच्चॆय्देयुम् “प्रायश्चित्तिरियं सात्र यत्पुनश्शरणंव्रजेत्” ऎऩ्ऱु विशेषिक्कैयाले बुद्धिपूर्वोत्तराघत्तुक्कु प्रपत्त्यनन्तरम् प्रायश्चित्तमाग प्राप्तमायिऱ्ऱु
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम् आगप् प्रपत्ति पण्णादार् विषयत्तिले नियमित्तालोव् ऎन्नव् ऒण्णादु+++(=ऒप्पादु)+++
+> पुनश् शरणागतियै विधिक्किऱ वचनत्तै अडियिले  
+बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम् आगप् प्रपत्ति पण्णादार् विषयत्तिले  
+नियमित्तालोव् 
+
+ऎन्नव् ऒण्णादु+++(=ऒप्पादु)+++
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
@@ -1564,7 +1799,7 @@ It cannot be argued that this passage prescribing another prapatti is only for t
 
 <details><summary>मूलम्</summary>
 
-बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमागप् प्रपत्ति पण्णादार् विषयत्तिले नियमित्तालोव् ऎन्नवॊण्णादु
+पुनश् शरणागतियै विधिक्किऱ वचनत्तै अडियिले बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमागप् प्रपत्ति पण्णादार् विषयत्तिले नियमित्तालोव् ऎन्नवॊण्णादु
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
