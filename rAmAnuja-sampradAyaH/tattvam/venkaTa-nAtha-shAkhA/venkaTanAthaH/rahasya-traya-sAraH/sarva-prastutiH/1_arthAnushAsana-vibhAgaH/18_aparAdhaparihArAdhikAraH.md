@@ -1046,27 +1046,54 @@ Al **hacer** que pierda un ojo y así lo **proteja**.
 </details>
 
 __________
-
+## अन्यादृशाभियुक्त-वाक्य-तात्पर्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडि मृदु-प्रकृतिगळै क्षमैगॊळ्ळप्-पण्णु-वित्तल्  
-कठिन-प्रकृतिगळुक्कु शिक्षारूपमान दण्ड-विशेषम् पण्णुदल्+++(=माडुत्ता)+++  
-सॆय्गिऱव् इडमुम्  
-पूर्व-प्रपत्ति-फलम् आऩ क्षमैयिन् प्रकार-भेदम् ऎऩ्ऱु
+इप्पडि मृदु-प्रकृतिगळै **क्षमैगॊळ्ळप्-पण्णु-वित्तल्**  
+कठिन-प्रकृतिगळुक्कु शिक्षा-रूपमान **दण्ड**-विशेषम् **पण्णुदल्**+++(=माडुत्ता)+++  
+**सॆय्गिऱव् इडमुम्**  
+पूर्व-प्रपत्ति-फलम् आऩ **क्षमैयिन् प्रकार-भेदम्** ऎऩ्ऱु +++(5)+++
 
-शिक्षकन्-आऩ-शेषि-पक्कलिले कृतज्ञतै-नडक्कैक्काग  
-बुद्धि-पूर्वोत्तराघत्तैयुम् क्षमिक्कुम्  
+शिक्षकन्-आऩ-शेषि-पक्कलिले कृत-ज्ञतै-**नडक्कैक्क् आग**  
+बुद्धि-पूर्वोत्तराघत्तैयुम् **क्षमिक्कुम्**  
 ऎऩ्ऱु सिलर् सॊन्नार्गळ्.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं मृदु-प्रकृतीनां क्षमा-**याचने प्रवर्तनं**  
+कठिन-प्रकृतीनां शिक्षा-रूप-**दण्ड**-विशेष-विधानं च  
+पूर्व-प्रपत्ति-फल-भूतायाः **क्षमायाः** प्रकार-भेद  
+इति शिक्षक-शेषि-विषये कृत-**ज्ञतानुवर्तनार्थम्**  
+'बुद्धि-पूर्वाघम् अपि **क्षाम्येत्**' इति केचिद् **ऊचुः** । 
+</details>
+
+
+<details><summary>English</summary>
 
 Directing those that are gentle to obtain pardon (by atonement)  
-and punishing those that are tough by nature for the sake of correction are of the nature of the Lord's forgiveness,  
+and punishing those that are tough by nature for the sake of correction  
+are of the nature of the Lord's forgiveness,  
 which is a consequence of their prapatti that preceded it.  
 One should therefore feel grateful to the Lord for this correction.  
-To emphasise this point, some said that the Lord would pardon even those sins that are committed deliberately. (They did not mean to say that deliberate offences would be pardoned without any punishment).
+To emphasise this point,  
+some said that the Lord would pardon even those sins that are committed deliberately.  
+(They did not mean to say that deliberate offences would be pardoned without any punishment).
+
 </details>
+
+<details><summary>Español</summary>
+
+**Dirigiendo** a aquellos que **son gentiles** para **obtener perdón** (por expiación)  
+y **castigar** a aquellos que **son difíciles** por naturaleza en aras de la **corrección**  
+**son** de la naturaleza del **perdón** del Señor,  
+lo cual es una **consecuencia** de su Prapatti que lo precedió.  
+Por lo tanto, uno debe **sentirse agradecido** al Señor por esta **corrección**.  
+Para **enfatizar** este punto,  
+Algunos **dijeron** que el Señor **perdonaría** incluso los pecados que **se cometen** deliberadamente.  
+(No **quisieron decir** que los pecados deliberados **se perdonarían sin ningún castigo**).
+</details>
+
 
 <details><summary>लक्ष्मीपुर-श्रीनिवासः (सं)</summary>
 
@@ -1081,22 +1108,48 @@ To emphasise this point, some said that the Lord would pardon even those sins th
 </details>
 
 ## प्रपत्ति-साफल्यं मोक्षे
+<details><summary>English</summary>
+
 PRAPATTI WILL NEVER BE IN VAIN :
+</details>
+
+<details><summary>Español</summary>
+
+Prapatti **nunca será en vano**:
+</details>
+
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रारब्ध-कर्मत्तिल् पापांशम्-बोले  
-बुद्धिपूर्वोत्तराघम् प्रायश्-चित्तम् पण्णाद--पोदु  
-स-फलम् आनालुम्  
-पण्णिन प्रपत्ति मोक्षङ् गॊडाद् ऒऴियुमोव् ऎऩ्ऱु  
-शङ्किक्कवॊण्णादु;
+> प्रारब्ध-कर्मत्तिल् पापांशम् बोले  
+बुद्धि-पूर्वोत्तराघम् **प्रायश्-चित्तम् पण्णाद**--पोदु  
++++(लघु-दण्डनेन)+++ **स-फलम् आनालुम्**  
+**पण्णिन प्रपत्ति** मोक्षङ् **कॊडाद् ऒऴियुमोव्** 
+
+ऎऩ्ऱु **शङ्किक्क वॊण्णादु**;
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>English</summary>
 
-It should not be thought that, because sins committed deliberately after prapatti and not atoned for would be followed by their consequences, like that part of prārabdha karma which is of the nature of sin, the prapatti performed before would not yield mokṣa. 
+It should not be thought that,  
+
+because sins committed deliberately after prapatti and not atoned for  
+would be followed by their consequences,  
+like that part of prārabdha karma which is of the nature of sin,  
+the prapatti performed before would not yield mokṣa. 
 </details>
+
+<details><summary>Español</summary>
+
+**No** debe **ser pensado** que,  
+
+Porque los pecados **se cometieron deliberadamente** después de Prapatti y **no he sido expiado**  
+**sería seguido** por sus consecuencias,  
+como esa parte del karma prārabdha que **es** de la naturaleza del pecado,  
+El Prapatti **realizado** antes **no produciría** mokṣa.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1106,15 +1159,30 @@ It should not be thought that, because sins committed deliberately after prapatt
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पॆरुङ्गायम्+++(=asafoetida)+++ वैत्त+++(=स्थापित)+++ मरङ्गळुक्कु  
+पॆरुङ्गायम्+++(=asafoetida)+++ **वैत्त**+++(=स्थापित)+++ मरङ्गळुक्कु  
 स्थलादि-विशेषङ्गळाले  
-वाट्टत्तुक्कु+++(=शोष्टुं)+++ काल-तारतम्यम् उळ्ळ-मात्रम्
+**वाट्टत्तुक्कु**+++(=शोष्टुं)+++ काल-तारतम्यम् **उळ्ळ**-मात्रम्
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>English</summary>
 
-When asafoetida is applied to the root of a tree for making it wither, the tree is sure to wither sooner or later, according to the nature of the soil and other conditions; (but there is no doubt that it will wither; it will do so, perhaps after a little more time). 
+When asafoetida is applied to the root of a tree for making it wither,  
+the tree is sure to wither sooner or later,  
+according to the nature of the soil and other conditions;  
+(but there is no doubt that it will wither;  
+it will do so, perhaps after a little more time). 
+
 </details>
+
+<details><summary>Español</summary>
+
+Cuando asafoetida **se aplica** a la raíz de un árbol para que **se marchite**,  
+El árbol seguramente **se marchitará** tarde o temprano,  
+Según la naturaleza del suelo y otras condiciones;  
+(Pero **no hay** duda de que **se marchitará**;
+**Lo hará**, tal vez después de un poco más de tiempo).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
