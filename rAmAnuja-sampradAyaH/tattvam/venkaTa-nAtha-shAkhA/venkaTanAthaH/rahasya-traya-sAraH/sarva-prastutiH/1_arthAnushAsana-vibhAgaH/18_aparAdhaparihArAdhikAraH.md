@@ -1107,7 +1107,7 @@ Algunos **dijeron** que el Señor **perdonaría** incluso los pecados que **se c
 
 </details>
 
-## प्रपत्ति-साफल्यं मोक्षे
+## प्रपत्ति-साफल्ये विलम्बः
 <details><summary>English</summary>
 
 PRAPATTI WILL NEVER BE IN VAIN :
@@ -1129,6 +1129,15 @@ __________
 
 ऎऩ्ऱु **शङ्किक्क वॊण्णादु**;
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रारब्ध-कर्मणि पापांशस्येव  
+बुद्धि-पूर्वोत्तराघस्य प्रायश्चित्ताकरणे  
++++(लघु-दण्डनेन)+++ **साफल्यावश्यम्भावेऽपि**  
+कृता **प्रपत्तिः** मोक्षम् **अदत्त्वैव हीयेतेति न शङ्कनीयम्** ।  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1161,8 +1170,15 @@ __________
 
 पॆरुङ्गायम्+++(=asafoetida)+++ **वैत्त**+++(=स्थापित)+++ मरङ्गळुक्कु  
 स्थलादि-विशेषङ्गळाले  
-**वाट्टत्तुक्कु**+++(=शोष्टुं)+++ काल-तारतम्यम् **उळ्ळ**-मात्रम्
+**वाट्टत्तुक्कु**+++(=शोष्टुं)+++ काल-तारतम्यम् **उळ्ळ**-मात्रम् +++(5)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मूल-**निक्षिप्त**-हिङ्गुकानां वृक्षाणां  
+स्थलादि-विशेषैः **शोषणस्य काल-तारतम्यं** भवतीत्य् एतावद् एव  +++(5)+++
+</details>
+
 
 <details><summary>English</summary>
 
@@ -1192,13 +1208,31 @@ Según la naturaleza del suelo y otras condiciones;
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इङ्गुम् इवर्गळ् संसारत्तिन् उडैय निश्-शेष-निवृत्ति-पिऱक्कैक्कु+++(=राशीकरणाय)+++ विळंबाविळंब-वैषम्यमेय् उळ्ळदु.
+इङ्गुम् इवर्गळ् संसारत्तिन् उडैय निश्-शेष-**निवृत्ति-पिऱक्कैक्कु**  
+विळंबाविळंब-**वैषम्यमेय् उळ्ळदु**.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-So also in the case of these prapannas who have committed sins deliberately, there will be difference only with regard to the delay in the complete release from saṁsāra.
+अत्राप्य् एषां संसारस्य निःशेष-**निवृत्त्य्-उत्पतौ** विलम्बाविलम्ब-**वैषम्यम् एव भवति** । 
 </details>
+
+
+<details><summary>English</summary>
+
+So also in the case of these prapannas who have committed sins deliberately,  
+there will be difference only with regard to the delay  
+in the complete release from saṁsāra.
+</details>
+
+<details><summary>Español</summary>
+
+Así también en el caso de estas Prapannas  
+que **han cometido** pecados deliberadamente,  
+**Habrá diferencia** solo con respecto al retraso  
+En el **lanzamiento completo** de Saṁsāra.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1206,45 +1240,158 @@ So also in the case of these prapannas who have committed sins deliberately, the
 </details>
 
 __________
+### आयुः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इद्-देहानन्तरम् मोक्षम् पॆऱ+++(←पॆरु)+++-वेणुम् ऎऩ्ऱ पेक्षित्तालुम्  
-अनियतायुस्सुक्कळ् आय् विळंबाक्षमर् आयिरुप्पार्क्क्  
-आयुर्-वद्धियाले विळंबम् वरुम्.  
-नियतायुस्सुक्कळुक्कु उळ्ळव् आयुस्सुक्क् उळ्ळे +++(मोक्षम्)+++ फलित्तु-विडुम्.
+इद्-देहानन्तरम् मोक्षम् **पॆऱ-वेणुम्** ऎऩ्ऱ् **अपेक्षित्तालुम्**  
+अनियतायुस्सुक्कळ् आय्, **विळंबाक्षमर्** आय् इरुप्पार्क्क्  
+आयुर्-**वद्धियाले+++(=वृद्धितः)+++ विळंबम् वरुम्**.  
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-If they desire to have mokṣa at the end of this life and cannot brook delay and if the period of their life-time is not previously fixed, there will be delay in mokṣa  by the life-time being extended. To those whose period of life-time is already fixed, prapatti will certainly bear fruit within that time.
+> एतद्-देहानन्तरं मोक्षः प्राप्तव्य  
+
+इत्य्-अपेक्षितत्वेऽपि, अनियतायुषां सतां विलम्बाक्षमाणाम्  
+आयुर्-**वृद्ध्या विलम्बो** भवति । 
 </details>
+
+
+<details><summary>English</summary>
+
+If they desire to have mokṣa at the end of this life  
+and cannot brook delay  
+and if the period of their life-time is not previously fixed, there will be delay in mokṣa  
+by the life-time being extended. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **desean tener** mokṣa al final de esta vida  
+y **no se puede tolerar** el **retraso**  
+Y si el período de su vida **no se fija** previamente,  
+**habrá retraso** en Mokṣa  
+por el tiempo de vida **extendido**.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-इद्देहानन्तरम् मोक्षम् पॆऱवेणुमॆऩ्ऱ पेक्षित्तालुमनियतायुस्सुक्कळाय्विळंबाक्षमरायिरुप्पार्क्कायुर्वद्धियाले विळंबम् वरुम्. नियतायुस्सुक्कळुक्कु उळ्ळ वायुस्सुक्कुळ्ळे फलित्तुविडुम्.
+इद्देहानन्तरम् मोक्षम् पॆऱवेणुमॆऩ्ऱ पेक्षित्तालुमनियतायुस्सुक्कळाय्विळंबाक्षमरायिरुप्पार्क्कायुर्वद्धियाले विळंबम् वरुम्. 
 </details>
 
-## बुद्धिपूर्वकापराध-प्रभावः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नियतायुस्सुक्कळुक्कु उळ्ळव् आयुस्सुक्क् उळ्ळे +++(मोक्षम्)+++ **फलित्तु-विडुम्**.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+नियतायुषां विद्यमानायुर्-मध्ये एव **फलति** । 
+</details>
+
+
+<details><summary>English</summary>
+
+To those whose period of life-time is already fixed,  
+prapatti will certainly bear fruit within that time.
+</details>
+
+<details><summary>Español</summary>
+
+A aquellos cuyo período de vida ya **está fijo**,  
+Prapatti **ciertamente dará fruto** dentro de ese tiempo.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+नियतायुस्सुक्कळुक्कु उळ्ळ वायुस्सुक्कुळ्ळे फलित्तुविडुम्.
+</details>
+
+
+## राक्षसीभिः फलानुभवः
+<details><summary>English</summary>
+
 DISCUSSION OF THE VIEW THAT EVEN DELIBERATE OFFENCES COMMITTED BY A PRAPANNA WILL NOT AFFECT HIM ADVERSELY.
+</details>
+
+<details><summary>Español</summary>
+
+La discusión de la opinión de que  
+incluso los deliberados ofensas **cometidas** por una Prapanna  
+**no lo afectarán** negativamente.
+</details>
+
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“भवेयं शरणं हि वः”(रामायणम् सु.का. 58-90) ऎऩ्ऱ पिन्बुम् उण्डान राक्षसिगळुडैय बुद्धि-पूर्वापचारङ्गळ्  
-
-> “मर्षयामीह दुर्बला”(रामायणम् यु.का. 116-40)  
-“पापानां वा शुभानां वा  
+>> “भवेयं शरणं हि वः”(रामायणम् सु.का. 58-90) 
+> 
+> ऎऩ्ऱ पिन्बुम् उण्डान राक्षसिगळुडैय बुद्धि-पूर्वापचारङ्गळ्  
+>
+>> “मर्षयामीह दुर्बला”(रामायणम् यु.का. 116-40)  
+>
+>> “पापानां वा शुभानां वा  
 वधार्हाणां प्लवङ्गम”(रामायणम् यु.का. 116-44) 
+>
+> ऎऩ्गिऱप् पडिये+++(=प्रकारेण)+++ पिराट्टिक्कु+++(=उदारायै)+++ क्षमा-विषयम् आयिऱ्ऱ् इल्लैयोव् 
 
-ऎऩ्गिऱप् पडिये+++(=प्रकारेण)+++ पिराट्टिक्कु+++(→श्रीकु)+++ क्षमा-विषयमाय्-इऱ्ऱ् इल्लैयोव् ऎन्निल्; 
+ऎन्निल्; 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> > “भवेयं शरणं हि वः" 
+>
+> इत्य्-उक्त्य्-अनन्तरम् अपि जाता राक्षसीनां बुद्धि-पूर्वापचाराः,  
+>
+>> "मर्षयामीह दुर्बला",  
+> 
+>> "10 पापानां वा शुभानां वा  
+वधार्हाणां प्लवङ्गम !" 
+> 
+> इत्य्-उक्त्या श्री-जानक्याः क्षमा-विषया अभवन्न्  
+> इति न किम्?
+
+इति चेत् — 
+
+</details>
+
+
+<details><summary>English</summary>
 
 It may be asked 
 
-> “Even after Sītā Devi promised protection to the Rākṣasis by saying "I will protect you," when these Rākṣasis offended her again deliberately, were their sins not forgiven when Sītā? Devi said, " I forgive their offences as I cannot bear their sufferings" and "Whether they deserve punishment for their sins or whether they have not committed any sins (deserving of punishment), you should pardon them because of your generous Nature -- There is no one that is above fault"? 
+> “Even after Sītā Devi promised protection to the Rākṣasis by saying  
+> "I will protect you,"  
+> when these Rākṣasis offended her again deliberately,  
+> were their sins not forgiven  
+> when Sītā Devi said, "I forgive their offences as I cannot bear their sufferings"  
+> and "Whether they deserve punishment for their sins  
+> or whether they have not committed any sins (deserving of punishment),  
+> you should pardon them because of your generous Nature --  
+> There is no one that is above fault"? 
+
 </details>
+
+<details><summary>Español</summary>
+
+Se puede preguntar
+
+> “**Incluso** después de que Sītā Devi **prometió** protección al Rākṣasis **diciendo**  
+> "Te **protegeré**"
+> Cuando estos rākṣasis la **ofendieron** nuevamente deliberadamente,  
+> ¿No fueron **perdonados** sus pecados  
+> cuando sītā Devi **dijo**: "**Perdono** sus delitos  
+> ya que **no puedo soportar** sus sufrimientos"  
+> y "si **merecen castigo** por sus pecados  
+> o si **no han cometido** ningún pecado (merecedor de castigo),  
+> Debes **perdonarlos** por tu naturaleza generosa - 
+> ¿**No hay nadie** que esté por encima de la falla "?
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1254,20 +1401,45 @@ It may be asked
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव् विडत्तिलुम्  
-अवर्गळुक्कु तिरुव्-अडि-नलियप्+++(=पीडा)+++-पुगुगिऱार्+++(=प्रापयति)+++  
-ऎऩ्गिऱ भयम् विळैन्दु  
-नलिवुक्कु विलक्क्+++(=रोध)+++ उण्ड्-आनप्-पडियाले  
-वाळालेय्+++(=खड्गेन)+++ ओङ्गि+++(=उन्नीय)+++ विडुमाप्-पोले  
-दण्ड-लेशमुम् क्षमैयुम् सिद्धम्.
+अव्व् इडत्तिलुम्  
+अवर्गळुक्कु "तिरुव्-अडि+++(→हनूमान्)+++ नलियप्+++(=पीडितुं) पुगुगिऱार्"  
+ऎऩ्गिऱ **भयम् विळैन्दु**  
+नलिवुक्कु **विलक्क्**+++(=रोध)+++ **उण्ड्-आनप्** पडियाले  
+वाळालेय्+++(=खड्गेन)+++ **ओङ्गि**+++(=उन्नीय)+++ **विडुमाप्** पोले  
+**दण्ड-लेशमुम् क्षमैयुम्** सिद्धम्.+++(5)+++
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-The answer is as follows:- Even here, the Rākṣasis were afraid that Hanuman was about to punish them severely and were afterwards saved from it.  
-
-So there was, as in the raising of the sword (to strike a person), a slight punishment (fear) and (then ) forgiveness. 
+तत्रापि तासां  
+'श्रीहनूमान् हनिष्यति' इति **भये जाते**  
+पश्चाद् **वध-निवारणस्य कृतत्वात्**  
+असिम् **उद्यम्य त्याग** इव  
+**दण्ड-लेशः क्षमा** च सिद्धौ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+The answer is as follows:-  
+Even here, the Rākṣasis were afraid  
+that Hanuman was about to punish them severely  
+and were afterwards saved from it.  
+
+So there was, as in the raising of the sword (to strike a person),  
+a slight punishment (fear) and (then ) forgiveness. 
+</details>
+
+<details><summary>Español</summary>
+
+La respuesta **es** la siguiente:-  
+Incluso aquí, los rākṣasis **tenían** miedo  
+que Hanuman **estaba** a punto de **castigarlos** severamente  
+y luego **fueron salvados** de él.
+
+Entonces **hubo**, como en el **aumento** de la espada (para **golpear** a una persona),
+Un ligero **castigo** (miedo) y (entonces) **perdón**.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1277,7 +1449,12 @@ So there was, as in the raising of the sword (to strike a person), a slight puni
 __________
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाल् प्रपन्ननुक्कु बुद्धि-पूर्वोत्तराघम् लेपियात् ऎऩ्ऱु विशेषित्तुच् चॊल्लुवद् ऒरु प्रमाणम् अऩ्ऱिक्केय् इरुक्क
+आगैयाल् 
+
+> प्रपन्ननुक्कु बुद्धि-पूर्वोत्तराघम् **लेपियाद्**  
+
+ऎऩ्ऱु विशेषित्तुच् **चॊल्लुवद्**  
+ऒरु प्रमाणम् **अऩ्ऱिक्केय् इरुक्क**
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
