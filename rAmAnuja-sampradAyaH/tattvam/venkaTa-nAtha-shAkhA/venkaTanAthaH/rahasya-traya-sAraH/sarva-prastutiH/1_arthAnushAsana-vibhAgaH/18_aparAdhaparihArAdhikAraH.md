@@ -1783,18 +1783,40 @@ Es evidente que la **expiación** por los pecados **cometidos** deliberadamente 
 “सर्वपापेभ्यो मोक्षयिष्यामि” ऎऩ्ऱु सामान्येन सॊल्लच्चॆय्देयुम् “प्रायश्चित्तिरियं सात्र यत्पुनश्शरणंव्रजेत्” ऎऩ्ऱु विशेषिक्कैयाले बुद्धिपूर्वोत्तराघत्तुक्कु प्रपत्त्यनन्तरम् प्रायश्चित्तमाग प्राप्तमायिऱ्ऱु
 </details>
 
+## पुनश्-शरणागति-विधिः सर्व-विषया
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> पुनश् शरणागतियै विधिक्किऱ वचनत्तै अडियिले  
+> पुनश्-शरणागतियै विधिक्किऱ वचनत्तै अडियिले  
 बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम् आगप् प्रपत्ति पण्णादार् विषयत्तिले  
 नियमित्तालोव् 
 
 ऎन्नव् ऒण्णादु+++(=ऒप्पादु)+++
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-It cannot be argued that this passage prescribing another prapatti is only for those who did not perform prapatti to cover also those subsequent sins that might be committed deliberately. 
+[[१४५]]
+
+> पुनश्-शरणागति-विधायकं वचनम्  
+आदौ बुद्धि-पूर्वोत्तराघ-परिहारस्यापि कृते प्रपत्तिम् अकृतवतां विषये नियम्यताम्  
+
+इति वक्तुम् अयुक्तम् । 
+</details>
+
+<details><summary>English</summary>
+
+It cannot be argued that this passage prescribing another prapatti  
+is only for those who did not perform prapatti to cover also 
+those subsequent sins that might be committed deliberately. 
+
+</details>
+
+<details><summary>Español</summary>
+
+No se **puede argumentar** que este pasaje prescribe otro Prapatti
+**es** solo para aquellos que **no realizaron** Prapatti para **cubrir** también  
+Esos **pecados** posteriores que **podrían cometirse** deliberadamente.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1804,15 +1826,38 @@ It cannot be argued that this passage prescribing another prapatti is only for t
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"बुद्धिपूर्वोत्तराघत्तैयुम् पऱ्ऱ प्रपत्ति पण्णलाम्"  
+> "बुद्धि-पूर्वोत्तराघत्तैयुम् पऱ्ऱ  
+> **प्रपत्ति पण्णल्** आम्"  
+
 ऎऩ्ऱु विशेषित्तु कण्ठोक्ति पण्णुवद् ऒरु वचनम् उण्डागिलिऱेय्  
 इप्पडि नियमिक्कल् आवदु. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-This argument would carry weight, only if there were an explicit statement that prapatti might be performed to cover also future sins of a deliberate nature. (There is none such). 
+"बुद्धि-पूर्वोत्तराघं प्रत्यपि प्रपत्तिः कर्तुं युक्ते"ति  
+विशिष्य कण्ठोक्त्या प्रतिपादकस्य कस्यचिद् वचनस्य सद्-भावे किल  
+एवं नियमयितुं शक्यम् । 
 </details>
+
+
+<details><summary>English</summary>
+
+This argument would carry weight, only if there were an explicit statement  
+that prapatti might be performed  
+to cover also future sins of a deliberate nature.  
+(There is none such). 
+</details>
+
+<details><summary>Español</summary>
+
+Este argumento **llevaría** peso,  
+solo si **hubiera** una **declaración** explícita  
+que Prapatti **podría realizarse**  
+para **cubrir** también los pecados futuros de naturaleza deliberada.  
+(**No hay** ninguno así).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1821,10 +1866,22 @@ This argument would carry weight, only if there were an explicit statement that 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"इप् प्रपत्ति बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम्" ऎऩ्ऱ् अऱिन्दाल्  
-इच् चॆट्टै+++(=पक्षं)+++ विडुवारैय् उङ्ग्+++(=समीपे)+++ इडैयामैयाले  
-पुनःप्रपत्तिवचनम् निर्विषयम् आम्.
+> "इप्-प्रपत्ति  
+> बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम्" 
+
+ऎऩ्ऱ् अऱिन्दाल्  
+इच् चॆट्टै+++(=पक्षं)+++ **विडुवारैयुङ्ग् इडैयामैयाले** +++(=अवकाश-दानाभावतः)+++  
+पुनः-प्रपत्ति-वचनं **निर्विषयम् आम्**.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"इयं प्रपतिर्  
+बुद्धि-पूर्वोत्तराघस्यापि परिहारिके"ति ज्ञाते सति  
+अस्यायत्न-लाभस्य (अस्य प्राप्तापरित्यागस्य) उपेक्षका दुर्लभा  
+इति पुनः-प्रपत्ति-वचनं निर्विषयं स्यात् ।  
+</details>
+
 
 <details><summary>राजगोपालः (En)</summary>
 
@@ -1836,16 +1893,35 @@ If a man knows that the original prapatti may be made in such a way as to cover 
 इप्प्रपत्ति बुद्धिपूर्वोत्तराघत्तुक्कुम् परिहारमॆऩ्ऱऱिन्दाल् इच्चॆट्टै विडुवारैयुङ्गिडैयामैयाले पुनःप्रपत्तिवचनम् निर्विषयमाम्.
 </details>
 
+## अहं त्वा मोक्षयिष्यामि
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++("अहं त्वाम् मोक्षैष्यामि"ति)+++ सामान्य-वचनत्त् अळवैप् पऱ्ऱि  
++++("अहं त्वाम् मोक्षैष्यामी"ति)+++ सामान्य-वचनत्त् अळवैप् पऱ्ऱि  
 +++(पुनःप्रपत्ति-चोदक-)+++विशेष-वचनत्तै बाधिक्क वॊण्णादु. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-A general statement cannot contradict a statement made for a special or specific case (for the general statement covers only all cases except those specified in the special statement). 
++++("अहं त्वाम् मोक्षैष्यामी"ति)+++ सामन्य-वचन-शक्त्य्-अवष्टम्भेन  
++++(पुनःप्रपत्ति-चोदक-)+++विशेष-वचन-बाधनं न युक्तम् । 
 </details>
+
+<details><summary>English</summary>
+
+A general statement cannot contradict  
+a statement made for a special or specific case  
+(for the general statement covers only all cases  
+except those specified in the special statement). 
+</details>
+
+<details><summary>Español</summary>
+
+Una declaración general **no puede contradecir**  
+una declaración **hecha** para un caso especial o específico  
+(Para la declaración general **cubre** solo todos los casos  
+excepto los especificados en la declaración especial).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1854,14 +1930,28 @@ A general statement cannot contradict a statement made for a special or specific
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडि विशेष-वचनत्तै बाधिक्किल्, +++(प्रपन्नन् अल्लादे)+++  
-उपासन-निष्ठनुक्कुम् बुद्धि-पूर्वोत्तराघत्तुक्कुम् दोषम् इल्लैय् आम्. +++(कारणं वक्ष्यते।)+++  
+इप्-पडि विशेष-वचनत्तै **बाधिक्किल्**, +++(प्रपन्नन् अल्लादे)+++  
+**उपासन-निष्ठनुक्कुम्** बुद्धि-पूर्वोत्तराघत्तुक्कुम् दोषम् **इल्लैय् आम्**. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं विशेष-वचन-बाधने  
+उपासन-निष्ठस्यापि बुद्धि-पूर्वोत्तराघम् अपि न दोषः स्यात् । 
+</details>
+
+<details><summary>English</summary>
 
 If we hold that a general statement can sublate or contradict a special statement for specific cases,  
-it would follow that, even in the case of one who adopts the upāya or bhakti or upāsana, subsequent sins committed deliberately would cause no stain.
+it would follow that, even in the case of one who adopts the upāya of bhakti or upāsana,  
+subsequent sins committed deliberately would cause no stain.
+</details>
+
+<details><summary>Español</summary>
+
+Si **sostenemos** que una **declaración** general **puede demorar o contradecir** una **declaración** especial para casos específicos,  
+**Seguiría** que, incluso en el caso de alguien que adopte el upāya como bhakti o upāsana,  
+Los pecados posteriores **cometidos** deliberadamente no **causarían** mancha.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1869,15 +1959,35 @@ it would follow that, even in the case of one who adopts the upāya or bhakti or
 इप्पडि विशेषवचनत्तै बाधिक्किलुपासननिष्ठनुक्कुम् बुद्धिपूर्वोत्तराघत्तुक्कुम् दोषमिल्लैयाम्.  
 </details>
 
+## यम-दण्ड-वारणम् उपासकेष्व् अपि
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बुद्धि-पूर्वोत्तराघत्तिलुम् परमैकान्तिगळ् आनव् +++(प्रपन्नार्, उपासकार् ऎऩ्ऱु)+++ इवर्गळ् इरुवर्क्कुम्+++(=इर्वरिगू)+++ यम-वश्यातादिगळ् इल्लैय् ऎन्नुम् इडम्
+बुद्धि-पूर्वोत्तराघत्तिलुम् परमैकान्तिगळ् आनव् +++(प्रपन्नार्, उपासकार् ऎऩ्ऱु)+++ इवर्गळ् इरुवर्क्कुम्+++(=इर्वरिगू)+++  
+यम-वश्यातादिगळ् इल्लैय् ऎन्नुम् इडम्
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-It is evident from the authority of the following śloka  that those who are exclusively devoted to Bhagavān (whether they be bhaktas or prapannas ) will not fall under the sway of Yama : 
+बुद्धिपूर्वोत्तराघ-संभवेऽपि परमैकान्तिनाम् एषाम् उभयेषां  
+यम-वश्यतादिकं नास्तीत्य् अयम् अर्थः, 
 </details>
+
+
+<details><summary>English</summary>
+
+It is evident from the authority of the following śloka  
+that those who are exclusively devoted to Bhagavān (whether they be bhaktas or prapannas )  
+will not fall under the sway of Yama : 
+</details>
+
+<details><summary>Español</summary>
+
+**Es evidente** por la autoridad de lo siguiente Śloka  
+que aquellos que **están** exclusivamente **dedicados** a Bhagavān (ya sean bhaktas o prapannas)  
+**No caerá** bajo el **influencia** de Yama:
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1886,48 +1996,108 @@ It is evident from the authority of the following śloka  that those who are exc
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-> “यस्मिन् कस्मिन् कुले जाता  
-यत्रकुत्र निवासिनः ।  
-> वासुदेव-रता नित्यं  
-> यमलोकं न यान्ति ते”
+> “यस्मिन् कस्मिन् कुले **जाता**  
+> यत्र-कुत्र **निवासिनः** ।  
+> वासुदेव-**रता** नित्यं  
+> यम-लोकं **न यान्ति** ते”
 
-इत्यादिवचनबलत्ताले सिद्धम्.
+इत्य्-आदि-वचन-बलत्ताले सिद्धम्.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-"Whatever may be the family into which they are born, wherever they may live, those who love Bhagavān will never go to the world of Yama." 
+> “यस्मिन् कस्मिन् कुले **जाता**  
+> यत्र-कुत्र **निवासिनः** ।  
+> वासुदेव-**रता** नित्यं  
+> यम-लोकं **न यान्ति** ते”
+
+इत्य्-आदि-वचन-बलात् सिद्धः । 
 </details>
+
+
+<details><summary>English</summary>
+
+> "Whatever may be the family into which they are born,  
+> wherever they may live,  
+> those who love Bhagavān  
+> will never go to the world of Yama." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Cualquiera **sea** la familia en la que **nacen**,  
+> Donde-quiera que **vivan**,  
+> los que **aman** a Bhagavān  
+> **nunca irá** al mundo de Yama ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 “यस्मिन्कस्मिन्कुले जाता यत्रकुत्र निवासिनः । वासुदेवरता नित्यं यमलोकं न यान्ति ते” इत्यादिवचनबलत्ताले सिद्धम्.
 </details>
 
+## दण्ड-तारतम्यम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऒरु पापन्-दाने जाति-गुणाद्य्-अधिकार-भेदत्ताले गुरु-लघु-फल-भेदवत्ताय् इरुक्कुम् ऎन्नुम् इडम् सर्व-संप्रतिपन्नम्.
+> ऒरु पापन्-ताने जाति-गुणाद्य्-अधिकार-भेदत्ताले  
+गुरु-लघु-फल-भेदवत्त् आय् इरुक्कुम्  
+
+ऎन्नुम् इडम् सर्व-संप्रतिपन्नम्.+++(4)+++
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-There is general agreement also that the same sin will meet with either heavy or light punishment as its consequence, according to the differences of caste, character and the like. 
+"एकं पापम् एव जाति-गुणाद्य्-अधिकार-भेदाद्  
+गुरु-लघु-फल-भेदवत् भवती"त्य् अयम् अर्थः  
+सर्व-**संप्रतिपन्नः** । 
+</details>
+
+<details><summary>English</summary>
+
+There is general agreement also  
+that the same sin will meet with either heavy or light punishment as its consequence,  
+according to the differences of caste, character and the like.+++(4)+++ 
+</details>
+
+<details><summary>Español</summary>
+
+También **hay** un **acuerdo** general  
+que el mismo pecado **se encontrará** con **castigo** pesado o ligero como consecuencia,  
+Según las diferencias de casta, carácter y similares.+++(4)+++
 </details>
 
 <details><summary>मूलम्</summary>
 
- ऒरु पाबन्दाने जातिगुणाद्यधिकारभेदत्ताले गुरुलघुफलभेदवत्तायिरुक्कुमॆन्नुमिडम् सर्वसंप्रतिपन्नम्.
+ऒरु पाबन्दाने जातिगुणाद्यधिकारभेदत्ताले गुरुलघुफलभेदवत्तायिरुक्कुमॆन्नुमिडम् सर्वसंप्रतिपन्नम्.
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व् अर्थम् राज-पुत्रापराधादिगळिऱ् पोले लोक-मर्यादैयालुम् उपपन्नम्. 
+इव्व् अर्थम् राज-पुत्रापराधादिगळिऱ् पोले  
+लोक-मर्यादैयालुम् **उपपन्नम्**. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-This is also consistent with what obtains in the world in cases like the offences committed by princes.
+अयम् अर्थो राज-पुत्रापराधादिष्व् इव लोक-मर्यादया ऽप्य् **उपपन्नः** । 
 </details>
+
+
+<details><summary>English</summary>
+
+This is also consistent with what obtains in the world  
+in cases like the offences committed by princes.
+</details>
+
+<details><summary>Español</summary>
+
+Esto también es **consistente** con lo que **obtiene** en el mundo  
+En casos como los **delitos cometidos** por los príncipes.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -1937,32 +2107,71 @@ This is also consistent with what obtains in the world in cases like the offence
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-“न प्राग्-वद् बुद्धि-पूर्वाघे  
-न चात्यन्तम् अनुग्रहः ।  
-लघुर् दण्डः प्रपन्नस्य  
+“**न** प्राग्-वद् बुद्धि-पूर्वाघे +++(दण्डः)+++,  
+**न** चात्यन्तम् **अनुग्रहः** ।  
+लघुर् **दण्डः** प्रपन्नस्य  
 राज-पुत्रापराधवत् ॥ ४०-अ ॥
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-In cases of deliberate offence, the punishment is not as severe as before (prapatti) nor is there a high degree of grace. To the prapanna the punishment is light as in the case of the sons of kings.
+“**न** प्राग्-वद् बुद्धि-पूर्वाघे +++(दण्डः)+++,  
+**न** चात्यन्तम् **अनुग्रहः** ।  
+लघुर् **दण्डः** प्रपन्नस्य  
+राज-पुत्रापराधवत् ॥ ४०-अ ॥
 </details>
+
+<details><summary>English</summary>
+
+In cases of deliberate offence,  
+the punishment is not as severe as before (prapatti)  
+nor is there a high degree of grace.  
+To the prapanna the punishment is light  
+as in the case of the sons of kings.
+</details>
+
+<details><summary>Español</summary>
+
+En casos de deliberado,  
+El **castigo no es** tan severo como antes (Prapatti)  
+**Tampoco hay** un alto grado de gracia.  
+A la prapanna el castigo **es ligero**  
+como en el caso de los hijos de los reyes.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 “न प्राग्वद्बुद्धिपूर्वाघे न चात्यन्तमनुग्रहः । लघुर्दण्डः प्रपन्नस्य राजपुत्रापराधवत् ॥ ४०-अ ॥
 </details>
 
+### पुनः-प्रपदनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाल् अधिकारानुरूपम् आग  
-लघु-फलमुम् वारामैक्क्+++(=वरामैक्क्)+++ आग  
-पुनःप्रपदनम् विधिक्कप् पडुगिऱदु. 
+आगैयाल् अधिकारानुरूपम् **आग**  
+लघु-फलमुम् **वारामैक्क्+++(=वरामैक्क्)+++ आग**  
+**पुनः-प्रपदनम् विधिक्कप् पडुगिऱदु**. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Therefore to avoid even this light punishment which would follow as the consequence, a further prapatti is ordained. 
+अतो ऽधिकारानुरूपं लघु-फलस्याप्य् अ-प्रसङ्गार्थं  
+पुनः **प्रपदनं विधीयते** । 
+</details>
+
+
+
+<details><summary>English</summary>
+
+Therefore to avoid even this light punishment which would follow as the consequence,  
+a further prapatti is ordained. 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, para **evitar** incluso este **castigo** ligero  
+que **seguiría** como consecuencia,  
+Otro Prapatti **es ordenado**.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1970,18 +2179,41 @@ Therefore to avoid even this light punishment which would follow as the conseque
 आगैयालधिकारानुरूपमाग लघुफलमुम् वारामैक्काग पुनःप्रपदनम् विधिक्कप् पडुगिऱदु. 
 </details>
 
+### शिष्टे प्रसिद्ध-प्रायश्चित्तम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शिष्टतया व्यपदेश्यर् आऩ समर्थरुक्कु  
-लोक-संग्रहत्तुक्क्-आगवुम्  
+शिष्टतया **व्यपदेश्यर्** आऩ **समर्थरुक्कु**  
+लोक-**संग्रहत्तुक्क्**-आगवुम्  
 प्रसिद्ध-+++(अपराधाख्य-)+++निमित्तङ्गळिल्  
-यथा-शक्ति प्रसिद्ध-प्रायश्चित्तम् उचितम्. 
+यथा-शक्ति प्रसिद्ध-**प्रायश्चित्तम् उचितम्**. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-In the case of those who are looked upon as learned and righteous, and who are also capable of atonement, atonement in public, in accordance with their ability, is proper when the offences have been committed in public. This is for the sake of setting an example to the rest of the world. 
+शिष्टतया **व्यपदेश्यस्य** समर्थस्य  
+लोक-**संग्रहार्थम्** अपि  
+प्रसिद्ध-निमित्तेषु यथा-शक्ति प्रसिद्ध-**प्रायश्-चित्तम् उचितम्** । 
 </details>
+
+
+<details><summary>English</summary>
+
+In the case of those who are looked upon as learned and righteous,  
+and who are also capable of atonement,  
+atonement in public, in accordance with their ability, is proper  
+when the offences have been committed in public.  
+This is for the sake of setting an example to the rest of the world. 
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de aquellos que **son considerados** como eruditos y justos,  
+y que también **son capaces** de expiación,  
+La **expiación** en público, de acuerdo con su capacidad, **es adecuada**  
+Cuando los delitos **se han cometido** en público.  
+Esto **es** para **dar** un ejemplo al resto del mundo.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
