@@ -2834,14 +2834,23 @@ y **realizar expiación** por delitos para **promover** el bien del mundo
 लोकहितप्रवर्तनार्थमाग अपचारपरिहारादिगळै नडत्तिप्पोरुवर्गळ्. 
 </details>
 
-## अपराध-मूल-कारण-निराकरण-प्रकारः
+## अ-विवेकाः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाल्,  
+आगैयाल्, +++(बुद्धि-पूर्वोकोत्तराघ-जनक-प्रपत्तौ च दुश्शके)+++  
 भगवत्-प्रीतिय्-**इऴवामैक्क्** आगवुम्,  
 अदुक्क् आग पुनः-प्रपत्तिय् आदल्, लघु-दण्डम् आदल्  प्रसङ्गियामैक्क् आगवुम्,  
 मेल्-वरुम् अपराधङ्गळ् वेर्+++(=बेर्)+++ अऱुक्कुम् **विरगु**+++(=उपायम्)+++ **पार्क्क-वेणुम्**.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतो +++(बुद्धि-पूर्वोकोत्तराघ-जनक-प्रपत्तौ च दुश्शके)+++  
+भगवत्-प्रीति-हान्य्-अभावार्थं  
+तद्-अर्थं पुनः प्रपत्तेर् लघु-दण्डस्य वा प्रसक्त्य्-अभावार्थं च  
+आगाम्य्-अपराधानां मूल-च्छेदनोपायो ऽन्वेषणीयः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -2866,13 +2875,27 @@ para **eliminar** la posibilidad de futuros delitos.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपराधङ्गळ् ऎल्लाव् अऱ्ऱुक्कुम् अडि **अविवेकम्**. 
+अपराधङ्गळ् ऎल्लाव् अऱ्ऱुक्कुम् अडि **अविवेकम्**. +++(5)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अपराधानां सर्वेषां मूलम् - **अविवेकः** । 
+</details>
+
 
 <details><summary>English</summary>
 
-In general, the root cause of all offences is want of discrimination (aviveka). 
+In general, the root cause of all offences  
+is want of discrimination (aviveka). 
 </details>
+
+<details><summary>Español</summary>
+
+En general, la causa raíz de todos los delitos  
+es la falta de discriminación (aviveka).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2882,8 +2905,15 @@ In general, the root cause of all offences is want of discrimination (aviveka).
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदिल् प्रधानम् आऩ अविवेकम् -  
-अचित्-स्वभावम् आऩ जडत्व-विकारादिगळैच् चुमक्कैयुम्,  
+अ-चित्-स्वभावम् आऩ जडत्व-विकारादिगळैच् चुमक्कैयुम्+++(=वहनम् [आत्मनि])+++,  
 ईश्वर-स्वभावम् आऩ स्व-निष्ठत्व--स्वातन्त्र्य+अनन्यार्थत्वादिगळैच् चुमक्कैयुम्.  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्र प्रधान-भूतो ऽविवेको  
+ऽचित्-स्व-भावानां जडत्व-विकारादीनां वहनम्  
+ईश्वर--स्व-भावानां स्व-निष्ठत्वस्-स्वातन्त्र्यान्यार्थत्वादीनां वहनं च ।
 </details>
 
 <details><summary>राजगोपालः (En)</summary>
