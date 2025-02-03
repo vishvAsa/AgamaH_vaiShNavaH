@@ -2225,42 +2225,105 @@ Esto **es** para **dar** un ejemplo al resto del mundo.
 अदु तविरुगैयुम्+++(=वारणम्)+++ मुन्+++(→पूर्वं)+++ सॊन्न आज्ञातिलङ्घनम् आम्. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-If it were not done, it would be a transgression of (the Lord's) command stated before. 
+१४६ 
+
+तत्त्यागोऽपि पूर्वोक्तम् आज्ञातिलङ्घनम् । 
 </details>
+
+<details><summary>English</summary>
+
+If it were not done,  
+it would be a transgression of (the Lord's) command stated before. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Si **no se hiciera**  
+**Sería** una **transgresión** del comando (del Señor) declarado antes.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 अदु तविरुगैयुम् मुन् सॊन्न आज्ञातिलङ्घनमाम्. 
 </details>
 
+## अज्ञातिलङ्घन-फल-द्वयम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सैरन्ध्रिकैक्कु+++(=अन्तःपुर-सेविकैक्कु)+++ सेवै तप्पिन-पोदु  
-तादात्विकम् आऩ परिमळादिगळैयुम् इऴन्दु  
-भयानुभवमुम् उण्डामाप् पोले  
-आज्ञाति-लङ्घनम् इरण्डुप् पडिय् अनर्थम्. 
+तादात्विकम् आऩ परिमळादिगळैयुम् **इऴन्दु**  
+**भयानुभवमुम् उण्ड् आमाप्** पोले  
+आज्ञातिलङ्घनम् इरण्डुप् पडिय् **अन्-अर्थम्**. 
 </details>
 
-<details><summary>Keith</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-The violation of the command is injurious in two ways. When the waiting woman [woman attendant] is suspended from service, she loses what she obtains (from the service ) such as scents and has to experience also dread (of punishment).
+सैरन्धिकायाः सेवा-त्यागे तादात्त्विक-परिमलाद्य्-**अननुभवः**  
+**भयानुभवश्** च यथा भवतः,  
+तथा आज्ञातिलङ्घनम् उभयथा **ऽनर्थो भवति** । 
 </details>
+
+
+<details><summary>English</summary>
+
+The violation of the command is injurious in two ways.  
+When the waiting woman [woman attendant] is suspended from service,  
+she loses what she obtains (from the service ) such as scents  
+and has to experience also dread (of punishment).
+</details>
+
+<details><summary>Español</summary>
+
+La violación del comando es perjudicial de dos maneras.  
+Cuando la mujer que espera [mujer asistente] **se suspende** del servicio,  
+Ella **pierde** lo que obtiene (del servicio) como los aromas  
+y **tiene** que experimentar también temor (de castigo).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 सैरन्ध्रिकैक्कु सेवै तप्पिन-पोदु तादात्विकमान परिमळादिगळैयुमिऴन्दु भयानुभवमुमुण्डामाप्पोले आज्ञातिलङ्घनमिरण्डुप्पडियनर्थम्. 
 </details>
 
+## न स्वेच्छयाप्य् बुद्धि-पूर्वकोत्तराघ-हान्यै प्रपत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वेच्छा-मात्रत्ताले बुद्धि-पूर्वोत्तराघत्तैयुम् पऱ्ऱ वडियिले+++(→अडि??)+++ प्रपदनम् पण्णिनालोव् ऎन्निल्; 
+> +++(न शास्त्र-प्रेरणया,)+++ स्वेच्छा-मात्रत्ताले बुद्धि-पूर्वोत्तराघत्तैयुम् पऱ्ऱव् अडियिले प्रपदनम् पण्णिनालोव् 
+
+ऎन्निल्; 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> +++(न शास्त्र-प्रेरणया,)+++ स्वेच्छा-मात्रेण बुद्धि-पूर्वोत्तराघम् अप्य् उद्दिश्य  
+आदौ प्रपदनं क्रियताम्  
+
+इति चेत् — 
+</details>
+
 
 <details><summary>English</summary>
 
-It may (now) be asked :-"What if the original or first prapatti is made on one's own initiative (without the sanction of the śāstrās ) so as to cover also deliberate sins of the future ?" 
+It may (now) be asked :-
+
+> "What if the original or first prapatti is made on one's own initiative  
+> (without the sanction of the śāstrās )  
+> so as to cover also deliberate sins of the future ?" 
+
+</details>
+
+<details><summary>Español</summary>
+
+Se **puede preguntar** (ahora):-
+
+> "¿Qué pasa si el Prapatti original o el primer  
+> (sin la sanción de los Śāstrās)  
+> ¿Para **cubrir** también los **pecados** deliberados del futuro? "
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2270,16 +2333,46 @@ It may (now) be asked :-"What if the original or first prapatti is made on one's
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदु उपासनत्तैयुम्  
-बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम्-आगप् पण्णिनालो  
-अङ्ग-प्रपत्तियुम् अदुक्कुच् चेरप् पण्णिनालोव्  
-ऎऩ्गिऱ प्रतिबन्धियाले निरस्तम्.
+इदु 
+
+> उपासनत्तैयुम् बुद्धि-पूर्वोत्तराघत्तुक्कुम् परिहारम्-आगप् **पण्णिनालो**?  
+अङ्ग-प्रपत्तियुम् अदुक्कुच् शेरप् **पण्णिनालोव्**?  
+
+ऎऩ्गिऱ **प्रतिबन्दियाले निरस्तम्**.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is performed so as to cover also future acts of deliberate offence? What if prapatti as an aṅga is performed so as to cover such acts ?" 
+इदम्, 
+
+> उपासनस्यापि बुद्धि-**पूर्वोत्तराघपरिहार**-रूपेणानुष्ठानं भवतु,  
+> अङ्ग-प्रपत्तिर् अपि तत्-**क्रोडी-कार-पूर्वं क्रियताम्** 
+
+इति प्रतिबन्द्या निरस्तम् । 
 </details>
+
+
+<details><summary>English</summary>
+
+This is (easily ) answered by a counter-check :-
+
+> "What if bhakti or upāsana is performed  
+> so as to cover also future acts of deliberate offence?  
+> What if prapatti as an aṅga is performed  
+> so as to cover such acts ?" 
+
+</details>
+
+<details><summary>Español</summary>
+
+Esto es (fácilmente) **respondido** por una contra-cheque:-
+
+> "¿Qué pasa si **se realiza** Bhakti o Upāsana
+> Para **cubrir** también los futuros actos de ofensa deliberada?
+> ¿Qué pasa si **se realiza** Prapatti como Aṅga  
+> Para **cubrir** tales actos? "
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2288,14 +2381,32 @@ This is (easily ) answered by a counter-check :-"What if bhakti or upāsana is p
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इरुवरुक्कुम्+++(=इर्वरिगू)+++ इप्पडियाग् इडुव् ऎऩ्गै  
-भाष्यादि-विरुद्धम् आगैयाले अपसिद्धान्तम्. 
+इरुवरुक्कुम्+++(=इर्वरिगू)+++ इप्-पडिय् आग् इडुव् ऎऩ्गै  
+भाष्यादि-**विरुद्धम्** आगैयाले **अपसिद्धान्तम्**. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-If it is stated that in these two cases (of counter-check) also, it may be held that future sins will not cling, it will be heresy opposed to what is stated in Śrī Bhāṣya and elsewhere. 
+"उभयोर् अप्य् एवं **भवत्व्**" इति **वादो**  
+भाष्यादि-**विरुद्धत्वाद् अपसिद्धान्तः** । 
 </details>
+
+<details><summary>English</summary>
+
+If it is stated that in these two cases (of counter-check) also,  
+it may be held that future sins will not cling,  
+it will be heresy  
+opposed to what is stated in Śrī Bhāṣya and elsewhere. 
+</details>
+
+<details><summary>Español</summary>
+
+Si **se afirma** que en estos dos casos (de contra-cheque) también,  
+se puede **sostener** que los pecados futuros **no se aferrarán**,  
+**Será herejía**  
+opuesto a lo que se indica en Śrī Bhāṣya y en otros lugares.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2304,14 +2415,42 @@ If it is stated that in these two cases (of counter-check) also, it may be held 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उषस्ति-प्रभृतिगळान ब्रह्म-निष्ठर्गळ् उडैय अनुष्ठानत्तुक्कुम् विरुद्धम्.
++++(आपद्य् अपात्राद् अन्नं स्वीकृत्य जलं न्यक्-चकार→)+++ उषस्ति-प्रभृतिगळ् आन ब्रह्म-निष्ठर्गळ् उडैय  
+**अनुष्ठानत्तुक्कुम् विरुद्धम्**.+++(5)+++
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U] who were steadfast in the contemplation of Brahman (Brahmanishta). 
++++(आपद्य् अपात्राद् अन्नं स्वीकृत्य जलं न्यक्-चकार→)+++  
+उषस्ति-प्रभृतीनां ब्रह्म-निष्ठानाम् अनुष्ठानस्य विरुद्धश् च । 
+</details>
 
-[^U]: Ushasti ate a morsel of cooked gram given by a mahout but refused to drink the water which was afterwards offered by him. He justified his action by saying that he ate the gram to avoid death by starvation, but refused the water because there was then no fear of death.
+
+<details><summary>English</summary>
+
+It is also opposed to the code of conduct observed by such (holy men ) as Ushasti [^U]  
+who were steadfast in the contemplation of Brahman (Brahmanishta). 
+
+[^U]: 
+
+    Ushasti ate a morsel of cooked gram given by a mahout  
+    but refused to drink the water which was afterwards offered by him.  
+    He justified his action by saying that he ate the gram to avoid death by starvation,  
+    but refused the water because there was then no fear of death.+++(5)+++
+</details>
+
+<details><summary>Español</summary>
+
+También **se opone** al Código de Conducta **observado** por tales (hombres santos) como Ushasti [^u_es]  
+que **fueron** firmes en la **contemplación** de Brahman (Brahmanishta).
+
+[^U_es]:
+
+    Ushasti **se comió** un bocado de gramo cocido,  
+    **dado** por un mahout  
+    pero **se negó a beber** el agua que luego fue **ofrecida** por él.  
+    **Justificó** su acción **diciendo** que **se comió** el gramo para **evitar** la muerte por hambre,  
+    pero **rechazó** el agua porque entonces **no había miedo** a la muerte. +++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
