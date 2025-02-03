@@ -2460,37 +2460,122 @@ que **fueron** firmes en la **contemplación** de Brahman (Brahmanishta).
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आगैयाले विशेष-वचनम् इल्लामैयाले  
-“कृते पापेऽनुतापो वै”(विष्णुपुराणम् 2-6-40.) इत्यादिगळ् कणक्किले  
-"निमित्तम् उदित्तालल्लदु+++(=??)+++ नैमित्तिकम् प्राप्तम्" अऩ्ऱ् ऎऩ्गिऱ न्यायम्  
-बुद्धिपूर्वोत्तराघत्तिल् बाधितम् आगादु.
+आगैयाले  
+विशेष-वचनम् **इल्लामैयाले**  
+
+> “कृते पापेऽनुतापो वै”(विष्णुपुराणम् 2-6-40.) 
+
+इत्यादिगळ् कणक्किले  
+
+> "निमित्तम् उदित्ताल् अल्लदु नैमित्तिकम् प्राप्तम्" 
+
+अऩ्ऱ् ऎऩ्गिऱ न्यायम्  
+बुद्धि-पूर्वोत्तराघत्तिल् बाधितम् आगादु.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-There is no special ordinance to contradict the general statement that when a sin is committed and the man feels remorse, the atonement or the prāyaścitta is to meditate on Bhagavān. Therefore the rule that, unless the occasion has arisen, there can be no application of a remedy (to cover a future possibility) holds good and stands uncontradicted in the case of offences committed deliberately after prapatti.
+अतो विशेष-वचनाभावात्  
+
+> "**कृते** पापे **ऽनुतापो** वै"  
+
+इत्य्-आदि-रीत्या 
+"निमित्ते **ऽनुदिते** नैमित्तिकम् **उदितं न भवती**"ति न्यायो  
+बुद्धि-पूर्वोत्तराघ-विषये भवन्  
+**बाधितो न** भवति । 
 </details>
+
+
+
+<details><summary>English</summary>
+
+There is no special ordinance to contradict the general statement that  
+when a sin is committed  
+and the man feels remorse,  
+the atonement or the prāyaścitta is to meditate on Bhagavān.  
+
+Therefore the rule that,  
+unless the occasion has arisen,  
+there can be no application of a remedy (to cover a future possibility) holds good  
+and stands uncontradicted in the case of offences committed deliberately after prapatti.
+
+</details>
+
+<details><summary>Español</summary>
+
+**No hay** una ordenanza especial para **contradecir** la declaración general de que  
+Cuando **se comete** un pecado  
+Y el hombre **siente remordimiento**,  
+La **expiación** o la prāyaścitta **es meditar** en bhagavān.
+
+Por lo tanto, la regla de que,  
+A menos que **haya surgido** la ocasión,  
+No puede haber una aplicación de un **remedio** (para cubrir una posibilidad futura) **se mantiene** bien  
+y **No se contradice** en el caso de los delitos **cometidos** deliberadamente después de Prapatti.
+</details>
+ 
 
 <details><summary>मूलम्</summary>
 
 आगैयाले विशेषवचनमिल्लामैयाले “कृते पापेऽनुतापो वै”(विष्णुपुराणम् 2-6-40.) इत्यादिगळ् कणक्किले निमित्तमुदित्तालल्लदु नैमित्तिकम् प्राप्तमऩ्ऱॆऩ्गिऱ न्यायम् बुद्धिपूर्वोत्तराघत्तिल् बाधितमागादु.
 </details>
 
+## बुद्धि-पूर्वकाघ-जनक-प्रारब्ध-निवर्तनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आऩ-बिन्बु आगामि-बुद्धि-पूर्व-पापत्तुक्क् अञ्जिनान् आगिल्  
-अदुक्कुक् कारणम् आऩ प्रारब्ध-पापत्तुक्कु प्रपदन-रूप-प्रायश्चित्तम् पण्णप् प्राप्तम्.
+आऩ-बिन्बु आगामि-बुद्धि-पूर्व-पापत्तुक्क् **अञ्जिनान्** आगिल्  
+अदुक्कुक् कारणम् आऩ प्रारब्ध-पापत्तुक्कु  
+**प्रपदन**-रूप-प्रायश्चित्तम् पण्णप् प्राप्तम्.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Since the prayascitta or atonement is prescribed only for a sin that has already been committed, if a man dreads the possibility of future sins committed deliberately, he should perform atonement in the form of a prapatti for the sins of the past life which have now begun to operate and which are the cause of these (possible) future sins. 
+अतश् च आगामि-बुद्धि-पूर्व-पापात् भीतश् चेत् —  
+तत्-कारणी-भूत-प्रारब्ध-पापस्य कृते  
+**प्रपदन**-रूपं **प्रायश्चितं कर्तुं** युक्तम् । 
 </details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+कश्चिद् बुद्धि-पूर्वकाघ-जनक-प्रारब्ध-निवर्तनाय देवं शरणं प्रपद्यते चेत्,  
+जीवतस् तस्याघास् तादृशास् सम्भवेयुः।  
+("न कश्चिन् नापराध्यती"त्य् अनिवार्या अपि स्युः। )  
+
+तेन तस्याः प्रपत्तेः वैफल्यम् अनुमीयेत।  
+तत्र कारणं महाविश्वासाभावः स्यात् - इष्टम् फलम् एव न मयि सम्भवतीति।   
+
+तथा सति, प्रपत्ति-क्रियायाम् एव विचलित-विश्वसनां जनानां  
+मोक्षार्थ-प्रपत्ताव् अपि विश्वासाभावस् स्यात्।  
+अतो हि दृश्य-फलार्थ-प्रपत्तिर् इदं नानुमन्यतय् आचार्यैः प्रायेण।  
+वेङ्कटनाथार्यकाले तु साधारणी स्यात्। 
+</details>
+
+<details><summary>English</summary>
+
+Since the prayascitta or atonement is prescribed  
+only for a sin that has already been committed,  
+if a man dreads the possibility of future sins committed deliberately,  
+he should perform atonement in the form of a prapatti for the sins of the past life  
+which have now begun to operate  
+and which are the cause of these (possible) future sins. 
+</details>
+
+<details><summary>Español</summary>
+
+Dado que **se prescribe** la prayascitta o expiación  
+Solo por un pecado que ya **se ha cometido**,    
+Si un hombre **teme** la posibilidad de futuros pecados **cometidos** deliberadamente,  
+**Debe realizar una expiación** en forma de Prapatti por los pecados de la vida pasada.  
+que ahora **han comenzado** a operar  
+y cuáles **son** la causa de estos (posibles) pecados futuros.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 आनबिन्बु आगामिबुद्धिपूर्वपापत्तुक्कञ्जिनानागिल् अदुक्कुक् कारणमान प्रारब्धपापत्तुक्कु प्रपदनरूपप्रायश्चित्तम् पण्णप् प्राप्तम्.
 </details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2500,14 +2585,40 @@ Since the prayascitta or atonement is prescribed only for a sin that has already
 () ऎऩ्ऱार्गळ् इऱे,   
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “साध्य-भक्तिस् तु सा हन्त्री  
+प्रारब्धस्यापि भूयसी”
+
+इत्य् ऊचुः किल । 
+</details>
+
+<details><summary>English</summary>
 
 For has it not been said, 
 
-"Bhakti adopted as an upāya can destroy all sins except those sins of the past that have begun to operate in this life.
-
-On the other hand, prapatti (or sadhya bhakti) is superior to bhakti and can destroy even those sins of the past that have begun to produce their consequences in this life?"
+> "Bhakti, adopted as an upāya, can destroy all sins  
+> except those sins of the past  
+> that have begun to operate in this life.
+>
+> On the other hand, prapatti (or sadhya bhakti) is superior to bhakti  
+> and can destroy even those sins of the past  
+> that have begun to produce their consequences in this life."
 </details>
+
+<details><summary>Español</summary>
+
+Porque **no se ha dicho**
+
+> "Bhakti, **adoptado** como un upāya, **puede destruir** todos los pecados  
+> excepto esos pecados del pasado  
+> que **han comenzado a operar** en esta vida.
+>
+> Por otro lado, Prapatti (o Sadhya Bhakti) es superior a Bhakti  
+> y **puede destruir** incluso esos pecados del pasado  
+> que **han comenzado** a producir sus consecuencias en esta vida ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2517,18 +2628,66 @@ On the other hand, prapatti (or sadhya bhakti) is superior to bhakti and can des
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > “जन्मान्तर-कृतं पापं  
-> व्याधिरूपेण बाधते ।  
-> तच्-छान्तिर् औषधैर् दानैर्  
+> +++(बुद्धि-पूर्वकाघ-सहित-)+++व्याधि-रूपेण **बाधते** ।  
+> तच्-**छान्तिर्** औषधैर् दानैर्  
 > जप-होमार्चनादिभिः”  
-> () 
 
-इत्यादिगळिल् दान-जपादिगळिलुम् अगप्+++(=अन्तः)+++-पडप्-प्रारब्ध-पाप-नाशञ् चॊल्लप् पट्टद् इऱे…
+
+इत्यादिगळिल्  
+दान-जपादिगळिलुम् अगप्+++(=अन्तः)+++-पडप्-प्रारब्ध-पाप-नाशञ् चॊल्लप् पट्टद् इऱे…
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-It has also been said :- "The sins committed in previous births afflict a man (in the present life) as diseases. They can be got rid of by medicines, charitable gifts, japa, offerings to the fire (homa) and adoration of Bhagavān". (It is indeed stated here) that, even by japa and homa, the sins of the past which have begun to bear fruit in the present life can be destroyed. (Such being the case, there is no reason to doubt that prapatti can destroy such sins). 
+> “जन्मान्तर-कृतं पापं  
+> +++(बुद्धि-पूर्वकाघ-सहित-)+++व्याधि-रूपेण **बाधते** ।  
+> तच्-**छान्तिर्** औषधैर् दानैर्  
+> जप-होमार्चनादिभिः”  
+
+इत्य्-आदिषु दान-जपादीनाम् अपि  
+प्रारब्ध-पाप-**नाशकत्वम् उक्तं** किल । 
 </details>
+
+<details><summary>विषयः</summary>
+
+पाप-वारणम्, धर्म-निष्ठा, सदाचारः, कर्म
+</details>
+
+
+<details><summary>English</summary>
+
+It has also been said :- 
+
+> "The sins committed in previous births  
+> afflict a man (in the present life) as diseases.  
+> They can be got rid of by medicines, charitable gifts, japa, offerings to the fire (homa) and adoration of Bhagavān". 
+
+(It is indeed stated here) that,  
+even by japa and homa,  
+the sins of the past which have begun to bear fruit in the present life can be destroyed.  
+(Such being the case,  
+there is no reason to doubt that prapatti can destroy such sins). 
+
+</details>
+
+<details><summary>Español</summary>
+
+También **se ha dicho**:-
+
+> "Los pecados **cometidos** en nacimientos anteriores  
+> **Afligir** a un hombre (en la vida actual) como enfermedades.  
+> Ellas **pueden ser eliminadas** por  
+> los medicamentos, regalos de caridad, Japa, ofrendas al fuego (homa) y adoración de Bhagavān ".
+
+(De hecho **se dice** aquí) que,
+Incluso por Japa y Homa,
+Los pecados del pasado que **han comenzado a dar** frutos en la vida actual pueden ser destruidos.  
+(Tal es el caso,  
+**No hay** razón para **dudar**  
+de que Prapatti **pueda destruir** tales pecados).
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -2537,14 +2696,35 @@ It has also been said :- "The sins committed in previous births afflict a man (i
 
 <details open><summary >विश्वास-प्रस्तुतिः</summary>
 
-आगैयाल् पापारंभक-पापत्तुक्क् अञ्जि  
+आगैयाल् पापारंभक-पापत्तुक्क् **अञ्जि**  
 प्रपत्ति पण्णिनान् आगिल्  
-अप्पोदु बुद्धि-पूर्वक-पापमुम् उदियादु. 
+अप्पोदु बुद्धि-पूर्वक-**पापमुम् उदियादु**. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Therefore if a man performs prapatti in dread of the possibilities of future sins which might be caused by the sins of the past, these can be got rid of and no such future sin will be deliberately committed.
+अतः पापारम्भक-पापेभ्यो **भीतः सन्**  
+**प्रपत्तिं कृतवांश्** चेत्,  
+तदा बुद्धि-पूर्व-पापं **नैवोदियात्** । 
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore if a man performs prapatti  
+in dread of the possibilities of future sins  
+which might be caused by the sins of the past,  
+these can be got rid of  
+and no such future sin will be deliberately committed.
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, si un hombre realiza Prapatti  
+con **temor** a las posibilidades de los pecados futuros  
+que **podría ser** causado por los pecados del pasado,  
+Estos **se pueden deshacer**  
+y **no se cometirá** deliberadamente tal pecado futuro.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2552,52 +2732,131 @@ Therefore if a man performs prapatti in dread of the possibilities of future sin
 आगैयाल् पापारंभकपापत्तुक्क् अञ्जि प्रपत्ति पण्णिनानागिल् अप्पोदु बुद्धिपूर्वकपापमुमुदियादु. 
 </details>
 
+## भागवतापचारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-+++(गरुड-विषयत्तिले)+++ “दासस्सखा वाहनम् आसनं ध्वज” (आळवन्दार् स्तोत्तिरम् 41.) इत्यादिगळिऱ्-‌पडिये  
++++(गरुड-विषयत्तिले)+++ 
+
+> “दासस् सखा वाहनम् आसनं ध्वज” (आळवन्दार् स्तोत्तिरम् 41.) 
+
+इत्य्-आदिगळिऱ्-‌पडिये  
 अत्यन्त-भगवद्-अन्तरङ्गर्क्कुम्  
-सात्त्विकापराध-लेशमुम् प्रत्यवायकरम् ऎन्नुम् इडम्  
+सात्त्विकापराध-लेशमुम् प्रत्यवाय-करम् ऎन्नुम् इडम्  
 +++(गरुडापकृत-)+++शाण्डिली-वृत्तान्तादिगळिले प्रसिद्धम्. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-From such episodes as that of Sandili in which even Garuḍa who has been described in Aḷavandār's Stotra as Bhagavān's servant, friend, vehicle, seat and device on the banner, committed an offence against the righteous Sandili and had to undergo the evil consequences of it until he obtained pardon from her -- from such episodes, it is evident that even for those who are in immediate contact with Bhagavān, even slight offences against the righteous are productive of evil consequences. 
+[[१४७]] 
+
+> “दासस् सखा वाहनम् आसनं ध्वज” (आळवन्दार् स्तोत्तिरम् 41.) 
+
+इत्य्-आदि-रीत्या ऽत्यन्त-भगवद्-अन्तरङ्गाणाम् अपि  
+सात्त्विकापराध-लेशोऽपि प्रत्यवाय-कर  
+इत्य् एतत्  
++++(गरुडापकृत-)+++शाण्डिली-वृत्तान्तादिषु प्रसिद्धम् । 
 </details>
+
+<details><summary>English</summary>
+
+From such episodes as that of Sandili  
+in which even Garuḍa, who has been described in Aḷavandār's Stotra as Bhagavān's servant, friend, vehicle, seat and device on the banner,  
+committed an offence against the righteous Sandili  
+and had to undergo the evil consequences of it  
+until he obtained pardon from her --  
+from such episodes, it is evident that  
+even for those who are in immediate contact with Bhagavān,  
+even slight offences against the righteous  
+are productive of evil consequences. 
+
+</details>
+
+<details><summary>Español</summary>
+
+De episodios como el de Sandili  
+en el que incluso Garuḍa, que **ha sido descrito** en el Stotra de Aḷavandār como el sirviente, amigo, vehículo, asiento y dispositivo de Bhagavān en el banner,  
+**cometió** un delito contra el justo Sandili  
+y tuvo que **someterse** a las malas consecuencias de ello  
+Hasta que él **obtuvo perdón** de ella -  
+de tales episodios, **es evidente** que  
+Incluso para aquellos que **están en contacto** inmediato con Bhagavān,  
+incluso leves **ofensas** contra los justos  
+**son productivos** de las malas consecuencias.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 “दासस्सखा वाहनमासनं ध्वज”(आळवन्दार् स्तोत्तिरम् 41.) इत्यादिगळिऱ्‌पडिये अत्यन्तभगवदन्तरङ्गर्क्कुम् सात्त्विकापराधलेशमुम् प्रत्यवायकरमॆन्नुमिडम् शाण्डिलीवृत्तान्तादिगळिले प्रसिद्धम्. 
 </details>
 
+## नित्य-सूर्य्-अभिनयः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वेश्वरनैप् पोले +++(नित्य-)+++सूरिगळुम् अवतरित्ताल्  
-कर्म-वश्यत्वाभिनयम् पण्णि लोक-हित-प्रवर्तनार्थम् आग  
-अपचार-परिहारादिगळै नडत्तिप् पोरुवर्गळ्. 
++++(पूर्वोक्त-गरुडोपाख्याने यथा)+++  
+सर्वेश्वरनैप् पोले +++(नित्य-)+++सूरिगळुम् **अवतरित्ताल्**  
+कर्म-वश्यत्वाभिनयम् **पण्णि**  
+लोक-हित-**प्रवर्तनार्थम् आग**  
+अपचार-परिहारादिगळै **नडत्तिप् पोरुवर्गळ्**. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-(It may be asked whether nitya sūris like Garuḍa could commit offences at all). The answer is that, if the eternal sūris incarnate like Bhagavān, they have to act the part of those who are subject to the sway of karma and perform atonement for offences in order to promote the good of the world (by setting a proper example).
+सर्वेश्वरवत् सूरयो ऽप्य् **अवतारेषु**  
+कर्म-**वश्यत्वाभिनयं कृत्वा**  
+लोक-हित-प्रवर्तनार्थम् अपराध-**परिहारादीनि कुर्युः** । 
 </details>
+
+
+<details><summary>English</summary>
+
+(It may be asked whether nitya sūris like Garuḍa could commit offences at all).  
+The answer is that, if the eternal sūris incarnate like Bhagavān,  
+they have to act the part of those who are subject to the sway of karma  
+and perform atonement for offences in order to promote the good of the world  
+(by setting a proper example).
+
+</details>
+
+<details><summary>Español</summary>
+
+(Se le **puede preguntar** si Nitya Sūris como Garuḍa **podría cometer** delitos).  
+La **respuesta** es que, si los sūris eternos **se encarnan** como bhagavān,  
+**Tienen que actuar** la parte de aquellos que están sujetos al influencia del karma  
+y **realizar expiación** por delitos para **promover** el bien del mundo  
+(**estableciendo** un ejemplo adecuado).
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-सर्वेश्वरनैप्पोले सूरिगळुमवतरित्ताल् कर्मवश्यत्वाभिनयम् पण्णि लोकहितप्रवर्तनार्थमाग अपचारपरिहारादिगळै नडत्तिप्पोरुवर्गळ्. 
+सर्वेश्वरनैप्पोले सूरिगळुमवतरित्ताल् कर्मवश्यत्वाभिनयम् पण्णि 
+लोकहितप्रवर्तनार्थमाग अपचारपरिहारादिगळै नडत्तिप्पोरुवर्गळ्. 
 </details>
 
+## अपराध-मूल-कारण-निराकरण-प्रकारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आगैयाल्,  
-भगवत्-प्रीतिय्-इऴवामैक्क्+++(=इळियाद)+++ आगवुम्,  
-अदुक्क् आग पुनः-प्रपत्तिय् आदल्, लघु-दण्डम् आदल्  प्रसङ्गियामैक्क् आगवुम्  
-मेल्-वरुम् अपराधङ्गळ् वेर्+++(=बेर्)+++ अऱुक्कुम् विरगु+++(=उपायम्)+++ पार्क्क-वेणुम्.
+भगवत्-प्रीतिय्-**इऴवामैक्क्** आगवुम्,  
+अदुक्क् आग पुनः-प्रपत्तिय् आदल्, लघु-दण्डम् आदल्  प्रसङ्गियामैक्क् आगवुम्,  
+मेल्-वरुम् अपराधङ्गळ् वेर्+++(=बेर्)+++ अऱुक्कुम् **विरगु**+++(=उपायम्)+++ **पार्क्क-वेणुम्**.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>English</summary>
 
-So, in order that one may not lose the grace of God and thereby incur the need for further prapatti or light punishment, a way must be found to root out the possibility of future offences. 
+So, in order that one may not lose the grace of God  
+and thereby incur the need for further prapatti or light punishment,  
+a way must be found to root out the possibility of future offences. 
+
+</details>
+
+<details><summary>Español</summary>
+
+Entonces, para que uno **no pueda perder** la gracia de Dios  
+y por lo tanto **incurrir** en la **necesidad** de más **prapatti** o **castigo** ligero,  
+Se **debe encontrar** una forma  
+para **eliminar** la posibilidad de futuros delitos.
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2607,7 +2866,7 @@ So, in order that one may not lose the grace of God and thereby incur the need f
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपराधङ्गळ् ऎल्लाव् अऱ्ऱुक्कुम् अडि अविवेकम्. 
+अपराधङ्गळ् ऎल्लाव् अऱ्ऱुक्कुम् अडि **अविवेकम्**. 
 </details>
 
 <details><summary>English</summary>
