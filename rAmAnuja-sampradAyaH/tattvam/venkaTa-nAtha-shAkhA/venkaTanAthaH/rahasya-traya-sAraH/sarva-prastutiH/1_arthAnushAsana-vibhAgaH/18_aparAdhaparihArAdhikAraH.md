@@ -3327,7 +3327,7 @@ Such points of excellence and inferiority,
 which are likely to cause envy,  
 should not make one think of treating superior persons with disregard,  
 As stated in Rahasyāmnāya  
-in the section treating of the origin of envy.
+in the section treating the origin of envy.
 </details>
 
 <details><summary>Español</summary>
@@ -3336,7 +3336,7 @@ Tales puntos de excelencia e inferioridad,
 que **es probable** que causen envidia,  
 **no debe hacer** que uno **piense** en **tratar** a personas superiores **sin tener** en cuenta,  
 Como **se indica** en Rahasyāmnāya  
-En la sección Tratamiento del origen de la envidia.
+En la sección que trata el origen de la envidia.
 </details>
 
 <details><summary>मूलम्</summary>
