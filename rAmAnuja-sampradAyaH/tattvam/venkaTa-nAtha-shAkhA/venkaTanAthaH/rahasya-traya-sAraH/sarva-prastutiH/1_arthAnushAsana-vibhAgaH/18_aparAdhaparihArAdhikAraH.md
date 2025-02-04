@@ -3467,11 +3467,25 @@ También debemos **considerar** tales pasajes como los siguientes:
 इति
 </details>
 
+<details><summary>English</summary>
 
-<details><summary>राजगोपालः (En)</summary>
+> "The caṇḍāla who has devotion to Bhagavān -  
+> to think even by mere chance, of this chanḍāla,  
+> to talk to him  
+> and to treat him with respect -  
+> these purify the man who does so, O, Brahmin " 
 
-> "The caṇḍāla who has devotion to Bhagavān - to think even by mere chance, of this chanḍāla, to talk to him and to treat him with respect - these purify the man who does so, O, Brahmin " 
 </details>
+
+<details><summary>Español</summary>
+
+> "El caṇḍāla que **tiene devoción** a Bhagavān -  
+> **Pensar** incluso por la mera oportunidad, de este chanḍāla,  
+> hablar con él
+> y tratarlo con respeto -
+> Estos purifican al hombre que lo hace, oh, brahmin "
+</details>
+
 
 <details><summary>मूलम्</summary>
 
