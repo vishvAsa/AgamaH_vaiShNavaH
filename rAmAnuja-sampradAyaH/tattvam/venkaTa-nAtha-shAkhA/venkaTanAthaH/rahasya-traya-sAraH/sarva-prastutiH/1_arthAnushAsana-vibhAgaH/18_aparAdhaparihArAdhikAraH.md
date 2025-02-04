@@ -2912,18 +2912,40 @@ es la falta de discriminación (aviveka).
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 तत्र प्रधान-भूतो ऽविवेको  
-ऽचित्-स्व-भावानां जडत्व-विकारादीनां वहनम्  
-ईश्वर--स्व-भावानां स्व-निष्ठत्वस्-स्वातन्त्र्यान्यार्थत्वादीनां वहनं च ।
+ऽचित्-स्व-भावानां जडत्व-विकारादीनां **वहनम्**  
+
+ईश्वर--स्व-भावानां स्व-निष्ठत्व--स्वातन्त्र्या+अनन्यार्थत्वादीनां [आत्मनि] **वहनं** च ।
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>English</summary>
 
-Of this want of discrimination, the most important is 
+Of this want of discrimination, the most important is  
 
-that which causes the delusion that the self is identical with matter (the body ) which is non-sentient and ever subject to modification and has such other qualities 
+that which causes the delusion that the self is identical with matter (the body )  
+which is non-sentient  
+and ever subject to modification  
+and has such other qualities 
 
-and, likewise, the delusion that the individual self has the attributes and qualities which are peculiar to Iśvara, such as existing in itself, independence, and not existing for any one but itself. 
+and, likewise, the delusion that the individual self has the attributes and qualities which are peculiar to Iśvara,  
+such as existing in itself, independence,  
+and not existing for any one but itself. 
 </details>
+
+<details><summary>Español</summary>
+
+De esta falta de discriminación, lo más importante **es**
+
+lo que causa el **engaño** de que el yo **es idéntico** a la materia (el cuerpo)  
+que **no es** sensible  
+y alguna vez **sujeto** a modificación  
+y **tiene** otras cualidades
+
+y, del mismo modo, el **engaño** de que el yo individual  
+**tiene** los atributos y cualidades que **son** peculiares de Iśvara,  
+como **existir** en sí mismo, independencia,  
+y **no existir** para nadie más que a sí mismo.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2932,14 +2954,37 @@ and, likewise, the delusion that the individual self has the attributes and qual
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इव्व् अविवेकत्तैय् अऱुक्कैक्कुत् तॆळि+++(=तीक्ष्ण)+++-वाळ्+++(=खड्ग)+++ आय् इरुप्पदु एऱ्ऱच्  
-चुरुक्कमऱत् तन्न् अळविल्+++(=माने)+++ उण्ड् आऩ तॆळिवु.
+इव्व् अविवेकत्तैय् **अऱुक्कैक्कुत्**  
+तॆळि+++(=तीक्ष्ण)+++-**वाळ्+++(=खड्ग)+++ आय् इरुप्पदु**  
+एऱ्ऱच् चुरुक्कम् अऱत्  
+तन्न्+++(→आत्मनः)+++ **अळविल्**+++(=माने)+++ उण्ड् आऩ  **तॆळिवु**.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-The sharp-edged saw that cuts off this want of discrimination is a clear knowledge of the nature of one's self which is neither redundant nor inadequate.
+अस्याविवेकस्य छेदनार्थं  
+तीक्ष्णासि-भूतं तावत्  
+न्यूनाधिक-भाव-राहित्येन  
+स्व--स्व-रूप-गोचरं विशद-**ज्ञानम्** । 
 </details>
+
+
+<details><summary>English</summary>
+
+The sharp-edged saw  
+that cuts off this want of discrimination  
+is a clear knowledge of the nature of one's self  
+which is neither excessive ~~redundant~~ nor inadequate.
+</details>
+
+<details><summary>Español</summary>
+
+La sierra de bordes afilados  
+que **corta** esta falta de discriminación  
+**es** un **conocimiento** claro de la naturaleza de uno mismo  
+que **no es** excesiva ni inadecuado.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2949,144 +2994,458 @@ The sharp-edged saw that cuts off this want of discrimination is a clear knowled
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-अ-विवेक-प्रभुत्वादेर्  
-निदानस्य निवर्तनात् ।  
++++(शरीरात्म-)+++अ-विवेक--प्रभुत्वादेर्  
+निदानस्य **निवर्तनात्** ।  
 अर्थ-कामापचाराणाम्  
-अयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
+**अ-यत्नोन्मूलनं** भवेत् ॥ ४०-आ ॥ 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विषयः</summary>
 
-When the cause, namely, the delusion that the self is the body and that the self is independent (of the Lord) and other such delusions disappear, the offences which arise from the desire for wealth and for sense pleasures are (completely) rooted out without any special effort.
+विवेकः, तत्त्व-ज्ञानम्, पापम्, संयमः, अविवेकः
 </details>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
++++(शरीरात्म-)+++अ-विवेक--प्रभुत्वादेर्  
+निदानस्य **निवर्तनात्** ।  
+अर्थ-कामापचाराणाम्  
+**अ-यत्नोन्मूलनं** भवेत् ॥ ४०-आ ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+When the cause, namely,  
+the delusion that the self is the body  
+and that the self is independent (of the Lord)  
+and other such delusions disappear,  
+the offences which arise from the desire for wealth and for sense pleasures  
+are (completely) rooted out without any special effort.
+</details>
+
+<details><summary>Español</summary>
+
+Cuando la causa, a saber,  
+la **ilusión** de que el yo **es** el cuerpo  
+y que el yo **es** independiente (del Señor)  
+y otros **delirios** similares **desaparecen**  
+los **delitos** que **surgen** del **deseo** de riqueza y de los placeres sensoriales  
+**están** (completamente) **enraizados** sin **ningún esfuerzo** especial.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 अविवेकप्रभुत्वादेर्निदानस्य निवर्तनात् । अर्थकामापचाराणामयत्नोन्मूलनं भवेत् ॥ ४०-आ ॥
 </details>
 
+## विवेकार्था प्रपत्तिः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इवैय् ऎल्लात्तुक्कुम् अडि  
-फल-प्रदानोन्मुखम् आयिरुप्पद् ऒरु पूर्वाघम् आगैयाले,  
-अदिन् उडैय निवृत्तिक्कुम् आग वडियिले  
-प्रपत्ति-पण्णुदल्,  
-इदुक्क् ऎऩ्ऱु पिन्ब् ऒरु प्रपत्ति पण्णुदल्,  
-सॆय्दार्क्क् इवैय् ऎल्लाम् परिहृतङ्गळ् आम्.
+इवैय् ऎल्लात्तुक्कुम् **अडि**  
+फल-प्रदानोन्मुखम् आयिरुप्पद् ऒरु **पूर्वाघम् आगैयाले**,  
+
+अदिन् उडैय **निवृत्तिक्कुम्** आगव् अडियिले +++(→मोक्षार्थया सह)+++ **प्रपत्ति-पण्णुदल्**,  
+
+इदुक्क् ऎऩ्ऱु पिन्ब् ऒरु **प्रपत्ति पण्णुदल्**,  
+
+**सॆय्दार्क्क्** इवैय् ऎल्लाम् **परिहृतङ्गळ्** आम्.
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य सर्वस्यापि मूलं  
+फल-प्रदानोन्मुखं किञ्चित् पूर्वाघम् इति  
+
++++(मोक्षार्थया सह)+++ तन्-निवृत्त्य्-अर्थम् अप्य् आदौ **प्रपत्त्य्-अनुष्ठानम्**,  
+
+एतदर्थं पश्चाद् एकस्याः **प्रपत्तेर् अनुष्ठानं** वा कृतवताम्  
+
+इदं सर्वं **परिहृतं** भवति । 
+</details>
+
+<details><summary>English</summary>
 
 The prime cause of all these, namely,  
 the possibility of future offences  
 and the delusions which cause them  
-is sin committed in past births which has now begun to yield its consequences.   
-Therefore it will be atoned for by the performance of prapatti at the beginning so as to cover that sin also  
+is sin committed in past births  
+which has now begun to yield its consequences.   
+Therefore it will be atoned for by the performance of prapatti 
+at the beginning so as to cover that sin also  
 or the performance of a further prapatti for the purpose.
 </details>
+
+<details><summary>Español</summary>
+
+La **causa** principal de todos estos, a saber,  
+la posibilidad de futuros **delitos**  
+y los **delirios** que los **causan**  
+**se** el pecado **comete** en nacimientos pasados  
+que ahora **ha comenzado a producir** sus consecuencias.  
+
+Por lo tanto,  
+**será** expedido por el **rendimiento** de Prapatti
+al principio para **cubrir** ese pecado también,  
+
+o el **rendimiento** de un Prapatti adicional para este propósito.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 इवैय् ऎल्लात्तुक्कुम् अडि फलप्रदानोन्मुखमायिरुप्पदॊरु पूर्वाघमागैयाले अदिनुडैय निवृत्तिक्कुमाग वडियिले प्रपत्तिपण्णुदल् इदुक्कॆऩ्ऱु पिन्बॊरु प्रपत्तिपण्णुदल्, सॆय्दार्क्किवैयॆल्लाम् परिहृतङ्गळाम्.
 </details>
 
+## भागवतापचार-प्राधान्यम्
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप्पडि इवनुक्कु परिहरणीयङ्गळ् आऩ वऱ्ऱिल्+++(=??)+++  
-राज-दारापराधम् पोले भागवतापचारम् प्रधानम् ऎन्नुम् इडत्तै  
-“एवं मुक्ति-फलानियमस् तद्-अवस्थावधृतेस् तद्-अवस्थावधृतेः”(ब्रह्मसूत्रम्3-4-51)  
+इप्पडि इवनुक्कु **परिहरणीयङ्गळ्** आऩवऱ्ऱिल्  
+राज-दारापराधम् पोले भागवतापचारम् प्रधानम् 
+
+ऎन्नुम् इडत्तै  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एवम् अस्य **परिहरणीयेषु**  
+राज-दारापराधवत् **भागवतापचारः प्रधान-भृत**  
+इत्य् एतम् अर्थम् 
+</details>
+
+
+<details><summary>English</summary>
+
+Of these sins which have to be atoned for,  
+offences done to Bhāgavatas stand in the front rank  
+like those done to the wives of a king -
+</details>
+
+<details><summary>Español</summary>
+
+De estos pecados que **tienen** que ser **expedidos** por,  
+Los **delitos hechos** a Bhāgavatas **están** en el frente  
+como los que **se hacen** a las esposas de un rey -
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि इवनुक्कु परिहरणीयङ्गळानवऱ्ऱिल् राजदारापराधम् पोले भागवतापचारम् प्रधानमॆन्नुमिडत्तै 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> “एवं +++(कालतो)+++ मुक्ति-फलानियमस्  
+> तद्-अवस्थावधृतेस् +++(←विघ्नेभ्यः)+++, तद्-अवस्थावधृतेः”  
+> (ब्रह्मसूत्रम् 3-4-51)  
+
 ऎऩ्गिऱ सूत्रत्तिल् भाष्यकारर् अरुळिच् चॆय्दार्. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Of these sins which have to be atoned for, the Bhāṣyakāra (Śrī Rāmānuja) has pointed out that offences done to Bhāgavatas stand in the front rank like those done to the wives of a king -vide his commentary on the Sūtra :  
+> “एवं +++(कालतो)+++ मुक्ति-फलानियमस्  
+> तद्-अवस्थावधृतेस् +++(←विघ्नेभ्यः)+++, तद्-अवस्थावधृतेः”  
+> (ब्रह्मसूत्रम् 3-4-51)  
+
+इति सूत्रे भाष्यकारा **अनुजगृहुः**।
+</details>
+
+<details><summary>English</summary>
+
+the Bhāṣyakāra (Śrī Rāmānuja) has pointed out this out -  
+ vide his commentary on the Sūtra :  
 
 > "The fruits of mukti too, cannot be said to be attained at any fixed time;  
 > for they can be attained only if there are no obstacles". 
 
 (Śrī Rāmānuja's commentary is as follows: 
 
-> Though the fruit of upāsana or bhakti is mukti, still the time of its attainment is uncertain, because of the presence or absence of obstacles.
+> Though the fruit of upāsana or bhakti is mukti,  
+> still the time of its attainment is uncertain,  
+> because of the presence or absence of obstacles.
 >   
-> It may be asked whether there could be any such obstacle in the case of one whose karma or upāsanā which gets him mukti is far stronger than all other karmas.  
+> It may be asked  
+> whether there could be any such obstacle in the case of one  
+> whose karma or upāsanā which gets him mukti  
+> is far stronger than all other karmas.  
 >
-> The answer is:- Even in his case there may be obstacles of the nature of offences done in the past to those who meditate on Brahman.
+> The answer is:-  
+> Even in his case  
+> there may be obstacles of the nature of offences done in the past  
+> to those who meditate on Brahman.
+)
 
+</details>
+
+<details><summary>Español</summary>
+
+El Bhāṣyakāra (śrī rāmānuja) **ha señalado** esto -  
+**Vide su comentario** sobre el sūtra:
+
+> "Los frutos de Mukti también **no se puede decir**  
+> que **se alcancen** en cualquier momento fijo;  
+> Porque solo **se pueden lograr** si **no hay** obstáculos ".
+
+(El comentario de Śrī Rāmānuja **es** el siguiente:
+
+> Aunque el fruto de upāsana o bhakti **es** mukti,  
+> Todavía el tiempo de **su logro es incierto**,  
+> Debido a la **presencia o ausencia** de obstáculos.
+>
+> **Se puede preguntar**  
+> si podría **haber** tal obstáculo en el caso de uno  
+> cuyo karma o upāsanā que lo **consigue** mukti  
+> **es** mucho más fuerte que todos los demás karmas.
+>
+> La **respuesta es**:-  
+> Incluso en su caso
+> **Puede haber obstáculos** de la naturaleza de los **delitos hechos** en el pasado  
+> A aquellos que **meditan** en Brahman.
 )
 </details>
 
+
 <details><summary>मूलम्</summary>
 
-इप्पडि इवनुक्कु परिहरणीयङ्गळानवऱ्ऱिल् राजदारापराधम् पोले भागवतापचारम् प्रधानमॆन्नुमिडत्तै “एवं मुक्तिफलानियमस्तदवस्थावधृतेस्तदवस्थावधृतेः”(ब्रह्मसूत्रम्3-4-51) ऎऩ्गिऱ सूत्रत्तिल् भाष्यकारररुळिच्चॆय्दार्.
+“एवं मुक्तिफलानियमस्तदवस्थावधृतेस्तदवस्थावधृतेः”(ब्रह्मसूत्रम्3-4-51) ऎऩ्गिऱ सूत्रत्तिल् भाष्यकारररुळिच्चॆय्दार्.
 </details>
 
+
+### उपाधिभिस् तारतम्यम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आऩ पिन्बु  
-जाति-गुण-वृत्तादिगळाले उत्कृष्टर् आऩ पराशर-व्यास-शुक-शौनक--नाथ-मुनि--प्रभृतिगळुक्कुम्,  
+जाति-गुण-वृत्तादिगळाले **उत्कृष्टर्**
+ आऩ पराशर-व्यास-शुक-शौनक--नाथ-मुनि--प्रभृतिगळुक्कुम्,  
 तनक्कुम्,  
 भागवतत्वादिगळुम्, परम-पुरुषार्थ-लाभमुम् तुल्यम् आय् इरुन्दालुम्, 
-
-भगवत्-परिग्रहम् आऩ गो-गोप-जातिगळ् उडैयवुम्,  
-तुळसी-चंपकादिगळ् उडैयवुम्,  
-गोमय-मृग-मदादिगळ् उडैयवुम् वैषम्यम्पोले 
-
-भगवत्-सङ्कल्प-विशेष-प्रयुक्तम् आऩ तत्-तद्-उपाधि-स्वभावत्ताले  
-सिद्धङ्गळ् आऩ उत्कर्षापकर्षङ्गळै  
-असूया-प्रादुर्भाव-प्रकरणत्तिल् आम्नातम् आनप् पडिये+++(=प्रकारेण)+++  
-तिरस्करिक्क निनैयाद् ऒऴियवुम्+++(=उळियुवुदु)+++
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Such being the case, although there may be resemblance between oneself and such persons as Parāśara, Vyāsa, Śuka , Śaunaka, Nathamuni and others, who were distinguished by their caste, character, conduct and the like in such matters as devotion to Bhagavān and the attainment of the supreme goal of life, they should not be treated with disregard.
-
-There are differences due to the will of Bhagavān as seen in the condition of each object among things which are the property of Bhagavān such as cows and cowherds, tulasī and champaka, cow dung and musk. 
-
-Such points of excellence and inferiority, which are likely to cause envy, should not make one think of treating superior persons with disregard, As stated in Rahasyāmnāya in the section treating of the origin of envy.
+अतश् च जाति-गुण-वृत्तादिभिर् उत्कृष्टानां  
+पराशर-व्यास-शुक-शौनक--नाथ-मुनि--प्रभृतीनां  
+स्वस्य च  
+भागवतत्वादेः परम-पुरुषार्थ-लाभस्य च **तुल्यत्वे** ऽपि 
 </details>
+
+
+<details><summary>English</summary>
+
+Such being the case,  
+although there may be resemblance between oneself  
+and such persons as Parāśara, Vyāsa, Śuka , Śaunaka, Nathamuni and others,  
+who were distinguished by their caste, character, conduct and the like  
+in such matters as devotion to Bhagavān  
+and the attainment of the supreme goal of life,  
+they should not be treated with disregard.
+</details>
+
+<details><summary>Español</summary>
+
+Tal es el caso,  
+Aunque puede **haber semejanza** entre uno mismo  
+y personas como Parāśara, Vyāsa, Śuka, śaunaka, Nathamuni y otros,  
+que **se distinguieron** por su casta, carácter, conducta y similares  
+en asuntos como **devoción** a Bhagavān  
+y el **logro** del objetivo supremo de la vida,  
+**No deben ser tratados** con desprecio.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
-आऩ पिन्बु जातिगुणवृत्तादिगळाले उत्कृष्टरान पराशरव्यासशुकशौनकनाथमुनिप्रभृतिगळुक्कुम् तनक्कुम् भागवतत्वादिगळुम् परमपुरुषार्थलाभमुम् तुल्यमायिरुन्दालुम् भगवत्परिग्रहमान गोगोपजातिगळुडैयवुम् तुळसीचंपकादिगळुडैयवुम् गोमयमृगमदादिगळुडैयवुम् वैषम्यम्पोले भगवत्सङ्कल्पविशेषप्रयुक्तमान तत्तदुपाधिस्वभावत्ताले सिद्धङ्गळान उत्कर्षापकर्षङ्गळै असूयाप्रादुर्भावप्रकरणत्तिला म्नातमानप्पडिये तिरस्करिक्क निनैयादॊऴियवुम्
+आऩ पिन्बु जातिगुणवृत्तादिगळाले उत्कृष्टरान पराशरव्यासशुकशौनकनाथमुनिप्रभृतिगळुक्कुम् तनक्कुम् भागवतत्वादिगळुम् परमपुरुषार्थलाभमुम् तुल्यमायिरुन्दालुम् 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जात्याद्य्-उपाधिगळाले भागवतर् तिऱत्तिल्+++(=स्तरे)+++  
-“अनुज्ञा-परिहारौ देह-संबन्धाज् ज्योतिर्+++(→अग्नि)+++-आदिवत्”(ब्रह्मसूत्रम्2-3-47)  
-ऎऩ्गिऱ न्यायत्ताले  
-प्रवृत्ति-निवृत्ति-विशेषङ्गळुक्कु यथा-शास्त्रं नियमम् उण्डानालुम्
+भगवत्-परिग्रहम् आऩ गो-गोप-जातिगळ् उडैयवुम्,  
+तुळसी-चंपकादिगळ् उडैयवुम्,  
+गोमय--मृग-मदादिगळ् उडैयवुम् वैषम्यम् पोले +++(5)+++
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-It is true that particular actions and abstention from such actions have been prescribed in the case of Bhagavatās as due to conditions of caste and the like  
+भगवत्-परिगृहीत--गो--गो-प--जातीनां  
+तुलसी-चम्पकादीनां  
+गोमय--मृग-मदादीनां च वैषम्यवत्  
+</details>
+
+<details><summary>English</summary>
+
+There are differences due to the will of Bhagavān  
+as seen in the condition of each object  
+among things which are the property of Bhagavān, such as  
+cows and cowherds,  
+tulasī and champaka,  
+cow dung and musk. 
+</details>
+
+<details><summary>Español</summary>
+
+**Hay diferencias** debido a la **voluntad** de Bhagavān  
+como se ve en la condición de cada objeto  
+Entre las cosas que **se encuentran** la propiedad de Bhagavān, como  
+vacas y vaqueros,  
+Tulasī y Champaka,  
+estiércol de vaca y almizcle.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+भगवत्परिग्रहमान गोगोपजातिगळुडैयवुम् तुळसीचंपकादिगळुडैयवुम् गोमयमृगमदादिगळुडैयवुम् वैषम्यम्पोले 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+
+भगवत्-**सङ्कल्प**-विशेष-प्रयुक्तम् आऩ तत्-तद्-उपाधि-स्वभावत्ताले  
+सिद्धङ्गळ् आऩ उत्कर्षापकर्षङ्गळै  
+असूया-प्रादुर्भाव-प्रकरणत्तिल् **आम्नातम्** आनप् पडिये+++(=प्रकारेण)+++  
+**तिरस्-करिक्क निनैयाद् ऒऴियवुम्**+++(=उळियुवुदु)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भगवत्-संकल्प-विशेष-प्रयुक्त-  
+तत्-तद्-उपाधि--स्व-भाव--सिद्धयोर् उत्कर्षापकर्षयोः  
+असूया-प्रादुर्भाव-प्रकरणाम्नात-रीत्या  
+**तिरस्करणे ऽनभिसन्धिः**, 
+</details>
+
+<details><summary>English</summary>
+
+Such points of excellence and inferiority,  
+which are likely to cause envy,  
+should not make one think of treating superior persons with disregard,  
+As stated in Rahasyāmnāya  
+in the section treating of the origin of envy.
+</details>
+
+<details><summary>Español</summary>
+
+Tales puntos de excelencia e inferioridad,  
+que **es probable** que causen envidia,  
+**no debe hacer** que uno **piense** en **tratar** a personas superiores **sin tener** en cuenta,  
+Como **se indica** en Rahasyāmnāya  
+En la sección Tratamiento del origen de la envidia.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्सङ्कल्पविशेषप्रयुक्तमान तत्तदुपाधिस्वभावत्ताले सिद्धङ्गळान उत्कर्षापकर्षङ्गळै असूयाप्रादुर्भावप्रकरणत्तिला म्नातमानप्पडिये तिरस्करिक्क निनैयादॊऴियवुम्
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जात्य्-आद्य्-उपाधिगळाले भागवतर् तिऱत्तिल्+++(=स्तरे)+++  
+
+> “अनुज्ञा-परिहारौ देह-संबन्धाज् +++(श्रोत्रिय-श्मशान-)+++ज्योतिर्+++(→अग्नि)+++-आदिवत्”(ब्रह्मसूत्रम्2-3-47)  
+
+ऎऩ्गिऱ न्यायत्ताले +++(5)+++  
+प्रवृत्ति-निवृत्ति-विशेषङ्गळुक्कु यथा-शास्त्रं **नियमम् उण्डानालुम्**
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+जात्य्-आद्युपाधिभिर् भागवत-विषये 
+
+> “अनुज्ञा-परिहारौ देह-संबन्धाज् +++(श्रोत्रिय-श्मशान-)+++ज्योतिर्+++(→अग्नि)+++-आदिवत्”(ब्रह्मसूत्रम्2-3-47)  
+
+इत्य्-उक्त-न्यायेन प्रवृत्ति-निवृत्ति-विशेषाणां  
+यथा-शास्त्रं **नियमे सत्य्** अपि 
+</details>
+
+
+<details><summary>English</summary>
+
+It is true that particular actions and abstention from such actions have been prescribed in the case of Bhagavatās  
+as due to conditions of caste and the like  
 as stated in the Brahma Sūtra (2-3. 47) 
 
-> " That there is permission and prohibition (in respect of castes ) is due to their relationship with their bodies as in such things as fire"  [^fire]
+> " That there is permission and prohibition (in respect of castes )  
+> is due to their relationship with their bodies as in such things as fire"  [^fire]
 
-[^fire]: Fire from the house of a Vedic scholar is fit for use, that from the cremation ground is unfit for use. So also, though the soul is pure, a man becomes fit or unfit for certain specific matters owing to his soul's contact with the body. 
+[^fire]: 
 
-In spite of these ordinances, we should also consider such passages as the following :
+    Fire from the house of a Vedic scholar is fit for use,  
+    that from the cremation ground is unfit for use.  
+    So also, though the soul is pure,  
+    a man becomes fit or unfit for certain specific matters  
+    owing to his soul's contact with the body. 
+
+In spite of these ordinances,  
+we should also consider such passages as the following :
+
 </details>
+
+<details><summary>Español</summary>
+
+**Es cierto** que las **acciones** particulares y la **abstención** de tales acciones **se han prescrito** en el caso de Bhagavatās  
+como debido a las **condiciones** de casta y similares  
+Como **se indica** en el Brahma Sūtra (2-3. 47)
+
+> "Que **hay permiso y prohibición** (con respecto a las castas)  
+> **se** debe a su relación con sus cuerpos como en cosas como el fuego "[^Fuego]
+
+[^Fuego]:
+
+    El fuego de la casa de un erudito védico **es apto** para su **uso**,  
+    que del campo de cremación **no es apto** para su **uso**.  
+    Así también, aunque el alma es pura,  
+    un hombre **se vuelve** en forma o no **apto** para ciertos **asuntos** específicos  
+    debido al **contacto** de su alma con el cuerpo.
+
+A pesar de estas ordenanzas,  
+También debemos **considerar** tales pasajes como los siguientes:
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 जात्याद्युपाधिगळाले भागवतर् तिऱत्तिल् “अनुज्ञापरिहारौ देहसंबन्धाज्ज्योतिरादिवत्”(ब्रह्मसूत्रम्2-3-47) ऎऩ्गिऱ न्यायत्ताले प्रवृत्तिनिवृत्तिविशेषङ्गळुक्कु यथाशास्त्रं नियममुण्डानालुम्
 </details>
 
+### भागवतत्व-महिमा
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“साधुरेव स मन्तव्यः”(गीता 9-30) ऎऩ्ऱुम्,  
+> “साधुरेव स मन्तव्यः”(गीता 9-30) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “साधुरेव स मन्तव्यः”(गीता 9-30) 
+
+इति, 
+</details>
+
+<details><summary>English</summary>
+
+> "Even a man of bad conduct  
+> should be considered a good man  
+> if he worships me without expecting any other benefit.  
+> He should be treated with respect." 
 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
+<details><summary>Español</summary>
 
-"Even a man of bad conduct should be considered a good man if he worships me without expecting any other benefit. He should be treated with respect." 
+> "Incluso un hombre de **mala conducta**  
+> **debe considerarse** un buen hombre  
+> Si me **adora sin esperar** ningún otro beneficio.  
+> Debería **ser tratado** con respeto ".
 </details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -3096,12 +3455,22 @@ In spite of these ordinances, we should also consider such passages as the follo
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“स्मृतस् संभाषितोऽपि वा”(इतिहाससमुच्चयः 31-55) ऎऩ्ऱुम्,  
+> “स्मृतस् संभाषितोऽपि वा”(इतिहाससमुच्चयः 31-55) 
+
+ऎऩ्ऱुम्,  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “स्मृतस् संभाषितोऽपि वा”(इतिहाससमुच्चयः 31-55) 
+
+इति
+</details>
+
 
 <details><summary>राजगोपालः (En)</summary>
 
-"The caṇḍāla who has devotion to Bhagavān - to think even by mere chance, of this chanḍāla, to talk to him and to treat him with respect - these purify the man who does so, O, Brahmin " 
+> "The caṇḍāla who has devotion to Bhagavān - to think even by mere chance, of this chanḍāla, to talk to him and to treat him with respect - these purify the man who does so, O, Brahmin " 
 </details>
 
 <details><summary>मूलम्</summary>
