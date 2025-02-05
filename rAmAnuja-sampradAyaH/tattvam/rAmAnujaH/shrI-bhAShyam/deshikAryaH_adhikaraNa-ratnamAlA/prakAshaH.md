@@ -1,5 +1,5 @@
 +++
-title = "अधिकरणरत्नमाला सप्रकाशा १"
+title = "प्रकाशः"
 
 +++
 [[श्रीशारीरकाधिकरणरत्नमाला सप्रकाशा	Source: [EB](https://www.ebharatisampat.in/readbook3?bookid=MjQwOTM4NjcxMDQyNDA0&pageno=MjI0MjQyNjk5NTk=)]]
