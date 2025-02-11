@@ -3494,63 +3494,178 @@ También debemos **considerar** tales pasajes como los siguientes:
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“यश्शूद्रं भगवद्-भक्तं  
-निषादं श्वपचं तथा ।  
-वीक्षते जाति-सामान्यात्  
-स याति नरकन्नरः”  
+> “यश् शूद्रं भगवद्-**भक्तं**  
+निषादं श्व-पचं तथा ।  
+**वीक्षते** जाति-सामान्यात्  
+स **याति** नरकन् नरः”+++(5)+++  
+(इतिहाससमुच्चयः 27-26.) 
 
-(इतिहाससमुच्चयः 27-26.) ऎऩ्ऱुम्,  
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “यश् शूद्रं भगवद्-**भक्तं**  
+निषादं श्व-पचं तथा ।  
+**वीक्षते** जाति-सामान्यात्  
+स **याति** नरकन् नरः”  
+(इतिहाससमुच्चयः 27-26.) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवतः, भागवतापचारः, जातिः, भक्तिः
 </details>
 
 <details><summary>English</summary>
 
-"Whether the devotee of Bhagavān be a südra, a huntsman, or a man who eats dog's flesh, the man who looks upon him as identical with other men of those respective castes will go to hell." 
+> "Whether the devotee of Bhagavān be a südra, a huntsman, or a man who eats dog's flesh,  
+the man who looks upon him as identical with other men of those respective castes  
+will go to hell." 
+
 </details>
+
+<details><summary>Español</summary>
+
+> "Si el devoto de Bhagavān es un Südra, un cazador o un hombre que **come** carne de perro,  
+el hombre que lo **considera idéntico** a otros hombres de esas castas respectivas  
+**Irá** al infierno ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 “यश्शूद्रं भगवद्भक्तं निषादं श्वपचं तथा । वीक्षते जातिसामान्यात्स याति नरकन्नरः”(इतिहाससमुच्चयः 27-26.) ऎऩ्ऱुम्,  
-
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-“तस्माद्विष्णु-प्रसादाय  
-वैष्णवान् परितोषयेत् ।  
-प्रसाद-सुमुखो विष्णुस्  
-तेनैव स्यान्न संशयः”  
-(इतिहाससमुच्चयः 27-27.) ऎऩ्ऱुम्,
+> “तस्माद् विष्णु-**प्रसादाय**  
+वैष्णवान् **परितोषयेत्** ।  
+प्रसाद-**सुमुखो** विष्णुस्  
+तेनैव स्यान् न संशयः” +++(4)+++  
+(इतिहाससमुच्चयः 27-27.) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “तस्माद् विष्णु-**प्रसादाय**  
+वैष्णवान् **परितोषयेत्** ।  
+प्रसाद-**सुमुखो** विष्णुस्  
+तेनैव स्यान् न संशयः” +++(4)+++  
+(इतिहाससमुच्चयः 27-27.) 
+
+इति
+</details>
+
+<details><summary>विषयः</summary>
+
+भागवतः, भागवतापचारः, जातिः, भक्तिः
 </details>
 
 <details><summary>English</summary>
 
-"Therefore one should do what one can to please the devotees of Bhagavān. By this, Bhagavān becomes favourably disposed to bless one. There is no doubt about this." 
+> "Therefore one should do what one can  
+> to please the devotees of Bhagavān.  
+> By this, Bhagavān becomes favourably disposed to bless one.  
+> There is no doubt about this." 
+
+</details>
+
+<details><summary>Español</summary>
+
+> "Por lo tanto, uno **debe hacer** lo que se **pueda**  
+> Para **complacer** a los devotos de Bhagavān.  
+> Por esto, Bhagavān se **vuelve favorablemente dispuesto** a **bendecir** uno.  
+> **No hay** duda sobre esto ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+“तस्माद्विष्णुप्रसादाय वैष्णवान् परितोषयेत् । प्रसादसुमुखोविष्णुस्तेनैव स्यान्न संशयः”(इतिहाससमुच्चयः 27-27.) ऎऩ्ऱुम्,
+</details>
+
+### शठकोप-वचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+"पयिलुञ्+++(=अभ्यस्यमानं)+++ चुडर् ऒळि+++(=तेजः)+++",  
+"नॆडु+++(=महा)+++-माऱ्क्+++(ल्=मोहवत्)+++ अडिमै"गळिलुम् विशेषित्तप् पडिये+++(=प्रकारेण)+++ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> “24वर्धमानप्रभं तेजः”  
+> “महा--व्यामोहवति दास्यम् " 
+
+इति (दशकद्वय)-विशेषितरीत्या 
+</details>
+
+<details><summary>English</summary>
+
+So also has it been said (by the Alwar)  
+
+that those who are the devoted servants of the Lord  
+are his masters in all his future births  
+
+and that the moment he made up his mind  
+to render service to the Lord's devotees,  
+his past karma was destroyed  
+and that he would never think of giving up this service. 
+</details>
+
+<details><summary>Español</summary>
+
+Así también **se ha dicho** (por el Alwar)
+
+que los que **son** los siervos devotos del Señor  
+**son** sus amos en todos sus futuros nacimientos
+
+y que en el momento en que **se decidió**  
+**prender el servicio** a los devotos del Señor,  
+Su Karma pasado **fue destruido**  
+y que nunca **pensaría en renunciar** a este servicio.
+</details>
+
+
+
+<details><summary>मूलम्</summary>
+
+पयिलुञ्जुडरॊळि, नॆडुमाऱ्‌ कडिमैगळिलुम् विशेषित्तप्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रतिपत्तियिल् कुऱैय् अऱ्ऱ् इरुक्कवुम्,  
 </details>
 
 <details><summary>मूलम्</summary>
 
-“तस्माद्विष्णुप्रसादाय वैष्णवान् परितोषयेत् । प्रसादसुमुखो विष्णुस्तेनैव स्यान्न संशयः”(इतिहाससमुच्चयः 27-27.) ऎऩ्ऱुम्,
+प्रतिपत्तियिल् कुऱैय् अऱ्ऱ् इरुक्कवुम्,  
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पयिलुञ्+++(=अभ्यस्त-वाक्)+++ जुडर् ऒळि,  
-नॆडुमाऱ्+++(=विष्णोः)+++ कडिमैगळिलुम्+++(=अल्पेष्व् अपि)+++ विशेषित्तप् पडिये+++(=प्रकारेण)+++ प्रतिपत्तियिल् कुऱैय् अऱ्ऱ् इरुक्कवुम्,  
 इप् प्रपत्ति-मात्रत्तालुम्  
 “तस्येदम् इति धी-हेतुर् अप्य् उपकारी”()  
 ऎऩ्गिऱप् पडिये+++(=प्रकारेण)+++ परिपूर्ण-विषयत्तिल्  
 शेषत्वाचित-किञ्चित्-कारम् आऩ कैङ्कर्यम् सिद्धम् ऎऩ्ऱ् इरुक्कवुम्. 
 </details>
 
-<details><summary>राजगोपालः (En)</summary>
-
-So also has it been said (by the Alwar) that those who are the devoted servants of the Lord are his masters in all his future births and that the moment he made up his mind to render service to the Lord's devotees, his past karma was destroyed and that he would never think of giving up this service. 
-</details>
 
 <details><summary>मूलम्</summary>
 
-पयिलुञ्जुडरॊळि, नॆडुमाऱ्‌ कडिमैगळिलुम् विशेषित्तप्पडिये प्रतिपत्तियिल् कुऱैयऱ्ऱिरुक्कवुम्, इप्प्रपत्तिमात्रत्तालुम् “तस्येदमिति धीहेतुरप्युपकारी”() ऎऩ्गिऱप्पडिये परिपूर्णविषयत्तिल् शेषत्वाचितकिञ्चित्कारमान कैङ्कर्यम् सिद्धमॆऩ्ऱिरुक्कवुम्. 
+इप्प्रपत्तिमात्रत्तालुम् “तस्येदमिति धीहेतुरप्युपकारी”() ऎऩ्गिऱप्पडिये परिपूर्णविषयत्तिल् शेषत्वाचितकिञ्चित्कारमान कैङ्कर्यम् सिद्धमॆऩ्ऱिरुक्कवुम्. 
 </details>
+
+
 
 In the same way it is our duty not to fail in reverence towards the Lord's servants. Even if there is only this mental reverence, it would amount to the śeṣa's service to the Lord who is perfect and self-sufficient. The thought that " This man is of the Lord” is itself capable of doing good. If there is any deviation from this path, one should tremble in fear as if one has entered into the jaws of Death, as it has been said: Whatever is crooked (in conduct) leads to death ( saṁsāra): whatever is straight leads to the attainment of Brahman". (When there has been such deviation from right conduct) one should at once beg pardon of these devoted servants of the Lord as exemplified in the following: " Since  you have offended, I see no other atonement for you than to be Lakṣmaṇa's pardon, with folded hands", and again "If I have offended you in any way, either on account of overconfidence or love, this fault of your servant should be pardoned by you: There is no one who is above committing an offence", and further, "The harsh words that I uttered to you after hearing the speech of Rāma who is overwhelmed with grief - these words should be forgiven by you". We should reflect on the manner in which Sugrīva, the great king, and Lakṣmaṇa apologise to each other in these śloka s and we should get reconciled to the devotees of the Lord (whom we have offended), as if the split that occurred has been glued up without any trace of its being seen.
 
