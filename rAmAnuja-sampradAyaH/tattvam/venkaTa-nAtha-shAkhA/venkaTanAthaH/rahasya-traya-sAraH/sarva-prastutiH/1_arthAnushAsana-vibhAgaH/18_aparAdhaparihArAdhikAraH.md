@@ -3644,6 +3644,25 @@ y que nunca **pensaría en renunciar** a este servicio.
 प्रतिपत्तियिल् कुऱैय् अऱ्ऱ् इरुक्कवुम्,  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रतिपत्तौ न्यूनता-राहित्येन वर्तनम्, 
+</details>
+
+<details><summary>English</summary>
+
+In the same way it is our duty  
+not to fail in reverence towards the Lord's servants.  
+
+</details>
+
+<details><summary>Español</summary>
+
+De la misma manera  
+**es** nuestro **deber**  
+**No fallar en reverencia** hacia los siervos del Señor.
+</details>
+
 <details><summary>मूलम्</summary>
 
 प्रतिपत्तियिल् कुऱैय् अऱ्ऱ् इरुक्कवुम्,  
@@ -3653,21 +3672,80 @@ y que nunca **pensaría en renunciar** a este servicio.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इप् प्रपत्ति-मात्रत्तालुम्  
-“तस्येदम् इति धी-हेतुर् अप्य् उपकारी”()  
-ऎऩ्गिऱप् पडिये+++(=प्रकारेण)+++ परिपूर्ण-विषयत्तिल्  
-शेषत्वाचित-किञ्चित्-कारम् आऩ कैङ्कर्यम् सिद्धम् ऎऩ्ऱ् इरुक्कवुम्. 
+इप् प्रतिपत्ति-मात्रत्तालुम्  
+
+> “तस्येदम् इति धी-हेतुर् अप्य् उपकारी”()  
+
+ऎऩ्गिऱप् पडिये+++(=प्रकारेण)+++ +++(5)+++
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतत्-प्रतिपत्ति-मात्रेणापि  
+"तस्येदमिति धी-हेतुर् अप्य् उपकारी” 
+
+इत्य्-उक्त-रीत्या +++(5)+++
+</details>
+
+
+<details><summary>English</summary>
+
+Even if there is only this mental reverence,  
+The thought that " This man is of the Lord”  
+
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si solo **hay** esta reverencia mental,  
+El pensamiento de que "este hombre **es** del Señor"
 </details>
 
 
 <details><summary>मूलम्</summary>
 
-इप्प्रपत्तिमात्रत्तालुम् “तस्येदमिति धीहेतुरप्युपकारी”() ऎऩ्गिऱप्पडिये परिपूर्णविषयत्तिल् शेषत्वाचितकिञ्चित्कारमान कैङ्कर्यम् सिद्धमॆऩ्ऱिरुक्कवुम्. 
+इप्प्रपतित्तिमात्रत्तालुम् “तस्येदमिति धीहेतुरप्युपकारी”() ऎऩ्गिऱप्पडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+परिपूर्ण-+++(ब्रह्म-)+++विषयत्तिल्  
+शेषत्वाचित-किञ्चित्-कारम् आऩ कैङ्कर्यम् सिद्धम्  
+ऎऩ्ऱ् इरुक्कवुम्. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+परिपर्ण-+++(ब्रह्म-)+++विषये  
+शेषत्वोचित-किञ्चित्-कार-भूतं कैङ्कर्यं सिद्धम्  
+इति स्थितिः, 
+</details>
+
+
+<details><summary>English</summary>
+
+is itself capable of doing good -  
+it would amount to the śeṣa's service to the Lord  
+who is perfect and self-sufficient. 
+
+</details>
+
+<details><summary>Español</summary>
+
+es capaz de hacer el bien -  
+**equivaldría** al servicio de Śeṣa al Señor  
+quien es perfecto y autosuficiente.
+</details>
+
+<details><summary>मूलम्</summary>
+
+परिपूर्णविषयत्तिल् शेषत्वाचितकिञ्चित्कारमान कैङ्कर्यम् सिद्धमॆऩ्ऱिरुक्कवुम्. 
 </details>
 
 
 
-In the same way it is our duty not to fail in reverence towards the Lord's servants. Even if there is only this mental reverence, it would amount to the śeṣa's service to the Lord who is perfect and self-sufficient. The thought that " This man is of the Lord” is itself capable of doing good. If there is any deviation from this path, one should tremble in fear as if one has entered into the jaws of Death, as it has been said: Whatever is crooked (in conduct) leads to death ( saṁsāra): whatever is straight leads to the attainment of Brahman". (When there has been such deviation from right conduct) one should at once beg pardon of these devoted servants of the Lord as exemplified in the following: " Since  you have offended, I see no other atonement for you than to be Lakṣmaṇa's pardon, with folded hands", and again "If I have offended you in any way, either on account of overconfidence or love, this fault of your servant should be pardoned by you: There is no one who is above committing an offence", and further, "The harsh words that I uttered to you after hearing the speech of Rāma who is overwhelmed with grief - these words should be forgiven by you". We should reflect on the manner in which Sugrīva, the great king, and Lakṣmaṇa apologise to each other in these śloka s and we should get reconciled to the devotees of the Lord (whom we have offended), as if the split that occurred has been glued up without any trace of its being seen.
+If there is any deviation from this path, one should tremble in fear as if one has entered into the jaws of Death, as it has been said: Whatever is crooked (in conduct) leads to death ( saṁsāra): whatever is straight leads to the attainment of Brahman". (When there has been such deviation from right conduct) one should at once beg pardon of these devoted servants of the Lord as exemplified in the following: " Since  you have offended, I see no other atonement for you than to be Lakṣmaṇa's pardon, with folded hands", and again "If I have offended you in any way, either on account of overconfidence or love, this fault of your servant should be pardoned by you: There is no one who is above committing an offence", and further, "The harsh words that I uttered to you after hearing the speech of Rāma who is overwhelmed with grief - these words should be forgiven by you". We should reflect on the manner in which Sugrīva, the great king, and Lakṣmaṇa apologise to each other in these śloka s and we should get reconciled to the devotees of the Lord (whom we have offended), as if the split that occurred has been glued up without any trace of its being seen.
 
 Even if one who knows the tattva has deliberately entered on a course of conduct unfavourable (to the Lord), the Supreme Ruler will pardon him, if he performs prapatti subsequently. This may be seen from the following episode :- When Brahma saw Rudra in Badarikāśrama aiming his arrow at Bhagavān who had incarnated as the son of Dharma, he explained matters to Rudra and stopped him from the fight. Rudra  then apologised to Nārāyaṇa  who was his Lord to win His favour. He also performed prapatti to Hari, the Creator of the World, The Supreme Ruler, the giver of boons, became gracious, controlled His anger, became pleased and associated there with Rudra".
 
