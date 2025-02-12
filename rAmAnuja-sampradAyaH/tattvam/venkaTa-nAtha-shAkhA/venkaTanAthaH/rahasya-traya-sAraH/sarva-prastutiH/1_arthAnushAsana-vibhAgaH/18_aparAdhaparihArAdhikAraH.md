@@ -3743,9 +3743,293 @@ quien es perfecto y autosuficiente.
 परिपूर्णविषयत्तिल् शेषत्वाचितकिञ्चित्कारमान कैङ्कर्यम् सिद्धमॆऩ्ऱिरुक्कवुम्. 
 </details>
 
+### अपचारे गाम्भीर्यम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इन्-निलैगळिल् ऒऩ्ऱु कोणिऩ+++(=वक्रीभाव)+++ बोदु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१४९]] 
+
+आसु स्थितिषु  
+एकस्या अपि वक्रीभावे  
+</details>
 
 
-If there is any deviation from this path, one should tremble in fear as if one has entered into the jaws of Death, as it has been said: Whatever is crooked (in conduct) leads to death ( saṁsāra): whatever is straight leads to the attainment of Brahman". (When there has been such deviation from right conduct) one should at once beg pardon of these devoted servants of the Lord as exemplified in the following: " Since  you have offended, I see no other atonement for you than to be Lakṣmaṇa's pardon, with folded hands", and again "If I have offended you in any way, either on account of overconfidence or love, this fault of your servant should be pardoned by you: There is no one who is above committing an offence", and further, "The harsh words that I uttered to you after hearing the speech of Rāma who is overwhelmed with grief - these words should be forgiven by you". We should reflect on the manner in which Sugrīva, the great king, and Lakṣmaṇa apologise to each other in these śloka s and we should get reconciled to the devotees of the Lord (whom we have offended), as if the split that occurred has been glued up without any trace of its being seen.
+
+<details><summary>English</summary>
+
+If there is any deviation from this path,  
+</details>
+
+<details><summary>Español</summary>
+
+**Si hay** alguna **desviación** de este camino,
+</details>
+
+<details><summary>मूलम्</summary>
+
+इन्निलैगळिलॊऩ्ऱु कोणिऩबोदु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘सर्वं जिह्मं मृत्यु-पदम्  
+> आर्जवं ब्रह्मणः पदं’’  +++(5)+++
+> (भारतम् शान्ति-पर्व ७९-२२।) 
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘सर्वं जिह्मं मृत्यु-पदम्  
+> आर्जवं ब्रह्मणः पदं’’  +++(5)+++
+> (भारतम् शान्ति-पर्व ७९-२२।) 
+
+इत्य्-उक्त-रीत्या
+</details>
+
+<details><summary>English</summary>
+
+as it has been said:  
+
+> Whatever is crooked (in conduct) leads to death ( saṁsāra),  
+> whatever is straight leads to the attainment of Brahman".  
+
+</details>
+
+<details><summary>Español</summary>
+
+Como se ha dicho:
+
+> Lo que **sea torcido** (en conducta) conduce a la muerte (saṁsāra),  
+> Lo que **sea recto lleva al logro** de Brahman ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘सर्वं जिह्मं मृत्युपदमार्जवं ब्रह्मणः पदं’’(भारतम् शान्ति-पर्व ७९-२२।) ऎऩ्गिऱ बडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मृत्युविऩ् कडै+++(=अन्त→दंष्ट्र)+++-वायिलेय् **अगप्-पट्टाऱ्** पोले नडुङ्गि, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मृत्यु-मुखं प्रविष्टेनेव भीतेन 
+</details>
+
+<details><summary>English</summary>
+
+one should tremble in fear as if one has entered into the jaws of Death.
+</details>
+
+<details><summary>Español</summary>
+
+Uno debería **temblar** de miedo  
+como si uno hubiera **entrado** en las mandíbulas de la muerte.
+</details>
+
+<details><summary>मूलम्</summary>
+
+मृत्युविऩ् कडैवायिलेयगप्पट्टाऱ्पोले नडुङ्गि, 
+</details>
+
+### क्षमा-याचनम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **कृतापराधस्य** हि ते  
+नान्यत् **पश्याम्य्** अहं क्षमं ।  
+अन्तरेणाञ्जिलिं **बद्ध्वा**  
+लक्ष्मणस्य **प्रसादनात्**॥  
+(रामायणम् किष्किन्दाकाण्डम् ३२-११।) 
+
+ऎऩ्ऱुम्,
+</details>
+
+<details><summary>विषयः</summary>
+
+क्षमा-याचनम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **कृतापराधस्य** हि ते  
+नान्यत् **पश्याम्य्** अहं क्षमं ।  
+अन्तरेणाञ्जिलिं **बद्ध्वा**  
+लक्ष्मणस्य **प्रसादनात्**॥  
+(रामायणम् किष्किन्दाकाण्डम् ३२-११।) 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+as exemplified in the following: 
+
+> " Since  you have offended,  
+> I see no other atonement for you  
+> than to beg Lakṣmaṇa's pardon,  
+> with folded hands", 
+
+</details>
+
+<details><summary>Español</summary>
+
+Como **se ejemplificó** en lo siguiente:
+
+> "Desde que te **has ofendido**,  
+> **No veo** otra expiación para ti  
+> que suplicar el perdón de Lakṣmaṇa,
+> con manos dobladas ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘कृतापराधस्य हि ते नान्यत्पश्याम्यहं क्षमं ।  
+अन्तरेणाञ्जिलिं बद्ध्वा लक्ष्मणस्य प्रसादनात्’’ 
+(रामायणम् किष्किन्दाकाण्डम् ३२-११।) ऎऩ्ऱुम्,
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यदि किञ्चिद् **अतिक्रान्तं**  
+विश्वासात् प्रणयेन वा ।  
+प्रेष्यस्य **क्षमितव्यं** मे  
+नकश्चिन् नापराध्यति’’ +++(5)+++  
+(रामायणम् किष्किन्दाकाण्डम् ३६-११।) 
+
+ऎऩ्ऱुम्,  
+</details>
+
+<details><summary>विषयः</summary>
+
+क्षमा-याचनम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘यदि किञ्चिद् **अतिक्रान्तं**  
+विश्वासात् प्रणयेन वा ।  
+प्रेष्यस्य **क्षमितव्यं** मे  
+नकश्चिन् नापराध्यति’’ +++(5)+++  
+(रामायणम् किष्किन्दाकाण्डम् ३६-११।) 
+
+इति
+</details>
+
+
+<details><summary>English</summary>
+
+and again 
+
+> "If I have offended you in any way,  
+> either on account of overconfidence or love,  
+> this fault of your servant should be pardoned by you:  
+> There is no one who is above committing an offence", 
+</details>
+
+<details><summary>Español</summary>
+
+y de nuevo
+
+> "Si te **he ofendido** de alguna manera,  
+> ya **sea** por exceso de confianza o amor,  
+> Esta falla de su sirviente **debe ser perdonada** por usted:  
+> **No hay nadie** que esté **arriba cometiendo** un delito ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यदि किञ्चिदतिक्रान्तं विश्वासात् प्रणयेन वा ।  
+प्रेष्यस्य क्षमितव्यं मे नकश्चिन्नापराध्यति’’  
+(रामायणम् किष्किन्दाकाण्डम् ३६-११।) ऎऩ्ऱुम्,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यच् च शोकाभिभूतस्य  
+**श्रुत्वा** रामस्य भाषितं ।  
+मया त्वं परुषाण्य् **उक्तस्**  
+तच् च त्वं **क्षन्तुम् अर्हसि॥** +++(4)+++  
+(रामायणम् किष्किन्दाकाण्डम् ३६-२८।)  
+
+ऎऩ्ऱुम् 
+</details>
+
+<details><summary>विषयः</summary>
+
+क्षमा-याचनम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> यच् च शोकाभिभूतस्य  
+**श्रुत्वा** रामस्य भाषितं ।  
+मया त्वं परुषाण्य् **उक्तस्**  
+तच् च त्वं **क्षन्तुम् अर्हसि॥** +++(4)+++  
+(रामायणम् किष्किन्दाकाण्डम् ३६-२८।)  
+
+इति
+</details>
+
+<details><summary>English</summary>
+
+and further, 
+
+> "The harsh words that I uttered to you  
+> after hearing the speech of Rāma  
+> who is overwhelmed with grief -  
+> these words should be forgiven by you". 
+</details>
+
+<details><summary>Español</summary>
+
+y además,
+
+> "Las duras palabras que te **pronuncié**  
+> Después de **escuchar** el discurso de Rāma  
+> quién está **abrumado** por el dolor  
+> Estas palabras **deben ser perdonadas** por usted ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यच्च शोकाभिभूतस्य श्रुत्वा रामस्य भाषितं ।  
+मया त्वं परुषाण्युक्तस्तच्च त्वं क्षन्तुमर्हसि’’  
+(रामायणम् किष्किन्दाकाण्डम् ३६-२८।)  
+ऎऩ्ऱुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+महा-राजर्-उडैयवुम् इळैय-बॆरुमाळ्-उडैयवुम्  
+अन्योन्य-प्रसादन-प्रकारञ् जॊल्लुगिऱ श्लोकङ्गळैप् परामर्शित्तु
+</details>
+
+<details><summary>मूलम्</summary>
+
+महाराजरुडैयवुमिळैयबॆरुमाळुडैयवुम् अन्योन्यप्रसादनप्रकारञ्जॊल्लुगिऱ श्लोकङ्गळैप् परामर्शित्तु
+</details>
+
+
+(When there has been such deviation from right conduct) one should at once beg pardon of these devoted servants of the Lord 
+
+
+
+We should reflect on the manner in which Sugrīva, the great king, and Lakṣmaṇa apologise to each other in these śloka s and we should get reconciled to the devotees of the Lord (whom we have offended), as if the split that occurred has been glued up without any trace of its being seen.
 
 Even if one who knows the tattva has deliberately entered on a course of conduct unfavourable (to the Lord), the Supreme Ruler will pardon him, if he performs prapatti subsequently. This may be seen from the following episode :- When Brahma saw Rudra in Badarikāśrama aiming his arrow at Bhagavān who had incarnated as the son of Dharma, he explained matters to Rudra and stopped him from the fight. Rudra  then apologised to Nārāyaṇa  who was his Lord to win His favour. He also performed prapatti to Hari, the Creator of the World, The Supreme Ruler, the giver of boons, became gracious, controlled His anger, became pleased and associated there with Rudra".
 
