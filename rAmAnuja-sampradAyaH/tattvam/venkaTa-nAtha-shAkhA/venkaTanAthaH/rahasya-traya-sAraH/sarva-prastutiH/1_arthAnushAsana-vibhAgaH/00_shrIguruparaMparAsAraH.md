@@ -33,7 +33,7 @@ A BRIEF ACCOUNT OF THE SUCCESSION OF ĀCĀRYAS
 Una breve descripción de la sucesión de ācāryas
 </details>
 
-<div class="js_include" includetitle="false" newlevelforh1="5" url="/bhAShAntaram/tamiL/padyam/shrIvaiShNava/taniyan/venkaTa-nAtha/sIr-oNDru.md"> </div>
+<div class="js_include" includetitle="false" newlevelforh1="5" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/venkaTanAthaH/sIr-oNDru.md"> </div>
 <div class="js_include" includetitle="false" newlevelforh1="5" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/gurubhyas_tad-gurubhyaH.md">
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
