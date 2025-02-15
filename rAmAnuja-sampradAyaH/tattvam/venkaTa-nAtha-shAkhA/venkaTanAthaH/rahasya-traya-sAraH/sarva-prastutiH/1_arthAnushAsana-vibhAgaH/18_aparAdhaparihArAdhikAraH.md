@@ -3842,6 +3842,19 @@ como si uno hubiera **entrado** en las mandíbulas de la muerte.
 </details>
 
 ### क्षमा-याचनम्
+<details><summary>English</summary>
+
+(When there has been such deviation from right conduct)  
+one should at once beg pardon of these devoted servants of the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+(Cuando **ha habido** tal **desviación** de la conducta correcta)  
+Uno **debe rogar perdón** de estos devotos siervos del Señor.
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > **कृतापराधस्य** हि ते  
@@ -4019,19 +4032,213 @@ y además,
 अन्योन्य-प्रसादन-प्रकारञ् जॊल्लुगिऱ श्लोकङ्गळैप् परामर्शित्तु
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+महाराजस्य बाल-स्वामिनश् च (लक्ष्मणस्य च ) अन्योन्य-प्रसादन-प्रकारं प्रतिपादयतः श्लोकान् परामृश्य, 
+</details>
+
+
+<details><summary>English</summary>
+
+We should reflect on the manner in which  
+Sugrīva, the great king, and Lakṣmaṇa apologise to each other  in these ślokas 
+</details>
+
+<details><summary>Español</summary>
+
+Debemos reflexionar sobre la manera en que  
+Sugrīva, el gran rey y lakṣmaṇa **se disculpan** entre sí  
+en estos Ślokas
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 महाराजरुडैयवुमिळैयबॆरुमाळुडैयवुम् अन्योन्यप्रसादनप्रकारञ्जॊल्लुगिऱ श्लोकङ्गळैप् परामर्शित्तु
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(When there has been such deviation from right conduct) one should at once beg pardon of these devoted servants of the Lord 
+अप्-पडियेय् +++(कर्तित=)+++ईर्त्त-वाय् तॆरियामल्  
+वज्र-लेप-घटितम् आऩाऱ् पोले  
+**पॊरुन्दिप्+++(=संयुज्य)+++ पोरवुम् प्राप्तम्**। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+सस्नेहं विदीर्ण-प्रदेशो यथा न ज्ञायेत  
+तथा वज्र-लेप-घटितवत् वर्तनञ् चेतीमानि युक्तानि । 
+</details>
+
+
+<details><summary>English</summary>
+
+and we should get reconciled to the devotees of the Lord  
+(whom we have offended),  
+as if the split that occurred  
+has been glued up without any trace of its being seen.
+
+</details>
+
+<details><summary>Español</summary>
+
+y **debemos reconciliarnos** con los devotos del Señor  
+(a quien **hemos ofendido**),  
+Como si la división que **ocurriera**  
+**ha sido pegado** sin ningún rastro de su vista.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अप्पडिये यीर्त्तवाय् तॆरियामल् वज्रलेपघटितमाऩाऱ्पोले पॊरुन्दिप्पोरवुम् प्राप्तम्। 
+</details>
+
+## क्षमा-सौलभ्यम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **ज्ञानवाऩ् आऩवऩ्**  
+प्रातिकूल्यत्तिले बुद्धि-पूर्वकम् आग **प्रवृत्तऩ् आऩालुम्**  
+पुनः-प्रपत्तियाले सर्वेश्वरऩ् **क्षमिक्कुम्**  
+
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> स्याद् अयं **ज्ञानी सन्**  
+प्रातिकूल्ये बुद्धि-पूर्वं **प्रवृत्तः**,  
+तथापि पुनः-प्रपत्त्या सर्वेश्वरः क्षाम्येद् 
+
+इत्य् अयम् अर्थः --  
+</details>
+
+<details><summary>English</summary>
+
+Even if one who knows the tattva  
+has deliberately entered on a course of conduct unfavourable (to the Lord),  
+the Supreme Ruler will pardon him,  
+if he performs prapatti subsequently.  
+This may be seen from the following episode :- 
+
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si alguien que **conoce** el tattva  
+**ha entrado deliberadamente** en un curso de conducta desfavorable (para el Señor),  
+el gobernante supremo lo **perdonará**,  
+Si **realiza** Prapatti posteriormente.  
+Esto **se puede ver** en el siguiente episodio:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ज्ञानवाऩाऩवऩ् प्रातिकूल्यत्तिले बुद्धिपूर्वकमाग प्रवृत्तऩाऩालुम् पुनःप्रपत्तियाले सर्वेश्वरऩ् क्षमिक्कुमॆऩ्ऩुमिडम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्री-बदरिकाश्रमत्तिले **क्रोधान्धऩ् आय्**  
+धर्मात्मजऩ् आऩ भगवाऩोडेय् **ऎदिरम् पुग् ओत्त**+++(=उद्यत)+++ रुद्रऩै  
+ब्रह्मा **तॆळिवित्तु, विलक्क**,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+श्री-बदरिकाश्रमे **क्रोधान्धं**  
+धर्मात्मज-भगवद्-विषये प्रत्यस्त्र-**योक्तारं** रुद्रं  
+ब्रह्मणि **प्रतिबोध्य निवारितवति**,  
+</details>
+
+
+<details><summary>English</summary>
+
+When Brahma saw Rudra in Badarikāśrama aiming his arrow at Bhagavān  
+who had incarnated as the son of Dharma,  
+he explained matters to Rudra  
+and stopped him from the fight. 
+</details>
+
+<details><summary>Español</summary>
+
+Cuando Brahma **vio** a Rudra en Badarikāśrama  
+**apuntando** su flecha en Bhagavān  
+que **había encarnado** como hijo del dharma,  
+le **explicó** asuntos a Rudra  
+y **lo detuvo** de la pelea.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीबदरिकाश्रमत्तिले क्रोधान्धऩाय् धर्मात्मजऩाऩ भगवाऩोडे यॆदिरम्बुगोत्त रुद्रऩै ब्रह्मा तॆळिवित्तु विलक्क,  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अवऩुम् 
+
+> **प्रसादयाम् आस** भवो  
+> देवं नारायणं प्रभुं ।  
+> शरणञ् च **जगामाद्यं**  
+> वरेण्यं वरदं हरिं॥  
+> (भारतम् शान्ति-पर्व ३५२-६४।) 
+
+ऎऩ्गिऱ बडिये
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तस्मिंश्च 
+
+> **प्रसादयाम् आस** भवो  
+> देवं नारायणं प्रभुं ।  
+> शरणञ् च **जगामाद्यं**  
+> वरेण्यं वरदं हरिं॥  
+> (भारतम् शान्ति-पर्व ३५२-६४।) 
+
+इति 
+</details>
+
+
+<details><summary>English</summary>
+
+Rudra  then apologised to Nārāyaṇa  
+who was his Lord to win His favour.  
+He also performed prapatti to Hari,  
+the Creator of the World,  
+the Supreme Ruler,  
+the giver of boons,  
+</details>
+
+<details><summary>Español</summary>
+
+Rudra  then apologised to Nārāyaṇa  
+who was his Lord to win His favour.  
+He also performed prapatti to Hari,  
+the Creator of the World,  
+the Supreme Ruler,  
+the giver of boons,  
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अवऩुम् ‘‘ प्रसादयामास भवो देवं नारायणं प्रभुं । शरणञ्च जगामाद्यं वरेण्यं वरदं हरिं’’(भारतम् शान्ति-पर्व ३५२-६४।) ऎऩ्गिऱबडिये
+</details>
 
 
 
-We should reflect on the manner in which Sugrīva, the great king, and Lakṣmaṇa apologise to each other in these śloka s and we should get reconciled to the devotees of the Lord (whom we have offended), as if the split that occurred has been glued up without any trace of its being seen.
 
-Even if one who knows the tattva has deliberately entered on a course of conduct unfavourable (to the Lord), the Supreme Ruler will pardon him, if he performs prapatti subsequently. This may be seen from the following episode :- When Brahma saw Rudra in Badarikāśrama aiming his arrow at Bhagavān who had incarnated as the son of Dharma, he explained matters to Rudra and stopped him from the fight. Rudra  then apologised to Nārāyaṇa  who was his Lord to win His favour. He also performed prapatti to Hari, the Creator of the World, The Supreme Ruler, the giver of boons, became gracious, controlled His anger, became pleased and associated there with Rudra".
+
+(The giver of boons) became gracious,  
+controlled His anger,  
+became pleased  
+and associated there with Rudra".
 
 Whether a man has offended Bhāgavatas (in this life) or whether some Bhāgavatas hate him owing to his wicked deeds in past lives though he has committed no offence in this life, he should obtain the pardon of Bhagavān by obtaining the pardon of such Bhāgavatas by some means or other : This is evident in the passage which describes the characteristics of a ŚrīVaiṣṇava : "He is a devotee of Viṣṇu who, on hearing harsh words uttered by a Bhāgavata, prostrates before him and begs his pardon." If a man does not do so, he will pass beyond the reach of the grace of the Lord and will lose also what is essential to his nature as a Viṣṇu bhakta, namely, his being a śeṣa to Bhāgavatas and, likewise, his qualities of self-restraint and patience; for it has been said :-“Those who are Brahmins (Bhāgavatas absorbed in the contemplations of Brahman) they are myself. There is no doubt about this O, King; when they are adored, I am adored; when they are pleased, I am also pleased. He who hates them hates me also." "Though the Brahmana strikes him, curses him and utters cruel words to him, he who does not bow to him as I did (to Bhrigu) - he is a sinner. He will be consumed by the wild fire of the Brahmin's anger. He deserves to be killed and punished. He is not mine." To lose these (his being a śeṣa to Bhāgavatas and his self-restraint and patience) is itself, in his case, being killed and punished. Thondaradippodi Alwar [ That is why he calls himself Tondaradippodi, The Dust at the Feet of the Devotecś.] , who realised and enjoyed his relationship of being a śeṣa to Bhāgavatas, which he considered as his distinctive feature, has described how miserable it is to be outside the pale of the Lord's grace as follows:- "My Lord has not said: “ This is a lad deserving of my affection". How wicked are my sins!"
 
