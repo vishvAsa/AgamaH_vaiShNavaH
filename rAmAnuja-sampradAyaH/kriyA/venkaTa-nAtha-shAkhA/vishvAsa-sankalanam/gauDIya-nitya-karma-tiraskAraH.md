@@ -179,7 +179,13 @@ Meaning - even the lokasangraha compulsion is directed at influential people onl
 > **अश्रद्धया ऽपि** पित्रादि-**श्राद्धं** कुर्वतां महानुभावानां  
 > शुद्ध-भक्तौ नाव्याप्तिः।
 
+#### सनातन-गोस्वामी
+> सदाचारं विना पापेन चित्ते मलिने सति भक्तौ प्रवृत्तिरपि न स्याद् ।  
+(Bṛhad Bhāgavatāmṛta-ṭīkā: 2.3.171)
+>
+> “Without sadācāra, when the mind is contaminated by pāpa, then even inclination for bhakti cannot come about.”
 
+इति साधारणावस्थायां सदाचारः प्रशस्यते। 
 
 ### अर्वाचीनाः
 #### सर्व-कर्म-त्याग-पक्षः
