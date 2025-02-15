@@ -97,18 +97,16 @@ title = "कर्म-भक्ति-ज्ञान-प्रपत्तय�
 
 <details><summary>En (द्रष्टुं नोद्यम्)</summary>
 
-> From my limited understanding,  karma yoga is "self"less service. Unfortunately selfless has been incorrectly translated to indicate acts of service to others. But it simply means action done where the self or the jiva or the individual ego doesn't exist ( meaning the ahamkara completely dissolves) in the action. That's when the dancer becomes the dancing.
+> From my limited understanding,  karma yoga is "self"less service. It simply means action done where the self or the jiva or the individual ego doesn't exist ( meaning the ahamkara completely dissolves) in the action. That's when the dancer becomes the dancing.
 
-This is a common-place misunderstanding which the scholars of the gItA reject based on the words of kRShNa - though they could have used common experience as well - for example, the ninja assassin using the "no mind" would by that metric be a top karma-yogin.
+This is a common-place misunderstanding which the scholars of the gItA reject based on the words of kRShNa - though they could have used common experience as well - for example, the ninja assassin using the "no mind" would by that metric be a top karma-yogin. The scholars criticize common approaches to gItA as reducing it to a subhAShita (proverb) collection; without adequate care to taking it as a coherent whole prabandha.
 
-According to shIvaiShNava analysis of bhagavad-gItA, karma yoga is not just performance of nitya and naimittika karmas without attachment to fruits and doership; though it is part of it. 
+According to shIvaiShNava analysis of bhagavad-gItA, karma yoga is not just performance of nitya and naimittika karmas without attachment to fruits and doership; though it is part of it.  
 Rather, it additionally involves pursuit of dedicated, activities (cleaning a temple and such) in a specific time set aside for this yoga.
 
 kRShNa says, for example, that janaka and co continue to do karma-yoga, though they're eligible for jnAna-yoga, for loka-sangraha; and attain "saMsiddhi". Since jNAna yogins are also not attached to fruits of actions/ primary doership, it follows from this emphasis on "continuing in karma yoga" that it means some specific activity, rather than a general attitude.
 
-The scholars criticize common approaches to gItA as reducing it to a subhAShita (proverb) collection; without adequate care to taking it as a coherent whole prabandha.
-
-karma, jnana and bhakti by themselves don't mean the respective yoga-s (which are specific sAdhana-s). The latter; being circumscribed by clear rules, goals and signs of success; are not merely intense versions of the former.
+karma, jnana and bhakti by themselves don't mean the respective yoga-s (which are specific sAdhana-s) prescribed by the bhagavad-gItA. The latter; being circumscribed by clear rules of eligitiblity, procedures, gradation, goals and signs of success; are not merely intense versions of the former.
 </details>
 
 
