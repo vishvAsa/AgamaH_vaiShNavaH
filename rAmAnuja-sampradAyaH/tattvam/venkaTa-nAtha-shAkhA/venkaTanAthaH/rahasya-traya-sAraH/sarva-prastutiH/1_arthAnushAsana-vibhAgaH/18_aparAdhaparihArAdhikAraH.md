@@ -4094,7 +4094,7 @@ Como si la división que **ocurriera**
 अप्पडिये यीर्त्तवाय् तॆरियामल् वज्रलेपघटितमाऩाऱ्पोले पॊरुन्दिप्पोरवुम् प्राप्तम्। 
 </details>
 
-## क्षमा-सौलभ्यम्
+## भगवत्-क्षमा-सौलभ्यम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -4188,7 +4188,7 @@ y **lo detuvo** de la pelea.
 > वरेण्यं वरदं हरिं॥  
 > (भारतम् शान्ति-पर्व ३५२-६४।) 
 
-ऎऩ्गिऱ बडिये
+ऎऩ्गिऱ बडिये प्रसादनम् आऩ शरणागतियैप् पण्ण, 
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -4201,7 +4201,7 @@ y **lo detuvo** de la pelea.
 > वरेण्यं वरदं हरिं॥  
 > (भारतम् शान्ति-पर्व ३५२-६४।) 
 
-इति 
+इति प्रसादनभूतां शरणागति कृतवति सति, 
 </details>
 
 
@@ -4228,19 +4228,219 @@ the giver of boons,
 
 <details><summary>मूलम्</summary>
 
-अवऩुम् ‘‘ प्रसादयामास भवो देवं नारायणं प्रभुं । शरणञ्च जगामाद्यं वरेण्यं वरदं हरिं’’(भारतम् शान्ति-पर्व ३५२-६४।) ऎऩ्गिऱबडिये
+अवऩुम् ‘‘ प्रसादयामास भवो देवं नारायणं प्रभुं । शरणञ्च जगामाद्यं वरेण्यं वरदं हरिं’’(भारतम् शान्ति-पर्व ३५२-६४।) ऎऩ्गिऱबडिये प्रसादनमाऩ शरणागतियैप्पण्ण, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘ततोऽथ वरदो देवो  
+> जितक्रोधो जितेन्द्रियः ।  
+> प्रीतिमान् अभवत् तत्र  
+> रुद्रेण सह सङ्गतः’’  
+> (भारतम् शान्ति-पर्व ३५२-६५)  
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘ततोऽथ वरदो देवो  
+> जितक्रोधो जितेन्द्रियः ।  
+> प्रीतिमान् अभवत् तत्र  
+> रुद्रेण सह सङ्गतः’’  
+> (भारतम् शान्ति-पर्व ३५२-६५)  
+
+इत्य् अनेन 
+</details>
+
+<details><summary>English</summary>
+
+(The giver of boons) became gracious,  
+controlled His anger,  
+became pleased  
+and associated there with Rudra".
+</details>
+
+<details><summary>Español</summary>
+
+(El dador de bendiciones) **se volvió** amable  
+**controló** su ira,  
+**se complació**  
+y **asociado** allí con Rudra ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘ततोऽथ वरदो देवो जितक्रोधो जितेन्द्रियः । प्रीतिमानभवत्तत्र रुद्रेण सहसङ्गतः’’(भारतम् शान्ति-पर्व ३५२-६५) ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> सर्वेश्वरऩ् प्रसन्नऩ् आय्  
+रुद्रऩै अङ्गी-करित्ताऩ् 
+
+ऎऩ्गैयाले सिद्धम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+"सर्वेश्वरः प्रसन्नो भूत्वा  
+रुद्रम् अङ्गी चकारे"ति प्रतिपादनेन सिद्धः । 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सर्वेश्वरऩ् प्रसन्नऩाय् रुद्रऩै अङ्गीकरित्ताऩॆऩ्गैयाले सिद्धम्। 
+</details>
+
+
+## भागवत-प्रसादनीयत्वम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ताऩ् कुऱ्ऱ वाळऩ् आगवुम् आम्;  
+ताऩ् इप्-पोदु कुऱ्ऱञ् जॆय्यादेय् इरुक्क  
+जन्मान्तर-दुष्कृतत्तालेय् आगवुम् आम्,  
+>
+> सिल भागवतर्  
+तऩ्ऩै **वॆऱुक्किल्**+++(=)+++  
+एद् एऩुम् ऒरु विरगालेय्+++(=)+++ अवर्गळै क्षमै-कॊळ्ळुगिऱ मुखत्ताले  
+ईश्वरऩै क्षमै कॊळ्ळ-वेणुम् 
+
+ऎऩ्ऩुम् इडम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१५०]]  
+
+> स्वस्य सापराधत्वात्,  
+स्वस्येदानीं सापराधत्वाभावेऽपि  
+जन्मान्तर-दुष्-कृताद् वा  
+>
+> केषुचिद् भागवतेषु स्व-विषये कुप्यत्सु सत्सु  
+>
+> येन केनाप्य् उपायेन  
+तेषु क्षमा-याचन-मुखेनैवेश्वरः क्षमा याचनीय  
+
+इत्य् एतत् 
+</details>
+
+
+
+<details><summary>English</summary>
+
+Whether a man has offended Bhāgavatas (in this life)  
+
+or whether some Bhāgavatas hate him  
+owing to his wicked deeds in past lives  
+though he has committed no offence in this life,  
+
+he should obtain the pardon of Bhagavān  
+by obtaining the pardon of such Bhāgavatas by some means or other.  
+</details>
+
+<details><summary>Español</summary>
+
+Si un hombre **ha ofendido** a Bhāgavatas (en esta vida)  
+
+o si algunas bhāgavatas **lo odian**  
+debido a sus malvados **hechos** en vidas pasadas  
+aunque **no ha cometido** ninguna ofensa en esta vida,
+
+**Debería obtener el perdón** de Bhagavān  
+para **obteniendo el perdón** de tales bhāgavatas  
+por algún medio u otro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ताऩ् कुऱ्ऱवाळऩागवुमाम्; ताऩिप्पोदु कुऱ्ऱञ्जॆय्यादे यिरुक्क जन्मान्तरदुष्कृतत्तालेयागवुमाम्  
+सिल भागवतर् तऩ्ऩै वॆऱुक्किल् एदेऩुमॊरु विरगाले यवर्गळै क्षमैकॊळ्ळुगिऱ मुखत्ताले ईश्वरऩै क्षमै कॊळ्ळवेणुमॆऩ्ऩुमिडम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘रूक्षाक्षराणि शृण्वन् वै  
+> तथा भागवतेरितान् ।  
+> प्रणाम-पूर्वकं **क्षान्त्या**  
+> यो **वदेद्** वैष्णवो हि सः’’ +++(5)+++  
+> (लैङ्गपुराणम्।) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘रूक्षाक्षराणि शृण्वन् वै  
+> तथा भागवतेरितान् ।  
+> प्रणाम-पूर्वकं **क्षान्त्या**  
+> यो **वदेद्** वैष्णवो हि सः’’ +++(5)+++  
+> (लैङ्गपुराणम्।) 
+</details>
+
+<details><summary>विषयः</summary>
+
+क्षमा, क्षमा-याचनम्, दोषाङ्गीकारः
+</details>
+
+<details><summary>English</summary>
+
+> "He is a devotee of Viṣṇu  
+> who, on hearing harsh words uttered by a Bhāgavata,  
+> prostrates before him  
+> and begs his pardon." 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Es** un devoto de Viṣṇu
+> Quién, al **escuchar** palabras duras pronunciadas por un bhāgavata,
+> **postrado** ante él
+> y le **pide su perdón** ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘रूक्षाक्षराणि शृण्वन्वै तथा भागवतेरितान् । प्रणामपूर्वकं क्षान्त्या यो वदेद्वैष्णवो हि सः’’(लैङ्गपुराणम्।) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु श्रीवैष्णवलक्षणञ्जॊल्लुगिऱ प्रमाणत्तिले प्रसिद्धम्।
+</details>
+
+<details><summary>English</summary>
+
+This is evident in this ~~the~~ passage which describes the characteristics of a ŚrīVaiṣṇava.
+</details>
+
+<details><summary>Español</summary>
+
+Esto **es evidente**  
+en este ~~ el ~~ pasaje  
+que **describe** las características de un Śrīvaiṣṇava.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु श्रीवैष्णवलक्षणञ्जॊल्लुगिऱ प्रमाणत्तिले प्रसिद्धम्।
 </details>
 
 
 
 
 
-(The giver of boons) became gracious,  
-controlled His anger,  
-became pleased  
-and associated there with Rudra".
 
-Whether a man has offended Bhāgavatas (in this life) or whether some Bhāgavatas hate him owing to his wicked deeds in past lives though he has committed no offence in this life, he should obtain the pardon of Bhagavān by obtaining the pardon of such Bhāgavatas by some means or other : This is evident in the passage which describes the characteristics of a ŚrīVaiṣṇava : "He is a devotee of Viṣṇu who, on hearing harsh words uttered by a Bhāgavata, prostrates before him and begs his pardon." If a man does not do so, he will pass beyond the reach of the grace of the Lord and will lose also what is essential to his nature as a Viṣṇu bhakta, namely, his being a śeṣa to Bhāgavatas and, likewise, his qualities of self-restraint and patience; for it has been said :-“Those who are Brahmins (Bhāgavatas absorbed in the contemplations of Brahman) they are myself. There is no doubt about this O, King; when they are adored, I am adored; when they are pleased, I am also pleased. He who hates them hates me also." "Though the Brahmana strikes him, curses him and utters cruel words to him, he who does not bow to him as I did (to Bhrigu) - he is a sinner. He will be consumed by the wild fire of the Brahmin's anger. He deserves to be killed and punished. He is not mine." To lose these (his being a śeṣa to Bhāgavatas and his self-restraint and patience) is itself, in his case, being killed and punished. Thondaradippodi Alwar [ That is why he calls himself Tondaradippodi, The Dust at the Feet of the Devotecś.] , who realised and enjoyed his relationship of being a śeṣa to Bhāgavatas, which he considered as his distinctive feature, has described how miserable it is to be outside the pale of the Lord's grace as follows:- "My Lord has not said: “ This is a lad deserving of my affection". How wicked are my sins!"
+
+
+If a man does not do so, he will pass beyond the reach of the grace of the Lord and will lose also what is essential to his nature as a Viṣṇu bhakta, namely, his being a śeṣa to Bhāgavatas and, likewise, his qualities of self-restraint and patience; for it has been said :-“Those who are Brahmins (Bhāgavatas absorbed in the contemplations of Brahman) they are myself. There is no doubt about this O, King; when they are adored, I am adored; when they are pleased, I am also pleased. He who hates them hates me also." "Though the Brahmana strikes him, curses him and utters cruel words to him, he who does not bow to him as I did (to Bhrigu) - he is a sinner. He will be consumed by the wild fire of the Brahmin's anger. He deserves to be killed and punished. He is not mine." To lose these (his being a śeṣa to Bhāgavatas and his self-restraint and patience) is itself, in his case, being killed and punished. Thondaradippodi Alwar [ That is why he calls himself Tondaradippodi, The Dust at the Feet of the Devotecś.] , who realised and enjoyed his relationship of being a śeṣa to Bhāgavatas, which he considered as his distinctive feature, has described how miserable it is to be outside the pale of the Lord's grace as follows:- "My Lord has not said: “ This is a lad deserving of my affection". How wicked are my sins!"
 
 The word Brahmin occurring in these ślokas has a special significance, as has been said in the śloka : "He who knows, aright, the truth concerning Bhagavān, who is called Viṣṇu  that measured the world ( with His feet) and is also called Vāsudeva he becomes a Brahmin". Even if it is used in its general sense, since the offence to the Brahmin is condemned, much more worthy of condemnation would be the offence to a Bhāgavata or devotee of Bhagavān.
 
