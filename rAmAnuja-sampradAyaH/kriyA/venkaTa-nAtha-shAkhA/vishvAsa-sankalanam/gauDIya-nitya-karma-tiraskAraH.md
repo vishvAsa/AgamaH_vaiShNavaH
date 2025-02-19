@@ -280,7 +280,7 @@ If in a forest (no lokasangraha),
 should one do nitya-karma? Yes.
 
 
-#### न स्व-धर्मत्यागः प्रशस्तः
+#### न स्व-धर्म-त्यागः प्रशस्तः
 > **त्यक्त्वा** स्व-धर्मं चरणाम्बुजं हरेर्  
 भजन्न् अपक्‍वोऽथ **पतेत्** ततो यदि ।
 यत्र क्‍व वा **ऽभद्रम् अभूद्** अमुष्य किं
@@ -322,6 +322,12 @@ What's pratyavAya of भजन् स्वधर्मत्यक्ता rel
 
 That case would be subsumed under "yathA-shakti"ness of nitya-karmas,  
 and does not contradict the compulsory nature of nitya-karmas.
+
+> अत्यन्त-भक्ति-युक्तानां  
+> नैव शास्त्रं न च क्रमः॥
+
+इति श्लोको ऽसकृद् उद्धृतः श्रीवैष्णवैर् अपि।
+
 
 ### श्रद्धया कार्यत्वम्
 न च कृष्णो "अश्रद्धया युद्ध्यस्वार्जुन" +इति ब्रूते।  
