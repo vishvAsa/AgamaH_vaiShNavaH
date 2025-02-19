@@ -5369,6 +5369,16 @@ que **describe** las características de un Śrīvaiṣṇava.
 (इतिहास-समुच्चयः ३०-१००।)  
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **घ्नन्तं, शपन्तं**, परुषं **वदन्तं**  
+यो ब्राह्मणं **न प्रणमेद्** यथा ऽहम् ।  
+स पाप-कृद् ब्रह्म-दवाग्नि-दग्धो  
+**वध्यश्** च **दण्ड्यश्** च, न चास्मदीयः॥  
+(इतिहास-समुच्चयः ३०-१००।)  
+</details>
+
+
 
 <details><summary>विषयः</summary>
 
@@ -5402,35 +5412,270 @@ que **describe** las características de un Śrīvaiṣṇava.
 स पापकृद्ब्रह्मदवाग्निदग्धो वद्ध्यश्च दण्ड्यश्च न चास्मदीयः’’  (इतिहास-समुच्चयः ३०-१००।)  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+घ्नन्तमित्यादि । घ्नन्तं - अडिक्किऱवऩैयुम्, शपन्तं - शबिक्किऱवऩैयुम्, परुषं वदन्तं – क्रोधवार्त्तैयैच् चॊल्लुगिऱवऩायुमुळ्ळ, ब्राह्मणं – ब्राह्मणऩैक् कुऱित्तु, यः - ऎवऩ्, यथा अहं – सात्विकदेवतापरीक्षार्थमाग वन्दु तऩ् कालाले लक्ष्मीवासस्थानमाऩ वक्षस्थलत्तिले युदैत्तु दुर्भाषणैगळैच् चॊऩ्ऩ भृगुमहर्षियै नाऩ् ऎप्पडि प्रमाणं पण्णिऩेऩो, अप्पडि न प्रणमेत् – प्रणामम् पण्णविल्लैयो, सः - अन्द मूढऩ्, पापकृत् – सर्वपाबत्तैयुम् पण्णिऩवऩ्, ब्रह्मदवाग्निदग्धः – ब्राह्मणऩुडैय कोबमागिऱ काट्टुत्तीयिऩाल् कॊळुत्तप्पट्टवऩ्, तत एव, वद्ध्यः - अवऩ् वधार्हऩागवुम्, दण्ड्यश्च - ऎऩ्ऩुडैय दण्डऩैक्कुविषय मागवुमागिऱाऩ्। न चास्मदीयः – अस्मदभिमतऩुमागाऩ्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऎऩ्गिऱ बडिये  
-भगवद्-अभिमान-बाह्यऩुम् आय्  
+भगवद्-अभिमान-**बाह्यऩुम् आय्**  
+
 वैष्णव-प्रकृतिय् आय् इरुक्किऱ तऩक्कु  
-स्व-रूपम् ऎऩ्ऩलाम् बडि  
-अन्तरङ्गम् आऩ भागवत-शेषत्वत्तैयुम् स्वभावमाय् निऱ्किऱ शमदमादिगळैयुमिऴन्दाऩाम्। 
+स्व-रूपम् ऎऩ्ऩल् आम् बडि अन्तरङ्गम् आऩ भागवत-शेषत्वत्तैयुम् +++(4)+++  
+स्वभावम् आय् निऱ्किऱ शम-दमादिगळैयुम्  
+**इऴन्दाऩ् आम्।** 
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-ऎऩ्गिऱबडिये भगवदभिमानबाह्यऩुमाय् वैष्णवप्रकृतियायिरुक्किऱ तऩक्कु स्वरूपमॆऩ्ऩलाम्बडि अन्तरङ्गमाऩ भागवतशेषत्वत् तैयुम् स्वभावमाय् निऱ्किऱ शमदमादिगळैयुमिऴन्दाऩाम्। 
+इत्य्-उक्त-रीत्या  
+भगवद्-अभिमान-बाह्यः,  
+वैष्णवप्रकृतेः स्वस्य स्वरूपम् इति यथोच्येत  
+तथाऽन्तरङ्ग-भूताद् भागवत-शेषत्वात्,+++(4)+++   
+स्वभावतया स्थिताच् छम-दमादेश् च **हीयेत** । 
 </details>
 
 
+<details><summary>English</summary>
 
 If a man does not do so,  
 he will pass beyond the reach of the grace of the Lord  
 and will lose also what is essential to his nature as a Viṣṇu bhakta,  
 namely, his being a śeṣa to Bhāgavatas  
 and, likewise, his qualities of self-restraint and patience;  
-for it has been said :-
+for ~~it~~ the above has been said.
+</details>
+
+<details><summary>Español</summary>
+
+Si un hombre **no lo hace**,  
+Él **pasará** más allá del alcance de la gracia del Señor  
+y **perderá** también lo que es esencial para su naturaleza como Viṣṇu Bhakta,  
+a saber, su **ser** un Śeṣa a Bhāgavatas  
+y, del mismo modo, sus cualidades de autocontrol y paciencia;  
+porque ~~ ~~ se ha dicho lo anterior.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्गिऱबडिये भगवदभिमानबाह्यऩुमाय् वैष्णवप्रकृतियायिरुक्किऱ तऩक्कु स्वरूपमॆऩ्ऩलाम्बडि अन्तरङ्गमाऩ भागवतशेषत्वत् तैयुम् स्वभावमाय् निऱ्किऱ शमदमादिगळैयुमिऴन्दाऩाम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदिऩ् भावत्तै वॆळियिडुगिऱार् ऎऩ्गिऱबडिये इत्यादिना ।  
+न चास्मदीयः ऎऩ्बदऱ्कु विवरणम् भगवदभिमानबाह्यऩुमायिति ।  
+वद्ध्यत्वदण्ड्यत्वादिगळै विशदीकरिक्किऱार् वैष्णवप्रकृतियायायिरुक्किऱ इत्यादिना ।  
+भागवतशेषत्वत्तैयुमिति । इऴन्दाऩामॆऩ्बदै इङ्गुम् सेर्त्तुक्कॊळ्वदु। इदु वध्यशब्दार्थम्। स्वभावमाय् निऱ्किऱ शमदमादिगळैयुमिऴन्दाऩामिति ।  
+</details>
 
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-To lose these (his being a śeṣa to Bhāgavatas and his self-restraint and patience) is itself, in his case, being killed and punished. Thondaradippodi Alwar [ That is why he calls himself Tondaradippodi, The Dust at the Feet of the Devotecś.] , who realised and enjoyed his relationship of being a śeṣa to Bhāgavatas, which he considered as his distinctive feature, has described how miserable it is to be outside the pale of the Lord's grace as follows:- "My Lord has not said: “ This is a lad deserving of my affection". How wicked are my sins!"
+इवऱ्ऱैय् इऴक्कै-दाऩे  
+इवऩुक्कु वधमुम् दण्डमुम्। 
+</details>
 
-The word Brahmin occurring in these ślokas has a special significance, as has been said in the śloka : "He who knows, aright, the truth concerning Bhagavān, who is called Viṣṇu  that measured the world ( with His feet) and is also called Vāsudeva he becomes a Brahmin". Even if it is used in its general sense, since the offence to the Brahmin is condemned, much more worthy of condemnation would be the offence to a Bhāgavata or devotee of Bhagavān.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतद्-धानिर् एवास्य वधो दण्डश् च । 
+</details>
+
+
+<details><summary>English</summary>
+
+To lose these  
+(his being a śeṣa to Bhāgavatas  
+and his self-restraint and patience)  
+is itself, in his case, being killed and punished. 
+</details>
+
+<details><summary>Español</summary>
+
+Para **perder** estos  
+(Su **ser** un Śeṣa a Bhāgavatas  
+y su autocontrol y paciencia)  
+**es** en sí mismo, en su caso, **ser asesinado y castigado**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवऱ्ऱैयिऴक्कैदाऩे इवऩुक्कु वधमुम् दण्डमुम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+इदु दण्ड्यशब्दार्थम्। उक्तांशत्तैये उपपादिक्किऱार् इवऱ्ऱैयिऴक्कैदाऩे इवऩुक्कु वधमुम् दण्डमुमिति । 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-अभिमान-बाह्यतैयिऩ् कॊडुमैयै+++(=क्रौर्यम्)+++  
+
+>> 'अळिय+++(न् = अनुकम्प्यः)+++, नम् पैयल् +++(=बालः)+++  
+> 
+> ऎऩ्ऩार् अम्मवो+++(=ऐयैयो)+++ कॊडिय-वाऱेय्'  
+> (तिरुमालै ३७।) 
+
+ऎऩ्ऱु भागवत-शेषत्वमे तमक्कु निरूपकम् आग रुचित्त  
+तॊण्डर्+++(=दास)+++-अडिप्-पॊडिय्-आऴ्वार् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भगवदभिमान-बाह्यतायाः क्रौर्यम्  
+
+> “अनुकम्प्यो ऽस्मदीयो बाल  
+> इति न वदन्ति हा क्रूरम् इदम्" 
+
+इति भागवत-शेषत्वम् एव स्वस्य निरूपकतया रोचयन्  
+भक्ताङ्घ्रि-रेणु-दिव्य-सूरिर् अनुजग्राह । 
+</details>
+
+<details><summary>English</summary>
+
+Thondaradippodi Alwar  
+[ That is why he calls himself Tondaradippodi,  
+The Dust at the Feet of the Devotees.] ,  
+who realised and enjoyed his relationship of being a śeṣa to Bhāgavatas,  
+which he considered as his distinctive feature,  
+has described how miserable it is to be outside the pale of the Lord's grace as follows:- 
+
+> "My Lord has not said:  
+> 
+> > “ This is a lad deserving of my affection". 
+> 
+> How wicked are my sins!"
+</details>
+
+<details><summary>Español</summary>
+
+Thondaradippodi Alwar  
+[Por eso **se llama** a sí mismo Tondaradippodi,  
+El polvo a los pies de los devotos.],  
+quien **se dio cuenta y disfrutó** de su relación de **ser un Śeṣa** a Bhāgavatas,  
+que él **consideró** como su característica distintiva,  
+**ha descrito** lo miserable  
+que **es estar** fuera del pálido de la gracia del Señor de la siguiente manera:-
+
+> "Mi Señor **no ha dicho**:
+>
+>> "Este **es** un muchacho que **merece** mi afecto".
+>
+> ¡Qué malvados **son** mis pecados! "
+</details>
+ 
+
+<details><summary>मूलम्</summary>
+
+भगवदभिमानबाह्यतैयिऩ् कॊडुमैयै 'अळिय नम्बैयलॆऩ्ऩारम्मवो कॊडियवाऱे'(तिरुमालै ३७।)यॆऩ्ऱु भागवत शेषत्वमे तमक्कु निरूपकमाग रुचित्त तॊण्डरडिप् पॊडियाऴ्वाररुळिच्चॆय्दार्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+भगवदभिमान बाह्यतैयिऩ् क्रौर्यत्तै आऴ्वार् अरुळिच्चॆय्दारॆऩ्गिऱार् भगवदभिमानेत्यादिना । अळिय नम् पैयलॆऩ्ऩार् - स्निग्धऩाऩ नम्मुडैय सिऱुवऩ् ऎऩ्ऱु अरङ्गऩार् अभिमानिक्किऱारिल्लै। अम्मवो - ऐयैयो! कॊडियवाऱे - ऎऩ्ऩुडैय कॆळडिल्यम् इप्पडिय् इरुन्ददे। तमक्कु निरूपकमाग रुचित्त - स्वरूपनिरूपकमाग वासैप्पट्ट, शेषत्वत्तिल् रुचियिल्लाविडिल्, तॊण्डरडिप्पॊडि - (भागवतपादधूळि)यॆऩ्गिऱ तिरुनामवहनम् कूडादॆऩ्ऱु करुत्तु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इच् श्लोकङ्गळिल् ब्राह्मण-शब्दम् 
+
+> ‘‘विष्णुं क्रान्तं वासुदेवं **विजानन्**  
+> विप्रो विप्रत्वङ् **गच्छते** तत्त्वदर्शी’’ +++(4)+++  
+> (भारतम् आनुसासनिगबर्वम् १६-२।) 
+
+ऎऩ्गिऱ प्रक्रियैयाले विशेष-विषयम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अनयोः श्लोकयोर् ब्राह्मण-शब्दः, 
+
+> ‘‘विष्णुं क्रान्तं वासुदेवं **विजानन्**  
+> विप्रो विप्रत्वङ् **गच्छते** तत्त्वदर्शी’’ +++(4)+++  
+> (भारतम् आनुसासनिगबर्वम् १६-२।) 
+
+इत्य्-उक्त प्रक्रियया विशेष-विषयः ।
+</details>
+
+<details><summary>English</summary>
+
+The word Brahmin occurring in these ślokas has a special significance,  
+as has been said in the śloka : 
+
+> "He who knows, aright, the truth concerning Bhagavān,  
+> who is called Viṣṇu  
+> that measured the world ( with His feet)  
+> and is also called Vāsudeva  
+> he becomes a Brahmin". 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra brahmán que ocurre en estos ślokas  
+**tiene** un significado especial,  
+Como **se ha dicho** en el Śloka:
+
+> "El que **sabe**, adecuadamente, la verdad sobre Bhagavān,  
+> quien **se llama** Viṣṇu  
+> que **midió** el mundo (con los pies)
+> y también **se llama** Vāsudeva
+> **Se convierte** en un brahmán ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इच् श्लोकङ्गळिल् ब्राह्मणशब्दम् ‘‘विष्णुं क्रान्तं वासुदेवं विजानन् विप्रो विप्रत्वङ्गच्छते तत्त्वदर्शी’’(भारतम् आनुसासनिगबर्वम् १६-२।) ऎऩ्गिऱ प्रक्रियैयाले विशेषविषयम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+"ये ब्राह्मणाः’’ इत्यादिश्लोकङ्गळिल् सामान्यमाऩ ब्राह्मणशब्दम् भागवतरूपविशेषपरमागु मोवॆऩ्ऩ, दृष्टान्तप्रदर्शनत्ताले आगुमॆऩ्गिऱार् इच् श्लोकङ्गळिल् ब्राह्मणशब्दमित्यादिना । विष्णुमित्यादि । क्रान्तं - तिरुवडिगळाले उलगङ्गळैयळन्दवऩायुम्, विष्णुं – व्याप्तऩायुमिरुक्किऱ, वासुदेवं – नारायणऩै, विजानन् विप्रः - अऱिन्द ब्राह्मणऩ्, तत्त्वदर्शी सन् – परतत्त्वज्ञानमुडैयवऩाय्क्कॊण्डु, विप्रत्वं – उत्कृष्टब्राह्मणत्वत्तै, गच्छते - अडैगिऱाऩ्। अन्यथा विप्राभासऩॆऩ्ऱबडि। ऎऩ्गिऱ प्रक्रियैयाले विशेषविषयमिति । विशेषेण प्रजानातीति विप्रः ऎऩ्गिऱ व्युत्पत्तियाले समीचीनज्ञानवत्परमाऩ विप्रशब्दम् विष्णुं क्रान्तं ऎऩ्गिऱ श्लोकोक्तनिरुक्तियाले विष्णुवासुदेवादि विषय समीचीनज्ञानवाऩाऩ विशेषविषयत्तिल् पर्यवसन्नमाऩ प्रकारत्ताले इङ्गुम् ब्रह्म अनतीति व्युत्पत्तियाले सामान्यमाऩ ब्राह्मणशब्दम् भागवत ब्राह्मणविशेषविषयत्तिले पर्यवसन्नमागलामॆऩ्ऱबडि। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सामान्य-विषयम् आऩालुम्  
+भागवत-विषयत्तिल् अपराधम् कैमुतिकन्यायत्ताले सिद्धम्। +++(5)+++ 
+</details>
+
+
+<details><summary>English</summary>
+
+Even if it is used in its general sense,  
+since the offence to the Brahmin is condemned,  
+much more worthy of condemnation would be the offence to a Bhāgavata or devotee of Bhagavān.
+</details>
+
+<details><summary>Español</summary>
+
+Incluso si **se usa** en su sentido general,  
+Dado que el delito del brahmán está **condenado**,  
+Mucho más digno de **condena sería** el delito de un Bhāgavata o devoto de Bhagavān.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सामान्यविषयमाऩालुम् भागवत विषयत्तिलपराधम् कैमुतिकन्यायत्ताले सिद्धम्।  
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+सामान्यविषयमाऩालुम् विशेषविषयत्तिल् अपचारक्षापणम् कैमुतिकन्यायसिद्धमॆऩ्गिऱार् सामान्यविषयमाऩालु मित्यादिना । सामान्यविषयमाऩालुम् - सामान्यतः ब्राह्मणविषयमाऩालुम्, भागवत विषयत्तिल् - भागवतब्राह्मणविषयत्तिल्।  
+</details>
+
+
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
