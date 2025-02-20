@@ -5914,30 +5914,113 @@ Sobre la falta de discriminación (aviveka) que les **da lugar** a ellos.
 इळैदा निलै सॆग वॆङ्गळ्बिरानरुट्टेनॆऴुमे. (25 )
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इऩि अधिकारार्थत्तै  
+वक्ष्यमाण-श्लोकानुगुणम् आग पाट्टाले सङ्ग्रहिक्किऱार्  
+उळदाऩ इत्यादिना ।  
+
+उळदाऩ - अनादिजन्मपरम्परैकळाले आर्जितङ्गळाय् सिद्धङ्गळायिरुक्किऱ, वल्विऩैक्कु - 
+
+> अनुभवितुम् अघौघं नालम् आगामि-कालः  
+> **प्रशमयितुम्** अशेषं निष्क्रियाभिर् **न शक्यम्**
+
+ऎऩ्गिऱ पडि दृढमायिरुक्किऱ पाबङ्गळुक्कु,  
+उळ्ळम् वॆरुवि - मऩस्सिले भयप्पट्टु,  
+उलगळन्द - लोगङ्गळै यळन्द,  
+वळर् - वामनावतारम् पण्णि महाबलियिडत्तिल् मूऩ्ऱडि मण्णै यासित्तु अवऩदैक् कॊडुत्तवुडऩ् त्रिविक्रमावतारत्तिल् वळर्न्दु पोऩ,  
+तामरैयिणै - तामरससदृशमाऩ तिरुवडि द्वयत्तै निगीर्याध्यवसायत्ताले तिरुवडि द्वयत्तै तामरसमॆऩ्गिऱदु।  
+वऩ्सरणाग - दृढमाऩ उबायमाग, वरित्तवर्दाम् - वरित्तवर्गळाऩ प्रपन्नर्गळ्,  
+कळैदाऩॆऩवॆऴुम् - प्रपत्त्युत्तरकालत्तिल् कळैबोले अभिवृद्धमाय्वरुम्,  
+कऩ्मम् तुऱप्पर् - बुद्धिपूर्वकमाऩ पाबत्तैच् चॆय्यार्गळ्। पापारम्भकपापनिवृत्तियैयुम् सङ्कल्पित्तु पूर्वप्रपत्तियैप् पण्णि यिरुप्पदाल् बुद्धिपूर्वोत्तराघत्तैप् पण्णमाट्टारगळॆऩ्ऱबडि। अथवा मुऩ्बु अप्पडि प्रपत्तिपण्णाददिऩालुण्डाऩ कऩ्मम् तुऱप्पर् - बुद्धिपूर्वोत्तराघत्तै प्रायश्चित्तत्ताले पोक्कडिप्पर्; तुऱन्दिडिलुम् - अप्पडि प्रायश्चित्तत्ताले पोक् कडिक्कुम् विषयत्तिल्, इळैदा निलै - मन्द-बुद्धितारूपमाऩ प्रायश्चित्तत्तिल् मूळाद निलै। सॆग - ऒरुविधमागक् कऴिगैक्कु, ऎङ्गळ् पिराऩ् - नमक्कु उपकारकऩाऩ भगवाऩुडैय। अरुट्टेऩॆऴुमे - तेऩ्बोऩ्ऱ कृपैयाऩदु नानाविधमागक् किळम्बुमॆऩ्ऱबडि। प्रायश्चित्तमुम् कैदप्पिऩ अधिकारिविषयत्तिल् भगवत्कृपैयाऩदु खञ्जत्वकाणत्वादिगळै युण्डुबण्णि देहावसानत्तिऱ्कुळ् क्रोडीकरिक्कुमॆऩ्ऱबडि। 
+</details>
 
 
 __________
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-प्रारब्धेतरपूर्वपापमखिलं प्रामादिकञ्चोत्तरं  
-न्यासेन क्षपयन्ननभ्युपगतप्रारब्धखण्डञ्च नः ।  
-धीपूर्वोत्तरपाप्मनामजननाज्जातेऽपि तन्निष्कृतेः  
-कौटिल्ये सति शिक्षयाप्यनघयन् क्रोढीकरोति प्रभुः ॥ ४१ ॥
+प्रारब्धेतर-पूर्व-पापम् अखिलं, प्रामादिकञ् चोत्तरं  
+**न्यासेन क्षपयन्न्** अनभ्युपगत-प्रारब्ध-खण्डञ्च नः ।  
+धी-पूर्वोत्तर-पाप्मनाम् **अजननाज्**, जाते ऽपि तन्-**निष्कृतेः**,  
+कौटिल्ये सति **शिक्षयाप्य् अनघयन् क्रोडी करोति** प्रभुः ॥ ४१ ॥
 </details>
+
+<details><summary>English</summary>
+
+The Lord pardons, on account of prapatti, all sins committed before prapatti  
+except (some among) those which have begun to bear fruit in this life  
+and also those sins which are committed after prapatti unintentionally.  
+Likewise He pardons ( also) all prārabdha karma  
+except the portion of prārabdha  
+whose consequences he has agreed to bear.  
+In the case of the prapanna,  
+it is not at all likely that sins will be committed subsequently with deliberation.  
+Even if such (subsequent ) sins occur,  
+they will be destroyed by atonement;  
+if, on account of wickedness, no atonement is performed,  
+the sins will be expiated by punishment  
+and the Lord will (then) take the prapanna to Himself.
+
+</details>
+
+<details><summary>Español</summary>
+
+El Señor **perdona**, debido a Prapatti, todos los pecados **cometidos** antes de Prapatti  
+excepto (algunos entre) los que **han comenzado a dar** fruto en esta vida  
+y también aquellos pecados que se **cometen** después de Prapatti sin **querer**.  
+Del mismo modo, él **perdona** (también) todo prārabdha karma
+excepto la porción de Prārabdha  
+cuyas consecuencias **ha aceptado soportar**.  
+En el caso de la Prapanna,  
+**No es probable** que los pecados se cometan posteriormente con deliberación.  
+Incluso si **ocurren** tales (posteriores) pecados,  
+**Serán destruidos** por la expiación;  
+Si, debido a la maldad, **no se realiza** ninguna expiación,  
+los pecados serán **expiados por castigo**  
+y el Señor (entonces) **se llevará** la Prapanna a sí mismo.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
 प्रारब्धेतरपूर्वपापमखिलं प्रामादिकञ्चोत्तरं  
 न्यासेन क्षपयन्ननभ्युपगतप्रारब्धखण्डञ्च नः ।  
 धीपूर्वोत्तरपाप्मनामजननाज्जातेऽपि तन्निष्कृतेः  
-कौटिल्ये सति शिक्षयाप्यनघयन् क्रोढीकरोति प्रभुः ॥ ४१ ॥
+कौटिल्ये सति शिक्षयाप्यनघयन् क्रोडीकरोति प्रभुः ॥ ४१ ॥
 </details>
 
-The Lord pardons, on account of prapatti, all sins committed before prapatti except (some among) those which have begun to bear fruit in this life and also those sins which are committed after prapatti unintentionally. Likewise He pardons ( also) all prārabdha karma except the portion of prārabdha whose consequences he has agreed to bear. In the case of the prapanna, it is not at all likely that sins will be committed subsequently with deliberation. Even if such (subsequent ) sins occur, they will be destroyed by atonement; if, on account of wickedness, no atonement is performed, the sins will be expiated by punishment and the Lord will (then) take the prapanna to Himself.
+
+<details><summary>सायण-टीका</summary>
+
+प्रपन्नऩाऩ अधिकारिविषयत्तिल् सर्वेश्वरऩ् पाबङ्गळैप् पोक्कडिक्कुम् प्रकारत्तै श्लोकत्ताले यरुळिच्चॆय्गिऱार् प्रारब्धेतरेति । प्रभुः – समर्थऩाऩ भगवाऩ्, नः – शरणागतराऩ नम्मुडैय, अखिलं – समस्तमाऩ, प्रारब्धेतरपूर्वपापं – अनादिजन्मपरम्परैयाले सम्पादितमाय् फलप्रदानम् पण्ण अवकाशमऱ्ऱु सञ्चितमाऩ पाबत्तैयुम्, उत्तरं – उत्तरकालत्तिल् भविष्यत्ताऩ, अखिलं – समस्तमाऩ, प्रामादिकञ्च – प्रमादकृतमाऩ अदावदु अज्ञानकृतमाऩ पाबत्तैयुम्, अनभ्युपगतप्रारब्धखण्डञ्च - प्रारब्धत्तिलुम् प्रपन्नऩाले ऒप्पुक्कॊळ्ळप्पडाद पापांशत्तैयुम्, जन्मान्तरानुभाव्यमाऩ प्रारब्धांशत्तैयुमॆऩ्ऱबडि। न्यासेन – मोक्षार्थप्रपत्तियिऩालेये, क्षपयन् सन् – नाशम् पण्णुगिऱवऩाय्क्कॊण्डु, इदऱ्कु क्रोढीकरोति ऎऩ्बदोडन्वयम्। धीपूर्वोत्तरपाप्मनां – सत्वोत्तरऩाय्प्पोन्द प्रपन्नऩुक्कु बुद्धिपूर्वक माऩ उत्तरपापङ्गळ् सम्भविक्कादु। बुद्धिपूर्वोत्तराघत्तुक्कञ्जि तन्निवृत्तियैयुम् सेर्त्तु अडियिले प्रपत्ति पण्णामल् पाम्बोडु ऒरु कूरैयिले पयिऩ्ऱार्प्पोले पापारम्भकपापत्तोडु सेर्न्दु वसिक्कुम् ऒरु अधिकारिक्कु बुद्धिपूर्वोत्तराघम् जातमाऩालुम्, तन्निष्कृतेः – ‘‘अपायसम्प्लवे सद्यः’’ ऎऩ्गिऱबडि अन्द पापप्रायश्चित्तमाऩ पुनः प्रपदनत्तालुम्, कौटिल्येसति – प्रायश्चित्तम् पण्ण इसैयाद कौटिल्यमुळ्ळवऩागिल्, शिक्षयापि – खञ्जत्वकाणत्वादिरूपलघुदण्डऩैयिऩालुम्, अनघयन् – निष्पापऩागप्पण्णि, क्रोडीकरोति – सर्वप्रकारत्तालुम् देहावसानत्तिऱ्कुळ् मोक्षार्हऩागप् पण्णुवऩॆऩ्ऱबडि।  
+</details>
+
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे  
 अपराधपरिहाराधिकारः अष्टादशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
 
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+अपराधपरिहाराधिकारः अष्टादशः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
+
+<details><summary>सायण-टीका</summary>
+
+॥ इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशत्पट्टे मूर्द्धाभिषिक्तस्य  
+निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक  
+श्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ  
+श्री सारबोधिन्याख्यायां व्याख्यायां  
+अपराधपरिहाराधिकारः अष्टादशः ॥
+</details>

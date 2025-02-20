@@ -3,9 +3,21 @@ title = "१९ स्थानविशेषाधिकारः"
 
 +++
 
-(19) THE CHAPTER ON THE PLACES SUITABLE
+<details><summary>English</summary>
 
-FOR THE RESIDENCE OF THE PRAPANNA. page249
+(19) THE CHAPTER ON THE PLACES  
+SUITABLE FOR THE RESIDENCE OF THE PRAPANNA.  
+page249
+
+</details>
+
+<details><summary>Español</summary>
+
+(19) El capítulo sobre los lugares  
+Adecuado para la residencia de la Prapanna.  
+Página 249
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
