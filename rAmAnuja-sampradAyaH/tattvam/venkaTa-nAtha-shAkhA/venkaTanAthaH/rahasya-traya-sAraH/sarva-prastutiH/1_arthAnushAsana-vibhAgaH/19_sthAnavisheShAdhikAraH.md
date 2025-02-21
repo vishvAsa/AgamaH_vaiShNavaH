@@ -825,13 +825,148 @@ donde Sattva **es predominante**,
 भगवत्-क्षेत्रङ्गळे विवेकिक्कु वास-स्थानम् ऎऩ्ऩुम् इडत्तै 
 </details>
 
+<details><summary>English</summary>
+
+That only the holy places of Bhagavān  
+are suitable for the residence of the wise man has been stated  
+by the great sage (Vyāsa) thus :- 
+</details>
+
+<details><summary>Español</summary>
+
+Que solo los lugares santos de Bhagavān  
+**son adecuados** para la residencia del hombre sabio **ha sido declarado**  
+por la gran salvia (Vyāsa) así:-
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 भगवत्क्षेत्रङ्गळे विवेकिक्कु वासस्थानमॆऩ्ऩुमिडत्तै 
 </details>
 
 
-That only the holy places of Bhagavān are suitable for the residence of the wise man has been stated by the great sage (Vyāsa) in the context of the places of pilgrimage in Āranya Parva, thus :- "The place where the Supreme Being, the God Nārāyaṇa  who is eternal, dwells -- that is sacred; that is most holy; that is the place of the sacred water that purifies; that is the place fit for austerities; that isthe place where the divine seers and the siddhas and all others perform penance", and (in another context) elsewhere, we find -" There is a mountain called Gomanta, O, king, which is full of all the minerals. On that mountain dwells the lotus-eyed Lord Nārāyaṇa , the Lord of Lakṣmī , who is sung in hymns (there) by those who desire mokṣa ." Bhagavān Vālmīki also has stated :- “This mountain, Citrakuta, which resembles Himavan, the king of mountains, is possessed of glory, for ŚrīRāma born of the race of Kakustha dwells on it like Kubera in Nandana." The word subhaga in this siloka refers to the glory of that mountain as one to be visited for having been the residence of Bhagavān. In the Sātvata śāstra s also, the holy places where there are the spontaneous manifestations of Bhagavān, those that were established by siddhās and those founded by devotees and the degrees of sanctity attached to them are described separately and it is also stated there that those who dwell within the boundaries of these holy places will attain a special boon at the time of their laying down the body :-"The wind" of man which is under the sway of the foul senses is always surrounded by impure influences. It is, however, purified in the last moments by residence in the abode of Nārāyaṇa ."Therefore as stated in the śloka  :-"A man should live in a place where there is a temple of Viṣṇu  and do some kind of service (there). If he is unable to perform any service, he should At least abstain from what is forbidden"; the prapanna would do well to live in a place sanctified by the presence of Bhagavān and Bhāgavatas and capable of promoting sattva guṇa.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘यत्र नारायणो देवः  
+परमात्मा सनातनः ।  
+तत् पुण्यं तत् परं ब्रह्म  
+तत् तीर्थं तत् तपो-वनं ॥  
+तत्र देवर्षयस् सिद्धास्  
+सर्वे चैव तपोधनाः ।  
+(भारतम् आरण्य-पर्व ८८-२७।) 
+</details>
+
+<details><summary>English</summary>
+
+> "The place where the Supreme Being, the God Nārāyaṇa who is eternal, dwells --  
+> that is sacred;  
+> that is most holy;  
+> that is the place of the sacred water that purifies;  
+> that is the place fit for austerities;  
+> that is the place where the divine seers and the siddhas and all others perform penance", 
+</details>
+
+<details><summary>Español</summary>
+
+> "El lugar donde el ser supremo, el dios nārāyaṇa que es eterno, **habita** -  
+> Eso es sagrado;  
+> Eso es lo más santo;  
+> Ese es el lugar del agua sagrada que purifica;  
+> Ese es el lugar apto para austeridades;  
+> Ese es el lugar donde los Videntes Divinos y los Siddhas y todos los **demás realizan penitencia** ",
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘यत्र नारायणो देवः परमात्मा सनातनः ।  
+तत्पुण्यं तत्परं ब्रह्म तत्तीर्थं तत्तपोवनं ॥  
+तत्र देवर्षयस्सिद्धास्सर्वे चैव तपोधनाः ।  
+(भारतम् आरण्य-पर्व ८८-२७।) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु आरण्यपर्वत्तिल् तीर्थयात्रैयिलुम्, 
+</details>
+
+<details><summary>English</summary>
+
+in the context of the places of pilgrimage in Āranya Parva
+</details>
+
+<details><summary>Español</summary>
+
+En el contexto de los lugares de **peregrinación** en āranya parva
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु आरण्यपर्वत्तिल् तीर्थयात्रैयिलुम्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गोमन्तः पर्वतो राजन्  
+सुमहान् सर्वधातुमान् ।  
+**वसते** भगवान् यत्र  
+श्रीमान् कमल-लोचनः ॥  
+मोक्षिभिस् **संस्तुतो** नित्यं  
+प्रभुर् नारायणो हरिः ।  
+(भारतम् पीष्म-पर्व १२-८।)  
+</details>
+
+<details><summary>English</summary>
+
+> " There is a mountain called Gomanta, O, king,  
+> which is full of all the minerals.  
+> On that mountain dwells the lotus-eyed Lord Nārāyaṇa , the Lord of Lakṣmī ,  
+> who is sung in hymns (there) by those who desire mokṣa ." 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Hay** una montaña llamada Gomanta, O, King,  
+> que **está lleno** de todos los minerales.  
+> En esa montaña habita el Señor Nārāyaṇa de ojos de loto, el Señor de Lakṣmī,  
+> Quién es **cantado** en himnos (allí) por aquellos que **desean** mokṣa ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘गोमन्तः पर्वतो राजन् सुमहान् सर्वधातुमान् ।  
+वसते भगवान् यत्र श्रीमान् कमललोचनः ॥  
+मोक्षिभिस्संस्तुतो नित्यं प्रभुर्नारायणो हरिः । ’’  
+(भारतम् पीष्म-पर्व १२-८।)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु प्रदेशान्तरत्तिलुम् महर्षिय् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>English</summary>
+
+and (in another context) elsewhere, we find (the above)
+</details>
+
+<details><summary>Español</summary>
+
+and (in another context) elsewhere, we find (the above)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु प्रदेशान्तरत्तिलुम् महर्षियरुळिच्चॆय्दाऩ्। 
+</details>
+
+
+
+
+Bhagavān Vālmīki also has stated :- “This mountain, Citrakuta, which resembles Himavan, the king of mountains, is possessed of glory, for ŚrīRāma born of the race of Kakustha dwells on it like Kubera in Nandana." The word subhaga in this siloka refers to the glory of that mountain as one to be visited for having been the residence of Bhagavān. In the Sātvata śāstra s also, the holy places where there are the spontaneous manifestations of Bhagavān, those that were established by siddhās and those founded by devotees and the degrees of sanctity attached to them are described separately and it is also stated there that those who dwell within the boundaries of these holy places will attain a special boon at the time of their laying down the body :-"The wind" of man which is under the sway of the foul senses is always surrounded by impure influences. It is, however, purified in the last moments by residence in the abode of Nārāyaṇa ."Therefore as stated in the śloka  :-"A man should live in a place where there is a temple of Viṣṇu  and do some kind of service (there). If he is unable to perform any service, he should At least abstain from what is forbidden"; the prapanna would do well to live in a place sanctified by the presence of Bhagavān and Bhāgavatas and capable of promoting sattva guṇa.
 
 It is true that it is said: “ The places where a man in full control of his senses lives — that place has in it Kurukṣetra, Naimisa and, likewise, Pushkaram." But this should be taken to mean that, when a righteous man lives in some insignificant place, because of his inability to live elsewhere, that place becomes sanctified by his residence. This is illustrated in the episode of Sandili.[ Sandili, a great devotee of the Lord, was living on an island in the sea. Garuḍa, who saw it, wondered why she should dwell in such a mean place. Owing to this offensive thought, his wings were burnt away and he recovered their use only after obtaining her pardon.]
 
