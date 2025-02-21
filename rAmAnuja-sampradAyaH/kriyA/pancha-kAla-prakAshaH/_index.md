@@ -30,7 +30,6 @@ Source: [TW](https://archive.org/details/panchakalaprakas015157mbp/page/n65/mode
 
 ""
 ""
-""
 
 श्रीनिवास परब्रह्मणेनमः
 श्रीमत्पृणतार्तिहरवरद परब्रह्मणेनमः
