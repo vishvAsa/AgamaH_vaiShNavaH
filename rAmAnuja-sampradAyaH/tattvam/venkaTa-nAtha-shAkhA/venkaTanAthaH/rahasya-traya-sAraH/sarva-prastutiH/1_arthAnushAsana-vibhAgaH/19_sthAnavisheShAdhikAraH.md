@@ -820,6 +820,15 @@ donde Sattva **es predominante**,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवत्-क्षेत्रङ्गळे विवेकिक्कु वास-स्थानम् ऎऩ्ऩुम् इडत्तै 
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवत्क्षेत्रङ्गळे विवेकिक्कु वासस्थानमॆऩ्ऩुमिडत्तै 
+</details>
 
 
 That only the holy places of Bhagavān are suitable for the residence of the wise man has been stated by the great sage (Vyāsa) in the context of the places of pilgrimage in Āranya Parva, thus :- "The place where the Supreme Being, the God Nārāyaṇa  who is eternal, dwells -- that is sacred; that is most holy; that is the place of the sacred water that purifies; that is the place fit for austerities; that isthe place where the divine seers and the siddhas and all others perform penance", and (in another context) elsewhere, we find -" There is a mountain called Gomanta, O, king, which is full of all the minerals. On that mountain dwells the lotus-eyed Lord Nārāyaṇa , the Lord of Lakṣmī , who is sung in hymns (there) by those who desire mokṣa ." Bhagavān Vālmīki also has stated :- “This mountain, Citrakuta, which resembles Himavan, the king of mountains, is possessed of glory, for ŚrīRāma born of the race of Kakustha dwells on it like Kubera in Nandana." The word subhaga in this siloka refers to the glory of that mountain as one to be visited for having been the residence of Bhagavān. In the Sātvata śāstra s also, the holy places where there are the spontaneous manifestations of Bhagavān, those that were established by siddhās and those founded by devotees and the degrees of sanctity attached to them are described separately and it is also stated there that those who dwell within the boundaries of these holy places will attain a special boon at the time of their laying down the body :-"The wind" of man which is under the sway of the foul senses is always surrounded by impure influences. It is, however, purified in the last moments by residence in the abode of Nārāyaṇa ."Therefore as stated in the śloka  :-"A man should live in a place where there is a temple of Viṣṇu  and do some kind of service (there). If he is unable to perform any service, he should At least abstain from what is forbidden"; the prapanna would do well to live in a place sanctified by the presence of Bhagavān and Bhāgavatas and capable of promoting sattva guṇa.
