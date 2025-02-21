@@ -273,6 +273,8 @@ Por lo tanto, el lugar **adecuado** para la residencia en la actualidad
 
 > "श्यामल-बृहन्-मेघ-वर्णं रक्षकत्वेनाश्रित्याञ्जलि-**बन्धं कुर्वाणैर्** भक्तैर् **अधिष्ठिते** ग्रामे **वसन्तो**  
 > मानवाः कानि नु **तपांसि कृतवन्तः** " 
+
+इत्य्-उक्त-रीत्या  
 </details>
 
 <details><summary>English</summary>
@@ -306,6 +308,12 @@ Se **ha dicho**:-
 भागवतोत्तरम् आऩ देशम्  
 मुमुक्षुवुक्कु परिग्राह्यम्। 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भागवतोत्तरो देशो मुमुक्षोः परिग्राहयः । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -347,6 +355,7 @@ Esas regiones que **están habitadas** por Bhāgavatas
 **पाषण्डोपहता** जनाः॥  
 (विष्णुपुराणम् ६-१-५०।)  
 
+इत्य्-उक्तेऽपि, 
 </details>
 
 <details><summary>English</summary>
@@ -380,6 +389,7 @@ Aunque se dice
 ऎऩ्ऩच्चॆय्दे  
 </details>
 
+### द्रमिडेषु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > कलौ खलु **भविष्यन्ति**  
@@ -427,6 +437,19 @@ Aunque se dice
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ताम्रपर्णी नदी यत्र,  
+कृत-माला, पयस्विनी+++(=पालर्)+++ ।  
+कावेरी च महा-भागा  
+प्रतीची च महानदी ॥  
+ये **पिबन्ति** जलं तासां  
+मनुजा मनुजेश्वर ।  
+प्रायो **भक्ता** भगवति  
+वासुदेवे ऽमलाशया ॥’’  
+(भागवतम् ११-५-३८) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 > ताम्रपर्णी नदी यत्र,  
 कृत-माला, पयस्विनी+++(=पालर्)+++ ।  
@@ -492,6 +515,13 @@ Y de nuevo:
 इत्य्-आदिगळिले कलि-युगत्तिल् भागवतर्गळ् वसिक्कुम् देश-विशेषञ् जॊल्लुगैयाले 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्य्-आदिषु  
+कलि-युगे भागवत-वास-स्थान-भूतानां देश-विशेषाणां प्रतिपादनाद्  
+</details>
+
+
 <details><summary>English</summary>
 
 (Thus) we are also told about places where Bhāgavatas live in Kali Yuga 
@@ -512,17 +542,287 @@ Y de nuevo:
 इन्द युगत्तिल् इप् प्रदेशङ्गळिल् भागवत-परिगृहीतम् आऩ स्थलङ्गळे परिग्राह्यङ्गळ्।  
 </details>
 
+<details><summary>English</summary>
+
+As stated in these passages,  
+it is these places inhabited by Bhagavatās,  
+that are suitable for the residence of the prapanna in this Kali Yuga. 
+</details>
+
+<details><summary>Español</summary>
+
+Como **se indica** en estos pasajes,  
+**Son** estos lugares habitados por Bhagavatās,  
+que **son adecuados** para la **residencia** de la Prapanna en este Kali Yuga.
+</details>
+
+
 <details><summary>मूलम्</summary>
 
 इन्द युगत्तिलिप् प्रदेशङ्गळिल् भागवतपरिगृहीतमाऩ स्थलङ्गळे परिग्राह्यङ्गळ्।  
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-As stated in these passages, it is these places inhabited by Bhagavatās, that are suitable for the residence of the prapanna in this Kali Yuga. In Śrī Narayaniya the devas and the rishis said, "When dharma stands on a single leg ready to go elsewhere, how are we to live, O Lord? Please tell us this”, Bhagavān replied as follows: "You should live in places where gurus of good character and possessed of self-control are held in reverence and where dharma has not undergone any deterioration. The places which should be chosen by you, O best of devotees, are those where flourish the Vedas, yajṇas, austerities (tapas), truth, control of the senses and the slaughter of animals only for the sake of dharma (sacrifices). Adharma will not touch you with its foot".
+तिरु-नारायणीयत्तिल्  
+
+> ‘‘एकपाद-**स्थिते** धर्मे  
+यत्र क्वचन **गामिनि** ।  
+कथं **वस्तव्यम्** अस्माभिर्  
+भगवंस् तद् **वदस्व** नः’’  
+(भारतम् शान्ति-पर्व ३४९-८५)  
+
+ऎऩ्ऱु देवर्गळुम् ऋषिकळुम् विण्णप्पञ् जॆय्य,  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+श्री-नारायणीये, 
+
+> ‘‘एकपाद-**स्थिते** धर्मे  
+यत्र क्वचन **गामिनि** ।  
+कथं **वस्तव्यम्** अस्माभिर्  
+भगवंस् तद् **वदस्व** नः’’  
+(भारतम् शान्ति-पर्व ३४९-८५)  
+
+इति देवेषु ऋषिषु च विज्ञापयत्सु, 
+</details>
+
+<details><summary>English</summary>
+
+In Śrī Narayaniya the devas and the rishis said,  
+
+> "When dharma stands on a single leg  
+> ready to go elsewhere,  
+> how are we to live, O Lord?  
+> Please tell us this”, 
+</details>
+
+<details><summary>Español</summary>
+
+En Śrī Narayaniya los Devas y los Rishis **dijeron**:
+
+> "Cuando Dharma **se encuentra** en una sola pierna  
+> **Listo para ir** a otro lugar,  
+> ¿Cómo **vamos a vivir**, oh Señor?  
+> Por favor, **díga**-nos esto ”,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तिरुनारायणीयत्तिल्  
+‘‘एकपादस्थिते धर्मे यत्रक्वचन गामिनि ।  
+कथं वस्तव्यमस्माभिर्भगवं-स्तद्वदस्व नः’’  
+(भारतम् शान्ति-पर्व ३४९-८५)  
+ऎऩ्ऱु देवर्गळुम् ऋषिकळुम् विण्णप्पञ्जॆय्य,  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> गुरवो यत्र **पूज्यन्ते**  
+साधु-वृत्ताश् शमान्विताः ।  
+**वस्तव्यं** तत्र युष्माभिर्  
+यत्र धर्मो **न हीयते** ॥  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> गुरवो यत्र **पूज्यन्ते**  
+साधु-वृत्ताश् शमान्विताः ।  
+**वस्तव्यं** तत्र युष्माभिर्  
+यत्र धर्मो **न हीयते** ॥  
+</details>
+
+<details><summary>English</summary>
+
+> "You should live in places  
+> where gurus of good character and possessed of self-control are held in reverence  
+> and where dharma has not undergone any deterioration.  
+
+</details>
+
+<details><summary>Español</summary>
+
+> "**Deberías vivir** en lugares  
+> Donde los gurús de buen carácter  
+> y **poseído** de autocontrol **se mantienen en reverencia**  
+> y donde el dharma **no ha sufrido** ningún deterioro.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गुरवो यत्र पूज्यन्ते साधुवृत्ताश्शमान्विताः ।  
+वस्तव्यं तत्र युष्माभिर्यत्र धर्मो न हीयते ॥  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> यत्र वेदाश्च यज्ञाश्च  
+तपस् सत्यं दमस् तथा ।  
+हिंसा च धर्म-संयुक्ता  
+**प्रचरेयुस्** सुरोत्तमाः ॥  
+स वै देशो हि वस् **सेव्यो**  
+मा वोऽधर्मः पदा **स्पृशेत्** ।  
+(भारतम् शान्ति-पर्व ३४९-८६)  
+</details>
+
+<details><summary>English</summary>
+
+> The places which should be chosen by you, O best of devotees,  
+> are those where flourish the Vedas, yajṇas, austerities (tapas), truth, control of the senses and the slaughter of animals only for the sake of dharma (sacrifices).  
+> Adharma will not touch you with its foot".
+</details>
+
+<details><summary>Español</summary>
+
+> Los lugares que **deberían ser elegidos** por usted, O mejor de los devotos,  
+> **son** aquellos donde **florecen** los Vedas, Yajṇas, austeridades (tapas), verdad, control de los sentidos  
+> y la **matanza** de animales solo por el bien del dharma (sacrificios).  
+> Adharma **no te tocará** con su pie ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+यत्र वेदाश्च यज्ञाश्च तपस्सत्यं दमस्तथा ।  
+हिंसा च धर्मसंयुक्ता प्रचरेयुस्सुरोत्तमाः ॥  
+स वै देशो हि वस्सेव्यो मा वोऽधर्मः पदा स्पृशेत् ।  
+(भारतम् शान्ति-पर्व ३४९-८६)  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱु भगवाऩ् अरुळिच् चॆय्दाऩ्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति भगवाननुजग्राह । 
+</details>
+
+
+<details><summary>English</summary>
+
+Bhagavān replied as ~~follows~~ above. 
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān **respondió** como ~~ sigue ~~ arriba.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱु भगवाऩरुळिच्चॆय्दाऩ्। 
+</details>
+
+## अर्चा-विशिष्टानि
+<details><summary>English</summary>
 
 THE HOLY PLACES WHERE BHAGAVĀN IS WORSHIPPED IN TEMPLES ARE SPECIALLY SUITABLE:
+</details>
 
-Among them, the boly places where Bhagavān has chosen to be present as archā would be proper for the prapannas' residence. He should live permanently in one among them which is suitable for his service to the Lord). As an example of holy places where sattva is predominant, Śrīraṅgam is indicated in the following passage . "Until the 'fall of the body, live in peace here in Śrīraṅgam itself." That only the holy places of Bhagavān are suitable for the residence of the wise man has been stated by the great sage (Vyāsa) in the context of the places of pilgrimage in Āranya Parva, thus :- "The place where the Supreme Being, the God Nārāyaṇa  who is eternal, dwells -- that is sacred; that is most holy; that is the place of the sacred water that purifies; that is the place fit for austerities; that is the place where the divine seers and the siddhas and all others perform penance", and (in another context) elsewhere, we find -" There is a mountain called Gomanta, O, king, which is full of all the minerals. On that mountain dwells the lotus-eyed Lord Nārāyaṇa , the Lord of Lakṣmī , who is sung in hymns (there) by those who desire mokṣa ." Bhagavān Vālmīki also has stated :- “This mountain, Citrakuta, which resembles Himavan, the king of mountains, is possessed of glory, for ŚrīRāma born of the race of Kakustha dwells on it like Kubera in Nandana." The word subhaga in this siloka refers to the glory of that mountain as one to be visited for having been the residence of Bhagavān. In the Sātvata śāstra s also, the holy places where there are the spontaneous manifestations of Bhagavān, those that were established by siddhās and those founded by devotees and the degrees of sanctity attached to them are described separately and it is also stated there that those who dwell within the boundaries of these holy places will attain a special boon at the time of their laying down the body :-"The wind" of man which is under the sway of the foul senses is always surrounded by impure influences. It is, however, purified in the last moments by residence in the abode of Nārāyaṇa ."Therefore as stated in the śloka  :-"A man should live in a place where there is a temple of Viṣṇu  and do some kind of service (there). If he is unable to perform any service, he should At least abstain from what is forbidden"; the prapanna would do well to live in a place sanctified by the presence of Bhagavān and Bhāgavatas and capable of promoting sattva guṇa.
+<details><summary>Español</summary>
+
+Los lugares sagrados donde **se adora** a Bhagavān en lostemplos  
+**son** especialmente adecuados:
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अव्व् इडङ्गळ् तऩ्ऩिल्  
+**उगन्द्+++(=प्रीत्वा)+++ अरुळिऩ** दिव्य-देशङ्गळिले  
+तऩक्कु कैङ्कर्यत्तुक्कु **सौकर्यम् उळ्ळव्** इडत्तिले  
+निरन्तर-**वासम् पण्णव् उचितम्**।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+तत्रापि  
+मङ्गलाशासन-विषय-भूतेषु दिव्य-देशेषु  
+स्वस्य **कैङ्कर्य-सौकर्य-युक्ते** स्थाने  
+निरन्तर-**वासः कर्तुम् उचितः** । 
+</details>
+
+
+<details><summary>English</summary>
+
+Among them, the holy places where Bhagavān has chosen to be present as archā  
+would be proper for the prapannas' residence. 
+
+He should live permanently in one among them  
+which is suitable for his service to the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+Entre ellos, los lugares sagrados donde Bhagavān **ha elegido estar presente** como Archā  
+**sería apropiado** para la residencia de Prapanna.
+
+**Debería vivir permanentemente** en uno de ellos  
+que **es adecuado** para su **servicio** al Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अव्विडङ्गळ् तऩ्ऩिल् उगन्दरुळिऩ दिव्यदेशङ्गळिले तऩक्कु कैङ्कर्यत्तुक्कु सौकर्यमुळ्ळविडत्तिले निरन्तरवासम् पण्णवुचितम्।  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इत्तै 
+
+> ‘‘यावच्-छरीर-पातम्  
+> अत्रैव श्रीरङ्गे सुखम् आस्व’’  
+> (शरणागति-गद्यम्) 
+
+ऎऩ्ऱु सत्वोत्तरङ्गळ् आऩ भगवत्-क्षेत्रङ्गळुक्कु प्रदर्शनार्थम् आगव् अरुळिच् चॆय्दार्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इदम्, 
+
+> ‘‘यावच्-छरीर-पातम्  
+> अत्रैव श्रीरङ्गे सुखम् आस्व’’  
+> (शरणागति-गद्यम्) 
+
+इति सत्त्वोत्तर-भगवत्-क्षेत्र-**प्रदर्शनार्थतया ऽनुजग्राह** । 
+</details>
+
+<details><summary>English</summary>
+
+As an example of holy places where sattva is predominant,  
+Śrīraṅgam is indicated in the following passage.  
+
+> "Until the fall of the body,  
+> live in peace here in Śrīraṅgam itself." 
+</details>
+
+<details><summary>Español</summary>
+
+Como ejemplo de lugares sagrados  
+donde Sattva **es predominante**,
+Śrīraṅgam **se indica** en el siguiente pasaje.
+
+> "Hasta la caída del cuerpo,
+> **vives** en paz aquí en Śrīraṅgam ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+इत्तै ‘‘यावच्छरीरपातमत्रैव श्रीरङ्गे सुखमास्व’’(शरणागति-गद्यम्) ऎऩ्ऱु सत्वोत्तरङ्गळाऩ भगवत्क्षेत्रङ्गळुक्कु प्रदर्शनार्थमागवरुळिच्चॆय्दार्। 
+</details>
+
+
+
+
+That only the holy places of Bhagavān are suitable for the residence of the wise man has been stated by the great sage (Vyāsa) in the context of the places of pilgrimage in Āranya Parva, thus :- "The place where the Supreme Being, the God Nārāyaṇa  who is eternal, dwells -- that is sacred; that is most holy; that is the place of the sacred water that purifies; that is the place fit for austerities; that isthe place where the divine seers and the siddhas and all others perform penance", and (in another context) elsewhere, we find -" There is a mountain called Gomanta, O, king, which is full of all the minerals. On that mountain dwells the lotus-eyed Lord Nārāyaṇa , the Lord of Lakṣmī , who is sung in hymns (there) by those who desire mokṣa ." Bhagavān Vālmīki also has stated :- “This mountain, Citrakuta, which resembles Himavan, the king of mountains, is possessed of glory, for ŚrīRāma born of the race of Kakustha dwells on it like Kubera in Nandana." The word subhaga in this siloka refers to the glory of that mountain as one to be visited for having been the residence of Bhagavān. In the Sātvata śāstra s also, the holy places where there are the spontaneous manifestations of Bhagavān, those that were established by siddhās and those founded by devotees and the degrees of sanctity attached to them are described separately and it is also stated there that those who dwell within the boundaries of these holy places will attain a special boon at the time of their laying down the body :-"The wind" of man which is under the sway of the foul senses is always surrounded by impure influences. It is, however, purified in the last moments by residence in the abode of Nārāyaṇa ."Therefore as stated in the śloka  :-"A man should live in a place where there is a temple of Viṣṇu  and do some kind of service (there). If he is unable to perform any service, he should At least abstain from what is forbidden"; the prapanna would do well to live in a place sanctified by the presence of Bhagavān and Bhāgavatas and capable of promoting sattva guṇa.
 
 It is true that it is said: “ The places where a man in full control of his senses lives — that place has in it Kurukṣetra, Naimisa and, likewise, Pushkaram." But this should be taken to mean that, when a righteous man lives in some insignificant place, because of his inability to live elsewhere, that place becomes sanctified by his residence. This is illustrated in the episode of Sandili.[ Sandili, a great devotee of the Lord, was living on an island in the sea. Garuḍa, who saw it, wondered why she should dwell in such a mean place. Owing to this offensive thought, his wings were burnt away and he recovered their use only after obtaining her pardon.]
 
