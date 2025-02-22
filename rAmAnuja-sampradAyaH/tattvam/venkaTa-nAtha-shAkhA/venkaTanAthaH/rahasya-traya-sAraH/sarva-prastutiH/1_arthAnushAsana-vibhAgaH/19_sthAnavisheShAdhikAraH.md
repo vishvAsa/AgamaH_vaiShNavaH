@@ -954,7 +954,7 @@ and (in another context) elsewhere, we find (the above)
 
 <details><summary>Español</summary>
 
-and (in another context) elsewhere, we find (the above)
+y (en otro contexto) en otro lugar, encontramos (lo anterior)
 </details>
 
 
@@ -964,9 +964,91 @@ and (in another context) elsewhere, we find (the above)
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+श्री-वाल्मीकि भगवाऩालुम् 
+
+> सुभगश् चित्रकूटो ऽसौ  
+गिरिराजोपमो गिरिः ।  
+यस्मिन् **वसति** काकुत्स्थः  
+कुबेर इव नन्दने ।  
+(रामायणम् अयोध्या-काण्डम् ९८-१२।) 
+
+ऎऩ्गिऱ विडत्तिलुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> सुभगश् चित्रकूटो ऽसौ  
+गिरिराजोपमो गिरिः ।  
+यस्मिन् **वसति** काकुत्स्थः  
+कुबेर इव नन्दने ।  
+(रामायणम् अयोध्या-काण्डम् ९८-१२।) 
 
 
-Bhagavān Vālmīki also has stated :- “This mountain, Citrakuta, which resembles Himavan, the king of mountains, is possessed of glory, for ŚrīRāma born of the race of Kakustha dwells on it like Kubera in Nandana." The word subhaga in this siloka refers to the glory of that mountain as one to be visited for having been the residence of Bhagavān. In the Sātvata śāstra s also, the holy places where there are the spontaneous manifestations of Bhagavān, those that were established by siddhās and those founded by devotees and the degrees of sanctity attached to them are described separately and it is also stated there that those who dwell within the boundaries of these holy places will attain a special boon at the time of their laying down the body :-"The wind" of man which is under the sway of the foul senses is always surrounded by impure influences. It is, however, purified in the last moments by residence in the abode of Nārāyaṇa ."Therefore as stated in the śloka  :-"A man should live in a place where there is a temple of Viṣṇu  and do some kind of service (there). If he is unable to perform any service, he should At least abstain from what is forbidden"; the prapanna would do well to live in a place sanctified by the presence of Bhagavān and Bhāgavatas and capable of promoting sattva guṇa.
+</details>
+
+
+<details><summary>English</summary>
+
+Bhagavān Vālmīki also has stated :- 
+
+> “This mountain, Citrakuta, which resembles Himavan, the king of mountains,  
+> is possessed of glory,  
+> for Śrī Rāma born of the race of Kakustha  
+> dwells on it like Kubera in Nandana." 
+</details>
+
+<details><summary>Español</summary>
+
+Bhagavān Vālmīki también ha declarado:-
+
+> “Esta montaña, Citrakuta, que se asemeja a Himavan, el rey de las montañas,  
+> está **poseído** de gloria,  
+> Para Śrī Rāma **nacido** de la raza de Kakustha  
+> **Pone** en ello como Kubera en Nandana ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीवाल्मीकि भगवाऩालुम् 
+
+‘‘सुभगश्चित्रकूटोऽसौ गिरिराजोपमो गिरिः ।  
+यस्मिन्वसति काकुत्स्थः कुबेर इव नन्दने । ’’  
+(रामायणम् अयोध्या-काण्डम् ९८-१२।) 
+
+ऎऩ्गिऱविडत्तिलुम् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+भगवद्-अधिष्ठित-क्षेत्रत्तिऩ्-उडैय अभिगन्तव्यतै  
+सुभग-शब्दत्ताले सूचिक्कप् पट्टदु। 
+</details>
+
+<details><summary>English</summary>
+
+The word subhaga in this shloka  
+refers to the glory of that mountain  
+as one to be visited for having been the residence of Bhagavān. 
+</details>
+
+<details><summary>Español</summary>
+
+La palabra subhaga en este shloka  
+se **refiere** a la gloria de esa montaña  
+como uno para **ser visitado** por **haber sido la residencia** de Bhagavān.
+</details>
+
+<details><summary>मूलम्</summary>
+
+भगवदधिष्ठितक्षेत्रत्तिऩुडैय अभिगन्तव्यतै सुभगशब्दत्ताले सूचिक्कप्पट्टदु। 
+</details>
+
+
+In the Sātvata śāstra s also, the holy places where there are the spontaneous manifestations of Bhagavān, those that were established by siddhās and those founded by devotees and the degrees of sanctity attached to them are described separately and it is also stated there that those who dwell within the boundaries of these holy places will attain a special boon at the time of their laying down the body :-"The wind" of man which is under the sway of the foul senses is always surrounded by impure influences. It is, however, purified in the last moments by residence in the abode of Nārāyaṇa ."Therefore as stated in the śloka  :-"A man should live in a place where there is a temple of Viṣṇu  and do some kind of service (there). If he is unable to perform any service, he should At least abstain from what is forbidden"; the prapanna would do well to live in a place sanctified by the presence of Bhagavān and Bhāgavatas and capable of promoting sattva guṇa.
 
 It is true that it is said: “ The places where a man in full control of his senses lives — that place has in it Kurukṣetra, Naimisa and, likewise, Pushkaram." But this should be taken to mean that, when a righteous man lives in some insignificant place, because of his inability to live elsewhere, that place becomes sanctified by his residence. This is illustrated in the episode of Sandili.[ Sandili, a great devotee of the Lord, was living on an island in the sea. Garuḍa, who saw it, wondered why she should dwell in such a mean place. Owing to this offensive thought, his wings were burnt away and he recovered their use only after obtaining her pardon.]
 
