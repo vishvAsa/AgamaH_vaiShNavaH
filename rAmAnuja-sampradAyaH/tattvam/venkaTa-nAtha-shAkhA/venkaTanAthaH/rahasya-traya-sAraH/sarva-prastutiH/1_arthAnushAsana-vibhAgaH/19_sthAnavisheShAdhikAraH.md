@@ -825,6 +825,12 @@ donde Sattva **es predominante**,
 भगवत्-क्षेत्रङ्गळे विवेकिक्कु वास-स्थानम् ऎऩ्ऩुम् इडत्तै 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भगवत्-क्षेत्राण्य् एव विवेकिनो वास-स्थानानीत्य् एतम् अर्थम् 
+</details>
+
+
 <details><summary>English</summary>
 
 That only the holy places of Bhagavān  
@@ -856,6 +862,19 @@ por la gran salvia (Vyāsa) así:-
 सर्वे चैव तपोधनाः ।  
 (भारतम् आरण्य-पर्व ८८-२७।) 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘यत्र नारायणो देवः  
+परमात्मा सनातनः ।  
+तत् पुण्यं तत् परं ब्रह्म  
+तत् तीर्थं तत् तपो-वनं ॥  
+तत्र देवर्षयस् सिद्धास्  
+सर्वे चैव तपोधनाः ।  
+(भारतम् आरण्य-पर्व ८८-२७।) 
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -891,6 +910,14 @@ por la gran salvia (Vyāsa) así:-
 ऎऩ्ऱु आरण्यपर्वत्तिल् तीर्थयात्रैयिलुम्, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१५४]] 
+
+इत्य् अरण्य-पर्वणि तीर्थ-यात्रायाम्, 
+</details>
+
+
 <details><summary>English</summary>
 
 in the context of the places of pilgrimage in Āranya Parva
@@ -909,13 +936,25 @@ En el contexto de los lugares de **peregrinación** en āranya parva
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > गोमन्तः पर्वतो राजन्  
-सुमहान् सर्वधातुमान् ।  
+सुमहान् सर्व-धातुमान् ।  
 **वसते** भगवान् यत्र  
 श्रीमान् कमल-लोचनः ॥  
 मोक्षिभिस् **संस्तुतो** नित्यं  
 प्रभुर् नारायणो हरिः ।  
 (भारतम् पीष्म-पर्व १२-८।)  
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> गोमन्तः पर्वतो राजन्  
+सुमहान् सर्व-धातुमान् ।  
+**वसते** भगवान् यत्र  
+श्रीमान् कमल-लोचनः ॥  
+मोक्षिभिस् **संस्तुतो** नित्यं  
+प्रभुर् नारायणो हरिः ।  
+(भारतम् पीष्म-पर्व १२-८।)  
+</details>
+
 
 <details><summary>English</summary>
 
@@ -946,6 +985,12 @@ En el contexto de los lugares de **peregrinación** en āranya parva
 
 ऎऩ्ऱु प्रदेशान्तरत्तिलुम् महर्षिय् अरुळिच् चॆय्दाऩ्। 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति प्रदेशान्तरे च महर्षिर् अनुजग्राह । 
+</details>
+
 
 <details><summary>English</summary>
 
@@ -979,13 +1024,15 @@ y (en otro contexto) en otro lugar, encontramos (lo anterior)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+श्रीवाल्मीकि-भगवता ऽपि 
+
 > सुभगश् चित्रकूटो ऽसौ  
 गिरिराजोपमो गिरिः ।  
 यस्मिन् **वसति** काकुत्स्थः  
 कुबेर इव नन्दने ।  
 (रामायणम् अयोध्या-काण्डम् ९८-१२।) 
 
-
+इत्य्-अत्र
 </details>
 
 
@@ -1028,6 +1075,13 @@ Bhagavān Vālmīki también ha declarado:-
 सुभग-शब्दत्ताले सूचिक्कप् पट्टदु। 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+भगवद्-अधिष्ठित-क्षेत्रस्याभिगन्तव्यत्वं  
+सुभग-शब्देन सूचितम् । 
+</details>
+
+
 <details><summary>English</summary>
 
 The word subhaga in this shloka  
@@ -1047,17 +1101,472 @@ como uno para **ser visitado** por **haber sido la residencia** de Bhagavān.
 भगवदधिष्ठितक्षेत्रत्तिऩुडैय अभिगन्तव्यतै सुभगशब्दत्ताले सूचिक्कप्पट्टदु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-In the Sātvata śāstra s also, the holy places where there are the spontaneous manifestations of Bhagavān, those that were established by siddhās and those founded by devotees and the degrees of sanctity attached to them are described separately and it is also stated there that those who dwell within the boundaries of these holy places will attain a special boon at the time of their laying down the body :-"The wind" of man which is under the sway of the foul senses is always surrounded by impure influences. It is, however, purified in the last moments by residence in the abode of Nārāyaṇa ."Therefore as stated in the śloka  :-"A man should live in a place where there is a temple of Viṣṇu  and do some kind of service (there). If he is unable to perform any service, he should At least abstain from what is forbidden"; the prapanna would do well to live in a place sanctified by the presence of Bhagavān and Bhāgavatas and capable of promoting sattva guṇa.
+श्री-सात्त्वतादिगळिलुम् स्वयं-व्यक्त--सैद्ध-वैष्णवङ्गळ् ऎऩ्गिऱ क्षेत्र-विशेषङ्गळैयुम्  
+अवऱ्ऱिऩ् ऎल्लैगळिल् एऱ्ऱच् चुरुक्कङ्गळैयुम् **पिरियच् +++(=पृथक्)+++ चॊल्लि** 
+</details>
 
-It is true that it is said: “ The places where a man in full control of his senses lives — that place has in it Kurukṣetra, Naimisa and, likewise, Pushkaram." But this should be taken to mean that, when a righteous man lives in some insignificant place, because of his inability to live elsewhere, that place becomes sanctified by his residence. This is illustrated in the episode of Sandili.[ Sandili, a great devotee of the Lord, was living on an island in the sea. Garuḍa, who saw it, wondered why she should dwell in such a mean place. Owing to this offensive thought, his wings were burnt away and he recovered their use only after obtaining her pardon.]
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Therefore the statement in the following śloka  :-- "The man " who performs prapatti by uttering this mantra at the very time when he attains this knowledge -- that man attains mokṣa  wherever he may die losing his consciousness whether it be in a holy place of pilgrimage or the house of one who eats dog's flesh" - this statement that there is no special place prescribed for death, should also be understood in the light of what has been said above, as pointing out that this will be no hindrance to the attainment of mokṣa .
+श्रीसात्त्वतादिषु च  
+स्वयं-व्यक्तं सैद्धं वैष्णवं इत्य् उच्यमानान् क्षेत्र-विशेषान्,  
+तेषां सीमसु न्यूनत्वाधिक्ये च पृथक् **प्रतिपाद्य**, 
+</details>
 
+
+<details><summary>English</summary>
+
+In the Sāttvata śāstras also,  
+the holy places where there are the spontaneous manifestations of Bhagavān,  
+those that were established by siddhās  
+and those founded by devotees  
+and the degrees of sanctity attached to them  
+are described separately 
+</details>
+
+<details><summary>Español</summary>
+
+En el sāttvata Śāstra-s también,  
+Los lugares sagrados donde hay las manifestaciones espontáneas de Bhagavān,  
+los que **fueron** establecidos por Siddhās  
+y los fundados por devotos  
+y los grados de santidad unidos a ellos  
+**se describen** por separado
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+श्रीसात्त्वतादिगळिलुम् स्वयंव्यक्तसैद्धवैष्णवङ्गळॆऩ्गिऱक्षेत्रविशेषङ्गळैयुम् अवऱ्ऱिऩॆल्लैगळिलेऱ्ऱच् चुरुक्कङ्गळैयुम् पिरियच्चॊल्लि 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> दुष्टेन्द्रिय-वशाच् चित्तं  
+नृणां यत् कल्मषैर् **वृतम्** ।  
+तद् अन्तकाले संशुद्धिं  
+**याति** नारायणालये ॥  
+(सात्त्वत-संहिता ७-१२०) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> दुष्टेन्द्रिय-वशाच् चित्तं  
+नृणां यत् कल्मषैर् **वृतम्** ।  
+तद् अन्तकाले संशुद्धिं  
+**याति** नारायणालये ॥  +++(5)+++  
+(सात्त्वत-संहिता ७-१२०) 
+</details>
+
+<details><summary>विषयः</summary>
+
+मृत्युः, मन्दिरम्, वासः, देशः
+</details>
+
+
+<details><summary>English</summary>
+
+> "The mind of man  
+> which is under the sway of the foul senses  
+> is always surrounded by impure influences.  
+> It is, however, purified in the last moments  
+> by residence in the abode of Nārāyaṇa ."
+</details>
+
+<details><summary>Español</summary>
+
+> "La mente del hombre  
+> que **está** bajo la influencia de los sentidos de falta  
+> siempre **está rodeado** de influencias impuras.  
+> Sin embargo, **se purifica** en los últimos momentos  
+> Por **residencia** en la **morada** de Nārāyaṇa ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘दुष्टेन्द्रियवशाच्चित्तं नृणां यत्कल्मषैर्वृतम् ।  
+तदन्तकाले संशुद्धिं याति नारायणालये ॥’’  
+(सात्त्वत-संहिता ७-१२०) 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ऎऩ्ऱ् अव्व्-ओ क्षेत्रङ्गळिल् ऎल्लैक्क् उळ्ळे वसित्तवऩुक्कु  
+देह-न्यास-कालत्तिले वरुम् विशेषमुञ् जॊल्लप् पट्टदु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इति तत्-तत्-क्षेत्रेषु सीमाभ्यन्तरे निवासिनो  
+देह-न्यास-काले **जायमानो** विशेषो **ऽभ्यधायि** । 
+</details>
+
+
+<details><summary>English</summary>
+
+Thus ~~and~~ it is also stated there that  
+those who dwell within the boundaries of these holy places  
+will attain a special boon at the time of their laying down the body.
+</details>
+
+<details><summary>Español</summary>
+
+Así ~~ y ~~ también se dice que  
+aquellos que **habitan** dentro de los límites de estos lugares sagrados  
+**alcanzará** una bendición especial en el momento de que partida del cuerpo.
+</details>
+
+<details><summary>मूलम्</summary>
+
+ऎऩ्ऱव्वो क्षेत्रङ्गळिलॆल्लैक्कुळ्ळे वसित्तवऩुक्कु देहन्यासकालत्तिले वरुम् विशेषमुञ्जॊल्लप्पट्टदु। 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल् 
+
+> यत् किञ्चिद् अपि कुर्वाणो  
+विष्णोर् आयतने वसेत् ।  
+न किञ्चिद् अपि +++(प्रतिषिद्धं)+++ कुर्वाणो  
+विष्णोर् आयतने वसेत्॥ +++(5)+++
+
+ऎऩ्गिऱ बडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतः 
+
+> यत्किञ्चिदपि कुर्वाणो  
+विष्णोर् आयतने वसेत् ।  
+न किञ्चिदपि कुर्वाणो  
+विष्णोरायतने वसेत्॥ 
+
+इत्य्-उक्त-रीत्या 
+</details>
+
+<details><summary>विषयः</summary>
+
+मन्दिरम्, वासः, देशः
+</details>
+
+<details><summary>English</summary>
+
+Therefore as stated in the śloka  :-
+
+> "A man should live in a place  
+> where there is a temple of Viṣṇu  
+> and do some kind of service (there).  
+> If he is unable to perform any service,  
+> he should at least abstain from what is forbidden"; 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, como **se indica** en el Śloka:-
+
+> "Un hombre **debe vivir** en un lugar  
+> Donde **hay** un templo de Viṣṇu  
+> y **hacer** algún tipo de **servicio** (allí).  
+> Si **no puede realizar** ningún servicio,  
+> **Debería** al menos **abstenerse** de lo que está prohibido ";
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल् ‘‘यत्किञ्चिदपि कुर्वाणो विष्णोरायतने वसेत् । न किञ्चिदपि कुर्वाणो विष्णोरायतने वसेत्’’() ऎऩ्गिऱबडिये 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रवृत्ति-निवृत्तिगळाले वल्ल कैङ्कर्यत्तैप् पण्णिक् कॊण्डु  
+भगवद्-भागवताभिमान-विषयम् आऩ  
+सत्त्वोत्तर क्षेत्रत्तिले वसिक्कैयुम् उचितम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रवृत्ति-निवृत्तिभ्यां शक्यं कैङ्कर्यं कुर्वता सता  
+भगवद्-भागवताभिमान-विषये  
+सत्त्वोत्तर-क्षेत्रे **निवासः** कर्तुं उचितः । 
+
+</details>
+
+
+<details><summary>English</summary>
+
+the prapanna would do well to live in a place  
+sanctified by the presence of Bhagavān and Bhāgavatas  
+and capable of promoting sattva guṇa.
+</details>
+
+<details><summary>Español</summary>
+
+La Prapanna haría bien en **vivir** en un lugar  
+**Santificado** por la presencia de Bhagavān y Bhāgavatas  
+y **capaz de promover** Sattva Guṇa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+प्रवृत्तिनिवृत्तिकळाले वल्ल कैङ्कर्यत्तैप् पण्णिक्कॊण्डु भगवद्भागवताभिमानविषयमाऩ सत्त्वोत्तर क्षेत्रत्तिले वसिक्कैयुमुचितम्। 
+</details>
+
+
+## आपद्-वासः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> निगृहीतेन्द्रिय-ग्रामो  
+यत्र यत्र वसेन् नरः ।  
+तत्र तत्र कुरु-क्षेत्रं  
+नैमिशं पुष्करन् तथा॥  
+(इतिहास-समुच्चयः २७-१८।) 
+
+ऎऩ्ऱु सॊल्गिऱविदु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> निगृहीतेन्द्रिय-ग्रामो  
+यत्र यत्र वसेन् नरः ।  
+तत्र तत्र कुरु-क्षेत्रं  
+नैमिशं पुष्करन् तथा॥  
+(इतिहास-समुच्चयः २७-१८।) 
+
+इत्य्-उक्तिर् अपि, 
+</details>
+
+<details><summary>विषयः</summary>
+
+वासः, देशः
+</details>
+
+<details><summary>English</summary>
+
+It is true that it is said: 
+
+> “ The places where a man in full control of his senses lives —   
+> that place has in it Kurukṣetra, Naimisa and, likewise, Pushkaram." 
+</details>
+
+<details><summary>Español</summary>
+
+Es cierto que **se dice**:
+
+> “Los lugares donde **vive** un hombre en pleno control de sus sentidos -  
+> Ese lugar **tiene** en él Kurukṣetra, Naimisa y, del mismo modo, Pushkaram ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘निगृहीतेन्द्रियग्रामो यत्रयत्र वसेन्नरः ।  
+तत्र तत्र कुरुक्षेत्रं नैमिशं पुष्करन्तथा॥’’  
+(इतिहास-समुच्चयः २७-१८।) ऎऩ्ऱु सॊल्गिऱविदु 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**गत्य्-अन्तरम् इल्लाद** बोदु  
+एद् ऎऩुम् ऒरु देशत्तिले **वसित्तालुम्**  
+इवऩ् वासत्ताले अद्-देशमुम् **प्रशस्तम् आम्** ऎऩ्गैक्क् आग। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+गत्य्-अन्तराभावे  
+यस्मिन् कस्मिंश्चिद् अपि देशे वसेच् चेत्,  
+
+> एतद्-वासात्  
+स देशः प्रशस्त  
+
+इति प्रतिपादनार्था । 
+</details>
+
+
+<details><summary>English</summary>
+
+But this should be taken to mean that,  
+when a righteous man lives in some insignificant place,  
+because of his inability to live elsewhere,  
+that place becomes sanctified by his residence. 
+</details>
+
+<details><summary>Español</summary>
+
+Pero esto **debe tomarse** que signifique eso,  
+Cuando un hombre justo **vive** en algún lugar insignificante,  
+Por su **incapacidad para vivir** en otro lugar,  
+Ese lugar **se santifica** por su residencia.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+गत्यन्तरमिल्लादबोदु एदॆऩुमॊरु देशत्तिले वसित्तालुमिवऩ् वासत्ताले अद्देशमुम् प्रशस्तमामॆऩ्गैक्काग। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इदुक्कु शाण्डिली-वृत्तान्तम् उदाहरणम् आगक् कण्डुगॊळ्वदु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अस्य शाण्डिलीवृत्तान्त उदाहरणत्वेन द्रष्टव्यः । 
+</details>
+
+
+<details><summary>English</summary>
+
+This is illustrated in the episode of Sandili.
+
+[ Sandili, a great devotee of the Lord, was living on an island in the sea.  
+Garuḍa, who saw it, wondered why she should dwell in such a mean place.  
+Owing to this offensive thought,  
+his wings were burnt away  
+and he recovered their use only after obtaining her pardon.]
+</details>
+
+<details><summary>Español</summary>
+
+Esto **se ilustra** en el episodio de Sandili.
+
+[Sandili, un gran devoto del Señor,  
+**vivía** en una isla en el mar.  
+Garuḍa, que lo **vio**, **se preguntó** por qué **debería habitar** en un lugar tan malo.  
+Debido a este **pensamiento** ofensivo,  
+sus alas **fueron quemadas**  
+y él **recuperó su uso** solo después de **obtener** su perdón.]
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इदुक्कु शाण्डिलीवृत्तान्तमुदाहरणमागक् कण्डुगॊळ्वदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+आगैयाल्  
+
+> ज्ञान-सम-कालम् +++(प्रपत्ति-मन्त्रम्)+++ उक्त्वा  
+कैवल्यं **याति** गतशोकः ।  
+तीर्थे श्व-पच-गृहे वा  
+**नष्ट**-स्मृतिर् अपि **परित्यजन्** देहम्॥  
+(वराहपुराणम्।)  
+
+ऎऩ्ऱु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अतः
+
+> ज्ञान-सम-कालम् +++(प्रपत्ति-मन्त्रम्)+++ उक्त्वा  
+कैवल्यं **याति** गतशोकः ।  
+तीर्थे श्व-पच-गृहे वा  
+**नष्ट**-स्मृतिर् अपि **परित्यजन्** देहम्॥  
+(वराहपुराणम्।)  
+
+इति 
+</details>
+
+<details><summary>विषयः</summary>
+
+मृत्युः
+</details>
+
+
+<details><summary>English</summary>
+
+Therefore the statement in the following śloka  :-- 
+
+> "The man who performs prapatti by uttering this mantra  
+> at the very time when he attains this knowledge --  
+> that man attains mokṣa  
+> wherever he may die losing his consciousness  
+> whether it be in a holy place of pilgrimage  
+> or the house of one who eats dog's flesh" 
+</details>
+
+<details><summary>Español</summary>
+
+Por lo tanto, la declaración en el siguiente Śloka:-
+
+> "El hombre que **realiza** Prapatti **pronunciando** este mantra  
+> En el momento en que **alcanza** este **conocimiento** -  
+> Ese hombre **alcanza** Mokṣa  
+> Donde **sea** que **pueda morir, perdiendo** su conciencia  
+> ya **sea** en un lugar sagrado de peregrinación  
+> o la casa de alguien que **come** carne de perro "
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+आगैयाल्  
+‘‘ज्ञानसमकालमुक्त्वा कैवल्यं याति गतशोकः ।  
+तीर्थे श्वपचगृहे वा नष्टस्मृतिरपि परित्यजन्देहम्’’  
+(वराहपुराणम्।)  
+ऎऩ्ऱु 
+</details>
+
+
+## मोक्षे नान्तरम्
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> शरीर-पातत्तुक्कुम् ऒरु देश-विशेष-नियमम् इल्लैय् 
+
+ऎऩ्ऱ् अदुवुम्  
+
+> ऎप्-पडिक्कुम् फलत्तिल् इऴव् इल्लैय्  
+
+ऎऩ्गैक्क् आग।  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+शरीर-पात-विषये देश-विशेष-नियमो नास्तीत्य् एतद् अपि  
+सर्वथा फल-हानिर् नास्तीत्य् एतद्-अर्थम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+this statement that there is no special place prescribed for death,  
+should also be understood in the light of what has been said above,  
+as pointing out that this will be no hindrance to the attainment of mokṣa .
+</details>
+
+<details><summary>Español</summary>
+
+Esta afirmación de que **no hay** un lugar especial prescrito para la muerte,  
+también **debe entenderse** a la luz de lo que se **ha dicho** anteriormente,  
+como **señalar** que esto **no será obstáculo** para el **logro** de Mokṣa.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+शरीरपातत्तुक्कुम् ऒरु देशविशेष नियममिल्लैयॆऩ्ऱदुवुम् ऎप्पडिक्कुम् फलत्तिलिऴविल्लैयॆऩ्गैक्काग।  
+</details>
+
+
+## दिव्य-देश-प्राशस्तयः
+
+### श्रीरङ्गम्
 <details open><summary>विश्वास-प्रस्तुतिः (त॰प॰)</summary>
 
-आरादवरुळमुदम् पॊदिन्द कोयि  
-लम्बुयत्तो नयोत्तिमन्नर्क् कळित्तगोयिल्  
+आरादव् अरुळ् अमुदम् **पॊदिन्द**+++(=भरित)+++ कोयिल्  
+अम्बुयत्तोन्+++(=अम्बुजवान् ब्रह्मा)+++ अयोत्ति-मन्नर्क्कळ्+++(=स्थिरा →राजभ्यः)+++ इत्त कोयिल्  
 तोराद तनिवीरन् तॊऴुदगोयिल्  
 तुणैयान वीडणऱ्‌कुत् तुणैयाङ्गोयिल्  
 सेराद पयनॆल्लाञ् जेर्क्कुङ्गोयिल्  
