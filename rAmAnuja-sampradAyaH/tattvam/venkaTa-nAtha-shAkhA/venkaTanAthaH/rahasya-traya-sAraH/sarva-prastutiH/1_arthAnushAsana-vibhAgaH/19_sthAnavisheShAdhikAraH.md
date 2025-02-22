@@ -19,6 +19,13 @@ Adecuado para la residencia de la Prapanna.
 Página 249
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+॥ श्रीः ॥  
+श्रीसारबोधिनीव्याख्यायां  
+स्थानविशेषाधिकारः ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -71,6 +78,18 @@ generalmente **tienen** esta aptitud (en estos dos aspectos).
 प्रायो देशा मुनिभिरुदिताः प्रायिकौचित्यवन्तः ॥ ४२ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि अपराधपरिहारत्तैच् चॊल्लि इङ्गिरुन्दगालत्तिल् निरपराधकैङ्कर्यरूपफलानुभवानुगुणमाग वासस्थानत्तैयिव्वधिकारत्तिल् सॊल्लप्पोगिऱवराय् अधिकारार्थत्तै श्लोकत्ताले सङ्ग्रहिक्किऱार् यत्रैकाग्र्यमिति । यत्र – यस्मिन्स्थले, भगवत्पादसेवार्चनादेः – भगवत्पादसेवार्चनादिरूपकैङ्कर्यत्तिऱ्कु, ऐकाग्र्यं – चित्तसमाधानम्, भवति उण्डागुमो, भक्तऩुक्कु उपायानुष्ठानत्तिल् ‘‘यत्रैकाग्रता तत्राविशेषात्’’ ऎऩ्गिऱबडि चित्तैकाग्रतानुगुणमाऩ देशविशेषम् वासस्थानमाऩाऱ्पोले प्रपन्नऩुक्कुम् प्रपत्तिफलमाऩ कैङ्कर्यानुष्ठानत्तिल् एकाग्रतानुगुणमाऩ देशविशेषम् वासस्थानमामॆऩ्ऱु करुत्तु। यत्र ऎन्दस्थलत्तिल्, ऐकान्त्यव्यवसितधियः – भगवदेकोपायत्व भगवदेकप्रयोजनत्वरूप ऐकान्त्यत्तिल्, निश्चितबुद्धियाऩ, यस्य कस्यापि लाभः – जात्यादिविशेषानादरेण तिरुक्कच्चिनम्बिबोऩ्ऱ ऎवरावदॊरु भागवतवदरुडैय सहवासम् नेरुमो, इङ्गु यत्र ऎऩ्ऱु सॊल्लि मऱुबडियुम् यत्र ऎऩ्ऱु सॊल्लुवदाल् चित्तैकाग्र्यभागवतसहवासान्यतरानुगुणमाऩ देशविशेषमुम् वासस्थानमागलामॆऩ्ऱु सूचितम्। अदावदु सेवार्चानादियोग्यमाऩ दिव्यदेशमागवुमाम्। अदऩ्ऱिये भागवतसहवासमात्रमुळ्ळ ग्रामविशेषादिगळागवुमामॆऩ्ऱु तिरुवुळ्ळम्। निगृहीतेन्त्रियग्रामो यत्र यत्र वसेन्नरः । तत्र तत्र कुरुक्षेत्रं नैमिशं पुष्करन्तथा’’ ऎऩ्बदै इङ्गु अनुसन्धिक्कवुम्। इह - इन्द लोगत्तिल्, तत् - अन्द, वासस्थानं – वासस्थानमाऩदु, कृतिनां – सुकृतिकळाऩ प्रपन्नर्गळुक्कु, वैकुण्ठकल्पं -वैकुण्ठ-तुल्यमाग, भाति – प्रकाशिक्किऱदु।  
+
+आऩाल् ‘‘अयोद्ध्या मधुरा माया काशी काञ्चीह्यवन्तिका’’ इत्यादिगळिल् सिल देशङ्गळै महर्षिकळ् कुऱिप्पिट्टुच् चॊल्लुवाऩे ऩॆऩ्ऩ वरुळिच्चॆय्गिऱार् प्राय इति । इङ्गु प्रायश्शब्दम् बहुशब्दपर्यायम्। मुनिभिः - रिषिगळाले, उदिताः - सॊल्लप्पट्टदुगळाऩ, प्रायो देशाः – अयोद्ध्या मुदलाऩ बहुविध देशङ्गळ्, प्रायिकौचित्यवन्तः – प्रायशः भगवत्-सेवार्चनादिगळुक्क् अनुगुणम् आऩ चित्तैकाग्रता-जनकता-रूपम् आयुम्,  
+परमैकान्ति-भागवत-सहवासादि-रूपम् आयुम् उळ्ळ औचित्यत्तोडु कूडिऩदुगळे।  
+महर्षिकळॆल्लाम् इव्विरण्डु गुणङ्गळो अन्यतर-गुणमो उळ्ळ देशत्तैये नाम्ना सङ्कीर्तनम् पण्णिऩार्गळ् आगैयाल्  
+इव्व् इरण्डिल् अन्यतर-गुणम् उळ्ळ ऎन्द स्थलम् आऩालुम् अदु प्रपन्नर्गळुक्कु वासस्थानमागलामॆऩ्ऱु करुत्तु। +++(5)+++ 
+</details>
+
+
+
 ## न स्व-स्व-देश-विशेष-बन्धः
 <details><summary>English</summary>
 
@@ -112,6 +131,11 @@ de una manera que **sería inofensiva y agradable** para el Señor.
 <details><summary>मूलम्</summary>
 
 इरुन्द नाळिप्पडि स्वयंप्रयोजनमाग निरपराधानुकूलवृत्तियिले रुचियुम् त्वरैयुमुडैयवऩाय्, 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+श्लोकोक्तमाऩ इव्वर्थत्तै प्रश्नपूर्वकमाग उपपादित्तु दृढीकरिक्किऱार् इरुन्दनाळि त्यादिना । इरुन्द नाळ् - आर्तऩऩ्ऱिक्के दृप्तऩाय् देहावसानत्तिल् मोक्षङ्गोलिऩ प्रपन्नऩुक्कु देहावसानपर्यन्तमाग इन्द लोकत्तिलिरुन्द नाळ्, इप्पडि - कीऴ् अधिकारङ्गळिल् सॊऩ्ऩबडि, अनुकूलवृत्तियिले - भागवतकैङ्कर्यपर्यन्तमाऩ भगवत्कैङ्कर्यत्तिले, रुचियुम् - आसैयुम्, त्वरैयुम् - श्रद्धैयुम्, उत्कटप्रवृत्तियुमॆऩ्ऱबडि। इदऩाल् इवऩुक्कु श्रद्धापूर्वककैङ्कर्यकरणत्तिऱ्कु स्थानविशेषमवश्यं निरूपणीयमॆऩ्ऱु द्योतितम्। 
 </details>
 
 
@@ -161,6 +185,14 @@ de una manera que **sería inofensiva y agradable** para el Señor.
 (विष्वक्सेन संहिता।)  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+एकान्तीत्यादि । एकान्ती – भगवाऩैये प्राप्यमायुम् प्रापकमायुम् निश्चयित्तिरुक्किऱ प्रपन्नऩ्; ग्रामकुलादिभिः – प्रसिद्धग्रामत्तालुम्, प्रसिद्धकुलादिगळालुम्, न व्यपदेष्टव्यः - अवैगळिवऩुक्कु प्राप्यतया प्रापकतया वा उद्दिष्टङ्गळल्लामैयाले तदभेदेन वङ्गीबुरम्, नडादूर्, वात्स्यरॆऩ्ऩु माप्पोले व्यपदेष्टव्यरागमाट्टार्। किन्तु विष्णुना - अवरुक्कु प्राप्यऩायुम् प्रापकऩायुमुळ्ळ भगवाऩाले, भगवन्नामत्ताले यॆऩ्ऱबडि। अदावदु हरिः पॆरुमाळे! स्वामिनः! इत्य्-आदिनामङ्गळालेय् ऎऩ्ऱद् आय् इऱ्ऱु।+++(5)+++  
+व्यपदेष्टव्यः – व्यपदेशिक्कवेण्डियवऩ्।  
+अदिल् हेतुवैक्काट्टुगिऱार् तस्यसर्वं स एव हीति । तस्य – परमैकान्तियाऩ प्रपन्नऩुक्कु सर्वम् - प्राप्यमायुम् प्रापकमायुम् मातापिताभ्रातावायुमुळ्ळ सर्वमुम्, हि – यस्मात्, स एव – भगवानेव, तस्मात्तन्नाम्ना व्यपदेष्टव्य इति भावः । 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ऎऩ्ऩुम् बडिय् आय् इरुक्किऱ परमैकान्तिक्कु  
@@ -198,6 +230,11 @@ cuál es el lugar **adecuado** para su **residencia**,
 <details><summary>मूलम्</summary>
 
 ऎऩ्ऩुम्बडियायिरुक्किऱ परमैकान्तिक्कु वृत्तिक्कनुगुणमागवासस्थानविशेषमॆदॆऩ्ऩिल्,
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+ऎऩ्ऩुम्बडियायिरुक्किऱ परमैकान्तिक्कु - ग्रामकुलादि कळाले व्यपदेश्यऩऩ्ऱॆऩ्ऱिरुक्कुम् परमैकान्तिक्कु, इदऩाल् प्रसिद्धग्रामादिगळेपरमैकान्तिक्कु वासस्थानङ्गळागवेण्डामो? अप्पडियाऩाल् ग्रामप्रसिद्धियैयिट्टु तऩक्कुम् व्यपदेशादिगळैप् पॆऱलामे ऎऩ्गिऱ शङ्कादूरोत्सारिता । अन्द व्यपदेशम् निषिद्धमागैयाले अपेक्षणीयमऩ्ऱिऱे वृत्तिक्कनुगुणमागवासस्थानविशेषमॆदॆऩ्ऩिलिति । 
 </details>
 
 
@@ -255,6 +292,27 @@ Por lo tanto, el lugar **adecuado** para la residencia en la actualidad
 आर्यावर्तादिपुण्यदेशङ्गळ् युगस्वभावत्ताले यिप्पोदु व्याकुलङ्गळाऩबडियाले चातुर्वर्ण्यधर्मम् प्रतिष्ठितमाऩविडत्तिले वसिप्पाऩॆऩ्गिऱदुवे इप्पोदैक्कु उपादेयम्। 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+भागवतकैङ्कर्यपर्यन्तमाऩ भगवत्कैङ्कर्यत्तिऱ्कनुगुणमाग वासस्थानत्तै इऩ्ऩदॆऩ्ऱु निर्णयिक्क वेण्डुमॆऩ्बदु प्रश्नार्थम्। पारिशेष्यात् ताऩ् सॊऩ्ऩ लक्षणमुळ्ळ प्रदेशमे वासस्थानमॆऩ्ऱु उत्तरमरुळिच्चॆय्गिऱार् आर्यावर्तादिपुण्यदेशङ्गळित्यादिना । 
+
+> ‘‘आर्यावर्तः पुण्यभूमिर्  
+> मद्ध्यं विन्ध्यहिमागयोः’’ 
+
+ऎऩ्ऱु पुण्यतया प्रसिद्धङ्गळाऩ विन्ध्यपर्वतत्तिऱ्कुम् हिमवत्पर्वतत्तिऱ्कुम् मध्यत्तिलुळ्ळ पुण्यदेशङ्गळॆऩ्ऱबडि। युगस्वभावत्ताले - कलियुगस्वभावत्ताले व्याकुलङ्गळाऩबडियाले इति ।  
+इदऩाल् व्याकुलङ्गळाऩ आर्यावर्तादिगळ् परमैकान्तियाऩ प्रपन्नऩुक्कु इप्पोदु वासस्थानम् आगाव् ऎऩ्ऱु ज्ञापिक्कप्पट्टदु।  
+चातुर्वर्ण्यधर्मम् प्रतिष्ठितमाऩ इडत्तिले वसिप्पाऩॆऩ्गिऱदुवे इति । अदावदु ऒरु देशविषेशत्तैक् कुऱिप्पिट्टुच्चॊल्लामल् 
+
+> ‘‘यत्र वेदाश्च यज्ञाश्च  
+> तपस्सत्यं दमश्शमः ।  
+> स वै देशो हि वस्सेव्यो  
+> मा वोऽधर्मः पदा स्पृशेत्’’ 
+
+ऎऩ्ऱु वेदयज्ञतपस्सत्यादिगळाऩ चातुर्वर्ण्यधर्मङ्गळ् ऎङ्गु नडक्किऩ्ऱऩवो अन्द देशमे उङ्गळुक्कु सेव्यमॆऩ्ऱुम्, अदिल् वसित्ताल् उङ्गळुक्कु अधर्मस्पर्शम् वारादॆऩ्ऱुम्, सामान्यमागच् चॊल्लप्पट्टिरुक्कु मदुवे ऎऩ्ऱबडि।  
+इप्पोदैक्क् उपादेयम् - इन्द कलिकालत्तिलुपादेयस्थलम्। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अव्व् इडङ्गळ्-तऩ्ऩिलुम् 
@@ -303,6 +361,12 @@ Se **ha dicho**:-
 अव्विडङ्गळ् तऩ्ऩिलुम् 'करुन्दड मुगिल्वण्णऩैक् कडैक्कॊण्डु कैदॊऴुम् पत्तर्गळिरुन्दवूरिलिरुक्कुम् माऩिडरॆत्तवङ्गळ् सॆय्दार् कॊलोव्'(पॆरियाऴ्वार् तिरुमॊऴि ४-४-७।)  ऎऩ्गिऱबडिये 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+चातुर्वर्ण्यधर्मम् नडैयाडुगिऱ देशत्तिलुम् भागवतोत्तरमाऩ देशम् परिग्राह्यमॆऩ्गिऱार् अव् विडङ्गळ् तऩ्ऩिलुमिति । करुन्दडमुगिल्वण्णऩै - करुत्तदायुम् पॆरुत्तदायुमुळ्ळ सेचनोन्मुखमाऩ मेघम् पोऩ्ऱ वर्णत्तै युडैय कृष्णऩै, कडैक् कॊण्डु - तङ्गळुक्कु रक्षकऩाग शरणम् पुगुन्दु, अथवा कडै - नैच्यम्, नैच्यत्तै मुऩ्ऩिट्टुक् कॊण्डॆऩ्ऱबडि। कैदॊऴुम् - कैयाले तॊऴुम्, प्रणामार्चनादिगळैप् पण्णुमॆऩ्ऱबडि, पत्तर्गळ् - भगवद्भक्तर्गळ्, ऎत्तवङ्गळ्सॆय्दार्गॊलो - पूर्वजन्मत्तिल् ऎन्दविदमाऩ तवङ्गळैच् चॆय्दार्गळो। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भागवतोत्तरम् आऩ देशम्  
@@ -333,6 +397,13 @@ Esas regiones que **están habitadas** por Bhāgavatas
 <details><summary>मूलम्</summary>
 
 भागवतोत्तरमाऩ देशम् मुमुक्षुवुक्कु परिग्राह्यम्। 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+भागवतोत्तरमाऩ देशम् मुमुक्षुवुक्कु परिग्राह्यमिति । इप्पासुरत्तिल् भागवतोत्तमर् वसिक्कुम् ऊरिल् वसिप्पदे  
+जन्मान्तर-तपस्साले लभ्यम् ऎऩ्ऱदाल्  
+अम्मादिरियाऩ स्थलमे प्रपन्नऩुक्कु परिग्राह्यमाऩ सर्वोत्तरमाऩ वासस्थानमामॆऩ्ऱु तात्पर्यम्। 
 </details>
 
 
@@ -389,6 +460,12 @@ Aunque se dice
 ऎऩ्ऩच्चॆय्दे  
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इन्द युगत्तिल् अप्पडिप्पट्ट भागवतर्गळुमुण्डोवॆऩ्ऩ वरुळिच्चॆय्गिऱार् कलौ इत्यादिना । कलियुगत्तिल् जनङ्गळॆल्लाम् पाषण्डोपहतर्गळाय्क्कॊण्डु जगत्पतियाऩ विष्णुवै पूजिक्कम्माट्टार्गळॆऩ्गै। ऎऩ्ऩच्चॆय्दे - ऎऩ्ऱु कलियिऩ् कॊडुमैयैच् चॊल्लच्चॆय्दे यॆऩ्ऱबडि। 
+</details>
+
+
 ### द्रमिडेषु
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -435,6 +512,12 @@ Aunque se dice
 क्वचित् क्वचिन्महाभागा  
 द्रमिडेषु च भूरिशः ॥  
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+कलौ खल्वित्यादि । कलौ - कलियुगत्तिल्, नारायणपरायणाः – नारायणऩैये प्राप्यऩायुम् प्रापकऩायुम् निश्चयित्तिरुक्कुम्, महाभागाः – महाभाग्यशालिकळाऩ भागवतर्गळ्। क्वचित् क्वचित् – द्रमिडदेशव्यतिरिक्तस्थलङ्गळिल् सिऱ्सिलविडङ्गळिल्, भविष्यन्ति खलु । खलु प्रसिद्धौ । द्रमिडेषु च – द्रमिडदेशङ्गळिलोवॆऩ्ऩिल्, भूरिशः भविष्यन्ति - अनेग इडङ्गळिल् अनेगर्गळ् आविर्भविप्पार्गळॆऩ्गै। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -509,6 +592,11 @@ Y de nuevo:
 (भागवतम् ११-५-३८) 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इङ्गु नारायणपरायणाः ऎऩ्ऱदाल् तादृशर्गळाऩ आऴ्वार्गळुम्, आचार्यर्गळुम् विवक्षितर्गळ्। अदै स्पष्टमाक्कुगिऱार् ताम्रपर्णीत्यादिना । आऴ्वार्गळवदरित्त स्थलङ्गळिऩ् समीबत्तिलुळ्ळ नदिगळैच्चॊल्लुगैयाल् अन्द नदीतीरत्तिलवदरित्त आऴ्वार्गळे नारायणपरायणशब्दप्रतिपाद्यर्गळॆऩ्बदु स्पष्टम्। आऴ्वार्गळिल् श्रेष्ठराय् अवर्गळुक्कु अङ्गिपोलि रुक्कुम् नम्माऴ्वारुडैय आविर्भावस्थलत्तिलुळ्ळ नदियै मुन्दुऱक्काट्टुगिऱार् ताम्रपर्णीनदी यत्रेति । यत्र नदी ऎऩ्गिऱ पदङ्गळुक्कु उत्तरत्राप्यनुषङ्गः । यत्र - यत्र च स्थले, कृतमाला – वैगैयाऱो, इदिऩ् करैयिल् पॆरियाऴ्वारुम् आण्डाळुम् अवदरित्तार् कळ्। यत्र च पयस्विनी नदी - ऎन्द स्थलत्तिल् पालाऱो, इदिऩ् करैयिल् तिरुमऴिसैप् पिराऩुम्, मुदलाऴ्वार्गळ् मूवरुम् अवदरित्तार्गळ्। यत्र च महाभागा कावेरी नदी – रङ्गनाथऩ् मुदलिय ऎम्बॆरुमाऩ्गळुक्कु शैत्योपचारम् पण्णुम्बडियाऩ महाभाग्यत्तैयुडैय कावेरीनदीयो, इदिऩ् करैयिल् तॊण्डरडिप्पॊडियाऴ्वार् तिरुप्पाणाऴ्वार्, तिरुमङ्गैयाऴ्वार्, नाथमुनिकळ्, आळवन्दार् मुदलाऩ आचार्यर्गळवदरित्तार्गळ्। यत्र च प्रतीची महानदी - ऎङ्गु पश्चिमवाहिनियाऩ पॆरियाऱो, इदिऩ् करैयिल् कुलशेखरप्पॆरुमाळ् अवदरित्तार्। इन्द नदीतीरङ्गळिल्वसिप्पवर्गळ् नारायणपरायणर्गळाग आगुगैक्कु इन्द नदिगळिऩ् तीर्थत्तिल् स्नानपानादिगळे हेतुक्कळॆऩ्गिऱार् ये पिबन्तीत्यादिना 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -536,6 +624,12 @@ Y de nuevo:
 
 इत्यादिगळिले कलियुगत्तिल् भागवतर्गळ् वसिक्कुम् देशविशेषञ्जॊल्लुगैयाले 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+इत्यादिगळिले इत्यादि । कलियुगत्तिलुम् नारायणपरर्गळुण्डॆऩ्ऱुम्, अवर्गळ् वसिक्कुम् प्रदेशङ्गळ् इवैगळॆऩ्ऱुम् पुराणङ्गळ् सॊल्लुकैयाल् इन्द युगत्तिलुम् भागवतर्गळ् वसिक्कुम् प्रदेशङ्गळ् परिग्राह्यङ्गळागक् कुऱैयिल्लै यॆऩ्ऱबडि।  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -617,6 +711,8 @@ En Śrī Narayaniya los Devas y los Rishis **dijeron**:
 (भारतम् शान्ति-पर्व ३४९-८५)  
 ऎऩ्ऱु देवर्गळुम् ऋषिकळुम् विण्णप्पञ्जॆय्य,  
 </details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1567,13 +1663,50 @@ como **señalar** que esto **no será obstáculo** para el **logro** de Mokṣa.
 
 आरादव् अरुळ् अमुदम् **पॊदिन्द**+++(=भरित)+++ कोयिल्  
 अम्बुयत्तोन्+++(=अम्बुजवान् ब्रह्मा)+++ अयोत्ति-मन्नर्क्कळ्+++(=स्थिरा →राजभ्यः)+++ इत्त कोयिल्  
-तोराद तनिवीरन् तॊऴुदगोयिल्  
-तुणैयान वीडणऱ्‌कुत् तुणैयाङ्गोयिल्  
-सेराद पयनॆल्लाञ् जेर्क्कुङ्गोयिल्  
-सॆऴुमऱैयिन् मुदलॆऴुत्तुच् चेर्न्दगोयिल्  
-तीराद विनैयनैत्तुन् दीर्क्कुङ्गोयिल्  
-तिरुवरङ्गमॆनत् तिगऴुङ्गोयिल् ताने.
+तोराद+++(=अपराजित)+++-तनि-वीरन् तॊऴुद+++(=पूजित)+++ गोयिल्  
+तुणैय्+++(=सहाय)+++ आन वीडणऱ्‌कुत्+++(=विभीषणाय)+++ तुणैय् आङ् कोयिल्  
+सेराद पयन्+++(=फलम्)+++ ऎल्लाञ् शेर्क्कुङ् कोयिल्  
+सॆऴु+++(=श्लाघ्य)+++-मऱैयिन् मुदल् ऎऴुत्तुच् चेर्न्द कोयिल्  
+तीराद विनैय्+++(=कर्म)+++ अनैत्तुन् तीर्क्कुङ् कोयिल्  
+तिरुव्-अरङ्गम् ऎनत् तिगऴुङ्+++(=प्रकाशमानः)+++ कोयिल् ताने.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१५५]] 
+
+अपर्याप्त-कृपामृत-भरितो देवालयः, 
+अम्बुजासनेनायोध्या-राजाय दत्तो देवालयः  
+अपराजितेनाद्वितीय-वीरेण आराधितो देवालयः,  
+सहाय-भूतस्य विभीषणस्य सहायभूतो देवालयः,  
+अलब्धानां फलानां सर्वेषां लम्भको देवालयः श्लाघ्य-वेद-प्रथमाक्षर-युक्तो देवालयः,  
+निवर्तितुम् अयोग्यानां कर्मणां सर्वेषां निवर्तको देवालयः, श्रीरङ्गमिति प्रकाशमानो देवालयः ॥ 
+</details>
+
+<details><summary>English</summary>
+
+(1) The temple or Vimana which is renowned as Śrīraṅgam,  
+the temple or vimāna which was granted to the rulers of Ayodhya by the lotus-born Brahma,  
+the temple or vimana where the invincible and incomparable Śrī Rāma worshipped,  
+the temple or vimāna which is the refuge of Vibhishana, the ally of Śrī Rāma,  
+the temple or vimāna, which secures all sorts of benefits unattainable elsewhere,  
+the temple or vimāna which has the shape of praṇava,  
+the temple or vimāna which destroys all sins, however insurmountable they may be,  
+that temple of Śrīraṅgam is indeed full of the nectar of grace which never satiates.
+</details>
+
+<details><summary>Español</summary>
+
+(1) El templo o vimana que **es reconocida** como Śrīraṅgam,  
+el templo o vimāna que **fue otorgado** a los gobernantes de Ayodhya por el Brahma **nacido** en el loto,    
+El templo o vimana donde **adoraba** el invencible e incomparable Śrī Rāma,  
+El templo o vimāna que **es** el refugio de Vibhishana, el aliado de Śrī Rāma,  
+el templo o vimāna, que **asegura** todo tipo de beneficios inalcanzables en otros lugares,  
+el templo o vimāna que **tiene** la forma de praṇava,  
+el templo o vimāna que **destruye** todos los pecados, por insuperables que sean,  
+Ese templo de Śrīraṅgam **está lleno** del néctar de gracia que **nunca se siente**.
+</details>
+
 
 <details><summary>मूलम् (त॰प॰)</summary>
 
@@ -1587,7 +1720,59 @@ como **señalar** que esto **no será obstáculo** para el **logro** de Mokṣa.
 तिरुवरङ्गमॆनत् तिगऴुङ्गोयिल् ताने.
 </details>
 
-(1) The temple or Vimana which is renowned as Śrīraṅgan, the temple or vimāna which was granted to the rulers of Ayodhya by the lotus-born Brahma, the temple or vimana where the invincible and incomparable ŚrīRāma worshipped, the temple or vimāna which is the refuge of Vibhishana, the ally of ŚrīRāma, the temple or vimāna, which secures all sorts of benefits unattainable elsewhere, the temple or vimāna which has the shape of praṇava, the temple or vimāna which destroys all sins, however insurmountable they may be that temple of Śrīraṅgam is indeed full of the nectar of grace which never satiates.
+### वेङ्कटगिरिः
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कण्णन्-अडिय्-इणैय्+++(=२)+++ ऎमक्कुक् **काट्टुम्** वॆऱ्‌पुक्+++(=गिरिः)+++  
+कडु-विनैयर्+++(=कर्मवताम्)+++ इरु+++(=२→पुण्य-पापे)+++-विनैयुङ् **कडियुम्** वॆऱ्‌पुत्  
+तिण्णम्+++(=दृढम्)+++ इदु वीड् ऎन्नत् **तिगऴुम्**+++(=काशमानः)+++ वॆऱ्‌पुत्  
+तॆळिन्द+++(=शुद्ध)+++-पॆरुन्-तीर्थङ्गळ् **सॆऱिन्द** वॆऱ्‌पुप्  
+पुण्णियत्तिन् **पुगल्**+++(=प्रवेश)+++ इद् ऎन्नप् **पुगऴुम्**+++(=स्तुतः)+++ वॆऱ्‌पुप्  
+पॊन्न्-उलगिऱ्‌ भोगम् ऎल्लाम् **पुणर्क्कुम्**+++(=उत्पादकः)+++ वॆऱ्‌पु  
+विण्ण्-अवरुम् अण्ण्-अवरुम् **विरुम्बुम्**+++(=लपितः)+++ वॆऱ्‌पु  
+वेङ्कट-वॆऱ्‌प् ऎन **विळङ्गुम्**+++(=काशमानो)+++ वेद-वॆऱ्‌पे.
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कृष्णस्य चरण-द्वन्द्वम् अस्माकं **प्रदर्शयिता** पर्वतः  
+क्रूर-कर्मणां द्वि-विधस्यापि कर्मणो **नाशकः** पर्वतः,  
+ध्रुवम् अयं मोक्ष इति **प्रकाशमानः** पर्वतः,  
+प्रसन्न-महा-तीर्थ-भरितः पर्वतः  
+पुण्यस्य प्रवेश-देशोऽयमिति **स्तुतः** पर्वतः,  
+स्वर्ग-लोके भोगानां सर्वेषाम् **उत्पादकः** पर्वतः  
+दिवि-षद्भिर् भू-वासिभिश् **चाभिलपितः** पर्वतः,  
+वेङ्कटपर्वत इति प्रकाशमानो वेदपर्वत एव ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+(2) The mountain which reveals to us the two feet of Śrīkṛṣṇa,  
+the mountain where wicked sinners get rid of both their punya and papa,  
+the mountain which is renowned as being indeed mokṣa itself,  
+the mountain on which flow holy streams with pellucid waters,  
+the mountain that is extolled as the abode of all righteous actions,  
+the mountain that secures all the enjoyments of Paramapada (the region of dazzling gold),  
+the mountain that is longed for by the eternal suris and the people of this earth -  
+that mountain is only the mountain described in the Vedas and famous as the Venkata Hills.
+</details>
+
+<details><summary>Español</summary>
+
+(2) La montaña que nos **revela** los dos pies de śrīkṛṣṇa,  
+La montaña donde los pecadores malvados **se deshacen** de su Punya y Papá,  
+la montaña que **es reconocida** como de hecho mokṣa,  
+la montaña en la que **fluye** arroyos santos con aguas peluídicas,  
+la montaña que se **exalta** como la **morada** de todas las acciones justas,  
+La montaña que **asegura** todos los placeres de Paramapada (la región de oro deslumbrante),  
+La montaña anhela los Suris eternos y la gente de esta tierra -  
+Esa montaña **es** solo la montaña **descrita** en los Vedas  
+y **famosa** como las colinas de Venkata.
+</details>
+
+
+<details><summary>मूलम्</summary>
 
 कण्णनडियिणैय् ऎमक्कुक् काट्टुम् वॆऱ्‌पुक्  
 कडुविनैयरिरुविनैयुङ् गडियुम् वॆऱ्‌पुत्  
@@ -1597,15 +1782,38 @@ como **señalar** que esto **no será obstáculo** para el **logro** de Mokṣa.
 पॊन्नुलगिऱ्‌ पोगमॆल्लाम् पुणर्क्कुम् वॆऱ्‌पु  
 विण्णवरु मण्णवरुम् विरुम्बुम् वॆऱ्‌पु  
 वेङ्गडवॆऱ्‌पॆन विळङ्गुम् वेदवॆऱ्‌पे.
+</details>
 
-(2) The mountain which reveals to us the two feet of Śrīkṛṣṇa, the mountain where wicked sinners get rid of both their puiya and papa, the mountain which is renowned as being indeed mokṣa  itself, the mountain on which flow holy streams with pellucid walers, the mountain that is extolled as the abode of all righteous actions, the mountain that secures all the enjoyments of Paramapada (the region of dazzling gold), the mountain that is longed for by the eternal sāiris and the people of this earth - that mountain is only the mountain described in the Vedas and famous as lhe Venkata Hills.
+### हस्ति-गिरिः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+उत्तमवमर्त्तल ममैत्तदो रॆऴिऱ्‌ ऱनुवुनुयर्त्त कणैयाल्  
+अत्तिरवरक्कन् मुडिबत्तु मॊरुगॊत्तॆन वुदिर्त्त तिऱलोन्  
+मत्तुऱुमिगुत्त तयिर्मॊय्त्तवॆणॆय् वैत्तदुणुमत्तनिडमा  
+मत्तिगिरिबत्तर्विनै तॊत्तऱवऱुक्कुमणियत्तिगिरिये.
+</details>
+
+<details><summary>मूलम्</summary>
 
 उत्तम वमर्त्तल ममैत्तदो रॆऴिऱ्‌ ऱनुवुनुयर्त्त कणैयाल्  
 अत्तिरवरक्कन् मुडिबत्तु मॊरुगॊत्तॆन वुदिर्त्त तिऱलोन्  
 मत्तुऱुमिगुत्त तयिर्मॊय्त्तवॆणॆय् वैत्तदुणुमत्तनिडमा  
 मत्तिगिरिबत्तर्विनै तॊत्तऱवऱुक्कुमणियत्तिगिरिये.
+</details>
 
-(3) Hastigiri (Kañcīpuram ) where dwells ŚrīRāma who, with his might and with his arrow discharged from his beautiful bow in the great battle-field, sh ook down the bunch of ten heads of the Rākṣasa who was powerful in the use of missiles and where dwells also Śrīkṛṣṇa, the great friend of man, who ate the rising batter kept by Yasoda, after churning the abundant curd into which the chura was pressed – this Hastigiri cuts off the sins of devotees leaving no trace of them behind. It does, of itself, the work of the Lord's chakra and lets the latter remain as a mere ornament to His hand :
+
+(3) Hastigiri (Kañcīpuram ) where dwells ŚrīRāma  
+who, with his might and with his arrow, discharged from his beautiful bow in the great battle-field,  
+shook down the bunch of ten heads of the Rākṣasa  
+who was powerful in the use of missiles  
+and where dwells also Śrīkṛṣṇa, the great friend of man,  
+who ate the rising butter kept by Yasoda,  
+after churning the abundant curd  
+into which the chura+++(=??)+++ was pressed –  
+this Hastigiri cuts off the sins of devotees  
+leaving no trace of them behind.  
+It does, of itself, the work of the Lord's chakra and lets the latter remain as a mere ornament to His hand :
 
 तेनार् कमलत् तिरुमगणादन् ऱिगऴ्न्दुऱैयुम्  
 वानाडुगन्दवर् वैयत्तिरुप्पिडम् वऩ्ऱरुमक्  
