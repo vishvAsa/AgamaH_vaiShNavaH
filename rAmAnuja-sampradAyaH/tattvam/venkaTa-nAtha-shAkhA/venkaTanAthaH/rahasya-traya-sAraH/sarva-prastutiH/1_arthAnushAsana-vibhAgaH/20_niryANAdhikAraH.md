@@ -3,20 +3,42 @@ title = "२० निर्याणाधिकारः"
 
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 ॥ श्रीः ॥  
 ॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
 ॥ श्रीमद्रहस्यत्रयसारे निर्याणाधिकारः ॥ २० ॥
 
-(20) THE CHAPTER ON THE DEPARTURE OF THE
+</details>
 
-SELF (FROM THE BODY) page255
+<details><summary>English</summary>
+
+(20) THE CHAPTER ON THE DEPARTURE OF THE SELF (FROM THE BODY)  
+page 255
+
+</details>
+
+<details><summary>Español</summary>
+
+(20) El capítulo sobre la partida del yo (del cuerpo)  
+Página 255
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+॥ श्रीः ॥  
+॥ श्रीमते निगमान्तमहादेशिकाय नमः ॥  
+॥ श्रीमद्रहस्यत्रयसारे निर्याणाधिकारः ॥ २० ॥
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-मनसि करणग्रामं प्राणे मनः पुरुषे च तं  
-झटिति घटयन् भूतेष्वेनं परे च तमात्मनि ।  
-स्वविदविदुषोरित्थं साधारणे सरणेर्मुखे  
-नयति परतो नाडीभेदैर्यथोचितमीश्वरः ॥ ४४ ॥
+मनसि करण-ग्रामं, प्राणे मनः, पुरुषे च तं,  
+झट्-इति **घटयन्**, भूतेष्व् एनं, परे च तम् आत्मनि ।  
+स्व-विद्--अ-विदुषोर् इत्थं साधारणे **सरणेर्** मुखे  
+**नयति** परतो नाडी-भेदैर् यथोचितम् ईश्वरः ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम् (सं॰प॰)</summary>

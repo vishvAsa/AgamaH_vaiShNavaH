@@ -1953,7 +1953,7 @@ y **famosa** como las colinas de Venkata.
 उत्तमव्-अमर्त्+++(=युद्ध)+++-तलम् **अमैत्तद्**+++(=स्थापितं)+++ ओर् ऎऴिऱ्+++(=प्रकाशमान)+++‌ +धनुव् **उयर्त्त**+++(=उत्क्षिप्त)+++-कणैयाल्+++(=बाणेन)+++  
 अत्तिरव्+++(=अस्त्र)+++-अरक्कन्+++(=राक्षस)+++ मुडि-बत्तुम् ऒरु कॊत्त्+++(=गुच्छ)+++ ऎनव् **उदिर्त्त** तिऱलोन् +++(=सामर्थ्यवतः)+++,  
 मत्थ्+++(=मन्थान)+++ उऱु+++(=वर्धित)+++ **मिगुत्त** तयिर् **मॊय्त्त**+++(=सङ्कुलित)+++ वॆणॆय्+++(=नवनीतम्)+++ **वैत्तद् उणुम्** अत्तन्+++(=आप्तन्)+++ **इडम् आम्**  
-अत्ति-गिरि भत्तर् विनै तॊत्त्+++(=विस्तारम्)+++-अऱव् अऱुक्कुम् अणिय्+++(=अलङ्कारः)+++ अत्-तिगिरिये+++(=चक्रं हि)+++.
+अत्ति-गिरि भत्तर् विनै तॊत्त्+++(=विस्तारम्)+++-अऱव् **अऱुक्कुम्**, +++(ततः)+++  अणिय्+++(=अलङ्कारः)+++ अत्-तिगिरिये+++(=चक्रं हि)+++.
 </details>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -2018,16 +2018,61 @@ y **deja que este** último **permanezca** como un mero adorno a su mano.
 मत्तिगिरिबत्तर्विनै तॊत्तऱवऱुक्कुमणियत्तिगिरिये.
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इऩि पॆरुमाळ् कोयिल्विषयमाग ऒरु पाट्टरुळिच्चॆय्गिऱार् उत्तम इत्यादि । उत्तम - श्रेष्ठमाऩ, ‘‘रामरावणयोर्यद्धं रामरावणयोरिव’’ ऎऩ्ऱु सदृशान्तरशून्यमागच् चॊल्लप्पट्ट, अमर् - युद्धत्तिऩुडैय, तलम् - तलत्तिल्, अमैत्तदु - स्थापिक्कप्पट्टदाय्,ओर् - अद्वितीयमाऩ, ऎऴिल् - उज्ज्वलमाऩ, तऩु - धनुस्सिले, उयर्त्त - सन्धानम् पण्णप्पट्ट, कणैयाल् - बाणत्ताल्, अत्तिरवरक्कऩ् - अस्त्रबलत्तैयुडैय राक्षसऩाऩ रावणऩुडैय, मुडि पत्तुम् - शिरस्सुगळ् पत्तैयुम्, ऒरु कॊत्तॆऩ - ऒरु पऩङ्गाय् कॊत्तै उदिर्त्ताप्पोले, उदिर्त्त - कीऴे तळ्ळिऩ, तिऱलोऩ् - सामर्थ्यशालियाऩ रामऩाय्, मत्तु - मत्तिऩाले, उऱुमिगुत्त - उऱुत्ति कडैयप्पट्ट, तयिर् - तयिरिले, मॊय्त्त - ऎऴुन्द, वॆणॆय् - वॆण्णॆयै, वैत्तदुणुम् - यशोदा पिराट्टि उरियिले वैत्तदै वाङ्गि अमुदुसॆय्द कृष्णरूपियायुमिरुक्किऱ। 
+
+अत्तऩिडमाम् -  
+
+> ‘‘रामो द्विर्नाभिभाषते’’  
+
+> ‘‘द्यौः पतेत् पृथिवी शीर्येत्  
+हिमवान् शकली भवेत् ।  
+शुष्येत् तोय-निधिः कृष्णे  
+न मे मोघं वचो भवेत्’’ 
+
+ऎऩ्ऱु आप्तर्गळागच् चॊल्लप्पट्ट इरुवरुम् अर्चावतारम् पण्णि विरुप्पत् तोडु वसिक्कुमिडमाम्।  
+अत्तिगिरि - पॆरुमाळ् कोयिलाऩ हस्तिगिरि याऩदु, पत्तर्विऩै - आश्रितर्गळाऩ भक्तर्गळुडैय पाबत्तै, तॊत्तऱ - काम्बु अऱ्ऱुप्पोगुम्बडि, वासऩै नशित्तुप्पोगुम्बडि ऎऩ्ऱबडि। अऱुक्कुम् - नाशम् सॆय्युम्, इप्पडियाऩाल् भक्त पापनाशकऩाऩ तिरुवाऴियाऴ्वाऩुक्कु कार्यमेदॆऩ्ऩ वरुळिच्चॆय्गिऱार् अणियत्तिगिरिये इति । अत्तिगिरि - पापनाशकतया प्रसिद्धऩाऩ अन्दत् तिरुवाऴि याऴ्वाऩ्, अणिये - अलङ्गारमे। भक्तपापहरत्वरूपकार्यमिल्लामैयाल् केवलहस्ताभरणमागवे इरुक्कुमॆऩ्ऱबडि।  
+</details>
+
 
 ## उपसंहारः
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेनार् कमलत् तिरुमगणादन् ऱिगऴ्न्दुऱैयुम्  
-वानाडुगन्दवर् वैयत्तिरुप्पिडम् वऩ्ऱरुमक्  
-कानारिमयमुङ् गङ्गैयुङ् गाविरियुङ् गडलुम्  
-नानानगरमु नागमुङ् गूडिय नन्निलमे. (26)
+तेन्-आर्+++(=पूर्ण)+++-कमलत्-तिरु-मगळ्+नाथन् **+तिगऴ्न्द्**+++(=काशमान)+++ **उऱैयुम्**+++(=अध्युषितं)+++  
+वा+++(न्)+++-नाड् **उगन्द्-अवर्** वैयत्त्+++(=भुवः)+++ **इरुप्प्** इडम् +++(यत्रक्वचित् सद् एवम् भावनीयम् -)+++ वऩ्+++(=बलवद्)+++-+धरुमक्  
+काऩ्+++(=कानन)+++-आर्+++(=पूर्ण)+++ इमयमुङ्+++(=हिमं च)+++ गङ्गैयुङ् काविरियुङ् कडलुम्  
+नाना-+++(पौराणिक-)+++नगरमु+++(म्)+++ नाकमुङ् कूडिय नन्+++(ल्)+++-निलमे. (26)
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मधु-पूर्ण-कमल-स्थ-श्री-लक्ष्मी-नाथेन **सप्रकाशम् अध्युषितं**  
+परम-व्योम-देशं **वाञ्छतां** भूमि-गतं वास-स्थानं दृढ-धर्म-  
+कानन-पूर्ण-हिमवद्-गङ्गा-कावेरी-समुद्र-  
+नाना-नगर-नाक-संवलितं समीचीनस्-थानम् ॥ 
+</details>
+
+
+<details><summary>English</summary>
+
+(4) That place on the earth where dwell (the devotees of the Lord),  
+who long for the world above (Paramapada)  
+which is the famous residence of Nārāyaṇa , the Lord of Lakṣmī , born of the lotus full of honey (pollen) -  
+that place is as sacred as the Himalaya surrounded by forests,  
+the Gaṅga, the Cauvery, the sea, the holy cities (like Ayodhya, Mathura, Kasi and Kanchi) and Śrī Vaikuntha all in one.
+</details>
+
+<details><summary>Español</summary>
+
+(4) ese lugar en la tierra donde **habitan** (los devotos del Señor),  
+que **anhelan** el mundo anterior (Paramapada)  
+que es la famosa residencia de Nārāyaṇa, el Señor de Lakṣmī, nacido del loto **lleno** de miel (polen) -  
+Ese lugar **es** tan sagrado como el Himalaya **rodeado** de bosques,  
+El Gaṅga, el Cauvery, el Mar, las Ciudades Sagradas (como Ayodhya, Mathura, Kasi y Kanchi) y Śrī Vaikuntha, todo en uno.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -2037,16 +2082,60 @@ y **deja que este** último **permanezca** como un mero adorno a su mano.
 नानानगरमु नागमुङ् गूडिय नन्निलमे. (26)
 </details>
 
+<details><summary>सायण-टीका</summary>
 
-(4) That place on the earth where dwell (the devotees of the Lord), who long for the world above (Paramapada) which is the famous residence of Nārāyaṇa , the Lord of Lakṣmī , born of the lotus full of honey (pollen) - that place is as sacred as the Himalaya surrounded by forests, the Gaṅga, the Cauvery, the sea, the holy cities (like Ayodhya, Mathura, Kasi and Kanchi) and ŚrīVaikanta all in one.
+प्रपन्नऩुक्कु वासस्थानङ्गळाऩ भगवत्क्षेत्रङ्गळै प्रशंसित्तु  अवऩुक्कु वस्तव्यम् आऩ भागवताभिमान-विषय-देशत्तै अधिकारप् पाट्टाले प्रशंसिक्किऱार् तेऩारिति । तेऩ् - मकरन्दत्ताले, आर् - परिपूर्णमाऩ, कमल - तामरस पुष्पत्तिले वसिक्किऱ तिरुमगळ् - पॆरियबिराट्टिक्कु, नादऩ् - वल्लभऩायिरुक्किऱ भगवाऩ्, तिगऴ्न्दुऱैयुम् - विळङ्गिक्कॊण्डे नित्यवासम् पण्णुम्, वाऩाडु - परमपदत्तै, उगन्दवर् - प्रयोजनान्तरापेक्षैयऩ्ऱिक्के परमपदत्तैये प्रधानफलमाग ऎण्णि उगन्दिरुक्कुम् प्रपन्नर्। वैयत्तिरुप्पिडम् - इन्द पूमियिल् इरुक्कुमिडमे, वऩ् - प्रबलमाऩ, तरुम - धर्मक्षेत्रमुमाय्, काऩार् - तबोवऩत्ताले सूऴप्पट्टदुमाऩ, इमय मुम् - हिमवत्पर्वतमुम्, कङ्गैयुम् - 
+
+> ‘‘गङ्गा गङ्गेति यो ब्रूयाद्  
+> योजनानां शतैर् अपि ।  
+> **मुच्यते** सर्वपापेभ्यः’’
+
+ऎऩ्गिऱबडि स्ववचनमात्रत्ताले सर्वपापहरैयाऩ गङ्गैयुम्, काविरियुम् - 'गङ्गैयिऱ् पुनीतमाऩ काविरि' ऎऩ्ऱु कॊण्डाडप्पट्ट कावेरियुम्, कडलुम् - समुद्रतीरत् तिलुळ्ळ श्वेतद्वीपमुम्, अथवा, 
+
+> ‘‘द्वौ समुद्रौ वितताव् अजूर्यौ  
+> पर्यावर्तेते जठरेव पादाः ।  
+> तयोः पश्यन्तो अतियन्त्य् अन्यम्  
+> अपश्यन्तस् सेतुना ऽतियन्त्य् अन्यम्’’ +++(4)+++ 
+
+ऎऩ्ऱु वेदप्रसिद्धमाऩ सेतुरूपमाऩ समुद्रमुमॆऩ्ऩवुमाम्। तिरुप्पुल्लाणि मुदलाऩ समुद्रतीर-स्थ-दिव्य-देशम् आगवुम् आम्। नाऩानगरमुम् - ‘‘अयोद्ध्या मधुरा माया’’ इत्यादिगळिल् सॊल्लप्पट्ट नानाविधमाऩ पुण्यनगरमुम्, नागमुम् - ‘‘ते ह नाकं महिमानस्सचन्ते’’ ऎऩ्ऱु सॊल्लप्पट्ट परमपदमुम्, कूडिय - सेर्न्ददाऩ, नऩ्ऩिलमे - सर्वोत्कृष्टमाऩ देशम्। भागवतसहवासमुळ्ळ भगवत्क्षेत्रम् लभियादबोदु केवलभागवतावासस्थलमे एतादृशोत्कर्षशालितया प्रपन्नर्गळुक्कु वासस्थानमागुमॆऩ्ऱबडि।  
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
-सा काशीति न चाकशीति भुवि सायोद्ध्येति नाद्ध्यास्यते  
-सावन्तीति न कल्मषादवति सा काञ्चीति नोदञ्चति ।  
-धत्ते सा मधुरेति नोत्तमधुरां नान्यापि मान्या पुरी  
-या वैकुण्ठकथासुधारसभुजां रोचेत नो चेतसे ॥ ४३ ॥
+सा काशीति **न चाकशीति**+++(=चकास्ति, छान्दस-रूपम्)+++, भुवि सा ऽयोध्येति **नाध्यास्यते**,  
+सा ऽवन्तीति **न** कल्मषाद् **अवति**, सा काञ्चीति **नोदञ्चति** ।  
+**धत्ते** सा मधुरेति **नोत्तम-धुरां**, **मान्यापि नान्या** पुरी 
+या वैकुण्ठ-कथा-सुधा-रस-**भुजां रोचेत नो चेतसे**॥ ४३ ॥+++(5)+++
 </details>
+
+<details><summary>English</summary>
+
+The place which is not to the liking of the minds of those who taste the nectar of the stories of Bhagavān (Vaikuṇṭha  ) -  
+that place does not shine in the world, merely because it is called Kasi, (Kasi: that which shines);  
+it does not become a (suitable) place of residence merely because it is called Ayodhya;  
+it does not save us from our sins merely because it is called Avanti (Ava to protect);  
+Kanchi is not excellent because of its name;  
+nor is Madhura considered a seat of excellence merely because it is called Madhura.  
+So also other cities do not become worthy merely because of their names,  
+if they are not to the liking of those who delight in the ambrosia of stories concerning Bhagavān (Vaikuṇṭha   ).
+</details>
+
+<details><summary>Español</summary>
+
+El lugar que **no es** del **gusto** de las mentes de aquellos  
+que **prueban** el néctar de las historias de Bhagavān (Vaikuṇṭha) -  
+Ese lugar **no brilla** en el mundo, simplemente porque se llama Kasi (Kasi: lo que **brilla**);  
+**No se convierte** en un lugar de residencia (adecuado) simplemente porque **se llama** Ayodhya;  
+**No nos salva** de nuestros pecados simplemente porque se **llama** avanti (Ava para **proteger**);  
+Kanchi **no es excelente** debido a su nombre;
+Madhura **tampoco se considera** un asiento de excelencia simplemente porque **se llama** Madhura.  
+Así que también otras ciudades **no se vuelven** dignas simplemente por sus nombres,  
+Si **no son** del **agrado** de aquellos  
+que **se deleitan** en la Ambrosia de las historias relacionadas con Bhagavān (Vaikuṇṭha).
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -2056,7 +2145,19 @@ y **deja que este** último **permanezca** como un mero adorno a su mano.
 या वैकुण्ठकथासुधारसभुजां रोचेत नो चेतसे ॥ ४३ ॥
 </details>
 
-The place which is not to the liking of the minds of those who taste the nectar of the stories of Bhagavān (Vaikuṇṭha  ) - that place does not shine in the world, merely because it is called Kasi, (Kasi: that which shines); it does not become a (suitable) place of residence merely because it is called Ayodhya; it does not save us from our sins merely because it is called Avanti (Ave to protect); Kanchi is not excellent because of its name; nor is Madhura considered a seat of excellence merely because it is called Madhura. So also other cities do not become worthy merely because of their names, (if they are not to the liking of those who delight in the ambrosia of stories concerning Bhagavān (Vaikuṇṭha   ).
+<details><summary>सायण-टीका</summary>
+
+ननु ‘‘अयोद्ध्या मधुरा माया काशी काञ्ची ह्यवन्तिका । पुरी द्वारवती चैव सप्तैते मुक्तिदायकाः ऎऩ्ऱु' मुक्ति-प्रदङ्गळागच् चॊऩ्ऩ अयोद्ध्यादिगळिरुक्क केवलभागवतवासस्थानत्तै वासार्हमागच् चॊल् ललामोवॆऩ्ऩिल्, अयोद्धन्यादिसर्वस्थानङ्गळुक्कुम् भागवताभिमानत्तालेये एत्त मागैयाल् अम्मादिरि भागवताभिमानमुळ्ळ ऎन्द देशमाऩालुम् अदु प्रपन्नऩुक्कु उपादेयमागुम्। अप्पडि भागवतर्गळुडैय तिरुवुळ्ळम् उगक्काद ऎन्द देशमाऩालुम् अदु अनुपादेयमॆऩ्ऱु समर्थिक्किऱार् सा काशीति । या पुरी - ऎन्द पट्टणमाऩदु, वैकुण्ठकथासुधारसभुजां - वैकुण्ठ-नामगऩाऩ भगवाऩुडैय कथैयागिऱ अमृतरसास्वादशीलर्गळाऩ महाभागवतर्गळुडैय, चेतसे - तिरुवुळ्ळत्तिऱ्कु, नो रोचते – रुचिक्क विल्लैयो; भागवताभिमानविषयमागविल्लैयोवॆऩ्ऱबडि। सा - अदु, काशीति – केवलकाशीति नामधेयत्तालेयो, काशित्वरूप तच्छक्यतावच्छेदकत्वत्तालेयो, न चाकशीति – प्रकाशियादु। अत्यन्तप्रकाशत्तिऱ्कु काशित्वम् प्रयोजकमऩ्ऱु; किन्तु भागवताभिमानविषयत्व मॆऩ्ऱु करुत्तु। भुवि – भूलोकत्तिले, सा – भागवतर्गळुडैय मनस्सुक्कु रुचियाद अन्दप्पट्टणमाऩदु, अयोद्ध्येति – अयोद्ध्या ऎऩ्गिऱ नाममात्रत्ताल्, नाद्ध्यास्यते महाऩ्गळाले वसिक्कप्पडुगिऱदिल्लै। सा – भागवतमनस्सुक्कु रुचियाद अन्द पुरी । अवन्तीति - अवन्तियॆऩ्गिऱ केवलनामत्ताले, कल्मषात् - पाबत्तिलिरुन्दु, नावति – अङ्गु वसिप्पवर्गळै रक्षिक्कादु। सा – भागवतर्गळुडैय मऩस्सुक्कु रुचियाद अन्द पुरियाऩदु, काञ्चीति – काञ्चियॆऩ्गिऱ नामामात्रत्ताले, 
+
+> ‘‘क इति ब्रह्मणो नाम  
+> तेन तत्राञ्चितो हरिः ।  
+> तस्मात्काञ्चीति विख्याता  
+> पुरी पुण्यविवर्धिनी’’ 
+
+ऎऩ्ऱ व्युत्पत्तिमत्ताऩ नाममात्रत्ता लॆऩ्ऱबडि, नोदञ्चीति – उत्कृष्टमागमाट्टादु। सा – भागवतर्गळुडैय मऩस्सुक्कु रुचियाद अन्द वडमदुरैयुम्, मधुरेति - मदुरैयॆऩ्गिऱ नाममात्रत्ताले, उत्तम धुरां – उत्तमतारूपभरत्तै, न धत्ते - वहिप्पदिल्लै। पट्टणङ्गळुक्कुळ्ळे उत्तममाग आगमाट्टादॆऩ्ऱबडि। अन्यापि पुरी – उक्तङ्गळैक्काट्टिलुम् वेऱुबट्ट मुक्तिदायिनि कळिलॊऩ्ऱाऩ मायाबुरियुम्, अदावदु हरिद्वारमुम्, द्वारकैयुम्, न मान्या – वासार्थ माग आदरणीयमाग आगिऱदिल्लै। अयोद्ध्यादिगळाऩ सर्वस्थानङ्गळुम् भागवतर्गळुडैय उगप्पालेये अव्वो आधिक्यङ्गळै अडैन्दऩवॆऩ्ऱु तिरुवुळ्ळम्।  
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2076,3 +2177,11 @@ The place which is not to the liking of the minds of those who taste the nectar 
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+॥ इति श्रीमदहोबिलमठास्थाने द्विचत्वारिंशपट्टे मूर्द्धाभिषिक्तस्य  
+निरवधिकगुरुभक्तिभरितस्य श्रीलक्ष्मीनृसिंहदिव्यपादुकासेवक  
+श्रीवण्शठकोप श्री श्रीरङ्गशठकोपयतीन्द्रस्य कृतौ  
+श्री सारबोधिन्याख्यायां व्याख्यायां  
+स्थानविशेषाधिकारः एकोनविंशः ॥
+</details>
