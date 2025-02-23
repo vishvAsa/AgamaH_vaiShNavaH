@@ -944,7 +944,7 @@ Source: [TW](https://archive.org/details/gopala-desika-ahnikam-ahnikartha-prakas
 तस्मिन्न् एव शयनय् **आसीनः**,
 </details>
 
-<div class="js_include" url="/kAvyam/laxyam/gadyam/rAmAnujaH/sharaNAgati-gadyam/04_akhila-heya-pratyanIka-chUrNikA/"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/rAmAnujaH/sharaNAgati-gadyam/sarva-prastutiH/04_akhila-heya-pratyanIka__nArAyaNa/"  newLevelForH1="5" includeTitle="false"> </div>  
 
 <details><summary>मूलम्</summary>
 
