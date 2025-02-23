@@ -1950,37 +1950,93 @@ y **famosa** como las colinas de Venkata.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्तमव्-अमर्त्+++(=युद्ध)+++-तलम् **अमैत्तद्**+++(=स्थापितं)+++ ओर् ऎऴिऱ्‌ ऱनुवुनुयर्त्त कणैयाल्  
-अत्तिरवरक्कन् मुडिबत्तु मॊरुगॊत्तॆन वुदिर्त्त तिऱलोन्  
-मत्तुऱुमिगुत्त तयिर्मॊय्त्तवॆणॆय् वैत्तदुणुमत्तनिडमा  
-मत्तिगिरिबत्तर्विनै तॊत्तऱवऱुक्कुमणियत्तिगिरिये.
+उत्तमव्-अमर्त्+++(=युद्ध)+++-तलम् **अमैत्तद्**+++(=स्थापितं)+++ ओर् ऎऴिऱ्+++(=प्रकाशमान)+++‌ +धनुव् **उयर्त्त**+++(=उत्क्षिप्त)+++-कणैयाल्+++(=बाणेन)+++  
+अत्तिरव्+++(=अस्त्र)+++-अरक्कन्+++(=राक्षस)+++ मुडि-बत्तुम् ऒरु कॊत्त्+++(=गुच्छ)+++ ऎनव् **उदिर्त्त** तिऱलोन् +++(=सामर्थ्यवतः)+++,  
+मत्थ्+++(=मन्थान)+++ उऱु+++(=वर्धित)+++ **मिगुत्त** तयिर् **मॊय्त्त**+++(=सङ्कुलित)+++ वॆणॆय्+++(=नवनीतम्)+++ **वैत्तद् उणुम्** अत्तन्+++(=आप्तन्)+++ **इडम् आम्**  
+अत्ति-गिरि भत्तर् विनै तॊत्त्+++(=विस्तारम्)+++-अऱव् अऱुक्कुम् अणिय्+++(=अलङ्कारः)+++ अत्-तिगिरिये+++(=चक्रं हि)+++.
 </details>
 
-<details><summary>मूलम्</summary>
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-उत्तम वमर्त्तल ममैत्तदो रॆऴिऱ्‌ ऱनुवुनुयर्त्त कणैयाल्  
-अत्तिरवरक्कन् मुडिबत्तु मॊरुगॊत्तॆन वुदिर्त्त तिऱलोन्  
-मत्तुऱुमिगुत्त तयिर्मॊय्त्तवॆणॆय् वैत्तदुणुमत्तनिडमा  
-मत्तिगिरिबत्तर्विनै तॊत्तऱवऱुक्कुमणियत्तिगिरिये.
+[[१५६]]
+
+उत्तम-युद्ध-स्थल-पर्याप्ताद्वितीय-प्रकाश-धनुः-क्षिप्तेन  बाणेनास्त्रिणो राक्षसस्य शिरांसि दशापि  
+एक गुच्छवत् पातितवतः, सामर्थ्यवतः,  
+मन्थान-मथ्यम् अधिकं दधि, अधिकं नवनीतं स्थापितं भक्षितवत आप्तस्य  स्थान-भूतो  
+हस्ति-गिरिः भक्तानां कर्म-संबन्ध-विच्छेद-पूर्वकं विनाशयद्  
+अलंकार-भूतं तच्-चक्रम् एव ॥ 
 </details>
 
+<details><summary>English</summary>
 
-(3) Hastigiri (Kañcīpuram ) where dwells ŚrīRāma  
-who, with his might and with his arrow, discharged from his beautiful bow in the great battle-field,  
+(3) Hastigiri (Kañcīpuram ) 
+
+where dwells Śrī Rāma  
+who, with his might and with his arrow,  
+discharged from his beautiful bow in the great battle-field,  
 shook down the bunch of ten heads of the Rākṣasa  
-who was powerful in the use of missiles  
+who was powerful in the use of missiles;  
+
 and where dwells also Śrīkṛṣṇa, the great friend of man,  
 who ate the rising butter kept by Yasoda,  
 after churning the abundant curd  
-into which the chura+++(=??)+++ was pressed –  
+into which the churn was pressed –  
+
 this Hastigiri cuts off the sins of devotees  
 leaving no trace of them behind.  
-It does, of itself, the work of the Lord's chakra and lets the latter remain as a mere ornament to His hand :
+It does, of itself, the work of the Lord's chakra  
+and lets the latter remain as a mere ornament to His hand.
+</details>
+
+<details><summary>Español</summary>
+
+(3) Hastigiri (Kañcīpuram)
+
+donde **habita** Śrī Rāma  
+quien, con su poder y con su flecha,  
+**dado** de alta de su hermoso arco en el gran campo de batalla,
+**Tiró** el montón de diez cabezas del Rākṣasa  
+quien **era poderoso** en el uso de misiles;
+
+y donde **habita** también Śrīkṛṣṇa, el gran amigo del hombre,  
+quien se **comió** la mantequilla ascendente mantenida por Yasoda,  
+Después de **agitar** la abundante cuajada  
+en el que se **presionó** el palo -
+
+Este hastigiri **corta** los pecados de los devotos
+**No dejando rastro** de ellos atrás.  
+Lo **hace**, por sí mismo, la **obra** del chakra del Señor  
+y **deja que este** último **permanezca** como un mero adorno a su mano.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+उत्तम वमर्त्तल ममैत्तदो रॆऴिऱ्‌ ऱनुवुयर्त्त कणैयाल्  
+अत्तिरवरक्कन् मुडिबत्तु मॊरुगॊत्तॆन वुदिर्त्त तिऱलोन्  
+मत्तुऱुमिगुत्त तयिर्मॊय्त्तवॆणॆय् वैत्तदुणुमत्तनिडमा  
+मत्तिगिरिबत्तर्विनै तॊत्तऱवऱुक्कुमणियत्तिगिरिये.
+</details>
+
+
+## उपसंहारः
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनार् कमलत् तिरुमगणादन् ऱिगऴ्न्दुऱैयुम्  
 वानाडुगन्दवर् वैयत्तिरुप्पिडम् वऩ्ऱरुमक्  
 कानारिमयमुङ् गङ्गैयुङ् गाविरियुङ् गडलुम्  
 नानानगरमु नागमुङ् गूडिय नन्निलमे. (26)
+</details>
+
+<details><summary>मूलम्</summary>
+
+तेनार् कमलत् तिरुमगणादन् ऱिगऴ्न्दुऱैयुम्  
+वानाडुगन्दवर् वैयत्तिरुप्पिडम् वऩ्ऱरुमक्  
+कानारिमयमुङ् गङ्गैयुङ् गाविरियुङ् गडलुम्  
+नानानगरमु नागमुङ् गूडिय नन्निलमे. (26)
+</details>
+
 
 (4) That place on the earth where dwell (the devotees of the Lord), who long for the world above (Paramapada) which is the famous residence of Nārāyaṇa , the Lord of Lakṣmī , born of the lotus full of honey (pollen) - that place is as sacred as the Himalaya surrounded by forests, the Gaṅga, the Cauvery, the sea, the holy cities (like Ayodhya, Mathura, Kasi and Kanchi) and ŚrīVaikanta all in one.
 
@@ -2002,9 +2058,21 @@ It does, of itself, the work of the Lord's chakra and lets the latter remain as 
 
 The place which is not to the liking of the minds of those who taste the nectar of the stories of Bhagavān (Vaikuṇṭha  ) - that place does not shine in the world, merely because it is called Kasi, (Kasi: that which shines); it does not become a (suitable) place of residence merely because it is called Ayodhya; it does not save us from our sins merely because it is called Avanti (Ave to protect); Kanchi is not excellent because of its name; nor is Madhura considered a seat of excellence merely because it is called Madhura. So also other cities do not become worthy merely because of their names, (if they are not to the liking of those who delight in the ambrosia of stories concerning Bhagavān (Vaikuṇṭha   ).
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
 इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
 श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
 श्रीमद्रहस्यत्रयसारे  
 स्थानविशेषाधिकारः एकोनविंशः ॥  
 श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
+
+<details><summary>मूलम्</summary>
+
+इति श्रीकवितार्किकसिंहस्य सर्वतन्त्रस्वतन्त्रस्य  
+श्रीमद्वेङ्कटनाथस्य वेदान्ताचार्यस्य कृतिषु  
+श्रीमद्रहस्यत्रयसारे  
+स्थानविशेषाधिकारः एकोनविंशः ॥  
+श्रीमते निगमान्तमहादेशिकाय नमः ॥
+</details>
 
