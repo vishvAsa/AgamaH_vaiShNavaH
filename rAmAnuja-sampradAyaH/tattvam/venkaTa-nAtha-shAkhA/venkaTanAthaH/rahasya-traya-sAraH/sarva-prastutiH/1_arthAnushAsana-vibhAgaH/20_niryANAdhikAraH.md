@@ -165,11 +165,166 @@ Cuando con estas palabras, la Prapanna **toma** los pies del Señor,
 </details>
 
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘हस्तावलम्बनो ह्य् एको  
+> भक्ति-क्रीतो जनार्दनः’’  
+> (विष्णुधर्मः ३-२४) 
+
+ऎऩ्गिऱ बडिये इवऩैक् कैप् पिडित्तु 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘हस्तावलम्बनो ह्य् एको  
+> भक्ति-क्रीतो जनार्दनः’’  
+> (विष्णुधर्मः ३-२४) 
+
+इत्य्-उक्त-रीत्या  
+एनं हस्ते गृहीत्वा 
+</details>
+
+<details><summary>English</summary>
+
+the Lord takes him by the hand,  
+which, it has been said, is the only support of the prapanna:  
+
+> "The hands of the Lord who is called Janārdana  
+> and who has been bought with the price of bhakti  
+> is the only support for the prapanna." 
+</details>
+
+<details><summary>Español</summary>
+
+El Señor lo **toma** de la mano,  
+Lo cual, **se ha dicho**, es el único apoyo de la Prapanna:
+
+> "Las manos del Señor que **se llama** Janārdana  
+> y quién ha **sido comprado** con el precio de Bhakti  
+> **es** el único **apoyo** para la Prapanna ".
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘हस्तावलम्बनो ह्येको भक्तिक्रीतो जनार्दनः’’(विष्णुधर्मः ३-२४) ऎऩ्गिऱबडिये इवऩैक् कैप्पिडित्तु 
+</details>
 
 
-the Lord takes him by the hand, which, it has been said, is the only support of the prapanna: "The hands of the Lord who is called Janārdana and who has been bought with the price of bhakti is the only support for the prapanna." The Lord who has been called "the king of kings of all (beings)" and who is the possessor of the two glories, Līlā Vibhūti (in this world) and Nitya Vibhūti or eternal glory in Paramapada, (having taken him by the hand) fixes him in a place of His own liking and the prapanna leads his life there, being held in as high a regard as an anointed queen and following such occupations as are consistent with his exclusive and supreme attachment to the Lord.
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> ‘‘राजाधि-राजस् सर्वेषां’’  
+> (भारतम् शान्ति-पर्व ४३-१३।) 
+
+ऎऩ्गिऱ बडिये  
+उभय-विभूति-नाथऩ् आऩ सर्वेश्वरऩ्  
+ताऩ् उगन्दद् ऒरु निलत्तिले वैक्क 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> ‘‘राजाधि-राजस् सर्वेषां’’  
+> (भारतम् शान्ति-पर्व ४३-१३।) 
+
+इत्य्-उक्तय् उभय-विभूति-नाथे सर्वेश्वरे  
+स्वाभिमते कस्मिंश्चित् स्थाने स्थापितवति सति,  
+</details>
+
+
+<details><summary>English</summary>
+
+The Lord who has been called "the king of kings of all (beings)"  
+and who is the possessor of the two glories,  
+Līlā Vibhūti (in this world) and Nitya Vibhūti or eternal glory in Paramapada,  
+(having taken him by the hand) fixes him in a place of His own liking  
+</details>
+
+<details><summary>Español</summary>
+
+El Señor que **ha sido llamado** "el rey de reyes de todos los (seres)"   
+y quién **es** el **poseedor** de las dos glorias,  
+Līlā vibhūti (en este mundo) y nitya vibhūti o gloria eterna en Paramapada,  
+(**habiéndolo tomado** de la mano) lo **arregla** en un lugar de su propio **gusto**
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘राजाधिराजस्सर्वेषां’’(भारतम् शान्ति-पर्व ४३-१३।) ऎऩ्गिऱबडिये उभयविभूति नाथऩाऩ सर्वेश्वरऩ् ताऩुगन्ददॊरु निलत्तिले वैक्क 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अभिषिक्तैय्** आऩ महिषियैप् पोले **बहु-मतऩ् आय्त्**  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अभिषिक्त-महिषी-वद् बहु-मतः 
+</details>
+
+
+<details><summary>English</summary>
+
+and the prapanna leads his life there,  
+being held in as high a regard as an anointed queen  
+</details>
+
+<details><summary>Español</summary>
+
+Y la Prapanna **lleva su vida** allí,  
+**ser considerado** tan alto como una reina ungida
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अभिषिक्तैयाऩ महिषियैप्पोलेबहुमतऩाय्त् 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+तऩ् परमैकान्तित्वत्तुक्क् **अनुरूपम् आऩ वृत्तियोडे पोरुम्**  
+इव्व् अधिकारी। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+स्व-परमैकान्तित्वानुरूप-वृत्त्या सह वर्तते ऽयम् अधिकारी ॥
+</details>
+
+<details><summary>English</summary>
+
+and following such occupations as are consistent with his exclusive and supreme attachment to the Lord.
+</details>
+
+<details><summary>Español</summary>
+
+y **siguiendo las ocupaciones** que son consistentes con su apego exclusivo y supremo al Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+तऩ् परमैकान्तित्वत्तुक्कनुरूपमाऩ वृत्तियोडे पोरुमिव्वधिकारी। 
+</details>
+
+## मोक्ष-विलम्बः
+
+<details><summary>English</summary>
 
 DELAY IN THE ATTAINMENT OF THE GOAL :
+</details>
+
+<details><summary>Español</summary>
+
+**Retraso** en el logro de la meta:
+</details>
+
+
+
 
 Among prapannas, there may be (some ) who, on account of certain specific evil deeds done in past lives which have begun to operate now, may become subject to such lapses as the following :- (1) They may display the feelings of 'I' and 'mine' (ahankāra and mamakara) (2) as a result of these (feelings) they may commit offences; (3) they may display a taste or desire for other objects than the Lord; (4) owing to this desire they may contact other deities; (5) they may be weak-minded; owing to this (weak-mindedness ), they may desire to adopt other upāyas. There may be others who, owing to good deeds done in past lives which have begun to yield their fruits in this life and owing to the specific nature of the request for benefits made at the time of prapatti, have never swerved from the service of the Lord. It may be asked what is the nature of the delay in the release from saṁsāra in the case of these two classes of prapannas. The answer is as follows:
 
