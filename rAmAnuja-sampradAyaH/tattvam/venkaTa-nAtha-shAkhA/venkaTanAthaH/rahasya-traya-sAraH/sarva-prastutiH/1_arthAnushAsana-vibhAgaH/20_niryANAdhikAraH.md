@@ -3,6 +3,7 @@ title = "२० निर्याणाधिकारः"
 
 +++
 
+## सारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीः ॥  
@@ -36,10 +37,73 @@ Página 255
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
 मनसि करण-ग्रामं, प्राणे मनः, पुरुषे च तं,  
-झट्-इति **घटयन्**, भूतेष्व् एनं, परे च तम् आत्मनि ।  
-स्व-विद्--अ-विदुषोर् इत्थं साधारणे **सरणेर्** मुखे  
+झट्-इति **घटयन्**, भूतेष्व् एनं, परे +++(→आत्मनि)+++ च तम् आत्मनि ।  
+स्व+++(→ईश्वर)+++-विद्--अ-विदुषोर् इत्थं साधारणे **सरणेर्** मुखे  
 **नयति** परतो नाडी-भेदैर् यथोचितम् ईश्वरः ॥ ४४ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मनसि करण-ग्रामं, प्राणे मनः, पुरुषे च तं,  
+झट्-इति **घटयन्**, भूतेष्व् एनं, परे +++(→आत्मनि)+++ च तम् आत्मनि ।  
+स्व+++(→ईश्वर)+++-विद्--अ-विदुषोर् इत्थं साधारणे **सरणेर्** मुखे  
+**नयति** परतो नाडी-भेदैर् यथोचितम् ईश्वरः ॥ ४४ ॥
+
+</details>
+
+
+<details><summary>English</summary>
+
+The Lord merges the aggregate of the senses in the mind,  
+the mind with the senses in the vital breath (prāṇa),  
+the vital breath with these in the self or soul,  
+the self in the subtle elements (Sakṣma bhutas )  
+and the self with these elements in Himself (the Supreme Self) very soon.  
+So far, the process of the soul's departure is common to both the person who has realised Him  
+and the person who has not realised Him.  
+Thereafter, the Lord leads the self through different veins ( nadi)[^56]  
+which lead either to the (dark) path of smoke  
+or to the shining path of light (archirādi)  
+or elsewhere  
+in accordance with the qualifications (of each individual).
+
+[^56]: 
+
+    The soul of the man who has realised Brahman  
+    is said to be led through a vein issuing out of the head into the shining path of archis  
+    along which it passes into immortality in Vaikuṇṭha  .  
+    The soul of the man who has not realised Brahman  
+    is led through other veins into the dark path called dhuma or smoke.  
+    He will be born again in saṁsāra.
+</details>
+
+<details><summary>Español</summary>
+
+El Señor **fusiona** el agregado de los sentidos en la mente,  
+la mente con los sentidos en la respiración vital (prāṇa),  
+el aliento vital con estos en el yo o al alma,  
+el yo en los elementos sutiles (sakṣma bhutas)  
+y el yo con estos elementos en sí mismo (el yo supremo) muy pronto.   
+Hasta ahora, el proceso de partida del alma **es común** tanto  
+para la persona que se **ha dado cuenta**  
+Y la persona que **no se ha dado cuenta** de él.  
+
+A partir de entonces, el Señor **conduce** al yo a través de diferentes venas (nadi) [^es56]   
+que **conducen** al camino (oscuro) de humo  
+o al camino brillante de la luz (Archirādi)  
+o en otro lugar 
+de acuerdo con las calificaciones (de cada individuo).
+
+[^es56]:
+
+    El alma del hombre que **se ha dado cuenta** de Brahman  
+    **se dice** que es **llevado** a través de una vena que **sale** de la cabeza a la ruta brillante de Archis  
+    a lo largo del cual **pasa** a la inmortalidad en Vaikuṇṭha.  
+    El alma del hombre que **no se ha dado cuenta** de Brahman  
+    **se guía** a través de otras venas hacia el camino oscuro **llamado** Dhuma o Fumar.  
+    **Nacerá** de nuevo en Saṁsāra.
+</details>
+
 
 <details><summary>मूलम् (सं॰प॰)</summary>
 
@@ -49,11 +113,61 @@ Página 255
 नयति परतो नाडीभेदैर्यथोचितमीश्वरः ॥ ४४ ॥
 </details>
 
-The Lord merges the aggregate of the senses in the mind, the mind with the senses in the vital breath (prāṇa), the vital breath with these in the self or soul, the self in the subtle elements (Sakṣina bhutas ) and the self with these elements in Himself (the Supreme Self) very soon. So far, the process of the soul's departure is common to both the person who has realised Him and the person who has not realised Him. Thereafter, the Lord leads the self through different veins ( nadi)[^56] which lead either to the (dark) path of smoke or to the shining path of light (archirādi) or elsewhere in accordance with the qualifications (of each individual).
+## प्रपन्नस्य भगवदभिमतत्वम्
 
-[^56]: The soul of the man who has realised Brahman is said to be led through a vein issuing out of the head into the shining path of archis along which it passes into immortality in Vaikuṇṭha  . The soul of the man who has not realised Brahman is led through other veins into the dark path called dhuma or smoke. He will be born again in saṁsāra.
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-"Having given up all upāyas, and having given up also all desires including the desire to enjoy one's self, I seek as my refuge, O, Lord, Thy feet which measured the world." When with these words, the prapanna takes the feet of the Lord, the Lord takes him by the hand, which, it has been said, is the only support of the prapanna: "The hands of the Lord who is called Janārdana and who has been bought with the price of bhakti is the only support for the prapanna." The Lord who has been called "the king of kings of all (beings)" and who is the possessor of the two glories, Līlā Vibhūti (in this world) and Nitya Vibhūti or eternal glory in Paramapada, (having taken him by the hand) fixes him in a place of His own liking and the prapanna leads his life there, being held in as high a regard as an anointed queen and following such occupations as are consistent with his exclusive and supreme attachment to the Lord.
+इप्पडि 
+
+> ‘‘लोक-विक्रान्त-चरणौ  
+> शरणं तेऽव्रजं विभो’’+++(5)+++  
+> (जितन्ता-स्तोत्रम्) 
+
+ऎऩ्ऱ् इवऩ् काल् पिडिक्क 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं
+
+> ‘‘लोक-विक्रान्त-चरणौ  
+> शरणं तेऽव्रजं विभो’’+++(5)+++  
+> (जितन्ता-स्तोत्रम्) 
+
+इति, अस्मिन् (जीवे) पादं गृहीतवति, 
+</details>
+
+
+<details><summary>English</summary>
+
+> "Having given up all upāyas,  
+and having given up also all desires including the desire to enjoy one's self,  
+I seek as my refuge, O, Lord,  
+Thy feet which measured the world." 
+
+When with these words, the prapanna takes the feet of the Lord, 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Habiendo renunciado** a todos upāyas,
+y **haber renunciado** también todos los deseos, incluido el deseo de **disfrutar** de uno mismo,  
+**Busco** como mi refugio, oh, señor,  
+Tus pies que **midieron** el mundo ".
+
+Cuando con estas palabras, la Prapanna **toma** los pies del Señor,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ‘‘लोकविक्रान्तचरणौ शरणं तेऽव्रजं विभो’’(जितन्ता-स्तोत्रम्) ऎऩ्ऱिवऩ् काल्बिडिक्क 
+</details>
+
+
+
+
+the Lord takes him by the hand, which, it has been said, is the only support of the prapanna: "The hands of the Lord who is called Janārdana and who has been bought with the price of bhakti is the only support for the prapanna." The Lord who has been called "the king of kings of all (beings)" and who is the possessor of the two glories, Līlā Vibhūti (in this world) and Nitya Vibhūti or eternal glory in Paramapada, (having taken him by the hand) fixes him in a place of His own liking and the prapanna leads his life there, being held in as high a regard as an anointed queen and following such occupations as are consistent with his exclusive and supreme attachment to the Lord.
 
 DELAY IN THE ATTAINMENT OF THE GOAL :
 
