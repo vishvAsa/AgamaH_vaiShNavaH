@@ -3,6 +3,7 @@ title = "२० निर्याणाधिकारः"
 
 +++
 
+## सारः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ॥ श्रीः ॥  
@@ -40,6 +41,16 @@ Página 255
 स्व+++(→ईश्वर)+++-विद्--अ-विदुषोर् इत्थं साधारणे **सरणेर्** मुखे  
 **नयति** परतो नाडी-भेदैर् यथोचितम् ईश्वरः ॥ ४४ ॥
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मनसि करण-ग्रामं, प्राणे मनः, पुरुषे च तं,  
+झट्-इति **घटयन्**, भूतेष्व् एनं, परे +++(→आत्मनि)+++ च तम् आत्मनि ।  
+स्व+++(→ईश्वर)+++-विद्--अ-विदुषोर् इत्थं साधारणे **सरणेर्** मुखे  
+**नयति** परतो नाडी-भेदैर् यथोचितम् ईश्वरः ॥ ४४ ॥
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -102,9 +113,61 @@ de acuerdo con las calificaciones (de cada individuo).
 नयति परतो नाडीभेदैर्यथोचितमीश्वरः ॥ ४४ ॥
 </details>
 
+## प्रपन्नस्य भगवदभिमतत्वम्
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्पडि 
+
+> ‘‘लोक-विक्रान्त-चरणौ  
+> शरणं तेऽव्रजं विभो’’+++(5)+++  
+> (जितन्ता-स्तोत्रम्) 
+
+ऎऩ्ऱ् इवऩ् काल् पिडिक्क 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+इत्थं
+
+> ‘‘लोक-विक्रान्त-चरणौ  
+> शरणं तेऽव्रजं विभो’’+++(5)+++  
+> (जितन्ता-स्तोत्रम्) 
+
+इति, अस्मिन् (जीवे) पादं गृहीतवति, 
+</details>
 
 
-"Having given up all upāyas, and having given up also all desires including the desire to enjoy one's self, I seek as my refuge, O, Lord, Thy feet which measured the world." When with these words, the prapanna takes the feet of the Lord, the Lord takes him by the hand, which, it has been said, is the only support of the prapanna: "The hands of the Lord who is called Janārdana and who has been bought with the price of bhakti is the only support for the prapanna." The Lord who has been called "the king of kings of all (beings)" and who is the possessor of the two glories, Līlā Vibhūti (in this world) and Nitya Vibhūti or eternal glory in Paramapada, (having taken him by the hand) fixes him in a place of His own liking and the prapanna leads his life there, being held in as high a regard as an anointed queen and following such occupations as are consistent with his exclusive and supreme attachment to the Lord.
+<details><summary>English</summary>
+
+> "Having given up all upāyas,  
+and having given up also all desires including the desire to enjoy one's self,  
+I seek as my refuge, O, Lord,  
+Thy feet which measured the world." 
+
+When with these words, the prapanna takes the feet of the Lord, 
+</details>
+
+<details><summary>Español</summary>
+
+> "**Habiendo renunciado** a todos upāyas,
+y **haber renunciado** también todos los deseos, incluido el deseo de **disfrutar** de uno mismo,  
+**Busco** como mi refugio, oh, señor,  
+Tus pies que **midieron** el mundo ".
+
+Cuando con estas palabras, la Prapanna **toma** los pies del Señor,
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडि ‘‘लोकविक्रान्तचरणौ शरणं तेऽव्रजं विभो’’(जितन्ता-स्तोत्रम्) ऎऩ्ऱिवऩ् काल्बिडिक्क 
+</details>
+
+
+
+
+the Lord takes him by the hand, which, it has been said, is the only support of the prapanna: "The hands of the Lord who is called Janārdana and who has been bought with the price of bhakti is the only support for the prapanna." The Lord who has been called "the king of kings of all (beings)" and who is the possessor of the two glories, Līlā Vibhūti (in this world) and Nitya Vibhūti or eternal glory in Paramapada, (having taken him by the hand) fixes him in a place of His own liking and the prapanna leads his life there, being held in as high a regard as an anointed queen and following such occupations as are consistent with his exclusive and supreme attachment to the Lord.
 
 DELAY IN THE ATTAINMENT OF THE GOAL :
 
