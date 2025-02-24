@@ -49,7 +49,11 @@ Página 255
 नयति परतो नाडीभेदैर्यथोचितमीश्वरः ॥ ४४ ॥
 </details>
 
-The Lord merges the aggregate of the senses in the mind, the mind with the senses in the vital breath (prāṇa), the vital breath with these in the self or soul, the self in the subtle elements (Sakṣina bhutas ) and the self with these elements in Himself (the Supreme Self) very soon. So far, the process of the soul's departure is common to both the person who has realised Him and the person who has not realised Him. Thereafter, the Lord leads the self through different veins ( nadi)[^56] which lead either to the (dark) path of smoke or to the shining path of light (archirādi) or elsewhere in accordance with the qualifications (of each individual).
+The Lord merges the aggregate of the senses in the mind,  
+the mind with the senses in the vital breath (prāṇa),  
+the vital breath with these in the self or soul,  
+the self in the subtle elements (Sakṣina bhutas )  
+and the self with these elements in Himself (the Supreme Self) very soon. So far, the process of the soul's departure is common to both the person who has realised Him and the person who has not realised Him. Thereafter, the Lord leads the self through different veins ( nadi)[^56] which lead either to the (dark) path of smoke or to the shining path of light (archirādi) or elsewhere in accordance with the qualifications (of each individual).
 
 [^56]: The soul of the man who has realised Brahman is said to be led through a vein issuing out of the head into the shining path of archis along which it passes into immortality in Vaikuṇṭha  . The soul of the man who has not realised Brahman is led through other veins into the dark path called dhuma or smoke. He will be born again in saṁsāra.
 
