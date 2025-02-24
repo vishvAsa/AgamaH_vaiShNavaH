@@ -323,10 +323,44 @@ DELAY IN THE ATTAINMENT OF THE GOAL :
 **Retraso** en el logro de la meta:
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इप्-पडि-पट्ट अधिकारिगळिले प्रारब्ध-दुष्कृत-विशेष-वैचित्रियाले वरुम् …
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+[[१५८]] 
+
+एवं-विधेष्व् अधिकारिषु  
+प्रारब्ध-दुष्कृत-विशेष-वैचित्री-भवौ  
+
+</details>
+
+
+<details><summary>English</summary>
+
+Among prapannas, there may be (some )  
+who, on account of certain specific evil deeds done in past lives which have begun to operate now,  
+may become subject to such lapses as the following :- 
+</details>
+
+<details><summary>Español</summary>
+
+Entre Prapannas, **puede haber** (algunos)  
+quien, debido a ciertas acciones malvadas específicas realizadas en **vidas** pasadas que **han comenzado a operar** ahora,  
+puede **estar sujeto** a lapsos como los siguientes:-
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इप्पडिपट्ट धिकारिकळिले प्रारब्धदुष्कृतविशेषवैचित्रियाले वरुम् 
+</details>
 
 
 
-Among prapannas, there may be (some ) who, on account of certain specific evil deeds done in past lives which have begun to operate now, may become subject to such lapses as the following :- (1) They may display the feelings of 'I' and 'mine' (ahankāra and mamakara) (2) as a result of these (feelings) they may commit offences; (3) they may display a taste or desire for other objects than the Lord; (4) owing to this desire they may contact other deities; (5) they may be weak-minded; owing to this (weak-mindedness ), they may desire to adopt other upāyas. There may be others who, owing to good deeds done in past lives which have begun to yield their fruits in this life and owing to the specific nature of the request for benefits made at the time of prapatti, have never swerved from the service of the Lord. It may be asked what is the nature of the delay in the release from saṁsāra in the case of these two classes of prapannas. The answer is as follows:
+(1) They may display the feelings of 'I' and 'mine' (ahankāra and mamakara) (2) as a result of these (feelings) they may commit offences; (3) they may display a taste or desire for other objects than the Lord; (4) owing to this desire they may contact other deities; (5) they may be weak-minded; owing to this (weak-mindedness ), they may desire to adopt other upāyas. There may be others who, owing to good deeds done in past lives which have begun to yield their fruits in this life and owing to the specific nature of the request for benefits made at the time of prapatti, have never swerved from the service of the Lord. It may be asked what is the nature of the delay in the release from saṁsāra in the case of these two classes of prapannas. The answer is as follows:
 
 (1) In this matter, prapaninas will never have the feelings of 'I' and 'mine' in any deep-seated form such as the Cārvākas (materialists) have. Even people who walk warily sometimes stumble; so also prapannas may, on rare occasions, show these feelings; but these improper feelings or notions will disappear by later wisdom originating in reason.
 
