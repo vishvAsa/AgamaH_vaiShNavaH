@@ -358,9 +358,80 @@ puede **estar sujeto** a lapsos como los siguientes:-
 इप्पडिपट्ट धिकारिकळिले प्रारब्धदुष्कृतविशेषवैचित्रियाले वरुम् 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अहं-कार मम-कारङ्गळ् ऎऩ्ऩ,  
+अवैय् अडिय् आग वरुम् अपचारङ्गळ् ऎऩ्ऩ, 
+</details>
+
+<details><summary>English</summary>
+
+(1) They may display the feelings of 'I' and 'mine' (ahankāra and mamakara)  
+(2) as a result of these (feelings) they may commit offences; 
+</details>
+
+<details><summary>Español</summary>
+
+(1) **Pueden mostrar** los sentimientos de 'yo' y 'mío' (Ahankāra y Mamakara)
+(2) Como resultado de estos (sentimientos) **pueden cometer** delitos;
+</details>
 
 
-(1) They may display the feelings of 'I' and 'mine' (ahankāra and mamakara) (2) as a result of these (feelings) they may commit offences; (3) they may display a taste or desire for other objects than the Lord; (4) owing to this desire they may contact other deities; (5) they may be weak-minded; owing to this (weak-mindedness ), they may desire to adopt other upāyas. There may be others who, owing to good deeds done in past lives which have begun to yield their fruits in this life and owing to the specific nature of the request for benefits made at the time of prapatti, have never swerved from the service of the Lord. It may be asked what is the nature of the delay in the release from saṁsāra in the case of these two classes of prapannas. The answer is as follows:
+<details><summary>मूलम्</summary>
+
+अहंकार ममकारङ्गळॆऩ्ऩ, अवैयडियाग वरुमपचारङ्गळॆऩ्ऩ, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+प्रयोजनान्तर-रुचिय् ऎऩ्ऩ,  
+अद्-अडिय् आग संभावितम् आऩ देवतान्तर-स्पर्शम् ऎऩ्ऩ, 
+</details>
+
+<details><summary>English</summary>
+
+(3) they may display a taste or desire for other objects than the Lord;  
+(4) owing to this desire they may contact other deities; 
+</details>
+
+<details><summary>Español</summary>
+
+(3) **Pueden mostrar** un sabor o deseo de otros objetos que el Señor;
+(4) Debido a este deseo **pueden contactar** a otras deidades;
+</details>
+
+<details><summary>मूलम्</summary>
+
+प्रयोजनान्तररुचियॆऩ्ऩ, अदडियाग संभावितमाऩ देवतान्तरस्पर्शमॆऩ्ऩ, 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+बुद्धि-दौर्बल्यम् ऎऩ्ऩ,  
+अद्-अडिय् आग वरुम् उपायान्तर-प्रत्याशैयॆऩ्ऩ, 
+</details>
+
+<details><summary>English</summary>
+
+(5) they may be weak-minded;  
+owing to this (weak-mindedness ), they may desire to adopt other upāyas. 
+</details>
+
+<details><summary>Español</summary>
+
+(5) **pueden ser** de mente débil;
+Debido a esto (mentalidad débil), **pueden desear adoptar** otros upāyas.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+बुद्धिदौर्बल्यमॆऩ्ऩ, अदडियाग वरुमुपायान्तरप्रत्याशैयॆऩ्ऩ, 
+</details>
+
+
+There may be others who, owing to good deeds done in past lives which have begun to yield their fruits in this life and owing to the specific nature of the request for benefits made at the time of prapatti, have never swerved from the service of the Lord. It may be asked what is the nature of the delay in the release from saṁsāra in the case of these two classes of prapannas. The answer is as follows:
 
 (1) In this matter, prapaninas will never have the feelings of 'I' and 'mine' in any deep-seated form such as the Cārvākas (materialists) have. Even people who walk warily sometimes stumble; so also prapannas may, on rare occasions, show these feelings; but these improper feelings or notions will disappear by later wisdom originating in reason.
 
