@@ -341,15 +341,13 @@ DELAY IN THE ATTAINMENT OF THE GOAL :
 <details><summary>English</summary>
 
 Among prapannas, there may be (some )  
-who, on account of certain specific evil deeds done in past lives which have begun to operate now,  
-may become subject to such lapses as the following :- 
+who, on account of certain specific evil deeds done in past lives which have begun to operate now -  
 </details>
 
 <details><summary>Español</summary>
 
 Entre Prapannas, **puede haber** (algunos)  
-quien, debido a ciertas acciones malvadas específicas realizadas en **vidas** pasadas que **han comenzado a operar** ahora,  
-puede **estar sujeto** a lapsos como los siguientes:-
+quien, debido a ciertas acciones malvadas específicas realizadas en **vidas** pasadas que **han comenzado a operar** ahora -  
 </details>
 
 
@@ -363,6 +361,14 @@ puede **estar sujeto** a lapsos como los siguientes:-
 अहं-कार मम-कारङ्गळ् ऎऩ्ऩ,  
 अवैय् अडिय् आग वरुम् अपचारङ्गळ् ऎऩ्ऩ, 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अहं-कार--ममकारौ,  
+तन्-मूलका अपचाराः,  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -388,6 +394,14 @@ puede **estar sujeto** a lapsos como los siguientes:-
 अद्-अडिय् आग संभावितम् आऩ देवतान्तर-स्पर्शम् ऎऩ्ऩ, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रयोजनान्तर-रुचिः,  
+तन्-मूलकतया संभावितो देवतान्तर-स्पर्शः,  
+
+</details>
+
+
 <details><summary>English</summary>
 
 (3) they may display a taste or desire for other objects than the Lord;  
@@ -412,6 +426,14 @@ puede **estar sujeto** a lapsos como los siguientes:-
 अद्-अडिय् आग वरुम् उपायान्तर-प्रत्याशैयॆऩ्ऩ, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+बुद्धि-दौर्बल्यं  
+तन्-मूलिकोपायान्तर-प्रत्याशा  
+
+</details>
+
+
 <details><summary>English</summary>
 
 (5) they may be weak-minded;  
@@ -424,20 +446,266 @@ owing to this (weak-mindedness ), they may desire to adopt other upāyas.
 Debido a esto (mentalidad débil), **pueden desear adoptar** otros upāyas.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 बुद्धिदौर्बल्यमॆऩ्ऩ, अदडियाग वरुमुपायान्तरप्रत्याशैयॆऩ्ऩ, 
 </details>
 
 
-There may be others who, owing to good deeds done in past lives which have begun to yield their fruits in this life and owing to the specific nature of the request for benefits made at the time of prapatti, have never swerved from the service of the Lord. It may be asked what is the nature of the delay in the release from saṁsāra in the case of these two classes of prapannas. The answer is as follows:
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-(1) In this matter, prapaninas will never have the feelings of 'I' and 'mine' in any deep-seated form such as the Cārvākas (materialists) have. Even people who walk warily sometimes stumble; so also prapannas may, on rare occasions, show these feelings; but these improper feelings or notions will disappear by later wisdom originating in reason.
+इव् वैपरीत्यम् पिऱन्द्-अवर्गळुक्कुम्
+</details>
 
-(2) In the chapter on the atonement for offences, we explained how, if offences are committed, they will last only until the time of winning pardon or the undergoing of punishment and how the offences will be expiated within the required time.
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-In the case of those who performed prapatti without indicating any definite time (for the attainment of mokṣa ), it is said as follows: "The man who has performed prapatti to me and who has not abstained from sins committed frequently, attains me late after wearing out all his sins."
+चेतीमानि वैपरीत्यानि जातानि येषां तेषाम्,  
+</details>
+
+
+<details><summary>English</summary>
+
+may become subject to such lapses as the ~~following~~ above.
+</details>
+
+<details><summary>Español</summary>
+
+**puede estar sujeto** a lapsos como el ~~ siguiente ~~ arriba.
+</details>
+
+<details><summary>मूलम्</summary>
+
+इव्वैपरीत्यम् पिऱन्दवर्गळुक्कुम्
+</details>
+
+
+ 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इवै पिऱवादे  
+प्रारब्ध-सुकृत-विशेषत्तालुम्  
+पूर्व-प्रपत्तियिल् फल-सङ्कल्प-विशेषत्तालुम्  
+छिद्रम् इल्लाद कैङ्कर्यत्तिले प्रतिष्ठितर् आय्प् पोन्द्-अवर्गळुक्कुम् 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+एतज्-जननं विनैव  
+प्रारब्ध-सुकृत-विशेषात्,  
+पूर्व-प्रपत्तौ फल-संकल्प-विशेषाच् च  
+छिद्रात्यये (कैङ्कर्ये) प्रतिष्ठितानां च सतां 
+</details>
+
+
+<details><summary>English</summary>
+
+There may be others who,  
+owing to good deeds done in past lives  
+which have begun to yield their fruits in this life  
+and owing to the specific nature of the request for benefits made at the time of prapatti,  
+have never swerved from the service of the Lord. 
+</details>
+
+<details><summary>Español</summary>
+
+**Puede haber** otros que  
+Debido a las buenas obras **hechas** en **vidas** pasadas  
+que **han comenzado a producir** sus frutas en esta vida  
+y debido a la naturaleza específica de la solicitud de beneficios **obtenidos** en el momento de Prapatti,  
+**nunca he desviado del servicio** del Señor.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इवै पिऱवादे प्रारब्धसुकृतविशेषत्तालुम् पूर्वप्रपत्तियिल् फलसङ्कल्पविशेषत्तालुम् छिद्रमिल्लाद कैङ्कर्यत्तिले प्रतिष्ठितराय्प्पोन्दवर्गळुक्कुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> संसारत्ति+++(ल्)+++ निऩ्ऱुम् निर्याणत्तुक्कु विळम्बाविळम्बङ्गळिले निलैय् इरुक्कुम् बडिय् ऎङ्ङऩेय्  
+
+ऎऩ्ऩिल्, 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> संसारान् निर्याणस्य विलम्बाविलम्बयोः स्थिति-प्रकारः कीदृश 
+
+इति चेत् - 
+</details>
+
+
+<details><summary>English</summary>
+
+It may be asked what is the nature of the delay  
+in the release from saṁsāra  
+in the case of these two classes of prapannas.  
+</details>
+
+<details><summary>Español</summary>
+
+**Se puede preguntar** cuál **es** la naturaleza del retraso  
+En el **lanzamiento** de Saṁsāra  
+En el caso de estas dos clases de Prapannas.
+</details>
+
+<details><summary>मूलम्</summary>
+
+संसारत्तिऩिऩ्ऱुम् निर्याणत्तुक्कु विळम्बाविळम्बङ्गळिले निलैयिरुक्कुम्बडि यॆङ्ङऩेयॆऩ्ऩिल्, 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+इव्व् इडत्तिल् इवर्गळुक्कु +++(प्रपन्नेभ्यः)+++  
+चार्वाकादिगळुक्कुप् पोले  
+निलै निऩ्ऱ अहङ्कार--मम-कारङ्गळ् पुगिरादु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अत्रैषां चार्वाकादीनाम् इव  
+स्थायिनाव् अहं-कार--मम-कारौ  
+न स्याताम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+The answer is as follows:
+
+(1) In this matter, prapannas will never have the feelings of 'I' and 'mine'  
+in any deep-seated form such as the Cārvākas (materialists) have.  
+</details>
+
+<details><summary>Español</summary>
+
+La **respuesta** es la siguiente:
+
+(1) En este asunto, Prapannas **nunca tendrá** los sentimientos de 'yo' y 'mío'  
+en cualquier forma profundamente arraigada  
+
+como los cārvākas (materialistas) **tienen**.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+इव्विडत्तिलिवर्गळुक्कु चार्वाकादिगळुक्कुप्पोले निलै निऩ्ऱ अहङ्कारममकारङ्गळ् पुगिरादु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+**अवहितर् आय् नडप्पार् इडरुमाप्**+++(=स्खलन)+++ पोलेय्  
+ऎऩ्ऱ् एऩुम् ऒरु काल्+++(ल)+++ वरुम् अहङ्-कार--मम-कारङ्गळ् **विवेकावधिगळ् आय्**  
+पिऩ्ब् उऱ्ऱ **तॆळिवाले कऴिन्दु बोम्।**  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अवहितानां (अपि) सञ्चरतां स्खलनवत्  
+यदा-कदाचिद् उपनमन्ताव् अहंकारममकारौ  
+विवेकावधिकौ पाश्चात्य-प्रबोधेन निवर्तेयाताम् । 
+</details>
+
+
+<details><summary>English</summary>
+
+Even people who walk warily sometimes stumble;  
+so also prapannas may, on rare occasions, show these feelings;  
+but these improper feelings or notions will disappear  
+by later wisdom originating in reason.
+</details>
+
+<details><summary>Español</summary>
+
+Incluso las personas que **caminan** con cautela a veces **tropiezan**;  
+Así también Prapannas puede, en raras ocasiones, **mostrar** estos sentimientos;  
+Pero estos sentimientos o nociones inadecuados **desaparecerán**  
+por la sabiduría posterior que se origina en la razón.
+</details>
+
+<details><summary>मूलम्</summary>
+
+अवहितराय् नडप्पारिडरुमाप् पोलेयॆऩ्ऱेऩुमॊरुगाल् वरुमहङ्कारममकारङ्गळ् विवेकावधिकळाय् पिऩ्बुऱ्ऱ तॆळिवाले कऴिन्दुबोम्।  
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अपराधङ्गळ् पिऱन्दाल्  
+क्षापणावधिय् आयुम्, शिक्षावधिय् आयुङ्  
+कोलिऩ कालत्तुक्कुळ्ळे अपराध-निस्तारम् पिऱक्कुम् बडि  
+अपराध-परिहाराधिकारत्तिले सॊऩ्ऩोम्। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अपराधेषु जातेषु  
+क्षामणावधिकतया, शिक्षावधिकतया च  
+उद्दिष्ट-कालाभ्यन्तर एव  
+अपराध-निस्तारस्योत्पत्ति-प्रकारम्  
+अपराध-परिहाराधिकारेऽवोचाम । 
+</details>
+
+<details><summary>English</summary>
+
+(2) In the chapter on the atonement for offences,  
+we explained how,  
+if offences are committed,  
+they will last only until the time of winning pardon or the undergoing of punishment  
+and how the offences will be expiated within the required time.
+</details>
+
+<details><summary>Español</summary>
+
+(2) En el capítulo sobre la **expiación** por delitos,  
+**Explicamos** cómo,  
+Si **se cometen** delitos,  
+**durarán** solo hasta el momento de **ganar perdón o el castigo**  
+y cómo **se expirarán** los delitos dentro del tiempo requerido.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+अपराधङ्गळ् पिऱन्दाल् क्षापणावधि यायुम् शिक्षावधियायुङ्गोलिऩ कालत्तुक्कुळ्ळे अपराधनिस्तारम् पिऱक्कुम्बडि अपराधपरिहाराधिकारत्तिले सॊऩ्ऩोम्। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मोक्षम् पॆऱुगैक्कुक् काल-विशेषङ् कुऱियादे प्रपन्नर् आऩरैप् पऱ्ऱ 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मोक्ष-प्राप्त्य्-अर्थं काल-विशेषम् अनुद्दिश्य प्रपन्नान् अधिकृत्य, 
+</details>
+
+<details><summary>English</summary>
+
+In the case of those who performed prapatti without indicating any definite time (for the attainment of mokṣa ), 
+</details>
+
+<details><summary>Español</summary>
+
+En el caso de aquellos que **realizaron** Prapatti  
+sin **indicar** ningún tiempo definido (para el logro de mokṣa),
+</details>
+
+<details><summary>मूलम्</summary>
+
+मोक्षम् पॆऱुगैक्कुक् कालविशेषङ्गुऱियादे प्रपन्नराऩरैप्पऱ्ऱ 
+</details>
+
+
+
+
+it is said as follows: 
+
+"The man who has performed prapatti to me and who has not abstained from sins committed frequently, attains me late after wearing out all his sins."
 
 (3) "Since the prapanna is bent on attaining mokṣa, he is not likely to have any long-standing desire for other benefits. Like those who have both Brahma bhāvana and Karma bhavana, (Brahma, Rudra and the like), they might entertain a desire for other benefits along with the desire for mokṣa ; if so, Iśvara, who is their well-wisher, will not grant them those (so called) benefits ( as they are not for his good); for it is said :-"Even when the bhakta prays for it, Iśvara does not permit him to do what is not good to himself. Does not the mother prevent her child that longs to fall into the fire ?" It is said also :-- " He whom I want to bless -- his wealth I take away from him. His relations will then desert him. He will become miserable. If, in his misery, he still clings to me, I confer on him such blessings as are unattainable even for the devas." The same idea is found in the story of Kundadhāra[^57] . Sometimes Iśvara creates in the prapanna a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
 
