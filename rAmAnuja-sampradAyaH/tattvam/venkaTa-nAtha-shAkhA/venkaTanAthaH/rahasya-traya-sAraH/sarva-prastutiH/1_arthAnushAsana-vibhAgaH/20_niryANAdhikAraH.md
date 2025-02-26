@@ -364,6 +364,14 @@ puede **estar sujeto** a lapsos como los siguientes:-
 अवैय् अडिय् आग वरुम् अपचारङ्गळ् ऎऩ्ऩ, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+अहं-कार--ममकारौ,  
+तन्-मूलका अपचाराः,  
+
+</details>
+
+
 <details><summary>English</summary>
 
 (1) They may display the feelings of 'I' and 'mine' (ahankāra and mamakara)  
@@ -387,6 +395,14 @@ puede **estar sujeto** a lapsos como los siguientes:-
 प्रयोजनान्तर-रुचिय् ऎऩ्ऩ,  
 अद्-अडिय् आग संभावितम् आऩ देवतान्तर-स्पर्शम् ऎऩ्ऩ, 
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+प्रयोजनान्तर-रुचिः,  
+तन्-मूलकतया संभावितो देवतान्तर-स्पर्शः,  
+
+</details>
+
 
 <details><summary>English</summary>
 
@@ -412,6 +428,14 @@ puede **estar sujeto** a lapsos como los siguientes:-
 अद्-अडिय् आग वरुम् उपायान्तर-प्रत्याशैयॆऩ्ऩ, 
 </details>
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+बुद्धि-दौर्बल्यं  
+तन्-मूलिकोपायान्तर-प्रत्याशा  
+
+</details>
+
+
 <details><summary>English</summary>
 
 (5) they may be weak-minded;  
@@ -424,11 +448,12 @@ owing to this (weak-mindedness ), they may desire to adopt other upāyas.
 Debido a esto (mentalidad débil), **pueden desear adoptar** otros upāyas.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 बुद्धिदौर्बल्यमॆऩ्ऩ, अदडियाग वरुमुपायान्तरप्रत्याशैयॆऩ्ऩ, 
 </details>
+
+
 
 
 There may be others who, owing to good deeds done in past lives which have begun to yield their fruits in this life and owing to the specific nature of the request for benefits made at the time of prapatti, have never swerved from the service of the Lord. It may be asked what is the nature of the delay in the release from saṁsāra in the case of these two classes of prapannas. The answer is as follows:
