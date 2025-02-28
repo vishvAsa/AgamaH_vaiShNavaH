@@ -700,12 +700,63 @@ sin **indicar** ningún tiempo definido (para el logro de mokṣa),
 मोक्षम् पॆऱुगैक्कुक् कालविशेषङ्गुऱियादे प्रपन्नराऩरैप्पऱ्ऱ 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+> **अपायाविरतश्** शश्वन्  
+> माञ् चैव **शरणङ्** गतः ।  
+> **तनू-कृत्याखिलं** पापं  
+> माम् **आप्नोति** नरश् शनैः ॥  
+> (लक्ष्मीतन्त्रम् १७-१०२) 
 
+ऎऩ्ऱु सॊल्लुगिऱदु। 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **अपायाविरतश्** शश्वन्  
+> माञ् चैव **शरणङ्** गतः ।  
+> **तनू-कृत्याखिलं** पापं  
+> माम् **आप्नोति** नरश् शनैः ॥  
+> (लक्ष्मीतन्त्रम् १७-१०२) 
+</details>
+
+<details><summary>English</summary>
 
 it is said as follows: 
 
-"The man who has performed prapatti to me and who has not abstained from sins committed frequently, attains me late after wearing out all his sins."
+> "The man who has performed prapatti to me  
+> and who has not abstained from sins committed frequently,  
+> attains me late after wearing out all his sins."
+</details>
+
+<details><summary>Español</summary>
+
+**Se dice** de la siguiente manera:
+
+> "El hombre que me **ha interpretado** Prapatti  
+> y quién **no se ha abstenido** de los pecados **cometidos** con frecuencia,  
+> Me **alcanza** tarde después de **usar** todos sus pecados ".
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘अपायाविरतश्शश्वन्माञ्चैव शरणङ्गतः । तनूकृत्याखिलं पापं मामाप्नोति नरश्शनैः ॥’’(लक्ष्मीतन्त्रम् १७-१०२) ऎऩ्ऱु सॊल्लुगिऱदु। 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+मुमुक्षुव् आय् इऴिन्दवऩ् आगैयाले  
+प्रयोजनान्तर-रुचि निलै निऱ्कव् उण्ड् आगादु। 
+</details>
+
+<details><summary>मूलम्</summary>
+
+मुमुक्षुवायिऴिन्दवऩागैयाले प्रयोजनान्तररुचि निलै निऱ्कवुण्डागादु। 
+</details>
+
+
 
 (3) "Since the prapanna is bent on attaining mokṣa, he is not likely to have any long-standing desire for other benefits. Like those who have both Brahma bhāvana and Karma bhavana, (Brahma, Rudra and the like), they might entertain a desire for other benefits along with the desire for mokṣa ; if so, Iśvara, who is their well-wisher, will not grant them those (so called) benefits ( as they are not for his good); for it is said :-"Even when the bhakta prays for it, Iśvara does not permit him to do what is not good to himself. Does not the mother prevent her child that longs to fall into the fire ?" It is said also :-- " He whom I want to bless -- his wealth I take away from him. His relations will then desert him. He will become miserable. If, in his misery, he still clings to me, I confer on him such blessings as are unattainable even for the devas." The same idea is found in the story of Kundadhāra[^57] . Sometimes Iśvara creates in the prapanna a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
 
