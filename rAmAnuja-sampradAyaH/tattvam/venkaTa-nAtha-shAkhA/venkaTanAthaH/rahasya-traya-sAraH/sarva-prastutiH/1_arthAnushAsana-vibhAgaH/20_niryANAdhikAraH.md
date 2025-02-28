@@ -718,6 +718,8 @@ sin **indicar** ningún tiempo definido (para el logro de mokṣa),
 > **तनू-कृत्याखिलं** पापं  
 > माम् **आप्नोति** नरश् शनैः ॥  
 > (लक्ष्मीतन्त्रम् १७-१०२) 
+
+इत्य् उच्यते । 
 </details>
 
 <details><summary>English</summary>
@@ -748,19 +750,251 @@ it is said as follows:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षुव् आय् इऴिन्दवऩ् आगैयाले  
-प्रयोजनान्तर-रुचि निलै निऱ्कव् उण्ड् आगादु। 
+प्रयोजनान्तर-रुचि निलै निऱ्कव् उण्ड् आगादु। +++(4)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुमुक्षुः सन् प्रवृत्त इत्य् अतः  
+प्रयोजनान्तर-रुचिः स्थिरा नावतिष्ठेत । +++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+(3) Since the prapanna is bent on attaining mokṣa,  
+he is not likely to have any long-standing desire for other benefits.  
+
+</details>
+
+<details><summary>Español</summary>
+
+(3) Dado que la Prapanna **está empeñada** en **alcanzar** mokṣa,
+**No es probable** que **tenga** ningún **deseo** largamente acariciado por otros beneficios.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 मुमुक्षुवायिऴिन्दवऩागैयाले प्रयोजनान्तररुचि निलै निऱ्कवुण्डागादु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(ब्रह्म-रुद्रादि-)+++ उभय-भावनर्क्कुप् पोले  
+मोक्ष-रुचियोडे कूड प्रयोजनान्तर-रुचियुङ् **कलन्दु वन्दाल्**  
+इवऩुक्कु हित-परऩ् आऩव् ईश्वरऩ्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उभय-भावनानाम् इव  
+मोक्ष-रुच्या सह प्रयोजनान्तर-रुचेर् अपि **मिश्री-भूय प्रवृत्ताव्** अपि  
+एतद्-धित-परेणेश्वरेण 
+</details>
 
 
-(3) "Since the prapanna is bent on attaining mokṣa, he is not likely to have any long-standing desire for other benefits. Like those who have both Brahma bhāvana and Karma bhavana, (Brahma, Rudra and the like), they might entertain a desire for other benefits along with the desire for mokṣa ; if so, Iśvara, who is their well-wisher, will not grant them those (so called) benefits ( as they are not for his good); for it is said :-"Even when the bhakta prays for it, Iśvara does not permit him to do what is not good to himself. Does not the mother prevent her child that longs to fall into the fire ?" It is said also :-- " He whom I want to bless -- his wealth I take away from him. His relations will then desert him. He will become miserable. If, in his misery, he still clings to me, I confer on him such blessings as are unattainable even for the devas." The same idea is found in the story of Kundadhāra[^57] . Sometimes Iśvara creates in the prapanna a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
+<details><summary>English</summary>
 
-[^57]: Kundadhara : A certain man who was devoutly attached to Kundadhara begged him for wealth. Kundadhara, instead of granting wealth, saw to it that his follower should become attached to dharma.
+Like those who have both Brahma bhāvana and Karma bhavana, (Brahma, Rudra and the like),  
+they might entertain a desire for other benefits  
+along with the desire for mokṣa ;  
+if so, Iśvara, who is their well-wisher,  
+</details>
+
+<details><summary>Español</summary>
+
+Como los que **tienen** Brahma Bhāvana y Karma Bhavana, (Brahma, Rudra y similares),  
+**podrían entretener** el deseo de otros beneficios  
+junto con el deseo de mokṣa;  
+Si **es** así, Iśvara, que **es** su **simpatizante**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+उभयभावनर्क्कुप्पोले मोक्षरुचियोडे कूड प्रयोजनान्तररुचियुङ्गलन्दु वन्दाल् इवऩुक्कु हितपरऩाऩवीश्वरऩ्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> याचितोऽपि सदा भक्तैर्  
+> नाहितं कारयेद्+ धरिः।  
+> (बालमग्नौ पतन्तं तु  
+> माता किं न निवारयेत्?॥)  
+> (विष्णुधर्मः।) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> याचितोऽपि सदा भक्तैर्  
+> नाहितं कारयेद्+ धरिः  
+> (बालमग्नौ पतन्तं तु  
+> माता किं न निवारयेत्?॥)  
+> (विष्णुधर्मः।) 
+</details>
+
+<details><summary>English</summary>
+
+> "Even when the bhakta prays for it,  
+Iśvara does not permit him to do what is not good to himself.  
+Does not the mother prevent her child  
+that longs to fall into the fire ?" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Even when the bhakta prays for it,  
+Iśvara does not permit him to do what is not good to himself.  
+Does not the mother prevent her child  
+that longs to fall into the fire ?" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘याचितोऽपि सदा भक्तैर्नाहितं कारयेद्धरिः’’(विष्णुधर्मः।) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **यस्यानुग्रहम् इच्छामि**  
+धनं तस्य **हराम्य्** अहम्।  
+(बान्धवैश् च **वियोगेन**  
+सदा **भवति दुःखितः** ॥  
+तेन दुःखेन **सन्तप्तो**  
+यदि मां **न परित्यजेत्** ।  
+तं प्रसादं **करिष्यामि**  
+यस् सुरैर् अपि दुर्लभः ॥)
+> 
+> (श्रीभागवतम्।)  
+
+इत्यादिगळिलुम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **यस्यानुग्रहम् इच्छामि**  
+धनं तस्य **हराम्य्** अहम्।  
+(बान्धवैश् च **वियोगेन**  
+सदा **भवति दुःखितः** ॥  
+तेन दुःखेन **सन्तप्तो**  
+यदि मां **न परित्यजेत्** ।  
+तं प्रसादं **करिष्यामि**  
+यस् सुरैर् अपि दुर्लभः ॥)
+> 
+> (श्रीभागवतम्।)  
+
+इत्यादिषु च  
+</details>
+
+<details><summary>English</summary>
+
+> " He whom I want to bless --  
+his wealth I take away from him.  
+His relations will then desert him.  
+He will become miserable.  
+If, in his misery, he still clings to me,  
+I confer on him such blessings  
+as are unattainable even for the devas." 
+
+for it is said (thus)
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **quiero bendecir** -  
+Su riqueza le **quito**.  
+Sus relaciones lo **abandonarán**.  
+Se **volverá miserable**.  
+Si, en su miseria, todavía **se aferra** a mí,  
+Le **confio** tales bendiciones  
+como son inalcanzables incluso para los Devas ".
+
+porque **se dice** (como arriba)
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्यानुग्रहमिच्छामि धनं तस्य हराम्यहम्’’(श्रीभागवतम्।)  इत्यादिगळिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुण्ड-धारोपाख्यानादिगळिलुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कुण्डधारोपाख्यानादिषु चोक्तरीत्या 
+</details>
+
+
+<details><summary>English</summary>
+
+The same idea is found in the story of Kundadhāra[^57] . 
+
+[^57]: 
+
+    Kundadhara :  
+    A certain man who was devoutly attached to Kundadhara begged him for wealth.  
+    Kundadhara, instead of granting wealth,  
+    saw to it that his follower should become attached to dharma.
+
+</details>
+
+<details><summary>Español</summary>
+
+La misma idea **se encuentra** en la historia de Kundadhāra [^es57].
+
+[^es57]:
+
+    Kundadhara:  
+    Un cierto hombre que **estaba devotamente apegado** a Kundadhara le **rogó** riqueza.   
+    Kundadhara, en lugar de **otorgar** riqueza,  
+    **asegurada** que su **seguidor** debe **apegarse** al Dharma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुण्डधारोपाख्यानादिगळिलुञ्जॊल्लुगिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिल प्रयोजनान्तरङ्गळैक् कॊडादे कण्ण्-अऴित्तुम्  
+</details>
+
+<details><summary>English</summary>
+
+(he) will not grant them those (so called) benefits ( as they are not for his good);  
+</details>
+
+<details><summary>Español</summary>
+
+(él) **no** les **otorgará** esos (llamados) beneficios  
+(como no son para su bien);
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिल प्रयोजनान्तरङ्गळैक्कॊडादे कण्णऴित्तुम्  
+</details>
+
+
+
+
+
+
+
+
+
+
+
+Sometimes Iśvara creates in the prapanna a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
+
 
 Thus the man who performed prapatti indicating the time when he should attain mokṣa , will have acquired an aversion to other benefits than the Lord within the prescribed time. In the case also of the man who did not indicate any such time while performing prapatti, there will be delay, as has been stated in the śloka : - "The man who is desirous of performing such karma as is a means of obtaining other benefits (than God ) enjoys pleasures unmingled with pain, and at last acquires a distaste for them (and the spirit of renunciation ), after which he reaches the abode of Bhagavān. In accordance with this, the delay in his attainment (of the supreme goal) will be only until the birth of aversion to worldly objects.
 
