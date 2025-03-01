@@ -33,6 +33,13 @@ Página 255
 ॥ श्रीमद्रहस्यत्रयसारे निर्याणाधिकारः ॥ २० ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+॥ श्रीः ॥  
+श्रीसारबोधिनीव्याख्यायां  
+निर्याणाधिकारः ॥  
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः (सं॰प॰)</summary>
 
@@ -113,6 +120,21 @@ de acuerdo con las calificaciones (de cada individuo).
 नयति परतो नाडीभेदैर्यथोचितमीश्वरः ॥ ४४ ॥
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडि निरपराधकैङ्कर्यत्तैप् पण्णिक्कॊण्डु प्रशस्तदेशत्तिल् वसित्तुवरुम् प्रपन्नऩुक्कु देहावसानम् किट्टिऩवाऱे वरुम् स्थूलशरीरत्तिल् निऩ्ऱुम् निर्याणत्तै इव्वधिकारत्तिल् निरूपिक्कप्पोगिऱवराय् अधिकारार्थत्तै श्लोकत्ताले सङ्ग्रहिक्किऱार् मनसीति । ईश्वरः – सर्वनियन्तावाऩ भगवाऩ्, जीवऩुडैय उत्क्रान्तिसमयत्तिल् मुन्दुऱ म्रियमाणऩुडैय। करणग्रामं – वागादिगळाऩ इन्द्रियवर्गत्तै, मनसि - मऩस्सिले, झटिति – शीघ्रमाग, घटयन् – ‘‘अस्य सोम्य पुरुषस्य प्रयतो वाङ्मनसि सम्पद्यते’’ इत्युक्त प्रकारेण मुदलिल् स्वकार्यक्षममऩ्ऱिक्के सेर्प्पिक्कुमवऩाय्, इदऩाल् उत्क्रान्ति पादत्तिलुळ्ळ वागधिकरणार्थम् सॊल्लप्पट्टदु। मनः - अन्द मऩस्सै, करण ग्रामविशिष्टमाऩ अन्द मऩस्सै यॆऩ्ऱबडि। प्राणे – मुख्यप्राणऩिडत्तिले, घटयन् – मनः प्राणे ऎऩ्गिऱबडिये सेर्प्पिक्कुमवऩाय्, इदऩाल् मनोधिकरणार्थम् सॊल्लप्पट्टदु। तञ्च – इन्द्रियमनोविशिष्टप्राणऩैयुम्, पुरुषे – जीवऩिडत्तिले, घटयन् – तमुत्क्रामन्तं प्राणोनूत्क्रामति ऎऩ्गिऱबडिये सेर्प्पिक्कुमवऩाय्, इदऩाल् अध्यक्षाधिकरणार्थम् सॊल्लप्पट्टदु। एनं – सर्वविशिष्टऩाऩ इन्द जीवऩै, भूतेषु – त्रिस्थूणत्तिल् निऩ्ऱुम् कडैन्दॆडुत्त सूक्ष्मङ्गळाऩ भूतङ्गळिले, घटयन् । इदऩाल् भूताधिकरणार्थम् सॊल्लप्पट्टदु। तञ्च – भूतसूक्ष्मविशिष्ट ऩाऩ अन्द जीवऩै। परे आत्मनि – हार्दऩाऩ तऩ्ऩिडत्तिले, घटयन् – विश्रमिप्पिक्कु मवऩाय्क्कॊण्डु। इदऩाल् परसम्पत्त्यधिकरणार्थम् सॊल्लप्पट्टदु। इदऱ्कु नयतिऎऩ्बदोडन्वयम्। स्वविदविदुषोः – विच्च अविद्वांश्च विदविद्वांसौ, स्वस्य – स्वान्तर्यामिभूतब्रह्मणः – विदविद्वांसौ स्वविदविद्वांसौ तयोः; ब्रह्मविदब्रह्मविदोरित्यर्थः । सरणेः – अर्चिरादिमार्गत्तिऩुडैयवुम्, धूमादिमार्गत्तिऩुडैयवुम्, मुखे – मुखमाऩ निर्याणमाऩदु, अथवा सरणेर्मुखैरिति तृतीयान्तपाठः । इदु नाडीभेदैः ऎऩ्बदऱ्कु विशेषणम्। इत्थं साधारणे सति – पूर्वोक्तप्रकारत्ताले हार्दऩिडत्तिल् विश्रमपर्यन्तम् तुल्यमाग विरुन्दवळविल्, इदऩाल् आसृत्युपक्रमाधिकरणार्थम् सूचितम्। परतः – इदऱ्कुमेल्, यथोचितं नाडीभेदैः – 
+
+> ‘‘शतञ् चैका च हृदयस्य नाड्यस्  
+> तासां मूर्द्धानम् अभिनिस्सृतैका ।  
+> तयोर्ध्वम् आयन्न् अमृतत्वम् एति  
+> विष्वङ्ङ् अन्या उत्क्रमणे भवन्ति’’ 
+
+ऎऩ्ऱु सॊऩ्ऩबडि विद्वाऩ्गळै मूर्द्धन्यनाडियालुम्,  
+अविद्वाऩ्गळै तिर्यङ्नाडिकळालुम्अधोमुखनाडिकळालुम्, नयति – तत्तत्स्थानभेदङ्गळै अडैविक्किऱाऩ्।  
+
+</details>
+
+
 ## प्रपन्नस्य भगवदभिमतत्वम्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -165,6 +187,12 @@ Cuando con estas palabras, la Prapanna **toma** los pies del Señor,
 </details>
 
 
+<details><summary>सायण-टीका</summary>
+
+इऩि प्रपन्नविषयत्तिल् सिल विशेषङ्गळैच् चॊल्ल निऩैत्तु, मुऩ् अधिकारङ्गळिल् सॊऩ्ऩ अवर्गळुडैय दशाविशेषङ्गळै अनुवदिक्किऱार् इप्पडि - इत्यादिना । इप्पडि - साङ्गप्रपदनाधिकारोक्तरीत्या, इवऩ्गाल्बिडिक्क - तिरुवडिगळै शरणमागप् पऱ्ऱ 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 > ‘‘हस्तावलम्बनो ह्य् एको  
@@ -207,6 +235,11 @@ Lo cual, **se ha dicho**, es el único apoyo de la Prapanna:
 <details><summary>मूलम्</summary>
 
 ‘‘हस्तावलम्बनो ह्येको भक्तिक्रीतो जनार्दनः’’(विष्णुधर्मः ३-२४) ऎऩ्गिऱबडिये इवऩैक् कैप्पिडित्तु 
+</details>
+
+<details><summary>सायण-टीका</summary>
+
+हस्तावलम्बनः – हस्तः अवलम्बनं यस्य – संसारसमुद्रत्तिल्निऩ्ऱुम् तूक्किविडुगैक्कु सौकर्यार्थमाग आश्रितर्गळुडैय हस्तत्तै अवलम्बनमागवुडैयवऩ्, भक्तिक्रीत इति । भक्तिक्रीतो जनार्दन एक एव हस्तावलम्बकः न त्वन्य इति भावः । इवऩैक् कैप्पिडित्तु इति । इङ्गु कालैप् पिडित्तवऩै कैयैप्पिडित्तु ऎऩ्ऱु चाटूक्ति तोऩ्ऱुगिऱदु। 
 </details>
 
 
@@ -253,6 +286,11 @@ Līlā vibhūti (en este mundo) y nitya vibhūti o gloria eterna en Paramapada,
 ‘‘राजाधिराजस्सर्वेषां’’(भारतम् शान्ति-पर्व ४३-१३।) ऎऩ्गिऱबडिये उभयविभूति नाथऩाऩ सर्वेश्वरऩ् ताऩुगन्ददॊरु निलत्तिले वैक्क 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+कैयैप्पिडित्तु ऎऩ्ऱदाल् वक्ष्यमाणार्थानुगुणमाग पाणिग्रहणसमाधियुम् तोऱ्ऱुगिऱदु। कैयैप्पिडित्त वरै परकीयस्थलत्तिल् वैक्कलामो वॆऩ्ऱु शङ्कियामैक्काग। राजाधिराजस्सर्वेषामित्यादि । इवऩ् उभयविभूतिनाथऩाऩबडियालिवऩदल्लामल् परकीयमाऩदॊरु वस्तुवुमिल्लै यॆऩ्ऱु करुत्तु। अदिलुम् भगवाऩ् तऩक्कु अत्यन्ताभिमतमाऩ तॊरु देशत्तिलेये इवऩै वसिक्कुम्बडिच्चॆय्युमॆऩ्ऱरुळिच्चॆय्गिऱार् ताऩुगन्ददॊरु निलत्तिले वैक्क इति । 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -283,6 +321,12 @@ Y la Prapanna **lleva su vida** allí,
 अभिषिक्तैयाऩ महिषियैप्पोलेबहुमतऩाय्त् 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+पाणिग्रहणत्तालुम् अभिमतदेशत्तिल् वैक्कैयालुम् प्रपन्नऩुक्कुत् तोऩ्ऱिऩ विशेषत्तै यरुळिच्चॆय्गिऱर् अभिषिक्तैयाऩ महिषियैप्पोले बहुमतऩायिति । 
+</details>
+
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -310,6 +354,12 @@ y **siguiendo las ocupaciones** que son consistentes con su apego exclusivo y su
 
 तऩ् परमैकान्तित्वत्तुक्कनुरूपमाऩ वृत्तियोडे पोरुमिव्वधिकारी। 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अनुरूपमाऩ वृत्तियोडेबोरुमिव्वधिकारीति । भगवाऩाले भरस्वीकारम् पण्णि स्वाभिमतदेशत्तिल् निऱुत्ति महिषियैप् पोले अभिमानिक्कप्पट्ट प्रपन्नऩुक्कुत् तऩ् परमैकान्तित्वत्तिऱ्कु अनुगुणमाऩ वृत्तिये नडैबॆऱुमॆऩ्ऱु करुत्तु। इव्वळवुम् पूर्वानुवादम्। 
+</details>
+
 
 ## मोक्ष-विलम्बः
 
@@ -356,6 +406,12 @@ quien, debido a ciertas acciones malvadas específicas realizadas en **vidas** p
 इप्पडिपट्ट धिकारिकळिले प्रारब्धदुष्कृतविशेषवैचित्रियाले वरुम् 
 </details>
 
+<details><summary>सायण-टीका</summary>
+
+इप्पडिप्पट्ट अधिकारिकळुक्कुळ्ळे सिलरुक्कु निर्याणविळम्बमुम् सिलरुक्कु तदविळम्बमुमॆप्पडि सम्भविक्कक् कूडुमॆऩ्ऱु शङ्कित्तु समाधानमरुळिच्चॆय्गिऱार् इप्पडिप्पट्ट इत्यादियाल्। प्रारब्धदुष्कृतविशेषम् - अभ्युपगतप्रारब्धपापविशेषम्, वैचित्रियाले वरुम् - भगवदभिमतर्गळैयुम् बाधिक्कुम्बडियाऩ वैचित्र्यत्ताले वरुम्। इदै प्रयोजनान्तर रुचियॆऩ्बदोडुम्, बुद्धिदौर्बल्यमॆऩ्बदोडुम् अन्वयित्तुक्कॊळ्वदु। 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं-कार मम-कारङ्गळ् ऎऩ्ऩ,  
@@ -387,6 +443,12 @@ quien, debido a ciertas acciones malvadas específicas realizadas en **vidas** p
 
 अहंकार ममकारङ्गळॆऩ्ऩ, अवैयडियाग वरुमपचारङ्गळॆऩ्ऩ, 
 </details>
+
+<details><summary>सायण-टीका</summary>
+
+अवैयडियाग इति । अहङ्कार-ममकारङ्गळिरुन्दाल् अपचारम् अवश्यम्भावियॆऩ्ऱुम्, अपचारमिरुन्दाल् विळम्बम् अवश्यम्भावि यॆऩ्ऱुम् अभिप्रेतम्। 
+</details>
+
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -718,6 +780,8 @@ sin **indicar** ningún tiempo definido (para el logro de mokṣa),
 > **तनू-कृत्याखिलं** पापं  
 > माम् **आप्नोति** नरश् शनैः ॥  
 > (लक्ष्मीतन्त्रम् १७-१०२) 
+
+इत्य् उच्यते । 
 </details>
 
 <details><summary>English</summary>
@@ -748,19 +812,251 @@ it is said as follows:
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुमुक्षुव् आय् इऴिन्दवऩ् आगैयाले  
-प्रयोजनान्तर-रुचि निलै निऱ्कव् उण्ड् आगादु। 
+प्रयोजनान्तर-रुचि निलै निऱ्कव् उण्ड् आगादु। +++(4)+++
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+मुमुक्षुः सन् प्रवृत्त इत्य् अतः  
+प्रयोजनान्तर-रुचिः स्थिरा नावतिष्ठेत । +++(4)+++
+</details>
+
+
+<details><summary>English</summary>
+
+(3) Since the prapanna is bent on attaining mokṣa,  
+he is not likely to have any long-standing desire for other benefits.  
+
+</details>
+
+<details><summary>Español</summary>
+
+(3) Dado que la Prapanna **está empeñada** en **alcanzar** mokṣa,
+**No es probable** que **tenga** ningún **deseo** largamente acariciado por otros beneficios.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
 मुमुक्षुवायिऴिन्दवऩागैयाले प्रयोजनान्तररुचि निलै निऱ्कवुण्डागादु। 
 </details>
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
++++(ब्रह्म-रुद्रादि-)+++ उभय-भावनर्क्कुप् पोले  
+मोक्ष-रुचियोडे कूड प्रयोजनान्तर-रुचियुङ् **कलन्दु वन्दाल्**  
+इवऩुक्कु हित-परऩ् आऩव् ईश्वरऩ्  
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+उभय-भावनानाम् इव  
+मोक्ष-रुच्या सह प्रयोजनान्तर-रुचेर् अपि **मिश्री-भूय प्रवृत्ताव्** अपि  
+एतद्-धित-परेणेश्वरेण 
+</details>
 
 
-(3) "Since the prapanna is bent on attaining mokṣa, he is not likely to have any long-standing desire for other benefits. Like those who have both Brahma bhāvana and Karma bhavana, (Brahma, Rudra and the like), they might entertain a desire for other benefits along with the desire for mokṣa ; if so, Iśvara, who is their well-wisher, will not grant them those (so called) benefits ( as they are not for his good); for it is said :-"Even when the bhakta prays for it, Iśvara does not permit him to do what is not good to himself. Does not the mother prevent her child that longs to fall into the fire ?" It is said also :-- " He whom I want to bless -- his wealth I take away from him. His relations will then desert him. He will become miserable. If, in his misery, he still clings to me, I confer on him such blessings as are unattainable even for the devas." The same idea is found in the story of Kundadhāra[^57] . Sometimes Iśvara creates in the prapanna a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
+<details><summary>English</summary>
 
-[^57]: Kundadhara : A certain man who was devoutly attached to Kundadhara begged him for wealth. Kundadhara, instead of granting wealth, saw to it that his follower should become attached to dharma.
+Like those who have both Brahma bhāvana and Karma bhavana, (Brahma, Rudra and the like),  
+they might entertain a desire for other benefits  
+along with the desire for mokṣa ;  
+if so, Iśvara, who is their well-wisher,  
+</details>
+
+<details><summary>Español</summary>
+
+Como los que **tienen** Brahma Bhāvana y Karma Bhavana, (Brahma, Rudra y similares),  
+**podrían entretener** el deseo de otros beneficios  
+junto con el deseo de mokṣa;  
+Si **es** así, Iśvara, que **es** su **simpatizante**,
+</details>
+
+<details><summary>मूलम्</summary>
+
+उभयभावनर्क्कुप्पोले मोक्षरुचियोडे कूड प्रयोजनान्तररुचियुङ्गलन्दु वन्दाल् इवऩुक्कु हितपरऩाऩवीश्वरऩ्  
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> याचितोऽपि सदा भक्तैर्  
+> नाहितं कारयेद्+ धरिः।  
+> (बालमग्नौ पतन्तं तु  
+> माता किं न निवारयेत्?॥)  
+> (विष्णुधर्मः।) 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> याचितोऽपि सदा भक्तैर्  
+> नाहितं कारयेद्+ धरिः  
+> (बालमग्नौ पतन्तं तु  
+> माता किं न निवारयेत्?॥)  
+> (विष्णुधर्मः।) 
+</details>
+
+<details><summary>English</summary>
+
+> "Even when the bhakta prays for it,  
+Iśvara does not permit him to do what is not good to himself.  
+Does not the mother prevent her child  
+that longs to fall into the fire ?" 
+</details>
+
+<details><summary>Español</summary>
+
+> "Even when the bhakta prays for it,  
+Iśvara does not permit him to do what is not good to himself.  
+Does not the mother prevent her child  
+that longs to fall into the fire ?" 
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+‘‘याचितोऽपि सदा भक्तैर्नाहितं कारयेद्धरिः’’(विष्णुधर्मः।) 
+</details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+> **यस्यानुग्रहम् इच्छामि**  
+धनं तस्य **हराम्य्** अहम्।  
+(बान्धवैश् च **वियोगेन**  
+सदा **भवति दुःखितः** ॥  
+तेन दुःखेन **सन्तप्तो**  
+यदि मां **न परित्यजेत्** ।  
+तं प्रसादं **करिष्यामि**  
+यस् सुरैर् अपि दुर्लभः ॥)
+> 
+> (श्रीभागवतम्।)  
+
+इत्यादिगळिलुम्
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+> **यस्यानुग्रहम् इच्छामि**  
+धनं तस्य **हराम्य्** अहम्।  
+(बान्धवैश् च **वियोगेन**  
+सदा **भवति दुःखितः** ॥  
+तेन दुःखेन **सन्तप्तो**  
+यदि मां **न परित्यजेत्** ।  
+तं प्रसादं **करिष्यामि**  
+यस् सुरैर् अपि दुर्लभः ॥)
+> 
+> (श्रीभागवतम्।)  
+
+इत्यादिषु च  
+</details>
+
+<details><summary>English</summary>
+
+> " He whom I want to bless --  
+his wealth I take away from him.  
+His relations will then desert him.  
+He will become miserable.  
+If, in his misery, he still clings to me,  
+I confer on him such blessings  
+as are unattainable even for the devas." 
+
+for it is said (thus)
+</details>
+
+<details><summary>Español</summary>
+
+> "El que **quiero bendecir** -  
+Su riqueza le **quito**.  
+Sus relaciones lo **abandonarán**.  
+Se **volverá miserable**.  
+Si, en su miseria, todavía **se aferra** a mí,  
+Le **confio** tales bendiciones  
+como son inalcanzables incluso para los Devas ".
+
+porque **se dice** (como arriba)
+</details>
+
+<details><summary>मूलम्</summary>
+
+‘‘यस्यानुग्रहमिच्छामि धनं तस्य हराम्यहम्’’(श्रीभागवतम्।)  इत्यादिगळिलुम् 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+कुण्ड-धारोपाख्यानादिगळिलुञ् जॊल्लुगिऱ बडिये 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+कुण्डधारोपाख्यानादिषु चोक्तरीत्या 
+</details>
+
+
+<details><summary>English</summary>
+
+The same idea is found in the story of Kundadhāra[^57] . 
+
+[^57]: 
+
+    Kundadhara :  
+    A certain man who was devoutly attached to Kundadhara begged him for wealth.  
+    Kundadhara, instead of granting wealth,  
+    saw to it that his follower should become attached to dharma.
+
+</details>
+
+<details><summary>Español</summary>
+
+La misma idea **se encuentra** en la historia de Kundadhāra [^es57].
+
+[^es57]:
+
+    Kundadhara:  
+    Un cierto hombre que **estaba devotamente apegado** a Kundadhara le **rogó** riqueza.   
+    Kundadhara, en lugar de **otorgar** riqueza,  
+    **asegurada** que su **seguidor** debe **apegarse** al Dharma.
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+कुण्डधारोपाख्यानादिगळिलुञ्जॊल्लुगिऱबडिये 
+</details>
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सिल प्रयोजनान्तरङ्गळैक् कॊडादे कण्ण्-अऴित्तुम्  
+</details>
+
+<details><summary>English</summary>
+
+(he) will not grant them those (so called) benefits ( as they are not for his good);  
+</details>
+
+<details><summary>Español</summary>
+
+(él) **no** les **otorgará** esos (llamados) beneficios  
+(como no son para su bien);
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सिल प्रयोजनान्तरङ्गळैक्कॊडादे कण्णऴित्तुम्  
+</details>
+
+
+
+
+
+
+
+
+
+
+
+Sometimes Iśvara creates in the prapanna a distaste for these other things by making him realise that they are trivial, transient and mingled with pain. Sometimes, as in the case of Soubhari and Kuchela, he gives them the benefits desired by them, but makes them feel an aversion to them afterwards.
+
 
 Thus the man who performed prapatti indicating the time when he should attain mokṣa , will have acquired an aversion to other benefits than the Lord within the prescribed time. In the case also of the man who did not indicate any such time while performing prapatti, there will be delay, as has been stated in the śloka : - "The man who is desirous of performing such karma as is a means of obtaining other benefits (than God ) enjoys pleasures unmingled with pain, and at last acquires a distaste for them (and the spirit of renunciation ), after which he reaches the abode of Bhagavān. In accordance with this, the delay in his attainment (of the supreme goal) will be only until the birth of aversion to worldly objects.
 
