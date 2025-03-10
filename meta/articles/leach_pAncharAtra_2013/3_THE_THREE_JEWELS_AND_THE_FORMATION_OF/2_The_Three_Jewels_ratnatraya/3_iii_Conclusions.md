@@ -1,0 +1,20 @@
++++
+title = "3 iii \\) Conclusions"
+
++++
+
+The JS, SS and PauṣS appear to be the oldest of the published Pāñcarātra Saṃhitās, though I will argue below that each of these works most likely achieved their present form at a later date in South India. With the recent discovery of several early Pāñcarātra works in Nepalese palm-leaf manuscripts, we can be fairly certain, at any rate, that the JS, SS and PauṣS were not the earliest Pāñcarātra scriptures. Indeed, it is very likely that the scriptural literature of the Pāñcarātra is considerably older than the works which are currently available to us. A clue to this is contained in the *Brahmasūtrabhāṣya* of Śaṅkara, generally assigned by modern scholars to the early eighth century \(Suthren Hirst 2005: 13-26\). In his comments on 2.2.45 \(418.4-5\), Śaṅkara quotes a statement which he believes shows the ‘Pañcarātra’ to be in conflict with the Veda. The statement reads “Not finding the supreme good in the four Vedas, Śāṇḍilya learnt this teaching” \( *caturṣu vedeṣu paraṃ śreyo ’labdhvā śāṇḍilya idaṃ*
+
+*śāstram adhigatavān*\). Saṅkara does not name the source of this remark, and as far as I am aware it has not been found in any Pāñcarātra work. The fact that it is not in poetic metre strongly suggests that it is not a verbatim quote in any case. But we regularly find very similar sentiments expressed in the opening passages of the Saṃhitās, particularly in those which detail the “transmission of the teaching” \( *śāstrāvataraṇa* etc.\). The most plausible explanation for this reference is surely that such passages, and hence such scriptural works, were already in existence in Śaṅkara’s day. 
+
+As we have seen, the idea that the JS, SS and PauṣS are the supreme Pāñcarātra scriptures is only expressed in a small minority of Pāñcarātra texts, and these were all composed in South India during or after the twelfth century. It is possible that in South India by this time these three works were already the oldest extant Pāñcarātra Saṃhitās, and that the high esteem in which they were held by certain Pāñcarātrika authors is attributable in large part to this. That the *Svāyambhuvapañcarātra*, the *Mahālakṣmīsaṃhitā* and the *Jayottaratantra* may be named in later canonical lists does not, of course, mean that they were still in use at that time. 
+
+It is striking that three of the four scriptural works which contain the idea of the JS’s, SS’s and PauṣS’s supremacy mention these texts alongside a “root-Veda”, or an 44 
+
+“original Veda” \( *mūlaveda*\), an apparently mythical Urtext which is distinguished from the Vedas primarily on account of its monotheism, and the fact that it enjoins the pursuit of a single goal, namely liberation \( *mokṣa*\). The PārS and the ĪS present the JS, SS and PauṣS as having been revealed by god in the Kali Age, long after the Mūlaveda had been abandoned in favour of the “mixed *dharma*”. Alternatively, according to the ŚrīprśS, the JS, SS and PauṣS are themselves different versions of the Mūlaveda. 
+
+These different versions are supposedly tailored to suit the varying abilities of students. The *Adhikaḥ Pāṭhaḥ*, meanwhile, also presents the JS, SS and PauṣS as articulations of a single teaching, though in this instance they are said to *collectively* constitute this teaching, which means that they must be studied together. The divergent views on the relation between the JS, SS and PauṣS and the original teaching, and on the relation between the Saṃhitās themselves, most probably indicates that these ideas \(of the three supreme Saṃhitās, and of a Pāñcarātra Urtext\) were relatively new to these South Indian authors. The apparent lack of a canonical account of the history and status of these texts must have allowed these authors the possibility, however circumscribed, of participating in what Eric Hobsbawm \(1992\) has called “the invention of tradition”. 
+
+45 
+
+46 
