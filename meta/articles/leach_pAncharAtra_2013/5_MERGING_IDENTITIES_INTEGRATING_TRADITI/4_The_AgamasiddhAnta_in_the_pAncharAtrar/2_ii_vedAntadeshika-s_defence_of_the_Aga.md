@@ -35,9 +35,7 @@ These verses in the PRR are followed by a short quotation of PādS * cp* 19.117a
 
 379 See for example MBh 6.40.2: *kāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ */ 
 
-*sarvakarmaphalatyāgaṃ prāhus tyāgaṃ vicakṣaṇāḥ* //. 
-
-232 
+*sarvakarmaphalatyāgaṃ prāhus tyāgaṃ vicakṣaṇāḥ* //. [[232]]
 
 erroneously thought that in the Āgamasiddhānta all actions are renounced, for there is a great variety of specific actions \[performed therein\].”380 
 
@@ -55,9 +53,7 @@ According to Gérard Colas \(1990: 24-25\), the Vaikhānasa *Samūrtārcanādhik
 
 381 See for example PādS *cp* 21.34c-36, where Āgamasiddhāntins are said to be devoted to the *pañcakāla * ritual system, and to worship God “without desire” \( *nirāśa*\). Among Āgamasiddhānta sources, see for instance PauṣS 27.4 and 38.28c-32, and PārS 15.14c-18. 
 
-382 See for example PādS *cp* 21.35cd, PauṣS 38.32cd and PārS 15.16cd. 
-
-233 
+382 See for example PādS *cp* 21.35cd, PauṣS 38.32cd and PārS 15.16cd. [[233]]
 
 far away places, outside towns, on a hill or a mountain, near a river or an ocean, in forests”. Such descriptions of the Pāñcarātra as a renunciative tradition as opposed to an urban, temple-based cult must, of course, be assessed alongside the context from which they emerged. Elsewhere, Colas \(1995: 117\) addresses this issue when he writes of the opposition between “les deux écoles âgamiques, celles-ci s’affrontant pour obtenir le contrôle du rituel dans les temples de l’Inde du Sud” \(“The two Āgamic schools \[i.e. the Vaikhānasa and the Pāñcarātra\] which clashed with one another in the attempt to gain control of ritual in the temples of South India”\). Of particular relevance to the question we are addressing presently, Colas \(ibid: 117-118\) notes that : “À l’époque de Vedānta Deśika, les querelles entre les desservants de temple se réclamant de l’une et de l’autre école âgamique vishnuite ne cessent de croître et de s’étendre avec la prolifération des temples publics” \(“At the time of Vedanta Desika, the quarrels between the temple priests claiming \[allegiance to\] one or other Vaiṣṇava Āgamic school continue to grow and expand with the proliferation of public temples”\). Further on, moreover, Colas \(ibid: 119\) suggests that Vaikhānasa authors may have been directing their criticisms at one Pāñcarātra group *in particular*, namely those who had abandoned their Vedic *sūtra*. “C’est peut-être cette partie de l’école pāñcarātra”, writes Colas, “que les manuels des prêtres vaikhānasa visaient à stigmatiser” \(“It is perhaps this branch of the Pāñcarātra school which the manuals of the Vaikhānasa priests aimed at stigmatising”\). 
 
@@ -103,9 +99,7 @@ If authors belonging to the Vaikhānasa tradition occasionally ignored the inter
 
 385 See for example PRR 3.7-12, wherein the Pāñcarātra is alternatively called the “fifth Veda” and 
 
-“the root of the great Veda-tree” – the latter description being borrowed from PārS 1.76ab. 
-
-235 
+“the root of the great Veda-tree” – the latter description being borrowed from PārS 1.76ab. [[235]]
 
 the supremacy of the Āgamasiddhānta is not a “sectarian” issue, but one on which even the PādS, a work predominantly of the Mantrasiddhānta, is in agreement. 
 
@@ -125,9 +119,7 @@ Vedāntadeśika then quotes another unnamed source which reinforces this idea by
 
 *kāraṇāgamasiddhāntaniṣṭhenānyais tribhiḥ sadā */ *arcanīyam athānyābhyāṃ mantrasiddhāntinā*
 
-*tathā *// *pūjanīyam athānyena tantrasiddhāntināniśam */ *svena tantrāntareṇaiva pūjanīyaṃ svake* *gṛhe *// *iti* / *atrāpy utkṛṣṭasiddhāntasthitenāpi apakṛṣṭasiddhāntasthāneṣu tattatsiddhānta-prakāreṇaiva pūjanīyatvam uktam*. 
-
-236 
+*tathā *// *pūjanīyam athānyena tantrasiddhāntināniśam */ *svena tantrāntareṇaiva pūjanīyaṃ svake* *gṛhe *// *iti* / *atrāpy utkṛṣṭasiddhāntasthitenāpi apakṛṣṭasiddhāntasthāneṣu tattatsiddhānta-prakāreṇaiva pūjanīyatvam uktam*. [[236]]
 
 stating that “if they are qualified for the principle \[ordinance\], \[then\] they are qualified for the secondary \[ordinance\]” \( *mukhyādikāriṇaḥ santi yadi gauṇādhikāriṇaḥ*, PRR 
 
@@ -141,9 +133,7 @@ These questions are very difficult to answer at present, and new sources may com
 
 separate ‘systems’\).387 Nonetheless, the processes proposed above, wherein Āgamasiddhāntins take on the practices of the more Veda-congruent Pāñcarātra traditions, could certainly help to explain how it was that the culture of Pāñcarātrika sectarianism gave way to the synthesis of previously distinct groups. 
 
-Such processes could also, of course, help to explain the content of some of the passages which I have addressed in Chapter Eight: the fact that Ekāyana authors of the PauṣS changed their earlier position on “mixed worship”, for instance, and that they 387 PRR 28.16-19: *… apakṛṣṭasiddhāntaparityāgenāpi utkṛṣṭasiddhāntapraveśanaṃ na doṣāya;* *pratyuta guṇāyaiva; utkṛṣṭatantraparityāgena nikṛṣṭatantrapraveśane samānatantrasaṃkare ca doṣa* *ity uktam. * 
-
-237 
+Such processes could also, of course, help to explain the content of some of the passages which I have addressed in Chapter Eight: the fact that Ekāyana authors of the PauṣS changed their earlier position on “mixed worship”, for instance, and that they 387 PRR 28.16-19: *… apakṛṣṭasiddhāntaparityāgenāpi utkṛṣṭasiddhāntapraveśanaṃ na doṣāya;* *pratyuta guṇāyaiva; utkṛṣṭatantraparityāgena nikṛṣṭatantrapraveśane samānatantrasaṃkare ca doṣa* *ity uktam. * [[237]]
 
 began to address, and promise rewards to, worshippers who “desire fruits” 
 

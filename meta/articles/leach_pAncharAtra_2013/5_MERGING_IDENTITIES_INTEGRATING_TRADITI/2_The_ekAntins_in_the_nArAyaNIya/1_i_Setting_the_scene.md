@@ -13,9 +13,7 @@ The contributions of Oberlies \(1997, 1997a, 1997b\) to this volume identify the
 
 “emboxed narratives” which comprise the first six chapters as distinct textual units or 
 
-“layers”, the composition of which can be arranged chronologically. The basic framework \(Grundgerüst\) of part A concerns Nārada’s journey to White Island \( *śvetadvīpa*\), his recitation of a *stotra*, and his subsequent vision of, and short conversation with, Nārāyaṇa. To this core narrative, other loosely connected tales and dialogues were subsequently added \(Oberlies 1997: 87\). Meanwhile, the lack of homogeneity in the following chapters \(12.327-339\), redacted after the completion of part A, and collectively referred to as part B, is demonstrated in one place or another in the essays of Grünendahl, Malinar and Schreiner. 
-
-179 
+“layers”, the composition of which can be arranged chronologically. The basic framework \(Grundgerüst\) of part A concerns Nārada’s journey to White Island \( *śvetadvīpa*\), his recitation of a *stotra*, and his subsequent vision of, and short conversation with, Nārāyaṇa. To this core narrative, other loosely connected tales and dialogues were subsequently added \(Oberlies 1997: 87\). Meanwhile, the lack of homogeneity in the following chapters \(12.327-339\), redacted after the completion of part A, and collectively referred to as part B, is demonstrated in one place or another in the essays of Grünendahl, Malinar and Schreiner. [[179]]
 
 This general picture of the *Nārāyaṇīya*’s heterogeneous composition has been subject to detailed criticism and rejection by Hiltebeitel \(2006\), who holds that the composition of the MBh as a whole occurred within “at most two generations sometime between 150 BCE and the year zero” \(ibid: 227\).291 I am not competent to enter into the debate, not least because I am not working from manuscript sources. 
 
@@ -25,9 +23,7 @@ Among the multiple characters, place names, themes and technical vocabularies wh
 
 \( *niṣkāmabhaktāḥ*\).292 While this characterisation cannot be said to be inaccurate, as I will demonstrate below, it is certainly insufficient. Ekāntins are described and referred to in both parts of the *Nārāyaṇīya*, and a close analysis of the relevant passages reveals the emergence of a number of new ideas in the later portions of Part A, and in Part B. These concern both the practice of the Ekāntins, and the means by which they are distinguished from other worshippers. In Part B especially, the 291 Hiltebeitel’s general position on the composition of the MBh has itself been subject to criticism by Fitzgerald \(2003\) among others. 
 
-292 BhBhD on MBh 12.336.3cd. In the “Bombay edition”, from which Nīlakaṇṭha was working, this verse is found at 12.348.3cd. 
-
-180 
+292 BhBhD on MBh 12.336.3cd. In the “Bombay edition”, from which Nīlakaṇṭha was working, this verse is found at 12.348.3cd. [[180]]
 
 Ekāntins are often described in purely abstract terms, as the perfect human beings. 
 
@@ -47,6 +43,4 @@ In the simplest terms, as expressed here and elsewhere \(e.g. 337.67\), Ekāntin
 
 Thereafter, I address the “religious identity” of the Ekāntins, paying particular attention to the ways in which they are distinguished from other worshippers. 
 
-293 MBh 12.336.57e-58: *ekāntino hi puruṣā durlabhā bahavo nṛpa */// *yady ekāntibhir ākīrṇaṃ jagat* *syāt kurunandana */ *ahiṃsakair ātmavidbhiḥ sarvabhūtahite rataiḥ *// *bhavet kṛtayugaprāptir* *āśīḥkarmavivarjitaiḥ *///. 
-
-181 
+293 MBh 12.336.57e-58: *ekāntino hi puruṣā durlabhā bahavo nṛpa */// *yady ekāntibhir ākīrṇaṃ jagat* *syāt kurunandana */ *ahiṃsakair ātmavidbhiḥ sarvabhūtahite rataiḥ *// *bhavet kṛtayugaprāptir* *āśīḥkarmavivarjitaiḥ *///. [[181]]

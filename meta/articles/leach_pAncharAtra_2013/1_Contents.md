@@ -91,7 +91,9 @@ i.\) *Setting the scene*  179
 
 ii.\) *The terms ekānta, ekāntin etc * 182 
 
-iii.\) *Sectarianism, syncretism, and the religious identity of the Ekāntins in Part B * 192  6 
+iii.\) *Sectarianism, syncretism, and the religious identity of the Ekāntins in Part B * 192  
+
+6 
 
 iv.\) *Conclusions * 204 
 

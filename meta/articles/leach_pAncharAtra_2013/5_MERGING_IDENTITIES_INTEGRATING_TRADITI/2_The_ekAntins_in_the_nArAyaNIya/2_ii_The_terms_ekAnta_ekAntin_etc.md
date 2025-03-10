@@ -11,9 +11,7 @@ It should be stated at the outset that I am not the first to question the validi
 
 Already in the middle of the nineteenth century, in his monumental *Indische* *Alterthumskunde* the Norwegian scholar Christian Lassen, a former student and colleague of August Wilhelm von Schlegel at the University of Bonn, rendered *ekāntagatabuddhi* \(used to describe Nārada at MBh 12.326.96d\) as “seinen Geist auf einen gewissen Gegenstand gerichtet hatte”, asserting in a footnote that the literal meaning of *ekānta* is “was einem einzigen Ausgang hat, also was sicher ist.” Lassen \(1852: 1104 n. 5\) concluded that *ekāntin * does not therefore mean “monotheist” 
 
-\(“Ekāntin bedeutet demnach nicht eigentlich Monotheist”\). While I do not share 294 PRR 139.4 *ff*: *ekatra anto niścayaḥ prāpyatayā prāpakatayā ca… tatrāpy ananyopāyatvānanyapra-yojanatvayoḥ samuccayāt pāramyam* / *ananyapāyatvaṃ ca ananyadevatākatvaparyantam*. 
-
-182 
+\(“Ekāntin bedeutet demnach nicht eigentlich Monotheist”\). While I do not share 294 PRR 139.4 *ff*: *ekatra anto niścayaḥ prāpyatayā prāpakatayā ca… tatrāpy ananyopāyatvānanyapra-yojanatvayoḥ samuccayāt pāramyam* / *ananyapāyatvaṃ ca ananyadevatākatvaparyantam*. [[182]]
 
 Lassen’s belief that we can do away with the sense of monotheism altogether, this is nonetheless an instructive reading. As with Vedāntadeśika before him, Lassen finds in the term *ekānta * a reference to the means by which a certain goal is attained, and a reference to the nature of the goal itself. The latter, according to Lassen, is both singular and certain. 
 
@@ -29,9 +27,7 @@ These represent, in my view, two of the primary senses of *ekānta* in the *Nār
 
 It is likely that “one-pointedness” was understood, at least in some circles, in much the same way as 
 
-“fixing the mind”. This is confirmed by the star passage \*775 immediately following 12.304.9ab: *ekāgratā ca manasaḥ prāṇāyāmas tathaiva ca */. 
-
-183 
+“fixing the mind”. This is confirmed by the star passage \*775 immediately following 12.304.9ab: *ekāgratā ca manasaḥ prāṇāyāmas tathaiva ca */. [[183]]
 
 the practice of “recitation” \( *svādhyāya* at 12.188.5, *japa * at 12.192.16\) and to asceticism \( *tapas*, e.g. 3.246.25 and 12.242.4\).297 In the *Nārāyaṇīya*, one-pointedness is also linked with *japa *\(12.323.32, 325.2-3\) and with *tapas *\(327.41\), and it is attributed to Nārada as he practises “all austerities” \( *sarvakṛcchradharaḥ*, 325.2d\) having arrived at White Island. In this latter passage, the description of Nārada shares several features with certain descriptions of the Ekāntin inhabitants of White Island, who also have “one-pointed minds” \( *ekāgramanastvena*, 323.32e\). Further on, it is said: 
 
@@ -53,9 +49,7 @@ Cousins 1992\) and in Pātañjala yoga \(see especially *Yogasūtra* 3.11-12\).
 
 298 The star passage \*813 immediately following 12.323.42ab articulates this well. The two half- *ślokas* 323.42ab-\*813 together read: “By those men who are Ekāntins, knowers of the Five Times, yoked with supreme devotion, Hari is then worshipped in thought, word, and deed” \( *tair iṣṭaḥ*
 
-*pañcakālajñair harir ekāntibhir naraiḥ */ *bhaktyā paramayā yuktair manovākkarmabhis tadā *\*\). 
-
-184 
+*pañcakālajñair harir ekāntibhir naraiḥ */ *bhaktyā paramayā yuktair manovākkarmabhis tadā *\*\). [[184]]
 
 propose, this intensely concentrated mental attitude which is referred to by the phrase *ekāntabhāva* \(at e.g. 322.4d, 323.24c, and 326.116c\). Those who have “attained the state of *ekānta*” \( *ekāntabhāvopagatā*\), we are told at 332.18, have minds that are concentrated and controlled, their senses are restrained, and they enter into Vāsudeva.299 
 
@@ -79,9 +73,7 @@ Larson 1969: 257, 280; Jacobsen 2002: 6, 275\), a semantic feature which is also
 
 “because of it being necessarily the case”. 
 
-301 See Fitzgerald’s \(2004\) translations of e.g. MBh 12.13.8a, 19.18a, 81.10a, 128.15a, 137.24c. 
-
-185 
+301 See Fitzgerald’s \(2004\) translations of e.g. MBh 12.13.8a, 19.18a, 81.10a, 128.15a, 137.24c. [[185]]
 
 In one place in the *Nārāyaṇīya*, we find the term *ekāntitvam * alongside *atyanta*,302 which may point to the validity of interpreting *ekānta* etc. as denoting, among other things, a kind of “certainty”. The kind of certainty that is applicable to Ekāntins regards their own liberation, which in this text commonly takes the form of entering into god.303 We are repeatedly told throughout the *Nārāyaṇīya* that Ekāntins, i.e. those who have attained the state of *ekānta*, are assured of entering into god, or of going to the “highest place” etc.304 On several occasions \(e.g. at 12.326.19, translated above, and at 326.44\), the liberation of the Ekāntins is referred to in the future tense, suggesting that the state of *ekānta* \( *ekāntabhāva*\) may represent a stage prior to final liberation. This would explain why the state of *ekānta* is so commonly referred to as something that is “attained”, “arrived at” or “entered into”.305 And if liberation is guaranteed to those who reach this stage, as is repeatedly stated, this would explain, for example, Nārada’s calling the “White Men” “awakened” \( *pratibuddha*, 331.41c, 51b\), and Yudhiṣṭhira’s referring to them as being already “liberated here” \( *vimuktā*
 
@@ -97,9 +89,7 @@ In one place in the *Nārāyaṇīya*, we find the term *ekāntitvam * alongside
 
 304 Indeed, mention of the Ekāntins is *usually* accompanied by this assertion. See e.g. MBh 12.321.41-42; 326.19; 326.44; 332.18; 336.3c-4; 336.69; 337.67. 
 
-305 The most common way to articulate this is with the term *upagata* \(see MBh 12.323.24c, 326.116c, 332.18c, and 337.67c\). Elsewhere, *samāgata* \(323.49b\) and *upeyivas *\(334.1d\) are also used. 
-
-186 
+305 The most common way to articulate this is with the term *upagata* \(see MBh 12.323.24c, 326.116c, 332.18c, and 337.67c\). Elsewhere, *samāgata* \(323.49b\) and *upeyivas *\(334.1d\) are also used. [[186]]
 
 / *sa sahasrārciṣaṃ devaṃ praviśen nātra saṃśayaḥ *//. – “A man who regularly recites and listens to this, in a solitary place, intensely concentrated, \[by him\] the state of *ekānta* is attained. After reaching the great White Island and having become a man with the radiance of the moon \(i.e. a “White Man”\), he shall undoubtedly enter into the thousand-rayed god.” \(MBh 12.326.116-117\) This passage conveniently points to the third of what I am calling the three 
 
@@ -107,9 +97,7 @@ In one place in the *Nārāyaṇīya*, we find the term *ekāntitvam * alongside
 
 Frequently, such places are inhabited by renunciates performing acts of asceticism \( *tapas*\) \(e.g. MBh 1.32.4, 1.110.30-35, 1.208.16 *ff* etc.\). Indeed, on several occasions in the *Śāntiparvan*, the term *ekāntaśīlin*, literally “practising a life of solitude”, implies precisely the practice of renunciation and *tapas*.306 In the *Nārāyaṇīya*, shortly after Nārada has listed his personal qualities and achievements \(among which he counts *ekāntabhāva*, 12.322.3-4\), the vantage point at the summit of Mount Meru from which he first sets eyes on White Island and its Ekāntin inhabitants is described as “secluded” \( *ekāntam*, 322.7b\). Given the prevalence of this use of *ekānta* in the MBh, and in the *Śāntiparvan* in particular, it seems reasonable to suggest that we should include this sense of the term and its implications in our preliminary understanding of the identity of the Ekāntins in the *Nārāyaṇīya*. After all, Ekāntins are repeatedly described as inhabiting a place \(i.e. White Island\) which is far removed from the ordinary world. As Nīlakaṇṭha emphasises in his commentary, Ekāntins have renounced all desires \(e.g. 328.30, 336.27-29\), though they remain desirous of liberation \(336.67\). They are called ascetics \( *yati*, 336.79c\), and are 306 See MBh 12.9.4-11, where Yudhiṣṭhira describes the life he will live as a forest hermit. The key verses, for the present purposes, are translated by Fitzgerald \(2004: 185\) as follows: “Abandoning the way of life and the comforts of society, enduring tremendous ascetic observances, I shall live in the forest… Enduring cold, wind, and heat, tolerating hunger, thirst, and fatigue, I shall dry my body up with the heat of the ascetic practices that are prescribed… Living all alone \( *ekāntaśīlin*, 10a\), reflecting upon matters… I will await the dissolution of this body.” See also 12.23.8-9b \(ibid.: 214\): 
 
-“Asceticism, sacrifice, learning, begging alms, the restraint of the senses, meditation, a life of solitude \( *ekāntaśīlatva*\), contentment, and making donations - all according to one’s ability – these actions are the approved means to complete perfection for brahmins.” Elsewhere, see 12.21.9, 12.288.29, and 12.304.12. With regard to this last verse, it should be noted that Hopkins \(1901: 342\) and Brockington \(2003: 17\) interpret *ekāntaśīlinā * as, respectively, “devoted to one thing”, and “devoted to one purpose”. See also MBh 14.19.14-30, wherein *ekāntaśīla* is linked with the teaching or discipline of yoga \( *yogaśāstra*\). 
-
-187 
+“Asceticism, sacrifice, learning, begging alms, the restraint of the senses, meditation, a life of solitude \( *ekāntaśīlatva*\), contentment, and making donations - all according to one’s ability – these actions are the approved means to complete perfection for brahmins.” Elsewhere, see 12.21.9, 12.288.29, and 12.304.12. With regard to this last verse, it should be noted that Hopkins \(1901: 342\) and Brockington \(2003: 17\) interpret *ekāntaśīlinā * as, respectively, “devoted to one thing”, and “devoted to one purpose”. See also MBh 14.19.14-30, wherein *ekāntaśīla* is linked with the teaching or discipline of yoga \( *yogaśāstra*\). [[187]]
 
 characterised as having transcended the sense faculties and the need for food \(322.9ab, 323.25cd\). Nārada, himself an Ekāntin, practises *tapas* or “austerities” 
 
@@ -143,9 +131,7 @@ Thus, in the story of King Vasu’s *aśvamedha*, Vasu is rewarded with a vision
 
 *stotraṃ jagau sa viśvāya nirguṇāya mahātmane *//. 
 
-311 The term *bhakti* is used at MBh 12.322.12, which may or may not belong to the oldest layer of the text \(Oberlies 1997: 91\). *Bhakti* and *bhakta* etc. are found much more frequently in the later portions of Part A, especially those which narrate the stories of King Vasu. 
-
-189 
+311 The term *bhakti* is used at MBh 12.322.12, which may or may not belong to the oldest layer of the text \(Oberlies 1997: 91\). *Bhakti* and *bhakta* etc. are found much more frequently in the later portions of Part A, especially those which narrate the stories of King Vasu. [[189]]
 
 themes in the following tale of the brothers Ekata, Dvita and Trita \(323.19-53\), which appears to be among the later additions to Part A, is that asceticism \( *tapas*\) does *not* lead to a vision of god. The brothers practise traditional methods of asceticism for thousands of years in order to see Nārāyaṇa \(323.19-21\), but are subsequently told that it is not possible for a non-devotee \( *abhakta*\) to see him \(323.48cd\). The following verse appears to equate being a devotee with being an Ekāntin,312 and it is striking that earlier on in this section the White Men, the paradigmatic Ekāntins, are described as practising one-pointedness and *japa* \(323.32\), but not *tapas*. It should also be noted here that the White Men are depicted as worshipping god with heavenly flowers and herbs \( *puṣpāṇi*… *cauṣadhīḥ*, 323.41cd\), which represents a significant departure from the historically earlier descriptions of Ekāntin worship. This move away from asceticism is also evident in another of the apparently youngest portions of Part A. In a verse in the *Nārāyaṇīya*’s opening chapter, we are told that “to see \[Nara and Nārāyaṇa\] by means of asceticism and ardour is difficult even for the gods. \[Only\] he to whom they bestow kindness can see both gods.”313 The theme continues in a short passage in chapter 331. Here it is said that god is not seen by asceticism \( *tapasāpi na dṛśyo hi* *bhagavān*, 331.12a\), and that Nārada’s viewing of god on White Island was manifested, rather, in consequence of god’s kindness \( *devaprasādānugataṃ vyaktaṃ*
 
@@ -157,9 +143,7 @@ However, the practice of asceticism is not excluded from this new paradigm. Rath
 
 *ekāntitvaṃ samāgataiḥ */ *śakyo draṣṭuṃ sa bhagavān prabhāmaṇḍaladurdṛśaḥ *//. 
 
-313 MBh 12.321.12: *tapasā tejasā caiva durnirīkṣau surair api */ *yasya prasādaṃ kurvāte sa devau* *draṣṭum arhati *//. 
-
-190 
+313 MBh 12.321.12: *tapasā tejasā caiva durnirīkṣau surair api */ *yasya prasādaṃ kurvāte sa devau* *draṣṭum arhati *//. [[190]]
 
 power of god’s benevolence.314 Two examples from Part B ably demonstrate this method. In the first, Vyāsa declares that he has practised very severe asceticism so that he might know the past, present and future. While practising these austerities on the shore of the Milk Ocean, he says, this knowledge relating to the three times was revealed to him by means of god’s kindness.315 In the second example, Rudra claims that his asceticism and study, or recitation of texts \( *svādhyāya*\), is prosperous only on account of god’s kindness.316 Passages such as these articulate a rejection of the idea that ascetic practices \(and in the latter example, Vedic study\) are intrinsically efficacious. According to this historically later view, then, any kind of religious achievement is ultimately dependent upon god rather than the worshipper. This is expressed very clearly in chapter 336: “The person who is seen by Nārāyaṇa shall be awakened. Thus, one is not awakened by one’s own desires, O king.”317 As Schreiner \(1997b: 164-165\) remarks, this represents a complete inversion of the older idea of the vision of god. 
 
@@ -177,9 +161,7 @@ In the context of this kind of teaching, it was inevitable that meditative pract
 
 317 MBh 12.336.70: *nārāyaṇena dṛṣṭaś ca pratibuddho bhavet pumān */ *evam ātmecchayā rājan* *pratibuddho na jāyate *//. See also 336.68, where the same sentiment is expressed. 
 
-318 Of course, such practices still *were* considered to be innately powerful by certain other religious groups. 
-
-191 
+318 Of course, such practices still *were* considered to be innately powerful by certain other religious groups. [[191]]
 
 Part A after the story of Ekata, Dvita and Trita \(Oberlies 1997: 112\), offers a striking prologue to ideas which will be taken up at greater length in Part B. For here \(324.27-33\), Vasu is liberated from the hole not by his own actions, but by the command of god, who is pleased \( *tuṣṭa*\) by Vasu’s constant worship \( *pūjā*\). As Grünendahl \(2002: 327\) notes, Vasu’s liberation “seems to have \[been\] regarded as a prototype of the god’s intervention on behalf of his devotees”. This passage is especially important to the present discussion since it contains the only explicit reference to “monotheism” in the whole of Part A. Although Vasu is never called an Ekāntin, he is referred to here as an *ananyabhakta* \(324.29c\), a “devotee of no other”. 
 

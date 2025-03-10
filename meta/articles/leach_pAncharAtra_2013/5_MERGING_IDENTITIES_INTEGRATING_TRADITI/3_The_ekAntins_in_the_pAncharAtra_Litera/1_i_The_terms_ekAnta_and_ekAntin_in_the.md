@@ -6,9 +6,7 @@ In a contribution to the volume *Nārāyaṇīya-Studien*, Reinhold Grünendahl 
 
 In the *Jayākhyasaṃhitā *\(JS\), the term *ekānta* is most frequently employed alongside the adjective *nirjana* or *vijana* \(“deserted”\) to refer to a secluded or solitary place which is to be inhabited by the *sādhaka* who aspires to achieve mastery of a mantra \( *mantrasiddhi*\).350 Elsewhere in the JS, we also find the term used in the sense of a “single aim” \(3.18b\), and in the adverbial sense of “absolutely”, as in the following instance: “Absolutely flawless knowledge, free from all limitations, arises 349 This is the *Skandapurāṇa * published by the Veṅkateśvara Press in 1910. 
 
-350 See e.g. JS 17.19c, 19.2a, 26.116b, 27.72c, 29.129b and 31.40c. On the concept *mantrasiddhi* see Rastelli \(2000\). In the same article Rastelli \(ibid: 343\) makes the important point that “the *sādhaka* does not live in seclusion in order to renounce the world but in order to gain powers to rule over it”. 
-
-207 
+350 See e.g. JS 17.19c, 19.2a, 26.116b, 27.72c, 29.129b and 31.40c. On the concept *mantrasiddhi* see Rastelli \(2000\). In the same article Rastelli \(ibid: 343\) makes the important point that “the *sādhaka* does not live in seclusion in order to renounce the world but in order to gain powers to rule over it”. [[207]]
 
 gradually for one who is yoked through the repeated practice of yoga”.351 It is striking that in the JS as well as in other scriptural works, the term *ekānta* is overwhelmingly found, even when it carries an apparently “neutral” meaning as in the verse just quoted, within contexts which are primarily concerned with the recitation of mantras \( *japa*\), or with meditation \( *dhyāna*\), asceticism or yoga. In this respect, one cannot fail to be reminded of the use of *ekānta* in the *Mahābhārata* \(MBh\), and especially in the *Mokṣadharmaparvan*. Most commonly in the JS the term occurs within the context of prescriptions for the repetition of mantras \( *japa*\), but it is also linked contextually with meditation \(or “visualisation”, *dhyāna*, e.g. 
 
@@ -28,9 +26,7 @@ have been enumerated.354 Lakṣmī, in response, tells him “I am pleased by yo
 
 354 LT 1.49-50: *tatra divyaṃ tapas tepe bilvamūlaniketanaḥ */ *ekapādasthito maunī kāṣṭhabhūto*
 
-*’nilāśanaḥ *// *ūrdhvadṛgbāhuvaktraś ca niyato niyatātmavān */ *divyaṃ varṣasahasraṃ vai tapas tepe* *suduścaram* //. – “There, his home at the base of a Bel tree, he practised divine asceticism. Standing completely motionless on one leg, silent, subsisting on the air alone, his face and arms raised to the sky, restrained, self-controlled, he practised very severe asceticism for a thousand divine years.” 
-
-208 
+*’nilāśanaḥ *// *ūrdhvadṛgbāhuvaktraś ca niyato niyatātmavān */ *divyaṃ varṣasahasraṃ vai tapas tepe* *suduścaram* //. – “There, his home at the base of a Bel tree, he practised divine asceticism. Standing completely motionless on one leg, silent, subsisting on the air alone, his face and arms raised to the sky, restrained, self-controlled, he practised very severe asceticism for a thousand divine years.” [[208]]
 
 strict asceticism” \( *prasannāsmi tapasā tava suvrata*, 1.55ab\), and she grants him a request, the consequence of which is the teaching which comprises the remainder of the text. Later in the LT, the term *ekānta* is used to refer to a “solitary place” which is suitable for the performance of *japa* \(47.11ab\), and to the “solitary life” 
 
@@ -46,9 +42,7 @@ Another example of the use of *ekānta* in the context of *japa* and *dhyāna* c
 
 *hitānāṃ paramaṃ hitam *//. The second half- *śloka * finds a parallel at ParS 30.4cd, and indeed the 30th chapter of the ViṣṇuS shares a number of parallel verses with the 30th chapter of the ParS. The latter is also concerned with the practice of yoga within a *bhakti* framework which emphasises god’s kindness \( *anugraha*, *prasāda*\). See e.g. ViṣṇuS 30.5ab ↔ ParS 30.6cd; ViṣṇuS 30.7cd ↔ ParS 30.11cd; ViṣṇuS 30.8c-13 ↔ ParS 30.14-18; ViṣṇuS 30.27-29b ↔ ParS 30.75-77b; ViṣṇuS 30.33c-36 ↔ ParS 
 
-30.93-96b; ViṣṇuS 30.39-42a ↔ ParS 30.100c-104a. 
-
-209 
+30.93-96b; ViṣṇuS 30.39-42a ↔ ParS 30.100c-104a. [[209]]
 
 contained in passages which explicitly invoke the *Nārāyaṇīya*. Accordingly, the Ekāntins are described here in ways which echo accounts in the earlier text: they are 
 
@@ -74,9 +68,7 @@ In these passages from the ParS and the LT, the term *ekāntin* is used, as it i
 
 358 This use of the terms *sāṃkhya* and *yoga* as plural nouns referring to adherents of the “schools” 
 
-Sāṃkhya and Yoga is also found in the *Mokṣadharmaparvan*, see Fitzgerald \( *forthcoming*\). 
-
-210 
+Sāṃkhya and Yoga is also found in the *Mokṣadharmaparvan*, see Fitzgerald \( *forthcoming*\). [[210]]
 
 one whose contours have been drawn already in the *Nārāyaṇīya*. In this sense these passages differ from those in the JS and the ViṣṇuS which, as we have seen in Chapter Two, use the terms *ekāntin * and *ekāntika* to designate one particular group of Vaiṣṇavas among others. In the JS, the Ekāntin is named as one of five distinct types of Vaiṣṇava, all of whom are “born into this great lineage of those devoted only to Nārāyaṇa” \( *nārāyaṇaikaniṣṭhānāṃ ye ’smin jātā mahākule*, JS 22.4cd\). Each of the five, named in JS 22 \(6-19b\) as Yati, Ekāntin, Vaikhānasa, Karmasāttvata and Śikhin, are said to observe the duties of the five times \( *pañcakāla*, 22.3b\). The same five types of Vaiṣṇava are listed together in the previous chapter \(JS 21.78-81\) as recipients of gifts at the end of the festival of the purifying threads \( *pavitrotsava*\). 
 
@@ -92,9 +84,7 @@ rather than, presumably, via initiation\).359 In the ViṣṇuS, as we have seen
 
 360 ViṣṇuS 2.32c-33b: *śuśrūṣaṇaṃ dvijātīnāṃ bhaikṣavṛttyā ca vartanam *// *sakṛc cārādhanaṃ yeṣāṃ*
 
-*te tathaikāntikāḥ smṛtāḥ */. 
-
-211 
+*te tathaikāntikāḥ smṛtāḥ */. [[211]]
 
 fifteenth or sixteenth century,361 the Ekāntikas are Śūdras, and theirs is the lowest of the five lineages \(Czerniak-Drożdżowicz 2010: 228-236\). Although the ViṣṇuS itself does not explicitly make these claims, it appears to suggest the same by characterising Ekāntikas as serving the twice-born, while associating the Sāttvatas and Śikhins with, respectively, Kṣatriyas and Vaiśyas.362 
 
@@ -106,9 +96,7 @@ With regard to the names of these other Vaiṣṇavas, the obvious discrepancy i
 
 Ganapati Śāstrī, Delhi: Nag Publishers, 1989\), N. P. Unni identifies the author of the *Hāriṇī* as a pupil of Śaṅkara, the fifteenth century commentator on the *Tantrasamuccaya*. 
 
-362 See ViṣṇuS 2.30ab, where Sāttvatas are said to support their families by means of livelihoods consonant with the Kṣatriya class \( *kṣatravṛttyopapannena kuṭumbasya ca poṣaṇam*\), and 2.31c where Śikhins are said to support themselves by means of agriculture, trade and breeding cattle \( *kṛṣivāṇijyagorakṣā*\). 
-
-212 
+362 See ViṣṇuS 2.30ab, where Sāttvatas are said to support their families by means of livelihoods consonant with the Kṣatriya class \( *kṣatravṛttyopapannena kuṭumbasya ca poṣaṇam*\), and 2.31c where Śikhins are said to support themselves by means of agriculture, trade and breeding cattle \( *kṛṣivāṇijyagorakṣā*\). [[212]]
 
 receive means by which to live “without asking” \( *āyacita*, JS 22.9b and ViṣṇuS 
 
@@ -118,9 +106,7 @@ Indeed, there are a number of similarities between the fivefold classifications 
 
 “based on” or “rooted in” the Veda. Such traditions commonly distinguished themselves from those Pāñcarātrikas that appropriated the name ‘Ekāntin’ and called their own tradition the Āgamasiddhānta or Ekāyana. Whether the ViṣṇuS was itself composed in such a sectarian context is, however, rather difficult to affirm. It does not appear to associate itself with any one of the five Vaiṣṇava lineages, despite its avowal that one of the ways in which the lineages are distinguished from one another is the fact that they have different texts \( *pāṭhaviśeṣa*, ViṣṇuS 2.23a\). Nor does it include polemic against other Pañcarātra groups. But we can hypothesise that its depiction of the Ekāntika may at least contain echoes of an earlier \(or perhaps of a geographically distant\) sectarian animosity. 
 
-363 See JS 22.8ab: *karmaṇā manasā vācā yajanty ekam adhokṣajam*; and ViṣṇuS 2.34ab: *arcanam* *devadevasya manovākkāyakarmabhiḥ*. 
-
-213 
+363 See JS 22.8ab: *karmaṇā manasā vācā yajanty ekam adhokṣajam*; and ViṣṇuS 2.34ab: *arcanam* *devadevasya manovākkāyakarmabhiḥ*. [[213]]
 
 How does the account in the JS compare? Like the ViṣṇuS, the JS incorporates membership of social class \( *varṇa*\) into its fivefold classification. According to its presentation, the Yatis \(22.10c\), Vaikhānasas \(22.13c\), Karmasāttvatas \(22.16d\) and Śikhins \(22.18b\) are all Brahmins, while the Ekāntins are not explicitly linked with any *varṇa*. Why should the author of this section of the JS make a point of identifying these other groups as Brahmins while saying nothing about the social class of Ekāntins? Of course, it may not have been the author’s intention to convey anything by this omission. However, when this is read alongside the ViṣṇuS’s account, it seems to suggest that in the presumably South Indian context in which these verses were written, the Vaiṣṇavas who called themselves Ekāntin were not always considered by others to be Brahmins, or even members of the twice-born classes. Might these be the Pāñcarātrikas who are identified as “non-Brahmins” by Yāmuna’s opponents in the *Āgamaprāmāṇya* \(e.g. ĀP 11.5 *ff*\)? This cannot be answered with any confidence, but perhaps the author of these verses in the JS was aware of a controversy regarding the social status of these ‘Ekāntins’, and therefore decided to omit any reference it. This is speculative, but we should note, at any rate, that the JS’s account of the Ekāntins is substantially more positive than that found in the ViṣṇuS. Where the latter has the Ekāntikas serving the twice-born \(which would presumably include the other named Vaiṣṇava lineages\), in the JS the Ekāntins are respected renunciants who receive alms from Brahmins. We might construe these contrasting descriptions in the JS and the ViṣṇuS as themselves different interpretations of the Ekāntins’ apparent non-inclusion among the three highest classes: while the ViṣṇuS regards them as Śūdras, the authors of this section of the JS 
 

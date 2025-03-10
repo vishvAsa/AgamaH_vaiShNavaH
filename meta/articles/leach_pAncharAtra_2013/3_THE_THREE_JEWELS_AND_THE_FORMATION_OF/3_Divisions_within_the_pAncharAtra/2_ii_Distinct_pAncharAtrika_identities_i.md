@@ -13,9 +13,7 @@ Bhākta, Bhāgavata and Sātvata” at ĀP 54.3. When Yāmuna speaks “in his o
 
 ‘Sātvata’ and ‘Pañcarātra’ are coterminous. 
 
-79 A *vaiśyavrātya* is one who has lost his status as a member of the Vaiśya class as a consequence of neglecting his Vaiśya duties. Manu \(10.23\) lists the Sātvatas among the offspring of *vaiśyavrātya* s. 
-
-63 
+79 A *vaiśyavrātya* is one who has lost his status as a member of the Vaiśya class as a consequence of neglecting his Vaiśya duties. Manu \(10.23\) lists the Sātvatas among the offspring of *vaiśyavrātya* s. [[63]]
 
 Bhāgavata Brahmins whom Neevel distinguishes as his *fourth* class i.e. those that perform both Pāñcarātra and Vedic rites. This branch of Bhāgavata Brahmins are a class of professional priests, says Young, who belong to the Vājasaneyaśākhā. There also exists, according to Young’s reading of the ĀP, another branch of Bhāgavata Brahmins belonging to the Vājasaneyaśākhā who perform *pūjā* only for themselves. 
 
@@ -43,9 +41,7 @@ do *not* undergo *dīkṣā*. In addition, elsewhere in the Pāñcarātra script
 
 *ekāyanasya viduṣaḥ proktāḥ kālāḥ* *krameṇa tu* // * tathā vai dīkṣitasyāpi siddhāntaratacetasaḥ* /; and also ĪS 21.511-512b: *svārthasyāpi parārthasya pūjāyām adhikāriṇaḥ */ *śāṇḍilyādyanvaye jātā guror* *labdhābhiṣecanāḥ *// *anye tu kevalaṃ svārthapūjane hy adhikāriṇaḥ */. The following section \(ĪS 
 
-21.513-558\) unambiguously locates the “lineage of Śāṇḍilya etc.” within the tradition of the Ekāyanaveda. 
-
-65 
+21.513-558\) unambiguously locates the “lineage of Śāṇḍilya etc.” within the tradition of the Ekāyanaveda. [[65]]
 
 whatsoever as to their identity.83 Further to this, I can see no suggestion, in either the ĀP or the Pāñcarātra Saṃhitās, that those Bhāgavatas who Yāmuna claims “perform *pūjā* \[only\] for themselves” should be thought of as belonging only to the Vājasaneyaśākhā. Having asserted that there are Bhāgavatas who perform *pūjā* only for themselves at ĀP 155.2, Yāmuna then goes on to defend the professional priests, saying nothing more of the former group. When distinctions between the two *śākhā* s are admitted at ĀP 169.3 *ff*, Yāmuna mentions neither *parārthapūjā* nor *svārthapūjā*. It should, for the sake of clarity, be added here that the *pañcakālika* rites, performed by members of both recensions, are *svārthapūjā*. ****
 
@@ -69,9 +65,7 @@ Pañcarātra”
 
 \( *pañcarātrasiddhadīkṣāsaṃskāra*, ĀP 158.1\). Other than at ĀP 88.5 *ff*, where the Ekāyanaśākhā is said to be in conformity with the Veda, each of the *śākhā* s are mentioned only twice by Yāmuna prior to ĀP 169.3, and on both occasions it is their commonality, rather than their differences, that are highlighted. The passages in question read as follows: 
 
-83 Although at ĀP 169-170 the author distinguishes between the ritual practices of the Vājasaneyins and the Ekāyanas, he says nothing here which should exclude the Ekāyanas from acting as professional priests. It is true that at ĀP 170.6 the Ekāyanas are characterised as *mumukṣu* s, but this need not disqualify them - on this point see e.g. ĪS 21.506-508 and, more generally, Brunner \(1990\), who provides a clear account of the distinctions between *svārtha- * and *parārthapūjā*. The same would apply of course if we accept Young’s \(2007: 238-239\) reading that ‘Ekāyana’ here denotes ‘Bhāgavata’ in general \(and elsewhere, at ĀP 91.1-6, Yāmuna *does* imply that the Pāñcarātra tradition *in toto* is concerned only with *mokṣa*\). 
-
-66 
+83 Although at ĀP 169-170 the author distinguishes between the ritual practices of the Vājasaneyins and the Ekāyanas, he says nothing here which should exclude the Ekāyanas from acting as professional priests. It is true that at ĀP 170.6 the Ekāyanas are characterised as *mumukṣu* s, but this need not disqualify them - on this point see e.g. ĪS 21.506-508 and, more generally, Brunner \(1990\), who provides a clear account of the distinctions between *svārtha- * and *parārthapūjā*. The same would apply of course if we accept Young’s \(2007: 238-239\) reading that ‘Ekāyana’ here denotes ‘Bhāgavata’ in general \(and elsewhere, at ĀP 91.1-6, Yāmuna *does* imply that the Pāñcarātra tradition *in toto* is concerned only with *mokṣa*\). [[66]]
 
 *atha bhāgavatajanaparigṛhītatvād iti hetuḥ hanta tarhi tatparigṛhītatvād* *vājasaneyakaikāyanaśākhāvacasāṃ pratyakṣādīnāṃ cāprāmāṇyaprasaṅgaḥ */. - 
 
@@ -91,9 +85,7 @@ I do not need to repeat here in detail the arguments of Colas \(ibid.\) and a nu
 
 ‘Sāttvata’ are named as three Vaiṣṇava denominations\), and a number of *circa* tenth century Vaikhānasa texts \(wherein ‘Bhāgavatas’ and ‘Pāñcarātrikas’ are clearly set apart\). This information is from Colas \(2003\). As Bakker \(1997\) and Willis \(2009\) have argued, the Sātvatas were themselves very likely a “strand” within a broader Bhāgavata cult, which points to the fact that the designation 
 
-‘Bhāgavata’ functioned as a general, overarching term as well as a specific one. 
-
-67 
+‘Bhāgavata’ functioned as a general, overarching term as well as a specific one. [[67]]
 
 “aristocratic” Vaiṣṇavas who adhered to the Vedic sacrificial liturgy and were thus distinct from followers of the Pāñcarātra tradition which, as depicted in the early \(c. 
 
@@ -117,9 +109,7 @@ However, in several instances, portions which apparently belong to the older
 
 *iṣṭvaiva paramātmānaṃ nityaṃ bhāgavataś śuciḥ *// *sarvapāpaviśuddhātmā muktimārgaṃ prapadyate*
 
-/ *labhate cepsitān kāmān ihāmutra ca sarvaśaḥ *//. See also ParS 18.30, 19.53 and 25.23. 
-
-68 
+/ *labhate cepsitān kāmān ihāmutra ca sarvaśaḥ *//. See also ParS 18.30, 19.53 and 25.23. [[68]]
 
 SanS unambiguously equates Bhāgavatas with Sāttvatas, Vaiṣṇavas *and* Pāñcarātrikas.90 
 

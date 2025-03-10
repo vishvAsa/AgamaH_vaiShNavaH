@@ -3,9 +3,7 @@ title = "3 iii \\) Sectarianism, syncretism, and the religious identity of the E
 
 +++
 
-Several modern scholars \(e.g. Jaiswal 1967:40; Brockington 1998: 299\) have claimed that the Ekāntins in the *Nārāyaṇīya* are devotees of Nārāyaṇa, and that they are to be distinguished on this basis from the followers of Vāsudeva, who are considered to be inferior. These two religious groupings, according to this theory, are thus depicted as two distinct Vaiṣṇava “sects”. This reading is based exclusively on the following passage: 
-
-192 
+Several modern scholars \(e.g. Jaiswal 1967:40; Brockington 1998: 299\) have claimed that the Ekāntins in the *Nārāyaṇīya* are devotees of Nārāyaṇa, and that they are to be distinguished on this basis from the followers of Vāsudeva, who are considered to be inferior. These two religious groupings, according to this theory, are thus depicted as two distinct Vaiṣṇava “sects”. This reading is based exclusively on the following passage: [[192]]
 
 *aho hy ekāntinaḥ sarvān prīṇāti bhagavān hariḥ */ *vidhiprayuktāṃ pūjāṃ ca* *gṛhṇāti bhagavān svayam *// *ye tu dagdhendhanā loke puṇyapāpavivarjitāḥ */ 
 
@@ -25,9 +23,7 @@ The claim that *gatayas tisro * designates the deities * * Aniruddha, Pradyumna 
 
 *vāsudevākhyāyāṃ haribhaktānāṃ viśeṣam āha ekāṃtinas tv iti... *\(336.3\) / *gatayaḥ gatīḥ*
 
-*aniruddhādīṃs trīn anupāsyaiva vāsudevaṃ gacchatīti arthaḥ *\(336.4\) /. 
-
-193 
+*aniruddhādīṃs trīn anupāsyaiva vāsudevaṃ gacchatīti arthaḥ *\(336.4\) /. [[193]]
 
 liberation of those who are “free from merit and demerit” \( *puṇyapāpavivarjitāḥ*\) begins with a journey towards the sun \( *āditya*\), which is called the gate \( *dvāra*\) \(13\).320 Their bodies burnt by the sun, these beings become invisible and infinitesimal \( *paramāṇu*\), and they enter the god \(i.e. Āditya\) in this form \(14\). 
 
@@ -51,9 +47,7 @@ refers back to 332.13-18. Firstly, 336.4, as we have established, refers to thre
 
 *saha *// *tatas traiguṇyahīnās te paramātmānam añjasā */ *praviśanti dvijaśreṣṭha kṣetrajñaṃ*
 
-*nirguṇātmakam *// *sarvāvāsaṃ vāsudevaṃ kṣetrajñaṃ viddhi tattvataḥ */// *samāhitamanaskāś ca* *niyatāḥ saṃyatendriyāḥ */ *ekāntabhāvopagatā vāsudevaṃ viśanti te *//. 
-
-194 
+*nirguṇātmakam *// *sarvāvāsaṃ vāsudevaṃ kṣetrajñaṃ viddhi tattvataḥ */// *samāhitamanaskāś ca* *niyatāḥ saṃyatendriyāḥ */ *ekāntabhāvopagatā vāsudevaṃ viśanti te *//. [[194]]
 
 who was subsequently expelled from the pantheon when Pāñcarātra authors developed a theology of four differentiated forms of god \( *vyūha*\). Sāmba, observes Bakker, was closely related to the cult of the sun \(Sūrya\), both mythologically and iconographically. In other words, in the above account, which is not described or alluded to anywhere else in the *Nārāyaṇīya*, Āditya is almost certainly to be considered as much a “stage” in the process of ascent undertaken by liberated beings as are the other Vṛṣṇi deities. Of course, it could be argued that Sāmba or Āditya had already been dropped from the pantheon by the time 336.1-4 was composed, and that the devotee of Nārāyaṇa who authored these verses was aware of this, and adjusted the number accordingly. This, then, would be the only place in the text in which the entrance of liberated beings into Vāsudeva is represented as the fourth stage in a hierarchy of ascent. But this still leaves us with the following question: why did the author of 336.1-4 choose to refer only to “three paths” which are not travelled by Ekāntins? For if, as is alleged, these verses can be taken as evidence for an intra-Vaiṣṇava sectarianism, then surely there are four “paths” which Ekāntins do not travel, for they do not go to Vāsudeva either - they go to Hari or Nārāyaṇa. 
 
@@ -73,9 +67,7 @@ and “the highest place” as referring to the same thing. Now we must address 
 
 The passage in question \(336.1-4\) implies that there are four “paths” or “ways” 
 
-\( *gati*\), and that among these the way of the Ekāntins is the most excellent. To my mind, the earlier teaching in the *Nārāyaṇīya * which this most closely resembles is that given at 12.328.30-32. Here, Lord Kṛṣṇa tells Arjuna that his devotees are of 322 This is consistent with Esnoul’s \(1979: 197-198\) translation of these verses. 
-
-196 
+\( *gati*\), and that among these the way of the Ekāntins is the most excellent. To my mind, the earlier teaching in the *Nārāyaṇīya * which this most closely resembles is that given at 12.328.30-32. Here, Lord Kṛṣṇa tells Arjuna that his devotees are of 322 This is consistent with Esnoul’s \(1979: 197-198\) translation of these verses. [[196]]
 
 “four kinds” \( *caturvidhā*\). “Among these”, he continues, “the Ekāntins, \[for whom\] 
 
@@ -93,9 +85,7 @@ We return now to MBh 12.336.1-4. These verses also occur in a context which refe
 
 325 MBh 12.336.8: *samupoḍheṣv anīkeṣu kurupāṇḍavayor mṛdhe */ *arjune vimanaske ca gītā*
 
-*bhagavatā svayam* //. 
-
-197 
+*bhagavatā svayam* //. [[197]]
 
 author of this passage, and that clues to the identity of these are provided in the verses which immediately follow: 
 
@@ -125,9 +115,7 @@ Of course, the chief purpose of this passage at the end of chapter 335 is to ass
 
 “Āraṇyaka of the Vedas” \( *vedāraṇyaka*\) are mutually complementary parts \( *parasparāṅgāni*\) of the *dharma* of the Ekāntins, called in this instance *pañcarātra*.329 In chapter 337, in answer to Janamejaya’s question as to whether the branches of knowledge Sāṃkhya, Yoga, Pañcarātra and the Āraṇyaka of the Vedas have the same goal, or different goals \(1-2\), Vaiśaṃpāyana replies that according to tradition and knowledge, all branches of knowledge have Nārāyaṇa as their goal \(63c-64b\). He alone is the creator of the *śāstra* s \(65\). ‘Pañcarātra’ here appears to be simply another name for the *ekāntadharma* since, unlike the other branches of emphasises the soteriological method of knowledge. Elsewhere in the *Mokṣadharmaparvan*, the distinct tradition of Yoga is shown to favour the method of strength or power \( *bala*\). On this see Fitzgerald \( *forthcoming*\). 
 
-329 MBh 12.336.76: *evam ekaṃ sāṃkhyayogaṃ vedāraṇyakam eva ca */ *parasparaṅgāny etāni* *pañcarātraṃ ca kathyate *// *eṣa ekāntināṃ dharmo nārāyaṇaparātmakaḥ *///. 
-
-199 
+329 MBh 12.336.76: *evam ekaṃ sāṃkhyayogaṃ vedāraṇyakam eva ca */ *parasparaṅgāny etāni* *pañcarātraṃ ca kathyate *// *eṣa ekāntināṃ dharmo nārāyaṇaparātmakaḥ *///. [[199]]
 
 knowledge, it is proclaimed directly by Nārāyaṇa \(60-63b\), and it is said that 
 
@@ -151,9 +139,7 @@ In the remainder of this section, I will draw attention to the fact that a syncr
 
 *brahmā lokapitāmahaḥ */ *rajasā tamasā caiva mānuṣaṃ samabhiplutam *//. 
 
-334 MBh 12.339.7c-8b: *sāṃkhyena vidhinā caiva yogena ca yathākramam *// *cintayāmi gatiṃ cāsya* *na gatiṃ vedmi cottamām */. 
-
-200 
+334 MBh 12.339.7c-8b: *sāṃkhyena vidhinā caiva yogena ca yathākramam *// *cintayāmi gatiṃ cāsya* *na gatiṃ vedmi cottamām */. [[200]]
 
 *sātvata* and *bhāgavata* are clearly not used in this text to refer to distinct “sects”.335 
 
@@ -169,9 +155,7 @@ Rather, their equivalence, and indeed that of the gods themselves, is assumed. T
 
 337 MBh 12.331.9-11: *na citraṃ kṛtavāṃs tatra yad āryo me dhanaṃjayaḥ */ *vāsudevasahāyo yaḥ*
 
-*prāptavāñ jayam uttamam *// *na cāsya kiṃ cid aprāpyaṃ manye lokeṣv api triṣu */ *trailokyanātho* *viṣṇuḥ sa yasyāsīt sāhyakṛt sakhā *// *dhanyāś ca sarva evāsan brahmaṃs te mama pūrvakāḥ */ *hitāya* *śreyase caiva yeṣām āsīj janārdanaḥ *//. 
-
-201 
+*prāptavāñ jayam uttamam *// *na cāsya kiṃ cid aprāpyaṃ manye lokeṣv api triṣu */ *trailokyanātho* *viṣṇuḥ sa yasyāsīt sāhyakṛt sakhā *// *dhanyāś ca sarva evāsan brahmaṃs te mama pūrvakāḥ */ *hitāya* *śreyase caiva yeṣām āsīj janārdanaḥ *//. [[201]]
 
 The infrequency with which Vāsudeva’s name is used in Part B is consistent with Part A, where it is found in only three separate passages, and implied in a fourth. In these it is used as follows: i.\) as a name for Nārāyaṇa during Nārada’s *stotra* \(325.4/130\); ii.\) as the name of the “twenty-fifth” principle \( *tattva*\), the “Self of the world” \( *lokasyātmā*\), the “Supreme Self” \( *paramātmā*\), the *puruṣa * who is seen by knowledge \( *jñāna*\), the Self of all beings, the knower of the field etc., in a passage \(326.20-39\) which, employing terminology usually associated with Sāṃkhya, describes the reabsorption \( *pra-√lī*\) of the five universal elements, and the successive emergence of the embodied self \( *jīva*\), the mind \( *manas*\) and the act of self-formulation \( *ahaṃkāra*\). The latter are personified as, respectively, Saṃkarṣaṇa, Pradyumna and Aniruddha. Oberlies \(1997a\) adjudges this passage to have been interpolated into chapter 326 at a late stage; iii.\) Vāsudeva is not named in the verses 326.68-71d, but it is likely he who is referred to as the “fourth form” \( *mūrtiś* *caturthī*\) who created Saṃkarṣana, who in turn begot Pradyumna, from whom is born Aniruddha, and then Brahmā; and iv.\) during the *paraṃparā* which draws Part A to a close, it is said that this narrative is not to be given to one who is not a devotee of Vāsudeva.338 In the same passage, we are told that this “great Upaniṣad” has been sung by Nārāyaṇa \(326.100-101b\), and that Janārdana should be worshipped as the Supreme Person \( *puruṣottama*, 326.119-120\). 
 
@@ -181,9 +165,7 @@ followers of Vāsudeva, then they did not make very good use of it. It is much m
 
 *deyaṃ kathaṃ cana *//. 
 
-339 The only alternative, as I see it, would be to argue that the text passed from followers of Nārāyaṇa to followers of Vāsudeva, and then *back* to followers of Nārāyaṇa. The latter must have then either thoroughly revised it, removing most \(but not all\) of the references to Vāsudeva, or found a text where such references were so few and far between that they were not considered worthy of removal. 
-
-202 
+339 The only alternative, as I see it, would be to argue that the text passed from followers of Nārāyaṇa to followers of Vāsudeva, and then *back* to followers of Nārāyaṇa. The latter must have then either thoroughly revised it, removing most \(but not all\) of the references to Vāsudeva, or found a text where such references were so few and far between that they were not considered worthy of removal. [[202]]
 
 followers of Nārāyaṇa had adopted Vāsudeva into their own theology. They may have done this for purely “political” reasons, i.e. as a way of subordinating and dominating a rival “sect”. But the *Nārāyaṇīya * offers no evidence for this, and in fact points to another explanation. As we have seen above, the only “Vāsudeva passages” 
 
@@ -197,9 +179,7 @@ Why, then, did Nārāyaṇa theologians consider it expedient to adopt these dif
 
 The answer must surely involve the ontological principles or “levels” with which they are identified. Elsewhere in the *Mokṣadharmaparvan *\(e.g. 12.228, 291, 293-294\), these principles \( *tattva*\) belong to the evolutionary cosmogony of Sāṃkhya and Yoga. According to this cosmogony, the lower ontological principles emerge out of the higher ones \(see e.g. 294.27-28\). The Vṛṣṇi heroes might have 340 MBh 12.336.53: *ekavyūhavibhāgo vā kva cid dvivyūhasaṃjñitaḥ */ *trivyūhaś cāpi saṃkhyātaś* *caturvyūhaś ca dṛśyate *//. These are the only uses of the term *vyūha* in the *Nārāyaṇīya*. 
 
-341 Schreiner et al. \(1997c: 413 n. 256\) have pointed out that 339.20 itself echoes 336.56. 
-
-203 
+341 Schreiner et al. \(1997c: 413 n. 256\) have pointed out that 339.20 itself echoes 336.56. [[203]]
 
 been considered particularly germane to such a process since Pradyumna and Aniruddha are, respectively, the son and grandson of Vāsudeva. By incorporating these successively lower forms of god into this evolutionary scheme, the author of 326.20-39 is able to include within it both a god who remains completely transcendent, and a creator god from whom the universe originates \(i.e. Aniruddha *,* 326.37\). This much has been stated by numerous scholars before me. But the divinisation of these levels is important to the soteriological process too. Fitzgerald \(forthcoming\) discusses the distinct soteriological methods of Sāṃkhya and Yoga, as described in the “text-pair” MBh 12.289-290. Adherents of the method of Yoga, Fitzgerald shows, attempt to forcibly ascend through the levels to *mokṣa*. The Sāṃkhyas, meanwhile, claim that it is possible to attain mokṣa by way of “a comprehensive knowledge and understanding… \[of\] ever higher cosmic realities” 
 

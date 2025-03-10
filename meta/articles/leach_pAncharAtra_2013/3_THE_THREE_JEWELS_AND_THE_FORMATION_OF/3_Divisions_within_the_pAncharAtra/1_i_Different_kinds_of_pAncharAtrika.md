@@ -47,9 +47,7 @@ The scheme outlined here, with the *jīva*, *manas * and *ahaṃkāra* personifi
 
 What are we to make of these passages? Some scholars \(e.g. Colas 2011: 297\) believe that Śaṅkara is using the names ‘Bhāgavata’ and ‘Pañcarātrasiddhāntin’ to refer to the same group. This position is perhaps based on the fact that the Bhāgavatas are described here as worshipping god in accordance with the “five times” \(i.e. 
 
-*abhigamana* etc.\), a practice which is elsewhere expressly associated with the psychological principle. As van Buitenen shows, the creative function of the *ahaṃkāra* in the *Mokṣadharmaparvan* \(as well as in the *Sāṃkhyakārikā*\) is continuous with older, mythical narratives wherein the primordial being combines and unites the principles of self-consciousness, self-formulation \( *ahaṃkāra*, i.e. the exclamation *aham\! *\), and self- \(and by extension, world-\) creation. 
-
-48 
+*abhigamana* etc.\), a practice which is elsewhere expressly associated with the psychological principle. As van Buitenen shows, the creative function of the *ahaṃkāra* in the *Mokṣadharmaparvan* \(as well as in the *Sāṃkhyakārikā*\) is continuous with older, mythical narratives wherein the primordial being combines and unites the principles of self-consciousness, self-formulation \( *ahaṃkāra*, i.e. the exclamation *aham\! *\), and self- \(and by extension, world-\) creation. [[48]]
 
 Pāñcarātra.57 But this interpretation has the problem of explaining why it is, then, that the doctrines linked with these denominations are so clearly different. For the Bhāgavatas hold, according to Śaṅkara, that the Vyūhas Saṃkarṣaṇa, Pradyumna and Aniruddha are caused to become manifest by Vāsudeva, the “supreme cause” \( *parā*
 
@@ -81,9 +79,7 @@ In the 47th canto \( *sarga*\) of this work, during a hymn to the goddess Caṇ�
 
 The second work, which is considerably more informative, is Bhaṭṭa Rāmakaṇṭha’s *Nareśvaraparīkṣāprakāśa* \(NPP\), a philosophical commentary on the c. seventh-eighth century *Nareśvaraparīkṣā* of Sadyojyotis. The NPP was most probably written during the second half of the tenth century \(Watson 2006\). Here, two kinds of 57 See e.g. MBh 12.325.4/57-59, the seventh century stele inscription from Baset in Cambodia \(K. 447, see Cœdès 1942: 193-95\), and a Śaiva work called the *Śrīkaṇṭhī* or the *Śrīkaṇṭhīyasaṃhitā*, at verses 51c-52 \(Hanneder 1998: 244\). 
 
-58 Sanderson \(2009a: 110-11\) points to references to the Pañcarātra in the *Nīlamatapurāṇa*. The *Nīlamatapurāṇa* may have been composed during the Kārkoṭa dynasty \(c. 626-855 CE\), but this is far from certain \(ibid.\). 
-
-49 
+58 Sanderson \(2009a: 110-11\) points to references to the Pañcarātra in the *Nīlamatapurāṇa*. The *Nīlamatapurāṇa* may have been composed during the Kārkoṭa dynasty \(c. 626-855 CE\), but this is far from certain \(ibid.\). [[49]]
 
 Pāñcarātras are named: the ‘Sāṅkarṣaṇapāñcarātras’ and the ‘Saṃhitāpāñcarātras’. 
 
@@ -97,9 +93,7 @@ Rāmakaṇṭha’s distinction between the Sāṅkarṣaṇapāñcarātras and 
 
 60 NPP 91.18 *ff*: *pariṇativedāntavidaḥ saṃhitāpāñcarātrāś cāhuḥ satyaṃ bhinnā eva jīvātmānaḥ, te tu* *paramakaraṇād anaśvarād brahmapadavācyāt avyāpakā eva ghaṭādivat svakāraṇalayasvabhāvāś* *cotpadyante iti*. 
 
-61 NPP 106.5 *ff*: *eṣa ca prasaṅgo vedāntavidāṃ pāñcarātrāṇāṃ ca samānaḥ */ * tair api brahmaṇi* *nārāyaṇākhyāyāṃ ca parasyāṃ prakṛtau jīvātmanāṃ layo muktir abhyupagatā yataḥ */. 
-
-50 
+61 NPP 106.5 *ff*: *eṣa ca prasaṅgo vedāntavidāṃ pāñcarātrāṇāṃ ca samānaḥ */ * tair api brahmaṇi* *nārāyaṇākhyāyāṃ ca parasyāṃ prakṛtau jīvātmanāṃ layo muktir abhyupagatā yataḥ */. [[50]]
 
 available, such concerns do not figure prominently. Moreover, in the works by the Vedāntin defenders of Pāñcarātra orthodoxy, in the Vaikhānasa literature62 and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia. 
 
@@ -115,9 +109,7 @@ Elsewhere \(SS 19.84c-85\), it is said that the “Heart mantra” is to be reci
 
 62 Colas \(1990\) has shown that a number of Vaikhānasa works adumbrate sub-groups within the Pāñcarātra. Among these, the *Samūrtārcanādhikaraṇa* \(65.123-125\) divides Pāñcarātrikas into *āgneya* *vaiṣṇava* s and *tāmasa vaiṣṇava* s, the former following the rites prescribed in the *sūtra* of Bodhāyana and others, the latter following those prescribed in the *sūtra* of Kātyāyana and others. The *Samūrtārcanādhikaraṇa* is almost certainly earlier than Yāmuna, and may be as early as the ninth century \(see Colas 1996: 95\). Other Vaikhānasa texts offering variant subdivisions include the *Kriyādhikāra*, composed at the very latest during the thirteenth century, and possibly considerably earlier \(ibid.\), and the *Ānandasaṃhitā*, among the latest of the Vaikhānasa “medieval corpus”. 
 
-63 In other words, the four Vyūhas Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha \(SS 7.29-36\). 
-
-51 
+63 In other words, the four Vyūhas Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha \(SS 7.29-36\). [[51]]
 
 \( *vibhavadevāḥ*\) in the same way, only the *niṣkāma* worshippers \(called here “those who practise renunciation”, *saṃnyāsakārin*\) abandon the inevitable fruits of this worship while the *sakāma* worshippers \(or “those who desire the fruits”, *phalārthin*\) accumulate them.64 A passage in the PauṣS \(19.51-52b\) locates this distinction firmly within orthodox tradition \( *smṛti*\) when it calls these contrasting methods, respectively, the way of “disengagement” or “abstention” \( *nivṛtti*\), and the way of “engagement” 
 
@@ -135,9 +127,7 @@ desire. One who grants heaven to his devotees even when it is not asked for – 
 
 66 PauṣS 19.51-52b: *pravṛttiś ca nivṛttiś ca karma caitad dvidhā ’bjaja */ *jayanti bhogaikaratāḥ*
 
-*pravṛttena tu karmaṇā *// *paritṛptās tu sambhogaiḥ nivṛttenācaranti ca */. 
-
-52 
+*pravṛttena tu karmaṇā *// *paritṛptās tu sambhogaiḥ nivṛttenācaranti ca */. [[52]]
 
 it that is not given by him? Therefore, one should abandon requests\!”67 Such sentiments provide a striking contrast to other passages in the PauṣS \(at e.g. 23.3-5, 31.227, 36.80-81, 38.26-28\) which address *sakāma* and *niṣkāma* worshippers without favouring one kind over the other. They also contrast with the presentation of *sakāma* and *niṣkāma* worship in the SS, which does not contain a similar bias.68 It seems reasonable to assume that the passages in the PauṣS which favour *niṣkāma* over *sakāma*, and exhort the rejection of the latter, are the work of a different author from the passages in the same text wherein both approaches are presented as equally valid. 
 
@@ -149,9 +139,7 @@ However, both the SS and the PauṣS elsewhere contain a classification of the d
 
 68 The only exception I could find is at SS 19.146-147b, where it is said that during the liberating ascent of the individual self \( *jīva*\) through the six paths \( *adhvan*\), the same self becomes indifferent \( *virakta*\) to enjoyments \( *bhoga*\) such as miniaturisation \( *aṇiman*\) etc. Again, see Hikita’s \(1993\) translation of this passage. 
 
-69 An exception is at JS 5.11 *ff*, where it is said that the worshipper of the mantra should not desire *siddhi* s. The term *siddhi* here \(at JS 5.11b\) appears to be synonymous with *bhoga* \(“enjoyment”\), which is mentioned in the previous verse. This is a very unusual statement for the JS, which otherwise lists enjoyments \( *bhoga*/ *bhukti*\) and liberation \( *mokṣa*/ *mukti*\) as equally valid achievements. Rastelli \(2000: 372 n. 11\) has identified this chapter of the JS, along with chapters 3 and 4, as comprising a textual unit which is separate from the rest of the JS. 
-
-53 
+69 An exception is at JS 5.11 *ff*, where it is said that the worshipper of the mantra should not desire *siddhi* s. The term *siddhi* here \(at JS 5.11b\) appears to be synonymous with *bhoga* \(“enjoyment”\), which is mentioned in the previous verse. This is a very unusual statement for the JS, which otherwise lists enjoyments \( *bhoga*/ *bhukti*\) and liberation \( *mokṣa*/ *mukti*\) as equally valid achievements. Rastelli \(2000: 372 n. 11\) has identified this chapter of the JS, along with chapters 3 and 4, as comprising a textual unit which is separate from the rest of the JS. [[53]]
 
 kinds of devotee wherein eligibilty for particular forms of worship *is* constrained by social class and religious identity. Both of these classifications adopt a fourfold model. 
 
@@ -175,9 +163,7 @@ authority is \[also\] in the series of rites relating to \[the worship of\] the 
 
 71 LT 11.48c-49: *saṃsiddhayogatattvānām* \(or *susiddhayogatattvānām*, see Krishnamacharya 1959: 39\) **
 
-*adhikāraḥ paramātmani *// *vyāmiśrayogayuktānāṃ madhyānāṃ vyūhabhāvane */ *vaibhavīyādirūpeṣu* *vivekavidhurātmanām *//. 
-
-54 
+*adhikāraḥ paramātmani *// *vyāmiśrayogayuktānāṃ madhyānāṃ vyūhabhāvane */ *vaibhavīyādirūpeṣu* *vivekavidhurātmanām *//. [[54]]
 
 model of worship, i.e. of god’s *para*, *vyūha* and *vibhava* forms, which is referred to in the SS’s opening chapter \(SS 1.23\), which forms the organising structure for most of Chapters 2-12, and which is reflected in the three types of initiation \( *vibhava*, *vyūha* and *sūkṣmā dīkṣā*\) that are introduced at SS 16.28c-29b. 
 
@@ -203,9 +189,7 @@ Householders, the second stage of life, consist of Vratins, Gṛhasthas, Āḍhy
 
 Forest dwellers or hermits are also four: the Vaikhānasa, Tantrin, Guru and Niṣkala. The Vaikhānasa eats unsalted food, has a wife and son, lives either at home 72 Rastelli \(2002a: 132\), remarking on the central role of the maṇḍala in the SanS in general, notes the following: “In this text, ‘one should undergo the initiation’ is expressed by the phrase *praviṣed dīkṣāṃ*
 
-*cakramaṇḍale*, ‘one should attain the initiation in the *cakramaṇḍala*,’ which shows the centrality of the maṇḍala in the *dīkṣā*.” 
-
-56 
+*cakramaṇḍale*, ‘one should attain the initiation in the *cakramaṇḍala*,’ which shows the centrality of the maṇḍala in the *dīkṣā*.” [[56]]
 
 or in a hermitage \( *āśrama*\), is not lazy \( *atandrita*\), explicates the Saṃhitās, sleeps on the floor on an antelope hide, and is devoted to meditation \( *dhyāna*\) and knowledge \(5.23c-25\). The Tantrin lives outside of a village, worships god at dawn, noon and dusk, is devoted to the fire-sacrifice \( *homa*\) and the repetition of mantras \( *japa*\), though only of Tantric mantras, is clothed either in a garment made of bark \( *valkala*\) or in an antelope hide, sleeps on *darbha* grass, and is devoted to the eight-syllabled mantra \(5.26-27\). The Guru also wears either bark or an antelope hide, performs ablutions at dawn, noon and dusk, feeds on roots and fruits and has no fixed abode \( *aniyatāvāsa*\), frequents sacred bathing places \( *tīrtha*\), is devoted to meditation \( *dhyāna*\), is always worshipping Viṣṇu, and recites the twelve-syllabled mantra, knowing well the reality which it designates \(5.28-30b\). The Niṣkala is clothed in the same way, is devoted to the eight-syllabled mantra, eats only at night \( *naktabhojin*\), is easily satisfied and free from envy, worships at dawn, noon and dusk, is indifferent to praise and blame, is dispassionate, and observes a vow of silence \( *maunin*\) \(5.30c-33b\). 
 
@@ -221,9 +205,7 @@ Haṃsas and Paramahaṃsas is especially notable. These are the only categories
 
 \(see Olivelle 1993: 172\). The inclusion of both of these groups in the Viṣṇumaṇḍala is very likely an attempt by the author of this passage to include and thereby subordinate members of other religious traditions within his own. The order in which the different types of Vaiṣṇava are named suggests an ascending hierarchy, and the Vaikhānasas are mentioned first among the hermits, while the Haṃsas and Paramahaṃsas precede the “triple staffed” Bhagavant and Prabhu. However, their inclusion here also suggests that the boundaries between Vaiṣṇava traditions in this particular time and place may not have been as clear as is ordinarily supposed. Certainly, the verses referred to above in the SanS’s previous chapter illustrate that Vaikhānasas had a certain authority in the eyes of the authors of this work. For it is said there that they may be accepted as judges in a legal dispute \( *vyavahāra*\) when an initiate \( *dīkṣita*\) is not available, and indeed that they are to be preferred in such circumstances over initiated students \( *brahmacārin*\).73 
 
-It is certainly notable that the terms ‘Pañcarātra/Pāñcarātrika’ do not feature in the SanS’s classification of the sixteen different types of Vaiṣṇava, and that aside from the references to the twelve-syllabled and eight-syllabled mantras, there is very little here that identifies these *āśramin* s as belonging to the Pāñcarātra in particular. In this 73 The passage in which these verses appear in the SanS is translated and discussed by Derrett \(1978\). **
-
-58 
+It is certainly notable that the terms ‘Pañcarātra/Pāñcarātrika’ do not feature in the SanS’s classification of the sixteen different types of Vaiṣṇava, and that aside from the references to the twelve-syllabled and eight-syllabled mantras, there is very little here that identifies these *āśramin* s as belonging to the Pāñcarātra in particular. In this 73 The passage in which these verses appear in the SanS is translated and discussed by Derrett \(1978\). **[[58]]
 
 regard, it is especially striking that the Upāsaka, Tantrin, Guru, Niṣkala and Prabhu are all described as worshipping god \(and/or bathing\) three times a day \( *trisaṃdhya*\), i.e. 
 
@@ -247,9 +229,7 @@ The second group of five Vaiṣṇavas listed in the JS \(22.28-37\) consists of
 
 75 ViṣṇuS 2.22-23b: *yathā tu vedavṛkṣasya śākhābhedā hy anekaśaḥ */ *tahtā bhedāḥ samākhyātāḥ*
 
-*pañcarātrasya sūribhiḥ *// *kriyāpāṭhaviśeṣais tu bhidyante te pṛthak pṛthak */. 
-
-60 
+*pañcarātrasya sūribhiḥ *// *kriyāpāṭhaviśeṣais tu bhidyante te pṛthak pṛthak */. [[60]]
 
 described as abandoning the fruit of the ritual \( *saṃnyāsakarmayogena phalasaṃpad* *vinaiva hi*, JS 22.31ab\) and as desiring liberation only, is listed as an independent Vaiṣṇava \(JS 20.267a, 21.87a\). The Anāpta is said to perform the ritual enjoined for Āptas, but without abandoning the duties * * appropriate to their social class \( *varṇadharma*, JS 22.34c-35b\) – in contrast to the Āptas, we must presume. The Ārambhin is described as worshipping in order to attain wealth \(JS 22.35c-36b\), and the Saṃpravartin as worshipping Hari “in the wrong way” \( *amārgena*, JS 22.36c-37b\). 
 
@@ -277,6 +257,4 @@ Although the JS’s first group of five Vaiṣṇavas is very similar to a class
 
 76 “\[T\]here is no textual or epigraphic evidence”, writes Willis \(2009: 226\), “to suggest that the Vaikhānasas ever lived in north India”. Colas \(1996: 53 n. 1\) addresses the question of the presence of the Vaikhānasas in the JS thus: “La présence des vaikhānasa, groupe social du sud sans doute, qu’elle décrit dans ses rituels ne dément-elle pas la thèse de son origine septentrionale… à moins d’admettre qui la version qui est entre nos mains est une “réédition” complète d’une version du nord”. 
 
-77 I am accepting Young’s \(2007: 237\) estimate for the lifetime of Yāmuna as c. 1050-1125 CE, with the ĀP being written “in the late eleventh or early twelfth century” \(ibid: 260\). 
-
-62 
+77 I am accepting Young’s \(2007: 237\) estimate for the lifetime of Yāmuna as c. 1050-1125 CE, with the ĀP being written “in the late eleventh or early twelfth century” \(ibid: 260\). [[62]]

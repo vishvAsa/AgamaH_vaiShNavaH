@@ -11,9 +11,7 @@ Whether a text called ‘Ekāyanaveda’ ever existed has been debated by modern
 
 “sūtras” of the “original Veda” \( *mūlaveda*\) \(i.e. the Ekāyanaveda\),239 is probably best interpreted as a late attempt to solve the puzzle we are presently addressing, but it indicates, at least, that this author did not think it likely that the Ekāyanaveda was ever a unique work. Much the same idea is contained, as we have seen in Chapter One, in the ŚrīprśS \(49.471c-473\). ****
 
-What, then, is the origin of the idea of the Ekāyanaveda, and of the Ekāyana tradition as a Vedic *śākhā*? Inevitably, these questions are not easy to answer, but we might gain a better understanding by turning to the earliest of the published Saṃhitās, namely the JS, SS and PauṣS. Although none of these works refer to an Ekāyanaveda, each of them contain references to Ekāyana mantras or to “twice-239 SāPr on ĪS 1.64-67: *idaṃ sātvatapauṣkarajayākhyatantratrayaṃ mūlavedasya sūtrarūpam*. 
-
-141 
+What, then, is the origin of the idea of the Ekāyanaveda, and of the Ekāyana tradition as a Vedic *śākhā*? Inevitably, these questions are not easy to answer, but we might gain a better understanding by turning to the earliest of the published Saṃhitās, namely the JS, SS and PauṣS. Although none of these works refer to an Ekāyanaveda, each of them contain references to Ekāyana mantras or to “twice-239 SāPr on ĪS 1.64-67: *idaṃ sātvatapauṣkarajayākhyatantratrayaṃ mūlavedasya sūtrarūpam*. [[141]]
 
 born” \( *dvija*\) Ekāyanas or Ekāyana Brahmins \( *vipra*\), and the JS refers to an Ekāyana *śākhā*. By analysing these passages, then, we may hope to learn something of the Ekāyana tradition in the centuries preceding the composition of works such as the PādS and the PārS. 
 
@@ -35,9 +33,7 @@ I shall now turn to the SS. The majority of SS 24.282-25.294, wherein all this w
 
 // *pāṭhayec ca yatīn āptān pūrvān vai pāñcarātrikān */ *svānuṣṭhānaiḥ svakān mantrān japataḥ*
 
-*saṃśitavratān* //. Both of the above emmendations are suggested by the editor. **
-
-142 
+*saṃśitavratān* //. Both of the above emmendations are suggested by the editor. **[[142]]
 
 and the ĪS.241 Here, at least four Ekāyanas \(24.302ab\) are named among the professional assistants to an officiating temple priest or *guru* - they are literally 
 
@@ -53,9 +49,7 @@ In these chapters, the Ekāyanas are distinguished from the other Brahminical as
 
 242 In the SS see e.g. 6.74cd \(and Alaśiṅgabhaṭṭa’s commentary on this verse\), 7.107c-109b, and 22.46. 
 
-Elsewhere see e.g. JS 16.7-9, 18.6, and PauṣS 27.207cd, 32.88-89, 37.63cd etc. 
-
-143 
+Elsewhere see e.g. JS 16.7-9, 18.6, and PauṣS 27.207cd, 32.88-89, 37.63cd etc. [[143]]
 
 Other names by which the Ekāyanas are known in this section of the SS include 
 
@@ -71,9 +65,7 @@ There is good reason to believe that chapters 24 and 25 are later additions to t
 
 245 See SS 7.69d, 77d, and 88a. As mentioned above, *tanmaya* can also be found as a proper noun designating the Ekāyanas at e.g. PauṣS 36.266b and PādS *cp* 11.243b\). 
 
-246 These mantras are listed by Hikita \(1995; 2005\). 
-
-144 
+246 These mantras are listed by Hikita \(1995; 2005\). [[144]]
 
 both chapters address the preparation for and performance of a temple-based *parārthapūjā* wherein professional priests officiate on behalf of a royal patron, here referred to simply as *ārādhaka* \(e.g. at SS 24.239d, 281c; 25.105d, 119b\). The royal patron’s “universal sovereignty” \(he is considered, in this respect, akin to Vāsudeva\) is hailed at the beginning of the 24th chapter.247 Conversely, the remainder of the SS 
 
@@ -81,9 +73,7 @@ is concerned not with the priestly performance of temple rituals for a fee-payin
 
 Although we cannot be certain, it seems probable that at least the final third of chapter 24 \(and possibly this chapter as a whole\) together with 25.1-294 were written specifically for inclusion within the SS, rather than having been incorporated *en bloc* from another work. This is not to say, of course, that passages within this portion of text could not have been incorporated from other texts.248 Rather, this section of the text more generally seems to have been authored, or at least thoroughly revised, in order to be incorporated into the larger work. This is indicated by the fact that it remains consistent throughout with what Smith \(1975: 515\) calls the “narrative framework” of the SS i.e. the dialogue between Lord Viṣṇu \(Bhagavat\) and Saṃkarṣaṇa as related by Nārada. This is evident, for instance, in the frequent use of 247 SS 24.16c-17c: *varṇāśramagurutvāc ca svāmitvād akhilasya ca* // *bhūtādidevarūpatvād uttamād* *yeṣu* *vastuṣu* / *nṛpaś*… //. Elsewhere in the SS \(e.g. at 5.98 and 7.77\), the “first god” \( *ādideva*\) is identified as Vāsudeva. 
 
-248 The prayer to summon Viṣṇu into his four-faced material form at SS 25.119c-122 may well be drawn from an older source. Sanderson \(2009a: 109\) reports that these verses have been transmitted among Kashmirian Smārta Brahmins in modern times. Cf. the wording in this prayer with the description of the four-faced form of Śaktyātman or Śaktīśa at SS 12.9-19. 
-
-145 
+248 The prayer to summon Viṣṇu into his four-faced material form at SS 25.119c-122 may well be drawn from an older source. Sanderson \(2009a: 109\) reports that these verses have been transmitted among Kashmirian Smārta Brahmins in modern times. Cf. the wording in this prayer with the description of the four-faced form of Śaktyātman or Śaktīśa at SS 12.9-19. [[145]]
 
 the vocative *lāṅgalin* \(“possessor of the plough”\) which is an epithet of Saṃkarṣaṇa.249 
 
@@ -95,9 +85,7 @@ The question as to when these chapters may have been added to our text remains v
 
 250 See SS 25.148c-153. For examples of Bhedābhedavāda elsewhere in the SS see e.g. 2.72, 5.7-8, 5.81-82b, and 9.27. That said, as with the majority of Pāñcarātra Saṃhitās, there is not one consistent philosophical “position” undergirding the SS’s accounts of god’s relationship to the world. For imagery clearly indebted to the doctrine of “non-dualism” \( *advaita*\), for instance, see SS 4.33-35b. 
 
-251 See e.g. SS 24.408ab, 25.2-3b, 229cd, 288, 308ab, 357b. However see also 25.367cd, wherein supernatural pleasures \( *bhoga*\) are graded below existence in “the abode of Acyuta”. 
-
-146 
+251 See e.g. SS 24.408ab, 25.2-3b, 229cd, 288, 308ab, 357b. However see also 25.367cd, wherein supernatural pleasures \( *bhoga*\) are graded below existence in “the abode of Acyuta”. [[146]]
 
 Lastly, it is notable that at the beginning of the final two chapters of the SS, it is claimed that members of all four *vaṛna* s may perform the construction of a “mantra-made form of god” \( *mantramayaṃ vapuḥ*, 24.2\), and the ritual wherein mantras are fixed onto the icon \( *mantrabimbaniveśana*, 25.1-2\). These statements obviously refer to the prospective “worshipper” \( *ārādhaka*\) or “patron” of the rituals which are about to be addressed. 
 
@@ -153,6 +141,4 @@ passage, but in place of *pañcarātram iti smṛtam *\(at PauṣS 38.308d\) it 
 
 7. In the final chapter of the PauṣS \(43.160cd\), the devotees who worship no other god \( *nānyayājin*\), who are elsewhere called ‘Ekāyana’ and ‘Ekāntin’, are said to include Brahmins, Kṣatriyas, Vaiśyas and Śūdras. 
 
-8. Lastly, it is notable that in PauṣS 42 the preceptor is explicitly said to recite both Vedic and Pāñcarātrika mantras \(148-149b\), and also Ekāyana mantras \(188ab, 190cd\). 
-
-150 
+8. Lastly, it is notable that in PauṣS 42 the preceptor is explicitly said to recite both Vedic and Pāñcarātrika mantras \(148-149b\), and also Ekāyana mantras \(188ab, 190cd\). [[150]]

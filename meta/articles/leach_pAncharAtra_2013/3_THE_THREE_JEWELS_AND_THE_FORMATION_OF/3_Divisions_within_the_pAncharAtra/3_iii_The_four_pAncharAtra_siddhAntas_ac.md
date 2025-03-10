@@ -41,9 +41,7 @@ Thus it is called *siddhānta*.” \(PādS *jp* 1.78c-79\) any other extant work
 
 93 Vedāntadeśika would later use the same strategy in his PRR \(e.g. 3.10-12\), a text which quotes the PādS a number of times. 
 
-94 Verse 1.79 is repeated at PādS *cp* 19.110c-111b. There are similar explanations of the term *siddhānta* in both the PauṣS \(38.305-307b\) and the PārS \(19.544\). 
-
-70 
+94 Verse 1.79 is repeated at PādS *cp* 19.110c-111b. There are similar explanations of the term *siddhānta* in both the PauṣS \(38.305-307b\) and the PārS \(19.544\). [[70]]
 
 PādS *jp* 1.80-82 names the four Siddhāntas as ‘Mantra’, ‘Āgama’, ‘Tantra’, and 
 
@@ -71,9 +69,7 @@ The author of the PādS then tells us that Mantrasiddhāntins are those who are 
 
 97 PādS *cp* 21.13ac: *pañcakālaṃ yathāśāstraṃ *\[corr. *yathāśāstra*\] *gṛhe vā mandire ’pi vā* / 
 
-*bhagavatpūjanaṃ kāryam*… //. 
-
-71 
+*bhagavatpūjanaṃ kāryam*… //. [[71]]
 
 perform the ritual worship of Viṣṇu in accordance with the “five times”.98 It is further stated \(at *cp* 21.17c-21b\) that only Bhāgavatas can perform worship for the sake of others \( *parārthayajana*\), though this rule is then immediately revised to enable an initiated non-Bhāgavata to do so if commanded to by a Bhāgavata.99 It is notable that the author of this section of the PādS holds ‘Bhāgavatas’ in very high regard,100 and that in equating Bhāgavatas with Mantrasiddhāntins, he is equating them with Pāñcarātrika Brahmins who also perform Vedic rites. 
 
@@ -93,9 +89,7 @@ This account of the Mantrasiddhānta is followed by a description of the Āgamas
 
 101 The PārS, which does not describe the initiation rite, also appears to confirm \(at e.g. 9.187-190, 13.114c-115, 15.14c-20, 18.116-117\) that Āgamasiddhāntins do not undergo *dīkṣā*. This information is taken from Rastelli \(2006: 193-195\). 
 
-102 PādS *cp * 21.45: *yāceta mantrasiddhānte dīkṣitaṃ viprasattamam */ *pūjārtham ātmano* *bimbapratiṣṭhākarṣaṇādiṣu* \(corr. *karaṇādiṣu*\) //. 
-
-72 
+102 PādS *cp * 21.45: *yāceta mantrasiddhānte dīkṣitaṃ viprasattamam */ *pūjārtham ātmano* *bimbapratiṣṭhākarṣaṇādiṣu* \(corr. *karaṇādiṣu*\) //. [[72]]
 
 Both passages that discuss the omission of *dīkṣā* refer to an ‘Ekāyana’; in the first instance to an *ekāyanaṃ vedam* \(PādS *cp* 1.3c\), and in the second instance to an *ekāyanādhvan* \(PādS *cp* 21.53d\). This ‘Ekāyanaveda’ or “way of the Ekāyana” is the ritual teaching to which members of the Āgamasiddhānta adhere.103 However, despite the fact that his teaching bears the affix *veda*, according to the PādS \( *cp* 21.37c-39b\) the Pāñcarātrika ‘Ekāyana’ \(this designation is shown to be synonymous with 
 
@@ -105,9 +99,7 @@ In spite of the clear deficiencies or limitations of the Ekāyana in the eyes of
 
 104 See the parallel verses at BhT 24.20, 26c-27b\). As Hanneder \(1997\) and Rastelli \(2006\) have shown, these last two elements serve to make Tantric mantras seem more Vedic. The Mantrasiddhānta as presented in the Pāds incorporate these elements, whereas the Āgamasiddhānta does not. Rastelli \(2006: 208\) writes, “Es paßt sehr gut zu der PādS, deren Anhänger sich selbst auf vedisch-orthodoxe Traditionen zurückführen und die ihr Ritual als viṣṇuitische Modifikation des vedisch-orthodoxen Rituals betrachten, daß sie die “vedischen” und die “tantrischen” Elemente eines Mantra lehrt.” 
 
-105 See the discussion of this verse in Rastelli \(2006: 196-197\). 
-
-73 
+105 See the discussion of this verse in Rastelli \(2006: 196-197\). [[73]]
 
 worship nine forms of god \(PādS *cp* 21.59-66\). Members of the Tantrāntarasiddhānta, meanwhile, may also belong to any of the four social classes, and are said to worship images of god with three, four or more faces, surrounded by attendant deities \( *parivāra*\), and to perform the life-cycle rites in accordance with the Tantrāntara path \( *mārga*\) *and* the Veda \(PādS *cp* 21.70-73b\). 
 
@@ -121,9 +113,7 @@ The four Siddhāntas, then, are accepted by the PādS as distinct branches of a 
 
 It is unlikely that the author of this verse is the same as the author of the descriptions of the Mantra and Āgama Siddhāntas summarised above, for there the designation ‘Bhāgavata’ clearly refers only to a follower of the Mantrasiddhānta, and not to Pāñcarātrikas in general. The inclusivism conveyed in this verse may indicate its later composition for, as we will see below, such strategies are increasingly evident among the later scriptural works. This verse is of interest here because it includes the terms ‘Aikāntika’ and ‘Tanmaya’ as synonyms of ‘Bhāgavata’ and ‘Pāñcarātrika’. The term *aikāntika* is derived from the word *ekānta* which, along with its derivatives, is prominent in the *Nārāyaṇīya* and throughout much of the Pāñcarātra scriptural 106 See PādS *cp* 21.34c-35b, and also the following verse 35c-36b: *nirāśaiḥ* *karmasaṃnyāsakāribhir* *devapūjanam* // * balādimantrair acchidrapañcakālaparāyaṇaiḥ* /. 
 
-107 Cf. *Viśvāmitrasaṃhitā* 9.89c-90: *sa eva brāhmaṇo vidvān sa evāśramiṇāṃ varaḥ *// *sa etair* *nāmabhir vācya ekāntī pāñcarātrikaḥ */ *sūrir bhāgavataś caiva sāttvataḥ pāñcakālikaḥ *//. 
-
-74 
+107 Cf. *Viśvāmitrasaṃhitā* 9.89c-90: *sa eva brāhmaṇo vidvān sa evāśramiṇāṃ varaḥ *// *sa etair* *nāmabhir vācya ekāntī pāñcarātrikaḥ */ *sūrir bhāgavataś caiva sāttvataḥ pāñcakālikaḥ *//. [[74]]
 
 literature \(see Matsubara 1994: 51-59\). Scholars have long considered one such derivative, *ekāntin*, to mean something like “monotheist” in a Pāñcarātra context \(e.g. 
 
@@ -147,6 +137,4 @@ In other words, the reference to ‘Aikāntika’ in the passage quoted above \(
 
 108 PādS *cp* 11.242c-243b: *dikṣu vedāṃś ca caturaḥ paṭheyur mantravittamāḥ *// *vidikṣu ekāyanāṃ*
 
-*śākhāṃ tanmayās sumukhās tathā */. 
-
-75 
+*śākhāṃ tanmayās sumukhās tathā */. [[75]]

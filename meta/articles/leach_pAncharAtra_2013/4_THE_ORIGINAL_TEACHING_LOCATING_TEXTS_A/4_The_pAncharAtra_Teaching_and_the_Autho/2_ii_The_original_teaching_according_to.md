@@ -5,9 +5,7 @@ title = "2 ii \\) The original teaching according to the Ahirbudhnyasaṃhitā"
 
 Into the reasonably tidy arrangement of, on the one hand, Pāñcarātrikas who claim a Vedic origin for their scriptures, who perform “mixed worship” and who, in some works, refer to their own tradition as the Mantrasiddhānta, and on the other hand, the Ekāyanas or Āgamasiddhāntins, who adhere to the Ekāyanaveda and who claim *this* to be the original scripture from which both the Vedas and the Pāñcarātra Samhitās derive, we encounter the *Ahirbudhnyasamhitā* \(AS\). In this brief section, I provide a summary of the AS’s own account of the “original teaching”, before addressing the question of what this account might be able to tell us about the motivations of the authors of this text, and the kind of Pāñcarātra culture to which they belonged. 
 
-Among the published Saṃhitās, the AS is something of an oddity, though as we will see below, it does share a number of traits with the *Lakṣmītantra*. Perhaps its most striking feature is its relative lack of information on temple worship. Although its 28th chapter describes the sequence for the rites of worship in the pillared hall of a temple \( *maṇḍapa*\), and in several other chapters kings are exhorted to build temples \(e.g. AS 42.40c *ff*, 45.32c *ff*\) and to worship \(e.g. AS 29, 36.33c-49b\) or to perform other rites \(e.g. AS 39.6 *ff*\) therein,253 the procedures for the construction of temples and the installation and worship of images are only dealt with summarily in each of these cases. In addition, only one of its sixty chapters is concerned with the initiation rites \( *dīkṣā*\), while there is nothing said at all, for instance, on the rites of reparation \( *prāyaścitta*\). As Schrader’s \(1916\) summary of the AS shows, much of this work is taken up with theological and cosmological issues, with descriptions of mantras and 253 Many chapters in the AS are addressed, either directly or indirectly \(i.e. by way of mythical narratives\), to kings. See for example chapters 26, 29, 30, 36, 37, 39, 42, and 45-50. 
-
-155 
+Among the published Saṃhitās, the AS is something of an oddity, though as we will see below, it does share a number of traits with the *Lakṣmītantra*. Perhaps its most striking feature is its relative lack of information on temple worship. Although its 28th chapter describes the sequence for the rites of worship in the pillared hall of a temple \( *maṇḍapa*\), and in several other chapters kings are exhorted to build temples \(e.g. AS 42.40c *ff*, 45.32c *ff*\) and to worship \(e.g. AS 29, 36.33c-49b\) or to perform other rites \(e.g. AS 39.6 *ff*\) therein,253 the procedures for the construction of temples and the installation and worship of images are only dealt with summarily in each of these cases. In addition, only one of its sixty chapters is concerned with the initiation rites \( *dīkṣā*\), while there is nothing said at all, for instance, on the rites of reparation \( *prāyaścitta*\). As Schrader’s \(1916\) summary of the AS shows, much of this work is taken up with theological and cosmological issues, with descriptions of mantras and 253 Many chapters in the AS are addressed, either directly or indirectly \(i.e. by way of mythical narratives\), to kings. See for example chapters 26, 29, 30, 36, 37, 39, 42, and 45-50. [[155]]
 
 yantras, and with eulogies to Sudarśana, Viṣṇu’s personified discus and the manifestation of his will \( *saṃkalpa*, see e.g. AS 3.39ab\). 
 
@@ -19,9 +17,7 @@ In view of its currently accepted South Indian provenance and its probable date,
 
 was not in circulation in South India during Rāmānuja’s time. 
 
-256 Peter Bisschop has informed me, in an email dated 17/04/2012, that the AS’s \(42.35\) reference to the worship of Viśveśvara by a king of Vārāṇasī cannot predate the twelfth century, since “the name of Viśveśvara as the central *liṅga* in Vārāṇasī is not attested before the twelfth century and represents a significant departure from the period preceding it”. 
-
-156 
+256 Peter Bisschop has informed me, in an email dated 17/04/2012, that the AS’s \(42.35\) reference to the worship of Viśveśvara by a king of Vārāṇasī cannot predate the twelfth century, since “the name of Viśveśvara as the central *liṅga* in Vārāṇasī is not attested before the twelfth century and represents a significant departure from the period preceding it”. [[156]]
 
 have addressed above which were also composed in South India during this period, not only does the AS largely disregard temple worship, it also gives no indication whatsoever of the intra-Pāñcarātra sectarianism we have encountered. It does not claim affiliation with any distinct Pāñcarātra tradition or ‘Siddhānta’, and nor, as far as I can tell, is there any other allusion or clue to internal divisions within the Pāñcarātra. There is no mention here, for example, of “mixed worshippers”, or of Ekāyanas or Ekāntins.257 This may indicate that the AS was composed before the ideas of the Ekāyanaveda and of the four Pāñcarātra Siddhāntas became current. 
 
@@ -39,9 +35,7 @@ stage \[reached\] by the \[eight\] steps \[see AS 31.16-32.76\] of the self-disc
 
 258 On the AS’s use of Vedic mantras, see especially chapters 57-59. Elsewhere, the Kriyāśakti of Viṣṇu is said to consist of both Vedic and Tantric mantras \(AS 16.9-10b\). See also the prescription for the “assignation of the \[parts of the mantra\] seer etc.” onto the initiate’s body \( *ṛṣyādinyāsa*\) at AS 
 
-20.19c-20b. Hanneder \(1997: 158\) writes that “with the *ṛṣyādinyāsa * Tantric mantras themselves are vedicized.” 
-
-157 
+20.19c-20b. Hanneder \(1997: 158\) writes that “with the *ṛṣyādinyāsa * Tantric mantras themselves are vedicized.” [[157]]
 
 like the PārS, incorporates this idea of the original teaching from the *Nārāyaṇīya*, but it appears to utilise this teaching for different purposes. 
 
@@ -57,9 +51,7 @@ This seems out of place given that the Vedas are yet to be “fashioned” \( *t
 
 260 Cf. MBh 12.330.52c-53b: *vedā na pratibhānti sma ṛṣīṇāṃ bhāvitātmanām *// *devān rajas tamaś* *caiva samāviviśatus tadā */. 
 
-261 The use of this metaphor to describe the origin of scripture also occurs in the *Lakṣmītantra* \(4.17cd: *śāstraṃ saṃkarṣaṇād eva bhāti nirghātaśabdavat*\), and may have been borrowed from a passage in the JS \(1.76b-79\), wherein the transformation \( *vikāra*\) of divine consciousness into scripture \( *śāstra*\), a process that is called *śabdabrahman*, is likened to a thunderstorm arising from a formless atmosphere \(JS 1.76cd: *amūrtād *\(corr. *amūrttād*\) *gaganād yadvat nirghāto jāyate svayam*\). 
-
-158 
+261 The use of this metaphor to describe the origin of scripture also occurs in the *Lakṣmītantra* \(4.17cd: *śāstraṃ saṃkarṣaṇād eva bhāti nirghātaśabdavat*\), and may have been borrowed from a passage in the JS \(1.76b-79\), wherein the transformation \( *vikāra*\) of divine consciousness into scripture \( *śāstra*\), a process that is called *śabdabrahman*, is likened to a thunderstorm arising from a formless atmosphere \(JS 1.76cd: *amūrtād *\(corr. *amūrttād*\) *gaganād yadvat nirghāto jāyate svayam*\). [[158]]
 
 \( *kālavipāryāsa*\) brought about by the division of the Ages \( *yuga*\), at the start of the Tretā Age, when eminent Brahmins began desiring pleasures \( *kāma*\), the teaching took on a dull appearance \( *mandapracāra*\) \(AS 50c-52b\). At this time the original *śāstra* was divided into separate parts \( *aṃśa*\), with the sage Apāntaratapas fashioning the three Vedas, Kapila the Sāṃkhya *śāstra*, Hiraṇyagarbha the Yoga *śāstra*, Śiva the Pāśupata teaching, and “Viṣṇu himself alone, having extracted the essence from that single divine teaching, created the true tradition \( *sadāgama*\), the system \( *tantra*\) called Pañcarātra, which describes his own nature as *para*, *vyūha* and *vibhava*, and which is characterised by having liberation as its only fruit.”262 
 
@@ -77,9 +69,7 @@ Firstly, whilst the PārS repeatedly calls this original scripture the ‘Ekāya
 
 *tantraṃ mokṣaikaphalalakṣaṇam */ *sudarśanāhvayo yo ’sau saṃkalpo vaiṣṇavaḥ paraḥ *// *sa svayaṃ*
 
-*bibhide tena pañcadhā pañcavaktragaḥ */. 
-
-159 
+*bibhide tena pañcadhā pañcavaktragaḥ */. [[159]]
 
 In the AS’s account * * which I have summarised above, the original teaching is depicted, alongside Viṣṇu’s array of weapons, as having been brought into existence in order to defeat the enemies of *dharma*. Each of these “twofold means” is presented as being a manifestation of Viṣṇu’s will or desire \( *saṃkalpa*\).263 Elsewhere we are told that this *saṃkalpa* specifically denotes the “desire” or “intention” of *brahman*, equated here with Viṣṇu-Nārāyaṇa \(e.g. AS 3.41\), to become *manifest*, as in the Upaniṣadic formula “May I become many” \( *bahu syām iti*\),264 which is articulated by *brahman* at AS 2.62cd. Accordingly, when the AS depicts the original teaching as being “born from the desire of Viṣṇu” \( *viṣṇoḥ saṃkalpajāt*, AS 11.48\), we may assume that this is to be understood as meaning that it is born from Viṣṇu’s desire to become manifest in order to defeat the enemies of *dharma*. In this way, the origin of the first teaching at the beginning of creation \( *ādisarga*\) is shown to have occurred as a *personal* response to a particular situation. In other words, the AS is not presenting the *ādiśāstra* here as something “uncreated” or “non-personal” \( *apauruṣeya*\), as the Ekāyanaveda is portrayed by Āgamasiddhāntin authors, since it is implicit in the *apauruṣeyatva* theory that scripture comes into being alongside time rather than within it.265 
 
@@ -89,17 +79,13 @@ Of course, insofar as the *ādiśāstra* is a manifestation of Viṣṇu’s *sa
 
 264 See e.g. *Chāndogyopaniṣad* 6.2.3. This is quoted several times by Rāmānuja in his *Śrībhāṣya*. See especially, in his comments on *sūtra * 2.3.14 \(339.6\), the phrase *bahu syām iti saṅkalpaḥ*. 
 
-265 However, in another passage in the AS the *apauruṣeyatva* theory *does* appear to be applied to scripture. At AS 55.16, Saṃkarṣaṇa is said to “vomit out” \( *udgirati*\) and then to “swallow up” \( *girati*\) the “pure teaching” \( *amalaṃ śāstram*\). When this is read in conjunction with AS 54.17cd \( *udgiraty* *akhilaṃ viśvam udgīrṇaṃ grasati svayam*\), the emergence and disappearance of scripture appears to be parallel to the emergence and disappearance of the universe itself. 
-
-160 
+265 However, in another passage in the AS the *apauruṣeyatva* theory *does* appear to be applied to scripture. At AS 55.16, Saṃkarṣaṇa is said to “vomit out” \( *udgirati*\) and then to “swallow up” \( *girati*\) the “pure teaching” \( *amalaṃ śāstram*\). When this is read in conjunction with AS 54.17cd \( *udgiraty* *akhilaṃ viśvam udgīrṇaṃ grasati svayam*\), the emergence and disappearance of scripture appears to be parallel to the emergence and disappearance of the universe itself. [[160]]
 
 transcendent personal god, the teaching in its transcendent form remains itself resolutely tied to the personal. Thus the original teaching is said to be “*eternally* spoken by Kāmapāla \(i.e. Viṣṇu\)” \( *ayaṃ śāstraṃ… proktaṃ kāmapālena śāśvatam*, AS 11.19\). 
 
 Other notable differences between the PārS’s and the AS’s accounts of the original teaching include the fact that the designation “true tradition” \( *sadāgama*\) is given to the Pāñcarātra system \( *tantra*\) in the AS, whereas in the PārS it is given to the original teaching, the Ekāyanaveda. Similarly, in the AS, “having liberation as its only fruit” is said to be characteristic of the Pāñcarātra, whereas in the PārS \(1.16c-19b\) it is the Ekāyanaveda that is characterised in this way, while the Saṃhitās are said to bestow both liberation and enjoyments \( *bhoga*\). Certainly the overall impression is that the author of this passage in the AS is generally less concerned with praising the original teaching than is the author of the relevant passages in the PārS. Other than that which I have summarised, there is virtually nothing said about the particularity of the first teaching in the AS. There is no obvious desire to expressly link this teaching with the teaching which is described in the *Nārāyaṇīya*, as there is in the PārS. There is no mention of the Citraśikkhāndins, or of Śvetadvīpa or of King Vasu Uparicara in the context of the first teaching here, even though the latter two are mentioned elsewhere in the text. Rather, the author of this section of the AS is much more concerned with the five teachings that the original *śāstra* is divided into, namely the Vedas, Sāṃkhya, Yoga, Pāśupata and Pañcarātra. 
 
-These five systems are also listed together, along with the names of their promulgators, as the different fields of knowledge in the *Nārāyaṇīya* \(MBh 12.337.60-63b\). Just as the *Nārāyaṇīya* \(MBh 12.330.30-31\) declares that, for instance, Kapila and Hiraṇyagarbha are in fact names of Nārāyaṇa, so too in the second chapter of the AS, Kapila, Hiraṇyagarbha, Apāntaratapas and Śiva are all declared to be among the various names by which Nārāyaṇa is known.266 In the *Nārāyaṇīya* \(MBh 12.337.63c-64b\) it is said that Nārāyaṇa is the “culmination” or 266 See AS 2.22 \(on the equivalence of the “supreme *brahman*” and Nārāyaṇa\), and 2.37-39 for these other names. It is notable in this context that when, in the eighth chapter, Nārada asks Ahirbudhnya why there are so many conflicting accounts of reality \( *tattva*\), one of the reasons which Ahirbudhnya gives is simply that people are ignorant of synonyms \( *aparyāyavid*, AS 8.14ab\). 
-
-161 
+These five systems are also listed together, along with the names of their promulgators, as the different fields of knowledge in the *Nārāyaṇīya* \(MBh 12.337.60-63b\). Just as the *Nārāyaṇīya* \(MBh 12.330.30-31\) declares that, for instance, Kapila and Hiraṇyagarbha are in fact names of Nārāyaṇa, so too in the second chapter of the AS, Kapila, Hiraṇyagarbha, Apāntaratapas and Śiva are all declared to be among the various names by which Nārāyaṇa is known.266 In the *Nārāyaṇīya* \(MBh 12.337.63c-64b\) it is said that Nārāyaṇa is the “culmination” or 266 See AS 2.22 \(on the equivalence of the “supreme *brahman*” and Nārāyaṇa\), and 2.37-39 for these other names. It is notable in this context that when, in the eighth chapter, Nārada asks Ahirbudhnya why there are so many conflicting accounts of reality \( *tattva*\), one of the reasons which Ahirbudhnya gives is simply that people are ignorant of synonyms \( *aparyāyavid*, AS 8.14ab\). [[161]]
 
 “goal” \( *niṣṭhā*\) of each of these systems, and similarly the AS \(12.54\) states that Viṣṇu is their goal \( *niṣṭhā*\). In the *Lakṣmītantra *\(LT\), the Pāñcarātra scriptural work which appears to have the most in common with the AS, and which may belong to a similar period and region \(see Gupta 2000: xxxvii\), it is said that Lakṣmī is their goal: 
 

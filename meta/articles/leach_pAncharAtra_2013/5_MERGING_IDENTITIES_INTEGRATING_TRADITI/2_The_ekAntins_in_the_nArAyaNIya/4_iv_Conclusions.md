@@ -3,9 +3,7 @@ title = "4 iv \\) Conclusions"
 
 +++
 
-In a late addition to Part A of the *Nārāyaṇīya*, and in Part B, ‘Pañcarātra’ is named as the comprehensive Upaniṣad \(326.100\), or the *dharma* of the Ekāntins \(336.76\), both of which subsume the three traditions Veda, Sāṃkhya and Yoga. Already in the oldest parts of the text, Nārada is shown to combine the practice of Vedic recitation with ascetic and meditative techniques typical of the liberation-seeking Sāṃkhya and 342 I am very grateful to Professor Fitzgerald for allowing me to read and refer to several of his as yet unpublished works. 
-
-204 
+In a late addition to Part A of the *Nārāyaṇīya*, and in Part B, ‘Pañcarātra’ is named as the comprehensive Upaniṣad \(326.100\), or the *dharma* of the Ekāntins \(336.76\), both of which subsume the three traditions Veda, Sāṃkhya and Yoga. Already in the oldest parts of the text, Nārada is shown to combine the practice of Vedic recitation with ascetic and meditative techniques typical of the liberation-seeking Sāṃkhya and 342 I am very grateful to Professor Fitzgerald for allowing me to read and refer to several of his as yet unpublished works. [[204]]
 
 Yoga paths.343 The attempt to formulate a soteriological method which incorporates *japa*, *tapas* and meditation \( *dhyāna*\) can be found also in an earlier section of the *Mokṣadharmaparvan* \(MBh 12.189-193\). The integration of the ways of *nivṛtti* and *pravṛtti* is also met with in a section of Part A of the *Nārāyaṇīya* which appears to belong to one of the earliest “layers” added to the core narrative, namely the account of the Śāstra * * promulgated by the Citraśikhaṇḍins. Here it is said that this teaching is the womb of *pravṛtti * and *nivṛtti*, and that it is possessed of the four Vedas.344 
 
@@ -17,9 +15,7 @@ Our earliest references, then, to a religious tradition called ‘Pañcarātra�
 
 345 MBh 12.326.100: *idaṃ mahopaniṣadaṃ caturvedasamanvitam */ *sāṃkhyayogakṛtaṃ tena* *pañcarātrānuśabditam *//. 
 
-346 I use the category “Vaiṣṇava” here in its modern, Indological sense. Bhāgavata and Sātvata are not called “Vaiṣṇava” in the *Nārāyaṇīya*. 
-
-205 
+346 I use the category “Vaiṣṇava” here in its modern, Indological sense. Bhāgavata and Sātvata are not called “Vaiṣṇava” in the *Nārāyaṇīya*. [[205]]
 
 Sāṃkhya and Yoga.347 Part A also contains other indications of the proximity between Sāṃkhya, Yoga and the *imaginaire* of the Nārāyaṇa theologians. As Malinar \(1997: 254\) points out, the seer Nārada, who flies to the summit of Mount Meru, is depicted as one who is well advanced in the practice of yoga. As discussed above, the apparently “Sāṃkhyan” cosmological scheme of the twenty-five ontological principles \( *tattva*\) is employed. The claim that the Self \( *ātman*\) can be seen by the yoga of knowledge \( *jñānayoga*, 321.40, see also 326.23\) is a clearly Sāṃkhyan idea. Indeed, such claims indicate that, insofar as the methods of Sāṃkhya and Yoga can be clearly distinguished from one another \(as they are, for instance, at MBh 12.289-290\), the soteriology of the *Nārāyaṇīya* is closer to that of Sāṃkhya. 
 
@@ -31,6 +27,4 @@ That Sāṃkhya is not recognised as a soteriological method distinct from the m
 
 348 The references to *ekāntabhakti* and to “cravings that are annihilated” are found at MBh 12.336.66-67: *manīṣitaṃ ca prāpnoti cintayan puruṣottamam */ *ekāntabhaktiḥ satataṃ nārāyaṇaparāyaṇaḥ *// 
 
-*manīṣiṇo hi ye ke cid yatayo mokṣakāṅkṣiṇaḥ */ *teṣāṃ vai chinnatṛṣṇānāṃ yogakṣemavaho hariḥ *//. 
-
-206 
+*manīṣiṇo hi ye ke cid yatayo mokṣakāṅkṣiṇaḥ */ *teṣāṃ vai chinnatṛṣṇānāṃ yogakṣemavaho hariḥ *//. [[206]]

@@ -9,9 +9,7 @@ Yāmuna’s ĀP makes no reference to the four Pāñcarātra Siddhāntas, and is
 
 110 The earliest extant “articulation” of the theory of four Pāñcarātra Siddhāntas may well occur in the section of the PauṣS \(38.295-39.39\) which Smith \(1975: 296\) has identified as a late interpolation. 
 
-Dating the inclusion of this section within the PauṣS is no easy task, but I am assuming that it came after Yāmuna’s composition of the ĀP on the basis that both events probably occurred in Śrīraṅgam, where the PauṣS was in use, and the ĀP makes no mention of the Siddhāntas. 
-
-76 
+Dating the inclusion of this section within the PauṣS is no easy task, but I am assuming that it came after Yāmuna’s composition of the ĀP on the basis that both events probably occurred in Śrīraṅgam, where the PauṣS was in use, and the ĀP makes no mention of the Siddhāntas. [[76]]
 
 at which Yāmuna was an *ācārya*.111 It is clear, at any rate, that Yāmuna did not oppose this tradition. He asserts that its members do not lose their Brahminical status through abandoning the *dharma* of the triple Veda and performing their own life-cycle rites \( *saṃskāra*\),112 and we must assume that he accepted the “non-personal status” or 
 
@@ -35,14 +33,10 @@ Siddhāntas which are found in the 19th *adhyāya* s of both the PādS’s Cary�
 
 \[Pañcarātra\] Tantras… does not exist” \( *parasparavipratiṣedhas tu*… *tantrāṇāṃ nāsty eva*\). 
 
-115 See especially PādS *jp* 1.84-85, *cp* 19.123 *ff*, and also *cp * 21.73c *ff*. 
-
-77 
+115 See especially PādS *jp* 1.84-85, *cp* 19.123 *ff*, and also *cp * 21.73c *ff*. [[77]]
 
 19.125c *ff*\) explicitly states the equivalence between a *siddhāntasaṅkara* and a *tantrasaṅkara*. 
 
 However, as we have seen, the warning against the mixing of Siddhāntas \(intended presumably solely for the benefit of Pāñcarātrika adepts\), and the descriptions of the divisions themselves, are presented in the PādS as we now possess it alongside a number of passages \(intended perhaps for the Pāñcarātra’s opponents as well\), in which these divisions are transcended, and in which the Pāñcarātra is shown to be a single, homogeneous tradition in a manner comparable to the “tradition” of the Veda. Of course, this depiction of a unified tradition with distinct branches is able to account for internal inconsistencies in the scriptural literature. The depiction of unity is aided in the PādS, as it is in several later Saṃhitās, via the presentation of a 
 
-“Pāñcarātra canon”, and it is this theme, alongside that of the classification of a hierarchy of scriptures, to which I turn next. 
-
-78 
+“Pāñcarātra canon”, and it is this theme, alongside that of the classification of a hierarchy of scriptures, to which I turn next. [[78]]

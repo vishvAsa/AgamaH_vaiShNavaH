@@ -13,9 +13,7 @@ Each of these Kumārila declared “contrary to the triple Veda” \( *trayīvip
 
 \(418.1-5\), Śaṅkara claims that there are a number of doctrinal issues on which the Pañcarātra teaching is in conflict with the Veda \( *vedavipratiṣedha*\). 
 
-According to currently accepted chronologies, both Kumārila and Śaṅkara lived long before the composition of our earliest Pāñcarātra scriptural sources. It is, for this reason alone, difficult to estimate the effect that these thinkers’ criticisms might have 187 Vincent Eltschinger \(2010\) refers to Helmut Krasser’s forthcoming article “How to Teach a Buddhist Monk to Refute the Heretics? Bhāviveka’s relationship to Kumārila and Dharmakīrti”. In this article, Krasser places Kumārila in the sixth century. I am very grateful to Dr. Eltschinger for providing me with a copy of his own article. 
-
-111 
+According to currently accepted chronologies, both Kumārila and Śaṅkara lived long before the composition of our earliest Pāñcarātra scriptural sources. It is, for this reason alone, difficult to estimate the effect that these thinkers’ criticisms might have 187 Vincent Eltschinger \(2010\) refers to Helmut Krasser’s forthcoming article “How to Teach a Buddhist Monk to Refute the Heretics? Bhāviveka’s relationship to Kumārila and Dharmakīrti”. In this article, Krasser places Kumārila in the sixth century. I am very grateful to Dr. Eltschinger for providing me with a copy of his own article. [[111]]
 
 had on Pāñcarātra traditions themselves. Having said this, it seems somehow unlikely that Śaṅkara’s rejection of the Pāñcarātra’s compatibility with the Veda would have significantly influenced developments *within* the Pāñcarātra, not least because it is based on a philosophical position and an interpretation of the Veda which our earliest Pāñcarātra authors do not appear to have shared.188 If the Pāñcarātrika response to Mīmāṃsaka criticism in later South India is anything to go by, however, it seems probable that Kumārila’s attack on the credibility of the Pāñcarātra would have elicited a more significant reaction. For Kumārila’s rejection of the Pāñcarātra’s validity is based not on a few metaphysical distinctions but, as with Yāmuna’s Mīmāṃsaka opponent in the *Āgamaprāmāṇya *\(ĀP\), on their entire methodology, and on their sociocultural status, which Kumārila claims lies “outside the Veda” 
 
@@ -29,9 +27,7 @@ criticisms of the Pāñcarātra appear to have had little influence on the autho
 
 189 This apparent lack of influence is hardly surprising given the distance in time between these thinkers and the composition of the Saṃhitās. Inevitably, geography may also have been a factor. 
 
-Śaṅkara was almost certainly from South India \(Lorenzen 1983: 156\). Kumārila was probably also from the south, though this is less certain \(Taber 2007: 390\). As I have stated above, the JS, SS and PauṣS were all probably *initially* composed in North India. 
-
-112 
+Śaṅkara was almost certainly from South India \(Lorenzen 1983: 156\). Kumārila was probably also from the south, though this is less certain \(Taber 2007: 390\). As I have stated above, the JS, SS and PauṣS were all probably *initially* composed in North India. [[112]]
 
 religions” \( *bāhyāgamā*, Dezső 2005: 193\), voicing his annoyance “that these Pāñcarātrika Bhāgavatas should adopt brahminical manners” \(ĀḌ 4.11, trans. Dezső 
 
@@ -45,9 +41,7 @@ Unfortunately, at present we know very little about the precise context in which
 
 191 Sugandhā, queen consort of the ruling Śaṅkaravarman, would later briefly become regent \(904-906 
 
-CE\), though I am not aware of any evidence that Pāñcarātrikas benefitted from this. 
-
-113 
+CE\), though I am not aware of any evidence that Pāñcarātrikas benefitted from this. [[113]]
 
 the Saiddhāntikas acquire this status? This is an important question for our own purposes since, as Jayanta and Yāmuna show, it is precisely this recognition that Pāñcarātrikas craved. If the Pāñcarātra remodelled itself in accordance with Śaiva norms, then, we can assume that their strategies coincided to some degree with those of the Saiddhāntikas. Here it is worth quoting Sanderson’s \(2005: 231-232\) summary of the latter: 
 
@@ -69,9 +63,7 @@ The earliest of the published Saṃhitās situate themselves above the Veda. Wha
 
 *mauñjibandhane */ *tṛtīyaṃ yajñadīkṣāyāṃ dvijasya śruticodanāt *//. See also *Nāradīyasaṃhitā* 29.20: *evaṃ bhāgavato vedam upanīto ’bhyased guroḥ */ *tatas tu dīkṣāṃ saṃprāpya pañcarātraṃ*
 
-*samabhyaset *//. 
-
-115 
+*samabhyaset *//. [[115]]
 
 also held this position, for it is explicitly criticised by Śaṅkara in his BSBh.195 It is also, as we will see in Chapter Seven, continuous with methods of classification found in the younger parts of the *Nārāyaṇīya*. Although the earliest Saṃhitās present themselves notionally as higher teachings for those who are already eligible for Vedic instruction, in reality, as we will see below, they appeal to a considerably broader social audience, and they do not claim to be “rooted in the Veda”. As far as I am aware, the earliest articulation of the idea that the Pāñcarātra is rooted in the Veda is contained in Bhaṭṭa Jayanta’s late ninth or early tenth century philosophical drama the ĀḌ. Here, the eminent Naiyāyika scholar known as Dhairyarāśi argues that “statements of the Pañcarātra and other such \[traditions\] are valid \( *prāmāṇyahetuḥ*\) because they are rooted in the Veda \( *vedamūlatā*\)” \(ĀḌ 4.147\). In South India, this became a common theme. Yāmuna’s ĀP \(e.g. 7.12-14\) demonstrates clearly in its *pūrvapakṣa* section that the *vedamūlatva* principle was, by this time, already well established within the Pāñcarātra. Yāmuna’s own response to his Mīmāṃsaka opponent’s denial that the Pāñcarātra is rooted in the Veda is as follows: 
 
@@ -87,9 +79,7 @@ also held this position, for it is explicitly criticised by Śaṅkara in his BS
 
 *saṃkṣipyopadideśeti*. – “The Lord, for whom the entire collection of the Vedas is immediately present on account of his innate and unerring perception, upon seeing that his devotees were not sufficiently concentrated in their minds for studying and remembering the multiple recensions with their diverse and scattered injunctions, explanations and mantras, out of compassion \[for his devotees\] abridged its content in a succinct manner, and taught it thus.” \(ĀP 102.6-9\) Here, then, we see a clear articulation of what the Pāñcarātra’s being “rooted in the Veda” entails for Yāmuna. The singular Pāñcarātra teaching is a concise summary or “abridgement” of the vast and disordered collection of Vedic recensions \( *śākhā*\). This abridgement has been authored by God, and elsewhere \(e.g. ĀP 39.1-7, 60.5 *ff*, 84.1-3\) Yāmuna has already shown that Viṣṇu’s reliability is vouched for in 195 BSBh on 2.2.45 \(418.4-5\): *vedavipratiṣedhaś ca bhavati – caturṣu vedeṣu paraṃ śreyo ’labdhvā*
 
-*śāṇḍilya idaṃ śāstram adhigatavān ityādivedanindādarśanāt */. – “And there is conflict with the Veda, for it is seen that the Veda is censured is statements such as “Not finding the supreme good in the four Vedas, Śāṇḍilya learnt this teaching \(i.e. Pañcarātra\).” 
-
-116 
+*śāṇḍilya idaṃ śāstram adhigatavān ityādivedanindādarśanāt */. – “And there is conflict with the Veda, for it is seen that the Veda is censured is statements such as “Not finding the supreme good in the four Vedas, Śāṇḍilya learnt this teaching \(i.e. Pañcarātra\).” [[116]]
 
 the unauthored \( *apauruṣeya*\) Vedas themselves. This application of the *vedamūlatva* principle represents a significant development from formulations found in the Pūrvamīmāṃsā. In that tradition, the authority of “remembered” \( *smṛti*\) texts and practices which are “rooted in the Veda” is conferred by “texts inferentially proven to exist” i.e. “Vedic texts for one reason or another not accessible to us” \(Pollock 1997: 404, 407\). By contrast, Yāmuna’s Pāñcarātra is “rooted in the Veda” in the sense that it is a reformulation \(by God, no less\) not merely of various scattered injunctions \(see ibid.: 409\), or of a lost or otherwise inaccessible Vedic text or recension, but of “the entire Vedic corpus” \( *akhilavedarāśiḥ*\). 
 
@@ -119,9 +109,7 @@ He arrives at this *terminus ad quem* on the basis that the *Tantrasamuccaya*, w
 
 198 SrīpurS 1.26cd. Here the verse appears to have been drawn directly from the PādS. Note, also, ŚrīpurS 1.27cd ↔ MārkS 1.42cd. 
 
-199 MārkS 1.38ab. In this instance too, the verse appears to have been borrowed directly from the PādS, since the ensuing verses are also contained in the earlier work \(MārkS 1.39-42b ← PādS *jp* 1.93c-96\). My assumption that the MārkS is later than the PādS is based upon the reasons articulated in Smith \(1975: 328\) and Gonda \(1977: 106\). The ViṣS, meanwhile, may be more or less contemporary with the PādS \(Matsubara 1994: 35\). 
-
-118 
+199 MārkS 1.38ab. In this instance too, the verse appears to have been borrowed directly from the PādS, since the ensuing verses are also contained in the earlier work \(MārkS 1.39-42b ← PādS *jp* 1.93c-96\). My assumption that the MārkS is later than the PādS is based upon the reasons articulated in Smith \(1975: 328\) and Gonda \(1977: 106\). The ViṣS, meanwhile, may be more or less contemporary with the PādS \(Matsubara 1994: 35\). [[118]]
 
 defines etymologically as “that by which all things are accomplished and people are protected from danger” \( *sarve ’thā yena tanyante trāyante ca bhayāj janāḥ*, ViṣṇuS 
 
@@ -157,8 +145,6 @@ Other scriptures which presumably belong to a similar period \(i.e. 13th-14th ce
 
 207 See ViṣS 8.3c-6, 12.1 *ff*, 13.1-12, 13.34 *ff*, 20.343 *ff*, 31.7-9, 39.316 etc. 
 
-208 See LT 11.49, and especially chapters 28-29 and 49-50. See also Gupta \(2000: 391\). 
-
-119 
+208 See LT 11.49, and especially chapters 28-29 and 49-50. See also Gupta \(2000: 391\). [[119]]
 
 \(SanS\).209 In the scriptural literature that is available to me, the claim that the Pāñcarātra teaching is “rooted in the Veda” is one that is made exclusively by Pāñcarātrikas who practise what they call “mixed worship”. As we have seen in previous chapters, the PādS claims that this kind of worship is restricted to Pāñcarātrikas who belong to the tradition called ‘Mantrasiddhānta’. Among later works, the BhT \(22.88, 24.17-50\), the ŚrīprśS \(16.31c-34\), and the MārkS210 all associate themselves with this tradition. In the following, I attempt a brief and, inevitably, preliminary overview of the ways in which Pāñcarātra texts authorising mixed worship attempted to present themselves as being in conformity with Vedic tradition, while nonetheless avoiding some of the restrictions which a genuine conformity would have entailed. 
