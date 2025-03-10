@@ -21,7 +21,7 @@ Of the earlier works, the JS will involve the shortest discussion, since a form 
 
 I shall now turn to the SS. The majority of SS 24.282-25.294, wherein all this work’s references to the Ekāyanas are found, have been incorporated into the PārS 
 
-240 JS 20.265-270 \(→ PārS 12.311c-317b\): *bhagavadbhāvino ye ca yatayaḥ pāñcarātrikāḥ */ 
+[^240]: JS 20.265-270 \(→ PārS 12.311c-317b\): *bhagavadbhāvino ye ca yatayaḥ pāñcarātrikāḥ */ 
 
 *caturbhir āptair viprādyair yuktāṃs tv īśadiśi nyaset *// *ekāntinas tathā ’nāptaiḥ *\(corr. *’ptaiś ca*\) *yuktān āgneyadiggatān */ *niveśya vipra naiṛtyāṃ bhaktān vaikhānasān *\(corr. *vaikhānasaiḥ*\) *saha *// 
 
@@ -45,9 +45,9 @@ In these chapters, the Ekāyanas are distinguished from the other Brahminical as
 
 ‘Pañcarātra’. I will discuss this passage in the PauṣS below, when I address this text directly. 
 
-241 Parallel passages between SS 24-25 and the PārS are listed in Rastelli \(2006: 577-578\). Regarding the ĪS, most of SS 24.282-433 is found at ĪS 16.93-104, and 139c-287. Most of SS 25.1-294 is contained in the 18th chapter of the ĪS, with the following exceptions: SS 25.64c-87b → ĪS 15.59c-61, 117-135; SS 25.260c-268c → ĪS 16.293c-301c; SS 25.271c-287b → ĪS 16.312c-328b. 
+[^241]: Parallel passages between SS 24-25 and the PārS are listed in Rastelli \(2006: 577-578\). Regarding the ĪS, most of SS 24.282-433 is found at ĪS 16.93-104, and 139c-287. Most of SS 25.1-294 is contained in the 18th chapter of the ĪS, with the following exceptions: SS 25.64c-87b → ĪS 15.59c-61, 117-135; SS 25.260c-268c → ĪS 16.293c-301c; SS 25.271c-287b → ĪS 16.312c-328b. 
 
-242 In the SS see e.g. 6.74cd \(and Alaśiṅgabhaṭṭa’s commentary on this verse\), 7.107c-109b, and 22.46. 
+[^242]: In the SS see e.g. 6.74cd \(and Alaśiṅgabhaṭṭa’s commentary on this verse\), 7.107c-109b, and 22.46. 
 
 Elsewhere see e.g. JS 16.7-9, 18.6, and PauṣS 27.207cd, 32.88-89, 37.63cd etc. [[143]]
 
@@ -61,11 +61,11 @@ Here it is said that the guru seats in the cardinal directions four Ekāyanas wh
 
 There is good reason to believe that chapters 24 and 25 are later additions to the SS, and that at least the final third of chapter 24 \(24.282-433\) and the bulk of chapter 25 were written together for inclusion within the text. There are several clues which point to the validity of these claims, and I will briefly enumerate them here. Firstly, 243 See for example Olivelle \(1996: 262\) and Radhakrishnan \(1994: 683\). 
 
-244 Some of the uses of these terms in the Pāñcarātra literature are discussed in Rastelli \(2009\). 
+[^244]: Some of the uses of these terms in the Pāñcarātra literature are discussed in Rastelli \(2009\). 
 
-245 See SS 7.69d, 77d, and 88a. As mentioned above, *tanmaya* can also be found as a proper noun designating the Ekāyanas at e.g. PauṣS 36.266b and PādS *cp* 11.243b\). 
+[^245]: See SS 7.69d, 77d, and 88a. As mentioned above, *tanmaya* can also be found as a proper noun designating the Ekāyanas at e.g. PauṣS 36.266b and PādS *cp* 11.243b\). 
 
-246 These mantras are listed by Hikita \(1995; 2005\). [[144]]
+[^246]: These mantras are listed by Hikita \(1995; 2005\). [[144]]
 
 both chapters address the preparation for and performance of a temple-based *parārthapūjā* wherein professional priests officiate on behalf of a royal patron, here referred to simply as *ārādhaka* \(e.g. at SS 24.239d, 281c; 25.105d, 119b\). The royal patron’s “universal sovereignty” \(he is considered, in this respect, akin to Vāsudeva\) is hailed at the beginning of the 24th chapter.247 Conversely, the remainder of the SS 
 
@@ -73,7 +73,7 @@ is concerned not with the priestly performance of temple rituals for a fee-payin
 
 Although we cannot be certain, it seems probable that at least the final third of chapter 24 \(and possibly this chapter as a whole\) together with 25.1-294 were written specifically for inclusion within the SS, rather than having been incorporated *en bloc* from another work. This is not to say, of course, that passages within this portion of text could not have been incorporated from other texts.248 Rather, this section of the text more generally seems to have been authored, or at least thoroughly revised, in order to be incorporated into the larger work. This is indicated by the fact that it remains consistent throughout with what Smith \(1975: 515\) calls the “narrative framework” of the SS i.e. the dialogue between Lord Viṣṇu \(Bhagavat\) and Saṃkarṣaṇa as related by Nārada. This is evident, for instance, in the frequent use of 247 SS 24.16c-17c: *varṇāśramagurutvāc ca svāmitvād akhilasya ca* // *bhūtādidevarūpatvād uttamād* *yeṣu* *vastuṣu* / *nṛpaś*… //. Elsewhere in the SS \(e.g. at 5.98 and 7.77\), the “first god” \( *ādideva*\) is identified as Vāsudeva. 
 
-248 The prayer to summon Viṣṇu into his four-faced material form at SS 25.119c-122 may well be drawn from an older source. Sanderson \(2009a: 109\) reports that these verses have been transmitted among Kashmirian Smārta Brahmins in modern times. Cf. the wording in this prayer with the description of the four-faced form of Śaktyātman or Śaktīśa at SS 12.9-19. [[145]]
+[^248]: The prayer to summon Viṣṇu into his four-faced material form at SS 25.119c-122 may well be drawn from an older source. Sanderson \(2009a: 109\) reports that these verses have been transmitted among Kashmirian Smārta Brahmins in modern times. Cf. the wording in this prayer with the description of the four-faced form of Śaktyātman or Śaktīśa at SS 12.9-19. [[145]]
 
 the vocative *lāṅgalin* \(“possessor of the plough”\) which is an epithet of Saṃkarṣaṇa.249 
 
@@ -81,11 +81,11 @@ The question as to when these chapters may have been added to our text remains v
 
 “differentiated non-dualism” \( *viśiṣṭādvaita*\). Indeed, the clearest articulation of a philosophical stance which we find in chapters 24 and 25 indicates that our author’s outlook is in keeping, rather, with the dominant philosophical mode of the remainder of the SS, namely that of “difference and non-difference” \( *bhedābheda*\).250 This suggests that if these chapters were added to our text in South India, this is likely to have happened before the career of Rāmānuja \(twelfth century\), who was to exert such a profound influence on the Pāñcarātra traditions of this region. Such a suggestion also appears to find support in the fact that the appended chapters contain numerous passages wherein the goal of acquiring “perfections” or supernatural powers \( *siddhi*\) and worldly “enjoyments” \( *bhoga*\) is presented as being compatible with, or even a legitimate alternative to, the pursuit of liberation from *saṃsāra* \( *apavarga* or *mokṣa*\).251 For in the *bhakti*-oriented climate which succeeded the rise to prominence of Tamil Śrīvaiṣṇava communities, these goals were increasingly subordinated to the idea of liberation as god’s gracious reward for an attitude of devotional surrender. The SS’s closing *phalaśruti *\(25.379-384\), wherein rewards are promised for those who conceal the preceding Saṃhitā from non-devotees who are desirous of *bhoga*, is undoubtedly a still later addition to the text. 
 
-249 See e.g. SS 24.397d, 414d; 25.172d, 185b, 188d, 232b, 266b. Conversely, the presence of the vocative *lāṅgalin* in the numerous parallel passages contained in the ĪS, and at PārS 15.594b, help us to establish that these passages have been borrowed from elsewhere, since Saṃkarṣaṇa does not feature in the “narrative frameworks” of these texts. 
+[^249]: See e.g. SS 24.397d, 414d; 25.172d, 185b, 188d, 232b, 266b. Conversely, the presence of the vocative *lāṅgalin* in the numerous parallel passages contained in the ĪS, and at PārS 15.594b, help us to establish that these passages have been borrowed from elsewhere, since Saṃkarṣaṇa does not feature in the “narrative frameworks” of these texts. 
 
-250 See SS 25.148c-153. For examples of Bhedābhedavāda elsewhere in the SS see e.g. 2.72, 5.7-8, 5.81-82b, and 9.27. That said, as with the majority of Pāñcarātra Saṃhitās, there is not one consistent philosophical “position” undergirding the SS’s accounts of god’s relationship to the world. For imagery clearly indebted to the doctrine of “non-dualism” \( *advaita*\), for instance, see SS 4.33-35b. 
+[^250]: See SS 25.148c-153. For examples of Bhedābhedavāda elsewhere in the SS see e.g. 2.72, 5.7-8, 5.81-82b, and 9.27. That said, as with the majority of Pāñcarātra Saṃhitās, there is not one consistent philosophical “position” undergirding the SS’s accounts of god’s relationship to the world. For imagery clearly indebted to the doctrine of “non-dualism” \( *advaita*\), for instance, see SS 4.33-35b. 
 
-251 See e.g. SS 24.408ab, 25.2-3b, 229cd, 288, 308ab, 357b. However see also 25.367cd, wherein supernatural pleasures \( *bhoga*\) are graded below existence in “the abode of Acyuta”. [[146]]
+[^251]: See e.g. SS 24.408ab, 25.2-3b, 229cd, 288, 308ab, 357b. However see also 25.367cd, wherein supernatural pleasures \( *bhoga*\) are graded below existence in “the abode of Acyuta”. [[146]]
 
 Lastly, it is notable that at the beginning of the final two chapters of the SS, it is claimed that members of all four *vaṛna* s may perform the construction of a “mantra-made form of god” \( *mantramayaṃ vapuḥ*, 24.2\), and the ritual wherein mantras are fixed onto the icon \( *mantrabimbaniveśana*, 25.1-2\). These statements obviously refer to the prospective “worshipper” \( *ārādhaka*\) or “patron” of the rituals which are about to be addressed. 
 

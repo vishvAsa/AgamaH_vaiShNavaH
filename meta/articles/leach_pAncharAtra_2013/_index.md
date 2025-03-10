@@ -31,9 +31,5 @@ Robert Leach
 
 Submitted for the degree of PhD by Research 
 
-The University of Edinburgh 
-
-2012 
-
-2 
+The University of Edinburgh [[2012]][[2]]
 

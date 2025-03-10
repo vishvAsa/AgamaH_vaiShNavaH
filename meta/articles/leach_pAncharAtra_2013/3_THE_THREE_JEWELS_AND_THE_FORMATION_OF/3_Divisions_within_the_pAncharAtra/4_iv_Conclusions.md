@@ -7,7 +7,7 @@ It will be useful, at this juncture, to tie together several summary conclusions
 
 Yāmuna’s ĀP makes no reference to the four Pāñcarātra Siddhāntas, and is certainly less “sectarian” in tone than sections of the PādS which I have addressed above. As Neevel \(1977: 35-36\) suggests, Yāmuna was very likely himself a member of a Pāñcarātra tradition that performed both Pāñcarātrika and Vedic rites. His inclusion of the followers of the Ekāyanaśākhā within the broad class of Bhāgavata Brahmins whom he is defending can possibly be explained by the fact that these Ekāyanas enjoyed a prominent position at the Raṅganāthasvāmin temple in Śrīraṅgam 109 This is based on the assumption that the passage dealing with the four Siddhāntas in the *Hayagrīvasaṃhitā* \(or the *Hayaśīrṣapañcarātra*\) that is quoted by Vedāntadeśika \(PRR 8.5-8\) was a late interpolation into that text. 
 
-110 The earliest extant “articulation” of the theory of four Pāñcarātra Siddhāntas may well occur in the section of the PauṣS \(38.295-39.39\) which Smith \(1975: 296\) has identified as a late interpolation. 
+[^110]: The earliest extant “articulation” of the theory of four Pāñcarātra Siddhāntas may well occur in the section of the PauṣS \(38.295-39.39\) which Smith \(1975: 296\) has identified as a late interpolation. 
 
 Dating the inclusion of this section within the PauṣS is no easy task, but I am assuming that it came after Yāmuna’s composition of the ĀP on the basis that both events probably occurred in Śrīraṅgam, where the PauṣS was in use, and the ĀP makes no mention of the Siddhāntas. [[76]]
 
@@ -25,15 +25,15 @@ The objective of the author of the description of the Siddhāntas in the PādS i
 
 Siddhāntas which are found in the 19th *adhyāya* s of both the PādS’s Caryāpāda and the PārS are contained within sections of these texts which deal primarily with the rites of reparation \( *prāyaścitta*\). Given that such rites are also prescribed, for instance, in the event of a *tantrasāṅkarya * i.e a “mixing” of *systems*, whether it be Vaikhānasa or Pāśupata \(PārS 19.520, 549\), the term “sectarianism” does not seem too out of place in a discussion of the Pāñcarātra Siddhāntas of this period. Indeed, the PādS \( *cp* 111 Rastelli \(2006\) has shown that the partially Ekāyana PauṣS was in use at this temple, and that the PārS, an Ekāyana work, was very probably composed here. 
 
-112 ĀP 169.7-10: *ye punaḥ sāvitryanuvacanaprabhṛtitrayīdharmatyāgena ekāyanaśrutivihitān eva* *cattvāriṃśat saṃskārān kurvate te ’pi svaśākhāgṛhyoktam arthaṃ yathāvad anutiṣṭhamānāḥ na* *śākhāntarīyakarmānanuṣṭhānād brāhmaṇyāt pracyavante.*
+[^112]: ĀP 169.7-10: *ye punaḥ sāvitryanuvacanaprabhṛtitrayīdharmatyāgena ekāyanaśrutivihitān eva* *cattvāriṃśat saṃskārān kurvate te ’pi svaśākhāgṛhyoktam arthaṃ yathāvad anutiṣṭhamānāḥ na* *śākhāntarīyakarmānanuṣṭhānād brāhmaṇyāt pracyavante.*
 
-113 Yāmuna gives no clear indication in the ĀP that he authored this work. See ĀP 170.7-9: *yathā ca* *ekāyanaśākhāyā apauruṣeyatvaṃ tathā kāśmīrāgamaprāmāṇya eva prapañcitam iti*. 
+[^113]: Yāmuna gives no clear indication in the ĀP that he authored this work. See ĀP 170.7-9: *yathā ca* *ekāyanaśākhāyā apauruṣeyatvaṃ tathā kāśmīrāgamaprāmāṇya eva prapañcitam iti*. 
 
-114 See, for example, Yāmuna’s claim \(at ĀP 115.8-116.1\) that “Mutual conflict between the 
+[^114]: See, for example, Yāmuna’s claim \(at ĀP 115.8-116.1\) that “Mutual conflict between the 
 
 \[Pañcarātra\] Tantras… does not exist” \( *parasparavipratiṣedhas tu*… *tantrāṇāṃ nāsty eva*\). 
 
-115 See especially PādS *jp* 1.84-85, *cp* 19.123 *ff*, and also *cp * 21.73c *ff*. [[77]]
+[^115]: See especially PādS *jp* 1.84-85, *cp* 19.123 *ff*, and also *cp * 21.73c *ff*. [[77]]
 
 19.125c *ff*\) explicitly states the equivalence between a *siddhāntasaṅkara* and a *tantrasaṅkara*. 
 

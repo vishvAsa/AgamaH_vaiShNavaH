@@ -25,7 +25,7 @@ criticisms of the Pāñcarātra appear to have had little influence on the autho
 
 “Vedic officiant” \( *ṛtvik*\) names the Pāñcarātrikas alongside the Śaivas, Pāśupatas, Sāṃkhyas, Buddhists \( *saugata*\) and Digambara Jains as members of “heterodox 188 The JS, SS and PauṣS are in no sense “philosophical” texts, and nor do they articulate a consistent metaphysics. However, each of them generally inclines more towards the position of “difference and non-difference” \( *bhedābheda*\), than towards Śaṅkara’s type of “non-dualism” \( *advaita*\). On Bhedābhedavāda in the JS see Rastelli \(1999\); in the SS, see below. 
 
-189 This apparent lack of influence is hardly surprising given the distance in time between these thinkers and the composition of the Saṃhitās. Inevitably, geography may also have been a factor. 
+[^189]: This apparent lack of influence is hardly surprising given the distance in time between these thinkers and the composition of the Saṃhitās. Inevitably, geography may also have been a factor. 
 
 Śaṅkara was almost certainly from South India \(Lorenzen 1983: 156\). Kumārila was probably also from the south, though this is less certain \(Taber 2007: 390\). As I have stated above, the JS, SS and PauṣS were all probably *initially* composed in North India. [[112]]
 
@@ -39,7 +39,7 @@ Unfortunately, at present we know very little about the precise context in which
 
 \[Pāñcarātrikas\] mix with brahmins and have no scruples about using the form of greeting that only we may use to our equals. They recite the Pañcarātra scriptures with a special pattern of accented syllables, as if they were taking the text of Veda as their example. “We are brahmins,” they say of themselves, and demand that others speak of them in the same way.” 
 
-191 Sugandhā, queen consort of the ruling Śaṅkaravarman, would later briefly become regent \(904-906 
+[^191]: Sugandhā, queen consort of the ruling Śaṅkaravarman, would later briefly become regent \(904-906 
 
 CE\), though I am not aware of any evidence that Pāñcarātrikas benefitted from this. [[113]]
 
@@ -55,11 +55,11 @@ The Veda’s inability to lead its practitioners towards liberation is also expr
 
 The earliest of the published Saṃhitās situate themselves above the Veda. What is more, we can be certain that earlier Pāñcarātrikas, whose texts have not survived, 192 Compare JS 1.11 with *Bhagavadgītā* 11.48ab. 
 
-193 SS 21.42abc \(→ ĪS 22.38abc\): *bhaktānāṃ kṛtadīkṣāṇāṃ vyaṅgyaḥ śāstrārtha eva hi */ *anyeṣāṃ*
+[^193]: SS 21.42abc \(→ ĪS 22.38abc\): *bhaktānāṃ kṛtadīkṣāṇāṃ vyaṅgyaḥ śāstrārtha eva hi */ *anyeṣāṃ*
 
 *dharmaśāstraṃ ca… *//. 
 
-194 AS 15.36c-37b: *ācāryāj janma sāvitryāṃ dvitīyaṃ divyam iṣyate *// *te trayo yajñadīkṣāyāṃ janma* *prāpya tṛtīyakam */. Cf. *Mānavadharmaśāstra * 2.169: *mātur agre ’dhijananaṃ dvitīyaṃ*
+[^194]: AS 15.36c-37b: *ācāryāj janma sāvitryāṃ dvitīyaṃ divyam iṣyate *// *te trayo yajñadīkṣāyāṃ janma* *prāpya tṛtīyakam */. Cf. *Mānavadharmaśāstra * 2.169: *mātur agre ’dhijananaṃ dvitīyaṃ*
 
 *mauñjibandhane */ *tṛtīyaṃ yajñadīkṣāyāṃ dvijasya śruticodanāt *//. See also *Nāradīyasaṃhitā* 29.20: *evaṃ bhāgavato vedam upanīto ’bhyased guroḥ */ *tatas tu dīkṣāṃ saṃprāpya pañcarātraṃ*
 
@@ -91,7 +91,7 @@ Turning to the Pāñcarātra scriptures themselves, we find the same idea in the
 
 Of the works available to me, it is only among the later, post-Yāmuna Saṃhitās that we encounter evidence of the *vedamūlatva* principle being explicitly incorporated into modes of scriptural self-understanding.197 With the exception of the 196 Yāmuna himself makes sure that he is not misunderstood on this point – for him the Pañcarātra and the Veda are equally authoritative \( *pañcarātraśrutyoḥ ekārthyam eva pratīyate*, ĀP 105.3\). 
 
-197 However, a verse conveying the *vedamūlatva* principle which is quoted without attribution by Yāmuna at ĀP 102.11-12 is also quoted by Rāmānuja in his ŚrīBh \(332.15-19\) alongside verses from 117 
+[^197]: However, a verse conveying the *vedamūlatva* principle which is quoted without attribution by Yāmuna at ĀP 102.11-12 is also quoted by Rāmānuja in his ŚrīBh \(332.15-19\) alongside verses from 117 
 
 ViśS, these Saṃhitās tend to utilise a considerably more moderate version of the *vedamūlatva * idea – one that, at least ostensibly, reverses the notion that the Veda is inferior to the Pāñcarātra. Perhaps one of the earliest clear expressions of such an idea within the scriptural corpus is the declaration, found in both the PādS \( *jp* 1.91cd\) and the *Viṣvaksenasaṃhitā* \(ViṣS 8.5ab\), that it is “rooted in *śruti*, and is an authority like the Kalpasūtras” \( *śrutimūlam idaṃ tantraṃ pramāṇaṃ kalpasūtravat*\). 
 
@@ -107,9 +107,9 @@ A similar claim is found in the *Viṣṇusaṃhitā *\(ViṣṇuS\). N. P. Unni
 
 He arrives at this *terminus ad quem* on the basis that the *Tantrasamuccaya*, which he says can be dated to the fourteenth century \(though several scholars, see e.g. Ślączka 2010, in fact date it to the fifteenth\), is indebted to the ViṣṇuS. The ViṣṇuS, which is strikingly “non-sectarian” in its outlook, calls itself a ‘Tantra’ \(ViṣṇuS 2.1\), which it the ParS \(1.3-4\). The ParS is quoted by Yāmuna, and so predates him. However, the verse in question is not found in the present version of the ParS. The verse reads: *vedānteṣu yathāsāraṃ saṃgṛhya* *bhagavān hariḥ */ *bhaktānukampayā vidvān saṃcikṣepa yathāsukham* //. – “The omniscient Lord Hari, after taking the essence of the Upaniṣads, out of compassion for his devotees condensed it for their benefit.” 
 
-198 SrīpurS 1.26cd. Here the verse appears to have been drawn directly from the PādS. Note, also, ŚrīpurS 1.27cd ↔ MārkS 1.42cd. 
+[^198]: SrīpurS 1.26cd. Here the verse appears to have been drawn directly from the PādS. Note, also, ŚrīpurS 1.27cd ↔ MārkS 1.42cd. 
 
-199 MārkS 1.38ab. In this instance too, the verse appears to have been borrowed directly from the PādS, since the ensuing verses are also contained in the earlier work \(MārkS 1.39-42b ← PādS *jp* 1.93c-96\). My assumption that the MārkS is later than the PādS is based upon the reasons articulated in Smith \(1975: 328\) and Gonda \(1977: 106\). The ViṣS, meanwhile, may be more or less contemporary with the PādS \(Matsubara 1994: 35\). [[118]]
+[^199]: MārkS 1.38ab. In this instance too, the verse appears to have been borrowed directly from the PādS, since the ensuing verses are also contained in the earlier work \(MārkS 1.39-42b ← PādS *jp* 1.93c-96\). My assumption that the MārkS is later than the PādS is based upon the reasons articulated in Smith \(1975: 328\) and Gonda \(1977: 106\). The ViṣS, meanwhile, may be more or less contemporary with the PādS \(Matsubara 1994: 35\). [[118]]
 
 defines etymologically as “that by which all things are accomplished and people are protected from danger” \( *sarve ’thā yena tanyante trāyante ca bhayāj janāḥ*, ViṣṇuS 
 
@@ -127,24 +127,24 @@ Other scriptures which presumably belong to a similar period \(i.e. 13th-14th ce
 
 \(ŚrīprśS\),204 and the ŚrīpurS.205 Among the apparently earlier \(pre-Vedāntadeśika\) South Indian works which openly prescribe a “mixed” \( *miśra*, *vyāmiśra*\) form of worship, we can count the PādS, the *Bhārgavatantra* \(BhT\),206 the NārS, the *Viṣvaksenasaṃhitā *\(ViṣS\),207 the *Lakṣmītantra* \(LT\),208 and the *Sanatkumārasaṃhitā*
 
-200 ViṣṇuS 2.11c-12b: *vedamūlatayā tantraṃ āptamūlatayāthavā *// *purāṇavat pramāṇaṃ syāt tathā*
+[^200]: ViṣṇuS 2.11c-12b: *vedamūlatayā tantraṃ āptamūlatayāthavā *// *purāṇavat pramāṇaṃ syāt tathā*
 
 *manvādivākyavat */. 
 
-201 ViṣṇuS 2.19: *āptaproktatayā tantraṃ pramāṇam iti ye viduḥ */ *vedaprāmāṇyam apy āhur* *āptamūlatayaiva te *//. The idea that the Vedas are authored by Viṣṇu is, unsurprisingly, common in the later Pāñcarātra works. Elsewhere see e.g. ViśS 4.34. 
+[^201]: ViṣṇuS 2.19: *āptaproktatayā tantraṃ pramāṇam iti ye viduḥ */ *vedaprāmāṇyam apy āhur* *āptamūlatayaiva te *//. The idea that the Vedas are authored by Viṣṇu is, unsurprisingly, common in the later Pāñcarātra works. Elsewhere see e.g. ViśS 4.34. 
 
-202 See for example ViṣṇuS 4.18c-19, and 29.38-51b, 83. 
+[^202]: See for example ViṣṇuS 4.18c-19, and 29.38-51b, 83. 
 
-203 See the list of Vedic mantras in the printed edition of the ViśS p. 298. At ViśS 6.2 *ff*, knowledge of the *ṛṣi* and *chandas* elements \(6.10ab\) of the *praṇava* mantra is declared to be a prerequisite for this mantra’s successful employment. 
+[^203]: See the list of Vedic mantras in the printed edition of the ViśS p. 298. At ViśS 6.2 *ff*, knowledge of the *ṛṣi* and *chandas* elements \(6.10ab\) of the *praṇava* mantra is declared to be a prerequisite for this mantra’s successful employment. 
 
-204 See e.g. ŚrīprśS 16.34. For a list of the Vedic mantras used in the ŚrīprśS, see Padmanabhan’s \(1969\) appendix to the printed edition of the text. 
+[^204]: See e.g. ŚrīprśS 16.34. For a list of the Vedic mantras used in the ŚrīprśS, see Padmanabhan’s \(1969\) appendix to the printed edition of the text. 
 
-205 See e.g. ŚrīpurS 19.12c-13, 22.46 *ff* and 24.41 *ff*. 
+[^205]: See e.g. ŚrīpurS 19.12c-13, 22.46 *ff* and 24.41 *ff*. 
 
-206 See e.g. BhT 24.17-18, 27c *ff*. 
+[^206]: See e.g. BhT 24.17-18, 27c *ff*. 
 
-207 See ViṣS 8.3c-6, 12.1 *ff*, 13.1-12, 13.34 *ff*, 20.343 *ff*, 31.7-9, 39.316 etc. 
+[^207]: See ViṣS 8.3c-6, 12.1 *ff*, 13.1-12, 13.34 *ff*, 20.343 *ff*, 31.7-9, 39.316 etc. 
 
-208 See LT 11.49, and especially chapters 28-29 and 49-50. See also Gupta \(2000: 391\). [[119]]
+[^208]: See LT 11.49, and especially chapters 28-29 and 49-50. See also Gupta \(2000: 391\). [[119]]
 
 \(SanS\).209 In the scriptural literature that is available to me, the claim that the Pāñcarātra teaching is “rooted in the Veda” is one that is made exclusively by Pāñcarātrikas who practise what they call “mixed worship”. As we have seen in previous chapters, the PādS claims that this kind of worship is restricted to Pāñcarātrikas who belong to the tradition called ‘Mantrasiddhānta’. Among later works, the BhT \(22.88, 24.17-50\), the ŚrīprśS \(16.31c-34\), and the MārkS210 all associate themselves with this tradition. In the following, I attempt a brief and, inevitably, preliminary overview of the ways in which Pāñcarātra texts authorising mixed worship attempted to present themselves as being in conformity with Vedic tradition, while nonetheless avoiding some of the restrictions which a genuine conformity would have entailed. 

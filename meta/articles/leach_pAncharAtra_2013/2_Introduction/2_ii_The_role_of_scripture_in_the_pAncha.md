@@ -15,9 +15,7 @@ and, re Lactantius, “binding” narratives and behaviours which are “articul
 
 traditions being *scriptural*, noting that “Tantric practices are always textually substantiated”, and that in the Tantric context “text is inseparable from tradition”. 
 
-This last idea is helpfully conveyed by the fact that in the Tantric literature, the term 4 “Religion”, writes Flood \(2006a: 52\), can be taken “to refer prototypically to a historical tradition that is formed by text and continuously refers back to that text.” 
-
-14 
+This last idea is helpfully conveyed by the fact that in the Tantric literature, the term 4 “Religion”, writes Flood \(2006a: 52\), can be taken “to refer prototypically to a historical tradition that is formed by text and continuously refers back to that text.” [[14]]
 
 *tantra* can mean both “text” *and* “tradition”, the latter being denoted, for instance, in the stock phrase *asmin tantre* \(see Padoux 1998\). In addition, just as the adjective 
 
@@ -37,11 +35,9 @@ In the *Jayākhyasaṃhitā* \(at 22.3a\) we find a single, passing reference to
 
 “Bhagavaddharma Tantras”, mentioned alongside “those who observe the \[ritual teaching of the\] five times” and, as we will see below, there are a number of verses in this work in which the teaching \( *śāstra*\) and those who know it are praised, but these 5 I refer here to the *Adhikaḥ Pāṭhaḥ* section of the JS, and to PauṣS 38.295-39.39 \(on which see Smith 1975: 296\). 
 
-6 The *Sātvatasaṃhitā* and the *Pauṣkarasaṃhitā* both provide notable exceptions: the former with its reference to “those who are learned in the Saṃhitās” \( *saṃhitāpāragāṇām*, SS 20.4c\) – the context suggests that this must be a reference to the Pāñcarātra Saṃhitās; I discuss the relevant passage in the *Pauṣkarasaṃhitā* \(41.77-97\) below. It is also worth noting that if we discount the interpolated *Adhikaḥ*
+[^6]: The *Sātvatasaṃhitā* and the *Pauṣkarasaṃhitā* both provide notable exceptions: the former with its reference to “those who are learned in the Saṃhitās” \( *saṃhitāpāragāṇām*, SS 20.4c\) – the context suggests that this must be a reference to the Pāñcarātra Saṃhitās; I discuss the relevant passage in the *Pauṣkarasaṃhitā* \(41.77-97\) below. It is also worth noting that if we discount the interpolated *Adhikaḥ*
 
-*Pāṭhaḥ* section of the *Jayākhyasaṃhitā*, the three earliest of the published Saṃhitās contain no mention of each other. 
-
-15 
+*Pāṭhaḥ* section of the *Jayākhyasaṃhitā*, the three earliest of the published Saṃhitās contain no mention of each other. [[15]]
 
 instances provide scant evidence of a scriptural tradition peculiar to the Pāñcarātra.7 
 
@@ -55,21 +51,19 @@ The broadly Vaiṣṇava identity of the scriptural tradition ackowledged by the
 
 “knower of the Śāstra”. This passage addresses the role of the *śāstradhāraka*, who is responsible for preserving and transmitting the scriptures: 
 
-7 Both the *Jayākhyasaṃhitā* \(elsewhere at 1.12 and 1.40ab\) and the *Pauṣkarasaṃhitā* \(30.38, 31.200\) refer to their own tradition, on a couple of occasions, as *Bhagavaddharma*. The verse heading at JS 
+[^7]: Both the *Jayākhyasaṃhitā* \(elsewhere at 1.12 and 1.40ab\) and the *Pauṣkarasaṃhitā* \(30.38, 31.200\) refer to their own tradition, on a couple of occasions, as *Bhagavaddharma*. The verse heading at JS 
 
 22.3 equates the *Bhagavaddharma* with the *dharma* of the Bhāgavatas, who are alternatively called 
 
 ‘Vaiṣṇava’ in the same chapter \(see 22.1, 56cd\). 
 
-8 The compound *pranaṣṭapāṭhavākyānām*, and thus the verse in which it occurs, can be interpreted differently. See e.g. Colas \(1995: 131 n. 37\): “Ayant pratiqué la conjecture du sens correct des passages dont la leçon est corrompue, avec l’aide des connaisseurs de ces \(textes\), il perfectionne l’Āgama, avec zèle et sans se lasser”. Czerniak-Drożdżowicz \(2003: 40\) gives a similar reading. 
+[^8]: The compound *pranaṣṭapāṭhavākyānām*, and thus the verse in which it occurs, can be interpreted differently. See e.g. Colas \(1995: 131 n. 37\): “Ayant pratiqué la conjecture du sens correct des passages dont la leçon est corrompue, avec l’aide des connaisseurs de ces \(textes\), il perfectionne l’Āgama, avec zèle et sans se lasser”. Czerniak-Drożdżowicz \(2003: 40\) gives a similar reading. 
 
-9 JS 22.51c-53: *purāṇaṃ dharmaśāstrāṇi itihāsāṃś ca vaiṣṇavān *// *vetti vedāntasiddhāntān śṛṇuyād* *vyākaroti api */ *praṇaṣṭapāṭhavākyānāṃ kṛtvā vastuvicāraṇam *// *tajjñais saha prayatnād vai hy* *āgamaṃ saṃskaroti yaḥ */ *atandritaḥ sadā viddhi taṃ śāstrajñam hi vaiṣṇavam *//. * * 
+[^9]: JS 22.51c-53: *purāṇaṃ dharmaśāstrāṇi itihāsāṃś ca vaiṣṇavān *// *vetti vedāntasiddhāntān śṛṇuyād* *vyākaroti api */ *praṇaṣṭapāṭhavākyānāṃ kṛtvā vastuvicāraṇam *// *tajjñais saha prayatnād vai hy* *āgamaṃ saṃskaroti yaḥ */ *atandritaḥ sadā viddhi taṃ śāstrajñam hi vaiṣṇavam *//. * * 
 
-10 See Pollock’s \(1997: 408\) summary of the *śruti*/ *smṛti * distinction in “classical Sanskrit culture”: “In short, *śruti * means nothing other than “\(Veda\) actually now perceived aurally \(in recitation\)”, i.e. extant or available; *smṛti*, nothing other than “\(Veda\) that is remembered”, i.e., material that, having once been heard in recitation is inferentially recoverable from present reformulations \(in language or practice\), which once existed as part of a Vedic corpus.” Pollock \(ibid.: 409\) goes on to explain: “Early Mīmāṃsā \[as articulated in the *Śābarabhāṣya* and the *Tantravārttika*\] holds that the *smṛti* s are derived from Vedic recensions now forgotten or geographically or otherwise inaccessible to us; Nyāya \[as articulated, for example, in Udayana’s *Nyāyakusumāñjali*\] * * reasons that these recensions must have actually disappeared”. On the basis of this description, it would appear that the *Jayākhyasaṃhitā*’s conception of “lost traditions of recitation” \( *praṇaṣṭapāṭha*\) corresponds more closely to the Naiyāyika account. 
+[^10]: See Pollock’s \(1997: 408\) summary of the *śruti*/ *smṛti * distinction in “classical Sanskrit culture”: “In short, *śruti * means nothing other than “\(Veda\) actually now perceived aurally \(in recitation\)”, i.e. extant or available; *smṛti*, nothing other than “\(Veda\) that is remembered”, i.e., material that, having once been heard in recitation is inferentially recoverable from present reformulations \(in language or practice\), which once existed as part of a Vedic corpus.” Pollock \(ibid.: 409\) goes on to explain: “Early Mīmāṃsā \[as articulated in the *Śābarabhāṣya* and the *Tantravārttika*\] holds that the *smṛti* s are derived from Vedic recensions now forgotten or geographically or otherwise inaccessible to us; Nyāya \[as articulated, for example, in Udayana’s *Nyāyakusumāñjali*\] * * reasons that these recensions must have actually disappeared”. On the basis of this description, it would appear that the *Jayākhyasaṃhitā*’s conception of “lost traditions of recitation” \( *praṇaṣṭapāṭha*\) corresponds more closely to the Naiyāyika account. 
 
-11 The “knower of the *śāstra*” \( *śāstrajñaḥ*\) is also identified simply as a “Vaiṣṇava” at JS 1.58. 
-
-16 
+[^11]: The “knower of the *śāstra*” \( *śāstrajñaḥ*\) is also identified simply as a “Vaiṣṇava” at JS 1.58. [[16]]
 
 *śraddhayā yaḥ samuccitya yatra kutracid āgamam* / *brahma dhyāyaṃs tathā* 
 
@@ -89,9 +83,7 @@ The idea that Vaiṣṇavas belong to the same “system”, or share a common �
 
 The passage describing the *śāstradhāraka * is also of particular interest in the present context on account of its reference to the worship of the “seat” of Śāstras \( *śāstrapīṭha*\). It is noteworthy that several Pāñcarātra works, including the *Jayākhyasaṃhitā*, the *Sātvatasaṃhitā* and the *Pauṣkarasaṃhitā*, refer to the worship of texts in their written form, whether collectively, as part of a *śāstrapīṭha*, or 12 The *Sātvatasaṃhitā*, the *Pauṣkarasaṃhitā* and the *Paramasaṃhitā* \(ParS\) also address themselves primarily to “Vaiṣṇavas” rather than to Pāñcarātrikas. See e.g. SS 12.170, 16.10, 19.2, 21.46ab; PauṣS 
 
-20.111, 27.128ab, 31.212, 36.256; ParS 3.52-56, 5.74, 7.1-26, 16.2, 57-8, 19.48, 26.76, 29.33. 
-
-17 
+20.111, 27.128ab, 31.212, 36.256; ParS 3.52-56, 5.74, 7.1-26, 16.2, 57-8, 19.48, 26.76, 29.33. [[17]]
 
 otherwise.13 The *śāstrapīṭha* mentioned here is the same as the *vidyāpīṭha*, the “seat of knowledge”, or in Brunner-Lachaux’s \(1963: 226 n. 2\) words the “throne of wisdom” 
 
@@ -113,37 +105,33 @@ and “divine” collection of scriptures \( *āgamasaṃcaya*\) at SS 20.13-14b
 
 \(37.14c *ff*\), the *Pārameśvarasaṃhitā* \(12.149c-150b\) and the *Īśvarasaṃhitā* \(14.225c *ff*\). 
 
-14 See for example Aghoraśivācārya’s *Kriyākramadyotikā * p.119-120 – information from Brunner-Lachaux \(1963: 226-227\) – the *Tantrāloka* \(28.156b\), and the *Yogakhaṇḍa * of the * Manthānabhairava-tantra* \(folio 86a\) – information from Dyczkowski \(1988: 158 n. 280\). Dyczkowski writes here: 
+[^14]: See for example Aghoraśivācārya’s *Kriyākramadyotikā * p.119-120 – information from Brunner-Lachaux \(1963: 226-227\) – the *Tantrāloka* \(28.156b\), and the *Yogakhaṇḍa * of the * Manthānabhairava-tantra* \(folio 86a\) – information from Dyczkowski \(1988: 158 n. 280\). Dyczkowski writes here: 
 
 “*Vidyāpīṭha * in the \[Śaiva\] Siddhānta refers to the Āgama in general viewed as an object of veneration. 
 
 The worship of the sacred scripture is a way of worshipping Śiva.” 
 
-15 PauṣS 41.78-79: *pariśuddhān samuccitya pañcarātrīyasañcayān */ *sadāgamādikān kṛtsnān* *vedavedāṅgasaṃyutān *// *smṛtismṛtyantaropetān itihāsasamanvitān */ *ānvīkṣakībhir vidyābhis* *saśabdākhyābhisaṃvṛtān *//. 
-
-18 
+[^15]: PauṣS 41.78-79: *pariśuddhān samuccitya pañcarātrīyasañcayān */ *sadāgamādikān kṛtsnān* *vedavedāṅgasaṃyutān *// *smṛtismṛtyantaropetān itihāsasamanvitān */ *ānvīkṣakībhir vidyābhis* *saśabdākhyābhisaṃvṛtān *//. [[18]]
 
 broadly used to denote any teaching which imparts sacred knowledge, which is to say knowledge that is ultimately derived from god. Of course this includes the Saṃhitās, which frequently refer to themselves as *śāstra*,16 but it is not limited to them. Thus, it is commonly said that the Pāñcarātrika preceptor, i.e. the *guru* or *ācārya*,17 whose duty it is to reveal the Śāstra * * to other initiates \(see e.g. JS 18.69-70, SS 22.15c-16b, *Īśvarasaṃhitā* 22.38 *ff*\), must be learned in other teachings in addition to the Saṃhitās.18 For this reason, in the following when I translate *śāstra* I do so with the word “teaching”, and I reserve the term “scripture” for the Sanskrit *āgama* which, as mentioned above, refers more narrowly to the Pāñcarātra scriptural corpus or to a particular text within it. 
 
 Insofar as the worship of manuscripts does not appear to be confined to one particular Pāñcarātra tradition, to one category of Pāñcarātrika initiate,19 or to one historical period, this practice provides a good indication of the central importance of texts in the religious lives of Pāñcarātrikas. This is also attested to by the prescriptions for the practice of textual study \( *svādhyāya*, *adhyayana*\), which we find throughout the literature. Listening to, contemplating \( *cintana*\), reciting, and expounding upon \( *vyākhyāna*\) texts is enjoined for all initiates \(see e.g. JS 16.301-314b, SS 21.8\). In the *Pauṣkarasaṃhitā* \(41.61cd\), some of the texts to be studied are named – the *Ṛgveda*, *Sāmaveda* and Itihāsa. In later works, such as the *Pādmasaṃhitā* \( *cp* 13.66c-72b\) and the *Śrīpraśnasaṃhitā* \(17.55-57b\), other texts are added to this list: the Purāṇas, the Dharmaśāstras, and texts of the Pāñcarātra. 
 
-16 See e.g. JS 18.69-70, 33.86ab, SS 21.42, *Śrīpraśnasaṃhitā* 54.135ab, *Īśvarasaṃhitā * 25.217. 
+[^16]: See e.g. JS 18.69-70, 33.86ab, SS 21.42, *Śrīpraśnasaṃhitā* 54.135ab, *Īśvarasaṃhitā * 25.217. 
 
-17 Gonda \(1965: 240\) has shown that the term *guru* has had, from the time of “the earliest texts” a much broader semantic range than has *ācārya*, primarily insofar as it has not always exclusively denoted a 
+[^17]: Gonda \(1965: 240\) has shown that the term *guru* has had, from the time of “the earliest texts” a much broader semantic range than has *ācārya*, primarily insofar as it has not always exclusively denoted a 
 
 “spiritual teacher” but has also been applied to “other venerable or respectable persons, to father, mother, or any relative older than one’s self.” However, in the Pāñcarātra Saṃhitās the terms *guru* and *ācārya* are usually synonymous \(see e.g. JS 16.329, SS 20.2-3, *Ahirbudhnyasaṃhitā* 15.44-45, *Lakṣmītantra* 21.41. For exceptions, see e.g. JS 20.139c-140b, and *Sanatkumārasaṃhitā Brahmarātra* 5.14c-30b\). In keeping with its traditionally more specific denotation, *ācārya* is usually the term used when the fourfold hierarchy of Pāñcarātrika initiates is enumerated i.e. the series *samayin*, *putraka*, *sādhaka* and *ācārya*, though the terms *guru* and *deśika * are also occasionally applied to this role \(e.g. JS 
 
 16.329, PauṣS 33.24, SS 20.2-3, 22.61c\). 
 
-18 These normally include the Vedas and their auxiliary limbs \( *vedāṅga*\), and the Upaniṣads \( *vedānta*\). 
+[^18]: These normally include the Vedas and their auxiliary limbs \( *vedāṅga*\), and the Upaniṣads \( *vedānta*\). 
 
 See e.g. *Ahirbudhnyasaṃhitā * 20.1 *ff*, *Śrīpraśnasaṃhitā * 16.1-12, *Viśvāmitrasaṃhitā* 3.2-6. 
 
-19 On occasion, the worship of texts is prescribed for a particular category of initiate \(e.g. for the *putraka* at SS 20.13-14, or for the *sādhaka * at JS 17.33c-34 and *Viṣvaksenasaṃhitā* 37.4c-15b\), but elsewhere it is enjoined for the initiate in more general terms \(e.g. SS 21.16ab, 25.377, and PauṣS 
+[^19]: On occasion, the worship of texts is prescribed for a particular category of initiate \(e.g. for the *putraka* at SS 20.13-14, or for the *sādhaka * at JS 17.33c-34 and *Viṣvaksenasaṃhitā* 37.4c-15b\), but elsewhere it is enjoined for the initiate in more general terms \(e.g. SS 21.16ab, 25.377, and PauṣS 
 
-41.77 *ff*\). 
-
-19 
+41.77 *ff*\). [[19]]
 
 The centrality of the study of texts for Pāñcarātrikas is most clearly conveyed by the fact that this practice was enshrined in the daily routine of initiates known as the “five times” \( *pañcakāla*\). This consists of the performance of the following five ritual duties at five different times of the day: i.\) “approaching” god \( *abhigamana*\) by means of mantra-repetition \( *japa*\) and the singing of hymns of praise \( *stotra*\). This is to be peformed before sunrise, during the period known as *brahmamuhūrta*; ii.\) Having arisen, the next period of the day \(lasting one *prahara*, approximately three hours\) is to be spent gathering the materials \(such as flowers, fruits etc.\) for worship. 
 
@@ -161,15 +149,13 @@ Liberation is in the palm of his hand, and he is freed from his sins.”22 Accor
 
 The Saṃhitās are accessible only to those who have undergone the ritual of initiation \( *dīkṣā*\) into the Pāñcarātra \(see e.g. JS 33.86ab, SS 21.42\), though not all texts agree upon whether all initiates are authorised to access them. Thus, the *Sātvatasaṃhitā* \(22.15c-16\) states that the lowest rank of initiate, the follower of the general observances \( *samayin*\), is eligible to learn the Śāstra from the preceptor \( *deśika*\), and to deliberate upon \( *vicārayati*\) its meaning, while the *Sanatkumārasaṃhitā *\( *Brahmarātra * 5.120cd\) describes Samayins as “not knowing the Tantras” \( *atantrajñā*\).23 Nonetheless, the fact that initiation is required to access these texts distinguishes them from the other Śāstras mentioned above, which Pāñcarātrikas also study and worship. As we will see below, especially in Chapter Four, the Pāñcarātra Saṃhitās commonly present themselves, like the Śaiva Tantras \(see 20 *Paramasaṃhitā * 31.66, 68: *ya idaṃ śruṇuyāt tantraṃ vaiṣṇavaḥ śuddhamānasaḥ */ *tasya pāpāni* *naśyanti janmāntarakṛtāni ca *// … // *yaḥ paṭhed ādarād* *etat tat pāṭhayati vā naraḥ */ *tasyāpi* *pāpaṃ kṣarati viśeṣā bhaktir iṣyate *//. 
 
-21 *Viṣvaksenasaṃhitā* 8.7: *āyur ārogyadaṃ nṝṇāṃ kīrtiśrīpuṣṭivardhanam *\(corr. *kīrtiśrīputra-vardhanam*\*\) * */ *pāpakṣayaṃ mahāpuṇyaṃ yogasādhanam eva ca *//. \* This correction is suggested by the editor. 
+[^21]: *Viṣvaksenasaṃhitā* 8.7: *āyur ārogyadaṃ nṝṇāṃ kīrtiśrīpuṣṭivardhanam *\(corr. *kīrtiśrīputra-vardhanam*\*\) * */ *pāpakṣayaṃ mahāpuṇyaṃ yogasādhanam eva ca *//. \* This correction is suggested by the editor. 
 
-22 *Bhārgavatantra* 25.26c-27b: *etad yaḥ paṭhate bhaktyā tasmin devaḥ prasīdati *// *tasya muktiḥ*
+[^22]: *Bhārgavatantra* 25.26c-27b: *etad yaḥ paṭhate bhaktyā tasmin devaḥ prasīdati *// *tasya muktiḥ*
 
 *karatale sa pāpebhyaḥ pramucyate */. 
 
-23 The fourfold hierarchy of initiates \( *samayin*, *putraka*, *sādhaka*, *ācārya*\) which is found in some but not all Pāñcarātra works, has been addressed by several scholars \(e.g. Gupta 1983, Rastelli 2000, 2000a\). Very often the descriptions of these categories of initiate in one text will conflict with those found in another. The classification is itself neither unique nor original to the Pāñcarātra, and is found more commonly in the Śaiva Tantras. 
-
-21 
+[^23]: The fourfold hierarchy of initiates \( *samayin*, *putraka*, *sādhaka*, *ācārya*\) which is found in some but not all Pāñcarātra works, has been addressed by several scholars \(e.g. Gupta 1983, Rastelli 2000, 2000a\). Very often the descriptions of these categories of initiate in one text will conflict with those found in another. The classification is itself neither unique nor original to the Pāñcarātra, and is found more commonly in the Śaiva Tantras. [[21]]
 
 Sanderson 1988\), as transmitting a higher, more specialised revelation for those who are already initiated into the Veda. 
 
@@ -183,9 +169,7 @@ The ritual of initiation is led by the *ācārya* or *guru*, who uses a Saṃhit
 
 *saṃsārabhayabhīruṇā *// *śāstrāñjanena yo ’jñānatimiraṃ vinipātayet */ *śāstraṃ*
 
-*pāpaharaṃ puṇyaṃ pavitraṃ bhogamokṣadam *// *śāntidaṃ ca mahārthaṃ ca* *vakti yas sa jagadguruḥ */. – “From the worship of this triad of Lord, Śāstra and 24 Since some texts, as I have mentioned above, clearly grant other initiates access to the scriptures – for instance the *Sātvatasaṃhitā* calls the *putraka* a knower of the Śāstra \( *śāstrajña*\) – this issue appears to be one on which we cannot reach general conclusions. 
-
-22 
+*pāpaharaṃ puṇyaṃ pavitraṃ bhogamokṣadam *// *śāntidaṃ ca mahārthaṃ ca* *vakti yas sa jagadguruḥ */. – “From the worship of this triad of Lord, Śāstra and 24 Since some texts, as I have mentioned above, clearly grant other initiates access to the scriptures – for instance the *Sātvatasaṃhitā* calls the *putraka* a knower of the Śāstra \( *śāstrajña*\) – this issue appears to be one on which we cannot reach general conclusions. [[22]]
 
 guru, the entire fruit comes into being both in this world and in the next life. 
 
@@ -203,9 +187,7 @@ We can conclude this short survey by noting that there are, then, a number of qu
 
 *artheṣv apy upadeśaś ca nopadeśāt paraṃ tataḥ *//. – “That \[knowledge, *vidyā*\] is threefold and is, in ascending order of importance, worldly, Vedic, and relating to the Self. ‘Worldly’ knowledge \[is imparted in\] the Arthaśāstra and so on, ‘Vedic’ knowledge is connected with the Vedas, and knowledge of the Self is discussed in such works as the Yoga Tantras. Among all Yoga Tantras, the Viṣṇu Tantra is supreme. The Pañcarātra is best among all Viṣṇu Tantras, and in the Pañcarātra it is the mantras \[that are most important\]. With regard to the mantras, the referent \[i.e. the deity\] is most important, and with regard to the referents, instruction \[i.e. from a guru, is the most important element\]. 
 
-Thus, there is nothing higher than instruction.” 
-
-23 
+Thus, there is nothing higher than instruction.” [[23]]
 
 him, scripture, and therefore god, would remain inaccessible to the ordinary initiate. 
 

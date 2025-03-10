@@ -23,7 +23,7 @@ Among the multiple characters, place names, themes and technical vocabularies wh
 
 \( *niṣkāmabhaktāḥ*\).292 While this characterisation cannot be said to be inaccurate, as I will demonstrate below, it is certainly insufficient. Ekāntins are described and referred to in both parts of the *Nārāyaṇīya*, and a close analysis of the relevant passages reveals the emergence of a number of new ideas in the later portions of Part A, and in Part B. These concern both the practice of the Ekāntins, and the means by which they are distinguished from other worshippers. In Part B especially, the 291 Hiltebeitel’s general position on the composition of the MBh has itself been subject to criticism by Fitzgerald \(2003\) among others. 
 
-292 BhBhD on MBh 12.336.3cd. In the “Bombay edition”, from which Nīlakaṇṭha was working, this verse is found at 12.348.3cd. [[180]]
+[^292]: BhBhD on MBh 12.336.3cd. In the “Bombay edition”, from which Nīlakaṇṭha was working, this verse is found at 12.348.3cd. [[180]]
 
 Ekāntins are often described in purely abstract terms, as the perfect human beings. 
 
@@ -43,4 +43,4 @@ In the simplest terms, as expressed here and elsewhere \(e.g. 337.67\), Ekāntin
 
 Thereafter, I address the “religious identity” of the Ekāntins, paying particular attention to the ways in which they are distinguished from other worshippers. 
 
-293 MBh 12.336.57e-58: *ekāntino hi puruṣā durlabhā bahavo nṛpa */// *yady ekāntibhir ākīrṇaṃ jagat* *syāt kurunandana */ *ahiṃsakair ātmavidbhiḥ sarvabhūtahite rataiḥ *// *bhavet kṛtayugaprāptir* *āśīḥkarmavivarjitaiḥ *///. [[181]]
+[^293]: MBh 12.336.57e-58: *ekāntino hi puruṣā durlabhā bahavo nṛpa */// *yady ekāntibhir ākīrṇaṃ jagat* *syāt kurunandana */ *ahiṃsakair ātmavidbhiḥ sarvabhūtahite rataiḥ *// *bhavet kṛtayugaprāptir* *āśīḥkarmavivarjitaiḥ *///. [[181]]

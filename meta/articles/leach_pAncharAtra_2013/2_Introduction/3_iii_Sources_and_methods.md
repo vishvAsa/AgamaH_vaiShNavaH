@@ -21,8 +21,6 @@ Forming an overview of the distinct Pāñcarātra traditions within which the sc
 
 representative Pāñcarātra scripture can be fruitfully undertaken.26 Although I would be hesitant to classify the Pāñcarātra scriptures simply as “ritual manuals”, in the manner that Colas \(ibid.\) describes the Vaikhānasa texts, I nonetheless share his doubts on the pressing need for an “optimal reading”, based on the study of several manuscripts, of one particular text of this sort. Like the Vaikhānasa works addressed by Colas, the Pāñcarātra scriptures are not literary works whose original form has been for the most part preserved. Rather, they are texts with multiple authors, one of the main purposes of which, as stated above, was to serve as a handbook for the preceptor officiating rituals. For these reasons, and for those related to time, I have not consulted manuscripts for this study. 
 
-26 As I will have cause to mention again, the current edition of the *Pauṣkarasaṃhitā* is full of corrupt readings and missing portions. Krishnamacharya’s edition of the *Jayākhyasaṃhitā* is vastly superior to, say, Apte’s *Pauṣkarasaṃhitā*, but it is based on South Indian manuscripts of a relatively recent date. 
-
-26 
+[^26]: As I will have cause to mention again, the current edition of the *Pauṣkarasaṃhitā* is full of corrupt readings and missing portions. Krishnamacharya’s edition of the *Jayākhyasaṃhitā* is vastly superior to, say, Apte’s *Pauṣkarasaṃhitā*, but it is based on South Indian manuscripts of a relatively recent date. [[26]]
 
 PART ONE****

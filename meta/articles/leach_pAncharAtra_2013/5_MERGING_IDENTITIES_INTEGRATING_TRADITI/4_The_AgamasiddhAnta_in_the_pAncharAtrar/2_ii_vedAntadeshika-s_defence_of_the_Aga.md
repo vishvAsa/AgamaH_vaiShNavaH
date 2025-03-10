@@ -23,7 +23,7 @@ These verses in the PRR are followed by a short quotation of PādS * cp* 19.117a
 
 *siddhimokṣapradamantrasiddhāntaprāśastye tātparyāt*. 
 
-378 PRR 9.15-17: *atra kāmyakarmaṇāṃ svarūpataḥ saṃnyāsaḥ*. *svavarṇāśramādiniyatānāṃ tu* *bhagavadgītāṣṭādaśādhyāyanirṇītaprakāreṇa*
+[^378]: PRR 9.15-17: *atra kāmyakarmaṇāṃ svarūpataḥ saṃnyāsaḥ*. *svavarṇāśramādiniyatānāṃ tu* *bhagavadgītāṣṭādaśādhyāyanirṇītaprakāreṇa*
 
 *sāttvikatyāgaḥ*. 
 
@@ -33,7 +33,7 @@ These verses in the PRR are followed by a short quotation of PādS * cp* 19.117a
 
 *sarvatra nityanaimittikādiparigrahaḥ*. 
 
-379 See for example MBh 6.40.2: *kāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ */ 
+[^379]: See for example MBh 6.40.2: *kāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ */ 
 
 *sarvakarmaphalatyāgaṃ prāhus tyāgaṃ vicakṣaṇāḥ* //. [[232]]
 
@@ -51,9 +51,9 @@ The most likely source of this criticism is perhaps the Vaikhānasa tradition.
 
 According to Gérard Colas \(1990: 24-25\), the Vaikhānasa *Samūrtārcanādhikaraṇa* states that the Pāñcarātra “is esteemed by hermits \( *vanastha*\) and ascetics \( *yatin*\)”, and several other Vaikhānasa works cited by Colas also include the claim that \(in Colas’ words\) “while the Vaikhānasa cult is citadine, the Pāñcarātra is prescribed for 380 PRR 9.17-10.1: *ata āgamasiddhānte sarvakarmasvarūpatyāga iti na bhramitavyam, karmaviśeṣa-bhūyastvāt*. 
 
-381 See for example PādS *cp* 21.34c-36, where Āgamasiddhāntins are said to be devoted to the *pañcakāla * ritual system, and to worship God “without desire” \( *nirāśa*\). Among Āgamasiddhānta sources, see for instance PauṣS 27.4 and 38.28c-32, and PārS 15.14c-18. 
+[^381]: See for example PādS *cp* 21.34c-36, where Āgamasiddhāntins are said to be devoted to the *pañcakāla * ritual system, and to worship God “without desire” \( *nirāśa*\). Among Āgamasiddhānta sources, see for instance PauṣS 27.4 and 38.28c-32, and PārS 15.14c-18. 
 
-382 See for example PādS *cp* 21.35cd, PauṣS 38.32cd and PārS 15.16cd. [[233]]
+[^382]: See for example PādS *cp* 21.35cd, PauṣS 38.32cd and PārS 15.16cd. [[233]]
 
 far away places, outside towns, on a hill or a mountain, near a river or an ocean, in forests”. Such descriptions of the Pāñcarātra as a renunciative tradition as opposed to an urban, temple-based cult must, of course, be assessed alongside the context from which they emerged. Elsewhere, Colas \(1995: 117\) addresses this issue when he writes of the opposition between “les deux écoles âgamiques, celles-ci s’affrontant pour obtenir le contrôle du rituel dans les temples de l’Inde du Sud” \(“The two Āgamic schools \[i.e. the Vaikhānasa and the Pāñcarātra\] which clashed with one another in the attempt to gain control of ritual in the temples of South India”\). Of particular relevance to the question we are addressing presently, Colas \(ibid: 117-118\) notes that : “À l’époque de Vedānta Deśika, les querelles entre les desservants de temple se réclamant de l’une et de l’autre école âgamique vishnuite ne cessent de croître et de s’étendre avec la prolifération des temples publics” \(“At the time of Vedanta Desika, the quarrels between the temple priests claiming \[allegiance to\] one or other Vaiṣṇava Āgamic school continue to grow and expand with the proliferation of public temples”\). Further on, moreover, Colas \(ibid: 119\) suggests that Vaikhānasa authors may have been directing their criticisms at one Pāñcarātra group *in particular*, namely those who had abandoned their Vedic *sūtra*. “C’est peut-être cette partie de l’école pāñcarātra”, writes Colas, “que les manuels des prêtres vaikhānasa visaient à stigmatiser” \(“It is perhaps this branch of the Pāñcarātra school which the manuals of the Vaikhānasa priests aimed at stigmatising”\). 
 
@@ -93,11 +93,11 @@ If authors belonging to the Vaikhānasa tradition occasionally ignored the inter
 
 “If there is sameness of meaning between the two texts”, says Vedāntadeśika, “then there is no contradiction” \( *yadi dvayor granthayor aikārthyaṃ saṃbhavati tadā na* *virodhaḥ*, PRR 11.18-19\). Moreover, as we have seen, in the presentation of the PRR 
 
-383 See Colas \(1990\) for a list of Vaikhānasa classifications of the Pāñcarātra. 
+[^383]: See Colas \(1990\) for a list of Vaikhānasa classifications of the Pāñcarātra. 
 
-384 See especially PRR 21.7 *ff*, which asserts the validity and authority of Pāñcarātrika prescriptions for the installation and worship of the image of Viṣṇu when prescriptions for these rites are not contained in the Vedas \(that is, other than for the Baudhāyana, Vaikhānasa and Śaunaka schools\). 
+[^384]: See especially PRR 21.7 *ff*, which asserts the validity and authority of Pāñcarātrika prescriptions for the installation and worship of the image of Viṣṇu when prescriptions for these rites are not contained in the Vedas \(that is, other than for the Baudhāyana, Vaikhānasa and Śaunaka schools\). 
 
-385 See for example PRR 3.7-12, wherein the Pāñcarātra is alternatively called the “fifth Veda” and 
+[^385]: See for example PRR 3.7-12, wherein the Pāñcarātra is alternatively called the “fifth Veda” and 
 
 “the root of the great Veda-tree” – the latter description being borrowed from PārS 1.76ab. [[235]]
 

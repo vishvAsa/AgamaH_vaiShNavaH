@@ -7,9 +7,9 @@ In an article devoted to the referent of the term *dharma* in the Dharmasūtras,
 
 “the *dharma* of the Dharmaśāstra” on the other. It is the latter, says Wezler, to which Gautama refers in the phrase “the Veda is the root of *dharma*” \( *vedo dharmamūlam*, GDh 1.1\). According to Wezler, this statement, together with the second verse, which he translates as “and tradition as well as practice of those who know it \(that is, the Veda\), \[are the root of *dharma*\]”, is a clear sign of a process of “Vedification”, which he explains as meaning “in the first place the development of the *vedamūlatva* concept” \(ibid.: 643-644\). 
 
-209 See SanS *Brahmarātra * 4.68c-73, *Ṛṣirātra * 5.30c-40b, 7.1-73, 9.7-10, 22-24 etc. 
+[^209]: See SanS *Brahmarātra * 4.68c-73, *Ṛṣirātra * 5.30c-40b, 7.1-73, 9.7-10, 22-24 etc. 
 
-210 MārkS 1.26ab: *teṣv ayaṃ mantrasiddhānto mārkaṇḍeyākhya īritaḥ *// - “Among these \[Saṃhitās\], this which is named Mārkaṇḍeya is said to be \[a teaching of\] the Mantrasiddhānta.” [[120]]
+[^210]: MārkS 1.26ab: *teṣv ayaṃ mantrasiddhānto mārkaṇḍeyākhya īritaḥ *// - “Among these \[Saṃhitās\], this which is named Mārkaṇḍeya is said to be \[a teaching of\] the Mantrasiddhānta.” [[120]]
 
 “Vedification” is a useful term to apply to the processes at work in the South Indian Pāñcarātra scriptures which I have listed above. Inevitably, when applied to this much later literature, the concept of “Vedification” carries quite different implications from those intended by Wezler, for by the time of the composition of these works the term ‘Veda’ had a substantially broader scope of reference than in Gautama’s day. The enlargement of the Vedic canon in the intervening centuries was itself, of course, largely an outcome of the application of the *vedamūlatva* principle \(see especially Halbfass 1991 and Pollock 1997\). Needless to say, when I use Wezler’s term in reference to the Pāñcarātra, I do not mean to identify the ‘Veda’ of the Dharmasūtras with the broader body of texts and practices by means of which the authors of the later Pāñcarātra Saṃhitās attempted to establish the legitimacy of their tradition. 
 
@@ -27,13 +27,13 @@ Thus, in the opening chapter of the PādS \( *jp* 1.92d-93\), in a verse referre
 
 There are, to be sure, different degrees of Vedification. The Veda is frequently praised as the highest teaching in the late South Indian Pāñcarātra works, but often such claims appear to be doing little more than paying lip service or, as 211 Vedāntadeśika cites a ‘Nāradīya’ on four occasions in his PRR. None of the verses quoted are found in the printed edition of the NārS, but on the first occasion \(at PRR 16.19-20\) the quoted verses are addressed to Gautama. Gautama is, along with Nārada, the principal interlocutor of the present version of the NārS. This makes it quite likely, then, that Vedāntadeśika had access to a different version of the same work. 
 
-212 NārS 29.39-40b: *atra mantrās tu ye kecit pañcarātre prakāśitāḥ */ *te sarve vaidikāḥ jñeyāḥ*
+[^212]: NārS 29.39-40b: *atra mantrās tu ye kecit pañcarātre prakāśitāḥ */ *te sarve vaidikāḥ jñeyāḥ*
 
 *rahasyaṃ vaidikaṃ tv idam *// *pāñcarātram iti khyātaṃ vedādhvaprakaṭīkṛtam */. 
 
-213 NārS 29.36c-37b: *niṣekādiṣu sarvatra yad yad uktam avistaram *// *vedoditena mārgeṇa tat tat* *kāryaṃ vipaścitā */. 
+[^213]: NārS 29.36c-37b: *niṣekādiṣu sarvatra yad yad uktam avistaram *// *vedoditena mārgeṇa tat tat* *kāryaṃ vipaścitā */. 
 
-214 Elsewhere, the NārS states that *either* the Vedic *or* the Pāñcarātrika life-cycle rites should be performed. NārS 11.81: *niṣekādyāṃs tu saṃskārān vaidikāṃs tu samācaret */ *pāñcarātroditān vāpi* *evaṃ vaṃśair *\(corr. *vaṃśer*\) * anuṣṭhitān *//. [[122]]
+[^214]: Elsewhere, the NārS states that *either* the Vedic *or* the Pāñcarātrika life-cycle rites should be performed. NārS 11.81: *niṣekādyāṃs tu saṃskārān vaidikāṃs tu samācaret */ *pāñcarātroditān vāpi* *evaṃ vaṃśair *\(corr. *vaṃśer*\) * anuṣṭhitān *//. [[122]]
 
 Louis Renou \(1960: 2\) has characterised such conventions, as offering “*un simple*
 
@@ -53,9 +53,9 @@ The present versions of the SS and the PauṣS do not contain similar passages o
 
 However, all initiates \(i.e. including Śūdras and women\) appear to be eligible to 216 JS 25.14-15: *viḍvarāhair atho gṛdhragomāyukapikukkuṭaiḥ */ *saṃspṛṣṭam antyajenāpi* *śūdrādyucchiṣṭadūṣitam *// *abhojyānnaṃ tu vā bhuktvā sevitvā ’nyastriyaṃ tu vā */ *snātvā bhuktvā tv* *ahorātraṃ pañcagavyaṃ samācaret *//. 
 
-217 According to Manu \(10.12, 16\) a Caṇḍāla is the lowest Pratiloma i.e. the offspring of a Śūdra father and a Brahmin mother. He is, says Manu, “the worst of men” \( *adhamo nṛṇām*, ibid.\). 
+[^217]: According to Manu \(10.12, 16\) a Caṇḍāla is the lowest Pratiloma i.e. the offspring of a Śūdra father and a Brahmin mother. He is, says Manu, “the worst of men” \( *adhamo nṛṇām*, ibid.\). 
 
-218 In the SS \(19.6\), as in the JS, these women must be “pure minded” or “devout” \( *bhāvitātman*\). [[124]]
+[^218]: In the SS \(19.6\), as in the JS, these women must be “pure minded” or “devout” \( *bhāvitātman*\). [[124]]
 
 receive the sacred thread \( *upavīta*\) at the end of the *bhūtaśuddhi* rite \(SS 19.51c-52b\),219 and though Śūdras may not recite the mantric formulas *vauṣaṭ*, *svāhā * and *vaṣaṭ*, they can achieve the same effect \( *kārya*\) by reciting *namaḥ*.220 In an earlier chapter \(SS 2.7c-12b\), as we have seen above, Kṣatriyas, Vaiśyas and Śūdras are prohibited from worshipping the Vyūhas with mantras. Meanwhile, the PauṣS 
 
@@ -67,9 +67,9 @@ The JS and the PauṣS in particular contain passages which appear to express co
 
 \(Flood 2006: 106\). See also Flood \(2000\). 
 
-220 SS 19.54c-55b: *vauṣaṭsvāhāvaṣaṭkāraniṣṭhānāṃ tu pratikriyā *// *namaskāreṇa mantrāṇāṃ kārye* *prāpte hy anugrahe */. 
+[^220]: SS 19.54c-55b: *vauṣaṭsvāhāvaṣaṭkāraniṣṭhānāṃ tu pratikriyā *// *namaskāreṇa mantrāṇāṃ kārye* *prāpte hy anugrahe */. 
 
-221 PauṣS 27.695c-697b: *śrotriyāṇāṃ dvijendrāṇāṃ tvadarthāśramavartinām *// *yadvad bhuktād* *dhaviś *\(corr. Apte *dhavaś*\) *śūdrān na doṣo jñānagauravāt */ *evaṃ svabhāvadīptānāṃ nirmalānāṃ*
+[^221]: PauṣS 27.695c-697b: *śrotriyāṇāṃ dvijendrāṇāṃ tvadarthāśramavartinām *// *yadvad bhuktād* *dhaviś *\(corr. Apte *dhavaś*\) *śūdrān na doṣo jñānagauravāt */ *evaṃ svabhāvadīptānāṃ nirmalānāṃ*
 
 *sadaiva hi *// *na vai jātaṃ nānairmalyaṃ *\(corr. Apte *na nairmalyaṃ*\) *bhavec chūdraparigrahāt */. [[125]]
 
@@ -103,7 +103,7 @@ Insofar as it is possible to detect unidirectional trends in the large, and ofte
 
 *praṇavena ca *// *varjitaṃ viṣṇunāmaiva caturthyantaṃ ca pāṭhayet */ *gāyatrīṃ japahomaṃ ca* *ādadyād brāhmaṇo manum *//. 
 
-224 See also PādS *kp* 9.19, where it is said that women, Śūdras and Anulomas should worship silently \( *tūṣṇīm ādhānam ācaret*\), which means without mantras \( *amantraka*\). [[127]]
+[^224]: See also PādS *kp* 9.19, where it is said that women, Śūdras and Anulomas should worship silently \( *tūṣṇīm ādhānam ācaret*\), which means without mantras \( *amantraka*\). [[127]]
 
 to the lowest level of initiate \( *samayin*\).225 Works which are still later, such as the MārkS \(12.1\), the ŚrīprśS \(4.16-18\) and the ŚrīpurS \(2.4-8\), meanwhile, dictate that only a Brahmin can be *guru* or *ācārya*. We also find among many later Saṃhitās an increased antipathy towards Śūdras and women, even when these persons are admitted still for initiation. In several, for example, a rite of purification, or literally 
 
@@ -115,9 +115,9 @@ Moreover, despite the apparent trend towards an increasingly conservative attitu
 
 Even the PādS, which explicitly characterises the Āgamasiddhānta \(PādS *cp* 21.37-225 The NārS \(11.21-35b\) names a hierarchy of seven initiates: *samayin*, *dīkṣita*, *cakravartin*, *abhiṣikta*, *guru*, *ācārya*, and *bhagavant*. These are respectively identified with seven sacrificial ceremonies: *yāga*, *stoma*, *mahāyāga*, *adhvara*, *sava*, *kratu*, and *haristoma*. The NārS rules that the Brahmin is qualified to perform all seven sacrifices, the Kṣatriya the first five, the Vaiśya the first three, and the Śūdra only the first \(i.e. *yāga*\). Cf. SanS *Indrarātra* 4.53-55 and ViṣṇuS 29.2-4, both of which name the same sevenfold hierarchy of initiate and the corresponding sacrifices, but which do not add the detail concerning *varṇa* affiliation. 
 
-226 See Manu 3.174 for these definitions of *kuṇḍa* and *golaka*. 
+[^226]: See Manu 3.174 for these definitions of *kuṇḍa* and *golaka*. 
 
-227 According to Monier-Williams \(2002: 1052\), ‘Śabara’ is the name of “a wild mountaineer tribe in the Deccan” which was “in later language applied to any savage or barbarian”. [[128]]
+[^227]: According to Monier-Williams \(2002: 1052\), ‘Śabara’ is the name of “a wild mountaineer tribe in the Deccan” which was “in later language applied to any savage or barbarian”. [[128]]
 
 40\), the Tantrasiddhānta \(PādS *cp* 21.55-56, 66ab\), and the Tantrāntarasiddhānta \(PādS *cp* 21.70c-73b\) as each accepting members of all four *varṇa* s, contains passages which show that the Mantrasiddhānta, its own tradition, did as well \(e.g. 
 
@@ -145,7 +145,7 @@ should be either Tantric or “mixed” but *never* Vedic.229 By such means, the
 
 14.10 *ff*\), the professional priestly performance of worship “for others” \( *parārtha*\) was deeply frowned upon in orthodox Brahminical society, and indeed in that sphere entailed the loss of one’s Brahminical status. As is evident from these regulations in the SanS and the ViṣS, Pāñcarātrikas were happy to accept that such restrictions were valid within the domain that imposed them, and of course these constraints, as well those which excluded Śūdras from the category of initiate, worked to their own advantage. For in an environment characterised by increasing social mobility and the rise to power of landowning communities considered by many not to belong to the twice-born classes, the authority and power of the domain that the orthodox 228 See alternative expressions of the same idea at SanS *Brahmarātra* 4.68c-73, and *Ṛṣirātra* 5.37-40, and 9.7-10, 22-24. 
 
-229 ViṣS 20.344-345: *ātmārthaṃ vaidikenaiva tāntrikeṇaiva vā mune */ *parārthe tāntrikeṇaiva* *miśritaṃ vā hariṃ param *// *arcayet pūrvavad dhīmān rājño rāṣṭrasya vardhanam */ *parārthe* *vaidikenaiva na kuryāt tu kathaṃcana *//. [[130]]
+[^229]: ViṣS 20.344-345: *ātmārthaṃ vaidikenaiva tāntrikeṇaiva vā mune */ *parārthe tāntrikeṇaiva* *miśritaṃ vā hariṃ param *// *arcayet pūrvavad dhīmān rājño rāṣṭrasya vardhanam */ *parārthe* *vaidikenaiva na kuryāt tu kathaṃcana *//. [[130]]
 
 Brahminical tradition claimed for itself would have been substantially diminished.230 
 

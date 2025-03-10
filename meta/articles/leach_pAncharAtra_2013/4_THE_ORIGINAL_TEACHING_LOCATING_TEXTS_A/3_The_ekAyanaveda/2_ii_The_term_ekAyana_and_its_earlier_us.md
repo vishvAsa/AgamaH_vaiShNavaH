@@ -19,9 +19,9 @@ There is no indication, at any rate, that the term *ekāyana * has this meaning 
 
 *nāma pravadanti manīṣināḥ *//. 
 
-235 *Taittirīyāraṇyaka * 3.12.7 \(excerpt\): *nānyaḥ panthā ayanāya vidyate* /. See also *Taittirīyāraṇyaka* 3.13.1, and *Śvetāśvataropaniṣad * 3.8d, 6.15d. 
+[^235]: *Taittirīyāraṇyaka * 3.12.7 \(excerpt\): *nānyaḥ panthā ayanāya vidyate* /. See also *Taittirīyāraṇyaka* 3.13.1, and *Śvetāśvataropaniṣad * 3.8d, 6.15d. 
 
-236 By the time of the composition of the earliest extant Pāñcarātra Saṃhitās \(i.e. circa ninth century\), the Taittirīya schools were found almost exclusively in the Dravidian South. See Renou \(1947: 200-203\) and Houben \(1991: 36 n. 69\). [[137]]
+[^236]: By the time of the composition of the earliest extant Pāñcarātra Saṃhitās \(i.e. circa ninth century\), the Taittirīya schools were found almost exclusively in the Dravidian South. See Renou \(1947: 200-203\) and Houben \(1991: 36 n. 69\). [[137]]
 
 “point of convergence”. Olivelle \(1996: 29, 70-71\) translates *Bṛhadāraṇyakopaniṣad* 2.4.11 and 4.5.12 as follows: 
 

@@ -37,7 +37,7 @@ refers back to 332.13-18. Firstly, 336.4, as we have established, refers to thre
 
 “liberation” from, *four* deities, namely Āditya, Aniruddha, Pradyumna and Saṃkarṣaṇa. Bakker \(1997: 59-62\) notes that in this account Āditya, the sun, takes the place of Sāmba, one of the original “five heroes” \( *pañcavīra*\) of the Vṛṣṇi clan, 320 The description “free from merit and demerit” \( *puṇyapāpavivarjita*\) is also used to refer to liberated beings who “enter into the thousand-rayed god” at MBh 12.327.5e-6. 
 
-321 MBh 12.332.13-18: *ye hi niṣkalmaṣā loke puṇyapāpavivarjitāḥ */ *teṣāṃ vai kṣemam adhvānaṃ*
+[^321]: MBh 12.332.13-18: *ye hi niṣkalmaṣā loke puṇyapāpavivarjitāḥ */ *teṣāṃ vai kṣemam adhvānaṃ*
 
 *gacchatāṃ dvijasattama *// *sarvalokatamohantā ādityo dvāram ucyate */// *ādityadagdhasarvāṅgā*
 
@@ -81,9 +81,9 @@ We return now to MBh 12.336.1-4. These verses also occur in a context which refe
 
 *śitikaṇṭhaṃ ca yāś cānyā devatāḥ smṛtāḥ* *prabuddhavaryāḥ sevante māṃ evaiṣyanti yat param *//. * * 
 
-324 Malinar’s \(2007: 132\) translation of these verses in the *Bhagavadgītā* reads as follows: “Four kinds of good men seek my love, Arjuna: the suffering \( *ārta*\), the seeker of knowledge \( *jijñāsu*\), the seeker of wealth \( *arthārthin*\), and the one who knows \(me, *jñānin*\), best of Bhāratas. Among them, the one who knows \(me\) is supreme since his devotion is exclusive and he is always self-controlled”. 
+[^324]: Malinar’s \(2007: 132\) translation of these verses in the *Bhagavadgītā* reads as follows: “Four kinds of good men seek my love, Arjuna: the suffering \( *ārta*\), the seeker of knowledge \( *jijñāsu*\), the seeker of wealth \( *arthārthin*\), and the one who knows \(me, *jñānin*\), best of Bhāratas. Among them, the one who knows \(me\) is supreme since his devotion is exclusive and he is always self-controlled”. 
 
-325 MBh 12.336.8: *samupoḍheṣv anīkeṣu kurupāṇḍavayor mṛdhe */ *arjune vimanaske ca gītā*
+[^325]: MBh 12.336.8: *samupoḍheṣv anīkeṣu kurupāṇḍavayor mṛdhe */ *arjune vimanaske ca gītā*
 
 *bhagavatā svayam* //. [[197]]
 
@@ -99,15 +99,15 @@ The same is then said of the path \( *gati*\) that is intent upon Nārāyaṇa, 
 
 refers to the *nivṛttidharma*, which is contrasted then with the *dharma* that is characterised by *pravṛtti*. Both *dharma* s have Nārāyaṇa as their nature.326 A few verses later, ascetics \( *yati*\) who “know the Self” are identified as Sāṃkhyas and Yogins.327 In this latter verse, as is common in the *Nārāyaṇīya*, Sāṃkhya and Yoga are nominally distinguished from each other, but treated as more or less the same.328 
 
-326 MBh 335.74-77b: *eṣa vedanidhiḥ śrīmān eṣa vai tapaso nidhiḥ */ *eṣa yogaś ca sāṃkhyaṃ ca* *brahma cāgryaṃ harir vibhuḥ *// *nārāyaṇaparā vedā yajñā nārāyaṇātmakaḥ */ *tapo nārāyaṇaparaṃ*
+[^326]: MBh 335.74-77b: *eṣa vedanidhiḥ śrīmān eṣa vai tapaso nidhiḥ */ *eṣa yogaś ca sāṃkhyaṃ ca* *brahma cāgryaṃ harir vibhuḥ *// *nārāyaṇaparā vedā yajñā nārāyaṇātmakaḥ */ *tapo nārāyaṇaparaṃ*
 
 *nārāyaṇaparā gatiḥ *// *nārāyaṇaparaṃ satyam ṛtaṃ nārāyaṇātmakam */ *nārāyaṇaparo dharmaḥ*
 
 *punarāvṛttidurlabhaḥ *// *pravṛttilakṣaṇaś caiva dharmo nārāyaṇātmakaḥ */. 
 
-327 MBh 12.335.85: *sāṃkhyānāṃ yogināṃ cāpi yatīnām ātmavedinām */ *manīṣitaṃ vijānāti keśavo na* *tu tasya te *//. 
+[^327]: MBh 12.335.85: *sāṃkhyānāṃ yogināṃ cāpi yatīnām ātmavedinām */ *manīṣitaṃ vijānāti keśavo na* *tu tasya te *//. 
 
-328 That they are both characterised as *knowing* the Self indicates that the soteriological procedures of Yoga are here assimilated to those of Sāṃkhya which in the MBh, as Edgerton \(1924\) has shown, 198 
+[^328]: That they are both characterised as *knowing* the Self indicates that the soteriological procedures of Yoga are here assimilated to those of Sāṃkhya which in the MBh, as Edgerton \(1924\) has shown, 198 
 
 For the present purposes, it is important to note that although the *Nārāyaṇīya* does not explicitly differentiate between Sāṃkhya and Yoga on matters of practice or doctrine, it nonetheless recognises them as two distinct ascetic traditions or “paths”. 
 
@@ -115,7 +115,7 @@ Of course, the chief purpose of this passage at the end of chapter 335 is to ass
 
 “Āraṇyaka of the Vedas” \( *vedāraṇyaka*\) are mutually complementary parts \( *parasparāṅgāni*\) of the *dharma* of the Ekāntins, called in this instance *pañcarātra*.329 In chapter 337, in answer to Janamejaya’s question as to whether the branches of knowledge Sāṃkhya, Yoga, Pañcarātra and the Āraṇyaka of the Vedas have the same goal, or different goals \(1-2\), Vaiśaṃpāyana replies that according to tradition and knowledge, all branches of knowledge have Nārāyaṇa as their goal \(63c-64b\). He alone is the creator of the *śāstra* s \(65\). ‘Pañcarātra’ here appears to be simply another name for the *ekāntadharma* since, unlike the other branches of emphasises the soteriological method of knowledge. Elsewhere in the *Mokṣadharmaparvan*, the distinct tradition of Yoga is shown to favour the method of strength or power \( *bala*\). On this see Fitzgerald \( *forthcoming*\). 
 
-329 MBh 12.336.76: *evam ekaṃ sāṃkhyayogaṃ vedāraṇyakam eva ca */ *parasparaṅgāny etāni* *pañcarātraṃ ca kathyate *// *eṣa ekāntināṃ dharmo nārāyaṇaparātmakaḥ *///. [[199]]
+[^329]: MBh 12.336.76: *evam ekaṃ sāṃkhyayogaṃ vedāraṇyakam eva ca */ *parasparaṅgāny etāni* *pañcarātraṃ ca kathyate *// *eṣa ekāntināṃ dharmo nārāyaṇaparātmakaḥ *///. [[199]]
 
 knowledge, it is proclaimed directly by Nārāyaṇa \(60-63b\), and it is said that 
 
@@ -129,17 +129,17 @@ In the remainder of this section, I will draw attention to the fact that a syncr
 
 *praviśanti vai *//. 
 
-331 As Schreiner \(1997b: 162\) notes, the inclusion of Pāśupata among the “other” branches of knowledge at 337.59 and 62 is obviously a later addition, since Janamejaya’s original question does not refer to this tradition. 
+[^331]: As Schreiner \(1997b: 162\) notes, the inclusion of Pāśupata among the “other” branches of knowledge at 337.59 and 62 is obviously a later addition, since Janamejaya’s original question does not refer to this tradition. 
 
-332 See MBh 12.327.67ef: *so ’haṃ kriyāvatāṃ panthāḥ punarāvṛttidurlabhaḥ *///; and MBh 12.335.76c-77b, transliterated above. 
+[^332]: See MBh 12.327.67ef: *so ’haṃ kriyāvatāṃ panthāḥ punarāvṛttidurlabhaḥ *///; and MBh 12.335.76c-77b, transliterated above. 
 
-333 MBh 336.71-72: *rājasī tāmasī caiva vyāmiśre prakṛtī smṛte */ *tadātmakaṃ hi puruṣaṃ jāyamānaṃ*
+[^333]: MBh 336.71-72: *rājasī tāmasī caiva vyāmiśre prakṛtī smṛte */ *tadātmakaṃ hi puruṣaṃ jāyamānaṃ*
 
 *viśāṃ pate *// *pravṛttilakṣaṇair yuktaṃ nāvekṣati hariḥ svayam */// *paśyaty enaṃ jāyamānaṃ*
 
 *brahmā lokapitāmahaḥ */ *rajasā tamasā caiva mānuṣaṃ samabhiplutam *//. 
 
-334 MBh 12.339.7c-8b: *sāṃkhyena vidhinā caiva yogena ca yathākramam *// *cintayāmi gatiṃ cāsya* *na gatiṃ vedmi cottamām */. [[200]]
+[^334]: MBh 12.339.7c-8b: *sāṃkhyena vidhinā caiva yogena ca yathākramam *// *cintayāmi gatiṃ cāsya* *na gatiṃ vedmi cottamām */. [[200]]
 
 *sātvata* and *bhāgavata* are clearly not used in this text to refer to distinct “sects”.335 
 
@@ -149,11 +149,11 @@ Moreover, as we will see, the authors of the *Nārāyaṇīya* make no attempt t
 
 Rather, their equivalence, and indeed that of the gods themselves, is assumed. Thus, in the passage 328.16-29, the names Viṣṇu and Nārāyaṇa are used interchangeably to refer to the same god. This also occurs at 333.24-25. Elsewhere, at 331.9-11 the name Viṣṇu is used interchangeably with Vāsudeva, while at 335.87 it is said that Viṣṇu is called Vāsudeva because he is the abode of all beings \( *sarvabhūtakṛtāvāsa*\).336 In chapter 328, when Janamejaya asks for the various names by which Hari-Nārāyaṇa is known, Vaiśaṃpāyana refers him to Hari/Keśava’s answer when asked the same question by Arjuna. Here we are told that Hari-Nārāyaṇa/Kṛṣṇa is called Vāsudeva because he is the abode of all beings \( *sarvabhūtādhivāsa*, 36cd\), and that he is also called Viṣṇu among other names. The name Vāsudeva itself occurs on four separate occasions in Part B, and is used as follows: i.\) as one of god’s various names, in the verse just referred to \(328.36\); ii.\) as a name for Viṣṇu \(335.87\), as referred to above; iii.\) at 331.9-11, wherein Vāsudeva and Viṣṇu are assimilated;337 and iv.\) as the fifth and final deified Vṛṣṇi hero into whom the liberated “Sāṃkhyas and Bhāgavatas” enter \(332.13-18\), as discussed earlier. In this last passage, as on other occasions, Vāsudeva’s name is explained etymologically – he is the abode of all \( *sarvāvāsa*, 332.17e\). He is, in addition, called here the knower of the field \( *kṣetrajña*, 17d, f\), a designation which is also applied to Vāsudeva in one of the apparently youngest passages of Part A \(326.38\) \(discussed below\), and which is elsewhere assigned to Nārāyaṇa \(325.4/05, 327.67, 339.6\), Hari \(336.54\), and Kṛṣṇa \(330.9\). 
 
-335 On the equivalence in the *Nārāyaṇīya * of the names *sātvata * and *pañcarātra* see Matsubara \(1994: 59-60\) and Oberlies \(1997b: 150-151\). That the term *bhāgavata * does not denote a separate “Vaiṣṇava sect” is apparent from the fact that the Bhāgavatas are shown to worship both Nārāyaṇa \(MBh 12.327.2, 331.43\) and Vāsudeva \(332.16-18\). 
+[^335]: On the equivalence in the *Nārāyaṇīya * of the names *sātvata * and *pañcarātra* see Matsubara \(1994: 59-60\) and Oberlies \(1997b: 150-151\). That the term *bhāgavata * does not denote a separate “Vaiṣṇava sect” is apparent from the fact that the Bhāgavatas are shown to worship both Nārāyaṇa \(MBh 12.327.2, 331.43\) and Vāsudeva \(332.16-18\). 
 
-336 MBh 335.87: *sarveṣām āśrayo viṣṇur aiśvaraṃ vidhim āsthitaḥ */ *sarvabhūtakṛtāvāso vāsudeveti* *cocyate *//. 
+[^336]: MBh 335.87: *sarveṣām āśrayo viṣṇur aiśvaraṃ vidhim āsthitaḥ */ *sarvabhūtakṛtāvāso vāsudeveti* *cocyate *//. 
 
-337 MBh 12.331.9-11: *na citraṃ kṛtavāṃs tatra yad āryo me dhanaṃjayaḥ */ *vāsudevasahāyo yaḥ*
+[^337]: MBh 12.331.9-11: *na citraṃ kṛtavāṃs tatra yad āryo me dhanaṃjayaḥ */ *vāsudevasahāyo yaḥ*
 
 *prāptavāñ jayam uttamam *// *na cāsya kiṃ cid aprāpyaṃ manye lokeṣv api triṣu */ *trailokyanātho* *viṣṇuḥ sa yasyāsīt sāhyakṛt sakhā *// *dhanyāś ca sarva evāsan brahmaṃs te mama pūrvakāḥ */ *hitāya* *śreyase caiva yeṣām āsīj janārdanaḥ *//. [[201]]
 
@@ -165,7 +165,7 @@ followers of Vāsudeva, then they did not make very good use of it. It is much m
 
 *deyaṃ kathaṃ cana *//. 
 
-339 The only alternative, as I see it, would be to argue that the text passed from followers of Nārāyaṇa to followers of Vāsudeva, and then *back* to followers of Nārāyaṇa. The latter must have then either thoroughly revised it, removing most \(but not all\) of the references to Vāsudeva, or found a text where such references were so few and far between that they were not considered worthy of removal. [[202]]
+[^339]: The only alternative, as I see it, would be to argue that the text passed from followers of Nārāyaṇa to followers of Vāsudeva, and then *back* to followers of Nārāyaṇa. The latter must have then either thoroughly revised it, removing most \(but not all\) of the references to Vāsudeva, or found a text where such references were so few and far between that they were not considered worthy of removal. [[202]]
 
 followers of Nārāyaṇa had adopted Vāsudeva into their own theology. They may have done this for purely “political” reasons, i.e. as a way of subordinating and dominating a rival “sect”. But the *Nārāyaṇīya * offers no evidence for this, and in fact points to another explanation. As we have seen above, the only “Vāsudeva passages” 
 
@@ -179,7 +179,7 @@ Why, then, did Nārāyaṇa theologians consider it expedient to adopt these dif
 
 The answer must surely involve the ontological principles or “levels” with which they are identified. Elsewhere in the *Mokṣadharmaparvan *\(e.g. 12.228, 291, 293-294\), these principles \( *tattva*\) belong to the evolutionary cosmogony of Sāṃkhya and Yoga. According to this cosmogony, the lower ontological principles emerge out of the higher ones \(see e.g. 294.27-28\). The Vṛṣṇi heroes might have 340 MBh 12.336.53: *ekavyūhavibhāgo vā kva cid dvivyūhasaṃjñitaḥ */ *trivyūhaś cāpi saṃkhyātaś* *caturvyūhaś ca dṛśyate *//. These are the only uses of the term *vyūha* in the *Nārāyaṇīya*. 
 
-341 Schreiner et al. \(1997c: 413 n. 256\) have pointed out that 339.20 itself echoes 336.56. [[203]]
+[^341]: Schreiner et al. \(1997c: 413 n. 256\) have pointed out that 339.20 itself echoes 336.56. [[203]]
 
 been considered particularly germane to such a process since Pradyumna and Aniruddha are, respectively, the son and grandson of Vāsudeva. By incorporating these successively lower forms of god into this evolutionary scheme, the author of 326.20-39 is able to include within it both a god who remains completely transcendent, and a creator god from whom the universe originates \(i.e. Aniruddha *,* 326.37\). This much has been stated by numerous scholars before me. But the divinisation of these levels is important to the soteriological process too. Fitzgerald \(forthcoming\) discusses the distinct soteriological methods of Sāṃkhya and Yoga, as described in the “text-pair” MBh 12.289-290. Adherents of the method of Yoga, Fitzgerald shows, attempt to forcibly ascend through the levels to *mokṣa*. The Sāṃkhyas, meanwhile, claim that it is possible to attain mokṣa by way of “a comprehensive knowledge and understanding… \[of\] ever higher cosmic realities” 
 

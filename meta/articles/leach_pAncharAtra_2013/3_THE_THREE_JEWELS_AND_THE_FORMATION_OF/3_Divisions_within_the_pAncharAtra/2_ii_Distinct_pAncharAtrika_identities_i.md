@@ -13,7 +13,7 @@ Bhākta, Bhāgavata and Sātvata” at ĀP 54.3. When Yāmuna speaks “in his o
 
 ‘Sātvata’ and ‘Pañcarātra’ are coterminous. 
 
-79 A *vaiśyavrātya* is one who has lost his status as a member of the Vaiśya class as a consequence of neglecting his Vaiśya duties. Manu \(10.23\) lists the Sātvatas among the offspring of *vaiśyavrātya* s. [[63]]
+[^79]: A *vaiśyavrātya* is one who has lost his status as a member of the Vaiśya class as a consequence of neglecting his Vaiśya duties. Manu \(10.23\) lists the Sātvatas among the offspring of *vaiśyavrātya* s. [[63]]
 
 Bhāgavata Brahmins whom Neevel distinguishes as his *fourth* class i.e. those that perform both Pāñcarātra and Vedic rites. This branch of Bhāgavata Brahmins are a class of professional priests, says Young, who belong to the Vājasaneyaśākhā. There also exists, according to Young’s reading of the ĀP, another branch of Bhāgavata Brahmins belonging to the Vājasaneyaśākhā who perform *pūjā* only for themselves. 
 
@@ -33,11 +33,11 @@ distinction between the professional temple priests and those who perform ritual
 
 descriptions among distinct Pāñcarātra traditions. We should hardly expect, for example, that a description of the Vājasaneyaśākhā by an “external” Ekāyana author will completely coincide with an “internal” Vājasaneya *self*-description. However, more pertinent to my present purposes, irrespective of what is found in the broader Pāñcarātra literature, I can find no unequivocal suggestion in the ĀP that the professional priests belong only to the Vājasaneyaśākhā. Indeed, beyond claiming that the professional priests he is defending are initiated Bhāgavata Brahmins \(ĀP 154-158\) whose “meagre livelihoods” \( *vṛttikarśitāḥ*\) lead them to “perform sacrifices professionally for eminent Vaiṣṇavas” \(ĀP 155.3-4\), Yāmuna gives no information 80 That followers of the Ekāyanaśākhā perform the *pañcakālika* rites is asserted at ĀP 170.3-6. Young \(2007: 238-239\) interprets ‘Ekāyana’ in this instance as denoting a “general orientation”, synonymous with the terms Bhāgavata and Pāñcarātra. I do not agree with this reading, but even if it is correct it would still mean that Yāmuna is including the Ekāyanas \(i.e. as genuine Bhāgavatas\) among the *pañcakālika* Bhāgavatas. It might be added that in the Pāñcarātra scriptural literature, followers of both the Ekāyanaśākhā \(see PārS 1.44ab; 9.48b; 10.252c, 287b-289; and the *Bhārgavatantra* 24.19\) and the Vājasaneyaśākhā \(see PādS *cp* 21.13\) are said to perform the *pañcakāla* rites. 
 
-81 Yāmuna claims \(ĀP 156.6-158.3\) that the professional temple priests in question have undergone the Pāñcarātrika sacrament of initiation \( *dīkṣāsaṃskāra*\). In certain Pāñcarātra Saṃhitās \(see Rastelli 2006: 193-195\), though pointedly not in the ĀP, it is quite clearly stated that followers of the Ekāyanaśākhā 
+[^81]: Yāmuna claims \(ĀP 156.6-158.3\) that the professional temple priests in question have undergone the Pāñcarātrika sacrament of initiation \( *dīkṣāsaṃskāra*\). In certain Pāñcarātra Saṃhitās \(see Rastelli 2006: 193-195\), though pointedly not in the ĀP, it is quite clearly stated that followers of the Ekāyanaśākhā 
 
 do *not* undergo *dīkṣā*. In addition, elsewhere in the Pāñcarātra scriptural literature \(see, for instance, PādS *cp* 21.17c-21b\) it is claimed that only Mantrasiddhāntins \(viz. followers of the Vājasaneyaśākhā\) are qualified to perform rituals “for the sake of others” \( *parārtha*\). 
 
-82 See, for instance, PādS *cp* 1.3-9; PārS 9.152-153b: *iti svārthāvirodhena parārthādhikṛtasya tu* / 
+[^82]: See, for instance, PādS *cp* 1.3-9; PārS 9.152-153b: *iti svārthāvirodhena parārthādhikṛtasya tu* / 
 
 *ekāyanasya viduṣaḥ proktāḥ kālāḥ* *krameṇa tu* // * tathā vai dīkṣitasyāpi siddhāntaratacetasaḥ* /; and also ĪS 21.511-512b: *svārthasyāpi parārthasya pūjāyām adhikāriṇaḥ */ *śāṇḍilyādyanvaye jātā guror* *labdhābhiṣecanāḥ *// *anye tu kevalaṃ svārthapūjane hy adhikāriṇaḥ */. The following section \(ĪS 
 
@@ -65,7 +65,7 @@ Pañcarātra”
 
 \( *pañcarātrasiddhadīkṣāsaṃskāra*, ĀP 158.1\). Other than at ĀP 88.5 *ff*, where the Ekāyanaśākhā is said to be in conformity with the Veda, each of the *śākhā* s are mentioned only twice by Yāmuna prior to ĀP 169.3, and on both occasions it is their commonality, rather than their differences, that are highlighted. The passages in question read as follows: 
 
-83 Although at ĀP 169-170 the author distinguishes between the ritual practices of the Vājasaneyins and the Ekāyanas, he says nothing here which should exclude the Ekāyanas from acting as professional priests. It is true that at ĀP 170.6 the Ekāyanas are characterised as *mumukṣu* s, but this need not disqualify them - on this point see e.g. ĪS 21.506-508 and, more generally, Brunner \(1990\), who provides a clear account of the distinctions between *svārtha- * and *parārthapūjā*. The same would apply of course if we accept Young’s \(2007: 238-239\) reading that ‘Ekāyana’ here denotes ‘Bhāgavata’ in general \(and elsewhere, at ĀP 91.1-6, Yāmuna *does* imply that the Pāñcarātra tradition *in toto* is concerned only with *mokṣa*\). [[66]]
+[^83]: Although at ĀP 169-170 the author distinguishes between the ritual practices of the Vājasaneyins and the Ekāyanas, he says nothing here which should exclude the Ekāyanas from acting as professional priests. It is true that at ĀP 170.6 the Ekāyanas are characterised as *mumukṣu* s, but this need not disqualify them - on this point see e.g. ĪS 21.506-508 and, more generally, Brunner \(1990\), who provides a clear account of the distinctions between *svārtha- * and *parārthapūjā*. The same would apply of course if we accept Young’s \(2007: 238-239\) reading that ‘Ekāyana’ here denotes ‘Bhāgavata’ in general \(and elsewhere, at ĀP 91.1-6, Yāmuna *does* imply that the Pāñcarātra tradition *in toto* is concerned only with *mokṣa*\). [[66]]
 
 *atha bhāgavatajanaparigṛhītatvād iti hetuḥ hanta tarhi tatparigṛhītatvād* *vājasaneyakaikāyanaśākhāvacasāṃ pratyakṣādīnāṃ cāprāmāṇyaprasaṅgaḥ */. - 
 
@@ -99,13 +99,13 @@ However, in several instances, portions which apparently belong to the older
 
 “ritualistic corpus” also contain this use of the term ‘Bhāgavata’.89 Meanwhile the 85 See Schreiner \(1997a: 1\) for these dates. According to Oberlies \(1997: 86\), the oldest sections of the *Nārāyaṇīya* \(chapters 321-326\) most likely belong to the period 200-300 CE. Hiltebeitel \(2006\), it should be noted, rejects these arguments and favours substantially earlier dates for the *Nārāyaṇīya*, and indeed the MBh as a whole. 
 
-86 See for example Shah \(1958\), Rocher \(1986\), and Lubotsky \(1996\). Both Kane \(1962\) and Inden \(2000\) put forward the conservative dates 600-1000 CE. 
+[^86]: See for example Shah \(1958\), Rocher \(1986\), and Lubotsky \(1996\). Both Kane \(1962\) and Inden \(2000\) put forward the conservative dates 600-1000 CE. 
 
-87 The term *bhāgavata* occurs three times in the PauṣS, at 8.136, 36.409, and 38.42, though there is no indication in any of these passages that it should be taken as synonymous with Pāñcarātrika. The term appears once in the JS in the verse-heading at 22.3, where the five kinds of Vaiṣṇava – Yati, Ekāntin, Vaikhānasa, Karmasāttvata and Śikhin – are referred to as those who are “exclusively devoted to the Bhāgavata *dharma*”, and it does not occur at all in the SS. 
+[^87]: The term *bhāgavata* occurs three times in the PauṣS, at 8.136, 36.409, and 38.42, though there is no indication in any of these passages that it should be taken as synonymous with Pāñcarātrika. The term appears once in the JS in the verse-heading at 22.3, where the five kinds of Vaiṣṇava – Yati, Ekāntin, Vaikhānasa, Karmasāttvata and Śikhin – are referred to as those who are “exclusively devoted to the Bhāgavata *dharma*”, and it does not occur at all in the SS. 
 
-88 Interpolated passages which equate ‘Bhāgavata’ with ‘Pāñcarātrika’ include ParS 3.36, 38, 57, 69-70; 27.30; 30.71, 123. It is very difficult to say when these and other similar passages were added to the ParS. 
+[^88]: Interpolated passages which equate ‘Bhāgavata’ with ‘Pāñcarātrika’ include ParS 3.36, 38, 57, 69-70; 27.30; 30.71, 123. It is very difficult to say when these and other similar passages were added to the ParS. 
 
-89 The most striking of these is at ParS 4.57-58: *etad vīravidhir hy eṣaḥ saṃkṣepāt kathito mayā */ 
+[^89]: The most striking of these is at ParS 4.57-58: *etad vīravidhir hy eṣaḥ saṃkṣepāt kathito mayā */ 
 
 *iṣṭvaiva paramātmānaṃ nityaṃ bhāgavataś śuciḥ *// *sarvapāpaviśuddhātmā muktimārgaṃ prapadyate*
 

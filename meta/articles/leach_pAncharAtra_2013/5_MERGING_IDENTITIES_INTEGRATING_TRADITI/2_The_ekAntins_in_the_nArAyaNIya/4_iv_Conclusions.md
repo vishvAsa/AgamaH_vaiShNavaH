@@ -11,11 +11,11 @@ However, the notion of a teaching which is *distinguished* from Veda, Sāṃkhya
 
 Our earliest references, then, to a religious tradition called ‘Pañcarātra’ depict this tradition as one in which previously distinct religious identities are integrated under a new name. As we have seen, this ‘Pañcarātra’ incorporates not only Veda, Sāṃkhya and Yoga, but also what were originally separate “Vaiṣṇava” traditions of worship, namely the Bhāgavata and the Sātvata.346 It is not at all easy to determine the “sectarian background” of the Nārāyaṇa theologians who introduce us to the Pañcarātra, but it is clear that those responsible for the composition of the oldest parts of the *Nārāyaṇīya*, who taught the Ekāntin worship of Nārāyaṇa and sought liberation from worldly existence, emerged from a religious culture which had much in common with that of Sāṃkhya and Yoga. As I have shown above, the term *ekānta* appears to have originally been intimately connected with practices of renunciation, asceticism, and “one-pointed” meditation, all of which are shown to be central, in other sections of the *Mokṣadharmaparvan*, to the soteriological methods adopted by 343 See especially MBh 12.322.3ab: *vedāḥ svadhītā mama lokanātha; taptaṃ tapo*… /; and MBh 12.325.2-3, discussed above. 
 
-344 MBh 12.322.37: *pravṛttau ca nivṛttau ca yonir etad bhaviṣyati */ *ṛgyajuḥsāmabhir juṣṭam* *atharvāṅgirasais tathā *//. 
+[^344]: MBh 12.322.37: *pravṛttau ca nivṛttau ca yonir etad bhaviṣyati */ *ṛgyajuḥsāmabhir juṣṭam* *atharvāṅgirasais tathā *//. 
 
-345 MBh 12.326.100: *idaṃ mahopaniṣadaṃ caturvedasamanvitam */ *sāṃkhyayogakṛtaṃ tena* *pañcarātrānuśabditam *//. 
+[^345]: MBh 12.326.100: *idaṃ mahopaniṣadaṃ caturvedasamanvitam */ *sāṃkhyayogakṛtaṃ tena* *pañcarātrānuśabditam *//. 
 
-346 I use the category “Vaiṣṇava” here in its modern, Indological sense. Bhāgavata and Sātvata are not called “Vaiṣṇava” in the *Nārāyaṇīya*. [[205]]
+[^346]: I use the category “Vaiṣṇava” here in its modern, Indological sense. Bhāgavata and Sātvata are not called “Vaiṣṇava” in the *Nārāyaṇīya*. [[205]]
 
 Sāṃkhya and Yoga.347 Part A also contains other indications of the proximity between Sāṃkhya, Yoga and the *imaginaire* of the Nārāyaṇa theologians. As Malinar \(1997: 254\) points out, the seer Nārada, who flies to the summit of Mount Meru, is depicted as one who is well advanced in the practice of yoga. As discussed above, the apparently “Sāṃkhyan” cosmological scheme of the twenty-five ontological principles \( *tattva*\) is employed. The claim that the Self \( *ātman*\) can be seen by the yoga of knowledge \( *jñānayoga*, 321.40, see also 326.23\) is a clearly Sāṃkhyan idea. Indeed, such claims indicate that, insofar as the methods of Sāṃkhya and Yoga can be clearly distinguished from one another \(as they are, for instance, at MBh 12.289-290\), the soteriology of the *Nārāyaṇīya* is closer to that of Sāṃkhya. 
 
@@ -23,8 +23,8 @@ This is also evident in the description of the White Men as having transcended t
 
 That Sāṃkhya is not recognised as a soteriological method distinct from the methods employed by the *Nārāyaṇīya*’s chief protagonists prior to the latest additions to chapter 326 suggests, indeed, that the religious worldview of the Nārāyaṇa theologians responsible for Part A was closer to Sāṃkhya than it was to Vedic ritualism. This tendency is less apparent in Part B, wherein the attempt to construct a distinct religious identity around the idea of a superior and comprehensive *ekāntadharma* involves the reinterpretation of the notion of renunciation, as already articulated in the *Bhagavadgītā*. Thus, the “extinction of all duties” or the *dharma* of the ascetic is now considered alongside Vedic ritualism, and both are subordinated to the practice of constant devotion to Nārāyaṇa, otherwise called *ekāntabhakti*, which espouses only the renunciation of actions motivated by desire, or the “annihilation of cravings”, and aims only to please god.348 
 
-347 On the importance of asceticism for Sāṃkhya methods, see e.g. MBh 12.231.5, 233.7, and 290.3, 60. As to Yoga see e.g. 12.228, 294. 
+[^347]: On the importance of asceticism for Sāṃkhya methods, see e.g. MBh 12.231.5, 233.7, and 290.3, 60. As to Yoga see e.g. 12.228, 294. 
 
-348 The references to *ekāntabhakti* and to “cravings that are annihilated” are found at MBh 12.336.66-67: *manīṣitaṃ ca prāpnoti cintayan puruṣottamam */ *ekāntabhaktiḥ satataṃ nārāyaṇaparāyaṇaḥ *// 
+[^348]: The references to *ekāntabhakti* and to “cravings that are annihilated” are found at MBh 12.336.66-67: *manīṣitaṃ ca prāpnoti cintayan puruṣottamam */ *ekāntabhaktiḥ satataṃ nārāyaṇaparāyaṇaḥ *// 
 
 *manīṣiṇo hi ye ke cid yatayo mokṣakāṅkṣiṇaḥ */ *teṣāṃ vai chinnatṛṣṇānāṃ yogakṣemavaho hariḥ *//. [[206]]

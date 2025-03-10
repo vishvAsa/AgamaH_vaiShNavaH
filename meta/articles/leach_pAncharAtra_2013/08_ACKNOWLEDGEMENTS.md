@@ -11,6 +11,4 @@ I am obliged to the many brilliant scholars whose work has informed and improved
 
 I owe an enormous debt of gratitude to my family, and especially to my parents, for their absolute support and enthusiasm. Without the help of my father, who has a much greater knowledge of the Pāñcarātra than could be reasonably expected, this thesis would not exist. It is to him that this work is dedicated.
 
-Finally, I thank Penelope for hurrying me along towards the end and, most of all, Clare for much more than I have space and time to say.
-
-261 
+Finally, I thank Penelope for hurrying me along towards the end and, most of all, Clare for much more than I have space and time to say.[[261]]

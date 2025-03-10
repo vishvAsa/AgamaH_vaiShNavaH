@@ -11,11 +11,9 @@ Among these, the *Pārameśvarasaṃhitā* \(PārS\) is likely the earliest.33 R
 
 The PārS incorporates passages from the *Nārāyaṇīya * section of the *Mahābhārata*, the 31 That is, given that research on the Pāñcarātra in general is still relatively young. There are many better preserved works among the published Pāñcarātra Saṃhitās, and most of these have not yet been studied in any detail. 
 
-32 See e.g. Smith \(1972: 43\), Czerniak-Drożdżowicz \(2003: 27\), Hikita \(2005: 167\), Colas \(2009: 155\). 
+[^32]: See e.g. Smith \(1972: 43\), Czerniak-Drożdżowicz \(2003: 27\), Hikita \(2005: 167\), Colas \(2009: 155\). 
 
-33 For a chronology of these works see Matsubara \(1994: 29-30\) and Rastelli \(2006: 52-4\). 
-
-32 
+[^33]: For a chronology of these works see Matsubara \(1994: 29-30\) and Rastelli \(2006: 52-4\). [[32]]
 
 *Ahirbudhnyasaṃhitā*, and the *Pādmasaṃhitā *\(PādS\)34 among others, and its author, or 
 
@@ -29,9 +27,7 @@ In the PārS’s opening chapter \( *adhyāya*\) the SS, PauṣS and JS are list
 
 “mixed *dharma*” with the Vāsudeva-oriented soteriology of the “supreme *dharma*”.37 
 
-Elsewhere in the PārS, this supreme *dharma* or “secret tradition” is also variously 34 Although the PārS is included in the canonical list of Pāñcarātra Saṃhitās contained in the PādS \( *jp* 1.105b\), this list is a late interpolation, and the PārS is likely the later text. See Rastelli \(2006: 58-9\). 
-
-35 
+Elsewhere in the PārS, this supreme *dharma* or “secret tradition” is also variously 34 Although the PārS is included in the canonical list of Pāñcarātra Saṃhitās contained in the PādS \( *jp* 1.105b\), this list is a late interpolation, and the PārS is likely the later text. See Rastelli \(2006: 58-9\). [[35]]
 
 PārS 
 
@@ -53,15 +49,13 @@ PārS
 
 *svayam * // *sātvataṃ pauṣkaraṃ caiva jayākhyety evamādikam* /. 
 
-36 In other words, desires for enjoyments \( *bhoga*\) rather than for liberation. See PārS 1.75bcd: * tatas* *tretāyugādiṣu */ *vikāravedāḥ sarvatra devāntaragocarāḥ* //; 1.79: *tatas tretāyuge sarve* *nānākāmasamanvitāḥ */ *vyāmiśrayājino bhūtvā tyajyanty ādyaṃ sanātanam* //; and 1.87 \(see next note\). The “changed Vedas” \( *vikāravedāḥ*\) at 1.75c are to be understood as the same as the “mixed *dharma*” that is mentioned at 1.87b. 
+[^36]: In other words, desires for enjoyments \( *bhoga*\) rather than for liberation. See PārS 1.75bcd: * tatas* *tretāyugādiṣu */ *vikāravedāḥ sarvatra devāntaragocarāḥ* //; 1.79: *tatas tretāyuge sarve* *nānākāmasamanvitāḥ */ *vyāmiśrayājino bhūtvā tyajyanty ādyaṃ sanātanam* //; and 1.87 \(see next note\). The “changed Vedas” \( *vikāravedāḥ*\) at 1.75c are to be understood as the same as the “mixed *dharma*” that is mentioned at 1.87b. 
 
-37 In addition to the verses in the previous note, see especially PārS 1.87-89: *parityajya paraṃ dharmaṃ*
+[^37]: In addition to the verses in the previous note, see especially PārS 1.87-89: *parityajya paraṃ dharmaṃ*
 
 *miśradharmam upeyuṣām */ *bhūyas tatpadakāṅkṣāṇāṃ śraddhābhaktī upeyuṣām *// *anugrahārthaṃ*
 
-*varṇāṇāṃ yogyatāpādanāya ca */ * tathā janānāṃ sarveṣāṃ abhīṣṭaphalasiddhaye *// *sātvatādīni* *śāstrāṇi bhogamokṣapradāni ca */ *upadiśya tu divyāni śāstrāṇi tadanantaram *//. 
-
-33 
+*varṇāṇāṃ yogyatāpādanāya ca */ * tathā janānāṃ sarveṣāṃ abhīṣṭaphalasiddhaye *// *sātvatādīni* *śāstrāṇi bhogamokṣapradāni ca */ *upadiśya tu divyāni śāstrāṇi tadanantaram *//. [[33]]
 
 called the “root-Veda” or the “original Veda” \( *mūlaveda*, e.g. PārS 1.64b, 10.212c; *mūlaśruti*, PārS 1.63a\), the foremost Bhāgavata *dharma* \(PārS 1.78a\), the *dharma* of the Ekāntins \( *ekāntidharma*, PārS 1.60a\), the original *dharma* \( *prakṛtidharma*, PārS 
 
@@ -97,13 +91,11 @@ Explaining the transmission of the teaching, Śāṇḍilya, the narrator of the
 
 The *Īśvarasaṃhitā *\(ĪS\) also contains substantial derivative portions, incorporating numerous passages from the SS \(see Bock-Raming 2002: 352 *ff*\), and 38 For this classification see especially PārS 10.336-345, and the parallel verses at ĪS 1.54-63. 
 
-39 SS 22.52c-59b. Several of these verses, as Rastelli \(2006: 108 n. 202\) has shown, are included within a section of the tenth chapter of the PārS \(10.347-374b\). This whole section of the PārS is also included in the ĪS \(23.4-31b\). 
+[^39]: SS 22.52c-59b. Several of these verses, as Rastelli \(2006: 108 n. 202\) has shown, are included within a section of the tenth chapter of the PārS \(10.347-374b\). This whole section of the PārS is also included in the ĪS \(23.4-31b\). 
 
-40 See PārS 10.376c-377b: *sātvataṃ pauṣkaraṃ caiva jayākhyaṃ ca tathaiva ca* // *evamādīni śāstrāṇi* *divyānīty avadhāraya* /. It should be pointed out that Rastelli \(2006: 111 *ff*\) offers a different reading of the passage containing these verses. See my discussion “The Formation of the Pāñcarātra Canon” 
+[^40]: See PārS 10.376c-377b: *sātvataṃ pauṣkaraṃ caiva jayākhyaṃ ca tathaiva ca* // *evamādīni śāstrāṇi* *divyānīty avadhāraya* /. It should be pointed out that Rastelli \(2006: 111 *ff*\) offers a different reading of the passage containing these verses. See my discussion “The Formation of the Pāñcarātra Canon” 
 
-below. 
-
-34 
+below. [[34]]
 
 also borrowing liberally from the PārS. Like the PārS, this text is included in the canonical list of scriptures found in the PādS \( *jp* 1.103d\), but the ĪS is certainly the later text, probably not composed before the late thirteenth or fourteenth century \(Matsubara 1994: 28-31\). Numerous passages in the first chapter of the ĪS, a short history of the “descent” or genealogy of the Pāñcarātra scriptures \( *śāstrāvataraṇa*\), contain material which is apparently drawn directly from the PārS.41 The author refers to the three texts SS, PauṣS and JS again as the celestial \( *divya*\) teachings, which are proclaimed by Hari in the *anuṣṭubh* metre, and are “in accordance with the root-Veda”.42 A few lines later the text partially repeats itself with a verse, the first part of which is the same as PārS 10.376c-377b: 
 
@@ -121,13 +113,13 @@ PārS 1.87-88; ĪS 1.50ab ← PārS 1.91ab; ĪS 1.50cd ← PārS 1.19ab; ĪS 1.5
 
 1.64c-65a ← PārS 10.376c-377a; ĪS 1.70ab ← PārS 1.90cd. 
 
-42 ĪS 1.50-51a: *mūlavedānusāreṇa chandasānuṣṭubhena ca* / *sātvataṃ pauṣkaraṃ caiva jayākhyety* *evamādikam* // *divyaṃ sacchāstrajālaṃ*… 
+[^42]: ĪS 1.50-51a: *mūlavedānusāreṇa chandasānuṣṭubhena ca* / *sātvataṃ pauṣkaraṃ caiva jayākhyety* *evamādikam* // *divyaṃ sacchāstrajālaṃ*… 
 
-43 These are, respectively, OṂ NAMO * * NĀRĀYAṆĀYA, OṂ NAMO BHAGAVATE 
+[^43]: These are, respectively, OṂ NAMO * * NĀRĀYAṆĀYA, OṂ NAMO BHAGAVATE 
 
 VĀSUDEVĀYA, and OṂ VIṢṆAVE NAMAḤ. 
 
-44 ĪS 1.66: *sātvatādyaṃ trikaṃ caitat vyāpakaṃ munisattamāḥ* / *yathā cāṣṭākṣarādīnāṃ* *mantrāṇāṃ*
+[^44]: ĪS 1.66: *sātvatādyaṃ trikaṃ caitat vyāpakaṃ munisattamāḥ* / *yathā cāṣṭākṣarādīnāṃ* *mantrāṇāṃ*
 
 *tritayaṃ budhāḥ* //. Rastelli’s \(1999a: 71\) translation of this verse into German reads: “Und diese Dreiheit Sātvata usw. ist umfassend, ihr besten Weisen, wie die Dreiheit \(d.h. die Silbe *oṃ*\) für Mantras wie den Aṣṭākṣara\[mantra\] und die anderen, ihr Weisen.” This reading might be justified with recourse to a passage in the SS \(9.37-41b\) in which the *bīja* and *piṇḍa* portions of a mantra are called 
 
@@ -155,13 +147,11 @@ called “pervasive” \( *vyāpaka*\): *sarveṣu viṣṇumantreṣu mantrā�
 
 “Among all the mantras of Viṣṇu, there are three pervasive mantras. The first has eight syllables and is of Nārāyaṇa, the second has twelve syllables and is of Vāsudeva, and then, most excellent Yogins, there is the six syllabled \[mantra\] of Viṣṇu” \(ĪS 23.52-53b\). We are subsequently told: *triṣv apy eṣu* *vyāpakeṣu mantro hy aṣṭākṣaro ’dhikaḥ* /. – “Indeed, among these three pervasive \[ones\], the *aṣṭākṣara* mantra is superior” \(ĪS 23.56ab\). These three mantras are also considered together in the *Lakṣmītantra* at 24.68 *ff*, where they are said to constitute three of the five *vyāpaka* mantras in the Pāñcarātra \(74cd\). 
 
-45 ĪS 1.67: *etat tantratrayoktena vidhinā yādavācale* / *śrīraṅge hastiśaile ca kramāt sampūjyate hariḥ* 
+[^45]: ĪS 1.67: *etat tantratrayoktena vidhinā yādavācale* / *śrīraṅge hastiśaile ca kramāt sampūjyate hariḥ* 
 
 //. The later *Adhikaḥ Pāṭhaḥ* section of the JS \(12c-13b\) also associates these texts with these places: *sāttvataṃ yaduśailendre śrīraṅge pauṣkaraṃ tathā* // *hastiśaile jayākhyaṃ ca sāmrājyam adhitiṣṭhati* 
 
-/. 
-
-36 
+/. [[36]]
 
 We also find in the ĪS \(1.54-63\) the same passage classifying Pāñcarātra scriptures into three groups \( *divya*, *munibhāṣita*, and *pauruṣa*\) that is contained in the PārS \(10.336-345\), as well as the device of appending itself to one of the three jewels, in this case the SS, the meaning of which the ĪS \(25.213b\) claims to be “illuminating” 
 
@@ -179,9 +169,7 @@ section of the PādS, and also shares parallel verses with the SS and the ĪS
 
 *dvija* //; ĪS 1.25 *: jaganmūlasya vedasya vāsudevasya mukhyataḥ */ * pratipādakatā siddhā*
 
-*mūlavedākhyatā dvijāḥ* //. 
-
-37 
+*mūlavedākhyatā dvijāḥ* //. [[37]]
 
 and Jayākhya. Thus the learned will say these Saṃhitās are celestial.” \(ŚrīprśS 
 
@@ -207,9 +195,7 @@ theory, as well as an interesting and unique interpretation as to how the three 
 
 \[collectively\] the highest Tantra, called the “three jewels”. Its particularity is explained here. The essence of the Sāttvata teaching is a secret that is honoured by sages. This triad of jewels has come forth directly from the mouth of the Bhagavat, so indeed this \[triad\] is established as neither deficient nor excessive. 
 
-After the tantras established themselves \[out of\] the essence emanating from the mouth of the Bhagavat, they supplemented \( *vyāpitāni*, literally “pervaded”\) one another with a commentary \(or “explanation”, *vyākhyā*\), \[that is\] based upon a 47 Cf. *Mahābhārata *\(MBh\) 12.337.63ab: *pañcarātrasya kṛtsnasya vettā tu bhagavān svayam* /. In his *Āgamaprāmāṇya* \(128.4\), Yāmuna quotes this verse \(“Thus it is taught in the *Mahābhārata*…”, *paṭhyate bhārate tathā*\) but in the version which is found in the main text above, i.e. in the opening verse of the *Adhikaḥ* *Pāṭhaḥ*: *pañcarātrasya kṛtsnasya vaktā nārāyaṇaḥ svayam*. It is later quoted by Rāmānuja, alongside other passages from the MBh, in his *Śrībhāṣya* on *sūtra* 2.2.42 \(334.1\) and, later still, by Madhva in his commentary on the MBh, the *Mahābhāratatātparyanirṇaya* \(2.101ab\). The *Pāñcarātrarakṣā* contains the verse at 43.9-10. Each of these works predates the *Adhikaḥ Pāṭhaḥ* \(for the dating of which see below\). 
-
-38 
+After the tantras established themselves \[out of\] the essence emanating from the mouth of the Bhagavat, they supplemented \( *vyāpitāni*, literally “pervaded”\) one another with a commentary \(or “explanation”, *vyākhyā*\), \[that is\] based upon a 47 Cf. *Mahābhārata *\(MBh\) 12.337.63ab: *pañcarātrasya kṛtsnasya vettā tu bhagavān svayam* /. In his *Āgamaprāmāṇya* \(128.4\), Yāmuna quotes this verse \(“Thus it is taught in the *Mahābhārata*…”, *paṭhyate bhārate tathā*\) but in the version which is found in the main text above, i.e. in the opening verse of the *Adhikaḥ* *Pāṭhaḥ*: *pañcarātrasya kṛtsnasya vaktā nārāyaṇaḥ svayam*. It is later quoted by Rāmānuja, alongside other passages from the MBh, in his *Śrībhāṣya* on *sūtra* 2.2.42 \(334.1\) and, later still, by Madhva in his commentary on the MBh, the *Mahābhāratatātparyanirṇaya* \(2.101ab\). The *Pāñcarātrarakṣā* contains the verse at 43.9-10. Each of these works predates the *Adhikaḥ Pāṭhaḥ* \(for the dating of which see below\). [[38]]
 
 principle of strengthening \[the “essence” or “root text”\], and in such a way \[these tantras can be characterised\] by their possessing both brevity \[i.e. in the form of the root text\], and detail \[in the form of the commentary\]. Indeed the venerability of these \[texts\] is established on the grounds of \[this combination of\] commentary and root \[text\].” \(JS *ap* 1-6b\) 
 
@@ -233,13 +219,11 @@ The *Adhikaḥ Pāṭhaḥ* and the PRR, the only two extant works which employ 
 
 The *Adhikaḥ Pāṭhaḥ* was written, at least partly, to eulogise the Varadarājasvāmin temple in Kāñcī \(referred to as *Hastiśaila* throughout\). The general date of its composition is provided by Rajan \(1981: 27\), whose fourteenth century estimate is based on the correlation of architectural descriptions contained in the text with historical data concerning the construction of the temple building. Meanwhile, although the PRR is likely to have been written during its author’s first stint as an *ācārya* at Śrīraṅgam,49 Vedāntadeśika \(whose traditional dates are 1268-1369\) did spend his formative years in Kāñcīpuram, and his writings exerted considerable influence in this city during his lifetime as well as after his death \(Raman 1975: 70 *ff*, Hopkins 2002\).50 It is not therefore wholly implausible to suggest that the author of the *Adhikaḥ Pāṭhaḥ* might have been familiar with the PRR.51 At any rate, if Rajan is correct in identifying the *gopura* described in the *Adhikaḥ Pāṭhaḥ* with one added to the Varadarājasvāmin temple during the Vijayanagar period, it is fairly safe to assume that this interpolated section of the JS was composed during the second half of the 48 PRR 47.6-7: *yathoktaṃ sākṣād bhagavanmukhodgatatayā ratnatrayam iti prasiddheṣu jayākhya-sāttvatapauṣkareṣu*… 
 
-49 In other words, during the period before the second sack of Śrīraṅgam by Muslim forces in 1323. See Singh \(1958: 100\), and Hari Rao \(1976: 116-17\). 
+[^49]: In other words, during the period before the second sack of Śrīraṅgam by Muslim forces in 1323. See Singh \(1958: 100\), and Hari Rao \(1976: 116-17\). 
 
-50 Vedāntadeśika wrote a *stotra*, the *Varadarājapañcāśat*, in praise of Lord Varadarāja at Kāñcī, and was intimately connected with this temple in his early years. 
+[^50]: Vedāntadeśika wrote a *stotra*, the *Varadarājapañcāśat*, in praise of Lord Varadarāja at Kāñcī, and was intimately connected with this temple in his early years. 
 
-51 Of course this does not enable us to conclude that the author of the *Adhikaḥ Pāṭhaḥ* directly borrowed from the PRR, for \(an\)other text/s no longer available to us may also have characterised the JS, SS and PauṣS as *ratnatraya*. However, the influence of the teachings of *Viśiṣṭādvaitavedānta* are clearly discernible in the *Adhikaḥ Pāṭhaḥ* \(see, for example, JS *ap* 109\), and Vedāntadeśika was a very important figure in that *milieu* during this period. 
-
-40 
+[^51]: Of course this does not enable us to conclude that the author of the *Adhikaḥ Pāṭhaḥ* directly borrowed from the PRR, for \(an\)other text/s no longer available to us may also have characterised the JS, SS and PauṣS as *ratnatraya*. However, the influence of the teachings of *Viśiṣṭādvaitavedānta* are clearly discernible in the *Adhikaḥ Pāṭhaḥ* \(see, for example, JS *ap* 109\), and Vedāntadeśika was a very important figure in that *milieu* during this period. [[40]]
 
 fourteenth century, during the 1360s at the very earliest,52 and is therefore almost certainly later than the PRR. 
 
@@ -259,9 +243,7 @@ Padmanabhan 1974: 29, Varadachari 1982: 287, Colas 2009: 155\), that the PādS i
 
 “based on” or “derived from” the JS. This explanation appeals because although the 
 
-‘Jñānapāda’ section of the PādS appears to have incorporated several passages from the fourth chapter of the JS \(Rastelli 1999a\), in general the PādS owes little to the earlier work, and contains a wealth of information, especially on the subject of the construction of temples, which is wholly absent from the JS. It is indicative, indeed, that the JS’s 20th *paṭala*, wherein the majority of this work’s architectural detail is to 52 According to K.V. Raman \(1975: 26\) Kāñcī did not come under Vijayanagar dominance until the 1360s. The outer, western *gopura* of the Varadarājasvāmin temple \(i.e. that which Rajan identifies as being described in the *Adhikaḥ Pāṭhaḥ*\) is likely to have been built following Vijayanagar leader Kumāra Kampana’s arrival in the city, sometime during, or shortly after, 1361. The earliest dateable inscription found on the plinth portion of the *gopura* belongs to Kampana and is dated 1374. On this see Raman \(ibid: 54\). 
-
-41 
+‘Jñānapāda’ section of the PādS appears to have incorporated several passages from the fourth chapter of the JS \(Rastelli 1999a\), in general the PādS owes little to the earlier work, and contains a wealth of information, especially on the subject of the construction of temples, which is wholly absent from the JS. It is indicative, indeed, that the JS’s 20th *paṭala*, wherein the majority of this work’s architectural detail is to 52 According to K.V. Raman \(1975: 26\) Kāñcī did not come under Vijayanagar dominance until the 1360s. The outer, western *gopura* of the Varadarājasvāmin temple \(i.e. that which Rajan identifies as being described in the *Adhikaḥ Pāṭhaḥ*\) is likely to have been built following Vijayanagar leader Kumāra Kampana’s arrival in the city, sometime during, or shortly after, 1361. The earliest dateable inscription found on the plinth portion of the *gopura* belongs to Kampana and is dated 1374. On this see Raman \(ibid: 54\). [[41]]
 
 be found, shares no significant data with the PādS, and describes a style of temple which is not referred to by the latter \(see Rajan 1981\). It is worth mentioning, in addition, that the status of the PādS as a “commentary” on the JS does not appear to have been accepted always by the traditions which have inherited and used these texts. 
 
@@ -281,15 +263,13 @@ Whilst the author of the *Adhikaḥ Pāṭhaḥ* tells us that the PādS is a co
 
 *Pāṭhaḥ* might have made this claim on behalf of the PādS \(I will discuss this question below\), we must first attempt to explain why the JS is not included in this list. 
 
-53 SāPr on ĪS 1.64-67: *idaṃ sātvatapauṣkarajayākhyatantratrayam… īśvarapārameśvaralakṣmī-tantrākhyatantratrayaṃ krameṇa teṣāṃ vṛttirūpam */ *tatreśvarapārameśvarayor utsavādīnāṃ*
+[^53]: SāPr on ĪS 1.64-67: *idaṃ sātvatapauṣkarajayākhyatantratrayam… īśvarapārameśvaralakṣmī-tantrākhyatantratrayaṃ krameṇa teṣāṃ vṛttirūpam */ *tatreśvarapārameśvarayor utsavādīnāṃ*
 
 *pauṣkalyam asti */ *lakṣmītantre tu tan nāsti */ *ataḥ ‘anuktam anyato grāhyam’ ity uktarītyā*
 
 *hastiśailanāthārcakaiḥ padmoktānām utsavādyācārāṇāṃ parigrahaḥ kṛta iti… */. 
 
-54 On the JS’s and the PādS’s association with Kāñcī see JS *ap* 13-14b: *hastiśaile jayākhyaṃ ca* *sāmrājyam adhitiṣṭhati* */ pādmatantraṃ hastiśaile*… // … *kāryakāri pracāryate* /. On the JS’s association with Kāñcī at the time of the composition of the ĪS, see ĪS 1.67. **
-
-42 
+[^54]: On the JS’s and the PādS’s association with Kāñcī see JS *ap* 13-14b: *hastiśaile jayākhyaṃ ca* *sāmrājyam adhitiṣṭhati* */ pādmatantraṃ hastiśaile*… // … *kāryakāri pracāryate* /. On the JS’s association with Kāñcī at the time of the composition of the ĪS, see ĪS 1.67. **[[42]]
 
 There are, on the face of it, at least two possible explanations for its omission. 
 
@@ -299,8 +279,6 @@ occurs at the very end of the PādS might well suggest that this passage is itse
 
 The second possible explanation is that the author of the passage in question in the PādS belonged to a tradition within the Pāñcarātra which did not at that time accept the supremacy of the JS, SS and PauṣS. The fact that the PādS describes *itself* as “celestial” \( *divyam*\) at the beginning of the second chapter \( *jp* 2.3a\) is perhaps worthy of note, though it was quite common for authors to present their texts in such terms, regardless of the tradition they belonged to. Be that as it may, the theory that the PādS did originate from a tradition within the Pāñcarātra which was distinct from the tradition to which at least the PārS and the ĪS belonged is a compelling one, and it is the subject of distinct traditions within the Pāñcarātra to which I shall turn next. 
 
-55 As is the case with much of the anonymous Pāñcarātra literature, the PādS is certainly not a homogeneous, singly authored work, and so it is difficult to establish its date and provenance. Rastelli \(2003\) claims that its date can be determined only in relation to other Saṃhitās, and places the bulk of its composition between that of the *Paramasaṃhitā* \(ParS\), from which it borrows, and that of the PārS. 
+[^55]: As is the case with much of the anonymous Pāñcarātra literature, the PādS is certainly not a homogeneous, singly authored work, and so it is difficult to establish its date and provenance. Rastelli \(2003\) claims that its date can be determined only in relation to other Saṃhitās, and places the bulk of its composition between that of the *Paramasaṃhitā* \(ParS\), from which it borrows, and that of the PārS. 
 
-Her suggestion that it is subsequent to the *Ahirbudhnyasaṃhitā* \(AS\) as well as to the lifetime of Rāmānuja would most likely place it towards the end of the twelfth century, or shortly thereafter. 
-
-43 
+Her suggestion that it is subsequent to the *Ahirbudhnyasaṃhitā* \(AS\) as well as to the lifetime of Rāmānuja would most likely place it towards the end of the twelfth century, or shortly thereafter. [[43]]

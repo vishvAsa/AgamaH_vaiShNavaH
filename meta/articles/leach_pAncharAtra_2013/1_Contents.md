@@ -7,13 +7,9 @@ Introduction
 
 i.\) *General introduction to the Pāñcarātra and previous scholarship thereon* 9 
 
-ii.\) *The role of scripture in the Pāñcarātra Saṃhitās* 
+ii.\) *The role of scripture in the Pāñcarātra Saṃhitās* [[13]]
 
-13 
-
-iii.\) *Sources and methods* 
-
-24 
+iii.\) *Sources and methods* [[24]]
 
 PART ONE - THE THREE JEWELS AND THE FORMATION OF THE PĀÑCARĀTRA CANON 
 
@@ -43,9 +39,7 @@ i.\) *Classifications of scripture in the PārS and the PādS* 79
 
 ii.\) *Appropriation and unification in the late Saṃhitās* 90 
 
-iii.\) *Conclusions* 103 
-
-5 
+iii.\) *Conclusions* 103 [[5]]
 
 PART TWO 
 
@@ -91,9 +85,7 @@ i.\) *Setting the scene*  179
 
 ii.\) *The terms ekānta, ekāntin etc * 182 
 
-iii.\) *Sectarianism, syncretism, and the religious identity of the Ekāntins in Part B * 192  
-
-6 
+iii.\) *Sectarianism, syncretism, and the religious identity of the Ekāntins in Part B * 192  [[6]]
 
 iv.\) *Conclusions * 204 
 
@@ -119,8 +111,4 @@ Abbreviations  245
 
 References  247 
 
-Acknowledgements  261 
-
-7 
-
-8 
+Acknowledgements  261 [[7]][[8]]

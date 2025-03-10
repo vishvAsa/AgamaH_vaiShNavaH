@@ -25,9 +25,9 @@ They identify their own ‘Veda’, the Ekāyanaveda, with the teaching given to
 
 desire. One who grants heaven to his devotees even when it is not asked for – what is it that is not given by him? Therefore, one should abandon requests\!” 
 
-366 This is a reference to the eight classical *siddhi* s alluded to at *Yogasūtra* 3.45, and elaborated in the commentaries. Here, as elsewhere in the Pāñcarātra Saṃhitās \(e.g. JS 6.70c, SS 18.165ab\), the word *guṇa* is used instead of *siddhi*. This practice is also quite common in the Śaiva scriptural literature \(Mallinson 2011: 330 n. 16\). 
+[^366]: This is a reference to the eight classical *siddhi* s alluded to at *Yogasūtra* 3.45, and elaborated in the commentaries. Here, as elsewhere in the Pāñcarātra Saṃhitās \(e.g. JS 6.70c, SS 18.165ab\), the word *guṇa* is used instead of *siddhi*. This practice is also quite common in the Śaiva scriptural literature \(Mallinson 2011: 330 n. 16\). 
 
-367 Elsewhere in the NārS, the word appears to be used merely as a general term of commendation. At NārS 25.388, for example, the Ekāntins are named as “the most excellent Bhāgavatas” 
+[^367]: Elsewhere in the NārS, the word appears to be used merely as a general term of commendation. At NārS 25.388, for example, the Ekāntins are named as “the most excellent Bhāgavatas” 
 
 \( *bhāgavatottamāḥ*\). [[217]]
 
@@ -91,13 +91,13 @@ In a later chapter of the PauṣS, Pauṣkara asks God for a clarification with 
 
 *satyam etan mahābuddhe yathā sañcoditaṃ tvayā *// *kintu kriyāntare prāpte na* *dośas tv adhikāriṇām */ *yasmāt sarvaparatvaṃ hi teṣām asty acyutaṃ prati *// 
 
-369 The PārS, which was also authored by Ekāyanas, also promises rebirth as an Ekāyana to non-Ekāyana Pāñcarātrikas who correctly perform their duties. The passage in question \(PārS 13.114c-115\) has been discussed by Rastelli \(2006: 194\). 
+[^369]: The PārS, which was also authored by Ekāyanas, also promises rebirth as an Ekāyana to non-Ekāyana Pāñcarātrikas who correctly perform their duties. The passage in question \(PārS 13.114c-115\) has been discussed by Rastelli \(2006: 194\). 
 
-370 PauṣS 36.266c-267b: *nābhisandhāya ca phalam āpatkālagato ’pi vai *// *tyaktvā dehaṃ*
+[^370]: PauṣS 36.266c-267b: *nābhisandhāya ca phalam āpatkālagato ’pi vai *// *tyaktvā dehaṃ*
 
 *punarjanma nāpnuyād iha pauṣkara */. 
 
-371 PauṣS 38.47-48b: *deva vyāmiśrayājitvaṃ pratiṣiddhaṃ punaḥ punaḥ */ *prāguktānāṃ ca yāgānāṃ*
+[^371]: PauṣS 38.47-48b: *deva vyāmiśrayājitvaṃ pratiṣiddhaṃ punaḥ punaḥ */ *prāguktānāṃ ca yāgānāṃ*
 
 *draṣṭum aṅgīkṛtaṃ ca yat *// *tanmātrasaṃśayaṃ jātaṃ chettum arhasi sāṃpratam */. [[221]]
 
@@ -137,7 +137,7 @@ servants of god is enjoined in order to elicit their compassion, though \[it sho
 
 \[subordinate deities\] by an Ekāntin guru, strife will be cast out, since they are the servants of Hari.” \(PārS 6.125c-130, 132c-133b\) 
 
-372 The use of the ablative/genitive case here \( *jantor ekāntinaḥ*\) seems strange. In his commentary on the ĪS, Alaśiṅgabhaṭṭa is unsure of how to interpret this, and one of his suggestions is to take it as an ablative absolutive \( *lyablope pañcamī*\) – see *Sātvatārthaprakāśikā* on ĪS 4.3. However, this is not convincing. [[223]]
+[^372]: The use of the ablative/genitive case here \( *jantor ekāntinaḥ*\) seems strange. In his commentary on the ĪS, Alaśiṅgabhaṭṭa is unsure of how to interpret this, and one of his suggestions is to take it as an ablative absolutive \( *lyablope pañcamī*\) – see *Sātvatārthaprakāśikā* on ĪS 4.3. However, this is not convincing. [[223]]
 
 It is very difficult to draw any firm conclusions from this passage, which is also found in the ĪS.373 I am unable to satisfactorily translate the verse and half-verse \(6.131-132b\) I have omitted, though their gist, I believe, is that the subordinate deities “mentally” \( *manasā*\) accept worship “even if it is given without respect” 
 
@@ -145,15 +145,15 @@ It is very difficult to draw any firm conclusions from this passage, which is al
 
 However, Yāmuna does not make this assertion in response to a specific criticism that Pāñcarātrikas worship Viṣṇu’s subordinate deities. Indeed, there is no indication in the ĀP that the Pāñcarātra’s Mīmāṃsaka opponents were critical of this practice, or that they felt that it somehow compromised the ideal of monotheism. If the criticism of the Ekāntin worship of Viṣṇu’s entourage was not coming from orthodox outsiders, then, from where was it coming? This is a very difficult question to answer, but we should not overlook the possibility that such criticism may have come from other Ekāntins. The author’s strategy in the above passage is to legitimate the Ekāntin worship of the subordinate deities by providing scriptural authority for it, but he also attempts to minimise the “distress” that this may cause by emphasising that this worship is, and *should be*, performed without devotion, loyalty, and respect, and that, in any case, the subordinate deities are “made of Acyuta”, and so any charge of abandoning monotheism would not apply. 
 
-373 PārS 6.124c-126b → ĪS 3.100-101; PārS 6.128-133b → ĪS 4.2c-7. 
+[^373]: PārS 6.124c-126b → ĪS 3.100-101; PārS 6.128-133b → ĪS 4.2c-7. 
 
-374 PārS 6.131-132b: *te tat prāṇicyutaṃ prahvā dattam apy avahelayā */ *gṛhṇanti manasā śreyaḥ*
+[^374]: PārS 6.131-132b: *te tat prāṇicyutaṃ prahvā dattam apy avahelayā */ *gṛhṇanti manasā śreyaḥ*
 
 *paraṃ dhyātvā dhiyā hṛdi *// *yataḥ sarve ’cyutamayās taccittārpitamānasāḥ */. Note that ĪS 4.5a reads *te tat pāṇicyutaṃ prahvā*. 
 
-375 On the mythical plane Caṇḍra, Pracaṇḍra, Dhātṛ, Vidhātṛ, Jaya, Vijaya, Bhadra and Subhadra are the gatekeepers of Vaikuṇṭha, Viṣṇu’s heaven. 
+[^375]: On the mythical plane Caṇḍra, Pracaṇḍra, Dhātṛ, Vidhātṛ, Jaya, Vijaya, Bhadra and Subhadra are the gatekeepers of Vaikuṇṭha, Viṣṇu’s heaven. 
 
-376 ĀP 168 6-7: *devatāgaṇaḥ *// *guṇabhūtaḥ śruto viṣṇor viṣṇupāriṣadeśavat */. [[224]]
+[^376]: ĀP 168 6-7: *devatāgaṇaḥ *// *guṇabhūtaḥ śruto viṣṇor viṣṇupāriṣadeśavat */. [[224]]
 
 Much of this is hypothetical, but when read in tandem with the PauṣS’s legitimation of valid forms of “mixed worship” for those who are qualified, these verses in the PārS and the ĪS do appear to indicate that some Ekāntins \(or Ekāyanas etc.\) were participating in forms of worship, specifically in temples, that members of their tradition had previously condemned. However, that the Ekāntin worship of Viṣṇu’s subordinate deities appears to have attracted controversy is itself rather difficult to explain within the broader history of the Pāñcarātra. For the Pāñcarātrika worship of Viṣṇu’s divine retinue is enjoined throughout the scriptural literature, both in its oldest documents, and in South Indian works including the PārS and the ĪS 
 

@@ -7,11 +7,11 @@ What can the classificatory innovations in such texts as the PādS and the PārS
 
 schemes describing well-established exegetical principles and Pāñcarātrika identities, and to what degree were such systems modelled on the texts themselves? With regard to the four Siddhāntas the second question is very difficult to answer, though the Vaikhānasa literature, which contains various taxonomies of Pāñcarātra groups, may provide a clue that this system of classification did not long precede its earliest descriptions in the Pāñcarātra literature. For the earliest probable Vaikhānasa reference to the ‘Siddhānta’ system of classification occurs only in the *Ānandasaṃhitā*, which is among the latest of the Vaikhānasa “medieval corpus”.142 With regard to the organisation and classification of the Pāñcarātra scriptures, these processes are not yet evident in the earliest Pāñcarātra works, and the textual evidence suggests that they did not begin to gain importance until about the twelfth century, some time after Yāmuna’s composition of the ĀP.143 This is suggested by the fact that those works which classify and enumerate the Saṃhitās, such as the PādS and the PārS, do so as part of an overall attempt, that is absent in the earlier scriptures, to provide scriptural authority for a Pāñcarātra system of temple-worship.144 Although his *modus operandi* and his intended audience are clearly different, this is also one of Yāmuna’s main objectives in the ĀP. However, despite the fact that he names and quotes several Saṃhitās, Yāmuna does not refer to any scriptural system of text-classification, or to any “canonical” list, and this indicates that such strategies were indeed not yet “well-established” within the Pāñcarātra context. 
 
-142 See Colas \(1990: 27\), who reports that the *Ānandasaṃhitā* \(8.23-24\) describes the *siddhānta* of the *avāntaravaiṣṇavas *\(the Pāñcarātrikas\) as “fourfold”, though it does not name the subdivisions. 
+[^142]: See Colas \(1990: 27\), who reports that the *Ānandasaṃhitā* \(8.23-24\) describes the *siddhānta* of the *avāntaravaiṣṇavas *\(the Pāñcarātrikas\) as “fourfold”, though it does not name the subdivisions. 
 
-143 However, as we will see below, a work *external* to the Pāñcarātra scriptural corpus, namely the Śaiva *Śrīkaṇṭhī* or *Śrīkaṇṭhīyasaṃhitā*, contains what may be a pre-Yāmuna “canonical” list of Pāñcarātra Saṃhitās. 
+[^143]: However, as we will see below, a work *external* to the Pāñcarātra scriptural corpus, namely the Śaiva *Śrīkaṇṭhī* or *Śrīkaṇṭhīyasaṃhitā*, contains what may be a pre-Yāmuna “canonical” list of Pāñcarātra Saṃhitās. 
 
-144 In other words, the cataloguing of scriptures constitutes an attempt to distinguish those works prescribing rites for temple-worship which have scriptural authority from those which do not. [[90]]
+[^144]: In other words, the cataloguing of scriptures constitutes an attempt to distinguish those works prescribing rites for temple-worship which have scriptural authority from those which do not. [[90]]
 
 To reiterate, there was no single classificatory method employed by the Pāñcarātra Saṃhitas, and so any discussion of a Pāñcarātra “canon” needs to be prefaced with the caveat that what was “canonical” for one Pāñcarātra tradition, for instance the supremacy of the JS, SS and PauṣS, was, as we have seen above, not necessarily canonical for another.145 Here it is worth recalling Michael Witzel’s \(1997: 259-260\) remarks on the development of the *Vedic* canon: 
 
@@ -19,15 +19,15 @@ To reiterate, there was no single classificatory method employed by the Pāñcar
 
 While it is highly probable that the fourfold ‘Siddhānta’ system of classification within the Pāñcarātra was a South Indian innovation which based itself upon the Vedic precedent, and which might be usefully interpreted therefore as presenting an *ideal* *model * rather than a purely descriptive account,146 it is nonetheless evident that there were real divisions among Pāñcarātrikas, that these divisions are likely to have preceeded the extant Pāñcarātra scriptural literature,147 and that, to paraphrase Witzel, not *all* Pāñcarātra scriptures were “originally” considered “canonical” by *all* Pāñcarātra groups. This is nowhere more evident than with regard to the “three jewels”. 
 
-145 It also needs to be emphasised, when speaking of traditions * within* the Pāñcarātra, that many of the texts at our disposal do not “belong” to one Siddhānta or another, but rather are composite entities which often appear to have undergone redactions, for example, by both Āgamasiddhāntins *and* Mantrasiddhāntins \(or their “Veda-congruent” equivalents\). An obvious example of this is the PauṣS, though the ĪS and the PādS also betray the influence of both Siddhāntas. 
+[^145]: It also needs to be emphasised, when speaking of traditions * within* the Pāñcarātra, that many of the texts at our disposal do not “belong” to one Siddhānta or another, but rather are composite entities which often appear to have undergone redactions, for example, by both Āgamasiddhāntins *and* Mantrasiddhāntins \(or their “Veda-congruent” equivalents\). An obvious example of this is the PauṣS, though the ĪS and the PādS also betray the influence of both Siddhāntas. 
 
-146 To characterise the Siddhānta system of classification as in some sense normative \(as opposed to 
+[^146]: To characterise the Siddhānta system of classification as in some sense normative \(as opposed to 
 
 “purely descriptive”\) is not to deny that Pāñcarātra groups may have been arranged according to this model during certain periods, at least in the eyes of some Pāñcarātrikas. The delineations of the four Siddhāntas found in both the PādS and the PārS are certainly presented as “descriptive” accounts, and for instance the PādS, PārS and BhT all prescribe reparation rites \( *prāyaścitta*\) for those who have 
 
 “mixed” ritual practices from different Siddhāntas. Elsewhere in the PādS \( *kp* 24.6b\), meanwhile, one of the essential characteristics of the ideal *ācārya* is said to be *siddhāntabhedavid*. 
 
-147 As we have seen above, Rājānaka Ratnākara refers to distinct Pāñcarātra groups in his *Haravijaya*, written in c. 830 CE. Śaṅkara also appears to recognise distinctions among groups which perform worship at the “five times” and which venerate the four Vyūha forms of god. **[[91]]
+[^147]: As we have seen above, Rājānaka Ratnākara refers to distinct Pāñcarātra groups in his *Haravijaya*, written in c. 830 CE. Śaṅkara also appears to recognise distinctions among groups which perform worship at the “five times” and which venerate the four Vyūha forms of god. **[[91]]
 
 As we have seen, three of the four Pāñcarātra scriptures which claim the superiority of the JS, SS and PauṣS also mention a “root-Veda” or an “original Veda” 
 
@@ -39,7 +39,7 @@ The type of Pāñcarātrika who adheres to the Mantrasiddhānta is commonly refe
 
 1.76ab\): *mahato vedavṛkṣasya mūlabhūto mahān ayam */. – “This \[Ekāyanaveda\] is the main root of the great Veda-tree”; ŚrīprśS 2.38ab: *vedam ekāyanam nāma vedānāṃ śirasi sthitam */. – “The Veda named Ekāyana is situated at the head of the Vedas”. 
 
-149 I have referred to the claim that the SS, PauṣS and JS are the superior Pāñcarātra scriptures as the 
+[^149]: I have referred to the claim that the SS, PauṣS and JS are the superior Pāñcarātra scriptures as the 
 
 “three jewels doctrine” for ease of exposition, though it should not obscure the fact that these texts are not referred to as the “three jewels” in any extant Āgamasiddhānta source. [[92]]
 
@@ -55,9 +55,9 @@ The division between those Vaiṣṇavas who “mix” a Pāñcarātrika system 
 
 ‘Mantrasiddhānta’ contained in such texts as the PādS and the PārS appear to offer 150 The designation “mixed worshipper” \( *vyāmiśrayājin*\) does not only refer to worshippers who perform both Pāñcarātrika and Vedic rites. In the PārS, for instance, it is used more generally to denote *all* followers of the “mixed dharma” \( *miśradharma*\), which is the PārS’s name for the Vedas. 
 
-151 The “mixed” Vaiṣṇavas, who are described as *traividya*, are here associated with the *aṣṭākṣara* mantra, and the “pure” Vaiṣṇavas, who follow the Ekāyanaveda, with the *dvādaśākṣara * mantra. Colas \(1990: 26\) reports that the Vaikhānasa work *Kriyādhikāra* also divides the Pāñcarātra into *miśra* and *śuddha* sub-groups and that, according to the *Yajñādhikāra*, the latter has no *vedamaryādā*. 
+[^151]: The “mixed” Vaiṣṇavas, who are described as *traividya*, are here associated with the *aṣṭākṣara* mantra, and the “pure” Vaiṣṇavas, who follow the Ekāyanaveda, with the *dvādaśākṣara * mantra. Colas \(1990: 26\) reports that the Vaikhānasa work *Kriyādhikāra* also divides the Pāñcarātra into *miśra* and *śuddha* sub-groups and that, according to the *Yajñādhikāra*, the latter has no *vedamaryādā*. 
 
-152 However, according to Vedāntadeśika \(PRR 30.18 *ff*\) the *Śrīkarasaṃhitā* associates *itself* with the 
+[^152]: However, according to Vedāntadeśika \(PRR 30.18 *ff*\) the *Śrīkarasaṃhitā* associates *itself* with the 
 
 ‘Purāṇasiddhānta’. The PRR \(31.1-2\) quotes this text thus: *etat purāṇasiddhāntaṃ śrīkaraṃ ca viśeṣataḥ*
 
@@ -77,9 +77,9 @@ It is notable that of the eight Pāñcarātra scriptures that contain, or are sa
 
 *tadanantaram *// *tantraṃ tantrāntaraṃ ceti caturdhā parikīrtitam *//. – “The tradition named Pañcarātra is split into various divisions \( *bheda*\). The first is the Āgama, and after that there is the one called Mantra, the Tantra, and the Tantrāntara. Thus it is said to be fourfold.” 
 
-154 See BhT 22.87-93b, and BhT 24.19-20 \(← PādS *cp* 21.36, 37cd, 38ab\), BhT 24.25-27b \(← PādS *cp* 21.53-54b, 38c-39b\). 
+[^154]: See BhT 22.87-93b, and BhT 24.19-20 \(← PādS *cp* 21.36, 37cd, 38ab\), BhT 24.25-27b \(← PādS *cp* 21.53-54b, 38c-39b\). 
 
-155 See e.g. ŚrīprśS 16.32-34b: *tantrāntare tv āgame ca siddhānte tantrasaṃjñike */ *teṣu* *pūjāpravṛttānāṃ dīkṣā nirbījasaṃjñikā *// *anyeṣāṃ dīkṣākaraṇe teṣām anadhikāritā */ *ato nirbīja ity* *uktā vidvadbhiḥ kamalekṣaṇe *// *sabījaṃ mantrasiddhāntadīkṣākramam udīryate */. – “For those engaged in worship according to the Tantrāntara, the Āgama and the Siddhānta called Tantra, the initiation is called ‘without seed’. For them there is no entitlement to perform the intiation of others. 
+[^155]: See e.g. ŚrīprśS 16.32-34b: *tantrāntare tv āgame ca siddhānte tantrasaṃjñike */ *teṣu* *pūjāpravṛttānāṃ dīkṣā nirbījasaṃjñikā *// *anyeṣāṃ dīkṣākaraṇe teṣām anadhikāritā */ *ato nirbīja ity* *uktā vidvadbhiḥ kamalekṣaṇe *// *sabījaṃ mantrasiddhāntadīkṣākramam udīryate */. – “For those engaged in worship according to the Tantrāntara, the Āgama and the Siddhānta called Tantra, the initiation is called ‘without seed’. For them there is no entitlement to perform the intiation of others. 
 
 Thus it is called ‘without seed’ by the learned, O lotus-eyed. \[Conversely\] the method of initiation in the Mantrasiddhānta is called ‘with seed’.” [[94]]
 
@@ -95,9 +95,9 @@ In several places in the ŚrīprśS \(e.g. at 2.38 *ff*, 16.20 and 16.34\), the 
 
 ‘Ekāyana’ and ‘Ekāyanaveda’ are used to refer to the Pāñcarātra tradition and the Pāñcarātra teaching in general.158 On each of these occasions, the Vedas are referred to in the same verse - once in order to accord the Ekāyanaveda the higher authority \(2.38ab: *vedam ekāyanaṃ nāma vedānāṃ śirasi sthitam*\), and in the other two 156 These are listed by Padmanabhan \(1969\) in the appendix to the ŚrīprśS. 
 
-157 ŚrīprśS 16.34: *sabījaṃ mantrasiddhāntadīkṣākramam udīryate */ *caturvedoktamantraiś ca mantrair* *ekāyanasthitaiḥ *//. – “\[Conversely\] the method of initiation in the Mantrasiddhānta is called ‘with seed’. \[It is performed\] with mantras enunciated in the four Vedas and with mantras contained in the Ekāyana.” ****
+[^157]: ŚrīprśS 16.34: *sabījaṃ mantrasiddhāntadīkṣākramam udīryate */ *caturvedoktamantraiś ca mantrair* *ekāyanasthitaiḥ *//. – “\[Conversely\] the method of initiation in the Mantrasiddhānta is called ‘with seed’. \[It is performed\] with mantras enunciated in the four Vedas and with mantras contained in the Ekāyana.” ****
 
-158 The “Veda named Ekāyana” is also mentioned at ŚrīprśS 23.185a, though in this instance its precise referent is not clear. [[95]]
+[^158]: The “Veda named Ekāyana” is also mentioned at ŚrīprśS 23.185a, though in this instance its precise referent is not clear. [[95]]
 
 instances to place the Ekāyanaveda and the Vedas on an equal footing. In each of these examples, the idea of the ‘Ekāyanaveda’ appears to be employed as a means of establishing the authority of the Pāñcarātra tradition, but only in the first instance \(i.e. 
 
@@ -111,9 +111,9 @@ borrows quite freely, and also the BhT.160 Other apparent borrowings from Āgama
 
 “eternal, like the Veda” \( *vedavan nityam*\). 
 
-159 See especially the Mantrasiddhāntin author’s description of the Āgamasiddhānta at PādS *cp* 21.30-54b. 
+[^159]: See especially the Mantrasiddhāntin author’s description of the Āgamasiddhānta at PādS *cp* 21.30-54b. 
 
-160 On the use of this terminology in the PārS see Rastelli \(2006: 163-166\). Rastelli shows that the PārS 
+[^160]: On the use of this terminology in the PārS see Rastelli \(2006: 163-166\). Rastelli shows that the PārS 
 
 borrows these terms from the *Nārāyaṇīya*, but modifies their meaning so that “*pravṛtti * ist eine \(rituelle\) Tätigkeit mit dem Zweck, die Erfüllung von Wünschen zu erlagen \[und\] *nivṛtti * ist eine \(rituelle\) Tätigkeit, die ohne jegliches Begehren durchgeführt wird…” \(ibid: 166\). Following the *Nārāyaṇīya*, PārS 1.45c *ff* associates *pravṛtti * with the Vedas, and *nivṛtti * with its own teaching \(which is, for the PārS, the Ekāyanaveda\). The PādS \( *cp* 19.117a, 21.35c\), meanwhile, describes the “renunciation of action” 
 
@@ -129,7 +129,7 @@ Although we cannot be sure of the “sectarian” identity of the author of this
 
 1.77 and ĪS 1.25, but also from the fact that the section of the ŚrīprśS in which they are found is replete with borrowings from Āgamasiddhānta sources.161 
 
-161 See for example: ŚrīprśS 49.446cd ↔ ĪS 19.103ab; ŚrīprśS 49.448cd ↔ ĪS 19.93ab; ŚrīprśS 
+[^161]: See for example: ŚrīprśS 49.446cd ↔ ĪS 19.103ab; ŚrīprśS 49.448cd ↔ ĪS 19.93ab; ŚrīprśS 
 
 49.454abc ↔ ĪS 19.100c-101a; ŚrīprśS 49.457a ↔ ĪS 19.104c; ŚrīprśS 49.464-466a ↔ PārS 19.496-498a → ĪS 19.117c-119c; ŚrīprśS 49.475-476b ↔ PārS 15.928c-929 → ĪS 19.67-68b; ŚrīprśS 49.476c-479b ↔ PārS 19.545-547 → ĪS 21.582c-584; ŚrīprśS 49.481-483b ↔ PārS 10.329-331b → ĪS 23.45c-47; ŚrīprśS 49.486abc ↔ ĪS 19.121abc; ŚrīprśS 49.487a ↔ ĪS 19.123a. It is possible, of course, that the ŚrīprśS borrowed these verses from another work. It should also be noted that close variants of PārS 
 
@@ -141,13 +141,13 @@ Why should the ŚrīprśS, a work which seems to have been authored by Mantrasid
 
 That the PādS should contain a passage wherein an apparently non-Āgamasiddhāntin author invokes the Ekāyanaveda might appear somewhat surprising given that in this work’s descriptions of the Pāñcarātra Siddhāntas \(see especially PādS *cp* 21.30-54b\), the Ekāyanaveda is explicitly associated *only* with the 162 See, for example, PRR 4.5-18 \(← ĀP 169.7-170.11\). The ŚrīprśS is not quoted by Vedāntadeśika, and thus may well succeed him. 
 
-163 There are passages in the PādS which do appear to have been authored by Āgamasiddhāntins, most notably in the first chapter of the Caryāpāda. 
+[^163]: There are passages in the PādS which do appear to have been authored by Āgamasiddhāntins, most notably in the first chapter of the Caryāpāda. 
 
-164 See PādS *cp* 13.67-70b: *ṛco yajūṃṣi sāmāni bhidyamānāny anekadhā *// *śākhābhedair mūlaśākhām* *ekāyanasamāśrayām */ *trayīmayīm adhīyīta sukhāsīnas samāhitaḥ *// *anyais sārdham adhīyānaiṣ*
+[^164]: See PādS *cp* 13.67-70b: *ṛco yajūṃṣi sāmāni bhidyamānāny anekadhā *// *śākhābhedair mūlaśākhām* *ekāyanasamāśrayām */ *trayīmayīm adhīyīta sukhāsīnas samāhitaḥ *// *anyais sārdham adhīyānaiṣ*
 
 *ṣaḍaṅgeṣu ca kovidaiḥ */ *adhyāpayīta vā śiṣyān śāstrāṇi vividhāni ca *// *itihāsapurāṇāni dharmaśāstrāṇi vā punaḥ */. 
 
-165 See especially the injunction to perform the Vaiśvadeva ritual at home following the recitation of the **
+[^165]: See especially the injunction to perform the Vaiśvadeva ritual at home following the recitation of the **
 
 *Jitaṃtestotra*. This act completes the performance of the five “great sacrifices” \( *mahāyajña*\), which should be undertaken according to one’s Gṛhyasūtra. PādS * cp* 13.64 reads: *iti vijñāpya deveśaṃ*
 
@@ -161,11 +161,11 @@ In the opening chapter of the ŚrīpurS, the sage Vasiṣṭha presents the desi
 
 *Pāṭhaḥ* to which I shall turn shortly, there is no mention of distinct Pāñcarātra Siddhāntas in this work. However, the two contrasting Pāñcarātrika modes of self-description sit rather uneasily alongside each other in the ŚrīpurS. Thus, the Ekāyana claim that “this is the main root of the great Veda tree - the Ṛc etc. are its trunk and 166 ŚrīpurS 1.11 *ff*. See also ŚrīpurS 22.57c-59b \(← PādS *cp* 2.87c-88, quoted above\): *sa eva sūris suhṛt* *sāttvataḥ pāñcarātravit *// *ekāntikas *\( *ekāṃtikas*\) * tanmayaś ca deśiko dīkṣito ’rcakaḥ */ *gurur* *bhāgavataś caiva pūjakas sādhako hariḥ *// *bhaṭṭārakādir ākhyābhir ākhyeyaḥ kamalāsana */. 
 
-167 ŚrīpurS 1.3cd ← PādS *jp* 1.14ab; ŚrīpurS 1.6cd ← PādS *jp* 1.32ab; ŚrīpurS 1.10cd ← ĪS 1.18cd; ŚrīpurS 1.12 ← ĪS 1.19 \(← PārS 1.57c-58b\); ŚrīpurS 1.14-15 ← ĪS 1.24-25 \(cf. PārS 1.76-77\); ŚrīpurS 
+[^167]: ŚrīpurS 1.3cd ← PādS *jp* 1.14ab; ŚrīpurS 1.6cd ← PādS *jp* 1.32ab; ŚrīpurS 1.10cd ← ĪS 1.18cd; ŚrīpurS 1.12 ← ĪS 1.19 \(← PārS 1.57c-58b\); ŚrīpurS 1.14-15 ← ĪS 1.24-25 \(cf. PārS 1.76-77\); ŚrīpurS 
 
 1.18-19b ← PādS *jp* 1.63-64b; ŚrīpurS 1.25-26 ← PādS *jp* 1.90-91; ŚrīpurS 1.27ab ← PādS *jp* 1.96cd; ŚrīpurS 1.28-29 ← PādS *jp* 1.97-98. Additionally, the first chapter of the ŚrīpurS shares a noteworthy parallel verse, explaining the meaning of the term “Pāñcarātra”, with the *Mārkaṇḍeyasaṃhitā* \(MārkS\): ŚrīpurS 1.6c-7b ↔ MārkS 1.22c-23b. The MārkS may be more or less contemporary with the ŚrīpurS, though there are several clues that it is the earlier of the two works. 
 
-168 See ŚrīpurS 1.29ab: *śatam ekam athāṣṭau ca tantre ’smin viditaṃ mayā */. – “In this system \( *tantre*
+[^168]: See ŚrīpurS 1.29ab: *śatam ekam athāṣṭau ca tantre ’smin viditaṃ mayā */. – “In this system \( *tantre*
 
 *’smin*\), 108 \[Tantras\] are known by me.” Cf. PādS *jp* 1.98ab. [[99]]
 
@@ -187,7 +187,7 @@ Thus, the apparently Mantrasiddhāntin author of the *Adhikaḥ Pāṭhaḥ* has
 
 “Pāñcarātra canon”, of bringing together “canonical” systems from distinct Pāñcarātra traditions with the aim of subsuming them into a “single” tradition. This integrative strategy is a clear development from the Mantrasiddhāntin appropriation of the 169 ŚrīpurS 1.14: *mahato vedavṛkṣasya mūlabhūto mahān ayam */ *ṛgādyāḥ skandhabhūtās te* *śākhābhūtāś ca yoginaḥ *//. 
 
-170 ŚrīpurS 1.26c-27a: *śrutimūlam idaṃ tantraṃ pramāṇaṃ kalpasūtravat *// *vedāc chāstraṃ paraṃ*
+[^170]: ŚrīpurS 1.26c-27a: *śrutimūlam idaṃ tantraṃ pramāṇaṃ kalpasūtravat *// *vedāc chāstraṃ paraṃ*
 
 *nāsti.. *. /. [[100]]
 
@@ -197,15 +197,15 @@ The inclusion of a canonical list of Pāñcarātra scriptures, which is found at
 
 Finally, I should mention a rather interesting list of Pāñcarātra Saṃhitās, which may be relatively early, and is quite distinct in its content from other lists. I refer to that found in the Śaiva *Śrīkaṇṭhī*, also known as the *Śrīkaṇṭhīyasaṃhitā*, a fragment of which was discovered by Alexis Sanderson in a manuscript of a Kashmirian ritual manual called the *Nityādisaṃgraha*. An unedited transcript of this fragment appears in the appendices of Hanneder \(1998\). The *Śrīkaṇṭhī*, which is quoted by Kṣemarāja \(c. 
 
-171 ŚrīprśS 49.479ab ↔ PārS 19.547cd → ĪS 21.584cd. 
+[^171]: ŚrīprśS 49.479ab ↔ PārS 19.547cd → ĪS 21.584cd. 
 
-172 The *Viṣṇutantra*, a late, unpublished Pāñcarātra text, lists 141 scriptures according to Schrader \(1916: 5\), and 154 scriptures according to Parampurushdas and Shrutiprakashdas \(2002: 55\). 
+[^172]: The *Viṣṇutantra*, a late, unpublished Pāñcarātra text, lists 141 scriptures according to Schrader \(1916: 5\), and 154 scriptures according to Parampurushdas and Shrutiprakashdas \(2002: 55\). 
 
-173 As Schrader \(1916\) has pointed out, the number 108 should be read as symbolic, reflecting as it does numerical conventions such as the enumeration of 108 Upaniṣads. 
+[^173]: As Schrader \(1916\) has pointed out, the number 108 should be read as symbolic, reflecting as it does numerical conventions such as the enumeration of 108 Upaniṣads. 
 
-174 The * Kapiñjalasaṃhitā* \(1.14b-27\) names 100 titles; in a very similar list \(see Smith 1975\), the *Bhāradvājasaṃhitā* \(1.8b-22a\) names 103; the ŚrīpurS \(1.30-44a\) names 105; the MārkS \(1.43-59\) names 91. 
+[^174]: The * Kapiñjalasaṃhitā* \(1.14b-27\) names 100 titles; in a very similar list \(see Smith 1975\), the *Bhāradvājasaṃhitā* \(1.8b-22a\) names 103; the ŚrīpurS \(1.30-44a\) names 105; the MārkS \(1.43-59\) names 91. 
 
-175 ViśS 2.34: *eteṣāṃ granthasaṃkhyā ca śatakoṭipramāṇataḥ */ *yugakramavaśād vipra vṛddhiṃ*
+[^175]: ViśS 2.34: *eteṣāṃ granthasaṃkhyā ca śatakoṭipramāṇataḥ */ *yugakramavaśād vipra vṛddhiṃ*
 
 *hrāsaṃ ca gacchati *//. [[101]]
 
@@ -221,10 +221,10 @@ Although in South Indian works ‘Pāñcarātra’ gradually became the standard
 
 *ṣoḍaśādhikam eva ca */ *viṣṇunā kathitaṃ devi pañcakālanidarśanam *//. 
 
-177 On the provenance and probable date of this text see Gonda \(1977: 55\), Rajan \(1981: 34\), and Rastelli \(2007: 190\). 
+[^177]: On the provenance and probable date of this text see Gonda \(1977: 55\), Rajan \(1981: 34\), and Rastelli \(2007: 190\). 
 
-178 *Hayaśīrṣapañcarātra* *ādikāṇḍa* 2.1-10. This text is not available to me. See Smith \(1975: 553\) on the 25 original Tantras listed. Interestingly, neither the JS nor the SS feature among these. 
+[^178]: *Hayaśīrṣapañcarātra* *ādikāṇḍa* 2.1-10. This text is not available to me. See Smith \(1975: 553\) on the 25 original Tantras listed. Interestingly, neither the JS nor the SS feature among these. 
 
-179 The *Svacchandatantra* \(5.44c\) provides a notable exception here. [[102]]
+[^179]: The *Svacchandatantra* \(5.44c\) provides a notable exception here. [[102]]
 
 judgement that these works were composed in or around Kashmir before the middle of the tenth century, then we would surely expect their inclusion. 

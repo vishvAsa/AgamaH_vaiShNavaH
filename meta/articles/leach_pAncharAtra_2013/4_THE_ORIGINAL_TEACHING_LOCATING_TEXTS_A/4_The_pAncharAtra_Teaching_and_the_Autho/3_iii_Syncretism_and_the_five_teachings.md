@@ -11,21 +11,21 @@ sectarian religious context, this attitude of “inclusivism” or “tolerance�
 
 Rāmānuja’s attitude towards the other traditions listed in the *Nārāyaṇīya* is more ambiguous. On occasion in his *Śrībhāṣya*, for example, Rāmānuja unequivocally rejects the world-view \( *darśana*\) of the Sāṃkhyas, which he condemns as being “opposed to the Veda” \( *vipratiṣiddhaṃ vedam*, *Śrībhāṣya * on *sūtra* 2.2.9\). He also lists Kapila among the teachers of false doctrines: “It is said that owing to their falsity and because they are outside the Veda, the doctrines of Kapila, Kaṇāda, the Buddha and the Arhat should be ignored by those who desire the highest good.”272 However, elsewhere Rāmānuja remarks that “the view of Kapila, although it is rejected as contrary to scripture and logic, is \[nonetheless\] accepted in part by Vaidikas, on account of such theories as the pre-existence of the effect in the cause.”273 Rāmānuja also has a rather ambiguous attitude towards the Pāśupatas. In his comments on *sūtra* s 2.2.35-38, which draw heavily on Yāmuna’s ĀP \(91.14 *ff*\), 268 See Granoff \(1992: 287 n. 5\), who writes: “On the basis of a limited acquaintance with the Pāñcarātra, I would suspect that the tolerance for other groups displayed in the Northern Śaiva Tantras is not a feature of the Pāñcaratra, which is far more typical of medieval Indian religion in its hostility to the scripture of other groups.” 
 
-269 *Svacchandatantra* 5.44c-45b: *sāṃkhyaṃ yogaṃ pāñcarātraṃ vedāṃś caiva na nindayet *// *yataḥ*
+[^269]: *Svacchandatantra* 5.44c-45b: *sāṃkhyaṃ yogaṃ pāñcarātraṃ vedāṃś caiva na nindayet *// *yataḥ*
 
 *śivodbhavāḥ sarve hy apavargaphalapradāḥ */. 
 
-270 TĀ 35.36. Abhinavagupta \(TĀ 35.30-37\) argues that the single tradition called ‘Kula’ presents itself in various ways in accordance with the diversity among its followers. 
+[^270]: TĀ 35.36. Abhinavagupta \(TĀ 35.30-37\) argues that the single tradition called ‘Kula’ presents itself in various ways in accordance with the diversity among its followers. 
 
-271 ĀP 98.5-7: *tathā tatraiva bhagavān rudraḥ prastutaśaivādyāgamānāṃ svayam eva vedabāhyatvaṃ*
+[^271]: ĀP 98.5-7: *tathā tatraiva bhagavān rudraḥ prastutaśaivādyāgamānāṃ svayam eva vedabāhyatvaṃ*
 
 *vedamārgāpabhraṣṭajanādhikāritvaṃ tad vyāmohaikaprayojanatāṃ ca darśayati*. 
 
-272 *Śrībhāṣya* on *sūtra* 2.2.35 \(327.22-23\): *kapilakaṇādasugatārhatamatānām asāmañjasyāt *\(corr. 
+[^272]: *Śrībhāṣya* on *sūtra* 2.2.35 \(327.22-23\): *kapilakaṇādasugatārhatamatānām asāmañjasyāt *\(corr. 
 
 *asāmaṃjasyāt*\) *vedabāhyatvāc ca niśśreyasārthibhir anādaraṇīyatvam uktam.*
 
-273 *Śrībhāṣya* on *sūtra* 2.2.16 \(315.19-20\): *kapilapakṣasya śrutinyāyavirodhaparityaktasyāpi* *satkāryavādādinā kvacid aṃśe vaidikaiḥ parigraho ’sti.*[[163]]
+[^273]: *Śrībhāṣya* on *sūtra* 2.2.16 \(315.19-20\): *kapilapakṣasya śrutinyāyavirodhaparityaktasyāpi* *satkāryavādādinā kvacid aṃśe vaidikaiḥ parigraho ’sti.*[[163]]
 
 the doctrine of Paśupati \( *paśupatimata*\) is denounced as being contrary to the Veda \( *vedaviruddha*, e.g. at *Śrībhāṣya * 329.11-12\), and akin to the doctrines of Kapila and Kaṇāda et al., insofar as it is false \( *asāmañjasya*\) and to be ignored \( *anādaraṇīya*, *Śrībhāṣya* 327.23-328.1\). Here, the followers of Paśupati are criticised both for their theological and soteriological teachings, and for their religious practices. However, in his comments on *sūtra * 2.2.42, wherein the validity of the Pañcarātra system \( *tantra*\) is argued for, and the *Nārāyaṇīya* appealed to on several occasions, Rāmānuja approaches the Pāśupata, as well as Sāṃkhya and Yoga, with a different perspective.274 Thus, quoting the aforementioned MBh 12.336.76, Rāmānuja explains that Sāṃkhya, Yoga, the Vedas and the Āraṇyakas all constitute “the one Pañcarātra”, and that they are all devoted to propounding a single truth.275 Rāmānuja elaborates on this claim as follows: 
 
@@ -51,7 +51,7 @@ the doctrine of Paśupati \( *paśupatimata*\) is denounced as being contrary to
 
 ‘Sāṃkhya’ of the *Sāṃkhyakārikā * and its commentaries. 
 
-275 *Śrībhāṣya* \(334.16-18\): *sāṅkhyaṃ ca yogaś ca sāṅkhyayogam, vedāś cāraṇyakāni ca* *vedāraṇyakam, parasparāṅgāny etāni, ekatattvapratipādanaparatayaikībhūtāni ekaṃ paṃcarātram* *iti kathyate*. Note that Rāmānuja takes *vedāraṇyakam* here to be a *samāhāradvandva* compound. As is indicated in my above reading of MBh 12.336.76, I take *vedāraṇyakam* in the *Nārāyaṇīya* to be a *tatpuruṣa* compound. This, I believe, is supported by MBh 12.331.2-3, where we find \(at 3c\) a reference to “the Āraṇyaka from the Vedas” \( *āraṇyakaṃ ca vedebhyaḥ*\). The context here implies that the Āraṇyaka is the best part of the Vedas. [[164]]
+[^275]: *Śrībhāṣya* \(334.16-18\): *sāṅkhyaṃ ca yogaś ca sāṅkhyayogam, vedāś cāraṇyakāni ca* *vedāraṇyakam, parasparāṅgāny etāni, ekatattvapratipādanaparatayaikībhūtāni ekaṃ paṃcarātram* *iti kathyate*. Note that Rāmānuja takes *vedāraṇyakam* here to be a *samāhāradvandva* compound. As is indicated in my above reading of MBh 12.336.76, I take *vedāraṇyakam* in the *Nārāyaṇīya* to be a *tatpuruṣa* compound. This, I believe, is supported by MBh 12.331.2-3, where we find \(at 3c\) a reference to “the Āraṇyaka from the Vedas” \( *āraṇyakaṃ ca vedebhyaḥ*\). The context here implies that the Āraṇyaka is the best part of the Vedas. [[164]]
 
 follows\]: they explain the principles \[of Sāṃkhya\] as having *brahman* as their nature, Yoga as a method of meditation upon *brahman*, and the rites \[of the Veda\] as consisting of the worship of *that* \(i.e. *brahman*\). This, indeed, has been explained by Nārāyaṇa, himself the supreme *brahman*, in the Pañcarātra system. 
 
@@ -65,7 +65,7 @@ The claim in the *Nārāyaṇīya*, the AS and the LT that Nārāyaṇa or Lak�
 
 “sectarian” re-reading of other soteriological systems, and can be justly interpreted as an attempt to include and thereby subordinate these alternative paths within an all-encompassing Vaiṣṇava *dharma*. A very similar strategy, albeit one without any obvious link to the *Nārāyaṇīya*, can be found in a short passage of the JS.277 It is 276 *Śrībhāṣya * on *sūtra* 2.2.42 \(334.5-6\): * tattantrābhihitapradhānapuruṣapaśupatiprabhṛtitattvasya* *vedāntavedyaparabrahmabhūtanārāyaṇātmakatayaiva *\[corr. *nārāyaṇatmakatayaiva*\] * vastutvam* *abhyupagamanīyam*. 
 
-277 JS 4.114c-118b: *anekābhiś ca saṃjñābhis tam avyayam upāsate *// *īśvaratvena viprendra* *puruṣatvena caiva hi */ *śivasūryātmakatvena somatvena tathaiva ca *// *agnīṣomātmakatvena* *śabdatvenāpi vai punaḥ */ *jyotirjñānātmakatvena kālatvena ca nārada *// *jīvakṣetrātmakatvena* *bhūtātmatvena vai tathā */ *evam ekaḥ paro devo nānāśaktyātmarūpadhṛt *// *nārāyaṇaḥ paraṃ*[[165]]
+[^277]: JS 4.114c-118b: *anekābhiś ca saṃjñābhis tam avyayam upāsate *// *īśvaratvena viprendra* *puruṣatvena caiva hi */ *śivasūryātmakatvena somatvena tathaiva ca *// *agnīṣomātmakatvena* *śabdatvenāpi vai punaḥ */ *jyotirjñānātmakatvena kālatvena ca nārada *// *jīvakṣetrātmakatvena* *bhūtātmatvena vai tathā */ *evam ekaḥ paro devo nānāśaktyātmarūpadhṛt *// *nārāyaṇaḥ paraṃ*[[165]]
 
 notable that, unlike Rāmānuja, both the AS and the LT include Buddhist and Jain traditions, and also the Cārvākas or Lokāyatas within their inclusive framework: *sa eva sarvabhūtānāṃ sraṣṭā pālayitāntakaḥ */ *sa eva śivarūpeṇa śaivair* *ārādhyate prabhuḥ *// *sa eva brahmarūpeṇa sṛjaty etac carācaram */ *sa eva* *pālayaty etad viṣṇur bhūtvā janārdanaḥ *// *sa eva rudrarūpeṇa saṃharaty* *akhilaṃ jagat */ *buddhātmanā ca bauddhānāṃ sa eva jagati sthitaḥ *// *sa* *evāśāmbarāṇāṃ* \(corr. *eva śāmbarāṇāṃ*\) * ca nirāvaraṇarūpadhṛt */ *sa eva* *cārvākamate*
 
@@ -129,7 +129,7 @@ or “engaging” \( *pravartakakarman*\), which is said to lead to fruits such 
 
 “turning away” or “disengaging”, and is said to lead to liberation \( *mokṣa*\) \(AS 31.13-278 For Hacker \(1995: 244\), “inclusivism” consists “in claiming for, and thus including in, one’s own religion what really belongs to an alien sect”. Halbfass \(1995: 11\) further characterises Hacker’s notion of inclusivism as “a subordinating identification of other teachings with parts or preliminary stages of one’s own religious system, which is thus presented as a superior structure”. 
 
-279 AS 7.1: *anyūnānatiriktaṃ yad guṇasāmyaṃ tamomayam */ *tat sāṃkhyair jagato mūlaṃ prakṛtiś* *ceti kathyate *//. [[167]]
+[^279]: AS 7.1: *anyūnānatiriktaṃ yad guṇasāmyaṃ tamomayam */ *tat sāṃkhyair jagato mūlaṃ prakṛtiś* *ceti kathyate *//. [[167]]
 
 14\). The eight limbs \( *aṣṭāṅga*\) of Yoga, by which the individual self \( *jīvātman*\) achieves conjunction \( *saṃyoga*\) with the supreme self \( *paramātman*\) \(AS 31.15\), are then described in detail \(AS 31.18-32.76\). These are the same eight limbs we find enumerated in the *Yogasūtra*, though the descriptions of each one differ here. At the end of the AS, the author claims to have “reflected thoroughly on the methods of Sāṃkhya and Yoga”.280 The LT, meanwhile, adopts a similar position with regard to these traditions, and frequently legitimates both as effective soteriological methods alongside the Pāñcarātra and the Veda \(e.g. LT 13.12-13b, 15.17, 17.9-13, 32.17\). 
 
@@ -141,11 +141,11 @@ However, it is notable that at AS 11.45ab the five powers \( *śaktipañcaka*\) 
 
 Elsewhere, at the end of the presentation of the five teachings which have evolved out of the original teaching \( *ādiśāstra*\), it is said that Sudarśana, having divided himself into five, has “five faces” \( *pañcavaktragaḥ*\).282 This is a very common epithet of Śiva. Though it is also applied to Viṣṇu elsewhere in the Pāñcarātra 280 AS 60.17ab: *sāṃkhyayogavidhir yatra kārtsnyena paricintyate */. Cf. the final *śloka* of the *Nārāyaṇīya* \(MBh 12.339.21\), in which Brahmā claims to have answered the preceding questions in conformity with Sāṃkhya and Yoga: *etat te kathitaṃ putra yathāvad anupṛcchataḥ */ *sāṃkhyajñāne* *tathā yoge yathāvad anuvarṇitam *//. 
 
-281 The association of the doctrine of the “three impurities” with the Pāśupata is also made at AS 
+[^281]: The association of the doctrine of the “three impurities” with the Pāśupata is also made at AS 
 
 55.13-14. 
 
-282 AS 11.64c-65b: *sudarśanāhvayo yo ’sau saṃkalpo vaiṣṇavaḥ paraḥ *// *sa svayaṃ bibhide tena* *pañcadhā pañcavaktragaḥ */. [[168]]
+[^282]: AS 11.64c-65b: *sudarśanāhvayo yo ’sau saṃkalpo vaiṣṇavaḥ paraḥ *// *sa svayaṃ bibhide tena* *pañcadhā pañcavaktragaḥ */. [[168]]
 
 literature, in these texts god is more frequently characterised as having *four* faces, corresponding to his four Vyūha forms. In another passage, the highest principles of the Pāśupata doctrine, as well as those of Sāṃkhya and Yoga, are said to be denoted by the *praṇava* *oṃ*, which refers at the same time to Brahmā, Viṣṇu and Śiva \(AS 
 
@@ -193,7 +193,7 @@ The LT does not present itself as a compendium of other Śāstras, or as encompa
 
 Like the AS, the LT draws on the non-dual philosophy of Kashmirian Śaiva traditions, wherein “reality” is viewed as nothing but the unbounded, dynamic consciousness of Śiva. The AS and the LT’s markedly tolerant and inclusive approach to other religious systems can be seen in many ways as the inevitable consequence of such a philosophy, for all teachings must be admitted as ultimately deriving from the same source.285 Thus, the nominal inclusion, as we have seen, of even Buddhist, Jain and Cārvaka or Lokāyata traditions, and the LT’s claim, when speaking of Śāstra, that “the supreme good is accessible everywhere”: 284 LT 40.118-119a: *evaṃ yo vartate yogī tārikāmananodyataḥ */ *sa karmaṭhaḥ sa vai sāṃkhyaḥ sa* *yogī sa ca sāttvataḥ *// *sa ca pāśupato jñeyaḥ*… //. 
 
-285 Non-Saiddhāntika Śaiva philosophers such as Abhinavagupta avoided the potential relativism of the claim that all Śāstras are valid because they are all manifestations of Śiva’s consciousness by employing a variety of arguments which attempted to justify the ordering of God’s revelation into a hierarchy \(see e.g. Hanneder 1998\). There is no such systematic presentation in the AS or the LT. [[170]]
+[^285]: Non-Saiddhāntika Śaiva philosophers such as Abhinavagupta avoided the potential relativism of the claim that all Śāstras are valid because they are all manifestations of Śiva’s consciousness by employing a variety of arguments which attempted to justify the ordering of God’s revelation into a hierarchy \(see e.g. Hanneder 1998\). There is no such systematic presentation in the AS or the LT. [[170]]
 
 *divyaśāstrāṇy adhīyita nigamāṃś caiva vaidikān */ *sarvān anucaret samyak* *siddhāntān ātmasiddhaye *// *alolupena cittena rāgadveṣavivarjitaḥ */ *na ninden* *manasā vācā śāstrāṇy uccāvacāny api *// *tāvan mātrārtham ādadyād yāvatā hy* *artha ātmanaḥ */ *bhūtānāṃ śreyase sarve sarvaśāstrāṇi tanvate *// … / … // 
 
@@ -215,23 +215,23 @@ alongside, in one case fourteen \(VDhP 1.74.32-35b\), and in another case eighte
 
 \( *sottarā vaiṣṇavā dharmās sāram etat prakīrtitam*, VDhP 1.74.35cd\). In other words, the VDhP, like the AS, presents itself here as the summation of the entire available breadth of “authentic” knowledge, and this consists of the traditional branches of learning \( *vidyā*, or elsewhere *vidyāsthāna*\) together with Sāṃkhya, Yoga, Pañcarātra and Pāśupata. The AS \(1.70ab\), recall, claims to be a “union” of these teachings. 
 
-286 Numerous passages from this work are also incorporated into the LT \(see Sanderson 2001: 36 n. 
+[^286]: Numerous passages from this work are also incorporated into the LT \(see Sanderson 2001: 36 n. 
 
 46\). 
 
-287 The SpPr, the printed edition of which runs only to 58 pages, quotes directly from other texts 222 
+[^287]: The SpPr, the printed edition of which runs only to 58 pages, quotes directly from other texts 222 
 
 times, with over 40 different works cited. Bhagavadutpala states in the introductory section that the philosophical viewpoint \( *darśana*\) of the *Spandakārikā*, on which he is commentating, is non-dual \( *advaita*\). This viewpoint is “its own system” \( *idaṃ darśanaṃ svatantram*\), writes Bhagavadutpala, and all Śāstras which teach non-dualism conform with it \( *sarvaśāstrasamudbhūtaṃ*
 
 *cādvaitapratipādakatvaṃ nirbādham eva*, SpPr 6.10-11\). 
 
-288 See Yāmuna’s, Rāmānuja’s, and Vedāntadeśika’s quotation of MBh 12.326.100cd at, respectively, ĀP 107.1-2, *Śrībhāṣya* 333.8-9, and PRR 2.8-10: *idaṃ mahopaniṣadaṃ caturvedasamanvitam */ 
+[^288]: See Yāmuna’s, Rāmānuja’s, and Vedāntadeśika’s quotation of MBh 12.326.100cd at, respectively, ĀP 107.1-2, *Śrībhāṣya* 333.8-9, and PRR 2.8-10: *idaṃ mahopaniṣadaṃ caturvedasamanvitam */ 
 
 *sāṃkhyayogakṛtāntena pañcarātrānuśabditam *//. MBh 12.326.100cd reads: *sāṃkhyayogakṛtaṃ tena* *pañcarātrānuśabditam* //. [[172]]
 
 In the second *khaṇḍa* of the VDhP, four subsidiary Vedas – Itihāsa \(narratives which tell of “the way things were”\), Dhanurveda \(weaponry\), Gandharva \(music, dance and drama\), and Āyurveda \(medicine\) – are added to the list of the fourteen *vidyā* s \(i.e. the four Vedas and six Vedāṅgas, Mīmāṃsā, Nyāya, Dharmaśāstra and Purāṇa\), and named alongside the five “doctrines”.289 The same verses are contained in the *Agnipurāṇa* \(219.57c-61\), and their content is reflected in the 12th chapter of the AS, wherein the chief fields of enquiry and application of the five systems Veda, Sāṃkhya, Yoga, Pañcarātra, and Pāśupata are enumerated, and the Veda is shown to consist of 21 subdivisions \( *bheda*\). Here \(at AS 12.6c-16\), the disciplines of architecture, planning and construction \( *vāstu*\), governance \( *daṇḍanīti*\), and agriculture and commerce \( *vārtā*, though normally *vārttā*\) are added to the eighteen branches of knowledge named in the second *khaṇḍa* of the VDhP.290 The listing in the VDhP of the traditional branches of knowledge alongside the five systems named together in the *Nārāyaṇīya* may well be sufficiently broad in its scope to qualify as a relatively early formulation of the disciplines and traditions which would later collectively be called “Hinduism”. Although the AS’s syncretistic world-view, aiming to incorporate and encapsulate all traditions of “authentic knowledge”, is rare among the scriptural works of the Pāñcarātra, it is not unprecedented in Vaiṣṇava literature. 
 
-289 VDhP 2.22.128-134b: *mahendro malayaḥ sahyaḥ śuktimān ṛkṣavāṃs tathā* / *vindhyaś ca* *pāriyātraś ca sarva* *eva mahīdharāḥ* // *samāgamyābhiṣiñcantu tvām adya vasudhādhipa* / 
+[^289]: VDhP 2.22.128-134b: *mahendro malayaḥ sahyaḥ śuktimān ṛkṣavāṃs tathā* / *vindhyaś ca* *pāriyātraś ca sarva* *eva mahīdharāḥ* // *samāgamyābhiṣiñcantu tvām adya vasudhādhipa* / 
 
 *ṛgvedo’tha yajurvedaḥ* *sāmavedas tathaiva ca* // *atharvavedo vedās tvām abhiṣiñcantu pārthiva* / 
 
@@ -243,4 +243,4 @@ In the second *khaṇḍa* of the VDhP, four subsidiary Vedas – Itihāsa \(nar
 
 *sāṃkhyayogaḥ pañcarātraṃ vedāḥ pāśupataṃ tathā* // *kṛtāntapañcakaṃ *\[corr. *kṛtānnapañcakaṃ*\] *hy* *etac chāstrāṇi vividhāni ca* /. 
 
-290 According to Krishnamacharya \(1986: 106\), the editor of the revised edition of the AS, verses 15-16 are omitted in one manuscript. In these verses *vāstuveda*, *dhanurveda*, *gāndharva* and *āyurveda* are listed as four of the five Upavedas, and it is claimed that there are 21 divisions in total. These verses may be a later interpolation, and they pose something of a problem in that if there are indeed five Upavedas, then Itihāsa and Purāṇa \(at 14a\) must count together as one, but if this is the case then the AS only enumerates 20 divisions as opposed to 21. It is possible that a re-worker may have identified *arthāḥ* at AS 12.13a as referring to the *Arthaśāstra*. [[173]]
+[^290]: According to Krishnamacharya \(1986: 106\), the editor of the revised edition of the AS, verses 15-16 are omitted in one manuscript. In these verses *vāstuveda*, *dhanurveda*, *gāndharva* and *āyurveda* are listed as four of the five Upavedas, and it is claimed that there are 21 divisions in total. These verses may be a later interpolation, and they pose something of a problem in that if there are indeed five Upavedas, then Itihāsa and Purāṇa \(at 14a\) must count together as one, but if this is the case then the AS only enumerates 20 divisions as opposed to 21. It is possible that a re-worker may have identified *arthāḥ* at AS 12.13a as referring to the *Arthaśāstra*. [[173]]
