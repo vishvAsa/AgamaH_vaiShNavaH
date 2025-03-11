@@ -9,7 +9,7 @@ In his *Tantravārttika *\(TV\), on 1.3.4 \(328.14 *ff*\), the sixth century187 
 
 Each of these Kumārila declared “contrary to the triple Veda” \( *trayīviparīta*\), and 
 
-“not accepted by those who know the triple Veda” \( *etāni trayīvidbhir na* *parigṛhītāni*\). Over a century later, the Pāñcarātra tradition’s non-conformity with the Veda was also affirmed by Śaṅkara. In his *Brahmasūtrabhāṣya* \(BSBh\) * * on 2.2.45 
+“not accepted by those who know the triple Veda” \( *etāni trayīvidbhir na* *parigṛhītāni*\). Over a century later, the Pāñcarātra tradition’s non-conformity with the Veda was also affirmed by Śaṅkara. In his *Brahmasūtrabhāṣya* \(BSBh\) on 2.2.45 
 
 \(418.1-5\), Śaṅkara claims that there are a number of doctrinal issues on which the Pañcarātra teaching is in conflict with the Veda \( *vedavipratiṣedha*\). 
 

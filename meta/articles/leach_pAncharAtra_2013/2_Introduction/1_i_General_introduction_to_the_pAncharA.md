@@ -11,7 +11,7 @@ The names *pañcarātra*/ *pāñcarātra* are also used to refer to the large sc
 
 As is attested in the earliest textual sources which refer to the Pāñcarātra, including the *Nārāyaṇīya* section of the *Mahābhārata*, a seventh century stele inscription from Baset in Cambodia \(K. 447\), Śaṅkara’s *Brahmasūtrabhāṣya* \(on *sūtra* 2.2.42\), and the earlier Pāñcarātra Saṃhitās themselves, *pañcarātra* \(i.e. with a short first *a*\) is the older of the two names. The derived term *pāñcarātra*, meaning 
 
-“*pertaining to* or *belonging to* the Pañcarātra”, is occasionally used to refer to the followers of the tradition \(see e.g. Kumārila’s *Tantravārttika*,1 and Rāmakaṇṭha’s 1 On *sūtra* 1.3.4 \(328.16-17\), Kumārila mentions “the treatises \[which are a mixture\] of *dharma * and *adharma* \[that are\] * * accepted by the Sāṃkhyas, Yogas, Pāñcarātras, Pāśupatas, Buddhists and Jains” 
+“*pertaining to* or *belonging to* the Pañcarātra”, is occasionally used to refer to the followers of the tradition \(see e.g. Kumārila’s *Tantravārttika*,1 and Rāmakaṇṭha’s 1 On *sūtra* 1.3.4 \(328.16-17\), Kumārila mentions “the treatises \[which are a mixture\] of *dharma * and *adharma* \[that are\] accepted by the Sāṃkhyas, Yogas, Pāñcarātras, Pāśupatas, Buddhists and Jains” 
 
 \( *sāṃkhyayogapāñcarātrapāśupataśākya*\[ *nir*\] *granthaparigṛhītadharmādharmanibandhanāni*\). [[9]]
 

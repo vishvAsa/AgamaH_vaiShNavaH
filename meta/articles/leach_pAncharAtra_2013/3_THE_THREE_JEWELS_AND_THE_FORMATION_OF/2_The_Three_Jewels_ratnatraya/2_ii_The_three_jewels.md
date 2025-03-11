@@ -19,7 +19,7 @@ The PārS incorporates passages from the *Nārāyaṇīya * section of the *Mah�
 
 “compiler” as Rastelli proposes, clearly also had a close knowledge of each of the 
 
-“three jewels”. Rastelli \(2002: 9\) writes: “\[The\] compiler of the PārS turns to all three of these Saṃhitās with each topic that is also dealt with in one or more of these texts and incorporates in some cases very long passages from them. Some chapters of the PārS consist almost entirely of passages adopted from these three texts.” While there are several apparently earlier Saṃhitās which reveal a close knowledge of one or other of the JS, SS and PauṣS, it would appear that the PārS is one of the earliest extant Pāñcarātra Saṃhitās * * to display a close knowledge of all three texts. 
+“three jewels”. Rastelli \(2002: 9\) writes: “\[The\] compiler of the PārS turns to all three of these Saṃhitās with each topic that is also dealt with in one or more of these texts and incorporates in some cases very long passages from them. Some chapters of the PārS consist almost entirely of passages adopted from these three texts.” While there are several apparently earlier Saṃhitās which reveal a close knowledge of one or other of the JS, SS and PauṣS, it would appear that the PārS is one of the earliest extant Pāñcarātra Saṃhitās to display a close knowledge of all three texts. 
 
 In the PārS’s opening chapter \( *adhyāya*\) the SS, PauṣS and JS are listed together and are said to confer both liberation and “enjoyments” \( *bhoga*\). This is in contradistinction to the “first teaching” \( *prathamaṃ śāstram*\), called here the “secret tradition” \( *rahasyāmnāya*\), which grants liberation only.35 We are told elsewhere in the first chapter that the three Saṃhitās were revealed for the benefit of those who had, from the time of the Tretā Age \( *yuga*\), given up the “supreme *dharma*” \(i.e. the secret tradition\), which refers only to Vāsudeva, and replaced it with a “mixed *dharma*” 
 
@@ -115,7 +115,7 @@ PārS 1.87-88; ĪS 1.50ab ← PārS 1.91ab; ĪS 1.50cd ← PārS 1.19ab; ĪS 1.5
 
 [^42]: ĪS 1.50-51a: *mūlavedānusāreṇa chandasānuṣṭubhena ca* / *sātvataṃ pauṣkaraṃ caiva jayākhyety* *evamādikam* // *divyaṃ sacchāstrajālaṃ*… 
 
-[^43]: These are, respectively, OṂ NAMO * * NĀRĀYAṆĀYA, OṂ NAMO BHAGAVATE 
+[^43]: These are, respectively, OṂ NAMO NĀRĀYAṆĀYA, OṂ NAMO BHAGAVATE 
 
 VĀSUDEVĀYA, and OṂ VIṢṆAVE NAMAḤ. 
 
@@ -155,7 +155,7 @@ called “pervasive” \( *vyāpaka*\): *sarveṣu viṣṇumantreṣu mantrā�
 
 We also find in the ĪS \(1.54-63\) the same passage classifying Pāñcarātra scriptures into three groups \( *divya*, *munibhāṣita*, and *pauruṣa*\) that is contained in the PārS \(10.336-345\), as well as the device of appending itself to one of the three jewels, in this case the SS, the meaning of which the ĪS \(25.213b\) claims to be “illuminating” 
 
-\( *prakāśikā*\). In a passage which is similar to the aforementioned Pārs 1.90, Nārada explains to the sages gathered at the Badarī * * hermitage: *atas sākṣād īśvaroktaśāstrāṇāṃ dvijapuṅgavāḥ* // * sārabhūtaṃ viśeṣeṇa* *sātvatārthopapādakam* / * īśvarākhyam idaṃ tantraṃ sākṣāt saṅkarṣaṇāc chrutam* 
+\( *prakāśikā*\). In a passage which is similar to the aforementioned Pārs 1.90, Nārada explains to the sages gathered at the Badarī hermitage: *atas sākṣād īśvaroktaśāstrāṇāṃ dvijapuṅgavāḥ* // * sārabhūtaṃ viśeṣeṇa* *sātvatārthopapādakam* / * īśvarākhyam idaṃ tantraṃ sākṣāt saṅkarṣaṇāc chrutam* 
 
 // *sampravakṣyāmi*… //. – “Therefore, O best among the twice-born, I will enunciate this tantra called Īśvara, heard directly from Saṅkarṣaṇa, which is the true essence of the teachings which are directly revealed by God, and which presents in particular the meaning of the Sātvata \[Saṃhitā\].” \(ĪS 1.69c-71a\) A ‘Śrīpraśna’ is also mentioned in the canonical list of the PādS \( *jp* 1.101a\) but, like both the PārS and the ĪS, the *Śrīpraśnasaṃhitā *\(ŚrīprśS\) is almost certainly later than the bulk of this text. The chronology proposed by Raghavan \(1969\) places it as roughly contemporary with the ĪS, with the ŚrīprśS likely to be the later of the two works. Like both the PārS and the ĪS, the ŚrīprśS contains substantial derivative portions. It reproduces a significant number of verses verbatim from the ‘Kriyāpāda’ 
 

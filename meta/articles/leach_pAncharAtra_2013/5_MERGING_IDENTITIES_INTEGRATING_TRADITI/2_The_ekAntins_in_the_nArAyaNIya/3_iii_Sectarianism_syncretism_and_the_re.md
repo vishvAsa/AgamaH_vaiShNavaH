@@ -17,9 +17,9 @@ But those whose fuel is burnt up in the world and are \[therefore\] free from me
 
 The precise meaning of these verses is rather obscure, and hinges on how we interpret the reference to the “three paths” \( *gatayas tisro*\) which are not travelled by those who follow the *ekāntadharma*. The syntax in the fourth verse, which contains this reference, is particularly puzzling. Following Nīlakaṇṭha’s commentary,319 
 
-scholars including Ganguli \(2000: 187\), Jaiswal, Gonda \(1970: 54\), Brockington and Sutton \(2000: 114\) have interpreted these “three paths” as referring to three soteriological “stages” represented by the deified Vṛṣṇi heroes * * Aniruddha, Pradyumna and Saṃkarṣaṇa. According to this interpretation, followers of Vāsudeva \(referred to as Puruṣottama at 336.3b\) must pass through each of these three deities before reaching the fourth deity \(i.e. Vāsudeva\), whereas Ekāntins go straight to “the immortal Hari” \(i.e. Nārāyaṇa\). It is quite easy to see how this interpretation has been arrived at, but it is beset with problems which I will address below. 
+scholars including Ganguli \(2000: 187\), Jaiswal, Gonda \(1970: 54\), Brockington and Sutton \(2000: 114\) have interpreted these “three paths” as referring to three soteriological “stages” represented by the deified Vṛṣṇi heroes Aniruddha, Pradyumna and Saṃkarṣaṇa. According to this interpretation, followers of Vāsudeva \(referred to as Puruṣottama at 336.3b\) must pass through each of these three deities before reaching the fourth deity \(i.e. Vāsudeva\), whereas Ekāntins go straight to “the immortal Hari” \(i.e. Nārāyaṇa\). It is quite easy to see how this interpretation has been arrived at, but it is beset with problems which I will address below. 
 
-The claim that *gatayas tisro * designates the deities * * Aniruddha, Pradyumna and Saṃkarṣaṇa is no doubt based on the belief that this passage refers back to MBh 12.332.13-18. Certainly, the four verses translated above represent Janamejaya’s summary of what he has learnt thus far, and so it is entirely appropriate that we should interpret them as referring to teachings which have already been articulated in earlier chapters of the *Nārāyaṇīya*. The only previous account of the Vṛṣṇi deities * * in a soteriological context occurs at 332.13-18. The passage reads as follows: the 319 BhBhD on 12.336.3-4: *caturthyāṃ aniruddhapradyumnasaṃkarṣaṇān apekṣya caturthyāṃ*
+The claim that *gatayas tisro * designates the deities Aniruddha, Pradyumna and Saṃkarṣaṇa is no doubt based on the belief that this passage refers back to MBh 12.332.13-18. Certainly, the four verses translated above represent Janamejaya’s summary of what he has learnt thus far, and so it is entirely appropriate that we should interpret them as referring to teachings which have already been articulated in earlier chapters of the *Nārāyaṇīya*. The only previous account of the Vṛṣṇi deities in a soteriological context occurs at 332.13-18. The passage reads as follows: the 319 BhBhD on 12.336.3-4: *caturthyāṃ aniruddhapradyumnasaṃkarṣaṇān apekṣya caturthyāṃ*
 
 *vāsudevākhyāyāṃ haribhaktānāṃ viśeṣam āha ekāṃtinas tv iti... *\(336.3\) / *gatayaḥ gatīḥ*
 
@@ -79,7 +79,7 @@ We return now to MBh 12.336.1-4. These verses also occur in a context which refe
 
 *phalakāmā hi te matāḥ */ *sarve cyavanadharmāṇaḥ pratibuddhas tu śreṣṭhabhāk *// *brahmāṇaṃ*
 
-*śitikaṇṭhaṃ ca yāś cānyā devatāḥ smṛtāḥ* *prabuddhavaryāḥ sevante māṃ evaiṣyanti yat param *//. * * 
+*śitikaṇṭhaṃ ca yāś cānyā devatāḥ smṛtāḥ* *prabuddhavaryāḥ sevante māṃ evaiṣyanti yat param *//. 
 
 [^324]: Malinar’s \(2007: 132\) translation of these verses in the *Bhagavadgītā* reads as follows: “Four kinds of good men seek my love, Arjuna: the suffering \( *ārta*\), the seeker of knowledge \( *jijñāsu*\), the seeker of wealth \( *arthārthin*\), and the one who knows \(me, *jñānin*\), best of Bhāratas. Among them, the one who knows \(me\) is supreme since his devotion is exclusive and he is always self-controlled”. 
 

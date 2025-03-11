@@ -23,7 +23,7 @@ Before turning to the classifications of different Pāñcarātra groups containe
 
 *bhagavantam eva pratipadyata iti */. – 
 
-> “The unique Bhagavat, Vāsudeva, whose essence is pure knowledge, is the supreme reality. After dividing himself, he is possessed of a fourfold form: the form\[s\] \( *vyūha*\) * * Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha. 
+> “The unique Bhagavat, Vāsudeva, whose essence is pure knowledge, is the supreme reality. After dividing himself, he is possessed of a fourfold form: the form\[s\] \( *vyūha*\) Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha. 
 
 It is said that the Supreme Self is called Vāsudeva, the individual self is called Saṃkarṣaṇa, the mind is called Pradyumna, and the act of self-formulation is called Aniruddha.[^56] Of these, Vāsudeva is the supreme material 
 
@@ -31,23 +31,19 @@ It is said that the Supreme Self is called Vāsudeva, the individual self is cal
 
 cause \( *prakṛti*\), and the others, Saṃkarṣaṇa and so on, are the effect. After worshipping the Bhagavat, the supreme Lord, who is of such a nature \[as described here\] for a thousand years by means of \[the five rites\] approaching god, gathering the materials for worship, worship, textual study and meditation, \[one’s\] pain will be diminished, and one will assuredly attain to the Bhagavat.” \(BSBh 415.5-13\) 
 
-The scheme outlined here, with the *jīva*, *manas * and *ahaṃkāra* personified by, respectively, Saṃkarṣaṇa, Pradyumna and Aniruddha, is the same as that given in a passage of the *Nārāyaṇīya* section of the *Mahābhārata* \(MBh 12.326.20-39\). Śaṅkara attributes it here to the Bhāgavatas, and in his commentary on 2.2.44, he suggests that those who follow the teachings of the Pañcarātra do not subscribe to this theory: *na caite saṃkarṣaṇādayo jīvādibhāvenābhipreyante; kiṃ tarhi, īśvarā evaite* *sarve*
+The scheme outlined here, with the *jīva*, *manas * and *ahaṃkāra* personified by, respectively, Saṃkarṣaṇa, Pradyumna and Aniruddha, is the same as that given in a passage of the *Nārāyaṇīya* section of the *Mahābhārata* \(MBh 12.326.20-39\). Śaṅkara attributes it here to the Bhāgavatas, and in his commentary on 2.2.44, he suggests that those who follow the teachings of the Pañcarātra do not subscribe to this theory: 
 
-*jñānaiśvaryaśaktibalavīryatejobhir*
+> *na caite saṃkarṣaṇādayo jīvādi-bhāvenābhipreyante;  
+kiṃ tarhi, īśvarā evaite sarve  
+jñānaiśvarya-śakti-bala-vīrya-tejobhir aiśvaryadharmair anvitā abhyupagamyante –  
+> vāsudevā evaite sarve nirdoṣā niradhiṣṭhānā niravadyāś ceti*… / … /  
+> *na ca pañcarātra-siddhāntibhir vāsudevādiṣu ekasmin sarveṣu vā jñānaiśvaryādi-tāratamya-kṛtaḥ kaścid bhedo ’bhyupagamyate;  
+> vāsudevā eva hi sarve vyūhā nirviśeṣā iṣyante*/. 
+> –  
+> 
+> “And these \[Vyūhas\] Saṃkarṣaṇa and so on, are not thought of as really being the individual self etc. How \[is it they are thought of\] then? It is agreed that all these are lords, \[who are\] endowed with the lordly properties \[omniscient\] knowledge, sovereignty, power, strength, virility and splendour. They are all Vāsudevas, flawless, without substrate \(i.e. cause?\), and with no imperfections… /… / And it is agreed upon by those who follow the teachings of the Pañcarātra that there is no distinction between Vāsudeva and the others, all of whom are identical, \[and that none\] is created either by the hierarchy \[of the properties, omniscient\] knowledge and sovereignty etc. Indeed, all the Vyūhas are accepted as Vāsudevas without any distinctions.” \(BSBh 416.17-417.2, … 417.15-18\) 
 
-*aiśvaryadharmair*
-
-*anvitā*
-
-*abhyupagamyante – vāsudevā evaite sarve nirdoṣā niradhiṣṭhānā niravadyāś* *ceti*… / … / *na ca pañcarātrasiddhāntibhir vāsudevādiṣu ekasmin sarveṣu vā*
-
-*jñānaiśvaryāditāratamyakṛtaḥ kaścid bhedo ’bhyupagamyate; vāsudevā eva hi* *sarve vyūhā nirviśeṣā iṣyante */. – “And these \[Vyūhas\] Saṃkarṣaṇa and so on, are not thought of as really being the individual self etc. How \[is it they are thought of\] then? It is agreed that all these are lords, \[who are\] endowed with the lordly properties \[omniscient\] knowledge, sovereignty, power, strength, virility and splendour. They are all Vāsudevas, flawless, without substrate \(i.e. cause?\), and with no imperfections… /… / And it is agreed upon by those who follow the teachings of the Pañcarātra that there is no distinction between Vāsudeva and the others, all of whom are identical, \[and that none\] is created either by the hierarchy 
-
-\[of the properties, omniscient\] knowledge and sovereignty etc. Indeed, all the Vyūhas are accepted as Vāsudevas without any distinctions.” \(BSBh 416.17-417.2, … 417.15-18\) 
-
-What are we to make of these passages? Some scholars \(e.g. Colas 2011: 297\) believe that Śaṅkara is using the names ‘Bhāgavata’ and ‘Pañcarātrasiddhāntin’ to refer to the same group. This position is perhaps based on the fact that the Bhāgavatas are described here as worshipping god in accordance with the “five times” \(i.e. 
-
-*abhigamana* etc.\), a practice which is elsewhere expressly associated with the psychological principle. As van Buitenen shows, the creative function of the *ahaṃkāra* in the *Mokṣadharmaparvan* \(as well as in the *Sāṃkhyakārikā*\) is continuous with older, mythical narratives wherein the primordial being combines and unites the principles of self-consciousness, self-formulation \( *ahaṃkāra*, i.e. the exclamation *aham\! *\), and self- \(and by extension, world-\) creation. [[48]]
+What are we to make of these passages? Some scholars \(e.g. Colas 2011: 297\) believe that Śaṅkara is using the names ‘Bhāgavata’ and ‘Pañcarātrasiddhāntin’ to refer to the same group. This position is perhaps based on the fact that the Bhāgavatas are described here as worshipping god in accordance with the “five times” \(i.e.*abhigamana* etc.\), a practice which is elsewhere expressly associated with the psychological principle. As van Buitenen shows, the creative function of the *ahaṃkāra* in the *Mokṣadharmaparvan* \(as well as in the *Sāṃkhyakārikā*\) is continuous with older, mythical narratives wherein the primordial being combines and unites the principles of self-consciousness, self-formulation \( *ahaṃkāra*, i.e. the exclamation *aham\! *\), and self- \(and by extension, world-\) creation. [[48]]
 
 Pāñcarātra.57 But this interpretation has the problem of explaining why it is, then, that the doctrines linked with these denominations are so clearly different. For the Bhāgavatas hold, according to Śaṅkara, that the Vyūhas Saṃkarṣaṇa, Pradyumna and Aniruddha are caused to become manifest by Vāsudeva, the “supreme cause” \( *parā*
 
@@ -229,7 +225,7 @@ The second group of five Vaiṣṇavas listed in the JS \(22.28-37\) consists of
 
 *pañcarātrasya sūribhiḥ *// *kriyāpāṭhaviśeṣais tu bhidyante te pṛthak pṛthak */. [[60]]
 
-described as abandoning the fruit of the ritual \( *saṃnyāsakarmayogena phalasaṃpad* *vinaiva hi*, JS 22.31ab\) and as desiring liberation only, is listed as an independent Vaiṣṇava \(JS 20.267a, 21.87a\). The Anāpta is said to perform the ritual enjoined for Āptas, but without abandoning the duties * * appropriate to their social class \( *varṇadharma*, JS 22.34c-35b\) – in contrast to the Āptas, we must presume. The Ārambhin is described as worshipping in order to attain wealth \(JS 22.35c-36b\), and the Saṃpravartin as worshipping Hari “in the wrong way” \( *amārgena*, JS 22.36c-37b\). 
+described as abandoning the fruit of the ritual \( *saṃnyāsakarmayogena phalasaṃpad* *vinaiva hi*, JS 22.31ab\) and as desiring liberation only, is listed as an independent Vaiṣṇava \(JS 20.267a, 21.87a\). The Anāpta is said to perform the ritual enjoined for Āptas, but without abandoning the duties appropriate to their social class \( *varṇadharma*, JS 22.34c-35b\) – in contrast to the Āptas, we must presume. The Ārambhin is described as worshipping in order to attain wealth \(JS 22.35c-36b\), and the Saṃpravartin as worshipping Hari “in the wrong way” \( *amārgena*, JS 22.36c-37b\). 
 
 In an earlier chapter \(JS 20.265-270\), each of these five \(including the Añjalikārin\) together with the five belonging to the first group \(the Yati, Ekāntin, Vaikhānasa, Karmasāttvata and Śikhin\) are called ‘Pāñcarātrika’, and are seated together during an installation rite and instructed to recite mantras belonging to the Ekāyana recension \( *śākhā*\). I will discuss this passage and its implications below. 
 

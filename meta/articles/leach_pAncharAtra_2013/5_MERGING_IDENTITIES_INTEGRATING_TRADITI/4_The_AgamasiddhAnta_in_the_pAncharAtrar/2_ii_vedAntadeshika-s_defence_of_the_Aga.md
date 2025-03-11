@@ -3,7 +3,7 @@ title = "2 ii \\) Vedāntadeśika’s defence of the Āgamasiddhānta"
 
 +++
 
-While the PārS and the *Kōyiloḷuku*, the Śrīraṅgam temple chronicle, * * provide ample evidence \(see Rastelli 2006: 243-244\) that the Ekāyanas were active in Śrīraṅgam in the 12th and \(probably early\) 13th centuries, there is not, to my knowledge, a comparable body of evidence which can demonstrate that they remained active there as late as the early fourteenth century i.e. when Vedāntadeśika composed the PRR 
+While the PārS and the *Kōyiloḷuku*, the Śrīraṅgam temple chronicle, provide ample evidence \(see Rastelli 2006: 243-244\) that the Ekāyanas were active in Śrīraṅgam in the 12th and \(probably early\) 13th centuries, there is not, to my knowledge, a comparable body of evidence which can demonstrate that they remained active there as late as the early fourteenth century i.e. when Vedāntadeśika composed the PRR 
 
 and was *ācārya* at the Raṅganāthasvāmin temple. However, the PRR itself contains several passages which suggest that this very probably *was* the case. For it is difficult to overlook the fact that in his defence of the Pāñcarātra, Vedāntadeśika lends his support in particular to the Āgamasiddhānta. Thus, in the opening section of the PRR’s first chapter, Vedāntadeśika establishes that the Āgamasiddhānta is the 231 
 
