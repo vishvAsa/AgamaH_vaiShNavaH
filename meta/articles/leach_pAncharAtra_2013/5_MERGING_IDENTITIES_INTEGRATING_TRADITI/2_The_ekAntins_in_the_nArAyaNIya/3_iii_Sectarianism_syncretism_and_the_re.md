@@ -5,13 +5,13 @@ title = "3 iii \\) Sectarianism, syncretism, and the religious identity of the E
 
 Several modern scholars \(e.g. Jaiswal 1967:40; Brockington 1998: 299\) have claimed that the Ekāntins in the *Nārāyaṇīya* are devotees of Nārāyaṇa, and that they are to be distinguished on this basis from the followers of Vāsudeva, who are considered to be inferior. These two religious groupings, according to this theory, are thus depicted as two distinct Vaiṣṇava “sects”. This reading is based exclusively on the following passage: [[192]]
 
-*aho hy ekāntinaḥ sarvān prīṇāti bhagavān hariḥ */ *vidhiprayuktāṃ pūjāṃ ca* *gṛhṇāti bhagavān svayam *// *ye tu dagdhendhanā loke puṇyapāpavivarjitāḥ */ 
+*aho hy ekāntinaḥ sarvān prīṇāti bhagavān hariḥ*/ *vidhiprayuktāṃ pūjāṃ ca gṛhṇāti bhagavān svayam*// *ye tu dagdhendhanā loke puṇyapāpavivarjitāḥ*/ 
 
-*teṣāṃ tvayābhinirdiṣṭā pāraṃparyāgatā gatiḥ *// *caturthyāṃ caiva te gatyāṃ*
+*teṣāṃ tvayābhinirdiṣṭā pāraṃparyāgatā gatiḥ*// *caturthyāṃ caiva te gatyāṃ*
 
-*gacchanti puruṣottamam */ *ekāntinas tu puruṣā gacchanti paramaṃ padam *// 
+*gacchanti puruṣottamam*/ *ekāntinas tu puruṣā gacchanti paramaṃ padam*// 
 
-*nūnam ekāntadharmo ’yaṃ śreṣṭho nārāyaṇapriyaḥ */ *agatvā gatayas tisro yad* *gacchanty avyayaṃ harim *//. – “So\! Lord Hari loves all Ekāntins, and the Lord himself accepts worship that is performed according to the prescribed methods. 
+*nūnam ekāntadharmo ’yaṃ śreṣṭho nārāyaṇapriyaḥ*/ *agatvā gatayas tisro yad gacchanty avyayaṃ harim*//. – “So\! Lord Hari loves all Ekāntins, and the Lord himself accepts worship that is performed according to the prescribed methods. 
 
 But those whose fuel is burnt up in the world and are \[therefore\] free from merit and demerit, their path has been indicated by you, and handed down by a succession of teachers. Those on the fourth path go to the Supreme Person; Ekāntins, indeed, are the persons who go to the highest place. Certainly, this *ekāntadharma*, dear to Nārāyaṇa, is the most excellent because, not going along the \[other\] three paths, they \[i.e. Ekāntins\] go to the immortal Hari.” \(MBh 12.336.1-4\) 
 
@@ -37,17 +37,17 @@ refers back to 332.13-18. Firstly, 336.4, as we have established, refers to thre
 
 “liberation” from, *four* deities, namely Āditya, Aniruddha, Pradyumna and Saṃkarṣaṇa. Bakker \(1997: 59-62\) notes that in this account Āditya, the sun, takes the place of Sāmba, one of the original “five heroes” \( *pañcavīra*\) of the Vṛṣṇi clan, 320 The description “free from merit and demerit” \( *puṇyapāpavivarjita*\) is also used to refer to liberated beings who “enter into the thousand-rayed god” at MBh 12.327.5e-6. 
 
-[^321]: MBh 12.332.13-18: *ye hi niṣkalmaṣā loke puṇyapāpavivarjitāḥ */ *teṣāṃ vai kṣemam adhvānaṃ*
+[^321]: MBh 12.332.13-18: *ye hi niṣkalmaṣā loke puṇyapāpavivarjitāḥ*/ *teṣāṃ vai kṣemam adhvānaṃ*
 
-*gacchatāṃ dvijasattama *// *sarvalokatamohantā ādityo dvāram ucyate */// *ādityadagdhasarvāṅgā*
+*gacchatāṃ dvijasattama*// *sarvalokatamohantā ādityo dvāram ucyate*/// *ādityadagdhasarvāṅgā*
 
-*adṛśyāḥ kena cit kva cit */ *paramāṇubhūtā bhūtvā tu taṃ devaṃ praviśanty uta *// *tasmād api* *vinirmuktā aniruddhatanau sthitāḥ */ *manobhūtās tato bhūyaḥ pradyumnaṃ praviśanty uta *// 
+*adṛśyāḥ kena cit kva cit*/ *paramāṇubhūtā bhūtvā tu taṃ devaṃ praviśanty uta*// *tasmād api vinirmuktā aniruddhatanau sthitāḥ*/ *manobhūtās tato bhūyaḥ pradyumnaṃ praviśanty uta*// 
 
-*pradyumnāc cāpi nirmuktā jīvaṃ saṃkarṣaṇaṃ tathā */ *viśanti viprapravarāḥ sāṃkhyā bhāgavataiḥ*
+*pradyumnāc cāpi nirmuktā jīvaṃ saṃkarṣaṇaṃ tathā*/ *viśanti viprapravarāḥ sāṃkhyā bhāgavataiḥ*
 
-*saha *// *tatas traiguṇyahīnās te paramātmānam añjasā */ *praviśanti dvijaśreṣṭha kṣetrajñaṃ*
+*saha*// *tatas traiguṇyahīnās te paramātmānam añjasā*/ *praviśanti dvijaśreṣṭha kṣetrajñaṃ*
 
-*nirguṇātmakam *// *sarvāvāsaṃ vāsudevaṃ kṣetrajñaṃ viddhi tattvataḥ */// *samāhitamanaskāś ca* *niyatāḥ saṃyatendriyāḥ */ *ekāntabhāvopagatā vāsudevaṃ viśanti te *//. [[194]]
+*nirguṇātmakam*// *sarvāvāsaṃ vāsudevaṃ kṣetrajñaṃ viddhi tattvataḥ*/// *samāhitamanaskāś ca niyatāḥ saṃyatendriyāḥ*/ *ekāntabhāvopagatā vāsudevaṃ viśanti te*//. [[194]]
 
 who was subsequently expelled from the pantheon when Pāñcarātra authors developed a theology of four differentiated forms of god \( *vyūha*\). Sāmba, observes Bakker, was closely related to the cult of the sun \(Sūrya\), both mythologically and iconographically. In other words, in the above account, which is not described or alluded to anywhere else in the *Nārāyaṇīya*, Āditya is almost certainly to be considered as much a “stage” in the process of ascent undertaken by liberated beings as are the other Vṛṣṇi deities. Of course, it could be argued that Sāmba or Āditya had already been dropped from the pantheon by the time 336.1-4 was composed, and that the devotee of Nārāyaṇa who authored these verses was aware of this, and adjusted the number accordingly. This, then, would be the only place in the text in which the entrance of liberated beings into Vāsudeva is represented as the fourth stage in a hierarchy of ascent. But this still leaves us with the following question: why did the author of 336.1-4 choose to refer only to “three paths” which are not travelled by Ekāntins? For if, as is alleged, these verses can be taken as evidence for an intra-Vaiṣṇava sectarianism, then surely there are four “paths” which Ekāntins do not travel, for they do not go to Vāsudeva either - they go to Hari or Nārāyaṇa. 
 
@@ -75,21 +75,21 @@ there are no other gods, are the most excellent. I alone am the way \( *gati*\) 
 
 Malinar \(1997: 258-264\) notes that this classification of four types of devotee is most likely borrowed from the *Bhagavadgītā *\(7.16-17b\),324 and that the immediate context of the above verses in MBh 12.328 – namely, a conversation between Kṛṣṇa and Arjuna which extols the merits of the renunciation of personal desires – contains obvious echoes of that text. Unlike in the *Bhagavadgītā*, the other three types of devotee are not explicitly named in MBh 12.328. 
 
-We return now to MBh 12.336.1-4. These verses also occur in a context which refers to the *Bhagavadgītā* \(at 336.8\).325 Indeed, Vaiśaṃpāyana’s response to Janamejaya’s questions \(at 336.6e-7b\) includes the first reference to the conversation between Kṛṣṇa and Arjuna since the latter’s extended discussion \(328.5-330.71\), during which the classification of the four kinds of devotee was taught. Later in chapter 336, the Ekāntins are characterised, as at 328.30, by the fact that their actions are not motivated by desire \( *āśīḥkarmavivarjita*, 336.58f\). That neither the three other kinds of devotee nor the three paths not travelled by Ekāntins are explicitly named may suggest that this fourfold classification is merely a formal model, authoritative because of its link to the teaching of the four kinds of devotee in the *Bhagavadgītā*. In other words, it is quite possible that the author of 336.1-4 had no particular “three paths” in mind when these verses were composed. However, it is also possible, in my opinion, that three other distinct “paths” *were* intended by the 323 MBh 12.328.30-32d: *caturvidhā mama janā bhaktā evaṃ hi śrutam */ *teṣām ekāntinaḥ śreṣṭhās te* *caivānanyadevatāḥ *// *aham eva gatis teṣāṃ nirāśīḥkarmakāriṇām */// *ye ca śiṣṭās trayo bhaktāḥ*
+We return now to MBh 12.336.1-4. These verses also occur in a context which refers to the *Bhagavadgītā* \(at 336.8\).325 Indeed, Vaiśaṃpāyana’s response to Janamejaya’s questions \(at 336.6e-7b\) includes the first reference to the conversation between Kṛṣṇa and Arjuna since the latter’s extended discussion \(328.5-330.71\), during which the classification of the four kinds of devotee was taught. Later in chapter 336, the Ekāntins are characterised, as at 328.30, by the fact that their actions are not motivated by desire \( *āśīḥkarmavivarjita*, 336.58f\). That neither the three other kinds of devotee nor the three paths not travelled by Ekāntins are explicitly named may suggest that this fourfold classification is merely a formal model, authoritative because of its link to the teaching of the four kinds of devotee in the *Bhagavadgītā*. In other words, it is quite possible that the author of 336.1-4 had no particular “three paths” in mind when these verses were composed. However, it is also possible, in my opinion, that three other distinct “paths” *were* intended by the 323 MBh 12.328.30-32d: *caturvidhā mama janā bhaktā evaṃ hi śrutam*/ *teṣām ekāntinaḥ śreṣṭhās te caivānanyadevatāḥ*// *aham eva gatis teṣāṃ nirāśīḥkarmakāriṇām*/// *ye ca śiṣṭās trayo bhaktāḥ*
 
-*phalakāmā hi te matāḥ */ *sarve cyavanadharmāṇaḥ pratibuddhas tu śreṣṭhabhāk *// *brahmāṇaṃ*
+*phalakāmā hi te matāḥ*/ *sarve cyavanadharmāṇaḥ pratibuddhas tu śreṣṭhabhāk*// *brahmāṇaṃ*
 
-*śitikaṇṭhaṃ ca yāś cānyā devatāḥ smṛtāḥ* *prabuddhavaryāḥ sevante māṃ evaiṣyanti yat param *//. 
+*śitikaṇṭhaṃ ca yāś cānyā devatāḥ smṛtāḥ prabuddhavaryāḥ sevante māṃ evaiṣyanti yat param*//. 
 
 [^324]: Malinar’s \(2007: 132\) translation of these verses in the *Bhagavadgītā* reads as follows: “Four kinds of good men seek my love, Arjuna: the suffering \( *ārta*\), the seeker of knowledge \( *jijñāsu*\), the seeker of wealth \( *arthārthin*\), and the one who knows \(me, *jñānin*\), best of Bhāratas. Among them, the one who knows \(me\) is supreme since his devotion is exclusive and he is always self-controlled”. 
 
-[^325]: MBh 12.336.8: *samupoḍheṣv anīkeṣu kurupāṇḍavayor mṛdhe */ *arjune vimanaske ca gītā*
+[^325]: MBh 12.336.8: *samupoḍheṣv anīkeṣu kurupāṇḍavayor mṛdhe*/ *arjune vimanaske ca gītā*
 
 *bhagavatā svayam* //. [[197]]
 
 author of this passage, and that clues to the identity of these are provided in the verses which immediately follow: 
 
-*sahopaniṣadān vedān ye viprāḥ samyag āsthitāḥ */ *paṭhanti vidhim āsthāya ye* *cāpi yatidharmiṇaḥ *// *tebhyo viśiṣṭāṃ jānāmi gatim ekāntināṃ nṛṇām */. – 
+*sahopaniṣadān vedān ye viprāḥ samyag āsthitāḥ*/ *paṭhanti vidhim āsthāya ye cāpi yatidharmiṇaḥ*// *tebhyo viśiṣṭāṃ jānāmi gatim ekāntināṃ nṛṇām*/. – 
 
 “Those Brahmins who recite perfectly the Vedas together with the Upaniṣads, in accordance with the prescribed method, and those who follow the *dharma* of the ascetic - I know that the way of the Ekāntin men is better than those\!” \(MBh 12.336.5-6d\) 
 
@@ -99,13 +99,13 @@ The same is then said of the path \( *gati*\) that is intent upon Nārāyaṇa, 
 
 refers to the *nivṛttidharma*, which is contrasted then with the *dharma* that is characterised by *pravṛtti*. Both *dharma* s have Nārāyaṇa as their nature.326 A few verses later, ascetics \( *yati*\) who “know the Self” are identified as Sāṃkhyas and Yogins.327 In this latter verse, as is common in the *Nārāyaṇīya*, Sāṃkhya and Yoga are nominally distinguished from each other, but treated as more or less the same.328 
 
-[^326]: MBh 335.74-77b: *eṣa vedanidhiḥ śrīmān eṣa vai tapaso nidhiḥ */ *eṣa yogaś ca sāṃkhyaṃ ca* *brahma cāgryaṃ harir vibhuḥ *// *nārāyaṇaparā vedā yajñā nārāyaṇātmakaḥ */ *tapo nārāyaṇaparaṃ*
+[^326]: MBh 335.74-77b: *eṣa vedanidhiḥ śrīmān eṣa vai tapaso nidhiḥ*/ *eṣa yogaś ca sāṃkhyaṃ ca* *brahma cāgryaṃ harir vibhuḥ*// *nārāyaṇaparā vedā yajñā nārāyaṇātmakaḥ*/ *tapo nārāyaṇaparaṃ*
 
-*nārāyaṇaparā gatiḥ *// *nārāyaṇaparaṃ satyam ṛtaṃ nārāyaṇātmakam */ *nārāyaṇaparo dharmaḥ*
+*nārāyaṇaparā gatiḥ*// *nārāyaṇaparaṃ satyam ṛtaṃ nārāyaṇātmakam*/ *nārāyaṇaparo dharmaḥ*
 
-*punarāvṛttidurlabhaḥ *// *pravṛttilakṣaṇaś caiva dharmo nārāyaṇātmakaḥ */. 
+*punarāvṛttidurlabhaḥ*// *pravṛttilakṣaṇaś caiva dharmo nārāyaṇātmakaḥ*/. 
 
-[^327]: MBh 12.335.85: *sāṃkhyānāṃ yogināṃ cāpi yatīnām ātmavedinām */ *manīṣitaṃ vijānāti keśavo na* *tu tasya te *//. 
+[^327]: MBh 12.335.85: *sāṃkhyānāṃ yogināṃ cāpi yatīnām ātmavedinām*/ *manīṣitaṃ vijānāti keśavo na* *tu tasya te*//. 
 
 [^328]: That they are both characterised as *knowing* the Self indicates that the soteriological procedures of Yoga are here assimilated to those of Sāṃkhya which in the MBh, as Edgerton \(1924\) has shown, 198 
 
@@ -115,7 +115,7 @@ Of course, the chief purpose of this passage at the end of chapter 335 is to ass
 
 “Āraṇyaka of the Vedas” \( *vedāraṇyaka*\) are mutually complementary parts \( *parasparāṅgāni*\) of the *dharma* of the Ekāntins, called in this instance *pañcarātra*.329 In chapter 337, in answer to Janamejaya’s question as to whether the branches of knowledge Sāṃkhya, Yoga, Pañcarātra and the Āraṇyaka of the Vedas have the same goal, or different goals \(1-2\), Vaiśaṃpāyana replies that according to tradition and knowledge, all branches of knowledge have Nārāyaṇa as their goal \(63c-64b\). He alone is the creator of the *śāstra* s \(65\). ‘Pañcarātra’ here appears to be simply another name for the *ekāntadharma* since, unlike the other branches of emphasises the soteriological method of knowledge. Elsewhere in the *Mokṣadharmaparvan*, the distinct tradition of Yoga is shown to favour the method of strength or power \( *bala*\). On this see Fitzgerald \( *forthcoming*\). 
 
-[^329]: MBh 12.336.76: *evam ekaṃ sāṃkhyayogaṃ vedāraṇyakam eva ca */ *parasparaṅgāny etāni* *pañcarātraṃ ca kathyate *// *eṣa ekāntināṃ dharmo nārāyaṇaparātmakaḥ *///. [[199]]
+[^329]: MBh 12.336.76: *evam ekaṃ sāṃkhyayogaṃ vedāraṇyakam eva ca*/ *parasparaṅgāny etāni* *pañcarātraṃ ca kathyate*// *eṣa ekāntināṃ dharmo nārāyaṇaparātmakaḥ*///. [[199]]
 
 knowledge, it is proclaimed directly by Nārāyaṇa \(60-63b\), and it is said that 
 
@@ -125,21 +125,21 @@ On the basis of the exposition of the *ekāntadharma* in chapters 336-337, then,
 
 cannot be reached by the methods of Sāṃkhya and Yoga.334 The author/s of chapters 336-337 nonetheless include these three paths within the fourth and highest path, the comprehensive *dharma* of the Ekāntins, also called ‘Pañcarātra’. This deliberately inclusivist or syncretist agenda, wherein other teachings or traditions are subsumed and subordinated, appears to belong to the later redactions of the *Nārāyaṇīya * since it is only evident in the supposedly youngest portions of Part A \(as identified by Oberlies 1997a and 1997b\), and in Part B. 
 
-In the remainder of this section, I will draw attention to the fact that a syncretist policy was applied not only to Sāṃkhya, Yoga and Veda, but also to what appear to have originally been distinct traditions of worship. For example, the denominations 330 MBh 12.337.67: *pañcarātravido ye tu yathākramaparā nṛpa */ *ekāntabhāvopagatās te hariṃ*
+In the remainder of this section, I will draw attention to the fact that a syncretist policy was applied not only to Sāṃkhya, Yoga and Veda, but also to what appear to have originally been distinct traditions of worship. For example, the denominations 330 MBh 12.337.67: *pañcarātravido ye tu yathākramaparā nṛpa*/ *ekāntabhāvopagatās te hariṃ*
 
-*praviśanti vai *//. 
+*praviśanti vai*//. 
 
 [^331]: As Schreiner \(1997b: 162\) notes, the inclusion of Pāśupata among the “other” branches of knowledge at 337.59 and 62 is obviously a later addition, since Janamejaya’s original question does not refer to this tradition. 
 
-[^332]: See MBh 12.327.67ef: *so ’haṃ kriyāvatāṃ panthāḥ punarāvṛttidurlabhaḥ *///; and MBh 12.335.76c-77b, transliterated above. 
+[^332]: See MBh 12.327.67ef: *so ’haṃ kriyāvatāṃ panthāḥ punarāvṛttidurlabhaḥ*///; and MBh 12.335.76c-77b, transliterated above. 
 
-[^333]: MBh 336.71-72: *rājasī tāmasī caiva vyāmiśre prakṛtī smṛte */ *tadātmakaṃ hi puruṣaṃ jāyamānaṃ*
+[^333]: MBh 336.71-72: *rājasī tāmasī caiva vyāmiśre prakṛtī smṛte*/ *tadātmakaṃ hi puruṣaṃ jāyamānaṃ*
 
-*viśāṃ pate *// *pravṛttilakṣaṇair yuktaṃ nāvekṣati hariḥ svayam */// *paśyaty enaṃ jāyamānaṃ*
+*viśāṃ pate*// *pravṛttilakṣaṇair yuktaṃ nāvekṣati hariḥ svayam*/// *paśyaty enaṃ jāyamānaṃ*
 
-*brahmā lokapitāmahaḥ */ *rajasā tamasā caiva mānuṣaṃ samabhiplutam *//. 
+*brahmā lokapitāmahaḥ*/ *rajasā tamasā caiva mānuṣaṃ samabhiplutam*//. 
 
-[^334]: MBh 12.339.7c-8b: *sāṃkhyena vidhinā caiva yogena ca yathākramam *// *cintayāmi gatiṃ cāsya* *na gatiṃ vedmi cottamām */. [[200]]
+[^334]: MBh 12.339.7c-8b: *sāṃkhyena vidhinā caiva yogena ca yathākramam*// *cintayāmi gatiṃ cāsya* *na gatiṃ vedmi cottamām*/. [[200]]
 
 *sātvata* and *bhāgavata* are clearly not used in this text to refer to distinct “sects”.335 
 
@@ -151,19 +151,19 @@ Rather, their equivalence, and indeed that of the gods themselves, is assumed. T
 
 [^335]: On the equivalence in the *Nārāyaṇīya * of the names *sātvata * and *pañcarātra* see Matsubara \(1994: 59-60\) and Oberlies \(1997b: 150-151\). That the term *bhāgavata * does not denote a separate “Vaiṣṇava sect” is apparent from the fact that the Bhāgavatas are shown to worship both Nārāyaṇa \(MBh 12.327.2, 331.43\) and Vāsudeva \(332.16-18\). 
 
-[^336]: MBh 335.87: *sarveṣām āśrayo viṣṇur aiśvaraṃ vidhim āsthitaḥ */ *sarvabhūtakṛtāvāso vāsudeveti* *cocyate *//. 
+[^336]: MBh 335.87: *sarveṣām āśrayo viṣṇur aiśvaraṃ vidhim āsthitaḥ*/ *sarvabhūtakṛtāvāso vāsudeveti* *cocyate*//. 
 
-[^337]: MBh 12.331.9-11: *na citraṃ kṛtavāṃs tatra yad āryo me dhanaṃjayaḥ */ *vāsudevasahāyo yaḥ*
+[^337]: MBh 12.331.9-11: *na citraṃ kṛtavāṃs tatra yad āryo me dhanaṃjayaḥ*/ *vāsudevasahāyo yaḥ*
 
-*prāptavāñ jayam uttamam *// *na cāsya kiṃ cid aprāpyaṃ manye lokeṣv api triṣu */ *trailokyanātho* *viṣṇuḥ sa yasyāsīt sāhyakṛt sakhā *// *dhanyāś ca sarva evāsan brahmaṃs te mama pūrvakāḥ */ *hitāya* *śreyase caiva yeṣām āsīj janārdanaḥ *//. [[201]]
+*prāptavāñ jayam uttamam*// *na cāsya kiṃ cid aprāpyaṃ manye lokeṣv api triṣu*/ *trailokyanātho* *viṣṇuḥ sa yasyāsīt sāhyakṛt sakhā*// *dhanyāś ca sarva evāsan brahmaṃs te mama pūrvakāḥ*/ *hitāya* *śreyase caiva yeṣām āsīj janārdanaḥ*//. [[201]]
 
 The infrequency with which Vāsudeva’s name is used in Part B is consistent with Part A, where it is found in only three separate passages, and implied in a fourth. In these it is used as follows: i.\) as a name for Nārāyaṇa during Nārada’s *stotra* \(325.4/130\); ii.\) as the name of the “twenty-fifth” principle \( *tattva*\), the “Self of the world” \( *lokasyātmā*\), the “Supreme Self” \( *paramātmā*\), the *puruṣa * who is seen by knowledge \( *jñāna*\), the Self of all beings, the knower of the field etc., in a passage \(326.20-39\) which, employing terminology usually associated with Sāṃkhya, describes the reabsorption \( *pra-√lī*\) of the five universal elements, and the successive emergence of the embodied self \( *jīva*\), the mind \( *manas*\) and the act of self-formulation \( *ahaṃkāra*\). The latter are personified as, respectively, Saṃkarṣaṇa, Pradyumna and Aniruddha. Oberlies \(1997a\) adjudges this passage to have been interpolated into chapter 326 at a late stage; iii.\) Vāsudeva is not named in the verses 326.68-71d, but it is likely he who is referred to as the “fourth form” \( *mūrtiś* *caturthī*\) who created Saṃkarṣana, who in turn begot Pradyumna, from whom is born Aniruddha, and then Brahmā; and iv.\) during the *paraṃparā* which draws Part A to a close, it is said that this narrative is not to be given to one who is not a devotee of Vāsudeva.338 In the same passage, we are told that this “great Upaniṣad” has been sung by Nārāyaṇa \(326.100-101b\), and that Janārdana should be worshipped as the Supreme Person \( *puruṣottama*, 326.119-120\). 
 
 What can we infer from these infrequent references to Vāsudeva? Clearly, we must conclude that if the *Nārāyaṇīya* was at one time in the hands of “sectarian” 
 
-followers of Vāsudeva, then they did not make very good use of it. It is much more likely, of course, that these eight passages \(from Parts A and B\) were included in the text by authors who also professed devotion to Nārāyaṇa.339 Since Nārāyaṇa is clearly the principal god in the *Nārāyaṇīya*, and since archaeological and inscriptional evidence \(on which see e.g. Härtel 1987\) tells us that the worship of Vāsudeva was not *always* linked to the worship of Nārāyaṇa, we must assume that 338 MBh 12.326.113: *idam ākhyānam ārṣeyaṃ pāraṃparyāgataṃ nṛpa */ *nāvāsudevabhaktāya tvayā*
+followers of Vāsudeva, then they did not make very good use of it. It is much more likely, of course, that these eight passages \(from Parts A and B\) were included in the text by authors who also professed devotion to Nārāyaṇa.339 Since Nārāyaṇa is clearly the principal god in the *Nārāyaṇīya*, and since archaeological and inscriptional evidence \(on which see e.g. Härtel 1987\) tells us that the worship of Vāsudeva was not *always* linked to the worship of Nārāyaṇa, we must assume that 338 MBh 12.326.113: *idam ākhyānam ārṣeyaṃ pāraṃparyāgataṃ nṛpa*/ *nāvāsudevabhaktāya tvayā*
 
-*deyaṃ kathaṃ cana *//. 
+*deyaṃ kathaṃ cana*//. 
 
 [^339]: The only alternative, as I see it, would be to argue that the text passed from followers of Nārāyaṇa to followers of Vāsudeva, and then *back* to followers of Nārāyaṇa. The latter must have then either thoroughly revised it, removing most \(but not all\) of the references to Vāsudeva, or found a text where such references were so few and far between that they were not considered worthy of removal. [[202]]
 
@@ -177,7 +177,7 @@ Strongly echoing the account of the “Vāsudeva passage” 326.20-39, outlined 
 
 Why, then, did Nārāyaṇa theologians consider it expedient to adopt these differentiated divine forms? 
 
-The answer must surely involve the ontological principles or “levels” with which they are identified. Elsewhere in the *Mokṣadharmaparvan *\(e.g. 12.228, 291, 293-294\), these principles \( *tattva*\) belong to the evolutionary cosmogony of Sāṃkhya and Yoga. According to this cosmogony, the lower ontological principles emerge out of the higher ones \(see e.g. 294.27-28\). The Vṛṣṇi heroes might have 340 MBh 12.336.53: *ekavyūhavibhāgo vā kva cid dvivyūhasaṃjñitaḥ */ *trivyūhaś cāpi saṃkhyātaś* *caturvyūhaś ca dṛśyate *//. These are the only uses of the term *vyūha* in the *Nārāyaṇīya*. 
+The answer must surely involve the ontological principles or “levels” with which they are identified. Elsewhere in the *Mokṣadharmaparvan *\(e.g. 12.228, 291, 293-294\), these principles \( *tattva*\) belong to the evolutionary cosmogony of Sāṃkhya and Yoga. According to this cosmogony, the lower ontological principles emerge out of the higher ones \(see e.g. 294.27-28\). The Vṛṣṇi heroes might have 340 MBh 12.336.53: *ekavyūhavibhāgo vā kva cid dvivyūhasaṃjñitaḥ*/ *trivyūhaś cāpi saṃkhyātaś* *caturvyūhaś ca dṛśyate*//. These are the only uses of the term *vyūha* in the *Nārāyaṇīya*. 
 
 [^341]: Schreiner et al. \(1997c: 413 n. 256\) have pointed out that 339.20 itself echoes 336.56. [[203]]
 

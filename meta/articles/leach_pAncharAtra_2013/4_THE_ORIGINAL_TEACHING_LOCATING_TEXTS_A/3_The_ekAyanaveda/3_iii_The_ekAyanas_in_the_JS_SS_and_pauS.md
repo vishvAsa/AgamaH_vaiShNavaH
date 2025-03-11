@@ -21,17 +21,17 @@ Of the earlier works, the JS will involve the shortest discussion, since a form 
 
 I shall now turn to the SS. The majority of SS 24.282-25.294, wherein all this work’s references to the Ekāyanas are found, have been incorporated into the PārS 
 
-[^240]: JS 20.265-270 \(→ PārS 12.311c-317b\): *bhagavadbhāvino ye ca yatayaḥ pāñcarātrikāḥ */ 
+[^240]: JS 20.265-270 \(→ PārS 12.311c-317b\): *bhagavadbhāvino ye ca yatayaḥ pāñcarātrikāḥ*/ 
 
-*caturbhir āptair viprādyair yuktāṃs tv īśadiśi nyaset *// *ekāntinas tathā ’nāptaiḥ *\(corr. *’ptaiś ca*\) *yuktān āgneyadiggatān */ *niveśya vipra naiṛtyāṃ bhaktān vaikhānasān *\(corr. *vaikhānasaiḥ*\) *saha *// 
+*caturbhir āptair viprādyair yuktāṃs tv īśadiśi nyaset*// *ekāntinas tathā ’nāptaiḥ *\(corr. *’ptaiś ca*\) *yuktān āgneyadiggatān*/ *niveśya vipra naiṛtyāṃ bhaktān vaikhānasān *\(corr. *vaikhānasaiḥ*\) *saha*// 
 
-*caturbhir añjalīkais tato vāyavyagocare */ *sārambhiṇas sātvatāṃś ca tatkāle bhagavanmayān *// 
+*caturbhir añjalīkais tato vāyavyagocare*/ *sārambhiṇas sātvatāṃś ca tatkāle bhagavanmayān*// 
 
-*catvāro ’tha caturdikṣu yojyāś ca śikhino mune* / *teṣāṃ caivānuyāyitvāc catvāras tu pravartinaḥ *// 
+*catvāro ’tha caturdikṣu yojyāś ca śikhino mune* / *teṣāṃ caivānuyāyitvāc catvāras tu pravartinaḥ*// 
 
-*brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca munisattama */ *ekāyanīyaśākhotthān mantrān paramapāvanān*
+*brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca munisattama*/ *ekāyanīyaśākhotthān mantrān paramapāvanān*
 
-// *pāṭhayec ca yatīn āptān pūrvān vai pāñcarātrikān */ *svānuṣṭhānaiḥ svakān mantrān japataḥ*
+// *pāṭhayec ca yatīn āptān pūrvān vai pāñcarātrikān*/ *svānuṣṭhānaiḥ svakān mantrān japataḥ*
 
 *saṃśitavratān* //. Both of the above emmendations are suggested by the editor. **[[142]]
 
@@ -75,7 +75,7 @@ is concerned not with the priestly performance of temple rituals for a fee-payin
 
 Although we cannot be certain, it seems probable that at least the final third of chapter 24 \(and possibly this chapter as a whole\) together with 25.1-294 were written specifically for inclusion within the SS, rather than having been incorporated *en bloc* from another work. This is not to say, of course, that passages within this portion of text could not have been incorporated from other texts.[^248] Rather, this section of the text more generally seems to have been authored, or at least thoroughly revised, in order to be incorporated into the larger work. This is indicated by the fact that it remains consistent throughout with what Smith \(1975: 515\) calls the “narrative framework” of the SS i.e. the dialogue between Lord Viṣṇu \(Bhagavat\) and Saṃkarṣaṇa as related by Nārada. This is evident, for instance, in the frequent use of 
 
-[^247]: SS 24.16c-17c: *varṇāśramagurutvāc ca svāmitvād akhilasya ca* // *bhūtādidevarūpatvād uttamād* *yeṣu* *vastuṣu* / *nṛpaś*… //. Elsewhere in the SS \(e.g. at 5.98 and 7.77\), the “first god” \( *ādideva*\) is identified as Vāsudeva. 
+[^247]: SS 24.16c-17c: *varṇāśramagurutvāc ca svāmitvād akhilasya ca* // *bhūtādidevarūpatvād uttamād yeṣu vastuṣu* / *nṛpaś*… //. Elsewhere in the SS \(e.g. at 5.98 and 7.77\), the “first god” \( *ādideva*\) is identified as Vāsudeva. 
 
 [^248]: The prayer to summon Viṣṇu into his four-faced material form at SS 25.119c-122 may well be drawn from an older source. Sanderson \(2009a: 109\) reports that these verses have been transmitted among Kashmirian Smārta Brahmins in modern times. Cf. the wording in this prayer with the description of the four-faced form of Śaktyātman or Śaktīśa at SS 12.9-19. [[145]]
 
@@ -95,9 +95,9 @@ Lastly, it is notable that at the beginning of the final two chapters of the SS,
 
 Finally, I turn to the PauṣS. Because this text is full of corrupted passages and missing portions and is, in its present state, even less of an homogeneous entity than is the SS, I will confine myself here to making some general observations on those passages which either directly or indirectly refer to the Ekāyanas. I have listed these observations separately in order to convey my opinion that the passages addressed should not necessarily be interpreted as belonging to a single authorial voice, or even to the perspective of a single Pāñcarātra tradition. 
 
-1. The first use of the term *ekāyana* in the PauṣS is worthy of note because it occurs in a verse which closely resembles a verse in the SS. In both texts these verses occur in the context of the performance of the *śrāddha * ritual, wherein the worshipper presents offerings to his deceased ancestors. In the passage in the SS \(6.168c-169b\), the worshipper welcomes four Pāñcarātrika Brahmins \(to receive the offerings\) who are described as “having attained their goal in the supreme reality” \(… *caturo viniveśyāsaneṣu ca *// 
+1. The first use of the term *ekāyana* in the PauṣS is worthy of note because it occurs in a verse which closely resembles a verse in the SS. In both texts these verses occur in the context of the performance of the *śrāddha * ritual, wherein the worshipper presents offerings to his deceased ancestors. In the passage in the SS \(6.168c-169b\), the worshipper welcomes four Pāñcarātrika Brahmins \(to receive the offerings\) who are described as “having attained their goal in the supreme reality” \(… *caturo viniveśyāsaneṣu ca*// 
 
-*labdhalakṣān pare tattve brāhmaṇān pāñcarātrikān */\). In the PauṣS 
+*labdhalakṣān pare tattve brāhmaṇān pāñcarātrikān*/\). In the PauṣS 
 
 \(27.166ab\), the “worthy recipient” who has “attained his goal in the supreme reality” is a twice-born Ekāyana \( *labdhalakṣaṃ pare tattve pātram ekāyanaṃ*
 
@@ -107,11 +107,11 @@ Finally, I turn to the PauṣS. Because this text is full of corrupted passages 
 
 which I have addressed in the previous chapter. In the following verses, the Ekāyanas are clearly described in opposition to the “mixed worshippers”. Part of this passage has been quoted above, I present a fuller version here: 147 
 
-*jñātvaivaṃ bhaktisāṅkaryaṃ na kuryād evam eva hi *// *varjanīyaṃ*
+*jñātvaivaṃ bhaktisāṅkaryaṃ na kuryād evam eva hi*// *varjanīyaṃ*
 
-*prayatnena ya icched uttamāṃ gatim */ * viprā ekāyanākhyā ye te bhaktās* *tattvato ’cyute *// *ekāntinaḥ sutattvasthā dehāntān nānyayājinaḥ */ 
+*prayatnena ya icched uttamāṃ gatim*/ * viprā ekāyanākhyā ye te bhaktās tattvato ’cyute*// *ekāntinaḥ sutattvasthā dehāntān nānyayājinaḥ*/ 
 
-*kartavyatvena ye viṣṇuṃ saṃyajanti phalaṃ vinā *// *prāpnuvanti ca* *dehānte vāsudevatvam abjaja */ *vyāmiśrayājinaś cānye bhaktābhāsās tu te* *smṛtāḥ *// *parijñeyās tu te viprā nānāmārgagaṇārcanāt */. – “Knowing thus \[i.e. that Puruṣottama is the “inner ruler” \( *antaryāmin*\) of all gods\], one should never perform mixed devotion. Indeed one who desires the supreme goal should avoid \[that\] with every effort. Those Brahmins that are called Ekāyanas are truly devotees of Acyuta. They who worship Viṣṇu as a duty \[that is\] without \(worldly\) fruit, worshipping no other 
+*kartavyatvena ye viṣṇuṃ saṃyajanti phalaṃ vinā*// *prāpnuvanti ca dehānte vāsudevatvam abjaja*/ *vyāmiśrayājinaś cānye bhaktābhāsās tu te smṛtāḥ*// *parijñeyās tu te viprā nānāmārgagaṇārcanāt*/. – “Knowing thus \[i.e. that Puruṣottama is the “inner ruler” \( *antaryāmin*\) of all gods\], one should never perform mixed devotion. Indeed one who desires the supreme goal should avoid \[that\] with every effort. Those Brahmins that are called Ekāyanas are truly devotees of Acyuta. They who worship Viṣṇu as a duty \[that is\] without \(worldly\) fruit, worshipping no other 
 
 \[god\], are Ekāntins who \[will\] exist in their true state after death. \[In other words\] at death they attain the state of Vāsudeva, O Lotus-born\! And the others are mixed worshippers - they are considered to be devotees in appearance only. Those Brahmins are \[easily\] recognised on account of their worshipping a multitude \[of inferior gods\] in various different ways.” 
 
@@ -121,7 +121,7 @@ which I have addressed in the previous chapter. In the following verses, the Ek�
 
 such as the sacrifice are known to grant only meagre fruits to worshippers with desires, even if they grant heaven” \( *kratuvat svalpaphaladā svargadā*
 
-*yady api smṛtāḥ *// *sakāmānāṃ hi tatrāpi*…\). The worshippers without desires, meanwhile, are granted “the world of Acyuta” \( *acyutaloka*, 203cd\), or they are “united in the supreme self” \( *paramātmani saṃyojyam*, 227cd\). 
+*yady api smṛtāḥ*// *sakāmānāṃ hi tatrāpi*…\). The worshippers without desires, meanwhile, are granted “the world of Acyuta” \( *acyutaloka*, 203cd\), or they are “united in the supreme self” \( *paramātmani saṃyojyam*, 227cd\). 
 
 The mention of sacrifice \( *kratu*\) in the former instance would appear to identify the *sakāma* devotees with those “mixed worshippers” whose primary expertise lies in the Vedas \(27.711ab\). These Vaidikas/mixed worshippers are contrasted with the “Brahmins who worship no other \[god\]” \( *ananyayājin*, 27.710c\), or who “seek refuge in no other” \( *ananyaśaraṇa*, 36.78a\), and with Ekāntins who “know the Āgama” \( *āgamajña*, 32.72cd\). From these examples we can deduce the following: the Ekāyanas identify themselves as the legitimate heirs and custodians of the Pāñcarātra scriptural tradition; they 148 
 

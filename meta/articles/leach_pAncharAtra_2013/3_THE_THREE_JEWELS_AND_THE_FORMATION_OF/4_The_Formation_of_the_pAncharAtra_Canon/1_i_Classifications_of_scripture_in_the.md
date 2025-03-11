@@ -5,7 +5,7 @@ title = "1 i \\) Classifications of scripture in the Pārameśvarasaṃhitā and
 
 In this chapter I address the textual evidence which points to the formation of the Pāñcarātra canon as being the outcome of the decline of the sectarian culture I have referred to above. In this first part, I compare the *Pārameśvarasaṃhitā*’s \(PārS\) relatively early attempt to establish a scriptural canon with the substantially different approach to canon-formation that is found in the PādS. 
 
-As we have seen in Chapter One, both the PārS and the *Īśvarasaṃhitā *\(ĪS\) employ a classificatory scheme in which the Pāñcarātra scriptures are divided into three groups, namely the celestial teachings \( *divyaśāstra*\), the teachings of sages \( *munibhāṣitaśāstra*\), and the teachings of men \( *pauruṣaśāstra*\).116 An earlier formulation of this scheme can be found in the *Sātvatasaṃhitā* \(SS\): *tatra vai trividhaṃ vākyaṃ divyaṃ ca munibhāṣitam* // *pauruṣaṃ cāravindākṣa* *tadbhedam avadhāraya * / *yad arthāḍhyam asandigdhaṃ svaccham alpākṣaraṃ*
+As we have seen in Chapter One, both the PārS and the *Īśvarasaṃhitā *\(ĪS\) employ a classificatory scheme in which the Pāñcarātra scriptures are divided into three groups, namely the celestial teachings \( *divyaśāstra*\), the teachings of sages \( *munibhāṣitaśāstra*\), and the teachings of men \( *pauruṣaśāstra*\).116 An earlier formulation of this scheme can be found in the *Sātvatasaṃhitā* \(SS\): *tatra vai trividhaṃ vākyaṃ divyaṃ ca munibhāṣitam* // *pauruṣaṃ cāravindākṣa tadbhedam avadhāraya * / *yad arthāḍhyam asandigdhaṃ svaccham alpākṣaraṃ*
 
 *sthiram* // *tat pārameśvaraṃ vākyam ājñāsiddhaṃ ca mokṣadam* / **
 
@@ -37,9 +37,9 @@ As we have seen in Chapter One, both the PārS and the *Īśvarasaṃhitā *\(Ī
 
 *śabdaḍambaram* / *anirvāhakam ādyokter vākyaṃ tat pauruṣaṃ smṛtam* // *heyaṃ*
 
-*cānarthasiddhīnām ākaraṃ narakāvaham* / *prasiddhārthānuvādaṃ yat* *saṃgatārthaṃ vilakṣaṇam* // *api cet pauruṣaṃ vākyaṃ grāhyaṃ tan* *munivākyavat* / *evam ādeyavākyottha āgamo yo mahāmate* // 
+*cānarthasiddhīnām ākaraṃ narakāvaham* / *prasiddhārthānuvādaṃ yat saṃgatārthaṃ vilakṣaṇam* // *api cet pauruṣaṃ vākyaṃ grāhyaṃ tan munivākyavat* / *evam ādeyavākyottha āgamo yo mahāmate* // 
 
-*sanmārgadarśanaṃ kṛtsnaṃ* *vidhivādaṃ ca viddhi tam* /. – “There \[i.e. in this system\], there are three types of statement: \[those which are\] celestial, \[those\] 
+*sanmārgadarśanaṃ kṛtsnaṃ vidhivādaṃ ca viddhi tam* /. – “There \[i.e. in this system\], there are three types of statement: \[those which are\] celestial, \[those\] 
 
 spoken by sages, and \[those with a\] human origin, O Lotus-eyed one\! Listen to the differences \[between them\]. That which is assuredly rich in significance \( *arthāḍhyam*\), which is clear, succinct, and reliable, *that* is a statement of the highest Lord, which has attained \[the status of\] a command, and which bestows 116 It is worth pointing out the similarity of this scheme with that of the threefold “stream” or “flow” 
 
@@ -61,9 +61,9 @@ Thus, O wise one, know that scripture \( *āgama*\), which originates from state
 
 In this context the designation “celestial” \( *divyam*\) indicates that the text is, quite literally, the “utterance” \(or “statement”, *vākyam*\) of God. The PārS informs us that the celestial teachings are “spoken” by Vāsudeva and then “circulated” by “\[lesser gods\] headed by Brahmā, Rudra and Indra”.117 The same verses are contained in the ĪS 
 
-\(1.54-55\), and they are also alluded to in the *Pāñcarātrarakṣā *\(PRR 39.8 *ff*\), wherein Vedāntadeśika affirms that *divyam* means “directly established by God” \( *sākṣād* *bhagavatpraṇītaḥ*\). In the PārS \(10.339c-345b\) and the ĪS \(1.57c-63b\), the second group of scriptures \( *munibhāṣitaśāstra*\) is divided into *sāttvika*, *rājasa* and *tāmasa* works. This classification of texts according to the Sāṃkhyan theory of the three 
+\(1.54-55\), and they are also alluded to in the *Pāñcarātrarakṣā *\(PRR 39.8 *ff*\), wherein Vedāntadeśika affirms that *divyam* means “directly established by God” \( *sākṣād bhagavatpraṇītaḥ*\). In the PārS \(10.339c-345b\) and the ĪS \(1.57c-63b\), the second group of scriptures \( *munibhāṣitaśāstra*\) is divided into *sāttvika*, *rājasa* and *tāmasa* works. This classification of texts according to the Sāṃkhyan theory of the three 
 
-“strands” or dynamic tendencies \( *guṇa*\) inherent within the ground of materiality \( *prakṛti*\), is a strategy which is also encountered in the self-classification of certain Purāṇas.118 According to the PārS \(10.338-340b\) and the ĪS \(1.56-58b\), although *sāttvika* texts are communicated by lesser gods and sages, they are established in accordance with the content \( *arthajāla*\) that is learnt directly from Viṣṇu \(Puṇḍarīkākṣa\). Vedāntadeśika reiterates that this category of teaching is founded on the “bare narrative” that is heard directly from God.119 The PārS \(10.340c-344\) teaches that a *rājasa* text is either partially based on this transmitted knowledge and 117 PārS 10.336-337: *vāsudevena yat proktaṃ śāstraṃ bhagavatā svayam* / * anuṣṭupchandobandhena* *samāsavyāsabhedataḥ* // *tathaiva brahmarudrendrapramukhaiś ca pravartitam* / *lokeṣv api ca* *divyeṣu tad divyaṃ viddhi sattama* //. 
+“strands” or dynamic tendencies \( *guṇa*\) inherent within the ground of materiality \( *prakṛti*\), is a strategy which is also encountered in the self-classification of certain Purāṇas.118 According to the PārS \(10.338-340b\) and the ĪS \(1.56-58b\), although *sāttvika* texts are communicated by lesser gods and sages, they are established in accordance with the content \( *arthajāla*\) that is learnt directly from Viṣṇu \(Puṇḍarīkākṣa\). Vedāntadeśika reiterates that this category of teaching is founded on the “bare narrative” that is heard directly from God.119 The PārS \(10.340c-344\) teaches that a *rājasa* text is either partially based on this transmitted knowledge and 117 PārS 10.336-337: *vāsudevena yat proktaṃ śāstraṃ bhagavatā svayam* / * anuṣṭupchandobandhena samāsavyāsabhedataḥ* // *tathaiva brahmarudrendrapramukhaiś ca pravartitam* / *lokeṣv api ca divyeṣu tad divyaṃ viddhi sattama* //. 
 
 [^118]: See for example *Matsyapurāṇa* 53.68-69 and *Pādmapurāṇa* 5.263.81-84 \(information from Rocher 1986: 20\). 
 
@@ -83,9 +83,9 @@ Although the threefold \( *divya*, *munibhāṣita*, *pauruṣa*\) classificatio
 
 [^121]: Rastelli \(2006: 111\) offers a variant reading of this passage, wherein the *Īśvarasaṃhitā*, *Bharadvājasaṃhitā* and *Saumantavī* are included as *divya* alongside the SS, PauṣS and JS, and the PārS 
 
-is not included at all: “Höre: Sātvata, Pauṣkara und Jayākhya, \(376cd\) solchartige Śāstras sind göttlich \( *divya*\). Auch die Īśvarasaṃhitā, die Bharadvājasaṃhitā, \(377\) und die Saumantavī werden ,vom höchsten Herrscher stammend‘ \( *pārameśvara*\) genannt.” My own reading is in agreement with that of Vedāntadeśika in his PRR \(40.3-7\): *… sāttvatapauṣkarajayākhyādīni śāstrāṇi divyāni* *īśvarabhāradvājasaumantavapārameśvaravaihāyasacitraśikhaṇḍisaṃhitājayottarādīni* *sāttvikāni*
+is not included at all: “Höre: Sātvata, Pauṣkara und Jayākhya, \(376cd\) solchartige Śāstras sind göttlich \( *divya*\). Auch die Īśvarasaṃhitā, die Bharadvājasaṃhitā, \(377\) und die Saumantavī werden ,vom höchsten Herrscher stammend‘ \( *pārameśvara*\) genannt.” My own reading is in agreement with that of Vedāntadeśika in his PRR \(40.3-7\): *… sāttvatapauṣkarajayākhyādīni śāstrāṇi divyāni īśvarabhāradvājasaumantavapārameśvaravaihāyasacitraśikhaṇḍisaṃhitājayottarādīni sāttvikāni*
 
-*sanatkumārapadmodbhavaśātātapatejodraviṇamāyāvaibhavikādīni* *rājasāni*
+*sanatkumārapadmodbhavaśātātapatejodraviṇamāyāvaibhavikādīni rājasāni*
 
 *pañcapraśna-*
 
@@ -95,11 +95,11 @@ is not included at all: “Höre: Sātvata, Pauṣkara und Jayākhya, \(376cd\) 
 
 enumerated at the end of the PādS \( *cp* 33.204-205b\) and discussed above. 
 
-[^123]: PārS 10.376c-382b: *sātvataṃ pauṣkaraṃ caiva jayākhyaṃ ca tathaiva ca *// *evamādīni śāstrāṇi* *divyānīty avadhāraya */ *saṃhitā ceśvarasyāpi bharadvājasya saṃhitā *// *saumantavī tathā hy etat* *pārameśvarasaṃjñitam */ *vaihāyasī saṃhitā ca śāstraṃ citraśikhaṇḍijam* // *tathā jayottaraṃ tatra* *evamādīni tattvataḥ */ *sāttvikāni vijānīhi munivākyāni sattama *// *tantraṃ sanatkumārakhyaṃ tathā*
+[^123]: PārS 10.376c-382b: *sātvataṃ pauṣkaraṃ caiva jayākhyaṃ ca tathaiva ca*// *evamādīni śāstrāṇi divyānīty avadhāraya*/ *saṃhitā ceśvarasyāpi bharadvājasya saṃhitā*// *saumantavī tathā hy etat pārameśvarasaṃjñitam*/ *vaihāyasī saṃhitā ca śāstraṃ citraśikhaṇḍijam* // *tathā jayottaraṃ tatra evamādīni tattvataḥ*/ *sāttvikāni vijānīhi munivākyāni sattama*// *tantraṃ sanatkumārakhyaṃ tathā*
 
-*padmodbhavābhidam */ *satyāpi tejodraviṇaṃ māyāvaibhavikaṃ tathā *// *ityādīny avagacca tvaṃ*
+*padmodbhavābhidam*/ *satyāpi tejodraviṇaṃ māyāvaibhavikaṃ tathā*// *ityādīny avagacca tvaṃ*
 
-*rājasāny eva tattvataḥ */ *pañcapraśnaṃ śukapraśnaṃ tattvasāgarasaṃhitā *// *ityādīny avabuddhyasva* *tāmasāni viśeṣataḥ */. [[81]]
+*rājasāny eva tattvataḥ*/ *pañcapraśnaṃ śukapraśnaṃ tattvasāgarasaṃhitā*// *ityādīny avabuddhyasva tāmasāni viśeṣataḥ*/. [[81]]
 
 What can this hierarchy of texts tell us about the attitude towards scriptural authority in the PārS? To what extent does this categorisation conform to the way in which the Pāñcarātra Saṃhitās are classified and enumerated in other Pāñcarātra works? To be sure, the threefold hierarchical scheme is borrowed from the SS, and was later incorporated from the PārS into the ĪS, but it is not found, as far as I am aware, in any other Pāñcarātra text. That the PārS grades specific scriptures according to this hierarchy is a significant development from the SS, which gives no obvious indication that it ranks itself among the “celestial” category. In a similar vein, the PārS’s characterisation of the JS is not derived from that work’s own self-description, for the present version of the JS, at least, contains a presentation of its own transmission which does not conform to the idea that it represents the *direct* revelation of God.124 
 
@@ -117,7 +117,7 @@ However, Śāṇḍilya’s account of God’s teaching, learnt by Śāṇḍily
 
 [^125]: PārS 10.373-374b: *sāttvikādikramāt teṣu samabhyūhya mahāmate* / *prasiddhārthān upādāya saṅ-gatārthaṃ vilakṣaṇam* // *api cet pauruṣaṃ vākyaṃ tan munivākyavat* /. See also SS 22.57c-58b, on which this is based. 
 
-[^126]: In this respect the delineation of the Pāñcarātra canon in the PārS does not conform to the somewhat limited definition of “canon” advanced by Jonathan Z. Smith in his influential essay *Sacred* *Persistance: Towards a Redescription of Canon*. Smith \(1982: 48, 52\) argues that “the element of 82 
+[^126]: In this respect the delineation of the Pāñcarātra canon in the PārS does not conform to the somewhat limited definition of “canon” advanced by Jonathan Z. Smith in his influential essay *Sacred Persistance: Towards a Redescription of Canon*. Smith \(1982: 48, 52\) argues that “the element of 82 
 
 conveyed, as Rastelli \(2006: 127\) has pointed out, by the appendage of the terms “and so on, and so forth” \( *evamādīni*, *ityādīni*\) to the names of the Saṃhitās at each level of the hierarchy. This is the case even with the *divyaśāstra* s, suggesting the belief that this category may also be added to at a future time. It is also demonstrated by the fact that no Vaikhānasa works are named in the list of *rājasa* texts, despite the earlier claim that this category includes such works. 
 
@@ -125,7 +125,7 @@ The second notable characteristic of this scheme which is highlighted by the adm
 
 The author of the PārS accentuates the hierarchical structure of the canon by imposing an additional hierarchy \(in the form of *sāttvika*, *rājasa* and *tāmasa*\) onto the level of the *munibhāṣitaśāstra*. This strategy, an innovation from what is found in the SS, multiplies the number of levels which exist beneath the celestial teachings, the effect of which is that the authority of the latter is enhanced. The authority of the *divyaśāstra* s is also seemingly emphasised in the PārS’s scheme via the author’s omitting the SS’s claim that the *munibhāṣitaśāstra* s grant the *puruṣārtha* s as their fruit \( *phala*\) \(SS 22.55cd\). By omitting this verse, as Rastelli \(2006: 109-110\) has closure transforms a catalogue into a canon”, and that “the essential structure of limitation and closure along with exegetical ingenuity remains constant.” 
 
-[^127]: PārS 10.371c-372: *pārameśvaravākyārthair yad virodhi na tad dvija *// *saṃgrāhyaṃ sāttvikādyeṣu* *munivākyeṣu yatnataḥ */ *yad divyāpekṣitaṃ vipra saṃgrāhyaṃ avirodhi tat *//. My comments here repeat the key points of Rastelli’s \(2006: 125-126\) analysis of this passage. 
+[^127]: PārS 10.371c-372: *pārameśvaravākyārthair yad virodhi na tad dvija*// *saṃgrāhyaṃ sāttvikādyeṣu* *munivākyeṣu yatnataḥ*/ *yad divyāpekṣitaṃ vipra saṃgrāhyaṃ avirodhi tat*//. My comments here repeat the key points of Rastelli’s \(2006: 125-126\) analysis of this passage. 
 
 [^128]: The similarity between the hierarchical system of the SS and the PārS and the *vedamūlatva* principle is also conveyed by Vedāntadeśika, in his comments on SS 22.52c-58b. Vedāntadeśika’s exegesis, which is later quoted approvingly by Alaśiṅgabhaṭṭa in his STBh \(522.4-6\), is undoubtedly less restrictive than the PārS in its willingness to place the *munibhāṣita* statements alongside the *divya*, but the Mīmāṃsaka terminology is familiar: *atra anirvāhakam ādyokteḥ iti divyamunibhāṣitayoḥ*
 
@@ -153,7 +153,7 @@ The restrictive, exclusivist approach of the PārS becomes more evident when it 
 
 As in the PārS, the ‘Pañcarātra’ teaching \( *śāstra*\) is presented in the PādS as being superior to the Vedas, which are depicted as being unable to lead one to liberation. 
 
-Thus, in the PādS’s opening chapter \( *jp* 1.92d-93b\) we read that “the tree which possesses the Kalpasūtras \[among its branches\] delivers everything that is desired to those who desire, except for liberation” \( *kalpakadrumaḥ *// *arthibhyo vāñchitaṃ*
+Thus, in the PādS’s opening chapter \( *jp* 1.92d-93b\) we read that “the tree which possesses the Kalpasūtras \[among its branches\] delivers everything that is desired to those who desire, except for liberation” \( *kalpakadrumaḥ*// *arthibhyo vāñchitaṃ*
 
 *sarvaṃ prayacchati gatiṃ vinā*\).132 In contrast to the PārS, however, the author of this section of the PādS incorporates the claim relating to the *puruṣārtha* s that is contained in the SS, and applies it to the Pāñcarātra scriptural tradition *in general*. Comparing the ‘Pañcarātra’ to the “tree which possesses the Kalpasūtras \[among its branches\]”, in other words the “Veda-tree”, we are told that “the teaching called Pañcarātra grants the group of four \[i.e. the *puruṣārtha* s\] as its fruit” \( *pañcarātrākhyaśāstraṃ tu* *caturvargaphalapradam*, PādS * jp* 1.93cd\). 
 
@@ -161,7 +161,7 @@ Shortly before enumerating 108 Pāñcarātra scriptures, the PādS’s narrator 
 
 \( *tantrāṇāṃ caiva sarveṣāṃ vaktā nārāyaṇaḥ svayam*, PādS *jp* 1.88cd\). This claim is also found in other South Indian Saṃhitās which contain extensive lists of Pāñcarātra works, such as the *Viśvāmitrasaṃhitā *\(ViśS\) and the *Bhāradvājasaṃhitā*.133 Such claims, of course, openly contradict the PārS’s assertion that only the three celestial scriptures are directly revealed by God. According to this section of the PādS, then, there is no hierarchy among the Pāñcarātra teachings, since all are revealed by God, and all grant the *puruṣārtha* s. The much more inclusive nature of this portion of the PādS is perhaps best exemplified by the declaration, in the final verse of the PādS’s opening *adhyāya*, that “a person who regularly recites aloud the names of the Tantras 132 See also PādS *jp* 1.2-3b, where the seers \( *ṛṣi*\) complain to Kaṇva that they have studied the Vedas together with their auxiliary parts \( *sāṅgopāṅga*\), but that this has not led them to liberation \( *kaivalya*\). 
 
-[^133]: See for example ViśS 2.14-15, where it stated that the Tantras are “heard from the mouth of Nārāyaṇa” \( *nārāyaṇamukhāc chrutvā*, 14a\), and ViśS 4.1ab: *bhagavatparam ity uktaṃ tantram etat* *tvayā guro */; and the *Bhāradvājasaṃhitā*, which is not available to me, but is reported by Smith \(1975: 321\) to contain the claim \(at 1.1-8a\) that “the Pāñcarātra system… came directly from the mouth of Viṣṇu.” [[85]]
+[^133]: See for example ViśS 2.14-15, where it stated that the Tantras are “heard from the mouth of Nārāyaṇa” \( *nārāyaṇamukhāc chrutvā*, 14a\), and ViśS 4.1ab: *bhagavatparam ity uktaṃ tantram etat* *tvayā guro*/; and the *Bhāradvājasaṃhitā*, which is not available to me, but is reported by Smith \(1975: 321\) to contain the claim \(at 1.1-8a\) that “the Pāñcarātra system… came directly from the mouth of Viṣṇu.” [[85]]
 
 is liberated from all evil, and attains eternal *brahman*.”134 The ViśS \(2.33cd\) contains a very similar claim: “One who knows these names of the Tantras is entitled to liberation” \( *etāni tantranāmāni yo jānāti sa muktibhāk*\). 
 
@@ -187,7 +187,7 @@ Bearing in mind that Rastelli assigns the composition of the PārS to a period s
 
 above felt the need to incorporate the Vaikhānasa tradition, at a lower level, within his own - an example of Paul Hacker’s \(e.g. 1995\) conception of *Inklusivismus*.138 
 
-Employing a similar technique, the PādS \( *jp* 1.47abc\) asserts in its opening *adhyāya* that “There are six kinds of mutually contradictory Tantras which have you as their deity, O Śaṅkara” \( *ṣaṭprakārāṇi tantrāṇi tvad daivatyāni śaṅkara */ 
+Employing a similar technique, the PādS \( *jp* 1.47abc\) asserts in its opening *adhyāya* that “There are six kinds of mutually contradictory Tantras which have you as their deity, O Śaṅkara” \( *ṣaṭprakārāṇi tantrāṇi tvad daivatyāni śaṅkara*/ 
 
 *parasparaviruddhāni*\). At PādS *jp* 1.50-53, these six Tantras are shown to be Sāṃkhya, Yoga, Buddhism, Jainism, the Pāñcarātra and the Śaiva teachings \(the latter being subdivided into Kāpāla, Śuddhaśaiva, and Pāśupata\). Each of these are said to be “established on earth” by the Bhagavat \(PādS *jp* 1.48cd\),139 and the “unchecked” or 
 
@@ -201,9 +201,9 @@ It is highly unlikely that religio-philosophical systems called ‘Sāṃkhya’
 
 *samāsthāya*\) of these traditions’ teachers for his own purposes \(PādS *jp* 1.51-52b\). 
 
-[^140]: PādS *jp* 1.72: *pañcatarāṇi śāstrāṇi rātrī yan te mahānty api */ *tatsannidhau samākhyāsau tena loke* *pravartate *//. Cf. ViśS 2.6: *sāṃkhyayogādayaḥ pañca rātrāyante ’sya saṃnidhau */ *tasmād vā*
+[^140]: PādS *jp* 1.72: *pañcatarāṇi śāstrāṇi rātrī yan te mahānty api*/ *tatsannidhau samākhyāsau tena loke* *pravartate*//. Cf. ViśS 2.6: *sāṃkhyayogādayaḥ pañca rātrāyante ’sya saṃnidhau*/ *tasmād vā*
 
-*pañcarātrārthaḥ procyate sūrisattamaiḥ *//. * *– “The five \[teachings\] Sāṃkhya, Yoga etc. are eclipsed \( *rātrāyante*\) in the presence of this. Thus, the meaning of ‘Pañcarātra’ is explained by the best of sages.” Cf. also PauṣS 38.307c-308, wherein the “five nights” \( *pañcarātram*\) are Purāṇa, Veda, Vedānta, Sāṃkhya and Yoga. [[88]]
+*pañcarātrārthaḥ procyate sūrisattamaiḥ*//. * *– “The five \[teachings\] Sāṃkhya, Yoga etc. are eclipsed \( *rātrāyante*\) in the presence of this. Thus, the meaning of ‘Pañcarātra’ is explained by the best of sages.” Cf. also PauṣS 38.307c-308, wherein the “five nights” \( *pañcarātram*\) are Purāṇa, Veda, Vedānta, Sāṃkhya and Yoga. [[88]]
 
 *own* tradition? Certainly, the competition for the control of temples that the Pāñcarātra faced in Kāñcī would have been more formidable than in “single-cult centres” such as Śrīraṅgam and Melkote, the town in present day Karnataka with which the ĪS has been associated for much of its history. Such a competitive environment is hardly likely to inspire a restrictive or delimiting approach to what could reasonably be claimed as one’s own scriptural corpus. As Yāmuna demonstrates in his ĀP, a unified and coherent, albeit internally diverse “system” is better equipped to counter opposition than an assemblage of distinct groups or texts. And if the question is turned around the other way, perhaps the Āgamasiddhantins in places such as Śrīraṅgam and Melkote had less reason to persuade outsiders of the magnitude of their own scriptural corpus, or of the essential unity of the broader tradition to which they belonged. Since these Āgamasiddhāntins had already explicitly rejected the Veda, there were presumably fewer outsiders who would consider accepting them anyway.141 
 
@@ -213,4 +213,4 @@ The contrasts between Kāñcī and Śrīraṅgam which I have advanced here as b
 
 [^141]: However, it should be noted that there *were*, according to the PādS, followers of the Vedas who joined the Ekāyana. PādS *cp* 21.54ab \(→ BhT 24.26ab\) reads: *ekāyane praviṣṭānāṃ traividyānām ayaṃ*
 
-*kramaḥ */. [[89]]
+*kramaḥ*/. [[89]]

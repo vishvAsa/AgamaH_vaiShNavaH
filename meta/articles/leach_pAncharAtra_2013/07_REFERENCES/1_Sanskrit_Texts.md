@@ -17,13 +17,13 @@ Lakshmithathachar, revised by V. Varadachari, New Delhi: Indira Gandhi National 
 
 *Jayākhyasaṃhitā*, ed. Embar Krishnamacharya, Baroda: Oriental Institute, 1931.
 
-*Tantravārttika* of Kumārila Bhaṭṭa. *The Mīmāṃsā Darśana of Mahaṛṣi Jaiminī, With* *Śābarabhāṣya of Śābaramuni with the commentary of Tantravārtika of Kumārila* *Bhaṭṭa, Nyāyasudhā commentary of Bhaṭṭa Someśvara, Bhāṣya Vivaraṇa of* *Govindāmṛtamuni and Bhāvprakāśikā by Dr. Mahāprabhulal Gosvāmī*, ed.
+*Tantravārttika* of Kumārila Bhaṭṭa. *The Mīmāṃsā Darśana of Mahaṛṣi Jaiminī, With Śābarabhāṣya of Śābaramuni with the commentary of Tantravārtika of Kumārila Bhaṭṭa, Nyāyasudhā commentary of Bhaṭṭa Someśvara, Bhāṣya Vivaraṇa of Govindāmṛtamuni and Bhāvprakāśikā by Dr. Mahāprabhulal Gosvāmī*, ed.
 
 Māhāprabhulal Goswami, Varanasi: Tara Printing Works, 1984.
 
 *Tantrāloka* of Abhinavagupta, Srinagar: Research Department, Jammu and Kashmir State, 1919-1938.
 
-*Nareśvaraparīkṣāprakāśa* of Rāmakaṇṭha. *The Nareshvarapariksha of Sadyojyotih* *with commentary by Ramakantha*, ed. Madhusudan Kaul Shastri, Srinagar: Kashmir Pratap Steam Press, 1926.
+*Nareśvaraparīkṣāprakāśa* of Rāmakaṇṭha. *The Nareshvarapariksha of Sadyojyotih with commentary by Ramakantha*, ed. Madhusudan Kaul Shastri, Srinagar: Kashmir Pratap Steam Press, 1926.
 
 *Nāradīyasaṃhitā*, ed. Raghava Prasada Chaudhary, Tirupati, 1971.
 
@@ -39,7 +39,7 @@ Venugopalacharya, Madras: Adyar Library and Research Centre, 1996.
 
 *Pauṣkarasaṃhitā*, 2 Volumes, ed. P. P. Apte, Tirupati: Rashtriya Sanskrit Vidyapeetha, 1991, 2006.
 
-*Brahmasūtrabhāṣya* of Śaṅkara, *Śrīśāṅkaragranthāvaliḥ: Complete Works of Sri* *Sankaracharya in the original Sanskrit, * Volume VII *, * *Brahmasutra Bhashya*, Madras: Samata Books, 1983.
+*Brahmasūtrabhāṣya* of Śaṅkara, *Śrīśāṅkaragranthāvaliḥ: Complete Works of Sri Sankaracharya in the original Sanskrit, * Volume VII *,  Brahmasutra Bhashya*, Madras: Samata Books, 1983.
 
 *Bhārgavatantram*, ed. Caudharī Rāghavaprasāda, Allahabad: Rashtriya Sanskrit Sansthan, 1981.
 

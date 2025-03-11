@@ -14,19 +14,19 @@ gradually for one who is yoked through the repeated practice of yoga”.351 It i
 
 Elsewhere among the scriptural works, the *Paramasaṃhitā *\(ParS\) and the *Lakṣmītantra* \(LT\) both use the word *ekānta* on a number of occasions, and in contexts consistent with its use in the MBh and the JS. In the ParS, for instance, we read as follows: “Having first restrained the senses via non-attachment, he whose attention is firm should steadily fix his mind upon the lord of the gods, his resolve one-pointed \( *ekāntaniścayaḥ*\).”352 “He should practise yoga”, the passage continues, 
 
-“by which the god of gods is pleased” \(ParS 10.24: *yogaṃ samabhyaset tena* *devadevaḥ prasīdati*\). A few verses later, it is said that the activity of the mind \( *cittavṛtti*\) should be brought under control “in a solitary place” \( *ekānte*\).353 Similar instructions for the practice of *japa* and meditation are found elsewhere in the ParS 
+“by which the god of gods is pleased” \(ParS 10.24: *yogaṃ samabhyaset tena devadevaḥ prasīdati*\). A few verses later, it is said that the activity of the mind \( *cittavṛtti*\) should be brought under control “in a solitary place” \( *ekānte*\).353 Similar instructions for the practice of *japa* and meditation are found elsewhere in the ParS 
 
 \(e.g. 10.71, 11.24ab, 17.42cd, 27.35ab, 30.67cd\). In the opening chapter of the LT, meanwhile, Śakra \(Indra\) is described as having attained the state of *ekānta* \( *ekāntabhāva*, LT 1.54a\) shortly after his ascetic practices directed towards Lakṣmī 
 
-have been enumerated.354 Lakṣmī, in response, tells him “I am pleased by your very 351 JS 5.2: *sarvopādhivinirmuktaṃ jñānam ekāntanirmalam */ *utpadyate hi yuktasya yogābhyāsāt* *krameṇa tat* //. 
+have been enumerated.354 Lakṣmī, in response, tells him “I am pleased by your very 351 JS 5.2: *sarvopādhivinirmuktaṃ jñānam ekāntanirmalam*/ *utpadyate hi yuktasya yogābhyāsāt krameṇa tat* //. 
 
-[^352]: ParS 10.22: *vairāgyeṇendriyāṇy ādau nigṛhya dṛḍhamānasaḥ */ *samaṃ dadhīta deveśe cittam* *ekāntaniścayaḥ *//. 
+[^352]: ParS 10.22: *vairāgyeṇendriyāṇy ādau nigṛhya dṛḍhamānasaḥ*/ *samaṃ dadhīta deveśe cittam ekāntaniścayaḥ*//. 
 
-[^353]: ParS 10.31: *upakramair bahutaraiś cittavṛttiṃ śanaiḥ śanaiḥ */ *ānayed vaśam ekānte tvarayā na* *kadācana *//. 
+[^353]: ParS 10.31: *upakramair bahutaraiś cittavṛttiṃ śanaiḥ śanaiḥ*/ *ānayed vaśam ekānte tvarayā na* *kadācana*//. 
 
-[^354]: LT 1.49-50: *tatra divyaṃ tapas tepe bilvamūlaniketanaḥ */ *ekapādasthito maunī kāṣṭhabhūto*
+[^354]: LT 1.49-50: *tatra divyaṃ tapas tepe bilvamūlaniketanaḥ*/ *ekapādasthito maunī kāṣṭhabhūto*
 
-*’nilāśanaḥ *// *ūrdhvadṛgbāhuvaktraś ca niyato niyatātmavān */ *divyaṃ varṣasahasraṃ vai tapas tepe* *suduścaram* //. – “There, his home at the base of a Bel tree, he practised divine asceticism. Standing completely motionless on one leg, silent, subsisting on the air alone, his face and arms raised to the sky, restrained, self-controlled, he practised very severe asceticism for a thousand divine years.” [[208]]
+*’nilāśanaḥ*// *ūrdhvadṛgbāhuvaktraś ca niyato niyatātmavān*/ *divyaṃ varṣasahasraṃ vai tapas tepe* *suduścaram* //. – “There, his home at the base of a Bel tree, he practised divine asceticism. Standing completely motionless on one leg, silent, subsisting on the air alone, his face and arms raised to the sky, restrained, self-controlled, he practised very severe asceticism for a thousand divine years.” [[208]]
 
 strict asceticism” \( *prasannāsmi tapasā tava suvrata*, 1.55ab\), and she grants him a request, the consequence of which is the teaching which comprises the remainder of the text. Later in the LT, the term *ekānta* is used to refer to a “solitary place” which is suitable for the performance of *japa* \(47.11ab\), and to the “solitary life” 
 
@@ -34,13 +34,13 @@ strict asceticism” \( *prasannāsmi tapasā tava suvrata*, 1.55ab\), and she g
 
 Another example of the use of *ekānta* in the context of *japa* and *dhyāna* can be found in the opening verses of the final chapter of the *Viṣṇusaṃhitā* \(ViṣṇuS\). Here, we are introduced to the supreme Bhāgavata yoga, the highest good which has never before been heard by others.355 The passage reads as follows: 
 
-*yuktāhāravihāras tu yuktaceṣṭaḥ samāhitaḥ */ *yogaṃ bhāgavataṃ nityam* *abhyasen niyatātmavān *// * pañcakālavibhāgajño mitabhāṣī mitāśanaḥ */ 
+*yuktāhāravihāras tu yuktaceṣṭaḥ samāhitaḥ*/ *yogaṃ bhāgavataṃ nityam* *abhyasen niyatātmavān*// * pañcakālavibhāgajño mitabhāṣī mitāśanaḥ*/ 
 
-*kāmakrodhādijid bhaktaḥ samaloṣṭāśmakāñcanaḥ *// *samayācārasaṃyukto* *japadhyānaparāyaṇaḥ */ *ekānte vijane sthāne nivāte śabdavarjite *// *baddhvā*
+*kāmakrodhādijid bhaktaḥ samaloṣṭāśmakāñcanaḥ*// *samayācārasaṃyukto* *japadhyānaparāyaṇaḥ*/ *ekānte vijane sthāne nivāte śabdavarjite*// *baddhvā*
 
-*yogāsanaṃ maunī yogaṃ yuñjīta yogavit */. - “His diet and lifestyle moderate, his movements curbed, concentrated, he \[the devotee\], disciplined and composed, should always practise the Bhāgavata yoga. Knowing the divisions of the five times, measured in his speech and diet, conquering desire and anger and so forth, the devotee \[for whom\] a lump of earth, a rock and gold are all the same, is wholly intent upon the recitation \[of mantras\] \( *japa*\) and meditation upon god \( *dhyāna*\), in accordance with established practice. Having assumed the yoga posture in a solitary \( *ekānte*\), deserted \( *vijane*\) place that is safe and quiet, the knower of yoga, remaining silent, should practise yoga.” \(ViṣṇuS 30.2-5b\) Each of the scriptural works mentioned thus far in this section – the JS, the ParS, the LT and the ViṣṇuS – also contain descriptions of Ekāntins, or in the case of the ViṣṇuS, of Ekāntikas. In the ParS, these descriptions occur during the first and final chapters, both of which, as we have seen, have been identified by Czerniak-Drożdżowicz \(2003\) as having been added to the older “ritualistic corpus” of the text by later redactors. The descriptions in question \(ParS 1.17-24 and 31.1-43\) are 355 ViṣṇuS 30.1: *atha vakṣyāmi saṃkṣepād yogaṃ bhāgavataṃ param */ *yad anyair aśrutaṃ pūrvaṃ*
+*yogāsanaṃ maunī yogaṃ yuñjīta yogavit*/. - “His diet and lifestyle moderate, his movements curbed, concentrated, he \[the devotee\], disciplined and composed, should always practise the Bhāgavata yoga. Knowing the divisions of the five times, measured in his speech and diet, conquering desire and anger and so forth, the devotee \[for whom\] a lump of earth, a rock and gold are all the same, is wholly intent upon the recitation \[of mantras\] \( *japa*\) and meditation upon god \( *dhyāna*\), in accordance with established practice. Having assumed the yoga posture in a solitary \( *ekānte*\), deserted \( *vijane*\) place that is safe and quiet, the knower of yoga, remaining silent, should practise yoga.” \(ViṣṇuS 30.2-5b\) Each of the scriptural works mentioned thus far in this section – the JS, the ParS, the LT and the ViṣṇuS – also contain descriptions of Ekāntins, or in the case of the ViṣṇuS, of Ekāntikas. In the ParS, these descriptions occur during the first and final chapters, both of which, as we have seen, have been identified by Czerniak-Drożdżowicz \(2003\) as having been added to the older “ritualistic corpus” of the text by later redactors. The descriptions in question \(ParS 1.17-24 and 31.1-43\) are 355 ViṣṇuS 30.1: *atha vakṣyāmi saṃkṣepād yogaṃ bhāgavataṃ param*/ *yad anyair aśrutaṃ pūrvaṃ*
 
-*hitānāṃ paramaṃ hitam *//. The second half- *śloka * finds a parallel at ParS 30.4cd, and indeed the 30th chapter of the ViṣṇuS shares a number of parallel verses with the 30th chapter of the ParS. The latter is also concerned with the practice of yoga within a *bhakti* framework which emphasises god’s kindness \( *anugraha*, *prasāda*\). See e.g. ViṣṇuS 30.5ab ↔ ParS 30.6cd; ViṣṇuS 30.7cd ↔ ParS 30.11cd; ViṣṇuS 30.8c-13 ↔ ParS 30.14-18; ViṣṇuS 30.27-29b ↔ ParS 30.75-77b; ViṣṇuS 30.33c-36 ↔ ParS 
+*hitānāṃ paramaṃ hitam*//. The second half- *śloka * finds a parallel at ParS 30.4cd, and indeed the 30th chapter of the ViṣṇuS shares a number of parallel verses with the 30th chapter of the ParS. The latter is also concerned with the practice of yoga within a *bhakti* framework which emphasises god’s kindness \( *anugraha*, *prasāda*\). See e.g. ViṣṇuS 30.5ab ↔ ParS 30.6cd; ViṣṇuS 30.7cd ↔ ParS 30.11cd; ViṣṇuS 30.8c-13 ↔ ParS 30.14-18; ViṣṇuS 30.27-29b ↔ ParS 30.75-77b; ViṣṇuS 30.33c-36 ↔ ParS 
 
 30.93-96b; ViṣṇuS 30.39-42a ↔ ParS 30.100c-104a. [[209]]
 
@@ -60,9 +60,9 @@ The description of Ekāntins in the LT \(17.9-20\) also contains echoes of the *
 
 “without food” \( *anāhārāḥ*\), are “illustrious” \( *mahābhāgāḥ*\), and they constantly behold Lakṣmī and Nārāyaṇa \(LT 17.16c-17b\). 
 
-In these passages from the ParS and the LT, the term *ekāntin* is used, as it is in the *Nārāyaṇīya*, to refer to the most accomplished worshippers, those who are uniquely capable of attaining the highest goal. The Ekāntins here are the perfect devotees, and as such, they are not intended to represent a specific “group” among the audience of these texts. Rather, the designation *ekāntin* represents an ideal, and 356 ParS 1.24: *ekāntino mudā yuktā nirdvandvā niṣparigrahāḥ */ *paripakvakaṣāyāś ca sarvadā*
+In these passages from the ParS and the LT, the term *ekāntin* is used, as it is in the *Nārāyaṇīya*, to refer to the most accomplished worshippers, those who are uniquely capable of attaining the highest goal. The Ekāntins here are the perfect devotees, and as such, they are not intended to represent a specific “group” among the audience of these texts. Rather, the designation *ekāntin* represents an ideal, and 356 ParS 1.24: *ekāntino mudā yuktā nirdvandvā niṣparigrahāḥ*/ *paripakvakaṣāyāś ca sarvadā*
 
-*dhyānatatparāḥ *//. 
+*dhyānatatparāḥ*//. 
 
 [^357]: On the interpolated passage LT 41.67-78, which applies the honorific *paramaikāntin* to 800 sages \( *muni*\) learned in the Kāṇva and Mādhyandina schools, see Rastelli \(2006: 233-236\). 
 
@@ -74,17 +74,17 @@ one whose contours have been drawn already in the *Nārāyaṇīya*. In this sen
 
 In the description in JS 22, the Ekāntin is characterised as wandering, begging alms from Brahmins \(literally “from those devoted to the six duties”\), being respected or treated hospitably \( *satkṛta*, by Brahmins?\), being without possessions, worshipping god in accordance with the eight-limbed method, living alone with a pupil possessed of good qualities, being intent upon contemplation, and being a qualified Vaiṣṇava by virtue of his place in an order of succession \( *kulakrama*\) \(i.e. 
 
-rather than, presumably, via initiation\).359 In the ViṣṇuS, as we have seen in Chapter Two, the Ekāntika is named as one of five Pañcarātra lineages \( *gocara*\) alongside the Vaikhānasa, Sāttvata, Śikhin, and Mūlaka. The Ekāntika is described here as subsisting on begged alms, as serving the twice-born classes, and as worshipping god once a day.360 According to the *Hāriṇī*, the commentary on the ViṣṇuS authored by Nārāyaṇa, a Nambūtiri Brahmin \(Unni 1991: 12-13\) who most likely lived in the 359 JS 22.11-13b: *bhrāntvā bhikṣāṃ *\(corr. *mikṣāṃ*\) *ca ṣaṭkarmaniratebhyas tu satkṛtām */ 
+rather than, presumably, via initiation\).359 In the ViṣṇuS, as we have seen in Chapter Two, the Ekāntika is named as one of five Pañcarātra lineages \( *gocara*\) alongside the Vaikhānasa, Sāttvata, Śikhin, and Mūlaka. The Ekāntika is described here as subsisting on begged alms, as serving the twice-born classes, and as worshipping god once a day.360 According to the *Hāriṇī*, the commentary on the ViṣṇuS authored by Nārāyaṇa, a Nambūtiri Brahmin \(Unni 1991: 12-13\) who most likely lived in the 359 JS 22.11-13b: *bhrāntvā bhikṣāṃ *\(corr. *mikṣāṃ*\) *ca ṣaṭkarmaniratebhyas tu satkṛtām*/ 
 
-*aparigrahavān yo vai tayā saṃpūjayet prabhum *// * pumān goptāram avyaktam aṣṭāṅgavidhinā mahat*
+*aparigrahavān yo vai tayā saṃpūjayet prabhum*// * pumān goptāram avyaktam aṣṭāṅgavidhinā mahat*
 
-/ *guṇinā saha śiṣyena vasaty eko vicāradhīḥ *// *kulakrameṇādhikārī sa ekāntīha vaiṣṇavaḥ */. The 
+/ *guṇinā saha śiṣyena vasaty eko vicāradhīḥ*// *kulakrameṇādhikārī sa ekāntīha vaiṣṇavaḥ*/. The 
 
 “eight-limbed method” is described at JS 22.75c-80b as consisting of 1.\) approaching god \( *abhigamana*\); 2.\) worshipping with *arghya* and flowers etc. \( *bhoga*\); 3.\) worshipping with honey, clarified butter, oil, sour milk \( *dadhi*\), or with an animal; 4.\) worshipping with food \(22.78b: *annena* *pūjanam* corr. *antena pūjanam* after Rastelli 2000a: 107 n. 24\); 5.\) the giving away of food which has been used in worship \( *saṃpradāna*\); 6.\) the fire offering \( *vahnisaṃtarpana*\); 7.\) the offering to ancestors \( *pitṛyāga*\); and 8.\) the final sacrifice \( *anuyāga*\), namely the offering of food into the internal fires which are one’s breaths \( *prāṇāgnihavana*\). 
 
-[^360]: ViṣṇuS 2.32c-33b: *śuśrūṣaṇaṃ dvijātīnāṃ bhaikṣavṛttyā ca vartanam *// *sakṛc cārādhanaṃ yeṣāṃ*
+[^360]: ViṣṇuS 2.32c-33b: *śuśrūṣaṇaṃ dvijātīnāṃ bhaikṣavṛttyā ca vartanam*// *sakṛc cārādhanaṃ yeṣāṃ*
 
-*te tathaikāntikāḥ smṛtāḥ */. [[211]]
+*te tathaikāntikāḥ smṛtāḥ*/. [[211]]
 
 fifteenth or sixteenth century,361 the Ekāntikas are Śūdras, and theirs is the lowest of the five lineages \(Czerniak-Drożdżowicz 2010: 228-236\). Although the ViṣṇuS itself does not explicitly make these claims, it appears to suggest the same by characterising Ekāntikas as serving the twice-born, while associating the Sāttvatas and Śikhins with, respectively, Kṣatriyas and Vaiśyas.362 
 

@@ -7,13 +7,13 @@ Before turning to the classifications of different Pāñcarātra groups containe
 
 \(PauṣS\), it will be helpful here to summarise the additional textual evidence for there being distinct types of Pāñcarātrika. There are, from a period prior to our earliest Pāñcarātra scriptures, a number of textual sources which differentiate between Pāñcarātrikas and Bhāgavatas. I will refer to some of these below when I discuss Yāmuna’s *Āgamaprāmāṇya*. Before that, however, it is worth looking at one such source, namely Śaṅkara’s *Brahmasūtrabhāṣya* \(BSBh\), in a little more detail. In his comments on *sūtra* s 2.2.42 and 2.2.44, Śaṅkara appears to attribute different theological positions to the Bhāgavatas and “those who follow the teachings of the Pañcarātra” \( *pañcarātrasiddhāntin*\). The position of the Bhāgavatas is described as follows: 
 
-*bhagavān evaiko vāsudevo nirañjanajñānasvarūpaḥ paramārthatattvam; sa* *caturdhātmānaṃ* *pravibhajya* *pratiṣṭhitaḥ* 
+*bhagavān evaiko vāsudevo nirañjanajñānasvarūpaḥ paramārthatattvam; sa caturdhātmānaṃ pravibhajya pratiṣṭhitaḥ* 
 
 *–*
 
 *vāsudevavyūharūpeṇa,*
 
-*saṃkarṣaṇavyūharūpeṇa, pradyumnavyūharūpeṇa, aniruddhavyūharūpeṇa ca;* *vāsudevo nāma paramātmā ucyate; saṃkarṣaṇo nāma jīvaḥ; pradyumno nāma* *manaḥ; aniruddho nāma ahaṃkāraḥ; teṣāṃ vāsudevaḥ parā prakṛtiḥ, itare* *saṃkarṣaṇādayaḥ kāryam; tam itthaṃbhūtaṃ parameśvaraṃ bhagavantam* *abhigamanopādānejyāsvādhyāyayogair*
+*saṃkarṣaṇavyūharūpeṇa, pradyumnavyūharūpeṇa, aniruddhavyūharūpeṇa ca; vāsudevo nāma paramātmā ucyate; saṃkarṣaṇo nāma jīvaḥ; pradyumno nāma manaḥ; aniruddho nāma ahaṃkāraḥ; teṣāṃ vāsudevaḥ parā prakṛtiḥ, itare saṃkarṣaṇādayaḥ kāryam; tam itthaṃbhūtaṃ parameśvaraṃ bhagavantam abhigamanopādānejyāsvādhyāyayogair*
 
 *varṣaśatam*
 
@@ -21,7 +21,7 @@ Before turning to the classifications of different Pāñcarātra groups containe
 
 *kṣīṇakleśo*
 
-*bhagavantam eva pratipadyata iti */. – 
+*bhagavantam eva pratipadyata iti*/. – 
 
 > “The unique Bhagavat, Vāsudeva, whose essence is pure knowledge, is the supreme reality. After dividing himself, he is possessed of a fourfold form: the form\[s\] \( *vyūha*\) Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha. 
 
@@ -87,9 +87,9 @@ Rāmakaṇṭha’s distinction between the Sāṅkarṣaṇapāñcarātras and 
 
 [^59]: On which see *Sāṃkhyakārikā* 23, 24, 27, and 33. In the Pāñcarātra literature see e.g.*Ahirbudhnyasaṃhitā* 4.38, and *Lakṣmītantra* 7.30. 
 
-[^60]: NPP 91.18 *ff*: *pariṇativedāntavidaḥ saṃhitāpāñcarātrāś cāhuḥ satyaṃ bhinnā eva jīvātmānaḥ, te tu* *paramakaraṇād anaśvarād brahmapadavācyāt avyāpakā eva ghaṭādivat svakāraṇalayasvabhāvāś* *cotpadyante iti*. 
+[^60]: NPP 91.18 *ff*: *pariṇativedāntavidaḥ saṃhitāpāñcarātrāś cāhuḥ satyaṃ bhinnā eva jīvātmānaḥ, te tu paramakaraṇād anaśvarād brahmapadavācyāt avyāpakā eva ghaṭādivat svakāraṇalayasvabhāvāś cotpadyante iti*. 
 
-[^61]: NPP 106.5 *ff*: *eṣa ca prasaṅgo vedāntavidāṃ pāñcarātrāṇāṃ ca samānaḥ */ * tair api brahmaṇi* *nārāyaṇākhyāyāṃ ca parasyāṃ prakṛtau jīvātmanāṃ layo muktir abhyupagatā yataḥ */. [[50]]
+[^61]: NPP 106.5 *ff*: *eṣa ca prasaṅgo vedāntavidāṃ pāñcarātrāṇāṃ ca samānaḥ*/ * tair api brahmaṇi nārāyaṇākhyāyāṃ ca parasyāṃ prakṛtau jīvātmanāṃ layo muktir abhyupagatā yataḥ*/. [[50]]
 
 available, such concerns do not figure prominently. Moreover, in the works by the Vedāntin defenders of Pāñcarātra orthodoxy, in the Vaikhānasa literature62 and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia. 
 
@@ -103,7 +103,7 @@ According to these sources, the two types of worshipper participate alongside ea
 
 Elsewhere \(SS 19.84c-85\), it is said that the “Heart mantra” is to be recited with a different ending depending on the goal of the initiate – *svāhā* for enjoyments \( *bhoga*\) and *namas* for liberation \( *mokṣa*\). The SS cites another example wherein the *niṣkāma* and the *sakāma* devotees worship the mantras of the “manifested deities” 
 
-[^62]: Colas \(1990\) has shown that a number of Vaikhānasa works adumbrate sub-groups within the Pāñcarātra. Among these, the *Samūrtārcanādhikaraṇa* \(65.123-125\) divides Pāñcarātrikas into *āgneya* *vaiṣṇava* s and *tāmasa vaiṣṇava* s, the former following the rites prescribed in the *sūtra* of Bodhāyana and others, the latter following those prescribed in the *sūtra* of Kātyāyana and others. The *Samūrtārcanādhikaraṇa* is almost certainly earlier than Yāmuna, and may be as early as the ninth century \(see Colas 1996: 95\). Other Vaikhānasa texts offering variant subdivisions include the *Kriyādhikāra*, composed at the very latest during the thirteenth century, and possibly considerably earlier \(ibid.\), and the *Ānandasaṃhitā*, among the latest of the Vaikhānasa “medieval corpus”. 
+[^62]: Colas \(1990\) has shown that a number of Vaikhānasa works adumbrate sub-groups within the Pāñcarātra. Among these, the *Samūrtārcanādhikaraṇa* \(65.123-125\) divides Pāñcarātrikas into *āgneya vaiṣṇava* s and *tāmasa vaiṣṇava* s, the former following the rites prescribed in the *sūtra* of Bodhāyana and others, the latter following those prescribed in the *sūtra* of Kātyāyana and others. The *Samūrtārcanādhikaraṇa* is almost certainly earlier than Yāmuna, and may be as early as the ninth century \(see Colas 1996: 95\). Other Vaikhānasa texts offering variant subdivisions include the *Kriyādhikāra*, composed at the very latest during the thirteenth century, and possibly considerably earlier \(ibid.\), and the *Ānandasaṃhitā*, among the latest of the Vaikhānasa “medieval corpus”. 
 
 [^63]: In other words, the four Vyūhas Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha \(SS 7.29-36\). [[51]]
 
@@ -111,17 +111,17 @@ Elsewhere \(SS 19.84c-85\), it is said that the “Heart mantra” is to be reci
 
 \( *pravṛtti*\), terms to which I shall return in Chapter Seven when I discuss the *Nārāyaṇīya*.65 This passage from the PauṣS is especially notable for its claim that those who seek only pleasures or “enjoyments” \( *bhoga*\) achieve success therein by means of “engagement”, but that once they are satiated by such pleasures, they practise “disengagement”.66 
 
-In this last example from the PauṣS, the way of “disengagement” or desireless \( *niṣkāma*\) worship appears to be considered the higher practice for the more advanced initiates. It is striking that while both the SS and the PauṣS contain passages \(as referred to above\) in which *sakāma* and *niṣkāma* are presented as apparently equally legitimate modes of worship, the PauṣS also contains a number of passages wherein *sakāma * worship is condemned, or at the least considered very inferior. Two good examples of this are found in the 31st chapter. In a verse \(PauṣS 31.202c-203\) I shall return to below when I discuss the Ekāyanas, *sakāma* worshippers are said to attain only meagre rewards \( *svalpaphala*\), in comparison to *akāma * worshippers who attain the world of Acyuta \( *acyutaloka*\). And before this we are told the following: “The omniscient abiding in the heart does not permit \[worship that is performed with\] desire. One who grants heaven to his devotees even when it is not asked for – what is 64 SS 10.48-50b: *saṃnyāsaṃ sañcayaṃ vāpi kṛtvā samyak kṛtasya vai */ *mantrarūpānukāriṇyā*
+In this last example from the PauṣS, the way of “disengagement” or desireless \( *niṣkāma*\) worship appears to be considered the higher practice for the more advanced initiates. It is striking that while both the SS and the PauṣS contain passages \(as referred to above\) in which *sakāma* and *niṣkāma* are presented as apparently equally legitimate modes of worship, the PauṣS also contains a number of passages wherein *sakāma * worship is condemned, or at the least considered very inferior. Two good examples of this are found in the 31st chapter. In a verse \(PauṣS 31.202c-203\) I shall return to below when I discuss the Ekāyanas, *sakāma* worshippers are said to attain only meagre rewards \( *svalpaphala*\), in comparison to *akāma * worshippers who attain the world of Acyuta \( *acyutaloka*\). And before this we are told the following: “The omniscient abiding in the heart does not permit \[worship that is performed with\] desire. One who grants heaven to his devotees even when it is not asked for – what is 64 SS 10.48-50b: *saṃnyāsaṃ sañcayaṃ vāpi kṛtvā samyak kṛtasya vai*/ *mantrarūpānukāriṇyā*
 
-*mudranīyaṃ ca mudrayā *// *phalārthaṃ prasavaṃ yena naiti saṃnyāsakāriṇām */ *phalaparyavasānaṃ*
+*mudranīyaṃ ca mudrayā*// *phalārthaṃ prasavaṃ yena naiti saṃnyāsakāriṇām*/ *phalaparyavasānaṃ*
 
-*ca kālam āgamacoditam *// *hartuṃ no yujyate yena siddhād yais tu phalārthinām */. See Hikita’s \(1991\) translation of this passage. 
+*ca kālam āgamacoditam*// *hartuṃ no yujyate yena siddhād yais tu phalārthinām*/. See Hikita’s \(1991\) translation of this passage. 
 
 [^65]: See *Mānavadharmaśāstra* 12.88-90, where it is said that there are two kinds of Vedic act: *pravṛtta*, which leads to increased happiness, and *nivṛtta*, which leads to supreme bliss \( *naiḥśreyasika*\). Action undertaken to satisfy desires here and in the next life is called *pravṛtta*, while action which is free from desire \( *niṣkāma*\) and is accompanied by knowledge is called *nivṛtta*. 
 
-[^66]: PauṣS 19.51-52b: *pravṛttiś ca nivṛttiś ca karma caitad dvidhā ’bjaja */ *jayanti bhogaikaratāḥ*
+[^66]: PauṣS 19.51-52b: *pravṛttiś ca nivṛttiś ca karma caitad dvidhā ’bjaja*/ *jayanti bhogaikaratāḥ*
 
-*pravṛttena tu karmaṇā *// *paritṛptās tu sambhogaiḥ nivṛttenācaranti ca */. [[52]]
+*pravṛttena tu karmaṇā*// *paritṛptās tu sambhogaiḥ nivṛttenācaranti ca*/. [[52]]
 
 it that is not given by him? Therefore, one should abandon requests\!”67 Such sentiments provide a striking contrast to other passages in the PauṣS \(at e.g. 23.3-5, 31.227, 36.80-81, 38.26-28\) which address *sakāma* and *niṣkāma* worshippers without favouring one kind over the other. They also contrast with the presentation of *sakāma* and *niṣkāma* worship in the SS, which does not contain a similar bias.68 It seems reasonable to assume that the passages in the PauṣS which favour *niṣkāma* over *sakāma*, and exhort the rejection of the latter, are the work of a different author from the passages in the same text wherein both approaches are presented as equally valid. 
 
@@ -129,7 +129,7 @@ Given that the SS does not contain condemnations of *sakāma* worship, and that 
 
 Notwithstanding these presumably later additions to the PauṣS, there are many passages in this work, as there are also in the SS, wherein *sakāma* and *niṣkāma* worshippers are depicted as participating alongside each other in the same rites. In such cases it appears that there would have been no observable difference between the two kinds of worshipper. Both could belong to any of the four social classes \( *varṇa*\) and, as we have seen, it is indicated in the PauṣS that a worshipper may go from being *sakāma* to being *niṣkāma* purely according to his own inclinations. Judging by such passages, then, all initiates appear to have been eligible for either mode of worship. 
 
-However, both the SS and the PauṣS elsewhere contain a classification of the different 67 PauṣS 31.149c-150: *kāṅkṣitaṃ nānujānāti sarvajño hṛdaye sthitaḥ* // *aprārthito ’pi svargaṃ tu* *bhaktānāṃ yo dadāti ca */ *kim adeyaṃ hi tasyāsti tasmād abhyarthanāṃ tyajet* //. 
+However, both the SS and the PauṣS elsewhere contain a classification of the different 67 PauṣS 31.149c-150: *kāṅkṣitaṃ nānujānāti sarvajño hṛdaye sthitaḥ* // *aprārthito ’pi svargaṃ tu bhaktānāṃ yo dadāti ca*/ *kim adeyaṃ hi tasyāsti tasmād abhyarthanāṃ tyajet* //. 
 
 [^68]: The only exception I could find is at SS 19.146-147b, where it is said that during the liberating ascent of the individual self \( *jīva*\) through the six paths \( *adhvan*\), the same self becomes indifferent \( *virakta*\) to enjoyments \( *bhoga*\) such as miniaturisation \( *aṇiman*\) etc. Again, see Hikita’s \(1993\) translation of this passage. 
 
@@ -139,17 +139,17 @@ kinds of devotee wherein eligibilty for particular forms of worship *is* constra
 
 I will discuss that found in the PauṣS below. In the SS, we read near the beginning of the second chapter: 
 
-*aṣṭāṅgayogasiddhānāṃ hṛdyāganiratātmanām *// *yoginām adhikāraḥ syād* *ekasmin hṛdayeśaye */ *vyāmiśrayāgayuktānāṃ viprāṇāṃ vedavādinām *// 
+*aṣṭāṅgayogasiddhānāṃ hṛdyāganiratātmanām*// *yoginām adhikāraḥ syād ekasmin hṛdayeśaye*/ *vyāmiśrayāgayuktānāṃ viprāṇāṃ vedavādinām*// 
 
-*samantraṃ tu caturvyūhe tv adhikāro na cānyathā */ *trayāṇāṃ kṣatriyādīnāṃ*
+*samantraṃ tu caturvyūhe tv adhikāro na cānyathā*/ *trayāṇāṃ kṣatriyādīnāṃ*
 
-*prapannānāṃ ca tattvataḥ *// *amantram adhikāras tu caturvyūhakriyākrame */ 
+*prapannānāṃ ca tattvataḥ*// *amantram adhikāras tu caturvyūhakriyākrame*/ 
 
-*sakriye mantracakre tu vaibhavīye ’vivekinām *// *mamatāsannirastānāṃ*
+*sakriye mantracakre tu vaibhavīye ’vivekinām*// *mamatāsannirastānāṃ*
 
-*svakarmaniratātmanām */ *karmavāṅmanasaiḥ samyag bhaktānāṃ parameśvare*
+*svakarmaniratātmanām*/ *karmavāṅmanasaiḥ samyag bhaktānāṃ parameśvare*
 
-// *caturṇāṃ adhikāro vai prāpte dīkṣākrame sati */. – “With regard to the one who dwells in the heart, the authority \[to worship this god\] is for yogins who are accomplished in the eight-limbed yoga, whose selves are intent upon internal worship \(literally “the sacrifice in the heart”\). Regarding \[the worship of\] the four Vyūhas with mantras, the authority is for none other than the Brahmins who are versed in the Vedas \[and\] are engaged in mixed worship. And for the \[other\] three 
+// *caturṇāṃ adhikāro vai prāpte dīkṣākrame sati*/. – “With regard to the one who dwells in the heart, the authority \[to worship this god\] is for yogins who are accomplished in the eight-limbed yoga, whose selves are intent upon internal worship \(literally “the sacrifice in the heart”\). Regarding \[the worship of\] the four Vyūhas with mantras, the authority is for none other than the Brahmins who are versed in the Vedas \[and\] are engaged in mixed worship. And for the \[other\] three 
 
 \[social classes\] Kṣatriya and so on, who have truly taken refuge \[with god\], \[their\] 
 
@@ -157,7 +157,7 @@ authority is \[also\] in the series of rites relating to \[the worship of\] the 
 
 [^71]: LT 11.48c-49: *saṃsiddhayogatattvānām* \(or *susiddhayogatattvānām*, see Krishnamacharya 1959: 39\) **
 
-*adhikāraḥ paramātmani *// *vyāmiśrayogayuktānāṃ madhyānāṃ vyūhabhāvane */ *vaibhavīyādirūpeṣu* *vivekavidhurātmanām *//. [[54]]
+*adhikāraḥ paramātmani*// *vyāmiśrayogayuktānāṃ madhyānāṃ vyūhabhāvane*/ *vaibhavīyādirūpeṣu vivekavidhurātmanām*//. [[54]]
 
 model of worship, i.e. of god’s *para*, *vyūha* and *vibhava* forms, which is referred to in the SS’s opening chapter \(SS 1.23\), which forms the organising structure for most of Chapters 2-12, and which is reflected in the three types of initiation \( *vibhava*, *vyūha* and *sūkṣmā dīkṣā*\) that are introduced at SS 16.28c-29b. 
 
@@ -221,9 +221,9 @@ Before we move on to the next group of five Vaiṣṇavas in the JS, it is worth
 
 The second group of five Vaiṣṇavas listed in the JS \(22.28-37\) consists of the Āpta, the Añjalikārin, the Anāpta, the Ārambhin and the Saṃpravartin. At JS 22.28-34b, the Āptas are themselves subdivided into the Sāttvata \(who worships god in accordance with the “five times”, *pañcakālyena*\), the Añjalikārin, and the Vipra \(who performs the installation rites, *pratiṣṭhā*\). However, elsewhere the Añjalikārin, who is 74 Yāmuna himself rejects this accusation and, as I will demonstrate shortly, does not differentiate between ‘Sātvatas’ and other ‘Bhāgavata’ Brahmins. 
 
-[^75]: ViṣṇuS 2.22-23b: *yathā tu vedavṛkṣasya śākhābhedā hy anekaśaḥ */ *tahtā bhedāḥ samākhyātāḥ*
+[^75]: ViṣṇuS 2.22-23b: *yathā tu vedavṛkṣasya śākhābhedā hy anekaśaḥ*/ *tahtā bhedāḥ samākhyātāḥ*
 
-*pañcarātrasya sūribhiḥ *// *kriyāpāṭhaviśeṣais tu bhidyante te pṛthak pṛthak */. [[60]]
+*pañcarātrasya sūribhiḥ*// *kriyāpāṭhaviśeṣais tu bhidyante te pṛthak pṛthak*/. [[60]]
 
 described as abandoning the fruit of the ritual \( *saṃnyāsakarmayogena phalasaṃpad* *vinaiva hi*, JS 22.31ab\) and as desiring liberation only, is listed as an independent Vaiṣṇava \(JS 20.267a, 21.87a\). The Anāpta is said to perform the ritual enjoined for Āptas, but without abandoning the duties appropriate to their social class \( *varṇadharma*, JS 22.34c-35b\) – in contrast to the Āptas, we must presume. The Ārambhin is described as worshipping in order to attain wealth \(JS 22.35c-36b\), and the Saṃpravartin as worshipping Hari “in the wrong way” \( *amārgena*, JS 22.36c-37b\). 
 

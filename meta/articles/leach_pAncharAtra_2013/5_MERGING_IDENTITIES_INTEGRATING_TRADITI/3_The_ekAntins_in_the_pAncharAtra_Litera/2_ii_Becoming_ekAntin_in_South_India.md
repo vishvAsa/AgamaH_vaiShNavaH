@@ -5,17 +5,17 @@ title = "2 ii \\) Becoming Ekāntin in South India"
 
 It is clear that, from the time of the composition of the *Nārāyaṇīya*, the word *ekāntin* has been used as a general term of commendation, as a means of conferring authority and expertise upon deserving persons, whether real or imagined. As we have seen in 364 ĀP 142.16-17: *yadi paraṃ te paramapuruṣam evāśritā ekāntinaḥ, anye kṣudradaivatakāḥ*
 
-*sādhāraṇā iti */. See also the SanS \( *Ṛṣirātra * 3.111cd\), where *ekāntacintanā * is explained as “never thinking of another god” \( *deve nānyacintā kadācana*\). As we have seen, the SanS is quoted by Yāmuna, and so predates him. [[215]]
+*sādhāraṇā iti*/. See also the SanS \( *Ṛṣirātra * 3.111cd\), where *ekāntacintanā * is explained as “never thinking of another god” \( *deve nānyacintā kadācana*\). As we have seen, the SanS is quoted by Yāmuna, and so predates him. [[215]]
 
 several examples above, when the term is used in this “informal”, non-specific way, the passage in which it appears will often allude, either directly or indirectly, to the *Nārāyaṇīya*. The JS’s and the ViṣṇuS’s accounts of Ekāntins and Ekāntikas are different. They purport to offer factual descriptions of a particular class of Vaiṣṇava, and presumably because their primary aim is to describe rather than to praise, they make no appeals to the authority of the *Nārāyaṇīya*. Indeed, although the Ekāntin/Ekāntika depicted in these works is a renunciant, there is little to suggest that he is the same figure that we encounter in the *Śāntiparvan*. Contrarily, as we might expect, when *ekāntin* is used in this specifically descriptive or taxonomic sense but as a term of *self*-description, it suits the purposes of the authors to refer to the *Nārāyaṇīya* quite frequently, as is demonstrated especially in the opening chapters of the PārS and ĪS. 
 
 It is not always easy to determine whether *ekāntin * is being used as a general term of commendation or as a proper name labelling a specific religious identity. 
 
-Āgamasiddhānta or Ekāyana scriptural sources, whose authors likely called themselves Ekāntin, on certain occasions also use the term in the former sense. Thus, when we read in the ĪS of “those illustrious Ekāntins, headed by Śaṭhakopa, who have descended to the earth in order to restore mankind”,365 it is obvious that *ekāntin* is being used here as a straightforward honorific. The author is taking a term of commendation from his own religious culture and applying it retrospectively to a figure from the rather distant past, in this instance the famous ninth-tenth century Tamil devotional poet better known as Nammāḻvār. Although this affords us an insight into the esteem in which Nammāḻvār was held in certain Pāñcarātrika circles perhaps nearly half a millennium after his death, I do not consider this to be an especially significant use of the word *ekāntin*. Similar examples may be found elsewhere. Sometimes, inevitably, the application of the term is rather more ambiguous. In these verses from the NārS, for instance, *ekāntin* is also seemingly being used as a general term of commendation, but the fact that it associates Ekāntins 365 ĪS 8.175c-176b: *ekāntino mahābhāgāḥ śaṭhakopapuraḥsarāḥ *// *kṣoṇyāṃ kṛtāvatārā ye* *lokojjīvanahetunā */. [[216]]
+Āgamasiddhānta or Ekāyana scriptural sources, whose authors likely called themselves Ekāntin, on certain occasions also use the term in the former sense. Thus, when we read in the ĪS of “those illustrious Ekāntins, headed by Śaṭhakopa, who have descended to the earth in order to restore mankind”,365 it is obvious that *ekāntin* is being used here as a straightforward honorific. The author is taking a term of commendation from his own religious culture and applying it retrospectively to a figure from the rather distant past, in this instance the famous ninth-tenth century Tamil devotional poet better known as Nammāḻvār. Although this affords us an insight into the esteem in which Nammāḻvār was held in certain Pāñcarātrika circles perhaps nearly half a millennium after his death, I do not consider this to be an especially significant use of the word *ekāntin*. Similar examples may be found elsewhere. Sometimes, inevitably, the application of the term is rather more ambiguous. In these verses from the NārS, for instance, *ekāntin* is also seemingly being used as a general term of commendation, but the fact that it associates Ekāntins 365 ĪS 8.175c-176b: *ekāntino mahābhāgāḥ śaṭhakopapuraḥsarāḥ*// *kṣoṇyāṃ kṛtāvatārā ye lokojjīvanahetunā*/. [[216]]
 
-with supernatural powers and “worldly” desires makes it rather more striking, as does its suggestion that one may become an Ekāntin quite easily: *dvādaśyāṃ caivam eva hi *// *pāraṇaṃ yaḥ prakurvīta dīkṣitair vaiṣṇavaiḥ saha*
+with supernatural powers and “worldly” desires makes it rather more striking, as does its suggestion that one may become an Ekāntin quite easily: *dvādaśyāṃ caivam eva hi*// *pāraṇaṃ yaḥ prakurvīta dīkṣitair vaiṣṇavaiḥ saha*
 
-/ *sa bhaved bhaktimān viṣṇau tathaikāntitvam āpnuyāt *// *kaivalyaṃ cāpnuyāt* *paścāt nātra kāryā vicāraṇā */ *aṇimādiguṇān vāpi kāṃkṣitān aihikāṃs tu vā *//. 
+/ *sa bhaved bhaktimān viṣṇau tathaikāntitvam āpnuyāt*// *kaivalyaṃ cāpnuyāt paścāt nātra kāryā vicāraṇā*/ *aṇimādiguṇān vāpi kāṃkṣitān aihikāṃs tu vā*//. 
 
 – “Whoever should break the fast along with initiated Vaiṣṇavas on the twelfth day \[of the month of Mārgaśīrṣa\], he is truly devoted to Viṣṇu and can therefore attain the status of an Ekāntin. And then he can attain perfect isolation \( *kaivalya*\), or else the supernatural powers such as miniaturisation etc.,366 or indeed \[whatever\] worldly gains are desired. With regard to this matter, there need be no inquiry \(i.e. it is clear\).” \(NārS 24.53d-55\) 
 
@@ -31,19 +31,19 @@ desire. One who grants heaven to his devotees even when it is not asked for – 
 
 \( *bhāgavatottamāḥ*\). [[217]]
 
-However, inevitably the South Indian Pāñcarātrika ‘Ekāntins’ had to adapt to a religious environment which was substantially different from that which formed the background to the *Nārāyaṇīya*. For example, the yogic and ascetic frames of reference by means of which the identity of the Ekāntins was originally established had to be radically reinterpreted in order to remain applicable in these different circumstances. Of course, this process is encountered already in the later chapters of the *Nārāyaṇīya* itself, wherein “renunciation” is reinterpreted, as it is in the *Bhagavadgītā*, to mean the renunciation of actions motivated by desire. This understanding of renunciation is found also in the Pāñcarātra Saṃhitās, as we will see in the following chapter. But the textual evidence suggests that South Indian Ekāntins also had to adapt to changing circumstances *in* *South India*. For example, there are indications, as demonstrated in this passage from the PauṣS, that they came to modify their position on worship undertaken in order to fulfill personal desires: *phalamūlānnapratiṣṭhāṃ śṛṇu vakṣye phalārthinām* / *nānnadānāt paraṃ*
+However, inevitably the South Indian Pāñcarātrika ‘Ekāntins’ had to adapt to a religious environment which was substantially different from that which formed the background to the *Nārāyaṇīya*. For example, the yogic and ascetic frames of reference by means of which the identity of the Ekāntins was originally established had to be radically reinterpreted in order to remain applicable in these different circumstances. Of course, this process is encountered already in the later chapters of the *Nārāyaṇīya* itself, wherein “renunciation” is reinterpreted, as it is in the *Bhagavadgītā*, to mean the renunciation of actions motivated by desire. This understanding of renunciation is found also in the Pāñcarātra Saṃhitās, as we will see in the following chapter. But the textual evidence suggests that South Indian Ekāntins also had to adapt to changing circumstances *in South India*. For example, there are indications, as demonstrated in this passage from the PauṣS, that they came to modify their position on worship undertaken in order to fulfill personal desires: *phalamūlānnapratiṣṭhāṃ śṛṇu vakṣye phalārthinām* / *nānnadānāt paraṃ*
 
-*dānaṃ triṣu lokeṣu vidyate *// *sadyaḥprītikaraṃ hṛdyaṃ prāṇadaṃ prāṇinām* *api */ *utpattāv api saṃskāre rasam annasya kīrtitam *// *annād bhavanti bhūtāni* *tasmāt sarvaṃ* *pratiṣṭhitam* / *tac ca pratiṣṭhitaṃ yena tena sarvaṃ pratiṣṭhitam* 
+*dānaṃ triṣu lokeṣu vidyate*// *sadyaḥprītikaraṃ hṛdyaṃ prāṇadaṃ prāṇinām api*/ *utpattāv api saṃskāre rasam annasya kīrtitam*// *annād bhavanti bhūtāni tasmāt sarvaṃ pratiṣṭhitam* / *tac ca pratiṣṭhitaṃ yena tena sarvaṃ pratiṣṭhitam* 
 
-// *putradāradhanair annair vṛddhiṃ yāti kṣaṇāt kṣaṇam* / *prāpnoti paramām* *pūjām utkṛṣṭebhyo mahattarām *// *hṛṣṭaḥ puṣṭas tato bhūtvā tṛpto bhavati* *sarvadā* / *bhuktvā bhogān suvipulān ante nārāyaṇālayam* // *yāti* *candrapratīkāśair vimānair devanirmitaiḥ */ *svargādau sarvaloke tu sthitvā*
+// *putradāradhanair annair vṛddhiṃ yāti kṣaṇāt kṣaṇam* / *prāpnoti paramām pūjām utkṛṣṭebhyo mahattarām*// *hṛṣṭaḥ puṣṭas tato bhūtvā tṛpto bhavati* *sarvadā* / *bhuktvā bhogān suvipulān ante nārāyaṇālayam* // *yāti* *candrapratīkāśair vimānair devanirmitaiḥ*/ *svargādau sarvaloke tu sthitvā*
 
 *kalpaśatān bahūn* // *kālāt punar ihāyāti deśe sarvottame śubhe* / *satāṃ kule* *samāsādya janma jāty uttamaṃ mahat* // *jāyate rūpavān vāggmī*
 
-*vidyājñānaparāyaṇah */ *dviṣatām api sarveṣāṃ pūjyaḥ priyataras sadā* // 
+*vidyājñānaparāyaṇah*/ *dviṣatām api sarveṣāṃ pūjyaḥ priyataras sadā* // 
 
 *śīlavān śauryasampanno dhṛtyutsāhasamanvitaḥ* / *dvijadevaparo nityaṃ dātā*
 
-*bhūtahite rataḥ* // *ekāntī dharmavettā vai nārāyaṇaparāyaṇaḥ* / *trivargam* *akhilam bhuktvā yathābhimatalakṣaṇaḥ *// *janma\(ā\)bhyas taṃ śubhaṃ karma* *kṛtvānantaguṇaṃ punaḥ* / *jñānam āsādyate yena prayāti paramaṃ padam* //. – 
+*bhūtahite rataḥ* // *ekāntī dharmavettā vai nārāyaṇaparāyaṇaḥ* / *trivargam* *akhilam bhuktvā yathābhimatalakṣaṇaḥ*// *janma\(ā\)bhyas taṃ śubhaṃ karma* *kṛtvānantaguṇaṃ punaḥ* / *jñānam āsādyate yena prayāti paramaṃ padam* //. – 
 
 “Listen\! I will explain the dedication \(or consecration\) of fruits, roots and \[other\] 
 
@@ -75,7 +75,7 @@ In another passage of the PauṣS which conveys the same idea, the sectarian ide
 
 childhood, O best among the twice-born, a Tanmaya, well-versed in the rituals of the Lord, and having him as his highest aim.”368 As we have seen, ‘Tanmaya’ is yet another name for ‘Ekāyana’, ‘Āgamasiddhāntin’ or, in the South Indian context, 
 
-‘Ekāntin’. These verses just referred to are indubitably the work of an Ekāyana author since they follow on from the passage addressed in previous chapters wherein Ekāyanas are hailed as ‘Ekāntins’, and mixed worshippers are called “devotees in 368 PauṣS 36.265-266b: *dehānte vaiṣṇavaṃ lokaṃ prāpnuyāt punar eva hi */ *janma cāsādya cotkṛṣṭam* *ābālyād dvijasattama *// *bhagavatkarmaniṣṇātaḥ tatparas tanmayo bhavet *//. [[220]]
+‘Ekāntin’. These verses just referred to are indubitably the work of an Ekāyana author since they follow on from the passage addressed in previous chapters wherein Ekāyanas are hailed as ‘Ekāntins’, and mixed worshippers are called “devotees in 368 PauṣS 36.265-266b: *dehānte vaiṣṇavaṃ lokaṃ prāpnuyāt punar eva hi*/ *janma cāsādya cotkṛṣṭam* *ābālyād dvijasattama*// *bhagavatkarmaniṣṇātaḥ tatparas tanmayo bhavet*//. [[220]]
 
 appearance only”.369 The following verse, meanwhile, states that “Not aiming at the fruit \[of worship\], even in times of distress, he will not attain a rebirth in this world after leaving his body, O Pauṣkara.”370 The sectarian tenor of this passage as a whole, including its stated opposition to “mixed devotion” \(PauṣS 36.259cd\) and to worship undertaken in order to achieve a “fruit”, suggests to me that this was an earlier interpolation into the PauṣS than were the passages \(i.e. PauṣS 41.143-155 and 30.174c-184b\) quoted above on the donation of food, and “cattle, land and gold” to a temple. My reasons for believing this will become clear shortly. 
 
@@ -89,19 +89,19 @@ As we seen in Chapter Five, there are a number of passages in the PauṣS which 
 
 In a later chapter of the PauṣS, Pauṣkara asks God for a clarification with regard to the status of mixed worship, while pointing out that this has been repeatedly prohibited thus far.371 God replies: 
 
-*satyam etan mahābuddhe yathā sañcoditaṃ tvayā *// *kintu kriyāntare prāpte na* *dośas tv adhikāriṇām */ *yasmāt sarvaparatvaṃ hi teṣām asty acyutaṃ prati *// 
+*satyam etan mahābuddhe yathā sañcoditaṃ tvayā*// *kintu kriyāntare prāpte na* *dośas tv adhikāriṇām*/ *yasmāt sarvaparatvaṃ hi teṣām asty acyutaṃ prati*// 
 
 [^369]: The PārS, which was also authored by Ekāyanas, also promises rebirth as an Ekāyana to non-Ekāyana Pāñcarātrikas who correctly perform their duties. The passage in question \(PārS 13.114c-115\) has been discussed by Rastelli \(2006: 194\). 
 
-[^370]: PauṣS 36.266c-267b: *nābhisandhāya ca phalam āpatkālagato ’pi vai *// *tyaktvā dehaṃ*
+[^370]: PauṣS 36.266c-267b: *nābhisandhāya ca phalam āpatkālagato ’pi vai*// *tyaktvā dehaṃ*
 
-*punarjanma nāpnuyād iha pauṣkara */. 
+*punarjanma nāpnuyād iha pauṣkara*/. 
 
-[^371]: PauṣS 38.47-48b: *deva vyāmiśrayājitvaṃ pratiṣiddhaṃ punaḥ punaḥ */ *prāguktānāṃ ca yāgānāṃ*
+[^371]: PauṣS 38.47-48b: *deva vyāmiśrayājitvaṃ pratiṣiddhaṃ punaḥ punaḥ*/ *prāguktānāṃ ca yāgānāṃ*
 
-*draṣṭum aṅgīkṛtaṃ ca yat *// *tanmātrasaṃśayaṃ jātaṃ chettum arhasi sāṃpratam */. [[221]]
+*draṣṭum aṅgīkṛtaṃ ca yat*// *tanmātrasaṃśayaṃ jātaṃ chettum arhasi sāṃpratam*/. [[221]]
 
-*tadāśritatvād devānām anyeṣāṃ pūjanāt tu vai *// *na doṣo hi yathā loke* *bhrātṛbhṛtyagaṇasya ca */ *mānanād dharmapatnīnāṃ… *//. – * *“This is true, O 
+*tadāśritatvād devānām anyeṣāṃ pūjanāt tu vai*// *na doṣo hi yathā loke* *bhrātṛbhṛtyagaṇasya ca*/ *mānanād dharmapatnīnāṃ…*//. – * *“This is true, O 
 
 wise one, just as you have urged. But when this other type of ritual \(i.e. “mixed worship”\) is valid, then there is no fault for those who are qualified, since for them Acyuta is superior to all. \[Therefore\] because they are subordinate to him, there is no fault in worshipping other gods, just as in one’s everyday life \[there is no fault\] in paying honour to a retinue \( *gaṇa*\) of servants, or to one’s brothers, or to one’s lawful wives”. \(PauṣS 38.48c-50c\) 
 
@@ -119,11 +119,11 @@ and 51-72b, but crucially not the verses we are presently addressing. Indeed, th
 
 Moreover, the PārS itself attests to there being a certain lack of clarity on the issue of the participation of the Ekāyanas, or ‘Ekāntins’ as they are called here, in a practice which the PauṣS \(36.262c-263b\) presents as being a key characteristic of “mixed worship”, namely the worship of the subordinate deities \( *gaṇa*\) of Viṣṇu. The passage reads as follows: 
 
-*vāstukṣetreśagaruḍadvārśrīcaṇḍrapracaṇḍrakān *// *abhyarcyārghyādibhir* *devān prāsādasthāṃś ca pūjayet */ *prāsāde ’tha caturdvāre maṇḍape cetareṣu* *ca *// *dvāratraye ’tha dhātāraṃ vidhātāraṃ jayaṃ tathā */ *vijayaṃ cāpi* *bhadraṃ ca subhadraṃ ca ganeśvaram *// *yad aṅgabhāvam abhyeti* *dvārsthādyaṃ devatāgaṇam* / *viṣvaksenāvasānaṃ ca narāṇām alpamedhasām* 
+*vāstukṣetreśagaruḍadvārśrīcaṇḍrapracaṇḍrakān*// *abhyarcyārghyādibhir* *devān prāsādasthāṃś ca pūjayet*/ *prāsāde ’tha caturdvāre maṇḍape cetareṣu* *ca*// *dvāratraye ’tha dhātāraṃ vidhātāraṃ jayaṃ tathā*/ *vijayaṃ cāpi* *bhadraṃ ca subhadraṃ ca ganeśvaram*// *yad aṅgabhāvam abhyeti* *dvārsthādyaṃ devatāgaṇam* / *viṣvaksenāvasānaṃ ca narāṇām alpamedhasām* 
 
-// *jantor ekāntinas tad vai cittakhedakṛd arcanam* / *vighnakṛt prakṛtasyāpi* *śiṣyāṇāṃ tadanarcanam *// *atas tadanukampārthaṃ devabhṛtyadhiyārcanam* / 
+// *jantor ekāntinas tad vai cittakhedakṛd arcanam* / *vighnakṛt prakṛtasyāpi* *śiṣyāṇāṃ tadanarcanam*// *atas tadanukampārthaṃ devabhṛtyadhiyārcanam* / 
 
-*bhaktiśraddhojjhitaṃ caiva vihitaṃ tv evam eva hi* // *… */ *… *// *etāvad arcanāt* *teṣāṃ guror ekāntinas tu vai */ *syād virodhanirāsas tu yato bhṛtyas tu te hareḥ*
+*bhaktiśraddhojjhitaṃ caiva vihitaṃ tv evam eva hi* // *…*/ *…*// *etāvad arcanāt* *teṣāṃ guror ekāntinas tu vai*/ *syād virodhanirāsas tu yato bhṛtyas tu te hareḥ*
 
 //. – “After worshipping Vāstu \(or ‘Vāstvīśa’ i.e. Vāstupuruṣa, the guardian deity of the temple\), Kṣetreśa, Garuḍa, Dvārśrī \(also known as Dvāralakṣmī\), Caṇḍa and Pracaṇḍa with *arghya* and so on, one should worship the temple gods in the temple, and the others in the pavillion at \[each of\] the four \[entrance-\]gates. 
 
@@ -147,13 +147,13 @@ However, Yāmuna does not make this assertion in response to a specific criticis
 
 [^373]: PārS 6.124c-126b → ĪS 3.100-101; PārS 6.128-133b → ĪS 4.2c-7. 
 
-[^374]: PārS 6.131-132b: *te tat prāṇicyutaṃ prahvā dattam apy avahelayā */ *gṛhṇanti manasā śreyaḥ*
+[^374]: PārS 6.131-132b: *te tat prāṇicyutaṃ prahvā dattam apy avahelayā*/ *gṛhṇanti manasā śreyaḥ*
 
-*paraṃ dhyātvā dhiyā hṛdi *// *yataḥ sarve ’cyutamayās taccittārpitamānasāḥ */. Note that ĪS 4.5a reads *te tat pāṇicyutaṃ prahvā*. 
+*paraṃ dhyātvā dhiyā hṛdi*// *yataḥ sarve ’cyutamayās taccittārpitamānasāḥ*/. Note that ĪS 4.5a reads *te tat pāṇicyutaṃ prahvā*. 
 
 [^375]: On the mythical plane Caṇḍra, Pracaṇḍra, Dhātṛ, Vidhātṛ, Jaya, Vijaya, Bhadra and Subhadra are the gatekeepers of Vaikuṇṭha, Viṣṇu’s heaven. 
 
-[^376]: ĀP 168 6-7: *devatāgaṇaḥ *// *guṇabhūtaḥ śruto viṣṇor viṣṇupāriṣadeśavat */. [[224]]
+[^376]: ĀP 168 6-7: *devatāgaṇaḥ*// *guṇabhūtaḥ śruto viṣṇor viṣṇupāriṣadeśavat*/. [[224]]
 
 Much of this is hypothetical, but when read in tandem with the PauṣS’s legitimation of valid forms of “mixed worship” for those who are qualified, these verses in the PārS and the ĪS do appear to indicate that some Ekāntins \(or Ekāyanas etc.\) were participating in forms of worship, specifically in temples, that members of their tradition had previously condemned. However, that the Ekāntin worship of Viṣṇu’s subordinate deities appears to have attracted controversy is itself rather difficult to explain within the broader history of the Pāñcarātra. For the Pāñcarātrika worship of Viṣṇu’s divine retinue is enjoined throughout the scriptural literature, both in its oldest documents, and in South Indian works including the PārS and the ĪS 
 

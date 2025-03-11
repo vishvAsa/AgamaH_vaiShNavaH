@@ -29,13 +29,13 @@ Ekāntins are often described in purely abstract terms, as the perfect human bei
 
 As Vaiśaṃpāyana says to Janamejaya: “Persons that are Ekāntins are very rare, O 
 
-King. If the world were filled with Ekāntins, O son of the Kurus, \[who are\] non-violent, know the Self, are intent upon the welfare of all beings, are free from actions motivated by desire, the Kṛta Age would be reached \[again\]\!”293 However, the term *ekāntin * is also applied to particular persons, for example to the seer \( *ṛṣi*\) Nārada, whose story comprises the oldest text layer of Part A, and who is a prominent character in several chapters in Part B. Also present in both parts of the text are the fantastical “White Men”, the paradigmatic Ekāntins who inhabit White Island: *kṣīrodadher uttarataḥ śvetadvīpo mahāprabhaḥ *// *tatra nārāyaṇaparā*
+King. If the world were filled with Ekāntins, O son of the Kurus, \[who are\] non-violent, know the Self, are intent upon the welfare of all beings, are free from actions motivated by desire, the Kṛta Age would be reached \[again\]\!”293 However, the term *ekāntin * is also applied to particular persons, for example to the seer \( *ṛṣi*\) Nārada, whose story comprises the oldest text layer of Part A, and who is a prominent character in several chapters in Part B. Also present in both parts of the text are the fantastical “White Men”, the paradigmatic Ekāntins who inhabit White Island: *kṣīrodadher uttarataḥ śvetadvīpo mahāprabhaḥ*// *tatra nārāyaṇaparā*
 
-*mānavāś candravarcasaḥ */ *ekāntabhāvopagatās te bhaktāḥ puruṣottamam *// 
+*mānavāś candravarcasaḥ*/ *ekāntabhāvopagatās te bhaktāḥ puruṣottamam*// 
 
-*te sahasrārciṣaṃ devaṃ praviśanti sanātanam */ *atīndriyā nirāhārā aniṣpandāḥ*
+*te sahasrārciṣaṃ devaṃ praviśanti sanātanam*/ *atīndriyā nirāhārā aniṣpandāḥ*
 
-*sugandhinaḥ *// *ekāntinas te puruṣāḥ śvetadvīpanivāsinaḥ */. - “North of the Milk Ocean, shining brilliantly, is White Island. The people there, devoted to Nārāyaṇa, are the colour of the moon. Those devotees of the Supreme Person have attained the state of *ekānta*. They enter the eternal, thousand-rayed god. 
+*sugandhinaḥ*// *ekāntinas te puruṣāḥ śvetadvīpanivāsinaḥ*/. - “North of the Milk Ocean, shining brilliantly, is White Island. The people there, devoted to Nārāyaṇa, are the colour of the moon. Those devotees of the Supreme Person have attained the state of *ekānta*. They enter the eternal, thousand-rayed god. 
 
 \[Existing in a state in which\] the sense faculties are transcended, without \[the need for\] food, motionless, sweet-smelling, those persons who live on White Island are Ekāntins.” \(MBh 12.323.23c-26b\) 
 
@@ -43,4 +43,4 @@ In the simplest terms, as expressed here and elsewhere \(e.g. 337.67\), Ekāntin
 
 Thereafter, I address the “religious identity” of the Ekāntins, paying particular attention to the ways in which they are distinguished from other worshippers. 
 
-[^293]: MBh 12.336.57e-58: *ekāntino hi puruṣā durlabhā bahavo nṛpa */// *yady ekāntibhir ākīrṇaṃ jagat* *syāt kurunandana */ *ahiṃsakair ātmavidbhiḥ sarvabhūtahite rataiḥ *// *bhavet kṛtayugaprāptir* *āśīḥkarmavivarjitaiḥ *///. [[181]]
+[^293]: MBh 12.336.57e-58: *ekāntino hi puruṣā durlabhā bahavo nṛpa*/// *yady ekāntibhir ākīrṇaṃ jagat syāt kurunandana*/ *ahiṃsakair ātmavidbhiḥ sarvabhūtahite rataiḥ*// *bhavet kṛtayugaprāptir āśīḥkarmavivarjitaiḥ*///. [[181]]

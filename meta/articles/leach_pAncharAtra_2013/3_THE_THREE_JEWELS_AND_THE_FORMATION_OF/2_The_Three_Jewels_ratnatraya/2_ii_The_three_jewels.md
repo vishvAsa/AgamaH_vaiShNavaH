@@ -49,13 +49,13 @@ PārS
 
 *svayam * // *sātvataṃ pauṣkaraṃ caiva jayākhyety evamādikam* /. 
 
-[^36]: In other words, desires for enjoyments \( *bhoga*\) rather than for liberation. See PārS 1.75bcd: * tatas* *tretāyugādiṣu */ *vikāravedāḥ sarvatra devāntaragocarāḥ* //; 1.79: *tatas tretāyuge sarve* *nānākāmasamanvitāḥ */ *vyāmiśrayājino bhūtvā tyajyanty ādyaṃ sanātanam* //; and 1.87 \(see next note\). The “changed Vedas” \( *vikāravedāḥ*\) at 1.75c are to be understood as the same as the “mixed *dharma*” that is mentioned at 1.87b. 
+[^36]: In other words, desires for enjoyments \( *bhoga*\) rather than for liberation. See PārS 1.75bcd: * tatas tretāyugādiṣu*/ *vikāravedāḥ sarvatra devāntaragocarāḥ* //; 1.79: *tatas tretāyuge sarve nānākāmasamanvitāḥ*/ *vyāmiśrayājino bhūtvā tyajyanty ādyaṃ sanātanam* //; and 1.87 \(see next note\). The “changed Vedas” \( *vikāravedāḥ*\) at 1.75c are to be understood as the same as the “mixed *dharma*” that is mentioned at 1.87b. 
 
 [^37]: In addition to the verses in the previous note, see especially PārS 1.87-89: *parityajya paraṃ dharmaṃ*
 
-*miśradharmam upeyuṣām */ *bhūyas tatpadakāṅkṣāṇāṃ śraddhābhaktī upeyuṣām *// *anugrahārthaṃ*
+*miśradharmam upeyuṣām*/ *bhūyas tatpadakāṅkṣāṇāṃ śraddhābhaktī upeyuṣām*// *anugrahārthaṃ*
 
-*varṇāṇāṃ yogyatāpādanāya ca */ * tathā janānāṃ sarveṣāṃ abhīṣṭaphalasiddhaye *// *sātvatādīni* *śāstrāṇi bhogamokṣapradāni ca */ *upadiśya tu divyāni śāstrāṇi tadanantaram *//. [[33]]
+*varṇāṇāṃ yogyatāpādanāya ca*/ * tathā janānāṃ sarveṣāṃ abhīṣṭaphalasiddhaye*// *sātvatādīni śāstrāṇi bhogamokṣapradāni ca*/ *upadiśya tu divyāni śāstrāṇi tadanantaram*//. [[33]]
 
 called the “root-Veda” or the “original Veda” \( *mūlaveda*, e.g. PārS 1.64b, 10.212c; *mūlaśruti*, PārS 1.63a\), the foremost Bhāgavata *dharma* \(PārS 1.78a\), the *dharma* of the Ekāntins \( *ekāntidharma*, PārS 1.60a\), the original *dharma* \( *prakṛtidharma*, PārS 
 
@@ -83,9 +83,9 @@ sages
 
 The author of the PārS directly relates his own text to this original revelation by claiming that it contains within itself the elucidation of the meaning of the PauṣS. 
 
-Explaining the transmission of the teaching, Śāṇḍilya, the narrator of the PārS, says: *pārameśvaraśāstrāṇāṃ sarveṣāṃ munipuṅgava * / *sārabhūtaṃ viśeṣeṇa* *pauṣkarārthopapādakam* // *mūlavedānusāreṇa chandasānuṣṭubhena ca* / 
+Explaining the transmission of the teaching, Śāṇḍilya, the narrator of the PārS, says: *pārameśvaraśāstrāṇāṃ sarveṣāṃ munipuṅgava * / *sārabhūtaṃ viśeṣeṇa pauṣkarārthopapādakam* // *mūlavedānusāreṇa chandasānuṣṭubhena ca* / 
 
-*lakṣagranthena sarvārthakriyājñānopalabdhaye *// *sa me ’bravīn mahāśāstraṃ*
+*lakṣagranthena sarvārthakriyājñānopalabdhaye*// *sa me ’bravīn mahāśāstraṃ*
 
 *pārameśvarasaṃjñayā* //. – “So as \[for me\] to attain knowledge, and the accomplishment of all \[my\] objectives, he \[Saṃkarṣaṇa\] related to me the great teaching called Pārameśvara, which is in accordance with the root-Veda \( *mūlaveda*\), has *anuṣṭubh* as its metre, consists \[originally\] of one *lakh* of verses, which is, O best of sages, the true essence of all the teachings relating to the highest Lord \( *pārameśvaraśāstrāṇām*\), and which presents in particular the meaning of the Pauṣkara \[Saṃhitā\].” \(PārS 1.90-92b\) 
 
@@ -93,13 +93,13 @@ The *Īśvarasaṃhitā *\(ĪS\) also contains substantial derivative portions, 
 
 [^39]: SS 22.52c-59b. Several of these verses, as Rastelli \(2006: 108 n. 202\) has shown, are included within a section of the tenth chapter of the PārS \(10.347-374b\). This whole section of the PārS is also included in the ĪS \(23.4-31b\). 
 
-[^40]: See PārS 10.376c-377b: *sātvataṃ pauṣkaraṃ caiva jayākhyaṃ ca tathaiva ca* // *evamādīni śāstrāṇi* *divyānīty avadhāraya* /. It should be pointed out that Rastelli \(2006: 111 *ff*\) offers a different reading of the passage containing these verses. See my discussion “The Formation of the Pāñcarātra Canon” 
+[^40]: See PārS 10.376c-377b: *sātvataṃ pauṣkaraṃ caiva jayākhyaṃ ca tathaiva ca* // *evamādīni śāstrāṇi divyānīty avadhāraya* /. It should be pointed out that Rastelli \(2006: 111 *ff*\) offers a different reading of the passage containing these verses. See my discussion “The Formation of the Pāñcarātra Canon” 
 
 below. [[34]]
 
 also borrowing liberally from the PārS. Like the PārS, this text is included in the canonical list of scriptures found in the PādS \( *jp* 1.103d\), but the ĪS is certainly the later text, probably not composed before the late thirteenth or fourteenth century \(Matsubara 1994: 28-31\). Numerous passages in the first chapter of the ĪS, a short history of the “descent” or genealogy of the Pāñcarātra scriptures \( *śāstrāvataraṇa*\), contain material which is apparently drawn directly from the PārS.41 The author refers to the three texts SS, PauṣS and JS again as the celestial \( *divya*\) teachings, which are proclaimed by Hari in the *anuṣṭubh* metre, and are “in accordance with the root-Veda”.42 A few lines later the text partially repeats itself with a verse, the first part of which is the same as PārS 10.376c-377b: 
 
-*sātvataṃ pauṣkaraṃ caiva jayākhyaṃ ca tathaiva ca *// * evamādīni divyāni* *śāstrāṇi hariṇā svayam */ * mūlavedānusāreṇa proktāni hitakāmyayā *//. – “Such celestial teachings as the Sātvata, Pauṣkara and Jayākhya were taught by \[the Lord\] Hari himself, in accordance with the root-Veda, for the sake of the well-being of others.” \(ĪS 64c-65\) 
+*sātvataṃ pauṣkaraṃ caiva jayākhyaṃ ca tathaiva ca*// * evamādīni divyāni śāstrāṇi hariṇā svayam*/ * mūlavedānusāreṇa proktāni hitakāmyayā*//. – “Such celestial teachings as the Sātvata, Pauṣkara and Jayākhya were taught by \[the Lord\] Hari himself, in accordance with the root-Veda, for the sake of the well-being of others.” \(ĪS 64c-65\) 
 
 The ĪS goes on to liken the position of the three texts within the broader literature to that of three mantras – the eight-syllabled \( *aṣṭākṣara*\), the twelve-syllabled \( *dvādaśākṣara*\) and the six-syllabled \( *ṣaḍakṣara*\)43 - among all the mantras of Viṣṇu: “And this triad Sātvata etc. is pervasive, O best of sages, as is the triad of mantras *aṣṭākṣara* etc., O learned ones.”44 How are we to understand the term *vyāpaka* 41 Parallel verses, containing a few minor changes, between the first chapter of the ĪS and the PārS: ĪS 
 
@@ -113,13 +113,13 @@ PārS 1.87-88; ĪS 1.50ab ← PārS 1.91ab; ĪS 1.50cd ← PārS 1.19ab; ĪS 1.5
 
 1.64c-65a ← PārS 10.376c-377a; ĪS 1.70ab ← PārS 1.90cd. 
 
-[^42]: ĪS 1.50-51a: *mūlavedānusāreṇa chandasānuṣṭubhena ca* / *sātvataṃ pauṣkaraṃ caiva jayākhyety* *evamādikam* // *divyaṃ sacchāstrajālaṃ*… 
+[^42]: ĪS 1.50-51a: *mūlavedānusāreṇa chandasānuṣṭubhena ca* / *sātvataṃ pauṣkaraṃ caiva jayākhyety evamādikam* // *divyaṃ sacchāstrajālaṃ*… 
 
 [^43]: These are, respectively, OṂ NAMO NĀRĀYAṆĀYA, OṂ NAMO BHAGAVATE 
 
 VĀSUDEVĀYA, and OṂ VIṢṆAVE NAMAḤ. 
 
-[^44]: ĪS 1.66: *sātvatādyaṃ trikaṃ caitat vyāpakaṃ munisattamāḥ* / *yathā cāṣṭākṣarādīnāṃ* *mantrāṇāṃ*
+[^44]: ĪS 1.66: *sātvatādyaṃ trikaṃ caitat vyāpakaṃ munisattamāḥ* / *yathā cāṣṭākṣarādīnāṃ mantrāṇāṃ*
 
 *tritayaṃ budhāḥ* //. Rastelli’s \(1999a: 71\) translation of this verse into German reads: “Und diese Dreiheit Sātvata usw. ist umfassend, ihr besten Weisen, wie die Dreiheit \(d.h. die Silbe *oṃ*\) für Mantras wie den Aṣṭākṣara\[mantra\] und die anderen, ihr Weisen.” This reading might be justified with recourse to a passage in the SS \(9.37-41b\) in which the *bīja* and *piṇḍa* portions of a mantra are called 
 
@@ -127,9 +127,9 @@ VĀSUDEVĀYA, and OṂ VIṢṆAVE NAMAḤ.
 
 However, elsewhere in the ĪS the *aṣṭākṣara* is named as one of three mantras which are themselves 35 
 
-in this context? In what sense are the three aforementioned mantras *vyāpaka* in their context? Elsewhere in the ĪS we are provided with an explanation: *sādhāraṇās tv ime mantrās trayaḥ* *sarvāsu* *mūrtiṣu* // *anye tu manavas* *tattanmūrtimātraparā hy ataḥ* / *vyāpakatritayenārcyāḥ sarvā api ca* *mūrtayaḥ* // 
+in this context? In what sense are the three aforementioned mantras *vyāpaka* in their context? Elsewhere in the ĪS we are provided with an explanation: *sādhāraṇās tv ime mantrās trayaḥ sarvāsu mūrtiṣu* // *anye tu manavas tattanmūrtimātraparā hy ataḥ* / *vyāpakatritayenārcyāḥ sarvā api ca mūrtayaḥ* // 
 
-*mantrair anyais tu sampūjyās tattanmūrtaya eva hi* / *tasmāt sarveṣu mantreṣu* *vyāpakatritayaṃ varam* //. – “These three mantras are applicable in \[the worship of\] all \[divine\] manifestations, while other formulas are only applicable to this or that particular manifestation. Indeed, all \[divine\] manifestations can be worshipped with the triad of pervasive \[mantras\], while particular \[individual\] 
+*mantrair anyais tu sampūjyās tattanmūrtaya eva hi* / *tasmāt sarveṣu mantreṣu vyāpakatritayaṃ varam* //. – “These three mantras are applicable in \[the worship of\] all \[divine\] manifestations, while other formulas are only applicable to this or that particular manifestation. Indeed, all \[divine\] manifestations can be worshipped with the triad of pervasive \[mantras\], while particular \[individual\] 
 
 manifestations are \[also\] worshipped with other mantras. Therefore, among all mantras the triad of pervasive \[ones\] is superior.” \(ĪS 23.53c-55b\) According to the author of this passage, then, the superiority of the “pervasive” 
 
@@ -145,7 +145,7 @@ called “pervasive” \( *vyāpaka*\): *sarveṣu viṣṇumantreṣu mantrā�
 
 *nārāyaṇāṣṭārṇaṃ dvitīyaṃ dvādaśākṣaram* // * vāsudevasya yogīndrās tato viṣṇuṣaḍakṣaram* /. – 
 
-“Among all the mantras of Viṣṇu, there are three pervasive mantras. The first has eight syllables and is of Nārāyaṇa, the second has twelve syllables and is of Vāsudeva, and then, most excellent Yogins, there is the six syllabled \[mantra\] of Viṣṇu” \(ĪS 23.52-53b\). We are subsequently told: *triṣv apy eṣu* *vyāpakeṣu mantro hy aṣṭākṣaro ’dhikaḥ* /. – “Indeed, among these three pervasive \[ones\], the *aṣṭākṣara* mantra is superior” \(ĪS 23.56ab\). These three mantras are also considered together in the *Lakṣmītantra* at 24.68 *ff*, where they are said to constitute three of the five *vyāpaka* mantras in the Pāñcarātra \(74cd\). 
+“Among all the mantras of Viṣṇu, there are three pervasive mantras. The first has eight syllables and is of Nārāyaṇa, the second has twelve syllables and is of Vāsudeva, and then, most excellent Yogins, there is the six syllabled \[mantra\] of Viṣṇu” \(ĪS 23.52-53b\). We are subsequently told: *triṣv apy eṣu vyāpakeṣu mantro hy aṣṭākṣaro ’dhikaḥ* /. – “Indeed, among these three pervasive \[ones\], the *aṣṭākṣara* mantra is superior” \(ĪS 23.56ab\). These three mantras are also considered together in the *Lakṣmītantra* at 24.68 *ff*, where they are said to constitute three of the five *vyāpaka* mantras in the Pāñcarātra \(74cd\). 
 
 [^45]: ĪS 1.67: *etat tantratrayoktena vidhinā yādavācale* / *śrīraṅge hastiśaile ca kramāt sampūjyate hariḥ* 
 
@@ -161,13 +161,13 @@ We also find in the ĪS \(1.54-63\) the same passage classifying Pāñcarātra s
 
 section of the PādS, and also shares parallel verses with the SS and the ĪS 
 
-\(Padmanabhan 1969\). In a similar manner to the PārS and the ĪS, the ŚrīprśS refers to the SS, PauṣS and JS as the celestial \( *divya*\) scriptures in a passage which contains strong echoes of PārS 1.77 and ĪS 1.25,46 and which also refers to an original Pāñcarātra teaching \( *śāstra*\) called the “root-Veda” \( *mūlaveda*\): *jaganmūlaṃ vāsudevaṃ mukhyataḥ pratyapādayat *// * tac chāstraṃ mūla-vedākhyam ity api procyate budhaiḥ * / * adhyetṛbhedam āśritya śāstram etat* *tridhā rame *// * sāttvataṃ pauṣkaraṃ caiva jayākhyaṃ ca bhaviṣyati */ * athaitāḥ*
+\(Padmanabhan 1969\). In a similar manner to the PārS and the ĪS, the ŚrīprśS refers to the SS, PauṣS and JS as the celestial \( *divya*\) scriptures in a passage which contains strong echoes of PārS 1.77 and ĪS 1.25,46 and which also refers to an original Pāñcarātra teaching \( *śāstra*\) called the “root-Veda” \( *mūlaveda*\): *jaganmūlaṃ vāsudevaṃ mukhyataḥ pratyapādayat*// * tac chāstraṃ mūla-vedākhyam ity api procyate budhaiḥ * / * adhyetṛbhedam āśritya śāstram etat* *tridhā rame*// * sāttvataṃ pauṣkaraṃ caiva jayākhyaṃ ca bhaviṣyati*/ * athaitāḥ*
 
 *saṃhitā divyāḥ vadiṣyanti vipaścitaḥ* //. – “The teaching is designated with the name *mūlaveda* by the learned because it primarily expounded upon Vāsudeva 
 
-\[who is\] the root of the world. Owing to there being differences among students, I delight \[in the fact that\] this teaching will become threefold: Sāttvata, Pauṣkara 46 PārS 1.77 *: jaganmūlasya devasya vāsudevasya mukhyataḥ */ * pratipādakatā siddhā mūlavedākhyatā*
+\[who is\] the root of the world. Owing to there being differences among students, I delight \[in the fact that\] this teaching will become threefold: Sāttvata, Pauṣkara 46 PārS 1.77 *: jaganmūlasya devasya vāsudevasya mukhyataḥ*/ * pratipādakatā siddhā mūlavedākhyatā*
 
-*dvija* //; ĪS 1.25 *: jaganmūlasya vedasya vāsudevasya mukhyataḥ */ * pratipādakatā siddhā*
+*dvija* //; ĪS 1.25 *: jaganmūlasya vedasya vāsudevasya mukhyataḥ*/ * pratipādakatā siddhā*
 
 *mūlavedākhyatā dvijāḥ* //. [[37]]
 
@@ -231,7 +231,7 @@ This would mean of course that the composition of the *Adhikaḥ Pāṭhaḥ* wa
 
 *tantre ’py aṣṭottaraśate parameśvarasaṃhitā* // *pauṣkarārthavivṛtyarthā*
 
-*vyākhyārūpā* ’ *vatāritā */ *sāttvatasya vivṛtyartham īśvaraṃ tantram uttamam* // 
+*vyākhyārūpā* ’ *vatāritā*/ *sāttvatasya vivṛtyartham īśvaraṃ tantram uttamam* // 
 
 *jayākhyasyāsya tantrasya vyākhyānaṃ pādmam ucyate* /. – “Also, among the 108 
 
@@ -263,13 +263,13 @@ Whilst the author of the *Adhikaḥ Pāṭhaḥ* tells us that the PādS is a co
 
 *Pāṭhaḥ* might have made this claim on behalf of the PādS \(I will discuss this question below\), we must first attempt to explain why the JS is not included in this list. 
 
-[^53]: SāPr on ĪS 1.64-67: *idaṃ sātvatapauṣkarajayākhyatantratrayam… īśvarapārameśvaralakṣmī-tantrākhyatantratrayaṃ krameṇa teṣāṃ vṛttirūpam */ *tatreśvarapārameśvarayor utsavādīnāṃ*
+[^53]: SāPr on ĪS 1.64-67: *idaṃ sātvatapauṣkarajayākhyatantratrayam… īśvarapārameśvaralakṣmī-tantrākhyatantratrayaṃ krameṇa teṣāṃ vṛttirūpam*/ *tatreśvarapārameśvarayor utsavādīnāṃ*
 
-*pauṣkalyam asti */ *lakṣmītantre tu tan nāsti */ *ataḥ ‘anuktam anyato grāhyam’ ity uktarītyā*
+*pauṣkalyam asti*/ *lakṣmītantre tu tan nāsti*/ *ataḥ ‘anuktam anyato grāhyam’ ity uktarītyā*
 
-*hastiśailanāthārcakaiḥ padmoktānām utsavādyācārāṇāṃ parigrahaḥ kṛta iti… */. 
+*hastiśailanāthārcakaiḥ padmoktānām utsavādyācārāṇāṃ parigrahaḥ kṛta iti…*/. 
 
-[^54]: On the JS’s and the PādS’s association with Kāñcī see JS *ap* 13-14b: *hastiśaile jayākhyaṃ ca* *sāmrājyam adhitiṣṭhati* */ pādmatantraṃ hastiśaile*… // … *kāryakāri pracāryate* /. On the JS’s association with Kāñcī at the time of the composition of the ĪS, see ĪS 1.67. **[[42]]
+[^54]: On the JS’s and the PādS’s association with Kāñcī see JS *ap* 13-14b: *hastiśaile jayākhyaṃ ca* *sāmrājyam adhitiṣṭhati**/ pādmatantraṃ hastiśaile*… // … *kāryakāri pracāryate* /. On the JS’s association with Kāñcī at the time of the composition of the ĪS, see ĪS 1.67. **[[42]]
 
 There are, on the face of it, at least two possible explanations for its omission. 
 

@@ -7,27 +7,27 @@ Acharya, Diwakar \(2010\) “Early Vaiṣṇava Texts From Nepal”. Talk given 
 
 Apte, Vaman Shivram \(1988\) *The Student’s Sanskrit-English Dictionary*, Delhi: Motilal Banarsidass.
 
-Bailey, Greg \(1985\) *Materials for the Study of Ancient Indian Ideologies: Pravṛtti* *and Nivṛtti*, Torino: Indologica Taurinensia.
+Bailey, Greg \(1985\) *Materials for the Study of Ancient Indian Ideologies: Pravṛtti and Nivṛtti*, Torino: Indologica Taurinensia.
 
 Bakker, Hans T. \(1997\) *The Vākāṭakas: An Essay in Hindu Iconology*, Groningen: Egbert Forsten.
 
 Begley, W. E. \(1973\) *Viṣṇu’s Flaming Wheel: The Iconography of the Sudarśana-Cakra*, New York, NY: New York University Press.
 
-Bergman, Jan, Drynjeff, K., and Ringgren, Helmer \(ed.\) \(1972\) *Ex Orbe Religionum:* *Studia Geo Widengren*, Leiden: E. J. Brill.
+Bergman, Jan, Drynjeff, K., and Ringgren, Helmer \(ed.\) \(1972\) *Ex Orbe Religionum: Studia Geo Widengren*, Leiden: E. J. Brill.
 
 248
 
-Bhandarkar, Ramkrishna Gopal \(1913\) *Vaiṣṇavism, Śaivism and Minor Religious* *Systems*, Strassburg: K. J. Trübner.
+Bhandarkar, Ramkrishna Gopal \(1913\) *Vaiṣṇavism, Śaivism and Minor Religious Systems*, Strassburg: K. J. Trübner.
 
-Blondeau, A.-M. and Schipper, K. \(ed.\) \(1995\) *Essais sur le Rituel III: Colloque du* *Centenaire de la Section des Sciences religieuses de l’École Pratique des Hautes* *Études*, Louvain-Paris: Peeters.
+Blondeau, A.-M. and Schipper, K. \(ed.\) \(1995\) *Essais sur le Rituel III: Colloque du Centenaire de la Section des Sciences religieuses de l’École Pratique des Hautes Études*, Louvain-Paris: Peeters.
 
-Bock-Raming, Andreas \(2002\) *Untersuchungen zur Gottesvorstellung in der älteren* *Anonymliteratur des Pāñcarātra*, Wiesbaden: Harrassowitz Verlag.
+Bock-Raming, Andreas \(2002\) *Untersuchungen zur Gottesvorstellung in der älteren Anonymliteratur des Pāñcarātra*, Wiesbaden: Harrassowitz Verlag.
 
 Brockington, John \(1998\) *The Sanskrit Epics*, Leiden: E. J. Brill.
 
 Brockington, John \(2003\) “Yoga in the Mahābhārata”, in Whicher and Carpenter \(2003\): 13-24.
 
-Brockington, John \(ed.\) \( *forthcoming*\) *Battles, Bards, Brahmans: Papers from the* *Epics Section of the 13th World Sanskrit Conference. Edinburgh, 10th-14th July* *2006*, Delhi: Motilal Banarsidass.
+Brockington, John \(ed.\) \( *forthcoming*\) *Battles, Bards, Brahmans: Papers from the Epics Section of the 13th World Sanskrit Conference. Edinburgh, 10th-14th July 2006*, Delhi: Motilal Banarsidass.
 
 Bronkhorst, Johannes \(1993\) *The Two Traditions of Meditation in Ancient India*, Delhi: Motilal Banarsidass.
 
@@ -39,33 +39,33 @@ Brunner, Hélène \(1990\) “Ātmārthapūjā versus parārthapūjā in the Śa
 
 Bühnemann, Gudrun \(ed.\) \(2002\) *Maṇḍalas and Yantras in the Hindu Traditions*, Leiden, Boston: E. J. Brill.
 
-Buitenen, J. A. B. van \(1957\) “Studies in Sāṃkhya \(II\)”, *Journal of the American* *Oriental Society* 77.1: 15-25.
+Buitenen, J. A. B. van \(1957\) “Studies in Sāṃkhya \(II\)”, *Journal of the American Oriental Society* 77.1: 15-25.
 
 Buitenen, J. A. B. van \(1962\) ‘The Name ‘Pañcarātra’”, *History of Religions* 1.2: 291-299.
 
-Buitenen, J. A. B. van \(1971\) *Yāmuna’s Āgama Prāmāṇyam or Treatise on the* *Validity of Pañcarātra: Sanskrit text and English translation*, Madras: Ramanuja Research Society.
+Buitenen, J. A. B. van \(1971\) *Yāmuna’s Āgama Prāmāṇyam or Treatise on the Validity of Pañcarātra: Sanskrit text and English translation*, Madras: Ramanuja Research Society.
 
 Buitenen, J. A. B. van \(trans.\) \(1978\) *The Mahābhārata: 4. The Book of Virāṭa. 5.*
 
 *The Book of the Effort*, Chicago: The University of Chicago Press.
 
-Carman, John B. \(1974\) *The Theology of Rāmānuja: An Essay in Interreligious* *Understanding*, New Haven: Yale University Press.
+Carman, John B. \(1974\) *The Theology of Rāmānuja: An Essay in Interreligious Understanding*, New Haven: Yale University Press.
 
 Carman, John B. \(2007\) “Illuminating the Relation between Pāñcarātra and the Early Śrīvaiṣṇava Community”, in Oberhammer and Rastelli \(2007\): 55-73.
 
-Carrithers, M., Collins, S. and Lukes, S \(ed.\) \(1985\) *The Category of the Person:* *Anthropology, Philosophy, History*, Cambridge: Cambridge University Press.
+Carrithers, M., Collins, S. and Lukes, S \(ed.\) \(1985\) *The Category of the Person: Anthropology, Philosophy, History*, Cambridge: Cambridge University Press.
 
 Champakalakshmi, R. \(1987\) “Urbanisation in South India: The Role of Ideology and Polity”, *Social Scientist* 15.8/9: 67-117.
 
 Champakalakshmi, R. \(1996\) “From Devotion and Dissent to Dominance: The Bhakti of the Tamil Āḷvārs and Nāyanārs”, in Champakalakshmi and Gopal \(1996a\): 135-163.
 
-Champakalakshmi, R. and Gopal, S. \(ed.\) \(1996a\) *Tradition, Dissent and Ideology:* *Essays in Honour of Romila Thapar*, Delhi: Oxford University Press.
+Champakalakshmi, R. and Gopal, S. \(ed.\) \(1996a\) *Tradition, Dissent and Ideology: Essays in Honour of Romila Thapar*, Delhi: Oxford University Press.
 
 Clooney, Francis X. \(2002\) “Fierce Words: Repositionings of Caste and Devotion in Traditional Śrīvaiṣṇava Hindu Ethics”, *Journal of Religious Ethics * 30.3: 399-419.
 
 249
 
-Clothey, F. W. and Long, J. Bruce \(ed.\) \(1983\), *Experiencing Śiva: Encounters with* *a Hindu Deity*, New Delhi: Manohar.
+Clothey, F. W. and Long, J. Bruce \(ed.\) \(1983\), *Experiencing Śiva: Encounters with a Hindu Deity*, New Delhi: Manohar.
 
 Cœdès, G. \(1942\) *Inscriptions du Cambodge, * vol. II, Hanoi.
 
@@ -73,7 +73,7 @@ Colas, Gérard \(1990\) “Sectarian divisions according to Vaikhānasagama”, 
 
 Colas, Gérard \(1995\) “Cultes et courantes du vishnouisme en Inde du Sud. Quelques observations à partir des textes”, in Reiniche and Stern \(1995\): 111-138.
 
-Colas, Gérard \(1996\) *Viṣṇu, ses images et ses feux: Les métamorphoses du dieu chez* *les vaikhānasa*, Paris: Presses de l’Ecole Française d’Extrême-Orient.
+Colas, Gérard \(1996\) *Viṣṇu, ses images et ses feux: Les métamorphoses du dieu chez les vaikhānasa*, Paris: Presses de l’Ecole Française d’Extrême-Orient.
 
 Colas, Gérard \(2003\) “History of Vaiṣṇava Traditions: An Esquisse”, in Flood \(2003\): 229-270.
 
@@ -87,7 +87,7 @@ Colas, Gérard \(2011\) “Bhāgavatas”, in Jacobsen et al. \(2011\): 295-301.
 
 Cousins, L. S. \(1992\) “Vitakka/vitarka and vicāra: Stages of samādhi in Buddhism and yoga”, *Indo-Iranian Journal* 35. 2-3: 137-157.
 
-Czekalska, Renata and Marlewicz, Halina \(ed.\) \(2003\) *2nd International Conference* *on Indian Studies: Proceedings*, Kraków: Ksiegarnia Akademicka Czerniak-Drożdżowicz, Marzenna \(2003\) *Pāñcarātra Scripture in the Process of* *Change: A Study of the Paramasaṃhitā*, Vienna: Sammlung De Nobili.
+Czekalska, Renata and Marlewicz, Halina \(ed.\) \(2003\) *2nd International Conference on Indian Studies: Proceedings*, Kraków: Ksiegarnia Akademicka Czerniak-Drożdżowicz, Marzenna \(2003\) *Pāñcarātra Scripture in the Process of Change: A Study of the Paramasaṃhitā*, Vienna: Sammlung De Nobili.
 
 Czerniak-Drożdżowicz, Marzenna \(2003a\) “Some Remarks Concerning *dīkṣā * in the Pāñcarātric Tradition”, *Cracow Indological Studies * 4: 137-152.
 
@@ -101,13 +101,13 @@ Dezső, Csaba \(ed. & trans.\) \(2005\) *Much Ado About Religion by Bhaṭṭa J
 
 Doniger, Wendy \(1993\) “Echoes of the *Mahābhārata*: Why is a Parrot the Narrator of the *Bhāgavata Purāṇa* and the * Devībhāgavata Purāṇa*?”, in Doniger \(1993a\): 31-57.
 
-Doniger, Wendy \(ed.\) \(1993a\) *Purāṇa Perennis: Reciprocity and Transformation in* *Hindu and Jaina Texts*, Albany: State University of New York Press.
+Doniger, Wendy \(ed.\) \(1993a\) *Purāṇa Perennis: Reciprocity and Transformation in Hindu and Jaina Texts*, Albany: State University of New York Press.
 
 Dyczkowski, Mark S. G. \(1994\) *The Stanzas on Vibration*, Varanasi: Dilip Kumar Publishers.
 
-Edgerton, Franklin \(1924\) “The Meaning of Sānkhya and Yoga”, *The American* *Journal of Philology * 45.1: 1-46.
+Edgerton, Franklin \(1924\) “The Meaning of Sānkhya and Yoga”, *The American Journal of Philology * 45.1: 1-46.
 
-Einoo, Shingo and Takashima, Jun \(ed.\) \(2005\) *From Material to Deity: Indian* *Rituals of Consecration*, New Delhi: Ajar Kumar Jain for Manohar Publishers.
+Einoo, Shingo and Takashima, Jun \(ed.\) \(2005\) *From Material to Deity: Indian Rituals of Consecration*, New Delhi: Ajar Kumar Jain for Manohar Publishers.
 
 Einoo, Shingo \(ed.\) \(2009\) *Genesis and Development of Tantrism*, Tokyo: Institute of Oriental Culture, University of Tokyo.
 
@@ -117,11 +117,11 @@ Elschinger, Vincent \(2010\) “Apocalypticism, Heresy and Philosophy. Towards a
 
 Esnoul, Anne-Marie \(trans.\) \(1979\) *Nārāyaṇīya Parvan du Mahābhārata*, Paris: Les Belles Lettres.
 
-Faddegon, B. \(1926\) “The Catalogue of Sciences in the Chāndogya-Upaniṣad”, *Acta* *Orientalia* 4: 42-54.
+Faddegon, B. \(1926\) “The Catalogue of Sciences in the Chāndogya-Upaniṣad”, *Acta Orientalia* 4: 42-54.
 
-Fitzgerald, James L. \(2003\) “The Many Voices of the *Mahābhārata*”, *Journal of the* *American Oriental Society* 123.4: 803-818.
+Fitzgerald, James L. \(2003\) “The Many Voices of the *Mahābhārata*”, *Journal of the American Oriental Society* 123.4: 803-818.
 
-Fitzgerald, James L. \(trans.\) \(2004\) *The Mahābhārata. Book 11: The Book of the* *Women. Book 12: The Book of the Peace, Part One*, Chicago: University of Chicago Press.
+Fitzgerald, James L. \(trans.\) \(2004\) *The Mahābhārata. Book 11: The Book of the Women. Book 12: The Book of the Peace, Part One*, Chicago: University of Chicago Press.
 
 Fitzgerald, James L. \( *forthcoming*\) “The Sāṃkhya-Yoga ‘Manifesto’ at Mahābhārata 12.289-290”, in Brockington \( *forthcoming*\).
 

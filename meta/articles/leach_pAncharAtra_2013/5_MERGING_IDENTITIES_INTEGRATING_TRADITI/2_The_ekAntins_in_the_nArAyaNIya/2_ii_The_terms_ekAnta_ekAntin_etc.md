@@ -9,7 +9,7 @@ the worship of a Vaiṣṇava deity to the exclusion of other deities, Brahmā a
 
 It should be stated at the outset that I am not the first to question the validity of interpreting *ekānta* etc. in the *Nārāyaṇīya* as referring primarily to “monotheism”. 
 
-Already in the middle of the nineteenth century, in his monumental *Indische* *Alterthumskunde* the Norwegian scholar Christian Lassen, a former student and colleague of August Wilhelm von Schlegel at the University of Bonn, rendered *ekāntagatabuddhi* \(used to describe Nārada at MBh 12.326.96d\) as “seinen Geist auf einen gewissen Gegenstand gerichtet hatte”, asserting in a footnote that the literal meaning of *ekānta* is “was einem einzigen Ausgang hat, also was sicher ist.” Lassen \(1852: 1104 n. 5\) concluded that *ekāntin * does not therefore mean “monotheist” 
+Already in the middle of the nineteenth century, in his monumental *Indische Alterthumskunde* the Norwegian scholar Christian Lassen, a former student and colleague of August Wilhelm von Schlegel at the University of Bonn, rendered *ekāntagatabuddhi* \(used to describe Nārada at MBh 12.326.96d\) as “seinen Geist auf einen gewissen Gegenstand gerichtet hatte”, asserting in a footnote that the literal meaning of *ekānta* is “was einem einzigen Ausgang hat, also was sicher ist.” Lassen \(1852: 1104 n. 5\) concluded that *ekāntin * does not therefore mean “monotheist” 
 
 \(“Ekāntin bedeutet demnach nicht eigentlich Monotheist”\). While I do not share 294 PRR 139.4 *ff*: *ekatra anto niścayaḥ prāpyatayā prāpakatayā ca… tatrāpy ananyopāyatvānanyapra-yojanatvayoḥ samuccayāt pāramyam* / *ananyapāyatvaṃ ca ananyadevatākatvaparyantam*. [[182]]
 
@@ -17,9 +17,9 @@ Lassen’s belief that we can do away with the sense of monotheism altogether, t
 
 These represent, in my view, two of the primary senses of *ekānta* in the *Nārāyaṇīya*: the single-minded concentration on a Vaiṣṇava deity \(normally called Hari or Nārāyaṇa\), and the outcome \(i.e. liberation, *mokṣa*\) which is certain to ensue from such a practice. In the first of these senses, the term *ekānta* is similar in meaning, as Brockington \(2003: 18\) has observed, to the term *ekāgra*, which refers to “one-pointed” concentration. The adjectival compound *ekāgra * is used in several places in the MBh as “a general term of commendation” \(ibid.\), but it also occurs, especially in the *Mokṣadharmaparvan*, as the name for a technique adopted in meditation. Thus, at MBh 12.188.5, during an explanation of the fourfold “yoga of meditation” \( *dhyānayoga*\), we read, in the translation of Bronkhorst \(1993: 68-69\): 
 
-“A sage, sitting like a piece of wood, bundling his senses together, should fix his mind \[so that it becomes\] one-pointed and held together as a result of recitation, on that”.295 Elsewhere, a description of the practice of yoga \( *yogakṛtya*\) contains a reference to performing “one-pointedness of the mind and senses” \( *manasaś* *cendriyāṇāṃ ca kṛtvaikāgryaṃ*, MBh 12.232.13ab, see also 24c\), while at MBh 12.294.8, meditation \( *dhyāna*\) is said to consist of one-pointedness of the mind \( *ekāgratā ca manasaḥ*\) and restraint of the breath \( *prāṇāyāma*\).296 As well as being explicitly associated with the practice of yoga \(see also 12.304.23, and *Bhagavadgītā* 
+“A sage, sitting like a piece of wood, bundling his senses together, should fix his mind \[so that it becomes\] one-pointed and held together as a result of recitation, on that”.295 Elsewhere, a description of the practice of yoga \( *yogakṛtya*\) contains a reference to performing “one-pointedness of the mind and senses” \( *manasaś cendriyāṇāṃ ca kṛtvaikāgryaṃ*, MBh 12.232.13ab, see also 24c\), while at MBh 12.294.8, meditation \( *dhyāna*\) is said to consist of one-pointedness of the mind \( *ekāgratā ca manasaḥ*\) and restraint of the breath \( *prāṇāyāma*\).296 As well as being explicitly associated with the practice of yoga \(see also 12.304.23, and *Bhagavadgītā* 
 
-6.12a\) and meditation \( *dhyāna*, see also 12.198.6\), one-pointedness is also linked to 295 MBh 12.188.5: *tatra svādhyāyasaṃśliṣṭam ekāgraṃ dhārayen manaḥ */ *piṇḍīkṛtyendriyagrāmam* *āsīnaḥ kāṣṭhavan muniḥ *//. Cf. Wynne \(2009: 189\), working from the Bombay edition: “In those places, the silent sage should sit as still as a piece of wood and bring his sense faculties together. Then he should keep his mind one-pointed, and steeped in meditation \( *tatra dhyānena saṃśliṣṭam ekāgraṃ*
+6.12a\) and meditation \( *dhyāna*, see also 12.198.6\), one-pointedness is also linked to 295 MBh 12.188.5: *tatra svādhyāyasaṃśliṣṭam ekāgraṃ dhārayen manaḥ*/ *piṇḍīkṛtyendriyagrāmam āsīnaḥ kāṣṭhavan muniḥ*//. Cf. Wynne \(2009: 189\), working from the Bombay edition: “In those places, the silent sage should sit as still as a piece of wood and bring his sense faculties together. Then he should keep his mind one-pointed, and steeped in meditation \( *tatra dhyānena saṃśliṣṭam ekāgraṃ*
 
 *dhārayen manaḥ*\).” Both Bronkhorst \(1993: 70-71\) and Wynne \(2007: 29\) note that the passage containing this verse borrows ideas and nomenclature from Buddhist accounts of the four *dhyāna* s. 
 
@@ -27,15 +27,15 @@ These represent, in my view, two of the primary senses of *ekānta* in the *Nār
 
 It is likely that “one-pointedness” was understood, at least in some circles, in much the same way as 
 
-“fixing the mind”. This is confirmed by the star passage \*775 immediately following 12.304.9ab: *ekāgratā ca manasaḥ prāṇāyāmas tathaiva ca */. [[183]]
+“fixing the mind”. This is confirmed by the star passage \*775 immediately following 12.304.9ab: *ekāgratā ca manasaḥ prāṇāyāmas tathaiva ca*/. [[183]]
 
 the practice of “recitation” \( *svādhyāya* at 12.188.5, *japa * at 12.192.16\) and to asceticism \( *tapas*, e.g. 3.246.25 and 12.242.4\).297 In the *Nārāyaṇīya*, one-pointedness is also linked with *japa *\(12.323.32, 325.2-3\) and with *tapas *\(327.41\), and it is attributed to Nārada as he practises “all austerities” \( *sarvakṛcchradharaḥ*, 325.2d\) having arrived at White Island. In this latter passage, the description of Nārada shares several features with certain descriptions of the Ekāntin inhabitants of White Island, who also have “one-pointed minds” \( *ekāgramanastvena*, 323.32e\). Further on, it is said: 
 
-*ime hy anindriyāhārā madbhaktāś candravarcasaḥ */ *ekāgrāś cintayeyur māṃ*
+*ime hy anindriyāhārā madbhaktāś candravarcasaḥ*/ *ekāgrāś cintayeyur māṃ*
 
-*naiṣāṃ vighno bhaved iti *// *siddhāś caite mahābhāgāḥ purā hy ekāntino*
+*naiṣāṃ vighno bhaved iti*// *siddhāś caite mahābhāgāḥ purā hy ekāntino*
 
-*’bhavan */ *tamorajovinirmuktā māṃ pravekṣyanty asaṃśayam *//. – “These 
+*’bhavan*/ *tamorajovinirmuktā māṃ pravekṣyanty asaṃśayam*//. – “These 
 
 \[White Men\] are without \(i.e. they have transcended\) the sense faculties and \[the need for\] food, are devoted to me, and are the colour of the moon. There should be no interruption for them – they should \[be able to\] direct their thoughts upon me one-pointedly. These perfected, illustrious beings became Ekāntins long ago. 
 
@@ -49,7 +49,7 @@ Cousins 1992\) and in Pātañjala yoga \(see especially *Yogasūtra* 3.11-12\).
 
 [^298]: The star passage \*813 immediately following 12.323.42ab articulates this well. The two half- *ślokas* 323.42ab-\*813 together read: “By those men who are Ekāntins, knowers of the Five Times, yoked with supreme devotion, Hari is then worshipped in thought, word, and deed” \( *tair iṣṭaḥ*
 
-*pañcakālajñair harir ekāntibhir naraiḥ */ *bhaktyā paramayā yuktair manovākkarmabhis tadā *\*\). [[184]]
+*pañcakālajñair harir ekāntibhir naraiḥ*/ *bhaktyā paramayā yuktair manovākkarmabhis tadā *\*\). [[184]]
 
 propose, this intensely concentrated mental attitude which is referred to by the phrase *ekāntabhāva* \(at e.g. 322.4d, 323.24c, and 326.116c\). Those who have “attained the state of *ekānta*” \( *ekāntabhāvopagatā*\), we are told at 332.18, have minds that are concentrated and controlled, their senses are restrained, and they enter into Vāsudeva.299 
 
@@ -63,9 +63,9 @@ Larson 1969: 257, 280; Jacobsen 2002: 6, 275\), a semantic feature which is also
 
 “exclusively” the case, and on several occasions in his translation of the first two books of the *Śāntiparvan*, Fitzgerald \(2004\) translates *ekānta* with these words.301 
 
-[^299]: MBh 12.332.18: *samāhitamanaskāś ca niyatāḥ saṃyatendriyāḥ */ *ekāntabhāvopagatā vāsudevaṃ*
+[^299]: MBh 12.332.18: *samāhitamanaskāś ca niyatāḥ saṃyatendriyāḥ*/ *ekāntabhāvopagatā vāsudevaṃ*
 
-*viśanti te *//. 
+*viśanti te*//. 
 
 [^300]: In his *Bhāṣya* on the *Sāṃkhyakārikā*, Gauḍapāda \(p. 2\) glosses *ekānta * with *avaśyam*, meaning 
 
@@ -79,19 +79,19 @@ In one place in the *Nārāyaṇīya*, we find the term *ekāntitvam * alongside
 
 *bhavantīha*, 322.14a\). As Schreiner \(1997b: 178\) observes, this may be an articulation of the idea that was later called “liberation while living” \( *jīvanmukti*\). At any rate, it is clear that, for the authors of the *Nārāyaṇīya*, Ekāntins have already undergone a significant transformation of some sort, and that this sets them apart from non-Ekāntins. This transformation is conveyed, metaphorically, by the extraordinary physical appearance of the inhabitants of White Island \(described at e.g. 322.9-11\) or, as in the following less dramatic example from the *phalaśruti* which closes Part A, by the fact that Ekāntins take on the colour or the “radiance” of the moon: 
 
-*yaś cedaṃ paṭhate nityaṃ yaś cedaṃ śṛṇuyān naraḥ */ *ekāntabhāvopagata* *ekānte susamāhitaḥ *// *prāpya śvetaṃ mahādvīpaṃ bhūtvā candraprabho naraḥ*
+*yaś cedaṃ paṭhate nityaṃ yaś cedaṃ śṛṇuyān naraḥ*/ *ekāntabhāvopagata ekānte susamāhitaḥ*// *prāpya śvetaṃ mahādvīpaṃ bhūtvā candraprabho naraḥ*
 
 [^302]: MBh 12.334.1: “Having heard this speech proclaimed by Nara and Nārāyaṇa, Nārada was completely devoted to god, and attained the status of an Ekāntin” \( *śrutvaitan nārado vākyaṃ*
 
-*naranārāyaṇeritam */ *atyantabhaktimān deve ekāntitvam upeyivān *//\). 
+*naranārāyaṇeritam*/ *atyantabhaktimān deve ekāntitvam upeyivān*//\). 
 
-[^303]: That “entering into god” signifies “liberation” is asserted at 12.326.24ab: *yaṃ praviśya bhavantīha* *muktā vai dvijasattama */. See also the very similar 326.41ab, and elsewhere 327.6. 
+[^303]: That “entering into god” signifies “liberation” is asserted at 12.326.24ab: *yaṃ praviśya bhavantīha muktā vai dvijasattama*/. See also the very similar 326.41ab, and elsewhere 327.6. 
 
 [^304]: Indeed, mention of the Ekāntins is *usually* accompanied by this assertion. See e.g. MBh 12.321.41-42; 326.19; 326.44; 332.18; 336.3c-4; 336.69; 337.67. 
 
 [^305]: The most common way to articulate this is with the term *upagata* \(see MBh 12.323.24c, 326.116c, 332.18c, and 337.67c\). Elsewhere, *samāgata* \(323.49b\) and *upeyivas *\(334.1d\) are also used. [[186]]
 
-/ *sa sahasrārciṣaṃ devaṃ praviśen nātra saṃśayaḥ *//. – “A man who regularly recites and listens to this, in a solitary place, intensely concentrated, \[by him\] the state of *ekānta* is attained. After reaching the great White Island and having become a man with the radiance of the moon \(i.e. a “White Man”\), he shall undoubtedly enter into the thousand-rayed god.” \(MBh 12.326.116-117\) This passage conveniently points to the third of what I am calling the three 
+/ *sa sahasrārciṣaṃ devaṃ praviśen nātra saṃśayaḥ*//. – “A man who regularly recites and listens to this, in a solitary place, intensely concentrated, \[by him\] the state of *ekānta* is attained. After reaching the great White Island and having become a man with the radiance of the moon \(i.e. a “White Man”\), he shall undoubtedly enter into the thousand-rayed god.” \(MBh 12.326.116-117\) This passage conveniently points to the third of what I am calling the three 
 
 “primary senses” of *ekānta* while also conveying the two other senses that I have highlighted above. The use of the term *ekānta* to refer to a secluded or solitary place is common throughout the epic \(see e.g. MBh 1.21.4c, 3.49.3a, 3.137.5a, 12.215.8d\). 
 
@@ -123,13 +123,13 @@ I have referred above to the prospect of a “preliminary understanding” of th
 
 Bearing in mind that the * Nārāyaṇīya * contains multiple “layers”, i.e. sections which have been added to the core narrative \(concerning Nārada’s journey to White Island and his vision of god\), we should expect to find a number of new ideas and new points of emphasis in these younger sections, and indeed we do. Nārada’s vision of Nārāyaṇa \(described at 326.2-9\), which belongs to the *oldest* layer of the text, appears to be the consequence of, or the reward for, his singing a hymn of praise \( *stotra*\) with his mind “one-pointed” \( *ekāgramanāḥ*\). Nārada has achieved this “one-pointedness” through performing *japa* and austerities alongside the White Men on White Island.310 In layers of the text added subsequently, the practices of *japa*, asceticism and one-pointedness are, in one place or another, all presented as being central to the Ekāntin worship of god, and the latter is repeatedly declared to be the prerequisite for a *vision* of god. However, in the later additions to Part A, and in Part B, there is increasingly less emphasis on the meditative and ascetic practices referred to above, and a much greater stress on the idea of gratifying god by means of *bhakti*.311 
 
-Thus, in the story of King Vasu’s *aśvamedha*, Vasu is rewarded with a vision of the Bhagavat not because he is an Ekāntin, but because god is pleased that his sacrifice involved no animal slaughter \(323.10-11\). At the end of this section, Vasu affirms that it is possible to see god only as a consequence of his kindness \( *yasya* *prasādaṃ kurute sa vai taṃ draṣṭum arhati*, 323.18ef\). Meanwhile, one of the main one object or person”, and “monotheistic doctrine”. Apte’s \(1988: 121\) entries, meanwhile, include 
+Thus, in the story of King Vasu’s *aśvamedha*, Vasu is rewarded with a vision of the Bhagavat not because he is an Ekāntin, but because god is pleased that his sacrifice involved no animal slaughter \(323.10-11\). At the end of this section, Vasu affirms that it is possible to see god only as a consequence of his kindness \( *yasya prasādaṃ kurute sa vai taṃ draṣṭum arhati*, 323.18ef\). Meanwhile, one of the main one object or person”, and “monotheistic doctrine”. Apte’s \(1988: 121\) entries, meanwhile, include 
 
 “solitary”, “directed towards one point or object only”, “a lonely or retired place”, and “exclusive aim”. These are echoed in both dictionaries by the entries under ‘ *ekāyana*’: “absolute devotedness to one” \(Monier-Williams ibid.\), “a lonely or retired place”, “monotheism”, and “the sole object” \(Apte ibid.\). 
 
-[^310]: MBh 12.325.1-3: *prāpya śvetaṃ mahādvīpaṃ nārado bhagavān ṛṣiḥ */ *dadarśa tān eva narāñ* *śvetāṃś candraprabhāñ śubhān *// *pūjayām āsa śirasā manasā taiś ca pūjitaḥ */ *didṛkṣur* *japyaparamaḥ sarvakṛcchradharaḥ sthitaḥ *// *bhūtvaikāgramanā vipra ūrdhvabāhur mahāmuniḥ */ 
+[^310]: MBh 12.325.1-3: *prāpya śvetaṃ mahādvīpaṃ nārado bhagavān ṛṣiḥ*/ *dadarśa tān eva narāñ* *śvetāṃś candraprabhāñ śubhān*// *pūjayām āsa śirasā manasā taiś ca pūjitaḥ*/ *didṛkṣur* *japyaparamaḥ sarvakṛcchradharaḥ sthitaḥ*// *bhūtvaikāgramanā vipra ūrdhvabāhur mahāmuniḥ*/ 
 
-*stotraṃ jagau sa viśvāya nirguṇāya mahātmane *//. 
+*stotraṃ jagau sa viśvāya nirguṇāya mahātmane*//. 
 
 [^311]: The term *bhakti* is used at MBh 12.322.12, which may or may not belong to the oldest layer of the text \(Oberlies 1997: 91\). *Bhakti* and *bhakta* etc. are found much more frequently in the later portions of Part A, especially those which narrate the stories of King Vasu. [[189]]
 
@@ -139,27 +139,27 @@ themes in the following tale of the brothers Ekata, Dvita and Trita \(323.19-53\
 
 This tendency away from asceticism and towards an emphasis on god’s kindness or favour \( *prasāda*\) is evident in sections of Part A which have been identified by the scholars of *Nārāyaṇīya-Studien * as being among the later additions to chapters 321-326. The trend coincides with an increasing emphasis on the reciprocal, loving relationship between god and his devotees, called *bhakti*. 
 
-However, the practice of asceticism is not excluded from this new paradigm. Rather, its efficacy is reinterpreted within a *bhakti* framework which emphasises the greater 312 MBh 12.323.48c-49: *na sa śakyo abhaktena draṣṭuṃ devaḥ kathaṃ cana *// *kāmaṃ kālena mahatā*
+However, the practice of asceticism is not excluded from this new paradigm. Rather, its efficacy is reinterpreted within a *bhakti* framework which emphasises the greater 312 MBh 12.323.48c-49: *na sa śakyo abhaktena draṣṭuṃ devaḥ kathaṃ cana*// *kāmaṃ kālena mahatā*
 
-*ekāntitvaṃ samāgataiḥ */ *śakyo draṣṭuṃ sa bhagavān prabhāmaṇḍaladurdṛśaḥ *//. 
+*ekāntitvaṃ samāgataiḥ*/ *śakyo draṣṭuṃ sa bhagavān prabhāmaṇḍaladurdṛśaḥ*//. 
 
-[^313]: MBh 12.321.12: *tapasā tejasā caiva durnirīkṣau surair api */ *yasya prasādaṃ kurvāte sa devau* *draṣṭum arhati *//. [[190]]
+[^313]: MBh 12.321.12: *tapasā tejasā caiva durnirīkṣau surair api*/ *yasya prasādaṃ kurvāte sa devau* *draṣṭum arhati*//. [[190]]
 
 power of god’s benevolence.314 Two examples from Part B ably demonstrate this method. In the first, Vyāsa declares that he has practised very severe asceticism so that he might know the past, present and future. While practising these austerities on the shore of the Milk Ocean, he says, this knowledge relating to the three times was revealed to him by means of god’s kindness.315 In the second example, Rudra claims that his asceticism and study, or recitation of texts \( *svādhyāya*\), is prosperous only on account of god’s kindness.316 Passages such as these articulate a rejection of the idea that ascetic practices \(and in the latter example, Vedic study\) are intrinsically efficacious. According to this historically later view, then, any kind of religious achievement is ultimately dependent upon god rather than the worshipper. This is expressed very clearly in chapter 336: “The person who is seen by Nārāyaṇa shall be awakened. Thus, one is not awakened by one’s own desires, O king.”317 As Schreiner \(1997b: 164-165\) remarks, this represents a complete inversion of the older idea of the vision of god. 
 
 In the context of this kind of teaching, it was inevitable that meditative practices such as one-pointedness, which were previously considered to be themselves innately powerful,318 would be subordinated entirely to practices which aimed solely towards the gratification of god. It was, I propose, in this context that the term *ekānta* came to explicitly denote a monotheism. This sense is never explicit in Part A, wherein the Ekāntins are distinguished from non-Ekāntins primarily by their intensely concentrated \(“one-pointed”\) form of worship. In the story of Ekata, Dvita and Trita, for example, it is not indicated that the brothers fail to achieve a vision of god because they are not monotheists. However, the tale of Vasu’s liberation from a hole in the earth \(324.17-38\), which appears to have been added to 314 The notion of “renunciation” was also reinterpreted, along the lines of the teaching of renunciation in the *Bhagavadgītā*. This has already been adequately discussed in the secondary literature, see especially Malinar \(1997\). 
 
-[^315]: MBh 12.327.21-23b: *mayā hi sumahat taptaṃ tapaḥ paramadāruṇam */ *bhūtaṃ bhavyaṃ*
+[^315]: MBh 12.327.21-23b: *mayā hi sumahat taptaṃ tapaḥ paramadāruṇam*/ *bhūtaṃ bhavyaṃ*
 
-*bhaviṣyac ca jānīyām iti sattamāḥ *// *tasya me taptatapaso nirgṛhītendriyasya ca */ 
+*bhaviṣyac ca jānīyām iti sattamāḥ*// *tasya me taptatapaso nirgṛhītendriyasya ca*/ 
 
-*nārāyaṇaprasādena kṣirodasyānukūlataḥ *// *traikālikam idam jñānaṃ prādurbhūtaṃ yathepsitam */. 
+*nārāyaṇaprasādena kṣirodasyānukūlataḥ*// *traikālikam idam jñānaṃ prādurbhūtaṃ yathepsitam*/. 
 
-[^316]: MBh 12.338.16abc: *tvatprasādena bhagavan svādhyāyatapasor mama */ *kuśalaṃ cāvyayaṃ*
+[^316]: MBh 12.338.16abc: *tvatprasādena bhagavan svādhyāyatapasor mama*/ *kuśalaṃ cāvyayaṃ*
 
-*caiva… *//. 
+*caiva…*//. 
 
-[^317]: MBh 12.336.70: *nārāyaṇena dṛṣṭaś ca pratibuddho bhavet pumān */ *evam ātmecchayā rājan* *pratibuddho na jāyate *//. See also 336.68, where the same sentiment is expressed. 
+[^317]: MBh 12.336.70: *nārāyaṇena dṛṣṭaś ca pratibuddho bhavet pumān*/ *evam ātmecchayā rājan* *pratibuddho na jāyate*//. See also 336.68, where the same sentiment is expressed. 
 
 [^318]: Of course, such practices still *were* considered to be innately powerful by certain other religious groups. [[191]]
 

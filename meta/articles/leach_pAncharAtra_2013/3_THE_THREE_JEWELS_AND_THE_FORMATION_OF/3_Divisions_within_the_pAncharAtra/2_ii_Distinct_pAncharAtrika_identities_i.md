@@ -39,7 +39,7 @@ do *not* undergo *dīkṣā*. In addition, elsewhere in the Pāñcarātra script
 
 [^82]: See, for instance, PādS *cp* 1.3-9; PārS 9.152-153b: *iti svārthāvirodhena parārthādhikṛtasya tu* / 
 
-*ekāyanasya viduṣaḥ proktāḥ kālāḥ* *krameṇa tu* // * tathā vai dīkṣitasyāpi siddhāntaratacetasaḥ* /; and also ĪS 21.511-512b: *svārthasyāpi parārthasya pūjāyām adhikāriṇaḥ */ *śāṇḍilyādyanvaye jātā guror* *labdhābhiṣecanāḥ *// *anye tu kevalaṃ svārthapūjane hy adhikāriṇaḥ */. The following section \(ĪS 
+*ekāyanasya viduṣaḥ proktāḥ kālāḥ krameṇa tu* // * tathā vai dīkṣitasyāpi siddhāntaratacetasaḥ* /; and also ĪS 21.511-512b: *svārthasyāpi parārthasya pūjāyām adhikāriṇaḥ*/ *śāṇḍilyādyanvaye jātā guror labdhābhiṣecanāḥ*// *anye tu kevalaṃ svārthapūjane hy adhikāriṇaḥ*/. The following section \(ĪS 
 
 21.513-558\) unambiguously locates the “lineage of Śāṇḍilya etc.” within the tradition of the Ekāyanaveda. [[65]]
 
@@ -67,13 +67,13 @@ Pañcarātra”
 
 [^83]: Although at ĀP 169-170 the author distinguishes between the ritual practices of the Vājasaneyins and the Ekāyanas, he says nothing here which should exclude the Ekāyanas from acting as professional priests. It is true that at ĀP 170.6 the Ekāyanas are characterised as *mumukṣu* s, but this need not disqualify them - on this point see e.g. ĪS 21.506-508 and, more generally, Brunner \(1990\), who provides a clear account of the distinctions between *svārtha- * and *parārthapūjā*. The same would apply of course if we accept Young’s \(2007: 238-239\) reading that ‘Ekāyana’ here denotes ‘Bhāgavata’ in general \(and elsewhere, at ĀP 91.1-6, Yāmuna *does* imply that the Pāñcarātra tradition *in toto* is concerned only with *mokṣa*\). [[66]]
 
-*atha bhāgavatajanaparigṛhītatvād iti hetuḥ hanta tarhi tatparigṛhītatvād* *vājasaneyakaikāyanaśākhāvacasāṃ pratyakṣādīnāṃ cāprāmāṇyaprasaṅgaḥ */. - 
+*atha bhāgavatajanaparigṛhītatvād iti hetuḥ hanta tarhi tatparigṛhītatvād vājasaneyakaikāyanaśākhāvacasāṃ pratyakṣādīnāṃ cāprāmāṇyaprasaṅgaḥ*/. - 
 
 “Moreover, as to the argument \[that the Pañcarātra is invalid\] “because it is accepted by the Bhāgavatas”, well in that case the \[scriptural\] statements of the Vājasaneyaka and Ekāyana *śākhā* s and \[the means of knowledge\] perception etc. 
 
 are also invalid, because they are accepted \[by the Bhāgavatas\] too\!” \(ĀP 140.5-7\) 
 
-*iha vā kim aharahar adhīyamānavājasaneyakaikāyanaśākhān vilasadupa-vītottarīyaśikhāśālino ’dhyāpayato yājayataḥ pratigṛhṇato viduṣaḥ paśyanto* *brāhmaṇā iti nāvayanti */. – “And in this case also, when \[people\] see learned men who study the Vājasaneyaka and Ekāyana *śākhā* s daily, who wear their clearly visible sacred threads, upper garments and hair-tufts, who teach and sacrifice and accept gifts, do they not consider them to be Brahmins? \(ĀP 141.8-10\) 
+*iha vā kim aharahar adhīyamānavājasaneyakaikāyanaśākhān vilasadupa-vītottarīyaśikhāśālino ’dhyāpayato yājayataḥ pratigṛhṇato viduṣaḥ paśyanto brāhmaṇā iti nāvayanti*/. – “And in this case also, when \[people\] see learned men who study the Vājasaneyaka and Ekāyana *śākhā* s daily, who wear their clearly visible sacred threads, upper garments and hair-tufts, who teach and sacrifice and accept gifts, do they not consider them to be Brahmins? \(ĀP 141.8-10\) 
 
 If it is reasonable to interpret these representations of the Vājasaneya and Ekāyana *śākhās* as being deliberately general or, as it were, “non-sectarian”, we might also see evidence of this generalising tendency in Yāmuna’s presentation of ‘Sātvata’, 
 
@@ -105,11 +105,11 @@ However, in several instances, portions which apparently belong to the older
 
 [^88]: Interpolated passages which equate ‘Bhāgavata’ with ‘Pāñcarātrika’ include ParS 3.36, 38, 57, 69-70; 27.30; 30.71, 123. It is very difficult to say when these and other similar passages were added to the ParS. 
 
-[^89]: The most striking of these is at ParS 4.57-58: *etad vīravidhir hy eṣaḥ saṃkṣepāt kathito mayā */ 
+[^89]: The most striking of these is at ParS 4.57-58: *etad vīravidhir hy eṣaḥ saṃkṣepāt kathito mayā*/ 
 
-*iṣṭvaiva paramātmānaṃ nityaṃ bhāgavataś śuciḥ *// *sarvapāpaviśuddhātmā muktimārgaṃ prapadyate*
+*iṣṭvaiva paramātmānaṃ nityaṃ bhāgavataś śuciḥ*// *sarvapāpaviśuddhātmā muktimārgaṃ prapadyate*
 
-/ *labhate cepsitān kāmān ihāmutra ca sarvaśaḥ *//. See also ParS 18.30, 19.53 and 25.23. [[68]]
+/ *labhate cepsitān kāmān ihāmutra ca sarvaśaḥ*//. See also ParS 18.30, 19.53 and 25.23. [[68]]
 
 SanS unambiguously equates Bhāgavatas with Sāttvatas, Vaiṣṇavas *and* Pāñcarātrikas.90 
 

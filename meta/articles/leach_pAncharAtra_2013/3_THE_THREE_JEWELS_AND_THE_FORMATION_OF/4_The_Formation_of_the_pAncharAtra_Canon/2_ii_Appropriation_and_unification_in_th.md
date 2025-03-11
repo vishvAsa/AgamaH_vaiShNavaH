@@ -15,9 +15,9 @@ schemes describing well-established exegetical principles and Pāñcarātrika id
 
 To reiterate, there was no single classificatory method employed by the Pāñcarātra Saṃhitas, and so any discussion of a Pāñcarātra “canon” needs to be prefaced with the caveat that what was “canonical” for one Pāñcarātra tradition, for instance the supremacy of the JS, SS and PauṣS, was, as we have seen above, not necessarily canonical for another.145 Here it is worth recalling Michael Witzel’s \(1997: 259-260\) remarks on the development of the *Vedic* canon: 
 
-\[O\] *riginally there was no canon* of Vedic texts, no Vedic “Scripture”, but only a *canon of texts accepted by each school*… This means: *all school texts taken* *together form the Vedic canon*. It does not mean that *all* of these texts were accepted by *all Brahmins*. A working definition, thus, may be: the Vedic canon consists of the sum of all those texts in Vedic Sanskrit that originated in and were used by the various Vedic schools \( *śākhās*\). 
+\[O\] *riginally there was no canon* of Vedic texts, no Vedic “Scripture”, but only a *canon of texts accepted by each school*… This means: *all school texts taken together form the Vedic canon*. It does not mean that *all* of these texts were accepted by *all Brahmins*. A working definition, thus, may be: the Vedic canon consists of the sum of all those texts in Vedic Sanskrit that originated in and were used by the various Vedic schools \( *śākhās*\). 
 
-While it is highly probable that the fourfold ‘Siddhānta’ system of classification within the Pāñcarātra was a South Indian innovation which based itself upon the Vedic precedent, and which might be usefully interpreted therefore as presenting an *ideal* *model * rather than a purely descriptive account,146 it is nonetheless evident that there were real divisions among Pāñcarātrikas, that these divisions are likely to have preceeded the extant Pāñcarātra scriptural literature,147 and that, to paraphrase Witzel, not *all* Pāñcarātra scriptures were “originally” considered “canonical” by *all* Pāñcarātra groups. This is nowhere more evident than with regard to the “three jewels”. 
+While it is highly probable that the fourfold ‘Siddhānta’ system of classification within the Pāñcarātra was a South Indian innovation which based itself upon the Vedic precedent, and which might be usefully interpreted therefore as presenting an *ideal model * rather than a purely descriptive account,146 it is nonetheless evident that there were real divisions among Pāñcarātrikas, that these divisions are likely to have preceeded the extant Pāñcarātra scriptural literature,147 and that, to paraphrase Witzel, not *all* Pāñcarātra scriptures were “originally” considered “canonical” by *all* Pāñcarātra groups. This is nowhere more evident than with regard to the “three jewels”. 
 
 [^145]: It also needs to be emphasised, when speaking of traditions * within* the Pāñcarātra, that many of the texts at our disposal do not “belong” to one Siddhānta or another, but rather are composite entities which often appear to have undergone redactions, for example, by both Āgamasiddhāntins *and* Mantrasiddhāntins \(or their “Veda-congruent” equivalents\). An obvious example of this is the PauṣS, though the ĪS and the PādS also betray the influence of both Siddhāntas. 
 
@@ -35,9 +35,9 @@ As we have seen, three of the four Pāñcarātra scriptures which claim the supe
 
 \( *nayakarma*\) for all four *varṇas*, by the fact that its members do not undergo *dīkṣā*, and by the fact that they do not use Vedic mantras and recite the *dvādaśākṣara* mantra without the Vedic elements *ṛṣi* and *chandas*. According to the ŚrīprśS \(16.31c-34\), the Āgamasiddhānta shares these last characteristics with both the Tantra and the Tantrāntara Siddhāntas, and it is exclusively members of the *Mantrasiddhānta* who are qualified to use Vedic mantras alongside those belonging to the ‘Ekāyana’. The PādS’s claim that the Āgamasiddhānta does not teach the *ṛṣi* and * chandas* elements of a mantra appears to be corroborated by both the PārS and the ĪS, neither of which teach these \(Rastelli 2006: 208-209\). In the absence of any conflicting evidence, then, this characteristic alone should make it relatively easy to distinguish textual sources belonging to the Āgamasiddhānta from those which belong to the Mantrasiddhānta, at least when we are considering those works which contain these classifications. 
 
-The type of Pāñcarātrika who adheres to the Mantrasiddhānta is commonly referred to as a “mixed worshipper” \( *vyāmiśrayājin*\) by Āgamasiddhāntin or 148 See especially PārS 1.32c-33b: *ity uktvādhyāpayām āsa vedam ekāyanābhidam *// *mūlabhūtas tu* *mahato vedavṛkṣasya yo mahān */. – “Having spoken thus, he taught the Veda called Ekāyana, which is the main root of the great Veda-tree”; ĪS 1.19-20b \(← PārS 1.57c-58b, 1.33ab\); ĪS 1.24ab \(← PārS 
+The type of Pāñcarātrika who adheres to the Mantrasiddhānta is commonly referred to as a “mixed worshipper” \( *vyāmiśrayājin*\) by Āgamasiddhāntin or 148 See especially PārS 1.32c-33b: *ity uktvādhyāpayām āsa vedam ekāyanābhidam*// *mūlabhūtas tu mahato vedavṛkṣasya yo mahān*/. – “Having spoken thus, he taught the Veda called Ekāyana, which is the main root of the great Veda-tree”; ĪS 1.19-20b \(← PārS 1.57c-58b, 1.33ab\); ĪS 1.24ab \(← PārS 
 
-1.76ab\): *mahato vedavṛkṣasya mūlabhūto mahān ayam */. – “This \[Ekāyanaveda\] is the main root of the great Veda-tree”; ŚrīprśS 2.38ab: *vedam ekāyanam nāma vedānāṃ śirasi sthitam */. – “The Veda named Ekāyana is situated at the head of the Vedas”. 
+1.76ab\): *mahato vedavṛkṣasya mūlabhūto mahān ayam*/. – “This \[Ekāyanaveda\] is the main root of the great Veda-tree”; ŚrīprśS 2.38ab: *vedam ekāyanam nāma vedānāṃ śirasi sthitam*/. – “The Veda named Ekāyana is situated at the head of the Vedas”. 
 
 [^149]: I have referred to the claim that the SS, PauṣS and JS are the superior Pāñcarātra scriptures as the 
 
@@ -45,7 +45,7 @@ The type of Pāñcarātrika who adheres to the Mantrasiddhānta is commonly refe
 
 ‘Ekāyana’ authors who consider such worshippers to be inferior.150 An example of this can be found in the PauṣS: 
 
-*viprā ekāyanākhyā ye te bhaktās tattvato ’cyute *// *ekāntinaḥ sutattvasthā dehāntān* *nānyayājinaḥ */ *kartavyatvena ye viṣṇuṃ saṃyajanti phalaṃ vinā *// *prāpnuvanti* *ca dehānte vāsudevatvam abjaja */ *vyāmiśrayājinaś cānye bhaktābhāsās tu te* *smṛtāḥ *//. – “Those Brahmins that are called Ekāyanas are truly devotees of Acyuta. They who worship Viṣṇu as a duty \[that is\] without fruit, worshipping no other \[god\], are Ekāntins \(“they have a single aim”\) who \[will\] exist in their true state after death. \[In other words\] at death they attain the state of Vāsudeva, O 
+*viprā ekāyanākhyā ye te bhaktās tattvato ’cyute*// *ekāntinaḥ sutattvasthā dehāntān nānyayājinaḥ*/ *kartavyatvena ye viṣṇuṃ saṃyajanti phalaṃ vinā*// *prāpnuvanti ca dehānte vāsudevatvam abjaja*/ *vyāmiśrayājinaś cānye bhaktābhāsās tu te smṛtāḥ*//. – “Those Brahmins that are called Ekāyanas are truly devotees of Acyuta. They who worship Viṣṇu as a duty \[that is\] without fruit, worshipping no other \[god\], are Ekāntins \(“they have a single aim”\) who \[will\] exist in their true state after death. \[In other words\] at death they attain the state of Vāsudeva, O 
 
 Lotus-born\! And the others are mixed sacrificers - they are considered to be devotees in appearance only.” \(PauṣS 36.260c-262\) 
 
@@ -61,7 +61,7 @@ The division between those Vaiṣṇavas who “mix” a Pāñcarātrika system 
 
 ‘Purāṇasiddhānta’. The PRR \(31.1-2\) quotes this text thus: *etat purāṇasiddhāntaṃ śrīkaraṃ ca viśeṣataḥ*
 
-/ *idaṃ śrīkarasaṃjñākhyaṃ bhogamokṣaphalapradam *//. Vedāntadeśika \(PRR 30.21-22 and 31.5-6\) asserts that the name ‘Purāṇasiddhānta’ designates the ‘Tantrāntarasiddhānta’, and argues that it is precisely the Tantrāntarasiddhānta that is denoted by the particle *ca* in the above verse. [[93]]
+/ *idaṃ śrīkarasaṃjñākhyaṃ bhogamokṣaphalapradam*//. Vedāntadeśika \(PRR 30.21-22 and 31.5-6\) asserts that the name ‘Purāṇasiddhānta’ designates the ‘Tantrāntarasiddhānta’, and argues that it is precisely the Tantrāntarasiddhānta that is denoted by the particle *ca* in the above verse. [[93]]
 
 something of a valuable, albeit inevitably incomplete, Pāñcarātrika ethnography of this period. 
 
@@ -69,17 +69,17 @@ It is notable that of the eight Pāñcarātra scriptures that contain, or are sa
 
 \( *siddhāntasaṃjñam*, 294c\), which it lists alongside the Mantra, Tantra and Tantrāntara Siddhāntas. These verses were presumably authored by a member of the tradition which is elsewhere called ‘Āgamasiddhānta’. In addition, as we shall see in a later 153 The verses attributed to the HP or, as Vedāntadeśika names it, the ‘ *Hayagrīvasaṃhitā*’ in the PRR 
 
-\(8.5-8\) read: *āgamākhyaṃ hi siddhāntaṃ sanmokṣaikaphalapradam */ *mantrasaṃjñaṃ hi siddhāntaṃ*
+\(8.5-8\) read: *āgamākhyaṃ hi siddhāntaṃ sanmokṣaikaphalapradam*/ *mantrasaṃjñaṃ hi siddhāntaṃ*
 
-*siddhimokṣapradaṃ nṛṇām *// *tantrasaṃjñaṃ tu siddhāntaṃ caturvargaphalapradam */ *tantrāntaraṃ*
+*siddhimokṣapradaṃ nṛṇām*// *tantrasaṃjñaṃ tu siddhāntaṃ caturvargaphalapradam*/ *tantrāntaraṃ*
 
-*hi siddhāntaṃ vāñchitārthaphalapradam *//. – “The Siddhānta named Āgama grants liberation as its only fruit. The Siddhānta called Mantra grants to people liberation and magical powers \( *siddhi*\). The Siddhānta called Tantra grants the “group of four” \(i.e. the *puruṣārtha* s\) as its fruit. The Tantrāntara Siddhānta grants as its fruit the “desired goal”.” Vedāntadeśika \(PRR 8.9\) explains that the “desired goal” here indicates liberation \( *apavarga*\). The verses attributed to the *Kālottara* in the PRR \(31.14-18\) read: *anekabhedabhinnaṃ ca pañcarātrākhyam āgamam */ *pūrvam āgamasiddhāntaṃ mantrākhyaṃ*
+*hi siddhāntaṃ vāñchitārthaphalapradam*//. – “The Siddhānta named Āgama grants liberation as its only fruit. The Siddhānta called Mantra grants to people liberation and magical powers \( *siddhi*\). The Siddhānta called Tantra grants the “group of four” \(i.e. the *puruṣārtha* s\) as its fruit. The Tantrāntara Siddhānta grants as its fruit the “desired goal”.” Vedāntadeśika \(PRR 8.9\) explains that the “desired goal” here indicates liberation \( *apavarga*\). The verses attributed to the *Kālottara* in the PRR \(31.14-18\) read: *anekabhedabhinnaṃ ca pañcarātrākhyam āgamam*/ *pūrvam āgamasiddhāntaṃ mantrākhyaṃ*
 
-*tadanantaram *// *tantraṃ tantrāntaraṃ ceti caturdhā parikīrtitam *//. – “The tradition named Pañcarātra is split into various divisions \( *bheda*\). The first is the Āgama, and after that there is the one called Mantra, the Tantra, and the Tantrāntara. Thus it is said to be fourfold.” 
+*tadanantaram*// *tantraṃ tantrāntaraṃ ceti caturdhā parikīrtitam*//. – “The tradition named Pañcarātra is split into various divisions \( *bheda*\). The first is the Āgama, and after that there is the one called Mantra, the Tantra, and the Tantrāntara. Thus it is said to be fourfold.” 
 
 [^154]: See BhT 22.87-93b, and BhT 24.19-20 \(← PādS *cp* 21.36, 37cd, 38ab\), BhT 24.25-27b \(← PādS *cp* 21.53-54b, 38c-39b\). 
 
-[^155]: See e.g. ŚrīprśS 16.32-34b: *tantrāntare tv āgame ca siddhānte tantrasaṃjñike */ *teṣu* *pūjāpravṛttānāṃ dīkṣā nirbījasaṃjñikā *// *anyeṣāṃ dīkṣākaraṇe teṣām anadhikāritā */ *ato nirbīja ity* *uktā vidvadbhiḥ kamalekṣaṇe *// *sabījaṃ mantrasiddhāntadīkṣākramam udīryate */. – “For those engaged in worship according to the Tantrāntara, the Āgama and the Siddhānta called Tantra, the initiation is called ‘without seed’. For them there is no entitlement to perform the intiation of others. 
+[^155]: See e.g. ŚrīprśS 16.32-34b: *tantrāntare tv āgame ca siddhānte tantrasaṃjñike*/ *teṣu pūjāpravṛttānāṃ dīkṣā nirbījasaṃjñikā*// *anyeṣāṃ dīkṣākaraṇe teṣām anadhikāritā*/ *ato nirbīja ity uktā vidvadbhiḥ kamalekṣaṇe*// *sabījaṃ mantrasiddhāntadīkṣākramam udīryate*/. – “For those engaged in worship according to the Tantrāntara, the Āgama and the Siddhānta called Tantra, the initiation is called ‘without seed’. For them there is no entitlement to perform the intiation of others. 
 
 Thus it is called ‘without seed’ by the learned, O lotus-eyed. \[Conversely\] the method of initiation in the Mantrasiddhānta is called ‘with seed’.” [[94]]
 
@@ -95,7 +95,7 @@ In several places in the ŚrīprśS \(e.g. at 2.38 *ff*, 16.20 and 16.34\), the 
 
 ‘Ekāyana’ and ‘Ekāyanaveda’ are used to refer to the Pāñcarātra tradition and the Pāñcarātra teaching in general.158 On each of these occasions, the Vedas are referred to in the same verse - once in order to accord the Ekāyanaveda the higher authority \(2.38ab: *vedam ekāyanaṃ nāma vedānāṃ śirasi sthitam*\), and in the other two 156 These are listed by Padmanabhan \(1969\) in the appendix to the ŚrīprśS. 
 
-[^157]: ŚrīprśS 16.34: *sabījaṃ mantrasiddhāntadīkṣākramam udīryate */ *caturvedoktamantraiś ca mantrair* *ekāyanasthitaiḥ *//. – “\[Conversely\] the method of initiation in the Mantrasiddhānta is called ‘with seed’. \[It is performed\] with mantras enunciated in the four Vedas and with mantras contained in the Ekāyana.” ****
+[^157]: ŚrīprśS 16.34: *sabījaṃ mantrasiddhāntadīkṣākramam udīryate*/ *caturvedoktamantraiś ca mantrair ekāyanasthitaiḥ*//. – “\[Conversely\] the method of initiation in the Mantrasiddhānta is called ‘with seed’. \[It is performed\] with mantras enunciated in the four Vedas and with mantras contained in the Ekāyana.” ****
 
 [^158]: The “Veda named Ekāyana” is also mentioned at ŚrīprśS 23.185a, though in this instance its precise referent is not clear. [[95]]
 
@@ -119,7 +119,7 @@ borrows these terms from the *Nārāyaṇīya*, but modifies their meaning so th
 
 \( *karmasaṃnyāsa*\) and the “desireless” \( *nirāśa*\) worship of god in the Āgamasiddhānta, but it does not favourably contrast these practices with those employed by followers of the Veda. See also BhT 24.19-27b. [[96]]
 
-In the 16th chapter of the ŚrīprśS, the term ‘Ekāyanaveda’ is used to refer to the Pāñcarātra teaching in general. The verse in question reads as follows: *yathaiva karmakāṇḍeṣu dīkṣoktā yāgasiddhaye */ *tathaivaikāyane vede* *pūjāyāgādisiddhaye *//. - “Just as initiation \( *dīkṣā*\) is spoken of \[as necessary\] for the performance of sacrifice in the ritual portions \( *karmakāṇḍa*\) \[of the Veda\], so too \[it is spoken of as necessary\] for the performance of worship and sacrifice etc. in the Ekāyanaveda.” \(ŚrīprśS 16.20\) 
+In the 16th chapter of the ŚrīprśS, the term ‘Ekāyanaveda’ is used to refer to the Pāñcarātra teaching in general. The verse in question reads as follows: *yathaiva karmakāṇḍeṣu dīkṣoktā yāgasiddhaye*/ *tathaivaikāyane vede pūjāyāgādisiddhaye*//. - “Just as initiation \( *dīkṣā*\) is spoken of \[as necessary\] for the performance of sacrifice in the ritual portions \( *karmakāṇḍa*\) \[of the Veda\], so too \[it is spoken of as necessary\] for the performance of worship and sacrifice etc. in the Ekāyanaveda.” \(ŚrīprśS 16.20\) 
 
 This verse, then, provides another instance \(i.e. alongside ŚrīprśS 2.26-46b\) in which an association is drawn between followers of the ‘Ekāyanaveda’ and *dīkṣā*. As we have seen above, earlier works such as the PādS and the PārS indicate, contrarily, that followers of the Ekāyanaveda do *not* undergo *dīkṣā*. Of course, the passages from these works which address this issue, such as PādS *cp* 21.51-53 which explicitly states that “the way of the Ekāyana” \( *ekāyanādhvan*\) does not involve *dīkṣā*, do not use the designation ‘Ekāyana’ as a name for the Pāñcarātra in general, as is the case in the 16th chapter of the ŚrīprśS. As I have stated earlier, the above verse \(ŚrīprśS 16.20\) occurs in a passage which identifies the ŚrīprśS with the Mantrasiddhānta, and so this is quite a clear example, therefore, of a Mantrasiddhāntin incorporating the idea of the 
 
@@ -143,15 +143,15 @@ That the PādS should contain a passage wherein an apparently non-Āgamasiddhān
 
 [^163]: There are passages in the PādS which do appear to have been authored by Āgamasiddhāntins, most notably in the first chapter of the Caryāpāda. 
 
-[^164]: See PādS *cp* 13.67-70b: *ṛco yajūṃṣi sāmāni bhidyamānāny anekadhā *// *śākhābhedair mūlaśākhām* *ekāyanasamāśrayām */ *trayīmayīm adhīyīta sukhāsīnas samāhitaḥ *// *anyais sārdham adhīyānaiṣ*
+[^164]: See PādS *cp* 13.67-70b: *ṛco yajūṃṣi sāmāni bhidyamānāny anekadhā*// *śākhābhedair mūlaśākhām ekāyanasamāśrayām*/ *trayīmayīm adhīyīta sukhāsīnas samāhitaḥ*// *anyais sārdham adhīyānaiṣ*
 
-*ṣaḍaṅgeṣu ca kovidaiḥ */ *adhyāpayīta vā śiṣyān śāstrāṇi vividhāni ca *// *itihāsapurāṇāni dharmaśāstrāṇi vā punaḥ */. 
+*ṣaḍaṅgeṣu ca kovidaiḥ*/ *adhyāpayīta vā śiṣyān śāstrāṇi vividhāni ca*// *itihāsapurāṇāni dharmaśāstrāṇi vā punaḥ*/. 
 
 [^165]: See especially the injunction to perform the Vaiśvadeva ritual at home following the recitation of the **
 
 *Jitaṃtestotra*. This act completes the performance of the five “great sacrifices” \( *mahāyajña*\), which should be undertaken according to one’s Gṛhyasūtra. PādS * cp* 13.64 reads: *iti vijñāpya deveśaṃ*
 
-*vaiśvadevaṃ svadhāmani */ *kuryāt pañca mahāyajñān api gṛhyoktavartmanā *//. On the *Jitaṃtestotra* see Colas \(1996: 234-236\) and Oberhammer \(2007: 42-46\). [[98]]
+*vaiśvadevaṃ svadhāmani*/ *kuryāt pañca mahāyajñān api gṛhyoktavartmanā*//. On the *Jitaṃtestotra* see Colas \(1996: 234-236\) and Oberhammer \(2007: 42-46\). [[98]]
 
 Āgamasiddhānta. We must assume that these two sections of the PādS do not share a common author, and that the summary of the *pañcakāla* duties in PādS *cp* 13 is in all likelihood the later contribution to the text. This is most likely the case because in the *scriptural* literature, the non-Āgamasiddhāntin incorporation of the idea of the Ekāyanaveda is a strategy which is found in the later works, including the ŚrīprśS, as we have just seen, and also the *Śrīpuruṣottamasaṃhitā* \(ŚrīpurS\), another work which probably postdates Vedāntadeśika \(Smith 1975: 274\). 
 
@@ -159,13 +159,13 @@ In the opening chapter of the ŚrīpurS, the sage Vasiṣṭha presents the desi
 
 ‘Pāñcarātra’, ‘Mūlaveda’, ‘Sāttvata’, ‘Tantra’, ‘Ekāyana’ and ‘Āgama’ as synonymous terms,166 and in explaining why each of these names is an appropriate designation for the Lord’s teaching \( *bhagavacchāstra*\), the author incorporates passages from both the PādS and the ĪS, including them alongside each other. In fact, much of the first chapter of the ŚrīpurS is an amalgam of verses borrowed from these two works.167 Indeed, I believe that we can interpret this section of the ŚrīpurS as a conscious attempt to accommodate forms of self-understanding found within the more Veda-congruent Pāñcarātra traditions, as represented in the PādS, with those found within the Ekāyana tradition, and articulated in the ĪS, so that both are included within a single, homogeneous Pāñcarātra “system” \( *tantram*\).168 Accordingly, as in the *Adhikaḥ*
 
-*Pāṭhaḥ* to which I shall turn shortly, there is no mention of distinct Pāñcarātra Siddhāntas in this work. However, the two contrasting Pāñcarātrika modes of self-description sit rather uneasily alongside each other in the ŚrīpurS. Thus, the Ekāyana claim that “this is the main root of the great Veda tree - the Ṛc etc. are its trunk and 166 ŚrīpurS 1.11 *ff*. See also ŚrīpurS 22.57c-59b \(← PādS *cp* 2.87c-88, quoted above\): *sa eva sūris suhṛt* *sāttvataḥ pāñcarātravit *// *ekāntikas *\( *ekāṃtikas*\) * tanmayaś ca deśiko dīkṣito ’rcakaḥ */ *gurur* *bhāgavataś caiva pūjakas sādhako hariḥ *// *bhaṭṭārakādir ākhyābhir ākhyeyaḥ kamalāsana */. 
+*Pāṭhaḥ* to which I shall turn shortly, there is no mention of distinct Pāñcarātra Siddhāntas in this work. However, the two contrasting Pāñcarātrika modes of self-description sit rather uneasily alongside each other in the ŚrīpurS. Thus, the Ekāyana claim that “this is the main root of the great Veda tree - the Ṛc etc. are its trunk and 166 ŚrīpurS 1.11 *ff*. See also ŚrīpurS 22.57c-59b \(← PādS *cp* 2.87c-88, quoted above\): *sa eva sūris suhṛt* *sāttvataḥ pāñcarātravit*// *ekāntikas *\( *ekāṃtikas*\) * tanmayaś ca deśiko dīkṣito ’rcakaḥ*/ *gurur* *bhāgavataś caiva pūjakas sādhako hariḥ*// *bhaṭṭārakādir ākhyābhir ākhyeyaḥ kamalāsana*/. 
 
 [^167]: ŚrīpurS 1.3cd ← PādS *jp* 1.14ab; ŚrīpurS 1.6cd ← PādS *jp* 1.32ab; ŚrīpurS 1.10cd ← ĪS 1.18cd; ŚrīpurS 1.12 ← ĪS 1.19 \(← PārS 1.57c-58b\); ŚrīpurS 1.14-15 ← ĪS 1.24-25 \(cf. PārS 1.76-77\); ŚrīpurS 
 
 1.18-19b ← PādS *jp* 1.63-64b; ŚrīpurS 1.25-26 ← PādS *jp* 1.90-91; ŚrīpurS 1.27ab ← PādS *jp* 1.96cd; ŚrīpurS 1.28-29 ← PādS *jp* 1.97-98. Additionally, the first chapter of the ŚrīpurS shares a noteworthy parallel verse, explaining the meaning of the term “Pāñcarātra”, with the *Mārkaṇḍeyasaṃhitā* \(MārkS\): ŚrīpurS 1.6c-7b ↔ MārkS 1.22c-23b. The MārkS may be more or less contemporary with the ŚrīpurS, though there are several clues that it is the earlier of the two works. 
 
-[^168]: See ŚrīpurS 1.29ab: *śatam ekam athāṣṭau ca tantre ’smin viditaṃ mayā */. – “In this system \( *tantre*
+[^168]: See ŚrīpurS 1.29ab: *śatam ekam athāṣṭau ca tantre ’smin viditaṃ mayā*/. – “In this system \( *tantre*
 
 *’smin*\), 108 \[Tantras\] are known by me.” Cf. PādS *jp* 1.98ab. [[99]]
 
@@ -177,17 +177,17 @@ The only extant non-Āgamasiddhānta scriptural source that contains an original
 
 entitled *Adhikaḥ Pāṭhaḥ*. This fourteenth century work follows the PādS in invoking the memory of the sage Aupagāyana, said here to be a student \( *adhīyāna*\) of the Kāṇvī 
 
-*śākhā* \(JS *ap* 109ab\) and it also prescribes the mixing \( *vimiśrita*\) of Vedic and celestial \( *divya*\) i.e. Pāñcarātrika mantras \(JS *ap* 118\). Having declared that the Jayākhya is superior among the “three jewels” \( *ratneṣu triṣv api śreṣṭhaṃ jayākhyaṃ tantram* *ucyate*, JS *ap* 108ab\), Lord Varada \( *varadarāja*\), the narrator of this section, asserts: *jayākhyenātha pādmena tantreṇa sahitena vai *// *mūlavyākhyānarūpābhyāṃ*
+*śākhā* \(JS *ap* 109ab\) and it also prescribes the mixing \( *vimiśrita*\) of Vedic and celestial \( *divya*\) i.e. Pāñcarātrika mantras \(JS *ap* 118\). Having declared that the Jayākhya is superior among the “three jewels” \( *ratneṣu triṣv api śreṣṭhaṃ jayākhyaṃ tantram* *ucyate*, JS *ap* 108ab\), Lord Varada \( *varadarāja*\), the narrator of this section, asserts: *jayākhyenātha pādmena tantreṇa sahitena vai*// *mūlavyākhyānarūpābhyāṃ*
 
-*samarcayatu māṃ sadā */ *na tantrasaṅkaro doṣas tantrayor anayor iha *//. – 
+*samarcayatu māṃ sadā*/ *na tantrasaṅkaro doṣas tantrayor anayor iha*//. – 
 
 “Thus, one should always worship me according to the Jayākhya \[Saṃhitā\] *along* *with* the Pādma Tantra \[i.e.\] according to both forms - the root \[text\] and the commentary. Here, with regard to both Tantras, the defect is in *not* mixing the Tantras.” \(JS *ap * 111c-112\) 
 
 Thus, the apparently Mantrasiddhāntin author of the *Adhikaḥ Pāṭhaḥ* has found a way of incorporating the teaching of the “three jewels” whilst ensuring that the PādS, a work which belongs to the Mantrasiddhānta, is, *practically* speaking, as essential as those texts. Where the “mixing” of one Tantra with another is normally discouraged as a “defect” or a “fault” \( *doṣa*\), in this instance the defect is said to be that of following the JS without also following its “commentary”, the PādS. This case offers a good example, then, not to mention a more seamless process, of forming a single 
 
-“Pāñcarātra canon”, of bringing together “canonical” systems from distinct Pāñcarātra traditions with the aim of subsuming them into a “single” tradition. This integrative strategy is a clear development from the Mantrasiddhāntin appropriation of the 169 ŚrīpurS 1.14: *mahato vedavṛkṣasya mūlabhūto mahān ayam */ *ṛgādyāḥ skandhabhūtās te* *śākhābhūtāś ca yoginaḥ *//. 
+“Pāñcarātra canon”, of bringing together “canonical” systems from distinct Pāñcarātra traditions with the aim of subsuming them into a “single” tradition. This integrative strategy is a clear development from the Mantrasiddhāntin appropriation of the 169 ŚrīpurS 1.14: *mahato vedavṛkṣasya mūlabhūto mahān ayam*/ *ṛgādyāḥ skandhabhūtās te* *śākhābhūtāś ca yoginaḥ*//. 
 
-[^170]: ŚrīpurS 1.26c-27a: *śrutimūlam idaṃ tantraṃ pramāṇaṃ kalpasūtravat *// *vedāc chāstraṃ paraṃ*
+[^170]: ŚrīpurS 1.26c-27a: *śrutimūlam idaṃ tantraṃ pramāṇaṃ kalpasūtravat*// *vedāc chāstraṃ paraṃ*
 
 *nāsti.. *. /. [[100]]
 
@@ -205,9 +205,9 @@ Finally, I should mention a rather interesting list of Pāñcarātra Saṃhitās
 
 [^174]: The * Kapiñjalasaṃhitā* \(1.14b-27\) names 100 titles; in a very similar list \(see Smith 1975\), the *Bhāradvājasaṃhitā* \(1.8b-22a\) names 103; the ŚrīpurS \(1.30-44a\) names 105; the MārkS \(1.43-59\) names 91. 
 
-[^175]: ViśS 2.34: *eteṣāṃ granthasaṃkhyā ca śatakoṭipramāṇataḥ */ *yugakramavaśād vipra vṛddhiṃ*
+[^175]: ViśS 2.34: *eteṣāṃ granthasaṃkhyā ca śatakoṭipramāṇataḥ*/ *yugakramavaśād vipra vṛddhiṃ*
 
-*hrāsaṃ ca gacchati *//. [[101]]
+*hrāsaṃ ca gacchati*//. [[101]]
 
 1000-1050\), and was apparently known also to Abhinavagupta \(c. 975-1025\), tells us that the Pāñcarātra amounts to “a thousand million \[ *śloka* s\]”, that there are 116 
 
@@ -217,9 +217,9 @@ There are, in my view, several features of the *Śrīkaṇṭhī*’s list which
 
 Secondly, the importance it assigns to the teaching of the “five times” in the Pāñcarātra is rare in Kashmirian works of this period. The early Pāñcarātra scriptures which appear to have been authored in Kashmir themselves do not assign an especially prominent place to this teaching \(see Rastelli 2000a\). Thirdly, the fact that the tradition is called here ‘Pāñcarātra’, rather than ‘Pañcarātra’, is also very unusual. 
 
-Although in South Indian works ‘Pāñcarātra’ gradually became the standard name for the tradition, it is much more commonly referred to as ‘Pañcarātra’ in the earlier literature.179 Lastly, none of the recently discovered early Pāñcarātra works, namely the *Svāyambhuvapañcarātra*, the * Devāmṛtapañcarātra*, the *Mahālakṣmīsaṃhitā*, and the *Jayottaratantra*, are named in the list. If Sanderson \(2009\) is correct in his 176 *Śrīkaṇṭhī* 51c-52: *śatakoṭipravistīrṇaṃ pāñcarātraṃ pramāṇataḥ *// *tatra bhedaśataṃ pūrṇaṃ*
+Although in South Indian works ‘Pāñcarātra’ gradually became the standard name for the tradition, it is much more commonly referred to as ‘Pañcarātra’ in the earlier literature.179 Lastly, none of the recently discovered early Pāñcarātra works, namely the *Svāyambhuvapañcarātra*, the * Devāmṛtapañcarātra*, the *Mahālakṣmīsaṃhitā*, and the *Jayottaratantra*, are named in the list. If Sanderson \(2009\) is correct in his 176 *Śrīkaṇṭhī* 51c-52: *śatakoṭipravistīrṇaṃ pāñcarātraṃ pramāṇataḥ*// *tatra bhedaśataṃ pūrṇaṃ*
 
-*ṣoḍaśādhikam eva ca */ *viṣṇunā kathitaṃ devi pañcakālanidarśanam *//. 
+*ṣoḍaśādhikam eva ca*/ *viṣṇunā kathitaṃ devi pañcakālanidarśanam*//. 
 
 [^177]: On the provenance and probable date of this text see Gonda \(1977: 55\), Rajan \(1981: 34\), and Rastelli \(2007: 190\). 
 

@@ -25,9 +25,9 @@ The objective of the author of the description of the Siddhāntas in the PādS i
 
 Siddhāntas which are found in the 19th *adhyāya* s of both the PādS’s Caryāpāda and the PārS are contained within sections of these texts which deal primarily with the rites of reparation \( *prāyaścitta*\). Given that such rites are also prescribed, for instance, in the event of a *tantrasāṅkarya * i.e a “mixing” of *systems*, whether it be Vaikhānasa or Pāśupata \(PārS 19.520, 549\), the term “sectarianism” does not seem too out of place in a discussion of the Pāñcarātra Siddhāntas of this period. Indeed, the PādS \( *cp* 111 Rastelli \(2006\) has shown that the partially Ekāyana PauṣS was in use at this temple, and that the PārS, an Ekāyana work, was very probably composed here. 
 
-[^112]: ĀP 169.7-10: *ye punaḥ sāvitryanuvacanaprabhṛtitrayīdharmatyāgena ekāyanaśrutivihitān eva* *cattvāriṃśat saṃskārān kurvate te ’pi svaśākhāgṛhyoktam arthaṃ yathāvad anutiṣṭhamānāḥ na* *śākhāntarīyakarmānanuṣṭhānād brāhmaṇyāt pracyavante.*
+[^112]: ĀP 169.7-10: *ye punaḥ sāvitryanuvacanaprabhṛtitrayīdharmatyāgena ekāyanaśrutivihitān eva cattvāriṃśat saṃskārān kurvate te ’pi svaśākhāgṛhyoktam arthaṃ yathāvad anutiṣṭhamānāḥ na śākhāntarīyakarmānanuṣṭhānād brāhmaṇyāt pracyavante.*
 
-[^113]: Yāmuna gives no clear indication in the ĀP that he authored this work. See ĀP 170.7-9: *yathā ca* *ekāyanaśākhāyā apauruṣeyatvaṃ tathā kāśmīrāgamaprāmāṇya eva prapañcitam iti*. 
+[^113]: Yāmuna gives no clear indication in the ĀP that he authored this work. See ĀP 170.7-9: *yathā ca ekāyanaśākhāyā apauruṣeyatvaṃ tathā kāśmīrāgamaprāmāṇya eva prapañcitam iti*. 
 
 [^114]: See, for example, Yāmuna’s claim \(at ĀP 115.8-116.1\) that “Mutual conflict between the 
 

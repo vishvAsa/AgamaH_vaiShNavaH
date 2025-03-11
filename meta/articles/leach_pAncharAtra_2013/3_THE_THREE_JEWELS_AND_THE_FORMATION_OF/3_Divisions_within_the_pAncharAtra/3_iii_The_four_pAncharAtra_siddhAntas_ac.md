@@ -10,9 +10,9 @@ The *Pādmasaṃhitā *\(PādS\) attempts to clearly delineate the divisions wit
 
     SanS *Indrarātra* 3.81c-82: 
     
-    > *kecit tān sāttvatān āhuḥ kecid bhāgavatān viduḥ *//  
-    > *kecic ca vaiṣṇavān āhuḥ kecit tān pāñcarātrikān */  
-    > *iti nāmnā tu bhedena dīkṣitā vaiṣṇavāḥ smṛtāḥ *//. 
+    > *kecit tān sāttvatān āhuḥ kecid bhāgavatān viduḥ*//  
+    > *kecic ca vaiṣṇavān āhuḥ kecit tān pāñcarātrikān*/  
+    > *iti nāmnā tu bhedena dīkṣitā vaiṣṇavāḥ smṛtāḥ*//. 
 
 [^91]: As outlined above, on the basis of Rastelli’s \(2003\) chronology, I place the PādS in the late twelfth or early thirteenth century at the latest. 
 
@@ -22,9 +22,9 @@ Since Rastelli \(2006\) has provided a thorough description of the accounts of t
 
 In the opening *adhyāya* of the PādS, after a brief eulogy in which the Pañcarātra’s place among other teachings \( *śāstra*\) is likened to the place of the Ganges among other sacred bathing places \( *tīrtha*\), and of Acyuta among other gods \(PādS *jp* 1.63c-64b\), and in which there are references to the injunctions \( *vidhi*\) “of the Pañcarātra” \(1.64c, 69a\), and to the Pañcarātra as a teaching which rescues one “from the ocean of existence” \( *bhavasāgarāt*\) \(1.75-76b\), the author states the following: 
 
-> *ṛgādi saṃjñayā vedaś caturdhā bhidyate* * yathā* //  
-> *tadvat siddhāntabhedena* *pañcarātraṃ caturvidham* / *ṛgādayo yathā caikaṃ bhidyate bahuśākhyayā* //  
-> *tathā siddhāntam ekaikaṃ* *vaktṛbhedena bhidyate* /. – 
+> *ṛgādi saṃjñayā vedaś caturdhā bhidyate  yathā* //  
+> *tadvat siddhāntabhedena pañcarātraṃ caturvidham* / *ṛgādayo yathā caikaṃ bhidyate bahuśākhyayā* //  
+> *tathā siddhāntam ekaikaṃ vaktṛbhedena bhidyate* /. – 
 > 
 > “Just as the Veda is divided into four parts with the names Ṛc etc., so too is the Pañcarātra fourfold, with separate Siddhāntas. And just as the Ṛc and others are divided into many branches, similarly each Siddhānta is divided by \[its having\] different speakers.”  
 > \(PādS *jp* 1.76c-78b\) 
@@ -53,7 +53,7 @@ This Siddhānta, the author tells us elsewhere \( *cp* 19.115d\), is “foremost
 
 Mantrasiddhāntins primarily worship a single form of god \( *ekamūrti*, *jp* 1.80ab\), which we are told \(at *cp* 21.25c\) is Vāsudeva.[^95] The author asserts \( *cp* 21.28c-29\) that Mantrasiddhāntins “should meditate on” or “visualise” \( *dhyāyeyuḥ*, 29c\) and honour Vāsudeva’s image \( *bera*\) with Vedic mantras \( *trayīmantra*\). The Vedic origin of the Mantrasiddhānta is described at PādS *cp* 21.2 *ff*. Here we are told that a group of 8000 seers \( *ṛṣi*\), led by Aupagāyana and belonging to the Kāṇva and Mādhyandina recensions \(i.e. of the Vājasaneya school\) asked Brahmā for a means to liberation, and in response to this, Brahmā, “desiring to grant favours” \( *anugrahakāmyayā*\), initiated these seers into the Pañcarātra “by way of the Mantrasiddhānta” \(PādS *cp* 21.7c-8\). 
 
-Having been initiated into the *cakravārija maṇḍala* \(also known as the *cakrābja* *maṇḍala*\), the *ṛṣi* s are instructed to recite the Kāṇvī and Mādhyandanī recensions \( *śākhā*\), and to accompany the performance of Vedic rituals such as *somayāga* with visualisation on \( *dhyāna*\) and worship of the Lord \( *bhagavat*\) \(PādS *cp* 21.10c-11b\). 
+Having been initiated into the *cakravārija maṇḍala* \(also known as the *cakrābja maṇḍala*\), the *ṛṣi* s are instructed to recite the Kāṇvī and Mādhyandanī recensions \( *śākhā*\), and to accompany the performance of Vedic rituals such as *somayāga* with visualisation on \( *dhyāna*\) and worship of the Lord \( *bhagavat*\) \(PādS *cp* 21.10c-11b\). 
 
 The Mantrasiddhānta, “like the Veda”, teaches that performing the ritual as a duty \( *kartavya*\), in other words as something that is “without fruit”, leads to supreme bliss.[^96] We are told in the following verse that this \(potentially\) liberation-conferring ritual is “the worship of the Lord \( *bhagavat*\) according to the five times teaching” which is “to be performed either at home or in the temple”.[^97] 
 
@@ -61,7 +61,7 @@ The author of the PādS then tells us that Mantrasiddhāntins are those who are 
 
 [^95]: As Rastelli \(2006: 224-225\) shows, according to PārS 19.529-539 the Mantrasiddhāntins do not always worship god as a “single form”, they also worship him in his *vyūha* and *vibhava* forms. This is merely one example of conflicting \(“internal”/“external”\) descriptions across texts which belong to different Siddhāntas. 
 
-[^96]: PādS *cp* 21.11c-12: *kartavyatvena vedoktaṃ ity evaṃ phalavarjitam *// *kartavyam iti kurvāṇaiḥ* *karma niśśreyasaṃ param */ *prāpyate ’nena yuṣmābhir mantrasiddhāntavartmanā *//. Cf. PauṣS 36.260c-261, wherein worshipping Viṣṇu “as a duty… \[that is\] without fruit” is associated, contrarily, with the Ekāyana Brahmins \( *vipra*\). 
+[^96]: PādS *cp* 21.11c-12: *kartavyatvena vedoktaṃ ity evaṃ phalavarjitam*// *kartavyam iti kurvāṇaiḥ karma niśśreyasaṃ param*/ *prāpyate ’nena yuṣmābhir mantrasiddhāntavartmanā*//. Cf. PauṣS 36.260c-261, wherein worshipping Viṣṇu “as a duty… \[that is\] without fruit” is associated, contrarily, with the Ekāyana Brahmins \( *vipra*\). 
 
 [^97]: PādS *cp* 21.13ac: *pañcakālaṃ yathāśāstraṃ *\[corr. *yathāśāstra*\] *gṛhe vā mandire ’pi vā* / *bhagavatpūjanaṃ kāryam*… //. [[71]]
 
@@ -74,15 +74,15 @@ The author of this section of the PādS clearly regards the Āgamasiddhānta as 
 
 Unsurprisingly, as we will see below, Āgamasiddhāntins present a rather different picture, and claim that they *are* qualified to peform the rites relating to *pavitrāropaṇa* and *pratiṣṭhā*. 
 
-[^98]: PādS *cp* 21.14-15: *yūyaṃ bhāgavatās tena jātā bhagavadarcanāt* / *bhagavadbhaktikaraṇād vaṃśa-jātāś caturmukha* // *nāmnā bhāgavatāḥ santo dīkṣayitvā yathāvidhi* / *yathoktaṃ karma kurvāṇāḥ* *prāpnuvanti paraṃ padam* //. This understanding of the Bhāgavatas as belonging to a lineage that one is born into is also found in the *Nāradīyasaṃhita* at 11.24ab: *bhagavadvaṃśajātāḥ ye te vai bhāgavatāḥ* *smṛtāḥ */. 
+[^98]: PādS *cp* 21.14-15: *yūyaṃ bhāgavatās tena jātā bhagavadarcanāt* / *bhagavadbhaktikaraṇād vaṃśa-jātāś caturmukha* // *nāmnā bhāgavatāḥ santo dīkṣayitvā yathāvidhi* / *yathoktaṃ karma kurvāṇāḥ prāpnuvanti paraṃ padam* //. This understanding of the Bhāgavatas as belonging to a lineage that one is born into is also found in the *Nāradīyasaṃhita* at 11.24ab: *bhagavadvaṃśajātāḥ ye te vai bhāgavatāḥ smṛtāḥ*/. 
 
 [^99]: This immediate revision possibly indicates that the second, more moderate “rule” was incorporated into the text at a later time. 
 
-[^100]: See especially PādS *cp* 21.21c-22: *bhagavān eva govinda sākṣād bhāgavataḥ smṛtaḥ *// *taṃ dṛṣṭvā* *vidyayā dīnam api duṣkṛtakāriṇam */ *nirguṇaṃ guṇinaṃ vāpi pratyuttiṣṭhet kṛtāñjaliḥ */. 
+[^100]: See especially PādS *cp* 21.21c-22: *bhagavān eva govinda sākṣād bhāgavataḥ smṛtaḥ*// *taṃ dṛṣṭvā vidyayā dīnam api duṣkṛtakāriṇam*/ *nirguṇaṃ guṇinaṃ vāpi pratyuttiṣṭhet kṛtāñjaliḥ*/. 
 
 [^101]: The PārS, which does not describe the initiation rite, also appears to confirm \(at e.g. 9.187-190, 13.114c-115, 15.14c-20, 18.116-117\) that Āgamasiddhāntins do not undergo *dīkṣā*. This information is taken from Rastelli \(2006: 193-195\). 
 
-[^102]: PādS *cp * 21.45: *yāceta mantrasiddhānte dīkṣitaṃ viprasattamam */ *pūjārtham ātmano* *bimbapratiṣṭhākarṣaṇādiṣu* \(corr. *karaṇādiṣu*\) //. [[72]]
+[^102]: PādS *cp * 21.45: *yāceta mantrasiddhānte dīkṣitaṃ viprasattamam*/ *pūjārtham ātmano bimbapratiṣṭhākarṣaṇādiṣu* \(corr. *karaṇādiṣu*\) //. [[72]]
 
 Both passages that discuss the omission of *dīkṣā* refer to an ‘Ekāyana’; in the first instance to an *ekāyanaṃ vedam* \(PādS *cp* 1.3c\), and in the second instance to an *ekāyanādhvan* \(PādS *cp* 21.53d\). This ‘Ekāyanaveda’ or “way of the Ekāyana” is the ritual teaching to which members of the Āgamasiddhānta adhere.[^103] 
 
@@ -92,7 +92,7 @@ Further manifestly non-Vedic characteristics of this Siddhānta include the fact
 
 In spite of the clear deficiencies or limitations of the Ekāyana in the eyes of the more Veda-congruent Mantrasiddhāntin author of this section of the PādS, however, it is important to recognise that the followers of this “lesser” Siddhānta, and equally the followers of the other Siddhāntas, the Tantra and Tantrāntara, are accepted nonetheless as genuine Pāñcarātrikas. 
 
-[^103]: PādS *cp* 21.36cd \(→ BhT 24.19cd\) refers to *ekādhvan* as the tradition according to which the *saṃskāras* are performed in the Āgamasiddhānta. It seems reasonable, in light of line 53cd referred to above, to take this as a synonym for *ekāyanādhvan*. At PādS *cp* 21.47ab it is stated: *ekāyanaś* *caturmūrtiṃ pratigṛhya samarcayet* /. – “The Ekāyana should worship having accepted the fourfold form”.
+[^103]: PādS *cp* 21.36cd \(→ BhT 24.19cd\) refers to *ekādhvan* as the tradition according to which the *saṃskāras* are performed in the Āgamasiddhānta. It seems reasonable, in light of line 53cd referred to above, to take this as a synonym for *ekāyanādhvan*. At PādS *cp* 21.47ab it is stated: *ekāyanaś caturmūrtiṃ pratigṛhya samarcayet* /. – “The Ekāyana should worship having accepted the fourfold form”.
 
 [^104]: See the parallel verses at BhT 24.20, 26c-27b\). As Hanneder \(1997\) and Rastelli \(2006\) have shown, these last two elements serve to make Tantric mantras seem more Vedic. The Mantrasiddhānta as presented in the Pāds incorporate these elements, whereas the Āgamasiddhānta does not. Rastelli \(2006: 208\) writes, “Es paßt sehr gut zu der PādS, deren Anhänger sich selbst auf vedisch-orthodoxe Traditionen zurückführen und die ihr Ritual als viṣṇuitische Modifikation des vedisch-orthodoxen Rituals betrachten, daß sie die “vedischen” und die “tantrischen” Elemente eines Mantra lehrt.”
 
@@ -110,7 +110,7 @@ The four Siddhāntas, then, are accepted by the PādS as distinct branches of a 
 
 Elsewhere in the PādS, we encounter the following emphatically inclusive statement: 
 
-> *sūriḥ suhṛd bhāgavataḥ sāttvataḥ pañcakālavit* // *aikāntikas tanmayaś ca* *pāñcarātrika ity api* / *evamādibhir ākhyābhir ākhyeyaḥ kamalāsana* //. -  
+> *sūriḥ suhṛd bhāgavataḥ sāttvataḥ pañcakālavit* // *aikāntikas tanmayaś ca pāñcarātrika ity api* / *evamādibhir ākhyābhir ākhyeyaḥ kamalāsana* //. -  
 > 
 > “Sage, friend, Bhāgavata, Sāttvata, knower of the five times, Aikāntika, Tanmaya and also Pāñcarātrika - \[he\] is called by names such as these, O Kamalāsana.” \(PādS *cp* 2.87c-88\)[^107] 
 
@@ -122,9 +122,9 @@ The inclusivism conveyed in this verse may indicate its later composition for, a
 The term *aikāntika* is derived from the word *ekānta* which, along with its derivatives, is prominent in the *Nārāyaṇīya* and throughout much of the Pāñcarātra scriptural literature \(see Matsubara 1994: 51-59\).
 
 
-[^106]: See PādS *cp* 21.34c-35b, and also the following verse 35c-36b: *nirāśaiḥ* *karmasaṃnyāsakāribhir* *devapūjanam* // * balādimantrair acchidrapañcakālaparāyaṇaiḥ* /. 
+[^106]: See PādS *cp* 21.34c-35b, and also the following verse 35c-36b: *nirāśaiḥ karmasaṃnyāsakāribhir devapūjanam* // * balādimantrair acchidrapañcakālaparāyaṇaiḥ* /. 
 
-[^107]: Cf. *Viśvāmitrasaṃhitā* 9.89c-90: *sa eva brāhmaṇo vidvān sa evāśramiṇāṃ varaḥ *// *sa etair* *nāmabhir vācya ekāntī pāñcarātrikaḥ */ *sūrir bhāgavataś caiva sāttvataḥ pāñcakālikaḥ *//. [[74]]
+[^107]: Cf. *Viśvāmitrasaṃhitā* 9.89c-90: *sa eva brāhmaṇo vidvān sa evāśramiṇāṃ varaḥ*// *sa etair nāmabhir vācya ekāntī pāñcarātrikaḥ*/ *sūrir bhāgavataś caiva sāttvataḥ pāñcakālikaḥ*//. [[74]]
 
 
 Scholars have long considered one such derivative, *ekāntin*, to mean something like “monotheist” in a Pāñcarātra context \(e.g. ibid., and Gonda 1977\) but, as we will see below, this term can also designate “one who has a single goal” viz. liberation. That the term *aikāntika* can similarly denote “liberation as the single goal” is indicated in the *Ahirbudhnyasaṃhitā* \(5.22-23b\), wherein the “Aikāntika path” \( *aikāntikaṃ* *mārgam*\) is said to lead to “the fruit” \( *phalam*\) of attaining to the Bhagavat \( *bhagavatprāpti*\). 
@@ -142,5 +142,5 @@ Similarly inclusivist tendencies are not infrequent in the PādS \(and may belon
 
     PādS *cp* 11.242c-243b:  
 
-    > *dikṣu vedāṃś ca caturaḥ paṭheyur mantravittamāḥ *//  
-    *vidikṣu ekāyanāṃ* *śākhāṃ tanmayās sumukhās tathā */. [[75]]
+    > *dikṣu vedāṃś ca caturaḥ paṭheyur mantravittamāḥ*//  
+    *vidikṣu ekāyanāṃ* *śākhāṃ tanmayās sumukhās tathā*/. [[75]]

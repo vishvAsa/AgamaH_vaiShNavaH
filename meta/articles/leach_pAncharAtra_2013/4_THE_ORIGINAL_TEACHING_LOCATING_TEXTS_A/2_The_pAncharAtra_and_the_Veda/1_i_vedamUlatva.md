@@ -9,7 +9,7 @@ In his *Tantravārttika *\(TV\), on 1.3.4 \(328.14 *ff*\), the sixth century187 
 
 Each of these Kumārila declared “contrary to the triple Veda” \( *trayīviparīta*\), and 
 
-“not accepted by those who know the triple Veda” \( *etāni trayīvidbhir na* *parigṛhītāni*\). Over a century later, the Pāñcarātra tradition’s non-conformity with the Veda was also affirmed by Śaṅkara. In his *Brahmasūtrabhāṣya* \(BSBh\) on 2.2.45 
+“not accepted by those who know the triple Veda” \( *etāni trayīvidbhir na parigṛhītāni*\). Over a century later, the Pāñcarātra tradition’s non-conformity with the Veda was also affirmed by Śaṅkara. In his *Brahmasūtrabhāṣya* \(BSBh\) on 2.2.45 
 
 \(418.1-5\), Śaṅkara claims that there are a number of doctrinal issues on which the Pañcarātra teaching is in conflict with the Veda \( *vedavipratiṣedha*\). 
 
@@ -55,15 +55,15 @@ The Veda’s inability to lead its practitioners towards liberation is also expr
 
 The earliest of the published Saṃhitās situate themselves above the Veda. What is more, we can be certain that earlier Pāñcarātrikas, whose texts have not survived, 192 Compare JS 1.11 with *Bhagavadgītā* 11.48ab. 
 
-[^193]: SS 21.42abc \(→ ĪS 22.38abc\): *bhaktānāṃ kṛtadīkṣāṇāṃ vyaṅgyaḥ śāstrārtha eva hi */ *anyeṣāṃ*
+[^193]: SS 21.42abc \(→ ĪS 22.38abc\): *bhaktānāṃ kṛtadīkṣāṇāṃ vyaṅgyaḥ śāstrārtha eva hi*/ *anyeṣāṃ*
 
-*dharmaśāstraṃ ca… *//. 
+*dharmaśāstraṃ ca…*//. 
 
-[^194]: AS 15.36c-37b: *ācāryāj janma sāvitryāṃ dvitīyaṃ divyam iṣyate *// *te trayo yajñadīkṣāyāṃ janma* *prāpya tṛtīyakam */. Cf. *Mānavadharmaśāstra * 2.169: *mātur agre ’dhijananaṃ dvitīyaṃ*
+[^194]: AS 15.36c-37b: *ācāryāj janma sāvitryāṃ dvitīyaṃ divyam iṣyate*// *te trayo yajñadīkṣāyāṃ janma prāpya tṛtīyakam*/. Cf. *Mānavadharmaśāstra * 2.169: *mātur agre ’dhijananaṃ dvitīyaṃ*
 
-*mauñjibandhane */ *tṛtīyaṃ yajñadīkṣāyāṃ dvijasya śruticodanāt *//. See also *Nāradīyasaṃhitā* 29.20: *evaṃ bhāgavato vedam upanīto ’bhyased guroḥ */ *tatas tu dīkṣāṃ saṃprāpya pañcarātraṃ*
+*mauñjibandhane*/ *tṛtīyaṃ yajñadīkṣāyāṃ dvijasya śruticodanāt*//. See also *Nāradīyasaṃhitā* 29.20: *evaṃ bhāgavato vedam upanīto ’bhyased guroḥ*/ *tatas tu dīkṣāṃ saṃprāpya pañcarātraṃ*
 
-*samabhyaset *//. [[115]]
+*samabhyaset*//. [[115]]
 
 also held this position, for it is explicitly criticised by Śaṅkara in his BSBh.195 It is also, as we will see in Chapter Seven, continuous with methods of classification found in the younger parts of the *Nārāyaṇīya*. Although the earliest Saṃhitās present themselves notionally as higher teachings for those who are already eligible for Vedic instruction, in reality, as we will see below, they appeal to a considerably broader social audience, and they do not claim to be “rooted in the Veda”. As far as I am aware, the earliest articulation of the idea that the Pāñcarātra is rooted in the Veda is contained in Bhaṭṭa Jayanta’s late ninth or early tenth century philosophical drama the ĀḌ. Here, the eminent Naiyāyika scholar known as Dhairyarāśi argues that “statements of the Pañcarātra and other such \[traditions\] are valid \( *prāmāṇyahetuḥ*\) because they are rooted in the Veda \( *vedamūlatā*\)” \(ĀḌ 4.147\). In South India, this became a common theme. Yāmuna’s ĀP \(e.g. 7.12-14\) demonstrates clearly in its *pūrvapakṣa* section that the *vedamūlatva* principle was, by this time, already well established within the Pāñcarātra. Yāmuna’s own response to his Mīmāṃsaka opponent’s denial that the Pāñcarātra is rooted in the Veda is as follows: 
 
@@ -75,11 +75,11 @@ also held this position, for it is explicitly criticised by Śaṅkara in his BS
 
 *amoghasahajasaṃvedanasākṣādbhavadakhilavedarāśir*
 
-*viprakīrṇavividhavidhyarthavādamantrātmakānekaśākhādhyayanadhāraṇādiṣv* *adhīradhiyo bhaktān avalokya tadanukampayā laghunopāyena tadarthaṃ*
+*viprakīrṇavividhavidhyarthavādamantrātmakānekaśākhādhyayanadhāraṇādiṣv adhīradhiyo bhaktān avalokya tadanukampayā laghunopāyena tadarthaṃ*
 
 *saṃkṣipyopadideśeti*. – “The Lord, for whom the entire collection of the Vedas is immediately present on account of his innate and unerring perception, upon seeing that his devotees were not sufficiently concentrated in their minds for studying and remembering the multiple recensions with their diverse and scattered injunctions, explanations and mantras, out of compassion \[for his devotees\] abridged its content in a succinct manner, and taught it thus.” \(ĀP 102.6-9\) Here, then, we see a clear articulation of what the Pāñcarātra’s being “rooted in the Veda” entails for Yāmuna. The singular Pāñcarātra teaching is a concise summary or “abridgement” of the vast and disordered collection of Vedic recensions \( *śākhā*\). This abridgement has been authored by God, and elsewhere \(e.g. ĀP 39.1-7, 60.5 *ff*, 84.1-3\) Yāmuna has already shown that Viṣṇu’s reliability is vouched for in 195 BSBh on 2.2.45 \(418.4-5\): *vedavipratiṣedhaś ca bhavati – caturṣu vedeṣu paraṃ śreyo ’labdhvā*
 
-*śāṇḍilya idaṃ śāstram adhigatavān ityādivedanindādarśanāt */. – “And there is conflict with the Veda, for it is seen that the Veda is censured is statements such as “Not finding the supreme good in the four Vedas, Śāṇḍilya learnt this teaching \(i.e. Pañcarātra\).” [[116]]
+*śāṇḍilya idaṃ śāstram adhigatavān ityādivedanindādarśanāt*/. – “And there is conflict with the Veda, for it is seen that the Veda is censured is statements such as “Not finding the supreme good in the four Vedas, Śāṇḍilya learnt this teaching \(i.e. Pañcarātra\).” [[116]]
 
 the unauthored \( *apauruṣeya*\) Vedas themselves. This application of the *vedamūlatva* principle represents a significant development from formulations found in the Pūrvamīmāṃsā. In that tradition, the authority of “remembered” \( *smṛti*\) texts and practices which are “rooted in the Veda” is conferred by “texts inferentially proven to exist” i.e. “Vedic texts for one reason or another not accessible to us” \(Pollock 1997: 404, 407\). By contrast, Yāmuna’s Pāñcarātra is “rooted in the Veda” in the sense that it is a reformulation \(by God, no less\) not merely of various scattered injunctions \(see ibid.: 409\), or of a lost or otherwise inaccessible Vedic text or recension, but of “the entire Vedic corpus” \( *akhilavedarāśiḥ*\). 
 
@@ -105,7 +105,7 @@ As we have seen, the same verse is found in the later *Śrīpuruṣottamasaṃhi
 
 A similar claim is found in the *Viṣṇusaṃhitā *\(ViṣṇuS\). N. P. Unni \(1991: 7-10\), in his long introduction to the printed edition of this text, suggests that the ViṣṇuS was authored by a Keralan Brahmin before, or during, the fourteenth century. 
 
-He arrives at this *terminus ad quem* on the basis that the *Tantrasamuccaya*, which he says can be dated to the fourteenth century \(though several scholars, see e.g. Ślączka 2010, in fact date it to the fifteenth\), is indebted to the ViṣṇuS. The ViṣṇuS, which is strikingly “non-sectarian” in its outlook, calls itself a ‘Tantra’ \(ViṣṇuS 2.1\), which it the ParS \(1.3-4\). The ParS is quoted by Yāmuna, and so predates him. However, the verse in question is not found in the present version of the ParS. The verse reads: *vedānteṣu yathāsāraṃ saṃgṛhya* *bhagavān hariḥ */ *bhaktānukampayā vidvān saṃcikṣepa yathāsukham* //. – “The omniscient Lord Hari, after taking the essence of the Upaniṣads, out of compassion for his devotees condensed it for their benefit.” 
+He arrives at this *terminus ad quem* on the basis that the *Tantrasamuccaya*, which he says can be dated to the fourteenth century \(though several scholars, see e.g. Ślączka 2010, in fact date it to the fifteenth\), is indebted to the ViṣṇuS. The ViṣṇuS, which is strikingly “non-sectarian” in its outlook, calls itself a ‘Tantra’ \(ViṣṇuS 2.1\), which it the ParS \(1.3-4\). The ParS is quoted by Yāmuna, and so predates him. However, the verse in question is not found in the present version of the ParS. The verse reads: *vedānteṣu yathāsāraṃ saṃgṛhya bhagavān hariḥ*/ *bhaktānukampayā vidvān saṃcikṣepa yathāsukham* //. – “The omniscient Lord Hari, after taking the essence of the Upaniṣads, out of compassion for his devotees condensed it for their benefit.” 
 
 [^198]: SrīpurS 1.26cd. Here the verse appears to have been drawn directly from the PādS. Note, also, ŚrīpurS 1.27cd ↔ MārkS 1.42cd. 
 
@@ -127,11 +127,11 @@ Other scriptures which presumably belong to a similar period \(i.e. 13th-14th ce
 
 \(ŚrīprśS\),204 and the ŚrīpurS.205 Among the apparently earlier \(pre-Vedāntadeśika\) South Indian works which openly prescribe a “mixed” \( *miśra*, *vyāmiśra*\) form of worship, we can count the PādS, the *Bhārgavatantra* \(BhT\),206 the NārS, the *Viṣvaksenasaṃhitā *\(ViṣS\),207 the *Lakṣmītantra* \(LT\),208 and the *Sanatkumārasaṃhitā*
 
-[^200]: ViṣṇuS 2.11c-12b: *vedamūlatayā tantraṃ āptamūlatayāthavā *// *purāṇavat pramāṇaṃ syāt tathā*
+[^200]: ViṣṇuS 2.11c-12b: *vedamūlatayā tantraṃ āptamūlatayāthavā*// *purāṇavat pramāṇaṃ syāt tathā*
 
-*manvādivākyavat */. 
+*manvādivākyavat*/. 
 
-[^201]: ViṣṇuS 2.19: *āptaproktatayā tantraṃ pramāṇam iti ye viduḥ */ *vedaprāmāṇyam apy āhur* *āptamūlatayaiva te *//. The idea that the Vedas are authored by Viṣṇu is, unsurprisingly, common in the later Pāñcarātra works. Elsewhere see e.g. ViśS 4.34. 
+[^201]: ViṣṇuS 2.19: *āptaproktatayā tantraṃ pramāṇam iti ye viduḥ*/ *vedaprāmāṇyam apy āhur āptamūlatayaiva te*//. The idea that the Vedas are authored by Viṣṇu is, unsurprisingly, common in the later Pāñcarātra works. Elsewhere see e.g. ViśS 4.34. 
 
 [^202]: See for example ViṣṇuS 4.18c-19, and 29.38-51b, 83. 
 

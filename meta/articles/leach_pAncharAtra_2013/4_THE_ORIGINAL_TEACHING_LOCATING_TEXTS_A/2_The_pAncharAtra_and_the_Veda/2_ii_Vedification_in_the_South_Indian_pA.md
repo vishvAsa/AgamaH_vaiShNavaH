@@ -9,7 +9,7 @@ In an article devoted to the referent of the term *dharma* in the Dharmasūtras,
 
 [^209]: See SanS *Brahmarātra * 4.68c-73, *Ṛṣirātra * 5.30c-40b, 7.1-73, 9.7-10, 22-24 etc. 
 
-[^210]: MārkS 1.26ab: *teṣv ayaṃ mantrasiddhānto mārkaṇḍeyākhya īritaḥ *// - “Among these \[Saṃhitās\], this which is named Mārkaṇḍeya is said to be \[a teaching of\] the Mantrasiddhānta.” [[120]]
+[^210]: MārkS 1.26ab: *teṣv ayaṃ mantrasiddhānto mārkaṇḍeyākhya īritaḥ*// - “Among these \[Saṃhitās\], this which is named Mārkaṇḍeya is said to be \[a teaching of\] the Mantrasiddhānta.” [[120]]
 
 “Vedification” is a useful term to apply to the processes at work in the South Indian Pāñcarātra scriptures which I have listed above. Inevitably, when applied to this much later literature, the concept of “Vedification” carries quite different implications from those intended by Wezler, for by the time of the composition of these works the term ‘Veda’ had a substantially broader scope of reference than in Gautama’s day. The enlargement of the Vedic canon in the intervening centuries was itself, of course, largely an outcome of the application of the *vedamūlatva* principle \(see especially Halbfass 1991 and Pollock 1997\). Needless to say, when I use Wezler’s term in reference to the Pāñcarātra, I do not mean to identify the ‘Veda’ of the Dharmasūtras with the broader body of texts and practices by means of which the authors of the later Pāñcarātra Saṃhitās attempted to establish the legitimacy of their tradition. 
 
@@ -27,19 +27,19 @@ Thus, in the opening chapter of the PādS \( *jp* 1.92d-93\), in a verse referre
 
 There are, to be sure, different degrees of Vedification. The Veda is frequently praised as the highest teaching in the late South Indian Pāñcarātra works, but often such claims appear to be doing little more than paying lip service or, as 211 Vedāntadeśika cites a ‘Nāradīya’ on four occasions in his PRR. None of the verses quoted are found in the printed edition of the NārS, but on the first occasion \(at PRR 16.19-20\) the quoted verses are addressed to Gautama. Gautama is, along with Nārada, the principal interlocutor of the present version of the NārS. This makes it quite likely, then, that Vedāntadeśika had access to a different version of the same work. 
 
-[^212]: NārS 29.39-40b: *atra mantrās tu ye kecit pañcarātre prakāśitāḥ */ *te sarve vaidikāḥ jñeyāḥ*
+[^212]: NārS 29.39-40b: *atra mantrās tu ye kecit pañcarātre prakāśitāḥ*/ *te sarve vaidikāḥ jñeyāḥ*
 
-*rahasyaṃ vaidikaṃ tv idam *// *pāñcarātram iti khyātaṃ vedādhvaprakaṭīkṛtam */. 
+*rahasyaṃ vaidikaṃ tv idam*// *pāñcarātram iti khyātaṃ vedādhvaprakaṭīkṛtam*/. 
 
-[^213]: NārS 29.36c-37b: *niṣekādiṣu sarvatra yad yad uktam avistaram *// *vedoditena mārgeṇa tat tat* *kāryaṃ vipaścitā */. 
+[^213]: NārS 29.36c-37b: *niṣekādiṣu sarvatra yad yad uktam avistaram*// *vedoditena mārgeṇa tat tat kāryaṃ vipaścitā*/. 
 
-[^214]: Elsewhere, the NārS states that *either* the Vedic *or* the Pāñcarātrika life-cycle rites should be performed. NārS 11.81: *niṣekādyāṃs tu saṃskārān vaidikāṃs tu samācaret */ *pāñcarātroditān vāpi* *evaṃ vaṃśair *\(corr. *vaṃśer*\) * anuṣṭhitān *//. [[122]]
+[^214]: Elsewhere, the NārS states that *either* the Vedic *or* the Pāñcarātrika life-cycle rites should be performed. NārS 11.81: *niṣekādyāṃs tu saṃskārān vaidikāṃs tu samācaret*/ *pāñcarātroditān vāpi evaṃ vaṃśair *\(corr. *vaṃśer*\) * anuṣṭhitān*//. [[122]]
 
 Louis Renou \(1960: 2\) has characterised such conventions, as offering “*un simple*
 
 *‘coup de chapeau’ en passant*”. A good example of such an attitude is found in the ViśS \(3.2-6b\), where it is said that the Pāñcarātrika guru should be a Brahmin who is learned not only in the Vedas together with their auxiliary limbs \( *sāṅgavedavit*\), but also in the Nyāyaśastra, Vaiśeṣika, Mīmāṃsā, Sāṃkhya, Yoga, Vedānta, and in the discipline of architecture, planning and construction \( *vāstuśāstra*\). There are many similar passages in other works, which I do not need to list here. But we also encounter what we might interpret as more “genuine” processes of Vedification. A good example of this can be found in the ViṣṇuS’s assertion that the initiate should always perform what is stipulated in the Dharmaśāstra in his own home, and that what is spoken of in the Tantras is in conformity with the laws relating to family \(or clan, *kula*\), social class \( *varṇa*\), and stage of life \( *āśrama*\).215 Needless to say, this idea of the equivalence between Tantra and Dharmaśāstra, and the injunction for the initiate to adhere to the domestic rules of the latter, represents a somewhat radical revision of the SS’s earlier claim, referred to above, that the Dharmaśāstra is only for those who have not undergone initiation \( *dīkṣā*\). According to this prescription in the ViṣṇuS, then, initiation into the Pāñcarātra would not disturb one’s daily duties as a householder – a pledge which was no doubt intended to appeal to an audience who wished to maintain their Smārta obligations. 
 
-Perhaps the most telling indicator of genuine Vedification is the gradual change in scriptural attitudes towards social class \( *varṇa*\). In the earliest of the published Saṃhitās, the JS, SS and PauṣS, there are several passages which attest to a relatively open, socially inclusive policy regarding initiation and participation in the post-initiatory rites. In all three texts, initiation is unambiguously open to members of all four *varṇa* s as well as to women. The JS states that “the whole world should be initiated\!” \( *dīkṣayen medinīṃ sarvam*, JS 16.10a\), and this is shown to include “pure-minded” \( *bhāvitātman*\) women and children \(JS 16.2ab\). In the case of women this appears to mean that they must be virgins \( *kanyakā*, JS 16.59c\), of whom it is said that they are only able to undergo the intitiation which grants “enjoyments” \( *bhoga*\) 215 ViṣṇuS 29.68: *svagṛhye dharmaśāstre ca yaduktam tat sadācaret */ *tantroktam aviruddhaṃ ca* *kulavarṇāśramānugam *//. [[123]]
+Perhaps the most telling indicator of genuine Vedification is the gradual change in scriptural attitudes towards social class \( *varṇa*\). In the earliest of the published Saṃhitās, the JS, SS and PauṣS, there are several passages which attest to a relatively open, socially inclusive policy regarding initiation and participation in the post-initiatory rites. In all three texts, initiation is unambiguously open to members of all four *varṇa* s as well as to women. The JS states that “the whole world should be initiated\!” \( *dīkṣayen medinīṃ sarvam*, JS 16.10a\), and this is shown to include “pure-minded” \( *bhāvitātman*\) women and children \(JS 16.2ab\). In the case of women this appears to mean that they must be virgins \( *kanyakā*, JS 16.59c\), of whom it is said that they are only able to undergo the intitiation which grants “enjoyments” \( *bhoga*\) 215 ViṣṇuS 29.68: *svagṛhye dharmaśāstre ca yaduktam tat sadācaret*/ *tantroktam aviruddhaṃ ca kulavarṇāśramānugam*//. [[123]]
 
 and “perfections” \( *siddhi*, JS 16.82\) i.e. not liberation. Eligibility for initiation does not extend to the offspring of *pratiloma* marriages, i.e. wherein the man is of a lower social class than the woman \(JS 18.19ab\). Regarding the role of preceptor \( *ācārya*\), the JS \(18.5c-9\) rules that he should be a Brahmin, but that in the absence of a Brahmin, a Kṣatriya is competent to initiate Kṣatriyas, Vaiśyas and Śūdras, while in the absence of a Kṣatriya, a Vaiśya may initiate Vaiśyas and Śūdras. A Śūdra, meanwhile, may initiate other Śūdras. In the JS’s chapter on the rites of reparation \( *prāyaścitta*\), however, we meet with a more orthodox attitude towards social class. 
 
@@ -51,7 +51,7 @@ Here, for example, a reparation rite is enjoined if one has eaten food that has 
 
 The present versions of the SS and the PauṣS do not contain similar passages on the reparation rites. Nor do they state that a Śūdra may act as preceptor to other Śūdras, but both clearly state that initiation is open to members of all four *varṇa* s \(e.g. SS 16.17-22, 19.42-45, PauṣS 1.35ab, 38.72\), and both allow that women can be initiated \(SS 19.6, PauṣS 1.34-36\).218 According to the SS \(7.57-64\), members of all *varṇa* s who aspire to liberation only can perform the twelve year vow \( *dvādaśavārṣikavrata*\), though each *varṇa* must begin the vow at different times of the year. Regarding the rites of reparation \( *prāyaścitta*\), the SS \(16.20-22\) rules that the lower the *varṇa* of the initiate, the longer the rites must be performed in order to destroy whatever impurities \( *kalmaṣa*\) have accumulated. Elsewhere, it is mentioned that the different *varṇa* s have their own mantras \( *svamantra*, SS 18.9c-10b\). 
 
-However, all initiates \(i.e. including Śūdras and women\) appear to be eligible to 216 JS 25.14-15: *viḍvarāhair atho gṛdhragomāyukapikukkuṭaiḥ */ *saṃspṛṣṭam antyajenāpi* *śūdrādyucchiṣṭadūṣitam *// *abhojyānnaṃ tu vā bhuktvā sevitvā ’nyastriyaṃ tu vā */ *snātvā bhuktvā tv* *ahorātraṃ pañcagavyaṃ samācaret *//. 
+However, all initiates \(i.e. including Śūdras and women\) appear to be eligible to 216 JS 25.14-15: *viḍvarāhair atho gṛdhragomāyukapikukkuṭaiḥ*/ *saṃspṛṣṭam antyajenāpi śūdrādyucchiṣṭadūṣitam*// *abhojyānnaṃ tu vā bhuktvā sevitvā ’nyastriyaṃ tu vā*/ *snātvā bhuktvā tv ahorātraṃ pañcagavyaṃ samācaret*//. 
 
 [^217]: According to Manu \(10.12, 16\) a Caṇḍāla is the lowest Pratiloma i.e. the offspring of a Śūdra father and a Brahmin mother. He is, says Manu, “the worst of men” \( *adhamo nṛṇām*, ibid.\). 
 
@@ -67,41 +67,41 @@ The JS and the PauṣS in particular contain passages which appear to express co
 
 \(Flood 2006: 106\). See also Flood \(2000\). 
 
-[^220]: SS 19.54c-55b: *vauṣaṭsvāhāvaṣaṭkāraniṣṭhānāṃ tu pratikriyā *// *namaskāreṇa mantrāṇāṃ kārye* *prāpte hy anugrahe */. 
+[^220]: SS 19.54c-55b: *vauṣaṭsvāhāvaṣaṭkāraniṣṭhānāṃ tu pratikriyā*// *namaskāreṇa mantrāṇāṃ kārye prāpte hy anugrahe*/. 
 
-[^221]: PauṣS 27.695c-697b: *śrotriyāṇāṃ dvijendrāṇāṃ tvadarthāśramavartinām *// *yadvad bhuktād* *dhaviś *\(corr. Apte *dhavaś*\) *śūdrān na doṣo jñānagauravāt */ *evaṃ svabhāvadīptānāṃ nirmalānāṃ*
+[^221]: PauṣS 27.695c-697b: *śrotriyāṇāṃ dvijendrāṇāṃ tvadarthāśramavartinām*// *yadvad bhuktād dhaviś *\(corr. Apte *dhavaś*\) *śūdrān na doṣo jñānagauravāt*/ *evaṃ svabhāvadīptānāṃ nirmalānāṃ*
 
-*sadaiva hi *// *na vai jātaṃ nānairmalyaṃ *\(corr. Apte *na nairmalyaṃ*\) *bhavec chūdraparigrahāt */. [[125]]
+*sadaiva hi*// *na vai jātaṃ nānairmalyaṃ *\(corr. Apte *na nairmalyaṃ*\) *bhavec chūdraparigrahāt*/. [[125]]
 
 the later, South Indian Saṃhitās. It is worth noting in this context that Smith \(1975: 130\) has drawn attention to another verse in the JS’s chapter on the reparation rites \(JS 25.144\) which, in his opinion, points to a South Indian provenance. Of course, palaeographic evidence would be required to conclusively determine whether sections of this chapter have indeed been inserted into older material. 
 
 In the South Indian works, then, there is a gradual but decisive shift in attitudes. 
 
-The SanS, which may be one of the earliest extant South Indian scriptures since it is quoted by Yāmuna in his ĀP,222 gives a good indication of this in the ninth chapter of the section called *Indrarātra*. Here, the following is said: *ācāryagrahaṇe yogyās trayo varṇā dvijātayaḥ */ *ācāryatvaṃ na śūdrās tu* *labhate jātucit kvacit *// *caturṇām api varṇānām ācāryo brāhmaṇo bhavet */ 
+The SanS, which may be one of the earliest extant South Indian scriptures since it is quoted by Yāmuna in his ĀP,222 gives a good indication of this in the ninth chapter of the section called *Indrarātra*. Here, the following is said: *ācāryagrahaṇe yogyās trayo varṇā dvijātayaḥ*/ *ācāryatvaṃ na śūdrās tu labhate jātucit kvacit*// *caturṇām api varṇānām ācāryo brāhmaṇo bhavet*/ 
 
-*tadalābhe kṣatriyas tu ācāryo vaiśyaśūdrayoḥ *// *brāhmaṇakṣatriyālābhe* *vaiśyaḥ syāc chūdrajanmanaḥ */. – * *“The three twice-born social classes are eligible to take up \[the position\] of *ācārya*. Śūdras are not permitted \[to take up\] 
+*tadalābhe kṣatriyas tu ācāryo vaiśyaśūdrayoḥ*// *brāhmaṇakṣatriyālābhe vaiśyaḥ syāc chūdrajanmanaḥ*/. – * *“The three twice-born social classes are eligible to take up \[the position\] of *ācārya*. Śūdras are not permitted \[to take up\] 
 
 the position of *ācārya* under any circumstances. Of the four social classes, a Brahmin should \[ideally\] be the *ācārya*. In the absence of him \[i.e. a Brahmin\], a Kṣatriya \[can be\] the *ācārya* for Vaiśyas and Śūdras. In the absence of a Brahmin and a Kṣatriya, a Vaiśya can be \[the *ācārya*\] for one who is born of Śūdras.” \(SanS *Indrarātra* 9.13-15b\) 
 
-This is very similar to the passage from the JS \(18.5c-9\) referred to above, except that here the SanS removes the right for Śūdras to act as preceptors for other Śūdras. Several verses later, the SanS restates this prohibition, but with an *addenda*: *brāhmaṇāc chūdrakanyāyāṃ jātaḥ śūdrottamas tu yaḥ */ *śūdrāṇām uttamaḥ so*
+This is very similar to the passage from the JS \(18.5c-9\) referred to above, except that here the SanS removes the right for Śūdras to act as preceptors for other Śūdras. Several verses later, the SanS restates this prohibition, but with an *addenda*: *brāhmaṇāc chūdrakanyāyāṃ jātaḥ śūdrottamas tu yaḥ*/ *śūdrāṇām uttamaḥ so*
 
-*’pi na cācāryatvam arhati *// *śūdrottamasya kānyāyāṃ brāhmaṇād yas tu jāyate*
+*’pi na cācāryatvam arhati*// *śūdrottamasya kānyāyāṃ brāhmaṇād yas tu jāyate*
 
-/ *kalpavaiśyas tu prokto vaiśyakalpo na saṃśayaḥ *// *sarveṣām api śūdrāṇāṃ*
+/ *kalpavaiśyas tu prokto vaiśyakalpo na saṃśayaḥ*// *sarveṣām api śūdrāṇāṃ*
 
-*sa cācaryo bhaviṣyati */. – “One who is born of a daughter of a Śūdra, and a Brahmin, is the best of Śūdras. Even though he is the best of Śūdras, he is not able to be an *ācārya*. But one who is born of the daughter of \[one who is\] the best of Śūdras, and a Brahmin, he is called a Kalpavaiśya, and he is undoubtedly almost equal to a Vaiśya. He *can* be an *ācārya* to all Śūdras.” \(SanS *Indrarātra* 9.24-26b\) 
+*sa cācaryo bhaviṣyati*/. – “One who is born of a daughter of a Śūdra, and a Brahmin, is the best of Śūdras. Even though he is the best of Śūdras, he is not able to be an *ācārya*. But one who is born of the daughter of \[one who is\] the best of Śūdras, and a Brahmin, he is called a Kalpavaiśya, and he is undoubtedly almost equal to a Vaiśya. He *can* be an *ācārya* to all Śūdras.” \(SanS *Indrarātra* 9.24-26b\) 
 
 Elsewhere, the SanS \( *Ṛṣirātra* 5.30c-40b\) prohibits Śūdras and women from entering into the *maṇḍala* \(see Rastelli 2002a: 132-133\), and warns that they should 222 See ĀP 161.6 quoting SanS *Indrarātra* 9.2ab, and ĀP 162.1-4 quoting SanS *Indrarātra * 1.10c-11, 10ab. [[126]]
 
 only be initiated at certain times of the year \(SanS *Indrarātra* 4.9\). Nonetheless, like the JS, SS and PauṣS, it does allow that they may be initiated. The acceptance of Śūdras, but with these sorts of qualifications and prohibitions, is common in the South Indian Pāñcarātra literature. Thus, the ViśS \(3.17-18b\) initially states that the initiate \( *śiṣya*\) should be born of a good family \( *praśastakula*\) belonging to the highest three social classes \( *varṇa*\), and should have studied the Vedas together with their auxiliary parts \( *sāṅga*\) etc. However, in a subsequent verse \(ViśS 3.27\) it is said that the *guru*, out of compassion \( *kṛpayā*\), should also accept as initiates women, Śūdras and \(mixed class\) Anulomas who are “endowed with noble qualities” 
 
-\( *kalyāṇaguṇasaṃyutāḥ*\). In a later chapter, the ViśS rules that none of these persons should hear mantras containing the *praṇava*, or *namaḥ*, *svāhā*, *huṃ*, and *phaṭ* etc., or Viṣṇu’s name with the dative ending.223 This contradicts the SS \(19.54c-55b\), of course, which rules that Śūdras may recite *namaḥ*, and the PauṣS \(27.131c-132\) which allows that women and Śūdras may recite *oṃ*. The PādS \( *cp* 2.61c-64\) contains a very similar proscription against women, Śūdras and Anulomas,224 as does the later ŚrīprśS \(16.138c-141\), which also prohibits Śūdras from receiving instruction in the method of the “five times” \( *gurūttamaḥ *// *pañcakālavidhiṃ cāpi* *vinā śūdram upādiśet*, ŚrīprśS 16.137d-138b\). In other instances, Śūdras are barred from performing fire-offerings \( *homa*\) \(e.g. ParS 27.31, ViṣṇuS 2.9c-10b\). 
+\( *kalyāṇaguṇasaṃyutāḥ*\). In a later chapter, the ViśS rules that none of these persons should hear mantras containing the *praṇava*, or *namaḥ*, *svāhā*, *huṃ*, and *phaṭ* etc., or Viṣṇu’s name with the dative ending.223 This contradicts the SS \(19.54c-55b\), of course, which rules that Śūdras may recite *namaḥ*, and the PauṣS \(27.131c-132\) which allows that women and Śūdras may recite *oṃ*. The PādS \( *cp* 2.61c-64\) contains a very similar proscription against women, Śūdras and Anulomas,224 as does the later ŚrīprśS \(16.138c-141\), which also prohibits Śūdras from receiving instruction in the method of the “five times” \( *gurūttamaḥ*// *pañcakālavidhiṃ cāpi* *vinā śūdram upādiśet*, ŚrīprśS 16.137d-138b\). In other instances, Śūdras are barred from performing fire-offerings \( *homa*\) \(e.g. ParS 27.31, ViṣṇuS 2.9c-10b\). 
 
 Insofar as it is possible to detect unidirectional trends in the large, and often internally inconsistent corpus of South Indian Pāñcarātra literature, then, we might provisionally conclude that there is a greater tendency among the later works towards Brahminical “orthodoxy” with regard to the question of social class \( *varṇa*\). Where the SanS, an apparently relatively early South Indian text, allows Kṣatriyas, Vaiśyas and ‘Kalpavaiśyas’ to perform limited duties as *ācārya*, for instance, the later NārS 
 
-\(11.21-35b\) allows the Kṣatriya to act as *guru*, but states that only Brahmins may inhabit the higher role of *ācārya*. Śūdras, in this scheme, are unequivocally restricted 223 ViśS 9.72-73: *śūdrāṇāṃ ca tathā strīṇām anulomabhuvām api */ *namaḥsvāhāhuṃphaḍādirahitaṃ*
+\(11.21-35b\) allows the Kṣatriya to act as *guru*, but states that only Brahmins may inhabit the higher role of *ācārya*. Śūdras, in this scheme, are unequivocally restricted 223 ViśS 9.72-73: *śūdrāṇāṃ ca tathā strīṇām anulomabhuvām api*/ *namaḥsvāhāhuṃphaḍādirahitaṃ*
 
-*praṇavena ca *// *varjitaṃ viṣṇunāmaiva caturthyantaṃ ca pāṭhayet */ *gāyatrīṃ japahomaṃ ca* *ādadyād brāhmaṇo manum *//. 
+*praṇavena ca*// *varjitaṃ viṣṇunāmaiva caturthyantaṃ ca pāṭhayet*/ *gāyatrīṃ japahomaṃ ca* *ādadyād brāhmaṇo manum*//. 
 
 [^224]: See also PādS *kp* 9.19, where it is said that women, Śūdras and Anulomas should worship silently \( *tūṣṇīm ādhānam ācaret*\), which means without mantras \( *amantraka*\). [[127]]
 
@@ -131,7 +131,7 @@ We might conclude, then, that there were political drawbacks to a thoroughgoing 
 
 the continuity of their own practices with those legitimated by Brahminical orthodoxy. In the sort of social environment described by Czerniak-Drożdżowicz and Stein, it is easy to imagine that there would have been significant advantages also in accepting, to repeat Sanderson’s \(2005: 231-232\) words, “that the brahmanical tradition alone was valid in the domain it claimed for itself”. Indeed, the SanS can be interpreted as articulating a similar idea, albeit with a final qualification: *vaidikaṃ tāntrikaṃ caiva tathā vaidikatāntrikam * // *trividhaṃ karma* *saṃproktaṃ pratiṣṭhārādhanādiṣu* / *vaidikaṃ brāhmaṇānāṃ tu rājñāṃ*
 
-*vaidikatāntrikam* // *tāntrikaṃ vaiśyaśūdrāṇāṃ sarveṣāṃ tāntrikaṃ tu vā */. – 
+*vaidikatāntrikam* // *tāntrikaṃ vaiśyaśūdrāṇāṃ sarveṣāṃ tāntrikaṃ tu vā*/. – 
 
 “Ritual action concerning installation and worship etc. is declared to be threefold: Vedic, Tantric, and Vedic *and* Tantric. Vedic is for Brahmins, Vedic *and* Tantric is for kings, \[and\] Tantric is for Vaiśyas and Śūdras. But \[in fact\] 
 
@@ -145,7 +145,7 @@ should be either Tantric or “mixed” but *never* Vedic.229 By such means, the
 
 14.10 *ff*\), the professional priestly performance of worship “for others” \( *parārtha*\) was deeply frowned upon in orthodox Brahminical society, and indeed in that sphere entailed the loss of one’s Brahminical status. As is evident from these regulations in the SanS and the ViṣS, Pāñcarātrikas were happy to accept that such restrictions were valid within the domain that imposed them, and of course these constraints, as well those which excluded Śūdras from the category of initiate, worked to their own advantage. For in an environment characterised by increasing social mobility and the rise to power of landowning communities considered by many not to belong to the twice-born classes, the authority and power of the domain that the orthodox 228 See alternative expressions of the same idea at SanS *Brahmarātra* 4.68c-73, and *Ṛṣirātra* 5.37-40, and 9.7-10, 22-24. 
 
-[^229]: ViṣS 20.344-345: *ātmārthaṃ vaidikenaiva tāntrikeṇaiva vā mune */ *parārthe tāntrikeṇaiva* *miśritaṃ vā hariṃ param *// *arcayet pūrvavad dhīmān rājño rāṣṭrasya vardhanam */ *parārthe* *vaidikenaiva na kuryāt tu kathaṃcana *//. [[130]]
+[^229]: ViṣS 20.344-345: *ātmārthaṃ vaidikenaiva tāntrikeṇaiva vā mune*/ *parārthe tāntrikeṇaiva* *miśritaṃ vā hariṃ param*// *arcayet pūrvavad dhīmān rājño rāṣṭrasya vardhanam*/ *parārthe* *vaidikenaiva na kuryāt tu kathaṃcana*//. [[130]]
 
 Brahminical tradition claimed for itself would have been substantially diminished.230 
 
