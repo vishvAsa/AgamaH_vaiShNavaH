@@ -3,149 +3,77 @@ title = "06 ABBREVIATIONS"
 
 +++
 
-AP **
+AP *Agnipurāṇa*
 
-*Agnipurāṇa*
+AS *Ahirbudhnyasaṃhitā*
 
-AS **
+ĀḌ *Āgamaḍambara*
 
-*Ahirbudhnyasaṃhitā*
+ĀP *Āgamaprāmāṇya*
 
-ĀḌ
+ĪS *Īśvarasaṃhitā*
 
-*Āgamaḍambara*
+JS *Jayākhyasaṃhitā*
 
-ĀP **
+TĀ *Tantrāloka*
 
-*Āgamaprāmāṇya*
+TV *Tantravārttika*
 
-ĪS **
+NārS *Nāradīyasaṃhitā*
 
-*Īśvarasaṃhitā*
+NPP *Nareśvaraparīkṣāprakāśa*
 
-JS **
+ParS *Paramasaṃhitā*
 
-*Jayākhyasaṃhitā*
+PRR *Pāñcarātrarakṣā*
 
-TĀ
+PādS *Pādmasaṃhitā*
 
-*Tantrāloka*
+PārS *Pārameśvarasaṃhitā*
 
-TV
+PauṣS *Pauṣkarasaṃhitā*
 
-*Tantravārttika*
+BSBh *Brahmasūtrabhāṣya*
 
-NārS **
+BhG *Bhagavadgītā*
 
-*Nāradīyasaṃhitā*
+BhT *Bhārgavatantra*
 
-NPP
+BhBhD *Bhāratabhāvadīpa*
 
-*Nareśvaraparīkṣāprakāśa*
+MārkS *Mārkaṇḍeyasaṃhitā*
 
-ParS
+MBh *Mahābhārata*
 
-*Paramasaṃhitā*
+LT *Lakṣmītantra*
 
-PRR **
+ViśS *Viśvāmitrasaṃhitā*
 
-*Pāñcarātrarakṣā*
+ViṣṇuS *Viṣṇusaṃhitā*
 
-PādS **
+ViṣS *Viṣvaksenasaṃhitā*
 
-*Pādmasaṃhitā*
+VDhP *Viṣṇudharmottarapurāṇa*
 
-PārS **
+ŚrīpurS *Śrīpuruṣottamasaṃhitā*
 
-*Pārameśvarasaṃhitā*
+ŚrīprśS *Śrīpraśnasaṃhitā*
 
-PauṣS **
+SanS *Sanatkumārasaṃhitā*
 
-*Pauṣkarasaṃhitā*
+SāPr *Sātvatārthaprakāśikā*
 
-BSBh
+SK *Sāṃkhyakārikā*
 
-*Brahmasūtrabhāṣya*
+STbh *Sātvatatantrabhāṣya*
 
-BhG
+SP *Saṃvitprakāśa*
 
-*Bhagavadgītā*
+SpPr *Spandapradīpikā*
 
-BhT **
+SvT *Svacchandatantra*
 
-*Bhārgavatantra*
-
-BhBhD
-
-*Bhāratabhāvadīpa*
-
-MārkS **
-
-*Mārkaṇḍeyasaṃhitā*
-
-MBh
-
-*Mahābhārata*
-
-LT **
-
-*Lakṣmītantra*
-
-ViśS **
-
-*Viśvāmitrasaṃhitā*
-
-ViṣṇuS
-
-*Viṣṇusaṃhitā*
-
-ViṣS **
-
-*Viṣvaksenasaṃhitā*
-
-VDhP
-
-*Viṣṇudharmottarapurāṇa*
-
-ŚrīpurS **
-
-*Śrīpuruṣottamasaṃhitā*
-
-ŚrīprśS **
-
-*Śrīpraśnasaṃhitā*
-
-SanS **
-
-*Sanatkumārasaṃhitā*
-
-SāPr
-
-*Sātvatārthaprakāśikā*
-
-SK
-
-*Sāṃkhyakārikā*
-
-STbh
-
-*Sātvatatantrabhāṣya*
-
-SP
-
-*Saṃvitprakāśa*
-
-SpPr
-
-*Spandapradīpikā*
-
-SvT
-
-*Svacchandatantra*
-
-SS **
-
-*Sātvatasaṃhita*
+SS *Sātvatasaṃhita*
 
 245
 
