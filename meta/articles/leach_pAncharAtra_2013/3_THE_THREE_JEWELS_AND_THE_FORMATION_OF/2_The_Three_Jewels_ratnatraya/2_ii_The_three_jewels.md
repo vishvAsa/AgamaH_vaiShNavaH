@@ -3,9 +3,7 @@ title = "2 ii \\) The three jewels"
 
 +++
 
-General introductions to the Pāñcarātra literature commonly emphasise the exalted status of the JS, SS and PauṣS as the so-called “three jewels” \( *ratnatraya*\) of the scriptural corpus.32 However, despite its ubiquity in oral traditions and in the secondary Indological literature, the claim that these three works are supreme in the Pāñcarātra canon is itself contained in only four of the 35 published Saṃhitās, namely the *Pārameśvarasaṃhitā*, the *Īśvarasaṃhitā*, the *Śrīpraśnasaṃhitā*, and a late, interpolated section of the JS entitled *Adhikaḥ Pāṭhaḥ*. Further, as we will see below, only the latter among these works actually refers to the the JS, SS and PauṣS as the 
-
-“three jewels”. Before proceeding to discuss ideas of textual hierarchy and canon in the Pāñcarātra literature in general, I will offer in this chapter a brief synopsis of the relevant passages from these four texts. 
+General introductions to the Pāñcarātra literature commonly emphasise the exalted status of the JS, SS and PauṣS as the so-called “three jewels” \( *ratnatraya*\) of the scriptural corpus.[^32] However, despite its ubiquity in oral traditions and in the secondary Indological literature, the claim that these three works are supreme in the Pāñcarātra canon is itself contained in only four of the 35 published Saṃhitās, namely the *Pārameśvarasaṃhitā*, the *Īśvarasaṃhitā*, the *Śrīpraśnasaṃhitā*, and a late, interpolated section of the JS entitled *Adhikaḥ Pāṭhaḥ*. Further, as we will see below, only the latter among these works actually refers to the the JS, SS and PauṣS as the “three jewels”. Before proceeding to discuss ideas of textual hierarchy and canon in the Pāñcarātra literature in general, I will offer in this chapter a brief synopsis of the relevant passages from these four texts. 
 
 Among these, the *Pārameśvarasaṃhitā* \(PārS\) is likely the earliest.33 Rastelli \(2006: 54, 98\) cautiously assigns the composition of this work to the period 1100-1300 CE, favouring the earlier half of this time frame on account of the social and political upheavals which affected Śrīraṅgam, the PārS’s likely place of origin, throughout the thirteenth century. She also highlights the derivative nature of the text. 
 
@@ -195,7 +193,9 @@ theory, as well as an interesting and unique interpretation as to how the three 
 
 \[collectively\] the highest Tantra, called the “three jewels”. Its particularity is explained here. The essence of the Sāttvata teaching is a secret that is honoured by sages. This triad of jewels has come forth directly from the mouth of the Bhagavat, so indeed this \[triad\] is established as neither deficient nor excessive. 
 
-After the tantras established themselves \[out of\] the essence emanating from the mouth of the Bhagavat, they supplemented \( *vyāpitāni*, literally “pervaded”\) one another with a commentary \(or “explanation”, *vyākhyā*\), \[that is\] based upon a 47 Cf. *Mahābhārata *\(MBh\) 12.337.63ab: *pañcarātrasya kṛtsnasya vettā tu bhagavān svayam* /. In his *Āgamaprāmāṇya* \(128.4\), Yāmuna quotes this verse \(“Thus it is taught in the *Mahābhārata*…”, *paṭhyate bhārate tathā*\) but in the version which is found in the main text above, i.e. in the opening verse of the *Adhikaḥ* *Pāṭhaḥ*: *pañcarātrasya kṛtsnasya vaktā nārāyaṇaḥ svayam*. It is later quoted by Rāmānuja, alongside other passages from the MBh, in his *Śrībhāṣya* on *sūtra* 2.2.42 \(334.1\) and, later still, by Madhva in his commentary on the MBh, the *Mahābhāratatātparyanirṇaya* \(2.101ab\). The *Pāñcarātrarakṣā* contains the verse at 43.9-10. Each of these works predates the *Adhikaḥ Pāṭhaḥ* \(for the dating of which see below\). [[38]]
+After the tantras established themselves \[out of\] the essence emanating from the mouth of the Bhagavat, they supplemented \( *vyāpitāni*, literally “pervaded”\) one another with a commentary \(or “explanation”, *vyākhyā*\), \[that is\] based upon a 
+
+[^47]: Cf. *Mahābhārata *\(MBh\) 12.337.63ab: *pañcarātrasya kṛtsnasya vettā tu bhagavān svayam* /. In his *Āgamaprāmāṇya* \(128.4\), Yāmuna quotes this verse \(“Thus it is taught in the *Mahābhārata*…”, *paṭhyate bhārate tathā*\) but in the version which is found in the main text above, i.e. in the opening verse of the *Adhikaḥ* *Pāṭhaḥ*: *pañcarātrasya kṛtsnasya vaktā nārāyaṇaḥ svayam*. It is later quoted by Rāmānuja, alongside other passages from the MBh, in his *Śrībhāṣya* on *sūtra* 2.2.42 \(334.1\) and, later still, by Madhva in his commentary on the MBh, the *Mahābhāratatātparyanirṇaya* \(2.101ab\). The *Pāñcarātrarakṣā* contains the verse at 43.9-10. Each of these works predates the *Adhikaḥ Pāṭhaḥ* \(for the dating of which see below\). [[38]]
 
 principle of strengthening \[the “essence” or “root text”\], and in such a way \[these tantras can be characterised\] by their possessing both brevity \[i.e. in the form of the root text\], and detail \[in the form of the commentary\]. Indeed the venerability of these \[texts\] is established on the grounds of \[this combination of\] commentary and root \[text\].” \(JS *ap* 1-6b\) 
 
@@ -263,19 +263,19 @@ Whilst the author of the *Adhikaḥ Pāṭhaḥ* tells us that the PādS is a co
 
 *Pāṭhaḥ* might have made this claim on behalf of the PādS \(I will discuss this question below\), we must first attempt to explain why the JS is not included in this list. 
 
-[^53]: SāPr on ĪS 1.64-67: *idaṃ sātvatapauṣkarajayākhyatantratrayam… īśvarapārameśvaralakṣmī-tantrākhyatantratrayaṃ krameṇa teṣāṃ vṛttirūpam*/ *tatreśvarapārameśvarayor utsavādīnāṃ*
+[^53]: 
 
-*pauṣkalyam asti*/ *lakṣmītantre tu tan nāsti*/ *ataḥ ‘anuktam anyato grāhyam’ ity uktarītyā*
-
-*hastiśailanāthārcakaiḥ padmoktānām utsavādyācārāṇāṃ parigrahaḥ kṛta iti…*/. 
+    SāPr on ĪS 1.64-67: *idaṃ sātvatapauṣkarajayākhyatantratrayam… īśvarapārameśvaralakṣmī-tantrākhyatantratrayaṃ krameṇa teṣāṃ vṛttirūpam*/ *tatreśvarapārameśvarayor utsavādīnāṃ*
+    
+    *pauṣkalyam asti*/ *lakṣmītantre tu tan nāsti*/ *ataḥ ‘anuktam anyato grāhyam’ ity uktarītyā*
+    
+    *hastiśailanāthārcakaiḥ padmoktānām utsavādyācārāṇāṃ parigrahaḥ kṛta iti…*/. 
 
 [^54]: On the JS’s and the PādS’s association with Kāñcī see JS *ap* 13-14b: *hastiśaile jayākhyaṃ ca* *sāmrājyam adhitiṣṭhati**/ pādmatantraṃ hastiśaile*… // … *kāryakāri pracāryate* /. On the JS’s association with Kāñcī at the time of the composition of the ĪS, see ĪS 1.67. **[[42]]
 
 There are, on the face of it, at least two possible explanations for its omission. 
 
-The first is simply that the composition of this portion of the PādS was complete before the idea of the supremacy of the JS, SS and PauṣS became current.55 Given that it appears quite probable that the PārS \(the earliest extant text to list the JS, SS and PauṣS as the “celestial” scriptures\) incorporated passages from the PādS and is therefore later than the bulk of that text, it is certainly a possibility that the composition of this section of the PādS predated the idea of the superiority of the three aforementioned scriptures. However, we can be certain that the PādS’s list of canonical scriptures \(at *jp * 1.99-114\) was added to the main body of the text at a much later date \(as can be inferred from the inclusion within the list of demonstrably later scriptures such as the ĪS and the ŚrīprśS\), and this shows that additions were still being made to the PādS at a time when the theory of the supremacy of the JS, SS and PauṣS was already quite well established. Indeed, the fact that its list of “five jewels” 
-
-occurs at the very end of the PādS might well suggest that this passage is itself a later addition. 
+The first is simply that the composition of this portion of the PādS was complete before the idea of the supremacy of the JS, SS and PauṣS became current.55 Given that it appears quite probable that the PārS \(the earliest extant text to list the JS, SS and PauṣS as the “celestial” scriptures\) incorporated passages from the PādS and is therefore later than the bulk of that text, it is certainly a possibility that the composition of this section of the PādS predated the idea of the superiority of the three aforementioned scriptures. However, we can be certain that the PādS’s list of canonical scriptures \(at *jp * 1.99-114\) was added to the main body of the text at a much later date \(as can be inferred from the inclusion within the list of demonstrably later scriptures such as the ĪS and the ŚrīprśS\), and this shows that additions were still being made to the PādS at a time when the theory of the supremacy of the JS, SS and PauṣS was already quite well established. Indeed, the fact that its list of “five jewels” occurs at the very end of the PādS might well suggest that this passage is itself a later addition. 
 
 The second possible explanation is that the author of the passage in question in the PādS belonged to a tradition within the Pāñcarātra which did not at that time accept the supremacy of the JS, SS and PauṣS. The fact that the PādS describes *itself* as “celestial” \( *divyam*\) at the beginning of the second chapter \( *jp* 2.3a\) is perhaps worthy of note, though it was quite common for authors to present their texts in such terms, regardless of the tradition they belonged to. Be that as it may, the theory that the PādS did originate from a tradition within the Pāñcarātra which was distinct from the tradition to which at least the PārS and the ĪS belonged is a compelling one, and it is the subject of distinct traditions within the Pāñcarātra to which I shall turn next. 
 
