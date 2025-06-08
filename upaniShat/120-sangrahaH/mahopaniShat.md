@@ -2,8 +2,14 @@
 title: महोपनिषत्
 
 ---
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Heavily interpolated by shAnkara-s. vaiShNava (rAmAnuja) copies lost to shrIrangam and kAnchI burnings. mAdhva copies available??
+</details>
+
   
- महोपनिषत्   
+महोपनिषत्   
   
 यन्महोपनिषद्वेद्यं चिदाकाशतया स्थितम् ।  
 परमाद्वैतसाम्राज्यं तद्रामब्रह्म मे गतिः ॥  
