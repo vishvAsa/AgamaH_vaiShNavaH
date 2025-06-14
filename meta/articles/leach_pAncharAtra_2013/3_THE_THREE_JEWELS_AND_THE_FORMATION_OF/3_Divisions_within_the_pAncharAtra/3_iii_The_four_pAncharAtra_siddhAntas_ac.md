@@ -65,7 +65,7 @@ The author of the PādS then tells us that Mantrasiddhāntins are those who are 
 
 [^97]: PādS *cp* 21.13ac: *pañcakālaṃ yathāśāstraṃ *\[corr. *yathāśāstra*\] *gṛhe vā mandire ’pi vā* / *bhagavatpūjanaṃ kāryam*… //. [[71]]
 
-Once these Bhāgavatas have themselves been properly initiated, they are also qualified to perform the ritual worship of Viṣṇu in accordance with the “five times”.[^98] It is further stated \(at *cp* 21.17c-21b\) that only Bhāgavatas can perform worship for the sake of others \( *parārthayajana*\), though this rule is then immediately revised to enable an initiated non-Bhāgavata to do so if commanded to by a Bhāgavata.99 It is notable that the author of this section of the PādS holds ‘Bhāgavatas’ in very high regard,100 and that in equating Bhāgavatas with Mantrasiddhāntins, he is equating them with Pāñcarātrika Brahmins who also perform Vedic rites. 
+Once these Bhāgavatas have themselves been properly initiated, they are also qualified to perform the ritual worship of Viṣṇu in accordance with the “five times”.[^98] It is further stated \(at *cp* 21.17c-21b\) that only Bhāgavatas can perform worship for the sake of others \( *parārthayajana*\), though this rule is then immediately revised to enable an initiated non-Bhāgavata to do so if commanded to by a Bhāgavata.[^99] It is notable that the author of this section of the PādS holds ‘Bhāgavatas’ in very high regard,[^100] and that in equating Bhāgavatas with Mantrasiddhāntins, he is equating them with Pāñcarātrika Brahmins who also perform Vedic rites. 
 
 ## Āgamasiddhānta
 This account of the Mantrasiddhānta is followed by a description of the Āgamasiddhānta. We have been told previously \(PādS *jp* 1.80cd, *cp* 19.116-117\) that members of this Siddhānta favour worshipping the four forms \( *caturmūrti*\) of god, namely the Vyūhas Vāsudeva and so on. 
@@ -100,10 +100,10 @@ In spite of the clear deficiencies or limitations of the Ekāyana in the eyes of
 
 
 ## Tantrasiddhānta
-The Tantrasiddhānta is described in the PādS as having several characteristics in common with the Āgamasiddhānta. For instance, it accepts members of all four social classes \(PādS *cp* 21.55\), and its adherents are said to have abandoned the Veda, and to perform the life-cycle rites \( *saṃskāra*\) in accordance with their own Tantra \(PādS *cp* 21.56\). 
+The Tantrasiddhānta is described in the PādS as having several characteristics in common with the Āgamasiddhānta. For instance, it accepts members of all four social classes \(PādS *cp* 21.55\), and its adherents are said to have abandoned the Veda, and to perform the life-cycle rites \( *saṃskāra*\) +++(of the deity)+++ in accordance with their own Tantra \(PādS *cp* 21.56\). 
 
-
-Tantrasiddhāntins are said to worship nine forms of god \(PādS *cp* 21.59-66\). Members of the Tantrāntarasiddhānta, meanwhile, may also belong to any of the four social classes, and are said to worship images of god with three, four or more faces, surrounded by attendant deities \( *parivāra*\), and to perform the life-cycle rites in accordance with the Tantrāntara path \( *mārga*\) *and* the Veda \(PādS *cp* 21.70-73b\). 
+## Tantrasiddhānta
+Tantrasiddhāntins are said to worship nine forms of god \(PādS *cp* 21.59-66\). Members of the Tantrāntarasiddhānta, meanwhile, may also belong to any of the four social classes, and are said to worship images of god with three, four or more faces, surrounded by attendant deities \( *parivāra*\), and to perform the life-cycle rites +++(of the deity)+++ in accordance with the Tantrāntara path \( *mārga*\) *and* the Veda \(PādS *cp* 21.70-73b\). 
 
 ## शाखा-भेदः
 The four Siddhāntas, then, are accepted by the PādS as distinct branches of a single tradition. Consequently the many eulogies to the ‘Pañcarātra’ in general which are found throughout this work are not intended to honour merely the Mantrasiddhānta, rather they honour all four Siddhāntas together as the aggregate ‘Pañcarātra’. And, while, for instance, the Āgamasiddhāntin or Ekāyana is depicted as being prohibited from performing certain rites, he is nonetheless shown to perform the quintessentially Pāñcarātrika rite of worshipping Viṣṇu in accordance with the five times \( *pañcakāla*\).[^106] 

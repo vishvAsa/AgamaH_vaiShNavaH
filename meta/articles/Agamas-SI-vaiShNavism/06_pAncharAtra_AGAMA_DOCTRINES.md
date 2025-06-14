@@ -29,7 +29,15 @@ The Pancaratra texts are called Upanışads and Samhitäs to indicate the Vedic 
 
 PārS 1.76-77; IS. I 24. 
 
-The Agama is also known as Siddhānta It is of four kinds, according to the nature of the deities to be worshipped. They are Agamasiddhanta, Mantrasiddhanta, Tantrasiddhanta and Tantrantar asiddhanta569 Another list mentions Mantrasiddhānia as the first to be followed by Agamasiddhanta570. According to the Agamasiddhanta, worship is to be offered to the four vyūhas. Worship of Kesava, Nārāyana and others, representing the twelve forms of the Lord, comes under the Mantrasiddhänta. Worship of a single form is enjoined in the Tantrantarasiddhānta. The Tanträntar asiddhänta prescribes the worship of forms like Narasimha and others.571 The Hayagrivasamhita mentions that 
+The Agama is also known as Siddhānta It is of four kinds, according to the nature of the deities to be worshipped. They are Agamasiddhanta, Mantrasiddhanta, Tantrasiddhanta and Tantrantar asiddhanta569 Another list mentions 
+
+Mantrasiddhānta as the first to be followed by Agamasiddhanta570. 
+
+According to the Agamasiddhanta, worship is to be offered to the four vyūhas.  
+Worship of Kesava, Nārāyana and others, representing the twelve forms of the Lord, comes under the Mantrasiddhänta.  
+Worship of a single form is enjoined in the Tantrantarasiddhānta. The Tanträntarasiddhänta prescribes the worship of forms like Narasimha and others.571 
+
+The Hayagrivasamhita mentions that 
 
 567 VS II. 11, IS, XXI. 554, Vide Pas 1.71, Colophon Ibid, Mbh. Santi ccclvin 63 
 
@@ -45,9 +53,9 @@ AGAMAS AND SOUTH INDIAN VAISNAVISM
 
 the Agamasiddhanta is helpful in getting moksa, the Mantra- siddhanta gives the fruits of undertakings and moksa, the Tantra- siddhanta grants the four kinds of objects in life and the Tanträntara grants desired results 572 
 
-The Sattoata system is classified under ten heads, each having the name Samhita They are Bhagavatsamhitā, Karma- samhita, Vidyāmayî Samhitā, Kālasaṁhitā, Kartavyasamhitā, Vaidışıkî (Samhstā), Samyamasaṁhitā, Adhikārasaṁhitā, Märga- saṁhitä and Mokṣasamhitā 573. These do not seem the independent names of any texts or systems, but only ten topics which are dealt with in the system They could be identified as those treating about the nature of God, acts of worship, knowledge of tattoa, time (for worship), rituals (which are to be done from time to time), specific acts, yoga, qualifications for initiation, and the means of moksa respectively. 
+The Sattvata system is classified under ten heads, each having the name Samhita They are Bhagavatsamhitā, Karma- samhita, Vidyāmayî Samhitā, Kālasaṁhitā, Kartavyasamhitā, Vaidışıkî (Samhstā), Samyamasaṁhitā, Adhikārasaṁhitā, Märga- saṁhitä and Mokṣasamhitā 573. These do not seem the independent names of any texts or systems, but only ten topics which are dealt with in the system They could be identified as those treating about the nature of God, acts of worship, knowledge of tattoa, time (for worship), rituals (which are to be done from time to time), specific acts, yoga, qualifications for initiation, and the means of moksa respectively. 
 
-A system cin deal with what is wholesome to man by prescribing the means to get rid of worldly misery. It is necessary to find out the means which would provide man with this Tattvajñāna and karma are considered to be the two means which help in obtaining what is beneficial to man Karma is twofold, according as it leads directly or indirectly to tattva- jñāna The actual worship which is offered to the Lord is the direct means, while others which contribute to it are the indirect ones, The Sattavata system is concerned with the direct method of worship and, as such, is considered the best among the systems 574 
+A system can deal with what is wholesome to man by prescribing the means to get rid of worldly misery. It is necessary to find out the means which would provide man with this Tattvajñāna and karma are considered to be the two means which help in obtaining what is beneficial to man Karma is twofold, according as it leads directly or indirectly to tattva- jñāna The actual worship which is offered to the Lord is the direct means, while others which contribute to it are the indirect ones, The Sattavata system is concerned with the direct method of worship and, as such, is considered the best among the systems 574 
 
 The Ultimate Reality in the Pañcaratra Agama is Brahman characterised by bliss and free from all undesirable qualities. 
 
