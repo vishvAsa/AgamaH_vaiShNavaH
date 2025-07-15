@@ -1,5 +1,5 @@
 +++
-title = "+क्रिया-सागरः नित्य-कर्म"
+title = "+नित्य-कर्म"
 unicode_script = "devanagari"
 
 +++
