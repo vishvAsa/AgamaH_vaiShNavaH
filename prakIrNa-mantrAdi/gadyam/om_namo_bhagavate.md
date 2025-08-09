@@ -2,7 +2,16 @@
 title = "ॐ नमो भगवते …"
 +++
 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ॐ᳓ न᳓मो भ᳓गवते वासुदेवा᳓य॥
+</details>
+
+<details><summary>मूलम्</summary>
+
 ॐ नमो॒ भग॑वते वासुदे॒वाय॑॥
+</details>
+
 
 <details><summary>भगवच्-छब्दः (द्रष्टुं नोद्यम्)</summary>
 
