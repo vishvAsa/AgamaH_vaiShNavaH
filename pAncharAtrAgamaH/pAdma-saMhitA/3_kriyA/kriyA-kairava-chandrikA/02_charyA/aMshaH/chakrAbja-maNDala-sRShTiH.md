@@ -3,7 +3,8 @@ title = "चक्राब्ज-मण्डल-सृष्टिः"
 
 +++
 
-{{< figure src="/devaH/AryaH/hindukaH/viShNuH/images/maNDalam/chakrAbjam/yadugiri-cheluva-nArAyaNa-mandire.jpg" title="" class="thumbnail">}}
+![](/devaH/AryaH/hindukaH/viShNuH/images/maNDalam/chakrAbjam/yadugiri-cheluva-nArAyaNa-mandire.jpg)
+{caption="" class="thumbnail"}
 
 पुण्याह-जलेन मध्यवेदिकां प्रोक्ष्य  
 प्राणायाम-पूर्वकं

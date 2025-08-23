@@ -13,6 +13,9 @@ This is just incorrect. pAncharAtra from SYV is as ancient as vaikhAnasa from KY
 </details>
 
 
+![../img.png](../img.png)
+{caption="haja" class="as"}
+
 Both Pancharatra & Bhagavata sects are almost identical in ontology & theology, with Vasudeva being Brahman & belief in 27 tattva system. Table lists the fundamental areas that differentiate them.
 
 |          | Pancharatra            | Bhagavata               |
