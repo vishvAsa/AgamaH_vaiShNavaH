@@ -3,35 +3,30 @@ title = "1 i \\) Different kinds of Pāñcarātrika"
 
 +++
 
-Before turning to the classifications of different Pāñcarātra groups contained in several South Indian works belonging to the same religious context as the tradition of the supremacy of the *Jayākhyasaṃhitā *\(JS\), *Sātvatasaṃhitā *\(SS\) and *Pauskarasaṃhitā*
+Before turning to the classifications of different Pāñcarātra groups contained in several South Indian works belonging to the same religious context as the tradition of the supremacy of the *Jayākhyasaṃhitā *\(JS\), *Sātvatasaṃhitā *\(SS\) and *Pauskarasaṃhitā* \(PauṣS\), it will be helpful here to summarise the additional textual evidence for there being distinct types of Pāñcarātrika. 
 
-\(PauṣS\), it will be helpful here to summarise the additional textual evidence for there being distinct types of Pāñcarātrika. There are, from a period prior to our earliest Pāñcarātra scriptures, a number of textual sources which differentiate between Pāñcarātrikas and Bhāgavatas. I will refer to some of these below when I discuss Yāmuna’s *Āgamaprāmāṇya*. Before that, however, it is worth looking at one such source, namely Śaṅkara’s *Brahmasūtrabhāṣya* \(BSBh\), in a little more detail. In his comments on *sūtra* s 2.2.42 and 2.2.44, Śaṅkara appears to attribute different theological positions to the Bhāgavatas and “those who follow the teachings of the Pañcarātra” \( *pañcarātrasiddhāntin*\). The position of the Bhāgavatas is described as follows: 
+There are, from a period prior to our earliest Pāñcarātra scriptures, a number of textual sources which differentiate between Pāñcarātrikas and Bhāgavatas. I will refer to some of these below when I discuss Yāmuna’s *Āgamaprāmāṇya*. 
 
-*bhagavān evaiko vāsudevo nirañjanajñānasvarūpaḥ paramārthatattvam; sa caturdhātmānaṃ pravibhajya pratiṣṭhitaḥ* 
+## shankara
+Before that, however, it is worth looking at one such source, namely Śaṅkara’s *Brahmasūtrabhāṣya* \(BSBh\), in a little more detail. In his comments on *sūtra* s 2.2.42 and 2.2.44, Śaṅkara appears to attribute different theological positions to the Bhāgavatas and “those who follow the teachings of the Pañcarātra” \( *pañcarātrasiddhāntin*\). The position of the Bhāgavatas is described as follows: 
 
-*–*
+*bhagavān evaiko vāsudevo nirañjanajñānasvarūpaḥ paramārthatattvam; sa caturdhātmānaṃ pravibhajya pratiṣṭhitaḥ*  *–* *vāsudevavyūharūpeṇa,* *saṃkarṣaṇavyūharūpeṇa, pradyumnavyūharūpeṇa, aniruddhavyūharūpeṇa ca; vāsudevo nāma paramātmā ucyate; saṃkarṣaṇo nāma jīvaḥ; pradyumno nāma manaḥ; aniruddho nāma ahaṃkāraḥ; teṣāṃ vāsudevaḥ parā prakṛtiḥ, itare saṃkarṣaṇādayaḥ kāryam; tam itthaṃbhūtaṃ parameśvaraṃ bhagavantam abhigamanopādānejyāsvādhyāyayogair* *varṣaśatam iṣṭvā* *kṣīṇakleśo* *bhagavantam eva pratipadyata iti*/. – 
 
-*vāsudevavyūharūpeṇa,*
-
-*saṃkarṣaṇavyūharūpeṇa, pradyumnavyūharūpeṇa, aniruddhavyūharūpeṇa ca; vāsudevo nāma paramātmā ucyate; saṃkarṣaṇo nāma jīvaḥ; pradyumno nāma manaḥ; aniruddho nāma ahaṃkāraḥ; teṣāṃ vāsudevaḥ parā prakṛtiḥ, itare saṃkarṣaṇādayaḥ kāryam; tam itthaṃbhūtaṃ parameśvaraṃ bhagavantam abhigamanopādānejyāsvādhyāyayogair*
-
-*varṣaśatam*
-
-*iṣṭvā*
-
-*kṣīṇakleśo*
-
-*bhagavantam eva pratipadyata iti*/. – 
-
-> “The unique Bhagavat, Vāsudeva, whose essence is pure knowledge, is the supreme reality. After dividing himself, he is possessed of a fourfold form: the form\[s\] \( *vyūha*\) Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha. 
-
-It is said that the Supreme Self is called Vāsudeva, the individual self is called Saṃkarṣaṇa, the mind is called Pradyumna, and the act of self-formulation is called Aniruddha.[^56] Of these, Vāsudeva is the supreme material 
+> “The unique Bhagavat, Vāsudeva, whose essence is pure knowledge, is the supreme reality. After dividing himself, he is possessed of a fourfold form: the form\[s\] \( *vyūha*\) Vāsudeva, Saṃkarṣaṇa, Pradyumna and Aniruddha. It is said that the Supreme Self is called Vāsudeva, the individual self is called Saṃkarṣaṇa, the mind is called Pradyumna, and the act of self-formulation is called Aniruddha.[^56] 
 
 [^56]: My translation of *ahaṃkāra * here as “the act of self-formulation” follows van Buitenen \(1957\). While the phrase may be somewhat cumbersome, it is preferable in this context to “ego” or “self-consciousness” etc., since in the scheme which identifies Aniruddha with the *ahaṃkāra* \(MBh 12.326.37, 339.18ab\), the former’s role as the world-creator is emphasised over any sort of 47 
 
-cause \( *prakṛti*\), and the others, Saṃkarṣaṇa and so on, are the effect. After worshipping the Bhagavat, the supreme Lord, who is of such a nature \[as described here\] for a thousand years by means of \[the five rites\] approaching god, gathering the materials for worship, worship, textual study and meditation, \[one’s\] pain will be diminished, and one will assuredly attain to the Bhagavat.” \(BSBh 415.5-13\) 
+> Of these, Vāsudeva is the supreme material cause \( *prakṛti*\), and the others, Saṃkarṣaṇa and so on, are the effect. After worshipping the Bhagavat, the supreme Lord, who is of such a nature \[as described here\] for a thousand years by means of \[the five rites\] approaching god, gathering the materials for worship, worship, textual study and meditation, \[one’s\] pain will be diminished, and one will assuredly attain to the Bhagavat.” \(BSBh 415.5-13\) 
 
-The scheme outlined here, with the *jīva*, *manas * and *ahaṃkāra* personified by, respectively, Saṃkarṣaṇa, Pradyumna and Aniruddha, is the same as that given in a passage of the *Nārāyaṇīya* section of the *Mahābhārata* \(MBh 12.326.20-39\). Śaṅkara attributes it here to the Bhāgavatas, and in his commentary on 2.2.44, he suggests that those who follow the teachings of the Pañcarātra do not subscribe to this theory: 
+The scheme outlined here, with the *jīva*, *manas * and *ahaṃkāra* personified by, respectively, Saṃkarṣaṇa, Pradyumna and Aniruddha, is the same as that given in a passage of the *Nārāyaṇīya* section of the *Mahābhārata* \(MBh 12.326.20-39\). 
+
+Śaṅkara attributes it here to the Bhāgavatas, and in his commentary on 2.2.44, he suggests that those who follow the teachings of the Pañcarātra do not subscribe to this theory: 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+No - shankara just offers an alternate proposition.
+</details>
+
 
 > *na caite saṃkarṣaṇādayo jīvādi-bhāvenābhipreyante;  
 kiṃ tarhi, īśvarā evaite sarve  
@@ -43,35 +38,23 @@ jñānaiśvarya-śakti-bala-vīrya-tejobhir aiśvaryadharmair anvitā abhyupagam
 > 
 > “And these \[Vyūhas\] Saṃkarṣaṇa and so on, are not thought of as really being the individual self etc. How \[is it they are thought of\] then? It is agreed that all these are lords, \[who are\] endowed with the lordly properties \[omniscient\] knowledge, sovereignty, power, strength, virility and splendour. They are all Vāsudevas, flawless, without substrate \(i.e. cause?\), and with no imperfections… /… / And it is agreed upon by those who follow the teachings of the Pañcarātra that there is no distinction between Vāsudeva and the others, all of whom are identical, \[and that none\] is created either by the hierarchy \[of the properties, omniscient\] knowledge and sovereignty etc. Indeed, all the Vyūhas are accepted as Vāsudevas without any distinctions.” \(BSBh 416.17-417.2, … 417.15-18\) 
 
-What are we to make of these passages? Some scholars \(e.g. Colas 2011: 297\) believe that Śaṅkara is using the names ‘Bhāgavata’ and ‘Pañcarātrasiddhāntin’ to refer to the same group. This position is perhaps based on the fact that the Bhāgavatas are described here as worshipping god in accordance with the “five times” \(i.e.*abhigamana* etc.\), a practice which is elsewhere expressly associated with the psychological principle. As van Buitenen shows, the creative function of the *ahaṃkāra* in the *Mokṣadharmaparvan* \(as well as in the *Sāṃkhyakārikā*\) is continuous with older, mythical narratives wherein the primordial being combines and unites the principles of self-consciousness, self-formulation \( *ahaṃkāra*, i.e. the exclamation *aham\! *\), and self- \(and by extension, world-\) creation. [[48]]
+What are we to make of these passages? Some scholars \(e.g. Colas 2011: 297\) believe that Śaṅkara is using the names ‘Bhāgavata’ and ‘Pañcarātrasiddhāntin’ to refer to the same group. This position is perhaps based on the fact that the Bhāgavatas are described here as worshipping god in accordance with the “five times” \(i.e.*abhigamana* etc.\), a practice which is elsewhere expressly associated with the psychological principle. 
 
-Pāñcarātra.57 But this interpretation has the problem of explaining why it is, then, that the doctrines linked with these denominations are so clearly different. For the Bhāgavatas hold, according to Śaṅkara, that the Vyūhas Saṃkarṣaṇa, Pradyumna and Aniruddha are caused to become manifest by Vāsudeva, the “supreme cause” \( *parā*
+As van Buitenen shows, the creative function of the *ahaṃkāra* in the *Mokṣadharmaparvan* \(as well as in the *Sāṃkhyakārikā*\) is continuous with older, mythical narratives wherein the primordial being combines and unites the principles of self-consciousness, self-formulation \( *ahaṃkāra*, i.e. the exclamation *aham\! *\), and self- \(and by extension, world-\) creation. [[48]]
 
-*prakṛtih*\). This idea is compatible with the scheme of the successive emergence of these deities, and the principles \( *jīva*, *manas*, *ahaṃkāra*\) they personify, that is articulated 
+Pāñcarātra.57 
 
-in 
+But this interpretation has the problem of explaining why it is, then, that the doctrines linked with these denominations are so clearly different. For the Bhāgavatas hold, according to Śaṅkara, that the Vyūhas Saṃkarṣaṇa, Pradyumna and Aniruddha are caused to become manifest by Vāsudeva, the “supreme cause” \( *parā prakṛtih*\). This idea is compatible with the scheme of the successive emergence of these deities, and the principles \( *jīva*, *manas*, *ahaṃkāra*\) they personify, that is articulated  in the *Nārāyaṇīya*.  However,  according  to  Śaṅkara,  the Pañcarātrasiddhāntins reject this idea, and hold that there is no distinction whatsoever between the four Vyūhas. In the absence of any further textual support, it is difficult to arrive at any firm conclusions from the above passages.+++(4)+++ But at the least we can affirm that, in Śaṅkara’s time, there appear to have been doctrinal disagreements among Vaiṣṇavas who adhered to the theology of the four differentiated forms of god \( *vyūha*\). 
 
-the 
+That there were philosophical disagreements among Pāñcarātrikas, and that these disagreements were relatively important in shaping distinct Pāñcarātrika identities is suggested elsewhere in medieval Sanskrit literature. 
 
-*Nārāyaṇīya*. 
+## kAshmIra-shaivas
+In two recent publications, Alexis Sanderson \(2007, 2009a\) has drawn attention to several references to the ‘Pañcarātra’ tradition in Kashmirian works dating from the final centuries of the first millennium CE.58 For the present purposes, two of these works are of particular interest. The first is the *Haravijaya*, a Sanskrit court epic written by Rājānaka Ratnākara around 830 CE. 
 
-However, 
+In the 47th canto \( *sarga*\) of this work, during a hymn to the goddess Caṇḍī, two groups of Vaiṣṇavas are distinguished \(at verses 55-56\):  
 
-according 
-
-to 
-
-Śaṅkara, 
-
-the 
-
-Pañcarātrasiddhāntins reject this idea, and hold that there is no distinction whatsoever between the four Vyūhas. In the absence of any further textual support, it is difficult to arrive at any firm conclusions from the above passages. But at the least we can affirm that, in Śaṅkara’s time, there appear to have been doctrinal disagreements among Vaiṣṇavas who adhered to the theology of the four differentiated forms of god \( *vyūha*\). 
-
-That there were philosophical disagreements among Pāñcarātrikas, and that these disagreements were relatively important in shaping distinct Pāñcarātrika identities is suggested elsewhere in medieval Sanskrit literature. In two recent publications, Alexis Sanderson \(2007, 2009a\) has drawn attention to several references to the ‘Pañcarātra’ 
-
-tradition in Kashmirian works dating from the final centuries of the first millennium CE.58 For the present purposes, two of these works are of particular interest. The first is the *Haravijaya*, a Sanskrit court epic written by Rājānaka Ratnākara around 830 CE. 
-
-In the 47th canto \( *sarga*\) of this work, during a hymn to the goddess Caṇḍī, two groups of Vaiṣṇavas are distinguished \(at verses 55-56\): the Ekāyanas, whom I will discuss below, and the followers of the teaching relating to Saṃkarṣaṇa \( *sāṃkarṣaṇa śāsana*\). 
+- the Ekāyanas, whom I will discuss below,  
+- and the followers of the teaching relating to Saṃkarṣaṇa \( *sāṃkarṣaṇa śāsana*\). 
 
 The second work, which is considerably more informative, is Bhaṭṭa Rāmakaṇṭha’s *Nareśvaraparīkṣāprakāśa* \(NPP\), a philosophical commentary on the c. seventh-eighth century *Nareśvaraparīkṣā* of Sadyojyotis. The NPP was most probably written during the second half of the tenth century \(Watson 2006\). Here, two kinds of 57 See e.g. MBh 12.325.4/57-59, the seventh century stele inscription from Baset in Cambodia \(K. 447, see Cœdès 1942: 193-95\), and a Śaiva work called the *Śrīkaṇṭhī* or the *Śrīkaṇṭhīyasaṃhitā*, at verses 51c-52 \(Hanneder 1998: 244\). 
 
@@ -79,11 +62,16 @@ The second work, which is considerably more informative, is Bhaṭṭa Rāmaka�
 
 Pāñcarātras are named: the ‘Sāṅkarṣaṇapāñcarātras’ and the ‘Saṃhitāpāñcarātras’. 
 
-Sanderson \(2009a: 108\) thinks it very likely that these are the same groups distinguished by Ratnākara – in other words that the Saṃhitāpāñcarātras, presumably those who follow the Pāñcarātra Saṃhitās, are the same group as the Ekāyanas. The two groups differ from each other, according to Rāmakaṇṭha, in their views on the individual self \( *jīva*\). On the one hand, the Sāṅkarṣaṇapāñcarātras say that consciousness is merely a product of the “internal organ” \( *antaḥkaraṇacaitanikāḥ*, NPP 87.22\), by which is meant, presumably, the mental faculties *manas*, *buddhi* and *ahaṃkāra*.59 On the other, the Saṃhitāpāñcarātras, along with “the knowers of the Upaniṣads” who subscribe to the theory of the transformation of the original cause, say the following: “Individual selves are truly distinct \[from the mental faculties\] but they are non-pervasive \(i.e. atomic\), and they originate from the imperishable supreme cause, which is either the referent of the word *brahman* \[for those who are learned in the Upaniṣads\], or is called Nārāyaṇa \[for the Saṃhitāpāñcarātras\]. Like a pot, for example, \[originates from clay and will eventually dissolve back into it, so\] the independent natures \[of individual selves\] originate from and \[will eventually\] dissolve back into their own cause.”[^60] 
+Sanderson \(2009a: 108\) thinks it very likely that these are the same groups distinguished by Ratnākara – in other words that the Saṃhitāpāñcarātras, presumably those who follow the Pāñcarātra Saṃhitās, are the same group as the Ekāyanas. 
+
+The two groups differ from each other, according to Rāmakaṇṭha, in their views on the individual self \( *jīva*\). 
+
+- On the one hand, the Sāṅkarṣaṇapāñcarātras say that consciousness is merely a product of the “internal organ” \( *antaḥkaraṇacaitanikāḥ*, NPP 87.22\), by which is meant, presumably, the mental faculties *manas*, *buddhi* and *ahaṃkāra*.59 
+- On the other, the Saṃhitāpāñcarātras, along with “the knowers of the Upaniṣads” who subscribe to the theory of the transformation of the original cause, say the following: “Individual selves are truly distinct \[from the mental faculties\] but they are non-pervasive \(i.e. atomic\), and they originate from the imperishable supreme cause, which is either the referent of the word *brahman* \[for those who are learned in the Upaniṣads\], or is called Nārāyaṇa \[for the Saṃhitāpāñcarātras\]. Like a pot, for example, \[originates from clay and will eventually dissolve back into it, so\] the independent natures \[of individual selves\] originate from and \[will eventually\] dissolve back into their own cause.”[^60] 
 
 In a later passage, Rāmakaṇṭha says that for those who know the Upaniṣads, and for Pāñcarātras \(presumably he is referring to both types of ‘Pāñcarātra’ here\), liberation \( *mukti*\) is the absorption of the individual selves into *brahman* \(for the former\), and into the supreme material cause \( *prakṛti*\) called Nārāyaṇa \(for the latter\).[^61] 
 
-Rāmakaṇṭha’s distinction between the Sāṅkarṣaṇapāñcarātras and the Saṃhitāpāñcarātras offers an intriguing glimpse into an episode in the history of the Pāñcarātra which is now almost completely lost to us. That distinct groups within the Pāñcarātra should have held opposing views on the ontology of individual selves seems somewhat surprising given that in the Pāñcarātra literature that is currently 
+Rāmakaṇṭha’s distinction between the Sāṅkarṣaṇapāñcarātras and the Saṃhitāpāñcarātras offers an intriguing glimpse into an episode in the history of the Pāñcarātra which is now almost completely lost to us. 
 
 [^59]: On which see *Sāṃkhyakārikā* 23, 24, 27, and 33. In the Pāñcarātra literature see e.g.*Ahirbudhnyasaṃhitā* 4.38, and *Lakṣmītantra* 7.30. 
 
@@ -91,15 +79,14 @@ Rāmakaṇṭha’s distinction between the Sāṅkarṣaṇapāñcarātras and 
 
 [^61]: NPP 106.5 *ff*: *eṣa ca prasaṅgo vedāntavidāṃ pāñcarātrāṇāṃ ca samānaḥ*/ * tair api brahmaṇi nārāyaṇākhyāyāṃ ca parasyāṃ prakṛtau jīvātmanāṃ layo muktir abhyupagatā yataḥ*/. [[50]]
 
-available, such concerns do not figure prominently. Moreover, in the works by the Vedāntin defenders of Pāñcarātra orthodoxy, in the Vaikhānasa literature62 and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia. 
+That distinct groups within the Pāñcarātra should have held opposing views on the ontology of individual selves seems somewhat surprising given that in the Pāñcarātra literature that is currently available, such concerns do not figure prominently. 
 
-In the Pāñcarātra works, there are several ways in which different types of worshipper are classified. Already in our earliest Saṃhitās, there are clear indications that important differences were recognised among devotees, and that one of the most basic distinctions, as attested to in the SS and the PauṣS, was that between those “with desires” \( *sakāma*\) and those “without desires” \( *akāma*, *niṣkāma*\). The former, inevitably, desire various mundane and heavenly rewards \(see e.g. PauṣS 36.80-81, SS 
+## Non-doctrinal emphasis
+Moreover, in the works by the Vedāntin defenders of Pāñcarātra orthodoxy, in the Vaikhānasa literature[^62] and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia. 
 
-24.432-433\), while the latter seek liberation only \(e.g. PauṣS 31.203, SS 18.51ab\). 
+In the Pāñcarātra works, there are several ways in which different types of worshipper are classified. Already in our earliest Saṃhitās, there are clear indications that important differences were recognised among devotees, and that one of the most basic distinctions, as attested to in the SS and the PauṣS, was that between those “with desires” \( *sakāma*\) and those “without desires” \( *akāma*, *niṣkāma*\). The former, inevitably, desire various mundane and heavenly rewards \(see e.g. PauṣS 36.80-81, SS 24.432-433\), while the latter seek liberation only \(e.g. PauṣS 31.203, SS 18.51ab\). 
 
-According to these sources, the two types of worshipper participate alongside each other in the same rituals \(PauṣS 31.201-227, SS 7.73\), and both may be members of any of the four social classes \( *varṇa*\) \(PauṣS 38.26 *ff*, SS 7.43ab\). In one place, the SS 
-
-\(7.37 *ff*\) reports that the devotees who seek liberation only perform divergent rites on different days of the month during the year-long vow \( *vrata*\) to worship the four forms of god,63 and that after the worship, the *sakāma* and the *niṣkāma* devotees give different gifts to Brahmins \(7.49c-51\). Meanwhile, they perform the twelve-day vow \( *dvādaśavrata*\) in the same way, and it grants the same result to both \(SS 7.73\). 
+According to these sources, the two types of worshipper participate alongside each other in the same rituals \(PauṣS 31.201-227, SS 7.73\), and both may be members of any of the four social classes \( *varṇa*\) \(PauṣS 38.26 *ff*, SS 7.43ab\). In one place, the SS \(7.37 *ff*\) reports that the devotees who seek liberation only perform divergent rites on different days of the month during the year-long vow \( *vrata*\) to worship the four forms of god,63 and that after the worship, the *sakāma* and the *niṣkāma* devotees give different gifts to Brahmins \(7.49c-51\). Meanwhile, they perform the twelve-day vow \( *dvādaśavrata*\) in the same way, and it grants the same result to both \(SS 7.73\). 
 
 Elsewhere \(SS 19.84c-85\), it is said that the “Heart mantra” is to be recited with a different ending depending on the goal of the initiate – *svāhā* for enjoyments \( *bhoga*\) and *namas* for liberation \( *mokṣa*\). The SS cites another example wherein the *niṣkāma* and the *sakāma* devotees worship the mantras of the “manifested deities” 
 

@@ -7,17 +7,14 @@ General introductions to the Pāñcarātra literature commonly emphasise the exa
 
 Among these, the *Pārameśvarasaṃhitā* \(PārS\) is likely the earliest.33 Rastelli \(2006: 54, 98\) cautiously assigns the composition of this work to the period 1100-1300 CE, favouring the earlier half of this time frame on account of the social and political upheavals which affected Śrīraṅgam, the PārS’s likely place of origin, throughout the thirteenth century. She also highlights the derivative nature of the text. 
 
-The PārS incorporates passages from the *Nārāyaṇīya * section of the *Mahābhārata*, the 31 That is, given that research on the Pāñcarātra in general is still relatively young. There are many better preserved works among the published Pāñcarātra Saṃhitās, and most of these have not yet been studied in any detail. 
+
+[^31]: That is, given that research on the Pāñcarātra in general is still relatively young. There are many better preserved works among the published Pāñcarātra Saṃhitās, and most of these have not yet been studied in any detail. 
 
 [^32]: See e.g. Smith \(1972: 43\), Czerniak-Drożdżowicz \(2003: 27\), Hikita \(2005: 167\), Colas \(2009: 155\). 
 
 [^33]: For a chronology of these works see Matsubara \(1994: 29-30\) and Rastelli \(2006: 52-4\). [[32]]
 
-*Ahirbudhnyasaṃhitā*, and the *Pādmasaṃhitā *\(PādS\)34 among others, and its author, or 
-
-“compiler” as Rastelli proposes, clearly also had a close knowledge of each of the 
-
-“three jewels”. Rastelli \(2002: 9\) writes: “\[The\] compiler of the PārS turns to all three of these Saṃhitās with each topic that is also dealt with in one or more of these texts and incorporates in some cases very long passages from them. Some chapters of the PārS consist almost entirely of passages adopted from these three texts.” While there are several apparently earlier Saṃhitās which reveal a close knowledge of one or other of the JS, SS and PauṣS, it would appear that the PārS is one of the earliest extant Pāñcarātra Saṃhitās to display a close knowledge of all three texts. 
+The PārS incorporates passages from the *Nārāyaṇīya * section of the *Mahābhārata*, the *Ahirbudhnyasaṃhitā*, and the *Pādmasaṃhitā *\(PādS\)34 among others, and its author, or “compiler” as Rastelli proposes, clearly also had a close knowledge of each of the “three jewels”. Rastelli \(2002: 9\) writes: “\[The\] compiler of the PārS turns to all three of these Saṃhitās with each topic that is also dealt with in one or more of these texts and incorporates in some cases very long passages from them. Some chapters of the PārS consist almost entirely of passages adopted from these three texts.” While there are several apparently earlier Saṃhitās which reveal a close knowledge of one or other of the JS, SS and PauṣS, it would appear that the PārS is one of the earliest extant Pāñcarātra Saṃhitās to display a close knowledge of all three texts. 
 
 In the PārS’s opening chapter \( *adhyāya*\) the SS, PauṣS and JS are listed together and are said to confer both liberation and “enjoyments” \( *bhoga*\). This is in contradistinction to the “first teaching” \( *prathamaṃ śāstram*\), called here the “secret tradition” \( *rahasyāmnāya*\), which grants liberation only.35 We are told elsewhere in the first chapter that the three Saṃhitās were revealed for the benefit of those who had, from the time of the Tretā Age \( *yuga*\), given up the “supreme *dharma*” \(i.e. the secret tradition\), which refers only to Vāsudeva, and replaced it with a “mixed *dharma*” 
 
