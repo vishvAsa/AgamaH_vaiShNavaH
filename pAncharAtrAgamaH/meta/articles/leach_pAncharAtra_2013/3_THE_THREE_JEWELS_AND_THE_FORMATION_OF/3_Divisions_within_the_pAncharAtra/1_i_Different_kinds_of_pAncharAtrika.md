@@ -49,13 +49,17 @@ But this interpretation has the problem of explaining why it is, then, that the 
 That there were philosophical disagreements among Pāñcarātrikas, and that these disagreements were relatively important in shaping distinct Pāñcarātrika identities is suggested elsewhere in medieval Sanskrit literature. 
 
 ## kAshmIra-shaivas
-In two recent publications, Alexis Sanderson \(2007, 2009a\) has drawn attention to several references to the ‘Pañcarātra’ tradition in Kashmirian works dating from the final centuries of the first millennium CE.58 For the present purposes, two of these works are of particular interest. The first is the *Haravijaya*, a Sanskrit court epic written by Rājānaka Ratnākara around 830 CE. 
+In two recent publications, Alexis Sanderson \(2007, 2009a\) has drawn attention to several references to the ‘Pañcarātra’ tradition in Kashmirian works dating from the final centuries of the first millennium CE.58 
+
+### Haravijaya
+For the present purposes, two of these works are of particular interest. The first is the *Haravijaya*, a Sanskrit court epic written by Rājānaka Ratnākara around 830 CE. 
 
 In the 47th canto \( *sarga*\) of this work, during a hymn to the goddess Caṇḍī, two groups of Vaiṣṇavas are distinguished \(at verses 55-56\):  
 
 - the Ekāyanas, whom I will discuss below,  
 - and the followers of the teaching relating to Saṃkarṣaṇa \( *sāṃkarṣaṇa śāsana*\). 
 
+### Nareśvaraparīkṣāprakāśa
 The second work, which is considerably more informative, is Bhaṭṭa Rāmakaṇṭha’s *Nareśvaraparīkṣāprakāśa* \(NPP\), a philosophical commentary on the c. seventh-eighth century *Nareśvaraparīkṣā* of Sadyojyotis. The NPP was most probably written during the second half of the tenth century \(Watson 2006\). Here, two kinds of 57 See e.g. MBh 12.325.4/57-59, the seventh century stele inscription from Baset in Cambodia \(K. 447, see Cœdès 1942: 193-95\), and a Śaiva work called the *Śrīkaṇṭhī* or the *Śrīkaṇṭhīyasaṃhitā*, at verses 51c-52 \(Hanneder 1998: 244\). 
 
 [^58]: Sanderson \(2009a: 110-11\) points to references to the Pañcarātra in the *Nīlamatapurāṇa*. The *Nīlamatapurāṇa* may have been composed during the Kārkoṭa dynasty \(c. 626-855 CE\), but this is far from certain \(ibid.\). [[49]]
@@ -66,14 +70,16 @@ Sanderson \(2009a: 108\) thinks it very likely that these are the same groups di
 
 The two groups differ from each other, according to Rāmakaṇṭha, in their views on the individual self \( *jīva*\). 
 
-- On the one hand, the Sāṅkarṣaṇapāñcarātras say that consciousness is merely a product of the “internal organ” \( *antaḥkaraṇacaitanikāḥ*, NPP 87.22\), by which is meant, presumably, the mental faculties *manas*, *buddhi* and *ahaṃkāra*.59 
+- On the one hand, the Sāṅkarṣaṇapāñcarātras say that consciousness is merely a product of the “internal organ” \( *antaḥkaraṇacaitanikāḥ*, NPP 87.22\), by which is meant, presumably, the mental faculties *manas*, *buddhi* and *ahaṃkāra*.[^59] 
 - On the other, the Saṃhitāpāñcarātras, along with “the knowers of the Upaniṣads” who subscribe to the theory of the transformation of the original cause, say the following: “Individual selves are truly distinct \[from the mental faculties\] but they are non-pervasive \(i.e. atomic\), and they originate from the imperishable supreme cause, which is either the referent of the word *brahman* \[for those who are learned in the Upaniṣads\], or is called Nārāyaṇa \[for the Saṃhitāpāñcarātras\]. Like a pot, for example, \[originates from clay and will eventually dissolve back into it, so\] the independent natures \[of individual selves\] originate from and \[will eventually\] dissolve back into their own cause.”[^60] 
+
+
+[^59]: On which see *Sāṃkhyakārikā* 23, 24, 27, and 33. In the Pāñcarātra literature see e.g.*Ahirbudhnyasaṃhitā* 4.38, and *Lakṣmītantra* 7.30.
 
 In a later passage, Rāmakaṇṭha says that for those who know the Upaniṣads, and for Pāñcarātras \(presumably he is referring to both types of ‘Pāñcarātra’ here\), liberation \( *mukti*\) is the absorption of the individual selves into *brahman* \(for the former\), and into the supreme material cause \( *prakṛti*\) called Nārāyaṇa \(for the latter\).[^61] 
 
 Rāmakaṇṭha’s distinction between the Sāṅkarṣaṇapāñcarātras and the Saṃhitāpāñcarātras offers an intriguing glimpse into an episode in the history of the Pāñcarātra which is now almost completely lost to us. 
 
-[^59]: On which see *Sāṃkhyakārikā* 23, 24, 27, and 33. In the Pāñcarātra literature see e.g.*Ahirbudhnyasaṃhitā* 4.38, and *Lakṣmītantra* 7.30. 
 
 [^60]: NPP 91.18 *ff*: *pariṇativedāntavidaḥ saṃhitāpāñcarātrāś cāhuḥ satyaṃ bhinnā eva jīvātmānaḥ, te tu paramakaraṇād anaśvarād brahmapadavācyāt avyāpakā eva ghaṭādivat svakāraṇalayasvabhāvāś cotpadyante iti*. 
 
