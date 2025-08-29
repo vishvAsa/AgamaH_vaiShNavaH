@@ -24,25 +24,7 @@ In the PārS’s opening chapter \( *adhyāya*\) the SS, PauṣS and JS are list
 
 Elsewhere in the PārS, this supreme *dharma* or “secret tradition” is also variously 34 Although the PārS is included in the canonical list of Pāñcarātra Saṃhitās contained in the PādS \( *jp* 1.105b\), this list is a late interpolation, and the PārS is likely the later text. See Rastelli \(2006: 58-9\). [[35]]
 
-PārS 
-
-1.16c-19b: **
-
-*śrutvaivaṃ*
-
-*prathamaṃ*
-
-*śāstraṃ*
-
-*rahasyāmnāyasaṃjñitam* 
-
-// 
-
-*divyamantrakramopetaṃ mokṣaikaphalalakṣaṇam* / *bhūyaḥ saṃcoditāt tasmāt tena lokahitaiṣiṇā* // 
-
-*śrutaṃ vistarataḥ śāstraṃ bhogamokṣapradaṃ hi yat* / *anuṣṭupchandobaddhena proktaṃ bhagavatā* 
-
-*svayam * // *sātvataṃ pauṣkaraṃ caiva jayākhyety evamādikam* /. 
+PārS  1.16c-19b: ** *śrutvaivaṃ* *prathamaṃ* *śāstraṃ* *rahasyāmnāyasaṃjñitam*  //  *divyamantrakramopetaṃ mokṣaikaphalalakṣaṇam* / *bhūyaḥ saṃcoditāt tasmāt tena lokahitaiṣiṇā* //  *śrutaṃ vistarataḥ śāstraṃ bhogamokṣapradaṃ hi yat* / *anuṣṭupchandobaddhena proktaṃ bhagavatā*  *svayam * // *sātvataṃ pauṣkaraṃ caiva jayākhyety evamādikam* /. 
 
 [^36]: In other words, desires for enjoyments \( *bhoga*\) rather than for liberation. See PārS 1.75bcd: * tatas tretāyugādiṣu*/ *vikāravedāḥ sarvatra devāntaragocarāḥ* //; 1.79: *tatas tretāyuge sarve nānākāmasamanvitāḥ*/ *vyāmiśrayājino bhūtvā tyajyanty ādyaṃ sanātanam* //; and 1.87 \(see next note\). The “changed Vedas” \( *vikāravedāḥ*\) at 1.75c are to be understood as the same as the “mixed *dharma*” that is mentioned at 1.87b. 
 
@@ -56,25 +38,7 @@ called the “root-Veda” or the “original Veda” \( *mūlaveda*, e.g. PārS
 
 1.41a, 74c\), and the Ekāyanaveda \(e.g. PārS 1.32c, 56c\). 
 
-The SS, PauṣS and JS are also mentioned together at PārS 10.376cd, this time in the context of a classification of Pāñcarātra scriptures into three distinct groups, namely 
-
-the 
-
-celestial 
-
-teachings 
-
-\( *divyaśāstra*\), 
-
-the 
-
-teachings 
-
-of 
-
-sages 
-
-\( *munibhāṣitaśāstra*\), and the teachings of men \( *pauruṣaśāstra*\).38 Although this classification is already present in the SS,39 a text which was known to the author/compiler of the PārS, the theory that the SS, PauṣS and JS alone among Pāñcarātra scriptures represent the *direct* revelation of God \( *divyaśāstra*\) is, as far as we can tell, here expressed for the first time.40 I will discuss this passage in detail below. 
+The SS, PauṣS and JS are also mentioned together at PārS 10.376cd, this time in the context of a classification of Pāñcarātra scriptures into three distinct groups, namely  the  celestial  teachings  \( *divyaśāstra*\),  the  teachings  of  sages  \( *munibhāṣitaśāstra*\), and the teachings of men \( *pauruṣaśāstra*\).38 Although this classification is already present in the SS,39 a text which was known to the author/compiler of the PārS, the theory that the SS, PauṣS and JS alone among Pāñcarātra scriptures represent the *direct* revelation of God \( *divyaśāstra*\) is, as far as we can tell, here expressed for the first time.40 I will discuss this passage in detail below. 
 
 The author of the PārS directly relates his own text to this original revelation by claiming that it contains within itself the elucidation of the meaning of the PauṣS. 
 

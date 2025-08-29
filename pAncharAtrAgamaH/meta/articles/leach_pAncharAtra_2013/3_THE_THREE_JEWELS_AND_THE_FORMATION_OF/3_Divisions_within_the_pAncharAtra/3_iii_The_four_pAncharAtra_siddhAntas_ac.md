@@ -102,8 +102,10 @@ In spite of the clear deficiencies or limitations of the Ekāyana in the eyes of
 ## Tantrasiddhānta
 The Tantrasiddhānta is described in the PādS as having several characteristics in common with the Āgamasiddhānta. For instance, it accepts members of all four social classes \(PādS *cp* 21.55\), and its adherents are said to have abandoned the Veda, and to perform the life-cycle rites \( *saṃskāra*\) +++(of the deity)+++ in accordance with their own Tantra \(PādS *cp* 21.56\). 
 
-## Tantrasiddhānta
-Tantrasiddhāntins are said to worship nine forms of god \(PādS *cp* 21.59-66\). Members of the Tantrāntarasiddhānta, meanwhile, may also belong to any of the four social classes, and are said to worship images of god with three, four or more faces, surrounded by attendant deities \( *parivāra*\), and to perform the life-cycle rites +++(of the deity)+++ in accordance with the Tantrāntara path \( *mārga*\) *and* the Veda \(PādS *cp* 21.70-73b\). 
+Tantrasiddhāntins are said to worship nine forms of god \(PādS *cp* 21.59-66\). 
+
+## Tantrāntarasiddhānta
+Members of the Tantrāntarasiddhānta, meanwhile, may also belong to any of the four social classes, and are said to worship images of god with three, four or more faces, surrounded by attendant deities \( *parivāra*\), and to perform the life-cycle rites +++(of the deity)+++ in accordance with the Tantrāntara path \( *mārga*\) *and* the Veda \(PādS *cp* 21.70-73b\). 
 
 ## शाखा-भेदः
 The four Siddhāntas, then, are accepted by the PādS as distinct branches of a single tradition. Consequently the many eulogies to the ‘Pañcarātra’ in general which are found throughout this work are not intended to honour merely the Mantrasiddhānta, rather they honour all four Siddhāntas together as the aggregate ‘Pañcarātra’. And, while, for instance, the Āgamasiddhāntin or Ekāyana is depicted as being prohibited from performing certain rites, he is nonetheless shown to perform the quintessentially Pāñcarātrika rite of worshipping Viṣṇu in accordance with the five times \( *pañcakāla*\).[^106] 

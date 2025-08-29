@@ -105,6 +105,4 @@ However, in several instances, portions which apparently belong to the older “
 
 SanS unambiguously equates Bhāgavatas with Sāttvatas, Vaiṣṇavas *and* Pāñcarātrikas.90 
 
-Why, specifically, should Yāmuna seek to present the designations ‘Pañcarātra’ 
-
-and ‘Bhāgavata’ as synonymous? And why should the success of his defence of the Pāñcarātra be facilitated by his description of it as a single, homogeneous ritualistic tradition? To answer these questions it is helpful to look at the *Pādmasaṃhitā*, a text which was composed in South India some time after the ĀP.91 
+Why, specifically, should Yāmuna seek to present the designations ‘Pañcarātra’ and ‘Bhāgavata’ as synonymous? And why should the success of his defence of the Pāñcarātra be facilitated by his description of it as a single, homogeneous ritualistic tradition? To answer these questions it is helpful to look at the *Pādmasaṃhitā*, a text which was composed in South India some time after the ĀP.91 
