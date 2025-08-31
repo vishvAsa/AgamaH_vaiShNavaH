@@ -14,11 +14,7 @@ Rastelli \(2006\) and Young \(2007\) concur that there are four distinct groups 
 
 The first of Neevel’s four “classes”, that of the “temple servants”, is described quite clearly in the ĀP \(150.4 *ff*\). Members of this class, called *vaiśyavrātya* s by Yāmuna’s Mīmāṃsaka opponents,[^79] are uninitiated \(and therefore ineligible for worshipping the Bhagavat directly\) and are classed as ‘Bhāgavatas’ purely on account of their association, as servants and temple guards \( *prāsādapālaka*\), with the temple worship of Vāsudeva. Contra Rastelli, Young \(2007: 241-242 n. 189\) argues that members of Neevel’s second class, the “professional temple priests” who earn a living by performing sacrifices or worship for others, are one branch of the group of 78 In this work the terms ‘Bhāgavata’ and ‘Sātvata’ are usually synonymous, the notable exception to the rule being Yāmuna’s Mīmāṃsaka opponent’s reference to “the threefold doctrine \( *tridhā matam*\) – 
 
-Bhākta, Bhāgavata and Sātvata” at ĀP 54.3. When Yāmuna speaks “in his own voice” as it were, he treats both names as designating the same group - see for example ĀP 148.11, and 155.1-4. That both terms refer also to the ‘Pañcarātra’ can be inferred from ĀP 1.7-2.4 where Bhāgavata “doctrine” 
-
-\( *matam*\) and “Pañcarātra *tantra*” are used interchangeably, and ĀP 7.1-2 and 170.13-171.4 where 
-
-‘Sātvata’ and ‘Pañcarātra’ are coterminous. 
+Bhākta, Bhāgavata and Sātvata” at ĀP 54.3. When Yāmuna speaks “in his own voice” as it were, he treats both names as designating the same group - see for example ĀP 148.11, and 155.1-4. That both terms refer also to the ‘Pañcarātra’ can be inferred from ĀP 1.7-2.4 where Bhāgavata “doctrine” \( *matam*\) and “Pañcarātra *tantra*” are used interchangeably, and ĀP 7.1-2 and 170.13-171.4 where ‘Sātvata’ and ‘Pañcarātra’ are coterminous. 
 
 [^79]: A *vaiśyavrātya* is one who has lost his status as a member of the Vaiśya class as a consequence of neglecting his Vaiśya duties. Manu \(10.23\) lists the Sātvatas among the offspring of *vaiśyavrātya* s. [[63]]
 
