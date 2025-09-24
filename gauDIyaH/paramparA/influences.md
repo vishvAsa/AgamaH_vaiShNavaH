@@ -6,6 +6,12 @@ title = "Influences"
 kAshmIri (eg. keshava of kramadIpa) is prominent. 
 
 ## mAdhva connection
+माध्वसम्प्रदाये व्यासकूटः दासकूटश्च इतिशाखयोः गौडीयः दासकूटेषु परिगण्यते मूलतः।  
+माध्वेभ्यो भक्ति-सिद्धान्त-सरस्वती-ठाकुरेण लिखितं पत्रम् इदं स्पष्टं वक्ति।  
+अतः वैदिक-विधाने नासीत् विशेषध्यानम्।  
+गच्छता कालेन माध्व-सम्प्रदायात् पृथगभूत् इति भाति,  
+अतः वैदिक-विषये स्व-ग्रन्थान् रचयितुम् आरभन्त।
+
 > The idea of Gauḍīya Vaiṣṇavam even having a mantra-sambandha with the Madhva Sampradāya is controversial, let alone any sort of doctrinal linkage... The earliest source mentioning such a connection is Gaura Gaṇoddeśa Dīpikā, and even there is it nothing more than a mantra paramparā.
 >
 > Madhavendra Purī, Īśvara Purī, and Mahāprabhu himself all took ekadaṇḍa sannyāsa.
