@@ -12,8 +12,18 @@ title = "+परम्परा"
 कौचन पितृव्यौ त्रिमल्ल-प्रबोधानन्दाव् उच्येते सरस्वत्य्-उपनामानौ परिव्राजकौ।  
 प्रबोधानन्दसरस्वत्या च काश्चन गौडीय-परम्परा-गत-कृतयो ऽपि रचिताश् श्रूयन्ते।  
 
+> त्रिमल्ल, व्यङ्कट आर श्री-प्रबोधानन्द ।  
+ए तिन भ्रातार प्राण-धन गौरचन्द्र ॥८३॥  
+केह कहे श्री-प्रबोधानन्द यत्न कैल ।  
+अल्पकाल हैते अध्यय़न कराइल ॥१४७॥  
+पितृव्या-कृपाय़ सर्व-शास्त्रे हैल ज्ञान ।  
+गोपालेर सम एथा नाइ विद्यावान् ॥१४८॥
+
+इति नरहरिः। 
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
+narahari's bhakti-ratnAkara is a late seventeenth century "fill-in" of mid 16th chaitanya-charitAmRtam it seems.  
 prabodhAnanda sarasvatI doesn't sound shrIvaiShNava at all - rather some dashanAmI muNDaka. If that's fake, wonder what else is.
 </details>
 
