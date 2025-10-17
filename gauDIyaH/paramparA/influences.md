@@ -23,3 +23,6 @@ The "eastern" bit might be "sarasvatI as spouse of viShNu" type (presumably orig
 
 ## advaitin influence
 gauDIya view is heavily centered on bhAgavata - especially as interpreted by the early advaitin commentator.
+
+## SV conservative advice
+[2019 1](https://youtu.be/WlRKVl8mGbg?si=RktiuclMzDjyKxSV) [TW](https://www.youtube.com/watch?v=Qwqj0w0819E&t=134s) 
