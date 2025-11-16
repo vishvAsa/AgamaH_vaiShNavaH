@@ -230,30 +230,56 @@ and is installed in the *divya maṅgala vigraha* (idol) made of stone or metal 
 [^245_6]: Vimanarchana kalpa, 82 patalaha.
 
 This is the essence of *sākāra ārādhana*—form-based worship. Accordingly, the *āgamic* system asserts that those engaged in worship must possess profound *Vedānta jñāna*, mastery over the disciplines of *aṣṭāṅga yoga*, the ability to hold the *Paramātma* in their mind with unwavering devotion, and a disciplined understanding of Vedic *mantras*.
+
 Hence, performing the duties of a temple priest (*arcaka*) is not merely a task of adorning the *vigraha* (idol). It is the practical application of a deeply contemplative path prescribed in the Upaniṣads—a path that unites knowledge, devotion, and divine service (*kaimkarya*).
 
 ## Vaikhānasa View of Mokṣa: Synthesizing Vedic and Āgamic Insights
 The concept of the *saguṇa-nirguṇa tattva*—the dual nature of the Supreme as both with and without attributes—is not confined to the temple-centered rituals of the Āgamas alone. It finds a prominent place in the *Kalpasūtra* of the Vaikhānasa tradition, which offers a comprehensive exposition of Vedic life.
 
 ### The Vaikhānasa Kalpasūtra states
-> "अथाऽग्नौ नित्यहोमान्ते विष्णोर्नित्यार्चा सर्वदेवार्चा भवति। अग्निर्वै देवानामवमः विष्णुः परमः तदन्दरेण सर्वा अन्यादेवताः इति ब्राह्मणम्। तस्मद्गहे परमं विष्णुं प्रतिष्ठाप्य सायं प्रातर्होमान्ते अर्चयति । यज्ञेषु विहीनं तत्सम्पूर्ण भवद्विजातिरतन्द्रितो नित्यं गृहे देवायतने वा भक्त्या भगवन्तं नारायणमर्चयेत्। तद्विष्णोः परमं पदं गच्छतीति विज्ञायते । “7 [^245_7]
+> "अथ अग्नौ नित्यहोमान्ते  
+> विष्णोर् नित्यार्चा सर्व-देवार्चा भवति।  
+> 
+> > अग्निर् वै देवानाम् अवमः,  
+> विष्णुः परमः  
+> तद्-अन्तरेण सर्वा अन्या देवताः  
+> 
+> इति ब्राह्मणम्।  
+> तस्माद् गृहे परमं विष्णुं प्रतिष्ठाप्य  
+> सायं प्रातर्होमान्ते अर्चयति।  
+> यज्ञेषु विहीनं तत् सम्पूर्णं भवति।  
+> द्विजातिर् अतन्द्रितो नित्यं  
+> गृहे देवायतने वा  
+> भक्त्या भगवन्तं नारायणम् अर्चयेत्।  
+> तद् विष्णोः परमं पदं गच्छतीति विज्ञायते। [[P7]]" [^245_7]
+
+[^245_7]: Vaikhanasa kalpa sutram, 4 prashna.
+
 
 These statements clearly affirm that *mokṣa* may be attained by worshipping Viṣṇu daily in the *vigraha* (idol) form installed in one's home, especially after completing daily *yajñas* such as *vaiśvadeva*. This interpretation aligns with the deeper meaning of the Brāhmaṇa portions of the Vedas.
-[^245_7]: Vaikhanasa kalpa sutram, 4 prashna.
 
 Even without performing elaborate temple worship, a Vaikhānasa *brāhmaṇa*—by living according to the *Kalpasūtra* and adhering to the principles of *varṇāśrama dharma*—can attain *mokṣa* through regular worship of Viṣṇu at home. For this reason, worship of Viṣṇu is also enjoined even for those in the *sannyāsa āśrama*.
 
-### The Kalpasūtra further declares
-> “सगुणे ब्रह्मणि बुद्धिं निवेश्य पश्चान्निर्गुणं ब्रह्माश्रित्य मोक्षे नित्यं यत्नं कुर्यादिति विज्ञायते । "
+The Kalpasūtra further declares
 
-This verse indicates a structured path to liberation in this very life. According to this principle:
+> “सगुणे ब्रह्मणि बुद्धिं निवेश्य  
+> पश्चान् निर्गुणं ब्रह्माश्रित्य  
+> मोक्षे नित्यं यत्नं कुर्याद्  
+> इति विज्ञायते । "
+
+This verse indicates a structured path to liberation in this very life. According to this principle:  
+
 “*सगुणे ब्रह्मणि बुद्धिं निवेश्य*” – The aspirant must first fix the mind on the *saguṇa*, personal form of Brahman—Lord Viṣṇu. One should visualize His auspicious features: the conch and discus, the crown, curly hair, necklace, Kaustubha gem, Śrīvatsa mark, a face radiant like the full moon, lotus-like eyes, yellow garments, and a crystal-pure body. This divine form of Nārāyaṇa should be held firmly in meditative focus.
+
 “*निर्गुणं ब्रह्माश्रित्य*” – Subsequently, the aspirant should ascend from the *saguṇa* form into the contemplation of *nirguṇa* Brahman—the radiant, formless, stainless, infinite, all-pervasive Absolute; accessible through the Omkāra, beyond all qualities, unknowable by ordinary means, and of the nature of supreme bliss.
 
 ### The yogin who follows this path can attain mokṣa in this very life
 That said, the Vaikhānasa community adopts temple worship (*ālaya-ārādhanā*) not merely for personal liberation but as a collective effort for the upliftment of all devotees.
 [[P245]]
-The *Ānanda Saṁhitā*, a revered Vaikhānasa text attributed to Sage Marīci, clearly enjoins that all devotees—irrespective of caste—are eligible to receive Viṣṇu *dīkṣā* from a qualified *ācārya*. The compassionate role of the teacher is emphasized as one who rescues the disciple from the ocean of *saṁsāra* and initiates him into the path of *bhakti* and *mokṣa* through the formal ritual of consecration, marked by the imprinting of the Śaṅkha and Cakra on the arms of the disciple. The text declares:
+
+The *Ānanda Saṁhitā*, a revered Vaikhānasa text attributed to Sage Marīci, clearly enjoins that all devotees—irrespective of caste—are eligible to receive Viṣṇu *dīkṣā* from a qualified *ācārya*. 
+
+The compassionate role of the teacher is emphasized as one who rescues the disciple from the ocean of *saṁsāra* and initiates him into the path of *bhakti* and *mokṣa* through the formal ritual of consecration, marked by the imprinting of the Śaṅkha and Cakra on the arms of the disciple. The text declares:
 
 > आचार्यश्शिष्यं आहूय ब्राह्मणं क्षत्रियं तथा । वैश्यं वापि तथा शूद्रं मा भैषीरिति च ब्रुवन्॥
 संसारार्णवमग्नं त्वामुद्धरिष्याम्यसंशयः । इत्युक्त्वा श्रीपतिं ध्यान्य नित्यार्चनविधानतः ॥
