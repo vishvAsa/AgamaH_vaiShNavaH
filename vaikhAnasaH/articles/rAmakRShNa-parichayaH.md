@@ -236,7 +236,8 @@ Hence, performing the duties of a temple priest (*arcaka*) is not merely a task 
 ## Vaikhānasa View of Mokṣa: Synthesizing Vedic and Āgamic Insights
 The concept of the *saguṇa-nirguṇa tattva*—the dual nature of the Supreme as both with and without attributes—is not confined to the temple-centered rituals of the Āgamas alone. It finds a prominent place in the *Kalpasūtra* of the Vaikhānasa tradition, which offers a comprehensive exposition of Vedic life.
 
-### The Vaikhānasa Kalpasūtra states
+The Vaikhānasa Kalpasūtra states
+
 > "अथ अग्नौ नित्यहोमान्ते  
 > विष्णोर् नित्यार्चा सर्व-देवार्चा भवति।  
 > 
@@ -273,7 +274,8 @@ This verse indicates a structured path to liberation in this very life. Accordin
 
 “*निर्गुणं ब्रह्माश्रित्य*” – Subsequently, the aspirant should ascend from the *saguṇa* form into the contemplation of *nirguṇa* Brahman—the radiant, formless, stainless, infinite, all-pervasive Absolute; accessible through the Omkāra, beyond all qualities, unknowable by ordinary means, and of the nature of supreme bliss.
 
-### The yogin who follows this path can attain mokṣa in this very life
+The yogin who follows this path can attain mokṣa in this very life.
+
 That said, the Vaikhānasa community adopts temple worship (*ālaya-ārādhanā*) not merely for personal liberation but as a collective effort for the upliftment of all devotees.
 [[P245]]
 
@@ -295,24 +297,31 @@ These verses beautifully illustrate the solemn process of Viṣṇu *dīkṣā*.
 After invoking and worshipping Śrīpati (Viṣṇu) with devotion, and meditating upon the guru lineage (*guru-paramparā*), the *ācārya* imprints the Śaṅkha and Cakra upon the disciple's arms using sacred materials such as mud and sandalwood paste, while chanting the corresponding *mantras*.
 
 The disciple is then instructed to declare:
-> "अन्तेवासी हरेश्चक्रं धारयामि"
+
+> "अन्तेवासी हरेश्चक्रं धारयामि"  
 “तथैव च हरेः शङ्खं धारयामि”
 
 —Symbolizing his formal affiliation to the Lord.
+
 Ultimately, the devotee rises, bows to the *ācārya*, and proclaims with full conviction:
 
-> "कृतार्थोऽहं कृतार्थोऽहं कृतार्थोऽहं न संशयः "8 [^246_8]
+> "कृतार्थोऽहं कृतार्थोऽहं  
+> कृतार्थोऽहं न संशयः "8 [^246_8]
 
-("I am fulfilled, I am fulfilled, I am fulfilled—without any doubt.")
+> ("I am fulfilled, I am fulfilled, I am fulfilled—without any doubt.")
+
 [^246_8]: Ananda samhitha, 11 adhyaya.
 
 According to this text, the devotee who approaches the temple must first be initiated into Viṣṇu-*dīkṣā*. Thereafter, the priest is to instruct the devotee in the dual nature of the Supreme (*sakala-niṣkala*), the nature of *prakṛti*, the essential identity of the individual *ātma*, and the doctrine of *karma*. Following this, the devotee is gifted a *vigraha* (idol) for daily worship, and encouraged to lead a life of *dharma* while gradually cultivating an understanding of *mokṣa*.
+
 In this way, the methods of *upāsanā* prescribed in the Upaniṣads are made accessible to the lay devotee through the efforts of the Vaikhānasa temple priest. These duties are enjoined upon *arcakas* by the very *śāstra* they follow.
+
 Moreover, several of the subtle doubts and spiritual inquiries arising in the process of practice are addressed in detail in treatises such as the *Uttama Brahma Vidyāsāra*. Therefore, the teachings and procedures of the Vaikhānasa tradition are clearly rooted in Upaniṣadic authority, strengthened by rational inquiry, and proven suitable for practice. They possess the power to bring spiritual welfare (*śreyas*) to all of humanity.
 
 ## Conclusion
 The Vaikhānasa tradition, deeply rooted in the authority of the Vedas and the contemplative vision of the Upaniṣads, offers a holistic and spiritually inclusive pathway to *mokṣa*. By harmonizing the worship of the *vigraha* (idol) with the internal realization of the formless *Paramātma*, it integrates the *saguṇa* and *nirguṇa* aspects of the divine in a unique doctrinal synthesis. The methodical practices outlined in the *Kalpasūtra*, supported by the insights of sages such as Kaśyapa and Marīci, reveal that *mokṣa* is not merely a posthumous attainment reserved for ascetics or elite ritualists, but a state of liberation accessible to every sincere seeker through devotion (*bhakti*), disciplined living, and scripturally guided worship.
-In this light, the role of the Vaikhānasa *arcaka* is not confined to temple rituals but extends into spiritual instruction, guiding devotees in the path of *upāsanā* with philosophical clarity and devotional compassion. The legacy of this tradition—preserved in texts like the *Uttama Brahma Vidyāsāra*—demonstrates that the path to liberation, though ancient in origin, remains eternally relevant, universally accessible, and profoundly transformative.
+
+In this light, the role of the Vaikhānasa *arcaka* is not confined to temple rituals but extends into spiritual instruction, guiding devotees in the path of *upāsanā* with philosophical clarity and devotional compassion. The legacy of this tradition—preserved in texts like the *Uttama Brahma Vidyāsāra*— demonstrates that the path to liberation, though ancient in origin, remains eternally relevant, universally accessible, and profoundly transformative.
 
 ## References
 1. Uttamabramha vidya sara, TTD publications, 1999.
