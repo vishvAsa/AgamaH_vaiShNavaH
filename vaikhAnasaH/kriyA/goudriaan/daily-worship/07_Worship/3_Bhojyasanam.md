@@ -64,9 +64,9 @@ About this important act (*havis* must be considered the God's main meal), V onl
 [^93]:
      Thus AN, p. 11; the etymology is known also to the Purāṇas. Cf. also J. Gonda, Aspects of early Visnuism (Utrecht, 1954), p. 15.
 
-    तद॑स्य प्रि॒य म॒भि पाथो॑ अश्याम्॒ नरो॒ यत्र॑ देव॒ यवो॒ मद॑न्ति ।
+> तद॑स्य प्रि॒य म॒भि पाथो॑ अश्याम्॒ नरो॒ यत्र॑ देव॒ यवो॒ मद॑न्ति ।
 
-    उ॒रु॒क्र॒मस्य॒ स हि बन्धु॑रि॒त्था विष्णो᳚: प॒दे प॑र॒मे मध्व॒ उत्स॑: ॥३॥
+> उ॒रु॒क्र॒मस्य॒ स हि बन्धु॑रि॒त्था विष्णो᳚: प॒दे प॑र॒मे मध्व॒ उत्स॑: ॥३॥
 
 *tádasya priyámabhí pā́tho aśyām náro yátra devayávo mádanti ǀ*
 

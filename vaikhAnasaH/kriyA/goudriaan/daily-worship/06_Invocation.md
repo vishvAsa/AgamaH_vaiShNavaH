@@ -31,17 +31,17 @@ or "hymn of the Self". This is a rather obscure, but highly interesting hymn in 
 
 (*sakalaparamatma*). BK and BKh say: meditation on Visnu. This meditation should be regarded as a necessary completion of the concentration on Brahman (identical with Visnu's indivisible, *nişkala*, aspect) performed before (group C). God will now be requested to make a further step towards the human world by taking up His abode in the movable image, in His divisible aspect. Thus the world, represented by the priest, will be able to converse with Him. The priest now concentrates on Visnu as being golden of colour, with red mouth and red eyes, wearing a garment with the colour of a parrot's feathers, with four arms, and wearing all kinds of ornaments. This meditation is not described with a verse in *kavya *style, as is often the case in the *Agamas *and *Tantras*, but in regular slokas (these slokas resemble each other very much in those handbooks which are written in sloka). The element is old: it is found in similar wordings already in V, where it is the first act after 21. In KA this meditation is found immediately after the preparation of the priest described in group C, together with many additions.
 
-    ॐ सुवर्ण वर्णं रक्तास्यं रक्तनेत्रं पाणिपादम् सुखोद्वहं ।
+> ॐ सुवर्ण वर्णं रक्तास्यं रक्तनेत्रं पाणिपादम् सुखोद्वहं ।
 
-    शुकपिञ्छाम्बरधरं विष्णुं प्रणवात्मकमव्ययम् । (प्रणवस्यरूपिणम्)
+> शुकपिञ्छाम्बरधरं विष्णुं प्रणवात्मकमव्ययम् । (प्रणवस्यरूपिणम्)
 
-    किरीटहार केयूर प्रलम्ब यज्ञोपवीतिनम् ।
+> किरीटहार केयूर प्रलम्ब यज्ञोपवीतिनम् ।
 
-    श्रीवत्साङ्क्ं चतुर्बाहुं शङ्खचक्रधरं परमात्मानं परात्परम् ॥
+> श्रीवत्साङ्क्ं चतुर्बाहुं शङ्खचक्रधरं परमात्मानं परात्परम् ॥
 
-    दक्षिणेनैक हस्तेन भक्तानाम् अभयप्रदम् ।
+> दक्षिणेनैक हस्तेन भक्तानाम् अभयप्रदम् ।
 
-    वामेन अप्यन्न हस्तेन स्वकट्यां अवलम्बितम् ॥
+> वामेन अप्यन्न हस्तेन स्वकट्यां अवलम्बितम् ॥
 
 *oṃ suvarṇa varṇaṃ raktāsyaṃ raktanetraṃ pāṇipādam sukhodvahaṃ . \
 śukapiñchāmbaradharaṃ viṣṇuṃ praṇavātmakamavyayam . (praṇavasyarūpiṇam) \
@@ -107,15 +107,15 @@ This is done by means of a blade or bundle of *kuśa *grass. The water is made, 
 [^57]:
      Verse 2 of ato deva etc. (see 7). 
 
-    इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दं ।समू॑ळ्हमस्य पांसु॒रे ॥
+> इ॒दं विष्णु॒र्वि च॑क्रमे त्रे॒धा नि द॑धे प॒दं ।समू॑ळ्हमस्य पांसु॒रे ॥
 
-    आयातु भगवान् पुरुष: सगण: ससैन्य: सश्रीर्सहाय: स: देवताभिर् अनुमन्यताम् ॥
+> आयातु भगवान् पुरुष: सगण: ससैन्य: सश्रीर्सहाय: स: देवताभिर् अनुमन्यताम् ॥
 
-    यस्तु गरुड रधो नित्यं ऋषिभिश्चानुगामिनं तमजं पुण्डरीकाक्षं भगवन्तम् ओम् ॥
+> यस्तु गरुड रधो नित्यं ऋषिभिश्चानुगामिनं तमजं पुण्डरीकाक्षं भगवन्तम् ओम् ॥
 
 *āyātu bhagavān puruṣa: sagaṇa: sasainya: saśrīrsahāya: sa: devatābhir anumanyatām ॥ yastu garuḍa radho nityaṃ ṛṣibhiścānugāminaṃ tamajaṃ puṇḍarīkākṣaṃ bhagavantam om ॥*
 
-    विष्णुं॒ आवा॑हयामि । पुरुष॒मावा॑हयामि । सत्य॒मावा॑हयामि । अच्युत॒मावा॑हयामि । अनिरुद्ध॒मावा॑हयामि ।
+> विष्णुं॒ आवा॑हयामि । पुरुष॒मावा॑हयामि । सत्य॒मावा॑हयामि । अच्युत॒मावा॑हयामि । अनिरुद्ध॒मावा॑हयामि ।
 
 *viṣṇuṃ॒ āvā॑hayāmi । puruṣa॒māvā॑hayāmi । satya॒māvā॑hayāmi । acyuta॒māvā॑hayāmi । aniruddha॒māvā॑hayāmi ।*
 
@@ -150,7 +150,7 @@ tām ajām puṇḍarīka netrīm bhagavatīm śrīm .*
 
 bhumi
 
-    ॐ मे॒दिनी॑ दे॒वी व॒सुंध॑री स्या॒द् वसु॑धा दे॒वी वा॒सवी᳚ ।  \
+> ॐ मे॒दिनी॑ दे॒वी व॒सुंध॑री स्या॒द् वसु॑धा दे॒वी वा॒सवी᳚ ।  \
 ब्र॒ह्म॒ व॒र्च॒स: पि॑तृणाꣳश्रोत्रं॒ विष्णु॒र्मन: ॥
 
 आयातु भगवती हरिणी श्याम वर्णा स गणा स सैन्या \

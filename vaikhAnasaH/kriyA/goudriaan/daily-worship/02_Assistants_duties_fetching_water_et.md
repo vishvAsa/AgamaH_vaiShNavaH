@@ -25,13 +25,13 @@ A river, a pond or a pure well are unanimously allowed in this sequence as sourc
 
 *satridivam yā'bhūtsā brāhyamyaṃ toyaṃ abhigṛhṇāmi ॥*
 
-    ॐ भूर्भुव॒: सुव॑: । तथ्स॑वि॒तुर्वरे᳚ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि । धियो॒ यो न॑: प्रचो॒दया᳚त् ॥ 
+> ॐ भूर्भुव॒: सुव॑: । तथ्स॑वि॒तुर्वरे᳚ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि । धियो॒ यो न॑: प्रचो॒दया᳚त् ॥ 
 
     12.1 BP: meditate on the water as being the Ganges. 
 
-    इ॒मं मे॑ गंगे यमुने सरस्वति॒ शुतु॑द्रि॒ स्तोमं॑ सचता॒ परु॒ष्ण्या ।
+> इ॒मं मे॑ गंगे यमुने सरस्वति॒ शुतु॑द्रि॒ स्तोमं॑ सचता॒ परु॒ष्ण्या ।
 
-    अ॒सि॒क्न्या म॑रुद्वृधे वि॒तस्त॒यार्जी॑कीये शृणु॒ह्या सु॒षोम॑या ॥
+> अ॒सि॒क्न्या म॑रुद्वृधे वि॒तस्त॒यार्जी॑कीये शृणु॒ह्या सु॒षोम॑या ॥
 
     12.2 BK: the water should not be taken in the neighbourhood of an outcast's dwelling. 
 
@@ -48,9 +48,9 @@ The pot is covered with a cloth (BK, KA) or linen (BP), and the assistant puts i
 [^28]:
      R.V. 10,128,1; 7B. 2,4,3,2, etc.
 
-    अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे । यो गो॒जिद्॑ ध॒नजिद्॑ अश्व॒जिद्य: । 
+> अ॒र्वाञ्च॒मिन्द्र॑म॒मुतो॑ हवामहे । यो गो॒जिद्॑ ध॒नजिद्॑ अश्व॒जिद्य: । 
 
-     इ॒मं नो॑ य॒ज्ञं वि॑ह॒वे जु॑षस्व । अ॒स्य कु॑र्मो हरिवो मे॒दिनं॑ त्वा ॥
+> इ॒मं नो॑ य॒ज्ञं वि॑ह॒वे जु॑षस्व । अ॒स्य कु॑र्मो हरिवो मे॒दिनं॑ त्वा ॥
 
     13.1 Then a circumambulation is made around the temple, accompanied by all kinds of music. 
 
@@ -96,11 +96,11 @@ Mantra: *dharāsu saptasu ca manasesu sarassaritsu paripūritsu / apo 'bhigrhṇ
 [^32]:
       VMP on *Grhyasutra *1,3 (translation by Caland, p. 6, n. 7). Cf. Baudhayana Grhya parisistasutra 2,13 (ed. Harting, see Introduction, n. 4): imã apah (säntah, MS. D) siváh sivatamah pütüb patatama medkyä mediyatama argeyäs tä jurantäre prati grhyanları prutigphpätu bhagaván mahāvisyur visyave namah and Vimarsini, commen tary on Narayana's *Tantrosamuccaya*, 7, 27ff. (a work on temple worship hailing from Kerala): ima apah sind zanta jabhay Judáší ca nirmalah parantė ištakiś caiva pet zaryaiya raśmibhi 
 
-    इ॒दं आप॑श्शि॒वा: शि॒वत॑मा, शा॒न्ता: शा॒न्तत॑मा॒ शुभा॒: शुभ॑तमा: । 
+> इ॒दं आप॑श्शि॒वा: शि॒वत॑मा, शा॒न्ता: शा॒न्तत॑मा॒ शुभा॒: शुभ॑तमा: । 
 
-     पू॒ता: पू॒तत॑मा॒: पुण्या॒: पुण्य॑तमा॒ मेध्या॑: मेध्य॑तमा अमृता॑: अ॒मृत॑रसाः । 
+> पू॒ता: पू॒तत॑मा॒: पुण्या॒: पुण्य॑तमा॒ मेध्या॑: मेध्य॑तमा अमृता॑: अ॒मृत॑रसाः । 
 
-     पू॒ता ब्र॑ह्म प॒वित्रे॑ण पू॒ता सूर्य॑स्य र॒श्मिभि॑: ॥
+> पू॒ता ब्र॑ह्म प॒वित्रे॑ण पू॒ता सूर्य॑स्य र॒श्मिभि॑: ॥
 
 16.1 BP here suggests holding a *punyaha *ceremony according to the (*Vaikhanasa) Sutra. *[^33]
 
@@ -114,7 +114,7 @@ He does so with a "wiper" (marjani). The wiper has Jyestha as its presiding deit
 [^34]:
      VMP 8,14; TS. 1,1,5,1 etc.
 
-    अव॑धूत॒ꣳ॒ रक्षो अव॑धूता॒ अरा॑तय: । अव॑धूत॒ꣳसो᳚स्तु॒यो᳚ स्मान् द्वेष्टि॒ यं च॑ व॒यं द्वि॒ष्म: ॥
+> अव॑धूत॒ꣳ॒ रक्षो अव॑धूता॒ अरा॑तय: । अव॑धूत॒ꣳसो᳚स्तु॒यो᳚ स्मान् द्वेष्टि॒ यं च॑ व॒यं द्वि॒ष्म: ॥
 
 ## 18 HE SMEARS WITH COWDUNG 
 
@@ -126,9 +126,9 @@ AND SPRINKLES WITH COWS' URINE.K, BK: he smears, then sprinkles. A, BY: he sprin
 [^36]:
      A nominative plural instead of the accusative plural apas. 
 
-    आशासु सप्तस्वपि क॑म्जरे॒ खा॒ आप॑स् सम॒ग्रा स्स॑मु॒दाव॑हामी ॥
+> आशासु सप्तस्वपि क॑म्जरे॒ खा॒ आप॑स् सम॒ग्रा स्स॑मु॒दाव॑हामी ॥
 
-    सोमाग्नि सूर्यामृतपु॑ष्करी॒णा॒ माप॑स्समा॒वाह्य॒पुर॑स्करिष्ये  । 
+> सोमाग्नि सूर्यामृतपु॑ष्करी॒णा॒ माप॑स्समा॒वाह्य॒पुर॑स्करिष्ये  । 
 
 ## 19 HE CLEANS THE VESSELS 
 
@@ -140,13 +140,13 @@ with the formula *a må vajasya*. This is not found in A and K. The formula is a
 [^38]:
      RV. 7,56,12; TBr. 2,8,5,5; etc. 
 
-    आ मा॒ वाज॑स्य प्रस॒वो जगम्या॒दा द्यावा॑पृथि॒वी वि॒श्वश॑म्भू ।
+> आ मा॒ वाज॑स्य प्रस॒वो जगम्या॒दा द्यावा॑पृथि॒वी वि॒श्वश॑म्भू ।
 
-    आ मा॑ गन्तां  पि॒तरा॑ मा॒तरा॒चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात् ॥
+> आ मा॑ गन्तां  पि॒तरा॑ मा॒तरा॒चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात् ॥
 
-    शुची॑ वो ह॒व्या म॑रुतः॒ शुची॑नां॒ शुचिं॑ हिनोम्यध्व॒रं शुचि॑भ्यः । 
+> शुची॑ वो ह॒व्या म॑रुतः॒ शुची॑नां॒ शुचिं॑ हिनोम्यध्व॒रं शुचि॑भ्यः । 
 
-    ऋ॒तेन॑ स॒त्यमृ॑त॒साप॑ आयं॒छुचि॑जन्मानः॒ शुच॑यः पाव॒काः ॥
+> ऋ॒तेन॑ स॒त्यमृ॑त॒साप॑ आयं॒छुचि॑जन्मानः॒ शुच॑यः पाव॒काः ॥
 
 19.1 The offerings are ordered to be cooked (A, M, BY). One of the assistants specializes in cooking (cf. 0.4). 
 
@@ -156,7 +156,7 @@ with the formula *a må vajasya*. This is not found in A and K. The formula is a
 
 *Nirmalya *are the flowers left over on the pedestal from the worship of the preceding day. This element is mentioned unanimously, even by V (in V it is the first thing to be done after 7). Before removal, the flowers are cleaned (K) with the formula *naśyanti jagatam*, mentioned by K, BK, BP; VMP 8, 16* naśyanti jagatam Itayo nirastah paravasus saha papmana *"the diseases of the world are destroyed, thrown away is the force which keeps off wealth, together with the evil". 
 
-    नश्यन्ति जगतं इति देवस्य निर्माल्यं संशोध्य ॥ 
+> नश्यन्ति जगतं इति देवस्य निर्माल्यं संशोध्य ॥ 
 
 नश्य॑न्ति जग॑ता मी॒तयो॒ निर॑स्त: परा॒वसु॑ स: पा॒प्मना॑᳚ ॥
 
@@ -164,9 +164,9 @@ with the formula *a må vajasya*. This is not found in A and K. The formula is a
 
 20.1 The removal is done from the east, clockwise, to the northeast. It is accompanied by the mantra *aham evedam* (A, K, BKh, BP). VMP 8, 16 *aham evedam kariṣyāmi vibhoh kartum nidhāsyati | kariṣyāmy atra yat kañcit tan me devo 'numanyatām* "I will do this for the Lord; [He] will appoint me to do it; everything which I shall do here, that the God must concede me." M, BY prescribe* pūtas tasya*, which however belongs to 21. 
 
-    अ॒हंमे॒वेदनं क॑रिश्यामि वि॒भो: क॒र्तुं नि॑धास्यति ।
+> अ॒हंमे॒वेदनं क॑रिश्यामि वि॒भो: क॒र्तुं नि॑धास्यति ।
 
-    क॑रिष्या॒ म्यत्र॒ यत्कञ्चि॒त् तन्मे॑ दे॒वोऽनु॑मन्यताम् ॥
+> क॑रिष्या॒ म्यत्र॒ यत्कञ्चि॒त् तन्मे॑ दे॒वोऽनु॑मन्यताम् ॥
 
 ## 21 HE CLEANS THE PLACES OF WORSHIP 
 
@@ -178,17 +178,17 @@ with the formula *a må vajasya*. This is not found in A and K. The formula is a
 [^40]:
      TĀR. 10,1,5 etc.goudriaan wrote the wrong gayatri 
 
-    पूतस्तस्य पा॒रे भुव॑नस्य॒ मध्ये॒ नाक॑स्य पृ॒ष्ठे म॑ह॒तो महीयान् । 
+> पूतस्तस्य पा॒रे भुव॑नस्य॒ मध्ये॒ नाक॑स्य पृ॒ष्ठे म॑ह॒तो महीयान् । 
 
-    भूरग्नये॑ च पृथि॒व्यै च॑ मह॒ते च॒ नम:
+> भूरग्नये॑ च पृथि॒व्यै च॑ मह॒ते च॒ नम:
 
-    भुवो॑ वा॒यवे॑ चा॒न्तरि॑क्षाय च मह॒ते च॒ नम:
+> भुवो॑ वा॒यवे॑ चा॒न्तरि॑क्षाय च मह॒ते च॒ नम:
 
-    सुव॑रादि॒त्याय॑ च दि॒वे च॑ मह॒ते च॒ नम:
+> सुव॑रादि॒त्याय॑ च दि॒वे च॑ मह॒ते च॒ नम:
 
-    भूर्भुव॒स्सुव॑श्च॒न्द्रम॑से॒ च॒ नक्ष॑त्रेभ्यश्च दि॒ग्भ्यश्च॑ मह॒ते च॒ नम:
+> भूर्भुव॒स्सुव॑श्च॒न्द्रम॑से॒ च॒ नक्ष॑त्रेभ्यश्च दि॒ग्भ्यश्च॑ मह॒ते च॒ नम:
 
-    ॐ भू: । ॐ भुव: । ॐꣳ सुव: ॥
+> ॐ भू: । ॐ भुव: । ॐꣳ सुव: ॥
 
 *oṃ bhū: । oṃ bhuva: । oṃꣳ suva: ॥*
 
@@ -196,15 +196,15 @@ with the formula *a må vajasya*. This is not found in A and K. The formula is a
 
 uttering the names of the Pañca- mürti or Five Manifestations: Visnu, Puruşa, Satya, Acyuta, and Aniruddha, all in the dative and ending with *namah*. The authorities also prescribe the *visnugayatri .*
 
-    ॐ ना॒रा॒य॒णाय॑ वि॒द्महे॑ वासुदे॒वाय॑ धीमहि । तन्नो॑ विष्णु: प्रचो॒दया॑᳚त् ॥ 
+> ॐ ना॒रा॒य॒णाय॑ वि॒द्महे॑ वासुदे॒वाय॑ धीमहि । तन्नो॑ विष्णु: प्रचो॒दया॑᳚त् ॥ 
 
-    विष्ण॑वे॒ नम॑: । पुरु॑षाय॒ नम॑: । स॒त्याय॒ नम॑: । अच्यु॑ताय॒ नम॑: । अनिरु॑द्धाय॒ नम॑:॥
+> विष्ण॑वे॒ नम॑: । पुरु॑षाय॒ नम॑: । स॒त्याय॒ नम॑: । अच्यु॑ताय॒ नम॑: । अनिरु॑द्धाय॒ नम॑:॥
 
 ## 23 HE WORSHIPS VISVAKSENA WITH THE REMNANTS (*nirmalya*). 
 
 During this, Vişvaksena is to be addressed with his *mürtimantras* or manifestation names: Visvaksena, Sänta, Hara and Amita. This element is prescribed by all authorities except V, although K remarks that the tradition is due to Bhrgu.
 
-    विष्व॑क्सेनं॒ प्रप॑द्ये । शान्तं॒ प्रप॑द्ये । हरं॒ प्रप॑द्ये । अमितं॒ प्रप॑द्ये ॥
+> विष्व॑क्सेनं॒ प्रप॑द्ये । शान्तं॒ प्रप॑द्ये । हरं॒ प्रप॑द्ये । अमितं॒ प्रप॑द्ये ॥
 
  23.1 According to M and BY, he should also worship other attendant deities with the remnants. According to BKh, the *nirmalyas* of the other images are laid in the first courtyard with the words: * bhaktānām pāpanāśarthaṃ dadāmi *"I give them for destruction of the devotees' evil." BP: other remains may be thrown into the water at a pure spot. 
 
@@ -214,6 +214,6 @@ During this, Vişvaksena is to be addressed with his *mürtimantras* or manifest
 
 23.2 BP and KA now discuss the preparation of the vessels and the invocation of the presiding deities. Cf. below, 48. These texts, and also AN, p. 40, lay stress on the fact that a bell should be rung during worship and that musical instruments should be played: this causes the gods to appear and the demons to go away; and Hari is a lover of sweet music (AN). 
 
-    आगमार्धन्तु देवानाम् गमनार्धन्तु रक्षसाम् । 
+> आगमार्धन्तु देवानाम् गमनार्धन्तु रक्षसाम् । 
 
-    घन्टा नादम् करोमद्य देवाराधन कर्मणि ॥
+> घन्टा नादम् करोमद्य देवाराधन कर्मणि ॥

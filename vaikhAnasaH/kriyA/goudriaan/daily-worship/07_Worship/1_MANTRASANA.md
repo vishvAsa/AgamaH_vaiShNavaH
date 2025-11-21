@@ -12,9 +12,9 @@ title = "1 MANTRASANA"
 [^60]:
      See 2
 
-    प्र तद्विष्णुः॑ स्तवते वी॒र्या॑य मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः ।
+> प्र तद्विष्णुः॑ स्तवते वी॒र्या॑य मृ॒गो न भी॒मः कु॑च॒रो गि॑रि॒ष्ठाः ।
 
-    यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यंति॒ भुव॑नानि॒ विश्वा॑ ॥२॥
+> यस्यो॒रुषु॑ त्रि॒षु वि॒क्रम॑णेष्वधिक्षि॒यंति॒ भुव॑नानि॒ विश्वा॑ ॥२॥
 
 अ॒स्त्वा॒स॒नं शु॑भं लो॒के बृ॒सी शुद्ध॑स्तपोमयम् ।  \
 	तप॑श्चायुस्त॑था यो॒ग म॒स्तु ते॑ पर॒मं प॒दम् ॥ \
@@ -28,17 +28,17 @@ title = "1 MANTRASANA"
 
 by means of the formula *viśvādhikānām jananadikartre dhatre tapoyajñasuvedamūrte survāgatam yatra tu tatra yasmat tat te padam sūribhis svāgatam te* (VMP 8,18). This is a good specimen of Vaikhānasa poetic style. Even if the endings of -*kartre* and *dhatre *in the first half are considered as corruptions of the vocatives -*kartar* and *dhatar*, the whole verse does not abound in clarity. What might have been meant is this: "O Creator of all excellent ones (-*adika* = adhika-?), O primeval Creator, O Institutor, O Personification of ascetical energy, sacrifice, and the excellent Veda; that place is yours, from which a cordial welcome is given to You by the officiants." The element is non- existent in V and K.A. 
 
-    वि॒श्वा॒दि॒कानां॒ जन॑नादि॒कर्त्रे॒ धात्रे॒ तपो॑ यज्ञ॒ सुवे॑द मू॒र्ते । 
+> वि॒श्वा॒दि॒कानां॒ जन॑नादि॒कर्त्रे॒ धात्रे॒ तपो॑ यज्ञ॒ सुवे॑द मू॒र्ते । 
 
-    सु॒स्वा॒ग॒तं यत्र॑ तु॒ (तं) तत्र॒ यस्मा॒त् तत् ते॒ पदग्ꣳ॑ सू॒रिभि॒स् स्वाग॑तन्ते ॥
+> सु॒स्वा॒ग॒तं यत्र॑ तु॒ (तं) तत्र॒ यस्मा॒त् तत् ते॒ पदग्ꣳ॑ सू॒रिभि॒स् स्वाग॑तन्ते ॥
 
 ## 03  VIṢŅU'S PERMISSION IS ASKED
 
 Not in V, KA. The formula said is* mano 'bhimantă mānavas sudharmā yan mataram vacaso manasesu / amoghamoghum prativedavedas svakarm janānām anumanyatām idam* (VMP 8,18). This mantra, in which sound-play has a prominent role, is so obscure, that a translation is not ventured on here. The last words show that indeed permission is requested. 
 
-    म॒नो॒भि॒म॒न्ता मान॑वसु॒द्धर्मा॒ यन्॒ मातरं॒ वच॑सो॒ मान॑सेषु ।
+> म॒नो॒भि॒म॒न्ता मान॑वसु॒द्धर्मा॒ यन्॒ मातरं॒ वच॑सो॒ मान॑सेषु ।
 
-    अ॒मो॒घो॒मो॒घं प्रति॑वेद वेद॒ (वेद्य) स्वकं॒ जना॑ना॒म् अनुमन्यतां इदम् ॥
+> अ॒मो॒घो॒मो॒घं प्रति॑वेद वेद॒ (वेद्य) स्वकं॒ जना॑ना॒म् अनुमन्यतां इदम् ॥
 
 ## 04  WATER FOR WASHING THE FEET IS OFFERED
 
@@ -47,11 +47,11 @@ This is also prescribed by V. Two formulas are said:* trini padā*[^62] and* ind
 [^62]:
      Vs. 3 of ato deva etc. (see 7).
 
-    त्रीणि॑ प॒दा वि च॑क्रमे॒ विष्णु॑र्गो॒पा अदा᳚भ्यः । ततो॒ धर्मा॑णि धा॒रय॒न् ॥
+> त्रीणि॑ प॒दा वि च॑क्रमे॒ विष्णु॑र्गो॒पा अदा᳚भ्यः । ततो॒ धर्मा॑णि धा॒रय॒न् ॥
 
-    इ॒न्द्रो॑ऽभिम॒न्ता म॒नवो॒ वाय॑व॒श्चाप॑स्सम॒ग्रा अ॒भितो॒ यस्य॑ द॒द्यात् 
+> इ॒न्द्रो॑ऽभिम॒न्ता म॒नवो॒ वाय॑व॒श्चाप॑स्सम॒ग्रा अ॒भितो॒ यस्य॑ द॒द्यात् 
 
-    विष्णो॑ इ॒मान् वै᳚ष्ण॒वाग्ं स्त॑र्पयामि॒ प्रसी॑द दे॒वाधि॑क॒तेज॑ सैनम् ॥
+> विष्णो॑ इ॒मान् वै᳚ष्ण॒वाग्ं स्त॑र्पयामि॒ प्रसी॑द दे॒वाधि॑क॒तेज॑ सैनम् ॥
 
 60.1 A, K, BK, BKh say, that the water for the feet should be touched beforehand with the formula* tvam stri*. VMP 8,30* tvam stri tvam pumān asi tvam deva kumāra idam nadah kumāri | tvam jirnar tvam gacchasi tvam jato nīvāsir viśvatomukhaḥ* "You are woman, You are man, You, O God, are here a young man and (nadi?) there a young lady; You are the decrepit (one), you go...; You might take Your abode (in this water? the form *nīvāsir *is quite irregular), possessing faces on all sides." 
 
@@ -61,9 +61,9 @@ This is also prescribed by V. Two formulas are said:* trini padā*[^62] and* ind
 
 60.2 Only KA(V) now prescribes guest's gifts, accompanied by the formulas ā ma vājasya and trir devāh. See 66. 
 
-    आ मा॒ वाज॑स्य प्रस॒वो जगम्या॒दा द्यावा॑पृथि॒वी वि॒श्वश॑म्भू ।
+> आ मा॒ वाज॑स्य प्रस॒वो जगम्या॒दा द्यावा॑पृथि॒वी वि॒श्वश॑म्भू ।
 
-    आ मा॑ गन्तां  पि॒तरा॑ मा॒तरा॒चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात् ॥
+> आ मा॑ गन्तां  पि॒तरा॑ मा॒तरा॒चाऽऽमा॒ सोमो॑ अमृत॒त्वाय॑ गम्यात् ॥
 
 ##### 1 त्रिर्दे॒व: पृ॑थि॒वी मे॒षए॒ताम् विच॑क्रमे श॒तर्च॑सं महि॒त्वा
 
@@ -76,7 +76,7 @@ This water is brought to the image's right hand by means of stalks of kuśa gras
 [^63]:
       RV. 10,9,4; AV. (Paipp.) 1,1,1; TBr. 1,2,1,1; etc. 
 
-    शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवंतु पी॒तये॑ । शं योर॒भि स्र॑वंतु नः ॥
+> शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवंतु पी॒तये॑ । शं योर॒भि स्र॑वंतु नः ॥
 
 *śám no devī́rabhíṣṭaya ā́po bhavantu pītáye ǀ śám yórabhí sravantu naḥ ǁ*
 
@@ -91,7 +91,7 @@ This water is brought to the image's right hand by means of stalks of kuśa gras
 
 	तस्मा॒ अर॑ङ्गमाम व: यस्य॒ क्षया॑य॒ जिन्व॑थ । आपो॑ ज॒नय॑था च न: ॥
 
-    योगे॑योगे त॒वस्त॑रं॒ वाजे॑वाजे हवामहे । सखा॑य॒ इंद्र॑मू॒तये᳚ ॥ पूतस्तस्य पारे ॥
+> योगे॑योगे त॒वस्त॑रं॒ वाजे॑वाजे हवामहे । सखा॑य॒ इंद्र॑मू॒तये᳚ ॥ पूतस्तस्य पारे ॥
 
 ## 06  FLOWERS ARE OFFERED
 
@@ -103,9 +103,9 @@ Prescribed by V and all others. They all mention here the formula *tad viṣṇo
 [^66]:
      VMP 8,30. The formulas beginning with *ime *... or *imā *..., found in this and in the next elements, are very akin to those said during the pūjā described in *Baudhāyana Grhyaparisiștasūtra *(see n. 4).
 
-    तद्विष्णोः᳚ पर॒मं प॒दग्ꣳ सदा॑ पश्यंति सू॒रयः॑ । दि॒वी॑व॒ चक्षु॒ रात॑त॒ग॒ꣳ ॥
+> तद्विष्णोः᳚ पर॒मं प॒दग्ꣳ सदा॑ पश्यंति सू॒रयः॑ । दि॒वी॑व॒ चक्षु॒ रात॑त॒ग॒ꣳ ॥
 
-    इ॒मास्॒ सुमन॑स श्रे॒ष्ठा दि॒व्यपु॑ष्पाधि॒वासि॑त: । पू॒ता ब्र॑ह्मप॒वित्रे॑ण पू॒तास् सूर्य॑स्य र॒श्मिभि॑: ॥
+> इ॒मास्॒ सुमन॑स श्रे॒ष्ठा दि॒व्यपु॑ष्पाधि॒वासि॑त: । पू॒ता ब्र॑ह्मप॒वित्रे॑ण पू॒तास् सूर्य॑स्य र॒श्मिभि॑: ॥
 
 62.1 BP: worship Hari with the (twelve) names Keśava etc., or with 108 names, or with 1008, or with an endless number, for Hari has an endless number of names.[^67]
 
@@ -121,13 +121,13 @@ Prescribed by V and all others. They all mention here the formula *tad viṣṇo
 [^68]:
      Verse 6 of ato deva etc. (see 7).
 
-    तद्विप्रा᳚सो विप॒न्यवो᳚जा गृ॒वां सस्समिं᳚धते । विष्णो॒र्य त्प॑र॒मं प॒दग्ꣳ ॥
+> तद्विप्रा᳚सो विप॒न्यवो᳚जा गृ॒वां सस्समिं᳚धते । विष्णो॒र्य त्प॑र॒मं प॒दग्ꣳ ॥
 
 *tadviprāso vipanyavo jā gṛvāṃ sassamindhate | viṣṇoryat paramaṃ padagṃ ||*
 
-    इ॒मे ग॒न्धास् सु॒र॒भिनो॑ दि॒व्य ग॑न्धाधि॒वासि॑त: ।
+> इ॒मे ग॒न्धास् सु॒र॒भिनो॑ दि॒व्य ग॑न्धाधि॒वासि॑त: ।
 
-     पू॒ता ब्र॑ह्मप॒वित्रे॑ण पू॒तास् सुर्य॑स्य र॒श्मिभि॑: ॥
+> पू॒ता ब्र॑ह्मप॒वित्रे॑ण पू॒तास् सुर्य॑स्य र॒श्मिभि॑: ॥
 
 ## 08  INCENSE IS OFFERED
 
@@ -139,10 +139,10 @@ Prescribed by V and all others. They all mention here the formula *tad viṣṇo
 [^70]:
      TBr. 3,7,6,3
 
-    प॒रोमात्र॑या त॒नुवा॑ वृधान॒ नते॑महि॒त्व मन्व॑श्नुवन्ति । \
+> प॒रोमात्र॑या त॒नुवा॑ वृधान॒ नते॑महि॒त्व मन्व॑श्नुवन्ति । \
 उ॒भे ते॑ विद्म॒ रज॑सीपृथि॒व्या  विष्णो॑ देव॒ त्वं प॑र॒मस्य॑ विथ्से ॥५॥
 
-    बृह॒स्पति॒ स्सोम॑न्दधातु॒ बृह॒स्पति॑र्य॒ज्ञं द॑धातु । बृह॒स्पति॑वीतये॒ स्वाहा᳚ ॥
+> बृह॒स्पति॒ स्सोम॑न्दधातु॒ बृह॒स्पति॑र्य॒ज्ञं द॑धातु । बृह॒स्पति॑वीतये॒ स्वाहा᳚ ॥
 
 *bṛhaspatiḥ somam dadhātu bṛhaspatiḥ yajñaṃ dadhātu | bṛhaspati vītaye svāhā ||*
 
@@ -155,7 +155,7 @@ Given by all including V. There are two formulas: *vişnoh karmaṇi*[^71]* *"se
 
 	शु॒भ्रा ज्योति॑श्च च दे॒वानां॑᳚ ते॒जश्च॑ सतत-प्र॒भ: । 
 
-    प्र॒भा॒ऽस्करो महा ते॒जा॒ दी॒पो यं॑ प्रति॒गृह्य॑ताम् ॥ 
+> प्र॒भा॒ऽस्करो महा ते॒जा॒ दी॒पो यं॑ प्रति॒गृह्य॑ताम् ॥ 
 
 *śubhrā jyotiś ca devānāṃ tejaś ca satata-prabhaḥ prabhās-karo mahā-tejā ‘yaṃ pratigṛhyātām*
 
@@ -169,7 +169,7 @@ Given by all including V. There are two formulas: *vişnoh karmaṇi*[^71]* *"se
 [^73]:
      RV. 3,37,9 and 10; TS. 1,6,12,1; VMP 8,32; etc. 
 
-    त्रिर्दे॒व: पृ॑थि॒वी मे॒षए॒ताम् विच॑क्रमे श॒तर्च॑सं महि॒त्वा ।
+> त्रिर्दे॒व: पृ॑थि॒वी मे॒षए॒ताम् विच॑क्रमे श॒तर्च॑सं महि॒त्वा ।
 
 	प्रविष्णु॑रस्तु त॒वस॒स्तवी॑यान् त्वे॒षगꣳ ह्य॑स्य॒ स्थवि॑रस्य॒ नाम॑ ॥ ७॥
 
@@ -182,7 +182,7 @@ Given by all including V. There are two formulas: *vişnoh karmaṇi*[^71]* *"se
 [^74]:
      Respectively: RV. 10,121,1 etc.; see note on el. 16; TAr. 10,1,5 etc.; RV. 4,31,1, TS. 4,2,11,2 etc. All four are given by VMP in this place with the first words only. 
 
-    हि॒र॒ण्य॒ग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत् । \
+> हि॒र॒ण्य॒ग॒र्भः सम॑वर्त॒ताग्रे॑ भू॒तस्य॑ जा॒तः पति॒रेक॑ आसीत् । \
 स दा॑धार पृथि॒वीं द्यामु॒तेमां कस्मै॑ दे॒वाय॑ ह॒विषा॑ विधेम ॥
 
 *hi̱ra̱ṇya̱ga̱rbhaḥ sama̍varta̱tāgre̍ bhū̱tasya̍ jā̱taḥ pati̱reka̍ āsīt . \
@@ -204,7 +204,7 @@ sa dā̍dhāra pṛthi̱vīṃ dyāmu̱temāṃ kasmai̍ de̱vāya̍ ha̱viṣā
 
 Prescribed by all including V. The formula is as above (61). 
 
-    शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवंतु पी॒तये॑ । शं योर॒भि स्र॑वंतु नः ॥
+> शं नो॑ दे॒वीर॒भिष्ट॑य॒ आपो॑ भवंतु पी॒तये॑ । शं योर॒भि स्र॑वंतु नः ॥
 
 *śám no devī́rabhíṣṭaya ā́po bhavantu pītáye ǀ śám yórabhí sravantu naḥ ǁ*
 
@@ -218,11 +218,11 @@ Prescribed by all including V. The formula used is *iṣe tvā ūrje tvā*.[^76]
 [^77]:
      RV. 10,9,1; TBr. 3,9,7,5; etc.
 
-    आपो॒हिष्ठा म॑ योभु॒व॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हेरणा॑य॒ चक्ष॑से ॥ 
+> आपो॒हिष्ठा म॑ योभु॒व॒स्ता न॑ ऊ॒र्जे द॑धातन । म॒हेरणा॑य॒ चक्ष॑से ॥ 
 
-    यो व॑श्शि॒वत॑मो॒ रस: तस्य॑ भाजयते॒ह न॑: । उ॒श॒तीरि॑व मा॒तर॑: ॥
+> यो व॑श्शि॒वत॑मो॒ रस: तस्य॑ भाजयते॒ह न॑: । उ॒श॒तीरि॑व मा॒तर॑: ॥
 
-    तस्मा॒ अर॑ङ्गमाम व: यस्य॒ क्षया॑य॒ जिन्व॑थ । आपो॑ ज॒नय॑था च न: ॥
+> तस्मा॒ अर॑ङ्गमाम व: यस्य॒ क्षया॑य॒ जिन्व॑थ । आपो॑ ज॒नय॑था च न: ॥
 
 68.1 KA has added in its description a number of attendances during this bathing; thus shoes are put in front of the image, its teeth are cleaned, its tongue is cleaned (then KAV: its mouth is washed), it is smeared with sesamum oil, and rubbed with various fragrant products. These acts are accompanied by Vedic mantras. Cf. also 36.6-36.15.
 
@@ -235,9 +235,9 @@ Prescribed by all including V. The formula used is *iṣe tvā ūrje tvā*.[^76]
 
 Prescribed by all ex- cept V. The formula used is* mitras suparṇaḥ* (see 41).
 
-    मि॒त्र: सुप॒र्णश्चन्द्र॒ इन्द्रो॑ रु॒द्रस्त्वष्टा॒ विष्णु॑: सवि॒ता गोप॑ति॒स्त्वम् ।
+> मि॒त्र: सुप॒र्णश्चन्द्र॒ इन्द्रो॑ रु॒द्रस्त्वष्टा॒ विष्णु॑: सवि॒ता गोप॑ति॒स्त्वम् ।
 
-    त्वं विष्णु॑र्भू॒तानि॑ त॒ त्रासि॒ दैत्यां॒-स्त्वया॑वृतं॒ जग॒दुल्बे॑नग॒र्भ: ॥१२॥
+> त्वं विष्णु॑र्भू॒तानि॑ त॒ त्रासि॒ दैत्यां॒-स्त्वया॑वृतं॒ जग॒दुल्बे॑नग॒र्भ: ॥१२॥
 
 *mitraḥ suparṇaś candra indro rudras tvaṣṭā viṣṇuḥ savitā gopatis tvam |*
 

@@ -39,7 +39,7 @@ svāhā̎ sva̱dhā yacca̱ vaṣa̍ṭ̱ karoti̍ ru̱dra: pa̍śū̱nāṃ guh
 6)*dhā̱tā vi̍dhā̱tā pava̍na ssu̱parṇo̱ viṣṇu̍rvarā̱ho  raja̍nī̱ raha̍śca .  \
 bhū̱taṃ bha̍vi̱ṣyat kṛta vikrayaśca kāla̍krama̱stvaṃ pa̱rāmā̎kṣara̱ñca .. 6 ..*
 
-    ऋचो॒ल् यजूग॑ꣳशि प्रस॑वन्ति॒ वक्त्रा॒--त्सामा॑नि स॒म्राड्वसु॑रन्तरि॑क्षम् । \
+> ऋचो॒ल् यजूग॑ꣳशि प्रस॑वन्ति॒ वक्त्रा॒--त्सामा॑नि स॒म्राड्वसु॑रन्तरि॑क्षम् । \
 त्वं॒ य॒ज्ञ॒ने॒ता हुत॑भुग्वि॒भुश्च॑ रु॒द्र स्तथा॒दित्य॒गणा॑ वसु॒स्श्च ॥ ७ ॥
 
 *ṛco̱l yajūga̍gͫśi prasa̍vanti̱ vaktrā̱--tsāmā̍ni sa̱mrāḍvasu̍rantari̍kṣam . \

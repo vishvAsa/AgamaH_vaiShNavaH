@@ -19,7 +19,7 @@ The new elements described by the monographs are i.a. *pīṭharcanā*, *prāṇ
 
 The Brahman or suprapersonal unity of the cosmos is fixed in the heart, whence it protects the performer. The accompanying formula, according to VMP 8,14 *brahma brahmântardimā brahma pūtântarātmā brahmani brahmaniştho brahmagupto gupto 'ham asmi *"[I am] the Brahman, my inner Self is Brahman, the Brahman, my inner Self is pure; I exist in Brahman, abiding in Brahman, protected by Brahman, protected." To this, KAV adds the words: hṛdayāya namaḥ "honour, to the heart".
 
-    ॐ ब्रह्म ब्रह्मा᳚न्तरा॒त्मा ब्रह्मपूता᳚न्तरा॒त्मा ब्रह्म॑णि॒ ब्रह्म॑नि॒ष्ठो ब्रह्म॑गु॒प्तो॑ गु॒प्तो॑ऽहम॑स्मि ॥ हृदयाय नम: ॥
+> ॐ ब्रह्म ब्रह्मा᳚न्तरा॒त्मा ब्रह्मपूता᳚न्तरा॒त्मा ब्रह्म॑णि॒ ब्रह्म॑नि॒ष्ठो ब्रह्म॑गु॒प्तो॑ गु॒प्तो॑ऽहम॑स्मि ॥ हृदयाय नम: ॥
 
 24.1 BK: during *Brahmaṇyāsa *the priest sits in the lotus or brahman posture, with folded hands, bearing the *ūrdhvapundra *(Vișnuite mark on the forehead), upper garment, headdress, and ornaments. He should also bear a strainer (*pavitram*). BY: he should bow for the presiding deities of the Vişnuite marks (Keśava etc.) and assign the alphabet "as before" (no hint which place is referred to). This is a reference to the *matṛkānyāsa*, cf. the remarks above. 
 
@@ -27,29 +27,29 @@ The Brahman or suprapersonal unity of the cosmos is fixed in the heart, whence i
 
 The head is identified with heaven: *dyaur dyaur asi sarva ime prāṇās sthānava asan* (VMP 8,15) "you are the heaven, the heaven; all my life-breaths may be firm". KAV adds* sirase svāhā *"to the head, svāhā". The function of the *prāṇas *is probably that they have to stabilize the priest in his role as the *axis mundi*. 
 
-    द्यौर्द्यौर॑सि॒ सर्व॑ इ॒मे प्रा॒णास्था॒नव॑ आसन् ॥ शिरसे स्वाहा ॥ शिखे उद्वर्तयामि ।
+> द्यौर्द्यौर॑सि॒ सर्व॑ इ॒मे प्रा॒णास्था॒नव॑ आसन् ॥ शिरसे स्वाहा ॥ शिखे उद्वर्तयामि ।
 
 ## 26 HE TOUCHES HIS TUFT OF HAIR,
 
  and brings there the world of the gods with the following mantra (VMP 8,15): *śikhe udvartayāmi savedās samantrās sarpās sasomā devāḥ parivartayantam* "O hair-tuft, I cause to ascend; the gods, together with the Vedas, the mantras, the seers and Soma, should wind themselves around." KAV adds:* sikhāyai vauşat *"to the hair-tuft, *vauşat*". 
 
-    स वेदा᳚ स्समन्त्रा॒ स्सार्षा॒ स्ससोमा॑ दे॒वा: प॑रिव॒र्तय॑न्ताम् । शिखायै वषट् ॥
+> स वेदा᳚ स्समन्त्रा॒ स्सार्षा॒ स्ससोमा॑ दे॒वा: प॑रिव॒र्तय॑न्ताम् । शिखायै वषट् ॥
 
 ## 27 HE MAKES ARMOUR (*kavacam*) AROUND HIMSELF.
 
  Instead of *kavacam*, K and BK use the word rakṣā, "protection". This protection may be seen as an early instance of the *digbandhas *"obstructions of the regions of the compass", which are so well-known in Hindu ritual. The protection is effected by means of the formula* devānām ayudhaiḥ paribādhayāmi brahmaņo mantrair īśasyojasā bhṛgūnām angirasam tapasā sarvum ātanomi *(VMP 8,15) "I ward off by means of the weapons of the gods; by the formulas of Brahman, the overpowering force of Iśa, the asceticism of the Bhṛgus and Angirases I penetrate everything." KAV adds the words: *kavacāya hum* "to the armour, *hum*". There is no information about the gesture accompanying the mantra. According to Rangachari, The *Śrī Vaisnava Brahmans* (Madras, 1931), p. 134, the priest touches his shoulders. 
 
-    दे॒वाना॑म् आयु॒धै: परि॑बाधयामि ॥ ब्रह्म॑णो॒ मन्त्रै॒रीश॒स्तेज॑सा॒ ॥ कवचाय हुम् ॥
+> दे॒वाना॑म् आयु॒धै: परि॑बाधयामि ॥ ब्रह्म॑णो॒ मन्त्रै॒रीश॒स्तेज॑सा॒ ॥ कवचाय हुम् ॥
 
-    भृगू॑णा॒म् अङ्गि॑रसां॒ तप॑सा॒ सर्व॒मात॑नोमि ॥ नेत्रत्रयाय वौषट् ॥
+> भृगू॑णा॒म् अङ्गि॑रसां॒ तप॑सा॒ सर्व॒मात॑नोमि ॥ नेत्रत्रयाय वौषट् ॥
 
 27.1 An addition made by KA and BP: the priest constitutes a weapon (*astram*, KA), armour (*kavacam*, KAV) or obstruction of the regions of the sky (*dasadigbandha*, BP) by means of the *viṣṇugāyatri*. This element is clearly of a secondary character, as is shown also by the unoriginality of the mantra concerned. It is brought in here very probably under the influence of Saiva ritual (cf. Fausta Nowotny, "Das Pūjāvidhinirūpaņa des Trimalla",* Indo-Iranian *Journal, I, 1957, p. 115). After the *viṣṇugayatri*, KAV adds:* astrāya phat* "to the weapon, phat". 
 
-    ॐ ना॒रा॒य॒णाय॑ वि॒द्महे॑ वासु॒देवाय॑ धीमहि । तन्नो॑ विष्णु: प्रचो॒दया᳚त् ॥ अस्त्राय फट् ॥
+> ॐ ना॒रा॒य॒णाय॑ वि॒द्महे॑ वासु॒देवाय॑ धीमहि । तन्नो॑ विष्णु: प्रचो॒दया᳚त् ॥ अस्त्राय फट् ॥
 
 27.2 KA and KAV add another digbandha (called thus by KAV), accompanied by the vyāhṛti: *om bhûr bhuvas suvar om*. 
 
-    ॥ ॐ भू: भुव: सुव: ॐ॥ इति दिग्बन्ध: ॥ 
+> ॥ ॐ भू: भुव: सुव: ॐ॥ इति दिग्बन्ध: ॥ 
 
 *॥ oṃ bhū: bhuva: suva: oṃ॥ iti digbandha: ॥ *
 
@@ -60,7 +60,7 @@ AS BEING BORNE BY HIM IN HIS RIGHT AND LEFT HANDS. He does so by making the mudr
 [^42]:
      The assignment of the attributes of Viṣṇu to the priest's hands also in Rangachari, op. cit., p. 140, but with other formulas.
 
-    सु॒द॒र्श॒न म॒भिगृ॑ह्णामि ॥ रवि॑पा म॒भिगृ॑ह्णामि ॥
+> सु॒द॒र्श॒न म॒भिगृ॑ह्णामि ॥ रवि॑पा म॒भिगृ॑ह्णामि ॥
 
 28.1 Only BY suggests also meditation on other weapons, in order to protect oneself, as follows: the bow in front, the lance to the right, the mace behind, the sword to the left, the disc(?) above, Vāsuki (the King of serpents) below, and other weapons (*astrani*) in the intermediate directions. With the right hand one should make a sign of preservation with the words* viṣṇus tvām rakṣatu *"Visnu should protect you". 
 
@@ -68,9 +68,9 @@ AS BEING BORNE BY HIM IN HIS RIGHT AND LEFT HANDS. He does so by making the mudr
 
  This is done, according to BP, by means of their diagrams (*mandala*). The sun is assigned to the right eye with the formula *sūryo 'si sūryāntarātmā cakṣur asi sarvam asi sarvam dhehi *"You are the sun, whose inner Self is the sun; you are the eye, you are everything, establish everything." The moon is assigned to the left eye with the words *candro 'si yajño 'si yajñāyādhānam asi yajñāsya ghosad asi *"You are the moon, you are the sacrifice, you are the kindling of the sacred fire done for the sacrifice, you are the cow-seat of the sacrifice" (VMP 8,16). 
 
-    सूर्यो॑ऽसि॒ सूर्या᳚न्तरा॒त्मा चक्षु॑रसि॒ सर्व॑मसि॒ सर्वं॑ देहि ॥ Touch R eye
+> सूर्यो॑ऽसि॒ सूर्या᳚न्तरा॒त्मा चक्षु॑रसि॒ सर्व॑मसि॒ सर्वं॑ देहि ॥ Touch R eye
 
-    चन्द्रो॑सि य॒ज्ञो॑सि य॒ज्ञाया॒धान॑मसि य॒ज्ञस्य॑ घो॒शद॑सि ॥ Touch L eye
+> चन्द्रो॑सि य॒ज्ञो॑सि य॒ज्ञाया॒धान॑मसि य॒ज्ञस्य॑ घो॒शद॑सि ॥ Touch L eye
 
 ## 30 HE FIXES THE PRIMEVAL SYLLABLE (*adibija*) ON HIS HEART. 
 
@@ -108,9 +108,9 @@ This is called *karanyāsa *by BP.[^43] The five presiding deities of the finger
 [^46]:
      VMP 8,16; TBr. 2,8,8,9. 
 
-    अ॒न्तर॑स्मिन्नि॒मे लो॒का: अ॒न्तर्विश्व॑मि॒दं जग॑त् । 
+> अ॒न्तर॑स्मिन्नि॒मे लो॒का: अ॒न्तर्विश्व॑मि॒दं जग॑त् । 
 
-    ब्रह्मै॒व भू॒तानां॒ ज्येष्ठ᳚म् । तेन॒ को॑ऽर्हति॒ स्पर्धि॑तुम् ॥
+> ब्रह्मै॒व भू॒तानां॒ ज्येष्ठ᳚म् । तेन॒ को॑ऽर्हति॒ स्पर्धि॑तुम् ॥
 
 *a̱ntara̍sminni̱me lo̱kā: a̱ntarviśva̍mi̱daṃ jaga̍t .  \
 brahmai̱va bhū̱tānā̱ṃ jyeṣṭha̎m . tena̱ ko̍'rhati̱ spardhi̍tum ..*

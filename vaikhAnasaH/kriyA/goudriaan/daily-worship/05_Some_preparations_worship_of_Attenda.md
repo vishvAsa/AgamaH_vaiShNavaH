@@ -8,15 +8,15 @@ The movable image is now prepared for receiving the presence of the Lord Himself
 
 All authorities have this accompanied by the mantra *bhūr asi bhūḥ*. VMP 8,20 gives its complete text: *bhūr asi bhūḥ pratiṣṭhityai bhuvo 'si bhuvaḥ pratiṣṭhityai suvar asi suvaḥ pratiṣṭhityai bhūr bhuvas suvar asi suvaḥ pratiṣṭhityai | sānandas sarveṣām antarātmā bhava pūtaḥ pūtāntarātmā bhava punyah punyântaratma bhava brahma brahmantaratma bhava | vişnum pratiṣṭhāpayāmi *"You are the earth; *bhūḥ*, for stability; You are intermediate space; *bhuvah*, for stability; You are heaven; *suvah*, for stability...; be the joyous Inner Self of all; be pure, a pure Inner Self; be blessing, the blessing Inner Self; be Brahman, the Brahman which is the Inner Self; I install Vişnu."
 
-    भूर॑सि॒ भू: प्रति॑ष्टित्यै । भुवो॑ऽसि॒ भुव॒: प्रति॑ष्टित्यै । सुव॑र् असि॒ सुव॒: प्रति॑ष्टित्यै । 
+> भूर॑सि॒ भू: प्रति॑ष्टित्यै । भुवो॑ऽसि॒ भुव॒: प्रति॑ष्टित्यै । सुव॑र् असि॒ सुव॒: प्रति॑ष्टित्यै । 
 
-    भू: भुव॒: सुव॑रसि॒ सुव॒: प्रति॑ष्टित्यै ॥
+> भू: भुव॒: सुव॑रसि॒ सुव॒: प्रति॑ष्टित्यै ॥
 
-    सा॒न॒न्द: सर्वे॑षां अन्तरा॒त्मा भ॑व पू॒त: पूता᳚न्तरा॒त्मा भ॑व 
+> सा॒न॒न्द: सर्वे॑षां अन्तरा॒त्मा भ॑व पू॒त: पूता᳚न्तरा॒त्मा भ॑व 
 
-    पु॒ण्य: पुण्या᳚न्तरा॒त्मा भ॑व ब्र॒ह्मा᳚न्तरा॒त्मा भ॑व ॥
+> पु॒ण्य: पुण्या᳚न्तरा॒त्मा भ॑व ब्र॒ह्मा᳚न्तरा॒त्मा भ॑व ॥
 
-    ॐ विष्णुं प्रति॑ष्टापया॒मि । पुरुषं॒ प्रति॑ष्ठापयामि । सत्यं॒ प्रति॑ष्ठापयामि । अच्युतं॒ प्रति॑ष्ठापयामि । अनिरुद्धं॒ प्रति॑ष्ठापयामि ॥
+> ॐ विष्णुं प्रति॑ष्टापया॒मि । पुरुषं॒ प्रति॑ष्ठापयामि । सत्यं॒ प्रति॑ष्ठापयामि । अच्युतं॒ प्रति॑ष्ठापयामि । अनिरुद्धं॒ प्रति॑ष्ठापयामि ॥
 
 42.1 M says: if possible, the image should be bathed using the method of the bathing ceremony. This may be a reference to the acts as described under 36.1 ff., 39.1, or 40.3. BK remarks that, if one is unable to do the bathing mentioned before, one might make use of a mirror and bathe the reflection of the image; thus said Sätätapa. No further injunctions given. 
 
@@ -38,9 +38,9 @@ with water mixed with kusa blades and unhusked rice. This should only be accompa
 
 This cord is made of kuśa blades. The mantra used is the following (VMP 8,21): *samyuktam etat kzurate 'kaaram tu vyaktāvyaktam bhavate viśvam asmat | aniśa ātma badhyate bhoktṛbhāvād jäätvä devam mucyate sarvapāpaih *"here the imperishable is connected with the perishable; everything, revealed and unrevealed, originates from Him; the Self, when not autonomous, is bound by its position as an enjoyer; knowing God, it is released of all evils".
 
-    स॒म्यु॒क्तमे॒ तत् क्ष॒रते᳚ऽ क्षरन्तु व्य॒क्तावय्क्तं॒ भव॑ते॒  विश्व॑म॒स्मात् ।
+> स॒म्यु॒क्तमे॒ तत् क्ष॒रते᳚ऽ क्षरन्तु व्य॒क्तावय्क्तं॒ भव॑ते॒  विश्व॑म॒स्मात् ।
 
-    अनी॑श आ॒त्मा बध्य॑ते भोक्तृ॒ भा॒वाद् ज्ञात्वा दे॒वं मुच्य॑ते सर्वपा॒पै᳚: ॥
+> अनी॑श आ॒त्मा बध्य॑ते भोक्तृ॒ भा॒वाद् ज्ञात्वा दे॒वं मुच्य॑ते सर्वपा॒पै᳚: ॥
 
 46.1 BY, AN say: the blades of the cord are laid down with the tips in an eastern direction if the door is in the east or west; in a northern direction, if the door is in the north or south. BK, however, remarks that the blades should have the tips pointing in the direction of the movable image. The minor images and the images of the goddesses should also be connected in this way (BK). 
 
