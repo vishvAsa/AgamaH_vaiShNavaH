@@ -2166,7 +2166,7 @@ In all the cases where identity with A exists it is, in my opinion, most probabl
 
  In general, the Vaikhanasa method of performing devout temple worship in the description of the older handbooks can be characterized as elaborate, yet original and conservative; a real influx of new traditions, together with changes in the system, began in the descriptions of the school of Bhrgu, and continued in the monographs of the other schools (KA, KAV, AN). These new traditions show the influence of the Pan carātra and Śrīvaisnava schools, and of ideas fully developed in a Saiva and Šakta milieu; but at the same time the old traditions were maintained, as is shown by the fact that KA and KAV introduce a few other formulas from the Veda and in the order of the pūjā sometimes again rely on the description found in the Grhyasūtra. 
 
-
+## Appendices
 ###  SRAUTA ACHAMANAM 
 
 ऋ॒ग्वे॒द: प्री॑णातु । *ṛ̱gve̱da: prī̍ṇātu  \
@@ -2201,7 +2201,7 @@ In all the cases where identity with A exists it is, in my opinion, most probabl
 ###  12/24 NAMES OF KESHAVA , 12 NAMES OF SRI
 
 
-### Pauranika Achamanam पौराणिक आचमनम् 
+Pauranika Achamanam पौराणिक आचमनम् 
 
 
 
@@ -2511,7 +2511,7 @@ my head should be the sky, my belly the intermediate space; my feet have grown [
 [9] May I be the Self of all the gods, of all the hermits, the concretization of ascetical power and merit in this world. 
 
 
-###  *ANNASUKTAM*
+### ANNASUKTAM
 
 
 Anna suktam, Taittiriya Brahmana, 2nd Ashtaka, 8th anuvakam 
