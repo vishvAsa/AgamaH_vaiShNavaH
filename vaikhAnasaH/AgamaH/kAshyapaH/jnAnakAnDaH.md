@@ -1,6 +1,7 @@
 +++
 title = "ज्ञान-काण्डः"
 +++
+TODO: परिष्कार्यम्
 
 
 SRI VENKATESVARA ORIENTAL SERIES No. 12 
