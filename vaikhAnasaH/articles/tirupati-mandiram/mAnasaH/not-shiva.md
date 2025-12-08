@@ -2,19 +2,23 @@
 title = "Not shiva"
 +++
 
-As far as i know , based on every book i have read, and what i saw with my own eyes a few months ago , from just outside the Kulasekhara padi ( the last threshold) , i can say these things.
+As far as i know , based on every book i have read, and what i saw with my own eyes a few months ago , from just outside the Kulasekhara paDi ( the last threshold) , i can say these things.
+
 
 ## NO NAGABHARANAS
-There ARE NO NAGABHARANAS on the murthy . there are armlets, which have vertical spires , called saptaagni shika on the arms . 
+There ARE NO NAGABHARANAS etched on the murthy. There are armlets, which have vertical spires , called saptaagni shikha on the arms .   
+(The nagabharaNas commonly seen are merely external ornaments.)
 
 These are clearly visible on a Thursday darshanam, when the gold ornaments are removed and the original shila svarupam can be seen.
 
-## jaTA makuTa
+## jaTA
 (Based on what i have been told) he has beautiful locks of hair, till his shoulders . this is not any different from any other Vishnu murthy.  the confusion among people comes from similar sounding words. JATA JUTA and JATA MAKUTA.
 
 - jata juta is matted hair locks.
-- but JATA MAKUTA is a matted hair crown . the lord does NOT have a jata makuta, but a ATI-Uttama KIREETA MAKUTA, or a regal crown , for an Emperor.
- 
+- but JATA MAKUTA is a matted hair crown . 
+
+the lord does NOT have a jata makuta,  
+but a ATI-Uttama KIREETA MAKUTA, or a regal crown , for an Emperor.  
 His crown is called a Venu Karanabha crown ( or a tall conical bamboo shoot like crown).
 
 ## vaikhAnasa archanA
