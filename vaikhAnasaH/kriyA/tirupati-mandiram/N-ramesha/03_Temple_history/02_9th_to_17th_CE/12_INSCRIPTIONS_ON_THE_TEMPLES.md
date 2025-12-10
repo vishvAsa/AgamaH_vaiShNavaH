@@ -1,0 +1,6 @@
++++
+title = "12 INSCRIPTIONS ON THE TEMPLES"
++++
+
+The Tirumala Temple like others bears several inscriptions of considerable interest giving us full details about the temple. These along with others from neighbouring temples in lower Tirupati and Tiruchanur making a total of well over 1,000 furnish a continuous and authentic record of the transactions of the temple and its neighbourhood for the last seven or eight centuries. For example, we have full and complete information on the buildings and endowments and the numerous visits to the temple by the Vijayanagar rulers, especially, the emperors Krishnadevaraya and Achyutaraya. Amongst the great rulers of South India, Raja Raja Chola, from a late and incorrect copy of the inscription of the 16th year of his reign, is known to have been directly connected with the shrine of Tirumala. From earlier records found in the neighbourhood, like those of Dantivarman in Tiruchanur, it is possible to surmise that many of the more ancient inscriptions have disappeared beyond recovery, as a result of the restorations undertaken in the 13th century and later. However, the present inscriptions which number over 1000 if properly analysed give us a fairly continuous account of the history of the temple, and an attempt in this direction is made below. 
+

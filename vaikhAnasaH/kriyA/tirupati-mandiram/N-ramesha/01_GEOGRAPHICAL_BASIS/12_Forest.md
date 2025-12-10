@@ -1,0 +1,14 @@
++++
+title = "36 Forest"
++++
+
+Forests cover about 27.4 % of the total extent of the area of the Chittoor  district in which Tirumala lies. In view of conserving and increasing the  land under forests the Government has taken over several estate forest blocks  paying due compensations during the past one decade.  
+
+The floristic composition in the forests vary from dry mixed deciduous  to thorny scrub with occasional patches of dry evergreen growth and can  be assumed to have reached the climatic climax of the region. The forests  of Bhakarapet and Tirupati Ranges and these in their vicinity, mainly confined  to imposing Seshachalam hills were assumed to be part of Dandakaranya  of antiquity, as expounded in the famous epic Ramayana. Dandakaranya,  as implied in its name, was impregnable and was replete with a great variety  of birds and animals, besides its luxuriant and varied vegetative forms. Such  remarkable vanams are too far deteriorated physically, as to be easily  reclaimable, and in fact, tending to be an assemblage of bald and barren  mountains and hills.  
+
+The principal natural factors influencing the floristic composition and  its distribution are the locality factors inclusive of biotic factors The forests  of the tract present considerable variations in altitude, and these elevational  variations naturally entail local variations in soil moisture and climate and  influence the growth of the vegetation to some degree or other. The biotic  factors are manifested by fires, thefts, overgrazing and cultivation. The  frequency and intensity of fires have a direct bearing on the aspect and altitude  and they largely influence the composition of the forests at least in the ground  cover and lower canopy as crown fires are almost nil in the region.  
+
+The plateau forests are confined wholly to the high level plateau near  Tirumala and to places above the escarpment of Seshachalam hills in Bhakarapet  range. In a typical forest of this zone Engenia alternifolia forms nearly  80 percent of the crop. Shorea tumbaggaia is practically confined to the  hillocks and ridges, while Shorea talura is confined to more moist localities.  The associates of the above species are Terminalia Pallida, Buchanania  latifolia, Buchanania angustifolia.  
+
+Besides the natural and endemic species a number of exotic species have  been introduced by the forest department in plantations and afforestation schemes of the degraded areas. Notable among these species are Eucalyptus  hybrid,* Dalbergia sissco, Cassia Siamea, Prosopis cineraria, Acacia auriculiformes, Acacia senegal *and *Tecoma undulata.* Many exotic species notably  Guhmohar (*Delonix regia* ), *Peltophorum ferrugineum, Millingtonia hortensis,  Grevillia robusta *(silver oak) planted on some avenues and in some institutional compounds are coming up well. Avenues of neem and tamarind  are of common occurrence.  
+

@@ -1,0 +1,10 @@
++++
+title = "35 Flora"
++++
+
+The flora of the tract is a measure of the general state of its progress  on the whole, although the ecological succession is rather hampered by biotic  influences mostly. In spite of the heavy influence of a biotic nature the district  still presents unique flora to a botanical explorer. The climate, topography  and geology have played a great role in presenting the flora of the tract. The  climate is on the whole salubrious.  
+
+The gneissic formations occurring in Seshachalam and Tirupati Hills,  mostly carry the red sanders forests with its associates, the plateau portions  sandal, and the plain areas dry deciduous forests. In the Chamala, Mamandur  and Talakona Valleys, soil depth is more, and dry evergreen vegetation occurs.  In the crevices of rocks, Ficus species and other epiphytic species come up,  which help  in the process of breaking up of the rocks and their eventual  disintegration.  
+
+The rest of the country-side outside the hill ranges, i.e., the Reserve  Forest areas, presents a dry undulating landscape, more so in the western  upland taluks without crops of granite and quartzites. In between the uplands,  one comes across depressions caused by the numerous nallas that drain into  Bahuda, Satyavathi, Pincha, Palar, Swamamukhi, Kalyani, Talakona, Kusasthali,  Neeva etc. Often these streams are bundled to form small tanks from the  catchment area downwards under whose ayacut wet crops like paddy (*Oriza  sativa*) is sown. Along these wet fields and depressions one comes across  green patches of mesophytic type of flora like *Syzygium cuminii, Pongamia  glabra *and large trees of *Terminalia arjuna*. One also finds large trees of  mango (*Mangifera indica*) which are often planted, Phoenix sylvestris and a  number of grasses along water courses. The district is rich with tamarind  (*Tamarindus indica*) trees which are found along highways and in village  area; but most of them are now being cleared to get the areas under plough and for widening the roads and they are getting isolated and scattered on  private and government lands as silent witnesses to the capacity of the land.  
+
