@@ -6,15 +6,7 @@ title = "+परम्परा"
 ४०००-५००० परिवारा एव २०२५-तमे वर्षे।
 
 ## तिरुपति-परिवाराः
-> Illustrious Gollapalli family - go back almost 50 generations in the service of the lord.
-> 
-> Gollapalli (bhAradvAja), paidipalli, peddinti, Tirupatamma , 4 families. All 4 families are tight. Right now over 80 people are there, male descendants of these 4 families. 
-> 
-> They do marry often only among themselves. It seems one of the gotras there got asoucham due to a death. so half the staff ineligible. So double duties for these remaining archakas.
-
-
-### नामानि
-> All the archakas of tirumala have either venkata or srinivasa as part of their name.  If it’s missing from the name, then they add AV or AS as a prefix . AV - archakam Venkata.
+पुराणसङ्ग्रहे दृश्यताम्। 
 
 ## द्वारका-तिरुपति-देवालयः
 In east Godavari district ( called Chinna tirupati among telugu people).
