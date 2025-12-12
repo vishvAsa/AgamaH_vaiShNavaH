@@ -1497,9 +1497,17 @@ title = "००६ बाह्ययागः"
 
 <details><summary>विश्वास-प्रस्तुतिः - 125</summary>
 
-निर्गत्य द्वारबाह्ये तु स्थितो वासीन एव वा।  
-वास्तुक्षेत्रेशगरुडद्वार्श्रीचण्डप्रचण्डकान् ॥ 125 ॥
+निर्गत्य द्वारबाह्ये तु  
+स्थितो वासीन एव वा।  
+वास्तुक्षेत्रेश-गरुड-  
+द्वार्-श्री-चण्ड-प्रचण्डकान् ॥ 125 ॥
 </details>
+
+<details><summary>English</summary>
+
+After worshipping Vastu (or 'Vāstvīśa' i.e. Vāstupurușa, the guardian deity of the temple), Kṣetreśa, Garuda, Dvārśrī (also known as Dvāralakṣmī), Canda and Pracanda 
+</details>
+
 
 <details><summary>मूलम् - 125</summary>
 
@@ -1509,21 +1517,37 @@ title = "००६ बाह्ययागः"
 
 <details><summary>विश्वास-प्रस्तुतिः - 126</summary>
 
-अभ्यर्च्यार्द्यादिभिर्देवान् प्रासादस्थांश्च पूजयेत्।  
-प्रासादेऽथ चतुर्द्वारे मण्डपे चेतरेषु च ॥ 126 ॥
+अभ्यर्च्यार्घ्यादिभिर्देवान्  
+प्रासादस्थांश्च पूजयेत्।  
+प्रासादेऽथ चतुर्द्वारे  
+मण्डपे चेतरेषु च ॥ 126 ॥
 </details>
+
+<details><summary>English</summary>
+
+with arghya and so on, one should worship the temple gods in the temple, and the others in the pavillion at [each of] the four [entrance-]gates.
+</details>
+
 
 <details><summary>मूलम् - 126</summary>
 
-अभ्यर्च्यार्द्यादिभिर्देवान् प्रासादस्थांश्च पूजयेत्।  
+अभ्यर्च्यार्घ्यादिभिर्देवान् प्रासादस्थांश्च पूजयेत्।  
 प्रासादेऽथ चतुर्द्वारे मण्डपे चेतरेषु च ॥ 126 ॥
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - 127</summary>
 
-द्वारत्रयेऽथ धातारं विधातारं जयं तथा।  
-विजयं चापि भद्रं च सुभद्रं च गणेश्वरम् ॥ 127 ॥
+द्वारत्रयेऽथ धातारं  
+विधातारं जयं तथा।  
+विजयं चापि भद्रं च  
+सुभद्रं च गणेश्वरम् ॥ 127 ॥
 </details>
+
+<details><summary>English</summary>
+
+Then, at the three gates [one should worship] Dhātṛ and Vidhātṛ, and also Jaya and Vijaya, and Bhadra and Subhadra, and the Lord of the Gaņas (i.e. Visvaksena].
+</details>
+
 
 <details><summary>मूलम् - 127</summary>
 
@@ -1533,9 +1557,17 @@ title = "००६ बाह्ययागः"
 
 <details><summary>विश्वास-प्रस्तुतिः - 128</summary>
 
-यदङ्गभावमभ्येति द्वार्स्थाद्यं देवतागणम्।  
-विष्वक्सेनावसानं च नराणामल्पमेधसाम् ॥ 128 ॥
+यद्-अङ्गभावम् अभ्येति  
+द्वार्-स्थाद्यं देवता-गणम्।  
+विष्वक्सेनावसानं च  
+नराणाम् अल्प--मेधसाम् ॥ 128 ॥
 </details>
+
+<details><summary>English</summary>
+
+Worship which is directed towards the subordinate class of deities who form God's retinue, beginning with the gatekeepers and ending with Visvaksena, to the minds of men who have little understanding.
+</details>
+
 
 <details><summary>मूलम् - 128</summary>
 
@@ -1545,9 +1577,20 @@ title = "००६ बाह्ययागः"
 
 <details><summary>विश्वास-प्रस्तुतिः - 129</summary>
 
-जन्तोरेकान्तिनस्तद्वै चित्तखेदकृदर्चनम्।  
-विघ्नकृत् प्रकृतस्यापि शिष्याणां तदनर्चनम् ॥ 129 ॥
+जन्तोर् एकान्तिनस् तद् वै  
+चित्त-खेद-कृद्-अर्चनम्।  
+विघ्न-कृत् प्रकृतस्यापि  
+शिष्याणां तद्-अनर्चनम् ॥ 129 ॥
 </details>
+
+<details><summary>English</summary>
+
+causes distress, from (i.e. by)372 a man [who is] an Ekantin .  
+[But] not worshipping them, even if it is done [only] for (or by?) the pupils [of the priest], causes obstacles.
+
+372 The use of the ablative/genitive case here (jantor ekantinaḥ) seems strange. In his commentary on the IS, Alasingabhatta is unsure of how to interpret this, and one of his suggestions is to take it as an ablative absolutive (lyablope pañcami) - see Satvatarthaprakāśikā on IS 4.3. However, this is not convincing.
+</details>
+
 
 <details><summary>मूलम् - 129</summary>
 
@@ -1557,21 +1600,38 @@ title = "००६ बाह्ययागः"
 
 <details><summary>विश्वास-प्रस्तुतिः - 130</summary>
 
-अतस्तदनुकम्पार्थं देवभृत्यधियाऽर्चनम्।  
-भक्तिथद्धोज्झितं चैव विहितं त्वेवमेव हि ॥ 130 ॥
+अतस् तद्-अनुकम्पार्थं  
+देव-भृत्य-धियाऽर्चनम्।  
+भक्ति-श्रद्धोज्झितं चैव  
+विहितं त्व् एवम् एव हि ॥ 130 ॥
 </details>
+
+<details><summary>English</summary>
+
+ Therefore, worship with [one's] thought [directed upon] the [deities who are the] servants of god is enjoined in order to elicit their compassion, though [it should be done] without devotion and loyalty... 
+</details>
+
+
 
 <details><summary>मूलम् - 130</summary>
 
 अतस्तदनुकम्पार्थं देवभृत्यधियाऽर्चनम्।  
-भक्तिथद्धोज्झितं चैव विहितं त्वेवमेव हि ॥ 130 ॥
+भक्तिश्रद्धोज्झितं चैव विहितं त्वेवमेव हि ॥ 130 ॥
 </details>
 
 <details><summary>विश्वास-प्रस्तुतिः - 131</summary>
 
-ते तत्प्राणिच्युतं प्रह्वा दत्तमप्यवहेलया।  
-गृह्णन्ति मनसा श्रेयः परं ध्यात्वा धिया हृदि ॥ 131 ॥
+ते तत्-प्राणि-च्युतं प्रह्वा  
+दत्तम् अप्य् अवहेलया।  
+गृह्णन्ति मनसा श्रेयः  
+परं ध्यात्वा धिया हृदि ॥ 131 ॥
 </details>
+
+<details><summary>English</summary>
+
+.. Thus, from the worship of these [subordinate deities] by an Ekantin guru, strife will be cast out, since they are the servants of Hari.
+</details>
+
 
 <details><summary>मूलम् - 131</summary>
 
@@ -1581,8 +1641,10 @@ title = "००६ बाह्ययागः"
 
 <details><summary>विश्वास-प्रस्तुतिः - 132</summary>
 
-यतः सर्वेऽच्युतमयास्तच्चित्तार्पितमानसाः।  
-एतावदर्चनात्तेषां गुरोरेकान्तिनस्तु वै ॥ 132 ॥
+यतः सर्वे ऽच्युतमयास्  
+तच्-चित्तार्पित-मानसाः।  
+एतावद् अर्चनात् तेषां  
+गुरोर् एकान्तिनस् तु वै ॥ 132 ॥
 </details>
 
 <details><summary>मूलम् - 132</summary>
@@ -1593,8 +1655,10 @@ title = "००६ बाह्ययागः"
 
 <details><summary>विश्वास-प्रस्तुतिः - 133</summary>
 
-स्याद्विरोधनिरासस्तु यतो भृत्यास्तु ते हरेः।  
-कृत्वैवं द्वारयागं तु ततः पुष्पं च संमुखम् ॥ 133 ॥
+स्याद् विरोध-निरासस् तु  
+यतो भृत्यास् तु ते हरेः।  
+कृत्वैवं द्वार-यागं तु  
+ततः पुष्पं च संमुखम् ॥ 133 ॥
 </details>
 
 <details><summary>मूलम् - 133</summary>
@@ -1605,8 +1669,10 @@ title = "००६ बाह्ययागः"
 
 <details><summary>विश्वास-प्रस्तुतिः - 134</summary>
 
-गृहीत्वाङ्गुष्ठपूर्वेण स्वाङ्गुलित्रितयेन तु।  
-अभिमन्त्र्य तदस्त्रेण चक्रं तदुपरि स्मरेत् ॥ 134 ॥
+गृहीत्वाङ्गुष्ठ-पूर्वेण  
+स्वाङ्गुलि-त्रितयेन तु।  
+अभिमन्त्र्य तदस्त्रेण  
+चक्रं तदुपरि स्मरेत् ॥ 134 ॥
 </details>
 
 <details><summary>मूलम् - 134</summary>
