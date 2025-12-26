@@ -37,14 +37,9 @@ India
 or visit www.jiva.org 
 To learn more about Sat Sandarbha, please go to sandarbhas.jiva.org 
 To report errors, please send a note to contact@jiva.org 
-Copyright 2015 by Satyanarayana Dasa 
-Print Kösel GmbH & Co. KG, Altusried-Krugzell 
-NOTICE OF RIGHTS All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the author. For in- formation on getting permission for reprints and excerpts, contact contact@jiva.org. 
-ISBN-13: 
-ISBN-10: 
-978-81-87153-00-9 81-87153-00-8 
-Second revised edition, 2015 
-Printed in Germany on non-aging, acid-free, FSC-certified wood-free book paper 
+
+
+
 Contents at a Glance 
 Preface ... 
 Introduction 

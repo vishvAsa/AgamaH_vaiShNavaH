@@ -13873,12 +13873,7 @@ Audizile botinulos
 867 
 moti gunaso 
 25 
-Copyright if notrogaifi ballia 
-aud navsarda to salt dasiler condiea aulodrail 
-Mobilgues ad at navrged 
-starsburg 
-CowloadA anyo 
--sdased woda lllw unevaalera abslosunngatwalotod Anuccheda 94dod bowed to greasy coming sear 
+
 The Primary Meaning of the Word Brahma Is Bhagavan 
 ९४ । ततश्च यस्मिन् परमबृहति सामान्याकारसत्तायास्तदङ्गज्योतिषोऽपि बृहत्त्वेन ब्रह्मत्वं तस्मिन्नेव मुख्या तच्छब्दप्रवृत्तिः । तथा च ब्राह्मे – 
 THEREFORE, THE PRIMARY INTENT of the word brahma applies to Bhagavan alone, who is supremely great, and whose generic exis- tence, which is His bodily glow, is also called Brahman because of its greatness. This is confirmed in Brahma Purāṇa: 

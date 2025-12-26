@@ -49,10 +49,7 @@ Sanskrit Editor
 .... 
 ! 
 Interested readers are invited to correspond with the publishers at this address: JIVA INSTITUTE FOR VAISNAVA STUDIES Śrī-Śrī Kṛṣṇa-Balarama Mandir Ramana Reti, Vṛndāvana Mathurǎ Dist., U.P., 281124 India Telephone: 91-565-442904 Fax: 91-129-295547 E.Mail: Snd e jiva-ernet-in 
-Copyright 1995 
-JIVAS 
-All rights reserved 
-Printed at Rekha Printers Pvt. Ltd., New Delhi, 110 020 
+
 T 
 GLORIFICATION 
 OF 

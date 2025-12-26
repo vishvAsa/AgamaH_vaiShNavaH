@@ -48,16 +48,10 @@ Vrindavan, UP 281121 AH
 India 
 or visit www.jiva.orgd has sebnoƐ all gaisa gaivi.I adT To learn more about Sat Sandarbha, please go to sandarbhas.jiva.org 
 To report errors, please send a note to contact@jiva.org 
-Copyright © 2016 by Satyanarayana Dasa 
-Print Kösel GmbH & Co. KG, Altusried-Krugzell 
-NOTICE OF RIGHTS All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the author. For in- formation on getting permission for reprints and excerpts, contact contact@jiva.org. 
+
 A2AC AMAYAЯAИAYTA? 
 AVIL 
-ISBN-13: 978-81-87153-46-7 
-ISBN-10: 
-81-87153-46-6 
-First edition, 2016 
-Printed in Germany on non-aging, acid-free, FSC-certified wood-free book paper 
+
 The Third Purusa as Disclosed in Bhagavata Puzina 
 The Oner 
 The Oneness of Par 
