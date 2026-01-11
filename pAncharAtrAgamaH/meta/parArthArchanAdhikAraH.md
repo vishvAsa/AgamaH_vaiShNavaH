@@ -66,3 +66,5 @@ title = "परार्थार्चनाधिकारः"
 परार्थार्चनं कुर्युर् 
 
 इत्य् अभिप्रायो ऽपरः।
+
+Proper practice would be appointment as parichAraka. Getting paid by trust/ govt. can be viewed pragmatically as in "परिचरणार्थं वेतनम्".
