@@ -6,7 +6,7 @@ title = "Tradition relations"
 See [leach](/AgamaH_vaiShNavaH/pAncharAtrAgamaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_JEWELS_AND_THE_FORMATION_OF/3_Divisions_within_the_pAncharAtra/2_ii_Distinct_pAncharAtrika_identities_i). 
 
 ## सिद्धान्त-भेदः
-Source: [TW](pAncharAtrAgamaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_JEWELS_AND_THE_FORMATION_OF/3_Divisions_within_the_pAncharAtra/3_iii_The_four_pAncharAtra_siddhAntas_ac.md)
+Source: [TW](/AgamaH_vaiShNavaH/pAncharAtrAgamaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_JEWELS_AND_THE_FORMATION_OF/3_Divisions_within_the_pAncharAtra/3_iii_The_four_pAncharAtra_siddhAntas_ac)
 
 **मन्त्रसिद्धान्तो** वर्णाश्रमधर्मानुसारी ब्राह्मण्यवान् सदीक्षः। तत्र काण्वाश् चित-गोत्र-का एव प्रविशन्ति।  
 
@@ -16,3 +16,12 @@ Source: [TW](pAncharAtrAgamaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_J
 
 **तन्त्रसिद्धान्तानुसारिभिः** देवता-संस्कारेष्व् अवैदिक-मन्त्र-प्रयोक्तारः। 
 
+## तन्त्र-मिश्रण-मितिः
+> ‘‘यत्-तन्त्रेण समारब्धं  
+तत्-तन्त्रेणैव कारयेत् ।  
+अनुक्तांश् चान्यतन्त्रेषु  
+निरीक्ष्यान्यत्र योजयेत् ॥  
+विशेषांश्च मुनिश्रेष्ठ  
+त्व् अन्यथा राष्ट्र नाशकृत्’’ 
+
+इति नारदीय-वचनम्। 
