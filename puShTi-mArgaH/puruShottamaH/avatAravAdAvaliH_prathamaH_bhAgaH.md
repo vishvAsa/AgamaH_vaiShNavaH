@@ -1,6 +1,6 @@
 +++
 title = "अवतारवादावलिः प्रथमः भागः"
-author = "स्वामी पुरुषोत्तमः"
+author = "गोस्वामी पुरुषोत्तमः"
 publisher = "V H Shastri for Shri Vallabhacharyajis Vidyavibhaga"
 "publish year" = "वि. 1984"
 domain = "विमर्शः - Criticism"
