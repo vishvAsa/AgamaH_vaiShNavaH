@@ -1,10 +1,12 @@
 +++
 title = "रामकृष्णदीक्षित-परिचयः"
 +++
-This Markdown conversion captures the text, structure, and image descriptions from the provided document **"SrI VaikhAnasa Bhagavad SAstram (An Introduction)"**.
+
+**"SrI VaikhAnasa Bhagavad SAstram (An Introduction)"**.
 
 ---
-
+## 
+### कृतज्ञता
 [[1]]
 SrI VaikhAnasa Bhagavad SAstram
 **(An Introduction)**
@@ -16,12 +18,12 @@ SrI VaikhAnasa Bhagavad SAstram
 and
 **"SrI nrusimha seva rasikan"**
 
-**Oppiliappan Koil SrI VaradAccAri SaThakOpan**
-
+**Oppiliappan Koil SrI VaradAccAri SaThakOpan**  
+**sadagopan.org**
 ---
 
 [[2]]
-**sadagopan.org**
+
 
 1. Sincere thanks to **"srI nrusimha seva rasikan" Oppiliappan Koil SrImAn VaradAccAri SaThakOpan swami**, the Editor-in-Chief of SrIhayagrIvan eBooks series for kindly hosting this title under his series. I am very much indebted for the support and encouragement from SrImAn SaThakOpan Swamin!!
 2. Thanks are also due to **The Secretary, Vikhanas Trust, Tirumala Hills, Sriman G. Prabhakaracharyulu**, for encouraging me to do this likhita kaimkaryam to the Astika Community on the Net.
@@ -909,8 +911,8 @@ In the Vaikhanasa texts, it is prescribed for purposes of invocation (**AvAhana*
 <details open><summary>देवनागरी</summary>
 
 रूपद्वयं हरेः प्रोक्त बिम्बमर्चक एव च ।
-बिम्बं त्वावाहनादूर्ध्वं सदा सन्निहितोर्चक ॥
-अर्चकस्तु हरिः साक्षाच्छर रूपि न संशयः ॥
+बिम्बं त्वावाहनादूर्ध्वं सदा सन्निहितोर्चकः ॥
+अर्चकस्तु हरिः साक्षाच् चर-रूपी न संशयः ॥
 </details>
 <details open><summary>Roman</summary>
 
@@ -919,7 +921,9 @@ bimbam tvAvAhanAdUrdhvam sadA sannihitOarchaka ||
 archakastu hari: sAkshAtchhara rUpi na samsaya: |
 </details>
 
-The Atma-Sukta (Sri Vaikhanasa Mantra Prasna, 5-49; Sri Vishnuvarchana Sara Sangraham and KAsyapa's Achara-Kanda) is a collection of nine verses in the trishtubh metre. Its employment is peculiar to the Vaikhanasa worship. It is recited while invoking the form of Vishnu in his cosmic aspect (**sa-kala**), and it is meant to enlarge the consciousness of the worshipper to cosmic dimensions so that his own constitution may accommodate Vishnu's '**sakala**' form. It is a procedure by means of which the priest's self identifies itself with the highest of selves, viz., Vishnu. The hymn is called Atma-Sukta not only because it begins with the words '**AtmAtma**', but also because it concerns itself with transforming the individual self into the cosmic spirit.
+The Atma-Sukta (Sri Vaikhanasa Mantra Prasna, 5-49; Sri Vishnuvarchana Sara Sangraham and KAsyapa's Achara-Kanda) is a collection of nine verses in the trishtubh metre. Its employment is peculiar to the Vaikhanasa worship. It is recited while invoking the form of Vishnu in his cosmic aspect (**sa-kala**), and it is meant to enlarge the consciousness of the worshipper to cosmic dimensions so that his own constitution may accommodate Vishnu's '**sakala**' form. 
+
+It is a procedure by means of which the priest's self identifies itself with the highest of selves, viz., Vishnu. The hymn is called Atma-Sukta not only because it begins with the words '**AtmAtma**', but also because it concerns itself with transforming the individual self into the cosmic spirit.
 
 ---
 
@@ -930,190 +934,11 @@ The Atma-Sukta (Sri Vaikhanasa Mantra Prasna, 5-49; Sri Vishnuvarchana Sara Sang
 ---
 
 [[43]]
-## ATMA-SUKTAM
 
-<details open><summary>देवनागरी</summary>
 
-आत्मात्मा परमान्तरात्मा मह्यन्तरात्मा ।
-यश्चादिरात्मा सत् उ नोन्तरात्मा ।
-व्यावेष्टि विश्वं सकलं बिभर्ति ।
-यो व्यक्तपुण्यः सत् उ नः प्रधानः ॥ १ ॥
-</details>
-<details open><summary>Roman</summary>
+The purpose of the ritual of invocation (**AvAhana**) of the supreme, transcendental and all-pervading Vishnu (the etymological meaning of the word Vishnu is 'pervader') in the heart of the devotee or in an idol is to facilitate contemplation of the deity in one place; even as the fire which spreads all over the forest blazes forth especially in some places. 
 
-AtmAtmA paramAntarAtmA mahyantarAtmA |
-yaschAdirAtmA sat u nOntarAtmA |
-vyAvEshti vishvam sakalam bibharti |
-yO vyaktapunya: sat u na: pradhAna: || 1 ||
-</details>
-
-**Meaning:**
-That which is the self of the self, the supreme self, the inner self, the inner self of the earth, and the primordial self, is indeed our inmost self; It pervades the universe and sustains all things. As if the merit manifests itself, it is our chief.
-
-<details open><summary>देवनागरी</summary>
-
-प्राणाः प्रणीतिः स उदान आदि
-व्ररदो वराहो व्यानश्व मे स्यात् ।
-तपसां च मूर्तिः कपिलो मुनीन्द्रो ।
-यश्वापानो हयसीषा नः ॥ २ ॥
-</details>
-<details open><summary>Roman</summary>
-
-prANA: praNIti: sa udAna Adi
-vraradO varAhO vyAnaSva mE syAt |
-tapasAm cha mUrti: kapilO munIndrO |
-yaSvApAnO hayasIshA na: || 2 ||
-</details>
-
-**Meaning:**
-The outward breath (**prAna**) is our guide (**praniti**); the upward breath (**udAna**) is the primordial and boon-bestowing boar (**varAha**); the spreading breath (**vyAna**) is the form of Kapila, the sage who is the personification of penance; the downward breath (**apAna**) is the horse-headed deity, Hayagriva.
-
-<details open><summary>देवनागरी</summary>
-
-यत्सव अश्नात्यजरः समग्रं ।
-श्रियं ऊर्जयुक्तं सत् उ मे समानः ।
-बलं आसुरं यत्सततं निहन्ता ।
-</details>
-<details open><summary>Roman</summary>
-
-Yatsava akshnAtyajara: samagram |
-Sriyam Urjayuktam sat u mE samAna: |
-Balam Asuram yatsatatam nihantA |
-</details>
-
----
-
-[[44]]
-<details open><summary>देवनागरी</summary>
-
-ब्रह्मा बुद्धिं गोप ईश्वरः ॥ ३ ॥
-</details>
-<details open><summary>Roman</summary>
-
-brahmA buddhim gOpa ISvara: || 3 ||
-</details>
-
-**Meaning:**
-My digestive breath (**samAna**) is that which devours everything, even goddess of prosperity (Sri) with her energy; my strength vanquished at all times evil forces, and my intellect is verily Brahma, and Isvara is my protector.
-
-<details open><summary>देवनागरी</summary>
-
-सविता च वीय इन्दुश्व धातु ।
-रसयुतं भूता भूताः उदरं नभो वा ।
-भूमिर्यथाङ्घ्रिर्ववृधेसमीषः ॥ ४ ॥
-</details>
-<details open><summary>Roman</summary>
-
-savitA cha vIya induSva dhAtu |
-rasayutam bhUtA bhUtA: udaram nabhO vA |
-bhUmiryathAmGrirvavrudhEsamIsha: || 4 ||
-</details>
-
-**Meaning:**
-Savitri (the aspect of Sun-god) is my sex energy, the moon is the watery ingredients in my body; the five basic elements (bhutas: earth, water, fire, air and akasa) are the constituents of my body; the sky is my head, the mid-region is my belly; and the spreading earth constitutes my feet; I am indeed the ruler of all things.
-
-<details open><summary>देवनागरी</summary>
-
-अस्थीणि मे स्युरथ पर्वताख्या ।
-भुजगश्व कशा दिवि ये चरन्तः ।
-द्यौ नेत्ररूपौ पृथुप्रुष्निमुख्यौ ।
-रुधिरं च सारं सकलं च तोयम् ॥ ५ ॥
-</details>
-<details open><summary>Roman</summary>
-
-asthINi mE syuratha parvatAKhyA |
-bhujagaSva kashA divi yE charanta: |
-dyoU nEtrarUpoU pruthuprushnimuKhyoU |
-rudhiram cha sAram sakalam cha tOyam || 5 ||
-</details>
-
-**Meaning:**
-My bones should verily be called the mountains; my hairs are the serpents that move about in the heavens; my two eyes are the wide earth and the high sky; and my blood is the essential watery content of the universe.
-
-<details open><summary>देवनागरी</summary>
-
-स्नायवो मे आसन्नदीर्भृगुं हृदयंअस्तु ।
-</details>
-<details open><summary>Roman</summary>
-
-snAyavO mE AsannadIrbhrugum hridayamastu |
-</details>
-
----
-
-[[45]]
-<details open><summary>देवनागरी</summary>
-
-सव अन्ये मुनयागभूताः ।
-वेदा मे आस्यं जिह्वा मे सरस्वती ।
-दन्ता मरुत उपजिह्वा उपस्रुतिः ॥ ६ ॥
-</details>
-<details open><summary>Roman</summary>
-
-sava anyE munayAgabhUtA: |
-vEdA mE Asyam jihvA mE saraswatI |
-dantA maruta upajihvA upasruti: || 6 ||
-</details>
-
-**Meaning:**
-My sinews are the rivers on the earth, my heart is Bhrigu himself (the Vaikhanasa Sage) and my limbs are all the other sages; my mouth represents the Vedic lore and my tongue is the goddess of speech, Sarasvati; the wind-gods (maruts) are my teeth, and my epiglottis is the revelation of the sacred texts.
-
-<details open><summary>देवनागरी</summary>
-
-वृषणौ मित्रावरुणावुपस्थाः प्रजापतिः ।
-आन्त्रा मे वेदाः श्रुतिस्मृती मेधाधारणे ।
-स्वेदं मे वष मूत्रकोषं समुद्रम् ।
-पुरीषं काञ्चनम् ॥ ७ ॥
-</details>
-<details open><summary>Roman</summary>
-
-vrushaNau mitrAvaruNAvupasthA: prajApati: |
-AntrA mE vEdA: SrutismrutI mEdhAdhAraNE |
-svEdam mE vasha mUtrakOsham samudram |
-purIsham kAnchanam || 7 ||
-</details>
-
-**Meaning:**
-My testicles are the twin gods, Mitra and Varuna, my sex organ is the creator, Prajapati; my entrails are the Vedic hymns; my intellect (**medha**) and retention (**dharana**) are the revealed texts (**sruti**) and the texts subsidiary to them (**smriti**); my perspiration is indeed the rains, and my bladder is the ocean itself; my fecal matter is gold.
-
-<details open><summary>देवनागरी</summary>
-
-सावित्री गायत्री मर्यादा वेदी ।
-हृत्पुण्डरीक विमले प्रविष्टः ।
-सकलः सलक्ष्मीः सविभूतिकायो ।
-यत्सव पुण्यं मय्यधिष्ठानमस्तु ॥ ८ ॥
-</details>
-<details open><summary>Roman</summary>
-
-sAvitrI gAyatrI maryAdA vEdI |
-hrutpuNdarIka vimalE pravishTa: |
-sakala: salakshmI: savibhUtikAngO |
-yatsava puNyam mayyadhishTAnamastu || 8 ||
-</details>
-
----
-
-[[46]]
-**Meaning:**
-The hymn in the gayatri metre addressed to the sun-god (Savitri) is the sacred precincts and the altar; and into the pure lotus of my heart has entered Vishnu in His cosmic aspect (**sakala**), along with the goddess of wealth (srI), in all His glory; may all that is filled with merit in me provide for Him a foothold.
-
-<details open><summary>देवनागरी</summary>
-
-सवषां देवानामात्मकः ।
-सवषां मुनीनामात्मकः -
-तपोमूर्तिरिह पुण्यमूर्तिरासन् ॥ ९ ॥
-</details>
-<details open><summary>Roman</summary>
-
-savashAm dEvAnAmAtmaka: |
-savashAm munInAmAtmaka: -
-stapOmUrtiriha puNyamUrtirAsan || 9 ||
-</details>
-
-**Meaning:**
-"May I contain in myself the essence of all the gods and all the sages, may I be a personification of austerities (**tapo-murti**) and of all merit (**punya-murti**)".
-
-The purpose of the ritual of invocation (**AvAhana**) of the supreme, transcendental and all-pervading Vishnu (the etymological meaning of the word Vishnu is 'pervader') in the heart of the devotee or in an idol is to facilitate contemplation of the deity in one place; even as the fire which spreads all over the forest blazes forth especially in some places. Invoked by appropriate mantras in the idol, or meditated intensely and devotedly in the heart, Vishnu makes his presence felt in the idol or in the heart, and receives the worship offered (*Kriyadhikaram*).
+Invoked by appropriate mantras in the idol, or meditated intensely and devotedly in the heart, Vishnu makes his presence felt in the idol or in the heart, and receives the worship offered (*Kriyadhikaram*).
 
 Vaikhanasa worship is essentially Vishnu-oriented, but Vishnu is worshipped in his comprehensive and pervasive aspect (in accordance with the root meaning of the word '**vishi vyApatau**'); and when Vishnu is invoked for worship, his presence includes the presence of all the other gods as his retinue (**sa-parivara**). Hence worship of Vishnu means worship of all the gods ('*vishNOr nityArcha sarva-dEvArchAbhavati*').
 
