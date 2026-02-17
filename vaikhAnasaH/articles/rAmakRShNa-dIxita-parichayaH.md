@@ -27,12 +27,12 @@ and
 3. Sincere thanks are also due to www.tirupatitimes.com, www.vaikhanasa.com, www.srivaishnavam.com, Nedumtheru SrI Mukund Srinivasan, SrI B.Senthil, SrI T.Raghuveeradayal and rAmanuja dAsargal at www.pbase.com/svami for their loving contributions of images to this eBook.
 4. Last but not the least, thanks are also due to www.srivari.com for providing the details of the different VaikhAnasa Aagama kshetrams covered in the appendices.
 
-**NOTE:** The primary author, **Archakam SrI Ramakrishna Deekshitulu**, Archaka, Srivari Temple, Tirumala Hills, can be contacted for discussions about the topics related to this eBook by any of the AstikAs on the Net by sending email to **ramakrishna.ad@gmail.com**
+**NOTE:** The primary author, **Archakam SrI Ramakrishna Deekshitulu**, Archaka, Srivari Temple, Tirumala Hills, can be contacted for discussions about the topics related to this eBook by any of the AstikAs on the Net by sending email to **ramakrishna.ad AT  mail.com**
 
 ---
 
 [[3]]
-## CONTENTS
+### CONTENTS
 
 *   prArthanA slokam — 1
 *   Introduction — 3
@@ -60,24 +60,59 @@ and
 ---
 
 [[5]]
-## prArthanA slokams
+--- START OF FILE Paste February 17, 2026 - 7:50AM ---
 
+### prArthanA
 
-#### SRI SRINIVASAR:
+#### SRI SRINIVASAR
+<details open><summary>देवनागरी</summary>
+
+निरुपम गुणसिन्धुर्नित्यलक्ष्मी समेतौ
+निखिलनिगमवेद्ये निस्तुलौ वेङ्कटेशः ।
+निजचरणसमर्चसक्तुभाक्तौघरक्षी
+निवसतु हृदये मे स्वाङ्घ्रिभक्तिं वितन्वन् ॥
+</details>
+<details open><summary>Roman</summary>
+
 nirupama gunasindhurnityalakshmi sametO
 niKhilanigamavEdayE nistulO venkatEsa:|
 nijacharaNasamarchasaktubhaktauGharakshI
 nivasatu hrudaye me svAnghribhaktim vitanvan||
+</details>
 
-#### VIKHANASACHARYAN:
+#### VIKHANASACHARYAN
+<details open><summary>देवनागरी</summary>
+
+श्री लक्ष्मी वल्लभारम्भाम् विखनो मुनि मध्यमाम् ।
+अस्मदाचार्य पर्यन्ताम् वन्दे गुरु परम्पराम् ॥
+</details>
+<details open><summary>Roman</summary>
+
 srI lakshmi vallabhArambhAm viKhanO muni madhyamAm |
 asmadAchArya paryantAm vandE guru paramparAm ||
+</details>
+
+<details open><summary>देवनागरी</summary>
+
+नारायणं सकमलं सकलामरेन्द्रम् ।
+वैखानसं मम गुरुं निगमागमेन्द्रम् ॥
+</details>
+<details open><summary>Roman</summary>
 
 nArAyaNam sakamalam sakalAmarEndram |
 vaiKhAnasam mama gurum nigamAgamEndram ||
+</details>
+
+<details open><summary>देवनागरी</summary>
+
+भृग्वत्रिकाश्यपमरीचिमुखान् मुनीन्द्रान् ।
+सर्वानहं कुलगुरुं प्रणाममि मूर्ध्ना ॥
+</details>
+<details open><summary>Roman</summary>
 
 bhrigvatrikASyapamarIchirmuKhAn munIndrAn |
 sarvAnaham kulagurum praNamAmi mUrdhnA ||
+</details>
 
 ---
 
@@ -88,7 +123,8 @@ sarvAnaham kulagurum praNamAmi mUrdhnA ||
 ---
 
 [[7]]
-## SrI VaikhAnasa Bhagavad SAstram: An Introduction
+## shAstra intro
+SrI VaikhAnasa Bhagavad SAstram: An Introduction
 
 There are two Agamams to worship the Lord (VishNu archanam). One is VaikhAnasam and the other is PaancharAtram. We will be following closely the essay by the great VaikhAnasa Bhattar, Sri U.Ve. KadakkaLUR Sthala Sayana BhattAchAr and draw the essential points from there for this introductory essay on VaikhAnasam and add a few references at the end for your additional studies. There are centers of research on the two VaishNavite Agamams at Melkote, Kaanchipuram, Thirumala and Srirangam that one can access for additional information. There are also university departments of Sanskrit and Eastern Religions in Europe (Norway, Austria, France and Germany) that have scholars doing research on these two Agmaams.
 
@@ -105,28 +141,65 @@ For the benefit of human beings, Sages like AsvalAyanar, Aapastambar, DhrAyAyana
 
 Amongst the Indian Communities of Priests, committed to the promotion of temple-culture, the Vaikhanasas occupy a significant position. The oldest of such priestly communities, they even to this day largely function as temple priests. They find mention in Vedic corpus, the epics (Mahabharatha and Ramayana), the puranas (like Bhagavatham) and the Smriti literature. They are described as ascetics, hermits, devoted to contemplation on Godhead, and engaged in Vedic sacrificial rituals. They were sages closely associated with the celebrated Valakhilyas of Rigvedam, and dear to Indra (Vishnu). So we read in Tandya-maha-brahmana (14.4.7):
 
-*vaikhAnasA vA rushayA indrasya priyA Asan||*
+<details open><summary>देवनागरी</summary>
+
+वैखानसा वा ऋषया इन्द्रस्य प्रिया आसन् ॥
+</details>
+<details open><summary>Roman</summary>
+
+vaikhAnasA vA rushayA indrasya priyA Asan||
+</details>
 
 They had their scriptural lore, named after their own designation, rooted in the Vedic corpus, containing the essence of Vedic wisdom, and given entirely to the worship of Vishnu as the supreme spirit of the Vedic canon. Sage Marichi's Vimanarchana Kalpam (patala 96), one of the earliest of Agama works, has this to say:
 
-*vaikhAnasam mahAshAstram sarvavEdEshUdrutham sarvavEdArthasAram*
-*apratarkya aninditam vaidikairUpasEvitam vishnOrAradhanam|*
-*sarvabhUthahitArdAya shAbdam pramAnamavalambya vishnunAm vikhanasa*
+<details open><summary>देवनागरी</summary>
+
+वैखानसं महाशास्त्रं सर्ववेदेषूद्धृतं सर्ववेदार्थसारम् ।
+अप्रतर्क्य अनिन्दितं वैदिकैरुपासैवितं विष्णोराराधनम् ॥
+सर्वभूतहितार्थाय शब्दं प्रमाणमवलम्ब्य विष्णुना विखनस
+</details>
+<details open><summary>Roman</summary>
+
+vaikhAnasam mahAshAstram sarvavEdEshUdrutham sarvavEdArthasAram
+apratarkya aninditam vaidikairUpasEvitam vishnOrAradhanam|
+sarvabhUthahitArdAya shAbdam pramAnamavalambya vishnunAm vikhanasa
+</details>
 
 ---
 
 [[9]]
-*uktham, vikhanasa bhrugvAdInAmuktham....*
+<details open><summary>देवनागरी</summary>
+
+उक्तं, विखनस भृग्वादीनामुक्तम्... ॥
+</details>
+<details open><summary>Roman</summary>
+
+uktham, vikhanasa bhrugvAdInAmuktham....
+</details>
 
 It may be noted that this scriptural lore aligned itself firmly and uncompromisingly to the Vedic wisdom (more specifically to the Aukheya-Taittiriya branch of Krishna-yajurveda) and was therefore described as 'vaidika' in contradistinction to the other approaches which incorporated the tantrika or folk practices. Even now, the Vaikhanasa priests, at home and in the temple, insist on first performing the fire-ritual prescribed in the Vedas, and then worshipping Vishnu, as the supreme spirit:
 
-*tasmAdagnau nityahOmAnthE vishnurnithyArchA gruhe dEvAyatane bhaktyA bhagavantam nArAyanamarchayEditi vignAyate|*
+<details open><summary>देवनागरी</summary>
+
+तस्मादग्नौ नित्यहोमान्ते विष्णोर्नित्यर्चा गृहे देवतायतने भक्त्या भगवन्तं नारायणमर्चयेदिति विज्ञायते ॥
+</details>
+<details open><summary>Roman</summary>
+
+tasmAdagnau nityahOmAnthE vishnurnithyArchA gruhe dEvAyatane bhaktyA bhagavantam nArAyanamarchayEditi vignAyate|
+</details>
 
 This is prescribed by the Vaikhanasa-srauta-sutra. In fact, the Vaikhanasa is the only group among temple-priests to have a kalpa-sutra of their own. They translate in to practice the Vedic dictum that Agni is the lowest of the gods (in the sense being visible to the human eye) and Vishnu, the highest and that therefore the worship of these two effectively means the coverage of the worship of all the gods in whom the Lord is the indweller (*Sarva dEva NamaskAram Kesavam pratigacchathy*):
 
-*agnirvai dEvAnAmave vishnu: paramastadantarEna sarvai anya dEvathA: iti brAhmanam|*
+<details open><summary>देवनागरी</summary>
 
-*vishnO: nitya dEvArchA sarvadEvArchAbhavathi|*
+अग्निर्वै देवानां अवमः विष्णुः परमस्तदन्तरेण सर्वै अन्य देवताः इति ब्राह्मणम् ॥
+विष्णोः नित्य देवर्चा सर्वदेवर्र्चाभवति ॥
+</details>
+<details open><summary>Roman</summary>
+
+agnirvai dEvAnAmave vishnu: paramastadantarEna sarvai any dEvathA: iti brAhmanam|
+vishnO: nitya dEvArchA sarvadEvArchAbhavathi|
+</details>
 
 The worship of the Godhead assumes two forms:
 *   aniconic (**amurta**) and
@@ -182,12 +255,24 @@ Thus the Vedic sacrificial ritual (**srautagni**) corresponds in spirit to the V
 [[13]]
 ...worship sequences strictly follow the Vedic prescriptions and Veda mantras are recited in every sequence exclusively. Like a Vedic sacrifice, worship in a Vaikhanasa shrine is designed to secure the good of all living creatures and is based on Veda (*vishnOrAradhanam sarvabhUthahitArdAya shAbdam pramAnamavalambya*). Hence worship here is termed '**dEva-yajana**' in Marichi's definitive treatise of Vimanarchana Kalpam and the worship is meant to secure the welfare of the state (**rAshtra**), the administrators (**rAja**) and the entire cadre of devout chieftains of administration (**yajamAna**). Marichi's words are:
 
-*ata dEvayajanam vyAkhyAsyAma:|*
-*grihOtrEna labhatE svargamityAhu:|*
-*sangati dEvapujAnAm yagnA iti surayO vadanti|*
-*yagnEshvEtEshu dEvayAgO vishishyatE|*
-*yajamAna bhavepi bhuvi shashvatam tishtati|*
-*tasmAdragnO rAshtrasya yajamAnavamsasyAbhivruddi:||*
+<details open><summary>देवनागरी</summary>
+
+अथ देवयजनं व्याख्यास्यामः ।
+गृहोत्रेण लभते स्वर्गमित्याहुः ।
+सङ्गति देवपूजानां यज्ञा इति सुरयो वदन्ति ।
+यज्ञेष्वेतेषु देवयागो विशिष्यते ।
+यजमान भवेपि भुवि शाश्वतं तिष्ठति ।
+तस्माद्रज्ञो राष्ट्रस्य यजमानवंशस्याभिवृद्धिः ॥
+</details>
+<details open><summary>Roman</summary>
+
+ata dEvayajanam vyAkhyAsyAma:|
+grihOtrEna labhatE svargamityAhu:|
+sangati dEvapujAnAm yagnA iti surayO vadanti|
+yagnEshvEtEshu dEvayAgO vishishyatE|
+yajamAna bhavepi bhuvi shashvatam tishtati|
+tasmAdragnO rAshtrasya yajamAnavamsasyAbhivruddi:||
+</details>
 
 This is in fact the special, and also essential, feature of the Vaikhanasa mode of worship. It is rooted in the Vedic tradition, and is a continuation of the Vedic approach. It is a direct successor to the yagnA ideology of the Vedic corpus in the context of Agama. When Bhagavatha (11.27.7) enumerates three distinct kinds of worship (**makha**) and designates them as:
 
@@ -202,8 +287,16 @@ the first form of worship is clearly Vaikhanasa. The commentator Vijayadvaja (*p
 [[14]]
 ..."agnishtOmadih", "pushpAnjalyAdih" and "nAma-sankIrtanAdih". Viswanantha chakravarthi (*parArtha-darsini*) mentions specifically that Vaidika mode of worship employs only Veda mantras (like purusha-suktha) during worship. And this is precisely what is done in the Vaikhanasa-worship. Mahabharatha (*Anu-gita, Asvamedhika-parvan* 122,26) also refers to the Vaikhanasa mode of worship as prevalent in those times:
 
-*vEdOtkEnaiva mArgEna sarvabhUthahridistitham mAmarchayanthi|*
-*yE viprA matsAyujyam vrajanti te||*
+<details open><summary>देवनागरी</summary>
+
+वेदोक्तेनैव मार्गेण सर्वभूतहृदिस्थितम् मामर्चयन्ति ।
+ये विप्रा मत्सायोज्यं व्रजन्ति ते ॥
+</details>
+<details open><summary>Roman</summary>
+
+vEdOtkEnaiva mArgEna sarvabhUthahridistitham mAmarchayanthi|
+yE viprA matsAyujyam vrajanti te||
+</details>
 
 An ancient smriti text Vridda-hArIta-samhitha (chapter 11) mentions not only three systems of worship:
 
@@ -217,7 +310,14 @@ but identifies the first with the Vaikhanasas. It was the Vaikhanasas who transf
 *   fire-ritual (**homa**) and
 *   worship of idols treated like a sovereign or honored guest (**bera**):
 
-*mAnasI hOmapUjA cha bErapUjEti sA tridhA||*
+<details open><summary>देवनागरी</summary>
+
+मानसी होमपूजा च बेरपूजेति सा त्रिधा ॥
+</details>
+<details open><summary>Roman</summary>
+
+mAnasI hOmapUjA cha bErapUjEti sA tridhA||
+</details>
 
 Marichi significantly states that the proper method of worship assumes four modes (*charita kriya jnana yogEshu chaturshi pUjAmArgEshu*):
 
@@ -260,19 +360,33 @@ The word 'Vaikhanasa' etymologically signifies digging deep in to the Godhead (b
 
 It is true that the highest form of worship is mental (**manasa**). The supreme spirit really dwells in the heart of the devotee and must be reached by mental processes. Direct cognizance of the presence and power of Godhead is worship proper. But knowledge and devotion do not render iconic worship superfluous or unnecessary. For the formless Godhead in the heart needs to be visualized in an iconic form for being worshipped. Bhrigu makes an interesting observation (*Prakirnadhikara, 36, 286-287*):
 
-*yatra mAnasArchA syAt tachcha mAnasikam bhavEt|*
-*antaryAmi ya evAste hrudayE nishkalE hari:||*
+<details open><summary>देवनागरी</summary>
+
+यत्र मानसार्चा स्यात् तच्चा मानसिकं भवेत् ।
+अन्तर्यामी य एवास्ते हृदये निष्कले हरिः ॥
+</details>
+<details open><summary>Roman</summary>
+
+yatra mAnasArchA syAt tachcha mAnasikam bhavEt|
+antaryAmi ya evAste hrudayE nishkalE hari:||
+</details>
 
 ---
 
 [[18]]
-*eva sakalE bhUtvA bimbE yatsannidhApita:|*
-*tasmAtsakalapUjAyAm naiva kuryAd vyatikramam||*
+<details open><summary>देवनागरी</summary>
+
+एव सकले भूत्वा बिम्बे यत्सन्निधापितः ।
+तस्मात्सकलपूजायां नैव कुर्याद् व्यतिक्रमम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+eva sakalE bhUtvA bimbE yatsannidhApita:|
+tasmAtsakalapUjAyAm naiva kuryAd vyatikramam||
+</details>
 
 ![Image of SrI Malayappa Swamy, the processional deity (Utsavar) of Tirumala](Image_Page_18)
 *iconic worship - SrI Malayappa Swamy - Tirupathi*
-
-When the worship is mental, the object of worship is also mental. The Godhead resides in one's own heart, devoid of attributes like name, and form, (**nishkala, nirguna**) and as the inner controller (**antaryami**) of the living being. However, it...
 
 ---
 
@@ -281,10 +395,20 @@ When the worship is mental, the object of worship is also mental. The Godhead re
 
 The activities involved in worship are in reality approaches to the Godhead; hence they are called **kriya-yoga**. The activities are accompanied by appropriate Vedic mantras recited, and by having an idol properly installed for offering worship. There is also contemplation and further a feeling of devotion. Thus the Vaikhanasa worship is a pentad (**panchaka**) of recitation of Vedic mantras, activities like in a yajna, utilization of proper and consecrated substances like the idol, contemplation and devotion. Marichi (*Ananda-Samhitha*) says that this is the proper approach to Godhead in the present age. In the first of the aeons, Krita-yuga, God was worshipped only in the mind; in the next age, Treta, sacrifices were the proper approach; in Dvapara age idol worship was commended and in the present Kali age, contemplation is the best approach. But the special features of worship in each of the four ages must be combined in the present age to give the best results.
 
-*krutE tu mAnasam srEshtam trEtAyAm yajanam param|*
-*dvAparE pratimArchA cha kalau chintanamuttamam||*
-*chaturshvapi yugEshvevam vishEshastu yugE yugE|*
-*mantOchchara kriyA dravyadhyAna bhAvAngapanchakam||*
+<details open><summary>देवनागरी</summary>
+
+कृते तु मानसं श्रेष्ठं त्रेतायां यजनं परम् ।
+द्वापरे प्रतिमार्चा च कलौ चिन्तनमुत्तमम् ॥
+चतुर्श्वपि युगेष्वेवं विशेषस्तु युगे युगे ।
+मन्तोच्चार क्रिया द्रव्यध्यान भावाङ्गपञ्चकम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+krutE tu mAnasam srEshtam trEtAyAm yajanam param|
+dvAparE pratimArchA cha kalau chintanamuttamam||
+chaturshvapi yugEshvevam vishEshastu yugE yugE|
+mantOchchara kriyA dravyadhyAna bhAvAngapanchakam||
+</details>
 
 The five details mentioned above are but 'limbs' (**angas**) of worship as an effective approach to Godhead for the sake of securing emancipation. Worship (**aradhana**) primarily means only idol worship (**archana**), for which the details are necessary limbs. That this kind of worship is the supreme expedient (**paramopaya**) and is the guiding principle of Vaikhanasa worship. The idol representation is in the essence the Godhead's own manifestation for facilitating worship (hence known as **archavathara**). IT symbolizes the Supreme...
 
@@ -293,8 +417,16 @@ The five details mentioned above are but 'limbs' (**angas**) of worship as an ef
 [[20]]
 ...Spirit in all its glory and in its immanent as well as transcendental aspects (viz, the Brahman of Vedanta). It is in this sense that the self-manifest image of Vishnu (the Vedic God of gods) on the Vengadam hills (Tirumala) is hailed with the words 'Venkata-brahmane-namah'. (It may be noted in the passing that there is a mantra in Rigveda (10.155.1) which can be considered as a reference to this hill. The antiquity and vaibhavam of Tirumala goes back thus to the Vedic age:
 
-*arAyi kAnE vikate girim gachchasadAnve sirimbithasya satvabhi:|*
-*tEbhishtvA chAtayAmasi||*
+<details open><summary>देवनागरी</summary>
+
+अरायि काणे विकटे गिरिं गच्छसदान्वे सिरिम्बिठस्य सत्वभिः ।
+तेभिष्वा चातयामसि ॥
+</details>
+<details open><summary>Roman</summary>
+
+arAyi kAnE vikate girim gachchasadAnve sirimbithasya satvabhi:|
+tEbhishtvA chAtayAmasi||
+</details>
 
 The person, devoid of wealth and vision, is implored to go to the hill which burns up all evil (vikata for Venkata) and drives away all obstacles to peace and prosperity. The call of the rishi Sirimbitha has obviously not gone in vain.
 
@@ -305,51 +437,113 @@ It is believed that Sage Vikhanasar was created from the mind (**Maanaseeka Utbh
 ---
 
 [[21]]
-...PramAnams in his Aagamam. The four sishyAs condensed these vast numbers of PramAnams to a smaller subset of four Lakhs of grantams to make it simpler for the human beings to follow for the worship of the Lord thru VaikhAnasa Aagamam (*sUtram VikhanasA prOktam saardhakODi pramANakam, chaturlaksha pramANEna samkshipya prOchyatE adhunA*).
+...PramAnams in his Aagamam. The four sishyAs condensed these vast numbers of PramAnams to a smaller subset of four Lakhs of grantams to make it simpler for the human beings to follow for the worship of the Lord thru VaikhAnasa Aagamam (*sUtram VikhanasA prOktam saardhakODi pramANakam, chaturlaksha pramANEna samkshipya prOchyatE adhunA*):
+
+<details open><summary>देवनागरी</summary>
+
+सूत्रं विखनसा प्रोक्तं सार्धकोटि प्रमाणकम् ।
+चतुर्लक्ष प्रमाणेन संक्षिप्य प्रोच्यते अधुना ॥
+</details>
+<details open><summary>Roman</summary>
+
+sUtram VikhanasA prOktam saardhakODi pramANakam,
+chaturlaksha pramANEna samkshipya prOchyatE adhunA
+</details>
 
 ![Painting showing Sriman Narayana on Adisesha with Sage VikhAnasa emerging from His mind/vision](Image_Page_21)
 *Maanaseeka Utbhavam of Sage VikhAnasar from SrIman NArAyaNa!*
 
-The Vaikhanasas as a community are temple priests. They regard themselves as ordained by birth to be temple priests and they are enjoined not to follow other avocation in life. Vishnu himself is said to have declared that those who follow the Vaikhanasa Sutra are dearer to him. A verse in Varaha Purana puts in...
+The Vaikhanasas as a community are temple priests. They regard themselves as ordained by birth to be temple priests and they are enjoined not to follow other avocation in life. Vishnu himself is said to have declared that those who follow the Vaikhansa Sutra are dearer to him. A verse in Varaha Purana puts in...
 
 ---
 
 [[22]]
 ...to the mouth of the Vishnu the view that the Aswatha Tree, the Red Cows, the tulasi plant and the sage Vikhanasa (the ancestor of the community) are the four things that are dear to him, and that among the four, Sage Vikhanas is the dearest. Ananda Samhitha (Marichi) states that the Sage Vikhanasa who prepared the Vaikhanasa Sutra according to a branch of Yajurveda was Brahma himself.
 
-*AdikAlEtu bhagavAn brahmA tu viKhanA muni: |*
-*Yaju: shAkhAnusArE chakrE sUtra mahattaram ||*
+<details open><summary>देवनागरी</summary>
+
+आदिकालेतु भगवान् ब्रह्मा तु विखना मुनिः ।
+यजुः शाखानुसारे चक्रे सूत्र महत्तरम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+AdikAlEtu bhagavAn brahmA tu viKhanA muni: |
+Yaju: shAkhAnusArE chakrE sUtra mahattaram ||
+</details>
 
 Kriyadhikara (Bhrigu) identifies Vikhanasa with Vishnu or with the first sage who appeared as an aspect of Vishnu (viz, Brahma), and says that the Sutra was taught by this sage.
 
-*viKhanAvai vishNu: tajjA vaiKhAnsA smritA: |*
-*vishNuvamsajaSva viKhAnA munInAm prathamO muni: |*
-*tEnOpadishta yatsUtram tatsUtrEshUttamam smritam |*
+<details open><summary>देवनागरी</summary>
+
+विखनावै विष्णुः तज्जा वैखान्सा स्मृताः ।
+विष्णुवंशजश्व विखाना मुनीनां प्रथमो मुनिः ।
+तेनोपदिष्ट यत्सूत्रं तत्सूत्रेषूत्तमं स्मृतम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+viKhanAvai vishNu: tajjA vaiKhAnsA smritA: |
+vishNuvamsajaSva viKhAnA munInAm prathamO muni: |
+tEnOpadishta yatsUtram tatsUtrEshUttamam smritam |
+</details>
 
 Brahma, the creator, who was the offspring of Vishnu, was called the first sage, and was called Vikhanasa, because he dug into his own mind (**manasAh KhananAt**) for creating the scriptural lore.
 
-*viKhanA iti prOkthO manasa: KhananAt suta: |*
-*brahmaNA: suvisEshENa munInA prathamO muni: ||*
+<details open><summary>देवनागरी</summary>
+
+विखना इति प्रोक्तो मनसः खननात् सुतः ।
+ब्रह्मणाः सुविशेषेण मुनीना प्रथमो मुनिः ॥
+</details>
+<details open><summary>Roman</summary>
+
+viKhanA iti prOkthO manasa: KhananAt suta: |
+brahmaNA: suvisEshENa munInA prathamO muni: ||
+</details>
 
 Digging up into (Khanana) appears to be in the background of the expression Vikhanas. Several shades of meaning have been projected. Ananda Samhita speaks of Vishnu 'digging up' the essential import of the Upanishads before he gave the scriptural lore of the Vaikhanasas.
 
-*vEdAntatattvamImAmsAKhananam krutavan hari: |*
-*nAmnA viKhanasam chakrE tatpadAnvarthayOgata: ||*
+<details open><summary>देवनागरी</summary>
+
+वेदान्ततत्त्वमीमांसाखननं कृतवान् हरिः ।
+नाम्ना विखनसं चक्रे तत्पदान्वर्थयोगतः ॥
+</details>
+<details open><summary>Roman</summary>
+
+vEdAntatattvamImAmsAKhananam krutavan hari: |
+nAmnA viKhanasam chakrE tatpadAnvarthayOgata: ||
+</details>
 
 ---
 
 [[23]]
 Digging into the meaning of Veda or intense inquiry into the thrust of the Vedic corpus was said to have been accomplished by the first sage, who was therefore called as Vikhanasa.
 
-*KhananAdviKhanA muni: |*
-*Khananam tatvamImAmsEtyAhu |*
-*nigamArthAnAm KhananAditi na: Srutam |*
+<details open><summary>देवनागरी</summary>
+
+खननाद्विखना मुनिः ।
+खननं तत्वमीमांसेत्याहु ।
+निगमार्थानां खननादिति नः श्रुतम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+KhananAdviKhanA muni: |
+Khananam tatvamImAmsEtyAhu |
+nigamArthAnAm KhananAditi na: Srutam |
+</details>
 
 Digging out the hidden meaning of Vedas and revealing them to the human beings, according to Ananda Samhita, were the tasks that Vishnu accomplished and therefore he became known as Vikhanasa, and his offspring who was the progenitor of all was known as Vaikhanasa.
 
-*antarhitAnAm KhananAdvEdAnAm tu visEshata: |*
-*sa vibhu: prOchyatE sarvairviKhanA brahmavAdibhi: ||*
-*vaiKhAnasaSva bhagavAn prOchyatE sa pithAmaha: ||*
+<details open><summary>देवनागरी</summary>
+
+अन्तरहितानां खननाद्वेदानां तु विशेषतः ।
+स विभुः प्रोच्यते सर्वैर्विखना ब्रह्मवादिभिः ॥
+वैखानसश्व भगवान् प्रोच्यते स पितामहः ॥
+</details>
+<details open><summary>Roman</summary>
+
+antarhitAnAm KhananAdvEdAnAm tu visEshata: |
+sa vibhu: prOchyatE sarvairviKhanA brahmavAdibhi: ||
+vaiKhAnasaSva bhagavAn prOchyatE sa pithAmaha: ||
+</details>
 
 When the word Vikhanasa, in the background expression, is interpreted as referring to Brahma, the creator, a distinction is made in Nrisimha Purana, between the older Brahma (**Agraja**), who was born out of Vishnu's mind with only one head and who became the author of the Sutras, and the younger Brahma (**Anuja**), who was born out of Vishnu's navel, with four faces, for producing the worlds and denizens in them. Vikhanasa, who was the 'older' Brahma, became the 'younger' Brahma after six incarnations (incarnation meaning 'Manvantharam' and now it's the 7th Manvantharam). The sages Bhrigu, Atri, Marichi and Kasyapa are said to have received the cult of Vishnu from the first Vikhanasa (viz., the older Brahma in Svayambhuva Manvantharam).
 
@@ -369,11 +563,21 @@ The approach of the Vaikhanasa worship is described as peaceful (**soumya**). Th
 
 It is probable that the Vaikhanasa community was so called because of the involvement in all of these aspects. More importantly, Vaikhanasas are distinguished by their uncompromising adoption of the Vaikhanasa-Sutra, which is devoted in all its parts to Vishnu and which was initially communicated by Vishnu himself to the sage Vikhanasa.
 
-*AdikAlEtu bhagavAn brahmA tu viKhanA muni: |*
-*Yaju: SAKhAnusArENa chakrE sUtram mahattaram |*
-*tatsUtravidhyanushtAnAt smritA vaiKhAnasAstu tE |*
-*yatsUtrAdyantamadhyEshu bhagavAn vishNuravyaya: ||*
-*(from Atri's Pura-Tantram)*
+<details open><summary>देवनागरी</summary>
+
+आदिकालेतु भगवान् ब्रह्मा तु विखना मुनिः ।
+यजुः शाखानुसारेण चक्रे सूत्रं महत्तरम् ।
+तत्सूत्रविध्यनुष्ठानात् स्मृता वैखानसास्तु ते ।
+यत्सूत्राद्यन्तमध्येषु भगवान् विष्णुरव्ययः ॥
+</details>
+<details open><summary>Roman</summary>
+
+AdikAlEtu bhagavAn brahmA tu viKhanA muni: |
+Yaju: SAKhAnusArENa chakrE sUtram mahattaram |
+tatsUtravidhyanushtAnAt smritA vaiKhAnasAstu tE |
+yatsUtrAdyantamadhyEshu bhagavAn vishNuravyaya: ||
+(from Atri's Pura-Tantram)
+</details>
 
 The sage Vikhanas (or the primordial Vikhanasa) is adored by the community in its daily prayer as one who is sustained by Vishnu (**achyutagam-srayAya**), who is engaged in severe austerities (**tapOgra-nishta**), and who is the knower of the highest principle (**brahma-darsin**). He is described as an expert in the worship of Vishnu (**Vishnu-pUjA-visArada**), as four armed and seated upon a tortoise seat holding in his hands, the sacred water pot, rosary and ascetic's staff. He...
 
@@ -382,8 +586,16 @@ The sage Vikhanas (or the primordial Vikhanasa) is adored by the community in it
 [[25]]
 ...is worshipped as present on the right side of Vishnu's main idol '**Dhruva-bera**'. He is also described as having Vishnu as his father and Lakshmi as his mother, and sages like Bhrigu as his disciples:
 
-*nArAyaNa: pithA yasya mAtA chApi hari priyA |*
-*bhrugvAdi munaya: SishyAstasmai viKhaNasE nama: ||*
+<details open><summary>देवनागरी</summary>
+
+नारायणः पिता यस्य माता चापि हरि प्रिया ।
+भृग्वादि मुनयः शिष्यास्तस्मै विखनसे नमः ॥
+</details>
+<details open><summary>Roman</summary>
+
+nArAyaNa: pithA yasya mAtA chApi hari priyA |
+bhrugvAdi munaya: SishyAstasmai viKhaNasE nama: ||
+</details>
 
 ![Image of the idol of Sage VikhAnasa at Tirupati](Image_Page_25)
 *"Vishnu-pUjA-visArada" - Sage VikhAnasa - Tirupati*
@@ -395,15 +607,31 @@ Atri Maharshi gives the story of how the Brahma obtained from Vishnu the Vaikhan
 [[26]]
 ...(*apasyAd Vishnuktam Agamam vistArat tada*). He was now known as Vikhanas or great sage. He abridged the elaborate teachings, retaining the most essential aspects (**samkshipya sAram AdAya**) and taught this version, which was like a well-carved gem (**sanolliKhita-ratnAvat**), to his sons, Marichi and others, who were hermits. This version was one and half crore of verses in extent.
 
-*dhAtA viKhanasO nAma marIchyAdistutAnmunIn |*
-*abOdhayadidam ShAstram sArthakOti pramANata: ||*
+<details open><summary>देवनागरी</summary>
+
+धाता विखनसो नाम मरीच्यादिस्तुतान्मुनीन् ।
+अबोधयदिदं शास्त्रं सार्थकोटि प्रमाणतः ॥
+</details>
+<details open><summary>Roman</summary>
+
+dhAtA viKhanasO nAma marIchyAdistutAnmunIn |
+abOdhayadidam ShAstram sArthakOti pramANata: ||
+</details>
 
 The sages who received this abridged teaching were four in number; and as they were the offsprings of Vikhanas, they came to be recognized as Vaikhanasas: Marichi, Bhrigu, Atri and Kasyapa. They recast and further condensed the teaching in four lakhs of verses ('*chAturlaksheshu granthEsu samkshipya samhitah*'). And they were responsible for the formation of the Vaikhansa community.
 
 According to Marichi, the arrival of Vikhanasa Maharshi in the Naimisa forest was on a Monday, when there was full moon and lagna was simha, during the bright half of the Sravana month, in the era which began with Swayambhuva Manu.
 
-*sravanE srAvanE sukla pourNimA sOmavAsarE |*
-*simha lagnEcha samyuktE bhajE naimisamAgatam ||*
+<details open><summary>देवनागरी</summary>
+
+श्रवणे श्रावणे शुक्ल पौर्णिमा सोमवारं ।
+सिंह लग्नेच संयुक्ते भजे नैमिसमागतम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+sravanE srAvanE sukla pourNimA sOmavAsarE |
+simha lagnEcha samyuktE bhajE naimisamAgatam ||
+</details>
 
 'Kriyadhikara' by Sage Bhrigu provides a more elaborative description on how the Vaikhanasa mode of worship was instituted. When Vishnu at the beginning of the Kalpa was absorbed in meditational slumber (**yoga-nidra**) upon the milky ocean, Brahma appeared, in the lotus, which sprang forth from Vishnu's navel. Brahma, four-faced, contemplated upon Vishnu as soon as he appeared, whereupon Vishnu directed him to create all the worlds and all the creatures in them, and gave him the Veda mantrAs to help him in the creation. Brahma created all things, all beings and all the gods, and worshipped Vishnu with the...
 
@@ -442,9 +670,17 @@ The Vaikhanasas, tracing as they do their descent from Vishnu himself, regard th
 [[30]]
 ...pudding, the following mantra is recited:
 
-*tvatsutO bhAgyavAn dhanyO garbhavaishnava sangnita: |*
-*aprAkrutO mahAtmAsau garbhachakrENa lAnchita: ||*
-*(Sri Vaikhanasa Kalpa Sutram)*
+<details open><summary>देवनागरी</summary>
+
+त्वत्सुतो भाग्यवान् धन्यो गर्भवैष्णव सङ्ग़्नितः ।
+अप्राकृतो महात्मासौ गर्भचक्रेण लाञ्छितः ॥
+</details>
+<details open><summary>Roman</summary>
+
+tvatsutO bhAgyavAn dhanyO garbhavaishnava sangnita: |
+aprAkrutO mahAtmAsau garbhachakrENa lAnchita: ||
+(Sri Vaikhanasa Kalpa Sutram)
+</details>
 
 The belief is that Vishnu himself will brand on the arms of the individual to be born the marks of the conch and discus, which He carries in His own hands. Thus the person is a Vaishnava, even when he is born, and he is regarded as the offspring of Vishnu viz., Vaikhanasa. The practical import of this ceremony is that the child born as a Vaikhansa is already sanctified and initiated by Vishnu himself and does not need any other sacrament or initiatory rite to make him a Vishnu-devotee or a qualified priest. He acquires the right to be a priest by his very birth. This is in contradistinction to the priests of other communities (as for eg. The Pancharathrins), for whom during the boyhood a formal ceremony of branding the arms with heated metallic images of Vishnu's conch and discus (**tapta-mudrankana** or **samAsrayanam**) is conducted. A Vaikhanasa not only does not require this external imprint ceremony, but is prohibited from going through it at any cost. If he does this ritual, due to ignorance or out of greed, under duress or force, he ceases to be a priest and must undergo prayaschittam rites. Without the prayaschittam he is not eligible to touch the Dhruva-bera in the temple.
 
@@ -464,12 +700,27 @@ The Vaikhanasas carry on their worship entirely with Vedic Mantras and are also 
 [[32]]
 ...like Baudhayana, idol worship was not for them a substitute for the Vedic ritual, but was itself in their view, a Vedic ritual. Hence the sutra prescription:
 
-*tasmAdagnau nityahOmAntE vishnurnityArchA gruhE dEvAyatanE bhaktyA bhagavantam nArAyanamarchayEt ||*
+<details open><summary>देवनागरी</summary>
+
+तस्मादग्नौ नित्यहोमान्ते विष्णोर्नित्यार्चा गृहे देवतायतने भक्त्या भगवन्तं नारायणमर्चयेत् ॥
+</details>
+<details open><summary>Roman</summary>
+
+tasmAdagnau nityahOmAntE vishnurnityArchA gruhE dEvAyatanE bhaktyA bhagavantam nArAyanamarchayEt ||
+</details>
 
 There is an intriguing verse in Vishnu-Purana, which has been cited and explained by Srinivasa-Deekshita in his Tatparya-Chintamani (Uttama brahma vidya saram):
 
-*yajvabhiryagnapurushO vAsudEvaSva sAtvatau: |*
-*vEdAntavEdibhirvishnu: prOchyatE yO natOsmi tam ||*
+<details open><summary>देवनागरी</summary>
+
+यज्वभिर्यज्ञपुरुषो वासुदेवस्व सात्वतौः ।
+वेदान्तवेदिभिर्विष्णुः प्रोच्यते यो नतोस्मि तम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+yajvabhiryagnapurushO vAsudEvaSva sAtvatau: |
+vEdAntavEdibhirvishnu: prOchyatE yO natOsmi tam ||
+</details>
 
 ![Painting of Yajna Purusha emerging from fire](Image_Page_32)
 *Yajna purusha*
@@ -582,11 +833,25 @@ The Vaikhanasas are distinguished by their uncompromising devotion to Vishnu...
 ---
 
 [[39]]
-*athagnau nityahOmantE vishnOrnityArchA sarvadEvArchA bhavathi |*
-*(Vimanarchana Kalpam)*
+<details open><summary>देवनागरी</summary>
 
-*agnirvaidEvAnAmavamO vishnu: paramastadantarEna sarvA anya dEvatA iti brAhmaNam |*
-*(Aitareya Brahmana. 1,1,1)*
+अथाग्नौ नित्यहोमान्ते विष्णोर्नित्यार्चा सर्वदेवार्चा भवति ॥
+</details>
+<details open><summary>Roman</summary>
+
+athagnau nityahOmantE vishnOrnityArchA sarvadEvArchA bhavathi |
+(Vimanarchana Kalpam)
+</details>
+
+<details open><summary>देवनागरी</summary>
+
+अग्निर्वैदेवानामवमो विष्णुः परमस्तदन्तरेण सर्वा अन्य देवता इति ब्राह्मणम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+agnirvaidEvAnAmavamO vishnu: paramastadantarEna sarvA anya dEvatA iti brAhmaNam |
+(Aitareya Brahmana. 1,1,1)
+</details>
 
 The Vaikhanasa school retained Vishnu in his Vedic context and advocated the worship of Vishnu with the six Vedic hymns addressed to Vishnu (**shad-Vaishnavam**). The books also admit that Narayana and Vasudeva are expressions which are synonyms with Vishnu, but prefer to retain the expression Vishnu, as it is the only expression recognized in the Vedic corpus. Consider this for instance, 'Agni' and 'Vahni' both mean the fire-god, but when the offering in fire is made, the proper announcement would be '**Agnaye Svaha**' and not '**Vahnaye Svaha**'.
 
@@ -594,8 +859,16 @@ According to Vaikhanasas, worship of gods is of two kinds: iconic (**sa-mUrta**)
 
 The view of the ancient sages like Bhrigu, that by worshipping Vishnu, the god of gods, in ceremonial splendor again and again, one would achieve the benefits normally derived from the performance of sacrifices:
 
-*utsavE devadEvEsam yam sEvantE tE sarvE padE padE |*
-*yagnaphalam labhEranniti bhrugvAdayO vadanti ||*
+<details open><summary>देवनागरी</summary>
+
+उत्सवे देवदेवेशं यं सेवन्ते ते सर्वे पदे पदे ।
+यज्ञफलं लभेरन्निति भृग्वादयो वदन्ति ॥
+</details>
+<details open><summary>Roman</summary>
+
+utsavE devadEvEsam yam sEvantE tE sarvE padE padE |
+yagnaphalam labhEranniti bhrugvAdayO vadanti ||
+</details>
 
 A statement from the Vaikhanasa kalpa–sutra to the effect that all Vedic rites,...
 
@@ -604,9 +877,18 @@ A statement from the Vaikhanasa kalpa–sutra to the effect that all Vedic rites
 [[40]]
 ...austerities and sacrifices prescribed in the Vedas are only variant form of worship of Vishnu:
 
-*athatOnushtAnakalpam vyaKhyAsyAma: |*
-*sarvE vaidikAchArAstapOyagnaSva vishNupUjAvidhErbhEdA: |*
-*iti vaikhAnasa sUtram ||*
+<details open><summary>देवनागरी</summary>
+
+अथतोनुष्ठानकल्पं व्याख्यास्यामः ।
+सर्वे वैदिकाचारास्तपोयज्ञस्व विष्णुपूजाविधेर्भेदाः ।
+इति वैखानस सूत्रम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+athatOnushtAnakalpam vyaKhyAsyAma: |
+sarvE vaidikAchArAstapOyagnaSva vishNupUjAvidhErbhEdA: |
+iti vaikhAnasa sUtram ||
+</details>
 
 The ancient lawgivers knew that in the worship of Vishnu the Vaikhanasas were only following the lead given by the great sages of yore like Vasishta, the ascetics like Sanaka, and by the section of the ancient followers of the Vedic tradition who were the adherents of the cult Vishnu. (*Vriddha-Haritha-Samhitha*).
 
@@ -623,9 +905,18 @@ In the Vaikhanasa texts, it is prescribed for purposes of invocation (**AvAhana*
 [[41]]
 ...front of the idol (behind the screen), and reciting the '**Atma-sUktham**', should enter into a state of meditative absorption, when he will become in fact Vishnu himself. Then follows the sequence of symbolic and ritual 'placement' (**nyAsa**), after this identity of self with Vishnu is transferred to the main idol. Derived from this facility with which the priest can identify himself with the Deity during a worship sequence is the notion that the priest has an enduring divine presence within him. We read, for instance, in Bhrigu's Kriyadhikara that Vishnu has two forms: the Idol and the Priest. The idol acquires divinity after invocation (**AvAhana**), while divinity abides always in the priest. He is therefore to be regarded as a mobile god viz., **saakshat Vishnu rupi**.
 
-*rUpadvayam hare: prOkta bimbamarchaka Eva cha |*
-*bimbam tvAvAhanAdUrdhvam sadA sannihitOarchaka ||*
-*archakastu hari: sAkshAtchhara rUpi na samsaya: |*
+<details open><summary>देवनागरी</summary>
+
+रूपद्वयं हरेः प्रोक्त बिम्बमर्चक एव च ।
+बिम्बं त्वावाहनादूर्ध्वं सदा सन्निहितोर्चक ॥
+अर्चकस्तु हरिः साक्षाच्छर रूपि न संशयः ॥
+</details>
+<details open><summary>Roman</summary>
+
+rUpadvayam hare: prOkta bimbamarchaka Eva cha |
+bimbam tvAvAhanAdUrdhvam sadA sannihitOarchaka ||
+archakastu hari: sAkshAtchhara rUpi na samsaya: |
+</details>
 
 The Atma-Sukta (Sri Vaikhanasa Mantra Prasna, 5-49; Sri Vishnuvarchana Sara Sangraham and KAsyapa's Achara-Kanda) is a collection of nine verses in the trishtubh metre. Its employment is peculiar to the Vaikhanasa worship. It is recited while invoking the form of Vishnu in his cosmic aspect (**sa-kala**), and it is meant to enlarge the consciousness of the worshipper to cosmic dimensions so that his own constitution may accommodate Vishnu's '**sakala**' form. It is a procedure by means of which the priest's self identifies itself with the highest of selves, viz., Vishnu. The hymn is called Atma-Sukta not only because it begins with the words '**AtmAtma**', but also because it concerns itself with transforming the individual self into the cosmic spirit.
 
@@ -640,73 +931,164 @@ The Atma-Sukta (Sri Vaikhanasa Mantra Prasna, 5-49; Sri Vishnuvarchana Sara Sang
 [[43]]
 ## ATMA-SUKTAM
 
-*AtmAtmA paramAntarAtmA mahyantarAtmA |*
-*yaschAdirAtmA sat u nOntarAtmA |*
-*vyAvEshti vishvam sakalam bibharti |*
-*yO vyaktapunya: sat u na: pradhAna: || 1 ||*
+<details open><summary>देवनागरी</summary>
+
+आत्मात्मा परमान्तरात्मा मह्यन्तरात्मा ।
+यश्चादिरात्मा सत् उ नोन्तरात्मा ।
+व्यावेष्टि विश्वं सकलं बिभर्ति ।
+यो व्यक्तपुण्यः सत् उ नः प्रधानः ॥ १ ॥
+</details>
+<details open><summary>Roman</summary>
+
+AtmAtmA paramAntarAtmA mahyantarAtmA |
+yaschAdirAtmA sat u nOntarAtmA |
+vyAvEshti vishvam sakalam bibharti |
+yO vyaktapunya: sat u na: pradhAna: || 1 ||
+</details>
 
 **Meaning:**
 That which is the self of the self, the supreme self, the inner self, the inner self of the earth, and the primordial self, is indeed our inmost self; It pervades the universe and sustains all things. As if the merit manifests itself, it is our chief.
 
-*prANA: praNIti: sa udAna Adi*
-*vraradO varAhO vyAnaSva mE syAt |*
-*tapasAm cha mUrti: kapilO munIndrO |*
-*yaSvApAnO hayasIshA na: || 2 ||*
+<details open><summary>देवनागरी</summary>
+
+प्राणाः प्रणीतिः स उदान आदि
+व्ररदो वराहो व्यानश्व मे स्यात् ।
+तपसां च मूर्तिः कपिलो मुनीन्द्रो ।
+यश्वापानो हयसीषा नः ॥ २ ॥
+</details>
+<details open><summary>Roman</summary>
+
+prANA: praNIti: sa udAna Adi
+vraradO varAhO vyAnaSva mE syAt |
+tapasAm cha mUrti: kapilO munIndrO |
+yaSvApAnO hayasIshA na: || 2 ||
+</details>
 
 **Meaning:**
 The outward breath (**prAna**) is our guide (**praniti**); the upward breath (**udAna**) is the primordial and boon-bestowing boar (**varAha**); the spreading breath (**vyAna**) is the form of Kapila, the sage who is the personification of penance; the downward breath (**apAna**) is the horse-headed deity, Hayagriva.
 
-*Yatsava akshnAtyajara: samagram |*
-*Sriyam Urjayuktam sat u mE samAna: |*
-*Balam Asuram yatsatatam nihantA |*
+<details open><summary>देवनागरी</summary>
+
+यत्सव अश्नात्यजरः समग्रं ।
+श्रियं ऊर्जयुक्तं सत् उ मे समानः ।
+बलं आसुरं यत्सततं निहन्ता ।
+</details>
+<details open><summary>Roman</summary>
+
+Yatsava akshnAtyajara: samagram |
+Sriyam Urjayuktam sat u mE samAna: |
+Balam Asuram yatsatatam nihantA |
+</details>
 
 ---
 
 [[44]]
-*brahmA buddhim gOpa ISvara: || 3 ||*
+<details open><summary>देवनागरी</summary>
+
+ब्रह्मा बुद्धिं गोप ईश्वरः ॥ ३ ॥
+</details>
+<details open><summary>Roman</summary>
+
+brahmA buddhim gOpa ISvara: || 3 ||
+</details>
 
 **Meaning:**
 My digestive breath (**samAna**) is that which devours everything, even goddess of prosperity (Sri) with her energy; my strength vanquished at all times evil forces, and my intellect is verily Brahma, and Isvara is my protector.
 
-*savitA cha vIya induSva dhAtu |*
-*rasayutam bhUtA bhUtA: udaram nabhO vA |*
-*bhUmiryathAmGrirvavrudhEsamIsha: || 4 ||*
+<details open><summary>देवनागरी</summary>
+
+सविता च वीय इन्दुश्व धातु ।
+रसयुतं भूता भूताः उदरं नभो वा ।
+भूमिर्यथाङ्घ्रिर्ववृधेसमीषः ॥ ४ ॥
+</details>
+<details open><summary>Roman</summary>
+
+savitA cha vIya induSva dhAtu |
+rasayutam bhUtA bhUtA: udaram nabhO vA |
+bhUmiryathAmGrirvavrudhEsamIsha: || 4 ||
+</details>
 
 **Meaning:**
 Savitri (the aspect of Sun-god) is my sex energy, the moon is the watery ingredients in my body; the five basic elements (bhutas: earth, water, fire, air and akasa) are the constituents of my body; the sky is my head, the mid-region is my belly; and the spreading earth constitutes my feet; I am indeed the ruler of all things.
 
-*asthINi mE syuratha parvatAKhyA |*
-*bhujagaSva kashA divi yE charanta: |*
-*dyoU nEtrarUpoU pruthuprushnimuKhyoU |*
-*rudhiram cha sAram sakalam cha tOyam || 5 ||*
+<details open><summary>देवनागरी</summary>
+
+अस्थीणि मे स्युरथ पर्वताख्या ।
+भुजगश्व कशा दिवि ये चरन्तः ।
+द्यौ नेत्ररूपौ पृथुप्रुष्निमुख्यौ ।
+रुधिरं च सारं सकलं च तोयम् ॥ ५ ॥
+</details>
+<details open><summary>Roman</summary>
+
+asthINi mE syuratha parvatAKhyA |
+bhujagaSva kashA divi yE charanta: |
+dyoU nEtrarUpoU pruthuprushnimuKhyoU |
+rudhiram cha sAram sakalam cha tOyam || 5 ||
+</details>
 
 **Meaning:**
 My bones should verily be called the mountains; my hairs are the serpents that move about in the heavens; my two eyes are the wide earth and the high sky; and my blood is the essential watery content of the universe.
 
-*snAyavO mE AsannadIrbhrugum hridayamastu |*
+<details open><summary>देवनागरी</summary>
+
+स्नायवो मे आसन्नदीर्भृगुं हृदयंअस्तु ।
+</details>
+<details open><summary>Roman</summary>
+
+snAyavO mE AsannadIrbhrugum hridayamastu |
+</details>
 
 ---
 
 [[45]]
-*sava anyE munayAgabhUtA: |*
-*vEdA mE Asyam jihvA mE saraswatI |*
-*dantA maruta upajihvA upasruti: || 6 ||*
+<details open><summary>देवनागरी</summary>
+
+सव अन्ये मुनयागभूताः ।
+वेदा मे आस्यं जिह्वा मे सरस्वती ।
+दन्ता मरुत उपजिह्वा उपस्रुतिः ॥ ६ ॥
+</details>
+<details open><summary>Roman</summary>
+
+sava anyE munayAgabhUtA: |
+vEdA mE Asyam jihvA mE saraswatI |
+dantA maruta upajihvA upasruti: || 6 ||
+</details>
 
 **Meaning:**
 My sinews are the rivers on the earth, my heart is Bhrigu himself (the Vaikhanasa Sage) and my limbs are all the other sages; my mouth represents the Vedic lore and my tongue is the goddess of speech, Sarasvati; the wind-gods (maruts) are my teeth, and my epiglottis is the revelation of the sacred texts.
 
-*vrushaNau mitrAvaruNAvupasthA: prajApati: |*
-*AntrA mE vEdA: SrutismrutI mEdhAdhAraNE |*
-*svEdam mE vasha mUtrakOsham samudram |*
-*purIsham kAnchanam || 7 ||*
+<details open><summary>देवनागरी</summary>
+
+वृषणौ मित्रावरुणावुपस्थाः प्रजापतिः ।
+आन्त्रा मे वेदाः श्रुतिस्मृती मेधाधारणे ।
+स्वेदं मे वष मूत्रकोषं समुद्रम् ।
+पुरीषं काञ्चनम् ॥ ७ ॥
+</details>
+<details open><summary>Roman</summary>
+
+vrushaNau mitrAvaruNAvupasthA: prajApati: |
+AntrA mE vEdA: SrutismrutI mEdhAdhAraNE |
+svEdam mE vasha mUtrakOsham samudram |
+purIsham kAnchanam || 7 ||
+</details>
 
 **Meaning:**
 My testicles are the twin gods, Mitra and Varuna, my sex organ is the creator, Prajapati; my entrails are the Vedic hymns; my intellect (**medha**) and retention (**dharana**) are the revealed texts (**sruti**) and the texts subsidiary to them (**smriti**); my perspiration is indeed the rains, and my bladder is the ocean itself; my fecal matter is gold.
 
-*sAvitrI gAyatrI maryAdA vEdI |*
-*hrutpuNdarIka vimalE pravishTa: |*
-*sakala: salakshmI: savibhUtikAngO |*
-*yatsava puNyam mayyadhishTAnamastu || 8 ||*
+<details open><summary>देवनागरी</summary>
+
+सावित्री गायत्री मर्यादा वेदी ।
+हृत्पुण्डरीक विमले प्रविष्टः ।
+सकलः सलक्ष्मीः सविभूतिकायो ।
+यत्सव पुण्यं मय्यधिष्ठानमस्तु ॥ ८ ॥
+</details>
+<details open><summary>Roman</summary>
+
+sAvitrI gAyatrI maryAdA vEdI |
+hrutpuNdarIka vimalE pravishTa: |
+sakala: salakshmI: savibhUtikAngO |
+yatsava puNyam mayyadhishTAnamastu || 8 ||
+</details>
 
 ---
 
@@ -714,9 +1096,18 @@ My testicles are the twin gods, Mitra and Varuna, my sex organ is the creator, P
 **Meaning:**
 The hymn in the gayatri metre addressed to the sun-god (Savitri) is the sacred precincts and the altar; and into the pure lotus of my heart has entered Vishnu in His cosmic aspect (**sakala**), along with the goddess of wealth (srI), in all His glory; may all that is filled with merit in me provide for Him a foothold.
 
-*savashAm dEvAnAmAtmaka: |*
-*savashAm munInAmAtmaka: -*
-*stapOmUrtiriha puNyamUrtirAsan || 9 ||*
+<details open><summary>देवनागरी</summary>
+
+सवषां देवानामात्मकः ।
+सवषां मुनीनामात्मकः -
+तपोमूर्तिरिह पुण्यमूर्तिरासन् ॥ ९ ॥
+</details>
+<details open><summary>Roman</summary>
+
+savashAm dEvAnAmAtmaka: |
+savashAm munInAmAtmaka: -
+stapOmUrtiriha puNyamUrtirAsan || 9 ||
+</details>
 
 **Meaning:**
 "May I contain in myself the essence of all the gods and all the sages, may I be a personification of austerities (**tapo-murti**) and of all merit (**punya-murti**)".
@@ -810,18 +1201,42 @@ In spite of the conception of Vishnu as having aspects (murti) and idol forms (b
 [[52]]
 ...the gingelly seed, fragrance in a flower, juice in a fruit, or fire in wood. He must be conjured up in mind, and must be invoked within the heart. Even as the fire blazes forth by the friction of the arani-sticks, Vishnu appears in the heart of the devotee by constant contemplation. This is his '**sa-kala**' form, the absolute materializing itself by the devotion and visualization of the devotee.
 
-*sarvAdhAram sanAtanamapramEyamachintyam nirguNam nishkalam ksheerE sarpistilE tailam pushpE gandham phalE rasam kashTE agnimiva sarvavyApinam paramAtmAnam manasA samkalpyAvAhamEdAvAhanamridvAsanam vishnOrayuktam mitratyathA hyAraNyAm vyAsE vahnirmathanAtsannihitO bhavati tathaiva tathaiva dhyAnamathanEna bhaktasya hridi vishNu: sannihitO bhavati |*
-*(Vimanarchana Kalpam, 31st patala)*
+<details open><summary>देवनागरी</summary>
 
-*kAshTEagnirmathanAdujjvalanniva nishkaLAtmakO vishNurdhyAnamathanEna bhaktyA sankalpanAtsakalO bhavati |*
-*(Vimanarchana Kalpam, 80th patala)*
+सर्वाधारं सनातनमप्रमेयमचिन्त्यं निर्गुणं निष्कलं क्षीरे सर्पिस्तिले तैलं पुष्पे गन्धं फले रसं कष्टे अग्निमिव सर्वव्यापिनं परमात्मानं मनसा सङ्कल्प्यावाहेमेदावाहनमृद्वासिनं विष्णोरयुक्तं मित्रत्यथा ह्यरण्यां व्यासे वह्निर्मथनात्सन्निहितो भवति तथैव तथैव ध्यानमथनेन भक्तस्य हृदि विष्णुः सन्निहितो भवति ॥
+</details>
+<details open><summary>Roman</summary>
+
+sarvAdhAram sanAtanamapramEyamachintyam nirguNam nishkalam ksheerE sarpistilE tailam pushpE gandham phalE rasam kashTE agnimiva sarvavyApinam paramatmAnam manasA samkalpyAvAhamEdAvAhanamridvAsanam vishnOrayuktam mitratyathA hyAraNyAm vyAsE vahnirmathanAtsannihitO bhavati tathaiva tathaiva dhyAnamathanEna bhaktasya hridi vishNu: sannihitO bhavati |
+(Vimanarchana Kalpam, 31st patala)
+</details>
+
+<details open><summary>देवनागरी</summary>
+
+काष्ठेअग्निर्मथनादुज्ज्वलन्निव निष्कळात्मको विष्णुर्ध्यानमथनेन भक्त्या सङ्कल्पनात्सकलो भवति ॥
+</details>
+<details open><summary>Roman</summary>
+
+kAshTEagnirmathanAdujjvalanniva nishkaLAtmakO vishNurdhyAnamathanEna bhaktyA sankalpanAtsakalO bhavati |
+(Vimanarchana Kalpam, 80th patala)
+</details>
 
 It is in order to facilitate contemplation that idols are to be worshipped. Saunaka, the author of Rig vidhana is credited with the following counsel: "A beautiful image of Vishnu, with a smiling countenance and graceful looks, must be prepared in metal; the image must be delightful to the devotee. Then it must be worshipped and meditated upon. By this means, the devotee, freed from defects, will enter that very form of Brahman".
 
-*sarUpAm pratimAm vishNO: prasannavadanEkshaNAm |*
-*krutvAtmAna: prItikarIm suvarNarajatAdibhi: ||*
-*tAmarchayEttAm praNamEttAm bhajEttAm vichintayEt |*
-*vishatyapAstadOshastu tAmEva brahmarUpiNIm ||*
+<details open><summary>देवनागरी</summary>
+
+सरूपं प्रतिमां विष्णोः प्रसन्नवदनेक्षणाम् ।
+कृत्वात्मानः प्रीतिकरीं सुवर्णरजतादिभिः ॥
+तामर्चयेत्तां प्रणमेत्तां भजेत्तां विचिन्तयेत् ।
+विशत्यपास्तदोषस्तु तामेव ब्रह्मरूपिणीम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+sarUpAm pratimAm vishNO: prasannavadanEkshaNAm |
+krutvAtmAna: prItikarIm suvarNarajatAdibhi: ||
+tAmarchayEttAm praNamEttAm bhajEttAm vichintayEt |
+vishatyapAstadOshastu tAmEva brahmarUpiNIm ||
+</details>
 
 ---
 
@@ -855,15 +1270,31 @@ No doubt the Vaikhanasa Kapla Sutram is an ancient one, and what is more importa
 [[55]]
 There is truth in the traditional view that the Kalpa-sutras of Vikhanasa Maharshi provided not only inspiration but also material for the later Vaikhanasa writings. A distinction is thus drawn between the Sutra (by Vikhanas) and the Sastra (by his disciples).
 
-*mUlamasyApi SAstrasya sArthakOtipramANata: |*
-*upAdiSatsa bhagavAn asmabhyam naimishE vane ||*
-*iti samkshEpata: prOktam mahatvam sUtraSAstrayE: |*
-*(Prakirnadhikara, 30, 93-34)*
+<details open><summary>देवनागरी</summary>
+
+मूलमस्यापि शास्त्रस्य सार्थकोटिप्रमाणतः ।
+उपादिशत्स भगवान् अस्मभ्यं नैमिषे वने ॥
+इति संक्षेपतः प्रोक्तं महत्वं सूत्रशास्त्रयेः ।
+</details>
+<details open><summary>Roman</summary>
+
+mUlamasyApi SAstrasya sArthakOtipramANata: |
+upAdiSatsa bhagavAn asmabhyam naimishE vane ||
+iti samkshEpata: prOktam mahatvam sUtraSAstrayE: |
+(Prakirnadhikara, 30, 93-34)
+</details>
 
 A Kalpa Sutra is different in its orientation and approach from the Agama texts, and when the Vaikhanasa Bhagavachhastram was constituted, it had to contain the details which the Kalpa Sutra did not contain, or elaborate the details which were only suggested in the Kalpa Sutra. The requirements of Bhagavachhastram appear to have necessitated the composition of Sastra texts by the four sages, Bhrigu and others, in addition to the Kalpa Sutra by their master, Vikhanasa Maharshi. For instance, the entire Vaikhanasa literature of the post-kalpa-sutra period may be said to have stemmed out of a statement in the Sutra-text of Vikhanasa Maharshi:
 
-*tam yagnapurusham dhyAyan purushasUktEna samstUya praNAmam kuryasyagnEshu vihInam tatsampUrNam bhavatIti Sruti: | dvijAtiratindritO nityam gruhE dEvAyatanE vA bhaktyA bhagavantam nArAyanam archayEttadvishNO: paramam padam gachhatIti vignAyatE ||*
-*(Sri Vaikhanasa Grihya Sutram, 4, 12, 8-11)*
+<details open><summary>देवनागरी</summary>
+
+तं यज्ञपुरुषं ध्यायन पुरुषसूक्तेन संस्तुय प्रणामं कुर्यास्यग्नेषु विहीनं तत्सम्पूर्णं भवतीति श्रुतिः । द्विजातिरतिन्द्रितो नित्यं गृहे देवतायतने वा भक्त्या भगवन्तं नारायणं अर्चयेत्तद्विष्णोः परमं पदं गच्छतीति विज्ञायते ॥
+</details>
+<details open><summary>Roman</summary>
+
+tam yagnapurusham dhyAyan purushasUktEna samstUya praNAmam kuryasyagnEshu viHInam tatsampUrNam bhavatIti Sruti: | dvijAtiratindritO nityam gruHEn dEvAyatane vA bhaktyA bhagavantam nArAyanam archayEttadvishNO: paramam padam gachhatIti vignAyatE ||
+(Sri Vaikhanasa Grihya Sutram, 4, 12, 8-11)
+</details>
 
 One who does not perform the great sacrifices would compensate for this omission, according to scriptural authority, by contemplating upon Vishnu, who is the very personification of the great sacrifices, eulogizing him with hymns like Purusha-Sukta, and by worshipping him. Therefore, the twice-born one must worship day and night with devotion, in his own home or in a temple, Vishnu, the great god. Nrisimha-Vajapeyi-Yaji explains that sacrifice...
 
@@ -874,7 +1305,14 @@ One who does not perform the great sacrifices would compensate for this omission
 
 The text also mentions that the daily worship of Vishnu would mean in effect the worship of all the gods (who are eulogized and fed in the sacrifices, through the fire-god Agni):
 
-*athAgnau nityahOmAntE vishNOrnityArcha sarvadEvArcha bhavati |*
+<details open><summary>देवनागरी</summary>
+
+अथाग्नौ नित्यहोमान्ते विष्णोर्नित्यार्चा सर्वदेवार्चा भवति ॥
+</details>
+<details open><summary>Roman</summary>
+
+athAgnau nityahOmAntE vishNOrnityArcha sarvadEvArcha bhavati |
+</details>
 
 ![Image of decorated Lord Venkateswara](Image_Page_56)
 *" the highest god!"*
@@ -911,10 +1349,20 @@ It can be seen that these so-called 'great sacrifices' enjoined upon a household
 
 Gradually the focus moved more towards idol worship and particularly idol worship at temples along with homes. And as such the '**kriya-yoga**' is suggested. Kriya-Yoga occurs in Bhagavata (11th skanda, 27th adhyaya). Uddhava requests Krishna to enlighten him about Kriya-Yoga, which is another term for the worship of the God:
 
-*kriyAyOga samAchaSva bhavadArAdhanam prabhO |*
-*yasmAt tvAm yathArchanti sAtvatA: sAttvatarshabha ||*
-*vaidikastAntrikO miSra iti mE trividhO maKha: |*
-*trayANAmIpsitEnaiva vidhinA mAm samarchayEt ||*
+<details open><summary>देवनागरी</summary>
+
+क्रियायोग समाचश्व भवदाराधनं प्रभो ।
+यस्मात् त्वां यथार्चन्ति सात्वताः सात्त्वतर्षभ ॥
+वैदिकस्तान्त्रिको मिश्र इति मे त्रिविधो मखः ।
+त्रयाणामीप्सितेनैव विधिना मां समर्चयेत् ॥
+</details>
+<details open><summary>Roman</summary>
+
+kriyAyOga samAchaSva bhavadArAdhanam prabhO |
+yasmAt tvAm yathArchanti sAtvatA: sAttvatarshabha ||
+vaidikastAntrikO miSra iti mE trividhO maKha: |
+trayANAmIpsitEnaiva vidhinA mAm samarchayEt ||
+</details>
 
 "Worship is of three kinds. Vedic (**Vaikhanasa**), Tantrik (**Pancharatra**) and 'mixed', and that one could chose from among them whatever appeals to him."
 
@@ -931,8 +1379,16 @@ There has been a division among the bhagavatas from very early times into Vaikha
 
 The expression '**kriya-yOga**' means the ritualistic actions that the worship of Vishnu involves; even as the title of a Vaikhanasa work, 'Kriyadhikaram' of Bhrigu does. The same expression occurs in Agni-Purana (a dialogue between Narada and Brahma) as distinguished from Jnana-Yoga, which is inward and internal; 'kriyA-yOga' is defined here as outward-oriented:
 
-*gnAnayOgastu yOgasya yastu sAdhanamAtmanA |*
-*yastu bAhyArthastamdyOga: kriyAyOga: sa uchyatE ||*
+<details open><summary>देवनागरी</summary>
+
+ज्ञानयोगस्तु योगस्य यस्तु साधनमात्मना ।
+यस्तु बाह्यार्थस्तम्द्योगः क्रियायोगः स उच्यते ॥
+</details>
+<details open><summary>Roman</summary>
+
+gnAnayOgastu yOgasya yastu sAdhanamAtmanA |
+yastu bAhyArthastamdyOga: kriyAyOga: sa uchyatE ||
+</details>
 
 The same text explains that 'kriyA-yOga' consists of acts such as:
 
@@ -953,25 +1409,55 @@ The same text explains that 'kriyA-yOga' consists of acts such as:
 
 And the account ends by claiming that idol worship is the best form of worship, for its benefits are not confined to the donor or the priest but spread to all other devotees and survive for all time.
 
-*Ahanyahani yagnEna yajatO yanmahAphalam |*
-*prApnOti tatphalam vishNO: ya: kArayati mandiram ||*
-*kArayEd bhagavadgEhamiti buddim karOti ya: |*
-*saptajanmakrutam pApamalpam vA yadi vA bahu |*
-*vishNOrAlayavinyAsaprArambhadEva naSyati ||*
-*pratimAm lakshaNavatIm yam kArayati mAnava: |*
-*kESavasya sa tallOkamakshayam pratipadyatE ||*
+<details open><summary>देवनागरी</summary>
+
+अहन्यहनि यज्ञेन यजतो यन्महाफलम् ।
+प्राप्नोति तत्फलं विष्णोः यः कारयति मन्दिरम् ॥
+कारयेद् भगवद्गेहमिति बुद्धिं करोति यः ।
+सप्तजन्मकृतं पापमल्पं वा यदि वा बहु ।
+विष्णोरालयाविन्यासप्रारम्भादेव नश्यति ॥
+प्रतिमां लक्षणवतीं यं कारयति मानवः ।
+केशवस्य स तल्लोकमक्षयं प्रतिपद्यते ॥
+</details>
+<details open><summary>Roman</summary>
+
+Ahanyahani yagnEna yajatO yanmahAphalam |
+prApnOti tatphalam vishNO: ya: kArayati mandiram ||
+kArayEd bhagavadgEhamiti buddim karOti ya: |
+saptajanmakrutam pApamalpam vA yadi vA bahu |
+vishNOrAlayavinyAsaprArambhadEva naSyati ||
+pratimAm lakshaNavatIm yam kArayati mAnava: |
+kESavasya sa tallOkamakshayam pratipadyatE ||
+</details>
 
 ---
 
 [[62]]
-*bErapUjA tviyam prOktA pUjAnAmuttamOttamA |*
-*atItE yajamAnEpi chiramasyA avastitE: ||*
-*(Bhrigu's Prakeernadhikaram)*
+<details open><summary>देवनागरी</summary>
 
-*sangatirdEvapUjA cha dAnam yagna iti smruti: |*
-*yagnEshvEtEshu vidhivad bErapUjA viSishyatE ||*
-*yajamAnE mrutEyEshA SaSvatam bhuvi tishTati |*
-*(Bhrigu's Khiladhikaram 30-31)*
+बेरपूजा त्वियं प्रोक्ता पूजानामुत्तमोत्तमा ।
+अतीते यजमानेपि चिरमस्या अवस्तितैः ॥
+</details>
+<details open><summary>Roman</summary>
+
+bErapUjA tviyam prOktA pUjAnAmuttamOttamA |
+atItE yajamAnEpi chiramasyA avastitE: ||
+(Bhrigu's Prakeernadhikaram)
+</details>
+
+<details open><summary>देवनागरी</summary>
+
+सङ्गतिर्देवपूजा च दानं यज्ञ इति स्मृतिः ।
+यज्ञेष्वेतेषु विधिवद् बेरपूजा विशिष्यते ॥
+यजमाने मृतेयेषा शाश्वतं भुवि तिष्ठति ॥
+</details>
+<details open><summary>Roman</summary>
+
+sangatirdEvpUjA cha dAnam yagna iti smruti: |
+yagnEshvEtEshu vidhivad bErapUjA viSishyatE ||
+yajamAnE mrutEyEshA SaSvatam bhuvi tishTati |
+(Bhrigu's Khiladhikaram 30-31)
+</details>
 
 There is another outlook in Kalpa Sutram which facilitated the rise of Bhagavachhastram, and this pertains to the hierarchy of saints and devotees. An individual born of brahmana parents is a brahmana, but he is so only by birth and not in spirit (**jAta-mAtram**). It is only when he undergoes the sacrament of upanayana that he becomes really a brahmana, but his status as brahmana depends upon the daily performance of sandhya (or savitryadhyayana). He is naturally superior to the brahmana who is only by birth, but inferior to the brahmana, who is '**srOtriya**' (one who studies the Vedas, who has undergone the sacrament of marriage, and who performs the pAka-yagnas). But a '**srOtriya**' is inferior to the '**AhitAgni**', who studies the Vedic branch to which he belongs and tends the ritual fire at home. And he, in turn, is inferior to the '**anuchAna**', who performs without fail the '**havir-yagnAs**'. The '**bhrUna**', who performs the elaborate **sOma-yajna** is superior to the 'anuchAna'. The 'bhrUna', who is the best among the ritualists, is inferior to the '**rishi-kalpa**', who besides having the advantage of all the prescribed sacraments, is restrained and disciplined in body and mind ('*samskArair upEto yama-niyamAbhyAm*'). And the '**rishi**', who not only has studied all the four Vedas along with their auxiliary texts, but also engages himself in austerities and penance (**sAngachaturvEda-tapOyOga**). And surpassing even him is the '**muni**', who is devoted to Vishnu and is ever in...
 
@@ -982,10 +1468,20 @@ There is another outlook in Kalpa Sutram which facilitated the rise of Bhagavach
 
 Thus, the Kalpa Sutra by formulating the hierarchy (**pUrvAt pUrvAt paratO variyAn**) highlighted the value of devotion (bhakti) in contradistinction to the need for ritualistic rigor in the spiritual practices at home. The ideal of the **muni** was also the goal of the Bhagavata (Vaikhanasa) career. The **muni** is not concerned with his own salvation, but works for the welfare of others (called '**lOka-sangraha**' in Bhagavad Gita which is eminently the definitive text of the Bhagavata cult). Srinivasa Dikshitulu (or Srinivasa Makhi, an erstwhile Vaikhanasa Hereditary Pradhana Archaka of Tirumala Venkateswara Swamy temple (950 A.D.), we will get to know more about him and his works, later) in his *dasa-vidha-hEtu-nirUpanam* (10 proven reasons why Vaikhanasa way of worship is best) quotes at length from Atri's Pura Tantram (Ch.47) to the effect that the Vaikhanasas worship in temples for the good of all people, for timely rains, for abundant food, and for the glory of the ruler and the ruled; and that this is regarded as "work" (karma or kriya). The citation also distinguishes between 'worship at home' (**GrihArcha**), which is done for securing individual or familial welfare, and 'worship in the temple' (**AlayArcha**), which is done for the good of the public, and defends the superior merit of the latter. The priests who worship in temples are expected to do their work out of single-minded devotion and as a duty admitting of no diversion or interruption, all their life, and not for material benefits or monetary rewards. It is said in the Paushkara Samhita:
 
-*viprA vaiKhAnasAKhyA yE tE bhaktAstatvamuchyatE |*
-*EkAntina: susutvasthA dEhAntam nAnyayAjina: ||*
-*Kartavyamiti dEvEsam samyajantE phalam vinA |*
-*prApnuvanti cha dEhAntE vAsudEvatvamabjaja ||*
+<details open><summary>देवनागरी</summary>
+
+विप्रा वैखानसाख्या ये ते भक्तास्तत्वमुच्यते ।
+एकान्तिनः सुसुत्वस्था देहान्तं नान्ययाजिनः ॥
+कर्तव्यमिति देवेशं सम्यजन्ते फलं विना ।
+प्राप्नुवन्ति च देहान्ते वासुदेवत्वमब्जज ॥
+</details>
+<details open><summary>Roman</summary>
+
+viprA vaiKhAnasAKhyA yE tE bhaktAstatvamuchyatE |
+EkAntina: susutvasthA dEhAntam nAnyayAjina: ||
+Kartavyamiti dEvEsam samyajantE phalam vinA |
+prApnuvanti cha dEhAntE vAsudEvatvamabjaja ||
+</details>
 
 And because of this disinterested devotion that idol worship involves, the texts proclaim that idol worship is the best religious practice and that it is the only...
 
@@ -994,42 +1490,95 @@ And because of this disinterested devotion that idol worship involves, the texts
 [[64]]
 ...avenue to final emancipation:
 
-*bErapUjA tviyam prOktA pUjAnAmuttamOttamA |*
-*tasmAt sarvaprayatnEna bhaktyA paramayA yuta: |*
-*samUrtArAdhanam kuryAnnAnyathA muktimApnuyAt ||*
-*(Bhrigu's Prakeernadhikaram)*
+<details open><summary>देवनागरी</summary>
+
+बेरपूजा त्वियं प्रोक्ता पूजानामुत्तमोत्तमा ।
+तस्मात् सर्वप्रयत्नेन भक्त्या परमया युतः ।
+समूर्ताराधनं कुर्यान्नान्यथा मुक्तिमाप्नुयात् ॥
+</details>
+<details open><summary>Roman</summary>
+
+bErapUjA tviyam prOktA pUjAnAmuttamOttamA |
+tasmAt sarvaprayatnEna bhaktyA paramayA yuta: |
+samUrtArAdhanam kuryAnnAnyathA muktimApnuyAt ||
+(Bhrigu's Prakeernadhikaram)
+</details>
 
 For idol worship which could be commonly resorted to, temple is the most suitable place. But the temple must be properly constructed, and the idol appropriately installed in it and effectively installed and consecrated in it. And since the details of regular worship would be beyond the scope of the common devotees, competent priests would be required. And to guide the priests and help them in the worship rituals an Agama indispensable. It is claimed that in the present age (**Kali-Yuga**) Agamic worship alone is indicated, and not Srauta and Smarta worship which were prevalent in the previous ages (Krita Yuga, Treta Yuga and Dvapara Yuga):
 
-*SrutismrutividhanEna pUjA kAryA yugatrayE |*
-*AgamOktavidhanEna kalau dEvAn yajEtsudhI: ||*
+<details open><summary>देवनागरी</summary>
+
+श्रुतिस्मृतिविधानेन पूजा कार्या युगतये ।
+आगमोक्तविधानेन कलौ देवान् यजेत्सुधीः ॥
+</details>
+<details open><summary>Roman</summary>
+
+SrutismrutividhanEna pUjA kAryA yugatrayE |
+AgamOktavidhanEna kalau dEvAn yajEtsudhI: ||
+</details>
 
 We read in *Prakeernadhikaram* (35.25) that if the Vedic sacrifices are prescribed because they wash away the host of sins and fulfill all our desires, the worship of Vishnu will produce the same benefits, because Vishnu personifies in himself all the sacrifices:
 
-*yagnA narANAm pApaughakshAlanA: sarvakAmadA: |*
-*yathauvEjyA jagaddhAtu: sarvayagnamayO hari: ||*
+<details open><summary>देवनागरी</summary>
+
+यज्ञा नराणां पापौघक्षालनाः सर्वकामदाः ।
+यथौवेज्या जगद्धातुः सर्वयज्ञमयो हरिः ॥
+</details>
+<details open><summary>Roman</summary>
+
+yagnA narANAm pApaughakshAlanA: sarvakAmadA: |
+yathauvEjyA jagaddhAtu: sarvayagnamayO hari: ||
+</details>
 
 Even to make an endowment for a lamp in the temple of Vishnu will undoubtedly accomplish the benefits of a sacrifice:
 
 ---
 
 [[65]]
-*dIpam prayachHati narO vishNOrAyatanE hi ya: |*
-*sadakshiNasya yagnasya phalam prApnOtyasamSaya: ||*
+<details open><summary>देवनागरी</summary>
+
+दीपं प्रयच्छति नरो विष्णोरायतने हि यः ।
+सदक्षिणस्य यज्ञस्य फलं प्राप्नोत्यसंशयः ॥
+</details>
+<details open><summary>Roman</summary>
+
+dIpam prayachHati narO vishNOrAyatanE hi ya: |
+sadakshiNasya yagnasya phalam prApnOtyasamSaya: ||
+</details>
 
 And if one goes round a temple of Vishnu every morning and evening, and prostrated before the deity again and again, he would obtain the rewards of a sacrifice.
 
-*bhaktyA pradakshiNam kuryAnnityam vishNvAlayE nara: |*
-*sAyam prAtaScha dEvEsam namasyannatha chintayat |*
-*ya: praNAmam kuryAtsa tu yagnaphalam labhEt ||*
+<details open><summary>देवनागरी</summary>
+
+भक्त्या प्रदक्षिणं कुर्यान्नित्यं विष्ण्वालये नरः ।
+सायं प्रातःश्च देवेशं नमस्यन्नथ चिन्तयत् ।
+यः प्रणामं कुर्यात्स तु यज्ञफलं लभेत ॥
+</details>
+<details open><summary>Roman</summary>
+
+bhaktyA pradakshiNam kuryAnnityam vishNvAlayE nara: |
+sAyam prAtaScha dEvEsam namasyannatha chintayat |
+ya: praNAmam kuryAtsa tu yagnaphalam labhEt ||
+</details>
 
 Indeed, the expression '**ut-sava**' (ceremonial worship on special occasions, accompanied by procession etc.) became a later synonym of 'yajna' ('ut'-best; 'sava'-sacrifice), and utsava in temples were eulogized as more beneficial than all the great sacrifices like 'asvamedha'; one utsava, in fact, is said to be tantamount to a thousand asvamedha sacrifices:
 
-*udityutkrushTaSabdOyam savO yagna udAhruta: |*
-*tasmAduttamayagnatvAdutsava: paribhashyatE |*
-*vAjimEdhAntayAgAnAm tasmaddEvOtsavO vara: |*
-*vAjimEdhasahasrENa yajatE yat phalam bhavEt |*
-*yaSvOtsavEna yajatE tayOstulyam phalam smrutam ||*
+<details open><summary>देवनागरी</summary>
+
+उदित्युत्कृष्टशब्दोयं सवो यज्ञ उदाहृतः ।
+तस्मादुत्तमयज्ञत्वादुत्सवः परिभाष्यते ।
+वाजिमेधान्तयागानां तस्मद्देवोत्सवो वरः ।
+वाजिमेधसहस्रेण यजते यत् फलं भवेत् ।
+यश्वोत्सवेन यजते तयोस्तुल्यं फलं स्मृतम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+udityutkrushTaSabdOyam savO yagna udAhruta: |
+tasmAduttamayagnatvAdutsava: paribhashyatE |
+vAjimEdhAntayAgAnAm tasmaddEvOtsavO vara: |
+vAjimEdhasahasrENa yajatE yat phalam bhavEt |
+yaSvOtsavEna yajatE tayOstulyam phalam smrutam ||
+</details>
 
 ### VAIKHANASA LITERATURE
 
@@ -1110,7 +1659,14 @@ The enumeration ends with the statement that the source of all these four classe
 ---
 
 [[69]]
-*yEtEshAm chaturvidhAnAm mUlam tadvaiKhAnasasUtram |*
+<details open><summary>देवनागरी</summary>
+
+एतेषां चतुर्विधानां मूलं तद्वैखानससूत्रम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+yEtEshAm chaturvidhAnAm mUlam tadvaiKhAnasasUtram |
+</details>
 
 **Table showing the author-wise classification of the different VaikhANasa texts.**
 
@@ -1124,9 +1680,18 @@ The enumeration ends with the statement that the source of all these four classe
 
 There is a statement in Garuda Puranam, incorporated also in Prakirnadhikaram (34, 9-10), which mentions that these sages, by the command of Brahma (Vikhanasa) wrote the Vaikhanasa Scriptures and worshipped Vishnu on earth:
 
-*AdEsAt brahmaNO vishNum srInivasE atrirarchayEt|*
-*kASyapO vishNvadhishtAnE subha kshEtrE bhrugurmuni: |*
-*marIchirmandarE vishNu marchayAmAsa kEsavam ||*
+<details open><summary>देवनागरी</summary>
+
+आदेशात् ब्रह्मणो विष्णुं श्रीनिवास अत्रिरर्चयेत् ।
+काश्यपो विष्ण्वधिष्ठाने शुभ क्षेत्रे भृगुर्मुनिः ।
+मरीचिर्मन्दरे विष्णु मर्चयामास केशवम् ॥
+</details>
+<details open><summary>Roman</summary>
+
+AdEsAt brahmaNO vishNum srInivasE atrirarchayEt|
+kASyapO vishNvadhishtAnE subha kshEtrE bhrugurmuni: |
+marIchirmandarE vishNu marchayAmAsa kEsavam ||
+</details>
 
 1. Marichi in Mandara Kshetram,
 2. Atri in Srinivasa Kshetram,
@@ -1138,12 +1703,24 @@ It is difficult to identify what these places were, except Srinivasa kshetram, w
 ---
 
 [[70]]
-*puRa chaturmuKhAdEshAchatvArO munayOmalA: |*
-*praNIya vaishNAvam shAstram bhUmAvabhyarchayannrupa ||*
-*marIchirmandarE vishNumarchayAmasa kEsavam |*
-*sarvadEvOttamam dEvam (AdEshAd brahmaNo vishNum)*
-*srInivAsEatrirarchayEt |*
-*kAsyapO vishnvadhishtAnE SubhAkshEtrE bhrugurmuni: ||*
+<details open><summary>देवनागरी</summary>
+
+पुरा चतुर्मुखादेशाचत्वारो मुनयोमलाः ।
+प्रणीय वैष्णवं शास्त्रं भूमावभ्यर्चयन्नृप ॥
+मरीचिर्मन्दरे विष्णुमर्चयामास केशवम् ।
+सर्वदेवोत्तमं देवं (आदेशाद् ब्रह्मणो विष्णुम्)
+श्रीनिवासअत्रिरर्चयेत् ।
+काश्यपो विष्ण्वधिष्ठाने शुभाक्षेत्रे भृगुर्मुनिः ॥
+</details>
+<details open><summary>Roman</summary>
+
+puRa chaturmuKhAdEshAchatvArO munayOmalA: |
+praNIya vaishNAvam shAstram bhUmAvabhyarchayannrupa ||
+marIchirmandarE vishNumarchayAmasa kEsavam |
+sarvadEvOttamam dEvam (AdEshAd brahmaNo vishNum)
+srInivAsEatrirarchayEt |
+kAsyapO vishnvadhishtAnE SubhAkshEtrE bhrugurmuni: ||
+</details>
 
 Sage Marichi, one of the four sishyAs of AchArya VaikhAnasa has saluted VaikhAnasa Aagamam as **Soumyam** (Beautiful) and **Vaidheekam** (based on Veda PramANams). It has been pointed out that VaikhAnasa mode of worship would yield soubhAgyams in this world (**Eihikam**) and in the other world (**VaikunTham/Aamushmikam**). **PancharAtram** on the other hand will yield only the Phalan of Moksham (the boon of nitya kaimkaryam to the Lord in His supreme abode and enjoying ParipoorNa BrahmAnadham there). PaancharAtram in contrast to VaikhAnasam is known as **AagnEyam**, since one needs a dheekshA to worship the Lord through this aagamam. VaikhAnasas are blessed with the dheeksha even while they are in the womb of their mothers. VaikhAnasa ArchakAs have thus **Garbha dheekshai** and hence do not need any external dheekshai to engage in Bhagavad AarAdhanam. While VaikhAnasam is appropriate for ArAdhanam every where, PaancharAtra Aagamam (AgnEyam) is recommended for worship at areas, where there is not much of human sanchArams (Mountain tops, Forest areas et al). It is said that the change in worship at a temple consecrated with VaikhAnasa Aagamam to PaancharAtra Aagamam will cause sorrow to the nation. When the temple consecrated with Paancha rAtra Aagamam experiences of improper worship, then conversion to VaikhAnasa Aagamam mode of worship at that temple would reverse the inauspicious trends in the nation (*PaancharAra-vidhAnEna pratishtApya vartamAnE archanE heenE sati, soumyasya pravESEnam kartavyam tath Raaja-rAshtra samruddhikaram bhavati*).
 
@@ -1191,8 +1768,16 @@ NyAsams are completed thru appropriate mantrams and the Moolavar's sakti is invo
 4. Argya teerta samarpaNam and
 5. mukha vaasasam
 
-*Aasanam paadhyam Achamam argyam cha mukha vaasasam*
-*panchOpachArA Devasya mantrAsana parigrahE*
+<details open><summary>देवनागरी</summary>
+
+आसनं पाद्यं आचमं अर्ग्यं च मुख वाससम् ।
+पञ्चोपचारा देवस्य मन्त्रासन परिग्रहे ॥
+</details>
+<details open><summary>Roman</summary>
+
+Aasanam paadhyam Achamam argyam cha mukha vaasasam
+panchOpachArA Devasya mantrAsana parigrahE
+</details>
 
 ---
 
@@ -1212,9 +1797,18 @@ NyAsams are completed thru appropriate mantrams and the Moolavar's sakti is invo
 #### 2. SnAnasanam:
 Now the Kouthuka bhEram and His Paadhukais are placed in front and the following 8 upachArams are offered:
 
-*Paadhukam dantakAshTham cha tailamudhvardhanam tathA*
-*SirasyAmalakam tOyam kadkatam plOtamEva cha*
-*ashtOpachArA dEvasya snAsana parigrahE*
+<details open><summary>देवनागरी</summary>
+
+पाधुकं दन्तकाष्ठं च तैलमुध्वर्धनं तथा ।
+शिरस्यामलकं तोयं कद्कतं प्लोतमेव च ।
+अष्टोपचारा देवस्य स्नासन परिग्रहे ॥
+</details>
+<details open><summary>Roman</summary>
+
+Paadhukam dantakAshTham cha tailamudhvardhanam tathA
+SirasyAmalakam tOyam kadkatam plOtamEva cha
+ashtOpachArA dEvasya snAsana parigrahE
+</details>
 
 The 8 upachArams are:
 1. **dantAvadhAnam** (teeth cleaning),
@@ -1229,9 +1823,18 @@ The 8 upachArams are:
 #### 3. AlankArAsanam:
 This follows immediately after snAna Asanam.
 
-*Vastram yajn~Opaveetam cha gandhAlOpanabhUshaNE*
-*Pushpa dhAmaanjanAdarSadhUpOargyamEva cha*
-*daSopachArAn Devasya alankArAsanE dadEth*
+<details open><summary>देवनागरी</summary>
+
+वस्त्रं यज्ञोपवीतं च गन्धालोपनभूषणे ।
+पुष्प धामान्जनादर्शधूपोअर्ग्यमेव च ।
+दसोपचारान् देवस्य अलङ्कारासने ददेथ् ॥
+</details>
+<details open><summary>Roman</summary>
+
+Vastram yajn~Opaveetam cha gandhAlOpanabhUshaNE
+Pushpa dhAmaanjanAdarSadhUpOargyamEva cha
+daSopachArAn Devasya alankArAsanE dadEth
+</details>
 
 After SnAnam, ten upachArams are offered:
 
@@ -1290,19 +1893,43 @@ This is the last of the Asanams, **ParyankAsanam**.
 
 SrI VaikhAnasa Mantra prasnam describes all these upachArams and associated mantrams for the daily ArAdhanam of BhagavAn. For each UpachArAm, there is a separate mantram. The upachAram with the specific mantrams establishes the saannidhyam in the Moola BhEram from Whom the sakti for all the other Moorthys are derived. Sri PaancharAtra Poushkara Samhitai recognizes the ArAdhanam done by VaikhAnasa archakAs without expecting anything in return (**nAnya Yaajina**) and salutes these archakAs as **visEsha BhaktimAns**, who reach the lotus feet of their Lord at the end of their lives here:
 
-*viprA VaikhAnasAkhyA yE tE bhaktAstatvamuchyatE*
+<details open><summary>देवनागरी</summary>
+
+विप्रा वैखानसाख्या ये ते भक्तास्तत्वमुच्यते ॥
+</details>
+<details open><summary>Roman</summary>
+
+viprA VaikhAnasAkhyA yE tE bhaktAstatvamuchyatE
+</details>
 
 ---
 
 [[80]]
-*yEkAntina: suddhasatvasthA dEhAntam nAnya-yAjina:*
-*karmaNyamiti DevESam samyajantE Phalam vinA*
-*prApnuvati cha dEhAntE VaasudEvatvamaBjaja*
+<details open><summary>देवनागरी</summary>
+
+एकान्तिनः शुद्धसत्त्वस्था देहान्तं नान्य-याजिनः ।
+कर्मण्यमिति देवेशं सम्यजन्ते फलं विना ।
+प्राप्नुवति च देहान्ते वासुदेवत्वमब्जज ॥
+</details>
+<details open><summary>Roman</summary>
+
+yEkAntina: suddhasatvasthA dEhAntam nAnya-yAjina:
+karmaNyamiti DevESam samyajantE Phalam vinA
+prApnuvati cha dEhAntE VaasudEvatvamaBjaja
+</details>
 
 SankarshaNa samhitai of PaancharAtram states that ArAdhanam by Paanchraatra vidhAnem will bless one with Moksham, whereas the worship by VaikhAnasa vidhi will grant all auspiciousness in this world and Moksham at the end of one's life.
 
-*PoojayEt pancharAroustu mantrai: mOkshaphalapradhai:*
-*VaikhAnasOktai: dhivyairvaa mantraisarvArtha siddhayE*
+<details open><summary>देवनागरी</summary>
+
+पूजयेत् पञ्चरारौस्तु मन्त्रैः मोक्षफलप्रधैः ।
+वैखानसोक्तैः धिव्यैर्वा मन्त्रैसर्वार्थ सिद्धये ॥
+</details>
+<details open><summary>Roman</summary>
+
+PoojayEt pancharAroustu mantrai: mOkshaphalapradhai:
+VaikhAnasOktai: dhivyairvaa mantraisarvArtha siddhayE
+</details>
 
 Another PaancharAtra samhithai (*PaaramEswara samhithai*) states that one should offer namaskaraNams at least to five VaikhAnasa archakAs before adorning the Lord with Pavitra Maalais during the Pavitra Utsavam.
 
@@ -1325,10 +1952,20 @@ SnAnAsanam is performed with 30 upachArams; the alankArAsanam has 26 upachArams 
 
 Thus, both the Sri VaikhAnasa and PaancharAtra Agamams have almost equal number of anushtAna kramams for Bhagavad AarAdhanam. Sri VaikhAnasam has Veda Mantrams for every step. In PaancharAtram, Moola Mantram is used for Paadhyam, Argyam and Aachamanam after referring to the individual kriyAs. VishNu worship with extensive use of Veda Mantrams is considered special and may be this motivated swamy Desikan to indicate the uniqueness of VaikhAnasa AarAdhanam while revering both Aagamams:
 
-*ThvAm PaancharAtrikanayEna pruthagvidhEna*
-*VaikhAnasEna cha pathA niyatAdhikArA:*
-*Samjn~yAviSEshaniyamEna samarchayanta:*
-*preetyA nayanthi phalavanti dinAni dhanyA:*
+<details open><summary>देवनागरी</summary>
+
+त्वां पाञ्चरात्रिकनयेन पृथग्विधेन
+वैखानसेन च पथ नियताधिकाराः ।
+संज्ञाविशेषनियमेन समर्चयन्तः
+प्रीत्या नयन्ति फलवन्ति दिनानि धन्याः ॥
+</details>
+<details open><summary>Roman</summary>
+
+ThvAm PaancharAtrikanayEna pruthagvidhEna
+VaikhAnasEna cha pathA niyatAdhikArA:
+SamjnyAviSEshaniyamEna samarchayanta:
+preetyA nayanthi phalavanti dinAni dhanyA:
+</details>
 
 It is interesting to see that the AarAdhanam at Swamy Desikan's sannidhi at ThUppul and Thiruvaheendhrapuram is according to VaikhAnasam, where as the PaancharAtra samhita (*JayAkhya*) AarAdhanam takes place at Kaanchi VaradarAjan's temple and at Srirangam. The AarAdhanam at Thirumala is by VaikhAnasam although Sri RaamAnujA established the PaancharAtra Aagamam at many dhivya dEsams. Swamy Desikan blessed us with a SrI Sookti named **PaancharAtra Raksha** following the foot steps of Swamy AlavantAr's SrI Sookti of **Aagama PrAmANyam**. We have to revere therefore both these VaishNavite Aagamams.
 
@@ -1425,8 +2062,8 @@ Daasan,
 ---
 
 [[89]]
-## APPENDIX - 1
-### VAIKHANASA AGAMA BOOKS FOR REFERENCES
+### REFERENCES
+VAIKHANASA AGAMA BOOKS FOR REFERENCES
 
 #### INTRODUCTION:
 India is a land of Temples. The temple is a public place of worship. It is the common belief among all religions in the world to worship their Lord through prayers. This is called Bhakti Marga. In this system Priest will be there in the temple to conduct pooja to the Lord on behalf of the Devotees. This pooja system is otherwise called as Archana or Aradhana to the Lord. Daily the Priest prays to the Lord to give peace and pleasure to all the people in the world.
@@ -1523,8 +2160,7 @@ Phone: 0877-2277282
 ---
 
 [[93]]
-## APPENDIX - 2
-## BIBLIOGRAPHY
+### BIBLIOGRAPHY
 
 1. Most of the information gathered in this eBook is from the guidance of the great professor late Acharya S.K.Ramachandra Rao garu through his book *Vaikhanasagama*.
 2. Sri Vaikhanasa Kalpa Sutram by Bhagavan Vikhanasa Maharshi.
@@ -1541,12 +2177,12 @@ Phone: 0877-2277282
 ---
 
 [[95]]
-## APPENDIX - 3
-## DIVYA DESAMS FOLLOWING VAIKHANASA AAGAMAM
+### vaikhAnasa-divya-deshas
+DIVYA DESAMS FOLLOWING VAIKHANASA AAGAMAM
 
 **VadanAttu Divya Desams**
 
-### THIRUPATHI
+#### THIRUPATHI
 
 **Mangalasasanam:**
 Thirumangaialwar - 988-997
@@ -1572,7 +2208,7 @@ Total of 12 Paasurams.
 [[97]]
 **Chola Nattu Thirpathigal**
 
-### THIRUVINNAGARAM
+#### THIRUVINNAGARAM
 
 **Mangalasasanam:**
 Thirumangaialwar - 1448-1477, 1855, 2080, 2673 (72), 2674 (113)
@@ -1591,7 +2227,7 @@ Total of 47 Paasurams.
 ---
 
 [[98]]
-### KAZHICHEERAMA VINNAGARAM
+#### KAZHICHEERAMA VINNAGARAM
 
 ![Image of Lord Thiruvikrama (Vamana) with consorts](Image_Page_98)
 *Mattavizhkuzhali and Thiruvikrama NArAyaNan - KAzhicheerAma ViNNagaram*
@@ -1610,7 +2246,7 @@ Total of 10 Paasurams.
 ---
 
 [[99]]
-### THIRUVALI THIRUNAGARI
+#### THIRUVALI THIRUNAGARI
 
 **Mangalasasanam:**
 Kulasekaralwar - 725
@@ -1628,7 +2264,7 @@ Total of 42 Paasurams.
 ---
 
 [[100]]
-### THIRUNANDIPURA VINNAGARAM
+#### THIRUNANDIPURA VINNAGARAM
 
 ![Image of the processional deity (Utsavar) of Thirunandipura ViNNagaram](Image_Page_100)
 *Thirunandipura ViNNagaram utsavar*
@@ -1647,7 +2283,7 @@ Total of 10 Paasurams.
 ---
 
 [[101]]
-### THIRUNARAYUR
+#### THIRUNARAYUR
 
 ![Image of Naraiyur Nambi and consorts](Image_Page_101)
 *Naraiyur Nambi and Vanjulavalli thAyAr*
@@ -1670,7 +2306,7 @@ Total of 110 Paasurams.
 ---
 
 [[103]]
-### THIRUKKANDIYUR
+#### THIRUKKANDIYUR
 
 ![Image of the processional deity of ThirukaNdiyUr](Image_Page_103)
 *utsavar - ThirukaNdiyUr*
@@ -1689,7 +2325,7 @@ Total of 10 Paasurams.
 ---
 
 [[104]]
-### THIRUKKANNANGUDI
+#### THIRUKKANNANGUDI
 
 ![Image of Moolavar and Utsavar of Thirukannangudi](Image_Page_104)
 *Moolavar and utsavar - Thirukannangudi*
@@ -1717,7 +2353,7 @@ Total of 10 Paasurams.
 ---
 
 [[107]]
-### THIRUKKANNAPURAM
+#### THIRUKKANNAPURAM
 
 **Mangalasasanam:**
 Perialwar - 71
@@ -1737,7 +2373,7 @@ Total of 128 Paasurams.
 ---
 
 [[108]]
-### THIRUKKANNAMANGAI
+#### THIRUKKANNAMANGAI
 
 **Mangalasasanam:**
 Thirumangaialwar - 1638-1647, 1848, 2008, 2673, 2674
@@ -1753,7 +2389,7 @@ Total of 14 Paasurams.
 ---
 
 [[109]]
-### THIRUKKARAMBANUR
+#### THIRUKKARAMBANUR
 
 **Mangalasasanam:**
 Thirumangaialwar - 1399
@@ -1770,7 +2406,7 @@ Thirumangaialwar - 1399
 ---
 
 [[110]]
-### THIRUKKUDALUR
+#### THIRUKKUDALUR
 
 ![Image of Thiruvayyam kAtta PerumAl and thAyAr](Image_Page_110)
 *Thiruvayyam kAtta PerumAl and thAyAr - ThirukUDalUr*
@@ -1789,7 +2425,7 @@ Total of 10 Paasurams
 ---
 
 [[111]]
-### THIRUKAPISTALAM
+#### THIRUKAPISTALAM
 
 **Mangalasasanam:**
 Thirumazhisaialwar - 2431
@@ -1805,7 +2441,7 @@ Total of 1 Paasuram.
 ---
 
 [[112]]
-### THIRU THANJAI MAMANI KOIL
+#### THIRU THANJAI MAMANI KOIL
 
 ![Image of deities at Thiru Thanjai MAmaNi Koil](Image_Page_112)
 *Moolavar and utsavar - Thiru Thanjai MAmaNi Koil*
@@ -1824,7 +2460,7 @@ Total of 10 Paasurams.
 ---
 
 [[113]]
-### THIRUCHITRAKOOTAM
+#### THIRUCHITRAKOOTAM
 
 ![Image of Lord Govindarajan and consorts at Chidambaram (Thiruchitrakoodam)](Image_Page_113)
 *Moolavar and utsavar - Thiruchitrakoodam*
@@ -1844,7 +2480,7 @@ Total of 32 Paasurams.
 ---
 
 [[114]]
-### THIRUVELLIYANGUDI
+#### THIRUVELLIYANGUDI
 
 ![Image of Kolavalvil rAman and consorts](Image_Page_114)
 *Kolavalvil rAman - utsavar - ThirvelliyanguDi*
@@ -1865,7 +2501,7 @@ Total of 10 Paasurams.
 [[115]]
 **THONDAI NAATTU THIRUPATHIGAL**
 
-### THIRUVALLIKENI
+#### THIRUVALLIKENI
 
 ![Painting of SrI PArthasArathy PerumAL at Triplicane (Chennai)](Image_Page_115)
 *SrI PArthasArathy PerumAL - Moolavar - ThiruallikeNi*
@@ -1890,7 +2526,7 @@ Total of 12 Paasurams.
 ---
 
 [[117]]
-### THIRUVIDANTHAI (THIRUIDAVENTHAI)
+#### THIRUVIDANTHAI (THIRUIDAVENTHAI)
 
 ![Image of Lord Varaha and consorts](Image_Page_117)
 *SrI nitya kalyANa PerumAl - Moolavar - ThiruviDaventhai*
@@ -1909,7 +2545,7 @@ Total of 13 Paasurams.
 ---
 
 [[118]]
-### THIRUKKADANMALLAI
+#### THIRUKKADANMALLAI
 
 ![Image of the processional deity (Utsavar) of Thirukkadalmallai (Mahabalipuram) in flower decoration](Image_Page_118)
 *utsavar - Thirukkadalmallai*
@@ -1939,7 +2575,7 @@ Total of 27 Paasurams.
 ---
 
 [[121]]
-### THIRUTTANKA
+#### THIRUTTANKA
 
 **Mangalasasanam:**
 Thirumangaialwar - 1849, 2065.
@@ -1955,7 +2591,7 @@ Total of 2 Paasurams.
 ---
 
 [[122]]
-### THIRUNEERMALAI
+#### THIRUNEERMALAI
 
 ![Image of ThiruneervaNNan perumAL and consorts](Image_Page_122)
 *ThiruneervaNNan perumAL -Thiruneermalai*
@@ -1979,7 +2615,7 @@ Total of 20 Paasurams.
 ---
 
 [[124]]
-### THIRU PARAMESWARA VINNAGARAM
+#### THIRU PARAMESWARA VINNAGARAM
 
 ![Image of the processional deity (Utsavar) of Thiru Parameswara ViNNagaram at Kanchipuram](Image_Page_124)
 *utsavar - Thiru Parameswara ViNNagaram*
@@ -2000,7 +2636,7 @@ Total of 10 Paasurams.
 [[125]]
 **Pandya Nattu Thirupathigal**
 
-### SRIVILLIPUTTUR
+#### SRIVILLIPUTTUR
 
 **Mangalasasanam:**
 Perialwar - 133
@@ -2024,7 +2660,7 @@ Total of 2 Paasurams.
 ---
 
 [[127]]
-### THIRUKKOODAL
+#### THIRUKKOODAL
 
 ![Image of KUDalazhagar utsavar and thAyAr at Madurai](Image_Page_127)
 *KUDalazhagar utsavar and thAyAr*
@@ -2050,7 +2686,7 @@ Total of 2 Paasurams.
 ---
 
 [[129]]
-### THIRUMALIRUNSOLAI
+#### THIRUMALIRUNSOLAI
 
 **Mangalasasanam:**
 Perialwar - 71, 258, 338-359, 453-462
@@ -2080,7 +2716,7 @@ Total of 128 Paasurams.
 ---
 
 [[131]]
-### THIRUKKOSHTIYUR
+#### THIRUKKOSHTIYUR
 
 **Mangalasasanam:**
 Perialwar - 13-22, 173, 360-370
@@ -2100,7 +2736,7 @@ Total of 39 Paasurams.
 ---
 
 [[132]]
-### THIRUKKURUNGUDI
+#### THIRUKKURUNGUDI
 
 **Mangalasasanam:**
 Perialwar - 71
@@ -2120,7 +2756,7 @@ Total of 40 Paasurams.
 ---
 
 [[133]]
-### THIRUMEYYAM
+#### THIRUMEYYAM
 
 ![Image of processional deities at Thirumeyyam](Image_Page_133)
 *utsavar - Thirumeyyam*
@@ -2141,7 +2777,7 @@ Total of 9 Paasurams.
 ---
 
 [[134]]
-### THIRUPPULINGUDI
+#### THIRUPPULINGUDI
 
 **Mangalasasanam:**
 Nammalwar - 3473, 3568-3578.
@@ -2157,7 +2793,7 @@ Total of 12 Paasurams.
 ---
 
 [[135]]
-### THIRUVARAGUNAMANGAI
+#### THIRUVARAGUNAMANGAI
 
 **Mangalasasanam:**
 Nammalwar - 3571.
@@ -2179,7 +2815,7 @@ Total of 1 Paasuram.
 ---
 
 [[137]]
-### THIRUPPULLANI
+#### THIRUPPULLANI
 
 **Mangalasasanam:**
 Thirumangaialwar - 1768-1787, 2674 (131).
@@ -2197,7 +2833,7 @@ Total of 21 Paasurams.
 ---
 
 [[138]]
-### THIRUVARAMANGAI
+#### THIRUVARAMANGAI
 
 **Mangalasasanam:**
 Nammalwar: 3183-3193
@@ -2214,7 +2850,7 @@ Total of 11 Paasurams.
 ---
 
 [[139]]
-### THIRUTHOLAIVILIMANGALAM
+#### THIRUTHOLAIVILIMANGALAM
 
 **Mangalasasanam:**
 Nammalwar: 3271-3281
@@ -2230,7 +2866,7 @@ Total of 11 Paasurams.
 ---
 
 [[140]]
-### THIRUKKULANTHAI
+#### THIRUKKULANTHAI
 
 ![Image of processional deities (Utsavar) of ThirukkuLanthai](Image_Page_140)
 *Thiru MAyakkUtthan - utsavar - ThirukkuLanthai*
