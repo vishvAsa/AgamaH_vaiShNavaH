@@ -15,7 +15,7 @@ Source: [TW](https://youtu.be/p8RCWpUrhBs)
 
 00:00 - A noble gauDIya vaiShNava mlechCha family
 01:36 - nitya-naimittika-karma commitment question
-02:45 - Credits and sources
+02:45 - Credits and sources (not agreement, ofc)
 03:45 - chaitanya, sanAtana-gosvAmI सनातन-गोस्वामी 1488–1558
 04:50 - jIva-gosvAmI जीव-गोस्वामी 1513 – 1598
 05:30 - bhAgavata-purANa primacy - natural commentary of brahma-sUtra-s, gauDIya vaiShNava mistake in focus. ****
@@ -43,6 +43,10 @@ Source: [TW](https://youtu.be/p8RCWpUrhBs)
 42:55 - hari-dAsa-bAbA hindI "translation" - suggests kAmya-karma-tyAga
 44:45 - baladeva vidyAbhUShaNa camp - modern acceptance
 46:40 - Conclusion, good wishes towards gauDIya vaiShNava victory.
+
+Appendix info -
+
+"While [PROMINENT GAUDIYA GURU] sees sri baladeva as externally writing such books to just silence the noise but core sampradaya position is that varNAshramadharma is irrelevant and useless" - rAm
 </details>
 
 
