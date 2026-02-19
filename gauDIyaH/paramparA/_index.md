@@ -28,3 +28,7 @@ prabodhAnanda sarasvatI doesn't sound shrIvaiShNava at all - rather some dashanA
 </details>
 
 पश्चाद् वृन्दावने रूप-सनातन-गोस्वामिभ्यां मिलित्वा वैष्णवसाहित्यं वर्धयामास। 
+
+## शाखाः
+- it seems that S bAbAji and co are quite contra baladeva because he gives karmAnuSThAna and varNAshrama some room.
+- The gaudiya siddhanta parishat seems more varNAshrama & baladeva aligned. 
