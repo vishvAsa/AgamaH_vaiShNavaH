@@ -46,7 +46,7 @@ Source: [TW](https://youtu.be/p8RCWpUrhBs)
 
 Appendix info -
 
-"While [PROMINENT GAUDIYA GURU] sees sri baladeva as externally writing such books to just silence the noise but core sampradaya position is that varNAshramadharma is irrelevant and useless" - rAm
+"While [PROMINENT GAUDIYA GURU] sees sri baladeva as externally writing such books to just silence the noise but core sampradaya position is that varNAshramadharma is irrelevant and useless" - R
 </details>
 
 
@@ -313,7 +313,7 @@ eg. "Śrī Rūpa has defined prārabdha" - no he just pointed out one prArabdha.
 >  Bhagavan gives another statement here which is visheSha(as against sAmAnya in case of ordinary dhArmikas), now if pratyAvaya bhaiya remains after this, then that is agya-ullanghana
 
 #### Internal doctrine
-> "While bAbAjI sees sri baladeva as externally writing such books to just silence the noise but core sampradaya position (revealed to disciples) is that varNAshramadharma is irrelevant and useless." - rAm
+> "While bAbAjI sees sri baladeva as externally writing such books to just silence the noise but core sampradaya position (revealed to disciples) is that varNAshramadharma is irrelevant and useless." - R
 
 ### काम्य-कर्म-त्याग-पक्षः
 There is no prominent "vaDakalai" type faction among gauDIya-s.
