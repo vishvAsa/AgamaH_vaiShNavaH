@@ -137,18 +137,30 @@ All exceptions to the above - are just that - exceptions under
 
 <details><summary>विश्वास-टिप्पनी</summary>
 
-श्रुति-स्मृति-चोदित-कर्मणाम् एव जातश्रद्धम् प्रति लोकसङ्ग्रहार्थं विहितत्वात्,  
-लोकसङ्ग्रहे च स्वाधिकारत्वेन शास्त्रानुमतानाम् एव ग्राह्यत्वात्,  
-जातश्रद्धम् प्रत्य् अपि श्रुति-स्मृति-चोदित-कर्मणाम् आज्ञप्तत्वं सिद्धम्।
+लोकसङ्ग्रहलक्षणं रामानुजोक्तम् अन्यत्र द्रष्टव्यम् - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/lokasangrahaH)
+।
+
+लोकसङ्ग्रहे च स्वाधिकारत्वेन शास्त्रानुमतानाम् एव ग्राह्यत्वम्।  
+जातश्रद्धम् प्रत्य् अपि श्रुति-स्मृत्यादि-चोदित-कर्मणाम् आज्ञप्तत्वं सिद्धम्।
 
 न ह्य् अननुज्ञातं कर्म किञ्चन्  
 (ब्राह्मणेन धीवरकर्मवत्)  
 लोकसङ्ग्रहाय गृह्येत।  
-अतो जीवगोस्वामिनात्र +अननुज्ञात-कर्मणो ग्राह्यताया उक्तिर् न घटते। 
-
-लोकसङ्ग्रहलक्षणं रामानुजोक्तम् अन्यत्र द्रष्टव्यम् - [TW](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/ArAdhanam_dharmaH)
-।
+अतो जीवगोस्वामिनात्र +अननुज्ञात-कर्मणो ग्राह्यताया उक्तिर् न घटते।
 </details>
+
+##### प्रतिष्ठितस्यैव लोकसङ्ग्रहः
+उत्तमभक्तेषु लोकसङ्ग्रहार्थक-कर्ममिश्रार्चनस्याङ्गं कथयति २८४-तमेऽनुच्छेदे।
+
+> तथा तद्-वैपरीत्य+++(→शास्त्रीयता)+++-लक्षित-श्रद्धानाम् अपि प्रतिष्ठितानां,
+>
+> > तद्-भक्ति-वार्तानभिज्ञ-बुद्धिषु साधारण-वैदिक-कर्मानुष्ठान-लोपोऽपि मा भूद्
+>
+> इति लोक-सङ्ग्रह-पराणां गृहस्थानां दर्शितम् ।
+
+न सर्वस्यापि गृहस्थस्य लोक-सञ्जिघृक्षाऽत्रोक्तेत्य् अवधेयम् -  
+यतः "प्रतिष्ठितानां … लोक-सङ्ग्रह-पराणां गृहस्थानां दर्शितम्" इति कथयति,  
+न "गृहस्थानां दर्शितम्" इत्येव।
 
 
 #### शुद्धि-सम्पादनाय क्रियाशीलता
@@ -313,7 +325,7 @@ eg. "Śrī Rūpa has defined prārabdha" - no he just pointed out one prArabdha.
 >  Bhagavan gives another statement here which is visheSha(as against sAmAnya in case of ordinary dhArmikas), now if pratyAvaya bhaiya remains after this, then that is agya-ullanghana
 
 #### Internal doctrine
-> "While bAbAjI sees sri baladeva as externally writing such books to just silence the noise but core sampradaya position (revealed to disciples) is that varNAshramadharma is irrelevant and useless." - R
+> "While SNB sees sri baladeva vidyAbhUShaNa as externally writing such books to just silence the noise but core sampradaya position (revealed to disciples) is that varNAshramadharma is irrelevant and useless." - R
 
 ### काम्य-कर्म-त्याग-पक्षः
 There is no prominent "vaDakalai" type faction among gauDIya-s.
