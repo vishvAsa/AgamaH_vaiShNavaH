@@ -3,6 +3,8 @@ title = "२८५ देवतान्तरपूजा"
 
 +++
 
+
+## लोकाचार-रक्षापेक्षा
 <details><summary>हिन्दी - सारः</summary>
 
 (२८५) श्राद्धादि लोकाचार -  
@@ -49,6 +51,10 @@ title = "२८५ देवतान्तरपूजा"
 श्रीनारद पञ्चरात्र ग्रन्थ के श्राद्ध कथन के आरम्भ में श्रीनारायण वाक्य भी उस प्रकार ही है । 
 </details>
 
+<details><summary>English</summary>
+
+IN NARADA PANCARĀTRA as well, the exact same point [that Vedic karma is not to be abandoned] is made by Bhagavan Nārāyaṇa at the beginning of His elucidation of the śraddha ceremony for the forefathers: 
+</details>
 
 
 > **नाचरेद्** यस् तु सिद्धोऽपि  
@@ -61,6 +67,11 @@ title = "२८५ देवतान्तरपूजा"
 जो सिद्ध महापुरुष होकर भी  
 प्रथम लौकिक धर्म का आचरण नहीं करता है,  
 विविध प्रकार उपद्रव से उस की धर्म ग्लनि होती है।  
+</details>
+
+<details><summary>English</summary>
+
+O Narada, even a perfect being (siddha), who does not first execute his socio-religious duties (laukika-dharma), brings about a deterioration of dharma through disruption of the social norms. 
 </details>
 
 
@@ -76,12 +87,23 @@ title = "२८५ देवतान्तरपूजा"
 जो विवेकी हैं, अर्थात् सत् असत् विचार शील हैं, उनके पक्ष में आदेहपात वय्यन्त जिस प्रकार लोकाचार है, प्रयत्न पूर्वक उस की रक्षा करनी चाहिये । 
 </details>
 
+<details><summary>English</summary>
 
+Therefore, as long as the body remains, all those endowed with discriminating knowledge should endeavor to carefully preserve the socio-religious duties (lokacara) as originally established (yatha-sthita ). ( Narada Pancarātra ) 
+</details>
+
+
+## लोकाचार-रक्षा-प्रकारौ
 एतेषां +++(कर्म-मिश्राराधकानां)+++ च द्विविधा कर्म-व्यवस्था +++(देवान्तर-पूजने - सान्तर्यामिता-भावेन, नित्य-किङ्करता-भावेन)+++।  
 
 <details><summary>हिन्दी</summary>
 
 कर्म मिश्र अर्चन कारी गण को कर्म्म व्यवस्था द्विविध हैं ।
+</details>
+
+<details><summary>English</summary>
+
+For those who engage in worship mixed with prescribed duties (karma-miśra-arcanam), there are two ways in which the ordinance for karma may be carried out. 
 </details>
 
 
@@ -96,6 +118,10 @@ title = "२८५ देवतान्तरपूजा"
 श्रीनारद पश्ञ्चरात्रादि में इस प्रकार व्यवस्था है । 
 </details>
 
+<details><summary>English</summary>
+
+In Narada Pancaratra, it is enjoined that one should worship all living beings [including the forefathers] with the view that Bhagavan is present within them as the Supreme Immanent Self (antaryami). [This is the first manner of offering karma, in which the worship of Bhagavan is executed indirectly by the worship of other living beings.]
+</details>
 
 ## नित्य-किङ्कर-देवाः
 +++(किन्तु)+++ विष्णु-यामलादौ तु—
@@ -119,6 +145,15 @@ title = "२८५ देवतान्तरपूजा"
 इस प्रकार विधान है ।
 </details>
 
+<details><summary>English</summary>
+
+In the Visnu-yamala, however, karma is prescribed in the following alternate manner: 
+
+> The ritual of offering oblations of water to the forefathers should be performed only with water that has washed Bhagavan Vişnu's feet. All other devatās should be propitiated only with food offered to Bhagavan Visņu. (Visņu-yamala)2 
+
+</details>
+
+
 ये तु तत्र श्री-भगवत्-पीठावरण-पूजायां  
 गणेश-दुर्गाद्या वर्तन्ते,  
 ते हि विष्वक्सेनादिवद्  
@@ -131,8 +166,13 @@ title = "२८५ देवतान्तरपूजा"
 श्रीभगवान् के नित्य वैकुण्ठ सेवक हैं ।  
 </details>
 
+<details><summary>English</summary>
 
-## स्वरूप-भूत-शक्त्यात्मकाः
+In this regard, however, it is to be noted that the Ganesa and Durga who are included in the worship of the [transcendental] devas who constitute the outer circumference (āvarana) of Bhagavan's [yoga] pitha - the sanctum sanctorum of His divine līlā - are eternal servants of Bhagavan in Vaikuntha, akin to Visvaksena. 
+</details>
+
+
+### स्वरूप-भूत-शक्त्यात्मकाः
 ततश् च ते गणेश-दुर्गाद्याः,  
 ये परे माया-शक्त्य्-आत्मका गणेश-दुर्गाद्याः,  
 ते तु न भवन्ति,  
@@ -141,6 +181,11 @@ title = "२८५ देवतान्तरपूजा"
 
 अतएव नाम साम्य से गणेशदुर्गादि  
 माया शक्ति सम्भूत नहीं हो सकते हैं ।  
+</details>
+
+<details><summary>English</summary>
+
+Therefore, the Gaṇeśa and Durga [of Vaikuntha] are not the same Gaṇeśa and Durgā whose forms are products of the extrinsic potency (maya-sakti) [and whose worship is popular among people in general]. 
 </details>
 
 
@@ -239,7 +284,7 @@ title = "२८५ देवतान्तरपूजा"
 </details>
 
 
-## मन्त्र-रक्षा-नियुक्तिः
+### मन्त्र-रक्षा-नियुक्तिः
 > त्वम् एव परमेशानि  
 > अस्याधिष्ठातृ-देवता 
 
@@ -285,7 +330,7 @@ title = "२८५ देवतान्तरपूजा"
 </details>
 
 
-## वैकुण्ठावरणता
+### वैकुण्ठावरणता
 मायातीत-वैकुण्ठावरण-कथने पाद्मोत्तर-खण्डे—
 
 [^२७८]:
@@ -392,7 +437,7 @@ title = "२८५ देवतान्तरपूजा"
 </details>
 
 
-## सत्कार्यता
+### सत्कार्यता
 
 किन्तु भगवतो नित्य-वैकुण्ठ-सेवकत्वाद् विष्वक्सेनादिवत् सत्-कार्या एव ते,  
 
