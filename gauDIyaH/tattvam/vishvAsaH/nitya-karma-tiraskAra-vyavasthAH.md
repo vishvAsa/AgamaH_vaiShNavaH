@@ -166,6 +166,24 @@ All exceptions to the above - are just that - exceptions under
 तेष्व् एव प्रतिष्ठितेष्व् अन्वेति।  
 सर्वैः applies to all those referred to in the previous anuchCheda as "प्रतिष्ठितानां … लोक-सङ्ग्रह-पराणां गृहस्थानां दर्शितम्", and not absolutely everyone
 
+Video - jIva gosvAmI, kRShNadeva-sArvabhauma on pratiShThA, loka-sangraha
+
+Source: [TW](https://youtu.be/wLfJwoZz4jI)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(Apologies for audio quality in the beginning till 14:00 - forgot to set mike direction.)
+
+00:00 - Intro
+01:00 - kRShNadeva-sArvabhauma on pratiShThA, loka-sangraha
+03:10 - TD twists labdha-mahad-Asana
+04:15 - Correction
+05:40 - jIva-gosvAmI on pratiShThA, loka-sangraha
+09:35 - Confirmation by translator hari-dAsa-shAstrI
+11:25 - jIva-gosvAmI's opinion on the subjects of "विवेकज्ञैरतः सर्वैर्लोकाचारो यथास्थितः … रक्षणीयः।" from nArada-pAncharAtra
+14:45 - Conclusion
+</details>
+
 
 #### शुद्धि-सम्पादनाय क्रियाशीलता
 > किं च, जातायां श्रद्धायां  
