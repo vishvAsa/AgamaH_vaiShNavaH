@@ -352,15 +352,7 @@ And now, his own opinion: *Śrī Caitanyadeva* refers to the *Lord* or great mas
 
 Now, all these rites are present everywhere in the Śrutis, Smṛtis, Purāṇas and the Āgamas. What is then the need for this text? That he answers with *gathered* or collected *from all the scriptures*. The meaning is that whatever verses are found in all those different places, I will here collect and harmonise in a suitable way.
 
-²Gopāla Bhaṭṭa, the disciple of
-
-Prabodhānanda, beloved of the Lord,\[^FNB000002\]
-
-collects the Bhaktivilāsas
-
-to please Raghunātha Dāsa,
-
-Rūpa and Sanātana.
+²Gopāla Bhaṭṭa, the disciple of Prabodhānanda, beloved of the Lord,\[^FNB000002\] collects the Bhaktivilāsas to please Raghunātha Dāsa, Rūpa and Sanātana.
 
 He *collects* or gathers *Vilāsas* or parts of the greatest splendour. That this book is a gathering of such Bhaktivilāsas is one reason for its being called “Bhaktivilāsa”. *Beloved of the Lord* can also mean “to whom the Lord is
 </details>
