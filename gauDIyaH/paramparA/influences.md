@@ -5,6 +5,13 @@ title = "Influences"
 ## pAncharAtra 
 kAshmIri (eg. keshava of kramadIpa) is prominent. 
 
+## Chaitanya
+Preached rāgānugā-bhakti in the mood of Vraja (this is not opposed to smArta practice at all, as sahajIyas would claim).
+
+Chaitanya was not for dissolution of varNAshrama dharma, with everyone becoming a sahajiya (criticised by abhayacharaNadAsa below).
+
+He toured bhArata - saw the north curshed under muslims vs the H south. He saw the glory of gajapati-s and the vijayanagara empire, led by a shrI-vaiShNava emperor with a shrI-vaiShNava rAjaguru.
+
 ## रामानुजीय-प्रभावः - गोपालभट्टः
 Gopāla Bhaṭṭa was born to the traditional shrI-vaiShNava pAncharAtrika archaka family of shrIrangam. One of 6 gosvAmI-s.
 
@@ -18,25 +25,51 @@ Supposed reincarnation of a gopI ( Anaṅga-mañjarī per Gaura-gaṇoddeśa-dī
 
 
 ### Ritual input
-Gopāla Bhaṭṭa Gosvāmī installed one of the seven principal Deities of Vṛndāvana, the Rādhāramaṇa Deity
-
 Gopāla Bhaṭṭa Gosvāmī installed one of the seven principal Deities of Vṛndāvana, the Rādhāramaṇa Deity.
 
-#### ग्रन्थाः
-Gopāla Bhaṭṭa Gosvāmī is known as a *smṛty-ācārya* in the Gauḍīya-Vaiṣṇava-sampradāya (per abhaya-charaNa-dAsa).  
-Composed Sat-kriyāsāra-dīpikā (Source: [TW](https://archive.org/details/sat_kriya_sara_dipika/page/22/mode/1up)).
+#### Mission
+He was helping vaiShNava-s of north India, reeling under centuries of muslim devastation, rebuild their ritual and doctrinal knowledge as per chaitanya's command (which did not conflict with rAmAnuja sampradAya at all). 
 
-*Hari-bhakti-vilāsa* (aka vaiṣṇava-smṛti) was edited by gopAla-bhaTTa, with major input by sanAtana-gosvAmI. Certain gauDIya-s prefer to credit the latter.
+Chaitanya can be deduced to have felt that rUpa and sanAtana themselves, being specialists deep into rasa-shAstra and bhakti extacy, were not up to the task, but would happily cooperate. Any exposure R and S might have had to vedAnta must've been mAdhva kind at best (C was dissatisfied with it). 
+
+Gopāla Bhaṭṭa was the designated smṛty-ācārya (and famous as such) and the link to the ancient Southern traditions.
+
+#### हरि-भक्ति-विलासः
+*Hari-bhakti-vilāsa* (aka vaiṣṇava-smṛti) was edited by gopAla-bhaTTa, based on a compilation by sanAtana-gosvAmI (chaitanya supposedly ordered him to do it initially as per chaitanya charitAmRta; jIva also mentions his contribution). 
 
 > Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura writes,   
-> The *Hari-bhakti-vilāsa* was originally compiled by Śrīla Sanātana Gosvāmī. Later, Gopāla Bhaṭṭa Gosvāmī produced a shortened version of it and added the *Dig-darśinī-ṭīkā.* In the *Hari-bhakti-vilāsa* there are so many quotations from the *sātvata* scriptures that sometimes it is inquired how the atheistic *smārtas* can refuse to accept them and instead imagine some other opinions.  
+> The *Hari-bhakti-vilāsa* was originally compiled by Śrīla Sanātana Gosvāmī. Later, Gopāla Bhaṭṭa Gosvāmī produced a shortened version of it and added the *Dig-darśinī-ṭīkā.* 
+> 
 > \- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
 
+#### Sat-kriyāsāra-dīpikā
+Composed Sat-kriyāsāra-dīpikā (Source: [TW](https://archive.org/details/sat_kriya_sara_dipika/page/22/mode/1up)).
 
 
-### Caitanya-caritāmṛta disapproval
-> Gopāla Bhaṭṭa Gosvāmī ... requested him not to mention his name in the book.
-\- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
+> ॐ श्रीरूपाय, ॐ सनातनाय ॐ भट्टरघुनाथाय ॐ श्रीजीवाय, ॐ गोपालभट्टाय ॐ दासरघुनाथाय
+
+in vaiShNava homa are obviously later insertions - need not imply a later author for the rest of the material.
+
+#### shrIvaiShNavatvam
+As far as he was concerned, he never stopped being an SV - no major distinction existed (gauDIya philosophy, to the tiny extant it existed, did not conflict). He starts hari-bhakti-vilAsa
+
+> चैतन्य-देवं भगवन्तम् आश्रये  
+श्री-वैष्णवानां प्रमुदेऽञ्जसा लिखन् ।  
+> …
+>
+> जीयासुर् आत्यन्तिक-भक्ति-निष्ठाः   
+श्री-वैष्णवा माथुर-मण्डलेऽत्र ।
+
+He took up tridaNDI sannyAsa, not ekadaNDI type like mAdhva-s or other gauDIya-s. Bhaktisiddhānta Sarasvatī Ṭhākura is said to have reintroduced tridaNDI sannyAsa.
+
+#### Harmony with chaitanya
+Why would an SV not be attracted by a neo-ALvAr? His parents were devoted to chaitanya - but never became gauDIya-s (the family line continues to serve shrIranga to date).
+
+chaitanya trusted him so much as to make him formalize his doctrines; but rUpa and sanAtana ultimately didn't.
+
+> When Lord Caitanya was later informed that Gopāla Bhaṭṭa Gosvāmī had gone to Vṛndāvana and met Śrī Rūpa and Sanātana Gosvāmī, He was very pleased, and He advised Śrī Rūpa and Sanātana to accept Gopāla Bhaṭṭa Gosvāmī as their younger brother and take care of him.  
+> \- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
+
 
 ### षट्-सन्दर्भ-मूलम्
 #### रामानुजीयोल्लेखाः
@@ -49,7 +82,19 @@ So, this can be deduced to have come from gopAla-bhaTTa.
 shrI-bhAShya cited in tattva, bhagavat, paramAtma sandarbha-s, not elsewhere it seems. that too mostly 1.1; and bit of adhyAya 2.
 
 
-#### जीवाद्य्-उद्देशः
+#### विवादः, परित्यागः
+gopAla-bhaTTa gave up on the project. 
+The reason is unclear, but this is likely  - he could not convince rUpa and sanAtana on some key points, including -
+
+- Use of shrIdhara-svAmi's shAnkara vaiShNava commentary as an authority for interpreting bhAgavata.
+- **The Inviolability of *Nitya-Karma*:** The lifelong, unconditional requirement for initiated Vaishnavas to perform their prescribed Vedic duties as an act of service (*kainkarya*), regardless of their level of spiritual advancement.
+- **The Primacy of *Vidhi-Mārga*:** The idea that the path of spontaneous love (*rāga-mārga*) must always operate within the boundaries and discipline established by the path of rules (*vidhi-mārga*).
+
+He could not compromise his deep-seated Sri Vaishnava convictions, and he could not override the theological vision of Rūpa and Sanātana, the leaders of the movement. They had a tilt towards the sahajIya-s.
+
+**This perfectly explains Jīva Gosvāmī's later description of the manuscript.** An abandoned work-in-progress is naturally `krama-hīnam` (disordered) and `krānta-vyutkrānta-khaṇḍitam` (scattered and fragmented).
+
+#### जीवादि-विकारः
 > कोऽपि तद्-बान्धवो +++(गोपाल)+++भट्टो  
 दक्षिण-द्विज-वंशजः ।  
 विविच्य व्यलिखद् ग्रन्थं  
@@ -75,12 +120,30 @@ This was done per the command of his uncles rUpa and sanAtana.
 यौ विलेखयतस् तत्त्वं  
 ज्ञापकौ पुस्तिकाम् इमाम् ॥३॥
 
-#### जीव-विकारः
 
-jIva naturally did not understand shrI-bhAShya and SV texts as well as gopAla-bhaTTa did (possible script problem besides lack of instruction). But he intended to do his best. So, his understanding about nitya-karma etc. deviates from that of shrI-bhAShya; while many other portions align.
+jIva naturally did not understand shrI-bhAShya and SV texts as well as gopAla-bhaTTa did (possible script problem besides lack of instruction). But he intended to do his best. So, his understanding about nitya-karma etc. deviates from that of shrI-bhAShya; while many other portions align. He re-interpreted gopAla's foundational material through a lens that prioritized the transcendental spontaneity of bhakti over the integrated ritualism inherent in Gopāla Bhaṭṭa's Sri Vaishnava and Pāñcarātrika heritage. 
 
 > It is unknown whether or not Gopala Bhatta's work was ever completed. No such work is currently available, but from Jiva's statements it seems clear that it was incomplete in scope and not methodically arranged. Though Śrī Jiva credits Gopala Bhaṭṭa with the inceptive idea and for first taking up the challenge of creating a systematic theology based on the Bhagavatam, there is little doubt that he himself did the bulk of the work on the Sandarbhas.  
 > – satyanArAyaNa-dAs-bAbAjI
+
+
+##### Rūpa and Sanātana
+By the mid-1550s, Rūpa and Sanātana, being very aged specialists in rasa-sAtra, did not themselves compose, but relied on their gifted nephew jIva. Not being smRti-specialists, their contributions ("yau vilekhayatas tattvaṁ") were more focused on bhakti rasa.
+
+They had completed their most famous personal works (Bhakti-rasāmṛta-sindhu, Ujjvala-nīlamaṇi, Bṛhad-bhāgavatāmṛta). Sanātana would pass away just a few years later (1558), and Rūpa a few years after that (1564). 
+
+##### gopAla bhaTTa
+gopAla bhaTTa "disappeared" by 1578 CE, aged about 75, while jIva started his work in the 50s. He could have read jIva's thesis and objected, but didn't. It seems that he had given up on the project as he could not convince rUpa and sanAtana on some key points. So, they got jIva to pick up the task. 
+
+Once that was done, gopAla bhaTTa could not object out of humility. Neither could he endorse (and the absence of any endorsement from him is in stark contrast with endorsement by rUpa and sanAtana). He just stuck to the direct service of his Rādhāramaṇa Deity.
+
+Jīva was not just a junior scholar. He was the hand-picked intellectual heir of Rūpa and Sanātana, the undisputed leaders of the sampradāya. He was their beloved nephew whom they had personally trained and commissioned for this monumental task.
+
+
+
+##### Impact
+This led to a subtle but critical shift in Gaudiya doctrine on nitya-karma, reframing it as a conditional performance for public good rather than an unconditional, lifelong service to God. 
+
 
 
 #### Correction
@@ -92,6 +155,10 @@ Hence, correction (as baladeva vidyAbhUShaNa attempted) was in order.
 
 ### कृत्यन्तरम्
 commentary on the *Kṛṣṇa-karṇāmṛta,*. (per abhaya-charaNa-dAsa) - [TW](https://archive.org/details/VbGI_the-krishna-karnamrita-of-lilasuka-critically-ed-with-multiple-commentaries-by-s/page/n11/mode/1up)
+
+### Caitanya-caritāmṛta disapproval
+> Gopāla Bhaṭṭa Gosvāmī ... requested him not to mention his name in the book.
+\- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
 
 ### Disciples
 Śrīnivāsa Ācārya and Gopīnātha Pūjārī were two of his disciples. (per abhaya-charaNa-dAsa)
@@ -110,29 +177,6 @@ This was accepted by rUpa (and presumably sanAtana).
 > \- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
 
 
-### shrIvaiShNavatvam
-As far as he was concerned, he never stopped being an SV - no major distinction existed (gauDIya philosophy, to the tiny extant it existed, did not conflict). He starts hari-bhakti-vilAsa
-
-> चैतन्य-देवं भगवन्तम् आश्रये  
-श्री-वैष्णवानां प्रमुदेऽञ्जसा लिखन् ।  
-> …
-> 
-> जीयासुर् आत्यन्तिक-भक्ति-निष्ठाः   
-श्री-वैष्णवा माथुर-मण्डलेऽत्र ।  
-
-He took up tridaNDI sannyAsa, not ekadaNDI type like mAdhva-s or other gauDIya-s. Bhaktisiddhānta Sarasvatī Ṭhākura is said to have reintroduced tridaNDI sannyAsa.
-
-His fellow gauDIya-s (chaitanya, rUpa and sanAtana) trusted him so much as to make him formalize their doctrines with repeated references to SV and MAdhva savants.
-
-> When Lord Caitanya was later informed that Gopāla Bhaṭṭa Gosvāmī had gone to Vṛndāvana and met Śrī Rūpa and Sanātana Gosvāmī, He was very pleased, and He advised Śrī Rūpa and Sanātana to accept Gopāla Bhaṭṭa Gosvāmī as their younger brother and take care of him.  
-> \- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
-
-#### chaitanya influence & task
-Why would an SV not be attracted by a neo-ALvAr? His parents were devoted to chaitanya - but never became gauDIya-s (the family line continues to serve shrIranga to date). 
-
-He was helping feral vaiShNava-s of north India build their ritual and doctrinal knowledge as per chaitanya's command (which did not conflict with rAmAnuja sampradAya at all). Chaitanya can be deduced to have felt that rUpa and sanAtana themselves were not up to the task, but would happily cooperate.
-
-Any exposure R and S might have had to vedAnta must've been mAdhva kind at best (C was dissatisfied with it)
 
 
 ## mAdhva connection
@@ -151,6 +195,14 @@ The "eastern" bit might be "sarasvatI as spouse of viShNu" type (presumably orig
 > A +++(presumably eastern)+++ commentator to Keshava Kashmiri, identifies the two devis accompanying Vishnu/Krishna in a particular dhyana as lakShmI and sarasvatI. 
 
 ### सहजीयाः
+#### Deviances
+The Gosvāmīs Demanded a Foundation of Vidhi (Rules). The sahajiyās wanted to jump straight to the "love affairs of Radha and Krishna" without qualification.
+
+The Gosvāmīs Created a Demanding Intellectual and Institutional Framework. The sahajiyā mindset is anti-intellectual and anti-authoritarian.
+
+The Gosvāmīs Mandated Extreme Personal Purity and Asceticism. The sahajiyās often used the līlā of Krishna as a pretext for their own sensual indulgence.
+
+#### Criticism
 > There are many *sahajiyās* who decry the activities of the six Gosvāmīs — Śrīla Rūpa, Sanātana, Raghunātha dāsa, Bhaṭṭa Raghunātha, Jīva and Gopāla Bhaṭṭa Gosvāmīs — who are the personal associates of Śrī Caitanya Mahāprabhu and who enlightened society by writing books on devotional service. Similarly, Narottama dāsa Ṭhākura and other great *ācāryas* like Madhvācārya, Rāmānujācārya and others accepted many thousands of disciples to induce them to render devotional service. However, there is a class of *sahajiyās* who think that these activities are opposed to the principles of devotional service. Indeed, they consider such activities simply another phase of materialism. Thus opposing the principles of Śrī Caitanya Mahāprabhu, they commit offenses at His lotus feet.  
 > ...  
 > The *sahajiyās’* understanding of the love affairs between Rādhā and Kṛṣṇa is not bona fide because they do not follow the principles laid down by the six Gosvāmīs. Their illicit connection and their imitation of the dress of Rūpa Gosvāmī, as well as their avoidance of the prescribed methods of revealed scriptures, will lead them to the lowest regions of hell. These imitative *sahajiyās* are cheated and unfortunate. They are not equal to advanced devotees (*paramahaṁsas*)*.* Debauchees and *paramahaṁsas* are not on the same level.   
