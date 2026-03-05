@@ -2,7 +2,7 @@
 title = "Contributions"
 +++
 
-## रामानुजीयोल्लेखाः
+## गोपालभट्टेन रामानुजीयोल्लेखाः
 Initial portions of ShaT-sandarbha contain many references to rAmAnuja's shrI-bhAShya, madhva and jAmAtR-muni (vAdikesari azhagiyamanavALa jeeyar - shishya of periyavAcchAn piLLai - called devarAjamuni). The last is not that well-known, yet is cited with great reverence.
 
 > श्री-रामानुजाचार्य-मताचार्य-वरेण परम-वृद्ध-श्री-वैष्णव-सम्प्रदाय-गुरुणा श्री-जामातृ-मुनिनोपदिष्टम्
@@ -17,12 +17,19 @@ gopAla-bhaTTa gave up on the project.
 The reason is unclear, but this is likely  - he could not convince rUpa and sanAtana on some key points, including -
 
 - Use of shrIdhara-svAmi's shAnkara vaiShNava commentary as an authority for interpreting bhAgavata.
+- Citations like the below in hari-bhakti-vilAsa - 
+  शिवे च परमेशाने  
+  विष्णौ च परमात्मनि ।  
+  समबुद्ध्या प्रवर्त्तन्ते  
+  ते वै भागवतोत्तमाः ॥३०॥
 - **The Inviolability of *Nitya-Karma*:** The lifelong, unconditional requirement for initiated Vaishnavas to perform their prescribed Vedic duties as an act of service (*kainkarya*), regardless of their level of spiritual advancement.
 - **The Primacy of *Vidhi-Mārga*:** The idea that the path of spontaneous love (*rāga-mārga*) must always operate within the boundaries and discipline established by the path of rules (*vidhi-mārga*).
 
+
+
 He could not compromise his deep-seated Sri Vaishnava convictions, and he could not override the theological vision of Rūpa and Sanātana, the leaders of the movement. They had a tilt towards the sahajIya type spontaneity.
 
-#### Withdrawal
+### Withdrawal
 **This perfectly explains Jīva Gosvāmī's later description of the manuscript.** An abandoned work-in-progress is naturally `krama-hīnam` (disordered) and `krānta-vyutkrānta-khaṇḍitam` (scattered and fragmented).
 
 > Gopāla Bhaṭṭa Gosvāmī ... requested him not to mention his name in the book (Caitanya-caritāmṛta).  
@@ -32,7 +39,7 @@ He could not compromise his deep-seated Sri Vaishnava convictions, and he could 
 ## जीवादि-विकारः
 > कोऽपि तद्-बान्धवो +++(गोपाल)+++भट्टो  
 दक्षिण-द्विज-वंशजः ।  
-विविच्य व्यलिखद् ग्रन्थं  
+**विविच्य** व्यलिखद् ग्रन्थं  
 लिखिताद् वृद्ध-वैष्णवैः ॥४॥
 >
 > जीव-कृता सर्व-संवादिनी - वृद्ध-वैष्णवैः श्री-रामानुज-मध्वाचार्य-श्रीधर-स्वाम्य्-आदिभिर् यल् लिखितम्, तस्माद् उद्धृतस्येत्य् अर्थः । अनेन स्व-कपोल-कल्पितत्वं च निरस्तम् ॥
@@ -81,7 +88,7 @@ This led to a subtle but critical shift in Gaudiya doctrine on nitya-karma, refr
 
 
 
-## Correction
+## Open to correction
 Also jIva presented arguments to support his conclusions. This implies that if there is any flaw therein, it should be corrected.
 
 He emphasizes that he did want to make anything sva-kapola-kalpita; and that his intention is to expand on gopAla-bhaTTa's work.
