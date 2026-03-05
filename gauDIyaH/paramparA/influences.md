@@ -5,8 +5,23 @@ title = "Influences"
 ## pAncharAtra 
 kAshmIri (eg. keshava of kramadIpa) is prominent. 
 
-## Chaitanya
-Preached rāgānugā-bhakti in the mood of Vraja (this is not opposed to smArta practice at all, as sahajIyas would claim).
+## kRShNa-Chaitanya
+(Viśvambhara Miśra 18 February 1486 – 14 June 1534)  
+Was a married scholar, who did shrAddha etc.  
+Initiated into kRShNa mantra by Īśvara Purī in about 1509 (aged 31); and took sannyAsa within a year, losing interest in domestic pursuits.  
+By April / May 1510 CE (on the day of Akṣaya-tṛtīyā), he went on a 2 year south India tour. Stayed for the four months of Cāturmāsya at Śrī Raṅgam in the house of Veṅkaṭa Bhaṭṭa, the father of Gopāla Bhaṭṭa Gosvāmī. Discovered and copied two crucial devotional texts: the Brahma-saṁhitā and Bilvamaṅgala Ṭhākura's Kṛṣṇa-karṇāmṛta. 
+Caitanya spent his time teaching Kr̥ṣṇa bhakti and engaging in communal saṁkīrtana.  
+vRndAvana tour via bengal - October 1514 CE (starting around the time of Vijayādaśamī). He spent two months in Vrindavan in c. 1515, where he instructed Sanātana Gosvāmī and Rūpa Gosvāmī on theology.  
+He spent the last two decades of his life in Puri (aged 48).
+
+
+Preached rāgānugā-bhakti in the mood of Vraja (this is not opposed to smArta practice at all, as sahajIyas would claim). His defining characteristic was not quiet adherence to rules, but uncontrollable waves of ecstatic love (prema). His public displays of chanting, dancing, weeping, and fainting in ecstasy prioritized direct emotional experience far above the placid observance of nitya-karma.
+
+Caitanya personally instructed Sanātana Gosvāmī to compile a vaiṣṇava-smṛti (which became the Hari-bhakti-vilāsa). This shows he saw the codification of rules, rituals, and proper conduct not as a secondary concern, but as a foundational pillar for the future of the movement.
+
+He consistently showed respect for the established rules of society and temple worship. When visiting the Jagannātha temple, he followed the prescribed decorum.
+
+After taking sannyāsa, Caitanya's adherence to the rules of his order was famously strict. The most powerful evidence is the excommunication of Choṭa Haridāsa for merely conversing with a woman with a hint of flirtation. Similarly, he rejected Kālā Kṛṣṇadāsa whom he rescued by the hair from keraLa. 
 
 Chaitanya was not for dissolution of varNAshrama dharma, with everyone becoming a sahajiya (criticised by abhayacharaNadAsa below).
 
@@ -35,7 +50,10 @@ Chaitanya can be deduced to have felt that rUpa and sanAtana themselves, being s
 Gopāla Bhaṭṭa was the designated smṛty-ācārya (and famous as such) and the link to the ancient Southern traditions.
 
 #### हरि-भक्ति-विलासः
-*Hari-bhakti-vilāsa* (aka vaiṣṇava-smṛti) was edited by gopAla-bhaTTa, based on a compilation by sanAtana-gosvAmI (chaitanya supposedly ordered him to do it initially as per chaitanya charitAmRta; jIva also mentions his contribution). 
+*Hari-bhakti-vilāsa* (aka vaiṣṇava-smṛti) was edited by gopAla-bhaTTa, based on a compilation by sanAtana-gosvAmI (chaitanya supposedly ordered him to do it initially as per chaitanya charitAmRta; jIva also mentions his contribution).  
+
+The fact that sanAtana did not polish and complete HBV indicates that he was not emotionally invested in that goal. It had to wait for gopAla-bhaTTa.
+
 
 > Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura writes,   
 > The *Hari-bhakti-vilāsa* was originally compiled by Śrīla Sanātana Gosvāmī. Later, Gopāla Bhaṭṭa Gosvāmī produced a shortened version of it and added the *Dig-darśinī-ṭīkā.* 
@@ -43,12 +61,25 @@ Gopāla Bhaṭṭa was the designated smṛty-ācārya (and famous as such) and 
 > \- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
 
 #### Sat-kriyāsāra-dīpikā
-Composed Sat-kriyāsāra-dīpikā (Source: [TW](https://archive.org/details/sat_kriya_sara_dipika/page/22/mode/1up)).
+Composed and completed the compendious Sat-kriyāsāra-dīpikā (Source: [TW](https://archive.org/details/sat_kriya_sara_dipika/page/22/mode/1up)) per orders of senior vaiShNava-s.
 
+> वक्ति गृहिद्विजादीनाम्
+अनन्यानां विशेषतः ।
+पद्धतिं तां विवाहादेः
+सत्क्रियासारदीपिकाम् ॥२॥
+>
+> श्रीमद्गोपालभट्टोऽयं
+साधूनामाज्ञया भृशम् ।
+भगवद्धर्म्मरक्षार्थं
+भक्तानां वैदिकी तु या ॥३॥
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 > ॐ श्रीरूपाय, ॐ सनातनाय ॐ भट्टरघुनाथाय ॐ श्रीजीवाय, ॐ गोपालभट्टाय ॐ दासरघुनाथाय
 
 in vaiShNava homa are obviously later insertions - need not imply a later author for the rest of the material.
+</details>
+
 
 #### shrIvaiShNavatvam
 As far as he was concerned, he never stopped being an SV - no major distinction existed (gauDIya philosophy, to the tiny extant it existed, did not conflict). He starts hari-bhakti-vilAsa
@@ -70,95 +101,11 @@ chaitanya trusted him so much as to make him formalize his doctrines; but rUpa a
 > When Lord Caitanya was later informed that Gopāla Bhaṭṭa Gosvāmī had gone to Vṛndāvana and met Śrī Rūpa and Sanātana Gosvāmī, He was very pleased, and He advised Śrī Rūpa and Sanātana to accept Gopāla Bhaṭṭa Gosvāmī as their younger brother and take care of him.  
 > \- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
 
-
-### षट्-सन्दर्भ-मूलम्
-#### रामानुजीयोल्लेखाः
-Initial portions of ShaT-sandarbha contains many references to rAmAnuja's shrI-bhAShya, madhva and jAmAtR-muni (vAdikesari azhagiyamanavALa jeeyar - shishya of periyavAcchAn piLLai - called devarAjamuni). The last is not that well-known, yet is cited with great reverence. 
-
-> श्री-रामानुजाचार्य-मताचार्य-वरेण परम-वृद्ध-श्री-वैष्णव-सम्प्रदाय-गुरुणा श्री-जामातृ-मुनिनोपदिष्टम्
-
-So, this can be deduced to have come from gopAla-bhaTTa.
-
-shrI-bhAShya cited in tattva, bhagavat, paramAtma sandarbha-s, not elsewhere it seems. that too mostly 1.1; and bit of adhyAya 2.
-
-
-#### विवादः, परित्यागः
-gopAla-bhaTTa gave up on the project. 
-The reason is unclear, but this is likely  - he could not convince rUpa and sanAtana on some key points, including -
-
-- Use of shrIdhara-svAmi's shAnkara vaiShNava commentary as an authority for interpreting bhAgavata.
-- **The Inviolability of *Nitya-Karma*:** The lifelong, unconditional requirement for initiated Vaishnavas to perform their prescribed Vedic duties as an act of service (*kainkarya*), regardless of their level of spiritual advancement.
-- **The Primacy of *Vidhi-Mārga*:** The idea that the path of spontaneous love (*rāga-mārga*) must always operate within the boundaries and discipline established by the path of rules (*vidhi-mārga*).
-
-He could not compromise his deep-seated Sri Vaishnava convictions, and he could not override the theological vision of Rūpa and Sanātana, the leaders of the movement. They had a tilt towards the sahajIya-s.
-
-**This perfectly explains Jīva Gosvāmī's later description of the manuscript.** An abandoned work-in-progress is naturally `krama-hīnam` (disordered) and `krānta-vyutkrānta-khaṇḍitam` (scattered and fragmented).
-
-#### जीवादि-विकारः
-> कोऽपि तद्-बान्धवो +++(गोपाल)+++भट्टो  
-दक्षिण-द्विज-वंशजः ।  
-विविच्य व्यलिखद् ग्रन्थं  
-लिखिताद् वृद्ध-वैष्णवैः ॥४॥
->
-> जीव-कृता सर्व-संवादिनी - वृद्ध-वैष्णवैः श्री-रामानुज-मध्वाचार्य-श्रीधर-स्वाम्य्-आदिभिर् यल् लिखितम्, तस्माद् उद्धृतस्येत्य् अर्थः । अनेन स्व-कपोल-कल्पितत्वं च निरस्तम् ॥
->
-> तस्याद्यं ग्रन्थनालेखं  
-क्रान्त-व्युत्क्रान्त-खण्डितम् ।  
-पर्यालोच्याथ पर्यायं  
-कृत्वा लिखति जीवकः ॥५॥
-
-<details><summary>English</summary>
-
-> Śrīla Jīva Gosvāmī has written in the beginning of his *Tattva-sandarbha,* “A devotee from southern India who was born of a *brāhmaṇa* family and was a very intimate friend of Rūpa Gosvāmī and Sanātana Gosvāmī has written a book that he has not compiled chronologically. Therefore I, a tiny living entity known as *jīva,* am trying to assort the events of the book chronologically, consulting the direction of great personalities like Madhvācārya, Śrīdhara Svāmī, Rāmānujācārya and other senior Vaiṣṇavas in the disciplic succession.”  
-> \- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
-</details>
-
-This was done per the command of his uncles rUpa and sanAtana.
-
-> जयतां मथुरा-भूमौ  
-श्रील-रूप-सनातनौ ।  
-यौ विलेखयतस् तत्त्वं  
-ज्ञापकौ पुस्तिकाम् इमाम् ॥३॥
-
-
-jIva naturally did not understand shrI-bhAShya and SV texts as well as gopAla-bhaTTa did (possible script problem besides lack of instruction). But he intended to do his best. So, his understanding about nitya-karma etc. deviates from that of shrI-bhAShya; while many other portions align. He re-interpreted gopAla's foundational material through a lens that prioritized the transcendental spontaneity of bhakti over the integrated ritualism inherent in Gopāla Bhaṭṭa's Sri Vaishnava and Pāñcarātrika heritage. 
-
-> It is unknown whether or not Gopala Bhatta's work was ever completed. No such work is currently available, but from Jiva's statements it seems clear that it was incomplete in scope and not methodically arranged. Though Śrī Jiva credits Gopala Bhaṭṭa with the inceptive idea and for first taking up the challenge of creating a systematic theology based on the Bhagavatam, there is little doubt that he himself did the bulk of the work on the Sandarbhas.  
-> – satyanArAyaNa-dAs-bAbAjI
-
-
-##### Rūpa and Sanātana
-By the mid-1550s, Rūpa and Sanātana, being very aged specialists in rasa-sAtra, did not themselves compose, but relied on their gifted nephew jIva. Not being smRti-specialists, their contributions ("yau vilekhayatas tattvaṁ") were more focused on bhakti rasa.
-
-They had completed their most famous personal works (Bhakti-rasāmṛta-sindhu, Ujjvala-nīlamaṇi, Bṛhad-bhāgavatāmṛta). Sanātana would pass away just a few years later (1558), and Rūpa a few years after that (1564). 
-
-##### gopAla bhaTTa
-gopAla bhaTTa "disappeared" by 1578 CE, aged about 75, while jIva started his work in the 50s. He could have read jIva's thesis and objected, but didn't. It seems that he had given up on the project as he could not convince rUpa and sanAtana on some key points. So, they got jIva to pick up the task. 
-
-Once that was done, gopAla bhaTTa could not object out of humility. Neither could he endorse (and the absence of any endorsement from him is in stark contrast with endorsement by rUpa and sanAtana). He just stuck to the direct service of his Rādhāramaṇa Deity.
-
-Jīva was not just a junior scholar. He was the hand-picked intellectual heir of Rūpa and Sanātana, the undisputed leaders of the sampradāya. He was their beloved nephew whom they had personally trained and commissioned for this monumental task.
-
-
-
-##### Impact
-This led to a subtle but critical shift in Gaudiya doctrine on nitya-karma, reframing it as a conditional performance for public good rather than an unconditional, lifelong service to God. 
-
-
-
-#### Correction
-Also jIva presented arguments to support his conclusions. This implies that if there is any flaw therein, it should be corrected.
-
-He emphasizes that he did want to make anything sva-kapola-kalpita; and that his intention is to expand on gopAla-bhaTTa's work.
-
-Hence, correction (as baladeva vidyAbhUShaNa attempted) was in order.
-
 ### कृत्यन्तरम्
 commentary on the *Kṛṣṇa-karṇāmṛta,*. (per abhaya-charaNa-dAsa) - [TW](https://archive.org/details/VbGI_the-krishna-karnamrita-of-lilasuka-critically-ed-with-multiple-commentaries-by-s/page/n11/mode/1up)
 
-### Caitanya-caritāmṛta disapproval
-> Gopāla Bhaṭṭa Gosvāmī ... requested him not to mention his name in the book.
-\- abhaya-charaNa-dAsaH bhaktivedAnta-svAmI
+ShaT-sandarbha abandonment, and take-over by jIva - see [here](/AgamaH_vaiShNavaH/gauDIyaH/tattvam/jIva-gosvAmI/ShaT-sandarbhaH/meta/contributions). 
+
 
 ### Disciples
 Śrīnivāsa Ācārya and Gopīnātha Pūjārī were two of his disciples. (per abhaya-charaNa-dAsa)
