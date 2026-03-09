@@ -9,7 +9,9 @@ See [leach](/AgamaH_vaiShNavaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_
 ## Doctrinal or ritual difference?
 तद् अपि लीचोल्लेखेन स्पष्टम् इह - 
 
-> That distinct groups within the Pāñcarātra should have held opposing views (as per rAmakaNTha) on the ontology of individual selves seems somewhat surprising given that in the Pāñcarātra literature that is currently available, such concerns do not figure prominently. Moreover, in the works by the Vedāntin defenders of Pāñcarātra orthodoxy, in the Vaikhānasa literature and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia. 
+> That distinct groups within the Pāñcarātra should have held opposing views (as per rAmakaNTha) on the ontology of individual selves seems somewhat surprising given that in the Pāñcarātra literature that is currently available, such concerns do not figure prominently. 
+> 
+> Moreover, in the works by the Vedāntin defenders of Pāñcarātra orthodoxy, in the Vaikhānasa literature and, as we will see presently, in the Pāñcarātra scriptures, different types of Pāñcarātrika are distinguished from one another not on account of opposing philosophical positions, but rather because of such factors as their different religious goals, liturgical practices, social class \( *varṇa*\), customs, everyday habits, and religious insignia. 
 >
 > - Leach
 
@@ -45,4 +47,9 @@ See [leach](/AgamaH_vaiShNavaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_
 जीव-तत्त्वे हि मिथो-मत-भेद इति।  
 यथा स शङ्करो ऽपि भागवत-पाञ्चरात्र-शब्द-द्वयेन पक्षद्वयम् पुरस्करोति,  
 भागवतेषु तु पाञ्चरात्रिकीं पञ्च-काल-प्रक्रियाम् एव पुरस् करोति । 
+
+## वैखानसाः पाञ्चरात्रिकाश् च
+वैखानसानां तद्-रक्षायां वेङ्कटनाथार्य-परिश्रमात्, तस्मिन् महती प्रीतिः। [TW](https://youtu.be/68gvFL3q_bg?si=LCOA_kUqHcUSWSZo) । 
+
+क्वचिद् दुराग्रहा अपि विद्यन्ते - [TW](/AgamaH_vaiShNavaH/vaikhAnasaH/kriyA/viShNu-balau_tApa-saMskAraH) ।
 
