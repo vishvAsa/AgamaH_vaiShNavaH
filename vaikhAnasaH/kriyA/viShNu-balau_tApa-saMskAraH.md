@@ -20,6 +20,13 @@ title = "विष्णु-बलौ तापसंस्कारः"
 प्रथमविवाहे कर्मलोपे सति गुणाय कल्पतय् इति केचित् - पुनरुपनयनवत्।  
 (स्वाभिप्रायस् तु तत्र - कृतस्य करणं नास्ति, हुतस्य हवनं तथेति।)  
 
+वैखनसानन्द-संहितायां 
+
+> एवं श्रियः-पतिं प्रार्थ्य  
+> शङ्ख-चक्रे प्रगृह्य वै ।  
+> मृच्-चन्दनादिकैर् लिप्तं  
+> कृत्वा तन्-मन्त्रम् उच्चरन् ॥
+
 
 ## निराकरणम्
 Current vanamamalai jeeyar has openly stated that he won't do 5s for vaikhanasa arcakas as it is not in line with agama. He made the statement during his 80th year celebration (2024). - RL

@@ -53,3 +53,7 @@ See [leach](/AgamaH_vaiShNavaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_
 
 क्वचिद् दुराग्रहा अपि विद्यन्ते - [TW](/AgamaH_vaiShNavaH/vaikhAnasaH/kriyA/viShNu-balau_tApa-saMskAraH) ।
 
+### श्रीवैष्णव-विभागः
+what does it even mean to say a vaikhAnasa is ten or vaDak? If they say "we get mukti without need for rAmAnuja sambandha stuff", does that not make them vaDakalai. 
+
+Common misconception - most of the differences today between the two have been reduced to external marks only.
