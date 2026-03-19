@@ -524,5 +524,13 @@ shrIdhara-svAmI's TIKA of bhAgavata forms the basis of gauDIya commentaries. Hen
 shrIdharI is not more natural at all. It's more a lazy annotation, rather than a proper commentary (many a time he explains one word in a verse and leaves it).  
 Early commentators likely did not have access to - say - vIrarAghava's bhAgavata commentary (0 hits in ShaT-sandarbha).
 
+## आश्रमय-त्यागे प्रत्युक्तिः
+> Srila Rupa Goswami was a Mahabhagwata an exalted devotee. So there was no need for him to practice the nitya or naimitika dharma.
+
+Here we disagree (I understand the gauDIya - more properly R&S - perspective is different). mahAbhAgavata-s do need to follow varNAshramadharma. 
+
+chaitanya took sannyAsa and followed it strictly, though a mahAbhAgavata. So did gopAla-bhaTTa.  
+
+rUpa and sanAtana didn't. jIva didn't. sanAtana abandoned his wife, gave up gRhastha dharma, did not take up sannyAsa - why and on what basis?
 
 
