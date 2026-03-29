@@ -1,0 +1,13 @@
++++
+title = "क्षेत्र-वास-वैरागी"
++++
+
+Source: [TW](https://threadreaderapp.com/thread/2038191388836438106.html)
+
+In his Purva Ashrama, Shrila Babaji Maharaja was born in Manipur and came to Vrindavan at a young age, around 15–16 years old. He later accepted initiation into the ascetic order within......
+Image
+....the tradition of Nityananda Prabhu in Gaudiya Vaishnavism.Within the sect, there exists a rare class of ascetics (vairagis) who undertake the vow of kshetra-nivasa, a commitment to never physically or even mentally.... 
+....leave the sacred dhama in which they reside, dedicating their lives entirely to the realization of bhakti. Such practitioners are exceedingly rare in the present age.Shrila Babaji Maharaja exemplified this ideal. He took a firm vow to never leave Vrindavan, 
+nor his guru’s sadhana-sthana, either physically or mentally. For nearly 60–65 years, He took a firm vow to never leave Vrindavan, nor his guru’s sadhana-sthana, either physically or mentally. For nearly 60–65 years, he remained within that small sacred space,..... 
+....deeply absorbed in the practice of Mahaprabhu’s bhakti. He would not attend formal gatherings or leave his place of worship even briefly.Despite attaining a high state of spiritual realization, he never refrained from engaging in discussions on..... 
+....Bhagavata siddhanta or sharing its teachings. At the same time, he remained constantly devoted to studying these sacred principles himself.Such genuine ascetics are difficult to find today, 
