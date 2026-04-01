@@ -287,6 +287,16 @@ If, as an ordinary person, you're into varNAshramadharma, you don't have uttamA 
 #### समीक्षा
 Opinions of baladeva show that the gauDIya-s, when driven to participate in Arya-society (jayasiMha 2) and properly consider brahmasUtras, effectively amended jIva (see above) by putting burden of lokasangraha on _all_ Ashrami-s. So, (to delight of all Arya-s) baladeva rescued gauDIya theory from degeneracy (congrats to them) with this hack.
 
+> Tradition says that in his early years, he studied in a pāṭhaśālā on the bank of the Chilka Lake, Odisha, and later went to Mysore, where he joined the Madhva sampradāya. This connection is confirmed by his own words at the end of his Siddhānta-ratna:  
+>
+> > आनन्दतीर्थ-प्लुतम् अच्युतं मे  
+चैतन्य-भास्वत्-प्रभयातिफुल्लम्।
+चेतोऽरविन्दं प्रियता-मरन्दं  
+पिबत्य् अलिः सच्-छवि तत्त्व-वादः॥
+
+If this verse is from a mature work, it explains his corrective conservative bias.
+
+
 ##### लोकसङ्ग्रह-विकारः
 While the end result is good, it's theoretically ugly (no need to butcher lokasangraha to include the ordinary householder for the same end result).
 
