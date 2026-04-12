@@ -144,11 +144,13 @@ At any rate, Sanātana arrived in Vṛndāvana around 1519 (Entwistle 1987: 147)
 
 Given that the
 
-HBV is associated with both Gopāla Bhaṭṭa and Sanātana Gosvāmins, later tradition has tried to find a solution to the question of the book’s authorship. In his *Anurāgavallī* (p.8) from 1696, Manohara Dāsa first cites the above-mentioned introductory verse of the
+HBV is associated with both Gopāla Bhaṭṭa and Sanātana Gosvāmins, later tradition has tried to find a solution to the question of the book’s authorship. 
 
-HBV and then the commentary (there called *dikpradarśinī*) “by Sanātana Gosvāmin.” He then gives a brief explanation of the meaning of the commentary as he had heard it from a wise and sober great one (*mahānta*). According to him, Sanātana Gosvāmin wrote the book but then gave it to Gopāla Bhaṭṭa, who completed it throughout. “This shows,” Manohāra Dāsa continues, “the waves of their love—a great secret is that there was no difference between them.”[^FN000014]
+In his *Anurāgavallī* (p.8) from 1696, Manohara Dāsa first cites the above-mentioned introductory verse of the HBV and then the commentary (there called *dikpradarśinī*) “by Sanātana Gosvāmin.” He then gives a brief explanation of the meaning of the commentary as he had heard it from a wise and sober great one (*mahānta*). According to him, Sanātana Gosvāmin wrote the book but then gave it to Gopāla Bhaṭṭa, who completed it throughout. “This shows,” Manohāra Dāsa continues, “the waves of their love—a great secret is that there was no difference between them.”[^FN000014]
 
-According to Nityānanda Dāsa’s *Premavilāsa* (p.214), however, Gopāla Bhaṭṭa wrote the book on the order of Rūpa and Sanātana Gosvāmins. When it was complete, he offered it to Sanātana Gosvāmin who accepted it as his own.[^FN000015] Finally, Narahari Cakravartin writes in his *Bhaktiratnākara* (1.197–198) that the idea of the book originated with Gopāla Bhaṭṭa but that it was Sanātana who actually carried out the task, writing in the name of Gopāla Bhaṭṭa.[^FN000016]
+According to Nityānanda Dāsa’s *Premavilāsa* (p.214), however, Gopāla Bhaṭṭa wrote the book on the order of Rūpa and Sanātana Gosvāmins. When it was complete, he offered it to Sanātana Gosvāmin who accepted it as his own.[^FN000015] 
+
+Finally, Narahari Cakravartin writes in his *Bhaktiratnākara* (1.197–198) that the idea of the book originated with Gopāla Bhaṭṭa but that it was Sanātana who actually carried out the task, writing in the name of Gopāla Bhaṭṭa.[^FN000016]
 
 [^FN000014]:
 
@@ -176,23 +178,13 @@ HBV today, and which indeed does call itself Bhagavadbhaktivilāsa in the chapte
 
 [^FN000017]:
 
-    In his commentary to *Caitanyacaritāmṛta* 2.1.35, Bhaktisiddhānta Sarasvatī offered the opposite alternative, that is, that the current
-
-    HBV is Gopāla Bhaṭṭa’s abbreviation of a longer text originally written by Sanātana Gosvāmin. There is unfortunately no evidence of such a longer, original
-
-    HBV.
+    In his commentary to *Caitanyacaritāmṛta* 2.1.35, Bhaktisiddhānta Sarasvatī offered the opposite alternative, that is, that the current HBV is Gopāla Bhaṭṭa’s abbreviation of a longer text originally written by Sanātana Gosvāmin. There is unfortunately no evidence of such a longer, original HBV.
 
 
 
-This solution is appealing, as it would explain the two names associated with the text. But is there any hard evidence for such an “Ur-
+This solution is appealing, as it would explain the two names associated with the text. But is there any hard evidence for such an “Ur-HBV”? Haridāsa Śāstrī never did bring out the text of Sanātana Gosvāmin’s that he mentioned, but there are several manuscripts of a HBV different from the printed one available. I have seen twenty-eight.
 
-HBV”? Haridāsa Śāstrī never did bring out the text of Sanātana Gosvāmin’s that he mentioned, but there are several manuscripts of a
-
-HBV different from the printed one available. I have seen twenty-eight.
-
-Apart from individual, perhaps unique abbreviations of the
-
-HBV,[^FN000018] there appear to be—with some small variations particularly at the beginning and end—two shorter versions of the
+Apart from individual, perhaps unique abbreviations of the HBV,[^FN000018] there appear to be—with some small variations particularly at the beginning and end—two shorter versions of the HBV.
 
 [^FN000018]:
 
@@ -200,23 +192,14 @@ HBV,[^FN000018] there appear to be—with some small variations particularly at 
 
 
 
-HBV. The first,[^FN000019] called simply
+The first,[^FN000019] called simply HBV, “The Essence of the HBV” (*haribhaktivilāsasya sārasaṅgrahaḥ*) or “An Abbreviated HBV” (*haribhaktivilāsasaṃkṣepaḥ*), runs from 16 to 48 folios and contains extracts from the HBV on different topics, beginning with offering obeisance (*praṇāma*) and continuing to verses describing the greatness of cleansing the temple, seeing the Lord, singing the names of the Lord, meditating on the Lord, worshipping the Lord, initiation, bathing the Lord, the Lord’s devotees and so on.
 
 [^FN000019]:
 
     Sanskrit College 8868, Ganganath Jha 5187, Varendra 138/1054, Kerala 15272, Paris 529/10, Pāṭhbāṛī 2002/242.
 
 
-
-HBV, “The Essence of the
-
-HBV” (*haribhaktivilāsasya sārasaṅgrahaḥ*) or “An Abbreviated
-
-HBV” (*haribhaktivilāsasaṃkṣepaḥ*), runs from 16 to 48 folios and contains extracts from the
-
-HBV on different topics, beginning with offering obeisance (*praṇāma*) and continuing to verses describing the greatness of cleansing the temple, seeing the Lord, singing the names of the Lord, meditating on the Lord, worshipping the Lord, initiation, bathing the Lord, the Lord’s devotees and so on.
-
-As the order of topics is completely different from that given in the *Caitanyacaritāmṛta* (2.24.329–345, see above), and as it usually begins with the verse “This is written as extracted from the book called *Haribhaktivilāsa* by Śrīmad Gopāla Bhaṭṭa of Vṛndāvana”[^FN000020] with no mention of Sanātana whatsoever, it is evident that this text is what it usually calls itself, a compendium of verses from the
+As the order of topics is completely different from that given in the *Caitanyacaritāmṛta* (2.24.329–345, see above), and as it usually begins with the verse “This is written as extracted from the book called *Haribhaktivilāsa* by Śrīmad Gopāla Bhaṭṭa of Vṛndāvana”[^FN000020] with no mention of Sanātana whatsoever, it is evident that this text is what it usually calls itself, a compendium of verses from the HBV.
 
 [^FN000020]:
 
@@ -224,9 +207,7 @@ As the order of topics is completely different from that given in the *Caitanyac
 
 
 
-HBV.
-
-The second and more common shorter version,[^FN000021] however, presents something closer to what we are looking for here. This version runs from 37 to 116 folios. The text here is not divided into chapters, but the contents follow the order given in the *Caitanyacaritāmṛta*, though much more concisely than in the ordinary
+The second and more common shorter version,[^FN000021] however, presents something closer to what we are looking for here. This version runs from 37 to 116 folios. The text here is not divided into chapters, but the contents follow the order given in the *Caitanyacaritāmṛta*, though much more concisely than in the ordinary HBV.
 
 [^FN000021]:
 
@@ -236,17 +217,9 @@ The second and more common shorter version,[^FN000021] however, presents somethi
 
 
 
-HBV. The 234 verses of the first chapter are here only 67; the 250 of the second chapter, 54; the 360 of the third chapter, 109; the 374 of the fourth chapter, 50; and the 480 of the fifth chapter, 81. Could this then be the original text of Sanātana’s, later expanded by Gopāla Bhaṭṭa?
+The 234 verses of the first chapter are here only 67; the 250 of the second chapter, 54; the 360 of the third chapter, 109; the 374 of the fourth chapter, 50; and the 480 of the fifth chapter, 81. Could this then be the original text of Sanātana’s, later expanded by Gopāla Bhaṭṭa?
 
-Again, the answer is no. Here as well, most manuscripts mention Gopāla Bhaṭṭa; none Sanātana. While the verse cited from the
-
-HBV in Rūpa Gosvāmin’s *Bhaktirasāmṛtasindhu* (1.2.201) is found both in this text (e.g., Rajasthan Oriental Research Institute, Alwar 3963, folio64a) and in the ordinary text (11.677), this text leaves out parts of quotations taken second-hand from earlier texts (e.g., 4.149cd–150; an untraceable citation from *Bhṛgu Smṛti* actually taken from *Viṣṇubhakticandrodaya*). That an abbreviator would cut out unnecessary verses is not hard to understand, but that a person wishing to expand a text would take the trouble to locate unnamed sources to add more verses from them is very unlikely. Further, this text includes several verses cited from the *Gautamīya Tantra*, included only in some mss of the larger text (e.g., *Gautamīya Tantra* 8.28–29 given before
-
-HBV4.162). Again, as many colophons clearly state (calling it a *saṅgraha*, summary), this text is abridged from the larger version rather than being the origin of an expanded, larger version. Finally, while these abridged versions of the
-
-HBV seem to be fairly old (the oldest manuscript I have seen, Pāṭhbāṛī 2002/242, is dated 1727 
-
-CE), there is no mention of any alternative versions of the text in the manuscript list of the Rādhā Dāmodara temple from 1597 (Śarmā 2016).
+Again, the answer is no. Here as well, most manuscripts mention Gopāla Bhaṭṭa; none Sanātana. While the verse cited from the HBV in Rūpa Gosvāmin’s *Bhaktirasāmṛtasindhu* (1.2.201) is found both in this text (e.g., Rajasthan Oriental Research Institute, Alwar 3963, folio64a) and in the ordinary text (11.677), this text leaves out parts of quotations taken second-hand from earlier texts (e.g., 4.149cd–150; an untraceable citation from *Bhṛgu Smṛti* actually taken from *Viṣṇubhakticandrodaya*). That an abbreviator would cut out unnecessary verses is not hard to understand, but that a person wishing to expand a text would take the trouble to locate unnamed sources to add more verses from them is very unlikely. Further, this text includes several verses cited from the *Gautamīya Tantra*, included only in some mss of the larger text (e.g., *Gautamīya Tantra* 8.28–29 given before HBV4.162). Again, as many colophons clearly state (calling it a *saṅgraha*, summary), this text is abridged from the larger version rather than being the origin of an expanded, larger version. Finally, while these abridged versions of the HBV seem to be fairly old (the oldest manuscript I have seen, Pāṭhbāṛī 2002/242, is dated 1727  CE), there is no mention of any alternative versions of the text in the manuscript list of the Rādhā Dāmodara temple from 1597 (Śarmā 2016).
 
 Scholars have provided other possible explanations. Dinesh Chandra Sen (1917: 37–38) thought that Sanātana Gosvāmin wrote the text in Gopāla Bhaṭṭa’s name, fearing that his conversion to Islam in his youth before coming in contact with Caitanya would prejudice readers against the book. Melville Kennedy (1925: 137) followed the same line of argument. But had Sanātana Gosvāmin really been a Muslim? It is undisputed that both Rūpa and Sanātana Gosvāmins had worked at the court of Ḥusain Shāh in their youth and that Sanātana Gosvāmin felt himself fallen and untouchable even after becoming an associate of Caitanya’s,[^FN000022] but S.K.De (1986: 97, 141–143) convincingly argued against his ever having converted to Islam, something that surely would have hindered him from studying the Hindu scriptures under Vidyāvācaspati, brother of the celebrated Vāsudeva Sārvabhauma Bhaṭṭācārya, as he himself claims in the beginning of his *Bṛhadvaiṣṇavatoṣaṇī* commentary to the tenth book of the *Bhāgavata Purāṇa*.[^FN000023]
 
@@ -264,11 +237,7 @@ Instead, S.K.De held (1986: 143) that Gopāla Bhaṭṭa was the real author, an
 
 
 
-Firstly, there are important parallels between the introductory verses of the
-
-HBV and those of the *Bṛhadvaiṣṇavatoṣaṇī*. In
-
-HBV1.4, the author praises the Vaiṣṇavas of Vṛndāvana, led by Kāśīśvara, Lokanātha and Kṛṣṇadāsa,[^FN000024] and the same three are mentioned in verse nine of the introduction to the *Bṛhadvaiṣṇavatoṣanī*.[^FN000025] Similarly, at
+Firstly, there are important parallels between the introductory verses of the HBV and those of the *Bṛhadvaiṣṇavatoṣaṇī*. In HBV1.4, the author praises the Vaiṣṇavas of Vṛndāvana, led by Kāśīśvara, Lokanātha and Kṛṣṇadāsa,[^FN000024] and the same three are mentioned in verse nine of the introduction to the *Bṛhadvaiṣṇavatoṣanī*.[^FN000025] 
 
 [^FN000024]:
 
@@ -282,7 +251,9 @@ HBV1.4, the author praises the Vaiṣṇavas of Vṛndāvana, led by Kāśīśva
 
 
 
-HBV1.2, Gopāla Bhaṭṭa, Rūpa, Sanātana and Raghunātha Dāsa are mentioned, and with the exception of Sanātana, the same persons are mentioned in verses12 and 13 of the introduction to the *Bṛhadvaiṣṇavatoṣanī*.[^FN000026] Interestingly, in his *Bhaktirasāmṛtasindhu* written in 1541, Rūpa Gosvāmin glorifies Sanātana, Gopāla Bhaṭṭa and Raghunātha Dāsa at the end of every quadrant (1.4.21, 2.5.134, 3.5.37, 4.9.44). These four therefore seem to have been very close.
+Similarly, at HBV1.2, Gopāla Bhaṭṭa, Rūpa, Sanātana and Raghunātha Dāsa are mentioned, and with the exception of Sanātana, the same persons are mentioned in verses12 and 13 of the introduction to the *Bṛhadvaiṣṇavatoṣanī*.[^FN000026] 
+
+Interestingly, in his *Bhaktirasāmṛtasindhu* written in 1541, Rūpa Gosvāmin glorifies Sanātana, Gopāla Bhaṭṭa and Raghunātha Dāsa at the end of every quadrant (1.4.21, 2.5.134, 3.5.37, 4.9.44). These four therefore seem to have been very close.
 
 [^FN000026]:
 
@@ -290,9 +261,7 @@ HBV1.2, Gopāla Bhaṭṭa, Rūpa, Sanātana and Raghunātha Dāsa are mentioned
 
 
 
-Secondly, the simple, often self-deprecating *anuṣṭubh* verses introducing every chapter of the
-
-HBV and usually addressed to Caitanya[^FN000027] are very similar to verses found in the texts uncontestably written by Sanātana, that is, the *Bṛhadbhāgavatāmṛta* (e.g., 1.12),[^FN000028] *Kṛṣṇalīlastava* (e.g., 406, 415)[^FN000029] and *Bṛhadvaiṣṇavatoṣanī* (e.g., at 10.14.40, 10.40.3 or 10.50.1).[^FN000030]
+Secondly, the simple, often self-deprecating *anuṣṭubh* verses introducing every chapter of the HBV and usually addressed to Caitanya[^FN000027] are very similar to verses found in the texts uncontestably written by Sanātana, that is, the *Bṛhadbhāgavatāmṛta* (e.g., 1.12),[^FN000028] *Kṛṣṇalīlastava* (e.g., 406, 415)[^FN000029] and *Bṛhadvaiṣṇavatoṣanī* (e.g., at 10.14.40, 10.40.3 or 10.50.1).[^FN000030]
 
 [^FN000027]:
 
@@ -314,7 +283,6 @@ HBV and usually addressed to Caitanya[^FN000027] are very similar to verses foun
 
 
 
-Thirdly, and most importantly, the connections between the main text of the
 
 [^FN000030]:
 
@@ -322,9 +290,7 @@ Thirdly, and most importantly, the connections between the main text of the
 
 
 
-HBV and its commentary reveal the author of the main text. The commentary or gloss to the
-
-HBV, generally called *Digdarśinī* (“The one that reveals the drift”) contains no name or date, but it is universally held to be written by Sanātana Gosvāmin.[^FN000031] It has the same name as Sanātana’s autocommentary to his earlier text, the *Bṛhadbhāgavatāmṛta*, and while generally shorter, the style of writing (for instance the use of *iti dik* to present the final argument, the overuse of *evam agre ’pi* and the engagement with the *Harivaṃśa* and the *Viṣṇu Purāṇa*) resembles that of this text and the *Bṛhadvaiṣṇavatoṣanī* commentary to the tenth book of the *Bhāgavata Purāṇa*. The commentary also at times refers to Sanātana’s *Bṛhadbhāgavatāmṛta* (e.g., at 11.453).
+Thirdly, and most importantly, the connections between the main text of the HBV and its commentary reveal the author of the main text. The commentary or gloss to the HBV, generally called *Digdarśinī* (“The one that reveals the drift”) contains no name or date, but it is universally held to be written by Sanātana Gosvāmin.[^FN000031] It has the same name as Sanātana’s autocommentary to his earlier text, the *Bṛhadbhāgavatāmṛta*, and while generally shorter, the style of writing (for instance the use of *iti dik* to present the final argument, the overuse of *evam agre ’pi* and the engagement with the *Harivaṃśa* and the *Viṣṇu Purāṇa*) resembles that of this text and the *Bṛhadvaiṣṇavatoṣanī* commentary to the tenth book of the *Bhāgavata Purāṇa*. The commentary also at times refers to Sanātana’s *Bṛhadbhāgavatāmṛta* (e.g., at 11.453).
 
 [^FN000031]:
 
@@ -332,9 +298,9 @@ HBV, generally called *Digdarśinī* (“The one that reveals the drift”) cont
 
 
 
-At first sight, the commentary does not appear to be written by the same author as the main text. As noted already by S.K.De (1986: 140), it includes long cited passages that easily could have been incorporated into the main text that already consists mostly of citations. While the main text is addressed to a general Vaiṣṇava audience (see below, 24–25), the commentary appears in its turn to be intended for specifically Gauḍīya Vaiṣṇavas. As the commentary mentions the *Bhaktirasāmṛtasindhu* of Rūpa Gosvāmin from 1541 (as *Bhaktirasārṇava*, at 11.631 and 632)—a book that for its part mentions the
+At first sight, the commentary does not appear to be written by the same author as the main text. As noted already by S.K.De (1986: 140), it includes long cited passages that easily could have been incorporated into the main text that already consists mostly of citations. While the main text is addressed to a general Vaiṣṇava audience (see below, 24–25), the commentary appears in its turn to be intended for specifically Gauḍīya Vaiṣṇavas. 
 
-HBV (1.2.201)—the commentary cannot have been finalised at the same time as the main text. This lapse of time between main text and commentary also seems to be implied by a statement in the commentary to the fourth verse of the first chapter, “it is also indicated that this book was written when these people were living in those places.”[^FN000032] Further, the Rādhā Dāmodara temple manuscript list mentioned above mentions two manuscripts of the
+As the commentary mentions the *Bhaktirasāmṛtasindhu* of Rūpa Gosvāmin from 1541 (as *Bhaktirasārṇava*, at 11.631 and 632)—a book that for its part mentions the HBV (1.2.201)—the commentary cannot have been finalised at the same time as the main text. This lapse of time between main text and commentary also seems to be implied by a statement in the commentary to the fourth verse of the first chapter, “it is also indicated that this book was written when these people were living in those places.”[^FN000032] Further, the Rādhā Dāmodara temple manuscript list mentioned above mentions two manuscripts of the
 
 [^FN000032]:
 
@@ -346,7 +312,7 @@ HBV and separately one of its commentary (*taṭṭīkā*, Śarmā 2016: 60). An
 
 Taken together, these arguments for a difference between the author of the main text and that of the commentary seem strong, but they do not hold up to a closer scrutiny. The commentary does indeed seem to have been finalised after the main text, and as we shall see below (25), it is addressed to a different audience. Nevertheless, I argue that the commentator is the same as the author of the main text.
 
-First, in his later work, the *Bṛhadvaiṣṇavatoṣanī*, Sanātana Gosvāmin refers to more extensive discussions on particular topics in the commentary to the *Bhagavadbhaktivilāsa* (10.470 and twice 10.58),[^FN000033] but he refers in the same way to the main text of the
+First, in his later work, the *Bṛhadvaiṣṇavatoṣanī*, Sanātana Gosvāmin refers to more extensive discussions on particular topics in the commentary to the *Bhagavadbhaktivilāsa* (10.470 and twice 10.58),[^FN000033] but he refers in the same way to the main text of the HBV (10.59–82, 3.262–280).[^FN000034]
 
 [^FN000033]:
 
@@ -358,9 +324,9 @@ First, in his later work, the *Bṛhadvaiṣṇavatoṣanī*, Sanātana Gosvāmi
 
 
 
-HBV (10.59–82, 3.262–280).[^FN000034]
 
-Second, and to me conclusively, the author of the commentary has had access to the same sources as the author of the main text, as he is often able to mention alternative readings (e.g., commentary to
+
+
 
 [^FN000034]:
 
@@ -370,13 +336,7 @@ Second, and to me conclusively, the author of the commentary has had access to t
 
 
 
-HBV1.41, 2.148, 3.173, 4.54, 5.381). This is particularly striking in the cases where the main text provides citations taken second hand from unnamed primary sources. For example, at 2.184–233, the
-
-HBV gives a lengthy citation from the *Varāha Purāṇa* (98.7–55) that textual variants show to be taken first-hand from the *Jayamādhavamānasollāsa* (folios111a–115b; for more on this text, see below 35). After the verse that is 2.145 in the
-
-HBV, the *Jayamādhavamānasollāsa* adds a short gloss that in the
-
-HBV is incorporated into the commentary.[^FN000035] That a separate commentator would firstly have known that this *Varāha Purāṇa* citation was in fact taken from the *Jayamādhavamānasollāsa* and that he secondly would have taken the trouble to find it there and insert that text’s short glosses into his commentary defies all probability. Rather, the same person wrote the main text and the commentary, and since it is clear that the commentary was written by Sanātana Gosvāmin, that means that he is the author of the main text of the
+Second, and to me conclusively, the author of the commentary has had access to the same sources as the author of the main text, as he is often able to mention alternative readings (e.g., commentary to HBV1.41, 2.148, 3.173, 4.54, 5.381). This is particularly striking in the cases where the main text provides citations taken second hand from unnamed primary sources. For example, at 2.184–233, the HBV gives a lengthy citation from the *Varāha Purāṇa* (98.7–55) that textual variants show to be taken first-hand from the *Jayamādhavamānasollāsa* (folios111a–115b; for more on this text, see below 35). After the verse that is 2.145 in the HBV, the *Jayamādhavamānasollāsa* adds a short gloss that in the HBV is incorporated into the commentary.[^FN000035] That a separate commentator would firstly have known that this *Varāha Purāṇa* citation was in fact taken from the *Jayamādhavamānasollāsa* and that he secondly would have taken the trouble to find it there and insert that text’s short glosses into his commentary defies all probability. Rather, the same person wrote the main text and the commentary, and since it is clear that the commentary was written by Sanātana Gosvāmin, that means that he is the author of the main text of the HBV as well.
 
 [^FN000035]:
 
@@ -388,33 +348,22 @@ HBV is incorporated into the commentary.[^FN000035] That a separate commentator 
 
 
 
-HBV as well.
 
-But is it not possible that Sanātana Gosvāmin had access to notes by Gopāla Bhaṭṭa Gosvāmin that he expanded into the *Digdarśinī* commentary that we have today? After all, the New Catalogus Catalogorum (Dash 2005: 240) lists three manuscripts with a commentary by “Gopāla Bhaṭṭa, the author himself.” That is possible, of course, but there is no evidence for any such Ur-commentary. I have examined these three manuscripts, but the catalogue attributions of their commentary are mistaken, as they are in all cases identical with Sanātana’s *Digdarśinī* commentary. Despite examining more than a hundred manuscripts, I have not been able to find any other commentary on the
 
-HBV than the
+But is it not possible that Sanātana Gosvāmin had access to notes by Gopāla Bhaṭṭa Gosvāmin that he expanded into the *Digdarśinī* commentary that we have today? After all, the New Catalogus Catalogorum (Dash 2005: 240) lists three manuscripts with a commentary by “Gopāla Bhaṭṭa, the author himself.” That is possible, of course, but there is no evidence for any such Ur-commentary. I have examined these three manuscripts, but the catalogue attributions of their commentary are mistaken, as they are in all cases identical with Sanātana’s *Digdarśinī* commentary. Despite examining more than a hundred manuscripts, I have not been able to find any other commentary on the HBV than the DDṬ.
 
-DDṬ.
+Further, despite the confusion regarding the authorship of the HBV, several later Gauḍīya Vaiṣṇava author treat the main text and the commentary as a seamless whole. Both the *Karmavivṛti* of Kṛṣṇadeva Sārvabhauma (Horstmann 2009: 218–290) and the *Vaidikavaiṣṇavasadācāra* of Harekṛṣṇa Śarmā (Horstmann 2009: 298–325), texts dealing with how Gauḍīya Vaiṣṇavas are to understand the relationship between bhakti and karma in the sense of socio-religious rituals, written at the behest of Mahārāja Savāī Jaisingh II (1700–1743), the ruler of Amber/ Jaipur, extensively cite the HBV and its commentary (in the *Karmavivṛti* always called *dikpradarśinī*). No authorship is given for either text, but they are generally cited together and are awarded the same amount of authority. Kṛṣṇadeva Sārvabhauma once refers to the “verses of the HBV” (*haribhaktivilāsasya kārikā*, Horstmann 2009: 251), implying two parts to the complete HBV: its verses and its commentary.
 
-Further, despite the confusion regarding the authorship of the
-
-HBV, several later Gauḍīya Vaiṣṇava author treat the main text and the commentary as a seamless whole. Both the *Karmavivṛti* of Kṛṣṇadeva Sārvabhauma (Horstmann 2009: 218–290) and the *Vaidikavaiṣṇavasadācāra* of Harekṛṣṇa Śarmā (Horstmann 2009: 298–325), texts dealing with how Gauḍīya Vaiṣṇavas are to understand the relationship between bhakti and karma in the sense of socio-religious rituals, written at the behest of Mahārāja Savāī Jaisingh
-
-II (1700–1743), the ruler of Amber/ Jaipur, extensively cite the
-
-HBV and its commentary (in the *Karmavivṛti* always called *dikpradarśinī*). No authorship is given for either text, but they are generally cited together and are awarded the same amount of authority. Kṛṣṇadeva Sārvabhauma once refers to the “verses of the
-
-HBV” (*haribhaktivilāsasya kārikā*, Horstmann 2009: 251), implying two parts to the complete
-
-HBV: its verses and its commentary.
-
-But what about the commentary offering a variant reading at
-
-HBV1.3? Sanātana does the same in his auto-commentary to the *Bṛhadbhāgavatāmṛta* (e.g., 2.4.190). Perhaps he is being playful, or perhaps by the time that these commentaries were finalised, variant readings had come up. We know that by 1597, the Rādhā Dāmodara temple library housed two copies of the
-
-HBV, and as I will show below (51–52), there appears to have been some differences in readings between the two.
+But what about the commentary offering a variant reading at HBV1.3? Sanātana does the same in his auto-commentary to the *Bṛhadbhāgavatāmṛta* (e.g., 2.4.190). Perhaps he is being playful, or perhaps by the time that these commentaries were finalised, variant readings had come up. We know that by 1597, the Rādhā Dāmodara temple library housed two copies of the HBV, and as I will show below (51–52), there appears to have been some differences in readings between the two.
 
 But if Sanātana Gosvāmin wrote the text, as I think the above arguments conclusively show, why did he do so in the name of Gopāla Bhaṭṭa? We may never know the full answer, but it is noteworthy that Sanātana does not give his own name in any of his books. The *Bṛhadbhāgavatāmṛta* is written in the playful guise of an appendix to the *Jaiminīya Mahābhārata*, and while neither the *Kṛṣṇalīlāstava* nor the *Bṛhadvaiṣṇavatoṣanī* is written in the name of anyone else, they also do not give the name of the author. Perhaps Gopāla Bhaṭṭa did somehow help in writing the text, for instance by providing examples of Śrī Vaiṣṇava practice,[^FN000036] or perhaps D.C.Sen was partly right—even though Sanātana probably never formally did convert to Islam, he nevertheless may have been burdened by his past and felt that the name of the faultless Brāhmaṇa Gopāla Bhaṭṭa would better suit a book on the rules and regulations of Vaiṣṇavas.
+
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+He was building an unorthodox religious movement, but wanted to insert some heft from a progressively unwilling orthodox bhakta.
+</details>
+
 
 [^FN000036]:
 
@@ -426,9 +375,7 @@ But if Sanātana Gosvāmin wrote the text, as I think the above arguments conclu
 
 In gifting the authorship of his book to Gopāla Bhaṭṭa, Sanātana Gosvāmin at any rate follows a custom not uncommon in this period, as pointed out by Vijayendra Snātaka (1968: 103). In a similar way, Gopāla Bhaṭṭa’s preceptor Prabodhānanda appears to have awarded the authorship of the *Rādhārasasudhānidhi* to Hita Harivaṃśa, “in order to enhance the prestige of his junior contemporary”, as Jan Brzezinski has convincingly shown (1992b: 479).
 
-Whatever the reason, just as Sanātana’s authorship of the *Bṛhadbhāgavatāmṛta* was an open secret, so was that of the
-
-HBV. This open secret seems to have been less well-known by later Gauḍīya Vaiṣṇavas, however, where authors with a close connection to the Vṛndāvana community, such as Kṛṣṇadeva Sārvabhauma in Jaipur, were aware of it, while Bengali authors such as Manohara Dāsa struggled to understand who had written the text.
+Whatever the reason, just as Sanātana’s authorship of the *Bṛhadbhāgavatāmṛta* was an open secret, so was that of the HBV. This open secret seems to have been less well-known by later Gauḍīya Vaiṣṇavas, however, where authors with a close connection to the Vṛndāvana community, such as Kṛṣṇadeva Sārvabhauma in Jaipur, were aware of it, while Bengali authors such as Manohara Dāsa struggled to understand who had written the text.
 
 ## 3 Summary of Contents
 
