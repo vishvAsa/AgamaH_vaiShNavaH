@@ -25,3 +25,9 @@ Source: [TW](/AgamaH_vaiShNavaH/pAncharAtrAgamaH/meta/articles/leach_pAncharAtra
 त्व् अन्यथा राष्ट्र नाशकृत्’’ 
 
 इति नारदीय-वचनम्। 
+
+
+## शैव-शिक्षा
+> We have a suspicion that the famous vyomavyApin mantra of the saiddhAntika shaiva might have been inspired by the high 171-name viShNu-mantra taught by nArada in the company of the chitrashikhaNDin-s in early pA~ncharAtra (mahAbhArata 12.325, "Pune edition"). - MT
+
+तिरुप्पावै-प्रेरणया तिरुवॆम्पावै - [TW](https://youtu.be/fK1WXODxJP8)।
