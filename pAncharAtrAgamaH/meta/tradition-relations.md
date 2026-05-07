@@ -27,7 +27,11 @@ Source: [TW](/AgamaH_vaiShNavaH/pAncharAtrAgamaH/meta/articles/leach_pAncharAtra
 इति नारदीय-वचनम्। 
 
 
-## शैव-शिक्षा
-> We have a suspicion that the famous vyomavyApin mantra of the saiddhAntika shaiva might have been inspired by the high 171-name viShNu-mantra taught by nArada in the company of the chitrashikhaNDin-s in early pA~ncharAtra (mahAbhArata 12.325, "Pune edition"). - MT
+## शैवैर् अनुकृतिः
+व्योम-व्यापि-मत्रः - [TW](/AgamaH/AryaH/hindukaH/rudraH/gadyam/vyomavyApine) ।
 
 तिरुप्पावै-प्रेरणया तिरुवॆम्पावै - [TW](https://youtu.be/fK1WXODxJP8)।
+
+## शैवानाम् अनुकृतिः
+पञ्च-ब्रह्म-मत्राः - [TW](/AgamaH_vaiShNavaH/pAncharAtrAgamaH/svAyambhuvaH/pancha-brahma-mantrAH) । 
+
