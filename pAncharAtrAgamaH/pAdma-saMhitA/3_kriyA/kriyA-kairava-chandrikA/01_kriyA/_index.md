@@ -1,5 +1,5 @@
 ---
-title: क्रिया
+title: +क्रिया
 unicode_script: devanagari
 
 ---

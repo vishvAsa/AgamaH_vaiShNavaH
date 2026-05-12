@@ -1,5 +1,5 @@
 +++
-title = "+Ishvara sa Mhit A"
+title = "+ईश्वर-संहिता"
 
 +++
 
