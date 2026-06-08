@@ -52,8 +52,7 @@ He starts hari-bhakti-vilAsa, which he edited.
 
 Even this role is doubtful, though. 
 
-
-sat-kriyA-sAra-dIpikA likely his own by contrast.
+sat-kriyA-sAra-dIpikA likely his own by contrast?
 
 ## Misattribution motivation
-He was building an unorthodox religious movement, but wanted to insert some heft from a progressively unwilling orthodox bhakta).
+He was building an unorthodox religious movement, but wanted to insert some heft from a progressively unwilling orthodox bhakta.

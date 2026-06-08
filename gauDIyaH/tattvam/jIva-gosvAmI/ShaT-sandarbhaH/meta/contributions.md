@@ -14,20 +14,7 @@ shrI-bhAShya cited in tattva, bhagavat, paramAtma sandarbha-s, not elsewhere it 
 
 ## विवादः, परित्यागः
 gopAla-bhaTTa gave up on the project.
-The reason is unclear, but this is likely  - he could not convince rUpa and sanAtana on some key points, including -
-
-- Use of shrIdhara-svAmi's shAnkara vaiShNava commentary as an authority for interpreting bhAgavata.
-- Citations like the below in hari-bhakti-vilAsa - 
-  शिवे च परमेशाने  
-  विष्णौ च परमात्मनि ।  
-  समबुद्ध्या प्रवर्त्तन्ते  
-  ते वै भागवतोत्तमाः ॥३०॥
-- **The Inviolability of *Nitya-Karma*:** The lifelong, unconditional requirement for initiated Vaishnavas to perform their prescribed Vedic duties as an act of service (*kainkarya*), regardless of their level of spiritual advancement.
-- **The Primacy of *Vidhi-Mārga*:** The idea that the path of spontaneous love (*rāga-mārga*) must always operate within the boundaries and discipline established by the path of rules (*vidhi-mārga*).
-
-
-
-He could not compromise his deep-seated Sri Vaishnava convictions, and he could not override the theological vision of Rūpa and Sanātana, the leaders of the movement. They had a tilt towards the sahajIya type spontaneity.
+The reason is unclear, but this is likely  - he could not convince rUpa and sanAtana on some key points. (See [TW](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/jAti-varNa-practice/v1/persons/sage-bloodlines/atriH/gopAla-bhaTTaH))
 
 ### Withdrawal
 **This perfectly explains Jīva Gosvāmī's later description of the manuscript.** An abandoned work-in-progress is naturally `krama-hīnam` (disordered) and `krānta-vyutkrānta-khaṇḍitam` (scattered and fragmented).
