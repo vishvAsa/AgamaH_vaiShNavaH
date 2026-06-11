@@ -301,7 +301,7 @@ If this verse is from a mature work, it explains his corrective conservative bia
 While the end result is good, it's theoretically ugly (no need to butcher lokasangraha to include the ordinary householder for the same end result).
 
 ### कृष्णदेव-सार्वभौम-भट्टाचार्यः (1750)
-कर्माधिकार-निर्णयय् आह यद् आश्रमस्था कर्म कुर्युर् एव लोकसङ्ग्रहाय।  [TW](/AgamaH_vaiShNavaH/gauDIyaH/paramparA/articles/jayasiMha_theology/4_karmAdhikAra-nirNaya)
+कर्माधिकार-निर्णयय् आह यद् आश्रमस्था कर्म कुर्युर् एव लोकसङ्ग्रहाय।  [TW](/AgamaH_vaiShNavaH/rAgAnuga-bhakti-parAH/paramparA/articles/jayasiMha_theology/4_karmAdhikAra-nirNaya)
 
 #### लब्ध-महद्-आसनय् एव?
 किञ्च लोकसङ्ग्रहार्थम् लब्ध-महद्-आसनय् एव निर्बन्धः इति   

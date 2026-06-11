@@ -15,7 +15,7 @@ Citations like the below -
 can be deduced to originate from him.
 
 ### Broo analysis
-Mans Broo presents good textual aguments as to why this (along with the commentary) had to be sanAtana's work. [TW](/AgamaH_vaiShNavaH/gauDIyaH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/broo_intro). 
+Mans Broo presents good textual aguments as to why this (along with the commentary) had to be sanAtana's work. [TW](/AgamaH_vaiShNavaH/rAgAnuga-bhakti-parAH/kriyA/gopAla-bhaTTaH/hari-bhakti-vilAsaH/meta/broo_intro). 
 
 > the same person wrote the main text and the commentary, and since it is clear that the commentary was written by Sanātana Gosvāmin, that means that he is the author of the main text of the HBV as well. .... 
 
