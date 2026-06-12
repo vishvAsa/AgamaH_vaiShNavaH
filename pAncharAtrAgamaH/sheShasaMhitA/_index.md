@@ -11,6 +11,4 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 +++
 [[शेषसंहिता	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDMzNzQ3&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
-
-[TABLE]
+Source: [TW](https://archive.org/details/shesha_samhita)
