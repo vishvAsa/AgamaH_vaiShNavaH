@@ -14,7 +14,7 @@ Bhāgavatotpala, more widely known in Kashmir under the name Utpalavaiṣṇava,
 If we know the name of author, which neither Bhāgavatotpala nor later authors ever mentioned, we owe it to Jayaratha, the diligent commentator of Abhinavagupta’s Tantrāloka (henceforth TĀ). TĀ 5.154cd-155ab reads: 
 
 > nīle pīte sukhe duḥkhe  
-> citsvarūpam akhaṇḍitam |  
+> cit-svarūpam akhaṇḍitam |  
 > gurubhir bhāṣitaṃ tasmād  
 > upāyeṣu vicitratā || 
 > 
@@ -132,6 +132,7 @@ which only begins to be considered an authority from the time of Vedāntadeśika
 
 [[429]]
 
+## Bhāgavatotpala
 Bhāgavatotpala, an author whose doctrinal and religious affiliation is very close to Vāmanadatta’s (and Pāñcarātra’s),[^9] and who quotes him so frequently,  
 aims to illuminate and support the doctrine of the Spanda with an equal share of Vaiṣṇava and śaiva authorities.  
 He cites (p. 12) two passages, from a śaiva and a Pāñcarātrin work, now both lost,  
@@ -161,11 +162,15 @@ jñātā jñeyaṃ maheśvari ||
 
 [^9]: Quite unconvincingly, DYCZKOWSKI 1992 argues (p. 28) that Bhāgavatotpala was in fact a śaiva as shown by his referring to śiva as his abhimatadevatā(SpPr, p. 7). It is instead clear from the context that by saying so Bhāgavatotpala is referring to the author of the Spandakārikā, not to himself. Then, the first part of his very name (Bhāgavata) leaves no doubt about his religious affiliation.
 
+## yAmuna
 
 No mention of Vāmanadatta and his works (or of Bhāgavatotpala) is to be found in the extant works of Yāmuna,  
 the first great systemizer and defender of the Pāñcarātra tradition,  
 who must have lived a little later than Vāmanadatta (we must however take into account that his Kāśmīrāgamaprāmāṇya has not come down to us);  
 nor is it in Vedāntadeśika or in Rāmānuja.  
+
+## Later tradition
+
 The later Pāñcarātra tradition, once it firmly turned towards the viśiṣṭādvaita,  
 erased the memory not only of Vāmanadatta, 
 but also of a whole series of Vaiṣṇava texts apparently grounded on non-duality,  
@@ -183,6 +188,7 @@ for instance the Jñānasaṃbodha, the Jābalīsūtra, the ṣāḍguṇyavivek
     jñānasyaiva dharmatayā  
     cidrūpasya sthitir yataḥ ||).
 
+## shaiva quotation
 
 Vāmanadatta’s teaching, on the contrary, was held in great respect by the śaiva authors.  
 Primarily by those who belonged to the great and variegated non-dual tradition, but not by them alone; in fact,  
@@ -215,6 +221,8 @@ Other quotations from Vāmanadatta’s Prakaraṇas are found in Maheśvarānand
 
 
 [[431]]
+
+## Abhinavagupta
 
 The passage from the TĀ cited above permits us to touch on another question to which, however, it is not possible to obtain a definite answer, namely whether Abhinavagupta had been a disciple of
 Vāmanadatta.  
@@ -280,6 +288,8 @@ the intrinsic importance and renown of the latter and its occuring first in the 
 [[433]]
 
 Prakaraṇa 6, both having a lacuna between 4.90 and 6.22. The devanāgarī MS in the BORI Library bearing the title of SP has nothing to do with Vāmanadatta’s work.
+
+## shaiva drift
 
 We are left with a preliminary question:  
 what happened in the Vaiṣṇava circles immediately before the time of Abhinavagupta  
