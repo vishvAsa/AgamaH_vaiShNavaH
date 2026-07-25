@@ -57,3 +57,18 @@ See [leach](/AgamaH_vaiShNavaH/meta/articles/leach_pAncharAtra_2013/3_THE_THREE_
 what does it even mean to say a vaikhAnasa is ten or vaDak? If they say "we get mukti without need for rAmAnuja sambandha stuff", does that not make them vaDakalai. 
 
 Common misconception - most of the differences today between the two have been reduced to external marks only.
+
+## तॆङ्कल-पीडनम्
+### पाञ्चरात्रोत्सवाः
+Triplicane (tiruvallikeni) forced to celebrate utsavas as per pancaratra and they silently follow such adesha of local tks.
+
+### वैखानसेषु ताप-मुद्रा
+#### Kurungudi
+> Kurungudi jeeyar started first and so vanamamalai was forced to follow. Kallidaikurichi varahar temple bhattar (named kumar) is from hereditary arcaka family of kurungudi. But he doesn't serve there since he won't take mudra. -RL
+
+#### वाणमामलै
+> vaikhs there didn't have tapam till mid 1800s. Then it started due to tk pressure on matham. Was told this by vaikh bhattars of srivi and kallidaikurichi. -RL
+
+As per vanamamalai jeeyar himself during his 80th.  
+After the vaikhanasa vidwat sabha-  
+he told vaikhanasas wont be given tapta mudra.
