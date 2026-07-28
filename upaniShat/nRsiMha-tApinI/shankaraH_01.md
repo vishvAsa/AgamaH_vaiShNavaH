@@ -449,5 +449,3 @@ Commentary on Nrsimhapurtapaniya Upanishad attributed to Bhagavatpada Shankarach
 नृसिंहपूर्वतापनीयोपनिषद्भाष्यं  
 संपूर्णम् ॥
 
-
-\]
