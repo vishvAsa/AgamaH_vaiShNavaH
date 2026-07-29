@@ -10,12 +10,27 @@ The famous Heliodorus pillar of Vidiśā/Besnagar was part of a temple complex i
 
 The earliest anthropomorphic images of Indian cult/votive deities in India comes from Bhāgavatism (Tikula, coins of Agathocles, Malhar), Śaivism (Gudimallam Liṅga), and Yakṣa-cult (Parkham Maṇibhadra). These figures date to the 3rd - 2nd century BC.
 
+> The most common sealings from prayAga of the circum-gupta age are those of the old vaiShNava kShetra of (shrI) padmanAbha. 100s of these have been published. They have that name along with a vaiShNava symbol like chakra, sha~Nkha, gadA or shrIvatsa or more than one of those. The exact function of these sealings remains unclear: were they tokens for donations or visits to the shrine, or were they issued as "souvenirs" to visitors? This example shows a chakra, gada and sha~Nkha. - MT
+
 ## patanjali
 Moreover, Patañjali (living in 1st century BC) speaks of the existence of a prāsāda (i.e. temple) dedicated to the worship of Dhanapati (i.e. Kubera/Vaiśravaṇa) Rāma (i.e. Baladeva/Saṅkarṣaṇa) and Keśava (i.e. Gopāla-Kṛṣṇa/Vāsudeva).
 
 There is some debate as to whether the first section regarding the playing of drums, conches, and flutes in the assembly is connected to the second part about the temple dedicated to the three aforementioned deities. This is because the first part (mṛdaṅga-śaṅkha-tūṇavāḥ pṛthaṅ nadanti saṁsadi) follows the jarau lagau (i.e.।ऽ।ऽ।ऽ।ऽ) pattern of Pramāṇikā metre whereas the latter part (prāsāde Dhanapati-Rāma-Keśavānām) follows the manajaragāḥ pattern (i.e. ऽऽऽ।।।।ऽ।ऽ।ऽऽ) of Praharṣiṇī metre.
 
 So although we can conclude that  a temple to those particular deities must have existed during Patañjali's era, it's not certain whether the use of those particular instruments accompanied temple worship during that period.
+
+## Abroad
+A depiction of the Vṛṣṇi triad Vāsudeva-Kṛṣṇa (on the right, with sudarśana discus and kaumodakī club), Saṅkarṣaṇa-Balarāma (on the left, with plough) with their sister Ekānaṃśā standing between them was also discovered at the very same Temple of Isis in Berenike in Egypt where the marble Buddha statuette, Satavahana coins, and Sanskrit inscriptions were found.
+
+While it's not as old as the petroglyph in Tikula, Madhya Pradesh, the coins of Agathocles discovered at Ai-Khanoum in Takhar Province, Afghanistan, the Śuṅga-era free-standing Vishnu/Vāsudeva statue discovered at Malhar, etc., it's still one of the earliest depictions of the Vṛṣṇi triad.
+
+It's roughly contemporaneous with the Chilas II Petroglyphs from Gilgit-Baltistan.
+
+Although this stucco plaque is small, it can be regarded as the earliest outward projecting reliefs of the three Vṛṣṇi figures together, since petroglyphs are paintings.
+We have individual Mathura school statuaries of Balarāma, etc., but not all three together.
+
+## Life size
+The earliest "monumental," life-size rock-cut reliefs of the three figures standing together is from Ellora Cave 27 (Milkmaid's Cave) and dates to the 5th century AD.
 
 ## Later codification
 Although Pāñcarātrika temple worship was first codified in Gupta-era Kashmir, several of the practices described in the Pāñcarātra Āgamas/Saṁhitās may date to 3rd century BC.
