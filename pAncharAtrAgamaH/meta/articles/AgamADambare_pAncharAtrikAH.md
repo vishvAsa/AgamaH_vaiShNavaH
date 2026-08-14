@@ -8,7 +8,6 @@ title = "आगमाडम्बरे पाञ्चरात्रिका�
 </details>
 
 
-
 > OFFICIANT. That these Pāñcarātrika Bhāgavatas adopt Brahmanical manners.²  
 They mix with brahmins and have no scruples about using the form of greeting that only we may use to our equals. They recite the Pāñcarātra scriptures with a special pattern of accented syllables, as if they were taking the text of Veda as their example.³ 'We are brahmins': this is how they speak of themselves, and ....
 
