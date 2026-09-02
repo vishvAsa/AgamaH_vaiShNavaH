@@ -36,3 +36,8 @@ prabodhAnanda sarasvatI doesn't sound shrIvaiShNava at all - rather some dashanA
   - SNDB left ISKCON long ago
   - S bAbAji and co are quite contra baladeva vidyAbhUShaNa because he gives karmAnuSThAna and varNAshrama some room.
 - The gaudiya siddhanta parishat seems more varNAshrama & baladeva vidyAbhUShaNa aligned. 
+
+## प्रचारः
+> Gaudiya was always expanding. Tripura and manipur became vaishnava due to gaudiyas. Meiteis took to vaishnavism only due to gaudiya. Bishnupriyas were micro minority only.  
+> Vrindavan is gaudiya territory mostly. Even jaipur maharajas have a gaudiya as one of their acharyas. East Bengal - whatever Hindus remained - most were due to gaudiya acharyas only. Even now, only gaudiya acharyas like premgopal goswami visit Bangladesh. - ravilochanaH
+
