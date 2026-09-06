@@ -3,19 +3,19 @@ title = "रद्दोच्क्-पपेर्"
 +++
 **UC Berkeley UC Berkeley Electronic Theses and Dissertations** 
 
-#### **Title** 
+**Title** 
 
 Listen how the wise one begins construction of a house for Visnu: Chapters 1-14 of the Hayasirsa Pancaratra 
 
-#### **Permalink** 
+**Permalink** 
 
 <u>https://escholarship.org/uc/item/83r393vc</u> 
 
-#### **Author** 
+**Author** 
 
 Raddock, Elisabeth Eva 
 
-#### **Publication Date** 
+**Publication Date** 
 
 2011 
 
@@ -69,17 +69,17 @@ All rights reserved.
 
 No part of this book may be reproduced in any form or by any electronic or mechanical means including information storage and retrieval systems, without permission in writing from the author. The only exception is by a reviewer, who may quote short excerpts in a review. 
 
-#### **Abstract** 
+**Abstract** 
 
 Listen how the wise one begins construction of a house for Viṣṇu 
 
 by 
 
-#### Elisabeth Eva Raddock 
+Elisabeth Eva Raddock 
 
 Doctor of Philosophy in South and Southeast Asian Studies 
 
-#### University of California, Berkeley 
+University of California, Berkeley 
 
 Professor Robert P. Goldman, Chair 
 
@@ -87,7 +87,7 @@ This dissertation consists of a translation of the first fourteen chapters of _H
 
 1 
 
-#### For 
+For 
 
 Mikko – born before the project started, and who learned to run in India. Elias – born when the translation was on the way. 
 
