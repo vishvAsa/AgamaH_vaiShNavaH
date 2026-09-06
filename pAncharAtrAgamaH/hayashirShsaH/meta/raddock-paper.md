@@ -1,5 +1,5 @@
 +++
-title = "रद्दोच्क्-पपेर्"
+title = "Raddock Paper"
 +++
 **UC Berkeley UC Berkeley Electronic Theses and Dissertations** 
 

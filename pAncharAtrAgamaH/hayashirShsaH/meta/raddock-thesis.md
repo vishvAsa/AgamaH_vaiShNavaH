@@ -1,5 +1,5 @@
 +++
-title = "रद्दोच्क्-थेसिस्"
+title = "Raddock Theis"
 +++
 **UC Berkeley UC Berkeley Electronic Theses and Dissertations** 
 
