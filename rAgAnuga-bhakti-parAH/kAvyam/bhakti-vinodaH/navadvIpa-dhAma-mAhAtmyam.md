@@ -1,3 +1,8 @@
++++
+title = "Navadvīpa-dhāma"
++++
+
+
 (The Excellence of Śrī Navadvīpa-dhāma) 
 
 Śrī **Navadvīpa**-dhāma-māhātmya 
@@ -9,9 +14,9 @@
 **- - - - Parikramā-khaṇḍa** 
 OTHER BOOKS BY ŚRĪ ŚRĪMAD BHAKTIVEDĀNTA NĀRĀYAṆA GOSVĀMĪ MAHĀRĀJA 
 Bhakti-rasāmṛta-sindhu-bindu Śrī Bhajana-rahasya Bhakti-tattva-viveka Śrī Brahma-saṃhitā Going Beyond Vaikuṇṭha Jaiva-dharma Śrī Manaḥ-śikñā Prabandhāvalī Śrī Gauḍīya Gīti-guccha Śrī Harināma Mahā-mantra Śrī Navadvīpa-dhāma Śrī Śikñāṣṭaka 
-For a complete list over books, free downloads of titles, and more, please visit: **www.purebhakti.com** 
-ISBN 978-1-935428-09-1 First printing: 3,000 copies 
-© 2010 Gaudiya Vedanta Publications. Some Rights Reserved. 
+
+
+
 EXCEPT WHERE OTHERWISE NOTED, CONTENT ON THIS BOOK IS LICENSED UNDER THE CREATIVE COMMONS ATTRIBUTION- NO DERIVATIVE WORKS 3.0 UNPORTED LICENSE. To view a copy of this license, visit http://creativecommons.org/licenses/by-nd/3.0/ Permissions beyond the scope of this license may be available at www.purebhakti.com/pluslicense or write to: gvp.contactus@gmail.com 
 Cover Artwork © Mañjarī dāsī. Used with permission. Chart on pg. 26 Jaya-gopāla dāsa, 2010 
 Śrī Upadeśāmṛta Śrīla Bhakti Prajñāna Keśava Gosvāmī – 
@@ -47,42 +52,66 @@ The Constitutional Form (Svarūpa) of the Jīva ................................
 Śrī Nagara-kīrtana (Śrīla Bhaktivinoda Ṭhākura) ...............................................................431 Ucchvāsa-dainyamayī-prārthanā (Śrīla Bhaktivinoda Ṭhākura) ..................................... 434 Nagara Bhramiyā Āmāra Gaura ........................437 
 f 
 Foreword **(Translated From the Hindi Edition)** 
-Today I am feeling unlimited joy that by the inspiration and causeless compassion of my most worshipful holy master, *nitya-līlā-praviṣṭa oṃ viṣṇupāda aṣṭottara-śata śrī* Śrīmad Bhakti Prajñāna Keśava Gosvāmī Mahārāja, we are presenting for his pleasure an unprecedented Hindi edition of *Śrī Navadvīpa-dhāma- māhātmya*, *Parikramā-khaṇḍa*. The original Bengali work was composed by the Seventh Gosvāmī Śrīla Saccidānanda Bhaktivinoda Ṭhākura, who is the embodiment of Śrī Gaurāṅga Mahāprabhu’s potency (*gaura-śakti svarūpa*). 
-Śrī Gaura and Śrī Kṛṣṇa comprise an identical spiritual principle (*tattva*); there is no difference whatsoever between Them. Śrī Kṛṣṇa, the personification of sweetness (*mādhurya- vigraha*), is none other than Śrī Gaurasundara Himself, who is the personification of munifi- cence (*audārya-vigraha*), and vice versa. Śrī 
+
+Today I am feeling unlimited joy that by the inspiration and causeless compassion of my most worshipful holy master, *nitya-līlā-praviṣṭa oṃ viṣṇupāda aṣṭottara-śata śrī* Śrīmad Bhakti Prajñāna Keśava Gosvāmī Mahārāja, we are presenting for his pleasure an unprecedented Hindi edition of *Śrī Navadvīpa-dhāma- māhātmya*, *Parikramā-khaṇḍa*. 
+
+The original Bengali work was composed by the Seventh Gosvāmī Śrīla Saccidānanda Bhaktivinoda Ṭhākura, who is the embodiment of Śrī Gaurāṅga Mahāprabhu’s potency (*gaura-śakti svarūpa*). 
+
+
+Śrī Gaura and Śrī Kṛṣṇa comprise an identical spiritual principle (*tattva*); there is no difference whatsoever between Them. Śrī Kṛṣṇa, the personification of sweetness (*mādhurya- vigraha*), is none other than Śrī Gaurasundara Himself, who is the personification of munificence (*audārya-vigraha*), and vice versa. Śrī 
  Sri -Navadvipa-dhama-mahatmya 
 - - - - Kṛṣṇa’s abode, Śrī Vṛndāvana, is similarly identical in all respects to Śrī Gaura’s abode, Śrī Navadvīpa, which is actually called Gupta- Vṛndāvana, the hidden Vṛndāvana. In this way, both the divine principles (*tattvas*) and holy abodes (*dhāmas*) are eternal and not affected by mundane considerations such as time, place and circumstance. 
+
 *Kṛṣṇa-nāma kare aparādhera vicāra* [*Śrī Caitanya-caritāmṛta*, *Ādi-līlā* 8.24]. Even if he is chanting the name of Kṛṣṇa, a person who is committing offences will not be able to attain love for Kṛṣṇa (*kṛṣṇa-prema*) in millions and millions of lifetimes. However, *gaura-nityānandera nāhi e saba vicāra, nāma laile prema dena, bahe aśrudhāra*, Śrī Gaura and Śrī Nityānanda do not consider any offences. When one chants Their names, *prema* will awaken in the heart and torrents of tears will begin to flow from the eyes. Like Śrī Gaurahari Himself, His abode is supremely liberal and the most magnanimous. Without worshipping and attaining the mercy of Śrī Gaurahari and His abode, Śrī Navadvīpa, it 
 ii 
-Foreword 
 is impossible to obtain *darśana* (a vision) and the mercy of Śrī Vṛndāvana. 
+
 Śrī Kṛṣṇa’s *dhāma*, Vṛndāvana, and Śrī Gaura’s *dhāma*, Navadvīpa, are non-different. Therefore, the perimeter of Śrī Navadvīpa- dhāma extends to sixteen *kosas* (approximately thirty-two miles), just like the perimeter of Śrī Vṛndāvana. All the places of Śrī Vṛndāvana, such as Śrī Yamunā, Śrī Govardhana, Śrī Rāsa- sthalī, Śrī Rādhā-kuṇḍa, Śrī Śyāma-kuṇḍa and various sub-forests, also exist eternally in a concealed form in Śrī Navadvīpa-dhāma. Śrī Gaurasundara sports eternally in this abode. Fortunate living beings can experience Śrīman Mahāprabhu’s eternal pastimes by performing *nāma-saṅkīrtana* under the guidance of His pure devotees. 
 *Sādhakas* desiring to attain *bhakti* should completely give up all offences such as *nāma- aparādha*, *sevā-aparādha* and *dhāma-aparādha*. Persons who come to the *dhāma* for *darśana*, *parikramā* and so forth should avoid committing offences to the holy abode (*dhāma-aparādha*). 
 iii 
- Sri -Navadvipa-dhama-mahatmya 
-- - - - Therefore, for their understanding, the ten kinds of offences are mentioned below: 
+
+Therefore, for their understanding, the ten kinds of offences are mentioned below: 
 (1) To disrespect *śrī guru* and *sādhus* who reveal the *dhāma* (2) To consider the *dhāma* to be temporary (3) To commit violence to the residents of the *dhāma* or to the devotees performing *parikramā*, and to give them material designations in respect to caste and creed (4) To perform mundane activities pertaining to sense enjoyment while residing in the *dhāma* (5) To earn money or to make a business on the pretext of serving the *dhāma* (6) To think with one’s mundane intelligence that the *dhāma* is just another material place, or to consider it equal to other holy places; and to endeavour to measure the size of the *dhāma* (7) To commit sins while living in the *dhāma* (8) To consider Śrī Navadvīpa-dhāma and Śrī Vṛndāvana-dhāma to be different from each other (9) To blaspheme the scriptures describing the glories of the *dhāma* (10) To disbelieve [the narrations about] the 
 iv 
 Foreword 
 glories of the *dhāma* and to consider them mere exaggeration and imaginary 
+
 My most worshipful Śrī Gurudeva personally wrote a preface to *Jaiva-dharma* in which he has mentioned that the state of mind of modern readers is such that, they will not have faith in the subject matters written by an author as long as they do not know about him. Keeping this in mind, I introduce the respective author in the foreword of almost all of our books. 
-**A Brief Life History of the Author** Saccidānanda Śrīla Bhaktivinoda Ṭhākura was born in the village of Vīranagara, which is near Yogapīṭha-Māyāpura, Śrī Caitanya Mahāprabhu’s appearance place. He received his education in Kolkātā. His intelligence was very sharp, and from his early childhood he was deeply devoted to religion (*dharma*). Even as a student he lectured eloquently on the topic of *dharma*, speaking either in Bengali or in English – according to necessity – in various schools, colleges and other places. 
+
+**A Brief Life History of the Author**  
+
+Saccidānanda Śrīla Bhaktivinoda Ṭhākura was born in the village of Vīranagara, which is near Yogapīṭha-Māyāpura, Śrī Caitanya Mahāprabhu’s appearance place. He received his education in Kolkātā. His intelligence was very sharp, and from his early childhood he was deeply devoted to religion (*dharma*). Even as a student he lectured eloquently on the topic of *dharma*, speaking either in Bengali or in English – according to necessity – in various schools, colleges and other places. 
 v 
  Sri - 
 Navadvipa-dhama-mahatmya 
 - - - - After completing his education, he went to the state of Orissa and was appointed by the Government as Deputy Magistrate with specific duties. There, the Government also appointed him as the administrator of the famous Śrī Jagannātha Temple. During Śrīla Bhaktivinoda Ṭhākura’s time, the service of Lord Jagannātha was beautifully and efficiently conducted. 
-During these days in Purī, a so-called *yogī* named Viñvaksena lived in a dense jungle of Orissa. He declared himself to be Śrī Kṛṣṇa and people believed him. He made an announcement that he would perform the *rāsa* dance during one full moon night, and the ladies of the neighbouring areas began to show eagerness to take part in it. Seeing this, all the villagers relayed their concern to the State Government. The Government appointed Śrīla Bhaktivinoda Ṭhākura to investigate the situation, which resulted in the *yogī* being found guilty. Śrīla Bhaktivinoda Ṭhākura then sent the criminal to jail, where he fasted to death. 
-vi Foreword 
-Wherever Śrīla Bhaktivinoda Ṭhākura went, he preached the religion of pure devotion as practised and preached by Śrīman Mahāprabhu. He made a resolution that, upon retiring from his governmental post, he would go to Vṛndāvana and perform *bhajana*. On his way to Śrī Vṛndāvana, he came to a place known as Tāḍakeśvara, situated within the borders of West Bengal. There, the great devotee Tāḍakeśvara Mahādeva [Lord Śiva] appeared to him in a dream and instructed him: “You are now travelling to Vṛndāvana, but you have to accomplish many tasks here. The appearance place of Śrī Caitanya Mahāprabhu, Śrī Māyāpura-Yogapīṭha, has not been unveiled. You have to reveal it and also reveal the nine islands of Navadvīpa as well as their glories.” After receiving Śrī Mahādeva’s instruction, he returned to Navadvīpa and constructed a cottage in Godruma-kuñja, where he began to perform *bhajana*. While living there, he revealed Śrī Dhāma Māyāpura-Yogapīṭha. After finding the site, he wanted it verified by a superior Vaiṣṇava *ācārya*. Therefore, he called 
-vii 
+
+During these days in Purī, a so-called *yogī* named Viṣvaksena lived in a dense jungle of Orissa. He declared himself to be Śrī Kṛṣṇa and people believed him. He made an announcement that he would perform the *rāsa* dance during one full moon night, and the ladies of the neighbouring areas began to show eagerness to take part in it. Seeing this, all the villagers relayed their concern to the State Government. The Government appointed Śrīla Bhaktivinoda Ṭhākura to investigate the situation, which resulted in the *yogī* being found guilty. Śrīla Bhaktivinoda Ṭhākura then sent the criminal to jail, where he fasted to death. 
+vi
+ 
+Wherever Śrīla Bhaktivinoda Ṭhākura went, he preached the religion of pure devotion as practised and preached by Śrīman Mahāprabhu. He made a resolution that, upon retiring from his governmental post, he would go to Vṛndāvana and perform *bhajana*. 
+
+On his way to Śrī Vṛndāvana, he came to a place known as Tāḍakeśvara, situated within the borders of West Bengal. There, the great devotee Tāḍakeśvara Mahādeva [Lord Śiva] appeared to him in a dream and instructed him: 
+
+> “You are now travelling to Vṛndāvana, but you have to accomplish many tasks here. The appearance place of Śrī Caitanya Mahāprabhu, Śrī Māyāpura-Yogapīṭha, has not been unveiled. You have to reveal it and also reveal the nine islands of Navadvīpa as well as their glories.” 
+
+After receiving Śrī Mahādeva’s instruction, he returned to Navadvīpa and constructed a cottage in Godruma-kuñja, where he began to perform *bhajana*. While living there, he revealed Śrī Dhāma Māyāpura-Yogapīṭha. After finding the site, he wanted it verified by a superior Vaiṣṇava *ācārya*. 
+
+
+Therefore, he called [[vii]] 
  Sri -Navadvipa-dhama-mahatmya 
 - - - - *vaiṣṇava sārvabhauma* Śrī Jagannātha dāsa Bābājī Mahārāja from Vraja. Upon arriving there, the 144 year-old Śrī Jagannātha dāsa Bābājī Mahārāja began to dance vigorously, proclaiming, “This is the birthplace of my most worshipful Śacī-nandana Śrī Gaurahari\!” In this way, Śrīla Bhaktivinoda Ṭhākura revealed the birthplace of Śrīman Mahāprabhu, Yogapīṭha. After that, in community gatherings, he spread the news about its location. 
+
 Śrīla Bhaktivinoda Ṭhākura also accom- plished one more glorious deed for this world by giving to the world Śrīla Bhaktisiddhānta Sarasvatī [his son]. To fulfil the desire of Śrīla Bhaktivinoda Ṭhākura, Śrīla Bhaktisiddhānta Sarasvatī preached pure devotion and *nāma- prema* (transcendental love for Kṛṣṇa by chanting the holy name) as practised and preached by Śrīman Mahāprabhu. He preached not only throughout Bengal and India, but also throughout the whole world. 
 *bhakta-gaṇe ājñā dila caitanya-icchāya nadīyā māhātmya varṇi bhaktera kṛpāya* 
 viii 
 Foreword 
 *je avadhi śrī-caitanya aprakaṭa haila dhāma-līlā prakāśite bhakte ājñā dila* 
 *Śrī Navadvīpa-dhāma-māhātmya* (1.9, 11\) 
+
 [In these verses Śrīla Bhaktivinoda Ṭhākura says,] “After He concluded His manifest pastimes, Śrī Caitanya Mahāprabhu Himself ordered His devotees to [again] unveil and manifest the pastimes of Śrī Navadvīpa-dhāma to the world. The devotees, in turn, gave me the instruction to reveal the glories of Śrī Navadvīpa-dhāma. Accepting the instruction of the devotees to be the same as the instruction of Śrīman Mahāprabhu, I am herein describing the glories of Śrī Navadvīpa-dhāma.” 
+
+
 Specifically to carry out the order of Śrī Nityānanda Prabhu and Śrī Jāhnavā-devī, Śrīla Bhaktivinoda Ṭhākura revealed and preached the glories of Śrī Navadvīpa-dhāma. He has himself written: 
 *nityānanda-śrī-jāhnavā-ādeśa pāiyā varṇilāma navadvīpa ati dīna haiyā* 
 *Śrī Navadvīpa-dhāma-māhātmya* (18.73) 
@@ -90,11 +119,15 @@ ix
  Sri - 
 Navadvipa-dhama-mahatmya 
 - - - - “Although I am lowly and insignificant, I have described Śrī Navadvīpa-dhāma, only on the order of Śrī Nityānanda Prabhu and Śrī Jāhnavā-devī.” 
+
+
 Śrīla Bhaktivinoda Ṭhākura compiled more than one hundred scriptures in various languages. Among them, most prominent are *Śrī Bhakti-tattva-viveka, Śrīman Mahāprabhu kī śikñā, Śrī Caitanya-śikñāmṛta, Śrī Jaiva-dharma, Śrī Bhajana-rahasya, Śrī Navadvīpa-bhāva- taraṅga, Śaraṇāgati, Kalyāṇa-kalpataru, Gītāvalī, Yāmuna-bhāvāvalī, Vaiṣṇava-siddhānta-mālā, Śrī Navadvīpa-dhāma-māhātmya, Bhāgavatārka- marīci-mālā, Āmnāya-sūtra, Kṛṣṇa-saṃhitā, Datta-kaustubha, Prema-pradīpa, Śrī Harināma- cintāmaṇi, Tattva-sūtra, Amṛta-pravāha-bhāṣya* (a commentary on *Śrī Caitanya-caritāmṛta*) and *Rasika-rañjana-bhāṣya* (a commentary on *Bhagavad-gītā*). 
+
 Śrīla Bhaktivinoda Ṭhākura originally wrote *Śrī Navadvīpa-dhāma-māhātmya* in Bengali. Although many editions have already been 
 x 
 Foreword 
 published in Bengali, this is the first Hindi edition. 
+
 I am fully convinced that by studying and reciting this book the faithful devotees will understand the amazing glories of Śrī Navadvīpa-dhāma, as well as the non-difference between Śacī-nandana Śrī Gaurahari and Vrajendra-nandana Śrī Kṛṣṇa. Thus they will obtain inspiration to perform their *bhajana* in the method shown by Śrīla Rūpa Gosvāmī. In addition, they will also understand many more spiritual principles in regard to Śrīman Mahāprabhu and to *bhajana*. There is no need to say anything further about this. 
 Praying for a particle of mercy of the Vaiṣṇavas, *tridaṇḍi-bhikñu* Śrī Bhaktivedānta Nārāyaṇa 
 On the disappearance day of Śrī Jagannātha dāsa Bābājī Mahārāja, 18 February, 2007 
@@ -5977,7 +6010,8 @@ Sri Navadvipa-dhama-mahatmya - - - - -Bhagavān Śrī Jagannātha’s order to �
 336 
 Chapter Fifteen 
 
-***tava śiṣya-gaṇa dāsya-rasete magana hethāya thākuka, tumi karaha gamana*** **(15)** “ ‘All of your disciples are immersed in *dāsya-rasa*, the mellow of servitude. You should therefore leave them here and go to Navadvīpa alone. (15) 
+***tava śiṣya-gaṇa dāsya-rasete magana hethāya thākuka, tumi karaha gamana*** **(15)** 
+“ ‘All of your disciples are immersed in *dāsya-rasa*, the mellow of servitude. You should therefore leave them here and go to Navadvīpa alone. (15) 
 
 Human life is useless without *darśana* of Navadvīpa – 
 
@@ -5988,6 +6022,11 @@ Human life is useless without *darśana* of Navadvīpa –
 ***raṅga-sthāna śrī-veṅkaṭa yādava-acala navadvīpa kalāmātra haya se-sakala*** **(17)** “ ‘Śrī Raṅgam, Śrī Veṅkaṭa (Tirupati) and Yādava-acala**(1)** are all just a small portion of Śrī Navadvīpa. (17) 
 
 (1) The bank of the Hiraṇya River, situated near Prabhāsa-tīrtha, where all the Yādavas were destroyed in a fratricidal war. 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+नैवम्! यदुगिरिर् इति कर्णाटेषु प्रसिद्धः। 
+</details>
 
 337 
 Sri Navadvipa-dhama-mahatmya - - - - - 
@@ -6118,19 +6157,19 @@ Sri Navadvipa-dhama-mahatmya - - - - -Lord Śrī Jagannātha’s order to the mo
 
 “After receiving Śrī Jagannātha’s instruction, Śrī Rāmānuja Mahāśaya came secretly to Śrī Navadvīpa. (41) 
 
-Viñvaksena brings Śrī Rāmānuja to Śrī Vaikuṇṭhapura – 
+Viṣvaksena brings Śrī Rāmānuja to Śrī Vaikuṇṭhapura – 
 
-***pāche vyakta haya gaura-līlā asamaye se-kāraṇe rāmānuje viñvaksena la’ye*** **(42)** 
+***pāche vyakta haya gaura-līlā asamaye se-kāraṇe rāmānuje viṣvaksena la’ye*** **(42)** 
 
 ***paravyoma śrī-vaikuṇṭha-purete rākhaya ei sthāna dekhi’ rāmānuja mugdha haya*** **(43)** 
 
-“[When Śrī Viñvaksena(2) came to know of Śrī Rāmānuja’s arrival in Navadvīpa, he 
+“[When Śrī Viṣvaksena(2) came to know of Śrī Rāmānuja’s arrival in Navadvīpa, he 
 
-(2) In his *Gauḍīya-bhāṣya* commentary to *Śrī Caitanya- bhāgavata* (2.1.190), Śrīla Prabhupāda Bhaktisiddhānta Sarasvatī Ṭhākura has written about Viñvaksena. There it is said that he is Bhagavān Śrī Viṣṇu’s associate who carries remnants of offerings made to Bhagavān. 
+(2) In his *Gauḍīya-bhāṣya* commentary to *Śrī Caitanya- bhāgavata* (2.1.190), Śrīla Prabhupāda Bhaktisiddhānta Sarasvatī Ṭhākura has written about Viṣvaksena. There it is said that he is Bhagavān Śrī Viṣṇu’s associate who carries remnants of offerings made to Bhagavān. 
 
 344 Chapter Fifteen 
 
-considered that Śrī Rāmānuja may well become absorbed in ecstatic emotions and thus reveal the truth about Navadvīpa.] To ensure that Śrī Rāmānuja did not reveal *gaura-līlā* prematurely, Viñvaksena brought Śrī Rāmānuja to this place, Śrī Vaikuṇṭhapura. Upon seeing it, Rāmānuja became enchanted. (42–43) 
+considered that Śrī Rāmānuja may well become absorbed in ecstatic emotions and thus reveal the truth about Navadvīpa.] To ensure that Śrī Rāmānuja did not reveal *gaura-līlā* prematurely, Viṣvaksena brought Śrī Rāmānuja to this place, Śrī Vaikuṇṭhapura. Upon seeing it, Rāmānuja became enchanted. (42–43) 
 
 Śrī Rāmānuja obtains Lord Śrī Nārāyaṇa’s *darśana* in Śrī Vaikuṇṭhapura – 
 
