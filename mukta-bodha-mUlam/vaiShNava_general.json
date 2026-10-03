@@ -1,0 +1,66 @@
+{
+  "M00521": {
+    "Catalog number": "M00521",
+    "Uniform title": "Dāśarathīyatantra",
+    "Manuscript": "MS 4886 Ragunatha Temple Library, Jammu",
+    "Description": "An unusual vaiṣṇava tantra as it is focused on the worship of rāma.",
+    "Notes": "Data entered by the staff of Muktabodha under the supervision of Mark S.G. Dyczkowski.\n\nRevision 0: Sept. 12, 2021.",
+    "Publication country": "India",
+    "file_size": 1371.6,
+    "Traditions": [
+      "Vaiṣṇava General"
+    ]
+  },
+  "M00530": {
+    "Catalog number": "M00530",
+    "Uniform title": "Sanatkumāratantra",
+    "Description": "Vaiṣṇava tantra. Probably a late work of possibly Bengali origin. Teaches a program of daily worship focusing on the morning rites.",
+    "Notes": "Data entered by the staff of Muktabodha under the supervision of Mark S.G. Dyczkowski.\n\nRevision 0: Sept. 13, 2021.",
+    "Publication year": "Pre-1900",
+    "Publication country": "India",
+    "file_size": 53.0,
+    "Traditions": [
+      "Vaiṣṇava General"
+    ],
+    "Publication city": "Calcutta",
+    "Publisher": "Rasika Monana Caṭṭopādhyāya"
+  },
+  "M00574": {
+    "Catalog number": "M00574",
+    "Uniform title": "Agastyasaṃhitā",
+    "Manuscript": "Shri Ragunatha Temple MSS Library Jammu no: 5294",
+    "Description": [],
+    "Notes": "Manuscript selected by Mark S.G. Dyczkowski. Data entered by the staff of Muktabodha under the supervision of Anirban Dash.\n\nRevision 0: October 9, 2021\nRevision 1: Apr. 4, 2024 Diplomatic transcription",
+    "Publication country": "United States",
+    "file_size": 151.6,
+    "Traditions": [
+      "Vaiṣṇava General"
+    ]
+  },
+  "M00647": {
+    "Catalog number": "M00647",
+    "Uniform title": "Gautamatantra",
+    "Manuscript": "Ragunath Temple, Jammu, JandK manuscript 2651k",
+    "Description": [],
+    "Notes": "Data entered by the staff of Muktabodha under the supervision of Anirban Dash.\n\nRevision 0: Apr. 6, 2024 Diplomatic transcription",
+    "Publication country": "India",
+    "file_size": 270.2,
+    "Traditions": [
+      "Vaiṣṇava General"
+    ]
+  },
+  "M00665": {
+    "Catalog number": "M00665",
+    "Uniform title": "Rāmārcanacandrikā",
+    "Author": "Ānandavana",
+    "Manuscript": "Ragunath Temple, Jammu, JandK manuscript 4740",
+    "Description": "Copied from Shri Raghunath Temple MSS Library manuscript 4740 digitized by eGangotri on archive.org\n\nhttps://archive.org/download/RamarchanaChandrikaAnandVahaMukundVanShishya4740Alm21Shlf4DevamagariTantra/Ramarchana%20Chandrika%20-%20Anand%20Vaha%20Mukund%20Van%20Shishya_4740_Alm_21_Shlf_4_Devamagari%20-%20Tantra.pdf",
+    "Notes": "Data entered by the staff of Muktabodha under the supervision of Anirban Dash.\n\nRevision 0: September 21, 2024 Diplomatic transcription",
+    "Publication country": "India",
+    "file_size": 241.4,
+    "Traditions": [
+      "Vaiṣṇava General"
+    ],
+    "Genre": "Paddhati"
+  }
+}
