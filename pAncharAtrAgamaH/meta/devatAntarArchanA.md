@@ -9,12 +9,3 @@ title = "देवतान्तरार्चना"
 
 हयशीर्षसंहितायां पञ्चायतन-प्रतिष्ठोक्ता। 
 
-## वैखानस-प्रतिक्रिया
-One of the vaikhAnasa criticisms of pAncharAtra is based on such devatAntara adoration.
-
-यथा दश-विध-हेतु-निरूपणे [ऽत्र](/vedAH_yajuH/taittirIyam/sUtram/vaikhAnasaH/dharma-sUtram/tAtparyachintAmaNiH/00_dasha-vidha-hetu-nirUpaNam/01_vikhanasA_praNItatvam/) -
-
-> (पञ्चरात्रे) … देवतान्तराणाम् अङ्गभावेनार्चनं न निषिद्ध्यते।  
-> … तथा-विध-निषिद्ध-देवतान्तरार्चन-प्रतिपादक-शास्त्र-निष्ठस्य  
-पञ्च-काल-परायणत्वं न सम्भवति।
-
