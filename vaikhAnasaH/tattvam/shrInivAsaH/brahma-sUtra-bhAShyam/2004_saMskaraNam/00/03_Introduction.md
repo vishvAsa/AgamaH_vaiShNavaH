@@ -74,18 +74,49 @@ This brings out in bold relief the purpose of this commentary. It is to highligh
 14 
 The Bhashya opens with an invocatory varse dedicated to the commentator's tutellary deity (kuladaiva), who is also the chosen deity for service (ishtadaiva), Venkatesvara of the Vengadam hill- shrine: 
 निरुपमगुणसिन्धुर्नित्यलक्ष्मी समेतो निखिलनिगमवेद्यो निस्तुलो वेङ्कटेशः । निजचरणसमर्चासक्तभक्तौघरक्षी निवसतु हृदये मे स्वाङ्घ्रिभक्तिं वितन्वन् ॥ 
-It may be remembered that Ramanuja also offers the invocatory prayer to the same deity (called here Srinivasa) at the commencement of his Sribhashya. The two prayers are very similar in intent, and emphasize the Lord's role as the protector of all beings, his knowability through scriptures, and the incomparable value of devotion (bhakti). Srinivasa-makhin's verse, however, adds an important detail, distinguishing the Vaikhanasa approach from other approaches; that the deity is ever associated with Lakshmi ('nitya Lakshmisametah'). This is what distinguishes this visishtadvaita ('qualified Brahman') from Ramanuja's Visishtadvaita (which refers to Brahman as being qualified by Chetana and achetana, 'chi-achid- visishta', as his body), The supreme reality in the Vaikhanasa *approach is Brahman (Vishnu or Narayana), who contains within 
-himself inseparably the element of Lakshmi. 
+It may be remembered that Ramanuja also offers the invocatory prayer to the same deity (called here Srinivasa) at the commencement of his Sribhashya. The two prayers are very similar in intent, and emphasize the Lord's role as the protector of all beings, his knowability through scriptures, and the incomparable value of devotion (bhakti). Srinivasa-makhin's verse, however, adds an important detail, distinguishing the Vaikhanasa approach from other approaches; that the deity is ever associated with Lakshmi ('nitya Lakshmisametah'). This is what distinguishes this visishtadvaita ('qualified Brahman') from Ramanuja's Visishtadvaita (which refers to Brahman as being qualified by Chetana and achetana, 'chi-achid- visishta', as his body), The supreme reality in the Vaikhanasa *approach is Brahman (Vishnu or Narayana), who contains within himself inseparably the element of Lakshmi. 
 लक्ष्मीविशिष्टः नारायणः अद्वैत यत्र मते तल्लक्ष्मीविशिष्टाद्वैतम् ॥ 
 The advaita here is non-difference between Narayana and 
 Lakshmi. 
 It is sometimes wrongly construed that the Vaikhanasa doctrine is borrowed from the Visishtadvaita of Ramanuja. Here is what Sundara-raja has to say on this point: 
-अनेकचिद् विबुधा मन्यन्ते सर्वमस्मदीयमतम् श्रीरामानुजदृष्टान्न भिद्यतेऽत्रेति तच्च नात्युचितम् ॥ १ ॥ श्री श्रीनिवासगुरवो वैलक्षण्यं ततः पृथग्रन्थैः । वैखानसस्य विशदं कथयन्त्येव स्वतश्च महिमानम् ॥ २ ॥ भक्तिं परं हि मन्यते मोक्षोपायं महान्स यतिराजः । विखना भगवान्प्राह च भक्त्या वरमस्य पूजनं परमम् ॥ ३ ॥ ब्रूते तथैव भगवान्मोक्षोपायं स्फुटं मरीचिश्च । सिद्धान्तयति हि तद्वच्छुद्धात्मा श्रीनिवास- मखिराजः ॥ ४ ॥ कथयति यतिकुलराजो न पाञ्चरात्रे त्रयीविरोध इति । अध्वरिराजोऽस्माकं सध्वनि तत्राह तद्विरोधं हि ॥ १ ॥ 
-। 
-1 
-Two points of difference have been noted here: (1) While for Ramanuja devotion (bhakti) is sufficient means for salvation, the Veikhanasa-satra insists that worship with devotion (pujana, 
-15 
-archana, samradhana) is that means; (2) For Ramanuja, the division of Agama known as Pancharatra is valid, while for the Vaikhanasa system it is not. It must be noted that the concept of Lakshmi, accepted in Visishtadvaita, is typically the Panchartra view, whereas the idea of Lakshmi in Lakshmi-visishtadvaita relies heavily on Paramatmikopanishat. Lakshmi in the chid-achid-visishta-advaita frame-work, is for practical purposes, and in line with Lakshmi- tantra, an independent deity with her own purushakaratva, upayatva and upeyatva (the akara-traya); she becomes owned by Vishnu, out of her own will: 
+
+अनेकचिद् विबुधा मन्यन्ते सर्वमस्मदीयमतम् श्रीरामानुजदृष्टान् न भिद्यते ऽत्रेति  
+तच्च नात्युचितम् ॥ १ ॥  
+
+श्री-श्रीनिवासगुरवो  
+वैलक्षण्यं ततः पृथग्ग्रन्थैः ।  
+वैखानसस्य विशदं  
+कथयन्त्येव स्वतश्च महिमानम् ॥ २ ॥  
+भक्तिं परं हि मन्यते  
+मोक्षोपायं महान् स यतिराजः ।  
+विखना भगवान् प्राह च  
+भक्त्या वरमस्य पूजनं परमम् ॥ ३ ॥  
+ब्रूते तथैव भगवान्  
+मोक्षोपायं स्फुटं मरीचिश्च ।  
+सिद्धान्तयति हि तद्वच्  
+छुद्धात्मा श्रीनिवास-मखिराजः ॥ ४ ॥  
+कथयति यतिकुलराजो  
+न पाञ्चरात्रे त्रयीविरोध इति ।  
+अध्वरिराजोऽस्माकं  
+सध्वनि तत्राह तद्विरोधं हि ॥ १ ॥ 
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+
+The last verse is especially off. The "adhvari-rAja's" actual commentary on the pAncharAtrAdhikaraNa is [here](/AgamaH_vaiShNavaH/vaikhAnasaH/tattvam/shrInivAsaH/brahma-sUtra-bhAShyam/sarva-prastutiH/2_avirodhaH/2_tarkaH/08_utpatty-asambhavAdhikaraNam/), with commentary by the very same sundara-rAja.The only "virodha" is asserted by someone else - 
+
+> “अस्मत्-कुलाभिजन-श्री-केशवाचार्य-विरचितायां,
+ब्रह्म-सूत्र-वार्तिकवृत्तौ चतुर्भिः सूत्रैः - पाञ्चरात्र-मत-निराकरणार्थम् अधिकरणम् इदम्”
+>
+> इत्य् उक्तम्।
+>
+> तत्-पक्षे,
+उत्तर-सूत्र-द्वयस्यार्थो ऽन्यथा बोद्धव्यः।
+</details>
+
+
+
+Two points of difference have been noted here: (1) While for Ramanuja devotion (bhakti) is sufficient means for salvation, the Veikhanasa-satra insists that worship with devotion (pujana, [[15]] archana, samradhana) is that means; (2) For Ramanuja, the division of Agama known as Pancharatra is valid, while for the Vaikhanasa system it is not. It must be noted that the concept of Lakshmi, accepted in Visishtadvaita, is typically the Panchartra view, whereas the idea of Lakshmi in Lakshmi-visishtadvaita relies heavily on Paramatmikopanishat. Lakshmi in the chid-achid-visishta-advaita frame-work, is for practical purposes, and in line with Lakshmi- tantra, an independent deity with her own purushakaratva, upayatva and upeyatva (the akara-traya); she becomes owned by Vishnu, out of her own will: 
 स्वतः श्रीः स्त्वं विष्णोः स्वमसि । 
 as Parasara-bhatta describes and Vishnu become relevant only as the spouse of Vishnu : 
 भवती सम्बन्धदृष्टया हरिं पश्येम । 
@@ -94,6 +125,7 @@ Infact, Vishnu creates the world only at Lakshmi's suggestion, which is binding 
 यस्या वीक्ष्य मुखं तदिङ्गितपराधीनो 
 विधत्तेऽखिलं क्रीडेयं खलु । 
 In the Vaikhanasa framework, Vishnu (more often called Narayana) is supreme, not dependent on Lakshmi in any detail or in any manner. She is, however, inseparably united with him and whatever is the attribute of Narayana (like the power to create, to pervade everywhere, being comprended in isvara-koti, and having all things and beings as her body), Lakshmi shares in it. In fact, one cannot think of Narayana without Lakshmi. The supreme reality is unitary, it is Lakshmi-narayana. In this sense, he is described as Lakshmi-visishta-advaita. 
+
 I give below the English translation of excerpts from Rompicherla Parthasarathi-bhattar's Sanskrit commentary on Marichi's Ananda-samhita (chapter 15, PP: 267 cf., Vaikhanasa- granthamala series, 12, Igavari-palem, 1924) to illustrate the Vaikhanasa view of Lakshmi as visesha of Narayana. 
 "The Bhashyakara (viz. Srinivasa-makhin) has opined that Lakshmi who is the mother of the universe must be the first object of 
 16 
