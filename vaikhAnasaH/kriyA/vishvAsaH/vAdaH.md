@@ -37,6 +37,8 @@ title = "वादः"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+> Current vanamamalai jeeyar has openly stated that he won't do 5s for vaikhanasa arcakas as it is not in line with agama. He made the statement during his 80th year celebration iirc (in 2024). - RL
+
 > Kurungudi & Vanamamalai take tapamudras. Supposedly some in Srivi and Thiruthankal ("they absolutely refuse").  
 > Nathan Koil, Nachiyarkoil, Thirukkovalur and sriperumbudur too have. 
 > Nachiyarkoil has VK-tilaka archakas & RDP only is recited in the temple. But - the archakas take tApa-mudras themselves to work in places like nathan koil and VKs do not ask them to.  
